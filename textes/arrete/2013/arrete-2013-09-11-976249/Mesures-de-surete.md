@@ -230,11 +230,7 @@ Article A-1 I-T - Aérodromes concernés
 
 Par dérogation aux dispositions de la présente annexe, les aérodromes et les zones délimitées des aérodromes visés à l'article 1er du règlement (UE) n°1254/2009 de la Commission du 18 décembre 2009 peuvent faire l'objet de mesures de sûreté adaptées et procurant un niveau de protection adéquat sur la base d'une évaluation locale des risques.
 
-Ces mesures sont précisées par un arrêté du préfet exerçant les pouvoirs de police sur l'aérodrome, pris en application de l'
-
-article R. 213-1-2 du code de l'aviation civile
-
-.
+Ces mesures sont précisées par un arrêté du préfet exerçant les pouvoirs de police sur l'aérodrome, pris en application de l'article R. 213-1-2 du code de l'aviation civile.
 
 Article A-2 I-T - Définitions
 
@@ -266,11 +262,7 @@ Au sens du présent arrêté, on désigne par :
 
 Article A-3 I-T - Mesures complémentaires des opérateurs
 
-Les dispositions de la présente annexe ne font pas obstacle à l'établissement de mesures complémentaires à l'initiative des organismes, personnes ou entreprises mentionnées au L.6341-2 du
-
-code des transports
-
-dès lors que leur mise en œuvre ne se fait pas au détriment desdites dispositions.
+Les dispositions de la présente annexe ne font pas obstacle à l'établissement de mesures complémentaires à l'initiative des organismes, personnes ou entreprises mentionnées au L.6341-2 du code des transports dès lors que leur mise en œuvre ne se fait pas au détriment desdites dispositions.
 
 Article A-4 - Mesures relatives aux vols sensibles
 
@@ -374,11 +366,7 @@ Dans le cadre des modalités de recrutement et de formation du personnel mention
 
 Article B-6 I-T - Modifications du programme de sûreté et suivi
 
-I. - Les entités citées à l'article B-1 informent l'autorité administrative compétente mentionnée à l'
-
-article R. 213-2-1 du code de l'aviation civile
-
-, rapidement et au plus tard dans les dix jours ouvrables après leur prise d'effet, des modifications apportées à leur programme de sûreté.
+I. - Les entités citées à l'article B-1 informent l'autorité administrative compétente mentionnée à l'article R. 213-2-1 du code de l'aviation civile, rapidement et au plus tard dans les dix jours ouvrables après leur prise d'effet, des modifications apportées à leur programme de sûreté.
 
 II. - Sans préjudice du I, des dispositions de l'article 1-1-1 et des dispositions d'application du chapitre 12 de l'annexe du règlement (UE) 2015/1998 susvisé, toute modification envisagée du programme de sûreté qui nécessite une analyse de conformité au regard de la législation nationale ou la réglementation européenne et nationale en vigueur est transmise à l'autorité administrative compétente au moins quinze jours ouvrables avant la prise d'effet envisagée de ladite modification.
 
@@ -388,17 +376,9 @@ Chapitre C : Tests de performance en situation opérationnelle
 
 Article C-1 I-T - Tests de performance en situation opérationnelle
 
-I. - En application de l'
+I. - En application de l'article R. 213-5-1 du code de l'aviation civile, des tests de performance en situation opérationnelle sont mis en œuvre conformément aux dispositions du présent article.
 
-article R. 213-5-1 du code de l'aviation civile
-
-, des tests de performance en situation opérationnelle sont mis en œuvre conformément aux dispositions du présent article.
-
-II. - Les organismes, personnes ou entreprises mentionnées au L. 6341-2 du
-
-code des transports
-
-peuvent réaliser des tests de performance en situation opérationnelle dans le cadre de leur programme d'assurance qualité pour les mesures de sûreté qu'ils mettent en œuvre ou dont ils ont la responsabilité de la mise en œuvre. Ces tests peuvent porter sur l'évaluation de l'application effective des mesures de sûreté suivantes :
+II. - Les organismes, personnes ou entreprises mentionnées au L. 6341-2 du code des transports peuvent réaliser des tests de performance en situation opérationnelle dans le cadre de leur programme d'assurance qualité pour les mesures de sûreté qu'ils mettent en œuvre ou dont ils ont la responsabilité de la mise en œuvre. Ces tests peuvent porter sur l'évaluation de l'application effective des mesures de sûreté suivantes :
 
 1. Contrôle de l'accès aux zones de sûreté à accès réglementé ;
 
@@ -438,31 +418,15 @@ Chapitre D : Habilitation
 
 Article D-1 I-T - Durée de validité
 
-L'habilitation relevant des articles
-
-R. 213-3
-
-et
-
-R. 213-3-1
-
-du code de l'aviation civile est délivrée pour une durée qui n'excède pas trois ans.
+L'habilitation relevant des articles R. 213-3 et R. 213-3-1 du code de l'aviation civile est délivrée pour une durée qui n'excède pas trois ans.
 
 Article D-2 I-T - Relation entre habilitation et vérification des antécédents
 
-La possession de l'habilitation prévue à l'
-
-article L. 6342-3 du code des transports
-
-vaut réalisation de l'alinéa b du point 11.1.3 de l'annexe du règlement (UE) 2015/1998 susvisé.
+La possession de l'habilitation prévue à l'article L. 6342-3 du code des transports vaut réalisation de l'alinéa b du point 11.1.3 de l'annexe du règlement (UE) 2015/1998 susvisé.
 
 Article D-3 I-T - Cas particulier des ressortissants étrangers résidant depuis moins de cinq ans en France
 
-Les ressortissants étrangers résidant depuis moins de cinq ans en France sont tenus de fournir, à la demande des services chargés des enquêtes prévues à l'article L. 6342-3 et au
-
-point IV de l'article L. 6342-4 du code des transports
-
-, un relevé des condamnations pénales, le cas échéant accompagné de sa traduction certifiée en langue française, délivré par les autorités du ou des Etats de résidence des cinq dernières années et portant sur cette période.
+Les ressortissants étrangers résidant depuis moins de cinq ans en France sont tenus de fournir, à la demande des services chargés des enquêtes prévues à l'article L. 6342-3 et au point IV de l'article L. 6342-4 du code des transports, un relevé des condamnations pénales, le cas échéant accompagné de sa traduction certifiée en langue française, délivré par les autorités du ou des Etats de résidence des cinq dernières années et portant sur cette période.
 
 Titre 2 : MESURES DE SÛRETÉ
 
@@ -522,11 +486,7 @@ En tant que de besoin, l'exploitant d'aérodrome peut être autorisé par le pr�
 
 Article 1-2-1-2 - Catégories de personnes réputées détenir l'autorisation d'accès au côté piste
 
-Les personnes réputées détenir l'autorisation d'accès au côté piste prévue par l'
-
-article R. 213-3-2 du code de l'aviation civile
-
-sont les suivantes :
+Les personnes réputées détenir l'autorisation d'accès au côté piste prévue par l'article R. 213-3-2 du code de l'aviation civile sont les suivantes :
 
 1. Les personnels des services compétents de l'Etat porteurs d'une carte professionnelle ;
 
@@ -650,11 +610,7 @@ Article 1-2-4-1 I-T - Obligations supplémentaires des entreprises de transport 
 
 L'entreprise de transport aérien délivre le certificat de membre d'équipage mentionné au b du 1.2.2.2 de l'annexe du règlement (UE) n° 2015/1998 susvisé pour chaque membre d'équipage rattaché à l'un de ses établissements situés sur le territoire national.
 
-Elle s'assure que la personne qui demande à bénéficier d'un certificat de membre d'équipage possède l'habilitation prévue à l'
-
-article L. 6342-3 du code des transports
-
-. La durée de validité du certificat de membre d'équipage ne peut dépasser celle de cette habilitation.
+Elle s'assure que la personne qui demande à bénéficier d'un certificat de membre d'équipage possède l'habilitation prévue à l'article L. 6342-3 du code des transports. La durée de validité du certificat de membre d'équipage ne peut dépasser celle de cette habilitation.
 
 Elle ne remet le certificat de membre d'équipage que sur présentation d'un document attestant l'identité de son bénéficiaire.
 
@@ -674,11 +630,7 @@ Article 1-2-5-1 - Liste des titres de circulation aéroportuaire
 
 Sont considérés comme des titres de circulation aéroportuaire valables mentionnés au c du point 1.2.2.2 de l'annexe du règlement (UE) 2015/1998 susvisé :
 
-1. Les titres de circulation aéroportuaire délivrés dans les conditions prévues au
-
-II et III de l'article R. 213-3-3 du code de l'aviation civile
-
-. Ces titres de circulation donnent accès à tout ou partie de la zone de sûreté à accès règlementé du ou des aérodromes concernés.
+1. Les titres de circulation aéroportuaire délivrés dans les conditions prévues au II et III de l'article R. 213-3-3 du code de l'aviation civile. Ces titres de circulation donnent accès à tout ou partie de la zone de sûreté à accès règlementé du ou des aérodromes concernés.
 
 2. Les titres de circulation temporaires délivrés par le préfet exerçant les pouvoirs de police sur l'aérodrome aux personnes titulaires d'un des titres de circulation prévus au 1 du présent article valide sur un ou plusieurs autres aérodromes. Le titre de circulation aéroportuaire est alors constitué du titre de circulation temporaire et d'un titre de circulation prévu au 1 du présent article. La durée de validité du titre de circulation temporaire n'excède ni la durée du titre de circulation aéroportuaire mentionné au 1 du présent article, ni la durée prévisible de l'activité de son titulaire en zone de sûreté à accès règlementé de l'aérodrome concerné.
 
@@ -806,15 +758,7 @@ L'accompagnant respecte alors les c et d du point 1.2.7.3 de l'annexe du règlem
 
 Article 1-2-7-3 I-T - Titre de circulation accompagnée
 
-Le préfet exerçant les pouvoirs de police sur l'aérodrome délivre les titres de circulation accompagnée en vue d'autoriser l'accès accompagné en zone de sûreté à accès réglementé aux personnes dépourvues de l'habilitation prévue au
-
-I de l'article R. 213-3 du code de l'aviation civile
-
-. Cette délivrance peut donner lieu à l'enquête administrative prévue à l'
-
-article R. 114-4 du code de la sécurité intérieure
-
-.
+Le préfet exerçant les pouvoirs de police sur l'aérodrome délivre les titres de circulation accompagnée en vue d'autoriser l'accès accompagné en zone de sûreté à accès réglementé aux personnes dépourvues de l'habilitation prévue au I de l'article R. 213-3 du code de l'aviation civile. Cette délivrance peut donner lieu à l'enquête administrative prévue à l'article R. 114-4 du code de la sécurité intérieure.
 
 Article 1-2-7-4 I-T - Obligations des entités faisant la demande d'un titre de circulation accompagnée
 
@@ -1254,11 +1198,7 @@ Article 11-1-2 - Accès aux informations non publiquement accessibles
 
 Avant d'accéder à une formation prévue aux points 11.2.3, 11.2.4 et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé, un agent doit avoir subi avec succès la vérification de ses antécédents prévue au point 11.1.3 de ladite annexe.
 
-Les
-
-dispositions du IV de l'article R. 213-4-5 du code de l'aviation civile
-
-s'appliquent exclusivement à la vérification des antécédents relevant du présent article.
+Les dispositions du IV de l'article R. 213-4-5 du code de l'aviation civile s'appliquent exclusivement à la vérification des antécédents relevant du présent article.
 
 Section 2 : Formation
 
@@ -1576,21 +1516,13 @@ Les sessions d'examen sont surveillées par une personne indépendante de tout o
 
 Article 11-3-2 T - Modalités de certification des agents relevant des points 11.2.3.1 à 11.2.3.5 de l'annexe du règlement (UE) 2015/1998 susvisé
 
-I. - En application de l'
-
-article R. 213-4-1 du code de l'aviation civile
-
-, l'Ecole nationale de l'aviation civile (ENAC) est désignée pour organiser les examens de certification des agents de sûreté de l'aviation civile relevant des points 11.2.3.1 à 11.2.3.5 de l'annexe du règlement (UE) 2015/1998 susvisé.
+I. - En application de l'article R. 213-4-1 du code de l'aviation civile, l'Ecole nationale de l'aviation civile (ENAC) est désignée pour organiser les examens de certification des agents de sûreté de l'aviation civile relevant des points 11.2.3.1 à 11.2.3.5 de l'annexe du règlement (UE) 2015/1998 susvisé.
 
 II. - Les centres d'examen où sont organisés les examens de certification des agents de sûreté de l'aviation civile sont accrédités par le directeur de l'ENAC.
 
 Le directeur de l'ENAC fixe les critères, notamment relatifs aux équipements informatiques, aux connexions internet et aux aménagements de salles, permettant d'obtenir cette accréditation.
 
-Il peut retirer ou, en cas d'urgence, suspendre l'accréditation d'un centre d'examen, dans les conditions prévues à l'
-
-article 24 de la loi n° 2000-321 du 12 avril 2000
-
-relative aux droits des citoyens dans leurs relations avec les administrations, si ce dernier ne répond plus à ces critères.
+Il peut retirer ou, en cas d'urgence, suspendre l'accréditation d'un centre d'examen, dans les conditions prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations, si ce dernier ne répond plus à ces critères.
 
 Les centres d'examens mis à disposition par des organismes d'Etat ne sont pas soumis à ces dispositions.
 
@@ -1652,11 +1584,31 @@ En l'absence de renouvellement ou en cas d'échec lors du processus de renouvell
 
 Section 4 : Formation périodique
 
-Article 11-4-1 - Formation périodique des agents
+Article 11-4-1 - Dispositions générales
 
-L'employeur des agents qui effectuent les tâches énumérées au point 11.2 de l'annexe du règlement (UE) 2015/1998 susvisé met en œuvre la formation périodique et les examens correspondants, tels que définis au point 11.4.3 et le cas échéant aux points 11.4.1 et 11.4.2 de cette même annexe et s'assure qu'elle est suivie avec succès. Les durées et périodicités minimales de formation périodique sont précisées à l'appendice 11B. La vérification des compétences n'est pas incluse dans ces durées minimales.
+L'employeur des agents qui effectuent les tâches énumérées au point 11.2 de l'annexe du règlement (UE) 2015/1998 susvisé met en œuvre la formation périodique et les examens correspondants, tels que définis au point 11.4.3 et le cas échéant aux points 11.4.1 de cette même annexe et s'assure qu'elle est suivie avec succès. Les durées et périodicités minimales de formation périodique sont précisées à l'appendice 11B. La vérification des compétences n'est pas incluse dans ces durées minimales.
+
+L'employeur des agents mentionnés à l'alinéa précédent s'assure qu'ils ont suivi avec succès une formation conforme aux exigences des articles 11-4-2 et 11-4-3 de la présente annexe.
 
 Lorsque leurs compétences n'ont pas été exercées pendant plus de six mois, ces personnes suivent une formation périodique définie aux points 11.4.1 et 11.4.2 et 11.4.3 de l'annexe du règlement (UE) 2015/1998 susvisé avant la reprise de fonctions de sûreté.
+
+Article 11-4-2 - Formation périodique des agents relevant des points 11.4.1 et 11.4.2 de l'annexe du règlement (UE) 2015/1998 susvisé
+
+Article laissé intentionnellement vide.
+
+Article 11-4-3 - Formation périodique des agents relevant du a du point 11.4.3 de l'annexe du règlement (UE) 2015/1998 susvisé
+
+La formation périodique des agents qui exécutent les tâches énumérées au point 11.2 de l'annexe du règlement (UE) 2015/1998 susvisé, autres que celles visées aux points 11.4.1 et 11.4.2 de cette même annexe, dite “ formation périodique hors imagerie ”, s'organise en deux parties :
+
+-un enseignement théorique reprenant les compétences nécessaires à l'agent,
+
+-un enseignement pratique s'appuyant sur les savoir-faire de l'agent et intégrant les retours d'expérience.
+
+L'employeur communique à l'instructeur les informations nécessaires à la préparation des cours et à la réalisation de la formation relatives à chacune de ces parties.
+
+Article 11-4-4 .-Formation périodique des agents relevant du b du point 11.4.3 de l'annexe du règlement (UE) 2015/1998 susvisé
+
+Les informations relatives aux nouvelles menaces et aux nouvelles dispositions légales à appliquer sont rapidement dispensées aux agents par un instructeur ou par un tuteur répondant aux exigences du a du III de l'article 11-2-1-2 de la présente annexe.
 
 Section 5 : Qualification des instructeurs
 
@@ -1706,11 +1658,7 @@ La durée de validité d'une certification d'instructeur est limitée à cinq an
 
 Article 11-5-4 T - Modalités de certification des instructeurs dispensant les formations mentionnées aux points 11.2.3.1 à 11.2.3.5, 11.2.4 (sauf s'il s'agit de la formation des agents qui supervisent directement les agents visées aux point 11.2.3.6 à 11.2.3.10) et 11.2.5 de l'annexe du règlement (UE) 2015/1998 susvisé
 
-I. - En application de l'
-
-article R. 213-4-1 du code de l'aviation civile
-
-, l'ENAC est désignée pour organiser les examens de certification des instructeurs en sûreté de l'aviation civile relevant du point 11.5.1 de l'annexe du règlement (UE) 2015/1998 susvisé.
+I. - En application de l'article R. 213-4-1 du code de l'aviation civile, l'ENAC est désignée pour organiser les examens de certification des instructeurs en sûreté de l'aviation civile relevant du point 11.5.1 de l'annexe du règlement (UE) 2015/1998 susvisé.
 
 II. - Le directeur de l'ENAC désigne, pour les examens de certification d'instructeur en sûreté de l'aviation civile correspondant aux modules général et management, les membres du jury qui comprend à minima :
 
@@ -1790,11 +1738,7 @@ X. - Le directeur de l'ENAC fixe les modalités d'application du présent articl
 
 Article 11-5-5 - Vérification des antécédents des instructeurs
 
-En application de l'alinéa a du point 11.5.1 de l'annexe du règlement (UE) 2015/1998 susvisé et dans les conditions définies par les articles D-1, D-2, 11-1-1, 11-1-2 de la présente annexe, la vérification satisfaisante des antécédents d'un instructeur est assurée par son employeur, notamment par la délivrance de l'habilitation relevant de l'
-
-article L. 6342-3 du code des transports
-
-.
+En application de l'alinéa a du point 11.5.1 de l'annexe du règlement (UE) 2015/1998 susvisé et dans les conditions définies par les articles D-1, D-2, 11-1-1, 11-1-2 de la présente annexe, la vérification satisfaisante des antécédents d'un instructeur est assurée par son employeur, notamment par la délivrance de l'habilitation relevant de l'article L. 6342-3 du code des transports.
 
 L'instructeur, lors de son inscription à une formation relevant du point 11-5-2 du présent arrêté, présente à l'organisme en charge de délivrer cette formation le bulletin n° 3 de son casier judiciaire ou son équivalent répondant aux exigences de l'article 11-1-1 de la présente annexe.
 
@@ -2244,261 +2188,133 @@ Partie 5 : Durées et périodicités minimales des formations périodiques hors 
 
 |
 
-Durée
+Durée |
 
-|
+périodicité |
 
-Périodicité
+Formations délivrées par un instructeur certifié |
 
-|
+Typologie 1 |
 
-Formations délivrées par un instructeur certifié
+07h00 |
 
-|
+annuelle |
 
-Typologie 1
+Typologie 2 |
 
-|
+14h00 |
 
-06h00
+annuelle |
 
-|
+Typologie 3 |
 
-semestre calendaire
+07h00 |
 
-|
+annuelle |
 
-Typologie 2
+Typologie 4 |
 
-|
+07h00 |
 
-10h30
+annuelle |
 
-|
+Typologie 5 |
 
-semestre calendaire
+07h00 |
 
-|
+annuelle |
 
-Typologie 3
+Typologie 6 |
 
-|
+14h00 |
 
-07h00
+annuelle |
 
-|
+Typologie 7 |
 
-semestre calendaire
+14h00 |
 
-|
+annuelle |
 
-Typologie 4
+Typologie 8 |
 
-|
+07h00 |
 
-06h00
+annuelle |
 
-|
+Typologie 9 |
 
-semestre calendaire
+14h00 |
 
-|
+5 ans |
 
-Typologie 5
+Typologie 10 |
 
-|
+21h00 |
 
-07h00
+annuelle |
 
-|
+11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.1 à 11.2.3.5 |
 
-semestre calendaire
+21h00 |
 
-|
+5 ans |
 
-Typologie 6
+11.2.3.3 : contrôles visuels et fouilles manuelles du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport. |
 
-|
+5h00 |
 
-10h30
+5 ans |
 
-|
+Formations délivrées par un instructeur certifié ou qualifié |
 
-semestre calendaire
+11.2.3.6 : fouille de sûreté des aéronefs |
 
-|
+03h30 |
 
-Typologie 7
+5 ans |
 
-|
+11.2.3.7 : protection des aéronefs |
 
-10h30
+03h30 |
 
-|
+5 ans |
 
-semestre calendaire
+11.2.3.8 : vérification de concordance entre passagers et bagages |
 
-|
+03h30 |
 
-Typologie 8
+5 ans |
 
-|
+11.2.3.9 : contrôles de sûreté sur le fret et le courrier autre que l'inspection/ le filtrage ou accès à du fret ou du courrier aérien identifiable |
 
-03h00
+03h30 |
 
-|
+5 ans |
 
-semestre calendaire
+11.2.3.10 : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/ le filtrage |
 
-|
+03h30 |
 
-Typologie 9
+5 ans |
 
-|
+11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.10. |
 
-14h00
+10h30 |
 
-|
+5 ans |
 
-sur 5 ans
+11.2.6.2 : accès sans escorte aux zones de sûreté à accès réglementé |
 
-|
+02h00 |
 
-Typologie 10
+3 ans |
 
-|
+11.2.7 : sensibilisation à la sûreté générale |
 
-14h00
+01h30 |
 
-|
-
-semestre calendaire
-
-|
-
-11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.1 à 11.2.3.5
-
-|
-
-21h00
-
-|
-
-sur 5 ans
-
-|
-
-11.2.3.3 : contrôles visuels et fouilles manuelles du courrier et du matériel des transporteurs aériens, des approvisionnements de bord et des fournitures d'aéroport.
-
-|
-
-5h00
-
-|
-
-sur 5 ans
-
-|
-
-Formations délivrées par un instructeur certifié ou qualifié
-
-|
-
-11.2.3.6 : fouille de sûreté des aéronefs
-
-|
-
-03h30
-
-|
-
-sur 5 ans
-
-|
-
-11.2.3.7 : protection des aéronefs
-
-|
-
-03h30
-
-|
-
-sur 5 ans
-
-|
-
-11.2.3.8 : vérification de concordance entre passagers et bagages
-
-|
-
-03h30
-
-|
-
-sur 5 ans
-
-|
-
-11.2.3.9 : contrôles de sûreté sur le fret et le courrier autre que l'inspection/le filtrage ou accès à du fret ou du courrier aérien identifiable
-
-|
-
-03h30
-
-|
-
-sur 5 ans
-
-|
-
-11.2.3.10 : contrôles de sûreté sur le courrier et le matériel des transporteurs aériens, les approvisionnements de bord et les fournitures d'aéroport autre que l'inspection/le filtrage
-
-|
-
-03h30
-
-|
-
-sur 5 ans
-
-|
-
-11.2.4 : formation spécifique des personnes supervisant directement des personnes effectuant les contrôles de sûreté 11.2.3.6. à 11.2.3.10.
-
-|
-
-10h30
-
-|
-
-sur 5 ans
-
-|
-
-11.2.6.2 : accès sans escorte aux zones de sûreté à accès réglementé
-
-|
-
-02h00
-
-|
-
-sur 3 ans
-
-|
-
-11.2.7 : sensibilisation à la sûreté générale
-
-|
-
-01h30
-
-|
-
-sur 5 ans
-
-|
+5 ans |
 
 Appendice 11C : Grilles de suivi de formation sur le tas et d'évaluation des compétences
 
@@ -3542,11 +3358,7 @@ Article 12-9-3-3 - Vérification des antécédents des conducteurs de chiens
 
 Avant d'accéder à une des formations relevant de l'article 12-9-3-2 de la présente annexe, un conducteur de chiens doit avoir subi avec succès la vérification de ses antécédents prévue au point 11.1.3. de l'annexe du règlement (UE) 2015/1998 susvisé, dans les conditions précisées par l'article 11-1-1 de la présente annexe.
 
-Les
-
-dispositions du IV de l'article R. 213-4-5 du code de l'aviation civile
-
-s'appliquent également à la vérification des antécédents relevant du présent article.
+Les dispositions du IV de l'article R. 213-4-5 du code de l'aviation civile s'appliquent également à la vérification des antécédents relevant du présent article.
 
 Article 12-9-3-4 T - Qualification des instructeurs
 
@@ -3914,11 +3726,7 @@ Création de l'article
 
 |
 
-Modalités particulières pour l'application du L. 6342-3 du
-
-code des transports
-
-pour les ressortissants étrangers résidant depuis moins de 5 ans en France.
+Modalités particulières pour l'application du L. 6342-3 du code des transports pour les ressortissants étrangers résidant depuis moins de 5 ans en France.
 
 |
 
@@ -5602,9 +5410,7 @@ Modification de l'article
 
 |
 
-Mise en cohérence avec le R.213-4 du
-
-code de l'aviation civile
+Mise en cohérence avec le R.213-4 du code de l'aviation civile
 
 |
 
@@ -5956,9 +5762,7 @@ Modification de l'article
 
 |
 
-Mise en cohérence avec le R.213-4 du
-
-code de l'aviation civile
+Mise en cohérence avec le R.213-4 du code de l'aviation civile
 
 |
 
@@ -6515,3 +6319,5 @@ Ancienne section 12-13
 NOTA :
 
 Se reporter aux modalités d'application prévues aux II et III de l'article 2 de l'arrêté du 14 mai 2018.
+
+Conformément à l'article 6 de l’arrêté du 26 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
