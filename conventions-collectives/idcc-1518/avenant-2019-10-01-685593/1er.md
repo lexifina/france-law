@@ -1,0 +1,5 @@
+# Article 1er
+
+Compte tenu de la nature et de l'objet du présent avenant, les partenaires sociaux confirment ne pas avoir entendu prendre de stipulations spécifiques à l'égard des entreprises de moins de 50 salariés, dès lors que le présent avenant vise à modifier le régime conventionnel de remboursement de frais de soins de santé dont doivent bénéficier les salariés relevant de la convention collective, et ce quelle que soit la taille de leur entreprise.
+
+Le présent avenant s'applique donc à l'ensemble des entreprises visées dans son champ d'application quel que soit leur effectif.
