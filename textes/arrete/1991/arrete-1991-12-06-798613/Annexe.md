@@ -368,7 +368,7 @@ A
 
 |
 
-2. Inspections académiques :
+2. Directions académiques des services de l'éducation nationale :
 
 |
 
@@ -558,7 +558,7 @@ A
 
 |
 
-4. Personnels nommés dans les emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche, d'adjoint au secrétaire général d'académie, de secrétaire général de direction des services départementaux de l'éducation nationale et de secrétaire général de vice-rectorat
+4. Personnels nommés dans les emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche, d'adjoint au secrétaire général de région académique, d'adjoint au secrétaire général d'académie, de secrétaire général de direction des services départementaux de l'éducation nationale et de secrétaire général de vice-rectorat
 
 |
 
