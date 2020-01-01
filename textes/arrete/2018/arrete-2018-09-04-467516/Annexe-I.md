@@ -1050,7 +1050,7 @@ Institut français
 
 Institut français de recherche pour l'exploitation de la mer
 
-Institut français des sciences et technologies des transports, de l'aménagement et des réseaux
+Université Gustave Eiffel
 
 Institut français du cheval et de l'équitation
 
@@ -1288,7 +1288,7 @@ Université de Limoges
 
 Université de Lorraine
 
-Université de Marne-la-Vallée
+Université Gustave Eiffel
 
 Université de Montpellier
 
