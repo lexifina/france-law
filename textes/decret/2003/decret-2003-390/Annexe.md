@@ -338,15 +338,11 @@ Pointe-à-Pitre
 
 |
 
-Cayenne
+Fort-de-France
 
 |
 
 Martinique
-
-|
-
-Fort-de-France
 
 |
 
