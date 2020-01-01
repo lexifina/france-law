@@ -12,7 +12,7 @@ INDEMNISATION
 
 Magistrat d'un parquet général de cour d'appel.
 
-Magistrat d'un parquet de tribunal de grande instance ou de première instance.
+Magistrat d'un parquet de tribunal judiciaire ou de première instance.
 
 Juge des libertés et de la détention.
 
@@ -20,7 +20,7 @@ Juge d'instruction.
 
 Juge des enfants.
 
-Juge d'un tribunal de grande instance ou de première instance, chargé du service d'un tribunal d'instance, assurant une permanence électorale.
+Juge d'un tribunal judiciaire ou de première instance, assurant une permanence électorale.
 
 |
 
@@ -40,7 +40,7 @@ En cas d'astreinte de jour un lundi férié.
 
 |
 
-Magistrat d'un parquet de tribunal de grande instance ou de première instance.
+Magistrat d'un parquet de tribunal judiciaire ou de première instance.
 
 Juge des libertés et de la détention.
 
@@ -49,3 +49,7 @@ Juge des libertés et de la détention.
 En cas d'astreinte de nuit.
 
 |
+
+NOTA :
+
+Conformément aux dispositions de l'article 3 de l'arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.

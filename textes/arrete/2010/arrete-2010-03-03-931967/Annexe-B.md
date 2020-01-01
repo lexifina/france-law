@@ -40,9 +40,9 @@ la septième année
 
 Cour d'appel de Bastia.
 
-Tribunal de grande instance d'Ajaccio.
+Tribunal de judiciaire d'Ajaccio.
 
-Tribunal de grande instance de Bastia.
+Tribunal judiciaire de Bastia.
 
 |
 
@@ -61,3 +61,7 @@ Tribunal de grande instance de Bastia.
 4
 
 |
+
+NOTA :
+
+Conformément aux dispositions de l'article 3 de l'arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
