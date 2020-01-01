@@ -1,0 +1,787 @@
+# Article 1er
+
+« Le détail des garanties en vigueur à compter du 1er janvier 2020 est repris ci-après.
+
+Les niveaux d'indemnisation définis ci-dessous s'entendent y compris les prestations versées par la sécurité sociale, dans la limite des frais réellement engagés par les bénéficiaires.
+
+Abréviations :
+
+BR : base de remboursement retenue par l'assurance maladie obligatoire pour déterminer le montant de son remboursement.
+
+CCAM : classification commune des actes médicaux.
+
+DPTM (dispositifs de pratique tarifaire maîtrisée) : OPTAM/ OPTAM-CO.
+
+OPTAM : option pratique tarifaire maîtrisée.
+
+OPTAM-CO : option pratique tarifaire maîtrisée – chirurgie-obstétrique.
+
+€ : euro.
+
+FR : frais réels engagés par le bénéficiaire.
+
+HLF : honoraires limites de facturation fixés selon la réglementation en vigueur à la date des soins effectués par le bénéficiaire.
+
+PLV : prix limites de vente fixés selon la réglementation en vigueur à la date des soins effectués par le bénéficiaire.
+
+PMSS : plafond mensuel de la sécurité sociale.
+
+RSS : remboursement sécurité sociale = montant remboursé par l'assurance maladie obligatoire et calculé par application du taux de remboursement légal en vigueur à la base de remboursement.
+
+TM : ticket modérateur soit partie de la base de remboursement non prise en charge par l'assurance maladie obligatoire (TM = BR – RSS).
+
+Hospitalisation |
+
+Nature des frais en cas d'hospitalisation médicale,
+
+chirurgicale et de maternité |
+
+Niveaux d'indemnisation |
+
+Conventionné |
+
+Non conventionné |
+
+Frais de séjour |
+
+250 % BR |
+
+Forfait journalier hospitalier |
+
+100 % des FR limité au forfait réglementaire en vigueur |
+
+Honoraires
+
+|
+
+Actes de chirurgie (ADC)
+
+Actes d'anesthésie (ADA)
+
+Actes techniques médicaux (ATM)
+
+Autres honoraires |
+
+Adhérents DPTM :
+
+Non adhérents DPTM : |
+
+300 % BR
+
+200 % BR |
+
+Chambre particulière (*) |
+
+80 € par jour |
+
+Frais d'accompagnement
+
+|
+
+Frais d'accompagnement d'un enfant à charge de moins de 16 ans (sur présentation d'un justificatif) |
+
+25 € par jour |
+
+(*) Dans la limite de 60 jours en hospitalisation médicale et chirurgicale, de 90 jours par année civile en maison de repos, de convalescence ou d'accueil spécialisé pour handicapés en secteur psychiatrique. |
+
+Transport |
+
+Nature des frais |
+
+Niveaux d'indemnisation |
+
+Transport remboursé sécurité sociale |
+
+100 % BR |
+
+Soins courants |
+
+Nature des frais |
+
+Niveaux d'indemnisation |
+
+Conventionné |
+
+Non conventionné |
+
+Honoraires médicaux
+
+|
+
+Remboursés sécurité sociale : |
+
+Généralistes (consultations et visites) |
+
+Adhérents DPTM : |
+
+200 % BR |
+
+Non adhérents DPTM : |
+
+130 % BR |
+
+Spécialistes (consultations et visites) |
+
+Adhérents DPTM : |
+
+250 % BR |
+
+Non adhérents DPTM : |
+
+200 % BR |
+
+Actes de chirurgie (ADC) |
+
+Adhérents DPTM : |
+
+200 % BR |
+
+Actes techniques médicaux (ATM) |
+
+Non adhérents DPTM : |
+
+150 % BR |
+
+Actes d'imagerie médicale (ADI) |
+
+Adhérents DPTM : |
+
+200 % BR |
+
+Actes d'échographie (ADE) |
+
+Non adhérents DPTM : |
+
+150 % BR |
+
+Non remboursés sécurité sociale |
+
+Acupuncture, chiropractie, ostéopathie, podologue, phytothérapie (si consultations pratiquées par un professionnel de santé recensé au répertoire ADELI ou exerçant dans un établissement recensé au répertoire FINESS) |
+
+45 € par acte limité à 4 actes par année civile |
+
+Densitométrie osseuse |
+
+Crédit de 80 € par année civile |
+
+Honoraires paramédicaux
+
+|
+
+Auxiliaires médicaux (actes remboursés sécurité sociale) |
+
+110 % BR |
+
+Analyses et examens de laboratoire
+
+|
+
+Analyses et examens de biologie médicale remboursés sécurité sociale |
+
+110 % BR |
+
+Médicaments
+
+|
+
+Remboursés sécurité sociale |
+
+100 % BR |
+
+Non remboursés sécurité sociale |
+
+Contraception prescrite |
+
+Crédit de 80 € par année civile |
+
+Pharmacie (hors médicaments) :
+
+|
+
+Remboursée sécurité sociale |
+
+100 % BR |
+
+Non remboursée sécurité sociale |
+
+Sevrage tabagique |
+
+Crédit de 80 € par année civile |
+
+Matériel médical
+
+|
+
+Orthopédie remboursée sécurité sociale |
+
+100 % BR + crédit de 600 € par année civile |
+
+Autres prothèses médicales et appareillages remboursés sécurité sociale (hors auditives, dentaires et d'optique) |
+
+100 % BR + crédit de 600 € par année civile |
+
+Actes de prévention remboursés sécurité sociale
+
+|
+
+Actes de prévention définis par la réglementation |
+
+100 % de la BR |
+
+Santé bucco-dentaire
+
+|
+
+Campagne d'incitation à une consultation de prévention bucco-dentaire à des âges clés (1). |
+
+Nature de l'action : Examen bucco-dentaire de prévention à 35 ans et à 55 ans. |
+
+Niveau de prise en charge : selon conditions contractuelles prévues au poste dentaire du présent tableau de garantie. |
+
+Actions en lien avec le traitement des cancers et la prévention de leurs récidives
+
+|
+
+Aide à la décision thérapeutique, notamment opératoire, d'un cancer (la pertinence médicale de cette aide est subordonnée à l'avis des médecins en charge du patient [oncologues ; chirurgien …]). |
+
+Nature de l'action : prise en charge d'un forfait d'acte d'analyse aboutissant à la modélisation 3D des structures anatomiques et pathologiques d'un patient visibles à partir de son image médicale 3D (scanner ou IRM) pour un patient ayant une suspicion de cancer opérable. |
+
+Niveau de prise en charge : à hauteur de 450 € HT/ acte. |
+
+Prévention des récidives de cancers |
+
+Nature de l'action : programme d'accompagnement progressif et personnalisé de lutte contre les récidives après un traitement de cancers à partir des interventions non médicamenteuses suivantes : activité physique adaptée, alimentation et engagement motivationnel. |
+
+Accompagnement d'une durée de 3 à 12 mois selon un niveau d'intervention et de progression défini par les professionnels de santé du programme. |
+
+Niveau de prise en charge : prise en charge totale et directe du coût du programme. |
+
+Bilans de prévention
+
+|
+
+Bilan de prévention personnel |
+
+Nature de l'action : accès à un bilan personnel de prévention en ligne permettant une analyse des habitudes de vie et des conseils personnalisés en prévention. |
+
+Niveau de prise en charge : prise en charge totale et directe du coût du programme. |
+
+Aides auditives |
+
+Nature des frais |
+
+Niveaux d'indemnisation |
+
+|
+
+Conventionné |
+
+Non conventionné |
+
+Jusqu'au 31 décembre 2020
+
+|
+
+Aides auditives remboursées sécurité sociale |
+
+Aides auditives |
+
+100 % BR + crédit de 1 200 € par année civile |
+
+Piles et autres consommables ou accessoires remboursés sécurité sociale (*) |
+
+100 % BR |
+
+À compter du 1er janvier 2021
+
+|
+
+Équipements 100 % santé (**) |
+
+Aides auditives pour les personnes au-delà de leur 20e anniversaire |
+
+RSS + 100 % des frais restant à charge du bénéficiaire après intervention de la sécurité sociale, dans la limite des PLV (***) |
+
+Aides auditives pour les personnes jusqu'au 20e anniversaire ou les personnes atteintes de cécité (entendue comme une acuité visuelle inférieure à 1/20 après correction) |
+
+Équipements libres (****) |
+
+Aides auditives pour les personnes au-delà de leur 20e anniversaire |
+
+100 % BR + 1 200 € (***) |
+
+Aides auditives pour les personnes jusqu'au 20e anniversaire ou les personnes atteintes de cécité (entendue comme une acuité visuelle inférieure à 1/20 après correction) |
+
+100 % BR + 300 € (***) |
+
+Piles remboursées et autres consommables ou accessoires remboursés sécurité sociale (*) |
+
+100 % BR |
+
+(*) Pour les piles, la garantie s'applique dans la limite du nombre annuel de paquets fixé par l'arrêté du 14 novembre 2018.
+
+(**) Équipements de classe I, tels que définis réglementairement.
+
+(***) La garantie s'applique aux frais exposés pour l'acquisition d'une aide auditive par oreille, par période de 4 ans suivant la date de délivrance de l'aide auditive précédente (ce délai s'entendant pour chaque oreille indépendamment).
+
+(****) Équipements de classe II, tels que définis réglementairement.
+
+S'agissant des aides auditives comprises dans l'équipement libre (classe II), la garantie couvre dans tous les cas, le montant minimal de prise en charge fixé par la réglementation en vigueur, relative au “ contrat responsable ”. La prise en charge dans le cadre du présent régime s'effectue par ailleurs dans la limite du plafond de remboursement prévu par cette même réglementation (1 700 € RSS inclus au 1er janvier 2021). |
+
+Dentaire |
+
+Nature des frais |
+
+Niveaux d'indemnisation |
+
+|
+
+Conventionné |
+
+Non conventionné |
+
+Soins et prothèses 100 % santé (*)
+
+|
+
+Inlay core |
+
+RSS + 100 % des frais restant à charge du bénéficiaire après intervention de la sécurité sociale, dans la limite des HLF |
+
+Autres soins prothétiques et prothèses dentaires |
+
+Prothèses
+
+|
+
+Panier maîtrisé (**) |
+
+Inlay, onlay |
+
+420 % BR dans la limite des HLF |
+
+Inlay core |
+
+330 % BR dans la limite des HLF |
+
+Autres soins prothétiques et prothèses dentaires |
+
+420 % BR dans la limite des HLF |
+
+Panier libre (***) |
+
+Inlay, onlay |
+
+420 % BR |
+
+Inlay core |
+
+330 % BR |
+
+Autres soins prothétiques et prothèses dentaires |
+
+420 % BR |
+
+Soins
+
+|
+
+Soins dentaires conservateurs, chirurgicaux ou de prévention |
+
+100 % BR |
+
+Autres actes dentaires remboursés sécurité sociale
+
+|
+
+Orthodontie remboursée sécurité sociale |
+
+250 % BR |
+
+Actes dentaires non remboursés sécurité sociale
+
+|
+
+Soins prothétiques et prothèses dentaires, pour des actes codés dans la CCAM et ayant une base de remboursement sécurité sociale |
+
+300 % BR |
+
+Parodontologie |
+
+Crédit de 200 € par année civile |
+
+Implants dentaires (la garantie « implantologie » comprend la pose d'un implant à l'exclusion de tout acte annexe : scanner, pilier …) |
+
+Forfait de 1 000 € par implant, limité à 3 implants par année civile |
+
+Orthodontie |
+
+300 % BR |
+
+(*) Soins prothétiques et prothèses dentaires relevant du panier 100 % santé, tels que définis réglementairement.
+
+(**) Soins prothétiques et prothèses dentaires relevant du panier maîtrisé, tels que définis réglementairement.
+
+(***) Soins prothétiques et prothèses dentaires relevant du panier libre, tels que définis réglementairement. |
+
+Optique |
+
+Nature des frais |
+
+Niveaux d'indemnisation |
+
+|
+
+|
+
+Conventionné |
+
+Non conventionné |
+
+Équipements 100 % santé (*)
+
+|
+
+Monture de classe A : adulte et enfant de 16 ans et + (**) |
+
+RSS + 100 % des frais restant à charge du bénéficiaire après intervention de la sécurité sociale, dans la limite des PLV |
+
+Monture de classe A : enfant – de 16 ans (**) |
+
+Verres de classe A : adulte et enfant de 16 ans et + (**) |
+
+Verres de classe a : enfant – de 16 ans (**) |
+
+Prestation d'appairage pour des verres de classe A d'indices de réfraction différents (tous niveaux) |
+
+RSS + 100 % des frais restant à charge du bénéficiaire après intervention de la sécurité sociale, dans la limite des PLV |
+
+Supplément pour verres avec filtres de classe A |
+
+RSS + 100 % des frais restant à charge du bénéficiaire après intervention de la sécurité sociale, dans la limite des PLV |
+
+Équipements libres (***)
+
+|
+
+Monture de classe B : adulte et enfant de 16 ans et + (**) |
+
+100 € |
+
+Monture de classe B : enfant-de 16 ans (**) |
+
+100 € |
+
+Verres de classe B : adulte et enfant de 16 ans et + (**) |
+
+Montants indiqués dans la grille optique ci-après, en fonction du type de verres |
+
+Verres de classe B : enfant-de 16 ans (**) |
+
+Prestations supplémentaires portant sur un équipement d'optique de classe A ou B
+
+|
+
+Prestation d'adaptation de la prescription médicale de verres correcteurs après réalisation d'un examen de la réfraction, en cas de renouvellement par l'opticien-lunetier d'une ordonnance pour des verres de classe A |
+
+100 % BR dans la limite des PLV |
+
+Prestation d'adaptation de la prescription médicale de verres correcteurs après réalisation d'un examen de la réfraction, en cas de renouvellement par l'opticien-lunetier d'une ordonnance pour des verres de classe B |
+
+100 % BR dans la limite des PLV |
+
+Supplément pour verres avec filtres de classe B |
+
+100 % BR dans la limite des PLV |
+
+Autres suppléments pour verres de classe A ou B (prisme/ système antiptosis/ verres iséiconiques) |
+
+100 % BR |
+
+Autres dispositifs médicaux d'optique
+
+|
+
+Lentilles acceptées par la sécurité sociale |
+
+100 % BR + Crédit de 200 € par année civile |
+
+Lentilles refusées par la sécurité sociale (y compris lentilles jetables) |
+
+Crédit de 200 € par année civile |
+
+Chirurgie réfractive (myopie, hypermétropie, astigmatisme, presbytie) |
+
+Crédit de 1 500 € par année civile |
+
+(*) Équipements de classe A et prestations supplémentaires portant sur l'équipement de classe A pris en charge dans le cadre du “ 100 % santé ”, tels que définis réglementairement.
+
+Panachage des verres et monture : un équipement peut être composé de deux verres d'une part, et d'une monture d'autre part, appartenant à des classes (A ou B) différentes.
+
+(**) Conditions de renouvellement de l'équipement :
+
+La garantie s'applique aux frais exposés pour l'acquisition d'un équipement optique (composé de deux verres et d'une monture) dans les conditions de renouvellement fixées par l'arrêté du 3 décembre 2018 modifiant la prise en charge d'optique médicale de la Liste des produits et prestations (LPP) prévue à l'article L. 165-1 du code de la sécurité sociale, et rappelées ci-après :
+
+Pour les adultes et pour les enfants de 16 ans et plus, le renouvellement de la prise en charge d'un équipement est possible au terme d'une période minimale de 2 ans après la dernière prise en charge d'un équipement.
+
+Pour les enfants de plus de 6 ans et de moins de 16 ans, le renouvellement de la prise en charge d'un équipement est possible au terme d'une période minimale de 1 an après le dernier remboursement d'un équipement.
+
+Pour les enfants jusqu'à 6 ans, le renouvellement de la prise en charge d'un équipement est possible au terme d'une période minimale de 6 mois après le dernier remboursement d'un équipement uniquement en cas de mauvaise adaptation de la monture à la morphologie du visage de l'enfant entraînant une perte d'efficacité du verre correcteur. Dans les autres cas, le délai de 1 an mentionné à l'alinéa précédent s'applique.
+
+Les différents délais s'entendent par rapport à la date de délivrance du dernier dispositif de l'équipement d'optique concerné pour l'application du délai. Les différents délais sont également applicables pour le renouvellement séparé des éléments de l'équipement et dans ce cas, le délai de renouvellement s'apprécie distinctement pour chaque élément.
+
+Par dérogation aux dispositions ci-dessus, le renouvellement anticipé de la prise en charge pour raison médicale d'un équipement pour les adultes et enfants d'au moins 16 ans est permis au terme d'une période minimale de 1 an lorsque intervient une dégradation des performances oculaires dans au moins l'une des situations suivantes :
+
+– variations de la sphère ou du cylindre d'au moins 0,5 dioptrie d'un verre, ou d'au moins 0,25 dioptrie pour chacun des deux verres ;
+
+– variation d'au moins 0,5 dioptrie de l'addition (pour un verre), ou d'au moins 0,25 dioptrie pour chacun des deux verres en cas de presbytie et en l'absence de variation de la vision de loin ;
+
+– somme des variations (en valeur absolue) de loin et de près d'au moins 0,5 dioptrie (pour un verre), en cas de presbytie et en présence de variation de la vision de loin ;
+
+– variation de l'axe du cylindre de plus de 20° pour un cylindre (+) inférieur ou égal à 1,00 dioptrie ;
+
+– variation de l'axe du cylindre de plus de 10° pour un cylindre (+) de 1,25 à 4,00 dioptries ;
+
+– variation de l'axe du cylindre de plus de 5° pour un cylindre (+) > 4,00 dioptries.
+
+La justification d'une évolution de la vue (dans les limites rappelées ci-dessus) doit être effectuée soit au travers d'une nouvelle prescription médicale, qui est comparée à la prescription médicale précédente, soit selon les dispositions de l'article D. 4362-12-1 du code de la santé publique lorsque l'opticien-lunetier adapte la prescription médicale lors d'un renouvellement de délivrance.
+
+Par dérogation également, pour les enfants de moins de 16 ans, aucun délai de renouvellement minimal des verres n'est applicable lorsque intervient une dégradation des performances oculaires objectivée par un ophtalmologiste sur une prescription médicale.
+
+Par dérogation enfin, aucun délai de renouvellement minimal des verres n'est applicable en cas d'évolution de la réfraction liée à des situations médicales particulières, précisées par la liste fixée ci-après et sous réserve d'une nouvelle prescription médicale ophtalmologique :
+
+– les troubles de réfraction associés à une pathologie ophtalmologique :
+
+– – glaucome ;
+
+– – hypertension intraoculaire isolée ;
+
+– – DMLA et atteintes maculaires évolutives ;
+
+– – rétinopathie diabétique ;
+
+– – opération de la cataracte datant de moins de 1 an ;
+
+– – cataracte évolutive à composante réfractive ;
+
+– – tumeurs oculaires et palpébrales ;
+
+– – antécédents de chirurgie réfractive datant de moins de 6 mois ;
+
+– – antécédents de traumatisme de l'œil sévère datant de moins de 1 an ;
+
+– – greffe de cornée datant de moins de 1 an ;
+
+– – kératocône évolutif ;
+
+– – kératopathies évolutives ;
+
+– – dystrophie cornéenne ;
+
+– – amblyopie ;
+
+– – diplopie récente ou évolutive ;
+
+– les troubles de réfraction associés à une pathologie générale :
+
+– – diabète ;
+
+– – maladies auto-immunes (notamment Basedow, sclérose en plaques, polyarthrite rhumatoïde, lupus, spondylarthrite ankylosante) ;
+
+– – hypertension artérielle mal contrôlée ;
+
+– – sida ;
+
+– – affections neurologiques à composante oculaire ;
+
+– – cancers primitifs de l'œil ou autres cancers pouvant être associés à une localisation oculaire secondaire ou à un syndrome paranéoplasique ;
+
+– les troubles de réfraction associés à la prise de médicaments au long cours :
+
+– – corticoïdes ;
+
+– – antipaludéens de synthèse ;
+
+– – tout autre médicament qui, pris au long cours, peut entraîner des complications oculaires.
+
+La mention par l'ophtalmologiste sur l'ordonnance de ces cas particuliers est indispensable à la prise en charge dérogatoire.
+
+La prise en charge de deux équipements est autorisée uniquement pour les patients ayant :
+
+– une intolérance ou une contre-indication aux verres progressifs ou multifocaux, et présentant un déficit de vision de près et un déficit de vision de loin. Dans ce cas, la prise en charge peut couvrir deux équipements corrigeant chacun un des deux déficits mentionnés ;
+
+– une amblyopie et/ ou un strabisme nécessitant une pénalisation optique. Pour ces patients, la prise en charge peut couvrir deux équipements de corrections différentes à porter en alternance.
+
+(***) Équipements de classe B, tels que définis réglementairement.
+
+Panachage des verres et monture : un équipement peut être composé de deux verres d'une part, et d'une monture d'autre part, appartenant à des classes (A ou B) différentes.
+
+Grille optique “ verres de classe B ”
+
+Verres
+
+unifocaux
+
+multifocaux/
+
+progressifs |
+
+Avec/ sans
+
+cylindre |
+
+SPH = sphère
+
+CYL = cylindre (+)
+
+S = SPH + CYL |
+
+Montant en € par verre
+
+(RSS inclus) |
+
+|
+
+|
+
+|
+
+Adulte
+
+et enfant
+
+de 16 ans et + |
+
+Enfant
+
+– 16 ans |
+
+Unifocaux |
+
+Sphériques |
+
+SPH de – 6 à + 6 (*) |
+
+90 € |
+
+90 € |
+
+SPH < à – 6 ou > à + 6 |
+
+150 € |
+
+150 € |
+
+Sphéro
+
+cylindriques |
+
+SPH de – 6 à 0 et CYL ≤ + 4 |
+
+90 € |
+
+90 € |
+
+SPH > 0 et S ≤ + 6 |
+
+90 € |
+
+90 € |
+
+SPH > 0 et S > + 6 |
+
+150 € |
+
+150 € |
+
+SPH < – 6 et CYL ≥ + 0,25 |
+
+150 € |
+
+150 € |
+
+SPH de – 6 à 0 et CYL > + 4 |
+
+150 € |
+
+150 € |
+
+Progressifs et multifocaux |
+
+Sphériques |
+
+SPH de – 4 à + 4 |
+
+200 € |
+
+200 € |
+
+SPH < à – 4 ou > à + 4 |
+
+320 € |
+
+300 € |
+
+Sphéro
+
+cylindriques |
+
+SPH de – 8 à 0 et CYL ≤ + 4 |
+
+200 € |
+
+200 € |
+
+SPH > 0 et S ≤ + 8 |
+
+200 € |
+
+200 € |
+
+SPH de – 8 à 0 et CYL > + 4 |
+
+320 € |
+
+300 € |
+
+SPH > 0 et S > + 8 |
+
+320 € |
+
+300 € |
+
+SPH < – 8 et CYL ≥ + 0,25 |
+
+320 € |
+
+300 € |
+
+(*) Le verre neutre est compris dans cette classe. |
+
+Autres frais |
+
+Nature des frais |
+
+Niveaux d'indemnisation |
+
+Cure thermale remboursée sécurité sociale : |
+
+Frais de traitement et honoraires |
+
+100 % BR |
+
+Frais de voyage et hébergement |
+
+Forfait de 250 € |
+
+Fécondation in vitro |
+
+Crédit de 300 € par année civile |
+
+Forfait maternité |
+
+Naissance ou adoption d'un enfant déclaré (cette garantie est limitée à un paiement par enfant déclaré) |
+
+Forfait de 300 € |
+
+Les garanties du régime couvrent la prise en charge de la participation forfaitaire acquittée par le bénéficiaire en cas de réalisation d'un acte coûteux (qualifiée de forfait sur les actes dits “ lourds ”) prévue au I de l'article R. 160-16 du code de la sécurité sociale. »
