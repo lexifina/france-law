@@ -6,13 +6,11 @@ Centre national de la recherche scientifique.
 
 Institut national d'études démographiques.
 
-Institut national de la recherche agronomique.
+Institut national de recherche pour l'agriculture, l'alimentation et l'environnement.
 
 Institut national de recherche en informatique et en automatique.
 
 Institut de recherche pour le développement.
-
-Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture.
 
 Université d'Amiens.
 
@@ -66,7 +64,7 @@ Université du Havre.
 
 Université du Mans.
 
-Université de Marne-la-Vallée.
+Université Gustave Eiffel.
 
 Université Lille-I.
 
@@ -150,7 +148,7 @@ Université de Toulon.
 
 Université Toulouse-I.
 
-Université Toulouse-II .
+Université Toulouse-II.
 
 Université Toulouse-III.
 
@@ -158,7 +156,7 @@ Université de Tours.
 
 Université de Valenciennes.
 
-Université de Versailles - Saint-Quentin-en-Yvelines.
+Université de Versailles-Saint-Quentin-en-Yvelines.
 
 Ecole nationale d'ingénieurs de Brest.
 

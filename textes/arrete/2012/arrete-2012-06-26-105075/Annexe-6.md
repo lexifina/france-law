@@ -4,11 +4,11 @@ PROGRAMME DE FORMATION DES STAGES DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE 
 
 Les stages de sensibilisation à la sécurité routière visent à éviter la réitération des comportements dangereux. Ils sont composés :
 
-- d'un module tronc commun permettant de poser le cadre et les enjeux du stage, de découvrir le système de la sécurité routière, d'impliquer le stagiaire et de favoriser sa compréhension de la complexité de l'activité de conduite ;
+-d'un module tronc commun permettant de poser le cadre et les enjeux du stage, de découvrir le système de la sécurité routière, d'impliquer le stagiaire et de favoriser sa compréhension de la complexité de l'activité de conduite ;
 
-- d'un ou plusieurs modules spécialisés relatifs soit à la vitesse et aux infractions associées, soit à l'alcool ou aux produits psychoactifs, soit à la conduite des poids lourds. Le choix de ces enseignements incombe aux animateurs, à l'issue du module tronc commun , en fonction de leur connaissance des besoins des stagiaires.
+-d'un ou plusieurs modules spécialisés relatifs soit à la vitesse et aux infractions associées, soit à l'alcool ou aux produits psychoactifs, soit à la conduite des poids lourds. Le choix de ces enseignements incombe aux animateurs, à l'issue du module tronc commun, en fonction de leur connaissance des besoins des stagiaires.
 
-Le cas échéant, il peut être procédé à un entretien personnalisé et/ou une séance de conduite. Cet entretien est obligatoire pour les stagiaires dès lors qu'ils ont déjà participé à deux stages de sensibilisation à la sécurité routière. Il est d'une durée minimale de quarante-cinq minutes.
+Le cas échéant, il peut être procédé à un entretien personnalisé et/ ou une séance de conduite. Cet entretien est obligatoire pour les stagiaires dès lors qu'ils ont déjà participé à deux stages de sensibilisation à la sécurité routière. Il est d'une durée minimale de quarante-cinq minutes.
 
 a) L'entretien personnalisé est organisé en dehors de la durée de quatorze heures du stage. Il est conduit par le psychologue du stage et porte sur le comportement du stagiaire en rapport avec la ou les infractions commises ;
 
@@ -18,23 +18,23 @@ La présente annexe décline deux programmes de formation répondant à l'object
 
 Le premier programme correspond à celui des stages dits de première génération mis en œuvre depuis 1992. Il se positionne sur une conception de transmission de connaissances et de prise de conscience des facteurs de l'insécurité routière.
 
-Le second programme est celui des stages dits de deuxième génération . Il est le résultat de l'expérience acquise, des études effectuées sur les attentes et besoins du terrain et des études évaluatives menées au niveau européen. Il tient compte de la mutation du paysage de la sécurité routière et des évolutions sociétales. Il est conçu à partir d'une étude réalisée par des animateurs expérimentés, spécialisés dans la conception de programmes d'éducation, sous l'autorité scientifique de l'Institut français des sciences et technologies des transports, de l'aménagement et des réseaux (IFSTTAR), et validée par le ministère chargé de la sécurité routière.
+Le second programme est celui des stages dits de deuxième génération. Il est le résultat de l'expérience acquise, des études effectuées sur les attentes et besoins du terrain et des études évaluatives menées au niveau européen. Il tient compte de la mutation du paysage de la sécurité routière et des évolutions sociétales. Il est conçu à partir d'une étude réalisée par des animateurs expérimentés, spécialisés dans la conception de programmes d'éducation, sous l'autorité scientifique de l' Université Gustave Eiffel, et validée par le ministère chargé de la sécurité routière.
 
 Le mode d'intervention choisi vise à impulser un processus de changement d'attitudes et de comportements chez le conducteur, en cohérence avec l'objectif des programmes de réhabilitation pour les conducteurs : modifier les comportements pour prévenir la réitération d'infractions, ce qui entraînera une amélioration de la sécurité. Ce programme s'appuie sur les modèles théoriques suivants :
 
-- modèle didactique de la hiérarchie des comportements de conduite (Keskinen,1996 et Siegrist, 1999) - matrice GDE (Goals for Driver Education) ;
+-modèle didactique de la hiérarchie des comportements de conduite (Keskinen, 1996 et Siegrist, 1999)-matrice GDE (Goals for Driver Education) ;
 
-- modèles de prévention des comportements à risques validés et utilisés dans le cadre de la prévention, de l'éducation pour la santé, de la psychologie sociale et de la psychologie cognitive : modèle transthéorique de Prochaska et di Clemente (1992), théorie de l'autorégulation du comportement de Carver et Sheier (1998) ;
+-modèles de prévention des comportements à risques validés et utilisés dans le cadre de la prévention, de l'éducation pour la santé, de la psychologie sociale et de la psychologie cognitive : modèle transthéorique de Prochaska et di Clemente (1992), théorie de l'autorégulation du comportement de Carver et Sheier (1998) ;
 
-- modèles relatifs aux comportements de santé de Gebhardt et Maes (2001).
+-modèles relatifs aux comportements de santé de Gebhardt et Maes (2001).
 
-Ce programme privilégie, pour une plus grande efficience, l'auto-réflexion du conducteur en vue d'initier une stratégie personnelle de changement. Il demande une plus grande implication du conducteur stagiaire dans sa formation. Alors que dans le stage première génération , le conducteur doit réagir aux savoirs dispensés et aux échanges groupaux, dans le stage deuxième génération , il est plus actif et doit progressivement prendre conscience de son rôle d'acteur du système de circulation routière. Ce programme exige également un plus fort investissement des animateurs dans l'animation et la coanimation.
+Ce programme privilégie, pour une plus grande efficience, l'auto-réflexion du conducteur en vue d'initier une stratégie personnelle de changement. Il demande une plus grande implication du conducteur stagiaire dans sa formation. Alors que dans le stage première génération, le conducteur doit réagir aux savoirs dispensés et aux échanges groupaux, dans le stage deuxième génération, il est plus actif et doit progressivement prendre conscience de son rôle d'acteur du système de circulation routière. Ce programme exige également un plus fort investissement des animateurs dans l'animation et la coanimation.
 
 Le programme du stage deuxième génération est mis en œuvre par les animateurs ayant suivi la formation initiale ou la formation continue dispensée à l'Institut national de sécurité routière et de recherches (INSERR) de Nevers, respectivement à compter de septembre 2006 et de mai 2007. Il est amené à se substituer progressivement au stage première génération au fur et à mesure du développement de la formation continue des animateurs des stages de sensibilisation à la sécurité routière en vue de la reconstitution du nombre de points du permis de conduire. A partir du 1er janvier 2018, seuls les stages de deuxième génération pourront être dispensés.
 
 Programme des stages première génération
 
-I. - Enseignement tronc commun
+I.-Enseignement tronc commun
 
 Les facteurs généraux de l'insécurité routière
 
@@ -112,9 +112,9 @@ Fin de journée
 
 |
 
-II. - Enseignements spécialisés
+II.-Enseignements spécialisés
 
-A. - Enseignement sur le thème :
+A.-Enseignement sur le thème :
 
 Vitesse et infractions associées
 
@@ -176,7 +176,7 @@ Conduite et alcool (1 heure)
 
 |
 
-Alcool et alcoolémie, relation dose/effet, élimination de l'alcool, réglementation alcool et conduite.
+Alcool et alcoolémie, relation dose/ effet, élimination de l'alcool, réglementation alcool et conduite.
 
 |
 
@@ -188,7 +188,7 @@ Exercices sur les connaissances acquises au cours du module (correction du quest
 
 |
 
-B. - Enseignement sur le thème :
+B.-Enseignement sur le thème :
 
 Alcool, alcoolisme et conduite automobile
 
@@ -270,7 +270,7 @@ Exercices sur les connaissances acquises au cours du module.
 
 |
 
-C. - Enseignement sur le thème :
+C.-Enseignement sur le thème :
 
 La conduite des véhicules du groupe lourd
 
@@ -296,19 +296,19 @@ L'étude doit servir de support pour le développement des divers objectifs du p
 
 |
 
-Donner des notions sur le phénomène véhicules du groupe lourd .
+Donner des notions sur le phénomène véhicules du groupe lourd.
 
 |
 
 Statistiques (parc, économie, sinistralité).
 
-Réglementation sociale (temps de conduite et de repos - responsabilités - parallèle avec les véhicules légers).
+Réglementation sociale (temps de conduite et de repos-responsabilités-parallèle avec les véhicules légers).
 
 Répartition du transport.
 
 |
 
-Donner des explications sur les particularités de la conduite des véhicules du groupe lourd .
+Donner des explications sur les particularités de la conduite des véhicules du groupe lourd.
 
 |
 
@@ -352,7 +352,7 @@ Conduite et alcool (1 heure)
 
 |
 
-Alcool et alcoolémie, relation dose/effet, élimination de l'alcool, réglementation alcool et conduite.
+Alcool et alcoolémie, relation dose/ effet, élimination de l'alcool, réglementation alcool et conduite.
 
 |
 
@@ -366,7 +366,7 @@ Exercices sur les connaissances acquises au cours du module (correction du quest
 
 Programme des stages deuxième génération
 
-I. - Enseignement tronc commun : les facteurs géneraux de l'insécurité routière
+I.-Enseignement tronc commun : les facteurs géneraux de l'insécurité routière
 
 SÉQUENCES ET OBJECTIFS
 
@@ -450,7 +450,7 @@ Produits psychoactifs
 
 |
 
-II. - Enseignements specialisés (2e journée)
+II.-Enseignements specialisés (2e journée)
 
 La matrice générale présentée ci-dessous propose un schéma d'intervention qui permet aux animateurs d'adapter et de proposer une intervention en fonction du groupe ou des groupes cibles repérés. Elle est commune aux deux modules spécialisés, développés ci-après, portant sur les thématiques produits psychoactifs et vitesse et qui incluent également la problématique des jeunes conducteurs.
 
@@ -790,7 +790,7 @@ Exprimer ses attentes sur la vitesse, la transgression et le risque
 
 Mettre en évidence les attentes liées à la vitesse, à la transgression de la règle et au contrôle comportemental
 
-Examiner le rapport bénéfice/coûts dans certaines prises de risque
+Examiner le rapport bénéfice/ coûts dans certaines prises de risque
 
 |
 

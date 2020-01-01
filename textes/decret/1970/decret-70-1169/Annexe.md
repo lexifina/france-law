@@ -2,7 +2,7 @@
 
 Liste des laboratoires ou centres de recherches.
 
-Centre national de la recherche scientifique (C.N.R.S.).
+Centre national de la recherche scientifique (C. N. R. S.).
 
 Laboratoires et instituts de recherche des universités.
 
@@ -36,25 +36,25 @@ Institut franco-allemand de recherches de Saint-Louis.
 
 Laboratoires et centres de recherche rattachés au :
 
-Commissariat à l'énergie atomique (C.E.A.).
+Commissariat à l'énergie atomique (C. E. A.).
 
-Centre national d'études spatiales (C.N.E.S.).
+Centre national d'études spatiales (C. N. E. S.).
 
 Centre national pour l'exploitation des océans (Cnexo).
 
-Centre national d'études des télécommunications (C.N.E.T.).
+Centre national d'études des télécommunications (C. N. E. T.).
 
-Office national d'études et de recherches aérospatiales (0.N.E.R.A.).
+Office national d'études et de recherches aérospatiales (0. N. E. R. A.).
 
-Institut français des sciences et technologies des transports, de l'aménagement et des réseaux.
+Université Gustave Eiffel.
 
-Institut de recherche d'informatique et d'automatique (I.R.I.A.).
+Institut de recherche d'informatique et d'automatique (I. R. I. A.).
 
-Institut français du pétrole, des carburants et lubrifiants (I.F.P.).
+Institut français du pétrole, des carburants et lubrifiants (I. F. P.).
 
 Institut d'optique.
 
-Institut national de la recherche agronomique (I.N.R.A.).
+Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ( INRAE.).
 
 Etablissement d'études et de recherches météorologiques.
 
@@ -82,13 +82,13 @@ Institut textile de France.
 
 Centre technique du papier.
 
-Institut national de la statistique et des études économiques (I.N.S.E.E.).
+Institut national de la statistique et des études économiques (I. N. S. E. E.).
 
 Centre d'études prospectives d'économie et mathématiques appli ­ quées à la planification (Cepremap).
 
-Office de la recherche scientifique et technique d'outre-mer (O.R.S.T.O.M.).
+Office de la recherche scientifique et technique d'outre-mer (O. R. S. T. O. M.).
 
-Centre scientifique et technique du bâtiment (C.S.T.B.).
+Centre scientifique et technique du bâtiment (C. S. T. B.).
 
 NOTA :
 

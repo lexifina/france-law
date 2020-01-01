@@ -116,7 +116,7 @@ Université de Corse |
 
 Créteil |
 
-Université de Marne-la-Vallée |
+Université Gustave Eiffel |
 
 2 |
 

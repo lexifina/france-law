@@ -1,120 +1,78 @@
 # Article Annexe
 
-ÉTABLISSEMENT
+ÉTABLISSEMENT |
+
+DATE D'EFFET |
+
+Université Aix-Marseille-II. |
+
+1er janvier 2009 |
+
+Université de Cergy-Pontoise. |
 
 |
 
-DATE D'EFFET
+Université Clermont-Ferrand-I. |
 
 |
 
-Université Aix-Marseille-II.
+Université de Corse. |
 
 |
 
-1er janvier 2009
+Université de Limoges. |
 
 |
 
-Université de Cergy-Pontoise.
+Université Lyon-I. |
 
 |
 
-|
-
-Université Clermont-Ferrand-I.
+Université Gustave Eiffel. |
 
 |
 
-|
-
-Université de Corse.
+Université Montpellier-I. |
 
 |
 
-|
-
-Université de Limoges.
+Université de Mulhouse. |
 
 |
 
-|
-
-Université Lyon-I.
+Université Nancy-I. |
 
 |
 
-|
-
-Université de Marne-la-Vallée.
+Université Paris-V. |
 
 |
 
-|
-
-Université Montpellier-I.
+Université Paris-VI. |
 
 |
 
-|
-
-Université de Mulhouse.
+Université Paris-VII. |
 
 |
 
-|
-
-Université Nancy-I.
+Université de La Rochelle. |
 
 |
 
-|
-
-Université Paris-V.
+Université de Saint-Etienne. |
 
 |
 
-|
-
-Université Paris-VI.
+Université de Strasbourg. |
 
 |
 
-|
-
-Université Paris-VII.
+Université Toulouse-I. |
 
 |
 
-|
-
-Université de La Rochelle.
-
-|
-
-|
-
-Université de Saint-Etienne.
-
-|
-
-|
-
-Université de Strasbourg.
-
-|
-
-|
-
-Université Toulouse-I.
-
-|
-
-|
-
-Université de technologie de Troyes.
-
-|
+Université de technologie de Troyes. |
 
 |
 

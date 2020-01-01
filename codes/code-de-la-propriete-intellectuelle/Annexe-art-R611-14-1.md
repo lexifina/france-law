@@ -114,7 +114,7 @@ Agents non titulaires
 
 -Agents contractuels chargés de mission de classe exceptionnelle, agents contractuels chargés de mission de classe normale, agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975 modifié.
 
--Personnels contractuels de droit public de l' Institut Mines-Télécom recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+-Personnels contractuels de droit public de l'Institut Mines-Télécom recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 
 -autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
@@ -150,7 +150,7 @@ Agents non titulaires :
 
 -décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
 
--règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
+-règlement du 14 mai 1973 régissant les personnels non titulaires du Université Gustave Eiffel et des centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 -règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
 
