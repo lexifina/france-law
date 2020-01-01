@@ -2,73 +2,71 @@
 
 ANNEXE
 
-Force armée ou formation
+Force armée
+
+ou formation
 
 rattachée |
 
-Type
+Type d'engagement |
 
-d'engagement |
+Nombre maximum
 
-Nombre maximum de primes |
+de primes |
 
-Montant minimum de la prime |
+Montant minimum
 
-Montant
+de la prime (€) |
 
-maximum de la prime |
+Montant maximum
 
-Montant
+de la prime (€) |
 
-des primes
-
-attribuées
-
-en 2019
-
-(M€) |
-
-Montant
-
-des primes
+Montant des primes
 
 attribuées
 
-et versées
+en 2020 (M€) |
 
-en 2019 (M€) |
+Montant des primes
 
-Familles professionnelles/filières professionnelles concernées |
+attribuées et versées
+
+en 2020 (M€) |
+
+Familles professionnelles/filières
+
+professionnelles concernées |
 
 Armée de terre |
 
 Engagement à servir général (ESG) |
 
-1 253 |
+4 175 |
 
-900 € |
+900 |
 
-4 000 € |
+4 000 |
 
-2,45 |
+13,13 |
 
-2 |
+13,13 |
 
-|
+Toutes |
 
 Engagement à servir spécifique (ESS) |
 
-88 |
+954 |
 
-10 000 € |
+5 000 |
 
-10 000 € |
+10 000 |
 
-0,88 |
+7,63 |
 
-0,88 |
+3,13 |
 
-Commandement et contrôle aérospatial ; Conduite des aéronefs ; Finances ; Maintenance des matériels terrestres ; Maintien en condition opérationnelle aéronautique ; Renseignement ; Gestion des ressources humaines ; Systèmes d'information et de communication ; Logistique supply chain ; Sécurité secours incendie. |
+Commandement et contrôle aérospatial ; Conduite des aéronefs ; Maintenance des matériels terrestres ; Maintien en condition opérationnelle aéronautique ; Renseignement ; Gestion des ressources humaines ; Systèmes d'information et de communication ; Logistique supply chain ; Aide à la décision ; Affaires juridiques ; Communication ; Munitions et pyrotechnie ; Restauration Hôtellerie et Loisirs ; Opérations en milieu terrestre ; Infrastructures et politiques immobilières |
 
 Armée de l'air |
 
@@ -88,17 +86,17 @@ ESG |
 
 ESS |
 
-4 225 |
+5 120 |
 
-600 € |
+600 |
 
-25 000 € |
+25 000 |
 
-16,57 |
+16,18 |
 
-3,19 |
+4,76 |
 
-Conduite des aéronefs ; Commandement et contrôle aérospatial ; Maintien en condition opérationnelle aéronautique ; Systèmes d'information et de communication ; Munitions ; Maintenance des matériels terrestres ; Renseignement ; Opérations en milieu terrestre ; Exploitation nucléaire de défense. |
+Conduite des aéronefs ; Commandement et contrôle aérospatial ; Maintien en condition opérationnelle aéronautique ; Systèmes d'information et de communication ; Renseignement ; Munitions et pyrotechnie ; Maintenance des matériels terrestres ; Opérations en milieu terrestre ; Infrastructures et politique immobilière ; Exploitation nucléaire de Défense. |
 
 Marine nationale |
 
@@ -118,47 +116,47 @@ ESG |
 
 ESS |
 
-3 878 |
+4 209 |
 
-600 € |
+600 |
 
-25 000 € |
+25 000 |
 
-8.86 |
+15,51 |
 
-1.96 |
+4,14 |
 
-Opérations en milieu maritime ; Exploitation nucléaire de défense ; Maintien en condition opérationnelle aéronautique ; Commandement et contrôle aérospatial ; Systèmes d'information et de communication ; Gestion des ressources humaines ; Finances ; Logistique supply chain ; Achat ; Conduite des aéronefs ; Restauration, hôtellerie et loisirs ; Sécurité secours incendie ; Renseignement. |
+Opérations en milieu maritime ; Exploitation nucléaire de défense ; Systèmes de forces, systèmes d'armes et équipement ; Renseignement ; Infrastructures et politique immobilière ; Opérations en milieu terrestre ; Commandement et contrôle aérospatial ; Systèmes d'information et de communication ; Logistique supply chain ; Maintien en condition opérationnelle aéronautique ; Munitions et pyrotechnie ; Maintenance des matériels terrestres ; Conduite des aéronefs ; Soutien pétrolier ; Enseignement général ; Restauration, hôtellerie et loisirs. |
 
 Service du commissariat des armées |
 
 ESG |
 
-5 |
+9 |
 
-18 000 € |
+10 000 |
 
-18 000 € |
+20 000 |
 
-0.09 |
+0,15 |
 
-0,07 |
+0,11 |
 
-|
+Achats ; Finances/droits financiers individuels ; Logistique supply chain ; Systèmes d'information et de communication/management des systèmes d'information |
 
 ESS |
 
-9 |
+21 |
 
-10 000 € |
+5 000 |
 
-10 000 € |
+10 000 |
 
-0,09 |
+0,18 |
 
-0,03 |
+0,06 |
 
-Achat ; Logistique supply chain ; Restauration, hôtellerie et loisirs. |
+Achats, Finances/droits financiers individuels ; logistique supply chain ; Systèmes d'information et de communication/management des systèmes d'information |
 
 Service des essences des armées |
 
@@ -178,65 +176,77 @@ ESG |
 
 ESS |
 
-7 |
+50 |
 
-4 000 € |
+4 000 |
 
-4 000 € |
+10 000 |
 
-0,03 |
+0,22 |
 
-0,02 |
+0,22 |
 
-Opérations en milieu terrestre ; Soutien pétrolier ; Maintenance des matériels terrestres ; Systèmes d'information et de communication. |
+Soutien pétrolier/maintenance matériels pétroliers ; Opérations en milieu terrestre/ISTC |
 
 Service de santé des armées |
 
-ESG |
+ESG (praticiens officiers) |
 
-15
+100 |
 
-(praticiens des armées) |
+25 000 |
 
-25 000 €
+25 000 |
 
-(praticiens des armées) |
+2,50 |
 
-25 000 €
+0,75 |
 
-(praticiens des armées) |
+Santé/ Anesthésie-réanimation, Chirurgie orthopédique, chirurgie viscérale, médecins des forces, psychiatrie, neurochirurgie, médecine d'urgence en exercice hospitalier, médecine du travail, de prévention, radiologie |
 
-0,38 |
+ESS (praticiens officiers) |
 
-0 € |
+12 |
 
-|
+25 000 |
 
-ESS |
+25 000 |
 
-24
+0,30 |
 
-(praticiens des armées) |
+0,10 |
 
-25 000 €
+Nouveau dispositif attractivité attribué au 1er semestre 2020 aux praticiens, et reconduction du dispositif pour les MITHA. |
 
-(praticiens des armées) |
+ESG (MITHA sous-officiers) |
 
-25 000 €
+120 |
 
-(praticiens des armées) |
+1 080 |
 
-0,60 |
+5 430 |
 
-0,2 |
+0,56 |
 
-Santé. |
+0,08 |
+
+ESS (MITHA sous-officiers) |
+
+240 |
+
+762 |
+
+8 000 |
+
+0,95 |
+
+0,20 |
 
 Service de la justice militaire |
 
 ESG |
 
-0 |
+|
 
 |
 
@@ -250,14 +260,14 @@ ESG |
 
 ESS |
 
-4 |
+1 |
 
-9 000 € |
+15 000 |
 
-18 000 € |
-
-0,05 |
+15 000 |
 
 0,02 |
+
+0,00 |
 
 Affaires juridiques. |
