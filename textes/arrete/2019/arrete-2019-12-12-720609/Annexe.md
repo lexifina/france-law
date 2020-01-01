@@ -1,0 +1,75 @@
+# Article Annexe
+
+ANNEXE
+
+PERSONNES HABILITÉES |
+
+MONTANT MAXIMUM
+
+DES MARCHÉS (1) |
+
+Marchés
+
+de fournitures et de services |
+
+Marchés de travaux |
+
+Le commandant du soutien opérationnel de la gendarmerie nationale |
+
+Illimité |
+
+Les commandants de région de gendarmerie située au siège d'une zone de défense et de sécurité |
+
+MAPA × 180 |
+
+MAPA × 2 |
+
+Les commandants de région de gendarmerie non-située au siège d'une zone de défense et de sécurité |
+
+MAPA × 1 |
+
+MAPA × 2 |
+
+Le commandant des écoles de la gendarmerie nationale |
+
+MAPA × 40 |
+
+MAPA × 2 |
+
+Le commandant de l'école des officiers de la gendarmerie nationale |
+
+MAPA × 1 |
+
+Le commandant de la gendarmerie outre-mer |
+
+MAPA × 10 |
+
+MAPA × 1 |
+
+Les commandants de gendarmerie outre-mer |
+
+MAPA × 10 |
+
+MAPA × 1 |
+
+Le commandant du pôle judiciaire de la gendarmerie nationale |
+
+MAPA × 1 |
+
+Le commandant des forces aériennes de la gendarmerie nationale |
+
+MAPA × 1 |
+
+Le commandant de la gendarmerie des transports aériens |
+
+MAPA × 1 |
+
+Le commandant du groupe d'intervention de la gendarmerie nationale |
+
+MAPA × 1 |
+
+Le commandant de la garde républicaine |
+
+MAPA × 1 |
+
+(1) L'expression « MAPA × » s'entend comme suit : marché ou accord-cadre dont le montant est inférieur à n fois le seuil de procédure formalisée tel que défini dans l'avis prévu par les dispositions de l'article R. 2124-1 du code de la commande publique et en dessous duquel les marchés et accords-cadres peuvent être passés selon une procédure adaptée. |
