@@ -8,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27, 64, 64-1, 64-1-2, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat une dotation annuelle correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27,64,64-1,64-1-2,64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat une dotation annuelle correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
@@ -26,7 +26,7 @@ Conformément aux dispositions du deuxième alinéa de l'article 21-1 de la loi 
 
 Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat. Les enregistrements distinguent également l'origine des fonds affectés à l'aide juridique (dotation de l'Etat, produit des recettes prévues à l'article 1001 du code général des impôts et au V de l'article 42 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016).
 
-Une dotation complémentaire peut être versée conformément aux articles 91 et 132-6 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal de grande instance près duquel il est établi un protocole relatif à l'organisation de la défense, homologué par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas il convient de se référer aux dispositions contenues dans ledit protocole (cf. chapitre IV).
+Une dotation complémentaire peut être versée conformément à l'article 91 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal judiciaire près duquel il est établi une convention locale relative à l'aide juridique, homologuée par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas, il convient de se référer aux dispositions contenues dans ladite convention (cf. chapitre IV).
 
 Article 2
 
@@ -48,7 +48,7 @@ a) Emploi des produits financiers ;
 
 b) Placements financiers ;
 
-c) (s'il y a lieu) protocole articles 91 et 132-6.
+c) (s'il y a lieu) Convention locale relative à l'aide juridique.
 
 Article 3
 
@@ -70,7 +70,7 @@ La Carpa doit être équipée d'un logiciel homologué par le garde des sceaux, 
 
 Article 6
 
-La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés au titre de l'aide juridictionnelle, des aides à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée ainsi que, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
+La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés au titre de l'aide juridictionnelle, des aides à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée ainsi que, le cas échéant, de la convention locale relative à l'aide juridique conclue en application de l'article 91 du décret du 19 décembre 1991 susvisé.
 
 Article 7
 
@@ -84,7 +84,7 @@ Article 8
 
 Les placements de fonds correspondant aux dotations reçues au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat doivent être distincts des autres placements effectués par la Carpa.
 
-Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
+Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre de la convention locale relative à l'aide juridique conclue en application de l'article 91 du décret du 19 décembre 1991 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
 
 Les fonds versés en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridique.
 
@@ -98,7 +98,7 @@ Le montant des produits financiers perçus est arrêté, au plus tard, le 31 dé
 
 Article 11
 
-Les produits financiers perçus par la Carpa pour les fonds reçus au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 susvisé.
+Les produits financiers perçus par la Carpa pour les fonds reçus au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément à la convention locale relative à l'aide juridique conclue en application de l'article 91 du décret du 19 décembre 1991 susvisé.
 
 Article 12
 
@@ -126,7 +126,7 @@ La rétribution finale due à l'avocat ayant accompli une mission d'aide juridic
 
 2° Et, selon le cas :
 
--d'une attestation de mission délivrée par le greffe ou d'une attestation de mission adressée au mandataire par le moyen de l'application informatique mentionnée à l'article R. 414-1 du code de justice administrative accompagnée de l'accusé de réception délivré par l'application informatique lors de la consultation de cette pièce ; (2)
+-d'une attestation de mission délivrée par le greffe ou d'une attestation de mission adressée au mandataire par le moyen de l'application informatique mentionnée à l' article R. 414-1 du code de justice administrative ou de celle mentionnée à l'article R. 733-12 du code de l'entrée et du séjour des étrangers et du droit d'asile, accompagnée de l'accusé de réception délivré par l'application informatique lors de la consultation de cette pièce ; (2)
 
 -d'une ordonnance du président de la juridiction saisie ;
 
@@ -256,9 +256,9 @@ protocole des articles 91 et 132-6 du décret
 
 Article 26
 
-Les rétributions versées aux avocats dans le cadre du protocole, quel que soit leur mode de calcul, sont inscrites sur un compte de rétributions particulières. Les autres charges supportées par l'ordre ou la Carpa sont inscrites dans leur comptabilité propre.
+Les rétributions versées aux avocats dans le cadre de la convention locale relative à l'aide juridique, quel que soit leur mode de calcul, sont inscrites sur un compte de rétributions particulières. Les autres charges supportées par l'ordre ou la Carpa sont inscrites dans leur comptabilité propre.
 
-Il est, en outre, établi un état récapitulatif annuel comportant l'ensemble des produits et charges correspondant aux actions entrant dans le champ visé par le protocole.
+Il est, en outre, établi un état récapitulatif annuel comportant l'ensemble des produits et charges correspondant aux actions entrant dans le champ visé par la convention locale relative à l'aide juridique.
 
 Article 27
 
@@ -300,9 +300,9 @@ Dans le cas d'un changement d'avocat en cours de procédure, si une provision a 
 
 A défaut d'accord sur la répartition finale de la contribution de l'Etat, le bâtonnier peut être saisi conformément à l'article 103 du décret du 19 décembre 1991 précité.
 
-Chapitre VI
+Chapitre IV
 
-Dispositions diverses relatives à la gestion des comptes avocats
+Convention locale relative à l'aide juridique conclue en application de l'article 91
 
 Article 35
 
@@ -370,6 +370,6 @@ Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avoc
 
 NOTA :
 
-(1) Décret n° 2016-1876 du 27 décembre 2016, art. 49 : Les modifications sont applicables à compter du 1er janvier 2016, conformément au VII de l'article 42 de la loi du 29 décembre 2015 de finances pour 2016.
+Conformément à l’article 21 du décret n° 2019-1064 du 17 octobre 2019, les dispositions entrent en vigueur à compter du 1er janvier 2020.
 
-(2) Décret n° 2016-1876 du 27 décembre 2016, art. 51 : Ces dispositions sont applicables à compter du 1er janvier 2017.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
