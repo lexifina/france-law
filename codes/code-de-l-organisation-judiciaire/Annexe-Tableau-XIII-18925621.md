@@ -2,156 +2,108 @@
 
 Liste des bureaux fonciers
 
-(annexe de l'article D. 223-3)
+(annexe de l'article D. 215-4)
 
-TRIBUNAL D'INSTANCE
+SIEGE
 
-|
+DU TRIBUNAL
 
-BUREAU FONCIER
+JUDICIAIRE |
 
-|
+SIEGE
 
-RESSORT
+DE LA CHAMBRE
 
-|
+DE PROXIMITE |
 
-Cour d'appel de Colmar
+BUREAU FONCIER |
 
-|
+RESSORT |
 
-Thann
-
-|
-
-Thann
+Cour d'appel de Colmar |
 
 |
 
-Ressort du tribunal d'instance de Thann
+|
+
+Colmar |
+
+Ressort du tribunal judiciaire de Colmar à l'exception du ressort des chambres de proximité de Guebwiller et de Sélestat |
+
+Colmar |
+
+Guebwiller |
+
+Guebwiller |
+
+Ressort de la chambre de proximité de Guebwiller |
 
 |
 
-Colmar
+Sélestat |
+
+Sélestat |
+
+Ressort de la chambre de proximité de Sélestat |
+
+Mulhouse |
 
 |
 
-Colmar
+Mulhouse |
+
+Ressort du tribunal judiciaire de Mulhouse à l'exception du ressort de la chambre de proximité de Thann |
 
 |
 
-Ressort du tribunal d'instance de Colmar
+Thann |
+
+Thann |
+
+Ressort de la chambre de proximité de Thann |
+
+Saverne |
+
+Saverne |
+
+Ressort du tribunal judiciaire de Saverne |
+
+Strasbourg |
 
 |
 
-Guebwiller
+Strasbourg |
+
+Ressort du tribunal judiciaire de Strasbourg à l'exception du ressort de la chambre de proximité d'Haguenau |
 
 |
 
-Guebwiller
+Haguenau |
 
-|
+Haguenau |
 
-Ressort du tribunal d'instance de Guebwiller
+Ressort de la chambre de proximité d'Haguenau |
 
-|
+Cour d'appel de Metz |
 
-Haguenau
+Metz |
 
-|
+Metz |
 
-Haguenau
+Ressort du tribunal judiciaire de Metz |
 
-|
+Sarreguemines |
 
-Ressort du tribunal d'instance de Haguenau
+Sarreguemines |
 
-|
+Ressort du tribunal judiciaire de Sarreguemines |
 
-Mulhouse
+Thionville |
 
-|
+Thionville |
 
-Mulhouse
+Ressort du tribunal judiciaire de Thionville |
 
-|
+NOTA :
 
-Ressort du tribunal d'instance de Mulhouse
-
-|
-
-Saverne
-
-|
-
-Saverne
-
-|
-
-Ressort du tribunal de grande instance de Saverne
-
-|
-
-Sélestat
-
-|
-
-Sélestat
-
-|
-
-Ressort du tribunal d'instance de Sélestat
-
-|
-
-Strasbourg
-
-|
-
-Strasbourg
-
-|
-
-Ressort des tribunaux d'instance d'Illkirch-Graffenstaden, de Schiltigheim et de Strasbourg
-
-|
-
-Cour d'appel de Metz
-
-|
-
-Metz
-
-|
-
-Metz
-
-|
-
-Ressort du tribunal de grande instance de Metz
-
-|
-
-Sarreguemines
-
-|
-
-Sarreguemines
-
-|
-
-Ressort du tribunal de grande instance de Sarreguemines
-
-|
-
-Thionville
-
-|
-
-Thionville
-
-|
-
-Ressort du tribunal de grande instance de Thionville
-
-|
+Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.
