@@ -182,11 +182,11 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 MOLP* :
 
-- Domaine 1: deux prises d'essai et deux préparations.
+- domaine 1: deux prises d'essai et deux préparations.
 
 META+ :
 
-- Domaine 1: deux prises d'essai conduisant à une préparation et la préparation conduit à deux grilles.
+- domaine 1 : deux prises d'essai conduisant à une préparation et la préparation conduit à deux grilles , est supprimée.
 
 IV. - MÉTHODES EN VUE DE LA DÉTECTION ET DE L'IDENTIFICATION D'AMIANTE NATURELLEMENT PRÉSENT DANS LES MATÉRIAUX ET PRODUITS MANUFACTURÉS
 
