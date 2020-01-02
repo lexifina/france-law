@@ -186,6 +186,8 @@ Flutazolam ;
 
 Fonazepam ou norflunitrazepam ou (N-) desmethylflunitrazepam ;
 
+Kratom, mitragynine et 7-hydroxymitragynine ;
+
 Meclonazepam ;
 
 Metizolam ;
