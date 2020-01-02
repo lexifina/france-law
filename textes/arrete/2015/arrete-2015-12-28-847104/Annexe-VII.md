@@ -2,245 +2,117 @@
 
 LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE VII
 
-1° Administration centrale :
+1° Gendarmerie départementale :
 
--Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (7 emplois)
+Commandant en second de la section de recherches :
 
--Chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi)
-
--Chargé de fonction auprès du commandement de la direction des personnels militaires de la gendarmerie nationale (1 emploi)
-
--Chef du service de diffusion de la gendarmerie
-
-2° Inspection générale de la gendarmerie nationale :
-
--Chef de cabinet
-
-3° Gendarmerie départementale :
-
--Commandant de la compagnie fluviale de gendarmerie de Strasbourg
-
--Commandant en second de la compagnie de gendarmerie départementale :
-
--d'Aix-en-Provence
-
--d'Alès
-
--d'Angers
-
--d'Annecy
-
--de l'Arbresle
-
--d'Arles
-
--d'Arras
-
--d'Aubagne
-
--d'Auxerre
-
--d'Avesnes-sur-Helpe
-
--d'Avignon
-
--de Bayonne
+-d'Angers (à compter du 1er janvier 2020)
 
 -de Besançon
 
--de Béziers
-
--de Bonneville
-
--de Bouliac
-
--de Bourg-en-Bresse
-
--de Bourgoin-Jallieu
-
--de Brignoles
-
--de Brive-la-Gaillarde
-
--de Bron
+-de Bourges
 
 -de Caen
 
--de Calais
-
--de Cambrai
-
--de Cannes
-
--de Carcassonne
-
--de Castelnau-le-Lez
-
--de Castres
-
 -de Chambéry
 
--de Chantilly
-
--de Château-Gontier
-
--de Colmar
-
--de Commercy
-
--de Compiègne
-
--de Coulommiers
-
--de Crest
-
--de Dax
-
--de Douai
-
--de Draguignan
-
--d'Etampes
-
--d'Evry
-
--de la Flèche
-
--de Gex
-
--de Givors
+-de Clermont-Ferrand
 
 -de Grenoble
 
--de l'Isle-Adam
-
--de Langon-Toulenne
-
--de Libourne
-
--de Lille
-
--de Lorient
-
--de Lunel
-
--de Lure
-
--de Lyon
-
--du Mans
-
--de Mantes-la-Jolie
-
--de Marmande
-
--de Meaux
-
--de Mérignac
-
--de Méru
+-de Limoges
 
 -de Metz
 
--de Meylan
-
--de Montbéliard
-
--de Montbrison
-
--de Montmorency
-
--de Mulhouse
-
--de Muret
-
 -de Nancy
 
--de Nantes
-
--de Narbonne
+-de Nantes (à compter du 1er janvier 2020)
 
 -de Nîmes
 
--de Niort
+-de Pau
 
--d'Orléans
-
--de Palaiseau
-
--de Perpignan
-
--de Pertuis
-
--de Pézenas
-
--de Rambouillet
-
--de Remiremont
+-de Poitiers
 
 -de Rennes
 
--de Rezé
+-de Rouen
 
--de la Roche-sur-Yon
+Commandant de l'escadron départemental de sécurité routière :
 
--de Rochefort
+-des Alpes-de-Haute-Provence
 
--de Rodez
+-de l'Ardèche
 
--de Romans-sur-Isère
+-des Ardennes
 
--des Sables-d'Olonne
+-de l'Ariège
 
--de Saint-Brieuc
+-de l'Aveyron
 
--de Saint-Germain-en-Laye
+-du Cantal
 
--de Saint-Nazaire
+-de la Charente
 
--de Salon-de-Provence
+-de la Corse-du-Sud
 
--de Senlis
+-de la Creuse
 
--de Sens
+-des Deux-Sèvres
 
--de Soultz-Guebwiller
+-de l'Essonne
 
--de Strasbourg
+-du Gers
 
--de Thionville
+-de la Guadeloupe
 
--de Toulouse-Mirail
+-de la Haute-Corse
 
--de Toulouse-Saint-Michel
+-de la Haute-Loire
 
--de Tournon-sur-Rhône
+-de la Haute-Saône
 
--de Trévoux
+-des Hautes-Alpes
 
--de Vannes
+-des Hautes-Pyrénées
 
--du Vauvert
+-de la Lozère
 
--de Vesoul
+-de la Martinique
 
--de Vienne
+-de la Mayenne
 
--de Villefranche-de-Lauragais
+-de la Meuse
 
--de Villefranche-sur-Saône
+-de la Nièvre
 
--de Vitré
+-du Sud-Océan-Indien
 
--Commandant de la section de recherches de Bourges
+-de Tarn-et-Garonne
 
--Commandant de l'escadron départemental de sécurité routière :
+-du Val-d'Oise
+
+-des Vosges
+
+Commandant en second de l'escadron départemental de sécurité routière :
+
+-de l'Ain
+
+-de l'Aisne
 
 -de l'Allier
+
+-des Alpes-Maritimes
 
 -de l'Aube
 
 -de l'Aude
+
+-du Bas-Rhin
+
+-des Bouches-du-Rhône
+
+-du Calvados
 
 -de la Charente-Maritime
 
@@ -248,7 +120,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Corrèze
 
--des Côtes-d'Armor
+-des Côtes d'Armor
+
+-de Côte-d'Or
 
 -de la Dordogne
 
@@ -256,41 +130,73 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Drôme
 
--d'Eure-et-Loir
+-de l'Eure
+
+-de l'Eure-et-Loir
 
 -du Finistère
 
 -du Gard
 
--du Haut-Rhin
+-de la Gironde
+
+-de la Haute-Garonne
 
 -de la Haute-Marne
 
+-de la Haute-Savoie
+
 -de la Haute-Vienne
 
--d'Ille-et-Vilaine
+-du Haut-Rhin
+
+-de l'Hérault
+
+-de l'Ille-et-Vilaine
 
 -de l'Indre
+
+-d'Indre-et-Loire
+
+-de l'Isère
 
 -du Jura
 
 -des Landes
 
--de Loir-et-Cher
-
 -de la Loire
+
+-de Loire-Atlantique
+
+-du Loiret
+
+-du Loir-et-Cher
 
 -du Lot
 
--de Lot-et-Garonne
+-du Lot-et-Garonne
+
+-de Maine-et-Loire
 
 -de la Manche
 
--de Meurthe-et-Moselle
+-de la Marne
+
+-de la Meurthe-et-Moselle
 
 -du Morbihan
 
+-de la Moselle
+
+-du Nord
+
+-de l'Oise
+
 -de l'Orne
+
+-du Pas-de-Calais
+
+-du Puy-de-Dôme
 
 -des Pyrénées-Atlantiques
 
@@ -299,6 +205,18 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -du Rhône
 
 -de Saône-et-Loire
+
+-de la Sarthe
+
+-de la Savoie
+
+-de Seine-et-Marne
+
+-de Seine-Maritime
+
+-de la Somme
+
+-du Var
 
 -de Vaucluse
 
@@ -310,83 +228,617 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des Yvelines
 
--Commandant de la section d'appui judiciaire située au chef-lieu des régions de gendarmerie :
+Commandant en second de la compagnie de gendarmerie départementale :
 
--Commandant de brigade interdépartementale de renseignements et d'investigations judiciaires de la région de gendarmerie d'Ile-de-France
+-d'Abbeville
 
--de Nouvelle-Aquitaine
+-d'Agen
 
--de Bretagne
+-d'Ajaccio
 
--de Corse
+-d'Albertville
 
--d'Ile-de-France
+-d'Albi
 
--de Grand Est
+-d'Alençon-Argentan
 
--d'Occitanie
+-d'Altkirch
 
--des Hauts-de-France
+-d'Ambert
 
--de Provence-Alpes-Côte d'Azur
+-d'Amboise
 
--d'Auvergne-Rhône-Alpes
+-d'Amiens
 
--Commandant de la section d'appui judiciaire située au chef-lieu du groupement de gendarmerie ayant le statut de formation administrative de l'Hérault
+-d'Ancenis
 
--Commandant d'un peloton de gendarmerie de haute montagne-Chef d'un service départemental du renseignement territorial
+-des Andelys
 
--Commandant d'un peloton spécialisé de protection de la gendarmerie
+-d'Angoulême
 
--Commandant d'un peloton spécial de sécurité
+-d'Arcachon
 
-4° Gendarmerie mobile-Garde républicaine :
+-d'Argelès-Gazost
 
--Commandant en second d'un groupement de gendarmerie mobile
+-d'Aubusson
 
--Commandant d'un escadron de gendarmerie mobile
+-d'Auch
 
--Commandant en second d'un régiment de la garde républicaine
+-d'Aurillac
 
--Commandant de la compagnie de sécurité et d'honneur :
+-d'Autun
 
--1/1 du premier régiment d'infanterie
+-d'Avallon
 
--2/1 du premier régiment d'infanterie
+-d'Avranches
 
--3/1 du premier régiment d'infanterie
+-de Bagnères-de-Bigorre
 
--1/2 du deuxième régiment d'infanterie
+-de Bagnols-sur-Cèze
 
--2/2 du deuxième régiment d'infanterie
+-de Bar-sur-Aube
 
--3/2 du deuxième régiment d'infanterie
+-de Barcelonnette
 
--4/2 du deuxième régiment d'infanterie
+-de Bastia
 
--Commandant de la compagnie de sécurité et d'intervention du premier régiment d'infanterie
+-de Bayeux
 
--Commandant de la compagnie de sécurité :
+-de Beaune
 
--de la présidence de la République
+-de Beauvais
 
--de l'hôtel Matignon
+-de Bellac
 
--des palais nationaux
+-de Belley
 
--Commandant de l'escadron motocycliste de la garde républicaine
+-de Bergerac
 
--Commandant du premier escadron du régiment de cavalerie de la garde républicaine
+-de Bernay
 
--Commandant du deuxième escadron du régiment de cavalerie de la garde républicaine
+-de Béthune
 
--Commandant du troisième escadron du régiment de cavalerie de la garde républicaine
+-du Blanc
 
--Commandant du centre d'instruction de cavalerie de la garde républicaine
+-de Blaye
 
-5° Outre mer :
+-de Blois
 
-Commandant de la section de recherches :
+-de Boulay-Moselle
+
+-de Bourges
+
+-de Bressuire
+
+-de Brest
+
+-de Briançon
+
+-de Brioude
+
+-de Cahors
+
+-de Calvi
+
+-de Carpentras
+
+-de Castellane
+
+-de Castelsarrasin
+
+-de Céret
+
+-de Chalon-sur-Saône
+
+-de Châlons-en-Champagne
+
+-de Chamonix-Mont-Blanc
+
+-de Charolles
+
+-de Château-Chinon-Ville
+
+-de Château-Thierry-Nogentel
+
+-de Châteaubriant
+
+-de Châteaudun
+
+-de Châteaulin
+
+-de Châtellerault
+
+-de la Châtre
+
+-de Chaumont
+
+-de Cherbourg-en-Cotentin
+
+-de Chinon
+
+-de Cholet
+
+-de Clermont
+
+-de Clermont-Ferrand
+
+-de Cognac
+
+-de Condom
+
+-de Confolens
+
+-de Corte
+
+-de Cosne-Cours-sur-Loire
+
+-de Coutances
+
+-de Deauville
+
+-de Dieppe
+
+-de Digne-les-Bains
+
+-de Dijon
+
+-de Dinan
+
+-de Dole
+
+-de Domfront-en-Poiraie
+
+-de Dreux
+
+-de Dunkerque-Hoymille
+
+-d'Ecuires
+
+-d'Epernay
+
+-d'Evreux
+
+-de Falaise
+
+-de Fécamp
+
+-de Figeac
+
+-de Florac-Trois-Rivières
+
+-de Foix
+
+-de Fontainebleau
+
+-de Fontenay-le-Comte
+
+-de Forbach
+
+-de Forcalquier
+
+-de Gaillac
+
+-de Gap
+
+-de Gassin-Saint-Tropez
+
+-de Ghisonaccia
+
+-de Gien
+
+-de Gourdon
+
+-de Grasse
+
+-de Guéret
+
+-de Guingamp
+
+-de Haguenau
+
+-du Havre
+
+-d'Hazebrouck
+
+-d'Hyères
+
+-d'Is-sur-Tille
+
+-d'Issoire
+
+-d'Issoudun
+
+-d'Istres
+
+-de Jonzac
+
+-de Landerneau
+
+-de Langres
+
+-de Lannion
+
+-de Laon
+
+-de Largentière
+
+-de Lesparre-Médoc
+
+-de Limoges
+
+-de Limoux
+
+-de Lisieux
+
+-de Loches
+
+-de Lodève
+
+-de Lons-le-Saunier
+
+-de Louhans
+
+-de Louviers
+
+-de Lucé
+
+-de Lunéville
+
+-de Mâcon
+
+-de Mamers
+
+-de Mauriac
+
+-de Mayenne
+
+-de Melun
+
+-de Mende
+
+-de Menton
+
+-de Millau
+
+-de Molsheim
+
+-de Mont-de-Marsan
+
+-de Montargis
+
+-de Montauban
+
+-de Montbard
+
+-de Montdidier
+
+-de Montfort-sur-Meu
+
+-de Montluçon
+
+-de Montmorillon
+
+-de Mortagne-au-Perche
+
+-de Moulins
+
+-de la Mure
+
+-de Neufchâteau
+
+-de Neufchâtel-en-Bray
+
+-de Nevers
+
+-de Nice
+
+-de Nogent-le-Rotrou
+
+-de Nogent-sur-Seine
+
+-de Nontron
+
+-de Nyons
+
+-d'Oloron-Sainte-Marie
+
+-d'Orange
+
+-d'Orthez
+
+-de Pamiers
+
+-de Parentis-en-Born
+
+-de Parthenay
+
+-de Pau
+
+-de Périgueux
+
+-de Péronne
+
+-de Pierrelatte
+
+-de Pithiviers
+
+-de Ploërmel
+
+-de Plourin-lès-Morlaix
+
+-de Poitiers
+
+-de Pont-Audemer
+
+-de Pontarlier
+
+-de Pontivy
+
+-de Pontoise
+
+-de Pornic
+
+-de Porto-Vecchio
+
+-de Prades
+
+-de Provins
+
+-de Puget-Théniers
+
+-du Puy-en-Velay
+
+-de Quimper
+
+-de Quimperlé
+
+-de Redon
+
+-de Reims
+
+-de Rethel
+
+-de Revin
+
+-de Riom
+
+-de Rivesaltes
+
+-de Roanne
+
+-de la Rochelle
+
+-de Romorantin-Lanthenay
+
+-de Rosières-près-Troyes
+
+-de Rouen
+
+-de Saint-Amand-Montrond
+
+-de Saint-Claude (Jura)
+
+-de Saint-Dié-des-Vosges
+
+-de Saint-Dizier
+
+-de Saint-Etienne
+
+-de Saint-Flour
+
+-de Saint-Gaudens
+
+-de Saint-Girons
+
+-de Saint-Jean-d'Angély
+
+-de Saint-Jean-de-Maurienne
+
+-de Saint-Julien-en-Genevois
+
+-de Saint-Junien
+
+-de Saint-Lô
+
+-de Saint-Malo
+
+-de Saint-Marcellin
+
+-de Saint-Omer
+
+-de Saint-Pol-sur-Ternoise
+
+-de Saint-Quentin
+
+-de Saintes
+
+-de Sarlat-la-Canéda
+
+-de Sarrebourg
+
+-de Sarreguemines
+
+-de Sartène
+
+-de Saumur
+
+-de Saverne
+
+-de Sedan
+
+-de Segré-en-Anjou-Bleu
+
+-de Sélestat
+
+-de Soissons
+
+-de Tarbes
+
+-du Teil
+
+-de Thiers
+
+-de Thonon-les-Bains
+
+-de Toul
+
+-de la Tour-du-Pin
+
+-de Tours
+
+-d'Ussel
+
+-de Val-de-Briey
+
+-de Valenciennes
+
+-de la Valette du Var
+
+-de Vendôme
+
+-de Verdun
+
+-de Vervins
+
+-de Vichy
+
+-de Vierzon
+
+-de Vigan
+
+-de Villefranche-de-Rouergue
+
+-de Villeneuve-sur-Lot
+
+-de Vire-Normandie
+
+-de Vitry-le-François
+
+-de Vouziers
+
+-de Wissembourg
+
+-d'Yssingeaux
+
+-d'Yvetot
+
+Commandant d'une brigade départementale de renseignements et d'investigations judiciaires
+
+Chef d'un centre d'opérations et de renseignement de la gendarmerie
+
+Chef de centre d'opérations de la gendarmerie
+
+Chef de détachement territorial au sein d'une section de recherche
+
+Commandant d'un peloton de gendarmerie de montagne
+
+Commandant d'un détachement de peloton de gendarmerie de haute montagne
+
+Commandant d'une communauté de brigades territoriales
+
+Commandant d'une brigade de recherches
+
+Commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
+
+Commandant d'une brigade territoriale autonome
+
+Commandant d'un peloton d'autoroute
+
+Commandant d'une brigade motorisée
+
+Commandant d'un peloton motorisé
+
+Commandant d'un peloton de surveillance et d'intervention gendarmerie
+
+2° Gendarmerie mobile-Garde républicaine :
+
+Commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
+
+Commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
+
+Commandant d'un peloton de véhicules blindés
+
+Commandant d'un peloton d'intervention outre-mer
+
+Commandant du quatrième escadron du régiment de cavalerie de la garde républicaine
+
+Commandant de la compagnie de soutien opérationnel de la garde républicaine
+
+Commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
+
+Commandant de l'escadron de sécurité et d'appui du groupement de gendarmerie mobile de Maisons-Alfort
+
+3° Gendarmeries spécialisées :
+
+Commandant en second de la section de recherche de la gendarmerie de l'air
+
+Commandant en second de la section de recherche de la gendarmerie de l'armement
+
+Commandant en second de la section de recherche de la gendarmerie maritime
+
+Commandant en second de la section de recherches de la gendarmerie des transports aériens
+
+Commandant en second d'une compagnie de gendarmerie maritime
+
+Commandant en second d'une compagnie de la gendarmerie des transports aériens
+
+Commandant en second d'une compagnie de la gendarmerie de l'armement
+
+4° Ecoles :
+
+Commandant d'une compagnie d'instruction au sein d'une école de gendarmerie
+
+Commandant de peloton à l'école des officiers de la gendarmerie nationale
+
+Chef de la classe préparatoire intégrée de la gendarmerie nationale
+
+Commandement des forces aériennes de la gendarmerie :
+
+Commandant d'une section aérienne ou d'un détachement aérien de la gendarmerie (20 emplois)
+
+5° Outre-mer :
+
+Commandant en second de la compagnie de gendarmerie départementale :
+
+-d'Archipels-Papeete
+
+-de Fort-de-France
+
+-des Iles-du-vent-Faaa
+
+-de Koné
+
+-de Kourou
+
+-de La-Foa
+
+-du Marin
+
+-de Matoury
+
+-du Moule
+
+-de Nouméa
+
+-de Pointe-à-Pitre
+
+-de Saint-Benoît
+
+-de Saint-Claude (Guadeloupe)
+
+-de Saint-Laurent-du-Maroni
+
+-de Saint-Martin-Saint-Barthélemy
+
+-de la Trinité
+
+Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
+
+Commandant en second de la section de recherches :
+
+-de Cayenne
+
+-de Fort-de-France
 
 -de Nouméa
 
@@ -394,30 +846,24 @@ Commandant de la section de recherches :
 
 -de Papeete
 
-Commandant en second de la compagnie de gendarmerie départementale :
+-de Pointe-à-Pitre
 
--de Saint-Paul
+-de Saint-Denis
 
--de Saint-Pierre
+Commandant d'une brigade de renseignements et d'investigations judiciaires
 
-Chef d'état-major du commandement de la gendarmerie pour Saint Pierre et Miquelon
+6° Autres emplois :
 
-6° Gendarmeries spécialisées :
+Commandant en second de la gendarmerie des voies navigables
 
--Commandant d'un patrouilleur de la gendarmerie maritime
+Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
 
--Commandant de la section de recherches de la gendarmerie de l'armement
+Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
 
--Commandant du groupe de protection de la gendarmerie de l'armement
+Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
 
-7° Autres emplois :
+Commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
--Chef du centre de soutien automobile de la gendarmerie de Satory
+Commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
--Chef du service de gestion des ressources humaines et personnels isolés au sein du commandement du soutien opérationnel de la gendarmerie nationale
-
--Commandant d'une antenne du groupe d'intervention de la gendarmerie nationale
-
--Commandant de la gendarmerie des voies navigables
-
--Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française
+Chef d'un service expert ressources humaines

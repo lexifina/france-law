@@ -2,248 +2,606 @@
 
 LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE IV
 
-1° Administration centrale :
+1° A la direction générale de la gendarmerie nationale, le chef du bureau :
 
-- chargé de mission au cabinet du directeur général de la gendarmerie nationale (6 emplois)
+-de l'administration
 
-- chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (6 emplois)
+-du budget et de la réglementation
 
-- coordonnateur des programmes judiciaires à la direction des opérations et de l'emploi (1 emploi)
+-du contrôle de gestion de l'évaluation et de la performance
 
-- chargé de fonction au service des technologies et des systèmes d'information de la sécurité intérieure
+-du contrôle opérationnel des fichiers
 
-- commandant militaire du site de la direction générale de la gendarmerie nationale
+-des effectifs et des référentiels
 
-- chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
+-de la formation
 
-- directeur de projet à la mission LOG-MI du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
+-de la lutte anti-terroriste
 
-- chargé de fonction adjoint à la direction des opérations et de l'emploi
+-médias
 
-- chef du service central des réseaux et technologies avancées
+-agorha des ressources humaines droits individuels
 
-- chef du centre opérationnel de soutien infrastructure et logement
+-agorha études et qualités
 
-- commandant du centre de planification et de gestion de crise
+-de la mobilité et de la proximité numérique
 
-- chef de département à la mission du pilotage et de la performance
+-de l'ordre public
 
-- au sein de la direction générale de la gendarmerie nationale, chef du bureau :
+-de l'organisation
 
-- de l'analyse et de l'anticipation
+-du personnel civil
 
-- des affaires criminelles
+-du personnel sous-officier de gendarmerie et volontaire
 
-- du cabinet
+-du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
 
-- de la chancellerie
+-de la police judiciaire
 
-- de la défense et sécurité nationale
+-de la préparation et du pilotage de la masse salariale
 
-- des droits individuels
+-de la programmation immobilière
 
-- opérateur des réseaux radiocommunication
+-prospective radiocommunication
 
-- des outils de soutien et des statistiques
+-de la qualité et de l'innovation participative
 
-- du personnel officier
+-des recours et de la protection fonctionnelle
 
-- de la préparation et du pilotage du fonctionnement et de l'investissement
+-du recrutement, des concours et des examens
 
-- de la sécurité publique
+-de la réglementation et de la fonction militaire
 
-- de la synthèse budgétaire
+-des relations extérieures militaires de la gendarmerie nationale
 
-- commandant du centre de renseignement opérationnel de la gendarmerie
+-des ressources financières
 
-- chef du bureau de l'habillement du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
+-de la sécurité routière des formations et moyens spécialisés
+
+-des systèmes d'aide à l'enquête
+
+-chef du centre d'analyse et d'exploitation
+
+Coordonnateur santé et sécurité au travail
+
+Chargé de fonction à la mission numérique de la gendarmerie nationale
+
+Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
+
+Chef d'une division à la direction de la coopération internationale
+
+Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
+
+Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
+
+Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
+
+-logistique des équipements
+
+-du pilotage de la gouvernance
 
 2° Inspection générale de la gendarmerie nationale :
 
-- inspecteur, chargé de mission à l'inspection générale de la gendarmerie nationale (6 emplois)
+Chef du bureau :
 
-- chargé de fonction à l'inspection générale de la gendarmerie nationale (1 emploi)
+-d'audit financier, administratif et technique
 
-- chef du bureau :
-
-- des enquêtes administratives
-
-- des enquêtes judiciaires
+-de l'audit, de la protection et la gouvernance des données
 
 3° Gendarmerie départementale :
 
-- chef d'état-major de la région de gendarmerie d'Ile de France
+Chef de la division des opérations de la région de gendarmerie :
 
-- officier adjoint commandement d'une région de gendarmerie
+-d'Aquitaine
 
-- officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
+-de Bourgogne
 
-- officier adjoint territorial à la région de gendarmerie de Pays-de-la-Loire, de Centre-Val-de-Loire, de Midi-Pyrénées et au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
+-de Bretagne
 
-- commandant du groupement de gendarmerie départementale :
+-de Centre-Val-de-Loire
 
-- de l'Ariège
+-de Corse
 
-- du Cantal
+-d'Ile de France
 
-- de la Creuse
+-de Lorraine
 
-- du Gers
+-du Nord-Pas-de-Calais
 
-- de la Haute-Loire
+-de Provence-Alpes-Côte-d'Azur
 
-- de la Haute-Marne
+-de Rhône-Alpes
 
-- des Hautes-Alpes
+Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
-- des Hautes-Pyrénées
+-du Puy-de-Dôme
 
-- de l'Indre
+-du Calvados
 
-- du Lot
+-de la Marne
 
-- de la Lozère
+-du Doubs
 
-- de la Mayenne
+-de la Haute-Vienne
 
-- de la Meuse
+-de la Somme
 
-- de Tarn-et-Garonne
+-de la Vienne
 
-- du Territoire-de-Belfort
+Commandant en second du groupement de gendarmerie départementale
 
-- commandant en second du groupement de gendarmerie départementale :
+-de l'Ain
 
-- des Bouches-du-Rhône
+-de l'Aisne
 
-- de la Gironde
+-de l'Allier
 
-- de l'Isère
+-des Alpes-de-Haute-Provence
 
-- de la Moselle
+-des Alpes-Maritimes
 
-- du Nord
+-de l'Ardèche
 
-- de l'Oise
+-des Ardennes
 
-- du Pas-de-Calais
+-de l'Ariège
 
-- du Rhône
+-de l'Aube
 
-- chef de la division des opérations de la région de gendarmerie :
+-de l'Aude
 
-- de Haute-Normandie
+-de l'Aveyron
 
-- de Midi-Pyrénées
+-du Cantal
 
-- des Pays de la Loire
+-de la Charente
 
-- chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+-de la Charente-Maritime
 
-- du Bas-Rhin
+-du Cher
 
-- de l'Hérault
+-de la Corrèze
 
-- chef de la division de l'appui opérationnel d'une région de gendarmerie (zonale et non zonale) ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
+-des Côtes-d'Armor
 
-4° Gendarmerie mobile-Garde républicaine :
+-de la Creuse
 
-- chef d'état-major de la garde républicaine
+-des Deux-Sèvres
 
-- commandants de groupement de gendarmerie mobile, à l'exception de celui de Maisons-Alfort
+-de la Dordogne
 
-- commandant du premier régiment d'infanterie de la garde républicaine
+-de la Drôme
 
-- commandant du deuxième régiment d'infanterie de la garde républicaine
+-de l'Essonne
 
-- commandant du régiment de cavalerie de la garde républicaine
+-de l'Eure
+
+-d'Eure-et-Loir
+
+-du Finistère
+
+-du Gard
+
+-du Gers
+
+-du Haut-Rhin
+
+-de la Haute-Corse
+
+-de la Haute-Loire
+
+-de la Haute-Marne
+
+-de la Haute-Saône
+
+-des Hautes-Alpes
+
+-des Hautes-Pyrénées
+
+-d'Ille-et-Vilaine
+
+-de l'Indre
+
+-d'Indre-et-Loire
+
+-du Jura
+
+-des Landes
+
+-de Loir-et-Cher
+
+-de la Loire
+
+-du Lot
+
+-de Lot-et-Garonne
+
+-de la Lozère
+
+-de Maine-et-Loire
+
+-de la Manche
+
+-de la Mayenne
+
+-de Meurthe-et-Moselle
+
+-de la Meuse
+
+-du Morbihan
+
+-de la Nièvre
+
+-de la Orne
+
+-des Pyrénées-Atlantiques
+
+-des Pyrénées-Orientales
+
+-de Saône-et-Loire
+
+-de la Sarthe
+
+-de la Savoie
+
+-de Seine-et-Marne
+
+-du Tarn
+
+-de Tarn-et-Garonne
+
+-du Territoire de Belfort
+
+-du Val-d'Oise
+
+-du Var
+
+-de Vaucluse
+
+-de la Vendée
+
+-des Vosges
+
+-de l'Yonne
+
+-des Yvelines
+
+Commandant de la compagnie de gendarmerie départementale :
+
+-d'Aix-en-Provence
+
+-d'Alès
+
+-d'Angers
+
+-d'Annecy
+
+-de l'Arbresle
+
+-d'Arles
+
+-d'Arras
+
+-d'Aubagne
+
+-d'Auxerre
+
+-d'Avesnes-sur-Helpe
+
+-d'Avignon
+
+-de Bayonne
+
+-de Besançon
+
+-de Béziers
+
+-de Bonneville
+
+-de Bouliac
+
+-de Bourg-en-Bresse
+
+-de Bourgoin-Jallieu
+
+-de Brignoles
+
+-de Brive-la-Gaillarde
+
+-de Bron
+
+-de Caen
+
+-de Calais
+
+-de Cambrai
+
+-de Cannes
+
+-de Carcassonne
+
+-de Castelnau-le-Lez
+
+-de Castres
+
+-de Chambéry
+
+-de Chantilly
+
+-de Château-Gontier
+
+-de Colmar
+
+-de Commercy
+
+-de Compiègne
+
+-de Coulommiers
+
+-de Crest
+
+-de Dax
+
+-de Douai
+
+-de Draguignan
+
+-d'Etampes
+
+-d'Evry
+
+-de la Flèche
+
+-de Gex
+
+-de Givors
+
+-de Grenoble
+
+-de l'Isle-Adam
+
+-de Langon-Toulenne
+
+-de Libourne
+
+-de Lille
+
+-de Lorient
+
+-de Lunel
+
+-de Lure
+
+-de Lyon
+
+-du Mans
+
+-de Mantes-la-Jolie
+
+-de Marmande
+
+-de Meaux
+
+-de Mérignac
+
+-de Méru
+
+-de Metz
+
+-de Meylan
+
+-de Montbéliard
+
+-de Montbrison
+
+-de Montmorency
+
+-de Mulhouse
+
+-de Muret
+
+-de Nancy
+
+-de Nantes
+
+-de Narbonne
+
+-de Nîmes
+
+-de Niort
+
+-d'Orléans
+
+-de Palaiseau
+
+-de Perpignan
+
+-de Pertuis
+
+-de Pézenas
+
+-de Rambouillet
+
+-de Remiremont
+
+-de Rennes
+
+-de Rezé
+
+-de la Roche-sur-Yon
+
+-de Rochefort
+
+-de Rodez
+
+-de Romans-sur-Isère
+
+-des Sables-d'Olonne
+
+-de Saint-Brieuc
+
+-de Saint-Germain-en-Laye
+
+-de Saint-Nazaire
+
+-de Salon-de-Provence
+
+-de Senlis
+
+-de Sens
+
+-de Soultz-Guebwiller
+
+-de Strasbourg
+
+-de Thionville
+
+-de Toulouse-Mirail
+
+-de Toulouse-Saint-Michel
+
+-de Tournon-sur-Rhône
+
+-de Trévoux
+
+-de Vannes
+
+-du Vauvert
+
+-de Vesoul
+
+-de Vienne
+
+-de Villefranche-de-Lauragais
+
+-de Villefranche-sur-Saône
+
+-de Vitré
+
+Commandant de la section de recherches :
+
+-d'Angers (à compter du 1er janvier 2020)
+
+-de Besançon
+
+-de Caen
+
+-de Chambéry
+
+-de Clermont-Ferrand
+
+-de Grenoble
+
+-de Limoges
+
+-de Metz
+
+-de Nancy
+
+-de Nantes (à compter du 1er janvier 2020)
+
+-de Nîmes
+
+-de Pau
+
+-de Poitiers
+
+-de Rennes
+
+-de Rouen
+
+4° Outre-mer :
+
+Commandant en second de la gendarmerie de Mayotte
+
+Commandant de la section de recherche :
+
+-de Cayenne
+
+-de Fort-de-France
+
+-de Pointe-à-Pitre
+
+-de Saint-Denis
+
+Commandant de la compagnie de gendarmerie départementale de :
+
+-de Saint-Paul
+
+-de Saint-Pierre
 
 5° Gendarmeries spécialisées :
 
-- commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
-- commandant d'un groupement de gendarmerie de l'air
+Commandant en second d'un groupement de gendarmerie de l'air
 
-- commandant d'un groupement de gendarmerie maritime
+Commandant en second d'un groupement de gendarmerie maritime
 
-- commandant d'un groupement de gendarmerie des transports aériens
+Commandant en second d'un groupement de la gendarmerie des transports aériens
 
-- commandant en second de la gendarmerie de l'armement
+Commandant de la section de recherches de la gendarmerie des transports aériens
 
-- chef de la division de l'appui opérationnel de la gendarmerie de l'air
+Chef de la division des opérations de la gendarmerie de l'air
 
-- chef de la division de l'appui opérationnel de la gendarmerie maritime
+Chef de la division des opérations de la gendarmerie maritime
 
-- chef d'état-major de la gendarmerie des transports aériens
+Chef d'état-major de la gendarmerie de l'armement
 
-- chef d'état-major de la gendarmerie de la sécurité des armements nucléaires
+6° Autres emplois :
 
-6° Outre-mer :
+Chef du service de développement et de mise en œuvre des logiciels
 
-- chef d'état-major du commandement de la gendarmerie d'outre-mer
+Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
 
-- commandant de la gendarmerie pour Saint-Pierre-et-Miquelon
+Commandant en second du service central de renseignement criminel de la gendarmerie nationale
 
-- commandant en second de la gendarmerie :
+Commandant en second de la gendarmerie prévôtale
 
-- de Guadeloupe
+Commandant du groupe de sécurité de la présidence de la République
 
-- de Guyane française
+Chef adjoint de l'unité de coordination des forces d'intervention
 
-- de Martinique
+Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
 
-- pour la Nouvelle-Calédonie
+Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
 
-- pour la Polynésie française
+Chef du centre national d'administration de la solde gendarmerie
 
-- de La Réunion
+Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
 
-7° Autres emplois :
+Chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
 
-- chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale
+Officier de liaison auprès de l'association des maires de France
 
-- conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi)
+Officier de liaison référent intelligence économique à l'assemblée des départements de France
 
-- officier de liaison auprès du secrétariat général de la mer (1 emploi)
+Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
 
-- officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi)
+Commandant en second de l'office central de lutte contre la délinquance itinérante
 
-- officier de liaison auprès du préfet de police de Paris (1 emploi)
+Commandant en second de l'office central de lutte contre le travail illégal
 
-- chef de la mission de liaison de la gendarmerie
+Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
 
-- chef de l'unité de coordination des groupes d'intervention régionaux
+Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
 
-- adjoint au chef de l'unité de coordination de la lutte anti-terroriste
+Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
-- chargé de mission gendarmerie auprès du secrétariat général pour la modernisation de l'action publique (service de coordination)
+Chef du centre de lutte contre les cyber-criminalités numériques
 
-- chargé de mission auprès de l'inspecteur des armements nucléaires
+Chef de la trésorerie militaire de la solde gendarmerie
 
-- chargé de mission auprès du directeur général de la sécurité intérieure (1 emploi)
+Chef de division au service central du renseignement territorial (2 emplois)
 
-- chef de la mission gendarmerie au sein de la direction de programme procédure pénale numérique
+Chef de division à la direction de la coopération internationale
 
-- chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi)
+Chef de département au commandement spécialisé pour la sécurité nucléaire
 
-- officier de liaison à la direction des affaires criminelles et des grâces (1 emploi)
+7° Ecoles :
 
-- chargé de mission à l'inspection générale de l'administration
+Commandant de groupement à l'école des officiers de la gendarmerie nationale
 
-- chargé de mission à la cour des comptes
+Commandant du groupement de l'école de guerre
 
-- chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur
-
-- chargé de mission à la direction générale de l'administration et de la fonction publique
-
-- officier de liaison à la direction du budget
-
-- officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi)
-
-- secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur
-
-8° Ecoles :
-
-- chef d'état-major du commandement des écoles de la gendarmerie nationale
-
-- directeur des enseignements de l'école des officiers de la gendarmerie nationale
+Commandant du centre de formation des dirigeants de l'école des officiers de la gendarmerie nationale

@@ -2,608 +2,786 @@
 
 LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE V
 
-1° A la direction générale de la gendarmerie nationale :
+1° A la direction générale de la gendarmerie nationale, le chef du :
 
-- le chef du bureau :
+-bureau de l'action sociale
 
-- de l'administration
+-bureau des équipements de proximité
 
-- du budget et de la réglementation
+-bureau des équipements périphériques
 
-- du contrôle de gestion de l'évaluation et de la performance
+-bureau des études d'organisation
 
-- du contrôle opérationnel des fichiers
+-bureau image
 
-- des effectifs et des référentiels
+-bureau du pilotage des services
 
-- de la formation
+-bureau des publications
 
-- de la lutte anti-terroriste
+-bureau de la reconversion
 
-- médias
+-bureau des référentiels métiers
 
-- à la mission du système d'information Agorha
+-bureau des salles de crise et de commandement
 
-- de la mobilité et de la proximité numérique
+-bureau de la santé et de la sécurité au travail
 
-- de l'ordre public
+--bureau des utilisateurs et du pilotage
 
-- de l'organisation
+Commandant du centre de renseignement opérationnel de la gendarmerie adjoint
 
-- du personnel civil
+Porte parole du directeur général de la gendarmerie nationale
 
-- du personnel sous-officier de gendarmerie et volontaire
+Chargé de mission "nouvelle politique de rémunération des militaires-retraites" à la direction des personnels militaires de la gendarmerie nationale (1 emploi)
 
-- du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
+Chef du bureau des marchés d'équipements et de matériels au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
 
-- de la police judiciaire
+Commandant du centre de production multimédia de la gendarmerie nationale
 
-- de la préparation et du pilotage de la masse salariale
+2° A l'inspection générale de la gendarmerie nationale, le chef du :
 
-- de la programmation immobilière
+-bureau de l'audit de la santé et la sécurité au travail
 
-- prospective radiocommunication
+-bureau de l'audit de la sécurité des systèmes d'information
 
-- de la qualité et de l'innovation participative
+-bureau déontologie, autorités administratives indépendantes
 
-- des recours et de la protection fonctionnelle
+-bureau des signalements et des réclamations
 
-- du recrutement, des concours et des examens
-
-- de la réglementation et de la fonction militaire
-
-- des relations extérieures militaires de la gendarmerie nationale
-
-- des ressources financières
-
-- de la sécurité routière des formations et moyens spécialisés
-
-- des systèmes d'aide à l'enquête
-
-- chef du centre d'analyse et d'exploitation
-
-- coordonnateur santé et sécurité au travail
-
-- chargé de fonction à la mission numérique de la gendarmerie nationale
-
-- chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
-
-- chef d'une division à la direction de la coopération internationale
-
-- secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
-
-- chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
-
-- au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
-
-- logistique des équipements
-
-- du pilotage de la gouvernance
-
-2° Inspection générale de la gendarmerie nationale :
-
-- chef du bureau :
-
-- d'audit financier, administratif et technique
-
-- de l'audit, de la protection et la gouvernance des données
+-chargé de projets auprès du chef de la division du recueil et de l'analyse des signalements (1 emploi)
 
 3° Gendarmerie départementale :
 
-- chef de la division des opérations de la région de gendarmerie :
+Commandant d'un groupe interministériel de recherches
 
-- d'Aquitaine
+Commandant de la section de recherches en second :
 
-- de Bourgogne
+-d'Ajaccio
 
-- de Bretagne
+-d'Amiens
 
-- de Centre - Val-de-Loire
+-d'Angers (jusqu'au 31 décembre 2019)
 
-- de Corse
+-de Bordeaux
 
-- d'Ile-de-France
+-de Dijon
 
-- de Lorraine
+-de Lille-Villeneuve-d'Ascq
 
-- du Nord - Pas-de-Calais
+-de Lyon
 
-- de Provence-Alpes-Côte d'Azur
+-de Marseille
 
-- de Rhône-Alpes
+-de Montpellier
 
-- chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+-d'Orléans
 
-- du Puy-de-Dôme
+-de Paris
 
-- du Calvados
+-de Reims
 
-- de la Marne
+-de Strasbourg
 
-- du Doubs
+-de Toulouse
 
-- de la Haute-Vienne
+-de Versailles
 
-- de la Somme
+Commandant de la compagnie de gendarmerie départementale :
 
-- de la Vienne
+-d'Abbeville
 
-- commandant en second du groupement de gendarmerie départementale :
+-d'Agen
 
-- de l'Ain
+-d'Ajaccio
 
-- de l'Aisne
+-d'Albertville
 
-- de l'Allier
+-d'Albi
 
-- des Alpes-de-Haute-Provence
+-d'Alençon-Argentan
 
-- des Alpes-Maritimes
+-d'Altkirch
 
-- de l'Ardèche
+-d'Ambert
 
-- des Ardennes
+-d'Amboise
 
-- de l'Ariège
+-d'Amiens
 
-- de l'Aube
+-d'Ancenis
 
-- de l'Aude
+-des Andelys
 
-- de l'Aveyron
+-d'Angoulême
 
-- du Cantal
+-d'Arcachon
 
-- de la Charente
+-d'Argelès-Gazost
 
-- de la Charente-Maritime
+-d'Aubusson
 
-- du Cher
+-d'Auch
 
-- de la Corrèze
+-d'Aurillac
 
-- des Côtes-d'Armor
+-d'Autun
 
-- de la Creuse
+-d'Avallon
 
-- des Deux-Sèvres
+-d'Avranches
 
-- de la Dordogne
+-de Bagnères-de-Bigorre
 
-- de la Drôme
+-de Bagnols-sur-Cèze
 
-- de l'Essonne
+-de Bar-sur-Aube
 
-- de l'Eure
+-de Barcelonnette
 
-- d'Eure-et-Loir
+-de Bastia
 
-- du Finistère
+-de Bayeux
 
-- du Gard
+-de Beaune
 
-- du Gers
+-de Beauvais
 
-- du Haut-Rhin
+-de Bellac
 
-- de la Haute-Corse
+-de Belley
 
-- de la Haute-Loire
+-de Bergerac
 
-- de la Haute-Marne
+-de Bernay
 
-- de la Haute-Saône
+-de Béthune
 
-- de la Haute-Savoie
+-du Blanc
 
-- des Hautes-Alpes
+-de Blaye
 
-- des Hautes-Pyrénées
+-de Blois
 
-- d'Ille-et-Vilaine
+-de Boulay-Moselle
 
-- de l'Indre
+-de Bourges
 
-- d'Indre-et-Loire
+-de Bressuire
 
-- du Jura
+-de Brest
 
-- des Landes
+-de Briançon
 
-- de Loir-et-Cher
+-de Brioude
 
-- de la Loire
+-de Cahors
 
-- du Lot
+-de Calvi
 
-- de Lot-et-Garonne
+-de Carpentras
 
-- de la Lozère
+-de Castellane
 
-- de Maine-et-Loire
+-de Castelsarrasin
 
-- de la Manche
+-de Céret
 
-- de la Mayenne
+-de Chalon-sur-Saône
 
-- de Meurthe-et-Moselle
+-de Châlons-en-Champagne
 
-- de la Meuse
+-de Chamonix-Mont-Blanc
 
-- du Morbihan
+-de Charolles
 
-- de la Nièvre
+-de Château-Chinon-Ville
 
-- de la Orne
+-de Château-Thierry-Nogentel
 
-- des Pyrénées-Atlantiques
+-de Châteaubriant
 
-- des Pyrénées-Orientales
+-de Châteaudun
 
-- de Saône-et-Loire
+-de Châteaulin
 
-- de la Sarthe
+-de Châtellerault
 
-- de la Savoie
+-de la Châtre
 
-- de Seine-et-Marne
+-de Chaumont
 
-- du Tarn
+-de Cherbourg-en-Cotentin
 
-- de Tarn-et-Garonne
+-de Chinon
 
-- du Territoire de Belfort
+-de Cholet
 
-- du Val-d'Oise
+-de Clermont
 
-- du Var
+-de Clermont-Ferrand
 
-- de Vaucluse
+-de Cognac
 
-- de la Vendée
+-de Condom
 
-- des Vosges
+-de Confolens
 
-- de l'Yonne
+-de Corte
 
-- des Yvelines
+-de Cosne-Cours-sur-Loire
 
-- commandant de la compagnie de gendarmerie départementale :
+-de Coutances
 
-- d'Aix-en-Provence
+-de Deauville
 
-- d'Alès
+-de Dieppe
 
-- d'Angers
+-de Digne-les-Bains
 
-- d'Annecy
+-de Dijon
 
-- de l'Arbresle
+-de Dinan
 
-- d'Arles
+-de Dole
 
-- d'Arras
+-de Domfront-en-Poiraie
 
-- d'Aubagne
+-de Dreux
 
-- d'Auxerre
+-de Dunkerque-Hoymille
 
-- d'Avesnes-sur-Helpe
+-d'Ecuires
 
-- d'Avignon
+-d'Epernay
 
-- de Bayonne
+-d'Evreux
 
-- de Besançon
+-de Falaise
 
-- de Béziers
+-de Fécamp
 
-- de Bonneville
+-de Figeac
 
-- de Bouliac
+-de Florac-Trois-Rivières
 
-- de Bourg-en-Bresse
+-de Foix
 
-- de Bourgoin-Jallieu
+-de Fontainebleau
 
-- de Brignoles
+-de Fontenay-le-Comte
 
-- de Brive-la-Gaillarde
+-de Forbach
 
-- de Bron
+-de Forcalquier
 
-- de Caen
+-de Gaillac
 
-- de Calais
+-de Gap
 
-- de Cambrai
+-de Gassin-Saint-Tropez
 
-- de Cannes
+-de Ghisonaccia
 
-- de Carcassonne
+-de Gien
 
-- de Castelnau-le-Lez
+-de Gourdon
 
-- de Castres
+-de Grasse
 
-- de Chambéry
+-de Guéret
 
-- de Chantilly
+-de Guingamp
 
-- de Château-Gontier
+-de Haguenau
 
-- de Colmar
+-du Havre
 
-- de Commercy
+-d'Hazebrouck
 
-- de Compiègne
+-d'Hyères
 
-- de Coulommiers
+-d'Is-sur-Tille
 
-- de Crest
+-d'Issoire
 
-- de Dax
+-d'Issoudun
 
-- de Douai
+-d'Istres
 
-- de Draguignan
+-de Jonzac
 
-- d'Etampes
+-de Landerneau
 
-- d'Evry
+-de Langres
 
-- de La Flèche
+-de Lannion
 
-- de Gex
+-de Laon
 
-- de Givors
+-de Largentière
 
-- de Grenoble
+-de Lesparre-Médoc
 
-- de L'Isle-Adam
+-de Limoges
 
-- de Langon-Toulenne
+-de Limoux
 
-- de Libourne
+-de Lisieux
 
-- de Lille
+-de Loches
 
-- de Lorient
+-de Lodève
 
-- de Lunel
+-de Lons-le-Saunier
 
-- de Lure
+-de Louhans
 
-- de Lyon
+-de Louviers
 
-- du Mans
+-de Lucé
 
-- de Mantes-la-Jolie
+-de Lunéville
 
-- de Marmande
+-de Mâcon
 
-- de Meaux
+-de Mamers
 
-- de Mérignac
+-de Mauriac
 
-- de Méru
+-de Mayenne
 
-- de Metz
+-de Melun
 
-- de Meylan
+-de Mende
 
-- de Montbéliard
+-de Menton
 
-- de Montbrison
+-de Millau
 
-- de Montmorency
+-de Molsheim
 
-- de Mulhouse
+-de Mont-de-Marsan
 
-- de Muret
+-de Montargis
 
-- de Nancy
+-de Montauban
 
-- de Nantes
+-de Montbard
 
-- de Narbonne
+-de Montdidier
 
-- de Nîmes
+-de Montfort-sur-Meu
 
-- de Niort
+-de Montluçon
 
-- d'Orléans
+-de Montmorillon
 
-- de Palaiseau
+-de Mortagne-au-Perche
 
-- de Perpignan
+-de Moulins
 
-- de Pertuis
+-de la Mure
 
-- de Pézenas
+-de Neufchâteau
 
-- de Rambouillet
+-de Neufchâtel-en-Bray
 
-- de Remiremont
+-de Nevers
 
-- de Rennes
+-de Nice
 
-- de Rezé
+-de Nogent-le-Rotrou
 
-- de La Roche-sur-Yon
+-de Nogent-sur-Seine
 
-- de Rochefort
+-de Nontron
 
-- de Rodez
+-de Nyons
 
-- de Romans-sur-Isère
+-d'Oloron-Sainte-Marie
 
-- des Sables-d'Olonne
+-d'Orange
 
-- de Saint-Brieuc
+-d'Orthez
 
-- de Saint-Germain-en-Laye
+-de Pamiers
 
-- de Saint-Nazaire
+-de Parentis-en-Born
 
-- de Salon-de-Provence
+-de Parthenay
 
-- de Senlis
+-de Pau
 
-- de Sens
+-de Périgueux
 
-- de Soultz-Guebwiller
+-de Péronne
 
-- de Strasbourg
+-de Pierrelatte
 
-- de Thionville
+-de Pithiviers
 
-- de Toulouse-Mirail
+-de Ploërmel
 
-- de Toulouse-Saint-Michel
+-de Plourin-lès-Morlaix
 
-- de Tournon-sur-Rhône
+-de Poitiers
 
-- de Trévoux
+-de Pont-Audemer
 
-- de Vannes
+-de Pontarlier
 
-- du Vauvert
+-de Pontivy
 
-- de Vesoul
+-de Pontoise
 
-- de Vienne
+-de Pornic
 
-- de Villefranche-de-Lauragais
+-de Porto-Vecchio
 
-- de Villefranche-sur-Saône
+-de Prades
 
-- de Vitré
+-de Provins
 
-- commandant de la section de recherches :
+-de Puget-Théniers
 
-- d'Angers (à compter du 1er janvier 2020)
+-du Puy-en-Velay
 
-- de Besançon
+-de Quimper
 
-- de Caen
+-de Quimperlé
 
-- de Chambéry
+-de Redon
 
-- de Clermont-Ferrand
+-de Reims
 
-- de Grenoble
+-de Rethel
 
-- de Limoges
+-de Revin
 
-- de Metz
+-de Riom
 
-- de Nancy
+-de Rivesaltes
 
-- de Nantes (à compter du 1er janvier 2020)
+-de Roanne
 
-- de Nîmes
+-de la Rochelle
 
-- de Pau
+-de Romorantin-Lanthenay
 
-- de Poitiers
+-de Rosières-près-Troyes
 
-- de Rennes
+-de Rouen
 
-- de Rouen
+-de Saint-Amand-Montrond
 
-4° Outre-mer :
+-de Saint-Claude (Jura)
 
-- commandant en second de la gendarmerie de Mayotte
+-de Saint-Dié-des-Vosges
 
-- commandant de la section de recherche :
+-de Saint-Dizier
 
-- de Cayenne
+-de Saint-Etienne
 
-- de Fort-de-France
+-de Saint-Flour
 
-- de Pointe-à-Pitre
+-de Saint-Gaudens
 
-- de Saint-Denis
+-de Saint-Girons
 
-- commandant de la compagnie de gendarmerie départementale de :
+-de Saint-Jean-d'Angély
 
-- de Saint-Paul
+-de Saint-Jean-de-Maurienne
 
-- de Saint-Pierre
+-de Saint-Julien-en-Genevois
+
+-de Saint-Junien
+
+-de Saint-Lô
+
+-de Saint-Malo
+
+-de Saint-Marcellin
+
+-de Saint-Omer
+
+-de Saint-Pol-sur-Ternoise
+
+-de Saint-Quentin
+
+-de Saintes
+
+-de Sarlat-la-Canéda
+
+-de Sarrebourg
+
+-de Sarreguemines
+
+-de Sartène
+
+-de Saumur
+
+-de Saverne
+
+-de Sedan
+
+-de Segré-en-Anjou-Bleu
+
+-de Sélestat
+
+-de Soissons
+
+-de Tarbes
+
+-du Teil
+
+-de Thiers
+
+-de Thonon-les-Bains
+
+-de Toul
+
+-de la Tour-du-Pin
+
+-de Tours
+
+-d'Ussel
+
+-de Val-de-Briey
+
+-de Valenciennes
+
+-de la Valette du Var
+
+-de Vendôme
+
+-de Verdun
+
+-de Vervins
+
+-de Vichy
+
+-de Vierzon
+
+-de Vigan
+
+-de Villefranche-de-Rouergue
+
+-de Villeneuve-sur-Lot
+
+-de Vire-Normandie
+
+-de Vitry-le-François
+
+-de Vouziers
+
+-de Wissembourg
+
+-d'Yssingeaux
+
+-d'Yvetot
+
+Commandant de l'escadron départemental de sécurité routière :
+
+-de l'Ain
+
+-de l'Aisne
+
+-des Alpes-Maritimes
+
+-du Bas-Rhin
+
+-des Bouches-du-Rhône
+
+-du Calvados
+
+-de Côte-d'Or
+
+-de l'Eure
+
+-de la Gironde
+
+-de la Haute-Garonne
+
+-de la Haute-Savoie
+
+-de l'Hérault
+
+-d'Indre-et-Loire
+
+-de l'Isère
+
+-de Loire-Atlantique
+
+-du Loiret
+
+-de Maine-et-Loire
+
+-de la Marne
+
+-de la Moselle
+
+-du Nord
+
+-de l'Oise
+
+-du Pas-de-Calais
+
+-du Puy-de-Dôme
+
+-de la Sarthe
+
+-de la Savoie
+
+-de Seine-et-Marne
+
+-de Seine-Maritime
+
+-de la Somme
+
+-du Var
+
+4° Ecoles :
+
+Commandant du centre national de formation :
+
+-à la police judiciaire
+
+-à la sécurité routière
+
+-aux langues et à l'international de la gendarmerie
+
+-au commandement
+
+-au renseignement opérationnel
+
+-aux systèmes d'information et de communication de la gendarmerie
+
+-à la sécurité publique
+
+Commandant du centre de formation du corps de soutien technique et administratif de la gendarmerie nationale
+
+Commandant du centre national d'instruction :
+
+-cynophile de la gendarmerie
+
+-de ski et d'alpinisme de la gendarmerie
+
+-nautique de la gendarmerie
 
 5° Gendarmeries spécialisées :
 
-- commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+Commandant de la section de recherches de la gendarmerie de l'air
 
-- commandant en second d'un groupement de gendarmerie de l'air
+Commandant de la section de recherches de la gendarmerie maritime
 
-- commandant en second d'un groupement de gendarmerie maritime
+Commandant d'une compagnie de gendarmerie de l'armement
 
-- commandant en second d'un groupement de la gendarmerie des transports aériens
+Commandant d'une compagnie de gendarmerie des transports aériens
 
-- commandant de la section de recherches de la gendarmerie des transports aériens
+Commandant d'une compagnie de gendarmerie maritime
 
-- chef de la division des opérations de la gendarmerie de l'air
+Commandant d'une antenne spéciale de sécurité de la gendarmerie de la sécurité des armements nucléaires
 
-- chef de la division des opérations de la gendarmerie maritime
+Commandant du centre d'instruction de la gendarmerie maritime
 
-- chef d'état-major de la gendarmerie de l'armement
+6° Outre-mer :
 
-6° Autres emplois :
+Commandant de la compagnie de gendarmerie départementale :
 
-- chef du service de développement et de mise en œuvre des logiciels
+-d'Archipels-Papeete
 
-- directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
+-de Fort-de-France
 
-- commandant en second du service central de renseignement criminel de la gendarmerie nationale
+-des Iles-du-vent-Faaa
 
-- commandant en second de la gendarmerie prévôtale
+-de Koné
 
-- commandant du groupe de sécurité de la présidence de la République
+-de Kourou
 
-- chef adjoint de l'unité de coordination des forces d'intervention
+-de La-Foa
 
-- chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
+-du Marin
 
-- chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
+-de Matoury
 
-- chef du centre national d'administration de la solde gendarmerie
+-du Moule
 
-- chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
+-de Nouméa
 
-- chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
+-de Poindimié
 
-- officier de liaison auprès de l'association des maires de France
+-de Pointe-à-Pitre
 
-- officier de liaison référent intelligence économique à l'assemblée des départements de France
+-de Saint-Benoît
 
-- chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
+-de Saint-Claude (Guadeloupe)
 
-- commandant en second de l'office central de lutte contre la délinquance itinérante
+-de Saint-Laurent-du-Maroni
 
-- commandant en second de l'office central de lutte contre le travail illégal
+-de Saint-Martin-Saint-Barthélemy
 
-- commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
+-de la Trinité
 
-- commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
+Commandant de la gendarmerie pour Wallis-et-Futuna
 
-- chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+Chef d'état-major du commandement la gendarmerie :
 
-- chef du centre de lutte contre les cyber-criminalités numériques
+-de la Guadeloupe
 
-- chef de la trésorerie militaire de la solde gendarmerie
+-de la Guyane française
 
-- chef de division au service central du renseignement territorial (2 emplois)
+-de la Martinique
 
-- chef de division à la direction de la coopération internationale
+-de Mayotte
 
-- chef de département au commandement spécialisé pour la sécurité nucléaire
+-pour la Nouvelle-Calédonie
 
-7° Ecoles :
+-pour la Polynésie française
 
-- commandant de groupement à l'école des officiers de la gendarmerie nationale
+-de la Réunion
 
-- commandant du groupement de l'école de guerre
+7° Autres emplois :
 
-- commandant du centre de formation des dirigeants de l'école des officiers de la gendarmerie nationale
+Chef du centre national d'assistance aux utilisateurs
+
+Commandant du centre national de soutien logistique
+
+Chef de bureau au sein du commandement des réserves de la gendarmerie nationale (2 emplois)
+
+Au sein des forces aériennes de la gendarmerie nationale, le chef :
+
+-de la division des opérations
+
+-de la division de l'appui opérationnel
+
+Commandant d'un groupement des forces aériennes de gendarmerie
+
+Commandant du groupement d'instruction
+
+Commandant du groupement de maintien en condition opérationnelle
+
+Chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie
+
+Directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+
+Officier de liaison chargé de mission "police de sécurité du quotidien et reconquête républicaine" au secrétariat général du ministère de l'intérieur
+
+Officier de liaison chargé de mission à la délégation aux coopérations de sécurité (1 emploi)
+
+Commandant du groupement de sécurité et d'appui de Rosny-sous-Bois
+
+Commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+
+Commandant du groupement de sécurité et d'appui de Beynes
+
+Chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale
+
+Chef de la force :
+
+-sécurité et protection du groupe d'intervention de la gendarmerie nationale
+
+-observation recherche du groupe d'intervention de la gendarmerie nationale
+
+-appui opérationnel du groupe d'intervention de la gendarmerie nationale
+
+-formation du groupe d'intervention de la gendarmerie nationale
