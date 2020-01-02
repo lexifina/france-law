@@ -2,76 +2,76 @@
 
 PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION (CCH) APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLA D'INTÉGRATION)
 
-CATÉGORIE
-
-de ménages |
+CATÉGORIE DE MÉNAGES |
 
 PARIS
 
-et communes limitrophes (en euros) |
+et communes limitrophes
 
-ILE-DE-FRANCE
+(en euros) |
+
+ILE-de-FRANCE
 
 hors Paris et communes limitrophes
 
 (en euros) |
 
-AUTRES RÉGIONS
+AUTRES REGIONS
 
 (en euros) |
 
 1 |
 
-13 050 |
+13 207 |
 
-13 050 |
+13 207 |
 
-11 342 |
+11 478 |
 
 2 |
 
-21 272 |
+21 527 |
 
-21 272 |
+21 527 |
 
-16 525 |
+16 723 |
 
 3 |
 
-27 883 |
+28 218 |
 
-25 569 |
+25 876 |
 
-19 872 |
+20 110 |
 
 4 |
 
-30 521 |
+30 887 |
 
-28 075 |
+28 412 |
 
-22 111 |
+22 376 |
 
 5 |
 
-36 307 |
+36 743 |
 
-33 238 |
+33 637 |
 
-25 870 |
+26 180 |
 
 6 |
 
-40 859 |
+41 349 |
 
-37 401 |
+37 850 |
 
-29 155 |
+29 505 |
 
 Par personne supplémentaire |
 
-4 552 |
+4 607 |
 
-4 166 |
+4 216 |
 
-3 252 |
+3 291 |
