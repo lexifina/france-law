@@ -684,13 +684,13 @@ Savoie |
 
 Altiport.
 
-Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
+Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.
+
+L’altiport n’est pas utilisable par les avions effectuant des vols de transport aérien commercial, à l’exception des vols de découverte conduits dans les conditions fixées par la section 3 de l’arrêté du 18 août 2016 relatif aux éléments laissés à l’appréciation de l’autorité nationale compétente par le règlement n°965/2012 de la Commission du 5 octobre 2012, déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes conforméménet au règlement (CE) n° 216/2008 du Parlement européen et du Conseil.
+
+Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.
 
 |
-
-|
-
-Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
 Montdidier |
 
