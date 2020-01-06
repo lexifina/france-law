@@ -1,8 +1,8 @@
-# Article Annexe
+# Article Annexe I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ DESCENTE SUR GLACE ”
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ÉTAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ DISCIPLINES DE DESCENTE SUR GLACE ”
 
-L'épreuve certificative est évaluée dans les conditions prévues à l' article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau II en descente sur glace et justifiant d'une expérience professionnelle en descente sur glace.
+L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau 6 en descente sur glace et justifiant d'une expérience professionnelle dans les disciplines de descente sur glace.
 
 Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
 
@@ -16,9 +16,9 @@ L'épreuve se déroule en organisme de formation.
 
 Avant l'épreuve et dans les conditions définies par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS) le candidat transmet un dossier comprenant les documents suivants :
 
--un projet de formation de formateurs composé de huit séquences au minimum, dans le domaine de la descente sur glace ;
+-un document écrit personnel relatif à un projet de formation de formateurs composé de huit séquences au minimum, dans les disciplines de descente sur glace ;
 
--un support vidéo de son choix d'un programme d'un sportif de niveau national au minimum en descente sur glace.
+-un support vidéo de son choix d'un programme d'un sportif de niveau national au minimum dans les disciplines de descente sur glace.
 
 Dans les conditions définies par le DRDJSCS, DRJSCS ou par le DJSCS, le dossier du candidat est transmis aux évaluateurs au moins deux semaines avant l'épreuve.
 
@@ -37,7 +37,3 @@ Elle se compose d'une mise en situation professionnelle suivie d'un entretien se
 -conduite par le candidat d'une séance d'entraînement pour au moins deux sportifs de niveau national en descente sur glace d'une durée comprise entre 45 minutes et 60 minutes maximum ;
 
 -entretien de 40 minutes au maximum portant notamment sur les choix de sécurité et de démarche de prévention pendant 10 minutes au maximum et sur les choix pédagogiques de la séance d'entraînement pendant 30 minutes au maximum.
-
-NOTA :
-
-Conformément aux dispositions de l'article 4 de l'arrêté du 13 septembre 2018, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication dudit arrêté (21 septembre 2018).
