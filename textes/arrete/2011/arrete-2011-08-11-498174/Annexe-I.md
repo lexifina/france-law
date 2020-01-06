@@ -1,8 +1,8 @@
-# Article Annexe
+# Article Annexe I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ETAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ CURLING ”
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ETAT SUPÉRIEUR DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFORMANCE SPORTIVE ” MENTION “ DISCIPLINES D'ADRESSE SUR GLACE ”
 
-L'épreuve certificative est évaluée dans les conditions prévues à l' article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau II en curling et justifiant d'une expérience professionnelle en curling.
+L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau 6 dans les disciplines d'adresse sur glace (curling) et justifiant d'une expérience professionnelle dans les disciplines d'adresse sur glace (curling).
 
 Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
 
@@ -16,15 +16,15 @@ L'épreuve se déroule en organisme de formation.
 
 Avant l'épreuve et dans les conditions définies par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS) le candidat transmet un dossier comprenant les document suivants :
 
--un projet de formation de formateurs composé de huit séquences au minimum, dans le domaine du curling ;
+-un document écrit personnel relatif à un projet de formation de formateurs composé de huit séquences au minimum, dans le domaine des disciplines d'adresse sur glace (curling) ;
 
--un support vidéo de son choix d'un match d'un curleur de niveau national de 6 minutes maximum.
+-un support vidéo de son choix d'un match d'un pratiquant d'une des disciplines d'adresse sur glace (curleur) de niveau national de 6 minutes maximum.
 
 Dans les conditions définies par le DRDJSCS, DRJSCS ou par le DJSCS, le dossier du candidat est transmis aux évaluateurs au moins deux semaines avant l'épreuve.
 
 Le jour de l'épreuve, le candidat tire au sort et réalise l'une des deux modalités suivantes :
 
--modalité n° 1 : en s'appuyant sur le support vidéo susmentionné, le candidat présente pendant 20 minutes au maximum son analyse du curleur puis expose l'élaboration des futurs cycles d'entrainements définis avec son équipe d'encadrement. Cette analyse est suivie d'un entretien sur la base de la vidéo, d'une durée de 30 minutes au maximum au cours desquelles le candidat justifie son analyse et ses choix tout en s'appuyant sur ses connaissances.
+-modalité n° 1 : en s'appuyant sur le support vidéo susmentionné, le candidat présente pendant 20 minutes au maximum son analyse du pratiquant d'une des disciplines d'adresse sur glace (curleur) puis expose l'élaboration des futurs cycles d'entrainements définis avec son équipe d'encadrement. Cette analyse est suivie d'un entretien sur la base de la vidéo, d'une durée de 30 minutes au maximum au cours desquelles le candidat justifie son analyse et ses choix tout en s'appuyant sur ses connaissances.
 
 -modalité n° 2 : le candidat présente pendant 20 minutes son projet de formation de formateurs susmentionné, à l'aide d'un support de son choix. Cette présentation est suivie d'un entretien de 30 minutes au maximum au cours desquelles le candidat analyse et évalue son projet de formation de formateurs en mobilisant les connaissances acquises et en justifiant les choix portant sur la progression et la pertinence du projet.
 
@@ -34,7 +34,7 @@ L'épreuve se déroule en structure d'alternance pédagogique.
 
 Elle se compose d'une mise en situation professionnelle suivie d'un entretien selon les modalités suivantes :
 
--conduite par le candidat d'une séance d'entraînement pour au moins deux curleurs de niveau national d'une durée comprise entre 45 minutes et 60 minutes maximum ;
+-conduite par le candidat d'une séance d'entraînement pour au moins deux pratiquants d'une des disciplines d'adresse sur glace (curleur) de niveau national d'une durée comprise entre 45 minutes et 60 minutes maximum ;
 
 -entretien de 40 minutes au maximum portant notamment sur les choix de sécurité et de démarche de prévention pendant 10 minutes au maximum et sur les choix pédagogiques de la séance d'entraînement pendant 30 minutes au maximum.
 
