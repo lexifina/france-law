@@ -664,8 +664,6 @@ Moulinage et retorderie de l'Oise (MERO), 57, boulevard Lebègue, 60530 Neuilly-
 
 REVCO puis GURIT ESSEX puis DOW AUTOMOTIVE, route d'Amiens, zone industrielle Nord, 60130 Saint-Just-en-Chaussée : de 1981 à 1983 ;
 
-TREMOIS/ SETA/ SETA KENNEDY, 132, rue Kennedy, 02100 Saint-Quentin : de 1960 à 1996 ;
-
 SA Fichet Bauche, 80460 Oust-Marest : De 1969 à 1977 ;
 
 SA GEB, 1, allée des Coquelicots, 60440 Nanteuil-le-Haudouin, de 1986 à 1996 ;
