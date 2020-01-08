@@ -1250,7 +1250,9 @@ Service technique Worms :
 
 - 76600 Le Havre : de 1950 à 1963.
 
-SE SIMP (Société industrielle maritime) 185-187, boulevard Amiral-Mouchez 76600 Le Havre De 1970 à 2000
+S. I. M. (Service Industriel Maritime), S. I. P (Service Industriel Portuaire), Quai Frissard, 76600 LE HAVRE de 1970 à 1987
+
+S. I. M. (Service Industriel Maritime), S. I. P (Service Industriel Portuaire) ,185-187, boulevard Amiral Mouchez, 76600 LE HAVRE de 1987 à 2000
 
 SITAF, avenue du Général-Leclerc, 76530 Grand-Couronne : de sa création à 1998.
 
