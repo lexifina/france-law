@@ -1,6 +1,6 @@
 # Article Annexe XV
 
-MODÈLE D'ATTESTATION RELATIVE À LA JUSTIFICATION PAR LE VENDEUR, DANS LE CADRE D'UNE VENTE D'IMMEUBLE À RÉNOVER, D'UN PROGRAMME DE TRAVAUX CONCOMITANT À L'ACQUISITION D'UN LOGEMENT ANCIEN
+MODÈLE D'ATTESTATION RELATIVE À LA JUSTIFICATION PAR LE VENDEUR, DANS LE CADRE D'UNE VENTE D'IMMEUBLE À RÉNOVER OU D'UN PRÊT SOCIAL LOCATION-ACCESSION, D'UN PROGRAMME DE TRAVAUX CONCOMITANT À L'ACQUISITION D'UN LOGEMENT ANCIEN
 
 Je soussigné,
 
@@ -8,9 +8,9 @@ Identification du vendeur
 
 Atteste avoir pris connaissance que l'opération immobilière objet de la présente attestation bénéficie d'une aide de l'Etat sous forme d'un prêt ne portant pas intérêt contracté auprès de......, en vue de financer l'acquisition du logement visé ci-après.
 
-J'atteste que ce logement fera l'objet, dans les conditions fixées au III de l'article R. 31-10-2 du code de la construction et de l'habitation, de travaux d'amélioration d'un montant de....... Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie.
+J'atteste que ce logement fera l'objet, dans les conditions fixées au III de l'article D. 31-10-2 du code de la construction et de l'habitation, de travaux d'amélioration d'un montant de....... Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la création de surfaces habitables nouvelles ou de surfaces annexes, la modernisation, l'assainissement ou l'aménagement des surfaces habitables ou des surfaces annexes ainsi que les travaux destinés à réaliser des économies d'énergie.
 
-Je reconnais avoir été informé que si les travaux ne sont pas réalisés ou si l'opération ne respecte pas la condition de travaux mentionnée au III de l'article R. 31-10-2 dans un délai de trois ans à compter de l'émission de l'offre de prêt, l'établissement de crédit sera en droit de procéder à la remise en cause de la totalité du montant ou des conditions du prêt sur le fondement des articles L. 31-10-7 et R. 31-10-7 du code de la construction et de l'habitation.
+Je reconnais avoir été informé que si les travaux ne sont pas réalisés ou si l'opération ne respecte pas la condition de travaux mentionnée au III de l'article D. 31-10-2 dans un délai de trois ans à compter de l'émission de l'offre de prêt, l'établissement de crédit sera en droit de procéder à la remise en cause de la totalité du montant ou des conditions du prêt sur le fondement des articles L. 31-10-7 et D. 31-10-7 du code de la construction et de l'habitation.
 
 RENSEIGNEMENTS CONCERNANT LE LOGEMENT OBJET DU PRÊT |
 
@@ -43,3 +43,7 @@ Rappel-En cas de fausse déclaration, le déclarant s'expose à d'éventuelles s
 Fait à
 
 Signature du vendeur
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 6 janvier 2020 ( NOR : LOGL1935137A ), les dispositions qui résultent de cet arrêté s'appliquent aux offres de prêts émises à compter du 1er janvier 2020.
