@@ -818,7 +818,7 @@ Réparation industrielle et maritime, 38, boulevard Gay-Lussac, 13014 Marseille 
 
 Risolo :
 
-- 180, avenue du Rove, 13015 Marseille : depuis 1975.
+- 108, avenue du Rove, Cité Saint-Louis, 13015 Marseille : depuis 1975 jusqu'à 2007.
 
 Riviera Yacht service/SA chantier naval de Saint-Laurent-du-Var/Monaco marine France, port de plaisance, 06310 Beaulieu-sur-Merde 1969 à 2010.
 
@@ -1156,7 +1156,7 @@ ST Audran et Oisio Quartier des Mouissèques, 83500 La Seyne-sur-Mer. De 1960 à
 
 START :
 
-- aire Mourepiane, PAM 4, 13016 Marseille : depuis 1989.
+- aire Mourepiane, PAM 4, 13016 Marseille : depuis 1989 jusqu'à 2009.
 
 Steeltech, 1, rue de la Reine-Elisabeth, 13001 Marseille, et quai de la Lave, route du Rove, 13016 Marseille : de 1990 à 1991.
 
