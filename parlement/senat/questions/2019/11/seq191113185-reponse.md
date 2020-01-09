@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113185
+
+- Question : [SEQ191113185](seq191113185.md) — Rapprochement entre la commission nationale du débat public et l'autorité environnementale
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2020-01-09, page 182*
+
+En qualité d'autorité indépendante (AI), la CNDP a proposé, dans une note de juin 2019, d'accueillir l'autorité environnementale (Ae) nationale en son sein. Cette proposition vise à regrouper au sein d'une même AI, les instances concourant au processus d'évaluation environnementale et de participation du public pour faciliter les modalités de saisine pour le maître d'ouvrage. En revanche, si cette possibilité présente l'apparence d'une meilleure cohérence, elle doit garantir à tout le moins de ne pas opérer une confusion entre les missions dévolues actuellement à la CNDP, notamment vis-à-vis des garants (qui élaborent un bilan de la concertation préalable en amont) et de l'Ae (qui rend un avis sur l'étude d'impact), qui pourraient coexister au sein d'une instance unique. La fusion de deux autorités qui jouent un rôle aujourd'hui différent quoique complémentaire pourrait avoir pour effet de créer des situations potentielles de « conflit d'intérêts ». La fusion en une même entité des compétences exercées respectivement par la CNDP et par l'Ae pourrait avoir ainsi des incidences sur la manière dont ces compétences seraient exercées. C'est la raison pour laquelle, la question de la compatibilité entre ces missions et d'un rapprochement de l'autorité environnementale et de la CNDP mérite une analyse approfondie, notamment au regard des obligations d'impartialité des garants. Le rapport, attendu pour l'année prochaine, relatif au bilan de la mise en œuvre des dispositions de l'ordonnance n° 2016-1060 du 3 août 2016 permettra de formuler des pistes d'amélioration dans ce domaine, notamment en évaluant l'efficience et la cohérence du dispositif actuel.
