@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190811951
+
+- Question : [SEQ190811951](seq190811951.md) — Vote électronique au sein des intercommunalités
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-01-09, page 165*
+
+Si l'article L. 2121-21 du code général des collectivités territoriales, applicable aux établissements publics de coopération intercommunale par renvoi de l'article L. 5211-1 dudit code, précise les cas dans lesquels une délibération est votée au scrutin public ou au scrutin secret, aucun formalisme n'est imposé sur les modalités du vote. Dès lors, le vote électronique peut être utilisé s'il permet de connaître le sens du vote de chaque élu. Dans le cadre d'un scrutin secret et notamment électoral (élection du président, des vice-présidents et des membres du bureau), il convient de s'assurer que les principes fondamentaux qui commandent les opérations électorales tels que le secret du vote et la sincérité du scrutin sont garantis par le vote électronique. À ce titre, un simple boitier électronique paramétré de manière à exprimer un vote « pour » ou « contre » une proposition donnée n'apparaît pas adapté. À l'inverse, la mise en place d'un vote dématérialisé par l'intermédiaire d'un logiciel permettant de ne pas restreindre l'option de vote à « oui » ou « non » ou « pour » et « contre » pourrait être admis permettant ainsi de généraliser le vote électronique pour l'ensemble des délibérations prises par un conseil communautaire. Toutefois, la généralisation du vote électronique ne doit pas avoir pour conséquence de rendre tous les votes anonymes. En effet, l'article L. 2121-21 du CGCT encadre strictement le recours au scrutin secret en précisant qu'il ne peut avoir lieu que dans deux cas : soit, lorsqu'un tiers des membres présents le réclame ; soit lorsqu'il y a lieu de procéder à une nomination ou à une présentation.
