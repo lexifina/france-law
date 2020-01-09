@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180304110
+
+- Question : [SEQ180304110](seq180304110.md) — Situation des résidences services
+
+## Réponse
+
+*Action et comptes publics, JO du 2020-01-09, page 126*
+
+Les critères déterminant le caractère d'utilité sociale de certaines associations sont clairement définis par le droit existant. La notion d'utilité sociale a été introduite par l'article 2 de la loi n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire. Aux termes de l'article 11 de la dite loi, codifié à l'article L. 3332-17-1 du code du travail, les associations et fondations reconnues d'utilité publique et considérées comme recherchant une utilité sociale au sens de l'article 2 de la loi n° 2014-856 du 31 juillet 2014 bénéficient de plein droit de l'agrément "entreprise solidaire d'utilité sociale". Pour être reconnues d'utilité publique, les associations déclarées doivent répondre à un certain nombre de critères définis par la loi du 1er juillet 1901 relative au contrat d'association, par le décret du 16 août 1901 pris pour son application, et précisés par la doctrine administrative, notamment les avis rendus par le Conseil d'État. Elles doivent ainsi avoir au moins trois ans d'existence, poursuivre un but d'intérêt général, distinct par conséquent de l'intérêt de leurs membres, avoir une influence et un rayonnement excédant significativement le cadre local et réunir un nombre suffisant d'adhérents (200 au minimum). Ces éléments ont vocation à démontrer que les associations postulantes ont l'envergure requise pour prétendre à une reconnaissance de niveau national. Elles doivent, en outre, apporter la preuve tangible de leur solidité financière ; elles doivent ainsi disposer de ressources pérennes, d'un montant indicatif supérieur à 46 000 €, provenant essentiellement de produits propres tels que les cotisations, visant ainsi à démontrer leur autonomie.
