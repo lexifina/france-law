@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012707
+
+- Question : [SEQ191012707](seq191012707.md) — Transfert d'une urne funéraire
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-01-09, page 172*
+
+En application de l'article R. 2223-23-3 du code général des collectivités territoriales (CGCT), « l'autorisation de retirer une urne d'une concession d'un site cinéraire est accordée par le maire dans les conditions prévues par l'article R. 2213-40 ». Ainsi, le retrait d'une urne d'un columbarium ou d'un cavurne est régi par les règles relatives à l'exhumation. Conformément à l'article R. 2213-40 précité, « toute demande d'exhumation est faite par le plus proche parent de la personne défunte », que celui-ci soit ou non titulaire de la concession. De plus, « l'exhumation est faite en présence d'un parent ou d'un mandataire de la famille ». Toutefois, et sans considération du mode de sépulture choisi (inhumation ou crémation), si le maire a connaissance d'un conflit familial au sujet de l'exhumation, il est préférable, afin d'éviter d'engager la responsabilité de la commune, qu'il sursoie à la délivrance de l'autorisation d'exhumation, renvoie les parties devant le tribunal de grande instance et attende que celui-ci ait tranché le différend (CAA de Nantes, 20 septembre 2013, M. Perrigault, req. n° 12NT00236). En effet, conformément à l'article R. 221-7 du code de l'organisation judiciaire il appartient au juge d'instance de connaître des litiges familiaux relatifs aux funérailles. Le cas échéant, le maire motive son refus d'autorisation d'exhumer en informant les demandeurs de l'existence de cette saisine. Pour information, la direction générale des collectivités locales a mis à la disposition des particuliers, comme des collectivités territoriales, un guide de recommandations relatif aux urnes funéraires et aux sites cinéraires, explicitant le droit en vigueur sur ces questions.
