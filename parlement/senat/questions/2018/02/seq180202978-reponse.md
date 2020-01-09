@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180202978
+
+- Question : [SEQ180202978](seq180202978.md) — Évaluation de la gestion du réseau national non concédé
+
+## Réponse
+
+*Transports (M. le SE auprès de la ministre), JO du 2020-01-09, page 183*
+
+En juin 2015, le Premier ministre a demandé une mission d'évaluation de la politique publique de gestion du réseau routier national non concédé qui n'a pu être conduite à son terme compte tenu de la réorientation des modalités d'évolution de l'action publique. Un certain nombre de travaux ont pu cependant être effectués et ont été présentés au comité des usagers du réseau routier national en 2016 et 2017. Les rapports d'activité du Comité des usagers du réseau routier national peuvent être communiqués, sur demande des personnes intéressées. Le rôle du comité est précisé sur le site internet du ministère de la transition écologique et solidaire à l'adresse internet suivante : https://www.ecologique-solidaire.gouv.fr/acteurs-route-en-france#e4. Par ailleurs, les travaux d'évaluation du réseau routier national non concédé ont été repris et poursuivis par le comité d'orientation des infrastructures dont le rapport peut être consulté à l'adresse internet suivante : https://www.ecologique-solidaire.gouv.fr/sites/default/files/2018.02.01_synthese_rapport_conseil_d_orientation_des_infrastructures_0.pdf. Enfin, un audit externe du réseau routier national non concédé a été réalisé par deux cabinets indépendants (Nibuxs et IMDM) ; le rapport d'audit a été communiqué à la commission de l'aménagement du territoire et du développement durable du Sénat et à la commission du développement durable de l'Assemblée nationale. Le communiqué de presse peut être consulté à l'adresse internet suivante : https://www.ecologique-solidaire.gouv.fr/sites/default/files/2018.07.10_dossier_reseau_routier.pdf
