@@ -42,10 +42,8 @@ En cas de non-information ou de non-production de justificatif, les attestations
 
 - vérifier l'identité des stagiaires ;
 
-- assurer personnellement l'ouverture du stage, rappeler aux stagiaires le contenu du règlement intérieur et expliquer les règles de fonctionnement du stage. Le règlement intérieur devra prévoir les trois cas suivants d'exclusion de stage : désintéressement visible pour la formation dispensée, comportement faisant manifestement apparaître la consommation de produits psychoactifs, non-respect des horaires. Pour chaque demi-journée, les stagiaires devront signer des feuilles d'émargement ;
+- assurer personnellement l'ouverture du stage, rappeler aux stagiaires le contenu du règlement intérieur et expliquer les règles de fonctionnement du stage. Le règlement intérieur devra prévoir les trois cas suivants d'exclusion de stage : désintéressement visible pour la formation dispensée, comportement faisant manifestement apparaître la consommation de produits psychoactifs, non-respect des horaires. Pour chaque demi-journée, les stagiaires devront signer la feuille d'émargement conforme au modèle prévu à l'annexe 7 ;
 
 - prendre toute disposition pour être joignable à tout moment et en capacité d'intervenir en personne en cas d'incident ou de litige à régler en cours de stage ;
 
 - assurer en personne la clôture du stage et remettre aux stagiaires un exemplaire de l'attestation de suivi de stage de sensibilisation à la sécurité routière conforme au modèle annexé à l'arrêté du 25 février 2004 relatif aux documents établis à l'occasion du suivi des stages de sensibilisation à la sécurité routière et valablement renseigné et signé. Cette attestation ne sera pas délivrée aux stagiaires n'ayant pas suivi l'intégralité du stage ;
-
-- conserver dans les archives de l'établissement, pendant une période de deux ans à compter de la date du stage, les feuilles d'émargement.
