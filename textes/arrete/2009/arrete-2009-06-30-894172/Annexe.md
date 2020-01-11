@@ -42,6 +42,12 @@ Pour l'année 2019
 
 |
 
+Pour l'année 2020
+
+|
+
+17 |
+
 Ces taux sont également applicables au corps des professeurs des écoles du corps de l'Etat créé pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003
 
 |
