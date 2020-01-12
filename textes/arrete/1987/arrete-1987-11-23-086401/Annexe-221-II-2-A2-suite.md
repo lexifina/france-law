@@ -236,13 +236,11 @@ EXEMPLE DE CALCUL DE LA LARGEUR MINIMALE (W) D'UN ESCALIER
 
 2.1.2.2.2 Répartition des personnes
 
-2.1.2.2.2.1 Les dimensions des moyens d'évacuation doivent être calculées en fonction du nombre total de personnes susceptibles d'emprunter l'escalier et de passer par les portes, les coursives et les paliers (voir la figure 3) pour s'échapper. Les calculs doivent être effectués séparément pour les deux cas d'occupation des locaux spécifiés ci-dessous. La dimension retenue pour chaque élément faisant partie de l'échappée ne doit pas être inférieure à la plus grande des dimensions calculées pour chaque cas :
+2.1.2.2.2.1. Les dimensions des moyens d'évacuation doivent être calculées en fonction du nombre total de personnes susceptibles d'emprunter l'escalier et de passer par les portes, les coursives et les paliers (voir la figure 3) pour s'échapper. Les calculs doivent être effectués séparément pour les deux cas d'occupation des locaux spécifiés ci-dessous. La dimension retenue pour chaque élément faisant partie de l'échappée ne doit pas être inférieure à la plus grande des dimensions calculées pour chaque cas :
 
-Cas 1 : passagers dans les cabines occupées à leur capacité de couchage maximale ; membres de l'équipage dans des cabines occupées aux 2/3 de leur capacité de couchage
+Cas 1 : passagers dans les cabines occupées à leur capacité de couchage maximale ; membres de l'équipage dans des cabines occupées aux 2/3 de leur capacité de couchage maximale ; et locaux de service occupés par 1/3 des membres de l'équipage.
 
-maximale ; et locaux de service occupés par 1/3 des membres de l'équipage.
-
-Cas 2 : passagers dans les locaux de réunion occupés aux 3/4 de leur capacité maximale ; membres de l'équipage dans les locaux de réunion occupés au 1/3 de leur capacité maximale ; locaux de service occupés par 1/3 des membres de l'équipage ; et locaux d'habitation de l'équipage occupés par 1/3 des membres de l'équipage.
+Cas 2 : passagers dans les locaux de réunion occupés aux 3/4 de leur capacité maximale ; 1/3des membres de l'équipage répartis dans les locaux de réunion ; locaux de service occupés par 1/3 des membres de l'équipage ; et locaux d'habitation de l'équipage occupés par 1/3 des membres de l'équipage.
 
 2.1.2.2.2.2 Aux fins du calcul de la largeur d'escalier uniquement, le nombre maximal de personnes dans une tranche verticale, y compris les personnes rejoignant les escaliers à partir d'une autre tranche verticale principale, ne doit pas être considéré comme plus élevé que le nombre maximal de personnes que le navire est autorisé à transporter.
 

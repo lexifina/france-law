@@ -648,9 +648,11 @@ Le nombre des têtes de diffuseur de rechange d'un type quelconque ne doit pas n
 
 2.4 Prescriptions concernant l'installation
 
-2.4.1 Généralités
+2.4.1. Généralités
 
-Toutes les parties de l'installation qui peuvent être soumises au cours de l'exploitation à des températures égales ou inférieures à 0°C doivent être protégées contre le gel.
+2.4.1.1. Toutes les parties de l'installation qui peuvent être soumises au cours de l'exploitation à des températures inférieures ou égales à 0°C doivent être convenablement protégées contre le gel.
+
+2.4.1.2. Il faut accorder une attention particulière aux spécifications de la qualité de l'eau fournies par le fabricant de l'installation afin que les diffuseurs ne se corrodent pas à l'intérieur et ne se bouchent pas en raison de produits d'une corrosion ou de minéraux formant des dépôts.
 
 2.4.2 Installation de tuyautages
 

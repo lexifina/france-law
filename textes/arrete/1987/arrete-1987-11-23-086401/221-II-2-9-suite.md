@@ -1104,6 +1104,18 @@ au plafond ; soit
 
 Les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarquement dans les embarcations de sauvetage doivent avoir une intégrité au feu au moins équivalente à la norme "A-0".
 
+4.1.3.4. Nonobstant les prescriptions du paragraphe 4.1.3.3, les prescriptions des paragraphes 4.1.3.5 et 4.1.3.6 s'appliquent aux navires construits le 1er janvier 2020 ou après cette date.
+
+4.1.3.5 Pour les navires transportant plus de 36 passagers, les fenêtres faisant face à des embarcations ou radeaux de sauvetage, aux postes d'embarquement et de rassemblement, aux escaliers extérieurs et ponts découverts servant d'échappées, ainsi que les fenêtres situées au-dessous des zones d'embarquement dans les radeaux de sauvetage et toboggans d'évacuation, doivent avoir une intégrité au feu conforme aux prescriptions du tableau 9.1. Si des têtes de diffuseurs automatiques spéciales sont prévues pour les fenêtres, des fenêtres du type “A-0” peuvent être acceptées comme étant équivalentes. Les têtes de diffuseurs dont l'utilisation peut être envisagée dans le contexte du présent paragraphe doivent être soit :
+
+.1 des têtes spéciales, situées au-dessus des fenêtres et installées en plus des diffuseurs classiques fixés au plafond ; soit
+
+.2 des têtes de diffuseurs classiques fixés au plafond, disposées de telle façon que la fenêtre soit protégée par un taux d'application moyen d'au moins 5 l/min/m2 et que la surface de fenêtre supplémentaire soit prise en compte dans le calcul de la surface à couvrir ; soit
+
+.3 des ajutages diffusant de l'eau en brouillard qui aient été mis à l'essai et approuvés conformément aux Directives adoptées par l'Organisation*68 (4) ; et les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarquement dans les embarcations de sauvetage doivent avoir une intégrité au feu au moins équivalente à la norme “A-0”.
+
+4.1.3.6. Pour les navires ne transportant pas plus de 36 passagers, les fenêtres faisant face aux zones d'embarquement dans les embarcations et radeaux de sauvetage et toboggans d'évacuation et les fenêtres situées au-dessous de ces zones doivent avoir une intégrité au feu au moins équivalente à la norme “A-0”.
+
 4.2 Portes ménagées dans les cloisons d'incendie à bord des navires de charge
 
 4.2.1 Les portes doivent avoir une résistance au feu équivalente à celle de la cloison dans laquelle elles sont installées, cela étant déterminé conformément au Code des méthodes d'essai au feu. Les portes et les encadrements de porte ménagés dans les cloisonnements du type "A" doivent être en acier. Les portes ménagées dans les cloisonnements du type "B" doivent être incombustibles. Les portes situées dans les cloisons qui constituent les limites des locaux de machines de la catégorie A doivent être suffisamment étanches aux gaz et à fermeture automatique. A bord des navires construits conformément à la méthode IC, l'Administration peut autoriser l'utilisation de matériaux combustibles pour les portes des installations sanitaires individuelles situées à l'intérieur des cabines, telles que les douches. Les portes approuvées comme portes du type "A" avec un dormant sans seuil qui sont installées le 1er juillet 2010 ou après cette date doivent l'être de sorte que la fente sous la porte ne dépasse pas 12 mm et un seuil incombustible doit être installé sous la porte pour empêcher les revêtements de sol de se prolonger au-dessous de la porte fermée. Les portes approuvées comme portes du type "B" avec un dormant sans seuil qui sont installées le 1er juillet 2010 ou après cette date doivent l'être de sorte que la fente sous la porte ne dépasse pas 25 mm.
@@ -1262,7 +1274,7 @@ Les conduits d'évacuation des fourneaux des cuisines doivent être construits c
 
 . 3 de dispositifs permettant d'arrêter, depuis la cuisine, les ventilateurs aspirants et refoulants ; et
 
-. 4 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit (9).
+. 4 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit (3).
 
 7.6 Locaux de ventilation desservant des chambres des machines de la catégorie A qui contiennent des machines à combustion interne
 
@@ -1289,3 +1301,5 @@ NOTA :
 (2) Des schémas de ces dispositions figurent dans les Interprétations uniformes du chapitre II-2 de la Convention SOLAS (MSC.1/Circ.1276).
 
 (3) Se reporter aux recommandations publiées par l'Organisation internationale de normalisation, en particulier à la publication ISO 15371 : 2009, Navires et technologie maritime - Systèmes d'extinction d'incendie des équipements de cuisine.
+
+(4) Se reporter aux Directives révisées pour l'approbation de dispositifs d'extinction par eau diffusée équivalant à ceux prévus à la règle II-2/12 de la Convention SOLAS (résolution A.800(19), telle que modifiée.
