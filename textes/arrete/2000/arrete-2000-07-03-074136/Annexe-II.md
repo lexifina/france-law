@@ -416,7 +416,7 @@ Ducellier et Cie puis Valéo, route de Montreuil, 62630 Etaples : de 1971 à 199
 
 Entreprise Damette/ Sockeel A et J, 45, rue de la Sous-Préfecture, 59190 Hazebrouck, de 1961 à 1976 ;
 
-Entreprise générale d'isolation Poujaud, rue Gabriel-Péri, ZI de la Samaritaine, BP 53,59430 Saint-Pol-sur-Mer : de 1977 à 1987 ; Poujaud SA : depuis 1987 ;
+Entreprise générale d'isolation Poujaud, rue Gabriel-Péri, ZI de la Samaritaine, BP 53,59430 Saint-Pol-sur-Mer : de 1977 à 1987 ; Poujaud SA : depuis 1987 jusqu'à 2006 ;
 
 Entreprise Vanpeene Albert, rue Rolls, 62231 Sangatte, de 1979 à 1994.
 
@@ -565,6 +565,10 @@ Trouvay Cauvin, 58 rue du Général-Chanzy, 76600 Le Havre, de 1969 à 1973. Usi
 Wanner/ Wanner Isofi Isolation/ Wanner Industrie, ancienne route de Duclair, 76380 Canteleu : de 1973 à 1995 ; parc des Falaises, 76700 Gonfreville-l'Orcher : de 1973 à 1999.
 
 WITCO, rue Gravetel, 76320 Saint-Pierre-lès-Elbeuf, de 1972 à 1989.
+
+FONDERIES ET ACIERIES DE PARIS SEINE/ FAPS CATERPILLAR/ CATERPILLAR FONDERIE DE VERNON/ FONDERIE DE VERNON
+
+108-112, avenue de Rouen, 27200 VERNON : de 1957 à 1999.
 
 Occitanie
 
