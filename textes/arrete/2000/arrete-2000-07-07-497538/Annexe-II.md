@@ -282,7 +282,9 @@ Ateliers mécaniques Bougar :
 
 Ateliers mécaniques de Keroman, rue Maurice-Le Léon, 56100 Lorient : de 1967 à 1994
 
-Ateliers mécaniques lorientais 2, rue Fulvy, 56100 Lorient de 1994 à 1996 puis 13, boulevard Louis-Nail, 56100 Lorient de 1997 à 2012
+Ateliers Mécaniques Lorientais 2, rue Fulvy, 56100 LORIENT : de 1994 à septembre 1996, puis 13 boulevard Louis Nail, 56100 LORIENT :
+
+d'octobre 1996 à juin 2011 et 32, rue Ingénieur Verrière, 56100 LORIENT : de juillet 2011 à 2012.
 
 Atelier motonautique, Port-la-Forêt, 29940 La Forêt-Fouessant : depuis 1977.
 
@@ -345,6 +347,8 @@ CCI de Brest Chambre de commerce et d'industrie de Brest : siège social : place
 CEMAT (Construction Etudes et Montages de l'Atlantique) :
 
 - rue de l'Eau-Blanche, ZI de Kergonan, 29200 Brest : depuis sa création.
+
+Centre d'Entretien et de Réparation de l'Ouest (C.E.R.O.), sis 20, quai Trichet à SAINT-MALO (35400), de 1983 à 2003.
 
 Chantier du Guip :
 
