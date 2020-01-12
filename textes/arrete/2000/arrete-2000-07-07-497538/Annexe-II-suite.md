@@ -450,7 +450,7 @@ COMPAGNIE DE SIGNAUX ET D'ENTREPRISES ÉLECTRIQUES (CSEE), Résidence La Grande 
 
 CORSICA LINEA SAS (n° SIRET 81524385200101), 42, rue de Ruffi, Bât G, 13003 MARSEILLE
 
-Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 à 2018.
+Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 au 30 juin 2021.
 
 Cotre :
 
@@ -830,7 +830,7 @@ SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, 
 
 SA Compagnie Marseille Réparation-CMR (SIRET : 442 531 281 00016), puis Union Naval Marseille SAS (UNM) (SIRET : 490 355 005 00029), Terrain de Mourepiane, Porte 4, 13016 MARSEILLE
 
-puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 à 2018.
+puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 au 30 juin 2021.
 
 SA des anciens établissements Groignard/Ateliers provençaux de réparation navale/Ateliers provençaux de réparation navale et industrielle/Ateliers provençaux :
 
