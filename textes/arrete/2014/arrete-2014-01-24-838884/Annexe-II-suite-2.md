@@ -56,11 +56,11 @@ FR000000000000725
 
 |
 
-Compagnie de Chauffage urbain de Cergy-Pontoise (CYEL)
+CENERGY
 
 |
 
-Chaufferie urbaine CYEL
+CENERGY (ex CYEL)
 
 |
 
@@ -4904,23 +4904,23 @@ CNES
 
 |
 
-2 437
+1 632
 
 |
 
-2 059
+1 379
 
 |
 
-1 694
+1 135
 
 |
 
-1 342
+899
 
 |
 
-21 307
+18 820
 
 |
 
@@ -5744,11 +5744,11 @@ FR000000000000898
 
 |
 
-HYET SWEET
+HSWT France
 
 |
 
-HYET SWEET
+HSWT France
 
 |
 
@@ -12572,7 +12572,7 @@ BOUYER LEROUX Site de St Marcellin en forez
 
 |
 
-16 115
+16 116
 
 |
 
@@ -12584,7 +12584,7 @@ BOUYER LEROUX Site de St Marcellin en forez
 
 |
 
-9 527
+9 526
 
 |
 
@@ -14478,11 +14478,11 @@ FR000000000001162
 
 |
 
-PROVENCE TOMATES
+LE PANIER PROVENCAL
 
 |
 
-PROVENCE TOMATES
+LE PANIER PROVENCAL
 
 |
 

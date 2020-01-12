@@ -1146,11 +1146,11 @@ EDILIANS Site de Ste Foy l'Argentière
 
 FR000000000000422 |
 
-DALKIA
+Vaulx-en-Velin Villeurbanne Energies
 
 |
 
-Chaufferie urbaine de Vaux en Velin
+Chaufferie urbaine de Vaulx-en-Velin
 
 |
 

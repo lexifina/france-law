@@ -126,7 +126,9 @@ BRUYERES
 
 FR000000000000120 |
 
-Coopérative ISIGNY Sainte mère |
+Coopérative ISIGNY Sainte mère
+
+|
 
 COOPERATIVE ISIGNY SAINTE MERE |
 
@@ -246,7 +248,9 @@ ARKEMA Usine de Jarrie
 
 FR000000000000504 |
 
-LUCART SAS |
+LUCART SAS
+
+|
 
 Lucart SAS (ex-Novatissue) |
 
@@ -996,7 +1000,9 @@ NOVAPEX |
 
 FR-new-05904909 |
 
-SOLVAY Opérations France |
+SOLVAY Opérations France
+
+|
 
 SLV-Ta-SOLEXIS |
 
@@ -1020,7 +1026,9 @@ SLV-Ta-SOLEXIS |
 
 FR-new-06600541 |
 
-SAS PAREFEUILLE PROVENCE |
+SAS PAREFEUILLE PROVENCE
+
+|
 
 PAREFEUILLE SAS |
 
@@ -1044,7 +1052,9 @@ PAREFEUILLE SAS |
 
 FR000000000000303 |
 
-NIPRO PHARMAPACKAGING France |
+NIPRO PHARMAPACKAGING France
+
+|
 
 NIPRO PHARMAPACKAGING France |
 
@@ -1065,3 +1075,29 @@ NIPRO PHARMAPACKAGING France |
 1 918 |
 
 12 460 |
+
+FR000000000000550
+
+|
+
+ERENA |
+
+Centrale Thermique Beaulieu Malakoff |
+
+0 |
+
+0 |
+
+0 |
+
+1 613 |
+
+6 678 |
+
+5 643 |
+
+4 642 |
+
+3 677 |
+
+22 253 |

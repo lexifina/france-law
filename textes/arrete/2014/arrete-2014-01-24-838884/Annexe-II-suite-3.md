@@ -4660,13 +4660,11 @@ FR-new-05801045
 
 |
 
-SIDEFO
+CRISTAL UNION
 
 |
 
-Sidefo
-
-|
+CRISTAL UNION |
 
 9 866
 
@@ -8140,11 +8138,11 @@ COLAS PROJECT TSM 25 n° 4 |
 
 184 |
 
-152 |
+- |
 
-0 |
+- |
 
-1 902 |
+1 750 |
 
 FR-new-06308843 |
 
@@ -9468,9 +9466,9 @@ Chaufferie du CENTRE HOSPITALIER VICTOR DUPOUY
 
 FR-new-06513220 |
 
-Compagnie de Chauffage Urbain de Cergy Pontoise (CYEL) |
+CENERGY |
 
-CYEL (chaufferie des Linandes) |
+Chaufferie des Linandes |
 
 6928 |
 
@@ -10450,11 +10448,11 @@ FR-new-06700653
 
 |
 
-CRISTAL France SAS
+TRONOX FRANCE SAS
 
 |
 
-CRISTAL France SAS
+TRONOX FRANCE SAS
 
 |
 
@@ -11022,11 +11020,11 @@ Airbus Defence & Space (Astrium) |
 
 449 |
 
-432 |
+- |
 
-416 |
+- |
 
-3 798 |
+2 950 |
 
 FR-new-06803365
 
@@ -13796,7 +13794,7 @@ COOPERATIVE BOURGOGNE DU SUD
 
 |
 
-Coopérative Bourgogne du Sud site de Verdun-sur-le-Doubs
+Coopérative Bourgogne du Sud Site de Verdun sur le Doubs
 
 |
 
@@ -13824,15 +13822,15 @@ Coopérative Bourgogne du Sud site de Verdun-sur-le-Doubs
 
 |
 
-561
+141
 
 |
 
-444
+111
 
 |
 
-7 073
+6 320
 
 |
 
@@ -13890,23 +13888,23 @@ SAS STANVEN |
 
 SAS STANVEN Usine de Plouray |
 
-/ |
+0 |
 
-/ |
+0 |
 
-/ |
+4 726 |
 
-/ |
+7 055 |
 
-/ |
+6 081 |
 
-/ |
+5 139 |
 
-/ |
+4 227 |
 
-/ |
+3 348 |
 
-/ |
+30 576 |
 
 FR-new-69905007
 
@@ -14130,23 +14128,23 @@ ESTIA RESEAUX DE CHALEUR |
 
 Chaufferies du Plateau de Haye |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+657 |
 
-/ |
+3 233 |
 
-/ |
+2561 |
 
-/ |
+6 451 |
 
 FR-new-03012743 |
 
@@ -14198,9 +14196,9 @@ Station de compression de Sauveterre-de-Guyenne |
 
 FR-new-03012705 |
 
-KNAUF INSULATION |
+KNAUF INSULATION LANNEMEZAN |
 
-KNAUF INSULATION site de Ilange |
+KNAUF INSULATION site de Illange |
 
 / |
 
@@ -14555,6 +14553,110 @@ Entreprise Malet-Grands Chantiers-PE 15 |
 / |
 
 / |
+
+FR-new-06208750 |
+
+DALKIA
+
+|
+
+Centrale d'énergie Hôpital de MERCY |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06206645 |
+
+ENES Creutzwald
+
+|
+
+Chaufferie urbaine et Centrale d'autoproduction d'électricité et de cogénération |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06103703 |
+
+FRESENIUS MEDICAL CARE SMAD
+
+|
+
+FRESENIUS MEDICAL CARE SMAD |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03201408 |
+
+Engie Energie Services COFELY
+
+|
+
+Centrale de cogénération Site ARKEMA Jarrie |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+0 |
+
+0 |
+
+0 |
 
 NOTA :
 
