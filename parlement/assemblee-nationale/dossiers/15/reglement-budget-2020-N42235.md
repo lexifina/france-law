@@ -1,0 +1,67 @@
+# Loi de règlement 2020
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42235
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reglement_budget_2020
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-699.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-04-14 : 1er dépôt d'une initiative. (PRJLANR5L15B4090)
+  - 2021-04-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-04-14 : Renvoi en commission au fond
+      - 2020-01-15 : Nomination de rapporteur
+      - 2021-06-16 : Réunion de commission
+      - 2021-05-26 : Dépôt de rapport (RAPPANR5L15B4195)
+  - Discussion en séance publique
+    - 2021-06-16 : Discussion en séance publique
+    - 2021-06-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-06-17 : Dépôt d'une initiative en navette (PRJLSNR5S359B0699)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-06-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-07-07 : Dépôt de rapport (RAPPSNR5S359B0743)
+  - Discussion en séance publique
+    - 2021-07-15 : Décision
+- Commission Mixte Paritaire
+  - 2021-07-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-07-15 : Nomination de rapporteur
+    - 2021-07-15 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0772, PRJLSNR5S359BTC0773)
+    - 2021-07-16 : Dépôt du rapport d'une CMP (RAPPANR5L15B4380)
+  - 2021-07-16 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-07-15 : Dépôt d'une initiative en navette (PRJLANR5L15B4377)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-15 : Renvoi en commission au fond
+      - 2021-07-19 : Dépôt de rapport (RAPPANR5L15B4384)
+  - Discussion en séance publique
+    - 2021-07-20 : Discussion en séance publique
+    - 2021-07-20 : Décision
+- Nouvelle Lecture
+  - 2021-07-21 : Dépôt d'une initiative en navette (PRJLSNR5S359B0784)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-21 : Renvoi en commission au fond
+      - 2021-07-21 : Dépôt de rapport (RAPPSNR5S359B0788)
+  - Discussion en séance publique
+    - 2021-07-21 : Discussion en séance publique
+    - 2021-07-21 : Décision
+- Lecture définitive
+  - 2021-07-21 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0652)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-21 : Renvoi en commission au fond
+      - 2021-07-23 : Dépôt de rapport (RAPPANR5L15B4414)
+  - Discussion en séance publique
+    - 2021-07-23 : Discussion en séance publique
+    - 2021-07-23 : Décision
+- Promulgation de la loi
+  - 2021-08-05 : Promulgation d'une loi
