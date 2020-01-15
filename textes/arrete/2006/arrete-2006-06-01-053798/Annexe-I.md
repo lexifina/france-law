@@ -62,7 +62,7 @@ Il peut être délivré un second livret :
 
 -en cas de changement de prénom prononcé à la suite d'une décision de changement de la mention du sexe à l'état civil ayant entraîné la modification de l'acte de mariage ainsi que des actes de naissance des enfants, sous réserve de la restitution du premier livret ;
 
--lorsque l'un des titulaires en est dépourvu, notamment en cas de divorce ou de séparation des titulaires justifiée par la production d'une décision judiciaire, d'une convention judiciairement homologuée ou d'un acte de divorce par consentement mutuel sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire mais aussi toutes les fois que le demandeur invoque un intérêt à disposer d'un livret de famille : mésentente entre les époux, séparation de fait (etc.).
+-lorsque l'un des titulaires en est dépourvu, notamment en cas de divorce ou de séparation des titulaires justifiée par la production d'une décision judiciaire, d'une convention judiciairement homologuée ou d'une convention de divorce ou de séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats et déposé au rang des minutes d'un notaire mais aussi toutes les fois que le demandeur invoque un intérêt à disposer d'un livret de famille : mésentente entre les époux, séparation de fait (etc.).
 
 Le demandeur doit s'adresser à l'officier de l'état civil du lieu de sa résidence.
 
