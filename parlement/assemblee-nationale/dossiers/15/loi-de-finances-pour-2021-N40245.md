@@ -1,0 +1,220 @@
+# Projet de loi de finances pour 2021
+
+- Procédure : Projet de loi de finances de l'année
+- Législature : 15
+- Identifiant : DLR5L15N40245
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_de_finances_pour_2021
+- Sénat : http://www.senat.fr/dossier-legislatif/pjlf2021.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-09-28 : 1er dépôt d'une initiative. (PRJLANR5L15B3360)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-09-28 : Renvoi en commission au fond
+      - 2020-01-16 : Nomination de rapporteur
+      - 2020-09-28 : Nomination de rapporteur budgétaire
+      - 2020-10-20 : Nomination de rapporteur budgétaire
+      - 2020-09-28 : Réunion de commission
+      - 2020-10-06 : Réunion de commission
+      - 2020-10-06 : Réunion de commission
+      - 2020-10-06 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-10-12 : Réunion de commission
+      - 2020-10-20 : Réunion de commission
+      - 2020-10-20 : Réunion de commission
+      - 2020-10-20 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-22 : Réunion de commission
+      - 2020-10-22 : Réunion de commission
+      - 2020-10-22 : Réunion de commission
+      - 2020-10-23 : Réunion de commission
+      - 2020-10-23 : Réunion de commission
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-12 : Réunion de commission
+      - 2020-10-08 : Dépôt de rapport (RAPPANR5L15B3399)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-07-08 : Nomination de rapporteur budgétaire
+      - 2020-07-08 : Réunion de commission
+      - 2020-10-27 : Réunion de commission
+      - 2020-10-28 : Réunion de commission
+      - 2020-10-28 : Réunion de commission
+      - 2020-10-28 : Réunion de commission
+      - 2020-10-28 : Réunion de commission
+      - 2020-11-04 : Réunion de commission
+      - 2020-10-28 : Dépôt de rapport (AVISANR5L15B3488)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-07-01 : Nomination de rapporteur budgétaire
+      - 2020-07-01 : Réunion de commission
+      - 2020-10-20 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-27 : Réunion de commission
+      - 2020-10-27 : Réunion de commission
+      - 2020-10-21 : Dépôt de rapport (AVISANR5L15B3459)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-07-01 : Nomination de rapporteur budgétaire
+      - 2020-07-07 : Nomination de rapporteur budgétaire
+      - 2020-09-22 : Nomination de rapporteur budgétaire
+      - 2020-09-22 : Réunion de commission
+      - 2020-10-09 : Dépôt de rapport (AVISANR5L15B3400)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-06-03 : Nomination de rapporteur budgétaire
+      - 2020-09-16 : Nomination de rapporteur budgétaire
+      - 2020-10-14 : Réunion de commission
+      - 2020-10-09 : Dépôt de rapport (AVISANR5L15B3403)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-02-12 : Nomination de rapporteur budgétaire
+      - 2020-06-24 : Nomination de rapporteur budgétaire
+      - 2020-10-06 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-10-08 : Réunion de commission
+      - 2020-10-14 : Réunion de commission
+      - 2020-10-14 : Réunion de commission
+      - 2020-10-14 : Réunion de commission
+      - 2020-10-14 : Réunion de commission
+      - 2020-10-15 : Réunion de commission
+      - 2020-10-15 : Réunion de commission
+      - 2020-10-20 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-21 : Dépôt de rapport (AVISANR5L15B3465)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-07-08 : Nomination de rapporteur budgétaire
+      - 2020-09-30 : Nomination de rapporteur budgétaire
+      - 2020-07-08 : Réunion de commission
+      - 2020-09-30 : Réunion de commission
+      - 2020-10-13 : Dépôt de rapport (AVISANR5L15B3404)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-07-01 : Nomination de rapporteur budgétaire
+      - 2020-09-15 : Nomination de rapporteur budgétaire
+      - 2020-07-01 : Réunion de commission
+      - 2020-09-15 : Réunion de commission
+      - 2020-10-05 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-10-28 : Réunion de commission
+      - 2020-10-28 : Réunion de commission
+      - 2020-10-07 : Dépôt de rapport (AVISANR5L15B3398)
+  - Discussion en séance publique
+    - 2020-10-12 : Discussion en séance publique
+    - 2020-10-12 : Discussion en séance publique
+    - 2020-10-13 : Discussion en séance publique
+    - 2020-10-13 : Discussion en séance publique
+    - 2020-10-14 : Discussion en séance publique
+    - 2020-10-14 : Discussion en séance publique
+    - 2020-10-15 : Discussion en séance publique
+    - 2020-10-15 : Discussion en séance publique
+    - 2020-10-15 : Discussion en séance publique
+    - 2020-10-16 : Discussion en séance publique
+    - 2020-10-16 : Discussion en séance publique
+    - 2020-10-16 : Discussion en séance publique
+    - 2020-10-19 : Discussion en séance publique
+    - 2020-10-19 : Discussion en séance publique
+    - 2020-10-20 : Discussion en séance publique
+    - 2020-10-26 : Discussion en séance publique
+    - 2020-10-26 : Discussion en séance publique
+    - 2020-10-26 : Discussion en séance publique
+    - 2020-10-27 : Discussion en séance publique
+    - 2020-10-27 : Discussion en séance publique
+    - 2020-10-28 : Discussion en séance publique
+    - 2020-10-28 : Discussion en séance publique
+    - 2020-10-29 : Discussion en séance publique
+    - 2020-10-29 : Discussion en séance publique
+    - 2020-10-30 : Discussion en séance publique
+    - 2020-10-30 : Discussion en séance publique
+    - 2020-10-30 : Discussion en séance publique
+    - 2020-11-02 : Discussion en séance publique
+    - 2020-11-02 : Discussion en séance publique
+    - 2020-11-02 : Discussion en séance publique
+    - 2020-11-04 : Discussion en séance publique
+    - 2020-11-05 : Discussion en séance publique
+    - 2020-11-05 : Discussion en séance publique
+    - 2020-11-05 : Discussion en séance publique
+    - 2020-11-06 : Discussion en séance publique
+    - 2020-11-06 : Discussion en séance publique
+    - 2020-11-06 : Discussion en séance publique
+    - 2020-11-07 : Discussion en séance publique
+    - 2020-11-07 : Discussion en séance publique
+    - 2020-11-09 : Discussion en séance publique
+    - 2020-11-09 : Discussion en séance publique
+    - 2020-11-09 : Discussion en séance publique
+    - 2020-11-12 : Discussion en séance publique
+    - 2020-11-12 : Discussion en séance publique
+    - 2020-11-12 : Discussion en séance publique
+    - 2020-11-13 : Discussion en séance publique
+    - 2020-11-13 : Discussion en séance publique
+    - 2020-11-13 : Discussion en séance publique
+    - 2020-11-17 : Discussion en séance publique
+    - 2020-11-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-11-19 : Dépôt d'une initiative en navette (PRJLSNR5S359B0137)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-11-19 : Dépôt de rapport (RAPPSNR5S359B0138)
+  - Discussion en séance publique
+    - 2020-12-08 : Discussion en séance publique
+    - 2020-12-08 : Décision
+- Commission Mixte Paritaire
+  - 2020-12-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-12-09 : Nomination de rapporteur
+    - 2020-12-09 : Dépôt du rapport d'une CMP (RAPPANR5L15B3652)
+    - 2020-12-09 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0215, PRJLSNR5S359BTC0216)
+  - 2020-12-09 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-12-08 : Dépôt d'une initiative en navette (PRJLANR5L15B3642)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-08 : Renvoi en commission au fond
+      - 2020-12-11 : Réunion de commission
+      - 2020-12-14 : Réunion de commission
+      - 2020-12-11 : Dépôt de rapport (RAPPANR5L15B3659)
+  - Discussion en séance publique
+    - 2020-12-14 : Discussion en séance publique
+    - 2020-12-14 : Discussion en séance publique
+    - 2020-12-15 : Discussion en séance publique
+    - 2020-12-15 : Discussion en séance publique
+    - 2020-12-15 : Décision
+- Nouvelle Lecture
+  - 2020-12-16 : Dépôt d'une initiative en navette (PRJLSNR5S359B0236)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-16 : Renvoi en commission au fond
+      - 2020-12-16 : Dépôt de rapport (RAPPSNR5S359B0247)
+  - Discussion en séance publique
+    - 2020-12-16 : Discussion en séance publique
+    - 2020-12-16 : Décision
+- Lecture définitive
+  - 2020-12-17 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0536)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-17 : Renvoi en commission au fond
+      - 2020-12-17 : Dépôt de rapport (RAPPANR5L15B3705)
+  - Discussion en séance publique
+    - 2020-12-17 : Discussion en séance publique
+    - 2020-12-17 : Décision
+- Conseil constitutionnel
+  - 2020-12-17 : Saisine du conseil constitutionnel
+  - 2020-12-18 : Saisine du conseil constitutionnel
+  - 2020-12-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-12-29 : Promulgation d'une loi
