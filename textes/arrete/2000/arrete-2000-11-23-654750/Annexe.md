@@ -480,19 +480,19 @@ En charge d'un service relevant du secrétariat général
 
 |
 
-Service central des armesChef |
+Service central des armes |
 
-de service1100En |
+Chef de service |
 
-|
+1 |
 
-|
+100 |
 
-charge d'une sous-direction relevant du secrétariat généralDirection |
+En charge d'une sous-direction relevant du secrétariat général |
 
-de la modernisation et de l'action territorialeSous |
+Direction de la modernisation et de l'action territoriale |
 
--directeur du corps préfectoral et des administrateurs civils
+Sous-directeur du corps préfectoral et des administrateurs civils
 
 |
 
@@ -576,25 +576,25 @@ Direction générale de la sécurité intérieure
 
 |
 
-Chef de service, directeur technique adjoint1100Chef |
+Chef de service, directeur technique adjoint |
 
-|
+1 |
 
-|
+110 |
 
-du service de l'administration générale1100Sous |
+Chef du service de l'administration générale |
 
-|
+1 |
 
-|
+110 |
 
--directeur à la direction technique1100Direction |
+Sous-directeur au sein du service de l'administration générale |
 
-|
+1 |
 
-|
+80 |
 
-de l'évaluation de la performance, des affaires financières et immobilières
+Direction de l'évaluation de la performance, des affaires financières et immobilières
 
 |
 
@@ -713,6 +713,12 @@ Sous-directeur du soutien aux utilisateurs
 Autres services
 
 |
+
+Sous-directeur des cabinets |
+
+1 |
+
+80 |
 
 Sous-directeur, délégué à l'information et à la communication
 
@@ -926,13 +932,13 @@ Sous-directeur des services d'incendie et des acteurs de secours
 
 |
 
-Sous-directeur de la stratégie, des affaires internationales et des ressources180En |
+Sous-directeur de la stratégie, des affaires internationales et des ressources |
 
-|
+1 |
 
-|
+80 |
 
-charge d'une sous-direction relevant de la direction générale des outre-mer
+En charge d'une sous-direction relevant de la direction générale des outre-mer
 
 |
 
@@ -1152,7 +1158,7 @@ En charge d'une sous-direction relevant de la direction de la logistique
 
 |
 
-Sous-directeur de l'administration et de la modernisation
+Chef de service à la direction opérationnelle des services techniques et logistiques
 
 |
 
@@ -1160,9 +1166,15 @@ Sous-directeur de l'administration et de la modernisation
 
 |
 
-80
+100
 
 |
+
+Sous-directeur de la logistique |
+
+1 |
+
+80 |
 
 B.-Emplois en administration territoriale
 
