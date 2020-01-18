@@ -1,3 +1,7 @@
 # Article Annexe
 
-Vous pouvez consulter les cartes ainsi que la liste à la préfecture del'Ardèche, dans les mairies des communes situées dans le périmètre du site, à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne - Rhône-Alpes ainsi qu'à la direction de l'eau et de la biodiversité du ministère de l'environnement, de l'énergie et de la mer, en charge des relations internationales sur le climat.
+Vous pouvez consulter les cartes ainsi que la liste à l'adresse suivante :
+
+( https://www.bulletin-officiel.developpement-durable.gouv.fr/recherche) ou
+
+( https://inpn.mnhn.fr/accueil/recherche-de-donnees/natura2000).
