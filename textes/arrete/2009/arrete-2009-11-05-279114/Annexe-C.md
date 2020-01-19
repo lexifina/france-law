@@ -2,10 +2,64 @@
 
 LISTE DES FORMATIONS PERMETTANT DE BÉNÉFICIER D'AIDES À LA MOBILITÉ NATIONALE ET INTERNATIONALE
 
-Formations assurées dans dix-huit écoles nationales supérieures d'architecture (ENSA) et deux écoles nationales supérieures d'architecture et de paysage (ENSAP) :
+Les diplômes, formations et cycles d'études dispensés en France dans les établissements d'enseignement et de formation permettant de bénéficier d'aides à la mobilité nationale et internationale sont ceux figurant au I de l'annexe A, à l'exception de :
 
-- le diplôme d'études en architecture ;
+La formation au diplôme d'Etat de professeur de danse dispensée par :
 
-- le diplôme d'Etat d'architecte ;
+- le Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux Aquitaine ;
 
-- le diplôme de paysagiste DPLG.
+- Pôle musique et danse ESAL-CEFEDEM - Metz ;
+
+- le Centre national de la danse - Pantin ;
+
+- le Centre de formation danse du Centre d'éducation populaire et de sport (CREPS) - Montpellier ;
+
+- l'Ecole d'enseignement supérieur des beaux-arts et du spectacle vivant de Toulouse, ISDAT - Toulouse ;
+
+- l'Ecole supérieure musique et danse (ESMD) des Hauts-de-France - Lille ;
+
+- le Pôle d'enseignement supérieur de spectacle vivant de Bretagne-Pays de Loire - Nantes ;
+
+- le Pôle national supérieur danse Provence Côte d'Azur, site de Cannes-Mougins ;
+
+- le Centre national de la danse en Rhône-Alpes, institut de pédagogie et de recherche chorégraphiques - Lyon ;
+
+- la Manufacture - Centre de formation professionnelle - Aurillac ;
+
+- les Rencontres internationales de danse contemporaine (RIDC) - Paris ;
+
+- l'Académie internationale de la danse (AID) - Paris ;
+
+- l'Ecole de formation professionnelle Rick Odums, Studios Paris centre - Paris ;
+
+- l'Association Choréia - Paris ;
+
+- le Studio harmonic - Paris ;
+
+- l'Espace pléiade de la danse jazz contemporaine / ballet jazz art - Paris ;
+
+- l'Epsedanse - Montpellier ;
+
+- le Centre de formation James Carlès - Toulouse ;
+
+- le Centre de danse STUDIO 920 - Quievrechain ;
+
+- le Centre aixois de formation à l'enseignement de la danse (CAFEDANSE) - Aix-en-Provence ;
+
+- les Studios du Cours - Marseille ;
+
+- le Centre de formation professionnelle et d'études supérieures en danse (Off Jazz) - Nice ;
+
+- le Centre de formation danse désoblique (CFDd) - Oullins ;
+
+- l'Association l'Artchipel, Scène nationale de la Guadeloupe - Basse-Terre ;
+
+- le Centre Artys'tik - Annecy ;
+
+- Danse mouvance - L'Isle-sur-la-Sorgue ;
+
+- Format'dance - Baie-Mahault ;
+
+- le département STAPS, faculté des sciences et techniques de l'université de Corse Pasquale Paoli - Corte.
+
+Les formations dispensées par les conservatoires à rayonnement régional (CRR) ou départemental (CRD) listées au 7° du VI de l'annexe A.

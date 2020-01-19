@@ -2,6 +2,6 @@
 
 LISTE DES FORMATIONS PERMETTANT DE BÉNÉFICIER DES ALLOCATIONS D'ÉTUDES SPÉCIALISÉES
 
-Direction de l'architecture et du patrimoine :
+Architecture et paysage :
 
-Doctorat en architecture.
+- Doctorat en architecture.
