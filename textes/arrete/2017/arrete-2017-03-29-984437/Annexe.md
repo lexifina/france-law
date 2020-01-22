@@ -112,8 +112,6 @@ Conseiller, chef du pôle social-ressources humaines.
 
 Chef d'état-major au cabinet du directeur général de la police nationale.
 
-Chef de l'unité de coordination lutte anti-terroriste (UCLAT).
-
 Conseiller pour la communication-chef du service d'information et de communication de la police (SICOP).
 
 Conseiller prospective et stratégie.
@@ -160,9 +158,9 @@ Directeur régional de police judiciaire à Versailles.
 
 Sous-directeur de la lutte contre la criminalité financière.
 
-Préfigurateur de l'office anti-stupéfiants.
+Chef de l'office anti-stupéfiants.
 
-Adjoint au préfigurateur de l'office anti-stupéfiants.
+Adjoint au chef de l'office anti-stupéfiants.
 
 6. Direction générale de la sécurité intérieure :
 
