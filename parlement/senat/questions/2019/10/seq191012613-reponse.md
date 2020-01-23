@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012613
+
+- Question : [SEQ191012613](seq191012613.md) — Fusion de listes électorales pour les élections municipales dans les communes de plus de 1 000 habitants
+
+## Réponse
+
+*Intérieur, JO du 2020-01-23, page 414*
+
+Les dispositions de l'article L. 264 du code électoral indiquent qu'à l'issue du premier tour des élections municipales dans les communes de 1 000 habitants et plus, les listes ayant obtenu au moins 5 % des suffrages peuvent fusionner avec les listes ayant obtenu au moins 10 % des suffrages. Les sixième et septième alinéas de l'article L. 265 précise que : « […] Pour chaque tour de scrutin, [la déclaration de candidature] comporte la signature de chaque candidat, sauf le droit pour tout candidat de compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa signature. À la suite de sa signature, chaque candidat appose la mention manuscrite suivante : « La présente signature marque mon consentement à me porter candidat à l'élection municipale sur la liste menée par (indication des nom et prénoms du candidat tête de liste) ». Toutefois, les signatures et les mentions manuscrites de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne procèdent à aucune modification de leur composition au second tour […] ». Les listes fusionnées procèdent nécessairement à une modification de leur composition au second tour. L'exception prévue au septième alinéa cité ne peut donc pas s'appliquer aux listes fusionnées. Par conséquent, tous les candidats des listes issues d'une fusion en vue du second tour sont tenus de donner leur accord pour y figurer en signant leur déclaration de candidature et en apposant la mention manuscrite prévue à l'article L. 265. Dès lors, il n'apparaît pas nécessaire de clarifier l'article L. 265 du code électoral, ce dernier prévoyant déjà explicitement l'accord de tous les colistiers.
