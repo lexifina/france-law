@@ -1,0 +1,90 @@
+# Système universel de retraite (loi organique)
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N38564
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/systeme_universel_retraite
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-373.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-01-24 : 1er dépôt d'une initiative. (PRJLANR5L15B2622)
+  - 2020-01-24 : Etude d'impact (ETDIANR5L15B2622)
+  - 2020-01-24 : Avis du Conseil d'Etat (AVCEANR5L15B2622)
+  - 2020-01-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-01-24 : Renvoi en commission au fond
+      - 2020-01-28 : Nomination de rapporteur
+      - 2020-01-28 : Réunion de commission
+      - 2020-01-28 : Réunion de commission
+      - 2020-02-03 : Réunion de commission
+      - 2020-02-03 : Réunion de commission
+      - 2020-02-04 : Réunion de commission
+      - 2020-02-04 : Réunion de commission
+      - 2020-02-05 : Réunion de commission
+      - 2020-02-05 : Réunion de commission
+      - 2020-02-05 : Réunion de commission
+      - 2020-02-06 : Réunion de commission
+      - 2020-02-06 : Réunion de commission
+      - 2020-02-06 : Réunion de commission
+      - 2020-02-07 : Réunion de commission
+      - 2020-02-07 : Réunion de commission
+      - 2020-02-07 : Réunion de commission
+      - 2020-02-08 : Réunion de commission
+      - 2020-02-08 : Réunion de commission
+      - 2020-02-09 : Réunion de commission
+      - 2020-02-09 : Réunion de commission
+      - 2020-02-10 : Réunion de commission
+      - 2020-02-10 : Réunion de commission
+      - 2020-02-10 : Réunion de commission
+      - 2020-02-11 : Réunion de commission
+      - 2020-02-11 : Réunion de commission
+      - 2020-02-12 : Réunion de commission
+      - 2020-02-12 : Réunion de commission
+      - 2020-02-17 : Réunion de commission
+      - 2020-02-24 : Réunion de commission
+      - 2020-02-12 : Dépôt de rapport (RAPPANR5L15B2687, PRJLANR5L15BTC2687)
+  - Discussion en séance publique
+    - 2020-02-17 : Discussion en séance publique
+    - 2020-02-17 : Discussion en séance publique
+    - 2020-02-18 : Discussion en séance publique
+    - 2020-02-18 : Discussion en séance publique
+    - 2020-02-19 : Discussion en séance publique
+    - 2020-02-19 : Discussion en séance publique
+    - 2020-02-20 : Discussion en séance publique
+    - 2020-02-20 : Discussion en séance publique
+    - 2020-02-20 : Discussion en séance publique
+    - 2020-02-21 : Discussion en séance publique
+    - 2020-02-21 : Discussion en séance publique
+    - 2020-02-21 : Discussion en séance publique
+    - 2020-02-22 : Discussion en séance publique
+    - 2020-02-22 : Discussion en séance publique
+    - 2020-02-22 : Discussion en séance publique
+    - 2020-02-23 : Discussion en séance publique
+    - 2020-02-23 : Discussion en séance publique
+    - 2020-02-23 : Discussion en séance publique
+    - 2020-02-24 : Discussion en séance publique
+    - 2020-02-24 : Discussion en séance publique
+    - 2020-02-24 : Discussion en séance publique
+    - 2020-02-25 : Discussion en séance publique
+    - 2020-02-25 : Discussion en séance publique
+    - 2020-02-26 : Discussion en séance publique
+    - 2020-02-26 : Discussion en séance publique
+    - 2020-02-27 : Discussion en séance publique
+    - 2020-02-27 : Discussion en séance publique
+    - 2020-02-27 : Discussion en séance publique
+    - 2020-02-28 : Discussion en séance publique
+    - 2020-02-28 : Discussion en séance publique
+    - 2020-02-28 : Discussion en séance publique
+    - 2020-02-29 : Discussion en séance publique
+    - 2020-02-29 : Discussion en séance publique
+    - 2020-03-05 : Discussion en séance publique
+    - 2020-03-05 : Discussion en séance publique
+    - 2020-03-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-03-06 : Dépôt d'une initiative en navette (PRJLSNR5S339B0373)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-03-06 : Renvoi en commission au fond
