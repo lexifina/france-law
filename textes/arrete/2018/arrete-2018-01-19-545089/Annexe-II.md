@@ -6,6 +6,6 @@ A toute demande d'autorisation de produire et de vendre des produits explosifs d
 
 - statuts, s'il s'agit d'une société ;
 
-- liste nominative, lieu et date de naissance, nationalité du ou des gérants ou des membres du conseil d'administration et des directeurs généraux ou des membres du conseil de surveillance et du directoire ;
+- liste nominativeet pièces justificatives d'identité du ou des gérants ou des membres du conseil d'administration et des directeurs généraux ou des membres du conseil de surveillance et du directoire ;
 
 - extrait de casier judiciaire du responsable français désigné ou de tout document équivalent pour les ressortissants d'autres Etats.
