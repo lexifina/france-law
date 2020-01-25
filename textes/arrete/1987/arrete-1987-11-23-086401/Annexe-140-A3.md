@@ -123,3 +123,5 @@ L'habilitation porte sur :
 -le RINA Services Sp. a. ;
 
 -le Lloyd's Register Group Ltd. (LR) .
+
+8. Organismes habilités pour agréer les prestataires de services habilités pour la révision périodique, l'entretien des embarcations de sauvetage, canots de secours, canots de secours rapides, dispositifs de mise à l'eau et dispositifs de largage :
