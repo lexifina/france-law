@@ -1,0 +1,60 @@
+# Parquet européen et justice pénale spécialisée
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N38588
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/parquet_europeen_justice_penale_specialisee
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-283.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-01-29 : 1er dépôt d'une initiative. (PRJLSNR5S339B0283)
+  - 2020-01-29 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-01-29 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-02-19 : Dépôt de rapport (RAPPSNR5S339B0335, PRJLSNR5S339BTC0336)
+  - Discussion en séance publique
+    - 2020-03-03 : Discussion en séance publique
+    - 2020-03-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-03-04 : Dépôt d'une initiative en navette (PRJLANR5L15B2731)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-03-04 : Renvoi en commission au fond
+      - 2020-03-04 : Nomination de rapporteur
+      - 2020-03-04 : Réunion de commission
+      - 2020-11-02 : Réunion de commission
+      - 2020-11-24 : Réunion de commission
+      - 2020-11-24 : Réunion de commission
+      - 2020-12-08 : Réunion de commission
+      - 2020-11-25 : Dépôt de rapport (RAPPANR5L15B3592, PRJLANR5L15BTC3592)
+    - Travaux d'une commission saisie pour avis
+      - 2020-03-04 : Saisine pour avis d'une commission
+      - 2020-10-21 : Nomination de rapporteur
+      - 2020-03-04 : Réunion de commission
+      - 2020-10-21 : Réunion de commission
+      - 2020-11-18 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-12-08 : Discussion en séance publique
+    - 2020-12-08 : Discussion en séance publique
+    - 2020-12-09 : Discussion en séance publique
+    - 2020-12-09 : Décision
+- Commission Mixte Paritaire
+  - 2020-12-10 : Dépôt d'un projet de loi (PRJLSNR5S359B0219)
+  - 2020-12-10 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-12-15 : Nomination de rapporteur
+    - 2020-12-15 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0230, PRJLSNR5S359BTC0231)
+    - 2020-12-15 : Dépôt du rapport d'une CMP (RAPPANR5L15B3694, PRJLANR5L15BTC3694)
+  - Discussion en séance publique
+    - 2020-12-16 : Discussion en séance publique
+    - 2020-12-16 : Décision
+  - Discussion en séance publique
+    - 2020-12-16 : Discussion en séance publique
+    - 2020-12-16 : Décision
+  - 2020-12-15 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-12-24 : Promulgation d'une loi
