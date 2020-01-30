@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213332
+
+- Question : [SEQ191213332](seq191213332.md) — Réalisation d'unités de méthanisation dans le monde agricole
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-01-30, page 542*
+
+La méthanisation agricole contribue activement à la politique nationale de développement des énergies renouvelables, tout en assurant un complément de revenus pour les agriculteurs. Les objectifs du plan « Énergie Méthanisation Autonomie Azote » restent pleinement d'actualité. La France compte aujourd'hui plus de 500 installations de méthanisation agricole en fonctionnement, et l'ambition du Gouvernement est d'en accélérer le rythme d'installation. Ainsi, le ministère de l'agriculture et de l'alimentation a doté fin 2018 un fonds de garantie publique, permettant à Bpifrance de distribuer un prêt sans garantie, destiné aux exploitants agricoles, qui, seuls ou en groupe, investissent dans une installation de méthanisation agricole. Il a pour ambition d'accompagner la réalisation de 400 nouveaux projets dans les cinq prochaines années, pour un montant total de financement d'environ 100 millions d'euros. Ce nouvel instrument financier vise à lever un frein identifié dans le bouclage financier des projets de méthanisation agricole. De plus, la professionnalisation des agriculteurs méthaniseurs est un des axes retenus dans le cadre du plan d'action interministériel pour le développement de la bioéconomie. À ce titre, un certificat de spécialisation « responsable d'une unité de méthanisation agricole », élaboré par le ministère de l'agriculture et de l'alimentation, vient d'entrer en application en mars 2019. La formation sera notamment proposée dans les lycées agricoles disposant d'une unité de méthanisation. Elle devrait contribuer à la reconnaissance dans les territoires de la crédibilité des projets de méthanisation agricole.
