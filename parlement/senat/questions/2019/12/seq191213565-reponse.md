@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213565
+
+- Question : [SEQ191213565](seq191213565.md) — Conditions d'attribution de la mention « Morts pour la France » aux anciens combattants des conflits en Afrique du Nord
+
+## Réponse
+
+*Armées (Mme la SE auprès de la ministre), JO du 2020-01-30, page 551*
+
+L'article L. 511-1 du code des pensions militaires d'invalidité et des victimes de guerre énumère les situations dans lesquelles les actes de décès doivent porter la mention « Mort pour la France ». Aux termes de cet article, sont ainsi considérés comme morts pour la France notamment les militaires tués à l'ennemi ou décédés de blessure de guerre, de maladie contractée en service commandé en temps de guerre ou d'accident survenu en service, ou à l'occasion du service en temps de guerre. Ces dispositions s'imposent de manière identique à tous les militaires, quel que soit le conflit auquel ils ont participé. Dès lors, dans le respect de la réglementation en vigueur, et pour assurer une égalité entre toutes les générations du feu, il est exclu que cette mention puisse être inscrite de façon systématique sur les actes de décès de tous les militaires décédés en Afrique du Nord, quels que soient le lieu et les circonstances de leur décès. L'Office national des anciens combattants et victimes de guerre (ONACVG) a compétence pour instruire les demandes d'attribution de la mention « Mort pour la France » dans le strict respect des conditions fixées par les dispositions qui précèdent, sans dérogation aucune. Toutefois, lorsque des difficultés particulières concernant l'attribution de cette mention apparaissent ou si des cas litigieux sont signalés à l'établissement public, ses services ne manquent pas de les étudier avec diligence et toute l'attention requise. Ainsi, l'ONACVG reste attentif aux demandes portées par les associations qui lui signalent de manière régulière certains dossiers individuels.
