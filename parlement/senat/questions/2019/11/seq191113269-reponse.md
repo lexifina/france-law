@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113269
+
+- Question : [SEQ191113269](seq191113269.md) — Compensation de la suppression de la taxe d'habitation
+
+## Réponse
+
+*Action et comptes publics, JO du 2020-01-30, page 538*
+
+Dans les conditions prévues par la loi de finances pour 2020, la suppression de la taxe d'habitation sur les résidences principales se traduira pour les communes par une perte de ressources qui sera compensée par le transfert à leur profit de la part départementale de taxe foncière sur les propriétés bâties dès 2021. Au niveau local, la taxe foncière sur les propriétés bâties du département transférée ne pouvant exactement correspondre à la taxe d'habitation supprimée, les communes bénéficiant d'un supplément de ressources du fait de ce transfert se trouveront surcompensées. Elles seront sous-compensées dans le cas inverse. Afin de garantir à toutes les communes une compensation égale à l'euro près au montant de taxe d'habitation sur la résidence principale supprimé, un mécanisme prenant la forme d'un coefficient correcteur neutralisant les sur ou sous-compensations sera mis en place. Le dispositif est conçu afin d'assurer une évolution dynamique de la fiscalité en faveur des communes du seul fait de la dynamique des bases d'imposition. Les EPCI à fiscalité propre et les départements bénéficieront d'une ressource fiscale liée au dynamisme de l'activité économique avec l'attribution d'une fraction du produit de la taxe sur la valeur ajoutée. Enfin, à l'issue de son examen par le Parlement, le projet de loi de finances pour 2020, prévoit la revalorisation forfaitaire des bases de la taxe d'habitation afférente à la résidence principale de 0,9 % au titre de l'année 2020. Cette revalorisation continuera à s'appliquer pour les bases de la taxe foncière sur les propriétés bâties et sur celle de la taxe d'habitation sur les résidences secondaires.
