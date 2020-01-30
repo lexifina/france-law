@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012618
+
+- Question : [SEQ191012618](seq191012618.md) — Dispositions de l'article L. 316 du code électoral
+
+## Réponse
+
+*Intérieur, JO du 2020-01-30, page 585*
+
+L'article 12 de la loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral vient de préciser le droit applicable aux campagnes des élections sénatoriales. En effet, l'article L. 306, dans sa version applicable à compter du 30 juin 2020, rend applicables à ces élections les dispositions des articles L. 48-1 à L. 50-1 relatives aux diverses prohibitions intervenant la veille et le jour du scrutin. En ce qui concerne l'article 11 de la loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion, son premier alinéa le rend applicable aux « élections générales » et aux référendums. Cet énoncé, remanié par la loi n° 2016-508 du 25 avril 2016 de modernisation de diverses règles applicables aux élections, est plus précis que l'ancienne formulation qui mentionnait « une des élections réglementées par le code électoral ». En outre, cette notion extensive d'élections générales s'oppose manifestement à celles d'élections partielles dont il est question au deuxième alinéa du même article Sous réserve de l'appréciation souveraine des tribunaux compétents, il n'apparaît pas que la formulation d'élections générales puisse se restreindre aux seules élections au suffrage universel direct. Enfin, s'agissant des opérations de vote en cas de référendum, le chapitre V du titre Ier du livre Ier du code électoral, dans lequel est placé l'article L. 49, leur est bien rendu applicable, tant aux référendums nationaux par l'article L. 558-46 du code électoral, qu'aux consultations organisées en application des articles 72-4 et 73 de la Constitution par l'article L. 562 du même code. Il n'y a donc pas lieu de compléter sur ce point les différents textes actuellement en vigueur.
