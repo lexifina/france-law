@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912226
+
+- Question : [SEQ190912226](seq190912226.md) — Refonte de la fiscalité des non-résidents
+
+## Réponse
+
+*Action et comptes publics, JO du 2020-01-30, page 534*
+
+La réforme de la fiscalité des Français non-résidents qui vise à se rapprocher de celle des résidents était initialement prévue à compter du 1er janvier 2020 par l'article 13 de la loi de finances pour 2019. Or, cette réforme a été reportée, avec une première étape au 1er janvier 2021, à la suite de l'adoption de l'article 12 de la loi de finances pour 2020. Ainsi, le régime applicable aux non-résidents en 2020 reste similaire à celui dont ils bénéficiaient en 2019. En 2020, les salaires perçus par les non-résidents sont soumis à la retenue à la source aux taux de 0 % (fraction du salaire net annuel inférieure à 14 988 €), 12 % (de 14 988 € à 43 477 €) et 20 % (au-delà de 43 477 €). La retenue à la source aux taux de 0 % et 12 % est libératoire de l'impôt sur le revenu, ce qui signifie que seule la fraction du salaire soumise à la retenue à la source au taux de 20 % est imposable à l'impôt sur le revenu lors du traitement de la déclaration de revenus souscrite par le non-résident. L'article 12 de la loi de finances pour 2020 prévoit la convergence entre la fiscalité des non-résidents et celle des résidents à compter du 1er janvier 2023. Cette convergence connaîtra une première étape avec la suppression du caractère libératoire de la retenue à la source aux taux de 0 % et 12 % dès l'imposition des revenus 2021. Le législateur a par ailleurs prévu la remise d'un rapport par le Gouvernement au Parlement avant le 1er juin 2020 sur la fiscalité appliquée aux revenus de source française des contribuables fiscalement domiciliés hors de France, dont les conclusions pourront aboutir à d'éventuelles corrections et améliorations pour l'avenir du dispositif applicable aux non-résidents.
