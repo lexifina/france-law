@@ -23,3 +23,11 @@ Directeur des affaires financières |
 Ecole nationale du génie de l'eau et de l'environnement de Strasbourg (ENGEES) |
 
 Directeur des études |
+
+Agro Sup Dijon |
+
+Chef du service des affaires budgétaires et du contrôle interne (ajouté à compter du 1er septembre 2019) |
+
+ONIRIS site de la Chantrerie |
+
+Directeur des ressources humaines (ajouté à compter du 1er septembre 2019) |

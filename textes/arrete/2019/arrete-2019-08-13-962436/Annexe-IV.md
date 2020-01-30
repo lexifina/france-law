@@ -28,6 +28,12 @@ EPLEFPA Edgard Pisani - Tulle Naves |
 
 Agent comptable |
 
+25 - Doubs |
+
+EPLEFPA de Quétigny Plombières Les Dijon |
+
+Secrétaire général (ajouté à compter du 1er septembre 2019) |
+
 26 - Drôme |
 
 EPL Valence |
@@ -44,11 +50,17 @@ EPLEFPA Toulouse |
 
 Secrétaire général |
 
+33 - Gironde |
+
+EPL Bazas |
+
+Agent comptable (ajouté à compter du 1er septembrer 2019) |
+
 37 - Indre et Loire |
 
 EPLEFPA Amboise |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1er septembre 2019) |
 
 41 - Loir-et-Cher |
 
@@ -68,6 +80,12 @@ CFPPA La Roche sur Foron |
 
 Directeur de CFPPA avec deux sites |
 
+81 - Tarn |
+
+CFAAH du Tarn |
+
+Directeur (ajouté à compter du 1er septembre 2019) |
+
 84 - Vaucluse |
 
 EPL Carpentras |
@@ -78,4 +96,4 @@ Secrétaire général |
 
 EPL Pouembout |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1er septembre 2019) |

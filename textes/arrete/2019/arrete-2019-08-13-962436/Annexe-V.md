@@ -16,7 +16,7 @@ Directeur régional délégué de la direction régionale Auvergne-Rhône-Alpes 
 
 Directeur régional de la direction régionale Grand-Est |
 
-Directeur régional délégué Nouvelle-Aquitaine - Site de Poitiers |
+Directeur régional délégué Nouvelle-Aquitaine - Site de Poitiers (supprimé à compter du 1er septembre 2019) |
 
 Directeur régional Martinique |
 
@@ -28,15 +28,17 @@ Directeur régional délégué - site de Besançon |
 
 Siège de l'Agence de services et de paiement (ASP) |
 
-Chef du service Gestion administrative - paie à la direction des ressources humaines |
+Chef du service Gestion administrative - paie à la direction des ressources humaines (supprimé à compter du 1er septembre 2019) |
 
 Directeur des opérations OSIRIS |
 
-Chef du service Ressources et assistance |
+Chef du service Ressources et assistance (supprimé à compter du 1er septembre 2019) |
 
-Chef du service des contrôles en exploitations surfaces et animaux à la direction des contrôles |
+Chef du service des contrôles en exploitations surfaces et animaux à la direction des contrôles (supprimé à compter du 1er septembre 2019) |
 
 Directeur de la direction financière, juridique et logistique |
+
+Directrice des ressources humaines (ajouté à compter du 1er septembre 2019) |
 
 Institut français du cheval et de l'équitation (IFCE) |
 
@@ -50,11 +52,19 @@ Délégué territorial Nord-Est |
 
 Responsable du service juridique et international |
 
+Délégué territorial (ajouté à compter du 1er septembre 2019) |
+
 Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
 
 (IRSTEA) |
 
 Directeur de l'unité de recherche |
+
+Responsable de l'équipe ARTEMHYS (ajouté à compter du 1er septembre 2019) |
+
+Responsable du groupe d'études et d'expertise sur la diversité adaptative des arbres forestiers (ajouté à compter du 1er septembre 2019) |
+
+Chercheur en hydraulique des rivières (ajouté à compter du 1er septembre 2019) |
 
 Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
 
@@ -66,7 +76,7 @@ Ingénieur chercheur spécialiste Pollutions diffuses reconnue COSE |
 
 Directeur adjoint de la direction de l'innovation |
 
-Chef de la mission Digues à Aix-en-Provence |
+Chef de la mission Digues à Aix-en-Provence (supprimé à compter du 1er septembre 2019) |
 
 Animateur de l'axe transversal Incendies de forêts de la fédération de recherche ECOREV à Aix-en-Provence |
 
@@ -88,19 +98,19 @@ Chef du service FranceAgriMer - Hauts-de-France |
 
 Inspecteur général des services d'appui aux régions |
 
-Chef du pôle territorial FranceAgriMer Normandie |
+Chef du pôle territorial FranceAgriMer Normandie (supprimé à compter du 1er septembre 2019) |
 
 Chef du service régional FranceAgriMer Bourgogne-Franche Comté |
 
 Chef du service FranceAgriMer à la DRAAF d'Auvergne-Rhônes-Alpes |
 
-Adjoint au chef du service FranceAgriMer Occitanie |
+Adjoint au chef du service FranceAgriMer Occitanie (supprimé à compter du 1er septembre 2019) |
 
 Chef du service territorial FranceAgriMer Nouvelle Aquitaine |
 
 Siège de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1er mai 2019) |
 
 Chef du service Arborial au secrétariat général |
 

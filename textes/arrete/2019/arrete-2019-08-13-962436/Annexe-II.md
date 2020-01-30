@@ -28,9 +28,11 @@ Chef de service adjoint du service régional de la formation et du développemen
 
 Conseiller juridique interrégional à la direction régionale de Dijon |
 
-Chef du service régional de la formation et du développement |
+Chef du service régional de la formation et du développement (supprimé à compter du 1er septembre 2019) |
 
 Chef du service régional de l'information statistique et économique |
+
+Adjoint au chef du service régional de l'alimentation (ajouté à compter du 1er septembre 2019) |
 
 DRAAF Bretagne |
 
@@ -51,6 +53,8 @@ Chef de centre de prestations comptables mutualisé |
 DRAAF Hauts de France |
 
 Chef du service régional de l'information statistique et économique |
+
+Adjoint au chef du service régional de la formation et du développement (ajouté à compter du 1er septembre 2019) |
 
 DRAAF Normandie |
 
@@ -76,7 +80,9 @@ DRAAF Occitanie |
 
 Inspecteur santé et sécurité au travail à la direction régionale de Toulouse |
 
-Inspecteur en hygiène et sécurité publique au travail |
+Inspecteur en hygiène et sécurité publique au travail (supprimé à compter du 1er septembre 2019) |
+
+Secrétaire général adjoint (ajouté à compter du 1er septembre 2019) |
 
 DRAAF P.A.C.A. |
 
@@ -84,9 +90,13 @@ Secrétaire général |
 
 DRAAF Pays de la Loire |
 
-Chef du service régional de la formation et du développement |
+Chef du service régional de la formation et du développement (supprimé à compter du 1er septembre 2019) |
 
 Inspecteur santé et sécurité au travail |
+
+DRIAAF |
+
+Chef de la mission défense et sécurité de zone de Paris (ajouté à compter du 1er septembre 2019) |
 
 II. - DIRECTIONS DE L'ALIMENTATION, DE L'AGRICULTURE ET DE LA FORÊT (DAAF) |
 
@@ -102,6 +112,10 @@ DAAF de Mayotte |
 
 Chef du service Développement des territoires ruraux |
 
+DAAF de Martinique |
+
+Adjoint au chef du service alimentation - chef du pôle Protection de l'environnement (ajouté à compter du 1er septembre 2019) |
+
 III. - DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES (DDT) ET DIRECTIONS DÉPARTEMENTALES DES TERRITOIRES ET DE LA MER (DDTM) |
 
 Département |
@@ -114,7 +128,7 @@ Fonctions |
 
 DDT |
 
-Chef du service de l'économie agricole |
+Chef du service de l'économie agricole (supprimé à compter du 1er septembre 2019) |
 
 03 - Allier |
 
@@ -126,13 +140,13 @@ Chef du service Mission transversale observatoire des territoires |
 
 DDTM |
 
-Chef du service de l'économie agricole et du développement rural |
+Chef du service de l'économie agricole et du développement rural (supprimé à compter du 1er septembre 2019) |
 
 13 - Bouches-du-Rhône |
 
 DDTM |
 
-Chef du service Agriculture et forêt |
+Chef du service Agriculture et forêt (supprimé à compter du 1er septembre 2019) |
 
 15 - Cantal |
 
@@ -151,6 +165,18 @@ Chef du service Agriculture durable et soutien aux territoires |
 DDTM |
 
 Secrétaire général |
+
+24 - Dordogne |
+
+DDT |
+
+Chef de service économie des territoires agriculture et forêt (ajouté à compter du 1er septembre 2019) |
+
+25 - Doubs |
+
+DDT |
+
+Chef du service environnement risques natures forêts (ajouté à compter du 1er septembre 2019) |
 
 26 - Drôme |
 
@@ -174,7 +200,13 @@ Chef du service agriculture et développement rural |
 
 DDTM |
 
-Chef du service économie agricole |
+Chef du service économie agricole (supprimé à compter du 1er septembre 2019) |
+
+44 - Loire-Atlantique |
+
+DDTM |
+
+Chef du service de l'économie agricole (ajouté à compter du 1er septembre 2019) |
 
 41 - Loir-et-Cher |
 
@@ -206,7 +238,7 @@ Chef du service de l'économie agricole |
 
 DDT |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1er septembre 2019) |
 
 63 - Puy-de-Dôme |
 
@@ -300,13 +332,13 @@ Chef du service de la consommation de la protection des populations |
 
 DDCSPP |
 
-Chef de service Sécurité sanitaire des aliments |
+Chef de service Sécurité sanitaire des aliments (supprimé à compter du 1erseptembre 2019) |
 
 21 - Côte d'Or |
 
 DDPP |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1erseptembre 2019) |
 
 22 - Côte d'Armor |
 
@@ -337,6 +369,12 @@ Chef du service de la protection animale et végétale |
 DDPP |
 
 Chef de service Sécurité sanitaire des aliments |
+
+31 - Haute-Garonne |
+
+DDPP |
+
+Secrétaire général (ajouté à compter du 1er septembre 2019) |
 
 32 - Gers |
 
@@ -398,17 +436,35 @@ DDPP |
 
 Secrétaire général |
 
+68 - Haut-Rhin |
+
+DDCSPP |
+
+Secrétaire général (ajouté à compter du 1er septembre 2019) |
+
+70 - Haute-Saône |
+
+DDPP |
+
+Chef du service santé et protection des animaux et de l'environnement (ajouté à compter du 1er septembre 2019) |
+
 78 - Yvelines |
 
 DDPP |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1erseptembre 2019) |
 
 82 - Tarn-et-Garonne |
 
 DDCSPP |
 
 Chef du service Sécurité sanitaire des aliments |
+
+83 - Var |
+
+DDPP |
+
+Secrétaire général (ajouté à compter du 1er septembre 2019) |
 
 85 - Vendée |
 

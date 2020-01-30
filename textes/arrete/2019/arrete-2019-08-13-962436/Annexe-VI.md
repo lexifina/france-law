@@ -20,7 +20,7 @@ Directeur adjoint et secrétaire général de l'IFORE |
 
 Commissariat général au développement durable |
 
-Chef de la délégation au développement durable |
+Chef de la délégation au développement durable (supprimé à compter du 1er septembre 2019) |
 
 Chef du bureau des métiers de la transition écologique |
 
@@ -29,6 +29,14 @@ Secrétariat général |
 Chef du bureau des industries de réseau |
 
 Chargé de mission Convention sur la diversité biologique à la direction des affaires européennes et internationales |
+
+Direction générale de l'aménagement, du logement et de la nature |
+
+Chef de cabinet du directeur de l'eau et biodiversité (ajouté à compter du 1er juillet 2019) |
+
+Direction générale de la prévention des risques |
+
+Chef du bureau des risques naturels terrestres (ajouté à compter du 1er septembre 2019) |
 
 II. - DIRECTIONS RÉGIONALES DE L'ENVIRONNEMENT, DE L'AMÉNAGEMENT ET DU LOGEMENT (DREAL) |
 
@@ -56,7 +64,7 @@ DREAL Nouvelle-Aquitaine |
 
 Chef de la division Milieux naturels et paysages |
 
-Chef de la division Eaux et ressources minérales |
+Chef de la division Eaux et ressources minérales (supprimé à compter du 1er septembre 2019) |
 
 DREAL Nouvelle-Aquitaine (suite) |
 
@@ -82,9 +90,9 @@ Fonctions |
 
 DEAL de Guadeloupe - Basse-Terre |
 
-Chef du service Prospective, aménagement et connaissance du territoire |
+Chef du service Prospective, aménagement et connaissance du territoire (supprimé à compter du 1er septembre 2019) |
 
-Chef de la mission Développement durable et évaluation environnementale |
+Chef de la mission Développement durable et évaluation environnementale (supprimé à compter du 1er septembre 2019) |
 
 Adjoint au chef de la mission Développement durable et évaluation environnementale et chef du pôle évaluation environnementale |
 
@@ -122,11 +130,23 @@ Chef du service Connaissance et planification |
 
 Chef du bureau Politique de l'eau |
 
+12 - Aveyron |
+
+DDT |
+
+Chef du service énergie, risques, bâtiment sécurité (ajouté à compter du 1er septembre 2019) |
+
+17 - Charente-Maritime |
+
+DDT |
+
+Chef du service connaissance et transitoire (ajouté à compter du 1er septembre 2019) |
+
 18 - Cher |
 
 DDT |
 
-Chef du service Mission accompagnement des territoires |
+Chef du service Mission accompagnement des territoires (supprimé à compter du 1er septembre 2019) |
 
 19 - Corrèze |
 
@@ -156,7 +176,7 @@ Chef du service de l'espace rural |
 
 DDT |
 
-Chef du service des eaux, des forêts et des espaces naturels |
+Chef du service des eaux, des forêts et des espaces naturels (supprimé à compter du 1er septembre 2019) |
 
 27 - Eure |
 
@@ -168,7 +188,7 @@ Chef du service Prévention des risques et aménagement du territoires |
 
 DDTM |
 
-Chef du service au, risques et nature |
+Chef du service eau, risques et nature (supprimé à compter du 1er septembre 2019) |
 
 37 - Indre-et-Loire |
 
@@ -186,7 +206,7 @@ Chef du service de l'eau, des risques, de l'environnement et de la forêt |
 
 DDT |
 
-Chef service Environnement et forêt |
+Chef service Environnement et forêt (supprimé à compter du 1er septembre 2019) |
 
 44 - Loire-Atlantique |
 
@@ -198,7 +218,7 @@ Responsable de la mission Observation, prospective, évaluation, développement 
 
 DDT |
 
-Chef du service Sécurité routière, gestion de crise |
+Chef du service Sécurité routière, gestion de crise (supprimé à compter du 1er septembre 2019) |
 
 53 - Mayenne |
 
@@ -210,7 +230,7 @@ Chef du service Eau et biodiversité |
 
 DDT |
 
-Secrétaire général |
+Secrétaire général (supprimé à compter du 1er septembre 2019) |
 
 DDT |
 
@@ -242,6 +262,18 @@ DDT |
 
 Délégué territorial Nord - Arrondissement de Tarbes |
 
+69 - Rhône |
+
+DDT |
+
+Chef du service connaissance et aménagement durable des territoires (ajouté à compter du 1er septembre 2019) |
+
+70 - Haute-Saône |
+
+DDT |
+
+Chef du service Environnement (ajouté à compter du 1er septembre 2019) |
+
 71 - Saône-et-Loire |
 
 DDT |
@@ -263,6 +295,12 @@ Chef de service - Délégation interservices de l'eau |
 DDT |
 
 Chef du service Eaux |
+
+90 - Territoire de Belfort |
+
+DDT |
+
+Chef du service appui connaissance et sécurité des territoires (ajouté à compter du 1er septembre 2019) |
 
 V. - DIRECTIONS DÉPARTEMENTALES DE LA PROTECTION DES POPULATIONS (DDPP) ET DIRECTIONS DÉPARTEMENTALES
 

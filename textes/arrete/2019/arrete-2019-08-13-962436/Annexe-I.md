@@ -64,7 +64,7 @@ Chef de la mission des procédures et diffusion de l'information juridique au se
 
 Chargé de mission auprès des délégués mobilité carrière |
 
-Chef du bureau du patrimoine immobilier au service des affaires financières, sociales et logistiques |
+Chef du bureau du patrimoine immobilier au service des affaires financières, sociales et logistiques (supprimé à compter du 1er septembre 2019) |
 
 Chef du bureau de la commande publique et des achats au service des affaires financières, sociales et logistiques |
 
@@ -76,10 +76,22 @@ Chef de la mission Contrôle de gestion au service de la modernisation |
 
 Chef du département infrastructures et services au service de la modernisation |
 
-Chargé de mission auprès du chef du service des ressources humaines |
+Chargé de mission auprès du chef du service des ressources humaines (supprimé à compter du 1er septembre 2019) |
 
-Chef du bureau du pilotage de la rémunération au service des ressources humaines |
+Chef du bureau du pilotage de la rémunération au service des ressources humaines (supprimé à compter du 1er septembre 2019) |
 
 Chef du bureau administration du personnel à la mission des affaires générales |
 
 Chef du bureau des pensions au service des ressources humaines |
+
+Chef de la mission des affaires générales (ajoué à compter du 1er mai 2019 ) |
+
+Chef de département au bureau de l'ingénierie applicative de la sous-direction des systèmes d'information du service de la modernisation (ajouté à compter du 1er septembre 2019)
+
+|
+
+Chef de département à la sous-direction des systèmes d'information du service de la modernisation (ajouté à compter du 1er septembre 2019) |
+
+Direction générale de l'enseignement |
+
+Chef du bureau de l'action éducative et de la vie scolaire (ajouté à compter du 1er septembre 2019) |
