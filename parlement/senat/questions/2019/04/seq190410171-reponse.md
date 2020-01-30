@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190410171
+
+- Question : [SEQ190410171](seq190410171.md) — Bilan de l'expérimentation d'externalisation des voitures-radars
+
+## Réponse
+
+*Intérieur, JO du 2020-01-30, page 582*
+
+Le ministre de l'intérieur rappelle que le parc des voitures radars est composé au 1er décembre 2019 de 409 véhicules dont 383 conduites par des fonctionnaires de police ou des gendarmes. Le nombre total de voitures radars sur l'ensemble du territoire national métropolitain a vocation à rester stable durant les années à venir. Expérimentée depuis le 20 avril 2018 dans la région Normandie au sein de laquelle circulent vingt-six voitures radars à conduite externalisée, la mesure relative à l'externalisation de la conduite des véhicules radars est désormais étendue depuis l'automne 2019 à trois nouvelles régions (Bretagne, Pays de Loire, Centre Val de Loire), avant une nouvelle extension au sein de quatre nouvelles régions. Il demeure encore prématuré de s'interroger sur l'impact de cette mesure d'externalisation de la conduite des voitures radars sur les statistiques nationales d'infractions au motif que le lancement de cette mesure en avril 2018 est encore récent et que le nombre de voitures radars à conduite externalisée n'est pas encore significatif avec vingt-six véhicules sur un total de 409 voitures radars. Pourtant, il convient de rappeler que l'objectif de cette mesure d'externalisation visait à augmenter les heures de contrôles réalisées par ces véhicules banalisés afin d'assurer un meilleur respect des limitations de vitesse et protéger les usagers de la route des comportements irresponsables. Or, même si le parc de voitures radars à conduite externalisée ne représente actuellement avec la seule région Normandie que 6,36 % du parc total, il a été observé en octobre 2019 que plus du tiers des heures de contrôles sont actuellement réalisées par ces véhicules qui contrôlent en moyenne chacun cinq heures par jour.
