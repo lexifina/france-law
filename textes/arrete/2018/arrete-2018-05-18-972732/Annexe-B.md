@@ -108,7 +108,7 @@ DEAL Guadeloupe |
 
 97,06 % |
 
-DEAL Guyane |
+DGTM Guyane |
 
 2,50 % |
 
