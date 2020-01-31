@@ -1,0 +1,15 @@
+# Article Annexe H
+
+LA COMMISSION ADMINISTRATIVE PARITAIRE LOCALE AU SEIN DE LA DIRECTION GÉNÉRALE DES TERRITOIRES ET DE LA MER DE GUYANE (DGTM)
+
+Services déconcentrés |
+
+Part femmes |
+
+Part hommes |
+
+DGTM Guyane |
+
+75,00 % |
+
+25,00 % |

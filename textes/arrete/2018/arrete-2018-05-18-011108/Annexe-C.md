@@ -14,12 +14,6 @@ DEAL Guadeloupe |
 
 12,00 % |
 
-DEAL Guyane |
-
-75,00 % |
-
-25,00 % |
-
 DEAL Mayotte |
 
 73,61 % |
