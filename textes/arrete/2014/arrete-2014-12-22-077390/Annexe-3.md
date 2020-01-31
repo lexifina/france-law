@@ -34,6 +34,8 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 -Contrat de Performance Energétique Services (CPE Services) Chauffage / Fiche d’opération standardisée n° BAT-SE-104
 
+-Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAT-SE-105
+
 -Chaudière collective haute performance énergétique / Fiche d’opération standardisée n° BAT-TH-102
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
@@ -44,7 +46,11 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 
 -Robinet thermostatique / Fiche d’opération standardisée n° BAT-TH-104
 
+Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté, à compter du 1er avril 2020.
+
 -Radiateur basse température pour un chauffage central/ / Fiche d’opération standardisée n° BAT-TH-105
+
+Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté, à compter du 1er avril 2020.
 
 -Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n° BAT-TH-106 (Abrogée à compter du 1er avril 2018)
 
@@ -88,7 +94,11 @@ Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 -Ventilation mécanique simple flux à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-125
 
+Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté, à compter du 1er avril 2020.
+
 -Ventilation mécanique double flux avec échangeur à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-126
+
+Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté, à compter du 1er avril 2020.
 
 -Raccordement d’un bâtiment tertiaire à un réseau de chaleur / Fiche d’opération standardisée n° BAT-TH-127
 
@@ -162,6 +172,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2020, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0202 du 31/08/2019, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=w75r1aFNZtgSLs1AgZIXbd_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0292 du 18/12/2018, texte n° 1, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=RZUf_1Eyg_e60erLnPvC31sDFihSq-tW46KWa2ISZzs=
@@ -192,4 +204,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 4 de l’arrêté du 31 juillet 2019 (NOR : TRER1923457A).
+Se reporter aux conditions d’application prévues à l’article 4 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A).
