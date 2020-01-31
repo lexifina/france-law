@@ -18,7 +18,7 @@ Conformément à l'article 2 de l'arrêté du 22 décembre 2017 (NOR : TRER17364
 
 - Echangeur-récupération de chaleur air/air dans un bâtiment d’élevage de volailles / Fiche d’opération n° AGRI-TH-113
 
-- Récupération de chaleur fatale issue d'un procédé industriel industriel pour le chauffage d'une serre ou d'un batiment d'élevage / Fiche d'opération n° AGRI-TH-116
+- Récupération de chaleur fatale issue d'un procédé industriel industriel pour le chauffage d'une serre ou d'un batiment d'élevage / Fiche d'opération n° AGRI-TH-116 (Abrogée à compter du 1er avril 2020)
 
 - Déshumidificateur thermodynamique pour serres / Fiche d’opération n° AGRI-TH-117
 
@@ -33,6 +33,8 @@ Conformément à l'article 2 de l'arrêté du 22 décembre 2017 (NOR : TRER17364
 - Ecrans thermiques latéraux / Fiche d’opération n° AGRI-EQ-104
 
 - Stop & Start pour véhicules agricoles à moteur / Fiche d'opération n° AGRI-EQ-105
+
+- Régulation de la ventilation des silos et des installations de stockage en vrac de céréales / Fiche d'opération standardisée n° AGRI-EQ-106
 
 - Moto-variateur synchrone à aimants permanents / Fiche d'opération n° AGRI-UT-101
 

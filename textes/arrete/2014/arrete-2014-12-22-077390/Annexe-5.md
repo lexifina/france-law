@@ -14,6 +14,8 @@ Secteur réseaux
 
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
 
+- Réparation de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine) / Fiche d’opération n° RES-CH-108
+
 - Système de régulation de tension en éclairage extérieur / Fiche d’opération n° RES-EC-101
 
 - Système de maîtrise de la puissance réactive en éclairage extérieur / Fiche d’opération n° RES-EC-102
@@ -25,6 +27,10 @@ Secteur réseaux
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 25 du 30/01/2020, texte nº 8, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 60 du 11/03/2017, texte nº 5, accessible à l’adresse suivante :
 
@@ -44,4 +50,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Conformément à l’article 9 de l’arrêté du 2 mars 2017 (NOR : DEVR1703311A), ces dispositions sont applicables aux opérations standardisées d'économies d'énergie faisant l'objet d'une demande de certificats d'économies d'énergie, auprès de l'autorité compétente, à compter de l'entrée en vigueur du présent arrêté.
+Conformément à l’article 5 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), ces dispositions sont applicables aux opérations standardisées d'économies d'énergie engagées à compter du 1er avril 2020.
