@@ -1,6 +1,6 @@
 # Article Annexe
 
-Les informations fournies au titre de l'article R. 411-3 du code de la construction et de l'habitation sont définies ci-dessous.
+Les informations fournies au titre de l' article R. 411-3 du code de la construction et de l'habitation sont définies ci-dessous.
 
 I.-Tableau 1 : En-tête du fichier
 
@@ -20,23 +20,23 @@ Adresse d'implantation au format postal.
 
 C'est le numéro SIRET à 14 chiffres de l'établissement siège.
 
-II-Tableau 2 : Enregistrements " logement "
+II.-Tableau 2 : Enregistrements “ logement ”
 
 1. Identifiant du logement au répertoire :
 
-Doit être obligatoirement renseigné sur 10 positions pour tous les logements. Il s'agit de l'identifiant attribué au logement par l'administration pour le répertoire des logements locatifs des bailleurs sociaux, soit à l'issue des collectes précédentes, soit par le dispositif immatriculation en continu pour les logements mis en service lors de l'année précédant la collecte.
+Doit être obligatoirement renseigné sur 10 positions pour tous les logements. Il s'agit de l'identifiant attribué au logement par l'administration pour le répertoire des logements locatifs des bailleurs sociaux, soit à l'issue des collectes précédentes (avant 2017), soit par le dispositif immatriculation en continu.
 
 2. Identifiant du logement dans le SI du propriétaire :
 
 Doit obligatoirement être renseigné pour tous les logements.
 
-Il s'agit de l'identifiant attribué au logement dans le système d'information du propriétaire. Il est utilisé lors de la communication par l'administration de l'identifiant du logement au répertoire.
+Il s'agit de l'identifiant attribué au logement dans le système d'information du propriétaire. Il est utilisé notamment lors de la communication entre le bailleur et l'administration pour immatriculer le logement au répertoire.
 
 3. Type de droit du bailleur sur le logement :
 
 Doit être obligatoirement renseigné.
 
-L'organisme peut posséder le logement en pleine propriété, en avoir simplement l'usufruit ou détenir un bail emphytéotique, un bail à construction ou un bail à réhabilitation.
+L'organisme peut posséder le logement en pleine propriété, en avoir simplement l'usufruit ou détenir un bail emphytéotique, un bail à construction, un bail à réhabilitation, un bail réel solidaire ou un bail réel immobilier.
 
 4. Code de la commune où est situé le logement en référence au code officiel géographique :
 
@@ -45,6 +45,8 @@ Doit être obligatoirement renseigné sur 5 positions.
 C'est la concaténation du code département et du code de la commune où est situé le logement. Le code officiel géographique est disponible sur le site internet de l'INSEE :
 
 http :// www. insee. fr/ fr/ methodes/ nomenclatures/ cog/ telechargement. asp.
+
+Au 1er janvier de chaque année, le dernier code officiel géographique disponible est celui de l'année précédente.
 
 5 à 10. Adresse du logement :
 
@@ -64,11 +66,15 @@ En complément de l'adresse, le cas échéant, des champs spécifiques sont pré
 
 Doit être obligatoirement renseigné pour les logements situés dans les communes définies dans l'article L. 302-6 du CCH.
 
+21. Lieudit :
+
+Doit être obligatoirement renseigné pour les logements situés dans les communes où il n'y pas de nom de voie.
+
 22. Logement situé dans un quartier prioritaire de la politique de la ville :
 
 Doit être obligatoirement renseigné.
 
-Le champ est renseigné à 1 si le logement est situé dans un quartier prioritaire de la politique de la ville défini par décret (ex. décret n° 2015-1138 du 14 septembre 2015), il est à 2 si le logement est en dehors d'un quartier prioritaire de la politique de la ville.
+Le champ est renseigné à 1 si le logement est situé dans un quartier prioritaire de la politique de la ville défini par décret (ex. décret n° 2015-1138 du 14 septembre 2015 ), il est à 2 si le logement est en dehors d'un quartier prioritaire de la politique de la ville.
 
 23. Type de construction :
 
@@ -76,9 +82,9 @@ Doit être obligatoirement renseigné, en lettres majuscules.
 
 Un logement est dit collectif s'il fait partie d'un bâtiment d'au moins deux logements. Sinon, c'est un logement individuel.
 
-Le champ est renseigné à E si le logement est situé dans une résidence étudiante.
+Le champ est renseigné à E si le logement est situé dans une résidence étudiante et affecté à l'usage des étudiants
 
-24. Nombre de pièces principales du logement :
+24 : Nombre de pièces principales du logement :
 
 Doit être obligatoirement renseigné.
 
@@ -88,9 +94,9 @@ Il s'agit des pièces principales au sens de l'article R. 111-1-1 du CCH dernier
 
 Doit être obligatoirement renseignée.
 
-La surface habitable est définie par l'article R. 111-2 du code de la construction et de l'habitation. C'est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escaliers, gaines, embrasures de portes et de fenêtres.
+La surface habitable est définie par l' article R. 111-2 du code de la construction et de l'habitation . C'est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escaliers, gaines, embrasures de portes et de fenêtres.
 
-Il n'est pas tenu compte de la superficie des combles non aménagés, caves, sous-sols, remises, garages, terrasses, loggias, balcons, séchoirs extérieurs au logement, vérandas, locaux communs et autres dépendances des logements, ni des parties de locaux d'une hauteur inférieure à 1,80 mètres.
+Il n'est pas tenu compte de la superficie des combles non aménagés, caves, sous-sols, remises, garages, terrasses, loggias, balcons, séchoirs extérieurs au logement, vérandas, locaux communs et autres dépendances des logements, ni des parties de locaux d'une hauteur inférieure à 1,80 mètre.
 
 26. Année d'achèvement de la construction :
 
@@ -188,7 +194,9 @@ Doit être obligatoirement renseigné.
 
 4. Logement pris en charge par une association : le logement n'est pas géré directement par l'organisme propriétaire, mais il est (sous-) loué, temporairement ou non, en tant que logement d'insertion, d'urgence ou autre, à une association ayant une mission de suivi social. Le loyer perçu par l'organisme propriétaire n'est pas acquitté directement par l'occupant mais par l'association qui se charge de son côté de percevoir ou non une compensation financière de cet occupant.
 
-5. Logement occupé avec ou sans contrepartie financière : il s'agit soit d'un logement faisant l'objet d'un bail professionnel, de baux communs commerce-logement ; soit d'un logement de fonction ou de service (loge de gardien, etc.) ; soit d'un logement occupé sans titre, soit d'un logement occupé par un mineur ou ses ayants droit (Epinorpa, Sainte Barbe).
+5. Logement occupé avec ou sans contrepartie financière : il s'agit soit d'un logement faisant l'objet d'un bail professionnel, de baux communs commerce-logement ; soit d'un logement de fonction ou de service (loge de gardien, etc.) ; soit d'un logement occupé sans titre, soit d'un logement occupé par un mineur ou ses ayants droit (Maisons et Cités, Sainte Barbe), soit d'un logement situé dans une résidence étudiante ou une gendarmerie et pour lesquels le bailleur ne perçoit qu'un loyer global pour l'ensemble de la résidence.
+
+6. logement temporairement utilisé pour de l'hébergement : il s'agit d'un logement temporairement utilisé par le bailleur pour de l'hébergement pour des publics relevant de l'accueil CHRS, CHU ou CADA
 
 9. Sans objet : le logement est sorti du patrimoine (vente, démolition …) ou n'existe plus au 1er janvier (changement d'usage, fusion ou éclatement au cours de l'année n-1).
 
@@ -200,9 +208,9 @@ Si le logement est occupé avec un contrat de location au 1er janvier de l'enqu�
 
 Il s'agit d'indiquer le mode de mesure de la surface servant à la détermination du loyer. Dans la majorité des cas, ce mode est lié au financement initial.
 
-Surface utile : article R. 353-16 du CCH, la surface utile est égale à la surface habitable du logement augmentée de la moitié de la surface des annexes privatives. Les surfaces annexes sont définies par l'arrêté du 9 mai 1995, modifié par l'arrêté du 10 mai 1996 du ministre en charge du logement (pris en application des articles R. 331-10 et R. 353-16 [2o] du CCH) comme : les surfaces réservées à l'usage exclusif de l'occupant du logement et dont la hauteur sous plafond est au moins égale à 1,80 mètre. Elles comprennent : les caves, les sous-sols, les remises, les ateliers, les séchoirs et celliers extérieurs au logement, les resserres, les combles et greniers aménageables, les balcons, les loggias, les vérandas et, dans la limite de 9 mètres carrés, les parties de terrasse accessibles en étage ou aménagées sur ouvrage enterré ou à moitié enterré.
+Surface utile : article R. 353-16 du CCH, la surface utile est égale à la surface habitable du logement augmentée de la moitié de la surface des annexes privatives. Les surfaces annexes sont définies par l'arrêté du 9 mai 1995, modifié par l'arrêté du 10 mai 1996 du ministre en charge du logement (pris en application des articles R. 331-10 et R. 353-16 [2°] du CCH) comme : les surfaces réservées à l'usage exclusif de l'occupant du logement et dont la hauteur sous plafond est au moins égale à 1,80 mètre. Elles comprennent : les caves, les sous-sols, les remises, les ateliers, les séchoirs et celliers extérieurs au logement, les resserres, les combles et greniers aménageables, les balcons, les loggias, les vérandas et, dans la limite de 9 mètres carrés, les parties de terrasse accessibles en étage ou aménagées sur ouvrage enterré ou à moitié enterré.
 
-Surface corrigée : loi no 48-1360 du 1er septembre 1948, la surface corrigée des pièces et annexes, totalisée pour l'ensemble du local, est affectée d'un correctif d'ensemble tenant compte, d'une part, de la vétusté et de l'état d'entretien du local, d'autre part, de l'emplacement du local dans l'agglomération et des sujétions de voisinage.
+Surface corrigée : loi n° 48-1360 du 1er septembre 1948 , la surface corrigée des pièces et annexes, totalisée pour l'ensemble du local, est affectée d'un correctif d'ensemble tenant compte, d'une part, de la vétusté et de l'état d'entretien du local, d'autre part, de l'emplacement du local dans l'agglomération et des sujétions de voisinage.
 
 Surface habitable : article R. 111-2 du CCH, c'est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escalier, gaines, ébrasements de portes et fenêtres.
 
@@ -234,19 +242,19 @@ Si aucun loyer accessoire n'est quittancé pour le logement, indiquer “ 999 �
 
 Doit être obligatoirement renseigné si le logement est occupé au 1er janvier.
 
-Prévue par l'article L. 442-3 du code de la construction et de l'habitation, cette contribution permet aux bailleurs d'amortir des travaux d'économie d'énergie pendant une durée maximum de quinze ans, en quittançant son montant sur une ligne spécifique. Indiquer " 999 " s'il n'y a pas eu de travaux permettant la mise en place de cette contribution.
+Prévue par l' article L. 442-3 du code de la construction et de l'habitation , cette contribution permet aux bailleurs d'amortir des travaux d'économie d'énergie pendant une durée maximum de quinze ans, en quittançant son montant sur une ligne spécifique. Indiquer “ 999 ” s'il n'y a pas eu de travaux permettant la mise en place de cette contribution.
 
 47. Plafond de ressources applicable pour une prochaine attribution, le cas échéant modifié au titre de la CUS :
 
 Doit être obligatoirement renseigné, quel que soit le statut d'occupation du logement.
 
-Il s'agit d'indiquer le plafond de ressources (PLAI, PLUS, PLS, PLI) applicable au logement pour son attribution à un locataire. Les organismes tenus de signer une CUS au titre de l'article L. 445-1 du code de la construction et de l'habitation indiquent le plafond de ressources applicable tel que modifié par la CUS, si tel est le cas.
+Il s'agit d'indiquer le plafond de ressources (PLAI, PLUS, PLS, PLI) applicable au logement pour son attribution à un locataire. Les organismes tenus de signer une CUS au titre de l' article L. 445-1 du code de la construction et de l'habitation indiquent le plafond de ressources applicable tel que modifié par la CUS, si tel est le cas.
 
 48. Date d'établissement du dernier diagnostic de performance énergétique DPE :
 
-Doit être obligatoirement renseigné.
+Doit être obligatoirement renseigné sauf pour la Réunion, la Guyane et Mayotte qui ne disposent pas de DPE
 
-Pour les logements qui y sont astreints selon la législation en vigueur à la date de l'enquête, mois/ année de réalisation du dernier diagnostic énergétique. S'il n'y a pas eu réalisation d'un DPE, indiquer " 01/1900 ".
+Pour les logements qui y sont astreints selon la législation en vigueur à la date de l'enquête, mois/ année de réalisation du dernier diagnostic énergétique. S'il n'y a pas eu réalisation d'un DPE, indiquer “ 01/1900 ”, y compris pour la Réunion, la Guyane et Mayotte
 
 49. Classe de consommation d'énergie :
 
@@ -262,7 +270,7 @@ Pour les seuls logements situés dans les communes définies dans l'article L. 3
 
 53. Le cas échéant, numéro interne au MEDDE de l'organisme gestionnaire.
 
-54. Code identifiant l'ensemble immobilier, au titre de la CUS.
+54. Code identifiant l'ensemble immobilier, au titre de la CUS :
 
 La notion d'ensemble immobilier ne concerne que les organismes soumis à la signature de la convention d'utilité sociale (CUS) définie aux articles L. 445-1 et suivants du CCH. Ils sont définis par les organismes.
 
@@ -284,7 +292,7 @@ Obligatoirement renseigné si le logement est conventionné à l'APL au titre de
 
 Il s'agit d'indiquer le montant du loyer mensuel maximal résultant de la convention APL, c'est-à-dire le montant du loyer maximal inscrit dans la convention APL, valeur actualisée en vigueur au 1er janvier de l'année de la collecte.
 
-Le loyer pratiqué doit obligatoirement être inférieur ou égal au loyer maximal de la convention APL pour les organismes ne complétant pas la donnée " montant du loyer maximal résultant de la CUS ".
+Le loyer pratiqué doit obligatoirement être inférieur ou égal au loyer maximal de la convention APL pour les organismes ne complétant pas la donnée “ montant du loyer maximal résultant de la CUS ”.
 
 57. Le cas échéant, montant du loyer mensuel maximal résultant de la CUS :
 
@@ -298,7 +306,7 @@ Le loyer pratiqué doit obligatoirement être inférieur ou égal à ce loyer ma
 
 Obligatoire uniquement si le logement a été vendu au cours de l'année civile précédant l'enquête (motif de sortie du patrimoine du bailleur au cours de l'année civile précédant l'enquête = 1,2 ou 3), indiquer le type de vente.
 
-Il s'agit de préciser si la vente a été faite à un locataire occupant, un conjoint, ascendant ou descendant, un locataire de l'organisme occupant un logement dans le département, un gardien d'immeuble de l'organisme, une autre personne physique, un organisme HLM, une SEM, une collectivité territoriale, un organisme qui bénéficie de l'agrément prévu à l'article L. 365-2 ou une autre personne morale.
+Il s'agit de préciser si la vente a été faite à un locataire occupant, un conjoint, ascendant ou descendant, un locataire de l'organisme occupant un logement dans le département, un gardien d'immeuble de l'organisme, une autre personne physique, un organisme HLM, une SEM, une collectivité territoriale, un organisme qui bénéficie de l'agrément prévu à l'article L. 365-2, une autre personne morale de droit privé, à un établissement public foncier local ou établissement public local de rénovation urbaine, en vue de démolition ou à une société de vente HLM (L. 422-4 du code de construction et de l'Habitat)
 
 59. Mise en commercialisation effective au cours de l'année civile précédant l'enquête :
 
@@ -348,7 +356,7 @@ Cette date est obligatoirement antérieure à la “ date de prise d'effet du ba
 
 Obligatoirement renseigné si le logement relève de l'article L. 441-1 c'est-à-dire les logements, hors logements-foyers :
 
--construits, améliorés ou acquis et améliorés avec le concours financier de l'État existants au 1er janvier de l'année de référence ou conventionnés et appartenant à ou gérés par un organisme d'HLM mentionnés à l'article L. 441-1 du code de la construction et de l'habitation ;
+-construits, améliorés ou acquis et améliorés avec le concours financier de l'Etat existants au 1er janvier de l'année de référence ou conventionnés et appartenant à ou gérés par un organisme d'HLM mentionnés à l' article L. 441-1 du code de la construction et de l'habitation ;
 
 -conventionnés dans les conditions définies à l'article L. 351-2 et appartenant à ou gérés par des sociétés d'économie mixte mentionnées à l'article L. 481-2.
 
@@ -382,14 +390,30 @@ Les collectivités territoriales et leurs établissements publics distingués en
 
 7. Non réservé (les logements pour lesquels aucun réservataire n'existe sont classés dans cette catégorie.
 
-64. Accessibilité et adaptation du logement aux personnes à mobilité réduite.
+8. Logement géré en flux, nouvelle disposition introduite par la loi portant évolution du logement, de l'aménagement et du numérique (Elan) du 24 novembre 2018.
 
-Doit être obligatoirement renseignée.
+9. Personnels de sécurité intérieure et de de défense.
+
+64. Accessibilité et adaptation du logement aux personnes à mobilité réduite :
+
+Doit être obligatoirement renseignée :
 
 Est une valeur parmi la liste suivante :
 
-1. Non accessible aux personnes à mobilité réduite.
+1. non accessible aux personnes à mobilité réduite.
 
-2. Accessible, mais non adapté, aux personnes à mobilité réduite.
+2. accessible, mais non adapté, aux personnes à mobilité réduite.
 
-3. Accessible et adapté aux personnes à mobilité réduite.
+3. accessible et adapté aux personnes à mobilité réduite.
+
+65. Date d'autorisation de la vente d'un logement social (disposition loi Elan) :
+
+Doit être obligatoirement renseignée en cas de vente.
+
+En vertu de l' article L. 443-7 du code de la construction et de l'habitation modifié par la loi n° 2018-1021 du 23 novembre 2018-art. 97 (V), il faut mentionner ici la date d'autorisation de la vente de logement.
+
+66. Date de vente effective d'un logement social (disposition loi Elan) :
+
+Doit être obligatoirement renseignée en cas de vente.
+
+Il s'agit de la date à laquelle l'acte de vente est signé.
