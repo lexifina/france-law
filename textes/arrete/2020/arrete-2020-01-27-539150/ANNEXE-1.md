@@ -1,0 +1,5 @@
+# Article ANNEXE 1
+
+MONTANTS VERSÉS À FRANCE COMPÉTENCES EN APPLICATION DE L'ARTICLE 3
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0026 du 31/01/2020 (legifrance.gouv.fr)
