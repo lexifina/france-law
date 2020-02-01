@@ -2,7 +2,7 @@
 
 Le cahier des charges prévu à l'article 275 bis C de l'annexe II au code général des impôts comprend la description des moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par les professionnels habilités par une convention.
 
-L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des organismes agréés mentionnés à l'article 275 bis F de l'annexe II au code général des impôts.
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au directeur régional des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des organismes agréés mentionnés à l'article 275 bis F de l'annexe II au code général des impôts.
 
 La direction régionale des douanes et droits indirects de rattachement approuve le cahier des charges préalablement à l'habilitation du professionnel.
 
@@ -43,3 +43,7 @@ b) En cas de marquage au laser, la description du dessin de l'empreinte du poin�
 c) Le respect des règles de marque ;
 
 d) La tenue d'une comptabilité matières mentionnant le nombre et le poids des ouvrages essayés, détaillant les ouvrages marqués par type de métal, précisant la modalité d'attestation de la garantie du titre parmi celles prévues à l'article 523 du code général des impôts et recensant les ouvrages reconnus aux titres non légaux.
+
+NOTA :
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.

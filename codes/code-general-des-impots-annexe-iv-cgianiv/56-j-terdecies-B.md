@@ -2,7 +2,7 @@
 
 Le cahier des charges mentionné aux articles 275 bis C, 275 bis F et 275 ter G de l'annexe II au code général des impôts comprend :
 
-1° La définition des missions de l'organisme agréé par le ministre chargé du budget et par le ministre chargé de l'industrie :
+1° La définition des missions de l'organisme agréé par le directeur interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, par le directeur régional des douanes et droits indirects :
 
 a) La réalisation de la version dématérialisée des poinçons attestant la garantie du titre ;
 
@@ -12,7 +12,7 @@ c) La vérification de la mise en place et de la conformité du protocole de sé
 
 2° Une documentation relative aux conditions d'exercice des missions mentionnées au 1° comportant :
 
-a) Les modalités d'élaboration de la version dématérialisée des poinçons attestant la garantie du titre à partir des agrandissements photographiques des poinçons en acier détenus par la Monnaie de Paris et transmis par l'intermédiaire de la direction générale des douanes et droits indirects ;
+a) Les modalités d'élaboration de la version dématérialisée des poinçons attestant la garantie du titre à partir des agrandissements photographiques des poinçons en acier détenus par la Monnaie de Paris et transmis par l'intermédiaire de l'administration des douanes et droits indirects ;
 
 b) Les modalités de conception et de gestion des fichiers comportant la version dématérialisée des poinçons attestant la garantie du titre par marquage au laser ;
 
@@ -30,4 +30,8 @@ e) Les modalités de vérification de la mise en place et de la conformité du p
 
 La réalisation, en présence d'un représentant de la direction régionale des douanes et droits indirects, d'un audit des professionnels habilités et des organismes de contrôle agréés préalablement à la délivrance de l'autorisation de marquage au laser ;
 
-La transmission, par la direction régionale des douanes et droits indirects, du rapport d'audit signé conjointement par le représentant de la direction régionale des douanes et droits indirects et par l'organisme agréé, à la direction générale des douanes et droits indirects.
+La transmission, par la direction régionale des douanes et droits indirects, du rapport d'audit signé conjointement par le représentant de la direction régionale des douanes et droits indirects et par l'organisme agréé.
+
+NOTA :
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.

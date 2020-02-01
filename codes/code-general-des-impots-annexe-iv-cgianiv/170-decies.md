@@ -1,8 +1,8 @@
 # Article 170 decies
 
-I. – L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas 5 millions d'euros, à l'exception du secteur du logement.
+I. – L'agrément prévu aux II quater et III de l'article 217 undecies du code général des impôts est délivré par le directeur départemental ou le directeur régional des finances publiques du département dans lequel le programme d'investissement est réalisé lorsque son montant total n'excède pas 10 millions d'euros, à l'exception du secteur du logement.
 
-La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 5 millions d'euros ou qu'il est réalisé dans plus d'un département d'outre-mer, à Saint-Martin, à Saint-Barthélemy, en Polynésie française, aux îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie ou à Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
+La décision est prise par le ministre du budget lorsque le programme d'investissement est d'un montant supérieur à 10 millions d'euros ou qu'il est réalisé dans plus d'un département d'outre-mer, à Saint-Martin, à Saint-Barthélemy, en Polynésie française, aux îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie ou à Saint-Pierre-et-Miquelon ou bien lorsque l'affaire est évoquée par le ministre.
 
 I bis. – Dans le secteur du logement, l'agrément prévu au 4 de l'article 199 undecies A, au VII de l'article 199 undecies C, aux II quater et III de l'article 217 undecies et au VII de l'article 244 quater W du code général des impôts, est délivré par le directeur départemental ou le directeur régional des finances publiques du département dans lequel les logements sont réalisés, lorsque le montant total du programme immobilier est inférieur ou égal à 20 millions d'euros.
 
@@ -21,3 +21,5 @@ IV. – (Dispositions devenues sans objet).
 NOTA :
 
 Modifications effectuées en conséquence de l'article 106-I [2°] de la loi n° 2016-1918 du 29 décembre 2016.
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.

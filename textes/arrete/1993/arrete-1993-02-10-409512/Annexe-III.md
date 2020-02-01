@@ -32,8 +32,12 @@ Important :
 
 (1) Ce document est réservé aux relations entre armuriers. La demande est à adresser :
 
-- pour les armes de 4e catégorie, à la direction générale des douanes et droits indirects, bureau D/3, 23 bis, rue de l'Université, 75700 Paris, en dix exemplaires ;
+- au service des autorisations de mouvements internationaux d'armes, 11, rue des Deux-Communes, 93558 Montreuil Cedex, en quatre exemplaires.
 
-- pour les armes de 5e et 7e catégorie, à la direction régionale des douanes et droits indirects territorialement compétente, en cinq exemplaires.
+- au service des autorisations de mouvements internationaux d'armes, 11, rue des Deux-Communes, 93558 Montreuil Cedex, en quatre exemplaires.
 
 (7) Indiquer, selon le cas, la date, les références et l'autorité qui délivre soit l'autorisation de faire le commerce des armes de 4e catégorie, soit le récépissé de la déclaration de faire le commerce d'armes de 5e et 7e catégorie.
+
+NOTA :
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.

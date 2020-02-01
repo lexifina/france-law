@@ -10,4 +10,8 @@ a) Aux obligations résultant des articles 275 bis F et 275 ter G de l'annexe II
 
 b) Aux dispositions législatives et réglementaires applicables en matière de garantie des métaux précieux.
 
-Le retrait de l'agrément est prononcé par le ministre chargé du budget et le ministre chargé de l'industrie. Il entraîne la cessation immédiate des activités exercées par l'organisme.
+Le retrait de l'agrément est prononcé par le directeur interrégional ou régional des douanes et droits indirects compétent mentionné au 1° de l'article 56 J terdecies B. Il entraîne la cessation immédiate des activités exercées par l'organisme.
+
+NOTA :
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.

@@ -2,9 +2,9 @@
 
 Le cahier des charges prévu à l'article 275 ter B de l'annexe II au code général des impôts comprend la description des moyens et des méthodes de contrôles et essais ainsi que des méthodes d'attestation de la garantie du titre mis en œuvre par les organismes de contrôle agréés.
 
-L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur général des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts.
+L'autorisation de procéder au marquage au laser pour attester la garantie du titre doit être demandée au directeur interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au directeur régional des douanes et droits indirects. Elle est accordée après vérification de la conformité du protocole de sécurité par des organismes agréés mentionnés à l'article 275 ter G de l'annexe II au code général des impôts.
 
-La direction générale des douanes et droits indirects et la direction générale des entreprises approuvent le cahier des charges préalablement à l'agrément de l'organisme de contrôle.
+La direction interrégionale ou régionale compétente mentionnée au deuxième alinéa approuve le cahier des charges préalablement à l'agrément de l'organisme de contrôle.
 
 Le cahier des charges mentionné au premier alinéa est composé notamment :
 
@@ -41,3 +41,5 @@ c) La tenue d'une comptabilité matières mentionnant le nombre et le poids des 
 NOTA :
 
 Modifications effectuées en conséquence de l'article 4 du décret n° 2014-1048 du 15 septembre 2014.
+
+Conformément au II de l'article 11 de l'arrêté du 13 janvier 2020 ( NOR : CPAP1931008A ), les demandes de décisions administratives individuelles présentées avant l'entrée en vigueur de cet arrêté sont instruites selon les procédures applicables à la date de leur présentation.
