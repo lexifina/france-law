@@ -4,7 +4,7 @@ Les salaires minima hiérarchiques au sens de l'article L. 2253-1 du code du tra
 
 – le salaire indiciaire : coefficient conventionnel multiplié par la valeur du point ;
 
-– l'indemnité de sujétion spéciale de 8,21 % (à l'exclusion des salariés cadres dont les rémunérations révisées au titre de l'avenant n° 265 ont intégré cette indemnité) ;
+– l'indemnité de sujétion spéciale de 9,21 % (à l'exclusion des salariés cadres dont les rémunérations révisées au titre de l'avenant n° 265 ont intégré cette indemnité) ;
 
 – les primes “ métiers ” exclusivement visées à l'article 1.3 du présent avenant.
 
