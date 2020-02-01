@@ -1,10 +1,10 @@
 # Article Annexe I
 
-DISPOSITIONS PARTICULIÈRES À L'AUTORISATION EUROPÉENNE DE PÊCHE POUR L'EXERCICE DE LA PÊCHE AVEC CERTAINS ENGINS RÉGLEMENTÉS DANS LES ZONES CIEM IV ET VIID
+DISPOSITIONS PARTICULIÈRES À L'AUTORISATION EUROPÉENNE DE PÊCHE POUR L'EXERCICE DE LA PÊCHE AVEC CERTAINS ENGINS RÉGLEMENTÉS DANS LA ZONE CIEM VIID
 
 I. - Champ d'application
 
-1. L'exercice de la pêche maritime professionnelle par tout navire de pêche battant pavillon français dans la zone IV et VIId avec les engins réglementés définis au point I. 2 de cette présente annexe est conditionné à la détention d'une autorisation européenne de pêche ci-après dénommée "AEP stocks démersaux Manche Est mer du Nord".
+1. L'exercice de la pêche maritime professionnelle par tout navire de pêche battant pavillon français dans la zone CIEM VIId avec les engins réglementés définis au point I. 2 de cette présente annexe est conditionné à la détention d'une autorisation européenne de pêche ci-après dénommée "AEP Manche Est-démersaux".
 
 2. Les engins réglementés sont les engins suivants :
 
@@ -20,22 +20,26 @@ I. - Champ d'application
 
 II. - Durée de validité de l'AEP et dépôt de la demande
 
-1. Par dérogation au point 1. de l'article 2 du présent arrêté, la validité de l'AEP stocks démersaux Manche Est mer du Nord ne peut excéder le 31 janvier de l'année suivant l'année de délivrance.
+1. Par dérogation au point 1. de l'article 2 du présent arrêté, la validité de l'AEP Manche Est-démersaux ne peut excéder le 31 janvier de l'année suivant l'année de délivrance.
 
-2. Sans préjudice des points 2 et 3 de l'article 4 du présent arrêté, toute demande d'AEP stocks démersaux Manche Est mer du Nord doit être déposée conformément à l'ensemble des dispositions de l'article 4 avant le 1er février de l'année en cours.
+2. Sans préjudice des points 2 et 3 de l'article 4 du présent arrêté, toute demande d'AEP Manche Est-démersaux doit être déposée conformément à l'ensemble des dispositions de l'article 4 avant le 1er février de l'année en cours.
 
 III. - Plafond de capacité
 
-La capacité totale des navires détenteurs d'AEP stocks démersaux Manche Est mer du Nord n'est pas supérieure au plafond de capacité maximale des navires actifs en 2006 en zones IV et VIId utilisant un des engins mentionnés au point I. 2. de cette présente annexe.
+La capacité totale des navires détenteurs d'AEP Manche Est-démersaux n'est pas supérieure au plafond de capacité maximale des navires actifs en 2006 en zone VIId utilisant un des engins mentionnés au point I. 2. de cette présente annexe.
 
 IV. - Liste des navires éligibles
 
-1. La liste initiale des navires éligibles pouvant bénéficier d'une AEP stocks démersaux Manche Est mer du Nord est constituée par les navires remplissant l'ensemble des conditions suivantes :
+1. La liste initiale des navires éligibles pouvant bénéficier d'une AEP Manche Est démersaux est constituée des navires remplissant l'ensemble des conditions suivantes :
 
-– bénéficier d'une éligibilité définitive à l'AEP cabillaud dans les zones de reconstitution du cabillaud de mer du Nord et de Manche orientale au 31 janvier 2019 ;
+- bénéficier de l'éligibilité définitive à l'AEP Manche Est-démersaux au 31 janvier 2020 ;
 
-– avoir été titulaire d'une AEP cabillaud dans les zones de reconstitution du cabillaud de mer du Nord et de Manche orientale pour l'année de gestion 2018 ;
+- être bénéficiaire de l'AEP Manche Est-démersaux au 31 janvier 2019 ;
 
-– avoir développé un effort de pêche avec un engin réglementé en zone IV et VIId entre le 1er février 2018 et le 31 janvier 2019.
+-avoir développé un effort de pêche en zone CIEM VIId avec un engin réglementé dans le cadre de l'autorisation européenne de pêche pour la pêche dans les zones de reconstitution du cabillaud de mer du Nord et de Manche orientale en 2016 et/ ou 2017 et/ ou 2018.
 
-2. Pour l'année, la liste des navires éligibles à l'AEP stocks démersaux Manche Est mer du Nord, établie et mise à jour par le ministre en charge des pêches maritimes, ne comprend que les navires disposant d'une éligibilité définitive et d'une AEP au 31 janvier de l'année de gestion précédente et ayant développé un effort de pêche dans la zone concernée au cours de l'année de gestion précédente. Cette dernière condition ne s'applique pas aux navires qui n'ont pas pu réaliser une activité normale en raison de la survenance à l'armateur embarqué ou au patron du navire de l'un des risques relevant de la caisse générale de prévoyance de l'Etablissement national des invalides de la Marine ou de l'immobilisation accidentelle, définitive ou temporaire, du navire qui empêche son exploitation durant l'année de gestion précédant celle pour laquelle est établie la demande.
+2. Pour l'année, la liste des navires éligibles à l'AEP Manche Est-démersaux, établie et mise à jour par le ministre en charge des pêches maritimes, ne comprend que les navires disposant d'une éligibilité définitive et d'une AEP au 31 janvier de l'année de gestion précédente et ayant développé un effort de pêche dans la zone concernée au cours de l'année de gestion précédente. Cette dernière condition ne s'applique pas aux navires qui n'ont pas pu réaliser une activité normale en raison de la survenance à l'armateur embarqué ou au patron du navire de l'un des risques relevant de la caisse générale de prévoyance de l'Etablissement national des invalides de la Marine ou de l'immobilisation accidentelle, définitive ou temporaire, du navire qui empêche son exploitation durant l'année de gestion précédant celle pour laquelle est établie la demande.
+
+NOTA :
+
+Conformément aux dispositions de l'article 5 de l'arrêté du 29 juillet 2019, ces dispositions entrent en vigueur le 1er février 2020.

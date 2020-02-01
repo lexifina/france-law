@@ -4,7 +4,11 @@ Dispositions particulières à l'autorisation européenne de pêche pour l'exerc
 
 I. - Champ d'application et objet
 
-1. L'exercice de la pêche maritime professionnelle par tout navire de pêche battant pavillon français dans la zone de gestion du stock de sole de la Manche occidentale telle que définie au point 2 du présent article, avec l'un des engins réglementés définis au point 3 du présent article, est conditionné à la détention d'une autorisation européenne de pêche, ci-après dénommée “ AEP Manche Ouest ”.
+1. L'exercice de la pêche maritime professionnelle par tout navire de pêche battant pavillon français dans la zone de gestion du stock de sole de la Manche occidentale telle que définie au point 2 du présent article, avec l'un des engins réglementés définis au point 3. du présent article, est conditionné à la détention d'une autorisation européenne de pêche, ci-après dénommée "AEP Manche Ouest", portant la mention :
+
+- "navire pêchant moins de 300 kg de sole en poids vif par an avec les engins réglementés par l'AEP",
+
+- ou "navire pêchant plus de 300 kg de sole en poids vif par an avec les engins réglementés par l'AEP".
 
 2. La zone de gestion du stock de sole de la Manche occidentale est la division CIEM VII e.
 
@@ -21,6 +25,8 @@ I. - Champ d'application et objet
 - être équipé d'un filet fixe d'un maillage supérieur ou égal à 120 mm et inférieur ou égal à 220 mm ;
 
 - pêcher moins de 300 kg de sole commune en division CIEM VII d en poids vif par an.
+
+6. Les navires pêchant plus de 300 kg de sole en poids vif par an avec les engins réglementés doivent faire partie de la liste des navires autorisés à pêcher plus de 300 kg de sole en poids vif par an avec les engins réglementés par la présente annexe. Cette liste est établie et mise à jour par le ministre en charge des pêches maritimes.
 
 II. - Plafond de capacité
 
@@ -41,3 +47,7 @@ III. - Liste des navires éligibles
 L'appréciation des cas de force majeure est réalisée par le ministre en charge des pêches maritimes dans le respect du plafond de capacité fixé par la réglementation européenne.
 
 2. Pour l'année, la liste des navires éligibles est établie et mise à jour par le ministre en charge des pêches maritimes
+
+NOTA :
+
+Conformément aux dispositions de l'article 5 de l'arrêté du 29 juillet 2019, ces dispositions entrent en vigueur le 1er février 2020.
