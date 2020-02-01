@@ -1,6 +1,6 @@
 # Article VI.4
 
-Une commission paritaire nationale pour l'emploi et la formation professionnelle (CPNEFP) est instituée au chapitre XV avec les missions suivantes :
+Une commission paritaire nationale pour l'emploi et la formation professionnelle (CPNEFP) est instituée à l'article XV. 2, avec les missions suivantes :
 
 – analyser la situation économique et celle de l'emploi dans la profession ;
 
