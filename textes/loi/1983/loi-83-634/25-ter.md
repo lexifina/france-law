@@ -1,8 +1,6 @@
 # Article 25 ter
 
-I.-La nomination dans l'un des emplois dont le niveau hiérarchique ou la nature des fonctions le justifient, mentionné sur une liste établie par décret en Conseil d'Etat, est conditionnée à la transmission préalable par le fonctionnaire d'une déclaration exhaustive, exacte et sincère de ses intérêts à l'autorité investie du pouvoir de nomination.
-
-Dès la nomination du fonctionnaire dans l'un des emplois définis au premier alinéa du présent I, l'autorité investie du pouvoir de nomination transmet la déclaration d'intérêts produite par le fonctionnaire à l'autorité hiérarchique dont il relève dans l'exercice de ses nouvelles fonctions.
+I.-La nomination dans l'un des emplois dont le niveau hiérarchique ou la nature des fonctions le justifient, mentionné sur une liste établie par décret en Conseil d'Etat, est conditionnée à la transmission préalable par le fonctionnaire d'une déclaration exhaustive, exacte et sincère de ses intérêts à l'autorité investie du pouvoir de nomination ou à l'autorité hiérarchique dans les conditions fixées par décret en Conseil d'Etat.
 
 II.-Lorsque l'autorité hiérarchique constate que le fonctionnaire se trouve dans une situation de conflit d'intérêts, au sens du I de l'article 25 bis, elle prend les mesures nécessaires pour y mettre fin ou enjoint au fonctionnaire de faire cesser cette situation dans un délai qu'elle détermine.
 
@@ -19,3 +17,11 @@ IV.-La déclaration d'intérêts ne comporte aucune mention des opinions ou des 
 Au cours de l'exercice des fonctions, toute modification substantielle des intérêts du fonctionnaire donne lieu, dans un délai de deux mois, à une déclaration dans les mêmes formes.
 
 Le modèle, le contenu et les modalités de transmission, de mise à jour, de conservation et de consultation de la déclaration d'intérêts ainsi que les modalités de destruction des déclarations transmises par les personnes n'ayant pas été nommées à l'emploi concerné sont fixés par décret en Conseil d'Etat, après avis de la Haute Autorité pour la transparence de la vie publique.
+
+NOTA :
+
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er février 2020.
+
+La commission de déontologie de la fonction publique est saisie et examine les demandes faites, jusqu'au 31 janvier 2020, sur le fondement du chapitre IV de la loi n° 83-634 du 13 juillet 1983 dans sa rédaction antérieure à la loi n° 2019-828 du 6 août 2019. L'absence d'avis de la commission dans un délai de deux mois à compter de sa saisine vaut avis de compatibilité. Ses membres demeurent en fonction jusqu'à la fin de l'examen des saisines.
+
+Les demandes présentées à compter du 1er février 2020 sont examinées par la Haute Autorité pour la transparence de la vie publique, dans les conditions prévues au même chapitre IV, dans sa rédaction résultant de ladite loi.
