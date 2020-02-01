@@ -4,7 +4,7 @@ I.-Le fonctionnaire consacre l'intégralité de son activité professionnelle au
 
 Il est interdit au fonctionnaire :
 
-1° De créer ou de reprendre une entreprise lorsque celle-ci donne lieu à immatriculation au registre du commerce et des sociétés ou au répertoire des métiers ou à affiliation au régime prévu à l'article L. 133-6-8 du code de la sécurité sociale, s'il occupe un emploi à temps complet et qu'il exerce ses fonctions à temps plein ;
+1° De créer ou de reprendre une entreprise lorsque celle-ci donne lieu à immatriculation au registre du commerce et des sociétés ou au répertoire des métiers ou à affiliation au régime prévu à l'article L. 613-7 du code de la sécurité sociale, s'il occupe un emploi à temps complet et qu'il exerce ses fonctions à temps plein ;
 
 2° De participer aux organes de direction de sociétés ou d'associations à but lucratif ;
 
@@ -24,11 +24,13 @@ La dérogation fait l'objet d'une déclaration à l'autorité hiérarchique dont
 
 III.-Le fonctionnaire qui occupe un emploi à temps complet peut, à sa demande, être autorisé par l'autorité hiérarchique dont il relève à accomplir un service à temps partiel pour créer ou reprendre une entreprise et à exercer, à ce titre, une activité privée lucrative.
 
-L'autorisation d'accomplir un service à temps partiel, qui ne peut être inférieur au mi-temps, est accordée, sous réserve des nécessités de la continuité et du fonctionnement du service et compte tenu des possibilités d'aménagement de l'organisation du travail, pour une durée maximale de deux ans, renouvelable pour une durée d'un an, à compter de la création ou de la reprise de cette entreprise.
+L'autorisation d'accomplir un service à temps partiel, qui ne peut être inférieur au mi-temps, est accordée, sous réserve des nécessités de la continuité et du fonctionnement du service et compte tenu des possibilités d'aménagement de l'organisation du travail, pour une durée maximale de trois ans, renouvelable pour une durée d'un an, à compter de la création ou de la reprise de cette entreprise.
 
 Une nouvelle autorisation d'accomplir un service à temps partiel pour créer ou reprendre une entreprise ne peut être accordée moins de trois ans après la fin d'un service à temps partiel pour la création ou la reprise d'une entreprise.
 
-La demande d'autorisation prévue aux deuxième et troisième alinéas du présent III est soumise au préalable à l'examen de la commission mentionnée à l'article 25 octies de la présente loi, dans les conditions prévues aux II, V et VI du même article.
+Lorsque l'autorité hiérarchique a un doute sérieux sur la compatibilité du projet de création ou de reprise d'une entreprise avec les fonctions exercées par le fonctionnaire au cours des trois années précédant sa demande d'autorisation, elle saisit pour avis, préalablement à sa décision, le référent déontologue. Lorsque l'avis de ce dernier ne permet pas de lever ce doute, l'autorité hiérarchique saisit la Haute Autorité pour la transparence de la vie publique, qui se prononce dans les conditions prévues à l'article 25 octies.
+
+Lorsque le fonctionnaire occupe un emploi dont le niveau hiérarchique ou la nature des fonctions le justifient, mentionné sur une liste établie par décret en Conseil d'Etat, l'autorité hiérarchique soumet sa demande d'autorisation à l'avis préalable de la Haute Autorité. A défaut, le fonctionnaire peut également saisir la Haute Autorité.
 
 IV.-Le fonctionnaire peut être autorisé par l'autorité hiérarchique dont il relève à exercer à titre accessoire une activité, lucrative ou non, auprès d'une personne ou d'un organisme public ou privé dès lors que cette activité est compatible avec les fonctions qui lui sont confiées et n'affecte pas leur exercice. Par dérogation au 1° du I du présent article, ces activités peuvent être exercées sous le régime prévu à l'article L. 133-6-8 du code de la sécurité sociale.
 
@@ -41,3 +43,11 @@ Les membres du personnel enseignant, technique ou scientifique des établissemen
 VI.-Sans préjudice de l'engagement de poursuites disciplinaires, la violation du présent article donne lieu au reversement des sommes perçues au titre des activités interdites, par voie de retenue sur le traitement.
 
 VII.-Les conditions d'application du présent article, notamment la liste des activités susceptibles d'être exercées à titre accessoire en application du IV, sont fixées par décret en Conseil d'Etat.
+
+NOTA :
+
+Conformément aux dispositions du XII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er février 2020.
+
+La commission de déontologie de la fonction publique est saisie et examine les demandes faites, jusqu'au 31 janvier 2020, sur le fondement du chapitre IV de la loi n° 83-634 du 13 juillet 1983 dans sa rédaction antérieure à la loi n° 2019-828 du 6 août 2019. L'absence d'avis de la commission dans un délai de deux mois à compter de sa saisine vaut avis de compatibilité. Ses membres demeurent en fonction jusqu'à la fin de l'examen des saisines.
+
+Les demandes présentées à compter du 1er février 2020 sont examinées par la Haute Autorité pour la transparence de la vie publique, dans les conditions prévues au même chapitre IV, dans sa rédaction résultant de ladite loi.
