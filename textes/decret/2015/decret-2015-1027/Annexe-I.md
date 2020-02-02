@@ -1,25 +1,39 @@
 # Article Annexe I
 
-DÉPARTEMENT
+DEPARTEMENT |
 
-|
+ETABLISSEMENT PUBLIC
 
-ÉTABLISSEMENT PUBLIC DE COOPÉRATION INTERCOMMUNALE ÉLIGIBLE
+DE COOPERATION INTERCOMMUNALE ELIGIBLE |
 
-|
+COMMUNE DE LOCALISATION
 
-COMMUNES DE LOCALISATION DES IMMEUBLES
+DES IMMEUBLES |
 
-|
+Eure-et-Loir |
 
-Marne
+Communauté de communes du Grand Châteaudun |
 
-|
+Châteaudun |
 
-Communauté d'agglomération de Cités en Champagne
+Jallans |
 
-|
+Villemaury |
 
-Châlons-en-Champagne, L'Epine.
+Marne |
 
-|
+Communauté d'agglomération de Cités en Champagne |
+
+Châlons-en-Champagne |
+
+L'Epine |
+
+Bas-Rhin |
+
+Communauté de communes du Pays de Wissembourg |
+
+Drachenbronn-Birlenbach |
+
+Cleebourg |
+
+Climbach |
