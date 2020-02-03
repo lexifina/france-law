@@ -8,15 +8,9 @@ Ain.
 
 Allier.
 
-Alpes-Maritimes.
-
 Ardèche.
 
 Aveyron.
-
-Calvados.
-
-Cantal.
 
 Corrèze.
 
@@ -38,10 +32,6 @@ Isère.
 
 Haute-Loire.
 
-Lot.
-
-Lozère.
-
 Manche.
 
 Haute-Marne.
@@ -52,8 +42,6 @@ Orne.
 
 Pyrénées-Orientales.
 
-Bas-Rhin.
-
 Haut-Rhin.
 
 Rhône.
@@ -61,8 +49,6 @@ Rhône.
 Savoie.
 
 Haute-Savoie.
-
-Vaucluse.
 
 Haute-Vienne.
 

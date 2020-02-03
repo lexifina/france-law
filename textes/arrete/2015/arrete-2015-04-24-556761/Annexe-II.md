@@ -1,6 +1,6 @@
 # Article Annexe II
 
-COURS D'EAU VISÉS À L'ARTICLE 1er, POINT 1°, TROISIÈME TIRET, DU PRÉSENT ARRÊTÉ
+COURS D'EAU VISÉS À L'ARTICLE 1er, POINT 1°, QUATRIÈME TIRET, DU PRÉSENT ARRÊTÉ
 
 Les cartes relatives à l'année 2016 sont consultables sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse suivante :
 
@@ -17,3 +17,7 @@ http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-f3e92f
 Les cartes en vigueur à partir du 1er janvier 2019 sont consultables sur le site du ministère de l'agriculture et de l'alimentation à l'adresse suivante :
 
 http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-97589d88-77b9-48c6-b6c5-230677e18b01
+
+Les cartes en vigueur à partir du 1er janvier 2020 sont consultables sur le site du ministère de l'agriculture et de l'alimentation à l'adresse suivante :
+
+http://info.agriculture.gouv.fr/gedei/site/bo-agri/document_administratif-efa4811a-83bb-4ea8-8b64-cf1670dd27e5

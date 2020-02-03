@@ -4,404 +4,92 @@ LISTE DES ESPÈCES INVASIVES
 
 (en application de l'article 2, deuxième tiret, du présent arrêté)
 
-ESPÈCE (NOM LATIN)
+ESPÈCE (NOM LATIN) |
 
-|
+ESPÈCE (NOM FRANÇAIS) |
 
-ESPÈCE (NOM FRANÇAIS)
+FAMILLE |
 
-|
+Amorpha fruticosa |
 
-FAMILLE
+Faux-indigo |
 
-|
+Fabaceae |
 
-Acacia dealbata
+Bidens subalternans |
 
-|
+Bident à folioles subalternes |
 
-Mimosa
+Asteraceae |
 
-|
+Bothriochloa bardinodis |
 
-Fabaceae
+Barbon Andropogon |
 
-|
+Poaceae |
 
-Acer negundo
+Bunias orientalis |
 
-|
+Bunias d'Orient |
 
-Erable negundo
+Brassicaceae |
 
-|
+Cortaderia selloana |
 
-Aceraceae
+L'herbe de la pampa |
 
-|
+Poaceae |
 
-Ailanthus altissima
+Eragrostis curvula |
 
-|
+Eragrostide |
 
-Faux-vernis du Japon
+Poaceae |
 
-|
+Euphorbia esula |
 
-Simaroubaceae
-
-|
-
-Ambrosia artemisiifolia
-
-|
-
-Ambroisie à feuilles d'armoise
-
-|
-
-Asteraceae
-
-|
-
-Amorpha fruticosa
-
-|
-
-Faux-indigo
-
-|
-
-Fabaceae
-
-|
-
-Aster lanceolatus
-
-|
-
-Aster américain
-
-|
-
-Asteraceae
-
-|
-
-Aster novi-belgii
-
-|
-
-Aster américain
-
-|
-
-Asteraceae
-
-|
-
-Azolla filiculoides
-
-|
-
-Azolla fausse-fougère
-
-|
-
-Azollaceae
-
-|
-
-Baccharis halimifolia
-
-|
-
-Séneçon en arbre
-
-|
-
-Asteraceae
-
-|
-
-Bidens frondosa
-
-|
-
-Bident à fruits noirs
-
-|
-
-Asteraceae
-
-|
-
-Buddleja davidii
-
-|
-
-Buddleia du Père David
-
-|
-
-Buddlejaceae
-
-|
-
-Campylopus introflexus
-
-|
-
-|
-
-Dicranaceae
-
-|
-
-Carpobrotus edulis
-
-|
-
-Griffes de sorcières
-
-|
-
-Aizoaceae
-
-|
-
-Carpobrotus acinaciformis
-
-|
-
-Griffes de sorcières
-
-|
-
-Aizoaceae
-
-|
-
-Cortaderia selloana
-
-|
-
-L'herbe de la pampa
-
-|
-
-Poaceae
-
-|
-
-Elodea canadensis
-
-|
-
-Elodée du Canada
-
-|
-
-Hydrocharitaceae
-
-|
-
-Elodea nuttallii
-
-|
-
-Elodée de Nuttall
-
-|
-
-Hydrocharitaceae
-
-|
-
-Elodea callitrichoides
-
-|
-
-Elodée à feuilles allongées
-
-|
-
-Hydrocharitaceae
-
-|
-
-Euphorbia esula
-
-|
-
-euphorbe ésule |
+Euphorbe ésule |
 
 Euphorbiaceae |
 
-Fallopia japonica
+Galega officinalis |
 
-|
+Galéga officinal |
 
-Renouée du Japon
+Fabaceae |
 
-|
+Paspalum dilatatum |
 
-Polygonaceae
+Paspale dilaté |
 
-|
+Poaceae |
 
-Fallopia sachalinensis
+Paspalum distichum |
 
-|
+Paspale distique |
 
-Renouée de Sakhaline
+Poaceae |
 
-|
+Sicyos angulata L. |
 
-Polygonaceae
+Sycios anguleux |
 
-|
+Cucurbitaceae |
 
-Impatiens glandulifera
+Solanum eleagnifolium |
 
-|
+Morelle à feuilles de chalef |
 
-Balsamine géante
+Solanaceae |
 
-|
+Solidago canadensis |
 
-Balsaminaceae
+Solidage du Canada |
 
-|
+Asteraceae |
 
-Impatiens parviflora
+Solidago gigentea |
 
-|
+Solidage glabre |
 
-Balsamine à petites fleurs
-
-|
-
-Balsaminaceae
-
-|
-
-Lagarosiphon major
-
-|
-
-Lagarosiphon
-
-|
-
-Hydrocharitaceae
-
-|
-
-Lemna minuta
-
-|
-
-Lentille d'eau minuscule
-
-|
-
-Lemnaceae
-
-|
-
-Ludwigia peploides
-
-|
-
-Jussie
-
-|
-
-Onagraceae
-
-|
-
-Ludwigia grandiflora
-
-|
-
-Jussie
-
-|
-
-Onagraceae
-
-|
-
-Myriophyllum aquaticum
-
-|
-
-Myriophylle du Brésil
-
-|
-
-Haloragaceae
-
-|
-
-Paspalum dilatatum
-
-|
-
-Paspale dilaté
-
-|
-
-Poaceae
-
-|
-
-Paspalum distichum
-
-|
-
-Paspale distique
-
-|
-
-Poaceae
-
-|
-
-Senecio inaequidens
-
-|
-
-Séneçon du Cap
-
-|
-
-Asteraceae
-
-|
-
-Solidago canadensis
-
-|
-
-Solidage du Canada
-
-|
-
-Asteraceae
-
-|
-
-Solidago gigentea
-
-|
-
-Solidage glabre
-
-|
-
-Asteraceae
-
-|
+Asteraceae |

@@ -2,7 +2,7 @@
 
 LISTE DES DÉPARTEMENTS
 
-(en application de l'article 1er, point 1°, quatrième tiret, du présent arrêté)
+(en application de l'article 1er, point 1°, sixième tiret, du présent arrêté)
 
 Aisne.
 
@@ -15,6 +15,8 @@ Charente-Maritime.
 Cher.
 
 Côte-d'Or.
+
+Côtes-d'Armor.
 
 Eure.
 
@@ -34,6 +36,8 @@ Hérault.
 
 Ille-et-Vilaine.
 
+Indre.
+
 Indre-et-Loire.
 
 Landes.
@@ -41,6 +45,8 @@ Landes.
 Loir-et-Cher.
 
 Loire-Atlantique.
+
+Lot.
 
 Lot-et-Garonne.
 
@@ -56,6 +62,8 @@ Mayenne.
 
 Nord.
 
+Oise.
+
 Pas-de-Calais.
 
 Puy-de-Dôme.
@@ -63,6 +71,8 @@ Puy-de-Dôme.
 Pyrénées-Atlantiques.
 
 Hautes-Pyrénées.
+
+Bas-Rhin.
 
 Sarthe.
 
