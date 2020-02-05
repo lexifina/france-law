@@ -1,0 +1,67 @@
+# Accélération et simplification de l’action publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N38690
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/acceleration_simplification_action_publique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-307.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-02-05 : 1er dépôt d'une initiative. (PRJLSNR5S339B0307)
+  - 2020-02-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-02-05 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-02-26 : Dépôt de rapport (RAPPSNR5S339B0358, PRJLSNR5S339BTC0359)
+  - Discussion en séance publique
+    - 2020-03-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-03-06 : Dépôt d'une initiative en navette (PRJLANR5L15B2750)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-03-06 : Renvoi en commission au fond
+      - 2020-07-29 : Nomination de rapporteur
+      - 2020-09-14 : Réunion de commission
+      - 2020-09-14 : Réunion de commission
+      - 2020-09-15 : Réunion de commission
+      - 2020-09-15 : Réunion de commission
+      - 2020-09-16 : Réunion de commission
+      - 2020-09-16 : Réunion de commission
+      - 2020-09-17 : Réunion de commission
+      - 2020-09-17 : Réunion de commission
+      - 2020-09-28 : Réunion de commission
+      - 2020-09-17 : Dépôt de rapport (RAPPANR5L15B3347, PRJLANR5L15BTC3347)
+  - Discussion en séance publique
+    - 2020-09-28 : Discussion en séance publique
+    - 2020-09-29 : Discussion en séance publique
+    - 2020-09-29 : Discussion en séance publique
+    - 2020-09-30 : Discussion en séance publique
+    - 2020-09-30 : Discussion en séance publique
+    - 2020-10-02 : Discussion en séance publique
+    - 2020-10-02 : Discussion en séance publique
+    - 2020-10-06 : Discussion en séance publique
+    - 2020-10-06 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-07 : Dépôt d'un projet de loi (PRJLSNR5S359B0016)
+  - 2020-10-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-21 : Nomination de rapporteur
+    - 2020-10-21 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0066, PRJLSNR5S359BTC0067)
+    - 2020-10-21 : Dépôt du rapport d'une CMP (RAPPANR5L15B3466, PRJLANR5L15BTC3466)
+  - Discussion en séance publique
+    - 2020-10-27 : Discussion en séance publique
+    - 2020-10-27 : Décision
+  - Discussion en séance publique
+    - 2020-10-28 : Discussion en séance publique
+    - 2020-10-28 : Décision
+  - 2020-10-22 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-11-03 : Saisine du conseil constitutionnel
+  - 2020-12-03 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-12-07 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2021-07-13 : Rapport sur l'application des lois (RINFANR5L15B4370)
