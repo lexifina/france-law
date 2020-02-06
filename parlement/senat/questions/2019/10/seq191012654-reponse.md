@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012654
+
+- Question : [SEQ191012654](seq191012654.md) — Imprécision du terme « responsable de liste » en cas de fusion de listes aux élections municipales
+
+## Réponse
+
+*Intérieur, JO du 2020-02-06, page 713*
+
+Le « responsable de liste » mentionné aux articles L. 264 et L. 265 du code électoral désigne par défaut le candidat tête de liste, mais cette dénomination offre une certaine souplesse qui permet à ce dernier de mandater une personne de confiance pour procéder aux démarches de déclaration de candidature. Cette personne peut, ou non, figurer sur cette même liste de candidats. Cette définition est conforme à l'esprit du législateur qui, durant l'examen de la loi modifiant le code électoral et le code des communes et relatif à l'élection des conseillers municipaux et aux conditions d'inscription des Français établis hors de France sur les listes électorales du 19 novembre 1982, faisait référence au « candidat tête de liste ou un mandataire désigné par lui » lors de l'intégration de ces dispositions aux articles L. 264 et L. 265 du code électoral. Il semble opportun de laisser cette souplesse d'organisation aux listes de candidats, d'autant que l'existence d'un mandat évite des difficultés qui pourraient surgir. Un modèle de mandat permettant au candidat tête de liste de désigner un autre « responsable de la liste » pour déclarer la candidature de la liste est proposé par le ministère de l'intérieur. Il figure en annexe du guide des élections municipales et communautaires des 15 et 22 mars 2020, mis en ligne le 3 décembre 2019 sur le site du ministère. Un mandat sur papier libre pourra être accepté par les administrations qui reçoivent les déclarations de candidature, à condition d'être dûment rempli, daté et signé. Le Gouvernement n'envisage donc pas de modifier cette expression dans les dispositions législatives du code électoral.
