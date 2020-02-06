@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213646
+
+- Question : [SEQ191213646](seq191213646.md) — Situation du pôle de santé de Cosne-Cours-sur-Loire
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-02-06, page 719*
+
+Le tribunal de commerce de Nevers a prononcé le 18 décembre 2019 la liquidation judiciaire sans poursuite d'activité de la clinique de Cosne-sur-Loire. Consciente des enjeux sur ce territoire du centre de la France, l'Agence régionale de santé Bourgogne-Franche-Comté a appuyé le Groupement hospitalier de territoire (GHT) de la Nièvre pour la commande d'un audit par un cabinet spécialisé en vue d'une étude d'opportunité sur le maintien d'une activité de chirurgie sur le secteur cosnois. Cet audit comprend trois parties : l'étude du potentiel de recrutement au niveau de la patientèle et du besoin de la population, l'examen des conditions nécessaires à la reprise d'un bloc opératoire : conditions de fonctionnement, d'organisation et humaines indispensables au fonctionnement, l'ensemble devant permettre de lever les injonctions à l'origine de la suspension de l'activité de chirurgie, la présentation d'un plan en termes de projet et d'une stratégie de soutenabilité financière. Le cabinet retenu intervient sur le site de la clinique et les résultats sont attendus prochainement. Ces derniers feront l'objet d'une restitution aux élus du territoire. La possibilité d'une reprise de l'activité de chirurgie par un opérateur privé reste également ouverte sachant que la situation immobilière de la clinique demeure un des principaux éléments faisant obstacle à une telle reprise. Dans l'attente, le GHT de la Nièvre se mobilise pour rechercher des solutions pour les carrières des personnels paramédicaux, infirmiers, aides-soignants et agents des services hospitaliers de la clinique, en les informant des postes vacants à pourvoir au sein des établissements composant le GHT, de manière privilégiée sur les sites de Cosne, Nevers et La Charité-sur-Loire.
