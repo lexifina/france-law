@@ -1,0 +1,9 @@
+# Réponse à la question SEQ171102199
+
+- Question : [SEQ171102199](seq171102199.md) — Critères d'éligibilité au crédit d'impôt pour la transition énergétique
+
+## Réponse
+
+*Transition écologique et solidaire, JO du 2020-02-06, page 720*
+
+Le Gouvernement a fait de la politique de rénovation énergétique des logements une priorité de l'acte II du quinquennat. En effet, avec environ un quart de nos émissions de CO2 et 45 % des consommations en énergie finale, les bâtiments constituent le deuxième poste d'émissions de gaz à effet de serre de notre pays (juste derrière les transports). Il s'agit donc d'un enjeu clé de l'indispensable transition écologique que nous sommes en train de mettre en œuvre et qui nous permettra d'atteindre nos objectifs en matière de neutralité carbone à l'horizon 2050. Face à la complexité des dispositifs existants, le Gouvernement lance en 2020 une prime unique, avec un montant fixé en euros, d'autant plus élevé que les gestes financés réduisent les émissions de CO2 ; que les revenus des ménages sont bas. Cette prime remplace le CITE et l'aide de l'ANAH pour les gestes simples (Habiter Mieux Agilité). La nouvelle aide est plus simple. Elle est versée sous forme d'une prime dont le montant, fixé en euros, dépend du type de travaux. Versée en une fois dès la fin des travaux, la prime va faciliter le passage à l'acte des ménages, qui n'auront plus besoin de faire l'avance du montant couvert par cette nouvelle l'aide. La nouvelle aide est plus juste socialement. Le montant de la prime est plus important pour les ménages aux ressources modestes et très modestes, pouvant couvrir pour eux jusqu'aux deux tiers de la dépense. La nouvelle aide est plus efficace. Le montant de la prime unifiée est déterminé à partir des économies d'énergie que les travaux permettent de réaliser et non plus proportionnellement à leur coût. Cela veut dire que chaque euro d'aide permettra d'éviter davantage d'émissions de gaz à effet de serre.
