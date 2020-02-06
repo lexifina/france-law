@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213475
+
+- Question : [SEQ191213475](seq191213475.md) — Déremboursement de l'homéopathie
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-02-06, page 718*
+
+En France, le bien-fondé du remboursement des médicaments par l'assurance maladie est évalué par la Haute autorité de santé (HAS) afin de s'assurer qu'ils présentent un intérêt thérapeutique suffisamment important. La ministre des solidarités et de la santé a souhaité recueillir l'avis de la Commission de la transparence de la HAS, composée d'experts indépendants, sur le bien-fondé des conditions de la prise en charge et du remboursement des médicaments homéopathiques. À partir de l'ensemble des données médicales et scientifiques disponibles, elle a mis en évidence que ces médicaments n'avaient ni démontré leur efficacité dans les affections pour lesquelles des données sont disponibles, ni démontré leur intérêt pour la santé publique notamment pour réduire la consommation d'autres médicaments. Au vu des conclusions de cette évaluation scientifique remettant en cause l'intérêt clinique de ces produits et conformément à mes engagements, la ministre a souhaité suivre l'avis de la HAS et a initié la procédure visant à radier, à compter du 1er janvier 2021, les médicaments homéopathiques de la liste des médicaments pris en charge par l'assurance maladie. Une étape intermédiaire a été prévue. Le déremboursement sera effectif après cette période de transition pour laisser le temps de la pédagogie, accompagner les patients et permettre aux prescripteurs et aux industriels concernés de s'adapter progressivement au déremboursement total de ces produits. Ainsi, le taux de remboursement est passé de 30 % à 15 % le 1er janvier 2020. En outre, cette décision ne remet pas en cause la commercialisation de l'homéopathie et la liberté pour les patients d'y avoir recours.
