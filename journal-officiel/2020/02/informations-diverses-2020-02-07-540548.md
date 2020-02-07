@@ -1,0 +1,9 @@
+# Informations diverses (mesure individuelle)
+
+Mesure nominative ou individuelle : seules les métadonnées sont reproduites ici. / Individual measure: metadata only.
+
+- Nature : Informations Diverses
+- Publication : 2020-02-07
+- JO n° : 0032
+- NOR : IDIX2003614X
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041540548
