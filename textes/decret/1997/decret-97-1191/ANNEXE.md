@@ -242,14 +242,6 @@ DIVERS
 
 Code de la construction et de l'habitation
 
-1 |
-
-Détermination de la compétence des laboratoires chargés de procéder aux essais en vue du classement des matériaux en réaction et résistance au feu des matériaux. |
-
-Article D. 121-5
-
-|
-
 2 |
 
 Homologation de classement par rapport au danger d'incendie d'un matériau ou d'un élément de construction et retrait de cette homologation. |
