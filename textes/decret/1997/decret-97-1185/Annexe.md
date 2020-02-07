@@ -90,275 +90,29 @@ TRAVAIL - EMPLOI
 
 Code du travail
 
-1
+1 |
 
-|
+Mise en œuvre de la procédure de sauvegarde permettant de s'opposer à l'exposition, l'importation et la vente d'équipements de travail et de moyens de protection ne répondant pas aux exigences de sécurité ou de subordonner ces opérations à certaines conditions (conjointement avec le ministre de l'agriculture). |
 
-Agrément d'organismes habilités à effectuer des mesures et contrôles de l'aération et de l'assainissement des locaux de travail (conjointement avec le ministre de l'agriculture).
+Art. R. 4314-2 |
 
-|
+2 |
 
-Art. R. 232-5-11.
+Autorisation de dépassement du contingent annuel d'heures indemnisées au titre de l'activité partielle (conjointement avec le ministre chargé du budget). |
 
-|
+Art. R. 5122-6 |
 
-2
+3 |
 
-|
+Agrément ou retrait d'agrément des opérateurs de compétences et des fonds d'assurance-formation mentionnés aux articles L. 6332-1 et L. 6332-9 du code du travail (conjointement avec le ministre de l'agriculture). |
 
-Agrément d'organismes habilités à effectuer des relevés photométriques sur les lieux de travail (conjointement avec le ministre de l'agriculture).
+Art. R. 6331-50 et R. 6332-1 |
 
-|
+4 |
 
-Art. R. 232-7-9.
+Décision de représentativité d'un syndicat ou d'une organisation professionnelle autre que ceux affiliés à des organisations représentatives au niveau national à la suite d'une enquête (conjointement avec le ministre de l'agriculture pour ce qui le concerne). |
 
-|
-
-3
-
-|
-
-Agrément d'organismes habilités à procéder à un mesurage de l'exposition au bruit (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. R. 232-8-7.
-
-|
-
-4
-
-|
-
-Mise en oeuvre de la procédure de sauvegarde permettant de s'opposer à l'exposition, l'importation et la vente d'équipements de travail et de moyens de protection ne répondant pas aux exigences de sécurité ou de subordonner ces opérations à certaines conditions (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. R. 233-78 et R. 233-79.
-
-|
-
-5
-
-|
-
-Autorisation de dépassement du contingent d'heures de chômage partiellement indemnisé (conjointement avec le ministre chargé du budget).
-
-|
-
-Art. R. 351-50.
-
-|
-
-6
-
-|
-
-Décisions de dérogation d'âge dans le cas de convention d'allocations spéciales du FNE portant sur plus de 100 salariés (conjointement avec le ministre chargé du budget).
-
-|
-
-Art. R. 322-7 et arrêté du 15 septembre 1997.
-
-|
-
-7
-
-|
-
-Agrément ou retrait d'agrément des organismes collecteurs paritaires visés par les articles L. 953-1, 961-10 et 962-12 du code du travail (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. R. 953-11.
-
-|
-
-8
-
-|
-
-Agrément d'organismes de formation de coordonnateurs en matière de sécurité et de protection de la santé pour certaines opérations de bâtiment ou de génie civil (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. R. 238-11.
-
-|
-
-9
-
-|
-
-Habilitation des organismes émetteurs des titres emplois-services (conjointement avec le ministre chargé du budget).
-
-|
-
-Art. D. 129-11.
-
-|
-
-10
-
-|
-
-Agrément des organismes de dosimétrie pour la mesure de l'exposition externe et interne (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. R. 231-93, II
-
-|
-
-11
-
-|
-
-Agrément des services médicaux ou des laboratoires d'analyses médicales de dosimétrie pour la mesure de l'exposition interne (conjointement avec le ministre de l'agriculture et le ministre de la santé).
-
-|
-
-Art. R. 231-93, II
-
-|
-
-Décret n° 49-39 du 11 janvier 1949 relatif à la formation professionnelle accélérée et réduisant le nombre des centres subventionnés par l'Etat
-
-1
-
-|
-
-Désignation des centres de formation professionnelle pouvant, par dérogation à l'article 1er, alinéa 1, être subventionnés par l'Etat (conjointement avec le ministre de l'économie).
-
-|
-
-Art. 1er.
-
-|
-
-Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base
-
-1
-
-|
-
-Agrément des organismes chargés de contrôler les dispositifs de détection des rayonnements ionisants, de signalisation et d'alarme (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. 24.
-
-|
-
-2
-
-|
-
-Agrément d'organismes pour effectuer la surveillance des salariés intervenant dans une installation nucléaire de base (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. 25-3.
-
-|
-
-Décret n° 86-269 du 13 février 1986 relatif à la protection des travailleurs exposés au benzène
-
-1
-
-|
-
-Agrément d'organismes habilités à procéder au contrôle de la concentration de benzène dans l'atmosphère des lieux de travail (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. 5.
-
-|
-
-Décret n° 86-1103 du 2 octobre 1986 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants
-
-1
-
-|
-
-Agrément d'organismes habilités à dispenser la formation à la radioprotection (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. 17-1.
-
-|
-
-2
-
-|
-
-Agrément d'organismes habilités à procéder aux contrôles des sources scellées et installations pour la protection des travailleurs contre les dangers des rayonnements ionisants (conjointement avec le ministre chargé de l'industrie).
-
-|
-
-Art. 29.
-
-|
-
-Décret n° 88-120 du 1er février 1988 relatif à la protection des travailleurs contre les risques liés à une exposition au plomb métallique et à ses composés
-
-1
-
-|
-
-Agrément des organismes habilités à procéder au contrôle de la concentration d'aérosols de plomb dans l'atmosphère des lieux de travail et d'organismes habilités à procéder à des dosages de plombémie (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. 4-IV.
-
-|
-
-Décret n° 88-1056 du 14 novembre 1988 modifié relatif à la protection des travailleurs qui mettent en oeuvre des courants électriques
-
-1
-
-|
-
-Agrément des organismes chargés de la vérification des installations électriques sur mise en demeure de l'inspection du travail (conjointement avec le ministre chargé de l'agriculture).
-
-|
-
-Art. 53 et arrêté du 21 décembre 1988 modifié.
-
-|
-
-Décret n° 90-277 du 28 mars 1990 relatif à la protection des travailleurs intervenant en milieu hyperbare
-
-1
-
-|
-
-Agrément des organismes habilités à dispenser la formation de sécurité des travailleurs intervenant en milieu hyperbare (conjointement avec le ministre chargé de l'agriculture ou le ministre chargé de la mer).
-
-|
-
-Art. 3-II.
-
-Arrêté du 28 janvier 1991, art. 2.
-
-|
-
-Décret n° 96-98 du 7 février 1996 relatif à la protection des travailleurs contre les risques liés à l'inhalation de poussières d'amiante
-
-1
-
-|
-
-Agrément d'organismes habilités à procéder au contrôle des poussières d'amiante dans l'atmosphère des lieux de travail (conjointement avec le ministre de l'agriculture).
-
-|
-
-Art. 20.
-
-|
+Art. R. 2121-1 et R. 2121-2 |
 
 2. Décisions administratives individuelles prises par le ministre de l'emploi et de la solidarité
 
@@ -430,9 +184,7 @@ Art. R. * 1321-52 |
 
 Agrément des laboratoires d'analyses chargés d'effectuer les analyses pour la vérification de la qualité des eaux minérales naturelles. |
 
-Art. R. * 1322-44-3
-
-|
+Art. R. * 1322-44-3 |
 
 Code de la sécurité sociale
 
@@ -452,9 +204,7 @@ Art. R. 151-1. |
 
 Approbation des statuts d'organismes de sécurité sociale, des institutions de retraite complémentaire de salariés et de leurs fédérations et des institutions de retraite supplémentaire de salariés. |
 
-Art. R. 281-4
-
-|
+Art. R. 281-4 |
 
 Code de la mutualité
 
@@ -608,210 +358,50 @@ TRAVAIL, EMPLOI ET FORMATION PROFESSIONNELLE
 
 Code du travail
 
-1
+1 |
 
-|
+Etablissement de la liste des organismes dont les stages ouvrent droit aux congés d'éducation ouvrière. |
 
-Décision prescrivant des prélèvements et analyses de certaines substances et préparations dangereuses.
+Art. R. 2145-3 |
 
-|
+2 |
 
-Art. R. 231-54-9.
+Agrément ou retrait d'agrément des opérateurs de compétence et des fonds d'assurance formation visés aux articles L. 6332-1 et L. 6332-9 du code du travail. |
 
-|
+Art. R. 6331-50 et R. 6332-1 |
 
-2
+3 |
 
-|
+Habilitation des organismes chargés de mettre en œuvre les procédures de certification ou de contrôle de conformité de certaines machines et équipements de protection individuelle. |
 
-Etablissement de la liste des organismes dont les stages ouvrent droit aux congés d'éducation ouvrière.
+Art. R. 4313-36 et R. 4313-83 |
 
-|
+4 |
 
-Art. R. 451-1.
+Accord préalable à la dévolution des biens des organismes collecteurs paritaires. |
 
-|
+Art. R. 6332-7 |
 
-3
+5 |
 
-|
+Décisions prises à la suite des contrôles de la formation professionnelle continue. |
 
-Attribution, retrait, refus de renouvellement de la licence d'agent artistique visée à l'article L. 762-3 du code du travail.
+Art. R. 6362-4 |
 
-|
+6 |
 
-Art. R. 762-2 à R. 762-8.
+Agrément des organismes privés assurant la formation des conseillers prud'hommes. |
 
-|
+Art. R. 1442-2 |
 
-4
+7 |
 
-|
+Agrément des organismes réalisant des formations en santé, sécurité et conditions de travail |
 
-Agrément ou retrait d'agrément des organismes collecteurs paritaires visés par les articles L. 953-1, 961-10 et 961-12 du code du travail.
+Art. R. 2315-12 |
 
-|
+8 |
 
-Art. R. 953-1 à 5, R. 964-1 à R. 964-1-5.
+Agrément des organismes de formation aux travaux sous tension sur les installations électriques |
 
-|
-
-5
-
-|
-
-Habilitation des organismes chargés de mettre en oeuvre les procédures de certification ou de contrôle de conformité de certaines machines et équipements de protection individuelle.
-
-|
-
-Art. R. 233-51.
-
-|
-
-6
-
-|
-
-Répartition entre les fonds habilités du produit des contributions des travailleurs indépendants et assimilés au développement de la formation professionnelle continue.
-
-|
-
-Art. R. 953-7.
-
-|
-
-7
-
-|
-
-Accord préalable à la dévolution des biens des organismes collecteurs paritaires.
-
-|
-
-Art. R. 964-1-6.
-
-|
-
-8
-
-|
-
-Décisions prises à la suite des contrôles de la formation professionnelle continue.
-
-|
-
-Art. R. 991-4 et 7.
-
-|
-
-9
-
-|
-
-Agrément des organismes privés assurant la formation des conseillers prud'hommes.
-
-|
-
-Art. D. 514-2.
-
-|
-
-10
-
-|
-
-Agrément et retrait d'agrément des correspondants de l'ANPE pouvant concourir au service public de l'emploi lorsque l'activité de l'organisme dépasse les limites du département ou de la région.
-
-|
-
-Art. R. 311-1-5.
-
-|
-
-Décret n° 49-39 du 11 janvier 1949 relatif à la formation professionnelle accélérée et réduisant le nombre des centres subventionnés par l'Etat
-
-1
-
-|
-
-Décision de création et retrait d'agrément des centres de formation professionnelle ayant pour objet la formation professionnelle dans les activités reconnues prioritaires.
-
-|
-
-Art. 3.
-
-|
-
-Décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base
-
-1
-
-|
-
-Autorisation donnée au chef d'établissement pour effectuer la surveillance de l'exposition de ses salariés aux rayonnements ionisants.
-
-|
-
-Art. 25-2.
-
-|
-
-1
-
-|
-
-Décisions financières liées à l'exécution des décisions de justice.
-
-|
-
-|
-
-2
-
-|
-
-Décisions d'indemnisation amiable en cas de mise en cause de la responsabilité de l'Etat à raison d'activités relevant de la compétence du ministère de l'emploi et de la solidarité.
-
-|
-
-|
-
-Code des marchés publics
-
-1
-
-|
-
-Exclusion temporaire ou définitive d'une entreprise des marchés passés par l'Etat et ses établissements publics autres que ceux ayant un caractère industriel et commercial, en cas d'inexactitude des renseignements prévus aux 2°, 3°, 4°, 5° et 6° de l'article 50 du code des marchés publics.
-
-|
-
-Art. 42.
-
-Articles R. 335-12 à R. 335-23 du code de l'éducation.
-
-|
-
-1
-
-|
-
-Enregistrement dans le répertoire national des certifications professionnelles des diplômes et titres à finalité professionnelles et des certificats de qualification professionnelle et modification, renouvellement ou suppression de l'enregistrement
-
-|
-
-Article 5
-
-|
-
-1
-
-|
-
-Autorisation de dissémination d'organismes génétiquement modifiés.
-
-|
-
-Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 30).
-
-|
+Art. R. 4544-11 |
