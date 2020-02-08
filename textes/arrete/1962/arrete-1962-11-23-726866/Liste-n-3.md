@@ -682,13 +682,13 @@ Méribel-Robert Merloz |
 
 Savoie |
 
-Altiport.
+L'altiport est utilisable uniquement par les avions dans les conditions fixées ci-dessous et par les hélicoptères.
 
-Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.
+L’altiport n’est pas utilisable par les avions effectuant des vols de transport aérien commercial, à l’exception des avions relevant des catégories définies à l’annexe I du règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l'Union européenne pour la sécurité aérienne, effectuant des vols dans les conditions fixées à l’article D.510-7 du code de l’aviation civile, ainsi que des avions effectuant des vols de découverte conduits dans les conditions fixées par la section 3 de l’arrêté du 18 août 2016 relatif aux éléments laissés à l’appréciation de l’autorité nationale compétente par le règlement n°965/2012 de la Commission du 5 octobre 2012, déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil.
 
-L’altiport n’est pas utilisable par les avions effectuant des vols de transport aérien commercial, à l’exception des vols de découverte conduits dans les conditions fixées par la section 3 de l’arrêté du 18 août 2016 relatif aux éléments laissés à l’appréciation de l’autorité nationale compétente par le règlement n°965/2012 de la Commission du 5 octobre 2012, déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes conforméménet au règlement (CE) n° 216/2008 du Parlement européen et du Conseil.
+Pour pouvoir utiliser l’altiport, les pilotes se conforment aux dispositions de l'arrêté du 21 juin 2019 fixant les conditions relatives aux autorisations d'accès aux altiports.
 
-Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.
+Sans préjudice des dispositions prévues ci-dessus, cet altiport est utilisé dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est.
 
 |
 
