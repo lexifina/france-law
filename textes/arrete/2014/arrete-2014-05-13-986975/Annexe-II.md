@@ -184,355 +184,187 @@ Surface pêchée = surface du trait (écartement entre pointes pour le gangui à
 
 Tableau 1. ― Estimation de la surface d'herbiers de posidonies (Posidonia oceanica) exploitée par la flottille pêchant au gangui à panneaux en 2013
 
-GANGUI À PANNEAUX
+GANGUI À PANNEAUX |
+
+Largeur engin (écartement des pointes) |
+
+10 |
+
+mètres |
+
+Vitesse de traction |
+
+1 |
+
+nœud |
+
+Vitesse de traction |
+
+1 852 |
+
+mètres/heure |
+
+Durée trait |
+
+1,25 |
+
+heure décimale |
+
+Surface unitaire du trait |
+
+23 150 |
+
+mètres carrés |
+
+Nombre moyen traits/jours |
+
+5 |
+
+traits |
+
+Nombre jours pêche |
+
+150 |
+
+jours |
+
+Nombre navires |
+
+22 |
+
+navires |
+
+Taux de répétition annuel des traits |
+
+0,2 |
 
 |
 
-Largeur engin (écartement des pointes)
+Estimation surface totale exploitée |
+
+7 635 000 |
+
+mètres carrés |
 
 |
 
-10
+76 |
 
-|
-
-mètres
-
-|
-
-Vitesse de traction
-
-|
-
-1
-
-|
-
-nœud
-
-|
-
-Vitesse de traction
-
-|
-
-1 852
-
-|
-
-mètres/heure
-
-|
-
-Durée trait
-
-|
-
-1,25
-
-|
-
-heure décimale
-
-|
-
-Surface unitaire du trait
-
-|
-
-23 150
-
-|
-
-mètres carrés
-
-|
-
-Nombre moyen traits/jours
-
-|
-
-5
-
-|
-
-traits
-
-|
-
-Nombre jours pêche
-
-|
-
-150
-
-|
-
-jours
-
-|
-
-Nombre navires
-
-|
-
-22
-
-|
-
-navires
-
-|
-
-Taux de répétition annuel des traits
-
-|
-
-0,2
-
-|
-
-|
-
-Estimation surface totale exploitée
-
-|
-
-7 635 000
-
-|
-
-mètres carrés
-
-|
-
-|
-
-76
-
-|
-
-kilomètres carrés
-
-|
+kilomètres carrés |
 
 Tableau 2. ― Estimation de la surface d'herbiers de posidonies (Posidonia oceanica) exploitée par la flottille pêchant au petit gangui en 2013
 
-PETIT GANGUI
+PETIT GANGUI |
+
+Largeur engin |
+
+2,5 |
+
+mètres |
+
+Vitesse de traction |
+
+1 |
+
+nœud |
+
+Vitesse de traction |
+
+1 852 |
+
+mètres/heure |
+
+Durée trait |
+
+0,37 |
+
+heure décimale |
+
+Surface unitaire du trait |
+
+1 713,1 |
+
+mètres carrés |
+
+Nombre moyen traits/jours |
+
+5 |
+
+traits |
+
+Nombre maximal de jours pêche |
+
+50 |
+
+jours |
+
+Nombre maximum de navires |
+
+14 |
+
+navires |
+
+Taux de répétition des traits |
+
+0,2 |
 
 |
 
-Largeur engin
+Estimation surface totale exploitée |
+
+1 199 170 |
+
+mètres carrés |
 
 |
 
-2,5
+12 |
 
-|
-
-mètres
-
-|
-
-Vitesse de traction
-
-|
-
-1
-
-|
-
-nœud
-
-|
-
-Vitesse de traction
-
-|
-
-1 852
-
-|
-
-mètres/heure
-
-|
-
-Durée trait
-
-|
-
-0,37
-
-|
-
-heure décimale
-
-|
-
-Surface unitaire du trait
-
-|
-
-1 713,1
-
-|
-
-mètres carrés
-
-|
-
-Nombre moyen traits/jours
-
-|
-
-5
-
-|
-
-traits
-
-|
-
-Nombre maximal de jours pêche
-
-|
-
-50
-
-|
-
-jours
-
-|
-
-Nombre maximum de navires
-
-|
-
-14
-
-|
-
-navires
-
-|
-
-Taux de répétition des traits
-
-|
-
-0,2
-
-|
-
-|
-
-Estimation surface totale exploitée
-
-|
-
-1 199 170
-
-|
-
-mètres carrés
-
-|
-
-|
-
-12
-
-|
-
-kilomètres carrés
-
-|
+kilomètres carrés |
 
 Tableau 3. ― Surface d'herbiers de posidonies (Posidonia oceanica) exploitée par la flottille pêchant au gangui en 2013 et respect des pourcentages fixés à l'article 4, paragraphe 5 ii, du règlement (CE) n° 1967/2006
 
-Surface totale d'herbiers à posidonies dans les eaux territoriales françaises
+Surface totale d'herbiers à posidonies dans les eaux territoriales françaises |
+
+980 |
+
+km² |
+
+Surface totale d'herbiers à posidonies dans les eaux concernées par le plan de gestion gangui (région PACA) |
+
+320 |
+
+km² |
+
+Estimation surface de posidonie exploitée par le gangui à panneaux |
+
+76 |
+
+km² |
+
+Estimation surface exploitée par le petit gangui |
+
+12 |
+
+km² |
+
+Estimation surface totale de posidonie exploitée par le gangui (petit gangui et gangui à panneaux) |
+
+88 |
 
 |
 
-980
+Ratio surface de posidonie exploitée par le gangui/surface posidonies dans les eaux concernées par le plan de gestion gangui (région PACA) |
 
-|
+27,5 |
 
-km²
+% |
 
-|
+Ratio surface de posidonie exploitée par le gangui/surface posidonie dans les eaux territoriales françaises |
 
-Surface totale d'herbiers à posidonies dans les eaux concernées par le plan de gestion gangui (région PACA)
+9,0 |
 
-|
-
-320
-
-|
-
-km²
-
-|
-
-Estimation surface de posidonie exploitée par le gangui à panneaux
-
-|
-
-76
-
-|
-
-km²
-
-|
-
-Estimation surface exploitée par le petit gangui
-
-|
-
-12
-
-|
-
-km²
-
-|
-
-Estimation surface totale de posidonie exploitée par le gangui (petit gangui et gangui à panneaux)
-
-|
-
-88
-
-|
-
-|
-
-Ratio surface de posidonie exploitée par le gangui/surface posidonies dans les eaux concernées par le plan de gestion gangui (région PACA)
-
-|
-
-27,5
-
-|
-
-%
-
-|
-
-Ratio surface de posidonie exploitée par le gangui/surface posidonie dans les eaux territoriales françaises
-
-|
-
-9,0
-
-|
-
-%
-
-|
+% |
 
 Les zones d'activité des navires pêchant au gangui à panneaux vont du territoire de la prud'homie de Cassis (département des Bouches-du-Rhône) à celui de la prud'homie de Sainte-Maxime (département du Var) et se concentrent surtout dans le département du Var sur le secteur de Toulon. Pour la période d'observation 2004-2008, l'examen de la flottille pêchant au gangui à panneaux permet de dénombrer 30 navires pratiquant cette activité. La flottille de pêche au gangui à panneaux est caractérisée par le faible taux de turn-over mais aussi par le fait qu'une proportion élevée de navires ont une activité exclusive de pêche au gangui à panneaux. Les navires de la flottille des ganguis à panneaux ne développent pas une activité couplée avec le petit gangui et l'ensemble des métiers hors plan de gestion ne représentent que 20 % des mois d'activités de la flottille.
 
@@ -542,49 +374,27 @@ dans son propre PdG et dans les autres PdG/hors PdG auxquels ils contribuent (PA
 
 |
 
-ACTIVITÉ GANGUI
+ACTIVITÉ GANGUI |
 
-|
+ACTIVITÉ PETIT GANGUI |
 
-ACTIVITÉ PETIT GANGUI
+ACTIVITÉS HORS PdG |
 
-|
+Nombre de navires |
 
-ACTIVITÉS HORS PdG
+30 |
 
-|
+1 |
 
-Nombre de navires
+12 |
 
-|
+Nombre de mois |
 
-30
+995 |
 
-|
+5 |
 
-1
-
-|
-
-12
-
-|
-
-Nombre de mois
-
-|
-
-995
-
-|
-
-5
-
-|
-
-204
-
-|
+204 |
 
 Figure 2. ― Diagramme des flux entrants (bleu) et sortants (hachurés rouges) de la flottille gangui ―
 
@@ -626,45 +436,25 @@ hors PdG
 
 |
 
-Nombre de navires
+Nombre de navires |
 
-|
+41 |
 
-41
+1 |
 
-|
+1 |
 
-1
+33 |
 
-|
+Nombre de mois |
 
-1
+433 |
 
-|
+5 |
 
-33
+6 |
 
-|
-
-Nombre de mois
-
-|
-
-433
-
-|
-
-5
-
-|
-
-6
-
-|
-
-815
-
-|
+815 |
 
 Figure 3. ― Diagramme des flux entrants (bleu) et sortants (hachurés rouges) de la flottille petit gangui ― le turn-over annuel (noir)
 
@@ -750,103 +540,55 @@ avril 2012 à mai 2013
 
 |
 
-Nombre de marées observées
+Nombre de marées observées |
 
-|
+169 |
 
-169
+Nombre de navires observés |
 
-|
+4 |
 
-Nombre de navires observés
+Rang catégorie "soupe"/métier |
 
-|
+1 |
 
-4
+Occurrence |
 
-|
+100 % |
 
-Rang catégorie "soupe"/métier
+Capture totale (kg) |
 
-|
+13 085 |
 
-1
+Capture moyenne (kg/marée) |
 
-|
+77,4 |
 
-Occurrence
+CPUE annuelle (kg/marée) |
 
-|
+73,95 |
 
-100 %
+Capture min/navire (kg/marée) |
 
-|
+9 |
 
-Capture totale (kg)
+Capture max/navire (kg/marée) |
 
-|
-
-13 085
-
-|
-
-Capture moyenne (kg/marée)
-
-|
-
-77,4
-
-|
-
-CPUE annuelle (kg/marée)
-
-|
-
-73,95
-
-|
-
-Capture min/navire (kg/marée)
-
-|
-
-9
-
-|
-
-Capture max/navire (kg/marée)
-
-|
-
-133
-
-|
+133 |
 
 En l'état des connaissances disponibles, les objectifs de gestion pour le gangui sont les suivants :
 
-PLAN DE GESTION GANGUI
+PLAN DE GESTION GANGUI |
 
-|
+POINTS DE RÉFÉRENCE LIMITE |
 
-POINTS DE RÉFÉRENCE LIMITE
+Espèce : nom commun (nom scientifique) |
 
-|
+Capture par unité d'effort (kg/marée) |
 
-Espèce : nom commun (nom scientifique)
+"Soupe verte" (rascasse, serranidés, labridés) |
 
-|
-
-Capture par unité d'effort (kg/marée)
-
-|
-
-"Soupe verte" (rascasse, serranidés, labridés)
-
-|
-
-73,95
-
-|
+73,95 |
 
 Le plan de gestion pour le gangui vise à maintenir les captures par unités d'effort moyennes annuelles, exprimées en kilogrammes de capture par marée, au-dessus des points de référence.
 
@@ -868,29 +610,17 @@ Article 1er
 
 Objectifs de gestion pour les espèces exploitées par le gangui
 
-PLAN DE GESTION GANGUI
+PLAN DE GESTION GANGUI |
 
-|
+POINTS DE RÉFÉRENCE LIMITE |
 
-POINTS DE RÉFÉRENCE LIMITE
+Espèce : nom commun (nom scientifique) |
 
-|
+Capture par unité d'effort (kg/marée) |
 
-Espèce : nom commun (nom scientifique)
+"Soupe verte" (rascasse, serranidés, labridés) |
 
-|
-
-Capture par unité d'effort (kg/marée)
-
-|
-
-"Soupe verte" (rascasse, serranidés, labridés)
-
-|
-
-73,95
-
-|
+73,95 |
 
 Le plan de gestion pour la pêche au gangui vise à maintenir les captures par unités d'effort moyennes annuelles, exprimées en kilogrammes de capture par marée, au-dessus des points de référence limite.
 
@@ -942,7 +672,7 @@ Effort de pêche
 
 La pêche au petit gangui est limitée à cinquante jours par an et par navire titulaire de l'AEP.
 
-La pêche au gangui à panneaux ou à armature est limitée à deux cents jours par an et par navire titulaire de l'AEP.
+La pêche au gangui à panneaux ou à armature est limitée à cent quatre-vingts jours par an et par navire titulaire de l'AEP.
 
 Article 5
 
