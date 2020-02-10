@@ -102,7 +102,7 @@ DORADE ROSE/ PAGEOT ROSE |
 
 Pagellus bogaraveo |
 
-23 cm |
+35 cm |
 
 DORADE ROYALE |
 
@@ -276,7 +276,7 @@ SOLES |
 
 Solea spp. |
 
-24 cm |
+Régions Hauts de France et Normandie, à l'Est du Cap de la Hague : 25 cm Autres zones : 24 cm |
 
 THON ROUGE |
 
@@ -350,9 +350,13 @@ HOMARD |
 
 Homarus gammarus |
 
-8,7 cm (LC) (*) |
+Région Hauts de France :
 
-LANGOUSTE ROUGE |
+9 cm (LC) (*)
+
+Autres régions : 8.7 cm (LC) (*) |
+
+LANGOUSTE |
 
 Palinurus spp. |
 
@@ -382,11 +386,19 @@ Cancer pagurus |
 
 13 cm |
 
+TOURTEAU dans le secteur des accords de la Baie de Granville (**) |
+
+Cancer pagurus |
+
+15 cm (LC) (*) |
+
 (*) LJFL = longueur maxillaire inférieur-fourche.
 
 (*) LT = longueur totale.
 
 (*) LC = longueur céphalothoracique.
+
+(**) = Le secteur des accords de la Baie de Granville est défini dans le décret n° 2004-75 du 15 janvier 2004 portant publication de l'accord relatif à la pêche dans la baie de Granville entre la République française et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord à l'article 1 de l'annexe. (ensemble quatre échanges de notes), signé à Saint-Hélier le 4 juillet 2000 (1).
 
 |
 
