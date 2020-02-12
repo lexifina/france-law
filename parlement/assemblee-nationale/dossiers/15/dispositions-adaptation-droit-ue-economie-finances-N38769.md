@@ -1,0 +1,91 @@
+# Adaptation au droit de l’UE en matière économique et financière
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N38769
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/dispositions_adaptation_droit_ue_economie_finances
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-314.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-02-12 : 1er dépôt d'une initiative. (PRJLSNR5S339B0314)
+  - 2020-06-17 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-02-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-06-24 : Dépôt de rapport (RAPPSNR5S339B0552, PRJLSNR5S339BTC0553)
+  - Discussion en séance publique
+    - 2020-07-08 : Discussion en séance publique
+    - 2020-07-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-07-10 : Dépôt d'une initiative en navette (PRJLANR5L15B3196)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-10 : Renvoi en commission au fond
+      - 2020-07-01 : Nomination de rapporteur
+      - 2020-09-30 : Réunion de commission
+      - 2020-10-07 : Réunion de commission
+      - 2020-09-30 : Dépôt de rapport (RAPPANR5L15B3382, PRJLANR5L15BTC3382)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-29 : Saisine pour avis d'une commission
+      - 2020-07-29 : Nomination de rapporteur
+      - 2020-07-29 : Réunion de commission
+      - 2020-09-09 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-30 : Saisine pour avis d'une commission
+      - 2020-07-15 : Nomination de rapporteur
+      - 2020-07-15 : Réunion de commission
+      - 2020-09-16 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-10-07 : Discussion en séance publique
+    - 2020-10-07 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-08 : Dépôt d'un projet de loi (PRJLSNR5S359B0021)
+  - 2020-10-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-22 : Nomination de rapporteur
+    - 2020-10-22 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0069, PRJLSNR5S359BTC0070)
+    - 2020-10-22 : Dépôt du rapport d'une CMP (RAPPANR5L15B3468)
+  - 2020-10-22 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-10-22 : Dépôt d'une initiative en navette (PRJLANR5L15B3469)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-22 : Renvoi en commission au fond
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-06 : Réunion de commission
+      - 2020-11-04 : Dépôt de rapport (RAPPANR5L15B3521, PRJLANR5L15BTC3521)
+    - Travaux d'une commission saisie pour avis
+      - 2020-10-27 : Saisine pour avis d'une commission
+      - 2020-07-29 : Nomination de rapporteur
+      - 2020-11-03 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2020-10-27 : Saisine pour avis d'une commission
+      - 2020-07-15 : Nomination de rapporteur
+      - 2020-11-03 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-11-06 : Discussion en séance publique
+    - 2020-11-06 : Décision
+- Nouvelle Lecture
+  - 2020-11-06 : Dépôt d'une initiative en navette (PRJLSNR5S359B0114)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-06 : Renvoi en commission au fond
+      - 2020-11-10 : Dépôt de rapport (RAPPSNR5S359B0120, PRJLSNR5S359BTC0121)
+  - Discussion en séance publique
+    - 2020-11-17 : Discussion en séance publique
+    - 2020-11-17 : Décision
+- Lecture définitive
+  - 2020-11-18 : Dépôt d'une initiative en navette (PRJLSNR5S359BTA0023)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-18 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-11-18 : Discussion en séance publique
+    - 2020-11-18 : Décision
+- Promulgation de la loi
+  - 2020-12-03 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2021-07-13 : Rapport sur l'application des lois (RINFANR5L15B4369)
