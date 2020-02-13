@@ -876,20 +876,6 @@ Article 2.
 
 |
 
-Décret n° 2017-434 du 28 mars 2017 relatif au label "centre culturel de rencontre"
-
-1
-
-|
-
-Décision d’octroi du label "centre culturel de rencontre".
-
-|
-
-Article 2.
-
-|
-
 Article R. 759-9 du code de l’éducation
 
 1
