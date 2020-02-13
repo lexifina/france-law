@@ -88,8 +88,6 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 
 - Arrêté du 19 novembre 2007 relatif aux insectes de La Réunion protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
-- Arrêté du 19 novembre 2007 relatif aux insectes de la Guadeloupe protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
-
 - Arrêté du 29 octobre 2009 relatif aux oiseaux protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national. Toutefois, il ne s'applique pas aux espèces identifiées par d'autres symboles que ● ou ■.
 
 - Arrêté du 1er juillet 2011 relatif aux mammifères marins protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
@@ -113,6 +111,12 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 -Arrêté du 14 octobre 2019 fixant la liste des amphibiens et des reptiles représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 14 octobre 2019 fixant la liste des amphibiens et des reptiles représentés dans le département de la Martinique protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 24 janvier 2020 fixant la liste des reptiles représentés dans la collectivité d'outre-mer de Saint-Martin protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans la collectivité d'outre-mer de Saint-Martin protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 |
 
