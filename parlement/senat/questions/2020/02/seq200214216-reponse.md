@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214216
+
+- Question : [SEQ200214216](seq200214216.md) — Situation des personnels des services de sécurité incendie des hôpitaux
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-02-13, page 823*
+
+Les agents de sécurité incendie, qui occupent une place essentielle dans le bon fonctionnement des établissements sanitaires, sociaux et médico-sociaux, relèvent légitimement du corps des personnels ouvriers régi par le décret n° 2016-1705 du 12 décembre 2016 portant statut particulier des personnels de la filière ouvrière et technique de la catégorie C de la fonction publique hospitalière. Leurs missions de participation au dispositif de sécurité et d'incendie sont expressément prévues par les dispositions de l'article 7 de ce décret et le niveau de diplôme dont ils sont titulaires correspond à la catégorie C. Il est également rappelé que ce corps a bénéficié des dispositions du protocole « Parcours professionnels, carrières et rémunérations » (PPCR), lequel a introduit une nouvelle structure de carrière, commune à l'ensemble des corps de catégorie C de la fonction publique hospitalière, en réduisant le nombre de grades de quatre à trois, occasionnant ainsi des reclassements indiciaires. Ceci pourra avoir pour effet de favoriser l'accès de ces personnels aux échelons sommitaux de leurs grades. Par ailleurs, s'agissant de l'indemnité forfaitaire de risque, elle vise à reconnaître l'exposition à des risques particuliers et des conditions de travail spécifiques des personnels réalisant au moins la moitié de leur temps de travail dans les services mobiles d'urgence et de réanimation et dans les structures d'urgence. Les agents de sécurité incendie ne relèvent pas de ces spécificités. En revanche, ils bénéficient, dans les conditions fixées au 13° de l'article 1er du décret n° 92-112 du 3 février 1992, d'une reconnaissance de leurs missions via une bonification indiciaire (NBI) de 10 points majorés en vertu des dispositions.
