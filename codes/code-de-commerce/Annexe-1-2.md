@@ -56,7 +56,7 @@ II. - Personnes morales
 
 1. Création :
 
-Immatriculation principale au registre du commerce et des sociétés.
+Immatriculation principale au registre du commerce et des sociétés comprenant les informations relatives au bénéficiaire effectif.
 
 Immatriculation au répertoire des métiers.
 
@@ -80,7 +80,7 @@ Changement de l'adresse de correspondance.
 
 Changement relatif à la forme juridique, au capital et à la durée de la personne morale.
 
-Changement des dirigeants, gérants ou associés.
+Changement des dirigeants, gérants, associés ou bénéficiaires effectifs .
 
 Changement, extension ou cessation partielle de l'activité de la personne morale.
 
