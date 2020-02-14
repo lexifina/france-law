@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — MECENAT - CONVENTION AVEC AG2R POUR UN SOUTIEN FINANCIER DE L'EXPOSITION « PHARAON, OSIRIS ET LA MOMIE, L'EGYPTE ANCIENNE A AIX-EN-PROVENCE » AU MUSEE GRANET DU 17 AVRIL AU 20 SEPTEMBRE 2020 - MODIFICATION DE LA CONVENTION INITIALE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-02-14
+- Séance : Conseil Municipal 1CA
+- Objet : MECENAT - CONVENTION AVEC AG2R POUR UN SOUTIEN FINANCIER DE L'EXPOSITION « PHARAON, OSIRIS ET LA MOMIE, L'EGYPTE ANCIENNE A AIX-EN-PROVENCE » AU MUSEE GRANET DU 17 AVRIL AU 20 SEPTEMBRE 2020 - MODIFICATION DE LA CONVENTION INITIALE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12024-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
