@@ -6,41 +6,31 @@ I. - La liste des équipements, matériaux et appareils mentionnés au 1 de l'ar
 
 2. Acquisition des équipements et matériaux suivants :
 
-a) Chaudières à très haute performance énergétique autres que celles utilisant le fioul comme source d'énergie, dans la limite d'un plafond de dépenses fixé à 3 350 €, toutes taxes comprises, par logement, et respectant les conditions suivantes :
-
-1° Lorsque la puissance est inférieure ou égale à 70 kW, une efficacité énergétique saisonnière pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 portant application de la directive 2009/125/ CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à 92 % ;
-
-2° Lorsque la puissance est supérieure à 70 kW, chaudières à condensation présentant une efficacité utile pour le chauffage, définie selon le règlement (UE) n° 813/2013 de la Commission du 2 août 2013 précité, supérieure ou égale à :
-
-- 87 %, mesurée à 100 % de la puissance thermique nominale ; et
-
-- 95,5 %, mesurée à 30 % de la puissance thermique nominale ;
+a) (Abrogé) ;
 
 a bis) (Abrogé) ;
 
 b) Matériaux d'isolation thermique :
 
-1° Pour les logements situés en métropole, matériaux d'isolation thermique des parois opaques, dont la résistance thermique " R " est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non-réfléchissants ou la norme NF EN 16012 pour les isolants réfléchissants, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur :
-
-Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance thermique supérieure ou égale à 3 mètres carrés Kelvin par watt (m2. K/W) ;
+1° Pour les logements situés en métropole, matériaux d'isolation thermique des parois opaques, dont la résistance thermique " R " est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non-réfléchissants ou la norme NF EN 16012 pour les isolants réfléchissants :
 
 Murs en façade ou en pignon, possédant une résistance thermique supérieure ou égale à 3,7 mètres carrés Kelvin par watt (m2. K/W) ;
 
 Toitures-terrasses possédant une résistance thermique supérieure ou égale à 4,5 m2. K/W ;
 
-Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m2. K/W ;
-
 Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 6 m2. K/W ;
 
-1° bis Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, matériaux d'isolation thermique des parois opaques, dont la résistance thermique " R " est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non-réfléchissants ou la norme NF EN 16012 pour les isolants réfléchissants, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur :
+Lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique mentionnés au présent 1° contre les transferts d'humidité pour garantir la performance de l'ouvrage, leur pose est accompagnée de l'installation d'un pare-vapeur ou de tout autre dispositif permettant d'atteindre un résultat équivalent.
 
-Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance thermique supérieure ou égale à 3 mètres carrés Kelvin par watt (m2. K/W) ;
+1° bis Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, matériaux d'isolation thermique des parois opaques, dont la résistance thermique " R " est évaluée selon la norme NF EN 12664, la norme NF EN 12667 ou la norme NF EN 12939 pour les isolants non-réfléchissants ou la norme NF EN 16012 pour les isolants réfléchissants :
 
 Murs en façade ou en pignon, possédant une résistance thermique supérieure ou égale à 0,5 mètre carré Kelvin par watt (m2. K/W) ;
 
-Toitures-terrasses, planchers de combles perdus, rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 1,5 mètre carré Kelvin par watt (m2. K/W).
+Toitures-terrasses, rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 1,5 mètre carré Kelvin par watt (m2. K/W).
 
-2° Matériaux d'isolation thermique des parois vitrées, dans la limite d'un plafond de dépenses par équipement fixé à 670 €, toutes taxes comprises, un équipement s'entend d'une menuiserie et des parois vitrées qui lui sont associées :
+Lorsqu'il est nécessaire de protéger les matériaux d'isolation thermique mentionnés au présent 1° bis contre les transferts d'humidité pour garantir la performance de l'ouvrage, leur pose est accompagnée de l'installation d'un pare-vapeur ou de tout autre dispositif permettant d'atteindre un résultat équivalent.
+
+2° Matériaux d'isolation thermique des parois vitrées :
 
 Fenêtres ou porte-fenêtres avec un coefficient de transmission thermique (Uw) inférieur ou égal à 1,3 watt par mètre carré Kelvin (W/ m2. K) et un facteur de transmission solaire (Sw) supérieur ou égal à 0,3 ou un coefficient de transmission thermique (Uw) inférieur ou égal à 1,7 watt par mètre carré Kelvin (W/ m2. K) et un facteur de transmission solaire (Sw) supérieur ou égal à 0,36. Les facteurs de transmission solaire Sw sont évalués selon la norme XP P 50-777 et les coefficients de transmission thermique des fenêtres ou porte-fenêtres Uw selon la norme NF EN 14 351-1 ;
 
@@ -50,69 +40,33 @@ Doubles fenêtres, consistant en la pose sur la baie existante d'une seconde fen
 
 3° (Abrogé) ;
 
-4° Calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire avec un isolant de classe supérieure ou égale à 3 selon la norme NF EN 12 828 ;
+4° (Abrogé) ;
 
 5° (Abrogé) ;
 
-c) Acquisition d'appareils de régulation de chauffage permettant le réglage manuel ou automatique et la programmation des équipements de chauffage ou de production d'eau chaude sanitaire :
-
-1° Appareils installés dans une maison individuelle : systèmes permettant la régulation centrale des installations de chauffage prenant en compte l'évolution de la température d'ambiance de la pièce ou de la température extérieure, avec horloge de programmation ou programmateur mono ou multizone, systèmes permettant les régulations individuelles terminales des émetteurs de chaleur, systèmes de limitation de la puissance électrique du chauffage électrique en fonction de la température extérieure ; systèmes gestionnaires d'énergie ou de délestage de puissance du chauffage électrique lorsqu'ils permettent un arrêt temporaire des appareils concernés dans le cas où la puissance appelée est amenée à dépasser la puissance souscrite ;
-
-2° Appareils installés dans un immeuble collectif : outre les systèmes énumérés au 1°, matériels nécessaires à l'équilibrage des installations de chauffage permettant une répartition correcte de la chaleur délivrée à chaque logement, matériels permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières, systèmes de télégestion de chaufferie assurant les fonctions de régulation et de programmation du chauffage, systèmes permettant la régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude sanitaire et d'eau destinée au chauffage ;
+c) (Abrogé) ;
 
 3. Acquisition :
 
-a) Equipements de production d'énergie utilisant une source d'énergie renouvelable :
+a) D'équipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant au bois ou autres biomasses, ou à l'énergie solaire thermique :
 
-1° Equipements de production de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs solaires, disposant d'une certification CSTBat ou Solar Keymark ou équivalente, dans la limite d'un plafond de dépenses par mètre carré hors tout de capteurs, fixé à :
+1° Equipements de production de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et dotés de capteurs solaires, installés avec appoint intégré, et dispositifs solaires installés sur appoint séparé, neuf ou existant, pour la production de chauffage ou d'eau chaude sanitaire. Les capteurs utilisés, qui disposent d'une certification CSTBat ou Solar Keymark ou équivalente, peuvent être thermiques à circulation de liquide ou d'air, ou hybrides thermiques et électriques à circulation de liquide. La surface hors tout de capteurs installés est supérieure ou égale à 1 m2.
 
-Type de capteur solaire |
+a. Pour les équipements de production de chauffage fonctionnant à l'énergie solaire et les dispositifs solaires installés sur appoint séparé, neuf ou existant, pour la production de chauffage : une efficacité énergétique saisonnière, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes, supérieure ou égale à :
 
-Plafonds de dépenses par mètre carré hors tout de capteurs |
+- 82 % dans le cas où l'efficacité énergétique saisonnière de l'appoint séparé est inférieure à 82 % ;
 
-Ménages remplissant la condition de revenus
+- 90 % dans le cas où l'efficacité énergétique saisonnière de l'appoint est inférieure à 90 % ;
 
-mentionnée au 4 bis de l'
+- 98 % dans le cas où l'efficacité énergétique saisonnière de l'appoint est supérieure ou égale à 90 % et inférieure à 98 % ;
 
-article 200 quater
+- supérieure d'au moins 5 points de pourcentage à l'efficacité énergétique saisonnière de l'appoint dans les autres cas.
 
-du code général des impôts |
+b. Pour les équipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire et les dispositifs solaires installés sur appoint séparé, neuf ou existant, pour la production d'eau chaude sanitaire : une efficacité énergétique pour le chauffage de l'eau, définie par le règlement (UE) n° 814/2013 de la commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude, supérieure ou égale à :
 
-Autres ménages |
+Energie de l'appoint |
 
-Thermique à circulation de liquide |
-
-1 300 € TTC |
-
-1 000 € TTC |
-
-Thermique à air |
-
-520 € TTC |
-
-400 € TTC |
-
-Hybride thermique et électrique à circulation de liquide, dans la limite de 10 m2
-
-|
-
-520 € TTC |
-
-400 € TTC |
-
-Hybride thermique et électrique à air, dans la limite de 20 m2
-
-|
-
-260 € TTC |
-
-200 € TTC |
-
-a. Pour les équipements de production de chauffage fonctionnant à l'énergie solaire : une efficacité énergétique saisonnière, définie selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité, supérieure ou égale à 90 % ;
-
-b. Pour les équipements de fourniture d'eau chaude sanitaire seule ou associés à la production de chauffage, fonctionnant à l'énergie solaire : une efficacité énergétique pour le chauffage de l'eau, définie respectivement par le règlement (UE) n° 814/2013 de la commission du 2 août 2013 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux chauffe-eau et aux ballons d'eau chaude et le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité, supérieure ou égale à :
-
-PROFIL DE SOUTIRAGE |
+Profil de soutirage |
 
 M |
 
@@ -122,91 +76,141 @@ XL |
 
 XXL |
 
-Efficacité énergétique |
+Electrique à effet Joule |
 
-65 % |
+36 % |
+
+37 % |
+
+38 % |
+
+40 % |
+
+Autre |
+
+95 % |
+
+100 % |
+
+110 % |
+
+120 % |
+
+L'efficacité énergétique saisonnière mentionnée au a et l'efficacité énergétique pour le chauffage de l'eau mentionnée au b sont appréciées dans les conditions climatiques moyennes au sens du règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité.
+
+Pour les dispositifs solaires mentionnés au a et au b, l'efficacité énergétique saisonnière ou l'efficacité énergétique pour le chauffage de l'eau sont calculées par l'installateur à l'aide d'un logiciel dont les références sont rendues publiques sur le site internet du ministère chargé de l'énergie. L'installateur utilise les données communiquées par le fabricant ou le distributeur, ou les données indiquées sur les composants séparés, pour calculer l'efficacité énergétique saisonnière ou l'efficacité énergétique pour le chauffage de l'eau. Il remet au contribuable la fiche de résultats éditée par le logiciel.
+
+Pour le calcul de l'efficacité énergétique saisonnière mentionnée au a comme pour le calcul de l'efficacité énergétique pour le chauffage de l'eau mentionnée au b, l'installateur renseigne dans le logiciel l'efficacité énergétique saisonnière de l'appoint lorsque l'appoint assure à la fois la fonction de chauffage des locaux et celle de chauffage de l'eau sanitaire. Il se réfère pour cela à la valeur indiquée sur la fiche produit pour les appoints soumis à la directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009 établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie, à la directive 2010/30/UE du Parlement européen et du Conseil du 19 mai 2010 concernant l'indication, par voie d'étiquetage et d'informations uniformes relatives aux produits, de la consommation en énergie et en autres ressources des produits liés à l'énergie dans sa version antérieure à son abrogation par le règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 établissant un cadre pour l'étiquetage énergétique et abrogeant la directive 2010/30/UE ou au règlement (UE) 2017/1369 du Parlement européen et du Conseil du 4 juillet 2017 établissant un cadre pour l'étiquetage énergétique et abrogeant la directive 2010/30/UE. Pour les appoints pour lesquels l'efficacité énergétique saisonnière n'est pas connue, l'installateur se réfère aux valeurs conventionnelles indiquées ci-dessous :
+
+Type d'appoint |
+
+Technologie |
+
+Date de fabrication |
+
+Efficacité énergétique saisonnière |
+
+Chaudière fonctionnant au gaz |
+
+Chaudière standard ou basse température |
+
+En 2004 ou avant |
+
+68 % |
+
+En 2005 ou après |
 
 75 % |
 
-80 % |
+Chaudière à condensation |
+
+En 2004 ou avant |
 
 85 % |
 
-c. Pour les équipements fonctionnant à l'énergie solaire, autres que ceux mentionnés aux a) et b) du présent 1° : une productivité, selon le type de capteurs, supérieure ou égale à :
+En 2005 ou après |
 
-TYPE DE CAPTEUR SOLAIRE |
+91 % |
 
-PRODUCTIVITÉ EN W/ M 2
+Chaudière fonctionnant au fioul |
 
-de surface d'entrée du capteur
+Chaudière standard ou basse température |
 
-calculé avec un rayonnement (G)
+En 1999 ou avant |
 
-de 1 000 W/ m 2 supérieure ou égale à :
+68 % |
 
-|
+En 2000 ou après |
 
-Thermique à circulation de liquide |
+75 % |
 
-600 W/ m 2
+Chaudière à condensation |
 
-|
+Toutes |
 
-Thermique à air |
+85 % |
 
-500 W/ m 2
+Pompes à chaleur |
 
-|
+Toutes |
 
-Hybride thermique et électrique à circulation de liquide |
+Toutes |
 
-500 W/ m 2
+91 % |
 
-|
+Emetteurs électriques à effet Joule |
 
-Hybride thermique et électrique à air |
+Toutes |
 
-250 W/ m 2
+Toutes |
 
-|
+37 % |
 
-Lorsque ces équipements sont associés à un ballon d'eau chaude dont la capacité de stockage est inférieure ou égale à 2000 litres, ce dernier doit respecter un coefficient de pertes statiques, dénommé " S " et exprimé en watts, défini selon le règlement (UE) n° 814/2013 de la commission du 2 août 2013 précité pour les chauffe-eau et les ballons d'eau chaude, inférieur à 16,66 + 8,33 x V 0,4, " V " étant la capacité de stockage du ballon exprimée en litres.
+Pour les chaudières fonctionnant au bois ou autres biomasses utilisées comme appoint, le critère requis s'applique à l'indice d'efficacité énergétique au sens du règlement délégué (UE) 2015/1187 de la Commission du 27 avril 2015 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chaudières à combustible solide et des produits combinés constitués d'une chaudière à combustible solide, de dispositifs de chauffage d'appoint, de régulateurs de température et de dispositifs solaires. Lorsque l'indice d'efficacité énergétique de cet appoint n'est pas connu, la valeur conventionnelle utilisée est de 98 %.
 
-2° (abrogé)
+Pour les équipements mentionnés au a, et installés sur planchers chauffants, l'efficacité énergétique saisonnière est calculée grâce à un logiciel en utilisant les valeurs conventionnelles suivantes pour le ballon de stockage : volume de 2 000 litres, classe d'efficacité énergétique A+. Les références du logiciel sont rendues publiques sur le site internet du ministère chargé de l'énergie.
 
-3° Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant à l'énergie hydraulique ;
+2° (Abrogé)
 
-4° Systèmes de fourniture d'électricité à partir de l'énergie hydraulique ou de biomasse ;
+3° (Abrogé)
 
-5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, qui respectent les quatre conditions suivantes :
+4° (Abrogé)
 
-a. La concentration moyenne de monoxyde de carbone rapportée à 13 % d'O2, dénommée " CO ", est inférieure ou égale à 0,3 % ;
+5° Equipements de chauffage ou de production d'eau chaude indépendants fonctionnant au bois ou autres biomasses, qui respectent les conditions suivantes :
 
-b. L'émission de particules rapportée à 13 % d'O2, dénommée " PM ", est inférieure ou égale à 90 mg/Nm³ ;
+a. Pour les appareils à granulés ou à plaquettes :
 
-c. Le rendement énergétique, dénommé " η ", est supérieur ou égal à 70 % ;
+- l'émission de monoxyde de carbone rapportée à 13 % d'O2 est inférieure ou égale à 300 mg/Nm³ ;
 
-d. L'indice de performance environnemental, dénommé " I' ", est inférieur ou égal à 1.
+- l'émission de particules rapportée à 13 % d'O2 est inférieure ou égale à 30 mg/Nm³ ;
 
-L'indice de performance environnemental est défini par le calcul suivant :
+- le rendement énergétique est supérieur ou égal à 87 %.
 
-a. Pour les appareils à bûches : I'= 101 532,2 × log (1,0 + E')/ η2 ;
+b. Pour les appareils à bûches ou autres biomasses :
 
-b. Pour les appareils à granulés : I'= 92 573,5 × log (1,0 + E')/ η2.
+- l'émission de monoxyde de carbone rapportée à 13 % d'O2 est inférieure ou égale à 1 500 mg/Nm³ ;
 
-Où " E' " est défini par le calcul suivant : E'= (CO + 0,002 x PM)/2 et " log " désigne le logarithme décimal.
+- l'émission de particules rapportée à 13 % d'O2 est inférieure ou égale à 40 mg/Nm³ ;
 
-La concentration moyenne de monoxyde de carbone et le rendement énergétique sont exprimés en %, et mesurés selon les référentiels des normes en vigueur :
+- le rendement énergétique est supérieur ou égal à 75 %.
 
-a. Pour les poêles : norme NF EN 13240 ou NF EN 14785 ou NF EN 15250 ;
+Pour l'application des a et b, l'émission de monoxyde de carbone et le rendement énergétique sont mesurés selon les référentiels des normes en vigueur :
 
-b. Pour les foyers fermés et les inserts de cheminées intérieures : norme NF EN 13229 ;
+- pour les poêles : norme NF EN 13240 ou NF EN 14785 ou NF EN 15250 ;
 
-c. Pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815.
+- pour les foyers fermés et les inserts de cheminées intérieures, pour l'acquisition et la pose desquels il est appliqué un montant de crédit d'impôt égal à 600 € toutes taxes comprises : norme NF EN 13229 ;
 
-L'émission de particules est exprimée en mg/ Nm3 et mesurée selon la méthode A1 annexe A de la norme CEN/ TS 15883 ou une norme équivalente.
+- pour les cuisinières utilisées comme mode de chauffage : norme NF EN 12815.
 
-6° Chaudières autres que celles mentionnées au a du 2, fonctionnant au bois ou autres biomasses, respectant les seuils de rendement énergétique et d'émissions de polluants de la classe 5 de la norme NF EN 303.5, dont la puissance est inférieure à 300 kW ;
+L'émission de particules est exprimée en mg/Nm3 et mesurée selon la méthode A1 annexe A de la norme CEN/TS 15883 ou une norme équivalente.
+
+- pour les appareils de masse artisanaux de conception unitaire, les valeurs d'émissions et de rendement sont exprimées selon le référentiel de la norme NF EN 15544. L'appareil (dont la chambre de combustion, l'accumulateur de chaleur et le conduit de fumée) est dimensionné sur le fondement d'une note de calcul détaillée, réalisée à l'aide d'un logiciel de dimensionnement dont les références sont rendues publiques sur le site internet du ministère chargé de l'énergie.
+
+6° Chaudières fonctionnant au bois ou autres biomasses, respectant les seuils de rendement énergétique et d'émissions de polluants de la classe 5 de la norme NF EN 303.5, dont la puissance est inférieure à 300 kW et qui sont équipées d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission du 3 juillet 2014 dans le cadre du règlement (UE) n° 813/2013 de la Commission portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d'écoconception applicables aux dispositifs de chauffage des locaux et aux dispositifs de chauffage mixtes et du règlement délégué (UE) n° 811/2013 de la Commission complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des dispositifs de chauffage des locaux, des dispositifs de chauffage mixtes, des produits combinés constitués d'un dispositif de chauffage des locaux, d'un régulateur de température et d'un dispositif solaire et des produits combinés constitués d'un dispositif de chauffage mixte, d'un régulateur de température et d'un dispositif solaire (2014/C 207/02) :
+
+a. Chaudière à alimentation automatique, associée à un silo d'un volume minimal de 225 litres, neuf ou existant ;
+
+b. Chaudière à alimentation manuelle, associée à un ballon tampon, neuf ou existant.
 
 b) De pompes à chaleur spécifiques, sous réserve qu'elles respectent une intensité maximale au démarrage de 45 A en monophasé ou de 60 A en triphasé lorsque leur puissance est inférieure à 25 kW, telles que :
 
@@ -218,7 +222,7 @@ b. Pompes à chaleur géothermiques sol/ eau, pour lesquelles l'efficacité éne
 
 c. Pompes à chaleur géothermiques sol/ sol pour lesquelles l'efficacité énergétique saisonnière pour le chauffage est calculée selon le règlement (UE) n° 813/2013 de la commission du 2 août 2013 précité pour une température d'évaporation fixe de-5° C et une température de condensation de 35° C.
 
-2° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire, dans la limite d'un plafond de dépenses fixé à 4 000 €, toutes taxes comprises, pour les ménages remplissant la condition de revenus mentionnée au 4 bis de l'article 200 quater du code général des impôts, et à 3 000 €, toutes taxes comprises, pour les autres ménages, pour lesquelles l'efficacité énergétique pour le chauffage de l'eau, définie selon le règlement délégué (UE) n° 812/2013 précité, est supérieure ou égale à :
+2° Les pompes à chaleur dédiées à la production d'eau chaude sanitaire pour lesquelles l'efficacité énergétique pour le chauffage de l'eau, définie selon le règlement délégué (UE) n° 812/2013 de la Commission du 18 février 2013 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des chauffe-eau, des ballons d'eau chaude et des produits combinés constitués d'un chauffe-eau et d'un dispositif solaire, est supérieure ou égale à :
 
 PROFIL DE SOUTIRAGE |
 
@@ -242,19 +246,29 @@ Efficacité énergétique |
 
 |
 
-c) Equipements de raccordement à un réseau de chaleur, alimenté majoritairement par des énergies renouvelables ou par une installation de cogénération, qui s'entendent des éléments suivants :
+c) D'équipements de raccordement à un réseau de chaleur ou de froid, alimenté majoritairement par des énergies renouvelables ou par une installation de cogénération, qui s'entendent des éléments suivants :
 
-Branchement privatif composé de tuyaux et de vannes qui permet de raccorder le réseau de chaleur au poste de livraison de l'immeuble ;
+Branchement privatif composé de tuyaux et de vannes qui permet de raccorder le réseau de chaleur ou de froid au poste de livraison de l'immeuble ;
 
-Poste de livraison ou sous-station qui constitue l'échangeur entre le réseau de chaleur et l'immeuble ;
+Poste de livraison ou sous-station qui constitue l'échangeur entre le réseau de chaleur ou de froid et l'immeuble ;
 
-Matériels nécessaires à l'équilibrage et à la mesure de la chaleur qui visent à opérer une répartition correcte de celle-ci. Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble collectif ou dans le logement ;
+Matériels nécessaires à l'équilibrage et à la mesure de la chaleur ou de froid qui visent à opérer une répartition correcte de celle-ci. Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble collectif ou dans le logement ;
 
-d) Chaudières à micro-cogénération gaz d'une puissance apparente de production électrique inférieure ou égale à 3 kilovolt-ampères par logement, dans la limite d'un plafond de dépenses fixé à 3 350 €, toutes taxes comprises ;
+d) (Abrogé) ;
 
-e) D'appareils installés dans un immeuble collectif permettant d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur : répartiteurs électroniques placés sur chaque radiateur ou compteurs d'énergie thermique placés à l'entrée du logement conformes à la réglementation résultant du décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instruments de mesure ;
+e) (Abrogé) ;
 
 f) De systèmes de charge pour véhicule électrique qui s'entendent des bornes de recharge pour véhicules électriques et dont les types de prise respectent la norme IEC 62196-2 ainsi que la directive 2014/94/UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs ;
+
+g) D'équipements de ventilation mécanique contrôlée double flux autoréglable en installation individuelle ou collective, ou modulé avec bouches d'extraction hygroréglables en installation individuelle seulement.
+
+Pour les installations individuelles (un seul logement desservi par le système de ventilation), le caisson de ventilation relève de la classe d'efficacité énergétique A ou supérieure selon le règlement délégué (UE) n° 1254/2014 de la Commission du 11 juillet 2014 complétant la directive 2010/30/UE du Parlement européen et du Conseil en ce qui concerne l'étiquetage énergétique des unités de ventilation résidentielles. L'échangeur présente une efficacité thermique, mesurée selon la norme NF EN 13141-7, supérieure à 85 % et certifiée par un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/CEI 17065 par le comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent dans le cadre de la coordination européenne des organismes d'accréditation. Est réputé satisfaire cette exigence d'efficacité thermique, un caisson de ventilation certifié NF 205 ou équivalent.
+
+Pour les installations collectives (plusieurs logements desservis) :
+
+- le caisson double flux est collectif ;
+
+- l'échangeur statique est collectif et a une efficacité supérieure ou égale à 75 % selon les normes NF EN 308 ou NF EN 51-763. Est réputé satisfaire cette exigence d'efficacité, un échangeur statique collectif certifié Eurovent Certified Performance Echangeurs à plaques air-air (AAHE) ou Echangeur régénératif (AARE) ou possédant des caractéristiques de performance et de qualité équivalentes établies par un organisme établi dans l'Espace économique européen et accrédité selon la norme NF EN ISO/CEI 17065 par le comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord européen multilatéral pertinent pris dans le cadre de la coordination européenne des organismes d'accréditation.
 
 3 bis. Dépose d'une cuve à fioul, d'un réservoir de fioul ou d'un stockage de fioul, au sens de l'arrêté du 1er juillet 2004 fixant les règles techniques et de sécurité applicables au stockage de produits pétroliers dans les lieux non visés par la législation des installations classées ni la réglementation des établissements recevant du public :
 
@@ -270,13 +284,7 @@ Les modalités d'abandon de la cuve, du réservoir ou du stockage de fioul respe
 
 4. Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, acquisition :
 
-a) D'équipements de raccordement à un réseau de froid, alimenté majoritairement par du froid d'origine renouvelable ou de récupération, qui s'entendent des éléments suivants :
-
-Branchement privatif composé de tuyaux et de vannes qui permet de raccorder le réseau de froid au poste de livraison de l'immeuble ;
-
-Poste de livraison ou sous-station, qui constitue l'échangeur entre le réseau de froid et l'immeuble ;
-
-Matériels nécessaires à l'équilibrage et à la mesure de la quantité de froid qui visent à opérer une répartition correcte de celle-ci. Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble collectif ou dans le logement ;
+a) (Abrogé) ;
 
 b) D'équipements ou de matériaux de protection des parois opaques ou vitrées contre les rayonnements solaires :
 
@@ -308,7 +316,7 @@ e. Films réfléchissants sur lames transparentes,
 
 définis respectivement aux deuxième à sixième alinéas de l'article 5 de l'arrêté du 25 mai 2011 précité ;
 
-c) D'équipements ou de matériaux visant à l'optimisation de la ventilation naturelle, notamment les brasseurs d'air fixes : ventilateurs de plafond.
+c) (Abrogé)
 
 II. - Les modalités de réalisation et le contenu de l'audit énergétique mentionné au l du 1 de l'article 200 quater du code général des impôts sont fixés comme suit :
 
@@ -383,3 +391,19 @@ d) L'audit énergétique comprend un diagnostic des qualités architecturales et
 e) L'audit énergétique comprend la modélisation de la maison au moyen d'un logiciel de simulation énergétique. Les données d'entrée du modèle sont ajustées aux conditions réellement observées. Les conditions d'occupation des logements modélisés dans la simulation sont notamment conformes aux conditions observées lors de la visite du site.
 
 Cette modélisation aboutit à des consommations énergétiques simulées approchant les consommations réelles. En outre, elle permet d'émettre des propositions pertinentes d'actions d'amélioration de la performance énergétique de la maison en simulant la réalisation de travaux portant sur les éléments constitutifs de l'enveloppe du bâtiment ainsi que sur les équipements de production d'eau chaude sanitaire, de ventilation et d'éclairage.
+
+III. - Les modalités de réalisation du bouquet de travaux mentionné au o du 1 de l'article 200 quater du code général des impôts sont fixées comme suit :
+
+1. Le bouquet de travaux combine au moins deux des quatre catégories de travaux ci-après : chauffage, production d'eau chaude sanitaire, ventilation et isolation de l'enveloppe de la maison.
+
+2. La conception, la réalisation et le suivi du projet de rénovation globale sont réalisés par une ou plusieurs entreprises certifiées "offre globale" conformément au deuxième tiret de l'article 1er et à l'annexe II de l'arrêté du 1er décembre 2015 relatif aux critères de qualifications requis pour le bénéfice du crédit d'impôt pour la transition énergétique et des avances remboursables sans intérêt destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens.
+
+3. Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de la maison, doivent être inférieures ou égales à la valeur initiale de ces émissions avant travaux.
+
+4. Pour justifier du respect des exigences relatives aux consommations conventionnelles annuelles en énergie primaire avant et après travaux mentionnées au o du 1 de l'article 200 quater précité :
+
+a) Un audit énergétique, tel que défini au II, est réalisé préalablement aux travaux par une personne répondant aux conditions prévues par le décret n° 2018-416 du 30 mai 2018 relatif aux conditions de qualification des auditeurs réalisant l'audit énergétique éligible au crédit d'impôt sur le revenu pour la transition énergétique prévues au dernier alinéa du 2 de l'article 200 quater du code général des impôts ;
+
+b) Une liste des travaux préconisés par l'audit énergétique, avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire et le maître d'œuvre, est établie ;
+
+c) Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
