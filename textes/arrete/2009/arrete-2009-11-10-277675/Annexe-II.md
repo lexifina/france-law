@@ -4,7 +4,7 @@ RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNEL
 
 CONCOURS D'ACCÈS AU CORPS DES ÉDUCATEURS DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE
 
-(Concours prévu au IV de l'article 3 du décret du 27 mars 1992 modifié susvisé dit de la troisième voie)
+(Concours prévu au 4° de l'article 4 du décret n° 2019-49 du 30 janvier 2019 dit de la troisième voie)
 
 Identification du candidat
 
