@@ -67,3 +67,9 @@ Saint-Denis de La Réunion - Fort-Dauphin (Madagascar).
 Jusqu'au 31 décembre 2023 :
 
 Saint-Denis de La Réunion - Rodrigues (Maurice).
+
+Jusqu'au 31 décembre 2024 :
+
+Saint-Denis de La Réunion-Nairobi (Kenya) ;
+
+Saint-Denis de La Réunion-New York (Etats-Unis), uniquement dans le cadre d'un partage de codes avec une compagnie kenyane au-delà de Nairobi.
