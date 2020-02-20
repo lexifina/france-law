@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190610743
+
+- Question : [SEQ190610743](seq190610743.md) — Numéro unique d'appel de la caisse d'assurance retraite et de la santé au travail
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-02-20, page 898*
+
+L'article 28 de la loi n° 2018-727 du 10 août 2018 pour un État au service d'une société de confiance prévoit que les administrations, à l'exception des collectivités territoriales et leurs établissements publics, ne pourront plus recourir à un numéro téléphonique surtaxé dans leurs relations avec le public à compter du 1er janvier 2021. L'entrée en vigueur de cette mesure a été repoussée lors de l'examen parlementaire. Une application immédiate aurait, en effet, suscité des difficultés juridiques et financières dans la mesure où elle se serait heurtée à l'exécution de contrats en cours. Les organismes de sécurité sociale sont concernés par cette nouvelle mesure. La gratuité s'appliquera ainsi notamment au numéro de contact de l'assurance retraite, le 39 60. Les assurés peuvent également réaliser leurs démarches en ligne, sur leur espace personnel, ou solliciter un rendez-vous en agence. L'accueil du public se fait également sans rendez-vous dans les maisons France services qui permettent de bénéficier d'un accompagnement personnalisé pour mener des démarches auprès de la caisse d'allocations familiales, des ministères chargés de l'Intérieur, de la Justice, du Travail et des Finances publiques, de la caisse nationale d'assurance vieillesse, de la Caisse nationale d'assurance maladie, de la Mutualité sociale agricole, de Pôle emploi et de La Poste. Au 1er janvier 2020, 460 maisons France services ont été labellisées. Ces guichets uniques complètent le réseau des Maisons d'accueil du service public, qui a progressivement vocation à être labellisé France services, gage d'une qualité de service ambitieuse et uniforme sur le territoire.
