@@ -1,0 +1,9 @@
+# Réponse à la question SEQ180706101
+
+- Question : [SEQ180706101](seq180706101.md) — Champ du contrôle de la commission nationale de l'informatique et des libertés
+
+## Réponse
+
+*Numérique, JO du 2020-02-20, page 896*
+
+Le règlement (UE) N°2016/679 du 27 avril 2016 établit le régime général de protection des données à caractère personnel en Europe. Son article 2 en précise le champ d'application matériel, en disposant que le règlement ne s'applique pas au traitement de données à caractère personnel effectué « par une personne physique dans le cadre d'une activité strictement personnelle ou domestique ». Le considérant n° 18 du règlement apporte des éclairages supplémentaires, en explicitant que cette règlementation n'a pas vocation à s'appliquer pour des « activités strictement personnelles ou domestiques, sans lien avec une activité professionnelle ou commerciale » et donne l'exemple de « listings de correspondances, de carnets d'adresses ». La loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles a mis le droit français en conformité avec les principes posés par le règlement européen. L'article 2 de la loi « informatique et libertés », telle que modifiée par la révision de 2018, prévoit ainsi expressément que la loi ne s'applique pas aux « traitements de données à caractère personnel mis en œuvre par des personnes physiques pour l'exercice d'activités strictement personnelles ou domestiques ». L'appréciation du caractère « strictement personnel ou domestique » d'une activité et sa frontière avec une activité « professionnelle » dépend de plusieurs facteurs. À titre d'exemple, le code général des impôts indique qu'une personne physique accomplissant « à titre habituel et dans un but lucratif des opérations à caractère industriel, commercial ou artisanal » peut relever de la catégorie professionnelle.
