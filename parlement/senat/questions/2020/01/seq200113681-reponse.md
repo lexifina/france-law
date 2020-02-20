@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113681
+
+- Question : [SEQ200113681](seq200113681.md) — Ratification de l'accord de sécurité sociale entre la Chine et la France
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-02-20, page 891*
+
+L'accord bilatéral de sécurité sociale entre la République française et la République populaire de Chine a été signé le 31 octobre 2016. Les négociations se sont ensuite poursuivies autour de l'arrangement administratif qui accompagne toujours ce type d'accord afin de préciser ses modalités d'application et régler la coordination entre les ministères techniques français et chinois compétents, respectivement le ministère des solidarités et de la santé et le ministère des ressources humaines et de la sécurité sociale. Cet arrangement administratif a été signé le 16 septembre 2019, suite à de longues négociations. L'arrangement administratif et l'accord prendront effet après achèvement de la procédure d'approbation parlementaire prévue par l'article 53 de la Constitution. Le projet de loi autorisant l'approbation de l'accord de sécurité sociale est actuellement en cours d'élaboration et sera présenté au Conseil d'Etat avant d'être déposé au Parlement. L'autorisation d'approbation devrait donc intervenir en cours d'année 2020. En cas d'approbation, l'accord et l'arrangement administratif seront consultables sur le site internet du Centre des liaisons européennes et internationales de sécurité sociale. Le ministère de l'Europe et des affaires étrangères, en lien avec le ministère des solidarités et de la santé, suit avec la plus grande attention le bon déroulement du processus d'approbation de cet accord, qui favorisera la mobilité des personnes et les échanges économiques entre nos deux pays et apportera une plus grande sécurité à nos compatriotes binationaux et à ceux travaillant en Chine.
