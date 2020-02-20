@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190610806
+
+- Question : [SEQ190610806](seq190610806.md) — Baisse de l'aide d'État au ramassage des sargasses en Martinique
+
+## Réponse
+
+*Outre-mer, JO du 2020-02-20, page 898*
+
+Les côtes de la Martinique, de la Guadeloupe, de Saint-Martin et de Saint-Barthélemy subissent des échouages de sargasses, macro algues brunes, tropicales et benthiques, de manière irrégulière depuis 2011. Depuis 2018, l'État s'est pleinement mobilisé dans la lutte contre ce phénomène. L'État a mis en place des financements significatifs pour la collecte des algues et l'achat de petits équipements. Pour l'année 2019, l'État soutient les efforts d'investissement des collectivités à travers la mobilisation de la dotation d'équipement des territoires ruraux (DETR) et des aides du ministère de la transition écologique et solidaire (25 %) et du ministère des outre-mer (25 %). S'agissant des coûts liés au ramassage notamment manuel, l'instruction ministérielle du 29 octobre 2018 fixe une répartition de 30 % pour l'État et 70 % pour les collectivités. Ces ramassages relevant de la compétence des communes, l'État n'a pas vocation à financer majoritairement ces dépenses. Le soutien financier de l'État en faveur de l'équipement des collectivités doit permettre de disposer de matériel mieux adapté et ainsi limiter le coût des opérations de ramassage. Lors de sa visite en Guadeloupe les 26 et 27 octobre 2019, le Premier ministre a annoncé l'élaboration en 2020 d'un deuxième plan national sargasses en cohérence avec le programme Interreg. Il a notamment vocation à prendre en compte les recommandations du rapport remis par le sénateur Théophile. Par ailleurs, un nouvel appel à projets de l'Agence nationale de la recherche (ANR) sera lancé en 2020 après celui qui a permis la sélection de douze projets présentés lors de la conférence internationale sur les sargasses en Guadeloupe du 23 au 26 octobre 2019.
