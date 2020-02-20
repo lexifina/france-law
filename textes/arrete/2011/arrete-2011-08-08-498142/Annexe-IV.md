@@ -1,0 +1,201 @@
+# Article Annexe IV
+
+TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉS CAPITALISABLES (UC) AVEC LE DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT, SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ DISCIPLINES D'EXPRESSION SUR GLACE ”
+
+|
+
+EPEF (*)
+
+visées à l'article 3 |
+
+EPMSP (*) |
+
+UC 1 |
+
+UC 2 |
+
+UC 3 |
+
+UC 4 |
+
+Titulaire du BEES 1er degré option patinage sur glace spécialité danse sur glace ou patinage artistique . |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+X |
+
+Titulaire du BPJEPS spécialité éducateur sportif mention patinage sur glace . |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+X |
+
+Titulaire du BPJEPS spécialité éducateur sportif mention sports de glace |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+Titulaire du BPJEPS spécialité éducateur sportif mention sports de glace option disciplines d'expression sur glace . |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+X |
+
+Titulaire de l'UC3 du DEJEPS (*) spécialité perfectionnement sportif mention patinage . |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+|
+
+Titulaire de l'UC4 du DEJEPS (*) spécialité perfectionnement sportif mention patinage . |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+X |
+
+Titulaire du brevet d'assistant fédéral dans l'une des quatre disciplines mentionnées à l'article 2, délivré par la Fédération française des sports de glace jusqu'au 1er septembre 2019 inclus. |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+Titulaire du brevet fédéral deuxième degré disciplines d'expression sur glace délivré par la Fédération française des sports de glace. |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+Titulaire du brevet fédéral troisième degré, délivré par la Fédération française des sports de glace jusqu'au 1er septembre 2019 inclus. |
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+Titulaire du brevet fédéral quatrième ou cinquième degré disciplines d'expression sur glace délivré par la Fédération française des sports de glace. |
+
+X |
+
+X |
+
+|
+
+|
+
+X |
+
+X |
+
+Être ou avoir été inscrit dans les cinq ans précédant l'entrée en formation, sur la liste des sportifs d'élite régionale de la Fédération française des sports de glace dans l'une des disciplines mentionnées à l'article 2, sur présentation d'une attestation délivrée par le directeur technique national de la Fédération française des sports de glace. |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Être ou avoir été inscrit sportif de haut niveau sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport dans l'une des disciplines mentionnées à l'article 2. |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) EPEF : exigences préalables à l'entrée en formation.
+
+(*) EPMSP : exigences préalables à la mise en situation professionnelle.
+
+(*) BEES : brevet d'Etat d'éducateur sportif.
+
+(*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
+
+(*) DEJEPS : diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport.
+
+NOTA :
+
+Conformément au II de l'article 14 de l'arrêté du 31 janvier 2020, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication dudit arrêté.

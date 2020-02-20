@@ -1,8 +1,8 @@
 # Article Annexe II
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ PATINAGE ”
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ DISCIPLINES D'EXPRESSION SUR GLACE ”
 
-L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau II en patinage et justifiant d'une expérience professionnelle dans le domaine du patinage.
+L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau 6 en patinage et justifiant d'une expérience professionnelle dans le domaine des disciplines d'expression sur glace.
 
 Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
 
@@ -42,4 +42,4 @@ Le candidat conduit une séance de formation ayant pour objet l'analyse techniqu
 
 NOTA :
 
-Conformément aux dispositons du II de l'article 9 de l'arrêté du 13 septembre 2018, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication dudit arrêté.
+Conformément au II de l'article 14 de l'arrêté du 31 janvier 2020, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication dudit arrêté.
