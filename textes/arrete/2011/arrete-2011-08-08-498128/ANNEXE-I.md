@@ -1,8 +1,8 @@
-# Article ANNEXE
+# Article ANNEXE I
 
-SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ DESCENTE SUR GLACE ”
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UC3 ET UC4 DU DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ DISCIPLINES DE DESCENTE SUR GLACE ”
 
-L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau II en patinage et justifiant d'une expérience professionnelle dans le domaine de la descente sur glace.
+L'épreuve certificative est évaluée dans les conditions prévues à l'article A. 212-26 du code du sport par au moins deux évaluateurs titulaires d'une qualification a minima de niveau 6 en patinage et justifiant d'une expérience professionnelle dans le domaine des disciplines de descente sur glace.
 
 Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
 
@@ -39,7 +39,3 @@ Le candidat conduit une séance de formation ayant pour objet l'analyse techniqu
 -le candidat conduit une séance de formation pour un public de pratiquants pendant 20 minutes au maximum.
 
 (*) La vidéo est fournie par le centre de formation dans les conditions définies par le directeur régional et départemental de la jeunesse, des sports et de la cohésion sociale (DRDJSCS), par le directeur régional de la jeunesse, des sports et de la cohésion sociale (DRJSCS) ou par le directeur de la jeunesse, des sports et de la cohésion sociale (DJSCS).
-
-NOTA :
-
-Conformément à l'article 6 de l’arrêté du 13 septembre 2018, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication dudit arrêté.
