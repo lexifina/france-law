@@ -30,19 +30,17 @@ Dans l'eau (1b)
 
 |
 
-Dans
-
-le sol
-
-(kg/ an)
-
-|
-
 (kg/ an)
 
 |
 
 (g/ jour)
+
+|
+
+Dans le sol
+
+(kg/ an)
 
 |
 
@@ -330,7 +328,7 @@ Oxydes de soufre (SOx/ SO2)
 
 |
 
-Azote total
+Azote global
 
 |
 
@@ -1842,7 +1840,7 @@ Diphényléthers bromés (PBDE) (13)
 
 |
 
-Nonyphénols et éthoxylates de nonylphénol (NP/ NPE)
+Nonylphénols et éthoxylates de nonylphénol (NP/ NPE)
 
 |
 
@@ -2066,7 +2064,7 @@ Phénols (en tant que C total) (14)
 
 1204
 
-115
+1115
 
 1116
 
@@ -4562,7 +4560,7 @@ Chloroprène
 
 |
 
-3-chloroprène (chlorure d'allyle)
+3-chloropropène (chlorure d'allyle)
 
 |
 
@@ -4667,32 +4665,6 @@ Chloroprène
 |
 
 Hexachloroéthane
-
-|
-
--
-
-|
-
--
-
-|
-
-300
-
-|
-
--
-
-|
-
-|
-
-1284
-
-|
-
-1,1,1-trichloroéthane
 
 |
 
@@ -5162,7 +5134,7 @@ BDE 209
 
 (6) Masse totale des perfluorocarbones : somme de CF4, C2F6, C3F8, C4F10, c-C4F8, C5F12, C6F14.
 
-(7) Masse totale des substances énumérées, y compris leur isomères, dans le groupe VIII de l'annexe I du règlement (CE) n° 2037/2000 du Parlement européen et du Conseil du 29 juin 2000 relatif à des substances qui appauvrissent la couche d'ozone (JOUE n° L 244 du 29 septembre 2000, p. 1). Règlement modifié par le règlement (CE) n° 1804/2003 (JOUE n° L 265 du 16 octobre 2003, p. 1).
+(7) Masse totale des substances énumérées, y compris leurs isomères, dans le groupe VIII de l'annexe I du règlement (CE) n° 2037/2000 du Parlement européen et du Conseil du 29 juin 2000 relatif à des substances qui appauvrissent la couche d'ozone (JOUE n° L 244 du 29 septembre 2000, p. 1). Règlement modifié par le règlement (CE) n° 1804/2003 (JOUE n° L 265 du 16 octobre 2003, p. 1).
 
 (8) Masse totale des substances énumérées, y compris leurs isomères, dans les groupes I et II de l'annexe I du règlement (CE) n° 2037/2000.
 

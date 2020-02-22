@@ -42,7 +42,7 @@ Code postal
 
 Ville
 
-Coordonnées géographiques de l'établissement (Lambert II étendu ou WGS84)
+Coordonnées géographiques de l'établissement (WGS84)
 
 Activité principale de l'établissement
 
@@ -50,7 +50,7 @@ Code APE
 
 Numéro SIRET
 
-Production annuelle ou nombre d'animaux (pour les élevages) (facultatif)
+Volume de production (facultatif pour les établissements visés à l'annexe I a du présent arrêté, facultatif jusqu'au 31 décembre 2021 pour les établissements visés à l'annexe I b du présent arrêté)
 
 Nombre d'installations (facultatif)
 
@@ -102,7 +102,7 @@ MÉTHODE
 
 d'évaluation
 
-(M/ C/ E/ ILQ) (19)
+(M/ C/ E) (19)
 
 |
 
@@ -164,7 +164,7 @@ MÉTHODE
 
 d'évaluation
 
-(M/ C/ E/ ILQ) (19)
+(M/ C/ E) (19)
 
 |
 
@@ -304,7 +304,7 @@ MÉTHODE
 
 d'évaluation
 
-(M/ C/ E/ ILQ) (19)
+(M/ C/ E) (19)
 
 |
 
@@ -586,7 +586,7 @@ Déchet 2 |
 
 |
 
-(19) Préciser M, C, E, ILQ ou pesage (uniquement pour les déchets) selon que:
+(19) Préciser M, C, E ou pesage (uniquement pour les déchets) selon que:
 
 - les données relatives aux rejets sont fondées principalement sur des mesures: M. Des calculs supplémentaires sont nécessaires pour convertir les résultats des mesures en données annuelles de rejets. Les résultats des déterminations de flux sont requis pour ces calculs. "M" doit également être utilisé lorsque les rejets annuels sont déterminés sur la base des résultats de mesures à court terme et ponctuelles ou lorsque les rejets d'un établissement sont déduits à partir de résultats de surveillance directs pour des processus spécifiques au niveau de l'établissement, sur la base de mesures effectives continues ou discontinues des concentrations de polluants pour un parcours de rejet donné ;
 
@@ -676,7 +676,7 @@ AUT (*) |
 
 (26) Code de la station d'épuration externe: indiquer le code "Sandre" de la station d'épuration (collectivité territoriale ou établissement public d'une collectivité territoriale ou personne morale privée).
 
-(27) Déchet : préciser le code et la dénomination du déchet conformément à l'annexe II du décret no 2002-540 du 18 avril 2002.
+(27) Déchet : préciser le code et la dénomination du déchet conformément à l'annexe II du décret n° 2002-540 du 18 avril 2002.
 
 8. Réception ou traitement des déchets
 
@@ -1110,7 +1110,7 @@ https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGui
 
 2. Accidents du travail (TSS2) :
 
-□ Aucun accident survenu dans l'année écoulée ou accident(s) ayant conduit à des arrêts de travail d'au plus 3 jours (3) |
+□ Accident ayant entraîné un arrêt de travail supérieur à 3 jours ouvrables (3) |
 
 Si accident ayant entraîné un arrêt de travail supérieur à 3 jours ouvrables, renseigner le tableau suivant : |
 
@@ -1130,7 +1130,7 @@ Arrêt de travail consolidé (Oui/Non) : |
 
 |
 
-(3) Si aucun accident n'est survenu au cours de l'année de déclaration, cocher la case et les lignes suivantes du tableau ne seront pas à remplir.
+(3) Si aucun accident n'est survenu au cours de l'année de déclaration, laisser la case décochée et les lignes suivantes du tableau ne seront pas à remplir.
 
 Sélectionner la cause principale de l'accident parmi les choix de la liste déroulante renseignés dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
 
@@ -1142,7 +1142,7 @@ https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGui
 
 3. Mesures d'empoussiérage (TSS3) :
 
-□ L'évaluation des risques n'a pas été réalisée |
+□ L'évaluation des risques a été réalisée |
 
 Nombre de GEH (groupe d'exposition homogène) |
 
@@ -1150,7 +1150,7 @@ Nombre de GEH (groupe d'exposition homogène) |
 
 Poussières alvéolaires de quartz, cristobalite, tridimite :
 
-□ L'évaluation des risques n'a révélé qu'un risque faible (R. 4412-13 du code du travail) |
+□ L'évaluation des risques a révélé un risque non faible (article R. 4412-13 du code du travail) |
 
 Organisme accrédité intervenant : (à sélectionner parmi la liste déroulante) |
 
@@ -1166,7 +1166,7 @@ Nombre de GEH < à 10 % VLEP (valeur limite d'exposition professionnelle) : |
 
 Poussières alvéolaires totales :
 
-□ L'évaluation des risques n'a révélé qu'un risque faible (art. 2 décret n° 2013-797) |
+□ L'évaluation des risques a révélé un risque non faible (article 2 du décret n° 2013-797) |
 
 Organisme accrédité ou agréé intervenant : (à sélectionner parmi la liste déroulante) |
 
@@ -1226,7 +1226,7 @@ https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGui
 
 2. Informations relatives à la premières transformation (TP2) :
 
-□ Aucune activité de transformation n'est réalisée dans une usine ou un atelier appartenant à la société, au groupe ou au groupement d'entreprises possédant la carrière objet de l'enquête (7) |
+□ Une activité de transformation est réalisée dans une usine ou un atelier appartenant à la société, au groupe ou au groupement d'entreprises possédant la carrière objet de l'enquête (7) |
 
 Raison sociale
 
@@ -1258,11 +1258,11 @@ ou atelier |
 
 |
 
-(7) Si aucune activité de transformation n'est réalisée dans une usine ou un atelier appartenant à la société, au groupe ou au groupement d'entreprises possédant la carrière objet de l'enquête, cocher la case et ne pas remplir les lignes suivantes de ce tableau. Dans le cas contraire, renseigner les différents champs pour chaque usine/atelier concerné. |
+(7) Si aucune activité de transformation n'est réalisée dans une usine ou un atelier appartenant à la société, au groupe ou au groupement d'entreprises possédant la carrière objet de l'enquête, laisser la case décochée et ne pas remplir les lignes suivantes de ce tableau. Dans le cas contraire, renseigner les différents champs pour chaque usine/atelier concerné. |
 
 3. Activité de recyclage (ressources secondaires) (TP3) :
 
-□ Aucune activité de recyclage des déchets du BTP ou de déchets inertes (8)
+□ Activité de recyclage des déchets du BTP ou de déchets inertes (8)
 
 Quantité annelle entrante sur le site d'un matériau ou de mélange de matériaux à recycler (en ktonnes) :
 
@@ -1286,7 +1286,7 @@ Quantité annuelle de production (en ktonnes) |
 
 |
 
-(8) Si aucune activité de recyclage des déchets du BTP ou de déchets inertes n'est réalisée sur la carrière objet de l'enquête, cocher la case et ne pas remplir les lignes suivantes de ce tableau. Dans le cas contraire, renseigner les différents champs pour chaque produit selon les listes de produits et de débouchés proposées et rappelées dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
+(8) Si aucune activité de recyclage des déchets du BTP ou de déchets inertes n'est réalisée sur la carrière objet de l'enquête, laisser la case décochée et ne pas remplir les lignes suivantes de ce tableau. Dans le cas contraire, renseigner les différents champs pour chaque produit selon les listes de produits et de débouchés proposées et rappelées dans le guide d'aide à la déclaration de l'enquête annuelle carrières disponible sur :
 
 https://www.declarationpollution.developpement-durable.gouv.fr/gerep/afficherGuideAidePopup.do?methode=lecture
 
