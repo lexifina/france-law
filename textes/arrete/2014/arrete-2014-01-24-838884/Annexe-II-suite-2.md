@@ -1600,15 +1600,15 @@ ENERGIVRY
 
 |
 
-3 512
+0
 
 |
 
-2 778
+0
 
 |
 
-44 267
+37 977
 
 |
 
@@ -3488,11 +3488,11 @@ FR000000000000827
 
 |
 
-RHODIA OPERATIONS CHALAMPE
+Alsachimie SAS
 
 |
 
-RHODIA OPERATIONS CHALAMPE
+Alsachimie établissement de Chalampé
 
 |
 
@@ -6064,15 +6064,15 @@ Blédina - site de Steenvoorde
 
 |
 
-13 324
+-
 
 |
 
-13 049
+-
 
 |
 
-104 998
+78 625
 
 |
 
@@ -9424,7 +9424,7 @@ GRTgaz station de compression de Pitgam
 
 |
 
-18 682
+9 341
 
 |
 
@@ -9432,7 +9432,7 @@ GRTgaz station de compression de Pitgam
 
 |
 
-208 719
+199 378
 
 |
 
@@ -9488,7 +9488,7 @@ FR000000000001005
 
 |
 
-ASCOVAL
+ASCOVAL SAINT SAULVE
 
 |
 
@@ -9524,11 +9524,11 @@ Acièrie de Saint Saulve
 
 |
 
-37 519
+26 053
 
 |
 
-399 215
+387 749
 
 |
 
@@ -11204,11 +11204,11 @@ STORENGY Stockage souterrain de Céré la Ronde
 
 |
 
-1 686
+3 269
 
 |
 
-15 801
+17 384
 
 |
 

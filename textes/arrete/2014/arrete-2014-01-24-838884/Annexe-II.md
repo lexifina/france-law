@@ -152,11 +152,11 @@ FR000000000000004
 
 |
 
-Greenfield SAS
+WEPA GREENFIELD
 
 |
 
-GREENFIELD SAS
+WEPA GREENFIELD
 
 |
 
@@ -4540,27 +4540,27 @@ Chaufferie CHRU Côte de Nacre
 
 |
 
-741
+5 948
 
 |
 
-638
+5 124
 
 |
 
-539
+4 326
 
 |
 
-443
+3 555
 
 |
 
-350
+-
 
 |
 
-12 908
+42 002
 
 |
 
@@ -5312,23 +5312,23 @@ SODIEN chaufferie urbaine de Chenove
 
 |
 
-8 064
+4 032
 
 |
 
-6 815
+3 408
 
 |
 
-5 606
+2 803
 
 |
 
-4 440
+2 220
 
 |
 
-76 853
+64 391
 
 |
 
@@ -5700,19 +5700,19 @@ Chaufferie Urbaine SODIEN
 
 |
 
-6 333
+3 167
 
 |
 
-5 209
+2 605
 
 |
 
-4 126
+2 063
 
 |
 
-65 529
+57 696
 
 |
 
@@ -6824,11 +6824,11 @@ FR000000000000193
 
 |
 
-COFELY Services
+COFELY GDF SUEZ
 
 |
 
-Centrale thermique de Villejean
+Rennes Villejean
 
 |
 
@@ -6856,7 +6856,7 @@ Centrale thermique de Villejean
 
 |
 
-1 076
+2 152
 
 |
 
@@ -6864,7 +6864,7 @@ Centrale thermique de Villejean
 
 |
 
-28 321
+29 397
 
 |
 
@@ -7436,11 +7436,11 @@ Cristal union Sucrerie de Bourdon
 
 |
 
-13 574
+-
 
 |
 
-116 464
+102 890
 
 |
 
@@ -8792,11 +8792,11 @@ FR000000000000245
 
 |
 
-COGENERATION SEDAN
+SEDAN ENERGIE
 
 |
 
-DALKIA CHAUFFERIE ZUP DE LA PRAIRIE
+SEDAN ENERGIE CHAUFFERIE ZUP DE LA PRAIRIE
 
 |
 
@@ -9164,11 +9164,11 @@ DRESSER RAND SA
 
 |
 
-751
+-
 
 |
 
-11 960
+11 209
 
 |
 
@@ -10906,11 +10906,11 @@ FR000000000000298
 
 |
 
-VERRERIES BROSSE SAS
+ZIGNAGO VETRO BROSSE SAS
 
 |
 
-VERRERIES BROSSE SAS
+ZIGNAGO VETRO BROSSE SAS
 
 |
 
@@ -10986,15 +10986,15 @@ OMNOVA SOLUTIONS SAS
 
 |
 
-1 259
+2 519
 
 |
 
-1 233
+-
 
 |
 
-17 386
+17 413
 
 |
 

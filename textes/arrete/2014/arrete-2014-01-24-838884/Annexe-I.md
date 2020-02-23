@@ -80,11 +80,11 @@ FR000000000000587
 
 |
 
-UNIPER France POWER
+GAZEL ENERGIE GENERATION
 
 |
 
-UNIPER-Centrale de PROVENCE
+GAZEL ENERGIE GENERATION - Centrale de Provence
 
 |
 
@@ -352,6 +352,14 @@ TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE BAYET
 
 |
 
+FR-new-05800850 |
+
+EDF Pacy sur Eure |
+
+EDF Datacenter Pacy sur Eure
+
+|
+
 FR-new-05803742 |
 
 EDF
@@ -471,6 +479,30 @@ INTERXION France
 |
 
 INTERXION France PAR7 data center de La Courneuve |
+
+FR-new-06515808 |
+
+BNP PARIBAS |
+
+BNP PARIBAS Bailly-Romainvilliers
+
+|
+
+FR-new-06519463 |
+
+Viridi Data Paris 2 SAS |
+
+VIRIDI DATA CENTER PARIS 2 SAS à Ferrières-en-Brie
+
+|
+
+FR-new-06521797 |
+
+Bouygues Immobilier |
+
+Bouygues Immobilier Data center
+
+|
 
 FR-new-06900563
 
@@ -608,6 +640,14 @@ SOCIÉTÉ GÉNÉRALE
 
 SOCIÉTÉ GÉNÉRALE data center de Puteaux |
 
+FR-new-07407135 |
+
+Société Générale |
+
+Tour Basalte
+
+|
+
 FR-new-07407362
 
 |
@@ -648,17 +688,17 @@ Fr-new-10009485
 
 |
 
-UNIBIENS (CREDIT AGRICOLE) |
+CREDIT AGRICOLE IMMOBILIER SERVICES |
 
-UNIBIENS Site de Fontaine |
+CREDIT AGRICOLE IMMOBILIER SERVICES Site de Fontaine |
 
 Fr-new-10009486
 
 |
 
-UNIBIENS (CREDIT AGRICOLE) |
+CREDIT AGRICOLE IMMOBILIER SERVICES |
 
-UNIBIENS Site de Mainvilliers
+CREDIT AGRICOLE IMMOBILIER SERVICES Site de Mainvilliers
 
 |
 

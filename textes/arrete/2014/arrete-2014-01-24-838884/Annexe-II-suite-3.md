@@ -54,7 +54,9 @@ sur la période
 
 FR-new-03300377 |
 
-MACON ENERGIES SERVICES |
+MACON ENERGIES SERVICES
+
+|
 
 Centrale d'énergie des Bruyères |
 
@@ -78,7 +80,9 @@ Centrale d'énergie des Bruyères |
 
 FR-new-03301532 |
 
-ENGIE ENERGIE SERVICES |
+ENGIE ENERGIE SERVICES
+
+|
 
 COGENERATION DE BESANÇON |
 
@@ -104,11 +108,11 @@ FR-new-05100850
 
 |
 
-SINIAT
+ETEX France BUILDING PERFORMANCE
 
 |
 
-SINIAT-Auneuil
+ETEX France - Auneuil
 
 |
 
@@ -342,7 +346,9 @@ EJ PICARDIE
 
 FR-new-05104757 |
 
-FR-new-05104757 |
+FR-new-05104757
+
+|
 
 CHU AMIENS POLE ENERGIE |
 
@@ -366,7 +372,9 @@ CHU AMIENS POLE ENERGIE |
 
 FR-new-05102362 |
 
-AJINOMOTO FOODS EUROPE |
+AJINOMOTO FOODS EUROPE
+
+|
 
 AJINOMOTO FOODS EUROPE NESLE |
 
@@ -438,7 +446,9 @@ SCICA ROYE DESHYDRADATION
 
 FR-new-05104757 |
 
-CHU AMIENS PICARDIE |
+CHU AMIENS PICARDIE
+
+|
 
 CHU AMIENS POLE ENERGIE |
 
@@ -462,7 +472,9 @@ CHU AMIENS POLE ENERGIE |
 
 FR-new-05108014 |
 
-SGD SA |
+SGD SA
+
+|
 
 SGD SA |
 
@@ -486,7 +498,9 @@ SGD SA |
 
 FR-new-05200010 |
 
-POLYREY SAS |
+POLYREY SAS
+
+|
 
 POLYREY SAS |
 
@@ -752,11 +766,11 @@ FR-new-05201222
 
 |
 
-SINIAT
+ETEX France BUILDING PERFORMANCE
 
 |
 
-SINIAT- Usine de Saint-Loubès
+ETEX France- Usine de Saint-Loubès
 
 |
 
@@ -1360,15 +1374,15 @@ LUR BERRI SILO DE CAME
 
 |
 
-798
+399
 
 |
 
-631
+316
 
 |
 
-10 061
+9 347
 
 |
 
@@ -1840,15 +1854,15 @@ Centrale mobile d'enrobage MI708
 
 |
 
-443
+885
 
 |
 
-351
+700
 
 |
 
-8 547
+9 338
 
 |
 
@@ -2378,7 +2392,9 @@ Coopérative agricole Terre d'alliances
 
 FR-new-05403160 |
 
-Dijon Energies |
+Dijon Energies
+
+|
 
 DIJON ENERGIES-Chaufferie des Pejoces |
 
@@ -2594,7 +2610,9 @@ SOCIETE LAITIERE DE VITRE
 
 FR-new-05501580 |
 
-Celluloses De la Loire |
+Celluloses De la Loire
+
+|
 
 Celluloses De la Loire |
 
@@ -2666,7 +2684,9 @@ COOPERL Arc Atlantique, site de Montreuil
 
 FR-new-05501784 |
 
-Nutrea Nutrition Animale N.N.A. |
+Nutrea Nutrition Animale N.N.A.
+
+|
 
 N.N.A. |
 
@@ -2738,7 +2758,9 @@ CECAB
 
 FR-new-05518409 |
 
-NUTRIBABIG |
+NUTRIBABIG
+
+|
 
 NUTRIBABIG-usine de Carhaix |
 
@@ -2844,15 +2866,15 @@ Céramiques Haute Loire Site de Couteuges
 
 |
 
-10 406
+8 545
 
 |
 
-10 191
+8 368
 
 |
 
-87 441
+83 757
 
 |
 
@@ -3242,7 +3264,9 @@ Centrale mobile d'enrobage MI707
 
 FR-new-05603274 |
 
-SIORAT NGE |
+SIORAT NGE
+
+|
 
 SIORAT GTX NGE CENTRALE D ENROBAGE TEMPORAIRE ASTEC 11-110 |
 
@@ -4934,11 +4958,11 @@ ARMSTRONG BUILDING PRODUCTS SAS
 
 |
 
-24 727
+21 065
 
 |
 
-253 667
+250 005
 
 |
 
@@ -6858,7 +6882,9 @@ CERDIA France SAS ROUSSILLON
 
 FR-new-06110073 |
 
-MP Hygiène |
+MP Hygiène
+
+|
 
 MP Hygiène |
 
@@ -7756,9 +7782,9 @@ Hauconcourt enrobés |
 
 728 |
 
-576 |
+- |
 
-9 155 |
+8 579 |
 
 FR-new-06208919
 
@@ -8050,7 +8076,9 @@ SOCIETE INDUSTRIELLE DE SAINT-FLORENT-LE-VIEIL
 
 FR-new-06301486 |
 
-CODEMA |
+CODEMA
+
+|
 
 CODEMA |
 
@@ -8122,7 +8150,9 @@ KERVALIS
 
 FR-new-06306623 |
 
-COLAS PROJECTS |
+COLAS PROJECTS
+
+|
 
 COLAS PROJECT TSM 25 n° 4 |
 
@@ -8146,7 +8176,9 @@ COLAS PROJECT TSM 25 n° 4 |
 
 FR-new-06308843 |
 
-ERENA |
+ERENA
+
+|
 
 Centrale Californie |
 
@@ -8220,11 +8252,11 @@ FR-new-06400533
 
 |
 
-SINIAT
+ETEX France BUILDING PERFORMANCE
 
 |
 
-SINIAT - Usine de Carpentras
+ETEX France - Usine de Carpentras
 
 |
 
@@ -8266,7 +8298,9 @@ SINIAT - Usine de Carpentras
 
 FR-new-06400556 |
 
-Société Aéroport MARSEILLE PROVENCE |
+Société Aéroport MARSEILLE PROVENCE
+
+|
 
 Aéroport Marseille Provence |
 
@@ -8580,11 +8614,11 @@ FR-new-06401643
 
 |
 
-SINIAT
+ETEX France BUILDING PERFORMANCE
 
 |
 
-SINIAT - Usine de Mazans
+ETEX France - Usine de Mazans
 
 |
 
@@ -8596,31 +8630,31 @@ SINIAT - Usine de Mazans
 
 |
 
-8 819
+6 363
 
 |
 
-8 656
+6 246
 
 |
 
-8 492
+6 127
 
 |
 
-8 327
+6 008
 
 |
 
-8 159
+5 886
 
 |
 
-7 991
+5 765
 
 |
 
-66 651
+52 602
 
 |
 
@@ -8818,7 +8852,9 @@ INEOS CHEMICALS LAVERA
 
 FR-new-06412416 |
 
-ENGIE Energie Services (ENGIE Cofely) |
+ENGIE Energie Services (ENGIE Cofely)
+
+|
 
 Unité de cogénération du site altéo gardanne |
 
@@ -9084,11 +9120,11 @@ FR-new-06502229
 
 |
 
-SINIAT
+ETEX France BUILDING PERFORMANCE
 
 |
 
-SINIAT
+Etex France Building Performance
 
 |
 
@@ -9466,7 +9502,9 @@ Chaufferie du CENTRE HOSPITALIER VICTOR DUPOUY
 
 FR-new-06513220 |
 
-CENERGY |
+CENERGY
+
+|
 
 Chaufferie des Linandes |
 
@@ -9490,7 +9528,9 @@ Chaufferie des Linandes |
 
 FR-new-06515526 |
 
-GRT gaz |
+GRT gaz
+
+|
 
 Station de compression de gaz de Beynes |
 
@@ -9754,7 +9794,9 @@ Usine Axens
 
 FR-new-06604131 |
 
-Centre Hospitalier Universitaire de Nîmes |
+Centre Hospitalier Universitaire de Nîmes
+
+|
 
 Centre Hospitalier Universitaire de Nîmes |
 
@@ -9924,7 +9966,7 @@ FR-new-06700464
 
 |
 
-Lafarge Plâtres
+ETEX France BUILDING PERFORMANCE
 
 |
 
@@ -10780,7 +10822,9 @@ CAH Marckolsheim
 
 FR-new-06704343 |
 
-GUSTAVE MULLER SA |
+GUSTAVE MULLER SA
+
+|
 
 GUSTAVE MULLER SA |
 
@@ -11004,7 +11048,9 @@ EURALIS CEREALES BARCELONNE-DU-GERS
 
 FR-new-06803269 |
 
-Airbus Defence & Space (Astrium) |
+Airbus Defence & Space (Astrium)
+
+|
 
 Airbus Defence & Space (Astrium) |
 
@@ -11220,7 +11266,9 @@ DILLINGER France
 
 FR-new-07000442 |
 
-Saint Gobain Glass France |
+Saint Gobain Glass France
+
+|
 
 Saint Gobain Glass France |
 
@@ -11532,7 +11580,9 @@ Befesa Valera
 
 FR-new-07000637 |
 
-MG-VALDUNES |
+MG-VALDUNES
+
+|
 
 MG-VALDUNES Leffinckoucke |
 
@@ -12612,7 +12662,9 @@ GLAXOSMITHKLINE BIOLOGICALS SAS
 
 FR-new-07002377 |
 
-TKES UGO |
+TKES UGO
+
+|
 
 TKES UGO Isbergues |
 
@@ -12830,7 +12882,9 @@ FR-new-07202098 |
 
 CARTONNERIES DE LA BOEME |
 
-CARTONNERIES DE LA BOEME |
+CARTONNERIES DE LA BOEME
+
+|
 
 911 |
 
@@ -13046,11 +13100,11 @@ FR-new-07402252
 
 |
 
-DALKIA
+ENGIE Energie Service (Engie Réseaux)
 
 |
 
-Centrale "SOCOMIN" du MIN de Rungis
+Centrale du MIN de Rungis
 
 |
 
@@ -13188,7 +13242,9 @@ Chaufferie d'appoint secours
 
 FR-new-09000024 |
 
-EIFFAGE génie civil-GTE |
+EIFFAGE génie civil-GTE
+
+|
 
 Centrale mobile d'enrobage MI 704 |
 
@@ -13500,7 +13556,9 @@ COLAS Centre-Ouest-centrale d'enrobage mobile RMS300
 
 FR-new-10010879 |
 
-EUROVIA GRANDS TRAVAUX |
+EUROVIA GRANDS TRAVAUX
+
+|
 
 Centrale d'enrobage mobile RF 500 |
 
@@ -13572,7 +13630,9 @@ TSM 28
 
 FR-new-10013142 |
 
-DESCARTES BIOMASSE INDUSTRIE - DBI |
+DESCARTES BIOMASSE INDUSTRIE - DBI
+
+|
 
 DESCARTES BIOMASSE INDUSTRIE - DBI |
 
@@ -13598,7 +13658,7 @@ FR-new-10300065
 
 |
 
-Novoceram SAS
+NOVOCERAM PRODUITS CERAMIQUES
 
 |
 
@@ -13662,31 +13722,31 @@ Air Liquide Pont de Claix
 
 |
 
-30 635
+18 473
 
 |
 
-30 071
+11 811
 
 |
 
-29 501
+8 485
 
 |
 
-17 442
+8 320
 
 |
 
-17 090
+8 152
 
 |
 
-16 738
+10 902
 
 |
 
-204 411
+129 077
 
 |
 
@@ -13884,7 +13944,9 @@ SAS NORD ESTER
 
 FR-new-55602682 |
 
-SAS STANVEN |
+SAS STANVEN
+
+|
 
 SAS STANVEN Usine de Plouray |
 
@@ -14220,7 +14282,9 @@ KNAUF INSULATION site de Illange |
 
 FR-new-03801009 |
 
-COGESTAR 3 |
+COGESTAR 3
+
+|
 
 Dalkia Harnes |
 
@@ -14244,7 +14308,9 @@ Dalkia Harnes |
 
 FR-new-06520960 |
 
-COGESTAR 3 |
+COGESTAR 3
+
+|
 
 Installation de cogénération-CEA Saclay |
 
@@ -14268,9 +14334,11 @@ Installation de cogénération-CEA Saclay |
 
 FR-new-06412998 |
 
-ECOSLOPS |
+ECOSLOPS PROVENCE
 
-ECOSLOPS La Mède |
+|
+
+ECOSLOPS PROVENCE - La Mède |
 
 - |
 
@@ -14292,7 +14360,9 @@ ECOSLOPS La Mède |
 
 FR-new-06308843 |
 
-ERENA |
+ERENA
+
+|
 
 ERENA-Centrale Californie |
 
@@ -14316,7 +14386,9 @@ ERENA-Centrale Californie |
 
 FR-new-05200010 |
 
-POLYREY SAS |
+POLYREY SAS
+
+|
 
 POLYREY SAS |
 
@@ -14340,7 +14412,9 @@ POLYREY SAS |
 
 FR-new-03103394 |
 
-EUROVIA GRANDS TRAVAUX GPI |
+EUROVIA GRANDS TRAVAUX GPI
+
+|
 
 TRX 100 |
 
@@ -14364,7 +14438,9 @@ TRX 100 |
 
 FR-new-06400913 |
 
-IMERYS SALIN |
+IMERYS SALIN
+
+|
 
 IMERYS-Salin-de-Giraud |
 
@@ -14388,7 +14464,9 @@ IMERYS-Salin-de-Giraud |
 
 FR-new-05800439 |
 
-CHEVRON ORONITE S. A. S |
+CHEVRON ORONITE S. A. S
+
+|
 
 CHEVRON ORONITE Gonfreville l'Orcher |
 
@@ -14412,7 +14490,9 @@ CHEVRON ORONITE Gonfreville l'Orcher |
 
 FR-new-52900449 |
 
-Société Industrielle Laitière du Léon |
+Société Industrielle Laitière du Léon
+
+|
 
 SILL SAS (Plouvien) |
 
@@ -14436,7 +14516,9 @@ SILL SAS (Plouvien) |
 
 FR-new-06400895 |
 
-OMYA SAS |
+OMYA SAS
+
+|
 
 OMYA-Site d'Orgon |
 
@@ -14460,7 +14542,9 @@ OMYA-Site d'Orgon |
 
 FR-new-10012929 |
 
-CHARTRES METROPOLE ENERGIES SPL |
+CHARTRES METROPOLE ENERGIES SPL
+
+|
 
 CHARTRES METROPOLE ENERGIES |
 
@@ -14484,7 +14568,9 @@ CHARTRES METROPOLE ENERGIES |
 
 FR-new-06802412 |
 
-SETMI |
+SETMI
+
+|
 
 SETMI |
 
@@ -14508,7 +14594,9 @@ SETMI |
 
 FR-new-06802942 |
 
-Centre Hospitalier Universitaire de Toulouse |
+Centre Hospitalier Universitaire de Toulouse
+
+|
 
 Hôpital PURPAN |
 
@@ -14532,7 +14620,9 @@ Hôpital PURPAN |
 
 FR-new-03801634 |
 
-ENTREPRISE MALET |
+ENTREPRISE MALET
+
+|
 
 Entreprise Malet-Grands Chantiers-PE 15 |
 
@@ -14657,6 +14747,84 @@ Centrale de cogénération Site ARKEMA Jarrie |
 0 |
 
 0 |
+
+FR-new-03103402 |
+
+Plaine de Garonne Energies
+
+|
+
+Centrale Géothermique COUSTEAU |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03012003 |
+
+ENGIE Energie Services SA
+
+|
+
+NOVAWOOD |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-06113980 |
+
+Elm Opérations
+
+|
+
+Chaufferie de Surville |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
 
 NOTA :
 

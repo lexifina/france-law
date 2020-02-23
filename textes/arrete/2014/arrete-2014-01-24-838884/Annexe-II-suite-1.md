@@ -1306,11 +1306,11 @@ Chaufferie des Semailles à Rillieux-la-Pape COFELY
 
 1 328 |
 
-1 091 |
+546 |
 
 863 |
 
-22 650 |
+22 105 |
 
 FR000000000000429 |
 
@@ -1840,11 +1840,11 @@ Brasserie Champigneulles SAS
 
 FR000000000000454 |
 
-Centrale de cogénération Solvay Energy Services - Site de Solvay Dombasle
+SOLVAY OPERATIONS France
 
 |
 
-COFELY Cogénération Solvay
+Cogénération SOLVAY
 
 |
 
@@ -1872,7 +1872,7 @@ SOLVAY OPERATIONS France
 
 |
 
-SOLVAY ENERGY SERVICES-Cogénération Dombasle
+SOLVAY OPERATIONS France - site de Dombasle
 
 |
 
@@ -2486,11 +2486,11 @@ smart France SAS
 
 FR000000000000485 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Florange
+ArcelorMittal France
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Florange
+ArcelorMittal France - Site de Florange
 
 |
 
@@ -4224,11 +4224,11 @@ SECANIM Centre
 
 FR000000000000555 |
 
-ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre
+ARCELORMITTAL France
 
 |
 
-ArcelorMittal Atlantique et Lorraine-Site de Basse-Indre
+ARCELORMITTAL FRANCE - site de Basse Indre
 
 |
 
@@ -4482,13 +4482,13 @@ Lhoist France Ouest-Usine de Neau (53) |
 
 194 426 |
 
-190 618 |
+190 619 |
 
-186 763 |
+215 896 |
 
-182 897 |
+211 430 |
 
-1 696 815 |
+1 754 482 |
 
 FR000000000000565 |
 
@@ -4820,13 +4820,13 @@ CEA CADARACHE |
 
 6 171 |
 
-5 211 |
+2 172 |
 
-4 281 |
+1 784 |
 
-3 387 |
+1 412 |
 
-53 971 |
+46 460 |
 
 FR000000000000586 |
 
@@ -5446,11 +5446,11 @@ GEOGAZ-LAVERA |
 
 157 |
 
-129 |
+65 |
 
-102 |
+51 |
 
-2 465 |
+2 350 |
 
 FR000000000000616 |
 
@@ -5688,9 +5688,9 @@ Usine de Fos |
 
 68 575 |
 
-67 161 |
+45 887 |
 
-576 238 |
+554 964 |
 
 FR000000000000626 |
 
@@ -6266,7 +6266,7 @@ SGD Sucy-en-Brie |
 
 FR000000000000655 |
 
-DI GIOVANNI ALBERT |
+KERAGLASS |
 
 Kéraglass |
 
@@ -7350,19 +7350,19 @@ X-FAB |
 
 8 268 |
 
-8 121 |
+4 250 |
 
-7 972 |
+4 172 |
 
-7 821 |
+4 093 |
 
-7 668 |
+4 013 |
 
-7 513 |
+3 931 |
 
-7 358 |
+3 850 |
 
-63 136 |
+40 992 |
 
 FR000000000000704 |
 
@@ -7686,11 +7686,11 @@ Chaufferie Urbaine Fossés Trempés Franconville
 
 |
 
-817
+409
 
 |
 
-16 808
+16 400
 
 |
 

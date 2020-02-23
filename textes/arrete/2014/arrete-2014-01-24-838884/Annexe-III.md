@@ -1101,3 +1101,55 @@ Centrale Thermique Beaulieu Malakoff |
 3 677 |
 
 22 253 |
+
+FR-new-10300065 |
+
+NOVOCERAM PRODUITS CERAMIQUES
+
+|
+
+NOVOCERAM |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+661 |
+
+966 |
+
+948 |
+
+2 575 |
+
+FR000000000000655 |
+
+KERAGLASS
+
+|
+
+Kéraglass |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+765 |
+
+10 961 |
+
+10 752 |
+
+10 543 |
+
+33 021 |
