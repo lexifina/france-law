@@ -1,6 +1,4 @@
-# Article LEGIARTI000039461315
-
-ANNEXE 4
+# Article ANNEXE 4
 
 COOPÉRATIVE DE TYPE 4
 
@@ -14,13 +12,13 @@ Article 1er
 
 Constitution
 
-Il est constitué entre les soussignés et ceux qui adhéreront aux présents statuts une société coopérative agricole à capital variable régie par les dispositions du code rural et de la pêche maritime, notamment du livre V, titre II, par les dispositions de la loi n° 47-1775 du 10 septembre 1947, des articles L. 231-1 à L. 231-8 du code de commerce, des dispositions du livre III, du titre IX, chapitre Ier du code civil, des textes qui les ont modifiés ou qui les modifieront, de la réglementation concernant les céréales, et notamment de la législation relative à l'établissement national des produits de l'agriculture et de la mer « FranceAgriMer » ainsi que par les dispositions qui suivent.
+Il est constitué entre les soussignés et ceux qui adhéreront aux présents statuts une société coopérative agricole à capital variable régie par les dispositions du code rural et de la pêche maritime, notamment du livre V, titre II, par les dispositions de la loi n° 47-1775 du 10 septembre 1947, des articles L. 231-1 à L. 231-8 du code de commerce, des dispositions du livre III, du titre IX, chapitre Ier du code civil, des textes qui les ont modifiés ou qui les modifieront, de la réglementation concernant les céréales, et notamment de la législation relative à l'établissement national des produits de l'agriculture et de la mer " FranceAgriMer " ainsi que par les dispositions qui suivent.
 
-Elle est dénommée dans les présents statuts « la coopérative ».
+Elle est dénommée dans les présents statuts " la coopérative ".
 
-[La coopérative a pour raison d'être ]
+[La coopérative a pour raison d'être.]
 
-[La coopérative a pour mission ]
+[La coopérative a pour mission.]
 
 Article 3
 
@@ -28,9 +26,9 @@ Objet
 
 1. La coopérative a pour objet d'effectuer ou de faciliter, quels que soient les moyens et techniques mis en œuvre par elle, toutes les opérations concernant [la production], [la collecte], le stockage, la conservation, [la transformation] et la vente de céréales [et autres produits agricoles], conformément aux indications ci-dessous :
 
-Nature des produits
+Nature des produits.
 
-Nature des opérations
+Nature des opérations.
 
 [Les produits apportés par les associés coopérateurs au titre de l'engagement d'activité prévu au 1° du premier paragraphe de l'article 8 ci-dessous font l'objet d'un transfert de propriété au bénéfice de la coopérative [selon les modalités prévues au règlement intérieur]].
 
@@ -52,29 +50,29 @@ Article 46
 
 Tenue de la comptabilité
 
-Sans changement.
+(Sans changement.)
 
 Article 50
 
 Contrôle du Haut Conseil de la coopération agricole et de l'inspection des finances
 
-1. La coopérative est soumise au contrôle du Haut Conseil de la coopération agricole et à celui de l'établissement national des produits de l'agriculture et de la mer « FranceAgriMer ».
+1. La coopérative est soumise au contrôle du Haut Conseil de la coopération agricole et à celui de l'établissement national des produits de l'agriculture et de la mer " FranceAgriMer ".
 
 Dans le délai de trois mois à compter de la date de la réunion de l'assemblée générale qui a approuvé les comptes de l'exercice écoulé, la coopérative doit faire parvenir au Haut Conseil de la coopération agricole les pièces suivantes :
 
-- la copie intégrale du procès-verbal de l'assemblée générale ;
+-la copie intégrale du procès-verbal de l'assemblée générale ;
 
-- la copie des documents mis à la disposition des associés coopérateurs avant l'assemblée générale : documents prévus au II de l'article L. 521-3-1 du code rural et de la pêche maritime, comptes annuels, rapports du conseil d'administration aux associés coopérateurs, comptes consolidés et, le cas échéant, comptes combinés et rapport sur la gestion du groupe, rapports des commissaires aux comptes ;
+-la copie des documents mis à la disposition des associés coopérateurs avant l'assemblée générale : documents prévus au II de l'article L. 521-3-1 du code rural et de la pêche maritime, comptes annuels, rapports du conseil d'administration aux associés coopérateurs, comptes consolidés et, le cas échéant, comptes combinés et rapport sur la gestion du groupe, rapports des commissaires aux comptes ;
 
-- La liste des filiales et autres sociétés localisées en France et à l'étranger contrôlées par la coopérative ;
+-la liste des filiales et autres sociétés localisées en France et à l'étranger contrôlées par la coopérative ;
 
-- La copie des documents présentés lors de l'assemblée générale prévus au III de l'article L. 521-3-1 du code rural et de la pêche maritime ;
+-la copie des documents présentés lors de l'assemblée générale prévus au III de l'article L. 521-3-1 du code rural et de la pêche maritime ;
 
-- un extrait de l'immatriculation au registre du commerce et des sociétés à jour des décisions de l'assemblée générale ;
+-un extrait de l'immatriculation au registre du commerce et des sociétés à jour des décisions de l'assemblée générale ;
 
-- le nombre des associés coopérateurs ;
+-le nombre des associés coopérateurs ;
 
-- la liste des administrateurs.
+-la liste des administrateurs.
 
 Toutes ces pièces doivent être certifiées conformes par le président du conseil d'administration ou un ou plusieurs administrateurs habilités à cet effet par le conseil d'administration.
 

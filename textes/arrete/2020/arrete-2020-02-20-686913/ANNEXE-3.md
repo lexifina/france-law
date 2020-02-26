@@ -1,6 +1,4 @@
-# Article LEGIARTI000039461313
-
-ANNEXE 3
+# Article ANNEXE 3
 
 COOPÉRATIVE DE TYPE 3
 
@@ -46,6 +44,10 @@ Les héritiers de l'associé coopérateur décédé succèdent aux droits et obl
 
 6. Il sera tenu au siège de la coopérative un fichier des associés coopérateurs inscrits par ordre chronologique d'adhésion et numéros d'inscription avec indication du capital souscrit ou acquis par catégories de parts telles que prévues à l'article 14 ci-après.
 
+7. Le rattachement d'un associé coopérateur à une des sections visées à l'article 35, paragraphe 2, des présents statuts est déterminé, au choix de l'associé coopérateur, par le lieu du siège de son exploitation principale ou de son domicile.
+
+8. Nul associé coopérateur ne peut être rattaché à plusieurs sections, même en cas de pluralité d'exploitations.
+
 Article 9
 
 Droit à l'information des associés coopérateurs
@@ -53,10 +55,6 @@ Droit à l'information des associés coopérateurs
 1. L'associé coopérateur reçoit, lors de son adhésion, une information sur les valeurs et les principes coopératifs, ainsi que sur le fonctionnement de la coopérative et les modalités de rémunération qu'elle pratique. Outre cette information, l'associé-coopérateur se voit remettre une liste des dirigeants, ainsi que des référents qu'il peut contacter pour faciliter son intégration.
 
 2. Outre les informations mises à sa disposition dans le cadre des dispositions des articles 39-1 et 57, tout associé coopérateur a le droit d'obtenir, à toute époque, communication des statuts et du règlement intérieur et des documents suivants concernant les trois derniers exercices clos :
-
-- les procès-verbaux d'assemblées générales ordinaires et extraordinaires ;
-
-- la liste des filiales et sociétés localisées en France et à l'étranger contrôlées par la coopérative, la liste des administrateurs des organes d'administration des dites filiales et sociétés, ainsi que, le cas échéant, les rapports des commissaires aux comptes qui ont été soumis aux assemblées générales de chaque filiale.
 
 - les comptes annuels, le cas échéant, les comptes consolidés ou combinés, la liste des administrateurs ;
 
@@ -70,7 +68,7 @@ Droit à l'information des associés coopérateurs
 
 La communication de ces documents s'effectue soit par envoi postal à l'adresse indiquée par l'associé coopérateur, soit au siège social ou au lieu de direction administrative de la coopérative. Le droit pour l'associé coopérateur de prendre connaissance emporte celui de prendre copie à ses frais.
 
-[Cet envoi peut être fait par un moyen électronique sous réserve de l'accord écrit préalable de l'associé coopérateur indiquant son adresse électronique.]
+[Cet envoi peut être fait par un moyen électronique sous réserve de l'accord écrit préalable de l'associé coopérateur indiquant son adresse électronique .]
 
 Le conseil d'administration communique aux associés coopérateurs, dans le mois qui suit l'assemblée générale ordinaire, une information sur la rémunération définitive globale des apports incluant les acomptes, les compléments de prix et les ristournes. Cette rémunération peut être présentée par unité de mesure.
 
@@ -90,11 +88,11 @@ Constitution du capital
 
 Les parts sociales d'épargne peuvent être converties en parts sociales d'activité. L'associé coopérateur en informe par écrit le conseil d'administration. Cette conversion s'opère par simple transcription des parts sur le fichier des associés coopérateurs.
 
-3. Le capital social initial est fixé à la somme de ..... et divisé en ..... parts d'un montant de ..... chacune.
+3. Le capital social initial est fixé à la somme de et divisé en parts d'un montant de chacune.
 
-4. Le capital social souscrit ou acquis dans le cadre de l'engagement d'activité est réparti entre les associés coopérateurs en fonction des opérations qu'ils s'engagent à effectuer avec la coopérative selon les modalités et conditions suivantes :
+4. Le capital social souscrit ou acquis dans le cadre de l'engagement d'activité est réparti entre les associés coopérateurs en fonction des opérations qu'ils s'engagent à effectuer avec la coopérative selon les modalités et conditions suivantes : .
 
-Il est permis, sous réserve de l'accord du conseil d'administration, de souscrire ou d'acquérir des parts au-delà de la proportion statutaire.
+Il est permis, sous réserve de l'accord du conseil d'administration, de souscrire ou d'acquérir des parts au-delà de la proportion statutaire .
 
 5. [Chaque part doit être entièrement libérée lors de la souscription.]
 
@@ -112,7 +110,7 @@ Article 22
 
 Durée et renouvellement du mandat des administrateurs
 
-1. Les administrateurs sont nommés pour ..... ans et renouvelables par ..... chaque année.
+1. Les administrateurs sont nommés pour ans et renouvelables par chaque année.
 
 Leurs fonctions prennent fin à l'issue de la réunion de l'assemblée générale ordinaire des associés coopérateurs ayant statué sur les comptes de l'exercice écoulé et tenue dans l'année au cours de laquelle expire le mandat d'administrateur.
 
@@ -142,7 +140,7 @@ Il communique aux associés coopérateurs, selon la fréquence mentionnée dans 
 
 La répartition des excédents annuels disponibles affectés au service des ristournes conformément au paragraphe 3 de l'article 37 et au paragraphe 3 de l'article 48 est un élément de la rémunération de l'associé coopérateur.
 
-NB : pour les coopératives de collecte vente des produits dont la liste est prévue à l'article D. 442-7 du code de commerce, le paragraphe 4 suivant est obligatoire.
+Nota. - Pour les coopératives de collecte vente des produits dont la liste est prévue à l'article D. 442-7 du code de commerce, le paragraphe 4 suivant est obligatoire.
 
 4. [Le conseil d'administration détermine des critères relatifs aux fluctuations des prix des matières premières agricoles et alimentaires affectant significativement le coût de production des produits visés au paragraphe 1 de l'article 3 des présents statuts, et des produits agricoles et alimentaires et, le cas échéant, des coûts de l'énergie.
 
@@ -150,9 +148,9 @@ Lorsque ces critères, portés à la connaissance des associés coopérateurs se
 
 Cette délibération du conseil d'administration fait l'objet d'une information obligatoire dans le rapport aux associés coopérateurs visés à l'article 47.]
 
-5. [Sont expressément réservés à l'assemblée générale les pouvoirs ci-dessous énumérés : ]
+5. [Sont expressément réservés à l'assemblée générale les pouvoirs ci-dessous énumérés :]
 
-[1° Elle ]
+[1° Elle .]
 
 Article 34
 
@@ -186,7 +184,7 @@ Ordre du jour
 
 1. L'ordre du jour de l'assemblée générale est arrêté par le conseil d'administration. Il doit comporter, outre les propositions émanant du conseil ou, s'il y a lieu, des commissaires aux comptes, toute question présentée au conseil six semaines au moins avant la convocation de l'assemblée générale sur proposition écrite revêtue de la signature d'un dixième au moins du nombre total des associés coopérateurs inscrits.
 
-2. L'ordre du jour de l'assemblée générale ordinaire convoquée à la demande des commissaires aux comptes est arrêté en accord avec ceux-ci.
+2. L'ordre du jour de l'assemblée générale ordinaire convoquée à la demande du Haut Conseil de la coopération agricole est arrêté en accord avec celui-ci. Lorsque le Haut Conseil convoque l'assemblée générale il en fixe l'ordre du jour.
 
 3. Il ne peut être mis en discussion dans toutes assemblées de section ou en délibération en assemblée plénière que les questions portées à l'ordre du jour.
 
@@ -196,7 +194,7 @@ Réunions et objet de l'assemblée générale ordinaire
 
 1. L'assemblée générale ordinaire doit être convoquée au moins une fois par an, dans les six mois qui suivent la clôture de l'exercice.
 
-2. L'assemblée générale ordinaire annuelle doit, après lecture du rapport aux associés coopérateurs dont le contenu est précisé à l'article 47 ci-dessous, du document visé à l'article L. 521-3-1 III du code rural et de la pêche maritime et du ou des rapports des commissaires aux comptes :
+2. L'assemblée générale ordinaire annuelle doit, après lecture du rapport aux associés coopérateurs dont le contenu est précisé à l'article 47 ci-dessous, du document visé à l'article L. 521-3-1 (III)du code rural et de la pêche maritime et du ou des rapports des commissaires aux comptes :
 
 - examiner et approuver les comptes annuels, décider de leur modification s'il y a lieu ;
 
@@ -218,9 +216,9 @@ Réunions et objet de l'assemblée générale ordinaire
 
 3. Après imputation du report à nouveau déficitaire et dotation des réserves obligatoires, l'assemblée générale délibère sur la proposition motivée d'affectation des excédents répartissables présentée par le conseil d'administration successivement et s'il y a lieu sur :
 
-- l'intérêt servi sur le montant libéré des parts sociales. Cet intérêt est au plus égal au taux fixé à l'article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
+- l'intérêt servi sur le montant libéré des parts sociales. Cet intérêt est au plus égal au taux fixé à l' article 14 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
 
-- la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5-1 du code rural et de la pêche maritime au prorata des parts sociales libérées ;
+- la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l' article L. 523-5-1 du code rural et de la pêche maritime au prorata des parts sociales libérées ;
 
 - la répartition de ristournes entre les associés coopérateurs proportionnellement aux opérations réalisées avec la coopérative et suivant les modalités prévues par les présents statuts ;
 
@@ -246,9 +244,9 @@ Article 39
 
 Réunions et objet de l'assemblée générale extraordinaire
 
-1. L'assemblée générale extraordinaire a seule pouvoir pour délibérer sur les modifications des statuts, la dissolution de la société, sa prorogation dans les formes prévues par l'article 1844-6 du code civil, dans les cas prévus à l'article 51 ci-dessous et à l'article R. 525-2 du code rural et de la pêche maritime ou sa fusion avec d'autres sociétés coopératives agricoles ou opérations assimilées telles que définies à l'article 56 ci-dessous. Elle a seule la possibilité de décider une variation du capital par mesure collective en modifiant la base de répartition des parts prévue à l'article 14.
+1. L'assemblée générale extraordinaire a seule pouvoir pour délibérer sur les modifications des statuts, la dissolution de la société, sa prorogation dans les formes prévues par l' article 1844-6 du code civil , dans les cas prévus à l'article 51 ci-dessous et à l' article R. 525-2 du code rural et de la pêche maritime ou sa fusion avec d'autres sociétés coopératives agricoles ou opérations assimilées telles que définies à l'article 56 ci-dessous. Elle a seule la possibilité de décider une variation du capital par mesure collective en modifiant la base de répartition des parts prévue à l'article 14.
 
-2. En aucun cas, il ne saurait être porté atteinte au caractère de société coopérative régie par les dispositions législatives et réglementaires visées à l'article 1er, sauf application des dispositions de l'article 25 de la loi n° 47-1775 du 10 septembre 1947.
+2. En aucun cas, il ne saurait être porté atteinte au caractère de société coopérative régie par les dispositions législatives et réglementaires visées à l'article 1er, sauf application des dispositions de l'article 25 de la loi n° 47-1775 du 10 septembre 1947 .
 
 Article 39-1
 
@@ -286,7 +284,7 @@ L'insertion et la convocation individuelle devront en outre préciser, pour chaq
 
 6. La convocation individuelle, effectuée soit par lettre, soit par l'envoi d'un journal ou d'un bulletin, est adressée valablement au dernier domicile que les associés coopérateurs auront fait connaître à la coopérative.
 
-[Cet envoi peut être fait par un moyen électronique sous réserve de l'accord écrit préalable de l'associé coopérateur indiquant son adresse électronique.
+[Cet envoi peut être fait par un moyen électronique sous réserve de l'accord écrit préalable de l'associé coopérateur indiquant son adresse électronique .
 
 La coopérative qui souhaite recourir à un moyen électronique soumet une proposition en ce sens aux associés coopérateurs, soit par voie postale, soit par voie électronique. Les associés coopérateurs intéressés peuvent donner leur accord par voie postale ou électronique. En l'absence d'accord de l'associé coopérateur, au plus tard trente-cinq jours avant la date de la prochaine assemblée générale, la coopérative a recours à un envoi postal.
 
@@ -316,7 +314,7 @@ Lorsque les époux, les partenaires d'un pacte civil de solidarité (PACS) ou le
 
 3. L'associé coopérateur empêché peut donner mandat de le représenter à l'assemblée de section. Le mandataire doit être un autre associé coopérateur de la section, le conjoint du mandant, un de ses ascendants ou descendants majeurs. Les mandataires non associés coopérateurs ne peuvent représenter que leur conjoint, ascendants ou descendants majeurs.
 
-4. Chaque mandataire ne peut représenter que … associés coopérateurs et ne peut donc disposer que de … voix, la sienne comprise. Les mandats sont annexés au procès-verbal de l'assemblée de section.
+4. Chaque mandataire ne peut représenter que ... associés coopérateurs et ne peut donc disposer que de ... voix, la sienne comprise. Les mandats sont annexés au procès-verbal de l'assemblée de section.
 
 5. [L'associé coopérateur peut également voter par des moyens électroniques de télécommunication sur un site exclusivement consacré à cette fin.]
 
@@ -348,7 +346,7 @@ Convocation des assemblées plénières
 
 3. Il est en outre adressé à chaque délégué de section une convocation individuelle l'invitant à assister à l'assemblée plénière et lui précisant la date, l'heure et le lieu de la réunion ainsi que l'ordre du jour.
 
-[Cet envoi peut être fait par un moyen électronique sous réserve de l'accord écrit préalable de l'associé coopérateur indiquant son adresse électronique.]
+[Cet envoi peut être fait par un moyen électronique sous réserve de l'accord écrit préalable de l'associé coopérateur indiquant son adresse électronique .]
 
 [La coopérative qui souhaite recourir à un moyen électronique soumet une proposition en ce sens aux associés coopérateurs, soit par voie postale, soit par voie électronique. Les associés coopérateurs intéressés peuvent donner leur accord par voie postale ou électronique. En l'absence d'accord de l'associé coopérateur, au plus tard trente-cinq jours avant la date de la prochaine assemblée générale, la coopérative a recours à un envoi postal.
 
@@ -414,23 +412,23 @@ A la clôture de chaque exercice, le conseil d'administration dresse un inventai
 
 - le document donnant des informations sur l'écart entre le prix indiqué lors de la précédente assemblée générale ordinaire, et le prix effectivement payé aux associés coopérateurs pour leurs apports ainsi que sur les écarts constatés entre ce prix et les différents indicateurs relatifs aux coûts de production et aux prix des produits agricoles et alimentaires éventuellement pris en compte dans le règlement intérieur pour fixer les critères et modalités de détermination du prix des apports, ou, à défaut, tous indicateurs disponibles relatifs aux coûts pertinents de production en agriculture et aux prix des produits agricoles et alimentaires constatés sur les marchés sur lesquels opère la coopérative. Ce document précise que la coopérative engage sa responsabilité si ces informations ne sont pas sincères ;
 
-- le rapport aux associés coopérateurs qui porte sur la gestion et l'évolution de la coopérative, sa stratégie et ses perspectives à moyen terme, les événements importants entre la date de la clôture de l'exercice et la date à laquelle il est établi et, le cas échéant, ses activités en matière de recherche et de développement. Il expose, dans un chapitre distinct, les principes et modalités de la gouvernance d'entreprise.
+- le rapport aux associés coopérateurs qui porte sur la gestion et l'évolution de la coopérative, sa stratégie et ses perspectives à moyen terme, les événements importants entre la date de la clôture de l'exercice et la date à laquelle il est établi et, le cas échéant, ses activités en matière de recherche et de développement. Il expose, dans un chapitre distinct, les principes et modalités de la gouvernance d'entreprise ;
 
 - s'il y a lieu un rapport sur la gestion du groupe.
 
-Lorsque la coopérative exploite au moins une installation classée soumise à autorisation, figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement, le rapport comprend en outre les indications sur :
+Lorsque la coopérative exploite au moins une installation classée soumise à autorisation, figurant sur la liste prévue à l' article L. 515-36 du code de l'environnement , le rapport comprend en outre les indications sur :
 
 - la politique de prévention du risque d'accident technologique menée par la coopérative ;
 
 - la capacité de la coopérative à couvrir sa responsabilité civile du fait de l'exploitation de telles installations ;
 
-- les moyens prévus pour assurer la gestion de l'indemnisation des victimes en cas d'accidents technologiques engageant sa responsabilité ;
+- les moyens prévus pour assurer la gestion de l'indemnisation des victimes en cas d'accidents technologiques engageant sa responsabilité.
 
 Le conseil d'administration rend compte dans son rapport de l'activité et du résultat des filiales et des sociétés contrôlées par la coopérative, par branche d'activité.
 
 Lorsque la coopérative détient des instruments financiers à terme dont le sous-jacent est constitué en tout ou partie d'une matière première agricole, le conseil d'administration indique dans son rapport les moyens mis en œuvre pour éviter d'exercer un effet significatif sur le cours de ces matières premières agricoles. Ce rapport inclut des informations, par catégorie de sous-jacent, sur lesdits instruments financiers à terme.
 
-Lorsque la coopérative dépasse les seuils mentionnés à l'article R. 225-104 du code de commerce, le rapport aux associés coopérateurs du conseil d'administration comporte les informations, prévues à l'article L. 524-2-1 du code rural et de la pêche maritime, relatives à la performance extra financière.
+Lorsque la coopérative dépasse les seuils mentionnés à l' article R. 225-104 du code de commerce , le rapport aux associés coopérateurs du conseil d'administration comporte les informations, prévues à l' article L. 524-2-1 du code rural et de la pêche maritime , relatives à la performance extra financière.
 
 Ces informations font l'objet d'une vérification par un organisme tiers indépendant qui donne lieu à un avis transmis à l'assemblée générale annuelle ordinaire dans les conditions fixées au paragraphe 4 de l'article 39-1 des présents statuts en même temps que le rapport du conseil d'administration.
 
