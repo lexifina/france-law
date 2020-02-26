@@ -1,106 +1,156 @@
-# Article KALIARTI000018661242
+# Article filière 3
 
-FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
+Secteur |
 
-|
+Fonction (suivi de la version féminisée) |
 
-CATÉGORIE
+Position |
 
-|
+Catégorie |
 
-DÉFINITION DE FONCTION
+Définition |
 
-|
+Conception/ fabrication des éléments |
 
-Directeur de modélisation |
+Chef modèles couleurs
 
-Directrice de modélisation |
-
-I |
-
-Encadre et supervise le travail artistique et technique des équipes de modélisation sur une production ou un ensemble de productions. |
-
-Chef dessinateur d'animation |
-
-Chef dessinatrice d'animation |
+Chef modèles couleurs |
 
 |
-
-Conçoit la représentation graphique des personnages (attitude et expressions), des accessoires, des lieux et des effets spéciaux dans le respect du style défini par la bible. |
-
-Superviseur de modélisation |
-
-Superviseuse de modélisation |
 
 II |
 
-Encadre une équipe d'infographistes, prépare le travail de modélisation, veille à la bonne exécution des objets et modèles et à l'optimisation des techniques mises en oeuvre. |
+Recherche et propose les modèles couleurs, les textures des personnages, des accessoires et des effets spéciaux. Supervise leur exécution et déclinaison. |
 
-Chef modèles couleurs |
+Assistant dessinateur
 
-Chef modèles couleurs |
-
-|
-
-Recherche et propose les modèles couleurs, les textures des personnages et des accessoires. Supervise leur exécution et déclinaison. |
+Assistante dessinatrice |
 
 |
-
-|
-
-III A |
-
-|
-
-Dessinateur d'animation |
-
-Dessinatrice d'animation |
-
-|
-
-Exécute et adapte techniquement les modèles des personnages, accessoires, lieux et effets spéciaux. |
-
-Infographiste de modélisation |
-
-Infographiste de modélisation |
-
-III B |
-
-Exécute la fabrication de tout ou partie des travaux de modélisation, de texture, d'articulation et de dynamique. |
-
-Coloriste modèle |
-
-Coloriste modèle |
-
-IV |
-
-Exécute les modèles couleurs et textures des personnages et accessoires. |
-
-Assistant dessinateur d'animation* |
-
-Assistante dessinatrice d'animation* |
-
-|
-
-Assure la mise au net et le formatage des planches de modèles personnages, accessoires, lieux et effets spéciaux. |
-
-Assistant infographiste de modélisation |
-
-Assistante infographiste de modélisation |
 
 V |
 
-Assiste la fabrication de tout ou partie des travaux de modélisation, de texture, d'articulation et de dynamique. |
+Participe à la mise au net et au formatage des planches de modèles personnages, accessoires, lieux et effets spéciaux. |
 
-Opérateur digitalisation |
+Lay-out |
 
-Opératrice digitalisation |
+Dessinateur lay-out
 
-VI |
+Dessinatrice lay-out |
 
-Exécute la capture des points de digitalisation d'un modèle. |
+Chef |
 
-(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
+II |
+
+Encadre une équipe sur une production. Prépare les travaux de mise en place technique et s'assure de leur cohérence avec les directives du story-board pour engager les étapes de fabrication des décors et de l'animation. Contrôle les lay-outs produits par des studios tiers. |
+
+Confirmé |
+
+III B |
+
+Assure la mise en place, plan par plan, des éléments de décor, du posing des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques, en conformité avec le story-board. |
+
+Animation |
+
+Animateur feuilles d'exposition
+
+Animatrice feuilles d'exposition |
+
+Chef |
+
+II |
+
+Encadre et dirige l'équipe chargée de la rédaction des feuilles d'exposition. Veille à l'unité des feuilles d'exposition. |
+
+Confirmé |
+
+III B |
+
+Décompose le rythme de l'animation sur les feuilles d'exposition. Assure et/ ou vérifie le positionnement des codes-bouches. |
+
+Intervalliste
+
+Intervalliste |
+
+|
+
+V |
+
+Exécute les dessins intermédiaires selon la cadence définie par l'animateur et les dessins de l'assistant animateur. |
+
+Traçage, scan et colorisation |
+
+Vérificateur d'animation
+
+Vérificatrice d'animation |
+
+Chef |
+
+III A |
+
+Encadre une équipe de vérificateurs et veille à la cohérence des références usitées : story-board, modèles, lay-out, animation. |
+
+Confirmé |
+
+III B |
+
+Assure la vérification, l'exhaustivité et la cohérence technique des éléments d'animation composant un plan. |
+
+Vérificateur trace colorisation
+
+Vérificatrice trace colorisation |
+
+Chef |
+
+III A |
+
+Encadre une équipe de traceurs et/ ou de gouacheurs et veille à la cohérence des références usitées : story-board, modèles couleurs, feuilles d'exposition. |
+
+Confirmé |
+
+III B |
+
+Assure la vérification et l'exhaustivité des éléments tracés, scannés et colorisés composant un plan. |
+
+Responsable scan
+
+Responsable scan |
+
+|
+
+IV |
+
+Encadre une équipe d'opérateurs scan et veille à la qualité technique, à la conformité et à l'exhaustivité des éléments scannés. |
+
+Traceur
+
+Traceuse |
+
+|
+
+V |
+
+Reproduit au trait les dessins d'animation dans le caractère et le style imposés. |
+
+Gouacheur
+
+Gouacheuse |
+
+|
+
+|
+
+Exécute la mise en couleur des éléments graphiques en respectant les modèles couleurs. |
+
+Opérateur scan
+
+Opératrice scan |
+
+|
+
+|
+
+Exécute la numérisation des éléments graphiques. |
 
 NOTA :
 

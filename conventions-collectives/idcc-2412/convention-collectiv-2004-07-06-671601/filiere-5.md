@@ -1,110 +1,210 @@
-# Article KALIARTI000018661234
+# Article filière 5
 
-FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
+Secteur |
+
+Fonction
+
+(suivi de la version féminisée) |
+
+Position |
+
+Catégorie |
+
+Définition |
 
 |
 
-CATÉGORIE
+Animateur volume
 
-|
+Animatrice volume |
 
-DÉFINITION DE FONCTION
-
-|
-
-Directeur animation |
-
-Directrice animation |
-
-I |
-
-Encadre et supervise le travail artistique et technique des équipes d'animation sur une production ou un ensemble de productions. |
-
-Chef animateur |
-
-Chef animatrice |
+Chef |
 
 II |
 
-Dirige le « jeu » des personnages et / ou des effets spéciaux ou supervise l'animation d'une séquence. Assure la cohérence du rythme, de la continuité ainsi que le travail d'animation et de synchronisation d'une équipe d'animateurs. |
+Encadre les équipes d'animation en volume. Dirige le « jeu » d'un ou plusieurs personnages ou supervise l'animation d'une séquence. Assure la cohérence du rythme, de la continuité ainsi que le travail d'animation et de synchronisation. |
 
-Chef infographiste 2D |
-
-Chef infographiste 2D |
-
-Encadre l'équipe chargée de la fabrication, de la mise en place, du positionnement des éléments composant les plans. |
-
-Chef assistant |
-
-Chef assistante |
-
-III A |
-
-Encadre et assure la cohérence artistique du travail d'une équipe d'assistants animateurs et d'intervallistes sur une production. Il contrôle également le travail effectué par des studios tiers. |
-
-Animateur |
-
-Animatrice |
+Confirmé |
 
 III B |
 
-Porte à l'écran le « jeu » des personnages, des éléments et / ou des effets visuels numériques à animer qui constituent le plan dans le respect du story-board et de la mise en place technique. |
+Porte à l'écran le « jeu » requis et défini par le réalisateur par une succession de positions données à un modèle inanimé. |
 
-Figurant mocap |
+Assistant animateur volume
 
-Figurante mocap |
+Assistante animatrice volume |
 
-Fournit une référence de mouvement destinée à être adaptée par les animateurs. |
-
-Infographiste 2D |
-
-Infographiste 2D |
-
-Assure la fabrication, la mise en place et le positionnement des éléments composant le plan. |
-
-Assistant animateur* |
-
-Assistante animatrice* |
+|
 
 IV |
 
-Assiste la fabrication de tout ou partie des personnages, des éléments et / ou des effets visuels numériques à animer. |
+Assiste l'animateur dans les déplacements des personnages et objets. |
 
-Opérateur capture de mouvement |
+Décorateur volume
 
-Opératrice capture de mouvement |
+Décoratrice volume |
 
-Assure l'enregistrement des données numériques liées à la capture de mouvement. |
+Chef |
 
-Opérateur retouche temps réel |
+II |
 
-Opératrice retouche temps réel |
+Encadre les équipes de décorateurs volume et conçoit les décors à l'échelle requise. Supervise leur installation sur les plateaux de tournage. |
+
+Confirmé |
+
+III B |
+
+Fabrique les décors à l'échelle requise. Assure leur installation sur les plateaux de tournage. |
+
+Assistant décorateur volume
+
+Assistante décoratrice volume |
+
+|
 
 V |
 
-Corrige et conforme les courbes de trajectoire après la capture de mouvement. |
+Assiste le décorateur dans la fabrication des décors, leur montage sur le (s) plateau (x) et leur entretien. |
 
-Intervalliste* |
+Opérateur volume
 
-Intervalliste* |
+Opératrice volume |
 
-Exécute les dessins intermédiaires selon la cadence définie par l'animateur et les dessins de l'assistant animateur. |
+Chef |
 
-Assistant infographiste 2D* |
+II |
 
-Assistante infographiste 2D* |
+Encadre les opérations de tournage sur le (s) plateau (x). |
 
-Assiste la fabrication de tout ou partie du plan. |
+Confirmé |
+
+III B |
+
+Assure les opérations de tournage sur le (s) plateau (x). |
+
+Assistant opérateur volume
+
+Assistante opératrice volume |
 
 |
 
+V |
+
+Assiste l'opérateur pour le tournage sur le (s) plateau (x). |
+
+Plasticien volume
+
+Plasticienne volume |
+
+Chef |
+
+II |
+
+Encadre une équipe de plasticien volume. Traduit par l'exécution de prototypes de personnages en volume les directions de la réalisation. Participe à la réalisation de modèles couleur. |
+
+Confirmé |
+
+III B |
+
+Assure l'exécution des éléments constituant la marionnette : modelage, sculpture, peinture, costume. Assure leur maintenance pendant le tournage. |
+
+Assistant plasticien volume
+
+Assistante plasticienne volume |
+
 |
 
-VI |
+V |
+
+Assiste le plasticien dans la fabrication des personnages en volume. |
+
+Accessoiriste volume
+
+Accessoiriste volume |
+
+Chef |
+
+III A |
+
+Encadre les équipes d'accessoiristes et conçoit l'ensemble des accessoires requis par le chef décorateur. |
+
+Confirmé |
+
+III B |
+
+Fabrique l'ensemble des accessoires requis. |
+
+Assistant accessoiriste volume
+
+Assistante accessoiriste volume |
 
 |
 
-(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
+V |
+
+Assiste l'accessoiriste dans la fabrication des accessoires, leur mise à disposition et leur entretien. |
+
+Technicien effets spéciaux volume
+
+Technicienne effets spéciaux volume |
+
+|
+
+III B |
+
+Conçoit et fabrique les systèmes mécaniques et armatures spéciales. |
+
+Mouleur volume
+
+Mouleuse volume |
+
+Chef |
+
+III A |
+
+Encadre les équipes de moulage. Supervise et prépare les moules et les versions définitives des objets et personnages dans les matériaux retenus. |
+
+Confirmé |
+
+IV |
+
+Fabrique les moules et les versions définitives des objets et personnages dans les matériaux retenus. |
+
+Assistant mouleur volume
+
+Assistante mouleuse volume |
+
+|
+
+V |
+
+Assiste le mouleur dans la préparation et la fabrication des moules et des versions définitives des objets et personnages. |
+
+Mécanicien volume
+
+Mécanicienne volume |
+
+Chef |
+
+III A |
+
+Conçoit les squelettes des marionnettes. Encadre les équipes de mécaniciens. Supervise et prépare les travaux d'articulation et de dynamique des marionnettes. |
+
+Confirmé |
+
+III B |
+
+Fabrique les squelettes des marionnettes et participe à la préparation des travaux d'articulation et de dynamique des marionnettes. |
+
+Assistant mécanicien volume
+
+Assistante mécanicienne volume |
+
+|
+
+V |
+
+Assiste le mécanicien dans la préparation et la fabrication des marionnettes. |
 
 NOTA :
 

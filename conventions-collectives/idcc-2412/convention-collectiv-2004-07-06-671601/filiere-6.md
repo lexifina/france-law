@@ -1,84 +1,108 @@
-# Article KALIARTI000018661232
+# Article filière 6
 
-FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
+Secteur |
+
+Fonction
+
+(suivi de la version féminisée) |
+
+Position |
+
+Catégorie |
+
+Définition |
+
+Tournage MOCAP |
+
+Superviseur MOCAP
+
+Superviseuse MOCAP |
 
 |
-
-CATÉGORIE
-
-|
-
-DÉFINITION DE FONCTION
-
-|
-
-Directrice décor |
 
 I |
 
-Encadre et supervise le travail artistique et technique des équipes de décorateurs sur une production ou un ensemble de productions. |
+Supervise la MOCAP, le pipeline, la préparation du tournage, le tournage, jusqu'à la livraison des données numériques traitées et intégrées en vue de finaliser l'animation. |
 
-Directrice rendu et éclairage |
+Opérateur capture de mouvement
 
-Encadre et supervise le travail artistique et technique des équipes chargées du rendu et de l'éclairage sur une production ou un ensemble de productions. |
-
-Chef décoratrice |
-
-II |
-
-Encadre une équipe de décorateurs. Traduit par l'exécution de maquettes « décor » et de décors clés les directions de la réalisation. Participe à l'élaboration des modèles couleurs. |
-
-Superviseuse rendu et éclairage |
-
-Encadre une équipe d'infographistes, veille à la continuité du rendu, de l'éclairage et à la finalisation de la composition des plans sur la production. |
+Opératrice capture de mouvement |
 
 |
-
-III A |
-
-|
-
-Décoratrice |
 
 III B |
 
-Assure l'exécution des éléments constituant un décor : couleurs, ambiances, lumières. |
+Assure l'enregistrement des données numériques liées à la capture de mouvement. |
 
-Infographiste rendu et éclairage |
+Assistant opérateur capture de mouvement
 
-Définit l'ensemble des paramètres liés au rendu (textures, couleurs) des personnages, des accessoires et des décors et assure la mise au point et la continuité de l'éclairage. Il peut assurer la finalisation de la composition du plan. |
-
-Matt painter |
-
-Produit et retouche, manuellement ou sur palette, les décors intérieurs ou extérieurs pour les intégrer à des sources visuelles originales. |
+Assistante opératrice capture de mouvement |
 
 |
-
-IV |
-
-|
-
-Assistante décoratrice* |
 
 V |
 
-Assiste la fabrication de tout ou partie des éléments à mettre en couleur. |
+Participe à l'enregistrement des données numériques liées à la capture de mouvement. |
 
-Assistante infographiste rendu et éclairage* |
+Opérateur retouche en temps réel
 
-Assiste la fabrication de tout ou partie des travaux de rendu et de mise en place de l'éclairage et de finalisation de la composition du plan. |
+Opératrice retouche en temps réel |
+
+|
+
+III B |
+
+Assure la mise en conformité des courbes de trajectoire après la capture de mouvement. |
+
+Assistant opérateur retouche en temps réel
+
+Assistante opératrice retouche en temps réel |
+
+|
+
+V |
+
+Participe à la mise en conformité des courbes de trajectoire après la capture de mouvement. |
+
+Opérateur traitement et intégration
+
+Opératrice traitement et intégration |
+
+|
+
+III B |
+
+Assure, sous la supervision du superviseur MOCAP, le traitement et l'intégration des données post-tournage. |
+
+Assistant opérateur traitement et intégration
+
+Assistante opératrice traitement et intégration |
+
+|
+
+V |
+
+Participe, sous la supervision du superviseur MOCAP, au traitement et à l'intégration des données post-tournage. |
+
+Opérateur HEADCAM
+
+Opératrice HEADCAM |
 
 |
 
 |
 
+S'assure de l'enregistrement des données liées aux HEADCAMS (prise de vue du visage des figurants MOCAP lors du tournage) |
+
+Assistant opérateur HEADCAM
+
+Assistante opératrice HEADCAM |
+
 |
 
-VI |
+V |
 
-|
-
-(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
+Participe à l'enregistrement des données liées aux HEADCAMS (prise de vue du visage des figurants MOCAP lors du tournage) |
 
 NOTA :
 

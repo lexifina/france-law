@@ -1,122 +1,260 @@
-# Article KALIARTI000018661236
+# Article filière 4
 
-FONCTION (EN ITALIQUE LA VERSION FÉMINISÉE)
+Secteur |
+
+Fonction
+
+(suivi de la version féminisée) |
+
+Position |
+
+Catégorie |
+
+Définition |
+
+Conception et fabrication des éléments |
+
+Directeur/ superviseur de modélisation
+
+Directrice/ superviseuse de modélisation |
 
 |
-
-CATÉGORIE
-
-|
-
-DÉFINITION DE FONCTION
-
-|
-
-Directeur lay-out |
-
-Directrice lay-out |
 
 I |
 
-Encadre et supervise le travail artistique et technique des équipes de lay-out sur une production ou un ensemble de productions. |
+Encadre et supervise le travail des équipes d'infographistes dans un ou plusieurs départements. Veille au suivi et à la bonne exécution des différents éléments à produire. |
 
-Chef feuille d'exposition |
+Directeur/ superviseur textures et shading
 
-Chef feuille d'exposition |
+Directrice/ superviseuse textures et shading |
 
 |
 
-Encadre et dirige l'équipe chargée de la rédaction des feuilles d'exposition. Veille à l'unité des feuilles d'exposition. |
+|
 
-Chef cadreur d'animation |
+Encadre et supervise le travail des équipes d'infographistes dans un ou plusieurs départements. Veille au suivi et à la bonne exécution des différents éléments à produire. |
 
-Chef cadreuse d'animation |
+Directeur effets dynamiques et des simulations
+
+Directrice effets dynamiques et des simulations |
+
+|
+
+|
+
+Encadre et supervise le travail des équipes d'infographistes dans un ou plusieurs départements. Veille au suivi et à la bonne exécution des différents éléments à produire. |
+
+Designer
+
+Designeuse |
+
+|
 
 II |
 
-Encadre une équipe en charge du travail de cadrage et de timing selon les intentions du story-board. |
+Décline le style d'éléments, de personnages ou de décors, en se basant sur un concept existant. |
 
-Chef lay-out |
+Sculpteur 3D
 
-Chef lay-out |
+Sculpteuse 3D |
 
-|
+Chef |
 
-Encadre une équipe sur une production. Prépare les travaux de mise en place technique et s'assure de leur cohérence avec les directives du story-board pour engager les étapes de fabrication des décors et de l'animation. Contrôle les lay-out produits par des studios tiers. |
+II |
 
-|
+Encadre une équipe de sculpteurs, de modèles d'études, de personnages ou d'objets, avec pour intention d'en définir le design. |
 
-|
-
-III A |
-
-|
-
-Cadreur d'animation |
-
-Cadreuse d'animation |
-
-|
-
-Assure la simulation, la mise en place des paramètres de mouvements de caméra avec leurs vitesses dans le respect du timing du story-board. |
-
-Animateur feuille d'exposition |
-
-Animatrice feuille d'exposition |
-
-|
-
-Décompose le rythme de l'animation sur les feuilles d'exposition. Assure et / ou vérifie le positionnement des codes-bouche. |
-
-Dessinateur lay-out |
-
-Dessinatrice lay-out |
+Confirmé |
 
 III B |
 
-Assure l'adaptation du story-board par la mise en place, plan par plan, des éléments de décor, du posing des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques. |
+Assure le modelage et la sculpture, de modèles d'études, de personnages ou d'objets, avec pour intention d'en définir le design. |
 
-Infographiste lay-out |
+Assistant sculpteur 3D
 
-Infographiste lay-out |
+Assistant sculpteuse 3D |
 
 |
-
-Assure l'adaptation du story-board par la mise en place, plan par plan et aux normes techniques 3D usitées, des décors, des personnages, des effets spéciaux, des cadrages et mouvements de caméra en veillant à valoriser les partis pris artistiques. Peut assurer le report du son et des codes-bouche du plan. |
-
-Détecteur d'animation |
-
-Détectrice d'animation |
-
-IV |
-
-Assure la détection et le report du son et des codes-bouche sur les feuilles d'exposition. |
-
-Assistant dessinateur lay-out* |
-
-Assistante dessinatrice lay-out* |
 
 V |
 
-Assure la mise au net des travaux et exécute des plans raccord. |
+Participe au modelage et à la sculpture, de modèles d'études, de personnages ou d'objets, avec pour intention d'en définir le design. |
 
-Assistant infographiste lay-out* |
+Infographiste de modélisation
 
-Assistante infographiste lay-out* |
+Infographiste de modélisation |
+
+Chef |
+
+II |
+
+Encadre une équipe d'infographistes de modélisation, ayant à charge la construction de personnages, d'éléments ou de décors. |
+
+Confirmé |
+
+III B |
+
+Assure la modélisation de personnage, d'éléments ou de décors. |
+
+Assistant infographiste modélisation
+
+Assistante infographiste modélisation |
 
 |
 
-Assiste la fabrication de tout ou partie des travaux de mise en place technique. |
+V |
+
+Participe à la modélisation de personnages, d'éléments ou de décors. |
+
+Infographiste textures et shading
+
+Infographiste textures et shading |
+
+Chef |
+
+II |
+
+Encadre une équipe d'infographistes texture et shading, ayant en charge la mise en matière et couleurs de personnages, d'éléments ou de décors. |
+
+Confirmé |
+
+III B |
+
+Assure la mise en matière et couleurs de personnages, d'éléments ou de décors. |
+
+Assistant infographiste textures et shading
+
+Assistante infographiste textures et shading |
 
 |
 
+V |
+
+Participe à la mise en matière et couleurs de personnages, d'éléments ou de décors. |
+
+Infographiste d'effets dynamiques/ simulations
+
+Infographiste d'effets dynamiques/ simulations |
+
+Chef |
+
+II |
+
+Encadre une équipe d'infographistes d'effets dynamiques/ simulation, ayant en charge la fabrication et la mise en place des différents effets dynamiques (drapés, fluides, poils, plumes, muscles …). |
+
+Confirmé |
+
+III B |
+
+Assure la fabrication et la mise en place des différents effets dynamiques (drapés, fluides, poils, plumes, muscles …). |
+
+Assistant infographiste d'effets dynamiques/ simulations
+
+Assistante infographiste d'effets dynamiques/ simulations |
+
 |
 
-VI |
+V |
+
+Participe à la fabrication et la mise en place des différents effets dynamiques (drapés, fluides, poils, plumes, muscles …). |
+
+Rendu et éclairage |
+
+Directeur/ superviseur rendu éclairage
+
+Directrice/ superviseuse rendu éclairage |
 
 |
 
-(*) On ne peut employer de salarié à cette fonction que si le poste immédiatement supérieur est occupé. |
+I |
+
+Encadre et supervise les équipes d'infographistes rendu/ éclairage. Est responsable de la partie artistique et de la mise en place technique de l'éclairage tout autant que du compositing du plan. |
+
+Infographiste rendu éclairage |
+
+|
+
+III B |
+
+Ajuste l'ensemble des paramètres liés au rendu (lumières, textures, couleurs) des personnages, des accessoires et des décors. Assure la mise au point et la continuité de l'éclairage. Il peut assurer le compositing du plan. |
+
+Assistant infographiste rendu éclairage
+
+Assistante infographiste rendu éclairage |
+
+|
+
+V |
+
+Participe à la mise en place de l'éclairage dans l'ensemble du plan ou du compositing d'un ensemble de plan. |
+
+Directeur matte painting
+
+Directrice matte painting |
+
+|
+
+I |
+
+Encadre et supervise les équipes d'infographistes matte painter. Veille au suivi et à la bonne exécution des différents éléments à produire. |
+
+Infographiste matte painter
+
+Infographiste matte painteuse |
+
+|
+
+III B |
+
+Assure la production et la retouche, manuellement ou sur palette, des décors intérieurs et extérieurs, s'intégrant dans un espace 2D ou 3D. |
+
+Assistant infographiste matte painter
+
+Assistante infographiste matte painter |
+
+|
+
+V |
+
+Participe à la production et la retouche, manuellement ou sur palette, des décors intérieurs et extérieurs. |
+
+Effets visuels numériques |
+
+Directeur des effets visuels numériques
+
+Directrice des effets visuels numériques |
+
+|
+
+I |
+
+Encadre et supervise les équipes chargées de la fabrication d'effets visuels numériques sur une production. |
+
+Infographiste des effets visuels numériques
+
+Infographiste des effets visuels numériques |
+
+Chef |
+
+II |
+
+Encadre une équipe d'infographistes des effets visuels numériques. |
+
+Confirmé |
+
+III A |
+
+Assure la fabrication d'effets visuels numériques. |
+
+Assistant infographiste des effets visuels numériques
+
+Assistante infographiste des effets visuels numériques |
+
+|
+
+V |
+
+Participe à la fabrication d'effets visuels numériques. |
 
 NOTA :
 
