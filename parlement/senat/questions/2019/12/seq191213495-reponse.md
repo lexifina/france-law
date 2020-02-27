@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213495
+
+- Question : [SEQ191213495](seq191213495.md) — Avis de résiliation d'assurance après catastrophes naturelles
+
+## Réponse
+
+*Économie et finances, JO du 2020-02-27, page 1032*
+
+En dehors de cas limitativement énumérés d'assurance obligatoire pour lesquels le Bureau central de tarification peut imposer à une entreprise d'assurance la couverture d'un risque, les sociétés intervenant sur le marché de l'assurance déterminent librement leur politique commerciale en sélectionnant les risques qu'elles acceptent de couvrir et en définissant leurs critères de tarification. Ce principe fondamental, inhérent à la liberté contractuelle, ne saurait être remis en cause. S'agissant de la multirisque habitation, le dynamisme du marché dont attestent les dernières statistiques (97 % des logements sont couverts par une multirisque habitation dont 99,9 % des résidences principales et 72,9 % des résidences secondaires et plus d'une centaine d'entreprises d'assurance opèrent sur ce secteur) devrait permettre à un assuré ayant vu son contrat résilié de trouver un nouvel assureur. En outre, la garantie contre les effets des catastrophes naturelles étant obligatoirement incluse dans tout contrat d'assurance de biens en application de l'article L. 125-2 du code des assurances, un assuré qui se verrait refuser cette garantie au sein de son contrat multirisque habitation est en droit de saisir le Bureau central de tarification qui aura pour rôle exclusif de fixer la prime moyennant laquelle l'entreprise d'assurance désignée par l'assujetti sera tenue de garantir le risque en question. Le Gouvernement partage par ailleurs la nécessité de moderniser le régime d'indemnisation des catastrophes naturelles. Un projet de réforme est en cours d'élaboration prenant en compte l'augmentation importante de la sinistralité et visant à assurer une indemnisation plus efficace, au bénéfice des assurés.
