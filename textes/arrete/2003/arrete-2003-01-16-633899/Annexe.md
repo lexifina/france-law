@@ -16,11 +16,35 @@ Chapitre Ier : Conditions générales.
 
 4. Tous les porcs doivent pouvoir accéder en permanence à une quantité suffisante de matériaux permettant des activités de recherche et de manipulation suffisantes, tels que la paille, le foin, la sciure de bois, le compost de champignons, la tourbe ou un mélange de ces matériaux, qui ne compromette pas la santé des animaux.
 
+Le type et le nombre de matériaux manipulables sont les suivants :
+
+- pour les cases contenant jusqu'à 25 porcs : au moins un matériau optimal ou un matériau sous-optimal et un matériau d'intérêt minime ;
+
+- pour les cases contenant de 26 à 40 porcs : au moins un matériau optimal, ou deux matériaux sous-optimaux ou un si plus de deux porcs peuvent accéder simultanément, et un d'intérêt minime ;
+
+- pour les cases contenant plus de 40 porcs : au moins un matériau optimal ou deux matériaux sous-optimaux et deux matériaux d'intérêt minime ou un si plus de deux porcs peuvent accéder simultanément ;
+
+- dans le cas particulier des cases contenant jusqu'à 10 porcs femelles reproductrices, des verrats en case individuelle et des cochettes et porcs femelles reproductrices en stalle individuelle : au moins un matériau optimal ou sous-optimal.
+
+Les catégories de matériaux mentionnés aux alinéas précédents sont définies dans la recommandation (UE) 2016/336 de la Commission du 8 mars 2016 sur l'application de la directive 2008/120/ CE du Conseil établissant les normes minimales relatives à la protection des porcs en ce qui concerne des mesures visant à diminuer la nécessité de l'ablation de la queue.
+
 5. Les sols doivent être lisses mais non glissants de manière que les porcs ne puissent pas se blesser et doivent être conçus, construits et entretenus de façon à ne pas causer de blessures ou de souffrances aux porcs. Ils doivent être adaptés à la taille et au poids des porcs et, en l'absence de litière, former une surface rigide, plane et stable.
 
 6. Tous les porcs doivent être nourris au moins une fois par jour. Lorsque les porcs sont nourris en groupe et ne bénéficient pas d'une alimentation ad libitum ou d'un système alimentant automatiquement les animaux individuellement, chaque porc doit avoir accès à la nourriture en même temps que les autres animaux du groupe.
 
-7. Tous les porcs âgés de plus de deux semaines doivent avoir un accès permanent à de l'eau fraîche en quantité suffisante.
+Lorsqu'un nourrisseur est utilisé, les porcs sevrés doivent disposer d'un accès d'au moins 4 cm et les porcs de production d'un accès d'au moins 6 cm minimum.
+
+Lorsqu'une auge longue est utilisée, les porcs sevrés doivent disposer d'un accès d'au moins 23 cm et les porcs de production d'un accès d'au moins 33 cm.
+
+7. Tous les porcs âgés de plus de deux semaines doivent avoir un accès permanent à de l'eau fraîche en quantité suffisante par un dispositif d'abreuvement spécifique, notamment :
+
+1° Si les porcs sont alimentés par soupe, le nombre maximum de porcelets sevrés, de porcs de production et de truies gestantes par pipette ou par bol est de 20 ;
+
+2° Si les porcs sont alimentés par une alimentation sèche :
+
+- lorsque les abreuvoirs sont constitués de bols, le nombre d'animaux par abreuvoir ne doit pas dépasser 18 porcelets sevrés ou porcs de production, 10 truies gestantes et une truie allaitante ;
+
+- lorsque les abreuvoirs sont constitués de pipettes, le nombre d'animaux par abreuvoir ne doit pas dépasser 10 porcelets sevrés ou porcs de production, 5 truies gestantes et une truie allaitante.
 
 8. Toutes les procédures destinées à intervenir à d'autres fins que thérapeutiques ou de diagnostic ou pour l'identification des porcs conformément à la législation applicable et provoquant des dommages ou la perte d'une partie sensible du corps ou une altération de la structure osseuse sont interdites, sauf dans les cas mentionnés ci-après :
 
@@ -34,7 +58,7 @@ Chapitre Ier : Conditions générales.
 
 La section partielle de la queue et la réduction des coins ne peuvent être réalisées sur une base de routine, mais uniquement lorsqu'il existe des preuves que des blessures causées aux mamelles des truies ou aux oreilles ou aux queues d'autres porcs ont eu lieu. Avant d'exécuter ces procédures, d'autres mesures doivent être prises afin de prévenir la caudophagie et d'autres vices, en tenant compte du milieu de vie et des taux de charge. Pour cette raison, les conditions d'ambiance ou les systèmes de conduite des élevages doivent être modifiés s'ils ne sont pas appropriés.
 
-Les procédures décrites ci-dessus ne sont exécutées que par un vétérinaire ou une personne formée et expérimentée pour mettre en oeuvre les techniques concernées avec les moyens appropriés et dans des conditions hygiéniques. Ces procédures doivent faire appel à des techniques de nature à réduire au minimum toute douleur ou stress pour les animaux. Si la castration ou la section partielle de la queue sont pratiquées plus de sept jours après la naissance, une anesthésie complétée par une analgésie prolongée doit être réalisée par un vétérinaire.
+Les procédures décrites ci-dessus ne sont exécutées que par un vétérinaire ou une personne formée et expérimentée pour mettre en œuvre les techniques concernées avec les moyens appropriés et dans des conditions hygiéniques. Ces procédures doivent faire appel à des techniques de nature à réduire au minimum toute douleur ou stress pour les animaux. Si la castration ou la section partielle de la queue sont pratiquées plus de sept jours après la naissance, une anesthésie complétée par une analgésie prolongée doit être réalisée par un vétérinaire.
 
 Chapitre II : Dispositions particulières relatives aux différentes catégories de porcs.
 
