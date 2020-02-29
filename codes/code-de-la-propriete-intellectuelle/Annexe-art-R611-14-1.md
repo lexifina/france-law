@@ -118,51 +118,43 @@ Agents non titulaires
 
 -autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
-Equipement, transports et logement.
+Environnement, transports et logement.
 
 Corps de fonctionnaires :
 
--ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du 20 février 1959 modifié ;
+-ingénieurs des ponts, des eaux et des forêts régis par le décret n° 2009-1106 du 10 septembre 2009 portant statut particulier du corps des ingénieurs des ponts, des eaux et des forêts ;
 
--chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
+-chargés de recherche et directeurs de recherche du développement durable régis par le décret n° 83-1260 du 30 décembre 1983 fixant les dispositions statutaires communes aux corps de fonctionnaires des établissements publics scientifiques et technologiques et le décret n° 2014-1324 du 4 novembre 2014 portant statuts particuliers du corps des chargés de recherche du développement durable et du corps des directeurs de recherche du développement durable ;
 
--ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
+-ingénieurs des travaux publics de l'Etat régis par le décret n° 2005-631 du 30 mai 2005 portant statut particulier du corps des ingénieurs des travaux publics de l'Etat ;
 
--ingénieurs géographes régis par le décret n° 65-793 du 16 septembre 1965, modifié par le décret n° 90-160 du 16 février 1990 ;
+-ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 relatif au statut particulier des ingénieurs des travaux géographiques et cartographiques de l'Etat ;
 
--ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
+-ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 relatif au statut particulier des ingénieurs des travaux de la météorologie ;
 
--ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+-ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-917 du 8 novembre 1971 relatif au statut particulier du corps des ingénieurs des études et de l'exploitation de l'aviation civile ;
 
--ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
+-ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 portant statut du corps des ingénieurs du contrôle de la navigation aérienne ;
 
--ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
+-ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991 portant statut du corps des ingénieurs électroniciens des systèmes de la sécurité aérienne ;
 
--ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par le décret n° 94-278 du 11 avril 1994 ;
-
--ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
-
--ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
+-techniciens supérieurs du développement durable régis par le décret n° 2012-1064 du 18 septembre 2012 portant statut particulier du corps des techniciens supérieurs du développement durable.
 
 Agents non titulaires :
 
--personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
+Personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
 
--décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
+-règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement mentionné à l'article 127 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005 ;
 
--règlement du 14 mai 1973 régissant les personnels non titulaires du Université Gustave Eiffel et des centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
+-décision du 18 mars 1992 instituant le règlement intérieur national des agents du niveau de la catégorie A du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat ;
 
--règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
+-arrêté du 7 septembre 2006 portant règlement relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes, régis par le décret n° 86-83 du 17 janvier 1986 ;
 
--arrêté du 10 juillet 1968 relatif aux conditions de recrutement et de rémunération des personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes, modifié par l'arrêté du 27 mars 1973 relatif au même objet ;
+-autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
--décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n° 75-1355 du 18 décembre 1975 relatifs au même objet ;
+Autres personnels :
 
--décret n° 48-1018 du 16 juin 1948 modifié fixant le statut des agents sur contrat du ministère des travaux publics, des transports et du tourisme ;
-
--règlement intérieur du 4 juin 1970 relatif aux personnels non titulaires employés par la direction régionale de l'équipement de l'Ile-de-France.
-
--autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+-ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes régis par le décret n° 65-382 du 21 mai 1965 relatif aux ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes admis au bénéfice de la loi du 21 mars 1928, relevant des classifications techniciens.
 
 Défense.
 
