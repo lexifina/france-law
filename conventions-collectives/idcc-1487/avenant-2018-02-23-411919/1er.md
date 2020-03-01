@@ -1,0 +1,55 @@
+# Article 1er
+
+Le régime des congés payés établi en vertu des dispositions légales applicables au jour de la signature du présent avenant, est complété par les dispositions suivantes :
+
+a) La durée des congés est fixée à raison de 2 jours et demi ouvrables par mois de travail effectif.
+
+b) Les congés ci-dessus sont augmentés :
+
+– de 1 jour ouvrable pour les salariés ayant 10 ans d'ancienneté ;
+
+– 2 jours ouvrables pour les salariés ayant 15 ans d'ancienneté ;
+
+– 3 jours ouvrables pour les salariés ayant 20 ans d'ancienneté.
+
+Quelle que soit leur ancienneté dans l'entreprise, les jeunes travailleurs et apprentis âgés de moins de 21 ans au 30 avril de l'année précédente peuvent bénéficier quelle que soit leur ancienneté dans l'entreprise, s'ils le demandent, d'un congé de 30 jours ouvrables même s'ils n'ont pas acquis la totalité de ces jours. Si leur temps de présence dans l'entreprise leur donne droit à un congé payé inférieur à celui auquel ils peuvent prétendre du fait de l'application de l'alinéa précédent, les jours restant dus ne donnent pas lieu à indemnité.
+
+Les salariés ou apprentis âgés de moins de 21 ans au 30 avril de l'année précédente bénéficient de 2 jours ouvrables de congé supplémentaire par enfant à charge. Le congé supplémentaire est réduit à 1 jour si le congé légal n'excède pas 6 jours. Est réputé enfant à charge, l'enfant qui vit au foyer et est âgé de moins de 15 ans au 30 avril de l'année en cours et tout enfant sans condition d'âge dès lors qu'il vit au foyer et qu'il est en situation de handicap.
+
+La date à retenir pour le calcul du temps de présence est fixée au 1er juin de l'année au cours de laquelle les vacances sont à prendre.
+
+La période normale des congés annuels est fixée en principe du 1er mai au 31 octobre.
+
+En cas de fractionnement du congé annuel principal en dehors de la période du 1er mai au 31 octobre, pour une durée au moins égale à 6 jours, le salarié bénéficie de 2 jours ouvrables de congés supplémentaires. Il bénéficie de 1 jour de congé supplémentaire lorsque cette fraction est comprise entre 3 et 5 jours de congés.
+
+Un mois avant le début de la période normale des congés payés, la liste des congés est établie et portée à la connaissance des intéressés par voie d'affichage dans l'entreprise.
+
+Sauf en cas de circonstances exceptionnelles, l'ordre et les dates de départ fixés par l'employeur ne peuvent être modifiés dans un délai de 1 mois avant la date prévue du départ.
+
+Conformément aux dispositions du code du travail en vigueur, les salariés mariés et les salariés pacsés travaillant dans une même entreprise ont droit à un congé simultané.
+
+Les salariés dont les enfants fréquentent un établissement scolaire bénéficieront du congé annuel principal pendant la période des vacances scolaires d'été.
+
+Le rappel d'un salarié en congé ne peut avoir lieu que dans des circonstances exceptionnelles et sérieusement motivées. Le salarié rappelé a droit à 2 jours ouvrables de congés supplémentaires en sus du congé restant à courir non compris les délais de route. Les frais de voyage occasionnés par ce rappel seront intégralement remboursés.
+
+Les absences provoquées notamment par la fréquentation obligatoire de cours professionnels, les autorisations d'absence pour événements familiaux, les stages de formation économique, sociale et syndicale, les stages de formation professionnelle continue, ne peuvent entraîner une réduction des congés annuels tant en ce qui concerne leur durée que le montant de l'indemnité correspondante.
+
+L'indemnité de congés payés est réglée conformément aux dispositions du code du travail.
+
+Le salarié empêché, du fait d'une maladie, d'un accident du travail ou d'une maladie professionnelle de prendre ses congés à la date prévue pour son départ peut, s'il reprend son travail après le 31 octobre et en accord avec l'employeur
+
+(2)
+
+:
+
+– soit prendre effectivement ses congés ;
+
+– soit percevoir une indemnité compensatrice correspondant aux congés non pris.
+
+(1) Article étendu sous réserve de la primauté de l'accord d'entreprise sur l'accord de branche en matière de période de prise en congés, d'ordre des départs, de délais à respecter pour modifier l'ordre des départs, de règles de fractionnement, et de majoration des congés posée par les articles L. 3141-10, L. 3141-15, et L. 3141-21 du code du travail.
+
+(Arrêté du 17 février 2020 - art. 1)
+
+(2) Alinéa étendu sous réserve que les salariés empêchés par une maladie, un accident du travail ou une maladie professionnelle de prendre leurs congés à la date prévue, puissent bénéficier de leurs congés non pris, qu'ils reprennent le travail avant ou après la date du 31 octobre, conformément à l'article L. 3141-1 du code du travail qui garantit le droit au congé payé chaque année à l'ensemble des salariés.
+
+(Arrêté du 17 février 2020 - art. 1)
