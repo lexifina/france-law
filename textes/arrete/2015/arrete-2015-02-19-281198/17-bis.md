@@ -1,7 +1,17 @@
 # Article 17 bis
 
-La catégorie de prestations mentionnée au 7° de l'article R. 162-33-1 du code de la sécurité sociale donnant lieu à une prise en charge par les régimes obligatoires de sécurité sociale est couverte par un forfait dénommé “ prestation intermédiaire ” (FPI).
+I.-Le cumul d'un des forfaits mentionnés aux 1° et 3° de l'article 1er avec l'un des forfaits SE, pour un même patient, le même jour, n'est autorisé que sous réserve du respect des conditions suivantes :
 
-Ce forfait est facturé pour chaque consultation pluridisciplinaire et/ ou pluriprofessionnelle nécessitant l'intervention d'au moins un professionnel médical et d'au moins deux autres professionnels médicaux, paramédicaux ou socio-éducatifs et donnant lieu à réalisation d'une synthèse médicale, dès lors que la prise en charge correspond à l'une des affections mentionnées à l'annexe 18 du présent arrêté.
+1° Les prestations donnant lieu à la facturation des forfaits SE sont réalisées antérieurement ou consécutivement à l'admission ou à la clôture du séjour d'hospitalisation ayant justifié la production d'un des forfaits mentionnés aux 1° et 3° de l'article 1er ;
 
-La facturation de ce forfait ne peut être cumulée avec celle d'aucun autre forfait mentionné à l'article R. 162-33-1 du code de la sécurité sociale, à l'exception des forfaits mentionnés aux 5° et 6° du même article et à l'article 9 du présent arrêté.
+2° Le motif d'hospitalisation doit être distinct de celui justifiant la réalisation des prestations donnant lieu à la facturation des forfaits SE.
+
+Si l'une de ces deux conditions n'est pas respectée, seule la facturation d'un des forfaits mentionnés aux 1° et 3° de l'article 1er est autorisée.
+
+II.-Le cumul d'un forfait mentionné au 1° de l'article 1er avec un forfait mentionné au 3° du même article, pour un même patient, le même jour, n'est autorisé que sous réserve du respect des conditions suivantes :
+
+1° Les prestations donnant lieu à la facturation du forfait mentionné au 3° de l'article 1er sont réalisées antérieurement ou consécutivement à l'admission ou à la clôture du séjour d'hospitalisation ayant justifié la production du forfait mentionné au 1° du même article
+
+2° Le motif d'hospitalisation justifiant la facturation du forfait mentionné au 3° de l'article 1er doit être distinct de celui justifiant la facturation du forfait mentionné au 1° du même article.
+
+Si l'une de ces deux conditions n'est pas respectée, seule la facturation du forfait mentionné au 1° de l'article 1er est autorisée.
