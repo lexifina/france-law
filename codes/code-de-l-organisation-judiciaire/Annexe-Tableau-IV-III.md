@@ -36,9 +36,13 @@ Basse-Terre |
 
 Saint-Martin |
 
-1° Sous réserve du 2°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
+1° Sous réserve des 2° et 3°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ; 2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
 
-2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité. |
+2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
+
+3° Fonctions relevant de la compétence du juge des libertés et de la détention.
+
+|
 
 Besançon |
 
@@ -146,4 +150,4 @@ Guingamp |
 
 NOTA :
 
-Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+Conformément aux dispositions de l'article 2 du décret n° 2020-166 du 26 février 2020, ces dispositions sont applicables aux saisines du juge des libertés et de la détention introduites à compter du 1er mars 2020.
