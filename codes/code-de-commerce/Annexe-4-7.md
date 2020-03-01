@@ -60,7 +60,7 @@ Formalités |
 
 Expéditions |
 
-Expédition ou extrait du procès-verbal prévu à l'article R. 444-50 |
+Expédition ou extrait du procès-verbal prévu à l'article R. 444-47 |
 
 9 |
 
@@ -1438,7 +1438,7 @@ Sommation de prendre communication du cahier des charges, prévue à l'article 1
 
 Successions |
 
-Sommation de prendre parti, prévu à l'article 771 du code civil |
+Sommation de prendre parti, prévu à l'article 789 du code civil |
 
 92 |
 
@@ -2653,6 +2653,10 @@ Résiliation ou résolution de vente |
 53 |
 
 Transfert de propriété ou de jouissance entre collectivités territoriales et/ ou établissements publics |
+
+53-1 |
+
+Transfert de propriété à titre gratuit des biens mobiliers et immobiliers mentionnés à l'article L. 719-14 du code de l'éducation |
 
 54 |
 
@@ -4239,7 +4243,3 @@ Incidents |
 Incidents |
 
 Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution) |
-
-NOTA :
-
-Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur le 1er janvier 2020 et sont applicable aux instances en cours.
