@@ -118,7 +118,7 @@ Eléments attendus :
 
 - Transparence des informations sur l'offre de formation (site web, livret étudiant, affichages, réunions lors de périodes charnières du cursus).
 
-Avis du recteur sur la capacité de l'établissement à mettre en œuvre le cursus conduisant au diplôme : |
+Avis d'un binôme associant un enseignant-chercheur et un professionnel des métiers d'art et du design sur la capacité de l'établissement à mettre en œuvre le cursus conduisant au diplôme : |
 
 L'avis doit intégrer la position de la région (responsable du CPRDFOP) et de la commission académique des formations post-bac (CAFPB) |
 
