@@ -1,584 +1,188 @@
-# Article ANNEXE
+# Article ANNEXE 1
 
-A.-Administration générale
+A.-ADMINISTRATION GÉNÉRALE
 
 FONCTION PUBLIQUE TERRITORIALE
 
-Cadres d'emplois et grades concernés
-
-|
+Cadres d'emplois |
 
 FONCTION PUBLIQUE DE L'ÉTAT
 
-Corps et grades équivalents
-
-|
+Corps équivalents |
 
 Administrateurs territoriaux. |
 
 Administrateurs civils. |
 
-Attachés territoriaux : |
+Attachés territoriaux. |
 
-|
-
-|
-
-Directeurs de préfecture : |
-
-Directeur territorial. |
-
-Directeur de préfecture. |
-
-|
-
-Attachés d'administration de l'intérieur et de l'outre-mer (préfectures) : |
-
-Attaché principal. |
-
-Attaché principal. |
-
-Attaché. |
-
-Attaché. |
-
-Secrétaire de mairie : |
-
-Attachés d'administration de l'intérieur et de l'outre-mer (préfectures) : |
+Attachés d'administration de l'Etat (services déconcentrés). |
 
 Secrétaire de mairie. |
 
-Attaché. |
+Attachés d'administration de l'Etat (services déconcentrés). |
 
-Rédacteurs territoriaux : |
+Rédacteurs territoriaux. |
 
-Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) : |
+Secrétaires administratifs des administrations de l'Etat (services déconcentrés). |
 
-Rédacteur-chef. |
+Adjoints administratifs territoriaux. |
 
-Secrétaire administratif de classe exceptionnelle. |
+Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
 
-Rédacteur principal. |
-
-Secrétaire administratif de classe supérieure. |
-
-Rédacteur. |
-
-Secrétaire administratif de classe normale. |
-
-Adjoints administratifs territoriaux : |
-
-Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : |
-
-Adjoint administratif principal de 1re classe. |
-
-Adjoint administratif principal de 1re classe. |
-
-Adjoint administratif principal de 2e classe. |
-
-Adjoint administratif principal de 2e classe. |
-
-Adjoint administratif de 1re classe. |
-
-Adjoint administratif de 1re classe. |
-
-Adjoint administratif de 2e classe. |
-
-Adjoint administratif de 2e classe. |
-
-B.-Fonctions techniques
+B.-FONCTIONS TECHNIQUES
 
 FONCTION PUBLIQUE TERRITORIALE
 
-Cadres d'emplois et grades concernés
-
-|
+Cadres d'emplois |
 
 FONCTION PUBLIQUE DE L'ÉTAT
 
-Corps et grades équivalents
+Corps équivalents |
 
-|
+Ingénieurs en chefs territoriaux. |
 
-Ingénieurs territoriaux |
+Ingénieurs des ponts, des eaux et des forêts. |
 
-Ingénieurs des ponts, des eaux et des forêts |
+Ingénieurs territoriaux. |
 
-Ingénieur en chef de classe exceptionnelle |
+Ingénieurs des travaux publics de l'Etat. |
 
-Ingénieur en chef |
+Techniciens territoriaux. |
 
-Ingénieur en chef de classe normale |
+Techniciens supérieurs du développement durable. |
 
-Ingénieur |
+Agents de maîtrise territoriaux. |
 
-|
+Adjoints techniques des administrations de l'Etat (services déconcentrés). |
 
-Ingénieurs des TPE |
+Adjoints techniques territoriaux. |
 
-Ingénieur principal |
+Adjoints techniques des administrations de l'Etat (services déconcentrés). |
 
-Ingénieur divisionnaire des TPE |
+Adjoints techniques territoriaux des établissements d'enseignement. |
 
-Ingénieur |
+Adjoints techniques des établissements d'enseignement. |
 
-Ingénieur des TPE |
-
-Techniciens territoriaux |
-
-Techniciens supérieurs du développement durable |
-
-Technicien principal de 1re classe |
-
-Technicien supérieur en chef |
-
-|
-
-Techniciens supérieur du développement durable |
-
-Technicien principal de 2e classe |
-
-Technicien supérieur principal du développement durable |
-
-Technicien |
-
-Techniciens supérieur du développement durable |
-
-Jusqu'au 31 décembre 2007 |
-
-|
-
-Agents de maîtrise territoriaux |
-
-Maîtres ouvriers des administrations de l'Etat (préfectures) |
-
-Agent de maîtrise principal |
-
-Maître ouvrier principal |
-
-Agent de maîtrise |
-
-Maître ouvrier |
-
-A compter du 1er janvier 2008 |
-
-|
-
-Agents de maîtrise territoriaux |
-
-Adjoints techniques du ministère de l'intérieur
-
-et du ministère de l'outre-mer (préfecture)
-
-|
-
-Agent de maîtrise principal |
-
-Adjoint technique principal de 1re classe |
-
-Agent de maîtrise |
-
-Adjoint technique principal de 2e classe |
-
-Jusqu'au 31 décembre 2007 |
-
-|
-
-Adjoints techniques territoriaux |
-
-Ouvriers professionnels et maîtres ouvriers des administrations
-
-de l'Etat (préfectures)
-
-|
-
-Adjoint technique principal de 1re classe |
-
-Maître ouvrier principal |
-
-Adjoint technique principal de 2e classe |
-
-Maître ouvrier |
-
-Adjoint technique de 1re classe |
-
-Ouvrier professionnel principal |
-
-Adjoint technique de 2e classe |
-
-Ouvrier professionnel |
-
-A compter du 1er janvier 2008 |
-
-|
-
-Adjoints techniques territoriaux |
-
-Adjoints techniques du ministère de l'intérieur
-
-et du ministère de l'outre-mer (préfectures)
-
-|
-
-Adjoint technique principal de 1re classe |
-
-Adjoint technique principal de 1re classe |
-
-Adjoint technique principal de 2e classe |
-
-Adjoint technique principal de 2e classe |
-
-Adjoint technique de 1re classe |
-
-Adjoint technique de 1re classe |
-
-Adjoint technique de 2e classe |
-
-Adjoint technique de 2e classe |
-
-Adjoints techniques territoriaux des établissements d'enseignement |
-
-Adjoints techniques des établissements d'enseignement
-
-(éducation nationale)
-
-|
-
-Adjoint technique principal de 1re classe |
-
-Adjoint technique principal de 1re classe |
-
-Adjoint technique principal de 2e classe |
-
-Adjoint technique principal de 2e classe |
-
-Adjoint technique de 1re classe |
-
-Adjoint technique de 1re classe |
-
-Adjoint technique de 2e classe |
-
-Adjoint technique de 2e classe |
-
-C.-Fonctions médico-sociales
+C.-FONCTIONS MÉDICO-SOCIALES
 
 FONCTION PUBLIQUE TERRITORIALE
 
-Cadres d'emplois et grades concernés
-
-|
+Cadres d'emplois |
 
 FONCTION PUBLIQUE DE L'ÉTAT
 
-Corps et grades équivalents
-
-|
+Corps équivalents |
 
 Conseillers territoriaux socio-éducatifs. |
 
-Conseillers techniques de service social. |
+Conseillers techniques de service social des administrations de l'Etat (services déconcentrés). |
 
-Assistants territoriaux socio-éducatifs : |
+Assistants territoriaux socio-éducatifs. |
 
-Assistants de service social des administrations de l'Etat (préfecture) : |
+Assistants de service social des administrations de l'Etat (services déconcentrés). |
 
-Assistant socio-éducatif principal. |
+Educateurs territoriaux de jeunes enfants. |
 
-Assistant de service social principal. |
+Educateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles. |
 
-Assistant socio-éducatif. |
-
-Assistant de service social. |
-
-Educateurs territoriaux de jeunes enfants : |
-
-Educateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles : |
-
-Educateur-chef de jeunes enfants. |
-
-Educateur spécialisé de 1re classe. |
-
-Educateur principal de jeunes enfants. |
-
-Educateur spécialisé de 2e classe. |
-
-Educateur de jeunes enfants. |
-
-Educateur spécialisé de 2e classe. |
-
-Moniteurs-éducateurs territoriaux. |
+Moniteurs-éducateurs et intervenants familiaux territoriaux. |
 
 Moniteurs-éducateurs des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles. |
 
-Agents sociaux territoriaux : |
+Agents sociaux territoriaux. |
 
-Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : |
+Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
 
-Agent social principal de 1re classe. |
+Agents territoriaux spécialisés des écoles maternelles. |
 
-Adjoint administratif principal de 1re classe. |
+Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
 
-Agent social principal de 2e classe. |
+Médecins territoriaux. |
 
-Adjoint administratif principal de 2e classe. |
-
-Agent social de 1re classe. |
-
-Adjoint administratif de 1re classe. |
-
-Agent social de 2e classe. |
-
-Adjoint administratif de 2e classe. |
-
-Agents territoriaux spécialisés des écoles maternelles : |
-
-Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : |
-
-Agent spécialisé principal de 1re classe. |
-
-Adjoint administratif principal de 1re classe. |
-
-Agent spécialisé principal de 2e classe. |
-
-Adjoint administratif principal de 2e classe. |
-
-Agent spécialisé de 1re classe. |
-
-Adjoint administratif de 1re classe. |
-
-Médecins territoriaux : |
-
-Médecins inspecteurs de santé publique : |
-
-Médecin hors classe. |
-
-Médecin général. |
-
-Médecin de 1re classe. |
-
-Médecin inspecteur en chef. |
-
-Médecin de 2e classe. |
-
-Médecin inspecteur. |
+Médecins inspecteurs de santé publique. |
 
 Psychologues territoriaux. |
 
 Psychologues des services déconcentrés de la protection judiciaire de la jeunesse. |
 
-Sages-femmes territoriales : |
+Sages-femmes territoriales. |
 
-Cadres de santé civils du ministère de la défense : |
+Cadres de santé paramédicaux civils du ministère de la défense. |
 
-Sage-femme de classe exceptionnelle. |
+Puéricultrices cadres territoriaux de santé. |
 
-Cadre supérieur de santé. |
+Cadres de santé paramédicaux civils du ministère de la défense. |
 
-Sage-femme de classe supérieure. |
+Cadres territoriaux de santé infirmiers et techniciens paramédicaux. |
 
-Cadre de santé. |
+Cadres de santé paramédicaux civils du ministère de la défense. |
 
-Sage-femme de classe normale. |
+Cadres territoriaux de santé paramédicaux. |
 
-Cadre de santé. |
+Cadres de santé paramédicaux civils du ministère de la défense. |
 
-Puéricultrices cadres territoriaux de santé : |
+Puéricultrices territoriales. |
 
-Cadres de santé civils du ministère de la défense : |
+Infirmiers civils de soins généraux et spécialisés du ministère de la défense. |
 
-Puéricultrice cadre supérieur de santé. |
+Infirmiers territoriaux en soins généraux. |
 
-Cadre supérieur de santé. |
+Infirmiers civils de soins généraux et spécialisés du ministère de la défense. |
 
-Puéricultrice cadre de santé. |
+Infirmiers territoriaux. |
 
-Cadre de santé. |
-
-Cadres de santé infirmiers, rééducateurs et assistants médico-techniques : |
-
-Cadres de santé civils du ministère de la défense : |
-
-Cadre de santé. |
-
-Cadre de santé. |
-
-Puéricultrices territoriales : |
-
-Infirmiers civils de soins généraux du ministère de la défense : |
-
-Puéricultrice de classe supérieure. |
-
-Infirmier de classe supérieure. |
-
-Puéricultrice de classe normale. |
-
-Infirmier de classe normale. |
-
-Infirmiers territoriaux : |
-
-Infirmiers civils de soins généraux du ministère de la défense : |
-
-Infirmier de classe supérieure. |
-
-Infirmier de classe supérieure. |
-
-Infirmier de classe normale. |
-
-Infirmier de classe normale. |
-
-Rééducateurs territoriaux : |
-
-Techniciens paramédicaux civils du ministère de la défense : |
-
-Rééducateur de classe supérieure. |
-
-Technicien de classe supérieure. |
-
-Rééducateur de classe normale. |
-
-Technicien de classe normale. |
+Infirmiers civils de soins généraux et spécialisés du ministère de la défense. |
 
 Auxiliaires de puériculture territoriaux. |
 
-Aides-soignants de l'Institution nationale des invalides. |
+Aides-soignants et agents des services hospitaliers qualifiés civils du ministère de la défense. |
 
 Auxiliaires de soins territoriaux. |
 
-Aides-soignants de l'Institution nationale des invalides. |
+Aides-soignants et agents des services hospitaliers qualifiés civils du ministère de la défense. |
 
-Biologistes, vétérinaires et pharmaciens territoriaux : |
+Biologistes, vétérinaires et pharmaciens territoriaux. |
 
-Inspecteurs de santé publique vétérinaires : |
+Inspecteurs de santé publique vétérinaires. |
 
-Biologiste, vétérinaire, pharmacien de classe exceptionnelle. |
+Techniciens paramédicaux territoriaux. |
 
-Inspecteur en chef de santé publique vétérinaire. |
+Techniciens paramédicaux civils du ministère de la défense. |
 
-Biologiste, vétérinaire et pharmacien hors classe. |
-
-Inspecteur en chef de santé publique vétérinaire. |
-
-Biologiste, vétérinaire et pharmacien de 1re classe. |
-
-Inspecteur de santé publique vétérinaire. |
-
-Biologiste, vétérinaire et pharmacien de 2e classe. |
-
-Inspecteur de santé publique vétérinaire. |
-
-Assistants territoriaux médico-techniques : |
-
-Techniciens supérieurs des services du ministère chargé de l'agriculture (direction départementale des services vétérinaires) : |
-
-Assistant médico-technique de classe supérieure. |
-
-Chef technicien. |
-
-Assistant médico-technique de classe normale. |
-
-Technicien principal. |
-
-D.-Fonctions culturelles
+D.-FONCTIONS CULTURELLES
 
 FONCTION PUBLIQUE TERRITORIALE
 
-Cadres d'emplois et grades concernés
-
-|
+Cadres d'emplois |
 
 FONCTION PUBLIQUE DE L'ÉTAT
 
-Corps et grades équivalents
+Corps équivalents |
 
-|
+Conservateurs territoriaux du patrimoine. |
 
-Conservateurs territoriaux du patrimoine : |
+Conservateurs du patrimoine. |
 
-Conservateurs du patrimoine : |
+Conservateurs territoriaux de bibliothèques. |
 
-Conservateur en chef. |
+Conservateurs de bibliothèques. |
 
-Conservateur en chef. |
-
-Conservateur.
-
-|
-
-Conservateur.
-
-|
-
-Conservateurs territoriaux de bibliothèques : |
-
-Conservateurs de bibliothèques : |
-
-Conservateur en chef. |
-
-Conservateur en chef. |
-
-Conservateur de 1re classe. |
-
-Conservateur de 1re classe. |
-
-Conservateur de 2e classe. |
-
-Conservateur de 2e classe. |
-
-Attachés territoriaux de conservation du patrimoine et bibliothécaires territoriaux. |
+Attachés territoriaux de conservation du patrimoine. |
 
 Bibliothécaires. |
 
-Assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques : |
+Bibliothécaires territoriaux. |
 
-Bibliothécaires adjoints spécialisés : |
+Bibliothécaires. |
 
-Assistant qualifié de conservation hors classe. |
+Assistants territoriaux de conservation du patrimoine et des bibliothèques. |
 
-Bibliothécaire adjoint spécialisé hors classe. |
+Bibliothécaires assistants spécialisés. |
 
-Assistant qualifié de conservation de 1re classe. |
+Adjoints territoriaux du patrimoine. |
 
-Bibliothécaire adjoint spécialisé de 1re classe. |
-
-Assistant qualifié de conservation de 2e classe. |
-
-Bibliothécaire adjoint spécialisé de 2e classe. |
-
-Assistants territoriaux de conservation du patrimoine et des bibliothèques : |
-
-Assistants des bibliothèques : |
-
-Assistant de conservation hors classe. |
-
-Assistant des bibliothèques de classe exceptionnelle. |
-
-Assistant de conservation de 1re classe. |
-
-Assistant des bibliothèques de classe supérieure. |
-
-Assistant de conservation de 2e classe. |
-
-Assistant des bibliothèques de classe normale. |
-
-Adjoints territoriaux du patrimoine : |
-
-Adjoints techniques d'accueil, de surveillance et de magasinage du ministère de la culture : |
-
-Adjoint du patrimoine principal de 1re classe. |
-
-Adjoint technique principal de 1re classe. |
-
-Adjoint du patrimoine principal de 2e classe. |
-
-Adjoint technique principal de 2e classe. |
-
-Adjoint du patrimoine de 1re classe. |
-
-Adjoint technique de 1re classe. |
-
-Adjoint du patrimoine de 2e classe. |
-
-Adjoint technique de 2e classe. |
+Adjoints techniques d'accueil, de surveillance et de magasinage du ministère de la culture. |
 
 Directeurs d'établissements territoriaux d'enseignement artistique. |
 
@@ -588,122 +192,46 @@ Professeurs territoriaux d'enseignement artistique. |
 
 Professeurs certifiés. |
 
-Assistants territoriaux spécialisés d'enseignement artistique. |
-
-Professeurs certifiés. |
-
 Assistants territoriaux d'enseignement artistique. |
 
 Professeurs certifiés. |
 
-E.-Fonctions sportives
+E.-FONCTIONS SPORTIVES
 
 FONCTION PUBLIQUE TERRITORIALE
 
-Cadres d'emplois et grades concernés
-
-|
+Cadres d'emplois |
 
 FONCTION PUBLIQUE DE L'ÉTAT
 
-Corps et grades équivalents
+Corps équivalents |
 
-|
+Conseillers territoriaux des activités physiques et sportives. |
 
-Conseillers territoriaux des activités physiques et sportives : |
+Conseillers d'éducation populaire et de jeunesse. |
 
-Conseillers d'éducation populaire et de jeunesse : |
+Educateurs territoriaux des activités physiques et sportives. |
 
-Conseiller principal. |
+Secrétaires administratifs des administrations de l'Etat (services déconcentrés). |
 
-Conseiller d'éducation populaire et de jeunesse hors classe. |
+Opérateurs territoriaux des activités physiques et sportives. |
 
-Conseiller. |
+Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
 
-Conseiller d'éducation populaire et de jeunesse de classe normale. |
-
-Educateurs territoriaux des activités physiques et sportives : |
-
-Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) : |
-
-Educateur hors classe. |
-
-Secrétaire administratif de classe exceptionnelle. |
-
-Educateur de 1re classe. |
-
-Secrétaire administratif de classe supérieure. |
-
-Educateur de 2e classe. |
-
-Secrétaire administratif de classe normale. |
-
-Opérateurs territoriaux des activités physiques et sportives : |
-
-Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : |
-
-Opérateur principal. |
-
-Adjoint administratif principal de 1re classe. |
-
-Opérateur qualifié. |
-
-Adjoint administratif principal de 2e classe. |
-
-Opérateur. |
-
-Adjoint administratif de 1re classe. |
-
-Aide opérateur. |
-
-Adjoint administratif de 2e classe. |
-
-F.-Animation
+F.-ANIMATION
 
 FONCTION PUBLIQUE TERRITORIALE
 
-Cadres d'emplois et grades concernés
-
-|
+Cadres d'emplois |
 
 FONCTION PUBLIQUE DE L'ÉTAT
 
-Corps et grades équivalents
+Corps équivalents |
 
-|
+Animateurs territoriaux. |
 
-Animateurs territoriaux : |
+Secrétaires administratifs des administrations de l'Etat (services déconcentrés). |
 
-Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) : |
+Adjoints territoriaux d'animation. |
 
-Animateur-chef. |
-
-Secrétaire administratif de classe exceptionnelle. |
-
-Animateur principal. |
-
-Secrétaire administratif de classe supérieure. |
-
-Animateur. |
-
-Secrétaire administratif de classe normale. |
-
-Adjoints territoriaux d'animation : |
-
-Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : |
-
-Adjoint d'animation principal de 1re classe. |
-
-Adjoint administratif principal de 1re classe. |
-
-Adjoint d'animation principal de 2e classe. |
-
-Adjoint administratif principal de 2e classe. |
-
-Adjoint d'animation de 1re classe. |
-
-Adjoint administratif de 1re classe. |
-
-Adjoint d'animation de 2e classe. |
-
-Adjoint administratif de 2e classe. |
+Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
