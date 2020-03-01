@@ -2,441 +2,181 @@
 
 CONDITIONS TECHNIQUES DE DÉROULEMENT DE L'EXAMEN
 
-Conformément au dernier alinéa du II de l'article 1er, la présente annexe définit les moyens nécessaires à l'organisation des épreuves de l'examen du permis de conduire des catégories A1, A2 et A. Elle donne les instructions générales pour leur déroulement et détaille les conditions d'évaluation des candidats fixées dans l'arrêté auquel elle se rapporte.
+Conformément au dernier alinéa du II de l'article 1er, la présente annexe définit les moyens nécessaires à l'organisation des épreuves de l'examen du permis de conduire des catégories A1 et A2. Elle donne les instructions générales pour leur déroulement et détaille les conditions d'évaluation des candidats fixées dans l'arrêté auquel elle se rapporte.
 
-I. - Moyens
+I. - L'épreuve hors circulation
 
-I-1. - Terrain
+I-1. Moyens
 
-Les dimensions minimales de l'aire de maniabilité sont de 130 mètres de long sur 6 mètres de large. Il est toutefois possible de réduire la longueur de quelques mètres si un terrain contigu permet l'installation de tous les exercices. L'aire de maniabilité doit présenter l'aspect d'un sol plat et horizontal, être asphaltée ou cimentée, ne pas comporter d'obstacle dangereux, en particulier aux extrémités et être exempte de gravillons susceptibles d'entraîner un dérapage.
+a) Terrain :
 
-Le tracé figurant sur le schéma joint (pièce n° 1) permet la représentation de tous les exercices.
+Les dimensions minimales de l'aire de maniabilité sont de 130 mètres de long sur 6 mètres de large. L'aire de maniabilité doit présenter l'aspect d'un sol plat et horizontal, être asphaltée ou cimentée, ne pas comporter d'obstacle dangereux, en particulier aux extrémités et être exempte de gravillons susceptibles d'entraîner un dérapage.
 
-I-2. - Matériel et documents d'examen
+Le tracé figurant sur le schéma joint (pièce n° 1) permet la représentation de toutes les manœuvres.
+
+Vous pouvez consulter l'image de la pièce n° 1 à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
+
+b) Matériel et documents d'examen :
 
 L'ensemble fourni par l'administration comprend :
 
-Vingt-trois cônes de lubeck d'une embase de 15 × 15 cm et d'une hauteur de 20 cm ;
+Vingt-quatre cônes de lubeck d'une embase de 15 × 15 cm et d'une hauteur de 20 cm, dont 5 cônes de couleur bleue ;
 
-Quatre piquets d'une hauteur de 1,2 m montés sur socles métalliques ;
-
-Une mallette radio comprenant deux émetteurs-récepteurs, un écouteur type oreillette, un chargeur et un baudrier ;
+Quatre piquets d'une hauteur de 1,2 m montés sur socles métalliques et recouverts d'une protection ;
 
 Un coffret contenant un cinémomètre ;
 
 Un chronomètre ;
 
-Quatre jeux de fiches : trois concernant les épreuves de maniabilité et un concernant l'interrogation orale.
+Deux jeux de fiches pour les six manœuvres de maniabilité.
 
-II. - Déroulement
+I-2. - Déroulement
 
 L'épreuve hors circulation a lieu sur l'aire de maniabilité et doit s'effectuer selon la chronologie suivante :
 
 1° Vérification identité et équipement du candidat ;
 
-2° Tirage au sort des tests de maniabilité ;
+2° Tirage au sort du test de maniabilité ;
 
-3° Tests de maniabilité (groupe de huit candidats maximum) ;
+3° Test de maniabilité ;
 
-4° Interrogation orale ;
+4° Bilan ;
 
-5° Bilan ;
+5° Transcription du résultat.
 
-6° Transcription du résultat.
+Les déplacements de la motocyclette prévus dans le test de maniabilité sont tirés au sort par un des premiers candidats convoqués de chaque demi-journée, sur présentation par l'expert des deux jeux de fiches (cf. pièces 2 et 3 supports d'examen).
 
-Les déplacements de la moto prévus dans les tests de maniabilité sont tirés au sort par un des premiers candidats convoqués de chaque demi-journée, sur présentation par l'expert d'un ensemble de fiches (cf. pièces 2, 3 et 4, supports d'examen).
+Le numéro de la fiche est le même pour le test de maniabilité et pour l'ensemble des candidats de la demi-journée. Le maximum de tirages au sort par jour est fixé à quatre.
 
-Le numéro de la fiche est le même pour les tests de maniabilité et pour l'ensemble des candidats de la demi-journée.
+Vous pouvez consulter l'image de la pièce n° 2 à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
 
-Toutefois, l'expert peut procéder à un nouveau tirage au sort en cours de séance.
+Vous pouvez consulter l'image de la pièce n° 3 à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
 
-Le maximum de tirages au sort par jour est fixé à quatre.
+I-3. - Modalités
 
-L'interrogation orale fait l'objet d'un tirage au sort individuel, sur présentation par l'expert d'un jeu de fiches.
+Le candidat effectue les manœuvres prévues par l'un des deux jeux de fiches.
 
-III. - Modalités
+Chacune de ces fiches constitue le test de maniabilité (ou test plateau) ci-après définis.
 
-III-1. - Tests de maniabilité et de sécurité
+Le test doit se dérouler sur la même motocyclette. Le changement de machine n'est autorisé qu'au cas où la motocyclette utilisée serait rendue inutilisable au cours de l'un des deux essais.
 
-Le candidat effectue les exercices prévus par les trois jeux de fiches.
-
-L'ensemble de ces fiches constitue les tests de maniabilité (ou tests plateau) ci-après définis.
-
-Les trois tests doivent se dérouler sur la même motocyclette, à l'exception de l'exercice de déplacement sans l'aide du moteur qui pourra être réalisé sur une motocyclette différente ; étant entendu que celle-ci est du même modèle que celle utilisée par le candidat pour la suite de l'épreuve.
-
-Le changement de machine pour les autres exercices n'est autorisé qu'au cas où la moto utilisée serait rendue inutilisable au cours de l'un de ceux-ci.
-
-Si le réglage du ralenti de la motocyclette est nécessaire, il ne peut être effectué que par le candidat et à sa seule initiative durant l'essai.
-
-Les rétroviseurs équipant la motocyclette ne doivent pas être déréglés ou rentrés lors des exercices.
+Si le réglage du ralenti de la motocyclette est nécessaire, il ne peut être effectué que par le candidat et à sa seule initiative durant l'essai. Les rétroviseurs équipant la motocyclette ne doivent pas être déréglés ou rentrés lors des exercices.
 
 Ces exercices sont en partie réalisés avec passager. Sans préjudice des dispositions de l'article 2-III de l'arrêté du 20 avril susvisé, le rôle du passager peut être assumé par toute personne présente sur le centre âgée d'au moins dix-huit ans, à l'exception de la catégorie A1 pour laquelle la personne doit être âgée d'au moins seize ans.
 
 Dans le cas où le passager est mineur, il devra présenter une autorisation du type suivant :
 
-Je soussigné(e)..........., né(e) le............ à.........., demeurant à................., agissant en qualité de (rayer les mentions inutiles) père, mère, tuteur, représentant légal, autorité qui a la garde de............... (nom et prénom), déclare l'autoriser à tenir le rôle de passager dans le cadre de l'examen du permis de conduire les motocyclettes de la sous-catégorie A1.
+&laquo; Je soussigné(e), né(e) le à, demeurant à, agissant en qualité de (rayer les mentions inutiles) père, mère, tuteur, représentant légal, autorité qui a la garde de (nom et prénom), déclare l'autoriser à tenir le rôle de passager dans le cadre de l'examen du permis de conduire les motocyclettes de la catégorie A1. &raquo;
 
 Les candidats individuels seront informés de cette particularité et devront se faire accompagner en conséquence.
 
-III-2. - Interrogation orale
+I-4. - Généralités
 
-Pratiquée à l'issue des tests plateau, l'interrogation orale a une durée de quelques minutes.
+a) Le parcours :
 
-Il s'agit d'un questionnaire tiré au sort parmi douze fiches communes aux trois catégories figurant en annexe 2 du présent arrêté.
+Le candidat doit enchaîner 6 manœuvres de base sur piste, en restant dans les limites du terrain.
 
-La fiche tirée au sort sert de support au candidat.
+Chaque manœuvre est composée de plusieurs phases.
 
-Tous les candidats d'un même établissement d'enseignement peuvent être examinés successivement en interrogation orale à la suite des tests de maniabilité. En l'absence de local disponible, elle pourra se dérouler dans le véhicule de l'accompagnateur.
+- Manœuvre 1 - déplacer la moto sans l'aide du moteur (5 phases) :
 
-IV. - Maîtrise de la moto à allure réduite hors circulation
+Débéquiller le motocycle ; le déplacer sans l'aide du moteur, en marchant à côté en marche avant ; s'arrêter ; le déplacer sans l'aide du moteur, en marchant à côté en marche arrière ; garer le motocycle en le mettant sur sa béquille.
 
-Vous pouvez consulter le schéma dans le JO n° 86 du 11/04/2014 texte numéro 11 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140411&numTexte=11&pageDebut=06585&pageFin=06617
+- Manœuvre 2 - déplacer la moto à allure réduite sans passager (6 phases) :
 
-IV-1. - Exercice de déplacement sans l'aide du moteur
+Démarrer ; effectuer un &laquo; S &raquo; en roulant au pas (sauf véhicule équipé d'une boite automatique) ; franchir le couloir d'évitement ; effectuer un arrêt de précision en courbe ; démarrer en courbe et reprendre sa voie ; effectuer un demi-tour.
 
-et de contrôle de l'état du véhicule (vérifications)
+- Manœuvre 3 - effectuer un freinage d'urgence (2 phases) :
+
+Accélérer à au moins 50km/h ; puis effectuer un freinage d'urgence à une vitesse de 50 km/h sur une distance maîtrisée.
+
+- Manœuvre 4 - déplacer la moto à allure réduite avec passager (4 phases) :
+
+Prendre un passager ; quitter un emplacement avec passager ; effectuer un parcours en boucle avec passager ; s'arrêter avec précision avec un passager.
+
+- Manœuvre 5 - effectuer un slalom (2 phases) :
+
+Effectuer un slalom à une vitesse d'au moins 40 km/h ; puis effectuer un demi-tour.
+
+- Manœuvre 6 - effectuer un évitement (3 phases) :
+
+Accélérer à au moins 50 km/h ; puis effectuer un évitement à une vitesse de 50 km/h ; puis effectuer un freinage de précision dans un emplacement de stationnement.
+
+Le candidat dispose de deux essais à l'exception de l'exercice du déplacement de la motocyclette sans l'aide du moteur où il ne dispose que d'un essai.
+
+L'épreuve hors circulation fait l'objet d'une note globale.
+
+Aucune explication ou reconnaissance détaillées sur fiches du parcours n'est réalisée par l'expert.
+
+Aucune démonstration n'est réalisée.
+
+La chute n'est pas prise en compte entre deux essais.
+
+b) Installation :
+
+Seuls les cônes et piquets figurant sur les fiches d'examen doivent être intégralement installés sur la piste pour permettre la réalisation des exercices.
+
+c) Modalités du contrôle de l'équipement :
+
+Avant le début de l'épreuve, la vérification du port des équipements par l'expert est un simple contrôle visuel. Cependant, en cas de doute avéré sur la conformité des équipements obligatoires, l'expert peut demander au candidat de démontrer que son équipement est conforme aux exigences réglementaires. En cas de non port des équipements obligatoires, l'examen ne peut avoir lieu.
+
+Les candidats doivent être équipés de leurs équipements de protection dès l'exercice de déplacement de la motocyclette sans l'aide du moteur.
+
+Si le casque n'est pas attaché, ou mal attaché, l'expert demande au candidat d'y remédier. S'il paraît manifestement de taille inadaptée, l'expert demande au candidat de trouver un casque conforme.
+
+I-5. - Manœuvre de déplacement de la motocyclette sans l'aide du moteur :
 
 a) Objectif :
 
-L'objectif de cet exercice est de s'assurer que :
+L'objectif de cette manœuvre est de s'assurer que le candidat est apte à déplacer la motocyclette sans l'aide du moteur, à en maîtriser le poids, à la débéquiller et à la garer en la mettant sur sa béquille.
 
-1. Le candidat est apte à déplacer la motocyclette sans l'aide du moteur, à en maîtriser le poids, à la débéquiller et à la garer en la mettant sur sa béquille.
-
-2. Le candidat est apte à effectuer des vérifications courantes de sécurité.
-
-b) Modalités du déplacement de la moto sans l'aide du moteur :
-
-Installation des exercices :
-
-Pour les fiches n°s 1 et 2, les cônes doivent être positionnés conformément au schéma (pièce n° 2 supports d'examen).
+b) Modalités du déplacement de la motocyclette sans l'aide du moteur (cf. pièce n° 4 et 5) :
 
 La mise en place de la moto au point de départ est effectuée par l'accompagnateur.
 
-Au cours de la reconnaissance sur fiche, les explications ci-dessous sont fournies au(x) candidat(s) :
-
 - la position de la motocyclette est située au départ du test ;
 
-- le candidat doit, après avoir débéquillé (béquille centrale ou latérale), pousser la moto en marche avant de (1) vers (6). Lorsque la motocyclette a entièrement franchi la porte (6), il doit reculer de (6) vers (1) selon le parcours défini par la fiche d'examen ;
+- le candidat doit, après avoir débéquillé (béquille centrale ou latérale), pousser la motocyclette en marche avant de (1) vers (2). Lorsque la motocyclette a entièrement franchi la porte, il doit reculer de (2) vers (1) selon le parcours défini par la fiche d'examen ;
 
-- il doit la béquiller en (1) (béquille centrale ou latérale) ;
+- le candidat doit déplacer la motocyclette en marchant à côté lors du parcours ;
 
-- il doit déplacer sa moto en marchant à côté lors du parcours ;
+- lorsque la marche arrière ne peut être réalisée en une seule manœuvre, le candidat peut effectuer une marche avant et une seule ;
 
-- il est admis, si la marche arrière ne peut être réalisée en une seule manœuvre, d'effectuer une marche avant et une seule, en direction de la porte précédente.
+- le candidat doit béquiller la motocyclette en (1) (béquille centrale ou latérale).
 
-Pour cet exercice, ne peut être considérée comme une incapacité l'impossibilité pour le candidat de relever la moto suite à la chute de celle-ci.
+Vous pouvez consulter l'image de la pièce n° 4 à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
 
-c) Modalités du contrôle de l'état du véhicule :
+Vous pouvez consulter l'image de la pièce n° 5 à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
 
-Ce contrôle consiste à vérifier que :
-
-- le candidat connaît l'emplacement et sait utiliser les différentes commandes de sa moto ;
-
-- le candidat connaît la signification des témoins au tableau de bord ;
-
-- le candidat sait reconnaître certains éléments techniques et en contrôler leur bon fonctionnement.
-
-Toutefois, pour procéder à un contrôle technique aléatoire de la motocyclette, l'expert interroge le candidat en choisissant un sujet de vérification pour chacun de ces thèmes :
-
-- les commandes ;
-
-- les éléments techniques ;
-
-- l'éclairage et les accessoires de sécurité.
-
-Pour la fiche n° 1, le candidat commente et effectue, au libre choix de l'expert, un sujet de vérification par thème dans la liste proposée ci-dessous :
-
-Les commandes :
-
-SUJET
-
-|
-
-ATTITUDE DU CANDIDAT
-
-et points de contrôle à effectuer
-
-|
-
-1. Mise en marche du moteur
-
-|
-
-Le candidat met en marche le moteur, contrôle l'extinction des témoins d'alerte et arrête le moteur à l'aide du coupe-circuit (arrêt d'urgence).
-
-|
-
-2. Commandes d'embrayage (*) et d'accélération
-
-|
-
-Si la motocyclette utilisée est à embrayage mécanique : le candidat vérifie que le câble est non effiloché et que le réglage de la garde est correct (5 mm environ).
-
-Si la motocyclette utilisée est à embrayage hydraulique : il indique le point de contrôle du niveau.
-
-Accélérateur : le candidat vérifie la bonne rotation de la poignée y compris à la décélération.
-
-|
-
-(*) Sauf véhicule équipé d'un changement de vitesses automatique.
-
-|
-
-Les éléments techniques :
-
-SUJET
-
-|
-
-ATTITUDE DU CANDIDAT
-
-et points de contrôle à effectuer
-
-|
-
-1. Niveau d'huile moteur
-
-|
-
-Le candidat explique la façon de procéder et indique à l'expert le point de contrôle.
-
-Véhicule à carter humide : la moto doit être droite ou sur la béquille centrale (ne pas exiger cette position).
-
-Véhicule à carter sec : il faut faire tourner le moteur au ralenti 2 minutes environ et contrôler immédiatement dès l'arrêt du moteur.
-
-|
-
-2. Transmission
-
-|
-
-A chaîne : le candidat contrôle la tension de la chaîne en indiquant la flèche et la position de la moto préconisées par le guide d'utilisation.
-
-A cardan : il indique le point de contrôle du niveau d'huile.
-
-A courroie : il contrôle l'état de la courroie.
-
-|
-
-L'éclairage et les accessoires de sécurité :
-
-SUJET
-
-|
-
-APTITUDE DU CANDIDAT
-
-Et points de contrôle à effectuer
-
-|
-
-1. Eclairage avant
-
-|
-
-Le candidat vérifie le bon état du ou des optiques et le bon fonctionnement des feux de position, croisement, feux de route.
-
-|
-
-2. Indicateurs de changement de direction
-
-|
-
-Le candidat vérifie le bon état et le bon fonctionnement des indicateurs de changement de direction.
-
-|
-
-Pour la fiche n° 2, le candidat commente et effectue, au libre choix de l'expert, un sujet de vérification par thème dans la liste proposée ci-dessous :
-
-Les commandes :
-
-SUJET
-
-|
-
-ATTITUDE DU CANDIDAT
-
-et points de contrôle à effectuer
-
-|
-
-1. Direction
-
-|
-
-Le candidat explique comment il contrôle l'absence de jeu dans la direction sans effectuer l'opération : il faut délester la roue avant et faire tourner le guidon de gauche à droite. Il ne doit pas y avoir de point de résistance.
-
-|
-
-2. Commandes de frein
-
-|
-
-Avant : il contrôle le niveau. Pour effectuer ce contrôle, le réservoir de liquide de frein doit être à l'horizontale.
-
-Arrière :
-
-Commande mécanique : il contrôle l'usure à l'aide du repère prévu à cet effet.
-
-Commande hydraulique : il contrôle le niveau.
-
-|
-
-Les éléments techniques :
-
-SUJET
-
-|
-
-ATTITUDE DU CANDIDAT
-
-et points de contrôle à effectuer
-
-|
-
-1. Pneumatique, avant ou arrière
-
-|
-
-Le candidat contrôle le bon état des flancs (pas de déchirure ni de hernie), de la bande de roulement (sculptures apparentes) et si la pression de gonflage paraît visuellement correcte.
-
-|
-
-2. Suspensions
-
-|
-
-A l'avant le candidat vérifie :
-
-Hydraulique : l'absence de fuite au niveau des joints à lèvres (ou de leur protection) de la fourche télescopique.
-
-Avec pression d'air : l'absence de fuite au niveau des joints à lèvres (ou de leur protection) ; il indique la valve servant à l'évacuation ou au complément de pression d'air. Il doit indiquer la valeur de la pression admissible (voir guide d'utilisation).
-
-A l'arrière : il indique où s'effectue le réglage.
-
-|
-
-L'éclairage et les accessoires de sécurité :
-
-SUJET
-
-|
-
-ATTITUDE DU CANDIDAT
-
-et points de contrôle à effectuer
-
-|
-
-1. Eclairage arrière et feu stop
-
-|
-
-Il contrôle le bon état et fonctionnement de l'éclairage arrière (plaque comprise) et du feu stop, avec les commandes de frein avant et arrière.
-
-|
-
-2. Avertisseur sonore et rétroviseurs
-
-|
-
-Il vérifie le bon fonctionnement de l'avertisseur sonore, la présence, le bon état et la fixation correcte des deux rétroviseurs.
-
-|
-
-A l'issue des vérifications, le candidat met en place ses équipements de protection pour la suite des épreuves.
-
-L'expert vérifie visuellement si l'équipement de protection est porté correctement et, en cas d'erreur ou d'oubli, invite le candidat à rectifier la ou les anomalies.
-
-Le candidat présente un casque homologué à sa taille.
-
-Le candidat coiffe son casque. S'il est non ou mal attaché, l'expert l'indique au candidat, en lui précisant qu'il devra être attaché correctement lors de la réalisation des exercices suivants.
-
-S'il paraît manifestement de taille inadaptée, l'expert l'indique au candidat, applique la notation B à l'exercice de déplacement sans l'aide du moteur et de contrôle de l'état du véhicule et lui demande de trouver un casque conforme pour les exercices suivants.
-
-d) Evaluation/principes :
+c) Evaluation/ principes :
 
 Afin que l'évaluation soit pratiquée de façon homogène, il est précisé que :
 
-- pour cet exercice un seul essai est autorisé ;
+- pour cette manœuvre un seul essai est autorisé ;
 
-- deux notations sont possibles pour cet exercice : A ou B ;
+- les zones identifiants le départ et l'arrivée de la manœuvre de maîtrise de la motocyclette sans l'aide du moteur, matérialisées sur les fiches d'examen, doivent être respectées ;
 
-- les départ arrivée de l'exercice de maîtrise de la moto sans l'aide du moteur, matérialisés sur les fiches d'examen, doivent être respectés ;
-
-- le candidat n'est pas tenu de respecter la trajectoire indiquée sur les fiches. Seul est à prendre en compte le passage à l'intérieur des portes matérialisées sur les fiches ;
-
-- le candidat reste libre quant à la méthode à employer pour avancer ou reculer la moto (position des mains, du corps et du regard). Seul le résultat est à prendre en compte ;
+- le candidat reste libre quant à la méthode à employer pour avancer ou reculer la motocyclette (position des mains, du corps et du regard). Seul le résultat est à prendre en compte ;
 
 - l'arrêt est autorisé ;
 
-- le candidat utilise la béquille de son choix. En revanche, lors du déplacement de la moto, la béquille latérale doit être relevée. En cas d'oubli, l'expert l'indique au candidat et ne le sanctionne pas ;
+- le candidat utilise la béquille de son choix. En revanche, lors du déplacement de la motocyclette, la béquille latérale doit être relevée. En cas d'oubli, l'expert l'indique au candidat et ne le sanctionne pas ;
 
-- lorsque la marche arrière ne peut être réalisée en une seule manœuvre, le fait pour le candidat d'effectuer une marche avant en ligne droite n'entraîne pas une sanction mais une intervention immédiate de l'expert pour que la marche avant soit effectuée en direction de la porte précédente ;
+- pour cette manœuvre, ne peut être considérée comme une incapacité l'impossibilité pour le candidat de relever la motocyclette suite à la chute de celle-ci ;
 
-- lorsque la marche arrière ne peut être réalisée en une seule manœuvre, le fait pour le candidat d'effectuer plus d'une marche avant n'entraîne pas une sanction mais une intervention immédiate de l'expert pour interdire cette pratique ;
+- si la manœuvre est correctement réalisée (aucune erreur), le candidat peut poser trois pieds au sol sans que ceux-ci ne soient comptabilisés comme des erreurs au cours des deux essais prévus pour l'enchaînement des manœuvres 2 à 6 ;
 
-- le port du casque et des gants n'est pas obligatoire pour les exercices de maîtrise de la moto sans l'aide du moteur ;
+- si la manœuvre est incorrectement réalisé (une erreur et/ ou plus), le candidat peut poser deux pieds au sol sans que ceux-ci ne soient comptabilisés comme des erreurs au cours des deux essais prévus pour l'enchaînement des manœuvres 2 à 6 ;
 
-- le vocabulaire technique ou la façon de s'exprimer lors du contrôle du véhicule ne doivent pas être pris en compte dans l'évaluation ;
+- le résultat de cette manœuvre est communiqué au candidat.
 
-- un point de contrôle de l'état du véhicule hors la liste proposée mais concernant le sujet de vérification choisi ne doit pas entraîner une pénalisation du candidat. Toutefois, pour ne pas allonger la durée de l'épreuve, l'expert peut inviter le candidat à limiter son contrôle aux seuls points exigés ;
+Vous pouvez consulter le tableau au format image à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
 
-- le résultat de cet exercice est communiqué au candidat.
-
-DÉFINITION DES ERREURS
-
-|
-
-NOTATION DE L'EXERCICE
-
-|
-
-* Exercice non réalisé :
-
-Impossibilité de réaliser l'exercice.
-
-* Chute de la machine :
-
-Moto couchée, un point d'appui au sol (autre que les pneumatiques).
-
-* Cône déplacé par la moto :
-
-Quelle que soit la partie de la moto qui a provoqué la chute ou le déplacement du cône.
-
-Le déplacement ou la chute du cône par le conducteur n'est pas pris en compte.
-
-L'expert doit attendre que le candidat ait vu son erreur avant de remettre le cône à sa place.
-
-* Erreur de parcours :
-
-Ce qui n'est pas en tout point conforme au parcours initialement reconnu.
-
-Vérifications :
-
-* Point de contrôle inexact ou non réalisé.
-
-* Point de contrôle hors sujet :
-
-Ce qui n'est pas conforme au sujet prévu (point de contrôle autre sujet, par exemple).
-
-|
-
-* Exercice correctement réalisé : notation A
-
-* Une ou plusieurs erreurs : notation B
-
-* Exercice non réalisé : notation B
-
-* Casque manifestement inadapté : notation B
-
-|
-
-IV-2. - Déplacement de la moto à allure réduite
+I-6. - Enchaînement des manœuvres 2 à 6 :
 
 a) Objectif :
 
-L'objectif de ce test est de s'assurer que le candidat est apte à déplacer sa machine à allure réduite :
+L'objectif de ce test est de s'assurer que le candidat est apte à déplacer sa machine à allure réduite, avec et sans passager, et à allure plus élevée :
 
 - il sait s'arrêter et démarrer en tournant ;
 
@@ -446,611 +186,233 @@ L'objectif de ce test est de s'assurer que le candidat est apte à déplacer sa 
 
 - il sait manipuler avec aisance l'embrayage, l'accélérateur, le guidon et les freins ;
 
-- il conserve son aptitude avec un passager.
+- il sait freiner sur une courte distance, sans chuter, tout en conservant l'équilibre ;
 
-b) Explications et reconnaissance de l'exercice :
+- il est capable de maintenir son équilibre lors de la montée et de la descente d'un passager ;
 
-Installation :
+- il est capable de maintenir sa trajectoire en ligne droite et en courbe à allure réduite avec un passager ;
 
-Seuls les cônes figurant sur les fiches d'examen (pièce n° 2 support d'examen) doivent être installés sur la piste lors des exercices.
+- il possède les techniques de contre-braquage (ou braquage inverse) et d'évitement ;
 
-La mise en place de la moto au départ est effectuée par l'accompagnateur.
+- il est capable de revenir sur sa trajectoire initiale ;
 
-Le départ de l'exercice se fait la roue arrière au niveau du point (1).
+- il sait effectuer un freinage pour s'arrêter avec précision.
 
-Pour ce faire, au cours de la reconnaissance sur fiche, les explications ci-dessous sont fournies au(x) candidat(s) :
+b) Modalités de réalisation de l'enchaînement des manœuvres 2 à 6 (cf. pièces 2 et 3) :
 
-- la position de la motocyclette se situe au départ du test ;
+Manœuvre 2 - déplacer la moto à allure réduite sans passager (4 premières phases) :
 
-- le candidat doit effectuer sans passager le parcours sens (1-5) ;
+Démarrer ; effectuer un ‘S' en roulant au pas (sauf véhicule équipé d'une boite automatique) ; franchir le couloir d'évitement ; effectuer un arrêt de précision en courbe.
 
-- lorsque l'épreuve est passée sur un véhicule équipé d'un changement de vitesse manuel, il doit effectuer le parcours de (2) en (3) en roulant au pas, de façon à démontrer sa capacité à actionner l'embrayage, si nécessaire en combinaison avec l'accélérateur et/ou les freins ;
+- la position de la motocyclette se situe au départ du test (1) ;
 
-- le candidat doit marquer l'arrêt en (4) (pied[s] au sol, moto immobilisée), avant de repartir ;
+- le candidat doit effectuer le parcours sens (1-2) ;
 
-- il doit s'arrêter la roue avant approximativement au niveau de la ligne C6 (point 5) pour faire monter le passager ;
+- lorsque l'épreuve est passée sur un véhicule équipé d'un changement de vitesse manuel, il doit effectuer le parcours de (1) en (2) en roulant au pas, de façon à démontrer sa capacité à actionner l'embrayage, si nécessaire en combinaison avec l'accélérateur et/ ou les freins (sauf véhicule équipé d'un changement de vitesses automatique) ;
 
-- il doit effectuer avec le passager le parcours défini par la fiche d'examen, sens (5-6) ;
+- le candidat doit marquer l'arrêt en (4) (pied [s]) au sol, moto immobilisée.
 
-- l'exercice se termine au franchissement de la porte (6) ;
+Fin Manœuvre 2 & Manœuvre 3 - effectuer un freinage d'urgence :
 
-- le candidat doit obligatoirement effectuer le parcours retenu, aucune erreur n'étant admise ;
+Démarrer en courbe et reprendre sa voie ; effectuer un demi-tour ; accélérer à au moins 50 km/h ; puis effectuer un freinage d'urgence à une vitesse de 50 km/h sur une distance maîtrisée.
 
-- il dispose de deux essais si nécessaire ;
+- le candidat doit repartir du point 4 et effectuer le parcours prévu sur la fiche ;
 
-- toute marche arrière est interdite ;
+- le candidat doit, après avoir fait un demi-tour, effectuer le retour en ligne droite, avoir engagé le troisième rapport de vitesse minimum (sauf véhicule équipé d'un changement de vitesses automatique) avant d'avoir atteint la vitesse minimum de 50 km/h au niveau de la ligne C6 ;
 
-- la chute entraîne l'échec immédiat et l'interruption de l'examen.
+- il doit au passage en ligne C6 effectuer un freinage d'urgence et immobiliser sa moto :
 
-L'expert doit s'assurer de la parfaite compréhension des consignes données.
+- avant la ligne C5 si la piste est sèche ;
 
-c) Evaluation/principes :
+- avant la ligne C4 si la piste est humide.
 
-Afin que l'évaluation soit pratiquée de façon homogène, il est précisé que :
+Manœuvre 4 - déplacer la moto à allure réduite avec passager (4 phases) :
 
-- le point de départ de l'exercice de maîtrise de la moto à allure réduite matérialisé sur les fiches d'examen doit être impérativement respecté ;
+Prendre un passager ; quitter un emplacement avec passager ; effectuer un parcours en boucle avec passager ; s'arrêter avec précision avec un passager.
 
-- le parcours prévu par les fiches doit être respecté ;
+- le passager doit être placé au niveau de l'évitement à l'extérieur de la piste, en sécurité ;
 
-- pour cet exercice deux essais sont autorisés (sauf en cas de chute) ;
+- le passager s'installe et candidat doit effectuer avec le passager, le parcours défini par la fiche d'examen ;
 
-- trois notations sont possibles pour cet exercice : A, B ou C ;
+- il doit s'arrêter dans la zone, prévue par la fiche, comprise entre la porte &laquo; piquets &raquo; et la porte &laquo; cônes &raquo; sans que l'un et/ ou l'autre des pneumatiques (point de contact au sol) ne sorte (nt) de cette zone ;
 
-- la réalisation d'un essai est terminé après le franchissement de la dernière porte, motocyclette arrêtée, candidat(e) pied(s) au sol ;
+- le passager doit descendre.
+
+Manœuvre 5 - effectuer un slalom (2 phases) & Manœuvre 6 - effectuer un évitement (3 phases) :
+
+Effectuer un slalom à une vitesse d'au moins 40 km/h ; puis effectuer un demi-tour ; accélérer à au moins 50 km/h ; puis effectuer un évitement à une vitesse de 50 km/h ; puis effectuer un freinage de précision dans un emplacement de stationnement.
+
+- le candidat doit avoir engagé le troisième rapport de vitesse minimum au niveau du 1er cône du slalom et avoir atteint la vitesse minimum de 40 km/h au niveau de la ligne C7 ;
+
+- il doit, après avoir fait un demi-tour, effectuer le retour en ligne droite, avoir engagé le troisième rapport de vitesse minimum avant l'évitement (sauf véhicule équipé d'un changement de vitesses automatique) et avoir atteint la vitesse minimum de 50 km/h au niveau de la ligne C6 ;
+
+- il doit effectuer un évitement et aller immobiliser sa moto dans la zone d'arrêt prévue par la fiche, sans que l'un et/ ou l'autre des pneumatiques (point de contact au sol) ne sorte (nt) de cette zone ;
+
+- l'essai est terminé.
+
+c) Evaluation/ principes :
+
+Le parcours :
+
+- le point de départ prévu sur les fiches d'examen doit être impérativement respecté ;
+
+- le candidat doit obligatoirement effectuer le parcours retenu, aucune erreur n'étant admise.
+
+Les essais :
+
+- le candidat dispose de deux essais si nécessaire ;
+
+- la réalisation d'un essai est terminé après l'arrêt de la motocyclette, candidat (e) pied (s) au sol, dans la zone d'arrêt située après l'exercice d'évitement ;
+
+- au cours d'un essai, le fait que le candidat ne poursuive pas l'exercice et revienne au point de départ, suite à une ou plusieurs erreurs (entraînant une notation C) ne signifie pas qu'il abandonne. Chaque candidat a la faculté de terminer son parcours ou de revenir au point de départ ;
+
+- au cours du 2e essai, en cas de notation C obtenue lors du 1er essai, l'expert peut interrompre l'examen à l'occasion d'un arrêt, si la, ou les erreur (s), déjà réalisées, entraînent d'ores et déjà la notation C pour le 2e essai ;
+
+- en cas de notation B lors du 1er essai, il n'est pas procédé à un 2e essai.
+
+Notation :
+
+- trois notations sont possibles : A, B ou C.
+
+La chute :
 
 - une chute entraîne la notation C et l'arrêt immédiat de l'examen ;
 
 - la chute est définie par la motocyclette couchée, un point d'appui au sol, autre que les pneumatiques ;
 
-- la chute n'est prise en compte que lors de la réalisation de l'essai, et pas entre deux essais ;
+- la chute n'est prise en compte que lors de la réalisation de l'essai, et pas entre deux essais.
 
-- trois zones sont neutralisées :
+Examen réalisé avec un scooter :
 
-- du point (1) jusqu'au franchissement par la bande de roulement arrière de la première porte (cependant, pour ne pas allonger la durée de l'épreuve, le nombre d'essais accordés pour se repositionner est limité à trois. Au-delà, le candidat ne se repositionne pas et il doit réaliser le parcours) ;
+- le cône du couloir d'évitement doit être déplacé d'une embase vers l'intérieur comme indiquée sur la fiche ci-dessus.
 
-- du départ en (4), jusqu'au franchissement par la bande de roulement de la roue avant (point de contact au sol) de la ligne située dans l'axe du cône. En cas de calage, le candidat ne se repositionnera pas. Un pied posé dans cette zone, même après le franchissement par la bande de roulement de la roue avant (point de contact au sol) de la ligne, ne sera pas pris en compte ;
+Les zones neutralisées :
 
-- de la prise du passager jusqu'au franchissement par la bande de roulement avant des marquages de la tête d'évitement (cependant, pour ne pas allonger la durée de l'épreuve, le candidat ne se repositionne pas) ;
+Quatre zones sont neutralisées :
 
-- les éventuelles erreurs commises en zones neutralisées ne sont pas prises en compte lors de l'évaluation, à l'exception de la chute, qui reste éliminatoire quels qu'en soient l'endroit et la cause (exemple : chute provoquée par la montée du passager) ;
+- du point (1) jusqu'au franchissement par la bande de roulement arrière (point de contact au sol) de la première porte, cependant, pour ne pas allonger la durée de l'épreuve, le nombre d'essais accordés pour se repositionner est limité à un. Au-delà, le candidat ne se repositionne pas et le parcours doit être réalisé ;
 
-- le candidat, sauf sur le parcours de (2) en (3), s'il utilise un véhicule équipé d'un changement de vitesse manuel, reste libre quant à la méthode à employer pour faire évoluer la moto (utilisation des commandes, position du corps, du regard) ;
+- du départ en (4), jusqu'au franchissement par la bande de roulement de la roue avant (point de contact au sol) de la ligne située dans l'axe du cône (c'est-à-dire la troisième ligne rencontrée). En cas de calage, le candidat ne se repositionnera pas. Un ou plusieurs pieds posé (s) dans cette zone, même après le franchissement par la bande de roulement de la roue avant (point de contact au sol) de la ligne, ne sera pas pris en compte ;
 
-- pour évaluer la capacité du candidat à rouler au pas en actionnant l'embrayage, si nécessaire en combinaison avec l'accélérateur et/ou les freins sur le parcours de (2) en (3), l'expert peut utiliser un chronomètre. Dans ce cas il précise au candidat les conditions dans lesquelles celui-ci effectue le parcours de (2) en (3), notamment la durée minimale à respecter ;
+- de la prise du passager jusqu'au franchissement par la bande de roulement arrière (point de contact au sol) de la ligne C5 (si piste sèche) ou de la ligne C4 (si piste humide), cependant, pour ne pas allonger la durée de l'épreuve, le candidat ne se repositionne pas ;
 
-- l'arrêt n'est autorisé que lorsqu'il est prévu par la fiche, à savoir en (4) et (5) ;
+- du départ, après la descente du passager, jusqu'au franchissement par la bande de roulement arrière de la porte &laquo; cônes &raquo;, cependant, pour ne pas allonger la durée de l'épreuve, le candidat ne se repositionne pas ;
 
-- l'arrêt en zone (4) : le candidat doit marquer l'arrêt, point de contact au sol de la roue avant, entre la 1re ligne et celle située sur l'axe médian. Les deux lignes font partie de la zone d'arrêt ;
+- les éventuelles erreurs commises en zones neutralisées ne sont pas prises en compte lors de l'évaluation, à l'exception de la chute, qui reste éliminatoire quel qu'en soit l'endroit et la cause (exemple : chute provoquée par la montée ou la descente du passager).
 
-- l'arrêt étant progressif et non instantané, le ou les pieds posés à cette occasion ne doivent pas être considérés comme des erreurs ;
+Technique :
 
-- le fait pour le candidat d'effectuer une marche arrière lors d'un arrêt n'entraîne pas de sanction mais une intervention immédiate de l'expert pour interrompre cette pratique. S'il l'estime nécessaire, l'expert peut demander au candidat de se replacer dans la position qu'il occupait avant d'entamer cette action ;
+- le candidat, sauf sur le parcours de (1) en (2), s'il utilise un véhicule équipé d'un changement de vitesse manuel, reste libre quant à la méthode à employer pour faire évoluer la moto (utilisation des commandes, position du corps, du regard) ;
 
-- le passager doit se tenir des deux mains, le plus près possible du conducteur, les pieds sur les repose-pieds et les genoux serrés. Toute autre attitude ne peut être acceptée. Le passager ne doit pas communiquer avec le candidat. Dans le cas contraire, appliquer la notation C ;
+- lors des demi-tours en bout de piste, le rapport de vitesse utilisé et l'allure ne doivent pas être évalués ;
 
-- les explications sur la façon de procéder pour réussir l'exercice ne doivent pas être indiquées au candidat ;
+- lors de la manœuvre de freinage d'urgence, le troisième rapport de vitesse (minimum) doit être engagé au plus tard avant le début du freinage. Dans le cas contraire, la notation B serait attribuée (*) ;
 
-- le résultat de cet exercice doit être clairement communiqué au candidat ;
+- lors de la manœuvre de slalom à 40 km/h, le troisième rapport de vitesse (minimum) doit être engagé au plus tard avant le premier cône du slalom. Dans le cas contraire, la notation B serait attribuée (*) ;
 
-- au cours d'un essai, le fait que le candidat ne poursuive pas l'exercice et revienne au point de départ, suite à une ou plusieurs erreurs (entraînant une notation C), ne signifie pas qu'il abandonne. Chaque candidat a la faculté de terminer son parcours ou de revenir au point de départ.
+- lors de la manœuvre d'évitement, le troisième rapport de vitesse minimum doit être engagé au plus tard avant l'entrée dans l'évitement. Dans le cas contraire, la notation B serait attribuée (*).
 
-DÉFINITION DES ERREURS
+Calage du moteur : le calage du moteur n'est pas évalué en tant que tel.
 
-|
+Evaluation du parcours de (1) en (2), pour les véhicules équipés d'un changement de vitesse manuel :
 
-NOTATION DE L'EXERCICE
+- pour évaluer la capacité du candidat à rouler au pas en actionnant l'embrayage, si nécessaire en combinaison avec l'accélérateur et/ ou les freins, sur le parcours de (1) en (2), l'expert peut utiliser un chronomètre. Le chronométrage débute au franchissement par la bande de roulement arrière (point de contact au sol) de la 1re porte et se termine au franchissement par la bande de roulement arrière (point de contact au sol) de la porte en (2) ;
 
-|
+Maîtrise de l'embrayage non acquise : notation C < 14 s.
 
-* Chute de la machine :
+Maîtrise de l'embrayage en cours d'acquisition : 14 s ≤ notation B (en l'absence d'autre [s] erreur [s]) < 16 s.
 
-Moto couchée, un point d'appui au sol (autre que les pneumatiques).
+Maîtrise de l'embrayage acquise : notation A ≥ 16 s (en l'absence d'autre [s] erreur [s]).
 
-* Cône déplacé ou renversé :
+Le chronométrage relevé n'a pas vocation à être présenté au candidat.
 
-C'est un cône qui doit être remis en place.
+- pour évaluer la capacité du candidat à rouler au pas en actionnant l'embrayage, si nécessaire en combinaison avec l'accélérateur et/ ou les freins, sur le parcours de (1) en (2), l'expert qui n'utilise pas de chronomètre procédera à l'évaluation dans le respect des critères suivants :
 
-Un cône touché ne nécessitant pas une remise en place n'est pas considéré comme une erreur.
+L'évaluation a lieu lors du franchissement des 3 portes situées de la porte (1) - non incluse - à la porte (2) - incluse ;
 
-* Piquet déplacé ou renversé :
+Le franchissement d'une porte débute au passage de la bande de roulement de la roue avant (point de contact au sol) de la porte et se termine par le passage de la bande de roulement de la roue arrière (point de contact au sol) de la même porte.
 
-C'est un piquet qui doit être remis en place.
+Maîtrise de l'embrayage non acquise : utilisation combinée accélérateur et embrayage (éventuellement frein [s]) lors du franchissement de moins de 2 portes : notation C.
 
-Un piquet touché ne nécessitant pas une remise en place n'est pas considéré comme une erreur.
+Maîtrise de l'embrayage en cours d'acquisition : utilisation combinée accélérateur et embrayage (éventuellement frein [s]) lors du franchissement de 2 portes : notation B (en l'absence d'autre [s] erreur [s]).
 
-Le déplacement ou le renversement d'un piquet par son embase n'est pas considéré comme une erreur.
+Maîtrise de l'embrayage acquise : utilisation combinée accélérateur et embrayage (éventuellement frein [s]) lors du franchissement des 3 portes : notation A (en l'absence d'autre [s] erreur [s]).
 
-* Pied au sol : c'est un pied qui touche le sol.
+Une utilisation combinée accélérateur et embrayage implique que le conducteur associe la manipulation des deux commandes conjointement.
 
-|
+L'arrêt :
 
-Cas général :
+- l'arrêt n'est autorisé que lorsqu'il est prévu, à savoir en (4), à l'issue du freinage d'urgence, lors de l'arrêt de précision pour déposer le passager et dans la zone de freinage de précision située après l'évitement ;
 
-* Exercice correctement réalisé : notation A
+- l'arrêt étant progressif, et non instantané, le ou les pieds posés à cette occasion ne doivent pas être considérés comme des erreurs ;
 
-* Une erreur : notation B
+- l'arrêt en zone (4) : le candidat doit marquer l'arrêt, point de contact au sol de la roue avant, entre la 1 ʳ ᵉ ligne et celle située sur l'axe médian. Les 2 lignes font partie de la zone d'arrêt ;
 
-* Deux erreurs : notation C
+- le fait pour le candidat d'effectuer une marche arrière lors d'un arrêt n'entraîne pas de sanction mais une intervention immédiate de l'expert pour interrompre cette pratique. S'il l'estime nécessaire, l'expert peut demander au candidat de se replacer dans la position qu'il occupait avant d'entamer cette action.
 
-Cas particuliers :
+Anticipation du freinage d'urgence :
 
-* Maîtrise de l'embrayage non acquise sur le parcours de (2) en (3) (*) : notation C
+La notation C n'est appliquée que lorsque le freinage d'urgence est déclenché sans ambiguïté possible avant la ligne C6.
 
-* Erreur de parcours : notation C
+En effet, il ne saurait être reproché au candidat (la vitesse de retour étant de 50 km/h pour un repère [ligne C6] mesurant 10 cm de large) une anticipation de quelques centimètres.
 
-* Obstacle ou porte non franchi : notation C
+Qualité du freinage d'urgence :
 
-* Arrêt (en dehors de la prise du passager et de l'arrêt obligatoire prévue par la fiche en [4]) : notation C
+La notation B n'est appliquée que dans l'un et/ ou l'autre des deux cas suivants :
 
-L'arrêt en équilibre n'est pas considéré comme une erreur.
+- lorsque la roue arrière perd le contact au sol de façon observable, sans aucune ambiguïté possible ;
 
-* Arrêt incorrect en (4) : notation C
+- lorsque le candidat n'adopte pas une position lui permettant de maintenir fermement son guidon.
 
-* Sortie de terrain : notation C
+Dans les 2 cas, le relevé de ces erreurs doit se baser sur des actions, ou non actions, clairement observables et opposables au candidat.
 
-* Exercice non réalisé : notation C
+Le passager :
 
-* Chute de la moto : notation C et interruption de l'examen
+Le passager doit se tenir des deux mains, le plus près possible du conducteur, les pieds sur les repose-pieds et les genoux serrés. Toute autre attitude ne peut être acceptée. Le passager ne doit pas communiquer avec le candidat en dehors des phases de montée et de descente de la motocyclette. La notation C ne peut être appliquée à un candidat que dans le seul cas où il est incontestable que l'action du passager a permis d'éviter une notation C.
 
-|
+Le radar :
 
-Plusieurs pieds au sol au même moment (même cause) ne comptent que pour une erreur.
-
-Un pied qui n'est plus sur le repose-pied et qui ne touche pas le sol n'est pas considéré comme une erreur.
-
-* Cône ou piquet déplacé ou renversé et pose d'un ou de plusieurs pieds au sol de façon simultanée : lorsque, à l'occasion du franchissement d'une porte, un cône ou un piquet sont renversés obligeant le candidat ou le passager à mettre un ou plusieurs pieds au sol, il ne sera compté qu'une erreur. Les deux effets n'ayant qu'une seule et même cause.
-
-* Maîtrise de l'embrayage (si nécessaire en combinaison avec l'accélérateur et/ou les freins) en cours d'acquisition (utilisation partielle) sur le parcours de (2) en (3) (*).
-
-* Maîtrise de l'embrayage (si nécessaire en combinaison avec l'accélérateur et/ou les freins) non acquise sur le parcours de (2) en (3) (*).
-
-* Arrêt incorrect en (4) : correspond à un arrêt hors zone en (4).
-
-|
-
-|
-
-* Erreur de parcours :
-
-Ce qui n'est pas en tout point conforme au parcours initialement reconnu.
-
-|
-
-|
-
-* Obstacle ou porte non franchi :
-
-Correspond à l'impossibilité technique de négocier l'obstacle ou la porte. Une seule roue passant en dehors d'une porte est considérée comme un obstacle non franchi.
-
-|
-
-|
-
-* Sortie de terrain : correspond à la sortie des limites du terrain matérialisées sur le sol par une bande de peinture de 10 cm de largeur. Lorsque les lignes sont peintes dans la limite des 6 mètres (largeur de la piste), il n'y a pas sortie de terrain si l'on roule sur la ligne sans la franchir.
-
-|
-
-|
-
-* Arrêt (en dehors de la prise du passager et de l'arrêt obligatoire prévu par la fiche en [4]) : le motocycle est à l'arrêt, le candidat a un ou les pieds au sol.
-
-|
-
-|
-
-* Exercice non réalisé : impossibilité de réaliser l'exercice.
-
-|
-
-|
-
-(*) Sauf véhicule équipé d'un changement de vitesses automatique
-
-|
-
-V. - Maîtrise de la moto à allure plus élevée hors circulation
-
-V-1. - Freinage d'urgence
-
-Vous pouvez consulter le schéma dans le JO n° 86 du 11/04/2014 texte numéro 11 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140411&numTexte=11&pageDebut=06585&pageFin=06617
-
-a) Objectif :
-
-L'objectif de ce test est de s'assurer que le candidat maîtrise sa machine lors d'un freinage d'urgence à une allure élevée d'au moins 50 km/h.
-
-Le candidat sait freiner sur une courte distance, sans chuter, tout en conservant l'équilibre.
-
-Il sait où positionner son regard.
-
-b) Explications et reconnaissance de l'exercice :
-
-Les explications concernant les exercices de freinage et d'évitement sont fournies simultanément.
-
-Chaque candidat réalise successivement les épreuves de freinage et d'évitement à allure plus élevée, sauf en cas d'échec, de chute ou d'abandon.
-
-Installation des exercices : seuls les cônes figurant sur les fiches d'examen (pièce n° 3 supports d'examen) doivent être installés sur la piste lors des exercices.
-
-La mise en place de la moto au point de départ est effectuée par le candidat.
-
-Au cours de la reconnaissance sur fiche, les explications ci-dessous sont fournies au(x) candidat(s) :
-
-- il doit démarrer de l'extrémité de la piste, monter les trois premiers rapports de vitesse au minimum à l'aller avant la ligne C6 (*) ;
-
-- il doit, après avoir fait un demi-tour, effectuer le retour en ligne droite, avoir engagé le troisième rapport de vitesse au minimum (*) et avoir atteint la vitesse minimum de 50 km/h au point (1) ;
-
-- il doit au passage en (1) effectuer un freinage d'urgence et immobiliser sa moto :
-
-- avant la ligne C5 si la piste est sèche ;
-
-- avant la ligne C4 si la piste est humide ;
-
-- il doit obligatoirement effectuer le parcours fixé par la fiche d'examen ;
-
-- il dispose de deux essais, si nécessaire ;
-
-- un essai est terminé véhicule arrêté ;
-
-- la chute entraîne l'échec immédiat et l'interruption de l'examen.
-
-L'expert doit s'assurer de la parfaite compréhension des consignes données.
-
-(*) Sauf véhicule équipé d'un changement de vitesses automatique.
-
-c) Evaluation/principes :
-
-Il est précisé que :
-
-- le départ des exercices de freinage à allure plus élevée doit se situer approximativement en bout de piste (premiers marquages des exercices à allure réduite, par exemple) ;
-
-- pour cet exercice, deux essais sont autorisés (sauf en cas de chute) ;
-
-- trois notations sont possibles pour cet exercice : A, B ou C ;
-
-- la réalisation d'un essai est terminée après le freinage d'urgence, motocyclette arrêtée, candidat(e) pied(s) au sol ;
-
-- les explications sur la façon de procéder pour réussir l'exercice ne doivent pas être indiquées au candidat ;
-
-- une zone est neutralisée :
-
-- du départ jusqu'au franchissement par la bande de roulement avant (point de contact au sol) de la ligne C4 (un seul essai est accordé pour se repositionner. Au-delà, le candidat ne se repositionne pas et le parcours doit être réalisé) ;
-
-- les éventuelles erreurs commises en zone neutralisée ne sont pas prises en compte lors de l'évaluation, à l'exception de la chute, qui reste éliminatoire quel qu'en soit l'endroit et la cause ;
-
-- à l'aller, le troisième rapport de vitesse (minimum) doit être engagé au plus tard avant la ligne C6. Dans le cas contraire, la notation B serait attribuée (sauf pour les véhicules équipés d'un changement de vitesse automatique) ;
-
-- lors du demi-tour, seuls sont à prendre en compte le renversement du cône central et la sortie de terrain. Le rapport de vitesse utilisé et l'allure ne doivent pas être évalués ;
-
-- au retour, le troisième rapport de vitesse (minimum) doit être engagé au plus tard avant le début du freinage. Dans le cas contraire, la notation B serait attribuée (sauf pour les véhicules équipés d'un changement de vitesse automatique) ;
-
-- au cours d'un essai, le fait que le candidat ne poursuive pas l'exercice et revienne au point de départ, suite à une ou plusieurs erreurs (entraînant une notation C), ne signifie pas qu'il abandonne. Chaque candidat a la faculté de terminer son parcours ou de revenir au point de départ ;
-
-- la chute est définie par la motocyclette couchée, un point d'appui au sol autre que les pneumatiques ;
-
-- la chute n'est prise en compte que lors de la réalisation des essais, et pas entre deux essais ;
-
-- une chute entraîne la notation C et l'arrêt immédiat de l'examen ;
-
-- le résultat de cet exercice doit être clairement communiqué au candidat ;
-
-- l'utilisation du radar doit respecter les principes suivants :
+1. L'utilisation du radar doit respecter les principes suivants :
 
 - l'expert doit impérativement se placer selon les prescriptions d'utilisation du radar afin d'être en mesure de relever précisément la vitesse au moment défini par la fiche d'examen ;
 
-- en cas de panne du radar en cours d'essai ou d'absence de mesures fiables, celui-ci est annulé et il est procédé à un nouvel essai ;
+- l'expert doit certifier la pertinence de la mesure. En cas de mesure manifestement erronée (le radar ne peut saisir et analyser dans sa zone de saisie qu'une seule vitesse, d'autres déplacements que celui du véhicule à mesurer dans cette zone peuvent engendrer des mesures erronées au point de contrôle) il reste à son expertise de valider ou invalider l'essai en cours s'il dispose de mesures fiables avant ou après le point de contrôle ;
 
-- en l'absence de radar opérationnel, les examens ne peuvent avoir lieu ;
+- en cas de panne du radar en cours d'essai ou d'absence de mesures fiables, celui-ci est annulé et il est procédé à un nouvel essai ; en l'absence de radar opérationnel disponible sur le centre d'examens, les examens ne peuvent avoir lieu.
 
-- il a été fixé une marge d'erreur de 5 km/h qui doit être ajoutée à la vitesse lue sur le radar, ainsi l'expert ne prend pas en compte la vitesse enregistrée mais la vitesse retenue après application de la marge d'erreur (exemple : vitesse lue sur le radar 46 km/h, vitesse retenue 51 km/h).
+2. Il a été fixé une marge de 5 km/h qui doit être ajoutée à la vitesse lue sur le radar dans les cas suivants :
 
-DÉFINITION DES ERREURS
+- lorsque les véhicules utilisés relèvent de la catégorie A1 (manœuvres 3,5 et 6) ;
 
-|
+- pour la réalisation de l'évitement (manœuvre 6) quelle que soit la catégorie dont relève le véhicule utilisé.
 
-NOTATION DE L'EXERCICE
+Dans ces 2 cas, l'expert ne prend pas en compte la vitesse enregistrée mais la vitesse retenue après application de la marge de 5 km/h (exemple : vitesse lue sur le radar 46 km/h, vitesse retenue 51 km/h).
 
-|
+3. La vitesse relevée n'a pas vocation à être présentée au candidat.
 
-* Chute de la machine : moto couchée, un point d'appui au sol (autre que les pneumatiques).
+Vous pouvez consulter le tableau au format image à partir de l'extrait du Journal officiel électronique authentifié n° 51 du 29 février 2020 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=eVpmX3wjMIEdP8Eu16fvjxlQVRz1Jv7cNit2gv3N6sY=
 
-* Cône déplacé ou renversé : c'est un cône qui doit être remis en place. Un cône touché ne nécessitant pas une remise en place n'est pas considéré comme une erreur.
+I-7. - Régularisations
 
-* Troisième rapport de vitesse non engagé à l'aller avant la ligne C6 (*)
+L'épreuve prévue au C du I de l'article 3 de l'arrêté du 20 avril 2012 modifié fixant les conditions d'établissement, de délivrance et de validité du permis de conduire consiste à réaliser l'ensemble des manœuvres prévues pour l'épreuve hors circulation, à l'exception de la manœuvre 1 : &laquo; déplacer la moto sans l'aide du moteur &raquo;.
 
-* Troisième rapport de vitesse non engagé au retour avant le freinage (*)
+Le candidat dispose de deux essais.
 
-* Pied au sol : C'est un pied qui touche le sol.
+Il a la possibilité de poser trois fois un pied au sol lors de chaque essai pour l'enchaînement des manœuvres 2 à 6, sans que cette action ne soit comptabilisée comme une erreur.
 
-Un pied qui n'est plus sur le repose-pied et qui ne touche pas le sol n'est pas considéré comme une erreur.
+Il doit obtenir une note A ou B à l'issue de l'un de ses 2 essais pour valider la régularisation.
 
-Un pied posé au sol à l'occasion du demi-tour tour n'est pas considéré comme une erreur.
+Les caractéristiques du véhicule d'examen utilisé sont les suivantes : puissance minimum 50 kW, poids à vide minimum 175 kg, cylindrée minimum de 595 cm³ et équipé d'une selle biplace et de deux rétroviseurs homologués.
 
-* Erreur de parcours : ce qui n'est pas en tout point conforme au parcours initialement reconnu.
+II. - L'épreuve en circulation
 
-* Non-respect de la vitesse minimale : vitesse de référence (50 km/h) non atteinte au point de contrôle.
+II-1. - Moyens
 
-* Distance d'arrêt trop longue : arrêt, avec contact au sol de la bande de roulement de la roue avant au-delà de la ligne C4 ou C5 en fonction des circonstances (piste sèche ou humide).
+L'administration fournit une mallette radio comprenant deux émetteurs-récepteurs, un écouteur type oreillette, un chargeur et un baudrier.
 
-* Arrêt complet avant le freinage : le motocycle est à l'arrêt, le candidat a le ou les pieds au sol.
+Il est fait recours à la procédure du véhicule suiveur, avec liaison radio permanente entre le candidat et l'expert.
 
-* Anticipation du freinage d'urgence : freinage d'urgence déclenché avant la ligne C6.
-
-* Sortie de terrain : correspond à la sortie des limites du U matérialisé sur le sol par une bande de peinture de 10 cm de largeur.
-
-Lorsque le U est peint dans la limite des 6 mètres (largeur de la piste), il n'y a pas sortie de terrain si l'on roule sur la ligne sans la franchir.
-
-* Exercice non réalisé : Impossibilité de réaliser l'exercice.
-
-|
-
-Cas général :
-
-* Exercice correctement réalisé : notation A
-
-* Une erreur : notation B
-
-* Deux erreurs ou plus : notation C
-
-Cas particuliers :
-
-* Sortie de terrain : notation C
-
-* Erreur de parcours : notation C
-
-* Arrêt complet avant le freinage : notation C
-
-* Anticipation du freinage d'urgence : notation C
-
-* Non-respect de la vitesse minimale : notation C
-
-* Distance d'arrêt trop longue : notation C
-
-* Exercice non réalisé : notation C
-
-* Chute de la moto : notation C et interruption de l'examen
-
-|
-
-(*) Sauf véhicule équipé d'un changement de vitesses automatique.
-
-|
-
-V-2. - Evitement
-
-Vous pouvez consulter le schéma dans le JO n° 86 du 11/04/2014 texte numéro 11 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20140411&numTexte=11&pageDebut=06585&pageFin=06617
-
-a) Objectif :
-
-L'objectif de ce test est de s'assurer que le candidat maîtrise sa machine à allure plus élevée et est à même de réaliser une manœuvre d'évitement.
-
-Il possède les techniques de contre-braquage (ou braquage inverse) et d'évitement.
-
-Il est capable de revenir sur sa trajectoire initiale.
-
-Il sait où positionner son regard.
-
-Il sait effectuer un freinage pour s'arrêter avec précision.
-
-b) Explications et reconnaissance de l'exercice :
-
-Les explications concernant les exercices de freinage et d'évitement sont fournies simultanément.
-
-Chaque candidat réalise successivement les épreuves de freinage et d'évitement à allure plus élevée, sauf en cas d'échec, de chute ou d'abandon.
-
-Installation des exercices : seuls les cônes figurant sur les fiches d'examen (pièce n° 4 supports d'examen) doivent être installés sur la piste lors de ces exercices.
-
-La mise en place de la moto au point de départ est effectuée par le candidat.
-
-Au cours de la reconnaissance sur fiche, les explications ci-dessous sont à fournir au candidat :
-
-- il doit démarrer de l'extrémité de la piste, avoir monté les trois premiers rapports de vitesse à l'aller avant la ligne C6 (*) ;
-
-- il doit au point (1) avoir atteint la vitesse minimum de 40 km/h ;
-
-- il doit, après avoir fait un demi tour, effectuer le retour en ligne droite, avoir engagé le troisième rapport de vitesse au minimum (*) et avoir atteint la vitesse minimum de 50 km/h au point (2) ;
-
-- il doit au passage en (2) effectuer un évitement et aller immobiliser sa moto en zone (3) ;
-
-- il doit obligatoirement effectuer le parcours fixé par la fiche d'examen ;
-
-- il dispose de deux essais, si nécessaire ;
-
-- un essai est terminé véhicule arrêté en zone (3) ;
-
-- la chute entraîne l'échec immédiat et l'interruption de l'examen.
-
-L'expert doit s'assurer de la parfaite compréhension des consignes données.
-
-(*) Sauf véhicule épuipé d'un changement de vitesses automatique
-
-c) Evaluation/principes :
-
-Afin que l'évaluation soit pratiquée de façon homogène, il est précisé que :
-
-- le départ des exercices d'évitement à allure plus élevée doit se situer approximativement en bout de piste (premiers marquages des exercices à allure réduite par exemple) ;
-
-- pour cet exercice deux essais sont autorisés (sauf en cas de chute) ;
-
-- trois notations sont possibles pour cet exercice : A, B ou C ;
-
-- la réalisation d'un essai se termine en zone (3), comme prévu sur la fiche, motocyclette arrêtée, candidat(e) pied(s) au sol ;
-
-- les explications sur la façon de procéder pour réussir l'exercice ne doivent pas être indiquées au candidat ;
-
-- une zone est neutralisée :
-
-- du départ jusqu'au franchissement par la bande de roulement avant (point de contact au sol) de la ligne C4 (un seul essai est accordé pour se repositionner. Au-delà, le candidat ne se repositionne pas et le parcours doit être réalisé) ;
-
-- les éventuelles erreurs commises en zone neutralisée ne sont pas prises en compte lors de l'évaluation, à l'exception de la chute, qui reste éliminatoire quel qu'en soit l'endroit et la cause ;
-
-- à l'aller, le troisième rapport de vitesse (minimum) doit être engagé au plus tard avant la ligne C6. Dans le cas contraire, la notation B serait attribuée (sauf pour les véhicules équipés d'un changement de vitesses automatique) ;
-
-- lors du demi-tour, seuls sont à prendre en compte le renversement du cône central et la sortie de terrain. Le rapport de vitesse utilisé et l'allure ne doivent pas être évalués et considérés comme une erreur ;
-
-- au retour, le troisième rapport de vitesse minimum doit être engagé au plus tard avant l'entrée dans l'évitement. Dans le cas contraire, la notation B serait attribuée (sauf pour les véhicules équipés d'un changement de vitesse automatique) ;
-
-- au cours d'un essai, le fait que le candidat ne poursuive pas l'exercice et revienne au point de départ, suite à une ou plusieurs erreurs (entraînant une notation C) ne signifie pas qu'il abandonne. Chaque candidat gère son examen comme bon lui semble et reste libre de terminer son parcours ou de revenir au point de départ ;
-
-- la chute est définie par la motocyclette couchée, un point d'appui au sol autre que les pneumatiques ;
-
-- la chute n'est prise en compte que lors de la réalisation des essais, et pas entre deux essais ;
-
-- une chute entraîne la notation C et l'arrêt immédiat de l'examen ;
-
-- le résultat de cet exercice doit être clairement communiqué au candidat ;
-
-- quel que soit le résultat de l'exercice, le candidat est libre d'abandonner l'examen en cours ;
-
-- l'utilisation du radar doit respecter les principes suivants :
-
-- l'expert doit impérativement se placer selon les prescriptions d'utilisation du radar afin d'être en mesure de relever précisément la vitesse au moment défini par la fiche d'examen ;
-
-- en cas de panne du radar en cours d'essai ou d'absence de mesures fiables, celui-ci est annulé et il est procédé à un nouvel essai ;
-
-- en l'absence de radar opérationnel, les examens ne peuvent avoir lieu ;
-
-- il a été fixé une marge d'erreur de 5 km/h qui doit être ajoutée à la vitesse lue sur le radar, ainsi l'expert ne prend pas en compte la vitesse enregistrée mais la vitesse retenue après application de la marge d'erreur (exemple : vitesse lue sur le radar 46 km/h, vitesse retenue 51 km/h).
-
-DÉFINITION DES ERREURS
-
-|
-
-NOTATION DES ERREURS
-
-|
-
-* Chute de la machine : moto couchée, un point d'appui au sol (autre que les pneumatiques).
-
-* Cône déplacé ou renversé : c'est un cône qui doit être remis en place.
-
-Un cône touché ne nécessitant pas une remise en place n'est pas considéré comme une erreur.
-
-* Pied au sol : c'est un pied qui touche le sol.
-
-Un pied qui n'est plus sur le repose-pied et qui ne touche pas le sol n'est pas considéré comme une erreur.
-
-Un pied posé au sol à l'occasion du demi-tour n'est pas considéré comme une erreur.
-
-|
-
-Cas général :
-
-* Exercice correctement réalisé : notation A
-
-* Une erreur : notation B
-
-* Deux erreurs ou plus : notation C
-
-Cas particuliers :
-
-* Sortie de terrain : notation C
-
-* Erreur de parcours : notation C
-
-* Arrêt complet avant la zone (3) : notation C
-
-* Arrêt hors zone (3) : notation C
-
-* Non-respect de la vitesse minimale : notation C
-
-* Renversement ou déplacement d'un ou de plusieurs cônes de l'évitement : notation C
-
-* Exercice non réalisé : notation C
-
-* Chute de la moto : notation C et interruption de l'examen
-
-|
-
-* Troisième rapport de vitesse non engagé à l'aller avant la ligne C6 (*)
-
-|
-
-|
-
-* Troisième rapport de vitesse non engagé au retour avant l'entrée de l'évitement (*)
-
-|
-
-|
-
-* Erreur de parcours : ce qui n'est pas en tout point conforme au parcours initialement reconnu.
-
-|
-
-|
-
-* Non-respect de la vitesse minimale :
-
-vitesse de référence (40 km/h) non atteinte au point de contrôle (1) ;
-
-vitesse de référence (50 km/h) non atteinte au point de contrôle (2).
-
-|
-
-|
-
-* Arrêt hors zone (3) : l'arrêt est considéré hors zone (3) dès qu'un point de contact au sol de la motocyclette se trouve hors des limites définies par les fiches d'examen (matérialisées par 4 cônes sur la piste).
-
-|
-
-|
-
-* Arrêt complet avant la zone (3) : la motocyclette est à l'arrêt, le candidat a le ou les pieds au sol.
-
-|
-
-|
-
-* Renversement ou déplacement d'un ou de plusieurs cônes de l'évitement : quelle que soit la partie de la moto ou du conducteur ayant provoqué la chute du cône.
-
-|
-
-|
-
-* Sortie de terrain : correspond à la sortie des limites du U matérialisé sur le sol par une bande de peinture de 10 cm de largeur. Lorsque le U est peint dans la limite des 6 mètres (largeur de la piste), il n'y a pas sortie de terrain si l'on roule sur la ligne sans la franchir.
-
-|
-
-|
-
-* Exercice non réalisé : impossibilité de réaliser l'exercice.
-
-|
-
-|
-
-(*) Sauf véhicule équipé d'un changement de vitesses automatique.
-
-|
-
-VI. - L'interrogation orale
-
-VI-1. - Modalités
-
-Elle peut se dérouler sur la piste, en salle ou dans le véhicule de l'accompagnateur.
-
-VI-2. - Evaluation/principes
-
-La fiche tirée au sort sert de support au candidat.
-
-Il doit pouvoir s'exprimer librement et il convient que l'évaluation des connaissances soit indépendante de la qualité d'expression.
-
-En cas de difficultés de compréhension relatives à la question ou d'imprécisions concernant la réponse, l'expert doit orienter le candidat, sans pénalisation de ce dernier.
-
-Il appartient à l'expert de relancer un dialogue inexistant ou mal orienté.
-
-La notation s'établit selon un système à trois niveaux symbolisés par une lettre :
-
-- connaissances acquises : A ;
-
-- connaissances en cours d'acquisition : B ;
-
-- connaissances non acquises : C.
-
-Compte tenu de la densité des informations, il ne doit pas être exigé des candidats de restituer par cœur le contenu de chaque fiche.
-
-VII. - Modalités pratiques de l'épreuve en circulation
-
-Il est fait recours à la procédure du véhicule suiveur, avec liaison radio permanente entre le candidat et l'expert. Les indications de direction sont données par l'expert au moyen de la liaison radio.
+Les indications de direction sont données par l'expert au moyen de la liaison radio.
 
 L'épreuve se déroule avec un seul candidat sur la motocyclette.
 
@@ -1058,7 +420,7 @@ L'expert a la possibilité d'emmener simultanément plusieurs candidats pour aug
 
 L'ordre de passage des candidats présentés par un même établissement d'enseignement de la conduite et de la sécurité routière relève du choix de l'enseignant ou du représentant de l'école de conduite.
 
-Le véhicule suiveur n'est pas considéré comme un véhicule d'examen, il ne doit donc pas être obligatoirement équipé de doubles-commandes et de panneaux de toit portant la mention Auto-école .
+Le véhicule suiveur n'est pas considéré comme un véhicule d'examen, il ne doit donc pas être obligatoirement équipé de doubles-commandes et de panneaux de toit portant la mention Auto-école.
 
 Il doit répondre aux conditions ci-après :
 
@@ -1070,11 +432,11 @@ Il doit répondre aux conditions ci-après :
 
 - atteindre une vitesse suffisante permettant de suivre la moto dans des conditions normales de circulation en agglomération, sur route et sur autoroute.
 
-VIII. - Evaluation du comportement en circulation
+II-2. - Evaluation du comportement en circulation
 
-VIII-1. - Généralités
+a) Généralités :
 
-L'épreuve pratique de l'examen du permis de conduire des catégories A1, A2 et A a pour objet de contrôler les connaissances, les aptitudes et le comportement des candidats, nécessaires pour circuler en toute sécurité.
+L'épreuve pratique de l'examen du permis de conduire des catégories A1 et A2 a pour objet de contrôler les connaissances, les aptitudes et le comportement des candidats, nécessaires pour circuler en toute sécurité.
 
 Cette épreuve consiste à évaluer chez tout candidat :
 
@@ -1092,7 +454,7 @@ Cette épreuve consiste à évaluer chez tout candidat :
 
 Cette évaluation est réalisée par l'expert dans les conditions définies ci-après.
 
-Le temps consacré au candidat, qui est de 30 minutes, comprend :
+Le temps consacré au candidat, qui est de 40 minutes, comprend :
 
 - l'accueil du candidat et la vérification de son identité ;
 
@@ -1100,13 +462,19 @@ Le temps consacré au candidat, qui est de 30 minutes, comprend :
 
 - la présentation de l'épreuve par l'expert, en précisant aux candidats qu'ils devront en toute sécurité et avec les précautions requises :
 
-- réaliser un parcours empruntant des voies à caractère urbain, routier et/ou autoroutier ;
+- démontrer leur capacité à maîtriser en toute autonomie le véhicule aussi bien dans le trafic que lors de la réalisation de manœuvres ;
+
+- démontrer leur capacité et leur autonomie à appliquer la réglementation routière.
+
+L'expert devra construire son parcours en tenant compte des paramètres suivants :
+
+- réaliser un parcours empruntant des voies à caractère urbain, routier et/ ou autoroutier ;
 
 - quitter un stationnement et s'insérer dans le flot de circulation ;
 
-- suivre un itinéraire ou se rendre vers une destination préalablement établie, en se guidant de manière autonome, pendant une durée globale d'environ 5 minutes ;
+- suivre un itinéraire ou se rendre vers une destination préalablement établie, en se guidant de manière autonome, pendant une durée globale d'environ 10 minutes ;
 
-- appliquer les règles du code de la route ;
+- appliquer les règles du code de la route et les limitations de vitesse applicables aux élèves conducteurs ;
 
 - adopter une allure adaptée dans les limites autorisées par la réglementation ;
 
@@ -1114,27 +482,23 @@ Le temps consacré au candidat, qui est de 30 minutes, comprend :
 
 - suivant les circonstances, ralentir, s'arrêter ou repartir sur indication de l'expert ;
 
-- la réalisation d'un test de la vue à chaque examen, avant le départ en circulation ou à l'occasion d'un arrêt (en sont dispensés les candidats qui ont satisfait à une visite médicale préalable en vue de l'obtention du permis de conduire). Si le test n'est pas concluant, l'expert en signale le résultat au préfet ;
+- Un test de la vue est systématiquement réalisé durant l'épreuve, au moyen de la lecture des panneaux de direction à l'occasion du guidage. Toutefois, si l'expert estime que la lecture des panneaux n'a pas permis de vérifier avec certitude la bonne vision du candidat, la vérification se fera, à la demande de l'expert, par la lecture d'une plaque d'immatriculation située à environ 20 m du candidat. En sont dispensés les candidats qui ont satisfait à une visite médicale préalable en vue de l'obtention du permis de conduire ;
 
-- une phase de conduite effective d'une durée minimale de 25 minutes, dont environ 5 minutes de conduite autonome ;
+- une phase de conduite effective d'une durée de 35 minutes ;
 
-- l'établissement du bilan de compétences.
+- l'établissement du bilan des compétences.
 
-VIII-2. - Parcours d'examen
+b) Parcours d'examen :
 
 L'épreuve pratique se déroule sur des zones d'évaluation variées empruntant des parcours urbains, routiers et, si possible, autoroutiers ou assimilés.
 
 L'expert s'attache, en fonction des possibilités du secteur d'examen, à placer le candidat dans le maximum de situations de conduite qu'un conducteur est susceptible de rencontrer en et hors agglomération. Il privilégie le passage successif d'une zone à l'autre et veille autant que possible à ménager une progressivité du niveau de difficulté.
 
-Pendant le parcours, l'expert dirige le candidat au moyen de la liaison radio en s'assurant qu'il est bien compris. L'expert utilise notamment les panneaux de signalisation.
+Pendant le parcours, l'expert dirige le candidat au moyen de la liaison radio en s'assurant qu'il ait bien compris ses indications. L'expert utilise notamment les panneaux de signalisation.
 
-Pendant la phase de conduite effective, le candidat est placé en situation d'autonomie pendant environ 5 minutes.
+- Principes d'élaboration du parcours :
 
-a) Principes d'élaboration du parcours :
-
-Le contenu et la durée doivent être en conformité avec les dispositions de l'arrêté fixant les modalités pratiques de l'examen du permis de conduire des catégories A1, A2 et A.
-
-La phase de conduite effective du candidat doit avoir une durée de 25 minutes.
+Le contenu et la durée doivent être en conformité avec les dispositions de l'arrêté fixant les modalités pratiques de l'examen du permis de conduire des catégories A1 et A2.
 
 Le parcours doit comporter globalement un tiers de circulation en agglomération et deux tiers hors agglomération.
 
@@ -1142,19 +506,17 @@ Le candidat doit être évalué dans des infrastructures routières et des situa
 
 L'objectif est d'évaluer la capacité du candidat à déceler les changements de contextes de circulation et à adapter sa conduite en conséquence.
 
-La construction du parcours ne doit pas être figée mais elle doit correspondre aux besoins d'évaluation des compétences du candidat, au fur et à mesure de leur restitution.
+La construction du parcours ne doit pas être figée, elle doit correspondre aux besoins d'évaluation des compétences du candidat, au fur et à mesure de leur restitution.
 
 Il comporte une phase guidée et une phase de conduite autonome.
 
-b) Phase de conduite autonome :
+- Phase de conduite autonome :
 
-Cette phase est mise en œuvre à l'initiative de l'expert et consiste à demander au candidat de suivre un itinéraire balisé par des panneaux visibles.
+Cette phase est mise en œuvre à l'initiative de l'expert et consiste à demander au candidat de suivre un itinéraire balisé par des panneaux visibles que le candidat sera amené à suivre en autonomie sans intervention régulière de l'expert ;
 
-Pendant l'exercice, qui peut être fractionné, l'expert n'indique plus les directions et laisse le candidat en situation d'autonomie pendant environ 5 minutes.
+c) Modalités d'évaluation :
 
-VIII-3. - Modalités d'évaluation
-
-a) Principes généraux de l'évaluation :
+- Principes généraux de l'évaluation :
 
 Pour chaque compétence, l'expert prend en compte tant les actions bien réalisées que celles qui ne l'ont pas été.
 
@@ -1162,7 +524,7 @@ A l'exception des compétences transversales, chacune est évaluée indépendamm
 
 Pour évaluer les actions du candidat, il sera tenu compte du contexte de réalisation.
 
-b) Définition des compétences :
+- Définition des compétences :
 
 Sur le bilan, les compétences sont organisées suivant le schéma analytique défini ci-après :
 
@@ -1174,7 +536,7 @@ Connaître et maîtriser son véhicule :
 
 Avant le départ, le candidat procède à la présentation de l'équipement assurant sa protection, il l'ajuste et effectue les différents réglages sur la motocyclette lui permettant d'avoir une bonne visibilité.
 
-Si nécessaire, il règle ses rétroviseurs et met en fonction le feu de croisement :
+Si nécessaire, il règle ses rétroviseurs et met en fonction le feu de croisement et vérifie son bon fonctionnement.
 
 - savoir se positionner sur le véhicule en circulation, connaître et utiliser les commandes.
 
@@ -1214,7 +576,7 @@ Appliquer la réglementation.
 
 Le candidat applique les règles contenues dans le code de la route, qu'elles soient ou non matérialisées par la signalisation.
 
-Le candidat se conforme aux limitations de vitesse en vigueur pour les élèves conducteurs (R. 413-5).
+Le candidat se conforme aux limitations de vitesse en vigueur pour les élèves conducteurs (article R. 413-5 du code de la route).
 
 Partager la route avec les autres usagers :
 
@@ -1224,19 +586,25 @@ Le candidat indique ses intentions aux autres usagers et les avertit des dangers
 
 Il utilise les feux indicateurs de changement de direction du véhicule à chaque fois que cela est nécessaire, et au moment opportun ; il avertit les autres usagers d'un risque d'obstacle en utilisant, le cas échéant, les feux de détresse (s'il est le dernier d'une file ralentie ou arrêtée, s'il circule à une allure anormalement lente ou s'il est immobilisé sur la chaussée) ; dans certaines conditions de circulation (au crépuscule, par exemple), il peut être amené à utiliser l'avertissement lumineux (franchissement d'intersection, avant d'effectuer un dépassement, avant de franchir un sommet de côte ou avant d'aborder un virage) ; lorsqu'une situation particulière de danger le nécessite, le candidat utilise l'avertisseur sonore ; il s'assure que ses intentions sont comprises par les autres usagers avant d'agir.
 
-Partager la chaussée.
+- Partager la chaussée.
 
-Le candidat positionne son véhicule sur la chaussée en tenant compte de la réglementation, de l'infrastructure, de la configuration des lieux et des conditions de circulation.
+Le candidat positionne son véhicule sur sa voie de circulation en tenant compte de la réglementation, de l'infrastructure, de la configuration des lieux et des conditions de circulation notamment lors des changements de direction et de franchissement d'intersections.
 
-Il sélectionne la voie la plus adaptée à sa progression et maintient sa trajectoire.
+Le candidat devra être en mesure de se positionner en ligne droite, lors des changements et franchissements de direction, et en virages, en adoptant la technique de la trajectoire de sécurité,
 
-Maintenir des espaces de sécurité.
+Lors d'un virage à droite, le candidat adapte, au besoin, son allure avant d'aborder le virage, puis se positionne dans sa demi-voie de gauche en conservant un coussin de sécurité avec l'axe médian, maintient son allure ou à défaut ne la modifie pas de manière importante dans le virage, et dès que la sortie de virage est visible le candidat se repositionne à droite en reprenant sa marche normale.
+
+Lors d'un virage à gauche, le candidat adapte, au besoin, son allure avant d'aborder le virage, puis se positionne dans sa demi-voie de droite en conservant un coussin de sécurité avec l'accotement, maintient son allure ou à défaut ne la modifie pas de manière importante dans le virage, et dès que la sortie de virage est visible le candidat reste à droite et reprend sa marche normale.
+
+Le candidat devra être en mesure de se positionner en sécurité lors des arrêts.
+
+- Maintenir des espaces de sécurité.
 
 En toutes circonstances, le candidat maintient des intervalles de sécurité suffisants autour de son véhicule et tient particulièrement compte des usagers vulnérables. Il augmente cet intervalle lorsque la signalisation, les conditions climatiques ou la situation l'exigent.
 
 Il est capable de moduler la distance de sécurité en fonction de sa vitesse et des conditions de circulation.
 
-2. Un ensemble autonomie-conscience du risque, dans lequel trois compétences transversales sont à évaluer.
+2. Un ensemble autonomie-conscience du risque, dans lequel trois compétences transversales sont à évaluer :
 
 Analyse des situations.
 
@@ -1250,23 +618,23 @@ Le cas échéant, il sait expliquer les raisons de ses choix.
 
 Conduite autonome.
 
-Le candidat est capable de conduire en suivant un itinéraire et/ou en se rendant vers un endroit préalablement défini par l'expert.
+Le candidat est capable de conduire en suivant un itinéraire balisé par des panneaux de signalisation et/ ou en se rendant vers un endroit préalablement défini par l'expert.
 
 Il recherche la signalisation et les indices utiles à son déplacement. Il détecte les changements de direction à réaliser et déclenche par lui-même l'enchaînement des actions de conduite.
 
 Le candidat démontre ainsi sa capacité à se diriger seul dans la circulation tout en maintenant le niveau de ses compétences.
 
-3. La courtoisie.
+3. La courtoisie :
 
 Le candidat fait preuve d'une attitude préventive envers les autres usagers démontrant globalement sa capacité à faciliter la fluidité de la circulation et à contrôler ses réactions face à la pression exercée par les autres usagers, favorisant ainsi une conduite apaisée.
 
-IX. - Transcription de l'évaluation
+II-3. - Transcription de l'évaluation
 
 Le résultat de l'épreuve pratique découle du bilan chiffré de l'évaluation du niveau d'acquisition des compétences.
 
 A l'issue de chaque examen, l'expert établit le recueil du bilan des compétences restituées par le candidat.
 
-Le résultat de ce bilan est communiqué au candidat.
+Ce document est envoyé par voie électronique ou postale.
 
 Il est également précisé au candidat si des constatations faites par l'expert à l'occasion de l'examen entraînent des réserves d'ordre médical ou administratif.
 
@@ -1274,6 +642,6 @@ L'expert renseigne le niveau d'appréciation de chaque compétence à l'endroit 
 
 Les sous-totaux par compétence et le total chiffré du bilan des compétences sont renseignés, sauf si une erreur éliminatoire a été commise.
 
-Par ailleurs, le bilan des compétences n'est établi que si l'examen a été mené à son terme.
+Par ailleurs, le bilan des compétences n'est renseigné que si l'examen a été mené à son terme.
 
 La transcription a pour but de communiquer au candidat et à son formateur le bilan des compétences dressé à l'issue de l'épreuve pratique et de mettre en évidence les points nécessitant un complément de formation.
