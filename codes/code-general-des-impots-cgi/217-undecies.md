@@ -4,7 +4,7 @@ I. – Les entreprises soumises à l'impôt sur les sociétés réalisant, au ti
 
 La déduction prévue au premier alinéa ne s'applique qu'à la fraction du prix de revient des investissements réalisés par les entreprises qui excède le montant des apports en capital ouvrant droit au profit de leurs associés aux déductions prévues au II et aux articles 199 undecies ou 199 undecies A et le montant des financements, apports en capital et prêts participatifs, apportés par les sociétés de financement définies au g du 2 de l'article 199 undecies A.
 
-La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé. La déduction ne s'applique pas à l'acquisition de véhicules définis au premier alinéa du I de l'article 1010 qui ne sont pas strictement indispensables à l'activité de l'exploitant.
+La déduction prévue au premier alinéa s'applique aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés, lorsque ces travaux constituent des éléments de l'actif immobilisé. La déduction ne s'applique pas à l'acquisition de véhicules définis au 5° de l'article 1007 qui ne sont pas strictement indispensables à l'activité de l'exploitant.
 
 La déduction prévue au premier alinéa s'applique à la réalisation d'investissements affectés plus de cinq ans par le concessionnaire à l'exploitation d'une concession de service public local à caractère industriel et commercial et réalisés dans des secteurs éligibles définis par ce même alinéa. La déduction prévue au premier alinéa ne s'applique pas aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.
 
@@ -128,4 +128,6 @@ VI. – Le bénéfice de la déduction prévue aux I, I bis, II et II ter est su
 
 NOTA :
 
-Conformément au II de l'article 159 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux investissements mis en service au titre des exercices ouverts à compter du 1er janvier 2021 et pour l'agrément desquels une demande est déposée à compter du 1er janvier 2020.
+Conformément au B du VI de l'article 69 de la loi n° 2019-1479 du 28 décembre 2019, l'article 217 undecies dans sa rédaction résultant du F du I dudit article, entre en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2020.
+
+Conformément à l'article 1er du décret n° 2020-169 du 27 février 2020, ces dispositions entrent en vigueur le 1er mars 2020.
