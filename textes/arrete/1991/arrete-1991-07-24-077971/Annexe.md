@@ -1240,7 +1240,7 @@ Un exploitant est autorisé à exploiter un aéronef dans un espace, à travers 
 
 5.10.10. Vol de démonstration
 
-Seul un exploitant détenteur d'un des agréments prévus au R. 133-1-1 du code de l'aviation civile ou de l'un des agréments ayant le même objet prévus par le règlement (CE) n°1592/2002 susvisé peut postuler en vue d'effectuer des vols de démonstration, sous réserve du respect des exigences fixées en annexe VI ou d'exigences particulières fixées par le ministre chargé de l'aviation civile.
+Seul un exploitant détenteur d'un des agréments prévus au R. 133-1-1 du code de l'aviation civile ou de l'un des agréments ayant le même objet prévus par le règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence de l'Union européenne de la sécurité aérienne peut postuler en vue d'effectuer des vols de démonstration, sous réserve du respect des exigences fixées en annexe VI ou d'exigences particulières fixées par le ministre chargé de l'aviation civile.
 
 5.10.11. Vol technique
 
