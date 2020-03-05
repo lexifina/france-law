@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113917
+
+- Question : [SEQ200113917](seq200113917.md) — Mise en application du droit de préférence
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-03-05, page 1147*
+
+Le droit de préférence, instauré par la loi de modernisation de l'agriculture et de la pêche du 27 juillet 2010, permet de regrouper des petites parcelles boisées, inférieures à 4 hectares (ha), avec des parcelles contiguës afin d'en faciliter la gestion. Il donne un droit d'acquisition prioritaire aux propriétaires forestiers voisins des parcelles mises en vente (article L. 331-19 du nouveau code forestier). L'ordonnance n° 2012-92 du 26 janvier 2012 a précisé que le droit de préférence s'applique à la vente d'une propriété classée au cadastre en nature de bois et forêt de moins de 4 ha. Le droit de préférence des propriétaires voisins institué par le code forestier est un outil permettant de lutter contre le morcellement de la forêt privée. Il s'ajoute aux différents modes de regroupement du foncier forestier existant. Pour apprécier la contiguïté des parcelles, il faut prendre en compte les caractéristiques de l'obstacle, notamment sa taille, qui ne doivent pas empêcher l'unité de gestion. Ainsi, on considère qu'un chemin, qu'il soit privé ou public, traversant plusieurs parcelles boisées ne rompt pas la continuité, alors qu'une route, autoroute, rivière, canal de navigation, voie ferrée sont des obstacles difficilement franchissables qui entraînent une discontinuité. De la même manière, un fossé d'assainissement qui séparerait deux parcelles boisées, qu'il appartienne ou pas à une association foncière de remembrement, sera également considéré comme un obstacle non susceptible de rompre la continuité de l'ensemble forestier. Le propriétaire d'une parcelle boisée peut donc exercer son droit de préférence sur une parcelle boisée voisine, séparée par un fossé d'assainissement.
