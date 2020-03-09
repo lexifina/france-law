@@ -1,10 +1,10 @@
 # Article Annexe 1
 
-Contingent (*) de puissance et de jauge en fonction des régions et des catégories de demandes
+CONTINGENT* DE PUISSANCE ET DE JAUGE EN FONCTION DES RÉGIONS ET DES CATÉGORIES DE DEMANDES
 
-TABLEAU 1
+Tableau 1
 
-RÉSERVATIONS DE CAPACITÉS SANS AUGMENTATION DE CAPACITÉ DITS "1 POUR 1"
+Réservations de capacités sans augmentation de capacité dits "1 pour 1"
 
 Régions |
 
@@ -24,9 +24,9 @@ dont Nouvelle Aquitaine |
 
 110 |
 
-TABLEAU 2
+Tableau 2
 
-RÉSERVATIONS DE CAPACITÉS DITS "DE DROIT"
+Réservations de capacités dits "de droit"
 
 Régions |
 
@@ -46,9 +46,9 @@ dont PACA |
 
 46 |
 
-TABLEAU 3
+Tableau 3
 
-RÉSERVATIONS DE CAPACITÉS DITS "AUTRES"
+Réservations de capacités dits "Autres"
 
 Régions |
 
@@ -58,7 +58,7 @@ Puissance kW |
 
 Plus de 25 m |
 
-1 102,00 |
+1 190,00 |
 
 3 530 |
 
@@ -104,4 +104,4 @@ dont PACA |
 
 1 501 |
 
-(*) Le contingent alloué dans l'arrêté ne présente pas les capacités engagées au retrait par les porteurs de projet.
+* Le contingent alloué dans l'arrêté ne présente pas les capacités engagées au retrait par les porteurs de projet.
