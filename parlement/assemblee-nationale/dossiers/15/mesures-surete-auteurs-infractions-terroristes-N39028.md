@@ -1,0 +1,54 @@
+# Mesures de sûreté contre les auteurs d'infractions terroristes
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39028
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_surete_auteurs_infractions_terroristes
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl19-544.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-03-10 : 1er dépôt d'une initiative. (PIONANR5L15B2754)
+  - 2020-06-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-03-10 : Renvoi en commission au fond
+      - 2020-06-03 : Nomination de rapporteur
+      - 2020-06-03 : Réunion de commission
+      - 2020-06-17 : Réunion de commission
+      - 2020-06-22 : Réunion de commission
+      - 2020-06-17 : Dépôt de rapport (RAPPANR5L15B3116, PIONANR5L15BTC3116)
+  - Discussion en séance publique
+    - 2020-06-22 : Discussion en séance publique
+    - 2020-06-22 : Discussion en séance publique
+    - 2020-06-22 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-06-23 : Dépôt d'une initiative en navette (PIONSNR5S339B0544)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-23 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-07-15 : Dépôt de rapport (RAPPSNR5S339B0630, PIONSNR5S339BTC0631)
+  - Discussion en séance publique
+    - 2020-07-21 : Discussion en séance publique
+    - 2020-07-21 : Décision
+- Commission Mixte Paritaire
+  - 2020-07-21 : Dépôt d'un projet de loi (PIONANR5L15B3228)
+  - 2020-07-21 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-07-22 : Nomination de rapporteur
+    - 2020-07-22 : Dépôt du rapport d'une CMP (RAPPANR5L15B3238, PIONANR5L15BTC3238)
+    - 2020-07-22 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0673, PIONSNR5S339BTC0674)
+  - Discussion en séance publique
+    - 2020-07-23 : Décision
+  - Discussion en séance publique
+    - 2020-07-27 : Décision
+  - 2020-07-22 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-07-27 : Saisine du conseil constitutionnel
+  - 2020-07-28 : Saisine du conseil constitutionnel
+  - 2020-07-29 : Saisine du conseil constitutionnel
+  - 2020-08-07 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-08-10 : Promulgation d'une loi
