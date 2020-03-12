@@ -6,31 +6,17 @@ REGROUPEMENT DE METIERS |
 
 AGENT DES SERVICES LOGISTIQUES NIV 1 |
 
-Sont rattachés à ce regroupement |
+|
 
-Qui correspondent à |
+Qui correspond à |
 
-6 EMPLOIS courants actuels |
-
-1 METIER (nouveau) |
-
-Agent de service |
+1 METIER |
 
 AGENT DES SERVICES LOGISTIQUES
 
 NIVEAU 1
 
 |
-
-Agent hôtelier |
-
-Plongeur |
-
-Manoeuvre |
-
-Manutentionnaire magasin |
-
-Agent hôtelier spécialisé N1 - N2 |
 
 Critères de regroupement
 
@@ -64,39 +50,9 @@ dans les conditions
 
 ci-dessous |
 
-Agent hôtelier |
-
-|
-
-|
-
-Plongeur |
-
-|
-
-|
-
-Manoeuvre |
-
-|
-
-|
-
-Manutentionnaire magasin |
-
-|
-
-|
-
-Agent hôtelier spécialisé |
-
-|
-
-|
-
 Définition du métier
 
-L'agent des services logistiques Niveau 1 assure, selon son affectation, des travaux d'hygiène, d'entretien, de service de restauration, de manutention et autres tâches simples. Il a des tâches d'agent hôtelier spécialisé lorsqu'il exécute ses tâches d'agent de service, d'agent d'hôtelier ou de serveur, pour plus de la moitié de son temps au contact des usagers de l'établissement ou du service (personnes hospitalisées, handicapées, âgées...).
+L'agent des services logistiques Niveau 1 assure, selon son affectation, des travaux d'hygiène, d'entretien, de service de restauration, de manutention et autres tâches simples. Il a des tâches d'agent hôtelier spécialisé lorsqu'il exécute ses tâches d'agent de service, d'agent d'hôtelier ou de serveur, pour plus de la moitié de son temps au contact des usagers de l'établissement ou du service (personnes hospitalisées, handicapées, âgées,...).
 
 Conditions d'accès au métier
 
