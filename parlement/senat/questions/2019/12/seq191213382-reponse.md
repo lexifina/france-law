@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213382
+
+- Question : [SEQ191213382](seq191213382.md) — Applicabilité aux fonctionnaires du congé de paternité en cas d'hospitalisation immédiate de l'enfant
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-03-12, page 1278*
+
+Le décret n° 2019-630 du 24 juin 2019 relatif à la création d'un congé de paternité en cas d'hospitalisation de l'enfant prévoit, pour les salariés relevant du régime général de la sécurité sociale, un allongement du congé de paternité, d'une durée maximale de trente jours, en cas d'hospitalisation immédiate de l'enfant après sa naissance, pendant toute la période d'hospitalisation dans une ou plusieurs unités de soins spécialisés. Cette disposition est applicable aux agents contractuels de la fonction publique territoriale compte tenu du renvoi opéré par le décret n° 88-145 du 15 février 1988 pris pour l'application de l'article 136 de la loi du 26 janvier 1984 modifiée, portant dispositions statutaires relatives à la fonction publique territoriale, à la durée du congé de paternité prévue par la législation sur la sécurité sociale. Toutefois, les fonctionnaires territoriaux ne peuvent pas, en l'état actuel du droit, bénéficier d'un allongement du congé de paternité en cas d'hospitalisation de l'enfant. Afin de permettre l'extension de ce dispositif aux fonctionnaires, l'article 40 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique habilite le Gouvernement à légiférer par voie d'ordonnance afin de prendre toute mesure permettant d'harmoniser, en transposant et en adaptant les évolutions intervenues en faveur des salariés du régime général de sécurité sociale, relatives au congé de paternité. Cette question fait actuellement l'objet d'une concertation inter-versants avec les représentants des employeurs et des organisations syndicales afin que ce dispositif puisse être applicable aux fonctionnaires courant 2020.
