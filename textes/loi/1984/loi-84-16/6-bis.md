@@ -8,7 +8,7 @@ Tout contrat conclu ou renouvelé en application du 2° de l'article 3 et des ar
 
 La durée de six ans mentionnée au troisième alinéa du présent article est comptabilisée au titre de l'ensemble des services effectués dans des emplois occupés en application du 2° de l'article 3 et des articles 4, 6, 6 quater, 6 quinquies et 6 sexies. Elle doit avoir été accomplie dans sa totalité auprès du même département ministériel, de la même autorité publique ou du même établissement public. Pour l'appréciation de cette durée, les services accomplis à temps incomplet et à temps partiel sont assimilés à du temps complet.
 
-Les services accomplis de manière discontinue sont pris en compte, sous réserve que la durée des interruptions entre deux contrats n'excède pas quatre mois.
+Les services accomplis de manière discontinue sont pris en compte, sous réserve que la durée des interruptions entre deux contrats n'excède pas quatre mois. Pour le calcul de la durée d'interruption entre deux contrats, la période de l'état d'urgence sanitaire déclaré sur le fondement de l'article L. 3131-12 du code de la santé publique n'est pas prise en compte.
 
 Lorsqu'un agent atteint l'ancienneté mentionnée au troisième alinéa du présent article avant l'échéance de son contrat en cours, celui-ci est réputé être conclu à durée indéterminée. L'autorité d'emploi lui adresse une proposition d'avenant confirmant la nouvelle nature du contrat. En cas de refus par l'agent de l'avenant proposé, l'agent est maintenu en fonctions jusqu'au terme du contrat à durée déterminée en cours.
 
