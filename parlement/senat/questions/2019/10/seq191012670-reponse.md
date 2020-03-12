@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012670
+
+- Question : [SEQ191012670](seq191012670.md) — Affichage de la fonction d'élu local
+
+## Réponse
+
+*Intérieur, JO du 2020-03-12, page 1279*
+
+Les signes distinctifs de la qualité d'élu local présentent à la fois un caractère réglementaire et symbolique. Tout d'abord, il convient de rappeler que les maires et adjoints, en leur qualité d'officier de police judiciaire et officier d'état civil, doivent revêtir l'écharpe tricolore dans les conditions prévues à l'article D. 2122-4 du code général des collectivités territoriales (CGCT). Les conseillers municipaux portent également l'écharpe dans les cas prévus par la loi. Ce signe distinctif de la fonction doit aussi être obligatoirement porté en application de l'article L. 211-9 du code de la sécurité intérieure lors des sommations en vue de dissiper un attroupement. L'insigne officiel de maire, décrit à l'article D. 2122-5 du CGCT, constitue un autre signe distinctif existant. En outre, la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique (article 42) créée dans le CGCT un article nouveau, L. 2122-34-1 qui dispose notamment qu'à « compter de leur désignation, les maires et les adjoints sont destinataires d'une carte d'identité tricolore attestant de leurs fonctions ». Enfin, s'agissant de la cocarde tricolore sur les véhicules, son usage n'est pas autorisé pour les maires qui disposent par ailleurs de la possibilité d'afficher un timbre, sceau ou blason de la commune, complété de la mention du mandat et dans les conditions définies par le conseil municipal. Ce signe distinctif ne confère par ailleurs aucune dérogation ou facilité au regard du droit du code de la route. En l'état, les différentes possibilités offertes aux élus aux fins d'identification paraissent suffisantes.
