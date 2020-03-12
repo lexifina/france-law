@@ -18,10 +18,6 @@ Article 11-1 du décret n° 73-138 du 12 février 1973 portant application de la
 
 Haras, courses et équitation |
 
-Autorisation d'acquisitions, de constructions et de travaux effectués par les sociétés de courses (agriculture et budget). |
-
-Article 31 du décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel. |
-
 Liste des sociétés de courses et des organismes communs dont les projets de budget et les comptes financiers sont approuvés par les ministres. Décisions d'approbation de ces projets de budget et de ces comptes financiers (agriculture et budget). |
 
 Premier alinéa de la l'article 34 du décret n° 97-456 du 5 mai 1997 relatif aux sociétés de courses de chevaux et au pari mutuel. |
