@@ -272,9 +272,13 @@ Ateliers et chantiers de Concarneau :
 
 Ateliers et Forges de l'Ouest, port de commerce, 29200 Brest : de 1945 à 1968.
 
-Ateliers français de l'Ouest/Atelier de réparation du Nord-Ouest/Sobrena :
+Ateliers français de l'Ouest/ Atelier de réparation du Nord-Ouest/ Sobrena :
 
-- rue Victor-Fenoux, 29200 Brest, puis ZI portuaire, 29200 Brest : depuis 1968.
+rue Victor-Fenoux 29200 Brest puis ZI portuaire, 29200 Brest : de 1968 à 2012
+
+Puis
+
+DAMEN SHIPREPAIR BREST, rue Emile de Carcaradec, Port de commerce, 29200 Brest : de 2012 au 30 juin 2021.
 
 Ateliers mécaniques Bougar :
 
@@ -500,7 +504,9 @@ Etablissements GAUTIER et Cie. 8, rue Charles-Tellier, 56100 Lorient. De 1941 à
 
 Etablissements Guerif et Moreau/Etablissements généraux de mécanique de l'Ouest/Société d'exploitation des procédés EGMO/EGMOCAR :
 
-- 8, rue Henry-Estier, 56100 Lorient, puis 52, boulevard Isidore-Marfille, 29200 Brest : depuis 1945.
+- 8, rue Henry-Estier, 56100 Lorient, puis 52, boulevard Isidore-Marfille, 29200 Brest : de 1945 à 2006 puis NAVTIS,12, rue Jean-Charles Chevillotte, 29200 BREST et 52 boulevard Isidore Marfille CS 12938
+
+29229 BREST CEDEX 2 : de 2006 au 30 juin 2021.
 
 Etablissements Guillaume et Cie :
 
@@ -824,9 +830,9 @@ SMCTO.B :
 
 - 21, rue Julien-de-la-Gravière, 29200 Brest : depuis sa création.
 
-SMNB :
+SMNB, 12, rue Jean-Charles-Chevillotte, 29200 Brest : de 1959 à 2006, puis NAVTIS, 12, rue Jean-Charles Chevillotte 29200 BREST : de 2006 au 30 juin 2021.
 
-- 12, rue Jean-Charles-Chevillotte, 29200 Brest : depuis 1959
+29200 BREST
 
 SMCPO (Société de montage en chaudronnerie et préfabrication de l'Ouest) :
 
