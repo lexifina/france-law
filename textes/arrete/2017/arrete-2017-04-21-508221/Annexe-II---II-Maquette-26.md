@@ -226,7 +226,7 @@ Les compétences spécifiques sont les suivantes :
 
 -ou 3 stages dans un lieu hospitalier agréé à titre principal en pneumologie et garantissant l'accès à un plateau technique pendant 6 mois cumulés ;
 
--1 stage dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en pneumologie ou dans un lieu hospitalier (unités de soins intensifs respiratoires) agréé à titre principal en pneumologie. Si un tel stage n'a pas été accompli au cours de la phase socle, il est remplacé par un stage agréé à titre principal en pneumologie dans un lieu hospitalier ;
+-1 stage dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en pneumologie ou dans un lieu hospitalier (unités de soins intensifs respiratoires) agréé à titre principal en pneumologie. Si un tel stage a été accompli au cours de la phase socle, il est remplacé par un stage agréé à titre principal en pneumologie dans un lieu hospitalier ;
 
 -2 stages libres.
 
@@ -462,4 +462,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2019-2020,

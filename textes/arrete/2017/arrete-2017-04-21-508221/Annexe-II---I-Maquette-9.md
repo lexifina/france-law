@@ -112,7 +112,7 @@ C. - Comportementales et notamment : identifier les responsabilités individuell
 
 Stages à réaliser :
 
-- 1 stage dans un lieu hospitalier avec encadrement universitaire agréé à titre principal en gynécologie-obstétrique ;
+- 1 stage dans un lieu hospitalier agréé à titre principal en gynécologie obstétrique ;
 
 - 1 stage libre.
 
@@ -357,3 +357,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 - entretien avec la commission locale de la spécialité ;
 
 - soumission d'au moins un article dans une revue à comité de lecture et présentation orale d'un travail de recherche.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2017-2018.
