@@ -1,0 +1,52 @@
+# Loi d'urgence pour faire face à l'épidémie de covid-19
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39205
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_urgence_epidemie_covid-19
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-376.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-03-18 : 1er dépôt d'une initiative. (PRJLSNR5S339B0376)
+  - 2020-03-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-03-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-03-19 : Dépôt de rapport (RAPPSNR5S339B0381, PRJLSNR5S339BTC0382)
+  - Discussion en séance publique
+    - 2020-03-19 : Discussion en séance publique
+    - 2020-03-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-03-20 : Dépôt d'une initiative en navette (PRJLANR5L15B2762)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-03-20 : Renvoi en commission au fond
+      - 2020-03-20 : Nomination de rapporteur
+      - 2020-03-20 : Réunion de commission
+      - 2020-03-20 : Dépôt de rapport (RAPPANR5L15B2764, PRJLANR5L15BTC2764)
+  - Discussion en séance publique
+    - 2020-03-21 : Discussion en séance publique
+    - 2020-03-21 : Discussion en séance publique
+    - 2020-03-21 : Discussion en séance publique
+    - 2020-03-21 : Décision
+- Commission Mixte Paritaire
+  - 2020-03-22 : Dépôt d'un projet de loi (PRJLSNR5S339B0386)
+  - 2020-03-22 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-03-22 : Nomination de rapporteur
+    - 2020-03-22 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0387, PRJLSNR5S339BTC0388)
+    - 2020-03-22 : Dépôt du rapport d'une CMP (RAPPANR5L15B2766, PRJLANR5L15BTC2766)
+  - Discussion en séance publique
+    - 2020-03-22 : Discussion en séance publique
+    - 2020-03-22 : Décision
+  - Discussion en séance publique
+    - 2020-03-21 : Discussion en séance publique
+    - 2020-03-21 : Discussion en séance publique
+    - 2020-03-22 : Discussion en séance publique
+    - 2020-03-22 : Décision
+  - 2020-03-22 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-03-23 : Promulgation d'une loi
