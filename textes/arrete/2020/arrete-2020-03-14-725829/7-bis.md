@@ -1,0 +1,3 @@
+# Article 7 bis
+
+Eu égard à la situation sanitaire, afin de permettre une meilleure prise en charge des personnes atteintes par le virus covid-19 et, à cette fin, de les répartir si nécessaire entre différents établissements de santé sur l'ensemble du territoire de la République, les moyens des armées peuvent être utilisés pour transporter tout patient. Les personnels du service de santé des armées qui prendront en charge les patients lors de ces transports peuvent utiliser tout matériel, produit de santé et produit sanguin et réaliser tout acte et examen nécessaire à la réalisation de cette mission.
