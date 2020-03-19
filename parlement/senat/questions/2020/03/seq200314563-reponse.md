@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314563
+
+- Question : [SEQ200314563](seq200314563.md) — Évolution des négociations relatives au fonds européen d'aide aux plus démunis
+
+## Réponse
+
+*Affaires européennes, JO du 2020-03-19, page 1351*
+
+Le Fonds européen d'aide aux plus démunis (FEAD) constitue l'un des piliers de l'Europe sociale. Cet instrument financier établi par le cadre financier pluriannuel 2014-2020 représente aujourd'hui une source majeure de financement pour les associations de distribution alimentaire en France. Dans son projet de cadre financier pluriannuel 2021-2027, la Commission européenne a proposé le regroupement de différents instruments financiers à vocation sociale, dont le FEAD, dans un nouveau fonds : le Fonds Social Européen (FSE+). Le FEAD ne constituerait donc plus un instrument financier distinct mais son objectif, à savoir l'aide aux plus démunis et spécifiquement la lutte contre les privations matérielles, ferait l'objet d'un programme spécifique et de mesures de gestion simplifiées au sein du FSE+. S'agissant du niveau d'intervention, la Commission a proposé que chaque État membre attribue au moins 2% de ses fonds FSE+ à la lutte contre les privations matérielles : il s'agit donc uniquement d'un taux minimum obligatoire, qui ne préjuge pas de la part finale du FSE+ que chaque État choisira de consacrer à la lutte contre les privations matérielles. En tout état de cause, le Gouvernement s'est engagé à préserver les moyens consacrés à l'aide alimentaire par rapport à la période actuelle. La France souhaite parvenir prochainement à un accord entre chefs d'État et de gouvernement sur le cadre financier pluriannuel 2021-2027. Lors des prochaines étapes de la négociation, les autorités françaises défendront résolument le maintien des enveloppes consacrées à l'aide aux plus démunis au sein du budget européen. Par ailleurs, le Gouvernement persistera dans son choix d'utiliser ces enveloppes pour financer des achats de denrées.
