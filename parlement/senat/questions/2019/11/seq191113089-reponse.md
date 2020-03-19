@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113089
+
+- Question : [SEQ191113089](seq191113089.md) — Évolution du statut du personnel résident de l'agence pour l'enseignement français à l'étranger
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2020-03-19, page 1364*
+
+L'agence pour l'enseignement français à l'étranger (AEFE) recrute, par la voie du détachement, des personnels expatriés et des personnels résidents. L'article D. 911-43 du code de l'éducation précise que sont considérés comme personnels résidents les fonctionnaires établis dans le pays depuis trois mois au moins à la date d'effet du contrat. Ainsi, les enseignants souhaitant être détachés en qualité de résidents auprès de l'AEFE pour exercer à l'étranger doivent être placés en position de disponibilité pour convenances personnelles pendant trois mois, durée pendant laquelle ils résident dans le pays et exercent sur contrat local. A l'issue de ces trois mois, ils remplissent les conditions pour être détachés sur un contrat de résident. Les détachements prenant effet à compter du 1er septembre 2019 sont prononcés pour une durée de un à trois ans renouvelables dans la limite de six ans continus. A l'issue des six ans, l'enseignant réintègrera son académie ou département d'origine. Il ne pourra repartir en détachement qu'après une période de trois ans de services effectifs. L'introduction de cette limitation de la durée de détachement vise à permettre à un nombre plus conséquent d'enseignants de bénéficier d'une expérience d'enseignement à l'étranger. En outre, elle facilitera la gestion des emplois par les académies et les départements, en particulier pour les territoires en situation de grande tension sur les ressources humaines. Cette nouvelle disposition s'applique aux personnels résidents sans remettre en cause la période de disponibilité préalable au détachement.
