@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214415
+
+- Question : [SEQ200214415](seq200214415.md) — Délai de transcription des divorces prononcés à l'étranger auprès du service central d'état civil à Nantes
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-03-19, page 1384*
+
+L'inscription, dans les registres de l'état civil français, des divorces prononcés à l'étranger ne relève pas d'une procédure de transcription dont la compétence incomberait au service central d'état civil du ministère de l'Europe et des affaires étrangères. En la matière, le rôle du service central d'état civil se limite, pour les actes qui figurent dans ses registres, à apposer les mentions de décisions étrangères de divorce dès lors qu'il en reçoit l'instruction du parquet de Nantes. En effet, la validation, en France, d'une décision étrangère de divorce relève d'une procédure de vérification d'opposabilité (pour en faire la publicité) ou d'exequatur (pour la rendre exécutoire) qui sont de la compétence du procureur de la République, pour la première, et du tribunal judiciaire, pour la seconde. Une fois reçue l'instruction du parquet, le service central d'état civil appose la mention correspondante dans ses registres dans un délai moyen de deux semaines. En outre, en application des rubriques 582 et suivantes de l'instruction générale relative à l'état civil du ministère de la justice (IGRECJ), la vérification d'opposabilité/exequatur d'une décision étrangère de divorce n'est pas obligatoire et son absence n'empêche pas les parties concernées de se remarier. Par ailleurs, les décisions de divorce prononcées dans les pays de l'Union européenne, à l'exception du Danemark, ne sont pas soumises à la procédure décrite ci-dessus : en application du règlement de l'Union européenne 2201/2003, elles sont, sauf motif particulier, directement exécutoire en France et peuvent recevoir publicité dans les registres de l'état civil français sur simple demande des parties intéressées.
