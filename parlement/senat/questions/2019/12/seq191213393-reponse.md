@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213393
+
+- Question : [SEQ191213393](seq191213393.md) — Rapatriement des jeunes enfants de djihadistes français retenus en Syrie
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-03-19, page 1381*
+
+La France suit avec la plus grande attention la situation des ressortissants français qui se trouvent dans les camps au Kurdistan syrien. La priorité du Gouvernement a toujours été d'assurer la sécurité de nos citoyens dans le respect de nos principes et de nos valeurs. Les personnes adultes dont nous parlons, des hommes et des femmes, ont pris la décision de rejoindre Daech et de se battre dans une zone de guerre. Ces hommes et ces femmes ne se sont pas retrouvés en détention dans le nord-est syrien par hasard. Ils doivent être poursuivis au plus près du lieu où ils ont commis leurs crimes. Notre priorité a toujours été d'assurer la lutte contre l'impunité des crimes commis par ces combattants de Daech. C'est une question de sécurité ; c'est aussi une question de justice à l'égard des victimes. A la différence de leurs parents, les enfants n'ont pas choisi de rejoindre l'Irak et la Syrie. Ils n'ont pas choisi de rejoindre la cause d'une organisation terroriste. Et c'est la raison pour laquelle le Gouvernement a considéré que les mineurs, notamment les orphelins et isolés les plus vulnérables devaient être rapatriés, dès lors que les conditions le permettaient. Deux opérations successives ont été conduites à cet effet. Mais la France n'assure pas le contrôle effectif de ces territoires et les opérations qu'elle a pu mener, dans une zone de guerre, n'ont pu l'être qu'après négociation avec les forces locales. Là également, la situation de trouble régional actuelle rend plus difficiles de telles opérations de rapatriement, mais il n'y a aucun changement dans la volonté du Gouvernement de les mener. Sa détermination et ses efforts restent intacts.
