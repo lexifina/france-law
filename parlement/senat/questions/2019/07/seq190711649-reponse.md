@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711649
+
+- Question : [SEQ190711649](seq190711649.md) — Accès des personnes atteintes de diabète de type 1 à des chiens d'assistance
+
+## Réponse
+
+*Personnes handicapées, JO du 2020-03-19, page 1385*
+
+L'article 88 de la loi 87-588 du 30 juillet 1987 modifiée dispose que « l'accès aux transports, aux lieux ouverts au public, ainsi qu'à ceux permettant une activité professionnelle, formatrice ou éducative est autorisé aux chiens guides d'aveugle ou d'assistance accompagnant les personnes titulaires de la carte “mobilité inclusion” portant les mentions “invalidité” et “priorité” (…) ou la personne chargée de leur éducation pendant toute leur période de formation. ». Les chiens guides d'aveugles ou d'assistance bénéficient d'une éducation par des centres spécialisés qui doit garantir un bon comportement de l'animal partout où il accompagne son maître, dans toutes les circonstances. Le label délivré aux centres d'éducation dans les conditions fixées par l'article D.245-24-1 et suivants du code de l'action sociale et des familles vise à apporter la garantie que différents critères de qualité de l'éducation des chiens sont réunis. Il existe actuellement, en France, une quinzaine de centres de formation de chiens guides ou d'assistance. Aujourd'hui, certains centres forment également des chiens pour accompagner d'autres publics. L'offre reste en deçà des attentes. Il ne paraît cependant pas judicieux de renoncer à une formation dans un centre labellisé parce que ces derniers garantissent un niveau qualitatif élevé d'éducation qui fonde le droit d'accès ouvert par la loi aux chiens qui accompagnent leurs maîtres handicapés titulaires de la carte “mobilité inclusion”. Le secrétariat d'Etat encourage à la création de nouveaux centres labellisés et compte soutenir les associations dans leurs campagnes de communication.
