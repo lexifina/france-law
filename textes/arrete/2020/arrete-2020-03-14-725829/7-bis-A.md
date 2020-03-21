@@ -1,0 +1,9 @@
+# Article 7 bis A
+
+Eu égard à la situation sanitaire, afin de permettre une meilleure prise en charge des patients atteints par le virus covid-19, peuvent être mises en œuvre sur le territoire de la République ou dans ses eaux territoriales une ou plusieurs structures médicales opérationnelles relevant du ministre de la défense pour prendre en charge tout patient.
+
+Le personnel de santé intervenant au sein de ces structures peut utiliser tout matériel, produit de santé et produit sanguin et réaliser tout acte et examen nécessaire à la réalisation de cette mission.
+
+Les structures médicales opérationnelles peuvent être ravitaillées en matériels, produits de santé et produits sanguins par tout moyen, notamment par toute officine de pharmacie, toute pharmacie à usage intérieur, tout établissement de transfusion sanguine ou établissement pharmaceutique.
+
+Une ou plusieurs structures ne relevant pas du ministre de la défense et désignées par l'agence régionale de santé compétente peuvent réaliser ou contribuer à réaliser, pour les besoins de cette mission, toute activité administrative, logistique, technique ou médico-technique.
