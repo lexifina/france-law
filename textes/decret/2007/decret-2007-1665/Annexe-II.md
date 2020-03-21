@@ -131,3 +131,29 @@ France métropolitaine
 Gestion de la taxe spéciale sur certains véhicules routiers (art. 284 bis à 284 sexies du code des douanes) et du remboursement partiel de la taxe intérieure de consommation sur les produits énergétiques en faveur des transporteurs de marchandises et de voyageurs (art. 265 septies et 265 octies du même code)
 
 |
+
+Service national des
+
+réglementations
+
+particulières
+
+(SNRP) |
+
+DI Île-de-France |
+
+France métropolitaine |
+
+1. Gestion du dispositif d'aide à la transformation des débits de tabac.
+
+2. Contrôle du respect par les titulaires de réseau d'oléoducs des dispositions douanières et fiscales applicables en matière de stockage et de transport d'huiles minérales en suspension de taxes.
+
+3. Concernant la taxe intérieure de consommation sur les produits énergétiques :
+
+-gestion des déclarations des distributeurs de carburant en acquitté ;
+
+-péréquation entre les régions de la part régionalisée de la taxe selon le lieu de consommation ;
+
+-traitement des demandes de remboursement sur les carburants et le fioul domestique au titre des franchises diplomatiques.
+
+4. Traitement des déclarations annuelles de la taxe incitative relative à l'incorporation de carburants. |
