@@ -30,13 +30,11 @@ Destinés à préparer leur entretien individuel avec un ou plusieurs psychologu
 
 2.3. Epreuve orale d'entretien avec le jury (durée : 25 minutes d'entretien ; coefficient 7).
 
-Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier professionnel préalablement déposé ou transmis par voie postale (en lettre recommandée avec accusé de réception) ou par voie électronique par le candidat auprès du service organisateur du concours à une date fixée par l'arrêté d'ouverture du concours. Le dossier est transmis au jury par le service organisateur.
-
-Le fait de ne pas respecter les formalités et délais de transmission du dossier professionnel entraîne l'élimination du candidat. Aucune pièce complémentaire transmise par le candidat hors délai ne sera prise en compte.
+Cette épreuve consiste en un entretien avec le jury s'appuyant sur un dossier professionnel. Le candidat se présente à cette épreuve avec son dossier professionnel.
 
 Le jury a toute latitude pour élargir la discussion.
 
-L'épreuve vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, d'adjoint de sécurité de la police nationale, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale.
+L'épreuve vise à mettre en valeur l'aptitude du candidat à l'état de sous-officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de volontaire dans les armées servant dans la gendarmerie nationale, titulaire du diplôme de gendarme adjoint, d'adjoint de sécurité de la police nationale, de militaire des forces armées autres que la gendarmerie nationale servant en vertu d'un contrat, ou encore de réserviste de la gendarmerie nationale. L'évaluation de l'aptitude professionnelle, les inventaires de personnalité et l'entretien avec le ou les psychologues constituent une aide à la décision des groupes d'examinateurs.
 
 Le modèle de dossier est disponible sur le site internet de la gendarmerie nationale : www.lagendarmerierecrute.fr.
 
@@ -45,6 +43,10 @@ Le modèle de dossier est disponible sur le site internet de la gendarmerie nati
 Il s'agit d'un parcours d'obstacles destiné à tester le potentiel physique du candidat dans des situations qu'il est susceptible de rencontrer dans un contexte opérationnel. Il est réalisé en tenue de sport.
 
 Les conditions de déroulement et le barème de cette épreuve sont définis en annexe IV du présent arrêté.
+
+2.5. Epreuve d'évaluation numérique (durée : 30 minutes ; coefficient 1).
+
+Cette épreuve consiste en un questionnaire à choix multiples visant à évaluer les connaissances et à mesurer les compétences numériques du candidat. Il est attendu des candidats qu'ils détiennent les fondamentaux de la culture WEB, de l'environnement numérique, de la protection et de la sécurité informatique.
 
 III.-Programme des épreuves d'admissibilité et d'admission des questions destinées à apprécier les connaissances professionnelles du candidat.
 

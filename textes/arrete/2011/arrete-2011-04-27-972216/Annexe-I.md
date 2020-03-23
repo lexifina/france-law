@@ -47,3 +47,7 @@ Pour cet entretien, le jury dispose, à titre indicatif, du dossier du candidat.
 Il s'agit d'un parcours d'obstacles destiné à tester le potentiel physique du candidat dans des situations qu'il est susceptible de rencontrer dans un contexte opérationnel. Il est réalisé en tenue de sport.
 
 Les conditions de déroulement et le barème de cette épreuve sont définis en annexe IV du présent arrêté.
+
+2.5 Epreuve d'évaluation numérique (durée : 30 minutes ; coefficient 1).
+
+Cette épreuve consiste en un questionnaire à choix multiples visant à évaluer les connaissances et à mesurer les compétences numériques du candidat. Il est attendu des candidats qu'ils détiennent les fondamentaux de la culture WEB, de l'environnement numérique, de la protection et de la sécurité informatique.

@@ -80,147 +80,139 @@ IV. - Barème de l'EPG
 
 4.1. Ateliers 1 et 2 : parcours d'obstacles et simulation d'un combat
 
-NOTES
+NOTES |
 
-|
+TEMPS |
 
-TEMPS
+Hommes |
 
-|
-
-Hommes
-
-|
-
-Femmes
-
-|
+Femmes |
 
 20 |
-
-2'55 |
-
-3'05 |
-
-19 |
-
-3'00 |
-
-3'10 |
-
-18 |
-
-3'05 |
-
-3'15 |
-
-17 |
 
 3'10 |
 
 3'20 |
 
-16 |
+19 |
 
 3'15 |
 
 3'25 |
 
-15 |
+18 |
 
 3'20 |
 
 3'30 |
 
-14 |
+17 |
 
 3'25 |
 
 3'35 |
 
-13 |
+16 |
 
 3'30 |
 
 3'40 |
 
-12 |
+15 |
 
 3'35 |
 
 3'45 |
 
-11 |
+14 |
 
 3'40 |
 
 3'50 |
 
-10 |
+13 |
 
 3'45 |
 
 3'55 |
 
-9 |
+12 |
 
 3'50 |
 
 4'00 |
 
-8 |
+11 |
 
 3'55 |
 
 4'05 |
 
-7 |
+10 |
 
 4'00 |
 
 4'10 |
 
-6 |
+9 |
 
-4'11 |
+4'10 |
 
-4'21 |
+4'20 |
 
-5 |
+8 |
 
 4'20 |
 
 4'30 |
 
-4 |
+7 |
 
 4'25 |
 
 4'35 |
 
-3 |
+6 |
 
-4'30 |
+4'31 |
 
-4'40 |
+4'41 |
 
-2 |
+5 |
 
 4'35 |
 
 4'45 |
 
-1 |
+4 |
 
 4'40 |
 
 4'50 |
 
+3 |
+
+4'45 |
+
+4'55 |
+
+2 |
+
+4'50 |
+
+5'00 |
+
+1 |
+
+4'55 |
+
+5'05 |
+
 0 |
 
-> 4'40 et abandons/échecs |
+> 4'55 et abandons/ échecs |
 
-> 4'50 et abandons/échecs |
+> 5'05 et abandons/ échecs |
 
 En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
 
