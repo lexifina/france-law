@@ -1,9 +1,0 @@
-# Article 6 ter
-
-Eu égard à la situation sanitaire, dans le cadre d'un traitement chronique, à titre exceptionnel, lorsque la durée de validité d'une ordonnance renouvelable est expirée et afin d'éviter toute interruption de traitement préjudiciable à la santé du patient, le pharmacien d'officine, le prestataire de services ou le distributeur de matériel peut délivrer, dans le cadre de la prescription initialement prévue, un volume de produits ou de prestations garantissant la poursuite du traitement jusqu'au 31 mai 2020. Le cas échéant, cette délivrance peut s'effectuer au-delà de la date de validité de l'entente préalable de l'organisme de prise en charge, au sens de l'article R. 165-23 du code de la sécurité sociale, liée à l'ordonnance afin d'assurer la continuité des prestations concernées. Le pharmacien, le prestataire de services ou le distributeur de matériels concerné en informe le médecin.
-
-Les produits ou les prestations relevant du présent figurent à l'annexe du présent arrêté.
-
-Les produits ou les prestations délivrés en application des dispositions du présent article sont pris en charge par les organismes d'assurance maladie dans les conditions du droit commun, sous réserve que ces produits et prestations soient inscrits sur la liste des produits et prestations remboursables prévue à l'article L. 165-1 du code de la sécurité sociale.
-
-Le pharmacien, le prestataire de services ou le distributeur de matériels porte sur l'ordonnance la mention : “ délivrance par la procédure exceptionnelle pour une durée de X semaines ” en indiquant le ou les produits ou prestations ayant fait l'objet de la délivrance. Le cas échéant, le pharmacien, le prestataire de services ou le distributeur de matériels appose en outre sur l'ordonnance le timbre de l'officine ou sa signature et la date de délivrance.
