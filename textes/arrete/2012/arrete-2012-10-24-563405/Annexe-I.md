@@ -470,6 +470,8 @@ Maurice :
 
 Paris-Port-Louis ;
 
+Paris-Rodrigues ;
+
 Mauritanie :
 
 Paris-Nouakchott ;
