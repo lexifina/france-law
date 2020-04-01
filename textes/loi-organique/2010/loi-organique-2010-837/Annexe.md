@@ -46,6 +46,14 @@ Agence nationale pour la rénovation urbaine |
 
 Direction générale |
 
+Agence nationale de sécurité du médicament et des produits de santé |
+
+Direction générale |
+
+Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail |
+
+Direction générale |
+
 Autorité de la concurrence |
 
 Présidence |
@@ -62,15 +70,15 @@ Autorité des normes comptables |
 
 Présidence |
 
-Autorité de régulation des activités ferroviaires et routières |
+Autorité de régulation des transports |
 
 Présidence |
 
-Autorité de régulation des communications électroniques et des postes |
+Autorité de régulation des communications électroniques, des postes et de la distribution de la presse |
 
 Présidence |
 
-Autorité de régulation des jeux en ligne
+Autorité nationale des jeux
 
 |
 
@@ -105,6 +113,10 @@ Présidence |
 Commissariat à l'énergie atomique et aux énergies alternatives |
 
 Administration générale |
+
+Commission d'accès aux documents administratifs |
+
+Présidence |
 
 Commission de régulation de l'énergie |
 
@@ -166,10 +178,6 @@ Electricité de France |
 
 Présidence-direction générale |
 
-La Française des jeux |
-
-Présidence-direction générale |
-
 Haut conseil des biotechnologies |
 
 Présidence |
@@ -228,6 +236,10 @@ Météo-France |
 
 Présidence-direction générale |
 
+Office français de l'immigration et de l'intégration |
+
+Direction générale |
+
 Office français de protection des réfugiés et apatrides |
 
 Direction générale |
@@ -236,7 +248,7 @@ Office national des forêts |
 
 Direction générale |
 
-Société anonyme BPI-Groupe |
+Société anonyme Bpifrance |
 
 Direction générale |
 
@@ -248,20 +260,12 @@ Régie autonome des transports parisiens |
 
 Présidence-direction générale |
 
-SNCF |
+Société nationale SNCF |
 
-Présidence du conseil de surveillance
-
-Présidence du directoire
-
-Présidence déléguée du directoire
+Direction générale
 
 |
 
 Voies navigables de France |
 
 Présidence du conseil d'administration |
-
-NOTA :
-
-Aux termes de l’article 1er de l’ordonnance n°2019-761 du 24 juillet 2019 relative au régulateur des redevances aéroportuaires, dans les textes législatifs et réglementaires en vigueur, les mots : "Autorité de régulation des activités ferroviaires et routières" sont remplacés par les mots : "Autorité de régulation des transports".
