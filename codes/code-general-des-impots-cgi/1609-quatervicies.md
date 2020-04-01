@@ -111,3 +111,7 @@ VI. – Les I à IV et le V sont applicables en Polynésie française, en Nouvel
 VII. – Le IV bis est applicable en Polynésie française, en Nouvelle-Calédonie, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Le produit de la majoration perçu dans chacune de ces collectivités est reversé directement aux exploitants des aérodromes ou groupements d'aérodromes de la collectivité intéressée. Pour les vols intérieurs à la Polynésie française, à la Nouvelle-Calédonie et à Mayotte, la majoration n'est pas due pour les passagers, le fret ou le courrier en correspondance.
 
 VIII. ― Pour l'application du présent article, la notion de correspondance est celle définie au VI de l'article 302 bis K.
+
+NOTA :
+
+Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 quatervicies telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du C, s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2020.

@@ -18,7 +18,7 @@ La taxe est exigible pour chaque vol commercial.
 
 a) Les évacuations sanitaires d'urgence ;
 
-b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92 du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens.
+b) Les vols n'impliquant pas de transport de passagers, de courrier ou de fret entre différents aéroports ou autres points d'atterrissage agréés.
 
 3. La taxe n'est pas perçue lorsque le passager est en correspondance. Est considéré comme tel celui qui remplit les trois conditions suivantes :
 
@@ -46,11 +46,11 @@ Ces tarifs annuels entrent en vigueur pour les vols effectués à compter du 1er
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois considéré, arrondi à la tonne inférieure.
 
-2. Les entreprises de transport aérien déclarent, au plus tard le dernier jour de chaque mois, sur un imprimé fourni par l'administration de l'aviation civile, le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au départ de la France.
+2. Les entreprises de transport aérien déclarent, au plus tard le dernier jour de chaque mois, conformément au modèle prescrit par l'administration de l'aviation civile, le nombre de passagers et la masse de fret et de courrier embarqués le mois précédent pour les vols effectués au départ de la France.
 
 Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations trimestrielles indiquant le nombre de passagers et la masse de fret et de courrier embarqués au cours du trimestre précédent pour les vols effectués au départ de France. Ces déclarations trimestrielles sont souscrites au plus tard le dernier jour du mois qui suit le trimestre au titre duquel elle est établie. Lorsque le montant de la taxe déclarée au terme des quatre trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise souscrit mensuellement ses déclarations dans les conditions fixées au huitième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de dépassement.
 
-3. Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par virement bancaire.
+3. Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par virement bancaire.
 
 III. – (Abrogé).
 
@@ -154,9 +154,9 @@ Le produit annuel excédant les plafonds mentionnés ci-dessus est attribué au 
 
 5. La taxe de solidarité sur les billets d'avion n'est pas perçue au départ des collectivités d'outre-mer de Saint-Barthélemy et de Saint-Martin.
 
-6. Les montants mentionnés à la deuxième ligne du tableau du 1 font l'objet d'une réduction égale à la différence entre le tarif résultant de l'arrêté mentionné au deuxième alinéa du même 1 et le montant minimum mentionné à la deuxième ligne du tableau audit 1. Ces réductions s'appliquent aux vols commerciaux :
+6. Les montants mentionnés à la deuxième ligne du tableau du dernier alinéa du 1 font l'objet d'une réduction de 9 € pour les passagers pouvant bénéficier, sans supplément de prix, de services à bord auxquels l'ensemble des passagers ne peut accéder gratuitement et d'une réduction de 1,5 € pour les autres passagers. Ces réductions s'appliquent aux vols commerciaux :
 
-a) Effectués entre la Corse et la France continentale
+a) Effectués entre la Corse et la France continentale ;
 
 b) Effectués entre les départements ou collectivités d'outre-mer et la France métropolitaine ainsi qu'entre ces mêmes départements ou collectivités d'outre-mer ;
 
@@ -176,4 +176,4 @@ Il est fixé par arrêté des ministres chargés du budget et de l'aviation civi
 
 NOTA :
 
-Conformément au E du XI de l’article 21 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter du 1er janvier 2020, à l'exception 6° du VI de l'article 302 bis k, qui entre en vigueur à une date fixée par arrêté conjoint des ministres chargés de l'aviation civile et du budget qui ne peut être postérieure de plus d'un mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer ce dispositif législatif comme conforme au droit de l'Union européenne.
+Conformément au II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions du b du 2 du I de l'article 302 bis K et celles de son paragraphe II résultant des dispositions du I dudit article s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2020.

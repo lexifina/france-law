@@ -32,9 +32,9 @@ Le tarif de la taxe applicable sur chaque aérodrome est fixé par arrêté conj
 
 L'arrêté mentionné au deuxième alinéa du présent IV fixe la liste des aérodromes relevant du 3e groupe.
 
-V. – Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, sur un imprimé fourni par l'administration de l'aviation civile.
+V. – Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, conformément au modèle prescrit par l'administration de l'aviation civile.
 
-Ces déclarations, mensuelles ou trimestrielles, sont adressées aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe, par virement bancaire.
+Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe, par virement bancaire.
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au dernier jour du deuxième mois suivant la période mensuelle ou trimestrielle visée par la déclaration.
 
@@ -62,4 +62,4 @@ VII. – Le contentieux est suivi par la direction générale de l'aviation civi
 
 NOTA :
 
-Conformément aux dispositions du XX de l'article 81 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 quatervicies A telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du D, s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2020.
