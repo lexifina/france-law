@@ -1,10 +1,10 @@
 # Article 44 sexdecies
 
-I. - Dans les bassins urbains à dynamiser définis au II, les entreprises qui sont créées entre le 1er janvier 2018 et le 31 décembre 2020 et, lorsqu'elles sont situées dans les communes mentionnées au sixième alinéa du même II, les entreprises qui sont créées entre le 1er janvier 2019 et le 31 décembre 2020, qui exercent une activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues aux articles 50-0 et 53 A.
+I.-Dans les bassins urbains à dynamiser définis au II, les entreprises qui sont créées entre le 1er janvier 2018 et le 31 décembre 2020 et, lorsqu'elles sont situées dans les communes mentionnées au sixième alinéa du même II, les entreprises qui sont créées entre le 1er janvier 2019 et le 31 décembre 2020, qui exercent une activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues aux articles 50-0 et 53 A.
 
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés, respectivement, au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
-II. - Sont classées dans un bassin urbain à dynamiser les communes qui appartiennent à un ensemble d'établissements publics de coopération intercommunale à fiscalité propre contigus rassemblant au moins un million d'habitants et qui satisfont aux conditions suivantes :
+II.-Sont classées dans un bassin urbain à dynamiser les communes qui appartiennent à un ensemble de communes mentionnées au V de l'article L. 5210-1-1 du code général des collectivités territoriales ou d'établissements publics de coopération intercommunale à fiscalité propre contigus rassemblant au moins un million d'habitants et qui satisfont aux conditions suivantes :
 
 1° La densité de population de la commune est supérieure à la moyenne nationale ;
 
@@ -22,7 +22,7 @@ Le classement des communes en bassin urbain à dynamiser est établi au 1er janv
 
 Le classement des communes mentionnées au sixième alinéa du présent II en bassin urbain à dynamiser est établi au 1er janvier 2019 et pour une durée de deux ans par arrêté des ministres chargés du budget et de l'aménagement du territoire.
 
-III. - Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
+III.-Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
 
 1° L'entreprise est une petite ou moyenne entreprise au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
@@ -48,12 +48,12 @@ a) Le nombre de salariés dont le contrat de travail est à durée indéterminé
 
 b) Ou le nombre de salariés embauchés à compter de la création de l'entreprise et remplissant les conditions décrites au a est égal au moins à la moitié du total des salariés embauchés dans les mêmes conditions, au cours de la même période.
 
-IV. - Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quindecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
+IV.-Lorsqu'elle répond aux conditions requises pour bénéficier de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quindecies ou 44 septdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant celui du début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
-V. - Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+V.-Dans les zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect des articles 13 et 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 En dehors des zones d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 17 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
 NOTA :
 
-Conformément au II de l'article 21 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, ces dispositions entrent en vigueur le 1er janvier 2019.
+Conformément au IV de l'article 4 de la loi n° 2019-809 du 1er août 2019, ces dispositions entrent en vigueur le 1er avril 2020.
