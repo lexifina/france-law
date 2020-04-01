@@ -166,45 +166,49 @@ Nombre de personnes
 
 composant le ménage |
 
-Plafonds de revenus du ménage en Ile-de-France (€) |
+Plafonds de revenus du ménage
 
-Plafonds de revenus du ménage pour les autres régions (€) |
+en Île-de-France (€) |
+
+Plafonds de revenus du ménage
+
+pour les autres régions (€) |
 
 1 |
 
-20 470 |
+20 593 |
 
-14 790 |
+14 879 |
 
 2 |
 
-30 044 |
+30 225 |
 
-21 630 |
+21 760 |
 
 3 |
 
-36 080 |
+36 297 |
 
-26 013 |
+26 170 |
 
 4 |
 
-42 128 |
+42 381 |
 
-30 389 |
+30 572 |
 
 5 |
 
-48 198 |
+48 488 |
 
-34 784 |
+34 993 |
 
 Par personne supplémentaire |
 
-+ 6 059 |
+6 096 |
 
-+ 4 385 |
+4 412 |
 
 Tableau B
 
@@ -212,45 +216,49 @@ Nombre de personnes
 
 composant le ménage |
 
-Plafonds de revenus du ménage en Ile-de-France (€) |
+Plafonds de revenus du ménage
 
-Plafonds de revenus du ménage pour les autres régions (€) |
+en Île-de-France (€) |
+
+Plafonds de revenus du ménage
+
+pour les autres régions (€) |
 
 1 |
 
-24 918 |
+25 068 |
 
-18 960 |
+19 074 |
 
 2 |
 
-36 572 |
+36 792 |
 
-27 729 |
+27 896 |
 
 3 |
 
-43 924 |
+44 188 |
 
-33 346 |
+33 547 |
 
 4 |
 
-51 289 |
+51 597 |
 
-38 958 |
+39 192 |
 
 5 |
 
-58 674 |
+59 026 |
 
-44 592 |
+44 860 |
 
 Par personne supplémentaire |
 
-+ 7 377 |
+7 422 |
 
-+ 5 617 |
+5 651 |
 
 Fait à
 
@@ -428,45 +436,49 @@ Nombre de personnes
 
 composant le ménage |
 
-Plafonds de revenus du ménage en Ile-de-France (€) |
+Plafonds de revenus du ménage
 
-Plafonds de revenus du ménage pour les autres régions (€) |
+en Île-de-France (€) |
+
+Plafonds de revenus du ménage
+
+pour les autres régions (€) |
 
 1 |
 
-20 470 |
+20 593 |
 
-14 790 |
+14 879 |
 
 2 |
 
-30 044 |
+30 225 |
 
-21 630 |
+21 760 |
 
 3 |
 
-36 080 |
+36 297 |
 
-26 013 |
+26 170 |
 
 4 |
 
-42 128 |
+42 381 |
 
-30 389 |
+30 572 |
 
 5 |
 
-48 198 |
+48 488 |
 
-34 784 |
+34 993 |
 
 Par personne supplémentaire |
 
-+ 6 059 |
+6 096 |
 
-+ 4 385 |
+4 412 |
 
 Tableau B
 
@@ -474,45 +486,49 @@ Nombre de personnes
 
 composant le ménage |
 
-Plafonds de revenus du ménage en Ile-de-France (€) |
+Plafonds de revenus du ménage
 
-Plafonds de revenus du ménage pour les autres régions (€) |
+en Île-de-France (€) |
+
+Plafonds de revenus du ménage
+
+pour les autres régions (€) |
 
 1 |
 
-24 918 |
+25 068 |
 
-18 960 |
+19 074 |
 
 2 |
 
-36 572 |
+36 792 |
 
-27 729 |
+27 896 |
 
 3 |
 
-43 924 |
+44 188 |
 
-33 346 |
+33 547 |
 
 4 |
 
-51 289 |
+51 597 |
 
-38 958 |
+39 192 |
 
 5 |
 
-58 674 |
+59 026 |
 
-44 592 |
+44 860 |
 
 Par personne supplémentaire |
 
-+ 7 377 |
+7 422 |
 
-+ 5 617 |
+5 651 |
 
 Liste des ménages modestes bénéficiant de l'opération (une ligne par ménage) :
 
@@ -608,4 +624,4 @@ De plus, il est rappelé aux signataires de la présente attestation sur l'honne
 
 NOTA :
 
-Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions entrent en vigueur le 1er avril 2019. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er octobre 2019.
+Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er avril 2020. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er juillet 2020.
