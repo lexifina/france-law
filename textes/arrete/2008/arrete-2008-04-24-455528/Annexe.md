@@ -8,25 +8,21 @@ Montant
 
 en euros |
 
-1. Brevets d'invention, certificats d'utilitéet certificats complémentaires de protection |
+1. Brevets d'invention, certificats d'utilité et certificats complémentaires de protection |
 
 |
 
-Dépôt d'une demande de brevet ou de certificat d'utilité (incluant la première annuité de maintien en vigueur) : |
-
-|
-
-- dépôt sous forme papier |
-
-36 |
-
-- dépôt sous forme électronique |
+Dépôt d'une demande de brevet ou de certificat d'utilité (incluant la première annuité de maintien en vigueur) |
 
 26 |
 
-Dépôt d'une demande de certificat complémentaire (n'incluant pas la première annuité de maintien en vigueur) |
+Dépôt d'une demande de certificat complémentaire de protection (n'incluant pas la première annuité de maintien en vigueur) |
 
 520 |
+
+Dépôt d'une demande de prorogation d'un certificat complémentaire de protection relatif à un médicament ayant fait l'objet de recherches en vue d'un usage pédiatrique |
+
+470 |
 
 Rapport de recherche |
 
@@ -40,7 +36,7 @@ Nouvelles revendications entraînant rapport de recherche complémentaire |
 
 520 |
 
-Revendication, soit au moment du dépôt, soit à la suite de modification, à partir de la onzième revendication |
+Revendication, soit au moment du dépôt, soit à la modification, à partir de la onzième revendication |
 
 42 |
 
@@ -52,13 +48,17 @@ Requête en poursuite de procédure |
 
 104 |
 
+Délivrance et impression du fascicule |
+
+90 |
+
 Requête en limitation |
 
 260 |
 
-Délivrance et impression du fascicule |
+Opposition |
 
-90 |
+600 |
 
 Maintien en vigueur d'un brevet ou d'un certificat d'utilité : |
 
@@ -118,39 +118,37 @@ Maintien en vigueur d'un brevet ou d'un certificat d'utilité : |
 
 - quinzième annuité |
 
-450 |
+460 |
 
 - seizième annuité |
 
-510 |
+520 |
 
 - dix-septième annuité |
 
-570 |
+580 |
 
 - dix-huitième annuité |
 
-640 |
+650 |
 
 - dix-neuvième annuité |
 
-720 |
+730 |
 
 - vingtième annuité |
 
-790 |
+800 |
 
-Redevance annuelle de maintien en vigueur d'un certificat complémentaire |
+Redevance annuelle de maintien en vigueur d'un certificat complémentaire de protection et de sa prorogation |
 
-940 |
-
-Dépôt d'une demande de prorogation d'un certificat complémentaire relatif à un médicament ayant fait l'objet de recherches en vue d'un usage pédiatrique |
-
-470 |
+950 |
 
 Recours en restauration (1) |
 
-156 |
+156
+
+|
 
 2. Brevets européens |
 
@@ -476,4 +474,4 @@ Demande de modification du cahier des charges homologué |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 9 décembre 2019 (NOR : ECOI1935260A), les dispositions de l'article 2 relatives aux redevances applicables aux demandes en nullité ou en déchéance entrent en vigueur le 1er avril 2020. Toutefois, sauf disposition contraire prévue par les lois et décrets en vigueur, lorsqu'une notification ou un avertissement adressé avant l'entrée en vigueur de l'arrêté du 9 décembre 2019 porte sur une redevance d'un montant inférieur à celui prévu par cet arrêté, le montant en vigueur antérieurement continue à s'appliquer à cette notification ou à cet avertissement.
+Conformément à l'article 3 de l'arrêté du 6 mars 2020, ces dispositions entrent en vigueur le 1er avril 2020. Toutefois, sauf disposition contraire prévue dans les lois et décrets en vigueur, lorsqu'une notification ou un avertissement adressé avant l'entrée en vigueur du présent arrêté porte sur une redevance d'un montant inférieur à celui prévu par le présent arrêté, le montant en vigueur antérieurement continue à s'appliquer à cette notification ou à cet avertissement.
