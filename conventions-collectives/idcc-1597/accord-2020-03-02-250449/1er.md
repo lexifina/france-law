@@ -1,0 +1,5 @@
+# Article 1er
+
+En application du chapitre Ier du titre VIII des conventions collectives nationales du bâtiment du 8 octobre 1990, étendues par arrêtés ministériels du 8 février 1991 et du 12 février 1991, concernant d'une part, les ouvriers employés par les entreprises du bâtiment visées par le décret du 1er mars 1962, c'est-à-dire occupant jusqu'à 10 salariés (IDCC 1596) et d'autre part, les ouvriers employés par les entreprises du bâtiment non visées par le décret du 1er mars 1962, c'est-à-dire occupant plus de 10 salariés (IDCC 1597) les organisations représentatives d'employeurs et de salariés se sont réunies et ont déterminé les montants des indemnités de petits déplacements des ouvriers du bâtiment du département de la Haute-Savoie.
+
+Les parties signataires étant engagées par une convention collective nationale spécifique aux entreprises employant jusqu'à 10 salariés et une seconde pour les plus de 10 salariés, elles remplissent par ce biais l'exigence de dispositions propres aux entreprises employant moins de 50 salariés, issue de l'article L. 2261-23-1 du code du travail.
