@@ -72,6 +72,18 @@ Commission compétente en matière d'urbanisme
 
 |
 
+Direction générale de l'Agence nationale de sécurité du médicament et des produits de santé |
+
+Commission compétente en matière de santé publique
+
+|
+
+Direction générale de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail |
+
+Commission compétente en matière de santé publique
+
+|
+
 Présidence de l'Autorité de la concurrence
 
 |
@@ -120,9 +132,11 @@ Commission compétente en matière de postes et de communications électroniques
 
 |
 
-Présidence de l'Autorité de régulation des jeux en ligne |
+Présidence de l'Autorité nationale des jeux |
 
-Commission compétente en matière de finances publiques |
+Commission compétente en matière de finances publiques
+
+|
 
 Présidence de l'Autorité de sûreté nucléaire
 
@@ -180,6 +194,12 @@ Commission compétente en matière d'énergie
 
 |
 
+Présidence de la Commission d'accès aux documents administratifs |
+
+Commission compétente en matière de libertés publiques
+
+|
+
 Présidence du collège de la Commission de régulation de l'énergie
 
 |
@@ -190,7 +210,9 @@ Commission compétente en matière d'énergie
 
 Présidence de la Commission du secret de la défense nationale |
 
-Commission compétente en matière de défense |
+Commission compétente en matière de défense
+
+|
 
 Présidence de la Commission nationale de contrôle des techniques de renseignement
 
@@ -200,11 +222,15 @@ Commission permanente compétente en matière de libertés publiques |
 
 Présidence de la commission nationale des comptes de campagne et des financements politiques |
 
-Commission compétente en matière de lois électorales |
+Commission compétente en matière de lois électorales
+
+|
 
 Présidence de la Commission nationale de l'informatique et des libertés |
 
-Commission compétente en matière de libertés publiques |
+Commission compétente en matière de libertés publiques
+
+|
 
 Présidence de la Commission nationale du débat public
 
@@ -254,14 +280,6 @@ Commission compétente en matière d'énergie
 
 |
 
-Présidence-direction générale de La Française des jeux
-
-|
-
-Commission compétente en matière de finances publiques
-
-|
-
 Présidence du Haut conseil des biotechnologies
 
 |
@@ -272,11 +290,15 @@ Commission compétente en matière d'environnement
 
 Présidence du haut conseil du commissariat aux comptes |
 
-Commission compétente en matière de finances publiques |
+Commission compétente en matière de finances publiques
+
+|
 
 Présidence du collège du Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur |
 
-Commission compétente en matière d'enseignement et de recherche |
+Commission compétente en matière d'enseignement et de recherche
+
+|
 
 Présidence du collège de la Haute Autorité de santé
 
@@ -328,13 +350,21 @@ Commission compétente en matière d'emploi
 
 Médiateur du crédit aux candidats et aux partis politiques |
 
-Commission compétente en matière de lois électorales |
+Commission compétente en matière de lois électorales
+
+|
 
 Présidence-direction générale de Météo-France
 
 |
 
 Commission compétente en matière d'environnement
+
+|
+
+Direction générale de l'Office français de l'immigration et de l'intégration |
+
+Commission compétente en matière de libertés publiques
 
 |
 
@@ -378,23 +408,7 @@ Commission compétente en matière de transports
 
 |
 
-Présidence du conseil de surveillance de la SNCF
-
-|
-
-Commission compétente en matière de transports
-
-|
-
-Présidence du directoire de la SNCF
-
-|
-
-Commission compétente en matière de transports
-
-|
-
-Présidence déléguée du directoire de la SNCF
+Direction générale de la société nationale SNCF
 
 |
 
