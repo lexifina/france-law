@@ -1,179 +1,343 @@
 # Article Annexe 2
 
-AU 1ER AVRIL 2019
+AU 1ER AVRIL 2020
 
-Pays de résidence (rythme sud) |
+Pays de résidence (rythme sud)
 
-Enfants
+|
 
-de moins de 10 ans |
+Enfants de moins de 10 ans
 
-Enfants
+|
 
-de 10 à 15 ans |
+Enfants de 10 à 15 ans
 
-Enfants
+|
 
-de plus de 15 ans |
+Enfants de plus de 15 ans
 
-ARGENTINE |
+|
 
-a) Montant annuel |
+ARGENTINE
 
-5 437 |
+|
 
-5 689 |
+a) Montant annuel
 
-6 194 |
+|
 
-b) Droits de première inscription |
+5 110
 
-757 |
+|
 
-757 |
+5 344
 
-757 |
+|
 
-BOLIVIE |
+5 814
 
-a) Montant annuel |
+|
 
-5 598 |
+b) Droits de première inscription
 
-5 722 |
+|
 
-5 846 |
+626
 
-b) Droits de première inscription |
+|
 
-1 464 |
+626
 
-1 501 |
+|
 
-1 538 |
+626
 
-BRESIL (Rio) |
+|
 
-a) Montant annuel |
+BOLIVIE
 
-9 823 |
+|
 
-9 979 |
+a) Montant annuel
 
-10 139 |
+|
 
-b) Droits de première inscription |
+5 301
 
-759 |
+|
 
-772 |
+5 940
 
-785 |
+|
 
-BRESIL (Sao Paulo) |
+6 069
 
-a) Montant annuel |
+|
 
-9 569 |
+b) Droits de première inscription
 
-10 419 |
+|
 
-10 419 |
+1 527
 
-b) Droits de première inscription |
+|
 
-0 |
+1 566
 
-0 |
+|
 
-0 |
+1 605
 
-CHILI |
+|
 
-a) Montant annuel |
+BRESIL (Rio)
 
-7 005 |
+|
 
-7 005 |
+a) Montant annuel
 
-7 005 |
+|
 
-b) Droits de première inscription |
+9 460
 
-3 402 |
+|
 
-3 402 |
+9 612
 
-3 402 |
+|
 
-COSTA RICA |
+9 767
 
-a) Montant annuel |
+|
 
-4 694 |
+b) Droits de première inscription
 
-4 694 |
+|
 
-4 694 |
+728
 
-b) Droits de première inscription |
+|
 
-360 |
+741
 
-360 |
+|
 
-360 |
+747
 
-PEROU |
+|
 
-a) Montant annuel |
+BRESIL (Sao Paulo)
 
-7 158 |
+|
 
-6 528 |
+a) Montant annuel
 
-6 528 |
+|
 
-b) Droits de première inscription |
+9 215
 
-882 |
+|
 
-647 |
+10 030
 
-406 |
+|
 
-URUGUAY |
+10 030
 
-a) Montant annuel |
+|
 
-7 991 |
+b) Droits de première inscription
 
-8 655 |
+|
 
-9 047 |
+0
 
-b) Droits de première inscription |
+|
 
-284 |
+0
 
-467 |
+|
 
-467 |
+0
 
-VANUATU |
+|
 
-a) Montant annuel |
+CHILI
 
-4 650 |
+|
 
-5 273 |
+a) Montant annuel
 
-5 826 |
+|
 
-b) Droits de première inscription |
+6 399
 
-668 |
+|
 
-668 |
+6 399
 
-668 |
+|
+
+6 399
+
+|
+
+b) Droits de première inscription
+
+|
+
+3 416
+
+|
+
+3 416
+
+|
+
+3 416
+
+|
+
+COSTA RICA
+
+|
+
+a) Montant annuel
+
+|
+
+5 413
+
+|
+
+5 413
+
+|
+
+5 413
+
+|
+
+b) Droits de première inscription
+
+|
+
+0
+
+|
+
+0
+
+|
+
+0
+
+|
+
+PEROU
+
+|
+
+a) Montant annuel
+
+|
+
+7 926
+
+|
+
+6 866
+
+|
+
+6 866
+
+|
+
+b) Droits de première inscription
+
+|
+
+1 154
+
+|
+
+658
+
+|
+
+413
+
+|
+
+URUGUAY
+
+|
+
+a) Montant annuel
+
+|
+
+7 890
+
+|
+
+8 693
+
+|
+
+9 065
+
+|
+
+b) Droits de première inscription
+
+|
+
+270
+
+|
+
+443
+
+|
+
+443
+
+|
+
+VANUATU
+
+|
+
+a) Montant annuel
+
+|
+
+4 670
+
+|
+
+5 296
+
+|
+
+5 851
+
+|
+
+b) Droits de première inscription
+
+|
+
+659
+
+|
+
+659
+
+|
+
+659
+
+|
