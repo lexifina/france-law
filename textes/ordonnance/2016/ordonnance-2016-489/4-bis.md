@@ -1,0 +1,9 @@
+# Article 4 bis
+
+Le contrôle de légalité et le contrôle budgétaire des actes et délibérations de l'établissement public Société du Canal Seine-Nord Europe sont exercés par le préfet de la région Hauts-de-France dans les conditions prévues par le code général des collectivités territoriales.
+
+NOTA :
+
+Conformément au VIII de l’article 134 de la loi n° 2019-1428 du 24 décembre 2019 : Le présent article entre en vigueur à la date d'entrée en vigueur du décret mentionné à l'article 15 de l'ordonnance n° 2016-489 du 21 avril 2016 précitée, dans sa rédaction résultant de la présente loi, et au plus tard le 1er avril 2020. Ce décret prévoit en outre les dispositions transitoires nécessaires à la continuité du fonctionnement de l'établissement public Société du Canal Seine-Nord Europe à compter de l'entrée en vigueur du présent article.
+
+A l'issue d'un délai de deux mois à compter de l'entrée en vigueur du présent article, le conseil de surveillance de l'établissement public Société du Canal Seine-Nord Europe peut valablement se réunir pour la première fois, même s'il n'a pas été procédé à la désignation de la totalité de ses membres, dès lors que plus de la moitié des membres au moins a été désignée.
