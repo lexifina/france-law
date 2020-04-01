@@ -1,0 +1,15 @@
+# Article Annexe au IV de l'article 8
+
+Les actes des sages-femmes mentionnés à la section 2 du chapitre II du titre XI de la nomenclature générale des actes professionnels (NGAP) facturables à l'assurance maladie dans le cadre d'une réalisation à distance par téléconsultation sont les suivants :
+
+1° Première séance de préparation à la naissance et à la parentalité : SF 15 ;
+
+2° Séances suivantes de préparation à la naissance et à la parentalité :
+
+-séances dispensées à 1 seule femme ou couple, la séance par patiente ou couple : SF12 ;
+
+-séances dispensées à 2 ou 3 femmes ou couples simultanément, la séance par patiente ou couple : SF11, 6 ;
+
+-séances suivantes dispensées à 4 femmes ou couples et plus simultanément et jusqu'à un maximum de six personnes ou couples, la séance par patiente ou couple : SF6 ;
+
+3° Bilan valorisant les missions de prévention des sages-femmes dans le cadre du parcours de soins, réalisé à partir de la déclaration de grossesse et si possible avant la 24ème semaine d'aménorrhée : SF 12,6.
