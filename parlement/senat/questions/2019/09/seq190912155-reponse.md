@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912155
+
+- Question : [SEQ190912155](seq190912155.md) — Fonctionnement des lignes budgétaires et économies réalisées
+
+## Réponse
+
+*Action et comptes publics, JO du 2020-04-02, page 1560*
+
+Aux termes du I de l'article 15 de la loi organique relative aux lois de finances, « les crédits ouverts […] au titre d'une année ne créent aucun droit au titre des années suivantes. » Ces dispositions s'inscrivent en conformité avec le principe d'annualité budgétaire qui trouve sa source dans l'article 14 de la Déclaration des Droits de l'Homme et du Citoyen. Toutefois, l'article 15 de la loi organique relative aux lois de finances prévoit également dans son II un aménagement du principe d'annualité. Aux termes de ces dispositions, « les autorisations d'engagement disponibles sur un programme à la fin de l'année peuvent être reportées sur le même programme ou, à défaut, sur un programme poursuivant les mêmes objectifs, par arrêté conjoint du ministre chargé des finances et du ministre intéressé, majorant à due concurrence les crédits de l'année suivante » et « les crédits de paiement disponibles sur un programme à la fin de l'année peuvent être reportés sur le même programme ou, à défaut, sur un programme poursuivant les mêmes objectifs, par arrêté conjoint du ministre chargé des finances et du ministre intéressé ». Dès lors, si le besoin est constaté par les ministres concernés et conformément aux règles énoncées dans ce même article, la loi autorise le report sur l'année suivante des marges dégagées en gestion. Un acte réglementaire suffit à autoriser la majoration des crédits votés en loi de finances. En outre, les marges dégagées sur un programme sont strictement reportées sur le même programme ou sur un programme poursuivant le même objectif, garantissant ainsi leur remise à disposition à ceux qui les ont générées ou de leurs services.
