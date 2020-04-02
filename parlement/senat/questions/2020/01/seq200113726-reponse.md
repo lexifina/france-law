@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113726
+
+- Question : [SEQ200113726](seq200113726.md) — Type de contrat pour une fourrière animale communale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-04-02, page 1562*
+
+En vertu de l'article L. 211-22 du code rural et de la pêche maritime (CRPM), il appartient au maire, au titre des pouvoirs de police qu'il détient, de prendre toutes dispositions propres à empêcher la divagation des chiens et des chats et de prescrire que ceux qui sont errants et ceux qui sont saisis sur le territoire de la commune sont conduits à la fourrière. Aussi, conformément aux dispositions de l'article L. 211-24 du CRPM, chaque commune doit disposer soit d'une fourrière communale apte à l'accueil et à la garde des chiens et chats trouvés errants ou en état de divagation, soit du service d'une fourrière établie sur le territoire d'une autre commune. La gestion de la fourrière, qui relève d'un service public communal (Conseil d'État, 13 juillet 2012, Commune d'Aix-en-Provence, no 358512), peut être assurée directement par la commune ou peut être confiée par celle-ci à un tiers. Dans ce cas, le Conseil d'État a jugé que, sauf si un texte en dispose autrement, les collectivités responsables d'un service public doivent en principe conclure avec un opérateur, quel que soit son statut juridique, un contrat de délégation de service public ou, si la rémunération du cocontractant n'est pas substantiellement liée aux résultats de l'exploitation du service, un marché public de service (Conseil d'État, 6 avril 2007, Commune d'Aix-en-Provence, no 284736). Par conséquent, une commune a la possibilité, dès lors qu'aucune disposition ne s'y oppose, de conclure avec un opérateur, qui peut être une association de protection animale ou une société spécialisée, un marché public portant sur la gestion de la fourrière animale.
