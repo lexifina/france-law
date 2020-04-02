@@ -4,70 +4,104 @@ DISPOSITIONS RELATIVES AUX MÉDICAMENTS DONT L'UTILISATION CHEZ UN CANDIDAT AU D
 
 Médicament
 
-Dénomination commune internationale |
+Dénomination commune internationale
+
+|
 
 Durée d'ajournement après la dernière prise |
 
-Acitrétine |
+Acitrétine
+
+|
 
 3 ans |
 
-Alitrétinoïne |
+Alitrétinoïne
+
+|
 
 1 mois |
 
-Carbamazépine |
+Carbamazépine
+
+|
 
 1 semaine |
 
-Carbimazole |
+Carbimazole
+
+|
 
 1 semaine |
 
-Danazol |
+Danazol
+
+|
 
 1 semaine |
 
-Dutastéride |
+Dutastéride
+
+|
 
 6 mois |
 
-Finastéride |
+Finastéride
+
+|
 
 1 semaine |
 
-Isotrétinoïne |
+Isotrétinoïne
+
+|
 
 1 mois |
 
-Lithium (sels de) |
+Lithium (sels de)
+
+|
 
 1 semaine |
 
-Méthimazole (Thiamazol) |
+Méthimazole (Thiamazol)
+
+|
 
 1 semaine |
 
-Méthotrexate |
+Méthotrexate
+
+|
 
 1 semaine |
 
-Raloxifène |
+Raloxifène
+
+|
 
 1 semaine |
 
-Testostérone |
+Testostérone
+
+|
 
 6 mois |
 
-Thalidomide |
+Thalidomide
+
+|
 
 1 semaine |
 
-Topiramate |
+Topiramate
+
+|
 
 1 semaine |
 
 Valpromide/ divalproate de sodium/ valproate/ acide valproïque |
 
-1 semaine |
+1 semaine
+
+|

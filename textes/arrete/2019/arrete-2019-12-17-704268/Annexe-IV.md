@@ -32,11 +32,15 @@ En cas de prélèvement fractionné, inférieur au volume habituellement prélev
 
 Par dérogation aux règles de prélèvement et aux critères de sélection des donneurs définis à l'article 1er du présent arrêté, au cas où il est envisagé de prélever des sujets de moins de 50 kg, le volume maximum de sang total prélevé ne dépasse jamais 13 % du volume sanguin total estimé à partir du poids du donneur. Le prélèvement de ces donneurs est laissé à l'appréciation du médecin de prélèvement.
 
-Les contre-indications au don destinées à protéger la santé du donneur s'appliquent aux prélèvements à usage non thérapeutique. Cependant, le médecin de prélèvement tiendra compte, pour son appréciation, du volume prélevé, de la nature et de la fréquence. Les contre-indications au don destinées à protéger la santé du receveur ne s'appliquent pas au prélèvement à usage non thérapeutique.
+Les contre-indications au don destinées à protéger la santé du donneur s'appliquent aux prélèvements à usage non thérapeutique. Cependant, le médecin de prélèvement tiendra compte, pour son appréciation, du volume prélevé, de la nature et de la fréquence.
 
-Les donneurs présentant un marqueur positif des virus VIH, VHC, VHB (antigène HBs) sont contre-indiqués pour le don à usage non thérapeutique, sauf en cas de prélèvements dérogatoires.
+Les contre-indications au don destinées à protéger la santé du receveur ne s'appliquent pas au prélèvement à usage non thérapeutique.
 
-Les prélèvements dérogatoires : pour des raisons d'intérêt scientifique et/ou d'obtention de réactifs, en cas de marqueurs positifs des virus VIH, VHC, VHB (antigène HBs), certains prélèvements peuvent, de manière exceptionnelle, déroger aux règles ci-dessus. Les prélèvements sont alors réalisés dans le cadre de procédures et de conventions spécifiques qui définissent précisément les conditions :
+Les donneurs présentant un marqueur positif des infections par les virus VIH, VHC, VHB (antigène HBs) sont contre-indiqués pour le don à usage non thérapeutique, sauf en cas de prélèvements dérogatoires.
+
+Les prélèvements dérogatoires : pour des raisons d'intérêt scientifique et/ou d'obtention de réactifs, en cas de marqueurs positifs des virus VIH, VHC, VHB (antigène HBs), certains prélèvements peuvent, de manière exceptionnelle, déroger aux règles ci-dessus.
+
+Les prélèvements sont alors réalisés dans le cadre de procédures et de conventions spécifiques qui définissent précisément les conditions :
 
 - de sélection des donneurs ;
 

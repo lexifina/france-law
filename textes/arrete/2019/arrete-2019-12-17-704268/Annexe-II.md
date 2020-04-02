@@ -2,19 +2,19 @@
 
 TABLEAUX DES CONTRE-INDICATIONS
 
-A.-Risques pour le donneur
+A. - RISQUES POUR LE DONNEUR
 
 RISQUE CIBLÉ |
 
 SITUATIONS À RISQUE |
 
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
+CONDUITE À TENIR (CAT) ET CONTRE INDICATIONS (CI)
 
-en fonction des réponses et de la situation à risque |
+EN FONCTION DES RÉPONSES ET DE LA SITUATION À RISQUE |
 
 Altération de la santé du donneur |
 
-Maladies des systèmes gastro-intestinal, génito-urinaire, hématologique, immunologique, neurologique, métabolique, rénal ou respiratoire, diabète insulinodépendant |
+Maladies des systèmes gastro- intestinal, génito-urinaire, hématologique, immunologique, neurologique, métabolique, rénal ou respiratoire, diabète insulinodépendant |
 
 CI permanente lorsque la maladie est grave active, chronique ou à rechute susceptible de menacer la santé du donneur à l'occasion d'un don |
 
@@ -26,51 +26,37 @@ Maladies malignes |
 
 CI permanente sauf cancer in situ après guérison complète |
 
-RISQUE CIBLÉ |
+Mauvaise tolérance ou incidence hémodynamique
 
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
-Mauvaise tolérance ou incidence hémodynamique (tolérance au don) |
+(tolérance au don) |
 
 Risque d'incident hémodynamique (notamment prise d'antihypertenseurs dont les bêtabloquants) |
 
 La personne habilitée à procéder à l'entretien pré-don apprécie la possibilité d'un don en fonction :
 
--de l'état général avant le don ;
+- de l'état général avant le don
 
--du poids ;
+- du poids
 
--des activités physiques avant et après le don ;
+- des activités physiques avant et après le don
 
--du taux d'hémoglobine ;
+- du taux d'hémoglobine
 
--du volume extracorporel induit par la procédure ;
+- du volume extracorporel induit par la procédure
 
--de la valeur des constantes cardiovasculaires (FC et TA) ;
+- de la valeur des constantes cardiovasculaires (FC et TA)
 
--de la tolérance à un éventuel traitement antihypertenseur ;
+- de la tolérance à un éventuel traitement antihypertenseur
 
--du déroulement des dons antérieurs et notamment de la survenue d'effets indésirables au cours de dons précédents.
+- du déroulement des dons antérieurs et notamment de la survenue d'effets indésirables au cours de dons précédents
 
 CI temporaire le jour du don lorsque :
 
--TA SYS au repos > 180 mm Hg
+- TA SYS au repos > 180 mm Hg
 
--TA DIA au repos > 100 mm Hg
+- TA DIA au repos > 100 mm Hg
 
-Si TA > 160/90, le don est possible selon l'appréciation du médecin de l'établissement de transfusion sanguine. |
-
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
+Si TA>160/90, le don est possible selon l'appréciation du médecin de l'établissement de transfusion sanguine. |
 
 Risque obstétrical |
 
@@ -80,15 +66,13 @@ CI pendant la grossesse |
 
 Post-accouchement |
 
-CI de six mois après l'accouchement
+CI de 6 mois après l'accouchement Dérogations pour indications particulières
 
-Dérogations pour indications particulières
+- Plasmaphérèse pour recueil de plasma anti-D
 
--plasmaphérèse pour recueil de plasma anti-D ;
+- Aphérèse plaquettaire pour recueil de CPA phénotypé HPA.
 
--aphérèse plaquettaire pour recueil de CPA phénotypé HPA.
-
-Le prélèvement des donneuses dont la concentration en hémoglobine est inférieure à 120g/ L est laissé à l'appréciation du médecin de l'établissement de transfusion sanguine |
+Le prélèvement des donneuses dont la concentration en hémoglobine est inférieure à 120g/L est laissé à l'appréciation du médecin de l'établissement de transfusion sanguine |
 
 Réaction allergique |
 
@@ -108,7 +92,7 @@ Anémie |
 
 |
 
-CI jusqu'à retour aux valeurs de référence du taux d'hémoglobine (cf. art. 1er [V, 2] de l'arrêté) |
+CI jusqu'à retour aux valeurs de référence du taux d'hémoglobine mentionnées au V.2 de l'article premier. |
 
 Pathologie d'hémostase et coagulopathie |
 
@@ -122,14 +106,6 @@ Valvulopathie, troubles du rythme de conduction, insuffisance vasculaire artéri
 
 CI permanente sauf les cas d'anomalies congénitales avec guérison complète |
 
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
 Décompensation d'une affection neurologique |
 
 Antécédent d'accident vasculaire cérébral, accident ischémique transitoire, épisodes répétés de syncope |
@@ -140,33 +116,33 @@ Antécédent de convulsion et épilepsie |
 
 CI permanente sauf antécédents de convulsions infantiles
 
-Pour épilepsie traitée : CI de trois ans après l'arrêt du traitement en l'absence de crise |
+Pour épilepsie traitée : CI de trois ans après l'arrêt du traitement en l'absence de crise. |
 
-B.-Risques pour le receveur
+B. - RISQUES POUR LE RECEVEUR
 
 RISQUE CIBLÉ |
 
 SITUATIONS À RISQUE |
 
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
+CONDUITE À TENIR (CAT) ET CONTRE INDICATIONS (CI)
 
-en fonction des réponses et de la situation à risque |
+EN FONCTION DES RÉPONSES ET DE LA SITUATION À RISQUE |
 
 Transmission de tératogènes au receveur |
 
 Prise de tératogènes avérés |
 
-Voir liste en annexe VII du présent arrêté |
+Voir la liste en annexe VII du présent arrêté |
 
 Inefficacité du concentré de plaquettes (CP) |
 
 Prise de médicaments inhibiteurs des fonctions plaquettaires |
 
-CI à la préparation d'un concentré plaquettaire (CPA ou MCP)
+CI à la préparation d'un concentré plaquettaire (CPA ou MCP) :
 
--anti-inflammatoires non stéroïdiens : CI d'un jour après arrêt du traitement ;
+- Anti-inflammatoires non stéroïdiens : CI d'un jour après arrêt du traitement
 
--acide acétyl salicylique : CI de cinq jours après arrêt du traitement |
+- Acide acétyl salicylique : CI de cinq jours après arrêt du traitement |
 
 Transmission d'un agent pathogène |
 
@@ -184,27 +160,19 @@ Vaccination antirabique |
 
 Don autorisé si l'état de santé est satisfaisant et en l'absence d'exposition au virus. CI d'un an si la vaccination est faite après l'exposition au virus |
 
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
 Transmission d'un agent infectieux |
 
 Contact avec un sujet infectieux |
 
-La personne habilitée à procéder à l'entretien pré-don apprécie la possibilité d'un don en fonction
+La personne habilitée à procéder à l'entretien pré-don apprécie la possibilité d'un don en fonction :
 
--de la transmissibilité de l'agent pathogène par voie sanguine ;
+- de la transmissibilité de l'agent pathogène par voie sanguine
 
--de la durée d'incubation de l'infection ;
+- de la durée d'incubation de l'infection
 
--du délai passé depuis l'exposition |
+- du délai passé depuis l'exposition |
 
-Infection et/ ou fièvre > 38° C |
+Infection et/ou fièvre > 38°C |
 
 CI de deux semaines après la disparition des symptômes |
 
@@ -212,9 +180,9 @@ Intervention chirurgicale |
 
 La personne habilitée à procéder à l'entretien pré-don apprécie le caractère majeur ou mineur de l'intervention chirurgicale :
 
--CI d'une semaine au minimum en cas d'intervention chirurgicale mineure ;
+- CI d'une semaine au minimum en cas d'intervention chirurgicale mineure
 
--CI de quatre mois en cas d'intervention chirurgicale majeure |
+- CI de 4 mois en cas d'intervention chirurgicale majeure |
 
 Corticothérapie par voie générale |
 
@@ -228,7 +196,7 @@ Infection par le VHB (*) |
 
 CI permanente
 
-Don de plasma pour fractionnement autorisé si AgHBs négatif dont l'immunisation anti-HBs est démontrée |
+Don de plasma pour fractionnement autorisé si Ag HBs négatif dont l'immunisation anti-HBs est démontrée |
 
 Infections sexuellement transmissibles (IST) |
 
@@ -238,41 +206,33 @@ Syphilis (*) |
 
 CI d'un an après guérison |
 
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
 Transmission d'un agent infectieux |
 
-Infection par le virus West Nile* |
+Infection par le Virus West Nile * |
 
-CI de cent vingt jours après la fin des symptômes.
+CI de 120 jours après la fin des symptômes.
 
-CI de vingt-huit jours après avoir quitté une région présentant des cas au moment du séjour, de transmission du virus à l'homme, sauf si le dépistage unitaire par diagnostic génomique viral est réalisé et s'avère négatif |
+CI de 28 jours après avoir quitté une région présentant des cas au moment du séjour, de transmission du virus à l'homme, sauf si le dépistage génomique viral unitaire est réalisé et s'avère négatif |
 
 Traitement antibiotique (hors acné simple) |
 
 CI d'une semaine après arrêt du traitement et de deux semaines après la fin des symptômes |
 
-Infection avérée à Yersinia enterocolitica |
+Infection avérée à Yersinia - enterocolitica |
 
 CI de six mois après guérison |
 
 Soins dentaires |
 
-Soins simples (soins de caries, détartrage, etc.) : CI d'un jour
+Soins simples (soins de caries, détartrage, etc.) : CI d'1 jour
 
 Autres soins (traitement de racines, extraction dentaire) : CI d'une semaine et jusqu'à cicatrisation |
 
-Lésions cutanées (eczéma …) au point de ponction |
+Lésions cutanées (eczéma…) au point de ponction |
 
 CI jusqu'à guérison des lésions |
 
-Plaie cutanée (ulcère variqueux, plaies infectées …) |
+Plaie cutanée (ulcère variqueux, plaies infectées…) |
 
 CI jusqu'à cicatrisation |
 
@@ -280,49 +240,31 @@ Antécédent de brucellose (*), d'ostéomyélite, de fièvre Q (*), de tuberculo
 
 CI de deux ans après la date de guérison |
 
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
-Transmission d'un agent infectieux
+Transmission d'un agent infectieux par voie sexuelle
 
 Candidat au don |
 
 Risque d'exposition du candidat au don à un agent infectieux transmissible par voie sexuelle |
 
-Pour les femmes, rapport (s) sexuel (s) avec plus d'un partenaire dans les quatre derniers mois
+Pour les femmes, rapport(s) sexuel(s) avec plus d'un partenaire dans les quatre derniers mois
 
-Pour les hommes, rapport (s) sexuel (s) avec plus d'une partenaire dans les quatre derniers mois |
+Pour les hommes, rapport(s) sexuel(s) avec plus d'une partenaire dans les quatre derniers mois |
 
 CI de quatre mois après la fin de la situation considérée |
 
-Rapport (s) sexuel (s) en échange d'argent ou de drogue |
+Rapport(s) sexuel(s) en échange d'argent ou de drogue |
 
 CI de douze mois après la fin de la situation considérée |
 
-Pour les hommes, rapport (s) sexuel (s) avec un autre homme |
+Pour les hommes, rapport(s) sexuel(s) avec un autre homme |
 
-Dans le cas d'un don de sang total et d'aphérèse :
+Dans le cas d'un don de sang total et d'aphérèse : CI de quatre mois après le dernier rapport sexuel considéré
 
-CI de douze mois après le dernier rapport sexuel considéré
+Dans le cas d'un don de plasma par aphérèse pour préparer du plasma sécurisé par quarantaine ou du plasma pour fractionnement : CI de 4 mois pour les hommes ayant eu plus d'un partenaire sexuel dans les quatre derniers mois après la fin de cette situation. |
 
-Dans le cas d'un don de plasma par aphérèse pour plasma sécurisé par quarantaine :
+Transmission d'un agent
 
-CI de quatre mois pour les hommes ayant eu plus d'un partenaire sexuel dans les quatre derniers mois après la fin de cette situation. |
-
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
-Transmission d'un agent infectieux
+Infectieux par voie sexuelle
 
 Partenaire |
 
@@ -340,39 +282,21 @@ Partenaire ayant eu un rapport sexuel en échange d'argent ou de drogue |
 
 CI de douze mois après le dernier rapport sexuel considéré avec ce partenaire |
 
-Pour les femmes dont le partenaire masculin a eu lui-même un rapport sexuel avec un homme dans les douze derniers mois |
+Pour les femmes dont le partenaire masculin a eu lui-même un rapport sexuel avec un homme dans les quatre derniers mois |
 
-Dans le cas d'un don de sang total et d'aphérèse :
-
-CI de douze mois après le dernier rapport sexuel considéré avec ce partenaire
-
-Dans le cas d'un don de plasma par aphérèse pour plasma sécurisé par quarantaine :
-
-CI de quatre mois après le dernier rapport sexuel du candidat au don avec ce partenaire |
+CI de quatre mois après le dernier rapport sexuel considéré avec ce partenaire |
 
 Partenaire ayant une sérologie positive pour :
 
 VIH, HTLV, VHC, VHB
 
-(AgHBs +) |
+(AgHBs+) |
 
 CI de douze mois après le dernier rapport sexuel considéré avec ce partenaire.
 
-Pas de CI lorsque chez le partenaire VHC + la recherche ARN est négative depuis plus d'un an
+Pas de CI lorsque chez le partenaire VHC+, la recherche ARN est négative depuis plus d'un an.
 
-Pas de CI en cas de partenaire VHB (AgHBs +) si le donneur est vacciné et que son immunité est démontrée (Ac anti-HBs positifs) à un titre protecteur |
-
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
-|
-
-|
+Pas de CI en cas de partenaire VHB (AgHBs+) si le donneur est vacciné et que son immunité est démontrée (Ac anti-HBs positifs) à un titre protecteur |
 
 Partenaire ayant eu une IST récente ou en traitement |
 
@@ -404,15 +328,7 @@ Endoscopie avec instrument flexible |
 
 CI de quatre mois |
 
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
-
-Transmission du paludisme à partir d'une zone à risque (la zone à risque est définie comme non exempte de paludisme endémique, c'est-à-dire tout pays ou région du pays pour lequel une autre mention que " Absence de transmission du paludisme " figure dans le tableau établi d'après les données du BEH de l'année en cours) (*) |
+Transmission du paludisme à partir d'une zone à risque (La zone à risque est définie comme non exempte de paludisme endémique, c'est-à-dire tout pays ou région du pays pour lequel une autre mention que Absence de transmission du paludisme figure dans la liste établie par le Haut Conseil de santé Publique (*) |
 
 Antécédent de paludisme avéré ou de sérologie positive connue |
 
@@ -424,7 +340,7 @@ Retour d'une zone à risque depuis moins de quatre mois |
 
 CI de quatre mois après le retour |
 
-Fièvre non diagnostiquée évocatrice d'un accès palustre dans les quatre mois suivant le retour d'une zone endémique |
+Fièvre non diagnostiquée évocatrice d'un accès palustre dans les 4 mois suivant le retour d'une zone endémique |
 
 CI de quatre mois après la fin des symptômes puis don autorisé si test sérologique négatif au premier don. |
 
@@ -434,11 +350,11 @@ Personne née ou ayant vécu en zone à risque au cours de ses cinq premières a
 
 Don autorisé en l'absence de symptômes si test sérologique négatif à chaque don pendant cette période |
 
-Personnes ayant séjourné ou voyagé plus de six mois consécutifs en zone à risque |
+Personnes ayant séjourné ou voyagé plus de 6 mois consécutifs en zone à risque |
 
-Don autorisé en l'absence de symptômes si test sérologique négatif à chaque don pendant cette période de trois ans après le retour |
+Don autorisé en l'absence de symptômes si test sérologique négatif à chaque don pendant cette période de 3 ans après le retour |
 
-Personnes ayant séjourné ou voyagé moins de six mois en zone à risque |
+Personnes ayant séjourné ou voyagé moins de 6 mois en zone à risque |
 
 Don autorisé en l'absence de symptômes si test sérologique négatif au premier don |
 
@@ -448,7 +364,7 @@ Personne née ou ayant vécu en zone à risque au cours de ses cinq premières a
 
 Don autorisé en l'absence de symptômes si test sérologique négatif au premier don |
 
-Personnes ayant séjourné ou voyagé plus de six mois en zone à risque |
+Personnes ayant séjourné ou voyagé plus de 6 mois en zone à risque |
 
 Don autorisé en l'absence de symptômes si test sérologique négatif au premier don |
 
@@ -465,14 +381,6 @@ CI temporaire de quatre mois après le retour. Puis don autorisé si test sérol
 Mère née en Amérique du Sud, en Amérique centrale ou au Mexique |
 
 Don autorisé si test sérologique négatif au premier don |
-
-RISQUE CIBLÉ |
-
-SITUATIONS À RISQUE |
-
-CONDUITE À TENIR (CAT) ET CONTRE-INDICATIONS (CI)
-
-en fonction des réponses et de la situation à risque |
 
 Transmission d'une autre infection parasitaire |
 
@@ -506,7 +414,7 @@ Traitement par glucocérébrosidase placentaire de la maladie de Gaucher |
 
 CI permanente |
 
-Voyage et/ ou séjours au Royaume-Uni > 1 an cumulé dans la période du 1er janvier 1980 au 31 décembre 1996 |
+Voyage et/ou séjours au Royaume-Uni>1an cumulé dans la période du 1er janvier 1980 au 31 décembre 1996 |
 
 CI permanente |
 

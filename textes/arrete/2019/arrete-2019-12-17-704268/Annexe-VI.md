@@ -6,11 +6,11 @@ L'hémochromatose génétique n'est pas une contre-indication au don de sang. En
 
 Le don saignée est réalisé dans le respect des conditions suivantes :
 
--dans les sites fixes de collecte de sang des établissements de transfusion sanguine ;
+- dans les sites fixes de collecte de sang des établissements de transfusion sanguine ;
 
--sur présentation d'une prescription médicale en cours de validité établie par le médecin assurant le suivi de la personne atteinte d'hémochromatose génétique ;
+- sur présentation d'une prescription médicale en cours de validité établie par le médecin assurant le suivi de la personne atteinte d'hémochromatose génétique ;
 
--les critères de sélection des donneurs fixés par le présent arrêté sont applicables.
+- les critères de sélection des donneurs fixés par le présent arrêté sont applicables.
 
 En cas de contre-indication au don, la personne atteinte d'hémochromatose génétique est informée qu'elle doit s'adresser au médecin assurant son suivi pour adapter sa prise en charge.
 
