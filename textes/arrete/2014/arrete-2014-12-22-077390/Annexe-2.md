@@ -4,13 +4,15 @@ Secteur résidentiel
 
 - Isolation de combles ou de toitures / Fiche d’opération standardisée n° BAR-EN-101
 
-Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 - Isolation des murs / Fiche d’opération standardisée n° BAR-EN-102
 
 - Isolation d’un plancher / Fiche d’opération standardisée n° BAR-EN-103
 
 Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1834746A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er avril 2019.
+
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 - Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAR-EN-104
 
@@ -19,6 +21,8 @@ Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1
 - Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-106
 
 Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
+
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 - Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-107
 
@@ -62,7 +66,7 @@ Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1
 
 - Système de régulation par programmation d’intermittence / Fiche d’opération standardisée n°BAR-TH-118
 
-- Système de comptage individuel d’énergie de chauffage / Fiche d’opération standardisée n°BAR-TH-121
+- Système de comptage individuel d’énergie de chauffage / Fiche d’opération standardisée n°BAR-TH-121 (Abrogée à compter du 1er octobre 2020)
 
 Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
@@ -132,6 +136,8 @@ Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER200
 
 - Rénovation globale d’une maison individuelle (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-164
 
+- Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
+
 - Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
 Conformément à l’article 6 de l’arrêté du 26 juillet 2017 (NOR : TRER1720041A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté pour les opérations dont la date de distribution des lampes à l’utilisateur final intervient à compter du 1er octobre 2017.
@@ -165,6 +171,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 - Service de suivi des consommations d’énergie / Fiche d’opération standardisée n° BAR-SE-106
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0079 du 01/04/2020, texte n° 9, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=0LduWOm6C36WhoOrckwBT4k85GgPqvffEsbnZjwEPRE=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2020, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
 
@@ -201,3 +209,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 5 de l’arrêté du 25 mars 2020 (NOR : TRER2008377A).
