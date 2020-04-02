@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912096
+
+- Question : [SEQ190912096](seq190912096.md) — Phénomène actuel de saturation des centres des impôts
+
+## Réponse
+
+*Action et comptes publics, JO du 2020-04-02, page 1559*
+
+La mise en œuvre du prélèvement à la source n'a pas entraîné d'augmentation des déplacements des usagers pendant la campagne des avis d'impôt sur le revenu (de la mi-juillet à la mi-septembre) et l'on constate même une diminution de la fréquentation des centres des Finances publiques de 14 % par rapport à la même période en 2018. Cela étant, comme tous les ans sur cette forte période d'activité, les centres des finances publiques ont mis en place une organisation adaptée pour accueillir les usagers au guichet dans les meilleurs conditions. Par ailleurs, à l'occasion de la mise en place du prélèvement à la source, l'administration a déployé un dispositif national d'assistance à distance des usagers particuliers, joignable au moyen d'un numéro de téléphone non surtaxé. Pendant la campagne des avis 2019, ce dispositif a reçu plus de 1,4 M d'appels en 4 mois et le taux des appels traités a été sur cette période de près de 80 %. Cette organisation sera étendue à l'automne 2020 et généralisée aux autres motifs de contact. En outre, sur la même période de 2019, les usagers ont adressé plus de 3,8 M de demandes aux services des impôts des particuliers sur leur messagerie sécurisée du site impots.gouv.fr (chiffre qui est stable par rapport à l'année 2018). Dans ce contexte de forte activité, 61 % de ces demandes ont reçu une réponse dans un délai d'une semaine. Des évolutions envisagées dans l'outil de messagerie, notamment le recours à l'intelligence artificielle, devraient permettre aux services d'optimiser la gestion des messages et d'améliorer encore le délai de réponse aux usagers.
