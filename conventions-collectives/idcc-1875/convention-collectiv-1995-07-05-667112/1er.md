@@ -1,60 +1,16 @@
 # Article 1er
 
-Les entreprises vétérinaires versent la totalité de leurs contributions mutualisées, dans le cadre défini ci-après, au titre de la formation professionnelle continue, à l'exclusion du congé individuel de formation
+Les entreprises versent leurs contributions dues au titre de la formation professionnelle continue dans les conditions prévues par le code du travail.
 
-(1), à l'organisme paritaire de collecte agréé Actalians, dont le siège social est 4, rue du Colonel-Driant, 75046 Paris Cedex 01.
+Elles versent également une contribution conventionnelle au titre de la formation professionnelle continue à l'opérateur de compétences agréé pour la branche conformément à l'article L. 6332-1-1.
 
-Ces contributions et les modalités de prélèvement par l'OPCA des fonds destinés au financement du fonds paritaire de sécurisation des parcours professionnels sont fixées comme suit :
+Les entreprises vétérinaires versent cette contribution conventionnelle selon le cadre défini ci-après :
 
-Contributions unique et conventionnelle
+– pour les entreprises ayant un effectif de moins de 11 salariés : une contribution conventionnelle égale à 0,45 % de la masse salariale brute des personnels est versée ;
 
-Entreprises de moins de 10 salariés :
+– pour les entreprises ayant un effectif supérieur ou égal à 11 salariés : une contribution conventionnelle égale à 0,60 % de la masse salariale brute des personnels est versée.
 
-Les entreprises de moins de 10 salariés versent à l'OPCA une contribution légale égale à 0,55 % de la masse salariale brute des personnels.
-
-Cette contribution se répartit ainsi :
-
--  0,15 % au titre de la professionnalisation ;
-
--  0,40 % au titre du plan de formation.
-
-Une contribution conventionnelle égale à 0,45 % de la masse salariale brute des personnels est versée à l'OPCA et consacrée au développement de la formation professionnelle continue.
-
-Entreprises de 10 à moins de 50 salariés :
-
-Les entreprises ayant un effectif supérieur ou égal à 10 et inférieur à 50 salariés versent à l'OPCA une contribution légale de 1 % et une contribution conventionnelle qui est égale à 0,60 % de la masse salariale brute des personnels, destinée au développement de la formation professionnelle continue.
-
-Le versement de cette contribution légale de 1 % se répartit ainsi :
-
--  0,20 % au titre du plan de formation ;
-
--  0,20 % pour financer le compte personnel de formation (CPF) ;
-
--  0,15 % pour financer le FPSPP ;
-
--  0,15 % pour financer le CIF ;
-
--  0,30 % pour financer la professionnalisation.
-
-Ces taux de contribution sont applicables dès la première année de franchissement du seuil de 10 salariés.
-
-Entreprises de plus de 50 salariés (2) :
-
-Les entreprises ayant un effectif supérieur à 50 salariés versent à l'OPCA une contribution au titre de la professionnalisation et du plan de formation qui est égale à 1,60 % de la masse salariale brute des personnels.
-
-La contribution légale de 1 % se répartit ainsi :
-
--  versement de 0,20 % au titre du CIF ;
-
--  0,30 % au titre de la professionnalisation ;
-
--  0,10 % au titre du plan de formation ;
-
--  0,20 % au titre du CPF ;
-
--  0,20 % au titre du FPSPP.
-
-Une contribution conventionnelle égale à 0,60 % de la masse salariale brute des personnels est collectée et destinée au développement de la formation professionnelle continue.
+L'employeur procède au versement de la participation avant le 1er mars de l'année suivant celle au titre de laquelle elle est due.
 
 Fraction professionnalisation
 
@@ -71,11 +27,3 @@ Les versements mentionnés au 2° de l'article L. 6332-21 du code du travail son
 1° L'organisme collecteur paritaire agréé affecte au moins 50 % des fonds recueillis au titre de la professionnalisation, déduction faite de la part versée au fonds paritaire de sécurisation des parcours professionnels, aux contrats de professionnalisation et à des périodes de professionnalisation, dont la durée minimale est définie par décret, visant des qualifications mentionnées aux 1° et 3° de l'article L. 6314-1 du code du travail ;
 
 2° Les fonds recueillis au titre de la professionnalisation par l'organisme collecteur paritaire agréé, déduction faite de la part versée au fonds paritaire de sécurisation des parcours professionnels, sont insuffisants pour assurer la prise en charge prévue à l'article L. 6332-14 du code du travail.
-
-(1) Mots exclus de l'extension comme étant contraires aux dispositions des articles L. 6331-9, L. 6332-3-6 et R. 6332-22-7 du code du travail.
-
-(Arrêté du 9 avril 2015 - art. 1)
-
-(2) Paragraphe étendu sous réserve des dispositions des articles R. 6332-22-4 et R. 6332-22-5 du code du travail.
-
-(Arrêté du 9 avril 2015 - art. 1)
