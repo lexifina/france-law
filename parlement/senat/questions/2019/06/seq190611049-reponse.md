@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190611049
+
+- Question : [SEQ190611049](seq190611049.md) — Pré-enseignes dérogatoires pour les restaurants situés en milieu rural
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-04-09, page 1698*
+
+La signalisation des commerces en milieu rural a fait l'objet de discussions dans le cadre de la loi no 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique (ELAN). Plusieurs amendements avaient été déposés afin de réintroduire pour de nombreuses activités les pré-enseignes dérogatoires interdites depuis 2015. Le Parlement avait réservé aux seuls restaurants la possibilité de se signaler à nouveau, hors agglomération, par des pré-enseignes dérogatoires. Le Conseil constitutionnel a invalidé l'article 161 de la loi ELAN rétablissant cette possibilité pour les restaurants en le qualifiant de cavalier législatif, éloigné du sujet porté par la loi ELAN. Si l'attractivité des territoires supporte mal la profusion de pré-enseignes hors agglomération et dans les petites agglomérations, le Gouvernement a bien entendu, au travers des débats parlementaires, le besoin des professionnels de renforcer la visibilité de la signalisation des petits restaurants situés en milieu rural. Cette question a vocation à être traitée dans le cadre de la proposition de loi déposée par le député Richard Ramos et débattue à l'Assemblée nationale en mai 2019 qui contenait un article unique visant à réintroduire cette possibilité pour les restaurants. La rédaction telle qu'issue de l'examen à l'Assemblée nationale ouvre la possibilité de recourir aux pré-enseignes dérogatoires hors agglomération pour « les restaurants qui proposent des plats bénéficiant de la mention « fait maison » au sens de l'article L. 122-19 du code de la consommation ». Cette question doit donc désormais être portée devant le Sénat.
