@@ -1,0 +1,188 @@
+# Résolutions
+
+- Nature : Informations Parlementaires
+- Publication : 2020-04-11
+- JO n° : 0089
+- NOR : INPS2009590X
+- Origine : JORF n°0089 du 11 avril 2020
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041794415
+
+## Article
+
+Sénat
+
+Session ordinaire de 2019-2020
+
+Résolutions adoptées en application de l'article 88-4 de la Constitution
+
+Est devenue résolution du Sénat le 10 avril 2020, conformément à l'article 73 quinquies, alinéas 2 et 3, du Règlement du Sénat, la proposition de résolution de la commission des finances dont la teneur suit :
+
+Résolution européenne visant à améliorer la lutte contre la fraude aux financements européens dans le cadre des politiques de voisinage
+
+Le Sénat,
+
+Vu l'article 88-4 de la Constitution,
+
+Vu les articles 310 et 325 du traité sur le fonctionnement de l'Union européenne,
+
+Vu la décision de la Commission du 28 avril 1999 instituant l'Office européen de lutte antifraude (OLAF),
+
+Vu le règlement (UE, Euratom) n° 883/2013 du Parlement européen et du Conseil du 11 septembre 2013 relatif aux enquêtes effectuées par l'Office européen de lutte antifraude (OLAF) et abrogeant le règlement (CE) n° 1073/1999 du Parlement européen et du Conseil et le règlement (Euratom) n° 1074/1999 du Conseil,
+
+Vu le règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen,
+
+Vu la proposition de règlement du Parlement européen et du Conseil établissant l'instrument de voisinage, de coopération au développement et de coopération internationale (IVDCI) du 14 juin 2018, COM-(2018) 460 final,
+
+Vu l'avis n° 10/2018 de la Cour des comptes européenne sur la proposition de règlement du Parlement européen et du Conseil établissant l'instrument de voisinage, de coopération au développement et de coopération internationale [COM-(2018) 460 final],
+
+Vu le 19e rapport de l'Office européen de lutte antifraude, du 1er janvier au 31 décembre 2018,
+
+Vu sa résolution européenne n° 117 (2018-2019) du 21 juin 2019 sur la coopération judiciaire en matière pénale et la mise en œuvre du Parquet européen,
+
+Vu le rapport de la Commission au Parlement européen et au Conseil présentant le 30e rapport annuel sur la protection des intérêts financiers de l'Union européenne - lutte contre la fraude - 2018 du 11 octobre 2019, COM-(2019) 444 final,
+
+Vu le programme de travail de la Cour des comptes européenne pour 2020,
+
+Insiste sur l'importance de la lutte contre la fraude et de la protection des intérêts financiers de l'Union européenne ;
+
+Appuie la Commission et l'Office européen de lutte antifraude dans leur mission de protection des intérêts financiers de l'Union européenne ; demande que l'OLAF dispose des moyens suffisants pour mener à bien ses missions ;
+
+Considère que la création du Parquet européen, organe indépendant compétent pour rechercher, poursuivre et renvoyer en jugement les auteurs et complices des infractions pénales portant atteinte aux intérêts financiers de l'Union et donc au budget européen, apporte une contribution forte à la lutte contre la fraude ; insiste pour que le Parquet européen soit fonctionnel à la date prévue, le 20 novembre 2020 ; relève que la législation française est en cours d'adaptation à cet effet via le projet de loi n° 283 (2019-2020) relatif au Parquet européen et à la justice pénale spécialisée, qu'il a récemment examiné en première lecture ;
+
+Estime que la lutte contre la fraude et la protection des intérêts financiers de l'Union européenne impliquent de mieux contrôler les financements alloués à la politique européenne de voisinage ; considère en effet que la transparence de ces financements accroît la légitimité de la politique européenne de voisinage et contribue à stabiliser les pays bénéficiaires ;
+
+Soutient fermement, par conséquent, les différentes initiatives prises ou en cours visant à renforcer la lutte contre la fraude dans les Etats tiers relevant de la politique européenne de voisinage ;
+
+Fait observer que plusieurs dispositions du cadre financier pluriannuel 2021-2027, en particulier la proposition de règlement établissant l'IVDCI, permettraient de mieux contrôler les crédits de la politique européenne de voisinage ; appelle par conséquent à la conclusion rapide de ces négociations ;
+
+Souhaite qu'à l'avenir le programme de travail annuel de la Cour des comptes européenne accorde une plus grande place à des contrôles portant sur les crédits de la politique européenne de voisinage ;
+
+Invite le Gouvernement à soutenir ces orientations et à les faire valoir dans les négociations en cours et à venir au Conseil.
+
+Travaux préparatoires :
+
+Sénat. - Proposition de résolution n° 309 (2019-2020) - Rapport n° 369 (2019-2020) de M. André REICHARDT, au nom de la commission des affaires européennes - Est devenue résolution du Sénat le 10 avril 2020 - T.A. n° 81 (2019-2020).
+
+## Article
+
+Sénat
+
+Session ordinaire de 2019-2020
+
+Est devenue résolution du Sénat le 10 avril 2020, conformément à l'article 73 quinquies, alinéas 2 et 3, du Règlement du Sénat, la proposition de résolution de la commission des lois dont la teneur suit :
+
+Résolution européenne sur le programme de travail de la Commission européenne pour 2020
+
+Le Sénat,
+
+Vu l'article 88-4 de la Constitution,
+
+Vu l'article 12 du traité sur l'Union européenne,
+
+Vu les conclusions du Conseil européen du 20 juin 2019, en particulier le nouveau programme stratégique 2019-2024 pour l'Union,
+
+Vu le discours de Mme Ursula von der Leyen devant le Parlement européen du 16 juillet 2019, dans lequel elle a présenté ses priorités politiques,
+
+Vu la communication de la Commission au Parlement européen, au Conseil, au Comité économique et social européen et au Comité des régions du 29 janvier 2020 présentant le programme de travail de la Commission pour 2020, intitulé « Une Union plus ambitieuse », COM-(2020) 37 final,
+
+Approuve le programme de travail de la Commission européenne pour 2020, articulé autour des six grandes ambitions définies dans les orientations politiques de sa Présidente, Mme Ursula von der Leyen ; soutient la proposition de parvenir à la mise en place d'une programmation pluriannuelle entre la Commission, le Parlement européen et le Conseil ;
+
+Relève le caractère particulièrement ambitieux de ce programme de travail ; insiste par conséquent sur la nécessité d'une programmation rigoureuse des travaux législatifs et d'une présentation régulière de son état d'avancement, dans l'objectif d'obtenir des résultats rapides et tangibles pour les citoyens européens ;
+
+Estime que ce programme de travail doit être mis en œuvre dans le respect du principe de subsidiarité, qui ne saurait être présumé au seul motif de l'approfondissement du marché intérieur, et selon les modalités arrêtées dans sa résolution européenne n° 106 (2016-2017) du 17 mars 2017 sur la simplification du droit européen ;
+
+- Sur le Pacte vert pour l'Europe :
+
+Approuve pleinement le choix de la Commission de placer la lutte contre le changement climatique et la préservation de l'environnement au centre des priorités de l'Union européenne, sous la forme du Pacte vert pour l'Europe visant la neutralité climatique à l'horizon 2050, conçu à la fois comme la nouvelle stratégie de croissance européenne et comme la ligne conductrice de son programme de travail annuel ; considère que la nouvelle stratégie industrielle globale pour l'Europe annoncée par la Commission doit intégrer le défi climatique et l'objectif de neutralité carbone à l'horizon 2050 ; demande que le projet de la Commission pour un nouvel objectif européen en matière de réduction des émissions de gaz à effet de serre d'ici à 2030 soit fondé sur des études d'impact approfondies, réalistes et incontestables, en particulier en matière d'extension du marché carbone aux secteurs des transports et du bâtiment et de développement de la mobilité à faible émission ;
+
+Souligne néanmoins l'ampleur des investissements nécessaires pour atteindre l'objectif de neutralité carbone à l'horizon 2050 et la nécessité d'accompagner certains territoires et certaines filières confrontés à d'importants défis de reconversion ; insiste sur la nécessité pour l'Union européenne de ne se priver d'aucune technologie permettant d'atteindre les objectifs ambitieux qu'elle s'est assignés ;
+
+Souhaite que le Pacte vert pour l'Europe porte une attention particulière à la réduction de l'empreinte environnementale et à la préservation et la restauration de la biodiversité, pour ce qui concerne notamment les micro-plastiques, les perturbateurs endocriniens et les nanomatériaux, l'économie bleue et la préservation des forêts, de façon à favoriser l'émergence de la bioéconomie, notamment dans les régions ultrapériphériques et les pays et territoires d'outre-mer ;
+
+Insiste pour que soit mis en œuvre de manière efficace et rapide un mécanisme d'inclusion carbone aux frontières de l'Union européenne afin de réduire le risque de fuite carbone, d'assurer une équité dans les relations commerciales internationales et de concilier lutte contre les dérèglements climatiques, développement durable, développement économique et inclusion sociale ; appelle de ses vœux l'avancée des négociations sur la proposition de révision de la directive sur la fiscalité de l'énergie de manière à la moderniser et à l'aligner sur les objectifs climatiques et énergétiques européens ; souhaite, afin d'éviter toute précipitation sur ce dossier, que la stratégie d'intégration intelligente des secteurs annoncée par la Commission comporte des études préalables approfondies, dans la mesure où ce projet pourrait modifier sensiblement le fonctionnement des marchés intérieurs de l'électricité et du gaz ; rappelle que les Etats membres sont libres de choisir leur mix énergétique pour atteindre les objectifs climatiques européens et nationaux ;
+
+Salue l'annonce par la Commission d'une stratégie « De la ferme à la table » pour l'ensemble de la chaîne alimentaire ; demande que cette stratégie prévoie une amélioration de l'information des consommateurs, en particulier sur la durabilité et la traçabilité des produits alimentaires, rende obligatoire l'étiquetage nutritionnel complémentaire « Nutri-Score » - intégrant la spécificité des produits sous signe de qualité dont la composition et la fabrication ne sauraient faire l'objet d'une analyse identique -, promeuve la réduction de l'utilisation des produits phytosanitaires et phytopharmaceutiques et des antibiotiques, conformément aux avis de l'Autorité européenne de sécurité des aliments, et garantisse le renforcement effectif du poids des producteurs dans la chaîne alimentaire, dans l'esprit du règlement européen (UE) 2017/2393 du 13 décembre 2017, dit Omnibus ;
+
+Plaide pour une conclusion rapide des négociations sur le cadre financier pluriannuel 2021-2027 dans le sens de sa résolution n° 60 (2019-2020) du 11 février 2020 sur le cadre financier pluriannuel de l'Union européenne (2021-2027) ; rappelle en particulier sa vigilance quant aux modalités de mise en œuvre du fonds pour une transition juste, qui ne doivent pas conduire à amputer les fonds de cohésion ou les crédits de la politique agricole commune ; sera attentif aux propositions de la Commission pour un plan d'investissement au titre du Pacte vert pour l'Europe et pour une stratégie renouvelée en matière de finance durable, en particulier pour ce qui concerne l'articulation de ces projets avec le nouveau plan d'investissement pour l'Europe InvestEU qui contribuera aussi à la réalisation des objectifs climatiques et environnementaux de l'Union européenne ;
+
+Insiste pour que les négociations relatives à la réforme de la politique agricole commune se concluent dans le sens de ses résolutions européennes n° 130 (2016-2017) du 8 septembre 2017, n° 116 (2017-2018) du 6 juin 2018 et n° 96 (2018-2019) du 7 mai 2019 ;
+
+- Sur une Europe adaptée à l'ère du numérique :
+
+Partage l'objectif de la Commission de faire de l'Union européenne un acteur majeur du numérique et de l'intelligence artificielle dans tous les domaines ; salue ses projets en vue de l'achèvement du marché unique numérique ; considère que celui-ci doit viser in fine le développement d'un Internet équitable et le renforcement de la souveraineté numérique de l'Union européenne et de ses Etats membres ;
+
+Estime par conséquent que le respect des droits des citoyens sur Internet constitue une priorité, qui nécessite le renforcement de la cybersécurité, passant par la sécurité des objets connectés et l'adoption d'une législation européenne permettant de lutter contre la diffusion en ligne de contenus haineux et la manipulation de l'information, dans le respect de la liberté d'expression ; demande que les modalités du déploiement de la 5G assurent l'autonomie stratégique de l'Union européenne et ne portent pas atteinte aux compétences des Etats membres en matière de sécurité et de défense nationale ni aux capacités des services répressifs et de renseignement nationaux ; accorde une grande importance à la protection des utilisateurs, des mineurs en particulier, et des consommateurs sur le marché unique numérique, ainsi qu'à l'amélioration des conditions de travail des salariés des plateformes, annoncée par la Commission ; estime que la démarche de rééquilibrage des relations entre les plateformes d'intermédiation et les entreprises et de transparence des algorithmes et des classements doit être activement poursuivie ;
+
+Appelle à la mise en place d'un cadre d'action propice à la stimulation de l'innovation et de la concurrence dans le secteur numérique ; considère que le programme-cadre pour la recherche et l'innovation « Horizon Europe » doit allouer une part conséquente de ses moyens à l'innovation dans le secteur numérique et assurer une synergie entre celui-ci et le programme spatial ; souhaite que la nouvelle stratégie industrielle et la stratégie spécifique en faveur des PME, annoncées par la Commission, réorientent le droit de la concurrence de manière à permettre l'émergence de leaders européens du numérique et de l'intelligence artificielle et la conquête de nouveaux marchés à l'échelle européenne et mondiale, ainsi que la régulation des plateformes numériques structurantes qui ont une responsabilité particulière dans le bon fonctionnement du marché unique numérique ; accueille favorablement les objectifs de la nouvelle stratégie européenne en matière de données non personnelles ;
+
+Appelle à veiller au développement éthique des outils d'intelligence artificielle, en particulier pour la transparence des algorithmes ; soutient l'objectif d'assurer une meilleure protection des données personnelles en ligne et de créer un cadre protecteur de la vie privée dans le domaine des communications électroniques, en lien avec le règlement général sur la protection des données ; appelle néanmoins à trouver des solutions rapides à des défaillances persistantes telles que l'existence de dérogations ciblées et limitées au consentement pour les métadonnées, les modalités de recueil du consentement, y compris dans les communications entre machines et pour les objets connectés, ou encore les codes de conduite envisagés par la Commission pour le secteur du cloud ;
+
+- Sur une économie au service des personnes :
+
+Rappelle son attachement à l'économie sociale de marché ; souscrit aux projets de la Commission en matière sociale, dans un contexte de persistance du chômage, de la pauvreté et de disparités régionales au sein de l'Union européenne et de ses Etats membres ; considère que la mobilité transfrontalière des travailleurs et la transition climatique doivent faire l'objet d'un accompagnement en matière de protection sociale, dans des conditions garantissant le respect de la réglementation et la lutte contre la fraude et le travail illicite ou dissimulé ;
+
+Appelle à la mise en œuvre rapide et effective du socle européen des droits sociaux, dans le respect des compétences des Etats membres et du dialogue social, de manière à favoriser la convergence sociale en Europe et à faire de l'Europe sociale une véritable valeur ajoutée pour les citoyens européens ; estime par conséquent que les initiatives annoncées par la Commission sur les salaires minimums équitables pour les travailleurs de l'Union européenne et sur le régime européen de réassurance chômage doivent obéir à ces principes ; considère en particulier que la définition d'indicateurs de référence, tenant compte de la situation économique de chaque Etat membre, permettrait de viser une cible indicative de salaire minimum à atteindre ;
+
+Estime que l'approfondissement de l'Union économique et monétaire (UEM) doit constituer une priorité forte de l'Union européenne ; demande que la révision du cadre de gouvernance économique annoncée par la Commission donne l'occasion d'avancer vers la création d'un budget de la zone euro favorisant, à moyen terme, la convergence et la stabilisation ; invite le co-législateur à aboutir sur la proposition de règlement visant à établir un cadre de gouvernance pour l'Instrument budgétaire de convergence et de compétitivité (IBCC) pour la zone euro, qui doit apporter aux Etats membres de la zone euro un soutien financier à leurs réformes et investissements mis en place pour renforcer la coordination des politiques économiques de la zone euro, et dont le budget ne doit pas être réduit ; regrette que le volume de crédits dédiés à l'IBCC, ainsi que les modalités d'allocation des crédits, soient à ce stade incompatibles avec l'objectif initial d'instaurer un instrument budgétaire à vocation de stabilisation macroéconomique ; considère que la mise en œuvre de ce cadre de gouvernance doit être alignée sur le calendrier du semestre européen ; prend note de la proposition de la Commission d'intégrer les objectifs de développement durable au semestre européen ; rappelle cependant que celui-ci est d'abord un instrument de coordination économique et budgétaire ; juge indispensable un approfondissement de la légitimité démocratique de l'UEM et donc une meilleure association des parlements nationaux, au travers d'une modernisation de la conférence de l'article 13 du traité sur la stabilité, la coordination et la gouvernance ;
+
+Estime que la consolidation de la stabilité financière nécessite l'aboutissement de l'Union bancaire et le développement d'une véritable Union des marchés de capitaux souveraine et résiliente ;
+
+Prend note des initiatives annoncées par la Commission d'une communication sur la fiscalité des entreprises pour le xxie siècle et d'un plan d'action visant à lutter contre la fraude fiscale et à simplifier la fiscalité ; considère que ces propositions devront contribuer à renforcer la convergence fiscale en Europe, à assurer la compétitivité de l'économie européenne et à préserver les recettes publiques, dans une démarche de coopération loyale ; appelle dès lors à redéfinir les règles de vote au Conseil en matière fiscale pour passer de l'unanimité à la majorité qualifiée ; est favorable à des dispositifs plus efficaces de lutte contre l'optimisation fiscale, en lien avec les orientations du G20 et les travaux de l'OCDE ; demande la mise en place de mesures fiscales permettant de mieux faire contribuer aux charges publiques les géants du secteur numérique ;
+
+Regrette l'absence d'évocation de la politique de cohésion dans le programme de travail de la Commission, politique qui est pourtant essentielle pour l'Union européenne ; appelle à la conclusion rapide des négociations sur les fonds structurels dans le sens de sa résolution européenne n° 131 (2017-2018) du 2 juillet 2018 pour une politique régionale européenne ambitieuse au service de la cohésion territoriale ; insiste sur la nécessaire prise en compte des spécificités des régions ultrapériphériques par la politique de cohésion ; considère que la mobilisation de cette dernière au bénéfice de la transition climatique ne saurait la détourner de ses objectifs originels de renforcement de la cohésion économique, sociale et territoriale et de réduction de l'écart de développement entre les régions européennes ;
+
+- Sur une Europe plus forte sur la scène internationale :
+
+Partage l'ambition de la Commission d'inciter l'Union européenne à se doter d'une vision davantage géopolitique et à agir de façon plus unie et cohérente pour peser dans les affaires du monde ; considère que, sans préjudice des compétences des Etats membres, l'Union européenne doit être en capacité de réagir rapidement aux crises extérieures selon des modalités de gestion suffisamment flexibles ;
+
+Soutient les objectifs de la politique européenne de voisinage ; rappelle que cette politique doit être mise en œuvre indépendamment de la politique d'élargissement de l'Union européenne ; réaffirme son fort attachement au maintien des équilibres financiers atteints pour l'affectation des crédits de la politique européenne de voisinage, à hauteur des deux tiers à la rive Sud de la Méditerranée, et d'un tiers à l'Est du continent ;
+
+Demande que les crédits de la politique européenne de voisinage bénéficiant au Sud soient ciblés, en priorité, sur la protection du climat et de l'environnement, sur le développement des échanges et sur les migrations ; considère que l'Afrique subsaharienne et la rive Sud de la Méditerranée doivent être au cœur de la politique extérieure de l'Union européenne, compte tenu à la fois des besoins de développement et des enjeux migratoires et de sécurité ; approuve par conséquent l'élaboration annoncée d'une nouvelle stratégie globale avec l'Afrique ; estime que cette nouvelle stratégie doit ériger le soutien au Sahel en priorité de l'Union européenne ; demande que les négociations visant à remplacer l'accord de Cotonou préservent les accords d'association existants avec les pays d'Afrique du Nord ; estime que l'Union pour la Méditerranée constitue un forum adapté pour renforcer le dialogue méditerranéen ;
+
+Réaffirme clairement la perspective européenne des pays des Balkans occidentaux ; approuve par conséquent l'intention de la Commission d'approfondir son partenariat avec eux ; appelle à une mise en œuvre complète et rapide des engagements pris par les parties en faveur de la stabilité, du développement économique, de la sécurité et de l'Etat de droit ;
+
+Prend acte des débats sur la nécessité de réformer la méthodologie de l'élargissement de l'Union européenne ; considère que l'élargissement est une décision politique importante devant être prise par le Conseil européen ; estime que cette réforme doit rapidement aboutir à une procédure rigoureuse, individualisée et réversible ;
+
+Rappelle son soutien au Partenariat oriental comme enceinte de dialogue politique et de réalisations concrètes au bénéfice de l'ensemble des parties ; considère néanmoins que le Partenariat oriental n'ouvre pas de perspective européenne aux pays concernés ; prend note du projet de la Commission de proposer un nouveau Partenariat oriental affichant de nouveaux objectifs stratégiques ; demande que ce nouveau Partenariat oriental prenne davantage en compte les questions climatiques et environnementales, la jeunesse et la lutte contre les inégalités et s'assure de la bonne mise en œuvre par les pays partenaires des accords de libre-échange complets et approfondis et des critères à respecter pour la libéralisation des visas ;
+
+Soutient la volonté de la Commission de moderniser le fonctionnement de l'Organisation mondiale du commerce (OMC), engagée dans un cadre international plus large ; estime que cette réforme doit notamment aboutir à la modernisation des règles relatives aux subventions par un renforcement des obligations de transparence et de notification et une précision des règles applicables aux subventions industrielles horizontales ; demande de trouver rapidement une solution au blocage de l'organe de règlement des différends de l'OMC ; appelle à un apaisement des relations commerciales avec les Etats-Unis et la Chine par le recours au dialogue, sans pour autant renoncer à une réaction ferme en cas d'imposition de droits additionnels par des Etats tiers ;
+
+Approuve l'intention de la Commission de renforcer la souveraineté économique et financière de l'Union européenne ; considère que cet objectif peut être atteint par son affirmation comme puissance commerciale, centrée sur la défense de ses intérêts, y compris face à des acteurs extra-européens bénéficiant d'aides d'Etat, en utilisant notamment les outils de défense commerciale dont elle dispose, en promouvant ses normes et en travaillant à une réciprocité équilibrée dans l'accès aux marchés publics et en matière d'investissements directs ; demande à la Commission de prendre toute mesure permettant de neutraliser les sanctions extraterritoriales prises par des Etats tiers ;
+
+- Sur la promotion de notre mode de vie européen :
+
+Approuve les initiatives annoncées par la Commission en faveur de la santé des Européens, qu'il s'agisse du plan européen de lutte contre le cancer et de la stratégie pharmaceutique pour l'Europe ; insiste pour que ces mesures, par respect du principe de subsidiarité, consistent avant tout à soutenir les actions des Etats membres ; formule les mêmes observations pour ce qui concerne les propositions à venir de la Commission en matière de compétences, d'éducation et d'inclusion, ainsi que pour la protection des enfants, y compris dans le cadre de l'action extérieure de l'Union européenne ; considère que l'intervention dans ces domaines doit être centrée sur l'existence d'une véritable valeur ajoutée européenne ;
+
+Demande à la Commission de faire preuve d'ambition et de détermination sur la nouvelle stratégie de l'Union européenne sur l'union de la sécurité, dans un contexte de menaces multiformes de nature transfrontalière ; considère que cette nouvelle stratégie doit viser, notamment : la lutte contre le terrorisme, son financement et sa propagation sur Internet ; le développement des actions de formation entre services spécialisés des Etats membres, y compris les services de renseignement ; la finalisation de l'interopérabilité des systèmes d'information européens ; le renforcement de l'échange d'informations entre services répressifs et de la coopération avec Europol ; l'amélioration du suivi des individus suspectés d'être partis combattre en zone de djihad, à la fois au sein de l'espace Schengen et en cas de franchissement des frontières extérieures de l'Union européenne ; l'allocation de moyens suffisants à la cybersécurité et le renforcement de la lutte contre la cybercriminalité ;
+
+Appuie la Commission dans sa volonté de présenter un nouveau pacte sur la migration et l'asile, en particulier sur le lien qu'elle établit entre les aspects internes et externes de ces questions, après l'échec de l'Union européenne à apporter des solutions durables à la crise migratoire qui a débuté en 2015 ; estime que ce nouveau pacte doit à la fois renforcer la solidarité au sein de l'espace Schengen, tant vis-à-vis des pays de première entrée que des Etats membres de destination - qui connaissent un afflux exceptionnel de demandeurs d'asile ou sont confrontés à la nécessité d'effectuer des sauvetages en mer -, renforcer la protection des frontières extérieures communes, de manière à pouvoir distinguer rapidement les personnes relevant d'une protection internationale de celles ayant vocation à être éloignées, mettre en place un mécanisme d'évaluation associant les agences européennes compétentes de manière à disposer de diagnostics objectifs pour mieux motiver la prise de décision et réformer la gouvernance de l'espace Schengen ;
+
+Est attentif à la mise en place du mandat renforcé de Frontex, notamment à l'allocation optimale des ressources permettant la montée en charge du nouveau corps européen de garde-côtes et de garde-frontières, qui contribuera à renforcer le contrôle des frontières extérieures de l'Union européenne ;
+
+Demande la création rapide d'une véritable agence européenne de l'asile dont le mandat lui permettrait notamment de superviser la bonne application du régime d'asile européen commun par les Etats membres, de soutenir les Etats membres aux différents stades de la procédure et de disposer d'une réserve d'experts ;
+
+Réitère son soutien aux engagements pris lors des sommets de La Valette, Malte et Abidjan en matière de coopération avec les pays d'origine et de transit ; rappelle l'importance d'améliorer les structures et conditions d'accueil des migrants en Libye et de mieux garantir le respect de leurs droits fondamentaux ; est favorable au renforcement de la coopération avec les pays du Sahel, en lien avec le G5 Sahel, de façon à prévenir les flux de migrants irréguliers ; soutient les négociations entre l'Union européenne et les pays d'origine et de transit en vue de conclure des accords de réadmission, ainsi que l'établissement d'un lien entre délivrance des visas et coopération en matière de réadmission ;
+
+Demande que le futur pacte sur la migration et l'asile promeuve une politique européenne d'accueil et d'intégration des réfugiés et comporte des dispositions relatives à des voies de migration légales sûres, définies et concertées, tenant compte de la diversité des marchés du travail ;
+
+Estime indispensable que la relation future entre l'Union européenne et le Royaume-Uni permette d'assurer un niveau élevé de sécurité, en particulier grâce au maintien d'échanges d'informations intenses et de la participation britannique à Europol ;
+
+- Sur un nouvel élan pour la démocratie européenne :
+
+Partage la préoccupation de la Commission sur les nombreux défis auxquels la démocratie est confrontée dans l'Union européenne et ses Etats membres, les menaces étant à la fois externes et internes ; réitère son attachement à la Charte des droits fondamentaux de l'Union européenne ; constate l'absence d'avancées réelles dans le cadre de la procédure prévue par l'article 7 du traité sur l'Union européenne ; soutient par conséquent la nécessité d'une révision du mécanisme de protection de l'Etat de droit, déjà proposée par la Commission, qui devrait concerner l'ensemble des Etats membres et dont la légitimité reposerait sur une mise en œuvre impartiale et des données fiables ; estime que le premier rapport annuel sur l'Etat de droit, annoncé par la Commission, doit donner lieu à un suivi détaillé et objectif des recommandations adressées aux Etats membres ;
+
+Insiste sur l'importance de lutter avec détermination contre les différentes formes de discriminations, qu'elles affectent les femmes, victimes à la fois d'inégalités économiques et sociales et de violences à caractère sexiste, ou les minorités telles que les Roms et les personnes LGBTI ; rappelle que les personnes âgées, dans un contexte de vieillissement démographique, et les personnes handicapées doivent bénéficier de mesures de prise en charge adaptées ; estime indispensable d'évaluer de façon régulière et objective les résultats concrets obtenus dans ces domaines ;
+
+Encourage la Commission dans sa volonté de présenter un nouvel agenda du consommateur, qui permettra de renforcer sa protection, en particulier dans les opérations transfrontières et en ligne ; souhaite la conclusion des négociations sur la proposition de directive qui permettrait d'assurer le respect des principes fondamentaux de la procédure civile dans les Etats membres et de prévoir des garanties appropriées pour se prémunir d'une multiplication des contentieux dont l'objectif serait éloigné de la protection des consommateurs ;
+
+Appelle l'Union européenne et le Conseil de l'Europe à renforcer leur coopération en faveur de la démocratie, des droits de l'Homme et de l'Etat de droit, en évitant tout doublon dans leurs activités ; salue la reprise des négociations en vue de l'adhésion de l'Union européenne à la Convention européenne des droits de l'Homme et appelle à la conclusion rapide d'un accord d'adhésion qui préserve l'autonomie du droit de l'Union européenne et la compétence exclusive de la Cour de justice de l'Union européenne pour l'interpréter ;
+
+Insiste pour que soit institué un droit d'initiative des parlements nationaux leur permettant de contribuer positivement à l'élaboration du programme de travail de la Commission ;
+
+Demande que les parlements nationaux, qui sont des acteurs essentiels de la construction européenne, soient pleinement associés aux travaux de la Conférence sur l'avenir de l'Europe ;
+
+Invite le Gouvernement à soutenir ces orientations et à les faire valoir dans les négociations en cours et à venir au Conseil.
+
+Travaux préparatoires :
+
+Sénat. - Proposition de résolution n° 370 (2019-2020) - Est devenue résolution du Sénat le 10 avril 2020 - T.A. n° 82 (2019-2020).
