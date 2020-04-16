@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214329
+
+- Question : [SEQ200214329](seq200214329.md) — Réciprocité du permis de conduire entre la France et le Royaume-Uni après le Brexit
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-04-16, page 1808*
+
+Avec le retrait du Royaume-Uni de l'Union européenne, et à l'issue de la période de transition prévue pour durer jusqu'au 31 décembre 2020, les permis de conduire britanniques se verront soumis aux règles applicables aux permis de conduire des États n'appartenant ni à l'Union européenne (UE) ni à l'Espace économique européen (EEE). Ils ne pourront ainsi plus bénéficier des dispositions particulières de reconnaissance et d'échange prévues par la directive européenne du 20 décembre 2006 relative aux permis de conduire. Les autorités britanniques ont annoncé envisager de maintenir unilatéralement la réglementation actuelle à l'issue de la période de transition. Les permis français seraient ainsi toujours reconnus sans condition de durée, échangés et renouvelés en Grande-Bretagne. Cette situation peut varier dans les territoires disposant de leur propre autorité compétente en matière de permis de conduire (Irlande du Nord, îles Anglo-Normandes…). En France, les usagers titulaires d'un permis de conduire britannique qui auront établi leur résidence normale en France au plus tard au 31 décembre 2020 pourront continuer de bénéficier de la réglementation prévue pour les permis délivrés par les autorités des États membres de l'UE ou de l'EEE, ce qui leur permettra de procéder, si besoin, à leur renouvellement pour perte, vol, détérioration ou arrivée à expiration. En revanche, ceux qui l'établiront postérieurement à cette date ne bénéficieront plus que de la période de reconnaissance de droit commun d'un an et seront dans l'obligation de passer le permis de conduire français dans ce délai.
