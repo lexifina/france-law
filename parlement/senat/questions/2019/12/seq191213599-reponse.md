@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213599
+
+- Question : [SEQ191213599](seq191213599.md) — Difficultés des lycéens scolarisés dans les établissements d'enseignement français au Portugal
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-04-16, page 1807*
+
+Aujourd'hui, le baccalauréat français est reconnu au Portugal, et pour accéder à l'enseignement supérieur portugais, une conversion des résultats est prévue. Le système actuellement en vigueur au Portugal a été élaboré en 2008, afin d'établir une juste correspondance entre les notes d'un bachelier, et celles d'un élève issu de l'enseignement portugais, dont la grille de notation diffère. Ce système prévoit notamment un système de bonification des notes de contrôle continu pouvant aller jusqu'à 3 points. Le contexte actuel de la réforme du baccalauréat appelle des modifications de la législation portugaise et peut réactiver les inquiétudes légitimes de certains parents d'élèves du réseau d'enseignement français au Portugal. La reconnaissance de ce nouveau baccalauréat a été demandée à la Commission nationale d'accès à l'enseignement supérieur portugais (CNAES). Le décret portugais fixant les équivalences accordées par la CNAES pour l'admission dans l'enseignement supérieur en 2021-2022 sera publié en mai 2020. Cette réforme du baccalauréat constitue aussi une opportunité pour établir un système de conversion des notes plus équitable pour les élèves des lycées français. C'est pourquoi l'ambassade de France à Lisbonne a demandé aux autorités portugaises compétentes d'entamer des négociations bilatérales pour obtenir une révision du mode de calcul de conversion des notes. L'ambassade de France à Lisbonne mène un dialogue constant avec les établissements d'enseignement français et les autorités portugaises afin de défendre au mieux les intérêts des élèves scolarisés dans le réseau d'enseignement français au Portugal.
