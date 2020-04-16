@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113937
+
+- Question : [SEQ200113937](seq200113937.md) — Accords avec le Québec en matière de certificats de vie
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-04-16, page 1807*
+
+Lors de la séance du Sénat du 4 juillet 2019, le secrétaire d'État auprès du ministre de l'Europe et des affaires étrangères a évoqué le cas de deux conventions concernant le notariat, en cours de négociation respectivement avec le Québec et avec la Chine. Il s'agit de projets de conventions en cours de négociation entre le Conseil supérieur du notariat (CSN) et ses homologues étrangers. Le Conseil supérieur du notariat et la Chambre des notaires du Québec ont participé en 2016 à la signature d'une convention bilatérale permettant de faciliter la coopération entre les notaires français et québécois. Le 17 mars 2019, une nouvelle convention a été signée, elle permet notamment d'étendre la collaboration notariale - auparavant réservée aux procurations - aux actes authentiques unilatéraux qui ne nécessitent pas de comparution personnelle. Par ailleurs, la nouvelle convention ne prescrit plus de lieu de résidence des signataires d'un acte, permettant à tout Français, de passage comme résidant au Québec, de se prévaloir de cet accord. S'agissant de la Chine, le 10 janvier 2018, un accord a été signé entre le Conseil supérieur du notariat et l'Association des notaires de Chine. Il prévoit une facilitation des démarches, une intensification de la coopération entre les notaires français et chinois autour de thématiques communes ainsi qu'un travail sur la reconnaissance mutuelle des actes authentiques. Cet accord doit être renouvelé en 2020. Le ministère de l'Europe et des affaires étrangères suit avec attention l'état d'avancement des discussions même si ce sujet, tout comme la signature d'une telle convention, relève pleinement de la compétence du Conseil supérieur du notariat.
