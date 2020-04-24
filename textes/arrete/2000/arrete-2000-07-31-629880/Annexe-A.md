@@ -1,66 +1,6 @@
 # Article Annexe A
 
-Chapitre Ier : Dispositions relatives au territoire métropolitain.
-
-i) Les organismes nuisibles visés au chapitre Ier de la partie A de l'annexe I et au chapitre Ier de la partie A de l'annexe II de l'arrêté du 24 mai 2006 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets, à l'exception de ceux listés ci-après :
-
-Rhagoletis completa Cresson (mouche du brou de la noix) ;
-
-ii) Les organismes nuisibles visés au chapitre 2 de la partie A de l'annexe I, à la partie B de l'annexe I, au chapitre 2 de la partie A de l'annexe II et à la partie B de l'annexe II de l'arrêté du 24 mai 2006 susmentionné, listés ci-après :
-
-Aphelenchoides besseyi (nématode foliaire) ;
-
-Beet leaf curl virus ;
-
-Ceratocystis fimbriata sp. platani (chancre coloré du platane) ;
-
-Citrus tristeza closterovirus (tristeza) ;
-
-Citrus vein enation woody gall ;
-
-Clavibacter michiganensis subsp. insidiosus (flétrissement bactérien de la luzerne) ;
-
-Clavibacter michiganensis subsp. sepedonicus (flétrissement bactérien de la pomme de terre) ;
-
-Erwinia amylovora (feu bactérien des rosacées) ;
-
-Meloidogyne chitwoodi (nématode à galles) ;
-
-Meloidogyne fallax (nématode à galles) ;
-
-Opogona sacchari (teigne du bananier) ;
-
-Phytoplasme de la flavescence dorée de la vigne ;
-
-Plum pox virus (sharka) ;
-
-Popillia japonica (hanneton japonais) ;
-
-Pseudomonas caryophylli (chancre bactérien de l'œillet) ;
-
-Ralstonia solanacearum (pourriture brune de la pomme de terre ou flétrissement bactérien) ;
-
-Spodoptera littoralis (noctuelle méditerranéenne) ;
-
-Synchytrium endobioticum (galle verruqueuse de la pomme de terre).
-
-iii) Et les organismes nuisibles suivants :
-
-Callosobruchus chinensis (bruche chinoise) ;
-
-Caulophilus oryzae ;
-
-Dryocosmus kuriphilus (cynips du châtaignier) ;
-
-Gibberella circinata (anamorphe Fusarium circinatum) ;
-
-Phytophtora ramorum ;
-
-Prostephanus truncatus (grand capucin) ;
-
-Rhynchophorus ferrugineus (charançon rouge du palmier) ;
-
-Trogoderma granarium (dermeste du grain).
+Chapitre Ier : (Abrogé)
 
 Chapitre II : Dispositions relatives aux départements d'outre-mer.
 
