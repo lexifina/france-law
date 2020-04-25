@@ -1496,23 +1496,23 @@ Kremlin Bicêtre
 
 |
 
-46
+-
 
 |
 
-39
+-
 
 |
 
-32
+-
 
 |
 
-26
+-
 
 |
 
-358
+215
 
 |
 
@@ -1596,7 +1596,7 @@ ENERGIVRY
 
 |
 
-4 274
+2 137
 
 |
 
@@ -1608,7 +1608,7 @@ ENERGIVRY
 
 |
 
-37 977
+35 840
 
 |
 
@@ -5780,11 +5780,11 @@ HSWT France
 
 |
 
-19 236
+-
 
 |
 
-165 044
+145 808
 
 |
 
@@ -11156,11 +11156,11 @@ RESEAU DE CHAUFFAGE URBAIN DE JOUE-LES-TOURS
 
 |
 
-4 457
+2 229
 
 |
 
-70 777
+68 549
 
 |
 
@@ -12512,11 +12512,11 @@ FR000000000001102
 
 |
 
-INDUSTELEC SUD EST
+DALKIA
 
 |
 
-THERMELEC
+Centrale Thermique Dalkia Roussillon
 
 |
 
@@ -12836,11 +12836,11 @@ GRTgaz station de compression de Palleau
 
 |
 
-6 668
+1 667
 
 |
 
-106 253
+101 252
 
 |
 

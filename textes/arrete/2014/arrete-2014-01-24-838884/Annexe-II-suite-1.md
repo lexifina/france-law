@@ -2344,11 +2344,11 @@ COFELY - CHAUFFERIE FAREBERSVILLER
 
 3 972 |
 
-3 267 |
+1 634 |
 
-2 587 |
+1 294 |
 
-41 093 |
+38 167 |
 
 FR000000000000480 |
 
@@ -3014,11 +3014,11 @@ FR000000000000507
 
 |
 
-PAPETERIE RAON
+RAON CIRCULAR REGENERATION
 
 |
 
-PAPETERIE RAON
+RAON CIRCULAR REGENERATION
 
 |
 
@@ -3204,9 +3204,9 @@ GRTgaz station de compression de Morelmaison
 
 15 062 |
 
-11 915 |
+23 830 |
 
-276 394 |
+324 644 |
 
 FR000000000000515
 
@@ -4068,9 +4068,9 @@ Arjowiggins Papiers Couchés - usine de Bessé-sur-Braye
 
 82 911 |
 
-81 202 |
+- |
 
-696 707 |
+615 505 |
 
 FR000000000000550
 
@@ -4186,11 +4186,11 @@ LAVAL ENERGIE NOUVELLE
 
 3 125 |
 
-2 571 |
+643 |
 
-2 037 |
+510 |
 
-32 340 |
+28 885 |
 
 FR000000000000554
 
@@ -4288,9 +4288,9 @@ SAS SYNER'GIE chaufferie des Sablons (Le Mans) |
 
 6 283 |
 
-4 977 |
+0 |
 
-79 038 |
+74 061 |
 
 FR000000000000557 |
 
@@ -4420,9 +4420,9 @@ NORPAPER NANTES
 
 FR000000000000562 |
 
-ARJOWIGGINS LE BOURRAY SAS |
+SAS PAPETERIE LE BOURRAY |
 
-ARJOWIGGINS LE BOURRAY SAS |
+SAS PAPETERIE LE BOURRAY |
 
 34 950 |
 
@@ -4438,9 +4438,9 @@ ARJOWIGGINS LE BOURRAY SAS |
 
 31 206 |
 
-30 562 |
+9 479 |
 
-262 223 |
+241 140 |
 
 FR000000000000563 |
 
@@ -5094,9 +5094,9 @@ Smurfit Kappa Papier recyclé France - papeterie Alfa d'Avignon |
 
 FR000000000000598 |
 
-Continental Foods France |
+GB FOODS PRODUCTION France |
 
-Continental Foods France |
+GB FOODS PRODUCTION France |
 
 7 946 |
 
@@ -6384,11 +6384,11 @@ GEODALYS Chaufferie de la plaine du Lys (DAMMARIE)
 
 4 854 |
 
-3 993 |
+0 |
 
-3 163 |
+0 |
 
-50 230 |
+43 074 |
 
 FR000000000000663 |
 
@@ -6892,21 +6892,21 @@ ITON SEINE
 
 55 591 |
 
-54 626 |
+39 554 |
 
-53 649 |
+38 847 |
 
-52 661 |
+38 131 |
 
-51 664 |
+37 409 |
 
-50 657 |
+36 680 |
 
-49 636 |
+35 941 |
 
-48 613 |
+35 200 |
 
-417 097 |
+317 353 |
 
 FR000000000000685
 
@@ -6928,11 +6928,11 @@ OOME, Carrières-sur-Seine 78
 
 |
 
-211
+247
 
 |
 
-174
+175
 
 |
 
@@ -6940,19 +6940,19 @@ OOME, Carrières-sur-Seine 78
 
 |
 
-126
+127
 
 |
 
-104
+416
 
 |
 
-82
+0
 
 |
 
-3 151
+3 419
 
 |
 
@@ -7146,11 +7146,11 @@ PEUGEOT CITROEN POISSY SNC
 
 |
 
-44 869
+31 733
 
 |
 
-361 027
+347 891
 
 |
 

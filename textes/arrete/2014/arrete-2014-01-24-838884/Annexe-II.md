@@ -5324,11 +5324,11 @@ SODIEN chaufferie urbaine de Chenove
 
 |
 
-2 220
+4 440
 
 |
 
-64 391
+66 611
 
 |
 
@@ -8972,11 +8972,11 @@ GRTgaz station de compression de Dierrey-Saint-Julien
 
 |
 
-306
+153
 
 |
 
-4 868
+4 715
 
 |
 

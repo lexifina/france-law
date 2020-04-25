@@ -1858,11 +1858,11 @@ Centrale mobile d'enrobage MI708
 
 |
 
-700
+380
 
 |
 
-9 338
+9 018
 
 |
 
@@ -1954,11 +1954,11 @@ SPIE BATIGNOLLES MALET-Grands Chantiers-PE 17
 
 |
 
-478
+56
 
 |
 
-10 186
+9 764
 
 |
 
@@ -2382,11 +2382,11 @@ Coopérative agricole Terre d'alliances
 
 |
 
-182
+728
 
 |
 
-9 032
+9 578
 
 |
 
@@ -2712,11 +2712,11 @@ FR-new-05516997
 
 |
 
-CECAB
+EUREDEN
 
 |
 
-CECAB
+EUREDEN
 
 |
 
@@ -3238,15 +3238,15 @@ Centrale mobile d'enrobage MI707
 
 |
 
-1 630
+511
 
 |
 
-1 404
+761
 
 |
 
-1 186
+643
 
 |
 
@@ -3258,7 +3258,7 @@ Centrale mobile d'enrobage MI707
 
 |
 
-12 283
+9 978
 
 |
 
@@ -3904,11 +3904,11 @@ VIVESCIA-site de PRINGY
 
 |
 
-188
+375
 
 |
 
-9 972
+10 159
 
 |
 
@@ -4444,11 +4444,11 @@ FR-new-05702992
 
 |
 
-Cristanol
+Cristal union
 
 |
 
-Cristanol
+Cristal union
 
 |
 
@@ -5434,11 +5434,11 @@ Coopérative agricole Terre d'alliances
 
 |
 
-96
+383
 
 |
 
-5 450
+5 737
 
 |
 
@@ -5482,11 +5482,11 @@ Coopérative agricole Terre d'alliances
 
 |
 
-147
+586
 
 |
 
-8 349
+8 788
 
 |
 
@@ -5578,11 +5578,11 @@ Coopérative agricole Terre d'alliances
 
 |
 
-230
+918
 
 |
 
-12 090 |
+12 778 |
 
 FR-new-06102436
 
@@ -5948,23 +5948,23 @@ CENTRE HOSPITALIER UNIVERSITAIRE DE SAINT-ETIENNE
 
 |
 
-4 652
+2 416
 
 |
 
-3 930
+2 040
 
 |
 
-3 233
+1 679
 
 |
 
-2 561
+1 330
 
 |
 
-40 676
+33 765
 
 |
 
@@ -6200,11 +6200,11 @@ Coopérative agricole Terre d'alliances
 
 |
 
-143
+570
 
 |
 
-7 065
+7 492
 
 |
 
@@ -6596,11 +6596,11 @@ FR-new-06105222
 
 |
 
-Dalkia
+ELKEM SILICONES France SAS
 
 |
 
-Chaufferie Elkem Roussillon
+Elkem Silicones Site de Roussillon
 
 |
 
@@ -7138,11 +7138,11 @@ FERA69
 
 |
 
-820
+-
 
 |
 
-13 056
+12 236
 
 |
 
@@ -8646,15 +8646,15 @@ ETEX France - Usine de Mazans
 
 |
 
-5 886
+-
 
 |
 
-5 765
+-
 
 |
 
-52 602
+40 951
 
 |
 
@@ -8928,11 +8928,11 @@ FR-new-06501028
 
 |
 
-V&B Fliesen GmbH
+V & B Fliesen GmbH
 
 |
 
-V&B Fliesen GmbH
+V & B Fliesen GmbH
 
 |
 
@@ -8964,11 +8964,11 @@ V&B Fliesen GmbH
 
 |
 
-21 311
+-
 
 |
 
-184 740
+163 429
 
 |
 
@@ -9184,15 +9184,15 @@ PLACOPLATRE - usine de CORMEILLES
 
 |
 
-22 617
+22 618
 
 |
 
-22 201
+22 202
 
 |
 
-21 780
+21 781
 
 |
 
@@ -9204,11 +9204,11 @@ PLACOPLATRE - usine de CORMEILLES
 
 |
 
-20 494
+15 685
 
 |
 
-169 947
+165 141
 
 |
 
@@ -9244,19 +9244,19 @@ Société ALTERNAE silo de GENICOURT
 
 |
 
-0
+262
 
 |
 
-0
+215
 
 |
 
-0
+170
 
 |
 
-3 504
+4 151
 
 |
 
@@ -10238,15 +10238,15 @@ CAH Seltz
 
 |
 
-1 540
+385
 
 |
 
-1 218
+305
 
 |
 
-19 412
+17 344
 
 |
 
@@ -10338,11 +10338,11 @@ ARMBRUSTER OTTMARSHEIM
 
 |
 
-429
+858
 
 |
 
-12 704 |
+13 133 |
 
 FR-new-06700555
 
@@ -10400,7 +10400,7 @@ UNION INVIVO
 
 |
 
-UNION INVIVO - SILO D'OTTMARSHEIM
+UNION INVIVO-SILO D'OTTMARSHEIM
 
 |
 
@@ -10432,11 +10432,11 @@ UNION INVIVO - SILO D'OTTMARSHEIM
 
 |
 
-315
+629
 
 |
 
-9 310
+9 624
 
 |
 
@@ -10480,11 +10480,11 @@ GUSTAVE MULLER - site d'OTTMARSHEIM
 
 |
 
-468
+936
 
 |
 
-13 865 |
+14 333 |
 
 FR-new-06700653
 
@@ -10574,11 +10574,11 @@ GUSTAVE MULLER - site de VOLGELSHEIM
 
 |
 
-214
+427
 
 |
 
-6 324
+6 537
 
 |
 
@@ -10666,15 +10666,15 @@ CA Strasbourg
 
 |
 
-2 240
+443
 
 |
 
-1 772
+443
 
 |
 
-28 238
+25 229
 
 |
 
@@ -10766,9 +10766,9 @@ ARMBRUSTER Strasbourg
 
 |
 
-322 |
+643 |
 
-9 520
+9 841
 
 |
 
@@ -10808,15 +10808,15 @@ CAH Marckolsheim
 
 |
 
-722
+361
 
 |
 
-571
+286
 
 |
 
-9 103
+8 457
 
 |
 
@@ -10990,11 +10990,11 @@ VIVADOUR route de Nogaro 32460 LE HOUGA
 
 |
 
-255
+510
 
 |
 
-7 553
+7 808
 
 |
 
@@ -11038,11 +11038,11 @@ EURALIS CEREALES BARCELONNE-DU-GERS
 
 |
 
-335
+670
 
 |
 
-9 403
+9 738
 
 |
 
@@ -13116,31 +13116,31 @@ Centrale du MIN de Rungis
 
 |
 
-1 428
+0
 
 |
 
-1 249
+0
 
 |
 
-1 077
+0
 
 |
 
-909
+0
 
 |
 
-747
+0
 
 |
 
-591
+0
 
 |
 
-9 416
+3 415
 
 |
 
