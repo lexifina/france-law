@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — Commande Publique
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2020-04-30
+- Matière : 1.1
+- Objet : Commande Publique
+- Transmis à la préfecture : 2020-04-30
+- Votants : 30
+- Pour : 21
+- Contre : 0
+- Abstentions : 9
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-22809.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
