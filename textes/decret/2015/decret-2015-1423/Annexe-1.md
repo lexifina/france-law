@@ -198,22 +198,6 @@ Article L. 253-5
 
 Article R. 253-3 |
 
-Autorisation d'acquisition et de détention d'armes et de matériels |
-
-Articles L. 312-2 et suivants
-
-Articles R. 312-25 et suivants |
-
-Agrément d'armurier |
-
-Article L. 313-2
-
-Articles R. 313-1 et suivants |
-
-Autorisation d'ouverture d'un local de commerce d'armes au détail |
-
-Article L. 313-3 |
-
 Autorisation d'ouverture de casino et autorisation de jeux dans le casino |
 
 Articles L. 321-1, L. 321-2 et L. 321-3
@@ -281,14 +265,6 @@ Article L. 614-4 |
 Autorisation d'exercer l'activité d'agent de recherche privé par les anciens fonctionnaires de police et de gendarmerie |
 
 Article L. 622-4 |
-
-Récépissé de déclaration ou enregistrement d'armes de catégorie C et D |
-
-Articles R. 312-53 à R. 312-59 |
-
-Agrément des certificats de qualification professionnelle des armuriers |
-
-Article R. 313-4 |
 
 Autorisation de port d'arme |
 
@@ -877,7 +853,3 @@ Echange de permis de conduire étranger |
 Arrêté du 8 février 1999
 
 Arrêté du 12 janvier 2012 |
-
-NOTA :
-
-Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette date au 18 février 2019.
