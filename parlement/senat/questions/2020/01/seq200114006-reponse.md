@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200114006
+
+- Question : [SEQ200114006](seq200114006.md) — Responsabilité du maire en cas d'accident survenu lors d'une fête foraine
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-04-30, page 2024*
+
+À l'occasion de l'installation de manèges sur le territoire d'une commune, le maire doit exiger de chaque exploitant, en application de l'article 11 du décret n° 2008-1458 du 30 décembre 2008 pris pour l'application de la loi n° 2008-136 du 13 février 2008 relative à la sécurité des manèges, machines et installations pour fêtes foraines ou parcs d'attractions, la production de plusieurs documents de nature à vérifier leur bon fonctionnement et leur aptitude à assurer la sécurité du public. Le maire peut interdire l'exploitation du matériel, la subordonner à des réparations ou modifications ou à la réalisation d'un nouveau contrôle technique, si les constatations effectuées ou l'examen de ces documents le justifient. Par ailleurs, au titre de ses pouvoirs de police administrative générale, le maire doit veiller à ce que les sites d'implantation des manèges ne présentent pas de risque pour la sécurité publique (Cour administrative d'appel de Nancy, 14 novembre 1991, n° 91NC00012). Il peut également assortir l'autorisation d'occupation du domaine public, délivrée à l'exploitant du manège, de prescriptions en cas de risques de troubles à l'ordre public. La responsabilité du maire peut dès lors être engagée si ce dernier a méconnu ses obligations en matière de sécurité, notamment en ne tenant pas compte des documents fournis par l'exploitant du manège ou en omettant d'exercer ses pouvoirs de police administrative en cas de risques de troubles à l'ordre public ou si des incidents d'exploitation lui sont rapportés.
