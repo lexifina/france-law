@@ -2,10 +2,6 @@
 
 Sont regardés comme services statistiques ministériels :
 
-Dans les services relevant du ministre d'Etat, ministre de la transition écologique et solidaire :
-
-Le service de la donnée et des études statistiques du commissariat général au développement durable.
-
 Dans les services relevant de la garde des sceaux, ministre de la justice :
 
 La sous-direction de la statistique et des études du secrétariat général.
@@ -14,7 +10,11 @@ Dans les services relevant de la ministre des armées :
 
 L'observatoire économique de la défense de la direction des affaires financières.
 
-Dans les services relevant de la ministre des solidarités et de la santé, de la ministre du travail et du ministre de l'action et des comptes publics :
+Dans les services relevant de la ministre de la transition écologique et solidaire :
+
+Le service des données et des études statistiques du commissariat général au développement durable.
+
+Dans les services relevant du ministre des solidarités et de la santé, du ministre de l'action et des comptes publics et de la ministre du travail :
 
 La direction de la recherche, des études, de l'évaluation et des statistiques.
 
@@ -24,7 +24,7 @@ La direction de l'animation de la recherche, des études et des statistiques.
 
 Dans les services relevant du ministre de l'éducation nationale et de la jeunesse :
 
-La mission des enquêtes, données et études statistiques du service à compétence nationale dénommé "Institut national de la jeunesse et de l'éducation populaire".
+La mission des enquêtes, données et études statistiques du service à compétence nationale dénommé Institut national de la jeunesse et de l'éducation populaire .
 
 Dans les services relevant du ministre de l'éducation nationale et de la jeunesse et de la ministre de l'enseignement supérieur, de la recherche et de l'innovation :
 
@@ -36,11 +36,11 @@ Le département des statistiques et des études du commerce extérieur de la dir
 
 Le bureau des études statistiques en matière fiscale de la direction générale des finances publiques.
 
-Le département des études, des statistiques et des systèmes d'information de la direction générale de l'administration et de la fonction publique.
+La sous-direction des études, des statistiques et des systèmes d'information de la direction générale de l'administration et de la fonction publique.
 
 Dans les services relevant du ministre de l'intérieur :
 
-Le service statistique ministériel de la sécurité intérieure placé auprès du directeur central de la police judiciaire.
+Le service statistique ministériel de la sécurité intérieure, sous la direction conjointe de la direction générale de la police nationale et de la direction générale de la gendarmerie nationale, placé auprès du directeur central de la police judiciaire.
 
 Le département des statistiques, des études et de la documentation de la direction générale des étrangers en France.
 
