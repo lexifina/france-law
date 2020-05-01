@@ -348,101 +348,11 @@ Diméthylpolysiloxane. |
 
 Antimousse. |
 
-Flageolets destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange avec oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire.) < 5 mg/kg dans le produit fini. |
-
-Diméthylpolysiloxane. |
-
-Antimousse. |
-
-Petits pois destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange avec oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire.) < 5 mg/kg dans le produit fini. |
-
-Diméthylpolysiloxane. |
-
-Antimousse. |
-
-Pommes de terre. |
-
-Accompagné éventuellement de : polyoxyéthylène tristéarate de sorbitane (max. 15 % du diméthyl- polysiloxane), agents émulsifiants, stabilisants, de charge et conservateurs autorisés par le règlement (CE) n° 1333/2008 (en % < 25 % du diméthylpolysiloxane). |
-
-Teneur résiduelle < 1 mg/kg de produit fini. |
-
-Diméthylpolysiloxane. |
-
-Antimousse. |
-
 Sucre (mi -) blanc cristallisé. |
 
 Les antimousses peuvent contenir les adjuvants suivants : monoéthanolamine (≤ 0,1 % de l'antimousse) silice, hexylène glycol (≤ 1,5 %), acide monostéaryl- phosphorique (≤ 1,5 %), acide sorbique et acide acétique (≤ 0,2 %). |
 
 Teneur résiduelle techniquement inévitable |
-
-Oxyde de propylène condensé sur le polypropylène glycol. |
-
-Antimousse. |
-
-Flageolets destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde d'éthylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) < 5 mg/kg dans le produit fini. |
-
-Oxyde de propylène condensé sur le polypropylène glycol. |
-
-Antimousse. |
-
-Petits pois destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange) 5 mg/kg dans le produit fini. |
-
-Oxyde d'éthylène condensé sur le polypropylène glycol. |
-
-Antimousse. |
-
-Flageolets destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange avec : diméthylpolysiloxane, oxyde de propylène condensé sur le polypropylène glycol, polypropylène glycol estérifié par un acide gras alimentaire) < 5 mg/kg dans le produit fini. |
-
-Oxyde d'éthylène condensé sur le polypropylène glycol. |
-
-Antimousse. |
-
-Petits pois destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange) < 5 mg/kg dans le produit fini. |
-
-Polypropylène glycol estérifié par un acide gras alimentaire. |
-
-Antimousse. |
-
-Flageolets destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange avec : diméthylpoly-siloxane, oxyde de propylène condensé sur le polypropylène glycol, oxyde d'éthylène condensé sur le polypropylène glycol) < 5 mg/kg dans le produit fini. |
-
-Polypropylène glycol estérifié par un acide gras alimentaire. |
-
-Antimousse. |
-
-Petits pois destinés à la conserverie et à la congélation. |
-
-Pour le lavage. Le traitement doit être suivi d'un rinçage à l'eau potable. |
-
-Teneurs résiduelles (seules ou en mélange) < 5 mg/kg dans le produit fini. |
 
 Stéarate de sorbitol oxyéthyléné. |
 

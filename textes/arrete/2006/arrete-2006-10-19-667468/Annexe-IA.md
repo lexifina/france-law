@@ -818,6 +818,106 @@ A la dose maximale de 80 g/t de cossettes pour la transformation de betteraves s
 
 Teneur résiduelle techniquement inévitable. |
 
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol), estérifiés par les acides gras alimentaires ou les acides gras du tall oil ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousse. |
+
+Légumes gousses destinés à la congélation |
+
+A la dose maximale de 4 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 4 mg/ kg. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol) |
+
+Antimousse. |
+
+Production d'amidon et de fécule, production de sirop de glucose. |
+
+A la dose maximale de 909 g/ t de matière sèche de produit fini (origine blé),
+
+625 g/ t de matière sèche de produit fini (origine maïs),
+
+1655 g/ t de matière sèche de produit fini (origine pomme de terre) et 113 g/ t de matière sèche de produit fini (origine petits pois) |
+
+Teneur résiduelle < 5 mg/ kg |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol), estérifiés par les acides gras alimentaires ou les acides gras du tall oil ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousse. |
+
+Production d'amidon et de fécule, production de sirop de glucose. |
+
+A la dose maximale de 909 g/ t de matière sèche de produit fini (origine blé),
+
+625 g/ t de matière sèche de produit fini (origine maïs),
+
+1655 g/ t de matière sèche de produit fini (origine pomme de terre) et 113 g/ t de matière sèche de produit fini (origine petits pois) |
+
+Teneur résiduelle < 5 mg/ kg |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol) |
+
+Antimousse. |
+
+Légumes gousses destinés à la congélation |
+
+A la dose maximale de 4 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 4 mg/ kg. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol), estérifiés par les acides gras alimentaires ou les acides gras du tall oil ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousse. |
+
+Légumes gousses destinés à la conserverie |
+
+A la dose maximale de 22 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 12 mg/ kg. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol), estérifiés par les acides gras alimentaires ou les acides gras du tall oil ou les huiles acides végétales ou transestérifiés sur huiles végétales alimentaires. |
+
+Antimousse. |
+
+Légumes racines destinés à la conserverie |
+
+A la dose maximale de 129 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 1 mg/ kg. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol) |
+
+Antimousse. |
+
+Légumes gousses destinés à la conserverie |
+
+A la dose maximale de 22 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 12 mg/ kg. |
+
+Copolymères d'oxyde d'éthylène et d'oxyde de propylène (ratio entre 0 et 100 %) initiés par des alcools (C8 à C18) ou le monopropylèneglycol ou le monoéthylèneglycol ou par des triols (glycérol ou triméthylolpropane) ou par du sorbitol (PM compris entre 300 et 10 000 g/ mol) |
+
+Antimousse. |
+
+Légumes racines destinés à la conserverie |
+
+A la dose maximale de 129 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 1 mg/ kg. |
+
 Diatomite lavée.
 
 |
@@ -919,6 +1019,38 @@ A la dose strictement nécessaire.
 2 mg/kg.
 
 |
+
+Diméthylpolysiloxane. |
+
+Antimousse. |
+
+Production de sirop de glucose |
+
+A la dose maximale de 600 g/ t de matière sèche de produit fini. |
+
+Teneur résiduelle < 10 mg/ kg. |
+
+Diméthylpolysiloxane. |
+
+Antimousse. |
+
+Légumes racines destinés à la conserverie |
+
+A la dose maximale de 10 mg/ kg
+
+Le traitement doit être suivi d'un rinçage à l'eau potable. |
+
+Teneur résiduelle < 1 mg/ kg. |
+
+Diméthylpolysiloxane. |
+
+Antimousse. |
+
+Légumes feuilles non blanchis destinés à la surgélation |
+
+A la dose maximale de 3,5 mg/ kg de légumes non blanchis |
+
+Teneur résiduelle < 3,5 mg/ kg. |
 
 Emulsion aqueuse de graisses, de cires et de résines dures extraites de houblon (CAS 8060-28-4, EINECS 232-504-3, FEMA 2578). |
 
@@ -2035,6 +2167,46 @@ A la dose maximale de 3 l d'une solution à base de 15 % d'acide peracétique et
 Teneur techniquement inévitable.
 
 |
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique. |
+
+Agent de décontamination des produits d'origine végétale. |
+
+Herbes aromatiques et poireaux non blanchis destinés à la congélation. |
+
+A la dose maximale de 75 mg/ l d'acide peracétique d'une solution en équilibre dans les eaux de prélavage et de lavage. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Solution à base d'acide peracétique, de peroxyde d'hydrogène et d'acide acétique. |
+
+Agent de décontamination des produits d'origine végétale. |
+
+Légumes déshydratés destinés à un usage professionnel |
+
+A la dose maximale de 500 mg/ l d'acide peracétique d'une solution en équilibre dans les eaux de prélavage et de lavage. Le traitement doit être suivi d'un rinçage à l'eau satisfaisant aux normes fixées pour l'eau potable. |
+
+Teneur résiduelle techniquement inévitable. |
+
+Solution de monochloramine |
+
+Agent de décontamination des produits d'origine végétale. |
+
+Amidonnerie |
+
+A la dose maximale de 800 g/ t de farine |
+
+Teneur résiduelle < 1 mg/ L de lait d'amidon. |
+
+Solution de monochloramine |
+
+Agent de décontamination des produits d'origine végétale. |
+
+Sucrerie |
+
+A la dose maximale de 70 g/ t de betteraves |
+
+Teneur résiduelle < 3 mg/ kg. |
 
 Solution de borohydrure de sodium (12 % m/m) stabilisée par de la soude.
 
