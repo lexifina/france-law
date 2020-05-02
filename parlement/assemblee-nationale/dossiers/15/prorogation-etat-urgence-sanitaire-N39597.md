@@ -1,0 +1,58 @@
+# Prorogation de l’état d’urgence sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39597
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/prorogation_etat_urgence_sanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-414.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-05-02 : 1er dépôt d'une initiative. (PRJLSNR5S339B0414)
+  - 2020-05-02 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-02 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-05-04 : Dépôt de rapport (RAPPSNR5S339B0416, PRJLSNR5S339BTC0417)
+  - Discussion en séance publique
+    - 2020-05-05 : Discussion en séance publique
+    - 2020-05-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-05-06 : Dépôt d'une initiative en navette (PRJLANR5L15B2902)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-06 : Renvoi en commission au fond
+      - 2020-05-06 : Nomination de rapporteur
+      - 2020-05-06 : Réunion de commission
+      - 2020-05-06 : Réunion de commission
+      - 2020-05-07 : Dépôt de rapport (RAPPANR5L15B2905, PRJLANR5L15BTC2905)
+  - Discussion en séance publique
+    - 2020-05-07 : Discussion en séance publique
+    - 2020-05-07 : Discussion en séance publique
+    - 2020-05-08 : Discussion en séance publique
+    - 2020-05-08 : Discussion en séance publique
+    - 2020-05-08 : Discussion en séance publique
+    - 2020-05-08 : Décision
+- Commission Mixte Paritaire
+  - 2020-05-09 : Dépôt d'un projet de loi (PRJLSNR5S339B0421)
+  - 2020-05-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-05-09 : Nomination de rapporteur
+    - 2020-05-09 : Dépôt du rapport d'une CMP (RAPPANR5L15B2908, PRJLANR5L15BTC2908)
+    - 2020-05-09 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0422, PRJLSNR5S339BTC0423)
+  - Discussion en séance publique
+    - 2020-05-09 : Discussion en séance publique
+    - 2020-05-09 : Décision
+  - Discussion en séance publique
+    - 2020-05-09 : Discussion en séance publique
+    - 2020-05-09 : Décision
+  - 2020-05-09 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-05-09 : Saisine du conseil constitutionnel
+  - 2020-05-10 : Saisine du conseil constitutionnel
+  - 2020-05-10 : Saisine du conseil constitutionnel
+  - 2020-05-11 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-05-11 : Promulgation d'une loi
