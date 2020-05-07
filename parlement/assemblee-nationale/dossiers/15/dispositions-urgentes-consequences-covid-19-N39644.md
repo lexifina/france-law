@@ -1,0 +1,52 @@
+# Dispositions pour faire face aux conséquences de l'épidémie de covid-19
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39644
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/dispositions_urgentes_consequences_covid-19
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-440.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-05-07 : 1er dépôt d'une initiative. (PRJLANR5L15B2907)
+  - 2020-05-07 : Etude d'impact (ETDIANR5L15B2907)
+  - 2020-05-07 : Avis du Conseil d'Etat (AVCEANR5L15B2907)
+  - 2020-05-07 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-07 : Renvoi en commission au fond
+      - 2020-05-11 : Nomination de rapporteur
+      - 2020-05-11 : Réunion de commission
+      - 2020-05-12 : Réunion de commission
+      - 2020-05-12 : Dépôt de rapport (RAPPANR5L15B2915, PRJLANR5L15BTC2915)
+  - Discussion en séance publique
+    - 2020-05-14 : Discussion en séance publique
+    - 2020-05-14 : Discussion en séance publique
+    - 2020-05-14 : Discussion en séance publique
+    - 2020-05-15 : Discussion en séance publique
+    - 2020-05-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-05-15 : Dépôt d'une initiative en navette (PRJLSNR5S339B0440)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-15 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-05-20 : Dépôt de rapport (RAPPSNR5S339B0453, PRJLSNR5S339BTC0454)
+  - Discussion en séance publique
+    - 2020-05-28 : Décision
+- Commission Mixte Paritaire
+  - 2020-05-29 : Dépôt d'un projet de loi (PRJLANR5L15B3025)
+  - 2020-05-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-06-02 : Nomination de rapporteur
+    - 2020-06-02 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0478, PRJLSNR5S339BTC0479)
+    - 2020-06-02 : Dépôt du rapport d'une CMP (RAPPANR5L15B3027, PRJLANR5L15BTC3027)
+  - Discussion en séance publique
+    - 2020-06-03 : Discussion en séance publique
+    - 2020-06-03 : Décision
+  - Discussion en séance publique
+    - 2020-06-10 : Décision
+  - 2020-06-02 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-06-17 : Promulgation d'une loi
