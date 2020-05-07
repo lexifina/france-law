@@ -88,7 +88,7 @@ En fonction des autres signataires, la convention cadre peut comporter les dispo
 
 Le pilotage local :
 
-La convention cadre prévoit les modalités de gouvernance et de pilotage de cette action. Ce pilotage peut s'inscrire dans les missions du groupe technique départemental prévu à l'article D. 312-10-13 du CASF. Dans ce cas, une commission dédiée, réunissant les signataires de la convention cadre et les représentants des usagers et de leurs familles, est instituée.
+La convention cadre prévoit les modalités de gouvernance et de pilotage de cette action. Ce pilotage peut s'inscrire dans les missions du comité départemental de suivi de l'école inclusive prévu à l'article D. 312-10-13 du CASF. Dans ce cas, une commission dédiée, réunissant les signataires de la convention cadre et les représentants des usagers et de leurs familles, est instituée.
 
 La mobilisation d'au moins trois modalités d'accompagnement (internat, accueil de jour, SESSAD)
 
