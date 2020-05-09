@@ -76,11 +76,13 @@ Conformément au 3 de l'article 17 et au 3 de l'article 4 du règlement (CE) n°
 
 2. Le nom de la personne responsable de distributeurs automatiques ainsi que son adresse et son numéro de téléphone sont apposés lisiblement à l'extérieur des appareils.
 
+3. Sans préjudice de l'application du règlement (UE) n° 1169/2011 du 25 octobre 2011 susvisé, dans le cadre du portage à domicile, les préparations culinaires livrées sont étiquetées individuellement avec leur date limite de consommation. Chaque lot est accompagné des informations visées à l'article 3 du règlement (UE) n° 931/2011 du 19 septembre 2011 susvisé ainsi que de recommandations concernant le stockage et l'utilisation de ces préparations culinaires.
+
 APPENDICE A DE L'ANNEXE V
 
 MODÈLE DE DEMANDE D'AUTORISATION PAR UN ATELIER DE BOUCHERIE, AFIN DE DÉTENIR ET DÉSOSSER DES CARCASSES ET PARTIES DE CARCASSES ISSUES D'ANIMAUX DE L'ESPÈCE BOVINE ET CONTENANT DE L'OS VERTÉBRAL CONSIDÉRÉ COMME MATÉRIEL À RISQUE SPÉCIFIÉ
 
-(Engagement à transmettre à la direction départementale en charge des services vétérinaires du département d'implantation de l'atelier de boucherie)
+(Engagement à transmettre à la direction départementale en charge de la protection des populations du département d'implantation de l'atelier de boucherie)
 
 Je soussignée (e), Madame, Monsieur, boucher, responsable des opérations de découpe de viandes bovines au sein de l'atelier de boucherie situé (adresse) :
 
@@ -101,8 +103,6 @@ Téléphone :
 1. Atteste avoir pris connaissance de la présente annexe et appliquer le guide de bonnes pratiques d'hygiène boucher.
 
 2.M'engage à respecter et faire respecter l'ensemble de ces dispositions.
-
-3.M'engage à faire effectuer la vérification du respect de l'ensemble de ces dispositions par un organisme tiers.
 
 Fait à, le
 

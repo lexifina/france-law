@@ -10,4 +10,6 @@ Toutefois, par dérogation prévue au 5 de l'article 1er du règlement (CE) n° 
 
 - l'atelier de fabrication réponde aux dispositions relatives à la fabrication de viande hachée de la section V de l'annexe III du règlement (CE) n° 853/2004 ;
 
-- l'exploitant ait fait la déclaration de cette activité au préfet (directeur départemental en charge des services vétérinaires).
+- l'exploitant ait fait la déclaration de cette activité au préfet (directeur départemental en charge de la protection des populations).
+
+Le modèle de cette déclaration est défini par instruction du ministre chargé de l'agriculture.

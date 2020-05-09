@@ -4,11 +4,11 @@ DISPOSITIONS PARTICULIÈRES APPLICABLES AUX MOYENS DE TRANSPORT DE PRODUITS D'OR
 
 I. - Dispositions spécifiques au transport des produits de la pêche.
 
-Par dérogation prévue au paragraphe 2 du chapitre VIII de la section VIII de l'annexe III du règlement (CE) n° 853/2004, le directeur départemental en charge des services vétérinaires peut autoriser le transport de produits de la pêche congelés à une température supérieure à - 18 °C lorsqu'ils sont transportés d'un entrepôt frigorifique vers un établissement agréé pour y être décongelés dès leur arrivée et préparés ou transformés, et que la distance à parcourir est courte, n'excédant pas 50 km ou une heure de trajet, sans rupture de charge.
+Par dérogation prévue au paragraphe 2 du chapitre VIII de la section VIII de l'annexe III du règlement (CE) n° 853/2004, le directeur départemental en charge de la protection des populations peut autoriser le transport de produits de la pêche congelés à une température supérieure à - 18 °C lorsqu'ils sont transportés d'un entrepôt frigorifique vers un établissement agréé pour y être décongelés dès leur arrivée et préparés ou transformés, et que la distance à parcourir est courte, n'excédant pas 50 km ou une heure de trajet, sans rupture de charge.
 
 II. - Dispositions spécifiques au transport des viandes fraîches.
 
-Par dérogation prévue au 3 du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853/2004, le transport des viandes d'ongulés domestiques n'ayant pas atteint la température de + 3 °C pour les abats et + 7 °C pour les autres viandes est possible sous réserve du respect du point 18 de la section I de l'annexe IV de l'arrêté du 18 décembre 2009.
+Par dérogation prévue au 3 du chapitre VII de la section I de l'annexe III du règlement (CE) n° 853/2004, le transport des viandes d'ongulés domestiques n'ayant pas atteint la température de + 3 °C pour les abats et + 7 °C pour les autres viandes est possible sous réserve du respect des points 17 et 18 de la section I de l'annexe V de l'arrêté du 18 décembre 2009.
 
 III. - Dispositions liées aux encéphalopathies spongiformes subaiguës transmissibles.
 
@@ -28,4 +28,6 @@ Il est interdit de prendre en charge avant, pendant ou après un transport de pr
 
 V. ― Dispositions spécifiques au soutien des forces armées.
 
-Pour les transports, adaptés au soutien des forces armées en opération et à l'entraînement, des dispositions particulières sont fixées par arrêté du ministre de la défense.
+Pour les transports, adaptés au soutien des forces armées en opération et à l'entraînement, des dispositions particulières sont fixées par arrêté de la ministre des armées.
+
+.
