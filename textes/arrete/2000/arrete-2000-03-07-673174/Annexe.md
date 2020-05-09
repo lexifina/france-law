@@ -4,7 +4,7 @@ Concours de catégorie A
 
 Concours externe d'accès au corps administratif supérieur des services déconcentrés.
 
-Concours externe d'accès au corps des ingénieurs d'études et de fabrications.
+Concours externe d'accès au corps des ingénieurs civils de la défense.
 
 Concours externe d'accès au corps des inspecteurs des services et inspecteurs d'études des transmissions des armées.
 

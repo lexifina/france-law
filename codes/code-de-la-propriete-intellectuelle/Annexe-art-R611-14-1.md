@@ -168,7 +168,7 @@ Corps de fonctionnaires civils et militaires :
 
 -ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
 
--ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989 modifié ;
+-ingénieurs civils de la défense régis par le décret n° 89-750 du 18 octobre 1989 modifié ;
 
 -techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre 1989 modifié ;
 

@@ -54,11 +54,11 @@ CAP1 nationale compétente pour le corps des Directeurs Départementaux Adjoints
 
 CAP1 nationale compétente pour le corps des Directeurs Départementaux et des Directeurs Régionaux
 
-CAP2 nationale compétente pour le corps des cadres (III.2 ou III.3)
+CAP2 nationale compétente pour le corps des cadres (III. 2 ou III. 3)
 
 CAP2 nationale compétente pour le corps des Inspecteurs
 
-CAP3 nationale compétente pour le corps des cadres d'exploitation (III.1)
+CAP3 nationale compétente pour le corps des cadres d'exploitation (III. 1)
 
 CAP3 nationale compétente pour le corps des assistants de service social et pour le corps des infirmiers et infirmières des services médicaux
 
@@ -86,7 +86,7 @@ Ministère de la défense et des anciens combattants
 
 Commissions administratives paritaires
 
-CAP nationale compétente pour le corps des ingénieurs d'études et de fabrications
+CAP nationale compétente pour le corps des ingénieurs civils de la défense
 
 CAP nationale compétente pour le corps des ingénieurs des travaux maritimes
 

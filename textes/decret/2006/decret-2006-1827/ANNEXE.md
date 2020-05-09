@@ -46,7 +46,7 @@ Corps des bibliothécaires.
 
 Ministère de la défense
 
-Corps des ingénieurs d'études et de fabrications du ministère de la défense.
+Corps des ingénieurs civils de la défense.
 
 Ministère de l'intérieur et de l'aménagement du territoire
 
