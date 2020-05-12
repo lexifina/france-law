@@ -1,0 +1,71 @@
+# Fonction de directrice ou directeur d’école
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39648
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/fonction_directeur_ecole
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl19-566.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-05-12 : 1er dépôt d'une initiative. (PIONANR5L15B2951)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-12 : Renvoi en commission au fond
+      - 2020-06-03 : Nomination de rapporteur
+      - 2020-06-03 : Réunion de commission
+      - 2020-06-17 : Réunion de commission
+      - 2020-06-17 : Réunion de commission
+      - 2020-06-24 : Réunion de commission
+      - 2020-06-17 : Dépôt de rapport (RAPPANR5L15B3118, PIONANR5L15BTC3118)
+  - Discussion en séance publique
+    - 2020-06-24 : Discussion en séance publique
+    - 2020-06-24 : Discussion en séance publique
+    - 2020-06-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-06-25 : Dépôt d'une initiative en navette (PIONSNR5S339B0566)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-25 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-03-03 : Dépôt de rapport (RAPPSNR5S359B0405, PIONSNR5S359BTC0406)
+  - Discussion en séance publique
+    - 2021-03-10 : Décision
+- deuxième lecture
+  - 2021-03-11 : Dépôt d'une initiative en navette (PIONANR5L15B3981)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-11 : Renvoi en commission au fond
+      - 2021-09-22 : Réunion de commission
+      - 2021-09-28 : Réunion de commission
+      - 2021-09-29 : Réunion de commission
+      - 2021-09-22 : Dépôt de rapport (RAPPANR5L15B4485, PIONANR5L15BTC4485)
+  - Discussion en séance publique
+    - 2021-09-29 : Discussion en séance publique
+    - 2021-09-29 : Décision
+- deuxième lecture
+  - 2021-09-30 : Dépôt d'une initiative en navette (PIONSNR5S359B0875)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-09-30 : Renvoi en commission au fond
+      - 2021-10-13 : Dépôt de rapport (RAPPSNR5S379B0056, PIONSNR5S379BTC0057)
+  - Discussion en séance publique
+    - 2021-10-20 : Décision
+- Commission Mixte Paritaire
+  - 2021-10-21 : Dépôt d'un projet de loi (PIONANR5L15B4602)
+  - 2021-10-21 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-11-16 : Nomination de rapporteur
+    - 2021-11-17 : Dépôt du rapport d'une CMP (RAPPANR5L15B4688, PIONANR5L15BTC4688)
+    - 2021-11-17 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0156, PIONSNR5S379BTC0157)
+  - Discussion en séance publique
+    - 2021-11-25 : Discussion en séance publique
+    - 2021-11-25 : Décision
+  - Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Décision
+  - 2021-11-17 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-12-21 : Promulgation d'une loi
