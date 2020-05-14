@@ -22,7 +22,7 @@ Lorsque le transformateur dispose de plusieurs centres de montage, chacun d'entr
 
 -les instructions relatives au montage de ces pièces ;
 
--l'avis technique du constructeur du type de véhicule non transformé ;
+-l'avis technique du constructeur du type de véhicule non transformé sauf dans le cas d'une réception d'un type de véhicules transformés avec un dispositif de conversion électrique au sens de l'arrêté du 13 mars 2020 relatif aux conditions de transformation des véhicules à motorisation thermique en motorisation électrique à batterie ou à pile à combustible et sous réserve du respect des dispositions dudit arrêté ;
 
 -les justificatifs réglementaires concernant les domaines réglementés susceptibles d'être concernés par la transformation ;
 
