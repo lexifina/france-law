@@ -1,3 +1,3 @@
 # Article Annexe
 
-L'annexe peut être consultée sur le site internet de l'unité des concours et examens maritimes (UCEM) : www.ucem-nantes.fr.
+Voir les annexes à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000041869858
