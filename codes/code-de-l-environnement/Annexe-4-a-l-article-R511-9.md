@@ -2940,7 +2940,7 @@ v) Déchets de bois, à l'exception des déchets de bois susceptibles de conteni
 
 |
 
-Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organiques combustibles
+Chauffage (procédés de) utilisant comme fluide caloporteur des corps organiques combustibles.
 
 |
 
@@ -2948,15 +2948,7 @@ Chauffage (Procédés de) utilisant comme fluide caloporteur des corps organique
 
 |
 
-1. Lorsque la température d'utilisation est égale ou supérieure au point éclair des fluides
-
-|
-
-|
-
-|
-
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 oC) est :
+1. Lorsque la température d'utilisation est égale ou supérieure au point éclair des fluides, la quantité totale de fluides présente dans l'installation (mesurée à 25° C) étant :
 
 |
 
@@ -2968,11 +2960,11 @@ a) supérieure à 1 000 l
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
@@ -2984,23 +2976,17 @@ D
 
 |
 
-|
+- |
 
-2. Lorsque la température d'utilisation est inférieure au point éclair des fluides
-
-|
-
-|
-
-|
-
-Si la quantité totale de fluides présente dans l'installation (mesurée à 25 oC) est supérieure à 250 l.
+2. Lorsque la température d'utilisation est inférieure au point éclair des fluides, la quantité totale de fluides présente dans l'installation (mesurée à 25° C) étant supérieure à 250 l
 
 |
 
 D
 
 |
+
+- |
 
 |
 
@@ -3086,13 +3072,7 @@ D |
 
 Ateliers de réparation et d'entretien de véhicules et engins à moteur, y compris les activités de carrosserie et de tôlerie.
 
-|
-
-|
-
-|
-
-1. Réparation et entretien de véhicules et engins à moteur :
+1. Réparation et entretien de véhicules et engins à moteur, la surface de l'atelier étant :
 
 |
 
@@ -3100,19 +3080,21 @@ Ateliers de réparation et d'entretien de véhicules et engins à moteur, y comp
 
 |
 
-a) La surface de l'atelier étant supérieure à 5 000 m²
+|
+
+a) Supérieure à 5 000 m2
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
-b) La surface de l'atelier étant supérieure à 2 000 m², mais inférieure ou égale à 5 000 m²
+b) Supérieure à 2 000 m2, mais inférieure ou égale à 5 000 m2
 
 |
 
@@ -3120,29 +3102,29 @@ DC
 
 |
 
-|
+- |
 
-2. Vernis, peinture, apprêt (application, cuisson, séchage de) sur véhicules et engins à moteur :
-
-|
+2. Vernis, peinture, apprêt (application, cuisson, séchage de) sur véhicules et engins à moteur, la quantité maximale de produits susceptible d'être utilisée étant :
 
 |
 
 |
 
-a) Si la quantité maximale de produits susceptibles d'être utilisée est supérieure à 100 kg/j
+|
+
+a) Supérieure à 100 kg/ j
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
-b) Si la quantité maximale de produits susceptible d'être utilisée est supérieure à 10 kg/j ou si la quantité annuelle de solvants contenus dans les produits susceptible d'être utilisée est supérieure à 0,5 t, sans que la quantité maximale de produits susceptible d'être utilisée dépasse 100 kg/j
+b) Supérieure à 10 kg/ j, mais inférieure ou égale à 100 kg/ j
 
 |
 
@@ -3150,7 +3132,7 @@ DC
 
 |
 
-|
+- |
 
 2931
 
@@ -3198,23 +3180,11 @@ Nota.-Cette activité ne donne pas lieu à classement sous la rubrique 2910.
 
 |
 
-Vernis, peinture, apprêt, colle, enduit, etc. (application, cuisson, séchage de) sur support quelconque (métal, bois, plastique, cuir, papier, textile) à l'exclusion :
+Vernis, peinture, apprêt, colle, enduit, etc. (application, revêtement, laquage, stratification, imprégnation, cuisson, séchage de) sur support quelconque à l'exclusion des installations dont les activités sont classées au titre des rubriques 2330,2345,2351,2360,2415,2445,2450,2564,2661,2930,3450,3610,3670,3700 ou 4801.
 
-- des activités de traitement ou d'emploi de goudrons, d'asphaltes, de brais et de matières bitumineuses, couvertes par la rubrique 4801,
-
-- des activités couvertes par les rubriques 2445 et 2450,
-
-- des activités de revêtement sur véhicules et engins à moteurs couvertes par la rubrique 2930,
-
-- ou de toute autre activité couverte explicitement par une autre rubrique.
+1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par un procédé au trempé (y compris l'électrophorèse), la quantité maximale de produits susceptible d'être présente dans l'installation étant :
 
 |
-
-|
-
-|
-
-1. Lorsque les produits mis en œuvre sont à base de liquides et lorsque l'application est faite par procédé "au trempé". Si la quantité maximale de produits susceptible d'être présente dans l'installation est :
 
 |
 
@@ -3226,11 +3196,11 @@ a) supérieure à 1 000 l
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
@@ -3242,29 +3212,25 @@ DC
 
 |
 
-|
+- |
 
-2. Lorsque l'application est faite par tout procédé autre que le "trempé" (pulvérisation, enduction). Si la quantité maximale de produits susceptible d'être mise en œuvre est :
-
-|
+2. Lorsque l'application est faite par tout procédé autre que le trempé (pulvérisation, enduction, autres procédés), la quantité maximale de produits susceptible d'être mise en œuvre étant :
 
 |
 
 |
 
-a) supérieure à 100 kg/j
+|
+
+a) Supérieure à 100 kg/ j
 
 |
 
-A
+E |
 
-|
+- |
 
-1
-
-|
-
-b) supérieure à 10 kg/j, mais inférieure ou égale à 100 kg/j
+b) Supérieure à 10 kg/ j, mais inférieure ou égale à 100 kg/ j
 
 |
 
@@ -3272,29 +3238,29 @@ DC
 
 |
 
-|
+- |
 
-3. Lorsque les produits mis en oeuvre sont des poudres à base de résines organiques. Si la quantité maximale de produits susceptible d'être mise en œuvre est :
-
-|
+3. Lorsque les produits mis en œuvre sont des poudres à base de résines organiques, la quantité maximale de produits susceptible d'être mise en œuvre étant :
 
 |
 
 |
 
-a) supérieure à 200 kg/j
+|
+
+a) Supérieure à 200 kg/ j
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
-b) supérieure à 20 kg/j, mais inférieure ou égale à 200 kg/j
+b) Supérieure à 20 kg/ j, mais inférieure ou égale à 200 kg/ j
 
 |
 
@@ -3302,9 +3268,9 @@ DC
 
 |
 
-|
+- |
 
-Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 oC) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 oC) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
+Nota.-Le régime de classement est déterminé par rapport à la quantité de produits mise en œuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables à mention de danger H224, H225 ou H226 ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides de point éclair compris entre 60° C et 93° C ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.
 
 |
 
@@ -6766,7 +6732,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 
 |
 
-(1) A : autorisation, E : enregistrement, D : déclaration, S: servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (a) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
