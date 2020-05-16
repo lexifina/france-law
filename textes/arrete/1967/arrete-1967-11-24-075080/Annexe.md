@@ -2,114 +2,78 @@
 
 Les modèles et exemples ci-après constituent la représentation des signaux définis aux articles 2-1 à 10-2 du présent arrêté. Les spécifications (composition, agencement, dimensionnement, références chromatiques...) des différents éléments les constituant sont précisées dans l'instruction interministérielle sur la signalisation routière mentionnée à l'article 1er et les normes applicables.
 
-Les modèles des signaux nouveaux mentionnés à l'article 5-12 (SR3a et SR3b) du présent arrêté figurent à l'adresse suivante :
+Les modèles des signaux mentionnés à l’arrêté du 7 novembre 2008 figurent à l’adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20130313&numTexte=15&pageDebut=04407&pageFin=04408
+https://www.legifrance.gouv.fr/download/pdf?id=P44d25WT0ZNgHBBcLKaBAGOhrN4FcEKuXTAQRsVaHPI=
 
-Les modèles des signaux SR3c1, SR3c2, SR3c3 figurent à l'adresse suivante :
+Les modèles des signaux mentionnés à l’arrêté du 10 avril 2009 figurent à l’adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150703&numTexte=26&pageDebut=11237&pageFin=11238
+https://www.legifrance.gouv.fr/download/pdf?id=L1wt6pADyQCmgTTgRWoNd-N7Pce5JP_lubW2AuKlCjU=
 
-Les modèles des signaux CE100, D48a, D48b, D48c, et leurs définitions figurent à l'adresse suivante :
+Les modèles des signaux mentionnés à l’arrêté du 25 juin 2009 figurent à l’adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20141228&numTexte=37&pageDebut=22683&pageFin=22686
+https://www.legifrance.gouv.fr/download/pdf?id=ywefukxb0BDKvfUXnEvuUXWJxxTi3iGaJHtrBnqWc5M=
 
-Les modèles des signaux E33a, ID15f, ID16c figurent à l'adresse suivante :
+Les modèles des signaux mentionnés à l’arrêté du 22 juillet 2010 figurent à l’adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150806&numTexte=16&pageDebut=13500&pageFin=13501
+https://www.legifrance.gouv.fr/download/pdf?id=_0aVWgLJcRGvOuOwV5HLzNc6CzCbQO9uFNB4OMZ2vZM=
 
-Les modèles des signaux SR3d et SR3e figurent à l'adresse suivante :
+Les modèles des signaux mentionnés à l’arrêté du 12 mai 2011 figurent à l’adresse suivante :
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000033877047
+https://www.legifrance.gouv.fr/download/pdf?id=C0qSHiAl5F54-YiUwn8VDmOhrN4FcEKuXTAQRsVaHPI=
 
-Les modèles des signaux nouveaux mentionnés à l'article 1er du présent arrêté figurent ci-après :
+Les modèles des signaux mentionnés à l’article 2 de l’arrêté du 26 juillet 2011 figurent à l’adresse suivante :
 
-CE15G.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant la recharge des véhicules électriques. |
+https://www.legifrance.gouv.fr/download/pdf?id=wLPMuRHUWPgs01M7GA4VVzebC1i87nJfaqdPaNKsonw=
 
-CE15h.-Poste de distribution de carburant ouvert 7 jours sur 7 et 24 heures sur 24 assurant le ravitaillement en gaz de pétrole liquéfié (GPL) et la recharge des véhicules électriques. |
+Les modèles des signaux mentionnés à l’arrêté du 6 décembre 2011 figurent à l’adresse suivante :
 
-CE15i.-Poste de recharge de véhicules électriques ouvert 7 jours sur 7 et 24 heures sur 24. |
+https://www.legifrance.gouv.fr/download/pdf?id=fpsS3grpvtUtyQ_SfEmEI_JM530GUFJ9awgXQ4O_4Uw=
 
-CE15j.-Poste de recharge de véhicules électriques ouvert 7 jours sur 7 et 24 heures sur 24 assurant le ravitaillement en gaz de pétrole liquéfié (GPL). |
+Les modèles des signaux mentionnés à l’article 2 de l’arrêté du 12 janvier 2012 figurent à l’adresse suivante :
 
-ID14d.-Poste de recharge de véhicules électriques. |
+https://www.legifrance.gouv.fr/download/pdf?id=76V45YvRpvQigUcnC-zg6XWJxxTi3iGaJHtrBnqWc5M=
 
-ID14e.-Poste de recharge de véhicules électriques assurant également le ravitaillement en gaz de pétrole liquéfié (GPL). |
+Les modèles des signaux mentionnés à l’article 2 de l’arrêté du 31 décembre 2012 figurent à l’adresse suivante :
 
-M6i (exemple)..-Signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs. |
+https://www.legifrance.gouv.fr/download/pdf?id=zJ79ljRQwPhcZ_uS7LIt7dAWhRDD8LWdMqRihxSDaKo=
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0141 du 20/06/2015, texte nº 12 à l'adresse suivante
+Les modèles des signaux nouveaux mentionnés à l'article 5-12 (SR3a et SR3b) de l'arrêté du 4 mars 2013 figurent à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150620&numTexte=12&pageDebut=10154&pageFin=10155
+https://www.legifrance.gouv.fr/download/pdf?id=DHV86w2pshHS76Vsvqu5Ii5oP6yO1oJwQPd8JkARcss=
 
-Panneau B1j. - Panneau de répétition d'interdiction d'accès à contresens de bretelles de sortie sur les autoroutes et routes à chaussées séparées sans accès riverain
+Les modèles des signaux nouveaux mentionnés à l'arrêté du 22 décembre 2014 figurent à l'adresse suivante :
 
-Les modèles des signaux M12, R12pps et R19 et leurs définitions figurent à l'adresse suivante ainsi que le nouveau modèle de panneau C50 :
+https://www.legifrance.gouv.fr/download/pdf?id=F_kRXVMI8h80Jc7c5UTFdma_CQC4YP_ldt-PfeHI3C0=
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20151009&numTexte=21&pageDebut=18341&pageFin=18350
+Le modèle du signal B1j mentionné à l'arrêté du 11 juin 2015 figure à l'adresse suivante :
 
-Les modèles des signaux M6k1, M6k2, CE52 et ID39 figurent à l'adresse suivante :
+https://www.legifrance.gouv.fr/download/pdf?id=UBhYH6-m2kcmTlu6v-Th8VLdic3IxSR1nXRB0cGV928=
 
-http://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000031845144
+Les modèles des signaux SR3c1, SR3c2, SR3c3 mentionnés à l'arrêté du 29 juin 2015 figurent à l'adresse suivante :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 7 du 9 janvier 2019, texte n° 21, accessible à l’adresse suivante :
+https://www.legifrance.gouv.fr/download/pdf?id=FEK-oSrfP9xQzAReG_PRi9e7NQ0Bwz--rDCJlG3YNd0=
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000037964816
+Les modèles des signaux E33a, ID15f, ID16c mentionnés à l'arrêté du 31 juillet 2015 figurent à l'adresse suivante :
 
-Les modèles des signaux nouveaux mentionnés à l'article 14 de l'arrêté du 12 décembre 2018 figurent ci-après :
+https://www.legifrance.gouv.fr/download/pdf?id=8NNUZLsxF8-RKi8my_ncgigfuWpIQPdW-zhI49svUoE=
 
-M11d (exemple).-associé au panneau B56, il précise les caractéristiques de la limitation d'accès (catégories et classes des véhicules au sens des articles R. 311-1 et R. 318-2 du code de la route) ainsi que les catégories de véhicules dérogatoires.
+Les modèles des signaux M12, R12pps et R19 et leurs définitions ainsi que le nouveau modèle de panneau C50 mentionnés à l'arrêté du 23 septembre 2015 figurent à l'adresse suivante :
 
-|
+https://www.legifrance.gouv.fr/download/pdf?id=wbdWZVBrRZSpHvAc4jVeMmfjzYFcuU1bzQPztkt66Ao=
 
-A7.-Passage à niveau muni de barrières à fonctionnement manuel ou de demi-barrières automatiques lors du passage des trains.
+Les modèles des signaux M6k1, M6k2, CE52 et ID39 mentionnés à l'arrêté du 8 janvier 2016 figurent à l'adresse suivante :
 
-|
+https://www.legifrance.gouv.fr/download/pdf?id=GeXQXhFEhkY1ZCsTFh2eria9Ybbg3VF7kUQ8OgMFAvo=
 
-A9a.-Traversée de voie de véhicules routiers des services réguliers de transport en commun.
+Les modèles des signaux SR3d et SR3e mentionnés à l'arrêté du 5 janvier 2017 figurent à l'adresse suivante :
 
-|
+https://www.legifrance.gouv.fr/download/pdf?id=E2JN9Vj13U2obj37BBJhTMv6NrJkcVkSMyPlEPx4WyI=
 
-A9b.-Traversée de voies de tramway.
+Les modèles des signaux nouveaux mentionnés à l'article 14 de l'arrêté du 12 décembre 2018 figurent à l'adresse suivante :
 
-|
+https://www.legifrance.gouv.fr/download/pdf?id=SeClViiZ5iLmRN1stbL9c-9lqfPsA4T9oK1hgGEDrBc=
 
-B56.-Entrée de zone de circulation restreinte.
+Le modèle du signal XCE45 mentionné à l'article 3 de l'arrêté du 6 mai 2020 figure à l'adresse suivante :
 
-|
-
-B57.-Sortie de zone de circulation restreinte.
-
-|
-
-C20b.-Traversée de voie de véhicules routiers des services réguliers de transport en commun.
-
-|
-
-E47.-Cartouche à fond cyan caractérisant les réseaux métropolitains.
-
-|
-
-E57a.-Borne utilisée sur les routes métropolitaines, présentant le nom de l'itinéraire sur fond cyan et des indications de repérage longitudinal sur fond blanc.
-
-|
-
-E57a.-Borne utilisée sur les routes métropolitaines, présentant le nom de l'itinéraire sur fond cyan et des indications de repérage longitudinal sur fond blanc.
-
-|
-
-E57b.-Borne utilisée sur les routes métropolitaines, présentant le nom de l'itinéraire sur fond cyan et des indications de repérage longitudinal et d'altitude sur fond blanc.
-
-|
-
-E57b.-Borne utilisée sur les routes métropolitaines, présentant le nom de l'itinéraire sur fond cyan et des indications de repérage longitudinal et d'altitude sur fond blanc.
-
-|
-
-E57c.-Plaquette de repérage hectométrique utilisée sur les routes métropolitaines, de forme rectangulaire, présentant le nom de l'itinéraire sur fond cyan et des indications de repérage longitudinal sur fond blanc.
-
-|
-
-E57c.-Plaquette de repérage hectométrique utilisée sur les routes métropolitaines, de forme rectangulaire, présentant le nom de l'itinéraire sur fond cyan et des indications de repérage longitudinal sur fond blanc.
-
-|
+https://www.legifrance.gouv.fr/download/pdf?id=kP0cscEfbBbghXVQrM4URcUmmnoqYTQB6o91PIRfAlg=
