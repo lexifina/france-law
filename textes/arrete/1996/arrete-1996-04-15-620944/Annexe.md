@@ -6,19 +6,49 @@ Les plaques d'immatriculation
 
 Article 1er
 
+Définitions :
+
+Au sens du présent arrêté, on entend par :
+
+1. Type plaque d'immatriculation :
+
+Un dispositif constitué d'un matériau retro réfléchissant, et d'un écran transparent en face avant ou d'un support en face arrière.
+
+2. Plaque d'immatriculation de type différent :
+
+Des plaques qui présentent des différences essentielles pouvant porter notamment sur : la nature de l'écran transparent (PMMA, PET, etc.) ou du support (aluminium, plastique, etc.).
+
+La modification des dimensions de la plaque, l'utilisation d'autres films rétroréfléchissants homologués TPMR, le changement d'encre ou d'adhésif et la modification des propriétés de l'écran transparent ou du support tout en restant dans le même matériau n'entraîne pas un changement de type mais une extension d'homologation. ;
+
 Homologation
 
-La demande d'homologation est présentée au ministère chargé des transports par le constructeur et accompagnée par :
+La demande d'homologation est présentée au ministère chargé des transports par le fabricant et accompagnée par :
 
 a) Deux échantillons par type de plaque (dont une plaque numérotée) ;
 
-b) Un dossier en triple exemplaire comprenant :
+b) Dossier technique comprenant une description détaillée du dispositif :
 
-- une description technique détaillée du dispositif précisant la nature de la ou des plaques supports, la nature du matériau réflectorisé et le mode d'application de ce matériau sur les plaques ou supports ;
+-Numéro (s) TPMR
 
-- des dessins cotés représentant les plaques de face et de profil ;
+-Matière de l'écran plastique ou du support
 
-c) Les échantillons nécessaires à la réalisation des essais décrits à l'article 3 du présent cahier des charges.
+-Epaisseur de l'écran (du mini au maxi) si présent
+
+-Dimensions complètes des plaques, logos et inscriptions
+
+-Nature et/ ou références de l'encre et couleurs
+
+-Process d'impression (si absent de l'homologation TPMR)
+
+-Nature des composants constituant la plaque (film, adhésif …)
+
+-Process de finition de la plaque immatriculée
+
+-Des dessins cotés représentant les plaques de face et de profil ;
+
+c) Les échantillons nécessaires à la réalisation des essais décrits à l'article 3 du présent cahier des charges ;
+
+d) Les plans de surveillance du site de production.
 
 Article 2
 
@@ -36,7 +66,7 @@ a) De la mention TPPR ;
 
 b) Du numéro d'homologation.
 
-La hauteur des lettres de chiffres sera de 5 millimètres avec une tolérance de 10 %. La marque d'homologation, nettement visible, sera reproduite d'une manière indélébile sur le matériau réflectorisé en haut et à moins de 40 millimètres du bord latéral gauche de la plaque.
+La hauteur des lettres et des chiffres sera de 5 millimètres avec une tolérance de 10 %. La marque d'homologation, nettement visible, sera reproduite d'une manière indélébile sur le matériau réflectorisé à moins de 35 millimètres du bord latéral droit de la plaque, en application des dispositions de l'arrêté du 9 février 2009 modifié fixant les caractéristiques et le mode de pose des plaques d'immatriculation des véhicules
 
 Article 3
 
@@ -44,7 +74,7 @@ Spécifications techniques
 
 3.1 Les matériaux rétroréfléchissants utilisés devront être d'un type homologué selon les dispositions de la partie 2 ci-après. Ils devront être d'une seule pièce.
 
-3.2. Dans le cas où le matériau rétroréfléchissant n'est pas utilisé dans les conditions prévues par son fabricant lors de son homologation (par exemple adjonction d'un vernis, d'un écran, d'une encre transparente ou autre), le nouveau produit devra subir les essais suivant les modalités des articles 6, 7 et 8 ci-après.
+3.2. Dans le cas où le matériau rétroréfléchissant (y compris éventuellement les logos européen et/ ou territorial y figurant) n'est pas utilisé dans les conditions prévues par son fabricant lors de son homologation (par exemple adjonction d'un vernis, d'un écran, d'une encre transparente ou autre), le nouveau produit devra subir les essais suivant les modalités des articles 6, 7 et 8 ci-après.
 
 3.3. Le matériau ou revêtement noir destiné aux caractères, après avoir subi les essais prévus à l'article 8 ci-après, devra répondre aux exigences suivantes :
 
@@ -70,7 +100,7 @@ a) Plans en trois exemplaires, suffisamment détaillés pour permettre l'identif
 
 b) Une description indiquant les caractéristiques techniques du matériau rétroréfléchissant.
 
-c) Par couleur, dix échantillons de matériau rétroréfléchissant de 10 x 10 centimètres sont remis au laboratoire pour les différents essais. Dans le cas de film rétroréfléchissant, celui-ci sera appliqué sur des plaques d'aluminium d'au moins 1 millimètre d'épaisseur.
+c) Par couleur, dix échantillons de matériau rétroréfléchissant de 10 x 10 centimètres sont remis au laboratoire pour les différents essais. Dans le cas de film rétroréfléchissant, celui-ci sera appliqué sur des supports ou sous des écrans correspondant aux cas d'utilisation d'au moins 1 millimètre d'épaisseur.
 
 L'homologation sera accordée lorsque les matériaux rétroréfléchissants satisfont aux exigences des articles 6 à 8 ci-après.
 
@@ -116,337 +146,139 @@ c) Pour les autres essais, il y a lieu d'utiliser des échantillons qui n'ont su
 
 Appendice 1 : spécifications colorimétriques
 
-De jour (zones et facteurs de luminance)
+De jour :
 
-Couleur
+Couleur |
 
-|
+1 |
 
-1
+2 |
 
-|
+3 |
 
-2
+4 |
 
-|
+Facteur de luminance |
 
-3
+Blanc x
 
-|
-
-4
-
-|
-
-Facteur de luminance
-
-|
-
-Blanc
-
-|
-
-x
-
-|
+y |
 
 0,350
 
-|
+0,360 |
 
 0,300
 
-|
-
-0,285
-
-|
-
-0,335
-
-|
-
-≥ 0,35
-
-|
-
-y
-
-|
-
-0,360
-
-|
-
-0,310
-
-|
-
-0,325
-
-|
-
-0,375
-
-|
-
-|
-
-Jaune
-
-|
-
-x
-
-|
-
-0,545
-
-|
-
-0,487
-
-|
-
-0,427
-
-|
-
-0,465
-
-|
-
-≥ 0,27
-
-|
-
-y
-
-|
-
-0,454
-
-|
-
-0,423
-
-|
-
-0,483
-
-|
-
-0,534
-
-|
-
-|
-
-Bleu
-
-|
-
-x
-
-|
-
-0,078
-
-|
-
-0,150
-
-|
-
-0,210
-
-|
-
-0,137
-
-|
-
-≥ 0,01
-
-|
-
-y
-
-|
-
-0,171
-
-|
-
-0,220
-
-|
-
-0,160
-
-|
-
-0,038
-
-|
-
-|
-
-Noir
-
-|
-
-x
-
-|
-
-0,385
-
-|
-
-0,300
-
-|
-
-0,260
-
-|
-
-0,345
-
-|
-
-|
+0,310 |
 
-y
+0.285
 
-|
-
-0,355
-
-|
-
-0,270
-
-|
-
-0,310
-
-|
+0.325 |
 
-0,395
+0.335
 
-|
-
-|
-
-De nuit
-
-Couleur
+0.375 |
 
-|
-
-1
+≥ 0.35 |
 
-|
+Jaune x
 
-2
+y |
 
-|
+0.545
 
-3
+0.454 |
 
-|
+0.487
 
-4
+0.423 |
 
-|
+0.427
 
-Blanc
+0.483 |
 
-|
+0.465
 
-x
+0.534 |
 
 |
 
-0,548
+Bleu x
 
-|
+y |
 
-0,417
+0.078
 
-|
+0.171 |
 
-0,372
+0.150
 
-|
+0.220 |
 
-0,450
+0.210
 
-|
+0.160 |
 
-y
+0.137
 
-|
+0.038 |
 
-0,404
+≥ 0.01 |
 
-|
+Noir x
 
-0,359
+y |
 
-|
+0.385
 
-0,405
+0.355 |
 
-|
+0.300
 
-0,513
+0.270 |
 
-|
+0.260
 
-Jaune
+0.310 |
 
-|
+0.345
 
-x
+0.395 |
 
 |
 
-0,610
+De nuit :
 
-|
+Couleur |
 
-0,585
-
-|
+1 |
 
-0,505
+2 |
 
-|
+3 |
 
-0,520
+4 |
 
-|
+Blanc x
 
-y
+y |
 
-|
+0.548
 
-0,390
+0.404 |
 
-|
+0.417
 
-0,385
+0.359 |
 
-|
+0.372
 
-0,465
+0.405 |
 
-|
+0.450
 
-0,480
+0.513
 
 |
 
@@ -521,48 +353,6 @@ Blanc
 |
 
 1,5
-
-|
-
-|
-
-Jaune
-
-|
-
-0''20'
-
-|
-
-35
-
-|
-
-16
-
-|
-
-6
-
-|
-
-250
-
-|
-
-1''30'
-
-|
-
-3
-
-|
-
-1,5
-
-|
-
-1,0
 
 |
 
