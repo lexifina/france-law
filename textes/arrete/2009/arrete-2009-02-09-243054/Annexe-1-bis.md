@@ -6,4 +6,4 @@ Tableau récapitulatif des dimensions de plaques homologuées et particularités
 
 Vous pouvez le consulter à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150217&numTexte=38&pageDebut=02978&pageFin=02986
+https://www.legifrance.gouv.fr/download/pdf?id=RoSk8Ua8lFJWJLVDjh-XCyfJvp_yqT8SIiOnWW6Q0Fc=

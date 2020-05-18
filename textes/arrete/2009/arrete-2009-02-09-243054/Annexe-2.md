@@ -2,6 +2,6 @@
 
 Cas général. - 1 ligne. - Avec et sans bavette
 
-Vous pouvez consulter l'image à l'adresse suivante :
+Vous pouvez consulter l'annexe à l'adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20090211&numTexte=28&pageDebut=02393&pageFin=02402
+https://www.legifrance.gouv.fr/download/pdf?id=RoSk8Ua8lFJWJLVDjh-XCyfJvp_yqT8SIiOnWW6Q0Fc=
