@@ -64,6 +64,8 @@ d) "CPE", pour la bonification prévue à l'article 6 de l'arrêté du 29 décem
 
 e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 décembre 2014 susvisé.
 
+f) “ CFT ” pour la bonification prévue à l'article 3-4 de l'arrêté du 29 décembre 2014 susvisé.
+
 Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 
 - pour le SIREN et la raison sociale du professionnel : le professionnel est le professionnel ayant mis en œuvre ou assuré la maîtrise d'œuvre de l'opération, signataire de l'attestation prévue au point I 9° de l'annexe 4 ou au point 5 de l'annexe 5. La raison sociale peut être remplacée par le nom commercial du professionnel ou son sigle, tels que portés au registre du commerce et des sociétés.
@@ -77,7 +79,3 @@ Pour le cas d'un regroupement :
 - les colonnes relatives à l'identité du demandeur sont renseignées avec les informations relatives au membre du regroupement concerné par l'opération (et non au regroupeur, sauf en tant que membre du regroupement) ;
 
 - la colonne de la référence EMMY du dossier permet d'identifier le regroupeur : cette référence comporte notamment son numéro de compte.
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 28 février 2020.
