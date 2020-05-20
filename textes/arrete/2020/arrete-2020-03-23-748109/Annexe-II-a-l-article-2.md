@@ -82,6 +82,8 @@ L'étiquette indique :
 
 - la composition : "Isopropanol - peroxyde d'hydrogène - glycérol"
 
+- La concentration en substance active exprimée en V/ V au plus tard pour les lots fabriqués à partir du 31 mai 2020
+
 - nom de la pharmacie qui a réalisé la solution
 
 - date de fabrication et numéro de lot
