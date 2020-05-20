@@ -14,7 +14,9 @@ Secteur réseaux
 
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
 
-- Réparation de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine) / Fiche d’opération n° RES-CH-108
+- Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine) / Fiche d’opération n° RES-CH-108
+
+Conformément au I de l’article 1er de l’arrêté du 4 mai 2020 (NOR : TRER2011628A), la fiche d’opération standardisée est remplacée par la version en annexe I dudit arrêté.
 
 - Système de régulation de tension en éclairage extérieur / Fiche d’opération n° RES-EC-101
 
@@ -27,6 +29,10 @@ Secteur réseaux
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 122 du 19/05/2020, texte nº 6, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=CvA1mo1BjKK6qp2RfDP-iN_gRqcUA3qn9Cpuf_2cwJA=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 25 du 30/01/2020, texte nº 8, accessible à l’adresse suivante :
 
@@ -50,4 +56,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), ces dispositions sont applicables aux opérations standardisées d'économies d'énergie engagées à compter du 1er avril 2020.
+Conformément à l’article 2 de l’arrêté du 4 mai 2020 (NOR : TRER2011628A), ces dispositions sont applicables aux opérations standardisées d’économies d’énergie engagées à partir de l’entrée en vigueur du présent arrêté.
