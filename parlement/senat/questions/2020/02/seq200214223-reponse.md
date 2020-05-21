@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214223
+
+- Question : [SEQ200214223](seq200214223.md) — Obligation réelle environnementale dans un bail rural
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-05-21, page 2332*
+
+Les obligations réelles environnementales (ORE) permettent à tout propriétaire d'un bien immobilier de mettre en place, s'il le souhaite, une protection environnementale attachée à son bien. Elle passe par la signature d'un contrat (dit : contrat ORE), librement consenti entre le propriétaire du bien et un cocontractant qui peut être une collectivité publique, un établissement public, ou une personne morale de droit privé agissant pour la protection de l'environnement. Lorsque le terrain sur lequel est envisagé l'instauration d'une ORE est loué, le preneur n'est pas partie au contrat ORE, établi entre le propriétaire et le cocontractant non propriétaire. Dès lors qu'il est le seul à avoir la jouissance du fonds grevé, les obligations de faire ou de ne pas faire incomberont au preneur. De ce fait, son accord doit être un préalable à la conclusion d'un contrat ORE par le bailleur, dans les conditions établies à l'article L. 132-3 du code de l'environnement. Afin de mieux faire connaître cet outil foncier et de faciliter son utilisation, le ministère de la transition écologique et solidaire et le centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ont élaboré des fiches pratiques sur les ORE. Dans ce cadre, certaines réponses apportées aux questions soulevées sur l'articulation des ORE au bail rural ont imposé un travail de finalisation qui n'est pas encore achevé. La publication de la fiche relative aux baux ruraux est attendue pendant le cours du premier semestre 2020, une fois les différents avis rendus bien pris en compte.
