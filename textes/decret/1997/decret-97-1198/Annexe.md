@@ -1018,6 +1018,14 @@ Délivrance des autorisations pour l'exécution de services internationaux de tr
 
 Article R. 3111-57 |
 
+4 |
+
+Mises en demeure et décisions d'astreintes relatives aux obligations de déclaration des cargaisons donnant lieu à contribution au titre de la Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, adoptée à Londres le 30 avril 2010 ("convention SNPD") |
+
+Article L. 5435-2
+
+Articles D. 5435-1 et R. 5435-2 |
+
 Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
 
 1
