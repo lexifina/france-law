@@ -268,4 +268,8 @@ Brevet de second mécanicien 3000 kw limité à 200 milles des côtes ;
 
 Brevet de chef mécanicien 3000 Kw limité à 200 milles des côtes ;
 
-Brevet d'officier électronicien.
+Brevet d'officier électronicien ;
+
+Brevet d'aptitude à la conduite de petits navires ;
+
+Brevet d'aptitude à la conduite de petits navires à voile.
