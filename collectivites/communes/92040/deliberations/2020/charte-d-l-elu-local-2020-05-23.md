@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Charte d l'élu local
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-05-23
+- Matière : ADMINISTRATION GENERALE
+- Objet : Charte d l'élu local
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMjMsInB1ciI6ImJsb2JfaWQifX0=--9cc57faeac9245ebdaa09386b85336257687f096/23052020_04.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
