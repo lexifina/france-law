@@ -46,7 +46,7 @@ Produits à base d'œuf coquille et/ ou de lait cru ayant subi un traitement ass
 
 100 kilogrammes par semaine |
 
-Produits non transformés de la pêche (réfrigéré ou congelé, préparé ou entier) |
+Produits non transformés de la pêche (vivants, réfrigérés ou congelés, préparés ou entiers) |
 
 250 kilogrammes par semaine |
 
@@ -66,8 +66,8 @@ Escargots (entiers, préparés ou transformés) |
 
 Cuisses de grenouilles |
 
-75 kilogrammes |
+75 kilogrammes par semaine |
 
-30 kilogrammes |
+30 kilogrammes par semaine |
 
 (*) Les quantités maximales sont cumulables pour chaque catégorie de produits. Elles ne s'appliquent pas en cas de livraison à des établissements caritatifs. |

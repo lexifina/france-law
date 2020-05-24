@@ -32,6 +32,8 @@ Le plan de masse et le plan d'ensemble de l'établissement peuvent être communs
 
 2.10. La description des conditions de fonctionnement.
 
+2.11. Le cas échéant, l'information du préfet par le responsable d'un établissement de restauration collective qui décide de confier la préparation des repas à un prestataire.
+
 3° Le plan de maîtrise sanitaire
 
 Le plan de maîtrise sanitaire décrit les mesures prises par l'établissement pour assurer l'hygiène et la sécurité sanitaire de ses productions vis-à-vis des dangers biologiques, physiques et chimiques.
@@ -110,7 +112,7 @@ La liste des utilisateurs et le type de leur relation avec ces entités.
 
 5° Cas particulier des centres d'emballage d'œufs
 
-Conformément aux dispositions des règlements (CE) n° 1907/90 et n° 2295/2003 :
+Conformément aux dispositions du règlement (CE) n° 589/2008 du 23 juin 2008 susvisé :
 
 - la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des œufs ;
 
