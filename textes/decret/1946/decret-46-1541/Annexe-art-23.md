@@ -426,9 +426,7 @@ Les recettes du Fonds national de gestion du risque sont constituées de la frac
 
 Les dépenses du Fonds national de gestion du risque sont constituées, d'une part, des dépenses afférentes aux actions auxquelles la caisse d'assurance maladie des industries électriques et gazières est associée ou qu'elle met en oeuvre dans les conditions fixées par la convention prévue au huitième alinéa du A. 1 du paragraphe 4 du présent article et, d'autre part, des dépenses de fonctionnement et d'investissement affectées à la réalisation de ces actions.
 
-B.-Les dispositions des articles D. 253-15 à D. 253-25, D. 253-42 à D. 253-57,
-
-D. 253-62 à D. 253-68, du code de la sécurité sociale sont applicables aux opérations, aux justificatifs des opérations et conservations, au contrôle interne et à la sécurité informatique, à la comptabilité, au compte financier et au contrôle de la gestion de l'agent comptable de la caisse d'assurance maladie des industries électriques et gazières.
+B.-Les dispositions des articles D. 253-15 à D. 253-21, D. 253-42 à D. 253-45, D. 253-67 et D. 280-1, du code de la sécurité sociale sont applicables aux opérations, aux justificatifs des opérations et conservations, au contrôle interne et à la sécurité informatique, à la comptabilité, au compte financier et au contrôle de la gestion de l'agent comptable de la caisse d'assurance maladie des industries électriques et gazières.
 
 Le conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières reçoit communication des comptes annuels du régime pour se prononcer à leur sujet conformément au 5° du D du paragraphe 4 du présent article. Ces comptes, comprenant le bilan, les comptes de résultat et l'annexe, sont transmis pour le 15 avril de l'année qui suit la fin de l'exercice, pour examen, aux ministres chargés de la sécurité sociale et du budget.
 
@@ -436,7 +434,7 @@ C.-La caisse d'assurance maladie des industries électriques et gazières établ
 
 D.-Les dépenses inscrites aux budgets de gestion administrative et de gestion du risque ont un caractère limitatif.
 
-Pour l'application des dispositions des articles L. 153-1 à L. 153-9 et R. 153-7 à R. 153-9 du code de la sécurité sociale aux budgets de gestion administrative et de gestion du risque de la caisse d'assurance maladie des industries électriques et gazières, les autorités compétentes de l'Etat sont les ministres chargés de la sécurité sociale et du budget.
+Pour l'application des dispositions des articles L. 153-1 à L. 153-9 et R. 153-7 du code de la sécurité sociale aux budgets de gestion administrative et de gestion du risque de la caisse d'assurance maladie des industries électriques et gazières, les autorités compétentes de l'Etat sont les ministres chargés de la sécurité sociale et du budget.
 
 Les budgets de gestion administrative et de gestion du risque sont communiqués, dans les dix jours suivant leur adoption, à la commission paritaire nationale de suivi prévue au paragraphe 6 du présent article. Le relevé de décisions de la réunion au cours de laquelle ont été adoptés ces budgets est transmis dans le même délai suivant son adoption à cette commission.
 
