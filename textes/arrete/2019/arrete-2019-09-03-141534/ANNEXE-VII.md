@@ -1,16 +1,16 @@
 # Article ANNEXE VII
 
-ÉTUDE DU GESTIONNAIRE DE RÉSEAU DE DISTRIBUTION DE GAZ
+ÉTUDE DU GESTIONNAIRE DE RÉSEAU DE GAZ
 
-Pour les installations situées sur une commune desservie par un réseau public de distribution de gaz naturel et de puissance électrique installée supérieure ou égale à 300 kW, le producteur transmet au cocontractant :
+Pour les installations de puissance électrique installée supérieure ou égale à 300 kW, le producteur transmet au cocontractant :
 
-- une étude de préfaisabilité d'une valorisation énergétique en injection du biogaz produit par l'installation, datée de moins de 24 mois, réalisée par le gestionnaire de réseau de distribution de gaz de la commune où est situé le projet ;
+- une étude engageante d'une valorisation énergétique en injection du biogaz produit par l'installation, datée de moins de 24 mois, réalisée par le gestionnaire de réseau concerné. Ce dernier est le gestionnaire du réseau sur lequel le projet pourrait être raccordé en application du zonage de raccordement défini à l'article D. 453-21 du code de l'énergie ;
 
-- ou, en l'absence de réponse du gestionnaire de réseau de distribution de gaz de la commune où est situé le projet dans un délai de quinze jours ouvrés à compter de la date de réception de la demande complète d'étude, la preuve de l'envoi d'une demande de préfaisabilité adressée à ce dernier.
+- ou, en l'absence de réponse du gestionnaire de réseau concerné dans un délai d'un mois ou, dans les zones où un zonage n'a pas été fait préalablement suite à la demande d'un premier producteur, de quatre mois, à compter de la date de réception de la demande complète d'étude, la preuve de l'envoi d'une demande d'étude engageante adressée à ce dernier.
 
-En l'absence de réponse du gestionnaire de réseau de distribution de gaz de la commune où est situé le projet dans le délai imparti, l'étude du gestionnaire de réseau de distribution de gaz est réputée défavorable.
+En l'absence de réponse du gestionnaire de réseau concerné dans le délai imparti, l'étude du gestionnaire de réseau est réputée défavorable.
 
-Pour obtenir l'étude de préfaisabilité, le producteur adresse une demande d'étude de préfaisabilité au gestionnaire de réseau de distribution de gaz de la commune où est situé le projet, par voie postale ou par voie dématérialisée.
+Pour obtenir l'étude engageante, le producteur adresse une demande d'étude engageante au gestionnaire de réseau concerné, par voie postale ou par voie dématérialisée.
 
 Cette demande comporte :
 
@@ -20,21 +20,21 @@ Cette demande comporte :
 
 3. L'estimation du débit nominal de biométhane de l'installation en Nm3/h tenant compte du débit nominal de biogaz.
 
-La charge de la preuve de l'envoi de la demande d'étude de préfaisabilité repose sur le producteur en cas de litige.
+La charge de la preuve de l'envoi de la demande d'étude engageante repose sur le producteur en cas de litige.
 
-Le gestionnaire de réseau de distribution de gaz naturel de la commune où est situé le projet réalise l'étude de préfaisabilité. Cette étude comprend :
+Le gestionnaire de réseau concerné réalise l'étude engageante conjointement avec les autres opérateurs de réseau gaz concernés par le zonage de raccordement. Cette étude comprend les conditions économiques de raccordement de l'installation au réseau le plus pertinent :
 
-- une évaluation de l'adéquation entre le débit nominal de l'installation et la capacité d'injection disponible ;
+- le montant relatif aux investissements de raccordement y compris, le cas échéant, la quote-part des ouvrages mutualisés entre différents producteurs ;
 
-- une estimation du coût pour le raccordement de l'installation au réseau de gaz, au regard de l'emplacement des installations et du débit de biométhane attendu ;
+- le cas échéant, le montant des coûts de renforcement à supporter par le producteur afin que le ratio technico-économique du projet de renforcement nécessaire soit inférieur au plafond tel que défini à l'article D. 453-24 du code de l'énergie.
 
-- le cas échéant, l'engagement du gestionnaire de réseau de distribution pour une période de 24 mois que tout devis ultérieur de raccordement de cette installation au réseau de gaz, au regard du débit attendu, sera inférieur aux plafonds indexés par le coefficient K à la date d'émission du devis définis ci-dessous :
+Les conditions économiques de raccordement au réseau de gaz sont réputées défavorables si la somme des montants hors taxes relatifs aux investissements de raccordement et aux coûts de renforcement à supporter par le producteur est supérieure aux plafonds, indexés par le coefficient K à la date d'émission de l'étude engageante, définis ci-dessous :
 
 Valeur de Pmax
 
 [MW] |
 
-Débit de biogaz correspondant attendu
+Débit de biométhane correspondant attendu
 
 [Nm3/h] |
 
@@ -104,4 +104,4 @@ Formule dans laquelle :
 
 3° ICHTrev-TS10 et FM0ABE00000 sont les dernières valeurs définitives des indices ICHTrev-TS1 et FM0ABE0000 connues à la date de publication du présent arrêté.
 
-L'étude de préfaisabilité est transmise dans un délai de quinze jours ouvrés par voie postale ou par voie dématérialisée au producteur et au cocontractant à compter de la date de réception de la demande complète d'étude. La charge de la preuve de l'envoi de l'étude de préfaisabilité repose sur le gestionnaire de réseau de distribution de gaz de la commune où est situé le projet en cas de litige.
+L'étude engageante est transmise dans un délai d'un mois ou, dans les zones où un zonage n'a pas été fait préalablement suite à la demande d'un premier producteur, de quatre mois, par voie postale ou par voie dématérialisée au producteur et au cocontractant à compter de la date de réception de la demande complète d'étude. La charge de la preuve de l'envoi de l'étude engageante repose sur le gestionnaire de réseau concerné en cas de litige.

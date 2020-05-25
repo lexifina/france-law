@@ -2,7 +2,7 @@
 
 TARIF DE RÉFÉRENCE TE
 
-I. - Le tarif de référence Te, exprimé en €/MWh hors TVA, est défini comme suit :
+Le tarif de référence Te, exprimé en €/MWh hors TVA, est défini comme suit :
 
 Te = α . L . TDCC
 
@@ -71,9 +71,3 @@ Pmax ≥ 1,2 |
 Les valeurs intermédiaires sont déterminées par interpolation linéaire.
 
 D. A compter du 1er janvier 2019, la valeur de TDCC diminue de 0,5 % à l'issue de chaque trimestre.
-
-II. - A compter du 1er janvier 2021 ou dès lors que la somme des puissances installées Pmax figurant dans les demandes complètes de contrat déposées au titre du 1° et 3° de l'article 1er du présent arrêté atteint 60 MW, le tarif de référence Te applicable aux nouvelles demandes complètes de contrat déposées au titre du 1° et 3° de l'article 1er du présent arrêté, exprimé en €/MWh hors TVA, est alors défini comme suit :
-
-a) Dans le cas des installations mentionnées au 3° de l'article 1er, Te est nul ;
-
-b) Dans le cas des installations mentionnées au 1° de l'article 1er, Te = (M0 - Pgestion), où M0 et Pgestion sont définis conformément à l'annexe I.
