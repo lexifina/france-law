@@ -1,0 +1,71 @@
+# Dette sociale et autonomie
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39813
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/autonomie_dette_sociale
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-518.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-05-27 : 1er dépôt d'une initiative. (PRJLANR5L15B3019)
+  - 2020-05-27 : Etude d'impact (ETDIANR5L15B3019)
+  - 2020-05-27 : Avis du Conseil d'Etat (AVCEANR5L15B3019)
+  - 2020-05-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-05-27 : Renvoi en commission au fond
+      - 2020-06-03 : Nomination de rapporteur
+      - 2020-06-03 : Réunion de commission
+      - 2020-06-08 : Réunion de commission
+      - 2020-06-09 : Dépôt de rapport (RAPPANR5L15B3067, PRJLANR5L15BTC3067)
+  - Discussion en séance publique
+    - 2020-06-15 : Discussion en séance publique
+    - 2020-06-15 : Discussion en séance publique
+    - 2020-06-15 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-06-16 : Dépôt d'une initiative en navette (PRJLSNR5S339B0518)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-06-24 : Dépôt de rapport (RAPPSNR5S339B0556, PRJLSNR5S339BTC0557)
+  - Discussion en séance publique
+    - 2020-07-01 : Discussion en séance publique
+    - 2020-07-01 : Décision
+- Commission Mixte Paritaire
+  - 2020-07-02 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-07-08 : Nomination de rapporteur
+    - 2020-07-08 : Dépôt du rapport d'une CMP (RAPPANR5L15B3189)
+    - 2020-07-08 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0610, PRJLSNR5S339BTC0611)
+  - 2020-07-09 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-07-02 : Dépôt d'une initiative en navette (PRJLANR5L15B3180)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-02 : Renvoi en commission au fond
+      - 2020-07-15 : Réunion de commission
+      - 2020-07-15 : Dépôt de rapport (RAPPANR5L15B3201, PRJLANR5L15BTC3201)
+  - Discussion en séance publique
+    - 2020-07-16 : Décision
+- Nouvelle Lecture
+  - 2020-07-17 : Dépôt d'une initiative en navette (PRJLSNR5S339B0656)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-17 : Renvoi en commission au fond
+      - 2020-07-21 : Dépôt de rapport (RAPPSNR5S339B0659, PRJLSNR5S339BTC0660)
+  - Discussion en séance publique
+    - 2020-07-22 : Discussion en séance publique
+    - 2020-07-22 : Décision
+- Lecture définitive
+  - 2020-07-23 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0465)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-23 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-07-23 : Discussion en séance publique
+    - 2020-07-23 : Décision
+- Promulgation de la loi
+  - 2020-08-07 : Promulgation d'une loi
