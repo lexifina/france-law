@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113301
+
+- Question : [SEQ191113301](seq191113301.md) — Publicité des recours formulés à la suite d'une élection
+
+## Réponse
+
+*Justice, JO du 2020-05-28, page 2440*
+
+Le régime de cumul des mandats électoraux résulte en dernier lieu de la loi organique n° 2014-125 du 14 février 2014. Le code électoral définit ainsi de nombreuses situations d'incompatibilité liées au cumul des mandats (cf articles L. 46 et suivants et LO 137 et suivants du code électoral). Or, dans de telles situations, le code électoral prévoit que l'élu doit cesser d'exercer le mandat précédent celui qui l'a placé en situation d'incompatibilité (ex : l'article L. 46 du code électoral dispose que « nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de Corse, conseiller départemental, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de Martinique, conseiller municipal ». Tout élu se trouvant dans cette situation « doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement » ; cf également les articles LO 137, LO 137-1 ou encoure LO 151 du même code). Par conséquent, la circonstance qu'un candidat serait en instance juridictionnelle pour une protestation concernant une précédente élection n'aurait pas d'incidence sur le nouveau mandat électoral pour lequel il se présente. Il appartiendra seulement, le cas échéant, au candidat concerné de décider s'il souhaite prendre le risque de se trouver en situation d'incompatibilité en se présentant à de nouvelles élections. Au vu de ces éléments, la publicité des instances en cours devant les juridictions administratives en matière électorale n'apparaît pas nécessaire à la bonne information des autres candidats qui seraient inscrits sur une liste électorale, ou à la bonne tenue des opérations électorales.
