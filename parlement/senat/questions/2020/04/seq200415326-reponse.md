@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415326
+
+- Question : [SEQ200415326](seq200415326.md) — Prime pour les agents des collectivités locales mobilisés en cette période de crise sanitaire
+
+## Réponse
+
+*Action et comptes publics (M. le SE auprès du ministre), JO du 2020-05-28, page 2432*
+
+Dans le cadre de l'état d'urgence sanitaire que connaît actuellement notre pays, le Président de la République a souhaité, pour l'ensemble des personnels soignants mais aussi pour l'ensemble des autres agents les plus mobilisés, le versement d'une prime exceptionnelle afin de pouvoir accompagner financièrement leur engagement. Cette prime exceptionnelle, dont les modalités ont été définies par le décret n° 2020-570 du 4 mai 2020 relatif au versement d'une prime exceptionelle à certains agents civils et militaires de la fonction publique d'État et de la fonction publique territoriale soumis à des sujétions exceptionnelles pour assurer la continuité des services publiques dans le cadre de l'état d'urgence sanitaire déclaré pour faire face à l'épidémie de Covid-19, s'articule autour de trois principes : une prime pour reconnaître le surcroît d'activité de certains agents, fonctionnaires et agents contractuels, pendant la période d'état d'urgence sanitaire ; un montant maximal de 1 000 euros ; une exonération d'impôts et de cotisations sociales telle que prévue par l'article 11 de la loi du 25 avril 2020 de finances rectificative pour 2020. En application du principe de libre administration, les assemblées délibérantes pourront décider, après délibération, d'instituer cette prime, dans toutes les collectivités, y compris celles n'ayant pas mis en place le régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel (RIFSEEP), selon des modalités qu'elles définiront. Cette prime financée par chaque employeur sera exclusive de toute autre prime exceptionnelle instituée dans le cadre de l'état d'urgence sanitaire.
