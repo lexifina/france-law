@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113687
+
+- Question : [SEQ200113687](seq200113687.md) — Réglementation de la procédure de la « porte étroite » devant le Conseil constitutionnel
+
+## Réponse
+
+*Justice, JO du 2020-05-28, page 2445*
+
+Aucune procédure formelle n'est prévue par les textes pour l'exercice du contrôle de constitutionnalité des lois par le Conseil constitutionnel dans le cadre de l'article 61 de la Constitution, hormis s'agissant du délai qui lui est imparti pour rendre sa décision. En pratique, la procédure mise en œuvre présente les principaux caractères du droit commun processuel et est proche de celle suivie par le juge administratif. Cette procédure est contradictoire, et la saisine du Conseil constitutionnel ainsi que les observations en réponse du gouvernement sont publiées au journal officiel, respectivement depuis 1983 et 1995, garantissant la transparence de la procédure. Les contributions extérieures appelées « portes étroites » qui peuvent être adressées spontanément par des personnes physiques ou morales concernées par la loi soumise au contrôle du Conseil constitutionnel ne comptent quant à elles pas parmi les documents de procédure, et le Conseil doit rester libre d'y répondre ou non. L'opacité qui pouvait être reprochée à ces contributions extérieures apparaît aujourd'hui levée : après avoir décidé de rendre publique la liste des « portes étroites » en février 2017, le conseil constitutionnel a décidé, le 24 mai 2019, postérieurement à la décision du Conseil d'Etat du 11 avril 2019, n° 425063, de publier également le contenu de ces contributions extérieures. Celles-ci sont ainsi consultables sur son site internet, dans le dossier accompagnant les décisions qu'il rend. Ce dispositif apparaît ainsi suffisant à garantir la transparence des contributions extérieures dans le cadre de la procédure de contrôle a priori menée par le Conseil constitutionnel, et à faire cesser les polémiques sur le contenu de ces documents.
