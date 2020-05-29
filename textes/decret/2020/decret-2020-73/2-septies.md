@@ -1,0 +1,3 @@
+# Article 2 septies
+
+En application du 5° de l'article L. 16-10-1 du code de la sécurité sociale et par dérogation aux dispositions du I de l'article L. 162-1-7 du même code, le test sérologique pour la recherche des anticorps dirigés contre le SARS-CoV-2 réalisé dans le cadre d'un dépistage systématique des personnels en établissement de santé ou en établissement social ou médico-social peut faire l'objet d'un remboursement par l'assurance maladie obligatoire quelle que soit l'indication de réalisation du test. La participation de l'assuré mentionnée au I de l'article L. 160-13 du même code est supprimée pour les tests pris en charge en application du présent article.
