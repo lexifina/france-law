@@ -42,7 +42,7 @@ L'information et la transmission des documents peuvent s'effectuer par voie éle
 
 Article 4
 
-Le président, d'une part, convoque également les chefs d'organismes concernés par ce comité, leur chargé de prévention des risques professionnels (4), le médecin de prévention, l'assistant de service social ou le conseiller technique de service social et, d'autre part, informe l'inspection du travail dans les armées. A cet effet, le président leur transmet l'ordre du jour et l'ensemble des éléments adressés aux représentants titulaires du personnel au titre du premier alinéa de l'article 3. En tant que de besoin, le président peut, de sa propre initiative ou à la demande des représentants du personnel titulaires, élargir la liste des participants aux réunions au responsable infrastructure, au responsable formation ou au responsable des ressources humaines ou, à défaut, les convoquer en fonction de l'ordre du jour des réunions.
+Le président, d'une part, convoque également les chefs d'organismes concernés par ce comité, leur chargé de prévention des risques professionnels (4), le médecin du travail, l'assistant de service social ou le conseiller technique de service social et, d'autre part, informe l'inspection du travail dans les armées. A cet effet, le président leur transmet l'ordre du jour et l'ensemble des éléments adressés aux représentants titulaires du personnel au titre du premier alinéa de l'article 3. En tant que de besoin, le président peut, de sa propre initiative ou à la demande des représentants du personnel titulaires, élargir la liste des participants aux réunions au responsable infrastructure, au responsable formation ou au responsable des ressources humaines ou, à défaut, les convoquer en fonction de l'ordre du jour des réunions.
 
 Les acteurs mentionnés au premier alinéa participent aux débats mais ne prennent pas part au vote.
 
@@ -238,7 +238,7 @@ Les observations des agents chargés du contrôle mentionnés à l'article 4 du 
 
 Le chef d'organisme, et, le cas échéant, l'autorité centrale d'emploi dont il relève, informe le comité de la réponse qu'il adresse à l'inspection du travail dans les armées.
 
-Le comité est également tenu informé des refus motivés de l'administration aux demandes de prélèvements et des mesures demandées par le médecin de prévention en application de l'article 45 du décret du 29 mars 2012 susvisé.
+Le comité est également tenu informé des refus motivés de l'administration aux demandes de prélèvements et des mesures demandées par le médecin du travail en application de l'article 45 du décret du 29 mars 2012 susvisé.
 
 Article 20
 
