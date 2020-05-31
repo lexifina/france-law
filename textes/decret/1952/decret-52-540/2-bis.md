@@ -64,8 +64,6 @@ La Guyane.
 
 Papeete.
 
-Djibouti.
-
 Saint-Pierre-et-Miquelon.
 
 En 15ème s'ils relèvent de stations autres que celles qui sont mentionnées ci-dessus.
