@@ -834,14 +834,18 @@ Semences certifiées
 
 |
 
-B. - La présence d'organismes nuisibles affectant la valeur d'utilisation des semences n'est tolérée que dans la mesure où elle n'empêche pas leur emploi normal par l'utilisateur.
+B. - Les semences sont pratiquement exemptes d'organismes nuisibles réduisant leur valeur d'utilisation et leur qualité.
 
-Les semences doivent répondre aux conditions suivantes :
+Les semences satisfont également aux prescriptions concernant les organismes de quarantaine de l'Union, les organismes de quarantaine de zone protégée et les organismes régulés non de quarantaine prévues dans les actes d'exécution adoptés en application du règlement (UE) 2016/2031.
 
-Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea dans un échantillon de poids prévu à l'annexe IV ne doit pas excéder :
+Les semences répondent aux conditions suivantes :
 
-- un pour les semences de base ;
+Le nombre maximal de sclérotes ou fragments de sclérotes, ou d'ergots, dans un échantillon de poids prévu à l'annexe III, ne doit pas excéder :
 
-- trois pour les semences certifiées ;
+-un pour les semences de base ;
 
-- trois pour les semences sans aucun qualificatif.
+-trois pour les semences certifiées autres que les hybrides de Secale cereale ;
+
+-trois pour les semences sans aucun qualificatif ;
+
+-quatre pour les semences certifiées d'hybrides Secale cereale.
