@@ -2,13 +2,13 @@
 
 I. - Les établissements de crédit peuvent choisir d'opter pour un dispositif permettant de faire varier le montant centralisé au fonds d'épargne à quatre reprises au titre de chaque mois considéré. Les variations du montant centralisé sont opérées comme suit :
 
-1° Les établissements de crédit déclarent successivement à la Caisse des dépôts et consignations les montants des dépôts inscrits dans leurs écritures au titre du livret A et du livret de développement durable au septième, au quinzième, au vingt-troisième et au dernier jour du mois considéré ;
+1° Les établissements de crédit déclarent successivement à la Caisse des dépôts et consignations les montants des dépôts inscrits dans leurs écritures au titre du livret A et du livret de développement durable et solidaire au septième, au quinzième, au vingt-troisième et au dernier jour du mois considéré ;
 
 2° A la suite de chacune de ces déclarations, la Caisse des dépôts et consignations calcule le produit entre :
 
 a) La différence entre les montants des deux dernières déclarations successives mentionnées au 1° ;
 
-b) Le rapport entre, d'une part, le montant des dépôts du livret A et du livret de développement durable centralisé par l'établissement de crédit considéré au fonds d'épargne en vertu de l'article 5 et, d'autre part, le montant total des dépôts du livret A et du livret de développement durable inscrits dans les écritures de l'établissement de crédit considéré.
+b) Le rapport entre, d'une part, le montant des dépôts du livret A et du livret de développement durable et solidaire centralisé par l'établissement de crédit considéré au fonds d'épargne en vertu de l'article 5 et, d'autre part, le montant total des dépôts du livret A et du livret de développement durable et solidaire inscrits dans les écritures de l'établissement de crédit considéré.
 
 3° Si le montant du produit mentionné au 2° est positif, il est versé par l'établissement de crédit au fonds d'épargne.
 
