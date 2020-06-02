@@ -4,7 +4,7 @@ I.-Emplois d'inspecteur général des services actifs de la police nationale
 
 1. Direction générale de la police nationale :
 
-Directeur de cabinet.
+Directeur de cabinet du directeur général de la police nationale, préfigurateur des fonctions de directeur général adjoint de la police nationale.
 
 Conseiller stratégie et prospective de la police nationale.
 
