@@ -1,0 +1,14 @@
+# Remplacement des ARS par des conseils régionaux du soin
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39826
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/remplacement_ars_conseils_regionaux_du_soin
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-06-02 : 1er dépôt d'une initiative. (PIONANR5L15B3036)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-02 : Renvoi en commission au fond
