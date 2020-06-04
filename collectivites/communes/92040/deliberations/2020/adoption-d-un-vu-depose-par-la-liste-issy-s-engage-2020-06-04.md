@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adoption d'un vœu déposé par la liste "Issy s'engage" concernant la création d'une commission du Règlement Intérieur
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-06-04
+- Matière : ADMINISTRATION GENERALE
+- Objet : Adoption d'un vœu déposé par la liste "Issy s'engage" concernant la création d'une commission du Règlement Intérieur
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5MTYsInB1ciI6ImJsb2JfaWQifX0=--0377a28499729b6ddbf7c3beace989d3521d8197/040620_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
