@@ -1,0 +1,33 @@
+# Article 10 bis
+
+Les entreprises de la branche peuvent, dans les conditions légales et réglementaires en vigueur, mettre en place des représentants de proximité.
+
+Ceux-ci sont membres du comité social et économique ou désignés par lui pour une durée qui prend fin avec celle du mandat des membres élus du comité.
+
+À ce titre, ils bénéficient pour exercer leurs missions d'un stage de formation économique en fonction de la taille des sites qui constituent le périmètre de leur désignation : 3 jours pour les sites dont l'effectif est inférieur à 300 salariés et 5 jours pour les sites dont l'effectif compte 300 salariés et plus.
+
+Le temps consacré à cette formation est pris sur le temps de travail et rémunéré comme tel. Il n'est pas déduit du temps alloué aux représentants de proximité pour l'exercice de leurs fonctions. Il est imputé sur la durée du congé de formation économique, sociale et syndicale.
+
+Le financement de la formation santé et sécurité est prise en charge par l'employeur si les représentants de proximité sont investis de fonctions au sein de la commission santé, sécurité et conditions de travail (CSSCT).
+
+L'accord mettant en place les représentants de proximité définit notamment :
+
+– leur nombre ;
+
+– leurs attributions, notamment en matière de santé, de sécurité et de conditions de travail ;
+
+– les modalités de leur désignation ;
+
+– leurs modalités de fonctionnement, notamment le nombre d'heures de délégation dont ils bénéficient pour l'exercice de leurs attributions ;
+
+– le périmètre de leur désignation.
+
+Les représentants de proximité bénéficient d'un crédit d'heures déterminé en fonction des effectifs du périmètre de désignation :
+
+– 5 heures par mois jusqu'à 499 salariés ;
+
+– 8 heures par mois entre 500 et 999 salariés ;
+
+– 10 heures par mois à partir de 1 000 salariés.
+
+Conformément à la législation en vigueur, les représentants de proximité bénéficient de la protection contre le licenciement, qu'ils soient ou non membres du CSE.

@@ -1,0 +1,9 @@
+# Article 1er
+
+Le titre Ier « Liberté d'opinion, liberté syndicale et non-discrimination syndicale », est modifié comme suit :
+
+« Tout salarié peut librement adhérer au syndicat professionnel de son choix, sans que cela ne lui occasionne de préjudice.
+
+Conformément aux dispositions légales et conventionnelles en vigueur, le salarié titulaire d'un mandat syndical ou d'élu du personnel ne peut être pénalisé, ni dans son évolution professionnelle, ni dans le cadre de ses fonctions pour un motif relatif à ses fonctions syndicales.
+
+Dans le cadre de l'exercice d'un mandat syndical ou d'élu du personnel, l'employeur tient compte de l'expérience et des compétences acquises, pour la valorisation des parcours professionnels, l'évolution professionnelle se trouvant régie par les règles de non-discrimination et d'égalité de traitement ».
