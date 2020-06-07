@@ -32,11 +32,13 @@ e) Les dépenses de transport, de restauration et d'hébergement occasionnées p
 
 Le montant cumulé des rémunérations mentionnées au a et des salaires mentionnés au c versés au réalisateur en qualité de technicien est retenu par personne physique, dans la limite d'un montant cumulé calculé comme suit :
 
--15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
+- 15 % de la part du coût de production de l'œuvre inférieure à 4 000 000 € ;
 
--8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
+- 8 % de la part du coût de production de l'œuvre supérieure ou égale à 4 000 000 € et inférieure ou égale à 7 000 000 € ;
 
--5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
+- 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
+
+Le taux mentionné au premier alinéa du présent 1 est porté à 40 % en ce qui concerne les œuvres cinématographiques ou audiovisuelles de fiction dans lesquelles au moins 15 % des plans, soit en moyenne un plan et demi par minute, font l'objet d'un traitement numérique permettant d'ajouter des personnages, des éléments de décor ou des objets participant à l'action ou de modifier le rendu de la scène ou le point de vue de la caméra, à la condition que, au sein du budget de production de l'œuvre, le montant total des dépenses éligibles afférentes aux travaux de traitement numérique des plans soit supérieur à deux millions d'euros.
 
 2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe, du 2 octobre 1992, ou d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français, sont assimilés aux citoyens français.
 
@@ -54,4 +56,6 @@ VIII. – Un décret précise les conditions d'application du présent article.
 
 NOTA :
 
-Conformément au II de l'article 138 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2020.
+Conformément aux III et IV de l’article 131 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux dépenses engagées au titre des exercices clos à compter du 31 décembre 2020 et entrent en vigueur à une date, fixée par décret, qui ne peut être postérieure de plus de trois mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
+
+Conformément à l'article 1er du décret n° 2020-685 du 5 juin 2020, ces dispositions entrent en vigueur le lendemain de la publication dudit décret.
