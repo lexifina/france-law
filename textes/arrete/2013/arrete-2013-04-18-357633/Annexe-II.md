@@ -4,41 +4,35 @@ ANNEXE II
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A. - Ministère de l'Europe et des affaires étrangères
+A-Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Personnels en fonctions sur le territoire national |
 
 Étranger |
 
-B. - Ministère de la culture
+B-Ministère de la culture
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
-sans ordonnancement préalable |
+Personnels affectés dans les directions régionales des affaires culturelles |
 
-Personnels affectés dans les directions régionales des affaires culturelles Paris |
-
-|
+Paris |
 
 Personnels des Écoles Normales Supérieures d'Architecture |
 
 Paris |
 
-C. - Ministère de l'agriculture et de l'alimentation
+C-Ministère de l'agriculture et de l'alimentation
 
 Catégorie de personnels |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Personnels des services centraux |
 
@@ -56,15 +50,13 @@ Ingénieurs des ponts, des eaux et des forêts relevant du centre interministér
 
 Hauts-de-Seine |
 
-D. - Services déconcentrés du ministère de l'éducation nationale et de la jeunesse et du ministère de l'enseignement supérieur, de la recherche et de l'innovation
+D-Services déconcentrés du ministère de l'éducation nationale et de la jeunesse et du ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
 Population ou région académique (académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
 
@@ -150,15 +142,7 @@ Nord, Pas-de-Calais |
 
 Nord |
 
-Population ou région académique (académie) |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
-Île-de-France (Créteil, Paris, Versailles) |
+Île-de-France (Paris, Versailles, Créteil) |
 
 Paris (1er et 2nd degrés) |
 
@@ -175,6 +159,10 @@ Val-de-Marne |
 Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (enseignement supérieur) |
 
 Seine-Saint-Denis |
+
+Yvelines, Essonne, Hauts-de-Seine, Val d'Oise (1er et 2nd degrés) |
+
+Yvelines |
 
 Service interacadémique des examens et concours d'Arcueil |
 
@@ -242,15 +230,13 @@ Alpes-Maritimes, Var |
 
 Alpes-Maritimes |
 
-E. - Ministère de l'économie et des finances et ministère de l'action et des comptes publics
+E-Ministère de l'économie et des finances et ministère de l'action et des comptes publics
 
 1° Direction générale de la concurrence de la consommation et de la répression des fraudes
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
@@ -264,9 +250,7 @@ Hauts-de-Seine |
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Direction nationale garde-côtes des douanes |
 
@@ -346,9 +330,7 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Services centraux |
 
@@ -514,9 +496,7 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Dordogne |
 
@@ -1034,9 +1014,7 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Service d'appui aux ressources humaines (Noisy-le-Grand) |
 
@@ -1114,7 +1092,7 @@ Bordeaux |
 
 Gironde |
 
-Direction spécialisée des finances publiques pour l'Assistance publique - Hôpitaux de Paris |
+Direction spécialisée des finances publiques pour l'Assistance publique-Hôpitaux de Paris |
 
 Noisy-le-Grand |
 
@@ -1136,9 +1114,7 @@ Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Directions de contrôle fiscal |
 
@@ -1184,7 +1160,13 @@ Bordeaux |
 
 Gironde |
 
-F. - Ministère de l'intérieur
+Sud-Pyrénées |
+
+Toulouse |
+
+Hérault |
+
+F-Ministère de l'intérieur
 
 1° Administration territoriale de l'Etat
 
@@ -1192,9 +1174,7 @@ Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Corps préfectoral |
 
@@ -1365,14 +1345,6 @@ Drôme |
 Sud-Est (Lyon) |
 
 Isère |
-
-Service ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
 
 Eure |
 
@@ -1818,9 +1790,7 @@ Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1858,14 +1828,6 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Zone de sécurité et de défense ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Personnels du corps de commandement de la police nationale en poste en Île-de-France |
 
 Île-de-France (Paris-Versailles) |
@@ -1896,12 +1858,6 @@ Guadeloupe |
 
 Martinique |
 
-Guyane |
-
-Guyane |
-
-Martinique |
-
 Martinique |
 
 Martinique |
@@ -1913,6 +1869,12 @@ La Réunion |
 La Réunion |
 
 La Réunion |
+
+Martinique |
+
+Martinique |
+
+Martinique |
 
 3° Personnels civils de la direction générale de la gendarmerie nationale
 
@@ -1920,9 +1882,7 @@ Zone de sécurité et de défense ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1966,14 +1926,6 @@ Sud-Ouest (Bordeaux) |
 
 Gironde |
 
-Zone de sécurité et de défense ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée
-
-de la paye sans ordonnancement préalable |
-
 Guadeloupe |
 
 Guadeloupe |
@@ -2002,9 +1954,7 @@ La Réunion |
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Bureau des cultes du Bas-Rhin et du Haut-Rhin |
 
@@ -2022,13 +1972,11 @@ Personnels navigants contractuels relevant du groupement des moyens aériens du 
 
 Paris |
 
-G. - Services du Premier ministre - Juridictions administratives et financières
+G-Services du Premier ministre-Juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Magistrats des tribunaux administratifs et cours administratives d'appel |
 
@@ -2042,201 +1990,751 @@ Chambres régionales des comptes |
 
 Paris |
 
-H. - Ministère de la transition écologique et solidaire
+H-Ministère de la transition écologique et solidaire
 
-Service ou catégorie de personnel |
+Service déconcentré ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye
+Service ou département d'affectation |
 
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
-Personnels de catégorie A en poste dans les collectivités d'outre-mer régies par l'article 73 de la Constitution |
+Services centraux |
 
-Paris |
+Paris, Hauts-de-Seine |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Personnels de catégorie A |
+
+Collectivités d'outre-mer régies par l'article 73 de la Constitution |
+
+Val-de-Marne à compter du 1er janvier 2021 |
 
 Corps des attachés d'administration hors réseau scientifique |
 
-Paris |
+Tous départements |
+
+Val-de-Marne à compter du 1er janvier 2021 |
 
 Corps des ingénieurs des travaux publics de l'État hors réseau scientifique |
 
-Val-de-Marne |
-
-Autres personnels de catégorie A en fonctions dans les services déconcentrés de métropole hors réseau scientifique - Assistants de service social, infirmiers d'État, lieutenants de port, adjoints techniques des administrations de l'État, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
+Tous départements |
 
 Val-de-Marne |
 
-Corps des dessinateurs de l'équipement |
+Autres personnels de catégorie A, assistants de service social, infirmiers d'État, lieutenants de port, adjoints techniques des administrations de l'État, experts techniques de l'équipement, syndics des gens de mer, agents des services techniques et personnels non titulaires (hors contractuels Berkani ) |
+
+Services déconcentrés de métropole hors réseau scientifique |
 
 Val-de-Marne |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction interrégionale de la mer Manche Est Mer du Nord |
+Dessinateurs en poste dans les services déconcentrés et dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution |
+
+Tous départements |
+
+Val-de-Marne |
+
+Service déconcentré ou catégorie de personnel |
+
+Service ou département d'affectation |
+
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+
+Personnels de catégorie B et C ou à statut ouvrier |
+
+Directions interrégionales de la mer |
+
+Manche Est Mer du Nord (Le Havre) |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Nord Atlantique Manche Ouest (Nantes) |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Sud-Atlantique (Bordeaux) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Méditerranée (Marseille) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes |
+
+Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté |
+
+Côte-d'Or, Doubs, Jura, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire-de-Belfort |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Bretagne |
+
+Côtes d'Armor, Finistère, Ille-et-Vilaine, Morbihan |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Centre Val de Loire |
+
+Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Corse |
+
+Corse-du-Sud, Haute-Corse |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement du Grand Est |
+
+Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France |
+
+Aisne, Nord, Oise, Pas-de-Calais, Somme |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Normandie |
+
+Calvados, Eure, Manche, Orne, Seine-Maritime |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine |
+
+Charente, Charente-Maritime, Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne, Haute-Vienne |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie |
+
+Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire |
+
+Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Direction régionale de l'environnement, de l'aménagement et du logement de Provence Alpes Côte d'Azur |
+
+Alpes de Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Direction régionale et interdépartementale de l'équipement et de l'aménagement |
+
+Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise |
+
+Val-de-Marne |
+
+Direction régionale et interdépartementale de l'environnement et de l'énergie |
+
+Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise |
+
+Val-de-Marne |
+
+Direction régionale et interdépartementale de l'hébergement et du logement |
+
+Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise |
+
+Val-de-Marne |
+
+Directions de l'environnement, de l'aménagement et du logement |
+
+Guadeloupe, Guyane, Martinique, La Réunion |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Directions interdépartementales des routes |
+
+Atlantique (Bordeaux) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Centre-Est (Lyon) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Centre-Ouest (Limoges) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Est (Nancy) |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Île-de-France (Créteil) |
+
+Val-de-Marne |
+
+Massif central (Clermont-Ferrand) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Méditerranée (Marseille) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Nord (Lille) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Ouest (Rennes) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Nord-Ouest (Rouen) |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Sud-Ouest (Toulouse) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Directions départementales interministérielles et préfectures |
+
+Ain |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Aisne |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Allier |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Alpes de Haute-Provence |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Hautes-Alpes |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Alpes-Maritimes |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Ardèche |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Ardennes |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Ariège |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Aube |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Aude |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Aveyron |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Bouches-du-Rhône |
+
+Val-de-Marne à compter du 1er juillet 2020 |
 
 Calvados |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Auvergne-Rhône-Alpes en poste dans les départements de l'Ain, de la Loire et du Rhône |
+Val-de-Marne à compter du 1er octobre 2020 |
 
-Puy-de-Dôme |
+Directions départementales interministérielles et préfectures |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne-Franche-Comté en poste dans les départements du Doubs, du Jura, de la Haute-Saône et du territoire-de-Belfort |
+Cantal |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Charente |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Charente-Maritime |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Cher |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Corrèze |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Corse-du-Sud |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Haute-Corse |
+
+Val-de-Marne à compter du 1er septembre 2020 |
 
 Côte d'Or |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement du Grand Est en poste dans les départements des Ardennes, de l'Aube, de la Marne, de la Haute-Marne, du Bas-Rhin et du Haut-Rhin |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Moselle |
+Côtes d'Armor |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement des Hauts-de-France en poste dans les départements du Nord et du Pas-de-Calais |
+Val-de-Marne à compter du 1er juillet 2020 |
 
-Somme |
+Creuse |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Normandie en poste dans les départements du Calvados, de la Manche et de l'Orne |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Seine-Maritime |
+Dordogne |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine en poste dans les départements de la Charente, de la Charente-Maritime, des Deux-Sèvres et de la Vienne |
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Doubs |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Drôme |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Eure |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Eure-et-Loir |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Finistère |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Gard |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Haute-Garonne |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Gers |
+
+Val-de-Marne à compter du 1er juillet 2020 |
 
 Gironde |
 
-Personnels de catégorie B et C ou à statut ouvrier affectés à la direction régionale de l'environnement, de l'aménagement et du logement d'Occitanie en poste dans les départements de l'Aude, du Gard, de l'Hérault, de la Lozère et des Pyrénées-Orientales |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Haute-Garonne |
+Hérault |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Allier |
+Val-de-Marne à compter du 1er juillet 2020 |
 
-Rhône |
+Ille-et-Vilaine |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Ardennes |
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Directions départementales interministérielles et préfectures |
+
+Indre |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Indre-et-Loire |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Isère |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Jura |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Landes |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Loir-et-Cher |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Loire |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Haute-Loire |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Loire-Atlantique |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Loiret |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Lot |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Lot-et-Garonne |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Lozère |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Maine-et-Loire |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Manche |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Marne |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Haute-Marne |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Mayenne |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Meurthe-et-Moselle |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Meuse |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Morbihan |
+
+Val-de-Marne à compter du 1er juillet 2020 |
 
 Moselle |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Aube |
+Val-de-Marne à compter du 1er janvier 2021 |
 
-Moselle |
+Directions départementales interministérielles et préfectures |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Aude |
+Nièvre |
 
-Haute-Garonne |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Cantal |
+Nord |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Oise |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Orne |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Pas-de-Calais |
+
+Val-de-Marne à compter du 1er juillet 2020 |
 
 Puy-de-Dôme |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Charente |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Haute-Vienne |
+Pyrénées-Atlantiques |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Charente-Maritime |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Haute-Vienne |
+Hautes-Pyrénées |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Doubs |
+Val-de-Marne à compter du 1er juillet 2020 |
 
-Côte d'Or |
+Pyrénées-Orientales |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Gard |
+Val-de-Marne à compter du 1er juillet 2020 |
 
-Haute-Garonne |
+Bas-Rhin |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de l'Hérault |
+Val-de-Marne à compter du 1er janvier 2021 |
 
-Haute-Garonne |
+Haut-Rhin |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Jura |
-
-Côte d'Or |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Loire |
+Val-de-Marne à compter du 1er janvier 2021 |
 
 Rhône |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Lozère |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Haute-Garonne |
+Haute-Saône |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Marne |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Moselle |
+Saône-et-Loire |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Marne |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Moselle |
+Sarthe |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Nord |
+Val-de-Marne à compter du 1er janvier 2021 |
 
-Somme |
+Savoie |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Pas-de-Calais |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Somme |
+Haute-Savoie |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Puy-de-Dôme |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-Puy-de-Dôme |
+Seine-Maritime |
 
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Pyrénées-Orientales |
+Val-de-Marne à compter du 1er octobre 2020 |
 
-Haute-Garonne |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Bas-Rhin |
-
-Moselle |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Haut-Rhin |
-
-Moselle |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Haute-Saône |
-
-Côte d'Or |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles des Deux-Sèvres |
-
-Haute-Vienne |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles de la Vienne |
-
-Haute-Vienne |
-
-Personnels de catégorie B et C affectés à la préfecture et dans les directions départementales interministérielles du Territoire-de-Belfort |
-
-Côte d'Or |
-
-Personnels de catégorie B et C ou à statut ouvrier en poste dans les départements d'outre-mer collectivités d'outre-mer régies par l'article 73 de la Constitution |
-
-Calvados |
-
-Centre de valorisation des ressources humaines d'Arras |
-
-Somme |
-
-Centre de valorisation des ressources humaines de Clermont-Ferrand |
-
-Rhône |
-
-Directions régionales et interdépartementales de l'équipement et de l'aménagement, de l'environnement et de l'énergie, de l'hébergement et du logement d'Île-de-France |
+Seine-et-Marne |
 
 Val-de-Marne |
 
-Direction interdépartementale des routes Nord |
-
-Somme |
-
-École nationale des travaux publics de l'État de Vaulx-en-Velin |
+Yvelines |
 
 Val-de-Marne |
 
-Service Technique des Remontées Mécaniques et des Transports Guidés de Grenoble |
+Deux-Sèvres |
 
-Rhône |
+Val-de-Marne à compter du 1er septembre 2020 |
 
-I. - Ministère des solidarités et de la santé et ministère des sports
+Somme |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Tarn |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Directions départementales interministérielles et préfectures |
+
+Tarn-et-Garonne |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Var |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Vaucluse |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Vendée |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Vienne |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Haute-Vienne |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Vosges |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Yonne |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Territoire-de-Belfort |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Essonne |
+
+Val-de-Marne |
+
+Hauts-de-Seine |
+
+Val-de-Marne |
+
+Seine-Saint-Denis |
+
+Val-de-Marne |
+
+Val-de-Marne |
+
+Val-de-Marne |
+
+Val-d'Oise |
+
+Val-de-Marne |
+
+Autorité de contrôle des nuisances aéroportuaires (ACNUSA) |
+
+Paris |
+
+Val-de-Marne à compter du
+
+1er janvier 2021 |
+
+Armement des Phares et Balises (APB) |
+
+Bouches-du-Rhône, Calvados, Charente-Maritime, Côtes-d'Armor, Finistère, Corse-du-Sud, Haute-Corse, Gironde, Hauts-de-Seine, Hérault, Ille-et-Vilaine, Loire-Atlantique, Manche, Morbihan, Nord, Somme, Seine-Maritime, Vendée, Var, Guadeloupe, Guyane, Martinique, Saint-Pierre-et-Miquelon |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Centre d'évaluation, de documentation et d'innovation
+
+pédagogiques (CEDIP) |
+
+Hérault (Montpellier) |
+
+Val-de-Marne à compter du
+
+1er juillet 2020 |
+
+Centre d'études des tunnels (CETU) |
+
+Rhône (Bron) |
+
+Val-de-Marne à compter du
+
+1er septembre 2020 |
+
+Centre ministériel de valorisation des ressources humaines (CMVRH) |
+
+Bouches-du-Rhône (Aix-en-Provence) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Haute-Garonne (Toulouse) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Indre-et-Loire (Tours) |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Loire-Atlantique (Nantes) |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Meurthe-et-Moselle (Nancy) |
+
+Val-de-Marne à compter du 1er janvier 2021 |
+
+Pas-de-Calais (Arras) |
+
+Val-de-Marne à compter du 1er juillet 2020 |
+
+Puy-de-Dôme (Clermont-Ferrand) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Saône-et-Loire (Mâcon) |
+
+Val-de-Marne à compter du 1er septembre 2020 |
+
+Paris |
+
+Val-de-Marne |
+
+Seine-Maritime (Rouen) |
+
+Val-de-Marne à compter du 1er octobre 2020 |
+
+Centre national des ponts de secours (CNPS) |
+
+Seine-et-Marne (Verneuil-l'Etang) |
+
+Val-de-Marne |
+
+Centre national de réception des véhicules (CNRV) |
+
+Essonne (Montlhéry) |
+
+Val-de-Marne |
+
+Commission nationale du débat public (CNDP) |
+
+Paris |
+
+Val-de-Marne à compter du
+
+1er janvier 2021 |
+
+Commission de régulation de l'énergie (CRE) |
+
+Paris |
+
+Val-de-Marne à compter du
+
+1er janvier 2021 |
+
+École nationale de la sécurité et de l'administration de la mer (ENSAM) |
+
+Loire-Atlantique (Nantes) |
+
+Val-de-Marne à compter du
+
+1er janvier 2021 |
+
+École nationale des techniciens de l'équipement (ENTE) |
+
+Bouches-du-Rhône (Aix-en-Provence) |
+
+Val-de-Marne à compter du
+
+1er juillet 2020 |
+
+Nord (Valenciennes) |
+
+Val-de-Marne à compter du
+
+1er juillet 2020 |
+
+École nationale des travaux publics de l'État (ENTPE) |
+
+Rhône (Vaulx-en-Velin) |
+
+Val-de-Marne |
+
+Service technique des remontées mécaniques et des transports guidés (STRMTG) |
+
+Isère (Grenoble) |
+
+Val-de-Marne à compter du
+
+1er septembre 2020 |
+
+I-Ministère des solidarités et de la santé et ministère des sports
 
 Service |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Directions régionales de la jeunesse, des sports et de la cohésion sociale de métropole hors Île-de-France |
 
@@ -2262,13 +2760,11 @@ Direction de la jeunesse, des sports et de la cohésion sociale de La Réunion |
 
 Seine-Saint-Denis |
 
-J. - Ministère du travail
+J-Ministère du travail
 
 Service |
 
-Direction des finances publiques chargée de la paye
-
-sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de métropole hors Île-de-France |
 
