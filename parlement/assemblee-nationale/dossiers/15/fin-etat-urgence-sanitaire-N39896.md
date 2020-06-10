@@ -1,0 +1,73 @@
+# Sortie de l’état d’urgence sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39896
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/fin_etat_urgence_sanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-537.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-06-10 : 1er dépôt d'une initiative. (PRJLANR5L15B3077)
+  - 2020-06-10 : Etude d'impact (ETDIANR5L15B3077)
+  - 2020-06-10 : Avis du Conseil d'Etat (AVCEANR5L15B3077)
+  - 2020-06-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-10 : Renvoi en commission au fond
+      - 2020-06-10 : Nomination de rapporteur
+      - 2020-06-15 : Réunion de commission
+      - 2020-06-15 : Dépôt de rapport (RAPPANR5L15B3092, PRJLANR5L15BTC3092)
+  - Discussion en séance publique
+    - 2020-06-17 : Discussion en séance publique
+    - 2020-06-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-06-18 : Dépôt d'une initiative en navette (PRJLSNR5S339B0537)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-06-22 : Dépôt de rapport (RAPPSNR5S339B0540, PRJLSNR5S339BTC0541)
+  - Discussion en séance publique
+    - 2020-06-22 : Décision
+- Commission Mixte Paritaire
+  - 2020-06-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-06-25 : Nomination de rapporteur
+    - 2020-06-25 : Dépôt du rapport d'une CMP (RAPPANR5L15B3131)
+    - 2020-06-25 : Dépôt du rapport d'une CMP (RAPPSNR5S339B0569, PRJLSNR5S339BTC0570)
+  - 2020-06-25 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-06-23 : Dépôt d'une initiative en navette (PRJLANR5L15B3122)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-23 : Renvoi en commission au fond
+      - 2020-06-25 : Réunion de commission
+      - 2020-06-30 : Réunion de commission
+      - 2020-06-26 : Dépôt de rapport (RAPPANR5L15B3135, PRJLANR5L15BTC3135)
+  - Discussion en séance publique
+    - 2020-06-30 : Discussion en séance publique
+    - 2020-06-30 : Décision
+- Nouvelle Lecture
+  - 2020-06-30 : Dépôt d'une initiative en navette (PRJLSNR5S339B0578)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-30 : Renvoi en commission au fond
+      - 2020-07-01 : Dépôt de rapport (RAPPSNR5S339B0582, PRJLSNR5S339BTC0583)
+  - Discussion en séance publique
+    - 2020-07-02 : Discussion en séance publique
+    - 2020-07-02 : Décision
+- Lecture définitive
+  - 2020-07-02 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0458)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-02 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-07-02 : Discussion en séance publique
+    - 2020-07-02 : Décision
+- Conseil constitutionnel
+  - 2020-07-04 : Saisine du conseil constitutionnel
+  - 2020-07-09 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-07-09 : Promulgation d'une loi
