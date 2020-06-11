@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314667
+
+- Question : [SEQ200314667](seq200314667.md) — Avenir de la commission consultative de suivi des conséquences des essais nucléaires
+
+## Réponse
+
+*Armées (Mme la SE auprès de la ministre), JO du 2020-06-11, page 2689*
+
+L'article 7 de la loi n° 2010-2 du 5 janvier 2010 relative à la reconnaissance et l'indemnisation des victimes des essais nucléaires français a instauré une commission consultative de suivi des conséquences des essais nucléaires (CCSCEN). À l'occasion du grand débat national, le Gouvernement s'est engagé à encourager une administration plus simple, avec la suppression ou le regroupement de près de quatre-vingt-dix commissions consultatives. Dans certains cas, l'adoption d'une disposition législative était nécessaire. Ainsi, l'article 13 du projet de loi d'accélération et de simplification de l'action publique (ASAP) prévoyait la suppression de la CCSCEN dans la mesure où le positionnement de cette commission, qui ne s'était réunie qu'à trois reprises depuis sa création, interrogeait au regard des compétences du comité d'indemnisation des victimes d'essais nucléaires. Ce dernier, élevé au rang d'autorité administrative indépendante par la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale, dispose d'un réel pouvoir et constitue un acteur clé du dialogue avec les associations des vétérans des essais nucléaires. Toutefois, à la suite des recommandations de la commission spéciale du Sénat chargée de l'examen du projet de loi ASAP, le Gouvernement, sensible aux arguments des parlementaires de Polynésie française notamment, ne s'est pas opposé à la suppression de l'article 13 par la commission spéciale, et donc au maintien de la CCSCEN. Cette position a été réaffirmée lors de l'adoption du projet de loi en séance publique par le Sénat.
