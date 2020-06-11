@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113898
+
+- Question : [SEQ200113898](seq200113898.md) — Immatriculation des matériels agricoles
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-06-11, page 2665*
+
+L'application de l'arrêté du 19 décembre 2016 relatif à la réception des véhicules agricoles et forestiers et de leurs systèmes, composants et entités techniques concerne en premier lieu les constructeurs de ces équipements, les obligeant, depuis le 1er janvier 2019, à réceptionner leur modèle en respectant de nouvelles prescriptions techniques. Les véhicules mis en service ou immatriculés à partir du 1er janvier 2020 doivent s'y conformer. Toutefois, les constructeurs bénéficient d'une dérogation limitée en quantité pour écouler leurs équipements jusqu'au 31 décembre 2021. Le nouveau système d'immatriculation des véhicules (SIV) a été introduit par le décret n° 2009-136 du 9 février 2009, avec une échéance au 1er janvier 2010 pour les machines agricoles automotrices et le 1er janvier 2013 pour les remorques et machines agricoles remorquées de plus de 1,5 tonnes (article 13). À compter de ces dates, tous les véhicules neufs de ces catégories devaient être immatriculés, les véhicules déjà en service n'étaient pas concernés par la mesure et continuent de répondre aux dispositions appliquées lors de leur mise en circulation initiale. Depuis le 1er janvier 2020, les propriétaires d'équipements agricoles non à jour de l'obligation d'immatriculation doivent présenter un certificat d'homologation en vue de l'immatriculation. Les dérogations possibles sont de la compétence du ministère de la transition écologique et solidaire, en charge des transports. Celui-ci a accordé fin janvier 2020 un délai supplémentaire jusqu'au 31 août 2020 pour permettre aux propriétaires des véhicules concernés de régulariser leur situation.
