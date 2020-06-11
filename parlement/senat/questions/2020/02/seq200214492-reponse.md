@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214492
+
+- Question : [SEQ200214492](seq200214492.md) — Participation de Taïwan à l'organisation mondiale de la santé
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-06-11, page 2709*
+
+La position de la France s'agissant de la participation de Taïwan aux organisations internationales est constante et connue : sans déroger à la politique d'une seule Chine, la France est favorable à une telle participation, lorsque le statut des organisations le permet et que cette participation répond aux intérêts de la communauté internationale. En ce qui concerne la participation de Taïwan aux travaux de l'Organisation mondiale de la santé, la France est favorable à l'arrangement agréé par la Chine en 2009 permettant la participation de l'île du fait des enjeux sanitaires mondiaux. La formule trouvée depuis 2009, permettant une participation de Taïwan à l'Assemblée mondiale de la santé (AMS) en tant qu'observateur, a contribué à une bonne circulation de l'information en matière médicale entre les différentes aires géographiques, tirant notamment les leçons de la crise du SRAS en Asie au début des années 2000. Il est important pour le bon fonctionnement du système mondial de santé de maintenir des échanges techniques et scientifiques avec Taiwan en matière de veille sanitaire et pour la préparation et la riposte aux crises sanitaires comme la pandémie du Covid-19. Un approche inclusive en matière de santé globale couvrant tous les territoires est en effet indispensable afin d'éviter de créer un vide sanitaire qui pourrait compromettre nos efforts dans la lutte contre la Covid-19 et serait ainsi préjudiciable au monde entier. La France continuera à plaider pour que Taïwan soit associée aux travaux de l'Organisation mondiale de la santé afin d'éviter de créer un vide sanitaire, particulièrement dans le contexte actuel marqué par la pandémie de Covid-19.
