@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012851
+
+- Question : [SEQ191012851](seq191012851.md) — Déploiement de la charte numérique et prévention pour la sécurité routière
+
+## Réponse
+
+*Intérieur, JO du 2020-06-11, page 2713*
+
+Comme l'avait annoncé le Président de la République, le comité interministériel de la sécurité routière du 9 janvier 2018 a défini des nouvelles mesures de la lutte contre l'insécurité routière notamment par la mise en place « d'une charte numérique » du conducteur responsable à compter du 4 décembre 2018. Ainsi, avant d'accéder à la phase de signature de la charte et de téléchargement du certificat d'examen du permis de conduire, document administratif qui permet au candidat de conduire jusqu'à établissement de son titre de conduite définitif, les candidats reçus à l'examen du permis de conduire doivent, d'une part visionner une vidéo de prévention et d'autre part lire les six conseils élémentaires de prudence. La vidéo introductive a pour dessein d'alerter les conducteurs novices des risques inhérents à la conduite d'un véhicule notamment durant la période de consolidation de leur expérience de la conduite et également de l'intérêt d'adopter une conduite prudente pour réduire l'accidentalité dont sont victimes les conducteurs non expérimentés. Ensuite, ils sont invités à lire les six conseils « sécurité routière » en lien direct avec les causes principales d'accidents mortels impliquant dans la majorité des cas les conducteurs novices, tels que la conduite et la consommation d'alcool ou de stupéfiants ou encore le non respect des limitations de vitesse. La vidéo de démonstration de la charte numérique « permis de conduire » est accessible via le lien suivant : https://www.securite-routiere.gouv.fr/actualites/les-nouveaux-titulaires-du-permis-de-conduire-doivent-maintenant-signer-la-charte-du
