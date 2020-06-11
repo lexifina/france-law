@@ -1,0 +1,36 @@
+# Décision n° 2020/67/NOVASTEAM/1 du 3 juin 2020 relative au projet NOVASTEAM, unité de préparation et chaufferie CSR à Laneuveville-devant-Nancy
+
+- Nature : Decision
+- Numéro : 2020/67/NOVASTEAM/1
+- Date du texte : 2020-06-03
+- Publication : 2020-06-11
+- JO n° : 0142
+- NOR : CNPX2014161S
+- Origine : JORF n°0142 du 11 juin 2020
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041983395
+
+La Commission nationale du débat public,
+
+Vu le code de l'environnement en ses articles L. 121-1 et suivants, notamment l'article L. 121-15-1 ;
+
+Vu le courrier de saisine et le dossier annexé de M. Guillaume BOMEL, président de Suez, en date du 19 mai 2020, demandant la désignation d'un garant dans le cadre d'une démarche de concertation préalable sur le projet NOVASTEAM, unité de préparation et chaufferie CSR à Laneuveville-devant-Nancy, en application de l'article L. 121-17, et selon les modalités des articles L. 121-16 et L. 121-16-1 ;
+
+Vu le document de positionnement de la CNDP du 4 mai 2020 sur les principes, formes et modalités du débat public pendant l'épidémie covid-19 ;
+
+Après en avoir délibéré,
+
+Décide :
+
+## Article 1
+
+M. Bernard CHRISTEN est désigné garant de la concertation préalable sur le projet NOVASTEAM, unité de préparation et chaufferie CSR à Laneuveville-devant-Nancy.
+
+## Article 2
+
+La présente décision sera publiée au Journal officiel de la République française.
+
+---
+
+La présidente,
+
+C. Jouanno
