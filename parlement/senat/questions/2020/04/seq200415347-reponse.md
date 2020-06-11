@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415347
+
+- Question : [SEQ200415347](seq200415347.md) — Conditions de quorum et de délégation de vote au sein des assemblées locales
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-06-11, page 2696*
+
+Les articles 2 et 6 de l'ordonnance n° 2020-391 du 1er avril 2020 visant à assurer la continuité du fonctionnement des institutions locales et de l'exercice des compétences des collectivités territoriales et des établissements publics locaux afin de faire face à l'épidémie de covid-19 prévoient respectivement que « les organes délibérants des collectivités territoriales (…) ne délibèrent valablement que lorsque le tiers de leurs membres en exercice est présent ou représenté. (...) Dans tous les cas, un membre de ces organes (...) peut être porteur de deux pouvoirs » et « dans les collectivités territoriales (...) le maire ou le président peut décider que la réunion de l'organe délibérant se tient par visioconférence ou à défaut audioconférence ». Ces dispositions sont applicables aux commissions permanentes. L'application combinée de ces dispositions permet à l'assemblée de valablement délibérer si un neuvième de ses membres sont présents, et chacun muni de deux pouvoirs, nonobstant la possibilité de se réunir par téléconférence. Le dispositif a ainsi été prévu pour apporter un maximum de souplesse aux collectivités dans les conditions exceptionnelles actuelles, pour la seule durée de l'état d'urgence sanitaire. De plus, l'usage de la téléconférence permet à un maximum d'élus de participer aux séances, et le fait pour un élu de donner pouvoir à un autre élu ne dénature pas le sens du vote de l'assemblée. Enfin, l'ordonnance donne toute latitude aux collectivités pour organiser leurs délibérations : l'utilisation d'un simple téléphone suffit.
