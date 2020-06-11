@@ -10,11 +10,15 @@ TITRES EN COURS DE VALIDITÉ À PRÉSENTER
 
 pour la revalidation du brevet sauf conditions particulières
 
-mentionnées dans la colonne suivante |
+mentionnées dans la colonne suivante
+
+|
 
 CONDITIONS
 
-particulières |
+particulières
+
+|
 
 Brevets pont |
 
@@ -22,7 +26,7 @@ Brevet de capitaine 200 |
 
 CFBS |
 
-|
+(i) |
 
 EM I, EM II ou EM III |
 
@@ -152,15 +156,15 @@ Brevet de capitaine 500 |
 
 CFBS |
 
-|
+(i) |
 
 CQALI |
 
-|
+(i) |
 
 CAEERS |
 
-|
+(i) |
 
 EM II ou EM III |
 
@@ -282,15 +286,15 @@ Brevet de capitaine 3 000 |
 
 CFBS |
 
-|
+(i) |
 
 CQALI |
 
-|
+(i) |
 
 CAEERS |
 
-|
+(i) |
 
 EM III |
 
@@ -372,15 +376,15 @@ Brevet de capitaine |
 
 CFBS |
 
-|
+(i) |
 
 CQALI |
 
-|
+(i) |
 
 CAEERS |
 
-|
+(i) |
 
 EM III |
 
@@ -734,15 +738,15 @@ Brevet de C1NM |
 
 CFBS |
 
-|
+(i) |
 
 CQALI |
 
-|
+(i) |
 
 CAEERS |
 
-|
+(i) |
 
 EM III |
 
@@ -785,3 +789,5 @@ Les titulaires du certificat d'enseignement médical de niveau II (EM II) ne peu
 (g) Les CFBS, CQALI et CAEERS exigés à la pêche (conformes STCW 95 ou STCW 2010) sont vérifiés lors de la première revalidation uniquement. En effet, ces certificats ont une durée de validité illimitée à la pêche et n'ont pas à être recyclés.
 
 (h) En l'absence de l'attestation de formation de base à la haute tension requise, la restriction suivante est apposée sur le brevet : " Non valide pour le service à bord des navires équipés de systèmes électriques haute tension ".
+
+(i) Pour les marins exerçant l'activité de pilotage telle que définie à l'article L. 5341-1 du code des transports, en l'absence des CFBS, CQALI et de CAEERS en cours de validité le brevet peut être revalidé sous réserve que le demandeur soit titulaire d'un certificat de formation à la sécurité pour l'exercice du pilotage maritime en cours de validité telle que prévue par l'arrêté du 2 juin 2020 relatif à la délivrance du certificat de formation à la sécurité pour l'exercice du pilotage maritime. Dans ce cas, la restriction suivante est apposée sur le brevet : “ limité à l'activité de pilotage, et à la conduite des moyens nautiques jusqu'à 200 UMS nécessaires à celle-ci ”.
