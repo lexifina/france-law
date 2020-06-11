@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200114138
+
+- Question : [SEQ200114138](seq200114138.md) — Succession du Dalaï-Lama
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-06-11, page 2708*
+
+La France est attachée au respect des libertés fondamentales et suit avec attention la situation au Tibet, s'agissant en particulier de la préservation de l'identité culturelle et du patrimoine tibétain. La France rappelle régulièrement sa préoccupation quant à la situation des droits de l'Homme en Chine, et notamment au Tibet, tant lors d'échanges à haut niveau avec les autorités chinoises que dans le cadre multilatéral. À l'occasion du passage de la Chine à l'examen périodique universel (EPU) en novembre 2018, la France a adressé six recommandations aux autorités chinoises, dont deux portant sur la nécessité de garantir la liberté d'expression ainsi que la liberté religieuse et de croyance, notamment au Tibet et au Xinjiang. Dans le cadre du Conseil des droits de l'Homme, dont la dernière session s'est tenue en mars 2020, la France et l'Union européenne ont rappelé publiquement leur préoccupation persistante s'agissant de la situation des droits de l'Homme en Chine, et plus particulièrement au Tibet. Au plan bilatéral, la visite en France du président chinois XI Jinping en mars 2019 et la visite en Chine du Président de la République en novembre 2019 furent l'occasion d'échanges francs sur les préoccupations françaises et européennes concernant la situation des droits fondamentaux en Chine. La France appelle à la reprise du dialogue entre les envoyés du Dalaï Lama et les autorités chinoises afin de trouver une solution durable, respectueuse de la culture, de l'identité et de la langue tibétaines. La question de la succession du Dalaï-Lama appelle toute son attention et est suivie de près par le ministère de l'Europe et des affaires étrangères.
