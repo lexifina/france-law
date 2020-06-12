@@ -1132,7 +1132,25 @@ R. 184, 1er et 2e alinéa ; R. 200.
 
 Agrément d'un réseau national de contrôle technique des véhicules. |
 
-Article R. 323-8 |
+Article R. 323-8
+
+|
+
+4 |
+
+Décisions relatives à l'habilitation et au commissionnement des personnes à rechercher et constater les infractions et les manquements en matière de surveillance du marché des véhicules à moteur |
+
+Art. L. 329-5 à L. 329-7
+
+Art. R. 329-2 à R. 329-4 |
+
+5 |
+
+Décisions relatives aux contrôles de conformité (recueil de renseignements et de documents, notification de la non-conformité, mesures et sanctions administratives et saisine du procureur de la République) en matière surveillance du marché des véhicules à moteur |
+
+Art. L. 329-13 à L. 329-26 et L. 329-30 à L. 329.46
+
+Art. R. 329-5 à R. 329-24 |
 
 Décret n° 55-1297 du 3 octobre 1955 modifié fixant les conditions de fonctionnement du régime complémentaire de retraite du transport
 
