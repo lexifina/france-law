@@ -20,7 +20,7 @@ Plafond de la protection
 
 100 000 € par déposant et par établissement de crédit (1)
 
-[ s'il y a lieu :] Les dénominations commerciales ci-après font partie de votre établissement de crédit [insérer toutes les dénominations commerciales qui opèrent sous la même licence]
+[s'il y a lieu :] Les dénominations commerciales ci-après font partie de votre établissement de crédit [insérer toutes les dénominations commerciales qui opèrent sous la même licence]
 
 |
 
@@ -74,7 +74,7 @@ Fonds de garantie des dépôts et de résolution (FGDR)
 
 Téléphone : 01-58-18-38-08
 
-Courriel : contact@garantiedesdepots.fr
+Courriel : contact @ garantiedesdepots. fr
 
 |
 
@@ -84,7 +84,7 @@ Pour en savoir plus :
 
 Reportez-vous au site internet du FGDR :
 
-http://www.garantiedesdepots.fr/
+http :// www. garantiedesdepots. fr/
 
 |
 
@@ -92,7 +92,7 @@ Accusé de réception par le déposant : (5)
 
 |
 
-Le : …/…/…
+Le : …/ …/ …
 
 |
 
@@ -100,9 +100,9 @@ Informations complémentaires :
 
 (1) Limite générale de la protection : Si un dépôt est indisponible parce qu'un établissement de crédit n'est pas en mesure d'honorer ses obligations financières, les déposants sont indemnisés par un système de garantie des dépôts. L'indemnité est plafonnée à 100 000 € par personne et par établissement de crédit. Cela signifie que tous les comptes créditeurs auprès d'un même établissement de crédit sont additionnés afin de déterminer le montant éligible à la garantie (sous réserve de l'application des dispositions légales ou contractuelles relatives à la compensation avec ses comptes débiteurs). Le plafond d'indemnisation est appliqué à ce total. Les dépôts et les personnes éligibles à cette garantie sont mentionnés à l'article L. 312-4-1 du code monétaire et financier (pour toute précision sur ce point, voir le site internet du Fonds de garantie des dépôts et de résolution).
 
-Par exemple, si un client détient un compte d'épargne éligible (hors livret A, livret de développement durable et livret d'épargne populaire) dont le solde est de 90 000 € et un compte courant dont le solde est de 20 000 €, l'indemnisation sera plafonnée à 100 000 €.
+Par exemple, si un client détient un compte d'épargne éligible (hors livret A, livret de développement durable et solidaire et livret d'épargne populaire) dont le solde est de 90 000 € et un compte courant dont le solde est de 20 000 €, l'indemnisation sera plafonnée à 100 000 €.
 
-Cette méthode s'applique également lorsqu'un établissement de crédit opère sous plusieurs marques commerciales. [insérer le nom de l'établissement de crédit qui a accepté le dépôt] opère également sous la (les) dénomination(s) suivante(s) : [insérer toutes les autres dénominations commerciales de l'établissement de crédit concerné]. Cela signifie que l'ensemble des dépôts d'une même personne acceptés sous ces marques commerciales bénéficie d'une indemnisation maximale de 100 000 €.
+Cette méthode s'applique également lorsqu'un établissement de crédit opère sous plusieurs marques commerciales. [insérer le nom de l'établissement de crédit qui a accepté le dépôt] opère également sous la (les) dénomination (s) suivante (s) : [insérer toutes les autres dénominations commerciales de l'établissement de crédit concerné]. Cela signifie que l'ensemble des dépôts d'une même personne acceptés sous ces marques commerciales bénéficie d'une indemnisation maximale de 100 000 €.
 
 (2) Principaux cas particuliers :
 
@@ -124,9 +124,9 @@ Ce délai concerne les indemnisations qui n'impliquent aucun traitement particul
 
 La mise à disposition se fait, au choix du Fonds de garantie des dépôts et de résolution :
 
-- soit par l'envoi d'une lettre-chèque en recommandé avec avis de réception ;
+-soit par l'envoi d'une lettre-chèque en recommandé avec avis de réception ;
 
-- soit par mise en ligne des informations nécessaires sur un espace internet sécurisé, ouvert spécialement à cet effet par le Fonds et accessible à partir de son site officiel (cf. ci-après), afin de permettre au bénéficiaire de faire connaitre le nouveau compte bancaire sur lequel il souhaite que l'indemnisation lui soit versée par virement.
+-soit par mise en ligne des informations nécessaires sur un espace internet sécurisé, ouvert spécialement à cet effet par le Fonds et accessible à partir de son site officiel (cf. ci-après), afin de permettre au bénéficiaire de faire connaitre le nouveau compte bancaire sur lequel il souhaite que l'indemnisation lui soit versée par virement.
 
 (4) Autres informations importantes :
 
