@@ -1,0 +1,53 @@
+# Inclusion dans l’emploi par l’activité économique
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39924
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/inclusion_dans_l_emploi_par_l_activite_economique
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl19-710.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-06-16 : 1er dépôt d'une initiative. (PIONANR5L15B3109)
+  - 2020-07-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-16 : Renvoi en commission au fond
+      - 2020-07-22 : Nomination de rapporteur
+      - 2020-07-22 : Réunion de commission
+      - 2020-09-09 : Réunion de commission
+      - 2020-09-09 : Réunion de commission
+      - 2020-09-15 : Réunion de commission
+      - 2020-09-09 : Dépôt de rapport (RAPPANR5L15B3302, PIONANR5L15BTC3302)
+  - Discussion en séance publique
+    - 2020-09-15 : Discussion en séance publique
+    - 2020-09-15 : Discussion en séance publique
+    - 2020-09-16 : Discussion en séance publique
+    - 2020-09-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-09-16 : Dépôt d'une initiative en navette (PIONSNR5S339B0710)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-09-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-07 : Dépôt de rapport (RAPPSNR5S359B0017, PIONSNR5S359BTC0018)
+  - Discussion en séance publique
+    - 2020-10-13 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-14 : Dépôt d'un projet de loi (PIONANR5L15B3406)
+  - 2020-10-14 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-28 : Nomination de rapporteur
+    - 2020-10-28 : Dépôt du rapport d'une CMP (RAPPANR5L15B3485, PIONANR5L15BTC3485)
+    - 2020-10-28 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0089, PIONSNR5S359BTC0090)
+  - Discussion en séance publique
+    - 2020-11-04 : Discussion en séance publique
+    - 2020-11-04 : Décision
+  - Discussion en séance publique
+    - 2020-11-30 : Discussion en séance publique
+    - 2020-11-30 : Discussion en séance publique
+    - 2020-11-30 : Décision
+  - 2020-10-28 : Décision de la CMP
+- Promulgation de la loi
+  - 2020-12-14 : Promulgation d'une loi
