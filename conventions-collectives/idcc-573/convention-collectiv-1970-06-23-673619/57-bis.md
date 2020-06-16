@@ -1,64 +1,62 @@
 # Article 57 bis
 
-Les dispositions suivantes, établies en application des articles L. 4523-10, L. 4614-14 et L. 4614-16 du code du travail, déterminent les conditions dans lesquelles les représentants du personnel au comité d'hygiène, de sécurité et des conditions de travail (CHSCT), dans les établissements employant de 50 à moins de 300 salariés, bénéficient de la formation nécessaire à l'exercice de leurs missions.
+Les dispositions suivantes, établies en application de l'article L. 2315-18 du code du travail, déterminent les conditions dans lesquelles les membres de la délégation du personnel du comité social et économique bénéficient de la formation nécessaire à l'exercice de leurs missions en matière de santé, de sécurité et de conditions de travail.
 
-1. Bénéficiaires
+1.   Bénéficiaires
 
-Bénéficient de ces dispositions les salariés qui détiennent un mandat de représentant du personnel au CHSCT et qui n'ont pas reçu de formation à ce titre, dans la limite de 5 jours de formation au total pour chacun.
+Bénéficient de ces dispositions les membres de la délégation du personnel du comité social et économique, les suppléants et les représentants syndicaux au CSE, qui n'ont pas reçu de formation à ce titre, ainsi que les référents en matière de lutte contre le harcèlement sexuel et les agissements sexistes.
 
-2. Nature de la formation
+2.   Nature de la formation
 
-La formation dont bénéficient les membres précédemment cités a pour objet de développer leur aptitude à déceler et à mesurer les risques professionnels et à analyser les conditions de travail.
-
-Cette formation, qui revêt un caractère théorique et pratique, tend à initier ceux qui en bénéficient aux méthodes et aux procédés à mettre en oeuvre pour prévenir les risques professionnels et améliorer les conditions de travail.
+La formation dont bénéficient les membres précédemment cités a pour objet de développer leur aptitude à déceler et à mesurer les risques professionnels et à analyser les conditions de travail. Cette formation qui revêt un caractère théorique et pratique, tend à initier ceux qui en bénéficient aux méthodes et aux procédés à mettre en œuvre pour prévenir les risques professionnels et améliorer les conditions de travail.
 
 Elle est dispensée à chaque intéressé selon un programme qui tient compte, entre autres, des caractéristiques de la profession et des caractères spécifiques de son entreprise.
 
-3. Conditions d'exercice du droit au stage de formation
+3.   Conditions d'exercice du droit au stage de formation
 
 a) Durée du stage de formation.
 
-Le stage de formation est d'une durée maximale de 5 jours ouvrables.
+La durée du stage de formation est d'une durée minimale de :
 
-b) Demande de stage de formation.
+– 5 jours dans les entreprises d'au moins 300 salariés ;
 
-Le membre du CHSCT qui entend bénéficier d'un stage de formation en fait la demande à son employeur. Cette demande précise la date à laquelle il souhaite bénéficier d'un stage, la durée de celui-ci, son prix ainsi que le nom de l'organisme qui serait chargé de l'assurer.
+– 3 jours dans les entreprises de moins de 300 salariés.
 
-La demande de stage doit être présentée au moins 2 mois avant le début de celui-ci. A sa date de présentation, elle est imputée par priorité sur le contingent de bénéficiaires de formation économique, sociale et syndicale fixé par arrêté ministériel.
+b) Demande de stage de formation
 
-Le congé est de droit, dans la limite globale de :
+Le membre du comité social et économique qui entend bénéficier d'un stage de formation en fait la demande à son employeur. Cette demande précise la date à laquelle il souhaite bénéficier d'un stage, la durée de celui-ci, son prix ainsi que le nom de l'organisme qui serait chargé de l'assurer.
 
-- établissements de moins de 120 salariés : 5 jours de formation au total sur 2 ans ;
+La demande de stage doit être présentée au moins 30 jours avant le début de celui-ci.
 
-- établissements de 120 salariés et plus : 5 jours de formation au total par an.
+À sa date de présentation, elle est imputée par priorité sur le contingent de bénéficiaires de formation économique, sociale et syndicale fixé par arrêté ministériel, conformément à l'article R. 2315-17 du code du travail.
 
-Dans les deux cas, les jours peuvent être répartis entre plusieurs membres du CHSCT. L'effectif à prendre en considération est celui qui est constaté lors de la dernière élection professionnelle (CE ou DP) qui précède la désignation des membres du CHSCT.
+Dans les 2 cas, les jours peuvent être répartis entre plusieurs membres du comité social et économique. L'effectif à prendre en considération est celui qui précède la désignation des membres du comité social et économique. Toutefois, l'employeur peut reporter le stage, si l'absence du salarié est susceptible d'avoir à la date prévue des conséquences préjudiciables au service de la clientèle ou à la bonne marche de l'entreprise. Cette faculté de report ne peut être exercée qu'une fois vis-à-vis d'une même demande, et dans la limite de 6 mois.
 
-Toutefois, l'employeur peut reporter le stage si l'absence du salarié est susceptible d'avoir à la date prévue des conséquences préjudiciables au service de la clientèle ou à la bonne marche de l'entreprise. Cette faculté de report ne peut être exercée qu'une fois vis-à-vis d'une même demande.
+La réponse de l'employeur doit être notifiée à l'intéressé dans un délai de 8 jours à compter de la réception de la demande.
 
-La reponse de l'employeur doit être notifiée à l'intéressé dans un délai de 2 semaines à compter de la réception de la demande.
+4.   Organismes chargés d'assurer la formation
 
-4. Organismes chargés d'assurer la formation
+Il pourra être fait appel pour la formation des membres du comité social et économique :
 
-Outre ceux qui figurent sur la liste officielle des organismes habilités par les pouvoirs publics au niveau national ou régional, il pourra être fait appel pour la formation des membres du CHSCT à tout organisme de formation régulièrement déclaré, ainsi qu'aux caisses régionales d'assurance maladie.
+– soit à des organismes figurant sur une liste arrêtée par le ministre chargé du travail selon la procédure prévue à l'article R. 2145-3 du code du travail ;
 
-L'organisme délivre, à la fin du stage, une attestation d'assiduité que l'intéressé remet à son employeur lorsqu'il reprend son travail.
+– soit à des organismes agréés par le préfet de région selon la procédure prévue à l'article R. 2315-8 du code du travail.
 
-5. Prise en charge de la rémunération des stagiaires et des frais afférents à la formation
+5.   Prise en charge de la rémunération des stagiaires et des frais afférents à la formation
 
-a) La rémunération des stagiaires est maintenue par l'employeur dans la limite fixée au paragraphe 3 b), 3ème alinéa.
+a) La rémunération des stagiaires est maintenue par l'employeur dans la limite fixée au paragraphe 3 a.
 
 b) Dans les mêmes limites, l'employeur prend également en charge les frais afférents à la formation, comme suit :
 
-- frais de déplacement : à concurrence du tarif de seconde classe des chemins de fer, applicable au trajet le plus direct depuis le siège de l'établissement jusqu'au lieu où est dispensée la formation ;
+– frais de déplacement : à concurrence du tarif de seconde classe des chemins de fer, applicable au trajet le plus direct depuis le siège de l'établissement jusqu'au lieu où est dispensée la formation ;
 
-- frais de séjour : à concurrence du montant de l'indemnité de mission fixée en application de l'article 9 du décret du 10 août 1966 ;
+– frais de séjour : à concurrence du montant de l'indemnité de mission fixée en application de l'article 9 du décret du 10 août 1966 ;
 
-- rémunération des organismes de formation : à concurrence d'un montant qui ne peut excéder, par jour et par stagiaire, une fois et demie le montant de l'aide financière accordée par l'Etat pour la formation des conseillers prud'hommes.
+– rémunération des organismes de formation : à concurrence d'un montant qui ne peut dépasser, par jour et par stagiaire, l'équivalent de trente-six fois le montant horaire du salaire minimum de croissance.
 
-Pour des raisons de maîtrise des coûts, cette prise en charge est limitée aux stages organisés dans la région administrative où est localisé l'établissement, sauf accord entre les représentants du personnel au CHSCT et l'employeur. Cette limitation disparaît en cas de deuxième demande à la suite d'un report du fait de l'employeur.
+c) Les dépenses de rémunération des organismes de formation et les frais de déplacement et de séjour exposés par les stagiaires ne s'imputent pas sur la participation au développement de la formation professionnelle continue.
 
-c) Les dépenses correspondant au maintien de la rémunération des stagiaires et à la prise en charge des frais afférents à la formation peuvent être imputées sur la participation des employeurs au financement de la formation professionnelle continue.
+Dans les entreprises de moins de 300 salariés, les dépenses engagées au titre de la rémunération du temps de formation des stagiaires sont déductibles dans la limite de 0,08 % du montant des salaires payés pendant l'année en cours, du montant de la participation des employeurs au financement de la formation professionnelle continue.
 
 NOTA :
 
