@@ -1,0 +1,76 @@
+# Code de la sécurité intérieure
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39947
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/code_securite_interieure
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-669.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-06-17 : 1er dépôt d'une initiative. (PRJLANR5L15B3117)
+  - 2020-06-17 : Etude d'impact (ETDIANR5L15B3117)
+  - 2020-06-17 : Avis du Conseil d'Etat (AVCEANR5L15B3117)
+  - 2020-06-17 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-17 : Renvoi en commission au fond
+      - 2020-07-01 : Nomination de rapporteur
+      - 2020-06-24 : Réunion de commission
+      - 2020-07-01 : Réunion de commission
+      - 2020-07-08 : Réunion de commission
+      - 2020-07-21 : Réunion de commission
+      - 2020-07-08 : Dépôt de rapport (RAPPANR5L15B3186, PRJLANR5L15BTC3186)
+    - Travaux d'une commission saisie pour avis
+      - 2020-06-30 : Saisine pour avis d'une commission
+      - 2020-07-07 : Nomination de rapporteur
+      - 2020-07-07 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-07-21 : Discussion en séance publique
+    - 2020-07-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-07-22 : Dépôt d'une initiative en navette (PRJLSNR5S339B0669)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-07 : Dépôt de rapport (RAPPSNR5S359B0011, PRJLSNR5S359BTC0012)
+  - Discussion en séance publique
+    - 2020-10-14 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-22 : Nomination de rapporteur
+    - 2020-10-22 : Dépôt du rapport d'une CMP (RAPPANR5L15B3471)
+    - 2020-10-23 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0071, PRJLSNR5S359BTC0072)
+  - 2020-10-22 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-10-15 : Dépôt d'une initiative en navette (PRJLANR5L15B3433)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-15 : Renvoi en commission au fond
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-16 : Réunion de commission
+      - 2020-11-04 : Dépôt de rapport (RAPPANR5L15B3520, PRJLANR5L15BTC3520)
+  - Discussion en séance publique
+    - 2020-11-16 : Discussion en séance publique
+    - 2020-11-16 : Décision
+- Nouvelle Lecture
+  - 2020-11-17 : Dépôt d'une initiative en navette (PRJLSNR5S359B0130)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-17 : Renvoi en commission au fond
+      - 2020-12-09 : Dépôt de rapport (RAPPSNR5S359B0208, PRJLSNR5S359BTC0209)
+  - Discussion en séance publique
+    - 2020-12-14 : Décision
+- Lecture définitive
+  - 2020-12-15 : Dépôt d'une initiative en navette (PRJLSNR5S359BTA0036)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-15 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-12-17 : Discussion en séance publique
+    - 2020-12-17 : Décision
+- Promulgation de la loi
+  - 2020-12-24 : Promulgation d'une loi
