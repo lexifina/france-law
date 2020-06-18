@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113931
+
+- Question : [SEQ200113931](seq200113931.md) — Financement de l'association L214
+
+## Réponse
+
+*Intérieur, JO du 2020-06-18, page 2836*
+
+Il existe deux structures connues sous le nom « L 214 ». L'association « L 214 » a été créée en 2008. Son siège social est alors à Vissac-Auteyrac dans le département de la Haute-Loire. Le siège a été régulièrement transféré en 2015 à Strasbourg dans le Bas-Rhin. L'association est donc depuis cette date régie par les articles 21 à 79-IV du code civil local, et non plus par la loi du 1er juillet 1901, s'agissant de la création et de l'organisation des associations d'Alsace-Moselle. Dans les autres domaines, l'association reste soumise au droit général, en particulier en termes de transparence financière. Ainsi, dès lors qu'une association reçoit annuellement plus de 153 000 euros de subventions ou plus de 153 000 euros de dons ouvrant droit à avantage fiscal, elle doit établir un compte d'emploi des ressources et publier ses comptes annuels au Journal officiel, comprenant un bilan, un compte de résultat et une annexe intégrant ce compte d'emploi des ressources. Elle doit également faire certifier ses comptes par un commissaire aux comptes. Le fonds de dotation « L 214 pour la défense des animaux » a quant à lui été créé en 2014, son siège social étant à Vissac-Auteyrac dans le département de la Haute-Loire. Quel que soit le montant de leurs ressources, les fonds de dotation sont tenus de publier leurs comptes ; dès lors que leurs ressources dépassent 10 000 € en fin d'exercice, ils doivent désigner un commissaire aux comptes. En outre, les associations faisant appel à la générosité publique sont soumises au contrôle de la Cour des comptes et de l'administration fiscale, qui s'assure du bien-fondé de la déductibilité des dons prévue par les articles 200 et 238 bis du code général des impôts.
