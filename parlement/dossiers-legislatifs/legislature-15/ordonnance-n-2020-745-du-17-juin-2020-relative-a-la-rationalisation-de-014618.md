@@ -1,0 +1,28 @@
+# Ordonnance n° 2020-745 du 17 juin 2020 relative à la rationalisation de la hiérarchie des normes applicable aux documents d'urbanisme
+
+- Type : ordonnance publiee
+- Législature : XVème législature
+- Ouvert le : 2020-06-18
+- Mis à jour le : 2020-06-18
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000042014618
+
+## Ordonnance n° 2020-745 du 17 juin 2020 relative à la rationalisation de la hiérarchie des normes applicable aux documents d'urbanisme
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042007747
+
+## Rapport au Président de la République relatif à l'ordonnance n° 2020-745 du 17 juin 2020 relative à la rationalisation de la hiérarchie des normes applicable aux documents d'urbanisme
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042007738
+
+## Documents
+
+- [Communiqué de presse du Conseil des ministres du 17 juin 2020](https://www.gouvernement.fr/conseil-des-ministres/2020-06-17/rationalisation-de-la-hierarchie-des-normes-applicable-aux-d) La ministre de la cohésion des territoires et des relations avec les collectivités territoriales et le ministre auprès de la ministre de la cohésion des territoires et des relations avec les collectivités territoriales, chargé de la ville et du logement, ont présenté une ordonnance relative à la rationalisation de la hiérarchie des normes applicable aux documents d'urbanisme. Cette ordonnance, prévue par l’article 46 de la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l’aménagement et du numérique (ELAN), limite et simplifie les obligations qui imposent aux document d’urbanisme transversaux (schémas de cohérence territoriale, plans locaux d’urbanisme et autres documents en tenant lieu), d’intégrer les enjeux d’autres documents de planification relevant de politiques sectorielles telles que les risques, les continuités écologiques, les déplacements, etc. Selon les territoires, les collectivités territoriales pouvaient avoir à examiner jusqu’à une vingtaine de documents de planification sectoriels lors de l’élaboration de leurs documents d’urbanisme. Cet examen devait par ailleurs prendre en compte des différences de portée juridique dans les liens entre les différents documents sectoriels et le document d’urbanisme. Cela rendait complexe l’élaboration des documents d’urbanisme et créait de l’insécurité juridique pour les collectivités territoriales. Cette ordonnance résulte de la large concertation « Planifions nos territoires ensemble » qui s’est tenue, entre mars et novembre 2019, par internet et avec des ateliers thématiques partout en France. Ces derniers ont rassemblé environ 300 participants. L’ordonnance prévoit cinq évolutions dans la hiérarchie de normes applicables aux documents d’urbanisme : le schéma de cohérence territoriale (SCOT) se voit conforté dans son rôle de document devant intégrer les enjeux de toutes les politiques sectorielles ayant une incidence en urbanisme. Si un territoire est couvert par un SCOT, c’est ce SCOT qui doit être compatible avec les différents documents sectoriels et non le plan local d’urbanisme (PLU). L’élaboration du PLU s’en trouve simplifiée ; quatre documents de planification sectoriels ne sont désormais plus opposables aux SCOT, PLU (y compris PLU intercommunaux) et cartes communales ; le lien juridique dit de « prise en compte » d’un document sectoriel est remplacé par le lien juridique de compatibilité avec ce document. Cela permet de ne conserver qu’un seul type de lien juridique et donc de clarifier la portée de ce qui doit être intégré dans un document d’urbanisme. Les programmes d’équipement et les objectifs des schémas régionaux d’aménagement, de développement durable et d’égalité des territoires (SRADDET) ne voient pas leur lien de prise en compte modifié ; les délais pour mettre en compatibilité les documents d’urbanisme avec les documents de planification sectoriels se trouvent unifiés. Les collectivités devront examiner tous les trois ans la nécessité de mettre en compatibilité les documents d’urbanisme avec l’ensemble des documents sectoriels qui ont évolué pendant ces trois ans. Auparavant ce processus devait être répété chaque fois qu’un nouveau document sectoriel entrait en vigueur ou était modifié, ce qui multipliait le nombre des procédures nécessaires ; la note d’enjeux est introduite. Elle consacre une pratique existante qui permet aux collectivités élaborant des documents d’urbanisme de solliciter du représentant de l’Etat dans le département un exposé stratégique faisant état des enjeux qu’il identifie sur leur territoire et que le document d’urbanisme est appelé à traduire. Cela permettra d’accompagner et de faciliter l’élaboration des documents d’urbanisme et le dialogue entre la collectivité et l’État. Les dispositions de cette ordonnance sont applicables aux schémas de cohérence territoriale, aux plans locaux d’urbanisme, aux documents en tenant lieu et aux cartes communales dont l’élaboration ou la révision est engagée à compter du 1er avril 2021. Des mesures transitoires sont cependant prévues pour les SCOT en cours d’élaboration ou de révision pour appliquer ces simplifications par anticipation. Un projet de loi de ratification sera déposé devant le Parlement dans un délai de trois mois.
+- Dossiers législatifs
+  - [Dossier législatif du projet de loi de ratification](https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000042320698/)
+  - Assemblée nationale
+  - Sénat
+- Documents préparatoires
+  - [Fiche d'impact](https://www.legifrance.gouv.fr/contenu/Media/Files/autour-de-la-loi/legislatif-et-reglementaire/fiches-d-impact/fiches-d-impact-ordonnances/2020/fii_logl2006959r_04_06_20.pdf) : (PDF, 986 Ko).
+- Débats parlementaires
+  - Assemblée nationale
+  - Sénat
