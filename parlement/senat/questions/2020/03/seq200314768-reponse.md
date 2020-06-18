@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314768
+
+- Question : [SEQ200314768](seq200314768.md) — Drones militaires
+
+## Réponse
+
+*Armées, JO du 2020-06-18, page 2820*
+
+La coopération européenne en matière de drones MALE a été initiée en 2016, avec la signature d'un accord-cadre entre la France, l'Allemagne, l'Italie et l'Espagne. A la suite de la signature de cet accord, un contrat d'études de définition a été passé à un consortium constitué des sociétés Dassault Aviation, Airbus Defence & Space et Leonardo. Afin de bénéficier des meilleures pratiques en matière de gestion de programmes en coopération, le pilotage du contrat d'études de définition a été confié à l'organisation conjointe de coopération en matière d'armement (OCCAr). Cette étude conduite entre 2016 et 2018 a permis aux quatre pays participant au programme de converger sur les spécifications d'un système permettant de réaliser des missions aussi bien en opérations extérieures que sur le territoire national, conformément au besoin opérationnel français, et d'obtenir confirmation de l'industrie quant à la faisabilité de ce système. Ainsi, une spécification technique de besoin commune a été formellement approuvée par les pays participant au programme en novembre 2018. À l'issue de cette étude, fin 2018, l'OCCAr a été mandatée par les 4 pays participants pour adresser à la partie industrielle une demande d'offre globale portant sur le développement, la réalisation et le soutien du système. Airbus Defence & Space GmbH (Allemagne) y a répondu en remettant une offre en mai 2019, précisée en août 2019. Sur la base de cette offre, l'OCCAr a été mandatée par les nations pour négocier le contrat de réalisation, avec pour objectif la maîtrise des exigences exprimées et un coût compétitif. Le lancement en réalisation pourrait survenir en 2020 dans des conditions répondant à nos exigences à la fois en termes de performances et de cadrage financier.
