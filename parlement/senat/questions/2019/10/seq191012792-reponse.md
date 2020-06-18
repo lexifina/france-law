@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012792
+
+- Question : [SEQ191012792](seq191012792.md) — Expulsions et rétention de compagnons Emmaüs
+
+## Réponse
+
+*Intérieur, JO du 2020-06-18, page 2832*
+
+Le législateur a prévu, à l'article 60 de la loi n° 2018-778 du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie, la possibilité pour le préfet d'admettre exceptionnellement au séjour les ressortissants étrangers accueillis dans des organismes d'accueil communautaire et solidaire (OACAS) qui justifient de trois ans d'activité dans ces derniers sous réserve du caractère réel et sérieux de cette activité et de la justification de perspectives d'intégration. Les décisions d'octroi ou de refus d'un titre sur le fondement de l'article 60 de la loi du 10 septembre 2018 relèvent d'un examen individuel approfondi par les services préfectoraux compétents et au regard du droit en vigueur. Si, en raison de leur entrée en vigueur récente, le 1er mars 2019, le ministère de l'intérieur ne dispose pas pour le moment du nombre exact de titres de séjour délivrés sur le fondement de ces dispositions, il ressort toutefois d'une enquête effectuée auprès de sept préfectures sélectionnées en raison de la forte implantation des communautés Emmaüs sur le territoire du département (Hauts-de-Seine, Val de Marne, Essonne, Isère, Nord, Deux-Sèvres, Bouches-du-Rhône) que cinquante-deux demandes ont été enregistrées et vingt-sept titres de séjour délivrés sur ce fondement depuis le 1er mars 2019. Parallèlement, le Gouvernement mène une politique ferme et déterminée de lutte contre l'immigration irrégulière, qui passe notamment par la mise en œuvre de mesures d'éloignement à l'égard des étrangers en situation irrégulière. En 2019, le nombre d'éloignements contraints a ainsi augmenté de 20,6 % par rapport à 2018, passant de plus de 15 600 à plus de 18 900 entre 2018 et 2019.
