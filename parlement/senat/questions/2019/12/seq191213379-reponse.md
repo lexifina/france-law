@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213379
+
+- Question : [SEQ191213379](seq191213379.md) — Mise en disponibilité pour créer ou reprendre une entreprise
+
+## Réponse
+
+*Action et comptes publics (M. le SE auprès du ministre), JO du 2020-06-18, page 2811*
+
+L'article 46 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'État, à la mise à disposition, à l'intégration et à la cessation définitive de fonctions modifié par le décret n° 2019-234 du 27 mars 2019, indique que la durée de la mise en disponibilité sur demande du fonctionnaire en vue de créer ou reprendre une entreprise est limitée à deux ans et n'est pas renouvelable. Ce cas de disponibilité se différencie de la disponibilité pour convenances personnelles au sens du b) de l'article 44 du même décret. De plus, pour pouvoir bénéficier d'une disponibilité en vue de créer ou reprendre une entreprise, le fonctionnaire qui s'est engagé à servir l'État pendant une durée minimale doit justifier de quatre années de services effectifs depuis sa titularisation dans le corps de la fonction publique de l'État au titre duquel cet engagement a été souscrit. Il existe également un autre dispositif permettant à un fonctionnaire de créer ou reprendre une entreprise. Le III de l'article 25 septies de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires permet, en effet, à un fonctionnaire d'être autorisé par l'autorité hiérarchique dont il relève à créer ou reprendre une entreprise, sous réserve d'accomplir un service à temps partiel. Cette autorisation est accordée pour une durée maximale de trois ans, renouvelable un an. Cette autorisation peut être accordée plusieurs fois au cours de la carrière du fonctionnaire sous réserve d'une durée minimale de trois ans entre la fin d'une autorisation et le début d'une autre.
