@@ -92,6 +92,16 @@ La restriction interdisant l'atterrissage sur un aérodrome autre que celui de d
 
 -a réussi une interrogation orale théorique portant sur les différences entre le théorique BB et le théorique LAPL (notamment facteurs humains et navigation). Cette condition est exigible uniquement pour les titulaires du théorique spécifique au BB.
 
-2. Crédit relatif aux formations la licence de base de pilote avion (BB)
+2. Crédit relatif aux formations à la licence de base de pilote avion (BB)
 
-Les heures effectuées par les candidats en cours de formation pour la délivrance de la licence de base de pilote avion (BB) sont intégralement portées au crédit pour la formation LAPL (A) décrite au FCL. 110. A de l'annexe I " Partie FCL " du règlement (UE) n° 1178/2011 du 3 novembre 2011 modifié.
+2.1. Les heures effectuées par les candidats en cours de formation pour la délivrance de la licence de base de pilote avion (BB) sont intégralement portées au crédit pour la formation LAPL (A) décrite au FCL. 110. A de l'annexe I “ Partie FCL ” du règlement (UE) n° 1178/2011 de la Commission du 3 novembre 2011 modifié déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil.
+
+2.2. Les candidats en cours de formation pour la délivrance de la licence de base de pilote avion (BB) ayant déposé une demande d'examen pratique BB avant le 8 avril 2020 obtiennent une licence LAPL (A) comportant les restrictions visées au paragraphe 1.1.1 du présent appendice à condition de répondre aux conditions complémentaires suivantes :
+
+-avoir atteint l'âge de 16 ans révolus ;
+
+-avoir suivi l'intégralité du contenu de la formation BB en organisme déclaré ou agréé ;
+
+-avoir réussi une interrogation orale théorique portant sur les facteurs humains (condition exigible uniquement pour les titulaires du théorique spécifique au BB) ;
+
+-avoir réussi l'épreuve pratique LAPL (A), à l'exception de la section 3 “ Procédures en-route ”, au plus tard le 31 décembre 2020.
