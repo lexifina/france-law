@@ -24,19 +24,15 @@ Les personnels habilités des opérateurs de compétences (OPCO), qui remplacent
 
 Pôle emploi |
 
-Les personnels habilités de Pôle emploi accèdent directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation des demandeurs d'emploi. |
+Les personnels habilités de Pôle emploi accèdent directement à tout ou partie des données à caractère personnel mentionnées à l' article R. 6323-34 du code du travail , dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation. |
 
-Régions |
+Régions et les organismes qu'elles mandatent |
 
-Les agents habilités des régions accèdent directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation des demandeurs d'emploi. |
+Les agents habilités des Régions et les personnels des organismes qu'elles mandatent, accèdent directement à tout ou partie des données à caractère personnel mentionnées à l' article R. 6323-34 du code du travail , dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des dossiers de formation. |
 
 Organismes de conseil en évolution professionnelle |
 
-Les agents habilités des organismes de conseil en évolution professionnelle mentionnés à l'article L. 6111-6 du code du travail, accèdent à l'historique des formations suivies, au contenu du passeport d'orientation, de formation et de compétences et aux droits inscrits sur le compte lorsque le conseiller en évolution professionnelle a été autorisé à cet effet par le titulaire du compte pour l'accompagner dans la réalisation de son projet de formation. |
-
-FONGECIF |
-
-Les agents habilités des FONGECIF mentionnés à l'article L. 6333-1 du code du travail dans sa rédaction en vigueur jusqu'au 31 décembre 2018 accèdent, directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière du projet de transition professionnelle mentionné à l'article L. 6323-17-1 du code du travail. Les FONGECIF assurent les missions des commissions paritaires interprofessionnelles régionales mentionnées à l'article L.6323-17-6 du code du travail jusqu'au 31 décembre 2019, en application du X de l'article 1er de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. |
+Les agents et personnels habilités des organismes de conseil en évolution professionnelle mentionnés à l' article L. 6111-6 du code du travail , accèdent à l'historique des formations suivies, au contenu du passeport d'orientation, de formation et de compétences et aux droits inscrits sur le compte lorsque le conseiller en évolution professionnelle a été autorisé à cet effet par le titulaire du compte pour l'accompagner dans la réalisation de son projet de formation. |
 
 Commissions paritaires interprofessionnelles régionales |
 
@@ -44,4 +40,8 @@ Les agents habilités des commissions paritaires interprofessionnelles régional
 
 Employeurs publics |
 
-Les agents habilités des employeurs publics accèdent directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions pour procéder directement au débit des droits sur les comptes de leurs agents, les employeurs publics assurant la prise en charge des frais de formation (article 9 décret n° 2017-928 du 6 mai 2017 relatif à la mise en œuvre du compte personnel d'activité dans la fonction publique et à la formation professionnelle tout au long de la vie). |
+Les agents habilités des employeurs publics accèdent directement à tout ou partie des données à caractère personnel mentionnées à l' article R. 6323-34 du code du travail , dans les limites strictement nécessaires à l'exercice de leurs missions pour procéder directement au débit des droits sur les comptes de leurs agents, les employeurs publics assurant la prise en charge des frais de formation (article 9 décret n° 2017-928 du 6 mai 2017 relatif à la mise en œuvre du compte personnel d'activité dans la fonction publique et à la formation professionnelle tout au long de la vie). |
+
+Association de gestion du fonds pour l'insertion professionnelle des handicapés (AGEFIPH) |
+
+Les personnels habilités de l'AGEFIPH accèdent directement à tout ou partie des données à caractère personnel mentionnées à l' article R. 6323-34 du code du travail , dans les limites strictement nécessaires à l'exercice de leurs missions, pour assurer la prise en charge financière des droits complémentaires conformément à l'article L. 6323-4 II. 9° du code du travail , sur les dossiers de formations concernant des titulaires en situation de handicap ou des salariés bénéficiaires de l'obligation d'emploi. |
