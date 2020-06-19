@@ -1,6 +1,6 @@
 # Article 11 bis
 
-I.-Les dispositions du présent article sont applicables aux accords collectifs conclus jusqu'à l'expiration du délai d'un mois à compter de la date de cessation de l'état d'urgence sanitaire déclaré par l'article 4 de la loi du 23 mars 2020 susvisée, le cas échéant prolongé dans les conditions prévues par cet article, et dont l'objet est exclusivement de faire face aux conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 ainsi qu'aux conséquences des mesures prises pour limiter cette propagation.
+I.-Les dispositions du présent article sont applicables aux accords collectifs conclus jusqu'au 10 octobre 2020 inclus, et dont l'objet est exclusivement de faire face aux conséquences économiques, financières et sociales de la propagation de l'épidémie de covid-19 ainsi qu'aux conséquences des mesures prises pour limiter cette propagation.
 
 II.-Pour la négociation et la conclusion des accords mentionnés au I :
 
@@ -16,7 +16,7 @@ II.-Pour la négociation et la conclusion des accords mentionnés au I :
 
 III.-Pour l'extension des accords mentionnés au I, le délai d'un mois mentionné au troisième alinéa de l'article L. 2261-19 du code du travail est réduit à huit jours. Un décret peut adapter les délais applicables à la procédure d'extension des accords mentionnés au I.
 
-IV.-Les dispositions de l'article 2 de l'ordonnance n° 2020-306 du 25 mars 2020 susvisée ne s'appliquent pas aux délais mentionnés au présent article.
+IV.-Les dispositions de l'article 2 de la présente ordonnance ne s'appliquent pas aux délais mentionnés au présent article.
 
 V.-Les dispositions du présent article s'appliquent aux délais qui n'ont pas commencé à courir à la date d'entrée en vigueur de la présente ordonnance.
 
