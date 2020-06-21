@@ -1,2535 +1,2447 @@
 # Article Annexe
 
-TITRE Ier : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
+ANNEXE 1
 
-Domaine des ports maritimes
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE LA TRANSITION ÉCOLOGIQUE ET SOLIDAIRE
 
-Code des ports maritimes
-
-1
-
-|
-
-Approbation d'une concession d'outillage public dans les ports d'intérêt national lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
-
-|
-
-|
-
-2
-
-|
-
-Approbation d'une concession d'outillage public dans les ports autonomes maritimes lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
-
-|
-
-Article
-
-R. 115-9
-
-|
-
-Domaine de l'aviation civile
-
-Code de l'aviation civile
-
-1
-
-|
-
-Suppression ou modification d'installations existantes
-
-Constituant des obstacles à la navigation aérienne à l'extérieur des zones de servitudes de dégagement.
-
-|
-
-Article
-
-R. 244-1, 5e alinéa.
-
-|
-
-2
-
-|
-
-Décision de classement des aérodromes.
-
-|
-
-Article R. 222-3
-
-|
-
-3
-
-|
-
-Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions non conformes aux cahiers des charges types.
-
-|
-
-Article R. 223-3
-
-|
-
-Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aéroports de Paris
-
-1
-
-|
-
-Approbation des contrats de délégation passés par la société Aéroports de Paris
-
-|
-
-Article 5
-
-|
-
-TITRE II : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT,
-
-DES TRANSPORTS ET DU LOGEMENT
-
-A.-Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
-
-Décret n° 83-252 du 29 mars 1983 relatif aux procédures d'homologation ou d'agrément technique applicables aux marchés publics de travaux et instituant trois procédures concernant respectivement les liants hydrauliques, les armatures pour béton armé et les armatures à haute résistance de précontrainte
-
-1
-
-|
-
-Homologation des armatures en acier à haute résistance et des procédés de précontrainte pour construction en béton précontraint par pré ou post-tension, sur proposition de la commission interministérielle d'agrément.
-
-|
-
-Article 2
-
-(sauf mentions relatives aux
-
-armatures pour béton armé).
-
-|
-
-Mesure prise par les ministres chargés de l'urbanisme, du logement et des transports et les ministres intéressés
-
-Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée peuvent assurer la conduite d'opération
-
-1
-
-|
-
-Autorisation permanente d'exercer des missions de conduite d'opération.
-
-|
-
-Article 2.
-
-|
-
-Mesures prises par les ministres chargés du logement et des finances
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Autorisation donnée à une société anonyme d'habitations à loyer modéré de consentir des avances à d'autres sociétés HLM.
-
-|
-
-Article R. 422-1 relatif aux statuts des SA d'HLM-Clause type n° 11 annexée.
-
-|
-
-2
-
-|
-
-Approbation des statuts des sociétés immobilières SOFAL, acquises par souscription par les CIL, et les CCI avec des fonds de la participation des employeurs à l'effort de construction (PEEC).
-
-|
-
-Article R. 313-18.
-
-|
-
-3
-
-|
-
-Fixation d'une indemnité à verser par le bénéficiaire des financements aidés par l'Etat en cas de non-respect de la réglementation du financement de la construction de logements locatifs sociaux et de la réglementation des plafonds de ressources qui y sont afférents.
-
-|
-
-Article R. 331-26.
-
-|
-
-4
-
-|
-
-Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction.
-
-|
-
-Article R. 313-21.
-
-|
-
-Mesure prise par les ministres chargés du logement, des finances et du commerce
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction (pour un agrément concernant les chambres de commerce et d'industrie).
-
-|
-
-Article
-
-R. 313-21.
-
-|
-
-Mesure prise par les ministres chargés du logement, des finances et des affaires sociales
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction (pour un agrément concernant les caisses d'allocations familiales).
-
-|
-
-Article
-
-R. 313-21.
-
-|
-
-Mesures prises par les ministres chargés du logement et de l'intérieur
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Décisions concernant un office public d'aménagement et de construction et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
-
-|
-
-Article R. 421-13.
-
-|
-
-2
-
-|
-
-Décisions concernant un office public d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
-
-|
-
-Article R. 421-60.
-
-|
-
-Mesure prise par les ministres chargés du logement et des affaires sociales
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Autorisation de sortie du statut coopératif pour les sociétés anonymes coopératives d'habitations à loyer modéré.
-
-|
-
-Article
-
-R. 422-9-6 et R. 422-36-1.
-
-|
-
-Mesure prise par les ministres chargés des transports et des finances
-
-Décret n° 60-24 du 12 janvier 1960 portant application, à l'égard des agents et anciens agents de la Société nationale des chemins de fer tunisiens et du service des chemins de fer de la compagnie des phosphates de Gafsa, de l'article 11 de la loi n° 56-782 du 4 août 1956 relative aux conditions de reclassement des fonctionnaires et agents français des administrations et services publics du Maroc et de Tunisie
-
-1
-
-|
-
-Pensions garanties par l'Etat : décision de mise en paiement de la pension ou de la rente garantie.
-
-|
-
-Article 6,
-
-2e alinéa.
-
-|
-
-Décret n° 60-25 du 12 janvier 1960 portant application, à l'égard des retraités et agents en activité des chemins de fer marocains, de l'article 11 de la loi n° 56-782 du 4 août 1956 relative aux conditions de reclassement des fonctionnaires et agents français des administrations et services publics du Maroc et de Tunisie
-
-1
-
-|
-
-Pensions garanties par l'Etat : décision de mise en paiement de la pension ou de la rente garantie.
-
-|
-
-Article 10,
-
-2e alinéa.
-
-|
-
-Décret n° 61-752 du 13 juillet 1961 portant application de l'article 11 de la loi n° 56-782 du 4 août 1956 aux agents et anciens agents de la Compagnie tunisienne d'électricité et de transports (branche Transports) et des services publics urbains de transports de voyageurs donnés en gérance et concédés par l'Etat chérifien ou par les municipalités du Maroc
-
-1
-
-|
-
-Pensions garanties par l'Etat : décision de mise en paiement de la pension ou de la rente garantie.
-
-|
-
-Article 8,
-
-2e alinéa.
-
-|
-
-Mesure prise par les ministres chargés de la mer, des transports et de l'industrie
-
-Décret n° 96-611 du 4 juillet 1996 relatif à la mise sur le marché des bateaux de plaisance et des pièces et éléments d'équipement
-
-1
-
-|
-
-Agrément des organismes d'évaluation de conformité des navires de plaisance.
-
-|
-
-Article 7,
-
-1er alinéa.
-
-|
-
-Mesure prise par les ministres chargés de la marine marchande et de l'industrie
-
-Décret n° 93-279 du 4 mars 1993 fixant les modalités de calcul des quantités de pétrole brut et de capacité de transport maritime pour l'application de l'article 6 de la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier
-
-1
-
-|
-
-Décision relative à l'obligation de capacité de transport de pétrole brut sous pavillon français.
-
-|
-
-Article 1er, 1er alinéa,
-
-et article 2, 2e alinéa.
-
-|
-
-Mesure prise par le ministre chargé de la marine marchande et par le ministre chargé des douanes
-
-Code des douanes
-
-1
-
-|
-
-Agrément spécial accordant la francisation d'un navire de commerce ou de plaisance .
-
-|
-
-3° du I de l'article 219.
-
-|
-
-Mesure prise par le ministre chargé de la pêche maritime
-
-Code des douanes
-
-1
-
-|
-
-Agrément spécial accordant la francisation d'un navire de pêche.
-
-|
-
-3° du I de l'article 219 bis du code des douanes.
-
-|
-
-Mesures prises par le ministre chargé du transport des marchandises dangereuses et, le cas échéant, les autres ministres intéressés
-
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
-
-1
-
-|
-
-Evaluation des cargaisons et approbation des conditions de transport
-
-|
-
-Article 56 (II).
-
-|
-
-2
-
-|
-
-Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer les certificats relatifs aux cargaisons.
-
-|
-
-Article 42-2.
-
-|
-
-Mesure prise par le ministre chargé des ports maritimes et, le cas échéant, le ministre dont relève la tutelle de l'établissement concessionnaire
-
-Code des ports maritimes
-
-1
-
-|
-
-Approbation d'une concession d'outillage public dans les ports d'intérêt national principaux ou lorsqu'il y a lieu à déclaration d'utilité publique prononcée par arrêté ministériel.
-
-|
-
-Article R. 122-8 b.
-
-|
-
-Mesure prise par le ministre chargé de l'aviation civile et les autres ministres intéressés
-
-Code de l'aviation civile
-
-1
-
-|
-
-Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions conformes aux cahiers des charges types lorsque l'aérodrome concerné a assuré, en moyenne au cours des trois dernières années civiles connues, un trafic de plus de 200 000 passagers embarqués ou débarqués.
-
-|
-
-Articles
-
-R. 223-3 et R. 223-2.
-
-|
-
-Mesure prise par les ministres chargés de l'aviation civile et des affaires étrangères
-
-Code de l'aviation civile
-
-1
-
-|
-
-Décision relative à l'inscription sur les registres spéciaux du personnel navigant professionnel de l'aéronautique civile des personnes n'ayant pas la nationalité française (transport et travail aériens).
-
-|
-
-Article R. 421-4.
-
-|
-
-Mesures prises par les ministres chargés de l'aviation civile et de la défense nationale
-
-Code de l'aviation civile
-
-1
-
-|
-
-Etablissement de certaines installations à l'extérieur de zones grevées de servitudes de dégagement.
-
-|
-
-Article R. 244-1.
-
-|
-
-2
-
-|
-
-Habilitation d'organismes techniques ou de personnes extérieures à l'administration en matière de contrôle technique.
-
-|
-
-Article R. 133-5.
-
-|
-
-Mesure prise par les ministres chargés de l'aviation civile, des affaires étrangères et de la défense nationale
-
-Code de l'aviation civile
-
-1
-
-|
-
-Décision relative à l'inscription sur les registres spéciaux du personnel navigant professionnel de l'aéronautique civile des personnes n'ayant pas la nationalité française (essais et réceptions).
-
-|
-
-Article R. 421-4.
-
-|
-
-Mesure prise par les ministres chargés de l'aviation civile, de la défense nationale et les autres ministres intéressés
-
-Code de l'aviation civile
-
-1
-
-|
-
-Autorisation de créer un aérodrome en cas d'opposition des départements ministériels intéressés.
-
-|
-
-Article D. 221-2.
-
-|
-
-Mesures prises par les ministres chargés des transports et de l'industrie
-
-Décret n° 2001-129 du 8 février 2001 portant transposition de la directive 96/48/ CE du Conseil du 23 juillet 1996 relative à l'interopérabilité du système ferroviaire transeuropéen à grande vitesse.
-
-1
-
-|
-
-Désignation des organismes habilités à mettre en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification CE des sous-systèmes.
-
-|
-
-Art. 16
-
-|
-
-Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques
-
-1
-
-|
-
-Habilitation des organismes à évaluer la conformité des constituants et sous-systèmes des remontées mécaniques
-
-|
-
-Article 15
-
-|
-
-Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
-
-1
-
-|
-
-Habilitation des organismes mettant en œuvre la procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et la procédure de vérification " CE " des sous-systèmes.
-
-|
-
-Article 16
-
-|
-
-Mesure prise par les ministres chargés de l'industrie, de l'équipement et du logement.
-
-Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à l'usage des produits de construction.
-
-1
-
-|
-
-Habilitation des organismes à effectuer les tâches d'attestation de conformité des produits de construction.
-
-|
-
-Article 1er III
-
-|
-
-Mesures prises par les ministres chargés de la construction, des transports et de l'équipement :
-
-Décret n° 2012-1489 du 27 décembre 2012 pris pour l'exécution du règlement (UE) n° 305/2011 du Parlement européen et du Conseil du 9 mars 2011 établissant des conditions harmonisées de commercialisation pour les produits de construction et abrogeant la directive 89/106/ CEE du Conseil.
-
-1
-
-|
-
-Désignation des organismes notifiés, autorisés à effectuer les tâches d'évaluation et de vérification de la constance des performances des produits de construction.
-
-|
-
-Article 2
-
-|
-
-2
-
-|
-
-Désignation des organismes d'évaluation technique européenne des produits de construction
-
-|
-
-Article 4
-
-|
-
-Mesure prise par les ministres chargés de la construction et de l'architecture
-
-Décret n° 2017-1044 du 10 mai 2017 portant expérimentation en matière de construction.
-
-1
-
-|
-
-Décisions permettant de déroger, à titre expérimental, à certaines règles de construction.
-
-|
-
-Articles 3 et 4.
-
-|
-
-B.-Décisions prises par un ministre
-
-Mesures prises par le ministre chargé de l'équipement
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Agrément des contrôleurs techniques.
-
-|
-
-Articles R. 111-29 à R. 111-37.
-
-|
-
-2
-
-|
-
-Décisions relatives à la vérification des qualifications professionnelles en matière de contrôle technique de la construction.
-
-|
-
-R. * 111-29-1 à R. * 111-33-1
-
-|
-
-Décret n° 93-1289 du 8 décembre 1993 relatif à l'Ecole nationale des ponts et chaussées
-
-1
-
-|
-
-Attribution et délivrance des titres et diplômes de l'Ecole nationale des ponts et chaussées.
-
-|
-
-Titre Ier, article 3
-
-|
-
-Code de la voirie routière
-
-1
-
-|
-
-Autorisation d'emploi à titre expérimental, attestation d'équivalence et homologation des équipements routiers.
-
-Suspension et annulation de cette autorisation, attestation ou homologation.
-
-|
-
-Articles R. 119-5 (II et III),
-
-R. 119-10, R. 119-11.
-
-|
-
-Code de la voirie routière
-
-1
-
-|
-
-Agrément des experts et organismes qualifiés.
-
-|
-
-Article R. 118-2-4
-
-|
-
-2
-
-|
-
-Agrément des organismes habilités à attester et à vérifier la conformité
-
-des équipements routiers. Suspension et annulation de cet agrément.
-
-|
-
-Articles R. 119-5 IV,
-
-R. 119-11.
-
-|
-
-Mesures prises par le ministre chargé du logement
-
-Code de la construction et de l'habitation
-
-1
-
-|
-
-Approbation de l'attribution de la portion d'actif excédant la moitié du capital social en cas de dissolution d'une société d'habitations à loyer modéré.
-
-|
-
-Article R. 422-17,
-
-2e alinéa.
-
-|
-
-2
-
-|
-
-Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
-
-|
-
-SAHLM : articles R*. 422-3 et R*. 422-4, 1er alinéa.
-
-SCP-HLM : article R*. 422-8-1.
-
-SACI : articles R. 422-10 et R. 422-11.
-
-|
-
-3
-
-|
-
-Autorisation d'acquisition de titres souscrits avec des fonds de la participation des employeurs à l'effort de construction (PEEC) par les CIL.
-
-|
-
-Article R. 313-31-I (2 ter).
-
-|
-
-4
-
-|
-
-Autorisation pour affectation de la perte (réalisée dans l'exercice clos des organismes collecteurs) en diminution de compte de réserve.
-
-|
-
-Article R. 313-33-2.
-
-|
-
-5
-
-|
-
-Décisions concernant une société anonyme de crédit immobilier, une société anonyme d'habitations à loyer modéré ou une société coopérative d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un ou plusieurs membres du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution, à la liquidation et à la nomination d'un liquidateur ainsi qu'à l'autorisation de procéder à une cession d'actifs.
-
-|
-
-SACI : article R. 422-15, troisième alinéa.
-
-SAHLM et SA coopératives
-
-HLM : article R. 422-17.
-
-|
-
-6
-
-|
-
-Agrément des sociétés anonymes de crédit immobilier, des sociétés coopératives d'habitations à loyer modéré.
-
-|
-
-SACI : article R. 422-15, 1er alinéa.
-
-Coopératives HLM : article R. 422-16.
-
-|
-
-|
-
-Agrément et renouvellement de l'agrément des sociétés anonymes d'habitations à loyer modéré.
-
-|
-
-SA d'HLM : article R. 422-16
-
-et R. 422-16-1.
-
-|
-
-7
-
-|
-
-Accord en vue de la réévaluation de l'actif des sociétés d'habitations à loyer modéré et de crédit immobilier.
-
-|
-
-Article R. 423-72.
-
-|
-
-8
-
-|
-
-Retrait d'agrément, sanction envers les organismes HLM qui recueillent la participation des employeurs à l'effort de construction (PEEC) et injonction de transfert de leur situation active et passive à un organisme ou une personne morale ou physique.
-
-|
-
-Article R. 313-22.
-
-|
-
-9
-
-|
-
-Agrément d'une société anonyme de coordination d'organismes d'habitations à loyer modéré.
-
-|
-
-Article R. 423-86
-
-|
-
-10
-
-|
-
-Agrément spécial d'une société anonyme de coordination d'organismes d'habitations à loyer modéré aux fins d'exercer certaines des compétences mentionnées aux alinéas troisième et suivants de l'article L. 422-2.
-
-|
-
-Article R. 423-87
-
-|
-
-11
-
-|
-
-Décisions concernant une société anonyme de coordination d'organismes d'habitations à loyer
-
-modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un membre du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitation à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution et à la liquidation de la société, à la nomination d'un liquidateur. Autorisation de procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de l'article L. 422-11.
-
-|
-
-Article R*. 423-88
-
-|
-
-Mesures prises par le ministre chargé des transports
-
-Code général de la propriété des personnes publiques :
-
-1. Prise de position sur une demande de transfert de propriété de lignes ferroviaires
-
-|
-
-article R. 3114-5
-
-|
-
-Code des ports maritimes :
-
-1
-
-|
-
-Approbation de la convention entre l'autorité portuaire et Réseau ferré de France fixant les conditions techniques et financières particulières du raccordement des voies ferrées portuaires au réseau ferré national.
-
-|
-
-Article R. 411-4 du code des ports maritimes.
-
-|
-
-2
-
-|
-
-Habilitation des organismes de sûreté.
-
-|
-
-Articles R. 321-8 et R. 321-9
-
-|
-
-|
-
-Retrait et suspension de l'habilitation des organismes de sûreté
-
-|
-
-Article R. 321-11
-
-|
-
-Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
-
-1
-
-|
-
-Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait.
-
-|
-
-Articles 24-1, 24-2, 24-3 et 24-4
-
-|
-
-|
-
-Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux (récipients et citernes).
-
-|
-
-|
-
-2
-
-|
-
-Habilitation des organismes de contrôle ainsi que leur suspension ou retrait (récipients et citernes).
-
-|
-
-Articles 22 et 24-7.
-
-|
-
-Décret n° 2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés
-
-1
-
-|
-
-Agrément des experts et organismes qualifiés
-
-|
-
-Article 7
-
-|
-
-Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèmes ferroviaires transeuropéens conventionnel et à grande vitesse.
-
-1
-
-|
-
-Dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
-
-|
-
-Article 9
-
-|
-
-2
-
-|
-
-Refus de transmission à la Commission européenne d'une demande de dérogation aux spécifications techniques d'interopérabilité du système ferroviaire transeuropéen conventionnel.
-
-|
-
-Article 10
-
 |
 
-Code des transports :
+Aviation civile |
 
 1 |
 
-Refus d'inscription ou de renouvellement d'inscription des voitures de transports avec chauffeur |
+Suppression ou modification d'installations existantes constituant des obstacles à la navigation aérienne à l'extérieur des zones de servitudes de dégagement. |
 
-Article R. 3122-2 |
+Code de l'aviation civile Article R. 244-1 (cinquième alinéa). |
+
+Décret |
 
 2 |
 
-Décision d'interdiction ou de limitation des services librement organisés assurant une liaison de 100 kilomètres ou moins et portant atteinte à l'équilibre économique de services publics réguliers de transport de personnes organisés par l'Etat. |
+Décision de classement des aérodromes. |
 
-Article R. 3111-37 (10°) |
+Code de l'aviation civile
+
+Article R. 222-3. |
+
+Décret sur rapport du ministre chargé de l'aviation civile |
 
 3 |
 
-Délivrance des autorisations pour l'exécution de services internationaux de transport routier de voyageurs lorsque la demande d'autorisation est effectuée en France. |
+Approbation des contrats de délégation passés par la société Aéroports de Paris. |
 
-Article R. 3111-57 |
+Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 5. |
+
+Décret |
 
 4 |
 
-Mises en demeure et décisions d'astreintes relatives aux obligations de déclaration des cargaisons donnant lieu à contribution au titre de la Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, adoptée à Londres le 30 avril 2010 ("convention SNPD") |
+Etablissement de certaines installations à l'extérieur de zones grevées de servitudes de dégagement. |
+
+Code de l'aviation civile Article R. 244-1. |
+
+Ministres chargés de l'aviation civile et de la défense nationale |
+
+5 |
+
+Habilitation d'organismes techniques ou de personnes extérieures à l'administration en matière de contrôle technique. |
+
+Code de l'aviation civile Article R. 133-5. |
+
+Ministres chargés de l'aviation civile et de la défense nationale |
+
+6 |
+
+Autorisation de créer un aérodrome destiné à être ouvert à la circulation aérienne publique ou d'ouvrir à la circulation aérienne publique un aérodrome existant. |
+
+Code de l'aviation civile Article D. 221-2. |
+
+Ministre chargé de l'aviation civile ou, le cas échéant, le ministre chargé de l'aviation civile avec les autres ministres intéressés |
+
+7 |
+
+Autorisation spéciale et temporaire accordée aux aéronefs étrangers pour circuler au-dessus du territoire français, sauf lorsqu'elle porte sur l'utilisation d'aéronefs pour du travail aérien. |
+
+Code de l'aviation civile Article R. 131-6. |
+
+Ministre chargé de l'aviation civile |
+
+8 |
+
+Sanctions administratives prises après avis de la commission administrative de l'aviation civile. |
+
+Code de l'aviation civile Articles R. 160-1, R. 217-4, R. 217-5 et R. 330-20 et R. 330-22. |
+
+Ministre chargé de l'aviation civile |
+
+9 |
+
+Délivrance, transformation en licence temporaire, suspension et retrait de la licence d'exploitation de transporteur aérien, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux. |
+
+Code de l'aviation civile Article R. 330-1. |
+
+Ministre chargé de l'aviation civile |
+
+10 |
+
+Approbation préalable des programmes d'exploitation des services aériens au départ, à destination ou à l'intérieur du territoire national, sauf pour les transporteurs aériens français exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux. |
+
+Code de l'aviation civile Article R. 330-8. |
+
+Ministre chargé de l'aviation civile |
+
+11 |
+
+Dépôt ou homologation des tarifs de passagers. |
+
+Code de l'aviation civile Article R. 330-10. |
+
+Ministre chargé de l'aviation civile |
+
+12 |
+
+Autorisation, pour les transporteurs titulaires d'une licence d'exploitation délivrée par la France, d'exploiter un aéronef immatriculé à l'étranger ou des services aériens au départ, à destination ou à l'intérieur du territoire national, dans le cadre d'accords commerciaux aux termes desquels le transporteur contractuel n'est pas le transporteur de fait, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux. |
+
+Code de l'aviation civile Articles R. 330-4 et R. 330-9. |
+
+Ministre chargé de l'aviation civile |
+
+13 |
+
+Octroi, renouvellement ou retrait de l'autorisation d'exploiter certains services intérieurs ou internationaux (extracommunautaires) pour les transporteurs établis en France, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux. |
+
+Code de l'aviation civile Article R. 330-6. |
+
+Ministre chargé de l'aviation civile |
+
+14 |
+
+Dérogations aux règles d'utilisation des aéroports et affectations individuelles des entreprises de transport aérien. |
+
+Code de l'aviation civile Article R. 221-3. |
+
+Ministre chargé de l'aviation civile |
+
+15 |
+
+Création et mise en service d'un aérodrome à usage restreint. |
+
+Code de l'aviation civile Articles D. 232-2 et D. 232-6. |
+
+Ministre chargé de l'aviation civile ou, le cas échéant, ministre chargé de l'aviation civile et autres ministres intéressés |
+
+16 |
+
+Modification des conditions ou consignes d'utilisation d'un aérodrome à usage restreint. |
+
+Code de l'aviation civile Article D. 232-8. |
+
+Ministre chargé de l'aviation civile |
+
+17 |
+
+Ouverture et fermeture d'un aérodrome à la circulation aérienne publique. |
+
+Code de l'aviation civile Articles R. 221-2 et D. 221-4. |
+
+Ministre chargé de l'aviation civile |
+
+18 |
+
+Autorisation de certains transports aériens commerciaux sur aérodromes à usage restreint. |
+
+Code de l'aviation civile Article D. 232-1. |
+
+Ministre chargé de l'aviation civile ou, le cas échéant, le ministre chargé de l'aviation civile avec les autres ministres intéressés |
+
+19 |
+
+Subordination de l'autorisation de création d'un aérodrome à usage restreint à la conclusion entre l'Etat et le créateur de l'aérodrome d'une convention de type L. 6321-3 du code des transports et imposition à l'exploitant d'une souscription d'un contrat d'assurance. |
+
+Code de l'aviation civile Article D. 232-3. |
+
+Ministre chargé de l'aviation civile |
+
+20 |
+
+Accord donné au créateur d'un aérodrome à usage restreint de confier l'exploitation de l'aérodrome à un tiers de son choix. |
+
+Code de l'aviation civile Article D. 232-7. |
+
+Ministre chargé de l'aviation civile |
+
+21 |
+
+Décisions relatives à l'agrément des aptitudes techniques des entreprises assurant la conception des aéronefs. |
+
+Code de l'aviation civile
+
+Articles R. 133-1-1 (1°) et R. 133-1-2. |
+
+Ministre chargé de l'aviation civile |
+
+22 |
+
+Décision relative à l'agrément des aptitudes techniques des entreprises assurant la production des aéronefs. |
+
+Code de l'aviation civile Articles R. 133-1 (2°) et
+
+R. 133-1-2. |
+
+Ministre chargé de l'aviation civile |
+
+23 |
+
+Décisions relatives à l'agrément prévu par les règles relatives à l'aptitude au vol des aéronefs (maintien de la navigabilité). |
+
+Code de l'aviation civile Articles R. 133-1-1 (3°) et R. 133-1-2. |
+
+Ministre chargé de l'aviation civile |
+
+24 |
+
+Décisions relatives à l'agrément des aptitudes techniques des entreprises assurant l'exploitation des aéronefs. |
+
+Code de l'aviation civile Articles R. 133-1-1 (4°) et R. 330-1-2. |
+
+Ministre chargé de l'aviation civile |
+
+25 |
+
+Documents de bord des aéronefs (documents de navigabilité, licence de station d'aéronef, certificat de limitations de nuisances sonores) y compris les laissez-passer provisoires. |
+
+Code de l'aviation civile Articles R. 133-1, R. 133-2 et D. 133-19-3. |
+
+Ministre chargé de l'aviation civile |
+
+26 |
+
+Décision relative aux transports de marchandises dangereuses. |
+
+Code de l'aviation civile
+
+Article R. 133-6. |
+
+Ministre chargé de l'aviation civile |
+
+27 |
+
+Décision relative à l'immobilisation d'un aéronef. |
+
+Code de l'aviation civile
+
+Article R. 133-15. |
+
+Ministre chargé de l'aviation civile |
+
+28 |
+
+Attestation d'aptitude aux fonctions de télépilote dans le cadre du ou des scénarios opérationnels pour lesquels ils souhaitent continuer à opérer. |
+
+Code de l'aviation civile Articles R. 136-1 et D. 136-1 à D. 136-5. |
+
+Ministre chargé de l'aviation civile |
+
+29 |
+
+Certificat d'aptitude théorique de télépilote. |
+
+Code de l'aviation civile Articles R. 136-1 et D. 136-1 à D. 136-5. |
+
+Ministre chargé de l'aviation civile |
+
+30 |
+
+Décisions en matière de reconnaissance des formations des télépilotes visées à l'article L. 6214-2, de l'expérience et des qualifications. |
+
+Code de l'aviation civile Articles R. 136-1 et D. 136-1 à D. 136-5. |
+
+Ministre chargé de l'aviation civile |
+
+31 |
+
+Décisions relatives à la délivrance et à la validation des titres aéronautiques professionnels et non professionnels et sanctions correspondantes. |
+
+Code de l'aviation civile Articles R. 410-2, R. 410-3, R. 425-4 et R. 431-3. |
+
+Ministre chargé de l'aviation civile |
+
+32 |
+
+Décisions relatives à l'agrément des centres aéromédicaux et des examinateurs aéromédicaux. |
+
+Code de l'aviation civile Article R. 410-12. |
+
+Ministre chargé de l'aviation civile |
+
+33 |
+
+Décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail ou de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien. |
+
+Code de l'aviation civile Articles R. 410-5 et D. 424-2. |
+
+Conseil médical de l'aviation civile |
+
+34 |
+
+Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile. |
+
+Code de l'aviation civile Article D. 422-6. |
+
+Ministre chargé de l'aviation civile |
+
+35 |
+
+Attribution et gestion des fréquences utiles à la circulation des aéronefs. |
+
+Code de l'aviation civile Articles D. 133-19 à D. 133-19-10. |
+
+Ministre chargé de l'aviation civile |
+
+36 |
+
+Nomination d'un coordonnateur pour l'attribution des créneaux horaires sur un aéroport coordonné. Nomination du comité de coordination. |
+
+Code de l'aviation civile
+
+Article R. 221-12. |
+
+Ministre chargé de l'aviation civile |
+
+37 |
+
+Certification des validateurs indépendants. |
+
+Code de l'aviation civile Article R. 213-2-2 (II). |
+
+Ministre chargé de l'aviation civile |
+
+38 |
+
+Sanction pécuniaire prononcée à l'encontre de l'exploitant de l'aérodrome. |
+
+Code de l'aviation civile Article R. 224-3-6. |
+
+Ministre chargé de l'aviation civile |
+
+39 |
+
+Délivrance de la licence de maintenance d'aéronefs. |
+
+Code de l'aviation civile Article R. 133-17. |
+
+Ministre chargé de l'aviation civile |
+
+40 |
+
+Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information de vol et d'alerte. |
+
+Code de l'aviation civile,
+
+Article R. 135-8. |
+
+Ministre chargé de l'aviation civile |
+
+41 |
+
+Agrément de sûreté des transporteurs aériens. |
+
+Code de l'aviation civile Article R. 213-2-1 (II). |
+
+Ministre chargé de l'aviation civile |
+
+42 |
+
+Agrément de sûreté des agents habilités. |
+
+Code de l'aviation civile Article R. 213-2-1 (II). |
+
+Ministre chargé de l'aviation civile |
+
+43 |
+
+Agrément de sûreté des chargeurs connus. |
+
+Code de l'aviation civile Article R. 213-2-1 (II). |
+
+Ministre chargé de l'aviation civile |
+
+44 |
+
+Agrément de sûreté des fournisseurs habilités. |
+
+Code de l'aviation civile Article R. 213-2-1 (II). |
+
+Ministre chargé de l'aviation civile |
+
+45 |
+
+Délivrance des titres de circulation valables sur plusieurs aérodromes ou installations. |
+
+Code de l'aviation civile Article R. 213-3-3 (III). |
+
+Ministre chargé de l'aviation civile |
+
+46 |
+
+Certification des personnes mettant en œuvre des mesures de sûreté, de leurs superviseurs et des instructeurs et retrait de cette certification. |
+
+Code de l'aviation civile Article R. 213-4 (I). |
+
+Ministre chargé de l'aviation civile |
+
+47 |
+
+Agrément des organismes participant au processus de certification ou délivrant la certification à ces mêmes personnes et suspension ou retrait de cet agrément. |
+
+Code de l'aviation civile Article R. 213-4-1. |
+
+Ministre chargé de l'aviation civile |
+
+48 |
+
+Approbation des cours portant sur la sûreté de l'aviation civile et retrait de cette approbation. |
+
+Code de l'aviation civile Article R. 213-4-4. |
+
+Ministre chargé de l'aviation civile |
+
+49 |
+
+Décision de suspension des services de navigation aérienne. |
+
+Code de l'aviation civile Articles R. 134-7 et R. 134-9. |
+
+Ministre chargé de l'aviation civile |
+
+50 |
+
+Avis conforme sur les décisions de répartition des transporteurs aériens entre les aérodromes d'Aéroports de Paris. |
+
+Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 6 (II et V) |
+
+Ministre chargé de l'aviation civile |
+
+51 |
+
+Opposition aux cessions, apports ou à la création de sûretés. |
+
+Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 53. |
+
+Ministre chargé de l'aviation civile |
+
+52 |
+
+Avis conforme sur le choix de l'organisme de certification. |
+
+Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 59. |
+
+Ministre chargé de l'aviation civile |
+
+53 |
+
+Sanction envers la société Aéroports de Paris en cas de manquement constaté aux obligations imposées par le cahier des charges. |
+
+Annexe I au décret n° 2005-828 du 20 juillet 2005 Article 65. |
+
+Ministre chargé de l'aviation civile |
+
+54 |
+
+Concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes qui lui appartiennent, lorsque le contrat de concession est conforme au cahier des charges type. |
+
+Code de l'aviation civile Article R. 223-2. |
+
+Arrêté interministériel |
+
+55 |
+
+Concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes qui lui appartiennent, lorsque le contrat de concession déroge au cahier des charges. |
+
+Code de l'aviation civile
+
+Article R. 223-2. |
+
+Décret en Conseil d'Etat |
+
+56 |
+
+Sanction envers les exploitants d'aéronefs n'ayant pas restitué un nombre de quotas suffisant pour couvrir ses émissions de gaz à effet de serre (système d'échange de quotas d'émission-EU ETS). |
+
+Code de l'environnement Article L. 229-8. |
+
+Ministre chargé de l'aviation civile |
+
+57 |
+
+Délivrance d'habilitations au secret de la défense nationale pour la direction générale de l'aviation civile et ses organismes rattachés pour les niveaux confidentiel et secret défense . |
+
+Code de la défense
+
+Article R. 2311-8. |
+
+Ministre chargé de l'aviation civile |
+
+58 |
+
+Décisions relatives aux opérations qui donnent lieu à inscription, transcription ou mention sur le registre d'immatriculation :
+
+-immatriculation d'un aéronef ;
+
+-mutation de propriété d'un aéronef ;
+
+-constitution d'hypothèque ou autre droit réel sur un aéronef ;
+
+-location d'un aéronef ;
+
+-saisie d'un aéronef ;
+
+-modification aux caractéristiques d'un aéronef ;
+
+-radiation d'une location, d'une hypothèque ou d'un procès-verbal de saisie ;
+
+-radiation d'un aéronef du registre. |
+
+Code de l'aviation civile
+
+Article D. 121-13. |
+
+Ministre chargé de l'aviation civile |
+
+|
+
+Infrastructures, transports, mer |
+
+1 |
+
+Agrément des organismes d'évaluation de conformité des navires de plaisance. |
+
+Code des transports
+
+Article R. 5113-30. |
+
+Ministres chargés de la mer, des transports et de l'industrie |
+
+2 |
+
+Décision relative à l'obligation de capacité de transport de pétrole brut sous pavillon français. |
+
+Code de l'énergie
+
+Articles D. 631-1 et D. 631-2. |
+
+Ministres chargés de la marine marchande et de l'industrie |
+
+3 |
+
+Evaluation des cargaisons et approbation des conditions de transport. |
+
+Décret n° 84-810 du 30 août 1984
+
+Article 56 (II). |
+
+Ministre chargé du transport des marchandises dangereuses et, le cas échéant, autres ministres concernés |
+
+4 |
+
+Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer les certificats relatifs aux cargaisons. |
+
+Décret n° 84-810 du 30 août 1984
+
+Article 42-2 (II). |
+
+Ministre chargé du transport des marchandises dangereuses et, le cas échéant, autres ministres concernés |
+
+5 |
+
+Notification et désignation des organismes d'évaluation de la conformité. |
+
+Décret n° 2019-525 du 27 mai 2019
+
+Article 13. |
+
+Ministre chargé des transports |
+
+6 |
+
+Habilitation des organismes à évaluer la conformité des constituants et sous-systèmes des remontées mécaniques. |
+
+Décret n° 2003-426 du 9 mai 2003 Article 15. |
+
+Ministres chargés des transports et de l'industrie |
+
+7 |
+
+Autorisation d'emploi à titre expérimental, attestation d'équivalence et homologation des équipements routiers. Suspension et annulation de cette autorisation, attestation ou homologation. |
+
+Code de la voirie routière Articles R. * 119-5 (II et III), R. 119-10 et R. 119-11. |
+
+Ministre chargé de l'équipement |
+
+8 |
+
+Agrément des experts et organismes qualifiés. |
+
+Code de la voirie routière
+
+Article R 118-2-4. |
+
+Ministres chargés de l'équipement et des transports |
+
+9 |
+
+Agrément des organismes habilités à attester et à vérifier la conformité des équipements routiers. Suspension et annulation de cet agrément. |
+
+Code de la voirie routière Articles R. * 119-5 (IV) et R. 119-11. |
+
+Ministre chargé de l'équipement |
+
+10 |
+
+Prise de position sur une demande de transfert de propriété de lignes ferroviaires. |
+
+Code général de la propriété des personnes publiques Article R. 3114-5. |
+
+Ministre chargé des transports |
+
+11 |
+
+Approbation des projets unitaires d'investissement de SNCF Réseau. |
+
+Décret n° 97-444 du 5 mai 1997
+
+Article 4. |
+
+Ministre chargé des transports |
+
+12 |
+
+Autorisation de fermeture d'une ligne ou d'une section de ligne. |
+
+Décret n° 97-444 du 5 mai 1997
+
+Article 22. |
+
+Ministre chargé des transports |
+
+13 |
+
+Approbation des plans de renforcement des capacités. |
+
+Décret n° 2003-194 du 7 mars 2003
+
+Article 26. |
+
+Ministre chargé des transports |
+
+14 |
+
+Approbation de la convention relative aux modalités d'exploitation touristique sur une ligne à laquelle ont accès les entreprises ferroviaires et qui est maintenue en état pour les besoins de défense. |
+
+Décret n° 97-444 du 5 mai 1997
+
+Article 20. |
+
+Ministre chargé des transports |
+
+15 |
+
+Habilitation des organismes de sûreté. |
+
+Code des transports
+
+Article R. 5332-10. |
+
+Ministre chargé des transports |
+
+16 |
+
+Retrait et suspension de l'habilitation des organismes de sûreté. |
+
+Code des transports
+
+Article R. 5332-12. |
+
+Ministre chargé des transports |
+
+17 |
+
+Décision d'interdiction ou de limitation des services librement organisés assurant une liaison de 100 kilomètres ou moins et portant atteinte à l'équilibre économique de services publics réguliers de transport de personnes organisés par l'Etat. |
+
+Code des transports
+
+Articles L. 3111-18 et R. 3111-51. |
+
+Ministre chargé des transports |
+
+18 |
+
+Délivrance de la licence d'entreprise ferroviaire ; Retrait, suspension de la licence d'entreprise ferroviaire et mise en demeure d'une entreprise ferroviaire de régulariser sa situation financière. |
+
+Décret n° 2003-194 du 7 mars 2003 Articles 10 et 12. |
+
+Ministre chargé des transports |
+
+19 |
+
+Agrément de médecins et de psychologues pour les conducteurs et pour les personnels habilités aux tâches essentielles de sécurité ferroviaire autres que la conduite de trains. |
+
+Décret n° 2017-527 du 12 avril 2017 Articles 3 et 4. |
+
+Ministre chargé des transports |
+
+20 |
+
+Délivrance, visa, renouvellement, suspension et retrait du document de conformité à la gestion de la sécurité pour les compagnies détenant au moins un navire immatriculé au registre international français. |
+
+Décret n° 84-810 du 30 août 1984 Articles 3-1 (V), 8-1 et 9 (IV). |
+
+Ministre chargé de la mer |
+
+21 |
+
+Délivrance des certificats d'exemption pour les navires dont la délivrance des titres de sécurité, de sûreté et des certificats de prévention de la pollution ne relève pas d'une société de classification habilitée, si sa durée de validité est supérieure ou égale à six mois et si les plans et documents ont été soumis à la commission centrale de sécurité. |
+
+Décret n° 84-810 du 30 août 1984 Article 3-2 (II). |
+
+Ministre chargé de la mer |
+
+22 |
+
+Délivrance du titre provisoire se rapportant au document de conformité à la gestion de la sécurité pour les compagnies détenant au moins un navire immatriculé au registre international français. |
+
+Décret n° 84-810 du 30 août 1984 Article 10 (II). |
+
+Ministre chargé de la mer |
+
+23 |
+
+Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou arrêtés pris pour son application pour les navires mentionnés aux 1 du I et 1 du II de l'article 14 du décret. |
+
+Décret n° 84-810 du 30 août 1984 Article 14. |
+
+Ministre chargé de la mer |
+
+24 |
+
+Habilitation, retrait et suspension de l'habilitation des sociétés de classification agréées. |
+
+Décret n° 84-810 du 30 août 1984 Articles 42 et 42-1. |
+
+Ministre chargé de la mer |
+
+25 |
+
+Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer, renouveler, suspendre ou retirer les certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat. |
+
+Décret n° 84-810 du 30 août 1984 Article 42-2 (I et IV). |
+
+Ministre chargé de la mer |
+
+26 |
+
+Habilitation, retrait et suspension de l'habilitation des organismes de certification des conteneurs. |
+
+Décret n° 84-810 du 30 août 1984 Article 42-2 (I et IV). |
+
+Ministre chargé de la mer |
+
+27 |
+
+Habilitation, retrait et suspension des organismes chargés de délivrer les approbations de structures. |
+
+Décret n° 84-810 du 30 août 1984 Article 42-2 (I et IV). |
+
+Ministre chargé de la mer |
+
+28 |
+
+Habilitation, retrait et suspension des organismes chargés de procéder au mesurage du bruit et de l'exposition aux vibrations mécaniques des personnes employées à bord des navires. |
+
+Décret n° 84-810 du 30 août 1984 Article 42-2 (I et IV). |
+
+Ministre chargé de la mer |
+
+29 |
+
+Refus d'accès aux ports et aux mouillages sur l'ensemble du territoire national à tout navire ayant fait l'objet d'une décision d'immobilisation ou d'interdiction d'exploitation dans les cas prévus au I de l'article 41-9 du décret n° 84-810 du 30 août 1984. |
+
+Décret n° 84-810 du 30 août 1984
+
+Article 41-9 (I). |
+
+Ministre chargé de la mer |
+
+30 |
+
+Décision d'expulsion des navires. |
+
+Décret n° 84-810 du 30 août 1984
+
+Article 41-9 (IV). |
+
+Ministre chargé de la mer |
+
+31 |
+
+Interdiction, restriction ou retrait de la mise sur le marché d'équipements marins. |
+
+Décret n° 84-810 du 30 août 1984
+
+Article 56-3. |
+
+Ministre chargé de la mer |
+
+32 |
+
+Mise en demeure de l'armateur ou l'employeur d'un gens de mer de justifier des mesures qu'il entend prendre pour s'acquitter de ses obligations en matière de rapatriement. |
+
+Décret n° 2017-441 du 30 mars 2017 Article 2. |
+
+Ministre chargé de la mer |
+
+33 |
+
+Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports. |
+
+Décret n° 2017-441 du 30 mars 2017 Article 2. |
+
+Ministre chargé de la mer |
+
+34 |
+
+Mise en œuvre de la saisie conservatoire du navire dans les conditions du I de l'article L. 5542-33-2 du code des transports. |
+
+Décret n° 2017-441 du 30 mars 2017 Article 2. |
+
+Ministre chargé de la mer |
+
+35 |
+
+Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports. |
+
+Décret n° 2017-1119 du 29 juin 2017
+
+Articles 5 à 11 et 17. |
+
+Ministre chargé de la mer |
+
+36 |
+
+Saisine du conseil de discipline des marins et des pilotes. |
+
+Code des transports
+
+Article R. 5524-26. |
+
+Ministre chargé de la mer |
+
+37 |
+
+Décision relative à la sanction d'un marin suite à l'avis du conseil de discipline |
+
+Code des transports
+
+Article R. 5524-39. |
+
+Ministre chargé de la mer |
+
+38 |
+
+Décision d'effacement de sanction disciplinaire d'un marin. |
+
+Code des transports
+
+Article R. 5524-45. |
+
+Ministre chargé de la mer |
+
+39 |
+
+Délivrance du permis d'armement pour les navires immatriculés au registre international français. |
+
+Code des transports Article R. 5611-1 (I). |
+
+Ministre chargé de la marine marchande |
+
+40 |
+
+Autorisation pour transport déterminé (ATD) pour la liaison entre ports français (hors Antilles) pour les navires battant pavillon tiers. |
+
+Code des douanes Article 257 (deuxième alinéa) et article 258 (troisième alinéa). |
+
+Ministre chargé de la marine marchande |
+
+41 |
+
+Délivrance des certificats d'immatriculation et de radiation des navires au registre international français. |
+
+Décret n° 2006-142 du 10 février 2006 Article 2 (deuxième et troisième alinéas). |
+
+Ministre chargé de la marine marchande |
+
+42 |
+
+Délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports. |
+
+Décret n° 2006-142 du 10 février 2006 Article 2 (quatrième alinéa). |
+
+Ministre chargé de la marine marchande |
+
+43 |
+
+Agrément des organismes ayant délégation pour délivrer au nom de l'Etat français les certificats d'assurance ou autre garantie financière des navires. |
+
+Code des transports Article R. 5123-6. |
+
+Ministre chargé de la marine marchande |
+
+44 |
+
+Décision relative à la sanction d'un pilote. |
+
+Code des transports
+
+Article R. 5524-52. |
+
+Ministre chargé des ports maritimes |
+
+45 |
+
+Saisine du conseil de discipline des marins et des pilotes. |
+
+Code des transports
+
+Article R. 5524-54. |
+
+Ministre chargé des ports maritimes |
+
+46 |
+
+Décision d'effacement de sanction disciplinaire d'un pilote. |
+
+Code des transports
+
+Article R. 5524-45. |
+
+Ministre chargé des ports maritimes |
+
+47 |
+
+Décision relative à la délivrance et au retrait des certificats de réception par type pour tous les moteurs destinés aux autorails, locomotives et bateaux de navigation intérieure. |
+
+Code de l'environnement
+
+Article R. 224-12. |
+
+Ministre chargé des transports |
+
+48 |
+
+Autorisation du ministre des transports aux chefs d'entreprise de transport public par route pour déroger dans certains cas aux conditions d'exploitation du transport (création de comité hygiène et sécurité). |
+
+Décret n° 81-208 du 3 mars 1981 |
+
+Ministre chargé des transports |
+
+49 |
+
+Agrément des organismes délivrant les autorisations de transport routier. |
+
+Code des transports
+
+Articles R. 3431-1 et R. 3431-4. |
+
+Ministre chargé des transports |
+
+50 |
+
+Inscription au registre des voitures de transport avec chauffeur. |
+
+Code des transports
+
+Articles R. 3122-1 à R. 3122-5 |
+
+Ministre chargé des transports |
+
+51 |
+
+Refus d'inscription ou de renouvellement d'inscription des véhicules de transport avec chauffeur. |
+
+Code des transports
+
+Article R. 3122-2 |
+
+Ministre chargé des transports |
+
+52 |
+
+Habilitation des autorités compétentes pour les essais et l'agrément des appareils de navigation (bateaux de commerce, engins flottants et établissements flottants). |
+
+Code des transports
+
+Article D. 4221-23-1. |
+
+Ministre chargé des transports |
+
+53 |
+
+Délivrance des autorisations pour l'exécution des services internationaux de transport routier de voyageurs lorsque la demande d'autorisation est effectuée en France. |
+
+Code des transports
+
+Article R. 3111-57 |
+
+Ministre chargé des transports |
+
+54 |
+
+Habilitation des organismes pour les essais et l'agrément des appareils de système d'identification automatique nécessaires aux services d'information fluviale harmonisés sur les voies navigables communautaires. |
+
+Code des transports
+
+Article D. 4411-8 |
+
+Ministre chargé des transports |
+
+55 |
+
+Agrément des organismes qui délivrent l'attestation spéciale passagers . |
+
+Code des transports
+
+Article R. 4231-17 |
+
+Ministre chargé des transports |
+
+56 |
+
+Mises en demeure et décisions d'astreintes relatives aux obligations de déclaration des cargaisons donnant lieu à contribution au titre de la Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, adoptée à Londres le 30 avril 2010 ( convention SNPD ) |
+
+Code des transports
 
 Article L. 5435-2
 
-Articles D. 5435-1 et R. 5435-2 |
+Articles D. 5435-1 à R. 5435-2 |
 
-Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991,95-18 et 95-19 du 19 juin 1995.
+Ministre chargé des transports |
 
-1
+57 |
 
-|
+Habilitation des sociétés spécialisées habilitées pour l'installation et le contrôle de fonctionnement des appareils de navigation et d'information |
 
-Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
+Codes des transports
 
-|
+Article D. 4221-23-2 |
 
-Art. 4, 5 et 13
-
-|
-
-2
+Ministre chargé des transports |
 
 |
 
-Délivrance, suspension temporaire et retrait des certificats de sécurité.
+Prévention des risques |
+
+1 |
+
+Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait. |
+
+Code de l'environnement Article L. 557-54. |
+
+Ministre chargé des transports terrestres de matières dangereuses ou ministre chargé de la sécurité industrielle |
+
+2 |
+
+Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux. |
+
+Code de l'environnement Article L. 557-56. |
+
+Ministre chargé des transports de matières dangereuses ou ministre chargé de la sécurité industrielle |
+
+3 |
+
+Habilitation des organismes de contrôle ainsi que leur suspension ou retrait. |
+
+Code de l'environnement Article L. 557-31. |
+
+Ministre chargé des transports de matières dangereuses ou ministre chargé de la sécurité industrielle |
+
+4 |
+
+Agrément des organismes effectuant certaines tâches liées à la surveillance des barrages et des digues. |
+
+Code de l'environnement Article R. 214-129. |
+
+Ministres chargé de l'environnement et de l'énergie |
+
+5 |
+
+Délivrance et retrait de l'agrément des organismes ou entreprises prenant en charge les emballages usagés de leurs cocontractants. |
+
+Code de l'environnement Articles R. 543-58 et R. 543-62. |
+
+Ministres chargés de l'environnement, de l'économie, de l'industrie, de l'agriculture et des collectivités territoriales |
+
+6 |
+
+Agrément des organismes chargés de délivrer aux opérateurs une attestation de capacité concernant les équipements frigorifiques et climatiques. |
+
+Code de l'environnement Article R. 543-108. |
+
+Ministres chargés de l'environnement et de l'industrie |
+
+7 |
+
+Agrément des organismes coordonnateurs mentionnés aux articles R. 543-181 et R. 543-188. |
+
+Code de l'environnement Articles R. 543-182 et R. 543-189. |
+
+Ministres chargés de l'environnement, de l'industrie et des collectivités territoriales |
+
+8 |
+
+Approbation des systèmes individuels d'enlèvement et de traitement des déchets d'équipements électriques et électroniques ménagers mis en place par les producteurs. |
+
+Code de l'environnement Article R. 543-191. |
+
+Ministres chargés de l'environnement, de l'industrie et des collectivités locales |
+
+9 |
+
+Agrément de l'organisme privé gérant la contribution financière en matière de collecte, de valorisation et d'élimination des déchets d'imprimés créée par l'article L. 541-10-1. |
+
+Code de l'environnement Article D. 543-207. |
+
+Ministres chargés de l'environnement, des collectivités territoriales, de l'économie et de l'industrie |
+
+10 |
+
+Approbation, suspension et retrait d'approbation des systèmes individuels chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. |
+
+Code de l'environnement Article R. 543-233. |
+
+Ministres chargés de l'environnement et de l'industrie |
+
+11 |
+
+Agrément, suspension et retrait d'agrément des organismes chargés de la collecte, de l'enlèvement et du traitement des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement. |
+
+Code de l'environnement Article R. 543-234. |
+
+Ministres chargés de l'environnement, de l'industrie et des collectivités territoriales |
+
+12 |
+
+Agrément, suspension et retrait d'agrément de l'organisme coordonnateur chargé de la prise en charge des coûts liés à la collecte séparée des déchets ménagers issus de produits chimiques pouvant présenter un risque significatif pour la santé et l'environnement supportés par les collectivités territoriales et leurs groupements. |
+
+Code de l'environnement Article R. 543-235. |
+
+Ministres chargés de l'environnement, de l'industrie et des collectivités territoriales |
+
+13 |
+
+Homologation des objets bruyants ou des dispositifs d'insonorisation faisant l'objet d'une première mise sur le marché. |
+
+Code de l'environnement
+
+Article R. 571-10. |
+
+Ministre chargé de l'environnement |
+
+14 |
+
+Délivrance et retrait de l'agrément des organismes chargés de mesurer les caractéristiques acoustiques des objets bruyants et des dispositifs d'insonorisation. |
+
+Code de l'environnement Articles R. 571-18 et R. 571-22. |
+
+Ministre chargé de l'environnement et, le cas échéant, le ou les ministres compétents |
+
+15 |
+
+Exemptions au règlement (UE) n° 528/2012 concernant la défense nationale. |
+
+Code de l'environnement Article R. 522-3. |
+
+Ministres chargés de l'environnement et de la défense |
+
+16 |
+
+Agrément d'organismes chargés de délivrer les certificats au personnel. |
+
+Code de l'environnement Article R. 521-59. |
+
+Ministres chargés de l'environnement et de l'industrie |
+
+17 |
+
+Agrément d'organismes chargés de délivrer les certificats aux entreprises. |
+
+Code de l'environnement Article R. 521-60. |
+
+Ministres chargés de l'environnement et de l'industrie |
+
+18 |
+
+Approbation et retrait d'approbation des systèmes individuels, agrément et retrait d'agrément des organismes, agrément et retrait d'agrément de l'organisme coordonnateur, chargés de la gestion des déchets d'éléments d'ameublement. |
+
+Code de l'environnement Articles R. 543-251, R. 543-252 et R. 543-253. |
+
+Ministre chargé de l'environnement |
+
+19 |
+
+Autorisation de mise à disposition sur le marché, de stockage en vue de mise à disposition sur le marché, d'installation, de mise en service, d'utilisation, d'importation ou de transfert de certains produits et équipements. |
+
+Code de l'environnement Article R. 557-1-3. |
+
+Ministre chargé de l'environnement |
+
+20 |
+
+Délivrance de l'habilitation aux organismes mentionnés à l'article L. 557-31. |
+
+Code de l'environnement Article R. 557-4-1. |
+
+Ministre chargé des transports de matières dangereuses ou ministre chargé de la sécurité industrielle |
+
+21 |
+
+Agrément des organismes chargés du contrôle périodique des installations classées prévu à l'article L. 512-11. |
+
+Code de l'environnement Article R. 512-61. |
+
+Ministre chargé de l'environnement |
+
+22 |
+
+Dérogations au titre de l'article 55 du règlement (UE) n° 528/2012. |
+
+Code de l'environnement Article R. 522-6. |
+
+Ministre chargé de l'environnement |
+
+23 |
+
+Opposition à une décision du directeur général de l'agence mentionné à l'article L. 1313-1 du code de la santé publique (produit biocide). |
+
+Code de l'environnement
+
+Article R. 522-11. |
+
+Ministre chargé de l'environnement |
+
+24 |
+
+Autorisation de dissémination d'organismes génétiquement modifiés, sauf si cette compétence est dévolue à un autre ministre. |
+
+Code de l'environnement Article R. 533-1. |
+
+Ministre chargé de l'environnement |
+
+25 |
+
+Autorisation de mise sur le marché d'organismes génétiquement modifiés, sauf si cette compétence est dévolue à un autre ministre. |
+
+Code de l'environnement Article R. 533-25. |
+
+Ministre chargé de l'environnement |
+
+26 |
+
+Toutes décisions relatives à l'importation, à l'exportation ou au transit d'un déchet sur le territoire national conformément au règlement communautaire mentionné à l'article R. 541-62. |
+
+Code de l'environnement Article R. 541-62. |
+
+Ministre chargé de l'environnement |
+
+27 |
+
+Autorisation de fabrication, d'importation ou d'utilisation d'un objet bruyant ou dispositif d'insonorisation à des fins particulières. |
+
+Code de la route Article R. 318-3 |
+
+Ministre chargé de l'environnement |
+
+28 |
+
+Décisions prises en matière d'autorisation de construction et d'exploitation de canalisations de transports, d'approbation des projets de construction d'ouvrages de transport et de renonciation à une autorisation. |
+
+Code de l'environnement Articles R. 555-4 et suivants. |
+
+Ministres chargés de l'énergie et/ ou de l'environnement |
+
+29 |
+
+Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils utilisables en atmosphère explosive). |
+
+Code de l'environnement Article R. 557-1-3. |
 
 |
 
-Art. 4, 15 et 16
+30 |
+
+Autorisation de création d'installations nucléaires de base et prescription des opérations de démantèlement d'installations nucléaires de base. |
+
+Code de l'environnement
+
+Articles R. 593-26, R. 593-37 et R. 596-7. |
+
+Ministres chargés de l'environnement et de l'énergie |
+
+31 |
+
+Autorisation de création d'installations nucléaires de base de courte durée. |
+
+Code de l'environnement
+
+Article R. 593-115. |
+
+Ministres chargés de l'environnement et de l'énergie |
+
+32 |
+
+Mesures d'urgence concernant le fonctionnement d'une installation nucléaire de base. |
+
+Code de l'environnement
+
+Articles R. 593-84 et R. 593-85. |
+
+Ministres chargés de l'environnement et de l'énergie |
+
+33 |
+
+Autorisation d'usage d'explosif dans les conditions autres que celles prévues par l'annexe au décret. |
+
+Décret n° 80-331 du 7 mai 1980
+
+Article 2. |
+
+Ministre chargé des mines |
+
+34 |
+
+Approbation des systèmes individuels et agrément des éco-organismes. |
+
+Code de l'environnement
+
+II de l'article L. 541-10 |
+
+Ministre chargé de l'environnement |
 
 |
 
-Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
+Energie et climat |
 
-1
+1 |
 
-|
+Accréditation (et retrait d'accréditation) des représentants français de constructeurs étrangers pour effectuer les réceptions et homologation de véhicules et d'équipements. |
 
-Agrément des organismes ou services techniques indépendants.
+Code de la route Articles R. 321-15 et R. 321-24. |
 
-|
+Ministre chargé des transports |
 
-Art. 5
+2 |
 
-|
+Réception et homologation des équipements des véhicules (et annulation d'homologation). |
 
-2
+Code de la route Articles R. 321-7, R. 321-9, R. 321-10, R. 321-15 et R. 321-24. |
 
-|
-
-Approbation du dossier préliminaire de sécurité.
-
-|
-
-Art. 7 et 8
-
-|
-
-3
-
-|
-
-Autorisation de mise en exploitation, suspension temporaire et
-
-retrait d'autorisations.
-
-|
-
-Art. 12, 13 et 26
-
-|
-
-Code de la route
-
-1
-
-|
-
-Accréditation (et retrait d'accréditation) des représentants français de constructeurs étrangers pour effectuer les réceptions et homologation de véhicules et d'équipements.
-
-|
-
-Articles R. 106, 4e alinéa,
-
-et R. 109-2, 2e alinéa.
-
-|
-
-2
-
-|
-
-Réception et homologation des équipements des véhicules (et annulation d'homologation).
-
-|
-
-Articles R. 109-2, 1er et 4e alinéa ;
-
-R. 109-3, 3e alinéa ;
-
-R. 109-4, 5e et 6e alinéa ;
-
-R. 109-5, 2e alinéa ;
-
-R. 184, 1er et 2e alinéa ; R. 200.
-
-|
+Ministre chargé des transports |
 
 3 |
 
 Agrément d'un réseau national de contrôle technique des véhicules. |
 
-Article R. 323-8
+Code de la route Article R. 323-8. |
+
+Ministre chargé des transports |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
 4 |
 
-Décisions relatives à l'habilitation et au commissionnement des personnes à rechercher et constater les infractions et les manquements en matière de surveillance du marché des véhicules à moteur |
+Désignation de l'organisme chargé de coordonner les programmes de contrôle organisés par la Commission européenne pour s'assurer de la qualité des mesures réalisées par les organismes chargés de la surveillance de la qualité de l'air. |
 
-Art. L. 329-5 à L. 329-7
+Code de l'environnement Article R. 221-13. |
 
-Art. R. 329-2 à R. 329-4 |
+Ministre chargé de l'environnement |
 
 5 |
 
-Décisions relatives aux contrôles de conformité (recueil de renseignements et de documents, notification de la non-conformité, mesures et sanctions administratives et saisine du procureur de la République) en matière surveillance du marché des véhicules à moteur |
+Etablissement de la liste des exploitants auxquels sont affectés des quotas d'émission de gaz à effet de serre. |
 
-Art. L. 329-13 à L. 329-26 et L. 329-30 à L. 329.46
+Code de l'environnement Article R. 229-8. |
 
-Art. R. 329-5 à R. 329-24 |
-
-Décret n° 55-1297 du 3 octobre 1955 modifié fixant les conditions de fonctionnement du régime complémentaire de retraite du transport
-
-1
-
-|
-
-Décision d'attribution de compléments de pension.
-
-|
-
-Titres II et III.
-
-|
-
-Décret n° 60-794 du 22 juin 1960 modifié portant publication de l'accord européen relatif au transport international des marchandises dangereuses par route (ADR) ouvert à la signature le 30 septembre 1957
-
-1
-
-|
-
-Agrément de colis pour le transport des matières radioactives.
-
-|
-
-Arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route, article 47.
-
-Arrêté du 6 décembre 1996 relatif transport des marchandises dangereuses par chemin de fer, article 35.
-
-|
-
-Décret n° 70-810 du 2 septembre 1970 relatif à la sécurité des bateaux à passagers non soumis à la réglementation de la navigation maritime
-
-1
-
-|
-
-Agrément et décision de nomination d'experts pour intervenir à la demande des commissions de surveillance et de particuliers en effectuant des visites et essais sur les bateaux à passagers.
-
-|
-
-Article 3.
-
-|
-
-Décret n° 71-912 du 28 octobre 1971 relatif à la sécurité des bateaux et engins de plaisance circulant ou stationnant sur les eaux intérieures
-
-1
-
-|
-
-Agrément d'experts pour intervenir à la demande des commissions de surveillance et de particuliers en effectuant des visites et essais sur les bateaux et engins de plaisance circulant ou stationnant sur les eaux intérieures.
-
-|
-
-Article 6.
-
-|
-
-Décret n° 81-208 du 3 mars 1981 portant application des dispositions du titre III, chapitre Ier, du livre II du code du travail dans les entreprises de transport public par route
-
-1
-
-|
-
-Autorisation du ministre des transports aux chefs d'entreprise de transport public par route pour déroger dans certains cas aux conditions d'exploitation du transport (création de comité hygiène et sécurité).
-
-|
-
-Article 2.
-
-|
-
-Code des transports
-
-1
-
-|
-
-Autorisation ministérielle au calcul de la durée hebdomadaire de travail sur deux semaines dans le transport routier de marchandises
-
-|
-
-Article D. 3312-41
-
-|
-
-Décret n° 97-608 du 31 mai 1997 relatif à la formation professionnelle initiale et continue des conducteurs salariés du transport routier public de marchandises
-
-1
-
-|
-
-Jusqu'au 31 décembre 1999, agrément des centres de formation habilités à former les conducteurs routiers (marchandises) au titre de leur formation obligatoire.
-
-|
-
-Articles 7 et 8.
-
-|
-
-Décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré national
-
-1
-
-|
-
-Délivrance de la licence d'entreprise ferroviaire ;
-
-Retrait, suspension de la licence d'entreprise ferroviaire et
-
-mise en demeure d'une entreprise ferroviaire de
-
-régulariser sa situation financière.
-
-|
-
-Articles 10 et 12
-
-|
-
-2
-
-|
-
-Délivrance du certificat de sécurité pour l'utilisation du
-
-réseau ferré national ;
-
-Retrait et suspension du certificat de sécurité.
-
-|
-
-Articles 15 et 16
-
-|
-
-Décret n° 2007-937 du 15 mai 2007 relatif à la sûreté des navires :
-
-1
-
-|
-
-Approbation du plan de sûreté.
-
-|
-
-Article 2
-
-|
-
-2
-
-|
-
-Délivrance et renouvellement du certificat international de sûreté.
-
-|
-
-Article 4
-
-|
-
-3
-
-|
-
-Délivrance et renouvellement du certificat international de sûreté provisoire.
-
-|
-
-Article 5
-
-|
-
-4
-
-|
-
-Délivrance et renouvellement du certificat d'exemption.
-
-|
-
-Article 6
-
-|
-
-5
-
-|
-
-Approbation des modifications du plan de sûreté approuvé.
-
-|
-
-Article 7
-
-|
-
-6
-
-|
-
-Retrait du certificat international de sûreté.
-
-|
-
-Article 8
-
-|
-
-7
-
-|
-
-Retrait de l'approbation du plan de sûreté.
-
-|
-
-Article 9
-
-|
-
-8
-
-|
-
-Recours contre les décisions de retrait du certificat international de sûreté.
-
-|
-
-Article 10
-
-|
-
-Mesures prises par le ministre chargé de la mer
-
-Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution :
-
-1
-
-|
-
-Délivrance, visa et renouvellement du document de conformité à la gestion de la sécurité
-
-|
-
-Article 3-1, paragraphe III.
-
-|
-
-2
-
-|
-
-Délivrance des certificats d'exemption.
-
-|
-
-Article 3-2, paragraphe II.
-
-|
-
-2 bis |
-
-Suspension du document de conformité à la gestion de la sécurité |
-
-Article 8-1 |
-
-3
-
-|
-
-Délivrance du titre provisoire se rapportant au document de conformité à la gestion de la sécurité.
-
-|
-
-Article 10, paragraphe II.
-
-|
-
-4
-
-|
-
-Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou des arrêtés pris pour son application.
-
-|
-
-Article 14, paragraphe I-2.
-
-|
-
-5
-
-|
-
-Décision d'approbation des navires de plaisance : séries de plus de 24 mètres et navires à utilisation collective.
-
-|
-
-Article 17, paragraphe I-1.
-
-|
-
-6
-
-|
-
-Approbation de tout document nécessaire aux navires devant être approuvé en application des conventions internationales ou des prescriptions du décret n° 84-810 ou des arrêtés pris pour son application.
-
-|
-
-Article 17, paragraphe I-3.
-
-|
-
-7
-
-|
-
-Habilitation, retrait et suspension de l'habilitation des sociétés de classification agréées.
-
-|
-
-Articles 42 et
-
-42-1.
-
-|
-
-8
-
-|
-
-Habilitation, retrait et suspension de l'habilitation des organismes chargés de délivrer, renouveler, suspendre ou retirer les certificats d'approbation relatifs à l'évaluation de la conformité des équipements marins au nom de l'Etat.
-
-|
-
-Article 42-2.
-
-|
-
-9
-
-|
-
-Habilitation, retrait et suspension de l'habilitation des organismes de certification des conteneurs.
-
-|
-
-Article 42-2.
-
-|
-
-10
-
-|
-
-Habilitation des organismes chargés de délivrer les approbations de structures |
-
-Article 42-2 |
-
-11 |
-
-Habilitation des organismes chargés de procéder au mesurage de l'exposition aux vibrations mécaniques des personnes employées à bord des navires
-
-|
-
-Article 42-2 |
-
-12 |
-
-Habilitation des organismes chargés de procéder au mesurage du bruit
-
-|
-
-Article 42-2 |
-
-Décret n° 92-1166 du 21 octobre 1992 relatif à la conduite en mer des navires de plaisance à moteur
-
-1
-
-|
-
-Jusqu'au 31 décembre 1998, délivrance des permis et des duplicatas de permis de conduire des navires de plaisance à moteur en mer pour les départements non côtiers.
-
-|
-
-Article 5,
-
-1er alinéa.
-
-|
-
-Décret n° 99-439 du 25 mai 1999 modifié relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un permis d'armement.
-
-1
-
-|
-
-Décision accordant une équivalence de tout ou partie des formations ou des temps de navigation requis pour la délivrance des titres de formation professionnelle maritime, ou des conditions nécessaires à l'entrée en formation, à des personnes justifiant de certaines qualifications.
-
-|
-
-Article 14 bis
-
-|
-
-Décret n° 2017-441 du 30 mars 2017.
-
-1 |
-
-Mise en demeure de l'armateur ou l'employeur d'un gens de mer de justifier des mesures qu'il entend prendre pour s'acquitter de ses obligations en matière de rapatriement |
-
-Article 2 |
-
-2 |
-
-Mise en œuvre du rapatriement des gens de mer et du recouvrement des frais avancés auprès de l'armateur et de l'employeur dans les conditions du II de l'article L. 5542-33-1 du code des transports |
-
-Article 2 |
-
-3 |
-
-Mise en œuvre de la saisie conservatoire du navire dans les conditions du I de l'article L. 5542-33-2 du code des transports |
-
-Article 2 |
-
-Décret n° 2017-1119 du 29 juin 2017 relatif aux services privés de recrutement et de placement des gens de mer :
-
-1 |
-
-Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports |
-
-Articles 5 à 11 et 17 |
-
-Code des transports
-
-1 |
-
-Saisine du conseil de discipline des marins et des pilotes
-
-|
-
-R. 5524-26 |
-
-2 |
-
-Décision relative à la sanction d'un marin suite à avis du conseil de discipline |
-
-R. 5524-39 |
-
-3 |
-
-Décision d'effacement de sanction disciplinaire d'un marin |
-
-R. 5524-45 |
-
-Mesures prises par le ministre chargé de la marine marchande
-
-Code des transports
-
-1 |
-
-La délivrance du permis d'armement pour les navires immatriculés au registre international français. |
-
-I. de l'article R. 5611-1 |
-
-Code des douanes
-
-1
-
-|
-
-Autorisation pour transport déterminé (ATD) pour la liaison entre ports français (hors Antilles) pour les navires battant pavillon tiers.
-
-|
-
-Article 257, 1er alinéa,
-
-et article 258,
-
-2e alinéa.
-
-|
-
-Décret n° 2006-142 du 10 février 2006 relatif à la création du guichet unique prévu par la loi n° 2005-412 du 3 mai 2005 relative à la création du registre international français
-
-1 |
-
-La délivrance des certificats d'immatriculation et de radiation des navires au registre international français. |
-
-Article 2, alinéas 2 et 3 |
-
-2 |
-
-La délivrance des certificats d'assurance ou autre garantie financière des navires immatriculés au registre international français prévus par l'article L. 5123-2 du code des transports, à l'exception de ceux de ces certificats dont la délivrance a été déléguée en application de l'article L. 5123-3 du code des transports. |
-
-Article 2, alinéa 6 |
-
-3 |
-
-Dérogations aux conditions de qualification professionnelle maritime pour l'exercice d'une capacité à bord d'un navire.
-
-|
-
-Article 2, alinéa 5 |
-
-4 |
-
-Visas de reconnaissance d'un titre de formation professionnelle maritime, délivré par un Etat autre que la France ou par un organisme placé sous son autorité, pour exercer des fonctions à bord des navires armés au commerce ou à la plaisance.
-
-|
-
-Article 2, alinéa 5 |
-
-5 |
-
-Attestations de reconnaissance des qualifications professionnelles délivrées par un Etat autre que la France permettant d'exercer des fonctions à bord de navires armés à la pêche ou aux cultures marines.
-
-|
-
-Article 2, alinéa 5 |
+Ministre chargé de l'environnement |
 
 6 |
 
-Attestations temporaires de trois mois délivrées aux titulaires d'un titre de formation professionnelle maritime en cours de validité délivré par un Etat autre que la France ou par un organisme placé sous son autorité pour lequel un visa de reconnaissance a été demandé.
+Décisions relatives aux quotas d'émission de gaz à effet de serre. |
 
-|
+Code de l'environnement Articles R. 229-9 à R 229-15, R. 229-16-1 et R. 229-17. |
 
-Article 2, alinéa 5 |
-
-Décret n° 2014-497 du 16 mai 2014 relatif à la délégation des certificats d'assurance ou autre garantie financière des navires
-
-1 |
-
-Agrément des organismes ayant délégation pour délivrer au nom de l'Etat français les certificats d'assurance ou autre garantie financière des navires. |
-
-Article 2 |
-
-Mesures prises par le ministre chargé des ports maritimes
-
-Code des ports maritimes
-
-1
-
-|
-
-Autorisation ministérielle pour déroger dans le cahier des charges d'une concession d'outillage public dans les ports non autonomes au cahier des charges type.
-
-|
-
-Article R. 122-8 c.
-
-|
-
-2
-
-|
-
-Autorisation ministérielle pour dérogation au cahier des charges types en matière d'outillage privé avec obligation de service public dans les ports d'intérêt national.
-
-|
-
-Article R. 122-12, 2e alinéa.
-
-|
-
-Code des transports
-
-1 |
-
-Décision relative à la sanction d'un pilote
-
-|
-
-R. 5524-52 |
-
-2 |
-
-Saisine du conseil de discipline des marins et des pilotes |
-
-R. 5524-54 |
-
-3 |
-
-Décision d'effacement de sanction disciplinaire d'un pilote |
-
-R. 5524-45 |
-
-Mesures prises par le ministre chargé du tourisme
-
-Code du tourisme
-
-1
-
-|
-
-Délivrance, suspension et retrait de l'agrément national délivré à des organismes de tourisme social et familial.
-
-|
-
-Articles R. * 412-1 et
-
-R. * 412-7.
-
-|
-
-Mesures prises par le ministre chargé de l'aviation civile
-
-Code de l'aviation civile et code des transports
-
-1
-
-|
-
-Autorisation spéciale et temporaire accordée aux aéronefs étrangers pour circuler au-dessus du territoire français, sauf lorsqu'elle porte sur l'utilisation d'aéronefs pour du travail aérien.
-
-|
-
-Article R. 131-6.
-
-|
-
-2
-
-|
-
-Sanctions administratives prises après avis de la commission administrative de l'aviation civile.
-
-|
-
-Articles R. 160-1, R. 217-4, R. 217-5 et R. 330-20 et R. 330-22.
-
-|
-
-3
-
-|
-
-Délivrance, transformation en licence temporaire, suspension et retrait de la licence d'exploitation de transporteur aérien, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
-
-|
-
-Article R. 330-1.
-
-|
-
-4
-
-|
-
-Approbation préalable des programmes d'exploitation des services aériens au départ, à destination ou à l'intérieur du territoire national, sauf pour les transporteurs aériens français exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
-
-|
-
-Article R. 330-8.
-
-|
-
-5
-
-|
-
-Dépôt ou homologation des tarifs de passagers
-
-|
-
-Articles L. 330-8.
-
-|
-
-6
-
-|
-
-Autorisation, pour les transporteurs titulaires d'une licence d'exploitation délivrée par la France, d'exploiter un aéronef immatriculé à l'étranger ou des services aériens au départ, à destination ou à l'intérieur du territoire national, dans le cadre d'accords commerciaux aux termes desquels le transporteur contractuel n'est pas le transporteur de fait, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
-
-|
-
-Articles R. 330-4 et R. 330-9.
-
-|
-
-7
-
-|
-
-Octroi, renouvellement ou retrait de l'autorisation d'exploiter certains services intérieurs ou internationaux (extracommunautaires) pour les transporteurs établis en France, sauf pour les entreprises exploitant exclusivement des aéronefs d'une masse maximale au décollage inférieure à 10 tonnes ou d'une capacité de moins de 20 sièges et n'exploitant pas de services réguliers internationaux.
-
-|
-
-Article R. 330-6.
-
-|
-
-8
-
-|
-
-Dérogations aux règles d'utilisation des aéroports et affectations individuelles des entreprises de transport aérien.
-
-|
-
-Article R. 221-3.
-
-|
-
-9
-
-|
-
-Création d'un aérodrome de catégorie A, B, C ou E, destiné à être ouvert à la circulation aérienne publique.
-
-|
-
-Article D. 221-2.
-
-|
-
-10
-
-|
-
-Création et mise en service d'un aérodrome à usage restreint.
-
-|
-
-Articles D. 232-2 et D. 232-6.
-
-|
-
-11
-
-|
-
-Modification des conditions ou consignes d'utilisation d'un aérodrome à usage restreint.
-
-|
-
-Article D. 232-8.
-
-|
-
-12
-
-|
-
-Ouverture et fermeture d'un aérodrome à la circulation aérienne publique.
-
-|
-
-Articles R. 221-2 et D. 221-4.
-
-|
-
-13
-
-|
-
-Autorisation de certains transports aériens commerciaux sur aérodromes à usage restreint.
-
-|
-
-Article D. 232-1.
-
-|
-
-14
-
-|
-
-Subordination de l'autorisation de création d'un aérodrome à usage restreint à la conclusion entre l'Etat et le créateur de l'aérodrome d'une convention de type L. 221-1 et imposition à l'exploitant d'une souscription d'un contrat d'assurance.
-
-|
-
-Article D. 232-3.
-
-|
-
-15
-
-|
-
-Accord donné au créateur d'un aérodrome à usage restreint de confier l'exploitation de l'aérodrome à un tiers de son choix.
-
-|
-
-Article D. 232-7.
-
-|
-
-16
-
-|
-
-Décisions relatives :
-
--à l'agrément des aptitudes techniques des entreprises assurant la conception,
-
-la production, l'entretien et l'exploitation des aéronefs ;
-
--à la navigabilité des aéronefs et la limitation des nuisances ;
-
--à l'aptitude au vol, l'utilisation des aéronefs, à leurs équipements, à leurs
-
-équipages, à leurs chargements et aux passagers, et sanctions correspondantes.
-
-Attestation d'aptitude aux fonctions de télépilote dans le cadre du ou des scénarios opérationnels pour lesquels ils souhaitent continuer à opérer ;
-
-Certificat d'aptitude théorique de télépilote ;
-
-Décisions en matière de reconnaissance des formations visées à l'article L. 6214-2, de l'expérience et des qualifications.
-
-|
-
-Articles R. 133-1, R. 133-1-1, R. 133-1-2,
-
-R. 133-1-3 et R. 330-1-2.
-
-Articles D. 136-2, D. 136-2-2 et R. 136-1.
-
-|
-
-17
-
-|
-
-Décisions relatives à la délivrance et à la validation des titres aéronautiques professionnels et non professionnels et sanctions correspondantes.
-
-|
-
-Articles R. 410-2, R. 410-3, R. 425-4 et R. 431-3.
-
-|
-
-18
-
-|
-
-Décisions relatives à l'inscription sur les registres spéciaux du personnel navigant professionnel de l'aéronautique civile de nationalité française.
-
-Décisions relatives à l'exercice d'une activité professionnelle par les personnes n'ayant pas la nationalité française.
-
-|
-
-Chapitre Ier du titre II, du livre IV
-
-(Personnel navigant).
-
-|
-
-19
-
-|
-
-Décisions relatives à l'agrément des centres aéromédicaux et des examinateurs aéromédicaux |
-
-Article R. 410-12 du code de l'aviation civile |
-
-Décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail ou de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
-
-|
-
-Articles R. 410-5 et D. 424-2 du code de l'aviation civile
-
-|
-
-20
-
-|
-
-Autorisation d'un régime répartissant le temps de vol et d'arrêt du personnel navigant sur une autre période de temps que celles prévues au code de l'aviation civile.
-
-|
-
-Article R. 423-88
-
-|
-
-21
-
-|
-
-Attribution des fréquences utiles à la circulation des aéronefs
-
-|
-
-Article D. 133-19 et D. 133-19-1.
-
-|
-
-22
-
-|
-
-Nomination d'un coordinateur pour l'attribution des créneaux horaires sur un aéroport coordonné.
-
-Nomination du comité de coordination.
-
-|
-
-Règlement CEE n° 95-93 du 18 janvier 1995.
-
-|
-
-23
-
-|
-
-Certification des validateurs indépendants.
-
-|
-
-Article R. 213-2-2, II.
-
-|
-
-24
-
-|
-
-Sanction pécuniaire prononcée à l'encontre de l'exploitant de l'aérodrome.
-
-|
-
-Article R. 224-4-3
-
-|
-
-25
-
-|
-
-Délivrance de la licence de maintenance d'aéronefs.
-
-|
-
-Article R. 133-17.
-
-|
-
-26
-
-|
-
-Délivrance de la qualification permettant l'exercice des fonctions assurant le service d'information de vol et d'alerte.
-
-|
-
-Article R. 133-18.
-
-|
-
-27
-
-|
-
-Agrément de sûreté des transporteurs aériens
-
-|
-
-Article R. 213-2-1, II.
-
-|
-
-28
-
-|
-
-Agrément de sûreté des agents habilités
-
-|
-
-Article R. 213-2-1, II.
-
-|
-
-29
-
-|
-
-Agrément de sûreté des chargeurs connus
-
-|
-
-Article R. 213-2-1, II.
-
-|
-
-30
-
-|
-
-Agrément de sûreté des fournisseurs habilités
-
-|
-
-Article R. 213-2-1, II.
-
-|
-
-31
-
-|
-
-Délivrance des titres de circulation valables sur plusieurs aérodromes ou installations
-
-|
-
-Article R. 213-3-3, III.
-
-|
-
-32
-
-|
-
-Certification des personnes mettant en œuvre des mesures de sûreté ; de leurs superviseurs et des instructeurs et retrait de cette certification
-
-|
-
-Article R. 213-4, I
-
-|
-
-33
-
-|
-
-Agrément des organismes participant au processus de certification ou délivrant la certification à ces mêmes personnes et suspension ou retrait de cet agrément
-
-|
-
-Article R. 213-4-1
-
-|
-
-34
-
-|
-
-Approbation des cours portant sur la sûreté de l'aviation civile et retrait de cette approbation
-
-|
-
-Article R. 213-4-1
-
-|
-
-35
-
-|
-
-Décision de suspension des services de navigation aérienne
-
-|
-
-Articles R. 134-7 et R. 134-9-VII |
-
-Annexe I au décret n° 2005-828 du 20 juillet 2005 relatif à la société Aéroports de Paris
-
-1
-
-|
-
-Avis conforme sur les décisions de répartition des transporteurs aériens entre les aérodromes d'Aéroports de Paris
-
-|
-
-Article 6
-
-(II et V)
-
-|
-
-2
-
-|
-
-Opposition aux cessions, apports ou à la création de sûretés
-
-|
-
-Article 53
-
-|
-
-3
-
-|
-
-Avis conforme sur le choix de l'organisme de certification
-
-|
-
-Article 59
-
-|
-
-4
-
-|
-
-Sanction envers la société Aéroports de Paris en cas de manquement constaté aux obligations imposées par le cahier des charges
-
-|
-
-Article 65
-
-|
-
-Code de l'environnement
-
-1
-
-|
-
-Décision relative à la délivrance et le retrait des certificats de réception par type pour les moteurs destinés aux autorails, locomotives et bateaux de la navigation intérieure.
-
-|
-
-Article R. 224-12.
-
-|
-
-Décret du 2 avril 1926 modifié portant règlement sur les appareils à vapeur autres que ceux placés à bord des bateaux
-
-1
-
-|
-
-Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression)
-
-|
-
-Articles 5 et 6.
-
-|
-
-2
-
-|
-
-Retrait du marché de produits dangereux
-
-|
-
-Article 45-1.
-
-|
-
-Décret n° 43-63 du 18 janvier 1943 modifié portant règlement sur les appareils à pression de gaz
-
-1
-
-|
-
-Retrait du marché d'appareils ou de produits dangereux
-
-|
-
-Article 8.
-
-|
-
-2
-
-|
-
-Agrément d'organismes de contrôle intervenant dans le domaine de la sécurité industrielle (appareils à pression)
-
-|
-
-Article 6 bis.
-
-|
-
-Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression :
-
-1
-
-|
-
-Habilitation d'organismes de contrôle mentionnés aux articles 10,12,18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
-
-|
-
-Articles 14,21 et 23.
-
-|
-
-|
-
-Habilitation d'organes d'inspection d'utilisateurs mentionnés à l'article 14 ainsi que la suspension ou le retrait de cette habilitation.
-
-|
-
-|
-
-2
-
-|
-
-Interdiction ou restriction de mise sur le marché, de mise en service ou de maintien en service d'équipements dangereux ainsi que leur retrait.
-
-|
-
-Articles 28 et 29.
-
-|
-
-|
-
-Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux.
-
-|
-
-|
-
-Mesure prise par le ministre chargé de l'urbanisme
-
-Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomètre expert et code des devoirs professionnels
-
-1 |
-
-Décision relative à la reconnaissance de qualifications professionnelles de ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen |
-
-Article 11, premier et deuxième alinéa |
-
-C.-Autres décisions
-
-1
-
-|
-
-Décisions relatives à l'exécution des décisions de justice.
-
-|
-
-2
-
-|
-
-Décisions relatives au règlement amiable des litiges résultant de l'activité des services du ministère.
-
-|
-
-3
-
-|
-
-Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3° de l'annexe au décret pris pour l'application à l'ensemble des ministères du 1° de l'article 2, du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles.
-
-|
-
-4
-
-|
-
-Contributions financières à la recherche et au développement.
-
-|
-
-Autres mesures prises par un ministre
-
-Code des marchés publics
-
-1
-
-|
-
-Exclusion temporaire ou définitive d'une entreprise des marchés passés par les services relevant de son autorité.
-
-|
-
-Article 42.
-
-|
-
-Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécurité du travail, ainsi qu'à la prévention médicale dans la fonction publique
-
-1
-
-|
-
-Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.
-
-|
-
-TITRE III : DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉNERGIE
-
-Décret n° 2013-46 du 14 janvier 2013 relatif aux aides pour l'électrification rurale.
-
-1 |
-
-Décisions de répartition en sous-programmes du programme principal et du programme spécial d'aides |
-
-Article 1er |
-
-2 |
-
-Décision de répartition entre sous-programmes des droits à subventions du programme principal |
-
-Article 6, (II), 1er alinéa |
-
-3 |
-
-Décision de répartition entre autorités organisatrices de la distribution des droits à subventions de chaque sous-programme du programme principal ou, le cas échéant, décision globale d'attribution de ces droits, selon le cas à l'établissement public de coopération départemental ou au département |
-
-Article 6, (II), 2e et 3e alinéa |
-
-4 |
-
-Décision d'attribution d'une subvention d'un sous-programme du programme principal, fixant, le cas échéant, un taux réduit |
-
-Articles 8 et 3 |
-
-5 |
-
-Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention |
-
-Articles 9 (I et II) et 10 |
-
-6 |
-
-Décisions constatant la caducité de la subvention et prorogeant le délai de deux ans |
-
-Article 11 |
+Ministre chargé de l'environnement |
 
 7 |
 
-Décisions demandant le reversement d'une subvention et prolongeant le délai d'exécution des travaux |
+Décision d'interdiction de tout transfert des quotas délivrés au titre d'une installation en cas d'absence ou d'irrégularité de la déclaration relative aux émissions de gaz à effet de serre. |
 
-Article 12 |
+Code de l'environnement Articles L. 229-8 à L. 229-10. |
+
+Ministre chargé de l'environnement |
+
+|
+
+|
+
+|
+
+|
 
 8 |
 
-Décision d'attribution ou de refus d'une subvention du programme spécial |
+Décisions relatives aux versements libératoires et aux pénalités. |
 
-Articles 13 et 15 |
+Code de l'énergie Article L. 221-4. |
+
+Ministre chargé de l'énergie |
 
 9 |
 
-Décisions relatives à un versement prévisionnel de trésorerie ou à un acompte afférents à une subvention, ou au paiement d'une subvention |
+Décisions relatives aux délégations d'obligations d'économies d'énergie. |
 
-Articles 16 (I et II) et 17 |
+Code de l'énergie Article R. 221-6. |
+
+Ministre chargé de l'énergie |
 
 10 |
 
-Décision constatant la caducité de la subvention et prorogeant le délai de deux ans |
+Agrément d'un laboratoire ou d'un organisme pour le prélèvement à l'émission ou l'analyse de certaines substances émises dans l'atmosphère par les installations classées. |
 
-Article 18 |
+Code de l'environnement Article R. 512-71. |
+
+Ministre chargé de l'environnement |
 
 11 |
 
-Décision demandant le reversement d'une subvention et prolongeant le délai d'exécution |
+Autorisation de transfert de déchets radioactifs ou de combustible nucléaire usé. |
 
-Article 19 |
+Code de l'environnement Article R. 542-38. |
+
+Ministre chargé de l'environnement |
 
 12 |
 
-Décision habilitant les agents chargés du contrôle |
+Consentement donné à l'importation de transfert de déchets radioactifs ou de combustible nucléaire usé en provenance d'un Etat membre de l'Union européenne. |
 
-Article 21 |
+Code de l'environnement Article R. 542-41. |
 
-13
+Ministre chargé de l'environnement |
+
+13 |
+
+Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire usé à destination d'un Etat membre de l'Union européenne. |
+
+Code de l'environnement Article R. 542-45. |
+
+Ministre chargé de l'environnement |
+
+14 |
+
+Autorisation d'importation de déchets radioactifs ou de combustible nucléaire usé en provenance d'un Etat n'appartenant pas à l'Union européenne. |
+
+Code de l'environnement Article R. 542-50. |
+
+Ministre chargé de l'environnement |
+
+15 |
+
+Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire usé à destination d'un Etat n'appartenant pas à l'Union européenne. |
+
+Code de l'environnement Article R. 542-54. |
+
+Ministre chargé de l'environnement |
+
+16 |
+
+Autorisation de transit à l'occasion du transfert de déchets radioactifs ou de combustible nucléaire usé entre Etats membres de l'Union européenne. |
+
+Code de l'environnement Article R. 542-60. |
+
+Ministre chargé de l'environnement |
+
+17 |
+
+Autorisation de retour sur le territoire national des déchets radioactifs ou du combustible nucléaire usé dont le transfert n'a pu être mené à bien si le transfert avait pour objet l'exportation de ces substances. |
+
+Code de l'environnement Article R. 542-65 (troisième alinéa). |
+
+Ministre chargé de l'environnement |
+
+18 |
+
+Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures. |
+
+Code de la défense Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6. |
+
+Ministre chargé de l'environnement |
+
+19 |
+
+Décision de ne pas mener à bien un transfert autorisé. |
+
+Code de l'environnement Article R. 542-65 (premier alinéa). |
+
+Ministre chargé de l'environnement |
+
+20 |
+
+Mises en demeure d'acquérir des certificats d'économies d'énergie. |
+
+Code de l'énergie Article L. 221-3. |
+
+Ministre chargé de l'énergie |
+
+21 |
+
+Mises en demeure de respecter les obligations déclaratives, établissement d'office des déclarations et prononcé des amendes. |
+
+Code de l'énergie Article R. 222-1. |
+
+Ministre chargé de l'énergie |
+
+22 |
+
+Fixation des obligations d'économies d'énergie. |
+
+Code de l'énergie Article R. 221-12. |
+
+Ministre chargé de l'énergie |
+
+23 |
+
+Annulation des certificats d'économies d'énergie en fin de période. |
+
+Code de l'énergie Article R. 221-13. |
+
+Ministre chargé de l'énergie |
+
+24 |
+
+Dérogation aux conditions d'attribution des déchets radioactifs issus du traitement de combustibles usés ou de déchets radioactifs. |
+
+Décret n° 2008-209 du 3 mars 2008 Article 2-1. |
+
+Ministre chargé de l'environnement |
+
+25 |
+
+Quotas de gaz à effet de serre : hors déclaration d'émissions. |
+
+Code de l'environnement (notamment articles R. 229-5-1) et règlements (UE) n° 2018/2066 et n° 2018/2067. |
+
+Ministre chargé de l'environnement |
+
+26 |
+
+Quotas de gaz à effet de serre : déclaration des émissions. |
+
+Arrêté ministériel du 31 janvier 2008. |
+
+Ministre chargé des installations classées |
+
+27 |
+
+Suspension et cessation de la délivrance des unités de réduction des émissions en cas d'irrégularité dans la mise en œuvre d'une activité de projet sur le territoire national. |
+
+Code de l'environnement Article R. 229-44. |
+
+Ministre chargé de l'environnement |
+
+28 |
+
+Autorisation d'expérimentation de la circulation de véhicules à délégation partielle ou totale de conduite. |
+
+Code de la route Article R. 322-3. |
+
+Ministre chargé des transports |
+
+29 |
+
+Autorisation exceptionnelle de délivrance de W garage. |
+
+Code de la route Article R. 322-3. |
+
+Ministre chargé des transports |
+
+30 |
+
+Délivrance de certificats d'économies d'énergie. |
+
+Code de l'énergie Article R. 221-22. |
+
+Ministre chargé de l'énergie |
+
+31 |
+
+Sanctions en raison de manquement aux obligations déclaratives liées aux certificats d'économies d'énergie |
+
+Code de l'énergie Article L. 222-2. |
+
+Ministre chargé de l'énergie |
+
+32 |
+
+Définition du périmètre d'un contrôle de la régularité de la délivrance des certificats d'économies d'énergie. |
+
+Code de l'énergie Article R. 222-7. |
+
+Ministre chargé de l'énergie |
+
+33 |
+
+Sélection d'un échantillon d'opérations d'économies d'énergie dans le périmètre du contrôle, mise en demeure. |
+
+Code de l'énergie Article R. 222-7. |
+
+Ministre chargé de l'énergie |
+
+34 |
+
+Retrait de l'agrément d'un plan d'actions d'économies d'énergie, fixation du montant de la sanction pécuniaire. |
+
+Code de l'énergie Article R. 222-10. |
+
+Ministre chargé de l'énergie |
+
+35 |
+
+Mise en demeure, suspension de l'agrément d'un plan d'actions d'économies d'énergie. |
+
+Code de l'énergie Article R. 222-10. |
+
+Ministre chargé de l'énergie |
+
+36 |
+
+Fixation du montant de la sanction pécuniaire, mise en demeure, rejet de demandes de certificats d'économies d'énergie. |
+
+Code de l'énergie Article R. 222-10. |
+
+Ministre chargé de l'énergie |
+
+37 |
+
+Décisions prises en matière de permis exclusifs de recherche de mines d'hydrocarbures (H) et non hydrocarbures (M) octroi, rejet, prolongation, prolongation exceptionnelle (H), fusion, mutation et extension. |
+
+Décret n° 2006-648 du 2 juin 2006
+
+Article 23. |
+
+Ministre chargé de l'énergie |
+
+38 |
+
+Décisions relatives aux permis exclusifs de recherches de mines et de stockage souterrain en matière d'octroi du titre initial, de rejet, de prolongation, de prolongation exceptionnelle pour les mines d'hydrocarbures, d'extension, de mutation et de fusion, hormis les titres miniers en mer dans les régions d'outre-mer. |
+
+Décret n° 2006-648 du 2 juin 2006
+
+Articles 23,49,50,51,52 et 53. |
+
+Ministre chargé des mines pour les substances minérales non énergétiques.
+
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+
+39 |
+
+Décisions relatives aux concessions de mines et de stockage souterrain : rejet de la demande de concession, hormis les titres miniers en mer dans les régions d'outre-mer. |
+
+Décret n° 2006-648 du 2 juin 2006
+
+Article 31. |
+
+Ministre chargé des mines pour les substances minérales non énergétiques.
+
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+
+40 |
+
+Décisions relatives au permis d'exploitation dans les départements d'outre-mer en matière d'octroi du titre initial, de prolongation, d'extension, de mutation, d'amodiation, de renonciation et de retrait, hormis les titres miniers en mer dans les régions d'outre-mer. |
+
+Décret n° 2006-648 du 2 juin 2006
+
+Articles 35 et 40. |
+
+Ministre chargé des mines |
+
+41 |
+
+Décisions prises au titre du contrôle des sociétés minières et de stockage souterrain et des contrats passés entre elles pour la recherche et l'exploitation, hormis les titres miniers en mer dans les régions d'outre-mer. |
+
+Décret n° 2006-648 du 2 juin 2006
+
+Article 43 (4°). |
+
+Ministre chargé des mines pour les substances minérales non énergétiques.
+
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains. |
+
+42 |
+
+Décisions relatives à l'importation, au transfert et au transit de déchets radioactifs. |
+
+Code de l'environnement Article R. 542-36. |
+
+Ministre chargé de l'environnement |
+
+43 |
+
+Décision d'agrément des organismes de contrôle de la conformité des installations électriques intérieures aux règlements et normes de sécurité. |
+
+Décret n° 72-1120 du 14 décembre 1972 article 4. |
+
+Ministre chargé de l'énergie |
+
+44 |
+
+Autorisation de déroger aux règles de sécurité et aux normes concernant les produits pétroliers. |
+
+Code de l'énergie Article D. 641-11. |
+
+Ministre chargé de l'énergie |
+
+45 |
+
+Mise en demeure et sanctions relatives aux messages publicitaires des entreprises du secteur énergétique. |
+
+Décret n° 2006-1464 du 28 novembre 2006 Article 4 (premier, deuxième et troisième alinéas). |
+
+Ministre chargé de l'énergie |
+
+46 |
+
+Autorisation d'exploiter une installation de production d'électricité. |
+
+Code de l'énergie Article R. 311-7. |
+
+Ministre chargé de l'énergie |
+
+47 |
+
+Autorisation d'exercer l'activité d'achat d'électricité pour revente. |
+
+Code de l'énergie Article R. 333-1. |
+
+Ministre chargé de l'énergie |
+
+48 |
+
+Agrément des distributeurs de gaz naturel. |
+
+Code de l'énergie Article R. 432-2. |
+
+Ministre chargé de l'énergie |
+
+49 |
+
+Agrément des organismes de contrôle des installations de production d'électricité. |
+
+Code de l'énergie Article R. 311-34. |
+
+Ministre chargé de l'énergie |
+
+50 |
+
+Agrément des organismes prévus à l'article L. 314-6-1 pouvant se voir céder un contrat d'achat. |
+
+Code de l'énergie Article R. 314-52-2. |
+
+Ministre chargé de l'énergie |
 
 |
 
-Décision demandant le remboursement de tout ou partie d'une subvention versée
+Aménagement et nature |
+
+1 |
+
+Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés protégée au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce. |
+
+Code de l'environnement Article R. 411-8. |
+
+Ministre chargé de la protection de la nature |
+
+2 |
+
+Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent les opérations suivantes réalisées sur des animaux appartenant à une espèce de vertébrés marins protégés au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse, observée ou prévisible, de ses effectifs et dont l'aire de répartition excède le territoire d'un département : prélèvement ; capture ; destruction ; transport en vue d'une introduction dans le milieu naturel ; destruction, altération ou dégradation du milieu particulier de l'espèce. |
+
+Code de l'environnement Article R. 411-9. |
+
+Ministres chargés de la protection de la nature et des pêches maritimes |
+
+3 |
+
+Autorisations d'introduction dans le milieu naturel d'animaux ou végétaux appartenant à des espèces désignées en application de l'article L. 411-4, lorsque les espèces dont l'introduction dans la nature est demandée sont des agents utilisés dans la lutte biologique contre les organismes nuisibles, au sens de l'article L. 251-3 du code rural. |
+
+Code de l'environnement Article R. 411-34 (2° du II). |
+
+Ministres chargés de la protection de la nature et de l'agriculture |
+
+4 |
+
+Autorisations d'introduction dans le milieu naturel d'animaux ou de végétaux appartenant à des espèces figurant sur les listes établies en application de l'article L. 411-4, lorsque l'opération est conduite par des personnes morales placées sous la tutelle ou le contrôle de l'Etat, dont les attributions ou les activités s'exercent au plan national. |
+
+Code de l'environnement Article R. 411-34 (b du 1° du II). |
+
+Ministre chargé de la protection de la nature |
+
+5 |
+
+Exemption au règlement (CE) n° 1907/2006 concernant la défense nationale. |
+
+Code de l'environnement
+
+Article R. 521-1. |
+
+Ministres chargés de l'environnement et de la défense |
+
+6 |
+
+Agrément des associations de protection de la nature et de l'environnement exerçant leur activité dans un cadre excédant les limites d'une région. |
+
+Code de l'environnement
+
+Article R. 141-13. |
+
+Ministre chargé de l'environnement |
+
+7 |
+
+Agrément des sites naturels de compensation mentionnés à l'article L. 163-3 du code de l'environnement. |
+
+Code de l'environnement Article R. 163-2. |
+
+Ministre chargé de l'environnement |
+
+8 |
+
+Nomination des membres des comités de bassins. |
+
+Code de l'environnement Articles L. 213-8, D. 213-17 à D. 213-20. |
+
+Ministre chargé de l'environnement |
+
+9 |
+
+Opposition à une délibération à caractère budgétaire ou financier du conseil d'administration d'une agence de l'eau. |
+
+Code de l'environnement
+
+Article R. 213-41. |
+
+Ministres chargés de l'environnement et du budget |
+
+10 |
+
+Opposition aux autres délibérations du conseil d'administration d'une agence de l'eau. |
+
+Code de l'environnement
+
+Article R. 213-41. |
+
+Ministre chargé de l'environnement |
+
+11 |
+
+Agrément de laboratoires ou d'organismes en vue de la réalisation des analyses, contrôles et évaluations nécessaires pour l'application des législations sur l'eau. |
+
+Code de l'environnement Article R. 212-24-1. |
+
+Ministre chargé de l'environnement |
+
+12 |
+
+Maintien ou levée de l'opposition du commissaire du Gouvernement à une délibération du conseil d'administration d'un établissement public de parc national. |
+
+Code de l'environnement Article R. 331-45. |
+
+Ministre chargé de la protection de la nature |
+
+13 |
+
+Délivrer des commissionnements individuels aux agents en charge des contrôles de police environnementaux. |
+
+Code de l'environnement Articles R. 172-1, R. 322-15 et R. 332-68. |
+
+Ministre chargé de l'environnement |
+
+14 |
+
+Autorisation spéciale de travaux en site classé ou en instance de classement. |
+
+Code de l'environnement
+
+Article R. 341-12. |
+
+Ministre chargé des sites |
+
+15 |
+
+Autorisations d'introduction dans le milieu naturel d'animaux appartenant à une espèce de vertébrés, protégée au titre de l'article L. 411-1, menacée d'extinction en France en raison de la faiblesse observée ou prévisible de ses effectifs et dont l'aire de répartition excède le territoire d'un département. |
+
+Code de l'environnement Article R. 411-34 (a du 1° du II). |
+
+Ministre chargé de la protection de la nature |
+
+16 |
+
+Autorisations d'introduction sur le territoire national, de détention, de transport, d'utilisation ou d'échange d'animaux ou de végétaux appartenant à des espèces figurant sur les listes établies en application de l'article L. 411-6, lorsque la demande ne porte pas sur des travaux de recherche sur ces espèces, ni ne vise leur conservation hors du milieu naturel. |
+
+Code de l'environnement Article R. 411-40 (2° du I). |
+
+Ministre chargé de la protection de la nature |
+
+17 |
+
+Délivrance du récépissé de déclaration pour l'accès aux ressources génétiques en vue de leur utilisation. |
+
+Code de l'environnement Articles R. 412-14 et R. 412-16 . |
+
+Ministre chargé de l'environnement |
+
+18 |
+
+Arrêtés d'autorisation pour l'accès aux ressources génétiques en vue de leur utilisation. |
+
+Code de l'environnement Article R. 412-22. |
+
+Ministre chargé de l'environnement |
+
+19 |
+
+Arrêtés d'autorisation pour l'utilisation de connaissances traditionnelles associées aux ressources génétiques. |
+
+Code de l'environnement Article R. 412-33. |
+
+Ministre chargé de l'environnement |
+
+20 |
+
+Délivrance et retrait de l'agrément des conservatoires botaniques nationaux. |
+
+Code de l'environnement Article R. 416-5. |
+
+Ministre chargé de la protection de la nature |
+
+21 |
+
+Homologation des modèles de pièges de nature à provoquer des traumatismes physiques aux animaux. |
+
+Code de l'environnement Article R. 427-15. |
+
+Ministre chargé de la chasse |
+
+22 |
+
+Dérogations définies au 4° de l'article L. 411-2 lorsqu'elles concernent des opérations conduites sur le territoire de plus de dix départements, à des fins de recherche et d'éducation, par des personnes morales placées sous la tutelle ou le contrôle de l'Etat. |
+
+Code de l'environnement Article R. 411-7. |
+
+Ministre chargé de la protection de la nature |
+
+23 |
+
+Dérogations à l'interdiction du camping et du stationnement des caravanes dans un site classé ou naturel. |
+
+Code de l'urbanisme
+
+Article R. 111-33 (2°) et R. 111-48 (1°). |
+
+Ministre chargé des sites |
+
+24 |
+
+Autorisations d'entrée sur le territoire et d'introduction dans l'environnement d'un macro-organisme non indigène utile aux végétaux. |
+
+Code rural et de la pêche maritime
+
+Articles R. 258-6, R. 258-8 et R. 258-9. |
+
+Ministres chargés de l'environnement et de l'agriculture |
+
+25 |
+
+Autorisation de modification de l'état ou de l'aspect d'une réserve naturelle nationale en cas d'avis défavorable d'une des commissions dont la consultation est obligatoire. |
+
+Code de l'environnement Article R. 332-25. |
+
+Ministre chargé de la protection de la nature |
+
+26 |
+
+Décisions prises en matière de permis exclusifs de carrières : octroi, refus d'octroi, mutation, amodiation, prolongation, refus ou retrait de prolongation, renonciation et retrait. |
+
+Décret n° 97-181 du 28 février 1997
+
+Articles 15,17,18,19 et 20 (I). |
+
+Ministre chargé des mines
+
+Ministre chargé de l'environnement |
+
+27 |
+
+Décisions relatives aux permis exclusifs de recherche : octroi, rejet, prolongation, mutation et extension. |
+
+Décret n° 2006-798 du 6 juillet 2006
+
+Articles 7,15,31 et 32. |
+
+Ministre chargé des mines pour les substances minérales non énergétiques.
+
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+
+28 |
+
+Rejet de demande de concession. |
+
+Décret n° 2006-798 du 6 juillet 2006
+
+Article 15. |
+
+Ministre chargé des mines pour les substances minérales non énergétiques.
+
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+
+29 |
+
+Octroi ou rejet de demande d'autorisation de prospection préalable. |
+
+Décret n° 2006-798 du 6 juillet
+
+Articles 26 et 28. |
+
+Ministre chargé des mines pour les substances minérales non énergétiques.
+
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+
+30 |
+
+Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l' article L. 161-1 du code minier. |
+
+Décret n° 2006-649 du 2 juin 2006 Article 22-8. |
+
+Ministres des mines et de l'environnement |
+
+31 |
+
+Autorisation d'utiliser le titre de paysagiste concepteur. |
+
+Décret n° 2017-673 du 28 avril 2017 Article 2. |
+
+Ministre chargé de l'environnement |
+
+DIVERS
+
+1 |
+
+Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services placés sous l'autorité du ministre chargé de la transition écologique et solidaire. |
+
+2 |
+
+Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services placés sous l'autorité du ministre chargé de la transition écologique et solidaire. |
+
+3 |
+
+Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'État autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+
+4 |
+
+Attribution et délivrance des titres et diplômes de l'Ecole nationale des ponts et chaussées (article 3 du décret n° 93-1289 du 8 décembre 1993). |
+
+ANNEXE 2
+
+LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE LA COHÉSION DES TERRITOIRES ET DES RELATIONS AVEC LES COLLECTIVITÉS TERRITORIALES
 
 |
 
-Article 22
+Habitat et logement |
 
-|
+1 |
 
-NOTA :
+Octroi d'un agrément de collecte de la participation des employeurs à l'effort de construction. |
 
-La référence au décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires de commerce et de pêche ainsi que des navires de plaisance armés avec un rôle d'équipage est remplacée par la référence au décret n° 2015-723 du 24 juin 2015 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions d'exercice de fonctions à bord des navires armés au commerce, à la plaisance, à la pêche et aux cultures marines
+Code de la construction et de l'habitation Article R. 313-21. |
+
+Ministre chargé du logement |
+
+2 |
+
+Autorisation de sortie du statut coopératif pour les sociétés anonymes coopératives d'habitations à loyer modéré. |
+
+Code de la construction et de l'habitation Articles R. 422-9-6 et R. 422-36-1. |
+
+Ministres chargés du logement et des économie sociale |
+
+3 |
+
+Désignation des organismes notifiés, autorisés à effectuer les tâches d'évaluation et de vérification de la constance des performances des produits de construction. |
+
+Décret n° 2012-1489 du 27 décembre 2012 Article 2. |
+
+Ministres chargés de la construction, des transports et de l'équipement |
+
+4 |
+
+Désignation des organismes d'évaluation technique européenne des produits de construction. |
+
+Décret n° 2012-1489 du 27 décembre 2012 Article 4. |
+
+Ministres chargés de la construction, des transports et de l'équipement |
+
+5 |
+
+Agrément des contrôleurs techniques. |
+
+Code de la construction et de l'habitation Articles R. 111-29 à R. 111-37. |
+
+Ministre chargé de l'équipement |
+
+6 |
+
+Décisions relatives à la vérification des qualifications professionnelles en matière de contrôle technique de la construction. |
+
+Code de la construction et de l'habitation Articles R111-29-1 à R. 111-33-1. |
+
+Ministre chargé de l'équipement |
+
+7 |
+
+Approbation de l'attribution de la portion d'actif excédant la moitié du capital social en cas de dissolution d'une société d'habitations à loyer modéré. |
+
+Code de la construction et de l'habitation
+
+Article R. 422-17. |
+
+Ministre chargé du logement |
+
+8 |
+
+Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives d'habitations à loyer modéré. |
+
+Code de la construction et de l'habitation - sociétés anonymes d'habitations à loyer modéré : articles R. 422-3 et R. 422-4 (premier alinéa). - sociétés coopératives d'habitations à loyer modéré : article R. 422-8-1. |
+
+Ministre chargé du logement |
+
+9 |
+
+Agrément sociétés d'habitations à loyer modéré et sociétés de vente d'habitations à loyer modéré. |
+
+Code de la construction et de l'habitation
+
+Articles L. 422-5 et R. 422-16. |
+
+Ministre chargé du logement |
+
+10 |
+
+Renouvellement de l'agrément des sociétés anonymes d'habitations à loyer modéré. |
+
+Code de la construction et de l'habitation
+
+Article R. 422-16-1. |
+
+Ministre chargé du logement |
+
+11 |
+
+Retrait de l'agrément des sociétés de vente d'habitations à loyer modéré |
+
+Code de la construction et de l'habitation
+
+Article R. 422-12. |
+
+Ministre chargé du logement |
+
+12 |
+
+Agrément d'une société de coordination d'habitations à loyer modéré |
+
+Code de la construction et de l'habitation Articles L. 423-2-1 et R. 423-85 (premier alinéa). |
+
+Ministre chargé du logement |
+
+13 |
+
+Agrément spécial d'une société de coordination d'habitations à loyer modéré pour étendre leur activité |
+
+Code de la construction et de l'habitation
+
+Article R. 423-85 (deuxième alinéa). |
+
+Ministre chargé du logement |
+
+14 |
+
+Autorisation de procéder à une attribution d'actifs selon les modalités prévues au premier alinéa de l'article L. 422-11. |
+
+Code de la construction et de l'habitation Article R. 422-17. |
+
+Ministre chargé du logement |
+
+15 |
+
+Retrait des agréments accordés aux sociétés de coordination d'habitations à loyer modéré |
+
+Code de la construction et de l'habitation
+
+Article R. 423-88. |
+
+Ministre chargé du logement |
+
+16 |
+
+Décision relative à la reconnaissance de qualifications professionnelles de ressortissants d'un Etat membre de la Communauté européenne. |
+
+Décret n° 96-478 du 31 mai 1996
+
+Article 11 (premier et deuxième alinéas). |
+
+Ministre chargé de l'urbanisme |
+
+17 |
+
+Autorisations de renouvellement d'agrément de SA pour modification de l'actionnaire de référence. |
+
+Code de la construction et de l'habitation
+
+Article L. 422-2-1 (deuxième alinéa du II). |
+
+Ministre chargé du logement |
+
+18 |
+
+Transformation de sociétés anonymes d'habitations à loyer modéré et de sociétés anonymes coopératives de production d'habitations à loyer modéré en sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. |
+
+Code de la construction et de l'habitation
+
+Article L. 422-3-2 (dernier alinéa). |
+
+Ministre chargé du logement |
+
+19 |
+
+Décision d'attribution prise par le ministre chargé de l'urbanisme en vue de la cession au gré à gré des immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère chargé de l'urbanisme. |
+
+Code général de la propriété des personnes publiques
+
+Article R. 3211-28. |
+
+Ministre chargé de l'urbanisme |
+
+20 |
+
+Création et dissolutions d'offices publics d'habitation. |
+
+Code de la construction et de l'habitation Article L. 421-7 et R. 421-1. |
+
+Ministre chargé du logement |
+
+21 |
+
+Arrêté d'autorisation pris pour l'implantation d'une station d'épuration par dérogation aux dispositions de la loi littoral. |
+
+Code de l'urbanisme Article L. 121-5 et article R.121-1. |
+
+Ministres chargés de l'urbanisme et de l'environnement |
+
+22 |
+
+Accord en vue de la réévaluation de l'actif des sociétés d'habitations à loyer modéré et de crédit immobilier. |
+
+Code de la construction et de l'habitation
+
+Article R. 423-72. |
+
+Ministre chargé du logement et ministre chargé des finances |
+
+23 |
+
+Admission d'une société coopérative d'habitation à loyer modéré au bénéfice des dispositions de l'article L. 431-1 du code de la construction et de l'habitation |
+
+Code de la construction et de l'habitation
+
+Articles L. 431-1 et R. 431-27. |
+
+Ministre chargé de la construction et de l'habitation, après avis du ministre chargé des finances |
+
+24 |
+
+Suppression de la possibilité de recevoir des avances pour les association reconnue d'utilité publique, une société ou une union de sociétés de secours mutuels, admise à bénéficier d'avances de l'Etat |
+
+Code de la construction et de l'habitation
+
+Article R. 432-6. |
+
+Ministre chargé de la construction et de l'habitation et ministre de l'économie et des finances |
+
+25 |
+
+Autorisation d'augmentation de capital par incorporation de réserves, bénéfices ou primes d'émission dans les organismes privés d'habitations à loyer modéré |
+
+Code de la construction et de l'habitation
+
+Article L. 423-5. |
+
+Ministre chargé du logement |
+
+26 |
+
+Autorisation de dissoudre une société d'habitations à loyer modéré consécutive à sa fusion avec absorption avec une société ne bénéficiant pas de l'agrément mentionné à l'article L. 422-5 ou avec une société d'économie mixte non agréée en application de l'article L. 481-1 et ne réalisant pas exclusivement son activité dans le champ de l'article L. 411-2 |
+
+Code de la construction et de l'habitation
+
+Article L. 422-11-1. |
+
+Ministre chargé du logement |
+
+27 |
+
+Autorisation donnée à une société anonyme coopérative de production d'habitations à loyer modéré de souscrire à ou d'acquérir la totalité des parts d'une société civile immobilière |
+
+Code de la construction et de l'habitation16° de l'article L. 422-3. |
+
+Ministre chargé du logement |
+
+28 |
+
+Autorisation donnée à une société anonyme d'habitations à loyer modéré de souscrire ou acquérir la totalité des parts d'une société civile immobilière |
+
+Code de la construction et de l'habitation
+
+Article L. 422-2. |
+
+Ministre chargé du logement |
+
+29 |
+
+Utilisation du solde du compte spécial du bilan de la société concernant les plus-values réalisées lors de cessions |
+
+Code de la construction et de l'habitation
+
+Article D. 422-42. |
+
+Ministre chargé de la construction et de l'habitation et ministre des finances |
+
+30 |
+
+Ajustements de valeur des immobilisations corporelles et financières effectués dans le cadre de la réévaluation des comptes d'un office public de l'habitat |
+
+Code de la construction et de l'habitation
+
+Article R. 423-11. |
+
+Ministres chargés du logement, des finances et des collectivités territoriales |
+
+31 |
+
+Autorisation de céder des créances hypothécaires en application de l'alinéa 3 de l'article L. 423-6 |
+
+Code de la construction et de l'habitation
+
+Article R. 423-79. |
+
+Ministre chargé des finances et ministre chargé de la construction et de l'habitation |
+
+32 |
+
+Décisions relatives aux garanties hypothécaires prévues à l'alinéa 2 de l'article L. 431-1 |
+
+Code de la construction et de l'habitation
+
+Article R. 431-62 (premier alinéa). |
+
+Ministre chargé de la construction et de l'habitation |
+
+33 |
+
+Décisions relatives aux garanties hypothécaires prévues aux alinéas 1 et 3 de l'article L. 431-1 |
+
+Code de la construction et de l'habitation
+
+Article R. 431-62 (premier alinéa). |
+
+Ministre chargé des finances et ministre chargé de la construction et de l'habitation |
+
+34 |
+
+Agrément des sociétés d'économie mixte de construction et de gestion de logements sociaux |
+
+Code de la construction et de l'habitation
+
+Articles L 481-1 et R. 481-1. |
+
+Ministre chargé du logement |
+
+35 |
+
+Retrait de l'agrément accordé à une société d'économie mixte agrée en application de l'article L. 481-1 |
+
+Code de la construction et de l'habitation
+
+Articles L. 481-1-1 et R. 481-1-4. |
+
+Ministre chargé du logement |
+
+36 |
+
+Agrément spécial de sociétés d'économie mixte pour étendre leur champ d'intervention géographique |
+
+Code de la construction et de l'habitationArticles R. 481-1-1 (deuxième alinéa) et R. 481-1-2. |
+
+Ministre chargé du logement |
+
+37 |
+
+Extension, pour une opération déterminée, de l'agrément sur une partie quelconque du territoire du département à une société d'économie mixte |
+
+Code de la construction et de l'habitation
+
+Article R. 481-1 (troisième alinéa). |
+
+Ministre chargé du logement |
+
+38 |
+
+Agrément d'un organisme exerçant l'activité de maîtrise d'ouvrage mentionnées au 1° de l'article L. 365-1 |
+
+Code de la construction et de l'habitation
+
+Article L. 365-2. |
+
+Ministre chargé du logement |
+
+DIVERS
+
+1 |
+
+Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services placés sous l'autorité du ministre chargé de la cohésion des territoires et des relations avec les collectivités territoriales. |
+
+2 |
+
+Décisions amiables d'indemnisation résultant de la mise en cause de la responsabilité de l'Etat à l'occasion des activités des services placés sous l'autorité du ministre chargé de la cohésion des territoires et des relations avec les collectivités territoriales. |
+
+3 |
+
+Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
