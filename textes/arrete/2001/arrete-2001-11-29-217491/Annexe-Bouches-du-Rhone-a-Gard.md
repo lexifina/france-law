@@ -554,6 +554,30 @@ A
 
 |
 
+Direction départementale de la cohésion sociale et de la protection des populations de la Haute-Corse
+
+Fonctions exercées |
+
+Niveau de qualification
+
+de l'emploi |
+
+Nombre
+
+d'emplois |
+
+Nombre de points (IM)
+
+par emploi |
+
+Adjoint à la cheffe d'unité "hébergement-logement" du service de la cohésion sociale |
+
+A |
+
+1 |
+
+50 |
+
 Direction départementale de l'équipement de la Côte-d'Or
 
 FONCTIONS EXERCEES
