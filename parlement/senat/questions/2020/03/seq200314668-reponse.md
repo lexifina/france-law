@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314668
+
+- Question : [SEQ200314668](seq200314668.md) — Engagements du Gouvernement à l'égard des chambres d'agriculture
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-06-25, page 2933*
+
+Lors du débat parlementaire sur le projet de loi de finances pour 2020 (PLF 2020), le Gouvernement a exprimé de fortes attentes vis-à-vis du réseau des chambres d'agriculture pour qu'il mène sa modernisation et soit en mesure d'accompagner la transition agro-écologique de l'agriculture du pays. Ces attentes doivent se retrouver dans le contrat d'objectifs et de performance (COP) en cours de finalisation entre l'État et le réseau des chambres d'agriculture. Ce contrat précise les ambitions et objectifs partagés entre l'État et les présidents des établissements du réseau des chambres d'agriculture à l'égard de l'activité du réseau et de tous les établissements qui le composent. Ce COP constitue un document de référence et structurant pour l'action du réseau sur la présente mandature, aux côtés du projet stratégique 2019-2025 du réseau des chambres d'agriculture. Le réseau des chambres d'agriculture a un rôle fondamental à jouer dans l'accompagnement des agriculteurs, des filières et des territoires, en mobilisant ses compétences et son expertise sur une série de thématiques prioritaires. L'une des priorités du réseau devra être donnée à l'accompagnement de la transition agro-écologique de l'agriculture. Les recettes fiscales affectées au réseau des chambres d'agriculture seront étudiées à l'occasion de la discussion parlementaire du prochain PLF à l'automne 2020. L'article 81 de la loi de finances pour 2020 prévoit que le Gouvernement remette un rapport sur les modalités de financement de l'ensemble des affectataires de la taxe foncière sur le non bâti et sur le processus de modernisation et de mutualisation du réseau des chambres d'agriculture.
