@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314799
+
+- Question : [SEQ200314799](seq200314799.md) — Financement des actions éducatives en milieu ouvert
+
+## Réponse
+
+*Justice, JO du 2020-06-25, page 2967*
+
+Les lois du 13 août 2004 relative aux libertés et responsabilités locales et du 5 mars 2007 réformant la protection de l'enfance ont confié au président du Conseil Départemental la responsabilité de l'action sociale et de la protection administrative de l'enfant sur son territoire. Ainsi, l'action judiciaire de protection de l'enfance ne s'exerce plus que de manière subsidiaire. Le législateur a donc été conduit, à compter de la loi de finances pour l'année 2011, à ne plus inclure dans les budgets alloués à la Protection Judiciaire de la Jeunesse de financements relatifs aux mesures civiles de protection judiciaire, qu'elles concernent les mineurs ou les jeunes majeurs. Dès lors, le directeur territorial de la PJJ de l'Aude et des Pyrénées-Orientales était fondé, par courrier du 15 mai 2019, à rappeler à l'association ADSEA de l'Aude les règles devant s'appliquer : s'agissant de mesures financées de manière dérogatoire, il appartient au service de solliciter systématiquement l'accord de la Direction Territoriale de la PJJ « afin d'en garantir le financement qui doit rester exceptionnel, à la marge et dans un temps limité ». S'il est indispensable de garantir la continuité des parcours éducatifs des jeunes faisant l'objet d'une mesure de protection, la réponse ne saurait être judiciaire que dans l'hypothèse où une intervention administrative s'avère impossible à mettre en œuvre. C'est dans ce sens que le soutien apporté par la Protection Judiciaire de la Jeunesse prend tout son sens, dans le respect des champs de compétence de l'ensemble des acteurs intervenant auprès des jeunes les plus vulnérables.
