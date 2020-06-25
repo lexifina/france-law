@@ -62,9 +62,13 @@ c) "ETS", pour la bonification prévue à l'article 5 de l'arrêté du 29 décem
 
 d) "CPE", pour la bonification prévue à l'article 6 de l'arrêté du 29 décembre 2014 susvisé ;
 
-e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 décembre 2014 susvisé.
+e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 décembre 2014 susvisé ;
 
-f) “ CFT ” pour la bonification prévue à l'article 3-4 de l'arrêté du 29 décembre 2014 susvisé.
+f) "CFT" pour la bonification prévue à l'article 3-4 de l'arrêté du 29 décembre 2014 susvisé ;
+
+g) "CFC" pour la bonification prévue à l'article 3-5 de l'arrêté du 29 décembre 2014 susvisé ;
+
+h) "CTH" pour la bonification prévue à l'article 3-6-1 de l'arrêté du 29 décembre 2014 susvisé.
 
 Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 
