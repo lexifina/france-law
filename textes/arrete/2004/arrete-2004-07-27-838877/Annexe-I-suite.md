@@ -3732,7 +3732,7 @@ Fuite excessive de liquide autre que de l'eau susceptible de porter atteinte à 
 
 Critique |
 
-9. CONTRÔLES SUPPLÉMENTAIRES-TCP
+9. CONTRÔLES SUPPLÉMENTAIRES-VÉHICULES DE TRANSPORT EN COMMUN DE PERSONNES
 
 9.1. PORTES
 
@@ -4141,6 +4141,28 @@ Mineure |
 Non conformes aux exigences : largeur insuffisante ou hauteur excessive |
 
 [Loc] |
+
+Majeure |
+
+9.8. SYSTÈME DE COMMUNICATION AVEC LES VOYAGEURS
+
+9.8.1. SYSTÈME DE COMMUNICATION AVEC LES VOYAGEURS
+
+9.8.1. a. 1 |
+
+Système défectueux |
+
+Mineure |
+
+9.8.1. a. 2 |
+
+Système défectueux : totalement inopérant |
+
+Majeure |
+
+9.8.1. b. 2 |
+
+Système absent |
 
 Majeure |
 

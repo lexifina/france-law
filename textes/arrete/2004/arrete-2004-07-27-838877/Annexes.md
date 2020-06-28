@@ -20,6 +20,8 @@ Les essais de freinage sont effectués au minimum aux deux tiers du poids total 
 
 Les éventuels points qui ne peuvent pas être contrôlés depuis le sol ou l'habitacle ne sont pas vérifiés, hormis le contrôle de l'opacité des fumées sur les véhicules disposant d'un échappement vertical latéral, quel que soit le côté du véhicule.
 
+Les remorques affectées au transport de personnes en milieu urbain sont présentées soit attelées à une navette urbaine, soit en configuration de train urbain, tels que définis respectivement aux points 6.13 et 7.4 de l'article R. 311-1 du code de la route.
+
 Ne sont pas réalisées :
 
 - les vérifications des équipements nécessitant de monter sur le véhicule ou qui imposent un engagement sous celui-ci en dehors de la fosse prévue à cet effet ;
@@ -420,7 +422,7 @@ Certificat ou PV d'épreuve des réservoirs GPL absent ou non conforme |
 
 Majeure |
 
-0.6.6. JUSTIFICATIF D'INSPECTION PÉRIODIQUE DES RÉSERVOIRS D'AIR
+0.6.6. JUSTIFICATIF DE SUIVI DES RÉSERVOIRS D'AIR
 
 0.6.6.a.1 |
 
