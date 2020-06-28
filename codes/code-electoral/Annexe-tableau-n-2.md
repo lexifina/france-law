@@ -1,62 +1,28 @@
 # Article Annexe tableau n° 2
 
-DÉSIGNATION
+DÉSIGNATION DES SECTEURS
 
-des secteurs |
+|
 
 ARRONDISSEMENTS
 
-constituant
+constituant les secteurs
 
-les secteurs |
+|
 
-NOMBRE de sièges |
+NOMBRE DE SIÈGES
+
+|
 
 1er secteur
 
 |
 
-1er
+1er, 2e, 3e et 4e
 
 |
 
-1
-
-|
-
-2e secteur
-
-|
-
-2e
-
-|
-
-2
-
-|
-
-3e secteur
-
-|
-
-3e
-
-|
-
-3
-
-|
-
-4e secteur
-
-|
-
-4e
-
-|
-
-2
+8
 
 |
 
@@ -256,12 +222,12 @@ Total
 
 |
 
-|
-
 163
 
 |
 
+.
+
 NOTA :
 
-Cet article a été modifié par la loi n° 2013-713 du 5 août 2013 fixant le nombre et la répartition des sièges de conseiller de Paris. Conformément à son article 3, l'article dans sa version modifiée par la loi du 5 août 2013 s'applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+Aux termes de l'article 24 de la loi n° 2017-257 du 28 février 2017, les présentes dispositions entrent en vigueur à compter du prochain renouvellement général des conseils municipaux suivant la publication de la présente loi et s'appliquent aux opérations préparatoires à ce scrutin.
