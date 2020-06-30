@@ -1,0 +1,77 @@
+# Réforme de l’adoption
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39990
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reforme_de_l_adoption
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-188.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-06-30 : 1er dépôt d'une initiative. (PIONANR5L15B3161)
+  - 2020-11-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-30 : Renvoi en commission au fond
+      - 2020-11-10 : Nomination de rapporteur
+      - 2020-11-10 : Réunion de commission
+      - 2020-11-23 : Réunion de commission
+      - 2020-12-01 : Réunion de commission
+      - 2020-12-02 : Réunion de commission
+      - 2020-11-23 : Dépôt de rapport (RAPPANR5L15B3590, PIONANR5L15BTC3590)
+  - Discussion en séance publique
+    - 2020-12-02 : Discussion en séance publique
+    - 2020-12-02 : Discussion en séance publique
+    - 2020-12-04 : Discussion en séance publique
+    - 2020-12-04 : Discussion en séance publique
+    - 2020-12-04 : Discussion en séance publique
+    - 2020-12-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-12-07 : Dépôt d'une initiative en navette (PIONSNR5S359B0188)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-07 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-10-13 : Dépôt de rapport (RAPPSNR5S379B0050, PIONSNR5S379BTC0051)
+  - Discussion en séance publique
+    - 2021-10-20 : Décision
+- Commission Mixte Paritaire
+  - 2021-11-04 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-11-04 : Nomination de rapporteur
+    - 2021-11-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B4651)
+    - 2021-11-04 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0133, PIONSNR5S379BTC0134)
+  - 2021-11-04 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-10-22 : Dépôt d'une initiative en navette (PIONANR5L15B4607)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-22 : Renvoi en commission au fond
+      - 2022-01-12 : Réunion de commission
+      - 2022-01-17 : Réunion de commission
+      - 2022-01-12 : Dépôt de rapport (RAPPANR5L15B4897, PIONANR5L15BTC4897)
+  - Discussion en séance publique
+    - 2022-01-17 : Discussion en séance publique
+    - 2022-01-17 : Discussion en séance publique
+    - 2022-01-18 : Discussion en séance publique
+    - 2022-01-18 : Décision
+- Nouvelle Lecture
+  - 2022-01-18 : Dépôt d'une initiative en navette (PIONSNR5S379B0363)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-18 : Renvoi en commission au fond
+      - 2022-01-19 : Dépôt de rapport (RAPPSNR5S379B0371, PIONSNR5S379BTC0372)
+  - Discussion en séance publique
+    - 2022-01-26 : Décision
+- Lecture définitive
+  - 2022-01-27 : Dépôt d'une initiative en navette (PIONSNR5S379BTA0084)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-27 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2022-02-08 : Discussion en séance publique
+    - 2022-02-08 : Discussion en séance publique
+    - 2022-02-08 : Décision
+- Promulgation de la loi
+  - 2022-02-21 : Promulgation d'une loi
