@@ -1,0 +1,54 @@
+# Valorisation du volontariat des sapeurs-pompiers
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N39995
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/valorisation_volontariat_sapeurs-pompiers
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-646.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-06-30 : 1er dépôt d'une initiative. (PIONANR5L15B3162)
+  - 2021-04-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-06-30 : Renvoi en commission au fond
+      - 2021-04-14 : Nomination de rapporteur
+      - 2021-04-14 : Réunion de commission
+      - 2021-05-04 : Réunion de commission
+      - 2021-05-12 : Réunion de commission
+      - 2021-05-12 : Réunion de commission
+      - 2021-05-26 : Réunion de commission
+      - 2021-05-12 : Dépôt de rapport (RAPPANR5L15B4154, PIONANR5L15BTC4154)
+  - Discussion en séance publique
+    - 2021-05-26 : Discussion en séance publique
+    - 2021-05-26 : Discussion en séance publique
+    - 2021-05-27 : Discussion en séance publique
+    - 2021-05-27 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-05-27 : Dépôt d'une initiative en navette (PIONSNR5S359B0646)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-07-21 : Dépôt de rapport (RAPPSNR5S359B0786, PIONSNR5S359BTC0787)
+  - Discussion en séance publique
+    - 2021-09-23 : Décision
+- Commission Mixte Paritaire
+  - 2021-09-23 : Dépôt d'un projet de loi (PIONANR5L15B4491)
+  - 2021-09-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-10-07 : Nomination de rapporteur
+    - 2021-10-07 : Dépôt du rapport d'une CMP (RAPPANR5L15B4521, PIONANR5L15BTC4521)
+    - 2021-10-07 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0035, PIONSNR5S379BTC0036)
+  - Discussion en séance publique
+    - 2021-10-26 : Discussion en séance publique
+    - 2021-10-26 : Décision
+  - Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Décision
+  - 2021-10-07 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-11-25 : Promulgation d'une loi
