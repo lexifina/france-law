@@ -58,7 +58,9 @@ Articles
 
 1.21 Transports spéciaux ; véhicules amphibies ; bâtiments militaires.
 
-1.22 Prescriptions de caractère temporaire.
+1.22 Prescriptions de caractère temporaire de l'autorité compétente.
+
+1.22bis Prescriptions de caractère temporaire de la Commission de la Moselle.
 
 1.23 Autorisation de manifestation.
 
@@ -452,4 +454,4 @@ Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
 NOTA :
 
-Conformément à la décision CM-I-16-5.3-1-3 du 9 juin 2016, l'amendement entre en vigueur le 1er juin 2017.
+Conformément à la décision CM-I-19-5-2 du 23 mai 2019, l'amendement entre en vigueur le 1er juillet 2020.
