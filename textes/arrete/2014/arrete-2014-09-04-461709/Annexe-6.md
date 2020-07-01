@@ -78,8 +78,14 @@ Lorsque plusieurs sigles concernent une même opération, ils sont concaténés 
 
 - pour le SIREN et la raison sociale de l'organisme de contrôle : l'identité de cet organisme est indiquée lorsque l'opération fait l'objet d'un contrôle obligatoire sur site.
 
+- pour le SIRET de l'entreprise ayant réalisé l'opération : cette mention est indiquée lorsqu'une qualification ou une certification est exigée pour le professionnel réalisant l'opération.
+
 Pour le cas d'un regroupement :
 
 - les colonnes relatives à l'identité du demandeur sont renseignées avec les informations relatives au membre du regroupement concerné par l'opération (et non au regroupeur, sauf en tant que membre du regroupement) ;
 
 - la colonne de la référence EMMY du dossier permet d'identifier le regroupeur : cette référence comporte notamment son numéro de compte.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
