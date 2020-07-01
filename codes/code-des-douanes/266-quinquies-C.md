@@ -104,7 +104,9 @@ e. Le tarif de la taxe applicable à l'électricité consommée par un centre de
 
 Un centre de stockage de données numériques s'entend d'une infrastructure immobilière consacrée au stockage physique, au traitement, au transport et à la diffusion de données numériques, dont l'accès est sécurisé, et comprenant des dispositifs spécifiques et dédiés de contrôle de son environnement thermique, de la qualité de son air, d'alimentation en énergie et de prévention des incendies.
 
-f. Le tarif de la taxe applicable à l'électricité consommée par les exploitants d'aérodromes ouverts à la circulation aérienne publique, dont la consommation totale d'électricité est strictement supérieure à 222 wattheures par euro de valeur ajoutée, est fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
+f. Le tarif de la taxe applicable à l'électricité consommée par les exploitants d'aérodromes ouverts à la circulation aérienne publique, dont la consommation totale d'électricité est supérieure à 222 wattheures par euro de valeur ajoutée, est fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
+
+g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222 wattheures par euro de valeur ajoutée, est fixé à 12,6 € par mégawattheure.
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
@@ -152,4 +154,6 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 
 NOTA :
 
-Conformément à l’article 69 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux livraisons d'électricité intervenant à compter du 1er janvier 2019 pour lesquelles la date d'exigibilité de la taxe intérieure sur la consommation finale d'électricité intervient à compter du 1er janvier 2019.
+Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
+
+Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date
