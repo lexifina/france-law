@@ -10,9 +10,9 @@ Autorités concernées
 
 |
 
-Direction générale des relations internationales et de la stratégieDirecteur |
+Direction générale des relations internationales et de la stratégie |
 
-de l'institut de la recherche stratégique de l'Ecole militaire
+Directeur de l'institut de la recherche stratégique de l'Ecole militaire
 
 |
 
@@ -190,7 +190,7 @@ Direction des ressources humaines du ministère de la défense
 
 |
 
-Directeur de l'agence de reconversion de la défense
+Directeur de Défense mobilité
 
 |
 
