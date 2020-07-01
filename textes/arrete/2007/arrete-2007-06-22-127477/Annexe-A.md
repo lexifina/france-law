@@ -168,13 +168,13 @@ Commandants des formations administratives (5) |
 
 MAPA × 0,66 |
 
-Direction générale de l'armementDirecteur |
+Direction générale de l'armement |
 
 |
 
-de l'agence de l'innovation de défenseMAPA |
+Directeur de l'agence de l'innovation de défense |
 
-x 25 |
+MAPA x 25 |
 
 Direction des opérations |
 
@@ -190,9 +190,7 @@ Autorités signataires de marchés |
 
 MAPA × 50 |
 
-Service d'architecture du système de défense
-
-|
+Service d'architecture du système de défense |
 
 Directeur du centre d'analyse technico-opérationnelle de défense |
 
@@ -215,6 +213,12 @@ Sans limitation |
 Directeurs des établissements du service d'infrastructure de la défense |
 
 Sans limitation |
+
+Directeur du centre national de production d'infrastructure de la défense |
+
+Sans limitation
+
+|
 
 Divers |
 
