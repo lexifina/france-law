@@ -1,477 +1,515 @@
 # Article Annexe I
 
-LISTE D'ORGANISMES NUISIBLES DONT LA PRÉSENCE DOIT OBLIGATOIREMENT ÊTRE ÉTABLIE AU MOYEN D'INSPECTIONS VISUELLES ET, SOUS CERTAINES CONDITIONS, D'ÉCHANTILLONNAGES ET D'ANALYSES
+LISTE DES ORGANISMES RÉGLEMENTÉS NON DE QUARANTAINE (ORNQ) DONT LA PRÉSENCE DOIT OBLIGATOIREMENT ÊTRE ÉTABLIE AU MOYEN D'UNE INSPECTION VISUELLE ET, EN CAS DE DOUTES, D'UN ÉCHANTILLONNAGE ET D'UNE ANALYSE
 
-PARTIE A
+Genres ou espèces |
 
-Liste d'organismes nuisibles dont les plantes mères et le matériel de multiplication doivent être exempts, ou pratiquement exempts
+ORNQ |
 
-GENRES OU ESPÈCES
+Castanea sativa Mill. |
 
-|
+Champignons et oomycètes
 
-ORGANISMES NUISIBLES
+Cryphonectria parasitica (Murrill) Barr [ENDOPA]
 
-|
+Mycosphaerella punctiformis Verkley & U. Braun [RAMUEN]
 
-Castanea sativa Mill.
+Phytophthora cambivora (Petri) Buisman [PHYTCM]
 
-|
+Phytophthora cinnamomi Rands [PHYTCN]
 
-Champignons
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Mycosphaerella maculiformis
+Agent de la mosaïque du châtaignier |
 
-Phytophthora cambivora
+Citrus L.,
 
-Phytophthora cinnamomi
+Fortunella Swingle, Poncirus Raf. |
 
-Maladies apparentées aux viroses
+Champignons et oomycètes
 
-Mosaïque du châtaignier (ChMV)
+Phytophthora citrophthora (R. E. Smith & E. H. Smith) Leonian [PHYTCO]
 
-|
-
-Citrus L., Fortunella Swingle, Poncirus Raf.
-
-|
-
-Insectes
-
-Aleurotrixus floccosus
-
-Parabemisia myricae
-
-Nématodes
-
-Pratylenchus vulnus
-
-Tylenchus semi-penetrans
-
-Champignons
-
-Phytophthora citrophtora
-
-Phytophthora parasitica
-
-|
-
-Corylus avellana L.
-
-|
-
-Acariens
-
-Phytoptus avellanae
-
-Champignons
-
-Armillariella mellea
-
-Verticillium dahliae
-
-Verticillium albo-atrum
-
-Bactéries
-
-Xanthomonas arboricola pv. Corylina
-
-Pseudomonas avellanae
-
-|
-
-Cydonia oblonga Mill., Malus Mill. et Pyrus L.
-
-|
-
-Insectes
-
-Eriosoma lanigerum
-
-Psylla spp.
-
-Nématodes
-
-Meloidogyne hapla
-
-Meloidogyne javanica
-
-Pratylenchus penetrans
-
-Pratylenchus vulnus
-
-Champignons
-
-Armillariella mellea
-
-Chondrostereum purpureum
-
-Glomerella cingulata
-
-Pezicula alba
-
-Pezicula malicorticis
-
-Nectria galligena
-
-Phytophthora cactorum
-
-Roessleria pallida
-
-Verticillium dahliae
-
-Verticillium albo-atrum
-
-Bactéries
-
-Agrobacterium tumefaciens
-
-Pseudomonas syringae pv. syringae
-
-Virus
-
-Autres que ceux de l'annexe II
-
-|
-
-Ficus carica L.
-
-|
-
-Insectes
-
-Ceroplastes rusci
-
-Nématodes
-
-Heterodera fici
-
-Meloidogyne arenaria
-
-Meloidogyne incognita
-
-Meloidogyne javanica
-
-Pratylenchus penetrans
-
-Pratylenchus vulnus
-
-Champignons
-
-Armillaria mellea
-
-Bactéries
-
-Phytomonas fici
-
-Maladies apparentées aux viroses
-
-Mosaïque du figuier
-
-|
-
-Juglans regia L.
-
-|
-
-Insectes
-
-Epidiaspis leperii
-
-Pseudaulacaspis pentagona
-
-Quadraspidiotus perniciosus
-
-Champignons
-
-Armillariella mellea
-
-Nectria galligena
-
-Chondrostereum purpureum
-
-Phytophthora cactorum
-
-Bactéries
-
-Agrobacterium tumefaciens
-
-Xanthomonas arboricola pv. Juglandi
-
-|
-
-Olea europaea L.
-
-|
-
-Nématodes
-
-Meloidogyne arenaria
-
-Meloidogyne incognita
-
-Meloidogyne javanica
-
-Pratylenchus vulnus
-
-Bactéries
-
-Pseudomonas savastanoi pv. savastanoi
-
-Maladies apparentées aux viroses
-
-Leaf yellowing complex disease 3
-
-|
-
-Pistacia vera L.
-
-|
-
-Nématodes
-
-Pratylenchus penetrans
-
-Pratylenchus vulnus
-
-Champignons
-
-Phytophthora cryptogea
-
-Phytophthora cambivora
-
-Rosellinia necatrix
-
-Verticillium dahliae
-
-|
-
-Prunus amygdalus, P. armeniaca, P. domestica, P. persica
-
-et P. salicina
-
-|
-
-Insectes
-
-Pseudaulacaspis pentagona
-
-Quadraspidiotus perniciosus
-
-Nématodes
-
-Meloidogyne arenaria
-
-Meloidogyne javanica
-
-Meloidogyne incognita
-
-Pratylenchus penetrans
-
-Pratylenchus vulnus
-
-Champignons
-
-Phytophthora cactorum
-
-Verticillium dahliae
-
-Bactéries
-
-Agrobacterium tumefaciens
-
-Pseudomonas syringae pv. morsprunorum
-
-Pseudomonas syringae pv. syringae (sur P. armeniaca)
-
-Pseudomonas viridiflava (sur P. armeniaca)
-
-|
-
-Prunus avium, P. cerasus
-
-|
-
-Insectes
-
-Quadraspidiotus perniciosus
-
-Nématodes
-
-Meloidogyne arenaria
-
-Meloidogyne javanica
-
-Meloidogyne incognita
-
-Pratylenchus penetrans
-
-Pratylenchus vulnus
-
-Champignons
-
-Phytophthora cactorum
-
-Bactéries
-
-Agrobacterium tumefaciens
-
-Pseudomonas syringae pv. morsprunorum
-
-|
-
-Ribes L.
-
-|
+Phytophthora nicotianae var. parasitica (Dastur) Waterhouse [PHYTNP]
 
 Insectes et acariens
 
-Dasyneura tetensi
+Aleurothrixus floccosus Maskell [ALTHFL]
 
-Ditylenchus dipsaci
+Parabemisia myricae Kuwana [PRABMY]
 
-Pseudaulacaspis pentagona
+Nématodes
 
-Quadraspidiotus perniciosus
+Pratylenchus vulnus Allen & Jensen [PRATVU]
 
-Tetranycus urticae
+Tylenchulus semipenetrans Cobb [TYLESE] |
 
-Cecidophyopsis ribis
+Corylus avellana L. |
 
-Champignons
+Bactéries
 
-Sphaerotheca mors-uvae
+Pseudomonas avellanae Janse et al. [PSDMAL]
 
-Microsphaera grossulariae
+Xanthomonas arboricola pv. Corylina (Miller, Bollen, Simmons, Gross & Barss) Vauterin, Hoste, Kersters & Swings [XANTCY]
 
-Diaporthe strumella (Phomopsis ribicola)
+Champignons et oomycètes
 
-|
+Armillariella mellea (Vahl) Kummer [ARMIME]
 
-Rubus L.
+Verticillium albo-atrum Reinke & Berthold [VERTAA]
 
-|
+Verticillium dahliae Kleb [VERTDA]
 
-Champignons
+Insectes et acariens
 
-Peronospora rubi
+Phytoptus avellanae Nalepa [ERPHAV] |
 
-|
-
-PARTIE B
-
-Liste d'organismes nuisibles dont les plantes mères et le matériel de multiplication doivent être exempts, ou pratiquement exempts, ou dont la présence est limitée selon des niveaux de tolérance
-
-GENRES ET ESPÈCES
+Cydonia oblonga Mill. et Pyrus L.
 
 |
 
-ORGANISMES NUISIBLES
+Bactéries
 
-|
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Erwinia amylovora (Burrill) Winslow et al. [ERWIAM]
+
+Pseudomonas syringae pv. Syringae van Hall [PSDMSY]
+
+Champignons et oomycètes
+
+Armillariella mellea (Vahl) Kummer [ARMIME]
+
+Chondrostereum purpureum Pouzar [STERPU]
+
+Glomerella cingulata (Stoneman) Spaulding & von Schrenk [GLOMCI]
+
+Neofabraea alba Desmazières [PEZIAL]
+
+Neofabraea malicorticis Jackson [PEZIMA]
+
+Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA]
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Sclerophora pallida Yao & Spooner [SKLPPA]
+
+Verticillium albo-atrum Reinke & Berthold [VERTAA]
+
+Verticillium dahliae Kleb [VERTDA]
+
+Insectes et acariens
+
+Eriosoma lanigerum Hausmann [ERISLA]
+
+Psylla spp. Geoffroy [1PSYLG]
+
+Nématodes
+
+Meloidogyne hapla Chitwood [MELGHA]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Ficus carica L. |
+
+Bactéries
+
+Xanthomonas campestris pv. fici (Cavara) Dye [XANTFI]
+
+Champignons et oomycètes
+
+Armillariella mellea (Vahl) Kummer [ARMIME]
+
+Insectes et acariens
+
+Ceroplastes rusci Linnaeus [CERPRU]
+
+Nématodes
+
+Heterodera fici Kirjanova [HETDFI]
+
+Meloidogyne arenaria Chitwood [MELGAR]
+
+Meloidogyne incognita (Kofold & White) Chitwood [MELGIN]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU]
+
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
+
+Agent de la mosaïque du figuier [FGM000] |
 
 Fragaria L.
 
 |
 
+Bactéries
+
+Candidatus Phlomobacter fragariae Zreik, Bové & Garnier [PHMBFR]
+
+Champignons et oomycètes
+
+Podosphaera aphanis (Wallroth) Braun & Takamatsu [PODOAP]
+
+Rhizoctonia fragariae Hussain & W. E. McKeen [RHIZFR]
+
+Verticillium albo-atrum Reinke & Berthold [VERTAA]
+
+Verticillium dahliae Kleb [VERTDA]
+
 Insectes et acariens
 
-Chaetosiphon fragaefoliae
+Chaetosiphon fragaefolii Cockerell [CHTSFR]
 
-Phytonemus pallidus
-
-Nématodes
-
-Aphelenchoides fragariae
-
-Ditylenchus dipsaci
-
-Meloidogyne hapla
-
-Pratylenchus vulnus
-
-Champignons
-
-Rhizoctonia fragariae
-
-Podosphaera aphanis (Wallroth) Braun & Takamatsu
-
-Verticillium albo-atrum
-
-Verticillium dahliae
-
-Bactéries
-
-Candidatus Phlomobacter fragariae
-
-Virus
-
-Marbrure du fraisier (SmoV)
-
-Phytoplasmoses
-
-Jaunisse de l'aster
-
-Multiplier disease
-
-Stolbur as strawberry lethal decline
-
-Phyllodie du fraisier
-
-Phytoplasma fragariae
-
-|
-
-Ribes L.
-
-|
+Phytonemus pallidus Banks [TARSPA]
 
 Nématodes
 
-Aphelenchoides ritzemabosi
+Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]
 
-Virus
+Meloidogyne hapla Chitwood [MELGHA]
 
-Virus de la mosaïque aucuba et jaunisse du cassis combinés
+Pratylenchus vulnus Allen & Jensen [PRATVU]
 
-Eclaircissement des nervures et vein net du cassis, chlorose des nervures du groseillier à maquereau
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-|
+Candidatus Phytoplasma asteris Lee et al. [PHYPAS]
 
-Rubus L.
+Candidatus Phytoplasma australiense Davis et al. [PHYPAU]
 
-|
+Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG]
 
-Insectes
+Candidatus Phytoplasma pruni [PHYPPN]
 
-Resseliella theobaldi
+Candidatus Phytoplasma solani Quaglino et al. [PHYPSO]
 
-Bactéries
+Phytoplasme de la phyllodie du trèfle [PHYP03]
 
-Agrobacterium spp.
+Phytoplasme de la maladie des collets multiples du fraisier [PHYP75] |
 
-Rhodococcus fascians
-
-Virus
-
-Mosaïque du pommier (ApMV), nécrose du Rubus ou de la ronce (BRNV), virus de la mosaïque du concombre (CMV), marbrure du framboisier (RLMV), taches chlorotiques du framboisier (RLSV), virus de la chlorose des nervures du framboisier (RVCV), virus du réseau jaune du Rubus (RYNV)
-
-|
-
-Vaccinium L.
-
-|
-
-Champignons
-
-Exobasidium vaccinii var. Vaccinii
-
-Godronia cassandrae (forme anamorphe Topospora myrtilli)
+Juglans regia L. |
 
 Bactéries
 
-Agrobacterium spp.
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
 
-Virus
+Xanthomonas arboricola pv. Juglandi (Pierce) Vauterin et al. [XANTJU]
+
+Champignons et oomycètes
+
+Armillariella mellea (Vahl) Kummer [ARMIME]
+
+Chondrostereum purpureum Pouzar [STERPU]
+
+Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman [NECTGA]
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Insectes et acariens
+
+Epidiaspis leperii Signoret [EPIDBE]
+
+Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE]
+
+Quadraspidiotus perniciosus Comstock [QUADPE] |
+
+Malus Mill. |
+
+Bactéries
+
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Erwinia amylovora (Burrill) Winslow et al. [ERWIAM]
+
+Pseudomonas syringae pv. Syringae van Hall [PSDMSY]
+
+Champignons et oomycètes
+
+Armillariella mellea (Vahl) Kummer [ARMIME]
+
+Chondrostereum purpureum Pouzar [STERPU]
+
+Glomerella cingulata (Stoneman) Spaulding & von Schrenk [GLOMCI]
+
+Neofabraea alba Desmazières [PEZIAL]
+
+Neofabraea malicorticis Jackson [PEZIMA]
+
+Neonectria ditissima (Tulasne & C. Tulasne) Samuels & Rossman
+
+[NECTGA]
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Sclerophora pallida Yao & Spooner [SKLPPA]
+
+Verticillium albo-atrum Reinke & Berthold [VERTAA]
+
+Verticillium dahliae Kleb [VERTDA]
+
+Insectes et acariens
+
+Eriosoma lanigerum Hausmann [ERISLA]
+
+Psylla spp. Geoffroy [1PSYLG]
+
+Nématodes
+
+Meloidogyne hapla Chitwood [MELGHA]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Olea europaea L.
 
 |
+
+Bactéries
+
+Pseudomonas savastanoi pv. savastanoi (Smith) Gardan et al. [PSDMSA]
+
+Nématodes
+
+Meloidogyne arenaria Chitwood [MELGAR]
+
+Meloidogyne incognita (Kofold & White) Chitwood [MELGIN]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU]
+
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
+
+Virus associé au jaunissement foliaire de l'olivier [OLYAV0]
+
+Virus associé au jaunissement des nervures de l'olivier [OVYAV0]
+
+Virus associé à la marbrure jaune et au dépérissement de l'olivier [OYMDAV] |
+
+Pistacia vera L. |
+
+Champignons et oomycètes
+
+Phytophthora cambivora (Petri) Buisman [PHYTCM]
+
+Phytophthora cryptogea Pethybridge & Lafferty [PHYTCR]
+
+Rosellinia necatrix Prillieux [ROSLNE]
+
+Verticillium dahliae Kleb [VERTDA]
+
+Nématodes
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Prunus domestica L. et Prunus dulcis (Miller) Webb |
+
+Bactéries
+
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP]
+
+Champignons et oomycètes
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Verticillium dahliae Kleb [VERTDA]
+
+Insectes et acariens
+
+Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE]
+
+Quadraspidiotus perniciosus Comstock [QUADPE]
+
+Nématodes
+
+Meloidogyne arenaria Chitwood [MELGAR]
+
+Meloidogyne incognita (Kofold & White) Chitwood [MELGIN]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Prunus armeniaca L.
+
+|
+
+Bactéries
+
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie [PSDMMP]
+
+Pseudomonas syringae pv. Syringae van Hall [PSDMSY]
+
+Pseudomonas viridiflava (Burkholder) Dowson [PSDMVF]
+
+Champignons et oomycètes
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Verticillium dahliae Kleb [VERTDA]
+
+Insectes et acariens
+
+Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE]
+
+Quadraspidiotus perniciosus Comstock [QUADPE]
+
+Nématodes
+
+Meloidogyne arenaria Chitwood [MELGAR]
+
+Meloidogyne incognita (Kofold & White) Chitwood [MELGIN]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Prunus avium L. et Prunus cerasus L. |
+
+Bactéries
+
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie
+
+[PSDMMP]
+
+Champignons et oomycètes
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Insectes et acariens
+
+Quadraspidiotus perniciosus Comstock [QUADPE]
+
+Nématodes
+
+Meloidogyne arenaria Chitwood [MELGAR]
+
+Meloidogyne incognita (Kofold & White) Chitwood [MELGIN]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Prunus persica (L.) Batsch et Prunus salicina Lindley |
+
+Bactéries
+
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Pseudomonas syringae pv. morsprunorum (Wormald) Young, Dye & Wilkie
+
+[PSDMMP]
+
+Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE]
+
+Champignons et oomycètes
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Verticillium dahliae Kleb [VERTDA]
+
+Insectes et acariens
+
+Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE]
+
+Quadraspidiotus perniciosus Comstock [QUADPE]
+
+Nématodes
+
+Meloidogyne arenaria Chitwood [MELGAR]
+
+Meloidogyne incognita (Kofold & White) Chitwood [MELGIN]
+
+Meloidogyne javanica Chitwood [MELGJA]
+
+Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE]
+
+Pratylenchus vulnus Allen & Jensen [PRATVU] |
+
+Ribes L. |
+
+Champignons et oomycètes
+
+Diaporthe strumella (Fries) Fuckel [DIAPST]
+
+Microsphaera grossulariae (Wallroth) Léveillé [MCRSGR]
+
+Podosphaera mors-uvae (Schweinitz) Braun & Takamatsu [SPHRMU]
+
+Insectes et acariens
+
+Cecidophyopsis ribis Westwood [ERPHRI]
+
+Dasineura tetensi Rübsaamen [DASYTE]
+
+Pseudaulacaspis pentagona Targioni-Tozzetti [PSEAPE]
+
+Quadraspidiotus perniciosus Comstock [QUADPE]
+
+Tetranychus urticae Koch [TETRUR]
+
+Nématodes
+
+Aphelenchoides ritzemabosi (Schwartz) Steiner & Buhrer [APLORI]
+
+Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]
+
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
+
+Agent de la mosaïque aucuba et agent de la jaunisse du cassis combinés |
+
+Rubus L. |
+
+Bactéries
+
+Agrobacterium spp. Conn [1AGRBG]
+
+Rhodococcus fascians Tilford [CORBFA]
+
+Champignons et oomycètes
+
+Peronospora rubi Rabenhorst [PERORU]
+
+Insectes et acariens
+
+Resseliella theobaldi Barnes [THOMTE] |
+
+Vaccinium L. |
+
+Bactéries
+
+Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU]
+
+Champignons et oomycètes
+
+Diaporthe vaccinii Shear [DIAPVA]
+
+Exobasidium vaccinii (Fuckel) Woronin [EXOBVA]
+
+Godronia cassandrae (forme anamorphe Topospora myrtilli) Peck
+
+[GODRCA] |

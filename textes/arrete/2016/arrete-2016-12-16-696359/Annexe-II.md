@@ -1,361 +1,383 @@
 # Article Annexe II
 
-LISTES D'ORGANISMES NUISIBLES DONT LA PRÉSENCE DOIT OBLIGATOIREMENT ÊTRE ETABLIE AU MOYEN D'INSPECTIONS VISUELLES ET, DANS CERTAINS CAS, D'ÉCHANTILLONNAGES ET D'ANALYSES
+LISTE DES ORGANISMES RÉGLEMENTÉS NON DE QUARANTAINE (ORNQ) DONT LA PRÉSENCE DOIT OBLIGATOIREMENT ÊTRE ÉTABLIE AU MOYEN D'UNE INSPECTION VISUELLE ET, S'IL Y A LIEU, D'UN ÉCHANTILLONNAGE ET D'UNE ANALYSE
 
-GENRES OU ESPÈCES
+Genres ou espèces |
 
-|
+ORNQ |
 
-ORGANISMES NUISIBLES
+Citrus L., Fortunella Swingle et Poncirus Raf. |
 
-|
+Bactéries
 
-Citrus L., Fortunella Swingle et Poncirus Raf.
+Spiroplasma citri Saglio et al. [SPIRCI]
 
-|
+Champignons et oomycètes
 
-Virus
+Plenodomus tracheiphilus (Petri) Gruyter, Aveskamp & Verkley [DEUTTR]
 
-Virus de la panachure infectieuse des agrumes (CVV)
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Virus de la psorose des Citrus (CPsV)
+Agent du cristacortis des agrumes [CSCC00]
 
-Septoriose des agrumes (CLBV)
+Viroïde de l'exocortis des agrumes [CEVD00]
 
-Maladies apparentées aux viroses
+Agent de l'impietratura des agrumes [CSI000]
 
-Impietratura
+Virus des taches foliaires des agrumes [CLBV00]
 
-Cristacortis
+Virus de la psorose des agrumes [CPSV00]
 
-Viroïdes
+Virus de la tristeza des agrumes (isolats de l'Union européenne)
 
-Exocortis des agrumes (CEVd)
+[CTV000]
 
-Cachexie des agrumes (HSVd)
+Virus de la panachure infectieuse des agrumes [CVV000]
 
-|
+Viroïde de la cachexie des agrumes [HSVD00] |
 
-Corylus avellana L.
+Corylus avellana L. |
 
-|
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Virus
+Virus de la mosaïque du pommier [APMV00] |
 
-Mosaïque du pommier (ApMV)
+Cydonia oblonga Mill. |
 
-Phytoplasmes
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Hazelnut maculatura lineare phytoplasma
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-|
+Agent du bois souple du pommier [ARW000]
 
-Cydonia oblonga Mill. et Pyrus L.
+Virus du bois rayé du pommier [ASGV00]
 
-|
+Virus du bois strié du pommier [ASPV00]
 
-Virus
+Agent de la nécrose de l'écorce du poirier [PRBN00]
 
-Taches chlorotiques du pommier (ACLSV)
+Agent de l'écorce fendue du poirier [PRBS00]
 
-Bois rayé du pommier (ASGV)
+Viroïde du chancre pustuleux du poirier [PBCVD0]
 
-Bois strié du pommier (ASPV)
+Agent de la rugosité de l'écorce du poirier [PRRB00]
 
-Maladies apparentées aux viroses
-
-Ecorce fendue, nécrose de l'écorce
-
-Ecorce rugueuse
-
-Bois souple, pustules jaunes
-
-Viroïdes
-
-Chancre pustuleux du poirier (PBCVd)
-
-|
+Agent des pustules jaunes du cognassier [ARW000] |
 
 Fragaria L.
 
 |
 
+Bactéries
+
+Xanthomonas fragariae Kennedy & King [XANTFR]
+
+Champignons et oomycètes
+
+Colletotrichum acutatum Simmonds [COLLAC]
+
+Phytophthora cactorum (Lebert & Cohn) J. Schröter [PHYTCC]
+
+Phytophthora fragariae C. J. Hickman [PHYTFR]
+
 Nématodes
 
-Aphelenchoides blastoforus
+Aphelenchoides besseyi Christie [APLOBE]
 
-Aphelenchoides fragariae
+Aphelenchoides blastophthorus Franklin [APLOBL]
 
-Aphelenchoides ritzemabosi
+Aphelenchoides fragariae (Ritzema Bos) Christie [APLOFR]
 
-Ditylenchus dipsaci
+Aphelenchoides ritzemabosi (Schwartz) Steiner & Buhrer [APLORI]
 
-Champignons
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Phytophthora cactorum
+Virus de la mosaïque de l'arabette [ARMV00]
 
-Colletotrichum acutatum
+Virus des taches annulaires du framboisier [RPRSV0]
 
-Virus
+Virus de la frisolée du fraisier [SCRV00]
 
-Marbrure du fraisier (SMoV)
+Virus des taches annulaires latentes du fraisier [SLRSV0]
 
-|
+Virus du bord jaune du fraisier [SMYEV0]
 
-Juglans regia L.
+Virus de la marbrure du fraisier [SMOV00]
 
-|
+Virus du liséré des nervures du fraisier [SVBV00]
 
-Virus
+Virus des anneaux noirs de la tomate [TBRV00] |
 
-Enroulement des feuilles du cerisier (CLRV)
+Juglans regia L |
 
-|
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Malus Mill.
+Virus de l'enroulement foliaire du cerisier [CLRV00] |
 
-|
+Malus Mill. |
 
-Virus
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Taches chlorotiques du pommier (ACLSV)
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-Mosaïque du pommier (ApMV)
+Viroïde de la pomme ridée [ADFVD0]
 
-Bois rayé du pommier (ASGV)
+Agent de la plastomanie du pommier [AFL000]
 
-Bois strié du pommier (ASPV)
+Virus de la mosaïque du pommier [APMV00]
 
-Maladies apparentées aux viroses
+Agent du bois souple du pommier [ARW000]
 
-Bois souple, plastomanie du pommier
+Viroïde de l'épiderme balafré du pommier [ASSVD0]
 
-Lésions en fer à cheval du pommier
+Agent de la craquelure étoilée de la pomme [APHW00]
 
-Altérations sur fruits : fruit atrophié du pommier, fruits bosselés, fruits cabossés de Ben Davis, maladie des taches liégeuses, craquelure étoilée, roussissement annulaire, fruits verruqueux
+Virus du bois rayé du pommier [ASGV00]
 
-Viroïdes
+Virus du bois strié du pommier [ASPV00]
 
-Epiderme balafré du pommier (ASSVd)
+Candidatus Phytoplasma mali Seemüller & Schneider [PHYPMA]
 
-Pomme ridée (ADFVd)
+Altérations sur fruits : fruit atrophié du pommier [APCF00], fruits bosselés [APGC00], fruits cabossés de Ben Davis, maladie des taches liégeuses [APRSK0], craquelure étoilée, roussissement annulaire [APLP00], fruits verruqueux |
 
-|
+Olea europaea L. |
 
-Olea europaea L.
+Champignons et oomycètes
 
-|
+Verticillium dahliae Kleb [VERTDA]
 
-Champignons
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Verticillium dahliae
+Virus de la mosaïque de l'arabette [ARMV00]
 
-Virus
+Virus de l'enroulement foliaire du cerisier [CLRV00]
 
-Mosaïque de l'arabette (ArMV)
+Virus des taches annulaires latentes du fraisier [SLRSV0] |
 
-Enroulement des feuilles du cerisier (CLRV)
+Prunus dulcis (Miller) Webb |
 
-Taches annulaires du fraisier (SLRSV)
+Bactéries
 
-|
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
 
-Prunus amygdalus Batsch
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-|
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-Virus
+Virus de la mosaïque du pommier [APMV00]
 
-Taches chlorotiques du pommier (ACLSV)
+Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR]
 
-Mosaïque du pommier (ApMV)
+Virus de la sharka [PPV000]
 
-Rabougrissement du prunier (PDV)
+Virus du rabougrissement du prunier [PDV000]
 
-Taches annulaires nécrotiques des Prunus (PNRSV)
-
-|
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
 
 Prunus armeniaca L.
 
 |
 
-Virus
+Bactéries
 
-Taches chlorotiques du pommier (ACLSV)
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
 
-Mosaïque du pommier (ApMV)
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Virus latent de l'abricotier (ApLV)
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-Rabougrissement du prunier (PDV)
+Virus de la mosaïque du pommier [APMV00]
 
-Taches annulaires nécrotiques des Prunus (PNRSV)
+Virus latent de l'abricotier [ALV000]
 
-|
+Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR]
 
-Prunus avium et P. cerasus
+Virus de la sharka [PPV000]
 
-|
+Virus du rabougrissement du prunier [PDV000]
 
-Virus
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
 
-Taches chlorotiques du pommier (ACLSV)
+Prunus avium L. et Prunus cerasus L. |
 
-Mosaïque du pommier (ApMV)
+Bactéries
 
-Mosaïque de l'arabette (ArMV)
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
 
-Marbrure annulaire verte du cerisier (CGRMV)
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Enroulement des feuilles du cerisier (CLRV)
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-Marbrure brune nécrotique du cerisier (CNRMV)
+Virus de la mosaïque du pommier [APMV00]
 
-Virus 1 et 2 de la petite cerise (LChV1, LChV2)
+Virus de la mosaïque de l'arabette [ARMV00]
 
-Marbrure foliaire du cerisier (ChMLV)
+Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR]
 
-Rabougrissement du prunier (PDV)
+Virus de la marbrure annulaire verte du cerisier [CGRMV0]
 
-Taches annulaires nécrotiques des Prunus (PNRSV)
+Virus de l'enroulement foliaire du cerisier [CLRV00]
 
-Taches annulaires du framboisier (RpRSV)
+Virus de la marbrure foliaire du cerisier [CMLV00]
 
-Taches annulaires du fraisier (SLRSV)
+Virus de la marbrure brune nécrotique du cerisier [CRNRM0]
 
-Anneaux noirs de la tomate (TBRV)
+Virus 1 et 2 de la petite cerise [LCHV10], [LCHV20]
 
-|
+Virus de la sharka [PPV000]
 
-Prunus domestica et P. salicina
+Virus du rabougrissement du prunier [PDV000]
 
-|
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
 
-Virus
+Virus des taches annulaires du framboisier [RPRSV0]
 
-Taches chlorotiques du pommier (ACLSV)
+Virus des taches annulaires latentes du fraisier [SLRSV0]
 
-Mosaïque du pommier (ApMV)
+Virus des anneaux noirs de la tomate [TBRV00] |
 
-Taches annulaires latentes du myrobolan (SLRSV)
+Prunus domestica L., Prunus salicina Lindley et autres espèces de Prunus L. sensibles au virus de la sharka dans le cas des hybrides de Prunus L. |
 
-Rabougrissement du prunier (PDV)
+Bactéries
 
-Taches annulaires nécrotiques des Prunus (PNRSV)
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
 
-|
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Prunus persica
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-|
+Virus de la mosaïque du pommier [APMV00]
 
-Virus
+Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR]
 
-Taches chlorotiques du pommier (ACLSV)
+Virus des taches annulaires latentes du myrobolan [MLRSV0]
 
-Mosaïque du pommier (ApMV)
+Virus de la sharka [PPV000]
 
-Virus latent de l'abricotier (ApLV)
+Virus du rabougrissement du prunier [PDV000]
 
-Rabougrissement du prunier (PDV)
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0] |
 
-Taches annulaires nécrotiques des Prunus (PNRSV)
+Prunus persica (L.) Batsch |
 
-Taches annulaires du fraisier (SLRSV)
+Bactéries
 
-Viroïdes
+Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. [XANTPR]
 
-Mosaïque latente du pêcher (PLMVd)
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-|
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-Ribes L.
+Virus de la mosaïque du pommier [APMV00]
 
-|
+Virus latent de l'abricotier [ALV000]
 
-Virus
+Candidatus Phytoplasma prunorum Seemüller & Schneider [PHYPPR]
 
-selon l'espèce concernée
+Viroïde de la mosaïque latente du pêcher [PLMVD0]
 
-Mosaïque de l'arabette (ArMV)
+Virus de la sharka [PPV000]
 
-Réversion du cassis (BRV)
+Virus du rabougrissement du prunier [PDV000]
 
-Virus de la mosaïque du concombre (CMV)
+Virus des taches annulaires nécrotiques des Prunus [PNRSV0]
 
-Virus associés au virus de la nervure du groseillier à maquereau (GVBaV)
+Virus des taches annulaires latentes du fraisier [SLRSV0] |
 
-Taches annulaires du fraisier (SLRSV)
-
-Taches annulaires du framboisier (RpRSV)
+Pyrus L.
 
 |
 
-Rubus L.
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-|
+Virus des taches chlorotiques du pommier [ACLSV0]
 
-Champignons
+Agent du bois souple du pommier [ARW000]
 
-Phytophthora spp. sur Rubus
+Virus du bois rayé du pommier [ASGV00]
 
-Virus
+Virus du bois strié du pommier [ASPV00]
 
-En fonction de l'espèce concernée
+Candidatus Phytoplasma pyri Seemüller & Schneider [PHYPPY]
 
-Mosaïque du pommier (ApMV)
+Agent de la nécrose de l'écorce du poirier [PRBN00]
 
-Nécrose du Rubus ou de la ronce (BRNV)
+Agent de l'écorce fendue du poirier [PRBS00]
 
-Virus de la mosaïque du concombre (CMV)
+Viroïde du chancre pustuleux du poirier [PBCVD0]
 
-Marbrure du framboisier (RLMV)
+Agent de la rugosité de l'écorce du poirier [PRRB00]
 
-Taches chlorotiques du framboisier (RLSV)
+Agent des pustules jaunes du cognassier [ARW000] |
 
-Chlorose des nervures du framboisier (RVCV)
+Ribes L. |
 
-Jaunisse réticulée de la ronce (RYNV)
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Rabougrissement du framboisier (RBDV)
+Virus de la mosaïque de l'arabette [ARMV00]
 
-Phytoplasmes
+Virus de la réversion du cassis [BRAV00]
 
-Nanisme des ronces et des framboisiers
+Virus de la mosaïque du concombre [CMV000]
 
-Maladies apparentées aux viroses
+Virus associé à la chlorose des nervures du groseillier à maquereau [GOVB00]
 
-Raspberry yellow spot
+Virus des taches annulaires du framboisier [RPRSV0]
 
-|
+Virus des taches annulaires latentes du fraisier [SLRSV0] |
 
-Vaccinium L.
+Rubus L. |
 
-|
+Champignons et oomycètes
 
-Virus
+Phytophthora spp. de Bary [1PHYTG]
 
-Blueberry shoestring virus (BSSV)
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
 
-Blueberry red ringspot virus (BRRV)
+Virus de la mosaïque du pommier [APMV00]
 
-Brunissure nécrotique du bleuet (BlScV)
+Virus de la mosaïque de l'arabette [ARMV00]
 
-Blueberry shock virus (BlShV)
+Virus de la nécrose du Rubus ou de la ronce [BRNV00]
 
-Phytoplasmes
+Candidatus Phytoplasma rubi Malembic-Maher et al. [PHYPRU]
 
-Blueberry stunt phytoplasma
+Virus de la mosaïque du concombre [CMV000]
 
-Balai de sorcière de la myrtille
+Virus du rabougrissement buissonnant du framboisier [RBDV00]
 
-Cranberry false blossom phytoplasma
+Virus de la marbrure foliaire du framboisier [RLMV00]
 
-Maladies apparentées aux viroses
+Virus des taches annulaires du framboisier [RPRSV0]
 
-Blueberry mosaic agent
+Virus de la chlorose des nervures du framboisier [RVCV00]
 
-Cranberry ringspot agent
+Raspberry yellow spot [RYS000]
 
-|
+Virus du réseau jaune du Rubus [RYNV00]
+
+Virus des taches annulaires latentes du fraisier [SLRSV0]
+
+Virus des anneaux noirs de la tomate [TBRV00] |
+
+Vaccinium L. |
+
+Virus, viroïdes, maladies apparentées aux viroses et phytoplasmes
+
+Ophiovirus associé à Blueberry mosaic [BLMAV0]
+
+Blueberry red ringspot virus [BRRV00]
+
+Virus de la brunissure nécrotique de la myrtille [BLSCV0]
+
+Virus du choc de la myrtille [BLSHV0]
+
+Blueberry shoestring virus [BSSV00]
+
+Candidatus Phytoplasma asteris Lee et al. [PHYPAS]
+
+Candidatus Phytoplasma pruni [PHYPPN]
+
+Candidatus Phytoplasma solani Quaglino et al. [PHYPSO]
+
+Cranberry false blossom phytoplasma [PHYPFB] |
