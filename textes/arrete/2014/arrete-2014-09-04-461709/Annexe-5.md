@@ -20,7 +20,7 @@ Les pièces justificatives relatives aux opérations d'économies d'énergie con
 
 – le respect des conditions définies à l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie.
 
-Lorsqu'une pièce justificative est signée au nom d'une personne morale, elle comporte les nom, prénom et qualité du signataire.(1)
+Lorsqu'une pièce justificative est signée au nom d'une personne morale, elle comporte les nom, prénom et qualité du signataire.
 
 1. Identification du bénéficiaire de l'opération
 
@@ -288,7 +288,7 @@ Les critères et conditions de délivrance prévus par les fiches d'opérations 
 
 – les pièces justificatives prévues par la fiche d'opération standardisée concernée.
 
-En complément, lorsque la fiche d'opération standardisée impose que l'opération soit mise en œuvre par un professionnel, la preuve de réalisation de l'opération comporte le numéro SIRET ou SIREN du professionnel ayant réalisé l'opération.
+En complément, lorsque la fiche d'opération standardisée impose que l'opération soit mise en œuvre par un professionnel, la preuve de réalisation de l'opération comporte le numéro SIRET du professionnel ayant réalisé l'opération.
 
 Par dérogation, lorsque les travaux sont mis en œuvre par les services techniques internes du bénéficiaire, l'attestation d'installation par les services techniques du bénéficiaire prévue au point 2.2 de la présente annexe justifie de la réalisation par un professionnel.
 
@@ -398,8 +398,30 @@ Pour les opérations n'entrant pas dans le cadre des paragraphes 8.1, 8.2, 8.3 e
 
 Le bénéficiaire de l'opération établit la liste des ménages en situation de précarité énergétique bénéficiant de l'opération. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
+9. Opérations d'économies d'énergie réalisées dans le cadre d'un contrat de performance énergétique (CPE).
+
+Pour les opérations réalisées dans le cadre d'un contrat de performance énergétique (CPE) en application de l'article 6 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la demande de certificats d'économies d'énergie comporte les pièces suivantes :
+
+1° Le contrat signé entre l'opérateur et le bénéficiaire permettant notamment de justifier la conformité aux exigences du II de l'article 6 de l'arrêté du 29 décembre 2014 susvisé, et précisant notamment :
+
+a) La désignation des parties contractantes ;
+
+b) La situation de référence prise en compte et le rapport de contrôle dont elle a fait l'objet en application du II susvisé ;
+
+c) L'économie d'énergie garantie sur le périmètre du contrat, en énergie finale (en %) ;
+
+d) Les niveaux de services attendus, les paramètres d'influence et les modalités d'ajustement ;
+
+e) Les modalités du plan de mesure et de vérification et l'engagement de transmettre annuellement un bilan écrit au bénéficiaire ;
+
+f) La durée de la garantie ;
+
+g) Les pénalités en cas de non-atteinte de la performance garantie par le contrat.
+
+2° La liste des opérations standardisées ou spécifiques réalisées dans le cadre du CPE. Les opérations d'économies d'énergie pouvant être bonifiée dans le cadre du CPE sont engagées au plus tôt à la date de signature de ce contrat. Les travaux concernés sont achevés de manière à ce qu'ils produisent les économies d'énergie attendues a minima sur toute la période de garantie de la performance du contrat.
+
 NOTA :
 
-(1) Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions s'appliquent à toutes les pièces justificatives signées à compter du 1er juillet 2019.
+Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
 
-Conformément à l'article 12 de l’arrêté du 20 septembre 2019 : Seules les actions ayant conduit à engager des opérations à compter du 1er janvier 2019 peuvent donner lieu à la délivrance de certificats d'économies d'énergie en application de l'article D. 221-20 du code de l'énergie.
+Conformément à l'article 3 de l'arrêté du 14 mai 2020 ( NOR : TRER2012131A ), les dispositions issues du I de l'article 2 entrent en vigueur le 1er juillet 2020.
