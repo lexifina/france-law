@@ -1,17 +1,23 @@
 # Article ANNEXE
 
-A. - Mesures touchant à la sécurité des personnes utilisatrices ou non
+TYPES D'INFORMATION DEVANT FIGURER SOUS LA RUBRIQUE "PRÉCAUTIONS D'USAGE DE L'APPAREIL"
 
-Non-utilisation du téléphone mobile dans certaines situations (en conduisant) et certains lieux (les avions, les hôpitaux, les stations-service et les garages professionnels).
+A. - Informations relatives à la sécurité des personnes utilisatrices ou non
 
-Précautions à prendre par les porteurs d'implants électroniques (stimulateurs cardiaques, pompes à insuline, neurostimulateurs ...) concernant notamment la distance entre le téléphone mobile et l'implant (15 centimètres) et la position du téléphone, lors de l'appel, sur le côté opposé à l'implant.
+Respect des restrictions d'usage spécifiques à certains lieux (hôpitaux, avions, stations-service, établissements scolaires…).
 
-B. - Conseils d'utilisation pour réduire le niveau d'exposition du consommateur aux rayonnements (il sera précisé que ces conseils sont donnés par simple mesure de prudence, aucun danger lié à l'utilisation d'un téléphone mobile n'ayant été constaté)
+Pour les téléphones mobiles, rappel de l'interdiction de l'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation.
 
-Recommandation de l'utilisation du téléphone mobile dans de bonnes conditions de réception, pour diminuer la quantité de rayonnements reçus (notamment dans un parking souterrain, lors de déplacements en train ou en voiture ...).
+Précautions à prendre par les porteurs d'implants électroniques (stimulateurs cardiaques, pompes à insuline, neurostimulateurs…) concernant notamment la distance entre l'équipement radioélectrique et l'implant (15 centimètres dans le cas des sources d'exposition les plus fortes comme les téléphones mobiles).
 
-Indication des paramètres de bonne réception (ex. : affichage sur l'écran du téléphone de quatre ou cinq barrettes).
+B. - Informations sur les comportements à adopter pour réduire l'exposition aux rayonnements émis par les équipements radioélectriques
 
-Recommandation d'utilisation d'un kit mains libres et, dans cette situation, précautions à prendre lors d'une communication :
+Utiliser l'équipement radioélectrique dans de bonnes conditions de réception pour diminuer la quantité de rayonnements reçus.
 
-éloignement du téléphone du ventre pour les femmes enceintes ou du bas ventre pour les adolescents.
+Utiliser un kit mains-libres ou un haut-parleur, si adapté à l'équipement radioélectrique.
+
+Faire un usage raisonné des équipements radioélectriques comme le téléphone mobile, par les enfants et les adolescents, par exemple en évitant les communications nocturnes et en limitant la fréquence et la durée des appels.
+
+Eloigner les équipements radioélectriques du ventre des femmes enceintes.
+
+Eloigner les équipements radioélectriques du bas-ventre des adolescents.

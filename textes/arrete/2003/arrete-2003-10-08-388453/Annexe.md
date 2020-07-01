@@ -1,6 +1,6 @@
 # Article Annexe
 
-Valeurs limites d'exposition du public applicables aux équipements terminaux radioélectriques
+Valeurs limites d'exposition du public applicables aux équipements radioélectriques
 
 FRÉQUENCE
 
@@ -28,6 +28,10 @@ tête et tronc
 
 |
 
+DAS local membres
+
+(W/kg) |
+
 S
 
 (W/m2)
@@ -46,9 +50,13 @@ S
 
 |
 
+4 |
+
 |
 
 16 GHz- 360 GHz
+
+|
 
 |
 
