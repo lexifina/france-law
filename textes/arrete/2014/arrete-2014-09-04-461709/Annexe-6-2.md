@@ -24,7 +24,9 @@ de l'opération |
 
 NOM
 
-du site bénéficiaire
+du site
+
+bénéficiaire
 
 de l'opération |
 
@@ -56,7 +58,7 @@ VILLE |
 
 |
 
-Suite du tableau
+Suite et fin du tableau
 
 RAISON
 
@@ -78,21 +80,19 @@ de l'opération |
 
 CODE
 
-postal
-
-sans Cedex |
+postal sans Cedex |
 
 VILLE |
 
 VOLUME CEE
 
-hors précarité énergétique
+"hors précarité énergétique"
 
 (kWh cumac) |
 
 VOLUME CEE
 
-précarité énergétique
+"précarité énergétique"
 
 (kWh cumac) |
 
@@ -110,7 +110,7 @@ précarité énergétique
 
 |
 
-Suite du tableau
+Suite et fin du tableau
 
 RÉFÉRENCE
 
@@ -146,15 +146,11 @@ du professionnel |
 
 SIREN
 
-du
-
-sous-traitant |
+du sous-traitant |
 
 RAISON sociale
 
-du
-
-sous-traitant |
+du sous-traitant |
 
 |
 
@@ -176,4 +172,4 @@ Suite et fin du tableau
 
 NOTA :
 
-Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2018 faisant l'objet d'une demande de certificats d'économies d'énergie à compter du 1er octobre 2019.
+Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.

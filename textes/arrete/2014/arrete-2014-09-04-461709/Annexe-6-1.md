@@ -4,13 +4,19 @@ MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
 
 D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
 
-RAISON sociale du demandeur |
+RAISON
+
+sociale
+
+du demandeur |
 
 SIREN
 
 du demandeur |
 
-RÉFÉRENCE EMMY
+RÉFÉRENCE
+
+EMMY
 
 de la demande |
 
@@ -20,7 +26,9 @@ de l'opération |
 
 NOM
 
-du bénéficiaire de l'opération |
+du bénéficiaire
+
+de l'opération |
 
 PRÉNOM
 
@@ -62,9 +70,7 @@ Suite du tableau
 
 VOLUME CEE
 
-hors précarité
-
-énergétique
+"hors précarité énergétique"
 
 (kWh cumac) |
 
@@ -78,13 +84,9 @@ RÉFÉRENCE
 
 de la fiche
 
-d'opération
+d'opération standardisée |
 
-standardisée |
-
-DATE
-
-d'engagement
+DATE d'engagement
 
 de l'opération |
 
@@ -94,7 +96,9 @@ de la facture |
 
 NATURE
 
-de la bonification |
+de la
+
+bonification |
 
 |
 
@@ -124,7 +128,9 @@ RAISON sociale
 
 du sous-traitant |
 
-NATURE du rôle actif et incitatif |
+NATURE du rôle actif
+
+et incitatif |
 
 |
 
@@ -140,4 +146,4 @@ Suite et fin du tableau
 
 NOTA :
 
-Conformément à l'article 10 de l'arrêté du 14 mars 2019, ces dispositions sont applicables aux opérations engagées à compter du 1er janvier 2018 faisant l'objet d'une demande de certificats d'économies d'énergie à compter du 1er octobre 2019.
+Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
