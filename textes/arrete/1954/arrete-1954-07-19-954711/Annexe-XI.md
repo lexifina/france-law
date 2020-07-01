@@ -16,7 +16,7 @@ déclare avoir monté sur le véhicule désigné ci-après et appartenant à (no
 
 l'implantation définie ci-dessous.
 
-Le véhicule doit être présenté à une réception à titre isolé du service des mines avant immatriculation étant donné :
+Le véhicule doit être présenté à une réception à titre isolé du service en charge des réceptions avant immatriculation étant donné :
 
 - qu'il a été livré non carrossé (1) (5) ;
 
@@ -57,3 +57,7 @@ Fait à ......................................... le ...........................
 (5) Rayer la mention inutile.
 
 (6) Joindre les tickets de pesée à vide du véhicule en ordre de marche (essieu par essieu et totale), le plan d'aménagement coté, le calcul de répartition des charges sur les essieux. Schémas ou photographies définissant le nombre et les emplacements des issues.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 15 avril 2020, les présentes dispositions entrent en vigueur à compter du 1er juillet 2020.

@@ -80,7 +80,7 @@ Le : ......
 
 Nota 1 : Pour obtenir l'immatriculation du véhicule désigné ci-dessus, il doit notamment être joint au présent certificat, le procès-verbal de réception du type et :
 
-- soit un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules automobiles pour les camions, camionnettes et véhicules remorqués ou, pour les véhicules tracteurs routiers, une attestation de montage d'un dispositif d'attelage, conforme à l'annexe X de l'arrêté ministériel du 19 juillet 1954 relatif à la réception des véhicules automobiles et répondant aux dispositions du paragraphe A de cette annexe ;
+- soit un procès-verbal de contrôle de conformité initial tel que prévu à l'annexe 3 de l'arrêté du 18 novembre 2005 relatif au contrôle de conformité initial prévu à l'article R. 321-15 du code de la route ou à l'annexe 2 de l'arrêté du 14 novembre 2014 relatif au contrôle de conformité initial des véhicules de PTAC inférieur ou égal à 3,5 tonnes pour les camions, camionnettes et véhicules remorqués ou, pour les véhicules tracteurs routiers, une attestation de montage d'un dispositif d'attelage, conforme à l'annexe X de l'arrêté ministériel du 19 juillet 1954 relatif à la réception des véhicules automobiles et répondant aux dispositions du paragraphe A de cette annexe ;
 
 - soit un certificat de conformité complémentaire accompagné du procès-verbal de réception complémentaire ;
 
@@ -94,4 +94,8 @@ Nota 2 : Pour obtenir l'immatriculation du véhicule désigné ci-dessus, il doi
 
 (1) Rayer la mention inutile.
 
-((2) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
+(2) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 15 avril 2020, les présentes dispositions entrent en vigueur à compter du 1er juillet 2020.

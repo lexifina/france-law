@@ -48,10 +48,14 @@ Fait à......
 
 le ......
 
-Le DRIRE
+Le DREAL, DRIEE, DEAL, le CNRV.
 
 (1) Rayer la mention inutile.
 
 (2) Noter les éventuelles dérogations ministérielles ou niveaux réglementaires.
 
 (3) Noter les mentions éventuelles à faire apparaître sur le certificat d'immatriculation.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 15 avril 2020, les présentes dispositions entrent en vigueur à compter du 1er juillet 2020.

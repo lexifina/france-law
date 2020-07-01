@@ -18,11 +18,11 @@ déclare avoir monté sur le véhicule désigné ci-après et appartenant à : .
 
 la carrosserie suivante : ......
 
-Le véhicule doit être présenté à une réception à titre isolé du service des mines avant immatriculation compte tenu de ce que :
+Le véhicule doit être présenté à une réception à titre isolé du service en charge des réceptions avant immatriculation compte tenu de ce que :
 
 - le châssis a subi les transformations suivantes par rapport au type décrit dans la notice du constructeur. Ci-joint l'accord écrit du service technique du constructeur ;
 
-- les poids en charge sur les essieux (ou le pivot) ne respectent pas les charges au sol minimales et (ou) maximales (1) prévues par le constructeur. Le nouveau poids total autorisé en charge sera déterminé par le service des mines ;
+- les poids en charge sur les essieux (ou le pivot) ne respectent pas les charges au sol minimales et (ou) maximales (1) prévues par le constructeur. Le nouveau poids total autorisé en charge sera déterminé par le service en charge des réceptions ;
 
 - la largeur du véhicule excède pas celle fixée par le constructeur. Ci-joint l'accord écrit du service technique du constructeur.
 
@@ -177,3 +177,7 @@ Caisses mobiles multiples : G à indiquer sur le véhicule porteur en fonction d
 (4) Joindre les tickets de pesée correspondants.
 
 (5) F' = distance de l'axe de la force (ou de la résultante des forces) appliquée(s) au sol par l' (les) essieu(x) avant, ou de l'axe du pivot d'attelage, à l'axe de la force (ou de la résultante des forces appliquée(s) au sol par l' (ou les) essieu(x) arrière.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 15 avril 2020, les présentes dispositions entrent en vigueur à compter du 1er juillet 2020.

@@ -86,10 +86,14 @@ indications portées sur le certificat de conformité (en particulier pour les o
 
 prescription de conformité à un texte réglementaire) doit faire l'objet :
 
-- d'une déclaration à la préfecture ,
+- d'une déclaration au service en charge des immatriculations ,
 
 - le cas échéant d'une réception à titre isolé par le service en charge des réceptions.
 
 (1) Rayer la mention inutile.
 
 (2) Références communautaires de la directive 1999/37/CE relative aux documents d'immatriculation.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 15 avril 2020, les présentes dispositions entrent en vigueur à compter du 1er juillet 2020.

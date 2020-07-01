@@ -4,7 +4,7 @@ I. - Un véhicule usagé relevant de la catégorie internationale M1 ou N1 visé
 
 Le véhicule doit répondre aux domaines essentiels de sécurité listés à l'annexe IV de la directive 2007/46/CE et des textes pris pour son application, applicables à sa date de première mise en circulation.
 
-II. - En particulier, au moins pour les cinq domaines réglementés, listés à l'annexe IV de la directive 2007/46/CE, suivants :
+II. - En particulier, au moins pour les six domaines réglementés, listés à l'annexe IV de la directive 2007/46/CE, suivants :
 
 - le freinage ;
 
@@ -14,7 +14,9 @@ II. - En particulier, au moins pour les cinq domaines réglementés, listés à 
 
 - les émissions ;
 
-- la compatibilité électromagnétique,
+- la compatibilité électromagnétique ;
+
+- la sécurité électrique (si concerné),
 
 la conformité est établie par la présentation de fiches de communication, de procès-verbaux d'essais par un laboratoire reconnu ou d'attestation du constructeur.
 
@@ -25,3 +27,7 @@ Pour ce qui concerne les véhicules précédemment immatriculés dans un Etat me
 - à tout moment le demandeur conserve le choix d'attendre la réponse des autorités de l'Etat membre de provenance du véhicule ou de réaliser les essais techniques manquants dans un laboratoire reconnu d'un Etat membre de son choix.
 
 III. - Pour tous les autres domaines réglementés listés à l'annexe IV de la directive 2007/46/CE et des textes pris pour son application, pour lesquels la demande de réception à titre isolé ne dispose pas de documents de conformité tel qu'il est indiqué ci-dessus, au paragraphe II, les vérifications sont réalisées par le service en charge des réceptions lors de la présentation du véhicule.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 15 avril 2020, les présentes dispositions entrent en vigueur à compter du 1er juillet 2020.
