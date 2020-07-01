@@ -96,11 +96,11 @@ Attaché d'administration |
 
 3 |
 
-Ingénieurs d'études et de fabrications du ministère de la défense |
+Ingénieurs civils de la défense |
 
 Au regard des effectifs du corps, la part de femmes représentées est de 15,78 % et la part d'hommes représentés est de 84,22 %. |
 
-Ingénieur d'études et de fabrication hors classe |
+Ingénieur civil de la défense hors classe |
 
 2 |
 
@@ -110,13 +110,13 @@ Ingénieur d'études et de fabrication hors classe |
 
 8 |
 
-Ingénieur divisionnaire d'études et de fabrication |
+Ingénieur civil divisionnaire de la défense |
 
 3 |
 
 3 |
 
-Ingénieur d'études et de fabrication |
+Ingénieur civil de la défense |
 
 3 |
 

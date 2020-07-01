@@ -36,21 +36,41 @@ Administration centrale.
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale. |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
 
 Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009.
 
 Personnel mis à disposition et administré par les services de l'administration centrale.
 
+Agents en fonctions :
+
+-en poste permanents à l'étranger ;
+
+-au sein d'échelons de direction des services à compétence nationale du ministère ;
+
+-au sein du service historique de la défense :
+
+a) Localisé à Vincennes ;
+
+b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
 Agents en fonctions à la direction générale de l'armement, affectés :
 
--au sein du centre de proximité des ressources humaines ;
+-au sein du centre de proximité des ressources humaines, quel que soit le site ;
 
--au sein du service des achats d'armement ;
+-au sein du service des achats d'armement, quel que soit le site ;
 
 -au sein de l'établissement de contrôle de Cherbourg ;
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+
+-au sein de l'unité managériale Socle numérique, quel que soit le site ;
+
+-au sein du service des méthodes et du management de projet, quel que soit le site ;
+
+-au sein du service du maintien en condition opérationnelle, quel que soit le site.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -96,7 +116,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne, aux Emirats Arabes Unis et les agents régis par le décret du 18 juin 1969 susvisés .
 
 Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
 
@@ -368,6 +388,8 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
 
+Agents en fonctions au sein l'Ecole de l'Air.
+
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
 -DGA essais en vol ;
@@ -484,21 +506,41 @@ Administration centrale.
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
 
 Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
 
 Personnel mis à disposition et administré par les services de l'administration centrale.
 
+Agents en fonctions :
+
+-en poste permanents à l'étranger ;
+
+-au sein d'échelons de direction des services à compétence nationale du ministère ;
+
+-au sein du service historique de la défense :
+
+a) Localisé à Vincennes ;
+
+b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
 Agents en fonctions à la direction générale de l'armement, affectés :
 
--au sein du centre de proximité des ressources humaines ;
+-au sein du centre de proximité des ressources humaines, quel que soit le site ;
 
--service des achats d'armement ;
+-service des achats d'armement, quel que soit le site ;
 
 -au sein de l'établissement de contrôle de Cherbourg ;
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+
+-au sein de l'unité managériale Socle numérique, quel que soit le site ;
+
+-au sein du service des méthodes et du management de projet, quel que soit le site ;
+
+-au sein du service du maintien en condition opérationnelle, quel que soit le site.
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -544,7 +586,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne, aux Emirats Arabes Unis et les agents régis par le décret du 18 juin 1969 susvisés.
 
 Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
 
@@ -818,6 +860,8 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
 
+Agents en fonctions au sein l'Ecole de l'Air.
+
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
 -DGA essais en vol ;
@@ -834,7 +878,9 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -DGA techniques navales.
 
-Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS). |
+Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS).
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -966,21 +1012,41 @@ Administration centrale.
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale. |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
 
 Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
 
 Personnel mis à disposition et administré par les services de l'administration centrale.
 
+Agents en fonctions :
+
+-en poste permanents à l'étranger ;
+
+-au sein d'échelons de direction des services à compétence nationale du ministère ;
+
+-au sein du service historique de la défense :
+
+a) Localisé à Vincennes ;
+
+b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
 Agents en fonctions à la direction générale de l'armement, affectés :
 
--au sein du centre de proximité des ressources humaines ;
+-au sein du centre de proximité des ressources humaines, quel que soit le site ;
 
--service des achats d'armement ;
+-service des achats d'armement, quel que soit le site ;
 
 -au sein de l'établissement de contrôle de Cherbourg ;
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+
+-au sein de l'unité managériale Socle numérique, quel que soit le site ;
+
+-au sein du service des méthodes et du management de projet, quel que soit le site ;
+
+-au sein du service du maintien en condition opérationnelle, quel que soit le site.
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1026,7 +1092,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne, aux Emirats Arabes Unis et les agents régis par le décret du 18 juin 1969 susvisés.
 
 Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
 
@@ -1302,6 +1368,8 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
 
+Agents en fonctions au sein l'Ecole de l'Air.
+
 Agents en fonctions dans les organismes extérieurs de la direction générale de l'armement suivants :
 
 -DGA essais en vol ;
@@ -1318,7 +1386,9 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -DGA techniques navales.
 
-Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS). |
+Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS).
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1378,7 +1448,7 @@ Administration centrale
 
 Présidence :
 
-Le chef du service parisien de soutien de l'administration centrale |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
 
 Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale. |
 
@@ -1398,7 +1468,21 @@ et
 
 suppléants |
 
-Personnel mis à disposition et administré par les services de l'administration centrale. |
+Personnel mis à disposition et administré par les services de l'administration centrale.
+
+Agents en fonctions :
+
+-en poste permanents à l'étranger ;
+
+-au sein d'échelons de direction des services à compétence nationale du ministère ;
+
+-au sein du service historique de la défense :
+
+a) Localisé à Vincennes ;
+
+b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
+|
 
 Secrétaire administratif de classe supérieure |
 
@@ -1408,13 +1492,21 @@ Secrétaire administratif de classe supérieure |
 
 Agents en fonctions à la direction générale de l'armement, affectés :
 
--au sein du centre de proximité des ressources humaines ;
+-au sein du centre de proximité des ressources humaines, quel que soit le site ;
 
--service des achats d'armement ;
+-service des achats d'armement, quel que soit le site ;
 
 -au sein de l'établissement de contrôle de Cherbourg ;
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs. |
+-dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+
+-au sein de l'unité managériale Socle numérique, quel que soit le site ;
+
+-au sein du service des méthodes et du management de projet, quel que soit le site ;
+
+-au sein du service du maintien en condition opérationnelle, quel que soit le site.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1460,7 +1552,7 @@ Secrétaire administratif de classe supérieure |
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne et aux Emirats arabes unis.
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne, aux Emirats Arabes Unis et les agents régis par le décret du 18 juin 1969 susvisés.
 
 Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
 
@@ -1724,7 +1816,11 @@ et
 
 suppléants |
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84). |
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
+
+Agents en fonctions au sein l'Ecole de l'Air.
+
+|
 
 Secrétaire administratif de classe supérieure |
 
