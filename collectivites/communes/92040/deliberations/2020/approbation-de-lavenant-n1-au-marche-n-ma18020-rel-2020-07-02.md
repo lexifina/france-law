@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de l’avenant n°1 au marché n° MA18020 relatif à l’achat de mobiliers divers - lot n° 2 : mobilier scolaire
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : COMMANDE PUBLIQUE,ACHATS
+- Objet : Approbation de l’avenant n°1 au marché n° MA18020 relatif à l’achat de mobiliers divers - lot n° 2 : mobilier scolaire
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2ODIsInB1ciI6ImJsb2JfaWQifX0=--5c1088043942e916b5ad7c5f6ffe32eb2208030a/020720_16.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
