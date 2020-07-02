@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modifications de la composition d’une commission municipale et de la composition de la Commission Consultative des Services Publics Locaux, section « autre services publics locaux »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : ADMINISTRATION GENERALE
+- Objet : Modifications de la composition d’une commission municipale et de la composition de la Commission Consultative des Services Publics Locaux, section « autre services publics locaux »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2NzcsInB1ciI6ImJsb2JfaWQifX0=--62a761df442176ec7cfbc4e61df0e22f3ccb9bcf/020720_01.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
