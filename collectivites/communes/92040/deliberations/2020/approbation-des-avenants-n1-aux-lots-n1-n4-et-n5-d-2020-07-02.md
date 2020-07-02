@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des avenants n°1 aux lots n°1, n°4 et n°5 du marché MA16020 portant sur des prestations d’entretien et des travaux neufs
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : ESPACES PUBLICS
+- Objet : Approbation des avenants n°1 aux lots n°1, n°4 et n°5 du marché MA16020 portant sur des prestations d’entretien et des travaux neufs
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMjQsInB1ciI6ImJsb2JfaWQifX0=--2dc8acf0b3e33d6b7da9a3cf5ae8acb9c11ba207/020720_43.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
