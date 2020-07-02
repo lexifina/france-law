@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’un avenant n°2 au marché MA16021 relatif aux prestations de propreté dans les espaces verts
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : ESPACES PUBLICS
+- Objet : Approbation d’un avenant n°2 au marché MA16021 relatif aux prestations de propreté dans les espaces verts
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2ODQsInB1ciI6ImJsb2JfaWQifX0=--b7e5a74670e718e02979738c5aef9c2fb1a576b6/020720_45.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
