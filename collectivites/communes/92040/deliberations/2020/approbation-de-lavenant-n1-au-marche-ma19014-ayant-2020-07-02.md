@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de l’avenant n°1 au marché MA19014 ayant pour objet la fourniture de titres restaurant pour le personnel municipal de la Ville et du CCAS d’Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation de l’avenant n°1 au marché MA19014 ayant pour objet la fourniture de titres restaurant pour le personnel municipal de la Ville et du CCAS d’Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5MjIsInB1ciI6ImJsb2JfaWQifX0=--5f222f3f01f00bcddb521c2ddb36098f45731333/020720_24.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
