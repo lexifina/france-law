@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du bilan des acquisitions et cessions immobilières pour l’année 2019
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : PATRIMOINE
+- Objet : Présentation du bilan des acquisitions et cessions immobilières pour l’année 2019
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzMzYsInB1ciI6ImJsb2JfaWQifX0=--2a1f38f806979c4b611260127de2434150b8d276/020720_30.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
