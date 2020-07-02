@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du plan de formation des élus municipaux pour la mandature 2020-2026
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : RESSOURCES HUMAINES
+- Objet : Approbation du plan de formation des élus municipaux pour la mandature 2020-2026
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MjcsInB1ciI6ImJsb2JfaWQifX0=--2afc74455f90b57c12a9d2d0861304f1c8e1c1a1/020720_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
