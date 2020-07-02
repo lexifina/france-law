@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de remboursement des dépenses de nettoyage de l’auditorium entre la Ville et l’EPT Grand Paris Seine Ouest
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation d’une convention de remboursement des dépenses de nettoyage de l’auditorium entre la Ville et l’EPT Grand Paris Seine Ouest
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MjksInB1ciI6ImJsb2JfaWQifX0=--d2ca4b0e36ed5aadcd4cadd28a520ec207894bb9/020720_28.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
