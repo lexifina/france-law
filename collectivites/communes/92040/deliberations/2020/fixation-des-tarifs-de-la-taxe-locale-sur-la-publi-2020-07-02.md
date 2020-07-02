@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation des tarifs de la Taxe Locale sur la Publicité Extérieure pour l’année 2021
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-07-02
+- Matière : FINANCES
+- Objet : Fixation des tarifs de la Taxe Locale sur la Publicité Extérieure pour l’année 2021
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2MjYsInB1ciI6ImJsb2JfaWQifX0=--5e2f0f2d04271f1d681ebcb4a041022c9ea36a46/020720_10.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
