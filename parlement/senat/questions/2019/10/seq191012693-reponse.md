@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012693
+
+- Question : [SEQ191012693](seq191012693.md) — Habitabilité durable
+
+## Réponse
+
+*Ville et logement, JO du 2020-07-02, page 3081*
+
+Le député Monsieur Vuilletet, dans son rapport « Promouvoir l'habitabilité durable pour tous », analyse les dispositions en vigueur et émet des propositions pour améliorer les outils opérationnels permettant à la puissance publique de lutter contre l'habitat indigne de manière toujours plus affirmée. Ce rapport met notamment en avant l'idée d'un référentiel unique pour analyser de façon qualitative l'état de logements. À ce jour, la notion d'habitat indigne est précisée par la loi MOLLE (n° 2009-323 du 25 mars 2009) : elle recouvre les situations d'habitat présentant un risque pour la santé ou la sécurité. Pour analyser plus en détails les qualités et défauts d'un logement, les services en charge de l'habitat indigne s'appuient sur les Règlements sanitaires départementaux (RSD), souvent anciens issus d'une matrice nationale dont sont tirées les déclinaisons départementales (contraintes égales ou plus sévères que la matrice nationale). Le décret décence concernant l'habitat locatif et d'autres textes, tels que celui portant sur la division de logements, traitent également de cette question. La variété des dispositions concernant l'habitabilité des logements nécessite une harmonisation et une mise à jour. La proposition de Monsieur Vuilletet a donc retenu toute l'attention du Gouvernement. Le premier chantier en matière de lutte contre l'habitat indigne est de conduire les réformes prévues par l'article 198 de la loi ELAN. Ce travail est en cours, et devra aboutir d'ici septembre 2020. La construction d'un référentiel habitabilité n'est pas inscrite dans l'habilitation permettant au Gouvernement de légiférer par ordonnance. Elle sera toutefois étudiée par les services concernés, après la mise en place de la réforme issue de la loi ELAN.
