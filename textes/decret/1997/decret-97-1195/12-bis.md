@@ -34,4 +34,12 @@ Sont prises par le chef du service à compétence nationale dénommé “ servic
 
 16° L'autorisation de fourniture d'une assistante technique ou des services de courtage mentionnée au a de l'article 7.1 du règlement (UE) du 13 novembre 2017 précité ;
 
-17° L'autorisation d'exportation, à destination d'un Etat non partie à la convention, des produits chimiques inscrits au tableau 3 annexé à la convention de Paris du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, en application des articles L. 2342-16 et R. 2342-29 du code de la défense.
+17° L'autorisation d'exportation, à destination d'un Etat non partie à la convention, des produits chimiques inscrits au tableau 3 annexé à la convention de Paris du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, en application des articles L. 2342-16 et R. 2342-29 du code de la défense ;
+
+18° Les autorisations délivrées en application des articles 2, 3 et 4 du décret n° 2011-978 du 16 août 2011 relatif aux exportations et aux importations de certains biens susceptibles d'être utilisés en vue d'infliger la peine capitale, la torture ou d'autres peines ou traitements cruels, inhumains ou dégradants ;
+
+19° Les interdictions d'utilisation de l'autorisation générale d'exportation de l'Union prononcées en application de l'article 5 du décret précité ;
+
+20° Les décisions de suspension, de modification, d'abrogation ou de retrait d'autorisations prises en application de l'article 6 du décret précité ;
+
+21° Les autorisations mentionnées à l'article premier du règlement d'exécution (UE) 2020/402 de la Commission du 14 mars 2020 soumettant l'exportation de certains produits à la présentation d'une autorisation d'exportation.
