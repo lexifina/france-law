@@ -2,17 +2,11 @@
 
 LISTE LIMITATIVE DES PRESTATIONS PARTICULIÈRES POUVANT DONNER LIEU AU VERSEMENT D'UNE RÉMUNÉRATION SPÉCIFIQUE COMPLÉMENTAIRE
 
-PRESTATIONS
+PRESTATIONS |
 
-|
+DÉTAILS |
 
-DÉTAILS
-
-|
-
-I. - Prestations relatives aux réunions et visites supplémentaires
-
-|
+I. - Prestations relatives aux réunions et visites supplémentaires |
 
 1° Préparation, convocation et tenue d'assemblées générales supplémentaires et dépassement des plages horaires de référence convenues ;
 
@@ -22,9 +16,7 @@ I. - Prestations relatives aux réunions et visites supplémentaires
 
 |
 
-II. - Prestations relatives au règlement de copropriété et à l'état descriptif de division :
-
-|
+II. - Prestations relatives au règlement de copropriété et à l'état descriptif de division : |
 
 4° Etablissement ou modification du règlement de copropriété à la suite d'une décision du syndicat ;
 
@@ -32,9 +24,7 @@ II. - Prestations relatives au règlement de copropriété et à l'état descrip
 
 |
 
-III. - Prestations de gestion administrative et matérielle relatives aux sinistres
-
-|
+III. - Prestations de gestion administrative et matérielle relatives aux sinistres |
 
 6° Déplacements sur les lieux ;
 
@@ -46,15 +36,11 @@ III. - Prestations de gestion administrative et matérielle relatives aux sinist
 
 |
 
-IV. - Prestations relatives aux travaux et études techniques dont la liste est fixée à l'article 44 du décret du 17 mars 1967 pris pour l'application de la loi du 10 juillet 1965.
+IV. - Prestations relatives aux travaux et études techniques dont la liste est fixée à l'article 44 du décret du 17 mars 1967 pris pour l'application de la loi du 10 juillet 1965. |
 
 |
 
-|
-
-V. - Prestations relatives aux litiges et contentieux (hors recouvrement de créances auprès des copropriétaires)
-
-|
+V. - Prestations relatives aux litiges et contentieux (hors recouvrement de créances auprès des copropriétaires) |
 
 10° Mise en demeure par lettre recommandée accusée de réception ;
 
@@ -64,9 +50,7 @@ V. - Prestations relatives aux litiges et contentieux (hors recouvrement de cré
 
 |
 
-VI. - Autres prestations
-
-|
+VI. - Autres prestations |
 
 13° Diligences spécifiquement liées à la préparation des décisions d'acquisition ou de dispositions de parties communes (hors prestations visées au II) ;
 
@@ -78,10 +62,12 @@ VI. - Autres prestations
 
 17° Constitution et suivi d'un dossier de subvention au profit du syndicat ;
 
-18° Immatriculation initiale du syndicat.
+18° Immatriculation initiale du syndicat ;
+
+19° Opérations de liquidation en cas de disparition de plein droit de la copropriété et de dissolution du syndicat des copropriétaires par réunion de tous les lots entre les mains d'un même copropriétaire, en application du dernier alinéa de l'article 46-1 de la loi du 10 juillet 1965.
 
 |
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 2015-342 du 26 mars 2015, les dispositions du présent décret sont applicables aux contrats de syndic conclus ou renouvelés après le 1er juillet 2015.
+Conformément au IV de l’article 53 du décret n° 2020-834 du 2 juillet 2020, ces dispositions s'appliquent aux contrats de syndic conclus postérieurement au 4 juillet 2020.

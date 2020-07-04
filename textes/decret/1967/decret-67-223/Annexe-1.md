@@ -82,37 +82,57 @@ Le présent contrat est conclu pour une durée de (1).
 
 Il prendra effet le et prendra fin le (2).
 
-Il n'est pas renouvelable par tacite reconduction.
+Il ne peut être conclu un nouveau contrat que par décision expresse de l'assemblée générale.
 
-3. Révocation du syndic
+3. Résiliation du contrat à l'initiative du conseil syndical
 
-Le contrat de syndic peut être révoqué par l'assemblée générale des copropriétaires statuant à la majorité des voix de tous les copropriétaires (art. 25 de la loi du 10 juillet 1965) (3).
+Le contrat de syndic peut être résilié, à l'initiative du conseil syndical, par décision de l'assemblée générale des copropriétaires statuant à la majorité des voix de tous les copropriétaires (art. 25 de la loi du 10 juillet 1965) (3).
 
-Cette révocation doit être fondée sur un motif légitime.
+Cette résiliation du contrat doit être fondée sur une inexécution suffisamment grave reprochée au syndic.
 
-La délibération de l'assemblée générale désignant un nouveau syndic vaut révocation de l'ancien à compter de la prise de fonction du nouveau (art. 18, dernier alinéa, de la loi du10 juillet 1965).
+Le conseil syndical notifie au syndic une demande motivée d'inscription de la question à l'ordre du jour de la prochaine assemblée générale, en précisant la ou les inexécutions qui lui sont reprochées.
 
-4. Démission du syndic
+La résiliation prend effet à la date déterminée par l'assemblée générale et au plus tôt un jour franc après la tenue de celle-ci.
 
-Le syndic pourra mettre fin à ses fonctions à condition d'en avertir le président du conseil syndical, à défaut chaque copropriétaire, au moins trois mois à l'avance par lettre recommandée avec accusé de réception.
+4. Résiliation du contrat à l'initiative du syndic
+
+La résiliation du contrat doit être fondée sur une inexécution suffisamment grave reprochée par le syndic au syndicat des copropriétaires.
+
+Le syndic doit notifier son intention au président du conseil syndical, et à défaut à chaque copropriétaire, en précisant la ou les inexécutions reprochées par le syndic au syndicat des copropriétaires.
+
+Il convoque dans un délai qui ne peut être inférieur à deux mois à compter de cette notification une assemblée générale, en inscrivant à l'ordre du jour la question de la désignation d'un nouveau syndic.
+
+La résiliation prend effet au plus tôt un jour franc après la tenue de l'assemblée générale.
 
 5. Nouvelle désignation du syndic
 
-A la fin du présent contrat, l'assemblée générale des copropriétaires procède à la désignation du syndic de la copropriété. Un nouveau contrat, soumis à l'approbation de l'assemblée générale, est conclu avec le syndic renouvelé dans ses fonctions ou avec le nouveau syndic.
+A la fin du présent contrat, l'assemblée générale des copropriétaires procède à la désignation du syndic de la copropriété. Un nouveau contrat, soumis à l'approbation de l'assemblée générale, est conclu avec le syndic désigné à nouveau ou avec le nouveau syndic.
+
+Lorsqu'il est envisagé de désigner un nouveau syndic, il peut être mis fin au présent contrat, de manière anticipée et sans indemnité, dès lors que la question du changement de syndic et de la date de fin du présent contrat sont inscrites à l'ordre du jour d'une assemblée générale convoquée dans les trois mois précédant le terme du présent contrat.
+
+Le syndic qui ne souhaite pas être désigné à nouveau doit en informer le président du conseil syndical au moins trois mois avant la tenue de cette assemblée générale.
 
 L'assemblée générale appelée à se prononcer sur cette désignation est précédée d'une mise en concurrence de plusieurs projets de contrat, qui s'effectue dans les conditions précisées à l'article 21 de la loi du 10 juillet 1965.
 
-6. Fiche synthétique de copropriété (4)
+6. Fiche synthétique de copropriété et transmission de pièces au conseil syndical (4)
+
+6.1. La fiche synthétique de la copropriété ;
 
 En application de l'article 8-2 de la loi du 10 juillet 1965, le syndic établit une fiche synthétique de la copropriété regroupant les données financières et techniques essentielles relatives à la copropriété et à son bâti, dont le contenu est défini par décret. Le syndic met à jour la fiche synthétique de la copropriété chaque année.
 
-Le syndic met cette fiche à disposition des copropriétaires. Il la communique dans les quinze jours au copropriétaire qui en fait la demande par (préciser : lettre recommandée avec accusé de réception ou autres modalités). A défaut, il est tenu à la pénalité financière suivante : € par jour de retard.
+Le syndic met cette fiche à disposition du copropriétaire qui en fait la demande dans le délai d'un mois. A défaut, il est tenu au paiement de la pénalité financière suivante : (montant fixé par décret) € par jour de retard.
 
-Cette pénalité est déduite de la rémunération du syndic lors du dernier appel de charges de l'exercice.
-
-Le défaut de réalisation de la fiche synthétique est un motif de révocation du syndic.
+Cette pénalité est déduite de la rémunération forfaitaire annuelle du syndic lors de l'établissement des comptes à clôturer et à soumettre à l'assemblée générale.
 
 Ces dispositions ne sont pas applicables aux syndics administrant des immeubles à destination totale autre que d'habitation.
+
+6.2. La transmission de pièces au conseil syndical
+
+En application du septième alinéa de l'article 21 de la loi 10 juillet 1965, le conseil syndical peut prendre connaissance et copie, à sa demande, après en avoir donné avis au syndic, de toutes pièces ou documents, correspondances ou registres se rapportant à la gestion du syndic et, d'une manière générale, à l'administration de la copropriété.
+
+En l'absence de transmission desdites pièces, au-delà du délai d'un mois à compter de la demande du conseil syndical, le syndic est tenu au paiement de la pénalité suivante : (montant fixé par décret) € par jour de retard.
+
+Cette pénalité est déduite de la rémunération forfaitaire annuelle du syndic lors de l'établissement des comptes définitifs à clôturer et à soumettre à l'assemblée générale.
 
 7. Prestations et modalités de rémunération du syndic professionnel
 
@@ -180,7 +200,7 @@ Ne donnent lieu à aucune rémunération supplémentaire et sont comprises dans 
 
 7.1.2. Précisions concernant la tenue de l'assemblée générale annuelle
 
-Les parties conviennent que l'assemblée générale annuelle sera tenue pour une durée de heures à l'intérieur d'une plage horaire allant de ... heures à ... heures, par :
+Les parties conviennent que l'assemblée générale annuelle sera tenue pour une durée de ... heures à l'intérieur d'une plage horaire allant de ... heures à ... heures, par :
 
 -le syndic ;
 
@@ -194,15 +214,13 @@ Le forfait convenu entre les parties en vertu du présent contrat pourra express
 
 (Si les parties conviennent de retenir une prestation, elles remplissent les mentions ci-dessous afin de préciser ses modalités d'exécution. Elles rayent les mentions inutiles.)
 
--la préparation, convocation et tenue de assemblée (s) générale (s), autres que l'assemblée générale annuelle de ... heures, à l'intérieur d'une plage horaire allant de ... heures à ... heures ;
+-la préparation, convocation et tenue de ... assemblée (s) générale (s), autres que l'assemblée générale annuelle de ... heures, à l'intérieur d'une plage horaire allant de ... heures à ... heures ;
 
--l'organisation de ... réunion (s) avec le conseil syndical d'une durée de heures.
+-l'organisation de ... réunion (s) avec le conseil syndical d'une durée de ... heures , à l'intérieur d'une plage horaire allant de … heures à … heures.
 
 7.1.4. Prestations qui peuvent être exclues des missions du syndic sur décision de l'assemblée générale des copropriétaires
 
 En application de l'article 18 de la loi du 10 juillet 1965, l'assemblée générale des copropriétaires peut, par décision spéciale prise aux conditions précisées par cet article :
-
--dispenser le syndic d'ouvrir un compte bancaire ou postal séparé au nom du syndicat (5) ;
 
 -dispenser le syndic d'offrir un accès en ligne sécurisé aux documents dématérialisés relatifs à la gestion de l'immeuble ou des lots gérés (6) ;
 
@@ -244,11 +262,11 @@ Le montant de l'imputation prévue au titre des deux derniers alinéas est calcu
 
 7.2.1. Modalités de rémunération des prestations particulières
 
-La rémunération due au syndic professionnel au titre des prestations particulières est calculée :
+La rémunération due au syndic professionnel au titre des prestations particulières, à l'exception de celles citées au 7.2.5, est calculée pour chacune d'elles :
 
--soit en application du coût horaire ci-dessous, appliqué au prorata du temps passé : ... €/ heure hors taxes, soit ... €/ heure toutes taxes comprises ;
+-soit en application du seul coût horaire ci-dessous, appliqué au prorata du temps passé : ... €/ heure hors taxes, soit ... €/ heure toutes taxes comprises ;
 
--soit en application du tarif convenu par les parties pour chaque prestation particulière.
+- soit en application du tarif forfaitaire total convenu par les parties, exprimé hors taxes et toutes taxes comprises.
 
 La rémunération due au titre des prestations particulières s'entend hors frais d'envoi. L'envoi des documents afférents aux prestations particulières donne lieu à remboursement au syndic des frais d'affranchissement ou d'acheminement engagés.
 
@@ -264,7 +282,7 @@ convenues
 
 La préparation, la convocation et la tenue d'une assemblée générale supplémentaire de ... heures, à l'intérieur d'une plage horaire allant de ... heures à ... heures |
 
-Le cas échéant, majoration spécifique pour dépassement d'horaires convenus : ... % |
+Le cas échéant, une majoration spécifique unique pour dépassement d'horaires convenus : ... % |
 
 L'organisation d'une réunion supplémentaire avec le conseil syndical d'une durée de ... heures, par rapport à celle (s) incluse (s) dans le forfait au titre du 7.1.3 |
 
@@ -344,9 +362,7 @@ Ces honoraires concernent :
 
 Les honoraires complémentaires éventuels sont votés lors de la même assemblée générale que les travaux concernés et aux mêmes règles de majorité (article 18-1 A de la loi du 10 juillet 1965).
 
-Le présent contrat ne peut se lire comme fixant un barème relatif à ces honoraires spécifiques, même à titre indicatif.
-
-Une telle rémunération fixée dans le projet de résolution soumis au vote de l'assemblée générale doit être exprimée en pourcentage du montant hors taxes des travaux, à un taux dégressif selon l'importance des travaux préalablement à leur exécution.
+Une telle rémunération fixée dans le projet de résolution soumis au vote de l'assemblée générale doit être exprimée hors taxes et toutes taxes comprises, en application du pourcentage du montant hors taxes des travaux, à un taux dégressif selon l'importance des travaux préalablement à leur exécution.
 
 Le choix du prestataire par l'assemblée générale est précédé d'une mise en concurrence dans les conditions prévues au deuxième alinéa de l'article 21 de la loi du 10 juillet 1965 et à l'article 19-2 du décret du 17 mars 1967.
 
@@ -428,7 +444,7 @@ PRESTATIONS |
 
 DÉTAILS |
 
-TARIFICATION PRATIQUÉE |
+TARIFICATION PRATIQUÉE exprimée HT et TTC |
 
 9.1. Frais de recouvrement
 
@@ -460,7 +476,7 @@ Suivi du dossier transmis à l'avocat (uniquement en cas de diligences exception
 
 Etablissement de l'état daté ;
 
-(Nota.-Le montant maximum applicable aux honoraires d'établissement de l'état daté, fixé en application du décret prévu à l'article 10-1 b de la loi du 10 juillet 1965 s'élève à la somme de).
+(Nota. - Le montant maximum applicable aux honoraires et frais perçus par le syndic pour l'établissement de l'état daté, fixé en application du décret prévu à l'article 10-1 b de la loi du 10 juillet 1965, s'élève à la somme de 380 € TTC)
 
 Opposition sur mutation (article 20 I de la loi du 10 juillet 1965).
 
@@ -479,6 +495,12 @@ Délivrance des informations nécessaires à la réalisation d'un diagnostic de 
 Délivrance au copropriétaire d'une copie certifiée conforme ou d'un extrait de procès-verbal d'assemblée générale ainsi que des copies et annexes (hors notification effectuée en application de l'article 18 du décret du 17 mars 1967).
 
 |
+
+|
+
+9.4. Préparation, convocation et tenue d'une assemblée générale à la demande d'un ou plusieurs copropriétaires, pour des questions concernant leurs droits ou obligations (art. 17-1 AA de la loi du 10 juillet 1965) |
+
+Etablissement de l'ordre du jour ; élaboration et envoi de la convocation avec l'ordre du jour, des documents à joindre à la convocation et des projets de résolutions ; présence du syndic ou de son représentant à l'assemblée générale ; établissement de la feuille de présence ; émargement, vérification des voix et des pouvoirs ; rédaction et tenue du registre des procès-verbaux ; envoi et notification du procès-verbal comportant les décisions prises en assemblée générale des copropriétaires (opposant ou défaillant) et, le cas échéant, information des occupants de chaque immeuble de la copropriété des décisions prises par l'assemblée générale par affichage d'un procès-verbal abrégé dans les parties communes (article 44 de la loi n° 86-1290 du 23 décembre 1986). |
 
 |
 
@@ -516,7 +538,7 @@ Le syndicat Le syndic
 
 - 31 décembre 2018, pour les autres syndicats de copropriétaires.
 
-(5) En application de l'article 18 de la loi du 10 juillet 1965, cette possibilité de dispense est applicable uniquement lorsque le syndicat comporte au plus quinze lots à usage de logements, de bureau ou de commerce et que le syndic est soit un professionnel soumis à la loi du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce, soit un syndic dont l'activité est soumise à une réglementation professionnelle organisant le maniement de fonds du syndicat.
+(5) (supprimé)
 
 (6) En application de l'article 18 de la loi du 10 juillet 1965, cette possibilité de dispense est applicable uniquement au syndic professionnel.
 
@@ -584,7 +606,7 @@ c) Présentation des comptes en conformité avec la réglementation en vigueur.
 
 III-8° Comptes bancaires. |
 
-a) Ouverture d'un compte bancaire séparé ou, le cas échéant, d'un sous-compte individualisé en cas de dispense (résultant d'une décision de l'assemblée générale des copropriétaires statuant dans les conditions prévues au II de l'article 18 de la loi du 10 juillet 1965) ;
+a) Ouverture d'un compte bancaire séparé ;
 
 b) Ouverture d'un compte bancaire séparé destiné à recevoir les cotisations prévues à l'article 14-2 de la loi du 10 juillet 1965.
 
@@ -620,7 +642,7 @@ d) Attestation de TVA aux fournisseurs et prestataires.
 
 III-11° Remise au syndic successeur. |
 
-a) Remise de l'état financier, de la totalité des fonds, de l'état des comptes des copropriétaires et des comptes du syndicat. |
+a) Remise de l'état financier, des références des comptes bancaires du syndicat, des coordonnées de la banque, de l'état des comptes des copropriétaires et des comptes du syndicat. |
 
 IV. - Administration et gestion de la copropriété en conformité avec le règlement de copropriété |
 
@@ -710,4 +732,4 @@ VI-28° contrôle d'activité du personnel du syndicat.
 
 NOTA :
 
-Conformément à l'article 1er de la décision du Conseil d'Etat nos 390465-390491 du 5 octobre 2016 : Au point 9.2 du contrat type, les mots : " Délivrance du certificat prévu à l'article 20 II de la loi du 10 juillet 1965 " sont annulés en tant qu'ils figurent à l'article du contrat type relatif aux frais et honoraires imputables aux seuls copropriétaires concernés. Le même contrat type est annulé en tant qu'il omet de comporter la mention des frais afférents à la tenue d'un compte bancaire séparé.
+Se reporter aux conditions d'application prévues aux II, III et IV de l'article 53 du décret n° 2020-834 du 2 juillet 2020.
