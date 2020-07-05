@@ -510,6 +510,18 @@ Ministre chargé de l'aviation civile |
 
 |
 
+Examen au cas par cas des projets |
+
+1 |
+
+Décisions relatives à l'examen au cas par cas des incidences sur l'environnement et la vie humaine des projets |
+
+Code de l'environnement 1° et 2° du I de l'art. R. 122-3 |
+
+Ministre chargé de l'environnement |
+
+|
+
 Infrastructures, transports, mer |
 
 1 |
