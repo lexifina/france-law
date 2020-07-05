@@ -18,7 +18,7 @@
 
 7. Apium graveolens L.
 
-7.1. Céleri branche.
+7.1. Céleri.
 
 7.2. Céleri-rave.
 
@@ -26,33 +26,35 @@
 
 9. Beta vulgaris L.
 
-9.1. Betterave potagère, betterave rouge.
+9.1. Betterave potagère (betterave rouge, y compris Cheltenham beet).
 
-9.2. Poirée.
+9.2. Bette (poirée ou carde).
 
 10. Brassica oleracea L.
 
-10.1. Chou frisé.
+10.1 Chou frisé.
 
-10.2. Chou-fleur.
+10.2 Chou-fleur.
 
-10.3. Brocoli.
+10.3 Chou pommé (chou rouge et chou blanc).
 
-10.4. Chou de Bruxelles.
+10.4 Choux de Bruxelles.
 
-10.5. Chou de Milan.
+10.5 Chou-rave.
 
-10.6. Chou cabus.
+10.6 Chou de Milan.
 
-10.7. Chou rouge.
+10.7 Chou brocoli (type calabrais et à jets ).
 
-10.8. Chou-rave.
+10.8 Chou palmier.
+
+10.9 Chou tronchuda (chou portugais).
 
 11. Brassica rapa L.
 
-11.1. Chou de Chine.
+11.1. Chou chinois.
 
-11.2. Navet.
+11.2. Navet-légume.
 
 12. Capsicum annuum L. - Piment, poivron.
 
@@ -64,11 +66,11 @@
 
 14. Cichorium intybus L.
 
-14.1. Endive, chicorée witloof.
+14.1. Chicorée witloof.
 
 14.2. Chicorée à larges feuilles, chicorée italienne.
 
-15. Citrullus lanatus (Thunb.) Matsum et Nakai. - Pastèque, melon d'eau.
+15. Citrullus lanatus (Thunb.) Matsum et Nakai. - Pastèque.
 
 16. Cucumis melo L. - Melon.
 
@@ -78,9 +80,9 @@
 
 17.2. Cornichon.
 
-18. Cucurbita maxima Duchesne - Potiron, citrouille.
+18. Cucurbita maxima Duchesne - Potiron.
 
-19. Cucurbita pepo L. - Courgette, pâtisson.
+19. Cucurbita pepo L.-Courge, y compris la citrouille mature et le pâtisson, ou courgette, y compris le pâtisson immature.
 
 20. Cynara cardunculus L.
 
@@ -90,13 +92,17 @@
 
 21. Daucus carota L. - Carotte, carotte fourragère.
 
-22. Foeniculum vulgare Mill. - Fenouil.
+22. Foeniculum vulgare Mill. - Fenouil groupe Azoricum.
 
 23. Lactuca sativa L. - Laitue.
 
 24. Solanum lycopersicum L. - Tomate
 
-25. Petroselinum crispum (Mill.) Nyman ex A. W. Hill - Persil.
+25. Petroselinum crispum (Mill.) Nyman ex A. W. Hill.
+
+25.1 Persil à feuilles.
+
+25.2 Persil tubéreux.
 
 26. Phaseolus coccineus L. - Haricot d'Espagne.
 
@@ -110,19 +116,19 @@
 
 28.1. Pois ridé.
 
-28.2. Pois lisse, pois rond.
+28.2. Pois rond.
 
 28.3. Pois mange-tout.
 
 29. Raphanus sativus L.
 
-29.1. Radis de tous les mois.
+29.1. Radis.
 
-29.2. Radis rave.
+29.2. Radis noir.
 
 30. Rheum rhabarbarum L. - Rhubarbe.
 
-31. Scorzonera hispanica L. - Scorsonère.
+31. Scorzonera hispanica L. - Scorsonère ou salsifi noir.
 
 32. Solanum melongena L. - Aubergine.
 
