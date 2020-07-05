@@ -2,7 +2,7 @@
 
 ARRÊTÉ DÉFINISSANT LES MODALITÉS D'APPLICATION DU CHAPITRE V DU TITRE V DU LIVRE V DU CODE DE L'ENVIRONNEMENT ET PORTANT RÈGLEMENT DE LA SÉCURITÉ DES CANALISATIONS DE TRANSPORT DE GAZ NATUREL OU ASSIMILÉ, D'HYDROCARBURES ET DE PRODUITS CHIMIQUES
 
-Données à fournir par les transporteurs aux DREAL pour la mise en place des servitudes d'utilité publique (SUP) des canalisations de transport prévues à l'article R. 555-30 b du code de l'environnement
+Données à fournir par les transporteurs au service chargé du contrôle aux DREAL pour la mise en place des servitudes d'utilité publique (SUP) des canalisations de transport prévues au b de l'article R. 555-30 du code de l'environnement. La mise à jour de cette annexe est approuvée par décision du ministre chargé de la sécurité du transport par canalisation.
 
 A. - Première mise en place des servitudes
 
@@ -116,11 +116,7 @@ c. Attributs attachés à chaque installation annexe :
 
 B. - Mise à jour des servitudes existantes
 
-Des mises à jour des SUP existantes sont nécessaires dès lors qu'une évolution d'un transporteur ou de ses ouvrages met en cause des informations issues du SIG ou de l'extrait SIG du transporteur concerné et figurant dans les arrêtés préfectoraux de SUP en vigueur ou dans leurs annexes.
-
-Les données mises à jour sont adressées annuellement par les transporteurs aux DREAL, pour autant que des modifications soient effectivement intervenues dans l'année.
-
-Précisément, une mise à jour des SUP est nécessaire dans les cas suivants :
+Les mises à jour des SUP sont effectuées dans les conditions prévues au b de l'article R. 555-30 du code de l'environnement.
 
 1. Modifications entraînant changement, ajout ou suppression d'un ou plusieurs générateurs de SUP :
 
