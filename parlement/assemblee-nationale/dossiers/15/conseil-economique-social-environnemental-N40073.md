@@ -1,0 +1,78 @@
+# Conseil économique, social et environnemental
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N40073
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/Conseil_economique_social_environnemental
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-712.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-07-07 : 1er dépôt d'une initiative. (PRJLANR5L15B3184)
+  - 2020-07-07 : Etude d'impact (ETDIANR5L15B3184)
+  - 2020-07-07 : Avis du Conseil d'Etat (AVCEANR5L15B3184)
+  - 2020-07-07 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-07 : Renvoi en commission au fond
+      - 2020-07-28 : Nomination de rapporteur
+      - 2020-07-22 : Réunion de commission
+      - 2020-07-28 : Réunion de commission
+      - 2020-09-08 : Réunion de commission
+      - 2020-09-09 : Réunion de commission
+      - 2020-09-16 : Réunion de commission
+      - 2020-09-09 : Dépôt de rapport (RAPPANR5L15B3301, PRJLANR5L15BTC3301)
+  - Discussion en séance publique
+    - 2020-09-16 : Discussion en séance publique
+    - 2020-09-16 : Discussion en séance publique
+    - 2020-09-17 : Discussion en séance publique
+    - 2020-09-17 : Discussion en séance publique
+    - 2020-09-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-09-18 : Dépôt d'une initiative en navette (PRJLSNR5S339B0712)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-09-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-07 : Dépôt de rapport (RAPPSNR5S359B0013, PRJLSNR5S359BTC0014)
+  - Discussion en séance publique
+    - 2020-10-15 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-30 : Nomination de rapporteur
+    - 2020-10-30 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0097, PRJLSNR5S359BTC0098)
+    - 2020-10-30 : Dépôt du rapport d'une CMP (RAPPANR5L15B3497)
+  - 2020-10-30 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-10-15 : Dépôt d'une initiative en navette (PRJLANR5L15B3435)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-15 : Renvoi en commission au fond
+      - 2020-11-10 : Réunion de commission
+      - 2020-11-10 : Dépôt de rapport (RAPPANR5L15B3540, PRJLANR5L15BTC3540)
+  - Discussion en séance publique
+    - 2020-11-16 : Discussion en séance publique
+    - 2020-11-16 : Décision
+- Nouvelle Lecture
+  - 2020-11-17 : Dépôt d'une initiative en navette (PRJLSNR5S359B0129)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-17 : Renvoi en commission au fond
+      - 2020-12-09 : Dépôt de rapport (RAPPSNR5S359B0202, PRJLSNR5S359BTC0203)
+  - Discussion en séance publique
+    - 2020-12-14 : Décision
+- Lecture définitive
+  - 2020-12-14 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0499)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-14 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-12-15 : Discussion en séance publique
+    - 2020-12-15 : Décision
+- Conseil constitutionnel
+  - 2020-12-16 : Saisine du conseil constitutionnel
+  - 2021-01-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-01-15 : Promulgation d'une loi
