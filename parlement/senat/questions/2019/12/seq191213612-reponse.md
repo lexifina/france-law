@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213612
+
+- Question : [SEQ191213612](seq191213612.md) — Redoublement des lycéens échouant au baccalauréat en juin 2020
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2020-07-09, page 3181*
+
+L'arrêté du 29 avril 2019, paru au JO du 18 juillet 2019, relatif aux dispositions transitoires liées à la réforme du lycée prévoit des mesures transitoires pour les élèves qui échoueraient à l'examen avant la session 2021 du nouveau baccalauréat. Ce texte établit notamment des correspondances entre les enseignements des anciennes séries générales et les spécialités de la voie générale issues de la réforme en cas de redoublement de l'élève au cours de l'année scolaire 2020-2021. La même démarche s'applique aux spécialités des séries de la voie technologique. Des conservations de notes obtenues à la session 2020 sont donc possibles, notamment en ce qui concerne l'épreuve de français (écrite et orale), l'épreuve de philosophie ainsi que l'épreuve d'histoire-géographie et les épreuves de langues vivantes A et B. Dans ces trois derniers cas, la note est conservée et l'élève est dispensé, s'il le souhaite, des épreuves communes de contrôle continu dans ces disciplines. Ces dispositions visent à garantir que les élèves redoublants ne soient en aucun cas pénalisés. S'agissant de leur parcours, il convient de rappeler que c'est l'élève qui décide ou non de conserver éventuellement ses notes de l'année précédente dans les conditions décrites précédemment et d'ajuster éventuellement sa formation tant aux conditions nouvelles de l'examen que dans la perspective d'études supérieures. En tout état de cause, le suivi d'une spécialité particulière en classe de terminale ne pourra pas être considéré comme une condition exclusive de l'accès dans une formation de l'enseignement supérieur.
