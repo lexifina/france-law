@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213575
+
+- Question : [SEQ191213575](seq191213575.md) — Remise en état d'un bâtiment incendié
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-07-09, page 3169*
+
+Si un bâtiment a été partiellement détruit par un incendie et que le propriétaire non assuré ne peut le remettre en état, le maire dispose de plusieurs moyens d'action pour éviter le maintien du bâtiment concerné. Si l'incendie a trouvé son origine dans le bâtiment lui-même, le maire de la commune peut prescrire la démolition du bâtiment en question en application des articles L. 511-1 et suivants du code de la construction et de l'habitation en cas de risque d'effondrement, afin de garantir la sécurité publique. Il prend alors un arrêté de péril, qui est notifié au propriétaire et qui le met en demeure de réparer ou de démolir l'immeuble menaçant ruine. À défaut, la démolition d'office peut être prescrite dans les conditions prévues par ce code. L'article L. 511-3 de ce code prévoit une procédure accélérée en cas de péril imminent. Par ailleurs, dans le cas où l'incendie est issu d'une cause extérieure au bâtiment et où celui-ci engendrerait un danger grave ou imminent, l'article L. 2212-4 du code général des collectivités territoriales permet au maire, dans le cadre de son pouvoir de police générale, de prescrire « l'exécution des mesures de sûreté exigées par les circonstances » et lui impose d'en informer d'urgence le préfet (CE, 10 oct. 2005, n° 259205). Enfin, dans le cas où il serait constaté que le bâtiment en question n'est manifestement plus entretenu, le maire peut toujours engager une procédure de déclaration de la parcelle concernée en état d'abandon manifeste, prévue par les articles L. 2243-1 et suivants du code général des collectivités territoriales, en vue d'une expropriation.
