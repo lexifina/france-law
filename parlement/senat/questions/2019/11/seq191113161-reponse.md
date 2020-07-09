@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113161
+
+- Question : [SEQ191113161](seq191113161.md) — Affichage des indemnités des élus locaux en brut et net
+
+## Réponse
+
+*Collectivités territoriales, JO du 2020-07-09, page 3179*
+
+Les articles 92 et 93 de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique ont créé les articles L. 2123-24-1-1, L. 3123-19-2-1 et L. 4135-19-2 et L. 5211-12-1 au sein du code général des collectivités territoriales (CGCT), pour instaurer des mesures de transparence applicables respectivement aux élus des communes, des départements, des régions et des établissements publics de coopération intercommunale à fiscalité propre. Ces articles précisent que chaque année ces établissements et collectivités territoriales doivent établir un état récapitulant de l'ensemble des indemnités de toutes natures dont bénéficient les élus siégeant dans leur organe délibérant, au titre de tout mandat et de toutes fonctions liées à un mandat local exercées en leur sein ou dans toute autre structure (y compris les syndicats et sociétés locales). Cet état doit être communiqué aux membres de l'organe délibérant, chaque année, avant l'examen du budget. Il est précisé que les montants doivent y être exprimés en euros. Dans la mesure où le législateur n'a pas souhaité imposer une double mention des montants bruts et nets, les collectivités et établissements concernés seront uniquement tenus d'exprimer ces montants bruts, correspondant aux indemnités calculées avant toute retenue fiscale ou sociale. L'indication de montants bruts est une convention en matière de rémunération, dans la mesure où les prélèvements sociaux et fiscaux varient en fonction de la situation personnelle des intéressés. Elle répond pleinement à l'objectif de transparence poursuivi par la loi « engagement et proximité ».
