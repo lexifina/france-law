@@ -1,6 +1,6 @@
 # Article 9 bis
 
-Un conseil de discipline est mis en place dans chaque établissement de l'entreprise nationale DCNS ainsi que dans chacune de ses filiales. Il est compétent à l'égard des ouvriers de l'Etat, chefs d'équipe et techniciens à statut ouvrier mis à la disposition de l'entreprise ou de la filiale.
+Un conseil de discipline est mis en place dans chaque établissement de l'entreprise nationale au sein de l'entreprise mentionnée à l'article 78 de la loi n° 2001-1276 du 28 décembre 2001 modifiée de finances rectificative pour 2001 ainsi que dans chacune de ses filiales. Il est compétent à l'égard des ouvriers de l'Etat, chefs d'équipe et techniciens à statut ouvrier mis à la disposition de l'entreprise ou de la filiale.
 
 Ce conseil est composé comme suit :
 
@@ -12,7 +12,7 @@ Ce conseil est composé comme suit :
 
 Les cadres sont désignés par le président du conseil de discipline.
 
-Les membres représentant le personnel, au nombre de trois titulaires et trois suppléants, sont désignés par les organisations syndicales reconnues les plus représentatives dans l'établissement ou la filiale au vu des suffrages exprimés par les ouvriers mis à la disposition de l'entreprise nationale ou de la filiale, en fonction dans l'établissement ou la filiale, lors des élections aux commissions d'avancement ouvrières organisées au sein de DCNS ou de la filiale concernée.
+Les membres représentant le personnel, au nombre de trois titulaires et trois suppléants, sont désignés par les organisations syndicales reconnues les plus représentatives dans l'établissement ou la filiale au vu des suffrages exprimés par les ouvriers mis à la disposition de l'entreprise nationale ou de la filiale, en fonction dans l'établissement ou la filiale, lors des élections aux commissions d'avancement ouvrières organisées au sein de l'entreprise mentionnée à l'article 78 de la loi n° 2001-1276 du 28 décembre 2001 modifiée de finances rectificative pour 2001 ou de la filiale concernée.
 
 Ce conseil est appelé à donner un avis sur les propositions de sanctions des 2e, 3e et 4e niveaux.
 
