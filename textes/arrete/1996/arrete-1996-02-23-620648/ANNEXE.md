@@ -22,7 +22,17 @@ Régiment de marche du Tchad, héritier du patrimoine du 1er régiment de marche
 
 1er régiment d'artillerie de marine, héritier du patrimoine du 1er régiment d'artillerie coloniale (croix de la Libération par décret du 7 août 1945) ;
 
-3e régiment d'artillerie de marine, héritier du patrimoine du 1/3e régiment d'artillerie coloniale (croix de la Libération par décret du 7 août 1945).
+3e régiment d'artillerie de marine, héritier du patrimoine du 1/3e régiment d'artillerie coloniale (croix de la Libération par décret du 7 août 1945) ;
+
+Centre d'instruction des réserves parachutistes de Romainville ;
+
+Centre parachutiste d'entraînement spécialisé de Saran ;
+
+Centre parachutiste d'instruction spécialisée de Perpignan ;
+
+Centre parachutiste d'entraînement aux opérations maritimes de Roscanvel ;
+
+44e Régiment d'infanterie.
 
 MARINE NATIONALE
 
@@ -30,7 +40,11 @@ Sous-marin Rubis (croix de la Libération par décret du 14 octobre 1941) ;
 
 Corvette Aconit (croix de la Libération par décret du 19 avril 1943) ;
 
-Ecole des fusiliers marins, héritière du patrimoine du 1er régiment de fusiliers marins (croix de la Libération par décret du 12 juin 1945).
+Ecole des fusiliers marins, héritière du patrimoine du 1er régiment de fusiliers marins (croix de la Libération par décret du 12 juin 1945) ;
+
+Porte-avions nucléaire Charles de Gaulle, à titre dérogatoire ;
+
+Bâtiment de soutien à la plongée “ Alizé ” basé à Toulon.
 
 ARMÉE DE L'AIR
 
@@ -40,4 +54,8 @@ Escadron de chasse 1/30 Alsace, héritier du patrimoine du groupe de chasse Alsa
 
 Escadron de chasse 2/5 Ile-de-France, héritier du patrimoine du groupe de chasse Ile-de-France (croix de la Libération par décret du 28 mai 1945) ;
 
-Escadron de chasse 3/33 Lorraine, héritier du patrimoine du groupe de bombardement Lorraine (croix de la Libération par décret du 28 mai 1945).
+Escadron de chasse 3/33 Lorraine, héritier du patrimoine du groupe de bombardement Lorraine (croix de la Libération par décret du 28 mai 1945) ;
+
+Escadron de formation de l'école de l'air, héritier du compagnonnage de l'escadrille française de chasse n° 1 (croix de la Libération par décret du 21 juin 1941) ;
+
+Groupe aérien mixte 56 “ Vaucluse ” basé à Evreux.
