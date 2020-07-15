@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — Marchés publics
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2020-07-15
+- Matière : 1.1 Marchés publics
+- Objet : Marchés publics
+- Transmis à la préfecture : 2020-07-15
+- Votants : 85
+- Pour : 54
+- Contre : 4
+- Abstentions : 27
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-26290.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
