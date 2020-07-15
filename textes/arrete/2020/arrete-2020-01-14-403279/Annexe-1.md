@@ -176,9 +176,9 @@ Isolation des murs en façade ou pignon, mentionnée au 10 de l'annexe 1 : |
 
 Isolation des murs par l'extérieur |
 
-100 €/ m2 |
-
 75 €/ m2 |
+
+60 €/ m2 |
 
 150 €/ m2 |
 
@@ -349,3 +349,7 @@ Equipements ou matériaux de protection des parois vitrées ou opaques contre le
 20*q €/ m2 |
 
 200*q €/ m2 |
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 13 juillet 2020, ces dispositions s'appliquent aux demandes déposées à compter du 15 juillet 2020.
