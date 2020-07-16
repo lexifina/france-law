@@ -1,0 +1,78 @@
+# Restitution de biens culturels au Bénin et au Sénégal
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40129
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/restitution_biens_culturels_Benin_Senegal
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-015.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-07-16 : 1er dépôt d'une initiative. (PRJLANR5L15B3221)
+  - 2020-07-16 : Etude d'impact (ETDIANR5L15B3221)
+  - 2020-07-16 : Avis du Conseil d'Etat (AVCEANR5L15B3221)
+  - 2020-07-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-16 : Renvoi en commission au fond
+      - 2020-07-29 : Réunion de commission
+      - 2020-09-08 : Réunion de commission
+      - 2020-09-30 : Réunion de commission
+      - 2020-10-06 : Réunion de commission
+      - 2020-09-30 : Dépôt de rapport (RAPPANR5L15B3387, PRJLANR5L15BTC3387)
+    - Travaux d'une commission saisie pour avis
+      - 2020-09-15 : Saisine pour avis d'une commission
+      - 2020-09-16 : Nomination de rapporteur
+      - 2020-09-23 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-10-06 : Discussion en séance publique
+    - 2020-10-06 : Discussion en séance publique
+    - 2020-10-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-10-07 : Dépôt d'une initiative en navette (PRJLSNR5S359B0015)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-07 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-28 : Dépôt de rapport (RAPPSNR5S359B0091, PRJLSNR5S359BTC0092)
+  - Discussion en séance publique
+    - 2020-11-04 : Discussion en séance publique
+    - 2020-11-04 : Décision
+- Commission Mixte Paritaire
+  - 2020-11-05 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-11-19 : Nomination de rapporteur
+    - 2020-11-19 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0147, PRJLSNR5S359BTC0148)
+    - 2020-11-19 : Dépôt du rapport d'une CMP (RAPPANR5L15B3586)
+  - 2020-11-19 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-11-05 : Dépôt d'une initiative en navette (PRJLANR5L15B3526)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-05 : Renvoi en commission au fond
+      - 2020-12-02 : Réunion de commission
+      - 2020-12-07 : Réunion de commission
+      - 2020-12-02 : Dépôt de rapport (RAPPANR5L15B3631, PRJLANR5L15BTC3631)
+  - Discussion en séance publique
+    - 2020-12-07 : Discussion en séance publique
+    - 2020-12-07 : Décision
+- Nouvelle Lecture
+  - 2020-12-08 : Dépôt d'une initiative en navette (PRJLSNR5S359B0196)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-08 : Renvoi en commission au fond
+      - 2020-12-09 : Dépôt de rapport (RAPPSNR5S359B0204, PRJLSNR5S359BTC0205)
+  - Discussion en séance publique
+    - 2020-12-15 : Discussion en séance publique
+    - 2020-12-15 : Décision
+- Lecture définitive
+  - 2020-12-16 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0526)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-16 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-12-17 : Discussion en séance publique
+    - 2020-12-17 : Décision
+- Promulgation de la loi
+  - 2020-12-24 : Promulgation d'une loi
