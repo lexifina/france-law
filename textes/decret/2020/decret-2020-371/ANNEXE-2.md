@@ -74,7 +74,7 @@ Distribution de films cinématographiques
 
 Editeurs de livres
 
-Prestation/ location de chapiteaux, tentes, structures, sonorisation, photographie, lumière et pyrotechnie
+Prestation/ location de chapiteaux, tentes, structures, sonorisation, lumière et pyrotechnie
 
 Services auxiliaires des transports aériens
 

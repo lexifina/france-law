@@ -44,6 +44,8 @@ Activités de soutien au spectacle vivant
 
 Création artistique relevant des arts plastiques
 
+Artistes auteurs
+
 Gestion de salles de spectacles et production de spectacles
 
 Gestion des musées
@@ -78,7 +80,7 @@ Transport de passagers sur les fleuves, les canaux, les lacs, location de bateau
 
 Cars et bus touristiques
 
-Balades touristiques en mer
+Transport maritime et côtier de passagers
 
 Production de films et de programmes pour la télévision
 
