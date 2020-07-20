@@ -292,15 +292,21 @@ VASP |
 
 / |
 
-Navette urbaine |
+Navette urbaine
 
-NAVURB |
+Navette urbaine avec usage possible en remorque urbaine |
+
+NAVURB
+
+NAVREMURB
+
+|
 
 Remorque spécialisée. |
 
 RESP |
 
-02 |
+02 ou 03 |
 
 Remorque urbaine |
 

@@ -164,6 +164,8 @@ V max (remorque) :... km/ h
 
 Ensemble + 5 essieux : 1 tonne
 
+Train urbain avec maxi … remorques (type à préciser)
+
 (1) Combinée avec la mention Autre J3 poss : ... kg .
 
 (2) Direction régionale de l'environnement, de l'aménagement et du logement, direction de l'environnement, de l'aménagement et du logement de la région ou direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France

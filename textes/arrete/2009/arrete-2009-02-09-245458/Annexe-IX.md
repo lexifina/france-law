@@ -26,7 +26,7 @@ La présence à bord du véhicule du titulaire du certificat d'immatriculation o
 
 2. Conditions de circulation des véhicules de collection :
 
-2.1. L'utilisation de ces véhicules se fait exclusivement à usage non professionnel sans restriction géographique de circulation.
+2.1. L'utilisation de ces véhicules se fait exclusivement à usage non professionnel à l'exclusion des voitures de transport avec chauffeur, sans restriction géographique de circulation.
 
 2.2. Les véhicules de transport en commun de personnes sont dispensés de l'attestation d'aménagement prévue à l'article 85 de l'arrêté du 2 juillet 1982 modifié relatif au transport en commun de personnes.
 
