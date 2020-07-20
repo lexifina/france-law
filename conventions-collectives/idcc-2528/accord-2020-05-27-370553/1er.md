@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord a pour objet de favoriser l'effectivité des entretiens professionnels en permettant une certaine souplesse de mise en œuvre en entreprise, afin de s'adapter aux réalités du terrain, en se saisissant d'une part de l'opportunité laissée par la loi n° 2018-771 du 5 septembre 2018 sur la liberté de choisir son avenir professionnel de modifier notamment la périodicité des entretiens professionnels et le contenu de l'état des lieux récapitulatif qui a lieu tous les 6 ans et d'autre part par l'ordonnance n° 2019-861 du 21 août 2019 qui a introduit une période transitoire jusqu'au 31 décembre 2020.
