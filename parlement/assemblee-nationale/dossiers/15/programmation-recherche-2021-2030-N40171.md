@@ -1,0 +1,74 @@
+# Programmation de la recherche pour les années 2021 à 2027
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40171
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_recherche_2021_2030
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl19-722.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-07-22 : 1er dépôt d'une initiative. (PRJLANR5L15B3234)
+  - 2020-07-22 : Etude d'impact (ETDIANR5L15B3234)
+  - 2020-07-22 : Avis du Conseil d'Etat (AVCEANR5L15B3234)
+  - 2020-07-22 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-07-22 : Renvoi en commission au fond
+      - 2020-07-29 : Réunion de commission
+      - 2020-09-08 : Réunion de commission
+      - 2020-09-09 : Réunion de commission
+      - 2020-09-14 : Réunion de commission
+      - 2020-09-14 : Réunion de commission
+      - 2020-09-15 : Réunion de commission
+      - 2020-09-15 : Réunion de commission
+      - 2020-09-21 : Réunion de commission
+      - 2020-09-16 : Dépôt de rapport (RAPPANR5L15B3339, PRJLANR5L15BTC3339)
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-31 : Saisine pour avis d'une commission
+      - 2020-09-09 : Nomination de rapporteur
+      - 2020-09-09 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2020-07-31 : Saisine pour avis d'une commission
+      - 2020-07-21 : Nomination de rapporteur
+      - 2020-07-21 : Réunion de commission
+      - 2020-09-14 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-09-21 : Discussion en séance publique
+    - 2020-09-21 : Discussion en séance publique
+    - 2020-09-22 : Discussion en séance publique
+    - 2020-09-22 : Discussion en séance publique
+    - 2020-09-23 : Discussion en séance publique
+    - 2020-09-23 : Discussion en séance publique
+    - 2020-09-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-09-24 : Dépôt d'une initiative en navette (PRJLSNR5S339B0722)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-09-24 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-14 : Dépôt de rapport (RAPPSNR5S359B0051, PRJLSNR5S359BTC0052)
+  - Discussion en séance publique
+    - 2020-10-30 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-30 : Dépôt d'un projet de loi (PRJLANR5L15B3500)
+  - 2020-10-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-11-09 : Nomination de rapporteur
+    - 2020-11-09 : Dépôt du rapport d'une CMP (RAPPANR5L15B3533, PRJLANR5L15BTC3533)
+    - 2020-11-09 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0116, PRJLSNR5S359BTC0117)
+  - Discussion en séance publique
+    - 2020-11-17 : Discussion en séance publique
+    - 2020-11-17 : Discussion en séance publique
+    - 2020-11-17 : Décision
+  - Discussion en séance publique
+    - 2020-11-20 : Discussion en séance publique
+    - 2020-11-20 : Décision
+  - 2020-11-09 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-11-27 : Saisine du conseil constitutionnel
+  - 2020-11-30 : Saisine du conseil constitutionnel
+  - 2020-12-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-12-24 : Promulgation d'une loi
