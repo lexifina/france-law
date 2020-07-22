@@ -1,0 +1,3 @@
+# Article 1er
+
+Compte tenu de l'objet même de l'avenant n° 5 destiné à mettre à jour des stipulations de la convention collective et de l'accord du 28 septembre 2006 relatif au temps choisi et de ce que la convention collective s'applique sans distinction d'effectif, il n'y a pas lieu de prévoir de modalité particulière pour les entreprises de moins de 50 salariés. En conséquence, les dispositions contenues dans l'avenant n° 5 s'appliquent dans les mêmes conditions aux entreprises de moins de 50 salariés sauf pour les dispositions pour lesquelles la loi prévoit qu'elles ne sont pas concernées.
