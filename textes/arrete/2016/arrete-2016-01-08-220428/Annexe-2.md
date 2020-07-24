@@ -2,7 +2,7 @@
 
 Annexe non reproduite.
 
-Conformément à l'article 1 de l'arrêté du 14 décembre 2018 (NOR : ECOT1833289A), l'annexe n° 2 au présent arrêté concernant le référentiel du label est remplacée par l'annexe jointe à l'arrêté précité.
+Conformément à l'article 1 de l'arrêté du 8 juillet 2020 (NOR : ECOT2015752A), l'annexe n° 2 au présent arrêté concernant le référentiel du label est remplacée par l'annexe jointe à l'arrêté précité.
 
 NOTA :
 
