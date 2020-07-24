@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — QUARTIER TAVAN - AVENANT N° 3 A LA CONVENTION D'ETUDES DE PROGRAMMATION URBAINE DU QUARTIER TAVAN
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-07-24
+- Séance : Conseil Municipal 1CA
+- Objet : QUARTIER TAVAN - AVENANT N° 3 A LA CONVENTION D'ETUDES DE PROGRAMMATION URBAINE DU QUARTIER TAVAN
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12254-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
