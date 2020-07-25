@@ -28,7 +28,7 @@ c) En Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-B
 
 a) Pour les bâtiments d'habitation construits à La Réunion à une altitude supérieure à 800 mètres, respectant les exigences de l'article 5 (2°) de l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
-b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 du Ide l'article 18 bis dans sa rédaction en vigueur au 31 décembre 2019 ;
+b) A Saint-Pierre-et-Miquelon, visés aux 1°, 2° et 4° du b du 2 du I de l'article 18 bis dans sa rédaction en vigueur au 31 décembre 2019 ;
 
 3. D'appareils de régulation de chauffage, visés au c du 2 du I de l'article 18 bis dans sa rédaction en vigueur au 31 décembre 2019 ;
 
@@ -41,3 +41,7 @@ b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 du Ide l'a
 Pour l'application du présent article, le terme baie en contact avec l'extérieur s'entend d'une ouverture ménagée dans une paroi extérieure au logement servant à l'éclairage, au passage ou à l'aération.
 
 II. – Les dépenses mentionnées au I doivent être justifiées par une facture détaillée précisant leur nature exacte, leur coût et leur conformité aux critères techniques exigés.
+
+NOTA :
+
+Modification effectuée en conséquence de l'article 1er-I C 2° de l'arrêté du 1er mars 2019.
