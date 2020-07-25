@@ -28,7 +28,7 @@ La location du logement consentie à un organisme public ou privé qui le donne 
 
 La réduction d'impôt n'est pas applicable aux logements dont le droit de propriété est démembré ou aux logements appartenant à une société non soumise à l'impôt sur les sociétés, autre qu'une société civile de placement immobilier, dont le droit de propriété des parts est démembré.
 
-Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la " Fondation du patrimoine ", mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de la construction et de l'habitation.
+Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la " Fondation du patrimoine ", mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt mentionné à l'article D. 331-1 du code de la construction et de l'habitation.
 
 E. – Un contribuable ne peut, pour un même logement, bénéficier à la fois du m du 1° du I de l'article 31, de l'une des réductions d'impôt prévues aux articles 199 undecies A, 199 undecies C et 199 tervicies et de la réduction d'impôt prévue au présent article.
 
@@ -126,6 +126,4 @@ b) 29 % lorsque l'engagement de location mentionné au même I est pris pour une
 
 NOTA :
 
-Conformément au II de l'article 115 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 novovicies, dans sa rédaction résultant du 2° du I du présent article, s'applique aux acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.
-
-Conformément au II de l’article 162 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux acquisitions et aux souscriptions réalisées à compter du 1er janvier 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.

@@ -2,7 +2,7 @@
 
 I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2019, à 17,17 € en zone A bis, 12,75 € dans le reste de la zone A, 10,28 € en zone B 1 et 8,93 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2020, à 17,43 € en zone A bis, 12,95 € dans le reste de la zone A, 10,44 € en zone B 1 et 9,07 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,7 +14,7 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2019, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2020, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE |
 
@@ -40,97 +40,97 @@ Zone C
 
 Personne seule |
 
-38 236 |
+38 465 |
 
-38 236 |
+38 465 |
 
-31 165 |
+31 352 |
 
-28 049 |
+28 217 |
 
-28 049 |
+28 217 |
 
 Couple |
 
-57 146 |
+57 489 |
 
-57 146 |
+57 489 |
 
-41 618 |
+41 868 |
 
-37 456 |
+37 681 |
 
-37 456 |
+37 681 |
 
 Personne seule ou couple ayant une personne à charge |
 
-74 912 |
+75 361 |
 
-68 693 |
+69 105 |
 
-50 049 |
+50 349 |
 
-45 044 |
+45 314 |
 
-45 044 |
+45 314 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-89 439 |
+89 976 |
 
-82 282 |
+82 776 |
 
-60 420 |
+60 783 |
 
-54 379 |
+54 705 |
 
-54 379 |
+54 705 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-106 415 |
+107 053 |
 
-97 407 |
+97 991 |
 
-71 078 |
+71 504 |
 
-63 970 |
+64 354 |
 
-63 970 |
+64 354 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-119 745 |
+120 463 |
 
-109 613 |
+110 271 |
 
-80 103 |
+80 584 |
 
-72 093 |
+72 526 |
 
-72 093 |
+72 526 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 13 341 |
++13 421 |
 
-+ 12 213 |
++12 286 |
 
-+ 8 936 |
++8 990 |
 
-+ 8 041 |
++8 089 |
 
-+ 8 041 |
++8 089 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
 
-II. – Les zones A, A bis, B 1, B 2 et C mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction et de l'habitation.
+II. – Les zones A, A bis, B 1, B 2 et C mentionnées au I sont celles définies à l'article D. 304-1 du code de la construction et de l'habitation.
 
 III. – Pour l'application du second alinéa du III de l'article 199 novovicies du code général des impôts, les plafonds de loyer mentionnés au premier alinéa du 1 du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans le parc privé, peuvent être réduits dans les conditions et selon les modalités suivantes :
 
-1. Les plafonds de loyer réduits sont, par commune ou ensemble de communes appartenant à une même zone, compris entre le niveau du loyer pratiqué pour les logements du parc locatif privé et les plafonds de loyer applicables aux logements financés dans les conditions prévues aux articles R. 331-17 à R. 331-21 du code de la construction et de l'habitation. Le niveau du loyer pratiqué dans le parc locatif privé est apprécié par tous moyens, notamment à partir des informations recueillies dans les observatoires et bases de données disponibles ou figurant dans les programmes locaux de l'habitat prévus aux articles L. 302-1 et L. 302-4-1 du même code.
+1. Les plafonds de loyer réduits sont, par commune ou ensemble de communes appartenant à une même zone, compris entre le niveau du loyer pratiqué pour les logements du parc locatif privé et les plafonds de loyer applicables aux logements financés dans les conditions prévues aux articles D. 331-17 à D. 331-21 du code de la construction et de l'habitation. Le niveau du loyer pratiqué dans le parc locatif privé est apprécié par tous moyens, notamment à partir des informations recueillies dans les observatoires et bases de données disponibles ou figurant dans les programmes locaux de l'habitat prévus aux articles L. 302-1 et L. 302-4-1 du même code.
 
 2. Le représentant de l'Etat dans la région soumet pour avis son projet d'arrêté :
 
@@ -146,4 +146,4 @@ III. – Pour l'application du second alinéa du III de l'article 199 novovicies
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2012-1532 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2012-1532 du 29 décembre 2012 et de l'article 5 II 3° du décret n° 2019-873 du 21 août 2019.

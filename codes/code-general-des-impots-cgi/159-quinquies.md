@@ -5,3 +5,7 @@ I. La distribution par les sociétés immobilières d'investissement régies par
 II. (Disposition périmée).
 
 (1) Annexe II, art. 83 et 84.
+
+NOTA :
+
+Modification effectuée en conséquence de l’article 4-IV-3° du décret n° 2019-873 du 21 août 2019.

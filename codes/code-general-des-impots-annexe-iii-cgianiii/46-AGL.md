@@ -30,7 +30,7 @@ II. – En cas de changement d'exploitant de la résidence au cours de la pério
 
 III. – Les contribuables qui bénéficient de la réduction d'impôt sur le revenu prévue à l'article 199 decies I précité conservent, pour justifier de son bien-fondé et jusqu'à l'expiration du délai au cours duquel l'administration est susceptible d'exercer son droit de reprise :
 
-1° La copie de l'arrêté portant agrément de la résidence hôtelière à vocation sociale, tel que prévu à l'article *R. 631-9 précité ;
+1° La copie de l'arrêté portant agrément de la résidence hôtelière à vocation sociale, tel que prévu à l'article R. 631-9 précité ;
 
 2° La copie de l'arrêté portant agrément délivré à l'exploitant de la résidence hôtelière à vocation sociale, tel que prévu à l'article R. 631-12 précité ;
 
@@ -39,3 +39,7 @@ III. – Les contribuables qui bénéficient de la réduction d'impôt sur le re
 IV. – Pour l'application du VI de l'article 199 decies I précité, le conjoint survivant joint à la déclaration des revenus qu'il souscrit au titre de l'année du décès pour la période postérieure à cet événement une note établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement nu à l'exploitant de la résidence hôtelière à vocation sociale pour la fraction de la période de neuf ans couverte par l'engagement de location initial et restant à courir à la date du décès.
 
 En cas de changement d'exploitant de la résidence, les dispositions du II sont applicables.
+
+NOTA :
+
+Modifications effectuées en conséquence de l'article 4 IV 6° du décret n° 2019-873 du 21 août 2019.

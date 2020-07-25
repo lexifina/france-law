@@ -4,7 +4,7 @@ Le montant du crédit d'impôt prévu à l'article 244 quater U du code généra
 
 1° La somme, actualisée par les facteurs d'actualisation définis aux quatrième et cinquième alinéas du présent I, des différences de mensualités entre deux prêts de 1 euro à mensualités constantes de même durée initiale de remboursement que l'avance : d'une part, d'un prêt consenti au taux d'intérêt de référence i, augmenté d'une prime p, et, d'autre part, d'un prêt sans intérêt ;
 
-2° L'inverse de la moyenne des facteurs d'actualisation à 6,18,30,42 et 54 mois, sans que cette moyenne puisse être supérieure à 1.
+2° L'inverse de la moyenne des facteurs d'actualisation à 6, 18, 30, 42 et 54 mois, sans que cette moyenne puisse être supérieure à 1.
 
 Pour chaque maturité t (en mois), le facteur d'actualisation β t est calculé à partir de la moyenne zt des taux d'intérêt zéro-coupon du marché interbancaire de même maturité observés entre le dixième jour du deuxième mois et le dixième jour du dernier mois du trimestre précédant l'offre de prêt :
 
@@ -24,13 +24,11 @@ Nature de l'avance |
 
 Avance remboursable octroyée à titre individuel
 
-(a de l'article R. 319-1 du code de la construction et de l'habitation) |
+(a de l'article D. 319-1 du code de la construction et de l'habitation) |
 
 Avance remboursable octroyée au titre d'un syndicat
 
-de copropriété (
-
-b de l'article R. 319-1 du code de la construction
+de copropriété (b de l'article D. 319-1 du code de la construction
 
 et de l'habitation) |
 
@@ -46,4 +44,4 @@ Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'a
 
 NOTA :
 
-Conformément aux dispositions de l'article 3 du décret n° 2019-839 du 19 août 2019, ces dispositions s'appliquent aux offres d'avances émises à compter du lendemain de la publication dudit décret.
+Modifications effectuées en conséquence des articles 5 II 3° et 8 du décret n° 2019-873 du 21 août 2019.

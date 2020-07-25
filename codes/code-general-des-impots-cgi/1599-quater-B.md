@@ -12,7 +12,7 @@ II. – L'imposition forfaitaire est due chaque année par le propriétaire de l
 
 III.-Le montant de l'imposition est établi de la manière suivante :
 
-Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imposition est fonction du nombre de lignes de la partie terminale du réseau qu'il raccorde et qui sont en service au 1er janvier de l'année d'imposition. Le tarif de l'imposition est fixé à 12,66 € par ligne en service.
+Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imposition est fonction du nombre de lignes de la partie terminale du réseau qu'il raccorde et qui sont en service au 1er janvier de l'année d'imposition. Le tarif de l'imposition est fixé à 14,08 € par ligne en service.
 
 III bis.-1. Une ligne raccordée par un équipement mentionné aux a, b ou c du I n'est pas prise en compte dans le calcul du montant de l'imposition de l'équipement pendant les cinq années suivant celle de la première installation jusqu'à l'utilisateur final.
 
@@ -30,4 +30,4 @@ Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privi
 
 NOTA :
 
-Conformément à l'article 49 III de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent à compter des impositions dues au titre de 2019.
+Modification effectuée en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 49-I-2° et III de la loi n° 2017-1775 du 28 décembre 2017.

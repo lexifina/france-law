@@ -18,7 +18,7 @@ d) Une part minimale, définie par décret, de la surface habitable des logement
 
 e) Une fraction, définie par décret, du prix de revient d'un programme d'investissement d'un montant supérieur à deux millions d'euros correspond à des dépenses supportées au titre de l'acquisition d'équipements de production d'énergie renouvelable, d'appareils utilisant une source d'énergie renouvelable ou de matériaux d'isolation. Un arrêté des ministres chargés du budget, de l'écologie, de l'énergie, du développement durable et de l'outre-mer fixe la nature des dépenses d'équipement concernées ;
 
-f) Les logements sont financés par subvention publique à hauteur d'une fraction minimale de 5 %. Cette condition ne s'applique pas aux logements bénéficiant des prêts conventionnés définis à l'article R. 372-21 du code de la construction et de l'habitation. Toutefois, pour ouvrir droit au crédit d'impôt, la construction ou l'acquisition de logements bénéficiant des prêts conventionnés précités doit avoir reçu l'agrément préalable du représentant de l'Etat dans le département de situation des logements. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 25 % de la moyenne des logements livrés au cours des trois années précédentes dans le département qui satisfont aux conditions prévues aux b et c du présent 1. Par dérogation, le nombre annuel de logements agréés par le représentant de l'Etat ne peut excéder cent au titre des acquisitions et constructions d'immeubles réalisées à Mayotte jusqu'au 31 décembre 2021.
+f) Les logements sont financés par subvention publique à hauteur d'une fraction minimale de 5 %. Cette condition ne s'applique pas aux logements bénéficiant des prêts conventionnés définis à l'article D. 372-21 du code de la construction et de l'habitation. Toutefois, pour ouvrir droit au crédit d'impôt, la construction ou l'acquisition de logements bénéficiant des prêts conventionnés précités doit avoir reçu l'agrément préalable du représentant de l'Etat dans le département de situation des logements. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 25 % de la moyenne des logements livrés au cours des trois années précédentes dans le département qui satisfont aux conditions prévues aux b et c du présent 1. Par dérogation, le nombre annuel de logements agréés par le représentant de l'Etat ne peut excéder cent au titre des acquisitions et constructions d'immeubles réalisées à Mayotte jusqu'au 31 décembre 2021.
 
 2. Le crédit d'impôt défini au 1 bénéficie également aux organismes mentionnés au premier alinéa de ce même 1 à la disposition desquels sont mis des logements neufs lorsque les conditions suivantes sont respectées :
 
@@ -32,7 +32,7 @@ b) L'organisme mentionné au premier alinéa du 1 aurait pu bénéficier du cré
 
 5. Ouvre également droit au bénéfice du crédit d'impôt l'acquisition ou la construction de logements neufs situés dans les départements d'outre-mer réalisée par les entreprises soumises à l'impôt sur les sociétés y exerçant leur activité lorsque les conditions suivantes sont réunies :
 
-a) L'entreprise bénéficie des prêts conventionnés définis à l'article R. 372-21 du code de la construction et de l'habitation ;
+a) L'entreprise bénéficie des prêts conventionnés définis à l'article D. 372-21 du code de la construction et de l'habitation ;
 
 b) Les logements sont donnés en location nue, dans les douze mois de leur achèvement ou de leur acquisition si elle est postérieure, et pour une durée au moins égale à cinq ans, à des personnes physiques qui en font leur résidence principale ;
 
@@ -88,8 +88,4 @@ IX. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect
 
 NOTA :
 
-Conformément au II de l'article 141 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter de l'année 2020 pour le calcul du nombre de logements agréés par le représentant de l'Etat.
-
-Conformément au II de l'article 142 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux travaux pour lesquels une demande de permis de construire est déposée à compter du 1er janvier 2020.
-
-Conformément au II de l'article 144 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux travaux de rénovation et de réhabilitation pour lesquels une déclaration préalable de travaux ou une demande de permis de construire est déposée à compter du 1er janvier 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.

@@ -20,7 +20,7 @@ La location ne peut pas être conclue avec un membre du foyer fiscal ou, si le l
 
 La location du logement consentie à un organisme public ou privé qui le donne en sous-location nue à usage d'habitation principale à une personne autre que l'une de celles mentionnées au deuxième alinéa du présent 4 ne fait pas obstacle au bénéfice de la réduction d'impôt à la condition que cet organisme ne fournisse aucune prestation hôtelière ou parahôtelière.
 
-La réduction d'impôt n'est pas applicable aux logements dont le droit de propriété est démembré ou aux logements appartenant à une société non soumise à l'impôt sur les sociétés dont le droit de propriété des parts est démembré. Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt mentionné à l'article R. 331-1 du code de la construction et de l'habitation ayant fait l'objet d'un dépôt de permis de construire à compter du 1er janvier 2010.
+La réduction d'impôt n'est pas applicable aux logements dont le droit de propriété est démembré ou aux logements appartenant à une société non soumise à l'impôt sur les sociétés dont le droit de propriété des parts est démembré. Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt mentionné à l'article D. 331-1 du code de la construction et de l'habitation ayant fait l'objet d'un dépôt de permis de construire à compter du 1er janvier 2010.
 
 II. – La réduction d'impôt n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance énergétique sont conformes aux prescriptions de l'article L. 111-9 du code de la construction et de l'habitation. Le respect de cette condition est justifié par le contribuable selon des modalités définies par décret.
 
@@ -123,3 +123,7 @@ b) Pour les investissements réalisés à compter du 1er janvier 2011 afférents
 Le dernier alinéa du II n'est pas applicable au présent XI.
 
 Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi que les conditions mentionnées au deuxième alinéa du l du 1° du I de l'article 31 peuvent être adaptés par décret.
+
+NOTA :
+
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.

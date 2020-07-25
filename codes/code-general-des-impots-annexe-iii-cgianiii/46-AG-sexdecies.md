@@ -2,7 +2,7 @@
 
 I. – Les plafonds annuels de ressources mentionnés au 2° du I de l'article 199 undecies C du code général des impôts sont égaux :
 
-1° A Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article R. 372-21 du code de la construction et de l'habitation ;
+1° A Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article D. 372-21 du code de la construction et de l'habitation ;
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à 81, 25 % des plafonds annuels de ressources mentionnés au 2 de l'article 46 AG duodecies et applicables sur ces territoires.
 
@@ -10,7 +10,7 @@ II. – Les plafonds annuels de loyers mentionnés au 3° du I de l'article 199 
 
 1° (Abrogé) ;
 
-2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de l'article R. 372-21 du code de la construction et de l'habitation dans le département de Guadeloupe ;
+2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de l'article D. 372-21 du code de la construction et de l'habitation dans le département de Guadeloupe ;
 
 3° (Abrogé) ;
 
@@ -20,7 +20,7 @@ III. – 1. La part minimale mentionnée au 5° du I de l'article 199 undecies C
 
 2. Les plafonds annuels de ressources mentionnés au 5° du I de l'article 199 undecies C du code général des impôts sont égaux :
 
-1° A Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article R. 372-7 du code de la construction et de l'habitation ;
+1° A Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour l'application dans les départements d'outre-mer de l'article D. 372-7 du code de la construction et de l'habitation ;
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à dix treizièmes des plafonds annuels de ressources mentionnés au 2° du I.
 
@@ -28,7 +28,7 @@ III. – 1. La part minimale mentionnée au 5° du I de l'article 199 undecies C
 
 1° (Abrogé) ;
 
-2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de l'article R. 372-7 du code de la construction et de l'habitation dans le département de Guadeloupe ;
+2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de l'article D. 372-7 du code de la construction et de l'habitation dans le département de Guadeloupe ;
 
 3° (Abrogé) ;
 
@@ -36,7 +36,7 @@ III. – 1. La part minimale mentionnée au 5° du I de l'article 199 undecies C
 
 IV. – La fraction mentionnée au 6° du I de l'article 199 undecies C du code général des impôts est égale à 4, 5 % du coût de la construction au sens des 4° et 5° du VI lorsque tous les logements sont équipés d'une installation d'eau chaude sanitaire et à 3, 5 % dans les autres cas.
 
-V. – Les plafonds annuels de ressources mentionnés au 7° du I de l'article 199 undecies C du code général des impôts sont ceux prévus pour l'application dans les départements d'outre-mer de l'article R. 331-76-5-1 du code de la construction et de l'habitation.
+V. – Les plafonds annuels de ressources mentionnés au 7° du I de l'article 199 undecies C du code général des impôts sont ceux prévus pour l'application dans les départements d'outre-mer de l'article D. 331-76-5-1 du code de la construction et de l'habitation.
 
 VI. – Le prix de revient mentionné au II de l'article 199 undecies C du code général des impôts inclut, pour leur montant réel et justifié, les sommes suivantes :
 
@@ -64,6 +64,4 @@ VII. – 1. Pour l'application des dispositions de l'article 199 undecies C du c
 
 NOTA :
 
-Le VIII devient sans objet.
-
-Modifications effectuées en conséquence de l'article 128-1° de la loi n° 2017-256 du 28 février 2017.
+Modifications effectuées en conséquence de l'article 5 II 3° du décret n° 2019-873 du 21 août 2019.

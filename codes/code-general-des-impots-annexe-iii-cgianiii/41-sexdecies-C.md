@@ -8,10 +8,10 @@ b. De la date de mise en distribution ;
 
 c. Du nombre de parts du fonds commun de placement existant à chacune de ces trois dernières dates ;
 
-d. Du montant, déterminé conformément aux dispositions du 1° de l'article L. 214-17-2 précité, de la répartition effectuée au titre de l'exercice considéré et de la part de la répartition éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du code général des impôts ;
+d. Du montant, déterminé conformément aux dispositions du 1° du I de l'article L. 214-17-2 précité, de la répartition effectuée au titre de l'exercice considéré et de la part de la répartition éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du code général des impôts ;
 
 e. Le cas échéant, de la date de distribution et du montant de chacun des acomptes versés au titre du même exercice.
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011
+Modification effectuée en conséquence de l'article 77-34° de la loi n° 2019-486 du 22 mai 2019.

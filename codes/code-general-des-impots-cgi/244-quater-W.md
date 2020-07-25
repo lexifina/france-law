@@ -38,7 +38,7 @@ b) L'entreprise ou l'organisme aurait pu bénéficier du crédit d'impôt dans l
 
 a) L'entreprise signe avec une personne physique, dans les douze mois de l'achèvement de l'immeuble, ou de son acquisition si elle est postérieure, un contrat de location-accession dans les conditions prévues par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière ;
 
-b) L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article R. 331-76-5-1 du code de la construction et de l'habitation ;
+b) L'acquisition ou la construction de l'immeuble a été financée au moyen d'un prêt mentionné au I de l'article D. 331-76-5-1 du code de la construction et de l'habitation ;
 
 c) Les trois quarts de l'avantage en impôt procuré par le crédit d'impôt pratiqué au titre de l'acquisition ou la construction de l'immeuble sont rétrocédés à la personne physique signataire du contrat mentionné au 1° du présent 4 sous forme de diminution de la redevance prévue à l'article 5 de la loi n° 84-595 du 12 juillet 1984 précitée et du prix de cession de l'immeuble.
 
@@ -118,6 +118,4 @@ X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect 
 
 NOTA :
 
-Conformément au B du VI de l'article 69 de la loi n° 2019-1479 du 28 décembre 2019, l'article 244 quater W dans sa rédaction résultant du G du I dudit article, entre en vigueur à une date fixée par décret, et au plus tard le 1er juillet 2020.
-
-Conformément à l'article 1er du décret n° 2020-169 du 27 février 2020, ces dispositions entrent en vigueur le 1er mars 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.

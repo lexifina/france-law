@@ -21,3 +21,9 @@ Les fonctionnaires mentionnés au premier alinéa, les personnes choisies confor
 III.-Une personne désignée à plusieurs titres comme membre titulaire ou suppléant de la commission choisit dans un délai d'une semaine la qualité en laquelle elle siège au sein de la commission.
 
 Une personne désignée en application des II à IV de l'article 371 ter I comme membre titulaire ou suppléant de la commission départementale des valeurs locatives des locaux professionnels alors qu'elle est membre titulaire ou suppléant de la commission départementale des impôts directs locaux choisit, dans un délai d'une semaine, la commission au sein de laquelle elle siège.
+
+NOTA :
+
+Le second alinéa du III devient sans objet.
+
+Modification effectuée en conséquence de l’article 146-IX I de la loi n° 2019-1479 du 28 décembre 2019.

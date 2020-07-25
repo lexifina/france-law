@@ -2,10 +2,10 @@
 
 Pour l'appréciation de la limite mentionnée au 1 de l'article 200-0 A du code général des impôts :
 
-1° Les revenus soumis à l'impôt sur le revenu, sur option du contribuable selon une base moyenne, notamment en application des articles 75-0 B, 84 A ou 100 bis du code général des impôts, ou fractionnée, notamment en application des articles 75-0 A et 163 A du même code, sont pris en compte, pour le montant soumis à l'impôt, dans les conditions mentionnées au I de l'article 197 du code précité ;
+1° Les revenus soumis à l'impôt sur le revenu, sur option du contribuable selon une base moyenne, notamment en application des articles 75-0 B, 84 A ou 100 bis du code général des impôts, ou fractionnée, notamment en application de l'article 75-0 A du même code, sont pris en compte, pour le montant soumis à l'impôt, dans les conditions mentionnées au I de l'article 197 du code précité ;
 
 2° Les revenus soumis à l'impôt sur le revenu selon les modalités prévues aux articles 163-0 A et 163-0 A bis du code général des impôts sont pris en compte, pour le montant soumis à l'impôt, dans les conditions mentionnées au I de l'article 197 du code précité, avant multiplication de la cotisation supplémentaire obtenue.
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 11-I F et IV de la loi n° 2012-1509 du 29 décembre 2012.
+Modification effectuée en conséquence de l’article 29-III-2° et IV B de la loi n° 2019-1479 du 28 décembre 2019.

@@ -1,6 +1,6 @@
 # Article 371 ter I
 
-I-Les membres de la commission départementale des valeurs locatives des locaux professionnels mentionnée à l'article 1650 B du code général des impôts, autres que les parlementaires, sont désignés dans les conditions définies aux II à V.
+I-Les membres de la commission départementale des valeurs locatives mentionnée à l'article 1650 B du code général des impôts, autres que les parlementaires, sont désignés dans les conditions définies aux II à V.
 
 II.-Les membres du conseil de Paris sont désignés par celui-ci dans les deux mois qui suivent son renouvellement. La durée de leur mandat est la même que celle du mandat des conseillers de Paris.
 
@@ -29,3 +29,7 @@ c) Trois personnes désignées après consultation des organisations d'employeur
 d) Une personne désignée après consultation des organisations représentatives des professions libérales dans le département.
 
 V.-Les représentants de l'administration fiscale sont désignés par le directeur départemental ou, le cas échéant, régional des finances publiques.
+
+NOTA :
+
+Modification effectuée en conséquence de l’article 146-IX H de la loi n° 2019-1479 du 28 décembre 2019.

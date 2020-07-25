@@ -22,7 +22,7 @@ I. – Les contribuables domiciliés en France au sens de l'article 4 B peuvent 
 
 La condition mentionnée au 5° n'est pas applicable aux logements dont la convention mentionnée au 7° prévoit la cession à des personnes physiques à l'issue de la période de location.
 
-Pour ouvrir droit à la réduction d'impôt, la construction ou l'acquisition de logements bénéficiant des prêts conventionnés définis à l'article R. 372-21 du code de la construction et de l'habitation doit cependant avoir reçu l'agrément préalable du représentant de l'Etat dans la collectivité territoriale d'outre-mer. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 25 % du nombre de logements qui satisfont aux conditions prévues aux 2° et 3° du présent I livrés l'année précédente dans la collectivité territoriale d'outre-mer.
+Pour ouvrir droit à la réduction d'impôt, la construction ou l'acquisition de logements bénéficiant des prêts conventionnés définis à l'article D. 372-21 du code de la construction et de l'habitation doit cependant avoir reçu l'agrément préalable du représentant de l'Etat dans la collectivité territoriale d'outre-mer. Le nombre de logements agréés par le représentant de l'Etat au titre d'une année ne peut excéder 25 % du nombre de logements qui satisfont aux conditions prévues aux 2° et 3° du présent I livrés l'année précédente dans la collectivité territoriale d'outre-mer.
 
 II. – La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au 4° du I, de surface des parties communes dans lesquelles des prestations de services sont proposées. Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A.
 
@@ -80,4 +80,4 @@ X. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pou
 
 NOTA :
 
-Conformément au A du V de l’article 157 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent à compter du 1er janvier 2020.
+Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.

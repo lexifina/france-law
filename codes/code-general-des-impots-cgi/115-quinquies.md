@@ -6,7 +6,7 @@ Les bénéfices visés au premier alinéa s'entendent du montant total des résu
 
 1. bis (Dispositions sans objet).
 
-2. Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de l'article 119 bis 2 fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le montant total de ses distributions effectives.
+2. Toutefois, la société peut demander que la retenue à la source exigible en vertu des dispositions du 1 et de celles du 2 de l'article 119 bis fasse l'objet d'une nouvelle liquidation dans la mesure où les sommes auxquelles elle a été appliquée excèdent le montant total de ses distributions effectives.
 
 L'excédent de perception lui est restitué.
 
