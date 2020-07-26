@@ -374,6 +374,10 @@ Modes de réalisation des prestations indirectes |
 
 Tout ESMS |
 
+- La gestion des achats |
+
+Tout ESMS |
+
 6. Ressources humaines
 
 Items |
@@ -856,39 +860,93 @@ Structure des dépenses financées par la dotation de soins |
 
 EHPAD |
 
-Axe 4 : Objectifs : état de lieux de la fonction système d'information
+Axe 4 : Objectifs : le système d'information et le développement durable
 
 Items |
 
 ESMS concernés |
 
-La stratégie SI de l'ESMS est-elle définie et formalisée ? |
+1. Le système d'information |
 
 Tout ESMS |
 
-Quels sont les moyens qui sont alloués à la fonction systèmes d'informations ? |
+-Socle garantissant le bon fonctionnement du SI : |
 
 Tout ESMS |
 
-Les domaines clés de gestion d'un ESMS sont-ils informatisés ? |
+-gouvernance SI ; |
 
 Tout ESMS |
 
-Quels sont les types d'outils utilisés pour chacun de ces domaines ? |
+-moyens alloués au SI ; |
 
 Tout ESMS |
 
-Quels profils de professionnels disposent d'un équipement informatique ? |
+-équipement SI ; |
 
 Tout ESMS |
 
-L'ESMS a-t-il défini une politique de sécurité des données ? Comment ces règles de sécurité (modalités de sauvegarde, sécurisation des accès au SI, …) sont-elles déclinées au sein de l'ESMS ?
-
-L'ESMS connaît-il et respecte-t-il les référentiels qui ont été définis en matière d'échanges et de partage des données ? |
+-sécurité SI ; |
 
 Tout ESMS |
 
-L'ESMS a-t-il mis en place des outils pour faciliter et sécuriser les échanges internes de l'ESMS et les échanges avec des personnes externes à l'ESMS ? |
+-capacité d'échange et de partage de l'ESMS. |
+
+Tout ESMS |
+
+Usage du SI dans l'ESMS : |
+
+Tout ESMS |
+
+-fonction pilotage ; |
+
+Tout ESMS |
+
+-fonctions supports ; |
+
+Tout ESMS |
+
+-dossier informatisé de l'usager. |
+
+Tout ESMS |
+
+2. Le développement durable : |
+
+Tout ESMS |
+
+Volet gouvernance : |
+
+Tout ESMS |
+
+-intégration des enjeux du développement durable dans les projets majeurs de la structure. |
+
+Tout ESMS |
+
+Volet social : |
+
+Tout ESMS |
+
+-qualité de vie au travail. |
+
+Tout ESMS |
+
+Volet environnemental : |
+
+Tout ESMS |
+
+-consommation d'énergie au mètre carré ; |
+
+Tout ESMS |
+
+-politique de gestion des déchets. |
+
+Tout ESMS |
+
+Volet économique : |
+
+Tout ESMS |
+
+-politique d'achat |
 
 Tout ESMS |
 

@@ -18,17 +18,21 @@ Les vingt catégories d'établissements et services concernés par l'obligation 
 
 - Etablissement pour enfants ou adolescents polyhandicapés ;
 
-- Foyer d'accueil médicalisé pour adultes handicapés (F.A.M.) ;
+- Foyer d'accueil médicalisé pour adultes handicapés (F.A.M.) ou établissement d'accueil médicalisé (EAM) ;
 
 - Foyer de vie (F.D.V.) ;
 
 - Foyer d'hébergement (F.H.) ;
+
+- Etablissements d'accueil non médicalisé (EANM) ;
 
 - Institut médico-éducatif (I.M.E.) ;
 
 - Institut pour déficients auditifs (I.D.A.) ;
 
 - Institut pour déficients visuels (I.D.V.) ;
+
+- Institut d'éducation sensorielle (IES) ;
 
 - Institut thérapeutique, éducatif et pédagogique (I.T.E.P.) ;
 
