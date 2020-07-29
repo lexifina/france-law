@@ -1,0 +1,33 @@
+# Article 1er
+
+L'article 2.3 du chapitre Ier de l'accord, intitulé « Situations particulières » est désormais rédigé comme suit :
+
+« Enfants en situation de handicap bénéficiaires de l'allocation d'éducation d'enfant handicapé (AEEH) ou ayant un taux d'incapacité d'au moins 50 % (si le taux d'incapacité est inférieur à 50 %, l'ouverture de ce droit peut également être examinée en cas de besoin justifié
+
+(1)
+
+, en lien direct avec la situation de handicap de l'enfant).
+
+Les parents d'enfant(s) handicapé(s) bénéficient chaque année, en plus des droits précités, d'un “ congé parent – enfant handicapé ” de 8 jours rémunérés, qu'ils aient opté pour le congé parent ou pour le CESU.
+
+Lorsque le salarié perçoit pour son enfant handicapé l'allocation d'éducation d'enfant handicapé (AEEH) ou si l'enfant est atteint d'un taux d'incapacité permanente d'au moins 50 %, le “ congé parent ” ou le CESU et le “ congé parent – enfant handicapé ” sont ouverts jusqu'aux 20 ans de l'enfant.
+
+À titre d'exemple, un salarié parent d'un enfant handicapé de 10 ans et percevant l'AEEH au titre de celui-ci ou si l'enfant est atteint d'un taux d'incapacité permanente d'au moins 50 % bénéficie des droits suivants :
+
+– le “ congé parent ” de 4 jours OU le CESU selon le choix qu'il a fait ;
+
+– le congé légal enfant malade dont 4 demi-journées rémunérées par l'employeur.
+
+– le “ congé parent-enfant handicapé ” de 8 jours de congé rémunérés par l'employeur.
+
+Par ailleurs, à compter du 20e anniversaire de l'enfant en situation de handicap reconnu par un titre et ayant un taux d'incapacité d'au moins 50 % (si le taux d'incapacité est inférieur à 50 %, l'ouverture de ce droit peut également être examinée en cas de besoin justifié, en lien direct avec la situation de handicap de l'enfant), et à condition qu'il soit à la charge du salarié et ce sans limite d'âge, un “ congé parent – enfant handicapé ” rémunéré de 8 jours par année est accordé au salarié.
+
+Familles monoparentales
+
+Les parents de familles monoparentales au sens des prestations familiales, c'est-à-dire ne vivant pas en couple et assumant seuls la garde exclusive d'au moins 1 enfant, bénéficient jusqu'au dernier jour du mois du 12e anniversaire de l'enfant, en fonction de l'option choisie entre le congé parent et le CESU : de 2 jours de congé par an portant ainsi le total à 6 jours annuels de congé parent ou d'un montant correspondant à 20 heures supplémentaires de CESU valorisées comme indiqué à l'article 2.1 du chapitre Ier, portant ainsi le volume de CESU à quatre-vingts fois le montant du Smic brut horaire par an.
+
+Sont retenus pour justifier du bénéfice de ce droit : un justificatif de la perception de l'allocation de soutien familial versée par la Caisse d'allocations familiales ou une copie des informations fiscales attestant de la garde exclusive d'au moins un enfant (pas de garde alternée) et de la situation de parent isolé.
+
+Les droits supplémentaires non utilisés ne sont pas reportables d'une année sur l'autre. »
+
+(1) Le justificatif requis est un certificat médical attestant de la présence nécessaire du salarié parent pour accompagner son enfant pour des examens médicaux ou des soins réguliers en semaine.
