@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200414904
+
+- Question : [SEQ200414904](seq200414904.md) — Équipements de protection individuels contre le covid-19 dans les établissements d'hébergement pour personnes âgées dépendantes
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-07-30, page 3397*
+
+La gestion de la crise liée au Covid-19 dans les établissement d'hébergement pour personnes âgées dépendantes (EHPAD) fait l'objet d'une attention constante, quotidienne et du déploiement de l'ensemble des moyens dont disposent l'État et la société civile. Comme le précise la décision n° 440002 du juge des référés du Conseil d'État du 15 avril 2020, la gestion des tests de dépistage et des masques de protection en EHPAD fait l'objet d'une stratégie visant à répondre aux besoins de l'ensemble de ces établissements à l'échelle nationale. S'agissant des masques, les personnels des EHPAD font partie des professionnels prioritaires pour se voir délivrer gratuitement des dotations du stock d'Etat. Si le début de l'épidémie a entraîné une tension sur les équipements de protection, les livraisons sont désormais hebdomadaires pour chacune des régions avec une dotation prévue de 5 masques chirurgicaux par résident et par semaine. L'objectif chiffré est de 500 000 masques chirurgicaux par jour distribués aux EHPAD, la capacité de distribution étant amenée à augmenter grâce à une importation massive depuis l'étranger et à l'encouragement de la production nationale. Au 10 avril 2020, un volume de plus de 2 milliards de masques a été commandé, dont environ trois quarts de masques chirurgicaux et un quart de masques FFP2. La stratégie mise en œuvre pour lutter contre l'épidémie en EHPAD s'appuie sur les avis du Conseil scientifique Covid-19 et du Haut Conseil de la santé publique. L'ensemble des personnels des EHPAD bénéficiera de l'effort d'accélération des livraisons.
