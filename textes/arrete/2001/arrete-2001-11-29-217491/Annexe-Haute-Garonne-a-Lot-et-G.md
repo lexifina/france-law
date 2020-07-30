@@ -600,93 +600,77 @@ B |
 
 01/01/2019 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Loire-Atlantique
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DE LA LOIRE-ATLANTIQUE
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM)
 
-NOMBRE
+par emploi |
 
-d'emplois
+Unité logement public
 
-|
+Chef d'unité |
 
-NOMBRE DE POINTS (IM)
+A |
 
-par emploi
+1 |
 
-|
+25 |
 
-Chargé de projet
+Chef de service bâtiment logement |
 
-|
+A |
 
-A
+1 |
 
-|
+25 |
 
-2
+Responsable de la mission observation, prospective, évaluation, développement durable |
 
-|
+A |
 
-25 points
+1 |
 
-|
+25 |
 
-Chef de l'unité politique générale de l'habitat et chef de projet suivi contrats
+Coordonnateur territorial du réseau territorial Est |
 
-|
+A |
 
-A
+1 |
 
-|
+25 |
 
-1
+Responsable de la mission renouvellement urbain |
 
-|
+B |
 
-25 points
+1 |
 
-|
+20 |
 
-Responsable de la mise en oeuvre de la politique de la ville
+Adjoint au responsable de la mission renouvellement urbain |
 
-|
+B |
 
-A
+1 |
 
-|
+15 |
 
-1
+Chargé de projet à la mission renouvellement urbain |
 
-|
+B |
 
-25 points
+1 |
 
-|
-
-Assistant au chargé de projet
-
-|
-
-B
-
-|
-
-3
-
-|
-
-15 points
-
-|
+10 |
 
 Direction départementale de l'équipement du Loiret
 
@@ -887,3 +871,5 @@ NOTA :
 Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2012 pour le département du Jura.
 
 Arrêté du 29 août 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2016 pour la direction départementale des territoires et de la mer de la Gironde.
+
+Arrêté du 8 juillet 2020, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2019 pour la direction départementale des territoires et de la mer de la Loire-Atlantique.
