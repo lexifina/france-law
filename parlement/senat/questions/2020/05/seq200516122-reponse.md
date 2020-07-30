@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200516122
+
+- Question : [SEQ200516122](seq200516122.md) — Situation des assistants de régulation médicale pendant la crise du Covid-19
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-07-30, page 3415*
+
+Le dispositif indemnitaire visant à reconnaître la forte mobilisation des professionnels hospitaliers par l'attribution d'une prime exceptionnelle d'un montant de 500 ou 1 500 euros repose sur un critère géographique qui permettra, sur la base de données objectives, de distinguer deux groupes d'établissements, reflétant l'intensité de l'épidémie à laquelle les professionnels ont dû répondre. Dès lors, s'ils remplissent les conditions fixées par le décret n° 2020-568 du 14 mai 2020 paru au Journal officiel du 15 mai 2020 instaurant cette prime exceptionnelle, c'est bien l'ensemble des professionnels qui en bénéficieront, quel que soit leur statut (fonctionnaires titulaires et stagiaires, agents contractuels de droit public, apprentis, personnels médicaux) et quelle que soit la filière professionnelle dont ils relèvent (filière soignante, de rééducation, médico-technique, administrative, technique…). Ainsi, au sein d'un même établissement quel que soit son groupe et sous réserve des abattements individuels qui pourraient s'appliquer pour absence (hors absence imputable à une suspicion ou une contamination par le virus covid-19), les agents percevront le même montant de prime exceptionnelle. L'annexe II du décret précité prévoit une liste d'établissements qui, bien que situés dans un groupe donnant lieu à une prime de 500 euros, permettraient toutefois l'attribution d'une prime de 1 500 euros à certains personnels exerçant dans les services ayant pris en charge des patients contaminés par le virus covid-19 ou des personnels mobilisés par les circonstances exceptionnelles d'exercice (mobilisation particulièrement forte) à l'instar des services du SAMU-Centre 15 et ses assistants de régulation médicale.
