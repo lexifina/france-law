@@ -1,7 +1,5 @@
 # Article Annexe I
 
-ANNEXE I
-
 DISPOSITIONS CONCERNANT LES DIPLÔMES, ATTESTATIONS OU TITRES RECONNUS
 
 Le tableau 1 ci-dessous précise les diplômes et titres reconnus pour être admis à suivre le cursus de formation menant à la délivrance du diplôme de mécanicien 750 kW et les conditions complémentaires à satisfaire à cet effet.
@@ -139,6 +137,12 @@ Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 11
 |
 
 11. Du diplôme d'officier chef de quart machine conformément à l'arrêté du 23 décembre 2015 relatif à la délivrance du brevet d'officier chef de quart machine.
+
+|
+
+12. Les candidats ayant obtenu un diplôme mentionné au 1 ou 3 du présent tableau au cours de la session 2020 doivent en outre détenir l'attestation de validation du registre de formation à bord établie par l'établissement dans lequel ils ont effectué leur scolarité durant l'année 2019-2020.
+
+|
 
 |
 

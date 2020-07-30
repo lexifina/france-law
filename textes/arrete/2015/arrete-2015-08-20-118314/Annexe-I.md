@@ -59,3 +59,9 @@ Satisfaire les conditions fixées aux 1°, 2° et 4° à 7° de l'article 10 |
 2. Baccalauréat professionnel spécialité conduite et gestion des entreprises maritimes délivré conformément aux dispositions de l'arrêté du 25 juillet 2005 portant création et fixant les modalités de préparation et de délivrance du baccalauréat professionnel spécialité conduite et gestion des entreprises maritimes .
 
 |
+
+3. Les candidats ayant obtenu le diplôme mentionné au 1 du présent tableau au cours de la session 2020 doivent en outre détenir l'attestation de validation du registre de formation à bord établie par l'établissement dans lequel ils ont effectué leur scolarité durant l'année 2019-2020.
+
+|
+
+|
