@@ -20,7 +20,9 @@ bouée avec feu à retournement, miroir de signalisation, dispositif de pompage,
 
 extincteur, dispositif de sonde, dispositif d'obturation de la coque, boîte de secours, dispositif coupe-circuit ;
 
-- être capable de localiser sur un plan les points sensibles du bateau et de faire figurer sur ce plan les matériels de lutte contre l'incendie et les voies d'eau.
+- être capable de localiser sur un plan les points sensibles du bateau et de faire figurer sur ce plan les matériels de lutte contre l'incendie et les voies d'eau ;
+
+- être capable d'identifier les points d'usure d'un navire et notamment les problèmes d'osmose, en faisant appel à des exemples concrets.
 
 Objectif n° 3 " connaître les règles élémentaires de l'usage des moyens de communications embarqués " :
 
