@@ -16,19 +16,29 @@ de NBI |
 
 Nombre d'emplois
 
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
 de conseiller
 
 d'administration
 
 de l'intérieur
 
-et de l'outre-mer |
+et de l'outre-mer
+
+(CAIOM) |
 
 Cabinet du ministre |
 
 Chef du bureau des cabinets. |
 
 60 |
+
+- |
 
 1 |
 
@@ -38,11 +48,15 @@ Chargé de mission préfiguration de la juridiction administrative spécialisée
 
 30 |
 
+- |
+
 1 |
 
 Chef de cabinet |
 
 30 |
+
+- |
 
 1 |
 
@@ -52,17 +66,23 @@ Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au c
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au chef du bureau de la performance et des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale |
 
 30 |
 
+- |
+
 1 |
 
 Chargé de mission modernisation de l'action publique au sein du service de la modernisation de l'action publique. |
 
 30 |
+
+- |
 
 1 |
 
@@ -72,11 +92,15 @@ Chef du bureau des titres d'identité et de voyage au sein de la sous-direction 
 
 60 |
 
+- |
+
 1 |
 
 Chef du bureau du contentieux des étrangers au sein du service du conseil juridique et du contentieux. |
 
 60 |
+
+- |
 
 1 |
 
@@ -84,11 +108,15 @@ Chef de la mission du pilotage et de l'appui juridique aux territoires au sein d
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau du droit et des procédures d'expulsion au sein de la sous-direction des polices administratives. |
 
 30 |
+
+- |
 
 1 |
 
@@ -96,17 +124,23 @@ Chef du bureau des établissements de jeux au sein de la sous-direction des poli
 
 30 |
 
+- |
+
 1 |
 
 Chef de cabinet. |
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau du droit et du contentieux européen, international et institutionnel au sein de la sous-direction du conseil juridique et du contentieux. |
 
 30 |
+
+- |
 
 1 |
 
@@ -116,11 +150,15 @@ Chef du bureau du soutien logistique et juridique au sein de la sous-direction d
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau des sapeurs-pompiers professionnels au sein de la sous-direction de la doctrine et des ressources humaines. |
 
 30 |
+
+- |
 
 1 |
 
@@ -128,11 +166,15 @@ Chef des services administratifs et du soutien au sein du groupement des moyens 
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au chef du groupement des moyens aériens à la sous-direction des moyens nationaux. |
 
 30 |
+
+- |
 
 1 |
 
@@ -140,11 +182,15 @@ Chef du bureau de l'alerte, de la sensibilisation et de l'éducation des publics
 
 30 |
 
+- |
+
 1 |
 
 Chef de la mission catastrophes naturelles au sein de la sous-direction de la préparation à la gestion des crises. |
 
 30 |
+
+- |
 
 1 |
 
@@ -154,11 +200,15 @@ Chef du bureau du budget et de la programmation financière au sein de la sous-d
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau du personnel et des compétences au sein de la sous-direction de l'administration générale et de l'achat. |
 
 30 |
+
+- |
 
 1 |
 
@@ -166,13 +216,17 @@ Chef de la coordination fonctionnelle. |
 
 30 |
 
+- |
+
 1 |
 
-La direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier |
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier |
 
 Chef du bureau de la gestion des sites de l'administration centrale au sein de la sous-direction des affaires immobilières. |
 
 60 |
+
+- |
 
 1 |
 
@@ -180,11 +234,15 @@ Chef du bureau stratégie et performance achat au sein de la sous-direction stra
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'achat et du suivi de l'exécution des marchés du service de l'achat, de l'innovation et de la logistique |
 
 50 |
+
+- |
 
 1 |
 
@@ -192,11 +250,15 @@ Chef du bureau logistique de la mobilité au sein de la sous-direction de la log
 
 30 |
 
+- |
+
 1 |
 
-Adjoint au chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la sous-direction des affaires immobilières. |
+Chef du bureau de la synthèse, du patrimoine et de la stratégie au sein de la sous-direction des affaires immobilières. |
 
 30 |
+
+- |
 
 1 |
 
@@ -204,17 +266,23 @@ Adjoint au chef du centre des prestations financières au sein de la sous-direct
 
 30 |
 
-1 |
-
-Chef du bureau des ressources mutualisées. |
-
-30 |
+- |
 
 1 |
 
-Chef du bureau de la synthèse budgétaire et des opérateurs au sein de la sous-direction de la synthèse et du pilotage budgétaires. |
+Chef du bureau de la coordination, des ressources humaines et des moyens. |
 
 30 |
+
+- |
+
+1 |
+
+Chef du bureau de la performance et de la gestion des programmes au sein de la sous-direction de la coordination et des ressources |
+
+30 |
+
+|
 
 1 |
 
@@ -224,11 +292,15 @@ Chef du bureau du centre national de la formation au sein de la sous-direction d
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau des affaires financières et de l'évaluation de la dépense au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
 
 50 |
+
+- |
 
 1 |
 
@@ -238,11 +310,15 @@ politiques sociales au sein de sous-direction de l'action sociale et de l'accomp
 
 50 |
 
+- |
+
 1 |
 
 Adjoint au chef du bureau des personnels administratifs au sein de la sous-direction des personnels. |
 
 30 |
+
+- |
 
 1 |
 
@@ -250,11 +326,15 @@ Adjoint au chef du bureau des personnels techniques et spécialisés au sein de 
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au chef du bureau des affaires générales, des études et des statuts au sein de la sous-direction des personnels. |
 
 30 |
+
+- |
 
 1 |
 
@@ -262,17 +342,31 @@ Adjoint au chef du bureau de la paie et des régimes indemnitaires au sein de la
 
 30 |
 
-1 |
-
-Chef de la mission de pilotage de la fonction ressources humaines ministérielle au sein de la mission de gouvernance ministérielle des ressources humaines. |
-
-30 |
+- |
 
 1 |
 
-Adjoint au directeur de projet chargé de la modernisation du système d'information des ressources humaines au sein de la mission de gouvernance ministérielle des ressources humaines. |
+Chef de la mission pour l'innovation en ressources humaines au sein de la mission de gouvernance ministérielle des ressources humaines. |
 
 30 |
+
+- |
+
+1 |
+
+Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouvernance ministérielle des ressources humaines. |
+
+30 |
+
+- |
+
+1 |
+
+Chef de cabinet |
+
+30 |
+
+- |
 
 1 |
 
@@ -282,11 +376,15 @@ Chef du bureau de la domanialité, de l'urbanisme, de la voirie et de l'habitat 
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau de l'emploi territorial et de la protection sociale au sein de la sous-direction des élus locaux et de la fonction publique territoriale. |
 
 30 |
+
+- |
 
 1 |
 
@@ -294,11 +392,15 @@ Chef de cabinet. |
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique |
 
 30 |
+
+- |
 
 1 |
 
@@ -308,11 +410,17 @@ Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'adm
 
 60 |
 
-1 |
+- |
+
+1
+
+|
 
 Chef du bureau des personnels administratifs, techniques et scientifiques au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
 50 |
+
+- |
 
 1 |
 
@@ -320,17 +428,25 @@ Chef du bureau des adjoints de sécurité au sein de la sous-direction de l'admi
 
 50 |
 
+- |
+
 1 |
 
 Chef du département des réserves opérationnelles de la police nationale au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
 60 |
 
+- |
+
 1 |
+
+|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
 30 |
+
+- |
 
 1 |
 
@@ -338,11 +454,15 @@ Chef du bureau de la prévention et de la qualité de vie au travail au sein de 
 
 50 |
 
+- |
+
 1 |
 
 Secrétaire adjoint pour l'administration générale au sein de la direction des ressources et des compétences de la police nationale. |
 
 30 |
+
+- |
 
 1 |
 
@@ -350,11 +470,15 @@ Adjoint au sous-directeur des ressources et des moyens de la direction centrale 
 
 50 |
 
+- |
+
 1 |
 
 Chef de cabinet du directeur général de la police nationale. |
 
 30 |
+
+- |
 
 1 |
 
@@ -362,17 +486,23 @@ Chef de la division de l'organisation des concours et des dispositifs promotionn
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau du pilotage des structures de soutien. |
 
 30 |
 
+- |
+
 1 |
 
-Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale . |
+Chef de la division de la programmation budgétaire à la sous-direction des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale. |
 
 50 |
+
+- |
 
 1 |
 
@@ -380,11 +510,15 @@ Chef de la division de la formation aux fonctions administratives, techniques et
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau des politiques ministérielles de l'enfance et du logement à la sous-direction de l'action sociale et de l'accompagnement du personnel |
 
 30 |
+
+- |
 
 1 |
 
@@ -392,11 +526,15 @@ Chef du pôle administratif et technique à la sous-direction des méthodes et d
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au chef de la division des finances et de la logistique à la sous-direction des ressources humaines et de la logistique de la direction centrale de la sécurité publique. |
 
 20 |
+
+- |
 
 1 |
 
@@ -404,11 +542,15 @@ Chef de la division de la logistique au sein de la sous-direction de la lutte co
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau de la modernisation et de valorisation des ressources humaines à la direction des ressources et des compétences de la police nationale. |
 
 50 |
+
+- |
 
 1 |
 
@@ -418,6 +560,8 @@ Un poste. |
 
 50 |
 
+- |
+
 1 |
 
 Direction générale des outre-mer |
@@ -426,11 +570,15 @@ Chef du bureau des ressources et de la coordination. |
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au chef du bureau du droit public et des affaires institutionnelles à la sous-direction des affaires juridiques et institutionnelles. |
 
 30 |
+
+- |
 
 1 |
 
@@ -438,11 +586,15 @@ Chef du bureau de la dépense de l'Etat à la sous-direction de l'évaluation, d
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau de la vie économique, de l'emploi et de la formation à la sous-direction des politiques publiques. |
 
 30 |
+
+- |
 
 1 |
 
@@ -452,11 +604,15 @@ Chef du département de l'accès à la procédure d'asile au sein de la directio
 
 60 |
 
+- |
+
 1 |
 
 Chef du bureau de la gestion mutualisée des fonds européens au sein du service du pilotage et des systèmes d'information. |
 
 30 |
+
+- |
 
 1 |
 
@@ -464,9 +620,13 @@ Chef du bureau des décrets de naturalisation au sein de la direction de l'accue
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+
+- |
 
 - |
 
@@ -476,9 +636,13 @@ Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers au 
 
 - |
 
+- |
+
 1 |
 
 Chef du bureau de l'appui au pilotage au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+
+- |
 
 - |
 
@@ -488,9 +652,13 @@ Chef du bureau des ressources humaines au sein du service du pilotage et des sys
 
 - |
 
+- |
+
 1 |
 
 Adjoint au chef du bureau de la rétention et de l'éloignement au sein de la sous-direction de la lutte contre l'immigration irrégulière de la direction de l'immigration. |
+
+- |
 
 - |
 
@@ -502,6 +670,8 @@ Responsable des ressources humaines, adjoint au secrétaire général. |
 
 30 |
 
+- |
+
 1 |
 
 Direction générale de la gendarmerie nationale |
@@ -510,11 +680,15 @@ Chef du bureau du personnel civil à la sous-direction de la gestion du personne
 
 50 |
 
+- |
+
 1 |
 
 Adjoint au chef du département de la maîtrise des risques et du contrôle interne à la mission du pilotage et de la performance. |
 
 30 |
+
+- |
 
 1 |
 
@@ -522,23 +696,31 @@ Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagn
 
 20 |
 
+- |
+
 1 |
 
 Chef du bureau de la stratégie de communication interne du service d'information et de relations publiques des armées. |
 
 50 |
 
+- |
+
 1 |
 
-Chef du bureau de la réglementation et de la fonction militaire au sein de la sous direction de la politique des ressources humaines. |
+Chef du bureau de la réglementation et de la fonction militaire au sein de la sous-direction de la politique des ressources humaines. |
 
 30 |
 
+- |
+
 1 |
 
-Adjoint au chef du bureau de l'analyse et de l'anticipation au sein de la sous direction de la politique des ressources humaines. |
+Adjoint au chef du bureau de l'analyse et de l'anticipation au sein de la sous-direction de la politique des ressources humaines. |
 
 20 |
+
+- |
 
 1 |
 
@@ -548,11 +730,15 @@ Chef du bureau de la réglementation du permis de conduire et de l'organisation 
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau national des droits à conduire à la sous-direction de l'éducation routière et du permis de conduire. |
 
 50 |
+
+- |
 
 1 |
 
@@ -560,17 +746,23 @@ Chef du bureau national de l'immatriculation des véhicules à la sous-direction
 
 30 |
 
+- |
+
 1 |
 
 Chef du bureau de la législation et de la réglementation à la sous-direction de la protection des usagers de la route. |
 
 30 |
 
+- |
+
 1 |
 
 Adjoint au chef du département de contrôle automatisé. |
 
 30 |
+
+- |
 
 1 |
 
@@ -579,6 +771,8 @@ Institut national de police scientifique |
 Secrétaire général. |
 
 30 |
+
+- |
 
 1 |
 
@@ -594,13 +788,21 @@ de NBI |
 
 Nombre d'emplois
 
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
 de conseiller
 
 d'administration
 
 de l'intérieur
 
-et de l'outre-mer |
+et de l'outre-mer
+
+(CAIOM) |
 
 SGAMI de la zone de défense et de sécurité Sud. |
 
@@ -608,17 +810,23 @@ Directeur de l'administration générale et des finances. |
 
 60 |
 
+- |
+
 1 |
 
 Directeur des ressources humaines. |
 
 60 |
 
+- |
+
 1 |
 
 Délégué territorial (délégation territoriale de Toulouse). |
 
 50 |
+
+- |
 
 1 |
 
@@ -628,11 +836,15 @@ Directeur de l'administration générale et des finances. |
 
 50 |
 
+- |
+
 1 |
 
 Directeur des ressources humaines. |
 
 50 |
+
+- |
 
 1 |
 
@@ -642,11 +854,15 @@ Directeur de l'administration générale et des finances. |
 
 50 |
 
+- |
+
 1 |
 
 Directeur des ressources humaines. |
 
 60 |
+
+- |
 
 1 |
 
@@ -656,17 +872,23 @@ Directeur de l'administration générale et des finances. |
 
 50 |
 
+- |
+
 1 |
 
 Directeur des ressources humaines. |
 
 50 |
 
+- |
+
 1 |
 
 Délégué régional (délégation régionale de Dijon). |
 
 30 |
+
+- |
 
 1 |
 
@@ -678,15 +900,29 @@ Directeur de l'administration générale et des finances. |
 
 1 |
 
+|
+
 Directeur des ressources humaines. |
 
 60 |
+
+- |
 
 1 |
 
 Chargé de mission auprès du préfet délégué pour la sécurité et de défense. |
 
 60 |
+
+- |
+
+1 |
+
+Adjoint au directeur des ressources humaines |
+
+- |
+
+- |
 
 1 |
 
@@ -696,11 +932,15 @@ Directeur de l'administration générale et des finances. |
 
 60 |
 
+- |
+
 1 |
 
 Directeur des ressources humaines. |
 
 60 |
+
+- |
 
 1 |
 
@@ -716,19 +956,29 @@ de NBI |
 
 Nombre d'emplois
 
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
 de conseiller
 
 d'administration
 
-de l'intérieur et
+de l'intérieur
 
-de l'outre-mer |
+et de l'outre-mer
+
+(CAIOM) |
 
 Service du cabinet |
 
-Chef du bureau des expulsions locatives et de la voie publique. |
+Adjoint au chef de cabinet |
 
 50 |
+
+- |
 
 1 |
 
@@ -738,6 +988,8 @@ Chef du bureau de la protection juridique et de l'assurance. |
 
 50 |
 
+- |
+
 1 |
 
 Direction des finances, de la commande publique et de la performance |
@@ -746,11 +998,15 @@ Chef du centre de services partagés Chorus au sein du bureau du budget de l'Eta
 
 60 |
 
+- |
+
 1 |
 
 Adjoint au chef du bureau du budget de l'Etat, chef du pôle programmation. |
 
 30 |
+
+- |
 
 1 |
 
@@ -760,11 +1016,15 @@ Chef du bureau zonal des rémunérations et des pensions d'Ile-de-France. |
 
 60 |
 
+- |
+
 1 |
 
 Chef du service de la modernisation et de la performance. |
 
 50 |
+
+- |
 
 1 |
 
@@ -772,11 +1032,15 @@ Adjoint au chef du service de gestion des personnels de la police nationale au s
 
 50 |
 
+- |
+
 1 |
 
 Chef du service de gestion des personnels administratifs, techniques et scientifiques au sein de la sous-direction des personnels. |
 
 50 |
+
+- |
 
 1 |
 
@@ -784,19 +1048,33 @@ Chef du service de prospective et de pilotage au sein de la sous-direction des p
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau de la gestion des carrières des gradés, gardiens et adjoints de sécurité au sein de la sous-direction des personnels. |
 
 50 |
 
+- |
+
 1 |
 
-Service des affaires immobilières |
+Direction de l'immobilier et de l'environnement |
 
 Chef du département juridique et budgétaire |
 
 50 |
+
+- |
+
+1 |
+
+Secrétaire général |
+
+50 |
+
+- |
 
 1 |
 
@@ -806,11 +1084,15 @@ Chef du 1er bureau au sein de la sous-direction de la citoyenneté et des libert
 
 60 |
 
+- |
+
 1 |
 
 Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
 
 60 |
+
+- |
 
 1 |
 
@@ -818,11 +1100,15 @@ Chef du 4e bureau au sein de la sous-direction de la citoyenneté et des libert�
 
 50 |
 
+- |
+
 1 |
 
 Chef du 5e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
 
 50 |
+
+- |
 
 1 |
 
@@ -830,11 +1116,15 @@ Chef du 6e bureau au sein de la sous-direction de l'administration des étranger
 
 50 |
 
+- |
+
 1 |
 
 Chef du 7e bureau au sein de la sous-direction de l'administration des étrangers. |
 
 50 |
+
+- |
 
 1 |
 
@@ -842,25 +1132,31 @@ Chef du 8e bureau au sein de la sous-direction de l'administration des étranger
 
 60 |
 
+- |
+
 1 |
 
 Chef du 9e bureau au sein de la sous-direction de l'administration des étrangers. |
 
 50 |
 
+- |
+
 1 |
 
 Chef du 10e bureau au sein de la sous-direction de l'administration des étrangers. |
 
-50 |
+60 |
+
+- |
 
 1 |
-
-|
 
 Chef du 12e bureau au sein de la sous-direction de l'administration des étrangers. |
 
 60 |
+
+- |
 
 1 |
 
@@ -870,11 +1166,17 @@ Chef du bureau des taxis et des transports publics au sein de la sous-direction 
 
 50 |
 
+- |
+
 1 |
 
-Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction de la protection sanitaire et de l'environnement. |
+Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-
+
+direction de la protection sanitaire et de l'environnement. |
 
 50 |
+
+- |
 
 1 |
 
@@ -882,17 +1184,23 @@ Chef du bureau des actions de santé mentale au sein de la sous-direction de la 
 
 50 |
 
+- |
+
 1 |
 
 Chef du bureau des établissements recevant du public au sein de la sous-direction de la sécurité du public. |
 
 50 |
 
+- |
+
 1 |
 
 Secrétaire général. |
 
 30 |
+
+- |
 
 1 |
 
@@ -902,11 +1210,15 @@ Chef du service de gestion opérationnelle des personnels et des équipements au
 
 60 |
 
+- |
+
 1 |
 
 Chef du bureau de gestion opérationnelle au sein de la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis. |
 
 20 |
+
+- |
 
 1 |
 
@@ -916,13 +1228,7 @@ Chef du service des finances, des achats et des moyens, adjoint au sous-directeu
 
 60 |
 
-1 |
-
-Direction de l'ordre public et de la circulation |
-
-Chef de cabinet |
-
-50 |
+- |
 
 1 |
 
@@ -931,6 +1237,8 @@ Direction du renseignement de la préfecture de police |
 Chef de la division des affaires générales |
 
 30 |
+
+- |
 
 1 |
 
@@ -946,19 +1254,29 @@ de NBI |
 
 Nombre d'emplois
 
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
 de conseiller
 
 d'administration
 
-de l'intérieur et
+de l'intérieur
 
-de l'outre-mer |
+et de l'outre-mer
+
+(CAIOM) |
 
 13 DDSP des Bouches-du-Rhône |
 
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -968,6 +1286,8 @@ Chef de la division de la logistique. |
 
 30 |
 
+- |
+
 1 |
 
 14 DDSP du Calvados |
@@ -975,6 +1295,8 @@ Chef de la division de la logistique. |
 Chef de service de gestion opérationnelle |
 
 20 |
+
+- |
 
 1 |
 
@@ -984,6 +1306,8 @@ Adjoint au directeur de l'école nationale de police de Nîmes, responsable du d
 
 20 |
 
+- |
+
 1 |
 
 33 DDSP de la Gironde |
@@ -991,6 +1315,8 @@ Adjoint au directeur de l'école nationale de police de Nîmes, responsable du d
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -1000,6 +1326,8 @@ Chef de service de gestion opérationnelle. |
 
 30 |
 
+- |
+
 1 |
 
 44 DDSP de la Loire-Atlantique |
@@ -1007,6 +1335,8 @@ Chef de service de gestion opérationnelle. |
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -1016,6 +1346,8 @@ Chef de service de gestion opérationnelle |
 
 30 |
 
+- |
+
 1 |
 
 59 DDSP du Nord |
@@ -1023,6 +1355,8 @@ Chef de service de gestion opérationnelle |
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -1032,6 +1366,8 @@ Chef de service de gestion opérationnelle |
 
 30 |
 
+- |
+
 1 |
 
 67 DDSP du Bas-Rhin |
@@ -1039,6 +1375,8 @@ Chef de service de gestion opérationnelle |
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -1048,6 +1386,8 @@ Chef de service de gestion opérationnelle |
 
 50 |
 
+- |
+
 1 |
 
 69 Ecole nationale supérieure de la police |
@@ -1055,6 +1395,8 @@ Chef de service de gestion opérationnelle |
 Secrétaire général |
 
 30 |
+
+- |
 
 1 |
 
@@ -1064,6 +1406,8 @@ Chef de service de gestion opérationnelle |
 
 30 |
 
+- |
+
 1 |
 
 77 DDSP de la Seine-et-Marne |
@@ -1071,6 +1415,8 @@ Chef de service de gestion opérationnelle |
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -1080,6 +1426,8 @@ Chef de service de gestion opérationnelle |
 
 30 |
 
+- |
+
 1 |
 
 91 DDSP de l'Essonne |
@@ -1087,6 +1435,8 @@ Chef de service de gestion opérationnelle |
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
 
 1 |
 
@@ -1096,6 +1446,8 @@ Chef de service de gestion opérationnelle |
 
 30 |
 
+- |
+
 1 |
 
 95 DPAF Roissy |
@@ -1103,6 +1455,8 @@ Chef de service de gestion opérationnelle |
 Chef de la division de l'administration et des finances. |
 
 30 |
+
+- |
 
 1 |
 
@@ -1118,19 +1472,29 @@ de NBI |
 
 Nombre d'emplois
 
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
 de conseiller
 
 d'administration
 
 de l'intérieur
 
-et de l'outre-mer |
+et de l'outre-mer
+
+(CAIOM) |
 
 69 Région zonale de gendarmerie Rhône-Alpes |
 
 Chef du bureau de l'accompagnement du personnel |
 
 30 |
+
+- |
 
 1 |
 
@@ -1140,15 +1504,27 @@ Chef du bureau de l'accompagnement du personnel. |
 
 30 |
 
+- |
+
 1 |
 
 6° Périmètre juridictions administratives
 
-Juridiction administrative |
+Juridiction
+
+administrative |
 
 Fonctions |
 
-Points de NBI |
+Points
+
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
+
+(EFR) |
 
 Nombre d'emplois
 
@@ -1158,13 +1534,17 @@ d'administration
 
 de l'intérieur
 
-et de l'outre-mer |
+et de l'outre-mer
+
+(CAIOM) |
 
 TA de Paris. |
 
 Greffier en chef |
 
 60 |
+
+- |
 
 1 |
 
@@ -1174,6 +1554,8 @@ Greffier en chef |
 
 60 |
 
+- |
+
 1 |
 
 CAA de Bordeaux. |
@@ -1181,6 +1563,8 @@ CAA de Bordeaux. |
 Greffier en chef |
 
 60 |
+
+- |
 
 1 |
 
@@ -1190,6 +1574,8 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 CAA de Versailles. |
@@ -1197,6 +1583,8 @@ CAA de Versailles. |
 Greffier en chef |
 
 50 |
+
+- |
 
 1 |
 
@@ -1206,6 +1594,8 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 CAA de Lyon. |
@@ -1213,6 +1603,8 @@ CAA de Lyon. |
 Greffier en chef |
 
 60 |
+
+- |
 
 1 |
 
@@ -1222,6 +1614,8 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 CAA de Nancy. |
@@ -1229,6 +1623,8 @@ CAA de Nancy. |
 Greffier en chef |
 
 50 |
+
+- |
 
 1 |
 
@@ -1238,6 +1634,8 @@ Greffier en chef |
 
 50 |
 
+- |
+
 1 |
 
 TA de Cergy-Pontoise. |
@@ -1245,6 +1643,8 @@ TA de Cergy-Pontoise. |
 Greffier en chef |
 
 30 |
+
+- |
 
 1 |
 
@@ -1254,6 +1654,8 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 TA de Grenoble. |
@@ -1261,6 +1663,8 @@ TA de Grenoble. |
 Greffier en chef |
 
 30 |
+
+- |
 
 1 |
 
@@ -1270,6 +1674,8 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 CAA de Marseille. |
@@ -1277,6 +1683,8 @@ CAA de Marseille. |
 Greffier en chef |
 
 60 |
+
+- |
 
 1 |
 
@@ -1286,6 +1694,8 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 TA de Montreuil. |
@@ -1294,17 +1704,41 @@ Greffier en chef |
 
 30 |
 
+- |
+
 1 |
 
 7° Périmètre préfectures
 
-Localisation des emplois |
+Localisation
 
-Nombre de postes à forte responsabilité
+des emplois |
 
-ouvrant droit à la NBI par taux de NBI |
+Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
-Nombre d'emplois
+Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
+
+|
+
+Total
+
+du nombre
+
+d'EFR |
+
+60 points |
+
+50 points |
+
+30 points |
+
+20 points |
+
+Total
+
+du nombre
+
+d'emplois
 
 de CAIOM |
 
@@ -1316,17 +1750,31 @@ de CAIOM |
 
 20 points |
 
+Sans point de NBI |
+
 01 Ain |
 
 - |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 02 Aisne |
 
@@ -1334,11 +1782,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 03 Allier |
 
@@ -1346,11 +1806,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 04 Alpes-de-Haute-Provence |
 
@@ -1360,9 +1832,21 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 2 |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
 
 05 Hautes-Alpes |
 
@@ -1372,21 +1856,45 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 06 Alpes-Maritimes |
 
+3 |
+
+- |
+
+3 |
+
+- |
+
 - |
 
 6 |
 
 - |
 
+3 |
+
 - |
 
-6 |
+- |
+
+3 |
 
 07 Ardèche |
 
@@ -1396,9 +1904,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 08 Ardennes |
 
@@ -1408,9 +1928,21 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 4 |
+
+- |
+
+- |
+
+- |
+
+4 |
+
+- |
 
 09 Ariège |
 
@@ -1420,9 +1952,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 10 Aube |
 
@@ -1432,9 +1976,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 11 Aude |
 
@@ -1444,9 +2000,21 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 2 |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
 
 12 Aveyron |
 
@@ -1456,12 +2024,36 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 13 Bouches-du-Rhône |
 
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+10 |
+
 10 |
 
 - |
@@ -1470,7 +2062,7 @@ de CAIOM |
 
 - |
 
-10 |
+- |
 
 14 Calvados |
 
@@ -1478,11 +2070,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 15 Cantal |
 
@@ -1492,9 +2096,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 16 Charente |
 
@@ -1502,11 +2118,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 17 Charente-Maritime |
 
@@ -1514,11 +2142,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 18 Cher |
 
@@ -1528,9 +2168,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 19 Corrèze |
 
@@ -1540,9 +2192,21 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 2 |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
 
 2A Corse-du-Sud |
 
@@ -1550,11 +2214,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 2B Haute-Corse |
 
@@ -1562,11 +2238,23 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 - |
 
 2 |
+
+- |
+
+- |
+
+2 |
+
+- |
+
+- |
 
 21 Côte-d'Or |
 
@@ -1574,11 +2262,23 @@ de CAIOM |
 
 - |
 
-5 |
+- |
+
+- |
 
 - |
 
 5 |
+
+- |
+
+- |
+
+5 |
+
+- |
+
+- |
 
 22 Côtes-d'Armor |
 
@@ -1586,11 +2286,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 23 Creuse |
 
@@ -1600,9 +2312,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 24 Dordogne |
 
@@ -1610,11 +2334,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 25 Doubs |
 
@@ -1622,11 +2358,23 @@ de CAIOM |
 
 - |
 
-5 |
+- |
+
+- |
 
 - |
 
 5 |
+
+- |
+
+- |
+
+5 |
+
+- |
+
+- |
 
 26 Drôme |
 
@@ -1634,11 +2382,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 27 Eure |
 
@@ -1646,11 +2406,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 28 Eure-et-Loir |
 
@@ -1658,13 +2430,37 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
 
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
+
 29 Finistère |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+5 |
 
 - |
 
@@ -1674,11 +2470,17 @@ de CAIOM |
 
 - |
 
-5 |
+- |
 
 30 Gard |
 
+2 |
+
 - |
+
+- |
+
+2 |
 
 - |
 
@@ -1686,19 +2488,37 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+2 |
+
+- |
+
+2 |
 
 31 Haute-Garonne |
 
+4 |
+
+- |
+
+4 |
+
+- |
+
 - |
 
 7 |
 
 - |
 
+3 |
+
 - |
 
-7 |
+- |
+
+4 |
 
 32 Gers |
 
@@ -1708,23 +2528,59 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 33 Gironde |
 
+2 |
+
+- |
+
+2 |
+
+- |
+
 - |
 
 7 |
 
 - |
 
+5 |
+
 - |
 
-7 |
+- |
+
+2 |
 
 34 Hérault |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+6 |
 
 - |
 
@@ -1734,7 +2590,7 @@ de CAIOM |
 
 - |
 
-6 |
+- |
 
 35 Ille-et-Vilaine |
 
@@ -1742,11 +2598,23 @@ de CAIOM |
 
 - |
 
-7 |
+- |
+
+- |
 
 - |
 
 7 |
+
+- |
+
+- |
+
+7 |
+
+- |
+
+- |
 
 36 Indre |
 
@@ -1756,9 +2624,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 37 Indre-et-Loire |
 
@@ -1766,13 +2646,37 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
 
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
+
 38 Isère |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+6 |
 
 - |
 
@@ -1782,7 +2686,7 @@ de CAIOM |
 
 - |
 
-6 |
+- |
 
 39 Jura |
 
@@ -1792,9 +2696,21 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 4 |
+
+- |
+
+- |
+
+- |
+
+4 |
+
+- |
 
 40 Landes |
 
@@ -1804,9 +2720,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 41 Loir-et-Cher |
 
@@ -1816,9 +2744,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 42 Loire |
 
@@ -1826,11 +2766,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 43 Haute-Loire |
 
@@ -1840,21 +2792,45 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 44 Loire-Atlantique |
 
+1 |
+
+- |
+
+1 |
+
+- |
+
 - |
 
 8 |
 
 - |
 
+7 |
+
 - |
 
-8 |
+- |
+
+1 |
 
 45 Loiret |
 
@@ -1862,11 +2838,23 @@ de CAIOM |
 
 - |
 
-5 |
+- |
+
+- |
 
 - |
 
 5 |
+
+- |
+
+- |
+
+5 |
+
+- |
+
+- |
 
 46 Lot |
 
@@ -1876,9 +2864,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+|
 
 47 Lot-et-Garonne |
 
@@ -1888,9 +2888,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 48 Lozère |
 
@@ -1900,9 +2912,21 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 2 |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
 
 49 Maine-et-Loire |
 
@@ -1910,11 +2934,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 50 Manche |
 
@@ -1922,11 +2958,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 51 Marne |
 
@@ -1934,11 +2982,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 52 Haute-Marne |
 
@@ -1948,9 +3008,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 53 Mayenne |
 
@@ -1960,9 +3032,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 54 Meurthe-et-Moselle |
 
@@ -1970,11 +3054,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 55 Meuse |
 
@@ -1984,11 +3080,35 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 56 Morbihan |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+4 |
 
 - |
 
@@ -1998,9 +3118,21 @@ de CAIOM |
 
 - |
 
-4 |
+- |
 
 57 Moselle |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+7 |
 
 - |
 
@@ -2010,7 +3142,7 @@ de CAIOM |
 
 - |
 
-7 |
+- |
 
 58 Nièvre |
 
@@ -2020,11 +3152,35 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 59 Nord |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+12 |
 
 10 |
 
@@ -2034,7 +3190,7 @@ de CAIOM |
 
 - |
 
-12 |
+- |
 
 60 Oise |
 
@@ -2042,11 +3198,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 61 Orne |
 
@@ -2056,11 +3224,35 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 62 Pas-de-Calais |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+7 |
 
 - |
 
@@ -2070,7 +3262,7 @@ de CAIOM |
 
 - |
 
-7 |
+- |
 
 63 Puy-de-Dôme |
 
@@ -2078,13 +3270,37 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
 
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
+
 64 Pyrénées Atlantiques |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+4 |
 
 - |
 
@@ -2094,7 +3310,7 @@ de CAIOM |
 
 - |
 
-4 |
+- |
 
 65 Hautes-Pyrénées |
 
@@ -2104,9 +3320,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 66 Pyrénées-Orientales |
 
@@ -2114,25 +3342,61 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 67 Bas-Rhin |
 
 - |
 
-8 |
+- |
+
+- |
 
 - |
 
 - |
 
 8 |
+
+- |
+
+8 |
+
+- |
+
+- |
+
+- |
 
 68 Haut-Rhin |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+4 |
 
 - |
 
@@ -2142,9 +3406,21 @@ de CAIOM |
 
 - |
 
-4 |
+- |
 
 69 Rhône |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+8 |
 
 7 |
 
@@ -2154,7 +3430,7 @@ de CAIOM |
 
 - |
 
-8 |
+- |
 
 70 Haute-Saône |
 
@@ -2164,9 +3440,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 71 Saône-et-Loire |
 
@@ -2174,11 +3462,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 72 Sarthe |
 
@@ -2186,11 +3486,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 73 Savoie |
 
@@ -2198,11 +3510,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 74 Haute-Savoie |
 
@@ -2210,25 +3534,61 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
 
-75 Ile-de-France et Paris |
+- |
+
+- |
 
 3 |
 
-2 |
+- |
 
-2 |
+- |
+
+75 Ile-de-France et Paris |
+
+- |
+
+- |
+
+- |
+
+- |
 
 - |
 
 7 |
 
+3 |
+
+2 |
+
+2 |
+
+- |
+
+- |
+
 76 Seine-Maritime |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+8 |
 
 - |
 
@@ -2238,10 +3598,22 @@ de CAIOM |
 
 - |
 
-8 |
+- |
 
 77 Seine-et-Marne |
 
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+7 |
+
 7 |
 
 - |
@@ -2250,11 +3622,23 @@ de CAIOM |
 
 - |
 
-7 |
+- |
 
 78 Yvelines |
 
-5 |
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+8 |
+
+4 |
 
 - |
 
@@ -2262,7 +3646,7 @@ de CAIOM |
 
 - |
 
-8 |
+1 |
 
 79 Deux-Sèvres |
 
@@ -2270,11 +3654,23 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
+
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
 
 80 Somme |
 
@@ -2282,11 +3678,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 81 Tarn |
 
@@ -2294,11 +3702,23 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 - |
 
 2 |
+
+- |
+
+- |
+
+2 |
+
+- |
+
+- |
 
 82 Tarn-et-Garonne |
 
@@ -2308,9 +3728,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 83 Var |
 
@@ -2318,11 +3750,23 @@ de CAIOM |
 
 - |
 
-5 |
+- |
+
+- |
 
 - |
 
 5 |
+
+- |
+
+- |
+
+5 |
+
+- |
+
+- |
 
 84 Vaucluse |
 
@@ -2330,13 +3774,37 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 - |
 
 3 |
 
+- |
+
+- |
+
+3 |
+
+- |
+
+- |
+
 85 Vendée |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+4 |
 
 - |
 
@@ -2346,7 +3814,7 @@ de CAIOM |
 
 1 |
 
-4 |
+- |
 
 86 Vienne |
 
@@ -2354,11 +3822,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 87 Haute-Vienne |
 
@@ -2366,11 +3846,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 88 Vosges |
 
@@ -2378,11 +3870,23 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 - |
 
 2 |
+
+- |
+
+- |
+
+2 |
+
+- |
+
+- |
 
 89 Yonne |
 
@@ -2392,9 +3896,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 90 Territoire de Belfort |
 
@@ -2404,12 +3920,36 @@ de CAIOM |
 
 - |
 
-2 |
+- |
+
+- |
 
 2 |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
 
 91 Essonne |
 
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+7 |
+
 7 |
 
 - |
@@ -2418,10 +3958,22 @@ de CAIOM |
 
 - |
 
-7 |
+- |
 
 92 Hauts-de-Seine |
 
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+7 |
+
 5 |
 
 - |
@@ -2430,11 +3982,13 @@ de CAIOM |
 
 - |
 
-7 |
+- |
 
 93 Seine-Saint-Denis |
 
-7 |
+1 |
+
+1 |
 
 - |
 
@@ -2443,8 +3997,30 @@ de CAIOM |
 - |
 
 7 |
+
+6 |
+
+- |
+
+- |
+
+- |
+
+1 |
 
 94 Val-de-Marne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+7 |
 
 5 |
 
@@ -2454,9 +4030,21 @@ de CAIOM |
 
 - |
 
-7 |
+- |
 
 95 Val-d'Oise |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+6 |
 
 5 |
 
@@ -2466,7 +4054,7 @@ de CAIOM |
 
 - |
 
-6 |
+- |
 
 971 Guadeloupe |
 
@@ -2474,11 +4062,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 977/978 Préfecture de Saint-Barthélemy et de Saint-Martin |
 
@@ -2488,9 +4088,21 @@ de CAIOM |
 
 - |
 
-1 |
+- |
+
+- |
 
 1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
 
 972 Martinique |
 
@@ -2498,11 +4110,23 @@ de CAIOM |
 
 - |
 
-5 |
+- |
+
+- |
 
 - |
 
 5 |
+
+- |
+
+- |
+
+5 |
+
+- |
+
+- |
 
 973 Guyane |
 
@@ -2510,11 +4134,23 @@ de CAIOM |
 
 - |
 
-4 |
+- |
+
+- |
 
 - |
 
 4 |
+
+- |
+
+- |
+
+4 |
+
+- |
+
+- |
 
 974 Réunion |
 
@@ -2522,11 +4158,23 @@ de CAIOM |
 
 - |
 
-5 |
+- |
+
+- |
 
 - |
 
 5 |
+
+- |
+
+- |
+
+5 |
+
+- |
+
+- |
 
 975 Saint-Pierre-et-Miquelon |
 
@@ -2536,9 +4184,21 @@ de CAIOM |
 
 - |
 
-1 |
+- |
+
+- |
 
 1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
 
 976 Mayotte |
 
@@ -2548,9 +4208,21 @@ de CAIOM |
 
 - |
 
-3 |
+- |
+
+- |
 
 3 |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+- |
 
 987 Polynésie française |
 
@@ -2558,13 +4230,7 @@ de CAIOM |
 
 - |
 
-2 |
-
 - |
-
-2 |
-
-988 Nouvelle-Calédonie |
 
 - |
 
@@ -2574,4 +4240,36 @@ de CAIOM |
 
 - |
 
+- |
+
 2 |
+
+- |
+
+- |
+
+988 Nouvelle-
+
+Calédonie |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
+
+- |
+
+2 |
+
+- |
+
+- |
