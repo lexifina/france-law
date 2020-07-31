@@ -478,6 +478,18 @@ Les pilotes non titulaires de la qualification montagne devront se conformer aux
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
+L’Ermitage |
+
+La Réunion |
+
+Cette hélistation est réservée :
+
+-aux aéronefs basés, ainsi qu'aux aéronefs non-basés sous conditions contractualisées avec l'exploitant ;
+
+-aux vols à vue de jour.
+
+|
+
 La Désirade |
 
 Guadeloupe |
