@@ -484,9 +484,9 @@ La Réunion |
 
 Cette hélistation est réservée :
 
--aux aéronefs basés, ainsi qu'aux aéronefs non-basés sous conditions contractualisées avec l'exploitant ;
+- aux aéronefs basés, ainsi qu'aux aéronefs non-basés sous conditions contractualisées avec l'exploitant ;
 
--aux vols à vue de jour.
+- aux vols à vue de jour.
 
 |
 
@@ -989,14 +989,6 @@ Cet aérodrome est réservé :
 6° aux aéronefs légers basés sur les aérodromes voisins dans un rayon de quatre-vingt milles nautiques ;
 
 7° aux activités particulières qui sont autorisées par le directeur de l'aérodrome, sous réserve de la compatibilité des caractéristiques de l'aéronef considéré avec les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
-
-Sallanches-Mont-Blanc |
-
-Haute-Savoie |
-
-L'activité des avions et des planeurs est autorisée sur l'aérodrome pour les pilotes ayant été reconnus aptes par un instructeur, ou détenant la qualification montagne.
-
-L'activité des aérodynes ultralégers motorisés et des hélicoptères est autorisée sur l'aérodrome. |
 
 Salon
 
