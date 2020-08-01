@@ -1,14 +1,14 @@
 # Article 220 quindecies
 
-I. – Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, et soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
+I. – Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, et soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical, de théâtre ou de variétés mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
 
 1° Avoir la responsabilité du spectacle, notamment celle d'employeur à l'égard du plateau artistique. Dans le cas d'une coproduction, cette condition est remplie par l'un des coproducteurs au moins ;
 
 2° Supporter le coût de la création du spectacle.
 
-II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation d'un spectacle musical remplissant les conditions cumulatives suivantes :
+II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation d'un spectacle musical, de théâtre ou de variétés remplissant les conditions cumulatives suivantes :
 
-1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation d'un spectacle musical ;
+1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation d'un spectacle musical, de théâtre ou de variétés ;
 
 2° Porter sur un spectacle présentant les caractéristiques suivantes :
 
@@ -74,4 +74,4 @@ IX. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au res
 
 NOTA :
 
-Conformément à l’article 147 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux demandes d'agréments provisoires prévus au VI de l'article 220 quindecies du code général des impôts déposées à compter du 1er janvier 2019.
+Se reporter aux conditions d'application prévues aux II à IV des articles 37 et 38 de la loi n° 2020-935 du 30 juillet 2020.
