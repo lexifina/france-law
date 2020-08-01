@@ -70,7 +70,7 @@ Chef du service central de la police technique et scientifique, préfigurateur d
 
 Préfecture de police : Direction de l'ordre public et de la circulation :
 
-Directeur adjoint de l'ordre public et de la circulation, chef de l'état-major.
+Directeur adjoint de l'ordre public et de la circulation.
 
 Préfecture de police : Direction de la sécurité de proximité de l'agglomération parisienne :
 
@@ -264,7 +264,7 @@ Sous-directeur de l'ordre public de l'agglomération parisienne.
 
 Sous-directeur de la gestion opérationnelle.
 
-Chef d'état-major adjoint.
+Chef d'état-major.
 
 Préfecture de police : Direction de la sécurité de proximité de l'agglomération parisienne :
 
@@ -292,7 +292,7 @@ Sous-directeur chargé des services territoriaux.
 
 Préfecture de police : Direction du renseignement :
 
-Sous-directeur chargé du renseignement territorial de l'agglomération parisienne.
+Sous-directeur chargé du renseignement territorial.
 
 Préfecture de police-Divers :
 
