@@ -85,3 +85,17 @@ Méthode de mesure :
 ― déplacer la sonde ou la cellule de l'appareil de mesure sur la largeur de la chaudière à environ 50 centimètres de sa face avant, pendant au moins 30 secondes ;
 
 ― la valeur indiquée par l'appareil de mesure est obligatoirement notée sur le bulletin de visite.
+
+6. Pour les systèmes de distribution par boucle d'eau :
+
+Le contrôle du circuit hydraulique doit être réalisé et comporte a minima les opérations suivantes :
+
+― contrôle de l'embouement ;
+
+― purge des bulles d'air du circuit lorsque le purgeur est fonctionnel et accessible ;
+
+― contrôle de la pression ;
+
+― vérification du fonctionnement du circulateur ;
+
+― contrôle de la pression de gonflage des vases d'expansion avec regonflage si nécessaire.

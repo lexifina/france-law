@@ -16,193 +16,129 @@ Tableau 4
 
 Evaluation des émissions d'oxydes d'azote des chaudières gaz
 
-|
+Système en place |
 
 FACTEUR D'ÉMISSION DE NOx
 
-(mg / kWh à 0 % d'O2)
+(mg/ kWh à 0 % d'O2) |
 
-|
+Chaudière ancienne (avant 1990, équipée de brûleur atmosphérique) |
 
-Chaudière ancienne (avant 1990, équipée de brûleur atmosphérique)
+300 |
 
-|
+Chaudière avec brûleur atmosphérique (prémélange partiel) |
 
-300
+170 |
 
-|
+Chaudière avec brûleur atmosphérique à barres de refroidissement |
 
-Chaudière avec brûleur atmosphérique (prémélange partiel)
+130 |
 
-|
+Chaudière avec brûleur atmosphérique à prémélange total avec ventilateur refroidi par eau |
 
-170
+50 |
 
-|
+Chaudière avec brûleur atmosphérique à prémélange total sans ventilateur |
 
-Chaudière avec brûleur atmosphérique à barres de refroidissement
+45 |
 
-|
+Chaudière avec brûleur atmosphérique " surfacique " à prémélange total assisté par ventilateur |
 
-130
+35 |
 
-|
+Chaudière avec brûleur radiant, combustion catalytique et pulsatoire |
 
-Chaudière avec brûleur atmosphérique à prémélange total avec ventilateur refroidi par eau
+< 30 |
 
-|
+Classification selon les normes européennes des chaudières de chauffage central utilisant les combustibles gazeux : |
 
-50
+Classe 1 : 260 |
 
-|
+EN 297/ A3 (février 97). ― Chaudières de chauffage central utilisant les combustibles gazeux : chaudières des types B11 et B11BS équipées de brûleurs atmosphériques dont le débit calorifique nominal est inférieur ou égal à 70 kW |
 
-Chaudière avec brûleur atmosphérique à prémélange total sans ventilateur
+Classe 2 : 200 |
 
-|
+Classe 3 : 150 |
 
-45
+EN 483 (avril 2000) ― Chaudières de chauffage central utilisant les combustibles gazeux : chaudières des types C dont le débit calorifique nominal est inférieur ou égal à 70 kW. |
 
-|
+Classe 4 : 100 |
 
-Chaudière avec brûleur atmosphérique surfacique à prémélange total assisté par ventilateur
+EN 656 (mai 2000). ― Chaudières de chauffage central utilisant les combustibles gazeux : chaudières de type B dont le débit calorifique nominal est supérieur à 70 kW mais inférieur ou égal à 300 kW.
 
-|
+EN 13836 (janvier 2006). ― Chaudières de chauffage central utilisant les combustibles gazeux : chaudières de type B dont le débit calorifique nominal est supérieur à 300 kW mais inférieur ou égal à 1 000 kW |
 
-35
+Classe 5 : 70 |
 
-|
+Chaudière avec brûleur à air soufflé classique |
 
-Chaudière avec brûleur radiant, combustion catalytique et pulsatoire
+130 |
 
-|
+Chaudière avec brûleur à air soufflé bas-NOx |
 
-< 30
+90 |
 
-|
+Classification selon les normes européennes des assemblages brûleurs à air soufflé et corps de chauffe : |
 
-Classification selon les normes européennes des chaudières de chauffage central utilisant les combustibles gazeux :
+Classe 1 : 170 |
 
-EN 297 / A3 (février 97).-Chaudières de chauffage central utilisant les combustibles gazeux : chaudières des types B11 et B11BS équipées de brûleurs atmosphériques dont le débit calorifique nominal est inférieur ou égal à 70 kW
+EN 676 (mars 2004). ― Brûleurs automatiques à air soufflé pour combustibles gazeux |
 
-EN 483 (avril 2000)-Chaudières de chauffage central utilisant les combustibles gazeux : chaudières des types C dont le débit calorifique nominal est inférieur ou égal à 70 kW.
+Classe 2 : 120 |
 
-EN 656 (mai 2000).-Chaudières de chauffage central utilisant les combustibles gazeux : chaudières de type B dont le débit calorifique nominal est supérieur à 70 kW mais inférieur ou égal à 300 kW.
+EN 303-7 (décembre 2006). ― Chaudières de chauffage central équipées d'un brûleur à air soufflé utilisant des combustibles gazeux de puissance utile inférieure ou égale à 1 000 kW |
 
-EN 13836 (janvier 2006).-Chaudières de chauffage central utilisant les combustibles gazeux : chaudières de type B dont le débit calorifique nominal est supérieur à 300 kW mais inférieur ou égal à 1 000 kW
+Classe 3 : 80 |
 
-|
+Chaudières mises sur le marché à partir du 26 septembre 2018 |
 
-Classe 1 : 260
-
-Classe 2 : 200
-
-Classe 3 : 150
-
-Classe 4 : 100
-
-Classe 5 : 70
-
-|
-
-Chaudière avec brûleur à air soufflé classique
-
-|
-
-130
-
-|
-
-Chaudière avec brûleur à air soufflé bas-NOx
-
-|
-
-90
-
-|
-
-Classification selon les normes européennes des assemblages brûleurs à air soufflé et corps de chauffe :
-
-EN 676 (mars 2004).-Brûleurs automatiques à air soufflé pour combustibles gazeux
-
-EN 303-7 (décembre 2006).-Chaudières de chauffage central équipées d'un brûleur à air soufflé utilisant des combustibles gazeux de puissance utile inférieure ou égale à 1 000 kW
-
-|
-
-Classe 1 : 170
-
-Classe 2 : 120
-
-Classe 3 : 80
-
-|
+56 |
 
 Tableau 5
 
 Evaluation des émissions d'oxydes d'azote des chaudières fioul
 
-|
+Type de chaudière |
 
 FACTEUR D'ÉMISSION DE NOx
 
-(mg / kWh à 0 % d'O2)
+(mg/ kWh à 0 % d'O2) |
 
-|
+Chaudière ancienne (avant 1990) |
 
-Chaudière ancienne (avant 1990)
+170 |
 
-|
-
-170
-
-|
-
-Chaudière avec brûleur flamme jaune
-
-|
+Chaudière avec brûleur flamme jaune |
 
 140 (P < 150 kW)
 
-210 (P 150 kW)
+210 (P 150 kW) |
 
-|
-
-Chaudière avec brûleur flamme jaune à recirculation
-
-|
+Chaudière avec brûleur flamme jaune à recirculation |
 
 120 (P < 150 kW)
 
-180 (P 150 kW)
+180 (P 150 kW) |
 
-|
+Chaudière avec brûleur flamme bleue |
 
-Chaudière avec brûleur flamme bleue
+90 |
 
-|
+Chaudière avec brûleur radiant " Rotrix " |
 
-90
+60 |
 
-|
+Classification selon la norme européenne des chaudières de chauffage avec brûleurs à air soufflé : |
 
-Chaudière avec brûleur radiant Rotrix
+Classe 1 : 185 |
 
-|
+EN 303 (2 juillet 1999). ― Chaudières de chauffage. Partie 2 : Chaudières avec brûleurs à air soufflé. Prescriptions spéciales pour chaudières avec brûleurs fioul à pulvérisation |
 
-60
+Classes 2 et 3 : 120 |
 
-|
+Chaudières mises sur le marché à partir du 26 septembre 2018 |
 
-Classification selon la norme européenne des chaudières de chauffage avec brûleurs à air soufflé :
-
-EN 303 (2 juillet 1999).-Chaudières de chauffage. Partie 2 : Chaudières avec brûleurs à air soufflé. Prescriptions spéciales pour chaudières avec brûleurs fioul à pulvérisation
-
-|
-
-Classe 1 : 185
-
-Classes 2 et 3 : 120
-
-|
+120 |
 
 1. 2. Combustibles solides :
 
@@ -214,175 +150,109 @@ Evaluation des émissions de poussières
 
 des chaudières utilisant un combustible solide
 
-ANCIENNETÉ CHAUDIÈRE
-
-|
+ANCIENNETÉ CHAUDIÈRE |
 
 TYPE CHAUDIÈRE /
 
-Combustible
-
-|
+Combustible |
 
 ÉMISSION DE POUSSIÈRES
 
-(en mg / Nm ³ à 10 % d'O2)
+(en mg / Nm ³ à 10 % d'O2) |
 
-|
+Jusqu'en 1995 |
 
-Jusqu'en 1995
+Bois de bûches
+
+Tirage naturel |
+
+600 |
 
 |
 
 Bois de bûches
 
-Tirage naturel
+Combustion assistée par ventilateur |
 
-|
+250 |
 
-600
+Entre 1996 et 2004 |
 
-|
+Bois de bûches
+
+Tirage naturel |
+
+200 |
 
 |
 
 Bois de bûches
 
-Combustion assistée par ventilateur
+Combustion assistée par ventilateur |
+
+230 |
 
 |
 
-250
+Granulés de bois |
 
-|
+80 |
 
-Entre 1996 et 2004
+Depuis 2005 |
+
+Bois de bûches
+
+Tirage naturel |
+
+50 |
 
 |
 
 Bois de bûches
 
-Tirage naturel
+Combustion assistée par ventilateur |
+
+50 |
 
 |
 
-200
+Granulés de bois |
+
+30 |
 
 |
+
+Bois déchiqueté |
+
+75 |
+
+Chaudières 2009 |
+
+Bois de bûches
+
+Tirage naturel |
+
+45 |
 
 |
 
 Bois de bûches
 
-Combustion assistée par ventilateur
+Combustion assistée par ventilateur |
+
+30 |
 
 |
 
-230
+Granulés de bois |
+
+30 |
 
 |
 
-|
+Bois déchiqueté |
 
-Granulés de bois
-
-|
-
-80
-
-|
-
-Depuis 2005
-
-|
-
-Bois de bûches
-
-Tirage naturel
-
-|
-
-50
-
-|
-
-|
-
-Bois de bûches
-
-Combustion assistée par ventilateur
-
-|
-
-50
-
-|
-
-|
-
-Granulés de bois
-
-|
-
-30
-
-|
-
-|
-
-Bois déchiqueté
-
-|
-
-75
-
-|
-
-Chaudières 2009
-
-|
-
-Bois de bûches
-
-Tirage naturel
-
-|
-
-45
-
-|
-
-|
-
-Bois de bûches
-
-Combustion assistée par ventilateur
-
-|
-
-30
-
-|
-
-|
-
-Granulés de bois
-
-|
-
-30
-
-|
-
-|
-
-Bois déchiqueté
-
-|
-
-60
-
-|
+60 |
 
 Tableau 7
 
@@ -390,175 +260,109 @@ Evaluation des émissions de composés organiques
 
 volatils des chaudières utilisant un combustible solide
 
-ANCIENNETÉ CHAUDIÈRE
-
-|
+ANCIENNETÉ CHAUDIÈRE |
 
 TYPE CHAUDIÈRE /
 
-Combustible
-
-|
+Combustible |
 
 ÉMISSION DE COV
 
-(en mg C3H8 / Nm ³ à 10 % d'O2)
+(en mg C3H8 / Nm ³ à 10 % d'O2) |
 
-|
+Jusqu'en 1995 |
 
-Jusqu'en 1995
+Bois de bûches
+
+Tirage naturel |
+
+4 000 |
 
 |
 
 Bois de bûches
 
-Tirage naturel
+Combustion assistée par ventilateur |
 
-|
+600 |
 
-4 000
+Entre 1996 et 2004 |
 
-|
+Bois de bûches
+
+Tirage naturel |
+
+2 500 |
 
 |
 
 Bois de bûches
 
-Combustion assistée par ventilateur
+Combustion assistée par ventilateur |
+
+600 |
 
 |
 
-600
+Granulés de bois |
 
-|
+100 |
 
-Entre 1996 et 2004
+Depuis 2005 |
+
+Bois de bûches
+
+Tirage naturel |
+
+2 500 |
 
 |
 
 Bois de bûches
 
-Tirage naturel
+Combustion assistée par ventilateur |
+
+600 |
 
 |
 
-2 500
+Granulés de bois |
+
+40 |
 
 |
+
+Bois déchiqueté |
+
+20 |
+
+Chaudières 2009 |
+
+Bois de bûches
+
+Tirage naturel |
+
+130 |
 
 |
 
 Bois de bûches
 
-Combustion assistée par ventilateur
+Combustion assistée par ventilateur |
+
+55 |
 
 |
 
-600
+Granulés de bois |
+
+10 |
 
 |
 
-|
+Bois déchiqueté |
 
-Granulés de bois
-
-|
-
-100
-
-|
-
-Depuis 2005
-
-|
-
-Bois de bûches
-
-Tirage naturel
-
-|
-
-2 500
-
-|
-
-|
-
-Bois de bûches
-
-Combustion assistée par ventilateur
-
-|
-
-600
-
-|
-
-|
-
-Granulés de bois
-
-|
-
-40
-
-|
-
-|
-
-Bois déchiqueté
-
-|
-
-20
-
-|
-
-Chaudières 2009
-
-|
-
-Bois de bûches
-
-Tirage naturel
-
-|
-
-130
-
-|
-
-|
-
-Bois de bûches
-
-Combustion assistée par ventilateur
-
-|
-
-55
-
-|
-
-|
-
-Granulés de bois
-
-|
-
-10
-
-|
-
-|
-
-Bois déchiqueté
-
-|
-
-10
-
-|
+10 |
 
 2. Définition des valeurs de référence :
 
@@ -572,92 +376,50 @@ Tableau relatif aux valeurs de référence
 
 TYPE
 
-DE COMBUSTIBLE UTILISÉ
+DE COMBUSTIBLE UTILISÉ |
 
-|
+POLLUANT |
 
-POLLUANT
+ÉMISSION DE RÉFÉRENCE |
 
-|
+UNITÉ |
 
-ÉMISSION DE RÉFÉRENCE
+Combustible gazeux |
 
-|
+Oxydes d'azote (NOx) |
 
-UNITÉ
+35 |
 
-|
+mg / kWh à 0 % d'O2 |
 
-Combustible gazeux
+Combustible liquide |
 
-|
+Oxydes d'azote (NOx) |
 
-Oxydes d'azote (NOx)
+90 |
 
-|
+mg / kWh à 0 % d'O2 |
 
-35
+Combustible solide |
 
-|
+Poussières |
 
-mg / kWh à 0 % d'O2
+30 |
 
-|
+mg / Nm ³ à 10 % d'O2 |
 
-Combustible liquide
+Combustible solide |
 
-|
+COV |
 
-Oxydes d'azote (NOx)
+10 pour les granulés de bois et le bois déchiqueté |
 
-|
-
-90
-
-|
-
-mg / kWh à 0 % d'O2
-
-|
-
-Combustible solide
-
-|
-
-Poussières
-
-|
-
-30
-
-|
-
-mg / Nm ³ à 10 % d'O2
-
-|
-
-Combustible solide
-
-|
-
-COV
-
-|
-
-10 pour les granulés de bois et le bois déchiqueté
-
-|
-
-mg C3H8 / Nm ³ à 10 % d'O2
+mg C3H8 / Nm ³ à 10 % d'O2 |
 
 |
 
 |
 
-|
-
-55 pour les bois de bûches
-
-|
+55 pour les bois de bûches |
 
 |
