@@ -1,0 +1,5 @@
+# Article 1er
+
+Les organisations soussignées, soulignent l'importance de la promotion des dispositifs de formation professionnelle et de développement de l'emploi et des compétences mis en place dans la branche.
+
+Elles conviennent que le présent accord est applicable à l'ensemble des employeurs, sièges et établissements relevant du champ de la convention collective nationale des services de l'automobile, quel que soit leur effectif, y compris les entreprises et établissements de moins de 50 salariés.
