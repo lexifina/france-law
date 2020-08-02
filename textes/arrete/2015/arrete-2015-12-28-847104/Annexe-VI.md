@@ -4,23 +4,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
-Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (7 emplois)
+-Chargé de fonction au bureau du cabinet du directeur général de la gendarmerie nationale (7 emplois)
 
-Chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi)
+-Chargé de fonction auprès du commandement de la direction des opérations et de l'emploi (1 emploi)
 
-Chargé de fonction auprès du commandement de la direction des personnels militaires de la gendarmerie nationale (1 emploi)
+-Chargé de fonction auprès du commandement de la direction des personnels militaires de la gendarmerie nationale (1 emploi)
 
-Chef du service de diffusion de la gendarmerie
+-Chef du service de diffusion de la gendarmerie
 
 2° Inspection générale de la gendarmerie nationale :
 
-Chef de cabinet
+-Chef de cabinet
 
 3° Gendarmerie départementale :
 
-Commandant de la compagnie fluviale de gendarmerie de Strasbourg
+-Commandant de la compagnie fluviale de gendarmerie de Strasbourg
 
-Commandant en second de la compagnie de gendarmerie départementale :
+-Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Aix-en-Provence
 
@@ -232,9 +232,9 @@ Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Vitré
 
-Commandant de la section de recherches de Bourges
+-Commandant de la section de recherches de Bourges
 
-Commandant de l'escadron départemental de sécurité routière :
+-Commandant de l'escadron départemental de sécurité routière :
 
 -de l'Allier
 
@@ -310,9 +310,7 @@ Commandant de l'escadron départemental de sécurité routière :
 
 -des Yvelines
 
-Commandant de brigade interdépartementale de renseignements et d'investigations judiciaires de la région de gendarmerie d'Ile-de-France
-
-Commandant de la section d'appui judiciaire située au chef-lieu des régions de gendarmerie :
+-Commandant de la section d'appui judiciaire située au chef-lieu des régions de gendarmerie :
 
 -de Nouvelle-Aquitaine
 
@@ -332,25 +330,25 @@ Commandant de la section d'appui judiciaire située au chef-lieu des régions de
 
 -d'Auvergne-Rhône-Alpes
 
-Commandant de la section d'appui judiciaire située au chef-lieu du groupement de gendarmerie ayant le statut de formation administrative de l'Hérault
+-Commandant de la section d'appui judiciaire située au chef-lieu du groupement de gendarmerie ayant le statut de formation administrative de l'Hérault
 
-Commandant d'un peloton de gendarmerie de haute montagne
+-Commandant d'un peloton de gendarmerie de haute montagne
 
-Chef d'un service départemental du renseignement territorial
+-Chef d'un service départemental du renseignement territorial
 
-Commandant d'un peloton spécialisé de protection de la gendarmerie
+-Commandant d'un peloton spécialisé de protection de la gendarmerie
 
-Commandant d'un peloton spécial de sécurité
+-Commandant d'un peloton spécial de sécurité
 
 4° Gendarmerie mobile-Garde républicaine :
 
-Commandant en second d'un groupement de gendarmerie mobile
+-Commandant en second d'un groupement de gendarmerie mobile
 
-Commandant d'un escadron de gendarmerie mobile
+-Commandant d'un escadron de gendarmerie mobile
 
-Commandant en second d'un régiment de la garde républicaine
+-Commandant en second d'un régiment de la garde républicaine
 
-Commandant de la compagnie de sécurité et d'honneur :
+-Commandant de la compagnie de sécurité et d'honneur :
 
 -1/1 du premier régiment d'infanterie
 
@@ -366,9 +364,9 @@ Commandant de la compagnie de sécurité et d'honneur :
 
 -4/2 du deuxième régiment d'infanterie
 
-Commandant de la compagnie de sécurité et d'intervention du premier régiment d'infanterie
+-Commandant de la compagnie de sécurité et d'intervention du premier régiment d'infanterie
 
-Commandant de la compagnie de sécurité :
+-Commandant de la compagnie de sécurité :
 
 -de la présidence de la République
 
@@ -376,15 +374,17 @@ Commandant de la compagnie de sécurité :
 
 -des palais nationaux
 
-Commandant de l'escadron motocycliste de la garde républicaine
+-Commandant de l'escadron motocycliste de la garde républicaine
 
-Commandant du premier escadron du régiment de cavalerie de la garde républicaine
+-Commandant du premier escadron du régiment de cavalerie de la garde républicaine
 
-Commandant du deuxième escadron du régiment de cavalerie de la garde républicaine
+-Commandant du deuxième escadron du régiment de cavalerie de la garde républicaine
 
-Commandant du troisième escadron du régiment de cavalerie de la garde républicaine
+-Commandant du troisième escadron du régiment de cavalerie de la garde républicaine
 
-Commandant du centre d'instruction de cavalerie de la garde républicaine
+-Commandant du centre d'instruction de cavalerie de la garde républicaine
+
+-Commandant de l'escadron de sécurité et d'appui du groupement de gendarmerie mobile de Maisons-Alfort
 
 5° Outre mer :
 
@@ -406,20 +406,20 @@ Chef d'état-major du commandement de la gendarmerie pour Saint Pierre et Miquel
 
 6° Gendarmeries spécialisées :
 
-Commandant d'un patrouilleur de la gendarmerie maritime
+-Commandant d'un patrouilleur de la gendarmerie maritime
 
-Commandant de la section de recherches de la gendarmerie de l'armement
+-Commandant de la section de recherches de la gendarmerie de l'armement
 
-Commandant du groupe de protection de la gendarmerie de l'armement
+-Commandant du groupe de protection de la gendarmerie de l'armement
 
 7° Autres emplois :
 
-Chef du centre de soutien automobile de la gendarmerie de Satory
+-Chef du centre de soutien automobile de la gendarmerie de Satory
 
-Chef du service de gestion des ressources humaines et personnels isolés au sein du commandement du soutien opérationnel de la gendarmerie nationale
+-Chef du service de gestion des ressources humaines et personnels isolés au sein du commandement du soutien opérationnel de la gendarmerie nationale
 
-Commandant d'une antenne du groupe d'intervention de la gendarmerie nationale
+-Commandant d'une antenne du groupe d'intervention de la gendarmerie nationale
 
-Commandant de la gendarmerie des voies navigables
+-Commandant de la gendarmerie des voies navigables
 
-Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française
+-Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française

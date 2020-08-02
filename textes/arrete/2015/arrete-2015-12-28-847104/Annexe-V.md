@@ -26,17 +26,17 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -bureau de la santé et de la sécurité au travail
 
---bureau des utilisateurs et du pilotage
+-bureau des utilisateurs et du pilotage
 
-Commandant du centre de renseignement opérationnel de la gendarmerie adjoint
+-Commandant du centre de renseignement opérationnel de la gendarmerie adjoint
 
-Porte parole du directeur général de la gendarmerie nationale
+-Porte parole du directeur général de la gendarmerie nationale
 
-Chargé de mission "nouvelle politique de rémunération des militaires-retraites" à la direction des personnels militaires de la gendarmerie nationale (1 emploi)
+-Chargé de mission nouvelle politique de rémunération des militaires-retraites à la direction des personnels militaires de la gendarmerie nationale (1 emploi)
 
-Chef du bureau des marchés d'équipements et de matériels au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
+-Chef du bureau des marchés d'équipements et de matériels au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
 
-Commandant du centre de production multimédia de la gendarmerie nationale
+-Commandant du centre de production multimédia de la gendarmerie nationale
 
 2° A l'inspection générale de la gendarmerie nationale, le chef du :
 
@@ -52,15 +52,15 @@ Commandant du centre de production multimédia de la gendarmerie nationale
 
 3° Gendarmerie départementale :
 
-Commandant d'un groupe interministériel de recherches
+-Commandant d'un groupe interministériel de recherches
 
-Commandant de la section de recherches en second :
+-Commandant de la section de recherches en second :
 
 -d'Ajaccio
 
 -d'Amiens
 
--d'Angers (jusqu'au 31 décembre 2019)
+-d'Angers
 
 -de Bordeaux
 
@@ -86,7 +86,7 @@ Commandant de la section de recherches en second :
 
 -de Versailles
 
-Commandant de la compagnie de gendarmerie départementale :
+-Commandant de la compagnie de gendarmerie départementale :
 
 -d'Abbeville
 
@@ -98,7 +98,9 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Albi
 
--d'Alençon-Argentan
+-d'Alençon
+
+-Argentan
 
 -d'Altkirch
 
@@ -127,6 +129,8 @@ Commandant de la compagnie de gendarmerie départementale :
 -d'Autun
 
 -d'Avallon
+
+-d'Avranches
 
 -d'Avranches
 
@@ -580,7 +584,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -d'Yvetot
 
-Commandant de l'escadron départemental de sécurité routière :
+-Commandant de l'escadron départemental de sécurité routière :
 
 -de l'Ain
 
@@ -642,7 +646,7 @@ Commandant de l'escadron départemental de sécurité routière :
 
 4° Ecoles :
 
-Commandant du centre national de formation :
+-Commandant du centre national de formation :
 
 -à la police judiciaire
 
@@ -658,9 +662,9 @@ Commandant du centre national de formation :
 
 -à la sécurité publique
 
-Commandant du centre de formation du corps de soutien technique et administratif de la gendarmerie nationale
+-Commandant du centre de formation du corps de soutien technique et administratif de la gendarmerie nationale
 
-Commandant du centre national d'instruction :
+-Commandant du centre national d'instruction :
 
 -cynophile de la gendarmerie
 
@@ -670,19 +674,19 @@ Commandant du centre national d'instruction :
 
 5° Gendarmeries spécialisées :
 
-Commandant de la section de recherches de la gendarmerie de l'air
+-Commandant de la section de recherches de la gendarmerie de l'air
 
-Commandant de la section de recherches de la gendarmerie maritime
+-Commandant de la section de recherches de la gendarmerie maritime
 
-Commandant d'une compagnie de gendarmerie de l'armement
+-Commandant d'une compagnie de gendarmerie de l'armement
 
-Commandant d'une compagnie de gendarmerie des transports aériens
+-Commandant d'une compagnie de gendarmerie des transports aériens
 
-Commandant d'une compagnie de gendarmerie maritime
+-Commandant d'une compagnie de gendarmerie maritime
 
-Commandant d'une antenne spéciale de sécurité de la gendarmerie de la sécurité des armements nucléaires
+-Commandant d'une antenne spéciale de sécurité de la gendarmerie de la sécurité des armements nucléaires
 
-Commandant du centre d'instruction de la gendarmerie maritime
+-Commandant du centre d'instruction de la gendarmerie maritime
 
 6° Outre-mer :
 
@@ -722,7 +726,7 @@ Commandant de la compagnie de gendarmerie départementale :
 
 -de la Trinité
 
-Commandant de la gendarmerie pour Wallis-et-Futuna
+-Commandant de la gendarmerie pour Wallis-et-Futuna
 
 Chef d'état-major du commandement la gendarmerie :
 
@@ -742,41 +746,41 @@ Chef d'état-major du commandement la gendarmerie :
 
 7° Autres emplois :
 
-Chef du centre national d'assistance aux utilisateurs
+-Chef du centre national d'assistance aux utilisateurs
 
-Commandant du centre national de soutien logistique
+-Commandant du centre national de soutien logistique
 
-Chef de bureau au sein du commandement des réserves de la gendarmerie nationale (2 emplois)
+-Chef de bureau au sein du commandement des réserves de la gendarmerie nationale (2 emplois)
 
-Au sein des forces aériennes de la gendarmerie nationale, le chef :
+-Au sein des forces aériennes de la gendarmerie nationale, le chef :
 
 -de la division des opérations
 
 -de la division de l'appui opérationnel
 
-Commandant d'un groupement des forces aériennes de gendarmerie
+-Commandant d'un groupement des forces aériennes de gendarmerie
 
-Commandant du groupement d'instruction
+-Commandant du groupement d'instruction
 
-Commandant du groupement de maintien en condition opérationnelle
+-Commandant du groupement de maintien en condition opérationnelle
 
-Chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie
+-Chef du service de soutien à la projection opérationnelle du commandement du soutien opérationnel de la gendarmerie
 
-Directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+-Directeur au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
-Officier de liaison chargé de mission "police de sécurité du quotidien et reconquête républicaine" au secrétariat général du ministère de l'intérieur
+-Officier de liaison chargé de mission police de sécurité du quotidien et reconquête républicaine au secrétariat général du ministère de l'intérieur
 
-Officier de liaison chargé de mission à la délégation aux coopérations de sécurité (1 emploi)
+-Officier de liaison chargé de mission à la délégation aux coopérations de sécurité (1 emploi)
 
-Commandant du groupement de sécurité et d'appui de Rosny-sous-Bois
+-Commandant du groupement de sécurité et d'appui de Rosny-sous-Bois
 
-Commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-Commandant du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
-Commandant du groupement de sécurité et d'appui de Beynes
+-Commandant du groupement de sécurité et d'appui de Beynes
 
-Chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale
+-Chef d'état-major soutien finances du groupe d'intervention de la gendarmerie nationale
 
-Chef de la force :
+-Chef de la force :
 
 -sécurité et protection du groupe d'intervention de la gendarmerie nationale
 
