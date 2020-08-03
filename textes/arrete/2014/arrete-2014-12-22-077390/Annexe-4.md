@@ -50,6 +50,8 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 Conformément à l’article 5 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
 
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
+
 - Brûleur avec dispositif de récupération de chaleur sur four industriel / Fiche d’opération standardisée n° IND-UT-118
 
 - Compresseur d’air basse pression à vis ou centrifuge / Fiche d’opération standardisée n° IND-UT-120
@@ -86,9 +88,13 @@ Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER200
 
 - Système de mesurage d’indicateurs de performance énergétique / Fiche d’opération standardisée n° IND-UT-134
 
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
+
 - Freecooling par eau de refroidissement en substitution d’un groupe froid / Fiche d’opération standardisée n° IND-UT-135
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2020, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
 
@@ -120,4 +126,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 4 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A).
+Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A).

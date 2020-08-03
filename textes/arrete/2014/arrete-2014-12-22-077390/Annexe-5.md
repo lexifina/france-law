@@ -6,13 +6,21 @@ Secteur réseaux
 
 - Réhabilitation d’un poste de livraison de chaleur d’un bâtiment tertiaire / Fiche d’opération n° RES-CH-103
 
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
+
 - Réhabilitation d’un poste de livraison de chaleur d’un bâtiment résidentiel / Fiche d’opération n° RES-CH-104
 
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
+
 - Passage d’un réseau de chaleur en basse température / Fiche d’opération n° RES-CH-105
+
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
 
 - Mise en place d’un calorifugeage des canalisations d’un réseau de chaleur / Fiche d’opération n° RES-CH-106
 
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
+
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe 5 dudit arrêté.
 
 - Récupération de chaleur fatale pour valorisation sur un réseau de chaleur ou vers un tiers (France métropolitaine) / Fiche d’opération n° RES-CH-108
 
@@ -29,6 +37,10 @@ Conformément au I de l’article 1er de l’arrêté du 4 mai 2020 (NOR : TRER2
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 189 du 02/08/2020, texte nº 10, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 122 du 19/05/2020, texte nº 6, accessible à l’adresse suivante :
 
@@ -56,4 +68,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 4 mai 2020 (NOR : TRER2011628A), ces dispositions sont applicables aux opérations standardisées d’économies d’énergie engagées à partir de l’entrée en vigueur du présent arrêté.
+Conformément au II de l’article 6 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), ces dispositions sont applicables aux opérations standardisées d’économies d’énergie engagées à compter du 1er octobre 2020.

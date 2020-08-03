@@ -32,8 +32,6 @@ Conformément à l’article 5 de l’arrêté de l’arrêté du 26 juillet 201
 
 Conformément à l’article 5 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant la même référence figurant à l'annexe 8 dudit arrêté.
 
-Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant la même référence figurant à l'annexe 4 dudit arrêté.
-
 - Barge fluviale / Fiche d’opération n° TRA-EQ-109
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -77,6 +75,8 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 - Stop & Start pour engins automoteurs non routiers neufs / Fiche d’opération n° TRA-EQ-122
 
 - Simulateur de conduite / Fiche d’opération n° TRA-EQ-123
+
+- Branchement électrique des navires et bateaux à quai / Fiche d’opération n° TRA-EQ-124
 
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
@@ -130,6 +130,10 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Liens :
 
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 189 du 02/08/2020, texte nº 10, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
+
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 25 du 30/01/2020, texte nº 8, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
@@ -180,4 +184,4 @@ https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd
 
 NOTA :
 
-Se reporter aux modalités d’application prévues par l’article 4 du 10 janvier 2020 (NOR : TRER2001868A).
+Se reporter aux modalités d’application prévues par l’article 6 du 24 juillet 2020 (NOR : TRER2020386A).

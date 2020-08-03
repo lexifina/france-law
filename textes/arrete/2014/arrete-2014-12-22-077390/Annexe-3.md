@@ -90,7 +90,9 @@ Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 -Chauffe-eau solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-121
 
--Programmateur d’intermittence pour la climtisation (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-122
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
+-Programmateur d’intermittence pour la climatisation (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-122
 
 -Ventilation mécanique simple flux à débit d’air constant ou modulé / Fiche d’opération standardisée n° BAT-TH-125
 
@@ -104,6 +106,8 @@ Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER200
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
 
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
@@ -111,6 +115,8 @@ Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 -Récupération de chaleur sur groupe de production de froid / Fiche d’opération standardisée n° BAT-TH-139
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
 -Pompe à chaleur à absorption de type air/eau ou eau/eau / Fiche d’opération standardisée n° BAT-TH-140
 
@@ -160,6 +166,8 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
+
 -Lanterneaux d’éclairage zénithal (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-129
 
 -Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° BAT-EQ-130
@@ -173,6 +181,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 -Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0122 du 19/05/2020, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=CvA1mo1BjKK6qp2RfDP-iN_gRqcUA3qn9Cpuf_2cwJA=
 
@@ -205,3 +215,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A).
