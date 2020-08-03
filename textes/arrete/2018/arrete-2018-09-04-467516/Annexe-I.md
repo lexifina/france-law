@@ -204,7 +204,7 @@ Centre informatique national de l'enseignement supérieur
 
 Centre interministériel de formation anti-drogues
 
-Centre international d'études pédagogiques
+France Education international
 
 Centre national d'arts et de culture Georges Pompidou
 

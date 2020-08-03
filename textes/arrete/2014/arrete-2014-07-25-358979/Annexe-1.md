@@ -14,7 +14,7 @@ Comité technique de proximité de Mayotte.
 
 Comités techniques spéciaux de la Nouvelle-Calédonie, de la Polynésie française, de Wallis-et-Futuna et de Saint-Pierre-et-Miquelon.
 
-Comité technique du Centre international d'études pédagogiques.
+Comité technique de France Education international.
 
 Comité technique du Centre national de documentation pédagogique.
 

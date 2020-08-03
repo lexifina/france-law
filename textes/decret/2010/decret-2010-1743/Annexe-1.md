@@ -304,7 +304,7 @@ Commissions consultatives paritaires (CCP) nationales compétentes pour :
 
 ― auxiliaires recrutés sur contrat régis par le décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées,
 
-― personnels non titulaires régis par le décret no 2001-1145 du 3 décembre 2001 fixant les dispositions applicables aux personnels non titulaires de l'enseignement maritime et aquacole visés à l'article 133 de la loi de finances pour 2000,
+― personnels non titulaires régis par le décret n°2001-1145 du 3 décembre 2001 fixant les dispositions applicables aux personnels non titulaires de l'enseignement maritime et aquacole visés à l'article 133 de la loi de finances pour 2000,
 
 ― personnels relevant du règlement des centres d'études techniques de l'équipement (CETE) et exerçant dans les CETE,
 
@@ -2394,9 +2394,9 @@ Centre national de documentation pédagogique (CNDP)
 
 CCP locales placées auprès du directeur général du CNDP (Services culture éditions ressources pour l'Education nationale ― SCEREN) pour les agents non titulaires
 
-Centre international d'études pédagogiques (CIEP)
+France Education international
 
-CCP locale placée auprès du directeur du CIEP compétente pour les agents non titulaires (catégories A, B et C)
+CCP locale placée auprès du directeur de France Education international compétente pour les agents non titulaires (catégories A, B et C)
 
 Centre national d'enseignement à distance (CNED)
 

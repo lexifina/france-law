@@ -1,6 +1,6 @@
 # Article Annexe
 
-CENTRE INTERNATIONAL D ’ ÉTUDES PÉDAGOGIQUES
+CENTRE INTERNATIONAL D’ÉTUDES PÉDAGOGIQUES
 
 (effet au 1er septembre 2002)
 
@@ -20,7 +20,7 @@ Nombre d'emplois éligibles
 
 |
 
-Responsable d'unité administrative délocalisée du Centre international d'études pédagogiques
+Responsable d'unité administrative délocalisée de France Education international
 
 |
 

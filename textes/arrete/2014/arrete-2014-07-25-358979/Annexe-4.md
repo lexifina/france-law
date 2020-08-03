@@ -16,7 +16,7 @@ Comité d'hygiène, de sécurité et des conditions de travail de proximité de 
 
 Comité d'hygiène, de sécurité et des conditions de travail spécial de Wallis-et-Futuna.
 
-Comité d'hygiène, de sécurité et des conditions de travail du Centre international d'études pédagogiques.
+Comité d'hygiène, de sécurité et des conditions de travail de France Education international.
 
 Comité d'hygiène, de sécurité et des conditions de travail du Centre national de documentation pédagogique.
 

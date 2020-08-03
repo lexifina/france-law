@@ -236,9 +236,9 @@ Centre d'études et de recherches sur les qualifications (CEREQ)
 
 CTP placé auprès du directeur du CEREQ
 
-Centre international d'études pédagogiques (CIEP)
+France Education international
 
-CTP placé auprès du directeur du CIEP
+CTP placé auprès du directeur de France Education international
 
 Comités d'hygiène et de sécurité (CHS)
 
@@ -422,7 +422,7 @@ secteur travail
 
 Commissions administratives paritaires
 
-CAP nationale du corps de l ` inspection du travail
+CAP nationale du corps de l`inspection du travail
 
 CAP nationale du corps des contrôleurs du travail
 
