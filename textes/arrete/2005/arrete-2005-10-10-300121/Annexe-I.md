@@ -1,6 +1,6 @@
 # Article Annexe I
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 1ER JANVIER 2020
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE À COMPTER DU 5 AOÛT 2020
 
 CABINET DU MINISTRE
 
@@ -32,7 +32,7 @@ Chef de la section législative et réglementaire et distinctions honorifiques |
 
 A |
 
-Responsable de la section informatique. Responsable du support informatique |
+Responsable du support informatique |
 
 A |
 
@@ -52,6 +52,22 @@ A |
 
 |
 
+AU TITRE DES COMPETENCES TECHNIQUES |
+
+|
+
+|
+
+|
+
+Adjoint au chef de service (MAN) |
+
+A |
+
+|
+
+|
+
 AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES |
 
 |
@@ -60,7 +76,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES COMPTABLES ET JURIDIQUES |
 
 |
 
-Chef de la section budget, intendance, protocole et événementiel |
+Chef de la section budget, intendance, protocole et évènementiel |
 
 A |
 
@@ -132,15 +148,15 @@ FONCTIONS D'ACCUEIL |
 
 |
 
-Huissier ministre |
+Huissier ministre. |
 
 C |
 
-Huissier ministre |
+Huissier ministre. |
 
 C |
 
-Huissier ministre |
+Huissier ministre. |
 
 C |
 
@@ -222,7 +238,7 @@ B |
 
 Secrétaire du directeur de cabinet et du directeur adjoint |
 
-B |
+C |
 
 Secrétaire du secrétaire général |
 
@@ -230,7 +246,7 @@ B |
 
 Secrétaire du secrétaire général |
 
-B |
+C |
 
 |
 
@@ -255,14 +271,6 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 Adjoint au chef de cabinet en charge de la politique de sécurité des systèmes informatiques |
 
 A |
-
-|
-
-|
-
-|
-
-|
 
 SECRETARIAT GENERAL
 
@@ -292,7 +300,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
 
-Coordinateur d'administration générale |
+Coordonnateur d'administration générale |
 
 B |
 
@@ -308,7 +316,7 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
-Chargé de mission coordination |
+Chargé de mission |
 
 A |
 
@@ -327,6 +335,10 @@ EMPLOIS DE SECRETARIAT |
 Secrétaire du directeur |
 
 C |
+
+|
+
+|
 
 SECRETARIAT GENERAL
 
@@ -352,23 +364,19 @@ AU TITRE DE LA MODERNISATION |
 
 |
 
-Chef de cabinet |
+|
+
+|
+
+Adjoint au chef de bureau de gestion des hauts fonctionnaires (SDCPHF-BGCPHF) |
 
 A |
 
-Chef de la section financière et retraite |
+Adjoint au chef de bureau des mouvements des hauts fonctionnaires (SDCPHF-BMCPHF) |
 
 A |
 
-Chargé de la qualité et des procédures de l'administration territoriale |
-
-A |
-
-GPEEC administrateurs civils |
-
-A |
-
-Analyse et étude des carrières des hauts fonctionnaires |
+Adjoint au chef de bureau de la qualité et du pilotage de la performance (SDCPHF-BQPPAT) |
 
 A |
 
@@ -384,27 +392,31 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
 
-Responsable de la gestion des crédits élections |
+Chef de la section financière et retraite (SDCPHF-BGCPHF) |
 
 A |
-
-Gestionnaire des marchés publics élections |
-
-B |
 
 Chargé de mission RH-Budget auprès du chef de cabinet |
 
 B |
 
-Gestionnaire des crédits élections |
-
-B |
-
-Chargé des statistiques, de la cartographie et de l'analyse démographique et électorale |
+Responsable de la gestion des crédits élections (BEEP) |
 
 A |
 
-Chef de section des études juridiques du bureau des élections et des études politiques |
+Gestionnaire des marchés publics élections (BEEP) |
+
+B |
+
+Gestionnaire des crédits élections (BEEP) |
+
+B |
+
+Chef de la section des études juridiques (BEEP) |
+
+A |
+
+Chef de la section des études politiques (BEEP) |
 
 A |
 
@@ -416,13 +428,13 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
-EMPLOIS DE SECRETARIAT |
-
 |
 
 |
 
-|
+Chef de cabinet |
+
+A |
 
 Secrétaire du directeur |
 
@@ -460,10 +472,6 @@ AU TITRE DE LA MODERNISATION |
 
 |
 
-Assistant " GRH " du chef de cabinet (DIR) |
-
-A |
-
 Chef de la section des concours (BRPP/ SDRF) |
 
 A |
@@ -496,17 +504,13 @@ Encadrement et instruction dossiers pensions, adjoint chef de secteur (BPAI) (SD
 
 B |
 
-Chef de section du réseau des acteurs de la formation et grands dispositifs (BFPP/ SDRF) |
+Adjoint au chef de la section du laboratoire digital (BPPF/ SDRF) |
 
 A |
 
 Adjoint au chef du bureau du pilotage et de la politique de formation (BPPF/ SDRF) |
 
 A |
-
-|
-
-|
 
 Adjoint au chef du bureau du recrutement et de la promotion professionnelle (BRPP/ SDRF) |
 
@@ -536,17 +540,29 @@ Adjoint au chef de la section paie des actifs de la police nationale (BPRI) |
 
 B |
 
-Chef du pôle des hauts fonctionnaires (BPRI) |
-
-B |
-
-Adjoint au chef de la section de gestion de paie des personnels contractuels |
+Chef de la section encadrement supérieur et personnels des SGAR (BPRI) |
 
 A |
 
-Adjoint au chef de section paie des personnels administratifs et techniques (BPRI) |
+Chef du pôle de l'encadrement supérieur (BPRI) |
 
-B |
+A |
+
+Chef de la section des personnels contractuels (BPRI) |
+
+A |
+
+Adjoint au chef de la section des personnels contractuels (BPRI) |
+
+A |
+
+Responsable des contrats (BPRI) |
+
+A |
+
+Chef de la mission CIF (BPRI) |
+
+A |
 
 Chef de la section sécurité routière (BPTS) |
 
@@ -556,34 +572,6 @@ Chef de pôle à la section sécurité routière (BPTS) |
 
 B |
 
-Chef de la mission CIF (BPRI) |
-
-A |
-
-Chef de la section affaires générales (BAGES) |
-
-A |
-
-Chef de la section du droit des statuts et des ressources humaines (BAGES) |
-
-A |
-
-Adjoint au chef de la section du droit des statuts et des ressources humaines (BAGES) |
-
-A |
-
-Adjoint au chef de la section affaires générales (BAGES) |
-
-A |
-
-Chef de la section dialogue social (BAGES) |
-
-A |
-
-Adjoint au chef de la section dialogue social (BAGES) |
-
-A |
-
 Chef de la section des personnels SIC (BPTS) |
 
 A |
@@ -592,7 +580,7 @@ Adjoint au chef de la section des personnels SIC (BPTS) |
 
 B |
 
-Chef de la section des personnels techniques (BPTS) |
+Chef de la section des personnels techniques et spécialisés (BPTS) |
 
 A |
 
@@ -604,11 +592,27 @@ Chef de la section des affaires transversales (BPTS) |
 
 A |
 
-Chef de la section de gestion et de paie des personnels contractuels (BPRI) |
+Chef de la section des affaires générales (BAGES) |
 
 A |
 
-Responsable des contrats (BPRI) |
+Adjoint au chef de la section des affaires générales (BAGES) |
+
+A |
+
+Chef de la section du droit des statuts et des ressources humaines (BAGES) |
+
+A |
+
+Adjoint au chef de la section du droit des statuts et des ressources humaines (BAGES) |
+
+A |
+
+Chef de la section dialogue social (BAGES) |
+
+A |
+
+Adjoint au chef de la section dialogue social (BAGES) |
 
 A |
 
@@ -644,19 +648,19 @@ Chef de section délégués du Préfet et pilotage stratégique (BPA) |
 
 A |
 
-Chef de la mission PEPR (MGMRH) |
+Chef de la mission des affaires budgétaires et des emplois (MABE/ MGMRH) |
 
 A |
 
-Adjoint au chef de la mission PEPR (MGMRH) |
+Adjoint au chef de la mission des affaires budgétaires et des emplois (MABE/ MGMRH) |
 
 A |
 
-Chef de la section du pilotage budgétaire et des mesures catégorielles (MGMRH) |
+Chef de la section pilotage budgétaire et mesures catégorielles (MABE/ MGMRH) |
 
 A |
 
-Adjoint au chef de la mission du pilotage de la formation RH ministérielle (MGMRH) |
+Adjoint au chef de la mission pour l'innovation en ressources humaines (MIRH/ MGMRH) |
 
 A |
 
@@ -674,11 +678,11 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 Chef de la section de la préparation aux concours (BRPP/ SDRF) |
 
-B |
+A |
 
 Adjoint au chef de section du réseau des acteurs de la formation et grands dispositifs (BPPF/ SDRF) |
 
-B |
+A |
 
 |
 
@@ -738,13 +742,17 @@ A |
 
 Chef de section (BPPS/ SDASAP) |
 
-B |
+A |
 
 Chef de secteur (BAFED) (SDASAP) |
 
-B |
+A |
 
 Chef de cabinet |
+
+A |
+
+Adjoint de chef de cabinet |
 
 A |
 
@@ -756,6 +764,10 @@ EMPLOIS DE SECRETARIAT |
 
 |
 
+|
+
+|
+
 Secrétariat du directeur (DIR) |
 
 B |
@@ -763,6 +775,10 @@ B |
 Secrétariat du sous-directeur (DIR) |
 
 C |
+
+|
+
+|
 
 SECRETARIAT GENERAL
 
@@ -780,15 +796,7 @@ FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
 
 |
 
-|
-
-|
-
 AU TITRE DE LA MODERNISATION |
-
-|
-
-|
 
 |
 
@@ -804,11 +812,9 @@ C |
 
 |
 
-AU TITRE DES FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES |
+AU TITRE DES FONCTIONS NOTAMMENT D'ENCADREMENT ASSORTIES DE CONTRAINTES
 
-|
-
-|
+ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
@@ -876,7 +882,7 @@ Adjoint au chef du bureau des marchés d'équipements et de matériels (BMEM) |
 
 A |
 
-chef de section moyens généraux au bureau de la logistique des équipements (BLE) |
+Chef de section moyens généraux au bureau de la logistique des équipements (BLE) |
 
 A |
 
@@ -885,10 +891,6 @@ A |
 |
 
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
-
-|
-
-|
 
 |
 
@@ -904,7 +906,7 @@ Chef du bureau de la synthèse budgétaire et des opérateurs (BSBO) |
 
 A |
 
-Chef du pôle " Demandes de Paiements " au centre des prestations financières (CPFI) |
+Chef du pôle Demandes de Paiements au centre des prestations financières (CPFI) |
 
 A |
 
@@ -920,11 +922,11 @@ Chef du pôle " marché " au centre des prestations financières (CPFI) |
 
 A |
 
-Chef du pôle " investissement " au centre des prestations financières (CPFI) |
+Chef du pôle investissement au centre des prestations financières (CPFI). |
 
 A |
 
-Chef du pôle " Recettes au centre des prestations financières (CPFI) |
+Chef du pôle Recettes au centre des prestations financières (CPFI) |
 
 B |
 
@@ -952,10 +954,6 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-|
-
-|
-
 Chef du bureau de la performance et de la gestion des programmes (BPGP) |
 
 A |
@@ -976,10 +974,6 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
-|
-
-|
-
 EMPLOIS DE SECRETARIAT |
 
 |
@@ -991,10 +985,6 @@ EMPLOIS DE SECRETARIAT |
 Chef du secrétariat mutualisé de la DEPAFI |
 
 B |
-
-|
-
-|
 
 SECRETARIAT GENERAL
 
@@ -1116,10 +1106,6 @@ Assistante de direction |
 
 B |
 
-|
-
-|
-
 SECRETARIAT GENERAL
 
 DELEGATION A L'INFORMATION ET A LA COMMUNICATION
@@ -1148,7 +1134,7 @@ EMPLOIS DE SECRETARIAT |
 
 |
 
-Secrétariat particulier du délégué |
+Conducteur, chargé de l'appui logistique et opérationnel en cas de crise et de l'appui à la communication opérationnelle du ministre |
 
 B |
 
@@ -1175,10 +1161,6 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 Adjoint au chef de la division des ateliers événementiels |
 
 B |
-
-|
-
-|
 
 DIRECTION DES LIBERTES PUBLIQUES ET DES AFFAIRES JURIDIQUES
 
@@ -1210,15 +1192,15 @@ Chef de cabinet |
 
 A |
 
-Responsable de la gestion du fichier des interdits de jeux |
+Chef de la mission légistique et coordination normative |
 
-B |
+A |
 
 Adjoint au chef de cabinet |
 
 A |
 
-Responsable du pôle RH du cabinet |
+Responsable du pôle RH du cabinet. |
 
 B |
 
@@ -1286,15 +1268,7 @@ FONCTIONS ASSORTIES DE CONTRAINTES PARTICULIERES |
 
 |
 
-|
-
-|
-
 EMPLOIS DE SECRETARIAT |
-
-|
-
-|
 
 |
 
@@ -1338,13 +1312,13 @@ AU TITRE DE LA MODERNISATION |
 
 |
 
-Chef de la section budget du bureau du pilotage de la masse salariale de la sous-direction des finances et du pilotage |
+Chef de la section budget au bureau du pilotage des effectifs et de la masse salariale de la sous-direction des finances et du pilotage |
 
 A |
 
 Adjoint au chef du bureau de modernisation et de valorisation des ressources humaines de la sous-direction de l'administration des ressources humaines |
 
-|
+A |
 
 |
 
@@ -1358,7 +1332,7 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
 
-Chef du bureau du cabinet du secrétariat pour l'administration générale |
+Chef du bureau du cabinet du secrétariat pour l'administration générale. |
 
 A |
 
@@ -1366,13 +1340,9 @@ Responsable des questions parlementaires au cabinet du directeur général de la
 
 A |
 
-Adjoint au chef du bureau du pilotage de la masse salariale |
+Adjoint au chef du bureau du pilotage des effectifs et de la masse salariale |
 
 A |
-
-|
-
-|
 
 DIRECTION GENERALE DES COLLECTIVITES LOCALES
 
@@ -1404,7 +1374,7 @@ Référent instances consultatives |
 
 A |
 
-Chargé de mission auprès du sous-directeur des compétences et des institutions locales, référent suivi simplifications du droit |
+Chargé de mission auprès du sous-directeur des compétences et des institutions locales, Référent suivi simplifications du droit |
 
 A |
 
@@ -1412,7 +1382,7 @@ Responsable des ressources humaines |
 
 B |
 
-Correspondant " Chorus " gestion des concours financiers de l'Etat |
+Correspondant " Chorus " gestion des concours financiers de l'État |
 
 B |
 
@@ -1464,7 +1434,7 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-Webmestre |
+Webmestre. |
 
 B |
 
@@ -1480,7 +1450,7 @@ A |
 
 |
 
-FONCTIONS ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES (création nouvelle rubrique) |
+FONCTIONS ASSORTIES DE CONTRAINTES ET DE RESPONSABILITES PARTICULIERES |
 
 |
 
@@ -1536,9 +1506,9 @@ FONCTIONS D'ACCUEIL |
 
 |
 
-Responsable de la coordination du logiciel " Elise " de gestion et de suivi du courrier |
+Gestionnaire en charge du courrier, des ordres de mission et des frais de déplacement, responsable de la coordination ELISE |
 
-C |
+B |
 
 Correspondant du Conseil Supérieur de la Fonction Publique Territoriale (accueil, renseignement et orientation des membres du CSFPT) |
 
@@ -1555,14 +1525,6 @@ Catégorie |
 |
 
 FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
-
-|
-
-|
-
-|
-
-AU TITRE DE LA MODERNISATION |
 
 |
 
@@ -1626,7 +1588,7 @@ Responsable de la comptabilité et du contrôle interne financier de la directio
 
 A |
 
-Chef du pôle finances du GMD |
+Conseiller budgétaire du groupement des moyens aériens |
 
 A |
 
@@ -1642,9 +1604,9 @@ Chargé de mission auprès du sous-directeur des moyens nationaux |
 
 A |
 
-Chargé du suivi des dossiers de MAD des sapeurs-pompiers à la DGSCGC |
+Chef de la section des personnels actifs, chargé du suivi des dossiers de MAD des sapeurs-pompiers à la DGSCGC |
 
-B |
+A |
 
 Adjoint du chef du bureau des ressources humaines et financières pour les finances, responsable de l'exécution budgétaire |
 
@@ -1712,7 +1674,7 @@ AU TITRE DES COMPETENCES TECHNIQUES |
 
 |
 
-Emploi nécessitant l'utilisation de compétences techniques très particulières-utilisation du prompteur-graphisme-logistique |
+Emploi nécessitant l'utilisation de compétences techniques très particulières-Utilisation du prompteur-graphisme-logistique |
 
 B |
 
@@ -1740,51 +1702,9 @@ EMPLOIS DE SECRETARIAT |
 
 |
 
-|
-
-|
-
 Emploi de secrétariat de membres du cabinet du Président de la République |
 
 B |
-
-|
-
-|
-
-MISSION DES ARCHIVES NATIONALES
-
-Libellé |
-
-Catégorie |
-
-|
-
-|
-
-FONCTIONS IMPLIQUANT UNE TECHNICITE PARTICULIERE |
-
-|
-
-|
-
-|
-
-AU TITRE DES COMPETENCES TECHNIQUES |
-
-|
-
-|
-
-|
-
-Adjoint au chef de service |
-
-A |
-
-|
-
-|
 
 SECRETARIAT GENERAL DU COMITE INTERMINISTERIEL DE PREVENTION DE LA DELINQUANCE ET DE LA RADICALISATION
 
@@ -1812,11 +1732,11 @@ AU TITRE DES ATTRIBUTIONS FINANCIERES ET JURIDIQUES |
 
 |
 
-Chef de la cellule financière du secrétariat général du comité interministériel de prévention de la délinquance et de la radicalisation |
+Chef de la cellule financière du secrétariat général du comité interministériel de prévention de la délinquance et de la radicalisation. |
 
 A |
 
-DELEGATION A LA SECURITE ET A LA CIRCULATION ROUTIERES
+DELEGATION DE LA SECURITE ROUTIERE
 
 Libellé |
 
@@ -1862,6 +1782,10 @@ Chef de la section permis à points |
 
 A |
 
+|
+
+|
+
 Chef de la section de la fiabilisation de la base de données SNPC |
 
 B |
@@ -1882,14 +1806,18 @@ Chargé du suivi de l'application informatique système national des permis de c
 
 B |
 
+|
+
+|
+
 Adjoint au chef du service national des permis de conduire |
 
 A |
 
+|
+
+|
+
 Chef de la section gestion contrôle |
 
 C |
-
-NOTA :
-
-Se reporter aux dates et conditions d'entrée en vigueur prévues aux articles 1 à 3 de l'arrêté du 28 septembre 2021 (NOR : INTA2122141A).
