@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616640
+
+- Question : [SEQ200616640](seq200616640.md) — Situation des travailleurs frontaliers en Suisse placés en télétravail
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-08-06, page 3503*
+
+La pandémie de coronavirus a amené les Etats européens à prendre des mesures de distanciation sociale, et notamment de confinement, ce qui a entraîné un recours massif au télétravail pour les travailleurs frontaliers, au-delà du seuil de 25% de l'activité, inscrit dans les textes communautaires (règlement n° 883/2004 et son règlement d'application n° 987/2009). Dans le cas d'un travailleur frontalier résidant en France et employé en Suisse, cette situation aurait pu conduire à un changement de son affiliation à la sécurité sociale, la compétence devant passer en théorie de l'Etat d'emploi - la Suisse - à celui de résidence - la France. C'est pourquoi la France a initié rapidement un dialogue avec la Suisse pour acter que ce recours massif au télétravail était intervenu dans des circonstances exceptionnelles constituant un cas de force majeure et que les jours travaillés dans l'Etat de résidence, en raison des mesures prises pour lutter contre la propagation du COVID-19, seraient considérés comme des jours travaillés dans l'Etat d'emploi. Dans cette optique, un accord entre les deux parties a ainsi été conclu le 13 mai 2020. Depuis lors, eu égard à l'amélioration de la situation sanitaire et à la nécessité d'un retour à la normale, notamment en ce qui concerne la vie économique, les autorités françaises et suisses sont convenues le 16 juillet dernier que cet accord resterait en vigueur jusqu'au 31 août 2020, date à l'issue de laquelle il cessera de produire ses effets. Néanmoins, en cas de nécessité liée à la situation sanitaire dans les deux Etats, ceux-ci poursuivent un dialogue étroit afin de pouvoir prendre, le cas échéant, les mesures adéquates dans les délais les plus brefs.
