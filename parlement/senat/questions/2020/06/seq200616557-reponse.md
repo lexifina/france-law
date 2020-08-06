@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616557
+
+- Question : [SEQ200616557](seq200616557.md) — Rôle envisagé pour les pharmacies dans la stratégie de dépistage massif des porteurs asymptomatiques
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-08-06, page 3521*
+
+La mobilisation efficace des capacités de dépistage constitue l'une des clefs pour réduire le risque de rebond épidémique. L'émergence des tests sérologiques permet désormais de compléter la palette des capacités de dépistage, même si les indications limitées proposées par la Haute autorité de santé (HAS) et la nature incertaine de l'immunité acquise en cas d'infection invitent à en faire un usage prudent et proportionné. Dans son rapport du 14 mai sur la « place des tests sérologiques rapides (TDR, TROD, autotests) dans la stratégie de prise en charge de la maladie COVID-19 », la HAS a émis des recommandations concernant l'utilisation des tests rapides sérologiques par d'autres professionnels de santé que les biologistes, dans certaines indications et sous certaines conditions, notamment pour « les patients ayant des difficultés d'accès à un laboratoire de biologie médicale ». Dans le cadre de ses recommandations préconisant que les TROD soient pratiqués par des professionnels et des personnels ayant préalablement suivi une formation spécifique, la HAS a inclus les pharmaciens d'officine dans la liste des professionnels de santé amenés à réaliser ces tests. Le Gouvernement a décide dé suivre les recommandations de la HAS. Les pharmaciens d'officine peuvent donc, depuis la publication de l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de Covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé, réaliser les tests rapides d'orientation diagnostique sur sang capillaire de détection des anticorps dirigés contre le SARS-CoV-2.
