@@ -1,9 +1,9 @@
 # Article Annexe
 
-Annexe non reproduite, publiée au Bulletin officiel du ministère de la culture et de la communication.
+L'annexe au présent arrêté relative au référentiel de la discipline instrumentiste-chanteur est publiée au Bulletin officiel du ministère de la culture n° 165.
 
-Elle est complétée :
+Elle est complétée par :
 
-- par l'annexe relative aux référentiels du métier chef d'ensembles instrumentaux ou vocaux, publiée au Bulletin officiel du ministère de la culture et de la communication.
+-l'annexe relative au référentiel de la discipline chef d'ensembles instrumentaux ou vocaux publiée au Bulletin officiel du ministère de la culture n° 170 ;
 
-- par l'annexe relative aux référentiels correspondant à la spécialité métiers de la création musicale, publiée au Bulletin officiel du ministère de la culture et de la communication.
+-l'annexe relative au référentiel de la discipline métiers de la création musicale publiée au Bulletin officiel du ministère de la culture n° 183.
