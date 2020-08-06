@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200516132
+
+- Question : [SEQ200516132](seq200516132.md) — Présence des conseillers consulaires aux conseils économiques
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-08-06, page 3498*
+
+Le ministère de l'Europe et des Affaires étrangères suit avec la plus grande attention la situation des ressortissants français à l'étranger, dont un grand nombre sont des entrepreneurs qui incarnent la présence française et notre savoir-faire, tout comme le réseau des chambres de commerce françaises à l'étranger, qui sont un maillon important pour représenter nos intérêts commerciaux. Le réseau diplomatique s'est fortement mobilisé, au cours de ces dernières années, sur les enjeux économiques : les ambassadeurs ont consacré, en moyenne, plus du tiers de leur temps aux enjeux économiques sur les trois dernières années. Ainsi, nos ambassadeurs et les services économiques régionaux sont particulièrement attentifs aux remontées d'informations sur la situation économique de leur pays de résidence, des filiales d'entreprises françaises ou celles établies à l'étranger, fondées ou détenues par des ressortissants français, en s'appuyant notamment sur le dispositif d'appui aux entreprises à l'étranger (CCEF, Business France, chambres de commerce françaises à l'étranger). En étroite coopération avec nos ambassadeurs, les conseillers consulaires sont régulièrement associés au suivi de la situation économique du pays et de la présence des entreprises françaises. Les questions de diplomatie économique sont par ailleurs évoquées régulièrement lors des réunions de l'Assemblée des français de l'Etranger. Le ministère de l'Europe et des Affaires étrangères rappellera aux chefs de postes diplomatiques et consulaires la nécessité d'associer plus systématiquement nos représentants consulaires aux questions de diplomatie économique.
