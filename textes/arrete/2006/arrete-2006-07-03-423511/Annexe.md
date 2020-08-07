@@ -130,7 +130,7 @@ DOLLAR US
 
 |
 
-230
+308
 
 |
 
@@ -254,7 +254,7 @@ EURO
 
 |
 
-BARBADE
+LA BARBADE
 
 |
 
@@ -262,7 +262,7 @@ DOLLAR US
 
 |
 
-310
+355
 
 |
 
@@ -720,7 +720,7 @@ DOLLAR US
 
 |
 
-DOMINIQUE
+LA DOMINIQUE
 
 |
 
@@ -728,7 +728,7 @@ DOLLAR US
 
 |
 
-201
+266
 
 |
 
@@ -868,7 +868,7 @@ DOLLAR DE FIDJI
 
 |
 
-224
+421
 
 |
 
@@ -904,7 +904,7 @@ DALASI
 
 |
 
-2 460
+8 590
 
 |
 
@@ -964,7 +964,7 @@ DOLLAR US
 
 |
 
-199
+283
 
 |
 
@@ -1180,7 +1180,7 @@ DOLLAR US
 
 |
 
-162
+217
 
 |
 
@@ -1258,11 +1258,11 @@ KIRIBATI
 
 |
 
-DOLLAR DE FIDJI
+DOLLAR AUSTRALIEN
 
 |
 
-221
+207
 
 |
 
@@ -1474,7 +1474,7 @@ FRANC CFA
 
 |
 
-62 000
+161 600
 
 |
 
@@ -1514,15 +1514,15 @@ DOLLAR US
 
 |
 
-MAURICE (île)
+MAURICE
 
 |
 
-ROUPIE MAURICIENNE
+ROUPIE ILE MAURICE
 
 |
 
-5 500
+7 000
 
 |
 
@@ -1626,11 +1626,11 @@ NAURU
 
 |
 
-DOLLAR DE FIDJI
+DOLLAR AUSTRALIEN
 
 |
 
-208
+600
 
 |
 
@@ -1928,11 +1928,11 @@ DOLLAR US
 
 |
 
-202
+287
 
 |
 
-SAINTE-LUCIE et les autres pays des Caraïbes de l'Est
+SAINTE-LUCIE
 
 |
 
@@ -1940,7 +1940,7 @@ DOLLAR US
 
 |
 
-199
+261
 
 |
 
@@ -1952,7 +1952,7 @@ DOLLAR US
 
 |
 
-188
+275
 
 |
 
@@ -2300,7 +2300,7 @@ DOLLAR DE FIDJI
 
 |
 
-214
+402
 
 |
 
@@ -2348,7 +2348,7 @@ EURO
 
 |
 
-165
+135
 
 |
 
@@ -2356,11 +2356,11 @@ TUVALU
 
 |
 
-DOLLAR DE FIDJI
+DOLLAR AUSTRALIEN
 
 |
 
-192
+254
 
 |
 
