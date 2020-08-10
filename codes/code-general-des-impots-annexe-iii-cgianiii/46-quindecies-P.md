@@ -6,12 +6,12 @@ Ces organismes adressent également à l'autorité qui a délivré l'agrément l
 
 Ils communiquent, sur sa demande, à l'autorité qui a délivré l'agrément, tous renseignements permettant de garantir la conformité des aides accordées à l'un des règlements suivants :
 
-a. règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis ;
+a) règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis ;
 
-b. règlement (CE) n° 875/2007 de la Commission du 24 juillet 2007 relatif à l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la pêche et modifiant le règlement (CE) n° 1860/2004 ;
+b) règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ;
 
-c. règlement (CE) n° 1535/2007 de la Commission du 20 décembre 2007 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la production de produits agricoles ;
+c) règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture ;
 
-d. au 1 de l'article 12 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
+d) règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 Les documents et informations relatifs à l'organisme agréé et aux entreprises bénéficiaires des aides sont conservés par l'organisme agréé jusqu'au 31 décembre de la dixième année suivant la date d'octroi d'une aide, en vue de leur mise à disposition de l'administration fiscale.

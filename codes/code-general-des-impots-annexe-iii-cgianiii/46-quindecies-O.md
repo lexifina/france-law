@@ -8,12 +8,12 @@ Un organisme mentionné au 4 de l'article 238 bis du code général des impôts 
 
 La décision par laquelle l'organisme notifie l'octroi d'une aide à une entreprise précise que l'aide accordée doit être conforme à l'un des règlements suivants :
 
-a. règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis ;
+a) règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis ;
 
-b. règlement (CE) n° 875/2007 de la Commission du 24 juillet 2007 relatif à l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la pêche et modifiant le règlement (CE) n° 1860/2004, lorsque celui-ci leur notifie l'aide ;
+b) règlement (UE) n° 717/2014 de la Commission du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture ;
 
-c. règlement (CE) n° 1535/2007 de la Commission du 20 décembre 2007 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis dans le secteur de la production de produits agricoles ;
+c) règlement (UE) n° 1408/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture ;
 
-d. au 1 de l'article 12 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
+d) règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 La décision leur notifiant l'octroi de l'aide précise que ces règlements sont à leur disposition au siège de l'organisme et sur le site internet de l'Union européenne " europa.eu ".
