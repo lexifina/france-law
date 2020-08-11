@@ -10,7 +10,7 @@ II.-Pour la négociation et la conclusion des accords mentionnés au I :
 
 3° Le délai de huit jours mentionné au troisième alinéa de l'article L. 2232-12 du même code est réduit à cinq jours ;
 
-4° Le délai minimum de quinze jours mentionné au deuxième alinéa de l'article L. 2232-21 du même code est réduit à cinq jours ;
+4° (abrogé)
 
 5° Le délai d'un mois mentionné au deuxième alinéa de l'article L. 2232-25-1 du même code est réduit à huit jours.
 
