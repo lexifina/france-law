@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213558
+
+- Question : [SEQ191213558](seq191213558.md) — Imposition forfaitaire sur les entreprises de réseaux et installations de production d'électricité d'origine nucléaire
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-08-13, page 3588*
+
+En application des dispositions conjuguées des articles 1519 E et 1379-0 bis du code général des impôts, les communes ou les établissements publics de coopération intercommunale (EPCI) à fiscalité professionnelle unique (FPU) d'implantation d'une centrale nucléaire, ainsi que le conseil départemental, perçoivent l'imposition forfaitaire sur les entreprises de réseau (IFER) générée par cet équipement. Cette affectation résulte du nouveau schéma de financement des collectivités locales introduit à compter de 2010. Auparavant, la taxe professionnelle issue de ces établissements exceptionnels était en partie affectée à un fonds départemental de péréquation de la taxe professionnelle (FDPTP) réparti notamment entre les communes limitrophes et les communes du département défavorisées par la faiblesse de leur potentiel fiscal. Le Gouvernement ne prévoit pas de revenir sur l'équilibre de la répartition de la fiscalité économique acquittée par l'exploitant d'une centrale nucléaire. Cet équilibre a servi au calcul de dotations inhérentes à la suppression de la taxe professionnelle - la dotation de compensation de la réforme de la taxe professionnelle (DCRTP) et le fonds national de garantie individuelle des ressources (FNGIR) - qui sont encore aujourd'hui des ressources structurantes des budgets locaux. Enfin, les communes et les EPCI à fiscalité propre situés sur le territoire départemental d'implantation d'une centrale nucléaire peuvent toujours bénéficier de la dotation au titre des FDPTP répartie par le conseil départemental. En 2020, le montant de la dotation au FDPTP est de 284 millions d'euros.
