@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113188
+
+- Question : [SEQ191113188](seq191113188.md) — Transports express régionaux
+
+## Réponse
+
+*Transports, JO du 2020-08-13, page 3626*
+
+Le rapport de la Cour des comptes sur les TER souligne les efforts accomplis par la SNCF ces dernières années pour mieux répondre aux attentes des usagers et des régions en tant qu'autorités organisatrices de transport qui financent son exploitation. La Direction générale TER de la SNCF a ainsi lancé en 2016 un plan stratégique « Cap TER 2020 » pour réduire les coûts d'exploitation, améliorer la qualité des services et développer la fréquentation. L'Etat encourage cette démarche et la Cour met en lumière, à juste titre, certains résultats positifs obtenus dès 2017 : amélioration de la régularité des trains, augmentation du trafic et charges d'exploitation orientées à la baisse. Ceci a permis d'atténuer en partie l'impact des mouvements sociaux sur les résultats constatés en 2018, et le premier semestre 2019 confirme la poursuite de cette trajectoire positive. Le Gouvernement appuie naturellement la recommandation avancée par la Cour de réaliser des analyses socio-économiques pour les services ferroviaires régionaux peu fréquentés afin d'identifier les solutions de transport les plus adaptées aux besoins de mobilité des usagers et aux caractéristiques de chaque territoire. Les décisions relatives à l'offre de services TER, tant au niveau de leur consistance que des modalités de réalisation, relèvent toutefois de la seule compétence des régions dont les choix dépendent de l'analyse qu'elles font des besoins de mobilité des usagers mais aussi des politiques régionales d'aménagement du territoire. C'est pourquoi le rapport de la Cour met à juste titre les régions en première ligne à côté de SNCF Voyageurs et de SNCF Réseau pour mener ces analyses de pertinence socio-économique des services ferroviaires TER.
