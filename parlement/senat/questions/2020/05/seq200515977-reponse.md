@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200515977
+
+- Question : [SEQ200515977](seq200515977.md) — Restrictions de déplacement et réunions des organes délibérants des collectivités territoriales
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-08-13, page 3604*
+
+Pendant la période d'urgence sanitaire, en application de l'article 3 du décret n° 2020-548 du 11 mai 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de l'état d'urgence sanitaire, « I. - Tout déplacement de personne la conduisant à la fois à sortir d'un périmètre défini par un rayon de 100 kilomètres de son lieu de résidence et à sortir du département dans lequel ce dernier est situé est interdit à l'exception des déplacements pour les motifs suivants : 1° Trajets entre le lieu de résidence et le ou les lieux d'exercice de l'activité professionnelle, et déplacements professionnels insusceptibles d'être différés ; () III. - Les personnes qui se déplacent pour l'un des motifs prévus au I se munissent, lors de leurs déplacements, d'une déclaration indiquant le motif du déplacement accompagnée, le cas échéant, d'un ou plusieurs documents justifiant ce motif ainsi que d'un justificatif du lieu de résidence. Le modèle de cette déclaration est fixé par arrêté du ministre de l'intérieur ». Ainsi, la participation aux séances de l'organe délibérant des collectivités territoriales et de leurs groupements a été considérée à ce titre comme un motif de déplacement professionnel pour les personnes qui en sont membres. Ainsi, sous réserve de produire la déclaration visée au III de l'article 3 du décret susvisé, l'interdiction des déplacements dans un rayon supérieur à 100 kilomètres n'est pas applicable aux élus locaux lorsqu'ils se rendent aux séances de l'organe délibérant.
