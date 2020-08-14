@@ -246,6 +246,32 @@ ARKEMA Usine de Jarrie
 
 |
 
+FR000000000000430 |
+
+HOPITAL EDOUARD HERRIOT |
+
+Hôpital Edouard Herriot
+
+|
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+151 |
+
+124 |
+
+99 |
+
+374 |
+
 FR000000000000504 |
 
 LUCART SAS
@@ -1179,3 +1205,29 @@ SICAL |
 4 337 |
 
 13 269 |
+
+FR-new-05108014
+
+|
+
+SGD SA |
+
+SGD SA |
+
+0 |
+
+0 |
+
+0 |
+
+3 831 |
+
+4 800 |
+
+4 710 |
+
+4 620 |
+
+4 531 |
+
+22 492 |

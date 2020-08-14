@@ -747,3 +747,19 @@ FR-new-06413104
 INTERXION France |
 
 INTERXION MRS2 |
+
+FR-new-05800850
+
+|
+
+EDF |
+
+EDF-CTI PACY-Data center Pacy |
+
+FR-new-06522592
+
+|
+
+BDC2 |
+
+BDC2 |

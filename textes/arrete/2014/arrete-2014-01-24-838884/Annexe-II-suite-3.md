@@ -70,13 +70,13 @@ Centrale d'énergie des Bruyères |
 
 / |
 
-/ |
+5355 |
 
-/ |
+13781 |
 
-/ |
+10915 |
 
-/ |
+30 051 |
 
 FR-new-03301532 |
 
@@ -482,19 +482,19 @@ SGD SA |
 
 / |
 
-/ |
+2 006 |
 
-/ |
+6 420 |
 
-/ |
+6 303 |
 
-/ |
+6 185 |
 
-/ |
+6 067 |
 
-/ |
+5 949 |
 
-/ |
+32 930 |
 
 FR-new-05200010 |
 
@@ -706,11 +706,11 @@ Union Invivo côté terre
 
 |
 
-459
+918
 
 |
 
-13 593
+14 052
 
 |
 
@@ -2620,19 +2620,19 @@ Celluloses De la Loire |
 
 0 |
 
-15 780 |
+22 877 |
 
-14 051 |
+22 527 |
 
-12 332 |
+22 113 |
 
-10 667 |
+21 699 |
 
-9 056 |
+21 286 |
 
-7 501 |
+20 872 |
 
-69 387 |
+131 374 |
 
 FR-new-05503400
 
@@ -2712,7 +2712,7 @@ FR-new-05516997
 
 |
 
-EUREDEN
+COOPERATIVE EUREDEN
 
 |
 
@@ -7368,11 +7368,11 @@ Céramiques de Forbach
 
 |
 
-8 436
+7 395
 
 |
 
-71 273
+70 232
 
 |
 
@@ -9542,15 +9542,15 @@ Station de compression de gaz de Beynes |
 
 / |
 
-/ |
+5 648 |
 
-/ |
+8 416 |
 
-/ |
+6 923 |
 
-/ |
+5 483 |
 
-/ |
+26 470 |
 
 FR-new-06600079
 
@@ -10190,15 +10190,15 @@ Comptoir agricole Hochfelden
 
 |
 
-548
+274
 
 |
 
-434
+217
 
 |
 
-6 451
+5 960
 
 |
 
@@ -11596,13 +11596,13 @@ MG-VALDUNES Leffinckoucke |
 
 / |
 
-/ |
+3 411 |
 
-/ |
+2 805 |
 
-/ |
+2 222 |
 
-/ |
+8 438 |
 
 FR-new-07000683
 
@@ -14438,7 +14438,7 @@ TRX 100 |
 
 FR-new-06400913 |
 
-IMERYS SALIN
+IMERYS PCC France
 
 |
 
@@ -14456,11 +14456,11 @@ IMERYS-Salin-de-Giraud |
 
 - |
 
-/ |
+33 294 |
 
-/ |
+32 646 |
 
-/ |
+65 940 |
 
 FR-new-05800439 |
 
@@ -14508,11 +14508,11 @@ SILL SAS (Plouvien) |
 
 - |
 
-/ |
+2 512 |
 
-/ |
+2 389 |
 
-/ |
+4 901 |
 
 FR-new-06400895 |
 
@@ -14714,13 +14714,13 @@ FRESENIUS MEDICAL CARE SMAD |
 
 - |
 
-/ |
+5 594 |
 
-/ |
+14 619 |
 
-/ |
+14 335 |
 
-/ |
+34 548 |
 
 FR-new-03201408 |
 
@@ -14807,6 +14807,78 @@ Elm Opérations
 |
 
 Chaufferie de Surville |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-05701486 |
+
+CHU CENTRE HOSPITALIER site principal Reims |
+
+CHU Reims |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-07001036 |
+
+Centre Hospitalier Régional Universitaire Lille |
+
+CHU Lille |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03201219 |
+
+Chaufferie Energie verte de Valence |
+
+Chaufferie Énergie Verte de Valence site de Laforêt/ Briffaut |
 
 - |
 

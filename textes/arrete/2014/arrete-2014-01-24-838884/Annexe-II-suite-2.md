@@ -392,11 +392,11 @@ FR000000000000734
 
 |
 
-CENEVIA (ex-SOCLIC)
+SEINERGIE
 
 |
 
-Chaufferie Urbaine SOCLIC CENEVIA
+Chaufferie Urbaine SEINERGIE
 
 |
 
@@ -2896,15 +2896,15 @@ Chaufferie urbaine SETE (SOCIETE NOUVELLE D'EXPLOITATION THERMIQUE DE L'ESPLANAD
 
 |
 
-4 703
+0
 
 |
 
-3 725
+0
 
 |
 
-111 860
+103 432
 
 |
 
@@ -3236,11 +3236,11 @@ Peugeot Citroën Mulhouse SNC
 
 |
 
-65 379
+44 656
 
 |
 
-529 650
+508 927
 
 |
 
@@ -8480,11 +8480,11 @@ FR000000000000979
 
 |
 
-NESTLE PURINA PETCARE France
+SPILLERS PETFOOD FRANCE SA
 
 |
 
-NESTLE PURINA PETCARE France - usine de Marconnelle
+SPILLERS PETFOOD FRANCE SA-Usine de Marconnelle
 
 |
 
