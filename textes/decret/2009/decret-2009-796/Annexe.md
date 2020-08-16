@@ -226,7 +226,7 @@ La programmation de France 2 est placée sous le double signe de l'événement e
 
 France 3 reflète la diversité de la vie économique, sociale et culturelle en région et grâce aux décrochages régionaux, y compris aux heures de grande écoute, dont les programmes peuvent être repris au niveau national.
 
-La programmation de France 3 assure une information nationale, régionale et locale. Elle s'attache à développer en particulier une information de proximité et rend compte des événements régionaux et locaux. Un bulletin d'information sur l'outre-mer est programmé en semaine sur l'antenne de France 3, à une heure d'écoute appropriée ;
+La programmation de France 3 assure une information nationale, régionale et locale. Elle s'attache à développer en particulier une information de proximité et rend compte des événements régionaux et locaux ;
 
 3° France 4 : chaîne de la jeunesse et de la famille, dont la vocation est de s'adresser aux enfants, aux jeunes et à leurs parents en contribuant à renforcer le lien entre ces générations. La programmation de France 4 accorde une place privilégiée aux programmes français et particulièrement aux œuvres françaises d'animation. Ses programmes favorisent notamment l'éveil, la curiosité et l'apprentissage de la citoyenneté en conjuguant approche éducative et divertissement ;
 
@@ -234,7 +234,7 @@ La programmation de France 3 assure une information nationale, régionale et loc
 
 France 5 valorise l'accessibilité de ses contenus pédagogiques et de connaissances par tout moyen de communication électronique et développe la coopération avec les milieux éducatifs ;
 
-4° bis La chaîne d'information en continu : chaîne nationale diffusée notamment par voie hertzienne terrestre dont l'objet est d'offrir des programmes d'information couvrant tous les domaines de l'actualité en France et dans le monde, notamment grâce à la diffusion régulière de journaux et de résumés d'actualité.
+4° bis Le service de télévision Franceinfo : chaîne nationale diffusée notamment par voie hertzienne terrestre dont l'objet est d'offrir des programmes d'information couvrant tous les domaines de l'actualité en France et dans le monde, notamment grâce à la diffusion régulière de journaux et de résumés d'actualité.
 
 Elle est réalisée avec le concours d'autres organismes du secteur public de la communication audiovisuelle, notamment Radio France, la société en charge de l'audiovisuel extérieur de la France et l'Institut national de l'audiovisuel.
 
@@ -248,13 +248,11 @@ Elle veille à la qualité éditoriale et à la diversité du contenu de ses pro
 
 Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
 
-5° Outre-mer 1ère : services régionaux généralistes de télévision et de radio diffusés en outre-mer qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
+5° Outre-mer La 1ère : services régionaux généralistes de télévision et de radio diffusés en outre-mer qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
 
 France Télévisions assure également la continuité territoriale des programmes des services de télévision et de radio édités par les sociétés nationales de programme ou leurs filiales répondant à des missions de service public, de la métropole vers l'outre-mer et de l'outre-mer vers la métropole.
 
-La programmation quotidienne des Outre-mer 1ère comprend des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Ces services programment des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs spécificités économiques et sociales.
-
-La société veille à ce que les autres services de télévision qu'elle édite intègrent des programmes des Outre-mer 1ère à des heures d'écoute favorable et rendent compte de la vie économique, sociale et culturelle en outre-mer. Dans le même but, elle peut conclure avec la société Radio France une convention ;
+La programmation quotidienne des Outre-mer La 1ère comprend des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Ces services programment des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs spécificités économiques et sociales.
 
 5° bis France Ô : chaîne des outre-mer qui contribue au partage et à la diffusion des identités, des cultures et de l'actualité des outre-mer, en s'appuyant notamment sur les services mentionnés au 5° et en développant des productions ultra-marines ;
 
@@ -302,17 +300,17 @@ France Télévisions diffuse régulièrement des émissions à caractère musica
 
 Dans ses programmes de variétés, la société donne une place majoritaire à la chanson d'expression française et développe une politique de grands événements, de nouvelles écritures télévisuelles et d'émissions régulières.
 
-Elle s'attache à présenter les nouveaux talents et leur permet d'interpréter leur propre répertoire, notamment dans leur expression régionale sur France 3 et les Outre-mer 1ère. Elle s'efforce de diversifier l'origine des œuvres étrangères diffusées.
+Elle s'attache à présenter les nouveaux talents et leur permet d'interpréter leur propre répertoire, notamment dans leur expression régionale sur France 3 et les Outre-mer La 1ère. Elle s'efforce de diversifier l'origine des œuvres étrangères diffusées.
 
 En outre, la société diffuse chaque année des concerts de musique classique interprétés par des orchestres européens et français, nationaux et régionaux, parmi lesquels figurent ceux de Radio France dans des conditions conjointement définies entre les deux sociétés.
 
-Elle veille à illustrer toutes les formes d'expression de la musique vivante en ouvrant largement ses programmes aux retransmissions de spectacles publics présentés en France, notamment sur France 4, sur France Ô ou en région sur France 3 et sur les Outre-mer 1ère.
+Elle veille à illustrer toutes les formes d'expression de la musique vivante en ouvrant largement ses programmes aux retransmissions de spectacles publics présentés en France.
 
 Article 6
 
 Les spectacles
 
-Grâce aux programmations de France 2, France 3, France 4 et France Ô, France Télévisions fait connaître les diverses formes de l'expression théâtrale, lyrique ou chorégraphique et rend compte de leur actualité.
+France Télévisions fait connaître les diverses formes de l'expression théâtrale, lyrique ou chorégraphique et rend compte de leur actualité.
 
 Le théâtre fait l'objet de retransmissions régulières en direct sur les services nationaux de la société.
 
@@ -354,11 +352,47 @@ La fiction peut également s'inspirer de grands destins d'hommes et de femmes de
 
 La société participe aux actions en faveur de l'éducation au développement durable, notamment à travers les programmes des différents services de communication audiovisuelle qu'elle propose, afin de promouvoir les valeurs d'une nécessaire prise de conscience des périls qui menacent la planète du fait de l'action de l'homme.
 
+Article 7-1
+
+La visibilité des outre-mer
+
+France Télévisions accorde une juste place à la représentation des outre-mer. Elle contribue de manière générale à la visibilité des populations, cultures et territoires ultramarins à travers son offre de programmes sur l'ensemble de ses services, notamment par la présence de programmes de fictions et de documentaires relatifs à l'outre-mer. A cette fin, elle respecte les engagements de programmation et d'investissement suivants :
+
+1° France Télévisions diffuse chaque mois en moyenne annuelle un programme ultramarin en première partie de soirée sur France 2, France 3 ou France 5, en veillant à la diversité des genres et à un certain équilibre entre chaînes.
+
+Est considéré comme programme ultramarin au sens du présent article, un programme remplissant au moins l'un des critères suivants :
+
+- le programme est financé ou co-financé par un ou plusieurs services régionaux généralistes Outre-mer La 1ère ou services de communication au public en ligne qui prolongent, complètent ou enrichissent ces offres ;
+
+- la société qui produit ou coproduit le programme a son siège social dans un territoire ultramarin ou réalise au moins la moitié de son chiffre d'affaires dans un de ces territoires ;
+
+- une part substantielle du contenu du programme est tournée dans un ou plusieurs territoires ultramarins ;
+
+- le programme traite d'un sujet directement lié à un ou plusieurs territoires ultramarins ;
+
+- le programme met en avant de manière significative une personnalité, une initiative, une œuvre, un mouvement, un lieu ou un événement culturel ou historique issu d'un ou plusieurs territoires ultramarins.
+
+2° France 3 diffuse en semaine, à une heure d'écoute appropriée, un bulletin d'information sur l'actualité ultramarine.
+
+3° Les journaux nationaux d'information de France Télévisions accordent une place appropriée à l'actualité, aux territoires et aux populations des territoires ultramarins. Les sujets traités à ce titre font l'objet d'un décompte annuel.
+
+Est considéré comme sujet ultramarin, tout élément d'une édition nationale d'information qui a trait à l'outre-mer.
+
+4° France Télévisions diffuse sur l'un de ses services nationaux de télévision un magazine quotidien généraliste consacré à l'actualité, aux sociétés et aux cultures ultramarines.
+
+5° France Télévisions diffuse régulièrement sur ses services nationaux de télévision des documentaires ultramarins.
+
+6° France Télévisions consacre annuellement au moins deux millions d'euros à la production documentaire locale ultramarine.
+
+7° France Télévisions veille à ce que les services qu'elle édite intègrent des programmes des services régionaux généralistes Outre-mer La 1ère et rendent compte de la vie économique, sociale et culturelle dans les territoires ultramarins. Elle peut, à cette fin, conclure avec la société Radio France et la société en charge de l'audiovisuel extérieur de la France une convention.
+
 Article 8
 
 Les programmes sportifs
 
-France Télévisions s'efforce de conserver la diffusion en direct sur France 2, France 3, France 4, France Ô ou les Outre-mer 1ère des événements sportifs d'importance majeure ou qui font partie du patrimoine national (Tour de France, jeux Olympiques, Roland Garros, Tournoi des six nations, football, etc.) sans pour autant omettre de proposer un très large éventail de disciplines sportives.
+France Télévisions s'efforce de conserver la diffusion en direct sur ses services nationaux de télévision ainsi que sur ses services de communication au public en ligne des événements sportifs d'importance majeure ou qui font partie du patrimoine national sans pour autant omettre de proposer un très large éventail de disciplines sportives.
+
+La société veille à assurer un équilibre dans la représentation du sport féminin et du sport masculin et une juste représentation du handisport.
 
 Dans ses programmes régionaux, elle porte une attention particulière aux manifestations sportives locales et régionales.
 
@@ -376,9 +410,9 @@ Le contrat d'objectifs et de moyens conclu entre l'Etat et France Télévisions 
 
 La société peut par ailleurs nouer des accords spécifiques avec les organisations professionnelles du secteur de la création audiovisuelle et cinématographique.
 
-I bis. ― La chaîne d'information en continu ne diffuse pas d'œuvres cinématographiques de longue durée et réserve annuellement moins de 20 % de son temps de diffusion à des œuvres audiovisuelles.
+I bis. ― Le service de télévision Franceinfo ne diffuse pas d'œuvres cinématographiques de longue durée et réserve annuellement moins de 20 % de son temps de diffusion à des œuvres audiovisuelles.
 
-II. ― Pour l'application des dispositions du chapitre Ier du titre Ier du décret n° 2010-747 du 2 juillet 2010, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de chacun des services France 2, France 3 et France 4 à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 % et respecte les dispositions du II de l'article 10 du décret n° 90-66 du 17 janvier 1990 modifié. La détermination du chiffre d'affaires de France 2, France 3 et France 4 est établie grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet au Conseil supérieur de l'audiovisuel la méthode suivie et les données correspondantes.
+II. ― Pour l'application des dispositions du chapitre Ier du titre Ier du décret n° 2010-747 du 2 juillet 2010, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de chacun de ses services de télévision répondant aux critères d'assujettissement prévus par ce décret à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 % et respecte les dispositions du II de l'article 10 du décret n° 90-66 du 17 janvier 1990 modifié. La détermination du chiffre d'affaires en cause est établie grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet au Conseil supérieur de l'audiovisuel la méthode suivie et les données correspondantes.
 
 Les dépenses mentionnées au 4° de l'article 4 du décret n° 2010-747 du 2 juillet 2010 sont prises en compte pour le calcul de l'obligation résultant de l'article 3 du même décret jusqu'à 0,2 % du chiffre d'affaires annuel net de l'exercice précédent.
 
@@ -394,7 +428,7 @@ IV. ― France Télévisions consacre chaque année au moins 20 % de son chiffre
 
 Cette contribution est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-Pour les exercices 2019 à 2022, elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer 1ère.
+Pour les exercices 2019 à 2022, elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère.
 
 Déduction faite de ces dépenses, la part minimale de cette contribution consacrée au développement de la production indépendante, au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre, s'établit à 82,5 %. Cette part est intégralement réalisée avec des entreprises de production dont France Télévisions ne détient, directement ou indirectement, ni part du capital social, ni droit de vote.
 
@@ -442,7 +476,7 @@ Article 11
 
 La fiction audiovisuelle
 
-France Télévisions développe une action ambitieuse en matière de fiction audiovisuelle, en s'efforçant de proposer une offre originale et complémentaire sur ses services de télévision. Elle favorise le renouvellement des écritures, des formats et des thèmes.
+France Télévisions développe une action ambitieuse en matière de fiction audiovisuelle, en s'efforçant de proposer une offre originale et complémentaire sur ses différents services. Elle favorise le renouvellement des écritures, des formats et des thèmes.
 
 L'effort doit porter notamment sur l'adaptation du patrimoine littéraire français et sur l'écriture de fictions abordant et éclairant les problématiques et les évolutions de la société contemporaine. La fiction doit également refléter toute la diversité de la société française.
 
@@ -458,15 +492,15 @@ Article 13
 
 Les programmes pour la jeunesse
 
-I. ― La société diffuse, en veillant à la complémentarité entre tous ses différents services, des programmes destinés à la jeunesse, aux jours et heures auxquels ce public est disponible et en tenant compte notamment des congés scolaires et de la libération du samedi matin.
+I. ― La société diffuse, en veillant à la complémentarité entre tous ses différents services, une offre riche et diversifiée de programmes destinés à la jeunesse, en préservant leur présence significative sur ses services de télévision aux jours et heures auxquels ce public est disponible et en tenant compte notamment des congés scolaires et de la libération du samedi matin.
 
 Ces programmes contribuent à la lutte contre les discriminations et s'efforcent de promouvoir les valeurs d'intégration et de civisme qui favorisent notamment l'accès des jeunes à la citoyenneté.
 
 La société accorde une attention particulière aux programmes destinés aux enfants et aux adolescents. Elle participe à leur éveil et les accompagne dans leur développement. Elle cherche à développer chez les jeunes téléspectateurs la conscience des droits et des responsabilités dans le cadre de leur vie quotidienne. Elle favorise l'acquisition par chacun de l'autonomie et de la capacité à élaborer un projet personnel.
 
-Dans le cadre de la charte visant à promouvoir une alimentation et une activité physique favorable à la santé dans les programmes et les publicités diffusées à la télévision dont elle est signataire, la programmation de la société assure la promotion de comportements nutritionnels équilibrés et la pratique d'activités physiques régulières afin de prévenir l'obésité infantile et le surpoids.
+II. ― France Télévisions renforce sa place de premier investisseur dans les programmes jeunesse en France pour pouvoir offrir un large choix de programmes pour tous les âges. A ce titre, la société maintient un effort particulier dans le domaine de la production originale d'œuvres d'animation, y compris cinématographiques, d'expression originale française conformément aux accords particuliers sur l'animation qu'elle a conclus avec les représentants des professionnels. Elle s'attache par ailleurs à développer une offre originale et complémentaire de création patrimoniale, de magazines et de divertissement adaptée aux enfants et aux adolescents.
 
-II. ― France Télévisions doit renforcer sa place de premier investisseur dans les programmes jeunesse en France pour pouvoir offrir un large choix de programmes pour tous les âges. A ce titre, la société réalise un effort particulier dans le domaine de la production originale d'émissions pour la jeunesse et s'efforce de promouvoir la production d'animation d'expression originale française conformément aux accords particuliers sur l'animation qu'elle a conclus avec les représentants des professionnels.
+III. ― Dans le cadre de la charte visant à promouvoir une alimentation et des comportements favorables à la santé dans les programmes audiovisuels et les publicités, dont elle est signataire, la programmation de la société assure la promotion de comportements nutritionnels équilibrés et de la pratique d'activités physiques régulières afin de prévenir l'obésité infantile et le surpoids.
 
 Article 14
 
@@ -534,7 +568,7 @@ La société met en œuvre les règles de respect des horaires et de la programm
 
 Elle fait connaître ses programmes deux semaines avant leur diffusion et ne peut les modifier, dans ce délai, sauf circonstances particulières le justifiant.
 
-Par dérogation aux deux alinéas précédents, la structure de la grille de la chaîne d'information en continu et ses évolutions sont rendues publiques dès qu'elles sont déterminées, sauf en cas de survenance d'un événement exceptionnel et majeur lié à l'actualité.
+Par dérogation aux deux alinéas précédents, la structure de la grille du service de télévision Franceinfo et ses évolutions sont rendues publiques dès qu'elles sont déterminées, sauf en cas de survenance d'un événement exceptionnel et majeur lié à l'actualité.
 
 Article 20
 
@@ -574,9 +608,9 @@ Article 22
 
 Les services de médias audiovisuels à la demande
 
-France Télévisions conçoit et met à disposition des services de médias audiovisuels à la demande notamment afin d'assurer l'exposition de contenus de complément ou des contenus spécifiques conformes aux missions de service public confiées à France Télévisions. Ces services s'efforcent de garantir une exposition et un accès à l'ensemble des genres de programmes : fiction, séries, animation, documentaires, spectacle vivant, magazines, information, sport, programmes religieux, divertissement, programmes culturels, etc.
+France Télévisions conçoit et met à disposition des services de médias audiovisuels à la demande notamment afin d'assurer l'exposition de contenus de complément ou des contenus spécifiques conformes aux missions de service public confiées à France Télévisions. Ces services s'efforcent de garantir une exposition et un accès à l'ensemble des genres de programmes : fiction, séries, cinéma, animation, documentaires, spectacle vivant, magazines, information, sport, programmes religieux, divertissement, programmes culturels, etc.
 
-France Télévisions propose en particulier une offre de télévision de rattrapage permettant une nouvelle mise à disposition auprès du public des programmes diffusés sur ses services de télévision. A compter de l'extinction de la diffusion par voie hertzienne terrestre en mode analogique des services de télévision sur l'ensemble du territoire métropolitain, l'ensemble des programmes diffusés sur les services de télévision de France Télévisions sont disponibles gratuitement pendant une période minimale de sept jours à compter de leur première diffusion à l'antenne, à l'exception des œuvres cinématographiques et, le cas échéant, des programmes sportifs.
+France Télévisions propose en particulier une offre de télévision de rattrapage permettant une nouvelle mise à disposition auprès du public des programmes diffusés sur ses services de télévision. Ces programmes sont, sauf exception circonstanciée, disponibles gratuitement pendant une période minimale de sept jours à compter de leur première diffusion à l'antenne.
 
 Article 23
 
@@ -590,7 +624,7 @@ Article 24
 
 La promotion de la programmation
 
-France Télévisions assure sur ses différents services la promotion à des fins d'information des programmes de ses services de télévision et de services de médias audiovisuels à la demande.
+France Télévisions assure sur ses différents services la promotion à des fins d'information de ses programmes et de ses services de télévision et de médias audiovisuels à la demande.
 
 Elle diffuse gratuitement sur ses services de brèves séquences présentant le programme d'Arte, ainsi que des séquences produites par la société Radio France, selon des modalités définies d'un commun accord.
 
@@ -638,9 +672,9 @@ Ne comportent pas de messages publicitaires autres que des messages génériques
 
 Article 28
 
-Disposition particulière à la chaîne d'information en continu.
+Disposition particulière au service de télévision Franceinfo
 
-La chaîne d'information en continu ne diffuse pas de message publicitaire.
+Le service de télévision Franceinfo ne diffuse pas de message publicitaire.
 
 Article 29
 
@@ -814,7 +848,7 @@ La lutte contre les discriminations et la représentation de la diversité à l'
 
 France Télévisions prend en compte, dans la représentation à l'antenne, la diversité des origines et des cultures de la communauté nationale.
 
-Elle veille à ce que ses programmes donnent une image la plus impartiale possible de la société française dans toute sa diversité. Elle accorde également une attention particulière au traitement par les programmes qu'elle offre des différentes composantes de la population. A cet égard, elle contribue à la visibilité des populations et cultures ultramarines sur l'ensemble de ses services notamment par la présence de programmes de fictions et de documentaires relatifs à l'outre-mer.
+Elle veille à ce que ses programmes donnent une image la plus impartiale possible de la société française dans toute sa diversité. Elle accorde également une attention particulière au traitement par les programmes qu'elle offre des différentes composantes de la population.
 
 De façon générale, elle promeut les valeurs d'une culture et d'un civisme partagés.
 
@@ -824,15 +858,15 @@ Article 38
 
 L'accès des programmes aux personnes handicapées
 
-Dans le respect de son contrat d'objectifs et de moyens, France Télévisions veille à rendre accessibles ses programmes aux personnes handicapées.
+Dans les conditions définies par son contrat d'objectifs et de moyens, France Télévisions rend accessibles l'ensemble des programmes de ses services de télévision aux personnes handicapées sous réserve des dérogations justifiées par les caractéristiques de certains d'entre eux et porte une attention particulière à l'accessibilité des programmes d'information, en particulier ceux diffusés par le service de télévision Franceinfo, par le recours à la traduction en langue des signes et au sous-titrage adapté.
 
 Elle adapte les conditions de diffusion des programmes aux difficultés des personnes sourdes ou malentendantes.
 
 Elle diffuse des programmes accessibles aux personnes aveugles ou malvoyantes, dans les conditions prévues par le contrat d'objectifs et de moyens.
 
-A ces fins, elle développe une concertation étroite avec les associations représentatives des personnes handicapées.
+Elle veille de manière générale à la qualité des moyens d'accessibilité qu'elle met en œuvre.
 
-Elle porte une attention particulière à l'accessibilité des programmes d'information, en particulier ceux diffusés par la chaîne d'information en continu, par le recours à la traduction en langue des signes et au sous-titrage adapté.
+A ces fins, elle développe une concertation étroite avec les associations représentatives des personnes handicapées.
 
 Article 39
 
@@ -1042,9 +1076,9 @@ A défaut d'accord entre la société et l'INA, les parties peuvent saisir le mi
 
 Article 60-1
 
-Les relations avec les autres sociétés et organismes du secteur audiovisuel public en vue de leur participation à la chaîne d'information en continu.
+Les relations avec les autres sociétés et organismes du secteur audiovisuel public en vue de leur participation au service de télévision Franceinfo
 
-Pour l'élaboration de la chaîne d'information en continu, la société recourt, outre à ses propres productions, à des programmes d'autres organismes du secteur public de la communication audiovisuelle, notamment Radio France, la société en charge de l'audiovisuel extérieur de la France et l'Institut national de l'audiovisuel.
+Pour l'élaboration du service de télévision Franceinfo, la société recourt, outre à ses propres productions, à des programmes d'autres organismes du secteur public de la communication audiovisuelle, notamment Radio France, la société en charge de l'audiovisuel extérieur de la France et l'Institut national de l'audiovisuel.
 
 Les modalités de cette coopération sont définies par conventions entre ces sociétés et organismes.
 
