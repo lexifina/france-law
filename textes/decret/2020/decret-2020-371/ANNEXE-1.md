@@ -22,6 +22,10 @@ Débits de boissons
 
 Projection de films cinématographiques et autres industries techniques du cinéma et de l'image animée
 
+Post-production de films cinématographiques, de vidéo et de programmes de télévision
+
+Distribution de films cinématographiques
+
 Location et location-bail d'articles de loisirs et de sport
 
 Activités des agences de voyage
@@ -43,6 +47,8 @@ Arts du spectacle vivant
 Activités de soutien au spectacle vivant
 
 Création artistique relevant des arts plastiques
+
+Galeries d'art
 
 Artistes auteurs
 
@@ -67,6 +73,8 @@ Autres activités liées au sport
 Activités des parcs d'attractions et parcs à thèmes
 
 Autres activités récréatives et de loisirs
+
+Exploitations de casinos
 
 Entretien corporel
 

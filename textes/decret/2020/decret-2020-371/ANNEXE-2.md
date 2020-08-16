@@ -78,6 +78,20 @@ Prestation/ location de chapiteaux, tentes, structures, sonorisation, lumière e
 
 Services auxiliaires des transports aériens
 
+Services auxiliaires de transport par eau
+
 Transports de voyageurs par taxis et véhicules de tourisme avec chauffeur
 
 Location de courte durée de voitures et de véhicules automobiles légers
+
+Boutique des galeries marchandes et des aéroports
+
+Traducteurs-interprètes
+
+Magasins de souvenirs et de piété
+
+Autres métiers d'art
+
+Paris sportifs
+
+Activités liées à la production de matrices sonores originales, sur bandes, cassettes, CD, la mise à disposition des enregistrements, leur promotion et leur distribution
