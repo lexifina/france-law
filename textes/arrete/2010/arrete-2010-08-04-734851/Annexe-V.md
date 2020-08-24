@@ -2,74 +2,40 @@
 
 CHANGEMENT D'ARMÉE OU DE CORPS POUR INTÉGRER LE CORPS DES SOUS-OFFICIERS DE GENDARMERIE OU LE CORPS DE SOUTIEN TECHNIQUE ET ADMINISTRATIF DE LA GENDARMERIE NATIONALE
 
-La commission d'avancement mentionnée à l'article 6 se compose des officiers désignés dans le tableau ci-après :
+La commission d'avancement mentionnée à l'article 6 se compose des membres désignés dans le tableau ci-après :
 
-PRÉSIDENCE
+PRÉSIDENCE DE LA COMMISSION
 
-de la commission
+titulaire |
 
-titulaire
+PRÉSIDENCE DE LA COMMISSION
 
-|
+suppléant |
 
-PRÉSIDENCE
+MEMBRES |
 
-de la commission suppléant
+Pour les candidatures de sous-officiers demandant à intégrer le corps des sous-officiers de gendarmerie |
 
-|
+Le sous-directeur de la gestion du personnel. |
 
-MEMBRES
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-|
+Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou son représentant. |
 
-Pour les candidatures de sous-officiers demandant à intégrer le corps des sous-officiers de gendarmerie
+Le chef du bureau du recrutement, des concours et des examens. |
 
-|
+Un officier supérieur de l'inspection générale des armées-gendarmerie. |
 
-Le sous-directeur de la gestion du personnel.
+Pour les candidatures de sous-officiers demandant à intégrer le corps de soutien technique et administratif de la gendarmerie nationale |
 
-|
+Le sous-directeur de la gestion du personnel. |
 
-L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-|
+Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son adjoint. |
 
-Le chef du bureau du personnel sous-officier de gendarmerie et volontaire, ou son représentant.
+Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur des personnels militaires de la gendarmerie nationale. |
 
-|
+Le chef du bureau du recrutement, des concours et des examens, ou son adjoint. |
 
-Le chef du bureau du recrutement, des concours et des examens.
-
-|
-
-Un officier supérieur de l'inspection générale des armées-gendarmerie.
-
-|
-
-Pour les candidatures de sous-officiers demandant à intégrer le corps de soutien technique et administratif de la gendarmerie nationale
-
-|
-
-Le sous-directeur de la gestion du personnel.
-
-|
-
-L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
-
-|
-
-Le chef du bureau du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale, ou son adjoint.
-
-|
-
-Un officier supérieur du corps technique et administratif de la gendarmerie nationale désigné par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
-
-Le chef du bureau du recrutement, des concours et des examens, ou son adjoint.
-
-|
-
-Un officier supérieur de l'inspection générale des armées-gendarmerie.
-
-|
+Un officier supérieur de l'inspection générale des armées-gendarmerie. |

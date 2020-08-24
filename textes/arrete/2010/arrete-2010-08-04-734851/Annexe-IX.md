@@ -2,56 +2,32 @@
 
 MILITAIRES DE RÉSERVE DE LA GENDARMERIE NATIONALE
 
-La commission d'avancement mentionnée à l'article 10 se compose des officiers désignés dans le tableau ci-après :
+La commission d'avancement mentionnée à l'article 10 se compose des membres désignés dans le tableau ci-après :
 
 PRÉSIDENCE DE LA COMMISSION
 
-titulaire
-
-|
+titulaire |
 
 PRÉSIDENCE DE LA COMMISSION
 
-suppléant
+suppléant |
 
-|
+MEMBRES |
 
-MEMBRES
+Officiers |
 
-|
+Le directeur des personnels militaires de la gendarmerie nationale. |
 
-Officiers
+Le sous-directeur de la gestion du personnel. |
 
-|
+Le commandant du commandement des réserves de la gendarmerie. |
 
-Le directeur des personnels militaires de la gendarmerie nationale.
+Le chef du bureau des ressources humaines du commandement des réserves de la gendarmerie ou son représentant. |
 
-|
+Sous-officiers et militaires du rang |
 
-Le sous-directeur de la gestion du personnel.
+Le commandant de la formation administrative. |
 
-|
+Le commandant en second s'il existe, à défaut, l'officier le plus ancien dans le grade le plus élevé de la formation administrative. |
 
-Le commandant du commandement des réserves de la gendarmerie.
-
-|
-
-Le chef du bureau des ressources humaines du commandement des réserves de la gendarmerie ou son représentant.
-
-|
-
-Sous-officiers et militaires du rang
-
-|
-
-Le commandant de la formation administrative.
-
-|
-
-Le commandant en second s'il existe, à défaut, l'officier le plus ancien dans le grade le plus élevé de la formation administrative.
-
-|
-
-Deux officiers supérieurs désignés par le commandant de la formation administrative dont un officier chargé des réserves.
-
-|
+Deux officiers supérieurs désignés par le commandant de la formation administrative dont un officier chargé des réserves. |

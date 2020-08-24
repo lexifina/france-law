@@ -2,41 +2,27 @@
 
 SOUS-OFFICIERS DE GENDARMERIE
 
-La commission d'avancement mentionnée à l'article 4 se compose des officiers désignés dans le tableau ci-après :
+La commission d'avancement mentionnée à l'article 4 se compose des membres désignés dans le tableau ci-après :
 
-1. Branches de la subdivision d'arme de la gendarmerie départementale
+1. Branches de la subdivision d'arme de la gendarmerie départementale :
 
-BRANCHES
+BRANCHES |
 
-|
+PRÉSIDENCE DE LA COMMISSION
 
-PRÉSIDENCE
+titulaire |
 
-de la commission titulaire
+PRÉSIDENCE DE LA COMMISSION
 
-|
+suppléante |
 
-PRÉSIDENCE
+MEMBRES |
 
-de la commission suppléante
+Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative. |
 
-|
+L'officier le plus ancien dans le grade le plus élevé parmi les membres présents. |
 
-MEMBRES
-
-|
-
-Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative.
-
-|
-
-L'officier le plus ancien dans le grade le plus élevé parmi les membres présents.
-
-|
-
-/
-
-|
+/ |
 
 Le commandant en second du groupement de gendarmerie départementale ayant le statut de formation administrative.
 
@@ -44,9 +30,7 @@ Les commandants des groupements de gendarmerie départementale placés sous l'au
 
 Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant.
-
-|
+Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant. |
 
 Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant de région de gendarmerie (à l'exception de celles placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative). |
 
@@ -58,17 +42,11 @@ Les commandants des groupements de gendarmerie départementale subordonnés ou, 
 
 Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-Le commandant de la section d'appui judiciaire ou à défaut, son suppléant.
+Le commandant de la section d'appui judiciaire ou à défaut, son suppléant. |
 
-|
+Pour les autres régions de gendarmerie : l'officier le plus ancien dans le grade le plus élevé parmi les membres présents. |
 
-Pour les autres régions de gendarmerie : l'officier le plus ancien dans le grade le plus élevé parmi les membres présents.
-
-|
-
-/
-
-|
+/ |
 
 Le commandant en second de la région de gendarmerie.
 
@@ -76,9 +54,7 @@ Les commandants des groupements de gendarmerie départementale subordonnés (à 
 
 Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant.
-
-|
+Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant. |
 
 Gendarmerie de l'air. |
 
@@ -90,9 +66,7 @@ Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le p
 
 Les commandants de groupement ou les commandants de groupement par suppléance.
 
-Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
-
-|
+Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance. |
 
 Gendarmerie maritime. |
 
@@ -104,9 +78,7 @@ Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le p
 
 Les commandants de groupement ou les commandants de groupement par suppléance.
 
-Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
-
-|
+Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance. |
 
 Gendarmerie des transports aériens. |
 
@@ -118,9 +90,7 @@ Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le p
 
 Les commandants de groupement ou les commandants de groupement par suppléance.
 
-Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance.
-
-|
+Le commandant de la section de recherches ou le commandant de la section de recherches par suppléance. |
 
 Gendarmerie de l'armement. |
 
@@ -130,27 +100,19 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 Deux officiers supérieurs de la branche considérée, à défaut, désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
-2. Branches de la subdivision d'arme de la gendarmerie mobile
+2. Branches de la subdivision d'arme de la gendarmerie mobile :
 
-BRANCHES
+BRANCHES |
 
-|
+PRÉSIDENCE DE LA COMMISSION
 
-PRÉSIDENCE
+titulaire |
 
-de la commission titulaire
+PRÉSIDENCE DE LA COMMISSION
 
-|
+suppléante |
 
-PRÉSIDENCE
-
-de la commission suppléante
-
-|
-
-MEMBRES
-
-|
+MEMBRES |
 
 Ensemble des formations de gendarmerie mobile placées sous l'autorité du commandant de chaque région de gendarmerie située au siège de la zone de défense et de sécurité. |
 
@@ -168,13 +130,11 @@ L'officier supérieur le plus ancien dans le grade le plus élevé parmi les mem
 
 Les commandants de régiment ou les commandants de régiment par suppléance.
 
-L'administrateur, régisseur des formations musicales de la garde républicaine.
-
-|
+L'administrateur, régisseur des formations musicales de la garde républicaine. |
 
 (1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire chef d'état-major. |
 
-3. Branches communes aux deux subdivisions d'arme.
+3. Branches communes aux deux subdivisions d'arme :
 
 BRANCHES |
 
@@ -184,27 +144,25 @@ titulaire |
 
 PRÉSIDENCE DE LA COMMISSION
 
-suppléant |
+suppléante |
 
 MEMBRES |
 
 Personnel servant outre-mer, en assistance militaire technique. |
 
-Le chef d'état-major du commandement de la gendarmerie outre-mer. |
+Le commandant en second du commandement de la gendarmerie outre-mer. |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement de la gendarmerie outre-mer. |
+Le chef d'état-major du commandement de la gendarmerie outre-mer. |
 
 Les commandants territoriaux de la gendarmerie outre-mer ou les officiers supérieurs les représentant désignés par le général, commandant la gendarmerie outre-mer.
 
-Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer.
-
-|
+Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer. |
 
 Personnel servant en ambassade. |
 
-Le chef d'état-major du commandement de la gendarmerie outre-mer. |
+Le commandant en second du commandement de la gendarmerie outre-mer. |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement de la gendarmerie outre-mer. |
+Le chef d'état-major du commandement de la gendarmerie outre-mer. |
 
 Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer. |
 
@@ -226,9 +184,7 @@ Cinq officiers supérieurs désignés par le commandant du soutien opérationnel
 
 Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale, commandement de la gendarmerie prévôtale, commandement spécialisé pour la sécurité nucléaire, commandement des réserves de la gendarmerie).
 
-Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
+Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
 Organismes centraux, branche secrétariat. |
 
@@ -238,13 +194,11 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des personnels militaires de la gendarmerie nationale et à la direction des soutiens et des finances.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, mission du pilotage et de la performance, service de l'achat, des équipements et de la logistique de la sécurité intérieure).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, service de la transformation, service des achats, de l'innovation et de la logistique du ministère de l'intérieur).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
+Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
 Organismes centraux, branche formations extérieures. |
 
@@ -254,9 +208,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
-Un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
+Un officier supérieur de la gendarmerie nationale par formation concernée comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur. Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
 Personnel servant au sein du groupe d'intervention de la gendarmerie nationale. |
 
@@ -276,35 +228,23 @@ Le directeur de l'institut de recherche criminelle de la gendarmerie nationale o
 
 Le commandant du service central de renseignement criminel de la gendarmerie nationale ou l'adjoint au commandant du service central de renseignement criminel de la gendarmerie nationale par suppléance.
 
-Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale.
+Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale. |
 
-|
+(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale. |
 
-(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale.
+4. Spécialités :
 
-|
+BRANCHES |
 
-4. Spécialités
+PRÉSIDENCE DE LA COMMISSION
 
-BRANCHES
+titulaire |
 
-|
+PRÉSIDENCE DE LA COMMISSION
 
-PRÉSIDENCE
+suppléante |
 
-de la commission titulaire
-
-|
-
-PRÉSIDENCE
-
-de la commission suppléante
-
-|
-
-MEMBRES
-
-|
+MEMBRES |
 
 Aéronautique, pilotes
 
@@ -312,9 +252,7 @@ Aéronautique, mécaniciens cellules et moteurs.
 
 Aéronautique, mécaniciens avionique.
 
-Aéronautique, opérateurs aérosurveillance et avitailleurs.
-
-|
+Aéronautique, opérateurs aérosurveillance et avitailleurs. |
 
 Le commandant des forces aériennes de la gendarmerie nationale. |
 
@@ -326,18 +264,10 @@ Affaires immobilières.
 
 Montagne.
 
-Systèmes d'information et de communication.
+Systèmes d'information et de communication. |
 
-|
+Le sous-directeur de la gestion du personnel. |
 
-Le sous-directeur de la gestion du personnel.
+L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
-|
-
-L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel.
-
-|
-
-Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale.
-
-|
+Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale. |

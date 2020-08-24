@@ -2,72 +2,38 @@
 
 OFFICIERS DU CORPS TECHNIQUE ET ADMINISTRATIF DE LA GENDARMERIE NATIONALE
 
-La commission d'avancement mentionnée à l'article 3 se compose des officiers désignés dans le tableau ci-après :
+La commission d'avancement mentionnée à l'article 3 se compose des membres désignés dans le tableau ci-après :
 
 PRÉSIDENCE DE LA COMMISSION
 
-titulaire
-
-|
+titulaire |
 
 PRÉSIDENCE DE LA COMMISSION
 
-suppléant
-
-|
+suppléant |
 
 MEMBRES
 
-titulaires
-
-|
+titulaires |
 
 MEMBRES
 
-suppléants
+suppléants |
 
-|
+Le directeur général de la gendarmerie nationale. |
 
-Le directeur général de la gendarmerie nationale.
+L'officier général, membre de la commission, le plus ancien dans le grade, le rang et l'appellation les plus élevés. |
 
-|
+L'inspecteur général des armées-gendarmerie. |
 
-L'officier général, membre de la commission,
+Le chef de l'inspection générale de la gendarmerie nationale. |
 
-le plus ancien dans le grade, le rang et l'appellation les plus élevés.
+Le major général de la gendarmerie nationale. |
 
-|
+Le commandant des écoles de la gendarmerie nationale. |
 
-L'inspecteur général des
+Le directeur des personnels militaires de la gendarmerie nationale. |
 
-armées - gendarmerie.
+Le sous-directeur de la gestion du personnel. |
 
-|
-
-Le chef de l'inspection
-
-générale de la gendarmerie nationale.
-
-|
-
-Le major général de la
-
-gendarmerie nationale.
-
-|
-
-Le commandant des écoles de la gendarmerie nationale.
-
-|
-
-Le directeur des personnels militaires de la gendarmerie nationale.
-
-|
-
-Le sous-directeur de la gestion du personnel.
-
-|
-
-Le général de gendarmerie, conseiller sécurité auprès du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, et le conseiller sécurité intérieure du chef du cabinet militaire du ministre de la défense (CM 14) assistent aux réunions de la commission.
-
-|
+Le conseiller sécurité auprès du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, et le conseiller sécurité intérieure du chef du cabinet militaire du ministre de la défense (CM 14) assistent aux réunions de la commission. |
