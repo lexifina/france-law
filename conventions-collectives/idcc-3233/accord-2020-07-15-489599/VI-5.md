@@ -1,0 +1,5 @@
+# Article VI.5
+
+Toute organisation syndicale représentative, toute organisation ou association d'employeurs, ou des employeurs pris individuellement, non signataire du présent accord, pourront y adhérer par simple déclaration auprès du ministère en charge des relations du travail.
+
+L'adhésion est notifiée aux parties signataires et doit faire l'objet d'un dépôt, conformément à l'article L. 2261-3 du code du travail.
