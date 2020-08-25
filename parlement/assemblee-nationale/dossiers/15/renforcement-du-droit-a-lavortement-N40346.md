@@ -1,0 +1,95 @@
+# Renforcement du droit à l'avortement
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40346
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/renforcement_du_droit_a_lavortement
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-023.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-08-25 : 1er dépôt d'une initiative. (PIONANR5L15B3292)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-08-25 : Renvoi en commission au fond
+      - 2020-09-15 : Nomination de rapporteur
+      - 2020-09-30 : Réunion de commission
+      - 2020-10-08 : Réunion de commission
+      - 2020-09-30 : Dépôt de rapport (RAPPANR5L15B3383, PIONANR5L15BTC3383)
+  - Discussion en séance publique
+    - 2020-10-08 : Discussion en séance publique
+    - 2020-10-08 : Discussion en séance publique
+    - 2020-10-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-10-09 : Dépôt d'une initiative en navette (PIONSNR5S359B0023)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-09 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-01-13 : Dépôt de rapport (RAPPSNR5S359B0263, PIONSNR5S359BTC0264)
+  - Discussion en séance publique
+    - 2021-01-20 : Décision
+- deuxième lecture
+  - 2021-01-21 : Dépôt d'une initiative en navette (PIONANR5L15B3793)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-21 : Renvoi en commission au fond
+      - 2020-09-15 : Nomination de rapporteur
+      - 2021-02-02 : Réunion de commission
+      - 2021-02-10 : Réunion de commission
+      - 2021-11-29 : Réunion de commission
+      - 2021-02-10 : Dépôt de rapport (RAPPANR5L15B3879, PIONANR5L15BTC3879)
+  - Discussion en séance publique
+    - 2021-11-29 : Discussion en séance publique
+    - 2021-11-29 : Discussion en séance publique
+    - 2021-11-30 : Discussion en séance publique
+    - 2021-11-30 : Discussion en séance publique
+    - 2021-11-30 : Décision
+- deuxième lecture
+  - 2021-12-01 : Dépôt d'une initiative en navette (PIONSNR5S379B0242)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-12-01 : Renvoi en commission au fond
+      - 2022-01-12 : Dépôt de rapport (RAPPSNR5S379B0342, PIONSNR5S379BTC0343)
+  - Discussion en séance publique
+    - 2022-01-19 : Discussion en séance publique
+    - 2022-01-19 : Décision
+- Commission Mixte Paritaire
+  - 2022-01-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-01-20 : Nomination de rapporteur
+    - 2022-01-20 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0374, PIONSNR5S379BTC0375)
+    - 2022-01-20 : Dépôt du rapport d'une CMP (RAPPANR5L15B4934)
+  - 2022-01-20 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-01-19 : Dépôt d'une initiative en navette (PIONANR5L15B4929)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-19 : Renvoi en commission au fond
+      - 2022-02-02 : Réunion de commission
+      - 2022-02-10 : Réunion de commission
+      - 2022-02-02 : Dépôt de rapport (RAPPANR5L15B4985, PIONANR5L15BTC4985)
+  - Discussion en séance publique
+    - 2022-02-10 : Discussion en séance publique
+    - 2022-02-10 : Discussion en séance publique
+    - 2022-02-10 : Décision
+- Nouvelle Lecture
+  - 2022-02-10 : Dépôt d'une initiative en navette (PIONSNR5S379B0481)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-10 : Renvoi en commission au fond
+      - 2022-02-16 : Dépôt de rapport (RAPPSNR5S379B0493, PIONSNR5S379BTC0494)
+  - Discussion en séance publique
+    - 2022-02-16 : Discussion en séance publique
+    - 2022-02-16 : Décision
+- Lecture définitive
+  - 2022-02-17 : Dépôt d'une initiative en navette (PIONANR5L15BTA0799)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-17 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2022-02-23 : Discussion en séance publique
+    - 2022-02-23 : Décision
+- Promulgation de la loi
+  - 2022-03-02 : Promulgation d'une loi
