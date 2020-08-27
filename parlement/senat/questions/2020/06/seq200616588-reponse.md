@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616588
+
+- Question : [SEQ200616588](seq200616588.md) — Avenir de la brigade loups
+
+## Réponse
+
+*Transition écologique, JO du 2020-08-27, page 3818*
+
+L'action de cette brigade mise en place par l'État est saluée par l'ensemble des acteurs pour son efficacité dans la défense des troupeaux. Créée au sein de l'Office national de la chasse et de la faune sauvage (ONCFS) en 2015, elle a en effet été pérennisée dès 2018, conformément à l'engagement pris dans le plan national d'action « loup et activités d'élevage » 2018-2023. Les contrats aidés ont alors été remplacés par des contrats à durée déterminée d'un an, renouvelable une fois. L'existence de la brigade mobile d'intervention loup est bien maintenue au sein de l'Office français de la biodiversité (OFB), auquel l'ONCFS a été intégré depuis le 1er janvier 2020. La brigade comprend désormais 14 agents opérationnels dont 10 en contrat à durée déterminée (CDD). Si la brigade a été pérennisée en 2018, il n'est pas possible de titulariser les agents contractuels pour raisons statutaires. La voie des concours de la fonction publique est la seule possibilité offerte pour acquérir un emploi pérenne au sein de cet établissement public. Les agents en CDD arrivant progressivement en fin de contrat, le renouvellement de leurs dix postes sera échelonné entre le 1er septembre et le 1er décembre 2020. L'OFB met en place un processus de recrutement après appel à candidatures qui offrira l'opportunité aux agents volontaires de postuler à nouveau pour un contrat à durée déterminée. Cette procédure permettra d'assurer à la fois la continuité et la qualité du service apporté aux éleveurs, voire d'améliorer globalement les performances de cette brigade renouvelée. Le Gouvernement s'engage à maintenir l'activité de la brigade loup dont l'existence n'est en aucune mesure menacée.
