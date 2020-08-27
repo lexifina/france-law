@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012666
+
+- Question : [SEQ191012666](seq191012666.md) — Suppression du prêt à taux zéro en zone rurale
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-08-27, page 3705*
+
+Le dispositif mentionné vise à octroyer un prêt à taux nul couvrant une partie de l'investissement immobilier d'un ménage sous condition de revenus et n'ayant pas été propriétaire de sa résidence principale au cours des 2 années précédant le prêt. Le prêt à taux zéro (PTZ) dans le neuf en zones B2 et C a été recentré par la LFI 2018 à travers la baisse de la quotité de prêt de 40 % à 20 %. Un tel recentrage s'explique d'abord par le fait que toutes les études sur le PTZ démontrent un effet déclencheur très limité. Plutôt que d'améliorer l'éligibilité d'un ménage à un crédit immobilier, le PTZ vient essentiellement augmenter la capacité d'emprunt d'un ménage qui aurait, dans tous les cas, fait le choix d'accéder à la propriété et qui aurait trouvé un financement, avec ou sans le dispositif. Ensuite, dans les zones B2 et C où l'offre de logements disponibles excède la demande, il existe un stock de logements inoccupés important et les prix immobiliers y sont généralement faibles. Dès lors, ce dispositif venant subventionner la construction de nouveaux logements, contribue à accroître ce déséquilibre, et qui amène à renforcer la dynamique baissière des prix, à favoriser la désertification des centres bourgs et à limiter la mobilité de certains propriétaires modestes. Enfin, dans ces zones la construction de logements neufs se fait en grande majorité sur des terrains nus situés en périphérie. Ainsi, le PTZ neuf contribue à subventionner l'étalement urbain et l'artificialisation des sols dont les conséquences négatives sur l'environnement et la biodiversité ont été rappelées dans de récents rapports institutionnels (Comité pour l'économie verte, France Stratégie).
