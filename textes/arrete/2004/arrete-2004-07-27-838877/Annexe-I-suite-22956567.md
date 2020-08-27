@@ -826,7 +826,7 @@ A compter du 01/01/12 |
 
 5,8 m/s² |
 
-Véhicules de transport en commun de personnes (catégories M2 et M3) |
+Véhicules de transport en commun de personnes (catégories M2 et M3, navettes urbaines et remorques O2 et O3 affectées au transport de personnes en milieu urbain) |
 
 Toutes dates |
 
@@ -896,7 +896,7 @@ A compter du 01/01/12 |
 
 4,5 m/s² |
 
-Remorques (catégories O3 et O4) |
+Remorques (catégories O3 et O4, à l'exception des remorques O3 affectées au transport de personnes en milieu urbain) |
 
 Jusqu'au 30/05/90 |
 
@@ -944,7 +944,7 @@ A compter du 01/01/12 |
 
 2,9 m/s² |
 
-Véhicules de transport en commun de personnes (catégories M2 et M3) |
+Véhicules de transport en commun de personnes (catégories M2 et M3, navettes urbaines et remorques O2 et O3 affectées au transport de personnes en milieu urbain) |
 
 Toutes dates |
 
@@ -1014,7 +1014,7 @@ A compter du 01/01/12 |
 
 2,3 m/s² |
 
-Remorques (catégories O3 et O4) |
+Remorques (catégories O3 et O4, à l'exception des remorques O3 affectées au transport de personnes en milieu urbain) |
 
 Jusqu'au 30/05/90 |
 
@@ -1119,3 +1119,7 @@ F. 4.11. Transports de marchandises dangereuses affectés exclusivement à la cl
 F. 4.12. Roulottes habitables
 
 F. 4.13. Véhicules pour le transport de vitrages. "
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 19 juin 2020 (NOR : TRER2016056A), les présentes dispositions entrent en vigueur à compter du 27 août 2020.

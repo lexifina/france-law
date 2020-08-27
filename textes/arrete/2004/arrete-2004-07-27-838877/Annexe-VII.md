@@ -66,7 +66,7 @@ L'agrément ne peut être réattribué qu'après correction des anomalies ayant 
 
 4.3.1. Le changement de centre de rattachement à l'intérieur du même département.
 
-La notification est accompagnée d'une attestation visée par les exploitants des deux centres concernés, conformément au modèle de l'appendice 4 de la présente annexe et des documents prévus aux points 3 et 5 du paragraphe I. - Composition du dossier du présent chapitre de la présente annexe, mis à jour.
+La notification est accompagnée d'une attestation visée par les exploitants des deux centres concernés, conformément au modèle de l'appendice 4 de la présente annexe et des documents prévus aux points 3 à 5 du paragraphe I. - Composition du dossier du présent chapitre de la présente annexe, mis à jour.
 
 A défaut, l'attestation visée par l'ancien centre est remplacée par une copie de la lettre d'information transmise au centre par le contrôleur.
 
@@ -536,7 +536,7 @@ Je m'engage :
 
 - (pour les installations exploitées par un réseau) à informer dans les plus brefs délais, le préfet de toute modification significative des renseignements concernant les points visés au paragraphe IV du chapitre II de l'annexe VII de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
-- (pour les centres non rattachés à un réseau) à me conformer, en ce qui concerne les modifications apportées au dossier d'agrément, aux prescriptions définies au paragraphe 3 du chapitre IV de l'annexe VII de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
+- (pour les centres non rattachés à un réseau) à me conformer, en ce qui concerne les modifications apportées au dossier d'agrément, aux prescriptions définies au paragraphe IV du chapitre III de l'annexe VII de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
 - (pour les centres non rattachés à un réseau), à signer avec l'organisme technique central, la convention d'assistance technique prévue au point d de l'article 37 de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds ;
 
@@ -573,6 +573,8 @@ Adresse :
 Localisation de l'installation de contrôle :
 
 Numéro de téléphone :
+
+Adresse électronique :
 
 Bâtiments
 
@@ -659,3 +661,7 @@ Emet un avis :
 A ........................................, le ........................
 
 Signature et cachet
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 19 juin 2020 (NOR : TRER2016056A), les présentes dispositions entrent en vigueur à compter du 27 août 2020.

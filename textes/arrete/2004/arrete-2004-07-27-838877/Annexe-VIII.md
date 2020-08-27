@@ -20,17 +20,17 @@ les semi-remorques pour transports combinés (SRTC),
 
 les remorques pour transports combinés (RETC),
 
-les véhicules automoteurs spécialisés (VASP),
+les véhicules automoteurs spécialisés (VASP), à l'exception des véhicules ayant pour carrosserie NAVURB,
 
 les semi-remorques spécialisées (SRSP),
 
-les remorques spécialisées (RESP),
+les remorques spécialisées (RESP), à l'exception des remorques ayant pour carrosserie REMURB,
 
-les véhicules de transport en commun de personnes (TCP),
+les véhicules de transport en commun de personnes (TCP, véhicules ayant pour carrosserie NAVURB et remorques ayant pour carrosserie REMURB),
 
 les véhicules utilisés dans le transport de marchandises dangereuses et disposant d'un certificat d'agrément (tout genre et quel que soit le PTAC),
 
-les camionnettes (CTTE) utilisées dans le transport en commun de personnes,
+les véhicules de catégorie N1 utilisés dans le transport en commun de personnes,
 
 les véhicules de catégorie M1 dont le PTAC est supérieur à 3,5 tonnes.
 
@@ -52,7 +52,7 @@ TYPE DE CONTRÔLE |
 
 PÉRIODICITÉS DES CONTRÔLES TECHNIQUES PÉRIODIQUES |
 
-Contrôle technique périodique des véhicules TCP |
+Contrôle technique périodique des véhicules de transport en commun de personnes |
 
 Six mois après la date de première mise en circulation puis six mois après chaque contrôle technique périodique |
 
@@ -74,7 +74,7 @@ VALIDITÉ DU CONTRÔLE |
 
 Favorable |
 
-Véhicules TCP : Contrôle technique périodique |
+Véhicules de transport en commun de personnes : Contrôle technique périodique |
 
 Six mois après la date du contrôle technique périodique |
 
@@ -86,11 +86,11 @@ Autres véhicules lourds : Contrôle technique périodique |
 
 Un an après la date du contrôle technique périodique |
 
-Véhicules TCP : Contre-visite sous un mois après la date du contrôle technique ayant prescrit la première contre-visite |
+Véhicules TCP : Contre-visite sous un mois (2 mois pour les TCP contrôlés en Guadeloupe, Guyane, Martinique, à La Réunion ou à Mayotte) après la date du contrôle technique ayant prescrit la première contre-visite |
 
 Six mois après la date du contrôle technique périodique ayant prescrit la première contre-visite |
 
-Véhicules lourds autres que TCP et M1 : Contre-visite sous un mois après la date du contrôle technique ayant prescrit la première contre-visite |
+Véhicules lourds autres que TCP et M1 : Contre-visite sous un mois (2 mois pour les TCP contrôlés en Guadeloupe, Guyane, Martinique, à La Réunion ou à Mayotte ou à La Réunion) après la date du contrôle technique ayant prescrit la première contre-visite |
 
 Un an après la date du contrôle technique périodique ayant prescrit la première contre-visite |
 
@@ -106,15 +106,15 @@ Défavorable pour défaillance (s) majeure (s) |
 
 Véhicules autres que M1 : Contrôle technique périodique |
 
-Un mois après la date du contrôle technique périodique |
+Un mois (2 mois pour les véhicules contrôlés en Guadeloupe, Guyane, Martinique, à La Réunion ou à Mayotte) après la date du contrôle technique périodique |
 
 Véhicules M1 : Contrôle technique périodique |
 
 Deux mois après la date du contrôle technique périodique |
 
-Véhicules autres que M1 : Contre-visite sous un mois après la date du contrôle technique périodique ayant prescrit la première contre-visite |
+Véhicules autres que M1 : Contre-visite sous un mois (2 mois pour les véhicules contrôlés en Guadeloupe, Guyane, Martinique, à La Réunion ou à Mayotte) après la date du contrôle technique périodique ayant prescrit la première contre-visite |
 
-Un mois après la date du dernier contrôle technique périodique ayant prescrit la première contre-visite |
+Un mois (2 mois pour les véhicules contrôlés en Guadeloupe, Guyane, Martinique, à La Réunion ou à Mayotte) après la date du dernier contrôle technique périodique ayant prescrit la première contre-visite |
 
 Véhicules M1 : Contre-visite sous deux mois après la date du contrôle technique ayant prescrit la première contre-visite |
 
@@ -127,3 +127,7 @@ Tout type de contrôle technique périodique ou contre-visite |
 Date du contrôle technique périodique ou de la contre-visite |
 
 (*) Sont considérés comme véhicules sanitaires, les véhicules affectés aux transports sanitaires au sens de l'arrêté du 25 juin 2001 relatif aux visites techniques des véhicules effectuant des transports sanitaires |
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 19 juin 2020 (NOR : TRER2016056A), les présentes dispositions entrent en vigueur à compter du 27 août 2020.
