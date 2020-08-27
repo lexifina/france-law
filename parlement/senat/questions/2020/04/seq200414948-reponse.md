@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200414948
+
+- Question : [SEQ200414948](seq200414948.md) — Nationalisation de l'entreprise Luxfer
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-08-27, page 3721*
+
+Le groupe britannique Luxfer a annoncé fin 2018 sa décision de fermer le site français et de délocaliser la production à Nottingham (Royaume-Uni) pour des raisons de compétitivité dans un marché surcapacitaire. Cela s'est traduit par l'arrêt de l'activité en juin 2019. Suite à la fermeture de Gerzat, les principaux donneurs d'ordres du secteur, en particulier AirLiquide et Linde, se sont organisés pour maintenir un approvisionnement normal en bouteilles pour oxygène à usage médical auprès d'autres fournisseurs via un double sourcing. La crise sanitaire Covid-19 que traverse le pays ne devrait donc pas entraîner de pénurie de telles bouteilles à oxygène qui, pour rappel, servent à la mobilité des patients et constituent des solutions d'appoint dans les hôpitaux. Compte tenu des délais incompressibles de remise en route de l'activité (minimum 8 à 9 semaines) et de la nécessité d'homologation des nouveaux produits, aucun projet de reprise ne permettra de produire des bouteilles d'oxygène pour la crise actuelle. Néanmoins, les grands donneurs d'ordre dont AirLiquide manifestent leur intérêt pour disposer à l'avenir d'une production européenne de telles bouteilles dès lors que cette solution est compétitive. C'est pourquoi, le Gouvernement étudie avec intérêt l'opportunité d'une production nationale de bouteilles d'oxygène et se propose de faciliter tout projet de reprise du site s'il apparaît viable et compétitif. Les services vont travailler, dans les prochaines semaines sur ce point. Les pouvoirs publics resteront vigilants à la fois sur la sécurisation de l'approvisionnement en bouteille de gaz à haute pression pour le secteur médical et sur le devenir du site de Gerzat.
