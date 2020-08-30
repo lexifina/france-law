@@ -578,55 +578,51 @@ Totaux
 
 |
 
-CATEGORIES D'EMPLOIS
-
-|
+CATÉGORIES D'EMPLOIS |
 
 NOMBRE
 
-de postes prévus
+de postes prévus |
 
-|
-
-NOMBRE D'EMPLOIS A COMPTER DU :
-
-|
+NOMBRE D'EMPLOIS À COMPTER DU : |
 
 NOMBRE
 
 de points
 
-par poste
+par poste |
 
 |
 
 |
 
-|
+1er
 
-1er septembre 2002
+septembre 2002 |
 
-|
+1er
 
-1er septembre 2003
+septembre 2003 |
 
-|
+1er
 
-1er septembre 2004
+septembre 2004 |
 
-|
+1er
 
-1er septembre 2006
+septembre 2006 |
 
-|
+1er
 
-1er septembre 2007
+septembre 2007 |
 
-|
+1er
+
+septembre 2020 |
 
 |
 
-Emploi comportant des responsabilités particulières en matière de recrutement, de formation et de gestion administrative des personnels, de gestion financière ou comptable :
+Emploi comportant des responsabilités particulières en matière de recrutement, de formation et de gestion administrative des personnels, de gestion financière ou comptable : |
 
 |
 
@@ -644,386 +640,406 @@ Emploi comportant des responsabilités particulières en matière de recrutement
 
 |
 
-Chargé de la direction des ressources humaines ou de la direction des affaires générales et des finances d'un service déconcentré
+Chargé de la direction des ressources humaines ou de la direction des affaires générales et des finances d'un service déconcentré |
 
-|
+1 |
 
-1
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+0 |
 
-|
+0 |
 
-0
+27 |
 
-|
+Direction/ animation/ coordination d'un institut de formation |
 
-0
+1 |
 
-|
+1 |
 
-0
+1 |
 
-|
+1 |
 
-27
+1 |
 
-|
+1 |
 
-Direction/animation/coordination d'un institut de formation
+1 |
 
-|
+20 |
 
-1
+Responsable en service déconcentré SGAP |
 
-|
+21 |
 
-1
+21 |
 
-|
+21 |
 
-1
+21 |
 
-|
+21 |
 
-1
+21 |
 
-|
+21 |
 
-1
+20 |
 
-|
+Chargé de mission, adjoint de chef de bureau, chef de section en administration centrale |
 
-1
+6 |
 
-|
+6 |
 
-20
+6 |
 
-|
+6 |
 
-Responsable en service déconcentré SGAP
+6 |
 
-|
+6 |
 
-21
+6 |
 
-|
+20 |
 
-21
+Adjoint au directeur d'un centre de formation (DFPN) |
 
-|
+1 |
 
-21
+1 |
 
-|
+1 |
 
-21
+1 |
 
-|
+1 |
 
-21
+1 |
 
-|
+1 |
 
-21
+20 |
 
-|
+Adjoint au directeur d'une école nationale de police |
 
-20
+2 |
 
-|
+2 |
 
-Chargé de mission, adjoint de chef de bureau, chef de section en administration centrale
+2 |
 
-|
+2 |
 
-6
+2 |
 
-|
+2 |
 
-6
+2 |
 
-|
+20 |
 
-6
+Emploi comportant des responsabilités au sein d'une direction ou d'un service actif sur l'ensemble des services et bureaux chargés de l'administration, des moyens en personnels, matériels, finances, informatique et formation : |
 
 |
 
-6
-
 |
 
-6
+|
 
 |
 
-6
+|
 
 |
 
-20
+|
 
 |
 
-Adjoint au directeur d'un centre de formation (DFPN)
+Chef de service de gestion opérationnelle dans une DDSP située dans un département particulièrement sensible |
 
+7 |
+
 |
 
-1
+|
 
 |
 
-1
+|
 
 |
 
-1
+7 |
 
-|
+40 |
 
-1
+Chef de service de gestion opérationnelle dans une DDSP d'un département des petite et grande couronnes |
 
-|
+7 |
 
-1
+3 |
 
-|
+3 |
 
-1
+3 |
 
-|
+3 |
 
-20
+5 |
 
-|
+5 |
 
-Adjoint au directeur d'une école nationale de police
+27 |
 
-|
+Chef de service ou de bureau de gestion opérationnelle dans une DDSP située dans un département très sensible |
 
-2
+19 |
 
-|
+9 |
 
-2
+12 |
 
-|
+14 |
 
-2
+15 |
 
-|
+15 |
 
-2
+8 |
 
-|
+27 |
+
+Chef de service ou de bureau de gestion opérationnelle dans une DDSP, adjoint au chef de service de gestion opérationnelle dans une DDSP particulière et très sensibles |
 
-2
+62 |
 
 |
 
-2
+|
 
 |
 
-20
+|
 
 |
 
-Emploi comportant des responsabilités au sein d'une direction ou d'un service actif sur l'ensemble des services et bureaux
+62 |
 
-chargés de l'administration, des moyens en personnels, matériels, finances, informatique et formation :
+20 |
 
-|
+Chef de la division des moyens aux aéroports de Roissy et d'Orly |
 
-|
+2 |
 
-|
+2 |
 
-|
+2 |
 
-|
+2 |
 
-|
+2 |
 
-|
+2 |
 
-|
+2 |
 
-Chef de service de gestion opérationnelle dans une DDSP d'un département des petite et grande couronnes
+20 |
 
-|
+Responsable dans une direction active : 2 emplois à la DSCP, 1 emploi à la DCPJ, à la DCRG, à la DST, à la DCPAF, à la DFPN et au SCCRS |
 
-7
+8 |
 
-|
+8 |
 
-3
+8 |
 
-|
+8 |
 
-3
+8 |
 
-|
+8 |
 
-3
+8 |
 
-|
+20 |
 
-3
+Préfecture de police : (tous services) |
 
-|
+5 |
 
-5
+5 |
 
-|
+5 |
 
-27
+5 |
 
-|
+5 |
 
-Chef de service ou de bureau de gestion opérationnelle dans une DDSP située dans un département très sensible
+5 |
 
-|
+5 |
 
-19
+20 |
 
-|
+Emploi comportant des responsabilités ou une technique particulières dans une unité technique (notamment la police technique et scientifique) : |
 
-9
+|
 
 |
 
-12
+|
 
 |
 
-14
+|
 
 |
 
-15
+|
 
 |
 
-15
+Chargé de la gestion des laboratoires à Ecully (DCPJ) |
 
-|
+1 |
 
-27
+1 |
 
-|
+1 |
 
-Chef de la division des moyens aux aéroports de Roissy et d'Orly
+1 |
 
-|
+1 |
 
-2
+1 |
 
-|
+1 |
 
-2
+20 |
 
-|
+Chef de la division des ressources et des moyens du service central de la police technique et scientifique |
 
-2
+1 |
 
 |
 
-2
+|
 
 |
 
-2
+|
 
 |
 
-2
+1 |
 
-|
+30 |
+
+Chef adjoint de la division pilotage et gouvernance du service central de la police technique et scientifique |
 
-20
+1 |
 
 |
 
-Responsable dans une direction active : 2 emplois à la DSCP, 1 emploi à la DCPJ, à la DCRG, à la DST, à la DCPAF, à la DFPN et au SCCRS
+|
 
 |
 
-8
+|
 
 |
 
-8
+1 |
 
-|
+30 |
+
+Chef adjoint du pôle central d'analyses des traces technologiques du service central de la police technique et scientifique |
 
-8
+1 |
 
 |
 
-8
+|
 
 |
 
-8
+|
 
 |
 
-8
+1 |
 
-|
+30 |
+
+Chef adjoint de la division des ressources et des moyens du service central de la police technique et scientifique |
 
-20
+1 |
 
 |
 
-Préfecture de police : (tous services)
+|
 
 |
 
-5
+|
 
 |
 
-5
+1 |
 
-|
+30 |
+
+Chef du département ressources humaines de la division des ressources et des moyens du service central de la police technique et scientifique |
 
-5
+1 |
 
 |
 
-5
+|
 
 |
 
-5
+|
 
 |
 
-5
+1 |
 
-|
+20 |
+
+Chef du département recherche et développement de la division pilotage et gouvernance du service central de la police technique et scientifique |
 
-20
+1 |
 
 |
 
-Emploi comportant des responsabilités ou une technique particulières dans une unité technique (notamment la police technique et scientifique) :
+|
 
 |
 
 |
 
 |
+
+1 |
+
+10 |
+
+Chef du département des affaires internationales de la division pilotage et gouvernance du service central de la police technique et scientifique |
 
+1 |
+
 |
 
 |
@@ -1034,63 +1050,79 @@ Emploi comportant des responsabilités ou une technique particulières dans une 
 
 |
 
-Chargé de la gestion des laboratoires à Ecully (DCPJ)
+1 |
 
-|
+10 |
 
-1
+Chef du département de la stratégie de la police technique et scientifique de la division pilotage et gouvernance du service central de la police technique et scientifique |
 
+1 |
+
 |
 
-1
+|
 
 |
 
-1
+|
 
 |
 
-1
+1 |
 
-|
+20 |
 
-1
+Chef du département audio-vidéo du pôle central d'analyses des traces technologiques du service central de la police technique et scientifique |
 
+1 |
+
 |
 
-1
+|
 
 |
 
-20
+|
 
 |
 
-Totaux
+1 |
 
-|
+20 |
 
-74
+Chef de délégation zonale du service central de la police technique et scientifique |
 
+7 |
+
 |
 
-59
+|
 
 |
 
-62
+|
 
 |
 
-64
+7 |
 
-|
+20 |
 
-65
+Totaux |
 
-|
+145 |
+
+59 |
+
+62 |
+
+64 |
+
+65 |
+
+67 |
 
-67
+145
 
 |
 

@@ -1,694 +1,510 @@
 # Article Annexe II
 
-EMPLOIS DE CATEGORIE B ET C
+Emplois de catégorie B et C
 
-DESIGNATION DE L'EMPLOI
-
-|
+DÉSIGNATION DE L'EMPLOI |
 
 NIVEAU
 
-des responsabilités
-
-|
+des responsabilités |
 
 NOMBRE
 
-d'emplois
-
-|
+d'emplois |
 
 NOMBRE
 
-de points par emploi
+de points par emploi |
 
-|
-
-Emploi comportant des responsabilités particulières en matière de recrutement, de formation et de gestion administrative des personnels, de gestion financière ou comptable :
-
-|
-
-|
+Emploi comportant des responsabilités particulières en matière de recrutement, de formation et de gestion administrative des personnels, de gestion financière ou comptable : |
 
-642
-
-|
-
-10
-
 |
 
-- responsable recrutement
-
-|
+653 |
 
-B
+10 |
 
-|
+-chef de bureau de gestion opérationnelle en DDSP |
 
-|
+B |
 
 |
-
-- responsable contentieux, statut et réglementation
 
 |
 
-B
+-responsable recrutement |
 
-|
-
-|
+B |
 
 |
 
-- responsable de la documentation
-
 |
 
-B
-
-|
+-responsable contentieux, statut et réglementation |
 
-|
+B |
 
 |
 
-- gestion des personnels
-
 |
-
-B
 
-|
+-responsable de la documentation |
 
-|
+B |
 
 |
-
-- responsable des affaires médicales et sociales
 
 |
 
-B
+-gestion des personnels |
 
-|
-
-|
+B |
 
 |
 
-- responsable de l'exercice du droit syndical
-
 |
 
-B
-
-|
+-responsable des affaires médicales et sociales |
 
-|
+B |
 
 |
 
-- responsable du courrier
-
 |
-
-B
 
-|
+-responsable de l'exercice du droit syndical |
 
-|
+B |
 
 |
-
-- pédagogie des personnels et habilitation défense
 
 |
 
-B
+-responsable du courrier |
 
-|
-
-|
+B |
 
 |
 
-- responsable des emplois opérationnels
-
 |
 
-B
-
-|
+-pédagogie des personnels et habilitation défense |
 
-|
+B |
 
 |
 
-- gestion des scolarités
-
 |
-
-B
 
-|
+-responsable des emplois opérationnels |
 
-|
+B |
 
 |
-
-- responsable de la comptabilité
 
 |
 
-B
+-gestion des scolarités |
 
-|
-
-|
+B |
 
 |
 
-- liquidateur de paie
-
 |
 
-B
-
-|
+-responsable de la comptabilité |
 
-|
+B |
 
 |
 
-- régisseur d'avances et de recettes
-
 |
-
-B
 
-|
+-liquidateur de paie |
 
-|
+B |
 
 |
-
--responsable de la globalisation budgétaire
 
 |
 
-B
+-régisseur d'avances et de recettes |
 
-|
-
-|
+B |
 
 |
 
-- responsable de section financière des affaires immobilières
-
 |
 
-B
-
-|
+-responsable de la globalisation budgétaire |
 
-|
+B |
 
 |
 
-- section traitement
-
 |
-
-B
 
-|
+-responsable de section financière des affaires immobilières |
 
-|
+B |
 
 |
-
-- responsable du budget, investissement, fonctionnement
 
 |
 
-B
+-section traitement |
 
-|
-
-|
+B |
 
 |
 
-- gestion des crédits
-
 |
 
-B
-
-|
+-responsable du budget, investissement, fonctionnement |
 
-|
+B |
 
 |
 
-- coordinateur des budgets globaux
-
 |
-
-B
 
-|
+-gestion des crédits |
 
-|
+B |
 
 |
-
-- gestion immobilière
 
 |
 
-B
+-coordinateur des budgets globaux |
 
-|
-
-|
+B |
 
 |
 
-- responsable logistique
-
 |
 
-B
-
-|
+-gestion immobilière |
 
-|
+B |
 
 |
-
-- gestion des stocks
 
 |
 
-B
-
-|
+-responsable logistique |
 
-|
+B |
 
 |
 
-Emploi dans un service particulier comportant des tâches de coordination et d'accueil et secrétariat des officiers du ministère public (OMP) :
-
 |
 
-|
+-gestion des stocks |
 
-952
+B |
 
 |
 
-10
-
 |
 
-- accueil
+Emploi dans un service particulier comportant des tâches de coordination et d'accueil et secrétariat des commissariats situés en zone sensible : |
 
 |
 
-B
-
-|
+318 |
 
-|
+10 |
 
-|
+-accueil |
 
-- secrétariat des OMP
+C |
 
 |
-
-B
 
 |
 
-|
+Emploi dans un service particulier comportant des tâches de coordination et d'accueil et secrétariat des officiers du ministère public (OMP) : |
 
 |
 
-- secrétariat médical
-
-|
+952 |
 
-B
+10 |
 
-|
+-accueil |
 
-|
+B |
 
 |
-
-- secrétariat particulier
 
 |
 
-B
+-secrétariat des OMP |
 
-|
-
-|
+B |
 
 |
 
-- gérant de mess
-
 |
 
-C
-
-|
+-secrétariat médical |
 
-|
+B |
 
 |
 
-- responsable de foyer
-
 |
 
-C
+-secrétariat particulier |
 
-|
+B |
 
 |
 
 |
 
-Emploi comportant des responsabilités ou une technicité particulières dans les domaines de l'informatique et des transmissions :
+-gérant de mess |
 
-|
+C |
 
 |
 
-254
-
 |
-
-10
 
-|
+-responsable de foyer |
 
-- coordonnateur bureautique et informatique
+C |
 
 |
 
-B
-
 |
 
-|
+Emploi comportant des responsabilités ou une technicité particulières dans les domaines de l'informatique et des transmissions : |
 
 |
 
-- responsable de gestion informatique des moyens ou des personnels
+254 |
 
-|
+10 |
 
-B
-
-|
+-coordonnateur bureautique et informatique |
 
-|
+B |
 
 |
 
-- transmission
-
 |
-
-B
 
-|
+-responsable de gestion informatique des moyens ou des personnels |
 
-|
+B |
 
 |
-
-- conseiller régional en informatique et bureautique
 
 |
 
-B
+-transmission |
 
-|
-
-|
+B |
 
 |
 
-- documentaliste analyste
-
 |
 
-B
-
-|
+-conseiller régional en informatique et bureautique |
 
-|
+B |
 
 |
 
-- responsable des services informatiques du fichier national transfrontière
-
 |
-
-B
 
-|
+-documentaliste analyste |
 
-|
+B |
 
 |
-
-- correspondant et adjoint
 
 |
 
-B
+-responsable des services informatiques du fichier national transfrontière |
 
-|
+B |
 
 |
 
 |
 
-Emploi comportant des responsabilités particulières dans les recherches sur fichiers de police :
+-correspondant et adjoint |
 
-|
+B |
 
 |
-
-92
 
 |
 
-10
+Emploi comportant des responsabilités particulières dans les recherches sur fichiers de police : |
 
 |
 
-- responsable de fichiers
+92 |
 
-|
+10 |
 
-C
-
-|
+-responsable de fichiers |
 
-|
+C |
 
 |
 
-- archivage et tenue des dossiers
-
 |
 
-C
+-archivage et tenue des dossiers |
 
-|
+C |
 
 |
 
 |
 
-Emploi comportant des responsabilités particulières dans un garage, atelier ou service d'entretien :
+Emploi comportant des responsabilités particulières dans un garage, atelier ou service d'entretien : |
 
 |
 
-|
+15 |
 
-15
+10 |
 
-|
+-entretien et conducteur offset |
 
-10
+C |
 
 |
-
-- entretien et conducteur offset
 
 |
 
-C
+-responsable de labo photo |
 
-|
-
-|
+C |
 
 |
 
-- responsable de labo photo
-
 |
 
-C
-
-|
+-responsable de cellule entretien |
 
-|
+C |
 
 |
 
-- responsable de cellule entretien
-
 |
 
-C
+-chef d'atelier ou adjoint |
 
-|
+C |
 
 |
 
 |
 
-- chef d'atelier ou adjoint
+-section matériel bureautique |
 
-|
+C |
 
-C
-
 |
 
 |
 
-|
+-responsable d'unité technique |
 
-- section matériel bureautique
+C |
 
 |
 
-C
-
 |
 
-|
+Emploi comportant des responsabilités ou une technique particulières dans une unité technique (notamment la police technique et scientifique) : |
 
 |
-
-- responsable d'unité technique
 
-|
+12 |
 
-C
+10 |
 
-|
+-techniques spéciales |
 
-|
+B |
 
 |
 
-Emploi comportant des responsabilités ou une technique particulières dans une unité technique (notamment la police technique et scientifique) :
-
 |
 
-|
+-informatique |
 
-12
+B |
 
 |
-
-10
 
 |
 
-- techniques spéciales
+-saisie et traitement des données |
 
-|
+B |
 
-B
-
 |
 
 |
 
-|
+-travaux de laboratoire |
 
-- informatique
+B |
 
 |
 
-B
-
 |
 
-|
+Emploi comportant des responsabilités ou une technique particulières au sein du service central de la police technique et scientifique : |
 
 |
 
-- saisie et traitement des données
+3 |
 
-|
+10 |
 
-B
+-secrétariat |
 
-|
+C |
 
 |
 
 |
 
-- travaux de laboratoire
-
-|
+-secrétariat |
 
-B
+B |
 
 |
 
 |
 
-|
+-chef de section |
 
-Emploi comportant des responsabilités particulières dans un service de restauration :
+C |
 
 |
 
 |
 
-37
+Emploi comportant des responsabilités particulières dans un service de restauration : |
 
 |
-
-10
 
-|
+37 |
 
-- aide-cuisinier
+10 |
 
-|
+-aide-cuisinier |
 
 C
 
