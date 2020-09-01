@@ -26,7 +26,7 @@ Caen (14), Rennes (35), Nantes (44), Orléans (45), Cherbourg (50), Le Havre (76
 
 Direction zonale de la police aux frontières du Sud-Est |
 
-Prévessin (01), Grenoble (38), Clermont-Ferrand (63), Lyon (69), Modane (73), Gaillard (74) |
+Annemasse (74), Grenoble (38), Clermont-Ferrand (63), Lyon (69), Modane (73) |
 
 Direction zonale de la police aux frontières du Sud-Ouest |
 
@@ -35,3 +35,7 @@ Bordeaux (33), Hendaye (64), Limoges (87) |
 Direction zonale de la police aux frontières des Antilles |
 
 Pointe-à-Pitre (971) Fort-de-France (972) |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2020-1051 du 14 août 2020, ces dispositions entrent en vigueur le 1er septembre 2020.
