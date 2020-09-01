@@ -380,19 +380,7 @@ Le candidat dispose d'un piano pendant la préparation et pendant la durée de l
 
 Durée de la préparation : une heure ; durée de l'épreuve : trente minutes (vingt minutes pour la première partie ; dix minutes pour l'entretien) ; coefficient 5.
 
-Section arts
-
-Les candidats de la section arts de l'agrégation interne ont le choix entre deux options :
-
-Option A : arts plastiques ;
-
-Option B : arts appliqués.
-
-Le choix de l'option est exprimé lors de l'inscription. Les candidats proposés par les jurys pour l'admissibilité et l'admission font l'objet de classements distincts selon leur option.
-
-Les épreuves de la section arts sont fixées ainsi qu'il suit :
-
-Option A : arts plastiques
+Section arts plastiques
 
 A. - Epreuves d'admissibilité
 
@@ -464,29 +452,59 @@ L'exposé est suivi d'un entretien avec le jury (quarante minutes maximum).
 
 Durée de la préparation : quatre heures trente ; durée de l'épreuve : une heure et vingt minutes (exposé : quarante minutes ; entretien : quarante minutes) ; coefficient 2).
 
-Option B : arts appliqués
+Section design et métiers d'art
 
-A. - Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
-1° Epreuve de pédagogie des arts appliqués : épreuve écrite accompagnée de schémas et croquis explicatifs. A partir d'une proposition pouvant comporter des documents, le candidat conçoit une séquence pédagogique destinée à des élèves des classes de baccalauréat ou post-baccalauréat. Il en prévoit le dispositif et le développement ainsi qu'une évaluation et les prolongements éventuels (durée : six heures ; coefficient 1).
+1° Epreuve de pédagogie de design et des métiers d'art.
 
-2° Epreuve de culture artistique : épreuve écrite accompagnée de schémas et de croquis explicatifs. A partir d'un dossier de documents textuels et visuels proposés par le jury, le candidat répond à plusieurs questions portant sur des créateurs, des créations, des manifestations, des problématiques ou des techniques liés aux arts appliqués ainsi que sur des connaissances d'ordre historique et culturel (durée : cinq heures ; coefficient 1).
+L'épreuve prend appui sur un sujet pouvant être accompagné de documents visuels.
 
-B. - Epreuves d'admission
+Elle invite le candidat, à partir de l'écrit et de croquis explicatifs, à interroger sa pratique et ses expériences menées avec des élèves ou des étudiants, d'en décrire les dispositifs pour en proposer des prolongements et/ ou des aménagements au regard du sujet.
 
-1° Epreuve pratique de recherche en arts appliqués : à partir d'une situation, d'un problème et de consignes précises, le candidat est invité à engager une démarche de recherche et à proposer des hypothèses de projet relevant de l'un des domaines des arts appliqués. Il formalise sa démarche et justifie ses hypothèses à l'aide des modes et moyens graphiques et plastiques nécessaires à leur bonne compréhension.
+Durée : quatre heures ; coefficient 1.
 
-Déroulement de l'épreuve :
+2° Epreuve d'histoire des arts et des techniques de design et des métiers d'art.
 
-a) Démarche de recherche : huit heures ;
+Le sujet prend appui sur un corpus de documents textuels et/ ou visuels choisis par le jury.
 
-b) Présentation et justification de son travail par le candidat et discussion avec le jury : trente minutes.
+Le candidat est invité à dégager une problématique sociétale, historique et contemporaine, en témoignant d'une lecture engagée des enjeux du design et des métiers d'art.
 
-Coefficient 2.
+Durée : quatre heures ; coefficient 1.
 
-2° Epreuve professionnelle orale : conçue à l'intention d'élèves et d'étudiants des classes terminales et postbaccalauréat, cette épreuve, qui peut faire appel à une expérience pédagogique vécue par le candidat, comporte une leçon suivie d'un entretien. Elle inclut une réflexion sur les relations avec le monde professionnel et le partenariat, avec les institutions et acteurs des domaines artistiques, culturels et industriels.
+B.-Epreuves d'admission
 
-Une enveloppe tirée au sort par le candidat contient deux sujets proposés à partir de documents textuels ou visuels. Le candidat choisit l'un des deux sujets (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 2).
+1° Pensée par le dessin et culture de projet.
+
+L'épreuve se déroule en deux temps.
+
+a) Pensée par le dessin.
+
+A partir d'un sujet accompagné de consignes, le candidat est invité à démontrer sa réflexion et à mettre en œuvre une démarche de recherche et de création dans les champs du design et des métiers d'art.
+
+Le travail pratique attendu du candidat, tiré de son analyse du sujet, est un raisonnement graphique, le cas échéant annoté.
+
+L'objectif de l'épreuve est de rendre compte des étapes de la réflexion et d'identifier clairement une problématique au moyen de représentations graphiques adaptées.
+
+Durée : huit heures.
+
+b) Culture de projet.
+
+Le candidat prolonge son propos devant le jury par des références de projet en design et métiers d'art. Son positionnement doit démontrer sa capacité à identifier et à comprendre des pratiques et des démarches de projet. Ses partis-pris s'inscrivent dans une perspective culturelle.
+
+Il n'est pas attendu du candidat une présentation de son travail réalisé pendant la première partie, ni une justification de ce travail.
+
+Durée : trente minutes sans préparation (exposé : quinze minutes maximum ; entretien avec le jury : quinze minutes maximum) ;
+
+Coefficient pour l'ensemble de l'épreuve : 2.
+
+2° Epreuve de leçon.
+
+L'épreuve se compose d'un exposé du candidat suivi d'un entretien avec le jury.
+
+A partir de documents visuels ou textuels tirés au sort, le candidat est invité à développer une réflexion pédagogique pertinente en étayant son propos d'éléments graphiques et textuels réalisés pendant le temps de préparation. L'épreuve permet au candidat de valoriser sa connaissance des programmes et leurs enjeux pédagogiques actuels, autant que sa prise de recul sur ses pratiques d'enseignement.
+
+Durée de préparation : quatre heures ; durée de l'épreuve : une heure (exposé : vingt minutes ; entretien : quarante minutes) ; coefficient 2.
 
 Section sciences économiques et sociales
 
@@ -500,17 +518,17 @@ Coefficient 6.
 
 Le programme sur lequel porte cette épreuve est publié sur le site internet du ministère chargé de l'éducation nationale.
 
-2° Une composition élaborée à partir d'un dossier fourni au candidat et portant sur les programmes de sciences économiques et sociales (option en classe de seconde, enseignement de sciences économiques et sociales en classes de première ES et de terminale ES, durée : six heures ; coefficient 4).
+2° Une composition élaborée à partir d'un dossier fourni au candidat et portant sur les programmes de sciences économiques et sociales de la classe de seconde générale et technologique et du cycle terminal de la voie générale du lycée (durée : six heures ; coefficient 4).
 
-Il est demandé au candidat de construire, à partir de ce dossier, et pour une classe de niveau déterminé, le plan et le contenu d'une séance de travail de deux heures, intégrant obligatoirement des travaux à réaliser par les élèves (travaux dirigés de la classe de terminale ES, activités spécifiques en option SES de la classe de seconde et en classe de première ES). Le candidat doit indiquer les documents retenus parmi ceux que comporte le dossier et en justifier le choix, en présentant les modes d'exploitation en classe de ces documents, en dégageant les résultats à attendre de cette exploitation sous la forme d'une synthèse à enregistrer par les élèves, en prévoyant les procédures d'évaluation des acquisitions escomptées, en signalant, enfin, les ouvrages ou articles qui pourraient être conseillés, d'une part, au professeur, d'autre part, éventuellement, aux élèves, pour l'approfondissement du sujet étudié.
+Il est demandé au candidat de construire, à partir de ce dossier, et pour une classe de niveau déterminé, le plan et le contenu d'une séance de travail de deux heures, intégrant obligatoirement des travaux à réaliser par les élèves. Le candidat doit indiquer les documents retenus parmi ceux que comporte le dossier et en justifier le choix, en présentant les modes d'exploitation en classe de ces documents, en dégageant les résultats à attendre de cette exploitation sous la forme d'une synthèse à enregistrer par les élèves, en prévoyant les procédures d'évaluation des acquisitions escomptées, en signalant, enfin, les ouvrages ou articles qui pourraient être conseillés, d'une part, au professeur, d'autre part, éventuellement, aux élèves, pour l'approfondissement du sujet étudié.
 
 B. - Epreuves orales d'admission
 
-1° Une leçon portant sur les programmes de sciences économiques et sociales (option en classe de seconde, enseignement de sciences économiques et sociales en classes de première ES et de terminale ES), suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente minutes ; entretien : vingt minutes] ; coefficient 6)
+1° Une leçon portant sur les programmes de sciences économiques et sociales de la classe de seconde générale et technologique et du cycle terminal de la voie générale du lycée, suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente minutes ; entretien : vingt minutes] ; coefficient 6).
 
 2° Commentaire d'un dossier.
 
-Le dossier, proposé par le jury au candidat, est constitué d'un ou plusieurs documents portant sur les programmes de sciences économiques et sociales des classes de seconde, première ES et terminale ES.
+Le dossier, proposé par le jury au candidat, est constitué d'un ou plusieurs documents portant sur les programmes de sciences économiques et sociales de la classe de seconde générale et technologique et du cycle terminal de la voie générale du lycée.
 
 Le dossier est à dominante économique si le sujet de leçon de la première épreuve orale d'admission est à dominante sociologique et/ou science politique. Il est à dominante sociologique et/ou science politique si le sujet de leçon de la première épreuve orale d'admission est à dominante économique.
 
@@ -604,99 +622,79 @@ Les éléments constitutifs du dossier sont précisés par note publiée sur le 
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs avant le début des épreuves d'admission.
 
-Section biochimie - génie biologique
+Section biochimie-génie biologique
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
-1° Première épreuve :
+1° Première épreuve.
 
-Durée maximale : six heures.
+L'épreuve prend appui sur un dossier technique relatif à un problème biotechnologique. Elle permet d'évaluer les capacités du candidat à :
 
-Coefficient 1.
+-mobiliser ses connaissances scientifiques et technologiques pour analyser des documents, afin d'expliciter ou de valider les solutions retenues ;
 
-L'épreuve, qui prend appui sur un dossier technique relatif à un problème biotechnologique, s'organise en deux parties :
+-utiliser des ressources proposées afin d'élaborer des activités technologiques ou des supports didactiques permettant d'atteindre un objectif de formation. Le candidat peut également être amené à élaborer un support d'évaluation à un niveau de formation déterminé.
 
-La première permet d'évaluer les capacités du candidat à utiliser ses connaissances scientifiques et techniques pour expliciter ou valider les solutions retenues ;
-
-La seconde permet d'évaluer les capacités du candidat à utiliser le support proposé pour élaborer un exercice permettant l'évaluation des connaissances et méthodes acquises par les élèves à un niveau de formation déterminé.
-
-Le candidat doit situer l'exercice dans un processus d'apprentissage et par rapport aux autres enseignements scientifiques ou techniques qui lui sont associés.
-
-2° Deuxième épreuve :
-
-Durée maximale : huit heures.
+Durée : six heures.
 
 Coefficient 1.
 
-Le sujet comportera une ou plusieurs questions liées ou indépendantes et pourra faire appel à l'utilisation de documents.
+2° Deuxième épreuve.
 
-L'épreuve permettra d'apprécier le niveau et l'actualité des connaissances en biochimie générale et appliquée, biologie cellulaire et moléculaire, microbiologie générale et appliquée et biologie humaine.
+L'épreuve prend la forme d'une composition. Le sujet comporte une question scientifique et technologique qui permet d'évaluer la capacité du candidat à structurer un propos de qualité et à l'argumenter de façon pertinente en biochimie, biologie cellulaire, biologie moléculaire, microbiologie et biologie, et physiopathologie humaines.
 
-B. - Epreuves orales d'admission
+Durée : six heures.
 
-1° Première épreuve :
+Coefficient 1.
+
+B.-Epreuves orales d'admission
+
+1° Première épreuve.
+
+L'épreuve prend appui sur un dossier scientifique et technologique et une application pédagogique en lien, conçus par le candidat. Elle consiste en la présentation de la démarche de projet suivie, dont l'objectif est une question pédagogique clairement posée.
+
+Le thème du projet, laissé à l'entière discrétion du candidat, doit permettre une mise en valeur de sa dimension technologique dans ses composantes scientifiques et techniques et également, si cela semble pertinent au regard du thème choisi, dans ses composantes socio-économiques. Il doit s'ancrer sur une question pédagogique clairement formulée et contextualisée dans la thématique choisie.
+
+L'épreuve comporte une présentation orale de trente minutes permettant au candidat de :
+
+-présenter les raisons qui l'ont conduit au choix du thème ;
+
+-expliquer les dimensions scientifique et technologique du thème ;
+
+-préciser les objectifs, les méthodologies, les stratégies pédagogiques et les démarches d'évaluation d'une séquence préalablement positionnée au sein d'une progression ;
+
+-proposer les documents pédagogiques associés à la séquence.
+
+A l'issue de cette présentation, s'ensuit un entretien de trente minutes avec le jury pouvant conduire à :
+
+-approfondir certains points du dossier scientifique et technologique ;
+
+-préciser la démarche de projet ;
+
+-expliciter certains aspects de la démarche pédagogique.
 
 Durée : une heure.
 
 Coefficient 1.
 
-L'épreuve consiste en la présentation et la soutenance par le candidat d'un dossier original relatif à un projet qu'il a conduit dans le cadre de la discipline dans laquelle il enseigne.
+2° Deuxième épreuve.
 
-Le thème du projet est pris dans les programmes des enseignements technologiques de la spécialité donnés dans les classes terminales de lycée ou dans les classes post-baccalauréat.
-
-Le projet doit mettre en valeur :
-
-D'une part la dimension technologique du thème dans ses composantes scientifiques, techniques et aussi économiques, sociales et humaines ;
-
-D'autre part les aspects pédagogiques en relation avec le niveau d'enseignement retenu.
-
-Le candidat dispose de trente minutes pour présenter :
-
-Les raisons qui l'ont conduit au choix du thème ;
-
-Les réalisations (documents, matériels, logiciels...) relatives aux aspects techniques et pédagogiques du projet ;
-
-Les objectifs pédagogiques retenus, leur opérationnalisation, notamment les modes et critères d'évaluation retenus ;
-
-Les documents d'enseignements établis.
-
-Le jury, au cours de l'entretien de trente minutes qui suit l'exposé, peut :
-
-Faire approfondir certains points du projet ;
-
-Demander des précisions sur les solutions techniques adoptées ;
-
-Faire expliciter certains aspects de la démarche pédagogique.
-
-Le jury apprécie :
-
-La valeur industrielle, technique et économique du thème retenu ;
-
-La qualité du travail effectué ;
-
-Les connaissances scientifiques et techniques du candidat ;
-
-La maîtrise de la didactique de la discipline, des méthodes et moyens d'enseignement ;
-
-La connaissance de l'environnement du système technique support du thème ;
-
-Les qualités d'expression et de communication du candidat.
-
-2° Deuxième épreuve :
-
-Durée maximale : huit heures.
-
-Coefficient 1.
-
-Cette épreuve consiste à exploiter des documents techniques et pédagogiques relatifs à une séquence de travaux pratiques ou à une séquence à caractère expérimental, élément d'un processus d'apprentissage.
+L'épreuve consiste en la mise en œuvre en laboratoire de modes opératoires à visée expérimentale, permettant de répondre à une problématique scientifique donnée ou en vue de la préparation de divers matériels biologiques. Elle s'appuie sur l'analyse et l'exploitation de documents techniques et pédagogiques.
 
 Elle permet d'évaluer les capacités du candidat à :
 
-Proposer et justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ;
+-proposer ou justifier les principes, méthodes et modes opératoires à mettre en œuvre et à dégager les concepts auxquels ils se rattachent ;
 
-Réaliser, pour tout ou partie, selon la durée impartie, l'activité prévue.
+-réaliser l'activité biotechnologique expérimentale prévue ;
 
-Le programme du concours est défini par référence aux programmes des BTS et DUT de la spécialité.
+-analyser et interpréter les résultats expérimentaux obtenus.
+
+Durée : huit heures.
+
+Coefficient 1.
+
+Le programme des épreuves est défini par référence aux programmes de biochimie-biologie, biotechnologie, biochimie-biologie-biotechnologie et biologie et physiopathologie humaines du cycle terminal des séries STL et ST2S, de biotechnologies de la classe préparatoire scientifique technologie et biologie (TB) ainsi que des référentiels de BTS de la filière et des programmes de DUT de la spécialité génie biologique.
+
+Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
 
 Section économie et gestion (En vigueur à la session 2012 des concours)
 
