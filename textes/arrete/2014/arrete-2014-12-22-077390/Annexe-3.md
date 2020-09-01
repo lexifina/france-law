@@ -6,6 +6,8 @@ Secteur tertiaire
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+
 -Isolation des murs / Fiche d’opération standardisée n° BAT-EN-102
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
@@ -14,11 +16,15 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+
 -Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAT-EN-104
 
 Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
 -Isolation des combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-106
+
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 -Isolation des toitures-terrasses / Fiche d’opération standardisée n° BAT-EN-107
 
@@ -180,7 +186,7 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 -Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
-Liens :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0079 du 01/04/2020, texte n° 9, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=0LduWOm6C36WhoOrckwBT4k85GgPqvffEsbnZjwEPRE=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
 
@@ -218,4 +224,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A).
+Se reporter aux conditions d’application prévues à l’article 5 de l’arrêté du 25 mars 2020 (NOR : TRER2008377A).

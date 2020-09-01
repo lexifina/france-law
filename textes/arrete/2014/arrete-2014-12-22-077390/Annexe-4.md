@@ -22,6 +22,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 - Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° IND-EN-102
 
+Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+
 - Système de variation électronique de vitesse sur un moteur asynchrone / Fiche d’opération standardisée n° IND-UT-102
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
@@ -94,6 +96,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0079 du 01/04/2020, texte n° 9, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=0LduWOm6C36WhoOrckwBT4k85GgPqvffEsbnZjwEPRE=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2020, texte n° 8, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=TtFjMCu9CIzP1bhSZJIVTmkcBJxiewM6c-LqiFcIJkI=
@@ -126,4 +130,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A).
+Se reporter aux conditions d’application prévues à l’article 5 de l’arrêté du 25 mars 2020 (NOR : TRER2008377A).
