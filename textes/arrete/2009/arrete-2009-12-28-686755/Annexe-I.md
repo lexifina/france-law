@@ -394,7 +394,7 @@ A. - Epreuves écrites d'admissibilité
 
 2° Commentaire en langue française d'un texte inscrit au programme (durée : six heures ; coefficient 2).
 
-3° Linguistique : commentaire dirigé en français d'un texte en langue arabe, hors programme, comportant des questions de linguistique du programme et des questions de grammaire hors programme. Ces questions sont posées en français (durée : six heures ; coefficient 2).
+3° Linguistique : commentaire dirigé en français d'un ou plusieurs textes en langue arabe, extraits ou non du programme, comportant des questions de linguistique du programme et des questions de grammaire hors programme. Ces questions sont posées en français (durée : six heures ; coefficient 2).
 
 4° Epreuve de traduction :
 
@@ -1044,17 +1044,7 @@ Durant la préparation, le candidat dispose d'un appareil d'écoute qu'il peut u
 
 Durée de la préparation : trente minutes ; durée de l'épreuve : vingt-cinq minutes ; coefficient 1.
 
-Section arts
-
-Les candidats de la section arts de l'agrégation externe ont le choix entre deux options :
-
-Option A : arts plastiques ;
-
-Option B : arts appliqués.
-
-Le choix de l'option est exprimé lors de l'inscription. Les candidats proposés par les jurys pour l'admissibilité et l'admission font l'objet de classements distincts selon leur option. Les épreuves de la section arts sont fixées ainsi qu'il suit :
-
-Option A : arts plastiques
+Section arts plastiques
 
 A. - Epreuves d'admissibilité
 
@@ -1138,43 +1128,81 @@ Entretien sans préparation avec le jury, à partir de documents imposés par le
 
 Durée : trente minutes maximum ; coefficient 2.
 
-Option B : arts appliqués
+Section design et métiers d'art
 
-A. - Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
-1° Epreuve écrite d'esthétique : analyse et commentaire d'un document textuel. Cette épreuve prend appui sur un document textuel assorti d'un sujet. Ce texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des textes critiques, des écrits d'artistes, d'architectes, d'ingénieurs, de techniciens (durée : quatre heures ; coefficient 1).
+1° Epreuve de philosophie.
 
-2° Epreuve écrite d'histoire de l'art et des techniques : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne les xxe et xxie siècles, l'autre, une période antérieure (durée : quatre heures ; coefficient 1).
+Un programme détermine tous les trois ans la question sur laquelle porte l'épreuve. Cette question s'accompagne d'une bibliographie qui inclut des ouvrages philosophiques et théoriques interrogeant les champs du design, des métiers d'art et des arts.
 
-3° Epreuve pratique d'investigation et de recherche appliquée. A partir d'une documentation visuelle et d'un sujet à consignes précises, le candidat est invité à faire la démonstration :
+Durée : six heures ; coefficient 1,5.
 
-De sa maîtrise à engager une démarche d'investigation à partir de l'analyse et de l'exploitation d'une documentation visuelle imposée ;
+2° Epreuve d'histoire des arts et des techniques.
 
-De sa capacité à s'approprier des données pour positionner une problématique ;
+Deux questions, périodiquement renouvelées en tout ou partie, sont portées au programme de l'épreuve :
 
-De sa capacité à communiquer parti pris et démarche à l'aide des moyens graphiques, plastiques et des modes appropriés nécessaires (durée : douze heures ; coefficient 3).
+-la première concerne une période et une aire géographique déterminées ; elle peut porter sur une thématique, une théorie ou une pensée critique ou conceptuelle dans les champs de l'histoire des arts et des techniques ;
 
-B. - Epreuves d'admission
+-la seconde est transversale et diachronique et ne comporte aucune limite chronologique ou géographique ; elle porte sur l'ensemble des disciplines artistiques, incluant obligatoirement les champs du design et des métiers d'art.
 
-1° Epreuve de conception et d'élaboration d'un projet en arts appliqués. A partir d'une situation, d'un problème ou d'un cahier des charges et de consignes précises, le candidat est invité à initier et développer un programme de stylique prenant en compte toutes les composantes d'un projet, notamment fonctionnelles, techniques, esthétiques, socio-économiques, éthiques et sémantiques :
+Chacune des questions comporte une bibliographie indicative.
 
-Déroulement de l'épreuve :
+Le sujet remis aux candidats porte sur l'une des deux questions.
 
-A. - Recherche et série d'esquisses (durée : six heures) ;
+Durée : six heures ; coefficient 1,5.
 
-B. - Développement du projet en deux journées de huit heures ;
+Le programme des épreuves 1° et 2° d'admissibilité ainsi que les bibliographies associées sont publiés sur le site internet du ministère chargé de l'éducation nationale.
 
-C. - Présentation et justification par le candidat de son travail et de ses choix ; discussion avec le jury (durée totale : trente minutes).
+3° Epreuve de pensée par le dessin.
+
+A partir d'un sujet accompagné de consignes, le candidat est invité à démontrer sa réflexion et à mettre en œuvre une démarche de recherche et de création dans les champs du design et des métiers d'art.
+
+Le candidat doit produire un raisonnement graphique, le cas échéant annoté, qui témoigne de sa réflexion.
+
+Durée : huit heures ; coefficient 3.
+
+B.-Epreuves d'admission
+
+1° Epreuve de recherches et d'hypothèses de projet.
+
+L'épreuve se déroule en trois phases :
+
+a) Une phase de recherches libres par le candidat : elle porte sur un sujet, une thématique ou une question dont le candidat a connaissance cinq jours calendaires avant l'épreuve en loge décrite au b ci-dessous. Le candidat est conduit à rédiger une note de synthèse d'au plus 3 000 signes, à laquelle s'ajoute un sommaire, une bibliographie, une sitographie.
+
+b) Une phase d'hypothèses de projet (deux journées de huit heures). Cette phase se déroule en loge.
+
+Le premier jour de l'épreuve et avant son entrée en salle de composition, le candidat remet au jury sa note de synthèse.
+
+Pendant cette phase, le candidat propose, en lien avec les réflexions qu'il a engagées dans la phase de recherches libres et pour sa note de synthèse, des hypothèses de projet en design et métiers d'art à partir d'une situation imposée et de consignes précises.
+
+c) Une présentation orale suivie d'un entretien avec le jury (durée : quarante minutes : quinze maximum pour la présentation orale, vingt-cinq minutes maximum pour l'entretien).
+
+La note de synthèse n'est pas notée. Le jury en dispose pendant les corrections et l'entretien.
 
 Coefficient pour l'ensemble de l'épreuve : 6.
 
-2° Leçon : conçue à l'intention d'élèves et d'étudiants des classes terminales et postbaccalauréat, elle inclut une réflexion sur les relations avec le monde professionnel et le partenariat avec les institutions et acteurs des domaines artistiques, culturels et industriels.
+2° Epreuve de leçon.
 
-Une enveloppe tirée au sort par le candidat contient deux sujets proposés à partir de documents textuels ou visuels. Le candidat choisit l'un des deux sujets.
+L'épreuve se compose d'un exposé du candidat suivi d'un entretien avec le jury.
 
-Cette leçon est suivie d'un entretien avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3). .
+A partir de documents visuels ou textuels tirés au sort, le candidat est invité à construire et argumenter une réflexion pédagogique en appuyant son propos sur des éléments graphiques et textuels réalisés pendant le temps de préparation. L'épreuve permet au candidat de valoriser sa connaissance des programmes et de situer leurs enjeux dans une pensée pédagogique globale.
 
-3° Entretien sans préparation avec le jury : entretien à partir de documents proposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des domaines suivants : arts plastiques ; image et communication ; nouvelles technologies et création ; architecture et paysage ; théâtre et scénographie (durée : trente minutes maximum ; coefficient 1).
+Durée de préparation : quatre heures ; durée de l'épreuve : une heure (exposé : trente minutes ; entretien : trente minutes).
+
+Coefficient 4.
+
+3° Epreuve d'entretien.
+
+L'épreuve consiste en un entretien sans préparation avec le jury, à partir de documents proposés par ce dernier et portant, au choix du candidat formulé au moment de son inscription, sur l'un des domaines suivants : arts, environnement, médias, spectacle, technologies.
+
+Le candidat est invité à se saisir des documents qui lui sont proposés dans une perspective de designer ou d'artisan d'art.
+
+Les champs couverts par les domaines précédemment définis sont précisés par le programme du concours.
+
+Durée : trente minutes.
+
+Coefficient 2.
 
 Section sciences économiques et sociales
 
@@ -1366,21 +1394,25 @@ A. - Epreuves d'admissibilité
 
 Durée : cinq heures ; coefficient 1.
 
-2° Composition à partir d'un dossier portant, au choix du candidat formulé lors de l'inscription, indépendamment de l'option A, B, C, D ou E choisie :
+2° Composition à partir d'un dossier sur un sujet commun à l'ensemble des options A, B, C, D ou E.
 
-- soit sur les éléments généraux du droit et sur le droit des affaires ;
+Le sujet comporte deux parties portant l'une sur les éléments généraux du droit et sur le droit des affaires, l'autre sur l'économie.
 
-- soit sur l'économie.
+Les candidats rendent deux copies séparées. Chaque partie compte pour moitié de la notation.
 
-Cette épreuve consiste à répondre de façon structurée au sujet posé en se fondant sur des éléments fournis dans le dossier mais aussi en apportant ses connaissances personnelles et des exemples.
-
-Durée : cinq heures ; coefficient 1.
-
-3° Etude de cas sur la gestion des entreprises et des organisations.
-
-Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat.
+L'épreuve consiste à répondre de façon structurée au sujet posé en se fondant sur des éléments fournis dans le dossier mais aussi en apportant ses connaissances personnelles et des exemples.
 
 Durée : cinq heures ; coefficient 1.
+
+3° Etude de cas sur la gestion des entreprises et des organisations.¶
+
+¶
+
+Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat.¶
+
+¶
+
+Durée : cinq heures ; coefficient 1.¶
 
 B. - Epreuves d'admission
 
