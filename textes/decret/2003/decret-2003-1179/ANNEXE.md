@@ -1,7 +1,0 @@
-# Article ANNEXE
-
-FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
-
-1. Secrétaire général.
-
-2. Secrétaire général adjoint.
