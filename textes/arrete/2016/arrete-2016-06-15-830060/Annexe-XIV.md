@@ -134,17 +134,17 @@ II - Indemnité d'engagement de service public exclusif correspondant à un serv
 
 |
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique
+Indemnité mentionnée à l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l' article D. 6152-220-1 du code de la santé publique |
 
 |
 
-296,01 |
+Du 1er septembre 2020 au 28 février 2021 |
 
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique
+420 |
 
-|
+A compter du 1er mars 2021 |
 
-422,52 |
+606 |
 
 III - Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
 

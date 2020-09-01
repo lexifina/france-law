@@ -4,82 +4,56 @@ RÉMUNÉRATION DES ÉTUDIANTS DE DEUXIÈME CYCLE DES ÉTUDES DE MÉDECINE, PHARM
 
 Articles R. 6153-46 à R. 6153-62, articles R. 6153-63 à R. 6153-76 et articles R. 6153-77 à R. 6153-91 du code de la santé publique
 
-PERSONNELS CONCERNES
+PERSONNELS CONCERNES |
+
+Montants au 1er septembre 2020 (en euros) |
+
+I-Montants bruts annuels des émoluments alloués aux étudiants en médecine |
 
 |
 
-Montants
+-troisième année du deuxième cycle |
 
-au 1er février 2017
+4 680 |
 
-(en euros)
+-deuxième année du deuxième cycle |
 
-|
+3 840 |
 
-I - Montants bruts annuels des indemnités allouées aux étudiants en médecine
+-première année du deuxième cycle |
 
-|
-
-|
-
-- troisième année du deuxième cycle
-
-|
-
-3 370,70
-
-|
-
-- deuxième année du deuxième cycle
-
-|
-
-3 016,84
-
-|
-
-- première année du deuxième cycle
-
-|
-
-1 555,22
-
-|
-
-II - Montants bruts annuels des indemnités allouées aux étudiants en odontologie
+3 120 |
 
 |
 
 |
 
-- troisième cycle court
+II-Montants bruts annuels des émoluments alloués aux étudiants en odontologie |
 
 |
 
-3 370,70
+-troisième cycle court |
+
+4 680 |
+
+-deuxième année du deuxième cycle |
+
+3 840 |
+
+-première année du deuxième cycle |
+
+3 120 |
 
 |
 
-- deuxième année du deuxième cycle
+|
+
+III-Montants bruts annuels des émoluments alloués aux étudiants en pharmacie |
+
+3 840
 
 |
 
-3 016,84
+NOTA :
 
-|
-
-- première année du deuxième cycle
-
-|
-
-1 555,22
-
-|
-
-III - Montants bruts annuels des indemnités allouées aux étudiants en pharmacie
-
-|
-
-3 016,84
-
-|
+Conformément à l'article 6 de l'arrêté du 11 septembre 2020, ces dispositions sont applicables à compter du 1er septembre 2020.

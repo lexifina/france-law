@@ -146,19 +146,21 @@ Indemnité d'engagement de service public exclusif (montant brut mensuel)
 
 Pour A et B
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
+Indemnité mentionnée à l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
 
 |
 
-487,49 |
+|
 
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
+Du 1er septembre 2020 au 28 février 2021
 
 |
 
-700,00
+700 |
 
-|
+A compter du 1er mars 2021 |
+
+1010 |
 
 C - Maitres de conférences des universités-praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires exerçant à temps partiel : (montants bruts annuels)
 
@@ -360,17 +362,21 @@ Indemnité d'engagement de service public exclusif (montant brut mensuel)
 
 Pour A et B
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
+Indemnité mentionnée à l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
 
 |
 
-487,49 |
+|
 
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
+Du 1er septembre 2020 au 28 février 2021
 
 |
 
-700,00 |
+700 |
+
+A compter du 1er mars 2021 |
+
+1010 |
 
 b) personnels exerçant à temps partiel :
 

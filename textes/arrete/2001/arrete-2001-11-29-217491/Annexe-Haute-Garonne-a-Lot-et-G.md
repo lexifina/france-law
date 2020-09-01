@@ -604,17 +604,13 @@ DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DE LA LOIRE-ATLANTIQUE
 
 Fonctions exercées |
 
-Niveau de qualification
-
-de l'emploi |
+Niveau de qualification de l'emploi |
 
 Nombre d'emplois |
 
-Nombre de points (IM)
+Nombre de points (IM) par emploi |
 
-par emploi |
-
-Unité logement public
+Unité " logement public "
 
 Chef d'unité |
 
@@ -624,7 +620,7 @@ A |
 
 25 |
 
-Chef de service bâtiment logement |
+Responsable de la mission renouvellement urbain |
 
 A |
 
@@ -648,13 +644,13 @@ A |
 
 25 |
 
-Responsable de la mission renouvellement urbain |
+Adjoint chargé de l'animation du financement social |
 
 B |
 
 1 |
 
-20 |
+15 |
 
 Adjoint au responsable de la mission renouvellement urbain |
 
@@ -670,7 +666,7 @@ B |
 
 1 |
 
-10 |
+15 |
 
 Direction départementale de l'équipement du Loiret
 
@@ -868,8 +864,4 @@ NOTA :
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
-Arrêté du 12 décembre 2012 art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2012 pour le département du Jura.
-
-Arrêté du 29 août 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2016 pour la direction départementale des territoires et de la mer de la Gironde.
-
-Arrêté du 8 juillet 2020, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2019 pour la direction départementale des territoires et de la mer de la Loire-Atlantique.
+Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 7 septembre 2022 (NOR:TREK2225702A).

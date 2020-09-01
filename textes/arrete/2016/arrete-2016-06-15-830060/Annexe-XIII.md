@@ -146,21 +146,15 @@ II - Indemnité d'engagement de service public exclusif (montant brut mensuel)
 
 |
 
-Jusqu'au 31 octobre 2017
+Du 1er septembre 2020 au 28 février 2021
 
 |
 
-394,68
+700 |
 
-|
+A compter du 1er mars 2021 |
 
-A compter du 1er novembre 2017
-
-|
-
-493,35
-
-|
+1010 |
 
 III - Prime d'engagement à exercer à plein temps (montant brut) :
 

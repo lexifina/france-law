@@ -134,17 +134,21 @@ II - Indemnité d'engagement de service public exclusif (montant brut mensuel)
 
 |
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 8 juin 2000 modifié relatif à l'indemnité d'engagement de service public exclusif
+Indemnité mentionnée à l'article 1er de l'arrêté du 8 juin 2000 modifié relatif à l'indemnité d'engagement de service public exclusif |
 
 |
 
-493,35 |
-
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 8 juin 2000 modifié relatif à l'indemnité d'engagement de service public exclusif
+Du 1er septembre 2020 au 28 février 2021
 
 |
 
-704,20 |
+700 |
+
+A compter du 1er mars 2021
+
+|
+
+1010 |
 
 III - Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
 

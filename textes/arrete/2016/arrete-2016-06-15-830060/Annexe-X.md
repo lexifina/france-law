@@ -230,33 +230,39 @@ II - Indemnité d'engagement de service public exclusif (montant brut mensuel)
 
 Pour A et B
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
+Indemnité mentionnée à l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
 
 |
 
-487,49 |
+|
 
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires
+Du 1er septembre 2020 au 28 février 2021
 
 |
 
-700,00 |
+700 |
+
+A compter du 1er mars 2021 |
+
+1010 |
 
 Pour C et D
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 21 février 2003 modifié relatif à l'indemnité d'engagement de service public exclusif pour les chefs de clinique des universités-assistants des hôpitaux, les assistants hospitaliers universitaires et les praticiens hospitaliers universitaires
+Indemnité mentionnée à l'article 1er de l'arrêté du 21 février 2003 modifié relatif à l'indemnité d'engagement de service public exclusif pour les chefs de clinique des universités-assistants des hôpitaux, les assistants hospitaliers universitaires et les praticiens hospitaliers universitaires
 
 |
 
-493,35
+|
+
+Du 1er septembre 2020 au 28 février 2021
 
 |
 
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 21 février 2003 modifié relatif à l'indemnité d'engagement de service public exclusif pour les chefs de clinique des universités-assistants des hôpitaux, les assistants hospitaliers universitaires et les praticiens hospitaliers universitaires
+700 |
 
-|
+A compter du 1er mars 2021 |
 
-704,20 |
+1010 |
 
 III - Indemnité pour activité exercée sur plusieurs établissements pour A et B (montant brut mensuel)
 

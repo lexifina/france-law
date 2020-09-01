@@ -126,17 +126,19 @@ II - Indemnité d'engagement de service public exclusif des praticiens exerçant
 
 |
 
-Indemnité mentionnée au 1° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée aux articles D. 6152-612-1 et D. 6152-633-1 du code de la santé publique
+Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée aux articles D. 6152-612-1 du code de la santé publique
 
 |
 
-493,35 |
-
-Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée aux articles D. 6152-612-1 et D. 6152-633-1 du code de la santé publique
-
 |
 
-704,20 |
+Du 1er septembre 2020 au 28 février 2021 |
+
+700 |
+
+A compter du 1er mars 2021 |
+
+1010 |
 
 III - indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
 

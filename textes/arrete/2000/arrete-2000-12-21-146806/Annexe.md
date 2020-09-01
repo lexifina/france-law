@@ -18,19 +18,15 @@ nommé (professeur des universités-praticien hospitalier ou maître de confére
 
 il est convenu ce qui suit :
 
-M. ... s'engage à exercer l'intégralité de ses fonctions hospitalières dans le cadre :
+M.... s'engage à exercer l'intégralité de ses fonctions hospitalières dans le cadre :
 
-- des dispositions prévues à l'article 3 du décret n° 84-135 du 24 février 1984 modifié, ou
+-des dispositions prévues à l'article 3 du décret n° 84-135 du 24 février 1984 modifié, ou
 
-- des dispositions prévues à l'article 3 du décret n° 90-92 du 24 janvier 1990 modifié.
+-des dispositions prévues à l'article 3 du décret n° 90-92 du 24 janvier 1990 modifié.
 
 M. s'engage à ne pas exercer d'activité libérale telle que prévue aux articles L. 6154-1 à L. 6154-7 du code de la santé publique pour une durée de trois ans à compter du
 
-En contrepartie de cet engagement, M. percevra, conformément aux dispositions de l'article 38 du décret n° 84-135 du 24 février 1984 modifié portant statut des personnels enseignants et hospitaliers des centres hospitaliers et universitaires et dans les conditions prévues à l'article 1° de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires une indemnité mensuelle d'engagement de service public exclusif d'un montant :
-
-□ correspondant au 1° dudit article 1er.
-
-□ correspondant au 2° dudit article 1er.
+En contrepartie de cet engagement, M percevra, conformément aux dispositions de l'article 38 du décret n° 84-135 du 24 février 1984 susvisé, une indemnité mensuelle d'engagement de service public exclusif dont le montant est prévu à l'article 1er de l'arrêté du 21 décembre 2000 modifié fixant le montant de l'indemnité spéciale d'engagement de service public exclusif pour les personnels enseignants et hospitaliers titulaires.
 
 En cas de dénonciation du présent contrat avant son terme par le praticien pour exercer une activité libérale, il est procédé au recouvrement du montant de l'indemnité déjà versé au titre du présent contrat.
 
