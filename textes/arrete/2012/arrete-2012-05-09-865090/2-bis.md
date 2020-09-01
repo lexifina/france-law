@@ -18,7 +18,7 @@ de l'établissement d'affectation de l'agent |
 
 Intérim effectué dans un autre établissement |
 
-Agents régis par les dispositions des décrets n° 2007-1930 et n° 2012-738
+Agents régis par les dispositions des décrets n° 2007-1930 et n° 2020-959
 
 |
 
@@ -46,7 +46,7 @@ Classe normale |
 
 1 |
 
-Agents régis par les dispositions des décrets n° 2005-921 et n° 2005-922
+Agents régis par les dispositions des décrets n° 2005-921 et n° 2020-959
 
 |
 
