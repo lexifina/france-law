@@ -1,0 +1,3 @@
+# Article 1 bis
+
+Dans le cadre du a et b de l'article 1er, l'organisation des jurys conduisant à la délivrance des diplômes par le ministre chargé de l'agriculture fait l'objet d'une procédure déconcentrée auprès des directions régionales de l'alimentation, de l'agriculture et de la forêt, des directions de l'agriculture et de la forêt, des départements d'outre-mer et des services extérieurs du ministère chargé de l'agriculture dans les territoires d'outre-mer, en leur qualité d'autorités académiques. Pour cette mission, l'autorité académique exerce par délégation les prérogatives du ministre chargé de l'agriculture.
