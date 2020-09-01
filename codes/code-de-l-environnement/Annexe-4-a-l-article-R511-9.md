@@ -1910,7 +1910,7 @@ D
 
 |
 
-Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de déchets non dangereux non inertes à l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719.
+Installation de transit, regroupement, tri ou préparation en vue de la réutilisation de déchets non dangereux non inertes à l'exclusion des installations visées aux rubriques 2710, 2711, 2712, 2713, 2714, 2715 et 2719 et des stockages en vue d'épandages de boues issues du traitement des eaux usées mentionnés à la rubrique 2.1.3.0. de la nomenclature annexée à l'article R. 214-1.
 
 |
 
@@ -6743,3 +6743,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 200 t.
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
 
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
+
+NOTA :
+
+Conformément à l’article 8, II du décret n° 2020-828 du 30 juin 2020, ces dispositions sont applicables aux demandes d'autorisation et aux déclarations déposées à compter du 1er septembre 2020.
