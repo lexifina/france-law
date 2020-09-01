@@ -254,8 +254,6 @@ France Télévisions assure également la continuité territoriale des programme
 
 La programmation quotidienne des Outre-mer La 1ère comprend des journaux d'information concernant l'actualité locale, régionale, nationale et internationale. Ces services programment des émissions traitant de la vie des populations d'outre-mer à travers leur culture, leur histoire, leurs traditions et leurs spécificités économiques et sociales.
 
-5° bis France Ô : chaîne des outre-mer qui contribue au partage et à la diffusion des identités, des cultures et de l'actualité des outre-mer, en s'appuyant notamment sur les services mentionnés au 5° et en développant des productions ultra-marines ;
-
 6° France Télévisions édite, directement ou à travers des filiales, des services de médias audiovisuels à la demande qui permettent une nouvelle mise à disposition auprès du public de ses programmes télévisés et qui, d'une manière plus générale, proposent une offre de contenus de complément.
 
 La société développe une offre de services de communication au public en ligne qui prolongent, complètent et enrichissent l'offre de programmes des services précédemment énumérés.
