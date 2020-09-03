@@ -650,6 +650,18 @@ Scorsonère |
 
 70 |
 
+Solanum lycopersicum L. |
+
+Toutes les variétés |
+
+Tomate |
+
+97 |
+
+0.5 |
+
+75 |
+
 Solanum melongena L. |
 
 Toutes les variétés |
