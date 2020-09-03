@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415107
+
+- Question : [SEQ200415107](seq200415107.md) — Intégration des agents des polices municipales à la liste des professions pouvant bénéficier de la garde d'enfants
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-09-03, page 3955*
+
+La reprise progressive de l'accueil des enfants de 0 à 3 ans à compter du 11 mai 2020 s'est faite dans le respect d'une règle organisant l'accueil des enfants en groupes étanches de 10, afin de limiter strictement les risques de diffusion du virus en cas de contamination. Cette disposition réglementaire a eu pour effet de limiter les capacités des établissements d'accueil du jeune enfant et ainsi d'obliger à définir des critères de priorité. Le Gouvernement a fait le choix de confirmer la priorité absolue à accorder aux professionnels soignants et indispensables à la gestion de la crise sanitaire (groupe A) et a recommandé d'accueillir ensuite prioritairement les enfants des enseignants et personnels des établissements scolaires, les enfants de familles monoparentales et les enfants de couples biactifs dont au moins un des deux parents ne peut télétravailler (groupe B). Chaque préfet de département pouvait cependant enrchir ces listes et chaque établissement demeurait libre, dans le respect de ces cadres nationaux et départementaux, de définir ses critères de priorisation en cohérence avec son projet d'établissement. À compter du 22 juin, l'assouplissement des règles sanitaires a permis de lever cette exigence de priorisation. À l'avenir, si une dégradation de la situation épidémique rendait localement ou nationalement nécessaire de restreindre à nouveau les capacités d'accueil, la question de l'accueil des enfants de professionnels dont les activités peuvent être télétravaillées devrait être de nouveau étudiée à la lumière des exigences sanitaires et économiques.
