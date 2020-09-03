@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717525
+
+- Question : [SEQ200717525](seq200717525.md) — Recours à la téléconsultation dans les territoires sous-denses
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-09-03, page 3957*
+
+Le public concerné par les décrets n° 2020-227 du 9 mars 2020 et n° 2020-277 du 19 mars 2020 sont les patients atteints ou susceptibles d'être atteints de Covid-19. Ces patients ont également pu bénéficier les premiers d'une prise en charge des actes de téléconsultation à 100 % par l'assurance maladie. Cette prise en charge a ensuite été étendue à tous les patients – concrètement, le maintien du reste à charge était susceptible d'empêcher le recours à la téléconsultation des patients, dans un contexte de confinement, d'annulation des consultations en présentiel pour les malades chroniques, et de faible équipement des professionnels médicaux en solutions de facturation à distance. Il faut cependant rappeler que pour les patients non atteints de Covid-19, le remboursement de la téléconsultation à 100 % par l'assurance maladie est resté et reste sous condition de respect du parcours de soins coordonné. Les textes qui ont été pris pendant cette période sont inscrits dans le contexte et l'organisation sanitaire de réponse à l'épidémie. Le Gouvernement s'emploie activement à réduire la fracture numérique sur le territoire français pour que tous les citoyens puissent prétendre à un accès égalitaire à l'Internet. S'agissant du recours au médecin traitant, le parcours de soins a été privilégié par les partenaires conventionnels (avenant 6) afin d'assurer la bonne prise en charge de l'assuré, dans les conditions de qualité et de sécurité de la téléconsultation et de son aval. La qualité et l'égalité d'accès aux soins ont guidé l'élaboration des organisations de télésanté et continueront d'en être les moteurs dans les dispositions de droit commun à venir.
