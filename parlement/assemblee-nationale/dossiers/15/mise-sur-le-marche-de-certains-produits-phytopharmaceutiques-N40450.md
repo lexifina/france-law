@@ -1,0 +1,63 @@
+# Mise sur le marché de certains produits phytopharmaceutiques en cas de danger sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40450
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/mise_sur_le_marche_de_certains_produits_phytopharmaceutiques_en_cas_de_danger_sanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-007.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-09-03 : 1er dépôt d'une initiative. (PRJLANR5L15B3298)
+  - 2020-09-03 : Etude d'impact (ETDIANR5L15B3298)
+  - 2020-09-03 : Avis du Conseil d'Etat (AVCEANR5L15B3298)
+  - 2020-09-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-09-03 : Renvoi en commission au fond
+      - 2020-09-14 : Nomination de rapporteur
+      - 2020-09-23 : Réunion de commission
+      - 2020-10-05 : Réunion de commission
+      - 2020-09-24 : Dépôt de rapport (RAPPANR5L15B3358, PRJLANR5L15BTC3358)
+    - Travaux d'une commission saisie pour avis
+      - 2020-09-09 : Saisine pour avis d'une commission
+      - 2020-09-15 : Nomination de rapporteur
+      - 2020-09-15 : Réunion de commission
+      - 2020-09-22 : Réunion de commission
+      - 2020-09-22 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-10-05 : Discussion en séance publique
+    - 2020-10-05 : Discussion en séance publique
+    - 2020-10-06 : Discussion en séance publique
+    - 2020-10-06 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-10-07 : Dépôt d'une initiative en navette (PRJLSNR5S359B0007)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-07 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-21 : Dépôt de rapport (RAPPSNR5S359B0060, PRJLSNR5S359BTC0061)
+  - Discussion en séance publique
+    - 2020-10-27 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-28 : Dépôt d'un projet de loi (PRJLANR5L15B3483)
+  - 2020-10-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-29 : Nomination de rapporteur
+    - 2020-10-29 : Dépôt du rapport d'une CMP (RAPPANR5L15B3489, PRJLANR5L15BTC3489)
+    - 2020-10-29 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0093, PRJLSNR5S359BTC0094)
+  - Discussion en séance publique
+    - 2020-10-30 : Décision
+  - Discussion en séance publique
+    - 2020-11-04 : Discussion en séance publique
+    - 2020-11-04 : Décision
+  - 2020-10-29 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-11-10 : Saisine du conseil constitutionnel
+  - 2020-11-12 : Saisine du conseil constitutionnel
+  - 2020-12-10 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-12-14 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2021-07-13 : Rapport sur l'application des lois (RINFANR5L15B4368)
