@@ -1,12 +1,12 @@
 # Article Annexe 27
 
-MONTANT MAXIMAL DES DÉPASSEMENTS APPLICABLES AUX BÉNÉFICIAIRES DU DROIT À LA PROTECTION COMPLÉMENTAIRE EN MATIÈRE DE SANTÉ VISÉS À L'ARTICLE L. 861-1 DU CODE DE LA SÉCURITÉ SOCIALE ET AUX BÉNÉFICIAIRES DE L'AIDE AU PAIEMENT D'UNE COMPLÉMENTAIRE SANTÉ VISÉ À L'ARTICLE L. 863-1 DU CODE DE LA SÉCURITÉ SOCIALE
+MONTANT MAXIMAL DES DÉPASSEMENTS APPLICABLES AUX BÉNÉFICIAIRES DU DROIT À LA COMPLÉMENTAIRE SANTÉ VISÉS À L'ARTICLE L. 861-1 DU CODE DE LA SÉCURITÉ SOCIALE
 
 Applicable sous réserve des dispositions de l'article L. 162-1-7 du code de la sécurité sociale
 
 Prothèses dentaires incluses dans le panier de soins CMU-C/ ACS et montants maximaux pris en charge
 
-a) Ne concerne que la facturation aux patients CMU-C
+a) Ne concerne que la facturation aux patients bénéficiaires de la complémentaire santé solidaire
 
 Codes CCAM |
 
@@ -60,7 +60,7 @@ Prothèses fixées |
 
 HBLD490 |
 
-Pose d'une couronne dentaire transitoire pour couronne dentoportée "sans reste à charge" Facturation pour :-couronnes métalliques toutes localisations (HBLD038),-couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634),-couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)-couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680) Non facturable pour une couronne définitive réalisée en extemporané, facturable une seule fois par couronne définitive |
+Pose d'une couronne dentaire transitoire pour couronne dentoportée " sans reste à charge " Facturation pour :-couronnes métalliques toutes localisations (HBLD038),-couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634),-couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)-couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680) Non facturable pour une couronne définitive réalisée en extemporané, facturable une seule fois par couronne définitive |
 
 FDC |
 
@@ -132,7 +132,7 @@ FDC |
 
 HBLD090 |
 
-Pose d'une infrastructure coronoradiculaire [Inlay core] sous une couronne ou un pilier de bridge dentoporté sans "reste à charge" Avec ou sans clavette À l'exclusion de : restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire (HBMD042) Facturation pour :-couronnes métalliques toutes localisations (HBLD038),-couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634),-couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)-couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680)-bridge de base tout métallique (HBLD033)-bridge de base céramométallique pour remplacement d'une incisive (HBLD785) Prise en charge limitée à l'infrastructure coronoradiculaire métallique coulée |
+Pose d'une infrastructure coronoradiculaire [Inlay core] sous une couronne ou un pilier de bridge dentoporté sans " reste à charge " Avec ou sans clavette À l'exclusion de : restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire (HBMD042) Facturation pour :-couronnes métalliques toutes localisations (HBLD038),-couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634),-couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)-couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680)-bridge de base tout métallique (HBLD033)-bridge de base céramométallique pour remplacement d'une incisive (HBLD785) Prise en charge limitée à l'infrastructure coronoradiculaire métallique coulée |
 
 FDC |
 

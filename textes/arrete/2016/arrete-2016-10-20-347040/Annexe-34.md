@@ -172,7 +172,7 @@ Le médecin s'engage à fournir sur demande de la caisse tout justificatif attes
 
 2.3.1. Vérification de l'atteinte des objectifs du médecin signataire
 
-Quelle que soit l'option retenue-option 1 ou 2 ou option spécifique pour un médecin exerçant en zone sous dense-la CPAM vérifie le respect des engagements de la manière suivante.
+Quelle que soit l'option retenue-option 1 ou 2 ou option spécifique pour un médecin exerçant en zones d'interventions prioritaires ou zone d'action complémentaire dans les conditions telles que définies à l'article 9-5-2-4, la CPAM vérifie le respect des engagements de la manière suivante.
 
 Jusqu'à la fin de la deuxième année du contrat, est mise en place une période d'observation sur le suivi de l'atteinte des objectifs fixés au médecin signataire.
 
@@ -224,7 +224,7 @@ Pour les médecins dont la patientèle médecin traitant et/ ou file active se s
 
 Pour les médecins dont la patientèle médecin traitant et/ ou file active se situe au-dessus du 95e percentile, l'aide maximale est de 18 000 euros par an pendant toute la durée du contrat.
 
-Pour le financement d'au moins 1 d'ETP d'assistant médical pour le médecin installé en zone sous dense : [à préciser selon l'option choisie par le médecin signataire]
+Pour le financement d'au moins 1 d'ETP d'assistant médical pour le médecin installé en zone d'intervention prioritaire ou zone d'action complémentaire dans les conditions telles que définies à l'article 9-3-5 : [à préciser selon l'option choisie par le médecin signataire]
 
 La participation de l'assurance maladie, selon cette option, est répartie de la manière suivante :
 

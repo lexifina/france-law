@@ -272,13 +272,13 @@ Les partenaires conventionnels conviennent de la difficulté de prise en charge,
 
 Afin d'améliorer l'accès aux soins de ces publics particulièrement fragiles, les partenaires conventionnels s'accordent sur la nécessité d'une part, de valoriser la prise en charge par les médecin stomatologiste et spécialiste en chirurgie orale ou maxillo-faciale de ville, de cette patientèle spécifique, et d'autre part, de prévoir la prise en charge, par l'Assurance Maladie des techniques de sédation consciente, telle que l'utilisation du MEOPA, utilisées par des médecin stomatologiste et spécialiste en chirurgie orale ou maxillo-faciale formés à son utilisation et en respectant l'ensemble des conditions réglementaires encadrant son usage.
 
-Article 12-1
+Article 12.1
 
 Patients concernés
 
-Les enfants handicapés dont les personnes qui en assument la charge sont bénéficiaires de l'allocation d'éducation de l'enfant handicapé [AEEH] ou de l'aide pour prise en charge d'un patient bénéficiaire de la prestation de compensation du handicap [PCH] atteints de handicap physique, sensoriel, mental, cognitif ou psychique sévère, de polyhandicap ou d'un trouble de santé invalidant.
+Les patients atteints d’handicap physique, sensoriel, mental, cognitif ou psychique sévère, d’un polyhandicap et pour lesquels une adaptation de la prise en charge en santé bucco-dentaire est nécessaire sont concernés par les mesures décrites ci-après.
 
-Cette population éligible à cette mesure peut être amenée à évoluer. Ainsi, toute évolution décidée dans le cadre de la convention nationale des chirurgiens-dentistes pourra faire l'objet d'une transposition par le biais de la signature d'un avenant à la présente convention.
+Afin de faciliter l’identification des situations nécessitant une adaptation de prise en charge en santé bucco-dentaire et permettant au médecin de bénéficier de ces mesures, une grille d’évaluation du comportement et de la coopération de ces patients au cours d’une séance de soins dentaires est proposée en annexe 13 bis de la présente convention. Dès lors que pour un des domaines de la grille, l’adaptation de la prise en charge en santé bucco-dentaire du patient en situation de handicap nécessaire est "modérée" ou "majeure", les mesures de valorisation prévues à l’article 12.2 sont applicables. La grille doit obligatoirement être complétée par le praticien à la fin de chaque séance réalisée avec un patient en situation de handicap sévère dès lors que le médecin a rencontré une difficulté au cours de la séance. Elle pourra être remise au service médical de la caisse primaire à sa demande en cas de contrôle ou à des fins d’évaluation.
 
 Article 12.2
 
@@ -286,9 +286,21 @@ Valorisation de la prise en charge des patients en situation de handicap et des 
 
 Les partenaires conventionnels souhaitent permettre la prise en charge par l'Assurance Maladie obligatoire de la technique de sédation consciente aux soins par utilisation de MEOPA, en faveur des patients en situation de handicap afin de faciliter leur prise en charge par le chirurgien-dentiste.
 
-Cette prise en charge se matérialise par la valorisation d'un supplément facturable une fois par séance avec ou sans MEOPA à hauteur de 100 €.
+Par ailleurs, les partenaires conventionnels souhaitent élargir le champ des actes pris en charge en faveur de ces patients.
 
-Ces dispositions sont entrées en vigueur au 1er avril 2019, conformément à la décision UNCAM du 16 février 2019 modifiant la liste des actes et prestations telle que prévue à l'article L. 162-1-7 du Code de la sécurité sociale.
+Ils proposent donc la création d’un nouveau supplément pour les actes techniques réalisés en deux séances ou plus à hauteur de 200€ non cumulable avec le supplément YYYY183.
+
+Ils proposent également la prise en charge d’une consultation bucco-dentaire complexe à hauteur de 46€.
+
+Ces mesures entreraient en vigueur à l’expiration du délai fixé à l’article L. 162-14-1-1 du Code de la sécurité sociale, et sous réserve de la modification de la liste des actes et prestations visée à l’article L. 162-1-7 du Code de la sécurité sociale.
+
+Article 12.3
+
+Les tarifs d'honoraires du dispositif de prévention
+
+Afin d’améliorer la prise en charge des personnes en situation de handicap, telles que définies à l’article 12.1 de la convention nationale, les partenaires conventionnels proposent la création d’un supplément de 23€ cumulable à la rémunération de l’examen de prévention bucco-dentaire ainsi qu’à celle de l’examen avec la réalisation des radiographies. La grille d’éligibilité définie en annexe 13 bis doit obligatoirement être complétée par le praticien à la fin de chaque séance et pourra être remise au service médical de la caisse primaire à sa demande en cas de contrôle.
+
+Cette mesure entrerait en vigueur à l’expiration du délai fixé à l’article L. 162-14-1-1 du Code de la sécurité sociale.
 
 Article 13
 

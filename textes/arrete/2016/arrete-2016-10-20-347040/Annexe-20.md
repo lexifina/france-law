@@ -74,7 +74,7 @@ En adhérant à l’option, le médecin s’engage à respecter le taux de dépa
 
 2ème indicateur : le taux d’activité à tarif opposable
 
-L’option comporte, dans un souci d’amélioration d’accès aux soins, le pourcentage recalculé d’activité aux tarifs opposables que le praticien s’engage à respecter. Ce pourcentage qui inclut les cas visés l’article 38.3 de la présente convention (situations d’urgence médicale, patients en CMUC ou disposant de l’attestation de droit à l’ACS) doit être supérieur ou égal à celui constaté tel que défini au 1er alinéa du présent article.
+L’option comporte, dans un souci d’amélioration d’accès aux soins, le pourcentage recalculé d’activité aux tarifs opposables que le praticien s’engage à respecter. Ce pourcentage qui inclut les cas visés l’article 38.3 de la présente convention (situations d’urgence médicale, patients bénéficiaires de la complémentaire santé solidaire sans ou avec participation financière) doit être supérieur ou égal à celui constaté tel que défini au 1er alinéa du présent article.
 
 Article 2.1.1 Fixation des engagements
 
