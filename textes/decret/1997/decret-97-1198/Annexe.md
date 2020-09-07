@@ -2064,6 +2064,16 @@ Décret n° 2017-673 du 28 avril 2017 Article 2. |
 
 Ministre chargé de l'environnement |
 
+32 |
+
+Agrément des organismes spécialisés dans la lutte contre les pollutions accidentelles des eaux |
+
+Code de l'environnement
+
+Article R. 211-121 |
+
+Ministre chargé de l'environnement et, le cas échéant, ministre chargé de la mer |
+
 DIVERS
 
 1 |
