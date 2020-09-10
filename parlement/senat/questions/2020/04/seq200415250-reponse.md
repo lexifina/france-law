@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415250
+
+- Question : [SEQ200415250](seq200415250.md) — Réquisitions abusives de masques par l'État aux dépens de la région Bourgogne-Franche-Comté
+
+## Réponse
+
+*Intérieur, JO du 2020-09-10, page 4150*
+
+Compte-tenu de la situation épidémique de la région Grand-Est et dans un contexte tendu d'approvisionnement en masques, les fournisseurs n'étaient pas en mesure de livrer la totalité des volumes commandés dans des délais satisfaisants. Par arrêté en date du 4 avril 2020, le préfet du Haut-Rhin a réquisitionné, dès son arrivée à l'aéroport Bâle-Mulhouse, une cargaison de masques importés de Chine afin d'en assurer l'affectation prioritaire aux destinataires de la commande de l'agence régionale de santé (ARS), à savoir les professionnels de santé ainsi que les patients des hôpitaux et des établissements d'hébergement pour personnes âgées dépendantes, les plus exposés au coronavirus. Des échanges avaient eu lieu entre l'État et les collectivités territoriales, par l'intermédiaire des préfets concernés au sujet de cette cargaison. Même si ces échanges ont pu se tenir dans l'urgence, les préfets et l'ARS ont toujours agi conformément aux priorités sanitaires définies par le Gouvernement. Une table ronde a été organisée le 9 avril 2020 avec le ministre de l'intérieur et les associations d'élus locaux, au cours de laquelle toutes les interrogations relatives aux masques, à leur production, à leur importation, et aux règles de priorisation de leur emploi ont été abordées. L'allocation prioritaire aux besoins des professionnels de santé et des patients a fait l'objet d'un consensus unanime entre le Gouvernement et les élus locaux. Cette crise sanitaire, notamment dans la phase de déconfinement, a été gérée en partenariat étroit entre les services de l'État et les collectivités territoriales. Au niveau local, ce partenariat a été incarné par le tandem constitué par les préfets et les maires.
