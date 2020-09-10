@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717340
+
+- Question : [SEQ200717340](seq200717340.md) — Impact sur la fiscalisation des contributions communales au syndicat département d'énergies du Rhône
+
+## Réponse
+
+*Comptes publics, JO du 2020-09-10, page 4092*
+
+Les syndicats, qu'ils soient mixtes ou intercommunaux, sont des établissements publics de coopération intercommunale sans fiscalité propre, qui ne disposent dès lors d'aucun pouvoir fiscal. Ils perçoivent en principe des contributions budgétaires de leurs communes membres. En vertu des premier et deuxième alinéas de l'article 1609 quater du CGI, le comité d'un syndicat peut décider de lever une part additionnelle aux quatre taxes directes locales en remplacement de tout ou partie de la contribution des communes associées. Dans ce cas, les taux de fiscalité applicables à leur profit sont déterminés proportionnellement aux recettes que chacune des impositions directes locales procure à la commune. La suppression de la taxe d'habitation sur les résidences principales augmentera mécaniquement la part des autres taxes dans le produit global communal. Cependant, la fiscalisation des contributions communales ne peut être mise en œuvre que si le conseil municipal, obligatoirement consulté dans un délai de quarante jours, ne s'y est pas opposé en affectant d'autres ressources au paiement de sa quote-part, ainsi que le précise l'article L. 5212-20 du code général des collectivités locales. En d'autres termes, la fiscalisation des contributions syndicales relève d'un choix de gestion de la commune. Le syndicat étant assuré de percevoir le produit de la contribution qu'il détermine quelles que soient les modalités de financement de la quote-part attendue des collectivités membres, il n'y a pas matière à compensation pour perte de produit syndical du fait de la réforme de la fiscalité locale.
