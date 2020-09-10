@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113152
+
+- Question : [SEQ191113152](seq191113152.md) — Codification du statut de salarié protégé pour les élus locaux dans le code du travail
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-09-10, page 4086*
+
+Le statut de salarié protégé prévu par le Code du travail a été étendu au profit des élus locaux par la loi du 31 mars 2015 visant à faciliter l'exercice, par les élus locaux, de leur mandat, qui l'a inséré à l'article L. 2123-9 du code général des collectivités territoriales (CGCT). Néanmoins, comme le soulignait le rapport annuel de 2016 de la Cour de cassation, ce statut n'était pas effectif en l'absence de dispositions spécifiques au sein du code du travail permettant de le rendre applicable aux élus locaux. Par ailleurs, il pouvait constituer un facteur susceptible de dissuader les employeurs d'embaucher des candidats titulaires de mandats locaux. C'est pourquoi l'article 86 de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique a remplacé le statut de salarié protégé prévu à l'article L. 2123-9 du CGCT précité par un nouveau dispositif juridique qui permet de garantir une véritable protection des élus locaux salariés, sans constituer un facteur de dissuasion à l'embauche pour les employeurs. Ce dispositif étend aux titulaires d'un mandat électif local le principe de non discrimination d'ores et déjà accordé par le code du travail aux salariés en matière d'embauche, de formation, de licenciement, de rémunération, d'intéressement, de reclassement, de promotion ou de mutation. Toute décision défavorable prise par un employeur au seul motif que l'un de ses salariés serait élu local, sera dorénavant frappée de nullité. Cette nouvelle disposition aboutit donc à une protection plus effective pour les élus que celle prévue par l'article L. 2123-9 dans sa forme antérieure.
