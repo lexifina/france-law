@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113879
+
+- Question : [SEQ200113879](seq200113879.md) — Signalisation avant un rétrécissement de voie
+
+## Réponse
+
+*Intérieur, JO du 2020-09-10, page 4135*
+
+Dans le cas d'un resserrement de la chaussée ne laissant subsister qu'une largeur de voie, le trafic passe de façon alternée. Dans ce type de passage, et si les conducteurs peuvent voir distinctement de nuit comme de jour le passage sur toute son étendue, l'autorité compétente peut attribuer la priorité à un sens de circulation. Cette prescription est portée à la connaissance des usagers, dans les conditions des articles 64 et 72 de l'instruction interministérielle sur la signalisation routière, par un panneau B15 « cédez le passage à la circulation venant en sens inverse », implanté face à la circulation du côté où celle-ci n'a pas la priorité, et par un panneau C18 destiné à la circulation dans l'autre sens. L'attribution d'une priorité à un sens de circulation n'est toutefois pas une obligation. En l'absence de signalisation particulière, les règles générales du code de la route s'appliquent : l'article R. 414-2 prévoit que les conducteurs de véhicules dont le gabarit ou dont le chargement dépasse 2 mètres de largeur ou 7 mètres de longueur, remorque comprise, à l'exception des véhicules de transport en commun en agglomération, doivent réduire leur vitesse et, au besoin, s'arrêter ou se garer pour laisser le passage aux véhicules de dimensions inférieures. Toutefois, s'il s'agit d'une route à forte déclivité, le véhicule descendant doit céder le passage au véhicule montant, selon l'article R. 414-3 dudit code. Par ailleurs, si le rétrécissement de chaussée est susceptible d'entraîner des dangers sérieux, il doit faire l'objet d'une signalisation avancée, à l'aide des panneaux de signalisation A3, A3a ou A3b, conformément à l'article 29 de l'instruction précitée.
