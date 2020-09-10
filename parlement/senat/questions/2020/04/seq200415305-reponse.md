@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415305
+
+- Question : [SEQ200415305](seq200415305.md) — Coup de poignard contre le statut de l'allemand comme langue régionale en Alsace et en Moselle et contre le rayonnement de la francophonie
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2020-09-10, page 4118*
+
+La certification obligatoire en langue anglaise est un choix du Gouvernement, présenté dans le cadre des annonces du Premier ministre sur le commerce extérieur à Roubaix en février 2018, afin de mieux accompagner les entreprises sur les marchés internationaux concurrentiels, en permettant à chaque étudiant d'attester, à la fin de son 1er cycle d'études, de ses compétences en anglais. L'anglais étant en effet la langue des échanges commerciaux et scientifiques, c'est le choix de cette certification obligatoire qui a été retenu. En parallèle de cette certification reconnue au niveau international et qui doit constituer un signal des compétences acquises par les étudiants pour le marché de l'emploi, les étudiants suivront toujours les enseignements d'autres langues que l'anglais soit dans le cadre de leur diplôme, soit en choisissant d'apprendre d'autres langues en s'inscrivant aux enseignements de langues proposés par les établissements dans lesquels ils suivent leurs formations. Ainsi, la certification en langue anglaise est un choix qui n'est aucunement contradictoire avec les engagements pris lors de la conclusion de traités bilatéraux conclus avec l'Allemagne dans ce domaine tels que l'accord intergouvernemental franco-allemand de 1994 ou le traité franco-allemand d'Aix-la-Chapelle de 2019. Cette certification obligatoire en anglais est donc complémentaire des apprentissages plurilingues dont la majorité d'entre eux pourront être certifiés gratuitement via le Certificat de compétences en langues de l'enseignement supérieur (CLES) accrédité par le MESRI.
