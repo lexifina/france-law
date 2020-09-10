@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415364
+
+- Question : [SEQ200415364](seq200415364.md) — Conséquences pratiques de l'article 15 de la loi de finances rectificative pour 2012
+
+## Réponse
+
+*Comptes publics, JO du 2020-09-10, page 4094*
+
+Aux termes du 5 de l'article 13 du code général des impôts (CGI), le produit résultant de la première cession à titre onéreux d'un même usufruit temporaire ou, si elle est supérieure, la valeur vénale de cet usufruit temporaire est imposable au nom du cédant, personne physique ou société ou groupement qui relève des articles 8 à 8 ter, dans la catégorie de revenus à laquelle se rattache, au jour de la cession, le bénéfice ou revenu procuré ou susceptible d'être procuré par le bien ou le droit sur lequel porte l'usufruit temporaire cédé. Cette mesure issue de l'article 15 de la loi de finances rectificative pour 2012 (n° 2012-1510 du 29 décembre 2012), modifiant à cet effet le code général des impôts (CGI) s'applique aux cessions à titre onéreux d'un même usufruit temporaire intervenant à compter du 14 novembre 2012. Elle poursuit une double finalité : d'une part, elle contribue à lutter contre les stratégies d'optimisation fiscale détournant l'esprit de la loi ; d'autre part, elle vise à rétablir la réalité économique de l'opération en permettant l'imposition du revenu cédé par anticipation sous forme d'usufruit temporaire, en tant que revenu (et non plus comme une plus-value), selon les modalités propres à chaque catégorie de revenu, à la fois à l'impôt sur le revenu et aux prélèvements sociaux. La direction générale des finances publiques ne dispose pas d'un outil statistique spécifique de recensement des contrôles portant sur ce dispositif mais l'existence même de cette mesure fait obstacle aux montages, soit par une application spontanée du régime et donc par le paiement de l'impôt, soit par une renonciation en amont aux montages qui n'est pas quantifiable.
