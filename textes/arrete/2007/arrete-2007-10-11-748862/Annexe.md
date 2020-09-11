@@ -2,21 +2,15 @@
 
 Corps et grade |
 
-Taux
-
-applicable
+Taux applicable
 
 en 2019 |
 
-Taux
-
-applicable
+Taux applicable
 
 en 2020 |
 
-Taux
-
-applicable
+Taux applicable
 
 en 2021 |
 
@@ -70,7 +64,7 @@ Assistant médico-administratif de classe exceptionnelle |
 
 Corps des adjoints administratifs |
 
-Adjoint administratif principal de 2ème classe |
+Adjoint administratif principal de 2e classe |
 
 6 % |
 
@@ -78,7 +72,7 @@ Adjoint administratif principal de 2ème classe |
 
 6 % |
 
-Adjoint administratif principal de 1ère classe |
+Adjoint administratif principal de 1re classe |
 
 6 % |
 
@@ -120,7 +114,7 @@ Conducteur ambulancier principal |
 
 Corps des personnels ouvriers |
 
-Ouvrier principal de 2ème classe |
+Ouvrier principal de 2e classe |
 
 6 % |
 
@@ -128,7 +122,7 @@ Ouvrier principal de 2ème classe |
 
 6 % |
 
-Ouvrier principal de 1ère classe |
+Ouvrier principal de 1re classe |
 
 7 % |
 
@@ -148,7 +142,7 @@ Agent de maîtrise principal |
 
 Corps des techniciens et techniciens supérieurs hospitaliers |
 
-Technicien supérieur hospitalier de 2ème classe |
+Technicien supérieur hospitalier de 2e classe |
 
 10 % |
 
@@ -156,7 +150,7 @@ Technicien supérieur hospitalier de 2ème classe |
 
 10 % |
 
-Technicien supérieur hospitalier de 1ère classe |
+Technicien supérieur hospitalier de 1re classe |
 
 12 % |
 
@@ -184,17 +178,17 @@ Agent de services hospitaliers qualifié classe supérieure |
 
 10 % |
 
-10 % |
+20 % |
 
-10 % |
+20 % |
 
 Aide-soignant principal |
 
 8 % |
 
-8 % |
+16 % |
 
-8 % |
+16 % |
 
 Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre 1988 |
 
@@ -202,9 +196,9 @@ Infirmier de classe supérieure |
 
 14 % |
 
-14 % |
+28 % |
 
-14 % |
+28 % |
 
 Corps des infirmiers en soins généraux et spécialisés |
 
@@ -212,9 +206,9 @@ Infirmier en soins généraux deuxième grade |
 
 11 % |
 
-11 % |
+22 % |
 
-11 % |
+22 % |
 
 Filière de rééducation |
 
@@ -224,9 +218,9 @@ Pédicure podologue de classe supérieure |
 
 11 % |
 
-11 % |
+22 % |
 
-11 % |
+22 % |
 
 Corps des masseurs-kinésithérapeutes |
 
@@ -234,9 +228,9 @@ Masseur-kinésithérapeute de classe supérieure |
 
 11 % |
 
-Non défini |
+22 % |
 
-Non défini |
+22 % |
 
 Corps des ergothérapeutes |
 
@@ -244,9 +238,9 @@ Ergothérapeutes de classe supérieure |
 
 11 % |
 
-11 % |
+22 % |
 
-11 % |
+22 % |
 
 Corps des psychomotriciens |
 
@@ -254,9 +248,9 @@ Psychomotricien de classe supérieure |
 
 11 % |
 
-Non défini |
+22 % |
 
-Non défini |
+22 % |
 
 Corps des orthophonistes |
 
@@ -264,9 +258,9 @@ Orthophoniste de classe supérieure |
 
 11 % |
 
-Non défini |
+22 % |
 
-Non défini |
+22 % |
 
 Corps des orthoptistes |
 
@@ -274,9 +268,9 @@ Orthoptiste de classe supérieure |
 
 11 % |
 
-Non défini |
+22 % |
 
-Non défini |
+22 % |
 
 Corps des diététiciens |
 
@@ -284,9 +278,9 @@ Diététicien de classe supérieure |
 
 13 % |
 
-13 % |
+26 % |
 
-13 % |
+26 % |
 
 Filière médico-technique |
 
@@ -296,9 +290,9 @@ Manipulateur d'électroradiologie de classe supérieure |
 
 11 % |
 
-Non défini |
+22 % |
 
-Non défini |
+22 % |
 
 Corps des techniciens de laboratoire médical |
 
@@ -306,9 +300,9 @@ Technicien de laboratoire médical de classe supérieure |
 
 14 % |
 
-14 % |
+28 % |
 
-14 % |
+28 % |
 
 Corps des préparateurs en pharmacie hospitalière |
 
@@ -316,9 +310,9 @@ Préparateur en pharmacie hospitalière de classe supérieure |
 
 12 % |
 
-12 % |
+24 % |
 
-12 % |
+24 % |
 
 Filière socio-éducative |
 
@@ -340,39 +334,9 @@ Cadre socio-éducatif de classe exceptionnelle |
 
 9 % |
 
-Corps des conseillers en économie sociale et familiale |
-
-Conseiller en économie sociale et familiale de classe supérieure |
-
-15 % |
-
-Non défini |
-
-Non défini |
-
-Corps des éducateurs techniques spécialisés |
-
-Educateur technique spécialisé de classe supérieure |
-
-12 % |
-
-Non défini |
-
-Non défini |
-
-Corps des éducateurs de jeunes enfants |
-
-Educateur de jeunes enfants de classe supérieure |
-
-12 % |
-
-Non défini |
-
-Non défini |
-
 Corps des animateurs |
 
-Animateur principal 2ème classe |
+Animateur principal 2e classe |
 
 12 % |
 
@@ -380,7 +344,7 @@ Animateur principal 2ème classe |
 
 12 % |
 
-Animateur principal 1ère classe |
+Animateur principal 1re classe |
 
 8 % |
 
@@ -398,16 +362,6 @@ Moniteur-éducateur principal |
 
 8 % |
 
-Corps des assistants socio-éducatifs |
-
-Assistant socio-éducatif principal |
-
-10 % |
-
-Non défini |
-
-Non défini |
-
 Sages-femmes des hôpitaux |
 
 Corps des sages-femmes des hôpitaux |
@@ -416,23 +370,21 @@ Sage-femme des hôpitaux du 2d grade |
 
 11 % |
 
-11 % |
+22 % |
 
-11 % |
+22 % |
 
 Corps des filières de rééducation et médico-technique de la catégorie B placés en voie d'extinction |
 
 Corps des pédicures-podologues régis par le décret n° 2011-746 du 27 juin 2011 |
 
-Pédicure podologue de classe supérieure
-
-|
+Pédicure-podologue de classe supérieure |
 
 14 % |
 
-13 % |
+28 % |
 
-12 % |
+28 % |
 
 Corps des masseurs-kinésithérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
 
@@ -440,9 +392,9 @@ Masseur-kinésithérapeute de classe supérieure |
 
 12,5 % |
 
-Non défini |
+25 % |
 
-Non défini |
+25 % |
 
 Corps des ergothérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
 
@@ -450,9 +402,9 @@ Ergothérapeutes de classe supérieure |
 
 12 % |
 
-12 % |
+24 % |
 
-12 % |
+24 % |
 
 Corps des psychomotriciens régis par le décret n° 2011-746 du 27 juin 2011 |
 
@@ -460,19 +412,21 @@ Psychomotricien de classe supérieure |
 
 12 % |
 
-Non défini |
+24 % |
 
-Non défini |
+24 % |
 
 Corps des orthophonistes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Orthophoniste de classe supérieure |
 
-14 % |
+14 %
 
-Non défini |
+|
 
-Non défini |
+28 % |
+
+28 % |
 
 Corps des orthoptistes régis par le décret n° 2011-746 du 27 juin 2011 |
 
@@ -480,9 +434,9 @@ Orthoptiste de classe supérieure |
 
 14 % |
 
-Non défini |
+28 % |
 
-Non défini |
+28 % |
 
 Corps des manipulateurs d'électroradiologie médicale régis par le décret n° 2011-748 du 27 juin 2011 |
 
@@ -490,6 +444,6 @@ Manipulateur en électroradiologie de classe supérieure |
 
 12 % |
 
-Non défini |
+24 % |
 
-Non défini |
+24 % |
