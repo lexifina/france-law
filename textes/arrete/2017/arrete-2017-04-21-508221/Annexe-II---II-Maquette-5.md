@@ -414,7 +414,7 @@ Au terme de cette phase, l'étudiant a acquis les compétences nécessaires pour
 
 4.4. Stages :
 
-1 stage d'un an, accompli soit :
+1 stage d'un an ou deux stages d'un semestre, accompli (s) soit :
 
 -dans un lieu hospitalier agréé à titre principal en dermatologie et vénéréologie, de préférence accompli dans un lieu avec encadrement universitaire
 

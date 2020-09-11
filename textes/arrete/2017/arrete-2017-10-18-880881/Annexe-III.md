@@ -354,7 +354,7 @@ Conformément à l'article 32 du présent arrêté :
 
 -validation des unités d'enseignements complémentaires en odontologie et en médecine ;
 
--soutenance de la thèse d'exercice pour les étudiants en troisième cycle de médecine et les internes des hôpitaux des armées.
+-soutenance de la thèse d'exercice pour les étudiants en troisième cycle des études de médecine et d'odontologie et les internes des hôpitaux des armées.
 
 4. Phase de consolidation
 
