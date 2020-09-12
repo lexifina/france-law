@@ -196,4 +196,6 @@ Nifoxipam ;
 
 Nitrazolam ;
 
-Pyrazolam ou bromazolam.
+Pyrazolam ou bromazolam ;
+
+Phenibut ou acide 4-amino-3-phenylbutanoique.
