@@ -2,9 +2,7 @@
 
 Maladie de Parkinson provoquée par les pesticides (1)
 
-DÉSIGNATION DE LA MALADIE
-
-|
+DÉSIGNATION DE LA MALADIE |
 
 DÉLAI DE PRISE
 
@@ -18,13 +16,9 @@ susceptibles de provoquer cette maladie
 
 |
 
-Maladie de Parkinson confirmée par un examen effectué par un médecin spécialiste qualifié en neurologie.
+Maladie de Parkinson confirmée par un examen effectué par un médecin spécialiste qualifié en neurologie. |
 
-|
-
-1 an (sous réserve d'une durée d'exposition de 10 ans)
-
-|
+7 ans (sous réserve d'une durée d'exposition de 10 ans) |
 
 Travaux exposant habituellement aux pesticides :
 
