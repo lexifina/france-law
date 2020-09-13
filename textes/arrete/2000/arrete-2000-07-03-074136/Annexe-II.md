@@ -566,9 +566,7 @@ Wanner/ Wanner Isofi Isolation/ Wanner Industrie, ancienne route de Duclair, 763
 
 WITCO, rue Gravetel, 76320 Saint-Pierre-lès-Elbeuf, de 1972 à 1989.
 
-FONDERIES ET ACIERIES DE PARIS SEINE/ FAPS CATERPILLAR/ CATERPILLAR FONDERIE DE VERNON/ FONDERIE DE VERNON
-
-108-112, avenue de Rouen, 27200 VERNON : de 1957 à 1999.
+FONDERIES ET ACIERIES DE PARIS SEINE/ FAPS CATERPILLAR/ CATERPILLAR FONDERIE DE VERNON/ FONDERIE DE VERNON, 108-112, avenue de Rouen, 27200 VERNON : de 1957 à 1999.
 
 Occitanie
 
@@ -890,7 +888,7 @@ SNIG/ SITUB, ZI Faveyrolle, 19, avenue Paul-Sabatier, 26700 Pierrelatte : de 198
 
 Société d'électrochimie de Jarrie et de Thaon, puis Société d'électrochimie, d'électrométallurgie des aciéries électriques d'Ugine (SECEMAEU), puis Pechiney Ugine Kuhlmann, puis Elf Atochem, Usine de Jarrie, route nationale 85, BP 1,38560 Jarrie : De 1916 à 1996 ;
 
-SOCIÉTÉ LE CHLORE LIQUIDE/ PROGIL/ RHONE PROGIL/ RHÔNE POULENC SA, puis CHLORALP, rue Lavoisier, 38800 PONT-DE-CLAIX, de 1916 à 1996 : de 1997 à 2001, et de de 2002 à 2005 ;
+Société LE CHLORE LIQUIDE/ PROGIL/RHONE PROGIL/ RHÔNE POULENC SA/puis CHLORALP rue Lavoisier 38800 PONT-DE-CLAIX de 1916 à 1996, de 1997 à 2001 et de 2002 à 2005 et GIE CEVCO de 1997 à 2002
 
 Société de Paris et du Rhône, de 1915 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1989,36, avenue Jean-Mermoz, 69355 Lyon ;
 
