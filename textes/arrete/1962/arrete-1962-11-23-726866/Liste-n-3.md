@@ -478,7 +478,9 @@ Les pilotes non titulaires de la qualification montagne devront se conformer aux
 
 Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
-L’Ermitage |
+L'Ermitage
+
+|
 
 La Réunion |
 
@@ -561,20 +563,6 @@ Haute-Garonne |
 Réservé aux avions et planeurs qui y sont basés ou aux pilotes qualifiés sur ce site et autorisés par le délégué territorial de l'aviation civile.
 
 Utilisable dans des conditions définies par la direction da la sécurité de l'aviation civile Sud. |
-
-La Motte-Chalancon |
-
-Drôme |
-
-Altiport.
-
-Les pilotes non titulaires de la qualification montagne devront se conformer aux conditions d'utilisation définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
-
-|
-
-|
-
-Utilisable par les hélicoptères dans des conditions définies par le directeur de la sécurité de l'aviation civile Centre-Est. |
 
 Lasclaveries |
 
