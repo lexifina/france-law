@@ -358,7 +358,7 @@ Etablissements Roche, 07100 Davezieux : de 1965 à 1970 ;
 
 Flertex, 69150 Décines-Charpieux : de 1988 à 1996 ;
 
-Pont-à-Mousson, 26140 Saint-Rambert-d'Albon : de 1960 à 1997 ;
+EVERITUBE/ EVERITE, 26140 ANDANCETTE : de 1960 à 1988, puis PONT-A-MOUSSON rue des Usines 26140 ANDANCETTE : de 1988 à 1997 ;
 
 Sarma, 1, avenue Marc-Seguin, BP 29, 26241 Saint-Vallier Cedex : de 1971 à 1998 ;
 
