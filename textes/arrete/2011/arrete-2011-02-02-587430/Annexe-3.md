@@ -16,7 +16,7 @@ pour lesquels la société reçoit l'habilitation |
 
 AEMI |
 
-56, avenue Pierre Berthelot, 14000 Caen |
+56, avenue Pierre-Berthelot-14000 Caen |
 
 Appareils radar :
 
@@ -30,15 +30,15 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-Route Industrielle, Centre Routier,
+114, avenue de la Plaine
 
-ZI Portuaire,
-
-76700 Gonfreville l'Orcher |
+06250 Mougins |
 
 Appareils radar :
 
 JRC JMA-610 6/7/9 (R-4-015)
+
+Tresco Radar Link (R-1-103)
 
 Indicateurs de vitesse de giration :
 
@@ -50,13 +50,41 @@ Alphatriopilot MF 90°/ min + EBF01A (R-1-088) ;
 
 Alphaturn 90° MC/ Alphaturn 300° MC (R-4-093) ;
 
-Alphaturn MF (R-4-092) |
+Alphaturn MF (R-4-092) ;
+
+AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 3 |
 
+ENTCO |
+
+1, impasse des Peupliers
+
+91160 Saulx-les-Chartreux |
+
+Appareils radar :
+
+JRC JMA-610 6/7/9 (R-4-015)
+
+Indicateurs de vitesse de giration :
+
+Alphatriopilot MF 90°/ min + EBF01A (R-1-088) ;
+
+Alphaturn MF (R-4-092) ;
+
+Alphaturn 90° MC/ Alphaturn 300° MC (R-4-093) ;
+
+EBF 01a/ Basicturn (R-4-094) ;
+
+EBF Kombipilot/ Alphatron-Basictriple (R-4-095) ;
+
+AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
+
+4 |
+
 MAP Marine |
 
-1, quai de la Grande Bigue, bât. B, 13002 Marseille |
+1, quai de la Grande-Bigue, bât. B 13002 Marseille |
 
 Appareils radar :
 
@@ -66,13 +94,11 @@ Indicateurs de vitesse de giration :
 
 Radio Zeeland |
 
-4 |
+5 |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules Durand,
-
-76056 Le Havre |
+68, boulevard Jules-Durand 76056 Le Havre |
 
 Appareils radar :
 
@@ -86,11 +112,11 @@ Indicateurs de vitesse de giration :
 
 AlphaTurn (River) MFM/ MFL 90°/ min 300°/ min + EBF01a (e-01-086) |
 
-5 |
+6 |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul Verlaine,
+21, rue Paul-Verlaine
 
 76700 Harfleur |
 
@@ -130,11 +156,11 @@ Titan 500 90°/ min 270°/ min + S300 (e-01-084) ;
 
 Titan 1000 90°/ min 300°/ min + S300 (e-01-083) |
 
-6 |
+7 |
 
 SIECMI |
 
-3, quai Est,
+3, quai Est
 
 29900 Concarneau |
 
@@ -146,25 +172,13 @@ Indicateurs de vitesse de giration :
 
 Radio Holland ; Radio Zeeland ; Alphatron |
 
-7 |
-
-Sud Communication |
-
-95, rue Rajol, Espace Fréjorgues Est,
-
-34130 Mauguio |
-
-Appareils radar :
-
-ICOM |
-
 8 |
 
 THEMYS |
 
-Quartier de la chaume, CD 45,
+Quartier de la Chaume
 
-pont de l'Etoile,
+CD 45-pont de l'Etoile
 
 13360 Roquevaire |
 
