@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200817578
+
+- Question : [SEQ200817578](seq200817578.md) — Mode de scrutin pour l'élection du bureau des établissements publics de coopération intercommunale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-09-24, page 4346*
+
+Les membres du bureau de l'organe délibérant d'un établissement public de coopération intercommunale (EPCI) sont élus au scrutin secret (CE, 11 mars 2009, n° 319243) uninominal (CE, 23 avril 2009, n° 319812) et à la majorité absolue. Ce mode de scrutin exclut de pouvoir recourir au scrutin de liste. En effet, si l'article L. 5211-2 du code général des collectivités territoriales (CGCT) renvoie aux dispositions relatives à l'élection du maire et des adjoints, aucune disposition ne précise s'il y a lieu d'appliquer aux membres du bureau les règles de l'article L. 2122-7-1 du CGCT, qui prévoit un scrutin uninominal à trois tours pour l'élection des adjoints au maire dans les communes de moins de 1 000 habitants ou les règles de l'article L. 2122-7-2 du CGCT, qui prévoit un scrutin de liste dans les communes de 1 000 habitants et plus. Le juge administratif a en l'occurence considéré que le mode de scrutin prévu à l'article L. 2122-7-2 du CGCT n'était pas applicable à l'élection des membres du bureau de l'organe délibérant d'un EPCI (CE, 23 avril 2009, n° 319812). Par ailleurs, les débats parlementaires lors de l'examen de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique ont largement abordé la question du scrutin de liste et la question de la parité a elle aussi été débattue. Cependant, le législateur n'a pas souhaité l'étendre à l'élection des vice-présidents des EPCI à fiscalité propre car une telle modalité d'élection serait de nature à rendre plus difficile la présence des maires des communes les moins peuplées parmi les vice-présidents.
