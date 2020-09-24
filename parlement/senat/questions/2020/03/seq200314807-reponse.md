@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314807
+
+- Question : [SEQ200314807](seq200314807.md) — Elections municipales dans les communes de moins de 1 000 habitants
+
+## Réponse
+
+*Intérieur, JO du 2020-09-24, page 4360*
+
+En application de l'article R. 55 du code électoral, les candidats ou leurs représentants dûment mandatés à cet effet ont la possibilité de remettre leurs bulletins de vote directement au maire au plus tard à midi la veille du scrutin ou au président du bureau de vote le jour du scrutin. Cet article prévoit aussi que les maires et les présidents de bureau de vote ne sont pas tenus d'accepter les bulletins qui ne respecteraient pas les tailles et le format « paysage » prescrits à l'article R. 30 du même code, aux fins d'uniformisation des bulletins de vote. Toutefois, cet article ne leur interdit pas de les accepter. Pour autant, dans les communes de moins de 1 000 habitants, ces bulletins de vote ne sont pas nuls. En effet, le 1° de l'article R. 66-2 frappe de nullité les bulletins « ne répondant pas aux prescriptions légales ou réglementaires du même code », parmi lesquelles figurent l'obligation du format « paysage ». Or, cet article R. 66-2 ne s'applique pas dans les communes de moins de 1 000 habitants. Autrement dit, dans une commune de moins de 1 000 habitants, si un électeur se procure un bulletin en format « portrait », il pourra voter valablement avec. La combinaison de ces deux dispositions peut être source de confusion, sans qu'il s'agisse à proprement parler d'une « incohérence » juridique. Le Gouvernement profitera d'un prochain décret en Conseil d'État pour lever cette ambiguïté en rendant les dispositions de l'article R. 66-2 applicables aux élections municipales dans les communes de moins de 1 000 habitants, tout en prenant en compte les spécificités du scrutin municipal dans ces communes.
