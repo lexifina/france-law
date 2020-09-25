@@ -1,42 +1,42 @@
 # Article Annexe A
 
-I. - Liste des diplômes, formations et cycles d'études dispensés en France dans les établissements d'enseignement et de formation permettant de bénéficier de bourses d'enseignement supérieur sur critères sociaux et d'aides d'urgence annuelles du ministère de la culture
+I.-Liste des diplômes, formations et cycles d'études dispensés en France dans les établissements d'enseignement et de formation permettant de bénéficier de bourses d'enseignement supérieur sur critères sociaux et d'aides d'urgence annuelles du ministère de la culture
 
 1° Architecture et paysage
 
 Formations assurées dans 18 écoles nationales supérieures d'architecture (ENSA) et 2 écoles nationales supérieures d'architecture et de paysage (ENSAP) :
 
-- Le diplôme d'études en architecture (DEEA) ;
+-Le diplôme d'études en architecture (DEEA) ;
 
-- Le diplôme d'Etat d'architecte (DEA).
+-Le diplôme d'Etat d'architecte (DEA).
 
 Formations assurées dans les ENSAP de Lille et de Bordeaux :
 
-- Le cycle préparatoire d'études en paysage (CPEP) ;
+-Le cycle préparatoire d'études en paysage (CPEP) ;
 
-- Le diplôme d'Etat de paysagiste (DEP).
+-Le diplôme d'Etat de paysagiste (DEP).
 
 Diplômes de spécialisation et d'approfondissement en architecture (DSA) :
 
-- Architecture et projet urbain : Paris-Belleville, Marne-La-Vallée, Paris-La-Villette ;
+-Architecture et projet urbain : Paris-Belleville, Marne-la-Vallée, Paris-La-Villette ;
 
-- Architecture et risques majeurs : Paris-Belleville ;
+-Architecture et risques majeurs : Paris-Belleville ;
 
-- Architecture et patrimoine : Paris-Belleville, Grenoble, école de Chaillot ;
+-Architecture et patrimoine : Paris-Belleville, Grenoble, école de Chaillot ;
 
-- Architecture et maîtrise d'ouvrage : Paris-Belleville.
+-Architecture et maîtrise d'ouvrage : Paris-Belleville.
 
 2° Patrimoine
 
-- Le diplôme de premier cycle de l'Ecole du Louvre ;
+-Le diplôme de premier cycle de l'Ecole du Louvre ;
 
-- Le diplôme de muséologie de l'Ecole du Louvre ;
+-Le diplôme de muséologie de l'Ecole du Louvre ;
 
-- Le diplôme de deuxième cycle de l'Ecole du Louvre ;
+-Le diplôme de deuxième cycle de l'Ecole du Louvre ;
 
-- Le diplôme de restaurateur du patrimoine dans les domaines : Arts du feu (métal, céramique, émail, verre), Arts graphiques et livre, Arts textiles, Mobilier, Peinture (de chevalet, murale), Photographie, Sculpture, de l'Institut national du patrimoine ;
+-Le diplôme de restaurateur du patrimoine dans les domaines : Arts du feu (métal, céramique, émail, verre), Arts graphiques et livre, Arts textiles, Mobilier, Peinture (de chevalet, murale), Photographie, Sculpture, de l'Institut national du patrimoine.
 
-- La classe préparatoire aux concours de conservateur du patrimoine, spécialités Archéologie, Monuments historiques et inventaire, Musées, de l'Ecole du Louvre.
+-La classe préparatoire aux concours de conservateur du patrimoine, spécialités Archéologie, Monuments historiques et inventaire, Musées, de l'Ecole du Louvre.
 
 3° Arts plastiques
 
@@ -44,422 +44,484 @@ Les formations relevant du ministère chargé de la culture dispensées dans les
 
 a) Les diplômes nationaux, y compris ceux délivrés à l'Ecole supérieure d'arts plastiques de la Ville de Monaco, dans les options art, design et communication, et dans toutes les mentions :
 
-- Le diplôme national supérieur d'expression plastique (DNSEP) " créateur concepteur d'expressions plastiques " ;
+-Le diplôme national supérieur d'expression plastique (DNSEP) créateur concepteur d'expressions plastiques ;
 
-- Le diplôme national d'art (DNA).
+-Le diplôme national d'art (DNA).
 
 b) Les diplômes d'Ecole :
 
-- Les diplômes de l'Ecole nationale supérieure des beaux-arts (ENSBA) ;
+-Les diplômes de l'Ecole nationale supérieure des beaux-arts (ENSBA) ;
 
-- Le diplôme de l'Ecole nationale supérieure des arts décoratifs (ENSAD) ;
+-Le diplôme de l'Ecole nationale supérieure des arts décoratifs (ENSAD) ;
 
-- Les diplômes de l'Ecole nationale supérieure de création industrielle (ENSCI - Les ateliers) ;
+-Les diplômes de l'Ecole nationale supérieure de création industrielle (ENSCI-Les ateliers) ;
 
-- Le diplôme de l'Ecole nationale supérieure de la photographie d'Arles ;
+-Le diplôme de l'Ecole nationale supérieure de la photographie d'Arles ;
 
-- Le diplôme du Studio national des arts contemporains Le Fresnoy, Tourcoing ;
+-Le diplôme du Studio national des arts contemporains Le Fresnoy, Tourcoing ;
 
-- Le diplôme d'enseignement supérieur média et art, option art, mention son, image et corps de l'école Média art Fructidor de Chalon-sur-Saône.
+-Le diplôme d'enseignement supérieur média et art, option art, mention son, image et corps de l'école Média art Fructidor de Chalon-sur-Saône.
 
-c) Les enseignements préparatoires publics aux écoles supérieures :
+c) Les enseignements préparatoires publics aux écoles supérieures dans :
 
-- Ecole supérieure d'arts et médias de Caen-Cherbourg, Cherbourg ;
+-Ecole supérieure d'art Annecy Alpes, Annecy ;
 
-- Ecole nationale supérieure des beaux-arts de Lyon ;
+-Ecole supérieure d'art Pays Basque, Bayonne ;
 
-- Ecole supérieure d'art et de design Marseille-Méditerranée, Marseille ;
+-Ecole supérieure d'arts et médias de Caen-Cherbourg, Cherbourg ;
 
-- Ecole supérieure d'art et de design, Orléans ;
+-Ecole nationale supérieure des beaux-arts de Lyon ;
 
-- Ecole nationale supérieure des beaux-arts (ENSBA), Paris ;
+-Institut national supérieur d'enseignement artistique de Marseille et de la Méditerranée, Marseille ;
 
-- Ecole supérieure d'art Annecy Alpes, Annecy ;
+-Ecole Supérieure d'art et de design, Orléans ;
 
-- Ecole supérieure d'art Pays Basque ;
+-Ecole nationale supérieure des beaux-arts (ENSBA), Paris ;
 
-- Ecole d'art du Grand Angoulême, Angoulême ;
+-Ecole des beaux-arts Nantes-St Nazaire, Les ateliers de l'Estuaire, St Nazaire ;
 
-- Ecole des beaux-arts du Genevois-Annemasse, Gaillard ;
+-Ecole d'art du Grand Angoulême, Angoulême ;
 
-- Ecole des beaux-arts de Beaune ;
+-Ecole des beaux-arts du Genevois, Annemasse ;
 
-- Ecole d'art du Beauvaisis, Beauvais ;
+-Ecole des beaux-arts de Beaune ;
 
-- Ecole d'art Gérard Jacot, Belfort ;
+-Ecole d'art du Beauvaisis, Beauvais ;
 
-- Ecole d'art Le Concept, Calais ;
+-Ecole d'art Gérard Jacot, Belfort ;
 
-- Ecole des beaux-arts de Carcassonne ;
+-Ecole d'art Le Concept, Calais ;
 
-- Ecole municipale des beaux-arts de Châteauroux ;
+-Ecole des beaux-arts de Carcassonne ;
 
-- Ecole d'art du Choletais, Cholet ;
+-Ecole municipale des beaux-arts de Châteauroux ;
 
-- Ecole d'art intercommunale IDBL, Digne-les-Bains ;
+-Ecole d'art du Choletais, Cholet ;
 
-- Ateliers d'arts plastiques de la communauté d'agglomération d'Evry, Evry ;
+-Ecole d'art intercommunale IDBL, Digne-les-Bains ;
 
-- Ecole municipale des beaux-arts/galerie Edouard Manet, Gennevilliers ;
+-Ateliers d'arts plastiques de la communauté d'agglomération d'Evry, Evry ;
 
-- Ecole d'art Les Arcades, Issy-les-Moulineaux ;
+-Ecole municipale des beaux-arts/ galerie Edouard Manet, Gennevilliers ;
 
-- Ateliers des beaux-arts de la Ville de Paris ;
+-Ecole d'art Les Arcades, Issy-les-Moulineaux ;
 
-- Ecole des beaux-arts Emile Daubé, Saint-Brieuc ;
+-Ateliers des beaux-arts de la Ville de Paris ;
 
-- Ecole des beaux-arts de Sète.
+-Ecole des beaux-arts Emile Daubé, Saint-Brieuc ;
+
+-Ecole des beaux-arts de Sète.
 
 4° Spectacle vivant
 
-I. - Musique
+I.-Musique
 
-1° Les diplômes de 2e cycle supérieur conférant grade de master délivrés par :
-
-- le Conservatoire national supérieur de musique et de danse (CNSMD) de Paris ;
-
-- le Conservatoire national supérieur de musique et de danse (CNSMD) de Lyon.
+1° Les diplômes de 2e cycle supérieur conférant grade de master délivrés par le Conservatoire national supérieur de musique et de danse (CNSMD) de Paris et le Conservatoire national supérieur de musique et de danse (CNSMD) de Lyon.
 
 2° Le diplôme national supérieur professionnel de musicien (DNSPM) délivré par :
 
-- le CNSMD de Paris ;
+-CNSMD de Paris ;
 
-- le CNSMD de Lyon ;
+-CNSMD de Lyon ;
 
-- le Pôle Aliénor, Poitiers et Tours ;
+-Pôle Aliénor, Potiers et Tours ;
 
-- l'Institut supérieur des arts de Toulouse (ISDAT) ;
+-Institut supérieur des arts de Toulouse (ISDAT) ;
 
-- le Pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt (PSPBB) ;
+-Pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt (PSPBB) ;
 
-- le Pôle d'enseignement supérieur de la musique Seine-Saint-Denis Ile-de-France - Pôle Sup 93 ;
+-Pôle d'enseignement supérieur de la musique Seine-Saint-Denis Île-de-France-Pôle Sup 93 ;
 
-- le Pôle d'enseignement supérieur de la musique de Bourgogne (PESM Bourgogne) ;
+-Pôle d'enseignement supérieur de la musique de Bourgogne (PESM Bourgogne) ;
 
-- la Haute Ecole des arts du Rhin (HEAR) - Académie supérieure de musique de Strasbourg ;
+-Haute Ecole des Arts du Rhin (HEAR)-Académie supérieure de musique de Strasbourg ;
 
-- le Pont supérieur - Pôle d'enseignement supérieur spectacle vivant Bretagne/Pays de la Loire ;
+-Pont supérieur-Pôle d'enseignement supérieur spectacle vivant Bretagne/ Pays de la Loire ;
 
-- le Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux-Aquitaine (PESMD Bordeaux Aquitaine) ;
+-Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux-Aquitaine (PESMD Bordeaux Aquitaine) ;
 
-- l'Ecole supérieure musique et danse (ESMD) des Hauts-de-France - Lille ;
+-Ecole Supérieure Musique et Danse Hauts-de-France-Lille (ESMD) ;
 
-- l'Institut d'enseignement supérieur de la musique (IESM) euro-Méditerrannée - CEFEDEM Sud.
+-Institut d'enseignement supérieur de la musique (IESM) euro-Méditerrannée-CEFEDEM Sud.
 
-3° Le diplôme de 1er cycle supérieur délivré par :
+3° Le diplôme de 1er cycle supérieur délivré par le CNSMD de Paris dans les disciplines musicales ne dépendant pas du diplôme national supérieur professionnel de musicien.
 
-- le CNSMD de Paris dans les disciplines musicales ne dépendant pas du diplôme national supérieur professionnel de musicien.
+4° Le diplôme de 1er cycle supérieur de culture musicale, bachelor, délivré par le CNSMD de Lyon.
 
-4° Le diplôme de 1er cycle supérieur de culture musicale, bachelor, délivré par :
-
-- le CNSMD de Lyon.
-
-II. - Danse
+II.-Danse
 
 1. Les diplômes de 1er cycle supérieur de notateur du mouvement et les diplômes de 2e cycle supérieur de notateur du mouvement délivrés par :
 
-- le CNSMD de Paris.
+-le CNSMD de Paris.
 
 2. Le DNSP de danseur délivré par :
 
-- le CNSMD de Paris ;
+-CNSMD de Paris ;
 
-- le CNSMD de Lyon ;
+-CNSMD de Lyon ;
 
-- le Pôle national supérieur danse Provence Côte d'Azur, sites de Marseille et de Cannes ;
+-Pôle National Supérieur danse Provence Côte d'Azur, sites de Marseille et de Cannes ;
 
-- l'Ecole de danse de l'Opéra national de Paris ;
+-Ecole de danse de l'Opéra national de Paris ;
 
-- l'Ecole supérieure du Centre national de danse contemporaine d'Angers ;
+-Ecole supérieure du Centre national de danse contemporaine d'Angers ;
 
-- le Pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt (PSPBB) ;
+-Pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt (PSPBB) ;
 
 3. L'année probatoire du DNSP de danseur du CNSMD de Lyon.
 
-III. - Théâtre
+III.-Théâtre
 
 1. Le diplôme sanctionnant le cursus de formation supérieure de 2e cycle du Conservatoire national supérieur d'art dramatique de Paris.
 
 2. Le DNSP de comédien délivré par :
 
-- le CNSMD de Paris ;
+-CNSAD de Paris ;
 
-- l'Ecole supérieure d'art dramatique du Théâtre national de Strasbourg ;
+-Ecole supérieure d'art dramatique du Théâtre National de Strasbourg ;
 
-- le Pôle supérieur d'enseignement artistique Paris-Boulogne-Billancourt (PSPBB) ;
+-Pôle supérieur d'enseignement artistique Paris-Boulogne-Billancourt (PSPBB) ;
 
-- l'Ecole supérieure de théâtre de Bordeaux Aquitaine ;
+-Ecole supérieure de théâtre de Bordeaux Aquitaine ;
 
-- l'Ecole professionnelle supérieure d'art dramatique du Nord-Pas-de-Calais ;
+-Ecole professionnelle supérieure d'art dramatique du Nord-Pas-de-Calais ;
 
-- l'école régionale d'acteurs de Cannes ;
+-Ecole régionale d'acteurs de Cannes ;
 
-- l'Ecole supérieure d'art dramatique du Théâtre national de Bretagne ;
+-Ecole supérieure d'art dramatique du Théâtre National de Bretagne ;
 
-- l'Ecole de la Comédie de Saint-Etienne ;
+-Ecole de la Comédie de Saint-Etienne ;
 
-- l'Académie - Ecole supérieure professionnelle de théâtre en Limousin ;
+-Académie-Ecole supérieure professionnelle de théâtre en Limousin ;
 
-- l'Ecole supérieure d'art dramatique de Montpellier ;
+-Ecole supérieure d'art dramatique de Montpellier ;
 
-- le Théâtre Ecole d'Aquitaine (uniquement pour les 2e et 3e années).
+-Théâtre Ecole d'Aquitaine (uniquement pour les 3es années).
 
 3. Le diplôme d'Etat de professeur de théâtre délivré par :
 
-- le pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt (PSPBB) ;
+-Pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt (PSPBB) ;
 
-- l'Ecole de la Comédie de Saint-Etienne ;
+-Ecole de la Comédie de Saint-Etienne ;
 
-- l'Ecole régionale d'acteurs de Cannes.
+-Ecole régionale d'acteurs de Cannes.
 
 4. Les classes préparatoires publiques aux écoles supérieures :
 
-- l'Ecole de la Comédie de Saint-Etienne ;
+-Ecole de la Comédie de Saint-Etienne ;
 
-- l'Ecole régionale d'acteurs de Cannes ;
+-Ecole supérieure professionnelle de théâtre en Limousin-l'Académie ;
 
-- l'Ecole supérieure professionnelle de théâtre en Limousin - l'Académie ;
+-La Filature, scène nationale de Mulhouse ;
 
-- la MC93 de Bobigny en partenariat avec le Conservatoire Jean Wiener de Bobigny (CRD), le CRR de La Courneuve Aubervilliers et le CRD de Pantin ;
+-MC93 de Bobigny en partenariat avec le Conservatoire Jean Wiener de Bobigny (CRD), le CRR de La Courneuve Aubervilliers et le CRD de Pantin ;
 
-- l'Ecole départementale de théâtre - EDT 91 - Courcouronnes.
+-Ecole départementale de théâtre-EDT 91-Courcouronnes.
 
-IV. - Arts du cirque
+IV.-Arts du cirque
 
 1. Le brevet artistique des techniques du cirque (BATC) délivré par :
 
-- l'Ecole nationale des arts du cirque de Rosny-sous-Bois (ENACR).
+-Ecole nationale des arts du cirque de Rosny-sous-Bois (ENACR).
 
 2. Le diplôme national supérieur professionnel d'artiste de cirque (DNSP Cirque) délivré par :
 
-- le Centre national des arts du cirque (CNAC) ;
+-Centre national des arts du cirque (CNAC) ;
 
-- l'Ecole nationale supérieure des arts du cirque de Rosny-sous-Bois (ENACR).
+-Ecole supérieure des arts du cirque de Toulouse-Occitanie (ESAC-TO).
 
 3. Le diplôme d'Etat de professeur de cirque délivré par :
 
-- l'Académie Fratellini ;
+-Académie Fratellini ;
 
-- le Centre national des arts du cirque (CNAC) ;
+-Centre national des arts du cirque (CNAC) ;
 
-- l'Ecole nationale supérieure des arts du cirque de Rosny-sous-Bois (ENACR).
+-Ecole nationale supérieure des arts du cirque de Rosny-sous-Bois (ENACR).
 
 4. Les classes préparatoires publiques aux écoles supérieures :
 
-- la classe d'accès à l'apprentissage de l'Académie Fratellini, Saint-Denis ;
+-classe préparatoire du Pôle national cirque et Arts de la Rue, Amiens ;
 
-- l'Ecole nationale supérieure des arts du cirque de Rosny-sous-Bois (ENACR) ;
+-classe préparatoire d'Arc en cirque, Centre régional des arts du cirque, Chambéry ;
 
-- la classe préparatoire de l'Ecole du cirque Jules Verne, Amiens ;
+-classe préparatoire de l'Ecole de cirque Piste d'azur, La Roquette-sur-Siagne ;
 
-- la classe préparatoire d'Arc en cirque, centre régional des arts du cirque, Chambéry ;
+-classe préparatoire de l'Ecole de cirque de Lyon/ MJC Ménival, Lyon ;
 
-- la classe préparatoire de l'Ecole de cirque Piste d'azur, La Roquette-sur-Siagne ;
+-classe préparatoire du Centre des arts du cirque Balthazar, Montpellier.
 
-- la classe préparatoire de l'Ecole de cirque de Lyon / MJC Ménival, Lyon ;
-
-- la classe préparatoire du Centre des arts du cirque Balthazar, Montpellier.
-
-V. - Arts de la marionnette
+V.-Arts de la marionnette
 
 1. Le diplôme des métiers des arts de la marionnette (DMA) délivré par :
 
-- l'Institut international de la marionnette.
+-Institut international de la marionnette.
 
-2. Le diplôme national supérieur de comédien, spécialité " acteur-marionnettiste " délivré par :
+2. Le diplôme national supérieur de comédien, spécialité acteur-marionnettiste délivré par :
 
-- l'Institut international de la marionnette.
+-Institut international de la marionnette.
 
-VI. - Les formations supérieures d'enseignants de la musique et de la danse
+VI.-Les formations supérieures d'enseignants de la musique et de la danse
 
 1. Le certificat d'aptitude aux fonctions de :
 
-- directeur des conservatoires à rayonnement régional et départemental délivré par :
+-directeur des conservatoires à rayonnement régional et départemental délivré par :
 
-- le CNSMD de Paris.
+-CNSMD de Paris.
 
-- professeur de musique délivré par :
+-professeur de musique délivré par :
 
-- le CNSMD de Paris ;
+-CNSMD de Paris ;
 
-- le CNSMD de Lyon.
+-CNSMD de Lyon.
 
-- professeur de danse délivré par :
+-professeur de danse délivré par :
 
-- le CNSMD de Lyon.
+-CNSMD de Lyon.
 
 2. Le diplôme d'Etat de professeur de musique délivré par les établissements d'enseignement supérieur habilités par le ministère de la culture :
 
-- le CNSMD de Paris ;
+-CNSMD de Paris ;
 
-- le CNSMD de Lyon ;
+-CNSMD de Lyon ;
 
-- le Pôle d'enseignement supérieur de la musique de Bourgogne ;
+-Pôle d'enseignement supérieur de la musique de Bourgogne ;
 
-- le Pôle Aliénor ;
+-Pôle Aliénor, Potiers ;
 
-- le Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux Aquitaine ;
+-Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux Aquitaine ;
 
-- l'Institut supérieur des arts de Toulouse ;
+-Institut supérieur des Arts de Toulouse ;
 
-- le Pôle supérieur d'enseignement artistique Paris-Boulogne-Billancourt ;
+-Pôle supérieur d'enseignement artistique Paris-Boulogne-Billancourt ;
 
-- le Pôle sup 93 ;
+-Pôle d'enseignement supérieur de la musique Seine-Saint-Denis Ile-de-France-Pôle sup 93 ;
 
-- le Pont supérieur - Pôle d'enseignement supérieur spectacle vivant Bretagne / Pays de la Loire ;
+-Pont supérieur-Pôle d'enseignement supérieur spectacle vivant Bretagne/ Pays de la Loire ;
 
-- l'Ecole supérieure musique et danse (ESMD) des Hauts-de-France - Lille ;
+-Ecole supérieure musique et danse (ESMD) des Hauts-de-France-Lille ;
 
-- l'Ecole supérieure d'art de Lorraine ESAL - CEFEDEM Lorraine ;
+-Ecole supérieure d'Art de Lorraine ESAL-CEFEDEM Lorraine ;
 
-- le CEFEDEM Rhône-Alpes ;
+-CEFEDEM Rhône-Alpes ;
 
-- l'Institut d'enseignement supérieur de la musique (IESM) euro-Méditerrannée - CEFEDEM Sud ;
+-Institut d'enseignement supérieur de la musique (IESM) euro-Méditerrannée-CEFEDEM Sud ;
 
-- le CEFEDEM Normandie ;
+-CEFEDEM Normandie ;
 
-- la Haute Ecole des arts du Rhin (HEAR) de Strasbourg-Mulhouse.
+-Haute école des arts du Rhin (HEAR) de Strasbourg-Mulhouse.
 
 3. Le diplôme d'Etat de professeur de danse dont la formation est dispensée par :
 
-- le Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux Aquitaine ;
+-Pôle d'Enseignement supérieur de la musique et de la danse de Bordeaux Aquitaine ;
 
-- Pôle musique et danse ESAL-CEFEDEM - Metz ;
+-Pôle musique et danse ESAL-CEFEDEM-Metz ;
 
-- le Centre national de la danse - Pantin ;
+-Centre national de la danse-Pantin ;
 
-- le Centre de formation danse du Centre d'éducation populaire et de sport (CREPS) - Montpellier ;
+-Centre de formation danse du Centre d'éducation populaire et de sport (CREPS)-Montpellier ;
 
-- l'Ecole d'enseignement supérieur des beaux-arts et du spectacle vivant de Toulouse, ISDAT - Toulouse ;
+-Ecole d'enseignement supérieur des beaux-arts et du spectacle vivant de Toulouse, ISDAT-Toulouse ;
 
-- l'Ecole supérieure musique et danse (ESMD) des Hauts-de-France - Lille ;
+-Ecole supérieure musique et danse (ESMD) des Hauts-de-France-Lille ;
 
-- le Pôle d'enseignement supérieur de spectacle vivant de Bretagne-Pays de Loire - Nantes ;
+-Pôle d'enseignement supérieur de spectacle vivant de Bretagne-Pays de Loire-Nantes ;
 
-- le Pôle national supérieur danse Provence Côte d'Azur, site de Cannes-Mougins ;
+-Pôle National Supérieur danse Provence Côte d'Azur, site de Cannes-Mougins ;
 
-- le Centre national de la danse en Rhône-Alpes, institut de pédagogie et de recherche chorégraphiques - Lyon ;
+-Centre national de la danse en Rhône-Alpes, Institut de pédagogie et de recherche chorégraphiques-Lyon ;
 
-- la Manufacture - Centre de formation professionnelle - Aurillac ;
+-Manufacture-Centre de formation professionnelle-Aurillac ;
 
-- les Rencontres internationales de danse contemporaine (RIDC) - Paris ;
+-Rencontres internationales de danse contemporaine (RIDC)-Paris ;
 
-- l'Académie internationale de la danse (AID) - Paris ;
+-Académie internationale de la danse (AID)-Paris ;
 
-- l'Ecole de formation professionnelle Rick Odums, Studios Paris centre - Paris ;
+-Ecole de formation professionnelle Rick Odums, Studios Paris centre-Paris ;
 
-- l'Association Choréia - Paris ;
+-Association Choréia-Paris ;
 
-- le Studio harmonic - Paris ;
+-Studio harmonic-Paris ;
 
-- l'Espace pléiade de la danse jazz contemporaine / ballet jazz art - Paris ;
+-Espace pléiade de la danse jazz contemporaine/ ballet jazz art-Paris ;
 
-- l'Epsedanse - Montpellier ;
+-Epsedanse-Montpellier ;
 
-- le Centre de formation James Carlès - Toulouse ;
+-Centre de formation James Carlès-Toulouse ;
 
-- le Centre de danse STUDIO 920 - Quievrechain ;
+-Centre aixois de formation à l'enseignement de la danse (CAFEDANSE)-Aix-en-Provence ;
 
-- le Centre aixois de formation à l'enseignement de la danse (CAFEDANSE) - Aix-en-Provence ;
+-Studios du Cours-Marseille ;
 
-- les Studios du Cours - Marseille ;
+-Centre de formation professionnelle et d'études supérieures en danse (Off Jazz)-Nice ;
 
-- le Centre de formation professionnelle et d'études supérieures en danse (Off Jazz) - Nice ;
+-Centre de Formation Danse désoblique (CFDd)-Oullins ;
 
-- le Centre de formation danse désoblique (CFDd) - Oullins ;
+-Centre Artys'tik-Annecy ;
 
-- l'Association l'Artchipel, Scène nationale de la Guadeloupe - Basse-Terre ;
+-Danse mouvance-L'Isle sur la Sorgue ;
 
-- le Centre Artys'tik - Annecy ;
+-Format'dance-Baie Mahault ;
 
-- Danse mouvance - L'Isle-sur-la-Sorgue ;
+-Département STAPS, faculté des Sciences et Techniques, de l'Université de Corse Pasquale Paoli-Corte.
 
-- Format'dance - Baie-Mahault ;
+5° Audiovisuel :
 
-- le département STAPS, faculté des sciences et techniques de l'université de Corse Pasquale Paoli - Corte.
+-Le master Gestion de patrimoines audiovisuels de l'INA Sup ;
 
-5° Audiovisuel
+-Le master Production audiovisuelle de l'INA Sup.
 
-- Le master Gestion de patrimoines audiovisuels de l'INA Sup ;
+6° Cinéma :
 
-- Le master Production audiovisuelle de l'INA Sup.
+-Le diplôme délivré par La Fémis.
 
-6° Cinéma
-
-- Le diplôme délivré par La Fémis.
-
-7° Les conservatoires à rayonnement régional (CRR) ou départemental (CRD)
+7° Les conservatoires à rayonnement régional (CRR), départemental (CRD), intercommunal (CRI) :
 
 Pour les bacheliers du cycle préparatoire à l'enseignement supérieur dans :
 
-- CRD Gabriel Fauré du Grand Angoulême, en musique, danse et théâtre ;
+-CRD Gabriel Fauré du Grand Angoulême, en musique, danse et théâtre ;
 
-- CRD d'Arras en musique et danse ;
+-CRR d'Aubervilliers en musique et en théâtre ;
 
-- CRR du Grand Besançon :
+-CRR du Grand Besançon :
 
-- en musique : flûte traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, violon, alto, violoncelle, contrebasse, percussion, guitare, harpe, orgue, piano, chant, direction d'orchestre, musiques actuelles, musiques anciennes, formation musicale, culture musicale, écriture musicale ;
+-en musique : flûte traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, violon, alto, violoncelle, contrebasse, percussion, guitare, harpe, orgue, piano, chant, direction d'orchestre, musiques actuelles, musiques anciennes, formation musicale, culture musicale, écriture musicale ;
 
-- CRD du Boulonnais, Boulogne-sur-Mer :
+-CRC de Béziers en musique, danse et théâtre ;
 
-- en musique dans les disciplines suivantes : flute traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, percussions, violon, alto, violoncelle, contrebasse, guitare, harpe, accordéon, piano, accompagnement au piano, orgue, ondes Martenot, chant, direction de chœur, jazz, clavecin, basse continue, luth, traverso, flûte à bec, violon baroque, viole de gambe, formation musicale, culture musicale, analyse musicale, écriture musicale, composition, orchestration, prise de son ;
+-CRD de Bobigny en musique et théâtre ;
 
-- CRD de Calais en musique ;
+-CRR de Boulogne Billancourt en musique, théâtre et danse ;
 
-- CRD de Cambrai en musique ;
+-CRD de Cachan :
 
-- CRR du Grand Chalon, Chalon-sur-Saône :
+-en théâtre ;
 
-- en musique dans les domaines : classique, accompagnement, jazz, musiques actuelles amplifiées, composition/création/électroacoustique, direction, culture, arts du chant ;
+-en musique dans les domaines : musiques actuelles, cordes, instruments à vent, instruments polyphoniques et art lyrique ;
 
-- en danse : danse classique, contemporaine, jazz ;
+-CRD de Carcassonne en musique, danse et théâtre ;
 
-- CRD de Châtellerault Clément Janequin en musique et danse ;
+-CRR de Cergy-Pontoise en musique ;
 
-- CRR de Douai en musique ;
+-CRR du Grand Chalon, Chalon-sur-Saône :
 
-- CRD de l'agglomération de La Rochelle en musique et danse ;
+-en musique dans les domaines : classique, accompagnement, jazz, musiques actuelles amplifiées, composition/ création/ électroacoustique, direction, culture, arts du chant ;
 
-- CRR de Lille en musique, danse et théâtre ;
+-en danse : danse classique, contemporaine, jazz ;
 
-- CRR de Lyon :
+-CRD Clément Janequin de Châtellerault en musique ;
 
-- en musique dans les domaines flûte traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, violon, alto, violoncelle, contrebasse, percussion, guitare, harpe, accordéon, piano, accompagnement au piano, chant, jazz, musiques actuelles, musiques anciennes, formation musicale, histoire de la musique, analyse musicale, écriture musicale, composition, composition électroacoustique, orgue ;
+-CRR de Clermont Ferrand en théâtre, musique et danse ;
 
-- en danse (classique et contemporain) ;
+-CRD de Fresnes :
 
-- en théâtre ;
+-en théâtre ;
 
-- CRR de Mâcon :
+-en musique dans les domaines : musiques actuelles, cordes, instruments à vent, instruments polyphoniques et art lyrique ;
 
-- en musique : flûte traversière, hautbois, clarinette, basson, saxophone, cor, trombone, violon, alto, violoncelle, percussions, guitare, accordéon, piano, orgue, chant lyrique, formation musicale ;
+-CRI de Gentilly en théâtre ;
 
-- CRD Auguste Delbecque de l'agglomération de Niort, Niort en musique ;
+-CRI du Kremlin-Bicêtre :
 
-- CRR de Paris :
+-en théâtre ;
 
-- en musique au titre des disciplines suivantes : flûte traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, violon, alto, violoncelle, contrebasse, percussions, guitare, harpe, accordéon, orgue, piano, accompagnement au piano, chant, direction de chœur, direction d'orchestre, musique de chambre, jazz, musiques actuelles, musique ancienne, formation musicale, histoire de la musique, analyse musicale, écriture musicale, orchestration, composition instrumentale, composition électroacoustique, musique à l'image ;
+-en musique dans les domaines : cordes, instruments à vent, instruments polyphoniques et art lyrique ;
 
-- en théâtre ;
+-CRI de L'Hay-les-Roses :
 
-- CRR de Poitiers en musique, danse et théâtre ;
+-en théâtre ;
 
-- CRD de Roubaix en musique et danse ;
+-en musique dans les domaines : musiques actuelles, cordes, instruments à vent, instruments polyphoniques et art lyrique ;
 
-- CRD de l'agglomération du Pays de Saint Omer en musique ;
+-CRD de l'agglomération de La Rochelle en musique ;
 
-- CRR de Toulon en théâtre ;
+-CRD de Le Puy en Velay en musique et théâtre ;
 
-- CRD de Tourcoing en musique et théâtre ;
+-CRR de Lille en musique et danse ;
 
-- CRD de Valenciennes en musique et théâtre ;
+-CRR de Lyon :
 
-- CRR de Versailles :
+-en musique dans les domaines flûte traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, violon, alto, violoncelle, contrebasse, percussion, guitare, harpe, accordéon, piano, accompagnement au piano, chant, jazz, musiques actuelles, musiques anciennes, formation musicale, histoire de la musique, analyse musicale, écriture musicale, composition, composition électroacoustique, orgue ;
 
-- en musique : flûte, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, percussion, violon, alto, violoncelle, contrebasse, piano, harpe, guitare, orgue, accompagnement au piano ;
+-en danse (classique et contemporain) ;
 
-- conjointement au Centre de Musique Baroque de Versailles en musique ancienne : flûte à bec, flûtes traversières baroque et Renaissance, musette de cour, hautbois baroque, cor naturel, trompette naturelle, cornet à bouquin, sacqueboute, violon baroque, alto baroque, viole de gambe, violone, violoncelle baroque, pianoforte, orgue, clavecin, basse continue, harpes anciennes, luth, théorbe, guitares anciennes.
+-en théâtre ;
 
-II. - Condition du maintien du droit à bourses pour les étudiants en poursuite d'études à l'étranger
+-CRR de Mâcon :
 
-L'étudiant doit poursuivre ses études supérieures, après les avoir commencées en France dans un des établissements et formations mentionnés au I de la présente annexe, dans un des Etats ayant ratifié l'accord européen du 12 décembre 1969 sur le maintien des bourses aux étudiants poursuivant leurs études à l'étranger, et dont la liste est disponible sur le site du Conseil de l'Europe : https://www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/069/signatures?p_auth=R9uH59gr.
+-en musique : flûte traversière, hautbois, clarinette, basson, saxophone, cor, trombone, violon, alto, violoncelle, percussions, guitare, accordéon, piano, orgue, chant lyrique, formation musicale ;
+
+-CRR de Montpellier en musique et théâtre ;
+
+-CRR de Nantes en théâtre, musique et danse ;
+
+-CRD de Narbonne en musique, danse et théâtre ;
+
+-CRD de Nîmes en musique, danse et théâtre ;
+
+-CRD Auguste Delbecque de l'agglomération de Niort en musique ;
+
+-CRD de Pantin en musique et théâtre ;
+
+-CRR de Paris :
+
+-en musique au titre des disciplines suivantes : flûte traversière, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, violon, alto, violoncelle, contrebasse, percussions, guitare, harpe, accordéon, orgue, piano, accompagnement au piano, chant, direction de chœur, direction d'orchestre, musique de chambre, jazz, musiques actuelles, musique ancienne, formation musicale, histoire de la musique, analyse musicale, écriture musicale, orchestration, composition instrumentale, composition électroacoustique, musique à l'image ;
+
+-en théâtre ;
+
+-en danse ;
+
+-CRR de Perpignan en musique, danse et théâtre ;
+
+-CRR de Poitiers en musique et théâtre ;
+
+-CRD de Roubaix en musique et danse ;
+
+-CRR de St Etienne en musique et théâtre ;
+
+-CRR de Saint Maur des Fossés en musique ;
+
+-CRI Claude Debussy de Savigny sur Orge en musique dans les domaines : cordes et instruments polyphoniques ;
+
+-CRR de Toulon en théâtre ;
+
+-CRR Xavier Darasse de Toulouse :
+
+-en musique au titre des disciplines suivantes : instruments d'orchestre, piano, orgue, clavecin, guitare, accordéon, harpe, mandoline, chant lyrique ;
+
+-en théâtre ;
+
+-CRD de Tourcoing en musique ;
+
+-CRD de Valence Romans en musique ;
+
+-CRR de Versailles :
+
+-en musique : flûte, hautbois, clarinette, basson, saxophone, cor, trompette, trombone, tuba, percussion, violon, alto, violoncelle, contrebasse, piano, harpe, guitare, orgue, accompagnement au piano ;
+
+-conjointement avec le Centre de Musique Baroque de Versailles en musique ancienne : flûte à bec, flûtes traversières baroque et Renaissance, musette de cour, hautbois baroque, cor naturel, trompette naturelle, cornet à bouquin, sacqueboute, violon baroque, alto baroque, viole de gambe, violone, violoncelle baroque, pianoforte, orgue, clavecin, basse continue, harpes anciennes, luth, théorbe, guitares anciennes ;
+
+-CRI Roger Damin de Villejuif en musique au titre des musiques actuelles ;
+
+-CRI de Villeneuve-Saint-Georges en musique dans le domaine : art lyrique ;
+
+II.-Conditions du maintien du droit à bourses pour les étudiants en poursuite d'études à l'étranger
+
+1. Conditions du maintien du droit à bourses pour les étudiants en poursuite d'études à l'étranger
+
+L'étudiant doit poursuivre ses études supérieures dans un des Etats membres du Conseil de l'Europe, après les avoir commencées en France dans un des établissements et formations mentionnés au I de la présente annexe.
+
+2. Conditions d'ouverture du droit à une bourse d'enseignement supérieur sur critères sociaux dans les pays membres du Conseil de l'Europe
+
+Les étudiants inscrits dans certains établissements d'enseignement supérieur d'un Etat membre du Conseil de l'Europe peuvent prétendre à une bourse d'enseignement supérieur sur critères sociaux. Les étudiants doivent être en mesure de justifier d'un domicile dans le pays considéré et des conditions énoncées ci-après :
+
+a) Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne autre que la France, d'un Etat partie à l'Espace économique européen ou de la Confédération suisse, ou, à titre transitoire, ressortissant du Royaume-Uni ;
+
+b) Etre titulaire du baccalauréat français ou d'un titre justifiant la dispense ou l'équivalence de ce grade pour l'inscription en première année d'études supérieures sur le territoire de la République française ou avoir commencé des études supérieures en France dans un dans un des établissements et formations mentionnés au I de la présente annexe ;
+
+c) Etre inscrit dans une université ou un autre établissement d'enseignement supérieur situé dans un Etat membre du Conseil de l'Europe et officiellement reconnu par cet Etat pour suivre, à temps plein, durant une année universitaire ou deux semestres suivant les pays, des études supérieures menant à un diplôme national correspondant aux études mentionnées au I de l'annexe A et dont le domaine relève de la compétence du ministre français chargé de la culture.
+
+L'étudiant doit se trouver dans l'une des situations suivantes :
+
+-être inscrit dans un pays membre de l'Union européenne, dans un Etat partie à l'Espace économique européen ou dans la Confédération suisse, ou, à titre transitoire, au Royaume-Uni ;
+
+-ou poursuivre des études supérieures, après les avoir commencées en France, dans l'un des Etats ayant ratifié l'accord européen du 12 décembre 1969 sur le maintien des bourses aux étudiants poursuivant leurs études à l'étranger.

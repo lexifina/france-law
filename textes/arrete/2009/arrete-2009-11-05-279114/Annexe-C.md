@@ -4,62 +4,60 @@ LISTE DES FORMATIONS PERMETTANT DE BÉNÉFICIER D'AIDES À LA MOBILITÉ NATIONAL
 
 Les diplômes, formations et cycles d'études dispensés en France dans les établissements d'enseignement et de formation permettant de bénéficier d'aides à la mobilité nationale et internationale sont ceux figurant au I de l'annexe A, à l'exception de :
 
-La formation au diplôme d'Etat de professeur de danse dispensée par :
+-les enseignements préparatoires publics aux écoles supérieures ;
 
-- le Pôle d'enseignement supérieur de la musique et de la danse de Bordeaux Aquitaine ;
+-la formation au diplôme d'Etat de professeur de danse dispensée par :
 
-- Pôle musique et danse ESAL-CEFEDEM - Metz ;
+-Pôle d'Enseignement Supérieur de la Musique et de la Danse de Bordeaux Aquitaine ;
 
-- le Centre national de la danse - Pantin ;
+-Pôle musique et danse ESAL-CEFEDEM-Metz ;
 
-- le Centre de formation danse du Centre d'éducation populaire et de sport (CREPS) - Montpellier ;
+-Centre national de la danse-Pantin ;
 
-- l'Ecole d'enseignement supérieur des beaux-arts et du spectacle vivant de Toulouse, ISDAT - Toulouse ;
+-Centre de formation danse du Centre d'éducation populaire et de sport (CREPS)-Montpellier ;
 
-- l'Ecole supérieure musique et danse (ESMD) des Hauts-de-France - Lille ;
+-Ecole d'enseignement supérieur des beaux-arts et du spectacle vivant de Toulouse, ISDAT-Toulouse ;
 
-- le Pôle d'enseignement supérieur de spectacle vivant de Bretagne-Pays de Loire - Nantes ;
+-Ecole supérieure musique et danse (ESMD) des Hauts de France-Lille ;
 
-- le Pôle national supérieur danse Provence Côte d'Azur, site de Cannes-Mougins ;
+-Pôle d'enseignement supérieur de spectacle vivant de Bretagne-Pays de Loire-Nantes ;
 
-- le Centre national de la danse en Rhône-Alpes, institut de pédagogie et de recherche chorégraphiques - Lyon ;
+-Pôle National Supérieur danse Provence Côte d'Azur, site de Cannes-Mougins ;
 
-- la Manufacture - Centre de formation professionnelle - Aurillac ;
+-Centre national de la danse en Rhône-Alpes, Institut de pédagogie et de recherche chorégraphiques-Lyon ;
 
-- les Rencontres internationales de danse contemporaine (RIDC) - Paris ;
+-Manufacture-Centre de formation professionnelle-Aurillac ;
 
-- l'Académie internationale de la danse (AID) - Paris ;
+-Rencontres internationales de danse contemporaine (RIDC)-Paris ;
 
-- l'Ecole de formation professionnelle Rick Odums, Studios Paris centre - Paris ;
+-Académie internationale de la danse (AID)-Paris ;
 
-- l'Association Choréia - Paris ;
+-Ecole de formation professionnelle Rick Odums, Studios Paris centre-Paris ;
 
-- le Studio harmonic - Paris ;
+-Association Choréia-Paris ;
 
-- l'Espace pléiade de la danse jazz contemporaine / ballet jazz art - Paris ;
+-Studio harmonic-Paris ;
 
-- l'Epsedanse - Montpellier ;
+-Espace pléiade de la danse jazz contemporaine/ ballet jazz art-Paris ;
 
-- le Centre de formation James Carlès - Toulouse ;
+-Epsedanse-Montpellier ;
 
-- le Centre de danse STUDIO 920 - Quievrechain ;
+-Centre de formation James Carlès-Toulouse ;
 
-- le Centre aixois de formation à l'enseignement de la danse (CAFEDANSE) - Aix-en-Provence ;
+-Centre aixois de formation à l'enseignement de la danse (CAFEDANSE)-Aix-en-Provence ;
 
-- les Studios du Cours - Marseille ;
+-Studios du Cours-Marseille ;
 
-- le Centre de formation professionnelle et d'études supérieures en danse (Off Jazz) - Nice ;
+-Centre de formation professionnelle et d'études supérieures en danse (Off Jazz)-Nice ;
 
-- le Centre de formation danse désoblique (CFDd) - Oullins ;
+-Centre de Formation Danse désoblique (CFDd)-Oullins ;
 
-- l'Association l'Artchipel, Scène nationale de la Guadeloupe - Basse-Terre ;
+-Centre Artys'tik-Annecy ;
 
-- le Centre Artys'tik - Annecy ;
+-Danse mouvance-L'Isle sur la Sorgue ;
 
-- Danse mouvance - L'Isle-sur-la-Sorgue ;
+-Format'dance-Baie Mahault ;
 
-- Format'dance - Baie-Mahault ;
+-Département STAPS, faculté des Sciences et Techniques, de l'Université de Corse Pasquale Paoli-Corte ;
 
-- le département STAPS, faculté des sciences et techniques de l'université de Corse Pasquale Paoli - Corte.
-
-Les formations dispensées par les conservatoires à rayonnement régional (CRR) ou départemental (CRD) listées au 7° du VI de l'annexe A.
+-les formations dispensées par les conservatoires à rayonnement régional (CRR) ou départemental (CRD) ou intercommunal (CRI) ou communal (CRC) listées au 7° du I de l'annexe A.
