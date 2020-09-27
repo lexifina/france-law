@@ -34,6 +34,8 @@ ii) Caractéristiques physiques, chimiques, toxicologiques et indication des dan
 
 iii) Comportement physique ou chimique dans les conditions normales d'utilisation ou dans les conditions accidentelles prévisibles.
 
+En particulier, postérieurement au 1er janvier 2023, l'étude de dangers ou sa mise à jour mentionne les types de produits de décomposition susceptibles d'être émis en cas d'incendie important, incluant le cas échéant les contributions imputables aux conditions et aux lieux de stockage (contenants, bâtiments, etc.). Ces produits de décomposition sont hiérarchisés en fonction des quantités susceptibles d'être libérées et de leur toxicité, y compris environnementale. Des guides méthodologiques professionnels reconnus par le ministre chargé des installations classées peuvent préciser les conditions de mise en œuvre de cette obligation et, le cas échéant, de ses conséquences sur le plan d'opération interne.
+
 3. Identification et analyse des risques d'accident et moyens de prévention :
 
 a) Description détaillée des scénarios d'accidents majeurs possibles et de leurs probabilités ou conditions d'occurrence comprenant le résumé des événements pouvant jouer un rôle dans le déclenchement de chacun de ces scénarios, que les causes soient d'origine interne ou externe à l'installation ; en particulier, que les causes soient :
@@ -64,33 +66,21 @@ Description des moyens mobilisables internes ou externes ; description de toute 
 
 PROBABILITÉ D'OCCURRENCE
 
-(sens croissant de E vers A)
-
-|
+(sens croissant de E vers A) |
 
 Gravité des conséquences sur les personnes exposées au risque
 
 |
 
-E
+E |
 
-|
+D |
 
-D
+C |
 
-|
+B |
 
-C
-
-|
-
-B
-
-|
-
-A
-
-|
+A |
 
 Désastreux
 
