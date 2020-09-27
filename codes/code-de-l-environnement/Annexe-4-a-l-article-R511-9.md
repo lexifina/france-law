@@ -4780,83 +4780,27 @@ Substances et mélanges dangereux (définition et classification des).
 
 Définitions :
 
-|
+Les termes substances et mélanges sont définis à l'article 2 du règlement (CE) n° 1272/2008 relatif à la classification, l'étiquetage et l'emballage des substances et mélanges.
 
-|
+Dans le cas de substances ou mélanges qui ne sont pas couverts par le même règlement (CE) n° 1272/2008, y compris les déchets, et qui sont néanmoins présents, ou susceptibles d'être présents dans un établissement et qui présentent ou sont susceptibles de présenter, dans les conditions régnant dans l'établissement, des propriétés équivalentes pour ce qui est de leur potentiel d'accident majeur, ces substances ou mélanges sont provisoirement affectés aux classes, catégories et mentions de danger les plus proches ou de la substance ou du mélange dangereux désigné le plus proche. Ils sont assimilés à des substances ou mélanges dangereux au sens de la présente rubrique.
 
-|
+On entend par produits explosibles les substances, mélanges ou matières présentant un danger d'explosion déterminé selon la méthode A.14 du règlement (CE) n° 440/2008 et qui ne relèvent pas de la classe des peroxydes organiques ou substances et mélanges auto-réactifs ainsi que les articles contenant de telles substances, mélanges ou matières relevant de la section 2.1 de l'annexe I du règlement (CE) n° 1272/2008. De plus, on entend par produits explosifs , les produits explosibles affectés à la classe 1 des recommandations des Nations-Unies relatives au transport de marchandises dangereuses, et qui sont destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques.
 
-Les termes "substances" et "mélanges" sont définis à l'article 2 du règlement (CE) n° 1272/2008relatif à la classification, l'étiquetage et l'emballage des substances et mélanges.
+Si la quantité de substance ou mélange explosible contenue dans l'article est connue, c'est cette quantité qui est prise en considération pour l'application de l'article R. 511-11. Si la quantité de substance ou mélange explosible contenue dans l'article n'est pas connue, c'est l'article entier qui sera considéré comme étant explosible pour l'application de l'article R. 511-11.
 
-Dans le cas des produits qui ne sont pas couverts par lerèglement (CE) n° 1272/2008, y compris les déchets, et qui sont néanmoins présents ou susceptibles d'être présents dans un établissement et qui présentent ou sont susceptibles de présenter, dans les conditions régnant dans l'établissement, des propriétés équivalentes pour ce qui est de leur potentiel d'accident majeur, ces produits doivent être affectés aux classes, catégories et mentions de danger les plus proches ou de la substance ou du mélange dangereux désigné le plus proche. Ils sont assimilés à des substances ou mélanges dangereux au sens de la présente rubrique.
-
-|
-
-|
-
-|
-
-On entend par produits explosibles les substances, mélanges ou matières présentant un danger d'explosion déterminé selon la méthode A. 14 durèglement (CE) n° 440/2008 et qui ne relèvent pas de la classe des peroxydes organiques ou substances et mélanges autoréactifs ainsi que les objets contenant de telles substances, mélanges ou matières relevant de lasection 2.1 de l'annexe I du règlement (CE) n° 1272/2008. De plus, on entend par produits explosifs les produits explosibles affectés à la classe 1 des recommandations des Nations unies relatives au transport de marchandises dangereuses et qui sont destinés à être utilisés pour les effets de leur explosion ou leurs effets pyrotechniques.
-
-|
-
-|
-
-|
-
-Le terme "gaz" désigne toute substance dont la pression de vapeur absolue est égale ou supérieure à 101,3 kPa à une température de 20 °C.
-
-Le terme "liquide" désigne toute substance qui n'est pas définie comme étant un gaz et qui ne se trouve pas à l'état solide à une température de 20 °C et à une pression normale de 101,3 kPa
-
-|
-
-|
-
-|
+Les termes gaz et liquide sont définis à l'annexe I partie 1 du règlement (CE) n° 1272/2008.
 
 Classification :
 
+Les substances et mélanges sont classés conformément au règlement (CE) n° 1272/2008. Les classes et catégories de danger sont définies à l'annexe I, parties 2, 3 et 4 du même règlement (CE) n° 1272/2008.
+
 a) Substances :
 
-Les classes et catégories de danger sont définies à l'annexe I, parties 2, 3 et 4, du règlement (CE) n° 1272/2008relatif à la classification, l'étiquetage et l'emballage des substances et des mélanges.
-
-|
-
-|
-
-|
-
-Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe VI du règlement (CE) n° 1272/2008 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes.
-
-|
-
-|
-
-|
+Les substances présentant ces dangers, mais ne figurant pas encore à l'annexe VI du règlement (CE) n° 1272/2008 susmentionné sont classées et étiquetées par leurs fabricants, distributeurs ou importateurs en fonction des informations sur leurs propriétés physico-chimiques ou toxicologiques pertinentes et accessibles existantes ;
 
 b) Mélanges :
 
-Le classement des mélanges dangereux résulte :
-
-- du classement des substances dangereuses qu'ils contiennent et de la concentration de celles-ci ;
-
-- du type de mélange.
-
-|
-
-|
-
-|
-
-Les mélanges dangereux sont classés suivant lerèglement (CE) n° 440/2008 établissant des méthodes d'essai, tel que spécifié à l'article 13, paragraphe 3, du règlement (CE) n° 1907/2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances.
-
-|
-
-|
-
-|
-
-Les mélanges sont assimilés à des substances pures pour autant que les limites de concentration fixées en fonction de leurs propriétés dans lerèglement (CE) n° 1272/2008, ou sa dernière adaptation au progrès technique soient respectées, à moins qu'une composition du pourcentage ou une autre description ne soit spécifiquement donnée
+Les mélanges sont assimilés à des substances pures pour autant que les limites de concentration fixées en fonction de leurs propriétés dans le règlement (CE) n° 1272/2008, ou sa dernière adaptation au progrès technique soient respectées, à moins qu'une composition du pourcentage ou une autre description ne soit spécifiquement donnée.
 
 |
 
@@ -5830,13 +5774,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 
 |
 
-Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2 ne contenant pas de gaz inflammables de catégorie 1 ou 2 ou des liquides inflammables de catégorie 1.
-
-|
-
-|
-
-|
+Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2, ne contenant pas de gaz inflammable de catégorie 1 ou 2, ni de liquide inflammable de catégorie 1.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -5868,11 +5806,11 @@ D
 
 |
 
-Nota. - Les aérosols inflammables sont classés conformément à la directive 75/324/ CEE relative aux générateurs aérosols. Les aérosols "extrêmement inflammables" et "inflammables" de la directive 75/324/ CEE correspondent respectivement aux aérosols inflammables des catégories1 et 2 du règlement (CE) n° 1272/2008.
+Nota. - les aérosols inflammables sont classés conformément à la directive 75/324/CEE relative aux générateurs aérosols. Les aérosols "extrêmement inflammables" et "inflammables" de la directive 75/324/CEE correspondent, respectivement, aux aérosols inflammables des catégories 1 et 2 du règlement (CE) n° 1272/2008. Pour pouvoir recourir à cette classification, il doit être démontré que le générateur d'aérosol ne contient pas de gaz inflammable de catégorie 1 ou 2, ni de liquide inflammable de catégorie 1.
 
-Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t.
+Quantité seuil bas au sens de l'article R. 511-10 : 5 000 t
 
-Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t.
+Quantité seuil haut au sens de l'article R. 511-10 : 50 000 t
 
 |
 

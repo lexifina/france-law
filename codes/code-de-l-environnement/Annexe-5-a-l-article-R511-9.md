@@ -34,9 +34,9 @@ Nitrate d'ammonium.
 
 1. Nitrate d'ammonium et mélanges à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
-- comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;
+-comprise entre 24,5 % et 28 % en poids et qui contiennent au plus 0,4 % de substances combustibles ;
 
-- supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles.
+-supérieure à 28 % en poids et qui contiennent au plus 0,2 % de substances combustibles.
 
 |
 
@@ -122,11 +122,11 @@ Engrais solides simples et composés à base de nitrate d'ammonium correspondant
 
 |
 
-I. - Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
+I.-Engrais composés à base de nitrate d'ammonium susceptibles de subir une décomposition auto-entretenue (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ ou de la potasse) dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
-- de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;
+-de 15,75 % en poids ou moins sans limitation de teneur en matières combustibles ;
 
-- comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0,4 % de matières organiques ou combustibles au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement européen.
+-comprise entre 15,75 % et 24,5 % en poids et qui soit contiennent au maximum 0,4 % de matières organiques ou combustibles au total, soit sont conformes aux exigences de l'annexe III-2 (*) du règlement européen.
 
 |
 
@@ -142,21 +142,21 @@ Ces engrais sont susceptibles de subir une décomposition auto-entretenue selon 
 
 |
 
-II. - Engrais simples et composés solides à base de nitrate d'ammonium (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ ou de la potasse) qui satisfont aux conditions de l'annexe III-2 (*) du règlement européen et dans lesquels la teneur en azote due au nitrate d'ammonium est :
+II.-Engrais simples et composés solides à base de nitrate d'ammonium (un engrais composé contient du nitrate d'ammonium avec du phosphate et/ ou de la potasse) qui satisfont aux conditions de l'annexe III-2 (*) du règlement européen et dans lesquels la teneur en azote due au nitrate d'ammonium est :
 
-- supérieure à 24,5 % en poids, sauf pour les mélanges d'engrais simples à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 % ;
+-supérieure à 24,5 % en poids, sauf pour les mélanges d'engrais simples à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 % ;
 
-- supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium ;
+-supérieure à 15,75 % en poids pour les mélanges de nitrate d'ammonium et de sulfate d'ammonium ;
 
-- supérieure à 28 % en poids pour les mélanges d'engrais simples à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 %.
-
-|
+-supérieure à 28 % en poids pour les mélanges d'engrais simples à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 %.
 
 |
 
 |
 
-III. - Mélange d'engrais simples solides à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 % et dans lesquels la teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % en poids.
+|
+
+III.-Mélange d'engrais simples solides à base de nitrate d'ammonium avec de la dolomie, du calcaire et/ ou du carbonate de calcium, dont la pureté est d'au moins 90 % et dans lesquels la teneur en azote due au nitrate d'ammonium est comprise entre 24,5 % et 28 % en poids.
 
 |
 
@@ -200,7 +200,7 @@ DC
 
 |
 
-IV. - Engrais simples et composés solides à base de nitrate d'ammonium ne répondant pas aux critères I, II ou III (engrais simples et engrais composés non susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur en azote due au nitrate d'ammonium est inférieure à 24,5 %).
+IV.-Engrais simples et composés solides à base de nitrate d'ammonium ne répondant pas aux critères I, II ou III (engrais simples et engrais composés non susceptibles de subir une décomposition auto-entretenue dans lesquels la teneur en azote due au nitrate d'ammonium est inférieure à 24,5 %).
 
 |
 
@@ -216,7 +216,7 @@ DC |
 
 |
 
-Nota. - Concernant les engrais azotés simples et les engrais composés azotés binaires (NP ou NK) ou ternaires (NPK), ne sont à prendre en compte que les engrais à base de nitrates (ex : ammonitrates). En conséquence, les engrais azotés non à base de nitrates (ex. : urée) ne sont pas comptabilisés.
+Nota.-Concernant les engrais azotés simples et les engrais composés azotés binaires (NP ou NK) ou ternaires (NPK), ne sont à prendre en compte que les engrais à base de nitrates (ex : ammonitrates). En conséquence, les engrais azotés non à base de nitrates (ex. : urée) ne sont pas comptabilisés.
 
 L'identification d'un engrais à base de nitrate peut se faire par la mention de l'azote nitrique dans les documents commerciaux.
 
@@ -254,11 +254,11 @@ Nitrate d'ammonium : matières hors spécifications ou produits correspondant au
 
 Cette rubrique s'applique :
 
-- aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux mélanges à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 4701,4702-II et 4702-III ;
+-aux matières rejetées ou écartées au cours du processus de fabrication, au nitrate d'ammonium et aux mélanges à base de nitrate d'ammonium, aux engrais simples à base de nitrate d'ammonium et aux engrais composés à base de nitrate d'ammonium qui sont ou ont été renvoyés par l'utilisateur final à un fabricant, à une installation de stockage temporaire ou à une usine de retraitement pour subir un nouveau processus, un recyclage ou un traitement en vue de pouvoir être utilisés sans danger, parce qu'ils ne satisfaisaient plus aux prescriptions des rubriques 4701,4702-II et 4702-III ;
 
-- aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
+-aux engrais simples à base de nitrate d'ammonium dans lesquels la teneur en azote due au nitrate d'ammonium est supérieure à 28 % qui ne satisfont pas aux exigences de l'annexe III-1 (alinéas 1.1 à 1.6) (*) ;
 
-- aux engrais visés dans les rubriques 4702-I, 2e alinéa, 4702-II qui ne satisfont pas aux exigences de l'annexe III-2 (**).
+-aux engrais visés dans les rubriques 4702-I, 2e alinéa, 4702-II qui ne satisfont pas aux exigences de l'annexe III-2 (**).
 
 |
 
@@ -2196,13 +2196,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 
 |
 
-2-méthyl-3-butènenitrile (numéro CAS 16529-56-9).
-
-|
-
-|
-
-|
+2-méthyl-3-butènenitrile (numéro CAS 16529-56-9) (sauf lorsque cette substance est exploitée dans les conditions prévues à la rubrique 4330).
 
 La quantité susceptible d'être présente dans l'installation étant :
 
@@ -2496,7 +2490,7 @@ A
 
 |
 
-b) Supérieure ou égale à 50 m³
+b) Supérieure ou égale à 50 m ³
 
 |
 
@@ -2554,6 +2548,6 @@ D |
 
 |
 
-(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
