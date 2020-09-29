@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 429 - Eau et Loire
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2020-09-29
+- Matière : 8.8
+- Objet : 429 - Eau et Loire
+- Transmis à la préfecture : 2020-09-29
+- Votants : 29
+- Pour : 24
+- Contre : 0
+- Abstentions : 5
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-27444.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
