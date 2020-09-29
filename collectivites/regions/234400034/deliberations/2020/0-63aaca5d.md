@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — Adaptation des modalités d'attribution des aides au titre de deux dispositifs du plan d'urgence régional en faveur de l'économie ligérienne
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2020-09-29
+- Matière : 6.3
+- Objet : Adaptation des modalités d'attribution des aides au titre de deux dispositifs du plan d'urgence régional en faveur de l'économie ligérienne
+- Transmis à la préfecture : 2020-09-29
+- Votants : 31
+- Pour : 24
+- Contre : 0
+- Abstentions : 7
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-30339.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
