@@ -2,17 +2,15 @@
 
 A.-Les principes généraux
 
-Les exploitants d'aérodromes remplissent, sous le contrôle des services centraux et déconcentrés de la direction générale de l'Aviation civile, une déclaration annuelle composée de quatre formulaires de déclaration de trafic, coûts et produits pour le financement des missions de sûreté et de sécurité par la taxe d'aéroport. Les formulaires sont adressés aux services déconcentrés de la direction générale de l'Aviation civile pour le 31 juillet, délai de rigueur. En ce qui concerne Aéroports de Paris, les formulaires sont adressés aux services centraux de la direction générale de l'aviation civile pour la même date.
+Les exploitants d'aérodromes remplissent, sous le contrôle des services centraux et déconcentrés de la direction générale de l'Aviation civile, une déclaration annuelle composée de trois formulaires de déclaration de trafic, coûts et produits pour le financement des missions de sûreté et de sécurité par la taxe d'aéroport. Les formulaires sont adressés aux services déconcentrés de la direction générale de l'Aviation civile pour le 31 juillet, délai de rigueur. En ce qui concerne Aéroports de Paris, les formulaires sont adressés aux services centraux de la direction générale de l'aviation civile pour la même date.
 
-Les quatre formulaires à transmettre concernent :
+Les trois formulaires à transmettre concernent :
 
 ― le trafic, les coûts et les ressources définitifs de l'année n ― 1 au titre des missions concernées ;
 
 ― les prévisions de trafic, de coûts et de ressources réactualisées de l'année en cours n ;
 
-― les prévisions de trafic, de coûts et de ressources de l'année n + 1 ;
-
-― les prévisions de trafic, de coûts et de ressources de l'année n + 2.
+― les prévisions de trafic, de coûts et de ressources de l'année n + 1.
 
 A défaut de formulaires remis à la date du 31 juillet, les données prises en compte sont les dernières connues pour les années concernées. Le formulaire pourra à titre exceptionnel être modifié entre les 1er août et 15 octobre, pour prendre en compte des éléments nouveaux pouvant avoir une incidence significative sur le tarif de la taxe ou sur la part du produit de la majoration versée à l'exploitant d'aérodrome.
 
@@ -26,7 +24,7 @@ Le trafic à porter dans le formulaire est le nombre de passagers et la masse de
 
 2. Les coûts
 
-Les coûts inscrits dans les formulaires sont ceux relatifs aux missions identifiées dans l'article 1609 quatervicies du code général des impôts supportés par l'exploitant d'aérodrome.
+Les coûts inscrits dans les formulaires sont ceux relatifs aux missions identifiées dans l'article 1609 quatervicies du code général des impôts supportés par l'exploitant d'aérodrome, ainsi qu'au remboursement du principal et au paiement des intérêts des avances consenties par l'Etat aux exploitants d'aérodrome ou de groupement d'aérodromes touchés par la crise de la covid-19.
 
 Les coûts inscrits dans les formulaires correspondent aux dépenses validées ou prévues pour la période du 1er janvier au 31 décembre de l'année considérée.
 
@@ -34,7 +32,7 @@ Les coûts sont inscrits toutes taxes non récupérables comprises (et notamment
 
 3. Les produits
 
-Les éventuels produits autres que celui de la taxe d'aéroport pour le financement des missions concernées, telles que des dotations spécifiques, des subventions des collectivités territoriales ou des plus ou moins values de cession de biens financés par la taxe d'aéroport doivent être inscrits dans le formulaire par les exploitants d'aérodrome.
+Les éventuels produits autres que celui de la taxe d'aéroport pour le financement des missions concernées, telles que des dotations spécifiques, les avances consenties par l'Etat aux exploitants d'aérodrome ou de groupement d'aérodromes touchés par la crise de la covid-19, des subventions des collectivités territoriales ou des plus ou moins values de cession de biens financés par la taxe d'aéroport doivent être inscrits dans le formulaire par les exploitants d'aérodrome.
 
 B.-La nature des coûts
 
@@ -130,13 +128,21 @@ Les frais généraux comprennent l'ensemble des coûts indirects (investissement
 
 Les frais généraux sont plafonnés sur justificatifs à 10 % des autres coûts déclarés.
 
-5. Les frais financiers applicables au solde cumulé du bilan régalien
+Le remboursement du principal et le paiement des intérêts des avances consenties par l'Etat aux exploitants d'aérodrome ou de groupement d'aérodromes touchés par la crise de la covid-19 n'entrent pas dans l'assiette des coûts pris en compte pour le calcul des frais généraux.
+
+5. Les frais financiers
+
+5.1. Les frais financiers applicables au solde cumulé du bilan régalien
 
 Lorsque le bilan annuel des missions de sûreté et de sécurité fait apparaître un solde cumulé négatif, ce solde négatif est affecté de frais financiers au bénéfice de l'exploitant, calculés comme le produit dudit solde par la moyenne sur l'année précédente des taux d'échange constants sur dix ans (TEC10) publiés quotidiennement par le Trésor ; ce taux est augmenté de 100 points de base pour les exploitants d'aérodrome ne bénéficiant ni de la garantie de l'Etat, ni de celle d'une collectivité locale, de par leur statut ou par contrat. Les frais financiers ainsi calculés sont inscrits sur les comptes de l'année et proratisés si l'exploitation de l'année est incomplète.
 
 Lorsque le bilan annuel des missions de sûreté et de sécurité fait apparaître un solde cumulé positif au bénéfice de l'exploitant, alors ce solde est affecté de frais financiers à la charge de l'exploitant, calculés selon les mêmes modalités qu'à l'alinéa précédent.
 
 En fin de concession, pour la dernière année d'exploitation, les frais financiers sont calculés sur la base du solde cumulé à la date de fin de concession et au prorata du nombre de mois d'exploitation.
+
+5.2. Le remboursement du principal et le paiement des intérêts des avances consenties par l'Etat aux exploitants d'aérodrome ou de groupement d'aérodromes touchés par la crise de la covid-19
+
+Les coûts à déclarer correspondent au remboursement du principal et aux intérêts générés.
 
 C.-Les coûts par mission
 
@@ -146,45 +152,39 @@ Les coûts à déclarer par mission sont exclusivement ceux listés ci-dessous. 
 
 1. Le service de sauvetage et de lutte contre l'incendie des aéronefs et la prévention du péril animalier
 
-Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière de service de sauvetage et de lutte contre l'incendie des aéronefs et de prévention du péril animalier.
+Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière de service de sauvetage et de lutte contre l'incendie des aéronefs et de prévention du péril animalier et correspondent au besoin strictement nécessaire à la réalisation de cette mission par l'exploitant d'aérodrome ou de groupement d'aérodromes.
 
 2. L'inspection filtrage des bagages de soute
 
-Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière d'inspection filtrage des bagages de soute.
+Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière d'inspection filtrage des bagages de soute et correspondent au besoin strictement nécessaire à la réalisation de cette mission par l'exploitant d'aérodrome ou de groupement d'aérodromes.
 
-3. Le contrôle des accès communs à la zone réservée
+3. Le contrôle des accès communs à la zone de sûreté à accès réglementé
 
-Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière de contrôle des accès communs à la zone réservée, y compris celles liées à la détection, à la protection, à la séparation et à la surveillance.
+Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière de contrôle des accès communs à la zone de sûreté à accès réglementé, y compris celles liées à la détection, à la protection, à la séparation et à la surveillance et correspondent au besoin strictement nécessaire à la réalisation de cette mission par l'exploitant d'aérodrome ou de groupement d'aérodromes.
 
 Toutefois :
 
-― les systèmes vidéo sont déclarés au prorata de leur utilisation pour la mission de sûreté et dans la mesure où ils s'accompagnent d'une réduction des charges externes concernant cette mission ;
+― les coûts de la partie des systèmes vidéo strictement nécessaire à la réalisation de cette mission par l'exploitant sont déclarés dans la mesure où ces systèmes permettent de générer des économies nettes sur cette mission ;
 
-― les coûts relatifs à la fabrication des badges et à leur délivrance aux personnes pénétrant dans la zone réservée ne sont pas inscrits dans le questionnaire ;
+― les coûts relatifs à la fabrication des badges et à leur délivrance aux personnes pénétrant dans la zone de sûreté à accès réglementé ne sont pas inscrits dans le questionnaire ;
 
-― les coûts d'installation et de maintenance des clôtures délimitant la zone publique de la zone réservée lorsqu'elles sont requises par la réglementation en matière de sûreté ou de prévention du péril animalier sont inscrits à hauteur de 50 % maximum.
+― les coûts d'installation et de maintenance des clôtures délimitant la zone publique de la zone de sûreté à accès réglementé lorsqu'elles sont requises par la réglementation en matière de sûreté ou de prévention du péril animalier sont inscrits à hauteur de 50 % maximum.
 
 4. L'inspection filtrage des passagers et des bagages de cabine
 
-Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière d'inspection filtrage des passagers et des bagages de cabine.
+Les coûts retenus sont ceux, dont la nature respecte les règles énoncées au B, qui résultent de la mise en œuvre des mesures imposées par la réglementation en matière d'inspection filtrage des passagers et des bagages de cabine et correspondent au besoin strictement nécessaire à la réalisation de cette mission par l'exploitant d'aérodrome ou de groupement d'aérodromes.
+
+Toutefois :
+
+- les coûts de l'évaluation du comportement des personnes sont déclarés dès lors que cette évaluation est réalisée lors des opérations d'enregistrement des passagers effectuées sur l'emprise de l'aérodrome, d'inspection filtrage et d'embarquement ;
+
+- les moyens humains et matériels mis en œuvre en amont du poste d'inspection filtrage aux fins de préparation des passagers à ce contrôle sont déclarés dans la mesure où ils permettent de générer des économies nettes sur cette mission.
 
 5. Les mesures des contrôles environnementaux
 
-Les coûts des mesures effectuées dans le cadre des contrôles environnementaux retenus sont les coûts, dont la nature respecte les règles énoncées au B, relatifs aux systèmes de mesures du bruit, le cas échéant corrélé avec les trajectoires des avions, ainsi qu'à la mise en œuvre de contrôles de la qualité de l'air et de l'eau.
+Les coûts des mesures effectuées dans le cadre des contrôles environnementaux retenus sont les coûts, dont la nature respecte les règles énoncées au B, relatifs aux systèmes de mesures du bruit, le cas échéant corrélé avec les trajectoires des avions, ainsi qu'à la mise en œuvre de contrôles de la qualité de l'air et de l'eau. Ils correspondent au besoin strictement nécessaire à la réalisation de cette mission par l'exploitant d'aérodrome ou de groupement d'aérodromes.
 
 Ils ne comprennent pas les coûts relatifs aux actions de communication de l'aéroport sur l'environnement.
-
-6. Le contrôle automatisé aux frontières par identification biométrique
-
-Le produit de la taxe contribue dans une proportion fixée annuellement par arrêté, au financement de systèmes de contrôle automatisé des passagers aux frontières extérieures Schengen, sauf si les coûts décrits ci-après sont à la charge des exploitants d'aéroports en application des cahiers des charges des concessions accordées par l'Etat ou des conventions passées avec l'Etat en application des dispositions de l'article L. 221-1 du code de l'aviation civile.
-
-Les coûts à porter dans le formulaire sont exclusivement les suivants :
-
-― les coûts relatifs à l'acquisition et à la mise en service des systèmes de traitement des passagers, aux matériels de contrôle de l'unicité de présence équipant ces systèmes et aux développements techniques et informatiques nécessaires à la commande et à la supervision technique de ceux-ci ;
-
-― les coûts directs d'exploitation de ces immobilisations.
-
-Les coûts ne comprennent pas les équipements de lecture biométrique pris en charge directement sur le budget général de l'Etat ni les implantations locales (installations des cloisons et câblages, raccordements aux réseaux, aménagement des salles d'enregistrement).
 
 D.-Les dispositions particulières applicables en fin de concession
 
@@ -200,6 +200,8 @@ Le nouvel exploitant bénéficie du produit de la taxe et de la majoration dans 
 
 2.1. Dispositions communes à l'ensemble des aérodromes :
 
+2.1.1. Bilan de clôture :
+
 -l'exploitant sortant établit et transmet à la DGAC un bilan du financement des missions de sécurité et de sûreté à la date de fin de la concession ; ce bilan est transmis simultanément au service local de la DGAC (DSAC IR, SAC ou SEAC) dont relève l'exploitant et à la direction du transport aérien (DTA, 50, rue Henry-Farman, 75720 Paris Cedex 15) ;
 
 -à réception de ce bilan, la DGAC (DTA) transmet à l'exploitant un accusé de réception et dispose d'un délai de six mois pour arrêter avec lui le bilan de clôture définitif ; en cas de désaccord, ce délai peut être prorogé une fois pour faciliter la recherche d'un consensus ; si aucun accord n'est trouvé à l'issue du délai éventuellement prorogé, la DGAC arrête unilatéralement le bilan de clôture ;
@@ -209,6 +211,12 @@ Le nouvel exploitant bénéficie du produit de la taxe et de la majoration dans 
 -aucun paiement d'intérêt de retard ne saurait être exigé par l'exploitant dès lors que sont respectées ces conditions ou lorsque des retards lui sont imputables, notamment en cas de défaut ou de délai prolongé de réponse aux demandes d'informations de la DGAC, ces dernières étant interruptives des délais ;
 
 -le bilan de clôture définitif est notifié à l'exploitant.
+
+2.1.2. Continuité du remboursement des avances consenties par l'Etat aux exploitants d'aérodrome ou de groupement d'aérodromes touchés par la crise de la covid-19 :
+
+Le versement de l'avance étant enregistré en produits et le remboursement du principal comme le paiement des intérêts étant enregistrés en coûts, le montant d'avance non encore remboursé à la date de fin de concession vient réduire le déficit de financement ou augmenter l'excédent de financement de l'exploitant sortant. Dès lors, le remboursement à l'Etat des annuités non encore échues est à la charge du nouvel exploitant, qui se substitue à l'exploitant sortant en signant avec l'Etat et l'exploitant sortant un avenant à la convention d'avance.
+
+L'information relative au transfert de la dette que constitue la part d'avance encore à rembourser est communiquée aux entreprises en cas de procédure de sélection d'un nouvel exploitant.
 
 2.2. Dispositions spécifiques aux aérodromes de classe 1 et 2 :
 
