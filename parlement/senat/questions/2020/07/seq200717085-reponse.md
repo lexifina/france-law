@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717085
+
+- Question : [SEQ200717085](seq200717085.md) — Conséquences de la liquidation judiciaire de la société prestataire de vote électronique Scylt
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-10-01, page 4451*
+
+Les délais de conception et de développement d'une solution informatique de vote pour une élection politique sont au minimum de 18 mois. En 2017, le vote par internet n'avait pu être mis en œuvre notamment en raison d'un délai trop contraint de développement (13 mois) qui n'avait pas permis de mettre au point une application suffisamment robuste dans un contexte de menaces cyber élevées. Un nouveau marché de fourniture d'une solution de vote par internet est en cours d'attribution pour couvrir l'élection législative de 2022. Les premiers travaux de développement de la plateforme débuteront en septembre-octobre prochain. Il ne peut être envisagé de développer dans le cadre de ce nouveau marché une nouvelle plateforme de vote pour l'élection consulaire qui aura lieu dans 10 mois. Pour cette élection, une plateforme de vote par internet a été développée à partir de septembre 2018 avec la société SCYTL, titulaire du marché attribué en mai 2016. Cette plateforme a été éprouvée lors de plusieurs tests de sécurité et de deux tests grandeur nature en 2019. Après avoir obtenu le feu vert de l'ANSSI, la plateforme a été homologuée en janvier 2020. Elle est opérationnelle et peut être mise en exploitation lors de la prochaine élection. L'équipe dédiée du ministère de l'Europe et des affaires étrangères (MEAE) continue à travailler avec SCYTL. Le MEAE suit en parallèle attentivement la procédure en cours en Espagne et est en contact avec l'administrateur judiciaire chargé du dossier pour s'assurer que tout est mis en oeuvre pour permettre la mise en oeuvre effective de la solution de vote par internet pour l'élection consulaire prévue en mai 2021.
