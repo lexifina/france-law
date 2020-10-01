@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616914
+
+- Question : [SEQ200616914](seq200616914.md) — Rôle des agents des services hospitaliers
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-10-01, page 4471*
+
+Dans le contexte de la crise sanitaire, un très fort engagement de l'ensemble des professionnels et, notamment, des agents de service hospitaliers a été indispensable dans la lutte contre l'épidémie liée au Covid-19 et la prise en charge des populations particulièrement fragiles. Afin de reconnaître pleinement la mobilisation et la participation de ces professionnels le ministre des solidarités et de la santé a annoncé le versement d'une prime exceptionnelle compensée par l'Assurance maladie pour l'ensemble des professionnels des établissements et services médico-sociaux financés ou cofinancés par l'Assurance maladie. Le versement de cette prime exceptionnelle constitue une première étape de reconnaissance de l'utilité sociale de ces professionnels. Les concertations menées dans le cadre du Ségur de la Santé ont permis d'aboutir à des accords historiques le 13 juillet 2020 de revalorisation salariale des professionnels en établissement public de santé et en établissements d'hébergement pour personnes âgées dépendantes (EHPAD). Ainsi, la rémunération des agents de service hospitalier, comme celle de l'ensemble des personnels non médicaux travaillant dans ces structures, sera revalorisée à hauteur de 183 euros nets mensuels. Si les accords conclus s'appliquent aux agents de la fonction publique hospitalière, la mesure a vocation à être transposée au secteur privé non lucratif et commercial des établissements sanitaires et EHPAD. Le Gouvernement est en effet particulièrement attaché à ce que l'ensemble des personnels concernés par cette mesure puissent bénéficier d'une telle augmentation, quelle que soit la nature de l'établissement sanitaire ou de l'EHPAD dans lequel ils exercent.
