@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314871
+
+- Question : [SEQ200314871](seq200314871.md) — Murs séparant deux propriétés
+
+## Réponse
+
+*Justice, JO du 2020-10-01, page 4456*
+
+L'article 544 du code civil définit la propriété comme le droit de jouir des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par la loi ou les règlements. En raison du caractère exclusif du droit de propriété, le propriétaire peut seul se prévaloir du droit d'user du bien, d'en recueillir les fruits et d'en disposer. En conséquence, dans le cas d'un mur séparatif de deux propriétés, qui appartient uniquement au propriétaire du fonds voisin, une quantité importante de bois ne peut y être adossée sans le consentement de ce dernier, qui dispose seul d'un droit d'usage du mur. En revanche, la mitoyenneté, régie par les articles 653 et suivants du code civil, constitue un droit de propriété dont deux personnes jouissent en commun (Cass, 3ème civ., 20 juillet 1989, pourvoi n° 88-12.883). La situation est donc différente lorsque le mur séparatif de deux fonds est mitoyen. Dans ce cas, chacun des copropriétaires a l'usage exclusif de la face du mur qui se trouve de son côté. Il en découle par exemple que chacun peut apposer contre le mur des espaliers (article 671, 3ème alinéa du code civil). Ce droit d'usage peut notamment inclure le droit d'appuyer du bois de son côté du mur mitoyen, sous réserve des dispositions de l'article 655 du code civil, qui prévoit que la réparation et la reconstruction du mur mitoyen sont à la charge de tous ceux qui y ont droit, et proportionnellement au droit de chacun. Il en résulte que le propriétaire d'un mur mitoyen doit supporter seul les frais de réparation lorsque les réparations sont rendues nécessaires par son fait (Cass, 3ème civ., 23 janvier 1991, pourvoi n° 89-16.867). Si l'amas de bois endommage le mur contre lequel il est appuyé, son auteur devra donc payer la totalité des réparations subséquentes.
