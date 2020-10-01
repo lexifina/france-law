@@ -72,6 +72,18 @@ Techniciens paramédicaux territoriaux. |
 
 Infirmières et infirmiers des services médicaux des administrations de l'Etat. |
 
+Pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale. |
+
+Assistants de service social des administrations de l'Etat (services déconcentrés).
+
+|
+
+Masseur-kinésithérapeute, psychomotricien et orthophoniste.
+
+|
+
+Assistants de service social des administrations de l'Etat (services déconcentrés). |
+
 Directeurs d'établissements territoriaux d'enseignement artistique. |
 
 Attachés d'administration de l'Etat (services déconcentrés). |

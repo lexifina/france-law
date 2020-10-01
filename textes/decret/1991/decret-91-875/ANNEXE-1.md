@@ -150,6 +150,16 @@ Techniciens paramédicaux territoriaux. |
 
 Techniciens paramédicaux civils du ministère de la défense. |
 
+Masseur-kinésithérapeute, psychomotricien et orthophoniste. |
+
+Personnels civils de rééducation et médico-techniques du ministère de la défense.
+
+|
+
+Pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale. |
+
+Personnels civils de rééducation et médico-techniques du ministère de la défense. |
+
 D.-FONCTIONS CULTURELLES
 
 FONCTION PUBLIQUE TERRITORIALE
