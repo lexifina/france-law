@@ -2,9 +2,7 @@
 
 UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI DE DROIT COMMUN
 
-Département
-
-ou collectivité |
+Département ou collectivité |
 
 Unités |
 
@@ -96,9 +94,9 @@ Communautés de brigades de Châteaudun, de Dreux et de Nogent-le-Rotrou |
 
 30-Gard |
 
-Communautés de brigades de Saint Ambroix, d'Anduze, de Pont-Saint-Esprit, d'Uzès
+Communautés de brigades de Saint Ambroix, de Pont-Saint-Esprit et d'Uzès
 
-Brigades territoriales autonomes de La Grand-Combe et de Saint-Gilles |
+Brigades territoriales autonomes de La Grand-Combe, de Saint-Gilles et d'Anduze |
 
 31-Haute-Garonne |
 
@@ -120,7 +118,7 @@ Brigades territoriales autonomes de Lunel et de Mauguio |
 
 35-Ille-et-Vilaine |
 
-Brigade territoriale autonome de Redon |
+Communauté de brigades de Redon |
 
 36-Indre |
 
@@ -286,7 +284,7 @@ Brigade territoriale autonome de Brignoles |
 
 84-Vaucluse |
 
-Communauté de brigades du Perthuis
+Communauté de brigades de Pertuis
 
 Brigades territoriales autonomes de Bollène, d'Apt, du Pontet, de l'Isle-sur-la-Sorgue, de Sorgues, de Saint Saturnin-lès-Avignon et de Valréas |
 
@@ -314,9 +312,7 @@ Brigades territoriales autonomes de Fosses, de Louvres et de Persan |
 
 971-Guadeloupe |
 
-Communauté de brigades de Saint-Matin
-
-Brigades territoriales autonomes de Baie-Mahault, de Capesterre-Belle-Eau, de Sainte-Rose, de Saint-Claude, et Le Moule |
+Brigades territoriales autonomes de Baie-Mahault, de Capesterre-Belle-Eau, de Sainte-Rose, de Saint-Claude, de Le Moule, Saint-Martin-Marigot et de Saint-Martin-Espèrance |
 
 972-Martinique |
 
@@ -330,14 +326,18 @@ Brigades territoriales autonomes de Matoury, de Macouria, de Remire-Montjoly et 
 
 974-Réunion |
 
-Communautés de brigades de Saint-Benoît, de Saint-Leu, du Tampon, de Saint-Joseph
+Communautés de brigades de Saint-Benoît, de Saint-Leu, du Tampon, de Saint-Joseph et de Saint-Paul
 
-Brigades territoriales autonomes de la Plaine-des-Cafres, de la Possession de Les Trois-Bassins, de Saint-Louis et de Saint-Paul, de Sainte-Marie et de Sainte-Suzanne |
+Brigades territoriales autonomes de la Plaine-des-Cafres, de la Possession de Les Trois-Bassins, de Saint-Louis, de Sainte-Marie et de Sainte-Suzanne |
 
 976-Mayotte |
 
-Brigades territoriales autonomes de Mamoudzou, de Koungou, de Pamandzi, de Sada, de M'tsamboro, de M'zouazia |
+Brigades territoriales autonomes de Dembéni, de Koungou, de Pamandzi, de Sada, de M'tsamboro et de M'zouazia |
 
 987-Polynésie Française |
 
 Brigades territoriales autonomes d'Arue, de Faaa, de Moorea, de Paea, de Papara et de Punaauia |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 21 septembre 2020 ( NOR : INTJ2013316A ), les présentes dispositions entrent en vigueur le premier jour du mois suivant sa parution.

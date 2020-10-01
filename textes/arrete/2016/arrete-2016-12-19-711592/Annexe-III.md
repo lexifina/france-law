@@ -2,15 +2,11 @@
 
 UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI DÉCONCENTRÉE PRÉFET
 
-Département
-
-ou collectivité |
+Département ou collectivité |
 
 Unités |
 
-Nombre total de points
-
-par départements ou collectivités |
+Nombre total de points par départements ou collectivités |
 
 01-Ain |
 
@@ -238,7 +234,7 @@ Brigade de prévention de la délinquance juvénile de Pithiviers |
 
 51-Marne |
 
-Peloton de surveillance de la délinquance juvénile de Vitry-le-François
+Peloton de surveillance et d'intervention de la gendarmerie de Vitry-le-François
 
 Brigade de recherches de Vitry-le-François
 
@@ -304,9 +300,7 @@ Communauté de brigades d'Aigle |
 
 62-Pas-de-Calais |
 
-Brigades territoriales autonomes d'Hersin-Coupigny, de Neufchâtel-Hardelot
-
-Pelotons de surveillance et d'intervention de la gendarmerie d'Ecuires, de Boulogne-sur-Mer et de Marck |
+Communauté de brigades de Marconne et de Saint-Pol-sur-Ternoise |
 
 970 |
 
@@ -514,16 +508,6 @@ Peloton de surveillance et d'intervention de la gendarmerie de Kourou |
 
 340 |
 
-974-La Réunion |
+NOTA :
 
-Brigades territoriales autonomes de La Saline et de Plateau-Caillou
-
-Pelotons de surveillance et d'intervention de la gendarmerie de Saint-Pierre, de Saint-Paul et de Saint-benoît
-
-Brigades de recherches de Saint-Pierre, de Saint-Paul et de Saint-benoît
-
-Section de recherches de Saint-Denis
-
-Brigade de prévention et de délinquance juvénile de Saint-Denis |
-
-1900 |
+Conformément à l'article 3 de l'arrêté du 21 septembre 2020 ( NOR : INTJ2013316A ), les présentes dispositions entrent en vigueur le premier jour du mois suivant sa parution.
