@@ -1,140 +1,70 @@
 # Article Annexe XIV
 
-EMOLUMENTS DES PRATICIENS EXERCANT LEUR ACTIVITE A TEMPS PARTIEL
+ÉMOLUMENTS DES PRATICIENS EXERCANT LEUR ACTIVITÉ  À TEMPS PARTIEL
 
 Articles R. 6152-201 à R. 6152-277 du code de la santé publique
 
-Mesures permanentes
+PERSONNELS CONCERNES |
 
-PERSONNELS CONCERNES
+Montants au
 
-|
-
-Montants
-
-au 1er février 2017
+1er octobre 2020
 
 (en euros)
 
 |
 
-I - Emoluments hospitaliers correspondant à un service normal hebdomadaire égal à six demi-journées (montants bruts annuels)
+I-Emoluments hospitaliers correspondant à un service normal hebdomadaire égal à six demi-journées (montants bruts annuels) |
 
 |
 
-|
+10e échelon |
 
-13e échelon
+54 005,94 |
 
-|
+9e échelon |
 
-54 005,94
+51 716,50 |
 
-|
+8e échelon |
 
-12e échelon
+45 490,14 |
 
-|
+7e échelon |
 
-51 716,50
+43 672,88 |
 
-|
+6e échelon |
 
-11e échelon
+40 644,15 |
 
-|
+5e échelon |
 
-45 490,14
+39 230,79 |
 
-|
+4e échelon |
 
-10e échelon
+38 019,34 |
 
-|
+3e échelon |
 
-43 672,88
+35 495,44 |
 
-|
+2e échelon |
 
-9e échelon
+33 173,35 |
 
-|
+1er échelon |
 
-40 644,15
+31 760,00 |
 
-|
-
-8e échelon
+II-Indemnité d'engagement de service public exclusif correspondant à un service normal hebdomadaire égal à six demi-journées (montant brut mensuel) |
 
 |
 
-39 230,79
+Indemnité mentionnée à l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique
 
 |
-
-7e échelon
-
-|
-
-38 019,34
-
-|
-
-6e échelon
-
-|
-
-35 495,44
-
-|
-
-5e échelon
-
-|
-
-33 173,35
-
-|
-
-4e échelon
-
-|
-
-31 760,00
-
-|
-
-3e échelon
-
-|
-
-30 952,41
-
-|
-
-2e échelon
-
-|
-
-30 245,58
-
-|
-
-1er échelon
-
-|
-
-29 740,86
-
-|
-
-II - Indemnité d'engagement de service public exclusif correspondant à un service normal hebdomadaire égal à six demi-journées (montant brut mensuel)
-
-|
-
-|
-
-Indemnité mentionnée à l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l' article D. 6152-220-1 du code de la santé publique |
 
 |
 
@@ -144,20 +74,18 @@ Du 1er septembre 2020 au 28 février 2021 |
 
 A compter du 1er mars 2021 |
 
-606 |
-
-III - Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
+606
 
 |
 
-420,86
+III-Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel) |
 
-|
+420,86 |
 
-IV - Indemnité d'activité sectorielle et de liaison (montant brut mensuel)
+IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
-|
+420,86 |
 
-420,86
+NOTA :
 
-|
+Conformément à l'article 4 de l'arrêté du 1er octobre 2020 (NOR : SSAH2026436A), ces dispositions entrent en vigueur le 1er octobre 2020.

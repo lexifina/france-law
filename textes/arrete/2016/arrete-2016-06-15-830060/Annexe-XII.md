@@ -1,136 +1,64 @@
 # Article Annexe XII
 
-EMOLUMENTS DES PRATICIENS HOSPITALIERS
+ÉMOLUMENTS DES PRATICIENS HOSPITALIERS
 
-Articles R. 6152-1 à R. 6152-99 du code de la santé publique
+Articles R. 6152-1 à R. 6152-98 du code de la santé publique
 
-Mesures permanentes
+PERSONNELS CONCERNES |
 
-PERSONNELS CONCERNES
+Montants au
 
-|
-
-Montants
-
-au 1er février 2017
+1er octobre 2020
 
 (en euros)
 
 |
 
-I - Emoluments hospitaliers (montants bruts annuels)
+I-Emoluments hospitaliers (montants bruts annuels) |
 
 |
 
-|
+10e échelon |
 
-13e échelon
+90 009,89 |
 
-|
+9e échelon |
 
-90 009,89
+86 194,18 |
 
-|
+8e échelon |
 
-12e échelon
+75 816,89 |
 
-|
+7e échelon |
 
-86 194,18
+72 788,12 |
 
-|
+6e échelon |
 
-11e échelon
+67 740,25 |
 
-|
+5e échelon |
 
-75 816,89
+65 384,65 |
 
-|
+4e échelon |
 
-10e échelon
+63 365,55 |
 
-|
+3e échelon |
 
-72 788,12
+59 159,06 |
 
-|
+2e échelon |
 
-9e échelon
+55 288,94 |
 
-|
+1er échelon |
 
-67 740,25
+52 933,33 |
 
-|
-
-8e échelon
-
-|
-
-65 384,65
-
-|
-
-7e échelon
-
-|
-
-63 365,55
-
-|
-
-6e échelon
-
-|
-
-59 159,06
-
-|
-
-5e échelon
-
-|
-
-55 288,94
-
-|
-
-4e échelon
-
-|
-
-52 933,33
-
-|
-
-3e échelon
-
-|
-
-51 587,36
-
-|
-
-2e échelon
-
-|
-
-50 409,31
-
-|
-
-1er échelon
-
-|
-
-49 568,10
-
-|
-
-II - Indemnité d'engagement de service public exclusif (montant brut mensuel)
-
-|
+II-Indemnité d'engagement de service public exclusif (montant brut mensuel) |
 
 |
 
@@ -138,30 +66,24 @@ Indemnité mentionnée à l'article 1er de l'arrêté du 8 juin 2000 modifié re
 
 |
 
-Du 1er septembre 2020 au 28 février 2021
-
-|
+Du 1er septembre 2020 au 28 février 2021 |
 
 700 |
 
-A compter du 1er mars 2021
+A compter du 1er mars 2021 |
+
+1010
 
 |
 
-1010 |
+III-Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel) |
 
-III - Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
+420,86 |
 
-|
+IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
-420,86
+420,86 |
 
-|
+NOTA :
 
-IV - Indemnité d'activité sectorielle et de liaison (montant brut mensuel)
-
-|
-
-420,86
-
-|
+Conformément à l'article 4 de l'arrêté du 1er octobre 2020 (NOR : SSAH2026436A), ces dispositions entrent en vigueur le 1er octobre 2020.

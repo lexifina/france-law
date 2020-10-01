@@ -134,73 +134,9 @@ Avant 3 ans
 
 |
 
-C. Praticiens hospitaliers - universitaires (montants bruts annuels)
+C. (Abrogé)
 
 |
-
-|
-
-8e échelon
-
-|
-
-32 497,36
-
-|
-
-7e échelon
-
-|
-
-31 493,81
-
-|
-
-6e échelon
-
-|
-
-29 403,13
-
-|
-
-5e échelon
-
-|
-
-27 479,61
-
-|
-
-4e échelon
-
-|
-
-26 308,80
-
-|
-
-3e échelon
-
-|
-
-25 639,83
-
-|
-
-2e échelon
-
-|
-
-25 054,33
-
-|
-
-1er échelon
-
-|
-
-24 636,23
 
 |
 
@@ -249,3 +185,7 @@ IV - Indemnité d'activité sectorielle et de liaison pour A, B, C et D (montant
 418,35
 
 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 1er octobre 2020 (NOR : SSAH2026436A), ces dispositions entrent en vigueur le 1er octobre 2020.
