@@ -68,10 +68,6 @@ Stations-service
 
 Enregistrement sonore et édition musicale
 
-Post-production de films cinématographiques, de vidéo et de programmes de télévision
-
-Distribution de films cinématographiques
-
 Editeurs de livres
 
 Prestation/ location de chapiteaux, tentes, structures, sonorisation, lumière et pyrotechnie
