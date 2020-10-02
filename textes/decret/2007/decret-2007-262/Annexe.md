@@ -42,7 +42,7 @@ h) 11,10 % à compter de l'année 2022.
 
 Article 4
 
-Le capital constitué par le portefeuille de la caisse de réserve ne peut faire l'objet d'aucun prélèvement pour assurer le service des pensions sans l'autorisation préalable du conseil général. Cette autorisation ne peut être donnée que si les engagements de retraite pris par la Banque sont intégralement couverts. Sa durée ne peut avoir une validité d'une durée supérieure à un an.
+Le capital constitué par le portefeuille de la caisse de réserve ne peut faire l'objet d'aucun prélèvement pour assurer le service des pensions sans l'autorisation préalable du conseil général. Cette autorisation peut être donnée pour le service de l'exercice suivant dans la mesure où, au moment du vote par le conseil général du budget afférent, les engagements de retraite pris par la Banque sont intégralement couverts ou le sont compte dûment tenu de la distribution à venir du résultat.
 
 Article 5
 
@@ -890,337 +890,225 @@ Jusqu'au 2e semestre 1948
 
 |
 
-Sans objet
+Sans objet |
 
-|
-
-Sans objet
-
-|
+Sans objet |
 
 1er semestre 1949
 
 |
 
-0,125 %
+0,125 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1949
 
 |
 
-0,125 %
+0,125 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1950
 
 |
 
-0,250 %
+0,250 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1950
 
 |
 
-0,250 %
+0,250 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1951
 
 |
 
-0,375 %
+0,375 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1951
 
 |
 
-0,375 %
+0,375 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1952
 
 |
 
-0,500 %
+0,500 % |
 
-|
-
-Lim. âge - 4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 2e semestre 1952
 
 |
 
-0,500 %
+0,500 % |
 
-|
-
-Lim. âge - 4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 1er semestre 1953
 
 |
 
-0,625 %
+0,625 % |
 
-|
-
-Lim. âge - 5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 2e semestre 1953
 
 |
 
-0,625 %
+0,625 % |
 
-|
-
-Lim. âge - 5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 1er semestre 1954
 
 |
 
-0,750 %
+0,750 % |
 
-|
-
-Lim. âge - 6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 2e semestre 1954
 
 |
 
-0,750 %
+0,750 % |
 
-|
-
-Lim. âge - 6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 1er semestre 1955
 
 |
 
-0,875 %
+0,875 % |
 
-|
-
-Lim. âge - 7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 2e semestre 1955
 
 |
 
-0,875 %
+0,875 % |
 
-|
-
-Lim. âge - 7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 1er semestre 1956
 
 |
 
-1,000 %
+1,000 % |
 
-|
-
-Lim. âge - 7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 2e semestre 1956
 
 |
 
-1,000 %
+1,000 % |
 
-|
-
-Lim. âge - 6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 1er semestre 1957
 
 |
 
-1,125 %
+1,125 % |
 
-|
-
-Lim. âge - 6 trimestres
-
-|
+Lim. âge - 6 trimestres |
 
 2e semestre 1957
 
 |
 
-1,125 %
+1,125 % |
 
-|
-
-Lim. âge - 5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 1er semestre 1958
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 5 trimestres
-
-|
+Lim. âge - 5 trimestres |
 
 2e semestre 1958
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 1er semestre 1959
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 4 trimestres
-
-|
+Lim. âge - 4 trimestres |
 
 2e semestre 1959
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 1er semestre 1960
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 3 trimestres
-
-|
+Lim. âge - 3 trimestres |
 
 2e semestre 1960
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 2 trimestres
-
-|
+Lim. âge - 2 trimestres |
 
 1er semestre 1961
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 2 trimestres
-
-|
+Lim. âge - 2 trimestres |
 
 2e semestre 1961
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 1 trimestre
-
-|
+Lim. âge - 1 trimestre |
 
 1er semestre 1962
 
 |
 
-1,250 %
+1,250 % |
 
-|
-
-Lim. âge - 1 trimestre
-
-|
+Lim. âge - 1 trimestre |
 
 Par dérogation aux dispositions du 1° de l'article 32, pour les personnels de direction à partir du quatrième degré nés avant le 1er janvier 1956, l'âge auquel s'annule le coefficient de minoration, exprimé par rapport à la limite d'âge, est fixé comme indiqué dans le tableau suivant :
 
@@ -1250,241 +1138,151 @@ Jusqu'au 2e semestre 1948
 
 |
 
-Sans objet
+Sans objet |
 
-|
+Sans objet |
 
-Sans objet
-
-|
-
-Sans objet
-
-|
+Sans objet |
 
 1er semestre 1949
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 15 trimestres |
 
-Lim. âge - 15 trimestres
-
-|
-
-Lim. âge - 16 trimestres
-
-|
+Lim. âge - 16 trimestres |
 
 2e semestre 1949
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 15 trimestres |
 
-Lim. âge - 15 trimestres
-
-|
-
-Lim. âge - 15 trimestres
-
-|
+Lim. âge - 15 trimestres |
 
 1er semestre 1950
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 14 trimestres |
 
-Lim. âge - 14 trimestres
-
-|
-
-Lim. âge - 14 trimestres
-
-|
+Lim. âge - 14 trimestres |
 
 2e semestre 1950
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 13 trimestres |
 
-Lim. âge - 13 trimestres
-
-|
-
-Lim. âge - 13 trimestres
-
-|
+Lim. âge - 13 trimestres |
 
 1er semestre 1951
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 12 trimestres |
 
-Lim. âge - 12 trimestres
-
-|
-
-Lim. âge - 12 trimestres
-
-|
+Lim. âge - 12 trimestres |
 
 2e semestre 1951
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 11 trimestres |
 
-Lim. âge - 11 trimestres
-
-|
-
-Lim. âge - 11 trimestres
-
-|
+Lim. âge - 11 trimestres |
 
 1er semestre 1952
 
 |
 
-Lim. âge - 8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 11 trimestres |
 
-Lim. âge - 11 trimestres
-
-|
-
-Lim. âge - 11 trimestres
-
-|
+Lim. âge - 11 trimestres |
 
 2e semestre 1952
 
 |
 
-Lim. âge - 8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 10 trimestres |
 
-Lim. âge - 10 trimestres
-
-|
-
-Lim. âge - 10 trimestres
-
-|
+Lim. âge - 10 trimestres |
 
 1er semestre 1953
 
 |
 
-Lim. âge - 9 trimestres
+Lim. âge - 9 trimestres |
 
-|
+Lim. âge - 10 trimestres |
 
-Lim. âge - 10 trimestres
-
-|
-
-Lim. âge - 10 trimestres
-
-|
+Lim. âge - 10 trimestres |
 
 2e semestre 1953
 
 |
 
-Lim. âge - 9 trimestres
+Lim. âge - 9 trimestres |
 
-|
+Lim. âge - 9 trimestres |
 
-Lim. âge - 9 trimestres
-
-|
-
-Lim. âge - 9 trimestres
-
-|
+Lim. âge - 9 trimestres |
 
 1er semestre 1954
 
 |
 
-Lim. âge - 9 trimestres
+Lim. âge - 9 trimestres |
 
-|
+Lim. âge - 9 trimestres |
 
-Lim. âge - 9 trimestres
-
-|
-
-Lim. âge - 9 trimestres
-
-|
+Lim. âge - 9 trimestres |
 
 2e semestre 1954
 
 |
 
-Lim. âge - 8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 8 trimestres |
 
-Lim. âge - 8 trimestres
-
-|
-
-Lim. âge - 8 trimestres
-
-|
+Lim. âge - 8 trimestres |
 
 1er semestre 1955
 
 |
 
-Lim. âge - 8 trimestres
+Lim. âge - 8 trimestres |
 
-|
+Lim. âge - 8 trimestres |
 
-Lim. âge - 8 trimestres
-
-|
-
-Lim. âge - 8 trimestres
-
-|
+Lim. âge - 8 trimestres |
 
 2e semestre 1955
 
 |
 
-Lim. âge - 7 trimestres
+Lim. âge - 7 trimestres |
 
-|
+Lim. âge - 7 trimestres |
 
-Lim. âge - 7 trimestres
-
-|
-
-Lim. âge - 7 trimestres
-
-|
+Lim. âge - 7 trimestres |
 
 Pour les agents appartenant à une des catégories visées au quatrième alinéa de l'article 26, l'âge visé au 2° est minoré de 20 trimestres.
 
@@ -1808,45 +1606,25 @@ de l'article 34
 
 |
 
-2016
+2016 |
 
-|
+9 trimestres |
 
-9 trimestres
+2017 |
 
-|
+7 trimestres |
 
-2017
+2018 |
 
-|
+5 trimestres |
 
-7 trimestres
+2019 |
 
-|
+3 trimestres |
 
-2018
+2020 |
 
-|
-
-5 trimestres
-
-|
-
-2019
-
-|
-
-3 trimestres
-
-|
-
-2020
-
-|
-
-1 trimestre
-
-|
+1 trimestre |
 
 NOTA :
 
