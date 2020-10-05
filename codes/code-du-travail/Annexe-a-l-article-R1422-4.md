@@ -458,11 +458,11 @@ Strasbourg |
 
 Haguenau |
 
-Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden et Truchtersheim. |
+Ressort de la chambre de proximité de Haguenau, à l'exception des cantons de Brumath, Hochfelden (à l'exception de la partie de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim. |
 
 Schiltigheim |
 
-Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden et Truchtersheim. |
+Ressort de la chambre de proximité de Schiltigheim et cantons de Brumath, Hochfelden (à l'exception de la partie de la commune de Val-de-Moder correspondant à l'ancienne commune de Ringeldorf) et Truchtersheim. |
 
 Strasbourg |
 
@@ -1146,13 +1146,13 @@ Châlons-en-Champagne |
 
 Châlons-en-Champagne |
 
-Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. |
+Ressort du tribunal judiciaire de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et à l'exception de la partie de la commune de Blancs-Coteaux correspondant aux anciennes communes de Vertus et de Voipreux. |
 
 |
 
 Epernay |
 
-Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne. |
+Cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne et commune de Blancs-Coteaux. |
 
 Reims |
 
@@ -1304,7 +1304,7 @@ Evreux |
 
 Bernay |
 
-Ressort de la chambre de proximité de Bernay. |
+Ressort de la chambre de proximité de Bernay et commune des Monts du Roumois |
 
 |
 
@@ -1316,7 +1316,7 @@ Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chamb
 
 Louviers |
 
-Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. |
+Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne (à l'exception de la partie de la commune des Monts du Roumois correspondant à l'ancienne commune de Houlbec-près-le-Gros-Theil), Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. |
 
 Seine-Maritime |
 
