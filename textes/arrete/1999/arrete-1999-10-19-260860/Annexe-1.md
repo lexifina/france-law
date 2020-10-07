@@ -46,38 +46,34 @@ Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créne
 
 Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement d'un ou des deux nombres maximaux, le coordonnateur, en liaison avec le Groupe ADP, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
 
-A compter de la saison aéronautique d'été 2020
+A compter de la saison aéronautique d'été 2021 :
 
 Terminal |
 
-Nombre maximal de passagers
+Nombre maximal
 
-par 20 min au départ |
+de passagers par 20 min au départ |
 
-Nombre maximal de passagers
+Nombre maximal
 
-par 120 min au départ |
+de passagers par 120 min au départ |
 
 Orly 1 |
 
-1400 |
+1 400 |
 
-4700 |
+8 700 |
 
 Orly 2 |
 
 550 |
 
-1800 |
-
 Orly 3 |
 
-1500 |
-
-4300 |
+1 500 |
 
 Orly 4 |
 
-1100 |
+1 100 |
 
-3400 |
+3 400 |
