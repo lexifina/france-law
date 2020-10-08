@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200515953
+
+- Question : [SEQ200515953](seq200515953.md) — Conditions d'allègement de la formation initiale des policiers municipaux
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-10-08, page 4588*
+
+L'article 60 de la loi n° 2019-828 du 8 août 2019 de transformation de la fonction publique a inséré dans le code de la sécurité intérieure un nouvel article L. 511-7, qui dispose que les agents nommés au sein des cadres d'emplois de la police municipale pourront être dispensés de tout ou partie de la formation d'intégration et de professionnalisation compte tenu de leurs expériences professionnelles antérieures. Les modalités de ce régime de dispense, qui vise les agents issus des forces de sécurité intérieure, doivent effectivement être définies par voie réglementaire. Le Gouvernement a donc engagé une concertation avec l'ensemble des acteurs concernés qui a conduit à l'élaboration de deux projets de décrets. Ces projets de textes modifient les décrets pris en Conseil d'État portant statut particulier des trois cadres d'emplois de la police municipale, qui fixent notamment la durée des formations initiales, et les décrets simples relatifs au contenu de ces formations.Le régime de dispense prévu par ces textes permettra de réduire sensiblement la durée de formation initiale des policiers et gendarmes accueillis en détachement dans les cadres d'emplois de la police municipale. Ces projets ont recueilli l'avis du Conseil supérieur de la fonction publique territoriale le 1er juillet et celui du Conseil national d'évaluation des normes le 9 juillet 2020. Le projet de décret modifiant les décrets statutaires doit par ailleurs être examiné par le Conseil d'État. Le Gouvernement poursuit l'objectif d'une publication conjointe de ces textes trés prochainement afin que le dispositif s'applique dès 2020.
