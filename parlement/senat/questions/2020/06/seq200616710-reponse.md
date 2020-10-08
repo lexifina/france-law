@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616710
+
+- Question : [SEQ200616710](seq200616710.md) — Installation des exécutifs des syndicats mixtes et des associations
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-10-08, page 4590*
+
+Concernant le fonctionnement des instances des syndicats mixtes fermés, l'article L. 5211-8 du code général des collectivités territoriales (CGCT), applicable par renvoi de l'article L. 5711-1 du même code, prévoit en son alinéa 2 que « Après le renouvellement général des conseils municipaux, l'organe délibérant de l'établissement public de coopération intercommunale se réunit au plus tard le vendredi de la quatrième semaine qui suit l'élection des maires. ». Or, durant l'état d'urgence sanitaire et jusqu'à l'installation des nouveaux organes délibérants des syndicats, à l'issue du renouvellement général des communes et des EPCI membres, l'exécutif du syndicat reste en place, en application de l'article 19 de la loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de covid-19, tant que les organes délibérants de ses membres n'ont pas désigné de nouveaux représentants. L'article 4 de la loi n° 2020-760 du 22 juin 2020 tendant à sécuriser l'organisation du second tour des élections municipales et communautaires de juin 2020 et à reporter les élections consulaires, a fixé quant à elle, la date limite d'installation du nouvel organe délibérant et d'élection du nouvel exécutif des syndicats mixtes fermés au 25 septembre 2020. Cette disposition vaut pour les syndicats mixtes fermés comprenant, parmi leurs adhérents, au moins une commune ayant besoin d'un second tour ou au moins un EPCI dont une des communes membres a besoin d'un second tour. Ce dispositif dérogatoire à l'article L. 5711-1 du CGCT à permis d'éviter, à tout le moins, la réunion de comités syndicaux pendant la période estivale.
