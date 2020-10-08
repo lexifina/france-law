@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213419
+
+- Question : [SEQ191213419](seq191213419.md) — Dépistage du virus de l'immunodéficience humaine
+
+## Réponse
+
+*Solidarités et santé, JO du 2020-10-08, page 4613*
+
+La lutte contre le VIH/Sida demeure au coeur des préoccupations du ministère des solidarités et de la santé notamment au niveau national, tout en contribuant à la mobilisation internationale depuis plusieurs années. La Stratégie nationale de santé sexuelle 2017-2030 (SNSS) porte ainsi cette ambition notamment de diversifier davantage les axes de prévention et de dépistage des infections sexuellement transmissibles (IST) dont le Virus de l'immunodéficience humaine (VIH), pour permettre, entre autres, d'atteindre les objectifs des « 3 x 95 » en 2020, d'éliminer les épidémies d'IST et notamment de mettre fin à l'épidémie du sida d'ici 2030. La première feuille de route 2018-2020 qui décline cette SNSS est venue préciser les actions prioritaires. Dans le champ de la prévention et du dépistage sont ainsi portées : des campagnes annuelles régionales de dépistage des IST, une expérimentation d'un Pass préservatif « l'application TUMEPLAY « pour les moins de 25 ans, une expérimentation de 4 centres de santé sexuelle d'approche communautaire, le renforcement de l'offre en santé sexuelle et reproductive pour les jeunes d'outre-mer, le déploiement de la prophylaxie préexposition au VIH (PrEP) en Centres gratuits d'information, de dépistage et de diagnostic (CeGIDD) et chez les médecins généralistes. En termes de structures qui permettent l'accès aux dépistages, il convient de rappeler qu'il existe en France une large offre : les systèmes de soins publics et privés, la médecine libérale, les laboratoires d'analyses médicales, les CeGIDD, les associations habilitées à réaliser des tests rapides d'orientation diagnostique pour le VIH et l'hépatite C, ou encore les autotests VIH.
