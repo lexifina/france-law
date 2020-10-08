@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711560
+
+- Question : [SEQ190711560](seq190711560.md) — Qualifications exigées pour pratiquer le maquillage permanent ou semi-permanent
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-10-08, page 4598*
+
+L'article 16 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat soumet à une exigence de qualification professionnelle certaines activités, limitativement énumérées, susceptibles de présenter des risques pour la santé et la sécurité des personnes. Parmi les activités soumises à cette obligation de qualification figurent « les soins esthétiques à la personne autres que médicaux et paramédicaux ». Relèvent donc du champ de cette obligation les prestations qui, d'une part, constituent des soins autres que médicaux et paramédicaux et qui, d'autre part, ont une visée esthétique. Le maquillage permanent et le maquillage semi-permanent consistent à injecter des pigments dans le derme superficiel pour redessiner le contour des lèvres ou des sourcils notamment. Si la visée esthétique de ces techniques est manifeste, elles ne constituent pas pour autant des soins. Un soin de beauté ou esthétique est en effet destiné à conserver ou améliorer l'état du corps ou de la peau, ce qui n'est pas le cas du maquillage permanent ou semi-permanent. Ces activités ne sont donc pas soumises à l'obligation de qualification prévue par la loi du 5 juillet 1996. Le maquillage permanent et le maquillage semi-permanent relèvent en revanche des règles fixées par le code de la santé publique, qui « s'appliquent à la mise en œuvre des techniques de tatouage par effraction cutanée, y compris la technique du maquillage permanent » et comprennent notamment une obligation de formation aux conditions d'hygiène et de salubrité (articles R. 1311-1 et suivants du code de la santé publique).
