@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Garantie d’emprunt communale à l’Office Public de l’Habitat Seine Ouest Habitat pour financer l’acquisition de 19 logements PLI (prêt locatif intermédiaire)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-10-08
+- Matière : FINANCES
+- Objet : Garantie d’emprunt communale à l’Office Public de l’Habitat Seine Ouest Habitat pour financer l’acquisition de 19 logements PLI (prêt locatif intermédiaire)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5MzEsInB1ciI6ImJsb2JfaWQifX0=--3685307ca5036d8a87359e0922160e3aaf605fd2/081020_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
