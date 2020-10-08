@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la convention relative à l’astreinte hivernale entre la Ville d’Issy-les-Moulineaux et l’Etablissement Public Territorial Grand Paris Seine Ouest
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-10-08
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation de la convention relative à l’astreinte hivernale entre la Ville d’Issy-les-Moulineaux et l’Etablissement Public Territorial Grand Paris Seine Ouest
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NDAsInB1ciI6ImJsb2JfaWQifX0=--15d177b95f4ee9732833d93a7c58dc6c54dd69f3/081020_38.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
