@@ -176,13 +176,17 @@ La réalisation du dépistage implique différentes étapes :
 
 A.-L'information préalable de la population cible par lettre d'invitation individuelle
 
-Les personnes de la tranche d'âge cible du dépistage sont personnellement invitées par la structure en charge de la gestion du dépistage à retirer le kit de dépistage chez leur médecin lors d'une consultation. Un modèle national, normé, de lettre d'invitation est fourni par l'INCa. La lettre d'invitation peut être adaptée localement de façon à prendre en compte des modalités complémentaires de remise de kits de dépistage dans le cadre d'expérimentations.
+Les personnes de la tranche d'âge cible du dépistage sont personnellement invitées par la structure en charge de la gestion du dépistage à retirer le kit de dépistage chez leur médecin lors d'une consultation ou à commander directement le kit en ligne. Un modèle national, normé, de lettre d'invitation est fourni par l'INCa. La lettre d'invitation peut être adaptée localement de façon à prendre en compte des modalités complémentaires de remise de kits de dépistage dans le cadre d'expérimentations.
 
 La lettre d'invitation doit au minimum comprendre :
 
 -la civilité, le nom de naissance, le nom d'usage, le ou les prénom (s), la date de naissance, le sexe, l'adresse complète de la personne dépistée ;
 
 -un emplacement permettant d'informer la structure en charge de la gestion du dépistage, des motifs d'inéligibilité médicale ou du refus de participer au programme, à remplir par le médecin et/ ou la personne dépistée. Les motifs d'inéligibilité médicale relatifs à sa situation ou les motifs de son refus sont cochés dans la lettre d'invitation qui est retournée à la structure en charge de la gestion du dépistage. Les refus mentionnés oralement (par téléphone ou oralement auprès du médecin) doivent être, autant que possible, confirmés par un document écrit comprenant : nom, prénom, date et signature de la personne dépistée. Ce refus est enregistré par la structure en charge de la gestion du dépistage et un courrier spécifique mentionnant les conséquences possibles de ce refus est adressé à la personne dépistée ;
+
+- les différentes modalités pour obtenir le kit de dépistage (remis par le professionnel de santé, réception suite à une commande en ligne) ;
+
+- l'adresse du site de commande en ligne du kit ;
 
 -la mention de la Commission nationale de l'informatique et des libertés-CNIL (loi n° 78-17 du 6 janvier 1978) concernant le droit d'accès et de rectification des informations personnelles contenues dans le fichier de la structure en charge de la gestion du dépistage.
 
@@ -204,6 +208,8 @@ La remise du kit à la personne peut être effectuée par son médecin traitant,
 
 Cette remise ne donne pas lieu à une consultation spécifique mais est effectuée dans le cadre des consultations classiques.
 
+La remise du kit à la personne peut également être effectuée par envoi postal suite à une commande en ligne sur invitation.
+
 2) Rôle du médecin :
 
 Le médecin évalue le niveau de risque de son patient en fonction de son histoire personnelle et familiale et remet un kit à toute personne de la tranche d'âge cible du dépistage organisé du cancer colorectal de sa patientèle ne présentant pas de motif d'inéligibilité pour le programme de dépistage.
@@ -219,6 +225,8 @@ C.-L'envoi de relance (s)
 Les modèles de courriers de relances définis par l'INCa, comportent des explications sur les avantages et les inconvénients du dépistage et un coupon réponse permettant à la structure en charge de la gestion du dépistage d'enregistrer les éventuels motifs d'inéligibilité, ou bien le refus.
 
 Au maximum cinq mois après la première invitation et en l'absence de refus documenté ou d'information sur l'inéligibilité de la personne dépistée, un premier courrier de relance est adressé aux personnes qui n'ont pas encore réalisé l'examen de dépistage.
+
+Dans l'hypothèse d'une commande en ligne de kit, un rappel incitant les personnes à utiliser le kit commandé mais non renvoyé dans le mois suivant la commande sera adressé par le site de commande en ligne sous format dématérialisé (sms ou courriel) sous réserve qu'elles l'aient expressément autorisé lors de la commande en ligne.
 
 Neuf à dix mois après la première invitation (sans dépasser un délai de 12 mois), un second courrier de relance est envoyé aux personnes qui :
 
@@ -238,13 +246,15 @@ V. − Approvisionnement en kits de dépistage
 
 L'approvisionnement en kits de dépistage est assuré par un prestataire unique sélectionné dans le cadre du programme de dépistage national.
 
-Deux modes de commandes et d'acheminements des kits de dépistage sont prévus :
+Trois modes de commandes et d'acheminements des kits de dépistage sont prévus :
 
 -les médecins disposant d'un code d'accès peuvent commander directement les kits de dépistage via un formulaire en ligne via l'espace professionnel AMELI ;
 
--les structures en charge de la gestion du dépistage organisé du cancer colorectal peuvent commander les kits de dépistage suivant les modalités prévues entre la CNAM et le prestataire responsable de la livraison des kits. Les structures en charge de la gestion du dépistage sont chargées d'approvisionner les médecins ne recourant pas à la commande directe à l'assurance maladie ou n'y ayant pas accès, ainsi que les professionnels de santé impliqués dans des modalités complémentaires.
+-les structures en charge de la gestion du dépistage organisé du cancer colorectal peuvent commander les kits de dépistage suivant les modalités prévues entre la CNAM et le prestataire responsable de la livraison des kits. Les structures en charge de la gestion du dépistage sont chargées d'approvisionner les médecins ne recourant pas à la commande directe à l'assurance maladie ou n'y ayant pas accès, ainsi que les professionnels de santé impliqués dans des modalités complémentaires ;
 
-VI.-Analyse du prélèvement et lecture des prélèvements biologiques
+- la personne éligible peut recevoir le kit suite à une commande en ligne.
+
+VI. - Analyse du prélèvement et lecture des prélèvements biologiques
 
 Les laboratoires de biologie médicale vérifient, avant de réaliser la phase analytique, la tranche d'âge d'éligibilité, l'intégrité du prélèvement, la date de péremption du kit de dépistage, la date du prélèvement, l'identification du prélèvement et sa correspondance avec la fiche d'identification.
 
