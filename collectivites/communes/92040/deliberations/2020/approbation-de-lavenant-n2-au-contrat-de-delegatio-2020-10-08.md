@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de l’avenant n°2 au contrat de délégation du service public n°DSP1602 pour la restauration collective scolaire et des centres de loisirs
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-10-08
+- Matière : EDUCATION
+- Objet : Approbation de l’avenant n°2 au contrat de délégation du service public n°DSP1602 pour la restauration collective scolaire et des centres de loisirs
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwMzIsInB1ciI6ImJsb2JfaWQifX0=--94b57e1d45014eeb65a624415cc7cf5a4c833fed/081020_34.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
