@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717057
+
+- Question : [SEQ200717057](seq200717057.md) — Délégation de signature du maire à une secrétaire de mairie contractuelle
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-10-08, page 4593*
+
+L'article L. 2122-19 du code général des collectivités territoriales (CGCT) prévoit que « Le maire peut donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature : (…) 3° Aux responsables de services communaux. ». La qualité de responsable de service peut ainsi être reconnue aux agents qui occupent effectivement des fonctions de chef de service, de directeur ou de chef de bureau mais aussi à ceux qui sont chargés de missions impliquant une réelle autonomie de décision, des fonctions d'encadrement et un certain niveau de responsabilités. Eu égard aux dispositions qui précèdent, introduites par la loi n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allégement des procédures, afin d'assouplir les conditions d'attribution des délégations de signature dans les communes, il semble que l'agent occupant les fonctions de secrétaire de mairie dans une commune qui ne comprend qu'un seul emploi administratif puisse être regardé comme un « responsable » de service. De plus, l'article L. 2122-19 du CGCT ne pose pas de conditions quant au statut des agents bénéficiaires de la délégation de signature du maire. Un agent contractuel qui occupe les fonctions de secrétaire de mairie peut donc se voir confier une délégation de signature en vertu de l'article L. 2122-19 du CGCT. Il ne pourra cependant pas se voir déléguer par le maire les fonctions que celui-ci exerce en tant qu'officier d'état civil. En effet, l'article R 2122-10 du CGCT réserve cette délégation de fonction aux seuls fonctionnaires titulaires de la commune.
