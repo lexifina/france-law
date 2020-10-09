@@ -225,3 +225,9 @@ Article 7. |
 Autorisation d'un architecte non ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen à réaliser en France un projet déterminé. |
 
 Article 16. |
+
+Divers :
+
+|
+
+Attribution du label Capitale française de la culture . |
