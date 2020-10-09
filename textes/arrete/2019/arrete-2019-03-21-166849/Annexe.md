@@ -200,17 +200,11 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 |
 
-925218 |
-
-6482855 |
-
-3 |
-
-|
-
 920020 |
 
 6472510 |
+
+2 |
 
 |
 
@@ -764,7 +758,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6731370 |
 
-2 |
+1 |
 
 2019_01_89-3 |
 
@@ -916,7 +910,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6839224 |
 
-2 |
+1 |
 
 |
 
@@ -1044,7 +1038,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6750001 |
 
-2 |
+1 |
 
 2019_01_20-1 |
 
@@ -1085,12 +1079,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 6139299 |
 
 1 |
-
-|
-
-1184102 |
-
-6133857 |
 
 2019_01_20-3 |
 
@@ -1260,23 +1248,17 @@ Meuse |
 
 GC_55_013 |
 
-|
+Sivry-la-Perche, Montzéville, Fromeréville-les-Vallons, Béthelainville |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-866873 |
-
-6897769 |
-
-2 |
 
 |
 
 861732 |
 
 6901011 |
+
+1 |
 
 |
 
@@ -1302,7 +1284,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6883235 |
 
-3 |
+1 |
 
 2019_01_57-2 |
 
@@ -1412,7 +1394,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6942240 |
 
-4 |
+3 |
 
 |
 
@@ -2174,44 +2156,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 1 |
 
-2019_01_34-1 |
-
-Occitanie |
-
-Hérault |
-
-GC_34_002 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-703102 |
-
-6277352 |
-
-3 |
-
-|
-
-697632 |
-
-6285440 |
-
-|
-
-708220 |
-
-6280563 |
-
-|
-
-707962 |
-
-6279823 |
-
 2019_01_34-2 |
 
 Occitanie |
@@ -2278,17 +2222,19 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 |
 
-741212 |
+748538 |
 
-6310836 |
+6308233 |
 
-2 |
+1 |
 
 |
 
 750170 |
 
 6310138 |
+
+1 |
 
 2019_01_81-1 |
 
@@ -2434,41 +2380,35 @@ Alpes-de-Haute-Provence |
 
 GC_04_001 |
 
-|
+Volonne, Thoard, Sourribes, Salignac, Mallefougasse-Augès, Entrepierres, Châteauneuf-Val-Saint-Donat, Champtercier, Aiglun |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
-|
+Point 1 - |
 
 941236 |
 
 6343393 |
 
-7 |
+6 |
 
-|
+Point 2 - |
 
 939478 |
 
 6351113 |
 
-|
+Point 3 - |
 
 932207 |
 
 6334087 |
 
-|
+Point 4 - |
 
 939573 |
 
 6345721 |
-
-|
-
-938997 |
-
-6348789 |
 
 2019_01_04-2 |
 
@@ -2478,7 +2418,7 @@ Alpes-de-Haute-Provence |
 
 GC_04_003 |
 
-|
+Valensole, Entrevennes, Brunet |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
@@ -2488,7 +2428,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6314858 |
 
-2 |
+1 |
 
 2019_01_04-3 |
 

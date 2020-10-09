@@ -282,9 +282,9 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 2018_02_63-1 |
 
-Auvergne Rhône Alpes |
+Auvergne Rhône-Alpes |
 
-Puy de Dôme |
+Puy-de-Dôme |
 
 GU63001 |
 
@@ -298,7 +298,7 @@ Village de Vacances |
 
 6496321 |
 
-2 |
+1 |
 
 Snack au pied des pistes |
 
@@ -454,7 +454,7 @@ Chemin d'accès au Lac, à l'est |
 
 Auvergne Rhône Alpes |
 
-Puy de Dôme |
+Puy-de-Dôme |
 
 GU63004 |
 
@@ -462,19 +462,13 @@ Plan d'eau des Fades |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
-Chartreuse de Port Sainte-Marie |
-
-684317 |
-
-6533972 |
-
-2 |
-
 Pont du Bouchet |
 
 682009 |
 
 6536453 |
+
+2 |
 
 Viaduc des Fades / Barrage. |
 
@@ -506,7 +500,7 @@ Gorges de la Sioule |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
-Hôtel « Le Beau Site » |
+Hôtel Le Beau Site |
 
 696788 |
 
@@ -1538,26 +1532,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 1 |
 
-2018_02_33-2 |
-
-Nouvelle-Aquitaine |
-
-Gironde |
-
-GC_33_114 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-394331 |
-
-6459769 |
-
-1 |
-
 2018_02_64-1 |
 
 Nouvelle-Aquitaine |
@@ -1764,26 +1738,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 1 |
 
-2018_02_65-1 |
-
-Occitanie |
-
-Hautes-Pyrénées |
-
-GC_65_002 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-487123 |
-
-6203462 |
-
-1 |
-
 2018_02_65-2 |
 
 Occitanie |
@@ -1906,19 +1860,13 @@ Louplande |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
-rue du Buisson |
-
-479 405 |
-
-6 764 225 |
-
-1 |
-
 RD 31 |
 
-474 945 |
+474945 |
 
-6 762 954 |
+6762954 |
+
+1 |
 
 2018_02_72-2 |
 
@@ -2037,26 +1985,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 926370 |
 
 6381568 |
-
-1 |
-
-2018_02_05-2 |
-
-Provence-Alpes-Côte d'Azur |
-
-Hautes-Alpes |
-
-GC_05_004 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-928054 |
-
-6391544 |
 
 1 |
 

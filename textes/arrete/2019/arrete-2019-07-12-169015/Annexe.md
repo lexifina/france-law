@@ -4,7 +4,9 @@ ANNEXE
 
 Zones à couvrir
 
-NUMÉRO DE ZONE |
+NUMÉRO DE ZONE
+
+|
 
 RÉGION
 
@@ -14,15 +16,11 @@ DÉPARTEMENT
 
 |
 
-IDENTIFIANT
-
-DE LA ZONE
+IDENTIFIANT DE LA ZONE
 
 |
 
-NOM DE LA ZONE/
-
-COMMUNES
+NOM DE LA ZONE/COMMUNES
 
 |
 
@@ -30,9 +28,7 @@ OPÉRATEURS
 
 |
 
-POINTS D'INTÉRÊT
-
-À COUVRIR
+POINTS D'INTÉRÊT À COUVRIR
 
 |
 
@@ -48,15 +44,11 @@ Y
 
 |
 
-IDENTIFIANT
-
-DU SITE
+IDENTIFIANT DU SITE
 
 |
 
-NOMBRE
-
-DE SITES
+NOMBRE DE SITES
 
 |
 
@@ -827,62 +819,6 @@ FREE MOBILE/ORANGE
 |
 
 Site_ZG_03_002_S2
-
-|
-
-2019_02_07-1
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Ardèche
-
-|
-
-ZG_07_001
-
-|
-
-PRANLES
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Le Village
-
-|
-
-828410,39
-
-|
-
-6409333,56
-
-|
-
-Site_ZG_07_001_S1
-
-|
-
-1
-
-|
-
-Boyon
-
-|
-
-826109,08
-
-|
-
-6409266,57
 
 |
 
@@ -2732,62 +2668,6 @@ chazaloux
 
 |
 
-2019_02_43-3
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Haute-Loire
-
-|
-
-ZG_43_004
-
-|
-
-Sembadel
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Mairie
-
-|
-
-753870,8093
-
-|
-
-6464176,691
-
-|
-
-Site_ZG_43_004_S1
-
-|
-
-1
-
-|
-
-Sembadel Gare
-
-|
-
-755925,9781
-
-|
-
-6464371,724
-
-|
-
 2019_02_43-4
 
 |
@@ -2953,50 +2833,6 @@ CHAS - Mairie - remontée FM GU6302833 n°1
 |
 
 6516631,82
-
-|
-
-2019_02_43-7
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Puy de dôme
-
-|
-
-ZN_63_002
-
-|
-
-ST GENES CHAMPANELLE
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Tribune circuit charade
-
-|
-
-702048,27
-
-|
-
-6515615,81
-
-|
-
-Site_ZN_63_002_S1
-
-|
-
-1
 
 |
 
@@ -3541,66 +3377,6 @@ Site_GC_69_007_S1
 |
 
 1
-
-|
-
-2019_02_73-1
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Savoie
-
-|
-
-ZN_73_003
-
-|
-
-Champagneux - Saint-Maurice de Rotherens
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-910245,5
-
-|
-
-6507163,86
-
-|
-
-Site_ZN_73_003_S1
-
-|
-
-2
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-908531
-
-|
-
-6507121,53
-
-|
-
-Site_ZN_73_003_S2
 
 |
 
@@ -8392,54 +8168,6 @@ Site_ZN_55_002_S1
 
 |
 
-2019_02_55-3
-
-|
-
-Grand Est
-
-|
-
-Meuse
-
-|
-
-GC_55_006
-
-|
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-892341
-
-|
-
-6863560
-
-|
-
-Site_GC_55_006_S1
-
-|
-
-1
-
-|
-
-893676
-
-|
-
-6865496
-
-|
-
 2019_02_57-1
 
 |
@@ -8676,22 +8404,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-1006360
-
-|
-
-6760203
-
-|
-
-Site_GC_68_001_S1
-
-|
-
-3
-
-|
-
 1007839
 
 |
@@ -8700,39 +8412,11 @@ Site_GC_68_001_S1
 
 |
 
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
+Site_GC_68_001_S1
 
 |
 
-|
-
-1010528
-
-|
-
-6764304
-
-|
-
-Site_GC_68_001_S2
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-1005618
-
-|
-
-6761102
-
-|
-
-Site_GC_68_001_S3
+1
 
 |
 
@@ -9187,18 +8871,6 @@ La Censé, Chevincourt
 |
 
 6936391,58
-
-|
-
-Samson, Chevincourt
-
-|
-
-688863,76
-
-|
-
-6936004,63
 
 |
 
@@ -9986,15 +9658,13 @@ FREE MOBILE/ORANGE
 
 |
 
-6827131,584
+6827131,584 |
+
+Site_ZN_91_014_S2
 
 |
 
-Site_ZN_91_005_S1
-
-|
-
-1
+2
 
 |
 
@@ -10004,9 +9674,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-650490,536
-
-|
+650490,536 |
 
 6824788,812
 
@@ -14466,7 +14134,7 @@ Sortie St Jean
 
 |
 
-2019_2_12-6
+2019_02_12-6
 
 |
 
@@ -14526,7 +14194,7 @@ Canals
 
 |
 
-672808,4
+719409
 
 |
 
@@ -14830,7 +14498,7 @@ Les Gandalgues
 
 |
 
-2019_2_12-11
+2019_02_12-11
 
 |
 
@@ -14878,7 +14546,7 @@ Bavardie
 
 |
 
-586468,5
+633727
 
 |
 
@@ -14894,9 +14562,7 @@ Mas de Marou
 
 |
 
-6375384
-
-|
+6375384 |
 
 Gaillardie
 
@@ -15218,7 +14884,7 @@ Site_ZN_30_004_S1
 
 |
 
-2019_2_30-5
+2019_02_30-5
 
 |
 
@@ -15244,11 +14910,11 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-738659
+738913
 
 |
 
-6321079
+6322422
 
 |
 
@@ -15262,11 +14928,15 @@ Site_ZG_30_003_S1
 
 |
 
-738913
+738659
 
 |
 
-6322422
+6321079
+
+|
+
+Site_ZG_30_003_S2
 
 |
 
@@ -15287,10 +14957,6 @@ Site_ZG_30_003_S1
 |
 
 6319961
-
-|
-
-Site_ZG_30_003_S2
 
 |
 
@@ -16146,7 +15812,7 @@ Granval
 
 |
 
-2019_2_46-6
+2019_02_46-6
 
 |
 
@@ -16170,11 +15836,11 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-607227,7
+591877,3
 
 |
 
-6369725,4
+6372631,2
 
 |
 
@@ -16183,16 +15849,6 @@ Site_GC_46_010_S1
 |
 
 2
-
-|
-
-|
-
-591877,3
-
-|
-
-6372631,2
 
 |
 
@@ -19702,7 +19358,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-centre village
+Centre village
 
 |
 
@@ -19718,7 +19374,7 @@ Site_ZN_84_001_S1
 
 |
 
-2
+1
 
 |
 
@@ -19734,7 +19390,7 @@ GR91c
 
 |
 
-rd40-1
+RD40-1
 
 |
 
@@ -19743,26 +19399,6 @@ rd40-1
 |
 
 6345561
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-rd40-2
-
-|
-
-886884
-
-|
-
-6346011
-
-|
-
-Site_ZN_84_001_S2
 
 |
 
