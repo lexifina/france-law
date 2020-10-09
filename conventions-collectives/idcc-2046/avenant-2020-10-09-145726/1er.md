@@ -1,0 +1,15 @@
+# Article 1er
+
+L'article 1.3.2 « Révision » est modifié comme suit :
+
+« La présente convention collective est révisable à tout moment dans les conditions fixées aux articles L. 2261-7 et suivants du code du travail. Les organisations syndicales de salariés et professionnelles d'employeurs habilitées à engager la procédure de révision sont déterminées conformément aux mêmes dispositions du code du travail.
+
+Toute demande de révision doit, dans la mesure du possible, être accompagnée d'une proposition de rédaction nouvelle du ou des articles soumis à révision.
+
+La demande est formulée, par tout moyen permettant de lui conférer date certaine, à l'ensemble des organisations habilitées à négocier, y compris par la voie d'une demande orale lors d'une réunion de la CPPNI. Dans ce dernier cas, la demande est formulée clairement puis est actée dans l'ordre du jour d'une réunion de la CPPNI, au plus tard dans les 3 mois suivants la demande.
+
+Dans les 3 mois qui suivent la notification de la demande, les parties doivent se rencontrer en vue de débattre de la nouvelle rédaction proposée.
+
+L'ancien texte reste en vigueur jusqu'à la conclusion d'un nouvel accord. Celui-ci est constaté par avenant et le nouveau texte se substitue à l'ancien. À défaut d'accord, l'ancien texte continue de s'appliquer.
+
+Les conditions de validité de l'avenant de révision obéissent aux conditions posées par l'article L. 2232-6 du code du travail. »
