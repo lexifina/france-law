@@ -1,0 +1,17 @@
+# Article 1er
+
+L'article 4 « Garanties » est complété par l'article 4.10 rédigé comme suit :
+
+« Article 4.10
+
+Maintien des garanties en cas d'activité partielle
+
+À compter du 12 mars et jusqu'au 31 décembre 2020, les salariés intérimaires placés en position d'activité partielle bénéficient du maintien des garanties définies en annexe du présent accord, pendant les périodes où ils ne sont pas en activité, sans versement des cotisations au titre des heures non travaillées.
+
+Le salaire de base de la mission défini à l'article 4.5, servant de base au calcul des prestations, est intégralement reconstitué au titre des périodes d'activité partielle.
+
+À compter du 1er janvier 2021, le maintien des garanties au bénéfice des salariés intérimaires placés en activité partielle donnera lieu au paiement, par les entreprises comme par les salariés intérimaires, des cotisations prévues aux articles 10.1 et 10.2.
+
+L'indemnité légale brute d'activité partielle servira de base au calcul de ces cotisations pour les périodes pendant lesquelles elle a été effectivement perçue.
+
+L'assiette servant de base au calcul des prestations est déterminée selon le mode de calcul défini en annexe du présent accord en substituant à la notion de “ salaire de base ” l'indemnité légale brute d'activité partielle versée au salarié intérimaire. »
