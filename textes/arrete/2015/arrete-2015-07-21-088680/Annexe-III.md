@@ -152,7 +152,7 @@ Ptot |
 
 (1) Les échantillons utilisés pour le calcul de la moyenne annuelle sont prélevés lorsque la température de l'effluent dans le réacteur biologique est supérieure à 12 °C. |
 
-Tableau 8. Nombre maximal d'échantillons moyens journaliers non conformes autorisés en fonction du nombre d'échantillons moyens journaliers prélevés dans l'année
+Tableau 8. Nombre maximal d'échantillons moyens journaliers non conformes autorisés en fonction du nombre d'échantillons moyens journaliers prélevés dans l'année (1)
 
 NOMBRE D'ÉCHANTILLONS MOYENS
 
@@ -264,4 +264,8 @@ journaliers non conformes |
 
 351-365 |
 
-25 |
+25
+
+|
+
+(1) Cette tolérance est entendue par paramètre. Ainsi, pour chaque paramètre soumis à autosurveillance, le nombre de bilans non conformes ne doit pas dépasser la valeur indiquée dans le présent tableau.

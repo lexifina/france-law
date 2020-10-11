@@ -8,11 +8,17 @@ Capacité nominale de traitement de la station en kg/j de DBO5 |
 
 ≤ 12 |
 
-> 12 et ≤ 30 |
+> 12 et ≤ 30
 
-> 30 et ≤ 60 |
+|
 
-> 60 et < 120 |
+> 30 et ≤ 60
+
+|
+
+> 60 et < 120
+
+|
 
 Nombre de bilans 24 h |
 
@@ -30,7 +36,7 @@ Fréquence indiquée dans le programme d'exploitation défini à l'article 20-II
 
 (1) Dans le cas où la charge brute de pollution organique reçue par la station l'année N est supérieure à la capacité de la station, les fréquences minimales de mesures et les paramètres à mesurer l'année N + 2 sont déterminés à partir de la charge brute de pollution organique.
 
-(2) Les bilans 24H sont réalisés pour les paramètres suivants : pH, débit, T°, MES, DBO5, DCO, NH4, NTK, NO2, NO3, Ptot.
+(2) Les bilans 24H sont réalisés pour les paramètres suivants : pH, débit, T°, MES, DBO5, DCO, NH4, NTK, NO2, NO3, Ptot. Sauf cas particulier, les mesures en entrée des différentes formes de l'azote peuvent être assimilées à la mesure de NTK.
 
 (3) Seules les stations de traitement des eaux usées nouvelles, réhabilitées ou déjà équipées font l'objet d'un bilan 24H. Pour les autres stations, le bilan 24H est remplacé par une mesure ponctuelle réalisée tous les ans, à une période représentative de la journée.
 
@@ -40,7 +46,7 @@ Fréquence indiquée dans le programme d'exploitation défini à l'article 20-II
 
 (6) Si aucune fréquence de passage n'est renseignée dans le programme d'exploitation défini à l'article 20-II, la fréquence minimale de passage est fixée à un passage par semaine. |
 
-Dans les sous-bassins hydrographiques où la France fait application de l'article 5.4 de la directive du 21 mai 1991 susvisée, les maîtres d'ouvrage des stations de traitement des eaux usées ou des installations d'assainissement non collectif rejetant dans ces sous-bassins et traitant une charge brute de pollution organique supérieure ou égale à 12 kg/j de DBO5 ou inférieure à 120 kg/j de DBO5, évaluent le flux annuel des entrées et sorties pour les paramètres azote (NGL) et phosphore (Ptot). Cette exigence de surveillance des paramètres NGL et Ptot n'implique pas obligatoirement la mise en place d'un traitement particulier de ces substances, qui reste à l'appréciation du préfet.
+Dans les sous-bassins hydrographiques où la France fait application de l'article 5.4 de la directive du 21 mai 1991 susvisée, les maîtres d'ouvrage des stations de traitement des eaux usées ou des installations d'assainissement non collectif rejetant dans ces sous-bassins et traitant une charge brute de pollution organique supérieure à 12 kg/j de DBO5 ou inférieure à 120 kg/j de DBO5, évaluent le flux annuel des entrées et sorties pour les paramètres azote (NGL) et phosphore (Ptot). Cette exigence de surveillance des paramètres NGL et Ptot n'implique pas obligatoirement la mise en place d'un traitement particulier de ces substances, qui reste à l'appréciation du préfet.
 
 Tableau 4. Paramètres et fréquences minimales des mesures (nombre de jours par an) à réaliser sur la file eau des stations de traitement des eaux usées de capacité nominale de traitement supérieure ou égale à 120 kg/j de DBO5 (1)
 
@@ -462,7 +468,9 @@ Capacité nominale de traitement de la station en kg/j de DBO5 |
 
 ≤ 60 |
 
-> 60 et < 120 |
+> 60 et < 120
+
+|
 
 ≥ 120 et
 
