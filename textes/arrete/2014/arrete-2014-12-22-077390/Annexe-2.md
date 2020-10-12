@@ -4,11 +4,9 @@ Secteur résidentiel
 
 Isolation de combles ou de toitures / Fiche d’opération standardisée n° BAR-EN-101
 
-Conformément à l’article 3 de de l’arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
-
 Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
-Conformément à l’article 5 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 8 dudit arrêté.
+Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
 Isolation des murs / Fiche d’opération standardisée n° BAR-EN-102
 
@@ -18,7 +16,7 @@ Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1
 
 Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
-Conformément à l’article 5 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 8 dudit arrêté.
+Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAR-EN-104
 
@@ -29,8 +27,6 @@ Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opératio
 Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
 
 Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER2008377A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
-
-Conformément à l’article 5 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 8 dudit arrêté.
 
 Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-107
 
@@ -92,9 +88,13 @@ Système de ventilation double flux autoréglable ou modulé à haute performanc
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1er avril 2020.
 
+Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+
 Ventilation Mécanique Contrôlée simple flux hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-127
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1er avril 2020.
+
+Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 Pompe à chaleur de type air/air / Fiche d’opération standardisée n°BAR-TH-129
 
@@ -128,6 +128,8 @@ Rénovation globale d’un bâtiment résidentiel (France métropolitaine) / Fic
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1er avril 2020.
 
+Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
+
 Chauffe-eau thermodynamique à accumulation / Fiche d’opération standardisée n°BAR-TH-148
 
 Conformément au 2° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEVR1507213A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
@@ -137,6 +139,8 @@ Pompe à chaleur collective à absorption de type air/eau ou eau/eau / Fiche d�
 Ventilation hybride hygroréglable (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-155
 
 Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER2001868A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté, à compter du 1er avril 2020.
+
+Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 Emetteur électrique à régulation électronique à fonctions avancées / Fiche d’opération standardisée n°BAR-TH-158
 
@@ -153,6 +157,8 @@ Système énergétique comportant des capteurs solaires photovoltaïques et ther
 Conduit d’évacuation des produits de combustion / Fiche d’opération standardisée n°BAR-TH-163
 
 Rénovation globale d’une maison individuelle (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-164
+
+Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
 
@@ -189,6 +195,8 @@ Contrat de Performance Energétique Services (CPE Services) / Fiche d’opérati
 Service de suivi des consommations d’énergie / Fiche d’opération standardisée n° BAR-SE-106
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0248 du 11/10/2020, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=624wFiFmvAh6257w6N9CHO6yplGEb0Xgie4-T-nS53g=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
 
@@ -234,4 +242,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Se reporter aux conditions d’application prévues à l’article 6 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A).
+Conformément à l'article 6 de l'arrêté du 25 mars 2020, ces dispositions s'appliquent aux opérations engagées à compter du 1er septembre 2020.
