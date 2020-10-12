@@ -66,9 +66,13 @@ e) "GPE", pour la bonification prévue à l'article 6-1 de l'arrêté du 29 déc
 
 f) "CFT" pour la bonification prévue à l'article 3-4 de l'arrêté du 29 décembre 2014 susvisé ;
 
-g) "CFC" pour la bonification prévue à l'article 3-5 de l'arrêté du 29 décembre 2014 susvisé ;
+g) "CRC" pour la bonification prévue à l'article 3-5 de l'arrêté du 29 décembre 2014 susvisé ;
 
-h) "CTH" pour la bonification prévue à l'article 3-6-1 de l'arrêté du 29 décembre 2014 susvisé.
+h) "CRM" pour la bonification prévue à l'article 3-5-1 de l'arrêté du 29 décembre 2014 susvisé ;
+
+i) "CTH" pour la bonification prévue à l'article 3-6-1 de l'arrêté du 29 décembre 2014 susvisé ;
+
+j) "CDP" pour les bonifications prévues aux articles 3-6, 3-7 et 3-7-1 de l'arrêté du 29 décembre 2014 susvisé.
 
 Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 
