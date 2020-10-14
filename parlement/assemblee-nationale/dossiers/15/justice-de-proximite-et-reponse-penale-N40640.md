@@ -1,0 +1,51 @@
+# Justice de proximité et réponse pénale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40640
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/justice_de_proximite_et_reponse_penale
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-161.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-10-14 : 1er dépôt d'une initiative. (PIONANR5L15B3427)
+  - 2020-10-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-14 : Renvoi en commission au fond
+      - 2020-11-04 : Nomination de rapporteur
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-18 : Réunion de commission
+      - 2020-11-25 : Réunion de commission
+      - 2020-11-25 : Réunion de commission
+      - 2020-11-18 : Dépôt de rapport (RAPPANR5L15B3582, PIONANR5L15BTC3582)
+  - Discussion en séance publique
+    - 2020-11-26 : Discussion en séance publique
+    - 2020-11-26 : Discussion en séance publique
+    - 2020-11-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-11-26 : Dépôt d'une initiative en navette (PIONSNR5S359B0161)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-26 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-02-10 : Dépôt de rapport (RAPPSNR5S359B0352, PIONSNR5S359BTC0353)
+  - Discussion en séance publique
+    - 2021-02-18 : Décision
+- Commission Mixte Paritaire
+  - 2021-02-18 : Dépôt d'un projet de loi (PIONANR5L15B3903)
+  - 2021-02-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-03-04 : Nomination de rapporteur
+    - 2021-03-04 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0423, PIONSNR5S359BTC0424)
+    - 2021-03-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B3941, PIONANR5L15BTC3941)
+  - Discussion en séance publique
+    - 2021-03-17 : Discussion en séance publique
+    - 2021-03-17 : Discussion en séance publique
+    - 2021-03-17 : Décision
+  - Discussion en séance publique
+    - 2021-04-01 : Décision
+  - 2021-03-04 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-04-08 : Promulgation d'une loi
