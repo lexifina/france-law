@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012882
+
+- Question : [SEQ191012882](seq191012882.md) — Aide à domicile en milieu rural
+
+## Réponse
+
+*Autonomie, JO du 2020-10-15, page 4701*
+
+Les services d'aide à domicile sont au cœur des problématiques de prise en charge des personnes âgées dépendantes et le Gouvernement est très attentif aux difficultés de recrutement de professionnels intervenant à domicile. Dans le secteur privé, les révisions conventionnelles doivent faire l'objet de négociations collectives entre les organisations représentatives des employeurs et les salariés. Les pouvoirs publics n'ont pas vocation à se substituer aux partenaires sociaux dans ces négociations. L'État accompagne, en revanche avec les moyens qui sont les siens, la dynamique de ces négociations en fixant chaque année un taux de progression de la masse salariale du secteur social et médico-social privé non-lucratif. Ainsi, pour l'année 2020, le Gouvernement a annoncé un taux différencié de 2,7% de la masse salariale pour la branche de l'aide à domicile. Cet effort substantiel constitue une première étape et s'inscrit dans un objectif global de revalorisation de ces professionnels et d'attractivité des métiers. Conscient du rôle central du secteur de l'aide et de l'accompagnement à domicile pour une prise en charge satisfaisante des aînés, le Gouvernement entend mener une action en profondeur afin de résoudre les difficultés structurelles de ces services et développer l'attractivité de ces métiers. Pour parvenir à la mise en œuvre des actions envisagées, ces sujets seront approfondis à l'automne dans le cadre du « Laroque de l'autonomie », annoncé par la ministre déléguée chargée de l'autonomie, avec des réponses qui seront ensuite apportées, notamment dans le cadre du futur projet de loi Grand âge et autonomie pour les mesures qui supposeront des dispositions législatives.
