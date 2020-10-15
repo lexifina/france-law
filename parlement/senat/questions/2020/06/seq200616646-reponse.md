@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616646
+
+- Question : [SEQ200616646](seq200616646.md) — Élargissement du champ de la prime exceptionnelle
+
+## Réponse
+
+*Autonomie, JO du 2020-10-15, page 4707*
+
+Afin de reconnaitre l'engagement des professionnels des établissements et services sociaux et médico-sociaux pendant la crise sanitaire liée à l'épidémie du covid-19, le Gouvernement a ouvert la possibilité de verser une prime exceptionnelle, exonérée de toutes les cotisations et contributions sociales, ainsi que d'impôt sur le revenu. Une compensation financière assurée par l'Assurance maladie est notamment prévue pour les établissements et services médico-sociaux financés ou cofinancés par l'Assurance maladie. Cette prime exceptionnelle a vocation à s'appliquer aux professionnels rattachés aux établissements sociaux et médico-sociaux. Les personnels relevant de structures prestataires n'entrent donc pas dans le périmètre de cette nouvelle prime exceptionnelle liée à la crise du Covid. Cependant, ces derniers restent éligibles à la prime exceptionnelle de pouvoir d'achat (PEPA). Pour rappel, ce dispositif est prévu par l'article 7 de la loi de financement de la sécurité sociale pour 2020 qui ouvre la possibilité pour les employeurs du secteur privé de verser à leurs salariés une prime exceptionnelle de pouvoir d'achat exonérée d'impôt sur le revenu et de toute cotisation sociale ou contribution. Afin de reconnaitre particulièrement l'engagement des personnels fortement mobilisés pendant la crise sanitaire, l'ordonnance n° 2020-385 du 1er avril 2020 offre la possibilité pour l'employeur de moduler le montant de cette prime en fonction des conditions de travail liées à l'épidémie du Covid-19. Tel que revu, ce dispositif est une réponse particulièrement adaptée à la reconnaissance des professionnels durant la crise sanitaire. Dans cette optique, le délai de versement de cette prime PEPA fixé au 31 août 2020 a été prolongé jusqu'au 31 décembre 2020.
