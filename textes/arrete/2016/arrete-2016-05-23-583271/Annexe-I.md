@@ -276,7 +276,7 @@ Les échantillons analysés sont constitués de prélèvements de gaz sur une p�
 
 La mise en place et le retrait des dispositifs d'échantillonnage et l'analyses des échantillons prélevés sont réalisés par un organisme mentionné à l'article 28.
 
-d) Ammoniac (teneur en O2 de 10 %)
+d) Ammoniac (teneur en O2 de 11 %)
 
 PARAMÈTRE |
 
@@ -532,7 +532,7 @@ Les échantillons analysés sont constitués de prélèvements de gaz sur une p�
 
 La mise en place et le retrait des dispositifs d'échantillonnage et l'analyses des échantillons prélevés sont réalisés par un organisme mentionné à l'article 28.
 
-d) Ammoniac (teneur en O2 de 10 %)
+d) Ammoniac (teneur en O2 de 11 %)
 
 PARAMÈTRE |
 
