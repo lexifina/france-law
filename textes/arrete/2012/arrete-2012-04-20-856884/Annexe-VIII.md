@@ -1,0 +1,15 @@
+# Article Annexe VIII
+
+Date :
+
+Lieu :
+
+DÉCLARATION SUR L'HONNEUR
+
+Objet. - Déclaration sur l'honneur d'absence de participation au contrôle des connaissances théoriques des règles de sécurité routière lors de l'établissement des titres de conduite des catégories A1 et B1
+
+Je soussigné(e) [identité de l'auteur], né(e) le [date de naissance] à [ville de naissance, code postal, pays], en qualité de représentant(e) légal(e) du mineur dénommé [identité du mineur], né(e) le [date de naissance] à [ville de naissance, code postal, pays] :
+
+- déclare sur l'honneur que ce dernier n'a pas pu, du fait de la crise sanitaire de la covid-19, participer au contrôle des connaissances théoriques des règles de sécurité routière, organisé par le ministère de l'éducation nationale, et se voir délivrer l'attestation de sécurité routière ou l'attestation scolaire de sécurité routière de premier niveau.
+
+Signature du déclarant

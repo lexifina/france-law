@@ -454,7 +454,7 @@ Cette épreuve consiste à évaluer chez tout candidat :
 
 Cette évaluation est réalisée par l'expert dans les conditions définies ci-après.
 
-Le temps consacré au candidat, qui est de 40 minutes, comprend :
+Le temps consacré au candidat, qui est de 36 minutes, comprend :
 
 - l'accueil du candidat et la vérification de son identité ;
 
@@ -484,7 +484,7 @@ L'expert devra construire son parcours en tenant compte des paramètres suivants
 
 - Un test de la vue est systématiquement réalisé durant l'épreuve, au moyen de la lecture des panneaux de direction à l'occasion du guidage. Toutefois, si l'expert estime que la lecture des panneaux n'a pas permis de vérifier avec certitude la bonne vision du candidat, la vérification se fera, à la demande de l'expert, par la lecture d'une plaque d'immatriculation située à environ 20 m du candidat. En sont dispensés les candidats qui ont satisfait à une visite médicale préalable en vue de l'obtention du permis de conduire ;
 
-- une phase de conduite effective d'une durée de 35 minutes ;
+- une phase de conduite effective d'une durée de 26 minutes ;
 
 - l'établissement du bilan des compétences.
 
