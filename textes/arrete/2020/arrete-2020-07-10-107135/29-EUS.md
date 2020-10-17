@@ -1,6 +1,6 @@
-# Article 29 EUS
+# Article 29
 
-Dans les territoires où l'état d'urgence sanitaire est en vigueur, par dérogation aux dispositions de l'arrêté du 7 septembre 1999 susvisé, l'entreposage des déchets d'activités de soins à risques infectieux est soumis aux dispositions suivantes :
+Par dérogation aux dispositions de l'arrêté du 7 septembre 1999 susvisé, l'entreposage des déchets d'activités de soins à risques infectieux est soumis aux dispositions suivantes :
 
 1° La durée entre la production effective des déchets et leur évacuation du lieu de production n'excède pas :
 
