@@ -1,0 +1,72 @@
+# Sécurité globale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40712
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/securite_globale1
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-150.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-10-20 : 1er dépôt d'une initiative. (PIONANR5L15B3452)
+  - 2020-10-26 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-20 : Renvoi en commission au fond
+      - 2020-10-21 : Nomination de rapporteur
+      - 2020-10-21 : Réunion de commission
+      - 2020-11-02 : Réunion de commission
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-04 : Réunion de commission
+      - 2020-11-05 : Réunion de commission
+      - 2020-11-05 : Réunion de commission
+      - 2020-11-16 : Réunion de commission
+      - 2020-11-05 : Dépôt de rapport (RAPPANR5L15B3527, PIONANR5L15BTC3527)
+    - Travaux d'une commission saisie pour avis
+      - 2020-10-28 : Saisine pour avis d'une commission
+      - 2020-10-28 : Nomination de rapporteur
+      - 2020-11-03 : Réunion de commission
+  - Discussion en séance publique
+    - 2020-11-17 : Discussion en séance publique
+    - 2020-11-17 : Discussion en séance publique
+    - 2020-11-18 : Discussion en séance publique
+    - 2020-11-18 : Discussion en séance publique
+    - 2020-11-19 : Discussion en séance publique
+    - 2020-11-19 : Discussion en séance publique
+    - 2020-11-19 : Discussion en séance publique
+    - 2020-11-20 : Discussion en séance publique
+    - 2020-11-20 : Discussion en séance publique
+    - 2020-11-20 : Discussion en séance publique
+    - 2020-11-24 : Discussion en séance publique
+    - 2020-11-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-11-24 : Dépôt d'une initiative en navette (PIONSNR5S359B0150)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-24 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-03-03 : Dépôt de rapport (RAPPSNR5S359B0409, PIONSNR5S359BTC0410)
+  - Discussion en séance publique
+    - 2021-03-18 : Décision
+- Commission Mixte Paritaire
+  - 2021-03-19 : Dépôt d'un projet de loi (PIONANR5L15B3996)
+  - 2021-03-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-03-29 : Nomination de rapporteur
+    - 2021-03-29 : Dépôt du rapport d'une CMP (RAPPANR5L15B4030, PIONANR5L15BTC4030)
+    - 2021-03-29 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0494, PIONSNR5S359BTC0495)
+  - Discussion en séance publique
+    - 2021-04-07 : Décision
+  - Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Décision
+  - 2021-04-12 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-04-20 : Saisine du conseil constitutionnel
+  - 2021-04-20 : Saisine du conseil constitutionnel
+  - 2021-05-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-05-25 : Promulgation d'une loi
