@@ -1,0 +1,75 @@
+# Prorogation de l’état d’urgence sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40751
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/prorogation_de_letat_durgence_sanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-074.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-10-21 : 1er dépôt d'une initiative. (PRJLANR5L15B3464)
+  - 2020-10-21 : Etude d'impact (ETDIANR5L15B3464)
+  - 2020-10-21 : Avis du Conseil d'Etat (AVCEANR5L15B3464)
+  - 2020-10-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-21 : Renvoi en commission au fond
+      - 2020-10-21 : Nomination de rapporteur
+      - 2020-10-22 : Dépôt de rapport (RAPPANR5L15B3472, PRJLANR5L15BTC3472)
+  - Discussion en séance publique
+    - 2020-10-24 : Discussion en séance publique
+    - 2020-10-24 : Discussion en séance publique
+    - 2020-10-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-10-24 : Dépôt d'une initiative en navette (PRJLSNR5S359B0074)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-24 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2020-10-27 : Dépôt de rapport (RAPPSNR5S359B0078, PRJLSNR5S359BTC0079)
+  - Discussion en séance publique
+    - 2020-10-30 : Décision
+- Commission Mixte Paritaire
+  - 2020-10-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-10-30 : Nomination de rapporteur
+    - 2020-10-30 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0099, PRJLSNR5S359BTC0100)
+    - 2020-10-30 : Dépôt du rapport d'une CMP (RAPPANR5L15B3498)
+  - 2020-10-30 : Décision de la CMP
+- Nouvelle Lecture
+  - 2020-10-30 : Dépôt d'une initiative en navette (PRJLANR5L15B3495)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-30 : Renvoi en commission au fond
+      - 2020-11-02 : Réunion de commission
+      - 2020-11-02 : Dépôt de rapport (RAPPANR5L15B3502, PRJLANR5L15BTC3502)
+  - Discussion en séance publique
+    - 2020-11-03 : Discussion en séance publique
+    - 2020-11-03 : Discussion en séance publique
+    - 2020-11-04 : Discussion en séance publique
+    - 2020-11-04 : Décision
+- Nouvelle Lecture
+  - 2020-11-04 : Dépôt d'une initiative en navette (PRJLSNR5S359B0108)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-04 : Renvoi en commission au fond
+      - 2020-11-05 : Dépôt de rapport (RAPPSNR5S359B0109, PRJLSNR5S359BTC0110)
+  - Discussion en séance publique
+    - 2020-11-05 : Discussion en séance publique
+    - 2020-11-05 : Décision
+- Lecture définitive
+  - 2020-11-06 : Dépôt d'une initiative en navette (PRJLSNR5S359BTA0020)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-06 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2020-11-07 : Discussion en séance publique
+    - 2020-11-07 : Décision
+- Conseil constitutionnel
+  - 2020-11-07 : Saisine du conseil constitutionnel
+  - 2020-11-07 : Saisine du conseil constitutionnel
+  - 2020-11-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-11-14 : Promulgation d'une loi
