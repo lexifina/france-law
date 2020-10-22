@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314711
+
+- Question : [SEQ200314711](seq200314711.md) — Indemnités des adjoints au maire
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-10-22, page 4834*
+
+Bien que les fonctions électives soient par principe gratuites, les élus municipaux peuvent bénéficier d'indemnités de fonction qui viennent compenser les dépenses et les sujétions qui résultent de l'exercice de leur charge publique. L'indemnité de fonction des adjoints au maire est systématiquement fixée par délibération du conseil municipal dans les conditions prévues à l'article L. 2123-24 du code général des collectivités locales. Cette délibération, qui doit être prise dans les trois mois suivant l'installation du conseil municipal, est accompagnée d'un tableau annexe récapitulant l'ensemble des indemnités allouées aux membres du conseil municipal. Le conseil municipal est libre de déterminer le niveau de l'indemnité de fonction de chaque élu ; le montant individuel versé à un adjoint peut ainsi dépasser le plafond prévu à l'article précité, à la condition que l'enveloppe globale, constituée du total des indemnités de fonction susceptibles d'être versées au maire et aux adjoints ne soit pas dépassée. Enfin, le juge administratif a précisé que la décision de réduire les indemnités de fonction ne peut s'inspirer de motifs étrangers à l'importance quantitative des fonctions effectivement exercées ou à l'intérêt de la commune : le comportement d'un élu ou ses désaccords avec les autres élus ne constituent pas un motif de réduction de son indemnité de fonction (voir Conseil d'État, n° 242963 du 16 mai 2001). Ainsi, la délibération qui fixe le montant des indemnités de fonction doit reposer sur des critères objectifs et non être prise en considération de la personne ou de son comportement.
