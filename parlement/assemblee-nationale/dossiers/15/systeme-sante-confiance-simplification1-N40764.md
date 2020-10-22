@@ -1,0 +1,79 @@
+# Améliorer le système de santé par la confiance et la simplification
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N40764
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/systeme_sante_confiance_simplification1
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-200.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-10-22 : 1er dépôt d'une initiative. (PIONANR5L15B3470)
+  - 2020-11-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-10-22 : Renvoi en commission au fond
+      - 2020-10-28 : Nomination de rapporteur
+      - 2020-10-28 : Réunion de commission
+      - 2020-11-25 : Réunion de commission
+      - 2020-11-30 : Réunion de commission
+      - 2020-11-26 : Dépôt de rapport (RAPPANR5L15B3598, PIONANR5L15BTC3598)
+  - Discussion en séance publique
+    - 2020-11-30 : Discussion en séance publique
+    - 2020-11-30 : Discussion en séance publique
+    - 2020-12-01 : Discussion en séance publique
+    - 2020-12-01 : Discussion en séance publique
+    - 2020-12-02 : Discussion en séance publique
+    - 2020-12-02 : Discussion en séance publique
+    - 2020-12-08 : Discussion en séance publique
+    - 2020-12-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-12-08 : Dépôt d'une initiative en navette (PIONSNR5S359B0200)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-08 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-02-10 : Dépôt de rapport (RAPPSNR5S359B0356, PIONSNR5S359BTC0357)
+  - Discussion en séance publique
+    - 2021-02-18 : Décision
+- Commission Mixte Paritaire
+  - 2021-02-18 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-03-02 : Nomination de rapporteur
+    - 2021-03-02 : Dépôt du rapport d'une CMP (RAPPANR5L15B3935)
+    - 2021-03-02 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0398, PIONSNR5S359BTC0399)
+  - 2021-03-03 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-02-18 : Dépôt d'une initiative en navette (PIONANR5L15B3898)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-18 : Renvoi en commission au fond
+      - 2021-03-09 : Réunion de commission
+      - 2021-03-18 : Réunion de commission
+      - 2021-03-10 : Dépôt de rapport (RAPPANR5L15B3971, PIONANR5L15BTC3971)
+  - Discussion en séance publique
+    - 2021-03-18 : Discussion en séance publique
+    - 2021-03-18 : Discussion en séance publique
+    - 2021-03-18 : Discussion en séance publique
+    - 2021-03-19 : Discussion en séance publique
+    - 2021-03-19 : Discussion en séance publique
+    - 2021-03-18 : Décision
+- Nouvelle Lecture
+  - 2021-03-18 : Dépôt d'une initiative en navette (PIONSNR5S359B0461)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-18 : Renvoi en commission au fond
+      - 2021-03-24 : Dépôt de rapport (RAPPSNR5S359B0476, PIONSNR5S359BTC0477)
+  - Discussion en séance publique
+    - 2021-04-01 : Décision
+- Lecture définitive
+  - 2021-04-06 : Dépôt d'une initiative en navette (PIONANR5L15BTA0582)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-04-06 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2021-04-14 : Discussion en séance publique
+    - 2021-04-14 : Décision
+- Promulgation de la loi
+  - 2021-04-26 : Promulgation d'une loi
