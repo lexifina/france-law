@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415713
+
+- Question : [SEQ200415713](seq200415713.md) — Position de la France sur le polyhydroxyalcanoate
+
+## Réponse
+
+*Transition écologique, JO du 2020-10-22, page 4861*
+
+L'éventuelle interdiction des polyhydroxyalcanoates, dit « PHA », rentrant dans la fabrication de produits à usage unique, alors que ces bio-polymères, pouvant être fabriqués à partir de déchets, s'inscriraient dans un schéma d'économie circulaire. Les déchets de plastiques sont devenus une préoccupation environnementale majeure, quels que soient les plastiques en cause. La directive (UE) 2019/904 du Parlement européen et du Conseil du 5 juin 2019 relative à la réduction de l'incidence de certains produits en plastique sur l'environnement a imposé de nouvelles règles ciblant les dix produits en plastique à usage unique les plus présents sur les plages et dans les mers européennes, ainsi que les engins de pêche perdus ou abandonnés. Ces produits constituent 70 % de tous les déchets marins. C'est pourquoi, la directive précise dans son 11ème considérant que « Les matières plastiques fabriquées avec des polymères naturels modifiés et les matières plastiques fabriquées à partir de matières premières d'origine biologique, fossiles ou synthétiques n'existent pas naturellement dans l'environnement et devraient donc relever de la présente directive. La définition adaptée des plastiques devrait donc s'appliquer aux articles en caoutchouc à base de polymères et aux plastiques d'origine biologique et biodégradables, qu'ils soient ou non dérivés de la biomasse ou destinés à se dégrader biologiquement avec le temps ». Cependant, la Commission doit présenter des « orientations comprenant des exemples de ce qu'il y a lieu de considérer comme un produit en plastique à usage unique ». La France porte une grande attention aux travaux qui précèderont cette décision et veille tout particulièrement à soutenir le développement de solutions réemployables.
