@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616964
+
+- Question : [SEQ200616964](seq200616964.md) — Prise en charge financière de la protection fonctionnelle des élus
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-10-22, page 4837*
+
+L'article 104 de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique a créé, pour l'ensemble des communes, l'obligation de souscrire, dans un contrat d'assurance, une garantie visant à couvrir le conseil juridique, l'assistance psychologique et les coûts qui résultent de leur obligation de protection fonctionnelle à l'égard de plusieurs membres du conseil municipal. Elle prévoit également que, dans les communes de moins de 3 500 habitants, le coût résultant de la souscription de ces contrats fait l'objet d'une compensation par l'État, en fonction d'un barème défini par décret. C'est l'objet du décret n° 2020-1072 du 18 août 2020 fixant le barème relatif à la compensation par l'État des sommes payées par les communes de moins de 3 500 habitants pour la souscription de contrats d'assurance relatifs à la protection fonctionnelle de leurs élus. La compensation prévue par ce décret, définie par strate démographique afin d'être proportionnelle au nombre d'adjoints susceptibles d'être désignés par le conseil municipal, prend la forme d'un forfait annuel dont le versement est confié aux préfets de département. Dans la mesure où il s'agit d'une dotation annuelle, les sommes engagées par les communes au titre de l'année 2020 feront donc bien l'objet d'une compensation. Une enveloppe de 3 millions d'euros a été votée au titre de l'exercice 2020, prévue à l'article 260 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.
