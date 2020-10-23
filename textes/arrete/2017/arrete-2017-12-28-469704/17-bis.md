@@ -8,6 +8,6 @@ Pour les agents des corps de fonctionnaires de l'Etat mentionné à l'article 6,
 
 3° Congés annuels et exceptionnels, y compris l'utilisation sous forme de congés des droits accumulés sur un compte épargne-temps.
 
-4° Refus d'exercer en télétravail.
+4° (Supprimé)
 
 5° Autorisation spéciale d'absence liée à la parentalité ou à l'occasion de certains événements familiaux.
