@@ -4,7 +4,7 @@ ANNEXE I
 
 LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
-1° Périmètre administration centrale, établissements publics et services à compétence nationale
+1° Périmètre administration centrale, établissements publics et services à compétence nationale :
 
 Directions et services |
 
@@ -14,19 +14,9 @@ Points
 
 de NBI |
 
-Nombre d'emplois
+Nombre d'emplois à forte responsabilité (EFR) |
 
-à forte responsabilité
-
-(EFR) |
-
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -412,13 +402,13 @@ Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'adm
 
 - |
 
-1
-
-|
+1 |
 
 Chef du bureau des personnels administratifs, techniques et scientifiques au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
-50 |
+50
+
+|
 
 - |
 
@@ -439,8 +429,6 @@ Chef du département des réserves opérationnelles de la police nationale au se
 - |
 
 1 |
-
-|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -555,6 +543,14 @@ Chef du bureau de la modernisation et de valorisation des ressources humaines à
 1 |
 
 Direction générale de la sécurité intérieure |
+
+Un poste |
+
+50 |
+
+- |
+
+1 |
 
 Un poste. |
 
@@ -678,13 +674,13 @@ Direction générale de la gendarmerie nationale |
 
 Chef du bureau du personnel civil à la sous-direction de la gestion du personnel de la direction des personnels militaires de la gendarmerie nationale. |
 
-50 |
+60 |
 
 - |
 
 1 |
 
-Adjoint au chef du département de la maîtrise des risques et du contrôle interne à la mission du pilotage et de la performance. |
+Chargé de mission auprès du chef du service de la transformation |
 
 30 |
 
@@ -719,6 +715,22 @@ Chef du bureau de la réglementation et de la fonction militaire au sein de la s
 Adjoint au chef du bureau de l'analyse et de l'anticipation au sein de la sous-direction de la politique des ressources humaines. |
 
 20 |
+
+- |
+
+1 |
+
+Chef du bureau des ressources financières à la sous-direction des supports opérationnels du Service des technologies et des systèmes d'information de la sécurité intérieure |
+
+30 |
+
+- |
+
+1 |
+
+Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances |
+
+50 |
 
 - |
 
@@ -776,7 +788,7 @@ Secrétaire général. |
 
 1 |
 
-2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
+2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur :
 
 Directions et services |
 
@@ -786,19 +798,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -944,7 +948,7 @@ Directeur des ressources humaines. |
 
 1 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris :
 
 Directions et services |
 
@@ -954,19 +958,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -974,7 +970,7 @@ et de l'outre-mer
 
 Service du cabinet |
 
-Adjoint au chef de cabinet |
+Adjoint au chef de service du cabinet |
 
 50 |
 
@@ -1216,7 +1212,7 @@ Chef du service de gestion opérationnelle des personnels et des équipements au
 
 Chef du bureau de gestion opérationnelle au sein de la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis. |
 
-20 |
+30 |
 
 - |
 
@@ -1242,39 +1238,41 @@ Chef de la division des affaires générales |
 
 1 |
 
-4° Périmètre services de police nationale
+4° Périmètre services de police nationale :
 
 Directions et services |
 
 Fonctions |
 
-Points
+Points de
 
-de NBI |
+NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
 (CAIOM) |
 
-13 DDSP des Bouches-du-Rhône |
+06 DDSP des Alpes Maritimes |
 
 Chef de service de gestion opérationnelle |
 
 30 |
+
+- |
+
+1 |
+
+13 DDSP des Bouches-du-Rhône |
+
+Chef de service de gestion opérationnelle |
+
+50 |
 
 - |
 
@@ -1290,9 +1288,9 @@ Chef de la division de la logistique. |
 
 1 |
 
-14 DDSP du Calvados |
+13 DZPAF |
 
-Chef de service de gestion opérationnelle |
+Chef de la division de l'administration et des finances |
 
 20 |
 
@@ -1303,6 +1301,16 @@ Chef de service de gestion opérationnelle |
 30 Direction centrale du recrutement et de la formation de la police nationale |
 
 Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud |
+
+20 |
+
+- |
+
+1 |
+
+31 DDSP Haute Garonne |
+
+Chef de service de gestion opérationnelle |
 
 20 |
 
@@ -1325,6 +1333,16 @@ Chef de service de gestion opérationnelle |
 Chef de service de gestion opérationnelle. |
 
 30 |
+
+- |
+
+1 |
+
+35 DDSP d'Ille et Vilaine |
+
+Chef de service de gestion opérationnelle |
+
+20 |
 
 - |
 
@@ -1430,6 +1448,16 @@ Chef de service de gestion opérationnelle |
 
 1 |
 
+83 DDSP du Var |
+
+Chef de service de gestion opérationnelle |
+
+20 |
+
+- |
+
+1 |
+
 91 DDSP de l'Essonne |
 
 Chef de service de gestion opérationnelle |
@@ -1460,7 +1488,7 @@ Chef de la division de l'administration et des finances. |
 
 1 |
 
-5° Périmètre services de gendarmerie nationale
+5° Périmètre services de gendarmerie nationale :
 
 Directions et services |
 
@@ -1470,19 +1498,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1494,13 +1514,13 @@ Chef du bureau de l'accompagnement du personnel |
 
 30 |
 
-- |
-
 1 |
+
+- |
 
 94 Région zonale de gendarmerie d'Île-de-France |
 
-Chef du bureau de l'accompagnement du personnel. |
+Chef du bureau des compétences |
 
 30 |
 
@@ -1508,7 +1528,37 @@ Chef du bureau de l'accompagnement du personnel. |
 
 1 |
 
-6° Périmètre juridictions administratives
+94 Commandement du soutien opérationnel de la gendarmerie nationale |
+
+Adjoint au chef du centre opérationnel de soutien infrastructure et logement |
+
+30 |
+
+1 |
+
+- |
+
+75 Garde Républicaine |
+
+Chef du bureau de la gestion du personnel |
+
+0 |
+
+- |
+
+1 |
+
+92 Commandement du soutien opérationnel de la gendarmerie nationale |
+
+Chef du centre d'études et de documentation |
+
+0 |
+
+- |
+
+1 |
+
+6° Périmètre juridictions administratives :
 
 Juridiction
 
@@ -1520,19 +1570,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1708,7 +1750,7 @@ Greffier en chef |
 
 1 |
 
-7° Périmètre préfectures
+7° Périmètre préfectures :
 
 Localisation
 
@@ -1718,13 +1760,7 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-|
-
-Total
-
-du nombre
-
-d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -1734,9 +1770,9 @@ d'EFR |
 
 20 points |
 
-Total
+Total du
 
-du nombre
+nombre
 
 d'emplois
 
@@ -1994,16 +2030,6 @@ Sans point de NBI |
 
 11 Aude |
 
-- |
-
-- |
-
-- |
-
-- |
-
-- |
-
 2 |
 
 - |
@@ -2014,7 +2040,17 @@ Sans point de NBI |
 
 2 |
 
+2 |
+
 - |
+
+- |
+
+- |
+
+- |
+
+2 |
 
 12 Aveyron |
 
@@ -3122,11 +3158,11 @@ Sans point de NBI |
 
 57 Moselle |
 
-- |
+5 |
 
 - |
 
-- |
+5 |
 
 - |
 
@@ -3136,13 +3172,13 @@ Sans point de NBI |
 
 - |
 
-6 |
+1 |
 
 1 |
 
 - |
 
-- |
+5 |
 
 58 Nièvre |
 
@@ -3554,9 +3590,9 @@ Sans point de NBI |
 
 75 Ile-de-France et Paris |
 
-- |
+2 |
 
-- |
+2 |
 
 - |
 
@@ -3566,7 +3602,7 @@ Sans point de NBI |
 
 7 |
 
-3 |
+1 |
 
 2 |
 
@@ -3574,7 +3610,7 @@ Sans point de NBI |
 
 - |
 
-- |
+2 |
 
 76 Seine-Maritime |
 
@@ -3628,11 +3664,11 @@ Sans point de NBI |
 
 1 |
 
-- |
-
-- |
-
 1 |
+
+- |
+
+- |
 
 - |
 
@@ -4058,19 +4094,13 @@ Sans point de NBI |
 
 971 Guadeloupe |
 
-- |
+2 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-4 |
-
-- |
+2 |
 
 - |
 
@@ -4079,6 +4109,12 @@ Sans point de NBI |
 - |
 
 - |
+
+2 |
+
+- |
+
+2 |
 
 977/978 Préfecture de Saint-Barthélemy et de Saint-Martin |
 
@@ -4248,9 +4284,7 @@ Sans point de NBI |
 
 - |
 
-988 Nouvelle-
-
-Calédonie |
+988 Nouvelle-Calédonie |
 
 - |
 
