@@ -22,15 +22,19 @@ Le candidat doit obligatoirement choisir l'une des épreuves énumérées ci-des
 
 1. Mathématiques et physique (durée : 3 heures ; coefficient 6).
 
-Programme de mathématiques et physique en vigueur de la classe de terminale S, pour le concours 2020.
+Programme de mathématiques en vigueur de la classe de terminale voie générale enseignement de spécialité mathématiques.
 
-A partir du concours 2021, programme de terminale des spécialités mathématiques et physique-chimie.
+Programme de physique en vigueur de la classe de première voie générale enseignement de spécialité physique-chimie.
 
 2. Sciences de l'ingénieur (durée : 3 heures ; coefficient 6).
 
-Programme en vigueur de la classe de terminale S option "sciences de l'ingénieur", pour le concours 2020.
+Programme en vigueur de la classe de terminale voie générale enseignement de spécialité sciences de l'ingénieur.
 
-A partir du concours 2021, programme de terminale de la spécialité sciences de l'ingénieur.
+3. Numérique et sciences informatiques (durée : 3 heures ; coefficient 6).
+
+Programme de numérique et sciences informatiques en vigueur de la classe de terminale voie générale enseignement de spécialité numérique et sciences de l'informatique.
+
+Programme de physique en vigueur de la classe de première voie générale enseignement de spécialité physique-chimie.
 
 III. - Epreuve écrite facultative
 
