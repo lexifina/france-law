@@ -134,7 +134,7 @@ Brigade de recherches de Montbéliard
 
 Peloton motorisé de Villars-sous-Ecot
 
-Brigade de prévention de la délinquance juvénile d'Estupes |
+Brigade de prévention de la délinquance juvénile d'Etupes |
 
 520 |
 
@@ -507,6 +507,20 @@ Brigade territoriale autonome de Saint-Laurent-du-Maroni
 Peloton de surveillance et d'intervention de la gendarmerie de Kourou |
 
 340 |
+
+974-La Réunion |
+
+Communauté de brigades de Plateau-Caillou
+
+Pelotons de surveillance et d'intervention de la gendarmerie de Saint-Pierre, de Saint-Paul et de Saint-Benoît
+
+Brigades de recherches de Saint-Pierre, de Saint-Paul et de Saint-Benoît
+
+Section de recherches de Saint-Denis
+
+Brigade de prévention et de délinquance juvénile de Saint-Denis |
+
+1900 |
 
 NOTA :
 
