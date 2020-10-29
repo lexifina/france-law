@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200515946
+
+- Question : [SEQ200515946](seq200515946.md) — Projet Espérance et nécessité d'interdire l'utilisation de cyanure
+
+## Réponse
+
+*Transition écologique, JO du 2020-10-29, page 4980*
+
+Le projet minier « Espérance » comporte deux volets. Le premier consiste à exploiter les ressources d'or secondaire via une exploitation à petite échelle, proche de celle des artisans, menée par la Compagnie minière Espérance (CME) titulaire du titre minier. Le deuxième volet assuré par le partenaire de la CME, le groupe Newmont Mining, porte sur la poursuite des travaux d'exploration d'une durée de 7 à 8 ans dans la perspective éventuelle d'un projet d'exploitation des ressources primaires qui auront été découvertes. Dans le cadre de la procédure administrative d'instruction du titre minier, le préfet a été amené à consulter la commission départementale des mines. Cette consultation fait suite notamment à l'injonction de la justice administrative d'instruire la demande de titre de la CME conformément au droit. La commission départementale des mines s'est prononcée favorablement sur le seul projet d'exploitation à petite échelle. L'avis de la commission départementale des mines de Guyane qui a été rendu est consultatif et ne préjuge pas de la décision finale qui sera prise après l'avis du Conseil général de l'Economie et du Conseil d'État. De même, cet avis ne préjuge pas de l'obtention l'autorisation de travaux miniers qui fera l'objet d'une nouvelle procédure avec, cette fois, une étude d'impact du projet de travaux, soumise à une évaluation environnementale. Le projet d'exploitation de la société CME devra être en accord avec les exigences de protectection de l'environnement, de préservation de la biodiversité et de lutte contre le changement climatique qui sont défendues par le Gouvernement.
