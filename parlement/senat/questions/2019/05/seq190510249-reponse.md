@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190510249
+
+- Question : [SEQ190510249](seq190510249.md) — Calcul de l'allocation aux adultes handicapés
+
+## Réponse
+
+*Personnes handicapées, JO du 2020-10-29, page 4974*
+
+L'allocation aux adultes handicapés (AAH) est une prestation sociale destinée à assurer des conditions de vie dignes aux personnes en situation de handicap. Fondée sur la solidarité nationale, l'AAH est versée sous condition de ressources. Pour son calcul, seules sont prises en compte les ressources du bénéficiaire de la prestation et de son conjoint, concubin ou partenaire de pacte civil de solidarité. Les ressources des autres membres du foyer (parents ou enfants) sont exclues. Les ressources prises en compte dans le calcul de l'AAH correspondent au total des revenus nets catégoriels retenus pour l'établissement de l'impôt sur le revenu. À ce titre, les revenus de placement imposables des allocataires (intérêts, plus-values, etc.) en font partie et ils sont communiqués aux caisses d'allocations familiales par la direction générale des finances publiques, sans possibilité de distinguer toutefois les revenus de placement des parents et ceux de la personne allocataire. Aussi, afin de ne tenir compte que des revenus de placement du bénéficiaire et de ne pas minorer le montant de l'allocation due, un nouveau formulaire de déclaration de ressources a été envoyé aux allocataires, permetttant d'opérer une distinction entre les revenus de placement des parents et ceux de l'allocataire. Afin de rassurer les allocataires et d'expliciter l'intérêt de ce nouveau formulaire, une communication sous forme de questions/réponses a été mise en place sur le site internet de la caisse nationale des allocations familiales. Elle précise les démarches attendues des bénéficiaires et spécifie que l'objectif est de procéder au juste calcul de la prestation en tenant compte des ressources réelles de la personne.
