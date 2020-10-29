@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200917897
+
+- Question : [SEQ200917897](seq200917897.md) — Mutilations d'équidés
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-10-29, page 4953*
+
+Ces derniers mois, des actes de cruautés perpétrés sur des équidés se sont multipliés. Alors que différentes enquêtes sont menées par les forces de la gendarmerie nationale, la coordination et l'animation de celles-ci ont été confiées à l'office central de lutte contre les atteintes à l'environnement et à la santé publique (OCLAESP), structure interministérielle à compétence nationale. L'ensemble des acteurs de la filière équine, le conseil national de l'ordre des vétérinaires, l'OCLAESP et la direction générale de l'alimentation se sont réunis à l'initiative du réseau d'épidémiosurveillance en pathologie équine afin de structurer les actions à mettre en œuvre et d'identifier collectivement les démarches nécessaires pour apporter un appui aux forces de l'ordre dans leurs investigations, notamment pour la collecte des données de terrain concernant les équidés. Le ministère de l'agriculture et de l'alimentation est mobilisé avec la brigade nationale d'enquêtes vétérinaires et a par ailleurs mis à en place une cellule de 15 agents de l'institut français du cheval et de l'équitation dédiée à l'écoute des détenteurs d'équidés. Joignables du lundi au vendredi de 9 h à 17 h au numéro gratuit 0800 738 908, ces agents apportent aux propriétaires d'équidés les aides et conseils nécessaires pour protéger au mieux leurs animaux. S'agissant enfin des indemnisations des victimes, elles seront définies par les autorités judiciaires dès lors que les responsables de ces actes de cruauté auront été identifiés et sanctionnés sur la base des dispositions légales et réglementaires applicables à la date à laquelle les délits ont été commis.
