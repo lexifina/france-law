@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200817649
+
+- Question : [SEQ200817649](seq200817649.md) — Inspection sanitaire des importations d'huiles étrangères en France
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-10-29, page 4952*
+
+Il est indiqué que les ports français et sociétés traitantes voient leur compétitivité réduite vis-à-vis d'homologues européens car le poste de contrôle frontalier (PCF) ne réalise pas les contrôles sur le navire. L'huile est contrôlée après déchargement. Cette situation avait déjà fait l'objet d'une demande d'éclaircissement des services du ministère chargé de l'agriculture auprès de la Commission européenne, en raison de difficultés d'interprétation de la réglementation sur les contrôles de marchandise en vrac. La Commission européenne a confirmé que la marchandise pouvait être contrôlée sur le navire, mais à condition que la marchandise puisse être déchargée et stockée en cas d'anomalie détectée lors du contrôle (anomalie documentaire, d'identité ou autre) ou de contrôle non-conforme. Il est donc envisageable de mettre en œuvre le contrôle des marchandises sur le navire, sous réserve que les agents du PCF puissent accéder au navire. En effet, cet accès au navire dépend des autorités portuaires. Si ces dernières ne donnent pas l'accès aux services du ministère chargé de l'agriculture, la mise en œuvre de ces contrôles sera entravée. Par ailleurs, si la marchandise peut être contrôlée sur le navire et obtenir un document sanitaire commun d'entrée, la marchandise restant sur le navire ne pourra bénéficier de l'apposition de l'agrément sanitaire de la société concernée, puisque la marchandise n'aura fait l'objet d'aucune manipulation ni transformation par cet établissement. La société en question devra en outre être capable de décharger et stocker l'huile en cas d'anomalie détectée lors du contrôle.
