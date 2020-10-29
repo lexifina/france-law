@@ -1,0 +1,5 @@
+# Article 1er
+
+Les personnels non médicaux des CLCC bénéficient d'une indemnité forfaitaire mensuelle « Ségur » égale à 237 € brut mensuel.
+
+Pour les salariés à temps partiel, le montant de l'indemnité forfaitaire mensuelle « Ségur » sera fixé proportionnellement à leur temps de travail, hors heures complémentaires et supplémentaires.
