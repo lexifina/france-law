@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191012429
+
+- Question : [SEQ191012429](seq191012429.md) — Application du taux moyen pour les non-résidents fiscaux
+
+## Réponse
+
+*Comptes publics, JO du 2020-10-29, page 4966*
+
+Conformément aux dispositions de l'article 197 A du code général des impôts, les taux minimums de 20 % et 30 % applicables aux non-résidents peuvent être écartés si l'usager justifie que le taux de l'impôt français sur l'ensemble de ses revenus de source française ou étrangère serait inférieur à ces minima. Ce taux dit « taux moyen » est alors applicable à ses seuls revenus de source française imposables en France. Le "ou" alternatif utilisé dans la rédaction du code général des impôts doit être entendu comme « de source française, ou étrangère le cas échéant », le revenu mondial étant composé a minima des revenus de source française imposables en France. Il n'est donc pas obligatoire de disposer d'autres revenus que ceux de source française pour pouvoir bénéficier de cette disposition et du bénéfice du taux moyen. Un usager qui perçoit uniquement des revenus de source française imposables en France peut demander à bénéficier du taux moyen d'imposition, qui sera alors calculé sur ces seuls revenus. Néanmoins, selon le principe du système déclaratif dont le corollaire est le droit de contrôle de l'administration, l'usager qui opte pour le taux moyen lors de la déclaration de ses revenus doit être en mesure de produire à l'administration, à sa demande, les justificatifs de toutes les sommes déclarées. Si l'usager est appelé à justifier qu'il n'a pas d'autres revenus que ceux de source française, dans le cadre d'une procédure de contrôle par exemple, tous moyens de preuve pourront en principe être admis, en fonction de la situation propre à chaque État (exemple : visa interdisant de travailler dans le pays de résidence).
