@@ -10,9 +10,9 @@ Sont rattachés à ce regroupement |
 
 Qui correspondent à |
 
-6 EMPLOIS courants actuels |
+5 FONCTIONS |
 
-2 METIERS (nouveaux) |
+2 METIERS |
 
 Technicien en circulation extracorporelle |
 
@@ -20,17 +20,15 @@ TECHNICIEN
 
 |
 
-Technicien N1/N2 |
-
-Technicien supérieur N1/N2 |
+Technicien |
 
 Technicien dialyse |
 
-Technicien supérieur dialyse |
-
-Responsable des Services Techniques de Dialyse |
+Responsable des services techniques de dialyse |
 
 RESPONSABLE LOGISTIQUE NIVEAU 3 |
+
+Responsable de sécurité |
 
 Critères de regroupement
 
@@ -68,27 +66,11 @@ Technicien |
 
 |
 
-|
-
-|
-
-Technicien supérieur |
-
-|
-
 36 |
 
 |
 
 Technicien dialyse |
-
-|
-
-|
-
-|
-
-Technicien supérieur dialyse |
 
 |
 
@@ -110,7 +92,7 @@ Lorsque le technicien est titulaire d'un B.T.S., d'un D.U.T. ou d'un diplôme pr
 
 Le technicien encadrant au moins deux secteurs spécialisés d'un service technique ou exerçant ses fonctions à titre exclusif, en génie thermique ou dans le domaine biomédical, bénéficie d'une prime fonctionnelle de 14 points.
 
-RESPONSABLE LOGISTIQUE Coef. Réf. 392
+RESPONSABLE LOGISTIQUE – NIVEAU 3 Coef. Réf. 392
 
 REGROUPEMENT TECHNICIEN DES SERVICES LOGISTIQUES
 
@@ -122,7 +104,7 @@ Complément diplôme |
 
 Complément métier |
 
-Responsable des Services Techniques de Dialyse |
+Responsable des services techniques de dialyse |
 
 |
 
@@ -130,14 +112,28 @@ Responsable des Services Techniques de Dialyse |
 
 102 |
 
+Responsable de sécurité |
+
+36 |
+
+|
+
+|
+
 Définition du métier
 
-Le responsable logistique niveau 3 assure la responsabilité et la coordination des techniciens des services logistiques spécialisés en dialyse.
+Le responsable des services techniques de dialyse assure la responsabilité et la coordination des techniciens des services logistiques spécialisés en dialyse.
+
+Le responsable de sécurité coordonne l'ensemble de l'activité relevant de son domaine d'intervention. Il a la responsabilité des équipes de sécurité et conseille la direction de la structure en matière de sécurité et incendie.
 
 Conditions d'accès au métier
 
-Il est titulaire d'un D.U.T. ou d'un B.T.S. électronique ou similaire et possède une expérience professionnelle de cinq ans au minimum.
+Le responsable des services techniques de dialyse est titulaire d'un D.U.T. ou d'un B.T.S. électronique ou similaire et possède une expérience professionnelle de cinq ans au minimum.
+
+Le responsable de sécurité est titulaire du SSIAP 3 ou des équivalences établies réglementairement.
 
 Dispositions spécifiques
 
-Le responsable logistique niveau 3 bénéficie d'un complément métier de 102 points.
+Le responsable des services techniques de dialyse bénéficie d'un complément métier de 102 points.
+
+Le responsable de sécurité bénéficie d'un complément encadrement de 36 points.

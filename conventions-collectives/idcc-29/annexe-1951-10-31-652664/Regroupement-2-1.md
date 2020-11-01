@@ -10,7 +10,7 @@ AGENT DES SERVICES EDUCATIFS ET SOCIAUX |
 
 Qui correspond à |
 
-1 METIER (nouveau) |
+1 METIER |
 
 AUXILIAIRE DE VIE |
 
@@ -38,7 +38,7 @@ Auxiliaire de vie |
 
 |
 
-33 |
+|
 
 |
 
@@ -48,4 +48,4 @@ L'auxiliaire de vie effectue, hors établissement d'hébergement collectif, un a
 
 Dispositions spécifiques
 
-Lorsque l'auxiliaire de vie est titulaire du diplôme d'Etat d'auxiliaire de vie sociale, il bénéficie d'un complément diplôme de 33 points.
+Lorsque l'auxiliaire de vie est titulaire du diplôme d'Etat d'accompagnant éducatif et social, il accède au métier d'accompagnant éducatif et social.

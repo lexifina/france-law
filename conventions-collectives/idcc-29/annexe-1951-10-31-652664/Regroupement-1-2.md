@@ -2,23 +2,13 @@
 
 Filière : soignante – Regroupement 1.2
 
-REGROUPEMENT DE METIERS |
-
 AUXILIAIRE DE SOINS |
-
-Sont rattachés à ce regroupement |
 
 Qui correspondent à |
 
-2 EMPLOIS courants actuels |
-
-2 METIERS (nouveaux) |
-
-Aide-soignant diplômé |
+2 METIERS |
 
 AIDE - SOIGNANT |
-
-Auxiliaire de puériculture |
 
 AUXILIAIRE DE PUERICULTURE |
 
@@ -28,9 +18,9 @@ Les aides-soignants et auxiliaires de puériculture sont titulaires des diplôme
 
 COEFFICIENT DE REFERENCE |
 
-351 |
+376 |
 
-AIDE-SOIGNANT Coef. Réf. 351
+AIDE-SOIGNANT Coef. Réf. 376
 
 REGROUPEMENT AUXILIAIRE DE SOINS
 
@@ -42,7 +32,7 @@ Complément diplôme |
 
 Complément métier |
 
-Aide-soignant diplômé |
+Aide-soignant |
 
 |
 
@@ -56,7 +46,7 @@ L'aide-soignant assure, selon les dispositions réglementaires, les soins d'hygi
 
 Conditions d'accès au métier
 
-L'aide-soignant est titulaire du diplôme professionnel d'aide-soignant ou remplit les conditions pour exercer en qualité d'aide-soignant non diplômé assimilé.
+L'aide-soignant est titulaire du diplôme d'État d'aide-soignant ou remplit les conditions pour exercer en qualité d'aide-soignant non diplômé assimilé.
 
 Dispositions spécifiques
 
@@ -64,7 +54,7 @@ L'aide-soignant exerçant auprès des personnes âgées relevant des établissem
 
 L'aide-soignant exerçant dans les maisons d'accueil spécialisées, les centres d'hébergement et de réadaptation sociale et les foyers de vie, bénéficie d'une prime fonctionnelle de 11 points.
 
-AUXILIAIRE DE PUERICULTURE Coef. Réf. 351
+AUXILIAIRE DE PUERICULTURE Coef. Réf. 376
 
 REGROUPEMENT AUXILIAIRE DE SOINS
 
@@ -90,7 +80,7 @@ L'auxiliaire de puériculture, selon les dispositions réglementaires, assure de
 
 Conditions d'accès au métier
 
-L'auxiliaire de puériculture est titulaire du diplôme professionnel d'auxiliaire de puériculture.
+L'auxiliaire de puériculture est titulaire du diplôme d'État d'auxiliaire de puériculture.
 
 Dispositions spécifiques
 

@@ -4,15 +4,15 @@ Filière : logistique – Regroupement 4.3
 
 REGROUPEMENT DE METIERS |
 
-OUVRIER DES SERVICES LOGISTIQUES NIV 1 |
+TECHNICIEN DES SERVICES LOGISTIQUES |
 
 Sont rattachés à ce regroupement |
 
 Qui correspondent à |
 
-12 EMPLOIS courants actuels |
+12 FONCTIONS |
 
-2 METIERS (nouveaux) |
+2 METIERS |
 
 Commis de cuisine |
 
@@ -22,45 +22,35 @@ NIVEAU 1
 
 |
 
-Ouvrier d'entretien
+Ouvrier d'entretien |
 
-Ouvrier professionnel de 1ere catégorie (cuisine,
+Ouvrier professionnel
 
-menuiserie, serrurerie, peinture, électricité, plomberie, jardin,...)
+(cuisine, menuiserie, serrurerie, peinture,
 
-|
+électricité, plomberie, jardin,...) |
 
-Ouvrier des services d'orthopédie
+Ouvrier des services d'orthopédie |
 
-Magasinier
+Magasinier |
 
 Conducteur poids lourds et transports en commun
 
-par intermittence
+par intermittence |
 
-|
+Lingère mécanicienne |
 
-Lingère mécanicienne
+Conducteur machine à laver 30 kg |
 
-Conducteur machine à laver 30 kg
+Agent des services de sécurité |
 
-|
+Gouvernante |
 
-Gouvernante
+RESPONSABLE LOGISTIQUE NIVEAU 1 |
 
-Gouvernante principale
+Chef serveur |
 
-Chef serveur
-
-Chef lingère
-
-|
-
-RESPONSABLE LOGISTIQUE
-
-NIVEAU 1
-
-|
+Chef lingère |
 
 Critères de regroupement
 
@@ -100,9 +90,9 @@ Ouvrier d'entretien |
 
 |
 
-Ouvrier professionnel de 1ere catégorie (cuisine,
+Ouvrier professionnel (cuisine, menuiserie, serrurerie,
 
-menuiserie, serrurerie, peinture, électricité, plomberie, jardin,...) |
+peinture, électricité, plomberie, jardin,...) |
 
 |
 
@@ -150,6 +140,14 @@ Conducteur machine à laver 30 kg |
 
 |
 
+Agent des services de sécurité |
+
+|
+
+|
+
+10 |
+
 Définition du métier
 
 L'ouvrier des services logistiques Niveau 1 assure, selon le cas :
@@ -162,9 +160,21 @@ L'ouvrier des services logistiques Niveau 1 assure, selon le cas :
 
 – l'exécution des interventions de maintenance des appareillages, ainsi que les aides techniques et les travaux simples de production en orthopédie.
 
+L'ouvrier des services logistiques Niveau 1 exerçant en qualité d'agent des services de sécurité assure la prévention et la sécurité des installations et des personnes. À ce titre :
+
+– il s'assure du maintien en bon état de fonctionnement des installations de lutte contre l'incendie de l'établissement et sensibilise le personnel au risque incendie,
+
+– il contribue à une fonction de modération hors cadre thérapeutique.
+
 Conditions d'accès au métier
 
 L'ouvrier des services logistiques Niveau 1 est titulaire d'un C.A.P. ou d'un B.E.P., ou d'un certificat de formation professionnelle, ou d'une qualification reconnue de même niveau.
+
+L'agent des services de sécurité est titulaire du SSIAP 1 ou des équivalences établies réglementairement.
+
+Dispositions spécifiques
+
+L'agent des services de sécurité bénéficie d'un complément métier de 10 points.
 
 RESPONSABLE LOGISTIQUE - NIVEAU 1 Coef. Réf. 329
 
@@ -187,12 +197,6 @@ Gouvernante |
 ou
 
 40 |
-
-|
-
-|
-
-Gouvernante principale |
 
 |
 

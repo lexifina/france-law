@@ -2,75 +2,31 @@
 
 Filière : soignante – Regroupement 1.7
 
-REGROUPEMENT DE METIERS |
-
 REEDUCATEUR |
-
-Sont rattachés à ce regroupement |
 
 Qui correspondent à |
 
-13 EMPLOIS courants actuels |
-
-7 METIERS (nouveaux) |
-
-Orthophoniste
-
-|
+7 METIERS |
 
 ORTHOPHONISTE |
 
-Orthoptiste |
-
 ORTHOPTISTE |
-
-Masseur-kinésithérapeute
-
-|
 
 MASSEUR-KINESITHERAPEUTE |
 
-Ergothérapeute diplômé
-
-Ergothérapeute autorisé
-
-|
-
 ERGOTHERAPEUTE |
-
-Psychomotricien
-
-|
 
 PSYCHOMOTRICIEN |
 
-Diététicien |
-
 DIETETICIEN |
 
-|
-
 PEDICURE-PODOLOGUE |
-
-Orthophoniste chef de groupe
-
-Orthoptiste chef de groupe
-
-Masseur-kinésithérapeute chef de groupe
-
-Ergothérapeute chef de groupe
-
-Psychomotricien chef de groupe
-
-Diététicien chef de groupe
-
-|
-
-RESPONSABLE REEDUCATEUR |
 
 Critères de regroupement
 
 Le rééducateur contribue, sous l'autorité technique médicale, au dépistage, à la prévention, à la rééducation et à la thérapie des personnes accueillies en développant des traitements adaptés aux déficiences ou aux handicaps de nature somatique, psychique, mentale, physique, motrice, du langage ou de la vue.
+
+Le rééducateur est titulaire des diplômes requis pour exercer la profession correspondante.
 
 COEFFICIENT DE REFERENCE |
 
@@ -176,17 +132,7 @@ Complément diplôme |
 
 Complément métier |
 
-Ergothérapeute diplômé
-
-|
-
-|
-
-|
-
-|
-
-Ergothérapeute autorisé
+Ergothérapeute
 
 |
 
@@ -258,7 +204,7 @@ Le diététicien exerce conformément aux dispositions réglementaires.
 
 Conditions d'accès au métier
 
-Le diététicien est titulaire des diplômes, certificats ou titre sanctionnant une formation technique de diététique dans les conditions légales et réglementaires requises.
+Le diététicien est titulaire du diplôme d'Etat de diététicien.
 
 PEDICURE-PODOLOGUE Coef. Réf. 487
 
@@ -287,75 +233,3 @@ Le pédicure-podologue exerce conformément aux dispositions réglementaires.
 Conditions d'accès au métier
 
 Le pédicure-podologue est titulaire du diplôme d'Etat de pédicure-podologue.
-
-RESPONSABLE REEDUCATEUR Coef. Réf. 487
-
-REGROUPEMENT REEDUCATEUR
-
-|
-
-Complément encadrement |
-
-Complément diplôme |
-
-Complément métier |
-
-Orthophoniste chef de groupe |
-
-73 |
-
-|
-
-|
-
-Orthoptiste chef de groupe |
-
-73 |
-
-|
-
-|
-
-Masseur-kinésithérapeute chef de groupe |
-
-73 |
-
-|
-
-|
-
-Ergothérapeute chef de groupe |
-
-73 |
-
-|
-
-|
-
-Psychomotricien chef de groupe |
-
-73 |
-
-|
-
-|
-
-Diététicien chef de groupe |
-
-73 |
-
-|
-
-|
-
-Définition du métier
-
-Le responsable rééducateur assure la responsabilité et la coordination de personnels de rééducation.
-
-Conditions d'accès au métier
-
-Le responsable rééducateur a sous ses ordres au moins 3 rééducateurs E.T.P. de sa spécialité.
-
-Dispositions spécifiques
-
-Le responsable rééducateur bénéficie d'un complément encadrement de 73 points.

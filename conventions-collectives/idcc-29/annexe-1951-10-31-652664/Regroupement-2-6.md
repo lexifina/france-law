@@ -4,31 +4,31 @@ Filière : éducative et sociale – Regroupement 2.6
 
 REGROUPEMENT DE METIERS |
 
-TECHNICIEN DE L'INTERVENTION SOCIALE |
+CHARGÉ D'INSERTION |
 
 |
 
 Qui correspond à |
 
+1 METIER |
+
+CHARGÉ D'INSERTION EN CENTRE DE
+
+RÉÉDUCATION PROFESSIONNELLE (CRP)
+
 |
-
-1 METIER (nouveau) |
-
-|
-
-COORDONNATEUR DE SECTEUR |
 
 Critères de regroupement
 
-Le technicien de l'intervention sociale effectue des tâches complexes permettant de répondre aux besoins des personnes prises en charge.
+Le chargé d'insertion conseille et propose des actions d'accompagnement professionnel afin de favoriser l'emploi et l'insertion professionnelle des personnes.
 
 COEFFICIENT DE REFERENCE |
 
-440 |
+432 |
 
-COORDONNATEUR DE SECTEUR Coef. Réf. 440
+CHARGÉ D'INSERTION EN CRP Coef. Réf. 432
 
-REGROUPEMENT TECHNICIEN DE L'INTERVENTION SOCIALE
+REGROUPEMENT CHARGÉ D'INSERTION
 
 |
 
@@ -38,22 +38,28 @@ Complément diplôme |
 
 Complément métier |
 
-Coordonnateur de secteur |
+Chargé d'insertion en CRP |
 
 |
 
 |
 
-10 |
+62 |
 
 Définition du métier
 
-Le coordonnateur de secteur assure la mise en oeuvre et la coordination des activités en mobilisant les ressources nécessaires.
+Sous la responsabilité de la direction, le chargé d'insertion en centre de rééducation professionnelle :
+
+– assure un rôle d'information, de communication, de suivi et d'accompagnement permanent auprès des stagiaires,
+
+– assure la prospection et favorise l'insertion socio-professionnelle des stagiaires,
+
+– recueille auprès des entreprises les informations relatives aux emplois offerts ou prévisibles, aux évolutions des qualifications et aux besoins de formation.
 
 Conditions d'accès au métier
 
-Le coordonnateur de secteur doit être titulaire d'un diplôme ou d'une certification de niveau III ou avoir une expérience professionnelle reconnue par l'employeur.
+Le chargé d'insertion doit justifier d'une expérience professionnelle minimum de cinq ans dans le domaine correspondant.
 
 Dispositions spécifiques
 
-Le coordonnateur de secteur bénéficie d'un complément métier de 10 points.
+Le chargé d'insertion bénéficie d'un complément métier de 62 points.

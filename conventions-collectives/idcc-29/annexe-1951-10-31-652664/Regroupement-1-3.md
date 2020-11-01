@@ -4,33 +4,35 @@ Filière : soignante – Regroupement 1.3
 
 REGROUPEMENT DE METIERS |
 
-AUXILIAIRE DE SOINS |
+ASSISTANT DES ACTIVITES DE SANTE |
 
 Sont rattachés à ce regroupement |
 
 Qui correspondent à |
 
-3 EMPLOIS courants actuels |
+2 FONCTIONS |
 
-2 METIERS (nouveaux) |
+3 METIERS |
 
-Secrétaire médical diplômé N1/N2/N3
+Secrétaire médical diplômé
 
-Secrétaire médical F8 N1/N2/N3
+Secrétaire médical Bac spécialisé en secrétariat médical
+
+ou médico-social ou diplôme équivalent ou certificat CRF
 
 |
 
 SECRETAIRE MEDICAL |
 
-Secrétaire médical principal coordonnateur |
-
 RESPONSABLE DU SECRETARIAT MEDICAL |
+
+ASSISTANT GESTIONNAIRE DE FLUX |
 
 Critères de regroupement
 
-Le secrétaire médical assure les travaux d'accueil et de secrétariat dans le cadre de l'activité médicale et administrative.
+En fonction de son champ de compétences, l'assistant des activités de santé assure les travaux d'accueil et de secrétariat dans le cadre de l'activité médicale et administrative ou apporte une assistance à l'organisation des hospitalisations et à la coordination de la gestion des flux.
 
-Il est titulaire des diplômes requis pour exercer cette spécialité.
+Il est titulaire d'un diplôme de niveau Bac ou des diplômes requis pour exercer son métier.
 
 COEFFICIENT DE REFERENCE |
 
@@ -38,7 +40,7 @@ COEFFICIENT DE REFERENCE |
 
 SECRETAIRE MEDICAL Coef. Réf. 376
 
-REGROUPEMENT SECRETAIRE MEDICAL
+REGROUPEMENT ASSISTANT DES ACTIVITES DE SANTE
 
 |
 
@@ -56,7 +58,9 @@ Secrétaire médical diplômé |
 
 |
 
-Secrétaire médical F8 |
+Secrétaire médical Bac spécialisé en secrétariat médical
+
+ou médico-social ou diplôme équivalent ou certificat CRF |
 
 |
 
@@ -74,9 +78,9 @@ Conditions d'accès au métier
 
 Le secrétaire médical est titulaire :
 
--soit du brevet d'enseignement social (option secrétariat médico-social) ou d'un titre équivalent ou d'une formation conventionnellement assimilée ;
+– soit du brevet d'enseignement social (option secrétariat médico-social) ou d'un titre équivalent ou d'une formation conventionnellement assimilée ;
 
--soit d'un baccalauréat spécialisé en secrétariat médical ou médico-social, d'un diplôme équivalent ou du certificat de secrétaire médico-social de la Croix-Rouge Française.
+– soit d'un baccalauréat spécialisé en secrétariat médical ou médico-social, d'un diplôme équivalent ou du certificat de secrétaire médico-social de la Croix-Rouge Française.
 
 Dispositions spécifiques
 
@@ -84,7 +88,7 @@ Le secrétaire médical titulaire d'un baccalauréat spécialisé en secrétaria
 
 RESPONSABLE DU SECRETARIAT MEDICAL Coef. Réf. 376
 
-REGROUPEMENT SECRETAIRE MEDICAL
+REGROUPEMENT ASSISTANT DES ACTIVITES DE SANTE
 
 |
 
@@ -94,7 +98,7 @@ Complément diplôme |
 
 Complément métier |
 
-Secrétaire médical principal |
+Responsable du secrétariat médical |
 
 25
 
@@ -110,10 +114,6 @@ ou
 
 |
 
-Coordonnateur |
-
-20
-
 |
 
 |
@@ -128,6 +128,38 @@ Le responsable du secrétariat médical doit justifier d'une expérience d'au mo
 
 Dispositions spécifiques
 
-Le responsable du secrétariat médical bénéficie d'un complément encadrement de 25 points s'il encadre moins de 10 secrétaires médicaux ETP ou de 45 points s'il encadre 10 et plus de secrétaires médicaux ETP.
+Le responsable du secrétariat médical bénéficie d'un complément encadrement de 25 points s'il encadre moins de 10 secrétaires médicaux ETP ou de 45 points s'il encadre 10 et plus secrétaires médicaux ETP.
 
-Le responsable du secrétariat médical titulaire du baccalauréat spécialisé en secrétariat médical ou médico-social, d'un diplôme équivalent ou du certificat de secrétaire médico-social de la Croix-Rouge Française bénéficie d'un complément diplôme de 20 points.
+Le responsable du secrétariat médical titulaire du baccalauréat spécialisé en secrétariat médical ou médico-social, d'un diplôme équivalent ou du certificat de secrétaire médico-social de la Croix-Rouge Française, bénéficie d'un complément diplôme de 20 points.
+
+ASSISTANT GESTIONNAIRE DE FLUX Coef. Réf. 376
+
+REGROUPEMENT ASSISTANT DES ACTIVITES DE SANTE
+
+|
+
+Complément encadrement |
+
+Complément diplôme |
+
+Complément métier |
+
+Assistant gestionnaire de flux |
+
+|
+
+|
+
+20 |
+
+Définition du métier
+
+Il assiste le gestionnaire de flux dans ses tâches. Il aide à l'organisation des hospitalisations et à la coordination de la gestion des flux.
+
+Conditions d'accès au métier
+
+Pour être recruté en qualité d'assistant gestionnaire des flux le salarié doit être titulaire du baccalauréat ou d'un diplôme de niveau équivalent.
+
+Dispositions spécifiques
+
+L'assistant gestionnaire de flux bénéficie d'un complément métier de 20 points.

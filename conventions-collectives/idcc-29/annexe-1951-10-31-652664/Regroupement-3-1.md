@@ -4,37 +4,17 @@ Filière : administrative – Regroupement 3.1
 
 REGROUPEMENT DE METIERS |
 
-EMPLOYE ADMINISTRATIF |
+EMPLOYÉ ADMINISTRATIF |
 
-Sont rattachés à ce regroupement |
+|
 
 Qui correspondent à |
 
-9 EMPLOIS courants actuels |
-
-3 METIERS (nouveaux) |
-
-Employé aux écritures et qualifié |
+3 METIERS |
 
 EMPLOYE ADMINISTRATIF |
 
-Employé administratif et qualifié |
-
-Commis administratif |
-
-Agent administratif principal |
-
-Vaguemestre |
-
 EMPLOYE D'ACCUEIL ET DE COMMUNICATION |
-
-Téléphoniste puis principal |
-
-Standardiste puis principal |
-
-Agent postal |
-
-Chef de standard téléphonique |
 
 RESPONSABLE D'ACCUEIL ET DE COMMUNICATION |
 
@@ -46,9 +26,9 @@ COEFFICIENT DE REFERENCE |
 
 329 |
 
-EMPLOYE ADMINISTRATIF Coef. Réf. 329
+EMPLOYÉ ADMINISTRATIF Coef. Réf. 329
 
-REGROUPEMENT EMPLOYE ADMINISTRATIF
+REGROUPEMENT EMPLOYÉ ADMINISTRATIF
 
 |
 
@@ -58,31 +38,7 @@ Complément diplôme |
 
 Complément métier |
 
-Employé aux écritures et qualifié |
-
-|
-
-|
-
-|
-
-Employé administratif et qualifié |
-
-|
-
-10 |
-
-10 |
-
-Commis administratif |
-
-|
-
-10 |
-
-10 |
-
-Agent administratif principal |
+Employé administratif |
 
 |
 
@@ -104,9 +60,9 @@ L'employé administratif titulaire d'un C.A.P. d'employé de bureau, d'un B.E.P.
 
 L'employé administratif faisant preuve d'une réelle autonomie dans la réalisation de ses tâches bénéficie d'un complément métier de 10 points.
 
-EMPLOYE D'ACCUEIL ET DE COMMUNICATION Coef. Réf. 329
+EMPLOYÉ D'ACCUEIL ET DE COMMUNICATION Coef. Réf. 329
 
-REGROUPEMENT EMPLOYE ADMINISTRATIF
+REGROUPEMENT EMPLOYÉ ADMINISTRATIF
 
 |
 
@@ -116,31 +72,7 @@ Complément diplôme |
 
 Complément métier |
 
-Vaguemestre |
-
-|
-
-|
-
-|
-
-Téléphoniste |
-
-|
-
-|
-
-|
-
-Standardiste |
-
-|
-
-|
-
-|
-
-Agent postal |
+Employé d'accueil et de communication |
 
 |
 
@@ -162,7 +94,7 @@ L'employé d'accueil et de communication expressément chargé de recevoir et di
 
 RESPONSABLE D'ACCUEIL ET DE COMMUNICATION Coef. Réf. 329
 
-REGROUPEMENT EMPLOYE ADMINISTRATIF
+REGROUPEMENT EMPLOYÉ ADMINISTRATIF
 
 |
 
@@ -172,7 +104,7 @@ Complément diplôme |
 
 Complément métier |
 
-Chef de standard téléphonique |
+Responsable d'accueil et de communication |
 
 25 |
 

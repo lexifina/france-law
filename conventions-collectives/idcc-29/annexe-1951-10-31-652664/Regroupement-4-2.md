@@ -6,41 +6,15 @@ REGROUPEMENT DE METIERS |
 
 AGENT DES SERVICES LOGISTIQUES NIV 2 |
 
-Sont rattachés à ce regroupement |
+|
 
-Qui correspondent à |
+Qui correspond à |
 
-9 EMPLOIS courants actuels |
-
-1 METIER (nouveau) |
-
-Agent qualifié |
+1 METIER |
 
 AGENT DES SERVICES LOGISTIQUES
 
 NIVEAU 2
-
-|
-
-Concierge |
-
-Tournant de cuisine N1/N2
-
-Serveur qualifié de restaurant
-
-|
-
-Aide-ouvrier |
-
-Employé de lingerie
-
-Employé de buanderie
-
-|
-
-Aide-magasinier
-
-Conducteur de voiture de tourisme et utilitaire
 
 |
 
@@ -64,71 +38,7 @@ Complément diplôme |
 
 Complément métier |
 
-Agent qualifié |
-
-|
-
-|
-
-|
-
-Concierge |
-
-|
-
-|
-
-|
-
-Tournant de cuisine N1/N2 |
-
-|
-
-|
-
-|
-
-Serveur qualifié de restaurant |
-
-|
-
-|
-
-|
-
-Aide-ouvrier |
-
-|
-
-|
-
-|
-
-Employé de lingerie |
-
-|
-
-|
-
-|
-
-Employé de buanderie |
-
-|
-
-|
-
-|
-
-Aide-magasinier |
-
-|
-
-|
-
-|
-
-Conducteur de voiture de tourisme et utilitaire |
+Agent des services logistiques Niveau 2 |
 
 |
 

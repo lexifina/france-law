@@ -10,9 +10,9 @@ Sont rattachés à ce regroupement |
 
 Qui correspondent à |
 
-20 EMPLOIS courants actuels |
+14 FONCTIONS |
 
-3 METIERS (nouveaux) |
+3 METIERS |
 
 Ouvrier qualifié (cuisine, menuiserie, serrurerie,
 
@@ -20,7 +20,7 @@ peinture, électricité, plomberie, jardin,...)
 
 Opérateur technique de dialyse
 
-Ouvrier professionnel de 2eme catégorie (cuisine, menuiserie,
+Ouvrier professionnel (cuisine, menuiserie,
 
 serrurerie, peinture, électricité, plomberie, jardin,...)
 
@@ -40,15 +40,11 @@ Lingère qualifiée
 
 Conducteur machine à laver et à essorer |
 
-Ouvrier hautement qualifié N1/N2 |
+|
 
-OUVRIER HAUTEMENT QUALIFIE |
+OUVRIER HAUTEMENT QUALIFIÉ |
 
-Chef de buanderie N1/N2 (- 9 p)
-
-Chef de buanderie N1/N2 (9 à 15 p)
-
-Chef de buanderie N1/N2 (+ 15 p) |
+Chef de buanderie |
 
 RESPONSABLE LOGISTIQUE
 
@@ -58,21 +54,15 @@ Contremaître
 
 Surveillant d'entretien |
 
-Sous chef de cuisine N1/N2 (6-9)
+Sous chef de cuisine |
 
-Sous chef de cuisine N1/N2 (10-19)
+Chef de cuisine |
 
-Sous chef de cuisine (+ 19) |
-
-Chef de cuisine N1/N2 (3-5)
-
-Chef de cuisine N1/N2 (6-9)
-
-Chef de cuisine N1/N2 (10-19) |
+Chef d'équipe des services de sécurité |
 
 Critères de regroupement
 
-L'ouvrier des services logistiques Niveau 2 est un salarié qui exécute des tâches d'une complexité exigeant une qualification correspondant à deux C.A.P. ou à deux Brevets Professionnels de qualification ou à un C.A.P. et à B.P. de spécialités différentes et concourant à l'exercice d'une même branche professionnelle.
+L'ouvrier des services logistiques Niveau 2 est un salarié qui exécute des tâches d'une complexité exigeant une qualification correspondant à deux C.A.P. ou à deux Brevets Professionnels de qualification ou à un C.A.P. et à un B.P. de spécialités différentes et concourant à l'exercice d'une même branche professionnelle.
 
 COEFFICIENT DE REFERENCE |
 
@@ -232,7 +222,7 @@ Complément diplôme |
 
 Complément métier |
 
-Chef de buanderie (- 9 p) |
+Chef de buanderie |
 
 25
 
@@ -241,18 +231,6 @@ Chef de buanderie (- 9 p) |
 ou
 
 60 |
-
-|
-
-|
-
-Chef de buanderie (9 à 15 p) |
-
-|
-
-|
-
-Chef de buanderie (+ 15 p) |
 
 |
 
@@ -270,31 +248,25 @@ Surveillant d'entretien |
 
 60 |
 
-Sous-chef de cuisine (6-9) |
+Sous-chef de cuisine |
 
 25
 
 50
 
-ou 60 |
+ou
+
+60 |
 
 |
 
 15 |
 
-Sous-chef de cuisine (10-19) |
+|
 
 |
 
-15 |
-
-Sous-chef de cuisine (+ 19) |
-
-|
-
-15 |
-
-Chef de cuisine (3-5) |
+Chef de cuisine |
 
 15
 
@@ -306,21 +278,31 @@ Chef de cuisine (3-5) |
 
 50 |
 
-Chef de cuisine (6-9) |
+|
+
+Chef d'équipe des services de sécurité |
+
+15 |
 
 |
 
-50 |
-
-Chef de cuisine (10-19) |
-
-|
-
-50 |
+10 |
 
 Définition du métier
 
 Le responsable logistique niveau 2 assure la responsabilité et la coordination des personnels des services logistiques.
+
+Le responsable logistique niveau 2 exerçant en qualité de chef d'équipe des services de sécurité assure la prévention et la sécurité des installations et des personnes. À ce titre :
+
+– il s'assure du maintien en bon état de fonctionnement des installations de lutte contre l'incendie de l'établissement et sensibilise le personnel au risque incendie,
+
+– il contribue à une fonction de modération hors cadre thérapeutique.
+
+Il encadre les agents des services de sécurité et a pour mission la formation du personnel en matière de sécurité contre l'incendie notamment.
+
+Conditions d'accès au métier
+
+Le chef d'équipe des services de sécurité est titulaire du SSIAP 2 ou des équivalences établies réglementairement.
 
 Dispositions spécifiques
 
@@ -355,3 +337,5 @@ Lorsque le responsable logistique niveau 2 exerce en qualité de chef de cuisine
 – 60 points lorqu'il encadre de 10 à 15 salariés E.T.P.,
 
 – 80 points lorqu'il encadre plus de 15 salariés E.T.P.
+
+Le chef d'équipe des services de sécurité bénéficie d'un complément métier de 10 points et d'un complément encadrement de 15 points.

@@ -1,88 +1,40 @@
 # Article Regroupement 2.10
 
-Filière : éducative et sociale - Cadres – Regroupement 2.10
+Filière : éducative et sociale – Regroupement 2.10
 
 REGROUPEMENT DE METIERS |
 
-CADRES SOCIAUX ET EDUCATIFS |
+FORMATEUR |
 
-Sont rattachés à ce regroupement |
+|
 
-Qui correspondent à |
+Qui correspond à |
 
-8 EMPLOIS courants actuels |
+3 METIERS |
 
-4 METIERS (nouveaux) |
+FORMATEUR NIVEAU 1 EN CENTRE DE
 
-Educateur chef de jeunes enfants |
+RÉÉDUCATION PROFESSIONNELLE (CRP) |
 
-CADRE PETITE ENFANCE |
+FORMATEUR NIVEAU 1 BIS EN CENTRE DE
 
-Assistant social chef |
+RÉÉDUCATION PROFESSIONNELLE (CRP) |
 
-CADRE SOCIAL |
+FORMATEUR NIVEAU 2 EN CENTRE DE
 
-Assistant social chef de circonscription |
-
-Assistant social chef départemental |
-
-Assistant social responsable du service social |
-
-Educateur chef |
-
-CADRE EDUCATIF |
-
-Educateur technique chef |
-
-Directeur des études |
-
-CADRE PEDAGOGIQUE |
+RÉÉDUCATION PROFESSIONNELLE (CRP) |
 
 Critères de regroupement
 
-Sous l'autorité du chef d'établissement, le cadre social et éducatif assume l'organisation et le fonctionnement des différents services éducatifs ou sociaux.
-
-Il participe à l'élaboration du projet d'établissement et des projets de service.
-
-Il présente chaque année au chef d'établissement un rapport d'activité du service qu'il encadre.
+Le formateur en centre de rééducation professionnelle ou en centre de préorientation a pour mission, par des actions de formation professionnelle, de bilan, d'orientation ou d'insertion de permettre à des personnes reconnues travailleurs handicapés ou en difficulté sociale de s'intégrer dans un processus de reclassement et d'insertion professionnelle.
 
 COEFFICIENT DE REFERENCE |
 
-507 |
+505 |
 
-CADRE PETITE ENFANCE Coef. Réf. 507
+FORMATEUR NIVEAU 1 EN CRP Coef. Réf. 505
 
-REGROUPEMENT CADRES SOCIAUX ET EDUCATIFS
-
-|
-
-Complément encadrement |
-
-Complément diplôme |
-
-Complément métier |
-
-Educateur chef de jeunes enfants |
-
-|
-
-|
-
-|
-
-Définition du métier
-
-Le cadre petite enfance est chargé de la responsabilité et de la coordination des éducateurs petite enfance.
-
-Il veille, en outre, à la mise en oeuvre de la collaboration entre les éducateurs petite enfance, avec les autres personnels éducatifs et sociaux concernés, l'équipe soignante et ses partenaires (familles, institutions, professionnels...).
-
-Conditions d'accès au métier
-
-Le métier de cadre petite enfance est ouvert aux éducateurs petite enfance qui ont exercé ces fonctions pendant au moins cinq ans et qui sont chargés de la responsabilité éducative de plusieurs groupes d'enfants ou de la responsabilité éducative et administrative d'un service restreint.
-
-CADRE SOCIAL Coef. Réf. 507
-
-REGROUPEMENT CADRES SOCIAUX ET EDUCATIFS
+REGROUPEMENT FORMATEUR
 
 |
 
@@ -92,31 +44,7 @@ Complément diplôme |
 
 Complément métier |
 
-Assistant social chef |
-
-25 |
-
-|
-
-|
-
-Assistant social chef de circonscription |
-
-25 |
-
-|
-
-|
-
-Assistant social chef départemental |
-
-25 |
-
-|
-
-|
-
-Assistant social responsable du service socia |
+Formateur niveau 1 en CRP |
 
 |
 
@@ -126,21 +54,79 @@ Assistant social responsable du service socia |
 
 Définition du métier
 
-Le cadre social est chargé de la responsabilité et de la coordination des assistants sociaux, du fonctionnement et de l'organisation du service social.
+Sous la responsabilité du responsable de formation, le formateur de Niveau 1, pour le secteur d'activité qui le concerne, anime seul ou en équipe pédagogique des actions de formation, de bilan d'orientation ou d'insertion permettant à des personnes reconnues travailleurs handicapés ou en difficulté sociale :
+
+– d'établir un projet de rééducation et d'insertion professionnelle,
+
+– de s'adapter aux évolutions des emplois,
+
+– de leur faciliter l'accès et/ou d'accéder à des qualifications professionnelles, dans le cadre d'actions préparatoires à la formation, d'actions d'insertion, formations initiales et/ou perfectionnement.
+
+Il participe à l'évolution de la formation, aux évolutions et bilans qualitatifs et quantitatifs.
+
+Il s'intègre au travail de l'équipe pluridisciplinaire, dans le cadre du dispositif de la rééducation professionnelle.
 
 Conditions d'accès au métier
 
-Il est titulaire des diplômes requis par le Code de l'Action sociale et des familles et encadre des assistants sociaux ou est responsable d'un secteur géographique déterminé.
+Le formateur de Niveau 1 doit justifier dans l'emploi exercé à l'embauche :
+
+– de la reconnaissance d'un diplôme professionnel ou technique,
+
+– de cinq ans de pratique professionnelle dans le métier enseigné,
+
+– d'une formation pédagogique sanctionnée par un titre professionnel de formateur ou d'une autre formation reconnue par le ministère qui assure le contrôle pédagogique de la formation ou encore d'une formation validée par les branches professionnelles.
+
+FORMATEUR NIVEAU 1 BIS EN CRP Coef. Réf. 505
+
+REGROUPEMENT FORMATEUR
+
+|
+
+Complément encadrement |
+
+Complément diplôme |
+
+Complément métier |
+
+Formateur niveau 1 bis en CRP |
+
+|
+
+30 |
+
+|
+
+Définition du métier
+
+Sous la responsabilité du responsable de formation, le formateur de Niveau 1 bis, pour le secteur d'activité qui le concerne, anime seul ou en équipe pédagogique des actions de formation, de bilan d'orientation ou d'insertion permettant à des personnes reconnues travailleurs handicapés ou en difficulté sociale :
+
+– d'établir un projet de rééducation et d'insertion professionnelle,
+
+– de s'adapter aux évolutions des emplois,
+
+– de leur faciliter l'accès et/ou d'accéder à des qualifications professionnelles, dans le cadre d'actions préparatoires à la formation, d'actions d'insertion, formations initiales et/ou perfectionnement.
+
+Il participe à l'évolution de la formation, aux évolutions et bilans qualitatifs et quantitatifs.
+
+Il s'intègre au travail de l'équipe pluridisciplinaire, dans le cadre du dispositif de la rééducation professionnelle.
+
+Conditions d'accès au métier
+
+Le formateur de Niveau 1 bis doit justifier dans l'emploi exercé à l'embauche :
+
+– d'un diplôme de niveau III,
+
+– de cinq ans de pratique professionnelle dans le métier enseigné,
+
+– d'une formation pédagogique sanctionnée par un titre professionnel de formateur ou d'une autre formation reconnue par le ministère qui assure le contrôle pédagogique de la formation ou encore d'une formation validée par les branches professionnelles.
 
 Dispositions spécifiques
 
-Le cadre social qui a au moins 10 assistants sociaux sous ses ordres, ou qui exerce son activité sur plusieurs secteurs géographiques (40.000 à 50.000 habitants, ou qui est responsable de l'organisation et du fonctionnement du service départemental) bénéficie d'un complément encadrement de 25 points.
+Le formateur de Niveau 1 bis en centre de rééducation professionnelle ou en centre de préorientation titulaire d'un diplôme de niveau III bénéficie d'un complément diplôme de 30 points.
 
-Le cadre social exerçant dans un service de soutien à domicile rattaché à un établissement social ou médico-social et intervenant en soirée au moins 4 fois par semaine, durant 2 heures ou plus par intervention, au domicile des personnes, afin de leur apporter un soutien administratif, psychologique ou matériel en complément de la prise en charge dont elles bénéficient, par ailleurs, dans la journée, bénéficie d'une prime fonctionnelle de 15 points.
+FORMATEUR NIVEAU 2 EN CRP Coef. Réf. 505
 
-CADRE EDUCATIF Coef. Réf. 507
-
-REGROUPEMENT CADRES SOCIAUX ET EDUCATIFS
+REGROUPEMENT FORMATEUR
 
 |
 
@@ -150,62 +136,38 @@ Complément diplôme |
 
 Complément métier |
 
-Educateur chef |
+Formateur niveau 2 en CRP |
 
 |
 
-|
+45 |
 
-|
-
-Educateur technique chef |
-
-|
-
-|
-
-|
+22 |
 
 Définition du métier
 
-Le cadre éducatif est chargé de la responsabilité et de la coordination des éducateurs spécialisés ou des moniteurs d'atelier, des éducateurs techniques et des éducateurs techniques spécialisés. Il a, le cas échéant, sous l'autorité du directeur de l'établissement, la responsabilité de la préformation ou de la formation professionnelle des personnes accueillies et veille particulièrement au respect de la mise en oeuvre des règles de sécurité.
+Sous la responsabilité du responsable de formation, le formateur de Niveau 2, pour le secteur d'activité qui le concerne, anime seul ou en équipe pédagogique des actions de formation, de bilan d'orientation ou d'insertion permettant à des personnes reconnues travailleurs handicapés ou en difficulté sociale :
+
+– d'établir un projet de rééducation et d'insertion professionnelle,
+
+– de s'adapter aux évolutions des emplois,
+
+– de leur faciliter l'accès et/ou d'accéder à des qualifications professionnelles, dans le cadre d'actions préparatoires à la formation, d'actions d'insertion, formations initiales et/ou perfectionnement.
+
+Il participe à l'évolution de la formation, aux évolutions et bilans qualitatifs et quantitatifs.
+
+Il s'intègre au travail de l'équipe pluridisciplinaire, dans le cadre du dispositif de la rééducation professionnelle.
 
 Conditions d'accès au métier
 
-Le métier est ouvert aux éducateurs techniques spécialisés diplômés qui ont exercé pendant au moins cinq ans les fonctions d'éducateur technique spécialisé et aux éducateurs spécialisés qui ont exercé ces fonctions pendant au moins cinq ans et qui sont chargés de la responsabilité éducative de plusieurs groupes d'enfants ou de la responsabilité éducative et administrative d'un service restreint.
+Le formateur de Niveau 2 doit justifier dans l'emploi exercé à l'embauche :
+
+– d'un diplôme de niveau II,
+
+– de cinq ans de pratique professionnelle dans le métier enseigné,
+
+– d'une formation pédagogique sanctionnée par un titre professionnel de formateur ou d'une autre formation reconnue par le ministère qui assure le contrôle pédagogique de la formation ou encore d'une formation validée par les branches professionnelles.
 
 Dispositions spécifiques
 
-Le cadre éducatif exerçant les fonctions d'éducateur technique chef assurant la responsabilité du fonctionnement et de l'activité des ateleirs bénéficie d'une prime fonctionnelle de 24 points.
-
-CADRE PEDAGOGIQUE Coef. Réf. 507
-
-REGROUPEMENT CADRES SOCIAUX ET EDUCATIFS
-
-|
-
-Complément encadrement |
-
-Complément diplôme |
-
-Complément métier |
-
-Directeur des études |
-
-|
-
-|
-
-|
-
-Définition du métier
-
-Le cadre pédagogique participe aux actions de formation et d'éducation en assurant son service dans les disciplines de l'enseignement général et professionnel théorique.
-
-Il exerce dans toutes les classes de maternelle, primaires, secondaires ainsi que dans l'enseignement professionnel spécialisé.
-
-Il assure le suivi individuel et l'évaluation des élèves.
-
-Conditions d'accès au métier
-
-Le cadre pédagogique doit remplir les mêmes conditions de qualification que celles requises dans l'Education Nationale.
+Le formateur de Niveau 2 en centre de rééducation professionnelle ou en centre de préorientation bénéficie d'un complément diplôme de 45 points et d'un complément métier de 22 points.

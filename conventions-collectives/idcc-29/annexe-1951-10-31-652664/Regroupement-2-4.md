@@ -6,27 +6,21 @@ REGROUPEMENT DE METIERS |
 
 ASSISTANT SOCIO-EDUCATIF |
 
-Sont rattachés à ce regroupement |
+|
 
 Qui correspondent à |
 
-4 EMPLOIS courants actuels |
-
-3 METIERS (nouveaux) |
-
-Educateur physique et sportif N1 |
+4 METIERS |
 
 EDUCATEUR SPORTIF |
 
-Educateur physique et sportif N2 |
-
-Animateur socio-éducatif N1 |
-
 ANIMATEUR SOCIO-EDUCATIF N1 |
 
-Moniteur-éducateur |
-
 MONITEUR-EDUCATEUR |
+
+TECHNICIEN DE L'INTERVENTION
+
+SOCIALE ET FAMILIALE |
 
 Critères de regroupement
 
@@ -52,15 +46,7 @@ Complément diplôme |
 
 Complément métier |
 
-Educateur physique et sportif N1 |
-
-|
-
-|
-
-|
-
-Educateur physique et sportif N2 |
+Educateur sportif |
 
 |
 
@@ -106,13 +92,13 @@ L'animateur socio-éducatif Niveau 1 propose des activités adaptées aux person
 
 Conditions d'accès au métier
 
-L'animateur socio-éducatif N1 est titulaire d'un D.U.T. Animateur ou d'un diplôme équivalent.
+L'animateur socio-éducatif N1 est titulaire d'un D.U.T. Animation sociale et socio-culturelle ou du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « animation socio-éducative ou culturelle » ou d'un diplôme équivalent.
 
 Dispositions spécifiques
 
-L'animateur socio-éducatif N1 bénéficie d'un complément métier de 3 points.
+L'animateur socio-éducatif bénéficie d'un complément métier de 3 points.
 
-L'animateur socio-éducatif Niveau 1 exerçant dans les maisons d'accueil spécialisées, les centres d'hébergement et de réadaptation sociale et les foyers de vie bénéficie d'une prime fonctionnelle de 11 points.
+L'animateur socio-éducatif exerçant dans les maisons d'accueil spécialisées, les centres d'hébergement et de réadaptation sociale et les foyers de vie bénéficie d'une prime fonctionnelle de 11 points.
 
 MONITEUR-EDUCATEUR Coef. Réf. 378
 
@@ -146,16 +132,38 @@ Le temps de travail se répartit en temps de présence avec les personnes accuei
 
 Conditions d'accès au métier
 
-Le moniteur-éducateur doit être titulaire :
-
-- soit du Certificat d'aptitude aux fonctions de moniteur-éducateur (créé par le décret n° 70-240 du 09 mars 1970 modifié),
-
-- soit du diplôme ou du Certificat d'aptitude délivré par un centre de formation agréé,
-
-- soit du Certificat national de qualification de moniteur-éducateur régulièrement délivré au titre de l'action d'adaptation par application du Protocole d'Accord du 4 juin 1969.
+Le moniteur-éducateur doit être titulaire du diplôme d'Etat de moniteur-éducateur.
 
 Dispositions spécifiques
 
 Le moniteur-éducateur bénéficie d'un complément métier de 30 points.
 
 Le moniteur-éducateur exerçant dans les maisons d'accueil spécialisées, les centres d'hébergement et de réadaptation sociale et les foyers de vie bénéficie d'une prime fonctionnelle de 11 points.
+
+TECHNICIEN DE L'INTERVENTION SOCIALE ET FAMILIALE Coef. Réf. 378
+
+REGROUPEMENT ASSISTANT SOCIO-EDUCATIF
+
+|
+
+Complément encadrement |
+
+Complément diplôme |
+
+Complément métier |
+
+Technicien de l'intervention sociale et familiale |
+
+|
+
+|
+
+|
+
+Définition du métier
+
+Le technicien de l'intervention sociale et familiale intervient auprès de familles, de personnes en difficulté de vie ou en difficulté sociale, de personnes âgées ou handicapées, en leur apportant une aide matérielle ou un soutien technique, éducatif ou psychologique pour favoriser leur autonomie et leur intégration dans l'environnement et créer ou restaurer le lien social.
+
+Conditions d'accès au métier
+
+Le technicien de l'intervention sociale et familiale est titulaire du diplôme d'Etat de technicien de l'intervention sociale et familiale (TISF).

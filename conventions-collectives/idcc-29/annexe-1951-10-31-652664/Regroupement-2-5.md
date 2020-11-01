@@ -6,29 +6,17 @@ REGROUPEMENT DE METIERS |
 
 MONITEUR et EDUCATEUR TECHNIQUES |
 
-Sont rattachés à ce regroupement |
+|
 
 Qui correspondent à |
 
-6 EMPLOIS courants actuels |
-
-2 METIERS (nouveaux) |
-
-Moniteur d'atelier N1/N2 |
+3 METIERS |
 
 MONITEUR D'ATELIER |
 
-Moniteur d'atelier N2/N3 |
-
-Moniteur d'atelier N3 |
-
-Educateur technique N1/N2 |
-
 EDUCATEUR TECHNIQUE |
 
-Educateur technique N2/N3 |
-
-Educateur technique N3 |
+RESPONSABLE DE PRODUCTION |
 
 Critères de regroupement
 
@@ -50,23 +38,7 @@ Complément diplôme |
 
 Complément métier |
 
-Moniteur d'atelier N1 |
-
-|
-
-|
-
-|
-
-Moniteur d'atelier N2/N3 |
-
-|
-
-32 |
-
-|
-
-Moniteur d'atelier N3 |
+Moniteur d'atelier |
 
 |
 
@@ -86,19 +58,21 @@ Le moniteur d'atelier est titulaire :
 
 – soit d'un baccalauréat de technicien, d'un baccalauréat technologique, d'un baccalauréat professionnel, d'un brevet de technicien, d'un brevet d'enseignement industriel ou d'un diplôme d'enseignement technologique reconnu de niveau équivalent à l'un de ces brevets ou baccalauréats et de trois ans de pratique professionnelle dans le métier de base,
 
+– soit d'un certificat d'aptitude professionnelle, d'un brevet d'études professionnelles ou d'un diplôme reconnu équivalent et de cinq ans de pratique professionnelle dans le métier de base,
+
 – soit d'un brevet de technicien supérieur et de deux ans de pratique professionnelle dans le métier de base,
 
 – soit d'un diplôme universitaire de technologie et de deux ans de pratique professionnelle dans le métier de base,
 
 – soit d'un diplôme d'un niveau égal à Bac +2 et de deux ans de pratique professionnelle dans le métier de base,
 
-– soit d'un diplôme de niveau égal à Bac +3 et de deux ans de pratique professionnelle dans le métier de base,
+– soit d'un diplôme de niveau égal à Bac +3 et de deux ans de pratique professionnelle dans le métier de base.
 
 Dispositions spécifiques
 
 Le moniteur d'atelier titulaire d'un diplôme de niveau Bac +2 et au-delà bénéficie d'un complément diplôme égal à 32 points.
 
-Le moniteur d'atelier exerçant dans les centres d'orientation scolaire et professionnelle et assurant l'orientation des jeunes handicapés ou exerçant dans les C.A.T. et les centres d'hébergement et de réadaptation sociale et encadrant au moins 8 ouvriers handicapés bénéficie d'une prime fonctionnelle de 13 points.
+Le moniteur d'atelier exerçant dans les centres d'orientation scolaire et professionnelle et assurant l'orientation des jeunes handicapés ou exerçant dans les E.S.A.T. et les centres d'hébergement et de réadaptation sociale et encadrant au moins 8 ouvriers handicapés bénéficie d'une prime fonctionnelle de 13 points.
 
 Le moniteur d'atelier assurant la formation technologique ou l'adaptation technique en vue de favoriser l'insertion dans la vie professionnelle de jeunes handicapés ou inadaptés bénéficie d'une prime fonctionnelle de 12 points.
 
@@ -114,27 +88,11 @@ Complément diplôme |
 
 Complément métier |
 
-Educateur technique N1 |
+Educateur technique |
 
 |
 
-18 |
-
-|
-
-Educateur technique N2/N3 |
-
-|
-
-47 |
-
-|
-
-Educateur technique N3 |
-
-|
-
-47 |
+18 ou 47 |
 
 |
 
@@ -148,12 +106,50 @@ Conditions d'accès au métier
 
 L'éducateur technique remplit les mêmes conditions d'accès au métier que le moniteur d'atelier.
 
-En outre, il est titulaire du Certificat de formation pédagogique AFPA ou d'un Certificat reconnu équivalent par la Commission prévue à l'article 01.07.2 de la convention collective nationale du 31 octobre 1951.
+En outre, il est titulaire :
+
+– soit d'un titre professionnel de formateur,
+
+– soit d'un Certificat reconnu équivalent par la Commission prévue à l'article 01.07.2 de la convention collective nationale du 31 octobre 1951.
 
 Dispositions spécifiques
 
 L'éducateur technique bénéficie d'un complément diplôme de 18 points au titre de ses compétences pédagogiques reconnues. En outre, l'éducateur technique titulaire d'un diplôme de niveau Bac +2 et au-delà bénéficie d'un complément égal à 29 points.
 
-L'éducateur technique exerçant dans les centres d'orientation scolaire et professionnelle et assurant l'orientation des jeunes handicapés ou exerçant dans les C.A.T. et les centres d'hébergement et de réadaptation sociale et encadrant au moins 8 ouvriers handicapés bénéficie d'une prime fonctionnelle de 13 points.
+L'éducateur technique exerçant dans les centres d'orientation scolaire et professionnelle et assurant l'orientation des jeunes handicapés ou exerçant dans les E.S.A.T. et les centres d'hébergement et de réadaptation sociale et encadrant au moins 8 ouvriers handicapés bénéficie d'une prime fonctionnelle de 13 points.
 
 L'éducateur technique assurant la formation technologique ou l'adaptation technique en vue de favoriser l'insertion dans la vie professionnelle de jeunes handicapés ou inadaptés bénéficie d'une prime fonctionnelle de 12 points.
+
+RESPONSABLE DE PRODUCTION Coef. Réf. 427
+
+REGROUPEMENT MONITEUR ET EDUCATEUR TECHNIQUES
+
+|
+
+Complément encadrement |
+
+Complément diplôme |
+
+Complément métier |
+
+Responsable de production |
+
+|
+
+|
+
+33 |
+
+Définition du métier
+
+Le responsable de production organise la fabrication dans ses différentes phases, définit les postes de travail, les outillages nécessaires et détermine les temps d'exécution.
+
+Il organise, optimise et supervise des moyens et des procédés de fabrication, dans un objectif de production selon des impératifs de sécurité, environnement, qualité, coûts, délais, quantité.
+
+Conditions d'accès au métier
+
+Le responsable de production possède une expérience technique professionnelle de la fabrication et de ses différentes phases.
+
+Dispositions spécifiques
+
+Le responsable de production bénéficie d'un complément métier de 33 points.

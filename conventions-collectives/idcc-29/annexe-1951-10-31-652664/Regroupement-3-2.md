@@ -4,19 +4,23 @@ Filière : administrative – Regroupement 3.2
 
 REGROUPEMENT DE METIERS |
 
-TECHNICIEN ADMINISTRATIF |
+TECHNICIEN DES SERVICES ADMINISTRATIFS |
 
 Est rattaché à ce regroupement |
 
 Qui correspond à |
 
-1 EMPLOI courant actuel |
+3 FONCTIONS |
 
-1 METIER (nouveau) |
+1 METIER |
 
-Technicien Niveaux 1, 2 |
+Technicien |
 
 TECHNICIEN ADMINISTRATIF |
+
+Technicien informatique |
+
+Technicien de l'information médicale |
 
 Critères de regroupement
 
@@ -30,7 +34,7 @@ COEFFICIENT DE REFERENCE |
 
 TECHNICIEN ADMINISTRATIF Coef. Réf. 392
 
-REGROUPEMENT TECHNICIEN ADMINISTRATIF
+REGROUPEMENT TECHNICIEN DES SERVICES ADMINISTRATIFS
 
 |
 
@@ -48,9 +52,29 @@ Technicien |
 
 |
 
+Technicien informatique |
+
+|
+
+|
+
+|
+
+Technicien de l'information médicale |
+
+|
+
+|
+
+|
+
 Définition du métier
 
 Le technicien administratif effectue des travaux administratifs d'une certaine complexité.
+
+Le technicien informatique effectue des travaux informatiques d'une certaine complexité.
+
+Le technicien de l'information médicale collecte et traite les informations médicales concernant les patients. Il participe à l'analyse de l'activité médicale de l'établissement en utilisant ou en mettant en oeuvre les moyens techniques et matériels adaptés sous le contrôle du médecin responsable de l'information médicale.
 
 Conditions d'accès au métier
 

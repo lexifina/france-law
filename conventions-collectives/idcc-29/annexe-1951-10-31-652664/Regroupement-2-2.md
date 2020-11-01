@@ -6,23 +6,15 @@ REGROUPEMENT DE METIERS |
 
 AUXILIAIRE EDUCATIF |
 
-Sont rattachés à ce regroupement |
+|
 
 Qui correspondent à |
 
-3 EMPLOIS courants actuels |
-
-2 METIERS (nouveaux) |
-
-Animateur d'activités culturelles et loisirs |
+2 METIERS |
 
 AUXILIAIRE SOCIO-EDUCATIF |
 
-Educateur sportif N1 |
-
 AUXILIAIRE EDUCATIF ET SPORTIF |
-
-Educateur sportif N2 |
 
 Critères de regroupement
 
@@ -48,7 +40,7 @@ Complément diplôme |
 
 Complément métier |
 
-Auxiliaire de vie |
+Auxiliaire socio-éducatif |
 
 |
 
@@ -62,7 +54,7 @@ L'auxiliaire socio-éducatif est chargé d'animer une ou plusieurs activité(s) 
 
 Conditions d'accès au métier
 
-L'auxiliaire socio-éducatif doit être titulaire d'un diplôme tel que le Brevet d'Etat d'Animateur Technicien de l'Education Populaire et de la Jeunesse (BEATEP) ou avoir une compétence reconnue par l'employeur.
+L'auxiliaire socio-éducatif doit être titulaire d'un diplôme tel que le Brevet professionnel de la jeunesse, de l'éducation populaire et du sport ou avoir une compétence reconnue par l'employeur.
 
 Dispositions spécifiques
 
@@ -80,15 +72,7 @@ Complément diplôme |
 
 Complément métier |
 
-Educateur sportif N1 |
-
-|
-
-|
-
-|
-
-Educateur sportif N2 |
+Auxiliaire éducatif et sportif |
 
 |
 
@@ -102,8 +86,8 @@ L'auxiliaire éducatif et sportif est chargé d'animer une ou plusieurs activit�
 
 Conditions d'accès au métier
 
-L'auxiliaire éducatif et sportif est titulaire du Brevet d'Etat d'éducateur sportif de 1er degré.
+L'auxiliaire éducatif et sportif est titulaire du Brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 Dispositions spécifiques
 
-Lorsque l'auxiliaire éducatif et sportif est titulaire du Brevet d'Etat d'éducateur sportif de 2ème degré, il bénéficie d'un complément diplôme de 15 points.
+Lorsque l'auxiliaire éducatif et sportif est titulaire du Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, il bénéficie d'un complément diplôme de 15 points.

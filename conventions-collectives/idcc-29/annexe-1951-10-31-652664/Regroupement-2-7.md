@@ -4,31 +4,29 @@ Filière : éducative et sociale – Regroupement 2.7
 
 REGROUPEMENT DE METIERS |
 
-TECHNICIEN PETITE ENFANCE |
+TECHNICIEN DE L'INTERVENTION SOCIALE |
 
-Est rattaché à ce regroupement |
+|
 
 Qui correspond à |
 
-1 EMPLOI courant actuel |
+2 METIERs |
 
-1 METIER (nouveau) |
+COORDONNATEUR DE SECTEUR |
 
-Educateur de jeunes enfants |
-
-EDUCATEUR PETITE ENFANCE |
+GESTIONNAIRE DE CAS |
 
 Critères de regroupement
 
-L'emploi de technicien petite enfance est ouvert aux salariés titulaires du diplôme d'Etat d'éducateur de jeunes enfants délivré en application du décret n° 73-73 du 11 janvier 1973.
+Le technicien de l'intervention sociale effectue des tâches complexes permettant de répondre aux besoins des personnes prises en charge.
 
 COEFFICIENT DE REFERENCE |
 
-460 |
+440 |
 
-EDUCATEUR PETITE ENFANCE Coef. Réf. 460
+COORDONNATEUR DE SECTEUR Coef. Réf. 440
 
-REGROUPEMENT TECHNICIEN PETITE ENFANCE
+REGROUPEMENT TECHNICIEN DE L'INTERVENTION SOCIALE
 
 |
 
@@ -38,20 +36,56 @@ Complément diplôme |
 
 Complément métier |
 
-Educateur de jeunes enfants |
+Coordonnateur de secteur |
 
 |
 
 |
 
-|
+10 |
 
 Définition du métier
 
-L'éducateur petite enfance intervient dans les différents moments de la vie quotidienne en structure d'accueil ou en milieu ouvert (crèche, halte-garderie, centre médico-psycho-pédagogique, centre d'action médico-social précoce, maison d'enfants à caractère social, pouponnière, service d'éducation spéciale et de soins à domicile...).
-
-En collaboration avec l'ensemble des partenaires concernés (parents, professionnels, travailleurs sociaux, administratifs...), il mène des actions d'éducation, d'animation et de prévention qui contribuent à l'éveil, au bien-être et au développement global des enfants d'âge préscolaire.
+Le coordonnateur de secteur assure la mise en oeuvre et la coordination des activités en mobilisant les ressources nécessaires.
 
 Conditions d'accès au métier
 
-L'éducateur petite enfance est titulaire du diplôme d'Etat d'éducateur de jeunes enfants délivré en application du décret n° 73-73 du 11 janvier 1973.
+Le coordonnateur de secteur doit être titulaire d'un diplôme ou d'une certification de niveau III ou avoir une expérience professionnelle reconnue par l'employeur.
+
+Dispositions spécifiques
+
+Le coordonnateur de secteur bénéficie d'un complément métier de 10 points.
+
+GESTIONNAIRE DE CAS Coef. Réf. 440
+
+REGROUPEMENT TECHNICIEN DE L'INTERVENTION SOCIALE
+
+|
+
+Complément encadrement |
+
+Complément diplôme |
+
+Complément métier |
+
+Gestionnaire de cas |
+
+|
+
+|
+
+10 |
+
+Définition du métier
+
+Le gestionnaire de cas est positionné sur le suivi du parcours de vie et de soins de la personne, il s'implique dans le soutien et l'accompagnement des personnes et de leurs aidants et développe un partenariat avec les professionnels des champs sanitaire, médico-social et social concernés.
+
+Il intervient à la suite d'un processus de repérage des situations complexes.
+
+Conditions d'accès au métier
+
+Le gestionnaire de cas est titulaire du diplôme, titre ou certificat requis par les dispositions légales et réglementaires ou est en capacité de justifier de compétences dans ce domaine, acquises, reconnues ou validées au travers d'un dispositif d'accompagnement à la formation professionnelle (VAE,...).
+
+Dispositions spécifiques
+
+Le gestionnaire de cas bénéficie d'un complément métier de 10 points.
