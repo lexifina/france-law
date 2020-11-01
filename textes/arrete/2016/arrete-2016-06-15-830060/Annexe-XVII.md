@@ -6,154 +6,90 @@ DES INTERNES EN PHARMACIE ET DES INTERNES EN ODONTOLOGIE
 
 Articles R. 6153-1 à R. 6153-45 du code de la santé publique
 
-PERSONNELS CONCERNES
+PERSONNELS CONCERNES |
 
-|
+Montants au 1er novembre 2020 (en euros) |
 
-Montants
-
-au 1er février 2017
-
-(en euros)
-
-|
-
-I - Montants bruts annuels de la rémunération :
+I-Montants bruts annuels de la rémunération :
 
 . des internes en médecine, des internes en pharmacie et des internes en odontologie
 
-. des résidents en médecine
+. des résidents en médecine |
 
 |
 
-|
+internes de 5e année |
 
-internes de 5e année
+27 080 |
 
-|
+internes de 4e année |
 
-25 653,56
+27 063 |
 
-|
+internes et résidents de 3e année |
 
-internes de 4e année
+27 042 |
 
-|
+internes et résidents de 2e année |
 
-25 653,56
+20 450 |
 
-|
+internes et résidents de 1re année |
 
-internes et résidents de 3e année
+18 473 |
 
-|
-
-25 653,56
+Montant brut mensuel de l'indemnité de sujétions particulières allouée : |
 
 |
 
-internes et résidents de 2e année
+. aux internes et résidents pour les 1er, 2e, 3e et 4e semestres |
+
+435,18 |
+
+. Aux FFI |
+
+435,18 |
+
+II-Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (montant brut annuel) |
+
+16 892 |
+
+III-Montant brut annuel de la rémunération des étudiants effectuant une année de recherche |
+
+24 684.71 |
+
+IV-Montants bruts annuels des indemnités compensatrices d'avantages en nature pour les internes et les résidents en en médecine et les étudiants en médecine et pharmacie désignées pour occuper provisoirement un poste d'interne : |
 
 |
 
-18 493,76
+. Majoration pour ceux qui sont non logés et non nourris |
+
+1 010,64 |
+
+. Majoration pour ceux qui sont non logés mais nourris |
+
+336,32 |
+
+. Majoration pour ceux qui sont non nourris mais logés |
+
+674,31 |
+
+V-Montant brut annuel de la prime de responsabilité |
 
 |
 
-internes et résidents de 1re année
+internes en médecine de 5e année |
 
-|
+4 068,38 |
 
-16 704,76
-
-|
-
-Montant brut mensuel de l'indemnité de sujétions particulières allouée :
-
-|
-
-|
-
-. aux internes et résidents pour les 1er, 2e, 3e et 4e semestres
-
-|
-
-435,18
-
-|
-
-. Aux FFI
-
-|
-
-435,18
-
-|
-
-II - Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (montant brut annuel)
-
-|
-
-15 287,69
-
-|
-
-III - Montant brut annuel de la rémunération des étudiants effectuant une année de recherche
-
-|
-
-24 684,71
-
-|
-
-IV - Montants bruts annuels des indemnités compensatrices d'avantages en nature pour les internes et les résidents en en médecine et les étudiants en médecine et pharmacie désignées pour occuper provisoirement un poste d'interne:
-
-|
-
-|
-
-. Majoration pour ceux qui sont non logés et non nourris
-
-|
-
-1 010,64
-
-|
-
-. Majoration pour ceux qui sont non logés mais nourris
-
-|
-
-336,32
-
-|
-
-. Majoration pour ceux qui sont non nourris mais logés
-
-|
-
-674,31
-
-|
-
-V - Montant brut annuel de la prime de responsabilité
-
-|
-
-|
-
-internes en médecine de 5e année
-
-|
-
-4 068,38
-
-|
-
-internes en médecine et en pharmacie de 4e année
-
-|
+internes en médecine et en pharmacie de 4e année |
 
 2 050,50
 
 |
+
+.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 11 septembre 2020, ces dispositions sont applicables à compter du 1er novembre 2020.
