@@ -2,874 +2,428 @@
 
 LISTE DES POSTES COMPTABLES COMPÉTENTS POUR LE RECOUVREMENT DES TAXES D'URBANISME
 
-DÉPARTEMENT
+DÉPARTEMENT |
 
-|
+LIBELLÉ DU SERVICE |
 
-LIBELLÉ DU POSTE COMPTABLE
+01 ― Ain |
 
-|
+Bourg-en-Bresse Municipale |
 
-01 ― Ain
+02 ― Aisne |
 
-|
+DDFiP de l'Aisne |
 
-Bourg-en-Bresse
+03 ― Allier |
 
-|
+Moulins Municipale et Amendes |
 
-02 ― Aisne
+04 ― Alpes-de-Haute-Provence |
 
-|
+Manosque |
 
-Laon Municipale et Banlieue
+05 ― Hautes-Alpes |
 
-|
+Laragne |
 
-03 ― Allier
+06 ― Alpes-Maritimes |
 
-|
+DDFiP des Alpes-Maritimes |
 
-Moulins Municipale
+07 ― Ardèche |
 
-|
+Annonay |
 
-04 ― Alpes-de-Haute-Provence
+08 ― Ardennes |
 
-|
+DDFiP des Ardennes |
 
-Manosque
+09 ― Ariège |
 
-|
+Pamiers |
 
-05 ― Hautes-Alpes
+10 ― Aube |
 
-|
+Troyes agglomération |
 
-Laragne-Orpierre
+11 ― Aude |
 
-|
+Leucate |
 
-06 ― Alpes-Maritimes
+12 ― Aveyron |
 
-|
+Villefranche-de-Rouergue |
 
-Le Bar-sur-Loup
+13 ― Bouches-du-Rhône |
 
-|
+Marseille
 
-07 ― Ardèche
+Municipale et Métropole |
 
-|
+14 ― Calvados |
 
-Annonay
+DDFiP du Calvados |
 
-|
+15 ― Cantal |
 
-08 ― Ardennes
+Aurillac Banlieue |
 
-|
+16 ― Charente |
 
-Rethel
+La Couronne |
 
-|
+17 ― Charente-Maritime |
 
-09 ― Ariège
+La Rochelle Banlieue et Amendes |
 
-|
+18 ― Cher |
 
-Pamiers
+Bourges Amendes |
 
-|
+19 ― Corrèze |
 
-10 ― Aube
+Tulle Municipale |
 
-|
+02A ― Corse-du-Sud |
 
-Pont-Sainte-Marie Sainte-Savine
+Grand Ajaccio |
 
-|
+02B ― Haute-Corse |
 
-11 ― Aude
+Saint-Florent |
 
-|
+21 ― Côte-d'Or |
 
-Leucate
+DRFiP de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
 
-|
+22 ― Côtes-d'Armor |
 
-12 ― Aveyron
+Saint-Brieuc Municipale et Amendes |
 
-|
+23 ― Creuse |
 
-Villefranche-de-Rouergue
+Guéret |
 
-|
+24 ― Dordogne |
 
-13 ― Bouches-du-Rhône
+Boulazac |
 
-|
+25 ― Doubs |
 
-Marseille 10e et 11e arrondissement
+Morre-Roulans |
 
-|
+26 ― Drôme |
 
-14 ― Calvados
+Amendes et recettes non fiscales (ARNF) |
 
-|
+27 ― Eure |
 
-Hérouville-Saint-Clair
+Evreux Amendes |
 
-|
+28 ― Eure-et-Loir |
 
-15 ― Cantal
+Chartres Métropole |
 
-|
+29 ― Finistère |
 
-Aurillac Banlieue
+Landerneau |
 
-|
+30 ― Gard |
 
-16 ― Charente
+Nîmes Agglomération |
 
-|
+31 ― Haute-Garonne |
 
-La Couronne
+Grenade-Cadours |
 
-|
+32 ― Gers |
 
-17 ― Charente-Maritime
+Condom |
 
-|
+33 ― Gironde |
 
-La Rochelle Amendes
+Bordeaux Municipale et Bordeaux Métropole |
 
-|
+34 ― Hérault |
 
-18 ― Cher
+Montpellier Municipale |
 
-|
+35 ― Ille-et-Vilaine |
 
-Bourges OPH ― Amendes
+Chartres-de-Bretagne |
 
-|
+36 ― Indre |
 
-19 ― Corrèze
+Châteauroux Municipale |
 
-|
+37 ― Indre-et-Loire |
 
-Tulle Montana
+Trésorerie Hospitalière et Amendes |
 
-|
+38 ― Isère |
 
-02A ― Corse-du-Sud
+Trésorerie Grenoble amendes et produits divers |
 
-|
+39 ― Jura |
 
-Ajaccio Rural
+DDFiP du Jura |
 
-|
+40 ― Landes |
 
-02B ― Haute-Corse
+DDFiP des Landes |
 
-|
+41 ― Loir-et-Cher |
 
-Saint-Florent
+Blois Agglomération |
 
-|
+42 ― Loire |
 
-21 ― Côte-d'Or
+Montbrison |
 
-|
+43 ― Haute-Loire |
 
-Dijon Banlieue et Amendes
+Monistrol-sur-Loire |
 
-|
+44 ― Loire-Atlantique |
 
-22 ― Côtes-d'Armor
+Carquefou |
 
-|
+45 ― Loiret |
 
-Saint-Brieuc Amendes
+Orléans Amendes |
 
-|
+46 ― Lot |
 
-23 ― Creuse
+Figeac |
 
-|
+47 ― Lot-et-Garonne |
 
-Saint-Vaury
+Trésorerie d'Agen Municipale et Amendes |
 
-|
+48 ― Lozère |
 
-24 ― Dordogne
+Marvejols |
 
-|
+49 ― Maine-et-Loire |
 
-Boulazac
+Angers Amendes |
 
-|
+50 ― Manche |
 
-25 ― Doubs
+Equeurdreville-Hainneville |
 
-|
+51 ― Marne |
 
-Morre-Roulans
+Châlons-en-Champagne |
 
-|
+52 ― Haute-Marne |
 
-26 ― Drôme
+Chaumont |
 
-|
+53 ― Mayenne |
 
-Valence Agglomération
+Pays de Laval |
 
-|
+54 ― Meurthe-et-Moselle |
 
-27 ― Eure
+Essey-lès-Nancy |
 
-|
+55 ― Meuse |
 
-Evreux Amendes
+Verdun |
 
-|
+56 ― Morbihan |
 
-28 ― Eure-et-Loir
+Auray |
 
-|
+57 ― Moselle |
 
-Chartres Banlieue
+Metz Amendes |
 
-|
+58 ― Nièvre |
 
-29 ― Finistère
+Nevers Hôpital et Amendes |
 
-|
+59 ― Nord |
 
-Brest Banlieue
+Marly |
 
-|
+60 ― Oise |
 
-30 ― Gard
+DDFiP de l'Oise |
 
-|
+61 ― Orne |
 
-Nîmes Banlieue
+Argentan |
 
-|
+62 ― Pas-de-Calais |
 
-31 ― Haute-Garonne
+Arras Amendes |
 
-|
+63 ― Puy-de-Dôme |
 
-Muret
+Clermont Métropole et Amendes |
 
-|
+64 ― Pyrénées-Atlantiques |
 
-32 ― Gers
+Anglet-Adour-Océan |
 
-|
+65 ― Hautes-Pyrénées |
 
-Condom
+Tournay |
 
-|
+66 ― Pyrénées-Orientales |
 
-33 ― Gironde
+Saint-Laurent-de-la-Salanque |
 
-|
+67 ― Bas-Rhin |
 
-Bordeaux Municipale
+Strasbourg Municipale et Eurométropole |
 
-|
+67 ― Bas-Rhin |
 
-34 ― Hérault
+Bischwiller |
 
-|
+68 ― Haut-Rhin |
 
-Hérault Amendes
+DDFiP du Haut-Rhin |
 
-|
+69 ― Rhône |
 
-35 ― Ille-et-Vilaine
+DRFiP d'Auvergne-Rhône-Alpes et du département du Rhône |
 
-|
+70 ― Haute-Saône |
 
-Chartres-de-Bretagne
+Vesoul |
 
-|
+71 ― Saône-et-Loire |
 
-35 ― Ille-et-Vilaine
+Autun |
 
-|
+72 ― Sarthe |
 
-Dinard
+La Flèche |
 
-|
+73 ― Savoie |
 
-36 ― Indre
+Chambéry Amendes |
 
-|
+74 ― Haute-Savoie |
 
-Châteauroux Municipale
+Haute-Savoie Amendes |
 
-|
+75 ― Paris |
 
-37 ― Indre-et-Loire
+DRFiP d'Ile-de-France et de Paris |
 
-|
+76 ― Seine-Maritime |
 
-Tours Banlieue Sud
+Montivilliers |
 
-|
+77 ― Seine-et-Marne |
 
-38 ― Isère
+DDFiP de la Seine-et-Marne |
 
-|
+78 ― Yvelines |
 
-Fontaine
+Maurepas |
 
-|
+78 ― Yvelines |
 
-38 ― Isère
+Les Mureaux |
 
-|
+79 ― Deux-Sèvres |
 
-La Verpillière
+DDFiP des Deux-Sèvres |
 
-|
+80 ― Somme |
 
-39 ― Jura
+Doullens |
 
-|
+81 ― Tarn |
 
-Bletterans
+Mazamet |
 
-|
+82 ― Tarn-et-Garonne |
 
-40 ― Landes
+Paierie départementale du Tarn-et-Garonne |
 
-|
+83 ― Var |
 
-Dax Agglomération
+Var Amendes |
 
-|
+84 ― Vaucluse |
 
-41 ― Loir-et-Cher
+Vaucluse Amendes |
 
-|
+85 ― Vendée |
 
-Blois Agglomération
+DDFiP de la Vendée |
 
-|
+86 ― Vienne |
 
-42 ― Loire
+Poitiers |
 
-|
+87 ― Haute-Vienne |
 
-Montbrison
+Limoges Banlieue et amendes |
 
-|
+88 ― Vosges |
 
-43 ― Haute-Loire
+DDFiP des Vosges |
 
-|
+89 ― Yonne |
 
-Monistrol-sur-Loire
+Avallon |
 
-|
+90 ― Territoire de Belfort |
 
-44 ― Loire-Atlantique
+Grand Belfort |
 
-|
+91 ― Essonne |
 
-Carquefou
+Essonne Amendes |
 
-|
+92 ― Hauts-de-Seine |
 
-45 ― Loiret
+Puteaux Municipale |
 
-|
+93 ― Seine-Saint-Denis |
 
-Orléans
+Raincy Municipale |
 
-|
+94 ― Val-de-Marne |
 
-46 ― Lot
+Val-de-Marne Amendes |
 
-|
+95 ― Val-d'Oise |
 
-Figeac
+DDFiP du Val d'Oise |
 
-|
+971 ― Guadeloupe |
 
-47 ― Lot-et-Garonne
+Morne-à-l'Eau |
 
-|
+972 ― Martinique |
 
-Agen Municipale
+Trinité |
 
-|
+973 ― Guyane |
 
-48 ― Lozère
+SIP de Cayenne |
 
-|
+974 ― Réunion |
 
-Marvejols
+Trésorerie de Saint-Denis Municipale et Amendes |
 
-|
+974 ― Réunion |
 
-49 ― Maine-et-Loire
+Trésorerie de Saint-Paul Municipale et Hôpitaux |
 
-|
+974 ― Réunion |
 
-Angers Ouest
+Trésorerie de Saint-Pierre Municipale |
 
-|
+NOTA :
 
-50 ― Manche
-
-|
-
-Equeurdreville-Hainneville
-
-|
-
-51 ― Marne
-
-|
-
-Châlons Banlieue
-
-|
-
-52 ― Haute-Marne
-
-|
-
-Chaumont
-
-|
-
-53 ― Mayenne
-
-|
-
-Pays de Laval
-
-|
-
-54 ― Meurthe-et-Moselle
-
-|
-
-Essey-lès-Nancy
-
-|
-
-55 ― Meuse
-
-|
-
-Verdun
-
-|
-
-56 ― Morbihan
-
-|
-
-Auray
-
-|
-
-57 ― Moselle
-
-|
-
-Metz Amendes
-
-|
-
-58 ― Nièvre
-
-|
-
-Nevers Hôpital et Amendes
-
-|
-
-59 ― Nord
-
-|
-
-Marly
-
-|
-
-60 ― Oise
-
-|
-
-Clermont Municipale
-
-|
-
-61 ― Orne
-
-|
-
-Argentan
-
-|
-
-62 ― Pas-de-Calais
-
-|
-
-Arras Amendes
-
-|
-
-63 ― Puy-de-Dôme
-
-|
-
-Clermont-Ferrand 1re division
-
-|
-
-64 ― Pyrénées-Atlantiques
-
-|
-
-Anglet-Adour-Océan
-
-|
-
-65 ― Hautes-Pyrénées
-
-|
-
-Tarbes Adour Echez
-
-|
-
-66 ― Pyrénées-Orientales
-
-|
-
-Saint-Laurent-de-la-Salanque
-
-|
-
-67 ― Bas-Rhin
-
-|
-
-Strasbourg Municipale et Communauté Urbaine
-
-|
-
-67 ― Bas-Rhin
-
-|
-
-Bischwiller
-
-|
-
-68 ― Haut-Rhin
-
-|
-
-Mulhouse Recouvrement
-
-|
-
-69 ― Rhône
-
-|
-
-Grand Lyon
-
-|
-
-70 ― Haute-Saône
-
-|
-
-Vesoul
-
-|
-
-71 ― Saône-et-Loire
-
-|
-
-Autun
-
-|
-
-72 ― Sarthe
-
-|
-
-La Flèche
-
-|
-
-73 ― Savoie
-
-|
-
-Chambéry Amendes
-
-|
-
-74 ― Haute-Savoie
-
-|
-
-Bonneville
-
-|
-
-74 ― Haute-Savoie
-
-|
-
-Rumilly-Alby
-
-|
-
-75 ― Paris
-
-|
-
-Recette générale des finances
-
-|
-
-76 ― Seine-Maritime
-
-|
-
-Montivilliers
-
-|
-
-77 ― Seine-et-Marne
-
-|
-
-Brie-Comte-Robert
-
-|
-
-78 ― Yvelines
-
-|
-
-Maurepas
-
-|
-
-78 ― Yvelines
-
-|
-
-Les Mureaux
-
-|
-
-79 ― Deux-Sèvres
-
-|
-
-Niort Habitat Sud Deux-Sèvres
-
-|
-
-80 ― Somme
-
-|
-
-Doullens
-
-|
-
-81 ― Tarn
-
-|
-
-Mazamet
-
-|
-
-82 ― Tarn-et-Garonne
-
-|
-
-Castelsarrasin
-
-|
-
-83 ― Var
-
-|
-
-Var Amendes
-
-|
-
-84 ― Vaucluse
-
-|
-
-Vaucluse Amendes
-
-|
-
-85 ― Vendée
-
-|
-
-Côte-de-Lumière
-
-|
-
-85 ― Vendée
-
-|
-
-Saint-Gilles-Croix-de-Vie
-
-|
-
-86 ― Vienne
-
-|
-
-Biard
-
-|
-
-87 ― Haute-Vienne
-
-|
-
-Limoges Banlieue
-
-|
-
-88 ― Vosges
-
-|
-
-Gérardmer
-
-|
-
-89 ― Yonne
-
-|
-
-Avallon
-
-|
-
-90 ― Territoire de Belfort
-
-|
-
-Belfort Ville
-
-|
-
-91 ― Essonne
-
-|
-
-Essonne Amendes
-
-|
-
-92 ― Hauts-de-Seine
-
-|
-
-Puteaux Municipale
-
-|
-
-93 ― Seine-Saint-Denis
-
-|
-
-Raincy Municipale
-
-|
-
-94 ― Val-de-Marne
-
-|
-
-Val-de-Marne Amendes
-
-|
-
-95 ― Val-d'Oise
-
-|
-
-L'Isle-Adam
-
-|
-
-971 ― Guadeloupe
-
-|
-
-Morne-à-l'Eau
-
-|
-
-972 ― Martinique
-
-|
-
-Trinité
-
-|
-
-973 ― Guyane
-
-|
-
-Cayenne-Ile
-
-|
-
-974 ― Réunion
-
-|
-
-Saint-Denis
-
-|
-
-974 ― Réunion
-
-|
-
-Saint-Paul
-
-|
-
-974 ― Réunion
-
-|
-
-Saint-Pierre
-
-|
+Conformément à l’article 2 de l’arrêté du 19 octobre 2020, ces dispositions entrent en vigueur à compter du 1er novembre 2020.
