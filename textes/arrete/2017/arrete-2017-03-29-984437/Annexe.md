@@ -202,7 +202,7 @@ Directeur départemental de la sécurité publique à Arras (62).
 
 Directeur départemental de la sécurité publique et commissaire central à Strasbourg (67).
 
-Directeur départemental adjoint de la sécurité publique à Lyon (69).
+Directeur départemental adjoint de la sécurité publique à Lyon (69), préfigurateur des nouvelles fonctions de directeur départemental de la sécurité publique du Rhône, commissaire central de Lyon.
 
 Directeur départemental de la sécurité publique à Rouen (76).
 
@@ -292,7 +292,7 @@ Sous-directeur chargé des services territoriaux.
 
 Préfecture de police : Direction du renseignement :
 
-Sous-directeur chargé du renseignement territorial.
+Sous-directeur chargé de la sécurité intérieure.
 
 Préfecture de police-Divers :
 
@@ -305,3 +305,7 @@ Adjoint au chef du service des technologies et des systèmes d'information de la
 15. Divers :
 
 Secrétaire général adjoint pour l'administration du ministère de l'intérieur à Marseille.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 30 octobre 2020 ( NOR : INTC2026946A ), les présentes dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française
