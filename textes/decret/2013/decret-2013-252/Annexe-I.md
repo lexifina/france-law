@@ -74,6 +74,22 @@ AE 38
 
 |
 
+|
+
+Maison forestière de la Croix de Dampleux, garage, atelier et grange |
+
+Dampleux |
+
+B 26 en partie, B 30 en partie, B 31 |
+
+|
+
+Maison forestière de la Croix Morel et grange |
+
+Taillefontaine |
+
+AM 6 en partie, AM 7, AM 21 en partie |
+
 Allier (03)
 
 |
@@ -149,6 +165,14 @@ Le Brethon |
 ZA 55 en partie,
 
 ZA 56, ZA 57, ZA 58 |
+
+|
+
+Maison forestière de Chatillon, garage et dépendances |
+
+Vieure |
+
+C 0757 en partie, C 0758, C 0759 |
 
 Alpes-de-Haute-Provence (04)
 
@@ -376,6 +400,22 @@ C75 en partie, C76 en partie afin de constituer une superficie permettant un usa
 
 |
 
+|
+
+Maison forestière des 4 Frères |
+
+Signy-l'Abbaye |
+
+H 270, H 271 en partie |
+
+|
+
+Maison forestière de la Platelle |
+
+Les Hautes rivieres |
+
+A 132 en partie, A 134, A 161 en partie |
+
 Aube (10)
 
 |
@@ -584,6 +624,14 @@ F15, F16 en partie afin de constituer une superficie permettant un usage normal 
 
 |
 
+Doubs (25) |
+
+Maison forestière du Rondé |
+
+Gevresin |
+
+B 46, B 47 |
+
 Drôme (26)
 
 |
@@ -627,6 +675,22 @@ Bouvante
 AI67 en partie afin de constituer une superficie permettant un usage normal du bien
 
 |
+
+|
+
+Maison forestière de Charbonnières |
+
+Bouvante |
+
+AI 116 en partie |
+
+|
+
+Maison forestière de Lachau |
+
+Bouvante |
+
+AI 56 en partie |
 
 Eure (27)
 
@@ -926,6 +990,12 @@ Segry |
 
 L 22, L 23 en partie |
 
+Maison forestière de la Barrière d'Arnault et garage |
+
+Le Poinçonnet |
+
+B 0633 en partie, B 0634, B 0635 en partie, B 0636 en partie, B 1526 en partie |
+
 Indre-et-Loire (37)
 
 |
@@ -957,6 +1027,12 @@ Pavillon de Beauchene
 Ferrière-sur-Beaulieu |
 
 B 23 |
+
+Maison forestière d'Orfonds, cellier et chaufferie |
+
+Ferriere-sur-Beaulieu |
+
+B 012 en partie (future B 102), B 013 en partie (future B 103), B 014 |
 
 Isère (38)
 
@@ -1092,6 +1168,14 @@ C237 en partie, C183 dans la continuité de l'enclos de la maison
 
 |
 
+|
+
+Maison forestière de Thoury |
+
+Thoury |
+
+D10 en partie, D11 en partie, D12 en partie, D 13, D14, D 107 |
+
 Loire-Atlantique (44)
 
 |
@@ -1121,6 +1205,14 @@ Le Gavre
 E605-E585-E 619
 
 |
+
+|
+
+Maison forestière de la Fontaine au Veau et dépendances |
+
+Le Gavre |
+
+E 77 en partie, E 610 en partie, E 612, E 613 |
 
 Loiret (45)
 
@@ -1284,6 +1376,14 @@ L 95 en partie,
 
 L 285, L 286 |
 
+|
+
+Maison forestière du Moulin Neuf |
+
+Neuville-aux-Bois |
+
+K 130 en partie, K 131, K 132 |
+
 Lozère (48)
 
 |
@@ -1322,7 +1422,9 @@ Maison forestière de Marquaires
 
 Bassurels |
 
-F 26, F 27, F 28, F 29, F 30, F 31, F 34, F 35 |
+F 26, F 27, F 28, F 29, F 30, F 31, F 34, F 35, F 36, F 37
+
+|
 
 Marne (51)
 
@@ -2262,6 +2364,38 @@ Le Mont-St-Adrien |
 
 A 24 en partie |
 
+|
+
+Maison forestière d'Ourscamp |
+
+Chiry-Ourscamp |
+
+D 32 en partie, D 33 et D 34 |
+
+|
+
+Maison forestière du Carrefour Napoléon |
+
+Compiègne |
+
+E 146, E 147 en partie, E 152 en partie |
+
+|
+
+Maison forestière des Vineux |
+
+Compiègne |
+
+E 121, E 122 en partie, E 271, E 272 |
+
+|
+
+Maison forestière de la Chaussée Pontpoint, dite de Chamant |
+
+Chamant |
+
+D 46 en partie, D 47 en partie |
+
 Orne (61)
 
 |
@@ -2672,7 +2806,7 @@ Maison forestière de Engenthal
 
 Wangenbourg-Engenthal |
 
-Section 4, parcelle 132 |
+Section 4, parcelle 132 et 133 |
 
 |
 
@@ -2727,6 +2861,38 @@ Maison forestière de Schoenbourg
 Schoenbourg |
 
 Section 01 parcelle 1 en partie |
+
+|
+
+Maison forestière du Haut Barr |
+
+Saverne |
+
+Section 25 parcelle 19 en partie |
+
+|
+
+Maison forestière de Kirchberg |
+
+La Petite Pierre |
+
+AC 48 |
+
+|
+
+Maison forestière du Coucou |
+
+La Broque |
+
+Section 27 parcelle 23 en partie |
+
+|
+
+Maison forestière Schweitzerhof |
+
+Saverne |
+
+D 6 en partie |
 
 Haut-Rhin (68)
 
@@ -2832,7 +2998,7 @@ Maison forestière de Chédouet
 
 Villeneuve-en-Perseigne |
 
-D 18, D 19, D 20 en partie |
+A831 en partie, D 18, D 19, D 20 en partie |
 
 Savoie (73)
 
@@ -3070,6 +3236,38 @@ C 504 en partie, C 505,
 
 C 506 et C 507 |
 
+|
+
+Maison forestière de Montigny et garage |
+
+Montigny |
+
+B 77 en partie, B 78 |
+
+|
+
+Maison forestière de Richebourg |
+
+Feuillie |
+
+D 1154 en partie |
+
+|
+
+Maison forestière de Saint Etienne et garage |
+
+Saint-Etienne-du-Rouvray |
+
+BN 249 |
+
+|
+
+Maison forestière de Saint Martin et grange |
+
+Saint-Martin-au-Bosc |
+
+A 647 en partie, A 965 |
+
 Seine-et-Marne (77)
 
 |
@@ -3162,7 +3360,7 @@ Maison forestière de la Croix du Grand Veneur
 
 Fontainebleau |
 
-K 190, K 189 en partie |
+K 190 en partie, K 189 en partie |
 
 |
 
@@ -3504,6 +3702,62 @@ C 546 en partie,
 
 C 548 en partie |
 
+|
+
+Maison forestière des Longues mares |
+
+Grosrouvre |
+
+AS 65, AS 144 en partie |
+
+|
+
+Maison forestière La Villeneuve |
+
+Rambouillet |
+
+C 790, C 787 en partie |
+
+|
+
+Maison forestière des Hayes |
+
+Bourdonne |
+
+C 397, C 398, C 399 |
+
+|
+
+Maison forestière du Brancas |
+
+Saint-Germain-en-Laye |
+
+A 491, A 492 en partie, A 493 en partie, A 1522 |
+
+|
+
+Maison forestière de la Côte de Poissy |
+
+Saint-Germain-en-Laye |
+
+A 725 en partie |
+
+|
+
+Maison forestière du Compas |
+
+Marly-le-Roi |
+
+D 18 en partie |
+
+|
+
+Maison forestière des Grands Coins |
+
+Saint-Léger-en-Yvelines |
+
+D 401, D 402 |
+
 Deux-Sèvres (79)
 
 |
@@ -3640,9 +3894,9 @@ Maison forestière du Trayas
 
 Saint-Raphaël |
 
-BO 20 en partie |
+BO 20 en partie, BO 22 en partie |
 
-|
+Vaucluse (84) |
 
 Gîte de Brantes
 
@@ -3651,6 +3905,22 @@ Gîte de Brantes
 Brantes |
 
 D 0157 |
+
+Vendée (85) |
+
+Maison forestière de la Joltière & hangar |
+
+Mervent |
+
+D 859, D 860 en partie |
+
+Vienne (86) |
+
+Maison forestière du Chêne Bercy et grange |
+
+Bonneuil-Matours |
+
+AI 002 en partie, AI 003, AI 004 en partie, AI 005 en partie, AI 006 en partie, AI 007 en partie |
 
 Vosges (88)
 
@@ -3756,6 +4026,14 @@ AN 774
 
 |
 
+|
+
+Maison forestière de Clamart |
+
+Clamart |
+
+AT 8 en partie |
+
 Val d'Oise (95)
 
 |
@@ -3821,6 +4099,22 @@ Maison forestière Le Bois Corbon Sud
 Saint-Prix |
 
 AO 28, AO 29 en partie |
+
+|
+
+Maison forestière des Vinciennes |
+
+Domont |
+
+C 164 en partie |
+
+|
+
+Maison forestière de la Grille de l'Isle Adam |
+
+L'isle-Adam |
+
+D 38, D 39 |
 
 La Réunion (974) |
 
