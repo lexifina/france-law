@@ -4,7 +4,9 @@ MODALITÉS ET PÉRIODICITÉS DES INSPECTIONS DES CÂBLES ET DE LEURS ATTACHES
 
 I. - Câbles porteurs, culots et câbles de sécurisation des câbles porteurs
 
-Cas des câbles porteurs non repositionnés :
+Pour chaque téléphérique muni de câble porteur, l'exploitant doit établir un schéma identifiant les différentes sections de câble et permettant de les rattacher aux zones définies dans le tableau suivant. Ce schéma doit intégrer les câbles principaux et ceux de sécurisation, ainsi que les éventuels câbles de tension.
+
+I. 1. - Cas des câbles porteurs non repositionnés :
 
 Pour les installations fonctionnant moins de 500 heures par an, la périodicité des contrôles des câbles nécessitant une reprise de tension peut être adaptée avec l'accord du service de contrôle.
 
@@ -278,9 +280,7 @@ Sans objet |
 
 |
 
-Pour chaque téléphérique muni de câble porteur, l'exploitant doit établir un schéma identifiant les différentes sections de câble et permettant de les rattacher aux zones définies dans le tableau précédent. Ce schéma doit intégrer les câbles principaux et ceux de sécurisation, ainsi que les éventuels câbles de tension.
-
-Cas particulier des câbles porteurs avec repositionnement
+I.2. - Cas des câbles porteurs avec repositionnement
 
 Sur certaines installations, les câbles porteurs sont repositionnés (après glissement). La conception de l'appareil (appuis, ancrages...) doit permettre ce repositionnement. Cette aptitude est établie par un intervenant indépendant de l'exploitant et compétent en matière de téléphérique bi-câble.
 
@@ -288,11 +288,239 @@ La longueur du repositionnement doit être au moins égale à celle de la zone d
 
 La direction de repositionnement ne doit pas être modifiée pour un même câble.
 
-On doit prendre soin d'éviter de déplacer des zones de forte contrainte dans une autre zone de forte contrainte. Les zones accessibles du câble porteur doivent être contrôlées par magnétographie avant déplacement et les zones non accessibles avant déplacement doivent être contrôlées visuellement et par magnétographie après le déplacement.
+On doit prendre soin d'éviter de déplacer des zones de forte contrainte dans une autre zone de forte contrainte.
 
-Les périodicités de contrôles à appliquer sont celles prévues par la norme européenne NF EN 12927.
+Les zones accessibles du câble porteur doivent subir un contrôle non destructif réalisé par un vérificateur agréé avant déplacement et les zones non accessibles avant déplacement doivent être contrôlées visuellement par l'exploitant et subir un contrôle non destructif réalisé par un vérificateur agréé après le déplacement.
 
-Cas particulier des appareils en fin de vie
+Les câbles porteurs des téléphériques bicâbles à va-et-vient ou va-ou-vient doivent être repositionnés tous les douze ans et ceux des téléphériques bicâbles à mouvement unidirectionnel doivent être repositionnés tous les six ans.
+
+Les périodicités de contrôles à appliquer sont les suivantes :
+
+CÂBLE OU ATTACHE
+
+ET ZONE CONCERNÉE |
+
+CONTRÔLE
+
+visuel par l'exploitant |
+
+CONTRÔLE NON DESTRUCTIF RÉALISÉ PAR UN VÉRIFICATEUR AGRÉÉ |
+
+Fréquence : valeurs en années |
+
+0 |
+
+1 |
+
+2 |
+
+3 |
+
+4 |
+
+5 |
+
+6 |
+
+7 |
+
+8 |
+
+9 |
+
+10 |
+
+11 |
+
+12 |
+
+Par la suite |
+
+Câble porteur
+
+en section courante (1) |
+
+Téléphérique
+
+à va-et-vient |
+
+Annuel |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+Tous les 6 ans |
+
+Téléphérique à
+
+mouvement
+
+unidirectionnel |
+
+Annuel |
+
+X |
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+Tous les 3 ans |
+
+Section de câble porteur reposant ou se déplaçant sur un sabot ou une poulie |
+
+Mensuel |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X (2) |
+
+Tous les 12 ans |
+
+Section de câble porteur sur tambour d'ancrage |
+
+Mensuel |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X (3) |
+
+Tous les 12 ans |
+
+Section de câble porteur sur chaîne à galets |
+
+Mensuel |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+X |
+
+|
+
+|
+
+X (4) |
+
+Sans-objet (3) |
+
+Attache d'extrémité et longueur adjacente de câble sans possibilité de contrôle non destructif autre que visuel |
+
+Mensuel |
+
+Sans objet |
+
+(1) Toute section de câble ne pouvant être classée dans les autres sections de câble.
+
+(2) Contrôle non destructif sur la longueur repositionnée.
+
+(3) Contrôle non destructif de la longueur repositionnée sortante ou entrante du tambour d'ancrage.
+
+(4) Contrôle non destructif de la longueur repositionnée sortant de la chaîne à galets, si nécessaire. La nouvelle section de câble porteur sur la chaîne à galets reprend les mêmes périodicités à partir du repositionnement (6 ans, 9 ans et 12 ans si nécessaire). |
+
+I.3. - Cas particulier des appareils en fin de vie
 
 Pour les appareils dont la cessation définitive d'exploitation est programmée moins d'une année après l'échéance théorique de contrôle de câble porteur nécessitant une reprise de tension, le type de contrôle de ce câble peut être adapté pour éviter cette reprise de tension. Le programme adapté est établi par un maître d'œuvre agréé et soumis préalablement à sa mise en œuvre à l'avis du service de contrôle.
 
@@ -476,7 +704,7 @@ Nota. - Cas particulier des téléphériques bi-câbles à va-et-vient mono-trac
 
 Dans la suite de cet article, on désigne par téléphériques à va-et-vient les téléphériques à va-et-vient et les téléphériques à va-ou-vient.
 
-Dans le cas des téléphériques bicâbles à va-et-vient monotracteur sans frein de chariot, le câble tracteur fait l'objet d'un examen sur toute sa longueur, par la méthode magnéto-inductive, à l'aide d'un dispositif disponible sur l'installation, avec les périodicités suivantes :
+Dans le cas des téléphériques bicâbles à va-et-vient monotracteur sans frein de chariot, le câble tracteur fait l'objet d'un examen par l'exploitant sur toute sa longueur, par la méthode magnéto-inductive, à l'aide d'un dispositif disponible sur l'installation, avec les périodicités suivantes :
 
 - durant la première année d'utilisation du câble tracteur : toutes les 200 heures d'exploitation, et au moins toutes les quatre semaines d'exploitation. Pour les téléphériques bicâbles monotracteurs sans frein de chariot transportant exclusivement du personnel, tels que définis à l'article 4 du décret du 15 mai 2007 susvisé, la périodicité de quatre semaines peut être portée à trois mois ;
 
@@ -485,6 +713,8 @@ Dans le cas des téléphériques bicâbles à va-et-vient monotracteur sans frei
 - après la dixième année d'utilisation : toutes les 200 heures d'exploitation, et au moins tous les trois mois d'exploitation. Pour les téléphériques bicâbles monotracteurs sans frein de chariot transportant exclusivement du personnel, tels que définis à l'article 4 du décret du 15 mai 2007 susvisé, la périodicité de trois mois peut être portée à un an ;
 
 - avant remise en service après un arrêt d'exploitation de trois mois ou plus.
+
+A défaut d'un dispositif présent sur l'installation, ces contrôles peuvent être réalisés par un vérificateur agréé au titre de contrôleur de câbles muni de son propre dispositif.
 
 En outre, le câble tracteur est soumis à un contrôle non destructif sur toute sa longueur une fois par an par un vérificateur agréé au titre de contrôleur de câbles.
 
