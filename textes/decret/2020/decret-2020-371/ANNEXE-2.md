@@ -62,6 +62,8 @@ Commerce de gros de vaisselle, verrerie et produits d'entretien
 
 Commerce de gros de fournitures et équipements divers pour le commerce et les services
 
+Commerce de détail en magasin situé dans une zone touristique internationale mentionnée à l'article L. 3132-24 du code du travail, à l'exception du commerce alimentaire ou à prédominance alimentaire (hors commerce de boissons en magasin spécialisé), du commerce d'automobiles, de motocyles, de carburants, de charbons et combustibles, d'équipements du foyer, d'articles médicaux et orthopédiques et de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux
+
 Blanchisserie-teinturerie de gros
 
 Stations-service
@@ -70,19 +72,11 @@ Enregistrement sonore et édition musicale
 
 Editeurs de livres
 
-Prestation/ location de chapiteaux, tentes, structures, sonorisation, lumière et pyrotechnie
-
 Services auxiliaires des transports aériens
 
 Services auxiliaires de transport par eau
 
-Transports de voyageurs par taxis et véhicules de tourisme avec chauffeur
-
-Location de courte durée de voitures et de véhicules automobiles légers
-
 Boutique des galeries marchandes et des aéroports
-
-Traducteurs-interprètes
 
 Magasins de souvenirs et de piété
 
@@ -91,3 +85,103 @@ Autres métiers d'art
 Paris sportifs
 
 Activités liées à la production de matrices sonores originales, sur bandes, cassettes, CD, la mise à disposition des enregistrements, leur promotion et leur distribution
+
+Tourisme de savoir-faire : entreprises réalisant des ventes directement sur leur site de production aux visiteurs et qui ont obtenu le label : “ entreprise du patrimoine vivant ” en application du décret n° 2006-595 du 23 mai 2006 relatif à l'attribution du label “ entreprise du patrimoine vivant ” ou qui sont titulaires de la marque d'Etat “ Qualité TourismeTM ” au titre de la visite d'entreprise ou qui utilisent des savoir-faire inscrits sur la liste représentative du patrimoine culturel immatériel de l'humanité prévue par la convention pour la sauvegarde du patrimoine culturel immatériel adoptée à Paris le 17 octobre 2003, dans la catégorie des savoir-faire liés à l'artisanat traditionnel
+
+Activités de sécurité privée
+
+Nettoyage courant des bâtiments
+
+Autres activités de nettoyage des bâtiments et nettoyage industriel
+
+Fabrication de foie gras
+
+Préparation à caractère artisanal de produits de charcuterie
+
+Pâtisserie
+
+Commerce de détail de viandes et de produits à base de viande en magasin spécialisé
+
+Commerce de détail de viande, produits à base de viandes sur éventaires et marchés
+
+Fabrication de vêtements de travail
+
+Reproduction d'enregistrements
+
+Fabrication de verre creux
+
+Fabrication d'articles céramiques à usage domestique ou ornemental
+
+Fabrication de coutellerie
+
+Fabrication d'articles métalliques ménagers
+
+Fabrication d'appareils ménagers non électriques
+
+Fabrication d'appareils d'éclairage électrique
+
+Travaux d'installation électrique dans tous locaux
+
+Aménagement de lieux de vente
+
+Commerce de détail de fleurs, en pot ou coupées, de compositions florales, de plantes et de graines
+
+Commerce de détail de livres sur éventaires et marchés
+
+Courtier en assurance voyage
+
+Location et exploitation d'immeubles non résidentiels de réception
+
+Conseil en relations publiques et communication
+
+Activités des agences de publicité
+
+Activités spécialisées de design
+
+Activités spécialisées, scientifiques et techniques diverses
+
+Services administratifs d'assistance à la demande de visas
+
+Autre création artistique
+
+Blanchisserie-teinturerie de détail
+
+Construction de maisons mobiles pour les terrains de camping
+
+Fabrication de vêtements de cérémonie, d'accessoires de ganterie et de chapellerie et de costumes pour les grands évènements
+
+Vente par automate
+
+Commerce de gros de viandes et de produits à base de viande
+
+Activités des agences de placement de main-d'œuvre
+
+Garde d'animaux de compagnie avec ou sans hébergement
+
+Fabrication de dentelle et broderie
+
+Couturiers
+
+Entreprises artisanales réalisant au moins 50 % de leur chiffre d'affaires par la vente de leurs produits ou services sur les foires et salons
+
+Métiers graphiques, métiers d'édition spécifique, de communication et de conception de stands et d'espaces éphémères réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+
+Fabrication et distribution de matériels scéniques, audiovisuels et évènementiels
+
+Prestation de services spécialisés dans l'aménagement et l'agencement des stands et lieux lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la production de spectacles, l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+
+Activités immobilières, lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès.
+
+Entreprises de transport réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+
+Entreprises du numérique réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+
+Fabrication de linge de lit et de table lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie et de la restauration
+
+Fabrication de produits alimentaires lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+
+Fabrication d'équipements de cuisines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+
+Installation et maintenance de cuisines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+
+Elevage de pintades, de canards et d'autres oiseaux (hors volaille) lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration

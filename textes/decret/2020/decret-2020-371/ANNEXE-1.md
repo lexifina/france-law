@@ -26,6 +26,8 @@ Post-production de films cinématographiques, de vidéo et de programmes de tél
 
 Distribution de films cinématographiques
 
+Conseil et assistance opérationnelle apportés aux entreprises et aux autres organisations de distribution de films cinématographiques en matière de relations publiques et de communication
+
 Location et location-bail d'articles de loisirs et de sport
 
 Activités des agences de voyage
@@ -70,7 +72,7 @@ Activité des centres de culture physique
 
 Autres activités liées au sport
 
-Activités des parcs d'attractions et parcs à thèmes
+Activités des parcs d'attractions et parcs à thèmes, fêtes foraines
 
 Autres activités récréatives et de loisirs
 
@@ -86,7 +88,9 @@ Transport aérien de passagers
 
 Transport de passagers sur les fleuves, les canaux, les lacs, location de bateaux de plaisance
 
-Cars et bus touristiques
+Transports routiers réguliers de voyageurs
+
+Autres transports routiers de voyageurs
 
 Transport maritime et côtier de passagers
 
@@ -99,3 +103,17 @@ Production de films pour le cinéma
 Activités photographiques
 
 Enseignement culturel
+
+Traducteurs-interprètes
+
+Prestation et location de chapiteaux, tentes, structures, sonorisation, photographie, lumière et pyrotechnie
+
+Transports de voyageurs par taxis et véhicules de tourisme avec chauffeur
+
+Location de courte durée de voitures et de véhicules automobiles légers
+
+Fabrication de structures métalliques et de parties de structures
+
+Régie publicitaire de médias
+
+Accueils collectifs de mineurs en hébergement touristique
