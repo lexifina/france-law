@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314737
+
+- Question : [SEQ200314737](seq200314737.md) — Suppression de la chaîne France 4
+
+## Réponse
+
+*Culture, JO du 2020-11-05, page 5106*
+
+La nécessité d'un enrichissement et d'une évolution de l'offre de programmes jeunesse constitue l'un des principaux chantiers de la transformation de l'audiovisuel public, annoncée le 18 juillet 2018. Le Gouvernement souhaite qu'au-delà des seules émissions télévisées, d'autres modalités de diffusion, notamment délinéarisées, soient développées, afin que les offres du service public demeurent une référence pour les jeunes générations, lesquelles se détournent progressivement de la télévision au profit des usages numériques. Dans le cadre de cette évolution, il était initialement prévu de mettre fin à la diffusion hertzienne de France 4 le 9 août 2020. Durant la période de confinement, France 4 a bouleversé sa ligne éditoriale, se révélant dans cette période particulière un instrument essentiel de soutien à la continuité pédagogique. C'est pourquoi, dans un contexte sanitaire qui demeure incertain, il a été décidé de différer d'un an l'arrêt de la chaîne France 4. Durant cette phase de transition, sa grille sera adaptée par France Télévisions avec en particulier un renforcement de la place accordée aux programmes ludo-éducatifs. Parallèlement, l'offre de France Télévisions destinée aux jeunes publics poursuivra son adaptation aux nouveaux usages par le déploiement d'Okoo, la nouvelle offre numérique destinée à la jeunesse et de Lumni, la plate-forme qui regroupe l'ensemble des contenus éducatifs de l'audiovisuel public, toutes deux lancées fin 2019 et qui de ce fait n'ont eu que peu de temps pour s'installer dans les habitudes des familles avant la crise sanitaire. Ce délai supplémentaire permettra en outre d'installer les conditions propices à la redéfinition de la grille de France 5.
