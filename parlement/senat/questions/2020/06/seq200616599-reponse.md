@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616599
+
+- Question : [SEQ200616599](seq200616599.md) — Taxation des produits du vapotage
+
+## Réponse
+
+*Comptes publics, JO du 2020-11-05, page 5103*
+
+Le Gouvernement a engagé une politique de santé publique ambitieuse en matière de lutte contre le tabagisme. Cela passe par une hausse régulière de la fiscalité sur les produits du tabac, adoptée par le Parlement fin 2017, qui s'achèvera en novembre 2020, visant à aboutir à un prix moyen du paquet de cigarettes à 10 €. Dans le cadre de la hausse de fiscalité sur les produits du tabac, de nombreux fumeurs se tournent vers le vapotage, cette pratique pouvant permettre l'arrêt de la consommation de tabac fumé et la réalisation d'économies pour les consommateurs. Comme il est souligné, les e-liquides bénéficient aujourd'hui d'une exonération de fiscalité en matière d'accise en France du fait de leur classement fiscal, ce qui a pour effet de créer une situation avantageuse pour l'industrie du vapotage. À l'inverse, plusieurs États-membres de l'Union européenne, parmi lesquels l'Estonie, la Hongrie, la Lettonie, la Pologne ou encore la Finlande, appliquent actuellement une fiscalité sur les e-liquides, qu'ils contiennent de la nicotine ou non. Dans la perspective du projet de révision de la directive 2011/64/UE du Conseil du 21 juin 2011 concernant la structure et les taux des accises applicables aux tabacs manufacturés, les régimes de taxation entre les États-membres seront discutés afin de tendre vers une harmonisation de la fiscalité applicable. Les travaux liés à la révision de cette directive n'ayant pas encore commencé, les orientations en matière de fiscalité applicable aux e-liquides ne sont pas connues à ce jour. La position de la France dans ce domaine sera élaborée en concertation avec le ministère des solidarités et de la santé, au regard des impératifs de protection de la santé publique.
