@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213673
+
+- Question : [SEQ191213673](seq191213673.md) — Labellisation de la maison de services au public de Kédange-sur-Canner en maison France services
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-11-05, page 5097*
+
+Le Président de la République a décidé le 25 avril 2019 la mise en place d'un réseau France Services, afin d'accompagner les citoyens dans les principales démarches administratives, au plus près du terrain. Le réseau France Services poursuit trois objectifs : meilleure accessibilité des services publics, simplification des démarches et renforcement de la qualité de services. L'objectif est de couvrir, avant fin 2022, l'ensemble des cantons. Au total, et en fonction des besoins, ce sont 2 500 structures qui seront déployées sur le territoire, soit un peu plus d'une par canton. Pour soutenir le déploiement du réseau France Services, le financement en fonctionnement de ces structures a été forfaitisé et porté à hauteur de 30 000 euros par an par structure, financés à parité par le fonds national d'aménagement et de développement du territoire (FNADT) et le fonds national France Services (FNFS). Les MSAP qui souhaitent être labellisées France Services doivent préalablement satisfaire à l'ensemble des obligations fixées par le nouveau référentiel France Services et rappelées dans la circulaire n° 6094-SG relative à la création de France Services. Elles peuvent à cet effet bénéficier d'un accompagnement par les préfectures de département. L'homologation de chaque structure est ainsi conditionnée avant toute autre considération au respect de 30 critères obligatoires de qualité de service, fidèles à la charge d'engagement France Services, et à une appréciation rigoureuse du besoin, en lien avec les préfectures et les acteurs locaux.
