@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200516208
+
+- Question : [SEQ200516208](seq200516208.md) — Opération militaire européenne en Méditerranée
+
+## Réponse
+
+*Armées, JO du 2020-11-05, page 5093*
+
+La France participe à l'opération IRINI en déployant des patrouilleurs, des frégates et des sous-marins sur la base d'une centaine de jours de mer par an et effectuant des patrouilles de 5 à 30 jours. Elle contribue également au volet aérien avec des vols de Falcon 50 Marine (F50M) depuis la métropole. Dix militaires français ont incorporé le poste de commandement de l'opération installé à Rome, dont un officier général contre-amiral, adjoint du commandant de l'opération (DCOM), six officiers et trois sous-officiers exerçant des fonctions au sein de l'état-major. Concernant le dispositif mis en place dans le contexte de l'épidémie de Covid-19, un contrôle systématique est effectué avant le départ, conformément aux directive sanitaires de l'état-major des armées. Pour les déploiements en zone proche, plusieurs mesures sont mises en œuvre pour limiter le risque résiduel de contamination : mise en sécurité (quatorzaine), établissement d'un questionnaire médical, tests de contrôle avant embarquement, période d'observation sous masque après l'appareillage en fonction de la durée de la mission, et surveillance médicale durant toute la mission. L'apparition d'un cas de Covid-19 en mer entraîne la mise en place automatique de mesures d'urgence, afin de contenir le risque de propagation au sein de l'équipage. Dès lors qu'un ou plusieurs membres de l'équipage sont suspectés d'être porteurs du virus à bord, des mesures d'isolement et d'identification des personnes ayant été en contact sont aussitôt mises en place, en plus du renforcement des mesures barrière. Une enquête épidémiologique est déclenchée et les locaux décontaminés. En cas d'évacuation sanitaire, celle-ci doit pouvoir être réalisée sous un délai de 72 heures.
