@@ -16,11 +16,15 @@ c) Le cas échéant, l'engagement de réinvestir, dans les conditions prévues a
 
 3° Le cas échéant, la dénomination, la catégorie et la forme ainsi que l'adresse du siège de la société, du fonds ou de l'organisme bénéficiaire du réinvestissement.
 
-b) Lorsque le produit de la cession des titres est réinvesti en application du d du 2° du I de l'article 150-0 B ter du code général des impôts, la société mentionnée au premier alinéa du a informe le fonds, la société ou l'organisme émetteur des parts ou actions souscrites que cette souscription est effectuée dans le cadre d'un réinvestissement réalisé en application de cette disposition.
+b) Lorsque le produit de la cession des titres est réinvesti en application du d du 2° du I de l'article 150-0 B ter du code général des impôts :
+
+1° La société mentionnée au premier alinéa du a informe le fonds, la société ou l'organisme émetteur des parts ou actions souscrites que cette souscription est effectuée dans le cadre d'un réinvestissement réalisé en application de cette disposition ;
+
+2° Elle joint, le cas échéant, à sa déclaration de résultat de chaque exercice au cours duquel elle a signé un bulletin de souscription en application des deuxième et troisième phrases du d du 2° du I de l'article 150-0 B ter précité, une copie de ce bulletin de souscription.
 
 3. a) La société qui a satisfait à l'engagement de réinvestissement dans les conditions prévues au 2° du I de l'article 150-0 B ter du code général des impôts joint à sa déclaration de résultat de l'exercice au cours duquel les délais de conservation prévus au septième alinéa du même 2° expirent, une attestation du fonds, de la société ou de l'organisme bénéficiaire du réinvestissement certifiant que l'obligation de conservation des biens ou titres ainsi acquis ou souscrits a été satisfaite.
 
-b) Lorsqu'un réinvestissement est réalisé en application du d du 2° du I de l'article 150-0 B ter du code général des impôts, dans le mois qui suit l'expiration du délai de cinq ans mentionné au même d, le fonds, la société ou l'organisme émetteur des parts ou actions souscrites communique à la société mentionnée au premier alinéa du a du 2 une attestation indiquant si, à l'expiration de ce délai, la condition tenant aux quotas d'investissement en titres éligibles prévue audit d est satisfaite et indiquant les pourcentages de l'actif de ce fonds, cette société ou cet organisme constitués par ces titres.
+b) La société qui a satisfait à l'engagement de réinvestissement dans les conditions prévues au d du 2° du I de l'article 150-0 B ter du code général des impôts joint à sa déclaration de résultat de l'exercice au cours duquel le délai de cinq ans prévu au même d expire, une attestation mentionnant les sommes effectivement versées au fonds, à la société ou à l'organisme bénéficiaire du réinvestissement.
 
 4. Lorsque la société ne prend pas l'engagement mentionné au c du 1 ou lorsque le réinvestissement effectué ne répond pas aux conditions prévues au 2° du I de l'article 150-0 B ter précité, elle joint à la déclaration de résultat de l'exercice de cession des titres apportés sans engagement de réinvestissement, ou de l'exercice au cours duquel l'une des conditions de réinvestissement n'est pas respectée, une attestation précisant que le produit de la cession des titres apportés n'est pas réinvesti conformément aux dispositions du 2° du I de l'article 150-0 B ter précité.
 
