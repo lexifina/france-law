@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717127
+
+- Question : [SEQ200717127](seq200717127.md) — Concurrence déloyale des transporteurs de personnes en provenance des pays de l'Est
+
+## Réponse
+
+*Transports, JO du 2020-11-05, page 5145*
+
+L'ensemble des services de l'État, tant au niveau national qu'au niveau local est mobilisé dans la lutte contre la fraude dans le secteur du transport particulier de personnes. La DREAL Auvergne-Rhône-Alpes organise régulièrement des opérations de contrôle routier particulièrement en saison hivernale, en Savoie, Haute-Savoie et Isère. Des infractions notamment en matière de respect des règles concernant le détachement des salariés européens sont régulièrement relevées par les contrôleurs des transports terrestres et les entreprises en cause font l'objet d'un suivi coordonné avec les forces de l'ordre. En 2019, une opération d'envergure sous l'égide du comité opérationnel départemental anti-fraude a été menée en Savoie et dont s'est fait écho la presse. Le bilan de cette opération de contrôle coordonnée entre tous les services de l'État fait état de 34 sociétés contrôlées dont 14 étrangères. Pour 9 sociétés (dont certaines des pays de l'Est), des infractions ont été relevées ou des investigations complémentaires ont été prévues par l'inspection du travail et l'URSSAF. Par ailleurs, les services du ministère des transports travaillent à l'amélioration des outils de contrôle existants. Certains sont d'ores et déjà disponibles sous la forme d'une application à télécharger sur les téléphones dont sont équipés les forces de l'ordre. Cette application développée par l'Imprimerie nationale permet de contrôler la validité des cartes professionnelles. Le registre des exploitants de VTC est par ailleurs librement accessible pour vérifier l'inscription d'une entreprise de VTC.
