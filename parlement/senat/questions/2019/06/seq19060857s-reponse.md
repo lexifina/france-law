@@ -1,0 +1,31 @@
+# Réponse à la question SEQ19060857S
+
+- Question : [SEQ19060857S](seq19060857s.md) — Intelligibilité de la loi
+
+## Réponse
+
+*Relations avec le Parlement et participation citoyenne, JO du 2020-11-06, page 8327*
+
+Mme le président. La parole est à M. Jean-François Longeot, auteur de la question n° 857, adressée à M. le ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne. M. Jean-François Longeot. À la suite du débat organisé au Sénat le 31 mars dernier sur le bilan annuel de l'application des lois, au cours duquel le Gouvernement a apporté de nombreuses précisions, je tenais à indiquer que, si ce contrôle relève d'une prérogative parlementaire, à savoir le contrôle de l'action du Gouvernement et l'évaluation des politiques publiques, il n'en demeure pas moins que la question de l'objectif de valeur constitutionnelle d'accessibilité et d'intelligibilité de la loi demeure intacte et les responsabilités partagées.
+
+Lors de la session 2018-2019, quarante-neuf lois ont été votées. Or l'exécutif demande au Parlement d'être de plus en plus rapide dans le vote de la loi, la procédure accélérée étant privilégiée pour près de deux tiers des lois votées en raison d'une inflation législative. En outre, une prise des textes réglementaires de plus en plus rapide est également attendue. Toutefois, la question se pose de savoir si les citoyens français arrivent à suivre de près, comme de loin, cette intense activité législative et s'ils sont en mesure d'en identifier les enjeux.
+
+Si une volonté de simplifier le droit a émergé ces dernières années, cela n'est pas sans raison. La complexification de la loi éloigne les citoyens de la chose publique, constituant en cela un terreau propice à l'émergence d'une défiance entre les Français et leurs représentants. Garantir une accessibilité de la loi aux citoyens, c'est garantir une accessibilité intellectuelle. Cela signifie que la norme doit être compréhensible. Le législateur à l'origine de la loi doit ainsi veiller à la compréhension par les citoyens de la règle qu'il édicte.
+
+Alors que seules douze propositions de loi sont devenues lois lors de la session 2017-2018, soit 16,7 %, cette exigence constitutionnelle tend à s'appliquer d'abord à celui qui a l'initiative législative, à savoir le Gouvernement. En réalité, aucune amélioration sensible de la clarté de la loi ne pourra se faire sans une réelle volonté de la part du Gouvernement. Que proposez-vous à cette fin, monsieur le ministre ? Comment comptez-vous limiter les lois bavardes et les dispositions législatives dépourvues de portée normative, assimilables à de simples déclarations de bonnes intentions ?
+
+Mme le président. La parole est à M. le ministre délégué.
+
+M. Marc Fesneau, ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne. Monsieur le sénateur Longeot, vous interpellez le Gouvernement sur la question de l'accessibilité et de l'intelligibilité de la loi, qui est, ainsi que vous le soulignez, un objectif à valeur constitutionnelle. Nous partageons l'objectif que la loi puisse être bien comprise par nos concitoyens, car c'est la meilleure façon de faire en sorte qu'elle puisse s'appliquer. Vous m'interrogez plus particulièrement sur les mesures que le Gouvernement met en œuvre pour remplir cet objectif.
+
+Vous noterez que, depuis le début de la XVe législature, plusieurs textes ont été présentés par le Gouvernement pour simplifier la mise en œuvre quotidienne du droit. Je pense à la loi du 10 août 2018 pour un État au service d'une société de confiance, qui a introduit un droit à l'erreur pour nos concitoyens dans leurs relations avec l'administration. Je pense également au projet de loi d'accélération et de simplification de l'action publique que vous avez voté très récemment.
+
+En matière de qualité des lois adoptées, il est vrai qu'une grande part de la responsabilité incombe au Gouvernement, comme vous l'avez souligné, puisqu'il est à l'initiative de nombreuses législations. Dans cet exercice, il recueille l'avis du Conseil d'État, qui veille scrupuleusement au respect du domaine de la loi et à la portée normative des projets. Ces avis sont désormais publiés par le Gouvernement afin d'éclairer les parlementaires.
+
+Vous noterez cependant que, pour la période 2019-2020, sur les quarante-deux textes définitivement adoptés, hors conventions internationales, dix-huit sont d'initiative parlementaire, soit 43 % du total. Nous avons donc une responsabilité partagée. Le Gouvernement doit évidemment prendre sa part.
+
+Cette responsabilité est d'autant plus partagée que, si les projets de loi sont bien à l'origine de la majorité des nouvelles lois, ces dernières sont le résultat, et c'est bien naturel, de la navette parlementaire durant laquelle, bien souvent, des amendements viennent modifier et compléter les articles. C'est pleinement le rôle du Parlement, mais il doit s'accompagner d'un contrôle strict de la recevabilité des amendements. À ce titre, je souligne que le Sénat a été précurseur en ce domaine et qu'il veille scrupuleusement au respect des articles 41 et 45 de la Constitution.
+
+Enfin, l'ordre du jour fixé par le Gouvernement prend en compte le temps nécessaire à un travail approfondi des parlementaires en amont de la discussion des projets de loi. Même lorsque la procédure accélérée est engagée, le Gouvernement respecte ainsi globalement, à l'exception des cas d'urgence, des délais d'environ six et quatre semaines entre le dépôt ou la transmission du projet et son examen en séance. Ce temps est en effet nécessaire pour que le débat soit bien préparé et qu'il aboutisse à une loi claire et stable dans le temps. Le temps consacré à faire la loi est souvent le gage de sa qualité, vous le savez.
+
+Malgré les difficultés liées à la crise sanitaire, le Gouvernement reste très attaché à la mise en œuvre des lois votées dans les meilleurs délais. J'ai eu l'occasion de rappeler à l'ensemble des ministères que les textes promulgués avant l'été 2020 devaient, dans la mesure du possible, être entièrement applicables avant le début de l'année 2021. Nous veillerons à ce que cet objectif soit tenu pour que nos concitoyens puissent constater, dans leur quotidien, les effets des réformes votées.
