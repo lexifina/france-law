@@ -50,15 +50,15 @@ Service commun des laboratoires-Laboratoire de Strasbourg |
 
 Parasites transmis par les aliments hormis Echinococcus sp. |
 
-ANSES-Laboratoire de santé animale de Maisons-Alfort-Unité mixte de recherche Biologie moléculaire et immunologie parasitaires et fongiques (UMR BIPAR) |
+ANSES-Laboratoire de santé animale-site de Maisons-Alfort-Unité mixte de recherche Biologie moléculaire et immunologie parasitaires (UMR BIPAR), en association avec le laboratoire de sécurité des aliments-site de Boulogne-sur-Mer |
 
 Résistance anti-microbienne |
 
-ANSES-Laboratoire de Fougères |
+ANSES-Laboratoire de Fougères, en association avec le Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
 
 Salmonella spp. |
 
-ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan |
+ANSES-Laboratoire de Ploufragan-Plouzané-Niort-Site de Ploufragan, en association avec le Laboratoire de sécurité des aliments-Site de Maisons-Alfort |
 
 Staphylocoques à coagulase positive,
 
@@ -126,7 +126,7 @@ Service commun des laboratoires-Laboratoire de Montpellier |
 
 Pesticides dans les denrées alimentaires d'origine animale et produits à forte teneur en matière grasse (groupes B2c, B3a sauf PCB et dioxines et B3b selon l'annexe I de la directive 96/23/ CE du Conseil) |
 
-ANSES-Laboratoire de sécurité des aliments-Site de Maisons-Alfort |
+ANSES-Laboratoire de sécurité des aliments-Site de Maisons-Alfort, en association avec le Laboratoire de Sophia-Antipolis |
 
 Pesticides par méthodes monorésidus |
 
@@ -342,7 +342,7 @@ ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, 
 
 OGM dans le maïs (semences) et soja, colza et lin (semences et parties végétatives) |
 
-GEVES/ BioGEVES-Surgères |
+Groupe d'Etude et de contrôle des Variétés Et des Semences (GEVES)/ Laboratoire de Biologie moléculaire et de Biochimie du Geves (BioGEVES)-Site de Surgères |
 
 OGM dans les semences (toutes espèces) et dans les denrées alimentaires et les aliments pour animaux |
 
@@ -350,7 +350,7 @@ Service commun des laboratoires-Laboratoire de Strasbourg |
 
 Santé des végétaux
 
-Bactéries phytopathogènes
+Bactéries phytopathogènes :
 
 Domaine de compétence |
 
@@ -360,11 +360,15 @@ Bactéries sur bananier, agrumes et plantes tropicales |
 
 ANSES-Laboratoire de la santé des végétaux-Unité pathogènes des plantes tropicales-Station de Saint-Pierre-La Réunion |
 
-Bactéries sur autres matrices |
+Bactéries réglementées non de quarantaine sur semences vraies (sauf Clavibacter michiganensis subsp insidiosus) |
+
+GEVES-Laboratoires de l'unité technique Détection de bioagresseurs-Beaucouzé |
+
+Autres bactéries |
 
 ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers |
 
-Phytoplasmes phytopathogènes
+Phytoplasmes phytopathogènes :
 
 Domaine de compétence |
 
@@ -374,7 +378,7 @@ Phytoplasmes sur toutes matrices |
 
 ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers |
 
-Virus phytopathogènes
+Virus phytopathogènes :
 
 Domaine de compétence |
 
@@ -388,11 +392,15 @@ Virus de la Sharka (PPV), virus de la pomme de terre et virus sur agrumes |
 
 ANSES-Laboratoire de la santé des végétaux-Unité quarantaine-Station de Lempdes (près de Clermont-Ferrand) |
 
+Pepino mosaïc virus sur semences vraies |
+
+GEVES-Laboratoires de l'unité technique Détection de bioagresseurs-Beaucouzé |
+
 Autres virus |
 
 ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers |
 
-Viroïdes phytopathogènes
+Viroïdes phytopathogènes :
 
 Domaine de compétence |
 
@@ -402,13 +410,17 @@ Viroïdes sur toutes matrices |
 
 ANSES-Laboratoire de la santé des végétaux-Unité bactériologie, virologie, OGM-Station d'Angers |
 
-Champignons phytopathogènes
+Champignons phytopathogènes :
 
 Domaine de compétence |
 
 Laboratoire national de référence |
 
-Champignons sur toutes matrices |
+Champignons réglementés non de quarantaine sur semences vraies, plants de fraisiers, griffes d'asperge et bulbes du genre Allium |
+
+GEVES-Laboratoires de l'unité technique Détection de bioagresseurs-Beaucouzé |
+
+Autres champignons sur toutes matrices |
 
 ANSES-Laboratoire de la santé des végétaux
 
@@ -416,31 +428,39 @@ Unité mycologie-Station de Malzéville (près de Nancy) |
 
 Champignons sensu stricto, ainsi que les organismes généralement assimilés (i. e. Oomycètes, Plasmodiophoromycètes)
 
-Nématodes phytopathogènes
+Nématodes phytopathogènes :
 
 Domaine de compétence |
 
 Laboratoire national de référence |
 
-Nématodes phytoparasites sur toutes matrices |
+Nématodes réglementés non de quarantaine sur semences vraies, plants de fraisiers et bulbes du genre Allium |
+
+GEVES-Laboratoires de l'unité technique Détection de bioagresseurs-Beaucouzé |
+
+Autres nématodes sur toutes matrices |
 
 ANSES-Laboratoire de la santé des végétaux
 
 Unité nématologie-Station du Rheu (près de Rennes) |
 
-Insectes, acariens phytopathogènes et auxiliaires
+Insectes, acariens phytopathogènes et auxiliaires :
 
 Domaine de compétence |
 
 Laboratoire national de référence |
 
-Insectes, acariens phytoparasites et auxiliaires sur toutes matrices |
+Bruches réglementées non de quarantaine des semences vraies |
+
+GEVES-Laboratoires de l'unité technique Détection de bioagresseurs-Beaucouzé |
+
+Autres insectes, acariens phytoparasites et auxiliaires sur toutes matrices |
 
 ANSES-Laboratoire de la santé des végétaux
 
 Unité entomologie, plantes invasives-Station de Montferrier-sur-Lèz (près de Montpellier) |
 
-Plantes invasives
+Plantes invasives :
 
 Domaine de compétence |
 
