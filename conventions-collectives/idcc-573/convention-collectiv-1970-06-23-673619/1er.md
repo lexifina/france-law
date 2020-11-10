@@ -151,3 +151,5 @@ Commerce de gros de tapis :
 Commerce de gros de revêtements de sols :
 
 – vente en gros de moquettes.
+
+Négociants en fournitures dentaires et leur personnel salarié.
