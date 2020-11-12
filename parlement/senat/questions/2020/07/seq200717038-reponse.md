@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717038
+
+- Question : [SEQ200717038](seq200717038.md) — Fixation d'une part minimale de gaz vert local pour les immeubles neufs et en rénovation lourde
+
+## Réponse
+
+*Logement, JO du 2020-11-12, page 5308*
+
+Le scénario de la Stratégie Nationale Bas-Carbone (SNBC) se base sur une part de logements chauffés au gaz en 2050 inférieure à 15 % pour atteindre la neutralité carbone, en raison du potentiel limité de production de gaz totalement décarboné. En effet, les ressources de biogaz devront être de préférence fléchées vers les usages dont le changement d'énergie sera difficile comme la mobilité et l'industrie, voire certains bâtiments existants. En particulier, la réglementation RE2020, en cours d'élaboration, devrait limiter les possibilités de recours au gaz naturel alors qu'aujourd'hui près de 45 % des logements neufs (notamment 75 % des logements collectifs) sont chauffés au gaz. Cette part était de 20 % en 2009. Les bâtiments neufs devront donc avoir une partie plus importante de leur chauffage et/ou de leur eau chaude sanitaire produite à partir de chaleur renouvelable. Il s'agit d'un des objectifs de la RE2020, dont les modalités et le niveau d'ambition sont en cours d'examen, la phase de concertation s'étant achevée à la mi-otobre 2020. Concernant spécifiquement le biométhane, la concertation autour de la RE2020 a fait apparaître une option consistant à soutenir la filière des gaz renouvelables via le préfinancement des contrats d'achat de biométhane par les maitres d'ouvrage de bâtiments neufs, pour des installations de production de biométhane non aidées par ailleurs. Cette option, sa faisabilité et son éventuel encadrement sont à l'étude. La fixation définitive du cadre général de la RE2020 sera nécessaire afin ensuite de pouvoir préciser le devenir de cette option.
