@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711455
+
+- Question : [SEQ190711455](seq190711455.md) — Nouvelles modalités d'achat des billets SNCF et diminution du nombre de points de vente dans les gares ferroviaires
+
+## Réponse
+
+*Transports, JO du 2020-11-12, page 5331*
+
+À l'été 2019, l'affluence des grands départs, conjuguée aux perturbations causées par les événements climatiques, notamment une coulée de boue dans les Alpes, a engendré des temps d'attente très longs dans certaines gares pour se procurer des titres de transport. La SNCF avait en effet sous-évalué la fréquentation en cette période. Elle a redéployé en urgence ses effectifs pour faire face à cette affluence exceptionnelle. Il convient de rappeler que, en ce qui concerne les transports conventionnés, la politique d'ouverture des guichets de gare relève des autorités organisatrices des mobilités (AOM) dans la mesure où ce sont elles qui en supportent le coût. Pour les services librement organisés, SNCF Voyageurs dispose en la matière d'une autonomie de gestion. Il lui appartient de décider de la stratégie de distribution des titres de transport, au regard des contraintes techniques, économiques et commerciales auxquelles elle est confrontée. De manière générale, l'achat des titres de transport par les clients se fait de plus en plus de façon dématérialisée et cette tendance ne fait que s'accroitre. Néanmoins, le Gouvernement encourage SNCF Voyageurs et les AOM à expérimenter des dispositifs alternatifs comme une distribution des titres de transport régional dans des implantations, tels qu'un office de tourisme, un marchand de journaux ou une maison de services au public. Dans cette optique, SNCF Mobilités a passé un protocole d'accord le 8 juillet avec la confédération des buralistes pour développer la vente de billets dans ces commerces. Enfin, des boutiques mobiles SNCF proposent l'ensemble des titres de transport à l'instar des guichets des gares et des boutiques SNCF.
