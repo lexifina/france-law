@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213479
+
+- Question : [SEQ191213479](seq191213479.md) — Situation de l'office national d'études et de recherches aérospatiales
+
+## Réponse
+
+*Armées, JO du 2020-11-12, page 5277*
+
+L'ONERA sort d'une situation financière fragile, qui, combinée à un contexte budgétaire très contraint, avait conduit en 2016 à un contrat d'objectifs et de performances (COP) marqué du sceau de l'austérité. L'activité de l'Office s'inscrit désormais dans un contexte général porteur : la LPM 2019-2025 met en effet l'accent sur l'innovation de la défense en général, et consacre un effort particulier au domaine aéronautique et spatial, avec en particulier les premières étapes du projet de Système de Combat Aérien Futur (SCAF). La hausse prévisible de l'activité et des ressources contractuelles associées a donc conduit à réétudier les trajectoires précédemment planifiées, et le travail de révision du COP est en cours, dans l'objectif d'une mise à jour d'ici la fin de l'année 2020. Une première mesure immédiate a été d'autoriser l'ONERA, au cours de l'exécution 2019 puis dans son budget 2020, à déroger aux trajectoires du COP en matière de masse salariale et d'effectifs réels. Ainsi, le plafond d'effectifs inscrit en loi de finances pour 2020 (1749 ETPT) est supérieur de 57 ETPT au plafond inscrit pour l'année 2020 dans le COP 2017-2021. De plus, et compte tenu du déficit d'attractivité évoqué, le ministère des armées a annoncé, lors du conseil d'administration de l'ONERA le 21 novembre 2019, qu'il consacrerait un effort supplémentaire à l'Office en portant la subvention pour charges de services publics de l'ONERA à 110 M€ en 2020 et 2021. Cet effort aidera l'Office à améliorer son attractivité salariale et en même temps à regagner des marges de manœuvre, qui permettront à l'ONERA d'accroître son activité sur contrat et de répondre à l'accroissement des enjeux d'innovation dans l'aéronautique et le spatial.
