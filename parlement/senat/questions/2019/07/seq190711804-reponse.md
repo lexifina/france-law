@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711804
+
+- Question : [SEQ190711804](seq190711804.md) — Offre étudiante à la SNCF
+
+## Réponse
+
+*Transports, JO du 2020-11-12, page 5333*
+
+Hormis les billets à tarification sociale nationale tels que ceux à destination des familles nombreuses ou à l'occasion des congés annuels, la tarification des services TER ne relève pas de l'État, mais uniquement des régions en tant qu'autorités organisatrices des services de transport ferroviaire de voyageurs d'intérêt régional. En effet, la liberté tarifaire octroyée aux régions par la loi de 2014 portant réforme ferroviaire et mise en œuvre par le décret n° 2016-327 du 17 mars 2016 relatif à l'organisation du transport ferroviaire de voyageurs et portant diverses dispositions relatives à la gestion financière et comptable de SNCF Mobilités, a été élargie au premier semestre 2017 aux deux tarifs sociaux nationaux les plus utilisés sur les services TER : l'abonnement de travail et l'abonnement destiné aux élèves-étudiants-apprentis. Ainsi, dans le cadre des conventions d'exploitation qui les lient à la SNCF, les régions définissent désormais librement la politique tarifaire à destination de l'ensemble des clients des TER. Chaque région propose selon l'analyse qu'elle fait des besoins de mobilité des élèves-étudiants-apprentis et plus généralement des jeunes, différents types de cartes de réduction et d'abonnements dont le prix détermine le niveau de contribution au coût du transport attendu par ces catégories d'usagers. Outre leur prix, chaque région définit également les conditions d'accès à ces offres tarifaires ainsi que les modalités d'achat, de renouvellement et de remboursement. L'État en application du principe de libre administration des collectivités territoriales n'intervient pas dans ces choix.
