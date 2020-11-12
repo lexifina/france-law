@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018328
+
+- Question : [SEQ201018328](seq201018328.md) — Risques liés au forçage génétique
+
+## Réponse
+
+*Transition écologique, JO du 2020-11-12, page 5312*
+
+Le Ministère de la transition écologique a examiné avec intérêt la question posée, relative au forçage génétique et aux conséquences potentielles de la dissémination d'organismes génétiquement modifiés qui en sont issus. La technique du forçage génétique consiste à introduire dans des organismes vivants une modification génétique qui se transmet de manière quasi-certaine à la descendance. Ceci permet de modifier génétiquement ou d'éradiquer l'ensemble d'une population, voire d'une espèce, à partir de la dissémination de quelques individus. Les applications potentielles n'en sont qu'au stade de la recherche, voire du concept. Cependant la recherche progresse rapidement, notamment sur le forçage génétique appliqué aux insectes, et de premières utilisations pourraient émerger avant la fin de cette décennie. Si certaines applications de cette technique apparaissent prometteuses, elle suscite également des inquiétudes importantes, notamment du fait de la capacité des gènes forcés à rester durablement, voire indéfiniment, dans l'environnement, et de leur capacité importante de dispersion. Les implications écologiques, sociales et éthiques de cette technologie sont donc essentielles à appréhender, et les risques environnementaux potentiels apparaissent significatifs, tout comme les incertitudes restant à lever concernant les méthodes d'évaluation et de maîtrise des risques du forçage génétique. Compte tenu de ces incertitudes et des risques significatifs associés au forçage génétique, l'application du principe de précaution, auquel le Ministère de la Transition Ecologique est particulièrement attaché, appelle à maintenir une posture de grande vigilance vis-à-vis de cette technique.
