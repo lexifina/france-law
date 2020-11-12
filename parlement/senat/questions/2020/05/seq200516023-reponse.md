@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200516023
+
+- Question : [SEQ200516023](seq200516023.md) — Compensation de la taxe d'habitation aux communes
+
+## Réponse
+
+*Comptes publics, JO du 2020-11-12, page 5287*
+
+Le Gouvernement ne souhaite pas remettre en cause la refonte de la fiscalité locale mise en œuvre par l'article 16 de la loi de finances pour 2020. La suppression de la taxe d'habitation sur les résidences principales pour tous les Français constitue un engagement du président de la République. Elle permettra à environ 24,4 millions de foyers fiscaux de ne plus acquitter de taxe d'habitation sur leurs résidences principales à compter de 2023 dont 80 % dès 2020. La suppression de la taxe d'habitation a nécessité la mise en place, à compter de 2021, d'un nouveau schéma de financement des collectivités locales. Les communes et les établissements publics de coopération intercommunale (EPCI) à fiscalité propre seront intégralement compensés, sur la base du taux de taxe d'habitation adopté en 2017, par le transfert de la part départementale de taxe foncière sur les propriétés bâties (TFPB). Aucun des éléments structurants de la refonte de la fiscalité locale n'est remis en cause par la crise sanitaire : les bases de taxe d'habitation et de TFPB ne seront pas affectées en 2020 et le montant de la taxe sur la valeur ajoutée (TVA) perçu par les EPCI à fiscalité propre et les départements à compter de 2021 leur est garanti. Au surplus, l'article 5 de la loi finances rectificative du 30 juillet 2020 apporte une réponse notable aux pertes de recettes fiscales que subiront en 2020 les communes et les EPCI à fiscalité propre. Il prévoit que les recettes fiscales et domaniales perçues par chaque commune et chaque EPCI à fiscalité propre en 2020 ne pourront pas être inférieures aux montants moyens perçus entre 2017 et 2019. Une dotation de l'État leur sera versée, le cas échéant, pour leur garantir un niveau de ressources égal à ce montant moyen.
