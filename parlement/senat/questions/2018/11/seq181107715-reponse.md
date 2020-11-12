@@ -1,0 +1,9 @@
+# Réponse à la question SEQ181107715
+
+- Question : [SEQ181107715](seq181107715.md) — Taxis de l'Oise
+
+## Réponse
+
+*Transports, JO du 2020-11-12, page 5313*
+
+L'article L. 3121-11 du code des transports dispose qu'une autorisation de stationnement (ADS) permet au conducteur de taxis d'effectuer de la « maraude », c'est-à-dire d'arrêter le véhicule, de stationner ou de circuler sur la voie publique en quête de clientèle, uniquement dans le ressort de l'autorisation défini par l'autorité compétente. En dehors de celle-ci, les conducteurs de taxis ne peuvent pas effectuer de maraude et doivent justifier d'une réservation préalable. Les taxis justifiant d'une réservation préalable en cours peuvent ainsi stationner ou circuler en dehors de leur zone d'autorisation. Dès l'achèvement de la prestation commandée, le conducteur de taxi est tenu de retourner dans le périmètre de son autorisation de stationnement ou dans un lieu, en dehors de la chaussée, où le stationnement est autorisé. Dans sa décision n° 2015-468/469/472 QPC du 22 mai 2015, le Conseil constitutionnel a confirmé que l'obligation de « retour à la base » doit s'appliquer aux taxis lorsqu'ils se situent hors de leur zone de stationnement. L'activité des taxis parisiens au sein du département de l'Oise ne serait donc illégale qu'en l'absence de justification d'une réservation préalable en cours. Les services de l'État ont été appelés à renforcer leur vigilance sur le respect des zones de recherche de clientèle sur la voie publique, au sein du département de l'Oise en particulier. Tout conducteur de taxi qui se trouve hors de sa zone et ne justifie pas au moyen d'un support papier ou électronique d'une réservation préalable, comportant notamment les indications de la date, de l'heure, du lieu de réservation et de l'identité du client, encourt une amende prévue pour les contraventions de 5 ème classe pouvant aller jusqu'à 1 500 € et 3 000 € en cas de récidive.
