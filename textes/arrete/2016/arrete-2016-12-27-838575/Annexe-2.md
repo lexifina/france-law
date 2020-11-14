@@ -18,6 +18,12 @@ CHU de Grenoble |
 
 CHU de Clermont-Ferrand |
 
+74 |
+
+CH d'Annecy
+
+|
+
 Bourgogne-Franche-Comté |
 
 25 |
