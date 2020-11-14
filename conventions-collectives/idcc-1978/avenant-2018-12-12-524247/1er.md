@@ -112,15 +112,15 @@ L'information visée à l'alinéa 2 ci-dessus permet au candidat d'actualiser so
 
 E. – Classement des CQP
 
-Lors de la création ou de la révision d'un CQP, la CPNEFP le classe dans l'une des catégories suivantes :
+Lors de la création ou de la révision d'un CQP, la CPNEFP le classe, conformément au cadre national des certifications professionnelles définies par le décret n° 2019-14 du 8 janvier 2019, dans l'une des catégories suivantes :
 
-– CQP catégorie A : pour être inscrit en catégorie A par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondant au moins aux exigences du niveau V de l'Éducation nationale (formation de niveau CAP, BEP, CTM, ou diplôme national du brevet) ;
+– CQP catégorie A : pour être inscrit en catégorie A par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondantes au moins aux exigences du niveau 3 défini par le cadre national des certifications professionnelles ;
 
-– CQP catégorie B : pour être inscrit en catégorie B par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondant au moins aux exigences du niveau IV de l'Éducation nationale (formation de niveau bac, du brevet de technicien ou du brevet professionnel, BTM) ;
+– CQP catégorie B : pour être inscrit en catégorie B par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondantes au moins aux exigences du niveau 4 défini par le cadre national des certifications professionnelles ;
 
-– CQP catégorie C : pour être inscrit en catégorie C par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondant au moins aux exigences du niveau III de l'Éducation nationale (formation de niveau bac + 2 BTS, DUT, BM3, MOF) ;
+– CQP catégorie C : pour être inscrit en catégorie C par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondantes au moins aux exigences du niveau 5 défini par le cadre national des certifications professionnelles ;
 
-– CQP catégorie D : pour être inscrit en catégorie D par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondant au moins aux exigences du niveau I et II de l'Éducation nationale (formation de niveau égal ou supérieur au bac + 3).
+– CQP catégorie D : pour être inscrit en catégorie D par la CPNEFP, un CQP validé devra comporter des caractéristiques correspondantes au moins aux exigences du niveau 6 défini par le cadre national des certifications professionnelles, voire du niveau 7 ou 8 suivant décret.
 
 F. – Inscription au répertoire national des certifications professionnelles (RNCP)
 
@@ -138,6 +138,6 @@ Les CQP sont accessibles :
 
 –– une phase de certification constituée des actions d'évaluation mentionnées dans le référentiel de certification du CQP et validée par le jury de délibération.
 
-Lorsque les actions de formation sont mises en œuvre sur initiative de l'employeur, avec son accord, ou dans le cadre du CPF, les frais des phases mentionnées ci-dessus sont pris en charge par l'OPCA puis l'OPCO désigné par la branche ;
+Lorsque les actions de formation sont mises en œuvre notamment dans le cadre du CPF, les frais pédagogiques et les frais liés à la validation des connaissances et des compétences sont pris en charge, dans les conditions déterminées par les lois et règlements en vigueur, par la Caisse de dépôt et de consignations ou par l'OPCO désigné par la branche ;
 
 – soit à l'issue d'actions de VAE, dans les conditions fixées par la loi, pour le salarié ayant une ancienneté d'au moins 1 an dans le secteur de la branche concerné.
