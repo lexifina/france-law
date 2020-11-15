@@ -116,28 +116,42 @@ Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non s
 
 3,00 |
 
-Expertise |
+Mise en vente |
 
 Véhicules PL 44 t ≥ PTAC > 19 t |
 
-91,50 |
+120 |
+
+|
 
 Véhicules PL 19 t ≥ PTAC > 7,5 t |
 
-91,50 |
+120 |
+
+|
 
 Véhicules PL 7,5 t ≥ PTAC > 3,5 t |
 
-91,50 |
+120 |
+
+|
 
 Voitures particulières |
 
-61,00 |
+100 |
+
+|
 
 Autres véhicules immatriculés |
 
-30,50 |
+50 |
+
+|
 
 Cyclomoteurs, motocyclettes, tricycles à moteur et quadricycles à moteur non soumis à réception |
 
-30,50 |
+50 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 4 novembre 2020 ( NOR : INTS2025699A ), les dispositions introduites par cet arrêté entrent en vigueur, dans chaque département, à la date d'entrée en vigueur prévue par les dispositions de l'article 2 de l'ordonnance n° 2020-773 du 24 juin 2020. Elles s'appliquent aux véhicules entrés en fourrière à compter de la même date.
