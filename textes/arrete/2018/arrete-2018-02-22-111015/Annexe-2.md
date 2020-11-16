@@ -2,7 +2,7 @@
 
 INDICATEURS
 
-Chaque Centre régional de dépistage néonatal (CRDN) enregistre et suit systématiquement les indicateurs ci-dessous. Il transmet ces données au Centre national de coordination du dépistage néonatal selon la fréquence définie par ce dernier.
+Chaque Centre régional de dépistage néonatal (CRDN) enregistre et suit systématiquement les indicateurs ci-dessous. Il renseigne les données et les transmet au Centre national de coordination du dépistage néonatal, selon les modalités définies par ce dernier.
 
 a) Concernant l'étape pré-analytique :
 
@@ -59,3 +59,7 @@ e) Concernant le DNN dans son ensemble :
 - Taux de nouveau-nés dépistés (nombre de nouveau-nés dépistés/nombre nouveau-nés pour lesquels les titulaires de l'autorité parentale ont autorisé le dépistage dans le territoire du CRDN) par maladie dépistée ;
 
 - Taux de participation au DNN (nombre de nouveau-nés ayant eu un DNN + nombre de nouveau-nés n'ayant pas eu de DNN par refus parental/nombre d'enfants nés vivants dans le territoire du CRDN).
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 12 novembre 2020 ( NOR : SSAP2029513A ), les dispositions issues dudit arrêté s'appliquent aux enfants nés à compter du 1er décembre 2020.
