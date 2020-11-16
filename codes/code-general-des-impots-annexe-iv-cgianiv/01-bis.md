@@ -1,13 +1,7 @@
 # Article 01 bis
 
-I. – Pour l'application du A du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements s'entendent de celles classées dans les zones A bis, A, B1 et B2 telles qu'elles sont définies à l'article R. 304-1 du code de la construction et de l'habitation.
+I. – Pour l'application du A du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes se caractérisant par un déséquilibre important entre l'offre et la demande de logements s'entendent de celles classées dans les zones A bis, A et B1 telles qu'elles sont définies à l'article D. 304-1 du code de la construction et de l'habitation.
 
-II. – Pour l'application du B du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes, autres que celles mentionnées au A du 1 du même o, s'entendent de celles classées dans la zone C telle qu'elle est définie à l'article R. 304-1 du code de la construction et de l'habitation.
+II. – Pour l'application du B du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles mentionnées au A du 1 du même o, s'entendent de celles classées dans la zone B2 telle qu'elle est définie à l'article D. 304-1 du code de la construction et de l'habitation.
 
-III. – (sans objet).
-
-NOTA :
-
-Le III devient sans objet.
-
-Modification effectuée en conséquence de la loi n° 2018-1021 du 23 novembre 2018, art. 162-I-1° b et II.
+III. – Pour l'application du C du 1 du o du 1° du I de l'article 31 du code général des impôts, les communes, autres que celles mentionnées aux A et B du 1 du même o, s'entendent de celles classées dans la zone C telle qu'elle est définie à l'article D. 304-1 du code de la construction et de l'habitation.
