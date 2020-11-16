@@ -2,14 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
 
-Jusqu'au 30 novembre 2019 :
-
-Paris-Johannesburg (Afrique du Sud).
-
-Jusqu'au 30 octobre 2020 :
-
-Paris-Philipsburg (Saint-Martin).
-
 Jusqu'au 30 novembre 2020 :
 
 Paris-Sal (Cabo Verde).
@@ -64,7 +56,9 @@ Pointe-à-Pitre-Philipsburg (Saint-Martin) ;
 
 Pointe-à-Pitre-Sainte-Lucie ;
 
-Fort-de-France-Philipsburg (Saint-Martin).
+Fort-de-France-Philipsburg (Saint-Martin) ;
+
+Paris-Philipsburg (Etat de Saint Martin).
 
 Jusqu'au 31 janvier 2022 :
 
