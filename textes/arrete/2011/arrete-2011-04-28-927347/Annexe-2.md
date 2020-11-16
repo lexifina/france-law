@@ -6,7 +6,7 @@ Garantie d'Affilié
 
 Garantie Autonome à Première Demande.
 
-Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner, ce jour, à la Caisse des dépôts et consignations (CDC) intervenant en tant que mandataire d'Electricité de France (" EDF "), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingt-quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de notre Affilié, la société [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'Affilié et EDF (" accord-cadre ") au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Notifications de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la " Garantie ").
+Nous, soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le Garant ou Nous), acceptons par le présent document de donner, ce jour, à la Caisse des dépôts et consignations (CDC) intervenant en tant que mandataire d'Electricité de France (EDF), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingt-quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de notre Affilié, la société [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'Affilié et EDF (accord-cadre) au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Notifications de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la Garantie).
 
 PRÉAMBULE
 
@@ -20,13 +20,13 @@ Il est convenu ce qui suit :
 
 1. Nous nous engageons, expressément, de manière irrévocable et sans condition, à payer à première demande toute somme, dans la limite d'une Somme Maximum (telle que définie ci-dessous), que la CDC pourrait réclamer au titre de la présente Garantie, à compter de la date visée au paragraphe 4 ci-dessous et pour la durée totale de la Garantie telle que visée au paragraphe 4 ci-dessous.
 
-2. La Garantie sera mise en œuvre par l'envoi par la CDC d'une demande au Garant, dans la forme prévue à l'annexe de cette Garantie (la " Demande "). Le Garant reconnaît et accepte que la Demande constituera une preuve suffisante de l'obligation de [l'Acheteur] de payer toute somme réclamée par la CDC dans la limite de la Somme Maximum (telle que définie ci-dessous). Cette demande devra indiquer la somme demandée au titre de la Garantie dans la limite de la Somme Maximum (telle que définie ci-dessous). La CDC peut adresser plusieurs demandes au titre de la Garantie dans la mesure où la totalité des sommes ainsi versées par le Garant à la demande de la CDC n'excède pas la Somme Maximum.
+2. La Garantie sera mise en œuvre par l'envoi par la CDC d'une demande au Garant, dans la forme prévue à l'annexe de cette Garantie (la Demande). Le Garant reconnaît et accepte que la Demande constituera une preuve suffisante de l'obligation de [l'Acheteur] de payer toute somme réclamée par la CDC dans la limite de la Somme Maximum (telle que définie ci-dessous). Cette demande devra indiquer la somme demandée au titre de la Garantie dans la limite de la Somme Maximum (telle que définie ci-dessous). La CDC peut adresser plusieurs demandes au titre de la Garantie dans la mesure où la totalité des sommes ainsi versées par le Garant à la demande de la CDC n'excède pas la Somme Maximum.
 
 3. La Garantie constitue une obligation personnelle du Garant ; elle est indépendante des obligations de [l'Acheteur] au titre de l'accord-cadre. Le Garant renonce, expressément et de manière irrévocable, au droit d'invoquer toute relation présente, passée ou future, entre [l'Acheteur] et EDF ou le Garant dans le but de s'opposer aux paiements prévus au paragraphe 1 ci-dessus.
 
-4. La Garantie prendra effet le [⁎] et prendra fin le [⁎], date au-delà de laquelle toute Demande sera irrecevable.
+4. La Garantie prendra effet le, date au-delà de laquelle toute Demande sera irrecevable.
 
-Si nouvelle Garantie : [4. La Garantie prendra effet le [⁎] et prendra fin le [⁎], date au-delà de laquelle toute demande sera irrecevable. Cette Garantie entraîne résiliation de plein droit, à sa date de prise d'effet, de la Garantie en cours.]
+Si nouvelle Garantie : [4. La Garantie prendra effet le, date au-delà de laquelle toute demande sera irrecevable. Cette Garantie entraîne résiliation de plein droit, à sa date de prise d'effet, de la Garantie en cours.]
 
 5. Le Garant reconnaît et accepte qu'il demeurera lié par ses obligations en qualité de Garant au titre de la Garantie, indépendamment de la validité ou de l'absence de validité de l'accord-cadre.
 
@@ -52,7 +52,7 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le [⁎] et prendra fin le 
 
 (v) effectués dans les délais et lieux indiqués dans la demande que la CDC pourrait être amené à délivrer conformément au paragraphe 2 ci-dessus, et dans tous les cas, au plus tard deux (2) jours ouvrés suivant la réception de la Demande par le Garant ;
 
-(vi) exempts de tous droits, taxes ou dépenses de toute sorte (présents ou à venir) qui seraient autrement dé-duits, prélevés ou retenus ; et
+(vi) exempts de tous droits, taxes ou dépenses de toute sorte (présents ou à venir) qui seraient autrement déduits, prélevés ou retenus ; et
 
 (vii) exempts de toute compensation ou demande reconventionnelle relative à toute somme qui pourrait être due par EDF au Garant au titre de tout autre contrat ou de toute autre relation juridique.
 
@@ -62,17 +62,13 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le [⁎] et prendra fin le 
 
 11-1. Les parties peuvent modifier le présent contrat par avenant portant sur la date de validité de la garantie et sur le montant de la garantie. L'avenant est conforme au modèle annexé à l'Accord-cadre.
 
-12. Aucune renonciation à la mise en œuvre d'une ou plusieurs des dispositions de la Garantie ne sera valable, à moins qu'elle n'ait été formulée par écrit et signée par la CDC. Aucun retard, ni aucune opposition, de la part de la CDC ne saura constituer une renonciation ou être interprétée comme telle. Les droits et pouvoirs, ainsi que l'interprétation faite par la CDC de ces droits et pouvoirs au titre de la Garantie s'ajoutent à, et ne sauraient être exclusifs de, ou se substituer à ceux qui lui sont conférés par la loi, tout autre contrat ou toute autre sûreté dont EDF bénéficierait.
-
-13. Toute notification ou autre correspondance au titre de la Garantie ou en rapport avec la Garantie sera effectuée par télécopie ou par simple lettre et envoyée aux adresses suivantes :
+12. Aucune renonciation à la mise en œuvre d'une ou plusieurs des dispositions de la Garantie ne sera valable, à moins qu'elle n'ait été formulée par écrit et signée par la CDC. Aucun retard, ni aucune opposition, de la part de la CDC ne saura constituer une renonciation ou être interprétée comme telle. Les droits et pouvoirs, ainsi que l'interprétation faite par la CDC de ces droits et pouvoirs au titre de la Garantie s'ajoutent à, et ne sauraient être exclusifs de, ou se substituer à ceux qui lui sont conférés par la loi, tout autre contrat ou toute autre sûreté dont EDF bénéficierait. 13. Toute notification ou autre correspondance au titre de la Garantie ou en rapport avec la Garantie sera effectuée par télécopie ou par simple lettre et envoyée aux adresses suivantes :
 
 (i) Concernant le Garant :
 
 [nom du Garant]
 
-[adresse]
-
-A l'attention de : [⁎]
+[adresse] A l'attention de : [⁎]
 
 Numéro de téléphone : [⁎]
 
@@ -80,9 +76,7 @@ Numéro de télécopie : [⁎]
 
 (ii) Concernant la CDC :
 
-[adresse]
-
-A l'attention de : [⁎]
+[adresse] A l'attention de : [⁎]
 
 Numéro de téléphone : [⁎]
 
@@ -108,9 +102,7 @@ Nom et qualité
 
 Signé et conclu le :
 
-Annexe
-
-Modèle de demande
+Annexe Modèle de demande
 
 A [Garant] [date]
 
