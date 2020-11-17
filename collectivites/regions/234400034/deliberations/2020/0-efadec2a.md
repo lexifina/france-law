@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — Politique de la ville, habitat, logement
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2020-11-17
+- Matière : 8.5 Politique de la ville-habitat-logement
+- Objet : Politique de la ville, habitat, logement
+- Transmis à la préfecture : 2020-11-17
+- Votants : 30
+- Pour : 25
+- Contre : 0
+- Abstentions : 5
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-30504.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
