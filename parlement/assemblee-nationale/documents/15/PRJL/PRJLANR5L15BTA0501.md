@@ -1,0 +1,12 @@
+# projet de loi de programmation de la recherche pour les années 2021 à 2030 et portant diverses dispositions relatives à la recherche et à l'enseignement supérieur
+
+- Type : Projet de loi
+- Dénomination : Projet de loi
+- Provenance : Séance
+- Statut : ADOPTSEANCE
+- Titre court : Programmation de la recherche
+- Publié le : 2021-01-13
+- Dossier : DLR5L15N40171
+- Auteurs : Assemblée nationale de la 15ème législature
+- Identifiant : PRJLANR5L15BTA0501
+- Législature : 15
