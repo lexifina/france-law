@@ -1,0 +1,9 @@
+# Article 1er
+
+Les certifications actuellement éligibles à la Pro-A sont celles mentionnées en annexe du présent accord.
+
+La liste des certifications éligibles pourra être réajustée par la commission paritaire de l'emploi et de la formation professionnelle.
+
+(1) Article étendu sous réserve du respect des dispositions de l'article L. 6324-3 du code du travail.
+
+(Arrêté du 6 novembre 2020 - art. 1)
