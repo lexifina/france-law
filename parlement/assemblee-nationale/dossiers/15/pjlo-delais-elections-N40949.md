@@ -1,0 +1,51 @@
+# Projet de loi organique relatif aux délais d’organisation des élections législatives et sénatoriales
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N40949
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/pjlo_delais_elections
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-185.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-11-18 : 1er dépôt d'une initiative. (PRJLANR5L15B3583)
+  - 2020-11-18 : Etude d'impact (ETDIANR5L15B3583)
+  - 2020-11-18 : Avis du Conseil d'Etat (AVCEANR5L15B3583)
+  - 2020-11-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-11-18 : Renvoi en commission au fond
+      - 2020-11-25 : Nomination de rapporteur
+      - 2020-11-24 : Réunion de commission
+      - 2020-11-30 : Réunion de commission
+      - 2020-12-04 : Réunion de commission
+      - 2020-11-30 : Dépôt de rapport (RAPPANR5L15B3604, PRJLANR5L15BTC3604)
+  - Discussion en séance publique
+    - 2020-12-04 : Discussion en séance publique
+    - 2020-12-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2020-12-04 : Dépôt d'une initiative en navette (PRJLSNR5S359B0185)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-04 : Renvoi en commission au fond
+      - 2020-12-08 : Dépôt de rapport (RAPPSNR5S359B0193, PRJLSNR5S359BTC0194)
+  - Discussion en séance publique
+    - 2020-12-08 : Décision
+- Commission Mixte Paritaire
+  - 2020-12-09 : Dépôt d'un projet de loi (PRJLANR5L15B3644)
+  - 2020-12-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2020-12-10 : Nomination de rapporteur
+    - 2020-12-10 : Dépôt du rapport d'une CMP (RAPPANR5L15B3656, PRJLANR5L15BTC3656)
+    - 2020-12-10 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0220, PRJLSNR5S359BTC0221)
+  - Discussion en séance publique
+    - 2020-12-10 : Décision
+  - Discussion en séance publique
+    - 2020-12-11 : Décision
+  - 2020-12-10 : Décision de la CMP
+- Conseil constitutionnel
+  - 2020-12-11 : Saisine du conseil constitutionnel
+  - 2020-12-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2020-12-24 : Promulgation d'une loi
