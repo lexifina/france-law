@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415246
+
+- Question : [SEQ200415246](seq200415246.md) — Élections dans les fédérations sportives
+
+## Réponse
+
+*Éducation nationale, jeunesse et sports, JO du 2020-11-19, page 5456*
+
+Le code du sport, dans son article L. 131-8, prévoit que les fédérations sportives agréées doivent avoir adopté des statuts comprenant des dispositions obligatoires, et notamment : que les membres des instances dirigeantes soient élus au scrutin secret pour une durée de quatre ans ; que ces mandats de quatre ans expirent au plus tard le 31 décembre de l'année durant laquelle se tiennent les Jeux Olympiques (JO) d'été (pour les fédérations qui relèvent d'une discipline inscrite à leur programme, ou susceptible de l'être). Toutes les fédérations agréées concernées respectent cette double règle statutaire sans distinction. Face aux questionnements légitimes soulevés par le report des prochains JO de Tokyo en 2021, le ministère a engagé un travail de concertation avec le mouvement olympique et sportif pour permettre aux fédérations de faire face aux mesures de confinement conduisant aux annulations successives des assemblées générales départementales et régionales, initialement prévues avant l'été. Ce travail s'est conclu par la parution d'un décret (décret n° 2020-896 du 22 juillet 2020) qui prévoit, dans son article 1, que les fédérations sportives pourront : porter à quatre ans et demi le mandat de leurs instances dirigeantes actuelles ; et que ce mandat expirera au plus tard le 30 avril 2021. Ce nouveau cadre réglementaire, transitoire permet donc aux fédérations qui le souhaitent, de pouvoir disposer d'un délai complémentaire pour que se tiennent les différentes assemblées générales nécessaires. Naturellement, les fédérations peuvent maintenir un calendrier d'élections avant le 31 décembre, dès lors qu'elles garantissent un processus électoral démocratique, transparent et respectueux de l'équité entre candidats.
