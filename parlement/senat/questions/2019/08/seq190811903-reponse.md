@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190811903
+
+- Question : [SEQ190811903](seq190811903.md) — Acheminement des procès-verbaux des opérations électorales
+
+## Réponse
+
+*Intérieur, JO du 2020-11-19, page 5472*
+
+Les procès-verbaux sont les documents qui permettent d'authentifier des résultats électoraux en vue de leur proclamation. Afin d'éviter les risques de fraude ou de contrefaçon, il est nécessaire que l'exemplaire original soit transmis à l'autorité chargée de la proclamation des résultats. Ces procès-verbaux doivent être accompagnés des documents annexés, notamment les bulletins blancs et nuls, les pièces fournies à l'appui des réclamations et des décisions prises par le bureau ainsi que les feuilles de pointage (article R. 68 du code électoral). Pour que l'autorité chargée de proclamer les résultats puisse se prononcer sur les cas litigieux, il est indispensable qu'elle dispose des pièces originales. Pour ce faire, avant chaque scrutin, le préfet donne aux maires des instructions relatives à la transmission du procès-verbal, en lien avec les forces de sécurité intérieure, afin de faciliter cette transmission du document original, sur laquelle il n'est pas envisagé de revenir au vu d'une part du caractère extrêmement ponctuel de cette charge pour les maires (au maximum 4 fois par an en année présidentielle) et d'autre part des risques importants qui en découleraient. Les modalités de cette transmission sont précisées de manière générale par l'instruction relative au déroulement des opérations électorales lors des élections au suffrage universel direct (cf. point 13.3.2 de la circulaire INTA2000661J du 16 janvier 2020) et, avant chaque scrutin, par l'instruction donnée aux maires ainsi que par l'organisation définie localement par le préfet (par exemple, le point 5.1 de la circulaire INTA2000662J du 16 janvier 2020).
