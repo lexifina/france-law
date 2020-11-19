@@ -1,0 +1,10 @@
+# rapport  sur le projet de loi de finances, adopté, par l'Assemblée nationale, pour 2021 (n°137).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport  sur le projet de loi de finances, adopté, par l'Assemblée nationale, pour 2021 (n°137).
+- Déposé le : 2020-11-19
+- Dossier : DLR5L15N40245
+- Auteurs : M. Jean-François Husson (rapporteur), M. Jean-Marie Mizzon (rapporteur), M. Vincent Delahaye (rapporteur), M. Rémi Féraud (rapporteur), Mme Isabelle Briquet (rapporteur), M. Vincent Segouin (rapporteur), M. Patrice Joly (rapporteur), M. Michel Canévet (rapporteur), M. Jean-Claude Requier (rapporteur), M. Marc Laménie (rapporteur), M. Philippe Dallier (rapporteur), M. Bernard Delcros (rapporteur), M. Christian Bilhac (rapporteur), M. Vincent Éblé (rapporteur), M. Didier Rambaud (rapporteur), M. Dominique de Legge (rapporteur), M. Paul Toussaint Parigi (rapporteur), Mme Christine Lavarde (rapporteur), M. Hervé Maurey (rapporteur), M. Stéphane Sautarel (rapporteur), M. Vincent Capo-Canellas (rapporteur), M. Thierry Cozic (rapporteur), Mme Frédérique Espagnac (rapporteur), M. Jérôme Bascher (rapporteur), M. Gérard Longuet (rapporteur), M. Albéric de Montgolfier (rapporteur), M. Claude Nougein (rapporteur), M. Sébastien Meurant (rapporteur), M. Jean Bizet (rapporteur), M. Antoine Lefèvre (rapporteur), M. Roger Karoutchi (rapporteur), M. Georges Patient (rapporteur), M. Teva Rohfritsch (rapporteur), M. Victorin Lurel (rapporteur), M. Jean-Michel Arnaud (rapporteur), Mme Vanina Paoli-Gagin (rapporteur), M. Jean-François Rapin (rapporteur), Mme Sylvie Vermeillet (rapporteur), M. Charles Guené (rapporteur), M. Claude Raynal (rapporteur), M. Pascal Savoldelli (rapporteur), M. Christian Klinger (rapporteur), M. Philippe Dominati (rapporteur), M. Jean Pierre Vogel (rapporteur), M. Arnaud Bazin (rapporteur), M. Éric Bocquet (rapporteur), M. Éric Jeansannetas (rapporteur), M. Emmanuel Capus (rapporteur), Mme Sophie Taillé-Polian (rapporteur), Commission des finances
+- Identifiant : RAPPSNR5S359B0138
