@@ -82,6 +82,28 @@ Mêmes conditions d'emploi que les autres pièges à œuf (réfé­rence 7).
 
 |
 
+8 |
+
+Piège en X |
+
+E. Belisle,
+
+Labelle,
+
+Québec
+
+(Canada) |
+
+Super 110 |
+
+12 x12 |
+
+c) EB 714 |
+
+Simple ressort cadre simple |
+
+|
+
 8
 
 |
@@ -532,17 +554,11 @@ Conforme au descriptif adressé au ministère chargé de la chasse
 
 |
 
-15
+15 |
 
-|
+Piège "livre de messe" type "tapette" |
 
-Piège "livre de messe" type "tapette"
-
-|
-
-Etablissement MCL 59136 Wavrin
-
-|
+Etablissement MCL 59136 Wavrin |
 
 Piège "TRM"
 
@@ -566,9 +582,7 @@ Hauteur 10 cm
 
 |
 
-Conforme au descriptif adressé au ministère chargé de la chasse
-
-|
+Conforme au descriptif adressé au ministère chargé de la chasse |
 
 |
 

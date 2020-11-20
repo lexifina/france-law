@@ -2791,3 +2791,33 @@ Dimension de la palette : 5 cm de diamètre
 Piège rectangulaire à déclenchement par une palette projetant le lacet par un bras-ressort
 
 |
+
+|
+
+22 |
+
+Piège à lacet de patte |
+
+SARL Emmanuel HÉNON
+
+ZI du Littoral, Chemin de la Laiterie
+
+62180 Verton |
+
+Piège
+
+“ DUKE DP ” |
+
+Dimension du piège :
+
+Longueur :
+
+9 cm
+
+Corps tubulaire :
+
+3 cm de diamètre interne |
+
+832 |
+
+Piège tubulaire à déclenchement par une jambe de force qui actionne le lacet qui reste à l'intérieur du tube |
