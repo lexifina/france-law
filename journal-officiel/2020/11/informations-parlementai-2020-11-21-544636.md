@@ -1,0 +1,1220 @@
+# Commissions et organes de contrôle
+
+- Nature : Informations Parlementaires
+- Publication : 2020-11-21
+- JO n° : 0282
+- NOR : INPA2032166X
+- Origine : JORF n°0282 du 21 novembre 2020
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042544636
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire de 2020-2021
+
+1. Composition
+
+Modifications à la composition des commissions
+
+DÉMISSIONS |
+
+Affaires étrangères |
+
+M. Fabien Matras |
+
+Affaires sociales |
+
+M. Pierre Person |
+
+Développement durable |
+
+Mme Camille Galliard-Minier |
+
+Lois |
+
+M. Florent Boudié |
+
+M. Guillaume Gouffier-Cha |
+
+NOMINATIONS |
+
+Le groupe La République en Marche a désigné : |
+
+Affaires étrangères |
+
+M. Florent Boudié |
+
+Affaires sociales |
+
+M. Guillaume Gouffier-Cha |
+
+Développement durable |
+
+M. Pierre Person |
+
+Lois |
+
+Mme Camille Galliard-Minier |
+
+M. Fabien Matras |
+
+Modification à la composition de la commission spéciale chargée d'examiner le projet de loi relatif a la bioéthique
+
+NOMINATION |
+
+Le groupe Les Républicains a désigné : |
+
+M. Julien Ravier |
+
+2. Réunions
+
+Lundi 23 novembre 2020
+
+Commission des affaires sociales,
+
+A 15 h 45 salle 6351 (Affaires sociales) :
+
+- projet de loi de financement de la sécurité sociale pour 2021 (n° 3587) (amendements, art. 88).
+
+Commission des lois,
+
+A 14 h 30 6e Bureau (Lois) :
+
+- examen de la proposition de loi relative à la répartition des conseillers de l'Assemblée de Guyane entre les sections électorales (n° 3430) (M. Lénaïck Adam, rapporteur) ;
+
+- examen de la proposition de loi visant à réformer l'adoption (n° 3161) (Mme Monique Limon, rapporteure).
+
+A 21 heures 6e Bureau (Lois) :
+
+- éventuellement, suite de l'ordre du jour de l'après-midi.
+
+Mardi 24 novembre 2020
+
+Commission des affaires culturelles,
+
+A 18 h 15 (Visioconférence) :
+
+- audition, conjointe avec la commission des affaires européennes, de Mme Mariya Gabriel, commissaire européenne à l'innovation, la recherche, la culture, l'éducation et la jeunesse.
+
+Commission des affaires économiques,
+
+A 18 heures (en visioconférence) :
+
+- audition de M. Alain Weill, président-directeur général d'Altice France.
+
+Commission des affaires européennes,
+
+A 18 h 15 (visioconférence) :
+
+- audition, commune avec la Commission des affaires culturelles et de l'éducation, de Mme Mariya Gabriel, Commissaire européenne, en charge de l'innovation, de la recherche, de la culture, de l'éducation et de la jeunesse.
+
+Commission du développement durable,
+
+A 18 heures salle 6238 (Développement durable) :
+
+- examen de la proposition de loi n° 687 rectifié visant à permettre l'exclusion des étrangers en situation irrégulière du bénéfice de la tarification sociale dans les transports.
+
+A 21 heures salle 6238 (Développement durable) :
+
+- éventuellement, suite de l'examen de la proposition de loi n° 687 rectifié visant à permettre l'exclusion des étrangers en situation irrégulière du bénéfice de la tarification sociale dans les transports.
+
+Commission des lois,
+
+A 18 heures 6e Bureau (Lois) :
+
+- audition de M. Éric Dupond-Moretti, Garde des sceaux, ministre de la Justice et discussion générale sur le projet de loi, adopté par le Sénat, relatif au Parquet européen et à la justice pénale spécialisée (n° 2731) (Mme Naïma Moutchou, rapporteure) ;
+
+- nomination d'un rapporteur sur le projet de loi organique relatif aux délais d'organisation des élections législatives et sénatoriales partielles (n° 3583) et le projet de loi relatif aux délais d'organisation des élections municipales partielles et des élections des membres des commissions syndicales (n° 3584).
+
+A 21 heures 6e Bureau (Lois) :
+
+- examen des articles du projet de loi, adopté par le Sénat, relatif au Parquet européen et à la justice pénale spécialisée (n° 2731) (Mme Naïma Moutchou, rapporteure).
+
+Commission d'enquête sur l'évaluation des politiques publiques de santé environnementale,
+
+A 15 heures (en visioconférence) :
+
+- audition, ouverte à la presse, de Mme Marie-Jeanne Husset, administratrice de Wecf France et co-présidente du GT 2 (recherche, formation, information, éducation) du PNSE3
+
+A 16 heures (en visioconférence) :
+
+- audition, ouverte à la presse, de représentants de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses).
+
+A 17 heures (en visioconférence) :
+
+- audition, ouverte à la presse, de M. Olivier Véran, ministre des solidarités et de la santé.
+
+Mission d'information pour le suivi de l'application de la loi pour la conservation et la restauration de la cathédrale Notre Dame de Paris et instituant une souscription nationale à cet effet,
+
+A 17 h 30 (Visioconférence) :
+
+- audition de Mme Roselyne Bachelot, ministre de la culture.
+
+Mission d'information commune sur la conditionnalité des aides publiques aux entreprises,
+
+A 17 h 30 (par visioconférence) :
+
+- à 17 h 30 : audition de Mme Anne-Catherine Husson-Traoré, directrice générale de Novethic et de M. Nicolas Redon, expert en finance verte.
+
+- à 18 h 30 : audition d'une délégation du Réseau Action Climat, composée de Mmes Meike Fink (Réseau Action Climat), Juliette Kacprzak (WWF), MM. Samuel Leré (FNH) et Quentin Parrinello (Oxfam).
+
+Mission d'information sur l'émergence et l'évolution des différentes formes de racisme et les réponses à y apporter,
+
+A 17 heures (par visioconférence) :
+
+- audition de Mme Anne-Marie Sauteraud, ancienne présidente de la chambre 2-7è de la Cour d'appel de Paris.
+
+A 18 heures (par visioconférence) :
+
+- audition de M. Jean Grosset, membre du bureau du Conseil économique, social et environnemental (CESE) et de M. Benoit Garcia, conseiller.
+
+Mission d'information sur le régime juridique de l'état d'urgence sanitaire,
+
+A 11 h 45 (visioconférence) :
+
+- audition de M. Charles Touboul, directeur des affaires juridiques du ministère des Solidarités et de la santé.
+
+Problématiques de sécurité associées à la présence de mineurs non accompagnés,
+
+A 16 heures (visioconférence) :
+
+- audition de Mme Claire Hédon, Défenseure des droits.
+
+A 17 h 45 (visioconférence) :
+
+- audition de M. Adrien Taquet, secrétaire d'État auprès du ministre des Solidarités et de la santé, chargé de l'enfance et des familles.
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 17 heures (visioconférence) :
+
+- audition de M. l'Ingénieur général de 1re classe (IG1) Jean-Charles Ferré, chef de la division « énergie opérationnelle » de l'état-major des armées (EMA) et directeur central du service des essences des armées (SEA), de M. l'Ingénieur en chef de 1re classe (COL) Olivier Naegellen Roy, chef du bureau « politique énergétique et anticipation » au sein de la division « énergie opérationnelle » de l'EMA, et de Mme l'Ingénieure en chef de 2e classe Caroline Gaildry, officier expert « soutien pétrolier » au centre de planification et de conduite des opérations (CPCO) de l'EMA
+
+Mercredi 25 novembre 2020
+
+Commission des affaires culturelles,
+
+A 9 h 30 salle 6242 (Affaires culturelles) :
+
+- code mondial antidopage et lutte contre le dopage (n° 2700) (rapport).
+
+Commission des affaires économiques,
+
+A 9 h 30 (en visioconférence) :
+
+- rendu du groupe de suivi des conséquences économiques du confinement (MM. Stéphane Travert et Julien Dive, co-rapporteurs).
+
+A 14 h 30 (en visioconférence) :
+
+- audition de Mme Nadia Hai, ministre déléguée chargée de la Ville.
+
+Commission des affaires étrangères,
+
+A 9 h 30 (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- examen, ouvert à la presse, et vote sur le projet de loi autorisant l'approbation de l'accord de coopération entre le Gouvernement de la République française et les Gouvernements des États membres de l'Union monétaire ouest africaine (n° 2986) (M. Jean François Mbaye, rapporteur) ;
+
+- nomination rapporteur.
+
+A 15 heures (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- audition, ouverte à la presse, de M. Jean-Yves Le Drian, ministre de l'Europe et des affaires étrangères.
+
+Commission des affaires européennes,
+
+A 17 h 30 (visioconférence) :
+
+- audition de Son Exc. M. Hans-Dieter Lucas, ambassadeur d'Allemagne en France ;
+
+- examen des textes européens ;
+
+- nomination de rapporteurs d'information.
+
+Commission des affaires sociales,
+
+A 9 h 30 salle 6351 (Affaires sociales) :
+
+- améliorer le système de santé par la confiance et la simplification (nº 3470) (rapport).
+
+A 15 heures salle 6351 (Affaires sociales) :
+
+- carte Vitale biométrique (nº 2425) (rapport).
+
+Commission de la défense,
+
+A 9 h 30 (visioconférence) :
+
+- audition, à huis clos, du général de division Marc Conruyt, commandant de la force Barkhane.
+
+Commission du développement durable,
+
+A 9 h 30 salle 6238 (Développement durable) :
+
+- examen de la proposition de loi visant à raisonner le développement de l'éolien (n° 2781).
+
+A 15 heures salle 6238 (Développement durable) :
+
+- éventuellement suite de l'examen de la proposition de loi visant à raisonner le développement de l'éolien (n° 2781).
+
+Commission des finances,
+
+A 11 heures (visioconférence) :
+
+- audition de Mme Florence Lustman, présidente de la fédération française de l'Assurance, sur l'action de la FFA pendant la crise.
+
+Commission des lois,
+
+A 9 h 30 6e Bureau (Lois) :
+
+- examen de la proposition de loi constitutionnelle, adoptée par le Sénat, visant à garantir la prééminence des lois de la République (n° 3439) (Mme Annie Genevard, rapporteure) ;
+
+- suite de l'ordre du jour de la veille ;
+
+- examen, en application de l'article 88 du Règlement, des amendements à la proposition de loi visant à promouvoir la France des accents (texte de la commission n° 3580) (M. Christophe Euzet, rapporteur) ;
+
+- examen, en application de l'article 88 du Règlement, des amendements à la proposition de loi améliorant l'efficacité de la justice de proximité et de la réponse pénale (texte de la Commission n° 3582) (M. Dimitri Houbron, rapporteur).
+
+A 14 h 30 6e Bureau (Lois) :
+
+- suite de l'ordre du jour du matin.
+
+A 21 heures 6e Bureau (Lois) :
+
+- suite de l'ordre du jour de l'après-midi.
+
+Commission d'enquête relative à l'état des lieux, la déontologie, les pratiques et les doctrines de maintien de l'ordre,
+
+A 14 h 15 (Visioconférence) :
+
+- désignation d'un nouveau rapporteur.
+
+A 14 h 30 (Visioconférence) :
+
+- audition de Mme Claire Hédon, Défenseure des droits, accompagnée de Mme Pauline Caby, adjointe de la Défenseure des droits, en charge de la déontologie dans le domaine de la sécurité.
+
+A 15 h 30 (Visioconférence) :
+
+- table ronde sur la diversité au sein des forces de l'ordre :
+
+- Mme Hanane Bakioui, cheffe du bureau de l'inspection générale de la police nationale de Nice ;
+
+- Capitaine Mohamed Sylla, officier coordinateur de la classe préparatoire intégrée de la gendarmerie nationale ;
+
+- Mme Linda Kebbab, auteure du livre Gardienne de la paix et de la révolte.
+
+A 17 heures (Visioconférence) :
+
+- audition de M. Rémy Heitz, procureur de la République près le tribunal judiciaire de Paris.
+
+A 18 heures (Visioconférence) :
+
+- audition de M. Jean-Marie Burguburu, président de la Commission nationale consultative des droits de l'Homme, accompagné de Mme Catherine Teitgen-Colly et M. Simon Foreman, membres, et de M. Thomas Dumortier, conseiller juridique.
+
+Commission d'enquête sur l'évaluation des politiques publiques de santé environnementale,
+
+A 14 heures (en visioconférence) :
+
+- audition, ouverte à la presse, de M. Jérôme Salomon, directeur général, de Mme Joëlle Carmes, sous-directrice « prévention des risques liés à l'environnement et à l'alimentation », et de Mme Mathilde Merlo, chargée de mission santé-environnement-PNSE, à la direction générale de la santé (DGS).
+
+A 16 heures (en visioconférence) :
+
+- audition, ouverte à la presse, de Mme Laurence Huc, toxicologue en santé humaine, Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE).
+
+A 17 h 45 (en visioconférence) :
+
+- audition, ouverte à la presse, de Mme le docteur Catherine Grenier, directrice de l'amélioration de la qualité et de la sécurité des soins de la Haute autorité de santé (HAS).
+
+Délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes,
+
+A 15 heures (Visioconférence) :
+
+- colloque de la Délégation aux droits des femmes, organisé en visioconférence, sur le thème : « La lutte contre les violences économiques dans le couple : enjeux et perspectives ».
+
+Mission d'information commune sur la réglementation et l'impact des différents usages du cannabis,
+
+A 15 heures (en visioconférence) :
+
+- audition de la mission interministérielle de lutte contre les drogues et les conduites addictives (MILDECA) : Dr Nicolas Priss, président et Mme Valérie Saintoyant, déléguée.
+
+A 16 heures (en visioconférence) :
+
+- audition de la direction générale de la police nationale (DGPN) : M. Vincent Le Beguec, contrôleur général, chef du pôle judiciaire.
+
+A 17 heures (en visioconférence) :
+
+Table ronde réunissant
+
+- M. Daniel Vaillant ;
+
+- M. Benoît Hamon ;
+
+- M. Patrick Pelloux.
+
+Mission d'information sur la concrétisation des lois,
+
+A 15 heures (visioconférence) :
+
+- échange avec M. Alain Lambert, président du Conseil national d'évaluation des normes.
+
+Mission d'information sur l'impact, la gestion et les conséquences dans toutes ses dimensions de l'épidémie de Coronavirus-Covid 19,
+
+A 15 heures (salle 6350) :
+
+- réunion de travail.
+
+Mission d'information commune sur les moyens de juguler les entraves et obstructions opposées à l'exercice de certaines activités légales,
+
+A 14 h 30 (visioconférence) :
+
+- audition de Mme Charlotte Crépon, directrice de la police et du permis de chasser de l'Office français de la biodiversité (OFB)
+
+A 15 h 30 (visioconférence) :
+
+- audition de Mme Lucile Rolland, cheffe du Service central du renseignement territorial (SCRT) et de M. Olivier Métivet, commissaire divisionnaire
+
+A 16 h 30 (visioconférence) :
+
+- audition de M. Thibault Cayssials, chef du bureau de la législation pénale spécialisée à la direction des affaires criminelles et des grâces (DACG)
+
+Mission d'information sur le régime juridique de l'état d'urgence sanitaire,
+
+A 14 h 30 (visioconférence) :
+
+- table ronde réunissant M. Gwendal Le Grand, secrétaire général adjoint de la Commission nationale de l'informatique et des libertés, M. Leonardo Cervera Navas, directeur du Comité européen de la protection des données, et M. Vincent Toubiana, secrétaire général adjoint du Conseil national du numérique.
+
+A 16 heures (visioconférence) :
+
+- table-ronde réunissant M. Dominique Dhumeaux, président de l'Association des maires ruraux de la Sarthe, maire de Fercé-sur-Sarthe, représentant l'Association des maires ruraux de France, M. Philippe Laurent, maire de Sceaux, secrétaire général de l'Association des maires de France, M. Olivier Richefou, président du conseil départemental de la Mayenne, représentant l'Association des départements de France, et M. Jules Nyssen, délégué général de Régions de France.
+
+A 17 h 30 (visioconférence) :
+
+- audition de M. Bruno Lasserre, vice-président du Conseil d'État, de Mme Sylvie Hubac, présidente de la section de l'intérieur, et de M. Didier-Roland Tabuteau, président de la section sociale.
+
+A 18 h 30 (visioconférence) :
+
+- audition d'un représentant de la direction des libertés publiques et des affaires juridiques du ministère de l'Intérieur (sous réserve de confirmation).
+
+Mission d'information sur l'opération Barkhane,
+
+A 14 heures (visioconférence) :
+
+- audition de M. Clément Leclerc, directeur adjoint à la direction d'Afrique et de l'océan Indien du ministère de l'Europe et des Affaires étrangères.
+
+Mission d'information sur la filière du recyclage du papier,
+
+A 15 h 30 (par visioconférence) :
+
+- audition de M. Mohamed Naceur Belgacem, directeur de INP Pangora.
+
+A 16 h 30 (par visioconférence) :
+
+- audition de représentants du Syndicat national des entrepreneurs de la filière déchets (SNEFID).
+
+Mission d'information sur les sels nitrités dans l'industrie agroalimentaire,
+
+A 11 heures (Par visioconférence) :
+
+- audition de M. Frédéric Gaillet, directeur stratégie B2B du groupe SOLINA.
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 17 heures (visioconférence) :
+
+- audition de M. le Général de brigade aérienne Vincent Breton, chef du pôle « Prospective et stratégie militaire » à l'état-major des armées.
+
+Jeudi 26 novembre 2020
+
+Commission des affaires économiques,
+
+A 8 h 30 (en visioconférence) :
+
+- audition, conjointe avec la commission des affaires économiques du Sénat et avec les commissions des affaires européennes de l'Assemblée nationale et du Sénat, de M. Julien Denormandie, ministre de l'agriculture et de l'alimentation, sur la réforme de la politique agricole commune (PAC).
+
+Commission des affaires européennes,
+
+A 8 h 30 (visioconférence) :
+
+- audition, commune avec la Commission des affaires économiques de l'Assemblée nationale et les Commissions des affaires européennes et des affaires économiques du Sénat, de M. Julien Denormandie, Ministre de l'agriculture et de l'alimentation.
+
+Commission des lois,
+
+A 15 heures 6e Bureau (Lois) :
+
+- éventuellement, suite de l'ordre du jour de la veille.
+
+Commission d'enquête relative à l'état des lieux, la déontologie, les pratiques et les doctrines de maintien de l'ordre,
+
+A 9 heures (Visioconférence) :
+
+- table ronde réunissant des acteurs de terrain :
+
+- M. Benjamin Daubigny, directeur départemental adjoint de la sécurité publique de l'Aube ;
+
+- Colonel Jean-François Lafforgue, ancien chef du groupement III/6 de gendarmerie mobile de Toulouse ;
+
+- M. Éric Peterle, commandant de la CRS 44.
+
+A 10 h 30 (Visioconférence) :
+
+- audition de M. Frédéric Péchenard, ancien directeur général de la police nationale.
+
+A 11 h 30 (Visioconférence) :
+
+- audition de Mme Aurélie Laroussie, présidente de l'association Femmes des forces de l'ordre en colère.
+
+A 14 h 30 (Visioconférence) :
+
+- audition commune de Mme Pascale Regnault-Dubois, directrice centrale des compagnies républicaines de sécurité, M. Jean-Marie Salanova, directeur central de la sécurité publique, au ministère de l'Intérieur, et de M. Jérôme Foucaud, directeur de l'ordre public et de la circulation à la préfecture de police.
+
+A 16 heures (Visioconférence) :
+
+- audition de Mme Cécile Parisot, présidente de l'Union syndicale des magistrats, et de M. Jacky Coulon, secrétaire général.
+
+A 16 h 45 (Visioconférence) :
+
+- audition de M. Bruno Pomart, président de l'Association Raid Aventure Organisation.
+
+A 17 h 45 (Visioconférence) :
+
+- audition de M. Abdelkader Haroune, commissaire de police, membre du conseil présidentiel des villes.
+
+Délégation aux collectivités territoriales et à la décentralisation,
+
+A 16 h 30 (visioconférence) :
+
+- audition, conjointe avec la délégation aux outre-mer, de M. Bruno Arcadipane, président d'action logement.
+
+Délégation aux outre-mer,
+
+A 16 h 30 (visioconférence) :
+
+- audition, commune avec la délégation aux collectivités territoriales et à la décentralisation, de M. Bruno Arcadipane, président d'action logement ;
+
+- questions diverses.
+
+Mission d'information commune sur la conditionnalité des aides publiques aux entreprises,
+
+A 11 heures (par visioconférence) :
+
+- audition de M. Arnaud Leroy, président de l'Agence de la transition écologique (ex ADEME).
+
+Mission d'information sur l'émergence et l'évolution des différentes formes de racisme et les réponses à y apporter,
+
+A 9 heures (par visioconférence) :
+
+- audition de M. Trevor Phillips, journaliste et écrivain, président du think-tank Runnymede Trust.
+
+A 10 heures (par visioconférence) :
+
+- audition M. Kofi Yamgnane, ancien secrétaire d'État aux affaires sociales et à l'intégration.
+
+A 12 heures (par visioconférence) :
+
+- audition de M. Tariq Modood, professeur de sociologie à l'université de Bristol.
+
+Mission d'information sur le régime juridique de l'état d'urgence sanitaire,
+
+A 10 heures (visioconférence) :
+
+- audition de M. Jean-Eric Schoettl, conseiller d'État honoraire, ancien secrétaire général du Conseil constitutionnel.
+
+A 11 heures (visioconférence) :
+
+- audition de M. Jean-François de Montgolfier, directeur des affaires civiles et du Sceau du ministère de la Justice.
+
+Mission d'information flash sur l'évolution et la refondation des conseils locaux ou intercommunaux de sécurité et de prévention de la délinquance,
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. Michel Lalande, préfet de la région Hauts-de-France.
+
+Mission flash sur le financement de la BITD,
+
+A 9 heures (visioconférence) :
+
+- audition de M. Emmanuel Levacher, président-directeur général d'Arquus, de M. Christian Cusset, directeur financier, et de M. Victor Raffour, directeur financier adjoint.
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. Arnaud Guérin, directeur général d'Earthcube.
+
+A 14 h 30 (visioconférence) :
+
+- audition de Mme Karine Joyeux, présidente d'Elika Team.
+
+Mission d'information sur la filière du recyclage du papier,
+
+A 14 heures (par visioconférence) :
+
+- audition de M. Philippe Bodenez, chef du service des risques sanitaires liés à l'environnement, des déchets et des pollutions diffuses et de M. Vince Coissard, sous-directeur déchets et économie circulaire à la Direction générale de la prévention des risques.
+
+A 15 heures (par visioconférence) :
+
+- audition de M. Roger Rouppert de Kimberley Clark (KCC).
+
+A 16 heures (par visioconférence) :
+
+- audition de M. Christophe Dorin, directeur de WEPA France, de M. Laurent Benault, directeur de l'usine WEPA Greenfield et de Mme Luce Catté, responsable des achats de papiers à recycler.
+
+A 17 heures (par visioconférence) :
+
+- audition de Mme Estelle Vaconsin, directrice Qualité et développement durable, et de M. Marc Specque, communications director Europe South du groupe Essity.
+
+Mission d'information commune sur la revalorisation des friches industrielles, commerciales et administratives,
+
+A 10 heures (en visioconférence) :
+
+- à 10 heures : audition, en visioconférence, de représentants du Syndicat des énergies renouvelables (SER) :
+
+- M. Jean-Louis Bal, président ;
+
+- M. Alexandre Roesch, délégué général ;
+
+- Mme Delphine Lequatre, directrice juridique, économique et territoires ;
+
+- M. Alexandre de Montesquiou, consultant, directeur associé d'Ai2P.
+
+- à 10 heures 45 : audition commune, en visioconférence, de :
+
+représentants du Mouvement des entreprises de France (MEDEF) :
+
+- M. Olivier Sutterlin, direction juridique de RTE et président du groupe de travail Biodiversité du MEDEF ;
+
+- Mme Céline Caroly, experte environnement de France Chimie ;
+
+- M. Guy Julien-Laferrière, directeur des études environnement et urbanisme, Groupe Casino, et membre de la FCD ;
+
+- M. Sébastien Sureau, directeur de mission à la direction du développement durable du MEDEF ;
+
+- Mme Fadoua Qachri, chargée de mission à la direction des affaires publiques du MEDEF.
+
+représentants de la Confédération des petites et moyennes entreprises (CPME) :
+
+- Mme Sarah Rachi, responsable développement durable ;
+
+- Mme Dao Melacca-Nguyen, chargée de mission environnement ;
+
+- Mme Sandrine Bourgogne, secrétaire générale adjointe.
+
+Mission d'information sur les sels nitrités dans l'industrie agroalimentaire,
+
+A 9 heures (Par visioconférence) :
+
+- audition, à huis clos, de M. David Garbous.
+
+A 10 heures (Par visioconférence) :
+
+- à 10 heures :
+
+- audition de M. Guillaume Roué, président d'INAPORC, accompagné par M. Didier Delzescaux, directeur et M. Fabien Verliat, chargé de mission R&D ;
+
+- à 11 heures :
+
+- audition du Professeur Dominique Parent-Massin, professeur d'université honoraire en toxicologie alimentaire, présidente d'honneur de la Société Française de Toxicologie.
+
+Mission d'information sur le thème « Bâtir et promouvoir une souveraineté numérique nationale et européenne »,
+
+A 9 h 30 (visioconférence) :
+
+- audition, ouverte à la presse, de représentants de la Fédération française des télécoms et du groupe de télécommunications Iliad.
+
+A 11 heures (visioconférence) :
+
+- audition, ouverte à la presse, de représentants des sociétés de télécommunications Ericsson, Huawei et Nokia.
+
+Vendredi 27 novembre 2020
+
+Mission flash sur le monde associatif combattant,
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. le colonel Jean-Pierre Pakula, président de l'Association nationale des participants aux opérations extérieures (ANOPEX).
+
+A 11 h 30 (visioconférence) :
+
+- audition de M. le contrôleur général des armées Serge Barcellini, président de l'association « Le Souvenir français »
+
+Mission d'information sur les sels nitrités dans l'industrie agroalimentaire,
+
+A 9 heures (Par visioconférence) :
+
+- à 9 heures :
+
+- audition de représentants du réseau Français des instituts techniques de l'agro-alimentaire (ACTIA) ;
+
+- à 10 heures :
+
+- audition de représentants de professionnels des ingrédients alimentaires (SYNPA) ;
+
+- à 11 heures :
+
+- audition de M. Pierrick De Ronne, président de Biocoop, accompagné de Mme Hélène Person, responsable marques et innovation de l'offre.
+
+Mardi 1er décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 17 heures (visioconférence) :
+
+- audition de Mme Alice Guitton, directrice générale des relations internationales et de la stratégie (DGRIS).
+
+Mercredi 2 décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 17 heures (visioconférence) :
+
+- audition de M. Joël Barre, délégué général pour l'armement.
+
+Vendredi 4 décembre 2020
+
+Mission flash sur le financement de la BITD,
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. Michel Hainaut, directeur général d'Aérospatiale Batteries (ASB), et de M. Christophe Nicolas, directeur commercial.
+
+A 15 heures (Visioconférence) :
+
+- audition de M. l'Ingénieur général de classe exceptionnelle Vincent Imbert, inspecteur général des armées, et de M. l'Ingénieur général de l'armement François Mestre.
+
+Mission flash sur le monde associatif combattant,
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. le général Henri Pinard Legry, président de l'Association de soutien à l'armée française (ASAF).
+
+A 11 h 30 (visioconférence) :
+
+- audition de Mme Véronique Peaucelle-Delelis, directrice générale de l'Office national des anciens combattants et des victimes de guerre (ONACVG), et de M. Antoine Grande, chef du département de la mémoire et de la citoyenneté
+
+Mercredi 9 décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 14 heures (visioconférence) :
+
+- audition de M. le général Didier Tisseyre, commandant de la cyberdéfense (ComCyber) et de M. Sébastien Bombal, chargé du pôle « Stratégie ».
+
+A 15 h 30 (visioconférence) :
+
+- audition de Mme Isabelle Saurat, secrétaire générale pour l'Administration.
+
+Jeudi 10 décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 9 heures (visioconférence) :
+
+- audition de M. Bernard Fontan, directeur du Service d'infrastructure de la défense (SID).
+
+Vendredi 11 décembre 2020
+
+Mission flash sur le monde associatif combattant,
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. Claude Henry, vice-président délégué de l'Union Fédérale (UF).
+
+Mardi 15 décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 17 heures (visioconférence) :
+
+- audition de M. Guillaume Poupard, directeur général de l'Agence nationale de la sécurité des systèmes d'information (ANSSI)
+
+Mercredi 16 décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 14 heures (visioconférence) :
+
+- audition de M. le Colonel Thierry Tricand de la Goutte, officier de cohérence opérationnelle « projection-mobilité-soutien » de la division « cohérence capacitaire » (COCA) de l'État-major des armées (EMA).
+
+A 15 h 30 (visioconférence) :
+
+- Audition de M. Philippe Missoffe, délégué général du Groupement des industries de construction et activités navales (GICAN)
+
+Jeudi 17 décembre 2020
+
+Mission d'information sur la stratégie verte du Ministère des Armées,
+
+A 9 heures (visioconférence) :
+
+- audition de M. Marc Darmon, président du Groupement des industries françaises de défense et de sécurité terrestres et aéroterrestres.(GICAT)
+
+Vendredi 18 décembre 2020
+
+Mission flash sur le monde associatif combattant,
+
+A 10 h 30 (conférence téléphonique) :
+
+- audition de M. Sylvain Mattiucci, directeur du patrimoine, de la mémoire et des archives (DPMA), de Mme Evelyne Piffeteau, sous-directrice de la mémoire et de l'action éducative (SDMAE) et de M. Grégory Auda, chef du bureau de la vie associative et des commémorations (BVAC).
+
+3. Ordre du jour prévisionnel
+
+Mercredi 25 novembre 2020
+
+Groupe de travail sur les Jeux olympiques et paralympiques de Paris en 2024,
+
+A 14 h 30 (visioconférence) :
+
+- audition, en visioconférence, de M. le Préfet Pierre Lieutaud, Coordonnateur national pour la sécurité des Jeux olympiques et paralympiques 2024 et des grands événements sportifs internationaux.
+
+A 16 heures (visioconférence) :
+
+- audition, en visioconférence, de M. Tony Estanguet, Président du Comité d'organisation des Jeux olympiques et paralympiques (COJO) Paris 2024 (délégation à préciser).
+
+Jeudi 26 novembre 2020
+
+Mission de suivi de l'évaluation de l'action de l'État dans l'exercice de ses missions régaliennes en Seine-Saint-Denis,
+
+A 14 heures (salle 6549) :
+
+- audition de Mme Angélique Courtillier, directrice des ressources humaines et des moyens de la préfecture de la Seine-Saint-Denis.
+
+Lundi 30 novembre 2020
+
+Commission des affaires sociales,
+
+A 15 h 45 salle 6351 (Affaires sociales) :
+
+- améliorer le système de santé par la confiance et la simplification (nº 3470) (amendements, art. 88).
+
+Commission des lois,
+
+A 14 h 30 6e Bureau (Lois) :
+
+- examen du projet de loi organique relatif aux délais d'organisation des élections législatives et sénatoriales partielles (n° 3583) et du projet de loi relatif aux délais d'organisation des élections municipales partielles et des élections des membres des commissions syndicales (n° 3584).
+
+Mardi 1er décembre 2020
+
+Commission du développement durable,
+
+A 17 h 30 (par visioconférence) :
+
+- audition de M. Arnaud Leroy, président de l'Agence de la transition écologique (ex-ADEME).
+
+Commission des lois,
+
+A 17 h 30 6e Bureau (Lois) :
+
+- audition de M. Éric Dupond-Moretti, Garde des sceaux, ministre de la Justice, et discussion générale sur le projet de loi ratifiant l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs (n° 2367) (M. Jean Terlier, rapporteur).
+
+A 21 heures 6e Bureau (Lois) :
+
+- examen des articles du projet de loi ratifiant l'ordonnance n° 2019-950 du 11 septembre 2019 portant partie législative du code de la justice pénale des mineurs (n° 2367) (M. Jean Terlier, rapporteur).
+
+Délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes,
+
+A 17 h 15
+
+- audition de Mme Elisabeth Borne, ministre du Travail, de l'emploi et de l'insertion, dans le cadre de la mission d'information sur l'égalité économique et professionnelle (Mmes Marie-Pierre Rixain et Laurence Trastour-Isnart, corapporteures).
+
+Mission d'information sur l'émergence et l'évolution des différentes formes de racisme et les réponses à y apporter,
+
+A 17 heures
+
+- audition de M. Jean-François Colombet, préfet de Mayotte.
+
+A 18 heures
+
+- audition de M. Mikaël Quimbert, adjoint au sous-directeur des politiques publiques à la direction générale des outre-mer du ministère des outre-mer.
+
+Mercredi 2 décembre 2020
+
+Commission des affaires culturelles,
+
+A 9 h 30 salle 6242 (Affaires culturelles) :
+
+- examen en nouvelle lecture du projet de loi, modifié par le Sénat, relatif au retour de biens culturels à la République du Bénin et à la République du Sénégal (n° 3526) (M. Yannick Kerlogot, rapporteur).
+
+Commission des affaires économiques,
+
+A 9 h 30 (en visioconférence) :
+
+- audition de M. Florent Menegaux, président-directeur général de Michelin.
+
+Commission des affaires étrangères,
+
+A 9 h 30 (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- table ronde, ouverte à la presse, sur Hong-Kong avec M. Antoine Bondaz, chargé de recherche à la Fondation pour la recherche stratégique, Mme Françoise Nicolas, directrice du centre Asie de l'Institut français des relations internationales, et M. Éric Sautedé, analyste et chroniqueur politique résidant à Hong-Kong.
+
+A 15 heures (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- audition, ouverte à la presse, sur la situation au Mali et au Sahel avec MM. Joël Meyer, ambassadeur de France au Mali, et Christophe Bigot, directeur Afrique et océan Indien du ministère de l'Europe et des affaires étrangères.
+
+Commission des affaires européennes,
+
+A 16 heures (visioconférence) :
+
+- réunion plénière de la COSAC organisée en visioconférence à Berlin les 30 novembre et 1er décembre 2020 (Mme la présidente Sabine Thillaye) (Communication) ;
+
+- sécurité alimentaire dans l'Union européenne (Mme Catherine Osson et M. André Chassaigne, rapporteurs) (rapport d'information) (proposition de résolution européenne).
+
+Commission des affaires sociales,
+
+A 9 heures (salle Colbert) :
+
+- audition de Mme Christelle Ratignier-Carbonneil, dont la nomination à la présidence de l'Agence nationale de sécurité du médicament et des produits de santé est envisagée par le Président de la République ;
+
+- vote à bulletins secrets sur cette nomination en application de l'article 13 de la Constitution.
+
+Commission de la défense,
+
+A 10 heures (visioconférence) :
+
+- Audition, à huis clos, du général de corps aérien Stéphane Mille, sous-chef « Opérations » (SCOPS) à l'état-major des Armées sur l'opération Barkhane.
+
+Commission des lois,
+
+A 9 h 30 6e Bureau (Lois) :
+
+- suite de l'ordre du jour de la veille ;
+
+- examen, en application de l'article 88 du Règlement, des amendements à la proposition de loi relative à la répartition des conseillers de l'Assemblée de Guyane entre les sections électorales (n° 3430) (M. Lénaïck Adam, rapporteur) ;
+
+- examen, en application de l'article 88 du Règlement, des amendements à la proposition de loi visant à réformer l'adoption (n° 3161) (Mme Monique Limon, rapporteure).
+
+Commission d'enquête sur l'évaluation des politiques publiques de santé environnementale,
+
+A 16 h 30 (en visioconférence) :
+
+- audition, ouverte à la presse, de Mme Barbara Pompili, ministre de la transition écologique.
+
+Mission d'information commune sur la réglementation et l'impact des différents usages du cannabis,
+
+A 15 heures (en visioconférence) :
+
+- table ronde réunissant des médecins spécialistes en addiction :
+
+- Professeur William Lowenstein, interniste et addictologue, président de SOS Addictions ;
+
+- Professeur Amine Benyamina, spécialiste en addictologie et chef du service de psychiatrie et d'addictologie de l'hôpital Paul-Brousse, président de la Fédération française d'addictologie ;
+
+- Professeur Marie Odile Krebs, psychiatre et chef de service au centre hospitalier Sainte-Anne (sous réserve de confirmation).
+
+A 16 heures (en visioconférence) :
+
+- audition du Professeur Jean Claude Alvarez, toxicologue et pharmacologue, membre de l'Académie nationale de pharmacie.
+
+A 17 heures (en visioconférence) :
+
+- table ronde consacrée aux effets du cannabis sur la santé des plus jeunes :
+
+- Docteur Maria Melchior, directrice de recherche à l'Institut national de la santé et de la recherche médicale (Inserm) ;
+
+- Professeur Bruno Falissard, pédopsychiatre et biostatisticien, directeur de recherche à l'Inserm ;
+
+- Professeure Anne-Laure Pelissier, professeur des universités et praticien hospitalier dans le service de médecine légale du centre hospitalier universitaire Timone, Marseille (sous réserve de confirmation) ;
+
+- Professeur Christophe Lançon, psychiatre expert en addictologie (sous réserve de confirmation).
+
+Mission d'information sur l'impact, la gestion et les conséquences dans toutes ses dimensions de l'épidémie de Coronavirus-Covid 19,
+
+A 9 h 30 (Salle 6566) :
+
+- examen du rapport de la mission dotée des pouvoirs d'enquête.
+
+Mission d'information sur la filière du recyclage du papier,
+
+A 13 heures (par visioconférence) :
+
+- audition de représentants de Culture Papier.
+
+A 14 heures (par visioconférence) :
+
+- audition de Mme Adèle Albano, directrice générale de Médiapost, de Mme Muriel Barnéoud, directrice de l'engagement sociétal du groupe La Poste et de Mme Pascale Ghio, directrice générale de Nouvelle attitude (entreprise de recyclage du papier, filiale du groupe La Poste)
+
+Jeudi 3 décembre 2020
+
+Commission des lois,
+
+A 15 heures 6e Bureau (Lois) :
+
+- éventuellement, suite de l'ordre du jour de la veille ;
+
+- examen, en application de l'article 88 du Règlement, des amendements au projet de loi organique relatif aux délais d'organisation des élections législatives et sénatoriales partielles (n° 3583) et au projet de loi relatif aux délais d'organisation des élections municipales partielles et des élections des membres des commissions syndicales (n° 3584).
+
+Délégation aux outre-mer,
+
+A 15 heures (visioconférence) :
+
+- présentation du rapport sur le coût de la vie dans les outre-mer (Mme Claire Guion-Firmin et M. Lénaïck Adam, rapporteurs) ;
+
+- présentation du rapport de la commission des affaires étrangères sur l'environnement international des outre-mer (Mmes Annie Chapelier et Bérengère Poletti, rapporteures) ;
+
+- questions diverses.
+
+Mission d'information sur l'émergence et l'évolution des différentes formes de racisme et les réponses à y apporter,
+
+A 9 heures
+
+- table ronde réunissant :
+
+- M. Yazid Chir, cofondateur et président de Nos quartiers ont du talent (NQT) ;
+
+- Mme Anne Laure Cuq, directrice régionale Sud-Ouest de Les entreprises pour la cité ;
+
+- M. Jérôme Lê, chef de la cellule "statistiques et études sur l'immigration" de la direction des statistiques démographiques et sociales de l'Institut national de la statistique et des études économiques (INSEE) ;
+
+- Mme Marie-Anne Valfort, professeure à l'École d'économie de Paris, détachée auprès de l'Organisation de coopération et de développement économiques (OCDE).
+
+A 10 h 30
+
+- table ronde réunissant :
+
+- M. Paul Bazin, directeur général adjoint de la stratégie et des affaires institutionnelles de Pôle emploi ;
+
+- M. Yannick L'Horty, professeur d'économie à l'Université Gustave Eiffel, directeur de la fédération Théorie et évaluation des politiques publiques " (n° 2042 du Centre national de la recherche scientifique - CNRS) ;
+
+- M. Jean-Luc Primon, sociologue, maître de conférences à l'université Côte d'Azur, chercheur et directeur adjoint de l'unité mixte de recherches Migrations et société (URMIS), chercheur associé à l'Institut national d'études démographiques (INED) ;
+
+- Mme Karima Silvent, directrice des ressources humaines du Groupe Axa et Mme Kirsty Leivers directrice en charge de la culture, de la diversité et de l'inclusion.
+
+A 12 heures
+
+- audition de M. Mohammed Moussaoui, président du Conseil français du culte musulman.
+
+A 14 h 30
+
+- table ronde réunissant :
+
+- M. Thierry Clair, secrétaire général adjoint d'UNSA Police ;
+
+- M. Denis Jacob, secrétaire général d'Alternative police CFDT, M. Sylvain Durante, secrétaire général adjoint et Mme Edwige Sylvestre, déléguée nationale ;
+
+- Mme Linda Kebbab, déléguée nationale d'Unité SGP Police FO et M. Jérôme Moisant, secrétaire national ;
+
+- un représentant d'Alliance police nationale.
+
+A 16 heures
+
+- audition commune de :
+
+- M. Élie Renard, directeur adjoint de l'École nationale de la magistrature (ENM) et M. Bertrand Mazabraud, coordonnateur de formation en formation continue ;
+
+- Mme Magali Lafourcade, secrétaire générale de la Commission nationale consultative des droits de l'Homme (CNCDH), directrice de la session de formation sur les enjeux contemporains du racisme et de l'antisémitisme à l'ENM.
+
+Mission d'information sur la filière du recyclage du papier,
+
+A 16 h 30 (par visioconférence) :
+
+- audition de M. Eric Challan-Belval, président de La feuille d'érable.
+
+Lundi 7 décembre 2020
+
+Commission des affaires européennes,
+
+A 17 heures (visioconférence) :
+
+- audition, commune avec la Commission des lois, de M. Didier Reynders, Commissaire européen en charge de la justice.
+
+Commission des lois,
+
+A 17 heures 6e Bureau (Lois) :
+
+- audition, commune avec la commission des Affaires européennes, de M. Didier Reynders, commissaire européen à la Justice.
+
+Mardi 8 décembre 2020
+
+Commission des affaires économiques,
+
+A 17 h 30 salle 6241 (Affaires économiques) :
+
+- présentation du rapport de la mission d'information sur le partage de la valeur au sein des entreprises et ses conséquences sur leur gouvernance, leur compétitivité et la consommation des ménages (Mme Graziella Melchior et M. Dominique Potier, rapporteurs).
+
+Commission des affaires européennes,
+
+A 18 h 15 (visioconférence) :
+
+- projet de directive relative aux salaires minimaux adéquats dans l'Union européenne (Communication de Mme Carole Grandjean) ;
+
+- bilan et les perspectives d'Erasmus + (Mmes Aude Bono-Vandorme et Marguerite Deprez-Audebert, rapporteures) (rapport d'information) (proposition de résolution européenne).
+
+Commission des lois,
+
+A 14 h 45 6e Bureau (Lois) :
+
+- examen, en application de l'article 88 du Règlement, des amendements au projet de loi, adopté par le Sénat, relatif au Parquet européen et à la justice pénale spécialisée (n° 2731) (Mme Naïma Moutchou, rapporteure).
+
+Mercredi 9 décembre 2020
+
+Commission des affaires culturelles,
+
+A 9 h 30 (Visioconférence) :
+
+- présentation, par M. le député Erwan Balanant, de son rapport relatif au harcèlement scolaire, remis le 13 octobre 2020 au Gouvernement.
+
+Commission des affaires économiques,
+
+A 9 h 30 salle 6241 (Affaires économiques) :
+
+- présentation du rapport de la mission d'information sur les sels nitrités dans l'industrie agroalimentaire (Mme Barbara Bessot-Ballot, Mme Michèle Crouzet et M. Richard Ramos, rapporteurs).
+
+Commission des affaires étrangères,
+
+A 9 h 30 (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- table ronde, ouverte à la presse, sur l'Accord de Paris sur les changements climatiques cinq ans après sa conclusion avec MM. Stéphane Crouzat, ambassadeur de France chargé des négociations sur le changement climatique, Yannick Glemarec, directeur exécutif du Fonds vert pour le climat, et Ovais Sarmad, secrétaire exécutif adjoint de la convention-cadre des Nations unies sur les changements climatiques.
+
+Commission de la défense,
+
+A 9 h 30 (visioconférence) :
+
+- audition, ouverte à la presse, de M. Bernard Pêcheur, président du comité d'éthique de la défense, qui présentera son dernier rapport sur « le soldat augmenté ».
+
+Commission du développement durable,
+
+A 9 h 30 (par visioconférence) :
+
+- table ronde sur les enjeux de la rénovation énergétique des bâtiments.
+
+Commission des lois,
+
+A 9 h 30 (Visioconférence) :
+
+- communication de la mission flash sur l'évolution et la refondation des conseils de sécurité et de prévention de la délinquance (MM. Stéphane Peu et Rémy Rebeyrotte, co-rapporteurs).
+
+Mission d'information sur la filière du recyclage du papier,
+
+A 13 heures (par visioconférence) :
+
+- audition de M. Edward Jossa, président de l'Union des groupements d'achats publics (UGAP).
+
+A 14 heures (par visioconférence) :
+
+- audition de Mme Karine Claireaux, maire honoraire de Saint-Pierre (Saint-Pierre-et-Miquelon) et vice-présidente de l'Association des communes et collectivités d'outre-mer (ACCD'OM).
+
+A 15 heures (par visioconférence) :
+
+- audition de M. Stéphane Armange, directeur général ventes matières premières et de M. Sébastien Ricard, directeur du développement durable et des affaires publiques du Groupe PAPREC.
+
+Jeudi 10 décembre 2020
+
+Mission d'information sur la filière du recyclage du papier,
+
+A 10 heures (par visioconférence) :
+
+- audition de M. Léonce-Antoine Deprez, président-directeur général de l'imprimerie Léonce Deprez.
+
+Vendredi 11 décembre 2020
+
+Commission des finances,
+
+A 9 heures salle 6350 (Finances) :
+
+- éventuellement, examen, en nouvelle lecture, du projet de loi de finances pour 2021 (M. Laurent Saint-Martin, rapporteur général).
+
+A 14 heures salle 6350 (Finances) :
+
+- éventuellement, suite de l'examen, en nouvelle lecture, du projet de loi de finances pour 2021 (M. Laurent Saint-Martin, rapporteur général).
+
+Lundi 14 décembre 2020
+
+Commission des finances,
+
+A 15 h 45 salle 6350 (Finances) :
+
+- éventuellement, examen, en nouvelle lecture, en application de l'article 88 du Règlement, des amendements au projet de loi de finances pour 2021 (M. Laurent Saint-Martin, rapporteur général).
+
+Mardi 15 décembre 2020
+
+Commission des affaires économiques,
+
+A 17 h 30 (salle Victor Hugo) :
+
+- présentation, conjointe avec la commission des affaires sociales et la commission du développement durable et de l'aménagement du territoire, du rapport de la mission d'information commune sur le suivi de la stratégie de sortie du glyphosate (MM. Jean-Luc Fugit et Jean-Baptiste Moreau, rapporteurs).
+
+Commission du développement durable,
+
+A 17 h 30 (salle Victor Hugo) :
+
+- examen, conjoint avec la commission des affaires économiques, du rapport de la mission d'information commune sur le suivi de la stratégie de sortie du glyphosate.
+
+Mercredi 16 décembre 2020
+
+Commission des affaires économiques,
+
+A 9 h 30 (en visioconférence) :
+
+- audition de M. François Bayrou, Haut Commissaire au plan.
+
+A 15 heures salle 6241 (Affaires économiques) :
+
+- présentation, conjointe avec la commission des finances, du rapport de la mission d'information commune sur les chambres d'agriculture et leur financement (M. Stéphane Travert et Mme Marie-Christine Verdier Jouclas, rapporteurs).
+
+Commission des affaires étrangères,
+
+A 9 h 30 (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- examen, ouvert à la presse, du rapport d'information sur le partenariat futur entre l'Union européenne et le Royaume-Uni (MM. Pierre-Henri Dumont et Alexandre Holroyd, co-rapporteurs).
+
+Commission des finances,
+
+A 9 h 30 (visioconférence) :
+
+- « Au cœur de l'économie » : audition de MM. Jean-Luc Tavernier, directeur général de l'Institut national de la statistique et des études économiques (Insee), Olivier Garnier, directeur général des statistiques, des études et de l'international de la Banque de France, et Mme Laurence Boone, chef économiste de l'Organisation de coopération et de développement économique (Ocde), sur la situation économique et la conjoncture.
+
+Commission des lois,
+
+A 9 h 30 (visioconférence) :
+
+- examen du rapport sur la mise en œuvre des articles 1 à 4 de la loi n° 2017-1510 du 30 octobre 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme (Mme Yaël Braun-Pivet, M. Éric Ciotti et M. Raphaël Gauvain, rapporteurs).
+
+Commission d'enquête sur l'évaluation des politiques publiques de santé environnementale,
+
+A 14 heures (à déterminer) :
+
+- restitution des travaux.
+
+Jeudi 17 décembre 2020
+
+Commission des finances,
+
+A 8 h 45 salle 6350 (Finances) :
+
+- éventuellement, examen, en lecture définitive, du projet de loi de finances pour 2021 (M. Laurent Saint-Martin, rapporteur général).
+
+Vendredi 18 décembre 2020
+
+Mission flash sur le financement de la BITD,
+
+A 9 heures (visioconférence) :
+
+- audition de M. Nicolas Bodilis Reguer, directeur du département Relations institutionnelles France Stratégie, Communication, Adhérents de la Fédération bancaire française (FBF).
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. Charles Duchaine, directeur de l'Agence française anticorruption (AFA)
+
+A 14 heures (visioconférence) :
+
+- audition de M. Bertrand Peyret, secrétaire général adjoint de l'Autorité de contrôle prudentiel et de résolution (ACPR).
+
+Mardi 12 janvier 2021
+
+Commission des affaires étrangères,
+
+A 17 h 30 (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- examen, ouvert à la presse, du rapport d'information sur la politique des visas (M. M'jid El Guerrab et Mme Sira Sylla, co-rapporteurs).
+
+Jeudi 21 janvier 2021
+
+Mission flash sur le financement de la BITD,
+
+A 9 h 15 (visioconférence) :
+
+- audition de M. Marwan Lahoud, président du directoire d'ACE Management.
+
+Jeudi 28 janvier 2021
+
+Mission flash sur le financement de la BITD,
+
+A 9 h 15 (visioconférence) :
+
+- audition du Dr. Hans Christoph Atzpodien, directeur général du BDSV (Bundesverband der Deutschen Sicherheits- und Verteidigungsindustrie - Groupement des industries allemandes de sécurité et défense).
