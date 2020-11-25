@@ -4,7 +4,7 @@ ANNEXES
 
 ANNEXE I
 
-POSTES OUVRANT AU DÉTACHEMENT DANS L'EMPLOI D'INGÉNIEUR EN CHEF DU 1ER GROUPE ET DU 2E GROUPE EN ADMINISTRATION CENTRALE ET DANS LES SERVICES TECHNIQUES CENTRAUX
+POSTES OUVRANT AU DÉTACHEMENT DANS L'EMPLOI D'INGÉNIEUR EN CHEF DU PREMIER ET DEUXIÈME GROUPE EN ADMINISTRATION CENTRALE ET DANS LES SERVICES TECHNIQUES CENTRAUX
 
 Direction générale |
 
@@ -26,7 +26,7 @@ ICTPE 2 |
 
 Sous-direction de la stratégie éditoriale et de la diffusion |
 
-Chef du bureau des usages numériques |
+Chef du bureau des systèmes d'information |
 
 ICTPE 2 |
 
@@ -46,13 +46,13 @@ ICTPE 2 |
 
 MIGT Bordeaux |
 
-Secrétaire général - chargé de mission d'inspection |
+Secrétaire général-chargé de mission d'inspection |
 
 ICTPE 1 |
 
 MIGT de Toulouse |
 
-Secrétaire général - chargé de mission d'inspection |
+Secrétaire général-chargé de mission d'inspection |
 
 ICTPE 2 |
 
@@ -64,19 +64,19 @@ ICTPE 1 |
 
 MIGT Rennes |
 
-Secrétaire général - chargé de mission d'inspection |
+Secrétaire général-chargé de mission d'inspection |
 
 ICTPE 2 |
 
-Section audits, inspections et vie des services |
+MIGT Metz |
 
-Secrétaire général - chargé de mission d'inspection |
+Inspecteur santé et sécurité au travail |
 
 ICTPE 2 |
 
 Section mobilité et transports |
 
-Secrétaire général - chargé de mission d'inspection |
+Secrétaire général-chargé de mission d'inspection |
 
 ICTPE 1 |
 
@@ -85,6 +85,10 @@ Direction générale de l'aménagement, du logement et de la nature |
 Direction de l'eau et de la biodiversité |
 
 Chef du bureau de la qualité de l'eau et agriculture |
+
+ICTPE 2 |
+
+Chef du bureau de la lutte contre les pollutions domestiques et industrielles |
 
 ICTPE 2 |
 
@@ -106,29 +110,33 @@ Chef du bureau de la réhabilitation du parc, des évaluations économiques et d
 
 ICTPE 2 |
 
+Chef du bureau de la planification urbaine et rurale et du cadre de vie |
+
+ICTPE 2 |
+
 Direction générale de l'aviation civile |
 
-Direction de l'aviation civile en Nouvelle-Calédonie |
+Service Technique de l'Aviation Civile |
 
-Responsable du service ingénierie Nouvelle-Calédonie |
+Directeur de projet AMO et expertises pour le chef du département structures et adhérence |
+
+ICTPE 2 |
+
+Chef des laboratoires d'essais et d'expertises |
 
 ICTPE 2 |
 
 Service national d'ingénierie aéroportuaire |
 
-Chef de département territorial Sud-Est |
+Chef du département territorial centre et est |
 
-ICTPE 1 |
+ICTPE 2 |
 
 Adjoint au chef de département territorial Sud-Est |
 
 ICTPE 2 |
 
-Chef de département territorial Sud-Ouest |
-
-ICTPE 1 |
-
-Chef de département territorial Ouest |
+Chef du département ingénierie infrastructure |
 
 ICTPE 2 |
 
@@ -136,9 +144,17 @@ Chef de la mission gestion du patrimoine immobilier |
 
 ICTPE 2 |
 
-Coordonnateur bâtiments basé à Aix-en-Provence |
+Adjoint au chef de la mission gestion du patrimoine immobilier |
 
 ICTPE 2 |
+
+Chef de département territorial Ouest |
+
+ICTPE 1 |
+
+Chef de département territorial Sud-Ouest |
+
+ICTPE 1 |
 
 Directeur adjoint |
 
@@ -146,15 +162,11 @@ ICTPE 1 |
 
 Direction générale de la prévention des pollutions et des risques |
 
-Service des risques naturels et hydrauliques |
+Service central d'hydrométéorologie et d'appui à la prévision des inondations |
 
-Chef de pôle vigilance et prévision hydrométéorologique |
+Chef du pôle Système d'information |
 
 ICTPE 2 |
-
-Chef du bureau d'étude et de contrôle des grands barrages |
-
-ICTPE 1 |
 
 Service des risques technologiques |
 
@@ -174,13 +186,13 @@ Chef du pôle ventilation et environnement |
 
 ICTPE 2 |
 
+Chef du pôle Géologie, Géotechnique et Dimensionnement |
+
+ICTPE 2 |
+
 Chargé de mission réseaux internationaux et animation de la recherche |
 
 ICTPE 1 |
-
-Chef du pôle matériaux, structures et vie de l'ouvrage |
-
-ICTPE 2 |
 
 Centre national des ponts de secours |
 
@@ -190,7 +202,7 @@ ICTPE 1 |
 
 Direction des affaires maritimes |
 
-Chef du bureau de l'assistance à la maitrise d'ouvrage |
+Chef du bureau des aides à la navigation |
 
 ICTPE 2 |
 
@@ -198,11 +210,11 @@ Chef du bureau du contrôle des navires au titre de l'Etat du port |
 
 ICTPE 2 |
 
-Direction des infrastructures de transport |
-
-Adjoint au chef de la mission de coordination des affaires européennes et internationales |
+Adjoint au Sous-directeur Modernisation Administration Numérique et chef du bureau de l'hébergement des systèmes et de l'assistance informatique |
 
 ICTPE 2 |
+
+Direction des infrastructures de transport |
 
 Chargé de mission d'audit, adjoint au chef du pôle de Lyon |
 
@@ -212,15 +224,7 @@ Chargé de mission d'audit du pôle Sud-Ouest, en charge de l'animation de la po
 
 ICTPE 2 |
 
-Chef du pôle technique et management de la MARRN |
-
-ICTPE 2 |
-
 Chef du bureau de la programmation et du financement |
-
-ICTPE 2 |
-
-Chef du bureau des usagers et de l'exploitation |
 
 ICTPE 2 |
 
@@ -234,7 +238,11 @@ ICTPE 1 |
 
 Direction des services de transport |
 
-Chef du bureau des ports |
+Chef du bureau des politiques de déplacement |
+
+ICTPE 2 |
+
+Chef du bureau des transports publics particuliers de personnes |
 
 ICTPE 2 |
 
@@ -244,13 +252,19 @@ Chef du département affaires générales |
 
 ICTPE 1 |
 
+Mission Innovation, numérique et territoire |
+
+Chef de projet transversal Innovation et Territoire |
+
+ICTPE 2 |
+
 Service technique des remontées mécaniques et des transports guidés |
 
 Chef du groupe mécanique et directeur adjoint de l'ON |
 
 ICTPE 2 |
 
-Chargé de mission transports guidés |
+Chef du Département Tramways et Matériel Roulant |
 
 ICTPE 2 |
 
@@ -260,7 +274,7 @@ ICTPE 1 |
 
 Chef du département des installations de transport par câbles |
 
-ICTPE 2 |
+ICTPE 1 |
 
 Secrétariat général |
 
@@ -273,6 +287,10 @@ ICTPE 1 |
 Direction des affaires européennes et internationales |
 
 Chargé de mission Europe occidentale |
+
+ICTPE 2 |
+
+Chargé de mission one planet summit |
 
 ICTPE 2 |
 
@@ -312,6 +330,10 @@ Chef du bureau des personnels techniques de catégorie A et de recherche |
 
 ICTPE 2 |
 
+Chef de projet Elections 2020 |
+
+ICTPE 1 |
+
 Chef du bureau des référentiels transverses et des systèmes de gestion |
 
 ICTPE 2 |
@@ -332,19 +354,23 @@ Directeur du CVRH de Clermont-Ferrand |
 
 ICTPE 1 |
 
-Directeur du CVRH de Mâcon |
-
-ICTPE 1 |
-
 Directeur du CVRH de Nantes |
 
 ICTPE 1 |
 
-Directeur du CVRH de Toulouse |
+Adjoint au Directeur CVRH Arras et Responsable du DCFP |
 
-ICTPE 1 |
+ICTPE 2 |
+
+Directeur adjoint CVRH Clermont-Ferrand |
+
+ICTPE 2 |
 
 Expert urbanisation SIRH, sécurité numérique et innovation |
+
+ICTPE 2 |
+
+Chef du bureau des systèmes d'appui au développement des ressources humaines |
 
 ICTPE 2 |
 
@@ -366,11 +392,11 @@ Chef du département des services de proximité |
 
 ICTPE 2 |
 
-Chef du département produits numériques des métiers 3 - SI support RH et SI documentaire |
+Chef du département produits numériques des métiers 3-SI support RH et SI documentaire |
 
 ICTPE 2 |
 
-Chef du département produits numériques des métiers 5 - biodiversité, prévention des risques |
+Chef du département produits numériques des métiers 5-biodiversité, prévention des risques |
 
 ICTPE 2 |
 
@@ -378,7 +404,7 @@ Chef du département de la relation client |
 
 ICTPE 2 |
 
-Chef du département produits numériques des métiers 2 - Logement, urbanisme |
+Chef du département produits numériques des métiers 2-Logement, urbanisme |
 
 ICTPE 2 |
 
@@ -386,23 +412,23 @@ Chef du département socles |
 
 ICTPE 2 |
 
+Chargé de mission accompagnement de la transformation numérique |
+
+ICTPE 2 |
+
 Chef du département infrastructures et services |
 
 ICTPE 2 |
 
-Chargé de mission auprès du chef de service |
-
-ICTPE 2 |
-
-Service du pilotage de l'évolution des services |
-
-Chef du département foncier |
-
-ICTPE 2 |
+service du pilotage de l'évolution des services |
 
 Chef du département maîtrise d'ouvrage |
 
 ICTPE 1 |
+
+Chargé d'ingénierie de formation nature et biodiversité |
+
+ICTPE 2 |
 
 Consultant senior en accompagnement du changement |
 
