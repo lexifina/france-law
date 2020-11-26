@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200917946
+
+- Question : [SEQ200917946](seq200917946.md) — Difficultés financières des maires de petites communes rurales dans la prise en charge des protocoles sanitaires liés à la crise de la Covid-19
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-11-26, page 5586*
+
+Le Gouvernement est soucieux d'accompagner les collectivités territoriales qui sont, aux côtés de l'État, pleinement investies afin d'assurer la gestion de la crise actuelle et d'aider les acteurs économiques et associatifs de leurs territoires. Des mesures de soutien à la trésorerie des collectivités ont été rapidement ouvertes afin que les préfets puissent accompagner les collectivités territoriales qui en auraient besoin (via notamment des versements anticipés des avances mensuelles sur la fiscalité locale et des acomptes de dotations ou des acomptes exceptionnels du fonds de compensation de la taxe sur la valeur ajoutée (FCTVA) allant jusqu'à 70 % du montant prévisionnel). La mise en place d'un fonds national a permis d'accompagner l'achat de masques par les collectivités en finançant la moitié de leur coût (après déduction des éventuels autres financements). Par ailleurs, la loi n° 2020-935 du 30 juillet 2020 de finances rectificative pour 2020 a créé une clause de sauvegarde pour compenser les pertes de recettes fiscales et domaniales des communes et établissements publics de coopération intercommunale en difficulté ainsi que des régions et collectivités d'outre-mer. En outre, une circulaire interministérielle du 24 août 2020 prévoit la mise en place d'un mécanisme d'étalement de charges au sein d'un sous-compte dédié, qui apporte de la souplesse aux gestionnaires locaux en leur permettant d'étaler les charges sur cinq exercices. Ces différentes mesures répondent à l'urgence, c'est-à-dire apporter des réponses pour l'exercice 2020.
