@@ -150,6 +150,30 @@ COOPERATIVE ISIGNY SAINTE MERE |
 
 51 818 |
 
+FR000000000000217 |
+
+Société de Distribution de Chaleur de Moulins |
+
+Société de Distribution de Chaleur de Moulins |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+537 |
+
+1 362 |
+
+1 899 |
+
 FR000000000000306
 
 |
@@ -245,6 +269,30 @@ ARKEMA Usine de Jarrie
 98 725
 
 |
+
+FR000000000000385 |
+
+Rhodia Opérations |
+
+Rhodia opérations etablissement du Pont de Claix |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 713 |
+
+7 792 |
+
+6 172 |
+
+15 677 |
 
 FR000000000000430 |
 
@@ -494,11 +542,11 @@ FR000000000000837
 
 |
 
-Tereos Syral
+TEREOS STARCH & SWEETENERS EUROPE
 
 |
 
-Tereos Syral
+TEREOS STARCH & SWEETENERS EUROPE
 
 |
 
@@ -514,27 +562,27 @@ Tereos Syral
 
 |
 
-17 242
+18 194
 
 |
 
-16 926
+36 982
 
 |
 
-16 609
+36 290
 
 |
 
-16 293
+35 599
 
 |
 
-15 976
+34 906
 
 |
 
-136 672
+215 597
 
 |
 
@@ -585,6 +633,30 @@ BLUE PAPER SAS
 520 583
 
 |
+
+FR000000000000869 |
+
+Airbus Opération SAS |
+
+AIRBUS France CLEMENT ADER |
+
+- |
+
+- |
+
+- |
+
+- |
+
+888 |
+
+6 769 |
+
+6 640 |
+
+6 511 |
+
+20 808 |
 
 FR000000000000947
 
@@ -1016,13 +1088,13 @@ NOVAPEX |
 
 1 391 |
 
-1 365 |
+2 201 |
 
-1 339 |
+3 794 |
 
-1 313 |
+3 720 |
 
-9 600 |
+15 298 |
 
 FR-new-05904909 |
 
@@ -1231,3 +1303,27 @@ SGD SA |
 4 531 |
 
 22 492 |
+
+FR-new-07000778 |
+
+MAXAM TAN SAS |
+
+ACIDE NITRIQUE 5-MAXAM TAN SAS |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+8 454 |
+
+9 430 |
+
+9 247 |
+
+27 131 |

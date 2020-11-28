@@ -104,6 +104,78 @@ COGENERATION DE BESANÇON |
 
 / |
 
+FR-new-03802000 |
+
+CLAREBOUT |
+
+CLAREBOUT Saint-Georges-sur-l'Aa |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+FR-new-03801297 |
+
+FLOCRYL |
+
+FLOCRYL site de Port de Dunkerque |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-03801634 |
+
+SPIE BATIGNOLLES MALET |
+
+SPIE BATIGNOLLES MALET-Grands Chantiers-PE 15 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+466 |
+
+621 |
+
+1087 |
+
 FR-new-05100850
 
 |
@@ -1138,11 +1210,11 @@ EURALIS CEREALES SOLFERINO
 
 |
 
-262
+0
 
 |
 
-6 873
+6 611
 
 |
 
@@ -5494,11 +5566,11 @@ FR-new-06102212
 
 |
 
-ETS BERNARD
+BERNARD AGRICULTURE
 
 |
 
-ETS BERNARD
+BERNARD AGRICULTURE
 
 |
 
@@ -6788,11 +6860,11 @@ FR-new-06106986
 
 |
 
-COOPERATIVE DAUPHINOISE
+OXYANE
 
 |
 
-COOPERATIVE DAUPHINOISE
+OXYANE
 
 |
 
@@ -10154,6 +10226,30 @@ CAC OTTMARSHEIM
 
 |
 
+FR-new-06700482 |
+
+COOPERATIVE AGRICOLE DE CEREALES |
+
+CAC ENSISHEIM |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
 FR-new-06700483
 
 |
@@ -11608,11 +11704,11 @@ FR-new-07000683
 
 |
 
-LIBERTY ALUMINIUM DUNKERQUE
+ALVANCE ALUMINIUM DUNKERQUE
 
 |
 
-Aluminium Dunkerque SA
+ALVANCE ALUMINIUM DUNKERQUE
 
 |
 
@@ -14620,11 +14716,9 @@ Hôpital PURPAN |
 
 FR-new-03801634 |
 
-ENTREPRISE MALET
+SPIE BATIGNOLLES MALET |
 
-|
-
-Entreprise Malet-Grands Chantiers-PE 15 |
+SPIE BATIGNOLLES MALET-Grands Chantiers-PE 15 |
 
 - |
 
