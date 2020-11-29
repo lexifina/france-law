@@ -90,6 +90,12 @@ BORDELAISE |
 
 X |
 
+REDYBLACK |
+
+28 |
+
+|
+
 BRETONNE PIE NOIR |
 
 29 |
@@ -343,10 +349,6 @@ AYRSHIRE |
 BUFFLE |
 
 20 |
-
-STABILISER |
-
-28 |
 
 CHIANINA |
 

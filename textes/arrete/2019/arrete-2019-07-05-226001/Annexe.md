@@ -736,6 +736,22 @@ France |
 
 31.07.2020 |
 
+Association Bovinext
+
+9, rue de la Vologne
+
+54520 Laxou
+
+Date d'agrément : 20 novembre 2020 |
+
+Redyblack |
+
+France |
+
+1 |
+
+20 novembre 2020 |
+
 II. - Liste des organismes de sélection agréés qui réalisent des programmes de sélection avec des reproducteurs de race pure de l'espèce ovine
 
 Organisme de sélection
