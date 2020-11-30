@@ -60,7 +60,7 @@ S'il dispose d'un service interne d'inspection respectant les conditions défini
 
 L'exploitant peut également faire réaliser les contrôles spécifiques prévus par le plan de contrôle technique par un organisme agréé.
 
-Dans les conditions de l'article 10 du décret susvisé, le ministre de l'intérieur peut prescrire que ces contrôles soient effectués par un organisme agréé.
+Dans les conditions de l'article 10 du décret susvisé, le préfet de police peut prescrire que ces contrôles soient effectués par un ou plusieurs organismes agréés. A cette fin, le préfet de police peut se faire assister par toute personne compétente dans le domaine, afin de recueillir ses conseils, notamment sur le choix du (ou des) organisme (s) agréé (s) devant se substituer au service de contrôle interne ainsi que sur la durée de sa (ou de leur) mission. La durée à l'issue de laquelle un réexamen est conduit ne peut excéder 5 ans. En toute hypothèse, cette décision peut être réversible à tout moment, à la condition que l'exploitant apporte toute preuve de l'amélioration de son service de contrôle interne.
 
 d) Organisation de la vérification du contrôle technique initial des matériels existants et du premier contrôle technique par un organisme agréé :
 
@@ -110,7 +110,7 @@ S'il dispose d'un service interne d'inspection respectant les conditions fixées
 
 L'exploitant peut également faire réaliser les contrôles spécifiques prévus par le plan de contrôle technique par un organisme agréé.
 
-Dans les conditions de l'article 10 du décret susvisé, le ministre de l'intérieur peut prescrire que ces contrôles soient effectués par un organisme agréé.
+Dans les conditions de l'article 10 du décret susvisé, le préfet de police peut prescrire que ces contrôles soient effectués par un organisme agréé. A cette fin, le préfet de police peut se faire assister par toute personne compétente dans le domaine, afin de recueillir ses conseils, notamment sur le choix du (ou des) organisme (s) agréé (s) devant se substituer au service de contrôle interne ainsi que sur la durée de sa (ou de leur) mission. La durée à l'issue de laquelle un réexamen est conduit ne peut excéder 5 ans. En toute hypothèse, cette décision peut être réversible à tout moment, à la condition que l'exploitant apporte toute preuve de l'amélioration de son service de contrôle interne.
 
 b) Organisation de la vérification du contrôle technique par un organisme agréé :
 
