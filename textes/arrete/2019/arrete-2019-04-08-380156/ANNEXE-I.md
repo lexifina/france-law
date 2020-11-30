@@ -212,7 +212,7 @@ II. - Programme relatif à l'épreuve de mise en situation professionnelle de la
 
 - le stockage des produits dangereux.
 
-III. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité affaires immobilières
+III. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité affaires immobilières :
 
 1° Mathématiques :
 
@@ -226,29 +226,21 @@ a) Les suites arithmétiques et le raisonnement par récurrence :
 
 - le sens de variation ;
 
-- la somme des termes consécutifs.
+- la somme des termes consécutifs ;
 
-b) L'étude de fonctions, limites - asymptotes, dérivée, primitives :
-
-- les fonctions puissances ;
+b) La résolution d'équations :
 
 - les fonctions circulaires ;
 
-- les fonctions polynomiales du 1er degré et du 2e degré.
+- les fonctions polynomiales du 1er degré et du 2e degré ;
 
-c) La résolution d'équations :
-
-- les fonctions circulaires ;
-
-- les fonctions polynomiales du 1er degré et du 2e degré.
-
-d) Le calcul de surfaces et de volumes :
+c) Le calcul de surfaces et de volumes :
 
 - les surfaces telles que : carré, rectangle, parallélogramme, losange, trapèze, triangle quelconque, triangle rectangle, triangle isocèle, triangle équilatéral, cercle, pentagone, hexagone, octogone ;
 
-- les volumes tels que : cube, parallélépipède, prisme droit, pyramide, cône, cylindre, sphère, ellipsoïde.
+- les volumes tels que : cube, parallélépipède, prisme droit, pyramide, cône, cylindre, sphère, ellipsoïde ;
 
-e) Les statistiques :
+d) Les statistiques :
 
 - la moyenne arithmétique ;
 
@@ -262,7 +254,7 @@ e) Les statistiques :
 
 - l'écart-type ;
 
-- le nombre de valeurs.
+- le nombre de valeurs ;
 
 2° Physique-chimie :
 
@@ -284,9 +276,9 @@ a) L'application d'une force ou d'un couple à un solide :
 
 - la force et l'accélération linéaire ;
 
-- lle couple et l'accélération angulaire ;
+- le couple et l'accélération angulaire ;
 
-- le transfert d'énergie par le travail.
+- le transfert d'énergie par le travail ;
 
 b) Le comportement des fluides :
 
@@ -300,35 +292,11 @@ b) Le comportement des fluides :
 
 - les différents états de l'eau et les changements d'état ;
 
-- les échanges d'énergie et les changements d'états.
+- les échanges d'énergie et les changements d'états ;
 
-c) Les ondes électromagnétiques :
+3° Domaines de la construction et de la gestion immobilière et locative :
 
-- les propriétés (UV, visible, IR, micro-ondes, ondes hertziennes, période, fréquence, longueur d'onde, célérité, énergie transportée) ;
-
-- le rayonnement et l'énergie.
-
-d) L'électricité :
-
-- la tension, l'intensité, et la résistance ;
-
-- le courant continu et alternatif ;
-
-- la puissance réelle et la puissance apparente ;
-
-- l'énergie électrique et la consommation ;
-
-- la capacité d'une batterie ou d'une pile.
-
-e) Les acides et les bases :
-
-- le pH ;
-
-- les acides et les bases ;
-
-- l'équilibre acido-basique ;
-
-- les réactions acido-basiques.
+L'épreuve de mise en situation professionnelle peut interroger le candidat sur les domaines de la construction et de la gestion immobilière et locative (questions ou commandes, avec ou sans documentation). Il n'est pas prévu de programme de révision pour ce thème.
 
 IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité armurier pyrotechnicien
 
