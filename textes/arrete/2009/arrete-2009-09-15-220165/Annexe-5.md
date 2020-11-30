@@ -224,7 +224,7 @@ Chaudière de type B1 |
 
 C |
 
-Fioul |
+Combustible liquide |
 
 Chaudière condensation |
 
