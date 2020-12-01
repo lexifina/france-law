@@ -66,17 +66,7 @@ Indemnité mentionnée à l'article 1er de l'arrêté du 14 février 2013 relati
 
 |
 
-|
-
-Du 1er septembre 2020 au 28 février 2021 |
-
-420 |
-
-A compter du 1er mars 2021 |
-
-606
-
-|
+606 |
 
 III-Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel) |
 
@@ -88,4 +78,4 @@ IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 1er octobre 2020 (NOR : SSAH2026436A), ces dispositions entrent en vigueur le 1er octobre 2020.
+Conformément à l’article 7 de l’arrêté du 27 octobre 2020, ces dispositions entrent en vigueur le 1er décembre 2020.

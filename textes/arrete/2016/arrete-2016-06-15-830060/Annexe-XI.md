@@ -150,17 +150,7 @@ Indemnité mentionnée à l'article 1er de l'arrêté du 21 décembre 2000 modif
 
 |
 
-|
-
-Du 1er septembre 2020 au 28 février 2021
-
-|
-
-700 |
-
-A compter du 1er mars 2021 |
-
-1010 |
+1 010 |
 
 C - Maitres de conférences des universités-praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires exerçant à temps partiel : (montants bruts annuels)
 
@@ -366,17 +356,7 @@ Indemnité mentionnée à l'article 1er de l'arrêté du 21 décembre 2000 modif
 
 |
 
-|
-
-Du 1er septembre 2020 au 28 février 2021
-
-|
-
-700 |
-
-A compter du 1er mars 2021 |
-
-1010 |
+1 010 |
 
 b) personnels exerçant à temps partiel :
 
@@ -413,3 +393,7 @@ Professeur du deuxième grade de chirurgie dentaire odontologistes des services 
 12 195,56
 
 |
+
+NOTA :
+
+Conformément à l’article 7 de l’arrêté du 27 octobre 2020, ces dispositions entrent en vigueur le 1er décembre 2020.
