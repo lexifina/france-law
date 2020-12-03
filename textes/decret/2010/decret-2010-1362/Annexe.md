@@ -18,6 +18,8 @@ I.-Aux prestations de prévoyance prévues au 2° du III de l'article 1er du dé
 
 2. Les orphelins titulaires d'une pension attribuée à la suite du décès d'un agent ou d'un ancien agent au titre de l'article 18 du décret n° 2008-639 du 30 juin 2008 relatif au régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports et non couverts à titre d'ayant droit par un régime de sécurité sociale.
 
+3. Les assurés mentionnés aux a, a bis, b, d et d bis de l'article 2 du décret du 7 mai 2007 susvisé pendant les périodes durant lesquelles ils perçoivent l'indemnité mentionnée au II de l'article L. 5122-1 du code du travail.
+
 II.-Aux prestations en nature des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut mentionné à l' article L. 2101-2 du code des transports, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports.
 
 III.-Aux seules prestations en nature des assurances maladie et maternité dans les conditions applicables aux retraités les anciens agents ayant cessé leurs fonctions à la société nationale SNCF ou ses filiales relevant du I de l'article L. 2101-2 du code des transports par départ volontaire qui reçoivent des indemnités de chômage versées par la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports sans interruption jusqu'à la date d'entrée en jouissance de leur pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports.
@@ -240,7 +242,7 @@ I.-Montant :
 
 a) Au décès de l'affilié visé aux a, b et d de l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1.1 de la présente annexe, ou en position de disponibilité qui a versé durant son congé les cotisations ouvrières et patronales de prévoyance, l'allocation au décès est égale à la rémunération totale annuelle brute déterminée en fonction du barème de rémunération applicable au jour du décès, augmentée le cas échéant des prestations familiales, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe.
 
-Les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation sont déterminés dans les conditions prévues au II de l'article 5-2 de la présente annexe pour le calcul de l'allocation de fin de carrière. Si au jour du décès, l'agent exerce son activité à temps partiel, l'allocation est calculée sur la base des éléments fixes de la rémunération correspondant à un travail à temps complet ;
+Les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation sont déterminés dans les conditions prévues aux II et III de l'article 5-2 de la présente annexe pour le calcul de l'allocation de fin de carrière. Si au jour du décès, l'agent exerce son activité à temps partiel ou est placé en situation d'activité partielle au sens de l'article L. 5122-1 du code du travail, l'allocation est calculée sur la base des éléments fixes de la rémunération correspondant à un travail à temps complet ;
 
 b) Au décès de l'ancien agent retraité visé au c de l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1.1 de la présente annexe, l'allocation au décès est égale à 25 % de la pension totale annuelle brute déterminée en fonction du barème en vigueur au jour du décès, y compris la majoration pour enfants, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6.
 
@@ -280,7 +282,7 @@ agent retraité était lié par un pacte civil de solidarité
 
 Les personnes mentionnées à l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1er-1 de la présente annexe, reçoivent, en cas de décès de leur conjoint non séparé de corps ou du partenaire auquel elles étaient liées par un pacte civil de solidarité et relevant du régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports :
 
-- en ce qui concerne les agents en activité, y compris lorsqu'ils sont en position de disponibilité avec versements des cotisations de prévoyance à la caisse, une allocation égale à 25 % de la rémunération totale annuelle brute définie au I de l'article précédent, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe ni supérieure à un montant forfaitaire maximum défini au même article ;
+- en ce qui concerne les agents en activité, y compris lorsqu'ils sont en position de disponibilité avec versements des cotisations de prévoyance à la caisse ou en situation d'activité partielle au sens de l'article L. 5122-1 du code du travail, une allocation égale à 25 % de la rémunération totale annuelle brute définie au I de l'article précédent, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe ni supérieure à un montant forfaitaire maximum défini au même article ;
 
 - en ce qui concerne les anciens agents retraités, une allocation égale à 25 % de la pension totale annuelle brute, y compris la majoration pour enfants, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe ni supérieure à un montant forfaitaire maximum défini au même article.
 
@@ -374,9 +376,9 @@ Article 5-2
 
 Allocation de fin de carrière
 
-I.-Une allocation égale à 1/12 de la rémunération totale annuelle brute déterminée en fonction du barème de rémunération applicable au jour de sa cessation de fonctions, augmentée, le cas échéant, des prestations familiales, est versée à l'affilié, agent en activité ou en congé de disponibilité effectuant les versements de cotisations ouvrières et patronales, qui cesse ses fonctions et demande le bénéfice immédiat des pensions prévues aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008.
+I.-Une allocation égale à 1/12 de la rémunération totale annuelle brute déterminée en fonction du barème de rémunération applicable au jour de sa cessation de fonctions, augmentée, le cas échéant, des prestations familiales, est versée à l'affilié, agent en activité, en situation d'activité partielle au sens de l'article L. 5122-1 du code du travail ou en congé de disponibilité effectuant les versements de cotisations ouvrières et patronales, qui cesse ses fonctions et demande le bénéfice immédiat des pensions prévues aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008.
 
-Si, au jour de la cessation des fonctions, l'agent exerce son activité à temps partiel, l'allocation est calculée sur la base des éléments fixes de la rémunération correspondant à un travail à temps complet.
+Si, au jour de la cessation des fonctions, l'agent exerce son activité à temps partiel ou est placé en situation d'activité partielle au sens de l'article L. 5122-1 du code du travail, l'allocation est calculée sur la base des éléments fixes de la rémunération correspondant à un travail à temps complet.
 
 II.-Les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation définie au I, sont :
 
@@ -398,6 +400,8 @@ II.-Les éléments constitutifs de la rémunération et les prestations familial
 
 Un complément d'allocation, égal à 1/12 de la différence entre le total des primes de traction perçues par les intéressés au cours des 12 derniers mois et le montant des primes de travail, est versé aux agents de conduite placés sur les qualifications TA et TB définies à l'annexe 3 du décret du 30 juin 2008.
 
+III. - Pour les agents placés en situation d'activité partielle, les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation définie au I sont ceux listés au II du présent article et reconstitués à la date de cessation des fonctions de l'agent.
+
 Chapitre 6
 
 Domiciliation à l'étranger
@@ -415,3 +419,7 @@ Article 6-2
 Anciens agents retraités domiciliés à l'étranger
 
 Lorsque des soins sont donnés aux anciens agents retraités domiciliés à l'étranger ou à leurs ayant droits, les prestations sont calculées dans les mêmes conditions que pour les anciens agents retraités ou leurs ayants droit résidant en France.
+
+NOTA :
+
+Conformément à l'article 8 du décret n° 2020-1489 du 1er décembre 2020, ces dispositions sont applicables au titre des périodes courant à compter du 1er mars 2020 pour les prestations prenant effet à compter du 12 mars 2020.

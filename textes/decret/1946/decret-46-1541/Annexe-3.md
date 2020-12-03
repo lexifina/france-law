@@ -6,9 +6,9 @@ Bénéficiaires, durée minimale d'affiliation, durée minimale de services
 
 Sont affiliés au régime spécial de retraites des industries électriques et gazières les agents bénéficiant du statut national du personnel de ces industries.
 
-Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national. Lorsque la cessation d'affiliation est antérieure au 1er juillet 2008, le droit aux prestations vieillesse du régime spécial est subordonné au remboursement par l'affilié à la Caisse nationale des industries électriques et gazières du reliquat de cotisations éventuellement perçu par celui-ci au moment où il a cessé d'être affilié audit régime.
+Le droit aux prestations de vieillesse du régime spécial des industries électriques et gazières est subordonné à une durée minimale d'affiliation d'un an. La durée minimale d'affiliation comprend l'ensemble des périodes cotisées et effectivement travaillées ainsi que les arrêts de travail visés au a du paragraphe 1er et aux paragraphes 2, 3 et 4 de l'article 22 du statut national et les périodes mentionnées au III de l'article 5. Lorsque la cessation d'affiliation est antérieure au 1er juillet 2008, le droit aux prestations vieillesse du régime spécial est subordonné au remboursement par l'affilié à la Caisse nationale des industries électriques et gazières du reliquat de cotisations éventuellement perçu par celui-ci au moment où il a cessé d'être affilié audit régime.
 
-Pour le bénéfice des dispositions de la présente annexe qui sont subordonnées à une durée minimale de services, cette durée inclut les périodes mentionnées aux articles 2, 3, 4, et au I de l'article 5, les bonifications éventuelles n'étant pas prises en compte.
+Pour le bénéfice des dispositions de la présente annexe qui sont subordonnées à une durée minimale de services, cette durée inclut les périodes mentionnées aux articles 2, 3, 4, et aux I et III de l'article 5, les bonifications éventuelles n'étant pas prises en compte.
 
 Pour le décompte de la durée minimale d'affiliation et de la durée minimale de services, les périodes d'activité à temps partiel sont décomptées comme des périodes d'activité à temps plein.
 
@@ -108,7 +108,9 @@ c) D'un congé de présence parentale ;
 
 d) D'un congé sans solde pour élever un enfant de moins de huit ans prévu à l'article 20 du statut national.
 
-II.- Entrent dans la constitution du droit à pension de vieillesse les périodes pendant lesquelles l'agent a perçu un revenu de remplacement, une allocation ou une rémunération mentionnés au 2° de l'article L. 351-3 du code de la sécurité sociale.
+II.- Sous réserve du III, entrent dans la constitution du droit à pension de vieillesse les périodes pendant lesquelles l'agent a perçu un revenu de remplacement, une allocation ou une rémunération mentionnés au 2° de l'article L. 351-3 du code de la sécurité sociale.
+
+III. - Les périodes au cours desquelles l'agent a perçu l'indemnité mentionnée au II de l'article L. 5122-1 du code du travail entrent dans la constitution du droit à pension de vieillesse et sont réputées cotisées et effectuées pour l'application de la présente annexe.
 
 Article 6
 
@@ -465,6 +467,8 @@ La condition des six mois n'est pas opposable lorsque la liquidation intervient 
 En cas d'activité à temps partiel, la rémunération servant de base au calcul de la pension, au sens des alinéas précédents, correspond à la rémunération à laquelle l'agent aurait pu prétendre s'il avait exercé son activité à temps plein.
 
 Lorsque la liquidation de la pension n'est pas concomitante à la cessation définitive de l'activité, la rémunération, au sens des alinéas précédents, est revalorisée, pendant la période comprise entre la date de cette cessation et la date d'effet de la pension, conformément aux dispositions de l'article 20 de la présente annexe.
+
+Pour l'application du deuxième alinéa du présent article, pendant les périodes mentionnées au III de l'article 5 de la présente annexe, l'agent est réputé détenir le salaire ou traitement correspondant au coefficient hiérarchique, ancienneté comprise, détenu depuis six mois au moins au moment de la cessation des services validables pour la pension.
 
 Article 19
 
@@ -1878,6 +1882,8 @@ Pour les agents occupant un emploi en services discontinus une partie de l'anné
 
 V. - Les agents en arrêt de travail relevant des dispositions de l'article 22 du présent statut national du personnel conservent, pendant la durée de leur interruption de travail, le classement en services actifs dont ils bénéficiaient avant cette interruption de travail.
 
+Pour les périodes mentionnés au III de l'article 5 de la présente annexe, les agents conservent, pendant la durée de perception de l'indemnité mentionnée au II de l'article L. 5122-1 du code du travail, le classement en services actifs dont ils bénéficiaient auparavant.
+
 Les agents accidentés du travail ou victimes d'une maladie professionnelle reprenant un emploi classé en services sédentaires à l'issue de leur période d'arrêt de travail conservent, à titre personnel, le bénéfice du taux de services actifs dont ils bénéficiaient avant leur interruption de travail pour la seule détermination de l'âge d'ouverture du droit à pension du régime spécial.
 
 La situation des agents placés en position d'invalidité est précisée à l'article 37 de l'annexe 3 du présent statut.
@@ -1904,4 +1910,4 @@ Tout emploi qui n'est pas classé en services actifs est classé en services sé
 
 NOTA :
 
-Conformément à l'article 4 du décret n° 2019-148 du 27 février 2019, les dispositions des articles 1er à 3 dudit décret s'appliquent aux périodes mentionnées au II de l'article 5 de l'annexe 3 du statut national du personnel des industries électriques et gazières annexé au décret du 22 juin 1946, dans sa rédaction issue du même décret, intervenues avant la date de liquidation de la pension de vieillesse, lorsque celle-ci intervient postérieurement au lendemain de la publication dudit décret.
+Conformément à l'article 8 du décret n° 2020-1489 du 1er décembre 2020, ces dispositions sont applicables au titre des périodes courant à compter du 1er mars 2020 pour les prestations prenant effet à compter du 12 mars 2020.
