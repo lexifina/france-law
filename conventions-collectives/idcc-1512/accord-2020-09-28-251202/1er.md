@@ -1,0 +1,7 @@
+# Article 1er
+
+Conformément à l'article L. 3121-58 du code du travail, les signataires rappellent qu'une convention individuelle de forfait annuel en jours ne peut être conclue que par les cadres qui disposent d'une autonomie dans l'organisation de leur emploi du temps et dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés et/ou les salariés dont la durée du temps de travail ne peut être prédéterminée et qui disposent d'une réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des responsabilités qui leur sont confiées.
+
+Par conséquent, le présent accord concerne les salariés occupant des fonctions de niveau 4 à 6 bénéficiant de par la nature de leurs activités et de par leur niveau de formation et d'expérience, d'une autonomie dans l'organisation de leur travail et dans l'exercice de leur mission.
+
+Les signataires réaffirment ainsi que les salariés concernés ne relèvent pas d'un horaire fixe et précis (qu'il soit collectif ou individuel) et bénéficient d'une autonomie dans l'organisation de leur emploi du temps. Ils sont ainsi libres de déterminer leur rythme de travail en toute autonomie par rapport à l'horaire applicable au sein de leur service, sous la réserve du respect des garanties édictées par le présent accord, et de l'intérêt de l'entreprise.
