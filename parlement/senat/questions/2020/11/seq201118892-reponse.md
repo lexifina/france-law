@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118892
+
+- Question : [SEQ201118892](seq201118892.md) — Procédures de médiation des collectivités locales
+
+## Réponse
+
+*Justice, JO du 2020-12-03, page 5737*
+
+L'article L. 421-1 du code des relations entre le public et l'administration permet de recourir « à une procédure de conciliation ou de médiation en vue du règlement amiable d'un différend avec l'administration, avant qu'une procédure juridictionnelle ne soit, en cas d'échec, engagée ou menée à son terme ». En l'absence de dispositions attribuant expressément une compétence au maire, le conseil municipal est de plein droit compétent pour régler, par ses délibérations, les affaires de la commune (article L. 2121-29 du code général des collectivités territoriales ; CE, 30 octobre 1996, Sté Henri Herrmann, n° 130031). Il appartient ensuite au maire d'exécuter les décisions du conseil municipal en vertu de l'article L. 2122-21 du code général des collectivités territoriales. Le maire peut également recevoir délégation du conseil municipal en application du 16° de l'article L. 2122-22 du même code pour transiger « au nom de la commune dans la limite de 1 000 € pour les communes de moins de 50 000 habitants et de 5 000 € pour les communes de 50 000 habitants et plus ». Il peut lui-même déléguer ses fonctions à un ou plusieurs de ses adjoints ou à des membres du conseil municipal, dans les conditions fixées par l'article L. 2122-18 du code général des collectivités territoriales. Les collectivités territoriales peuvent également dorénavant, en application du nouvel article L. 1112-24 du code général des collectivités territoriales, « instituer, par délibération de l'organe délibérant, un médiateur territorial », susceptible d'intervenir dans le cadre d'un litige porté devant une juridiction. La délibération instituant le médiateur territorial devra notamment définir son champ de compétences, les moyens mis à sa disposition et la durée de son mandat.
