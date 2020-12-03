@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717162
+
+- Question : [SEQ200717162](seq200717162.md) — Réduction des frais de découvert non autorisé et des frais d'incidents bancaires
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-12-03, page 5717*
+
+Le Gouvernement est particulièrement attentif à la question des frais bancaires prélevés par les banques. L'action du Gouvernement s'est particulièrement concentrée, au cours des dernières années, sur le plafonnement des frais d'incidents pour les clientèles identifiées comme fragiles dans la mesure où ce sont ces populations qui sont le plus exposées à ces frais et au risque de spirale d'endettement qui y est lié. C'est pour cette raison que le Gouvernement a obtenu en 2018 des établissements bancaires, qu'ils plafonnent les frais d'incidents à 25€ par mois pour les clients en situation de fragilité financière et à 20€ par mois et 200€ par an pour les clients bénéficiant de l'offre spécifique. Ces engagements ont été intégrés en 2020 dans la charte d'inclusion bancaire et de prévention du surendettement de l'association française des établissements de crédit et des entreprises d'investissement, afin d'en assurer l'efficacité et la pérennité. Concernant la proposition relative à l'imposition d'une obligation légale d'information sur la possibilité de conclure une convention dite d'« unité de comptes », qui permet à la banque de procéder, dans certaines conditions spécifiques, à des mouvements de fonds entre les différents comptes détenus par un client dans un même établissement afin d'éviter les situations de découvert, il convient de rappeler qu'un tel service est librement proposé ou non par les établissements à leurs clientèles. À ce titre, il ne semble pas opportun d'imposer une obligation légale d'information sur un service commercial dont la fourniture dépend de la politique commerciale de chaque établissement.
