@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717497
+
+- Question : [SEQ200717497](seq200717497.md) — Report du remboursement des prêts étudiants
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-12-03, page 5719*
+
+Le Gouvernement est conscient des difficultés financières que peuvent rencontrer les étudiants en cette période de crise sanitaire, et qui tiennent notamment aux difficultés pour rembourser les prêts contractés pour financer leurs études. Il convient de préciser que des mesures fortes ont été prises pour limiter leur perte de revenus par le versement de la prime pour étudiants et jeunes actifs notamment. Ces mesures d'appui au revenu, qui sont en premier lieu destinées à aider ces étudiants, ont aussi pour objectif d'éviter d'avoir à prendre des mesures générales de report des remboursements d'échéances de crédit, et ce faisant, de grever davantage les bilans bancaires, qui sont déjà fortement sollicités pour soutenir le maintien de l'activité économique, via la distribution des prêts garantis par l'État, qu'ils se sont engagés à faire sans marge, et via la restructuration des créances existantes sur les entreprises, qu'ils se sont engagés à proposer au cas par cas, sans frais pour l'emprunteur. Il convient de souligner toutefois qu'en cas de difficultés, les contrats de crédit aux particuliers –qu'il s'agisse des crédits immobiliers ou des crédits à la consommation- peuvent déjà prévoir des clauses permettant de moduler le rythme de remboursement. Au-delà même de ces clauses, les emprunteurs peuvent solliciter, dans le cadre de leur relation habituelle avec les prêteurs, des reports d'échéance via la signature d'avenants. En pratique, compte tenu du contexte, le Gouvernement attend des établissements prêteurs qu'ils étudient avec le plus de bienveillance possible les demandes de leurs clients.
