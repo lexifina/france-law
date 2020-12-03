@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616745
+
+- Question : [SEQ200616745](seq200616745.md) — Liberté d'expression et de témoignage des associations intervenant dans les centres de rétention administrative
+
+## Réponse
+
+*Citoyenneté, JO du 2020-12-03, page 5712*
+
+La liberté d'expression est un droit fondamental garanti par la Constitution (article 11 de la déclaration des droits de l'Homme et du citoyen) et la Convention européenne des droits de l'Homme (articles 9 et 10). Cette liberté d'expression ne peut pas être limitée par une clause contractuelle, s'agissant de la garantie d'une liberté publique. Le nouveau marché ne constitue en aucun cas un moyen de censurer l'expression des associations qui œuvrent dans les centres de rétention auprès des retenus et leur apportent toutes les informations nécessaires à la mise en œuvre effective de leurs droits. La suppression de l'article 7-2 du cahier des clauses techniques particulières (CCTP) dans le nouveau marché répond strictement aux exigences issues du rapport de l'Inspection générale de l'administration de 2017 et tout particulièrement du rapport d'observations provisoires de la Cour des comptes S2019-2562-4. Dans ce rapport, la Cour des comptes estime que « l'insertion de cette clause dans le CCTP permet à l'association de réaliser son activité de plaidoyer militant y compris dans le cadre d'un marché public […] ». La mention litigieuse a été supprimée afin d'améliorer l'exécution du marché public. La suppression de cette mention n'entraîne en aucun cas une interdiction d'expression libre de la part des titulaires du marché, une norme contractuelle ne pouvant bien sûr supplanter une norme constitutionnelle. Par conséquent, le ministère de l'Intérieur veille à ce que la liberté d'expression et de témoignage des associations intervenantes dans les centres de rétention administrative soit garantie tout au long de l'exécution du marché.
