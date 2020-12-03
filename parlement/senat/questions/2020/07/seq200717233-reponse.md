@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717233
+
+- Question : [SEQ200717233](seq200717233.md) — Dispositif d'aide exceptionnelle pour les Français de l'étranger les plus vulnérables
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2020-12-03, page 5730*
+
+Au 20 juillet 2020, 3 472 compatriotes avaient bénéficié d'un secours occasionnel de solidarité mis en place pour venir en aide à nos compatriotes les plus directement victimes d'une dégradation grave de leur situation économique. Les conditions initiales pour l'obtention du secours occasionnel de solidarité, telles que posées en mai 2020, alors même que le 3ème projet de loi de finances rectificative n'était pas encore soumis à l'examen du Parlement, ont fait l'objet d'un assouplissement entre août et septembre : abandon progressif des critères de complémentarité avec les aides associatives, familiales, amicales, ainsi qu'avec les aides publiques locales ; abandon du caractère ponctuel de cette aide. Depuis début septembre et jusqu'à la fin de l'année 2020, ce secours occasionnel peut être versé chaque mois, que le demandeur en ait déjà bénéficié ou non. Ainsi au 10 novembre, les bénéficiaires de ce secours ont augmenté pour atteindre 15 251 personnes. Le montant accordé à cette date s'élève à 2 399 888 €. Les 5 premiers postes en montants versés sont : Beyrouth (250 979 €), Jérusalem (205 870 €), Tel Aviv (167 280 €), Mexico (87 447 €), et Rio de Janeiro (83 187 €). En ce qui concerne les organismes locaux d'entraide et de solidarité (OLES), 1 946 116 € ont déjà été engagés pour 98 d'entre eux, toujours au 10 novembre. Les postes consulaires ont reçu l'instruction de faire connaître l'existence de ce secours et ses adaptations successives par les canaux les plus appropriés : sur leur site internet, via les conseillers des Français de l'étranger, auprès des OLES ou des associations locales de Français.
