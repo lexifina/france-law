@@ -6,7 +6,7 @@ Elle est également perçue sur les produits animaux ou d'origine animale, origi
 
 La redevance n'est pas exigible pour les produits animaux ou d'origine animale destinés à un autre Etat membre de la Communauté européenne pour lesquels seul le contrôle documentaire est effectué par les services d'inspection français.
 
-2. La redevance pour contrôle vétérinaire est due par l'importateur, son représentant légal ou le commissionnaire en douane agréé.
+2. La redevance pour contrôle vétérinaire est due par l'importateur, son représentant légal ou le représentant en douane.
 
 Elle est recouvrée par le service des douanes selon les mêmes règles, sous les mêmes garanties et privilèges qu'en matière de droits de douane. Les infractions sont constatées et réprimées, et les instances instruites et jugées conformément aux dispositions du code des douanes.
 
