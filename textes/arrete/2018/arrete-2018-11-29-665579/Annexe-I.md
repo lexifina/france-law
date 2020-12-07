@@ -4,21 +4,17 @@ ANNEXE I
 
 LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
 
-1° Périmètre administration centrale, établissements publics et services à compétence nationale :
+1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
 Directions et services |
 
 Fonctions |
 
-Points
-
-de NBI |
+Points de NBI |
 
 Nombre d'emplois à forte responsabilité (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -184,7 +180,7 @@ Chef de la mission catastrophes naturelles au sein de la sous-direction de la pr
 
 1 |
 
-Direction des systèmes d'information et de communication |
+Direction du numérique |
 
 Chef du bureau du budget et de la programmation financière au sein de la sous-direction de l'administration générale et de l'achat. |
 
@@ -296,7 +292,7 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 Chef du bureau du pilotage des
 
-politiques sociales au sein de sous-direction de l'action sociale et de l'accompagnement du personnel. |
+politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
 
 50 |
 
@@ -406,11 +402,11 @@ Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'adm
 
 Chef du bureau des personnels administratifs, techniques et scientifiques au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
-50
+50 |
+
+-
 
 |
-
-- |
 
 1 |
 
@@ -429,6 +425,8 @@ Chef du département des réserves opérationnelles de la police nationale au se
 - |
 
 1 |
+
+|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -786,25 +784,23 @@ Secrétaire général. |
 
 - |
 
-1 |
+1
 
-2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur :
+|
+
+2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
 Directions et services |
 
 Fonctions |
 
-Points
-
-de NBI |
+Points de NBI |
 
 Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -858,15 +854,35 @@ Directeur de l'administration générale et des finances. |
 
 50 |
 
-- |
-
 1 |
+
+- |
 
 Directeur des ressources humaines. |
 
 60 |
 
+1 |
+
 - |
+
+|
+
+Adjoint directeur de l'administration générale et des finances. |
+
+- |
+
+|
+
+1 |
+
+|
+
+Adjoint au directeur des ressources humaines du SGAMI de la zone de défense et de sécurité Ouest. |
+
+- |
+
+|
 
 1 |
 
@@ -948,23 +964,19 @@ Directeur des ressources humaines. |
 
 1 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris :
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
 Directions et services |
 
 Fonctions |
 
-Points
-
-de NBI |
+Points de NBI |
 
 Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1238,23 +1250,19 @@ Chef de la division des affaires générales |
 
 1 |
 
-4° Périmètre services de police nationale :
+4° Périmètre services de police nationale
 
 Directions et services |
 
 Fonctions |
 
-Points de
-
-NBI |
+Points de NBI |
 
 Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1488,23 +1496,19 @@ Chef de la division de l'administration et des finances. |
 
 1 |
 
-5° Périmètre services de gendarmerie nationale :
+5° Périmètre services de gendarmerie nationale
 
 Directions et services |
 
 Fonctions |
 
-Points
-
-de NBI |
+Points de NBI |
 
 Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1558,25 +1562,19 @@ Chef du centre d'études et de documentation |
 
 1 |
 
-6° Périmètre juridictions administratives :
+6° Périmètre juridictions administratives
 
-Juridiction
-
-administrative |
+Juridiction administrative |
 
 Fonctions |
 
-Points
-
-de NBI |
+Points de NBI |
 
 Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1750,11 +1748,9 @@ Greffier en chef |
 
 1 |
 
-7° Périmètre préfectures :
+7° Périmètre préfectures
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
@@ -1770,13 +1766,7 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du
-
-nombre
-
-d'emplois
-
-de CAIOM |
+Total du nombre d'emplois de CAIOM |
 
 60 points |
 
@@ -1800,13 +1790,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -1824,13 +1814,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -1848,13 +1838,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2016,7 +2006,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2024,7 +2014,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2040,7 +2030,7 @@ Sans point de NBI |
 
 2 |
 
-2 |
+1 |
 
 - |
 
@@ -2050,7 +2040,7 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
 12 Aveyron |
 
@@ -2102,27 +2092,27 @@ Sans point de NBI |
 
 14 Calvados |
 
-- |
+1 |
 
 - |
 
 - |
 
+1 |
+
+- |
+
+3 |
+
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
-- |
-
-4 |
-
-- |
-
-- |
+|
 
 15 Cantal |
 
@@ -2160,13 +2150,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2184,13 +2174,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2294,19 +2284,13 @@ Sans point de NBI |
 
 21 Côte-d'Or |
 
-- |
+2 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-5 |
-
-- |
+2 |
 
 - |
 
@@ -2315,6 +2299,12 @@ Sans point de NBI |
 - |
 
 - |
+
+3 |
+
+- |
+
+2 |
 
 22 Côtes-d'Armor |
 
@@ -2376,13 +2366,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2400,13 +2390,13 @@ Sans point de NBI |
 
 - |
 
-5 |
+4 |
 
 - |
 
 - |
 
-5 |
+4 |
 
 - |
 
@@ -2472,13 +2462,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2568,7 +2558,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2576,7 +2566,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2688,13 +2678,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2760,7 +2750,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2768,7 +2758,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2808,13 +2798,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2856,7 +2846,7 @@ Sans point de NBI |
 
 - |
 
-8 |
+7 |
 
 - |
 
@@ -2866,23 +2856,17 @@ Sans point de NBI |
 
 - |
 
-1 |
+0 |
 
 45 Loiret |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-5 |
-
-- |
+1 |
 
 - |
 
@@ -2891,6 +2875,12 @@ Sans point de NBI |
 - |
 
 - |
+
+4 |
+
+- |
+
+1 |
 
 46 Lot |
 
@@ -2976,13 +2966,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3024,13 +3014,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3288,11 +3278,11 @@ Sans point de NBI |
 
 - |
 
-7 |
+6 |
 
 - |
 
-6 |
+5 |
 
 1 |
 
@@ -3360,7 +3350,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3368,7 +3358,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3432,13 +3422,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 1 |
 
-3 |
+2 |
 
 - |
 
@@ -3528,13 +3518,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3552,13 +3542,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3672,9 +3662,9 @@ Sans point de NBI |
 
 - |
 
-8 |
+7 |
 
-4 |
+3 |
 
 - |
 
@@ -3768,7 +3758,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3776,7 +3766,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3816,13 +3806,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3936,7 +3926,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3944,7 +3934,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3960,7 +3950,7 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -3968,7 +3958,7 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -4200,13 +4190,13 @@ Sans point de NBI |
 
 - |
 
-5 |
+4 |
 
 - |
 
 - |
 
-5 |
+4 |
 
 - |
 
@@ -4303,6 +4293,732 @@ Sans point de NBI |
 - |
 
 2 |
+
+- |
+
+- |
+
+8° Périmètre secrétariat général commun départemental
+
+Localisation des emplois |
+
+Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
+
+Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
+
+Total du nombre d'EFR |
+
+60 points |
+
+50 points |
+
+30 points |
+
+20 points |
+
+Total du nombre d'emplois de CAIOM |
+
+60 points |
+
+50 points |
+
+30 points |
+
+20 points |
+
+Sans point de NBI |
+
+01 Ain |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+02 Aisne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+03 Allier |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+10 Aube |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+11 Aude |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+|
+
+1 |
+
+14 Calvados |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+16 Charente |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+17 Charente-Maritime |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+24 Dordogne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+25 Doubs |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+28 Eure-et-Loir |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+32 Gers |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+37 Indre-et-Loire |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+40 Landes |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+42 Loire |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+44 Loire Atlantique |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+49 Maine-et-Loire |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+51 Marne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+62 Pas de Calais |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+65 Hautes Pyrénées |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+68 Haut-Rhin |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+72 Sarthe |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+73 Savoie |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+78 Yvelines |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+82 Tarn-et-Garonne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+84 Vaucluse |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+89 Yonne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+90 Territoire de Belfort |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+974 La Réunion |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
 
 - |
 

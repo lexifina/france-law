@@ -32,7 +32,7 @@ Direction générale des étrangers en France |
 
 Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
-Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers. |
+Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers |
 
 Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : |
 
@@ -50,11 +50,11 @@ Direction de la police générale |
 
 Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
 
-Chef du 8e bureau au sein de la sous-direction de l'administration des étrangers. |
+Chef du 8e bureau au sein de la sous-direction de l'administration des étrangers |
 
 Direction de la sécurité de proximité de l'agglomération parisienne |
 
-Chef du service de gestion opérationnelle des personnels et des équipements au sein de la sous-direction de la gestion opérationnelle. |
+Chef la du sous-direction service de gestion de la gestion opérationnelle des personnels et des équipements au sein de la sous-direction de la gestion opérationnelle. |
 
 Direction opérationnelle des services techniques et logistiques |
 
@@ -106,9 +106,7 @@ Yvelines |
 
 Directeur de la citoyenneté, de l'immigration et de l'intégration. |
 
-Directeur du management, des moyens et de la modernisation interministérielle. |
-
-Directeur des relations avec les collectivités locales. |
+Directeur de la réglementation et des collectivités locales. |
 
 Essonne |
 
@@ -135,3 +133,11 @@ Directeur de la citoyenneté et de la légalité. |
 Val-d'Oise |
 
 Directeur des migrations et de l'intégration. |
+
+Secrétariat général commun départemental |
+
+|
+
+Yvelines |
+
+Directeur adjoint du secrétariat général commun départemental. |
