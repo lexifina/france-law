@@ -1,0 +1,10 @@
+# proposition de loi visant à créer le crime de violence sexuelle sur enfant et à lutter contre les violences sexuelles
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à créer le crime de violence sexuelle sur enfant et à lutter contre les violences sexuelles
+- Déposé le : 2020-12-08
+- Dossier : DLR5L15N41079
+- Auteurs : Mme Laurence Rossignol (auteur), Mme Michelle Meunier (auteur), Mme Marie-Noëlle Lienemann (auteur), M. Maurice Antiste (auteur), M. Hussein Bourgi (auteur), M. Sebastien Pla (auteur), M. Thierry Cozic (auteur), M. Patrice Joly (auteur), M. Patrick Kanner (auteur), Mme Claudine Lepage (auteur), Mme Catherine Conconne (auteur), Mme Laurence Harribey (auteur), M. André Vallini (auteur), Mme Annie Le Houerou (auteur), Mme Émilienne Poumirol (auteur), M. Jean-Claude Tissot (auteur), Mme Sylvie Robert (auteur), Mme Marie-Pierre Monier (auteur), M. Hervé Gillé (auteur), M. Éric Kerrouche (auteur), M. Olivier Jacquin (auteur), Mme Esther Benbassa (auteur), M. Éric Jeansannetas (auteur), Mme Hélène Conway-Mouret (auteur), Mme Monique Lubin (auteur), M. Serge Mérillou (auteur), Mme Martine Filleul (auteur), M. Rachid Temal (auteur), M. Joël Bigot (auteur), M. Michel Dagbert (auteur), Mme Victoire Jasmin (auteur), Mme Florence Blatrix Contat (auteur), Mme Sabine Van Heghe (auteur), M. Jacques-Bernard Magner (auteur), M. David Assouline (auteur), Mme Angèle Préville (auteur), Mme Frédérique Espagnac (auteur), Mme Isabelle Briquet (auteur), M. Christian Redon-Sarrazy (auteur), M. Jérôme Durain (auteur), M. Bernard Jomier (auteur), M. Rémi Cardon (auteur), Mme Nicole Bonnefoy (auteur), Mme Sophie Taillé-Polian (auteur), M. Didier Marie (auteur), Mme Corinne Féret (auteur), M. Vincent Éblé (auteur), M. Jean-Marc Todeschini (auteur), Mme Gisèle Jourda (auteur), M. Jean-Jacques Michau (auteur), M. Lucien Stanzione (auteur), M. Franck Montaugé (auteur), M. Denis Bouad (auteur), M. Jean-Pierre Sueur (auteur)
+- Identifiant : PIONSNR5S359B0201
