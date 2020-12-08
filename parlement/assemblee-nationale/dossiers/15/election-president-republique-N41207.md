@@ -1,0 +1,51 @@
+# Élection du Président de la République
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N41207
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/election_president_republique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-285.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-12-21 : 1er dépôt d'une initiative. (PRJLANR5L15B3713)
+  - 2020-12-21 : Etude d'impact (ETDIANR5L15B3713)
+  - 2020-12-21 : Avis du Conseil d'Etat (AVCEANR5L15B3713)
+  - 2020-12-21 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-21 : Renvoi en commission au fond
+      - 2020-12-08 : Nomination de rapporteur
+      - 2021-01-13 : Dépôt de rapport (RAPPANR5L15B3732, PRJLANR5L15BTC3732)
+  - Discussion en séance publique
+    - 2021-01-19 : Discussion en séance publique
+    - 2021-01-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-01-20 : Dépôt d'une initiative en navette (PRJLSNR5S359B0285)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-02-10 : Dépôt de rapport (RAPPSNR5S359B0354, PRJLSNR5S359BTC0355)
+  - Discussion en séance publique
+    - 2021-02-18 : Décision
+- Commission Mixte Paritaire
+  - 2021-02-19 : Dépôt d'un projet de loi (PRJLANR5L15B3904)
+  - 2021-02-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-03-02 : Nomination de rapporteur
+    - 2021-03-02 : Dépôt du rapport d'une CMP (RAPPANR5L15B3933, PRJLANR5L15BTC3933)
+    - 2021-03-02 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0396, PRJLSNR5S359BTC0397)
+  - Discussion en séance publique
+    - 2021-03-09 : Discussion en séance publique
+    - 2021-03-09 : Discussion en séance publique
+    - 2021-03-09 : Décision
+  - Discussion en séance publique
+    - 2021-03-11 : Décision
+  - 2021-03-03 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-03-12 : Saisine du conseil constitutionnel
+  - 2021-03-25 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-03-29 : Promulgation d'une loi
