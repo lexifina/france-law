@@ -1,0 +1,136 @@
+# Respect des principes de la République
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41074
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/respects_principes_republique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-369.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-12-09 : 1er dépôt d'une initiative. (PRJLANR5L15B3649)
+  - 2020-12-09 : Etude d'impact (ETDIANR5L15B3649)
+  - 2020-12-09 : Avis du Conseil d'Etat (AVCEANR5L15B3649)
+  - 2020-12-09 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-09 : Renvoi en commission au fond
+      - 2020-12-16 : Nomination de rapporteur
+      - 2020-12-16 : Réunion de commission
+      - 2020-12-17 : Réunion de commission
+      - 2020-12-17 : Réunion de commission
+      - 2021-01-06 : Réunion de commission
+      - 2021-01-06 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-11 : Réunion de commission
+      - 2021-01-18 : Réunion de commission
+      - 2021-01-18 : Réunion de commission
+      - 2021-01-19 : Réunion de commission
+      - 2021-01-19 : Réunion de commission
+      - 2021-01-20 : Réunion de commission
+      - 2021-01-20 : Réunion de commission
+      - 2021-01-20 : Réunion de commission
+      - 2021-01-21 : Réunion de commission
+      - 2021-01-21 : Réunion de commission
+      - 2021-01-21 : Réunion de commission
+      - 2021-01-22 : Réunion de commission
+      - 2021-01-22 : Réunion de commission
+      - 2021-01-22 : Réunion de commission
+      - 2021-01-23 : Réunion de commission
+      - 2021-01-23 : Réunion de commission
+      - 2021-02-01 : Réunion de commission
+      - 2021-01-25 : Dépôt de rapport (RAPPANR5L15B3797, PRJLANR5L15BTC3797)
+  - Discussion en séance publique
+    - 2021-02-01 : Discussion en séance publique
+    - 2021-02-01 : Discussion en séance publique
+    - 2021-02-02 : Discussion en séance publique
+    - 2021-02-02 : Discussion en séance publique
+    - 2021-02-03 : Discussion en séance publique
+    - 2021-02-03 : Discussion en séance publique
+    - 2021-02-04 : Discussion en séance publique
+    - 2021-02-04 : Discussion en séance publique
+    - 2021-02-04 : Discussion en séance publique
+    - 2021-02-05 : Discussion en séance publique
+    - 2021-02-05 : Discussion en séance publique
+    - 2021-02-05 : Discussion en séance publique
+    - 2021-02-08 : Discussion en séance publique
+    - 2021-02-08 : Discussion en séance publique
+    - 2021-02-10 : Discussion en séance publique
+    - 2021-02-10 : Discussion en séance publique
+    - 2021-02-11 : Discussion en séance publique
+    - 2021-02-11 : Discussion en séance publique
+    - 2021-02-11 : Discussion en séance publique
+    - 2021-02-12 : Discussion en séance publique
+    - 2021-02-12 : Discussion en séance publique
+    - 2021-02-12 : Discussion en séance publique
+    - 2021-02-13 : Discussion en séance publique
+    - 2021-02-16 : Discussion en séance publique
+    - 2021-02-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-02-17 : Dépôt d'une initiative en navette (PRJLSNR5S359B0369)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-03-18 : Dépôt de rapport (RAPPSNR5S359B0454, PRJLSNR5S359BTC0455)
+  - Discussion en séance publique
+    - 2021-04-12 : Décision
+- Commission Mixte Paritaire
+  - 2021-04-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-05-12 : Nomination de rapporteur
+    - 2021-05-12 : Dépôt du rapport d'une CMP (RAPPANR5L15B4156)
+    - 2021-05-12 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0590, PRJLSNR5S359BTC0591)
+  - 2021-05-14 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-04-13 : Dépôt d'une initiative en navette (PRJLANR5L15B4078)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-04-13 : Renvoi en commission au fond
+      - 2021-06-07 : Réunion de commission
+      - 2021-06-07 : Réunion de commission
+      - 2021-06-08 : Réunion de commission
+      - 2021-06-09 : Réunion de commission
+      - 2021-06-09 : Réunion de commission
+      - 2021-06-28 : Réunion de commission
+      - 2021-06-09 : Dépôt de rapport (RAPPANR5L15B4239, PRJLANR5L15BTC4239)
+  - Discussion en séance publique
+    - 2021-06-28 : Discussion en séance publique
+    - 2021-06-28 : Discussion en séance publique
+    - 2021-06-29 : Discussion en séance publique
+    - 2021-06-29 : Discussion en séance publique
+    - 2021-06-30 : Discussion en séance publique
+    - 2021-06-30 : Discussion en séance publique
+    - 2021-07-01 : Discussion en séance publique
+    - 2021-07-01 : Discussion en séance publique
+    - 2021-07-01 : Décision
+- Nouvelle Lecture
+  - 2021-07-02 : Dépôt d'une initiative en navette (PRJLSNR5S359B0734)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-02 : Renvoi en commission au fond
+      - 2021-07-07 : Dépôt de rapport (RAPPSNR5S359B0744, PRJLSNR5S359BTC0745)
+  - Discussion en séance publique
+    - 2021-07-20 : Discussion en séance publique
+    - 2021-07-20 : Décision
+- Lecture définitive
+  - 2021-07-21 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0641)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-21 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2021-07-23 : Discussion en séance publique
+    - 2021-07-23 : Décision
+- Conseil constitutionnel
+  - 2021-07-26 : Saisine du conseil constitutionnel
+  - 2021-07-26 : Saisine du conseil constitutionnel
+  - 2021-07-26 : Saisine du conseil constitutionnel
+  - 2021-08-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-08-24 : Promulgation d'une loi
