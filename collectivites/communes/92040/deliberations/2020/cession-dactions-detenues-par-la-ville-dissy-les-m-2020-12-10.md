@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Cession d’actions détenues par la Ville d’Issy-les-Moulineaux dans le capital social de la SEMADS devenue Société d’Economie Mixte SEINE OUEST HABITAT ET PATRIMOINE
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : URBANISME
+- Objet : Cession d’actions détenues par la Ville d’Issy-les-Moulineaux dans le capital social de la SEMADS devenue Société d’Economie Mixte SEINE OUEST HABITAT ET PATRIMOINE
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NDIsInB1ciI6ImJsb2JfaWQifX0=--b34d411aa43e86cf10f6f03824e1c33d71902942/101220_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
