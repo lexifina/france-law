@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — ZAC Léon Blum. Décision de désaffectation de la crèche Arc en ciel sise 35 rue Aristide BRIAND en vue du prononcé de son déclassement par anticipation
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : PATRIMOINE
+- Objet : ZAC Léon Blum. Décision de désaffectation de la crèche Arc en ciel sise 35 rue Aristide BRIAND en vue du prononcé de son déclassement par anticipation
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNDIsInB1ciI6ImJsb2JfaWQifX0=--0686517b23cb6c2df967fa5335a74b153acbbfae/101220_27.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
