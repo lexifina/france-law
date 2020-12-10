@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Adoption de la nomenclature comptable M57 au 1er janvier 2021
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : FINANCES
+- Objet : Adoption de la nomenclature comptable M57 au 1er janvier 2021
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NDIsInB1ciI6ImJsb2JfaWQifX0=--57b817645309b2478010d55a38c90c8d93c58b65/101220_03.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
