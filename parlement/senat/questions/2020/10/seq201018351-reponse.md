@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018351
+
+- Question : [SEQ201018351](seq201018351.md) — Réponse à la question n° 16606
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2020-12-10, page 5894*
+
+Conformément aux dispositions de l'article L. 5211-11-1 créé par l'article 11 de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique, « dans les communautés de communes, les communautés d'agglomération, les communautés urbaines et les métropoles, le président peut décider que la réunion du conseil communautaire se tient par téléconférence, dans des conditions fixées par décret en Conseil d'État. ». Le décret n° 2020-904 du 24 juillet 2020 fixant les conditions de réunion par téléconférence du conseil communautaire dans les établissements publics de coopération intercommunale à fiscalité propre a précisé les modalités de mise en oeuvre de ce texte. Cette faculté a été codifiée aux articles R. 5211-2 et s. du Code général des collectivités territoriales (CGCT). Ce dispositif est issu d'un amendement adopté par la commission des lois de l'Assemblée nationale, en 1ère lecture, il ne concernait initialement que les communautés de communes et les communautés d'agglomération. Plusieurs amendements avaient été déposés dans le même sens. Lors de la séance publique à l'Assemblée nationale, un amendement a étendu le dispositif aux communautés urbaines et aux métropoles. L'ensemble des établissements publics de coopération intercommunale à fiscalité propre peut donc désormais se réunir par téléconférence. L'extension aux autres collectivités territoriales, à leurs commissions permanentes et à leurs bureaux de la possibilité d'utiliser la visioconférence nécessite une modification des dispositions législatives qui devra, le cas échéant, faire l'objet d'un examen par le Parlement.
