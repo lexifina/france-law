@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ATTRIBUTION DE PARTICIPATIONS FINANCIERES A DES ASSOCIATIONS OEUVRANT DANS LE CADRE DU DISPOSITIF POIVRE AU SEIN DES ECOLES PRIVEES SOUS CONTRAT POUR L'ANNEE 2020-2021 SIGNATURES DE CONVENTIONS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-12-10
+- Séance : Conseil Municipal 1CA
+- Objet : ATTRIBUTION DE PARTICIPATIONS FINANCIERES A DES ASSOCIATIONS OEUVRANT DANS LE CADRE DU DISPOSITIF POIVRE AU SEIN DES ECOLES PRIVEES SOUS CONTRAT POUR L'ANNEE 2020-2021 SIGNATURES DE CONVENTIONS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12378-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
