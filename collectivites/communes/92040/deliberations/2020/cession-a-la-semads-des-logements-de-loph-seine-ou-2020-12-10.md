@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Cession à la SEMADS des logements de l’OPH Seine Ouest Habitat implantés sur le territoire de la Ville d’Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : URBANISME
+- Objet : Cession à la SEMADS des logements de l’OPH Seine Ouest Habitat implantés sur le territoire de la Ville d’Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ2OTgsInB1ciI6ImJsb2JfaWQifX0=--dd95f98700db87ece79d4a0a18d190d61927e0d8/101220_13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
