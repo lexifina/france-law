@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation donnée à Monsieur le Maire d’engager, liquider et mandater des dépenses d’investissement dans la limite du quart des crédits ouverts en 2020
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : FINANCES
+- Objet : Autorisation donnée à Monsieur le Maire d’engager, liquider et mandater des dépenses d’investissement dans la limite du quart des crédits ouverts en 2020
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NDQsInB1ciI6ImJsb2JfaWQifX0=--44138b741cfd3fce7d7d5113bf7d096ff057d9ec/101220_08.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
