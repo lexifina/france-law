@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du nouveau plan de récolement décennal des collections du Musée Français de la Carte à Jouer et Galerie d’Histoire de la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : CULTURE
+- Objet : Approbation du nouveau plan de récolement décennal des collections du Musée Français de la Carte à Jouer et Galerie d’Histoire de la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzNTMsInB1ciI6ImJsb2JfaWQifX0=--22b5be251b86320a812e6ab4bcf9656f885e6945/101220_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
