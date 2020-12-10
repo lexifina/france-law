@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des statuts de la Société d’Economie Mixte SEINE OUEST HABITAT ET PATRIMOINE
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2020-12-10
+- Matière : URBANISME
+- Objet : Approbation des statuts de la Société d’Economie Mixte SEINE OUEST HABITAT ET PATRIMOINE
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzNTEsInB1ciI6ImJsb2JfaWQifX0=--c8fbafc661c93fcb269b112601846653ce88520c/101220_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
