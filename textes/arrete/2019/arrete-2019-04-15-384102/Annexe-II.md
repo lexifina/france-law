@@ -20,7 +20,7 @@ Pseudomonas aeruginosa |
 
 1 analyse avant le début de la saison d'ouverture de la baignade artificielle au public puis fréquence d'analyses bimensuelle pendant la saison d'ouverture de la baignade artificielle au public* |
 
-Staphylococcus aureus |
+Staphylocoques pathogènes |
 
 1 analyse avant le début de la saison d'ouverture de la baignade artificielle au public puis fréquence d'analyses bimensuelle pendant la saison d'ouverture de la baignade artificielle au public* |
 

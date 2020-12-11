@@ -74,7 +74,7 @@ Pseudomonas aeruginosa |
 
 (UFC/ 100mL) |
 
-Staphylococcus aureus |
+Staphylocoques pathogènes |
 
 20 |
 
