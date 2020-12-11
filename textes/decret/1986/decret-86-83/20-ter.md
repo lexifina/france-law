@@ -1,0 +1,53 @@
+# Article 20 ter
+
+I.-L'agent contractuel a droit, sur sa demande, à un congé de proche aidant d'une durée maximale de trois mois renouvelable dans la limite d'un an sur l'ensemble de sa carrière lorsque l'une des personnes mentionnées à l'article L. 3142-16 du code du travail présente un handicap ou une perte d'autonomie d'une particulière gravité.
+
+Ce congé n'est pas rémunéré.
+
+Le congé de proche aidant se prend selon la ou les modalités suivantes :
+
+1° Pour une période continue ;
+
+2° Pour une ou plusieurs périodes fractionnées d'au moins une journée ;
+
+3° Sous la forme d'un service à temps partiel.
+
+II.-Pour bénéficier du congé de proche aidant, l'agent contractuel adresse une demande écrite, au moins un mois avant la date du début du congé, au chef de service dont il relève. En cas de renouvellement, il adresse sa demande au moins quinze jours avant le terme du congé.
+
+Il indique dans sa demande les dates prévisionnelles de congé ainsi que, le cas échéant, les modalités de son utilisation en application du I.
+
+En vue d'établir ses droits, l'agent fournit à l'appui de sa demande les pièces justificatives mentionnées à l'article D. 3142-8 du code du travail.
+
+III.-L'agent contractuel bénéficiaire du congé de proche aidant peut en modifier les dates prévisionnelles et les modalités d'utilisation choisies.
+
+Dans ce cas, il en informe par écrit le chef de service dont il relève, avec un préavis d'au moins quarante-huit heures.
+
+IV.-Les délais prévus au premier alinéa du II et au second alinéa du III ne sont pas applicables, et le congé débute ou peut être renouvelé sans délai, lorsque la demande de bénéfice ou de renouvellement du congé de proche aidant ou la modification de sa modalité ou de ses modalités d'utilisation et de ses dates prévisionnelles intervient pour l'un des motifs suivants :
+
+1° La dégradation soudaine de l'état de santé de la personne aidée ;
+
+2° Une situation de crise nécessitant une action urgente du proche aidant ;
+
+3° La cessation brutale de l'hébergement en établissement dont bénéficiait la personne aidée.
+
+Dans ces cas, l'agent contractuel transmet, sous huit jours, au chef de service dont il relève, le certificat médical qui atteste de la dégradation soudaine de l'état de santé de la personne aidée ou de la situation de crise nécessitant une action urgente du proche aidant ou l'attestation qui certifie de la cessation brutale de l'hébergement en établissement.
+
+V.-L'agent contractuel bénéficiaire du congé de proche aidant peut mettre fin de façon anticipée à son congé ou y renoncer dans les cas suivants :
+
+1° Décès de la personne aidée ;
+
+2° Admission dans un établissement de la personne aidée ;
+
+3° Diminution importante des ressources du fonctionnaire ;
+
+4° Recours à un service d'aide à domicile pour assister la personne aidée ;
+
+5° Congé de proche aidant pris par un autre membre de la famille ;
+
+6° Lorsque l'état de santé de l'agent le nécessite.
+
+Il en informe par écrit le chef de service dont il relève au moins quinze jours avant la date à laquelle il entend bénéficier de ces dispositions.
+
+En cas de décès de la personne aidée, ce délai est ramené à huit jours.
+
+VI.-L'agent contractuel bénéficiaire du congé de proche aidant conserve le bénéfice de son contrat ou de son engagement, dans les conditions de réemploi définies aux articles 32 et 33.
