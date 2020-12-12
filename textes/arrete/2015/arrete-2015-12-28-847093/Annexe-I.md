@@ -10,11 +10,11 @@ Nombre maximal d'emplois |
 
 Catégorie I |
 
-113 |
+54 |
 
 Catégorie II |
 
-168 |
+166 |
 
 Catégorie III |
 
