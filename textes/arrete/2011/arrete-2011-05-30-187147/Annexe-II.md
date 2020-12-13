@@ -116,7 +116,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie, y compris au sein du service militaire adapté.
 
-Agents affectés à l'étranger sauf ceux en fonctions en Allemagne, aux Emirats Arabes Unis et les agents régis par le décret du 18 juin 1969 susvisés .
+Agents affectés à l'étranger sauf ceux en fonctions en Allemagne, aux Emirats Arabes Unis et les agents régis par le décret du 18 juin 1969 susvisés.
 
 Agents en fonctions au sein de la direction du renseignement et de la sécurité de la défense.
 
@@ -144,7 +144,7 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération . |
+-Conseil national de l'ordre des communes Compagnon de la Libération. |
 
 Adjoint administratif principal de 1re classe |
 
@@ -240,13 +240,13 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes ;
+- centre du service national et de la jeunesse de Nîmes ;
 
--centre du service national de Nice ;
+- centre du service national et de la jeunesse de Nice ;
 
--centre du service national de Marseille ;
+- centre du service national et de la jeunesse de Marseille ;
 
--centre du service national de Perpignan.
+- centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -386,7 +386,7 @@ Le directeur du CMG de Toulon. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national et de la jeunesse de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national et de la jeunesse de Marseille, Gard (30), à l'exception du centre du service national et de la jeunesse de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national et de la jeunesse de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions au sein l'Ecole de l'Air.
 
@@ -614,7 +614,7 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération . |
+-Conseil national de l'ordre des communes Compagnon de la Libération. |
 
 Agent technique principal de 1re classe |
 
@@ -710,13 +710,13 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes ;
+- centre du service national et de la jeunesse de Nîmes ;
 
--centre du service national de Nice ;
+- centre du service national et de la jeunesse de Nice ;
 
--centre du service national de Marseille ;
+- centre du service national et de la jeunesse de Marseille ;
 
--centre du service national de Perpignan.
+- centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -858,7 +858,7 @@ Le directeur du CMG de Toulon. |
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national et de la jeunesse de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national et de la jeunesse de Marseille, Gard (30), à l'exception du centre du service national et de la jeunesse de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national et de la jeunesse de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions au sein l'Ecole de l'Air.
 
@@ -1120,7 +1120,7 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération . |
+-Conseil national de l'ordre des communes Compagnon de la Libération. |
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1218,13 +1218,13 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes ;
+- centre du service national et de la jeunesse de Nîmes ;
 
--centre du service national de Nice ;
+- centre du service national et de la jeunesse de Nice ;
 
--centre du service national de Marseille ;
+- centre du service national et de la jeunesse de Marseille ;
 
--centre du service national de Perpignan.
+- centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -1366,7 +1366,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04),
 
-Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
+Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national et de la jeunesse de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national et de la jeunesse de Marseille, Gard (30), à l'exception du centre du service national et de la jeunesse de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national et de la jeunesse de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions au sein l'Ecole de l'Air.
 
@@ -1466,9 +1466,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléantsPersonnel |
 
-Personnel mis à disposition et administré par les services de l'administration centrale.
+mis à disposition et administré par les services de l'administration centrale.
 
 Agents en fonctions :
 
@@ -1580,7 +1580,7 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération . |
+-Conseil national de l'ordre des communes Compagnon de la Libération. |
 
 Secrétaire administratif de classe normale |
 
@@ -1676,13 +1676,13 @@ Secrétaire administratif de classe supérieure |
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
--centre du service national de Nîmes ;
+- centre du service national et de la jeunesse de Nîmes ;
 
--centre du service national de Nice ;
+- centre du service national et de la jeunesse de Nice ;
 
--centre du service national de Marseille ;
+- centre du service national et de la jeunesse de Marseille ;
 
--centre du service national de Perpignan.
+- centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -1816,7 +1816,7 @@ et
 
 suppléants |
 
--Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national de Marseille, Gard (30), à l'exception du centre du service national de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national de Perpignan, Var (83), Vaucluse (84).
+-Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national et de la jeunesse de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national et de la jeunesse de Marseille, Gard (30), à l'exception du centre du service national et de la jeunesse de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national et de la jeunesse de Perpignan, Var (83), Vaucluse (84).
 
 Agents en fonctions au sein l'Ecole de l'Air.
 
@@ -1942,6 +1942,6 @@ normale
 
 |
 
-2 |
+22 |
 
-2 |
+|

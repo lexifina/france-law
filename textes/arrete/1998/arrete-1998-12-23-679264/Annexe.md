@@ -1016,7 +1016,7 @@ Bureau du service national (BSN) de Valenciennes (Nord).
 
 Bureau du service national (BSN) de Versailles (Yvelines).
 
-Centre du service national (CSN) de Montpellier (Hérault).
+Centre du service national et de la jeunesse de Montpellier (Hérault).
 
 Centre de sélection (CS) n° 1 de Vincennes (Val-de-Marne).
 
