@@ -1,0 +1,57 @@
+# Lutte contre la maltraitance animale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41126
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/maltraitance_animale
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-326.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-12-14 : 1er dépôt d'une initiative. (PIONANR5L15B3661)
+  - 2020-12-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-14 : Renvoi en commission au fond
+      - 2021-01-13 : Nomination de rapporteur
+      - 2021-01-13 : Réunion de commission
+      - 2021-01-20 : Réunion de commission
+      - 2021-01-20 : Réunion de commission
+      - 2021-01-26 : Réunion de commission
+      - 2021-01-20 : Dépôt de rapport (RAPPANR5L15B3791, PIONANR5L15BTC3791)
+  - Discussion en séance publique
+    - 2021-01-26 : Discussion en séance publique
+    - 2021-01-26 : Discussion en séance publique
+    - 2021-01-27 : Discussion en séance publique
+    - 2021-01-29 : Discussion en séance publique
+    - 2021-01-29 : Discussion en séance publique
+    - 2021-01-29 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-01-29 : Dépôt d'une initiative en navette (PIONSNR5S359B0326)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-29 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-09-22 : Dépôt de rapport (RAPPSNR5S359B0844, PIONSNR5S359BTC0845)
+  - Discussion en séance publique
+    - 2021-09-30 : Décision
+- Commission Mixte Paritaire
+  - 2021-10-01 : Dépôt d'un projet de loi (PIONANR5L15B4510)
+  - 2021-10-04 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-10-21 : Nomination de rapporteur
+    - 2021-10-21 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0086, PIONSNR5S379BTC0087)
+    - 2021-10-21 : Dépôt du rapport d'une CMP (RAPPANR5L15B4606, PIONANR5L15BTC4606)
+  - Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Décision
+  - Discussion en séance publique
+    - 2021-11-18 : Discussion en séance publique
+    - 2021-11-18 : Décision
+  - 2021-10-22 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-11-30 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2022-12-14 : Rapport sur l'application des lois (RINFANR5L16B0609)
