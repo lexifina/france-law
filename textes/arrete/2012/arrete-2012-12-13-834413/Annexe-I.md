@@ -1,72 +1,82 @@
 # Article Annexe I
 
-PROGRAMME DES SPÉCIALITÉS CONCERNANT L'ÉPREUVE ÉCRITE D'ADMISSIBILITÉ N° 2
+PROGRAMME DE L'ÉPREUVE D'ADMISSIBILITÉ NO 2
 
-Spécialité "technique générale"
+Spécialité “ Techniques générales ”
 
-I. ― Bâtiment
+Au choix un des deux domaines suivants :
 
-Mécanique et technologie des structures.
+Domaine eau-environnement-risques naturels.
 
-Préparation et conduite de chantier.
+Compétences attendues :
 
-Topographie, essais, mesures, contrôle, études et travaux.
+-disposer des connaissances fondamentales et du vocabulaire de base des différents domaines relevant des sciences de l'environnement ;
 
-Etudes des constructions (économie générale de l'entreprise, estimation, évaluation, gestion financière de travaux, planification, assistance technique et économique, droit social et droit de la construction).
+-expliquer les phénomènes physiques simples qui régissent les domaines de l'environnement (Développement durable, pollutions, nuisances, risques, protection de la nature, gestion de l'eau) ;
 
-II. ― Travaux publics
+-identifier les enjeux généraux dans le domaine des milieux naturels, écosystèmes, biodiversité, risques, ressources naturelles ;
 
-Etude des ouvrages, mécanique des structures et technologie des constructions (résistance des matériaux, utilisation du béton, terrassements et fondations, réalisation d'ouvrages d'art, de routes, d'aérodromes et de voies ferrées).
+-identifier les éléments relatifs aux enjeux environnementaux afin de les intégrer au plus tôt dans les projets d'aménagement du territoire.
 
-Organisation des chantiers, planification et phasage des travaux.
+Contenus :
 
-Essais, mesures et contrôles.
+-le vivant : la terminologie, les définitions, les fondamentaux en écologie, le génie écologique ;
 
-Droit des travaux publics.
+-la biodiversité, la biosphère, l'Homme dans la biosphère, les différents types d'habitat, les corridors biologiques, le cycle du carbone, de l'eau, de la vie, les écosystèmes ;
 
-III. ― Informatique
+-l'eau : les fondamentaux de l'hydraulique et de l'hydrologie, la qualité de l'eau, les usages de l'eau ;
 
-Algorithmique et programmation, architecture, systèmes et réseaux.
+-le territoire : la terminologie, les définitions, les fondamentaux en géologie ;
 
-Outils et modèles du génie logiciel.
+-hydrogéomorphologie, climat, énergies renouvelables ;
 
-Mathématiques pour l'informatique.
+-les risques naturels majeurs : la terminologie, les concepts clefs, la gestion de crise.
 
-Analyse économique, managériale et juridique des services informatiques et des méthodes et des techniques informatiques.
+Domaine aménagement durable des territoires.
 
-Economie, management et droit de l'informatique.
+Compétences attendues :
 
-IV. ― Gestion et protection de la nature
+-disposer des fondamentaux sur les aspects sociaux, économiques et géomorphologiques d'un territoire ;
 
-A. ― Environnement
+-analyser le fonctionnement des territoires dans leurs diverses dimensions (environnementale, économique, sociale) ;
 
-Gestion des espaces naturels : sciences économiques, zootechnie, sciences et techniques de l'aménagement, apprentissage des opérations techniques et financières nécessaires à la gestion d'un espace naturel.
+-disposer des bases réglementaires en matière d'urbanisme, de construction et d'aménagement et de politique foncière ;
 
-Animation de la nature : biologie-écologie, sciences et techniques de l'aménagement des espaces naturels.
+-disposer des fondamentaux sur problématiques d'habitat et de logement aux différentes échelles de territoire (cadre législatif et réglementaire, principaux acteurs) ;
 
-B. ― Eau
+-disposer d'une culture technique générale en bâtiment et la terminologie utilisée, comprendre les rôles et missions des acteurs de la construction aux différentes étapes d'un projet de construction, appréhender les principales réglementations.
 
-Techniques économiques.
+Contenus :
 
-Agronomie.
+-Géographie : géographie physique et humaine (contexte historique, impacts sur les choix d'aménagement), géomorphologie, géomatique et SIG, géographie des transports ;
 
-Génie civil.
+-Economie : notions d'économie pour comprendre le fonctionnement des marchés, les principes économiques et les impacts de l'économie dans l'aménagement du territoire ;
 
-Techniques des équipements.
+-Urbanisme (historique législatif et réglementaire de l'urbanisme, documents de planification, connaissances réglementaires d'une opération d'urbanisme, outils fonciers, autorisations d'urbanisme) ;
 
-L'homme et l'hydrosphère.
+-Bâtiment (terminologie de base du bâtiment, accessibilité, énergie et thermique du bâtiment, bruit en bâtiment, santé) ;
 
-L'hydraulique et l'hydrotechnie.
+-Logement et habitat (historique des principales problématiques du marché du logement, principaux acteurs du domaine de l'habitat, stratégies résidentielles).
 
-La maîtrise des pollutions.
+Spécialité “ Exploitation et entretien des infrastructures ”
 
-Cartographie et topographie.
+Au choix un des deux domaines suivants :
 
-Spécialité "exploitation et entretien des infrastructures"
+Domaine Gestion et maintenance des bâtiments.
 
-I. ― Gestion et maintenance des bâtiments
+Compétences attendues :
 
-A. ― Technique du bâtiment
+-disposer des bases techniques permettant l'analyse des phénomènes physiques dans le domaine de l'infrastructure des bâtiments ;
+
+-utiliser les bases techniques nécessaires à la réalisation d'un projet de bâtiment ;
+
+-savoir mobiliser les différents outils (techniques et méthodologiques) et ressources nécessaires à la réalisation des études techniques ;
+
+-savoir appréhender, dès la conception, l'entretien (conservation et évolution du patrimoine) et l'exploitation de l'infrastructure (bâtiment).
+
+Contenus :
+
+-Technique du bâtiment.
 
 Notion sur la résistance des matériaux des structures.
 
@@ -74,49 +84,69 @@ Technologie, matériaux, maintenance et normes en vigueur de tous les corps d'é
 
 Notions générales sur les équipements : courants forts, courants faibles, chauffages, ventilation, climatisation, éclairage, circulation des fluides.
 
-Lecture de plans et métré.
+Lecture de plans et métrés.
 
-B. ― Méthodes et ingénierie
+-Méthodes et ingénierie.
 
-Organisation et suivi des chantiers de bâtiment.
-
-Conduite d'opération, organisation de la maîtrise d'ouvrage et de la maîtrise d'œuvre.
+Conduite d'opération, organisation de la maitrise d'ouvrage et de la maitrise d'œuvre.
 
 Gestion de patrimoine, organisation des contrôles et entretiens réglementaires.
 
-II. ― Entretien des infrastructures et exploitation routière
+Domaine Entretien des infrastructures et exploitation routière.
 
-A. ― Technique de génie civil
+Compétences attendues :
 
-Route et ouvrages d'art, terminologie, technologie, techniques de construction.
+-disposer des bases techniques permettant l'analyse des phénomènes physiques dans le domaine de l'infrastructure de transports ;
+
+-utiliser les bases techniques nécessaires à la réalisation d'un projet d'infrastructures routières ;
+
+-savoir mobiliser les différents outils (techniques et méthodologiques) et ressources nécessaires à la réalisation des études techniques ;
+
+-savoir appréhender, dès la conception, l'entretien (conservation et évolution du patrimoine) et l'exploitation de l'infrastructure.
+
+Contenus :
+
+-Technique de génie civil.
+
+Technologie des ouvrages, mécanique des structures et technologie des constructions (résistance des matériaux, utilisation du béton, terrassements et fondations).
+
+Conduite et analyse des essais et mesures (bruit, trafic, accidentologie …).
 
 Structures de chaussée, équipements de la voirie.
 
-Suivi et exploitation du patrimoine de voirie.
-
-Surveillance, contrôle en entretien des voiries et des équipements.
-
-Programmation de l'entretien du patrimoine.
-
-Organisation des chantiers, planification et phasage des travaux.
-
-B. ― Exploitation de la route
+-Exploitation de la route.
 
 Traitement hivernal et viabilité.
 
-Domaine public, conservation et police.
-
-Coordination des interventions et occupation du domaine public.
+Domaine public, conservation, occupation et police.
 
 Sécurité routière, prévention des accidents.
 
-Spécialité "navigation, sécurité maritime et gestion de la ressource halieutique
+-Méthodes et ingénierie.
 
-et des espaces marin et littoral"
+Suivi et exploitation du patrimoine de voirie.
 
-I. ― Sécurité des navires et prévention de la pollution
+Surveillance, contrôle et programmation de l'entretien des voiries et des équipements.
 
-A. ― Navigation maritime
+Organisation des chantiers, planification et phasage des travaux.
+
+Spécialité “ navigation, sécurité maritime et gestion de la ressource halieutique et des espaces marin et littoral ”
+
+Un seul domaine.
+
+Compétences attendues :
+
+-disposer des connaissances fondamentales dans les domaines de la navigation et de la sécurité maritime ;
+
+-disposer des connaissances fondamentales en matière de gestion de la ressource halieutique et des espaces marin et littoral ;
+
+-savoir mobiliser les bases techniques de la navigation, de la sécurité maritime et de la gestion de la ressource halieutique et des espaces marins pour identifier les enjeux et mener à bien des activités de contrôle.
+
+Contenus :
+
+I.-Sécurité des navires et prévention de la pollution.
+
+A.-Navigation maritime.
 
 Les différents types de navires.
 
@@ -128,11 +158,11 @@ La réglementation de la circulation maritime (règlement international pour pr�
 
 Le balisage.
 
-B. ― Mécanique marine
+B.-Mécanique marine.
 
 1. Moteurs Diesel et à essence :
 
-Principes des moteurs à quatre temps et à deux temps.
+Les principes des moteurs à quatre temps et à deux temps.
 
 Le descriptif des organes principaux.
 
@@ -144,7 +174,7 @@ La construction d'un navire et l'architecture navale.
 
 L'appareil propulsif et l'appareil à gouverner.
 
-C. ― Sécurité
+C.-Sécurité.
 
 Les incendies, les pannes et les avaries.
 
@@ -156,33 +186,33 @@ Les modalités d'intervention en cas d'incendie ou de voie d'eau.
 
 La sauvegarde des vies humaines.
 
-Prévention et lutte contre les pollutions marines.
+La prévention et la lutte contre les pollutions marines.
 
-D. ― Protection de la ressource halieutique
+D.-Protection de la ressource halieutique.
 
-Exploitation du milieu marin (activités économiques, données générales sur l'équilibre des entreprises du secteur primaire maritime).
+L'exploitation du milieu marin (activités économiques, données générales sur l'équilibre des entreprises du secteur primaire maritime).
 
-Techniques et engins de pêche.
+Les techniques et engins de pêche.
 
-II. ― Contrôle des activités maritimes et cultures marines
+II.-Contrôle des activités maritimes et cultures marines.
 
-A. ― Météorologie et marées
+A.-Météorologie et marées.
 
-Météorologie marine et information météorologique des navigateurs.
+La météorologie marine et l'information météorologique des navigateurs.
 
 Le phénomène des marées.
 
 Les courants marins.
 
-B. ― Biologie marine
+B.-Biologie marine.
 
 Les écosystèmes : définition et fonctionnement.
 
 Les cycles de vie des principales espèces de cultures marines.
 
-Principaux mollusques, crustacés, poissons, algues.
+Les principaux mollusques, crustacés, poissons, algues.
 
-C. ― Protection de la ressource halieutique
+C.-Protection de la ressource halieutique.
 
 Exploitation du milieu marin (activités économiques, données générales sur l'équilibre des entreprises du secteur primaire maritime).
 
@@ -190,7 +220,7 @@ Techniques et engins de pêche.
 
 Régulation des pêches (quotas).
 
-D. ― Environnement marin
+D.-Environnement marin
 
 Données générales sur les différents types d'aires marines protégées.
 
@@ -198,7 +228,7 @@ Données générales sur les énergies marines renouvelables.
 
 Rôle du Conservatoire du littoral.
 
-E. ― Navigation maritime
+E.-Navigation maritime.
 
 Les différents types de navires.
 
