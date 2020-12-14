@@ -1,0 +1,51 @@
+# Gouvernance des services publics d’eau potable et d’assainissement en Guadeloupe
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41089
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/eau_guadeloupe
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-318.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-12-14 : 1er dépôt d'une initiative. (PIONANR5L15B3669)
+  - 2020-12-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-14 : Renvoi en commission au fond
+      - 2020-12-16 : Nomination de rapporteur
+      - 2020-12-16 : Réunion de commission
+      - 2021-01-20 : Réunion de commission
+      - 2021-01-27 : Réunion de commission
+      - 2021-01-20 : Dépôt de rapport (RAPPANR5L15B3780, PIONANR5L15BTC3780)
+  - Discussion en séance publique
+    - 2021-01-28 : Discussion en séance publique
+    - 2021-01-28 : Discussion en séance publique
+    - 2021-01-28 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-01-28 : Dépôt d'une initiative en navette (PIONSNR5S359B0318)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-28 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-03-02 : Dépôt de rapport (RAPPSNR5S359B0394, PIONSNR5S359BTC0395)
+  - Discussion en séance publique
+    - 2021-03-10 : Décision
+- Commission Mixte Paritaire
+  - 2021-03-10 : Dépôt d'un projet de loi (PIONANR5L15B3978)
+  - 2021-03-11 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-03-23 : Nomination de rapporteur
+    - 2021-03-23 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0470, PIONSNR5S359BTC0471)
+    - 2021-03-23 : Dépôt du rapport d'une CMP (RAPPANR5L15B3998, PIONANR5L15BTC3998)
+  - Discussion en séance publique
+    - 2021-04-08 : Décision
+  - Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Décision
+  - 2021-03-24 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-04-29 : Promulgation d'une loi
