@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONVENTION DE MUTUALISATION DES MOYENS POUR LA REPARATION DU PARC DES VEHICULES DU SERVICE PLUVIAL (P.V.P) DU TERRITOIRE DU PAYS D'AIX (T.P.A) AINSI QUE LA MISE A DISPOSITION DE LA STATION SERVICE DU GARAGE DE LA VILLE D'AIX EN PROVENCE.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-12-16
+- Séance : Conseil Municipal 1CA
+- Objet : CONVENTION DE MUTUALISATION DES MOYENS POUR LA REPARATION DU PARC DES VEHICULES DU SERVICE PLUVIAL (P.V.P) DU TERRITOIRE DU PAYS D'AIX (T.P.A) AINSI QUE LA MISE A DISPOSITION DE LA STATION SERVICE DU GARAGE DE LA VILLE D'AIX EN PROVENCE.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12572-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
