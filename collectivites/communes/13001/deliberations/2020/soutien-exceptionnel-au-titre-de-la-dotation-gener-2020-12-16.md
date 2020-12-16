@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SOUTIEN EXCEPTIONNEL AU TITRE DE LA DOTATION GENERALE DE DECENTRALISATION PORTANT SUR L'ACQUISITION D'IMPRIMES POUR LES BIBLIOTHEQUES DES COLLECTIVITES TERRITORIALES- SUBVENTIONS 2020
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-12-16
+- Séance : Conseil Municipal 1CA
+- Objet : SOUTIEN EXCEPTIONNEL AU TITRE DE LA DOTATION GENERALE DE DECENTRALISATION PORTANT SUR L'ACQUISITION D'IMPRIMES POUR LES BIBLIOTHEQUES DES COLLECTIVITES TERRITORIALES- SUBVENTIONS 2020
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12607-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
