@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CORRECTION D'UNE ERREUR MATÉRIELLE - CONSEIL MUNICIPAL DU 12 OCTOBRE 2020 - AVENANT A LA CONVENTION PLURIANNUELLE D'OBJECTIF CONCERNANT LA SUBVENTION AU TITRE DU HANDICAP POUR L'ASSOCIATION THÉÂTRE ET CHANSONS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-12-16
+- Séance : Conseil Municipal 1CA
+- Objet : CORRECTION D'UNE ERREUR MATÉRIELLE - CONSEIL MUNICIPAL DU 12 OCTOBRE 2020 - AVENANT A LA CONVENTION PLURIANNUELLE D'OBJECTIF CONCERNANT LA SUBVENTION AU TITRE DU HANDICAP POUR L'ASSOCIATION THÉÂTRE ET CHANSONS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12635-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
