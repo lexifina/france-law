@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DE L'AVENANT N°3 A LA CONVENTION DE GESTION N°17/1034 ENTRE LA METROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNE D'AIX-EN-PROVENCE AU TITRE DE LA COMPETENCE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2020-12-16
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DE L'AVENANT N°3 A LA CONVENTION DE GESTION N°17/1034 ENTRE LA METROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNE D'AIX-EN-PROVENCE AU TITRE DE LA COMPETENCE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12569-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
