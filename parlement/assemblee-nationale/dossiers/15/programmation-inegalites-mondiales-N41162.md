@@ -1,0 +1,62 @@
+# Programmation relative au développement solidaire et à la lutte contre les inégalités mondiales
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41162
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_inegalites_mondiales
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-404.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-12-16 : 1er dépôt d'une initiative. (PRJLANR5L15B3699)
+  - 2020-12-16 : Etude d'impact (ETDIANR5L15B3699)
+  - 2020-12-16 : Avis du Conseil d'Etat (AVCEANR5L15B3699)
+  - 2020-12-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-16 : Renvoi en commission au fond
+      - 2021-01-12 : Nomination de rapporteur
+      - 2021-01-27 : Réunion de commission
+      - 2021-02-02 : Réunion de commission
+      - 2021-02-03 : Réunion de commission
+      - 2021-02-10 : Réunion de commission
+      - 2021-02-10 : Réunion de commission
+      - 2021-02-10 : Réunion de commission
+      - 2021-02-11 : Réunion de commission
+      - 2021-02-11 : Réunion de commission
+      - 2021-02-11 : Réunion de commission
+      - 2021-02-17 : Réunion de commission
+      - 2021-02-12 : Dépôt de rapport (RAPPANR5L15B3887, PRJLANR5L15BTC3887)
+  - Discussion en séance publique
+    - 2021-02-17 : Discussion en séance publique
+    - 2021-02-19 : Discussion en séance publique
+    - 2021-02-19 : Discussion en séance publique
+    - 2021-02-19 : Discussion en séance publique
+    - 2021-03-02 : Discussion en séance publique
+    - 2021-03-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-03-03 : Dépôt d'une initiative en navette (PRJLSNR5S359B0404)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-03 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-04-14 : Dépôt de rapport (RAPPSNR5S359B0532, PRJLSNR5S359BTC0533)
+  - Discussion en séance publique
+    - 2021-05-17 : Décision
+- Commission Mixte Paritaire
+  - 2021-05-19 : Dépôt d'un projet de loi (PRJLANR5L15B4176)
+  - 2021-05-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-06-24 : Nomination de rapporteur
+    - 2021-06-24 : Dépôt du rapport d'une CMP (RAPPANR5L15B4279, PRJLANR5L15BTC4279)
+    - 2021-06-24 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0716, PRJLSNR5S359BTC0717)
+  - Discussion en séance publique
+    - 2021-07-13 : Discussion en séance publique
+    - 2021-07-13 : Décision
+  - Discussion en séance publique
+    - 2021-07-20 : Discussion en séance publique
+    - 2021-07-20 : Décision
+  - 2021-06-25 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-08-04 : Promulgation d'une loi
