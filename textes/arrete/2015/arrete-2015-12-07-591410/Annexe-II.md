@@ -28,7 +28,7 @@ Groupe aérien mixte 00.056.
 
 Groupe interarmées d'hélicoptères 07.067.
 
-Escadron de transport de matériels spécialisés 91.532.
+Escadron de soutien technique et d'armement spécialisé 91.532.
 
 Escadron électronique aéroporté.
 
@@ -47,3 +47,9 @@ Les éléments de soutien national auprès des organismes alliés.
 Détachement de liaison auprès du United States Central Command.
 
 Centre interarmées des actions sur l'environnement.
+
+Groupement de cyberdéfense des armées.
+
+Cabinet du chef d'état-major des armées.
+
+Etat-major du commandement des forces spéciales terre.
