@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415395
+
+- Question : [SEQ200415395](seq200415395.md) — Décalage entre les annonces du Gouvernement relatives aux mesures d'aides aux entreprises et leur effectivité
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-12-17, page 6073*
+
+Les établissements bancaires se sont engagés à octroyer le prêt garanti par l'État (PGE) « le plus largement possible » aux professionnels et aux entreprises qui en ont besoin. Au regard du décompte hebdomadaire diffusé par le ministère de l'économie, cet engagement est respecté. Au 20 novembre, sur les 130,3 milliards d'euros demandés aux banques, 121,7 milliards ont été validés, soit un taux de refus de 2,7 %. Cependant, les établissements bancaires restent libres d'accorder ou non un PGE. Ainsi, le gouvernement a tenu à mettre en place un dispositif de prêts participatifs directs de l'État à destination des entreprises de moins de 50 salariés qui n'ont pas obtenu une solution de financement satisfaisante auprès des réseaux bancaires, notamment par un prêt garanti par l'État (PGE). Après intervention de la médiation du crédit, ces entreprises peuvent solliciter le Comité départemental d'examen des difficultés des entreprises (Codefi) de leur département qui examinera leur demande et pourra accorder un prêt direct de l'Etat. Depuis le 14 octobre, une plateforme numérique sécurisée permet aux chefs d'entreprise orientés par le Codefi de déposer plus facilement leur demande de prêt. Les entreprises de 0 à 10 salariés pourront demander un prêt allant jusqu'à 20 000 €. Les entreprises ayant entre 11 et 49 salariés pourront obtenir jusqu'à 50 000 € de prêt exceptionnel, selon les secteurs. Des dérogations jusqu'à 100 000 € pourront être octroyées au cas par cas. Ce prêt direct de l'État est accordé à un taux annuel de 3,5% et peut être amorti sur une durée maximale de 7 ans. La première année, l'entreprise n'en rembourse que les intérêts.
