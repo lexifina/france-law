@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200817656
+
+- Question : [SEQ200817656](seq200817656.md) — Aide à l'installation des professionnels de santé dans les zones où l'accès aux soins est insuffisant
+
+## Réponse
+
+*Ruralité, JO du 2020-12-17, page 6090*
+
+Depuis 2017, le Gouvernement a fait de la lutte contre les déserts médicaux une priorité du quinquennat. La loi « Ma santé 2022 » a notamment permis de développer les maisons de santé. Les centres de santé sont un levier de l'amélioration de l'accessibilité aux soins, notamment en zones rurales et dans les quartiers prioritaires de la politique de la ville, et contribuent à résoudre l'enclavement de certains territoires. En ce qui concerne les incitations fiscales, le Gouvernement a souhaité évaluer ce type de dispositif, en particulier les aides octroyées dans le cadre des zones de revitalisation rurale (ZRR). En janvier 2020, il a donc confié à une mission inter-inspections l'évaluation d'un ensemble de dispositifs zonés, dont les ZRR. Dans la lignée des évaluations parlementaires Blanc-Louwagie (2019) et Delcros-Pointereau-Espagnac (2019), le rapport dresse un bilan mitigé de l'impact des exonérations fiscales et sociales liées aux ZRR sur la création d'entreprises et d'emplois. Pour autant, le zonage est le support de nombreuses politiques publiques et est donc perçu comme un véritable soutien par les territoires. Le Gouvernement a donc décidé de proroger jusqu'en 2022 les zones de revitalisation rurale et l'ensemble des autres dispositifs zonés arrivant à échéance au 31 décembre 2020. Les zones de revitalisation rurale concernent près de la moitié des communes françaises. Les zones d'intervention prioritaires situées en zone rurale sont donc probablement très souvent également situées en zone de revitalisation rurale, et peuvent bénéficier de ces avantages.
