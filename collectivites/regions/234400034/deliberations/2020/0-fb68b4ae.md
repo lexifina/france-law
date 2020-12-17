@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 104 Fonctionnement du réseau de transport régional
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2020-12-17
+- Matière : 8.7
+- Objet : 104 Fonctionnement du réseau de transport régional
+- Transmis à la préfecture : 2020-12-17
+- Votants : 90
+- Pour : 53
+- Contre : 17
+- Abstentions : 20
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-34580.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
