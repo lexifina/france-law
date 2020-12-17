@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018108
+
+- Question : [SEQ201018108](seq201018108.md) — Commercialisation de la « viande » végétale
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-12-17, page 6076*
+
+Afin de renforcer la protection des consommateurs contre l'emploi de termes inappropriés sur les denrées alimentaires, la loi relative à la transparence de l'information sur les produits agricoles et alimentaires du 10 juin 2020 prévoit une restriction de l'usage des dénominations traditionnellement utilisées pour désigner des aliments d'origine animale pour décrire, commercialiser ou promouvoir les denrées à base de protéines végétales. À cet effet, la loi a confié au Gouvernement le soin d'élaborer un décret d'application qui précisera notamment la part maximale de protéines végétales contenues dans les produits alimentaires, au-delà de laquelle la restriction précitée s'appliquera. Des sanctions seront également établies en cas d'infraction aux dispositions ainsi adoptées. Le ministère de l'économie, des finances et de la relance s'attache à la rédaction, dans les meilleurs délais et en étroite concertation avec les filières professionnelles concernées, d'un projet de décret conforme aux attentes du législateur. Ce projet de décret sera notifié à la Commission européenne, conformément au cadre européen en vigueur, préalablement à sa transmission au Conseil d'État. Par ailleurs, les services de contrôle de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) vérifient régulièrement qu'il n'est pas fait usage de termes susceptibles d'induire le consommateur en erreur sur la qualité ou les caractéristiques essentielles d'un produit. Cette vigilance sera maintenue, à l'occasion notamment des contrôles qui seront diligentés, pour vérifier la bonne mise en œuvre du dispositif issu de la loi précitée.
