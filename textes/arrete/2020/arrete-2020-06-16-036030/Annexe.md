@@ -27,3 +27,19 @@ Du 1er février 2020 au 31 décembre 2020. |
 Réorganisation partielle des bureaux de douane de Calais, et de Dunkerque Ferry liée aux conditions de mise en œuvre du Brexit. |
 
 Du 1er février 2020 au 31 décembre 2020. |
+
+Transfert des missions de gestion, contrôle et de recouvrement de la taxe générale sur les activités polluantes vers les services de la direction générale des finances publiques. |
+
+Du 1er septembre 2020 au 31 mars 2022. |
+
+Transfert des missions de gestion, contrôle et de recouvrement de la taxe spéciale sur les véhicules routiers vers les services de la direction générale des finances publiques. |
+
+Du 1er juillet 2020 au 31 octobre 2021. |
+
+Fermeture de l'antenne de Tain l'Hermitage |
+
+Du 1er mars 2020 au 1er mars 2021. |
+
+Fermeture de l'échelon technique de Dugny |
+
+Du 1er juillet 2020 au 31 octobre 2021. |
