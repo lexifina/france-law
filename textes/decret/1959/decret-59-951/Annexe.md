@@ -1020,7 +1020,7 @@ Pont Lajus reliant Cap-Breton-ville à la plage.
 
 |
 
-Département des Basses-Pyrénées
+Département des Pyrénées-Atlantiques
 
 |
 
@@ -1096,7 +1096,7 @@ Pont de Béhobie.
 
 |
 
-Département l'Aube
+Département de l'Aude
 
 |
 
@@ -1254,7 +1254,7 @@ Compris dans les eaux maritimes de Martigues au rocher des Trois Frères.
 
 |
 
-Département de la Martinique
+Collectivité territoriale de Martinique
 
 |
 
@@ -1319,5 +1319,89 @@ Canaux du François, du Vauclin et du Marin.
 |
 
 A 100 mètres de l'embouchure.
+
+|
+
+Collectivité territoriale de Guyane
+
+|
+
+Maroni
+
+|
+
+Saut Hermina
+
+|
+
+Mana
+
+|
+
+Pont de la route départementale 8
+
+|
+
+Iracoubo
+
+|
+
+Pont de la route nationale 1
+
+|
+
+Counamama
+
+|
+
+Pont de la route nationale 1
+
+|
+
+Sinnamary
+
+|
+
+Pont de Madame de Maintenon
+
+|
+
+Kourou
+
+|
+
+Pont de la route nationale 1
+
+|
+
+Cayenne
+
+|
+
+Pont de la route nationale 1
+
+|
+
+Mahury
+
+|
+
+Pont de la route départementale 6
+
+|
+
+Approuague
+
+|
+
+Pont de la route nationale 2
+
+|
+
+Oyapock
+
+|
+
+Pont de la route nationale 2
 
 |
