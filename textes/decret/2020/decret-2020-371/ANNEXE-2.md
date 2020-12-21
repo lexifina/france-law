@@ -78,8 +78,6 @@ Services auxiliaires de transport par eau
 
 Boutique des galeries marchandes et des aéroports
 
-Magasins de souvenirs et de piété
-
 Autres métiers d'art
 
 Paris sportifs
@@ -154,19 +152,27 @@ Vente par automate
 
 Commerce de gros de viandes et de produits à base de viande
 
-Activités des agences de placement de main-d'œuvre
-
 Garde d'animaux de compagnie avec ou sans hébergement
 
 Fabrication de dentelle et broderie
 
 Couturiers
 
+Ecoles de français langue étrangère
+
+Commerce des vêtements de cérémonie, d'accessoires de ganterie et de chapellerie et de costumes pour les grands évènements
+
+Articles pour fêtes et divertissements, panoplies et déguisements
+
+Commerce de gros de vêtements de travail
+
+Antiquaires
+
+Equipementiers de salles de projection cinématographiques
+
 Entreprises artisanales réalisant au moins 50 % de leur chiffre d'affaires par la vente de leurs produits ou services sur les foires et salons
 
 Métiers graphiques, métiers d'édition spécifique, de communication et de conception de stands et d'espaces éphémères réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
-
-Fabrication et distribution de matériels scéniques, audiovisuels et évènementiels
 
 Prestation de services spécialisés dans l'aménagement et l'agencement des stands et lieux lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la production de spectacles, l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
 
@@ -178,10 +184,46 @@ Entreprises du numérique réalisant au moins 50 % de leur chiffre d'affaires av
 
 Fabrication de linge de lit et de table lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie et de la restauration
 
-Fabrication de produits alimentaires lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+Fabrication de produits alimentaires lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises des secteurs de l'évènementiel, de l'hôtellerie ou de la restauration
 
 Fabrication d'équipements de cuisines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
 
 Installation et maintenance de cuisines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
 
 Elevage de pintades, de canards et d'autres oiseaux (hors volaille) lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+
+Prestations d'accueil lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel
+
+Prestataires d'organisation de mariage lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel ou de la restauration
+
+Location de vaisselle lorsque au moins 50 % du chiffre d'affaire est réalisé avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+
+Fabrication des nappes et serviettes de fibres de cellulose lorsque au moins 50 % du chiffre d'affaire est réalisé avec une ou des entreprises du secteur de la restauration
+
+Collecte des déchets non dangereux lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+
+Exploitations agricoles et entreprises de transformation et conservation de produits de la mer des filières dites festives lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+
+Activités des agences de presse lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, du tourisme, du sport ou de la culture
+
+Editeurs de presse lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel
+
+Entreprises de conseil spécialisées lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+
+Commerce de gros (commerce interentreprises) de matériel électrique lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+
+Activités des agents et courtiers d'assurance lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+
+Conseils pour les affaires et autres conseils de gestion lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+
+Etudes de marchés et sondages lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+
+Activités des agences de placement de main-d'œuvre lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, de l'hôtellerie ou de la restauration
+
+Activités des agences de travail temporaire lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, de l'hôtellerie ou de la restauration
+
+Autres mises à disposition de ressources humaines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, de l'hôtellerie ou de la restauration
+
+Médias locaux
+
+Correspondants locaux de presse

@@ -44,7 +44,7 @@ Entreprises de détaxe et bureaux de change (changeurs manuels)
 
 Enseignement de disciplines sportives et d'activités de loisirs
 
-Arts du spectacle vivant
+Arts du spectacle vivant, cirques
 
 Activités de soutien au spectacle vivant
 
@@ -117,3 +117,19 @@ Fabrication de structures métalliques et de parties de structures
 Régie publicitaire de médias
 
 Accueils collectifs de mineurs en hébergement touristique
+
+Agences artistiques de cinéma
+
+Fabrication et distribution de matériels scéniques, audiovisuels et évènementiels
+
+Exportateurs de films
+
+Commissaires d'exposition
+
+Scénographes d'exposition
+
+Magasins de souvenirs et de piété
+
+Entreprises de covoiturage
+
+Entreprises de transport ferroviaire international de voyageurs.
