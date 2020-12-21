@@ -76,13 +76,17 @@ j) "CDP" pour les bonifications prévues aux articles 3-6, 3-7 et 3-7-1 de l'arr
 
 Lorsque plusieurs sigles concernent une même opération, ils sont concaténés par ordre alphabétique en étant séparés par un espace.
 
-- pour le SIREN et la raison sociale du professionnel : le professionnel est le professionnel ayant mis en œuvre ou assuré la maîtrise d'œuvre de l'opération, signataire de l'attestation prévue au point I 9° de l'annexe 4 ou au point 5 de l'annexe 5. La raison sociale peut être remplacée par le nom commercial du professionnel ou son sigle, tels que portés au registre du commerce et des sociétés.
+- pour le SIREN et la raison sociale du professionnel : le professionnel est le professionnel ayant mis en œuvre ou assuré la maîtrise d'œuvre de l'opération, signataire de l'attestation prévue au point I 9° de l'annexe 4 ou au point 5 de l'annexe 5. La raison sociale peut être remplacée par le nom commercial du professionnel ou son sigle, tels que portés au registre du commerce et des sociétés ;
 
-- pour le SIREN et la raison sociale du sous-traitant : le cas échéant lorsque la fiche d'opération standardisée le mentionne, le sous-traitant qui a réalisé les travaux.
+- pour le SIREN et la raison sociale du sous-traitant : le cas échéant lorsque la fiche d'opération standardisée le mentionne, le sous-traitant qui a réalisé les travaux ;
 
-- pour le SIREN et la raison sociale de l'organisme de contrôle : l'identité de cet organisme est indiquée lorsque l'opération fait l'objet d'un contrôle obligatoire sur site.
+- pour le SIREN et la raison sociale de l'organisme de contrôle : l'identité de cet organisme est indiquée lorsque l'opération fait l'objet d'un contrôle obligatoire sur site ;
 
-- pour le SIRET de l'entreprise ayant réalisé l'opération : cette mention est indiquée lorsqu'une qualification ou une certification est exigée pour le professionnel réalisant l'opération.
+- pour le SIRET de l'entreprise ayant réalisé l'opération : cette mention est indiquée lorsqu'une qualification ou une certification est exigée pour le professionnel réalisant l'opération ;
+
+-pour le numéro de téléphone du bénéficiaire : pour les opérations engagées jusqu'au 31 mars 2021 inclus, il est indiqué, lorsque les informations sont disponibles, le numéro de téléphone fixe ou le numéro de mobile du bénéficiaire figurant dans l'attestation sur l'honneur et mentionnés en partie B de l'annexe 7-1 ; pour les opérations engagées à compter du 1er avril 2021, il est indiqué le numéro de téléphone figurant dans l'attestation sur l'honneur et mentionné en partie B de l'annexe 7-1 ;
+
+-pour l'adresse de courriel du bénéficiaire : pour les opérations engagées jusqu'au 31 mars 2021 inclus, il est indiqué, lorsque les informations sont disponibles, l'adresse du courriel figurant dans l'attestation sur l'honneur et mentionnée en partie B de l'annexe 7-1 ; pour les opérations engagées à compter du 1er avril 2021, il est indiqué l'adresse du courriel figurant dans l'attestation sur l'honneur et mentionnée en partie B de l'annexe 7-1.
 
 Pour le cas d'un regroupement :
 
@@ -92,4 +96,4 @@ Pour le cas d'un regroupement :
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
+Conformément à l’article 4 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux demandes de certificats d'économies d'énergie déposées à compter du 1er janvier 2021.

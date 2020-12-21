@@ -8,7 +8,7 @@ Document à compléter de façon lisible et de préférence en majuscules.
 
 Les champs précédés d'un astérisque (*) sont obligatoires.
 
-[Partie réservée au demandeur, comportant a minima sa raison sociale et son n°de SIREN]
+[Partie réservée au demandeur, comportant a minima sa raison sociale et son n° de SIREN]
 
 A. [Partie publiée par arrêté définissant les opérations standardisées d'économies d'énergie]
 
@@ -38,11 +38,13 @@ Compléments d'adresse :
 
 Pays :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel :
+(*) Courriel :
+
+(indiquer : "néant " si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
 (*) Cocher l'une des deux cases suivantes : à l'issue des opérations d'économies d'énergie :
 
@@ -72,29 +74,31 @@ Fait à
 
 (*) Signature du bénéficiaire
 
-Pour les personnes morales, son cachet et la signature du représentant.
+Pour les personnes morales, son cachet et la signature du représentant
 
 C. Professionnel ayant mis en œuvre l'opération d'économies d'énergie ou assuré sa maîtrise d'œuvre
 
-(*) Nom du signataire : ............................................... Prénom du signataire : ..........................................................
+(*) Nom du signataire : Prénom du signataire :
 
-(*) Fonction du signataire : ...............................................................................................................................
+(*) Fonction du signataire :
 
-(*) Raison sociale : ...............................................................................................................................
+(*) Raison sociale :
 
 Numéro SIRET : _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-(*) Adresse : ...............................................................................................................................
+(*) Adresse :
 
 Code postal : _ _ _ _ _
 
-Ville : ...............................................................................................................................
+Ville :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel : ...............................................................................................................................
+(*) Courriel :
+
+(indiquer : " néant " si le professionnel ne dispose pas d'une adresse de courriel)
 
 (*) En tant que représentant de l'entreprise :
 
@@ -104,17 +108,17 @@ Courriel : .....................................................................
 
 de l'opération d'économies d'énergie, j'atteste sur l'honneur :
 
-- que je fournirai exclusivement à [raison sociale du demandeur] l'ensemble des documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie, notamment la facture (ou à défaut une autre preuve de la réalisation effective de l'opération) ;
+-que je fournirai exclusivement à [raison sociale du demandeur] l'ensemble des documents permettant de valoriser cette opération au titre du dispositif des certificats d'économies d'énergie, notamment la facture (ou à défaut une autre preuve de la réalisation effective de l'opération) ;
 
-- que je ne signerai pas, pour cette opération, d'attestation sur l'honneur semblable avec une autre personne morale ;
+-que je ne signerai pas, pour cette opération, d'attestation sur l'honneur semblable avec une autre personne morale ;
 
-- l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques techniques relatives à l'opération d'économies d'énergie et, le cas échéant, sur les qualifications professionnelles requises pour mettre en œuvre cette opération ;
+-l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques techniques relatives à l'opération d'économies d'énergie et, le cas échéant, sur les qualifications professionnelles requises pour mettre en œuvre cette opération ;
 
-- que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées et que j'ai respecté les conditions de leur réalisation, conformément à ou aux fiches d'opérations standardisées d'économies d'énergie concernées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci.
+-que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées et que j'ai respecté les conditions de leur réalisation, conformément à ou aux fiches d'opérations standardisées d'économies d'énergie concernées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci.
 
-Fait à ...............................................................................................................................
+Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le _ _/ _ _/ _ _ _ _
 
 (*) Cachet et signature du professionnel
 
@@ -132,11 +136,13 @@ Complément d'adresse :
 
 Pays :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel :
+(*) Courriel :
+
+(indiquer : " néant " si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
 (*) Cocher l'une des deux cases suivantes : en tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que :
 
@@ -162,13 +168,11 @@ Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificativ
 
 Tableau A
 
-Nombre de personnes
-
-composant le ménage |
+Nombre de personnes composant le ménage |
 
 Plafonds de revenus du ménage
 
-en Île-de-France (€) |
+en Ile-de-France (€) |
 
 Plafonds de revenus du ménage
 
@@ -212,13 +216,11 @@ Par personne supplémentaire |
 
 Tableau B
 
-Nombre de personnes
-
-composant le ménage |
+Nombre de personnes composant le ménage |
 
 Plafonds de revenus du ménage
 
-en Île-de-France (€) |
+en Ile-de-France (€) |
 
 Plafonds de revenus du ménage
 
@@ -264,7 +266,7 @@ Fait à
 
 (*) Le _ _/ _ _/ _ _ _ _
 
-(*) Signature du bénéficiaire.
+(*) Signature du bénéficiaire
 
 BS. Bailleur social gérant des logements concernés par l'opération
 
@@ -286,27 +288,29 @@ Complément d'adresse :
 
 Pays :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel :
+(*) Courriel :
+
+(indiquer : " néant " si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
 J'atteste sur l'honneur :
 
-- que l'organisme cité ci-dessus que je représente est un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du code de la construction et de l'habitation, ou un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code ou une société d'économie mixte, ou un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
+-que l'organisme cité ci-dessus que je représente est un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du code de la construction et de l'habitation, ou un maître d'ouvrage d'insertion agréé au titre de l'article L. 365-2 du même code ou une société d'économie mixte, ou un autre bailleur mentionné aux quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière ;
 
-- le nombre total de ménages concernés par l'opération :
+-le nombre total de ménages concernés par l'opération :
 
-(*) Nombre total de ménages :
+-(*) Nombre total de ménages :
 
-- le nombre de ménages, parmi ceux concernés par l'opération, dont le logement, géré par l'organisme ci-dessus, fait l'objet d'une convention définie à l'article L. 351-2 du code de la construction ou de l'habitation :
+-le nombre de ménages, parmi ceux concernés par l'opération, dont le logement, géré par l'organisme ci-dessus, fait l'objet d'une convention définie à l'article L. 351-2 du code de la construction ou de l'habitation :
 
 (*) Nombre de ménages habitant un logement conventionné géré par l'organisme :
 
 Fait à
 
-(*) Le _ _ / _ _ / _ _ _ _
+(*) Le _ _/ _ _/ _ _ _ _
 
 (*) Cachet et signature de l'organisme
 
@@ -334,19 +338,21 @@ Complément d'adresse :
 
 Pays :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel :
+(*) Courriel :
 
-J'atteste sur l'honneur que la copropriété citée ci-dessus que je représente a reçu une décision de subvention de l'Agence nationale de l'habitat attribuée au titre des 7° et 8° du I de l'article R. * 321-12 du code de la construction et de l'habitation.
+(indiquer : " néant " si le bénéficiaire ne dispose pas d'une adresse de courriel)
+
+J'atteste sur l'honneur que la copropriété citée ci-dessus que je représente a reçu une décision de subvention de l'Agence nationale de l'habitat attribuée au titre des 7° et 8° du I de l'article R*. 321-12 du code de la construction et de l'habitation.
 
 Fait à
 
 (*) Le _ _/ _ _/ _ _ _ _
 
-(*) Cachet et signature du syndic de copropriété.
+(*) Cachet et signature du syndic de copropriété
 
 QPV. Quartier prioritaire de la politique de la ville
 
@@ -368,11 +374,13 @@ Complément d'adresse :
 
 Pays :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel :
+(*) Courriel :
+
+(indiquer : " néant " si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
 J'atteste sur l'honneur que l'opération bénéficie à une copropriété située dans un quartier prioritaire de la politique de la ville défini à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ou, dans le cas d'une infrastructure de transport, est réalisée dans un tel quartier et bénéficie majoritairement à des ménages y résidant :
 
@@ -386,9 +394,11 @@ Fait à
 
 (*) Le _ _/ _ _/ _ _ _ _
 
-(*) Cachet et signature du demandeur.
+(*) Cachet et signature du demandeur
 
-R2. Identification, par le bénéficiaire, des ménages modestes concernés par l'opération (avec pièces justificatives des revenus)
+R2. Identification, par le bénéficiaire, des ménages modestes concernés par l'opération
+
+(avec pièces justificatives des revenus)
 
 (*) Nom du signataire : Prénom du signataire :
 
@@ -414,11 +424,13 @@ Complément d'adresse :
 
 Pays :
 
-Téléphone : _ _ _ _ _ _ _ _ _ _
+(*) Téléphone : _ _ _ _ _ _ _ _ _ _
 
-Mobile : _ _ _ _ _ _ _ _ _ _
+(indiquer un numéro de téléphone fixe ou de téléphone portable)
 
-Courriel :
+(*) Courriel :
+
+(indiquer : " néant " si le bénéficiaire ne dispose pas d'une adresse de courriel)
 
 En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste que les ménages concernés par l'opération ont des revenus inférieurs aux plafonds des tableaux ci-dessous dans les proportions suivantes :
 
@@ -428,21 +440,15 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste qu
 
 (*) dont nombre de ménages de revenus inférieurs aux plafonds du tableau A :
 
-NB : ne sont comptabilisés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie et qui sont inscrits dans la liste ci-dessous (sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation).
+NB : Ne sont comptabilisés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie et qui sont inscrit dans la liste ci-dessous (sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation).
 
 Tableau A
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
-Plafonds de revenus du ménage
-
-en Île-de-France (€) |
-
-Plafonds de revenus du ménage
-
-pour les autres régions (€) |
+Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
@@ -482,17 +488,11 @@ Par personne supplémentaire |
 
 Tableau B
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
+Plafonds de revenus du ménage en Ile-de-France (€) |
 
-Plafonds de revenus du ménage
-
-en Île-de-France (€) |
-
-Plafonds de revenus du ménage
-
-pour les autres régions (€) |
+Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
@@ -538,7 +538,9 @@ du (des) représentant (s) du ménage |
 
 (*) NOMBRE
 
-de personnes composant le ménage |
+de personnes
+
+composant le ménage |
 
 (*) NATURE DE LA PIÈCE
 
@@ -570,7 +572,7 @@ du ménage modeste |
 
 |
 
-NB1 : ne sont listés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie ; sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation.
+NB1 : Ne sont listés que les ménages pour lesquels au moins une pièce justificative des revenus est fournie : sont donc exclus les ménages concernés par une éventuelle partie BS de la présente attestation.
 
 NB2 : dans le cas où l'opération concerne des logements, les ménages listés sont les occupants de ces logements.
 
@@ -604,15 +606,11 @@ Conformément à la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'info
 
 Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez contacter le responsable de traitement de ces données à l'adresse suivante :
 
-Direction générale de l'énergie et du climat,
+Direction générale de l'énergie et du climat, ministère de la transition écologique et solidaire, 92055 La Défense Cedex,
 
-Ministère de la transition écologique et solidaire,
+ou par courriel : cee @ developpement-durable. gouv. fr,
 
-92055 La Défense Cedex
-
-ou par courriel : cee@developpement-durable.gouv.fr
-
-ou le délégué à la protection des données à l'adresse suivante : dpd.daj.sg@developpement-durable.gouv.fr.
+ou le délégué à la protection des données à l'adresse suivante : dpd. daj. sg @ developpement-durable. gouv. fr.
 
 Si vous estimez, après avoir contacté le responsable de traitement ou le délégué indiqué ci-dessus, que vos droits ne sont pas respectés, vous avez également la possibilité d'adresser une réclamation relative aux traitements mis en œuvre à la Commission nationale de l'informatique et des libertés.
 
@@ -620,8 +618,8 @@ Si vous estimez, après avoir contacté le responsable de traitement ou le dél�
 
 De plus, il est rappelé aux signataires de la présente attestation sur l'honneur que toute fausse déclaration expose notamment aux sanctions prévues au code pénal (article 441-7) :
 
-"Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié."
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'établir une attestation ou un certificat faisant état de faits matériellement inexacts ; 2° De falsifier une attestation ou un certificat originairement sincère ; 3° De faire usage d'une attestation ou d'un certificat inexact ou falsifié.
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er avril 2020. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er juillet 2020.
+Conformément à l’article 2 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux opérations d'économies d'énergie engagées à compter du 1er avril 2021.

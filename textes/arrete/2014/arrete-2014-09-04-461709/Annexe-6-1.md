@@ -6,17 +6,15 @@ D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
 
 RAISON
 
-sociale
-
-du demandeur |
+sociale du demandeur |
 
 SIREN
 
-du demandeur |
+du
 
-RÉFÉRENCE
+demandeur |
 
-EMMY
+RÉFÉRENCE EMMY
 
 de la demande |
 
@@ -26,15 +24,15 @@ de l'opération |
 
 NOM
 
-du bénéficiaire
+du
+
+bénéficiaire
 
 de l'opération |
 
 PRÉNOM
 
-du bénéficiaire
-
-de l'opération |
+du bénéficiaire de l'opération |
 
 ADRESSE
 
@@ -70,7 +68,7 @@ Suite du tableau
 
 VOLUME CEE
 
-"hors précarité énergétique"
+hors précarité énergétique
 
 (kWh cumac) |
 
@@ -86,7 +84,9 @@ de la fiche
 
 d'opération standardisée |
 
-DATE d'engagement
+DATE
+
+d'engagement
 
 de l'opération |
 
@@ -116,9 +116,9 @@ Suite du tableau
 
 SIREN du professionnel |
 
-RAISON sociale
+RAISON
 
-du professionnel |
+sociale du professionnel |
 
 SIREN
 
@@ -128,9 +128,9 @@ RAISON sociale
 
 du sous-traitant |
 
-NATURE du rôle actif
+NATURE
 
-et incitatif |
+du rôle actif et incitatif |
 
 |
 
@@ -144,6 +144,34 @@ et incitatif |
 
 Suite et fin du tableau
 
+SIREN
+
+de l'organisme de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé l'opération |
+
+Numéro
+
+de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
+Conformément à l’article 4 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux demandes de certificats d'économies d'énergie déposées à compter du 1er janvier 2021.

@@ -14,19 +14,21 @@ SIREN
 
 du demandeur |
 
-RÉFÉRENCE EMMY
+RÉFÉRENCE
+
+EMMY
 
 de la demande |
 
-RÉFÉRENCE interne
+RÉFÉRENCE
+
+interne
 
 de l'opération |
 
 NOM
 
-du site
-
-bénéficiaire
+du site bénéficiaire
 
 de l'opération |
 
@@ -58,41 +60,35 @@ VILLE |
 
 |
 
-Suite et fin du tableau
+Suite du tableau
 
 RAISON
 
 sociale
 
-du bénéficiaire
-
-de l'opération |
+du bénéficiaire de l'opération |
 
 SIREN |
 
-ADRESSE
-
-du siège social
-
-du bénéficiaire
-
-de l'opération |
+ADRESSE du siège social du bénéficiaire de l'opération |
 
 CODE
 
-postal sans Cedex |
+postal
+
+sans Cedex |
 
 VILLE |
 
 VOLUME CEE
 
-"hors précarité énergétique"
+hors précarité énergétique
 
 (kWh cumac) |
 
 VOLUME CEE
 
-"précarité énergétique"
+précarité énergétique
 
 (kWh cumac) |
 
@@ -110,7 +106,7 @@ VOLUME CEE
 
 |
 
-Suite et fin du tableau
+Suite du tableau
 
 RÉFÉRENCE
 
@@ -138,7 +134,9 @@ bonification |
 
 SIREN
 
-du professionnel |
+du
+
+professionnel |
 
 RAISON sociale
 
@@ -170,6 +168,40 @@ du sous-traitant |
 
 Suite et fin du tableau
 
+NATURE
+
+du rôle actif et incitatif |
+
+SIREN de l'organisme de contrôle |
+
+RAISON sociale
+
+de l'organisme de contrôle |
+
+SIRET de l'entreprise ayant réalisé
+
+l'opération |
+
+Numéro
+
+de téléphone
+
+du bénéficiaire |
+
+Adresse de courriel du bénéficiaire |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
+Conformément à l’article 2 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux demandes de certificats d'économies d'énergie déposées à compter du 1er janvier 2021.
