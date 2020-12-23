@@ -1,0 +1,58 @@
+# Renforcer la prévention en santé au travail
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41215
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/prevention_sante_travail
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-378.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2020-12-23 : 1er dépôt d'une initiative. (PIONANR5L15B3718)
+  - 2021-02-02 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2020-12-23 : Renvoi en commission au fond
+      - 2021-01-13 : Nomination de rapporteur
+      - 2021-01-13 : Réunion de commission
+      - 2021-02-09 : Réunion de commission
+      - 2021-02-10 : Réunion de commission
+      - 2021-02-10 : Réunion de commission
+      - 2021-02-15 : Réunion de commission
+      - 2021-02-11 : Dépôt de rapport (RAPPANR5L15B3881, PIONANR5L15BTC3881)
+  - Discussion en séance publique
+    - 2021-02-15 : Discussion en séance publique
+    - 2021-02-15 : Discussion en séance publique
+    - 2021-02-16 : Discussion en séance publique
+    - 2021-02-16 : Discussion en séance publique
+    - 2021-02-17 : Discussion en séance publique
+    - 2021-02-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-02-17 : Dépôt d'une initiative en navette (PIONSNR5S359B0378)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-17 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-06-23 : Dépôt de rapport (RAPPSNR5S359B0706, PIONSNR5S359BTC0707)
+  - Discussion en séance publique
+    - 2021-07-06 : Discussion en séance publique
+    - 2021-07-06 : Décision
+- Commission Mixte Paritaire
+  - 2021-07-06 : Dépôt d'un projet de loi (PIONANR5L15B4317)
+  - 2021-07-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-07-19 : Nomination de rapporteur
+    - 2021-07-19 : Dépôt du rapport d'une CMP (RAPPANR5L15B4385, PIONANR5L15BTC4385)
+    - 2021-07-19 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0776, PIONSNR5S359BTC0777)
+  - Discussion en séance publique
+    - 2021-07-20 : Discussion en séance publique
+    - 2021-07-20 : Décision
+  - Discussion en séance publique
+    - 2021-07-23 : Discussion en séance publique
+    - 2021-07-23 : Décision
+  - 2021-07-19 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-08-02 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2025-02-19 : Rapport sur l'application des lois (RINFANR5L17B0997)
