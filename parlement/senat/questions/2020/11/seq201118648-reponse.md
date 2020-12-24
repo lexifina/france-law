@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118648
+
+- Question : [SEQ201118648](seq201118648.md) — Situation des radios locales associatives
+
+## Réponse
+
+*Culture, JO du 2020-12-24, page 6227*
+
+Les radios associatives locales, qui représentent plus de 700 structures en France, jouent un rôle essentiel en faveur de la communication de proximité et de la diversité culturelle au plus près des territoires. Le Gouvernement porte donc une attention toute particulière au soutien apporté à ce tissu exceptionnel de médias de proximité. À cet effet, le projet de loi de finances pour 2021, malgré le contexte particulièrement contraint des finances publiques, renforce les crédits du Fonds de soutien à l'expression radiophonique (FSER) portés à 32 millions d'euros, soit une hausse de 1,25 million d'euros sur un an. Cet effort illustre la volonté du Gouvernement de favoriser un dispositif qui a fait ses preuves et qui représente en moyenne 40 % des ressources de ces structures. Par ailleurs, le ministère de la culture adaptera les critères pour le calcul des aides versées au titre du FSER pour l'année 2021, afin de tenir compte des circonstances particulières dans lesquelles l'activité de ces radios associatives s'est inscrite pendant la crise sanitaire. En outre, la loi de finances rectificatives du 30 novembre 2020 permet la mise en œuvre d'un fonds d'urgence de 30 millions d'euros en direction des petites associations employeuses de moins de 10 salariés. Elles pourront ainsi obtenir une aide d'un montant allant entre 5 000 et 8 000 euros. Cette aide doit leur permettre de poursuivre leur activité pendant la crise, de financer les emplois de leurs salariés et de pallier les difficultés liées à la trésorerie. Les radios associatives locales seront éligibles à ce dispositif qui sera déployé au début de l'année 2021 par le secrétariat d'État chargé de l'économie sociale, solidaire et responsable.
