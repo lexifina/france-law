@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717448
+
+- Question : [SEQ200717448](seq200717448.md) — Opération Barkhane
+
+## Réponse
+
+*Armées, JO du 2020-12-24, page 6215*
+
+Ces derniers mois, des avancées significatives ont été obtenues dans le cadre de l'opération Barkhane : élimination de hauts responsables des groupes terroristes, reconquête de territoires, meilleur partage de renseignements, redéploiement des armées locales. Ces résultats accréditent le bien-fondé des options françaises et le haut niveau d'engagement de nos armées. Cette dynamique encourageante doit être poursuivie et amplifiée. À cette fin, la France a besoin de l'engagement de ses alliés à ses côtés. C'est pourquoi des forces spéciales européennes vont compléter le dispositif français au Sahel. La force Takuba est engagée directement aux côtés de nos partenaires maliens. Le déploiement de Takuba relève le niveau de l'effort européen de lutte contre le terrorisme et accompagne nos partenaires vers l'autonomie tactique. La nette montée en puissance de la force conjointe du G5 Sahel depuis un an est une réalité. L'opération SAMA qui a engagé près de 1 500 soldats burkinabés, maliens et nigériens dans la région des trois frontières illustre bien le franchissement d'une nouvelle étape. Par ailleurs, le mécanisme de commandement conjoint qui regroupe des officiers d'état-major français et de tous les pays du G5 est devenu un maillon essentiel de la coordination des opérations dans la bande sahélo-saharienne. Les échanges d'officiers de liaison seront maintenus pour accompagner l'autonomisation de la force conjointe du G5 Sahel. Au-delà du seul effort militaire, c'est le retour de l'État, des administrations, des services publics que la France continue à appuyer au Sahel, notamment en permettant à des magistrats, des préfets et des policiers de remplir leurs missions auprès des populations.
