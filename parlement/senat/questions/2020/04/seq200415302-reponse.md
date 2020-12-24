@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415302
+
+- Question : [SEQ200415302](seq200415302.md) — Situation des indépendants durant l'épidémie de Covid-19
+
+## Réponse
+
+*Économie, finances et relance, JO du 2020-12-24, page 6250*
+
+Pleinement conscient des difficultés propres aux petites entreprises et aux entrepreneurs indépendants frappés par la crise sanitaire du Coronavirus Covid-19, le Gouvernement a mis en place des aides exceptionnelles et immédiates : des actions économiques concrètes à court terme et des mesures pour l'emploi. Parmi ces mesures, le fonds de solidarité qui donne droit à une aide pouvant aller jusqu'à 1 500 € (et, sous conditions, un soutien supplémentaire compris entre 2 000 et 5 000 €) en fonction de la perte de chiffre d'affaires subie pour aider les plus petites entreprises les plus touchées par la crise. Le 10 avril 2020, le ministre des solidarités et de la santé, le ministre de l'économie et des finances et le ministre de l'action et des comptes publics ont validé la proposition du Conseil de la protection sociale des travailleurs indépendants (CPSTI) de mobiliser les réserves financières du régime complémentaire des indépendants à hauteur de 1 Md€ pour financer une aide exceptionnelle. Cette aide spécifique correspond au montant des cotisations de retraite complémentaire versées par les artisans et commerçants sur la base de leurs revenus de 2018 et peut aller jusqu'à 1 250 €. Elle est versée de façon automatique par les Urssaf et ne nécessite aucune démarche des travailleurs indépendants concernés. Par ailleurs, les ministres ont annoncé que le montant de cette aide est exonéré d'impôt sur le revenu et des cotisations et contributions sociales. Cette aide exceptionnelle complète l'ensemble des mesures prises en faveur des travailleurs indépendants afin de maintenir leur activité et permettre une reprise rapide de l'économie.
