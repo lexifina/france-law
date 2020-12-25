@@ -1,0 +1,29 @@
+# Article Annexe I
+
+Le tableau 1 présente les résultats, sans prise en compte des mesures de prévention, pour chacune des fiches génériques correspondant à une activité précise et pour chacun des facteurs de pénibilité présents. Les résultats sont donnés dans ce tableau en partant de l'hypothèse que l'activité est exercée pendant 100 % du temps.
+
+Le tableau 2 présente l'impact des mesures de prévention susceptibles de modifier les résultats. Les petits rectangles rouges marquent le rappel de ce qu'était la prévention avant la mise en place de ces mesures, qui peuvent être la présence d'équipements de protection collective ou individuelle, mais aussi les investissements sur le matériel ou l'organisation.
+
+Le tableau 3 présente les données mesurées sur le terrain pour chacun des facteurs de pénibilité présents. C'est à partir de ces données mesurées que les calculs d'exposition ont été faits.
+
+Légende des facteurs de pénibilité
+
+|
+
+Exposition en dessous du seuil de pénibilité et sans impact significatif |
+
+|
+
+Exposition en dessous du seuil de pénibilité avec un impact qui doit être pris en compte dans le cadre du document unique |
+
+|
+
+Exposition au-dessus du seuil de pénibilité |
+
+1 234 h |
+
+Valeurs sur une année moyenne en heures ou en kg qui sont comparées aux seuils de la loi |
+
+(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
+
+https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20180050_0000_0008.pdf&isForGlobalBocc=false
