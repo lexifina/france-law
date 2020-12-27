@@ -44,515 +44,389 @@ L'examinateur demande au candidat de préciser certains points de la biographie 
 
 Enfin, pour évaluer le candidat dans différentes situations linguistiques, sont abordés, au cours d'une conversation sans ordre de priorité, au moins les trois sujets différents : un sujet relatif à une problématique pratique de la vie courante, un sujet traitant de la défense et un sujet de réflexion à caractère général. Cette conversation sera d'une durée de quinze minutes.
 
-4. Epreuves physiques
+4. Epreuves physiques.
 
-4.1. Modalités
+4.1. Modalités.
 
 Les épreuves physiques sont identiques pour les hommes et pour les femmes, mais font l'objet d'un barème spécifique à chacun des sexes.
 
-Elles se composent des épreuves sportives réalisées conformément aux dispositions de l'instruction relative au contrôle de la condition physique du militaire (CCPM) en vigueur au sein de l'armée de terre :
+Les épreuves physiques sont identiques à celles effectuées dans le cadre de la condition physique générale (CCPG). Elles comprennent :
 
-- un test de type cooper , effectué sur piste (course de 12 min en mètres) ;
+1° une épreuve d'endurance cardio-respiratoire (course pédestre de 2 400 mètres) ;
 
-- une épreuve de natation de 100 mètres nage libre et 10 mètres en apnée, en piscine, avec ou sans virage, après un départ plongé ou sauté depuis le plot de départ ;
+2° un test d'aisance aquatique (15 mètres d'apnée + distance restante nécessaire pour couvrir 100 mètres) ;
 
-- un grimper de corde : l'épreuve consiste à grimper en style libre deux fois une hauteur de cinq mètres mesurée à partir du sol dans les délais les plus courts ;
+3° un test de capacité musculaire générale (flexions de bras en appui facial) ;
 
-- une épreuve d'abdominaux.
+Pour chaque épreuve, le protocole est précisé par l'instruction relative au contrôle de la condition physique du militaire pour l'armée de terre.
 
-Les épreuves de grimper de corde et d'abdominaux sont notées sur 10.
+4.2. Barème des épreuves physiques.
 
-4.2. Barèmes
-
-En ce qui concerne les épreuves physiques, toute performance qui se trouve comprise entre deux performances attribue la note correspondant à la performance inférieure.
+Toute performance qui se trouve comprise entre deux performances entraîne la note correspondant à la performance inférieure.
 
 Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celles de la note 1 sont notées zéro.
 
-Les épreuves physiques sont ramenées à une note sur 20.
+Chaque épreuve est notée sur 20, soit un total de 60 points ramené à une note finale sur 20.
 
-Barème masculin
-
-SÉNIOR (≤ 39 ANS). |
+BARÈME MASCULIN |
 
 POINTS |
 
-COURSE DE 12 MIN
+AISANCE AQUATIQUE (15 M APNÉE + 85 M NATATION) EN MINUTES ET SECONDES |
 
-EN MÈTRES |
+CAPACITÉ MUSCULAIRE GÉNÉRALE (FLEXIONS DE BRAS EN APPUI FACIAL) EN NOMBRE DE RÉPÉTITIONS |
 
-AISANCE AQUATIQUE
-
-EN SECONDES |
-
-CORDE EN SECONDES
-
-PUIS EN MÈTRES |
-
-ABDOMINAUX
-
-EN NOMBRE |
+ENDURANCE CARDIO-RESPIRATOIRE (COURSE PÉDESTRE DE 2 400 M) EN MINUTES ET SECONDES |
 
 20 |
 
-3300 |
-
-100 |
-
-- |
-
-- |
-
-19 |
-
-3200 |
-
-110 |
-
-- |
-
-- |
-
-18 |
-
-3100 |
-
-120 |
-
-- |
-
-- |
-
-17 |
-
-3000 |
-
-130 |
-
-- |
-
-- |
-
-16 |
-
-2900 |
-
-140 |
-
-- |
-
-- |
-
-15 |
-
-2800 |
-
-150 |
-
-- |
-
-- |
-
-14 |
-
-2700 |
-
-160 |
-
-- |
-
-- |
-
-13 |
-
-2600 |
-
-170 |
-
-- |
-
-- |
-
-12 |
-
-2500 |
-
-180 |
-
-- |
-
-- |
-
-11 |
-
-2450 |
-
-190 |
-
-- |
-
-- |
-
-10 |
-
-2400 |
-
-100 m + 10 ma |
-
-10 |
-
-55 |
-
-09 |
-
-2350 |
-
-|
-
-12 |
+1'30 ” |
 
 50 |
 
-08 |
-
-2300 |
-
-100 m + 5 ma |
-
-14 |
-
-45 |
-
-07 |
-
-2250 |
-
-- |
-
-16 |
-
-40 |
-
-06 |
-
-2200 |
-
-100 |
-
-18 |
-
-35 |
-
-05 |
-
-2150 |
-
-75 m |
-
-7 m |
-
-30 |
-
-04 |
-
-2100 |
-
-50 m |
-
-6 m |
-
-27 |
-
-03 |
-
-2050 |
-
-25 m |
-
-5 m |
-
-24 |
-
-02 |
-
-2000 |
-
-- |
-
-4 m |
-
-21 |
-
-01 |
-
-1950 |
-
-- |
-
-3 m |
-
-18 |
-
-00 |
-
-< 1950 |
-
-< 25 m |
-
-< 3 m |
-
-< 18 |
-
-Épreuve sur : |
-
-20 pts |
-
-20 pts |
-
-10 pts |
-
-10 pts |
-
-Barème féminin
-
-SÉNIOR (≤ 39 ANS) |
-
-POINTS |
-
-COURSE DE 12 MN
-
-EN MÈTRES |
-
-AISANCE AQUATIQUE
-
-EN SECONDES |
-
-CORDE EN SECONDES
-
-PUIS EN MÈTRES |
-
-ABDOMINAUX
-
-EN NOMBRE |
-
-20 |
-
-2900 |
-
-120 |
-
-- |
-
-- |
+8'45 ” |
 
 19 |
 
-2800 |
+1'39 ” |
 
-130 |
+47 |
 
-- |
-
-- |
+9'00 ” |
 
 18 |
 
-2700 |
+1'48 ” |
 
-140 |
+44 |
+
+9'15 ” |
+
+17 |
+
+1'57 ” |
+
+41 |
+
+9'30 ” |
+
+16 |
+
+2'06 ” |
+
+38 |
+
+9'45 ” |
+
+15 |
+
+2'15 ” |
+
+35 |
+
+10'00 ” |
+
+14 |
+
+2'24 ” |
+
+32 |
+
+10'15 ” |
+
+13 |
+
+2'33 ” |
+
+29 |
+
+10'30 ” |
+
+12 |
+
+2'42 ” |
+
+28 |
+
+10'45 ” |
+
+11 |
+
+2'51 ” |
+
+26 |
+
+11'00 ” |
+
+10 |
+
+15 m apnée +
+
+85 m natation |
+
+25 |
+
+11'15 ” |
+
+9 |
 
 - |
+
+23 |
+
+11'30 ” |
+
+8 |
+
+≥ à 10 m apnée < 15 m d'apnée et termine l'épreuve |
+
+22 |
+
+11'45 ” |
+
+7 |
+
+5 m ≥ apnée < 10 m et termine l'épreuve |
+
+20 |
+
+12'00 ” |
+
+6 |
+
+5 m < et termine l'épreuve |
+
+19 |
+
+12'15 ” |
+
+5 |
 
 - |
 
 17 |
 
-2600 |
+12'30 ” |
 
-150 |
+4 |
 
-- |
-
-- |
+15 m d'apnée mais ne termine pas l'épreuve |
 
 16 |
 
-2500 |
+12'45 ” |
 
-160 |
+3 |
 
-- |
-
-- |
-
-15 |
-
-2400 |
-
-170 |
-
-- |
-
-- |
+≥ 10 m apnée < 15 m d'apnée et ne termine pas l'épreuve |
 
 14 |
 
-2300 |
+13'00 ” |
 
-180 |
+2 |
 
-- |
-
-- |
+5 m ≥ apnée < 10 m et ne termine pas l'épreuve |
 
 13 |
 
-2200 |
+13'15 ” |
 
-190 |
-
-- |
-
-- |
-
-12 |
-
-2100 |
-
-200 |
-
-- |
+1 |
 
 - |
 
 11 |
 
-2000 |
+13'30 ” |
 
-210 |
+0 |
 
-- |
+5 m < ne termine pas l'épreuve |
 
-- |
+< 11 |
 
-10 |
+> 13'30 ” |
 
-1900 |
+BARÈME FÉMININ |
 
-100 m + 10 ma |
+POINTS |
 
-16 |
+AISANCE AQUATIQUE (15 M APNÉE + 85 M NATATION) EN MINUTES ET SECONDES |
 
-45 |
+CAPACITÉ MUSCULAIRE GÉNÉRALE (FLEXIONS DE BRAS EN APPUI FACIAL) EN NOMBRE DE RÉPÉTITIONS |
 
-09 |
-
-1850 |
-
-- |
+ENDURANCE CARDIO-RESPIRATOIRE (COURSE PÉDESTRE DE 2 400 M) EN MINUTES ET SECONDES |
 
 20 |
+
+1'50 ” |
 
 40 |
 
-08 |
+10'05 ” |
 
-1800 |
+19 |
 
-100 m + 5 ma |
+1'59 ” |
 
-24 |
+37 |
 
-35 |
+10'20 ” |
 
-07 |
+18 |
 
-1750 |
+2'08 ” |
 
-- |
+34 |
 
-28 |
-
-30 |
-
-06 |
-
-1700 |
-
-100 |
-
-32 |
-
-25 |
-
-05 |
-
-1650 |
-
-75 m |
-
-7 m |
-
-20 |
-
-04 |
-
-1600 |
-
-50 m |
-
-6 m |
+10'35 ” |
 
 17 |
 
-03 |
+2'17 ” |
 
-1550 |
+31 |
 
-25 m |
+10'50 ” |
 
-5 m |
+16 |
+
+2'26 ” |
+
+28 |
+
+11'05 ” |
 
 15 |
 
-02 |
+2'35 ” |
 
-1500 |
+25 |
 
-- |
+11'20 ” |
 
-4 m |
+14 |
+
+2'44 ” |
+
+22 |
+
+11'35 ” |
+
+13 |
+
+2'53 ” |
+
+21 |
+
+11'50 ” |
 
 12 |
 
-01 |
+3'02 ” |
 
-1450 |
+19 |
 
-- |
+12'05 ” |
 
-3 m |
+11 |
+
+3'11 ” |
+
+18 |
+
+12'20 ” |
+
+10 |
+
+15 m apnée +
+
+85 m natation |
+
+17 |
+
+12'35 ” |
 
 9 |
 
-00 |
+- |
 
-< 1450 |
+16 |
 
-< 25 m |
+12'50 ” |
 
-< 3 m |
+8 |
 
-< 9 |
+≥ à 10 m apnée < 15 m d'apnée et termine l'épreuve |
 
-Épreuve sur : |
+15 |
 
-20 pts |
+13'05 ” |
 
-20 pts |
+7 |
 
-10 pts |
+5 m ≥ apnée < 10 m et termine l'épreuve |
 
-10 pts |
+14 |
+
+13'20 ” |
+
+6 |
+
+5 m < et termine l'épreuve |
+
+13 |
+
+13'35 ” |
+
+5 |
+
+- |
+
+12 |
+
+13'50 |
+
+4 |
+
+15 m d'apnée mais ne termine pas l'épreuve |
+
+11 |
+
+14'05 ” |
+
+3 |
+
+≥ 10 m apnée < 15 m d'apnée et ne termine pas l'épreuve |
+
+10 |
+
+14'20 ” |
+
+2 |
+
+5 m ≥ apnée < 10 m et ne termine pas l'épreuve |
+
+9 |
+
+14'35 ” |
+
+1 |
+
+- |
+
+8 |
+
+14'50 ” |
+
+0 |
+
+5 m < ne termine pas l'épreuve |
+
+< 8 |
+
+> 14'50 ” |
 
 5. Epreuve optionnelle de langue vivante
 
@@ -561,3 +435,7 @@ Elle consiste en une interrogation, comprenant la lecture, l'explication dans la
 Les langues autorisées sont l'allemand, l'espagnol, l'italien, l'arabe moderne et le russe.
 
 Les candidats de la filière lettres choisiront obligatoirement une langue différente de la langue vivante 2 (LV2) choisie à l'admissibilité.
+
+NOTA :
+
+Conformément à l'article 26 de l'arrêté du 11 juillet 2022 (ARMH2220775A), ces dispositions sont applicables à la date d'ouverture du concours de la session 2023.
