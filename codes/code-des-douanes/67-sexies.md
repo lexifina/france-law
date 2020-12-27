@@ -10,7 +10,7 @@ Sont exclues de la transmission mentionnée au premier alinéa :
 
 Cette transmission ne peut, en aucun cas, porter atteinte au secret des correspondances.
 
-II. ― Pour permettre la constatation des infractions mentionnées aux articles 414, 415 et 459 du présent code, le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, le ministre chargé des douanes est autorisé à mettre en œuvre des traitements automatisés des données transmises en application du I du présent article.
+II. ― Pour permettre la constatation des infractions mentionnées aux articles 414, 414-2, 415 et 459 du présent code, le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, le ministre chargé des douanes est autorisé à mettre en œuvre des traitements automatisés des données transmises en application du I du présent article.
 
 Seuls les agents des douanes individuellement désignés et spécialement habilités par le ministre chargé des douanes ont accès à ces données.
 
