@@ -252,7 +252,7 @@ Les modalités d'organisation et d'observation de l'activité professionnelle de
 
 Dans ce cas, la situation professionnelle (réalisation de l'activité de référence) peut être également décrite au moyen du livret de suivi de la formation en entreprise.
 
-Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'Éducation nationale, est diffusée aux établissements par les services rectoraux des examens et concours. Elle doit être utilisée, à l'exclusion de tout autre, tant pour les candidats relevant de l'épreuve ponctuelle, que pour ceux relevant du contrôle en cours de formation. La commission d'évaluation est composée de trois membres au moins :
+Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours. Elle doit être utilisée, à l'exclusion de tout autre, tant pour les candidats relevant de l'épreuve ponctuelle, que pour ceux relevant du contrôle en cours de formation. La commission d'évaluation est composée de trois membres au moins :
 
 • un enseignant intervenant dans le domaine professionnel du transport fluvial,
 
@@ -470,7 +470,7 @@ Pour chaque session, le recteur fixe la date à laquelle les candidats doivent r
 
 Il est à noter qu'en l'absence du rapport d'activités et/ ou du livret de suivi des périodes de formation en milieu professionnel, le candidat se verra attribuer la note zéro à cette sous-épreuve.
 
-Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'Éducation nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
+Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours.
 
 CONTEXTE PROFESSIONNEL : RELATIONS ENTRE COMPÉTENCES DE L'ÉPREUVE E31 ET LES ACTIVITÉS PROFESSIONNELLES
 
@@ -724,7 +724,7 @@ On notera que pour effectuer les tâches demandées, certaines autres compétenc
 
 S'il est bien entendu que la mise en œuvre des compétences à évaluer nécessite la mobilisation des savoirs correspondants, il ne saurait être question d'évaluer les seuls savoirs.
 
-Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements par les services rectoraux des examens et concours. Elle doit être utilisée, à l'exclusion de toute autre, tant pour les candidats relevant de l'épreuve ponctuelle, que pour ceux relevant du contrôle en cours de formation.
+Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours. Elle doit être utilisée, à l'exclusion de toute autre, tant pour les candidats relevant de l'épreuve ponctuelle, que pour ceux relevant du contrôle en cours de formation.
 
 2. CONDITIONS DE RÉALISATION
 
@@ -986,7 +986,7 @@ Les supports relatifs à l'évaluation sont mis à disposition par le ministère
 
 L'évaluation est réalisée par un enseignant du domaine professionnel assurant les enseignements de transport fluvial.
 
-Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements par les services rectoraux des examens et concours. Elle doit être utilisée, à l'exclusion de tout autre, tant pour les candidats relevant de l'épreuve ponctuelle, que pour ceux relevant du contrôle en cours de formation.
+Une fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours. Elle doit être utilisée, à l'exclusion de tout autre, tant pour les candidats relevant de l'épreuve ponctuelle, que pour ceux relevant du contrôle en cours de formation.
 
 • CONTEXTE PROFESSIONNEL : Relations entre compétences de l'épreuve E 33 et les activités professionnelles :
 

@@ -92,7 +92,7 @@ L'équipe pédagogique de l'établissement de formation constitue, pour chaque c
 
 - une description sommaire de la ou des tâches exécutées par le candidat.
 
-Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux services rectoraux des examens et concours. Cette fiche complétée pour chaque candidat sera obligatoirement transmise au jury.
+Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux services rectoraux des examens et concours. Cette fiche complétée pour chaque candidat sera obligatoirement transmise au jury.
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation est tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
 
@@ -234,7 +234,7 @@ La période d'évaluation est laissée à l'initiative de l'équipe pédagogique
 
 - une fiche d'évaluation du travail réalisé.
 
-Une fiche d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux services rectoraux des examens et concours. Cette fiche complétée pour chaque candidat sera obligatoirement transmise au jury.
+Une fiche d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux services rectoraux des examens et concours. Cette fiche complétée pour chaque candidat sera obligatoirement transmise au jury.
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
 

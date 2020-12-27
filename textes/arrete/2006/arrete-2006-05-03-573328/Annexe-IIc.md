@@ -20,29 +20,17 @@ Le dossier support de l’évaluation est constitué de tout ou partie des docum
 
 À partir de ce dossier, le candidat met en œuvre ses connaissances pour :
 
-–
+– prendre connaissance du dossier ;
 
-prendre connaissance du dossier ;
+– rechercher et choisir une solution technique d’une installation ;
 
-–
+– choisir des matériels, des matériaux et des équipements ;
 
-rechercher et choisir une solution technique d’une installation ;
+– proposer une méthode de travail pour l’ensemble de l’installation ;
 
-–
+– réaliser le (ou les) schéma(s) fluidique(s) et électrique(s) ;
 
-choisir des matériels, des matériaux et des équipements ;
-
-–
-
-proposer une méthode de travail pour l’ensemble de l’installation ;
-
-–
-
-réaliser le (ou les) schéma(s) fluidique(s) et électrique(s) ;
-
-–
-
-vérifier la faisabilité des solutions techniques retenues.
+– vérifier la faisabilité des solutions techniques retenues.
 
 Critères d’évaluation
 
@@ -66,19 +54,13 @@ Modes d’évaluation
 
 L’épreuve se déroule obligatoirement en salle de construction. Chaque candidat dispose d’un espace individuel de travail comprenant :
 
-–
+– une table de travail pouvant recevoir plusieurs dossiers de format A3.
 
-une table de travail pouvant recevoir plusieurs dossiers de format A3.
-
-–
-
-des moyens multimédias et télématiques s’ils sont prévus à l’épreuve.
+– des moyens multimédias et télématiques s’ils sont prévus à l’épreuve.
 
 Le dossier remis au candidat se décompose en deux parties :
 
-–
-
-un dossier technique de l’installation pouvant être commun à E11 et E2, et comprenant :
+– un dossier technique de l’installation pouvant être commun à E11 et E2, et comprenant :
 
 . la description de la situation professionnelle de la réalisation ;
 
@@ -86,9 +68,7 @@ un dossier technique de l’installation pouvant être commun à E11 et E2, et c
 
 . le descriptif du ou des lots concernés, CCTP… ;
 
-–
-
-un dossier ressource spécifique de l’épreuve et comprenant :
+– un dossier ressource spécifique de l’épreuve et comprenant :
 
 . les fiches techniques relatives aux matériaux, produits et composants ;
 
@@ -178,17 +158,11 @@ Finalités et objectifs de l’épreuve
 
 Les finalités et objectifs de la sous-épreuve sont :
 
-–
+– de vérifier l’aptitude des candidats à choisir et à utiliser du matériel scientifique pour la mise en œuvre d’un protocole expérimental fourni, dans le respect des règles de sécurité ;
 
-de vérifier l’aptitude des candidats à choisir et à utiliser du matériel scientifique pour la mise en œuvre d’un protocole expérimental fourni, dans le respect des règles de sécurité ;
+– d’apprécier leurs savoir-faire expérimentaux, l’organisation de leur travail, la valeur des initiatives qu’ils sont amenés à prendre ;
 
-–
-
-d’apprécier leurs savoir-faire expérimentaux, l’organisation de leur travail, la valeur des initiatives qu’ils sont amenés à prendre ;
-
-–
-
-de vérifier leur capacité à rendre compte par oral ou par écrit des travaux réalisés.
+– de vérifier leur capacité à rendre compte par oral ou par écrit des travaux réalisés.
 
 Contenus
 
@@ -198,9 +172,7 @@ Formes de l’épreuve
 
 Évaluation ponctuelle pratique (durée : 45 minutes)
 
-L’évaluation, notée sur 20 points, concerne les compétences expérimentales liées à la formation méthodologique de base. Le matériel que le candidat sera amené à utiliser est celui fixé par la note de service n° 96-070 du 8 mars 1996 (BOEN
-
-n° 12 du 21 mars 1996).
+L’évaluation, notée sur 20 points, concerne les compétences expérimentales liées à la formation méthodologique de base. Le matériel que le candidat sera amené à utiliser est celui fixé par la note de service n° 96-070 du 8 mars 1996 (BOENn° 12 du 21 mars 1996).
 
 Les candidats formés dans l’enseignement public ou dans l’enseignement privé sous contrat passent l’évaluation dans leur établissement. Des mesures particulières d’accueil sont prises pour les autres candidats. Ces derniers seront affectés dans les établissements par le recteur. L’évaluation est assurée par des professeurs de la discipline exerçant de préférence dans l’établissement.
 
@@ -224,19 +196,11 @@ Lors de chaque situation expérimentale, le candidat est évalué à partir d’
 
 Lors de l’évaluation, il est demandé au candidat :
 
-–
+– d’utiliser correctement le matériel mis à sa disposition et dont la liste est fixée par la note de service n° 96-070 du 8 mars 1996 (BOENn° 12 du 21 mars 1996) ;
 
-d’utiliser correctement le matériel mis à sa disposition et dont la liste est fixée par la note de service n° 96-070 du 8 mars 1996 (BOEN
+– de mettre en œuvre un protocole expérimental ;
 
-n° 12 du 21 mars 1996) ;
-
-–
-
-de mettre en œuvre un protocole expérimental ;
-
-–
-
-de rendre compte par écrit des résultats des travaux réalisés.
+– de rendre compte par écrit des résultats des travaux réalisés.
 
 En pratique, le candidat porte sur une fiche qu’il complète en cours de manipulation les résultats de ses observations, de ses mesures et, le cas échéant, de leur exploitation. L’évaluateur élabore un guide d’observation qui lui permet d’évaluer les savoir-faire expérimentaux du candidat lors de ses manipulations.
 
@@ -258,21 +222,13 @@ Le dossier support de l’évaluation est constitué de tout ou partie des docum
 
 À partir de ce dossier, le candidat met en œuvre ses connaissances pour :
 
-–
+– établir le quantitatif des matériels et matériaux à mettre en œuvre ;
 
-établir le quantitatif des matériels et matériaux à mettre en œuvre ;
+– se situer dans la planification pour gérer les ressources humaines et les moyens matériels ;
 
-–
+– appréhender les risques et choisir les équipements de protection individuelle et collective liés à l’intervention ;
 
-se situer dans la planification pour gérer les ressources humaines et les moyens matériels ;
-
-–
-
-appréhender les risques et choisir les équipements de protection individuelle et collective liés à l’intervention ;
-
-–
-
-estimer le coût d’une modification simple d’une installation.
+– estimer le coût d’une modification simple d’une installation.
 
 Critères d’évaluation
 
@@ -294,19 +250,13 @@ Modes d’évaluation
 
 Évaluation ponctuelle : épreuve écrite (durée : 2 heures) L’épreuve se déroule obligatoirement en salle. Chaque candidat dispose d’un espace individuel de travail comprenant :
 
-–
+– une table de travail pouvant recevoir plusieurs dossiers de format A3.
 
-une table de travail pouvant recevoir plusieurs dossiers de format A3.
-
-–
-
-des moyens multimédias et télématiques s’ils sont prévus à l’épreuve.
+– des moyens multimédias et télématiques s’ils sont prévus à l’épreuve.
 
 Le dossier remis au candidat se décompose en deux parties :
 
-–
-
-un dossier technique de l’installation qui peut être commun à E11 et E2, et comprenant :
+– un dossier technique de l’installation qui peut être commun à E11 et E2, et comprenant :
 
 .la description de la situation professionnelle de la réalisation ;
 
@@ -314,9 +264,7 @@ un dossier technique de l’installation qui peut être commun à E11 et E2, et 
 
 .le descriptif du ou des lots concernés, CCTP… ;
 
-–
-
-un dossier ressource spécifique de l’épreuve et comprenant :
+– un dossier ressource spécifique de l’épreuve et comprenant :
 
 .des plans et documents complémentaires au dossier technique ;
 
@@ -354,11 +302,7 @@ E3/U31, U32, U33 – épreuve pratique prenant en compte la formation en milieu 
 
 Coefficient 8
 
-Sous-épreuve E31/U31
-
-–
-
-présentation d’un dossier d’activité
+Sous-épreuve E31/U31 – présentation d’un dossier d’activité
 
 Coefficient 2
 
@@ -368,51 +312,31 @@ Cette épreuve s’appuie sur les activités du candidat en entreprise soit au c
 
 Elle doit permettre d’évaluer :
 
-–
+– les connaissances du candidat liées à l’organisation, au fonctionnement et à la gestion de l’entreprise ;
 
-les connaissances du candidat liées à l’organisation, au fonctionnement et à la gestion de l’entreprise ;
+– les compétences du candidat liées à l’utilisation des outils et techniques de communication habituellement utilisées dans l’entreprise et son aptitude à organiser et animer une petite équipe de travail en atelier ou sur chantier ;
 
-–
-
-les compétences du candidat liées à l’utilisation des outils et techniques de communication habituellement utilisées dans l’entreprise et son aptitude à organiser et animer une petite équipe de travail en atelier ou sur chantier ;
-
-–
-
-la capacité à replacer l’application et le procédé dans son contexte historique.
+– la capacité à replacer l’application et le procédé dans son contexte historique.
 
 Le candidat doit rendre compte de son activité en entreprise au travers d’un dossier et de sa présentation orale. Le dossier est structuré en deux parties complémentaires :
 
-–
+– la première partie fait référence à l’organisation, au fonctionnement et à la gestion de l’entreprise en lien avec le programme d’économie et gestion : notée sur 20 ;
 
-la première partie fait référence à l’organisation, au fonctionnement et à la gestion de l’entreprise en lien avec le programme d’économie et gestion : notée sur 20 ;
-
-–
-
-la deuxième partie présente les réalisations d’installations effectuées par le candidat en entreprise en lien avec le référentiel du domaine professionnel : notée sur 20.
+– la deuxième partie présente les réalisations d’installations effectuées par le candidat en entreprise en lien avec le référentiel du domaine professionnel : notée sur 20.
 
 À l’issue des périodes de formation en milieu professionnel, seront délivrées des attestations permettant de vérifier le respect de la durée de la formation en entreprise et le secteur d’activité de cette formation. Un candidat qui n’aura pas présenté ces pièces ne pourra pas valider les sous- épreuves E31 Présentation d’un dossier d’activité (unité U31) et E32 Implantation, réalisation (unité U32).
 
 Critères d’évaluation
 
-Pour la partie économie gestion, les indicateurs d’évaluation correspondent à l’ensemble des capacités et des compétences, des objectifs et des contenus, présentés par le programme référentiel défini par l’annexe V de l’arrêté du 17 août 1987 relatif au programme des classes préparant aux baccalauréats professionnels du secteur industriel (BO
+Pour la partie économie gestion, les indicateurs d’évaluation correspondent à l’ensemble des capacités et des compétences, des objectifs et des contenus, présentés par le programme référentiel défini par l’annexe V de l’arrêté du 17 août 1987 relatif au programme des classes préparant aux baccalauréats professionnels du secteur industriel (BOn° 32 du 17 septembre 1987). L’objectif de cette partie d’épreuve est de vérifier l’aptitude du candidat à :
 
-n° 32 du 17 septembre 1987). L’objectif de cette partie d’épreuve est de vérifier l’aptitude du candidat à :
+– replacer son activité professionnelle dans le cadre général de l’entreprise, de son fonctionnement ;
 
-–
+– tenir compte de sa dimension humaine, des contraintes de gestion et des contraintes juridiques et réglementaires ;
 
-replacer son activité professionnelle dans le cadre général de l’entreprise, de son fonctionnement ;
+– exploiter une documentation simple pour déterminer ses droits et obligations dans le cadre de l’exercice de sa profession ;
 
-–
-
-tenir compte de sa dimension humaine, des contraintes de gestion et des contraintes juridiques et réglementaires ;
-
-–
-
-exploiter une documentation simple pour déterminer ses droits et obligations dans le cadre de l’exercice de sa profession ;
-
-–
-
-analyser et éventuellement résoudre les problèmes simples de gestion qu’il peut rencontrer dans l’exercice de son activité professionnelle.
+– analyser et éventuellement résoudre les problèmes simples de gestion qu’il peut rencontrer dans l’exercice de son activité professionnelle.
 
 Pour la partie professionnelle, les indicateurs d’évaluation correspondant aux compétences évaluées figurent dans la colonne Critères d’évaluation des tableaux décrivant les compétences. L’évaluation porte sur tout ou partie des compétences suivantes et des savoirs qui leur sont associés :
 
@@ -432,13 +356,9 @@ Le rapport d’activités
 
 Le rapport rédigé par le candidat est composé de deux parties :
 
-–
+– A. L’entreprise et son environnement
 
-A. L’entreprise et son environnement
-
-–
-
-B. Les activités professionnelles exercées pendant la période de formation en milieu professionnel
+– B. Les activités professionnelles exercées pendant la période de formation en milieu professionnel
 
 .B1. Inventaire des situations professionnelles vécues en entreprise
 
@@ -458,45 +378,27 @@ B1. Inventaire des situations professionnelles vécues en entreprise
 
 Le candidat résume ici l’ensemble des activités et des tâches professionnelles accomplies pendant la période de formation en milieu professionnel du point de vue :
 
-–
+– des activités (situations de réalisation sur chantier, installations réalisées, matériaux utilisés…) ;
 
-des activités (situations de réalisation sur chantier, installations réalisées, matériaux utilisés…) ;
+– des moyens techniques mis en œuvre (outillages et matériels utilisés, dispositifs de sécurité…) ;
 
-–
-
-des moyens techniques mis en œuvre (outillages et matériels utilisés, dispositifs de sécurité…) ;
-
-–
-
-des méthodes utilisées (méthodes de tracé, d’exécution, de mise en œuvre…).
+– des méthodes utilisées (méthodes de tracé, d’exécution, de mise en œuvre…).
 
 B2. Compte rendu de réalisation d’une installation organisée et animée par le candidat
 
 Dans cette partie, le candidat présente l’organisation et le déroulement de la réalisation d’une installation et/ou d’une mise en service sur chantier auquel il a participé au sein d’une équipe en dernière année de formation, et au cours de laquelle il a eu à animer partiellement ou totalement une partie des activités. Tout en s’appuyant sur les aspects techniques de la réalisation, le compte rendu privilégiera les aspects :
 
-–
+– organisationnel (organisation des postes de travail, gestion de l’espace, gestion des déchets…) ;
 
-organisationnel (organisation des postes de travail, gestion de l’espace, gestion des déchets…) ;
+– gestion des moyens (planning de mise en œuvre, répartition des tâches, suivi et ajustement…) ;
 
-–
+– gestion de la sécurité (analyse des risques, application du PPSPS, consignes de sécurité…) ;
 
-gestion des moyens (planning de mise en œuvre, répartition des tâches, suivi et ajustement…) ;
+– gestion de la qualité (démarche de contrôle, mise en œuvre de procédures…) ;
 
-–
+– relationnel (gestion des interfaces avec les autres corps d’état, avec la coordination de chantier…) ;
 
-gestion de la sécurité (analyse des risques, application du PPSPS, consignes de sécurité…) ;
-
-–
-
-gestion de la qualité (démarche de contrôle, mise en œuvre de procédures…) ;
-
-–
-
-relationnel (gestion des interfaces avec les autres corps d’état, avec la coordination de chantier…) ;
-
-–
-
-formatif (formation de personnel moins qualifié, démonstration de technique, de savoir-faire…).
+– formatif (formation de personnel moins qualifié, démonstration de technique, de savoir-faire…).
 
 La présentation orale du rapport
 
@@ -506,25 +408,17 @@ Les durées d’intervention relatives aux deux parties à traiter, lors de l’
 
 Exposé du compte rendu
 
-–
+– Exposé de la partie A : durée 10 minutes. Le candidat présente l’entreprise et expose les différentes études de cas observés.
 
-Exposé de la partie A : durée 10 minutes. Le candidat présente l’entreprise et expose les différentes études de cas observés.
-
-–
-
-Exposé de la partie B2 : durée 10 minutes. Le candidat expose oralement le compte rendu de son activité d’organisation et d’animation en entreprise au cours de sa formation.
+– Exposé de la partie B2 : durée 10 minutes. Le candidat expose oralement le compte rendu de son activité d’organisation et d’animation en entreprise au cours de sa formation.
 
 Entretien avec la commission d’interrogation
 
 À l’issue de l’exposé, au cours d’un entretien, le jury questionne le candidat sur :
 
-–
+– l’organisation, le fonctionnement et la gestion de l’entreprise au travers des études de cas observés en entreprise, durée 10 minutes ;
 
-l’organisation, le fonctionnement et la gestion de l’entreprise au travers des études de cas observés en entreprise, durée 10 minutes ;
-
-–
-
-l’organisation du travail, les solutions techniques et moyens de mise en œuvre retenus et leur justification, durée 10 minutes.
+– l’organisation du travail, les solutions techniques et moyens de mise en œuvre retenus et leur justification, durée 10 minutes.
 
 Contrôle en cours de formation
 
@@ -568,9 +462,7 @@ Le rapport d’activités
 
 Le rapport rédigé par le candidat est composé d’une seule partie :
 
-–
-
-B. Les activités professionnelles exercées pendant la période de formation en milieu professionnel
+– B. Les activités professionnelles exercées pendant la période de formation en milieu professionnel
 
 .B1. Inventaire des situations professionnelles vécues en entreprise
 
@@ -582,7 +474,7 @@ En l’absence de rapport d’activités, l’interrogation ne peut avoir lieu. 
 
 Le déroulement est identique à celui défini dans l’évaluation ponctuelle pour cette partie B.
 
-À l’issue de la situation d’évaluation, l’équipe pédagogique de l’établissement de formation complètera, pour chaque candidat, la fiche d’évaluation du travail réalisé conclue par la proposition de note établie conjointement par l’équipe pédagogique et le(s) professionnel(s) associé(s). Une fiche type d’évaluation du travail réalisé, rédigée et mise à jour par l’inspection générale de l’Éducation nationale, est diffusée aux services rectoraux des examens et concours.
+À l’issue de la situation d’évaluation, l’équipe pédagogique de l’établissement de formation complètera, pour chaque candidat, la fiche d’évaluation du travail réalisé conclue par la proposition de note établie conjointement par l’équipe pédagogique et le(s) professionnel(s) associé(s). Une fiche type d’évaluation du travail réalisé, rédigée et mise à jour par l’inspection générale de l'éducation, du sport et de la recherche, est diffusée aux services rectoraux des examens et concours.
 
 Cette fiche sera obligatoirement transmise au jury. Le dossier d’activités du candidat sera tenu à la disposition du jury et de l’autorité rectorale jusqu’à la session suivante. Le jury pourra éventuellement en exiger l’envoi avant délibération afin de le consulter. Dans ce cas, à la suite d’un examen approfondi, il formulera toutes remarques et observations qu’il jugera utiles et arrêtera la note.
 
@@ -600,53 +492,29 @@ Le dossier support de l’évaluation est constitué de tout ou partie des docum
 
 À partir du dossier technique fourni, le candidat met en œuvre ses connaissances pour :
 
-–
+– reconnaître le site et ses contraintes ;
 
-reconnaître le site et ses contraintes ;
+– effectuer un relevé d’état des lieux ;
 
-–
+– réceptionner et contrôler les matériels, les matériaux, l’outillage, les équipements et accessoires ;
 
-effectuer un relevé d’état des lieux ;
+– implanter et fixer les équipements et leurs accessoires ;
 
-–
+– repérer et tracer le passage des différents réseaux ;
 
-réceptionner et contrôler les matériels, les matériaux, l’outillage, les équipements et accessoires ;
+– façonner les réseaux sur le chantier ;
 
-–
+– assembler et raccorder tout ou partie d’une installation fluidique ;
 
-implanter et fixer les équipements et leurs accessoires ;
+– effectuer les essais d’étanchéité suivant la norme en vigueur ;
 
-–
+– câbler et raccorder électriquement les équipements ;
 
-repérer et tracer le passage des différents réseaux ;
+– gérer les opérations de montage pour respecter les délais d’avancement des travaux dans le cadre du planning d’ordonnancement du chantier ;
 
-–
+– procéder au tri sélectif des déchets et des fluides ;
 
-façonner les réseaux sur le chantier ;
-
-–
-
-assembler et raccorder tout ou partie d’une installation fluidique ;
-
-–
-
-effectuer les essais d’étanchéité suivant la norme en vigueur ;
-
-–
-
-câbler et raccorder électriquement les équipements ;
-
-–
-
-gérer les opérations de montage pour respecter les délais d’avancement des travaux dans le cadre du planning d’ordonnancement du chantier ;
-
-–
-
-procéder au tri sélectif des déchets et des fluides ;
-
-–
-
-contrôler le respect de la réglementation et vérifier la conformité du travail réalisé au regard du travail demandé.
+– contrôler le respect de la réglementation et vérifier la conformité du travail réalisé au regard du travail demandé.
 
 Critères d’évaluation
 
@@ -654,9 +522,7 @@ Les indicateurs d’évaluation correspondant aux compétences évaluées figure
 
 L’évaluation porte sur tout ou partie des compétences suivantes et des savoirs qui leur sont associés :
 
-–
-
-C1-3 : Concevoir, dimensionner, choisir une solution technologique
+– C1-3 : Concevoir, dimensionner, choisir une solution technologique
 
 C1-37 Choisir une solution de raccordement, de remplacement ou de modification
 
@@ -668,9 +534,7 @@ C1-310 Concevoir un dispositif de fonctionnement provisoire
 
 C1-311 Concevoir un dispositif de fixation
 
-–
-
-C3-2 : Implanter, façonner, raccorder, câbler
+– C3-2 : Implanter, façonner, raccorder, câbler
 
 Les activités, les documents techniques, les compétences évaluées et le degré d’exigence sont semblables quel que soit le mode d’évaluation. L’inspecteur de l’Éducation nationale de la spécialité veille au bon déroulement de l’examen.
 
@@ -680,17 +544,13 @@ Modes d’évaluation
 
 L’évaluation porte sur deux activités organisées en continuité :
 
-–
-
-la première consiste :
+– la première consiste :
 
 . à effectuer un relevé d’état des lieux du site, à reconnaître ses contraintes et établir les caractéristiques dimensionnelles ;
 
 . à réceptionner, contrôler des matériels, des matériaux, de l’outillage, des équipements et des accessoires constitutifs de l’installation à réaliser ;
 
-–
-
-la seconde consiste en une réalisation de deux montages :
+– la seconde consiste en une réalisation de deux montages :
 
 . le montage électrique :
 
@@ -726,21 +586,13 @@ Chaque candidat dispose alors de l’outillage individuel ou collectif, nécessa
 
 Le dossier technique remis au candidat comporte l’ensemble des données nécessaires à la réalisation de l’installation et notamment :
 
-–
+– les plans d’exécution et de détail de l’installation à réaliser ;
 
-les plans d’exécution et de détail de l’installation à réaliser ;
+– la nomenclature des matériaux, quincailleries et accessoires à utiliser ;
 
-–
+– la liste des matériels et outillages disponibles ;
 
-la nomenclature des matériaux, quincailleries et accessoires à utiliser ;
-
-–
-
-la liste des matériels et outillages disponibles ;
-
-–
-
-les consignes, règles et normes de réalisation à respecter.
+– les consignes, règles et normes de réalisation à respecter.
 
 Contrôle en cours de formation
 
@@ -770,11 +622,7 @@ La synthèse de l’évaluation est effectuée par le formateur de l’entrepris
 
 La durée cumulée des situations d’évaluation ne peut être inférieure à la durée de l’unité correspondante passée sous la forme ponctuelle, ni excéder le double de celle-ci.
 
-Sous-épreuve E33/U33
-
-–
-
-mise en service, réglage, contrôle et maintenance
+Sous-épreuve E33/U33 – mise en service, réglage, contrôle et maintenance
 
 Coefficient 3
 
@@ -790,41 +638,23 @@ L’installation ou la partie d’installation à mettre en service ainsi que le
 
 À partir du dossier technique fourni, le candidat met en œuvre ses connaissances pour :
 
-–
+– effectuer les essais réglementaires suivant la norme en vigueur ;
 
-effectuer les essais réglementaires suivant la norme en vigueur ;
+– intervenir sur l’anomalie éventuelle ;
 
-–
+– réaliser la charge de l’installation frigorifique ou de conditionnement de l’air suivant la norme en vigueur ;
 
-intervenir sur l’anomalie éventuelle ;
+– déterminer les points de consignes des appareillages et procéder aux préréglages de l’installation ;
 
-–
+– déterminer les paramètres de fonctionnement ;
 
-réaliser la charge de l’installation frigorifique ou de conditionnement de l’air suivant la norme en vigueur ;
+– mettre en service l’ensemble des équipements et vérifier les paramètres de fonctionnement ;
 
-–
+– établir un diagnostic et proposer une solution adaptée au problème technique éventuel ;
 
-déterminer les points de consignes des appareillages et procéder aux préréglages de l’installation ;
+– réaliser les modifications nécessaires ;
 
-–
-
-déterminer les paramètres de fonctionnement ;
-
-–
-
-mettre en service l’ensemble des équipements et vérifier les paramètres de fonctionnement ;
-
-–
-
-établir un diagnostic et proposer une solution adaptée au problème technique éventuel ;
-
-–
-
-réaliser les modifications nécessaires ;
-
-–
-
-déterminer et effectuer les nouveaux réglages.
+– déterminer et effectuer les nouveaux réglages.
 
 Les compétences liées à l’habilitation électrique sont évaluées indépendamment des épreuves d’examen.
 
@@ -848,21 +678,13 @@ Modes d’évaluation
 
 Le dossier technique remis au candidat comporte l’ensemble des données nécessaires à la mise en service de l’installation et notamment :
 
-–
+– les plans d’exécution et de détail de l’installation ;
 
-les plans d’exécution et de détail de l’installation ;
+– les documents techniques, le mode opératoire ;
 
-–
+– la liste des matériels et outillages disponibles ;
 
-les documents techniques, le mode opératoire ;
-
-–
-
-la liste des matériels et outillages disponibles ;
-
-–
-
-les consignes, règles et normes à respecter.
+– les consignes, règles et normes à respecter.
 
 Contrôle en cours de formation
 
@@ -896,9 +718,7 @@ Mode d’évaluation
 
 Épreuve ponctuelle
 
-Elle donne lieu à une évaluation écrite d’une durée de 2 heures (arrêté du 6 avril 1994, BO
-
-n° 21 du26 mai 1994). Elle comprend deux parties notées respectivement sur 12 points et 8 points.
+Elle donne lieu à une évaluation écrite d’une durée de 2 heures (arrêté du 6 avril 1994, BOn° 21 du26 mai 1994). Elle comprend deux parties notées respectivement sur 12 points et 8 points.
 
 Première partie – compréhension
 
@@ -910,13 +730,9 @@ Deuxième partie – expression
 
 Cette partie de l’épreuve consiste en :
 
-–
+– d’une part des exercices visant à tester en situation les compétences linguistiques (4 points) ;
 
-d’une part des exercices visant à tester en situation les compétences linguistiques (4 points) ;
-
-–
-
-d’autre part une production semi-guidée qui pourra être liée au document proposé pour l’évaluation de la compréhension (4 points).
+– d’autre part une production semi-guidée qui pourra être liée au document proposé pour l’évaluation de la compréhension (4 points).
 
 L’utilisation du dictionnaire bilingue est autorisée.
 
@@ -936,35 +752,21 @@ A. Compréhension écrite
 
 À partir d’un ou deux supports en langue vivante étrangère, la compréhension de la langue considérée sera évaluée par le biais de :
 
-–
+– réponses en français à des questions ;
 
-réponses en français à des questions ;
+– résumé en français du document ;
 
-–
+– compte rendu du document ;
 
-résumé en français du document ;
-
-–
-
-compte rendu du document ;
-
-–
-
-traduction.
+– traduction.
 
 Le candidat devra faire la preuve des compétences suivantes :
 
-–
+– repérage/identification
 
-repérage/identification
+– mise en relation des éléments identifiés
 
-–
-
-mise en relation des éléments identifiés
-
-–
-
-inférence
+– inférence
 
 Critères : intelligibilité et pertinence de la réponse.
 
@@ -972,35 +774,21 @@ B. Compréhension de l’oral
 
 À partir d’un support audio-oral ou audio-visuel, l’aptitude à comprendre le message auditif en langue vivante étrangère sera évaluée par le biais de :
 
-–
+– réponses à des questions factuelles simples sur ce support ;
 
-réponses à des questions factuelles simples sur ce support ;
+– QCM ;
 
-–
-
-QCM ;
-
-–
-
-reproduction des éléments essentiels d’information compris dans le document.
+– reproduction des éléments essentiels d’information compris dans le document.
 
 Le candidat devra faire la preuve des compétences suivantes :
 
-–
+– anticipation ;
 
-anticipation ;
+– repérage/identification ;
 
-–
+– association des éléments identifiés ;
 
-repérage/identification ;
-
-–
-
-association des éléments identifiés ;
-
-–
-
-inférence.
+– inférence.
 
 C. Production écrite
 
@@ -1008,25 +796,15 @@ La capacité à s’exprimer par écrit en langue vivante étrangère sera éval
 
 Le candidat devra faire la preuve des compétences suivantes :
 
-–
+– mémorisation ;
 
-mémorisation ;
+– mobilisation des acquis ;
 
-–
+– aptitude à la reformulation ;
 
-mobilisation des acquis ;
+– aptitude à combiner les éléments acquis en énoncés pertinents et intelligibles ;
 
-–
-
-aptitude à la reformulation ;
-
-–
-
-aptitude à combiner les éléments acquis en énoncés pertinents et intelligibles ;
-
-–
-
-utilisation correcte et précise des éléments linguistiques contenus dans le programme de consolidation de seconde : éléments grammaticaux (déterminants, temps, formes auxiliées, modalité, connecteurs…).
+– utilisation correcte et précise des éléments linguistiques contenus dans le programme de consolidation de seconde : éléments grammaticaux (déterminants, temps, formes auxiliées, modalité, connecteurs…).
 
 Éléments lexicaux : cf. liste contenue dans le référentiel ou le programme de langue vivante du BEP.
 
@@ -1040,17 +818,11 @@ Le support proposé permettra d’évaluer l’aptitude à dialoguer en langue v
 
 Le candidat devra faire preuve des compétences suivantes :
 
-–
+– mobilisation des acquis ;
 
-mobilisation des acquis ;
+– aptitude à la reformulation ;
 
-–
-
-aptitude à la reformulation ;
-
-–
-
-aptitude à combiner les éléments acquis en énoncés pertinents et intelligibles.
+– aptitude à combiner les éléments acquis en énoncés pertinents et intelligibles.
 
 Exigences lexicales et grammaticales : cf. le programme de consolidation de seconde et le référentiel ou le programme de langue vivante du BEP.
 
@@ -1070,13 +842,9 @@ Elle s’appuie sur un ou plusieurs textes ou documents (textes littéraires, te
 
 L’évaluation comporte deux parties :
 
-–
+– une première partie, notée sur 8 à 12 points, évalue les capacités de compréhension ;
 
-une première partie, notée sur 8 à 12 points, évalue les capacités de compréhension ;
-
-–
-
-une deuxième partie, notée sur 8 à 12 points, évalue les capacités d’expression.
+– une deuxième partie, notée sur 8 à 12 points, évalue les capacités d’expression.
 
 Dans la première partie, deux ou trois questions permettent de vérifier la capacité du candidat à comprendre le sens global des documents, d’en dégager la construction, d’en caractériser la visée, le ton, l’écriture…
 
@@ -1090,85 +858,47 @@ Le contrôle en cours de formation est constitué de quatre situations d’éval
 
 Situation A
 
-a)
+a)Objectif : évaluation de la capacité du candidat d’analyser ou de synthétiser.
 
-Objectif : évaluation de la capacité du candidat d’analyser ou de synthétiser.
+b)Exemples de situation :
 
-b)
+– supports fonctionnels : fiche d’analyse de tâches ; prises de notes ;
 
-Exemples de situation :
-
-–
-
-supports fonctionnels : fiche d’analyse de tâches ; prises de notes ;
-
-–
-
-supports fictionnels/littéraires : fiche de lecture ; synthèse d’une activité de lecture.
+– supports fictionnels/littéraires : fiche de lecture ; synthèse d’une activité de lecture.
 
 Situation B
 
-a)
+a)Objectif : évaluation de la capacité du candidat de rendre compte ou transposer ou développer.
 
-Objectif : évaluation de la capacité du candidat de rendre compte ou transposer ou développer.
+b)Exemples de situation :
 
-b)
+– supports fonctionnels : rapport d’intervention en milieu professionnel; fiche de présentation d’un produit, rédaction d’un texte publicitaire à partir de documents ; lettre, articles; argumentation à partir d’un dossier ;
 
-Exemples de situation :
-
-–
-
-supports fonctionnels : rapport d’intervention en milieu professionnel; fiche de présentation d’un produit, rédaction d’un texte publicitaire à partir de documents ; lettre, articles; argumentation à partir d’un dossier ;
-
-–
-
-supports fictions/littéraires : commentaire de lettre, d’images ; argumentation à partir d’une lecture.
+– supports fictions/littéraires : commentaire de lettre, d’images ; argumentation à partir d’une lecture.
 
 Situation C
 
-a)
+a)Objectif : évaluation de la capacité du candidat à exposer ou transmettre un message oral.
 
-Objectif : évaluation de la capacité du candidat à exposer ou transmettre un message oral.
+b)Exemples de situation :
 
-b)
+– présentation d’un dossier disciplinaire ou interdisciplinaire ;
 
-Exemples de situation :
+– compte rendu de lecture, de visite, de stage… ;
 
-–
-
-présentation d’un dossier disciplinaire ou interdisciplinaire ;
-
-–
-
-compte rendu de lecture, de visite, de stage… ;
-
-–
-
-rapports des travaux d’un groupe.
+– rapports des travaux d’un groupe.
 
 Situation D
 
-a)
+a)Objectif : évaluation de la capacité du candidat à participer ou animer. b)Exemples de situation :
 
-Objectif : évaluation de la capacité du candidat à participer ou animer. b)
+– participation à un entretien (embauche…) ;
 
-Exemples de situation :
+– participation à un débat ;
 
-–
+– participation à une réunion ;
 
-participation à un entretien (embauche…) ;
-
-–
-
-participation à un débat ;
-
-–
-
-participation à une réunion ;
-
-–
-
-animation d’un groupe, d’une équipe (entreprise).
+– animation d’un groupe, d’une équipe (entreprise).
 
 Sous-épreuve E52/U52 – histoire et géographie
 
@@ -1180,17 +910,11 @@ Cette sous-épreuve porte sur le programme de la classe terminale du baccalauré
 
 Il répond à une série de questions qui visent à évaluer ses compétences à :
 
-–
+– repérer et relever des informations dans une documentation ;
 
-repérer et relever des informations dans une documentation ;
+– établir des relations entre les documents ;
 
-–
-
-établir des relations entre les documents ;
-
-–
-
-utiliser des connaissances sur le programme.
+– utiliser des connaissances sur le programme.
 
 Ces questions, qui ne peuvent se réduire à une demande de définitions, permettent au candidat de faire la preuve qu’il maîtrise les méthodes d’analyse des documents et qu’il sait en tirer parti pour comprendre une situation historique ou géographique. Il élabore ensuite une courte synthèse intégrant les éléments apportés par le dossier et ses connaissances.
 
@@ -1208,21 +932,13 @@ Objectifs
 
 Les différentes situations d’évaluation visent à évaluer les compétences du candidat à :
 
-–
+– repérer et relever des informations dans un ensemble de trois à cinq documents ;
 
-repérer et relever des informations dans un ensemble de trois à cinq documents ;
+– établir des relations entre les documents ;
 
-–
+– utiliser des connaissances sur le programme ;
 
-établir des relations entre les documents ;
-
-–
-
-utiliser des connaissances sur le programme ;
-
-–
-
-élaborer une courte synthèse intégrant les informations apportées par les documents proposés et ses connaissances.
+– élaborer une courte synthèse intégrant les informations apportées par les documents proposés et ses connaissances.
 
 Modalités
 
@@ -1268,17 +984,11 @@ Le contrôle en cours de formation comporte trois situations d’évaluation org
 
 Les trois situations comportent 1 à 2 séances de 2 heures et sont affectées chacune d’un coefficient particulier :
 
-–
+– première situation d’évaluation : coefficient 1
 
-première situation d’évaluation : coefficient 1
+– deuxième situation d’évaluation : coefficient 2
 
-–
-
-deuxième situation d’évaluation : coefficient 2
-
-–
-
-troisième situation d’évaluation : coefficient 2
+– troisième situation d’évaluation : coefficient 2
 
 La note finale sur vingt proposée au jury pour cette épreuve est obtenue en divisant par 5 le total des notes relatives aux trois évaluations.
 
@@ -1286,41 +996,25 @@ Première situation d’évaluation
 
 L’évaluation de cette première situation porte sur la mise en œuvre des compétences suivantes :
 
-–
+– analyser les relations entre les constituants plastiques et les éléments fonctionnels d’un produit d’art appliqué (relations formes, matière, couleurs/fonctions) ;
 
-analyser les relations entre les constituants plastiques et les éléments fonctionnels d’un produit d’art appliqué (relations formes, matière, couleurs/fonctions) ;
+– mettre en œuvre des principes d’organisation ;
 
-–
-
-mettre en œuvre des principes d’organisation ;
-
-–
-
-mettre en œuvre et maîtriser des outils et des techniques imposées. Les éléments et les données sont imposés.
+– mettre en œuvre et maîtriser des outils et des techniques imposées. Les éléments et les données sont imposés.
 
 Deuxième situation d’évaluation
 
 L’évaluation de cette deuxième situation porte sur la mise en œuvre des compétences suivantes :
 
-–
+– traduire plastiquement les observations concernant les données du réel ;
 
-traduire plastiquement les observations concernant les données du réel ;
+– analyser des produits d’art appliqué à l’industrie et à l’artisanat ;
 
-–
+– rendre compte plastiquement des relations entre les constituants plastiques et les éléments fonctionnels d’un produit d’art appliqué (relations formes, matière, couleurs/fonctions) ;
 
-analyser des produits d’art appliqué à l’industrie et à l’artisanat ;
+– sélectionner, transférer et adapter des éléments pour répondre à un problème d’art appliqué dans le respect d’un cahier des charges ou des contraintes imposées ;
 
-–
-
-rendre compte plastiquement des relations entre les constituants plastiques et les éléments fonctionnels d’un produit d’art appliqué (relations formes, matière, couleurs/fonctions) ;
-
-–
-
-sélectionner, transférer et adapter des éléments pour répondre à un problème d’art appliqué dans le respect d’un cahier des charges ou des contraintes imposées ;
-
-–
-
-maîtriser des techniques appropriées à la traduction des réponses données au problème d’art appliqué imposé.
+– maîtriser des techniques appropriées à la traduction des réponses données au problème d’art appliqué imposé.
 
 Un dossier documentaire et un cahier des charges sont imposés. Néanmoins, le candidat doit sélectionner des documents et/ou des éléments dans les sources documentaires proposées. Il doit également faire un choix en ce qui concerne la mise en œuvre d’outils et de techniques pour communiquer son projet.
 
@@ -1328,17 +1022,11 @@ Troisième situation d’évaluation
 
 L’évaluation de cette troisième situation porte sur la mise en œuvre des compétences suivantes :
 
-–
+– identifier une production artistique et repérer son implication dans son environnement culturel, spécialement dans celui du cadre de vie, de la fabrication industrielle ou artisanale ou de la communication visuelle ;
 
-identifier une production artistique et repérer son implication dans son environnement culturel, spécialement dans celui du cadre de vie, de la fabrication industrielle ou artisanale ou de la communication visuelle ;
+– situer un produit, un support de communication, un espace construit dans un environnement artistique et culturel de son époque ;
 
-–
-
-situer un produit, un support de communication, un espace construit dans un environnement artistique et culturel de son époque ;
-
-–
-
-évaluer la qualité esthétique d’un produit.
+– évaluer la qualité esthétique d’un produit.
 
 Le problème est imposé ainsi que l’objet d’étude ; en revanche, les références (images et textes) sont proposées, le candidat sélectionne des documents ou des éléments documentaires en fonction de son analyse personnelle et de son argumentaire.
 
@@ -1348,13 +1036,7 @@ Coefficient 1
 
 Évaluation ponctuelle et par contrôle en cours de formation
 
-Les modalités de l’épreuve d’éducation physique et sportive sont définies par l’arrêté du 11 juillet 2005 relatif aux modalités d’organisation du contrôle en cours de formation et de l’examen terminal pour l’éducation physique et sportive aux examens du baccalauréat professionnel, du brevet des métiers d’art, du certificat d’aptitude professionnelle et du brevet d’études professionnelles (Journal officiel
-
-du 21 juillet 2005, BOEN
-
-n° 42 du 17 novembre 2005) et la note de service n° 2005-179 du 4 novembre 2005 relative à l’éducation physique et sportive aux examens du baccalauréat professionnel, du brevet des métiers d’art, du certificat d’aptitude professionnelle et du brevet d’études professionnelles (BOEN
-
-n° 42 du 17 novembre 2005).
+Les modalités de l’épreuve d’éducation physique et sportive sont définies par l’arrêté du 11 juillet 2005 relatif aux modalités d’organisation du contrôle en cours de formation et de l’examen terminal pour l’éducation physique et sportive aux examens du baccalauréat professionnel, du brevet des métiers d’art, du certificat d’aptitude professionnelle et du brevet d’études professionnelles (Journal officieldu 21 juillet 2005, BOENn° 42 du 17 novembre 2005) et la note de service n° 2005-179 du 4 novembre 2005 relative à l’éducation physique et sportive aux examens du baccalauréat professionnel, du brevet des métiers d’art, du certificat d’aptitude professionnelle et du brevet d’études professionnelles (BOENn° 42 du 17 novembre 2005).
 
 UF1 – épreuve facultative de langue vivante
 
@@ -1382,17 +1064,11 @@ Finalités et objectifs de l’épreuve
 
 L’épreuve a pour objectif d’évaluer les capacités du candidat à :
 
-–
+– appréhender les incidences sur la santé de l’activité de travail et d’en cerner les conséquences socioéconomiques ;
 
-appréhender les incidences sur la santé de l’activité de travail et d’en cerner les conséquences socioéconomiques ;
+– justifier des mesures destinées à supprimer ou à réduire les risques d’accidents du travail et d’atteintes à la santé et à s’inscrire dans une démarche de prévention ;
 
-–
-
-justifier des mesures destinées à supprimer ou à réduire les risques d’accidents du travail et d’atteintes à la santé et à s’inscrire dans une démarche de prévention ;
-
-–
-
-agir de façon efficace et adaptée face à une situation d’urgence.
+– agir de façon efficace et adaptée face à une situation d’urgence.
 
 Elle porte sur les savoirs en hygiène, prévention, secourisme.
 
@@ -1400,37 +1076,23 @@ Modes d’évaluation
 
 L’évaluation porte notamment sur :
 
-–
+– la qualité du raisonnement ;
 
-la qualité du raisonnement ;
+– l’exactitude des connaissances ;
 
-–
+– la pertinence et le réalisme des solutions proposées ;
 
-l’exactitude des connaissances ;
-
-–
-
-la pertinence et le réalisme des solutions proposées ;
-
-–
-
-le comportement ou la procédure d’intervention, adaptés et sûrs, face à des situations d’urgence.
+– le comportement ou la procédure d’intervention, adaptés et sûrs, face à des situations d’urgence.
 
 Évaluation ponctuelle écrite (durée : 2 heures)
 
 À partir d’une (de) situation(s) professionnelle(s), accompagnée(s) éventuellement d’une documentation scientifique et technique, le candidat doit notamment :
 
-–
+– exploiter et/ou mettre en œuvre des outils d’analyse de la situation donnée ;
 
-exploiter et/ou mettre en œuvre des outils d’analyse de la situation donnée ;
+– mobiliser ses connaissances scientifiques et réglementaires pour identifier le (ou les) problème(s) et argumenter des solutions d’amélioration en lien avec les mesures et structures de prévention ;
 
-–
-
-mobiliser ses connaissances scientifiques et réglementaires pour identifier le (ou les) problème(s) et argumenter des solutions d’amélioration en lien avec les mesures et structures de prévention ;
-
-–
-
-expliquer la conduite à tenir face à une situation d’urgence.
+– expliquer la conduite à tenir face à une situation d’urgence.
 
 Contrôle en cours de formation
 
@@ -1440,29 +1102,19 @@ Première situation d’évaluation : évaluation écrite, d’une durée indica
 
 À partir de documents présentant notamment une situation professionnelle d’entreprise, il est demandé :
 
-–
+– une analyse de la situation donnée selon une méthode adaptée ;
 
-une analyse de la situation donnée selon une méthode adaptée ;
+– une justification scientifique des effets de la situation donnée ou des mesures de prévention ;
 
-–
-
-une justification scientifique des effets de la situation donnée ou des mesures de prévention ;
-
-–
-
-une ou des questions relatives à la réglementation et/ou aux organismes de prévention.
+– une ou des questions relatives à la réglementation et/ou aux organismes de prévention.
 
 Deuxième situation d’évaluation : réalisation d’un travail personnel écrit, noté sur 7 points.
 
 À partir de données recueillies au cours de la période de formation en milieu professionnel et/ou d’un travail documentaire, le candidat rédige un document de 5 pages maximum sur :
 
-–
+– un problème professionnel en lien avec le programme d’hygiène-prévention-secourisme et le secteur professionnel concerné ;
 
-un problème professionnel en lien avec le programme d’hygiène-prévention-secourisme et le secteur professionnel concerné ;
-
-–
-
-la prévention mise en œuvre (moyens, acteurs, organisation…) ou les moyens d’amélioration qu’il propose dans leurs contextes respectifs.
+– la prévention mise en œuvre (moyens, acteurs, organisation…) ou les moyens d’amélioration qu’il propose dans leurs contextes respectifs.
 
 Le candidat précise sa démarche, justifie les effets possibles sur la santé ainsi que les solutions mises en œuvre ou possibles.
 

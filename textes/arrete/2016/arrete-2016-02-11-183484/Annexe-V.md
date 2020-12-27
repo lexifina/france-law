@@ -760,7 +760,7 @@ A l'issue de l''évaluation, l'équipe pédagogique du centre de formation ou le
 
 - les documents produits par le candidat s'il y a lieu ;
 
-- les fiches d'évaluation (U51 et U52) avec les indicateurs et critères ayant permis la proposition de note. Ces fiches d'évaluation du travail réalisé, rédigées et mises à jour par l'inspection générale de l'Education nationale, seront diffusées aux établissements par les services rectoraux des examens et concours.
+- les fiches d'évaluation (U51 et U52) avec les indicateurs et critères ayant permis la proposition de note. Ces fiches d'évaluation du travail réalisé, rédigées et mises à jour par l'inspection générale de l'éducation, du sport et de la recherche, seront diffusées aux établissements par les services rectoraux des examens et concours.
 
 L'ensemble de ces documents sera tenu à la disposition du jury et de l'autorité rectorale pour la session considérée et jusqu'à la session suivante.
 
@@ -954,7 +954,7 @@ A l'issue de l'évaluation, l'équipe pédagogique du centre de formation ou les
 
 - le dossier réalisé par le candidat ;
 
-- les fiches d'évaluation (U61 et U62) avec les indicateurs et critères ayant permis la proposition de note. Ces fiches d'évaluation du travail réalisé, rédigées et mises à jour par l'inspection générale de l'Education nationale, seront diffusées aux établissements par les services rectoraux des examens et concours.
+- les fiches d'évaluation (U61 et U62) avec les indicateurs et critères ayant permis la proposition de note. Ces fiches d'évaluation du travail réalisé, rédigées et mises à jour par l'inspection générale de l'éducation, du sport et de la recherche, seront diffusées aux établissements par les services rectoraux des examens et concours.
 
 L'ensemble de ces documents sera tenu à la disposition du jury et de l'autorité rectorale pour la session considérée et jusqu'à la session suivante.
 

@@ -280,7 +280,7 @@ L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation e
 
 4. ÉVALUATION
 
-Une fiche nationale d'évaluation, précisant le degré d'exigence, du travail réalisé pour cette épreuve, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements et aux centres d'examens par les services rectoraux des examens et concours.
+Une fiche nationale d'évaluation, précisant le degré d'exigence, du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements et aux centres d'examens par les services rectoraux des examens et concours.
 
 Épreuve E3
 
@@ -448,7 +448,7 @@ L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation e
 
 4. ÉVALUATION
 
-Une fiche nationale d'évaluation, précisant le degré d'exigence, du travail réalisé pour cette sous-épreuve, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements et aux centres d'examens par les services rectoraux des examens et concours.
+Une fiche nationale d'évaluation, précisant le degré d'exigence, du travail réalisé pour cette sous-épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements et aux centres d'examens par les services rectoraux des examens et concours.
 
 Sous-épreuve E32
 
@@ -646,7 +646,7 @@ L'ensemble des dossiers décrits ci-dessus, relatif aux deux parties de l'évalu
 
 4. ÉVALUATION
 
-Une fiche nationale d'évaluation, précisant le degré d'exigence, du travail réalisé pour cette sous-épreuve, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements et aux centres d'examens par les services rectoraux des examens et concours.
+Une fiche nationale d'évaluation, précisant le degré d'exigence, du travail réalisé pour cette sous-épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements et aux centres d'examens par les services rectoraux des examens et concours.
 
 Sous-épreuve E33
 

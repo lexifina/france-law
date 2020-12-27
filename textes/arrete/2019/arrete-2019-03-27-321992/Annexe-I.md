@@ -66,7 +66,7 @@ La gouvernance de la maîtrise des risques et de l'audit interne des ministères
 
 - de la loi n° 96-452 du 28 mai 1996 et du décret n° 2011-931 du 1er août 2011 modifié précisant les pouvoirs de l'inspection générale des affaires sociales (IGAS) ;
 
-- du décret n° 2002-53 du 10 janvier 2002 et de l'arrêté du 11 décembre 2008 précisant notamment l'organisation et les missions de l'inspection générale de la jeunesse et des sports (IGJS) ;
+- des articles R. 241-3 et suivants du code de l'éducation et du décret n° 2019-1001 du 27 septembre 2019 précisant notamment l'organisation et les missions de l'inspection générale de l'éducation, du sport et de la recherche (IGÉSR) ;
 
 - du décret n° 2011-497 du 5 mai 2011 modifié relatif à la maîtrise des risques et à l'audit interne au sein des ministères chargés des affaires sociales.
 
@@ -84,7 +84,7 @@ Sur la base de l'analyse des risques (cartographie des risques, résultats d'aud
 
 4.3. Les inspections générales
 
-L'inspection générale des affaires sociales et l'inspection générale de la jeunesse et des sports définissent les méthodes et outils d'audit ; élaborent le plan d'audit interne ; conduisent les missions ; organisent leur supervision ; veillent à la diffusion des bonnes pratiques et assurent dans leurs champs respectifs de compétence le suivi de l'ensemble des recommandations émises à l'issue des missions.
+L'inspection générale des affaires sociales et l'inspection générale de l'éducation, du sport et de la recherche définissent les méthodes et outils d'audit ; élaborent le plan d'audit interne ; conduisent les missions ; organisent leur supervision ; veillent à la diffusion des bonnes pratiques et assurent dans leurs champs respectifs de compétence le suivi de l'ensemble des recommandations émises à l'issue des missions.
 
 Elles veillent à la diffusion de bonnes pratiques en matière d'audit interne au sein des organismes. Elles émettent des recommandations à cet égard. Les inspections générales peuvent réaliser seules ou en partenariat ou faire réaliser des missions d'audit interne au sein des organismes de leur champ de compétence.
 
@@ -116,7 +116,7 @@ Le plan d'audit interne comporte la liste des missions à réaliser et les prév
 
 Les programmes d'activité des services d'inspection et le plan d'audit interne sont construits en cohérence.
 
-Outre les missions prévues dans le plan d'audit, des audits peuvent être réalisés à la demande de l'un des ministres chargés des affaires sociales ou au titre des programmes d'activité de l'IGAS et de l'IGJS. Le secrétaire général des ministères chargés des affaires sociales, le comité stratégique de maîtrise des risques et le comité d'audit en sont informés au moins une fois par an. Ces missions sont réalisées dans le cadre de la présente charte.
+Outre les missions prévues dans le plan d'audit, des audits peuvent être réalisés à la demande de l'un des ministres chargés des affaires sociales ou au titre des programmes d'activité de l'IGAS et de l'IGÉSR. Le secrétaire général des ministères chargés des affaires sociales, le comité stratégique de maîtrise des risques et le comité d'audit en sont informés au moins une fois par an. Ces missions sont réalisées dans le cadre de la présente charte.
 
 5. Déroulement des missions d'audit interne
 
@@ -146,7 +146,7 @@ La réunion d'ouverture permet de rappeler la démarche d'audit interne, de pré
 
 La présente charte d'audit et le code de déontologie sont présentés lors de la réunion d'ouverture.
 
-Les auditeurs réalisent leur mission selon une méthode conforme aux normes du cadre de référence de l'audit interne de l'Etat et aux règles déontologiques applicables à l'audit interne des ministères chargés des affaires sociales ; ils appliquent respectivement les procédures qualité de l'IGAS et de l'IGJS.
+Les auditeurs réalisent leur mission selon une méthode conforme aux normes du cadre de référence de l'audit interne de l'Etat et aux règles déontologiques applicables à l'audit interne des ministères chargés des affaires sociales ; ils appliquent respectivement les procédures qualité de l'IGAS et de l'IGÉSR.
 
 Les auditeurs mettent en œuvre des outils et des méthodes d'audit qui leur permettent de détecter et d'évaluer les risques, d'en identifier les causes, de corroborer et de justifier factuellement leurs observations.
 

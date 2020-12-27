@@ -352,7 +352,7 @@ Chaque situation permet l'évaluation tant de savoir-faire que de savoirs techno
 
 - la fiche d'évaluation du travail réalisé conclue par la proposition de note établie conjointement par l'équipe pédagogique et le(s) professionnel(s) associé(s).
 
-Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux services rectoraux des examens et concours.
+Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux services rectoraux des examens et concours.
 
 Cette fiche sera obligatoirement transmise au jury. L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
 
@@ -460,7 +460,7 @@ Chaque situation permet l'évaluation tant de savoir-faire que de savoirs techno
 
 - la fiche d'évaluation du travail réalisé conclue par la proposition de note établie conjointement par l'équipe pédagogique et le(s) professionnel(s) associé(s).
 
-Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux services rectoraux des examens et concours. Cette fiche sera obligatoirement transmise au jury. L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
+Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux services rectoraux des examens et concours. Cette fiche sera obligatoirement transmise au jury. L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
 
 Épreuve E.3 - unités U.31 - U.32 - U.33 - U.34 - U.35
 
@@ -594,6 +594,6 @@ Le déroulement de l'épreuve est identique à celui défini dans l'évaluation 
 
 A l'issue de la situation d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'évaluation ponctuelle correspondante, l'équipe pédagogique de l'établissement de formation complètera, pour chaque candidat, la fiche d'évaluation du travail réalisé conclue par la proposition de note établie conjointement par l'équipe pédagogique et le(s) professionnel(s) associé(s).
 
-Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux services rectoraux des examens et concours.
+Une fiche type d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux services rectoraux des examens et concours.
 
 Cette fiche sera obligatoirement transmise au jury. Le dossier d'activités du candidat sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.

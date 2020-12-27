@@ -12,7 +12,7 @@ A-3. Contrôle et l'inspection des établissements pénitentiaires :
 
 -inspection des services pénitentiaires ;
 
--inspections ministérielles (inspection du travail, inspection générale des affaires sociales, inspection générale de l'éducation nationale, services vétérinaires) ;
+-inspections ministérielles (inspection du travail, inspection générale des affaires sociales, inspection générale de l'éducation, du sport et de la recherche, services vétérinaires) ;
 
 -commission de surveillance ;
 

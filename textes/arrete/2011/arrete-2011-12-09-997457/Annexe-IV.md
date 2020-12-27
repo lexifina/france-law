@@ -86,7 +86,7 @@ Un professionnel au moins est associé à l'évaluation. L'absence de ce (s) der
 
 -les documents justifiant des travaux réalisés par le candidat lors de l'évaluation ;-la fiche d'évaluation renseignée.
 
-À cet effet, une fiche type d'évaluation, rédigée et mise à jour par l'inspection générale de l'éducation nationale, est transmise aux services rectoraux des examens et concours pour diffusion dans les établissements. Seule cette dernière sera systématiquement transmise au jury.
+À cet effet, une fiche type d'évaluation, rédigée et mise à jour par l' inspection générale de l'éducation, du sport et de la recherche, est transmise aux services rectoraux des examens et concours pour diffusion dans les établissements. Seule cette dernière sera systématiquement transmise au jury.
 
 L'ensemble du dossier décrit ci-dessus, relatif à la situation d'évaluation sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
 
@@ -210,7 +210,7 @@ L'autre situation d'évaluation a lieu dans l'entreprise au cours de la période
 
 -la fiche d'évaluation renseignée.
 
-À cet effet, une fiche type d'évaluation, rédigée et mise à jour par l'inspection générale de l'éducation nationale, est transmise aux services rectoraux des examens et concours pour diffusion dans les établissements. Seule cette dernière sera systématiquement transmise au jury.
+À cet effet, une fiche type d'évaluation, rédigée et mise à jour par l' inspection générale de l'éducation, du sport et de la recherche, est transmise aux services rectoraux des examens et concours pour diffusion dans les établissements. Seule cette dernière sera systématiquement transmise au jury.
 
 L'ensemble du dossier décrit ci-dessus, relatif aux situations d'évaluation, sera tenu à la disposition du jury et de l'autorité rectorale jusqu'à la session suivante. Le jury pourra éventuellement en exiger l'envoi avant délibération afin de le consulter. Dans ce cas, à la suite d'un examen approfondi, il formulera toutes remarques et observations qu'il jugera utiles et arrêtera la note.
 
@@ -246,7 +246,7 @@ Prévention-santé-environnement-coefficient 1
 
 L'épreuve de prévention-santé-environnement est définie par l'arrêté 17 juin 2003 modifié fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
 
-EG1 Français et histoire-géographie- enseignement moral et civique-coefficient 3
+EG1 Français et histoire-géographie-enseignement moral et civique-coefficient 3
 
 L'épreuve de français, histoire-géographie et enseignement moral et civique est définie par l'arrêté du 17 juin 2003 modifié fixant les unités générales du certificat d'aptitude professionnelle et définissant les modalités d'évaluation de l'enseignement général.
 

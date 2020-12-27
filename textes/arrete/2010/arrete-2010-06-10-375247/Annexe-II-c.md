@@ -72,7 +72,7 @@ Cette épreuve, qui amène le candidat à résoudre des problèmes liés à un d
 
 L'étude prend en compte la réglementation en vigueur et l'évolution des technologies liées aux véhicules, aux matériels de manutention, ainsi qu'à la prise en charge des objets, du mobilier et des équipements.
 
-La fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
+La fiche nationale d'évaluation du travail réalisé pour cette épreuve, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours.
 
 Modes d'évaluation
 
@@ -220,7 +220,7 @@ Cette épreuve permet également d'évaluer les compétences du candidat au rega
 
 Le candidat peut être amené à renseigner des documents de type lacunaire, voire à effectuer tout croquis nécessaire à la réalisation d'une tâche professionnelle.
 
-La fiche nationale d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
+La fiche nationale d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours.
 
 Modes d'évaluation
 
@@ -366,7 +366,7 @@ Le candidat déjà titulaire du permis E (B) doit passer cette partie d'épreuve
 
 Le résultat aux épreuves du permis E (B) est consigné sur un dossier spécifique renseigné par l'expert en charge des examens du permis de conduire.
 
-La fiche nationale d'évaluation du travail réalisé, rédigée et mise à jour par l'Inspection Générale de l'Éducation Nationale, est diffusée aux établissements par les services rectoraux des examens et concours.
+La fiche nationale d'évaluation du travail réalisé, rédigée et mise à jour par l'inspection générale de l'éducation, du sport et de la recherche, est diffusée aux établissements par les services rectoraux des examens et concours.
 
 Modes d'évaluation
 

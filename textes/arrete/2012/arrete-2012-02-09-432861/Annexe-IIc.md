@@ -404,7 +404,7 @@ L'entretien
 
 L'entretien est d'une durée maximale de 20 minutes. Le jury est composé d'au moins un professeur d'enseignement professionnel et un professionnel de la spécialité. En cas d'absence de ce dernier, il est obligatoirement remplacé par un enseignant en charge des enseignements professionnels ou des enseignements généraux en lien avec la spécialité.
 
-Pour conduire l'entretien, le jury s'appuie sur une fiche d'évaluation validée par l'inspection générale de l'Éducation nationale et diffusée par les services rectoraux des examens.
+Pour conduire l'entretien, le jury s'appuie sur une fiche d'évaluation validée par l'inspection générale de l'éducation, du sport et de la recherche et diffusée par les services rectoraux des examens.
 
 L'entretien terminé, le jury propose à l'aide de la fiche d'évaluation, une note. Cette fiche est consignée et mise à disposition du jury de délibération et de l'autorité rectorale pour la session considérée et jusqu'à la session suivante.
 
@@ -504,7 +504,7 @@ L'entretien
 
 L'entretien est d'une durée maximale de 20 minutes. Le jury est composé d'un professeur des enseignements technologiques et professionnels, d'un enseignant d'arts appliqués et d'un professionnel de la spécialité.
 
-Pour conduire l'entretien, le jury s'appuie sur une fiche d'évaluation validée par l'inspection générale de l'Éducation nationale et diffusée par les services rectoraux des examens.
+Pour conduire l'entretien, le jury s'appuie sur une fiche d'évaluation validée par l'inspection générale de l'éducation, du sport et de la recherche et diffusée par les services rectoraux des examens.
 
 L'entretien terminé, le jury propose à l'aide de la fiche d'évaluation, une note. Cette fiche est consignée et mise à disposition du jury de délibération et de l'autorité rectorale pour la session considérée et jusqu'à la session suivante.
 
@@ -530,7 +530,7 @@ L'évaluation s'appuie sur un portfolio relatif au thème imposé et sa présent
 
 L'exposé est suivi d'une interrogation. Cette présentation se déroule en fin de formation.
 
-À l'issue de ces situations d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'évaluation ponctuelle correspondante, l'équipe pédagogique de l'établissement de formation adresse au jury une proposition de note dont les critères de notation sont ceux de la fiche d'évaluation validée par l'inspection générale de l'Éducation nationale et diffusée par les services rectoraux des examens.
+À l'issue de ces situations d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'évaluation ponctuelle correspondante, l'équipe pédagogique de l'établissement de formation adresse au jury une proposition de note dont les critères de notation sont ceux de la fiche d'évaluation validée par l'inspection générale de l'éducation, du sport et de la recherche et diffusée par les services rectoraux des examens.
 
 La présentation de l'ensemble du projet sous forme numérique et sur support amovible (CD, DVD) sera archivée et conservée par le jury.
 
@@ -634,7 +634,7 @@ Le dossier
 
 Le dossier de format 30x40 à 40x50 cm est mis à disposition des membres du jury, selon les conditions fixées par les services rectoraux des examens et concours, 15 jours avant la date de l'évaluation.
 
-Il est noté sur 40 points à partir d'une fiche d'évaluation validée par l'inspection générale de l'Éducation nationale et diffusée par les services rectoraux des examens.
+Il est noté sur 40 points à partir d'une fiche d'évaluation validée par l'inspection générale de l'éducation, du sport et de la recherche et diffusée par les services rectoraux des examens.
 
 Le jury sélectionne dans chaque dossier une des photographies proposées et rédige une série de questions s'y rapportant, lesquelles sont remises au candidat au début de la préparation de son oral.
 
@@ -670,7 +670,7 @@ Deuxième situation d'évaluation :
 
 Elle se déroule en fin d'année terminale de la formation.
 
-Elle est spécifique à chaque candidat. Elle comprend une préparation (non notée) à partir d'une série de questions portant sur l'une des photographies de son dossier, un exposé, une interrogation et un entretien. L'oral est noté sur 60 points à partir de la fiche d'évaluation validée par l'inspection générale de l'Éducation nationale et diffusée par les services rectoraux des examens. Elle est remplie au fur et à mesure du déroulement des deux situations d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'évaluation ponctuelle correspondante. À leur issue, l'équipe pédagogique de l'établissement de formation propose une note finale sur 20.
+Elle est spécifique à chaque candidat. Elle comprend une préparation (non notée) à partir d'une série de questions portant sur l'une des photographies de son dossier, un exposé, une interrogation et un entretien. L'oral est noté sur 60 points à partir de la fiche d'évaluation validée par l'inspection générale de l'éducation, du sport et de la recherche et diffusée par les services rectoraux des examens. Elle est remplie au fur et à mesure du déroulement des deux situations d'évaluation, dont le degré d'exigence est équivalent à celui requis dans le cadre de l'évaluation ponctuelle correspondante. À leur issue, l'équipe pédagogique de l'établissement de formation propose une note finale sur 20.
 
 Les dossiers, ainsi que les parties écrites des situations d'évaluation, sont tenus à la disposition du jury et de l'autorité rectorale pour la session considérée et jusqu'à la session suivante. Après examen le cas échéant des pièces fournies, le jury de délibération peut être amené à modifier une note.
 
