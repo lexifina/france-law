@@ -24,11 +24,9 @@ VI - La délégation dispose des pouvoirs définis par l'article 164, paragraphe
 
 En cas de difficultés dans l'exercice de sa mission, la délégation peut demander, pour une durée n'excédant pas six mois, à l'assemblée d'où émane la saisine de lui conférer les prérogatives attribuées par l'article 6 ci-dessus aux commissions parlementaires d'enquête, à leurs présidents et à leurs rapporteurs. Lorsque la délégation bénéficie de ces prérogatives, les dispositions relatives au secret des travaux des commissions d'enquête et des commissions de contrôle sont applicables.
 
-VII - Les travaux de la délégation sont confidentiels, sauf décision contraire de sa part.
+VII - Les travaux de la délégation sont publics, sauf décision contraire de sa part.
 
-Les résultats des travaux exécutés et les observations de la délégation sont communiqués à l'auteur de la saisine.
-
-Après avoir recueilli l'avis de l'auteur de la saisine, la délégation peut les rendre publics.
+Les résultats des travaux exécutés et les observations de la délégation sont rendus publics.
 
 Toutefois, lorsque la délégation a obtenu le bénéfice des dispositions de l'article 6 ci-dessus, la décision de publication ne peut être prise que par l'assemblée intéressée, dans les conditions fixées par son règlement pour la publication des rapports des commissions d'enquête et de contrôle.
 
