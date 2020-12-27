@@ -32,13 +32,11 @@ Inspection générale de l'industrie.
 
 Ministère de l'éducation nationale
 
-Inspection générale de l'administration de l'éducation nationale et de la recherche.
+Corps de l'inspection générale de l'éducation, du sport et de la recherche.
 
 Corps des professeurs de chaires supérieures des établissements classiques, modernes et techniques.
 
 Corps des personnels de direction d'établissement d'enseignement ou de formation relevant du ministre de l'éducation nationale.
-
-Inspecteurs généraux de l'éducation nationale.
 
 Conservateurs généraux des bibliothèques.
 
@@ -67,10 +65,6 @@ Ministère de la culture
 Inspection générale des affaires culturelles.
 
 Conservateurs généraux du patrimoine.
-
-Ministère délégué à la jeunesse et aux sports
-
-Inspection générale de la jeunesse et des sports.
 
 Ministère délégué auprès du ministre du redéploiement industriel et du commerce extérieur, chargé des P.T.T.
 

@@ -60,45 +60,41 @@ L'assemblée générale comprend soixante-six membres :
 
 2. Le ministre chargé des sports ou son représentant ;
 
-3. Dix-neuf membres désignés par le ministre chargé de l'éducation nationale :
+3. Dix-sept membres désignés par le ministre chargé de l'éducation nationale :
 
 a) Quatre directeurs généraux, directeurs ou chefs de service du ministère de l'éducation nationale ;
 
 b) Deux recteurs d'académie ;
 
-c) Deux inspecteurs d'académie, directeurs académiques des services de l'éducation nationale ;
+c) Deux directeurs académiques des services de l'éducation nationale ;
 
-d) Deux inspecteurs généraux de l'éducation nationale ;
+d) Trois inspecteurs d'académie-inspecteurs pédagogiques régionaux en éducation physique et sportive (EPS) ;
 
-e) Trois inspecteurs d'académie-inspecteurs pédagogiques régionaux en éducation physique et sportive (EPS) ;
+e) Un proviseur de lycée ;
 
-f) Un proviseur de lycée ;
+f) Trois principaux de collège ;
 
-g) Trois principaux de collège ;
+g) Un proviseur de lycée professionnel ;
 
-h) Un proviseur de lycée professionnel ;
+h) Un médecin du service de santé scolaire ;
 
-i) Un médecin du service de santé scolaire ;
-
-4. Neuf membres désignés par le ministre chargé des sports :
+4. Sept membres désignés par le ministre chargé des sports :
 
 a) Trois directeurs ou chefs de service de ce ministère ;
 
-b) Deux inspecteurs généraux de la jeunesse et des sports ;
+b) Un directeur régional chargé des sports ;
 
-c) Un directeur régional chargé des sports ;
+c) Un directeur départemental chargé des sports ;
 
-d) Un directeur départemental chargé des sports ;
+d) Un inspecteur de la jeunesse et des sports ;
 
-e) Un inspecteur de la jeunesse et des sports ;
+e) Le directeur de l'Institut national du sport, de l'expertise et de la performance ;
 
-f) Le directeur de l'Institut national du sport, de l'expertise et de la performance ;
+5. Quatre membres désignés conjointement par le ministre chargé de l'éducation nationale et le ministre chargé des sports parmi les inspecteurs généraux de l'éducation, du sport et de la recherche ;
 
-5. Un représentant du ministre chargé de l'agriculture ;
+6. Un représentant du ministre chargé de l'agriculture ; 7. Deux représentants des collectivités territoriales dont un désigné par l'Association des régions de France et un désigné par l'Assemblée des départements de France ;
 
-6. Deux représentants des collectivités territoriales dont un désigné par l'Association des régions de France et un désigné par l'Assemblée des départements de France ;
-
-7. Dix-huit membres désignés pour quatre ans par les organisations suivantes et deux ans pour les représentants des élèves :
+8. Dix-huit membres désignés pour quatre ans par les organisations suivantes et deux ans pour les représentants des élèves :
 
 a) Trois représentants des deux fédérations de parents d'élèves les plus représentatives de l'enseignement du second degré, dont un représentant de droit pour chacune d'entre elles et un représentant désigné en fonction du résultat des élections des parents d'élèves aux conseils d'administration des établissements scolaires du second degré, à la proportionnelle à la plus forte moyenne ;
 
@@ -108,7 +104,7 @@ c) Six représentants des enseignants d'EPS du second degré. Un représentant d
 
 d) Un représentant du syndicat le plus représentatif des personnels de direction ;
 
-e) Deux représentants du Comité ntional olympique et sportif français ;
+e) Deux représentants du Comité national olympique et sportif français ;
 
 f) Un représentant de la Fédération française du sport universitaire ;
 
@@ -118,13 +114,13 @@ h) Un directeur de service départemental de l'UNSS ;
 
 i) Un représentant de l'Union sportive de l'enseignement du premier degré ;
 
-8. Quinze représentants d'associations sportives des établissements d'enseignement du second degré.
+9. Quinze représentants d'associations sportives des établissements d'enseignement du second degré.
 
-Les fédérations et syndicats représentatifs mentionnés au 7 ci-dessus sont désignés par un arrêté du ministre de l'éducation nationale.
+Les fédérations et syndicats représentatifs mentionnés au 8 ci-dessus sont désignés par un arrêté du ministre de l'éducation nationale.
 
-Les membres de l'assemblée générale mentionnés au 8 ci-dessus sont élus pour quatre ans sur des listes nationales de trente noms (quinze titulaires et quinze suppléants) à la représentation proportionnelle à la plus forte moyenne. Sont électeurs tous les membres élus des conseils régionaux de l'UNSS.
+Les membres de l'assemblée générale mentionnés au 9 ci-dessus sont élus pour quatre ans sur des listes nationales de trente noms (quinze titulaires et quinze suppléants) à la représentation proportionnelle à la plus forte moyenne. Sont électeurs tous les membres élus des conseils régionaux de l'UNSS.
 
-Pour les membres mentionnés du 1 au 7 ci-dessus, un suppléant siège en cas d'absence du membre titulaire. En cas de partage égal des voix celle du président est prépondérante.
+Pour les membres mentionnés du 1 au 8 ci-dessus, un suppléant siège en cas d'absence du membre titulaire. En cas de partage égal des voix celle du président est prépondérante.
 
 Article 8
 
@@ -166,13 +162,11 @@ Le conseil d'administration est composé de vingt-quatre membres :
 
 2. Le ministre chargé des sports ou son représentant ;
 
-3. Sept membres désignés par le ministre de l'éducation nationale parmi ceux mentionnés au 3 de l'article 7 ci-dessus :
+3. Six membres désignés par le ministre de l'éducation nationale parmi ceux mentionnés au 3 de l'article 7 ci-dessus :
 
 a) Deux directeurs généraux, directeurs ou chefs de service du ministère de l'éducation nationale ;
 
-b) Un inspecteur général de l'éducation nationale ;
-
-c) Un inspecteur d'académie, directeur académique des services de l'éducation nationale ;
+b) Un directeur académique des services de l'éducation nationale ;
 
 c) Un proviseur de lycée ;
 
@@ -182,13 +176,15 @@ e) Un principal de collège.
 
 4. Deux directeurs ou chefs de services désignés par le ministre chargé des sports parmi ceux mentionnés au 4 de l'article 7 ci-dessus ;
 
-5. Le représentant de l'Assemblée des départements de France siégeant à l'assemblée générale de l'UNSS ;
+5. Un membre désigné conjointement par le ministre chargé de l'éducation nationale et le ministre chargé des sports parmi les inspecteurs généraux de l'éducation, du sport et de la recherche
 
-6. a) Un représentant des élèves désigné parmi les représentants des élèves siégeant à l'assemblée générale de l'UNSS ;
+6. Le représentant de l'Assemblée des départements de France siégeant à l'assemblée générale de l'UNSS ;
+
+7. a) Un représentant des élèves désigné parmi les représentants des élèves siégeant à l'assemblée générale de l'UNSS ;
 
 b) Un représentant de chacune des fédérations de parents d'élèves siégeant à l'assemblée générale ;
 
-c) Cinq représentants d'associations sportives élus pour quatre ans par leurs pairs parmi ceux siégeant à l'assemblée générale au titre du 8 de l'article 7 ci-dessus ;
+c) Cinq représentants d'associations sportives élus pour quatre ans par leurs pairs parmi ceux siégeant à l'assemblée générale au titre du 9 de l'article 7 ci-dessus ;
 
 d) Trois représentants des deux syndicats les plus représentatifs des enseignants d'éducation physique et sportive du second degré, dont un représentant de droit pour chacun d'entre eux et un représentant désigné en fonction du résultat des élections professionnelles au plan national, à la proportionnelle à la plus forte moyenne ;
 
