@@ -239,3 +239,11 @@ Volume de la citerne (m3)
 |
 
 21 Des essais de vérification aux fins d'approbation de quantités d'eau à utiliser lors d'un prélavage qui sont inférieures à celles indiquées au paragraphe 20 peuvent être réalisés à la satisfaction de l'Autorité, afin de prouver qu'il est satisfait aux prescriptions de l'article 13, compte tenu des substances que le navire-citerne est certifié apte à transporter. Il faut ajuster la quantité d'eau ainsi vérifiée pour tenir compte d'autres conditions de prélavage en appliquant le coefficient k, tel que défini au paragraphe 20.
+
+C Tous les navires
+
+Méthodes de prélavage pour les substances flottantes persistantes auxquelles s'applique la règle 13.7.4.1 du chapitre 2 de la division 213.
+
+Les substances flottantes persistantes dont la viscosité est égale ou supérieure à 50 mPa·s à 20 °C et/ou dont le point de fusion est égal ou supérieur à 0 °C doivent être considérées comme étant des substances qui se solidifient ou à viscosité élevée aux fins du prélavage.
+
+Lorsqu'il est établi qu'utiliser de petites quantités d'additifs de nettoyage permettrait d'éliminer plus facilement et efficacement les résidus de cargaison pendant le prélavage, il faudrait consulter l'installation de réception et obtenir son accord au préalable.
