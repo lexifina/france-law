@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200917699
+
+- Question : [SEQ200917699](seq200917699.md) — Récupération des eaux de pluie
+
+## Réponse
+
+*Transition écologique, JO du 2020-12-31, page 6404*
+
+Le ministère en charge de l'environnement encourage les démarches visant à une meilleure gestion des ressources en eau. La récupération d'eau de pluie permet aux usagers de faire des économies et de préserver la ressource en eau. Elle présente par ailleurs l'intérêt de limiter les impacts des rejets d'eau pluviale en milieu urbain, face notamment à l'imperméabilisation croissante des sols et aux problèmes d'inondation qui peuvent en découler. L'arrêté du 21 août 2008 relatif à la récupération des eaux de pluie et à leur usage à l'intérieur et à l'extérieur des bâtiments permet à toute personne qui le souhaite d'installer un système de réutilisation des eaux de pluie dès lors que les prescriptions permettant de protéger la santé des utilisateurs sont bien respectées. En complément, certaines collectivités ont fait le choix de promouvoir la récupération d'eau de pluie pour les bâtiments et habitations neufs en prévoyant des dispositions rendant obligatoire la gestion à la parcelle des eaux de pluie dans leur zonage pluvial (article L. 2224-10 du code général des collectivités territoriales) annexé au plan local d'urbanisme ou au plan local d'urbanisme intercommunal. Au niveau national, plusieurs dispositions visant à encourager la réutilisation des eaux non conventionnelles sont prévues par la loi no 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et à l'économie circulaire. Aussi, pour les constructions nouvelles, il est prévu qu'un décret détermine à partir de 2023 les exigences de limitation de consommation d'eau potable dans le respect des contraintes sanitaires afférentes à chaque catégorie de bâtiments, notamment s'agissant des dispositifs de récupération des eaux de pluie.
