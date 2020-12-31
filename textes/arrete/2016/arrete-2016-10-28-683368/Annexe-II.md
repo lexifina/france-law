@@ -4,11 +4,9 @@ Au titre de l'historique des directions et services suivants :
 
 Directeur central adjoint ou directeur adjoint (précédemment intitulé adjoint au chef du service central) |
 
-1° Direction générale de la police nationale :
+1-Direction générale de la police nationale :
 
-Adjoint au chef du RAID |
-
-Conseiller : conseiller, chef du pôle des affaires européennes et internationales, chef du cabinet des affaires européennes et internationales ; conseiller, chef du pôle ordre public, défense et renseignement, chef du cabinet de l'ordre public ; conseiller, chef du pôle prévention, judiciaire, partenariats, conseiller, responsable de pôle ; conseiller, chef du pôle ressources humaines, coordonnateur des services actifs ; conseiller, chef du pôle technologies et prospectives, conseiller, chef du cabinet " projets technologiques " ; chef du service d'information et de communication de la police, chef de la cellule communication |
+Conseiller : conseiller, chef du pôle des affaires européennes et internationales, chef du cabinet des affaires européennes et internationales ; conseiller, chef du pôle ordre public, défense et renseignement, chef du cabinet de l'ordre public ; conseiller, chef du pôle prévention, judiciaire, partenariats, conseiller, responsable de pôle ; conseiller, chef du pôle ressources humaines, coordonnateur des services actifs ; conseiller, chef du pôle technologies et prospectives, conseiller, chef du cabinet "projets technologiques" ; chef du service d'information et de communication de la police, chef de la cellule communication |
 
 Adjoint au conseiller : adjoint au chef du pôle ordre public, défense et renseignement, chef du bureau de la défense ; chef du cabinet politique pénale et police judiciaire |
 
@@ -16,7 +14,19 @@ Chef du pôle affaires européennes à la délégation aux affaires internationa
 
 Coordonnateur de services actifs-Chef du cabinet mission DOM-TOM, suivi des CSI, aide aux victimes, politique de la ville |
 
-2° Direction des ressources et des compétences de la police nationale (précédemment intitulée " direction de l'administration de la police nationale ; direction de la formation de la police nationale ") :
+Chef de la cellule d'études et de prospectives à l'unité de coordination de la lutte antiterroriste (UCLAT) |
+
+Adjoint au chef de l'U. C. L. A. T. |
+
+Conseiller, chef du pôle prévention-coopérations de sécurité |
+
+Adjoint au chef de l'UCLAT chargé de la lutte contre la radicalisation et des mesures de police administrative |
+
+Délégué ministériel aux industries de sécurité et à la lutte contre les cybermenaces au ministère de l'intérieur |
+
+À la DGPN-DIVERS pour servir en qualité de chef de projet modernisation au SAELSI |
+
+2-Direction des ressources et des compétences de la police nationale (précédemment intitulée "direction de l'administration de la police nationale ; direction de la formation de la police nationale" ) :
 
 Chef de la mission de la programmation et de l'évaluation |
 
@@ -34,9 +44,37 @@ Directeur du Centre national d'études et de formation |
 
 Chargé de la mission de préfiguration du médiateur interne |
 
-Chargé de mission " Passenger Name Record " |
+Chargé de mission "Passenger Name Record" |
 
-3° Inspection générale de la police nationale :
+Directeur de cabinet |
+
+Adjoint au sous-directeur |
+
+Chef de l'Institut national de la formation de la police nationale |
+
+Chef du département de l'organisation, des méthodes et de l'évaluation de la formation |
+
+Chef du département des formations |
+
+Chef du département du recrutement et de l'égalité des chances |
+
+Délégué au recrutement et à la formation de la police nationale de Paris-Ile-de-France à Paris |
+
+Délégué interrégional au recrutement et à la formation de la police nationale et directeur de l'Ecole nationale de police : Nîmes, Roubaix |
+
+Délégué interrégional au recrutement et à la formation de la police nationale : Bordeaux, Rennes, Metz, Lyon |
+
+Adjoint au chef du département des formations |
+
+Médiateur interne auprès du DRCPN |
+
+Responsable de la mission études, méthode, ingénierie/ innovation de la DRCPN |
+
+A la DRCPN-DIVERS pour servir en qualité d'administrateur ministériel des données à la MGMSIC |
+
+A la DRCPN-DIVERS pour servir en qualité de chef de la division projets de la mission de la gouvernance ministérielle des systèmes d'information et de communication |
+
+3-Inspection générale de la police nationale :
 
 Chargé de la coordination des services et de l'animation des contrôles et des études |
 
@@ -58,11 +96,9 @@ Responsable du pôle des chargés de mission |
 
 Auditeur auprès du préfigurateur du cabinet des inspections, des études et des audits |
 
-4° Direction centrale de la police judiciaire :
+4-Direction centrale de la police judiciaire :
 
-Chef d'office central : chef de la division nationale d'investigations financières ;
-
-Office central pour la répression de la fausse monnaie ; Office central pour la répression du banditisme |
+" Chef d'office central : chef de la division nationale d'investigations financières ; Office central pour la répression de la fausse monnaie ; Office central pour la répression du banditisme " |
 
 Chef de division : division de la protection du patrimoine culturel économique et technologique, division antiterroriste |
 
@@ -70,21 +106,43 @@ Chargé de missions d'études et d'audit auprès du directeur central (précéde
 
 Conseiller technique : conseiller technique auprès du directeur central ; conseiller technique auprès du directeur central adjoint |
 
-Coordonnateur des tgroupes d'intervention régionaux |
+Coordonnateur des groupes d'intervention régionaux |
 
 Directeur du service régional : Ajaccio, Versailles |
 
 Directeur adjoint du service régional : Ajaccio, Versailles |
 
-5° Direction générale de la sécurité intérieure :
+Chef de la division de la logistique opérationnelle-adjoint au sous-directeur des affaires criminelles |
 
-Les postes de la direction générale de la sécurité intérieure font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure
+Chef de la division de la logistique opérationnelle-adjoint au sous-directeur des affaires économiques et financières |
 
-|
+Adjoint au sous-directeur, chef du pôle de coordination d'analyse et de supports opérationnels |
 
-6° Direction centrale de la sécurité publique :
+Adjoint au sous-directeur, chef du pôle de la lutte contre la grande délinquance financière et de la protection du patrimoine |
 
-Adjoint au sous-directeur (précédemment intitulé " chef de bureau ") |
+Adjoint au sous-directeur chargé de l'anti-terrorisme, chef de la division de la logistique opérationnelle |
+
+Chef de l'office central pour la répression du banditisme de la SDAC |
+
+Chef de l'office central pour la répression de la traite des êtres humains de la SDAC |
+
+Chef de l'office central pour la répression du trafic illicite des stupéfiants de la SDAC |
+
+Chef de l'office central pour la répression du faux-monnayage de la SDAEF |
+
+Adjoint au chef de l'office central pour la répression de la grande délinquance financière |
+
+Chef de l'office central pour la répression de la grande délinquance financière de la SDAEF |
+
+Chef de l'office central pour la répression du trafic illicite des stupéfiants |
+
+5-Direction générale de la sécurité intérieure :
+
+Les postes de la direction générale de la sécurité intérieure font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure |
+
+6-Direction centrale de la sécurité publique :
+
+Adjoint au sous-directeur (précédemment intitulé "chef de bureau" ) |
 
 Adjoint au préfigurateur du service central du renseignement territorial |
 
@@ -130,7 +188,21 @@ Chef du service de nuit : Nanterre, Bobigny, Créteil |
 
 Chef d'état-major : Nanterre, Bobigny, Créteil |
 
-7° Direction centrale de la police aux frontières (précédemment intitulée " direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ; direction de la police de l'air et des frontières ") :
+Chargé d'audits et d'assistance à la coordination centrale des audits et de l'assistance |
+
+Chargé de mission d'audit et conseils |
+
+Adjoint au chef de la division de l'évaluation et de la maitrise des risques |
+
+Chef de district et commissaire central : Lille, Antony, Asnières-sur-Seine, Boulogne-Billancourt, Nanterre, Aulnay-sous-Bois, Bobigny, Montreuil-sous-Bois, Saint-Denis, Créteil, L'Hay-les-Roses, Nogent-sur-Marne, Vitry-sur-Seine, Argenteuil, Cergy-Pontoise, Sarcelles |
+
+Directeur départemental et commissaire central Cayenne |
+
+Directeur de la sécurité publique et chef de circonscription Mamoudzou |
+
+Directeur de la sécurité publique et commissaire central Nouméa |
+
+7-Direction centrale de la police aux frontières (précédemment intitulée "direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ; direction de la police de l'air et des frontières" ) :
 
 Adjoint au chef d'état-major |
 
@@ -140,7 +212,15 @@ Directeur départemental Pas-de-Calais, Seine-et-Marne : Calais, Le Mesnil-Amelo
 
 Préfigurateur de la division nationale de la lutte contre la fraude documentaire |
 
-8° Direction centrale des compagnies républicaines de sécurité (précédemment intitulée " service central des compagnies républicaines de sécurité ") :
+Préfigurateur à la coordination zonale Ile de France pour la lutte contre l'immigration irrégulière |
+
+Directeur départemental de la Guyane |
+
+Directeur de la PAF de Mayotte |
+
+A la DCPAF pour servir en qualité de directeur de l'Unité Information Passagers (UIP) |
+
+8-Direction centrale des compagnies républicaines de sécurité (précédemment intitulée "service central des compagnies républicaines de sécurité" ) :
 
 Chef d'état-major |
 
@@ -148,27 +228,39 @@ Chef du groupement : Sud, Sud-Ouest, Ouest, Est, Nord, Sud-Est, Paris |
 
 Adjoint au chef du groupement : Paris |
 
-9° Direction de la coopération internationale (précédemment intitulée " service de coopération technique internationale de police) :
+9-Direction de la coopération internationale (précédemment intitulée "service de coopération technique internationale de police") :
 
 Attaché de police : Etats-Unis, Grande-Bretagne, Espagne, Russie, Chine, Sénégal, Algérie, Allemagne, Liban, Turquie, Colombie, Mali, Maroc, Irak, Egypte |
 
 Conseiller à la JAI |
 
-10° Service de la protection (précédemment intitulé " service de protection des hautes personnalités ") :
+Adjoint au sous-directeur de la coopération technique et institutionnelle |
+
+Attaché régional de sécurité intérieure, coordonnateur régional Dakar |
+
+10-Service de la protection (précédemment intitulé "service de protection des hautes personnalités") :
 
 Sous-directeur des ressources et des moyens mobiles |
 
 Sous-directeur des hautes personnalités françaises |
 
-11° Préfecture de police :
+11-Préfecture de police :
 
-Préfecture de police-direction de l'ordre public et de la circulation (précédemment intitulée " direction de la sécurité publique ") :
+Préfecture de police-direction de l'ordre public et de la circulation (précédemment intitulée "direction de la sécurité publique") :
 
 Adjoint au chef d'état-major |
 
 Attaché à l'état-major de la sous-direction de l'ordre public de l'agglomération parisienne |
 
 Adjoint au chef du district jusqu'au 1er août 2011 : 1er, 2e, 3e |
+
+Chef du 1er district |
+
+Chef du 2ème district |
+
+Chef du 3ème district |
+
+Sous-directeur de la protection des institutions, des gardes et des transferts de l'agglomération parisienne |
 
 Préfecture de police-direction de la sécurité de proximité de l'agglomération parisienne :
 
@@ -182,7 +274,11 @@ Chef de la brigade anti-criminalité de nuit |
 
 Officier du ministère public |
 
-Préfecture de police-direction de la police urbaine de proximité de la préfecture de police (précédemment intitulée " direction de la sécurité publique ") :
+Commissaire central du 1er arrdt |
+
+Adjoint au sous-directeur de la police d'investigation territoriale |
+
+Préfecture de police-direction de la police urbaine de proximité de la préfecture de police (précédemment intitulée "direction de la sécurité publique") :
 
 Chef d'état-major, adjoint au directeur |
 
@@ -202,33 +298,35 @@ Chef de la brigade anti-criminalité de nuit |
 
 Préfecture de police-direction de la police judiciaire :
 
-Chef de brigade : chef de la brigade d'enquête des atteintes à la personne ;
-
-brigade des affaires sanitaires et des libertés publiques |
+Chef de brigade : chef de la brigade d'enquête des atteintes à la personne ; brigade des affaires sanitaires et des libertés publiques |
 
 Chef de service régional : chef de la division de la statistique et de la documentation ; chef des sections techniques de l'identité judiciaire |
 
 Officier du ministère public |
 
-Chef du cabinet des délégations judiciaires : 2e, 4e, 9e |
+Chef du cabinet des délégations judiciaires : 2e, 4e, 9 |
 
 Chef de la division : 1er, 2e, 3e |
 
-Préfecture de police-direction du renseignement (précédemment intitulée " direction des renseignements généraux ") :
+Préfecture de police-direction du renseignement (précédemment intitulée "direction des renseignements généraux") :
 
-Chef d'état-major |
-
-Chef du pôle lutte contre le terrorisme et les extrémismes violents (précédemment intitulé chef de la section chargée de la lutte contre le terrorisme) |
+Les postes de la direction du renseignement de la préfecture de police font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure |
 
 Préfecture de police-direction opérationnelle des services techniques et logistiques (précédemment intitulée direction de la logistique, direction des services techniques) :
 
 Sous-directeur du soutien technique |
+
+Adjoint au sous-directeur du soutien opérationnel et chef du service du soutien opérationnel spécialisé |
+
+Sous-directeur du soutien opérationnel |
 
 Préfecture de police-divers :
 
 Adjoint au directeur des ressources humaines |
 
 Chef du département des formations administratives et opérationnelles à la direction des ressources humaines |
+
+Chef de la mission coordination de sécurité intérieure au secrétariat général de la zone de défense et de sécurité |
 
 Préfecture de police-inspection générale des services :
 
@@ -240,19 +338,19 @@ Chef du service d'information et de sécurité |
 
 Coordinateur des affaires disciplinaires (précédemment intitulé coordinateur des enquêtes judiciaires et administratives) |
 
-12° Ecole nationale supérieure de la police :
+12-Ecole nationale supérieure de la police :
 
 Chef du département des formations professionnelles |
 
 Directeur de la formation initiale |
 
-13° Service des technologies et des systèmes d'information de la sécurité intérieure :
+13-Service des technologies et des systèmes d'information de la sécurité intérieure :
 
 Chef du service des technologies de la sécurité intérieure (précédemment intitulé chef du service de modernisation et de prospective, directeur du programme ACROPOL) |
 
 Adjoint au sous-directeur de la conception et de l'anticipation |
 
-14° Mis à disposition-divers et détachement :
+14-Mis à disposition-divers et détachement :
 
 Adjoint au préfet, haut fonctionnaire de défense adjoint à la direction de la défense et de la sécurité civiles |
 
@@ -273,3 +371,11 @@ Directeur de la sûreté du groupe France Télécom |
 Directeur de la sûreté publique auprès du gouvernement de la Principauté de Monaco |
 
 Directeur adjoint de l'académie du renseignement |
+
+Sous-directeur des équipements au SAELSI |
+
+Adjoint au sous-directeur de la logistique au SAELSI |
+
+Sous-directeur des moyens nationaux à la DGSCGC |
+
+Mis à disposition des services du Premier ministre, en qualité de chargé de mission police nationale au sein du pôle application de la loi auprès de la présidente de la MILDECA |

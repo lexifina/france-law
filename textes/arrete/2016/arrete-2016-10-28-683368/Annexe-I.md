@@ -2,374 +2,342 @@
 
 Sous-directeur |
 
-Chef de projet dans une direction ou un service dépendant de la direction générale de la police nationale, de la préfecture de police |
-
-1° Direction générale de la police nationale :
-
-Chef de l'unité de coordination de la lutte antiterroriste (UCLAT) |
-
-Adjoint au chef de l'unité de coordination de la lutte antiterroriste (UCLAT) |
-
-Chef du RAID |
-
-Chef adjoint du RAID |
-
-Chef d'état-major au cabinet du directeur général de la police nationale |
-
-Adjoint au chef d'état-major au cabinet du directeur général de la police nationale |
-
-Conseiller, chef de pôle au cabinet du directeur général de la police nationale |
-
-Adjoint au conseiller : adjoint au conseiller doctrine défense-planification-renseignement ; adjoint au conseiller judiciaire |
-
-Chef de la cellule d'études et de prospectives à l'unité de coordination de la lutte antiterroriste (UCLAT) |
-
-Délégué aux industries de sécurité au ministère de l'intérieur |
-
-2° Direction des ressources et des compétences de la police nationale (précédemment intitulée " direction de l'administration de la police nationale ; direction de la formation de la police nationale ") :
-
-Directeur de cabinet |
-
-Adjoint au sous-directeur |
-
-Chef de l'Institut national de la formation de la police nationale |
-
-Chef du département du management et de la gestion des commissaires de police |
-
-Chef du département de l'organisation, des méthodes et de l'évaluation de la formation |
-
-Chef du département des formations |
-
-Chef du département du recrutement et de l'égalité des chances |
-
-Chef de la division du management |
-
-Délégué au recrutement et à la formation de la police nationale de Paris-Ile-de-France à Paris |
-
-Délégué interrégional au recrutement et à la formation de la police nationale et directeur de l'Ecole nationale de police : Nîmes, Roubaix |
-
-Délégué interrégional au recrutement et à la formation de la police nationale : Bordeaux, Rennes, Metz, Lyon |
-
-Médiateur interne |
-
-Responsable de la mission de veille, des études et de la prospective |
-
-Responsable de la mission reconversion et reclassement professionnel |
-
-Adjoint au chef du département des formations |
-
-Directeur de la formation du Centre des hautes études du ministère de l'intérieur |
-
-Directeur de l'unité information passagers à Roissy-en-France |
-
-Adjoint au délégué aux coopérations de sécurité du ministère de l'intérieur, chargé des professions exposées à la malveillance |
-
-Administrateur ministériel des données à la mission de gouvernance ministérielle des systèmes d'information et de communication (MGMSIC) |
-
-Chef de la division projets de la mission de gouvernance ministérielle des systèmes d'information et de communication (précédemment à la direction générale de la police nationale) |
-
-3° Inspection générale de la police nationale :
-
-Directeur adjoint de l'inspection générale de la police nationale |
-
-Chef de la délégation de l'IGPN Paris |
-
-Chef de cabinet : cabinet de l'analyse de la déontologie et de la règle ; cabinet des inspections et des audits ; cabinet des études |
-
-Chef de l'unité de coordination des enquêtes |
-
 Secrétaire général |
 
-Coordonnateur pour l'investigation à la délégation : Paris |
+Chef de projet |
+
+Chef d'un office central ou national |
+
+Directeur zonal |
+
+Auditeur |
+
+Chef de district |
+
+1-Direction générale de la police nationale :
+
+Adjoint au chef d'état-major au cabinet du DGPN |
+
+Chef de pôle à la DGPN |
+
+Adjoint au chef de pôle à la DGPN |
+
+Directeur territorial de la police nationale |
+
+Adjoint au chef du RAID |
+
+Chargé de mission auprès du conseiller police au sein de la mission opérationnelle de sécurité et de défense auprès du ministre de l'intérieur |
+
+Conseiller à la réforme et à l'accompagnement des retraites |
+
+Préfigurateur de l'Unité Nationale ETIAS |
+
+Médiateur interne de la police nationale auprès du DGPN |
+
+Chef du service national des enquêtes administratives de sécurité |
+
+Chef du détachement central interministériel d'intervention technique (DCI-IT) |
+
+Chef de l'unité de coordination des grands évènements (UCGE) |
+
+Chef de mission outre-mer |
+
+2-Direction des ressources et des compétences de la police nationale :
+
+Chef du département de l'accompagnement des personnels de la police |
+
+Adjoint au chef du département du management et de la gestion des commissaires de police, chef de la division du management |
+
+Directeur de l'Unité Information Passagers |
+
+A la DRCPN-DIVERS pour servir en qualité d'adjoint au délégué aux coopérations de sécurité du ministère de l'intérieur, chargé des professions exposées à la malveillance |
+
+À la DRCPN-DIVERS pour servir en qualité de chargé d'inspection à l'inspection générale de l'administration (IGA) |
+
+A la DRCPN-DIVERS pour servir en qualité de directeur de la formation du Centre des Hautes Etudes du Ministère de l'Intérieur (C. H. E. M. I) |
+
+A la DRCPN-DIVERS pour servir en qualité de référent police nationale à la mission modernisation et simplification de l'action publique |
+
+Mis pour emploi opérationnel en qualité d'adjoint au chef de service chargé de la mission de gouvernance ministérielle des ressources humaines (MGMRH) |
+
+Mis pour emploi opérationnel en qualité de coordonnateur national adjoint pour la sécurité des jeux olympiques et paralympiques 2024 |
+
+Conseiller spécial auprès du coordinateur national pour la sécurité des jeux olympiques et paralympiques de 2024 |
+
+3-Direction centrale du recrutement et de la formation de la police nationale :
+
+Adjoint à un sous-directeur à la DCRFPN |
+
+Chef d'état-major à la DCRFPN |
+
+Chef du pôle pilotage des formations |
+
+Directeur zonal adjoint au recrutement et à la formation de la police nationale Sud (DZRFPN) à Nimes |
+
+Directeur de l'école nationale de police d'Oissel |
+
+4-Inspection générale de la police nationale :
+
+Chef d'un cabinet d'enquête |
+
+Adjoint au chef du cabinet de l'amélioration de la maîtrise de l'activité et des risques AMARIS-Adjoint au chef du cabinet des inspections, des études et des audits, chef du département de l'audit interne et de l'expertise-Adjoint au chef du cabinet des inspections, des études et des audits, coordonnateur du département des études et de l'inspection |
 
 Adjoint au chef de l'unité de coordination des enquêtes |
 
 Chef de la division nationale des enquêtes |
 
-Adjoint au chef de la division nationale des enquêtes |
-
-Chef du cabinet des inspections, des études et des audits |
-
-Adjoint au chef du cabinet des inspections et des audits |
-
-Adjoint au chef du cabinet des inspections, des études et des audits, chef du département de l'audit interne et de l'expertise |
-
 Chef de la mission d'appui et de conseil |
 
-Chef de la délégation : Marseille, Bordeaux, Rennes, Metz, Lille, Lyon, Fort-de-France |
+Chef d'une délégation à l'IGPN |
 
-Adjoint au chef de la délégation de l'IGPN : Paris |
+Adjoint au chef de la délégation de l'IGPN à Paris |
 
-Chef du cabinet AMARIS |
+Adjoint au chef de la division nationale des enquêtes |
 
-Adjoint au chef du cabinet AMARIS |
+5-Direction centrale de la police judiciaire :
 
-Chargé d'inspection |
+Adjoint à un sous-directeur à la DCPJ |
 
-Auditeur |
+Chef d'état-major à Paris-Chef d'état-major à la SDLCO à Nanterre-Chef d'état-major de la DIPJ à Marseille |
 
-4° Direction centrale de la police judiciaire :
-
-Adjoint au sous-directeur |
-
-Chef d'office central |
-
-Adjoint au chef d'office central : Office central pour la répression du trafic illicite des stupéfiants ; Office central pour la répression de la grande délinquance financière ; Office central de lutte contre le crime organisé et chef de la brigade de recherche et d'intervention nationale ; Office central de lutte contre le crime organisé et chef de la brigade nationale de répression du banditisme |
-
-Adjoint au chef du service central des courses et jeux, chef de la division de la logistique et de la coordination opérationnelle |
-
-Chef de division ; division des relations internationales ; division criminelle et de la répression du banditisme de la direction interrégionale à Marseille ; division des stupéfiants et du proxénétisme de la direction interrégionale à Marseille ; division nationale de répression du terrorisme international à la sous-direction antiterroriste |
-
-Adjoint au chef de la division des relations internationales |
-
-Chef d'état-major |
-
-Chef d'état-major à la sous-direction de la lutte contre la criminalité organisée et la délinquance financière |
-
-Chef du service central des courses et jeux |
-
-Directeur interrégional, directeur du service régional : Marseille, Dijon, Bordeaux, Rennes, Orléans, Lille, Strasbourg, Lyon, Pointe-à-Pitre |
-
-Directeur interrégional adjoint, directeur adjoint du service régional : Marseille, Bordeaux, Rennes, Lille, Strasbourg, Lyon |
-
-Directeur régional : Ajaccio, Versailles |
-
-Directeur régional adjoint : Ajaccio, Versailles |
-
-Directeur du service régional : Toulouse, Montpellier, Angers, Reims, Nancy, Clermont-Ferrand, Rouen, Limoges |
-
-Chef de l'antenne : Nice |
+Coordonnateur des actions de lutte contre le trafic d'armes auprès du sous-directeur de la lutte contre la criminalité organisée |
 
 Chef du service interministériel d'assistance technique |
 
-5° Direction générale de la sécurité intérieure :
+Chef du service d'information, de renseignement et d'analyse stratégique sur la criminalité organisée (SIRASCO) |
 
-Les postes de la direction générale de la sécurité intérieure font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure
+Chef de la division des relations internationales-Chef de la division nationale de recherche et de surveillance à la SDAT-Chef de la division nationale de répression du terrorisme international et séparatiste à la SDAT-Chef de la division criminelle à Marseille, Lille, Lyon et Versailles-Chef de la division des stupéfiants et du proxénétisme de la DIPJ de Marseille-Chef de la division nationale de la documentation criminelle et de la coordination de police technique (DNDCCPT) à Ecully |
 
-|
+Chef du pôle opérationnel à l'office anti-stupéfiant |
 
-6° Direction centrale de la sécurité publique :
+Adjoint au chef de la division des relations internationales-Adjoint au chef de la division nationale de la documentation criminelle et de la coordination de police technique, chargé du suivi des systèmes nationaux-Adjoint au chef de la division nationale de répression du terrorisme international et séparatiste à la SDAT |
 
-Adjoint au sous-directeur |
+Chef ou adjoint au chef du service central des courses et jeux |
 
-Adjoint au chef du service central du renseignement territorial |
+Adjoint au chef O. C. L. C. O. et chef de la brigade de recherche et d'intervention nationale-Adjoint au chef O. C. L. C. O. et chef de la brigade nationale de répression du banditisme-Adjoint au chef O. C. R. G. D. F. |
 
-Secrétaire général du service central du renseignement territorial |
+Directeur ou directeur adjoint interrégional de police judiciaire-directeur régional ou directeur régional adjoint de police judiciaire |
 
-Chef de l'état-major à la direction centrale |
+Directeur adjoint d'un service régional de police judiciaire à Toulouse, Montpellier, Rouen |
 
-Chargé de mission : chargé de mission audit et assistance ; chargé de mission d'audit et conseils |
+Chef de l'antenne de police judiciaire à Nice |
 
-Chef de division : division des unités territoriales et de l'ordre public ; division nationale de la recherche et de l'appui au service central du renseignement territorial ; division des faits religieux et mouvances contestataires au service central du renseignement territorial ; division des dérives urbaines et du repli identitaire au service central du renseignement territorial ; division de l'information économique et sociale au service central du renseignement territorial ; division des audits et de l'appui aux services ; division de l'analyse et des études ; division de l'évaluation et de la maîtrise des risques |
+6-Direction générale de la sécurité intérieure :
 
-Auditeur zonal à la division des audits et de l'appui aux services |
+Les postes de la direction générale de la sécurité intérieure font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure |
 
-Auditeur central à la division des audits et de l'appui aux services |
+7-Direction centrale de la sécurité publique :
 
-Adjoint au chef de la division de l'évaluation et de la maîtrise des risques |
+Adjoint à un sous-directeur à la DCSP |
 
-Chef de pôle : pôle des moyens et de la logistique ; pôle des ressources humaines ; pôle judiciaire |
+Chef de pôle à la DCSP |
 
-Directeur départemental : Ain, Aisne, Allier, Alpes-Maritimes, Ardennes, Aube, Aude, Aveyron, Bouches-du-Rhône, Calvados, Charente, Charente-Maritime, Cher, Corrèze, Corse-du-Sud, Haute-Corse, Côte-d'Or, Côtes-d'Armor, Dordogne, Doubs, Drôme, Eure, Eure-et-Loir, Finistère, Gard, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Loire, Loire-Atlantique, Loiret, Lot-et-Garonne, Maine-et-Loire, Manche, Marne, Meurthe-et-Moselle, Morbihan, Moselle, Nord, Oise, Orne, Pas-de-Calais, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Bas-Rhin, Haut-Rhin, Rhône, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Seine-Maritime, Seine-et-Marne, Yvelines, Somme, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Vosges, Yonne, Territoire de Belfort, Essonne, Val-d'Oise, Guadeloupe, Martinique, Guyane, La Réunion, Mayotte, Nouvelle-Calédonie |
+Chef du département des dérives urbaines, du repli identitaire et de prévention de la radicalisation et du terrorisme |
 
-Directeur : Polynésie française |
+Chef de la division du management des services-Chef de la division de la stratégie numérique-Chef de la division de l'analyse et des études-Chef de la division de l'information économique et sociale au SCRT-Chef de la division des faits religieux et mouvances contestataires au SCRT-Chef de la division des audits et de l'appui aux services-Chef de la division des unités territoriales et de l'ordre public-Chef de la division de l'évaluation et de la maitrise des risques-Chef des divisions de Lille, Roubaix, Tourcoing à Lille-Chef des divisions Centre, Nord, Sud à Marseille |
 
-Directeur départemental adjoint : Alpes-Maritimes, Bouches-du-Rhône, Calvados, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Isère, Loire, Loire-Atlantique, Meurthe-et-Moselle, Moselle, Nord, Pas-de-Calais, Bas-Rhin, Rhône, Seine-Maritime, Seine-et-Marne, Yvelines, Var, Essonne, Val-d'Oise, La Réunion |
+Directeur départemental de la sécurité publique |
 
-Chef de district et commissaire central : Cannes, Aix-en-Provence, Marseille, Martigues, Dunkerque, Lille, Valenciennes, Maubeuge, Boulogne-sur-Mer, Bayonne, Le Havre, Melun, Meaux, Evry, Juvisy-sur-Orge, Palaiseau, Antony, Asnières-sur-Seine, Boulogne-Billancourt, Nanterre, Aulnay-sous-Bois, Bobigny, Montreuil-sous-Bois, Saint-Denis (93), Créteil, L'Haÿ-les-Roses, Nogent-sur-Marne, Vitry-sur-Seine, Argenteuil, Cergy-Pontoise, Sarcelles, Torcy |
+Directeur départemental adjoint de la sécurité publique des Alpes-Maritimes-Calvados-Finistère-Gard-Haute-Garonne-Gironde-Hérault-Ille-et-Vilaine-Isère-Loire-Loire-Atlantique-Loiret-Marne-Meurthe-et-Moselle-Moselle-Oise-Pas-de-Calais-Puy-de-Dôme-Bas-Rhin-Haut-Rhin-Seine-Maritime-Seine-et-Marne-Yvelines-Var-Essonne-Val d'Oise-La Réunion |
 
-Commissaire central-agglomération : Lille, Elancourt, Saint-Germain-en-Laye, Conflans-Sainte-Honorine, Versailles, Sartrouville |
+Chef d'état-major au sein d'une DDSP |
 
-Commissaire central : Nice, Marseille, Brest, Nantes, Reims, Nancy, Douai, Valenciennes, Creil, Calais, Lens, Lyon, Mantes-la-Jolie, Toulon |
+Adjoint au directeur territorial de la police nationale, chef du service territorial de sécurité publique à Cayenne |
 
-Chef de division : Tourcoing-Lille Agglomération, Roubaix-Lille Agglomération |
+Chef de circonscription Argenteuil, Cergy-Pontoise, Sarcelles |
 
-Chef du service de l'ordre public : Marseille, Lille, Lyon |
+Adjoint " police " placé auprès du sous-directeur chargé de la sous-direction de l'anticipation opérationnelle de la direction des opérations et de l'emploi de la DGGN |
 
-Chef du commissariat divisionnaire à Marseille : Centre, Nord, Sud |
+Chef du service d'intervention, d'aide et d'assistance de proximité à Bordeaux-Montpellier-Nantes-Nice-Strasbourg-Toulouse |
 
-Chef du service départemental du renseignement territorial : Nice, Marseille, Caen, Dijon, Toulouse, Bordeaux, Montpellier, Rennes, Grenoble, Nantes, Orléans, Metz, Lille, Arras, Strasbourg, Lyon, Rouen, Melun, Versailles, Evry, Cergy-Pontoise |
+Chef de la sûreté départementale Alpes-Maritimes, Bouches-du-Rhône, Haute-Garonne, Gironde, Loire-Atlantique, Nord, Bas-Rhin, Rhône, Seine-Maritime |
 
-Chef de la sûreté départementale : Nice, Marseille, Toulouse, Bordeaux, Nantes, Lille, Strasbourg, Lyon, Rouen |
+Chef d'un service départemental du renseignement territorial des Alpes-Maritimes, Bouches-du-Rhône, Calvados, Côte d'Or, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Isère, Loire-Atlantique, Loiret, Moselle, Nord, Pas-de-Calais, Bas-Rhin, Rhône, Seine-Maritime, Seine et Marne, Yvelines, Essonne, Val d'Oise |
 
-Chef du service de nuit : Marseille, Lille DDSP, Lyon |
+Chef du service d'ordre public et de soutien Marseille, Lille, Lyon |
 
-Chef d'état-major : Nice, Marseille, Toulouse, Bordeaux, Rennes, Metz, Lille, Arras, Lyon, Rouen, Melun, Versailles, Evry, Cergy-Pontoise |
+Chef du service de nuit à Lille, Lyon, Marseille |
 
-7° Direction centrale de la police aux frontières (précédemment intitulée direction centrale du contrôle de l'immigration et de la lutte contre l'emploi des clandestins ; direction de la police de l'air et des frontières) :
+Commissaire central de Douai, Maubeuge, Valenciennes, Lille, Calais, Lens, Lyon, Elancourt, Mantes la Jolie, Saint-Germain-en-Laye, Versailles, Conflans Sainte Honorine, Sartrouville |
 
-Adjoint au sous-directeur |
+8-Direction centrale de la police aux frontières :
 
-Chef d'un office central |
+Adjoint à un sous-directeur à la DCPAF |
 
-Chef du service national de police ferroviaire |
-
-Chef de la mission centrale d'audit |
-
-Chef d'état-major |
+Chef d'état-major adjoint à la DCPAF |
 
 Chef du pôle central de l'éloignement |
 
-Directeur zonal : Sud, Sud-Ouest, Ouest, Est, Nord, Sud-Est, Antilles-Guyane |
+Chef du département Stratégie Audit et risques |
 
-Directeur interdépartemental : Calais, Le Mesnil-Amelot |
+Adjoint au chef du département Stratégie Audit et Risques |
 
-Directeur départemental : Alpes-Maritimes, Guyane, Mayotte |
+Chef de la division de l'expertise en fraude documentaire et à l'identité-Chef de la division des ressources humaines-Chef de la division immigration de la direction de la police aux frontières de Roissy-Charles-de-Gaulle-Le Bourget |
 
-Directeur de la police aux frontières d'un aéroport : Roissy-Charles-de-Gaulle-Le Bourget ; Orly |
-
-Directeur adjoint de la police aux frontières de Roissy-Charles-de-Gaulle-Le Bourget |
-
-Chef de la division immigration de la direction de la police aux frontières de Roissy-Charles-de-Gaulle-Le Bourget |
+Directeur ou directeur adjoint de la police aux frontières d'un aéroport |
 
 Chef d'état-major de la direction de la police aux frontières de Roissy-Charles-de-Gaulle-Le Bourget |
 
-Chef de la division nationale de la lutte contre la fraude documentaire |
+Chef du service national de police ferroviaire |
 
-Préfigurateur à la coordination zonale Ile-de-France pour la lutte contre l'immigration irrégulière |
+Directeur zonal adjoint de la police aux frontières à Marseille |
 
-8° Direction centrale des compagnies républicaines de sécurité (précédemment intitulée " service central des compagnies républicaines de sécurité ") :
+Directeur départemental de la police aux frontières à Nice |
 
-Chef de l'inspection technique |
+Directeur interdépartemental de la police aux frontières à Calais, le Mesnil Amelot |
 
-Directeur zonal : Sud, Sud-Ouest, Ouest, Est, Nord, Sud-Est, Paris |
+9-Direction centrale des compagnies républicaines de sécurité :
 
-Directeur zonal adjoint : Paris |
+Chef d'état-major à la DCCRS à Paris |
 
-Chef de la délégation à Paris |
+Chef de la délégation des compagnies républicaines de sécurité de l'agglomération parisienne |
 
-9° Direction de la coopération internationale (précédemment intitulée " service de coopération technique internationale de police ") :
+Directeur zonal adjoint des CRS à Marseille, Velizy |
 
-Adjoint au sous-directeur |
+10-Direction de la coopération internationale :
 
-Chef de division : division du personnel ; division Europe ; division synthèses, audits et prospectives ; division Union européenne, organisation internationales et réseaux ; division Afrique, Afrique du Nord et Moyen-Orient |
+Adjoint à un sous-directeur à la DCI |
 
-Attaché de sécurité intérieure : Etats-Unis, Grande-Bretagne, Espagne, Russie, Chine, Sénégal, Algérie, Allemagne, Liban, Turquie, Colombie, Mali, Maroc, Irak, Egypte |
+Chef de la division Afrique, Afrique du Nord et Moyen-Orient-Chef de la division des projets et des financements multilatéraux et des partenariats-Chef de la division Europe-Chef de la division synthèses, audits et prospectives-Chef de la division Union Européenne, organisation internationales et réseaux |
 
-Attaché de sécurité intérieure régional : Sénégal, Croatie |
+Chef du centre de veille opérationnelle |
 
-Attaché à la représentation permanente de l'Union européenne à Bruxelles |
+Attaché de sécurité intérieure en Allemagne-Algérie-Burkina-Faso-Chine-Colombie-Croatie-Egypte-Espagne-Etats-Unis-Grande-Bretagne-Grèce-Haïti-Irak-Liban-Mali-Maroc-Niger-Russie-Sénégal-Turquie |
 
-Chef du centre de veille opérationnelle à compter du 1er septembre 2010 |
+Chef de la cellule régionale d'assistance à la sûreté de l'aviation civile (CRASAC) |
 
-Référent auprès du secrétariat permanent de la fonction européenne et internationale près le conseiller diplomatique du ministère de l'intérieur |
+Attaché à la représentation permanente de la France auprès de l'Union Européenne |
 
-10° Service de la protection (précédemment intitulé " service de protection des hautes personnalités ") :
+A La DCI pour servir en qualité de référent auprès du secrétariat permanent de la fonction européenne et internationale près le conseiller diplomatique du ministère de l'intérieur |
 
-Chef du service central |
+11-Préfecture de police :
 
-Chef adjoint du service central |
+Chef d'état-major à la préfecture de police |
 
-Adjoint au sous-directeur de la protection des personnes |
+PP Direction de l'ordre public et de la circulation :
 
-Chef d'état-major |
+Adjoint à un sous-directeur à la PP/ DOPC |
 
-Chef du groupe de sécurité de la présidence de la République |
+Adjoint à un chef d'état-major à la PP/ DOPC |
 
-11° Préfecture de police :
+Chef de la division de sécurisation et de protection des institutions-Chef de la division d'information et d'intervention |
 
-Directeur adjoint |
+Chef du service d'ordre public de nuit à la PP/ DOPC |
 
-Préfecture de police-Direction de l'ordre public et de la circulation (précédemment intitulée " direction de la sécurité publique ") :
+PP Direction de la sécurité de proximité de l'agglomération parisienne :
 
-Adjoint au sous-directeur |
+Adjoint à un sous-directeur à la PP/ DSPAP |
 
 Chef d'état-major adjoint |
 
-Chef du district : 1er, 2e, 3e |
+Directeur territorial adjoint de la sécurité de proximité |
 
-Préfecture de police-direction de la sécurité de proximité de l'agglomération parisienne :
+Chef de la sûreté régionale des transports de la brigade des réseaux franciliens |
 
-Adjoint au sous-directeur |
+Chef de la sûreté territoriale |
 
-Directeur territorial : Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne |
+Chef d'un service de nuit à la PP/ DSPAP |
 
-Directeur territorial adjoint : Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne |
+Chef adjoint du service de nuit d'agglomération à Paris |
 
-Chef de district, commissaire central : 5-6e arrondissements, 8e arrondissement, 20e arrondissement, Asnières-sur-Seine, Nanterre, Boulogne-Billancourt, Antony, Bobigny, Saint-Denis, Aulnay-sous-Bois, Montreuil-sous-Bois, Créteil, Vitry-sur-Seine, L'Haÿ-les-Roses, Nogent-sur-Marne |
+Commissaire central-Paris 8ème, 10ème, 11ème, 12ème, 13ème, 14ème, 15ème, 16ème, 17ème, 18ème, 19ème-Aubervilliers-Les Lilas-Le Kremlin-Bicêtre |
 
-Commissaire central : 1er arrondissement, 10e arrondissement, 11e arrondissement, 12e arrondissement, 13e arrondissement, 14e arrondissement, 15e arrondissement, 16e arrondissement, 17e arrondissement, 18e arrondissement, 19e arrondissement |
+Commissaire central adjoint " Paris centre " |
 
-Chef d'état-major : Paris, Nanterre, Bobigny, Créteil |
-
-Chef d'état-major adjoint : Paris |
-
-Chef de la sûreté territoriale : Paris, Nanterre, Bobigny, Créteil |
-
-Chef du service de nuit d'agglomération |
-
-Chef du service de nuit : Nanterre, Bobigny, Créteil |
+Chef de circonscription Choisy-le-Roi, La Courneuve, Villepinte |
 
 Chef des services de l'officier du ministère public |
 
-Préfecture de police-direction de la police judiciaire :
+PP Direction de la police judiciaire :
 
-Adjoint au sous-directeur |
+Adjoint au sous-directeur chargé du soutien à l'investigation, chef du service de la gestion opérationnelle |
 
-Chef d'état-major |
+Chef d'un district de police judiciaire |
 
-Chef de brigade : brigade criminelle ; brigade de protection des mineurs ; brigade de recherche et d'interventions ; brigade de répression de la délinquance contre la personne ; brigade de répression de la délinquance économique ; brigade de répression du banditisme ; brigade de répression du proxénétisme ; brigade des stupéfiants ; brigade financière |
+Chef de brigade à la PP/ PJ |
 
-Chef de service régional : service régional de documentation criminelle ; service régional de l'identité judiciaire |
+Adjoint au chef de la brigade criminelle à la PP/ PJ |
 
-Chef du district : 1er, 2e, 3e |
+Chef d'un service régional à la PP/ PJ |
 
-Chef du service départemental : Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne |
+Chef d'un service départemental de police judiciaire |
 
-Préfecture de police-direction du renseignement
+PP divers :
 
-Préfecture de police-direction opérationnelle des services techniques et logistiques (précédemment intitulée " direction de la logistique, direction des services techniques ")
-
-Adjoint au sous-directeur du soutien opérationnel |
-
-Préfecture de police-divers :
-
-Directeur adjoint des ressources humaines |
-
-Conseiller technique chargé des affaires de police au cabinet du préfet de police |
-
-Chef du service information-sécurité |
+Adjoint au sous-directeur de la formation à la direction des ressources humaines |
 
 Chef du service de la communication |
 
-Chef de la mission coordination de sécurité intérieure au secrétariat général de la zone de défense et de sécurité |
+Chef du service opérationnel de prévention situationnelle |
 
-12° Ecole nationale supérieure de la police :
+Conseiller technique adjoint chargé des affaires de police |
 
-Directeur de l'Ecole nationale supérieure de la police |
+PP Direction du renseignement :
 
-Directeur adjoint de l'Ecole nationale supérieure de la police-directeur de la stratégie, des formations et de la recherche |
+Les postes de la direction du renseignement de la préfecture de police font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure |
 
-Adjoint au directeur de la stratégie, des formations et de la recherche-chef du département des formations des commissaires de police |
+12-Ecole nationale supérieure de la police :
 
-Adjoint au directeur de la stratégie, des formations et de la recherche-chef du département des formations professionnelles des officiers de police-chef du site de Cannes-Ecluse |
+Directeur adjoint de l'ENSP |
 
-Chef du département des formations préparatoires, partenariales et internationales |
+Adjoint à un directeur des formations |
 
-13° Service des technologies et des systèmes d'information de la sécurité intérieure :
+Chef du département des formations préparatoires, partenariales et internationales, Chef du département recherche et valorisation professionnelle |
 
-Adjoint au chef du service des technologies de la sécurité intérieure |
+Adjoint à un chef de département à l'ENSP |
 
-Adjoint au sous-directeur des applications de commandement |
+13-Service des technologies et des systèmes d'information de la sécurité intérieure :
 
-Adjoint au sous-directeur des systèmes d'information |
+Adjoint à un sous-directeur au STSISI |
 
-14° Service de l'achat, des équipements et de la logistique de la sécurité intérieure :
+14-Service de la protection :
 
-Adjoint au sous-directeur de la logistique au service de l'achat, des équipements et de la logistique de la sécurité intérieure |
+Adjoint au sous-directeur de la protection des personnes, chef de la division des missions permanentes |
 
-15° Mis à disposition-divers et détachement :
+Chef d'état-major au SDLP |
 
-Chargé de mission police nationale au sein du pôle application de la loi et chef de cabinet auprès de la présidente de la MILDECA |
+Chef du groupe de sécurité de la présidence de la République et directeur adjoint de la sécurité de la présidence de la République |
 
-Conseiller auprès du coordonnateur national du renseignement |
+15-Service central de la police technique et scientifique :
 
-Conseiller auprès du préfet de police à Marseille |
+Chef d'état-major au SCPTS |
 
-Délégué interzonal du médiateur interne de la police nationale auprès des SGAP de Marseille et de Lyon |
+Chef de pôle au SCPTS |
 
-Contrôleur auprès du contrôleur général des lieux de privation de liberté |
+Chef de la division du pilotage et de la gouvernance au SCPTS |
 
-Responsable d'un service ou d'une mission " sécurité " auprès d'un directeur général d'administration centrale, d'un établissement public administratif, d'un établissement public, industriel et commercial, d'une entreprise publique ou d'une entreprise ou d'un organisme privé d'intérêt général |
+16-Cossen :
+
+Chef d'une division au COSSEN |
+
+17-Divers :
+
+Sous-directeur adjoint de la logistique et de l'approvisionnement, chef de la mission relation clients/ fournisseurs au SAILMI |
+
+Chef de la mission sécurité et défense au Service du Haut-Fonctionnaire de Défense du secrétariat général du ministère de l'intérieur |
+
+Coordonnateur au sein de la communauté du renseignement |
+
+Porte-parole du ministère de l'intérieur, délégué adjoint à l'information et à la communication |
+
+Chargé de mission police nationale à la Direction Générale des Outre-Mer |
+
+Conseiller auprès du préfet de police à Marseille-Conseiller police auprès du directeur général de la sécurité civile et de la gestion des crises et préfigurateur du département du déminage |
+
+Délégué interzonal |
+
+Directeur d'un cabinet d'un préfet délégué pour la sécurité et la défense |
+
+Administrateur ministériel des données à la direction du numérique |
 
 Secrétaire général adjoint pour l'administration du ministère de l'intérieur |
+
+18-Mis à disposition-Détachement :
+
+Contrôleur auprès du Contrôleur Général des Lieux de Privation de Liberté (CGLPL) |
+
+Expert national détaché, expert en sécurité à Bagdad (Irak) et Rabat (Maroc) |
+
+Conseiller auprès du coordonnateur national du renseignement et de la lutte contre le terrorisme |
+
+Responsable d'un service ou d'une mission sécurité auprès d'un directeur général d'administration centrale, d'un établissement public administratif, d'un établissement public industriel et commercial, d'une entreprise publique ou d'une entreprise ou d'un organisme privé d'intérêt général |
