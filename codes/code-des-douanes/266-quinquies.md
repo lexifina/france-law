@@ -38,7 +38,11 @@ d) Pour la consommation des autorités régionales et locales ou des autres orga
 
 6. Les modalités d'application des 4 et 5, ainsi que les modalités du contrôle et de la destination des produits et de leur affectation aux usages qui y sont mentionnés sont fixées par décret.
 
-7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le biogaz repris au code NC 2711-29.
+7. Est également exonéré de la taxe intérieure de consommation mentionnée au 1 le gaz naturel ou le méthane d'origine renouvelable relevant du code NC 2711-29, lorsqu'il est fourni sans être mélangé à d'autres produits énergétiques et qu'il est utilisé :
+
+1° Soit comme combustible ;
+
+2° Soit dans les conditions mentionnées au d du 8.
 
 8. a. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, déterminée à partir du pouvoir calorifique supérieur du produit et arrondie au mégawattheure le plus proche.
 
@@ -61,6 +65,8 @@ Carburant |
 Combustible |
 
 8,45 |
+
+Le tarif applicable à l'usage combustible mentionné dans le tableau du deuxième alinéa du présent b est minoré à hauteur du rapport entre la quantité de biométhane injectée en France dans les réseaux de gaz naturel et la consommation de gaz fournie en France par les réseaux de gaz naturel, exprimées en mégawattheures et constatées au cours de la deuxième année précédant l'exigibilité de la taxe. Le tarif résultant de cette minoration est arrondi au centième de mégawattheure, la fraction égale à cinq millièmes étant comptée pour un centième. Ce tarif est constaté, au plus tard le 1er décembre de l'année qui précède l'année de l'exigibilité de la taxe, par un arrêté conjoint des ministres chargés du budget et de l'environnement.
 
 c. Le tarif de la taxe applicable au produit consommé pour déshydrater les légumes et plantes aromatiques, autres que les pommes de terres, les champignons et les truffes, par les entreprises pour lesquelles cette consommation est supérieure à 800 wattheures par euro de valeur ajoutée, est fixé à 1,6 € par mégawattheure.
 
@@ -90,4 +96,8 @@ Lorsque les produits mentionnés au 1 soumis à la taxe ont fait l'objet d'un ra
 
 NOTA :
 
-Conformément au II de l'article 67 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux produits pour lesquels l'exigibilité des taxes prévues aux articles 265, 266 quinquies et 266 quinquies B du code des douanes, dans leur rédaction résultant du même I, intervient à compter du 1er janvier 2020. Toutefois, elles ne sont pas applicables lorsque, en application des mêmes articles 265, 266 quinquies et 266 quinquies B dans leur rédaction antérieure à cette date, l’exigibilité de ces taxes est déjà intervenue.
+Conformément au II de l'article 67 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux produits pour lesquels l'exigibilité des taxes prévues aux articles 265, 266 quinquies et 266 quinquies B du code des douanes, dans leur rédaction résultant du même I, intervient à compter du 1er janvier 2020. Toutefois, elles ne sont pas applicables lorsque, en application des mêmes articles 265, 266 quinquies et 266 quinquies B dans leur rédaction antérieure à cette date, l’exigibilité de ces taxes est déjà intervenue. Par dérogation au dit II, les dispositions de l'article 266 quinquies résultant du 5° et du b du 6° du D du I de l'article 67 précité, sont applicables aux produits pour lesquels l'exigibilité de la taxe prévue à l'article 266 quinquies du même code intervient à compter du 1er janvier 2021.
+
+Conformément au VI du même article, les dispositions de l'article 266 quinquies résultant du 4° du D du I dudit article entrent en vigueur le 1er janvier 2021.
+
+Conformément au III de l'article 61 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, pour la taxe devenant exigible en 2021, le tarif mentionné au dernier alinéa du b du 8 de l'article 266 quinquies du code des douanes est égal à 8,43 € par mégawattheure.

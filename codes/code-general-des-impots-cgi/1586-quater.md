@@ -6,17 +6,17 @@ a) Pour les entreprises dont le chiffre d'affaires est inférieur à 500 000 €
 
 b) Pour les entreprises dont le chiffre d'affaires est compris entre 500 000 € et 3 000 000 €, le taux est égal à :
 
-0,5 % × (montant du chiffre d'affaires-500 000 €)/2 500 000 € ;
+0,25 % × (montant du chiffre d'affaires-500 000 €)/2 500 000 € ;
 
 c) Pour les entreprises dont le chiffre d'affaires est compris entre 3 000 000 € et 10 000 000 €, le taux est égal à :
 
-0,5 % + 0,9 % × (montant du chiffre d'affaires-3 000 000 €)/7 000 000 € ;
+0,25 % + 0,45 % × (montant du chiffre d'affaires-3 000 000 €)/7 000 000 € ;
 
 d) Pour les entreprises dont le chiffre d'affaires est compris entre 10 000 000 € et 50 000 000 €, le taux est égal à :
 
-1,4 % + 0,1 % × (montant du chiffre d'affaires-10 000 000 €)/40 000 000 € ;
+0,7 % + 0,05 % × (montant du chiffre d'affaires-10 000 000 €)/40 000 000 € ;
 
-e) Pour les entreprises dont le chiffre d'affaires est supérieur à 50 000 000 €, à 1,5 %.
+e) Pour les entreprises dont le chiffre d'affaires est supérieur à 50 000 000 €, à 0,75 %.
 
 Les taux mentionnés aux b, c et d sont exprimés en pourcentages et arrondis au centième le plus proche.
 
@@ -28,7 +28,7 @@ Le premier alinéa du présent I bis s'applique, y compris lorsque les entrepris
 
 Ledit premier alinéa n'est pas applicable lorsque la somme des chiffres d'affaires mentionnée au même premier alinéa est inférieure à 7 630 000 €.
 
-II. – Le montant du dégrèvement est majoré de 1 000 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000 000 €.
+II. – Le montant du dégrèvement est majoré de 500 € pour les entreprises dont le chiffre d'affaires est inférieur à 2 000 000 €.
 
 III. – En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009 ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil réalisée à compter du 1er janvier 2010, le chiffre d'affaires à retenir pour l'application du I du présent article est égal à la somme des chiffres d'affaires des entreprises parties à l'opération lorsque l'entité à laquelle l'activité est transmise est détenue, directement ou indirectement, à plus de 50 % soit par l'entreprise cédante ou apporteuse ou les associés de l'entreprise scindée réunis, soit par une entreprise qui détient, directement ou indirectement, à plus de 50 % l'entreprise cédante ou apporteuse ou les entreprises issues de la scission réunies, soit par une entreprise détenue, directement ou indirectement, à plus de 50 % par l'entreprise cédante ou apporteuse ou par les associés de l'entreprise scindée réunis, tant que les conditions suivantes sont simultanément remplies :
 
@@ -41,3 +41,11 @@ III. – En cas d'apport, de cession d'activité ou de scission d'entreprise ré
 Les conditions d'exercice de la détention de capital prévues au premier alinéa doivent être remplies à un moment quelconque au cours des six mois qui précèdent la date de réalisation de l'opération mentionnée au premier alinéa.
 
 Le présent III ne s'applique plus à compter de la huitième année suivant l'opération d'apport, de cession d'activité, de scission d'entreprise ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil en cause.
+
+NOTA :
+
+Conformément au A du VI de l’article 8 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 1° à 7° du I, à l'exception du b du 2°, s'appliquent à la cotisation sur la valeur ajoutée des entreprises :
+
+1° Due par les redevables au titre de 2021 et des années suivantes ;
+
+2° Versée par l'Etat aux communes, le cas échéant aux établissements publics de coopération intercommunale, ainsi qu'aux départements à compter de 2022.

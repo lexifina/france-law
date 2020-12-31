@@ -12,8 +12,12 @@ II. - Constituent du point de vue fiscal, un élément du prix de revient de l'e
 
 a) La taxe d'aménagement prévue par les articles L. 331-1 à L. 331-4 du code de l'urbanisme ;
 
-b) Le versement pour sous-densité prévu par les articles L. 331-36 et L. 331-38 du même code ;
+b) (Abrogé) ;
 
 c. (Abrogé) ;
 
 d. (Abrogé).
+
+NOTA :
+
+Conformément au A du VI de l'article 155 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux sommes dues à compter du 1er janvier 2021.

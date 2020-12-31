@@ -318,69 +318,23 @@ Le tarif réduit mentionné au C du tableau du même b s'applique aux tonnages d
 
 g) Un arrêté conjoint des ministres chargés du budget et de l'environnement précise les modalités d'application des tarifs réduits mentionnés aux B et C du tableau du a et au B du tableau du b ainsi que la liste des déchets, parmi ceux de la liste mentionnée à l'article 7 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée, susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités ;
 
-h) Le tarif mentionné au H du tableau du second alinéa du b s'applique aux tonnages des déchets à haut pouvoir calorifique identifiés comme des résidus des opérations de tri performantes ;
+h) Le tarif mentionné au H du tableau du second alinéa du b s'applique aux tonnages des déchets identifiés comme des résidus issus d'opérations de tri performantes et dont le pouvoir calorifique inférieur est supérieur ou égal à un seuil fixé par arrêté conjoint des ministres chargés du budget et de l'environnement.
 
-Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard à la date de facturation, une attestation en double exemplaire certifiant que les déchets répondent aux conditions prévues au premier alinéa du présent h. Un exemplaire est remis à la personne qui réceptionne les déchets. Lorsqu'il est constaté que ces conditions ne sont pas remplies, l'apporteur est redevable du complément d'impôt.
+Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard à la date de facturation, une attestation en double exemplaire certifiant que les déchets répondent aux conditions prévues au premier alinéa du présent h. L'arrêté mentionné au même premier alinéa précise les mentions portées sur l'attestation. Un exemplaire est remis à la personne qui réceptionne les déchets. Lorsqu'il est constaté que ces conditions ne sont pas remplies, l'apporteur est redevable du complément d'impôt.
 
-Une opération de tri s'entend d'une opération de séparation, au sein de déchets ayant fait l'objet d'une collecte séparée, entre les déchets pouvant faire l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
+Une opération de tri s'entend d'une opération de séparation, au sein d'un même flux de déchets ayant fait l'objet d'une collecte séparée, entre les déchets faisant l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
 
-- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par arrêté conjoint des ministres chargés du budget et de l'environnement ;
+- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques des déchets, par l'arrêté mentionné au premier alinéa du présent h ;
 
-- le pouvoir calorifique inférieur des résidus est supérieur ou égal à un seuil fixé par le même arrêté ;
+- les proportions de déchets indésirables restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces déchets indésirables et de ces déchets sélectionnés, par ledit arrêté ;
 
-- les proportions de résidus restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces résidus et de ces déchets sélectionnés, par ledit arrêté ;
+i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliquées les réfactions suivantes :
 
-i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliqués les réfactions, déterminées à partir du tarif applicable en métropole, ou tarifs suivants :
+- 25 % en Guadeloupe, à La Réunion et en Martinique ;
 
-Collectivités
+- 75 % en Guyane et à Mayotte.
 
-concernées |
-
-Installations de traitement
-
-de déchets non dangereux concernées |
-
-2019 |
-
-2020 |
-
-A partir
-
-de 2021 |
-
-Guadeloupe, La Réunion et Martinique |
-
-Toutes |
-
--25 % |
-
-Guyane |
-
-Installations de stockage accessibles par voie terrestre |
-
-10 € par tonne |
-
--60 % |
-
-Installations de stockage non accessibles par voie terrestre |
-
-3 € par tonne |
-
-Installations de traitement thermique |
-
--60 % |
-
-Mayotte |
-
-Installations de stockage |
-
-0 € par tonne |
-
-10 € par tonne |
-
-Installations de traitement thermique |
-
--60 % |
+Toutefois, pour les installations de stockage non accessibles par voie terrestre situées en Guyane, le tarif est fixé à 3 euros par tonne.
 
 Sont exonérées les réceptions des déchets utilisés pour produire de l'électricité distribuée par le réseau dans ces territoires lorsqu'elles sont réalisées dans les conditions prévues au IV de l'article 266 sexies.
 
@@ -630,18 +584,6 @@ Kilogramme
 
 5 |
 
-Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
-
-|
-
-Tonne
-
-|
-
-44,02 (45,30 en 2009)
-
-|
-
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour le linge :
 
 -dont la teneur en phosphate est inférieure à 5 % du poids
@@ -714,4 +656,4 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 
 NOTA :
 
-Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code des douanes conformes à la Constitution.
+Conformément au XVI, A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.

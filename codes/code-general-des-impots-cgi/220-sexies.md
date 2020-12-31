@@ -4,7 +4,7 @@ I. – Les entreprises de production cinématographique et les entreprises de pr
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation sociale. Il ne peut notamment être accordé aux entreprises de production déléguées qui ont recours à des contrats de travail mentionnés au 3° de l'article L. 1242-2 du code du travail afin de pourvoir à des emplois qui ne sont pas directement liés à la production d'une oeuvre déterminée.
 
-II. – 1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du documentaire et de l'animation. Ces oeuvres doivent répondre aux conditions suivantes :
+II. – 1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du documentaire de l'animation et de l'adaptation audiovisuelle de spectacles. Ces oeuvres doivent répondre aux conditions suivantes :
 
 a) Etre réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France à l'exception des œuvres cinématographiques d'animation mentionnées à l'avant-dernier alinéa du 1 du III et des œuvres cinématographiques de fiction mentionnées au dernier alinéa du même 1 du III, ainsi que des œuvres cinématographiques pour lesquelles l'emploi d'une langue étrangère est justifié pour des raisons artistiques tenant au scénario ;
 
@@ -24,7 +24,7 @@ c) Les programmes d'information, les débats d'actualité et les émissions spor
 
 d) Tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
-3. Les oeuvres audiovisuelles documentaires peuvent bénéficier du crédit d'impôt lorsque le montant des dépenses éligibles mentionnées au III est supérieur ou égal à 2 000 € par minute produite.
+3. Les oeuvres audiovisuelles documentaires peuvent bénéficier du crédit d'impôt lorsque le montant des dépenses éligibles mentionnées au III est supérieur ou égal à 2 000 € par minute produite. Dans le cas de l'adaptation audiovisuelle de spectacles, ce plancher est abaissé à 1 000 € pour les œuvres d'une durée supérieure à quatre-vingt-dix minutes et à 1 250 € pour les œuvres d'une durée comprise entre soixante et quatre-vingt-dix minutes.
 
 III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes effectuées en France :
 
@@ -35,6 +35,8 @@ b) Les rémunérations versées aux artistes-interprètes mentionnés à l'artic
 c) Les salaires versés aux personnels de la réalisation et de la production, ainsi que les charges sociales afférentes ;
 
 d) Les dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique et audiovisuelle ;
+
+d bis) Dans le cas de l'adaptation audiovisuelle de spectacles, le complément de droits artistiques effectivement payé au producteur du spectacle lié à des dépenses françaises et le “coût plateau” en numéraire ;
 
 e) Les dépenses de transport, de restauration et d'hébergement occasionnées par la production de l'œuvre sur le territoire français. Un décret détermine les conditions et les limites dans lesquelles ces dépenses sont prises en compte ;
 
@@ -48,9 +50,13 @@ Le montant cumulé des rémunérations mentionnées au a et des salaires mention
 
 - 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure à 10 000 000 €.
 
-Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres audiovisuelles de fiction et d'animation. Il est porté à 30 % pour les œuvres cinématographiques d'animation et pour les œuvres cinématographiques autres que d'animation réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France.
+Pour l'adaptation audiovisuelle de spectacles, les dépenses éligibles sont celles exposées jusqu'au 31 décembre 2022.
+
+Le taux mentionné au premier alinéa du présent 1 est porté à 25 % en ce qui concerne les œuvres audiovisuelles de fiction et d'animation et les œuvres audiovisuelles documentaires. Il est porté à 30 % pour les œuvres cinématographiques d'animation et pour les œuvres cinématographiques autres que d'animation réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France.
 
 Sont assimilées à des œuvres cinématographiques d'animation les œuvres cinématographiques de fiction dans lesquelles au moins 15 % des plans, soit en moyenne un plan et demi par minute, font l'objet d'un traitement numérique permettant d'ajouter des personnages, des éléments de décor ou des objets participant à l'action ou de modifier le rendu de la scène ou le point de vue de la caméra.
+
+Le taux mentionné au premier alinéa du présent 1 est ramené à 10 % en ce qui concerne les œuvres d'adaptation audiovisuelle de spectacles.
 
 2. Les auteurs, artistes-interprètes et personnels de la réalisation et de la production mentionnés au 1 doivent être, soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la télévision transfrontière du Conseil de l'Europe, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers européen avec lequel l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français sont assimilés aux citoyens français.
 
@@ -84,7 +90,7 @@ a) Pour une œuvre de fiction :
 
 10 000 € par minute produite et livrée lorsque le coût de production est supérieur ou égal à 40 000 € par minute produite ;
 
-b) Pour une œuvre documentaire : 1 150 € par minute produite et livrée ;
+b) Pour une œuvre documentaire et d'adaptation audiovisuelle de spectacles : 1 450 € par minute produite et livrée ;
 
 c) Pour une œuvre d'animation : 3 000 € par minute produite et livrée.
 
@@ -100,4 +106,6 @@ VIII. – Un décret fixe les conditions d'application du présent article.
 
 NOTA :
 
-Conformément au II de l'article 138 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux crédits d'impôt calculés au titre des exercices ouverts à compter du 1er janvier 2020.
+Conformément au III de l'article 118 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s’appliquent aux exercices clos à compter du 31 décembre 2021, sous réserve de la réception préalable par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l’Union européenne en matière d’aides d’Etat.
+
+Conformément aux II et III de l'article 145 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux exercices clos à compter du 31 décembre 2021 et entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne en matière d'aides d'Etat.

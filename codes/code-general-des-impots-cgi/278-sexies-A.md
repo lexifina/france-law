@@ -22,6 +22,12 @@ c) Les locaux dont la livraison est éligible au taux réduit conformément au 1
 
 Le présent I ne s'applique pas aux travaux pour lesquels l'article 278-0 bis A prévoit un taux réduit inférieur à celui mentionné au II.
 
+5° Les travaux suivants réalisés en vue de la conclusion d'un bail réel solidaire dans les conditions prévues au chapitre V du titre V du livre II du code de la construction et de l'habitation :
+
+a) Ceux acquis par un organisme de foncier solidaire et portant sur un immeuble destiné à faire l'objet d'un bail réel solidaire ;
+
+b) Ceux acquis par le détenteur des droits réels immobiliers avant qu'ils n'aient été cédés à l'occupant ou que les logements n'aient été mis en location et portant sur un immeuble faisant l'objet d'un bail réel solidaire.
+
 II.-Les taux réduits prévus au I sont égaux à :
 
 Travaux concernés |
@@ -62,8 +68,10 @@ Travaux de démolition portant sur des logements locatifs sociaux situés dans l
 
 5,5 % |
 
+Travaux réalisés dans le cadre d'un bail réel solidaire |
+
+5° du I |
+
+5,5 % |
+
 Pour les travaux mentionnés au 1° du I, le taux applicable est celui prévu pour la livraison du local sur lequel ils portent, conformément à l'article 278 sexies-0 A. A cette fin, un logement dont la construction n'a été financée ni par un prêt locatif aidé d'intégration, ni par un prêt locatif à usage social, ni par un prêt locatif social est assimilé à un logement dont la construction a été financée par un prêt locatif à usage social.
-
-NOTA :
-
-Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations intervenant à compter du 1er décembre 2019.

@@ -18,7 +18,7 @@ a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographiqu
 
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité.
 
-III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France avant le 31 décembre 2022 :
+III. – 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France avant le 31 décembre 2024 :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme d'avances à valoir sur les recettes d'exploitation des œuvres, ainsi que les charges sociales afférentes ;
 

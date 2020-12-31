@@ -10,11 +10,7 @@ Le fait générateur de la taxe prévue à l'article 266 sexies intervient et ce
 
 3. (Alinéa abrogé) ;
 
-4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
-
-b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
-
-c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+4. (Abrogé)
 
 5. La première livraison ou la première utilisation des préparations ou produits mentionnés au 5 du I de l'article 266 sexies ;
 
@@ -37,3 +33,5 @@ Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du
 Elles s'appliquent aux opérations pour lesquelles le fait générateur de la taxe générale sur les activités polluantes ou l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette même date.
 
 Toutefois, l'article 266 septies dans sa rédaction en vigueur le 31 décembre 2019, reste applicable aux opérations mentionnées aux 1 et 1 bis pour lesquelles le fait générateur de la taxe générale sur les activités polluantes intervient avant le 1er janvier 2021.
+
+Conformément au XVI , A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.

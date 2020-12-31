@@ -1,6 +1,6 @@
 # Article 39 bis B
 
-1. Les entreprises exploitant un service de presse en ligne, reconnu en application de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, développant l'information professionnelle ou favorisant l'accès au savoir et a ̀ la formation et la diffusion de la pensée, du débat d'idées, de la culture générale et de la recherche scientifique, sont autorisées à constituer une provision déductible du résultat imposable des exercices 2018 à 2020, en vue de faire face aux dépenses suivantes :
+1. Les entreprises exploitant un service de presse en ligne, reconnu en application de l'article 1er de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, développant l'information professionnelle ou favorisant l'accès au savoir et a ̀ la formation et la diffusion de la pensée, du débat d'idées, de la culture générale et de la recherche scientifique, sont autorisées à constituer une provision déductible du résultat imposable des exercices clos à compter du 1er janvier 2018 et jusqu'au 31 décembre 2023, en vue de faire face aux dépenses suivantes :
 
 a) Acquisitions de matériels, mobiliers, terrains, constructions, dans la mesure où ces éléments d'actif sont strictement nécessaires à l'exploitation du service de presse en ligne ;
 
@@ -23,3 +23,5 @@ Les entreprises mentionnées au présent 1 peuvent déduire les dépenses d'équ
 Les sommes déduites en application du 1 et affectées à l'acquisition d'éléments d'actif non amortissables sont rapportées, par parts égales, au bénéfice imposable de l'exercice au cours duquel ces éléments sont acquis et des quatre exercices suivants.
 
 6. Sans préjudice de l'application du quinzième alinéa du 5° du 1 de l'article 39, les provisions non utilisées conformément à leur objet avant la fin de la cinquième année suivant celle de leur constitution sont rapportées aux bénéfices soumis à l'impôt au titre de ladite année, majorées d'un montant égal au produit de ces provisions par le taux de l'intérêt de retard prévu à l'article 1727.
+
+7. Le bénéfice de la provision mentionnée au 1 est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.

@@ -1,6 +1,6 @@
 # Article 44 sexdecies
 
-I.-Dans les bassins urbains à dynamiser définis au II, les entreprises qui sont créées entre le 1er janvier 2018 et le 31 décembre 2020 et, lorsqu'elles sont situées dans les communes mentionnées au sixième alinéa du même II, les entreprises qui sont créées entre le 1er janvier 2019 et le 31 décembre 2020, qui exercent une activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues aux articles 50-0 et 53 A.
+I.-Dans les bassins urbains à dynamiser définis au II, les entreprises qui sont créées entre le 1er janvier 2018 et le 31 décembre 2022 et, lorsqu'elles sont situées dans les communes mentionnées au sixième alinéa du même II, les entreprises qui sont créées entre le 1er janvier 2019 et le 31 décembre 2022, qui exercent une activité industrielle, commerciale ou artisanale au sens de l'article 34 sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exception des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du vingt-troisième mois suivant celui de leur création et déclarés selon les modalités prévues aux articles 50-0 et 53 A.
 
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés, respectivement, au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
@@ -18,9 +18,9 @@ Sont également classées dans un bassin urbain à dynamiser les communes qui sa
 
 Les données utilisées sont établies par l'Institut national de la statistique et des études économiques à partir de celles disponibles au 31 décembre de l'année précédant l'année du classement. La population prise en compte est la population municipale définie à l'article R. 2151-1 du code général des collectivités territoriales dans sa rédaction en vigueur à la date de publication de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017.
 
-Le classement des communes en bassin urbain à dynamiser est établi au 1er janvier 2018 et pour une durée de trois ans par arrêté des ministres chargés du budget et de l'aménagement du territoire.
+Le classement des communes en bassin urbain à dynamiser est établi au 1er janvier 2018 et pour une durée de cinq ans par arrêté des ministres chargés du budget et de l'aménagement du territoire.
 
-Le classement des communes mentionnées au sixième alinéa du présent II en bassin urbain à dynamiser est établi au 1er janvier 2019 et pour une durée de deux ans par arrêté des ministres chargés du budget et de l'aménagement du territoire.
+Le classement des communes mentionnées au sixième alinéa du présent II en bassin urbain à dynamiser est établi au 1er janvier 2019 et pour une durée de quatre ans par arrêté des ministres chargés du budget et de l'aménagement du territoire.
 
 III.-Pour bénéficier de l'exonération mentionnée au I, l'entreprise doit répondre aux conditions suivantes :
 

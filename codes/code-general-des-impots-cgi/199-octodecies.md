@@ -8,7 +8,7 @@ Lorsque la prestation compensatoire prend la forme d'une rente conformément aux
 
 Lorsque le versement des sommes d'argent, l'attribution de biens ou de droits s'effectuent sur l'année au cours de laquelle la convention de divorce par consentement mutuel prenant la forme d'un acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire, a acquis force exécutoire ou de l'année au cours de laquelle le jugement de divorce, que celui-ci résulte ou non d'une demande conjointe, ou le jugement prononçant la conversion de rente en capital, sont passés en force de chose jugée et l'année suivante, le montant ouvrant droit à réduction d'impôt au titre de la première année ne peut excéder le montant du plafond mentionné au deuxième alinéa multiplié par le rapport existant entre le montant des versements de sommes d'argent, des biens ou des droits attribués au cours de l'année considérée, et le montant total du capital tel que celui-ci a été fixé dans le jugement de divorce ou le jugement prononçant la conversion que le débiteur de la prestation compensatoire s'est engagé à effectuer sur la période mentionnée au premier alinéa.
 
-II. Nonobstant la situation visée au troisième alinéa, Les dispositions du I ne s'appliquent pas lorsque la prestation compensatoire est versée pour partie sous forme de rente.
+II. (Abrogé)
 
 NOTA :
 

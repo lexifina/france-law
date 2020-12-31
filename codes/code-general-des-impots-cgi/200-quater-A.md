@@ -8,11 +8,11 @@
 
 b. Pour ouvrir droit au crédit d'impôt, les équipements mentionnés au a doivent être :
 
-1° Payés entre le 1er janvier 2005 et le 31 décembre 2020 dans le cadre de travaux réalisés dans un logement achevé ;
+1° Payés entre le 1er janvier 2005 et le 31 décembre 2023 dans le cadre de travaux réalisés dans un logement achevé ;
 
-2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2020 ;
+2° Intégrés à un logement acquis neuf entre le 1er janvier 2005 et le 31 décembre 2023 ;
 
-3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre 2020.
+3° Intégrés à un logement acquis en l'état futur d'achèvement ou que le contribuable fait construire, achevé entre le 1er janvier 2005 et le 31 décembre 2023.
 
 c. Pour les dépenses mentionnées au 2° du a, le crédit d'impôt s'applique à condition que le contribuable ou un membre de son foyer fiscal :
 
@@ -24,15 +24,15 @@ c. Pour les dépenses mentionnées au 2° du a, le crédit d'impôt s'applique �
 
 La condition prévue au présent c est appréciée au 31 décembre de l'année du paiement de la dépense pour les dépenses réalisées dans les conditions du 1° du b, à la date d'acquisition du logement pour celles réalisées dans les conditions du 2° du même b ou à la date d'achèvement du logement pour celles réalisées dans les conditions du 3° dudit b.
 
-1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31 décembre 2020 pour la réalisation de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre de l'article L. 515-16-2 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application de l'article L. 515-19 du même code.
+1 bis. Les contribuables propriétaires de logements situés en France, achevés avant l'approbation du plan de prévention des risques technologiques, qu'ils affectent à leur habitation principale ou qu'ils louent ou s'engagent à louer pendant une durée de cinq ans, à titre d'habitation principale, à des personnes autres que leur conjoint ou un membre de leur foyer fiscal peuvent bénéficier d'un crédit d'impôt sur le revenu au titre des dépenses payées entre le 1er janvier 2015 et le 31 décembre 2023 pour la réalisation, dans les délais impartis, de diagnostics préalables aux travaux et de travaux prescrits aux propriétaires d'habitation au titre de l'article L. 515-16-2 du code de l'environnement, sans qu'en soit déduit le montant des participations versées, le cas échéant, en application de l'article L. 515-19 du même code.
 
 2. Un arrêté conjoint des ministres en charge du budget, des personnes handicapées et des personnes âgées fixe la liste des équipements mentionnés aux 1° et 2° du a du 1, pour lesquels les dépenses d'installation ou de remplacement ouvrent droit à cet avantage fiscal.
 
 3. Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'année du paiement de la dépense par le contribuable ou, dans les cas prévus aux 2° et 3° du b du 1, au titre de l'année d'achèvement du logement ou de son acquisition si elle est postérieure.
 
-4. Pour un même logement, le montant des dépenses mentionnées au 1 ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2020, la somme de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
+4. Pour un même logement, le montant des dépenses mentionnées au 1 ouvrant droit au crédit d'impôt ne peut excéder, au titre d'une période de cinq années consécutives comprises entre le 1er janvier 2005 et le 31 décembre 2023, la somme de 5 000 € pour une personne célibataire, veuve ou divorcée et de 10 000 € pour un couple marié soumis à imposition commune. Cette somme est majorée de 400 € par personne à charge au sens des articles 196 à 196 B. La somme de 400 € est divisée par deux lorsqu'il s'agit d'un enfant réputé à charge égale de l'un et l'autre de ses parents.
 
-4 bis. Pour un même logement, le montant des dépenses mentionnées au 1 bis ouvrant droit au crédit d'impôt ne peut excéder, pour la période du 1er janvier 2015 au 31 décembre 2020, la somme de 20 000 €. Lorsque plusieurs contribuables détiennent la propriété du même logement, cette somme est répartie par contribuable au prorata de leurs droits détenus sur ce logement.
+4 bis. Pour un même logement, le montant des dépenses mentionnées au 1 bis ouvrant droit au crédit d'impôt payées dans les délais prévus au I des articles L. 515-16-2 et L. 515-19 du code de l'environnement ne peut excéder la somme de 20 000 €. Lorsque plusieurs contribuables détiennent la propriété du même logement, cette somme est répartie par contribuable au prorata de leurs droits détenus sur ce logement.
 
 5. Le crédit d'impôt est égal à :
 

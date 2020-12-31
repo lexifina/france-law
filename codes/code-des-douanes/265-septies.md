@@ -1,6 +1,6 @@
 # Article 265 septies
 
-Les personnes soumises au droit commercial au titre de leur activité de transport routier de marchandises, propriétaires ou, en leur lieu et place, les personnes titulaires des contrats cités à l'article 284 bis A :
+Les personnes soumises au droit commercial au titre de leur activité de transport routier de marchandises, propriétaires ou, en leur lieu et place, les personnes preneurs d'une formule locative de longue durée, au sens du 7° de l'article 1007 du code général des impôts :
 
 a) De véhicules routiers à moteur destinés au transport de marchandises et dont le poids total autorisé en charge est égal ou supérieur à 7,5 tonnes ;
 

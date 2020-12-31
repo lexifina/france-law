@@ -2,7 +2,7 @@
 
 I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire réalisées dans les mêmes conditions que celles prévues aux 1 et 2 du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2020.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2021.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° du présent I est subordonné au respect, par la société bénéficiaire de la souscription, des conditions prévues au 1 bis du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
@@ -42,7 +42,7 @@ V. Un décret fixe les modalités d'application du présent article, notamment l
 
 VI. – 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire de parts de fonds ou d'organismes mentionnés au 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, sous réserve du respect des conditions prévues au même 1.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2020.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2021.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 du présent VI sont retenus, après imputation des droits ou frais d'entrée et à proportion du quota d'investissement mentionné au premier alinéa du c du 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, que le fonds s'engage à atteindre, dans les limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou divorcés et de 24 000 € pour les contribuables mariés ou pour ceux liés par un pacte civil de solidarité et soumis à imposition commune.
 
@@ -58,7 +58,7 @@ VI ter. – Le taux de l'avantage fiscal mentionné au VI est porté à 30 % pou
 
 Les réductions d'impôt prévues au VI et au présent VI ter sont exclusives les unes des autres pour les souscriptions dans un même fonds.
 
-VI ter A. – Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 30 % des versements au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 70 % au moins de titres financiers, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés dans les départements d'outre-mer, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna et dans les secteurs retenus pour l'application de la réduction d'impôt sur le revenu prévue au I de l'article 199 undecies B.
+VI ter A. – Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 30 % des versements au titre de souscriptions en numéraire de parts de fonds d'investissement de proximité, mentionnés à l'article L. 214-31 du code monétaire et financier, dont l'actif est constitué pour 70 % au moins de titres financiers, parts de société à responsabilité limitée et avances en compte courant émises par des sociétés qui exercent leurs activités exclusivement dans des établissements situés dans les départements d'outre-mer, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Les 2,2 bis et 3 du VI du présent article et les a, b et avant-dernier alinéas du 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017 sont applicables.
 
@@ -80,6 +80,8 @@ Sans préjudice des sanctions que l'Autorité des marchés financiers peut prono
 
 NOTA :
 
-Conformément au II de l'article 137 de la loi n° 2019-1479 du 28 décembre 2019, l'article 199 terdecies-0 A, dans sa rédaction résultant du I du présent article, s'applique aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
+Conformément au III de l'article 113 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne, ou aux versements effectués à compter du 1er janvier 2021 si cette réception a lieu avant cette date.
 
-Conformément à l'article 1 du décret n° 2020-1014 du 7 août 2020, ces dispositions s'appliquent aux versements effectués à compter du 10 août 2020.
+Conformément au II de l'article 110 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne, ou aux versements effectués à compter du 1er janvier 2021 si cette réception a lieu avant cette date.
+
+Conformément à l'article 1 du décret n° 2021-559 du 6 mai 2021 fixant la date d'entrée en vigueur des dispositions relatives à la réduction d'impôt pour souscription en numéraire au capital des petites et moyennes entreprises issues des articles 110, 112 et 113 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, ces dispositions s'appliquent aux versements effectués à compter du lendemain de la publication dudit décret.

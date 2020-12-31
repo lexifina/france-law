@@ -10,11 +10,7 @@ b) Toute personne qui transfère ou fait transférer des déchets vers un autre 
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton, ou y utilise pour la première fois des lubrifiants susceptibles de produire des huiles usagées ;
-
-b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes, autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
-
-c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/ B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
+4. (Abrogé)
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton, ou y utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ;
 
@@ -76,7 +72,7 @@ b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'e
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur produit sec d'au moins 97 % d'oxyde de silicium ;
 
-4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement au a du 4 et aux 5, et 6 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
+4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement aux 5, et 6 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
 5. (Abrogé) ;
 
@@ -94,4 +90,4 @@ NOTA :
 
 Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 sexies telles qu'elles résultent du b du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
 
-Conformément au XVI , A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.
+Conformément au XVI, A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.

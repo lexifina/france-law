@@ -8,7 +8,7 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 3. (Alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
+4. (Abrogé)
 
 5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
@@ -19,3 +19,7 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 8. (Alinéa abrogé) ;
 
 9. (Abrogé).
+
+NOTA :
+
+Conformément au XVI , A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.

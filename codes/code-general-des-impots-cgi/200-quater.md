@@ -172,6 +172,8 @@ Matériaux d'isolation thermique des parois opaques mentionnés au 3° du b du 1
 
 1 000 € pour les poêles à bûches et cuisinières à bûches |
 
+600 € pour les foyers fermés et inserts à bûches ou granulés |
+
 1 000 € pour les équipements de chauffage ou de production d'eau chaude fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide |
 
 Pompes à chaleur, autres que air/ air, mentionnées au 3° du c du 1 |
@@ -348,4 +350,4 @@ Lorsque le bénéficiaire du crédit d'impôt est remboursé dans un délai de c
 
 NOTA :
 
-Conformément au A du III de l’article 15 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 2020. Se reporter aux dispositions transitoires précisées aux B et C dudit III.
+Conformément au A du III de l’article 53 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux dépenses payées en 2020. Se reporter aux dispositions précisées au B dudit III.

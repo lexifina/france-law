@@ -1,6 +1,6 @@
 # Article 200 quindecies
 
-1. A compter de l'imposition des revenus de 2014, et à compter de l'imposition des revenus de 2016 pour les dispositions spécifiques relatives aux membres d'un groupement d'intérêt économique et environnemental forestier défini aux articles L. 332-7 et L. 332-8 du code forestier, il est institué un crédit d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui réalisent, jusqu'au 31 décembre 2020, les opérations forestières mentionnées au 2.
+1. A compter de l'imposition des revenus de 2014, et à compter de l'imposition des revenus de 2016 pour les dispositions spécifiques relatives aux membres d'un groupement d'intérêt économique et environnemental forestier défini aux articles L. 332-7 et L. 332-8 du code forestier, il est institué un crédit d'impôt sur le revenu pour les contribuables domiciliés en France au sens de l'article 4 B qui réalisent, jusqu'au 31 décembre 2022, les opérations forestières mentionnées au 2.
 
 2. Le crédit d'impôt s'applique :
 
