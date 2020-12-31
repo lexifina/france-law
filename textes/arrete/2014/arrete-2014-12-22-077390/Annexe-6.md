@@ -32,6 +32,8 @@ Conformément à l’article 5 de l’arrêté de l’arrêté du 26 juillet 201
 
 Conformément à l’article 5 de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant la même référence figurant à l'annexe 8 dudit arrêté.
 
+Conformément à l’article 1 de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la fiche d’opération standardisée portant la même référence figurant à l'annexe D dudit arrêté, à compter du 1er avril 2020.
+
 - Barge fluviale / Fiche d’opération n° TRA-EQ-109
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -130,6 +132,10 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Liens :
 
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte nº 16, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
+
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 189 du 02/08/2020, texte nº 10, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
@@ -181,7 +187,3 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux modalités d’application prévues par l’article 6 du 24 juillet 2020 (NOR : TRER2020386A).

@@ -34,6 +34,8 @@ Conformément au I de l’article 1er de l’arrêté du 4 mai 2020 (NOR : TRER2
 
 Conformément à l’article 2 de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe B dudit arrêté.
 
+Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er avril 2021 par la version portant les mêmes références en annexe C dudit arrêté.
+
 - Système de régulation de tension en éclairage extérieur / Fiche d’opération n° RES-EC-101
 
 - Système de maîtrise de la puissance réactive en éclairage extérieur / Fiche d’opération n° RES-EC-102
@@ -45,6 +47,10 @@ Conformément à l’article 2 de l’arrêté du 8 octobre 2020 (NOR : TRER2027
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte nº 16, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 248 du 11/10/2020, texte nº 4, accessible à l’adresse suivante :
 

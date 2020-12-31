@@ -84,6 +84,8 @@ Conformément à l’article 2 de l’arrêté du 10 janvier 2020 (NOR : TRER200
 
 - Isolation thermique des parois planes ou cylindriques sur des installations industrielles (France métropolitaine) / Fiche d’opération standardisée n° IND-UT-131
 
+Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er avril 2021.
+
 - Moteur asynchrone de classe IE4 / Fiche d’opération standardisée n° IND-UT-132
 
 - Système électronique de pilotage d’un moteur électrique avec récupération d’énergie / Fiche d’opération standardisée n° IND-UT-133
@@ -95,6 +97,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 - Freecooling par eau de refroidissement en substitution d’un groupe froid / Fiche d’opération standardisée n° IND-UT-135
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0079 du 01/04/2020, texte n° 9, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=0LduWOm6C36WhoOrckwBT4k85GgPqvffEsbnZjwEPRE=
 
@@ -127,7 +131,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux conditions d’application prévues à l’article 5 de l’arrêté du 25 mars 2020 (NOR : TRER2008377A).

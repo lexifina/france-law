@@ -22,6 +22,8 @@ Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération
 
 Isolation des toitures terrasses / Fiche d’opération standardisée n° BAR-EN-105
 
+Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.
+
 Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-106
 
 Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
@@ -33,6 +35,8 @@ Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n
 Conformément à l’article 1er de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 1 dudit arrêté.
 
 Fermeture isolante / Fiche d’opération standardisée n° BAR-EN-108
+
+Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.
 
 Réduction des apports solaires par la toiture (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-109
 
@@ -61,6 +65,8 @@ Appareil indépendant de chauffage au bois / Fiche d’opération standardisée 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
 Chaudière biomasse individuelle / Fiche d’opération standardisée n°BAR-TH-113
+
+Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.
 
 Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n°BAR-TH-115 (Abrogée à compter du 1er avril 2018)
 
@@ -194,7 +200,11 @@ Contrat de Performance Energétique Services (CPE Services) / Fiche d’opérati
 
 Service de suivi des consommations d’énergie / Fiche d’opération standardisée n° BAR-SE-106
 
+Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0248 du 11/10/2020, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=624wFiFmvAh6257w6N9CHO6yplGEb0Xgie4-T-nS53g=
 
@@ -239,7 +249,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Conformément à l'article 6 de l'arrêté du 25 mars 2020, ces dispositions s'appliquent aux opérations engagées à compter du 1er septembre 2020.
