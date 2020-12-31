@@ -728,25 +728,25 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH (selon la norme mentionnée dans un avis publié au Journal officiel) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
 - température < 30 °C.
 
 b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
-- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 600 mg/l ;
+- matières en suspension (selon la norme mentionnée à dans un avis publié au Journal officiel) : 600 mg/l ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 2 000 mg/l (1) ;
+- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : 2 000 mg/l (1) ;
 
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 800 mg/l ;
+- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : 800 mg/l ;
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
-- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
+- matières en suspension (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
+- DCO (selon la norme mentionnéedans un avis publié au Journal officiel) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
+- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
 
 Dans tous les cas, les rejets sont compatibles avec la qualité ou les objectifs de qualité des cours d'eau ;
 
@@ -890,25 +890,17 @@ Supérieur à 35 et inférieur ou égal à 45 dB (A)
 
 |
 
-6 dB (A)
+6 dB (A) |
 
-|
-
-4 dB (A)
-
-|
+4 dB (A) |
 
 Supérieur à 45 dB (A)
 
 |
 
-5 dB (A)
+5 dB (A) |
 
-|
-
-3 dB (A)
-
-|
+3 dB (A) |
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne dépasse pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 

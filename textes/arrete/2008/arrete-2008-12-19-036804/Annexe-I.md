@@ -770,13 +770,13 @@ Ils sont aménagés pour permettre un prélèvement aisé d'échantillons et l'i
 
 Sans préjudice de l'autorisation de déversement dans le réseau public (art. L. 1331-10 du code de la santé publique), les rejets d'eaux résiduaires font l'objet, en tant que de besoin, d'un traitement permettant de respecter les valeurs limites suivantes, contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents :
 
-a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif, le pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) est compris entre 5,5 et 8,5 ;
+a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif, le pH (selon la norme mentionnée dans un avis publié au Journal officiel) est compris entre 5,5 et 8,5 ;
 
 b) Polluants spécifiques, avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain ;
 
--pour l'indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) dans les installations du secteur de la chimie : 0,3 milligramme par litre si le flux est supérieur à 3 grammes par jour ;
+-pour l'indice phénols (selon la norme mentionnée dans un avis publié au Journal officiel) dans les installations du secteur de la chimie : 0,3 milligramme par litre si le flux est supérieur à 3 grammes par jour ;
 
--pour les hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) dans toutes les installations : 10 milligrammes par litre si le flux est supérieur à 100 grammes par jour.
+-pour les hydrocarbures totaux (selon la norme mentionnée dans un avis publié au Journal officiel) dans toutes les installations : 10 milligrammes par litre si le flux est supérieur à 100 grammes par jour.
 
 Ces valeurs limites sont respectées en moyenne quotidienne. Aucune valeur instantanée ne dépasse le double des valeurs limites de concentration.
 

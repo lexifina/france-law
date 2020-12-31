@@ -660,7 +660,7 @@ Pour les effluents contenant uniquement des produits phytosanitaire, en cas d'é
 
 5.11. Surveillance par l'exploitant de la pollution rejetée
 
-L'exploitant réalise, a minima une fois par an, un contrôle de la qualité des eaux de rejet sur l'ensemble des paramètres mentionnés au point 5.7, complété, pour les installations rejetant au milieu naturel, d'un contrôle mensuel sur les paramètres DCO et MES. Ces contrôles sont réalisés par un organisme agréé par le ministre chargé de l'environnement, selon les méthodes de référence précisées dans l'arrêté du 7 juillet 2009 susvisé.
+L'exploitant réalise, a minima une fois par an, un contrôle de la qualité des eaux de rejet sur l'ensemble des paramètres mentionnés au point 5.7, complété, pour les installations rejetant au milieu naturel, d'un contrôle mensuel sur les paramètres DCO et MES. Ces contrôles sont réalisés par un organisme agréé par le ministre chargé de l'environnement, selon les méthodes de référence précisées dans un avis publié au Journal officiel.
 
 Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement sur une journée de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure. En cas d'impossibilité d'obtenir un tel échantillon, une évaluation des capacités des équipements d'épuration à respecter les valeurs limites est réalisée. Une mesure du débit est également réalisée, ou estimée à partir des consommations, si celui-ci est supérieur à 10 m 3/ j.
 

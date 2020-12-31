@@ -630,17 +630,17 @@ Lorsque le stockage comprend des réservoirs aériens, des dispositifs permettan
 
 Toutes mesures sont prises pour recueillir l'ensemble des eaux et écoulements susceptibles d'être pollués lors d'un sinistre, y compris les eaux utilisées lors d'un incendie, afin que celles-ci soient récupérées ou traitées afin de prévenir toute pollution des sols, des égouts, des cours d'eau ou du milieu naturel. Les rejets respectent alors les valeurs-limites suivantes :
 
-- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 5,5-8,5 ;
+- pH (selon la norme mentionnée dans un avis publié au Journal officiel) : 5,5-8,5 ;
 
-- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 100 mg/l ;
+- matières en suspension (selon la norme mentionnée dans un avis publié au Journal officiel) : 100 mg/l ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 300 mg/l ;
+- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : 300 mg/l ;
 
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 100 mg/l ;
+- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : 100 mg/l ;
 
-- hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 10 mg/l si le flux est supérieur à 100 g/j ;
+- hydrocarbures totaux (selon la norme mentionnée dans un avis publié au Journal officiel) : 10 mg/l si le flux est supérieur à 100 g/j ;
 
-- pour les installations de la chimie, indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 0,3 mg/l si le flux est supérieur à 3 g/j.
+- pour les installations de la chimie, indice phénols (selon la norme mentionnée dans un avis publié au Journal officiel) : 0,3 mg/l si le flux est supérieur à 3 g/j.
 
 6.5. Interdiction des rejets en nappe
 

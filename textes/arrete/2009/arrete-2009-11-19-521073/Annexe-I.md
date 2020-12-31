@@ -700,19 +700,19 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif
 
--pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 susvisé) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+-pH (selon la norme mentionnée dans un avis publié au Journal officiel) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
 -température < 30° C ;
 
-b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 susvisé) : 2 000 mg/ l ;
+b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : 2 000 mg/ l ;
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
--matières en suspension (selon les normes mentionnées à l'annexe II de l'arrêté du 7 juillet 2009 susvisé) : la concentration ne dépasse pas 100 mg/ l si le flux journalier n'excède pas 15 kg/ j, 35 mg/ l au-delà, 150 mg/ l dans le cas d'une épuration par lagunage ;
+-matières en suspension (selon les normes mentionnées dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/ l si le flux journalier n'excède pas 15 kg/ j, 35 mg/ l au-delà, 150 mg/ l dans le cas d'une épuration par lagunage ;
 
--DCO (selon les normes mentionnées à l'annexe II de l'arrêté du 7 juillet 2009 susvisé) : la concentration ne dépasse pas 300 mg/ l si le flux journalier n'excède pas 100 kg/ j, 125 mg/ l au-delà ;
+-DCO (selon les normes mentionnées dans un avis publié au Journal officiel) : la concentration ne dépasse pas 300 mg/ l si le flux journalier n'excède pas 100 kg/ j, 125 mg/ l au-delà ;
 
--DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 susvisé) : la concentration ne dépasse pas 100 mg/ l si le flux journalier n'excède pas 30 kg/ j, 30 mg/ l au-delà.
+-DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/ l si le flux journalier n'excède pas 30 kg/ j, 30 mg/ l au-delà.
 
 Ces valeurs limites sont respectées en moyenne quotidienne. Aucune valeur instantanée ne dépasse le double des valeurs limites de concentration.
 

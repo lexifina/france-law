@@ -194,7 +194,7 @@ Le sol des aires et des locaux de stockage ou de manipulation des matières dang
 
 Les matières recueillies sont de préférence récupérées et recyclées ou, en cas d'impossibilité, traitées conformément au point 5.5 et à la partie 7.
 
-2.10. (*)
+2.10. *
 
 2.11. Isolement du réseau de collecte
 
@@ -368,7 +368,7 @@ Objet du contrôle :
 
 - présentation d'un justificatif de contrôle annuel des matériels (le non-respect de ce point relève d'une non-conformité majeure).
 
-4.4. (*)
+4.4. *
 
 4.5. Interdiction des feux
 
@@ -526,39 +526,37 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH (selon la norme mentionnée dans un avis publié au Journal officiel) : 6,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
 - température < 30 oC.
 
 b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de MEST ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
-- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 600 mg/l ;
+- matières en suspension (selon la norme mentionnée dans un avis publié au Journal officiel) : 600 mg/l ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités
+- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : 2 000 mg/l (1) ;
 
-d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 2 000 mg/l (1) ;
-
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 800 mg/l.
+- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : 800 mg/l.
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
-- matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
+- matières en suspension (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà, 150 mg/l dans le cas d'une épuration par lagunage ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
+- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
+- DBO5 (selon la norme mentionnéedans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
 
 Dans tous les cas, les rejets sont compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
 d) Polluants spécifiques: avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
-- indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
+- indice phénols (selon la norme mentionnéedans un avis publié au Journal officiel) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
 
-- AOx (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 5 mg/l si le flux est supérieur à 30 g/j ;
+- AOx (selon la norme mentionnée dans un avis publié au Journal officiel) : 5 mg/l si le flux est supérieur à 30 g/j ;
 
 - arsenic et composés (NF T90-026) : 0,1 mg/l si le flux est supérieur à 1 g/j ;
 
-- hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 10 mg/l si le flux est supérieur à 100 g/j ;
+- hydrocarbures totaux (selon la norme mentionnée dans un avis publié au Journal officiel) : 10 mg/l si le flux est supérieur à 100 g/j ;
 
 - métaux totaux (NF T90 112) : 15 mg/l si le flux est supérieur à 100 g/j.
 
@@ -610,7 +608,7 @@ Les effluents gazeux respectent les valeurs limites définies ci-après, exprim�
 
 Les valeurs limites d'émission exprimées en concentration se rapportent à une quantité d'effluents gazeux n'ayant pas subi de dilution autre que celles éventuellement nécessitée par les procédés utilisés. Pour les métaux, les valeurs limites s'appliquent à la masse totale d'une substance émise, y compris la part sous forme de gaz ou de vapeur contenue dans les effluents gazeux.
 
-a) Poussières (*)
+a) Poussières *
 
 b) Composés organiques volatils (COV)
 
@@ -638,7 +636,7 @@ I. - CAS GÉNÉRAL (POUR LES ACTIVITÉS NON VISÉES PAR LA DIRECTIVE No 99/13/CE
 
 Si le flux horaire total de COV dépasse 2 kg/h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/m3. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes par an, le flux annuel des émissions diffuses ne dépasse pas 25 % de la quantité de solvants utilisée.
 
-II. - (*)
+II. - *
 
 III. - VALEURS LIMITES D'ÉMISSION EN COV, NOx, CO ET CH4 EN CAS D'UTILISATION D'UNE TECHNIQUE D'ÉPURATION DES ÉMISSIONS CANALISÉES PAR OXYDATION THERMIQUE
 
@@ -662,7 +660,7 @@ Si le flux horaire total des composés organiques listés ci-dessous dépasse 0,
 
 En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/m3 ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/m3, exprimée en carbone total, s'impose à l'ensemble des composés.
 
-V. - (*)
+V. - *
 
 VI. - MISE EN ŒUVRE D'UN SCHÉMA DE MAÎTRISE DES ÉMISSIONS DE COV
 
@@ -672,7 +670,7 @@ Un tel schéma garantit que le flux total d'émissions de COV de l'installation 
 
 L'installation ou les parties de l'installation, dans lesquelles sont notamment mises en œuvre une ou plusieurs des substances visées aux points IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La concentration résiduelle des substances visées aux points IV et V reste néanmoins soumise au respect des valeurs limites prévues aux IV et V.
 
-(*)
+*
 
 Le point de rejet surmonte d'au moins un mètre les bâtiments situés dans un rayon de 15 mètres
 
@@ -852,4 +850,4 @@ Outre les dispositions prévues au point 1.7, l'exploitant remet en état le sit
 
 - les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et, le cas échéant, décontaminées. Elles sont si possible enlevées, sinon, et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
+* Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par le présent arrêté ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.

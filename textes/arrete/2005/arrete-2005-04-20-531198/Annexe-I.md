@@ -140,7 +140,7 @@ La forme du conduit d'évacuation, notamment dans la partie la plus proche du d�
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décretn° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail en ce qui concerne la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
+Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail en ce qui concerne la protection des travailleurs dans les établissements qui mettent en oeuvre des courants électriques.
 
 2.8. Mise à la terre des équipements
 
@@ -304,7 +304,7 @@ Objet du contrôle :
 
 4.4. Matériel électrique de sécurité
 
-Dans les parties de l'installation visées au point 4.3 de la présente annexe, les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret no 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
+Dans les parties de l'installation visées au point 4.3 de la présente annexe, les installations électriques, mécaniques, hydrauliques et pneumatiques sont conformes aux dispositions du décret n° 96-1010 du 19 novembre 1996 relatif aux appareils et aux systèmes de protection destinés à être utilisés en atmosphère explosible. Elles sont réduites à ce qui est strictement nécessaire aux besoins de l'exploitation et sont entièrement constituées de matériels utilisables dans les atmosphères explosives.
 
 Les canalisations électriques ne sont pas une cause possible d'inflammation et sont convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
@@ -400,37 +400,37 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (cf. ar
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH ((selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : compris entre 5,5 et 8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH ((selon la norme mentionnée dans un avis publié au Journal officiel) : compris entre 5,5 et 8,5 (9,5 en cas de neutralisation alcaline) ;
 
 - température < 30 °C.
 
 b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une station d'épuration, lorsque le flux maximal apporté par l'effluent est susceptible de dépasser 15 kg/j de matières en suspension totales (MEST) ou 15 kg/j de DBO5 ou 45 kg/j de DCO :
 
-- MEST (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 600 mg/l ;
+- MEST (selon la norme mentionnée dans un avis publié au Journal officiel) : 600 mg/l ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 2 000 mg/l ;
+- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : 2 000 mg/l ;
 
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 800 mg/l.
+- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : 800 mg/l.
 
 Ces valeurs limites ne sont pas applicables lorsque l'autorisation de déversement dans le réseau public prévoit une valeur supérieure.
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
-- MEST (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà ;
+- MEST (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà ;
 
-- DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
+- DCO (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
-- DBO5 (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
+- DBO5 (selon la norme mentionnée dans un avis publié au Journal officiel) : la concentration ne dépasse pas 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
 
 Dans tous les cas, les rejets sont compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
 d) Polluants spécifiques, avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
-- indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
+- indice phénols (selon la norme mentionnée dans un avis publié au Journal officiel) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
 
-- AOx (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 5 mg/l si le flux est supérieur à 30 g/j ;
+- AOx (selon la norme mentionnéedans un avis publié au Journal officiel) : 5 mg/l si le flux est supérieur à 30 g/j ;
 
-- hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 10 mg/l si le flux est supérieur à 100 g/j ;
+- hydrocarbures totaux (selon la norme mentionnée dans un avis publié au Journal officiel) : 10 mg/l si le flux est supérieur à 100 g/j ;
 
 - métaux totaux (NF T90-112) 15 mg/l si le flux est supérieur à 100 g/j.
 

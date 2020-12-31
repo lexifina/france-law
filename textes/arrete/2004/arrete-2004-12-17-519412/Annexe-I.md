@@ -440,7 +440,7 @@ Sans préjudice des autorisations de déversement dans le réseau public (art. L
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) 5,5-8,5 (9,5 en cas de neutralisation alcaline) ;
+- pH (selon la norme mentionnée dans un avis publié au Journal officiel) 5,5-8,5 (9,5 en cas de neutralisation alcaline) ;
 
 - température < 30 oC.
 

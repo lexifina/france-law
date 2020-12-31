@@ -344,7 +344,7 @@ b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une st
 
 c) Dans le cas de rejet dans le milieu naturel (ou dans un réseau d'assainissement collectif dépourvu de station d'épuration) :
 
--matières en suspension (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne doit pas dépasser 100 mg/ l si le flux journalier n'excède pas 1,5 kg/ j, 35 mg/ l au-delà ;
+-matières en suspension (selon la norme mentionnée dans un avis publié au Journal officiel dans les annexes suivantes : la concentration ne doit pas dépasser 100 mg/ l si le flux journalier n'excède pas 1,5 kg/ j, 35 mg/ l au-delà ;
 
 -DCO (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : la concentration ne doit pas dépasser 300 mg/ l si le flux journalier n'excède pas 100 kg/ j, 125 mg/ l au-delà ;
 

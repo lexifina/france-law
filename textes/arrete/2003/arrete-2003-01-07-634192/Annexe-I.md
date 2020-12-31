@@ -656,13 +656,13 @@ Sans préjudice de l'autorisation de déversement dans le réseau public (art. L
 
 - dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
-- pH (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 5,5-8,5 ;
+- pH (selon la norme mentionnée dans un avis publié au Journal officiel) : 5,5-8,5 ;
 
 - polluants spécifiques avant rejet dans le milieu naturel ou dans un réseau d'assainissement collectif urbain :
 
-- pour les installations du secteur de la chimie : indice phénols (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
+- pour les installations du secteur de la chimie : indice phénols (selon la norme mentionnée dans un avis publié au Journal officiel) : 0,3 mg/l si le flux est supérieur à 3 g/j ;
 
-- pour toutes les installations : hydrocarbures totaux (selon la norme mentionnée à l'annexe II de l'arrêté du 7 juillet 2009 relatif aux modalités d'analyse dans l'air et dans l'eau dans les ICPE et aux normes de référence) : 10 mg/l si le flux est supérieur à 100 g/j.
+- pour toutes les installations : hydrocarbures totaux (selon la norme mentionnée dans un avis publié au Journal officiel dans les annexes suivantes : 10 mg/l si le flux est supérieur à 100 g/j.
 
 Ces valeurs limites sont respectées en moyenne quotidienne. Aucune valeur instantanée ne dépasse le double des valeurs limites de concentration.
 
