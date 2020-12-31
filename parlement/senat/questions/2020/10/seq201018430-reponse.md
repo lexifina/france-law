@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018430
+
+- Question : [SEQ201018430](seq201018430.md) — Situation des établissements d'abattage non agréés
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2020-12-31, page 6362*
+
+La dérogation européenne permettant aux établissements d'abattage non agrées (EANA) de transformer leurs produits sans agrément sanitaire prendra fin au 31 décembre 2020. Le Gouvernement n'ignore pas les conséquences que pourrait avoir cette évolution sur l'activité des EANA qui sont nombreux à transformer leurs produits. Les autorités françaises ont récemment interpellé la Commission européenne pour que ce sujet puisse être rapidement discuté avec les autres États membres, tout en proposant la pérennisation du dispositif dérogatoire actuel. Pour appuyer cette proposition, le ministre de l'agriculture et de l'alimentation a mobilisé les représentants professionnels de ces filières et plusieurs travaux sont d'ores et déjà engagés avec des échéances courtes. Une cartographie des établissements concernés a été réalisée grâce à un questionnaire envoyé à l'ensemble des exploitants d'EANA, et un guide de bonnes pratiques d'hygiène de l'abattage à la transformation a été initié par les professionnels en coordination avec l'institut technique avicole (ITAV). Ce sujet important a par ailleurs été évoqué à sa demande lors du conseil des ministres de l'agriculture de l'Union européenne en octobre 2020 et plusieurs États membres ont apporté leur soutien à la position française. Les parlementaires européens doivent être sensibilisés sur cette question, la mobilisation du Parlement européen serait un atout pour obtenir cette dérogation. Ces établissements participent à la richesse gastronomique des régions françaises et à l'ancrage territorial de l'alimentation. Le ministère de l'agriculture et de l'alimentation restera attentif à ce que leurs activités puissent perdurer.
