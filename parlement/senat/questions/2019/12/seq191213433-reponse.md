@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213433
+
+- Question : [SEQ191213433](seq191213433.md) — Conditions relatives à l'inscription sur les listes électorales
+
+## Réponse
+
+*Intérieur, JO du 2020-12-31, page 6383*
+
+Pour démontrer son attache à une commune en vue de s'inscrire sur sa liste électorale, la réalité du domicile peut être établie par tout moyen propre à emporter la conviction du maire, comme le rappelle la circulaire qui a été adressée aux maires le 21 novembre 2018. Les pièces les plus couramment admises sont énumérées en page 10 de cette circulaire : l'attestation ou la facture de moins de trois mois établie au nom de l'électeur par un ou plusieurs organismes de distribution d'eau, de gaz, d'électricité ou de téléphone fixe ou par l'assurance habitation et correspondant à une adresse située dans la commune (les factures de téléphone portable ne permettent en revanche pas d'attester de la délivrance d'un service dans la commune du domicile du demandeur), le bulletin de salaire ou le titre de pension de moins de trois mois adressé à un domicile situé dans la commune, la quittance de loyer non manuscrite de moins de trois mois, la redevance d'enlèvement des ordures ménagères la plus récente, le certificat d'hébergement de moins de trois mois : un certificat d'hébergement établi par un tiers doit être complété par un justificatif établissant la preuve de l'attache du demandeur avec la commune (exemple : un bulletin de salaire récent ou tout autre document sur lequel figure l'adresse de la personne hébergée) et d'une copie de la carte d'identité de l'hébergeant. Lorsque des difficultés ont pu être rencontrées localement, des rappels ont été faits aux différentes communes. Dès le mois de décembre 2019, le préfet de la Seine-Saint-Denis a ainsi invité les maires des communes de son département à la plus grande attention sur le respect des délais d'instruction de ces dossiers.
