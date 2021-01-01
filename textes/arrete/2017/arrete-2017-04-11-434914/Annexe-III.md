@@ -28,27 +28,29 @@ Pas de point de contrôle.
 
 2. Règles d'implantation
 
-Respect des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
+Respect, le cas échéant, des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
 
-Présence du dispositif séparatif E 120 et du système d'extinction automatique en cas de diminution des distances (le non-respect de ce point relève d'une non-conformité majeure).
+Présence, le cas échéant, du dispositif séparatif E 120 et du système d'extinction automatique en cas de diminution des distances (le non-respect de ce point relève d'une non-conformité majeure).
 
 Présentation, le cas échéant, de la justification que les zones d'effets létaux générés par l'incendie de cellule restent à l'intérieur du site.
 
 3. Accessibilité
 
-Pas de point de contrôle.
+- vérification de la présence de l'accès permettant l'intervention des services d'incendie et de secours (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de l'absence de gêne pour l'accessibilité des engins des services de secours depuis les voies de circulation externes à l'entrepôt.
 
 4. Dispositions constructives
 
-Pas de point de contrôle.
+Vérification de la configuration des cellules, notamment absence de mezzanine occupant plus de 50 % (ou 85 % pour le cas du textile) de la surface au sol de la cellule (le non-respect de ce point relève d'une non-conformité majeure).
 
 5. Désenfumage
 
-Présence des commandes manuelles, des trappes de désenfumage en partie haute et le cas échéant des ouvrants en façade (le non-respect de ce point relève d'une non-conformité majeure).
+Présence, le cas échéant, des commandes manuelles, des trappes de désenfumage en partie haute et des ouvrants en façade (le non-respect de ce point relève d'une non-conformité majeure).
 
 6. Compartimentage
 
-Pas de point de contrôle.
+Vérification que la fermeture automatique des dispositifs d'obturation n'est pas gênée (le non-respect de ce point relève d'une non-conformité majeure).
 
 7. Dimensions des cellules
 
@@ -56,7 +58,9 @@ Vérification de la taille des cellules (le non-respect de ce point relève d'un
 
 8. Matières dangereuses et chimiquement incompatibles
 
-Vérification de l'existence de séparations physiques entre matières dangereuses chimiquement incompatibles.
+- vérification de l'existence de séparations physiques entre matières dangereuses chimiquement incompatibles ;
+
+- vérification que les cellules contenant des matières dangereuses sont situées en rez-de-chaussée sans être surmontées de niveaux et ne comportent pas de mezzanines (le non-respect de ce point relève d'une non-conformité majeure).
 
 9. Conditions de stockage
 
@@ -74,13 +78,7 @@ Présence de la capacité de rétention définie à l'alinéa 2 du point 10.
 
 12. Détection automatique d'incendie
 
-- présence de la détection automatique d'incendie dans les cellules, les locaux techniques et les bureaux à proximité des stockages (le non-respect de ce point relève d'une non-conformité majeure) ;
-
-- présentation de la démonstration de la pertinence du dimensionnement retenu pour les dispositifs de détection ;
-
-- présentation des consignes de maintenance ;
-
-- présentation du compte rendu des vérifications de maintenance et des tests des dispositifs de détection d'incendie datant de moins d'un an (le non-respect de ce point relève d'une non-conformité majeure).
+- présence de la détection automatique d'incendie dans les cellules, les locaux techniques et les bureaux à proximité des stockages (le non-respect de ce point relève d'une non-conformité majeure).
 
 13. Moyens de lutte contre l'incendie
 
@@ -98,7 +96,11 @@ Présence des deux issues dans deux directions opposées pour chaque cellule de 
 
 - présentation des éléments justifiant que les installations électriques sont réalisées conformément aux normes en vigueur, entretenues en bon état et vérifiées ;
 
-- présence, lorsqu'il est requis, d'un interrupteur central.
+- présence, lorsqu'il est requis, d'un interrupteur central ;
+
+- vérification de la présence du compartimentage prévu pour les locaux où sont situés les transformateurs de courant électrique, lorsqu'ils sont accolés ou à l'intérieur de l'entrepôt (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence du ou des parafoudres et paratonnerres requis et vérifiés en application de l'arrêté du 4 octobre 2010 (le non-respect de ce point relève d'une non-conformité majeure).
 
 16. Eclairage
 
@@ -140,7 +142,7 @@ Présentation du registre.
 
 23. Plan de défense incendie
 
-Sans objet.
+Vérification de l'existence et de la complétude du plan de défense incendie (le non-respect de ce point relève d'une non-conformité majeure).
 
 24. Bruits et vibration
 
@@ -148,8 +150,30 @@ Pas de point de contrôle.
 
 25. Surveillance
 
-Pas de point de contrôle.
+Vérification de la présence d'un contrôle des accès (le non-respect de ce point relève d'une non-conformité majeure).
 
 26. Remise en état
 
 Pas de point de contrôle.
+
+27. Dispositions spécifiques applicables aux cellules frigorifiques
+
+- vérification de l'absence de stockage dans les combles (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la présence des détecteurs dans les zones à risque susceptibles d'être génératrices de gaz frigorifiques toxiques (le non-respect de ce point relève d'une non-conformité majeure).
+
+28. Dispositions spécifiques applicables aux cellules de liquides et solides liquéfiables combustibles
+
+- présence du système d'extinction automatique d'incendie adapté aux produits stockés ou du dispositif dont l'exploitant démontre l'efficacité pour éviter la persistance d'une nappe enflammée (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence et complétude de l'attestation de conformité du système d'extinction automatique d'incendie ;
+
+- conformité du volume de rétention par rapport au volume de stockage et tenant compte du volume d'extinction nécessaire à la lutte contre l'incendie (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- présence du dispositif d'extinction des effluents enflammés (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- justificatif de vérification périodique, tests et maintenance des dispositifs de drainage actifs, le cas échéant (le non-respect de ce point relève d'une non-conformité majeure).
+
+Annexe VIII
+
+- présence de l'étude des effets thermiques et, le cas échéant, présence de la copie du courrier au préfet prévu au 2.B de l'annexe VIII et mise en place des mesures nécessaires permettant que les effets thermiques en cas d'incendie de 8kW/m2 restent à l'intérieur des limites de site (ce point relève d'une non-conformité majeure).

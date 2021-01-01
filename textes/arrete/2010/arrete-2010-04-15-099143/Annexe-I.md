@@ -68,6 +68,8 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
+Les éléments des rapports de visites de risques qui portent sur les constats et recommandations issues de l'analyse des risques menés par l'assureur dans l'installation sont également tenus à la disposition de l'inspection des installations classées.
+
 1. 3. Entraînement des poussières ou de boue
 
 Sans préjudice des règlements d'urbanisme, l'exploitant adopte les dispositions suivantes, nécessaires pour prévenir les envols de poussières et matières diverses :
@@ -634,9 +636,7 @@ ambiant existant dans les zones
 
 à émergence réglementée
 
-(incluant le bruit de l'installation)
-
-|
+(incluant le bruit de l'installation) |
 
 ÉMERGENCE ADMISSIBLE
 
@@ -644,9 +644,7 @@ pour la période allant
 
 de 7 heures à 22 heures,
 
-sauf dimanches et jours fériés
-
-|
+sauf dimanches et jours fériés |
 
 ÉMERGENCE ADMISSIBLE
 
@@ -654,33 +652,19 @@ pour la période allant
 
 de 22 heures à 7 heures,
 
-ainsi que les dimanches et jours fériés
+ainsi que les dimanches et jours fériés |
 
-|
+Supérieur à 35 et inférieur ou égal à 45 dB (A) |
 
-Supérieur à 35 et inférieur ou égal à 45 dB (A)
+6 dB (A) |
 
-|
+4 dB (A) |
 
-6 dB (A)
+Supérieur à 45 dB (A) |
 
-|
+5 dB (A) |
 
-4 dB (A)
-
-|
-
-Supérieur à 45 dB (A)
-
-|
-
-5 dB (A)
-
-|
-
-3 dB (A)
-
-|
+3 dB (A) |
 
 De plus, le niveau de bruit en limite de propriété de l'installation ne dépasse pas, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
 

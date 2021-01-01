@@ -6,9 +6,13 @@ Pour les installations existantes, leur conformité aux exigences de résistance
 
 Les prescriptions auxquelles les installations existantes sont déjà soumises demeurent applicables sous réserve du respect des points I à III ci-dessous :
 
-I. - Pour les entrepôts dont la demande d'autorisation a été présentée avant le 1er juillet 2003 ou régulièrement mis en service avant le 1er janvier 2003, et sans préjudice des dispositions déjà applicables seules les dispositions des points 1, 3.1, 3.5, 8, 9 sauf alinéas 7 à 9, 12, 13, 14 alinéa 4,15 (sauf alinéa 2 et 4), 16, 19, 20, 21, 22, 24, 25 et 26 de l'annexe II du présent arrêté sont applicables en tenant compte des modalités particulières d'application définies au II ci-dessous pour le point 12 et 13 de l'annexe II. L'alinéa 4 du point 16 n'est applicable qu'au 1er janvier 2019.
+I. - Pour les entrepôts dont la demande d'autorisation a été présentée avant le 1er juillet 2003 ou régulièrement mis en service avant le 1er janvier 2003, et sans préjudice des dispositions déjà applicables, seules les dispositions des points 1, 2.III (sauf le dernier alinéa), 3.1, 3.5, 8, 9, sauf alinéas 7 à 9, 12, 13, 14, alinéa 4, 15 (sauf alinéas 2 et 4), 16, 19, 20, 21, 22, 23, 24, 25 et 26 de l'annexe II du présent arrêté sont applicables en tenant compte des modalités particulières d'application définies au II ci-dessous pour le point 12 et 13 de l'annexe II. L'alinéa 4 du point 16 de l'annexe III n'est applicable qu'au 1er janvier 2019.
 
-II. - Pour les installations existantes dont la demande d'autorisation a été présentée entre le 1er juillet 2003 et le 16 avril 2010, ou régulièrement mises en service entre le 1er juillet 2003 et le 16 avril 2010, les dispositions des articles du présent arrêté sont applicables, à l'exception de celles mentionnées dans le tableau ci-après pour lesquelles des conditions particulières d'application sont précisées dans le même tableau.
+Les dispositions du point III (sauf le dernier alinéa) du point 2 de l'annexe II sont applicables au 1er janvier 2025. Pour ces installations, cette distance peut également être réduite à 1 mètre, si le stockage extérieur est équipé d'une détection automatique d'incendie déclenchant la mise en œuvre de moyens fixes de refroidissement installés sur les parois externes de l'entrepôt. Le déclenchement automatique n'est pas requis lorsque la quantité maximale susceptible d'être présente dans le stockage extérieur considéré est inférieure à 10 m3 de matières ou produits combustibles et à 1 m3 de matières, produits ou déchets inflammables.
+
+Les dispositions du point 28 sont applicables dans les conditions définies au point 28 de l'annexe II.
+
+II. - Pour les installations existantes dont la demande d'autorisation a été présentée entre le 1er juillet 2003 et le 16 avril 2010, ou régulièrement mises en service entre le 1er juillet 2003 et le 16 avril 2010, et pour les installations d'un volume supérieur ou égal à 300 000 m3 dont la demande d'autorisation a été présentée entre le 17 avril 2010 et le 1er juillet 2017, les dispositions des articles du présent arrêté sont applicables, à l'exception de celles mentionnées dans le tableau ci-après pour lesquelles des conditions particulières d'application sont précisées dans le même tableau.
 
 POINT CONCERNÉ
 
@@ -18,7 +22,9 @@ MODALITÉS PARTICULIÈRES D'APPLICATION DE CERTAINES DISPOSITIONS |
 
 2 |
 
-A l'alinéa Ces distances sont au minimum soit celles calculées par la méthode FLUMILOG (référencée dans le document de l'INERIS Description de la méthode de calcul des effets thermiques produits par un feu d'entrepôt , partie A, réf. DRA-09-90 977-14553A) si les dimensions du bâtiment sont dans son domaine de validité, soit celles calculées par des études spécifiques dans le cas contraire se substitue l'alinéa Ces distances résultent de l'instruction de la demande d'autorisation et de l'examen de l'étude des dangers . |
+A l'alinéa “Les distances sont au minimum soit celles calculées à hauteur de cible pour chaque cellule en feu prise individuellement par la méthode FLUMILOG compte tenu de la configuration de stockage et des matières susceptibles d'être stockées (référencée dans le document de l'INERIS Description de la méthode de calcul des effets thermiques produits par un feu d'entrepôt , partie A, réf. DRA-09-90 977-14553A) si les dimensions du bâtiment sont dans son domaine de validité, soit celles calculées par des études spécifiques dans le cas contraire. Ces distances sont au minimum soit celles calculées par la méthode FLUMILOG (référencée dans le document de l'INERIS Description de la méthode de calcul des effets thermiques produits par un feu d'entrepôt , partie A, réf. DRA-09-90 977-14553A) si les dimensions du bâtiment sont dans son domaine de validité, soit celles calculées par des études spécifiques dans le cas contraire” se substitue l'alinéa “Ces distances résultent de l'instruction de la demande d'autorisation et de l'examen de l'étude des dangers.”
+
+Les dispositions du point III (sauf le dernier alinéa) du point 2 de l'annexe II sont applicables au 1er janvier 2025. Pour ces installations, cette distance peut également être réduite à 1 mètre, si le stockage extérieur est équipé d'une détection automatique d'incendie déclenchant la mise en œuvre de moyens fixes de refroidissement installés sur les parois externes de l'entrepôt. Le déclenchement automatique n'est pas requis lorsque la quantité maximale susceptible d'être présente dans le stockage extérieur considéré est inférieure à 10 m3 de matières ou produits combustibles et à 1 m3 de matières, produits ou déchets inflammables. |
 
 3 |
 
@@ -40,11 +46,17 @@ Aux alinéas Les isolants thermiques (ou l'isolant thermique s'il n'y a en qu'un
 
 - l'isolant, unique, a un pouvoir calorifique supérieur (pcs) inférieur ou égal à 8,4 mj/kg ;
 
-- l'isolation thermique est composée de plusieurs couches, dont la première (en contact avec le support de couverture), d'une épaisseur d'au moins 30 millimètres, de masse volumique supérieure à 110 kg/m3 et fixée mécaniquement, a un pcs inférieur ou égal à 8,4 mj/kg et les couches supérieures sont constituées d'isolants justifiant en épaisseur de 60 millimètres d'une classe D s3 d2. ces couches supérieures sont recoupées au droit de chaque écran de cantonnement par un isolant de pcs inférieur ou égal à 8,4 mj/kg. se substitue l'alinéa en ce qui concerne la toiture, ses éléments de support sont réalisés en matériaux A2 s1 d0 et l'isolant thermique (s'il existe) est réalisé en matériaux A2 s1 d0 ou B s1 d0 de pouvoir calorifique supérieur (pcs) inférieur ou égal à 8,4 mj/kg. cette disposition n'est pas applicable si la structure porteuse est en lamellé-collé, en bois massif ou en matériaux reconnus équivalents par rapport au risque incendie, par la direction générale de la sécurité civile et de la gestion des crises du ministère chargé de l'intérieur. |
+- l'isolation thermique est composée de plusieurs couches, dont la première (en contact avec le support de couverture), d'une épaisseur d'au moins 30 millimètres, de masse volumique supérieure à 110 kg/m3 et fixée mécaniquement, a un pcs inférieur ou égal à 8,4 mj/kg et les couches supérieures sont constituées d'isolants justifiant en épaisseur de 60 millimètres d'une classe D s3 d2. ces couches supérieures sont recoupées au droit de chaque écran de cantonnement par un isolant de pcs inférieur ou égal à 8,4 mj/kg. se substitue l'alinéa en ce qui concerne la toiture, ses éléments de support sont réalisés en matériaux A2 s1 d0 et l'isolant thermique (s'il existe) est réalisé en matériaux A2 s1 d0 ou B s1 d0 de pouvoir calorifique supérieur (pcs) inférieur ou égal à 8,4 mj/kg. cette disposition n'est pas applicable si la structure porteuse est en lamellé-collé, en bois massif ou en matériaux reconnus équivalents par rapport au risque incendie, par la direction générale de la sécurité civile et de la gestion des crises du ministère chargé de l'intérieur.
+
+La dernière phrase de l'alinéa “Pour les entrepôts de deux niveaux ou plus, les planchers sont au moins EI 120 et les structures porteuses des planchers au moins R120 et la stabilité au feu de la structure est au moins R 60 pour ceux dont le plancher du dernier niveau est situé à plus de 8 mètres du sol intérieur. Pour les entrepôts à simple rez-de-chaussée de plus de 13,70 m de hauteur, la stabilité au feu de la structure est au moins R 60.” n'est pas applicable aux entrepôts dotés d'un système d'extinction automatique d'incendie.
+
+|
 
 5 |
 
-A la phrase : Chaque écran de cantonnement est stable au feu de degré un quart d'heure, et a une hauteur minimale de 1 mètre. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 0,5 mètre. Elle peut toutefois être réduite pour les zones de stockages automatisés. , se substitue la phrase : Les cantons sont délimités par des écrans de cantonnement, réalisés en matériaux A2 s1 d0 (y compris leurs fixations) et stables au feu de degré un quart d'heure, ou par la configuration de la toiture et des structures du bâtiment. |
+Aux phrases “Chaque écran de cantonnement est stable au feu de degré un quart d'heure, et a une hauteur minimale de 1 mètre, sans préjudice des dispositions applicables par ailleurs au titre des articles R. 4216-13 et suivants du code du travail. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 0,5 mètre. Elle peut toutefois être réduite pour les zones de stockages automatisés.” se substitue la phrase “Les cantons sont délimités par des écrans de cantonnement, réalisés en matériaux A2 s1 d0 (y compris leurs fixations) et stables au feu de degré un quart d'heure, ou par la configuration de la toiture et des structures du bâtiment.”
+
+Le point 5.1 n'est pas applicable. |
 
 7 |
 
@@ -78,6 +90,10 @@ Les mots : , et déclenche le compartimentage de la ou des cellules sinistrées 
 
 Les mots : Les points d'eau incendie sont distants entre eux de 150 mètres maximum (les distances sont mesurées par les voies praticables aux engins des services d'incendie et de secours). ne sont pas applicables. |
 
+27 |
+
+Les dispositions du point 27 ne sont pas applicables. |
+
 III. - Pour les installations existantes dont la demande d'enregistrement a été présentée entre le 17 avril 2010 et le 1er juillet 2017, ou régulièrement mis en service entre le 17 avril 2010 et le 1er juillet 2017, l'ensemble des dispositions du présent arrêté sont applicables au 1er janvier 2018, à l'exception des prescriptions du tableau ci-dessous qui demeurent applicables sauf demande contraire de l'exploitant en lieu et place des dispositions correspondantes de l'annexe II :
 
 POINT CONCERNÉ
@@ -85,6 +101,10 @@ POINT CONCERNÉ
 de l'annexe II |
 
 MODALITÉS PARTICULIÈRES D'APPLICATION DE CERTAINES DISPOSITIONS |
+
+2 |
+
+Les dispositions du point III (sauf le dernier alinéa) du point 2 de l'annexe II sont applicables au 1er janvier 2025. Pour ces installations, cette distance peut également être réduite à 1 mètre, si le stockage extérieur est équipé d'une détection automatique d'incendie déclenchant la mise en œuvre de moyens fixes de refroidissement installés sur les parois externes de l'entrepôt. Le déclenchement automatique n'est pas requis lorsque la quantité maximale susceptible d'être présente dans le stockage extérieur considéré est inférieure à 10 m3 de matières ou produits combustibles et à 1 m3 de matières, produits ou déchets inflammables. |
 
 3.2 |
 
@@ -126,7 +146,7 @@ Depuis cette aire, une un moyen aérien (par exemple une échelle ou un bras él
 
 Par ailleurs, pour tout bâtiment de plusieurs niveaux possédant au moins un plancher situé à une hauteur supérieure à 8 mètres par rapport au niveau d'accès des secours, sur au moins deux façades, cette aire de mise en station des moyens aériens permet d'accéder à des ouvertures.
 
-Ces ouvertures qui demeurent accessibles de l'extérieur et de l'intérieur permettent au moins deux accès par étage pour chacune des façades disposant d'aires de mise en station des moyens aériens et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre. Elles sont aisément repérables de l'extérieur par les services de secours.
+Ces ouvertures qui demeurent accessibles de l'extérieur et de l'intérieur permettent au moins deux accès par niveau pour chacune des façades disposant d'aires de mise en station des moyens aériens et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre. Elles sont aisément repérables de l'extérieur par les services de secours.
 
 Les dispositions du présent point ne sont pas exigées si la cellule a une surface de moins de 2 000 mètres carrés respectant les dispositions suivantes :
 
@@ -170,7 +190,7 @@ De plus, lorsque les bureaux sont situés à l'intérieur d'une cellule :
 
 - le plafond est au moins REI 120 ;
 
-- le plancher est également au moins REI 120 si les bureaux sont situés en étage ;
+- le plancher est également au moins REI 120 si les bureaux sont situés en niveau ou mezzanine ;
 
 - les escaliers intérieurs reliant des niveaux séparés, dans le cas de planchers situés à plus de 8 mètres du sol intérieur, sont encloisonnés par des parois REI 60 et construits en matériaux A2 s1 d0. Ils débouchent directement à l'air libre, sinon sur des circulations encloisonnées de même degré coupe-feu y conduisant. Les blocs-portes intérieurs donnant sur ces escaliers sont E 60 C2 ;
 
@@ -196,7 +216,9 @@ De plus, lorsque les bureaux sont situés à l'intérieur d'une cellule :
 
 5 |
 
-A la phrase : Chaque écran de cantonnement est stable au feu de degré un quart d'heure, et a une hauteur minimale de 1 mètre. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 0,5 mètre. Elle peut toutefois être réduite pour les zones de stockages automatisés. se substitue la phrase : Les cantons sont délimités par des écrans de cantonnement, réalisés en matériaux A2 s1 d0 (y compris leurs fixations) et stables au feu de degré un quart d'heure. Leur hauteur est calculée conformément à la réglementation applicable aux établissements recevant du public. |
+Aux phrases “Chaque écran de cantonnement est stable au feu de degré un quart d'heure, et a une hauteur minimale de 1 mètre, sans préjudice des dispositions applicables par ailleurs au titre des articles R. 4216-13 et suivants du code du travail. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 0,5 mètre. Elle peut toutefois être réduite pour les zones de stockages automatisés.” se substitue la phrase “Les cantons sont délimités par des écrans de cantonnement, réalisés en matériaux A2 s1 d0 (y compris leurs fixations) et stables au feu de degré un quart d'heure, ou par la configuration de la toiture et des structures du bâtiment.”
+
+Le point 5.1 n'est pas applicable. |
 
 6 |
 
@@ -211,3 +233,7 @@ La surface maximale des cellules est égale à 3 000 mètres carrés en l'absenc
 La surface d'une mezzanine occupe au maximum 50 % de la surface du niveau inférieur de la cellule. Dans le cas où, dans une cellule, un niveau comporte plusieurs mezzanines, l'exploitant démontre, par une étude, que ces mezzanines n'engendrent pas de risque supplémentaire, et notamment qu'elles ne gênent pas le désenfumage en cas d'incendie.
 
 Pour les entrepôts textile, la surface peut être portée à 85 % sous réserve que l'exploitant démontre, par une étude, que cette mezzanine n'engendre pas de risque supplémentaire, et notamment qu'elle ne gêne pas le désenfumage en cas d'incendie. |
+
+27 |
+
+Les dispositions du point 27 ne sont pas applicables. |

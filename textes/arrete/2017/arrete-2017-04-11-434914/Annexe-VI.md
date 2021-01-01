@@ -6,7 +6,7 @@ Pour les installations existantes, leur conformité aux exigences de résistance
 
 Les prescriptions auxquelles les installations existantes sont déjà soumises demeurent applicables sous réserve du respect des points I et II ci-dessous :
 
-I. - Pour les entrepôts déclarés avant le 30 avril 2009 et sans préjudice des dispositions déjà applicables, seules les dispositions des points 1 (à l'exception des points 1.1.et 1.2. pour les installations bénéficiant des droits acquis), 3.1, 3.4, 3.5, 8, 9 sauf alinéas 7 à 9, 10 modifié comme indiqué ci-après, 13, 14 (alinéa 4), 15 (sauf alinéas 2 et 4), 16, 19, 20, 21, 22, 24, 25, 26 de l'annexe II du présent arrêté sont applicables en tenant compte des modalités particulières d'application définies au II ci-dessous pour les points 3.4 et 13 de l'annexe II.
+I. - Pour les entrepôts déclarés avant le 30 avril 2009 et sans préjudice des dispositions déjà applicables, seules les dispositions des points 1 (à l'exception du point 1.1.pour les installations bénéficiant des droits acquis), 3.1, 3.4, 3.5, 8, 9 sauf alinéas 7 à 9, 10 modifié comme indiqué ci-après, 13, 14 (alinéa 4), 15 (sauf alinéas 2 et 4), 16, 19, 20, 21, 22, 23, 24, 25, 26 de l'annexe II du présent arrêté sont applicables en tenant compte des modalités particulières d'application définies au II ci-dessous pour les points 3.4 et 13 de l'annexe II.
 
 Le point 10 de l'annexe II du présent arrêté est modifié ainsi : Tout stockage de matières liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention interne ou externe dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
@@ -18,7 +18,11 @@ Toutefois, lorsque le stockage est constitué exclusivement de récipients de ca
 
 Des réservoirs ou récipients contenant des matières susceptibles de réagir dangereusement ensemble ne sont pas associés à la même cuvette de rétention.
 
-L'article 12 est applicable à compter du 1er janvier 2019, à l'exception des mots et déclenche le compartimentage de la ou des cellules sinistrées qui ne sont pas applicables.
+Le point 12 de l'annexe II est applicable à compter du 1er janvier 2019, à l'exception des mots et déclenche le compartimentage de la ou des cellules sinistrées qui ne sont pas applicables.
+
+Les dispositions du point III (sauf le dernier alinéa) du point 2 de l'annexe II sont applicables à compter du 1er janvier 2025. Pour ces installations, cette distance peut également être réduite à 1 mètre, si le stockage extérieur est équipé d'une détection automatique d'incendie déclenchant la mise en œuvre de moyens fixes de refroidissement installés sur les parois externes de l'entrepôt. Le déclenchement automatique n'est pas requis lorsque la quantité maximale susceptible d'être présente dans le stockage extérieur considéré est inférieure à 10 m3 de matières ou produits combustibles et à 1 m3 de matières, produits ou déchets inflammables.
+
+Les dispositions du point 28 sont applicables dans les conditions définies au point 28 de l'annexe II.
 
 II. - Pour les installations existantes déclarées entre le 30 avril 2009 et le 1er juillet 2017, les dispositions des articles du présent arrêté sont applicables, à l'exception de celles mentionnées dans le tableau ci-après pour lesquelles des conditions particulières d'application sont précisées dans le même tableau.
 
@@ -27,6 +31,10 @@ POINT CONCERNÉ
 de l'annexe II |
 
 MODALITÉS PARTICULIÈRES D'APPLICATION DE CERTAINES DISPOSITIONS |
+
+2 |
+
+Les dispositions du point III (sauf le dernier alinéa) du point 2 de l'annexe II sont applicables au 1er janvier 2025. Pour ces installations, cette distance peut également être réduite à 1 mètre, si le stockage extérieur est équipé d'une détection automatique d'incendie déclenchant la mise en œuvre de moyens fixes de refroidissement installés sur les parois externes de l'entrepôt. Le déclenchement automatique n'est pas requis lorsque la quantité maximale susceptible d'être présente dans le stockage extérieur considéré est inférieure à 10 m3 de matières ou produits combustibles et à 1 m3 de matières, produits ou déchets inflammables. |
 
 3.2 |
 
@@ -76,7 +84,7 @@ Chaque aire respecte par ailleurs les caractéristiques suivantes :
 
 Par ailleurs, pour tout entrepôt de plusieurs niveaux possédant au moins un plancher situé à une hauteur supérieure à 8 mètres par rapport au niveau d'accès des secours, sur au moins deux façades, une aire de mise en station des moyens aériens permet d'accéder à des ouvertures.
 
-Ces ouvertures permettent au moins un accès par étage pour chacune des façades disposant de voie échelles et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre.
+Ces ouvertures permettent au moins un accès par niveau pour chacune des façades disposant de voie échelles et présentent une hauteur minimale de 1,8 mètre et une largeur minimale de 0,9 mètre.
 
 Les panneaux d'obturation ou les châssis composant ces accès s'ouvrent et demeurent toujours accessibles de l'extérieur et de l'intérieur. Ils sont aisément repérables de l'extérieur par les services de secours. |
 
@@ -118,7 +126,9 @@ Une étude spécifique visant à évaluer les risques particuliers, notamment po
 
 5 |
 
-A la phrase : Chaque écran de cantonnement est stable au feu de degré un quart d'heure, et a une hauteur minimale de 1 mètre. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 0,5 mètre. Elle peut toutefois être réduite pour les zones de stockages automatisés. , se substitue la phrase Les cantons sont délimités par des écrans de cantonnement, réalisés en matériaux A2 s1 d0 (y compris leurs fixations) et stables au feu de degré un quart d'heure, ou par la configuration de la toiture et des structures du bâtiment. |
+Aux phrases “Chaque écran de cantonnement est stable au feu de degré un quart d'heure, et a une hauteur minimale de 1 mètre, sans préjudice des dispositions applicables par ailleurs au titre des articles R. 4216-13 et suivants du code du travail. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 0,5 mètre. Elle peut toutefois être réduite pour les zones de stockages automatisés.” se substitue la phrase “Les cantons sont délimités par des écrans de cantonnement, réalisés en matériaux A2 s1 d0 (y compris leurs fixations) et stables au feu de degré un quart d'heure, ou par la configuration de la toiture et des structures du bâtiment.”
+
+Le point 5.1 n'est pas applicable. |
 
 6 |
 
@@ -177,3 +187,7 @@ L'alinéa 2 n'est pas applicable aux installations existantes. |
 17 |
 
 Ce point n'est pas applicable aux installations existantes. |
+
+27 |
+
+Les dispositions du point 27 ne sont pas applicables. |
