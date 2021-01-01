@@ -34,9 +34,7 @@ Art. 64 du décret n° 93-1362 du 30 décembre 1993 |
 
 Attestation constatant qu'une déclaration acquisitive de la nationalité française a été souscrite et enregistrée |
 
-Art. 34 du décret n° 93-1362 du 30 décembre 1993
-
-|
+Art. 34 du décret n° 93-1362 du 30 décembre 1993 |
 
 |
 
@@ -46,9 +44,7 @@ Code général des collectivités territoriales
 
 Légalisation de signature |
 
-Article L. 2122-30
-
-|
+Article L. 2122-30 |
 
 |
 
@@ -56,9 +52,7 @@ Code électoral |
 
 Inscription sur les listes électorales |
 
-L. 11 et L. 31
-
-|
+L. 11 et L. 31 |
 
 |
 
@@ -70,9 +64,9 @@ Ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de
 
 Ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie
 
-Décret n° 2001-633 du 17 juillet 2001 pris pour l'application de l'ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française
+Décret n° 2001-633 du 17 juillet 2001 pris pour l'application de l' ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie française
 
-Décret n° 2001-634 du 17 juillet 2001 pris pour l'application de l'ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna
+Décret n° 2001-634 du 17 juillet 2001 pris pour l'application de l' ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna
 
 Décret n° 2002-1219 du 27 septembre 2002 pris pour l'application de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie |
 
@@ -90,9 +84,7 @@ Document de circulation des mineurs étrangers |
 
 L. 321-3 et L. 321-4
 
-Art. 11 de l'ordonnance n° 2000-371 du 26 avril 2000 et art. 12 des ordonnances n° 2000-372 du 26 avril 2000 et n° 2002-388 du 20 mars 2002
-
-|
+Art. 11 de l' ordonnance n° 2000-371 du 26 avril 2000 et art. 12 des ordonnances n° 2000-372 du 26 avril 2000 et n° 2002-388 du 20 mars 2002 |
 
 |
 
@@ -106,9 +98,7 @@ Regroupement familial |
 
 L. 411-1
 
-Art. 42 de l'ordonnance n° 2000-371 du 26 avril 2000 et art. 44 des ordonnances n° 2000-372 du 26 avril 2000 et n° 2002-388 du 20 mars 2002
-
-|
+Art. 42 de l'ordonnance n° 2000-371 du 26 avril 2000 et art. 44 des ordonnances n° 2000-372 du 26 avril 2000 et n° 2002-388 du 20 mars 2002 |
 
 Six mois |
 
@@ -134,17 +124,13 @@ Décret n° 2008-1176 du 13 novembre 2008 relatif aux attributions des chefs de 
 
 Visa délivré par le préfet de Mayotte |
 
-L. 832-2
-
-|
+L. 832-2 |
 
 |
 
 Enregistrement de la demande d'asile |
 
-R. 723-1
-
-|
+R. 723-1 |
 
 |
 
@@ -174,9 +160,7 @@ R. 561-2 |
 
 Autorisation de travail dans le cadre d'une assignation à résidence |
 
-R. 561-4
-
-|
+R. 561-4 |
 
 |
 
@@ -190,9 +174,7 @@ Un mois |
 
 Agrément d'un organisme menant une action à caractère humanitaire ou culturel |
 
-R. 212-3
-
-|
+R. 212-3 |
 
 |
 
@@ -232,25 +214,19 @@ Art. 15-III de l'ordonnance n° 2000-371 du 26 avril 2000 et art. 16-III des ord
 
 Agrément d'un médecin pour l'établissement du rapport médical transmis au médecin de l'agence régionale de santé ou, à Paris, au médecin désigné par le préfet de police, dans le cadre d'une demande de titre de séjour pour motif médical |
 
-R. 313-22
-
-|
+R. 313-22 |
 
 |
 
 Agrément d'une association de domiciliation de demandeurs d'asile |
 
-R. 741-2
-
-|
+R. 741-2 |
 
 |
 
 Habilitation d'une personne morale à exercer à l'étranger des missions de promotion de la carte de séjour portant la mention " compétences et talents " et de recherche des personnes susceptibles d'en bénéficier |
 
-R. 315-11
-
-|
+R. 315-11 |
 
 |
 
@@ -258,9 +234,7 @@ Code de la route |
 
 Autorisation de circuler d'un véhicule à moteur, d'une remorque dont le poids total autorisé en charge est supérieur à 500 kg, ou d'une semi-remorque |
 
-R. 322-1
-
-|
+R. 322-1 |
 
 |
 
@@ -278,9 +252,7 @@ R. 322-3 |
 
 Conversion de brevet militaire de conduite |
 
-R. 222-7
-
-|
+R. 222-7 |
 
 |
 
@@ -292,9 +264,7 @@ R. 222-8 |
 
 Autorisation de réutilisation des données issues du système d'immatriculation des véhicules |
 
-L. 330-5 et R. 330-7
-
-|
+L. 330-5 et R. 330-7 |
 
 |
 
@@ -441,3 +411,17 @@ Engagement d'un sapeur-pompier volontaire au sein d'un service de l'Etat |
 Art. 1er, 6 et 8 du décret n° 2013-412 du 17 mai 2013 |
 
 |
+
+Arrêté du 3 septembre 2020 portant création du service à compétence nationale dénommé " Institut des hautes études du ministère de l'intérieur " |
+
+Admission comme auditeur aux sessions nationales ou régionales de l'Institut des hautes études du ministère de l'intérieur. |
+
+Article 3,
+
+septième alinéa |
+
+|
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2020-1591 du 16 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.

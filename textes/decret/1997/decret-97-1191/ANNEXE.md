@@ -288,6 +288,24 @@ Autorisation de libéralités au profit d'Etats ou d'établissements étrangers.
 
 Article 6-5 |
 
+Arrêté du 3 septembre 2020 portant création du service à compétence nationale dénommé “ Institut des hautes études du ministère de l'intérieur ”
+
+1 |
+
+Décisions portant admission comme auditeur aux sessions nationales et régionales de l'Institut des hautes études du ministère de l'intérieur. |
+
+Article 3,
+
+septième alinéa |
+
+2 |
+
+Décisions fixant la liste des auditeurs de l'Institut des hautes études du ministère de l'intérieur ayant satisfait aux obligations des sessions nationales ou régionales. |
+
+Article 4,
+
+premier alinéa |
+
 1 |
 
 Décisions à caractère financier prises pour l'exécution des décisions de justice en ce qui concerne l'activité des services de l'administration centrale du ministère de l'intérieur. |
@@ -299,3 +317,7 @@ Décisions à caractère financier prises pour l'exécution des décisions de ju
 Décisions amiables d'indemnisation des préjudices résultant de la mise en cause de la responsabilité de l'Etat à l'occasion de l'activité des services de l'administration centrale du ministère de l'intérieur. |
 
 |
+
+NOTA :
+
+Conformément à l'article 7 du décret n° 2020-1591 du 16 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
