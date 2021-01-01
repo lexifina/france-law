@@ -1,913 +1,489 @@
 # Article Annexe tableau n° 7
 
-RÉGION
-
-|
+RÉGION |
 
 EFFECTIF
 
-du conseil régional
+du conseil régional |
 
-|
-
-DÉPARTEMENT
-
-|
+DÉPARTEMENT |
 
 NOMBRE DE CANDIDATS
 
-par section départementale
+par section départementale |
 
-|
-
-Alsace, Champagne-Ardenne et Lorraine
-
-|
+Alsace, Champagne-Ardenne et Lorraine |
 
 169
 
 |
 
-Ardennes
+Ardennes |
 
-|
+11 |
 
-11
+Aube |
 
-|
+11 |
 
-Aube
+Marne |
 
-|
+19 |
 
-11
+Haute-Marne |
 
-|
+8 |
 
-Marne
+Meurthe-et-Moselle |
 
-|
+24 |
 
-19
+Meuse |
 
-|
+8 |
 
-Haute-Marne
+Moselle |
 
-|
+34 |
 
-8
+Collectivité européenne d'Alsace |
 
-|
+58 |
 
-Meurthe-et-Moselle
+Vosges |
 
-|
+14 |
 
-24
-
-|
-
-Meuse
-
-|
-
-8
-
-|
-
-Moselle
-
-|
-
-34
-
-|
-
-Bas-Rhin
-
-|
-
-35
-
-|
-
-Haut-Rhin
-
-|
-
-25
-
-|
-
-Vosges
-
-|
-
-14
-
-|
-
-Aquitaine, Limousin et Poitou-Charentes
-
-|
+Aquitaine, Limousin et Poitou-Charentes |
 
 183
 
 |
 
-Charente
+Charente |
 
-|
+13 |
 
-13
+Charente-Maritime |
 
-|
+22 |
 
-Charente-Maritime
+Corrèze |
 
-|
+10 |
 
-22
+Creuse |
 
-|
+6 |
 
-Corrèze
+Dordogne |
 
-|
+15 |
 
-10
+Gironde |
 
-|
+48 |
 
-Creuse
+Landes |
 
-|
+14 |
 
-6
+Lot-et-Garonne |
 
-|
+12 |
 
-Dordogne
+Pyrénées-Atlantiques |
 
-|
+23 |
 
-15
+Deux-Sèvres |
 
-|
+14 |
 
-Gironde
+Vienne |
 
-|
+16 |
 
-48
+Haute-Vienne |
 
-|
+14 |
 
-Landes
-
-|
-
-14
-
-|
-
-Lot-et-Garonne
-
-|
-
-12
-
-|
-
-Pyrénées-Atlantiques
-
-|
-
-23
-
-|
-
-Deux-Sèvres
-
-|
-
-14
-
-|
-
-Vienne
-
-|
-
-16
-
-|
-
-Haute-Vienne
-
-|
-
-14
-
-|
-
-Auvergne et Rhône-Alpes
-
-|
+Auvergne et Rhône-Alpes |
 
 204
 
 |
 
-Ain
+Ain |
 
-|
+18 |
 
-18
+Allier |
 
-|
+11 |
 
-Allier
+Ardèche |
 
-|
+11 |
 
-11
+Cantal |
 
-|
+6 |
 
-Ardèche
+Drôme |
 
-|
+15 |
 
-11
+Isère |
 
-|
+34 |
 
-Cantal
+Loire |
 
-|
+22 |
 
-6
+Haute-Loire |
 
-|
+8 |
 
-Drôme
+Métropole de Lyon |
 
-|
+37 |
 
-15
+Puy-de-Dôme |
 
-|
+19 |
 
-Isère
+Rhône |
 
-|
+14 |
 
-34
+Savoie |
 
-|
+13 |
 
-Loire
+Haute-Savoie |
 
-|
+22 |
 
-22
-
-|
-
-Haute-Loire
-
-|
-
-8
-
-|
-
-Métropole de Lyon
-
-|
-
-37
-
-|
-
-Puy-de-Dôme
-
-|
-
-19
-
-|
-
-Rhône
-
-|
-
-14
-
-|
-
-Savoie
-
-|
-
-13
-
-|
-
-Haute-Savoie
-
-|
-
-22
-
-|
-
-Bourgogne et Franche-Comté
-
-|
+Bourgogne et Franche-Comté |
 
 100
 
 |
 
-Côte-d'Or
+Côte-d'Or |
 
-|
+21 |
 
-21
+Doubs |
 
-|
+21 |
 
-Doubs
+Jura |
 
-|
+11 |
 
-21
+Nièvre |
 
-|
+10 |
 
-Jura
+Haute-Saône |
 
-|
+10 |
 
-11
+Saône-et-Loire |
 
-|
+22 |
 
-Nièvre
+Yonne |
 
-|
+14 |
 
-10
+Territoire de Belfort |
 
-|
+7 |
 
-Haute-Saône
-
-|
-
-10
-
-|
-
-Saône-et-Loire
-
-|
-
-22
-
-|
-
-Yonne
-
-|
-
-14
-
-|
-
-Territoire de Belfort
-
-|
-
-7
-
-|
-
-Bretagne
-
-|
+Bretagne |
 
 83
 
 |
 
-Côtes-d'Armor
+Côtes-d'Armor |
 
-|
+17 |
 
-17
+Finistère |
 
-|
+25 |
 
-Finistère
+Ille-et-Vilaine |
 
-|
+28 |
 
-25
+Morbihan |
 
-|
+21 |
 
-Ille-et-Vilaine
-
-|
-
-28
-
-|
-
-Morbihan
-
-|
-
-21
-
-|
-
-Centre
-
-|
+Centre |
 
 77
 
 |
 
-Cher
+Cher |
 
-|
+11 |
 
-11
+Eure-et-Loir |
 
-|
+15 |
 
-Eure-et-Loir
+Indre |
 
-|
+9 |
 
-15
+Indre-et-Loire |
 
-|
+20 |
 
-Indre
+Loir-et-Cher |
 
-|
+12 |
 
-9
+Loiret |
 
-|
+22 |
 
-Indre-et-Loire
-
-|
-
-20
-
-|
-
-Loir-et-Cher
-
-|
-
-12
-
-|
-
-Loiret
-
-|
-
-22
-
-|
-
-Guadeloupe
-
-|
+Guadeloupe |
 
 41
 
 |
 
-Guadeloupe
+Guadeloupe |
 
-|
+43 |
 
-43
-
-|
-
-Ile-de-France
-
-|
+Ile-de-France |
 
 209
 
 |
 
-Paris
+Paris |
 
-|
+42 |
 
-42
+Seine-et-Marne |
 
-|
+25 |
 
-Seine-et-Marne
+Yvelines |
 
-|
+27 |
 
-25
+Essonne |
 
-|
+24 |
 
-Yvelines
+Hauts-de-Seine |
 
-|
+30 |
 
-27
+Seine-Saint-Denis |
 
-|
+29 |
 
-Essonne
+Val-de-Marne |
 
-|
+25 |
 
-24
+Val-d'Oise |
 
-|
+23 |
 
-Hauts-de-Seine
-
-|
-
-30
-
-|
-
-Seine-Saint-Denis
-
-|
-
-29
-
-|
-
-Val-de-Marne
-
-|
-
-25
-
-|
-
-Val-d'Oise
-
-|
-
-23
-
-|
-
-Languedoc-Roussillon et Midi-Pyrénées
-
-|
+Languedoc-Roussillon et Midi-Pyrénées |
 
 158
 
 |
 
-Ariège
+Ariège |
 
-|
+6 |
 
-6
+Aude |
 
-|
+12 |
 
-Aude
+Aveyron |
 
-|
+10 |
 
-12
+Gard |
 
-|
+22 |
 
-Aveyron
+Haute-Garonne |
 
-|
+38 |
 
-10
+Gers |
 
-|
+7 |
 
-Gard
+Hérault |
 
-|
+32 |
 
-22
+Lot |
 
-|
+7 |
 
-Haute-Garonne
+Lozère |
 
-|
+4 |
 
-38
+Hautes-Pyrénées |
 
-|
+9 |
 
-Gers
+Pyrénées-Orientales |
 
-|
+15 |
 
-7
+Tarn |
 
-|
+13 |
 
-Hérault
+Tarn-et-Garonne |
 
-|
+9 |
 
-32
-
-|
-
-Lot
-
-|
-
-7
-
-|
-
-Lozère
-
-|
-
-4
-
-|
-
-Hautes-Pyrénées
-
-|
-
-9
-
-|
-
-Pyrénées-Orientales
-
-|
-
-15
-
-|
-
-Tarn
-
-|
-
-13
-
-|
-
-Tarn-et-Garonne
-
-|
-
-9
-
-|
-
-Nord - Pas-de-Calais et Picardie
-
-|
+Nord - Pas-de-Calais et Picardie |
 
 170
 
 |
 
-Aisne
+Aisne |
 
-|
+17 |
 
-17
+Nord |
 
-|
+76 |
 
-Nord
+Oise |
 
-|
+25 |
 
-76
+Pas-de-Calais |
 
-|
+44 |
 
-Oise
+Somme |
 
-|
+18 |
 
-25
-
-|
-
-Pas-de-Calais
-
-|
-
-44
-
-|
-
-Somme
-
-|
-
-18
-
-|
-
-Basse-Normandie et Haute-Normandie
-
-|
+Basse-Normandie et Haute-Normandie |
 
 102
 
 |
 
-Calvados
+Calvados |
 
-|
+23 |
 
-23
+Eure |
 
-|
+20 |
 
-Eure
+Manche |
 
-|
+17 |
 
-20
+Orne |
 
-|
+11 |
 
-Manche
+Seine-Maritime |
 
-|
+41 |
 
-17
-
-|
-
-Orne
-
-|
-
-11
-
-|
-
-Seine-Maritime
-
-|
-
-41
-
-|
-
-Pays de la Loire
-
-|
+Pays de la Loire |
 
 93
 
 |
 
-Loire-Atlantique
+Loire-Atlantique |
 
-|
+35 |
 
-35
+Maine-et-Loire |
 
-|
+22 |
 
-Maine-et-Loire
+Mayenne |
 
-|
+10 |
 
-22
+Sarthe |
 
-|
+17 |
 
-Mayenne
+Vendée |
 
-|
+19 |
 
-10
-
-|
-
-Sarthe
-
-|
-
-17
-
-|
-
-Vendée
-
-|
-
-19
-
-|
-
-Provence-Alpes-Côte d'Azur
-
-|
+Provence-Alpes-Côte d'Azur |
 
 123
 
 |
 
-Alpes-de-Haute-Provence
+Alpes-de-Haute-Provence |
 
-|
+6 |
 
-6
+Hautes-Alpes |
 
-|
+6 |
 
-Hautes-Alpes
+Alpes-Maritimes |
 
-|
+29 |
 
-6
+Bouches-du-Rhône |
 
-|
+51 |
 
-Alpes-Maritimes
+Var |
 
-|
+27 |
 
-29
+Vaucluse |
 
-|
+16 |
 
-Bouches-du-Rhône
-
-|
-
-51
-
-|
-
-Var
-
-|
-
-27
-
-|
-
-Vaucluse
-
-|
-
-16
-
-|
-
-La Réunion
-
-|
+La Réunion |
 
 45
 
 |
 
-La Réunion
+La Réunion |
 
-|
-
-47
-
-|
+47 |
 
 NOTA :
 
 Conformément à l'article 7 de la loi n° 2015-29 du 16 janvier 2015 les présentes dispositions s'appliquent à compter du prochain renouvellement général des conseils régionaux suivant la promulgation de la présente loi. Ces élections ont lieu dans le cadre des régions définies à l'article 1er.
+
+Conformément à l’article 18 de l’ordonnance n° 2020-1304 du 28 octobre 2020, ces dispositions entrent en vigueur
+
+le 1er janvier 2021.
