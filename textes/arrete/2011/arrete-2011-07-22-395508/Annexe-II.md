@@ -386,6 +386,10 @@ Dispense de visa s'appliquant seulement :
 
 -aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. |
 
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord |
+
+Dispense s'étendant à tout type de passeport. |
+
 Russie |
 
 Dispense de visa s'appliquant seulement :
@@ -517,3 +521,7 @@ e) Les passagers des navires de croisière pour entrer et y séjourner pendant l
 - ou ils sont titulaires d'un visa en cours de validité délivré par une autorité française pour une autre partie du territoire de la France ;
 
 f) Les passagers se trouvant dans un port de Nouvelle-Calédonie à bord d'un navire y faisant escale, en provenance ou à destination de l'étranger, dès lors qu'ils ne quittent pas le navire.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 28 décembre 2020 (NOR : INTV2031758A), ces dispositions entrent en vigueur le 1er janvier 2021.
