@@ -1,54 +1,16 @@
 # Article Annexe 2
 
+RÉGIONS ACADÉMIQUES |
+
 ACADÉMIES |
 
 CHEVALIERS |
 
 OFFICIERS |
 
-COMMANDEURS
+COMMANDEURS |
 
-|
-
-Aix-Marseille |
-
-142 |
-
-47 |
-
-8 |
-
-Amiens |
-
-95 |
-
-32 |
-
-5 |
-
-Besançon |
-
-58 |
-
-19 |
-
-4 |
-
-Bordeaux |
-
-149 |
-
-50 |
-
-8 |
-
-Caen |
-
-68 |
-
-23 |
-
-4 |
+Auvergne-Rhône-Alpes |
 
 Clermont-Ferrand |
 
@@ -58,21 +20,31 @@ Clermont-Ferrand |
 
 4 |
 
-Corse |
+Grenoble |
 
-14 |
+159 |
 
-5 |
+53 |
 
-1 |
+9 |
 
-Créteil |
+Lyon |
 
-225 |
+162 |
 
-75 |
+54 |
 
-12 |
+9 |
+
+Bourgogne-Franche-Comté |
+
+Besançon |
+
+58 |
+
+19 |
+
+4 |
 
 Dijon |
 
@@ -82,93 +54,17 @@ Dijon |
 
 5 |
 
-Grenoble |
+Bretagne |
 
-160 |
+Rennes |
 
-53 |
+156 |
 
-9 |
+52 |
 
-Guadeloupe |
+8 |
 
-28 |
-
-9 |
-
-1 |
-
-Guyane |
-
-22 |
-
-7 |
-
-1 |
-
-Lille |
-
-218 |
-
-73 |
-
-12 |
-
-Limoges |
-
-32 |
-
-11 |
-
-3 |
-
-Lyon |
-
-164 |
-
-55 |
-
-9 |
-
-Martinique |
-
-22 |
-
-7 |
-
-1 |
-
-Montpellier |
-
-128 |
-
-43 |
-
-7 |
-
-Nancy-Metz |
-
-113 |
-
-38 |
-
-7 |
-
-Nantes |
-
-178 |
-
-59 |
-
-10 |
-
-Nice |
-
-91 |
-
-30 |
-
-5 |
+Centre-Val de Loire |
 
 Orléans-Tours |
 
@@ -178,51 +74,31 @@ Orléans-Tours |
 
 7 |
 
-Paris |
+Corse |
 
-122 |
+Corse |
 
-41 |
-
-11 |
-
-Poitiers |
-
-79 |
-
-26 |
+13 |
 
 5 |
+
+1 |
+
+Grand Est |
+
+Nancy-Metz |
+
+112 |
+
+37 |
+
+7 |
 
 Reims |
 
 65 |
 
 22 |
-
-5 |
-
-Rennes |
-
-157 |
-
-52 |
-
-8 |
-
-La Réunion |
-
-57 |
-
-19 |
-
-1 |
-
-Rouen |
-
-90 |
-
-30 |
 
 5 |
 
@@ -234,21 +110,183 @@ Strasbourg |
 
 5 |
 
+Guadeloupe |
+
+Guadeloupe |
+
+27 |
+
+9 |
+
+1 |
+
+Guyane |
+
+Guyane |
+
+22 |
+
+7 |
+
+1 |
+
+Hauts-de-France |
+
+Amiens |
+
+94 |
+
+32 |
+
+5 |
+
+Lille |
+
+217 |
+
+72 |
+
+12 |
+
+Ile-de-France |
+
+Créteil |
+
+223 |
+
+75 |
+
+12 |
+
+Paris |
+
+121 |
+
+40 |
+
+10 |
+
+Versailles |
+
+273 |
+
+91 |
+
+14 |
+
+Martinique |
+
+Martinique |
+
+22 |
+
+7 |
+
+1 |
+
+Mayotte |
+
+Mayotte |
+
+20 |
+
+7 |
+
+1 |
+
+Normandie |
+
+Normandie |
+
+158 |
+
+53 |
+
+9 |
+
+Nouvelle-Aquitaine |
+
+Bordeaux |
+
+148 |
+
+49 |
+
+8 |
+
+Limoges |
+
+31 |
+
+11 |
+
+3 |
+
+Poitiers |
+
+79 |
+
+26 |
+
+5 |
+
+Occitanie |
+
+Montpellier |
+
+128 |
+
+43 |
+
+7 |
+
 Toulouse |
 
-140 |
+139 |
+
+46 |
+
+8 |
+
+Pays de la Loire |
+
+Nantes |
+
+177 |
+
+59 |
+
+10 |
+
+Provence-Alpes-Côte d'Azur |
+
+Aix-Marseille |
+
+141 |
 
 47 |
 
 8 |
 
-Versailles |
+Nice |
 
-275 |
+90 |
 
-92 |
+30 |
 
-14 |
+5 |
+
+La Réunion |
+
+La Réunion |
+
+57 |
+
+19 |
+
+1 |
+
+|
 
 TOTAUX |
 
@@ -260,4 +298,4 @@ TOTAUX |
 
 NOTA :
 
-Conformément à l'article 9 de l'arrêté du 29 août 2018, les présentes dispositions sont applicables à compter de la promotion du 1er janvier 2019 et aux candidatures présentées au titre de cette même promotion.
+Conformément à l’article 4 de l’arrêté du 3 novembre 2020, ces dispositions sont applicables à compter de la promotion du 1er janvier 2021 et aux candidatures présentées au titre de cette même promotion.
