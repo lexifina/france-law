@@ -246,13 +246,15 @@ c) Le projet de vie exprimé par la personne.
 
 Chapitre 2 : Aides humaines
 
-Les besoins d'aides humaines peuvent être reconnus dans les trois domaines suivants :
+Les besoins d'aides humaines peuvent être reconnus dans les quatre domaines suivants :
 
 1° Les actes essentiels de l'existence ;
 
 2° La surveillance régulière ;
 
 3° Les frais supplémentaires liés à l'exercice d'une activité professionnelle ou d'une fonction élective.
+
+4° L'exercice de la parentalité.
 
 Section 1
 
@@ -282,9 +284,11 @@ L'acte “ Habillage ” comprend les activités “ s'habiller ” et “ s'hab
 
 Il convient, concernant la nature de l'aide, de tenir compte du fait qu'il peut s'agir d'un accompagnement pour la réalisation de l'acte, que l'aide peut porter sur la totalité de l'habillage ou seulement sur une partie (aide pour l'habillage du haut du corps ou au contraire du bas du corps).
 
-Alimentation : le temps quotidien d'aide pour les repas et assurer une prise régulière de boisson peut atteindre 1 heure et 45 minutes. Ce temps d'aide prend aussi en compte le besoin d'accompagnement ou l'installation de la personne. Il ne comprend pas le portage des repas ni le temps pour la préparation du repas lorsque ce temps est déjà pris en charge ou peut l'être à un autre titre que la compensation du handicap.
+Alimentation : le temps quotidien d'aide pour les repas et assurer une prise régulière de boisson peut atteindre 1 heure et 45 minutes. Ce temps d'aide prend aussi en compte le besoin d'accompagnement ou l'installation de la personne. En complément d'actes relevant des actes essentiels, ce temps intègre aussi les activités relatives à la préparation des repas et à la vaisselle. Il ne comprend pas le portage des repas lorsque ce temps est déjà pris en charge ou peut l'être à un autre titre que la compensation du handicap.
 
 L'acte “ Alimentation ” comprend les activités “ manger ” et “ boire ”, et le besoin d'accompagnement pour l'acte. Le temps d'aide prend aussi en compte le temps pour couper les aliments et/ ou les servir et assurer une prise régulière de boisson hors des repas.
+
+Les activités relatives à la préparation des repas et à la vaisselle consistent à cuisiner et servir un repas, ou à assurer un accompagnement pour la réalisation de cette activité, et incluent aussi le lavage de la vaisselle, des casseroles et ustensiles de cuisine ainsi que le nettoyage du plan de travail et de la table.
 
 Des facteurs tels que l'existence d'un besoin d'accompagnement ou de troubles de l'alimentation ou de la déglutition, notamment s'ils nécessitent le recours à une alimentation spéciale, hachée ou mixée, peuvent être de nature à justifier un temps d'aide quotidien important.
 
@@ -404,6 +408,20 @@ Le nombre maximum d'heures est fixé à 156 heures pour 12 mois. Les heures peuv
 
 Section 4
 
+La parentalité
+
+Les besoins d'aide humaine pris en compte au titre de l'exercice de la parentalité sont ceux d'une personne empêchée, totalement ou partiellement, du fait de son handicap, de réaliser des actes relatifs à l'exercice de la parentalité, dès lors que son enfant ou ses enfants ne sont pas en capacité, compte tenu de leur âge, de prendre soin d'eux-mêmes et d'assurer leur sécurité.
+
+L'élément de la prestation lié au besoin d'aide humaine au titre de l'exercice de la parentalité est reconnu individuellement et forfaitairement au parent bénéficiaire de la prestation de compensation du handicap, à hauteur de 30 heures par mois lorsque l'enfant a moins de trois ans et de 15 heures par mois lorsque l'enfant a entre trois et sept ans, auquel est appliqué le tarif fixé par arrêté du ministre chargé des personnes handicapées. Cet élément ne peut être attribué au-delà du septième anniversaire de l'enfant.
+
+Si le bénéficiaire de la prestation de compensation du handicap a plusieurs enfants, le nombre d'heures accordées au titre de la compensation des besoins liés à l'exercice de la parentalité est celui qui correspond au besoin reconnu pour le plus jeune de ses enfants.
+
+Cet élément est majoré de 50 % lorsque le bénéficiaire est en situation de monoparentalité.
+
+Cet élément peut être attribué pour une durée inférieure à un an pour la durée restant à courir entre l'âge de l'enfant et les limites d'âges définies à la présente section.
+
+Section 5
+
 Dispositions communes aux aides humaines
 
 1. Accès aux aides humaines
@@ -482,6 +500,10 @@ Les surcoûts des équipements d'utilisation courante sont pris en compte dès l
 
 Lorsque les équipements d'utilisation courante comportent des adaptations spécifiques, seules sont prises en compte les adaptations spécifiques. Toutefois, dans le cas où la combinaison d'un produit d'utilisation courante et d'une adaptation spécifique serait, à efficacité égale, moins onéreuse qu'un dispositif entièrement spécifique rendant le même service, la commission des droits et de l'autonomie des personnes handicapées peut prendre en compte l'ensemble de la combinaison, y compris l'élément d'utilisation courante.
 
+d) Aides techniques liées à l'exercice de la parentalité
+
+Une aide forfaitaire, dont le montant est fixé par arrêté du ministre chargé des personnes handicapées, est attribuée au parent bénéficiaire de la prestation de compensation du handicap, à la naissance de son enfant, aux troisième et sixième anniversaires de celui-ci. Le montant de cette aide forfaitaire n'est pas pris en compte dans le calcul du montant total prévu aux a à c du 3 du présent chapitre au titre des aides techniques.
+
 Chapitre 4 : Aménagement du logement
 
 L'attribution du troisième élément de la prestation de compensation peut porter sur des charges de nature différente : aménagement du logement, du véhicule et surcoût résultant du transport. Ce chapitre porte exclusivement sur l'aménagement du logement.
@@ -545,3 +567,7 @@ Lorsque la personne juge que l'adaptation du logement n'est pas techniquement ou
 (6) Prévue à l'article L. 165-1 du code de la sécurité sociale.
 
 (7) Leur durabilité prévisible doit être d'au moins un an.
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2020-1826 du 31 décembre 2020, les présentes dispositions sont applicables aux demandes de la prestation de compensation du handicap déposées à compter du 1er janvier 2021, ainsi qu'aux demandes en cours d'instruction devant la commission des droits et de l'autonomie des personnes handicapées à la date d'entrée en vigueur du décret précité.
