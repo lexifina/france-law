@@ -24,7 +24,7 @@ I. - Composition du dossier
 
 II. - Demande d'agrément
 
-L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché, à l'exception de l'avis de l'organisme technique central qui est directement transmis au préfet par l'organisme technique central.
+L'ensemble du dossier est transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché, à l'exception de l'avis de l'organisme technique central qui est directement transmis au préfet par l'organisme technique central. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 III. - Modification du dossier d'agrément
 
@@ -62,7 +62,7 @@ La notification doit être accompagnée :
 
 - d'une attestation visée par les exploitants des deux centres concernés et leurs réseaux éventuels, conformément au modèle de l'appendice 9 de la présente annexe ;
 
-- des pièces prévues aux points 2 et 4 du point I. Composition du dossier de la présente annexe, mises à jour.
+- des pièces prévues aux points 2, 4 et 7 du point I. Composition du dossier de la présente annexe, mises à jour.
 
 A défaut, l'attestation visée par l'ancien centre est remplacée par une copie de la lettre d'information transmise au centre par le contrôleur.
 
@@ -122,7 +122,7 @@ e) Le modèle du procès-verbal qui sera utilisé dans le centre de contrôle.
 
 II. - Demande d'agrément
 
-L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
+L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 La demande initiale d'agrément des installations doit être accompagnée des dossiers de demande d'agrément des contrôleurs rattachés au centre de contrôle. Ces dossiers sont constitués conformément aux dispositions du chapitre I de la présente annexe.
 
@@ -226,7 +226,7 @@ h) L'engagement du demandeur à respecter le cahier des charges susvisé.
 
 II. - Demande d'agrément
 
-L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle.
+L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation du centre de contrôle. Le dossier peut également être transmis par voie électronique ou saisi sur une interface informatique si la préfecture de destination a pris des dispositions en ce sens.
 
 La demande initiale d'agrément des installations doit être accompagnée des dossiers de demande d'agrément des contrôleurs rattachés au centre de contrôle. Ces dossiers sont constitués conformément aux dispositions du chapitre Ier de la présente annexe.
 
@@ -350,13 +350,17 @@ APPENDICE 2 : AGREMENT D'UN CONTROLEUR
 
 APPENDICE 3 : AGREMENT D'UN CONTROLEUR DECLARATION SUR L'HONNEUR
 
+Adresse complète du domicile :
+
+Adresse électronique :
+
 APPENDICE 4 : AGREMENT DES INSTALLATIONS DE CONTROLE DE VEHICULES LEGERS
 
 Déclaration sur l'honneur
 
 Je soussigné, (Nom et Prénom de la personne physique ou du représentant légal de la personne morale)
 
-Demandant l'agrément des installations de contrôle (adresse du centre)
+Demandant l'agrément des installations de contrôle (adresse du centre) Adresse électronique du centre :
 
 déclare sur l'honneur que les renseignements contenus dans le dossier de demande d'agrément pour les installations de contrôle situées à (localisation des installations)
 

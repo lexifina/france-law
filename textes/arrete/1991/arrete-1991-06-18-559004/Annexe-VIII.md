@@ -110,7 +110,7 @@ Arrêté du 8 janvier 2001
 
 |
 
-13. Taxis et voitures de transport avec chauffeur
+13. Taxis et voitures de transport avec chauffeur incluant les véhicules de collection utilisés comme voitures de transport avec chauffeur
 
 |
 

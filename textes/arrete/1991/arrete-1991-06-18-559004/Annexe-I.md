@@ -44,7 +44,7 @@ Pour les véhicules de transport sanitaire, le contrôleur vérifie, en complém
 
 Pour les véhicules destinés à l'enseignement de la conduite, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 12. Véhicules destinés à l'enseignement de la conduite .
 
-Pour les taxis et voitures de transport avec chauffeur, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 13. Taxis et voitures de transport avec chauffeur .
+Pour les taxis et voitures de transport avec chauffeur incluant les véhicules de collection affectés à l'usage de voiture de transport avec chauffeur, le contrôleur vérifie, en complément des points de contrôle pour les fonctions 0 à 8, les points de contrôle définis dans la présente annexe pour la fonction 13. Taxis et voitures de transport avec chauffeur .
 
 L'identification du véhicule est la première opération de contrôle.
 
@@ -5796,7 +5796,7 @@ Date de validité dépassée |
 
 Majeure |
 
-E. Véhicules de collection
+E. Véhicules de collection à l'exception de ceux utilisés comme voitures de transport avec chauffeur
 
 E. 1. Les défaillances :
 
