@@ -1,0 +1,5 @@
+# Article ANNEXE 2
+
+LISTE DES FICHES D'IMMOBILISATIONS EN SERVICE RELEVANT DES PROGRAMMES 112 ET 147 AU 31 DÉCEMBRE 2019
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : Légifrance - Publications officielles - Journal officiel - JORF n° 0316 du 31/12/2020 (legifrance.gouv.fr)
