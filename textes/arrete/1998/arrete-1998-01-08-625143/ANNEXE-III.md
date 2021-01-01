@@ -2,20 +2,54 @@
 
 ÉLÉMENTS DE CARACTÉRISATION DE LA VALEUR AGRONOMIQUE DES BOUES ET DES SOLS
 
-Analyses pour la caractérisation de la valeur agronomique des boues :
+Analyse de la valeur agronomique des boues |
 
-- matière sèche (en %) ; matière organique (en %) ;
+Analyse de la valeur agronomique des sols |
 
-- pH ;
+Matières sèches (en %) ; matière organique (%) |
 
-- azote total ; azote ammoniacal ;
+Humidité résiduelle (%) ; matière organique (%) |
 
-- rapport C/N ;
+pH |
 
-- phosphore total (en P2O5) ; potassium total (en K2O) ; calcium total (en CaO) ; magnésium total (en MgO) ;
+pH-eau |
 
-- oligo-éléments (B, Co, Cu, Fe, Mn, Mo, Zn). Cu, Zn et B seront mesurés à la fréquence prévue pour les éléments-traces à l'annexe IV. Les autres oligo-éléments seront analysés dans le cadre de la caractérisation initiale des boues.
+Azote total ; azote ammoniacal |
 
-Analyses pour la caractérisation de la valeur agronomique des sols :
+Azote total |
 
-- granulométrie, mêmes paramètres que précédemment en remplaçant les éléments concernés par P2O5 échangeable, K2O échangeable, MgO échangeable et CaO échangeable.
+Rapport C/ N |
+
+Rapport C/ N |
+
+Phosphore total (en P2O5) |
+
+Phosphore assimilable (en P2O5) |
+
+Potassium total (en K2O) |
+
+Potassium échangeable (en K2O) |
+
+Calcium total (en CaO) |
+
+Calcium échangeable (en CaO) |
+
+Magnésium total (en MgO) |
+
+Magnésium échangeable (en MgO) |
+
+Oligo-éléments biodisponibles (B, Co, Cu, Fe, Mn, Mo, Zn) |
+
+Oligo-éléments biodisponibles (B, Co, Cu, Fe, Mn, Mo, Zn) |
+
+Granulométrie |
+
+Capacité d'échange cationique (CEC) |
+
+Les analyses des oligo éléments Cu, Zn et B dans les boues sont réalisées à la fréquence prévue pour les éléments-traces à l'annexe IV. Les autres oligo-éléments sont analysés dans le cadre de la caractérisation initiale des boues.
+
+Dans les sols, les analyses des oligo-éléments sont réalisées dans le cadre de l'étude préalable d'épandage visée à l'article 2 puis à une fréquence minimale de dix ans.
+
+NOTA :
+
+Conformément à l'article 15 de l'arrêté du 15 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
