@@ -1,229 +1,475 @@
 # Article ANNEXE 2
 
-Culture de plantes à boissons
+1 |
 
-Culture de la vigne
+Culture de plantes à boissons |
 
-Pêche en mer
+2 |
 
-Pêche en eau douce
+Culture de la vigne |
 
-Aquaculture en mer
+3 |
 
-Aquaculture en eau douce
+Pêche en mer |
 
-Production de boissons alcooliques distillées
+4 |
 
-Fabrication de vins effervescents
+Pêche en eau douce |
+
+5 |
+
+Aquaculture en mer |
+
+6 |
+
+Aquaculture en eau douce |
+
+7 |
+
+Production de boissons alcooliques distillées |
+
+8 |
+
+Fabrication de vins effervescents |
+
+9 |
 
 Vinification
 
-Fabrication de cidre et de vins de fruits
+|
 
-Production d'autres boissons fermentées non distillées
+10 |
 
-Fabrication de bière
+Fabrication de cidre et de vins de fruits |
 
-Production de fromages sous appellation d'origine protégée ou indication géographique protégée
+11 |
 
-Fabrication de malt
+Production d'autres boissons fermentées non distillées |
 
-Centrales d'achat alimentaires
+12 |
 
-Autres intermédiaires du commerce en denrées et boissons
+Fabrication de bière |
 
-Commerce de gros de fruits et légumes
+13 |
 
-Herboristerie/ horticulture/ commerce de gros de fleurs et plans
+Production de fromages sous appellation d'origine protégée ou indication géographique protégée |
 
-Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles
+14 |
 
-Commerce de gros de boissons
+Fabrication de malt |
 
-Mareyage et commerce de gros de poissons, coquillages, crustacés
+15 |
 
-Commerce de gros alimentaire spécialisé divers
+Centrales d'achat alimentaires |
 
-Commerce de gros de produits surgelés
+16 |
 
-Commerce de gros alimentaire
+Autres intermédiaires du commerce en denrées et boissons |
 
-Commerce de gros non spécialisé
+17 |
 
-Commerce de gros de textiles
+Commerce de gros de fruits et légumes |
 
-Intermédiaires spécialisés dans le commerce d'autres produits spécifiques
+18 |
 
-Commerce de gros d'habillement et de chaussures
+Herboristerie/ horticulture/ commerce de gros de fleurs et plans |
 
-Commerce de gros d'autres biens domestiques
+19 |
 
-Commerce de gros de vaisselle, verrerie et produits d'entretien
+Commerce de gros de produits laitiers, œufs, huiles et matières grasses comestibles |
 
-Commerce de gros de fournitures et équipements divers pour le commerce et les services
+20 |
 
-Commerce de détail en magasin situé dans une zone touristique internationale mentionnée à l'article L. 3132-24 du code du travail, à l'exception du commerce alimentaire ou à prédominance alimentaire (hors commerce de boissons en magasin spécialisé), du commerce d'automobiles, de motocyles, de carburants, de charbons et combustibles, d'équipements du foyer, d'articles médicaux et orthopédiques et de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux
+Commerce de gros de boissons |
 
-Blanchisserie-teinturerie de gros
+21 |
 
-Stations-service
+Mareyage et commerce de gros de poissons, coquillages, crustacés |
 
-Enregistrement sonore et édition musicale
+22 |
 
-Editeurs de livres
+Commerce de gros alimentaire spécialisé divers |
 
-Services auxiliaires des transports aériens
+23 |
 
-Services auxiliaires de transport par eau
+Commerce de gros de produits surgelés |
 
-Boutique des galeries marchandes et des aéroports
+24 |
 
-Autres métiers d'art
+Commerce de gros alimentaire |
 
-Paris sportifs
+25 |
 
-Activités liées à la production de matrices sonores originales, sur bandes, cassettes, CD, la mise à disposition des enregistrements, leur promotion et leur distribution
+Commerce de gros non spécialisé |
 
-Tourisme de savoir-faire : entreprises réalisant des ventes directement sur leur site de production aux visiteurs et qui ont obtenu le label : “ entreprise du patrimoine vivant ” en application du décret n° 2006-595 du 23 mai 2006 relatif à l'attribution du label “ entreprise du patrimoine vivant ” ou qui sont titulaires de la marque d'Etat “ Qualité TourismeTM ” au titre de la visite d'entreprise ou qui utilisent des savoir-faire inscrits sur la liste représentative du patrimoine culturel immatériel de l'humanité prévue par la convention pour la sauvegarde du patrimoine culturel immatériel adoptée à Paris le 17 octobre 2003, dans la catégorie des savoir-faire liés à l'artisanat traditionnel
+26 |
 
-Activités de sécurité privée
+Commerce de gros de textiles |
 
-Nettoyage courant des bâtiments
+27 |
 
-Autres activités de nettoyage des bâtiments et nettoyage industriel
+Intermédiaires spécialisés dans le commerce d'autres produits spécifiques |
 
-Fabrication de foie gras
+28 |
 
-Préparation à caractère artisanal de produits de charcuterie
+Commerce de gros d'habillement et de chaussures |
 
-Pâtisserie
+29 |
 
-Commerce de détail de viandes et de produits à base de viande en magasin spécialisé
+Commerce de gros d'autres biens domestiques |
 
-Commerce de détail de viande, produits à base de viandes sur éventaires et marchés
+30 |
 
-Fabrication de vêtements de travail
+Commerce de gros de vaisselle, verrerie et produits d'entretien |
 
-Reproduction d'enregistrements
+31 |
 
-Fabrication de verre creux
+Commerce de gros de fournitures et équipements divers pour le commerce et les services |
 
-Fabrication d'articles céramiques à usage domestique ou ornemental
+32 |
 
-Fabrication de coutellerie
+Commerce de détail en magasin situé dans une zone touristique internationale mentionnée à l'article L. 3132-24 du code du travail, à l'exception du commerce alimentaire ou à prédominance alimentaire (hors commerce de boissons en magasin spécialisé), du commerce d'automobiles, de motocyles, de carburants, de charbons et combustibles, d'équipements du foyer, d'articles médicaux et orthopédiques et de fleurs, plantes, graines, engrais, animaux de compagnie et aliments pour ces animaux |
 
-Fabrication d'articles métalliques ménagers
+33 |
 
-Fabrication d'appareils ménagers non électriques
+Blanchisserie-teinturerie de gros |
 
-Fabrication d'appareils d'éclairage électrique
+34 |
 
-Travaux d'installation électrique dans tous locaux
+Stations-service |
 
-Aménagement de lieux de vente
+35 |
 
-Commerce de détail de fleurs, en pot ou coupées, de compositions florales, de plantes et de graines
+Enregistrement sonore et édition musicale |
 
-Commerce de détail de livres sur éventaires et marchés
+36 |
 
-Courtier en assurance voyage
+Editeurs de livres |
 
-Location et exploitation d'immeubles non résidentiels de réception
+37 |
 
-Conseil en relations publiques et communication
+Services auxiliaires des transports aériens |
 
-Activités des agences de publicité
+38 |
 
-Activités spécialisées de design
+Services auxiliaires de transport par eau |
 
-Activités spécialisées, scientifiques et techniques diverses
+39 |
 
-Services administratifs d'assistance à la demande de visas
+Boutique des galeries marchandes et des aéroports |
 
-Autre création artistique
+40 |
 
-Blanchisserie-teinturerie de détail
+Autres métiers d'art |
 
-Construction de maisons mobiles pour les terrains de camping
+41 |
 
-Fabrication de vêtements de cérémonie, d'accessoires de ganterie et de chapellerie et de costumes pour les grands évènements
+Paris sportifs |
 
-Vente par automate
+42 |
 
-Commerce de gros de viandes et de produits à base de viande
+Activités liées à la production de matrices sonores originales, sur bandes, cassettes, CD, la mise à disposition des enregistrements, leur promotion et leur distribution |
 
-Garde d'animaux de compagnie avec ou sans hébergement
+43 |
 
-Fabrication de dentelle et broderie
+Tourisme de savoir-faire : entreprises réalisant des ventes directement sur leur site de production, aux visiteurs et qui ont obtenu le label : entreprise du patrimoine vivant en application du décret n° 2006-595 du 23 mai 2006 relatif à l'attribution du label entreprise du patrimoine vivant ou qui sont titulaires de la marque d'Etat Qualité Tourisme TM au titre de la visite d'entreprise ou qui utilisent des savoir-faire inscrits sur la liste représentative du patrimoine culturel immatériel de l'humanité prévue par la convention pour la sauvegarde du patrimoine culturel immatériel adoptée à Paris le 17 octobre 2003, dans la catégorie des savoir-faire liés à l'artisanat traditionnel |
 
-Couturiers
+44 |
 
-Ecoles de français langue étrangère
+Activités de sécurité privée |
 
-Commerce des vêtements de cérémonie, d'accessoires de ganterie et de chapellerie et de costumes pour les grands évènements
+45 |
 
-Articles pour fêtes et divertissements, panoplies et déguisements
+Nettoyage courant des bâtiments |
 
-Commerce de gros de vêtements de travail
+46 |
 
-Antiquaires
+Autres activités de nettoyage des bâtiments et nettoyage industriel |
 
-Equipementiers de salles de projection cinématographiques
+47 |
 
-Entreprises artisanales réalisant au moins 50 % de leur chiffre d'affaires par la vente de leurs produits ou services sur les foires et salons
+Fabrication de foie gras |
 
-Métiers graphiques, métiers d'édition spécifique, de communication et de conception de stands et d'espaces éphémères réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+48 |
 
-Prestation de services spécialisés dans l'aménagement et l'agencement des stands et lieux lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la production de spectacles, l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+Préparation à caractère artisanal de produits de charcuterie |
 
-Activités immobilières, lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès.
+49 |
 
-Entreprises de transport réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+Pâtisserie |
 
-Entreprises du numérique réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+50 |
 
-Fabrication de linge de lit et de table lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie et de la restauration
+Commerce de détail de viandes et de produits à base de viande en magasin spécialisé |
 
-Fabrication de produits alimentaires lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises des secteurs de l'évènementiel, de l'hôtellerie ou de la restauration
+51 |
 
-Fabrication d'équipements de cuisines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+Commerce de détail de viande, produits à base de viandes sur éventaires et marchés |
 
-Installation et maintenance de cuisines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+52 |
 
-Elevage de pintades, de canards et d'autres oiseaux (hors volaille) lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+Fabrication de vêtements de travail |
 
-Prestations d'accueil lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel
+53 |
 
-Prestataires d'organisation de mariage lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel ou de la restauration
+Reproduction d'enregistrements |
 
-Location de vaisselle lorsque au moins 50 % du chiffre d'affaire est réalisé avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès
+54 |
 
-Fabrication des nappes et serviettes de fibres de cellulose lorsque au moins 50 % du chiffre d'affaire est réalisé avec une ou des entreprises du secteur de la restauration
+Fabrication de verre creux |
 
-Collecte des déchets non dangereux lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+55 |
 
-Exploitations agricoles et entreprises de transformation et conservation de produits de la mer des filières dites festives lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration
+Fabrication d'articles céramiques à usage domestique ou ornemental |
 
-Activités des agences de presse lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, du tourisme, du sport ou de la culture
+56 |
 
-Editeurs de presse lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel
+Fabrication de coutellerie |
 
-Entreprises de conseil spécialisées lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+57 |
 
-Commerce de gros (commerce interentreprises) de matériel électrique lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+Fabrication d'articles métalliques ménagers |
 
-Activités des agents et courtiers d'assurance lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+58 |
 
-Conseils pour les affaires et autres conseils de gestion lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+Fabrication d'appareils ménagers non électriques |
 
-Etudes de marchés et sondages lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du sport
+59 |
 
-Activités des agences de placement de main-d'œuvre lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, de l'hôtellerie ou de la restauration
+Fabrication d'appareils d'éclairage électrique |
 
-Activités des agences de travail temporaire lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, de l'hôtellerie ou de la restauration
+60 |
 
-Autres mises à disposition de ressources humaines lorsque au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, de l'hôtellerie ou de la restauration
+Travaux d'installation électrique dans tous locaux |
 
-Médias locaux
+61 |
 
-Correspondants locaux de presse
+Aménagement de lieux de vente |
+
+62 |
+
+Commerce de détail de fleurs, en pot ou coupées, de compositions florales, de plantes et de graines |
+
+63 |
+
+Commerce de détail de livres sur éventaires et marchés |
+
+64 |
+
+Courtier en assurance voyage |
+
+65 |
+
+Location et exploitation d'immeubles non résidentiels de réception |
+
+66 |
+
+Conseil en relations publiques et communication |
+
+67 |
+
+Activités des agences de publicité |
+
+68 |
+
+Activités spécialisées de design |
+
+69 |
+
+Activités spécialisées, scientifiques et techniques diverses |
+
+70 |
+
+Services administratifs d'assistance à la demande de visas |
+
+71 |
+
+Autre création artistique |
+
+72 |
+
+Blanchisserie-teinturerie de détail |
+
+73 |
+
+Construction de maisons mobiles pour les terrains de camping |
+
+74 |
+
+Fabrication de vêtements de cérémonie, d'accessoires de ganterie et de chapellerie et de costumes pour les grands évènements |
+
+75 |
+
+Vente par automate |
+
+76 |
+
+Commerce de gros de viandes et de produits à base de viande |
+
+77 |
+
+Garde d'animaux de compagnie avec ou sans hébergement |
+
+78 |
+
+Fabrication de dentelle et broderie |
+
+79 |
+
+Couturiers |
+
+80 |
+
+Ecoles de français langue étrangère |
+
+81 |
+
+Commerce des vêtements de cérémonie, d'accessoires de ganterie et de chapellerie et de costumes pour les grands évènements |
+
+82 |
+
+Articles pour fêtes et divertissements, panoplies et déguisements |
+
+83 |
+
+Commerce de gros de vêtements de travail |
+
+84 |
+
+Antiquaires |
+
+85 |
+
+Equipementiers de salles de projection cinématographiques |
+
+86 |
+
+Edition et diffusion de programmes radios à audience locale, éditions de chaînes de télévision à audience locale |
+
+87 |
+
+Correspondants locaux de presse |
+
+88 |
+
+Fabrication de skis, fixations et bâtons pour skis, chaussures de ski |
+
+89 |
+
+Réparation de chaussures et d'articles en cuir |
+
+90 |
+
+Entreprises artisanales réalisant au moins 50 % de leur chiffre d'affaires par la vente de leurs produits ou services sur les foires et salons |
+
+91 |
+
+Métiers graphiques, métiers d'édition spécifique, de communication et de conception de stands et d'espaces éphémères réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès |
+
+92 |
+
+Prestation de services spécialisés dans l'aménagement et l'agencement des stands, hôtels, restaurants et lieux lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la production de spectacles, l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès, de l'hôtellerie et de la restauration |
+
+93 |
+
+Activités immobilières, lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès. |
+
+94 |
+
+Entreprises de transport réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès. |
+
+95 |
+
+Entreprises du numérique réalisant au moins 50 % de leur chiffre d'affaires avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès |
+
+96 |
+
+Fabrication de linge de lit et de table lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie et de la restauration |
+
+97 |
+
+Fabrication de produits alimentaires lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises des secteurs de l'évènementiel, de l'hôtellerie ou de la restauration |
+
+98 |
+
+Fabrication d'équipements de cuisines lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+
+99 |
+
+Installation et maintenance de cuisines lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+
+100 |
+
+Elevage de pintades, de canards et d'autres oiseaux (hors volaille) lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+
+101 |
+
+Prestations d'accueil lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'événementiel |
+
+102 |
+
+Prestataires d'organisation de mariage lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'événementiel ou de la restauration |
+
+103 |
+
+Location de vaisselle lorsqu'au moins 50 % du chiffre d'affaire est réalisé avec une ou des entreprises du secteur de l'organisation de foires, d'évènements publics ou privés, de salons ou séminaires professionnels ou de congrès |
+
+104 |
+
+Fabrication des nappes et serviettes de fibres de cellulose lorsqu'au moins 50 % du chiffre d'affaire est réalisé avec une ou des entreprises du secteur de la restauration |
+
+105 |
+
+Collecte des déchets non dangereux lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+
+106 |
+
+Exploitations agricoles des filières dites festives lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+
+107 |
+
+Entreprises de transformation et conservation de poisson, de crustacés et de mollusques des filières dites festives lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+
+108 |
+
+Activités des agences de presse lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'événementiel, du tourisme, du sport ou de la culture |
+
+109 |
+
+Edition de journaux, éditions de revues et périodiques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, du tourisme, du sport ou de la culture |
+
+110 |
+
+Entreprises de conseil spécialisées lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, du tourisme, du sport ou de la culture |
+
+111 |
+
+Commerce de gros (commerce interentreprises) de matériel électrique lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur du secteur de l'évènementiel, du tourisme, du sport ou de la culture |
+
+112 |
+
+Activités des agents et courtiers d'assurance lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, du tourisme, du sport ou de la culture |
+
+113 |
+
+Conseils pour les affaires et autres conseils de gestion lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'évènementiel, du tourisme, du sport ou de la culture |
+
+114 |
+
+Etudes de marchés et sondages lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises de l'évènementiel, du tourisme, du sport ou de la culture |
+
+115 |
+
+Activités des agences de placement de main-d'œuvre lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'événementiel, de l'hôtellerie ou de la restauration |
+
+116 |
+
+Activités des agences de travail temporaire lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'événementiel, de l'hôtellerie ou de la restauration |
+
+117 |
+
+Autres mises à disposition de ressources humaines lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'événementiel, de l'hôtellerie ou de la restauration |
+
+118 |
+
+Fabrication de meubles de bureau et de magasin lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie ou de la restauration |

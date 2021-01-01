@@ -1,135 +1,269 @@
 # Article ANNEXE 1
 
-Téléphériques et remontées mécaniques
+1 |
 
-Hôtels et hébergement similaire
+Téléphériques et remontées mécaniques |
 
-Hébergement touristique et autre hébergement de courte durée
+2 |
 
-Terrains de camping et parcs pour caravanes ou véhicules de loisirs
+Hôtels et hébergement similaire |
 
-Restauration traditionnelle
+3 |
 
-Cafétérias et autres libres-services
+Hébergement touristique et autre hébergement de courte durée |
 
-Restauration de type rapide
+4 |
 
-Services de restauration collective sous contrat, de cantines et restaurants d'entreprise
+Terrains de camping et parcs pour caravanes ou véhicules de loisirs |
 
-Services des traiteurs
+5 |
 
-Débits de boissons
+Restauration traditionnelle |
 
-Projection de films cinématographiques et autres industries techniques du cinéma et de l'image animée
+6 |
 
-Post-production de films cinématographiques, de vidéo et de programmes de télévision
+Cafétérias et autres libres-services |
 
-Distribution de films cinématographiques
+7 |
 
-Conseil et assistance opérationnelle apportés aux entreprises et aux autres organisations de distribution de films cinématographiques en matière de relations publiques et de communication
+Restauration de type rapide |
 
-Location et location-bail d'articles de loisirs et de sport
+8 |
 
-Activités des agences de voyage
+Services de restauration collective sous contrat, de cantines et restaurants d'entreprise |
 
-Activités des voyagistes
+9 |
 
-Autres services de réservation et activités connexes
+Services des traiteurs |
 
-Organisation de foires, évènements publics ou privés, salons ou séminaires professionnels, congrès
+10 |
 
-Agences de mannequins
+Débits de boissons |
 
-Entreprises de détaxe et bureaux de change (changeurs manuels)
+11 |
 
-Enseignement de disciplines sportives et d'activités de loisirs
+Projection de films cinématographiques et autres industries techniques du cinéma et de l'image animée |
 
-Arts du spectacle vivant, cirques
+12 |
 
-Activités de soutien au spectacle vivant
+Post-production de films cinématographiques, de vidéo et de programmes de télévision |
 
-Création artistique relevant des arts plastiques
+13 |
 
-Galeries d'art
+Distribution de films cinématographiques |
 
-Artistes auteurs
+14 |
 
-Gestion de salles de spectacles et production de spectacles
+Conseil et assistance opérationnelle apportés aux entreprises et aux autres organisations de distribution de films cinématographiques en matière de relations publiques et de communication |
 
-Gestion des musées
+15 |
 
-Guides conférenciers
+Location et location-bail d'articles de loisirs et de sport |
 
-Gestion des sites et monuments historiques et des attractions touristiques similaires
+16 |
 
-Gestion des jardins botaniques et zoologiques et des réserves naturelles
+Activités des agences de voyage |
 
-Gestion d'installations sportives
+17 |
 
-Activités de clubs de sports
+Activités des voyagistes |
 
-Activité des centres de culture physique
+18 |
 
-Autres activités liées au sport
+Autres services de réservation et activités connexes |
 
-Activités des parcs d'attractions et parcs à thèmes, fêtes foraines
+19 |
 
-Autres activités récréatives et de loisirs
+Organisation de foires, évènements publics ou privés, salons ou séminaires professionnels, congrès |
 
-Exploitations de casinos
+20 |
 
-Entretien corporel
+Agences de mannequins |
 
-Trains et chemins de fer touristiques
+21 |
 
-Transport transmanche
+Entreprises de détaxe et bureaux de change (changeurs manuels) |
 
-Transport aérien de passagers
+22 |
 
-Transport de passagers sur les fleuves, les canaux, les lacs, location de bateaux de plaisance
+Enseignement de disciplines sportives et d'activités de loisirs |
 
-Transports routiers réguliers de voyageurs
+23 |
 
-Autres transports routiers de voyageurs
+Arts du spectacle vivant, cirques |
 
-Transport maritime et côtier de passagers
+24 |
 
-Production de films et de programmes pour la télévision
+Activités de soutien au spectacle vivant |
 
-Production de films institutionnels et publicitaires
+25 |
 
-Production de films pour le cinéma
+Création artistique relevant des arts plastiques |
 
-Activités photographiques
+26 |
 
-Enseignement culturel
+Galeries d'art |
 
-Traducteurs-interprètes
+27 |
 
-Prestation et location de chapiteaux, tentes, structures, sonorisation, photographie, lumière et pyrotechnie
+Artistes auteurs |
 
-Transports de voyageurs par taxis et véhicules de tourisme avec chauffeur
+28 |
 
-Location de courte durée de voitures et de véhicules automobiles légers
+Gestion de salles de spectacles et production de spectacles |
 
-Fabrication de structures métalliques et de parties de structures
+29 |
 
-Régie publicitaire de médias
+Gestion des musées |
 
-Accueils collectifs de mineurs en hébergement touristique
+30 |
 
-Agences artistiques de cinéma
+Guides conférenciers |
 
-Fabrication et distribution de matériels scéniques, audiovisuels et évènementiels
+31 |
 
-Exportateurs de films
+Gestion des sites et monuments historiques et des attractions touristiques similaires |
 
-Commissaires d'exposition
+32 |
 
-Scénographes d'exposition
+Gestion des jardins botaniques et zoologiques et des réserves naturelles |
 
-Magasins de souvenirs et de piété
+33 |
 
-Entreprises de covoiturage
+Gestion d'installations sportives |
 
-Entreprises de transport ferroviaire international de voyageurs.
+34 |
+
+Activités de clubs de sports |
+
+35 |
+
+Activité des centres de culture physique |
+
+36 |
+
+Autres activités liées au sport |
+
+37 |
+
+Activités des parcs d'attractions et parcs à thèmes, fêtes foraines |
+
+38 |
+
+Autres activités récréatives et de loisirs |
+
+39 |
+
+Exploitations de casinos |
+
+40 |
+
+Entretien corporel |
+
+41 |
+
+Trains et chemins de fer touristiques |
+
+42 |
+
+Transport transmanche |
+
+43 |
+
+Transport aérien de passagers |
+
+44 |
+
+Transport de passagers sur les fleuves, les canaux, les lacs, location de bateaux de plaisance |
+
+45 |
+
+Transports routiers réguliers de voyageurs |
+
+46 |
+
+Autres transports routiers de voyageurs |
+
+47 |
+
+Transport maritime et côtier de passagers |
+
+48 |
+
+Production de films et de programmes pour la télévision |
+
+49 |
+
+Production de films institutionnels et publicitaires |
+
+50 |
+
+Production de films pour le cinéma |
+
+51 |
+
+Activités photographiques |
+
+52 |
+
+Enseignement culturel |
+
+53 |
+
+Traducteurs-interprètes |
+
+54 |
+
+Prestation et location de chapiteaux, tentes, structures, sonorisation, photographie, lumière et pyrotechnie |
+
+55 |
+
+Transports de voyageurs par taxis et véhicules de tourisme avec chauffeur |
+
+56 |
+
+Location de courte durée de voitures et de véhicules automobiles légers |
+
+57 |
+
+Fabrication de structures métalliques et de parties de structures |
+
+58 |
+
+Régie publicitaire de médias |
+
+59 |
+
+Accueils collectifs de mineurs en hébergement touristique |
+
+60 |
+
+Agences artistiques de cinéma |
+
+61 |
+
+Fabrication et distribution de matériels scéniques, audiovisuels et évènementiels |
+
+62 |
+
+Exportateurs de films |
+
+63 |
+
+Commissaires d'exposition |
+
+64 |
+
+Scénographes d'exposition |
+
+65 |
+
+Magasins de souvenirs et de piété |
+
+66 |
+
+Entreprises de covoiturage |
+
+67 |
+
+Entreprises de transport ferroviaire international de voyageurs |
