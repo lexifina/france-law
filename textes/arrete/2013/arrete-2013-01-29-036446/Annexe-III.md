@@ -2,6 +2,8 @@
 
 PROGRAMME DES ÉPREUVES SPORTIVES
 
+Programme des épreuves sportives
+
 1. Nature des épreuves
 
 Pour chaque candidat, les épreuves sportives se déroulent sur une demi-journée et comprennent les épreuves suivantes qui, sauf dispositions particulières au présent arrêté, sont exécutées conformément aux règlements des fédérations françaises d'athlétisme et de natation :
@@ -10,957 +12,503 @@ Pour chaque candidat, les épreuves sportives se déroulent sur une demi-journé
 
 - une épreuve de tractions et d'abdominaux :
 
-- tractions : il s'agit de fléchir de manière simultanée les bras en pronation jusqu'à ce que le menton soit au-dessus de la barre puis de redescendre jusqu'à la position bras tendus. La distance entre les mains doit correspondre à la largeur des épaules du sujet. Un maximum de tractions doit être exécuté sans limite de temps ;
+- tractions : il s'agit de fléchir de manière simultanée les bras en pronation jusqu'à ce que le menton soit au dessus de la barre puis de redescendre jusqu'à la position bras tendus. La distance entre les mains doit correspondre à la largeur des épaules du sujet. Un maximum de tractions doit être exécuté sans limite de temps ;
 
-- abdominaux : il s'agit de réaliser une flexion du tronc jusqu'au contact des coudes avec les cuisses puis de revenir à la position de départ sans que les épaules ni la tête ne touchent le sol. Le sujet est allongé sur le dos, genoux et hanches fléchis à 90°. Les pieds, en appui contre un mur ou sur une chaise, sont tenus par un partenaire ou bloqués contre un espalier. Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum. Un maximum de répétitions doit être exécuté en 2 minutes ;
+- abdominaux : il s'agit de réaliser une flexion du tronc jusqu'au contact des coudes avec les cuisses puis de revenir à la position de départ sans que les épaules ni la tête ne touchent le sol. Le sujet est allongé sur le dos, genoux et hanches fléchis à 90°.Les pieds en appui contre un mur ou sur une chaise, sont tenus par un partenaire ou bloqués contre un espalier. Les épaules doivent être décollées du sol, les coudes fléchis, les mains sur la face avant des épaules, les bras en contact avec la poitrine et le menton placé contre le sternum. Un maximum de répétitions doit être exécuté en 2 minutes ;
 
-- une course de vitesse : il s'agit d'une course de 50 mètres, effectuée sur une piste et en couloir, le départ pouvant s'effectuer à l'aide d'un starting-block ;
+- une course de vitesse : il s'agit d'une course de 50 mètres, effectuée sur une piste et en couloir, le départ pouvant s'effectuer à l'aide d'un starting blocks ;
 
-- une course de demi-fond : il s'agit d'une course de 1 500 mètres, avec départ en ligne, effectuée sur piste et par séries n'excédant pas vingt-cinq coureurs.
+- une course de demi-fond : il s'agit d'une course de 1500 mètres, avec départ en ligne, effectuée sur piste et par série n'excédant pas vingt-cinq coureurs.
 
 2. Barèmes de cotation
 
-Les différentes épreuves sont exécutées et notées conformément aux barèmes donnés aux paragraphes ci-après.
+Les différentes épreuves sont exécutées et notées conformément aux barèmes donnés aux paragraphes ci-après
 
 |
 
-HOMMES
+HOMMMES |
 
-|
-
-FEMMES
-
-|
-
-Tractions
-
-|
-
-Abdominaux
-
-|
-
-Course
-
-50 m
-
-|
-
-Course
-
-1 500 m
-
-|
-
-Natation
-
-50 m
-
-|
-
-Tractions
-
-|
-
-Abdominaux
-
-|
-
-Course
-
-50 m
-
-|
-
-Course
-
-1 500 m
-
-|
-
-Natation
-
-50 m
-
-|
-
-20
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"47
-
-|
-
-4'54"
-
-|
-
-31"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-7"61
-
-|
-
-6'29"
-
-|
-
-37"
-
-|
-
-19
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"51
-
-|
-
-5'01"
-
-|
-
-33"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-7"69
-
-|
-
-6'38"
-
-|
-
-38"
-
-|
-
-18
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"56
-
-|
-
-5'06"
-
-|
-
-35"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-7"77
-
-|
-
-6'42"
-
-|
-
-40"
-
-|
-
-17
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"61
-
-|
-
-5'13"
-
-|
-
-37"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-7"86
-
-|
-
-6'59"
-
-|
-
-43"
-
-|
-
-16
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"65
-
-|
-
-5'20"
-
-|
-
-39"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-7"96
-
-|
-
-7'11"
-
-|
-
-46"
-
-|
-
-15
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"70
-
-|
-
-5'27"
-
-|
-
-41"
-
-|
-
-/
-
-|
-
-/
+FEMMES |
 
-|
-
-8"07
-
-|
-
-7'24"
-
-|
-
-49"
-
-|
-
-14
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"82
-
-|
-
-5'33"
-
-|
-
-43"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-8"18
-
-|
-
-7'43"
-
-|
-
-52"
-
-|
-
-13
-
-|
-
-/
-
-|
-
-/
-
-|
-
-6"89
-
-|
-
-5'39"
+tractions |
 
-|
-
-45"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-8"31
-
-|
-
-7'54"
-
-|
-
-55"
-
-|
-
-12
-
-|
-
-/
-
-|
-
-/
-
-|
+abdominaux |
 
-6"97
+Course |
 
-|
-
-5'45"
-
-|
-
-47"
-
-|
-
-/
-
-|
-
-/
-
-|
-
-8"44
+Course |
 
-|
-
-8'10"
-
-|
-
-58"
-
-|
+Natation |
 
-11
+tractions |
 
-|
-
-/
-
-|
+abdominaux |
 
-/
+Course |
 
-|
-
-7"06
-
-|
+Course |
 
-5'50"
+Natation |
 
-|
+50m |
 
-49"
+1500m |
 
-|
+50m |
 
-/
+50m |
 
-|
+1500m |
 
-/
+50m |
 
-|
+20 |
 
-8"58
+/ |
 
-|
+/ |
 
-8'29"
+6"47 |
 
-|
+4'54" |
 
-1'02"
+31" |
 
-|
+/ |
 
-10
+/ |
 
-|
+7"61 |
 
-12
+6'29" |
 
-|
+37" |
 
-55
+19 |
 
-|
+/ |
 
-7"15
+/ |
 
-|
+6"51 |
 
-5'55"
+5'01" |
 
-|
+33" |
 
-52"
+/ |
 
-|
+/ |
 
-5
+7"69 |
 
-|
+6'38" |
 
-45
+38" |
 
-|
+18 |
 
-8"73
+/ |
 
-|
+/ |
 
-8'46"
+6"56 |
 
-|
+5'06" |
 
-1'06"
+35" |
 
-|
+/ |
 
-9
+/ |
 
-|
+7"77 |
 
-10
+6'42" |
 
-|
+40" |
 
-50
+17 |
 
-|
+/ |
 
-7"25
+/ |
 
-|
+6"61 |
 
-6'00"
+5'13" |
 
-|
+37" |
 
-55"
+/ |
 
-|
+/ |
 
-|
+7"86 |
 
-40
+6'59" |
 
-|
+43" |
 
-8"89
+16 |
 
-|
+/ |
 
-9'09"
+/ |
 
-|
+6"65 |
 
-1'10"
+5'20" |
 
-|
+39" |
 
-8
+/ |
 
-|
+/ |
 
-9
+7"96 |
 
-|
+7'11" |
 
-45
+46" |
 
-|
+15 |
 
-7"36
+/ |
 
-|
+/ |
 
-6'05"
+6"70 |
 
-|
+5'27" |
 
-58"
+41" |
 
-|
+/ |
 
-4
+/ |
 
-|
+8"07 |
 
-35
+7'24" |
 
-|
+49" |
 
-9"06
+14 |
 
-|
+/ |
 
-9'33"
+/ |
 
-|
+6"82 |
 
-1'15"
+5'33" |
 
-|
+43" |
 
-7
+/ |
 
-|
+/ |
 
-8
+8"18 |
 
-|
+7'43" |
 
-40
+52" |
 
-|
+13 |
 
-7"47
+/ |
 
-|
+/ |
 
-6'12"
+6"89 |
 
-|
+5'39" |
 
-1'01"
+45" |
 
-|
+/ |
 
-|
+/ |
 
-30
+8"31 |
 
-|
+7'54" |
 
-9"25
+55" |
 
-|
+12 |
 
-9'58"
+/ |
 
-|
+/ |
 
-1'20"
+6"97 |
 
-|
+5'45" |
 
-6
+47" |
 
-|
+/ |
 
-7
+/ |
 
-|
+8"44 |
 
-35
+8'10 |
 
-|
+58" |
 
-7"60
+11 |
 
-|
+/ |
 
-6'19"
+/ |
 
-|
+7"06 |
 
-1'05"
+5'50" |
 
-|
+49" |
 
-3
+/ |
 
-|
+/ |
 
-25
+8"58 |
 
-|
+8'29" |
 
-9"45
+1'02" |
 
-|
+10 |
 
-10'20"
+12 |
 
-|
+55 |
 
-1'25"
+7"15 |
 
-|
+5'55" |
 
-5
+52" |
 
-|
+5 |
 
-6
+45 |
 
-|
+8"73 |
 
-30
+8'46" |
 
-|
+1'06" |
 
-7"70
+9 |
 
-|
+10 |
 
-6'37"
+50 |
 
-|
+7"25 |
 
-1'09"
+6'00" |
 
-|
+55" |
 
 |
 
-20
+40 |
 
-|
+8"89 |
 
-9"70
+9'09" |
 
-|
+1'10" |
 
-10'50"
+8 |
 
-|
+9 |
 
-1'30"
+45 |
 
-|
+7"36 |
 
-4
+6'05" |
 
-|
+58" |
 
-5
+4 |
 
-|
+35 |
 
-27
+9"06 |
 
-|
+9'33" |
 
-7"88
+1'15" |
 
-|
+7 |
 
-6'35"
+8 |
 
-|
+40 |
 
-1'13"
+7"47 |
 
-|
+6'12" |
 
-2
+1'01" |
 
 |
 
-17
+30 |
 
-|
+9"25 |
 
-9"89
-
-|
+9'58" |
 
-11'27"
+1'20" |
 
-|
+6 |
 
-1'35"
+7 |
 
-|
+35 |
 
-3
+7"60 |
 
-|
+6'19" |
 
-4
+1'05" |
 
-|
+3 |
 
-24
+25 |
 
-|
+9"45 |
 
-8"03
+10'20" |
 
-|
+1'25" |
 
-6'45"
+5 |
 
-|
+6 |
 
-1'17"
+30 |
 
-|
+7"70 |
 
-|
+6'37" |
 
-15
+1'09" |
 
 |
 
-10"14
+20 |
 
-|
+9"70 |
 
-12'02"
+10'50" |
 
-|
+1'30" |
 
-1'40"
+4 |
 
-|
+5 |
 
-2
+27 |
 
-|
+7"88 |
 
-3
+6'35" |
 
-|
+1'13" |
 
-21
+2 |
 
-|
+17 |
 
-8"20
+9"89 |
 
-|
+11'27" |
 
-6'55"
+1'35" |
 
-|
+3 |
 
-1'21"
+4 |
 
-|
+24 |
 
-1
+8"03 |
 
-|
+6'45" |
 
-12
+1'17" |
 
 |
 
-10"40
-
-|
+15 |
 
-12'39"
+10"14 |
 
-|
+12'02" |
 
-1'45"
+1'40" |
 
-|
+2 |
 
-1
+3 |
 
-|
+21 |
 
-2
+8"20 |
 
-|
+6'55" |
 
-18
+1'21" |
 
-|
+1 |
 
-8"38
+12 |
 
-|
+10"40 |
 
-7'05"
+12'39" |
 
-|
+1'45" |
 
-1'24
+1 |
 
-|
+2 |
 
-|
+18 |
 
-9
+8"38 |
 
-|
+7'05" |
 
-10"69
+1'24" |
 
 |
 
-13'21"
+9 |
 
-|
+10"69 |
 
-1'50"
+13'21" |
 
-|
+1'50" |
 
-Nota. 1. L'épreuve de tractions et l'épreuve d'abdominaux sont notées chacune sur 10. Les autres épreuves sont notées sur 20.
+Nota. - 1. L'épreuve de tractions et l'épreuve d'abdominaux sont notées chacune sur 10. Les autres épreuves sont notées sur 20.
 
 2. Toute performance qui se trouve comprise entre deux performances différant d'un point entraîne la note correspondant à la performance inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
 
-3. Annexe
+3. ANNEXE
 
-CERTIFICAT MÉDICAL D'APTITUDE À LA PRATIQUE DES ÉPREUVES SPORTIVES DES CONCOURS D'ADMISSION DANS LES GRANDES ÉCOLES MILITAIRES
+CERTIFICAT MÉDICAL D'APTITUDE A LA PRATIQUE DES ÉPREUVES SPORTIVES DES CONCOURS D'ADMISSION DANS LES GRANDES ÉCOLES MILITAIRES
 
 Je soussigné, docteur,
 
@@ -972,20 +520,18 @@ Prénom :
 
 Né(e) le :
 
-Candidat au concours d'admission à l'Ecole d'administration des affaires maritimes,
+Candidat au concours d'admission à l'école d'administration des affaires maritimes,
 
-Certifie que ce(tte) candidat(e) ne présente pas de contre-indication à subir sans restriction les épreuves sportives décrites ci-dessous obligatoires pour le concours d'admission à cette école :
+certifie que ce (tte) candidat (e) ne présente pas de contre-indication à subir sans restriction les épreuves sportives décrites ci-dessous obligatoire pour le concours d'admission à cette école :
 
 - 50 mètres nage libre, en piscine, départ plongé ou sauté des plots de départ ;
 
 - course de vitesse (50 mètres) sur piste et en couloir ;
 
-- course de demi-fond sur piste (1 500 mètres) ;
+- course de demi-fond sur piste (1500 mètres) ;
 
 - tractions et abdominaux.
 
 Toutes ces épreuves sont chronométrées, les notes sont incluses dans le classement et peuvent être éliminatoires.
 
-Fait à, le
-
-Cachet du praticien
+Fait à le
