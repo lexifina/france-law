@@ -14,7 +14,7 @@ L'accès aux salles de jeux est interdit :
 
 1° Aux mineurs, même émancipés ;
 
-2° Aux personnes dont le ministre de l'intérieur a prononcé l'exclusion en application de l'article R. 321-28 du code de la sécurité intérieure ;
+2° Aux personnes interdites de jeux en application de l'article R. 321-28 du code de la sécurité intérieure ;
 
 3° Aux personnes en état d'ivresse ;
 
