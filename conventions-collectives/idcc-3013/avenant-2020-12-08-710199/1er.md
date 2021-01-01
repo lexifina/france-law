@@ -1,0 +1,3 @@
+# Article 1er
+
+La taille des entreprises de la branche, très majoritairement de moins de 50 salariés, ainsi que l'objet de l'accord, qui instaure des garanties collectives au bénéfice de l'ensemble des salariés de la branche, justifie que l'accord ne comporte pas de stipulations spécifiques pour les entreprises de moins de 50 salariés.
