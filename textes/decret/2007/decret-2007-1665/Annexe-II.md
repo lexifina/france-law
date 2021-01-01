@@ -116,7 +116,7 @@ Centralisation et mise en règlement, via l'outil CHORUS, des dépenses présent
 
 |
 
-Service national douanier de la fiscalité routière (SNDFR)
+Service national douanier de remboursement et de délivrance de renseignements tarifaires contraignants (SND2R)
 
 |
 
@@ -128,7 +128,11 @@ France métropolitaine
 
 |
 
-Gestion de la taxe spéciale sur certains véhicules routiers (art. 284 bis à 284 sexies du code des douanes) et du remboursement partiel de la taxe intérieure de consommation sur les produits énergétiques en faveur des transporteurs de marchandises et de voyageurs (art. 265 septies et 265 octies du même code)
+1. Remboursements partiels de la taxe intérieure de consommation sur les produits énergétiques prévus par les articles 265 septies, 265 octies et 265 octies A du code des douanes.
+
+2. Délivrance de renseignements tarifaires contraignants (RTC) en application des articles 33 et 34 § 4,5,7 et 11 du code des douanes de l'Union européenne et prolongation de la validité de RTC en application de l'article 34 § 9 du même code.
+
+3. Gestion de la taxe spéciale sur certains véhicules routiers (art. 284 bis à 284 sexies du code des douanes), exigible jusqu'au 31 décembre 2020.
 
 |
 
