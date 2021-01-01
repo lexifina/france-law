@@ -8,13 +8,13 @@ a) Etre réalisé par des entreprises et industries techniques liées à la prod
 
 b) Porter sur des albums de nouveaux talents définis comme des artistes, groupes d'artistes, compositeurs ou artistes-interprètes n'ayant pas dépassé un seuil de ventes et d'écoutes défini par décret pour deux albums distincts précédant ce nouvel enregistrement. S'agissant des albums d'expression, le bénéfice du crédit d'impôt est réservé aux albums de nouveaux talents dont la moitié au moins sont d'expression française ou dans une langue régionale en usage en France et aux albums de nouveaux talents, composés d'une ou de plusieurs œuvres libres de droit d'auteur au sens des articles L. 123-1 à L. 123-12 du code de la propriété intellectuelle. Par dérogation, pour les entreprises qui satisfont à la définition de la microentreprise donnée au 3 de l'article 2 de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité, les albums d'expression qui ne relèvent pas d'une de ces deux catégories ouvrent droit au bénéfice du crédit d'impôt dans la limite du nombre d'albums d'expression française ou dans une langue régionale en usage en France, produits la même année au cours du même exercice par la même entreprise. Le seuil d'effectif est calculé hors personnels rémunérés au cachet. S'agissant des albums de nouveaux talents, le bénéfice du crédit d'impôt s'apprécie au niveau de l'entreprise redevable de l'impôt sur les sociétés pour l'ensemble des albums qu'elle produit chaque année.
 
-III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes effectuées avant le 31 décembre 2022, pour des opérations mentionnées au II effectuées en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
+III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes effectuées jusqu'au 31 décembre 2024, pour des opérations mentionnées au II effectuées en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Pour les dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique musical :
 
 a. – les frais de personnel non permanent de l'entreprise : les salaires et charges sociales afférents aux artistes-interprètes, au réalisateur, à l'ingénieur du son et aux techniciens engagés pour la réalisation d'un enregistrement phonographique par l'entreprise de production ;
 
-a bis) Les frais de personnel permanent de l'entreprise directement concerné par les œuvres : les salaires et charges sociales afférents aux assistants label, chefs de produit, coordinateurs label, techniciens son, chargés de production, responsables artistiques, directeurs artistiques, directeurs de label, juristes label ;
+a bis) Les frais de personnel permanent de l'entreprise directement concerné par les œuvres : les salaires et charges sociales afférents aux assistants label, chefs de produit, coordinateurs label, techniciens son, chargés de production, responsables artistiques, directeurs artistiques, directeurs de label, juristes label, gestionnaires d'espace (physique et digital), gestionnaires des royautés, gestionnaires des paies intermittents, chargés de la comptabilité analytique ;
 
 a ter) La rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe à la réalisation des œuvres ;
 
@@ -26,25 +26,27 @@ d. – les dépenses de post-production : montage, mixage, codage, matriçage et
 
 e. – les dépenses liées au coût de numérisation et d'encodage des productions ;
 
+f. – les dépenses liées à la réalisation et à la production d'images associées à l'enregistrement phonographique.
+
 2° Pour les dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au II :
 
-a. – les frais de répétition des titres ayant fait l'objet d'un enregistrement dans les conditions mentionnées au II (location de studio, location et transport de matériels et d'instruments, salaires et charges sociales afférents aux personnes mentionnées au a du 1° du présent III et au personnel permanent suivant : administrateurs de site, attachés de presse, coordinateurs promotion, graphistes, maquettistes, chefs de produit nouveaux médias, responsables synchronisation, responsables nouveaux médias, assistants nouveaux médias, directeurs de promotion, directeurs marketing, responsables export, assistants export, rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe aux répétitions) ;
+a. – les frais de répétition des titres ayant fait l'objet d'un enregistrement dans les conditions mentionnées au II (location de studio, location et transport de matériels et d'instruments, salaires et charges sociales afférents aux personnes mentionnées au a du 1° du présent III et au personnel permanent suivant : administrateurs de site, attachés de presse, coordinateurs promotion, graphistes, maquettistes, chefs de produit nouveaux médias, responsables synchronisation, responsables nouveaux médias, assistants nouveaux médias, directeurs de promotion, directeurs marketing, responsables export, assistants export, chefs de projet digital, analystes de données, gestionnaires de données, gestionnaires des royautés, prestataires en marketing digital, rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe aux répétitions) ;
 
 b. – les dépenses engagées afin de soutenir la production de concerts de l'artiste en France ou à l'étranger, dont le montant global est fixé dans le cadre d'un contrat d'artiste ou de licence ;
 
 c. – les dépenses engagées au titre de la participation de l'artiste à des émissions de télévision ou de radio dans le cadre de la promotion de l'œuvre agréée, prévues par le contrat d'artiste ou de licence ;
 
-d. – les dépenses liées à la réalisation et à la production d'images permettant le développement de la carrière de l'artiste ;
+d. – les dépenses liées à la réalisation et à la production d'images, autres que celles mentionnées au f du 1° du présent III, permettant le développement de la carrière de l'artiste ;
 
 e. – les dépenses liées à la création d'un site internet dédié à l'artiste dans le cadre du développement de sa carrière dans l'environnement numérique.
 
 La rémunération d'un dirigeant mentionnée au a ter du 1° et au a du 2° ne peut excéder un montant fixé par décret, dans la limite d'un plafond de 50 000 € par an. Cette rémunération n'est éligible au crédit d'impôt que pour les petites entreprises, au sens de l'article 2 de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 
-Le montant des dépenses dites de développement éligibles au crédit d'impôt est limité à 350 000 € par enregistrement phonographique ou vidéographique musical. Ces dépenses devront être engagées dans les dix-huit mois suivant la fixation de l'œuvre au sens de l'article L. 213-1 du code de la propriété intellectuelle ou de la production d'un disque numérique polyvalent musical.
+Le montant des dépenses dites de développement éligibles au crédit d'impôt est limité à 700 000 € par enregistrement phonographique ou vidéographique musical. Ces dépenses devront être engagées dans les dix-huit mois suivant la fixation de l'œuvre au sens de l'article L. 213-1 du code de la propriété intellectuelle ou de la production d'un disque numérique polyvalent musical.
 
 Le montant des dépenses définies aux 1° et 2°, lorsqu'elles sont confiées à des entreprises mentionnées au a du II, est plafonné à 2 300 000 € par entreprise et par exercice.
 
-III bis. – Le taux mentionné au premier alinéa du III est porté à 30 % pour les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
+III bis. – Le taux mentionné au premier alinéa du III est porté à 40 % pour les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises donnée à l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
 IV. – Les dépenses ouvrent droit au crédit d'impôt à compter de la date de réception, par le ministre chargé de la culture, d'une demande d'agrément à titre provisoire attestant que les productions phonographiques ou vidéographiques musicales remplissent les conditions prévues au II. Cet agrément est délivré après avis d'un comité d'experts dont les modalités de fonctionnement sont précisées par décret, sur la base de pièces justificatives comprenant notamment :
 
@@ -56,7 +58,7 @@ c. – pour le calcul du seuil mentionné au dernier alinéa du III, la liste de
 
 V. – Les subventions publiques reçues par les entreprises à raison des dépenses ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit.
 
-VI. – 1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne peut excéder 1,1 million d'euros par entreprise et par exercice.
+VI. – 1° La somme des crédits d'impôt calculés au titre des dépenses éligibles ne peut excéder 1 500 000 € par entreprise et par exercice.
 
 2° En cas de coproduction, le crédit d'impôt est accordé à chacune des entreprises, proportionnellement à sa part dans les dépenses exposées.
 
@@ -64,6 +66,4 @@ VII. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au re
 
 NOTA :
 
-Conformément à l'article 143 II de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 220 octies telles qu'elles résultent du 2° du I dudit article s'appliquent aux demandes d'agréments provisoires prévues au IV de l'article 220 octies déposées à compter du 1er janvier 2020.
-
-Conformément au II de l’article 192 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.
+Conformément au II de l'article 21 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux demandes d'agrément à titre provisoire prévues au IV de l'article 220 octies du code général des impôts déposées à compter du 1er janvier 2021.

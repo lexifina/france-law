@@ -12,7 +12,7 @@ L'excédent d'impôt sur les sociétés résultant de l'application du premier a
 
 La créance est remboursée au terme des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option visée au premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur les sociétés dû au titre des exercices clos au cours de ces cinq années. Dans ce cas, la créance n'est remboursée qu'à hauteur de la fraction qui n'a pas été utilisée dans ces conditions.
 
-Par exception aux dispositions du cinquième alinéa, les entreprises ayant fait l'objet d'une procédure de sauvegarde, d'un redressement ou d'une liquidation judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la date du jugement qui a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de l'entreprise, est calculé à compter du premier jour du mois suivant cette demande jusqu'au terme des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option a été exercée.
+Par exception aux dispositions du cinquième alinéa, les entreprises ayant fait l'objet d'une procédure de conciliation ou de sauvegarde, d'un redressement ou d'une liquidation judiciaires peuvent demander le remboursement de leur créance non utilisée à compter de la date de la décision ou du jugement qui a ouvert ces procédures. Ce remboursement est effectué sous déduction d'un intérêt appliqué à la créance restant à imputer. Cet intérêt, dont le taux est celui de l'intérêt légal applicable le mois suivant la demande de l'entreprise, est calculé à compter du premier jour du mois suivant cette demande jusqu'au terme des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option a été exercée.
 
 La créance est inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et financier, ou dans des conditions fixées par décret.
 
@@ -31,3 +31,5 @@ IV. Un décret fixe les conditions d'application du présent article, notamment 
 NOTA :
 
 Au premier alinéa du I, la référence : , 44 undecies est périmée.
+
+Conformément au II de l'article 19 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux abandons de créance consentis et aux créances de report en arrière de déficits constatées à compter du 1er janvier 2021.

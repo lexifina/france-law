@@ -12,7 +12,7 @@ b. Cette réduction d'impôt trouve également à s'appliquer lorsque les versem
 
 La réduction d'impôt sur le revenu est accordée au titre de l'année de la clôture de l'exercice de la société au cours duquel le contribuable a procédé aux versements correspondant à sa souscription dans cette société, au taux prévu au premier alinéa du même a ou, lorsque la société a pour objet statutaire exclusif de détenir des participations dans des entreprises mentionnées au second alinéa du même a, au taux prévu au même second alinéa.
 
-2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont retenus dans la limite annuelle de 5 000 € pour les contribuables célibataires, veufs ou divorcés, et de 10 000 € pour les contribuables soumis à imposition commune.
+2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 sont retenus dans la limite annuelle de 10 000 € pour les contribuables célibataires, veufs ou divorcés, et de 20 000 € pour les contribuables soumis à imposition commune.
 
 3. Lorsque tout ou partie des titres souscrits par le contribuable ayant donné lieu à réduction d'impôt est cédé avant le 31 décembre de la cinquième année suivant celle de la souscription, la réduction d'impôt obtenue est ajoutée à l'impôt dû au titre de l'année de la cession.
 
@@ -20,7 +20,7 @@ Il en va de même lorsque tout ou partie des titres souscrits par la société m
 
 Le premier alinéa du présent 3 ne s'applique pas en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou du décès du contribuable ou de l'un des époux ou partenaires liés par un pacte civil de solidarité soumis à imposition commune.
 
-4. La réduction d'impôt mentionnée au 1 ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D du présent code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues au g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies 0 A, ou 199 terdecies-0 B du présent code. La fraction des versements effectués au titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à cette réduction d'impôt.
+4. La réduction d'impôt mentionnée au 1 ne s'applique pas aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D du présent code ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies B, 199 terdecies 0 A, ou 199 terdecies-0 B du présent code.
 
 5. Le bénéfice de la réduction d'impôt mentionnée au 1 du présent article est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
@@ -29,3 +29,5 @@ NOTA :
 Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 199 terdecies-0 C résultant des dispositions du 12° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.
 
 Conformément à l’article 157 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux versements réalisés à compter du 1er janvier 2019.
+
+Conformément au II de l'article 114 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions s'appliquent aux versements effectués à compter du 1er janvier 2021.

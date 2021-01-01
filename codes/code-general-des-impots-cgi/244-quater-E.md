@@ -20,7 +20,9 @@ b. Des biens, agencements et installations visés au a pris en location, au cour
 
 c. Des logiciels qui constituent des éléments de l'actif immobilisé et qui sont nécessaires à l'utilisation des investissements mentionnés aux a et b ;
 
-d. Des travaux de rénovation d'hôtel.
+d. Des travaux de rénovation d'hôtel ;
+
+e. Des travaux de construction et de rénovation des établissements de santé privés réalisés pour l'exercice de l'activité mentionnée à l'article L. 6111-1 du code de la santé publique.
 
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est diminué du montant des subventions publiques attribuées en vue de financer ces investissements.
 
@@ -48,6 +50,4 @@ V. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au resp
 
 NOTA :
 
-Conformément au II de l'article 152 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019, les dispositions des 1° et 3° bis telles qu'elles résultent du I dudit article s'appliquent aux exercices clos à compter du 31 décembre 2019.
-
-Conformément au II de l'article 22 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 244 quater E telles qu'elles résultent du I dudit article s'appliquent aux investissements réalisés à compter du 1er janvier 2019. elles ne s'appliquent pas aux investissements que le contribuable justifie avoir pris l'engagement de réaliser avant le 31 décembre 2018, et dès lors que ces investissements sont achevés au 31 décembre 2020. A titre transitoire, les investissements effectués dans des meublés de tourisme ayant fait l'objet d'un contrat préliminaire de réservation prévu à l'article L. 261-15 du code de la construction et de l'habitation, signé et déposé au rang des minutes d'un notaire ou enregistré au service des impôts des entreprises au plus tard le 31 décembre 2018, sont éligibles au crédit d'impôt prévu à l'article 244 quater E du code général des impôts dès lors que ces investissements sont achevés au 31 décembre 2020.
+Conformément au II de l'article 24 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2021.

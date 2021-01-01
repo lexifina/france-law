@@ -1,6 +1,6 @@
 # Article 1679 septies
 
-Les entreprises dont la cotisation sur la valeur ajoutée des entreprises de l'année précédant celle de l'imposition est supérieure à 3 000 € doivent verser :
+Les entreprises dont la cotisation sur la valeur ajoutée des entreprises de l'année précédant celle de l'imposition est supérieure à 1 500 € doivent verser :
 
 – au plus tard le 15 juin de l'année d'imposition, un premier acompte égal à 50 % de la cotisation sur la valeur ajoutée des entreprises ;
 
@@ -12,7 +12,7 @@ Les redevables peuvent, sous leur responsabilité, réduire le montant de leurs 
 
 Pour l'application des exonérations ou des abattements de cotisations sur la valeur ajoutée des entreprises prévus à l'article 1586 nonies, les entreprises sont autorisées à limiter le paiement des acomptes de leur cotisation sur la valeur ajoutée des entreprises dans la proportion entre :
 
-– d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I bis, de l'article 1464 M et des articles 1465 à 1466 F ;
+– d'une part, le montant total correspondant aux exonérations et abattements de cotisations foncières des entreprises au titre de l'année précédente, en application du 3° de l'article 1459, des articles 1464 à 1464 I bis, de l'article 1464 M, des articles 1465 à 1466 F et de l'article 1478 bis ;
 
 – et, d'autre part, le montant visé au septième alinéa majoré du montant total des cotisations foncières des entreprises dû au titre de l'année précédente.
 
@@ -22,4 +22,6 @@ L'année suivant celle de l'imposition, le redevable doit procéder à la liquid
 
 NOTA :
 
-Conformément au II de l'article 174 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent à compter des impositions établies au titre de 2019
+Conformément au II de l'article 120 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s’appliquent aux créations et extensions d’établissements intervenues à compter du 1er janvier 2021.
+
+Conformément au D du VI de l’article 8 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, ces dispositions s'appliquent à la contribution économique territoriale due au titre de 2021 et des années suivantes.

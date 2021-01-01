@@ -56,7 +56,7 @@ B.-Les opérations suivantes :
 
 2° Les livraisons de locaux dans le cadre de l'acquisition-amélioration financées par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;
 
-C.-Les livraisons et livraisons à soi-même de logements à usage locatif autres que sociaux destinés à être occupés par des ménages dont le total des ressources n'excède pas celui prévu au c de l'article 279-0 bis A lorsque le destinataire est :
+C.-Les livraisons et livraisons à soi-même de logements à usage locatif autres que sociaux destinés à être occupés par des ménages dont le total des ressources n'excède pas celui prévu au 1° du I de l'article 279-0 bis A lorsque le destinataire est :
 
 1° Pour les logements situés dans un quartier faisant l'objet d'une convention de rénovation urbaine ou d'une convention de renouvellement urbain, ou entièrement situés à moins de 300 mètres de la limite de ces quartiers, l'association foncière logement ou des sociétés civiles immobilières dont cette association détient la majorité des parts ;
 
@@ -74,13 +74,11 @@ b) Soit, dans les situations autres que celles mentionnées au a, sont intégré
 
 3° Les apports des immeubles sociaux neufs aux sociétés civiles immobilières d'accession progressive à la propriété effectués dans les conditions prévues aux articles L. 443-6-2 à L. 443-6-13 du code de la construction et de l'habitation ;
 
-4° Les opérations suivantes réalisées en vue de la conclusion d'un bail réel solidaire dans les conditions prévues au chapitre V du titre V du livre II du même code :
+4° Les opérations suivantes réalisées dans le cadre d'un bail réel solidaire dans les conditions prévues au chapitre V du titre V du livre II du même code :
 
-a) Les livraisons de terrains à bâtir à un organisme de foncier solidaire ;
+a) Les livraisons à un organisme de foncier solidaire et les livraisons à soi-même effectuées par ce dernier, d'immeubles destinés, le cas échéant après travaux, à faire l'objet d'un bail réel solidaire ;
 
-b) Lorsque le bail est pris par la personne qui occupe le logement, les livraisons de logements neufs à un organisme de foncier solidaire ;
-
-c) Lorsque le bail est pris par une autre personne, les cessions des droits réels immobiliers.
+b) Les cessions de droits réels immobiliers objets du bail.
 
 IV.-Dans le secteur social et médico-social, relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à l'article 278 sexies-0 A les livraisons et livraisons à soi-même de locaux directement destinés ou mis à la disposition des structures suivantes :
 
@@ -93,6 +91,8 @@ b) Les structures dénommées “ lits halte soins santé ”, les structures d�
 c) Les centres d'hébergement d'urgence déclarés conformément à l'article L. 322-1 du même code, lorsqu'ils sont destinés aux personnes sans domicile ;
 
 2° Les établissements suivants, lorsqu'ils agissent sans but lucratif, que leur gestion est désintéressée et qu'ils assurent un accueil temporaire ou permanent :
+
+aa) Les établissements mentionnés au 1° du I de l'article L. 312-1 du code de l'action sociale et des familles qui hébergent des mineurs et des majeurs de moins de vingt et un ans relevant des articles L. 221-1, L. 222-3 et L. 222-5 du même code ;
 
 a) Les établissements mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles qui hébergent des mineurs ou de jeunes adultes handicapés, pour la seule partie des locaux dédiée à l'hébergement ;
 
@@ -108,4 +108,4 @@ V.-Relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à 
 
 NOTA :
 
-Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations intervenant à compter du 1er décembre 2019.
+Conformément au III de l'article 50 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux livraisons de logements réalisées à compter du 1er janvier 2021 intervenant dans le cadre d'opérations de construction ou de transformation n'ayant pas fait l'objet d'un agrément conformément à l'article 279-0 bis A du code général des impôts, dans sa rédaction antérieure au 1er janvier 2021.

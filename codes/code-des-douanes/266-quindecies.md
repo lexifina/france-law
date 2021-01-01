@@ -158,9 +158,11 @@ Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières pr
 
 0,9 % |
 
-;
+Pour l'année 2021, la quantité d'énergie issue de soja n'est pas prise en compte lorsqu'elle excède le seuil de 0 % pour les essences et de 0,70 % pour les gazoles.
 
 Pour les matières premières relevant de plusieurs des catégories mentionnées dans le tableau ci-dessus, lorsque la part de l'énergie qui en est issue est comptabilisée pour l'application du seuil de l'une de ces catégories, elle ne l'est pas pour l'application des seuils des autres catégories. Toutefois, pour les égouts pauvres relevant de la catégorie 2, lorsqu'elle est comptabilisée pour l'application du seuil de cette catégorie, elle l'est également, à hauteur de 55 % de sa valeur réelle, pour l'application du seuil prévu pour la catégorie 1.
+
+.
 
 D.-Pour chacune des catégories de matières premières suivantes, la part d'énergie issue de l'ensemble des matières premières de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C.
 
@@ -214,6 +216,4 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 NOTA :
 
-Conformément aux II et III de l'article 192 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 quindecies s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2019. Toutefois, le B du V de l'article 266 quindecies, dans sa rédaction résultant du I de l'article 192, entre en vigueur le 1er janvier 2020.
-
-Conformément aux II des articles 212 et 213 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2020.
+Conformément aux dispositions prévues par l'article 58 II. B et C de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 5° du I et du 7° du I entrent en vigueur le 1er janvier 2021 et s'appliquent aux produits pour lesquels la taxe mentionnée à l'article 265 du code des douanes devient exigible à compter de cette même date.

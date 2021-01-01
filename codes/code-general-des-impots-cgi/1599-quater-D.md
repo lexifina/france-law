@@ -8,10 +8,14 @@ Ce produit est réparti entre toutes les personnes assujetties à la taxe fonci�
 
 A compter des impositions établies au titre de 2019, les recettes que la taxe foncière sur les propriétés bâties a procurées sur le territoire de la Ville de Paris sont, pour l'application du troisième alinéa, minorées de la part que cette taxe a procurée au titre de l'année 2018 au département de Paris.
 
+A compter des impositions établies au titre de l'année 2021, le produit réparti, en 2020, entre les personnes assujetties à la taxe foncière sur les propriétés bâties et celles assujetties à la cotisation foncière des entreprises, pour les locaux évalués selon les dispositions de l'article 1499, est pris en charge, pour moitié, par l'Etat.
+
+Pour l'application du troisième alinéa du présent article, le produit de la taxe est minoré du montant mentionné au cinquième alinéa.
+
 La base de la taxe est déterminée dans les mêmes conditions que pour la part communale ou, à défaut de part communale, dans les mêmes conditions que la part intercommunale de la taxe principale à laquelle la taxe additionnelle s'ajoute.
 
 Les cotisations sont établies et recouvrées et les réclamations sont présentées et jugées comme en matière de contributions directes.
 
 NOTA :
 
-Conformément à l'article 18 de l'ordonnance n° 2018-75 du 8 février 2018, les présentes dispositions s'appliquent à compter des impositions établies au titre de 2019.
+Conformément au IV, A de l'article 29 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux impositions établies à compter de 2021.

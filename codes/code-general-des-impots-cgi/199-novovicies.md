@@ -1,18 +1,18 @@
 # Article 199 novovicies
 
-I. – A. – Les contribuables qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2021, alors qu'ils sont domiciliés en France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
+I. – A. – Les contribuables qui acquièrent, entre le 1er janvier 2013 et le 31 décembre 2024, alors qu'ils sont domiciliés en France au sens de l'article 4 B, un logement neuf ou en l'état futur d'achèvement dans un bâtiment d'habitation collectif bénéficient d'une réduction d'impôt sur le revenu à condition qu'ils s'engagent à le louer nu à usage d'habitation principale pendant une durée minimale fixée, sur option du contribuable, à six ans ou à neuf ans. Cette option, qui est exercée lors du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure, est irrévocable pour le logement considéré.
 
 La réduction d'impôt s'applique, dans les mêmes conditions, à l'associé d'une société non soumise à l'impôt sur les sociétés, autre qu'une société civile de placement immobilier, lorsque l'acquisition du logement est réalisée, alors que l'associé est domicilié en France au sens du même article 4 B, par l'intermédiaire d'une telle société et à la condition que le porteur de parts s'engage à conserver la totalité de ses titres jusqu'à l'expiration de l'engagement de location mentionné au premier alinéa.
 
 B. – La réduction d'impôt s'applique également dans les mêmes conditions :
 
-1° Au logement que le contribuable fait construire et qui fait l'objet d'un dépôt de demande de permis de construire entre le 1er janvier 2013 et le 31 décembre 2021 ;
+1° Au logement situé dans un bâtiment d'habitation collectif que le contribuable fait construire et qui fait l'objet d'un dépôt de demande de permis de construire entre le 1er janvier 2013 et le 31 décembre 2024 ;
 
-2° Au logement que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
+2° Au logement que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2024 et qui fait ou qui a fait l'objet de travaux concourant à la production ou à la livraison d'un immeuble neuf au sens du 2° du 2 du I de l'article 257 ;
 
-3° Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de réhabilitation, définis par décret, permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ;
+3° Au logement qui ne satisfait pas aux caractéristiques de décence, prévues à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2024 et qui fait ou qui a fait l'objet de travaux de réhabilitation, définis par décret, permettant au logement d'acquérir des performances techniques voisines de celles d'un logement neuf ;
 
-4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2021 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
+4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2024 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
 
 5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux d'amélioration définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux de transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total de l'opération.
 
@@ -54,9 +54,9 @@ Lorsque les logements sont la propriété d'une société non soumise à l'impô
 
 VI. – Le taux de la réduction d'impôt est fixé à :
 
-1° 12 % lorsque l'engagement de location mentionné au I est pris pour une durée de six ans ;
+1° 12 % lorsque l'engagement de location mentionné au I est pris pour une durée de six ans. Par dérogation, ce taux est fixé à 10,5 % pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2023 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année ; il est fixé à 9 % pour les acquisitions, autres que celles mentionnées au 5° dudit B, réalisées en 2024 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année ;
 
-2° 18 % lorsque l'engagement de location mentionné au même I est pris pour une durée de neuf ans.
+2° 18 % lorsque l'engagement de location mentionné au I est pris pour une durée de neuf ans. Par dérogation, ce taux est fixé à 15 % pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2023 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année ; il est fixé à 12 % pour les acquisitions, autres que celles mentionnées au 5° dudit B, réalisées en 2024 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année.
 
 VII. – La réduction d'impôt est répartie, selon la durée de l'engagement de location, sur six ou neuf années. Elle est accordée au titre de l'année d'achèvement du logement, ou de son acquisition si elle est postérieure, et imputée sur l'impôt dû au titre de cette même année, puis sur l'impôt dû au titre de chacune des cinq ou huit années suivantes à raison d'un sixième ou d'un neuvième de son montant total au titre de chacune de ces années.
 
@@ -64,9 +64,9 @@ En cas de transfert du domicile fiscal du contribuable hors de France durant cet
 
 VII bis. – A. – A l'issue de la période couverte par l'engagement de location mentionnée au I, lorsque le logement reste loué par période triennale dans les conditions prévues au III, le contribuable peut continuer à bénéficier de la réduction d'impôt prévue au présent article, à la condition de proroger son engagement initial pour au plus :
 
-1° Trois années supplémentaires, renouvelables une fois, si l'engagement de location mentionné au I était d'une durée de six ans. Dans ce cas, la réduction d'impôt est égale à 6 % du prix de revient du logement, mentionné au A du V, pour la première période triennale et à 3 % pour la seconde période triennale ;
+1° Trois années supplémentaires, renouvelables une fois, si l'engagement de location mentionné au I était d'une durée de six ans. Dans ce cas, la réduction d'impôt est égale à 6 % du prix de revient du logement, mentionné au A du V, pour la première période triennale et à 3 % pour la seconde période triennale. Par dérogation, la réduction d'impôt est égale à 4,5 % pour la première période et 2,5 % pour la seconde pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2023 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année ; elle est égale à 3 % pour la première période et 2 % pour la seconde, pour les acquisitions, autres que celles mentionnées au 5° dudit B, réalisées en 2024 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année ;
 
-2° Trois années supplémentaires, si l'engagement de location mentionné au I était d'une durée de neuf ans. Dans ce cas, la réduction d'impôt est égale à 3 % du prix de revient du logement, mentionné au A du V, pour cette période triennale.
+2° Trois années supplémentaires, si l'engagement de location mentionné au I était d'une durée de neuf ans. Dans ce cas, la réduction d'impôt est égale à 3 % du prix de revient du logement, mentionné au A du V, pour cette période triennale. Par dérogation, la réduction d'impôt est égale à 2,5 %, pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2023 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année ; elle est égale à 2 % pour les acquisitions, autres que celles mentionnées au 5° dudit B, réalisées en 2024 et pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année.
 
 B. – Pour l'application du A du présent VII bis, la réduction d'impôt est imputée, par période triennale, à raison d'un tiers de son montant sur l'impôt dû au titre de l'année au cours de laquelle l'engagement de location a été prorogé et des deux années suivantes.
 
@@ -82,9 +82,9 @@ D. – La réduction d'impôt est calculée sur 100 % du montant de la souscript
 
 E. – Le taux de la réduction d'impôt est fixé à :
 
-1° 12 % pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de six ans ;
+1° 12 % pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de six ans. Par dérogation, le taux de la réduction est fixé à 10,5 % pour les souscriptions réalisées en 2023 et à 9 % pour celles réalisées en 2024 ;
 
-2° 18 % pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de neuf ans.
+2° 18 % pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de neuf ans. Par dérogation, le taux de la réduction est fixé à 15 % pour les souscriptions réalisées en 2023 et à 12 % pour celles réalisées en 2024.
 
 F. – La réduction d'impôt est répartie, selon la durée de l'engagement de location, sur six ou neuf années. Elle est accordée au titre de l'année de la souscription et imputée sur l'impôt dû au titre de cette même année, puis sur l'impôt dû au titre de chacune des cinq ou huit années suivantes à raison d'un sixième ou d'un neuvième de son montant total au titre de chacune de ces années.
 
@@ -120,10 +120,16 @@ XII. – Les investissements mentionnés aux I et VIII et afférents à des loge
 
 3° Par dérogation au VI et au E du VIII, le taux de la réduction d'impôt est fixé à :
 
-a) 23 % lorsque l'engagement de location mentionné au I est pris pour une durée de six ans et pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de six ans ;
+a) 23 % lorsque l'engagement de location mentionné au I est pris pour une durée de six ans et pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de six ans. Par dérogation, ce taux est fixé à 21,5 % pour les acquisitions, autres que celles mentionnées au 5° du B du même I, réalisées en 2023, pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année et pour les souscriptions mentionnées au VIII réalisées cette même année ; il est fixé à 20 % pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2024, pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année et pour les souscriptions mentionnées au VIII réalisées cette même année ;
 
-b) 29 % lorsque l'engagement de location mentionné au même I est pris pour une durée de neuf ans et pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de neuf ans.
+b) 29 % lorsque l'engagement de location mentionné au même I est pris pour une durée de neuf ans et pour les souscriptions qui servent à financer des logements faisant l'objet d'un engagement de location pris pour une durée de neuf ans. Par dérogation, ce taux est fixé à 26 % pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2023, pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année et pour les souscriptions mentionnées au VIII réalisées cette même année ; il est fixé à 23 % pour les acquisitions, autres que celles mentionnées au 5° du B du I, réalisées en 2024, pour les constructions mentionnées au 1° du même B dont le permis de construire a été déposé cette même année et pour les souscriptions mentionnées au VIII réalisées cette même année.
 
 NOTA :
 
+Conformément au II de l’article 161 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions telles qu'elles résultent du I dudit article s'appliquent aux investissements réalisés à compter du 1er janvier 2021.
+
 Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
+
+Conformément au II de l'article 168 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions ne s'appliquent pas aux logements situés dans un quartier prioritaire de la politique de la ville ou qui respectent un niveau de qualité, en particulier en matière de performance énergétique et environnementale, supérieur à la réglementation, dont les critères sont définis par décret.
+
+Conformément au II de l'article 169 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux constructions pour lesquelles une demande de permis de construire est déposée à compter du 1er janvier 2021.

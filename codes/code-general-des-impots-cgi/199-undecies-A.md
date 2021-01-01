@@ -28,7 +28,7 @@ Les souscripteurs de parts ou actions des sociétés mentionnées aux f et g doi
 
 3. La réduction d'impôt n'est pas applicable au titre des immeubles et des parts ou actions mentionnés au 2 dont le droit de propriété est démembré. Toutefois, lorsque le transfert de la propriété des immeubles, parts ou actions, ou le démembrement du droit de propriété résulte du décès de l'un des époux soumis à imposition commune, le conjoint survivant attributaire de l'immeuble, des parts ou des actions, ou titulaire de leur usufruit peut demander la reprise à son profit, dans les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période restant à courir à la date du décès.
 
-3 bis. La réduction d'impôt n'est applicable au titre des investissements mentionnés au a du 2 que lorsque ceux-ci sont réalisés par des personnes physiques pour l'acquisition ou la construction d'une résidence principale en accession à la première propriété au sens du troisième alinéa du I de l'article 244 quater J ainsi que par des personnes physiques dont la résidence principale est visée par un arrêté, une mise en demeure ou une injonction pris en application de l'article L. 511-1 du code de la construction et de l'habitation ou des articles L. 1331-22 et L. 1331-24 du code de la santé publique.
+3 bis. La réduction d'impôt n'est applicable au titre des investissements mentionnés au a du 2 que lorsque ceux-ci sont réalisés par des personnes physiques pour l'acquisition ou la construction d'une résidence principale en accession à la première propriété au sens du troisième alinéa du I de l'article 244 quater J ainsi que par des personnes physiques dont la résidence principale est visée par un arrêté pris en application du chapitre Ier du titre Ier du livre V du code de la construction et de l'habitation pour les situations mentionnées au 1° de l'article L. 511-2 du même code et au 4° du même article lorsque l'arrêté de traitement de l'insalubrité porte sur l'usage qui est fait des immeubles, locaux ou installations, ou lorsqu'il porte sur des locaux par nature impropres à l'habitation mentionnés à l'article L. 1331-23 du code de la santé publique.
 
 4. Lorsque le montant des investissements mentionnés aux b, c, d, f et g du 2 est supérieur à deux millions d'euros, le bénéfice de la réduction d'impôt est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies.
 
@@ -80,4 +80,4 @@ La location d'un logement neuf consentie dans les conditions fixées par décret
 
 NOTA :
 
-Modification effectuée en conséquence de l'article 58-I-1° de la loi n° 2004-1485 du 30 décembre 2004.
+Conformément à l’article 19 de l’ordonnance n° 2020-1144 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021 et ne sont applicables qu'aux arrêtés notifiés à compter de cette date.

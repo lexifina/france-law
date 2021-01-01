@@ -1,26 +1,26 @@
 # Article 220 quindecies
 
-I. – Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, et soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical, de théâtre ou de variétés mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
+I. – Les entreprises exerçant l'activité d'entrepreneur de spectacles vivants, au sens de l'article L. 7122-2 du code du travail, et soumises à l'impôt sur les sociétés peuvent bénéficier d'un crédit d'impôt au titre des dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical ou de variétés mentionnées au III du présent article si elles remplissent les conditions cumulatives suivantes :
 
 1° Avoir la responsabilité du spectacle, notamment celle d'employeur à l'égard du plateau artistique. Dans le cas d'une coproduction, cette condition est remplie par l'un des coproducteurs au moins ;
 
 2° Supporter le coût de la création du spectacle.
 
-II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation d'un spectacle musical, de théâtre ou de variétés remplissant les conditions cumulatives suivantes :
+II. – Ouvrent droit au crédit d'impôt les dépenses engagées pour la création, l'exploitation et la numérisation d'un spectacle musical ou de variétés remplissant les conditions cumulatives suivantes :
 
-1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation d'un spectacle musical, de théâtre ou de variétés ;
+1° Etre réalisées par des entreprises établies en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui y effectuent les prestations liées à la réalisation d'un spectacle musical ou de variétés ;
 
 2° Porter sur un spectacle présentant les caractéristiques suivantes :
 
 a) Présenter des coûts de création majoritairement engagés sur le territoire français ;
 
-b) Comprendre au minimum quatre représentations dans au moins trois lieux différents ;
+b) Comprendre au minimum deux représentations dans au moins deux lieux différents ;
 
 c) Ne pas être présenté dans un lieu dont la jauge, définie comme l'effectif maximal du public qu'il est possible d'admettre dans ce lieu, est supérieure à un nombre de personnes défini par décret par catégorie de spectacle.
 
 3° (Abrogé).
 
-III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes, réalisées avant le 31 décembre 2022 pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
+III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 15 % du montant total des dépenses suivantes, réalisées jusqu'au 31 décembre 2024 pour des spectacles mentionnés au II effectués en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
 1° Pour les dépenses correspondant aux frais de création et d'exploitation du spectacle pour toutes ses représentations, incluant les représentations promotionnelles :
 
@@ -54,7 +54,7 @@ j) Les dépenses nécessaires à la promotion du spectacle : les dépenses engag
 
 2° Pour les dépenses liées à la numérisation de tout ou partie du spectacle : les frais d'acquisition des droits d'auteur des photographies, des illustrations et créations graphiques, ainsi que les frais techniques nécessaires à la réalisation de ces créations, les frais de captation (son, image, lumière), les frais d'acquisition d'images préexistantes, les cessions de droits facturés par l'ensemble des ayants droit, les frais correspondant aux autorisations délivrées par des exploitants de salles ou par des organisateurs de festivals, les dépenses de postproduction (frais de montage, d'étalonnage, de mixage, de codage et de matriçage), les rémunérations et charges sociales nécessaires à la réalisation de ces opérations ainsi que, dans le cadre d'un support numérique polyvalent musical, les frais de conception technique tels que la création d'éléments d'interactivité ou d'une arborescence ou le recours à des effets spéciaux.
 
-IV. – Les mêmes dépenses ne peuvent entrer à la fois dans les bases de calcul du crédit d'impôt mentionné au I du présent article et dans celle du crédit d'impôt mentionné à l'article 220 octies.
+IV. – Les mêmes dépenses ne peuvent entrer à la fois dans les bases de calcul du crédit d'impôt mentionné au I du présent article et dans celles de tout autre crédit d'impôt.
 
 V. – Le taux mentionné au premier alinéa du III du présent article est porté à 30 % pour les entreprises qui satisfont à la définition des micro, petites et moyennes entreprises prévue à l'article 2 de l'annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précitée.
 
@@ -74,4 +74,8 @@ IX. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au res
 
 NOTA :
 
-Se reporter aux conditions d'application prévues aux II à IV des articles 37 et 38 de la loi n° 2020-935 du 30 juillet 2020.
+Conformément au III, A de l'article 22 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent à compter du 1er janvier 2021.
+
+Conformément au B du III de l'article 23 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux demandes d’agrément provisoire prévues au VI de l’article 220 quindecies du code général des impôts déposées entre le 1er janvier 2021 et le 31 décembre 2022. Se reporter aux conditions d'application prévues au A du III de l'article 23 de la présente loi.
+
+Conformément à l'article 50 de la loi n° 2022-1726 du 30 décembre 2022, ces dispositions s'appliquent aux demandes d'agrément provisoire prévues au VI de l'article 220 quindecies du code général des impôts déposées entre le 1er janvier 2021 et le 31 décembre 2023.

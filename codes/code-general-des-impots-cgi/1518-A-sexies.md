@@ -12,6 +12,10 @@ Lorsque l'exploitant change pendant l'application de la réduction prévue au pr
 
 B.-Lorsqu'un rôle particulier est établi en application de l'article 1508, la réduction de la variation de valeur locative prévue au A du présent II s'applique à compter de la première année au titre de laquelle les bases rectifiées sont prises en compte dans les rôles généraux.
 
+III.-Pour les locaux qui bénéficient au 31 décembre 2020 du II du présent article, la réduction est recalculée, pour les années restant à courir, après application du 3 des I et III de l'article 1518 A quinquies et de l'article 1499 dans sa rédaction applicable aux impositions dues au titre de 2021.
+
 NOTA :
 
-Conformément aux dispositions du B du III de l'article 156 de la loi n° 2018-1317 du 28 décembre 2018, l'article 1518 A sexies s'applique pour les changements constatés à compter du 1er janvier 2019.
+Conformément au B du VII de l’article 16 de la loi n° 2019-1479 du 28 décembre 2019, les présentes dispositions s’appliquent à compter des impositions établies au titre de 2021.
+
+Conformément au IV, A de l'article 29 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux impositions établies à compter de 2021.
