@@ -108,6 +108,8 @@ f. Le tarif de la taxe applicable à l'électricité consommée par les exploita
 
 g. (abrogé)
 
+h. Le tarif de la taxe applicable à l'électricité directement fournie, lors de leur stationnement à quai dans les ports, aux navires mentionnés au c du 1 de l'article 265 bis et aux engins bénéficiant de l'exonération mentionnée au e du même 1 est fixé à 0,5 € par mégawattheure.
+
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de leur activité.
 
 Ils tiennent une comptabilité des livraisons d'électricité qu'ils effectuent en France et communiquent à l'administration chargée du recouvrement le lieu de livraison effectif, le nom ou la raison sociale et l'adresse du destinataire.
@@ -136,7 +138,7 @@ Si le montant de la taxe exigible au titre d'un mois est supérieur de plus de 2
 
 Les petits producteurs mentionnés au 4° du 5 sont dispensés de l'obligation d'établir la déclaration.
 
-B. - Par dérogation au premier alinéa du A, les personnes mentionnées au 1° du 3 qui fournissent de l'électricité dans les îles Wallis et Futuna peuvent déclarer et acquitter la taxe relative à ces fournitures auprès de l'administration des douanes et droits indirects selon une périodicité annuelle.
+B. - Par dérogation au premier alinéa du A, les personnes mentionnées au 1° du 3 qui fournissent de l'électricité dans les îles Wallis et Futuna peuvent déclarer et acquitter la taxe relative à ces fournitures auprès de l'administration des douanes et des droits indirects selon une périodicité annuelle.
 
 La déclaration annuelle, conforme à un modèle fixé par l'administration, est déposée avant le 31 janvier de l'année suivant celle au cours de laquelle l'imposition est due.
 
@@ -154,6 +156,4 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 
 NOTA :
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
-
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date
+Conformément au II de l'article 66 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à l'entrée en vigueur de la décision d'exécution du Conseil de l'Union européenne autorisant les dispositions prévues au même I en application de l'article 19 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité. Le décret n° 2020-1730 a fixé cette date au 1er janvier 2021.
