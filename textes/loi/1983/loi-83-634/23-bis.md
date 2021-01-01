@@ -14,7 +14,7 @@ III.-Le fonctionnaire occupant un emploi à temps complet qui bénéficie de l'u
 
 IV.-Par dérogation à l'article 17, le fonctionnaire occupant un emploi à temps complet qui bénéficie de l'une des mesures prévues au I du présent article et qui consacre une quotité de temps de travail au moins égale à 70 % et inférieure à 100 % d'un service à temps plein à une activité syndicale a droit à un entretien annuel avec l'autorité hiérarchique dont il relève, sans être soumis à une appréciation de sa valeur professionnelle.
 
-Toutefois, cet entretien annuel n'a pas lieu lorsque les dispositions du statut particulier de son corps ou cadre d'emplois d'origine prévoient le maintien d'un système de notation.
+Toutefois, cet entretien annuel n'a pas lieu lorsque les dispositions du statut particulier de son corps ou cadre d'emplois d'origine prévoient des modalités différentes d'appréciation de la valeur professionnelle.
 
 V.-Les compétences acquises dans l'exercice d'une activité syndicale sont prises en compte au titre des acquis de l'expérience professionnelle.
 
@@ -22,4 +22,6 @@ VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent a
 
 NOTA :
 
-Conformément à l'article 58 V de la loi n° 2016-483 du 20 avril 2016, les II à IV de l'article 23 bis entrent en vigueur à la date de publication du décret en Conseil d'Etat prévu au VI du même article.
+Conformément au VII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er janvier 2021 et sont applicables aux entretiens professionnels conduits au titre de l'année 2020.
+
+Conformément aux dispositions du XX du même article, ces dispositions s'appliquent nonobstant toute disposition statutaire contraire.

@@ -8,7 +8,7 @@ Des recrutements distincts pour les femmes ou les hommes peuvent, exceptionnelle
 
 De même, des distinctions peuvent être faites entre les femmes et les hommes en vue de la désignation, par l'administration des présidents et, des membres des jurys et des comités de sélection constitués pour le recrutement et l'avancement des fonctionnaires et de ses représentants au sein des organismes consultés sur les décisions individuelles relatives à la carrière des fonctionnaires et sur les questions relatives à l'organisation et au fonctionnement des services, afin de concourir à une représentation équilibrée entre les femmes et les hommes dans ces organes.
 
-Aucune mesure concernant notamment le recrutement, la titularisation, la rémunération, la formation, l'évaluation, la notation, la discipline, la promotion, l'affectation et la mutation ne peut être prise à l'égard d'un fonctionnaire en prenant en considération :
+Aucune mesure concernant notamment le recrutement, la titularisation, la rémunération, la formation, l'appréciation de la valeur professionnelle, la discipline, la promotion, l'affectation et la mutation ne peut être prise à l'égard d'un fonctionnaire en prenant en considération :
 
 1° Le fait qu'il a subi ou refusé de subir des agissements contraires aux principes énoncés aux deux premiers alinéas ;
 
@@ -19,3 +19,9 @@ Aucune mesure concernant notamment le recrutement, la titularisation, la rémun�
 Est passible d'une sanction disciplinaire tout agent ayant procédé ou enjoint de procéder aux agissements définis ci-dessus.
 
 Le Gouvernement présente devant le Conseil commun de la fonction publique un rapport sur les mesures mises en œuvre pour assurer l'égalité professionnelle entre les femmes et les hommes. Ce rapport annuel, dont les modalités de mise en œuvre sont définies par décret, comprend notamment des données relatives au recrutement, à la féminisation des jurys, à la formation, au temps de travail, à la promotion professionnelle, aux conditions de travail, à la rémunération et à l'articulation entre l'activité professionnelle et la vie personnelle. Ce rapport est remis au Parlement.
+
+NOTA :
+
+Conformément au VII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er janvier 2021 et sont applicables aux entretiens professionnels conduits au titre de l'année 2020.
+
+Conformément aux dispositions du XX du même article, ces dispositions s'appliquent nonobstant toute disposition statutaire contraire.
