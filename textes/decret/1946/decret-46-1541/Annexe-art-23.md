@@ -380,7 +380,7 @@ a) Les cotisations destinées au financement des charges du régime complémenta
 
 b) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en inactivité, aux pensionnés de tous ordres et à leurs ayants droit sont constituées :
 
--d'une cotisation de solidarité, supportée par les agents en activité, assise sur l'assiette définie au point a ci-dessus, dans la limite du plafond fixé pour la cotisation instituée au point a ci-dessus. Le taux de cette cotisation est fixé à 1,39 % ;
+-d'une cotisation de solidarité, supportée par les agents en activité, assise sur l'assiette définie au point a ci-dessus, dans la limite du plafond fixé pour la cotisation instituée au point a ci-dessus. Le taux de cette cotisation est fixé à 1,15 % ;
 
 -d'une cotisation d'équilibre à la charge des agents en inactivité et des pensionnés de tous ordres, assise sur les pensions qui leur sont versées. Le plafond et le taux de cette cotisation sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale et contresigné du ministre chargé du budget, sur proposition de la caisse d'assurance maladie des industries électriques et gazières ou sur l'initiative d'un des ministres chargés de la tutelle du régime. Les dispositions de l'article L. 243-2 du code de la sécurité sociale sont applicables aux cotisations dues par les agents en inactivité et pensionnés de tous ordres.
 
@@ -480,4 +480,4 @@ La caisse d'assurance maladie des industries électriques et gazières est tenue
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 1 du décret n° 2020-1689 du 23 décembre 2020, les présentes dispositions sont applicables aux cotisations dues au titre des périodes courant à compter du 1er janvier 2021.
