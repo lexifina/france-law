@@ -1,0 +1,11 @@
+# Article 1er
+
+L'article 2 de l'accord prend la nouvelle rédaction suivante :
+
+« Il est convenu :
+
+– d'une part que chaque salarié, ancien assimilé cadre, ne peut rester plus de 4 ans dans la catégorie C0 niveau 2 dont l'échéance est fixée au 31 décembre 2025.
+
+Au-delà de ce délai, le salarié rejoint la classification cadre de la convention collective de l'enseignement privé indépendant ;
+
+– d'autre part, que chaque salarié correspondant à la définition de l'article 1er et relevant des deux filières de métiers stipulées à l'article 3 du présent accord, qui bénéficiait d'une classification cadre sous contrat de travail au moment du changement de convention collective est reclassé à partir du 1er janvier 2021 sur une classification de cadre prévue par la convention collective de l'enseignement privé indépendant et bénéficie des minima de la catégorie C fixés par les annexes 1-A ou 1-B (selon le cas) de la convention collective. »
