@@ -1,0 +1,27 @@
+# Article 1er
+
+Les contenus des articles 11 relatifs aux cotisations et répartition des deux accords du 14 octobre 2015 relatifs à l'instauration d'une couverture santé complémentaire, pris dans les champs d'application de la convention collective nationale des cabinets et cliniques vétérinaire, d'une part, et de la convention collective nationale des vétérinaires praticiens salariés, d'autre part, désormais fusionnés, ce dernier accord étant désormais transféré en annexe n° 7 de la convention collective nationale des cabinets et cliniques vétérinaires, sont supprimés et remplacés pour les stipulations suivantes :
+
+« La cotisation est fixée à :
+
+– 40,48 € par mois pour les salariés relevant du régime général de la sécurité sociale ;
+
+– 22,13 € par mois pour les salariés relevant du régime local Alsace Moselle.
+
+Dans le cadre de cette cotisation, 2 % sont affectés au financement de prestations à caractère non directement contributif.
+
+Ces prestations prennent notamment la forme de financement d'actions de prévention des risques professionnels dans le secteur.
+
+Il a été convenu par l'ensemble des partenaires sociaux de la branche que les organismes assureurs, recommandés ou non, devaient mettre en œuvre des actions de prévention à destination des salariés dans le cadre du degré élevé de solidarité. La thématique de la gestion des conflits entre les clients et les salariés des cabinets vétérinaires a été choisie au titre de l'année 2021, afin d'accompagner les salariés à maîtriser certaines situations d'incivilités rencontrées (dues à la perte de 1 animal, par exemple). Les actions de prévention prendront la forme d'une campagne de sensibilisation et de communication à destination à la fois des salariés et de la clientèle des cabinets et cliniques, ainsi que de l'accès à une plate-forme d'accompagnement par téléphone, 24 heures/24 et 7 jours/7 en cas d'agression.
+
+La cotisation est répartie à raison de 50 % à la charge de l'employeur et de 50 % à la charge du salarié, pour les garanties définies en annexe 1.
+
+Cette couverture s'impose de plein droit, dans les relations individuelles de travail, à l'ensemble des salariés en tant qu'élément du statut conventionnel applicable.
+
+À ce titre, le précompte correspondant à la part salariale des cotisations est obligatoire.
+
+L'employeur peut prendre en charge au moins la différence existante entre la cotisation pleine et celle des salariés à temps partiel, dès lors que l'absence d'une telle prise en charge conduirait ces salariés à acquitter une contribution au moins égale à 10 % de leur rémunération, sauf dans les cas prévus à l'article 4 de l'accord collectif relatif à la complémentaire santé. »
+
+(1) Article étendu sous réserve du respect des dispositions des articles L. 911-7, L. 911-7-1 et D. 911-2 du code de la sécurité sociale.
+
+(Arrêté du 4 octobre 2021 - art. 1)
