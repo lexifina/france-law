@@ -1,12 +1,12 @@
 # Article Annexe 2
 
-PLAFONDS DE RESSOURCES PRÉVUS À L'ARTICLE 2
+Plafonds de ressources prévus à l'article 2
 
-NOMBRE DE PERSONNES
+Nombre de personnes
 
 composant le ménage |
 
-ILE-DE-FRANCE
+Ile-de-France
 
 (en euros) |
 
@@ -16,36 +16,40 @@ PROVINCE
 
 1 |
 
-24 443 |
+25 068 |
 
-18 598 |
+19 074 |
 
 2 |
 
-35 875 |
+36 792 |
 
-27 200 |
+27 896 |
 
 3 |
 
-43 086 |
+44 188 |
 
-32 710 |
+33 547 |
 
 4 |
 
-50 311 |
+51 597 |
 
-38 215 |
+39 192 |
 
 5 |
 
-57 555 |
+59 026 |
 
-43 742 |
+44 860 |
 
 Par personne supplémentaire |
 
-7 236 |
+7 422 |
 
-5 510 |
+5 651 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 22 décembre 2020, ces dispositions sont applicables aux demandes de subventions déposées à compter du 1er janvier 2021.
