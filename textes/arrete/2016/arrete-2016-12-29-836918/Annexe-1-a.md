@@ -10,10 +10,6 @@ Chefs de service intérieur (décret n° 71-990 du 13 décembre 1971 modifié re
 
 Agents principaux des services techniques (décret n° 75-888 du 23 septembre 1975 modifié portant dispositions applicables aux emplois d'agent principal des services techniques).
 
-Professeurs de sport (décret n° 85-720 du 10 juillet 1985 modifié relatif au statut particulier des professeurs de sport).
-
-Conseillers d'éducation populaire et de jeunesse (décret n° 85-721 du 10 juillet 1985 modifié relatif au statut particulier des conseillers d'éducation populaire et de jeunesse).
-
 Experts techniques des services techniques (décret n° 86-1046 du 15 septembre 1986 modifié relatif au statut particulier du corps des experts techniques des services techniques du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports).
 
 Ingénieurs de l'industrie et des mines (décret n° 88-507 du 29 avril 1988 portant création et statut particulier du corps des ingénieurs de l'industrie et des mines).
@@ -94,11 +90,7 @@ Inspecteurs de la santé publique vétérinaire (décret n° 2002-262 du 22 fév
 
 Inspecteurs de l'action sanitaire et sociale (décret n° 2002-1569 du 24 décembre 2002 modifié portant statut particulier du corps de l'inspection de l'action sanitaire et sociale).
 
-Conseillers techniques et pédagogiques supérieurs (décret n° 2004-272 du 24 mars 2004 modifié relatif au statut particulier des conseillers techniques et pédagogiques supérieurs).
-
 Architectes et urbanistes de l'Etat (décret n° 2004-474 du 2 juin 2004 modifié portant statut du corps des architectes et urbanistes de l'Etat).
-
-Inspecteurs de la jeunesse et des sports (décret n° 2004-697 du 12 juillet 2004 portant statut particulier du corps des inspecteurs de la jeunesse et des sports).
 
 Inspecteurs généraux et inspecteurs de l'administration et du développement durable (décret n° 2005-367 du 21 avril 2005 modifié relatif au statut particulier du corps des inspecteurs généraux et inspecteurs de l'administration du développement durable).
 
@@ -193,3 +185,5 @@ Ingénieurs des systèmes d'information et de communication (décret n° 2015-57
 NOTA :
 
 Conformément aux dispositions de l'article 30 du décret n° 2017-607 du 21 avril 2017, la référence aux inspecteurs de la santé publique vétérinaire est remplacée par la référence aux inspecteurs de santé publique vétérinaire.
+
+Conformément à l'article 2 de l'arrêté du 11 décembre 2020 (NOR : MENR2035097A), les présentes dispositions entrent en vigueur au 1er janvier 2021.
