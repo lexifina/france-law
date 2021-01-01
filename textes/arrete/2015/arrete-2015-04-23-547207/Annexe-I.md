@@ -192,6 +192,8 @@ Direction des ressources humaines du ministère de la défense
 
 Directeur de Défense mobilité
 
+Directeur du service des pensions et des risques professionnels
+
 |
 
 Direction des patrimoines, de la mémoire et des archives
