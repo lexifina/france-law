@@ -10,68 +10,74 @@ et communes limitrophes
 
 (en euros) |
 
-ILE-de-FRANCE
+ILE-DE-FRANCE
 
-hors Paris et communes limitrophes
+hors Paris et communes
+
+limitrophes
 
 (en euros) |
 
-AUTRES REGIONS
+AUTRES RÉGIONS
 
 (en euros) |
 
 1 |
 
-13 207 |
+13268 |
 
-13 207 |
+13 268 |
 
-11 478 |
+11 531 |
 
 2 |
 
-21 527 |
+21 626 |
 
-21 527 |
+21 626 |
 
-16 723 |
+16 800 |
 
 3 |
 
-28 218 |
+28 348 |
 
-25 876 |
+25 995 |
 
-20 110 |
+20 203 |
 
 4 |
 
-30 887 |
+31 029 |
 
-28 412 |
+28 543 |
 
-22 376 |
+22 479 |
 
 5 |
 
-36 743 |
+36 912 |
 
-33 637 |
+33 792 |
 
-26 180 |
+26 300 |
 
 6 |
 
-41 349 |
+41 539 |
 
-37 850 |
+38 024 |
 
-29 505 |
+29 641 |
 
 Par personne supplémentaire |
 
-4 607 |
+4 628 |
 
-4 216 |
+4 235 |
 
-3 291 |
+3 306 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 24 décembre 2020 ( NOR : LOGL2035398A ), ces dispositions entrent en vigueur le 1er janvier 2021.
