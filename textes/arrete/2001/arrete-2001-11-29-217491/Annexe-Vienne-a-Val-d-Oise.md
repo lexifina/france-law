@@ -248,77 +248,73 @@ A
 
 Direction départementale des territoires de l'Essonne
 
-FONCTIONS EXERCÉES |
+Fonctions exercées |
 
-NIVEAU
-
-de qualification
+Niveau de qualification
 
 de l'emploi |
 
-NOMBRE
+Nombre d'emplois |
 
-d'emplois |
+Nombre de points (IM)
 
-NOMBRE DE POINTS
+par emploi |
 
-(IM) par emploi |
-
-Chef du service habitat et renouvellement urbain |
+Chef du service Habitat et Renouvellement Urbain |
 
 A |
 
 1 |
 
-30 points |
+30 |
 
-Adjoint au chef du service habitat et renouvellement urbain chargé de la rénovation urbaine |
+Adjoint au chef du service Habitat et Renouvellement Urbain, chargé de la rénovation urbaine |
 
 A |
 
 1 |
 
-32 points |
+32 |
 
-Chargé de mission rénovation urbaine |
+Chargé de mission " Rénovation Urbaine " |
 
 A |
 
 2 |
 
-20 points |
+20 |
 
-Chef du bureau du parc privé |
+Chef du bureau du Parc Privé |
 
 A |
 
 1 |
 
-28 points |
+28 |
 
-Adjoint au chef du bureau du parc public et rénovation urbaine |
-
-B |
-
-1 |
-
-20 points |
-
-Instructeur de dossier politique de la ville |
+Adjoint au chef du bureau Parc Public et Rénovation Urbaine |
 
 B |
 
 1 |
 
-15 points |
+20 |
 
-Instructeur de dossier logement social quartiers prioritaires |
+Instructeur de dossier " Quartiers prioritaires de la politique de la ville " |
 
 B |
 
 1 |
 
-15 points |
+15 |
+
+Instructeur de dossier logement social " Quartiers prioritaires de la politique de la ville " |
+
+B |
+
+1 |
+
+15 |
 
 Direction régionale et interdépartementale de l'hébergement
 
@@ -817,3 +813,5 @@ Arrêté du 12 mars 2014 art. 1 : les modifications insérées par le présent a
 Conformément à l'article 1er de l'arrêté du 28 juillet 2017 (TERK1722360A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Essonne entrent en vigueur le 1er janvier 2017.
 
 Conformément à l'article 1er de l'arrêté du 26 février 2019 (TREK1905850A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Yonne entrent en vigueur le 1er octobre 2017.
+
+Conformément à l'article 1er de l'arrêté du 5 mai 2022 (NOR : TERK2213530A), les dispositions pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Essonne entrent en vigueur à effet du 1er janvier 2021.

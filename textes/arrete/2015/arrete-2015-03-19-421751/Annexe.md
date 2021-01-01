@@ -25,3 +25,11 @@ Corps secrétaires administratifs relevant du ministère de la culture et de la 
 Corps des secrétaires administratifs relevant des juridictions financières.
 
 Corps des secrétaires administratifs du ministère de la défense.
+
+Corps des secrétaires administratifs spécialisés de la direction générale de la sécurité extérieure.
+
+Corps des contrôleurs spécialisés de la direction générale de la sécurité extérieure.
+
+NOTA :
+
+Conformément à l'article 14 de l'arrêté du 12 mars 2021 (NOR : ARMH2106828A), ces dispositions entrent en vigueur le 1er janvier 2021.

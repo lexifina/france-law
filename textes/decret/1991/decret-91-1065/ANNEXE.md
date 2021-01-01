@@ -418,6 +418,16 @@ Fonctions d'encadrement ;
 
 Fonctions impliquant une technicité particulière.
 
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE AU TITRE DE LA NEUVIÈME TRANCHE :
+
+Fonctions d'encadrement dans des bureaux des étrangers à la préfecture de police de Paris.
+
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE AU TITRE DE LA DIXIÈME TRANCHE :
+
+Fonctions d'encadrement dans certains services des secrétariats généraux communs départementaux ;
+
+Fonctions impliquant une technicité particulière dans certains services des secrétariats généraux communs départementaux.
+
 NOTA :
 
-Conformément au premier alinéa de l’article 3 du décret n° 2022-593, ces dispositions entrent en vigueur le 1er janvier 2019.
+Conformément à l’article 2 du décret n° 2023-1203 du 19 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2021.

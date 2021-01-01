@@ -1,379 +1,113 @@
 # Article Annexe 3
 
-PIÈCES JUSTIFICATIVES DEMANDÉES AUX MANDATAIRES
+PIÈCES JUSTIFICATIVES OBLIGATOIRES POUR UNE DEMANDE DE PRIME À LA TRANSITION ÉNERGÉTIQUE, UNE DEMANDE D'AVANCE OU UNE DEMANDE DE SOLDE
+
+Catégorie |
+
+Informations dossiers demandeur |
+
+Commentaires |
+
+Demande de prime |
+
+Plan de financement mentionnant les différentes aides, indemnités et remises |
 
 |
 
-|
+Demande de prime |
 
-Types de mandataires |
+Cadre contribution CEE
 
-Informations (i) et
-
-Pièces justificatives (PJ)
-
-demandées |
-
-Personnes morales-
-
-Ne contractualisant pas
-
-avec les pouvoirs publics
-
--Je réalise les travaux
-
--Je suis intermédiaire dans la réalisation
-
-des travaux
-
-(financement, conseil,
-
-syndic professionnel) |
-
-Personnes morales-Acteurs publics,
-
-parapublics
-
-ou conventionnés
-
--Je suis membre
-
-du réseau Faire
-
--Je suis un Opérateur habitat
-
--Je suis une association de pays
-
--Je suis un entreprise publique locale
-
--Je suis une Collectivité territoriale
-
--Je suis un GIP
-
--je suis un organisme de Maitrise d'Ouvrage d'Insertion |
-
-Personnes physiques-non professionnelles |
-
-Syndic
-
-non-professionnel |
-
-Personnes physiques-professionnelles
-
--Je suis un artisan
-
--Je suis un auto-
-
-entrepreneur
-
--Je suis un agent
-
-commercial |
-
-i |
-
-Civilité, Nom, prénom |
-
-X (de la personne agissant pour le compte de la personne morale) |
-
-X (de la personne agissant pour le compte de la personne morale) |
-
-X |
-
-X |
-
-X |
-
-i |
-
-Fonction |
-
-X (de la personne agissant pour le compte de la personne morale) |
-
-X (de la personne agissant pour le compte de la personne morale) |
+ou, le cas échéant, cadre contribution MDE |
 
 |
 
-|
+Demande de prime |
+
+Certificat de qualification ou certification RGE |
 
 |
 
-i |
+Demande de prime |
 
-Lien avec le demandeur |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-i |
-
-N° de téléphone |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-i |
-
-Identifiant |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-i |
-
-Mot de passe |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-i |
-
-Adresse sur le territoire national |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-i |
-
-N° IBAN (si mandat de perception des fonds) |
-
-X |
-
-X |
-
-X |
-
-X |
-
-X |
-
-i |
-
-Raison sociale ou dénomination |
-
-X |
-
-X |
+Engagement sur l'honneur à louer le logement à titre de résidence principale pour une durée minimum de 5 ans pour les personnes physiques visées au II de l'article 1 du décret du 14 janvier 2020 susvisé |
 
 |
 
-X |
+Demande de prime
+
+(uniquement dans le cas d'une prestation d'assistance à maîtrise d'ouvrage mentionnée au 14 de l'annexe 1 du décret du 14 janvier 2020 susvisé) |
+
+Contrat de la prestation d'assistance à maîtrise d'ouvrage |
 
 |
 
-i |
+Demande de prime
 
-SiREN/ SiRET |
+Demande d'avance |
 
-X |
+Devis détaillé des travaux (mentionnant le cas échéant, le montant de la prime économie d'énergie-prime maitrise de la demande en énergie-en Corse et dans les collectivités régies par l'article 73 de la Constitution) |
 
-X (optionnel) |
+Pour une demande d'avance : copie du devis daté et signé par le demandeur et le cas échéant son mandataire et l'entreprise avec mention de demande d'acompte de l'entreprise |
 
-|
+Demande d'avance |
 
-|
-
-X |
-
-i |
-
-Civilité, nom, prénom du représentant légal |
-
-X |
-
-X |
+Formulaire de demande d'avance |
 
 |
 
-X |
+Demande de solde |
+
+Le cas échéant, mandat de perception des fonds pour un tiers |
 
 |
 
-PJ |
+Demande de prime
 
-RIB (si mandat de perception des fonds) |
+Demande de solde
 
-X |
+(uniquement pour un ensemble de travaux mentionné au 15 de l'annexe 1 du décret du 14 janvier 2020 susvisé et des sommes forfaitaires mentionnées au I de l'article 3 du même décret) |
 
-X |
+Attestation de conformité des travaux |
 
-X |
+Attestation en annexe 1 de l'arrêté du 17 novembre 2020 susvisé remplie par le demandeur, l'auditeur, et les entreprises réalisant les travaux ou prestations |
 
-X |
+Demande de solde |
 
-X |
-
-PJ |
-
-Liste consolidée des mandats sociaux du représentant légal |
-
-X |
+Factures |
 
 |
 
-|
+Demande de solde |
+
+Certificat de qualification ou certification RGE |
 
 |
 
-|
+Demande d'avance Demande de solde |
 
-PJ |
-
-Pièce d'identité du représentant légal |
-
-X |
+RIB au nom du demandeur ou de son mandataire (si mandat de perception des fonds) |
 
 |
 
-|
+Demande de prime Demande d'avance Demande de solde |
 
-X |
+Formulaire CERFA de désignation d'un mandataire de gestion |
 
-|
+Signature du mandataire et du mandant |
 
-PJ |
+Demande d'avance Demande de solde |
 
-Extrait KBIS (Régistre du Commerce et des Scoiété) ou Extrait D1 (Répertoire des Métiers) de-3 mois |
+Formulaire CERFA de désignation d'un mandataire de perception des fonds |
 
-X |
+Signature du mandataire et du mandant |
 
-|
+Demande de prime, avance, solde |
 
-|
-
-|
-
-X |
-
-PJ |
-
-Inscription au registre spécial des agents commerciaux (Si agent commercial) |
+Avis d'imposition ou le cas échéant, un justificatif de propriété ou une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit d'usage et d'habitation sur l'immeuble subventionné et indiquant le titulaire de ce droit |
 
 |
 
-|
+NOTA :
 
-|
-
-|
-
-X |
-
-PJ |
-
-Inscription au RCS (si auto-entrepreneur) |
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-PJ |
-
-Statuts de l'organisme |
-
-X |
-
-X |
-
-|
-
-|
-
-|
-
-PJ |
-
-Extrait de casier judiciaire du représentant légal [B2] |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-PJ |
-
-Attestation de Responsabilité Civile et/ ou professionnelle |
-
-X |
-
-|
-
-|
-
-|
-
-X |
-
-PJ |
-
-Document relatif au bénéficiaire effectif (DBE) |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-PJ |
-
-Procès-verbal d'Assemblée Générale de copropriété (désignant le gestionnaire) ou document désignant le syndic non-professionnel |
-
-|
-
-|
-
-|
-
-X |
-
-|
+Conformément à l'article 12 de l'arrêté du 25 janvier 2021 (LOGL2100768A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.

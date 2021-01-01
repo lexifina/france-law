@@ -1,93 +1,379 @@
 # Article Annexe 2
 
-PIÈCES JUSTIFICATIVES OBLIGATOIRES POUR UNE DEMANDE DE PRIME À LA TRANSITION ÉNERGÉTIQUE, UNE DEMANDE D'AVANCE OU UNE DEMANDE DE SOLDE
+BARÈMES RELATIFS AU MONTANT DE LA PRIME
 
-Catégorie |
+Dans les deux tableaux figurant ci-après :
 
-Informations dossiers demandeur |
+-"l'annexe 1" renvoie à l'annexe 1 du décret n° 2020-26 du 14 janvier 2020 relatif à la prime de transition énergétique ;
 
-Commentaires |
+-les ressources modestes, très modestes, intermédiaires ou supérieures sont entendues au sens du décret n° 2020-26 du 14 janvier 2020 précité.
 
-Demande de prime |
-
-Procès-verbal de l'assemblée générale de la copropriété concernant la décision de projet de travaux (uniquement pour des travaux sur les parties communes d'un immeuble collectif)
-
-Plan de financement mentionnant les différentes aides, indemnités et remises |
+Tableau 1 : Dépenses mentionnées au I de l'article 2 du décret n° 2020-26 du 14 janvier 2020et au I de l'article 2 du présent arrêté.
 
 |
 
-Demande de prime |
+Prime de transition énergétique |
 
-Attestation de quote-part du propriétaire occupant, pour chaque type de travaux demandés |
-
-Uniquement pour des travaux sur les parties communes d'un immeuble collectif, attestation de la quote-part des dépenses du propriétaire telle qu'arrêtée lors du vote des travaux |
-
-Demande de prime |
-
-Cadre contribution CEE
-
-ou, le cas échéant, cadre contribution MDE |
+Plafond de dépense éligible (€ TTC) |
 
 |
 
-Demande de prime
+Ménages aux ressources très modestes |
 
-Demande d'avance |
+Ménages aux ressources modestes |
 
-Devis détaillé des travaux (mentionnant le cas échéant, le montant de la prime économie d'énergie-prime maitrise de la demande en énergie-en Corse et dans les collectivités régies par l'article 73 de la Constitution) |
+Ménages aux ressources intermédiaires |
 
-Pour une demande d'avance : copie du devis daté et signé par le demandeur et le cas échéant son mandataire et l'entreprise avec mention de demande d'acompte de l'entreprise |
-
-Demande d'avance |
-
-Formulaire de demande d'avance |
+Ménages aux ressources supérieures |
 
 |
 
-Demande de solde |
+Chaudières à très haute performance énergétique, à l'exception de celles utilisant le fioul comme source d'énergie, mentionnées au 1 de l'annexe 1 |
 
-Attestation de chantier réalisé |
+1 200 € |
 
-Uniquement pour des travaux sur les parties communes d'un immeuble collectif |
+800 € |
 
-Demande de solde |
+X |
 
-Attestation de quote-part du propriétaire occupant, pour chaque type de travaux demandés |
+X |
 
-Uniquement pour des travaux sur les parties communes d'un immeuble collectif, attestation de la quote-part des dépenses du propriétaire telle qu'arrêtée après les travaux et les comptes régulièrement approuvés |
+4 000 € |
 
-Demande de solde |
+Chaudières à alimentation automatique fonctionnant au bois ou autres biomasse, mentionnées au a du 2 de l'annexe 1 |
 
-Le cas échéant, mandat de perception des fonds pour un tiers |
+10 000 € |
+
+8 000 € |
+
+4 000 € |
+
+X |
+
+18 000 € |
+
+Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasse, mentionnées au b du 2 de l'annexe 1 |
+
+8 000 € |
+
+6 500 € |
+
+3 000 € |
+
+X |
+
+16 000 € |
+
+Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendants fonctionnant au bois ou autres biomasses, mentionnés au c du 2 de l'annexe 1 : |
+
+|
 
 |
 
-Demande de solde |
-
-Factures |
+|
 
 |
 
-Demande d'avance Demande de solde |
+|
 
-RIB au nom du demandeur ou de son mandataire (si mandat de perception des fonds) |
+Poêles à granulés, cuisinières à granulés |
+
+3 000 € |
+
+2 500 € |
+
+1 500 € |
+
+X |
+
+5 000 € |
+
+Poêles à bûches, cuisinières à bûches |
+
+2 500 € |
+
+2 000 € |
+
+1 000 € |
+
+X |
+
+4 000 € |
+
+Foyers fermés, inserts |
+
+2 000 € |
+
+1 200 € |
+
+600 € |
+
+X |
+
+4 000 € |
+
+Equipements de production de chauffage fonctionnant à l'énergie solaire thermique, mentionnés au a du 3 de l'annexe 1 |
+
+10 000 € |
+
+8 000 € |
+
+4 000 € |
+
+X |
+
+16 000 € |
+
+Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique, mentionnés au b du 3 de l'annexe 1 |
+
+4 000 € |
+
+3 000 € |
+
+2 000 € |
+
+X |
+
+7 000 € |
+
+Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide, mentionnés au c du 3 de l'annexe 1 |
+
+2 500 € |
+
+2 000 € |
+
+1 000 € |
+
+X |
+
+4 000 € |
+
+Pompes à chaleur géothermiques ou solarothermiques, mentionnées au a du 4 de l'annexe 1 |
+
+10 000 € |
+
+8 000 € |
+
+4 000 € |
+
+X |
+
+18 000 € |
+
+Pompe à chaleur air/ eau, mentionnée au b du 4 de l'annexe 1 |
+
+4 000 € |
+
+3 000 € |
+
+2 000 € |
+
+X |
+
+12 000 € |
+
+Pompes à chaleur dédiées à la production d'eau chaude sanitaire, mentionnées au c du 4 de l'annexe 1 |
+
+1 200 € |
+
+800 € |
+
+400 € |
+
+X |
+
+3 500 € |
+
+Equipements de raccordement, ou droits et frais de raccordement, à un réseau de chaleur ou de froid, mentionnés au 5 de l'annexe 1 |
+
+1 200 € |
+
+800 € |
+
+400 € |
+
+X |
+
+1 800 € |
+
+Dépose d'une cuve à fioul, mentionnée au 6 de l'annexe 1 |
+
+1 200 € |
+
+800 € |
+
+400 € |
+
+X |
+
+4 000 € |
+
+Systèmes de ventilation mécanique contrôlée double flux autoréglables ou hygroréglables, mentionnés au 7 de l'annexe 1 |
+
+4 000 € |
+
+3 000 € |
+
+2 000 € |
+
+X |
+
+6 000 € |
+
+Audit énergétique, mentionné au 8 de l'annexe 1 |
+
+500 € |
+
+400 € |
+
+300 € |
+
+X |
+
+800 € |
+
+Isolation thermique des parois vitrées, mentionnée au 9 de l'annexe 1 |
+
+100 €/ équipement |
+
+80 €/ équipement |
+
+40 €/ équipement |
+
+X |
+
+1 000 €/ équipement |
+
+Isolation des murs en façade ou pignon, mentionnée au 10 de l'annexe 1 : |
 
 |
 
-Demande de prime Demande d'avance Demande de solde |
-
-Formulaire CERFA de désignation d'un mandataire de gestion |
-
-Signature du mandataire et du mandant |
-
-Demande d'avance Demande de solde |
-
-Formulaire CERFA de désignation d'un mandataire de perception des fonds |
-
-Signature du mandataire et du mandant |
-
-Demande de prime, avance, solde |
-
-Avis d'imposition ou le cas échéant, un justificatif de propriété |
+|
 
 |
+
+|
+
+|
+
+Isolation des murs par l'extérieur |
+
+75 €/ m2 |
+
+60 €/ m2 |
+
+40 €/ m2 |
+
+15 €/ m2 |
+
+150 €/ m2 |
+
+Isolation des murs par l'intérieur |
+
+25 €/ m2 |
+
+20 €/ m2 |
+
+15 €/ m2 |
+
+7 €/ m2 |
+
+70 €/ m2 |
+
+Isolation des rampants de toiture et plafonds de combles, mentionnée au 11 de l'annexe 1 : |
+
+25 €/ m2 |
+
+20 €/ m2 |
+
+15 €/ m2 |
+
+7 €/ m2 |
+
+75 €/ m2 |
+
+Isolation des toitures terrasses, mentionnée au 12 de l'annexe 1 |
+
+75 €/ m2 |
+
+60 €/ m2 |
+
+40 €/ m2 |
+
+15 €/ m2 |
+
+180 €/ m2 |
+
+Equipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires, pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionnés au 13 de l'annexe 1 |
+
+25 €/ m2 |
+
+20 €/ m2 |
+
+15 €/ m2 |
+
+X |
+
+200 €/ m2 |
+
+Prestation d'assistance à maîtrise d'ouvrage mentionnée au 14 de l'annexe 1 |
+
+150 € |
+
+150 € |
+
+150 € |
+
+150 € |
+
+400 € |
+
+Ensemble de travaux mentionné au 15 de l'annexe 1 |
+
+X |
+
+X |
+
+7 000 € |
+
+3 500 € |
+
+50 000 € |
+
+Tableau 2 : sommes forfaitaires mentionnées au septième alinéa du I de l'article 3 du décret n° 2020-26 du 14 janvier 2020 précitéet aux articles 13-3 et 13-4 de l'arrêté du 17 novembre 2020 précité
+
+|
+
+Ménages aux ressources très modestes |
+
+Ménages aux ressources modestes |
+
+Ménages aux ressources intermédiaires |
+
+Ménages aux ressources supérieures |
+
+Somme forfaitaire mentionnée à l'article 13-3 de l'arrêté du XXX précité |
+
+1 500 € |
+
+1 500 € |
+
+1 000 € |
+
+500 € |
+
+Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté du XXX précité |
+
+1 500 € |
+
+1 500 € |
+
+1 000 € |
+
+500 € |
+
+.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 25 janvier 2021 (LOGL2100768A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.

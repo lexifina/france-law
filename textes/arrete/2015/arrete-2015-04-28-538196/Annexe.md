@@ -21,3 +21,11 @@ Ministère chargé du développement durable.
 Corps des adjoints techniques de l'intérieur et de l'outre-mer.
 
 Corps des adjoints techniques de la police nationale.
+
+Corps des agents techniques de la direction générale de la sécurité extérieure.
+
+Corps du personnel de surveillance de la direction générale de la sécurité extérieure.
+
+NOTA :
+
+Conformément à l'article 14 de l'arrêté du 12 mars 2021 (NOR : ARMH2106828A), ces dispositions entrent en vigueur le 1er janvier 2021.

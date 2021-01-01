@@ -28,4 +28,10 @@ Corps des adjoints administratifs de l'Institut national de la statistique et de
 
 Corps des adjoints administratifs relevant du Directeur général de l'Office national des forêts.
 
+Corps des adjoints administratifs de la direction générale de la sécurité extérieure.
+
 Ministère chargé du développement durable.
+
+NOTA :
+
+Conformément à l'article 14 de l'arrêté du 12 mars 2021 (NOR : ARMH2106828A), ces dispositions entrent en vigueur le 1er janvier 2021.

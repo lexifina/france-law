@@ -1,16 +1,8 @@
 # Article Annexe II
 
-PREFECTURE DE PARIS |
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE, À COMPTER DU 1ER JANVIER 2021
 
-|
-
-|
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire |
-
-|
-
-|
+PRÉFECTURE DE PARIS
 
 Libellé |
 
@@ -48,10 +40,6 @@ A |
 
 |
 
-|
-
-|
-
 AU TITRE DES ATTRIBUTIONS FINANCIERES, COMPTABLES ET JURIDIQUES |
 
 |
@@ -76,11 +64,11 @@ Adjoint au chef du centre de services partagés régional (CSPR) |
 
 A |
 
-Chef du bureau du BOP 307 " Administration territoriale " et de la modernisation |
+Chef du bureau du BOP 307 "Administration territoriale" et de la modernisation |
 
 A |
 
-Adjoint au chef du bureau du BOP 307 " Administration territoriale " et de la modernisation |
+Adjoint au chef du bureau du BOP 307 "Administration territoriale" et de la modernisation |
 
 A |
 
@@ -100,7 +88,7 @@ Chef de la section des marchés publics |
 
 B |
 
-Gestionnaire budget-fonction exécution |
+Gestionnaire budget- fonction exécution |
 
 B |
 
@@ -120,19 +108,19 @@ Chargé de la gestion des effectifs et de la masse salariale du BOP 307 |
 
 B |
 
-Gestionnaire budgétaire régional-Appui au pilotage du BOP 333 |
+Gestionnaire budgétaire régional - Appui au pilotage du BOP 333 |
 
 B |
 
-Gestionnaire budgétaire régional-Appui au pilotage du BOP 333 |
+Gestionnaire budgétaire régional - Appui au pilotage du BOP 333 |
 
 B |
 
-Gestionnaire budgétaire régional-Appui au pilotage du CAS 723 |
+Gestionnaire budgétaire régional - Appui au pilotage du CAS 723 |
 
 B |
 
-Gestionnaire budgétaire régional-Appui au pilotage du CAS 723 |
+Gestionnaire budgétaire régional - Appui au pilotage du CAS 723 |
 
 B |
 
@@ -151,10 +139,6 @@ C |
 Régisseur régional d'avances et de recettes, gestionnaire budgétaire |
 
 C |
-
-|
-
-|
 
 |
 
@@ -188,6 +172,10 @@ Secrétaire et gestionnaire du pôle droit des sols |
 
 C |
 
+|
+
+|
+
 FONCTION D'ACCUEIL EXTERNE OU INTERNE |
 
 |
@@ -207,14 +195,6 @@ C |
 Hôte d'accueil |
 
 C |
-
-|
-
-|
-
-|
-
-|
 
 FONCTION D'ENCADREMENT, CONTRAINTES ET RESPONSABILITES PARTICULIERES |
 
@@ -276,25 +256,7 @@ Chef de la mission d'appui au pilotage local |
 
 A |
 
-|
-
-|
-
-|
-
-|
-
-PREFECTURE DE POLICE |
-
-|
-
-|
-
-Emplois bénéficiaires de la nouvelle bonification indiciaire |
-
-|
-
-|
+PRÉFECTURE DE POLICE DE PARIS
 
 Libellé |
 
@@ -352,10 +314,6 @@ A |
 
 |
 
-|
-
-|
-
 FONCTION NOTAMMENT D'ENCADREMENT ASSORTIE DE CONTRAINTES PARTICULIERES |
 
 |
@@ -401,5 +359,157 @@ Chef du bureau des hôtels et foyers (DTPP) |
 A |
 
 Chef du bureau des objets trouvés et scellés (DTPP) |
+
+A |
+
+|
+
+|
+
+EMPLOIS D'ENCADREMENT AU BUREAU DES ETRANGERS |
+
+|
+
+|
+
+|
+
+Chef de la section affaires générales (cabinet) |
+
+A |
+
+Adjoint au chef de la section des affaires générales (cabinet) |
+
+A |
+
+Chef du bureau du soutien juridique et du contentieux (DRMJ) |
+
+A |
+
+Adjoint au chef du bureau du soutien juridique et du contentieux (DRMJ) |
+
+A |
+
+Adjoint au chef du bureau du soutien juridique et du contentieux (DRMJ) |
+
+A |
+
+Adjoint au chef du 1er bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 1er bureau (SDSAN) |
+
+A |
+
+Chef de la section instruction (SDSAN) |
+
+A |
+
+Chef de la section instruction (SDSAN) |
+
+A |
+
+Chef de section dossiers signalés (SDSAN) |
+
+A |
+
+Adjoint au chef du 6e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 6e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 7e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 7e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 7e bureau (SDSAN) |
+
+A |
+
+Chef du pôle admission exceptionnelle au séjour (SDSAN) |
+
+A |
+
+Adjoint au chef du 8e bureau - chef de la division reconduites (DZAE) |
+
+A |
+
+Adjoint au chef du 8e bureau - chef de la division examens (DZAE) |
+
+A |
+
+Adjoint au chef de la division reconduites (DZAE) |
+
+A |
+
+Adjoint au chef de la division reconduites (DZAE) |
+
+A |
+
+Adjoint au chef de la division reconduites (DZAE) |
+
+A |
+
+Adjoint au chef de la division reconduites (DZAE) |
+
+A |
+
+Adjoint au chef de la section reconduites (DZAE) |
+
+A |
+
+Adjoint au chef de la division examens (DZAE) |
+
+A |
+
+Adjoint au chef de la divisions examens (DZAE) |
+
+A |
+
+Chef section analyse et coordination zonale (DZAE) |
+
+A |
+
+Adjoint au chef du 9e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 9e bureau (SDSAN) |
+
+A |
+
+Chef de bureau 10 B (SDSAN) |
+
+A |
+
+Adjoint au chef du 10e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 10e bureau (SDSAN) |
+
+A |
+
+Adjoint au chef du 12e bureau (DZAE) |
+
+A |
+
+Adjoint au chef du 12e bureau (DZAE) |
+
+A |
+
+Chef du pôle Asile (DZAE) |
+
+A |
+
+Chef du pôle interdépartemental Dublin (DZAE) |
 
 A |
