@@ -8,7 +8,7 @@ Dans la situation d'un organisme implanté sur plusieurs emprises, le chef d'org
 
 En tout état de cause, le registre santé et sécurité au travail de l'organisme fait l'objet d'un examen par le chef d'organisme, qui appose son visa en regard de chaque inscription. S'il le souhaite, il peut accompagner ce visa d'observations.
 
-S'il estime que les remarques figurant sur le registre santé et sécurité au travail sont pertinentes, le chef d'organisme prend les mesures nécessaires, quand le problème relève de sa compétence, ou saisit le commandant de la base de défense ou le chef du service parisien de soutien de l'administration centrale pour ce qui concerne le soutien commun ou sa chaîne hiérarchique pour le soutien spécialisé ou spécifique.
+S'il estime que les remarques figurant sur le registre santé et sécurité au travail sont pertinentes, le chef d'organisme prend les mesures nécessaires, quand le problème relève de sa compétence, ou saisit le commandant de la base de défense pour ce qui concerne le soutien commun ou sa chaîne hiérarchique pour le soutien spécialisé ou spécifique.
 
 Le registre santé et sécurité au travail doit pouvoir être consulté à tout moment par les inspecteurs du travail dans les armées.
 
@@ -121,3 +121,7 @@ et date
 |
 
 |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 10 décembre 2020 (NOR: ARMH2034884A), ces dispositions entrent en vigueur le 1er janvier 2021.
