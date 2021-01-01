@@ -1074,8 +1074,6 @@ Institut national de l'audiovisuel
 
 Institut national de l'environnement industriel et des risques
 
-Institut national de police scientifique
-
 Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
 
 Institut national de recherches en informatique et automatique
@@ -1227,6 +1225,8 @@ Société de gestion de garantie et de participation
 Société de gestion des financements et de la garantie de l'accession sociale à la propriété
 
 Syndicat mixte de l'orchestre philarmonique des Pays de Loire
+
+Service national de police scientifique
 
 Théâtre national de Chaillot
 
