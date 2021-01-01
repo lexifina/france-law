@@ -1,0 +1,185 @@
+# Article 1er
+
+Les dispositions de l'article 2 intitulé « Taux de cotisations applicables » à l'annexe de l'accord du 5 février 2009 relatif à la prévoyance sont modifiées comme suit :
+
+« Taux de cotisations applicables
+
+Part employeur : 60 %.
+
+Part salarié : 40 %.
+
+Non-cadres : conformément à l'avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance, on entend par non-cadre le personnel :
+
+– de niveaux A1 à A4 de la filière administrative ;
+
+– de niveaux T2 à T4 de la filière technique ;
+
+– de niveaux C2 à C3 de la filière collaborateurs ;
+
+– de niveaux S2 à S3 de la filière stagiaires.
+
+Tels que définis au titre VII de la convention collective nationale du personnel des administrateurs et mandataires judiciaires.
+
+Non cadres |
+
+Cotisation globale 2021 |
+
+Cotisation employeur |
+
+Cotisation salarié |
+
+T1 |
+
+T2 |
+
+T1 |
+
+T2 |
+
+T1 |
+
+T2 |
+
+Décès + RE, RC et frais d'obsèques |
+
+0,645 % |
+
+0,645 % |
+
+0,387 % |
+
+0,387 % |
+
+0,258 % |
+
+0,258 % |
+
+Incapacité |
+
+0,73 % |
+
+0,73 % |
+
+0,438 % |
+
+0,438 % |
+
+0,292 % |
+
+0,292 % |
+
+Invalidité |
+
+0,61 % |
+
+0,61 % |
+
+0,366 % |
+
+0,366 % |
+
+0,244 % |
+
+0,244 % |
+
+Total |
+
+1,985 % |
+
+1,985 % |
+
+1,191 % |
+
+1,191 % |
+
+0,794 % |
+
+0,794 % |
+
+Le salaire de référence à prendre en compte pour le calcul des cotisations est défini selon les tranches de rémunération T1 et T2. Il s'agit du salaire annuel brut.
+
+Cadres : conformément à l'avenant n° 3 du 30 janvier 2014 à l'accord du 5 février 2009 relatif à la prévoyance, on entend par cadre le personnel :
+
+– de niveaux 1 et 2 des filières administratives (A) et technique (T) ;
+
+– de niveaux C4 de la filière collaborateurs (C) ;
+
+Tels que définis au titre VII de la convention collective nationale du personnel des administrateurs et mandataires judiciaires.
+
+Cadres |
+
+Cotisation globale 2021 |
+
+Cotisation employeur |
+
+Cotisation salarié |
+
+T1 |
+
+T2 |
+
+T1 |
+
+T2 |
+
+T1 |
+
+T2 |
+
+Décès + RE, RC et frais d'obsèques |
+
+0,935 % |
+
+0,255 % |
+
+0,935 % |
+
+0,153 % |
+
+0,00 % |
+
+0,102 % |
+
+Incapacité |
+
+0,60 % |
+
+1,03 % |
+
+0,60 % |
+
+0,618 % |
+
+0,00 % |
+
+0,412 % |
+
+Invalidité |
+
+0,50 % |
+
+1,23 % |
+
+0,50 % |
+
+0,738 % |
+
+0,00 % |
+
+0,492 % |
+
+Total |
+
+2,035 % |
+
+2,515 % |
+
+2,035 % |
+
+1,509 % |
+
+0,00 % |
+
+1,006 % |
+
+Le salaire de référence à prendre en compte pour le calcul des cotisations est défini selon les tranches de rémunération T1 et T2. Il s'agit du salaire annuel brut. »
