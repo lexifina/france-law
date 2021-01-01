@@ -30,10 +30,6 @@ Directeurs du commissariat en opération extérieure |
 
 MAPA × 150 |
 
-Directeur du centre interarmées du soutien “équipements commissariat” |
-
-Sans limitation |
-
 Chefs de détachement mixte du commissariat (DMC) |
 
 MAPA × 10 |
