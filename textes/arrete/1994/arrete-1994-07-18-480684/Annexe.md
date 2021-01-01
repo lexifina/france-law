@@ -1176,17 +1176,29 @@ Coronavidae : |
 
 |
 
+Betacoronavirus |
+
+|
+
+|
+
 Coronavirus responsable du syndrome respiratoire du Moyen-Orient (MERS-CoV) |
 
 3 |
 
 |
 
-Coronavirus responsable du Syndrome respiratoire aigu sévère (SRAS-CoV, ou SARS-CoV, en anglais) |
+Coronavirus responsable du Syndrome respiratoire aigu sévère (SARS-CoV) |
 
 3 |
 
 |
+
+Coronavirus responsable du Syndrome respiratoire aigu sévère 2 (SARS-CoV-2) |
+
+3 |
+
+(i) |
 
 Autres Coronavidae |
 
@@ -2465,3 +2477,11 @@ Il n'existe actuellement aucune preuve de maladie de l'homme par les autres rét
 (h) |
 
 Il n'y a pas de preuve concernant l'existence chez l'homme d'infections dues aux agents responsables d'autres EST animales. Néanmoins, les mesures de confinement des agents classés dans le groupe de risque 3 (*) sont recommandées par précaution pour les travaux en laboratoire, à l'exception des travaux en laboratoire portant sur un agent identifié de tremblante du mouton, pour lequel le niveau de confinement 2 est suffisant. |
+
+(i) |
+
+Les travaux de diagnostic sans mise en culture portant sur le SARS-CoV-2 devraient être réalisés dans des installations ayant adopté des procédures équivalentes au confinement de niveau 2 au moins. Les travaux avec mise en culture faisant intervenir le SARS-CoV-2 devraient être menés dans des laboratoires de confinement de niveau 3 dans lesquels la pression de l'air est inférieure à la pression atmosphérique |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 18 décembre 2020 ( NOR : MTRT2025680A ), les dispositions issues dudit arrêté entrent en vigueur concomitamment à celles du décret en Conseil d'Etat, fixant le cadre applicable des dispositions du code du travail en matière de prévention des risques biologiques, notamment en cas de pandémie.
