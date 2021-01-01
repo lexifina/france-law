@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 5 est renommé « Organismes recommandés » et modifié comme suit :
+
+« 5.   Organismes recommandés
+
+La procédure de mise en concurrence, respectant l'ensemble des critères règlementaires, a permis à la commission paritaire permanente de négociation et d'interprétation (CPPNI) de recommander à compter du 1er janvier 2021, trois organismes assureurs, pour une durée maximale de cinq ans.
+
+La commission paritaire permanente de négociation et d'interprétation (CPPNI) de la branche architecture a recommandé :
+
+– Malakoff Humanis Prévoyance, institution de prévoyance régie par le code de la sécurité sociale (siège social, 21, rue Laffitte, 75009 Paris) en qualité d'apériteur ;
+
+– APICIL Prévoyance, institution de prévoyance régie par le code de la sécurité sociale (siège social, 38, rue François-Peissel, 69300 Caluire-et-Cuire) ;
+
+– l'OCIRP, union d'institutions de prévoyance, agréées, régies par les dispositions du livre IX du code de la sécurité sociale (siège sociale, 17, rue de Marignan, 75008 Paris).
+
+Malakoff Humanis Prévoyance et APICIL Prévoyance sont les assureurs recommandés pour les risques : garantie maintien de salaire, incapacité de travail, invalidité et capitaux décès. L'OCIRP est l'organisme assureur recommandé pour la couverture des garanties rente d'éducation, rente handicap et rente temporaire de conjoint.
+
+Malakoff Humanis Prévoyance et APICIL Prévoyance reçoivent délégation de la part de l'OCIRP pour appeler les cotisations et régler les prestations. »
