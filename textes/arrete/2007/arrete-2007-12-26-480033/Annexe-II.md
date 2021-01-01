@@ -12,6 +12,12 @@ Service industriel de l'aéronautique |
 
 |
 
+Directeur du service industriel de l'aéronautique
+
+|
+
+Sans limitation |
+
 Atelier industriel de l'aéronautique d'Ambérieu-en-Bugey |
 
 MAPA × 10 |

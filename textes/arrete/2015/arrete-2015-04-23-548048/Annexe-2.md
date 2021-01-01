@@ -24,10 +24,6 @@ Direction centrale de la structure intégrée du maintien en condition opératio
 
 P. 144, P. 146, P. 178, P. 212 |
 
-Direction centrale du service industriel de l'aéronautique |
-
-P. 144, P. 902 |
-
 Direction des affaires financières |
 
 P. 144, P. 146, P. 167, P. 169, P. 178, P. 212 |
@@ -36,6 +32,10 @@ Direction de la maintenance aéronautique |
 
 P. 144, P. 146, P. 178, P. 212 |
 
-Service parisien de soutien de l'administration centrale |
+Sous-direction chargée de la préfiguration de l'agence ministérielle de gestion |
 
 P. 144, P. 146, P. 167, P. 169, p. 178, P. 212 |
+
+NOTA :
+
+Conformément à l’article 15 de l’arrêté du 29 juin 2020 et à l'article 12 de l'arrêté du 30 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

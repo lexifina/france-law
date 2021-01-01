@@ -24,17 +24,13 @@ Directeurs des directions interarmées des réseaux d'infrastructure et des syst
 
 Sans limitation |
 
+Directeur du service ingénierie contractuelle et logistique |
+
+Sans limitation |
+
 Direction centrale du service du commissariat des armées |
 
-Directeur du centre interarmées du soutien “multiservices” |
-
-Sans limitation |
-
 Directeurs des plates-formes commissariat |
-
-Sans limitation |
-
-Directeur du centre interarmées du soutien “restauration et loisirs” |
 
 Sans limitation |
 
@@ -44,7 +40,7 @@ Sans limitation |
 
 Directeur de l'établissement logistique de Roanne |
 
-15 000 euros HT |
+40 000 euros HT |
 
 Chefs des groupements de soutien de base de défense en métropole (2) |
 
@@ -54,7 +50,11 @@ Commandant de l'école des fourriers |
 
 MAPA × 0,66 |
 
-Direction centrale du service des essences des armées |
+Service de l'énergie opérationnelle |
+
+Directeur du service de l'énergie opérationnelle |
+
+Sans limitation |
 
 Directeur de l'exploitation et de la logistique pétrolières interarmées |
 
@@ -64,7 +64,7 @@ Adjoint interarmées de soutien pétrolier |
 
 Sans limitation (3) |
 
-Directeurs des détachements du service des essences des armées auprès des commandements permanents interarmées hors du territoire métropolitain |
+Directeurs des détachements du service de l'énergie opérationnelle auprès des commandements permanents interarmées hors du territoire métropolitain |
 
 Sans limitation (3) |
 
@@ -72,7 +72,7 @@ Directeur du centre d'expertise pétrolière interarmées |
 
 MAPA × 20 |
 
-Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine |
+Chef du détachement de liaison du service de l'énergie opérationnelle auprès de l'état-major de la marine |
 
 MAPA × 7 (4) |
 
@@ -141,6 +141,10 @@ MAPA × 0,66 |
 Armée de l'air |
 
 Service industriel de l'aéronautique |
+
+Directeur du service industriel de l'aéronautique |
+
+Sans limitation |
 
 Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en-Bugey |
 

@@ -52,7 +52,7 @@ Directeurs des directions du commissariat en opération extérieure |
 
 P. 144, P. 178, P. 212 |
 
-Directeur du centre d'administration ministériel des indemnités de déplacement |
+Directeur du centre interarmées du soutien à la mobilité |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
@@ -100,6 +100,10 @@ Directeur de la plate-forme achats-finances-Santé |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
+Directeur du service de l'énergie opérationnelle |
+
+P. 901 |
+
 Directeur de l'exploitation et de la logistique pétrolière interarmées |
 
 P. 144, P. 167, P. 178, P. 212, P. 901 |
@@ -111,6 +115,12 @@ P. 144, P. 146, P. 178 |
 Directeur du service de soutien de la flotte à Brest |
 
 P. 144, P. 146, P. 178, P. 212 |
+
+Directeur du service industriel de l'aéronautique |
+
+P144, P. 212, P. 902 |
+
+|
 
 Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
 
