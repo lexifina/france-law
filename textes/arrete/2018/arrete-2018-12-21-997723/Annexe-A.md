@@ -1,14 +1,12 @@
 # Article Annexe A
 
-ANNEXES
-
 ANNEXE A
 
 ORDONNATEUR SECONDAIRE |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-Directeur de la plate-forme achats finances Santé |
+Directeur de la plate-forme commissariat Santé |
 
 Agent comptable des services industriels de l'armement |
 
@@ -23,3 +21,5 @@ Directeur du centre expert des ressources humaines du personnel civil |
 Directeur du service de l'exécution financière, de la gestion logistique des biens
 
 et des comptabilités |
+
+Directeur du service industriel de l'aéronautique |
