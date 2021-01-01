@@ -2,7 +2,7 @@
 
 B.-I.-Répartition des emplois d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche relevant de l'article 57-2
 
-du décret du 3 décembre 1983 susvisé, services du ministre chargé de l'éducation nationale |
+du décret du 3 décembre 1983 susvisé, liste des emplois d'administrateur de l'éducation nationale, |
 
 Académies |
 
@@ -232,9 +232,7 @@ Rectorat |
 
 Etablissement public local d'enseignement-Lycée-Chef d'agence comptable |
 
-9
-
-|
+9 |
 
 Nantes |
 
@@ -410,8 +408,16 @@ Office national d'information sur les enseignements et les professions |
 
 1 |
 
+Etablissements publics locaux à caractère administratif
+
+|
+
+Centre de ressources, d'expertise et de performance sportive de Reims |
+
+1 |
+
 Administration centrale |
 
 |
 
-53 |
+56 |
