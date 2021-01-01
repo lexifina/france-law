@@ -474,7 +474,7 @@ Ministre chargé de l'aviation civile |
 
 57 |
 
-Délivrance d'habilitations au secret de la défense nationale pour la direction générale de l'aviation civile et ses organismes rattachés pour les niveaux confidentiel et secret défense . |
+Délivrance d'habilitations au secret de la défense nationale pour la direction générale de l'aviation civile et ses organismes rattachés pour les niveaux confidentiel et secret défense. |
 
 Code de la défense
 
@@ -505,6 +505,16 @@ Décisions relatives aux opérations qui donnent lieu à inscription, transcript
 Code de l'aviation civile
 
 Article D. 121-13. |
+
+Ministre chargé de l'aviation civile |
+
+59 |
+
+Décisions relatives aux agréments d'assistance en escale |
+
+Code de l'aviation civile
+
+Article R. 216-14 |
 
 Ministre chargé de l'aviation civile |
 
@@ -1018,7 +1028,7 @@ Ministre chargé des transports |
 
 55 |
 
-Agrément des organismes qui délivrent l'attestation spéciale passagers . |
+Agrément des organismes qui délivrent l'attestation spéciale passagers. |
 
 Code des transports
 
@@ -1028,7 +1038,7 @@ Ministre chargé des transports |
 
 56 |
 
-Mises en demeure et décisions d'astreintes relatives aux obligations de déclaration des cargaisons donnant lieu à contribution au titre de la Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, adoptée à Londres le 30 avril 2010 ( convention SNPD ) |
+Mises en demeure et décisions d'astreintes relatives aux obligations de déclaration des cargaisons donnant lieu à contribution au titre de la Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, adoptée à Londres le 30 avril 2010 (convention SNPD) |
 
 Code des transports
 
@@ -1047,6 +1057,16 @@ Codes des transports
 Article D. 4221-23-2 |
 
 Ministre chargé des transports |
+
+58 |
+
+Avis conforme pour la délivrance des certificats d'exemptions par les sociétés de classification habilitées |
+
+Décret n° 84-810 du 30 août 1984
+
+Article 3-2 (I) |
+
+Ministre chargé de la mer |
 
 |
 
@@ -1365,22 +1385,6 @@ Agrément d'un réseau national de contrôle technique des véhicules. |
 Code de la route Article R. 323-8. |
 
 Ministre chargé des transports |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
 
 4 |
 
@@ -1782,6 +1786,132 @@ Code de l'énergie Article R. 314-52-2. |
 
 Ministre chargé de l'énergie |
 
+51 |
+
+Décisions relatives à l'habilitation et au commissionnement à rechercher et constater les infractions et les manquements liés à la surveillance du marché des véhicules à moteur |
+
+Code de la route
+
+Art. L. 329-5 à L. 329-7 Art. R. 329-2 à R. 329-4 |
+
+Ministre chargé des transports |
+
+52 |
+
+Décisions relatives aux contrôles de conformité (recueil de renseignements et de documents, notification de la non-conformité, mesures, sanctions administratives et saisine du procureur de la République) en matière de surveillance du marché des véhicules à moteur |
+
+Code de la route
+
+Art. L. 329-13 à L. 329-26 et L. 329-30 à L. 329-46
+
+Art. R. 329-5 à R. 329-24 |
+
+Ministre chargé des transports |
+
+53 |
+
+Décisions relatives à l'habilitation et au commissionnement à rechercher et constater les infractions et les manquements en matière de surveillance des émissions des gaz polluants et des particules polluantes des moteurs à combustion interne destinés aux engins mobiles non routiers |
+
+Code de l'environnement
+
+Art. L. 224-16 à L. 224-19
+
+Art. R. 224-69 à R. 224-71 |
+
+Ministre chargé de l'environnement |
+
+54 |
+
+Décisions relatives aux contrôles de conformité (pouvoirs d'enquêtes, contrôle de la conformité, mesures, sanctions administratives et saisine du procureur de la République) en matière de surveillance des émissions des gaz polluants et des particules polluantes des moteurs à combustion interne destinés aux engins mobiles non routiers |
+
+Code de l'environnement
+
+Art. L. 224-20 à L. 224-26
+
+Art. R. 224-70 à R. 224-72 |
+
+Ministre chargé de l'environnement |
+
+54 |
+
+Décision de répartition des aides en sous-programmes |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 1er |
+
+Ministre chargé de l'énergie |
+
+55 |
+
+Décision d'attribution ou de refus d'une subvention au titre des sous-programmes de renforcement des réseaux, d'extension des réseaux, d'enfouissement ou de pose en façade des réseaux pour raison d'ordre esthétique et de sécurisation des réseaux |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 9 |
+
+Ministre chargé de l'énergie |
+
+56 |
+
+Décisions d'attribution ou de refus d'une subvention au titre des sous-programmes du programme spécial ou des sous-programmes d'enfouissement de réseaux pour les communes traversées par de nouvelles lignes aériennes à très haute tension et de renforcement anticipé de départs de réseaux endommagés par des intempéries du programme principal |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 11 |
+
+Ministre chargé de l'énergie |
+
+57 |
+
+Décisions relatives à un versement prévisionnel de trésorerie, à un acompte afférent à une subvention ou au solde du paiement d'une subvention |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 12 et 13 |
+
+Ministre chargé de l'énergie |
+
+58 |
+
+Décisions constatant la caducité de la subvention en cas de non-engagement des travaux dans un délai n'excédant pas la fin de l'année suivant l'année de dotation |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 14 |
+
+Ministre chargé de l'énergie |
+
+59 |
+
+Décision demandant le reversement d'une subvention ou prolongeant le délai de fin d'exécution des travaux |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 15 |
+
+Ministre chargé de l'énergie |
+
+60 |
+
+Décisions habilitant les agents chargés du contrôle |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 17 |
+
+Ministre chargé de l'énergie |
+
+61 |
+
+Décision demandant le remboursement de tout ou partie d'une subvention versée |
+
+Décret n° 2020-1561 du 10 décembre 2020 relatif aux aides pour l'électrification rurale
+
+Art 18 |
+
+Ministre chargé de l'énergie |
+
 |
 
 Aménagement et nature |
@@ -1843,14 +1973,6 @@ Ministre chargé de l'environnement |
 Agrément des sites naturels de compensation mentionnés à l'article L. 163-3 du code de l'environnement. |
 
 Code de l'environnement Article R. 163-2. |
-
-Ministre chargé de l'environnement |
-
-8 |
-
-Nomination des membres des comités de bassins. |
-
-Code de l'environnement Articles L. 213-8, D. 213-17 à D. 213-20. |
 
 Ministre chargé de l'environnement |
 
@@ -1928,7 +2050,7 @@ Ministre chargé de la protection de la nature |
 
 Délivrance du récépissé de déclaration pour l'accès aux ressources génétiques en vue de leur utilisation. |
 
-Code de l'environnement Articles R. 412-14 et R. 412-16 . |
+Code de l'environnement Articles R. 412-14 et R. 412-16. |
 
 Ministre chargé de l'environnement |
 
@@ -2050,7 +2172,7 @@ Ministre chargé des mines et ministre chargé de l'énergie pour les autres sub
 
 30 |
 
-Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l' article L. 161-1 du code minier. |
+Agrément des experts qui constatent la compatibilité des projets de géothermie de minime importance au regard du contexte géologique de la zone d'implantation et de l'absence de dangers ou inconvénients graves pour la protection des intérêts mentionnés à l'article L. 161-1 du code minier. |
 
 Décret n° 2006-649 du 2 juin 2006 Article 22-8. |
 
@@ -2162,7 +2284,7 @@ Ministre chargé du logement |
 
 Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives d'habitations à loyer modéré. |
 
-Code de la construction et de l'habitation - sociétés anonymes d'habitations à loyer modéré : articles R. 422-3 et R. 422-4 (premier alinéa). - sociétés coopératives d'habitations à loyer modéré : article R. 422-8-1. |
+Code de la construction et de l'habitation-sociétés anonymes d'habitations à loyer modéré : articles R. 422-3 et R. 422-4 (premier alinéa).-sociétés coopératives d'habitations à loyer modéré : article R. 422-8-1. |
 
 Ministre chargé du logement |
 
@@ -2284,7 +2406,7 @@ Ministre chargé du logement |
 
 Arrêté d'autorisation pris pour l'implantation d'une station d'épuration par dérogation aux dispositions de la loi littoral. |
 
-Code de l'urbanisme Article L. 121-5 et article R.121-1. |
+Code de l'urbanisme Article L. 121-5 et article R. 121-1. |
 
 Ministres chargés de l'urbanisme et de l'environnement |
 
@@ -2467,3 +2589,7 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+
+NOTA :
+
+Conformément à l'article 6 du décret n° 2020-954 du 31 juillet 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
