@@ -24,6 +24,10 @@ les dépenses de matériels de prises de vues, de machinerie, d'éclairage et de
 
 e. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et techniques, strictement nécessaires aux besoins de la production de l'œuvre.
 
+Les dépenses de transport des équipes artistiques et techniques sont comprises dans l'assiette du crédit d'impôt dans la limite de 200 euros par trajet et par personne en France métropolitaine et de 500 euros par trajet effectué par personne entre la France métropolitaine et les départements et autres collectivités d'outre-mer ou entre la France et un autre pays, lorsqu'une partie du temps de tournage est réalisée dans ce pays pour des raisons artistiques tenant à un scénario imposant le recours à des décors naturels ou historiques.
+
+Les dépenses de restauration sont comprises dans l'assiette du crédit d'impôt dans la limite de 30 euros par repas et par personne.
+
 Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 euros par nuitée dans la ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans les autres départements.
 
 2. Pour les œuvres cinématographiques ou audiovisuelles d'animation :
@@ -45,5 +49,9 @@ d. Au titre des dépenses liées au recours aux industries techniques et autres 
 4° Les dépenses de pellicules et autres supports d'images et des dépenses de laboratoires, à savoir : les dépenses de pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques d'images et de son, de laboratoires de finition, de laboratoire vidéo et de sous-titrages ;
 
 e. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et techniques, strictement nécessaires aux besoins de la production de l'œuvre.
+
+Les dépenses de transport des équipes artistiques et techniques sont comprises dans l'assiette du crédit d'impôt dans la limite de 200 euros par trajet et par personne en France métropolitaine et de 500 euros par trajet effectué par personne entre la France métropolitaine et les départements et autres collectivités d'outre-mer ou entre la France et un autre pays, lorsqu'une partie du temps de tournage est réalisée dans ce pays pour des raisons artistiques tenant à un scénario imposant le recours à des décors naturels ou historiques.
+
+Les dépenses de restauration sont comprises dans l'assiette du crédit d'impôt dans la limite de 30 euros par repas et par personne.
 
 Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 euros par nuitée dans la ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans les autres départements.
