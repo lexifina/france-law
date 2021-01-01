@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Liste des départements dans lesquels le tarif des annonces légales en 2020 est égal au tarif de base, soit 4,07 € hors taxe la ligne
+Liste des départements dans lesquels le tarif des annonces légales en 2021 est égal au tarif de base, soit 4,07 € hors taxe la ligne
 
 01 Ain.
 
