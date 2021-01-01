@@ -8,7 +8,7 @@ LIBELLÉ DU SERVICE |
 
 01 ― Ain |
 
-Bourg-en-Bresse Municipale |
+DDFiP de l'Ain |
 
 02 ― Aisne |
 
@@ -44,7 +44,7 @@ Pamiers |
 
 10 ― Aube |
 
-Troyes agglomération |
+DDFiP de l'Aube |
 
 11 ― Aude |
 
@@ -74,7 +74,7 @@ La Couronne |
 
 17 ― Charente-Maritime |
 
-La Rochelle Banlieue et Amendes |
+DDFiP de Charente-Maritime |
 
 18 ― Cher |
 
@@ -96,7 +96,7 @@ Saint-Florent |
 
 DRFiP de Bourgogne-Franche-Comté et du département de la Côte-d'Or |
 
-22 ― Côtes-d'Armor |
+22 ― Côtes d'Armor |
 
 Saint-Brieuc Municipale et Amendes |
 
@@ -110,7 +110,7 @@ Boulazac |
 
 25 ― Doubs |
 
-Morre-Roulans |
+DDFiP du Doubs |
 
 26 ― Drôme |
 
@@ -118,7 +118,7 @@ Amendes et recettes non fiscales (ARNF) |
 
 27 ― Eure |
 
-Evreux Amendes |
+DDFiP de l'Eure |
 
 28 ― Eure-et-Loir |
 
@@ -126,7 +126,7 @@ Chartres Métropole |
 
 29 ― Finistère |
 
-Landerneau |
+DDFiP du Finistère |
 
 30 ― Gard |
 
@@ -138,7 +138,7 @@ Grenade-Cadours |
 
 32 ― Gers |
 
-Condom |
+DDFiP du Gers |
 
 33 ― Gironde |
 
@@ -154,7 +154,7 @@ Chartres-de-Bretagne |
 
 36 ― Indre |
 
-Châteauroux Municipale |
+DDFiP de l'Indre |
 
 37 ― Indre-et-Loire |
 
@@ -178,7 +178,7 @@ Blois Agglomération |
 
 42 ― Loire |
 
-Montbrison |
+DDFiP de la Loire |
 
 43 ― Haute-Loire |
 
@@ -198,7 +198,7 @@ Figeac |
 
 47 ― Lot-et-Garonne |
 
-Trésorerie d'Agen Municipale et Amendes |
+Service de gestion comptable d'Agen |
 
 48 ― Lozère |
 
@@ -210,11 +210,11 @@ Angers Amendes |
 
 50 ― Manche |
 
-Equeurdreville-Hainneville |
+DDFiP de la Manche |
 
 51 ― Marne |
 
-Châlons-en-Champagne |
+DDFiP de la Marne |
 
 52 ― Haute-Marne |
 
@@ -238,7 +238,7 @@ Auray |
 
 57 ― Moselle |
 
-Metz Amendes |
+DDFiP de la Moselle |
 
 58 ― Nièvre |
 
@@ -254,7 +254,7 @@ DDFiP de l'Oise |
 
 61 ― Orne |
 
-Argentan |
+DDFiP de l'Orne |
 
 62 ― Pas-de-Calais |
 
@@ -266,23 +266,19 @@ Clermont Métropole et Amendes |
 
 64 ― Pyrénées-Atlantiques |
 
-Anglet-Adour-Océan |
+DDFiP des Pyrénées-Atlantiques |
 
 65 ― Hautes-Pyrénées |
 
-Tournay |
+DDFiP des Hautes-Pyrénées |
 
 66 ― Pyrénées-Orientales |
 
-Saint-Laurent-de-la-Salanque |
+DDFiP des Pyrénées-Orientales |
 
 67 ― Bas-Rhin |
 
 Strasbourg Municipale et Eurométropole |
-
-67 ― Bas-Rhin |
-
-Bischwiller |
 
 68 ― Haut-Rhin |
 
@@ -314,7 +310,7 @@ Haute-Savoie Amendes |
 
 75 ― Paris |
 
-DRFiP d'Ile-de-France et de Paris |
+DRFiP d'Île-de-France et de Paris |
 
 76 ― Seine-Maritime |
 
@@ -326,11 +322,7 @@ DDFiP de la Seine-et-Marne |
 
 78 ― Yvelines |
 
-Maurepas |
-
-78 ― Yvelines |
-
-Les Mureaux |
+DDFiP des Yvelines |
 
 79 ― Deux-Sèvres |
 
@@ -338,7 +330,7 @@ DDFiP des Deux-Sèvres |
 
 80 ― Somme |
 
-Doullens |
+DDFiP de la Somme |
 
 81 ― Tarn |
 
@@ -350,7 +342,7 @@ Paierie départementale du Tarn-et-Garonne |
 
 83 ― Var |
 
-Var Amendes |
+DDFiP du Var |
 
 84 ― Vaucluse |
 
@@ -362,7 +354,7 @@ DDFiP de la Vendée |
 
 86 ― Vienne |
 
-Poitiers |
+DDFiP de la Vienne |
 
 87 ― Haute-Vienne |
 
@@ -378,7 +370,7 @@ Avallon |
 
 90 ― Territoire de Belfort |
 
-Grand Belfort |
+Trésorerie Belfort Ville Amendes |
 
 91 ― Essonne |
 
@@ -406,7 +398,7 @@ Morne-à-l'Eau |
 
 972 ― Martinique |
 
-Trinité |
+DRFiP de Martinique |
 
 973 ― Guyane |
 
@@ -414,16 +406,8 @@ SIP de Cayenne |
 
 974 ― Réunion |
 
-Trésorerie de Saint-Denis Municipale et Amendes |
-
-974 ― Réunion |
-
-Trésorerie de Saint-Paul Municipale et Hôpitaux |
-
-974 ― Réunion |
-
-Trésorerie de Saint-Pierre Municipale |
+DRFiP de la Réunion |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 octobre 2020, ces dispositions entrent en vigueur à compter du 1er novembre 2020.
+Conformément à l’article 2 de l’arrêté du 10 décembre 2020 (NOR : CCPE2033279A), les présentes dispositions entrent en vigueur à compter du 1er janvier 2021.
