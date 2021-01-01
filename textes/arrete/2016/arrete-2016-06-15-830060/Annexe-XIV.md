@@ -1,22 +1,32 @@
 # Article Annexe XIV
 
-ÉMOLUMENTS DES PRATICIENS EXERCANT LEUR ACTIVITÉ  À TEMPS PARTIEL
+ÉMOLUMENTS DES PRATICIENS EXERÇANT LEUR ACTIVITÉ À TEMPS PARTIEL
 
 Articles R. 6152-201 à R. 6152-277 du code de la santé publique
 
-PERSONNELS CONCERNES |
+PERSONNELS CONCERNÉS |
 
-Montants au
+Montants
 
-1er octobre 2020
+au 1er janvier 2021
 
-(en euros)
-
-|
+(en euros) |
 
 I-Emoluments hospitaliers correspondant à un service normal hebdomadaire égal à six demi-journées (montants bruts annuels) |
 
 |
+
+13e échelon |
+
+64 205,93 |
+
+12e échelon |
+
+60 005,93 |
+
+11e échelon |
+
+57 005,93 |
 
 10e échelon |
 
@@ -62,20 +72,36 @@ II-Indemnité d'engagement de service public exclusif correspondant à un servic
 
 |
 
-Indemnité mentionnée à l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique
-
-|
+Indemnité mentionnée à l'article 1er de l'arrêté du 14 février 2013 relatif à l'indemnité d'engagement de service public exclusif mentionnée à l'article D. 6152-220-1 du code de la santé publique |
 
 606 |
 
-III-Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel) |
+III-Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant) |
 
-420,86 |
+|
+
+1 demi-journée |
+
+250 |
+
+de plus de 1 demi-journée à 3 demi-journées inclus |
+
+450 |
+
+de plus de 3 demi-journées à 4 demi-journées inclus |
+
+700 |
+
+4 demi-journées sur au moins 2 sites différents du site principal d'exercice ou plus de 4 demi-journées |
+
+1 000 |
 
 IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
-420,86 |
+420,86
+
+|
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 27 octobre 2020, ces dispositions entrent en vigueur le 1er décembre 2020.
+Conformément à l’article 6 de l'arrêté du 28 décembre 2020 (NOR : SSAH2032612A), ces dispositions entrent en vigueur le 1er janvier 2021.

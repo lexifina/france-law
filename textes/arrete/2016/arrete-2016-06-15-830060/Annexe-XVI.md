@@ -132,14 +132,36 @@ Indemnité mentionnée au 2° de l'article 1er de l'arrêté du 14 février 2013
 
 1010 |
 
-III - indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel)
+III - Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant)
 
 |
 
-420,86
+|
+
+1 demi-journée
 
 |
+
+250 |
+
+de plus de 1 demi-journée à 3 demi-journées inclus
+
+|
+
+450 |
+
+de plus de 3 demi-journées à 4 demi-journées inclus
+
+|
+
+700 |
+
+4 demi-journées sur au moins 2 sites différents du site principal d'exercice ou plus de 4 demi-journées
+
+|
+
+1000 |
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 27 octobre 2020, ces dispositions entrent en vigueur le 1er décembre 2020.
+Conformément à l’article 6 de l'arrêté du 28 décembre 2020 (NOR : SSAH2032612A), ces dispositions entrent en vigueur le 1er janvier 2021.

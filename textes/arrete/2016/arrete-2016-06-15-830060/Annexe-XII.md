@@ -4,19 +4,29 @@
 
 Articles R. 6152-1 à R. 6152-98 du code de la santé publique
 
-PERSONNELS CONCERNES |
+PERSONNELS CONCERNÉS |
 
-Montants au
+Montants
 
-1er octobre 2020
+au 1er janvier 2021
 
-(en euros)
-
-|
+(en euros) |
 
 I-Emoluments hospitaliers (montants bruts annuels) |
 
 |
+
+13e échelon |
+
+107 009,89 |
+
+12e échelon |
+
+100 009,89 |
+
+11e échelon |
+
+95 009,89 |
 
 10e échelon |
 
@@ -58,19 +68,33 @@ I-Emoluments hospitaliers (montants bruts annuels) |
 
 52 933,33 |
 
-II-Indemnité d'engagement de service public exclusif (montant brut mensuel) |
+II-Indemnité d'engagement de service public exclusif |
 
 |
 
-Indemnité mentionnée à l'article 1er de l'arrêté du 8 juin 2000 modifié relatif à l'indemnité d'engagement de service public exclusif
-
-|
+Indemnité mentionnée à l'article 1er de l'arrêté du 8 juin 2000 modifié relatif à l'indemnité d'engagement de service public exclusif |
 
 1 010 |
 
-III-Indemnité pour activité exercée sur plusieurs établissements (montant brut mensuel) |
+III-Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant) |
 
-420,86 |
+|
+
+1 demi-journée |
+
+250 |
+
+de plus de 1 demi-journée à 3 demi-journées inclus |
+
+450 |
+
+de plus de 3 demi-journées à 4 demi-journées inclus |
+
+700 |
+
+4 demi-journées sur au moins 2 sites différents du site principal d'exercice ou plus de 4 demi-journées |
+
+1 000 |
 
 IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
@@ -78,4 +102,4 @@ IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
 NOTA :
 
-Conformément à l’article 7 de l’arrêté du 27 octobre 2020, ces dispositions entrent en vigueur le 1er décembre 2020.
+Conformément à l’article 6 de l'arrêté du 28 décembre 2020 (NOR : SSAH2032612A), ces dispositions entrent en vigueur le 1er janvier 2021.
