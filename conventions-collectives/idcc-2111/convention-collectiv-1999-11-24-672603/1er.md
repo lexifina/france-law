@@ -14,7 +14,7 @@ Le particulier employeur ne peut poursuivre, au moyen de ces travaux, des fins l
 
 b) Champ d'application géographique
 
-Le champ d'application géographique de la présente convention comprend l'ensemble du territoire métropolitain.
+Le champ d'application géographique de la présente convention comprend l'ensemble du territoire métropolitain ainsi que les départements et régions d'Outre-mer suivants : la Guadeloupe, la Guyane, la Martinique et La Réunion.
 
 c) Libertés d'opinion et syndicale
 
@@ -142,7 +142,7 @@ Les partenaires sociaux conviennent de se donner les moyens financiers du foncti
 
 (2) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2261-19 du code du travail.
 
-(Arrêté du 29 mai 2019-art. 1)
+(Arrêté du 29 mai 2019 - art. 1)
 
 (3) Alinéa étendu sous réserve du respect du principe d'égalité tel qu'interprété par la Cour de cassation (Cass. soc. 29 mai 2001, Cegelec).
 
