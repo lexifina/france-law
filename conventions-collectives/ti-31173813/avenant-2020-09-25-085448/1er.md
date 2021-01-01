@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 4 est modifié comme suit :
+
+« Article 4
+
+Maintien des garanties en cas de suspension du contrat de travail
+
+Le bénéfice des garanties visées à l'article 10 est maintenu au profit des salariés intérimaires dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient d'un maintien total ou partiel de salaire par l'employeur, moyennant paiement des cotisations patronales et salariales correspondantes.
+
+4.1. Cas particulier de la suspension du contrat de travail pour maladie, accident, accident du travail, maladie professionnelle ou congé de maternité
+
+Lorsque la suspension du contrat de travail est due à une maladie, un accident, un accident du travail, une maladie professionnelle ou un congé de maternité et que le salarié intérimaire est indemnisé à ce titre par la sécurité sociale, le bénéfice des garanties visées à l'article 10 est maintenu tant qu'il perçoit des indemnités journalières de la sécurité sociale, y compris après la fin ou la rupture du contrat de travail, sans versement des cotisations, à compter de la date de fin de période d'activité cotisée.
+
+Lorsque l'arrêt de travail intervient pendant la période de portabilité conventionnelle visée à l'article 5.1, l'ancien salarié intérimaire bénéficie du maintien des garanties, sans versement des cotisations, pour la période au titre de laquelle il perçoit des indemnités journalières de la sécurité sociale. En tout état de cause, ce maintien de la couverture collective n'a pas pour effet de suspendre ni de proroger la durée de la portabilité conventionnelle mentionnée à l'article 5.1, laquelle s'applique à compter de la fin ou de la rupture du contrat de travail.
+
+4.2. Cas particulier de la suspension du contrat de travail pour activité partielle
+
+Les salariés intérimaires placés en position d'activité partielle bénéficient, pendant les périodes où ils ne sont pas en activité, du maintien des garanties visées à l'article 10, sans versement des cotisations au titre des heures non travaillées.
+
+En tout état de cause, la période de portabilité conventionnelle mentionnée à l'article 5 s'applique à compter de la fin ou de la rupture du contrat de travail. »
