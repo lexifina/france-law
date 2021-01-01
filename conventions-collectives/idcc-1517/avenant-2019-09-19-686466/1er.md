@@ -14,9 +14,11 @@ Les partenaires sociaux ont décidé des améliorations suivantes sur le régime
 
 Les partenaires sociaux ont donc décidé de fixer les garanties du régime de base comme suit :
 
-(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Conventions collectives.)
+(Tableaux
 
-https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2019/0048/ boc _ 20190048 _ 0000 _ 0014. pdf
+(1) non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
+
+https://www.legifrance.gouv.fr/download/file/pdf/boc_20200037_0000_0005.pdf/BOCC
 
 Les taux de cotisation du régime de base restent fixés à 0,94 % du PMSS (plafond mensuel de la sécurité sociale).
 
@@ -24,6 +26,8 @@ Il est rappelé que la cotisation mensuelle est répartie à hauteur de 50 % à 
 
 Pour les salariés relevant du régime obligatoire local d'Alsace-Lorraine, les prestations versées au titre de la couverture complémentaire sont déterminées après déduction de celles déjà garanties par le régime obligatoire. En conséquence les cotisations à la charge de l'employeur et du salarié seront réduites à hauteur du différentiel de prestations correspondant.
 
-(1) Article étendu sous réserve du respect des modalités de prise en charge des frais exposés pour l'acquisition d'un équipement optique, prévues à l'article R. 871-2 du code de la sécurité sociale, précisées par l'arrêté du 3 décembre 2018 portant modification des modalités de prise en charge de dispositifs médicaux et prestations associées pour la prise en charge d'optique médicale au chapitre 2 du titre II de la liste prévue à l'article L. 165-1 (LPP) du code de la sécurité sociale.
+(1)
 
-(Arrêté du 20 mai 2020 - art. 1)
+Le tableau de garanties est étendu sous réserve du respect du cahier des charges des contrats responsables, prévu à l'article R. 871-2 du code de la sécurité sociale, concernant l'application des honoraires limites de facturation et l'application des périodicités de prise en charge des équipements d'optique tel que précisé par l'arrêté du 3 décembre 2018 portant modification des modalités de prise en charge de dispositifs médicaux et prestations associées pour la prise en charge d'optique médicale au chapitre 2 du titre II de la liste prévue à l'article L. 165-1 (LPP) du code de la sécurité sociale.
+
+(Arrêté du 2 avril 2021 - art. 1)
