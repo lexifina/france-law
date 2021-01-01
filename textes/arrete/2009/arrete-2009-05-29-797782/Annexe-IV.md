@@ -18,7 +18,9 @@ Cette annexe comporte les appendices suivants :
 
 8. Appendice IV.8. - Prescriptions applicables à la mise sous pression de gaz des citernes équipées de couvercles amovibles (voir article 9.3).
 
-9. Appendice IV. 9.-Prescriptions complémentaires applicables à la livraison en GRV de produits de traitement de l'eau (voir 3.7 de l'annexe I du présent arrêté).
+9. Appendice IV. 9.- Prescriptions complémentaires applicables à la livraison en GRV de certaines matières dangereuses liquides (voir 3.7.1 de l'annexe I du présent arrêté).
+
+10. Appendice IV. 10- Prescriptions applicables à la distribution de carburants destinés aux moteurs à combustion (voir 3.7.2 de l'annexe I du présent arrêté).
 
 APPENDICE IV.1 : DISPOSITIONS RELATIVES AUX FLEXIBLES
 
@@ -2796,35 +2798,17 @@ L'exploitant de la citerne doit prendre les dispositions appropriées en vue d'e
 
 APPENDICE IV. 9
 
-PRESCRIPTIONS COMPLÉMENTAIRES APPLICABLES À LA LIVRAISON EN GRV DE PRODUITS DE TRAITEMENT DE L'EAU
+PRESCRIPTIONS COMPLÉMENTAIRES APPLICABLES À LA LIVRAISON EN GRV DE CERTAINES MATIÈRES DANGEREUSES LIQUIDES
 
 (Voir 3.7.1 de l'annexe I du présent arrêté)
 
-Les dispositions du présent appendice sont applicables aux livraisons en GRV de produits de traitement de l'eau pour lesquelles le déchargement s'effectue par vidange du GRV. Les autres dispositions du présent arrêté auxquelles les prescriptions complémentaires suivantes ne dérogent pas restent applicables à ces opérations.
+Les dispositions du présent appendice sont applicables aux livraisons de matières dangereuses liquides pour lesquelles le déchargement s'effectue par vidange du GRV resté à bord du véhicule. Les autres dispositions du présent arrêté auxquelles les prescriptions complémentaires suivantes ne dérogent pas restent applicables à ces opérations.
 
-1. Matières autorisées.
+Les dispositions du présent appendice ne s'appliquent pas aux opérations de livraisons de carburants liquides visées à l'appendice IV. 10.
 
-Sont autorisées dans le cadre du présent appendice les livraisons de matières suivantes, du groupe d'emballage II ou III :
+1. Prescriptions concernant les GRV
 
--acide chlorhydrique du n° ONU 1789 ;
-
--hypochlorite en solution du n° ONU 1791 ;
-
--hydroxyde de sodium en solution du n° ONU 1824 ;
-
--chlorite en solution du n° ONU 1908 ;
-
--chlorure de fer III en solution du n° ONU 2582 ;
-
--hydrogénosulfites en solution aqueuse, n. s. a. du n° ONU 2693 ;
-
--acide sulfurique du n° ONU 2796 ;
-
--produit floculant à base de sels d'aluminium du n° ONU 3264.
-
-2. Prescriptions concernant les GRV.
-
-2.1. L'utilisation des GRV est autorisée exclusivement pour les types d'emballages suivants :
+1.1. L'utilisation des GRV est autorisée exclusivement pour les types d'emballages suivants :
 
 -GRV métalliques 31A ;
 
@@ -2834,17 +2818,17 @@ Sont autorisées dans le cadre du présent appendice les livraisons de matières
 
 sous réserve de satisfaire aux dispositions générales des 4.1.1,4.1.2 et 4.1.3, des dispositions applicables du 6.5 ainsi qu'aux dispositions complémentaires suivantes.
 
-2.2. Les GRV sont équipés de vannes de vidange dont la compatibilité chimique avec la matière transportée est assurée, ayant une pression nominale de conception supérieure ou égale à 10 bar (PN 10 minimum).
+1.2. Les GRV sont équipés de vannes de vidange dont la compatibilité chimique avec la matière transportée est assurée, ayant une pression nominale de conception supérieure ou égale à 10 bar (PN 10 minimum).
 
-2.3. Les flexibles utilisés pour les vidanges sont conformes aux dispositions de l'appendice IV. 1 du présent arrêté.
+1.3. Les flexibles utilisés pour les vidanges sont conformes aux dispositions de l'appendice IV. 1 du présent arrêté.
 
-2.4. Les GRV sont utilisés en toute circonstance dans les conditions de leur agrément de type.
+1.4. Les GRV sont utilisés en toute circonstance dans les conditions de leur agrément de type.
 
-3. Identification des GRV et dossiers de suivi individuels
+2. Identification des GRV et dossiers de suivi individuels
 
-3.1. Chaque GRV utilisé pour les livraisons effectuées dans le cadre du présent appendice est muni d'un numéro d'identification unique non réattribué après son retrait du service, inscrit sur le GRV de façon visible et durable. Pour les GRV composites, les récipients intérieurs sont également munis d'un numéro d'identification unique, différent du précédent et inscrit de façon durable sur les récipients intérieurs.
+2.1. Chaque GRV utilisé pour les livraisons effectuées dans le cadre du présent appendice est muni d'un numéro d'identification unique non réattribué après son retrait du service, inscrit sur le GRV de façon visible et durable. Pour les GRV composites, les récipients intérieurs sont également munis d'un numéro d'identification unique, différent du précédent et inscrit de façon durable sur les récipients intérieurs.
 
-3.2. Un dossier individuel de suivi est ouvert pour chaque GRV sous son numéro d'identification unique, comprenant :
+2.2. Un dossier individuel de suivi est ouvert pour chaque GRV sous son numéro d'identification unique, comprenant :
 
 -une copie du certificat d'homologation du type du GRV, indiquant en détail la configuration pour laquelle l'homologation a été accordée ;
 
@@ -2856,37 +2840,39 @@ sous réserve de satisfaire aux dispositions générales des 4.1.1,4.1.2 et 4.1.
 
 Les dossiers individuels de suivi des GRV sont tenus à disposition des agents de l'administration par l'emballeur, conformément à l'article 6-1 du présent arrêté.
 
-4. Vérification des GRV avant remplissage.
+3. Vérification des GRV avant remplissage
 
-Avant leur remplissage, l'emballeur procède à une vérification des GRV afin de s'assurer de leur aptitude au transport conformément au 1.4.2.1.1. Les points de vérification, la méthode de vérification et, le cas échéant, la traçabilité de la vérification sont formalisés dans une procédure écrite tenue à disposition des agents de l'administration, conformément à l'article 6-1 du présent arrêté.
+Avant leur remplissage, l'emballeur procède à une vérification des GRV afin de s'assurer de leur aptitude au transport conformément au 1.4.2.1.1. Les points de vérification, la méthode de vérification et le cas échéant, la traçabilité de la vérification sont formalisés dans une procédure écrite tenue à disposition des agents de l'administration, conformément à l'article 6-1 du présent arrêté.
 
-5. Conduite des opérations de vidange.
+4. Conduite des opérations de vidange
 
-5.1. Ne sont autorisés à effectuer les opérations de vidange visées par le présent appendice que des conducteurs :
+4.1. Ne sont autorisés à effectuer les opérations de vidange visées par le présent appendice que des conducteurs :
 
 -qui sont détenteurs d'une autorisation nominative à effectuer ces opérations, délivrée par le chef de l'entreprise de transport ;
 
 -qui ont reçu, outre les formations obligatoires prévues par l'ADR, une formation spécifique conformément au point 6 ci-après.
 
-5.2. L'opération de vidange s'effectue obligatoirement en présence, pendant toute la durée, d'une personne techniquement compétente représentant le destinataire exploitant de l'installation réceptionnaire dont dépendent les réservoirs destinés à recueillir les produits déchargés (nommée ci-après exploitant ).
+4.2. Lorsqu'elle est effectuée sur la voie publique telle qu'autorisée au 2.2.1.2, l'opération de vidange s'effectue obligatoirement en présence, pendant toute la durée, d'une personne techniquement compétente représentant le destinataire exploitant de l'installation réceptionnaire dont dépendent les réservoirs destinés à recueillir les produits déchargés (nommée ci-après “ exploitant ”).
 
-5.3. Préalablement à l'opération de vidange, le conducteur et l'exploitant vérifient l'adéquation de la nature des produits à décharger (n° ONU, groupe d'emballage) et des quantités à livrer avec les données du bon de commande.
+4.3. Préalablement à l'opération de vidange, le conducteur et l'exploitant vérifient l'adéquation de la nature des produits à décharger (n° ONU, groupe d'emballage) et des quantités à livrer avec les données du bon de commande.
 
-5.4. L'exploitant délimite et balise la zone d'intervention afin d'éloigner et d'interdire la présence dans cette zone de toute personne étrangère à l'opération.
+4.4. L'exploitant désigne au conducteur la ou les bouches de livraison, en lien avec le ou les réservoirs destinés à recevoir le ou les produits à décharger, après avoir préalablement vérifié la ou les capacités disponibles. Si ces capacités s'avèrent insuffisantes au regard des quantités à livrer, les opérations de vidange ne sont pas effectuées. Lorsque la vidange est effectuée sur la voie publique conformément aux dispositions du 2.2.1.2, l'exploitant délimite et balise la zone d'intervention afin d'éloigner et d'interdire la présence dans cette zone de toute personne étrangère à l'opération.
 
-Il désigne au conducteur la ou les bouches de livraison, en lien avec le ou les réservoirs destinés à recevoir le ou les produits à décharger, après avoir préalablement vérifié la ou les capacités disponibles. Si ces capacités s'avèrent insuffisantes au regard des quantités à livrer, les opérations de vidange ne sont pas effectuées.
+4.5. Afin d'éviter tout risque d'erreur de déchargement (vidange d'un produit dans un mauvais réservoir), toutes les bouches de livraison ainsi que les réservoirs de stockage associés sont clairement identifiés à l'aide du n° ONU de la matière. Les bouches de livraison sont munies de fermetures sécurisées munies d'un dispositif de verrouillage de type cadenas ou autre dispositif. Lorsque la vidange est réalisée conformément aux dispositions du 2.2.1.2, un schéma clairement lisible de l'ensemble des réservoirs, des bouches de livraisons associées et de leur identification est affiché de façon permanente dans l'installation réceptionnaire.
 
-5.5. Afin d'éviter tout risque d'erreur de déchargement (vidange d'un produit dans un mauvais réservoir), toutes les bouches de livraison ainsi que les réservoirs de stockage associés sont clairement identifiés. Un schéma clairement lisible de l'ensemble des réservoirs, des bouches de livraisons associées et de leur identification est affiché de façon permanente dans l'installation réceptionnaire.
+4.6. La vidange est effectuée conformément aux dispositions du présent arrêté applicables pour un transport en citerne. L'arrivée de produit dans le réservoir de réception doit être en connexion fixe. Pour le transfert de matières inflammables, toute arrivée en pluie dans le réservoir est interdite et la connexion à une prise de terre opérationnelle est requise. La vidange par mise sous pression du GRV est interdite. Préalablement au déchargement, le conducteur vérifie notamment que la cale de roue visée au 8.1.5.2 est correctement mise en place et que les équipements supplémentaires visés au 8.1.5.3 sont aisément accessibles.
 
-5.6. La vidange est effectuée conformément aux dispositions du présent arrêté applicables pour un transport en citerne. La vidange par mise sous pression du GRV est interdite. Le conducteur vérifie notamment que la cale de roue visée au 8.1.5.2 ainsi que le réservoir collecteur visé au 8.1.5.3 sont correctement mis en place préalablement au déchargement.
+4.7. A l'issue de chaque vidange, des mesures doivent être prises afin d'éviter que les flexibles ne laissent échapper des matières dangereuses durant le transport. Les flexibles sont rincés ou à défaut, placés dans des bacs permettant de contenir d'éventuelles fuites de marchandises. Il est strictement interdit de rejeter ces eaux de rinçage dans l'environnement ou dans les réseaux d'assainissement publics. L'eau nécessaire pour ces rinçages est disponible à chaque opération dans l'installation réceptionnaire. Le traitement des eaux de rinçage relève exclusivement de l'installation réceptionnaire.
 
-5.7. A l'issue de chaque vidange, les flexibles sont rincés. Il est strictement interdit de rejeter ces eaux de rinçage dans l'environnement ou dans les réseaux d'assainissement publics. L'eau nécessaire pour ces rinçages est disponible à chaque opération dans l'installation réceptionnaire. Le traitement des eaux de rinçage relève exclusivement de l'installation réceptionnaire.
+4.8. Un bac de rétention doit être placé sous les raccordements de flexibles afin de contenir les éventuelles fuites. Dans le cadre de la vidange de liquides inflammables, l'installation destinatrice doit disposer des moyens appropriés de lutte contre l'incendie tenus prêts à être mis en œuvre durant toute l'opération de vidange.
 
-6. Formation spécifique des conducteurs.
+4.9. Le retour des GRV vides s'effectue sous la responsabilité de l'expéditeur initial. En outre, le transport de GRV non vides après vidange partielle est interdit. Cependant, s'il n'est pas possible de procéder autrement, le conducteur, après avoir contacté l'expéditeur initial et selon les instructions de ce dernier, prend toutes les mesures nécessaires afin de s'assurer de la fermeture conforme des GRV permettant d'exclure toute fuite de marchandises dangereuses durant le transport.
 
-6.1. Le transporteur, l'emballeur ou le chargeur s'assurent que, dans le cadre du 1.3, les conducteurs effectuant les vidanges visées par le présent appendice reçoivent une formation spécifique adaptée à ces opérations. Les conducteurs titulaires d'un certificat de spécialisation citerne mentionnée au paragraphe 4.2 de l'annexe I du présent arrêté sont dispensés de cette formation.
+5. Formation spécifique des conducteurs
 
-6.2. La formation spécifique comprend une partie théorique et une partie pratique.
+5.1. Le transporteur, l'emballeur ou le chargeur s'assurent que, dans le cadre du 1.3, les conducteurs effectuant les vidanges visées par le présent appendice reçoivent une formation spécifique adaptée à ces opérations. Les conducteurs titulaires d'un certificat de spécialisation citerne mentionnée au paragraphe 4.2 de l'annexe I du présent arrêté sont dispensés de cette formation.
+
+5.2. La formation spécifique comprend une partie théorique et une partie pratique.
 
 La partie théorique, d'une durée d'une journée, aborde notamment les sujets suivants :
 
@@ -2902,19 +2888,19 @@ La formation théorique est renouvelée tous les cinq ans, selon un plan de form
 
 La partie pratique vise à familiariser les personnes concernées aux consignes à respecter et aux gestes à effectuer lors des déchargements. Elle peut être dispensée sous forme de travaux pratiques de mise en situation, ou sur la base d'un tutorat du conducteur novice par un conducteur expérimenté. La durée de cette formation pratique est suffisante pour permettre d'assimiler les consignes et gestes techniques enseignés.
 
-6.3. A l'issue de la formation théorique et pratique, une attestation de formation est remise au conducteur concerné qui la présente à la demande des agents de l'administration chargés du contrôle des transports de marchandises dangereuses.
+5.3. A l'issue de la formation théorique et pratique, une attestation de formation est remise au conducteur concerné qui la présente à la demande des agents de l'administration chargés du contrôle des transports de marchandises dangereuses.
 
-7. Document de transport et documents de bord.
+6. Document de transport et documents de bord
 
-7.1. Le document de transport prévu au 5.4.1 comporte la mention suivante : Livraison selon le 3.7.1 de l'annexe I de l'arrêté TMD .
+6.1. Le document de transport prévu au 5.4.1 comporte la mention suivante : “ Livraison selon le 3.7.1 de l'annexe I de l'arrêté TMD ”. Dans le cadre du retour des GRV vides, les dispositions du 3.2.2 de l'annexe I du présent arrêté, relatives au document de transport, peuvent être appliquées.
 
-7.2. Outre les documents prévus au 8.1.2, l'attestation de formation du conducteur visée au 6.3 ci-dessus et l'autorisation visée au 5.1 ci-dessus sont présentes à bord de toute unité de transport effectuant des livraisons dans le cadre du présent appendice.
+6.2. Outre les documents prévus au 8.1.2, l'attestation de formation du conducteur visée au 5.3 ci-dessus et l'autorisation visée au 4.1 ci-dessus sont présentes à bord de toute unité de transport effectuant des livraisons dans le cadre du présent appendice.
 
-8. Consignes écrites relatives aux opérations de vidange.
+7. Consignes écrites relatives aux opérations de vidange
 
 Un document spécifique décrit les mesures à prendre au cours des opérations de vidange, et notamment en cas d'accident. Ces mesures concernent notamment :
 
--une procédure de rinçage des flexibles après vidange ;
+-une procédure de rinçage ou de fermeture des flexibles après vidange ;
 
 -la lutte contre les épandages accidentels et la pollution lors des opérations de vidange ;
 
@@ -2948,7 +2934,7 @@ Les dispositions du présent appendice sont applicables aux opérations de livra
 
 -1 000 litres pour les carburants affectés aux n° ONU 1202 et 1223.
 
-La quantité totale de carburants transportés ne dépasse pas 1 000 litres.
+La quantité totale de carburants transportés ne dépasse pas 1 000 litres par unité de transport.
 
 1.3. Le transport simultané de toute autre marchandise dangereuse dans la même unité de transport est interdit.
 
@@ -2972,7 +2958,7 @@ Seuls sont utilisés des GRV de type 31A, 31B ou 31N. Ces derniers doivent satis
 
 3.1. Types de véhicules.
 
-3.1.1. L'utilisation d'une unité de transport comprenant une remorque est interdite.
+3.1.1. L'utilisation d'une unité de transport comprenant une remorque est interdite. Cependant lorsque les activités de transport sont accessoires aux activités de l'entreprise et qu'elles concernent des approvisionnements nécessaires à des chantiers de bâtiment ou de génie civil, des chantiers agricoles ou pour des travaux de mesure, de réparation et de maintenance, ainsi que pour des opérations d'avitaillement d'aéronefs, l'utilisation d'une remorque est autorisée sous réserve que cette dernière réponde aux dispositions pertinentes définies aux 3.1.2 et 3.1.3.
 
 3.1.2. Les seuls véhicules autorisés sont des véhicules couverts, dotés d'un compartiment de chargement séparé de la cabine par une cloison continue, soudée ou disposant d'un joint sur toute sa périphérie. Celle-ci peut être d'origine ou aménagée par l'exploitant, mais sans nécessairement être étanche. Les ouvertures sont fermées par des portes verrouillables.
 
@@ -3036,7 +3022,7 @@ Les points de vérification, la méthode de vérification et le cas échéant la
 
 5.2. Opérations de livraison de carburant.
 
-5.2.1. Durant les opérations de transport, le robinet séparant le GRV du dispositif de pompage mentionné au 2.3.2 du présent appendice est en position fermée.
+5.2.1. Durant les opérations de transport, le robinet séparant le GRV du dispositif de pompage mentionné au 2.2 du présent appendice est en position fermée.
 
 5.2.2. La livraison en carburant de véhicules est interdite :
 
@@ -3119,3 +3105,9 @@ Un document décrivant de manière détaillée les consignes de remplissage et d
 8. Formation de l'équipage.
 
 Le conducteur est titulaire d'un certificat correspondant à la formation de base ainsi qu'à la spécialisation “ produits pétroliers ” au sens du 4.3 c) de l'annexe I du présent arrêté.
+
+NOTA :
+
+Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.

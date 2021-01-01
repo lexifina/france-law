@@ -8,7 +8,7 @@ DANGEREUSES PAR VOIES DE NAVIGATION INTÉRIEURES (ADN)
 
 1.1. La présente annexe est composée :
 
-- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2019, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
+- de l'ADN fait à Genève le 26 mai 2000 et son règlement annexé en vigueur au 1er janvier 2021, tels que visés à la section III. 1 de l'annexe III de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2020/1833. Ces documents sont publiés en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Ils sont aussi disponibles sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.html ;
 
 - des dispositions particulières qui complètent notamment le règlement annexé à l'ADN et en précisent les modalités d'application aux transports nationaux ou internationaux de marchandises dangereuses par voies de navigation intérieures effectués en France.
 
@@ -34,7 +34,7 @@ Lorsqu'il est fait référence à une partie, section, sous-section ou à un par
 
 2. Dispositions particulières applicables à tous les transports de marchandises dangereuses par voies de navigation intérieures
 
-2.1. Missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement.
+2.1. Missions respectives des différents intervenants lors des opérations de chargement et de déchargement.
 
 Outre les dispositions prévues au 1.4, les prescriptions ci-après doivent être respectées par le conducteur et la personne responsable de la manutention aux installations à terre.
 
@@ -228,12 +228,8 @@ Huit leçons
 
 |
 
-3.4. (supprimé)
+NOTA :
 
-3.5. Dispositions particulières.
+Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
 
-Aux fins de se conformer aux dispositions du 1.6.8 du Règlement annexé à l'ADN, tout conducteur responsable et toute personne responsable du chargement ou du déchargement d'une barge sont tenus, avant le 31 décembre 2019, d'avoir participé :
-
-- soit à un cours initial de base, tel que défini au 3.3 de la présente annexe III ;
-
-- soit à un cours de recyclage de base, qui, par exception aux dispositions du 8.2.2.5 et du 3.3 de la présente annexe III, comprend vingt-quatre leçons de quarante-cinq minutes, dont huit leçons consacrées à la stabilité.
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.

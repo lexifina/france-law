@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT FERROVIAIRE DE MARCHANDISES DAN
 
 1.1. La présente annexe est composée :
 
-- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2019, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
+- de l'appendice C de la Convention relative aux transports internationaux ferroviaires (COTIF), qui est le RID, tel que visé à la section II. 1 de l'annexe II de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2020/1833 susvisée. Ce règlement, y compris les amendements en vigueur au 1er janvier 2021, est publié en français par l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), Gryphenhübeliweg 30,3006 Berne, Suisse. Il est disponible sur le site internet de l'OTIF à l'adresse suivante : http://www.otif.org/.
 
 - des dispositions particulières qui complètent notamment l'annexe du RID et en précisent les modalités d'application aux transports nationaux ou internationaux ferroviaires de marchandises dangereuses effectués en France.
 
@@ -16,9 +16,9 @@ Dispositions particulières applicables à tous les transports ferroviaires de m
 
 Ces dispositions précisent les dispositions particulières applicables concernant les points suivants :
 
-- missions respectives des différents intervenants lors des opérations de chargement et de déchargement et avant acceptation au transport des envois (paragraphe 2.1) ;
+- missions respectives des différents intervenants lors des opérations de chargement, de déchargement, de remplissage et de vidange avant acceptation des envois par le transporteur ferroviaire (paragraphe 2.1) ;
 
-- chargement, déchargement (paragraphe 2.2) ;
+- chargement, remplissage, déchargement et vidange (paragraphe 2.2) ;
 
 - transport et stationnement (paragraphe 2.3) ;
 
@@ -42,7 +42,7 @@ Lorsqu'il est fait référence à une partie, section, sous-section ou à un par
 
 2. Dispositions particulières applicables à tous les transports ferroviaires de marchandises dangereuses
 
-2.1. Missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement, avant acceptation des envois par le transporteur ferroviaire.
+2.1. Missions respectives des différents intervenants lors des opérations de chargement, de déchargement, de remplissage et de vidange, avant acceptation des envois par le transporteur ferroviaire.
 
 Outre les dispositions prévues par d'autres textes pour le chargement, le remplissage et le déchargement de marchandises ou d'unités de transport, les mesures ci-après doivent être observées :
 
@@ -82,7 +82,7 @@ Le responsable de tout établissement où s'effectue le remplissage doit veiller
 
 - les consignes de remplissage soient respectées.
 
-Après le remplissage, comme après le déchargement, l'établissement expéditeur ou l'établissement destinataire doit vérifier que :
+Après le remplissage, comme après la vidange, l'établissement expéditeur ou l'établissement destinataire doit vérifier que :
 
 - tous les dispositifs de fermeture sont en position fermée et étanches ;
 
@@ -122,7 +122,7 @@ Il appartient au responsable qui effectue l'opération de transfert sur wagon :
 
 Avant l'acceptation au transport d'envois de marchandises dangereuses et sans préjudice des obligations incombant à l'expéditeur, le transporteur ferroviaire est tenu de procéder aux vérifications prévues au 1.4.2.2.1.
 
-2.2. Chargement, remplissage et déchargement.
+2.2. Chargement, remplissage, déchargement et vidange.
 
 2.2.1. Opérations de manutention.
 
@@ -136,17 +136,17 @@ Il est interdit au personnel du transporteur ferroviaire et du gestionnaire de l
 
 2.2.2.3. Lorsqu'il s'agit de matières ayant un point d'éclair égal ou inférieur à 60° C, une bonne connexion électrique entre le châssis du wagon et la terre doit être réalisée avant le remplissage ou la vidange des citernes. En outre, la vitesse de remplissage ou de vidange doit être limitée.
 
-2.2.2.4. Les manutentions des matières dangereuses (chargement, remplissage, déchargement, transbordement) sont interdites sur les voies électrifiées lorsqu'elles sont sous tension.
+2.2.2.4. Les manutentions des matières dangereuses (chargement, remplissage, déchargement, vidange et transbordement) sont interdites sur les voies électrifiées lorsqu'elles sont sous tension.
 
-2.2.3. Lieux de chargement, de remplissage et de déchargement et précautions à prendre pour les opérations autorisées en gare dans le cadre du 1.9.5 et du décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et aux autres infrastructures de services du réseau ferroviaire.
+2.2.3. Lieux de chargement, de remplissage, de déchargement et de vidange et précautions à prendre pour les opérations autorises en gare dans le cadre du 1.9.5 et du décret n° 2012-70 du 20 janvier 2012 relatif aux gares de voyageurs et aux autres infrastructures de services du réseau ferroviaire.
 
 2.2.3.1. Transports en vrac.
 
-Le remplissage et le déchargement des marchandises des classes 4.2 et 4.3 transportées en vrac ne peuvent pas être effectués en gare.
+Le remplissage, le déchargement et la vidange des marchandises des classes 4.2 et 4.3 transportées en vrac ne peuvent pas être effectués en gare.
 
 2.2.3.2. Transports en citernes.
 
-Le remplissage et le déchargement des matières dangereuses transportées en citerne ne peuvent pas être effectués en gare. Sont toutefois admis le remplissage et le déchargement des marchandises suivantes :
+Le remplissage, le déchargement et la vidange des matières dangereuses transportées en citerne ne peuvent pas être effectués en gare. Sont toutefois admis le remplissage, le déchargement et la vidange des marchandises suivantes :
 
 - classe 2 : gaz du groupe A ;
 
@@ -154,9 +154,9 @@ Le remplissage et le déchargement des matières dangereuses transportées en ci
 
 - classe 4.1 : matières pulvérulentes ou granulaires autorisées en citernes.
 
-2.2.3.3. Pour le chargement, le remplissage et le déchargement de marchandises dangereuses en gare, des consignes communes doivent être établies entre le transporteur ferroviaire et l'expéditeur ou le destinataire pour définir leur rôle respectif ainsi que les modalités de réalisation des opérations prévues.
+2.2.3.3. Pour le chargement, le remplissage, le déchargement et la vidange de marchandises dangereuses en gare, des consignes communes doivent être établies entre le transporteur ferroviaire et l'expéditeur ou le destinataire pour définir leur rôle respectif ainsi que les modalités de réalisation des opérations prévues.
 
-2.2.3.4. Pour les opérations et pour les marchandises autorisées par les paragraphes précédents, le gestionnaire de l'infrastructure peut interdire le chargement, le remplissage ou le déchargement de marchandises dangereuses en gare dans certaines zones, le cas échéant en fonction des marchandises dangereuses considérées.
+2.2.3.4. Pour les opérations et pour les marchandises autorisées par les paragraphes précédents, le gestionnaire de l'infrastructure peut interdire le chargement, le remplissage, le déchargement ou la vidange de marchandises dangereuses en gare dans certaines zones, le cas échéant en fonction des marchandises dangereuses considérées.
 
 2.3. Transport et séjour temporaire.
 
@@ -204,7 +204,7 @@ Les dispositions suivantes ont pour objet de préciser les conditions d'applicat
 
 Lorsque l'état d'un chargement de matières dangereuses n'offre plus, pour un motif quelconque, les garanties de sécurité prescrites par le présent arrêté, le transporteur ferroviaire peut faire appel à l'expéditeur, au chargeur, au remplisseur ou à l'exploitant du wagon selon le cas, et lui demander des instructions.
 
-Si la constatation est faite au cours de l'acheminement, le wagon est arrêté à l'endroit le plus approprié conformément aux documents prévus par les articles 10 et 13 du décret n° 2006-1279 du 19 octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire. Le transporteur informe systématiquement le gestionnaire de l'infrastructure de la nature de l'événement et de son évolution, et lui communique les renseignements sur les matières transportées figurant dans le document de transport. Le cas échéant, les mesures prévues dans le plan d'urgence interne de la gare de triage prévu au 2.3.4 de la présente annexe sont mises en œuvre sans délai.
+Si la constatation est faite au cours de l'acheminement, le wagon est arrêté à l'endroit le plus approprié conformément aux documents prévus par les articles 14 et 16 du décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires. Le transporteur informe systématiquement le gestionnaire de l'infrastructure de la nature de l'événement et de son évolution, et lui communique les renseignements sur les matières transportées figurant dans le document de transport. Le cas échéant, les mesures prévues dans le plan d'urgence interne de la gare de triage prévu au 2.3.4 de la présente annexe sont mises en œuvre sans délai.
 
 Pour l'application de l'article 7 de l'arrêté modifié du 12 août 2008 relatif aux plans d'intervention et de sécurité (PIS), les événements de sécurité de type 2 nécessitant le concours des services de secours publics et l'information du préfet, et les événements de sécurité de type 1 ne nécessitant pas d'aviser systématiquement les services de secours publics, sont respectivement définis aux 2.3.3.1 et 2.3.3.2 de la présente annexe.
 
@@ -286,7 +286,7 @@ Lorsque cette remise en conformité nécessite des mesures pour lesquelles toute
 
 2.3.3.7. Bilans annuels.
 
-Les gestionnaires d'infrastructure et les transporteurs établissent, chacun pour ce qui les concerne, un bilan annuel des événements relevant respectivement des 2.3.3.1,2.3.3.2 et 2.3.3.3, et de leur traitement. Ce bilan est transmis, au plus tard le 30 avril suivant l'exercice, à la Mission Transport de matières dangereuses (ministère de la transition écologique et solidaire, 92055 La Défense Cedex.
+Les gestionnaires d'infrastructure et les transporteurs établissent, chacun pour ce qui les concerne, un bilan annuel des événements relevant respectivement des 2.3.3.1,2.3.3.2 et 2.3.3.3, et de leur traitement. Ce bilan est transmis, au plus tard le 30 avril suivant l'exercice, à la Mission Transport de matières dangereuses (Ministère de la transition écologique) , 92055 La Défense Cedex.
 
 2.3.4. Plan d'urgence interne des gares de triage.
 
@@ -328,7 +328,7 @@ Outre les prescriptions du 7.5.3, les wagons contenant des matières ou objets e
 
 2.5.3. Séjour temporaire dans les gares de départ et d'arrivée.
 
-Les wagons renfermant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 sont isolés et placés sur des voies choisies parmi celles qui sont le plus éloignées des voies principales ou de stationnement des trains de voyageurs, des voies de circulation de machines de manœuvres et du bâtiment à voyageurs. Ces wagons sont immobilisés et protégés par le transporteur ferroviaire ou la personne titulaire de la convention d'exploitation mentionnée à l'article 23 du décret n° 2006-1279 du 19 octobre 2006 modifié relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire, selon les paramètres techniques de l'infrastructure indiqués dans la documentation d'exploitation.
+Les wagons renfermant des matières ou objets explosibles et munis d'une plaque-étiquette n° 1 (comportant l'indication de la division 1.1) ou 1.5 sont isolés et placés sur des voies choisies parmi celles qui sont le plus éloignées des voies principales ou de stationnement des trains de voyageurs, des voies de circulation de machines de manœuvres et du bâtiment à voyageurs. Ces wagons sont immobilisés et protégés par le transporteur ferroviaire ou la personne titulaire de la convention d'exploitation mentionnée à l'article 16 du décret n° 2019-525 du 27 mai 2019 relatif à la sécurité et à l'interopérabilité du système ferroviaire et modifiant ou abrogeant certaines dispositions réglementaires, selon les paramètres techniques de l'infrastructure indiqués dans la documentation d'exploitation.
 
 Les wagons munis d'une plaque étiquette n° 1,1.5 ou 1.6 ne sont pas placés sur des voies contiguës ou au voisinage des wagons munis d'une plaque étiquette des n° s 2.1,3,4.1,4.2,4.3,5.1 ou 5.2.
 
@@ -354,7 +354,7 @@ Sont concernés par les dispositions du présent paragraphe les matières danger
 
 2.6.1.2. Infrastructures concernées
 
-Sont concernées par les dispositions du présent paragraphe les infrastructures ferroviaires visées à l'article 2 de l'arrêté du 15 juin 2012 fixant la liste des ouvrages d'infrastructures routières, ferroviaires, portuaires ou de navigation intérieure et des installations multimodales soumis aux dispositions de la partie réglementaire du code de l'environnement portant application de l'article L. 551-2 du code de l'environnement, et qui disposent d'installations de triage par tir au but.
+Sont concernées par les dispositions du présent paragraphe les infrastructures ferroviaires visées à l'article 2 de l'arrêté du 15 juin 2012 fixant la liste des ouvrages d'infrastructures routières, ferroviaires, portuaires ou de navigation intérieure et des installations multimodales soumis aux dispositions de la partie réglementaire du code de l'environnement portant application de l' article L. 551-2 du code de l'environnement , et qui disposent d'installations de triage par tir au but.
 
 2.6.1.3. Instruction particulière de manœuvre
 
@@ -453,3 +453,9 @@ Nonobstant le 5.3.1.5, seuls les wagons de messagerie chargés de plus de trois 
 3.3 Dispositions spéciales relatives aux trains désherbeurs.
 
 Les matières des n° ONU 3082 et 3077 de la classe 9 bénéficiant d'autorisations de mise sur le marché, destinées aux opérations de désherbage sur le Réseau Ferré National, ne sont pas soumises aux dispositions du présent arrêté, lorsqu'elles sont transportées dans leur matériel d'épandage, sur les trains désherbeurs.
+
+NOTA :
+
+Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.

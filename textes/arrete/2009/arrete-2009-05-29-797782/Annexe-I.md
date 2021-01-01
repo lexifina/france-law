@@ -6,7 +6,7 @@ DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGE
 
 1.1. La présente annexe est composée :
 
-- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée. Cet accord, y compris les amendements en vigueur au 1er janvier 2019, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
+- des annexes A et B de l'ADR, telles que visées à la section I. 1 de l'annexe I de la directive 2008/68/CE du Parlement européen et du Conseil modifiée par la directive (UE) 2020/1833 susvisée. Cet accord, y compris les amendements en vigueur au 1er janvier 2021, est publié en français par les Nations unies, section des ventes, bureau E-4, palais des Nations, 1211 Genève 10, Suisse. Il est disponible sur le site internet de la division des transports de la CEE-ONU à l'adresse suivante : http://www.unece.org/trans/danger/danger.htm;
 
 - des dispositions particulières qui complètent notamment les annexes A et B de l'ADR et en précisent les modalités d'application aux transports nationaux ou internationaux par route de marchandises dangereuses effectués sur le territoire national.
 
@@ -16,9 +16,9 @@ Dispositions particulières applicables à tous les transports (nationaux ou int
 
 Ces dispositions précisent les dispositions particulières applicables concernant les points suivants :
 
-- missions respectives des différents intervenants lors des opérations de chargement et de déchargement (paragraphe 2.1) ;
+- missions respectives des différents intervenants lors des opérations de chargement et de déchargement, de remplissage et de vidange (paragraphe 2.1) ;
 
-- chargement, déchargement (paragraphe 2.2) ;
+- chargement, déchargement, remplissage et vidange (paragraphe 2.2) ;
 
 - transport et stationnement (paragraphe 2.3) ;
 
@@ -44,7 +44,7 @@ Ces dispositions précisent les dispositions particulières applicables concerna
 
 - certificats d'agrément des véhicules admis à circuler en France en dérogation à certaines dispositions de l'annexe B de l'ADR (paragraphe 3.6) ;
 
-- dispositions spéciales relatives à la livraison de produits de traitement de l'eau en GRV (paragraphe 3.7) ;
+- dispositions spéciales relatives à la livraison de certaines marchandises en colis (paragraphe 3.7) ;
 
 - dispositions spéciales relatives à la classe 7 (paragraphe 3.8).
 
@@ -62,7 +62,7 @@ Lorsqu'il est fait référence à une partie, section, sous-section ou à un par
 
 2. Dispositions particulières applicables à tous les transports par route de marchandises dangereuses
 
-2.1. Missions respectives des différents intervenants lors des opérations de chargement, de remplissage et de déchargement
+2.1. Missions respectives des différents intervenants lors des opérations de chargement, de déchargement, de remplissage et de vidange
 
 Outre les dispositions prévues au 1.4, les dispositions suivantes s'appliquent. Elles précisent notamment les dispositions des 7.5.1.2 et 7.5.1.3.
 
@@ -124,9 +124,9 @@ Il appartient en outre au responsable de l'établissement où s'effectue le remp
 
 L'établissement au sein duquel s'effectue le remplissage ou la vidange désigne à cet effet un conseiller à la sécurité conformément aux dispositions de l'article 6 du présent arrêté.
 
-2.2 Chargement, remplissage, déchargement.
+2.2 Chargement, déchargement, remplissage et vidange.
 
-2.2.1. Lieux de chargement, de remplissage et de déchargement.
+2.2.1. Lieux de chargement, de déchargement, de remplissage et de vidange.
 
 Les prescriptions suivantes complètent ou modifient les dispositions du 7. 5 et du 8.5, et s'appliquent, sauf cas de force majeure, dès lors que les transports visés dépassent les quantités définies au 1.1.3.6.
 
@@ -160,7 +160,23 @@ Toutefois, sont autorisés :
 
 - le chargement des colis contenant des matières et objets affectés au n° ONU 3291, lorsque les établissements de soins et assimilés ne disposent pas d'emplacement dédié au stationnement des véhicules d'enlèvement ;
 
-- les livraisons de produits de traitement de l'eau en GRV prévues au paragraphe 3.7 de la présente annexe I.
+- les livraisons des matières suivantes relevant des groupes d'emballage II ou III, destinées au traitement de l'eau et conditionnées en GRV dans les conditions fixées au paragraphe 3.7.1 de la présente annexe I :
+
+-acide chlorhydrique du n° ONU 1789 ;
+
+-hypochlorite en solution du n° ONU 1791 ;
+
+-hydroxyde de sodium en solution du n° ONU 1824 ;
+
+-chlorite en solution du n° ONU 1908 ;
+
+-chlorure de fer III en solution du n° ONU 2582 ;
+
+-hydrogénosulfites en solution aqueuse, n. s. a du n° ONU 2693 ;
+
+-acide sulfurique du n° ONU 2796 ;
+
+-produit floculant à base de sels d'ammonium du n° ONU 3264.
 
 2.2.1.3. Citernes.
 
@@ -192,11 +208,11 @@ Est autorisée, sous réserve de la décision préfectorale prévue au 2.2.1.4, 
 
 2.2.1.4. Des dérogations aux dispositions du 2.2.1 de la présente annexe I peuvent être accordées par décision du préfet. Par ailleurs, les interdictions prévues aux 2.2.1.2 et 2.2.1.3 ci-dessus ne s'appliquent pas aux dessertes de chantier sur la voie publique.
 
-2.2.2. Conditions de chargement ou de déchargement des citernes.
+2.2.2. Conditions de vidange des citernes.
 
 Le moteur de propulsion du véhicule doit être arrêté lorsque la vidange des citernes est effectuée par gravité ou à l'aide d'un groupe motopompe indépendant du véhicule. Toutefois, l'utilisation du moteur de propulsion est autorisée pour la vidange des citernes basculantes.
 
-Le déchargement des citernes par pression de gaz n'est autorisé que si on utilise la pression de la phase gazeuse du produit à transférer ou bien si on utilise un gaz depuis une source externe sous une pression n'excédant pas 4 bar. Dans le cas où le point d'éclair du produit à transférer est inférieur à 23° C :
+La vidange des citernes par pression de gaz n'est autorisé que si on utilise la pression de la phase gazeuse du produit à transférer ou bien si on utilise un gaz depuis une source externe sous une pression n'excédant pas 4 bar. Dans le cas où le point d'éclair du produit à transférer est inférieur à 23° C :
 
 - pour les citernes à déchets visées au 6.10, la pression ne doit pas excéder 1 bar, conformément au 4.5.2.3 ;
 
@@ -210,7 +226,7 @@ Dans tous les cas, la citerne du véhicule et les flexibles doivent être effica
 
 Sans préjudice des prescriptions des 8.4 et 8.5, les dispositions suivantes s'appliquent au stationnement des véhicules transportant des marchandises dangereuses.
 
-2.3.1.1. Dispositions relatives aux transports dépassant les quantités définies au 1.1.3.6.
+2.3.1.1. Dispositions relatives aux unités de transport soumises à l'apposition d'une signalisation orange.
 
 Le véhicule en stationnement doit être garé de façon à éviter au maximum tout risque d'être endommagé par d'autres véhicules ; il doit pouvoir être évacué sans nécessiter de manœuvre. Notamment les remorques sont attelées à un véhicule motorisé.
 
@@ -380,7 +396,7 @@ L'exploitant établit, sur la base de sa connaissance des transports effectués 
 
 2.3.2.3.3 Estimation des quantités présentes de marchandises dangereuses
 
-Dans le cas de parcs de stationnement surveillés par un préposé, l'exploitant s'assure qu'une estimation quotidienne des quantités des principales marchandises dangereuses présentes sur le parc de stationnement est établie. Cette estimation est faite sur la base des données approximatives de l'état de chargement des véhicules transportant des marchandises dangereuses au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus qui stationnent dans le parc. Elle est arrêtée au moment de la fin d'activité journalière de l'exploitant pour le parc concerné. Cette estimation, organisée selon les catégories définies par les zones visées au 2.3.2.2.3 est mise à disposition des services de secours incendie intervenant sur le site.
+Dans le cas de parcs de stationnement surveillés par un préposé, l'exploitant s'assure qu'une estimation quotidienne des quantités des principales marchandises dangereuses présentes sur le parc de stationnement est établie. Cette estimation, qui intègre l'identification des citernes vides non nettoyées, est faite sur la base des données approximatives de l'état de chargement des véhicules transportant des marchandises dangereuses au sens et en quantités ou capacités supérieures à celles du tableau 2.3.2.1 ci-dessus qui stationnent dans le parc. Elle est arrêtée au moment de la fin d'activité journalière de l'exploitant pour le parc concerné. Cette estimation, organisée selon les catégories définies par les zones visées au 2.3.2.2.3 est mise à disposition des services de secours incendie intervenant sur le site.
 
 2.3.2.4 Lutte contre l'incendie-Prévention du risque de pollution
 
@@ -506,7 +522,7 @@ Sont reconnues pour exercer cette fonction :
 
 2.5.2. Nonobstant les dispositions du 1.1.3.6, les dispositions suivantes s'appliquent quelle que soit la masse transportée, hormis les cas d'exemption prévus au 2.5.1 de la présente annexe I :
 
-a) Les colis contenant des matières et objets affectés au n° ONU 3291 sont transportés, à l'intérieur des véhicules, dans des compartiments solidaires des véhicules ou dans des caissons amovibles. Ces compartiments ou caissons leur sont réservés. Toutefois, ceux-ci peuvent aussi, sans préjudice des dispositions du code rural relatives à l'équarrissage, contenir des cadavres d'animaux, préalablement emballés.
+a) Les colis contenant des matières et objets affectés aux n° ONU 3291 ou 3549 sont transportés, à l'intérieur des véhicules, dans des compartiments solidaires des véhicules ou dans des caissons amovibles. Ces compartiments ou caissons leur sont réservés. Toutefois, ceux-ci peuvent aussi, sans préjudice des dispositions du code rural relatives à l'équarrissage, contenir des cadavres d'animaux, préalablement emballés.
 
 b) Les compartiments visés ci-dessus des véhicules immatriculés en France répondent aux conditions d'aménagement suivantes :
 
@@ -534,9 +550,11 @@ Les caissons amovibles sont lavés et désinfectés après chaque déchargement.
 
 d) Exceptionnellement, lorsque la filière d'élimination comporte une période de stationnement supérieure à deux heures, celui-ci doit s'effectuer dans un lieu fermé offrant toutes les garanties de sécurité.
 
-e) En dehors du personnel de bord, il est interdit de transporter des voyageurs dans des véhicules transportant des matières et objets affectés au n° ONU 3291.
+e) En dehors du personnel de bord, il est interdit de transporter des voyageurs dans des véhicules transportant des matières et objets affectés aux n° ONU 3291 ou 3549.
 
 2.5.3. Si dans le cadre du calcul des quantités visées au 1.1.3.6 la masse nette de matières ou d'objets affectés au n° ONU 3291 ne peut être connue, les quantités transportées sont exprimées en litres, sur la base de la contenance en eau nominale de chaque emballage remis au transport. Ces informations figurent dans le document de transport prévu au 5.4.1.1.1.
+
+2.5.4. Les emballages extérieurs ainsi que les grands emballages contenant des matières et objets affectés au n° ONU 3549 font l'objet d'une procédure de désinfection de leurs surfaces extérieures et ce avant tout chargement dans un véhicule immatriculé en France.
 
 2.6. Dispositions spéciales relatives aux matières radioactives.
 
@@ -704,9 +722,15 @@ Toutes les règles définies par le présent arrêté et applicables aux certifi
 
 En application du 8.3.3. de l'ADR, l'ouverture des colis en cours de transport est interdite à l'exception des cas suivants :
 
-3.7.1. Livraison de produits de traitement de l'eau en GRV.
+3.7.1. Livraison de certaines matières dangereuses liquides en GRV (à l'exception des carburants visés au 3.7.2).
 
 Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement des produits de traitement de l'eau par vidange de GRV peut être autorisé. La liste des matières autorisées ainsi que les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
+
+3.7.1.1. Lorsque la livraison de ces produits par véhicule-citerne n'est pas possible ou lorsque leur déchargement dans les réservoirs destinés à les accueillir ne peut s'effectuer autrement sans risque excessif pour la sécurité des personnes ou pour l'environnement, le déchargement par vidange de GRV des matières destinées au traitement de l'eau dont la liste figure au 2.2.1.2 peut être autorisé sur la voie publique.
+
+3.7.1.2. Sur les sites des destinataires, lorsque les quantités livrées ne justifient pas l'utilisation de citernes, le déchargement de certaines matières dangereuses liquides par vidange de GRV peut être autorisé sous réserve que ces dernières relèvent des groupes d'emballage II ou III et des classes 3,5.1,6.1,8 ou 9.
+
+3.7.1.3. Les prescriptions complémentaires applicables à ces livraisons figurent à l'appendice IV. 9 du présent arrêté.
 
 3.7.2. Livraison de carburants destinés aux moteurs à combustion.
 
@@ -797,6 +821,90 @@ Les conteneurs-bags sont dispensés du marquage et de l'étiquetage visés au ch
 Le véhicule de transport respecte les prescriptions de placardage des 5.3.1.1 et 5.3.1.4 et de signalisation du 5.3.2 applicables au transport en vrac.
 
 Les autres prescriptions de l'ADR applicables au transport d'amiante non lié sont respectées.
+
+3.10. Livraisons assurées par les entreprises mentionnées au 5° de l'article R. 5124-2 du code de la santé publique.
+
+3.10.1. Dans le cadre de leurs activités de préparation de commandes et de livraison, les entreprises mentionnées au 5° de l'article R. 5124-2 du code de la santé publique, qui réalisent les distributions de médicaments, sont autorisées à transporter ou à faire transporter par voie routière certaines marchandises dangereuses conformément à la présente section en dérogation aux dispositions du présent arrêté.
+
+3.10.2. Les marchandises sont conditionnées dans des emballages intérieurs ne dépassant pas les quantités définies dans le tableau suivant :
+
+3.10.2.1.
+
+Classe |
+
+Code de classification ou groupe d'emballage |
+
+Quantité maximale par emballage intérieur |
+
+2 |
+
+Générateurs d'aérosols (n° ONU 1950) affectés aux codes de classification : 5A, 5C, 5CO, 5F, 5FC ou 5O |
+
+1 litre |
+
+Générateurs d'aérosols (n° ONU 1950) affectés aux codes de classification : 5T, 5TC, 5TF, 5TFC, 5TO ou 5TOC |
+
+120 ml |
+
+3 |
+
+Ether diéthylique (n° ONU 1155) |
+
+1 litre |
+
+Liquides inflammables relevant des groupes d'emballage II ou III |
+
+5 litres |
+
+4.1 |
+
+Matières relevant des groupes d'emballage II et III |
+
+1 kg |
+
+5.1 |
+
+Matières relevant des groupes d'emballage II et III |
+
+Matières liquides : 1 litre |
+
+Matières solides : 1 kg |
+
+6.1 |
+
+Matières relevant des groupes d'emballage II et III |
+
+Matières liquides : 100 ml |
+
+Matières solides : 500 g |
+
+8 |
+
+Matières relevant des groupes d'emballage II ou III |
+
+Matières liquides : 5 litres |
+
+Matières solides : 5 kg |
+
+9 |
+
+|
+
+Matières liquides : 5 litres |
+
+Matières solides : 5 kg |
+
+3.10.2.2. Ces emballages intérieurs sont assujettis dans des emballages extérieurs de type caisse carton ou caisse plastique rigide fermés. Elles sont suffisamment robustes et doivent répondre aux prescriptions des 4.1.1.1,4.1.1.2,4.1.1.5 et 4.1.1.6. Les emballages intérieurs fragiles ou faciles à perforer doivent être assujettis dans les emballages extérieurs avec l'interposition de matériaux de rembourrage appropriés.
+
+3.10.2.3. Les quantités totales ainsi transportées ne dépassent pas 240 litres ou 240 kilogrammes par unité de transport.
+
+3.10.3. Toute opération de transport est accompagnée d'un document dans lequel doit figurer la mention suivante : “ Transport effectué selon le 3.10 de l'annexe I de l'arrêté TMD ”.
+
+3.10.4. Dans le cadre de ces opérations de transport les conducteurs ont suivi une formation conforme aux dispositions du chapitre 1.3.
+
+3.10.5. En dehors de ces dispositions aucune autre disposition de l'ADR et de l'arrêté TMD n'est applicable à ces opérations de transport.
+
+3.10.6. Ces dispositions ne sont pas applicables aux matières et objets des classes 1,5.2 et 7 ainsi qu'aux matières auto réactives de la classe 4.1.
 
 4. Dispositions particulières relatives à la formation de l'équipage du véhicule.
 
@@ -930,7 +1038,7 @@ Spécialisation produits pétroliers
 
 5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses
 
-5.1. Les contrôles mentionnés au 1.8.1 sont effectués conformément à l'article 3 du règlement (CEE) n° 4060/89 et à l'article 1er du règlement (CEE) n° 3912/92, ainsi qu'aux dispositions des 5.1 à 5.6 de la présente annexe I.
+5.1. Les contrôles mentionnés au 1.8.1 sont effectués conformément à l'article 3 du règlement (CE) n° 1100/2008 et à l'article 1er du règlement (CEE) n° 3912/92, ainsi qu'aux dispositions des 5.1 à 5.6 de la présente annexe I.
 
 5.2. Une proportion représentative des transports routiers de marchandises dangereuses est soumise à contrôle, afin de vérifier leur conformité avec la législation sur le transport de marchandises dangereuses par route. Cette proportion pourra être fixée en fonction de la part de transport de marchandises dangereuses constatée régionalement dans le trafic routier.
 
@@ -1049,3 +1157,9 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
+
+NOTA :
+
+Conformément à l'article 17 de l'arrêté du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+
+Toutefois, les dispositions de l'arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres applicables avant cette date, peuvent continuer d'être appliquées jusqu'au 30 juin 2021.
