@@ -1,0 +1,71 @@
+# Article 1er
+
+Le champ d'application du présent accord est multibranches. Il est applicable à toutes les entreprises, y compris les entreprises de moins de 50 salariés, visées ci-après, relevant du champ d'application des conventions collectives nationales suivantes :
+
+• Au titre des industries alimentaires :
+
+Sucrerie, sucreries-distilleries et raffineries de sucre (IDCC 2728).
+
+Métiers de la transformation des grains (IDCC : 1930).
+
+Industrie des produits exotiques (IDCC 506).
+
+Boulangerie-pâtisserie industrielle (IDCC 1747).
+
+Industries de la transformation des volailles (IDCC 1938).
+
+Industries laitières (IDCC 112).
+
+Industries charcutières (IDCC 1586).
+
+Industries de produits alimentaires élaborés (IDCC 1396).
+
+Exploitations frigorifiques (IDCC 200).
+
+Entreprises de l'industrie et des commerces de gros des viandes (IDCC 1534).
+
+Centres immatriculés de conditionnement, de commercialisation et de transformation des œufs et des industries en produits d'œufs (IDCC 2075).
+
+Activités de production des eaux embouteillées, boissons rafraîchissantes sans alcool et de bières (IDCC 1513).
+
+Industrie des pâtes alimentaires sèches et du couscous non préparé (IDCC 1987).
+
+5 branches des industries alimentaires diverses (IDCC 3109).
+
+• Au titre du commerce agricole :
+
+Entreprises du négoce et de l'industrie des produits du sol, engrais et produits connexes (IDCC 1077).
+
+Expédition et exportation de fruits et légumes (IDCC 1405).
+
+• Au titre de la coopération agricole et familles associées :
+
+Les coopératives agricoles, les SICA et les filiales de droit commun des organismes précités dès lors qu'elles relèvent de l'article L. 722-20-6°, 6° bis, 6° ter, 6° quater, du code rural, les organismes conseil élevage et les associations de gestion comptable fédérées par le réseau CER France, à l'exception des coopératives d'utilisation de matériel agricole (CUMA) et leurs unions.
+
+Soit en particulier, les entreprises relevant du champ d'application des conventions collectives nationales suivantes :
+
+Teillage du lin, coopératives agricoles et SICA (IDCC 7007).
+
+Caves coopératives vinicoles (IDCC 7005).
+
+Conserveries coopératives et SICA (IDCC 7003).
+
+Coopératives agricoles et laitières (IDCC 7004).
+
+Contrôle laitier (IDCC 7008).
+
+Coopératives et sociétés d'intérêt collectif agricole bétail et viande (IDCC 7001).
+
+Fleurs, fruits et légumes, pommes de terre : coopératives agricoles, unions de coopératives agricoles et SICA de fleurs, de fruits et légumes et de pommes de terre (IDCC 7006).
+
+Coopératives agricoles et de céréales, de meunerie, d'approvisionnement, d'alimentation du bétail et d'oléagineux (IDCC 7002).
+
+Centres de gestion agréés et habilités agricoles (IDCC 7020).
+
+Sélection et reproduction animale (IDCC 7021).
+
+Distilleries viticoles (coopératives et unions) et distillation (SICA) (IDCC 7503).
+
+Entreprises agricoles de déshydratation (IDCC 7023).
+
+Coopératives fruitières fromagères des départements de l'Ain, du Doubs et du Jura (IDCC 8435).
