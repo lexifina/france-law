@@ -8,13 +8,11 @@ Capacité nominale de traitement de la station en kg/j de DBO5 |
 
 ≤ 12 |
 
-> 12 et ≤ 30
+> 12 et < 30
 
 |
 
-> 30 et ≤ 60
-
-|
+≥ 30 et ≤ 60 |
 
 > 60 et < 120
 

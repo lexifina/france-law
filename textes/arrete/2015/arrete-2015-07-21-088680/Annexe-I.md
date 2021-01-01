@@ -4,6 +4,104 @@ AUTOSURVEILLANCE DES STATIONS DE TRAITEMENT DES EAUX USÉES
 
 Tableau 1. Informations d'autosurveillance à recueillir sur les déversoirs en tête de station et by-pass vers le milieu récepteur en cours de traitement
 
+Tableau 1 : Informations d'autosurveillance à recueillir sur les déversoirs en tête de station et by-pass vers le milieu récepteur en cours de traitement |
+
+|
+
+Capacité nominale de la station (kg/ j de DBO5) |
+
+|
+
+< 30
+
+|
+
+≥ 30 et
+
+< 120 |
+
+≥ 120 et
+
+< 600 |
+
+≥ 600 et
+
+< 6000 |
+
+≥ 6000 |
+
+Vérification de l'existence de déversements |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+Estimation journalière des débits rejetés |
+
+|
+
+X |
+
+|
+
+|
+
+|
+
+Mesure journalière et enregistrement en continu des débits |
+
+|
+
+|
+
+X |
+
+X |
+
+X |
+
+Estimation journalière des charges polluantes rejetées |
+
+|
+
+|
+
+X (1) (2a) |
+
+X (1) (2a) |
+
+|
+
+Mesure journalière des caractéristiques des eaux usées |
+
+|
+
+|
+
+|
+
+|
+
+X (2b) (3) |
+
+(1) Les déversoirs en tête de station et les by-pass doivent être aménagés pour permettre le prélèvement d'échantillons représentatifs sur 24 heures.
+
+(2a) L'estimation des charges polluantes est effectuée sur la base des paramètres listés au tableau 4 de l'annexe 2.
+
+(2b) La mesure des caractéristiques des eaux usées est effectuée sur la base des paramètres listés au tableau 4 de l'annexe 2.
+
+(3) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5oC +/-3) et asservis au débit.
+
+Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station. |
+
+Tableau 2.1. Informations d'autosurveillance à recueillir en entrée et/ou sortie de la station de traitement des eaux usées sur la file eau
+
 |
 
 CAPACITÉ NOMINALE DE LA STATION (KG/J DE DBO5) |
@@ -20,105 +118,7 @@ CAPACITÉ NOMINALE DE LA STATION (KG/J DE DBO5) |
 
 < 600 |
 
-≥ 600 et
-
-< 6 000 |
-
-≥ 6 000 |
-
-Vérification de l'existence de déversements |
-
-X |
-
-|
-
-|
-
-|
-
-|
-
-Estimation des débits rejetés |
-
-|
-
-X |
-
-|
-
-|
-
-|
-
-Mesure et enregistrement en continu des débits |
-
-|
-
-|
-
-X |
-
-X |
-
-X |
-
-Estimation des charges polluantes rejetées |
-
-|
-
-|
-
-X (1) (2) |
-
-X (1) (2) |
-
-|
-
-Mesure des caractéristiques des eaux usées |
-
-|
-
-|
-
-|
-
-|
-
-X (2) (3) |
-
-(1) Les déversoirs en tête de station et les by-pass doivent être aménagés pour permettre le prélèvement d'échantillons représentatifs sur 24 heures.
-
-(2) La mesure des caractéristiques des eaux usées et l'estimation des charges polluantes sont effectuées sur la base des paramètres listés à l'annexe 2.
-
-(3) Les mesures sont effectuées sur des échantillons représentatifs constitués sur 24 heures, avec des préleveurs automatiques réfrigérés ou isothermes (maintenus à 5° C +/-3) et asservis au débit.
-
-Le maître d'ouvrage doit conserver au froid pendant 24 heures un double des échantillons prélevés sur la station. |
-
-Tableau 2.1. Informations d'autosurveillance à recueillir en entrée et/ou sortie de la station de traitement des eaux usées sur la file eau
-
-|
-
-CAPACITÉ NOMINALE DE LA STATION (KG/J DE DBO5) |
-
-< 30
-
-|
-
-≥ 30 et
-
-< 120
-
-|
-
-≥ 120 et
-
-< 600
-
-|
-
-≥ 600
-
-|
+≥ 600 |
 
 Estimation du débit en entrée ou en sortie |
 
@@ -305,3 +305,7 @@ X |
 Destination des eaux usées traitées réutilisées |
 
 X |
+
+NOTA :
+
+Conformément à l'article 19 de l'arrêté du 31 juillet 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
