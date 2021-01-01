@@ -264,15 +264,15 @@ Lirac |
 
 Saumur |
 
-6 |
+12 |
 
-18 |
+24 |
 
 Saumur Champigny |
 
-6 |
+12 |
 
-18 |
+24 |
 
 Côtes du Rhône Villages suivi du nom d'une entité géographique plus petite |
 
@@ -304,7 +304,13 @@ Fitou |
 
 22,5 |
 
-II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué
+Saint-Pourçain |
+
+11 |
+
+27 ,5 |
+
+II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
 
@@ -312,13 +318,13 @@ VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 maximum de l'appellation pouvant être fixé
 
-pour une récolte donnée (hl/ha) |
+pour une récolte donnée (HL/HA) |
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
 total maximum de vins pouvant être stockés
 
-par un producteur donné (hl/ha) |
+par un producteur donné (HL/HA) |
 
 Muscadet |
 
@@ -388,87 +394,81 @@ Vouvray |
 
 Bourgogne |
 
-7 |
+14 |
 
 34 |
 
 Bourgogne Aligoté |
 
-7 |
+14 |
 
 36 |
 
 Coteaux Bourguignons |
 
-7 |
+14 |
 
 36 |
 
 Bourgogne Chitry |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne Côte Chalonnaise |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne Côte d'Auxerre |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne Côte Saint-Jacques |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne Coulanges la Vineuse |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne La Chapelle Notre Dame |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne Montrecul |
 
-7 |
+13 |
 
 33 |
 
 Bourgogne Le Chapitre |
 
-7 |
+13 |
 
 33 |
 
+Bourgogne Côtes d'Or |
+
+13 |
+
+19 |
+
 Bourgogne Tonnerre |
 
-7 |
+13 |
 
 31 |
-
-Bourgogne Hautes Côtes de Beaune |
-
-6 |
-
-30 |
-
-Bourgogne Hautes Côtes de Nuits |
-
-6 |
-
-30 |
 
 Petit-Chablis |
 
@@ -502,19 +502,19 @@ Beaune premier cru |
 
 Mâcon |
 
-5 |
+14 |
 
 21 |
 
 Mâcon Villages |
 
-7 |
+14 |
 
 20 |
 
 Mâcon suivi d'une dénomination géographique complémentaire |
 
-7 |
+13 |
 
 19 |
 
@@ -610,13 +610,13 @@ Saint-Romain |
 
 Saint-Véran |
 
-6 |
+13 |
 
 19 |
 
 Saint-Véran suivi du nom d'une unité géographique plus petite |
 
-6 |
+12,5 |
 
 18 |
 
@@ -752,17 +752,11 @@ Graves |
 
 29 |
 
-Vacqueyras
+Vacqueyras |
 
-|
+7 |
 
-7
-
-|
-
-18
-
-|
+18 |
 
 Alsace |
 
@@ -835,3 +829,85 @@ Mercurey complété par la mention "premier cru" |
 7 |
 
 16 |
+
+Sancerre |
+
+6,5 |
+
+25 |
+
+Saint-Pourçain |
+
+11 |
+
+27,5 |
+
+Pouilly-Fuissé 1er cru |
+
+6 |
+
+16 |
+
+Bourgogne Hautes Côtes de Beaune (vignes basses) |
+
+13 |
+
+30 |
+
+Bourgogne Hautes Côtes de Beaune (vignes hautes et larges) |
+
+12 |
+
+30 |
+
+Bourgogne Hautes Côtes de Nuits (vignes basses) |
+
+13 |
+
+30 |
+
+Bourgogne Hautes Côtes de Nuits (vignes hautes et larges) |
+
+12 |
+
+30 |
+
+III. - Liste des vins rosés tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
+
+Appellation d'origine protégé |
+
+Volume complémentaire individuel
+
+maximum de l'appellation pouvant être fixé
+
+pour une récolte donnée (HL/HA) |
+
+Volume complémentaire individuel
+
+total maximum de vins pouvant être stockés
+
+pour un producteur donné (HL/HA) |
+
+Rosé d'Anjou |
+
+8 |
+
+15 |
+
+Ventoux |
+
+11 |
+
+27 |
+
+Cabernet d'Anjou |
+
+12 |
+
+12 |
+
+Côtes de Provence |
+
+8 |
+
+15 |
