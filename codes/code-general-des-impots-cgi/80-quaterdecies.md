@@ -1,6 +1,6 @@
 # Article 80 quaterdecies
 
-I. – L'avantage salarial correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-6 du code de commerce est imposé entre les mains de l'attributaire dans la catégorie des traitements et salaires selon les modalités prévues au 3 de l'article 200 A, dans une limite annuelle de 300 000 €. La fraction de l'avantage qui excède cette limite est imposée entre les mains de l'attributaire suivant les règles de droit commun des traitements et salaires.
+I. – L'avantage salarial correspondant à la valeur, à leur date d'acquisition, des actions attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-5, L. 22-10-59 et L. 22-10-60 du code de commerce est imposé entre les mains de l'attributaire dans la catégorie des traitements et salaires selon les modalités prévues au 3 de l'article 200 A, dans une limite annuelle de 300 000 €. La fraction de l'avantage qui excède cette limite est imposée entre les mains de l'attributaire suivant les règles de droit commun des traitements et salaires.
 
 II. – L'impôt est dû au titre de l'année au cours de laquelle le bénéficiaire a disposé de ses actions, les a cédées, converties au porteur ou mises en location.
 
@@ -15,3 +15,7 @@ Les obligations déclaratives incombent alors à la filiale ou à la société m
 V. – Le gain net, égal à la différence entre le prix de cession et la valeur des actions à leur date d'acquisition, est imposé dans les conditions prévues à l'article 150-0 A.
 
 Si les actions sont cédées pour un prix inférieur à leur valeur à la date d'acquisition, la moins-value est déduite du montant de l'avantage mentionné au I, dans la limite de ce montant.
+
+NOTA :
+
+Conformément à l'article 19 de l'ordonnance n° 2020-1142 du 16 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
