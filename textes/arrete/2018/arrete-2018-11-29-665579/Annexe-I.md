@@ -404,9 +404,7 @@ Chef du bureau des personnels administratifs, techniques et scientifiques au sei
 
 50 |
 
--
-
-|
+- |
 
 1 |
 
@@ -776,7 +774,7 @@ Adjoint au chef du département de contrôle automatisé. |
 
 1 |
 
-Institut national de police scientifique |
+Service national de police scientifique |
 
 Secrétaire général. |
 

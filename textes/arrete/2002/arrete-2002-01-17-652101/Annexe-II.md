@@ -464,7 +464,7 @@ B |
 
 |
 
-Emploi comportant des responsabilités ou une technique particulières au sein du service central de la police technique et scientifique : |
+Emploi comportant des responsabilités ou une technique particulières au sein du service national de police scientifique : |
 
 |
 

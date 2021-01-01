@@ -928,7 +928,7 @@ Chargé de la gestion des laboratoires à Ecully (DCPJ) |
 
 20 |
 
-Chef de la division des ressources et des moyens du service central de la police technique et scientifique |
+Chef de la division des ressources et des moyens du service national de police scientifique |
 
 1 |
 
@@ -946,7 +946,7 @@ Chef de la division des ressources et des moyens du service central de la police
 
 30 |
 
-Chef adjoint de la division pilotage et gouvernance du service central de la police technique et scientifique |
+Chef adjoint de la division pilotage et gouvernance du service national de police scientifique |
 
 1 |
 
@@ -964,7 +964,7 @@ Chef adjoint de la division pilotage et gouvernance du service central de la pol
 
 30 |
 
-Chef adjoint du pôle central d'analyses des traces technologiques du service central de la police technique et scientifique |
+Chef adjoint du pôle central d'analyses des traces technologiques du service national de police scientifique |
 
 1 |
 
@@ -982,7 +982,7 @@ Chef adjoint du pôle central d'analyses des traces technologiques du service ce
 
 30 |
 
-Chef adjoint de la division des ressources et des moyens du service central de la police technique et scientifique |
+Chef adjoint de la division des ressources et des moyens du service national de police scientifique |
 
 1 |
 
@@ -1000,7 +1000,7 @@ Chef adjoint de la division des ressources et des moyens du service central de l
 
 30 |
 
-Chef du département ressources humaines de la division des ressources et des moyens du service central de la police technique et scientifique |
+Chef du département ressources humaines de la division des ressources et des moyens du service national de police scientifique |
 
 1 |
 
@@ -1018,7 +1018,9 @@ Chef du département ressources humaines de la division des ressources et des mo
 
 20 |
 
-Chef du département recherche et développement de la division pilotage et gouvernance du service central de la police technique et scientifique |
+Chef du département recherche et développement de la division pilotage et gouvernance du service national de police scientifique
+
+|
 
 1 |
 
@@ -1036,7 +1038,7 @@ Chef du département recherche et développement de la division pilotage et gouv
 
 10 |
 
-Chef du département des affaires internationales de la division pilotage et gouvernance du service central de la police technique et scientifique |
+Chef du département des affaires internationales de la division pilotage et gouvernance du service national de police scientifique |
 
 1 |
 
@@ -1054,7 +1056,7 @@ Chef du département des affaires internationales de la division pilotage et gou
 
 10 |
 
-Chef du département de la stratégie de la police technique et scientifique de la division pilotage et gouvernance du service central de la police technique et scientifique |
+Chef du département de la stratégie de la police technique et scientifique de la division pilotage et gouvernance du service national de police scientifique |
 
 1 |
 
@@ -1072,7 +1074,7 @@ Chef du département de la stratégie de la police technique et scientifique de 
 
 20 |
 
-Chef du département audio-vidéo du pôle central d'analyses des traces technologiques du service central de la police technique et scientifique |
+Chef du département audio-vidéo du pôle central d'analyses des traces technologiques du service national de police scientifique |
 
 1 |
 
@@ -1090,7 +1092,7 @@ Chef du département audio-vidéo du pôle central d'analyses des traces technol
 
 20 |
 
-Chef de délégation zonale du service central de la police technique et scientifique |
+Chef de délégation zonale du service national de police scientifique |
 
 7 |
 
