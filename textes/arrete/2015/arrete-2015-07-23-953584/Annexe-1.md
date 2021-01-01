@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AUX 1 À 4 DU I DE L'ARTICLE 46 AX DE L'ANNEXE III DU CODE GÉNÉRAL DES IMPÔTS
+CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AUX 1 À 4 DU I DE L'ARTICLE IER DU DÉCRET DU 16 JUILLET 2014 SUSVISÉ
 
 Une session de formation est organisée pour quinze stagiaires maximum et se déroule sur 21 heures.
 
@@ -22,31 +22,19 @@ Durée minimale de la formation : 3 jours (18 heures utiles, hors pauses).
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : comprendre le fonctionnement énergétique d'un bâtiment dans le contexte d'une Rénovation |
 
-Objectif 1 : comprendre le fonctionnement énergétique d'un bâtiment dans le contexte d'une Rénovation
-
-|
-
-1.1 : connaître le contexte et les enjeux
-
-|
+1.1 : connaître le contexte et les enjeux |
 
 Les enjeux énergie environnement de la filière bâtiment (3 × 20, plan de rénovation 500 000, facteur 4, etc.)
 
@@ -58,17 +46,11 @@ L'état du marché (les perspectives de travaux, etc.)
 
 Les incitations financières
 
-Les enjeux de l'écoconditionnalité
+Les enjeux de l'écoconditionnalité |
 
-|
+6 h 45 |
 
-6 h 45
-
-|
-
-1.2 : comprendre le fonctionnement thermique d'un bâtiment
-
-|
+1.2 : comprendre le fonctionnement thermique d'un bâtiment |
 
 1.2.1 : Les principes généraux (hors cas particulier de La Réunion)
 
@@ -100,23 +82,15 @@ La vitesse d'air : nécessité d'un brasseur d'air pour atteindre un confort sat
 
 1.2.5 : Maîtriser les infiltrations d'air dans les locaux climatisés pour limiter la consommation du climatiseur : étanchéité des parois opaques (en particulier au niveau des jonctions), et choisir des menuiseries de qualité
 
-1.2.6 : La problématique de l'humidité et de la migration de vapeur d'eau dans les parois, compte tenu de la forte humidité climatique
+1.2.6 : La problématique de l'humidité et de la migration de vapeur d'eau dans les parois, compte tenu de la forte humidité climatique |
 
-|
-
-1.3 : connaître le contexte réglementaire
-
-|
+1.3 : connaître le contexte réglementaire |
 
 La réglementation thermique pour le neuf : RTAA DOM et les réglementations thermiques locales
 
-Le cadre du DPE tel que défini par la réglementation locale en vigueur, le cas échéant
+Le cadre du DPE tel que défini par la réglementation locale en vigueur, le cas échéant |
 
-|
-
-1.4 : savoir repérer les principaux risques (défauts de mise en œuvre, choix des produits/procédés, dimensionnement) en fonction des différents types de bâti, savoir les prévenir
-
-|
+1.4 : savoir repérer les principaux risques (défauts de mise en œuvre, choix des produits/procédés, dimensionnement) en fonction des différents types de bâti, savoir les prévenir |
 
 Prendre en compte les risques cycloniques et sismiques dans la conception et la rénovation
 
@@ -124,13 +98,9 @@ Les principaux risques associés aux travaux d'amélioration de la performance �
 
 L'importance du choix des matériaux en regard des risques liés à la faune locale, choix des revêtements liés à la prolifération de champignons cryptogamiques
 
-Connaître leurs origines et savoir les prévenir : enjeux et importance de l'auto-contrôle
+Connaître leurs origines et savoir les prévenir : enjeux et importance de l'auto-contrôle |
 
-|
-
-Objectif 2 : connaître les principales technologies clés, les différentes solutions d'amélioration de la performance énergétique d'un bâtiment, leurs interfaces.
-
-|
+Objectif 2 : connaître les principales technologies clés, les différentes solutions d'amélioration de la performance énergétique d'un bâtiment, leurs interfaces. |
 
 2.1 : pour chaque technologie :
 
@@ -138,9 +108,7 @@ Connaître les principales technologies concernées et identifier les ordres de 
 
 Rappeler les points singuliers incontournables au regard de la performance énergétique au sein d'un même corps d'état
 
-Identifier les interfaces possibles entre les travaux menés par les corps d'état sur cette technologie et les risques de dégradation associés
-
-|
+Identifier les interfaces possibles entre les travaux menés par les corps d'état sur cette technologie et les risques de dégradation associés |
 
 Technologies abordées : (hors cas particulier de La Réunion)
 
@@ -158,17 +126,11 @@ Comment bien différencier les impacts des protections solaires et de l'isolatio
 
 Les risques d'humidité liés à l'isolation
 
-Systèmes de climatisation individuelle et d'ECS (dont EnR), éclairage, régulation
+Systèmes de climatisation individuelle et d'ECS (dont EnR), éclairage, régulation |
 
-|
+7 h 00 |
 
-7 h 00
-
-|
-
-2.2 : savoir diagnostiquer l'efficacité énergétique d'un local d'habitation et repérer ses axes d'amélioration en termes de confort hygrométrique et de consommation.
-
-|
+2.2 : savoir diagnostiquer l'efficacité énergétique d'un local d'habitation et repérer ses axes d'amélioration en termes de confort hygrométrique et de consommation. |
 
 En articulation avec la partie 2.1 et sur la base d'un cas concret en situation réelle ou théorique, savoir :
 
@@ -184,17 +146,11 @@ Le repérage portera plus particulièrement sur :
 
 - la toiture et les combles
 
-- le cloisonnage intérieur
+- le cloisonnage intérieur |
 
-|
+Objectif 3 : dans le cadre d'une approche globale, savoir appréhender et expliquer un projet de rénovation énergétique. |
 
-Objectif 3 : dans le cadre d'une approche globale, savoir appréhender et expliquer un projet de rénovation énergétique.
-
-|
-
-3.1 : savoir concevoir un bouquet de travaux efficaces au niveau énergétique
-
-|
+3.1 : savoir concevoir un bouquet de travaux efficaces au niveau énergétique |
 
 Sur la base d'un cas concret en situation réelle ou théorique :
 
@@ -206,17 +162,11 @@ Sur la base d'un cas concret en situation réelle ou théorique :
 
 - développer plus particulièrement le bouquet : rénovation toiture/CESI
 
-- comparer différentes combinaisons de solutions, évaluer leurs impacts et leur efficacité respective
+- comparer différentes combinaisons de solutions, évaluer leurs impacts et leur efficacité respective |
 
-|
+3 h 45 |
 
-3 h 45
-
-|
-
-3.2 : être capable d'expliquer et de convaincre son interlocuteur de la pertinence du bouquet de travaux retenu, l'accompagner pour pérenniser la performance et assurer le bon usage.
-
-|
+3.2 : être capable d'expliquer et de convaincre son interlocuteur de la pertinence du bouquet de travaux retenu, l'accompagner pour pérenniser la performance et assurer le bon usage. |
 
 Les points abordés seront :
 
@@ -224,10 +174,12 @@ Les points abordés seront :
 
 - apports sur les points clés en terme de maintenance préventive liée aux travaux et/ou aux équipements : contrats de maintenance, conseils d'utilisation des équipements, recommandations d'usage et d'entretien, conseils pratiques.
 
-- donner des exemples de réhabilitation avec photos à l'appui
-
-|
+- donner des exemples de réhabilitation avec photos à l'appui |
 
 C. - Plateforme technique
 
 Aucune plateforme technique n'est requise.
+
+NOTA :
+
+Conformément au III de l’article 6 de l’arrêté du 3 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

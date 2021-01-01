@@ -396,7 +396,7 @@ III. - Les modalités de réalisation du bouquet de travaux mentionné au o du 1
 
 1. Le bouquet de travaux combine au moins deux des quatre catégories de travaux ci-après : chauffage, production d'eau chaude sanitaire, ventilation et isolation de l'enveloppe de la maison.
 
-2. La conception, la réalisation et le suivi du projet de rénovation globale sont réalisés par une ou plusieurs entreprises certifiées "offre globale" conformément au deuxième tiret de l'article 1er et à l'annexe II de l'arrêté du 1er décembre 2015 relatif aux critères de qualifications requis pour le bénéfice du crédit d'impôt pour la transition énergétique et des avances remboursables sans intérêt destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens.
+2. La conception, la réalisation et le suivi du projet de rénovation globale sont réalisés par une ou plusieurs entreprises certifiées "offre globale" conformément au troisième alinéa du I de l'article 1er et à l'annexe II de l'arrêté du 1er décembre 2015 relatif aux critères de qualifications requis pour le bénéfice du crédit d'impôt pour la transition énergétique et des avances remboursables sans intérêt destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens.
 
 3. Les émissions annuelles de gaz à effet de serre après rénovation, rapportées à la surface habitable de la maison, doivent être inférieures ou égales à la valeur initiale de ces émissions avant travaux.
 
@@ -407,3 +407,7 @@ a) Un audit énergétique, tel que défini au II, est réalisé préalablement a
 b) Une liste des travaux préconisés par l'audit énergétique, avec leurs niveaux de performance et la correspondance avec la liste des travaux réalisés, datée et signée par le bénéficiaire et le maître d'œuvre, est établie ;
 
 c) Lorsque les travaux mis en œuvre diffèrent des travaux préconisés, l'audit énergétique est mis à jour sur la base des travaux effectivement réalisés.
+
+NOTA :
+
+Conformément au III de l’article 6 de l’arrêté du 3 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

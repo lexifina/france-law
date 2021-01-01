@@ -1,6 +1,6 @@
 # Article Annexe 4
 
-CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 7 DU I DE L'ARTICLE 46 AX DE L'ANNEXE 3 DU CODE GÉNÉRAL DES IMPÔTS
+CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 7 DU I DE L'ARTICLE IER DU DÉCRET DU 16 JUILLET 2014 SUSVISÉ
 
 Une session de formation est organisée pour douze stagiaires maximum.
 
@@ -24,31 +24,19 @@ Le tableau ci-dessous décrit pour chaque objectif de formation les prescription
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : conseiller son client sur les plans techniques, financiers et divers. |
 
-Objectif 1 : conseiller son client sur les plans techniques, financiers et divers.
-
-|
-
-1.1. Etre capable de situer à un client le contexte environnemental de la PAC, l'aspect réglementaire, le marché et les labels de qualité.
-
-|
+1.1. Etre capable de situer à un client le contexte environnemental de la PAC, l'aspect réglementaire, le marché et les labels de qualité. |
 
 Contexte de la réglementation thermique 2012 ;
 
@@ -56,71 +44,41 @@ Présentation du marché de la pac (contexte actuel) ;
 
 Contexte environnemental (énergie grise, bilan carbone, etc.) ;
 
-Labels et signes de qualité pour les équipements et pour les installateurs (signes RGE, NF PAC, Eurovent, etc.).
+Labels et signes de qualité pour les équipements et pour les installateurs (signes RGE, NF PAC, Eurovent, etc.). |
 
-|
+6 heures |
 
-6 heures
+1.2. Savoir expliquer à un client le fonctionnement d'une PAC. |
 
-|
+Différents types d'installations de PAC (synthèse rapide des différents systèmes existants sur le marché avec avantages/inconvénients : PAC air/air, air/eau, eau/eau, sol/sol, etc.). |
 
-1.2. Savoir expliquer à un client le fonctionnement d'une PAC.
-
-|
-
-Différents types d'installations de PAC (synthèse rapide des différents systèmes existants sur le marché avec avantages/inconvénients : PAC air/air, air/eau, eau/eau, sol/sol, etc.).
-
-|
-
-1.3. Savoir expliquer à un client les différentes étapes administratives pour la mise en œuvre d'une PAC.
-
-|
+1.3. Savoir expliquer à un client les différentes étapes administratives pour la mise en œuvre d'une PAC. |
 
 Incitations financières ;
 
-Dossier administratif à remettre au client tout au long de l'installation (déclaration de travaux, devis, pv de réception, conditions de raccordement au réseau, etc.).
+Dossier administratif à remettre au client tout au long de l'installation (déclaration de travaux, devis, pv de réception, conditions de raccordement au réseau, etc.). |
 
-|
-
-1.4. Maîtriser les principes de fonctionnement d'une PAC.
-
-|
+1.4. Maîtriser les principes de fonctionnement d'une PAC. |
 
 Principes de fonctionnement d'une pompe à chaleur avec l'ensemble des différents composants (principe, réversibilité, COP, SPF, composants technologiques : évaporateurs, compresseurs, condenseurs, détendeurs, accessoires, etc.) ;
 
-Puissance électrique nécessaire, risques de surconsommation électrique en cas d'insuffisance de la pac.
+Puissance électrique nécessaire, risques de surconsommation électrique en cas d'insuffisance de la pac. |
 
-|
+1.5. Mettre en pratique les apports des objectifs 1.1 à 1.4. |
 
-1.5. Mettre en pratique les apports des objectifs 1.1 à 1.4.
+Rappel des points clés de l'objectif 1, en situation concrète de travail. |
 
-|
+Objectif 2 : concevoir et dimensionner l'installation. |
 
-Rappel des points clés de l'objectif 1, en situation concrète de travail.
-
-|
-
-Objectif 2 : concevoir et dimensionner l'installation.
-
-|
-
-2.1. Savoir calculer les déperditions d'un bâtiment pour les besoins d'eau chaude sanitaire et de chauffage.
-
-|
+2.1. Savoir calculer les déperditions d'un bâtiment pour les besoins d'eau chaude sanitaire et de chauffage. |
 
 Besoins en chauffage : approche des déperditions du bâtiment (méthodes simples : analyse sommaire de l'enveloppe du bâtiment, apports gratuits, etc.) ;
 
-Besoins en eau chaude sanitaire : sensibilisation aux contraintes liées au fonctionnement en double service.
+Besoins en eau chaude sanitaire : sensibilisation aux contraintes liées au fonctionnement en double service. |
 
-|
+7 h 45 |
 
-7 h 45
-
-|
-
-2.2. Savoir analyser l'installation existante.
-
-|
+2.2. Savoir analyser l'installation existante. |
 
 Identifier les différents paramètres à prendre en compte pour pouvoir configurer au mieux la PAC ;
 
@@ -130,77 +88,49 @@ Approche par enveloppe, bâti ;
 
 Approche par chauffage existant : générateur, régulation (loi d'eau), émetteurs ;
 
-Choix substitution ou relève par diagnostic de l'existant : espace disponible ou local pour PAC (acoustique), nature du courant électrique, terrain disponible pour sonde géothermique verticale, etc.
+Choix substitution ou relève par diagnostic de l'existant : espace disponible ou local pour PAC (acoustique), nature du courant électrique, terrain disponible pour sonde géothermique verticale, etc. |
 
-|
-
-2.3. Savoir choisir une configuration de PAC en fonction de l'usage et du bâti.
-
-|
+2.3. Savoir choisir une configuration de PAC en fonction de l'usage et du bâti. |
 
 Concevoir le réseau approprié :
 
 a) Différentes configurations hydrauliques de PAC (présenter les 5 à 10 schémas les plus courants sur le marché avec avantages/inconvénients, etc.) ;
 
-b) Choix du schéma le plus adapté par rapport à une configuration donnée.
+b) Choix du schéma le plus adapté par rapport à une configuration donnée. |
 
-|
+2.4. Savoir dimensionner une PAC. |
 
-2.4. Savoir dimensionner une PAC.
+Dimensionner les différents éléments du circuit (PAC, émetteurs, circuits hydrauliques, pertes de charges, circulateur, débit, hauteur manométrique, volume ballon tampon ou bouteille de découplage, appoint, etc.). |
 
-|
+Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur. |
 
-Dimensionner les différents éléments du circuit (PAC, émetteurs, circuits hydrauliques, pertes de charges, circulateur, débit, hauteur manométrique, volume ballon tampon ou bouteille de découplage, appoint, etc.).
-
-|
-
-Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur.
-
-|
-
-3.1.1. Connaître les points clés communs à tous les types de PAC.
-
-|
+3.1.1. Connaître les points clés communs à tous les types de PAC. |
 
 Dispositions communes à tous les types de PAC (monobloc, bibloc, parties intérieure et extérieure, électricité, etc.) ;
 
 Unité extérieure ou pac monobloc : mise en hors d'eau, châssis support, plots antivibratiles, coffret électrique, etc. ;
 
-Unité intérieure : supportage, raccordements électriques, etc.
+Unité intérieure : supportage, raccordements électriques, etc. |
 
-|
+11 heures |
 
-11 heures
-
-|
-
-3.1.2. Connaître les points clés du système hydraulique et frigorifique.
-
-|
+3.1.2. Connaître les points clés du système hydraulique et frigorifique. |
 
 Circuit hydraulique : disconnecteur, circulateurs, supports, tuyauteries, isolation, passages parois, etc. ;
 
 Circuit frigorifique : principe de mise en œuvre des liaisons frigorifiques, isolation, passage des parois, etc. ;
 
-Courbe de réseau et courbe de pompe.
+Courbe de réseau et courbe de pompe. |
 
-|
-
-3.1.3. Connaître les points clés des systèmes aérauliques.
-
-|
+3.1.3. Connaître les points clés des systèmes aérauliques. |
 
 Systèmes aérauliques :
 
 Pose des conduits aérauliques, raccordements, isolation ;
 
-Implantation des bouches de soufflage pour une bonne diffusion d'air.
+Implantation des bouches de soufflage pour une bonne diffusion d'air. |
 
-|
-
-3.1.4. Connaître les points clés des systèmes géothermiques.
-
-|
+3.1.4. Connaître les points clés des systèmes géothermiques. |
 
 Systèmes géothermiques :
 
@@ -208,9 +138,7 @@ Principe de fonctionnement de capteurs et de sondes géothermiques verticales : 
 
 Prise en compte des obstacles ;
 
-Principes de mise en œuvre (décapage ou forage, remblaiement, essais, etc.).
-
-|
+Principes de mise en œuvre (décapage ou forage, remblaiement, essais, etc.). |
 
 3.2 :
 
@@ -220,9 +148,7 @@ Principes de mise en œuvre (décapage ou forage, remblaiement, essais, etc.).
 
 - comprendre l'influence de la variation d'un débit d'eau sur le COP d'une PAC ;
 
-- savoir prendre en compte des paramètres de bon fonctionnement sur une installation frigorifique (pression, température, surchauffe, refroidissement).
-
-|
+- savoir prendre en compte des paramètres de bon fonctionnement sur une installation frigorifique (pression, température, surchauffe, refroidissement). |
 
 TP 3 : PAC eau/eau :
 
@@ -246,9 +172,7 @@ Calcul des besoins de chauffage ;
 
 Choix et dimensionnement des équipements ;
 
-Réalisation du schéma hydraulique.
-
-|
+Réalisation du schéma hydraulique. |
 
 TP 4 : PAC air/eau ou air/air :
 
@@ -272,35 +196,21 @@ Calcul des besoins de chauffage ;
 
 Choix et dimensionnement des équipements ;
 
-Réalisation du schéma hydraulique.
+Réalisation du schéma hydraulique. |
 
-|
+Objectif 4 : planifier la maintenance de l'exploitation. |
 
-Objectif 4 : planifier la maintenance de l'exploitation.
+4.1. Connaître les différents points clés d'une maintenance préventive. |
 
-|
+Différents points à vérifier lors d'une maintenance préventive. |
 
-4.1. Connaître les différents points clés d'une maintenance préventive.
+1 h 45 |
 
-|
-
-Différents points à vérifier lors d'une maintenance préventive.
-
-|
-
-1 h 45
-
-|
-
-4.2. Savoir diagnostiquer une panne sur installation.
-
-|
+4.2. Savoir diagnostiquer une panne sur installation. |
 
 Différents types de pannes sur une PAC ;
 
-Comment les repérer et y remédier.
-
-|
+Comment les repérer et y remédier. |
 
 1.3. Plate-forme technique
 
@@ -406,31 +316,19 @@ Le tableau ci-dessous décrit pour chaque objectif de formation les prescription
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : conseiller son client sur les plans techniques, financiers et divers. |
 
-Objectif 1 : conseiller son client sur les plans techniques, financiers et divers.
-
-|
-
-1.1. Etre capable de situer à un client le contexte environnemental du CETI, l'aspect réglementaire, le marché et les labels de qualité.
-
-|
+1.1. Etre capable de situer à un client le contexte environnemental du CETI, l'aspect réglementaire, le marché et les labels de qualité. |
 
 - contexte environnemental global énergétique et GES ;
 
@@ -442,59 +340,37 @@ Objectif 1 : conseiller son client sur les plans techniques, financiers et diver
 
 - positionnement environnemental des CETI (énergie grise, bilan carbone, etc.) ;
 
-- labels et signes de qualité.
+- labels et signes de qualité. |
 
-|
+2 h 30 |
 
-2 h 30
-
-|
-
-1.2. Savoir expliquer à un client le fonctionnement d'un CETI.
-
-|
+1.2. Savoir expliquer à un client le fonctionnement d'un CETI. |
 
 - fonctionnement d'un chauffe-eau thermodynamique (principe, différents composants technologiques, COP, particularité liée au CETI (circuit étanche, etc.), etc.) ;
 
 - présentation des différents systèmes existants : monobloc/split system, air ambiant/air extérieur/air extrait (VMC) et géothermie ;
 
-- schémas de couplage avec les énergies d'appoint (appoint intégré électrique, et cas d'appoint avec une chaudière gaz et/ou solaire thermique, etc.).
+- schémas de couplage avec les énergies d'appoint (appoint intégré électrique, et cas d'appoint avec une chaudière gaz et/ou solaire thermique, etc.). |
 
-|
-
-1.3. Savoir expliquer à un client les différentes étapes administratives et techniques pour la mise en œuvre d'un CETI.
-
-|
+1.3. Savoir expliquer à un client les différentes étapes administratives et techniques pour la mise en œuvre d'un CETI. |
 
 - incitations financières ;
 
-- dossier administratif à remettre au client et sa constitution tout au long de l'opération (déclaration de travaux, devis, documentations techniques, PV de réception, etc.).
+- dossier administratif à remettre au client et sa constitution tout au long de l'opération (déclaration de travaux, devis, documentations techniques, PV de réception, etc.). |
 
-|
+1.4. Mettre en pratique les compétences acquises en 1.1 à 1.3. |
 
-1.4. Mettre en pratique les compétences acquises en 1.1 à 1.3.
+- rappel des points clés de l'objectif 1, en situation concrète de travail. |
 
-|
+0 h 45 |
 
-- rappel des points clés de l'objectif 1, en situation concrète de travail.
-
-|
-
-0 h 45
-
-|
-
-Objectif 2 : concevoir et dimensionner une installation.
-
-|
+Objectif 2 : concevoir et dimensionner une installation. |
 
 2.1 :
 
 - savoir choisir une configuration de CETI en fonction du contexte existant ;
 
-- savoir dimensionner en fonction des besoins.
-
-|
+- savoir dimensionner en fonction des besoins. |
 
 - analyse des besoins en eau chaude sanitaire en fonction du nombre de personnes ;
 
@@ -506,29 +382,17 @@ Objectif 2 : concevoir et dimensionner une installation.
 
 - dimensionnement des composants CETI (volume ballon de stockage, etc.) en fonction de la configuration retenue et des besoins en ECS ;
 
-- mise en place de trois études de cas : air ambiant, air extérieur et air extrait avec pour chacune d'entre elles l'étude d'un bâtiment existant, l'analyse du besoin du client en ECS, le choix et le dimensionnement de l'équipement.
+- mise en place de trois études de cas : air ambiant, air extérieur et air extrait avec pour chacune d'entre elles l'étude d'un bâtiment existant, l'analyse du besoin du client en ECS, le choix et le dimensionnement de l'équipement. |
 
-|
+3 heures |
 
-3 heures
+2.2. Appréhender les limites de performance du CETI. |
 
-|
+- identifier les différents paramètres conditionnant les performances d'un CETI (dimensionnement du ballon, température de consigne). |
 
-2.2. Appréhender les limites de performance du CETI.
+Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur. |
 
-|
-
-- identifier les différents paramètres conditionnant les performances d'un CETI (dimensionnement du ballon, température de consigne).
-
-|
-
-Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur.
-
-|
-
-3.1. Connaître les différents éléments clés constituant une installation.
-
-|
+3.1. Connaître les différents éléments clés constituant une installation. |
 
 - le stockage ECS (principe de fonctionnement, les différents composants internes, principe de stratification, de chauffe, les pertes de stockage, etc.) ;
 
@@ -540,27 +404,17 @@ la régulation :
 
 - b) Stratégies de régulation : raccordement option HC/HP, option base, température de consigne, etc. ;
 
-- la mise en service des CETI.
+- la mise en service des CETI. |
 
-|
+4 heures |
 
-4 heures
-
-|
-
-3.2. Connaître les points clés des systèmes aéraulique.
-
-|
+3.2. Connaître les points clés des systèmes aéraulique. |
 
 - pose des conduits aérauliques, isolation ;
 
-- les systèmes de ventilation compatibles et les avis techniques systèmes .
+- les systèmes de ventilation compatibles et les avis techniques systèmes . |
 
-|
-
-3.3. Savoir mettre en service un CETI et réaliser la programmation de la régulation du système.
-
-|
+3.3. Savoir mettre en service un CETI et réaliser la programmation de la régulation du système. |
 
 TP1 : Mesures de performance ;
 
@@ -568,37 +422,23 @@ TP2 : Mesure de la pression à la bouche la plus défavorisée au niveau du rés
 
 TP3 : Mesure du recyclage sur l'entrée d'un monobloc ;
 
-TP4 : Mise en service et paramétrage de régulation.
+TP4 : Mise en service et paramétrage de régulation. |
 
-|
+Objectif 4 : planifier la maintenance de l'exploitation. |
 
-Objectif 4 : planifier la maintenance de l'exploitation.
-
-|
-
-4.1. Connaître les différents points clés d'une maintenance préventive.
-
-|
+4.1. Connaître les différents points clés d'une maintenance préventive. |
 
 - différents points de contrôle d'une maintenance préventive ;
 
-- la fin de vie d'une installation (récupération du fluide, recyclage, etc.).
+- la fin de vie d'une installation (récupération du fluide, recyclage, etc.). |
 
-|
+1 h 30 |
 
-1 h 30
-
-|
-
-4.2. Savoir diagnostiquer une panne sur une installation CETI.
-
-|
+4.2. Savoir diagnostiquer une panne sur une installation CETI. |
 
 - différents types de pannes sur un CETI ;
 
-- comment les repérer et y remédier.
-
-|
+- comment les repérer et y remédier. |
 
 2.3. Plate-forme technique
 
@@ -681,3 +521,7 @@ Le matériel mis à disposition permet les opérations suivantes :
 - mesures des intensités absorbées par pinces ampère métriques ;
 
 - mesure du volume sonore du CETI en fonctionnement.
+
+NOTA :
+
+Conformément au III de l’article 6 de l’arrêté du 3 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

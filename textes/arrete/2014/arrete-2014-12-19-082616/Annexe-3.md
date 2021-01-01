@@ -1,6 +1,6 @@
 # Article Annexe 3
 
-CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 6 DU I DE L'ARTICLE 46 AX DE L'ANNEXE 3 DU CODE GÉNÉRAL DES IMPÔTS
+CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 6 DU I DE L'ARTICLE IER DU DÉCRET DU 16 JUILLET 2014 SUSVISÉ
 
 Une session de formation est organisée pour douze stagiaires maximum.
 
@@ -24,31 +24,19 @@ Le tableau suivant décrit pour chaque objectif de formation les prescriptions m
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : conseiller son client sur les plans techniques, financiers et divers. |
 
-Objectif 1 : conseiller son client sur les plans techniques, financiers et divers.
-
-|
-
-1.1. Etre capable de situer à un client le contexte environnemental du bois, l'aspect réglementaire, le marché et les labels de qualité.
-
-|
+1.1. Etre capable de situer à un client le contexte environnemental du bois, l'aspect réglementaire, le marché et les labels de qualité. |
 
 Pourquoi réduire nos consommations ?
 
@@ -56,21 +44,15 @@ Contexte de la rt 2012 ;
 
 Marché des appareils bois énergie ;
 
-Démarches qualité.
+Démarches qualité. |
 
-|
-
-3 h 45
-
-|
+3 h 45 |
 
 1.2 :
 
 - savoir expliquer à un client le fonctionnement d'un appareil bois indépendant ;
 
-- aider son client à prendre conscience des risques liés à la combustion.
-
-|
+- aider son client à prendre conscience des risques liés à la combustion. |
 
 Combustible (bois bûches, granulés, briquette, label/certification combustible, taux d'humidité, pouvoir calorifique, séchage, conditions de stockage, etc.) ;
 
@@ -80,45 +62,29 @@ Qualité de l'air et émission de polluants (les polluants émis par le chauffag
 
 Liste des différents appareils à bois existant sur le marché (les poêles, les inserts, cuisinières, appareils mixtes, les avantages/inconvénients de chaque système existant) ;
 
-Principe de fonctionnement d'un appareil bois indépendant.
+Principe de fonctionnement d'un appareil bois indépendant. |
 
-|
-
-1.3. Savoir expliquer à un client les différentes étapes administratives pour la mise en œuvre d'un appareil à bois indépendant.
-
-|
+1.3. Savoir expliquer à un client les différentes étapes administratives pour la mise en œuvre d'un appareil à bois indépendant. |
 
 Incitations financières ;
 
-Dossier administratif à remettre au client tout au long de l'installation (devis, dossier à remettre au client, pv de réception, etc.).
+Dossier administratif à remettre au client tout au long de l'installation (devis, dossier à remettre au client, pv de réception, etc.). |
 
-|
-
-Objectif 2 : concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant.
-
-|
+Objectif 2 : concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant. |
 
 2.1 :
 
 - savoir calculer les besoins de chauffage ;
 
-- comprendre que le m2 n'est pas forcément le bon indicateur.
-
-|
+- comprendre que le m2 n'est pas forcément le bon indicateur. |
 
 Déperditions du bâtiment ;
 
-Méthodes simples de calculs : la méthode du g, analyse sommaire de l'enveloppe du bâtiment, apports gratuits, etc.
+Méthodes simples de calculs : la méthode du g, analyse sommaire de l'enveloppe du bâtiment, apports gratuits, etc. |
 
-|
+4 h 30 |
 
-4 h 30
-
-|
-
-2.2. Savoir proposer l'appareil adéquat en fonction de l'existant et des usages du client.
-
-|
+2.2. Savoir proposer l'appareil adéquat en fonction de l'existant et des usages du client. |
 
 Différents paramètres à prendre en compte pour pouvoir configurer au mieux l'appareil bois indépendant :
 
@@ -126,13 +92,9 @@ a) Forme, volume, configuration du local ;
 
 b) Les attentes du client : esthétisme, confort ;
 
-c) Les exigences d'étanchéité à l'air et les modes de raccordements.
+c) Les exigences d'étanchéité à l'air et les modes de raccordements. |
 
-|
-
-2.3. Savoir concevoir une installation de fumisterie.
-
-|
+2.3. Savoir concevoir une installation de fumisterie. |
 
 Désignation des conduits :
 
@@ -146,77 +108,49 @@ Dimensionnement :
 
 a) Connaître et éliminer les risques d'incendie et d'intoxication ;
 
-b) Garantir la pérennité de l'installation.
+b) Garantir la pérennité de l'installation. |
 
-|
+Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur. |
 
-Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur.
-
-|
-
-3.1 . Savoir installer les conduits et l'appareil.
-
-|
+3.1 . Savoir installer les conduits et l'appareil. |
 
 Fumisterie : mise en œuvre des conduits de fumée et des conduits de raccordement, modérateur de tirage, réhabilitation des conduits, tubage, ventilation des coffrages, etc. ;
 
-Appareils à bois indépendants : amenée d'air comburant, distribution et récupération d'air chaud, règles et mise en œuvre des différents types d'appareils à bois (insert, poêle, cuisinière, etc.).
+Appareils à bois indépendants : amenée d'air comburant, distribution et récupération d'air chaud, règles et mise en œuvre des différents types d'appareils à bois (insert, poêle, cuisinière, etc.). |
 
-|
+6 heures |
 
-6 heures
+3.2. Connaître les modalités de fin de chantier. |
 
-|
-
-3.2. Connaître les modalités de fin de chantier.
-
-|
-
-PV de réception à remettre au client et la fiche d'autocontrôle à usage interne : les points clés à mettre en avant auprès de son client.
-
-|
+PV de réception à remettre au client et la fiche d'autocontrôle à usage interne : les points clés à mettre en avant auprès de son client. |
 
 3.3 :
 
 - savoir analyser une installation et visualiser les circuits d'air ;
 
-- savoir mettre en service une installation bois indépendant.
-
-|
+- savoir mettre en service une installation bois indépendant. |
 
 TP1 : mise en service de l'installation ;
 
 TP2 : autocontrôle de l'installation ;
 
-TP3 : mesures.
+TP3 : mesures. |
 
-|
-
-Objectif 4 : planifier la maintenance de l'exploitation.
-
-|
+Objectif 4 : planifier la maintenance de l'exploitation. |
 
 4.1 :
 
 - savoir faire l'entretien d'un appareil bois indépendant ;
 
-- connaître les différents points clés d'une maintenance préventive.
-
-|
+- connaître les différents points clés d'une maintenance préventive. |
 
 Partie sur les différents points à vérifier lors d'une maintenance préventive (entretien) ;
 
-Conseils au client sur l'usage et l'entretien au quotidien : allumage par le haut, réglage des entrées d'air tout au long du cycle, quelle taille de bûche utiliser pour mon appareil, quelle qualité de combustible, comment entretenir son appareil, etc. ;
+Conseils au client sur l'usage et l'entretien au quotidien : allumage par le haut, réglage des entrées d'air tout au long du cycle, quelle taille de bûche utiliser pour mon appareil, quelle qualité de combustible, comment entretenir son appareil, etc. ; |
 
-|
+2 h 30 |
 
-2 h 30
-
-|
-
-4.2 . Savoir diagnostiquer une panne sur une installation.
-
-|
+4.2 . Savoir diagnostiquer une panne sur une installation. |
 
 Résoudre les études de cas présentant une panne sur un appareil bois indépendant :
 
@@ -224,9 +158,7 @@ a) Refoulement ;
 
 b) Bistrage ;
 
-c) Mise à défaut appareil.
-
-|
+c) Mise à défaut appareil. |
 
 1.3. Plate-forme technique
 
@@ -300,51 +232,33 @@ Le tableau suivant décrit pour chaque objectif de formation les prescriptions m
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : conseiller son client sur les plans techniques, financiers et divers. |
 
-Objectif 1 : conseiller son client sur les plans techniques, financiers et divers.
-
-|
-
-1.1. Etre capable de situer à un client le contexte environnemental du bois, l'aspect réglementaire, le marché et les labels de qualité.
-
-|
+1.1. Etre capable de situer à un client le contexte environnemental du bois, l'aspect réglementaire, le marché et les labels de qualité. |
 
 Pourquoi réduire nos consommations ? Le contexte de la rt 2012 ;
 
 Marché des appareils bois énergie ;
 
-Démarches qualité.
+Démarches qualité. |
 
-|
-
-5 heures
-
-|
+5 heures |
 
 1.2 :
 
 - savoir expliquer à un client le fonctionnement d'un appareil bois raccordé à un réseau hydraulique ;
 
-- aider son client à prendre conscience des risques liés à la combustion.
-
-|
+- aider son client à prendre conscience des risques liés à la combustion. |
 
 Combustible (bois bûches, granulés, briquette, label /certification combustible, taux d'humidité, pouvoir calorifique, séchage, conditions de stockage…) ;
 
@@ -354,57 +268,37 @@ Qualité de l'air et émission de polluants (polluants émis par le chauffage au
 
 Liste des différents appareils à bois existant sur le marché (les poêles, les inserts, cuisinières, appareils mixtes, les avantages/inconvénients de chaque système existant) ;
 
-Principe de fonctionnement d'un appareil bois hydraulique.
+Principe de fonctionnement d'un appareil bois hydraulique. |
 
-|
-
-1.3. Savoir expliquer à un client les différentes étapes administratives pour la mise en œuvre d'un appareil à bois raccordé à un réseau hydraulique.
-
-|
+1.3. Savoir expliquer à un client les différentes étapes administratives pour la mise en œuvre d'un appareil à bois raccordé à un réseau hydraulique. |
 
 Incitations financières ;
 
-Dossier administratif à remettre au client tout au long de l'installation (devis, dossier à remettre au client, pv de réception…).
+Dossier administratif à remettre au client tout au long de l'installation (devis, dossier à remettre au client, pv de réception…). |
 
-|
-
-Objectif 2 : concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant.
-
-|
+Objectif 2 : concevoir et dimensionner une installation au plus juste des besoins et en fonction de l'existant. |
 
 2.1 :
 
 - savoir calculer les besoins de chauffage ;
 
-- comprendre que le m2 n'est pas forcément le bon indicateur.
-
-|
+- comprendre que le m2 n'est pas forcément le bon indicateur. |
 
 Déperditions du bâtiment ;
 
-Méthodes simples de calculs : la méthode du g, analyse sommaire de l'enveloppe du bâtiment, apports gratuits, etc.
+Méthodes simples de calculs : la méthode du g, analyse sommaire de l'enveloppe du bâtiment, apports gratuits, etc. |
 
-|
+5 h 45 |
 
-5 h 45
-
-|
-
-2.2. Savoir faire le choix du schéma hydraulique adapté aux besoins du client.
-
-|
+2.2. Savoir faire le choix du schéma hydraulique adapté aux besoins du client. |
 
 Principaux schémas hydrauliques existants (8 à 10 environ) ;
 
 Différents éléments d'une installation bois ;
 
-Schéma hydraulique optimal.
+Schéma hydraulique optimal. |
 
-|
-
-2.3. Savoir dimensionner une installation en fonction des besoins de chauffage du bâtiment et de la configuration retenue.
-
-|
+2.3. Savoir dimensionner une installation en fonction des besoins de chauffage du bâtiment et de la configuration retenue. |
 
 Fumisterie : réglementation, désignation et mise en œuvre des conduits de fumée, modérateur de tirage, dimensionnement, etc. ;
 
@@ -416,39 +310,25 @@ Limites de performance de l'installation ;
 
 Risques liés au surdimensionnement ;
 
-Avantages/inconvénients du ballon tampon.
+Avantages/inconvénients du ballon tampon. |
 
-|
+Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur. |
 
-Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur.
-
-|
-
-3.1. Connaître les différents éléments clés constituant une installation.
-
-|
+3.1. Connaître les différents éléments clés constituant une installation. |
 
 Fumisterie : mise en œuvre des conduits de fumée et des conduits de raccordement, modérateur de tirage, réhabilitation des conduits, tubage, ventilation des coffrages ;
 
-Appareils à bois indépendants : amenée d'air comburant, distribution et récupération d'air chaud, règles et mise en œuvre des différents types d'appareils à bois (insert, poêle, cuisinière).
+Appareils à bois indépendants : amenée d'air comburant, distribution et récupération d'air chaud, règles et mise en œuvre des différents types d'appareils à bois (insert, poêle, cuisinière). |
 
-|
+5 h 45 |
 
-5 h 45
-
-|
-
-3.2. Connaître les modalités et les différentes étapes d'une mise en route d'une installation.
-
-|
+3.2. Connaître les modalités et les différentes étapes d'une mise en route d'une installation. |
 
 Régulation ;
 
 Mise en route d'une installation ;
 
-Conséquences d'un mauvais paramétrage.
-
-|
+Conséquences d'un mauvais paramétrage. |
 
 3.3 :
 
@@ -456,9 +336,7 @@ Conséquences d'un mauvais paramétrage.
 
 - savoir faire l'entretien d'une installation ;
 
-- savoir mettre en service une installation et réaliser la programmation de la régulation raccordé au réseau hydraulique.
-
-|
+- savoir mettre en service une installation et réaliser la programmation de la régulation raccordé au réseau hydraulique. |
 
 TP1 : analyse de l'installation et de la fumisterie ;
 
@@ -468,35 +346,21 @@ TP3 : maintenance de l'installation (TP réalisé à froid) ;
 
 démonstration : mise en service des chaudières ;
 
-TP4 : mesures.
+TP4 : mesures. |
 
-|
+Objectif 4 : planifier la maintenance de l'exploitation. |
 
-Objectif 4 : planifier la maintenance de l'exploitation.
-
-|
-
-4.1. Connaître les différents points clés d'une maintenance préventive.
-
-|
+4.1. Connaître les différents points clés d'une maintenance préventive. |
 
 Apports d'informations sur les différents points à vérifier lors d'une maintenance préventive (entretien) ;
 
-Conseils au client sur l'usage et l'entretien au quotidien : allumage par le haut, réglage des entrées d'air tout au long du cycle, quelle taille de bûche utiliser pour mon appareil, quelle qualité de combustible, comment entretenir son appareil, etc.
+Conseils au client sur l'usage et l'entretien au quotidien : allumage par le haut, réglage des entrées d'air tout au long du cycle, quelle taille de bûche utiliser pour mon appareil, quelle qualité de combustible, comment entretenir son appareil, etc. |
 
-|
+2 heures |
 
-2 heures
+4.2. Savoir diagnostiquer une panne sur une installation. |
 
-|
-
-4.2. Savoir diagnostiquer une panne sur une installation.
-
-|
-
-Résoudre les études de cas présentant une panne sur une installation bois énergie. A partir de cette panne, le but est de réfléchir sur l'ensemble de l'installation.
-
-|
+Résoudre les études de cas présentant une panne sur une installation bois énergie. A partir de cette panne, le but est de réfléchir sur l'ensemble de l'installation. |
 
 2.3. Plate-forme technique
 
@@ -525,3 +389,7 @@ Sont mis à disposition des stagiaires les matériels suivants :
 - hygromètre ou humidimètre-analyseur de combustion ;
 
 - déprimomètre à aiguille ou déprimomètre numérique ou déprimomètre à colonne de liquide.
+
+NOTA :
+
+Conformément au III de l’article 6 de l’arrêté du 3 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

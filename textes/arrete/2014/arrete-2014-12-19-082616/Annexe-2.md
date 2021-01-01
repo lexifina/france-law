@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 5 DU I DE L'ARTICLE 46 AX DE L'ANNEXE 3 DU CODE GÉNÉRAL DES IMPÔTS
+CAHIER DES CHARGES APPLICABLE POUR DISPENSER LES FORMATIONS RELATIVES AUX TRAVAUX MENTIONNÉS AU 5 DU I DE L'ARTICLE IER DU DÉCRET DU 16 JUILLET 2014 SUSVISÉ
 
 Une session de formation est organisée pour douze stagiaires maximum.
 
@@ -24,31 +24,19 @@ Le tableau suivant décrit pour chaque objectif de formation les prescriptions m
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : conseiller son client sur les plans techniques, financiers et divers. |
 
-Objectif 1 : conseiller son client sur les plans techniques, financiers et divers.
-
-|
-
-1.1. Etre capable de situer à un client le contexte environnemental du CESI, l'aspect réglementaire, le marché et les labels de qualité.
-
-|
+1.1. Etre capable de situer à un client le contexte environnemental du CESI, l'aspect réglementaire, le marché et les labels de qualité. |
 
 Contexte environnemental global énergétique et ges ;
 
@@ -62,53 +50,35 @@ Les cesi : notion de coût ;
 
 Positionnement environnemental des cesi (énergie grise, bilan carbone, etc.) ;
 
-Labels et signes de qualité.
+Labels et signes de qualité. |
 
-|
+3 heures |
 
-3 heures
-
-|
-
-1.2. Savoir expliquer à un client le fonctionnement d'un CESI.
-
-|
+1.2. Savoir expliquer à un client le fonctionnement d'un CESI. |
 
 Principes généraux et fonctionnement du cesi ;
 
 Approche des différentes typologies de cesi sur le marché : auto-vidangeable/sous-pression, monobloc/éléments séparés (points forts et limites) ;
 
-Différentes configurations d'appoints (appoint intégré, appoint séparé, cas avec chaudière instantanée, etc.)
+Différentes configurations d'appoints (appoint intégré, appoint séparé, cas avec chaudière instantanée, etc.) |
 
-|
-
-1.3. Savoir expliquer à un client les différentes étapes administratives et techniques pour la mise en œuvre d'un CESI.
-
-|
+1.3. Savoir expliquer à un client les différentes étapes administratives et techniques pour la mise en œuvre d'un CESI. |
 
 Incitations financières ;
 
-Dossier administratif à remettre au client et sa constitution tout au long de l'opération (déclaration de travaux, devis, documentations techniques, pv de réception, etc.) ;
+Dossier administratif à remettre au client et sa constitution tout au long de l'opération (déclaration de travaux, devis, documentations techniques, pv de réception, etc.) ; |
+
+1.4. Mettre en pratique les compétences acquises en 1.1 à 1.3. |
 
 |
 
-1.4. Mettre en pratique les compétences acquises en 1.1 à 1.3.
-
-|
-
-|
-
-Objectif 2 : concevoir et dimensionner une installation CESI.
-
-|
+Objectif 2 : concevoir et dimensionner une installation CESI. |
 
 2.1 :
 
 - savoir choisir une configuration de CESI en fonction du contexte existant ;
 
-- savoir dimensionner en fonction des besoins.
-
-|
+- savoir dimensionner en fonction des besoins. |
 
 Détermination des besoins du client ;
 
@@ -116,31 +86,19 @@ Analyse de l'existant (bâti et système de production ecs) ;
 
 Choix d'une configuration hydraulique ;
 
-Dimensionnement des composants cesi (surface capteurs, volume ballon de stockage, etc.) en fonction de la configuration retenue et des besoins en ecs.
+Dimensionnement des composants cesi (surface capteurs, volume ballon de stockage, etc.) en fonction de la configuration retenue et des besoins en ecs. |
 
-|
+4 h 30 |
 
-4 h 30
-
-|
-
-2.2. Appréhender les limites de performance du CESI.
-
-|
+2.2. Appréhender les limites de performance du CESI. |
 
 Paramètres conditionnant les performances d'un cesi ;
 
-Découverte des indicateurs clés : taux de couverture des besoins et productivité.
+Découverte des indicateurs clés : taux de couverture des besoins et productivité. |
 
-|
+Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur. |
 
-Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur.
-
-|
-
-3.1. Connaître les différents éléments clés constituant une installation.
-
-|
+3.1. Connaître les différents éléments clés constituant une installation. |
 
 Le capteur solaire thermique :
 
@@ -162,47 +120,31 @@ a) Eléments constitutifs (sonde de température, etc.) ;
 
 b) Stratégies de régulation, mise en évidence des différents phénomènes au sein du circuit : vaporisation fluide, température de consigne ballon, rafraîchissement nocturne, etc. ;
 
-La mise en service du CESI (remplissage d'une installation, réception de l'installation, etc).
+La mise en service du CESI (remplissage d'une installation, réception de l'installation, etc). |
 
-|
+7 h 30 |
 
-7 h 30
-
-|
-
-3.2. Savoir utiliser les EPI des travaux en hauteur et se mettre en sécurité en toiture.
-
-|
+3.2. Savoir utiliser les EPI des travaux en hauteur et se mettre en sécurité en toiture. |
 
 Accès au toit en sécurité pour la pose des capteurs solaires ;
 
-Consignes de sécurité.
-
-|
+Consignes de sécurité. |
 
 3.3 :
 
 - savoir mettre en œuvre des capteurs solaires thermiques ;
 
-- savoir mettre en service un CESI et réaliser la programmation de la régulation du système.
-
-|
+- savoir mettre en service un CESI et réaliser la programmation de la régulation du système. |
 
 TP2 : pose des capteurs intégrés ;
 
 TP3 : pose des capteurs surimposés ;
 
-TP4 : mise en service et régulation.
+TP4 : mise en service et régulation. |
 
-|
+Objectif 4 : planifier la maintenance de l'exploitation. |
 
-Objectif 4 : planifier la maintenance de l'exploitation.
-
-|
-
-4.1. Connaître les différents points clés d'une maintenance préventive.
-
-|
+4.1. Connaître les différents points clés d'une maintenance préventive. |
 
 Pathologies des CESI :
 
@@ -210,17 +152,11 @@ a) Les capteurs qui caramélisent ;
 
 b) Les problèmes de gel.
 
-Points de contrôle d'une maintenance préventive.
+Points de contrôle d'une maintenance préventive. |
 
-|
+2 heures |
 
-2 heures
-
-|
-
-4.2. Savoir diagnostiquer une panne sur une installation CESI.
-
-|
+4.2. Savoir diagnostiquer une panne sur une installation CESI. |
 
 Etudes de cas présentant des pannes classiques sur une installation CESI concernant les problématiques suivantes :
 
@@ -228,9 +164,7 @@ a) La pression ;
 
 b) La circulation ;
 
-c) La régulation.
-
-|
+c) La régulation. |
 
 1.3. Plate-forme technique
 
@@ -334,31 +268,19 @@ Le tableau ci-dessous décrit pour chaque objectif de formation les prescription
 
 OBJECTIFS
 
-de la formation
+de la formation |
 
-|
+OBJECTIFS PÉDAGOGIQUES |
 
-OBJECTIFS PÉDAGOGIQUES
-
-|
-
-CONTENU/POINTS CLÉS
-
-|
+CONTENU/POINTS CLÉS |
 
 DURÉE
 
-minimale
+minimale |
 
-|
+Objectif 1 : conseiller son client sur les plans techniques, financiers et divers |
 
-Objectif 1 : conseiller son client sur les plans techniques, financiers et divers
-
-|
-
-1.1. Etre capable de situer à un client le contexte environnemental du système solaire combiné (SSC), l'aspect réglementaire, le marché et les labels de qualité.
-
-|
+1.1. Etre capable de situer à un client le contexte environnemental du système solaire combiné (SSC), l'aspect réglementaire, le marché et les labels de qualité. |
 
 Contexte environnemental global énergétique et ges ;
 
@@ -372,101 +294,61 @@ Ssc : notion de coût ;
 
 Positionnement environnemental des ssc (énergie grise, bilan carbone, etc.) ;
 
-Labels et signes de qualité.
+Labels et signes de qualité. |
 
-|
+4 heures |
 
-4 heures
-
-|
-
-1.2. Savoir expliquer à un client le fonctionnement d'un SSC.
-
-|
+1.2. Savoir expliquer à un client le fonctionnement d'un SSC. |
 
 Principes généraux et fonctionnement du ssc ;
 
 Approche des différentes typologies de ssc sur le marché (appoint, émetteur, stockage, etc.) ;
 
-Principes de régulation.
+Principes de régulation. |
 
-|
-
-1.3. Savoir expliquer à un client les différentes étapes administratives et techniques pour la mise en œuvre d'un SSC.
-
-|
+1.3. Savoir expliquer à un client les différentes étapes administratives et techniques pour la mise en œuvre d'un SSC. |
 
 Incitations financières ;
 
-Dossier administratif à remettre au client et sa constitution tout au long de l'opération (déclaration de travaux, devis, documentations techniques, pv de réception, etc.).
+Dossier administratif à remettre au client et sa constitution tout au long de l'opération (déclaration de travaux, devis, documentations techniques, pv de réception, etc.). |
 
-|
+Objectif 2 : concevoir et dimensionner une installation SSC |
 
-Objectif 2 : concevoir et dimensionner une installation SSC
-
-|
-
-2.1. Savoir estimer les besoins d'ECS et de chauffage.
-
-|
+2.1. Savoir estimer les besoins d'ECS et de chauffage. |
 
 Besoins en chauffage :
 
 a) Approche des déperditions du bâtiment (méthodes simples : analyse b) Sommaire de l'enveloppe du bâtiment, apports gratuits, méthode du g, etc.) ;
 
-Besoins d'ecs.
+Besoins d'ecs. |
 
-|
+9 h 15 |
 
-9 h 15
+2.2. Savoir analyser l'installation existante. |
 
-|
+Identifier les différents paramètres à prendre en compte pour pouvoir configurer au mieux le ssc. |
 
-2.2. Savoir analyser l'installation existante.
-
-|
-
-Identifier les différents paramètres à prendre en compte pour pouvoir configurer au mieux le ssc.
-
-|
-
-2.3. Savoir choisir une configuration de SSC en fonction de l'usage et du bâti.
-
-|
+2.3. Savoir choisir une configuration de SSC en fonction de l'usage et du bâti. |
 
 Différentes configurations hydrauliques ssc (présenter les 10 schémas hydrauliques les plus courants sur le marché avec avantages/inconvénients, etc.) ;
 
 Choix du schéma le plus adapté ;
 
-Composition avec schéma existant.
+Composition avec schéma existant. |
 
-|
+2.4. Savoir dimensionner un SSC. |
 
-2.4. Savoir dimensionner un SSC.
+Dimensionner les différents éléments du circuit (émétteurs, circuits hydrauliques, stockage, appoint, surface capteurs, etc.) ; |
 
-|
-
-Dimensionner les différents éléments du circuit (émétteurs, circuits hydrauliques, stockage, appoint, surface capteurs, etc.) ;
-
-|
-
-2.5. Appréhender et estimer les limites de performance du SSC.
-
-|
+2.5. Appréhender et estimer les limites de performance du SSC. |
 
 Paramètres conditionnant les performances d'un ssc ;
 
-Découverte des indicateurs clés : taux de couverture des besoins et productivité pour les postes ecs et chauffage.
+Découverte des indicateurs clés : taux de couverture des besoins et productivité pour les postes ecs et chauffage. |
 
-|
+Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur |
 
-Objectif 3 : organiser les points clés de la mise en œuvre et de la mise en service, être capable de les expliquer à son interlocuteur
-
-|
-
-3.1. Connaître les différents éléments clés constituant une installation.
-
-|
+3.1. Connaître les différents éléments clés constituant une installation. |
 
 Capteur solaire thermique ;
 
@@ -490,35 +372,21 @@ Régulation :
 
 a) Eléments constitutifs (sonde de température, etc) ;
 
-b) Stratégies de régulation, mise en évidence des différents phénomènes au sein du circuit : vaporisation fluide, température de consigne, loi d'eau, abaissement nocturne, etc.).
+b) Stratégies de régulation, mise en évidence des différents phénomènes au sein du circuit : vaporisation fluide, température de consigne, loi d'eau, abaissement nocturne, etc.). |
 
-|
+2 heures |
 
-2 heures
+Objectif 4 : planifier la maintenance de l'exploitation |
 
-|
-
-Objectif 4 : planifier la maintenance de l'exploitation
-
-|
-
-4.1. Connaître les différents points clés d'une maintenance préventive.
-
-|
+4.1. Connaître les différents points clés d'une maintenance préventive. |
 
 Pathologies des ssc ;
 
-Points de contrôle d'une maintenance préventive.
+Points de contrôle d'une maintenance préventive. |
 
-|
+2 h 30 |
 
-2 h 30
-
-|
-
-4.2. Savoir diagnostiquer une panne sur une installation SSC.
-
-|
+4.2. Savoir diagnostiquer une panne sur une installation SSC. |
 
 Etudes de cas présentant des pannes classiques sur une installation SSC concernant les problématiques suivantes :
 
@@ -526,10 +394,12 @@ a) La pression sur le circuit primaire ;
 
 b) La consommation de l'appoint ;
 
-c) L'inconfort lié à la régulation.
-
-|
+c) L'inconfort lié à la régulation. |
 
 2.3. Plate-forme technique
 
 Aucune plate-forme technique n'est requise.
+
+NOTA :
+
+Conformément au III de l’article 6 de l’arrêté du 3 juin 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
