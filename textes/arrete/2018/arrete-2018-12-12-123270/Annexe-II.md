@@ -1,0 +1,3063 @@
+# Article Annexe II
+
+LISTE DES ÉTABLISSEMENTS VOLONTAIRES
+
+Finess géographique |
+
+Nom de l'établissement |
+
+IPP |
+
+EPA |
+
+Transports |
+
+PERFADOM |
+
+170000087 |
+
+HOPITAL SAINT-LOUIS-LA ROCHELLE |
+
+|
+
+|
+
+X |
+
+X |
+
+170000152 |
+
+CENTRE HOSPITALIER ROCHEFORT |
+
+|
+
+|
+
+X |
+
+|
+
+330781139 |
+
+CRF LA TOUR DE GASSIES |
+
+|
+
+|
+
+X |
+
+|
+
+330781352 |
+
+CHU HOPITAL ST ANDRE |
+
+X |
+
+|
+
+X |
+
+X |
+
+330781360 |
+
+CHU GROUPE HOSPITALIER PELLEGRIN |
+
+X |
+
+|
+
+X |
+
+X |
+
+330783648 |
+
+CHU HOPITAL HAUT LEVEQUE |
+
+X |
+
+|
+
+X |
+
+X |
+
+330000605 |
+
+CTRE HOSPIT. R. BOULIN-LIBOURNE |
+
+X |
+
+|
+
+X |
+
+X |
+
+400000139 |
+
+CENTRE HOSPITALIER DE MONT DE MARSAN |
+
+X |
+
+X |
+
+|
+
+X |
+
+470000423 |
+
+CH AGEN NERAC-HOPITAL SAINT-ESPRIT |
+
+X |
+
+X |
+
+X |
+
+X |
+
+640780946 |
+
+POLYCLINIQUE DE NAVARRE |
+
+|
+
+X |
+
+|
+
+|
+
+640000600 |
+
+CENTRE HOSPITALIER DE PAU |
+
+X |
+
+X |
+
+X |
+
+X |
+
+790000087 |
+
+CENTRE HOSPITALIER DE NIORT |
+
+|
+
+|
+
+X |
+
+|
+
+860000223 |
+
+CHU LA MILETRIE (POITIERS) |
+
+X |
+
+X |
+
+|
+
+|
+
+870000064 |
+
+CHU DUPUYTREN LIMOGES |
+
+|
+
+|
+
+X |
+
+X |
+
+870014859 |
+
+HOPITAL DE LA MERE ET DE L'ENFANT |
+
+|
+
+|
+
+X |
+
+X |
+
+290000058 |
+
+CHRU BREST SITE HOPITAL MORVAN |
+
+|
+
+X |
+
+|
+
+|
+
+290017946 |
+
+CTRE LONG SEJOUR BOHARS-CHRU BREST |
+
+|
+
+X |
+
+|
+
+|
+
+290004365 |
+
+CHU BREST SITE GUILERS |
+
+|
+
+X |
+
+|
+
+|
+
+290004324 |
+
+CHRU BREST SITE HOPITAL CAVALE BLANCHE |
+
+|
+
+X |
+
+|
+
+|
+
+290004340 |
+
+CHRU BREST SITE HOPITAL BOHARS |
+
+|
+
+X |
+
+|
+
+|
+
+290000256 |
+
+CHRU BREST SITE HOPITAL DE CARHAIX |
+
+|
+
+X |
+
+|
+
+|
+
+290036722 |
+
+CHRU BREST SITE PERHARIDY ILDYS |
+
+|
+
+X |
+
+|
+
+|
+
+290000140 |
+
+Clinique Pasteur-Lanroze |
+
+|
+
+X |
+
+|
+
+|
+
+290000207 |
+
+Clinique Saint Michel et Sainte Anne |
+
+|
+
+X |
+
+|
+
+|
+
+290019777 |
+
+Polyclinique de Keraudren-Grand Large |
+
+|
+
+X |
+
+|
+
+|
+
+290000215 |
+
+Polyclinique Quimper Sud |
+
+|
+
+X |
+
+|
+
+|
+
+350000121 |
+
+Centre Hospitalier Privé Saint-Grégoire |
+
+|
+
+X |
+
+|
+
+|
+
+560000127 |
+
+Centre Hospitalier Bretagne Atlantique |
+
+|
+
+X |
+
+|
+
+|
+
+970400024 |
+
+CHU SITE FELIX GUYON |
+
+|
+
+|
+
+X |
+
+|
+
+970400057 |
+
+CHU SITE SUD |
+
+|
+
+|
+
+X |
+
+|
+
+970400065 |
+
+Centre hospitalier ouest réunion-CHOR |
+
+|
+
+|
+
+X |
+
+|
+
+970400073 |
+
+Groupe hospitalier Est réunion-GHER (SAINT-BENOIT) |
+
+|
+
+|
+
+X |
+
+|
+
+340780741 |
+
+POLYCL STE THERESE |
+
+|
+
+X |
+
+|
+
+|
+
+300000031 |
+
+CH LOUIS PASTEUR |
+
+|
+
+X |
+
+|
+
+|
+
+810101170 |
+
+CL TOULOUSE LAUTREC |
+
+|
+
+X |
+
+|
+
+|
+
+310780259 |
+
+CL PASTEUR |
+
+|
+
+X |
+
+|
+
+|
+
+660006305 |
+
+CL MUTUALISTE CATALANE |
+
+|
+
+X |
+
+|
+
+|
+
+300782117 |
+
+CHU NIMES CAREMEAU |
+
+X |
+
+X |
+
+X |
+
+X |
+
+340780725 |
+
+CL VIA DOMITIA |
+
+|
+
+X |
+
+|
+
+|
+
+300000023 |
+
+CH ALES CEVENNES |
+
+X |
+
+|
+
+X |
+
+X |
+
+340780667 |
+
+CL DU PARC |
+
+|
+
+X |
+
+|
+
+X |
+
+340000223 |
+
+HOPITAL ST CLAIR HBT SETE |
+
+|
+
+|
+
+X |
+
+|
+
+340000223 |
+
+HOPITAL ST CLAIR HBT SETE |
+
+|
+
+X |
+
+|
+
+|
+
+660000084 |
+
+CH PERPIGNAN |
+
+X |
+
+X |
+
+X |
+
+X |
+
+300000031 |
+
+CH LOUIS PASTEUR |
+
+|
+
+X |
+
+|
+
+|
+
+300780137 |
+
+NOUVELLE CL BONNEFON |
+
+|
+
+X |
+
+|
+
+|
+
+340780634 |
+
+CL ST JEAN |
+
+|
+
+X |
+
+|
+
+|
+
+300017498 |
+
+CL AMBULATOIRE DE LA CEZE |
+
+|
+
+X |
+
+|
+
+|
+
+310782347 |
+
+INSTITUT CLAUDIUS REGAUD |
+
+|
+
+X |
+
+|
+
+|
+
+820000065 |
+
+CL DU DR HONORE CAVE |
+
+|
+
+X |
+
+|
+
+|
+
+310026927 |
+
+CL CAPIO LA CROIX DU SUD |
+
+|
+
+X |
+
+|
+
+|
+
+810000505 |
+
+CH ALBI |
+
+|
+
+|
+
+X |
+
+|
+
+310780283 |
+
+CL DE L'UNION |
+
+|
+
+X |
+
+|
+
+X |
+
+310781000 |
+
+CL DES CEDRES |
+
+|
+
+X |
+
+|
+
+X |
+
+310019351 |
+
+HOPITAL LARREY CHU TLSE |
+
+|
+
+|
+
+X |
+
+|
+
+310783048 |
+
+HOPITAL DE PURPAN CHU TOULOUSE |
+
+X |
+
+|
+
+X |
+
+|
+
+310783055 |
+
+HOPITAL DE RANGUEIL CHU TOULOUSE |
+
+X |
+
+|
+
+X |
+
+|
+
+540001138 |
+
+CHU NANCY HOPITAL CENTRAL |
+
+|
+
+|
+
+X |
+
+X |
+
+540000163 |
+
+CHRU NANCY-CENTRE EMILE GALLE |
+
+|
+
+|
+
+|
+
+X |
+
+540002698 |
+
+CHRU NANCY-HOPITAUX DE BRABOIS |
+
+X |
+
+X |
+
+|
+
+X |
+
+570000349 |
+
+CHR METZ Hôpital Bel Air |
+
+|
+
+X |
+
+X |
+
+X |
+
+570026682 |
+
+CHR METZ TH site de Mercy |
+
+|
+
+X |
+
+X |
+
+X |
+
+670000025 |
+
+CHU STRASBOURG-HOPITAL CIVIL/ NOUVEL HOPITAL CIVIL |
+
+X |
+
+X |
+
+|
+
+X |
+
+670783273 |
+
+CHU STRASBOURG-HOPITAL DE HAUTEPIERRE |
+
+|
+
+X |
+
+|
+
+X |
+
+680000684 |
+
+CH COLMAR-HOPITAL LOUIS PASTEUR |
+
+X |
+
+X |
+
+|
+
+X |
+
+680000494 |
+
+Clinique Diaconnat-Clinique Diaconnat Roosevelt |
+
+|
+
+X |
+
+|
+
+|
+
+520000027 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+|
+
+X |
+
+|
+
+570000901 |
+
+HOPITAL ROBERT PAX DE SARREGUEMINES |
+
+|
+
+|
+
+X |
+
+|
+
+750000523 |
+
+GH PARIS SITE SAINT JOSEPH |
+
+X |
+
+|
+
+|
+
+|
+
+750000549 |
+
+FONDATION OPHTALMOLOGIQUE ROTHSCHILD |
+
+|
+
+X |
+
+X |
+
+X |
+
+910803543 |
+
+HOPITAL PRIVE CLAUDE GALIEN |
+
+|
+
+X |
+
+|
+
+|
+
+930300025 |
+
+HOPITAL EUROPEEN LA ROSERAIE |
+
+|
+
+X |
+
+|
+
+|
+
+910150069 |
+
+HOP PRIVE GERIAT LES MAGNOLIAS |
+
+|
+
+|
+
+X |
+
+|
+
+910150028 |
+
+CENTRE HOSPITALIER DE BLIGNY |
+
+|
+
+|
+
+X |
+
+|
+
+920300043 |
+
+HOPITAL PRIVE D'ANTONY |
+
+|
+
+|
+
+|
+
+X |
+
+920000635 |
+
+HOPITAL SUISSE |
+
+X |
+
+|
+
+X |
+
+X |
+
+930000336 |
+
+CHI ROBERT BALLANGER |
+
+X |
+
+X |
+
+X |
+
+X |
+
+950000307 |
+
+CH VICTOR DUPOUY |
+
+X |
+
+X |
+
+X |
+
+X |
+
+780000311 |
+
+CHI POISSY ST GERMAIN SITE DE POISSY |
+
+X |
+
+X |
+
+X |
+
+X |
+
+780000287 |
+
+CH FRANCOIS QUESNAY MANTES |
+
+X |
+
+X |
+
+X |
+
+X |
+
+780300208 |
+
+CLINIQUE SAINT LOUIS |
+
+|
+
+X |
+
+|
+
+|
+
+910300300 |
+
+HOPITAL PRIVE DU VAL D'YERRES |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750150237 |
+
+GH DIACONESSES CROIX SAINT SIMON |
+
+|
+
+X |
+
+|
+
+|
+
+750150104 |
+
+INSTITUT MUTUALISTE MONTSOURIS |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100042 |
+
+HU SAINT LOUIS SITE LARIBOISIERE APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100075 |
+
+HU SAINT LOUIS SITE SAINT LOUIS APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100091 |
+
+HU EST PARISIEN SITE ST ANTOINE APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100109 |
+
+HU EST PARISIEN SITE TROUSSEAU APHP |
+
+X |
+
+|
+
+X |
+
+X |
+
+750100125 |
+
+HU PITIE SALPETRIERE APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100166 |
+
+HU PARIS CENTRE SITE COCHIN APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100208 |
+
+HU NECKER ENFANTS MALADES APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100232 |
+
+HU PARIS NORD SITE BICHAT APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750100273 |
+
+HU EST PARISIEN SITE TENON APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750803447 |
+
+HU PARIS OUEST SITE G POMPIDOU APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+750803454 |
+
+HU ROBERT DEBRE APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+920100039 |
+
+HU PARIS NORD SITE BEAUJON APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+930100037 |
+
+HU PARIS SITE AVICENNE APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+940100027 |
+
+HU HENRI MONDOR SITE HENRI MONDOR APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+940100043 |
+
+HU PARIS SUD SITE KREMLIN BICETRE APHP |
+
+X |
+
+X |
+
+X |
+
+X |
+
+920000684 |
+
+HOPITAL MARIE LANNELONGUE |
+
+|
+
+|
+
+|
+
+X |
+
+920300837 |
+
+CLINIQUE LES MARTINETS |
+
+|
+
+X |
+
+|
+
+|
+
+920300365 |
+
+CLINIQUE LA MONTAGNE |
+
+|
+
+X |
+
+|
+
+|
+
+970112587 |
+
+CHU-ANTENNE DE MARIE-GALANTE SMUR |
+
+|
+
+|
+
+X |
+
+X |
+
+970112793 |
+
+CENTRE IMAGERIE MOLÉCULAIRE GUADELOUPE |
+
+|
+
+|
+
+X |
+
+X |
+
+970112835 |
+
+POLYCLINIQUE DE GUADELOUPE (SITE CHU) |
+
+|
+
+|
+
+X |
+
+X |
+
+970112850 |
+
+CLINIQUE LES EAUX CLAIRES (SITE CHU) |
+
+|
+
+|
+
+X |
+
+X |
+
+970112884 |
+
+C H U DE POINTE A PITRE-SSR |
+
+|
+
+|
+
+X |
+
+X |
+
+970113007 |
+
+CHBT-SITE DU CHU |
+
+|
+
+|
+
+X |
+
+X |
+
+970107249 |
+
+Clinique Les Eaux claires |
+
+|
+
+X |
+
+|
+
+|
+
+490000049 |
+
+CHU D'ANGERS : SITE LARREY |
+
+X |
+
+X |
+
+X |
+
+X |
+
+440017598 |
+
+CHU DE NANTES : HOPITAL G. R. LAENNEC |
+
+|
+
+|
+
+X |
+
+X |
+
+440000271 |
+
+CHU DE NANTES : SITE HÔTEL-DIEU-HME |
+
+X |
+
+|
+
+X |
+
+X |
+
+720000033 |
+
+CENTRE HOSPITALIER DU MANS |
+
+X |
+
+X |
+
+X |
+
+X |
+
+850000142 |
+
+CENTRE HOSPITALIER-SITE LA ROCHE/ YON |
+
+X |
+
+|
+
+X |
+
+X |
+
+490000635 |
+
+CENTRE HOSPITALIER DE CHOLET |
+
+X |
+
+|
+
+X |
+
+X |
+
+530000264 |
+
+CENTRE HOSPITALIER DE LAVAL |
+
+X |
+
+|
+
+X |
+
+X |
+
+440000016 |
+
+CENTRE HOSPITALIER DE SAINT-NAZAIRE |
+
+|
+
+|
+
+X |
+
+X |
+
+440001113 |
+
+ICO-SITE GAUDUCHEAU |
+
+|
+
+|
+
+|
+
+X |
+
+490000155 |
+
+ICO-SITE PAUL PAPIN |
+
+|
+
+|
+
+|
+
+X |
+
+720017748 |
+
+CENTRE MEDICO-CHIRURGICAL DU MANS |
+
+|
+
+X |
+
+|
+
+X |
+
+440041580 |
+
+L'HOPITAL PRIVE DU CONFLUENT |
+
+|
+
+X |
+
+|
+
+X |
+
+720000199 |
+
+CLINIQUE DU PRE |
+
+|
+
+X |
+
+|
+
+|
+
+440050433 |
+
+CLINIQUE MUTUALISTE DE L'ESTUAIRE |
+
+|
+
+X |
+
+|
+
+X |
+
+440000255 |
+
+CRF LA TOURMALINE |
+
+|
+
+|
+
+|
+
+X |
+
+490000643 |
+
+CSSR LE CHILLON |
+
+|
+
+|
+
+|
+
+X |
+
+440024669 |
+
+CENTRE SOINS DE SUITE LE BOIS RIGNOUX |
+
+|
+
+|
+
+|
+
+X |
+
+490014909 |
+
+CLINIQUE DE L'ANJOU |
+
+|
+
+X |
+
+|
+
+|
+
+490002037 |
+
+POLYCLINIQUE DU PARC |
+
+|
+
+X |
+
+|
+
+|
+
+850000241 |
+
+CH côte de Lumière |
+
+|
+
+X |
+
+X |
+
+|
+
+210987558 |
+
+HOPITAL LE BOCAGE CHRU DIJON |
+
+X |
+
+X |
+
+|
+
+X |
+
+210012670 |
+
+Hopital Privé Dijon Valmy |
+
+|
+
+X |
+
+|
+
+|
+
+210987731 |
+
+CLCC GEORGES-FRANCOIS LECLERC |
+
+|
+
+|
+
+|
+
+X |
+
+250006954 |
+
+CHRU JEAN MINJOZ |
+
+X |
+
+X |
+
+|
+
+X |
+
+250000270 |
+
+CAPIO CLINIQUE SAINT VINCENT BESANCON |
+
+|
+
+X |
+
+|
+
+|
+
+250011848 |
+
+Hospitalia Mutualité PFC |
+
+|
+
+X |
+
+|
+
+|
+
+390000040 |
+
+CH LONS |
+
+|
+
+X |
+
+|
+
+|
+
+580972693 |
+
+HOPITAL PIERRE BEREGOVOY |
+
+X |
+
+|
+
+|
+
+|
+
+700000029 |
+
+GH HAUTE SAONE SITE VESOUL |
+
+X |
+
+|
+
+|
+
+X |
+
+710978289 |
+
+CH LES CHANAUX MACON |
+
+X |
+
+X |
+
+|
+
+X |
+
+710978263 |
+
+CH WILLIAM MOREY CHALON SUR SAONE |
+
+X |
+
+X |
+
+|
+
+|
+
+710780917 |
+
+Hopital Privé Sainte Marie |
+
+|
+
+X |
+
+|
+
+X |
+
+890975550 |
+
+CH Sens |
+
+X |
+
+X |
+
+|
+
+|
+
+890975527 |
+
+CH Auxerre |
+
+|
+
+X |
+
+|
+
+X |
+
+900003039 |
+
+HNFC SITE TREVENANS |
+
+|
+
+X |
+
+|
+
+X |
+
+010009314 |
+
+SSR HOTEL DIEU DE FLEYRIAT |
+
+X |
+
+|
+
+|
+
+|
+
+010000024 |
+
+CENTRE HOSPITALIER DE FLEYRIAT |
+
+X |
+
+|
+
+|
+
+|
+
+070780424 |
+
+CLINIQUE PASTEUR |
+
+|
+
+X |
+
+|
+
+|
+
+260006267 |
+
+CLINIQUE GENERALE VALENCE |
+
+|
+
+X |
+
+|
+
+|
+
+380000034 |
+
+CH PIERRE OUDOT BOURGOIN JALLIEU |
+
+|
+
+|
+
+X |
+
+|
+
+380006288 |
+
+CENTRE DE GERONTOLOGIE SUD-CHUGA |
+
+X |
+
+|
+
+|
+
+X |
+
+380000067 |
+
+HOPITAL NORD-CHU38 |
+
+X |
+
+|
+
+|
+
+X |
+
+380782722 |
+
+HOPITAL SUD-CHU38 |
+
+X |
+
+|
+
+|
+
+X |
+
+420011413 |
+
+HÔPITAL PRIVÉ DE LA LOIRE |
+
+|
+
+X |
+
+|
+
+|
+
+380012658 |
+
+GROUPE HOSPIT. MUTUALISTE DE GRENOBLE |
+
+|
+
+|
+
+|
+
+X |
+
+690023411 |
+
+HOPITAL PRIVE JEAN MERMOZ |
+
+|
+
+X |
+
+X |
+
+|
+
+690022959 |
+
+HOPITAL PRIVE NATECIA |
+
+|
+
+X |
+
+|
+
+|
+
+690780648 |
+
+CLINIQUE DE LA SAUVEGARDE |
+
+|
+
+X |
+
+|
+
+|
+
+690783154 |
+
+HOPITAL EDOUARD HERRIOT-HCL |
+
+X |
+
+|
+
+|
+
+|
+
+690007539 |
+
+HOPITAL FEMME MERE ENFANT-HCL |
+
+X |
+
+|
+
+|
+
+|
+
+690784152 |
+
+HOPITAL CROIX-ROUSSE-HCL |
+
+X |
+
+|
+
+|
+
+|
+
+690784178 |
+
+HOPITAL PIERRE WERTHEIMER-HCL |
+
+X |
+
+|
+
+|
+
+|
+
+690784137 |
+
+HOPITAL LYON SUD-HCL |
+
+X |
+
+|
+
+|
+
+|
+
+690784186 |
+
+HOPITAL LOUIS PRADEL-HCL |
+
+X |
+
+|
+
+|
+
+|
+
+690805361 |
+
+CH ST JOSEPH ST LUC |
+
+X |
+
+X |
+
+|
+
+|
+
+730000031 |
+
+CHMS CHAMBERY NH |
+
+X |
+
+X |
+
+|
+
+|
+
+730783552 |
+
+CHMS CHAMBERY HOTEL DIEU |
+
+X |
+
+X |
+
+|
+
+|
+
+730000098 |
+
+CHMS AIX GRAND PORT |
+
+X |
+
+X |
+
+|
+
+|
+
+730783644 |
+
+CHMS AIX REINE HORTENSE |
+
+X |
+
+X |
+
+|
+
+|
+
+740014345 |
+
+HOPITAL PRIVE PAYS DE SAVOIE |
+
+|
+
+X |
+
+|
+
+|
+
+740781224 |
+
+HÔPITAUX DU MONT BLANC SITE SALLANCHES |
+
+X |
+
+X |
+
+X |
+
+X |
+
+740781166 |
+
+HOPITAUX DU MONT BLANC SITE CHAMONIX |
+
+X |
+
+X |
+
+X |
+
+X |
+
+690788930 |
+
+HAD SOINS ET SANTÉ LYON |
+
+X |
+
+|
+
+X |
+
+X |
+
+690007588 |
+
+HAD SOINS ET SANTÉ VILLEFRANCHE |
+
+X |
+
+|
+
+X |
+
+X |
+
+380008979 |
+
+HAD SOINS ET SANTÉ BOURGOIN |
+
+X |
+
+|
+
+X |
+
+X |
+
+010780278 |
+
+CTRE DE RÉÉDUCATION MANGINI |
+
+|
+
+|
+
+X |
+
+|
+
+010008852 |
+
+CRF L'ORCET SITE DU CH DE FLEYRIAT |
+
+|
+
+|
+
+X |
+
+|
+
+010780252 |
+
+CRF L'ORCET |
+
+|
+
+|
+
+X |
+
+|
+
+070000484 |
+
+CENTRE HOSPITALIER BOIS VERT |
+
+X |
+
+X |
+
+X |
+
+X |
+
+070000609 |
+
+CENTRE HOSPITALIER D'AUBENAS |
+
+X |
+
+X |
+
+X |
+
+X |
+
+380000091 |
+
+CH SAINT MARCELIN |
+
+X |
+
+X |
+
+X |
+
+X |
+
+420780637 |
+
+HOPITAL DU GIER-MCO |
+
+X |
+
+|
+
+|
+
+|
+
+420009599 |
+
+HOPITAL DU GIER-SITE PINAY GERIATRIE |
+
+X |
+
+|
+
+|
+
+|
+
+420780678 |
+
+HOPITAL DU GIER-SITE MARREL SSR |
+
+X |
+
+|
+
+|
+
+|
+
+140000027 |
+
+CENTRE HOSPITALIER DE LISIEUX |
+
+|
+
+|
+
+X |
+
+|
+
+140000209 |
+
+CHU COTE DE NACRE-CAEN |
+
+|
+
+|
+
+X |
+
+X |
+
+500000187 |
+
+CHPC-SITE CHERBOURG |
+
+|
+
+|
+
+X |
+
+|
+
+610000051 |
+
+CHICAM-SITE ALENCON |
+
+|
+
+|
+
+X |
+
+|
+
+610000119 |
+
+CH " JACQUES MONOD "-FLERS |
+
+|
+
+|
+
+X |
+
+|
+
+140017278 |
+
+INSTITUT MEDECINE PHYSIQUE ET READAPTATION |
+
+|
+
+|
+
+X |
+
+|
+
+760000018 |
+
+CH DIEPPE |
+
+|
+
+|
+
+X |
+
+|
+
+760000158 |
+
+HOPITAL CHARLES NICOLLE CHU ROUEN |
+
+|
+
+|
+
+X |
+
+X |
+
+760783522 |
+
+HOPITAL DE BOIS-GUILLAUME CHU ROUEN (SSR) |
+
+|
+
+|
+
+X |
+
+|
+
+760000166 |
+
+CRLCC HENRI BECQUEREL ROUEN |
+
+|
+
+|
+
+|
+
+X |
+
+760805770 |
+
+HOPITAL JACQUES MONOD CH LE HAVRE |
+
+|
+
+|
+
+X |
+
+|
+
+500000021 |
+
+CHAG SITE AVRANCHES |
+
+X |
+
+|
+
+|
+
+|
+
+500000450 |
+
+CENTRE HOSPITALIER MEMORIAL DE ST LÔ |
+
+|
+
+|
+
+|
+
+X |
+
+970200028 |
+
+CTRE HOSP INTERCOM LORRAIN BASSE-POINT |
+
+X |
+
+|
+
+X |
+
+X |
+
+970203493 |
+
+A. T. I. R-U. A. D. 4 |
+
+X |
+
+|
+
+X |
+
+X |
+
+970200051 |
+
+C. H. DES TROIS ILETS |
+
+X |
+
+|
+
+X |
+
+X |
+
+970200044 |
+
+HOPITAL ST ESPRIT |
+
+X |
+
+|
+
+X |
+
+X |
+
+970203303 |
+
+CSSR LA VALERIANE |
+
+X |
+
+|
+
+X |
+
+X |
+
+970202313 |
+
+CLINIQUE SAINT PAUL |
+
+X |
+
+|
+
+X |
+
+X |
+
+970200069 |
+
+CENTRE HOSPITALIER MAURICE DESPINOY |
+
+X |
+
+|
+
+X |
+
+X |
+
+970200101 |
+
+CENTRE HOSPITALIER ERNEST WAN-AJOUHU |
+
+X |
+
+|
+
+X |
+
+X |
+
+970200077 |
+
+HOPITAL ROMAIN BLONDET |
+
+X |
+
+|
+
+X |
+
+X |
+
+970212833 |
+
+CLINIQUE DE LA TOUR HOSP. A DOMICILE |
+
+X |
+
+|
+
+X |
+
+X |
+
+970211215 |
+
+CHU DE MARTINIQUE SITE P. ZOBDA QUITMAN |
+
+X |
+
+|
+
+X |
+
+X |
+
+970211231 |
+
+CHU DE MARTINIQUE SITE MANGOT VULCIN |
+
+X |
+
+|
+
+X |
+
+X |
+
+970211223 |
+
+CHU DE MARTINIQUE SITE DE TRINITE |
+
+X |
+
+|
+
+X |
+
+X |
+
+970211173 |
+
+C. H NORD CARAIBE-SITE SAINT PIERRE |
+
+X |
+
+|
+
+X |
+
+X |
+
+060780715 |
+
+CLINIQUE SAINT GEORGE |
+
+|
+
+X |
+
+|
+
+|
+
+060001450 |
+
+CHU DE NICE HOPITAL SAINT ROCH |
+
+|
+
+|
+
+X |
+
+|
+
+060785003 |
+
+CHU DE NICE HOPITAL PASTEUR |
+
+|
+
+|
+
+X |
+
+|
+
+060788957 |
+
+CHU DE NICE HOPITAL DE CIMIEZ |
+
+|
+
+|
+
+X |
+
+|
+
+060789195 |
+
+CHU DE NICE HOPITAL DE L'ARCHET |
+
+|
+
+|
+
+X |
+
+|
+
+130043664 |
+
+HOPITAL EUROPEEN |
+
+|
+
+|
+
+X |
+
+X |
+
+130781289 |
+
+POLYCLINIQUE DU PARC RAMBOT PROVENCALE |
+
+|
+
+X |
+
+|
+
+|
+
+130785652 |
+
+HOPITAL SAINT JOSEPH |
+
+|
+
+|
+
+X |
+
+X |
+
+130000409 |
+
+CHI SITE D'AIX EN PROVENCE |
+
+|
+
+|
+
+|
+
+X |
+
+130780521 |
+
+APHM HOPITAL NORD |
+
+|
+
+|
+
+|
+
+X |
+
+130783236 |
+
+APHM HOPITAL DE LA CONCEPTION |
+
+|
+
+|
+
+|
+
+X |
+
+130783293 |
+
+APHM HOPITAL LA TIMONE ADULTES |
+
+|
+
+|
+
+|
+
+X |
+
+130784234 |
+
+APHM HOPITAUX SUD SAINTE MARGUERITE |
+
+|
+
+|
+
+|
+
+X |
+
+130804297 |
+
+APHM HOPITAL LA TIMONE ENFANTS |
+
+|
+
+|
+
+|
+
+X |
+
+050000348 |
+
+CHI DES ALPES DU SUD SITE DE GAP |
+
+|
+
+|
+
+X |
+
+X |
+
+830000345 |
+
+CHITS CH SAINTE MUSSE |
+
+|
+
+|
+
+X |
+
+|
+
+830100608 |
+
+CHITS CH GEORGE SAND LA SEYNE SUR MER |
+
+|
+
+|
+
+X |
+
+|
+
+590780284 |
+
+GPT HOPITAUX INSTITUT CATHOLIQUE LILLE |
+
+|
+
+|
+
+X |
+
+|
+
+590797353 |
+
+HOPITAL SAINT VINCENT-SAINT ANTOINE |
+
+|
+
+|
+
+X |
+
+|
+
+590000188 |
+
+CLCC OSCAR LAMBRET LILLE |
+
+|
+
+|
+
+|
+
+X |
+
+620101501 |
+
+HOPITAL PRIVE DE BOIS BERNARD |
+
+|
+
+X |
+
+|
+
+|
+
+620100099 |
+
+Hôpital Privé les Bonnettes |
+
+|
+
+X |
+
+|
+
+|
+
+620025346 |
+
+Polyclinique de la Clarence |
+
+|
+
+X |
+
+|
+
+|
+
+590000618 |
+
+CH VALENCIENNES |
+
+|
+
+X |
+
+X |
+
+|
+
+590008041 |
+
+POLYCLINIQUE VAUBAN |
+
+|
+
+X |
+
+|
+
+|
+
+590796975 |
+
+HOPITAL SALENGRO-HOPITAL B CHR LILLE |
+
+|
+
+X |
+
+X |
+
+|
+
+590811279 |
+
+HOPITAL CLAUDE HURIEZ CHR LILLE |
+
+|
+
+X |
+
+X |
+
+|
+
+590782298 |
+
+Polyclinique du Parc de Saint Saulve |
+
+|
+
+X |
+
+|
+
+|
+
+180000010 |
+
+CH BOURGES-JACQUES COEUR |
+
+|
+
+|
+
+X |
+
+|
+
+280504267 |
+
+CH CHARTRES LOUIS PASTEUR-LE COUDRAY |
+
+|
+
+|
+
+X |
+
+|
+
+280000084 |
+
+CH DREUX |
+
+|
+
+|
+
+X |
+
+|
+
+360000160 |
+
+CH DU BLANC |
+
+|
+
+|
+
+X |
+
+|
+
+360008072 |
+
+CH CHATEAUROUX-ANTENNE CH ISSOUDUN |
+
+|
+
+|
+
+X |
+
+|
+
+360000137 |
+
+CH CHATEAUROUX |
+
+|
+
+|
+
+X |
+
+|
+
+360008056 |
+
+CH CHATEAUROUX-ANTENNE DU BLANC |
+
+|
+
+|
+
+X |
+
+|
+
+360008064 |
+
+CH CHATEAUROUX-ANTENNE CH CHATILLON |
+
+|
+
+|
+
+X |
+
+|
+
+360000327 |
+
+CH CHATEAUROUX SITE GIREUGNE-ST MAUR |
+
+|
+
+|
+
+X |
+
+|
+
+370000861 |
+
+CHRU BRETONNEAU-TOURS |
+
+|
+
+|
+
+X |
+
+|
+
+370000499 |
+
+CHRU CLOCHEVILLE-TOURS |
+
+|
+
+|
+
+X |
+
+|
+
+370004467 |
+
+CHRU TROUSSEAU-CHAMBRAY |
+
+|
+
+|
+
+X |
+
+|
+
+410000020 |
+
+CH BLOIS SIMONE VEIL |
+
+|
+
+|
+
+X |
+
+|
+
+410004410 |
+
+CH DE BLOIS SITE LA ROSELIERE |
+
+|
+
+|
+
+X |
+
+|
+
+450002613 |
+
+CHR ORLÉANS-HÔPITAL DE LA SOURCE |
+
+|
+
+|
+
+X |
+
+|
+
+450000062 |
+
+CH AGGLOMERATION MONTARGOISE |
+
+|
+
+|
+
+X |
+
+|
