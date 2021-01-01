@@ -900,7 +900,9 @@ Service médical de prévention de Vannes (Morbihan).
 
 Service médical de prévention de Versailles-Satory (Yvelines).
 
-Service des essences des armées
+Service
+
+de l'énergie opérationnelle
 
 Centre de ravitaillement du SEA de La Courneuve (Seine-Saint-Denis) et laboratoire annexe.
 

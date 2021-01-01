@@ -4,7 +4,7 @@ TABLEAU IV
 
 EMPLOIS DE DIRECTEUR ADJOINT, ADJOINT À UN DIRECTEUR ET ASSIMILÉ
 
-A. - Emplois de directeur-adjoint
+A.-Emplois de directeur-adjoint
 
 DÉSIGNATION DE L'EMPLOI |
 
@@ -124,13 +124,13 @@ Adjoint au directeur des ressources humaines de l'armée de l'air |
 
 100 |
 
-Directeur central adjoint du service des essences des armées |
+Directeur central adjoint du service de l'énergie opérationnelle |
 
 1 |
 
 110 |
 
-B. - Emplois d'adjoint à un directeur et assimilé
+B.-Emplois d'adjoint à un directeur et assimilé
 
 DÉSIGNATION DE L'EMPLOI |
 

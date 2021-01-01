@@ -2,7 +2,7 @@
 
 TABLEAU VII
 
-Fonctions relevant du service des essences des armées
+Fonctions relevant du service de l'énergie opérationnelle
 
 DÉSIGNATION DE L'EMPLOI |
 

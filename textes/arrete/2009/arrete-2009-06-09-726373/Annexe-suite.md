@@ -194,7 +194,7 @@ Directeur central du service de santé des armées |
 
 140 |
 
-Directeur central du service des essences des armées |
+Directeur du service de l'énergie opérationnelle |
 
 1 |
 

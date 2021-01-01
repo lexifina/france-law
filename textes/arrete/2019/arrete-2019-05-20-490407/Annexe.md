@@ -2,37 +2,39 @@
 
 ANNEXE
 
-Force armée
+Force armée ou
 
-ou formation
+formation
 
 rattachée |
 
-Type d'engagement |
+Type
+
+d'engagement |
 
 Nombre maximum
 
 de primes |
 
-Montant minimum
+Montant minimum de la prime (€) |
 
-de la prime (€) |
+Montant maximum de la prime (€) |
 
-Montant maximum
+Montant
 
-de la prime (€) |
+des primes
 
-Montant des primes
+attribuées en 2021
 
-attribuées
+(M€) |
 
-en 2020 (M€) |
+Montant
 
-Montant des primes
+des primes attribuées
 
-attribuées et versées
+et versées
 
-en 2020 (M€) |
+en 2021 (M€) |
 
 Familles professionnelles/filières
 
@@ -42,31 +44,31 @@ Armée de terre |
 
 Engagement à servir général (ESG) |
 
-4 175 |
-
-900 |
+4 376 |
 
 4 000 |
 
-13,13 |
+5 000 |
 
-13,13 |
+19,10 |
 
-Toutes |
+19,10 |
+
+Toutes. |
 
 Engagement à servir spécifique (ESS) |
 
-954 |
+1 737 |
 
 5 000 |
 
-10 000 |
+20 000 |
 
-7,63 |
+14,69 |
 
-3,13 |
+6,59 |
 
-Commandement et contrôle aérospatial ; Conduite des aéronefs ; Maintenance des matériels terrestres ; Maintien en condition opérationnelle aéronautique ; Renseignement ; Gestion des ressources humaines ; Systèmes d'information et de communication ; Logistique supply chain ; Aide à la décision ; Affaires juridiques ; Communication ; Munitions et pyrotechnie ; Restauration Hôtellerie et Loisirs ; Opérations en milieu terrestre ; Infrastructures et politiques immobilières |
+Commandement et contrôle aérospatial ; Conduite des aéronefs ; Maintenance des matériels terrestres ; Maintien en condition opérationnelle aéronautique ; Renseignement ; Gestion des ressources humaines ; Systèmes d'information et de communication ; Logistique supply chain ; Aide à la décision ; Affaires juridiques ; Communication ; Soutien munitions et pyrotechnie ; Restauration Hôtellerie et Loisirs, Opérations en milieu terrestre ; Infrastructures et politiques immobilières, Sécurité secours incendie, Environnement social et sciences humaines, Systèmes de forces, systèmes d'armes et équipement ; Santé et sécurité au travail ; Entrainement physique et sportif ; Finances ; Achats ; Santé ; Administration management transverses ; Musique ; Soutien de l'homme. |
 
 Armée de l'air |
 
@@ -86,17 +88,17 @@ ESG |
 
 ESS |
 
-5 120 |
+4 775 |
 
 600 |
 
 25 000 |
 
-16,18 |
+15,91 |
 
-4,76 |
+6,00 |
 
-Conduite des aéronefs ; Commandement et contrôle aérospatial ; Maintien en condition opérationnelle aéronautique ; Systèmes d'information et de communication ; Renseignement ; Munitions et pyrotechnie ; Maintenance des matériels terrestres ; Opérations en milieu terrestre ; Infrastructures et politique immobilière ; Exploitation nucléaire de Défense. |
+Conduite des aéronefs ; Commandement et contrôle aérospatial ; Maintien en condition opérationnelle aéronautique ; Systèmes d'information et de communication ; Renseignement ; Munitions et pyrotechnie ; Opérations en milieu terrestre ; Infrastructures et politique immobilière. ; Sécurité secours incendie ; Gestion des ressources humaines. |
 
 Marine nationale |
 
@@ -116,15 +118,15 @@ ESG |
 
 ESS |
 
-4 209 |
+3 042 |
 
 600 |
 
 25 000 |
 
-15,51 |
+13,05 |
 
-4,14 |
+4,59 |
 
 Opérations en milieu maritime ; Exploitation nucléaire de défense ; Systèmes de forces, systèmes d'armes et équipement ; Renseignement ; Infrastructures et politique immobilière ; Opérations en milieu terrestre ; Commandement et contrôle aérospatial ; Systèmes d'information et de communication ; Logistique supply chain ; Maintien en condition opérationnelle aéronautique ; Munitions et pyrotechnie ; Maintenance des matériels terrestres ; Conduite des aéronefs ; Soutien pétrolier ; Enseignement général ; Restauration, hôtellerie et loisirs. |
 
@@ -132,33 +134,33 @@ Service du commissariat des armées |
 
 ESG |
 
-9 |
-
-10 000 |
+2 |
 
 20 000 |
 
-0,15 |
+20 000 |
 
-0,11 |
+0,04 |
+
+0,03 |
 
 Achats ; Finances/droits financiers individuels ; Logistique supply chain ; Systèmes d'information et de communication/management des systèmes d'information |
 
 ESS |
 
-21 |
-
-5 000 |
+9 |
 
 10 000 |
 
-0,18 |
+10 000 |
 
-0,06 |
+0,09 |
 
-Achats, Finances/droits financiers individuels ; logistique supply chain ; Systèmes d'information et de communication/management des systèmes d'information |
+0,07 |
 
-Service des essences des armées |
+Achats, Logistique supply chain ; Systèmes d'information et de communication/management des systèmes d'information, Gestion des ressources humaines/droits financiers individuels. |
+
+Service de l'énergie opérationnelle |
 
 ESG |
 
@@ -176,98 +178,70 @@ ESG |
 
 ESS |
 
-50 |
+77 |
 
 4 000 |
 
 10 000 |
 
-0,22 |
+0,35 |
 
-0,22 |
+0,35 |
 
-Soutien pétrolier/maintenance matériels pétroliers ; Opérations en milieu terrestre/ISTC |
+Soutien pétrolier/maintenance matériels pétroliers ; Opérations en milieu terrestre/ISTC. |
 
 Service de santé des armées |
 
 ESG (praticiens officiers) |
 
-100 |
+68 |
 
 25 000 |
 
 25 000 |
 
-2,50 |
+1.70 |
 
-0,75 |
+0,90 |
 
-Santé/ Anesthésie-réanimation, Chirurgie orthopédique, chirurgie viscérale, médecins des forces, psychiatrie, neurochirurgie, médecine d'urgence en exercice hospitalier, médecine du travail, de prévention, radiologie |
+Santé/ Anesthésie-réanimation, Chirurgie orthopédique ; Chirurgie viscérale, vasculaire, thoracique, urologique ; Chirurgies tête et cou ; Médecine d'urgence en exercice hospitalier ; Médecine interne ; Médecine des forces ; Psychiatrie ; Radiologie ; Médecine du travail ; De prévention ; Biologie médicale. |
 
 ESS (praticiens officiers) |
 
-12 |
+19 |
 
 25 000 |
 
 25 000 |
 
-0,30 |
+0,47 |
 
-0,10 |
-
-Nouveau dispositif attractivité attribué au 1er semestre 2020 aux praticiens, et reconduction du dispositif pour les MITHA. |
+0,47 |
 
 ESG (MITHA sous-officiers) |
 
-120 |
+169 |
 
 1 080 |
 
 5 430 |
 
-0,56 |
+0,86 |
 
-0,08 |
+0,12 |
 
 ESS (MITHA sous-officiers) |
 
-240 |
+200 |
 
 762 |
 
 8 000 |
 
-0,95 |
+0,47 |
 
-0,20 |
+0,12 |
 
-Service de la justice militaire |
+NOTA :
 
-ESG |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-ESS |
-
-1 |
-
-15 000 |
-
-15 000 |
-
-0,02 |
-
-0,00 |
-
-Affaires juridiques. |
+Conformément à l’article 3 de l’arrêté du 11 décembre 2020 (NOR : ARMH2031268A), ces dispositions entrent en vigueur le 1er janvier 2021.

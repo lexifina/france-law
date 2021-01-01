@@ -240,13 +240,13 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national et de la jeunesse de Nîmes ;
+-centre du service national et de la jeunesse de Nîmes ;
 
-- centre du service national et de la jeunesse de Nice ;
+-centre du service national et de la jeunesse de Nice ;
 
-- centre du service national et de la jeunesse de Marseille ;
+-centre du service national et de la jeunesse de Marseille ;
 
-- centre du service national et de la jeunesse de Perpignan.
+-centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -292,7 +292,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90).
 
-Agents en fonctions au sein du service des essences des armées.
+Agents en fonctions au sein du service de l'énergie opérationnelle.
 
 Agents en fonctions en Allemagne. |
 
@@ -710,13 +710,13 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national et de la jeunesse de Nîmes ;
+-centre du service national et de la jeunesse de Nîmes ;
 
-- centre du service national et de la jeunesse de Nice ;
+-centre du service national et de la jeunesse de Nice ;
 
-- centre du service national et de la jeunesse de Marseille ;
+-centre du service national et de la jeunesse de Marseille ;
 
-- centre du service national et de la jeunesse de Perpignan.
+-centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -764,7 +764,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Belfort (90).
 
-Agents en fonctions au sein du service des essences des armées.
+Agents en fonctions au sein du service de l'énergie opérationnelle.
 
 Agents en fonctions en Allemagne. |
 
@@ -1218,13 +1218,13 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national et de la jeunesse de Nîmes ;
+-centre du service national et de la jeunesse de Nîmes ;
 
-- centre du service national et de la jeunesse de Nice ;
+-centre du service national et de la jeunesse de Nice ;
 
-- centre du service national et de la jeunesse de Marseille ;
+-centre du service national et de la jeunesse de Marseille ;
 
-- centre du service national et de la jeunesse de Perpignan.
+-centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -1270,7 +1270,7 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 -Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90).
 
-Agents en fonctions au sein du service des essences des armées.
+Agents en fonctions au sein du service de l'énergie opérationnelle.
 
 Agents en fonctions en Allemagne. |
 
@@ -1676,13 +1676,13 @@ Secrétaire administratif de classe supérieure |
 
 Agents en fonctions dans les organismes extérieurs de la direction du service national suivants :
 
-- centre du service national et de la jeunesse de Nîmes ;
+-centre du service national et de la jeunesse de Nîmes ;
 
-- centre du service national et de la jeunesse de Nice ;
+-centre du service national et de la jeunesse de Nice ;
 
-- centre du service national et de la jeunesse de Marseille ;
+-centre du service national et de la jeunesse de Marseille ;
 
-- centre du service national et de la jeunesse de Perpignan.
+-centre du service national et de la jeunesse de Perpignan.
 
 Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
 
@@ -1728,7 +1728,7 @@ Secrétaire administratif de classe supérieure |
 
 2 |
 
-Agents en fonctions au sein du service des essences des armées.
+Agents en fonctions au sein du service de l'énergie opérationnelle.
 
 Agents en fonctions en Allemagne. |
 

@@ -140,7 +140,7 @@ Paris à compter
 
 du 1er septembre 2020 |
 
-Personnel civil hors administration centrale dans un établissement du service des essences des armées |
+Personnel civil hors administration centrale dans un établissement du service de l'énergie opérationnelle |
 
 Tous départements |
 

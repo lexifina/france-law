@@ -560,7 +560,7 @@ NR 2 et NR 3
 
 TABLEAU VI
 
-Emplois relevant du service des essences des armées
+Emplois relevant du service de l'énergie opérationnelle
 
 (en vigueur le 1er août 2004)
 

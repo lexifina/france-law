@@ -58,7 +58,7 @@ CT de la base de défense de Guyane.
 
 CT de la base de défense d'Ile-de-France.
 
-CT de la base de défense d'Istres - Salon-de-Provence.
+CT de la base de défense d'Istres-Salon-de-Provence.
 
 CT de la base de défense de La Réunion-Mayotte.
 
@@ -66,7 +66,7 @@ CT de la base de défense de La Valbonne.
 
 CT de la base de défense de Lille.
 
-CT de la base de défense de Lyon - Mont-Verdun.
+CT de la base de défense de Lyon-Mont-Verdun.
 
 CT de la base de défense de Marseille-Aubagne.
 
@@ -90,7 +90,7 @@ CT de la base de défense de Pau-Bayonne-Tarbes.
 
 CT de la base de défense de Phalsbourg.
 
-CT de la base de défense de Poitiers - Saint-Maixent.
+CT de la base de défense de Poitiers-Saint-Maixent.
 
 CT de la base de défense de Polynésie française.
 
@@ -100,7 +100,7 @@ CT de la base de défense de Rochefort-Cognac.
 
 CT de la base de défense de Saint-Christol.
 
-CT de la base de défense de Saint-Dizier - Chaumont.
+CT de la base de défense de Saint-Dizier-Chaumont.
 
 CT de la base de défense de Strasbourg-Haguenau.
 
@@ -138,7 +138,7 @@ CT de réseau de la direction interarmées des réseaux d'infrastructure et des 
 
 CT de réseau du centre de pilotage et de conduite du soutien.
 
-CT de réseau du service des essences des armées et du service interarmées des munitions.
+CT de réseau du service de l'énergie opérationnelle et du service interarmées des munitions.
 
 III-5. Comités techniques de centre ministériel de gestion :
 

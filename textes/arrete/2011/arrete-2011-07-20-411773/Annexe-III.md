@@ -90,7 +90,7 @@ Le directeur central du service industriel de l'aéronautique ;
 
 Le directeur central du service de soutien de la flotte ;
 
-Le directeur central du service des essences des armées ;
+Le directeur du service de l'énergie opérationnelle ;
 
 Le directeur central du service du commissariat des armées ;
 
