@@ -1,9 +1,0 @@
-# Article XI.5
-
-La couverture “ frais de santé ” a pour objet d'assurer le remboursement total ou partiel des dépenses de santé engagées par le salarié, en complétant acte par acte, les prestations versées par la sécurité sociale, dans la limite des frais engagés.
-
-Les prestations du régime complémentaire santé de la branche sont définies par un régime socle de base. Il est également prévu une option facultative permettant d'améliorer les garanties du régime socle de base. Les garanties du régime socle de base et de l'option facultative sont les suivantes :
-
-(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
-
-https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0004/ boc _ 20200004 _ 0000 _ 0020. pdf
