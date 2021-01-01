@@ -1,73 +1,81 @@
 # Article Annexe 1
 
-FORMULAIRE DE DEMANDE D'AIDE À LA SÉCURITÉ
+F
 
-A adresser à la direction régionale des douanes et droits indirects territorialement compétente
+ormulaire de demande d’aide à la sécurité
+
+À adresser à la direction régionale des douanes et droits indirects territorialement compétente.
 
 Nom du débitant : ________________________________________
 
-Prénom du débitant : ______________________________________
+Prénom du débitant :______________________________________
 
 N° débit (code DGDDI) : __________________________________
 
 N° SIRET : _____________________________________________
 
-N° de téléphone : _________________________________________
+N° de téléphone : ________________________________________
 
-Adresse mail : ________________________________@_______________________
+Adresse mail : _________________________@_______________________
 
 La demande concerne le ou les prestations ou matériel(s) suivant(es) :
 
-☐ Etude de sécurité préalable ;
+☐ Étude préalable de sécurité ;
 
-☐ Coffre fort ;
+☐ Coffre-fort / serrure du coffre-fort (en cas de remplacement ou d’ajout) ;
 
-☐ Serrure ; cylindre ; verrous ;
+☐ Serrure / cylindre / verrou (en cas de remplacement ou d’ajout – à l’exclusion des matériels équipant d’origine les portes ou blocs-portes) ;
 
-☐ Porte ou bloc porte ;
+☐ Porte blindée / porte-vitrée en verre de sécurité ;
 
-☐ Vitre anti-effraction ;
+☐ Vitres anti-effraction destinées aux devantures, vitrines et fenêtres fixes ;
 
-☐ Système d'alarme simple ;
+☐ Système d’alarme / générateur de brouillard / lampe stroboscopique / ou partie du système d’alarme (en cas de remplacement ou d’ajout) ;
 
-☐ Système d'alarme avec générateur de brouillard ;
+☐ Rideau métallique / grille métallique / matériel en renforçant l’efficacité / moteur / axe / serrure anti-arrachement ;
 
-☐ Rideau métallique ;
-
-☐ Matériel renforçant l'efficacité des rideaux métalliques ;
-
-☐ Grille métallique ;
-
-☐ Balises ;
+☐ Balises / Dispositif de sécurité mobile pour les déplacements du débitant ;
 
 ☐ Barreaux ;
 
-☐ Bornes ou murets ;
+☐ Bornes anti-bélier ;
 
-☐ Vidéosurveillance (vidéoprotection) ;
+☐ Système de vidéosurveillance / ou partie du système de vidéosurveillance (en cas de remplacement ou d’ajout) ;
 
-☐ Appareil de distribution de tabac sécurisé ;
-
-☐ Dispositif de sécurité mobile pour les déplacements du débitant.
+☐ Appareil de distribution de tabac sécurisé.
 
 Les pièces justificatives à joindre à la demande :
 
-☐ La ou les factures acquittées pour chacun des matériels
+☐ La ou les factures acquittée(s) pour chacun des matériels (facture détaillée reprenant par matériel la période de garantie, le coût de la main d’œuvre liée à la pose et le cas échéant les normes et certifications requises) ;
 
-☐ Les documents reprenant les normes requises pour chaque matériel
+☐ Tout document attestant du respect des normes ou certifications requises pour chaque matériel ;
 
-☐ Le plan des locaux en indiquant précisément l'emplacement envisagé pour l'installation du ou des matériels
+☐ Un plan des locaux indiquant précisément l’emplacement du ou des matériels (et le cas échéant l’angle de vue et le champ de vision des caméras installées) ;
 
-☐ Un relevé d'identité bancaire ou postal
+☐ Une attestation contre le vol du débit, délivrée par l’assureur a posteriori de l’installation du matériel (hors cas de remplacement) ;
 
-Selon les cas, votre demande peut être complétée par les pièces justificatives suivantes :
+☐ Un relevé d’identité bancaire ou postal.
 
-☐ Une attestation de l'assureur suite à un sinistre ;
+Le cas échéant :
 
-☐ Copie de la déclaration préfectorale ou de l'autorisation préfectorale pour les vidéosurveillances ;
+☐ Une attestation de l’assureur suite à un sinistre ;
+
+☐ Un rapport d’étude préalable de sécurité, telle que visée à l’annexe 2 de l’arrêté ;
 
 ☐ Attestation préfectorale ou municipale de non prise en charge des matériels installés sur le domaine public
 
-Date de la présente demande : Signature du débitant
+☐ Une attestation sur l’honneur pour toute demande de remplacement d’un matériel, ou partie de matériel, installé(e) et hors d’usage (attestation de non fonctionnement du matériel, de non couverture par une garantie et de non indemnisation par une assurance en cas de sinistre).
 
-et cachet de la société
+☐ Une copie de la demande d’autorisation préfectorale d’installation de vidéosurveillance filmant du public ;
+
+☐ Une copie du contrat de location-vente du matériel.
+
+Précision importante
+
+:
+
+Les systèmes de vidéosurveillance mis en œuvre sur la voie publique ou dans des lieux et établissements ouverts au public relèvent du régime juridique fixé par les articles 10 et 10-1 de la loi n° 95-73 du 21 janvier 1995 d’orientation et de programmation relative à la sécurité. L’installation de tels systèmes est soumise à l’obtention d’une autorisation préfectorale qui devra être produite en cas de contrôle.
+
+Fait à ________________________________________ le, _________________.
+
+Cachet et signature
