@@ -2,15 +2,15 @@
 
 LISTE DES SUBSTANCES CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉE À L'ARTICLE L. 213-10-8 DU CODE DE L'ENVIRONNEMENT
 
-1. Appartenant, en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
+1. Appartenant, en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-Nom substance |
+Nom de la substance |
 
-Numéro CAS |
+numéro CAS |
 
 * |
 
-Règlement |
+règlement |
 
 6-benzyladénine |
 
@@ -76,6 +76,14 @@ Alpha naphtyl acétamide (NAD) |
 
 540/2011 |
 
+Aminotriazole |
+
+61-82-5 |
+
+|
+
+540/2011 |
+
 Amisulbrom |
 
 348635-87-0 |
@@ -136,7 +144,7 @@ Bromoxynil |
 
 1689-84-5 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -144,7 +152,7 @@ Bromoxynil octanoate |
 
 1689-99-2 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -204,17 +212,17 @@ Cintofen |
 
 540/2011 |
 
-Coumafène (warfarin) |
-
-81-81-2 |
-
-exclusion |
-
-540/2011 |
-
 Cycloxydime |
 
 101205-02-1 |
+
+|
+
+540/2011 |
+
+cyflumétofène |
+
+400882-07-7 |
 
 |
 
@@ -492,6 +500,14 @@ Mepanipyrim |
 
 540/2011 |
 
+Métaldéhyde |
+
+108-62-3 |
+
+|
+
+540/2011 |
+
 Métazachlore |
 
 67129-08-2 |
@@ -556,6 +572,14 @@ Oxadiargyl |
 
 540/2011 |
 
+Oxyde d'éthylene |
+
+75-21-8 |
+
+exclusion |
+
+540/2011 |
+
 Oxyfluorfène |
 
 42874-03-3 |
@@ -575,6 +599,22 @@ Paclobutrazol |
 Penconazole |
 
 66246-88-6 |
+
+|
+
+540/2011 |
+
+Phosmet |
+
+732-11-6 |
+
+|
+
+540/2011 |
+
+Picoxystrobine |
+
+117428-22-5 |
 
 |
 
@@ -615,14 +655,6 @@ substitution |
 Proquinazid |
 
 189278-12-4 |
-
-|
-
-540/2011 |
-
-Prothioconazole |
-
-178928-70-6 |
 
 |
 
@@ -744,7 +776,7 @@ Thiophanate-méthyl |
 
 23564-05-8 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -780,17 +812,15 @@ Valifénalate |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article..
+2. Appartenant, en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-2. Appartenant, en raison de leur toxicité aiguë de catégorie 1, 2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
+Nom de la substance |
 
-Nom substance |
-
-Numéro CAS |
+numéro CAS |
 
 * |
 
-Règlement |
+règlement |
 
 1,3-dichloropropène |
 
@@ -820,7 +850,7 @@ Alphaméthrine |
 
 67375-30-8 |
 
-|
+substitution |
 
 540/2011 |
 
@@ -866,7 +896,7 @@ substitution |
 
 Cuivre de l'oxychlorure de cuivre |
 
-1332-65-6 |
+1332-40-7 |
 
 substitution |
 
@@ -874,7 +904,7 @@ substitution |
 
 Cuivre de l'oxychlorure de cuivre |
 
-1332-40-7 |
+1332-65-6 |
 
 substitution |
 
@@ -891,14 +921,6 @@ Cyfluthrine |
 Deltaméthrine |
 
 52918-63-5 |
-
-|
-
-540/2011 |
-
-Diméthoate |
-
-60-51-5 |
 
 |
 
@@ -1128,6 +1150,14 @@ Téfluthrine |
 
 540/2011 |
 
+Triazoxide |
+
+72459-58-6 |
+
+|
+
+540/2011 |
+
 Zétacyperméthrine |
 
 52315-07-8 |
@@ -1144,17 +1174,15 @@ Zirame |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention "substitution" et soumises aux taux additionnels prévus au III du même article.
+3. Appartenant, en raison de leur toxicité aiguë pour le milieu aquatique de catégorie 1 ou de leur toxicité chronique pour le milieu aquatique de catégorie 1 ou 2, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-3. Appartenant, en raison de leur toxicité aiguë pour le milieu aquatique de catégorie 1 ou de leur toxicité chronique pour le milieu aquatique de catégorie 1 ou 2, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
+Nom de la substance |
 
-Nom substance |
-
-Numéro CAS |
+numéro CAS |
 
 * |
 
-Règlement |
+règlement |
 
 (Z)-8-dodecenol |
 
@@ -1332,22 +1360,6 @@ Boscalid |
 
 540/2011 |
 
-bouillie bordelaise (cuivre du sulfate de cuivre) |
-
-8011-63-0 |
-
-substitution |
-
-540/2011 |
-
-Bouillie bordelaise (Cuivre du sulfate tétracuivrique et tricalcique) |
-
-8011-63-0 |
-
-substitution |
-
-540/2011 |
-
 Bromuconazole |
 
 116255-48-2 |
@@ -1436,11 +1448,19 @@ substitution |
 
 540/2011 |
 
-cuivre du sulfate de cuivre |
+Cuivre du sulfate de cuivre |
 
-7758-98-7 |
+8011-63-0 |
 
-|
+substitution |
+
+540/2011 |
+
+Cuivre du sulfate tétracuivrique et tricalcique |
+
+8011-63-0 |
+
+substitution |
 
 540/2011 |
 
@@ -1772,7 +1792,7 @@ Glyphosate |
 
 540/2011 |
 
-Halauxifène-méthyl |
+Halauxifen-méthyl |
 
 943831-98-9 |
 
@@ -1964,6 +1984,14 @@ Métirame |
 
 540/2011 |
 
+Métirame-zinc |
+
+9006-42-2 |
+
+|
+
+540/2011 |
+
 Métrafénone |
 
 220899-03-6 |
@@ -2076,14 +2104,6 @@ Phenmédiphame |
 
 540/2011 |
 
-Phosmet |
-
-732-11-6 |
-
-|
-
-540/2011 |
-
 Piclorame |
 
 1918-02-1 |
@@ -2095,14 +2115,6 @@ Piclorame |
 Picolinafen |
 
 137641-05-5 |
-
-|
-
-540/2011 |
-
-Picoxystrobine |
-
-117428-22-5 |
 
 |
 
@@ -2172,9 +2184,25 @@ substitution |
 
 540/2011 |
 
+Prothioconazole |
+
+178928-70-6 |
+
+|
+
+540/2011 |
+
 Pyraflufen-éthyl |
 
 129630-19-9 |
+
+|
+
+540/2011 |
+
+Pyrèthres naturels |
+
+8003-34-7 |
 
 |
 
@@ -2300,6 +2328,14 @@ Sulfosulfuron |
 
 540/2011 |
 
+Sulfoxaflor |
+
+946578-00-3 |
+
+|
+
+540/2011 |
+
 Tau-fluvalinate |
 
 102851-06-9 |
@@ -2388,14 +2424,6 @@ Triallate |
 
 540/2011 |
 
-Triazoxide |
-
-72459-58-6 |
-
-|
-
-540/2011 |
-
 Tribénuron-méthyle |
 
 101200-48-0 |
@@ -2452,17 +2480,15 @@ Zoxamide |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention substitution et soumises aux taux additionnels prévus au III du même article.
+4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008 :
+Nom de la substance |
 
-Nom substance |
-
-Numéro CAS |
+numéro CAS |
 
 * |
 
-Règlement |
+règlement |
 
 2,4-d |
 
@@ -2480,7 +2506,7 @@ Acétamipride |
 
 540/2011 |
 
-Acide décanoique |
+Acide décanoïque |
 
 334-48-5 |
 
@@ -2488,7 +2514,7 @@ Acide décanoique |
 
 540/2011 |
 
-Acide octanoique |
+Acide octanoïque |
 
 124-07-2 |
 
@@ -2531,6 +2557,14 @@ Dicamba dimethylammonium |
 Diflufénicanil |
 
 83164-33-4 |
+
+|
+
+540/2011 |
+
+Diméthoate |
+
+60-51-5 |
 
 |
 
@@ -2600,4 +2634,8 @@ Triclopyr |
 
 540/2011 |
 
-(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention substitution et soumises aux taux additionnels prévus au III du même article.
+* Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention substitution et soumises aux taux additionnels prévus au III du même article.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 7 décembre 2020, ces dispositions sont applicables à compter du 1er janvier 2021.
