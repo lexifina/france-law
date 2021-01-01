@@ -2,7 +2,7 @@
 
 Tableaux des titres de formation professionnelle maritime et des prérogatives associées
 
-Tableau I. - Titres permettant d'exercer des fonctions au pont sur des navires armés au commerce
+Tableau I.-Titres permettant d'exercer des fonctions au pont sur des navires armés au commerce
 
 |
 
@@ -344,9 +344,9 @@ X |
 
 Pour les navires armés au commerce et à la plaisance, voir également le tableau IX
 
-Tableau II. - Titres permettant d'exercer des fonctions au pont sur des navires armés à la plaisance
+Tableau II.-Titres permettant d'exercer des fonctions au pont sur des navires armés à la plaisance
 
-Tableau II.a. Titres permettant d'exercer des fonctions au pont sur des navires à propulsion mécanique armés à la plaisance
+Tableau II. a. Titres permettant d'exercer des fonctions au pont sur des navires à propulsion mécanique armés à la plaisance
 
 |
 
@@ -466,7 +466,7 @@ X |
 
 Les brevets mentionnés dans le tableau I permettent également d'exercer des fonctions opérationnelles et de direction sur les navires armés à la plaisance à propulsion mécanique. Dans ce cas, les prérogatives des titulaires de ces titres sont celles fixées dans le tableau I de la présente annexe pour le brevet considéré.
 
-Tableau II.b. - Titres permettant d'exercer des fonctions au pont sur des navires à voile armés à la plaisance
+Tableau II. b.-Titres permettant d'exercer des fonctions au pont sur des navires à voile armés à la plaisance
 
 |
 
@@ -508,7 +508,7 @@ X |
 
 |
 
-Brevet mentionné dans le tableau I ou le tableau II.a permettant d'exercer des fonctions opérationnelles sur navires d'une jauge brute supérieure ou égale à 200 |
+Brevet mentionné dans le tableau I ou le tableau II. a permettant d'exercer des fonctions opérationnelles sur navires d'une jauge brute supérieure ou égale à 200 |
 
 X1 |
 
@@ -522,7 +522,7 @@ X1 |
 
 |
 
-Brevet mentionné dans le tableau I ou le tableau II.a permettant d'exercer des fonctions de direction sur navires d'une jauge brute supérieure ou égale à 200 |
+Brevet mentionné dans le tableau I ou le tableau II. a permettant d'exercer des fonctions de direction sur navires d'une jauge brute supérieure ou égale à 200 |
 
 X1 |
 
@@ -540,7 +540,7 @@ Pour les navires armés au commerce et à la plaisance, voir également le table
 
 1 Sous réserve de remplir les conditions de formation et de service en mer fixées par arrêté du ministre chargé de la mer.
 
-Tableau III. - Titres permettant d'exercer des fonctions au pont sur des navires armés à la pêche
+Tableau III.-Titres permettant d'exercer des fonctions au pont sur des navires armés à la pêche
 
 |
 
@@ -1334,7 +1334,7 @@ X |
 
 5 Les titulaires du brevet de mécanicien 750 kW peuvent exercer des fonctions définies dans le présent tableau à bord des navires armés au commerce exerçant des activités de transport de passagers effectuant dans les eaux territoriales un service en mer de moins de douze heures, équipés de deux moteurs d'une puissance propulsive inférieure à 750 kW chacun et permettant d'assurer la vitesse de sécurité du navire.
 
-Tableau V. - Titres permettant d'exercer des fonctions opérationnelles ou d'appui en matière d'électronique et d'électrotechnique à bord de navires de plus de 750 kW
+Tableau V.-Titres permettant d'exercer des fonctions opérationnelles ou d'appui en matière d'électronique et d'électrotechnique à bord de navires de plus de 750 kW
 
 TITRES |
 
@@ -1360,7 +1360,7 @@ Matelot électrotechnicien |
 
 Matelot servant à bord d'un navire armé au commerce et à la plaisance d'une puissance propulsive égale ou supérieure à 750 kW ayant des compétences en matière électrotechnique, électronique, et système de commande, en matière d'entretien et de réparation du matériel à bord, ainsi qu'en matière de contrôle de l'exploitation du navire et d'assistance aux personnes à bord. |
 
-Tableau VI. - Titres permettant d'exercer des fonctions d'opérateur des radiocommunications dans le cadre du SMDSM à bord des navires armés au commerce, à la plaisance et à la pêche
+Tableau VI.-Titres permettant d'exercer des fonctions d'opérateur des radiocommunications dans le cadre du SMDSM à bord des navires armés au commerce, à la plaisance et à la pêche
 
 TITRES |
 
@@ -1380,13 +1380,13 @@ Opérateur des radiocommunications. |
 
 Opérateur des radiocommunications exploitées dans le cadre du SMDSM dans toutes les zones océaniques à bord :
 
-- des navires à passagers effectuant des voyages à proximité du littoral ;
+-des navires à passagers effectuant des voyages à proximité du littoral ;
 
-- des navires de charge de jauge brute égale ou supérieure à 300 effectuant des voyages à proximité du littoral ;
+-des navires de charge de jauge brute égale ou supérieure à 300 effectuant des voyages à proximité du littoral ;
 
-- des navires de charge de jauge brute inférieure à 300 ;
+-des navires de charge de jauge brute inférieure à 300 ;
 
-- des navires de pêche neufs d'une longueur de référence inférieure à 24 mètres et existants d'une longueur de référence inférieure à 45 mètres. |
+-des navires de pêche neufs d'une longueur de référence inférieure à 24 mètres et existants d'une longueur de référence inférieure à 45 mètres. |
 
 Certificat restreint d'opérateur (CRO) |
 
@@ -1406,9 +1406,9 @@ Opérateur des radiocommunications responsable de l'entretien des installations 
 
 Opérateur des radiocommunications responsable de l'entretien des installations SMDSM dans toutes les zones océaniques. |
 
-Tableau VII. - Titres permettant d'exercer les fonctions d'appui à bord des navires armés au commerce, à la plaisance et à la pêche
+Tableau VII.-Titres permettant d'exercer les fonctions d'appui à bord des navires armés au commerce, à la plaisance et à la pêche
 
-Tableau VII.a. Titres permettant d'exercer des fonctions d'appui au pont
+Tableau VII. a. Titres permettant d'exercer des fonctions d'appui au pont
 
 |
 
@@ -1422,25 +1422,25 @@ Fonction d'appui avec ou sans tâches spécialisées à bord de navires de jauge
 
 ou
 
-Fonction d'appui sans tâches spécialisées à bord de navires de jauge brute égale ou supérieure à 500(3) |
+Fonction d'appui sans tâches spécialisées à bord de navires de jauge brute égale ou supérieure à 500 (3) |
 
 Fonction d'appui dans une équipe de quart à bord de navires de jauge brute égale ou supérieure à 500 |
 
 Fonction d'appui avec dans une équipe de quart avec des tâches spécialisées à bord de navires de jauge brute égale ou supérieure à 500 |
 
-Fonction d'appui avec ou sans tâches spécialisées(3) |
+Fonction d'appui avec ou sans tâches spécialisées (3) |
 
 Titres |
 
 Certificat de matelot pont |
 
-X(1) |
+X (1) |
 
 |
 
 |
 
-X(2) |
+X (2) |
 
 Certificat de matelot de quart passerelle |
 
@@ -1468,7 +1468,7 @@ X |
 
 (3) Les titres mentionnés dans les tableaux IV et VII. b permettent également d'exercer des fonctions d'appui au pont à bord des navires armés au commerce, à la plaisance et à la pêche.
 
-Tableau VII.b. Titres permettant d'exercer des fonctions d'appui à la machine
+Tableau VII. b. Titres permettant d'exercer des fonctions d'appui à la machine
 
 |
 
@@ -1494,7 +1494,7 @@ Titres |
 
 Certificat de mécanicien |
 
-X(4) |
+X (4) |
 
 |
 
@@ -1524,7 +1524,7 @@ X |
 
 (4) Les brevets mentionnés dans le tableau IV permettent également d'exercer les prérogatives associées au certificat de mécanicien à bord des navires armés au commerce, à la plaisance et à la pêche.
 
-Tableau VIII. - Titres permettant d'exercer des fonctions sur des navires armés aux cultures marines
+Tableau VIII.-Titres permettant d'exercer des fonctions sur des navires armés aux cultures marines
 
 Fonctions |
 
@@ -1536,13 +1536,13 @@ Conduite des navires de charge armés aux cultures marines n'effectuant qu'une n
 
 Patron à bord des navires armés aux cultures marines de longueur inférieure :
 
-- à 24 mètres pour les navires de charge ;
+-à 24 mètres pour les navires de charge ;
 
-- à 12 mètres pour les dragues |
+-à 12 mètres pour les dragues |
 
 Patron à bord des navires armés aux cultures marines de longueur inférieure à 24 mètres |
 
-Titres(1) |
+Titres (1) |
 
 |
 
@@ -1594,7 +1594,7 @@ X |
 
 |
 
-Certificat de marin-ouvrier aux cultures marines - Niveau 1 |
+Certificat de marin-ouvrier aux cultures marines-Niveau 1 |
 
 X |
 
@@ -1620,7 +1620,7 @@ X |
 
 |
 
-Certificat de marin-ouvrier aux cultures marines - Niveau 2 |
+Certificat de marin-ouvrier aux cultures marines-Niveau 2 |
 
 X |
 
@@ -1634,7 +1634,7 @@ X |
 
 Certificat de patron de navire
 
-aux cultures marines -
+aux cultures marines-
 
 Niveau 1 |
 
@@ -1650,7 +1650,7 @@ X |
 
 Certificat de patron de navire
 
-aux cultures marines -
+aux cultures marines-
 
 Niveau 2 |
 
@@ -1694,13 +1694,13 @@ Tableau IX.-Titres permettant l'exercice de prérogatives à bord de certains na
 
 Titres/ Prérogatives |
 
-Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 2 milles du point de départ ne transportant aucun passager-Puissance propulsive inférieure à 250 kW |
+Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 2 milles du point de départ ne transportant aucun passager-Puissance propulsive strictement inférieure à 160 kW |
 
-Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation à moins de 6 milles du point de départ et transportant au plus 12 passagers-Puissance propulsive inférieure à 250 kW |
+Capitaine ou matelot de navires à moteur de longueur inférieure à 12 mètres effectuant une navigation cumulativement à moins de 6 milles du point de départ et moins de 2 milles d'un abri, et transportant au plus 12 passagers-Puissance propulsive strictement inférieure à 160 kW |
 
 Capitaine ou matelot de navires à voile de longueur inférieure à 12 mètres effectuant une navigation diurne à moins de 6 milles d'un abri et transportant au plus 12 passagers |
 
-Brevet restreint d'aptitude à la conduite de petits navires |
+Brevet restreint d'aptitude à la conduite de petits navires (1) |
 
 × |
 
@@ -1723,3 +1723,9 @@ Brevet d'aptitude à la conduite de petits navires à voile |
 × |
 
 × |
+
+(1) Pour l'exercice des activités définies à l'article D. 921-67 et au 5e alinéa de l'article D. 922-30 du code rural et de la pêche maritime, les titulaires du brevet restreint d'aptitude à la conduite de petits navires exercent leurs prérogatives à bord de navires de longueur inférieure à 12 mètres effectuant une navigation à moins de 6 milles du point de départ et de puissance propulsive strictement inférieure à 250 kW.
+
+NOTA :
+
+Conformément à l’article 2 du décret n° 2020-1809 du 30 décembre 2020, le brevet restreint d'aptitude à la conduite de petits navires et le brevet d'aptitude à la conduite de petits navires délivrés avant la publication dudit décret restent valides jusqu'au renouvellement du titre. Les prérogatives qui leur sont associées sont celles mentionnées avant la publication du décret précité.
