@@ -4,7 +4,9 @@ I.-Emplois d'inspecteur général des services actifs de la police nationale
 
 1. Direction générale de la police nationale :
 
-Directeur de cabinet du directeur général de la police nationale, préfigurateur des fonctions de directeur général adjoint de la police nationale.
+Conseiller stratégie et prospective de la police nationale.
+
+Conseiller stratégie et prospective de la police nationale.
 
 Conseiller stratégie et prospective de la police nationale.
 
@@ -62,9 +64,9 @@ Directeur central adjoint des compagnies républicaines de sécurité.
 
 Chef du service de la protection.
 
-11. Service central de la police technique et scientifique :
+11. Service national de police scientifique :
 
-Chef du service central de la police technique et scientifique, préfigurateur du service à compétence nationale de la police technique et scientifique.
+Chef du service national de police scientifique.
 
 12. Préfecture de police :
 
@@ -84,7 +86,7 @@ Directeur adjoint de la police judiciaire chargé des brigades centrales.
 
 Préfecture de police : Direction du renseignement :
 
-Directeur adjoint du renseignement.
+Les postes de la direction du renseignement de la préfecture de police font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L 861-1 du code de la sécurité intérieure
 
 Préfecture de police-Divers :
 
@@ -97,8 +99,6 @@ Directeur de l'école nationale supérieure de la police.
 14. Divers :
 
 Coordonnateur adjoint du renseignement et de la lutte contre le terrorisme.
-
-Directeur de l'institut national de police scientifique.
 
 II.-Emplois de contrôleur général des services actifs de la police nationale
 
@@ -114,7 +114,7 @@ Chef d'état-major au cabinet du directeur général de la police nationale.
 
 Conseiller pour la communication-chef du service d'information et de communication de la police (SICOP).
 
-Conseiller prospective et stratégie.
+Directeur de cabinet du directeur général de la police nationale.
 
 Conseiller prospective et stratégie.
 
@@ -146,7 +146,7 @@ Sous-directeur chargé de l'anti-terrorisme.
 
 Sous-directeur de la lutte contre la criminalité organisée.
 
-Sous-directeur des ressources, de l'évaluation et de la stratégie.
+Sous-directeur du pilotage et des ressources.
 
 Directeur interrégional de police judiciaire, directeur du service régional à Rennes.
 
@@ -248,9 +248,9 @@ Sous-directeur de la coopération de sécurité et de gouvernance.
 
 Chef adjoint du service de la protection.
 
-12. Service central de la police technique et scientifique :
+12. Service national de police scientifique :
 
-Adjoint au chef du service central de la police technique et scientifique.
+Adjoint au chef du service national de police scientifique.
 
 13. Préfecture de police :
 
@@ -292,7 +292,7 @@ Sous-directeur chargé des services territoriaux.
 
 Préfecture de police : Direction du renseignement :
 
-Sous-directeur chargé de la sécurité intérieure.
+Les postes de la direction du renseignement de la préfecture de police font l'objet d'un arrêté distinct, non publié conformément aux dispositions de l'article L 861-1 du code de la sécurité intérieure.
 
 Préfecture de police-Divers :
 
