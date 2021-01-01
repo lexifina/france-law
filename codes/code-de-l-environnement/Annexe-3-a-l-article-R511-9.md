@@ -830,13 +830,13 @@ D
 
 |
 
-Animaux d’espèces non domestiques (installations fixes et permanentes de présentation au public de), à l’exclusion des magasins de vente au détail et des installations présentant au public des animaux d’espèces non domestiques correspondant aux activités suivantes :
+Animaux d'espèces non domestiques (installations fixes et permanentes de présentation au public de), à l'exclusion des magasins de vente au détail et des installations présentant au public des animaux d'espèces non domestiques correspondant aux activités suivantes :
 
-- présentation de poissons et d’invertébrés aquatiques, les capacités cumulées des aquariums et des bassins présentés au public étant inférieures à 10 000 litres de volume total brut ;
+-présentation de poissons et d'invertébrés aquatiques, les capacités cumulées des aquariums et des bassins présentés au public étant inférieures à 10 000 litres de volume total brut ;
 
-- présentation au public d’animaux dont les espèces figurent dans la liste prévue par l’article R. 413-6 du code de l’environnement ;
+-présentation au public d'animaux dont les espèces figurent dans la liste prévue par l'article R. 413-6 du code de l'environnement ;
 
-- présentation au public d’arthropodes. |
+-présentation au public d'arthropodes. |
 
 A
 
@@ -846,7 +846,7 @@ A
 
 |
 
-Nota : sont visées les installations présentes sur un même site au moins 90 jours par an consécutifs ou non et dont l’activité de présentation au public est d’au moins 7 jours par an sur ce site.
+Nota : sont visées les installations présentes sur un même site au moins 90 jours par an consécutifs ou non et dont l'activité de présentation au public est d'au moins 7 jours par an sur ce site
 
 |
 
@@ -916,13 +916,9 @@ DC |
 
 |
 
-Silos et installations de stockage en vrac de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières inflammables, y compris les stockages sous tente ou structure gonflable.
+Silos et installations de stockage, en vrac, de céréales, grains, produits alimentaires ou tout produit organique dégageant des poussières inflammables,
 
-|
-
-|
-
-|
+y compris les stockages sous tente ou structure gonflable, à l'exception des installations relevant par ailleurs de la rubrique 1532 :
 
 1. Silos plats :
 
@@ -932,63 +928,47 @@ Silos et installations de stockage en vrac de céréales, grains, produits alime
 
 |
 
-a) Si le volume total de stockage est supérieur à 15 000 m ³
+a) Si le volume total de stockage est supérieur à 15 000 m ³ |
+
+E |
 
 |
 
-E
+b) Si le volume total de stockage est supérieur à 5000 m ³, mais inférieur ou égal à 15 000 m ³ |
+
+DC |
 
 |
 
-|
-
-b) Si le volume total de stockage est supérieur à 5 000 m ³, mais inférieur ou égal à 15 000 m ³
-
-|
-
-DC
-
-|
-
-|
-
-2. Autres installations :
+2. Autres installations : |
 
 |
 
 |
 
-|
+a) Si le volume total des stockages est supérieur à 15 000 m ³ |
 
-a) Si le volume total de stockage est supérieur à 15 000 m ³
+A |
 
-|
+3 |
 
-A
-
-|
-
-3
+b) Si le volume total des stockages est supérieur à 5 000 m ³ mais inférieur ou égal à 15 000 m ³
 
 |
 
-b) Si le volume total de stockage est supérieur à 5 000 m ³, mais inférieur ou égal à 15 000 m ³
+DC |
 
 |
 
-DC
+Les critères caractérisant les termes de silo , silo plat , tente et structure gonflable sont précisés par arrêtés ministériels. |
 
 |
 
 |
 
-Les critères caractérisant les termes silo, silo plat, tente et structure gonflable sont précisés par arrêtés ministériels.
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
-|
-
-|
-
-|
+(2) Rayon d'affichage en kilomètres. |
 
 2170
 
@@ -2353,3 +2333,7 @@ DC
 |
 
 |
+
+NOTA :
+
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

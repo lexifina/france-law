@@ -480,7 +480,7 @@ D
 
 |
 
-Entrepôts couverts (stockage de matières ou produits combustibles en quantité supérieure à 500 tonnes dans des), à l'exception des dépôts utilisés au stockage de catégories de matières, produits ou substances relevant, par ailleurs, de la présente nomenclature, des bâtiments destinés exclusivement au remisage des véhicules à moteur et de leur remorque, des établissements recevant du public et des entrepôts frigorifiques.
+Entrepôts couverts (installations, pourvues d'une toiture, dédiées au stockage de matières ou produits combustibles en quantité supérieure à 500 tonnes), à l'exception des entrepôts utilisés pour le stockage de matières, produits ou substances classés, par ailleurs, dans une unique rubrique de la présente nomenclature, des bâtiments destinés exclusivement au remisage des véhicules à moteur et de leur remorque, des établissements recevant du public et des entrepôts exclusivement frigorifiques :
 
 |
 
@@ -488,15 +488,7 @@ Entrepôts couverts (stockage de matières ou produits combustibles en quantité
 
 |
 
-Le volume des entrepôts étant :
-
-|
-
-|
-
-|
-
-1. Supérieur ou égal à 300 000 m³ ;
+1. Entrant dans le champ de la colonne évaluation environnementale systématique en application de la rubrique 39. a de l' annexe de l'article R. 122-2 du code de l'environnement
 
 |
 
@@ -508,21 +500,33 @@ A
 
 |
 
-2. Supérieur ou égal à 50 000 m³ mais inférieur à 300 000 m³ ;
-
-|
-
-E
+2. Autres installations que celles définies au 1, le volume des entrepôts étant : |
 
 |
 
 |
 
-3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
+a) Supérieur ou égal à 900 000 m ³ |
+
+A |
+
+1
 
 |
 
-DC
+b) Supérieur ou égal à 50 000 m ³ mais inférieur à 900 000 m ³ |
+
+E |
+
+- |
+
+c) Supérieur ou égal à 5 000 m ³ mais inférieur à 50 000 m ³ |
+
+DC |
+
+- |
+
+Un entrepôt est considéré comme utilisé pour le stockage de produits classés dans une unique rubrique de la nomenclature dès lors que la quantité totale d'autres matières ou produits combustibles présente dans cet entrepôt est inférieure ou égale à 500 tonnes. |
 
 |
 
@@ -532,7 +536,7 @@ DC
 
 |
 
-Entrepôts frigorifiques, à l'exception des dépôts utilisés au stockage de catégories de matières, produits ou substances relevant, par ailleurs, de la présente nomenclature.
+Entrepôts exclusivement frigorifiques.
 
 |
 
@@ -540,41 +544,29 @@ Entrepôts frigorifiques, à l'exception des dépôts utilisés au stockage de c
 
 |
 
-Le volume susceptible d'être stocké étant :
+Le volume susceptible d'être stocké étant : |
 
 |
 
 |
 
-|
+1. Supérieur ou égal à 50 000 m ³ |
 
-1. Supérieur ou égal à 150 000 m³ ;
+E |
 
-|
+- |
 
-A
+2. Supérieur ou égal à 5 000 m ³ mais inférieur à 50 000 m ³ |
 
-|
+DC |
 
-1
-
-|
-
-2. Supérieur ou égal à 50 000 m³ mais inférieur à 150 000 m³ ;
+-
 
 |
 
-E
+Un entrepôt frigorifique est un entrepôt dans lequel les conditions de température et/ ou d'hygrométrie sont régulées et maintenues à une température inférieure ou égale à 18° C en fonction des critères de conservation propres aux produits.
 
-|
-
-|
-
-3. Supérieur ou égal à 5 000 m³ mais inférieur à 50 000 m³.
-
-|
-
-DC
+Un entrepôt est considéré comme exclusivement frigorifique dès lors que la quantité de matières ou produits combustibles autres que les matières ou produits conservés dans l'entrepôt frigorifique est inférieure ou égale à 500 tonnes. |
 
 |
 
@@ -584,13 +576,7 @@ DC
 
 |
 
-Papiers, cartons ou matériaux combustibles analogues, y compris les produits finis conditionnés (dépôt de), à l'exception des établissements recevant du public.
-
-|
-
-|
-
-|
+Papiers, cartons ou matériaux combustibles analogues, y compris les produits finis conditionnés (dépôt de), à l'exception des installations classées au titre de la rubrique 1510 et des établissements recevant du public.
 
 Le volume susceptible d'être stocké étant :
 
@@ -600,33 +586,21 @@ Le volume susceptible d'être stocké étant :
 
 |
 
-1. Supérieur à 50 000 m³ ;
-
-|
-
-A
-
-|
-
-1
-
-|
-
-2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³ ;
-
-|
+1. Supérieur à 20 000 m ³ |
 
 E
 
 |
 
-|
-
-3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³.
+-
 
 |
 
-D
+2. Supérieur à 1 000 m ³ mais inférieur ou égal à 20 000 m ³ |
+
+DC |
+
+- |
 
 |
 
@@ -650,7 +624,7 @@ D
 
 |
 
-Bois ou matériaux combustibles analogues y compris les produits finis conditionnés et les produits ou déchets répondant à la définition de la biomasse et visés par la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à l'exception des établissements recevant du public.
+Bois ou matériaux combustibles analogues, y compris les produits finis conditionnés et les produits ou déchets répondant à la définition de la biomasse et mentionnés à la rubrique 2910-A, ne relevant pas de la rubrique 1531 (stockage de), à l'exception des établissements recevant du public :
 
 |
 
@@ -658,17 +632,7 @@ Bois ou matériaux combustibles analogues y compris les produits finis condition
 
 |
 
-Le volume susceptible d'être stocké étant :
-
-|
-
-|
-
-|
-
-1. Supérieur à 50 000 m³
-
-|
+1. Installations de stockage de matériaux susceptibles de dégager des poussières inflammables, le volume de tels matériaux susceptible d'être stocké étant supérieur à 50 000 m ³ |
 
 A
 
@@ -678,26 +642,32 @@ A
 
 |
 
-2. Supérieur à 20 000 m³ mais inférieur ou égal à 50 000 m³
+2. Autres installations que celles définies au 1, à l'exception des installations classées au titre de la rubrique 1510, le volume susceptible d'être stocké étant :
 
-|
+a) Supérieur à 20 000 m ³ |
 
-E
+E |
 
-|
+- |
 
-|
-
-3. Supérieur à 1 000 m³ mais inférieur ou égal à 20 000 m³
-
-|
+b) Supérieur à 1 000 m ³ mais inférieur ou égal à 20 000 m ³ |
 
 D |
 
+-
+
 |
+
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres. |
 
 (1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
 Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionnées à la rubrique 1700 autres que celles mentionnées à la rubrique 1735 susceptibles d'être présentes dans l'installation. Elle est calculée suivant les modalités mentionnées à l'annexe 13-8 de la première partie du code de la santé publique.
+
+NOTA :
+
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.

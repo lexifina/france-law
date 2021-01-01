@@ -474,13 +474,29 @@ Travaux, ouvrages, aménagements ruraux et urbains
 
 39. Travaux, constructions et opérations d'aménagement. |
 
-a) Travaux et constructions qui créent une surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou une emprise au sol au sens de l'article R. * 420-1 du code de l'urbanisme supérieure ou égale à 40 000 m2. |
+a) Travaux et constructions créant une emprise au sol au sens de l'article R. * 420-1 du code de l'urbanisme supérieure ou égale à 40 000 m2 dans un espace autre que :
 
-a) Travaux et constructions qui créent une surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou une emprise au sol au sens de l'article R. * 420-1 du code de l'urbanisme comprise entre 10 000 et 40 000 m2. |
+-les zones mentionnées à l'article R. 151-18 du code de l'urbanisme, lorsqu'un plan local d'urbanisme est applicable ;
 
-b) Opérations d'aménagement dont le terrain d'assiette est supérieur ou égal à 10 ha, ou dont la surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou l'emprise au sol au sens de l'article R. * 420-1 du code de l'urbanisme est supérieure ou égale à 40 000 m2. |
+-les secteurs où les constructions sont autorisées au sens de l'article L. 161-4 du même code, lorsqu'une carte communale est applicable ;
 
-b) Opérations d'aménagement dont le terrain d'assiette est compris entre 5 et 10 ha, ou dont la surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou l'emprise au sol au sens de l'article R. * 420-1 du code de l'urbanisme est comprise entre 10 000 et 40 000 m2. |
+-les parties urbanisées de la commune au sens de l'article L. 111-3 du même code, en l'absence de plan local d'urbanisme et de carte communale applicable ; |
+
+a) Travaux et constructions qui créent une surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou une emprise au sol au sens de l'article R. * 420-1 du même code supérieure ou égale à 10 000 m2 ; |
+
+b) Opérations d'aménagement dont le terrain d'assiette est supérieur ou égal à 10 ha ; |
+
+|
+
+c) Opérations d'aménagement créant une emprise au sol au sens de l'article R. * 420-1 du code de l'urbanisme supérieure ou égale à 40 000 m2 dans un espace autre que :
+
+-les zones mentionnées à l'article R. 151-18 du code de l'urbanisme lorsqu'un plan local d'urbanisme est applicable ;
+
+-les secteurs où les constructions sont autorisées au sens de l'article L. 161-4 du même code, lorsqu'une carte communale est applicable ;
+
+-les parties urbanisées de la commune au sens de l'article L. 111-3 du même code, en l'absence de plan local d'urbanisme et de carte communale applicable. |
+
+b) Opérations d'aménagement dont le terrain d'assiette est compris entre 5 et 10 ha, ou dont la surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou l'emprise au sol au sens de l'article R. * 420-1 du même code est supérieure ou égale à 10 000 m2. |
 
 40. Villages de vacances et aménagements associés. |
 
@@ -589,6 +605,8 @@ Toute création ou extension.
 (*) Etablissement : ensemble d'installations relevant d'un même exploitant sur un même site.
 
 NOTA :
+
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
 
 (1) Au lieu de lire " R. 122-10 ", il convient de lire " R. 122-4 ".
 

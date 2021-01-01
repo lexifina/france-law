@@ -1394,13 +1394,7 @@ D
 
 |
 
-Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de).
-
-|
-
-|
-
-|
+Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de), à l'exception des installations classées au titre de la rubrique 1510.
 
 Le volume susceptible d'être stocké étant :
 
@@ -1410,33 +1404,17 @@ Le volume susceptible d'être stocké étant :
 
 |
 
-1. Supérieur ou égal à 40 000 m³ ;
+1. Supérieur ou égal à 1 000 m ³ |
 
-|
+E |
 
-A
+- |
 
-|
+2. Supérieur ou égal à 100 m ³ mais inférieur à 1 000 m ³ |
 
-2
+D |
 
-|
-
-2. Supérieur ou égal à 1 000 m³ mais inférieur à 40 000 m³ ;
-
-|
-
-E
-
-|
-
-|
-
-3. Supérieur ou égal à 100 m³ mais inférieur à 1 000 m³.
-
-|
-
-D
+- |
 
 |
 
@@ -1446,7 +1424,9 @@ D
 
 |
 
-Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est composée de polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de) :
+Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est composée de polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (stockage de), à l'exception des installations classées au titre de la rubrique 1510 :
+
+1. A l'état alvéolaire ou expansé (tels que mousse de latex, de polyuréthane, de polystyrène, etc.), le volume susceptible d'être stocké étant :
 
 |
 
@@ -1454,81 +1434,39 @@ Pneumatiques et produits dont 50 % au moins de la masse totale unitaire est comp
 
 |
 
-1. A l'état alvéolaire ou expansé tels que mousse de latex, de polyuréthane, de polystyrène, etc., le volume susceptible d'être stocké étant :
+a) Supérieur ou égal à 2 000 m ³. |
+
+E |
+
+- |
+
+b) Supérieur ou égal à 200 m ³ mais inférieur à 2 000 m ³ |
+
+D |
+
+- |
+
+2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être stocké étant : |
 
 |
 
 |
 
-|
+a) Supérieur ou égal à 10 000 m ³ |
 
-a) Supérieur ou égal à 45 000 m³ ;
+E |
 
-|
+- |
 
-A
+b) Supérieur ou égal à 1 000 m ³ mais inférieur à 10 000 m ³ |
 
-|
+D |
 
-2
+- |
 
-|
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
-b) Supérieur ou égal à 2 000 m³ mais inférieur à 45 000 m³ ;
-
-|
-
-E
-
-|
-
-|
-
-c) Supérieur ou égal à 200 m³ mais inférieur à 2 000 m³.
-
-|
-
-D
-
-|
-
-|
-
-2. Dans les autres cas et pour les pneumatiques, le volume susceptible d'être stocké étant :
-
-|
-
-|
-
-|
-
-a) Supérieur ou égal à 80 000 m³ ;
-
-|
-
-A
-
-|
-
-2
-
-|
-
-b) Supérieur ou égal à 10 000 m³ mais inférieur à 80 000 m³ ;
-
-|
-
-E
-
-|
-
-|
-
-c) Supérieur ou égal à 1 000 m³ mais inférieur à 10 000 m³.
-
-|
-
-D
+(2) Rayon d'affichage en kilomètres. |
 
 |
 
@@ -5774,7 +5712,7 @@ Quantité seuil haut au sens de l'article R. 511-10 : 500 t.
 
 |
 
-Aérosols extrêmement inflammables ou inflammables de catégorie 1 ou 2, ne contenant pas de gaz inflammable de catégorie 1 ou 2, ni de liquide inflammable de catégorie 1.
+Aérosols "extrêmement inflammables" ou "inflammables" de catégorie 1 ou 2, ne contenant pas de gaz inflammable de catégorie 1 ou 2, ni de liquide inflammable de catégorie 1.
 
 La quantité totale susceptible d'être présente dans l'installation étant :
 
@@ -5784,7 +5722,7 @@ La quantité totale susceptible d'être présente dans l'installation étant :
 
 |
 
-1. Supérieure ou égale à 5 000 t
+1. Supérieure ou égale à 5 000 t ;
 
 |
 
@@ -6683,5 +6621,7 @@ Nota.-La valeur de QNS porte sur l'ensemble des substances radioactives mentionn
 Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
 
 NOTA :
+
+Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
 
 Conformément à l’article 8, II du décret n° 2020-828 du 30 juin 2020, ces dispositions sont applicables aux demandes d'autorisation et aux déclarations déposées à compter du 1er septembre 2020.
