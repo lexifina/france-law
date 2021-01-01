@@ -8,7 +8,7 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27,64,64-1,64-1-2,64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat une dotation annuelle correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27, 64, 64-1, 64-1-2, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et de l'article 132 du décret n° 2020-1717 du 28 décembre 2020 portant application de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et relatif à l'aide juridictionnelle et à l'aide à l'intervention de l'avocat dans les procédures non juridictionnelles, la caisse de règlements pécuniaires des avocats (Carpa) reçoit de l'Etat une dotation annuelle correspondant à la contribution de ce dernier à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
@@ -26,7 +26,7 @@ Conformément aux dispositions du deuxième alinéa de l'article 21-1 de la loi 
 
 Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts en ce qui concerne leur affectation définie ci-dessus à l'aide juridictionnelle et aux différentes aides à l'intervention de l'avocat. Les enregistrements distinguent également l'origine des fonds affectés à l'aide juridique (dotation de l'Etat, produit des recettes prévues à l'article 1001 du code général des impôts et au V de l'article 42 de la loi n° 2015-1785 du 29 décembre 2015 de finances pour 2016).
 
-Une dotation complémentaire peut être versée conformément à l'article 91 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal judiciaire près duquel il est établi une convention locale relative à l'aide juridique, homologuée par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas, il convient de se référer aux dispositions contenues dans ladite convention (cf. chapitre IV).
+Une dotation complémentaire peut être versée conformément à l'article 88 du décret susmentionné, dans l'hypothèse où le barreau a conclu avec le tribunal judiciaire près duquel il est établi une convention locale relative à l'aide juridique, homologuée par un arrêté du garde des sceaux, ministre de la justice. Dans ce cas, il convient de se référer aux dispositions contenues dans ladite convention (cf. chapitre IV).
 
 Article 2
 
@@ -70,7 +70,7 @@ La Carpa doit être équipée d'un logiciel homologué par le garde des sceaux, 
 
 Article 6
 
-La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés au titre de l'aide juridictionnelle, des aides à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée ainsi que, le cas échéant, de la convention locale relative à l'aide juridique conclue en application de l'article 91 du décret du 19 décembre 1991 susvisé.
+La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés au titre de l'aide juridictionnelle, des aides à l'intervention de l'avocat prévues par les dispositions de la troisième partie de la loi du 10 juillet 1991 susvisée ainsi que, le cas échéant, de la convention locale relative à l'aide juridique conclue en application de l'article 88 du décret n° 2020-1717 du 28 décembre 2020 susvisé.
 
 Article 7
 
@@ -84,7 +84,7 @@ Article 8
 
 Les placements de fonds correspondant aux dotations reçues au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat doivent être distincts des autres placements effectués par la Carpa.
 
-Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre de la convention locale relative à l'aide juridique conclue en application de l'article 91 du décret du 19 décembre 1991 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
+Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre de la convention locale relative à l'aide juridique conclue en application de l'article 88 du décret n° 2020-1717 du 28 décembre 2020 susvisé, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat.
 
 Les fonds versés en application du deuxième alinéa de l'article 21-1 de la loi n° 71-1130 du 31 décembre 1971 ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridique.
 
@@ -98,7 +98,7 @@ Le montant des produits financiers perçus est arrêté, au plus tard, le 31 dé
 
 Article 11
 
-Les produits financiers perçus par la Carpa pour les fonds reçus au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément à la convention locale relative à l'aide juridique conclue en application de l'article 91 du décret du 19 décembre 1991 susvisé.
+Les produits financiers perçus par la Carpa pour les fonds reçus au titre de l'aide juridictionnelle et des autres aides à l'intervention de l'avocat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et des aides à l'intervention de l'avocat exposées par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément à la convention locale relative à l'aide juridique conclue en application de l'article 88 du décret n° 2020-1717 du 28 décembre 2020 susvisé.
 
 Article 12
 
@@ -160,7 +160,7 @@ Article 17
 
 Il est procédé, le cas échéant, à la déduction :
 
-1° Des provisions versées par le client, telles qu'elles sont indiquées dans la décision rendue par le bureau d'aide juridictionnelle conformément aux dispositions de l'article 102 du décret du 19 décembre 1991 précité ; en cas d'admission à l'aide juridictionnelle partielle, la provision versée par le client est déduite de l'honoraire complémentaire et, le cas échéant, pour le solde, de la contribution due par l'Etat ; à cet effet, l'avocat doit remettre au préalable la convention d'honoraires ;
+1° Des provisions versées par le client, telles qu'elles sont indiquées dans la décision rendue par le bureau d'aide juridictionnelle conformément aux dispositions de l'article 109 du décret n° 2020-1717 du 28 décembre 2020 précité ; en cas d'admission à l'aide juridictionnelle partielle, la provision versée par le client est déduite de l'honoraire complémentaire et, le cas échéant, pour le solde, de la contribution due par l'Etat ; à cet effet, l'avocat doit remettre au préalable la convention d'honoraires ;
 
 2° Des provisions versées à l'avocat par la Carpa ;
 
@@ -178,7 +178,7 @@ Les interventions au cours de la garde à vue, de la retenue ou de la rétention
 
 Article 19
 
-La rétribution pour l'intervention de l'avocat au cours de la garde à vue, de la retenue ou de la rétention dans les conditions prévues par le code de procédure pénale, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour est versée à l'avocat commis d'office contre la remise de l'imprimé visé au deuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police, de gendarmerie ou de douane compétentes ainsi que par le bâtonnier ou son représentant.
+La rétribution pour l'intervention de l'avocat au cours de la garde à vue, de la retenue ou de la rétention dans les conditions prévues par le code de procédure pénale, de la retenue douanière ou de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour est versée à l'avocat commis d'office contre la remise de l'imprimé visé au deuxième alinéa à l'article 105 du décret n° 2020-1717 du 28 décembre 2020 précité dûment rempli par l'avocat et signé par les autorités de police, de gendarmerie ou de douane compétentes ainsi que par le bâtonnier ou son représentant.
 
 Article 20
 
@@ -238,7 +238,7 @@ c) Désigné par le bâtonnier pour les interventions au cours de la garde à vu
 
 d) Désigné par le bâtonnier ou choisi par le détenu pour les interventions en matière d'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
-Toutefois, en cas de changement d'avocat en cours de procédure, de mesure d'audition libre, de garde à vue, de retenue ou de rétention dans les conditions prévues par le code de procédure pénale, de retenue douanière, de retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour, de défèrement devant le procureur de la République, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'imprimé visé à l'article 132-5 du décret du 19 décembre 1991 sous réserve des règles de répartition prévues à l'article 103 du même décret.
+Toutefois, en cas de changement d'avocat en cours de procédure, de mesure d'audition libre, de garde à vue, de retenue ou de rétention dans les conditions prévues par le code de procédure pénale, de retenue douanière, de retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour, de défèrement devant le procureur de la République, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'imprimé visé à l'article 105 du décret n° 2020-1717 du 28 décembre 2020 sous réserve des règles de répartition prévues à l'article 109 du même décret.
 
 Article 24
 
@@ -252,7 +252,7 @@ Chapitre IV
 
 Organisation de la défense
 
-protocole des articles 91 et 132-6 du décret
+Convention locale relative à l'aide juridique conclue en application de l'article 88 du décret
 
 Article 26
 
@@ -298,11 +298,7 @@ Article 34
 
 Dans le cas d'un changement d'avocat en cours de procédure, si une provision a été versée au premier avocat, le second perçoit le complément de rémunération.
 
-A défaut d'accord sur la répartition finale de la contribution de l'Etat, le bâtonnier peut être saisi conformément à l'article 103 du décret du 19 décembre 1991 précité.
-
-Chapitre IV
-
-Convention locale relative à l'aide juridique conclue en application de l'article 91
+A défaut d'accord sur la répartition finale de la contribution de l'Etat, le bâtonnier peut être saisi conformément à l'article 89 du décret n° 2020-1717 du 28 décembre 2020 précité.
 
 Article 35
 
@@ -310,7 +306,7 @@ La Carpa peut déduire des rétributions dues le trop-perçu par l'avocat à l'o
 
 Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle et autres aides. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
 
-Chapitre VII
+Chapitre VI
 
 Transmission des états liquidatifs et comptables
 
@@ -318,7 +314,7 @@ Article 36
 
 La Carpa transmet annuellement à l'ordonnateur compétent ou son délégataire ainsi qu'au Conseil national des barreaux et à l'Union nationale des caisses des règlements pécuniaires des avocats :
 
-1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 117-1-1 du décret du 19 décembre 1991 précité ;
+1° Les états liquidatifs, dont le modèle est fixé par arrêté du garde des sceaux, ministre de la justice, accompagnés du rapport du commissaire aux comptes établis conformément à l'article 134 du décret n° 2020-1717 du 28 décembre 2020 précité ;
 
 2° Les résultats du compte Emploi des produits financiers et des comptes Rétributions particulières ;
 
@@ -342,17 +338,17 @@ II.-La version électronique de cet état de trésorerie est transmise réguliè
 
 L'Union nationale des caisses des règlements pécuniaires des avocats transmet pour chaque mois révolu le fichier électronique consolidé à l'ordonnateur compétent et à la Chancellerie, selon des dispositions fixées par convention avec le garde des sceaux, ministre de la justice.
 
-Chapitre VIII
+Chapitre VII
 
 Dispositions applicables en Polynésie française
 
 Article 38
 
-Conformément aux dispositions de l'article 17-14 du décret du 30 décembre 1991, la caisse de règlements pécuniaires des avocats du barreau de Papeete reçoit une somme destinée à l'indemnisation des déplacements effectués par les avocats de ce barreau prêtant leur concours au bénéficiaire de l'aide juridictionnelle.
+Conformément aux dispositions de l'article 171 du décret n° 2020-1717 du 28 décembre 2020, la caisse de règlements pécuniaires des avocats du barreau de Papeete reçoit une somme destinée à l'indemnisation des déplacements effectués par les avocats de ce barreau prêtant leur concours au bénéficiaire de l'aide juridictionnelle.
 
 Article 39
 
-Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé : Frais de déplacement article 17-14.
+Les comptes mentionnés à l'article 2 comprennent, au titre des comptes annexes, un compte distinct intitulé : Frais de déplacement article 172.
 
 Article 40
 
@@ -370,6 +366,4 @@ Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avoc
 
 NOTA :
 
-Conformément à l’article 21 du décret n° 2019-1064 du 17 octobre 2019, les dispositions entrent en vigueur à compter du 1er janvier 2020.
-
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l'article 190 du décret n° 2020-1717 du 28 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
