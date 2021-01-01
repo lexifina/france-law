@@ -2,17 +2,11 @@
 
 1. Liste des pays ou des entités administratives dont les titulaires de passeport sont dispensés de visa pour entrer sur le territoire de la Guadeloupe, la Guyane, la Martinique, La Réunion et de la collectivité de Saint-Pierre-et-Miquelon afin d'y effectuer des séjours dont la durée n'excède pas trois mois par période de six mois sur l'ensemble du territoire défini au premier alinéa de l'article L. 111-2 du code de l'entrée et du séjour des étrangers et du droit d'asile, sauf accord de circulation plus favorable, et limites à cette dispense :
 
-PAYS OU ENTITÉ ADMINISTRATIVE
+PAYS OU ENTITÉ ADMINISTRATIVE |
 
-|
+CATÉGORIES CONCERNÉES PAR LA DISPENSE DE VISA |
 
-CATÉGORIES CONCERNÉES PAR LA DISPENSE DE VISA
-
-|
-
-Afrique du Sud
-
-|
+Afrique du Sud |
 
 Pour entrer sur le territoire du département de La Réunion : dispense de visa de court séjour s'étendant à tout type de passeport.
 
@@ -26,73 +20,39 @@ Dispense s'appliquant seulement :
 
 |
 
-Albanie
+Albanie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
+Algérie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service. |
 
-Algérie
+Andorre |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
+Angola |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Andorre
+Antigua et Barbuda |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Arabie saoudite |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-Angola
+Argentine |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
+Arménie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-Antigua et Barbuda
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Arabie saoudite
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Argentine
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Arménie
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Australie
-
-|
+Australie |
 
 Dispense de visa, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -102,25 +62,15 @@ Dispense de visa, sauf pour effectuer un séjour d'une durée n'excédant pas tr
 
 |
 
-Azerbaïdjan
+Azerbaïdjan |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
+Bahamas |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Bahamas
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Bahreïn
-
-|
+Bahreïn |
 
 Dispense de visa s'appliquant seulement :
 
@@ -130,49 +80,27 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Barbade
+Barbade |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Bénin |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé. |
 
-Bénin
+Biélorussie |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé.
+Bolivie |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Biélorussie
+Bosnie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
-
-|
-
-Bolivie
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Bosnie
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
-
-|
-
-Brésil
-
-|
+Brésil |
 
 Dispense de visa, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -202,9 +130,7 @@ Dispense de visa pour les Brésiliens membres des équipes de secours d'urgence 
 
 |
 
-Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen
-
-|
+Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique nationalité :
 
@@ -220,41 +146,23 @@ British Subjects.
 
 |
 
-Brunei
+Brunei |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Canada |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. L'entrée sur le territoire de Saint-Pierre-et-Miquelon fait l'objet des conditions spécifiques du point 3 de la présente annexe. |
 
-Canada
+Cap-Vert |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. L'entrée sur le territoire de Saint-Pierre-et-Miquelon fait l'objet des conditions spécifiques du point 3 de la présente annexe.
+Chili |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Cap-Vert
-
-|
-
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
-
-|
-
-Chili
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Chine
-
-|
+Chine |
 
 Dispense de visa s'appliquant aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
 
@@ -262,49 +170,27 @@ Pour entrer sur le territoire du département de La Réunion : dispense de visa 
 
 |
 
-Chine (Hong Kong)
+Chine (Hong Kong) |
 
-|
+Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine. |
 
-Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine.
+Chine (Macao) |
 
-|
+Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine. |
 
-Chine (Macao)
+Chine (Taïwan) |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité. |
 
-Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine.
+Colombie |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Chine (Taïwan)
+Congo (Brazzaville) |
 
-|
+Dispense de visa s'appliquant jusqu'au 30 avril 2016 aux seuls titulaires d'un passeport diplomatique sécurisé. |
 
-Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité.
-
-|
-
-Colombie
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Congo (Brazzaville)
-
-|
-
-Dispense de visa s'appliquant jusqu'au 30 avril 2016 aux seuls titulaires d'un passeport diplomatique sécurisé.
-
-|
-
-Corée du Sud
-
-|
+Corée du Sud |
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -314,25 +200,15 @@ Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant p
 
 |
 
-Costa Rica
+Costa Rica |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+République dominicaine |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service. |
 
-République dominicaine
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
-
-|
-
-Dominique
-
-|
+Dominique |
 
 Pour la Guadeloupe, la Martinique et de la Guyane : dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois.
 
@@ -340,25 +216,15 @@ Pour La Réunion et Saint-Pierre-et-Miquelon : dispense de visa de court séjour
 
 |
 
-El Salvador
+El Salvador |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Emirats arabes unis |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Emirats arabes unis
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Equateur
-
-|
+Equateur |
 
 Pour entrer sur les territoires des départements de la Guadeloupe, la Martinique et la Guyane : dispense de visa de court séjour s'étendant à tout type de passeport.
 
@@ -366,9 +232,7 @@ Pour entrer sur les territoires du département de La Réunion et de la collecti
 
 |
 
-Etats-Unis
-
-|
+Etats-Unis |
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -380,49 +244,27 @@ La dispense de visa prévue supra ne s'applique pas aux titulaires d'un passepor
 
 |
 
-Gabon
+Gabon |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
+Géorgie |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
-Géorgie
+Grenade |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Guatemala |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Grenade
+Honduras |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Guatemala
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Honduras
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Inde
-
-|
+Inde |
 
 Dispense de visa s'appliquant :
 
@@ -434,25 +276,15 @@ Dispense de visa s'appliquant :
 
 |
 
-Indonésie
+Indonésie |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
+Israël |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Israël
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Japon
-
-|
+Japon |
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -462,25 +294,15 @@ Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant p
 
 |
 
-Jordanie
+Jordanie |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Kazakhstan |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-Kazakhstan
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
-
-Koweït
-
-|
+Koweït |
 
 Dispense de visa s'appliquant seulement :
 
@@ -490,49 +312,27 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Macédoine (ancienne République yougoslave de)
+Macédoine (ancienne République yougoslave de) |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
+Malaisie |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Malaisie
+Mariannes du Nord |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Maroc |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
-Mariannes du Nord
+Maurice (île) |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Maroc
-
-|
-
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
-
-|
-
-Maurice (île)
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Mexique
-
-|
+Mexique |
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -542,77 +342,43 @@ Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant p
 
 |
 
-Moldavie
+Moldavie |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique.
+Monaco |
 
-|
+Dispense de visa s'étendant à tout type de passeport, y compris pour des séjours d'une durée excédant trois mois. |
 
-Monaco
+Mongolie |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
-Dispense de visa s'étendant à tout type de passeport, y compris pour des séjours d'une durée excédant trois mois.
+Monténégro |
 
-|
-
-Mongolie
-
-|
-
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
-
-Monténégro
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
 |
 
 |
 
-|
+Mozambique |
 
-Mozambique
+Dispense de visa de court séjour s'étendant à tout type de passeport pour le territoire du département de La Réunion. |
 
-|
+Namibie |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport pour le territoire du département de La Réunion.
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
-|
+Nicaragua |
 
-Namibie
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-|
+Nouvelle-Zélande |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-|
-
-Nicaragua
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Nouvelle-Zélande
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Oman
-
-|
+Oman |
 
 Dispense de visa s'appliquant seulement :
 
@@ -622,33 +388,19 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Palaos
+Palaos |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Panama |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Panama
+Paraguay |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Paraguay
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Pérou
-
-|
+Pérou |
 
 Pour entrer sur les territoires des départements de la Guadeloupe, la Martinique et la Guyane : dispense de visa de court séjour s'étendant à tout type de passeport.
 
@@ -656,9 +408,7 @@ Pour entrer sur les territoires du département de La Réunion et de la collecti
 
 |
 
-Qatar
-
-|
+Qatar |
 
 Dispense de visa s'appliquant seulement :
 
@@ -668,9 +418,13 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Russie
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
 
 |
+
+Dispense s'étendant à tout type de passeport. |
+
+Russie |
 
 Dispense de visa s'appliquant seulement :
 
@@ -680,41 +434,23 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Saint-Christophe-et-Niévès
+Saint-Christophe-et-Niévès |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Saint-Marin |
 
-|
+Dispense de visa s'étendant à tout type de passeport, y compris pour des séjours d'une durée excédant trois mois. |
 
-Saint-Marin
+Saint-Siège |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa s'étendant à tout type de passeport, y compris pour des séjours d'une durée excédant trois mois.
+Saint-Vincent et Grenadines |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Saint-Siège
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Saint-Vincent et Grenadines
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Sainte-Lucie
-
-|
+Sainte-Lucie |
 
 Pour la Guadeloupe, la Martinique et la Guyane : dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois.
 
@@ -722,41 +458,23 @@ Pour La Réunion et Saint-Pierre-et-Miquelon : dispense de visa de court séjour
 
 |
 
-Samoa
+Samoa |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Sénégal |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
-Sénégal
+Serbie |
 
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava ). |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Seychelles |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Serbie
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : Koordinaciona uprava ).
-
-|
-
-Seychelles
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Singapour
-
-|
+Singapour |
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -766,57 +484,31 @@ Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant p
 
 |
 
-Thaïlande
+Thaïlande |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
+Timor oriental |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Timor oriental
+Tonga |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Trinité-et-Tobago |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Tonga
+Tunisie |
 
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Turquie |
 
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial. |
 
-Trinité-et-Tobago
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Tunisie
-
-|
-
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial.
-
-|
-
-Turquie
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial.
-
-|
-
-Ukraine
-
-|
+Ukraine |
 
 Dispense de visa s'appliquant seulement :
 
@@ -826,25 +518,15 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Uruguay
+Uruguay |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
+Vanuatu |
 
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
-Vanuatu
-
-|
-
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
-
-Venezuela
-
-|
+Venezuela |
 
 Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
@@ -854,9 +536,7 @@ Dispense s'appliquant, sauf pour effectuer un séjour d'une durée n'excédant p
 
 |
 
-Vietnam
-
-|
+Vietnam |
 
 Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
@@ -895,3 +575,7 @@ En outre, la dispense précitée s'applique aux listes d'élèves, précisant le
 -Inde
 
 -Russie.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 28 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
