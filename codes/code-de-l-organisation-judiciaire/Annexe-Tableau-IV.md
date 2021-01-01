@@ -456,13 +456,13 @@ Bourges |
 
 |
 
-Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er Canton, Bourges 2e Canton, Bourges 3e Canton, Bourges 4e Canton, Bourges 5e Canton, Chârost, Graçay, Henrichemont, La Chapelle-d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon, Mehun-sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er Canton et Vierzon 2e Canton. |
+Cantons d'Argent-sur-Sauldre, Aubigny-sur-Nère, Baugy, Bourges 1er Canton, Bourges 2e Canton, Bourges 3e Canton, Bourges 4e Canton, Bourges 5e Canton, Chârost, Graçay, Henrichemont, La Chapelle-d'Angillon, Les Aix-d'Angillon, Léré, Levet, Lury-sur-Arnon, Mehun-sur-Yèvre, Saint-Doulchard, Saint-Martin-d'Auxigny, Sancergues, Sancerre, Vailly-sur-Sauldre, Vierzon 1er Canton et Vierzon 2e Canton et commune de Corquoy. |
 
 |
 
 Saint-Amand-Montrond |
 
-Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. |
+Cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher (à l'exception de la fraction de commune de Corquoy), Dun-sur-Auron, La Guerche-sur-l'Aubois, Le Châtelet, Lignières, Nérondes, Saint-Amand-Montrond, Sancoins et Saulzais-le-Potier. |
 
 Indre |
 
@@ -514,13 +514,13 @@ Cherbourg-en-Cotentin |
 
 |
 
-Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église (à l'exception de la fraction de commune de Carentan les Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et Valognes et commune de Picauville. |
+Cantons de Barneville-Carteret, Beaumont-Hague, Bricquebec, Cherbourg-Octeville-Nord-Ouest, Cherbourg-Octeville-Sud-Est, Cherbourg-Octeville-Sud-Ouest, Équeurdreville-Hainneville, Les Pieux, Montebourg, Quettehou, Sainte-Mère-Église (à l'exception de la fraction de commune de Carentan-les-Marais), Saint-Pierre-Église, Saint-Sauveur-le-Vicomte, Tourlaville et Valognes et communes de Picauville et de Port-Bail-Sur-Mer. |
 
 Coutances |
 
 |
 
-Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception de la fraction de commune de Picauville), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes de Carentan les Marais et de Tessy-Bocage. |
+Cantons de Bréhal, Canisy, Carentan, Cerisy-la-Salle, Coutances, Gavray, La Haye-du-Puits (à l'exception des fractions de communes de Picauville et de Port-Bail-sur-Mer), Lessay, Marigny, Montmartin-sur-Mer, Percy, Périers, Saint-Clair-sur-l'Elle, Saint-Jean-de-Daye, Saint-Lô-Est, Saint-Lô-Ouest, Saint-Malo-de-la-Lande, Saint-Sauveur-Lendelin, Tessy-sur-Vire et Torigni-sur-Vire et communes de Carentan-les-Marais et de Tessy-Bocage. |
 
 |
 
@@ -534,13 +534,13 @@ Alençon |
 
 |
 
-Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées et Tourouvre et commune de Chailloué. |
+Cantons d'Alençon 1er Canton, Alençon 2e Canton, Alençon 3e Canton, Bazoches-sur-Hoëne, Bellême, Carrouges, Courtomer, L'Aigle-Est, L'Aigle-Ouest, Le Theil, Le Mêle-sur-Sarthe, Longny-au-Perche, Mortagne-au-Perche, Moulins-la-Marche, Nocé, Pervenchères, Rémalard, Sées (à l'exception de la fraction de commune de Mortrée) et Tourouvre et commune de Chailloué. |
 
 Argentan |
 
 |
 
-Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers. |
+Cantons d'Argentan-Est, Argentan-Ouest, Briouze, Écouché, Exmes, Gacé, La Ferté-Frênel, Le Merlerault, Mortrée (à l'exception de la fraction de commune de Chailloué), Putanges-Pont-Écrepin, Trun et Vimoutiers et commune de Mortrée. |
 
 |
 
@@ -2124,4 +2124,4 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 NOTA :
 
-Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+Conformément à l’article 2 du décret n° 2020-1151 du 18 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
