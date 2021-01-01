@@ -1,5 +1,7 @@
 # Article Annexe I
 
-La déclaration périodique des stocks en entrepôt pétrolier "PSE Volume" est enregistrée sous le numéro CERFA 10863.01.
+Les déclarations périodiques des stocks en entrepôt pétrolier “ PSE Volume ” et “ PSE Poids ” sont établies sur les modèles fixés par l'administration.
 
-La déclaration périodique des stocks en entrepôt pétrolier "PSE Poids" est enregistrée sous le numéro CERFA 10864.01.
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 9 juin 2020, ces dispositions entreront en vigueur au 1er janvier 2021.
