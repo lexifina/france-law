@@ -2,14 +2,6 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 avril 2019 :
-
-Saint-Denis de La Réunion - Pemba (Mozambique).
-
-Jusqu'au 30 juin 2019 :
-
-Saint-Denis de La Réunion-Praslin (Seychelles).
-
 Jusqu'au 31 mars 2024 :
 
 Saint-Denis de La Réunion - Anjouan (Comores) ;
@@ -18,31 +10,23 @@ Saint-Denis de La Réunion - Diego-Suarez (Madagascar) ;
 
 Saint-Denis de La Réunion - Dar es Salaam (Tanzanie).
 
-Jusqu'au 29 février 2020 :
+Jusqu'au 27 mars 2021 :
 
-Saint-Pierre de La Réunion - Rodrigues (Maurice).
+Dzaoudzi-Moroni (Comores) ;
 
-Jusqu'au 31 décembre 2020 :
+Saint-Denis de La Réunion-Bangkok (Thaïlande) ;
 
-Dzaoudzi - Moroni (Comores) ;
+Saint-Denis de La Réunion-Johannesbourg (Afrique du Sud) ;
 
-Saint-Denis de La Réunion - Bangkok (Thaïlande) ;
+Saint-Denis de La Réunion-Mahé (Seychelles) ;
 
-Saint-Denis de La Réunion - Johannesbourg (Afrique du Sud) ;
+Saint-Denis de La Réunion-Moroni (Comores) ;
 
-Saint-Denis de La Réunion - Mahé (Seychelles) ;
+Saint-Denis de La Réunion-Nosy Be (Madagascar) ;
 
-Saint-Denis de La Réunion - Majunga (Madagascar) ;
+Saint-Denis de La Réunion-Tamatave (Madagascar) ;
 
-Saint-Denis de La Réunion - Port Louis (Maurice) ;
-
-Saint-Denis de La Réunion - Moroni (Comores) ;
-
-Saint-Denis de La Réunion - Nosy Be (Madagascar) ;
-
-Saint-Denis de La Réunion - Tamatave (Madagascar) ;
-
-Saint-Denis de La Réunion -Tananarive (Madagascar).
+Saint-Denis de La Réunion-Tananarive (Madagascar).
 
 Jusqu'au 31 mai 2021 :
 
