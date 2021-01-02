@@ -304,7 +304,7 @@ Provence-Alpes-Côte d'Azur.
 
 Rhône-Alpes.
 
-Comité technique spécial placé auprès de la direction générale des patrimoines.
+Comité technique spécial placé auprès de la direction générale des patrimoines et de l'architecture.
 
 Comité technique spécial du mobilier national, manufactures nationales des Gobelins, de Beauvais et de la Savonnerie.
 
@@ -386,7 +386,7 @@ Commission consultative paritaire des agents publics non titulaires relevant des
 
 Commission consultative paritaire des agents publics non titulaires relevant du secrétariat général, d'un service déconcentré, d'une autre direction ou délégation que celle précitée ou de l'un des établissements publics administratifs figurant dans la liste figurant en annexe n° 4 de l'arrêté du 17 décembre 2009 instituant des commissions consultatives paritaires des agents non titulaires des services et de certains établissements du ministère de la culture et de la communication, placée auprès du secrétaire général du ministère.
 
-Commission consultative paritaire pour les agents non titulaires de l' Etablissement public du musée du quai Branly - Jacques Chirac.
+Commission consultative paritaire pour les agents non titulaires de l'Etablissement public du musée du quai Branly-Jacques Chirac.
 
 Commission consultative paritaire compétente pour les agents non titulaires du Centre des monuments nationaux.
 

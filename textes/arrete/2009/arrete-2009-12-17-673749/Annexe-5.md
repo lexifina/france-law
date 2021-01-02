@@ -26,7 +26,7 @@ Femmes |
 
 Hommes |
 
-CCP des agents publics non titulaires relevant de la direction générale du patrimoine et des établissements publics mentionnés en annexe 2 |
+CCP des agents publics non titulaires relevant de la direction générale des patrimoines et de l'architecture et des établissements publics mentionnés en annexe 2 |
 
 57,84 % |
 

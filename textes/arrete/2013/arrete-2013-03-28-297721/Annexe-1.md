@@ -154,7 +154,7 @@ CT de l'Etablissement public du musée des arts asiatiques Guimet.
 
 CT de l'Etablissement public du musée du Louvre.
 
-CT de l' Etablissement public du musée du quai Branly - Jacques Chirac.
+CT de l'Etablissement public du musée du quai Branly-Jacques Chirac.
 
 CT de l'Etablissement public du château, du musée et du domaine national de Versailles.
 
@@ -186,7 +186,7 @@ CT spécial de la direction interrégionale Rhône-Alpes-Auvergne.
 
 CT spécial du siège de l'Institut national de recherches archéologiques préventives.
 
-CT commun aux écoles nationales supérieures d'architecture, placé auprès du directeur général des patrimoines.
+CT commun aux écoles nationales supérieures d'architecture, placé auprès du directeur général des patrimoines et de l'architecture.
 
 Comités d'hygiène, de sécurité et des conditions de travail (CHSCT)
 
@@ -358,7 +358,7 @@ CHSCT de l'Etablissement public du musée des arts asiatiques Guimet.
 
 CHSCT de l'Etablissement public du musée du Louvre.
 
-CHSCT de l' Etablissement public du musée du quai Branly - Jacques Chirac.
+CHSCT de l'Etablissement public du musée du quai Branly-Jacques Chirac.
 
 CHSCT de l'Etablissement public du château, du musée et du domaine national de Versailles.
 

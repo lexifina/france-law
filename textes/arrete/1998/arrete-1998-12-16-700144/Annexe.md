@@ -4,7 +4,7 @@ LISTE DES COMPTABLES ASSIGNATAIRES DES SERVICES A COMPETENCE NATIONALE
 
 SERVICE À COMPÉTENCE NATIONALE
 
-placé sous l'autorité du directeur général des patrimoines
+placé sous l'autorité du directeur général des patrimoines et de l'architecture
 
 |
 
