@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200817624
+
+- Question : [SEQ200817624](seq200817624.md) — Caisse des Français de l'étranger et affiliation à l'assurance maladie
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-01-07, page 52*
+
+L'article 15 de la loi n° 2020-1379 du 14 novembre 2020 autorisant la prorogation de l'état d'urgence sanitaire et portant diverses mesures de gestion de la crise sanitaire a reconduit le précédent dispositif introduit par l'article 13 de la loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de Covid-19. En vertu de ces dispositions, et par dérogation aux textes en vigueur, les Français expatriés, rentrés définitivement en France entre le 1er octobre 2020 et le 1er avril 2021 et n'exerçant pas d'activité professionnelle, sont affiliés à l'assurance maladie et maternité sans que ne puisse leur être opposé un délai de carence. Cette mesure est applicable à l'ensemble des Français qui reviennent résider en France, qu'ils aient adhéré à la Caisse des Français de l'étranger (CFE) ou non. Du fait de la crise sanitaire, l'adhérent de la CFE peut, de manière exceptionnelle et lorsqu'il est revenu en France uniquement en séjour temporaire, continuer à bénéficier de son assurance maladie volontaire à la CFE jusqu'à 6 mois. Au-delà, le régime maladie obligatoire de sécurité sociale prend le relais si l'adhérent demeure toujours sur le territoire national, car il sera considéré comme résident. En pratique, un certificat de radiation est émis par la CFE afin de permettre à l'adhérent une affiliation au régime obligatoire d'assurance maladie et maternité sans délai de carence. Par ailleurs, le dispositif de la catégorie aidée de la CFE reste accessible pour ses clients dès lors que leurs revenus le justifient, selon les modalités prévues par les textes.
