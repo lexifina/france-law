@@ -62,33 +62,25 @@ Antigua-et-Barbuda
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Arabie saoudite
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Argentine
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Arménie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Australie
 
@@ -106,17 +98,13 @@ Azerbaïdjan
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Bahamas
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Bahreïn
 
@@ -134,49 +122,35 @@ Barbade
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Bénin
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé.
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique sécurisé. |
 
-|
+Bermudes (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des Bermudes) |
 
-Bermudes (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des Bermudes)
-
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page de données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Bermuda".
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page de données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Bermuda". |
 
 Biélorussie
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport et d'un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport et d'un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. |
 
 Bolivie
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Bosnie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
 Brésil
 
@@ -190,9 +164,7 @@ Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas tro
 
 |
 
-Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas "British Citizen"
-
-|
+Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas "British Citizen" |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personelles, à la rubrique "nationalité" :
 
@@ -206,73 +178,55 @@ Brunei
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Canada
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Chili
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Chine
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport et d'un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport et d'un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. |
 
 Chine (Hong Kong)
 
 |
 
-Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine.
-
-|
+Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine. |
 
 Chine (Macao)
 
 |
 
-Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine.
-
-|
+Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine. |
 
 Chine (Taïwan)
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité. |
 
 Colombie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Congo (Brazzaville)
 
 |
 
-Dispense de visa s'appliquant jusqu'au 31 juillet 2015 aux seuls titulaires d'un passeport diplomatique sécurisé.
-
-|
+Dispense de visa s'appliquant jusqu'au 31 juillet 2015 aux seuls titulaires d'un passeport diplomatique sécurisé. |
 
 Corée du Sud
 
@@ -290,41 +244,31 @@ Costa Rica
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Croatie
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 République dominicaine
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service.
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service. |
 
 Dominique
 
 |
 
-Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois s'étendant aux collectivités de Saint-Barthélemy et de Saint-Martin.
-
-|
+Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois s'étendant aux collectivités de Saint-Barthélemy et de Saint-Martin. |
 
 El Salvador
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Emirats arabes unis
 
@@ -342,9 +286,7 @@ Equateur
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Etats-Unis
 
@@ -362,33 +304,25 @@ Gabon
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Géorgie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Guatemala
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Honduras
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Inde
 
@@ -406,9 +340,7 @@ Israël
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Japon
 
@@ -426,17 +358,13 @@ Jordanie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Kazakhstan
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Koweït
 
@@ -450,45 +378,33 @@ Dispense de visa s'appliquant seulement :
 
 |
 
-Macédoine (ancienne République yougoslave de)
+Macédoine (ancienne République yougoslave de) |
 
-|
-
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
 Malaisie
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Mariannes du Nord
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Maroc
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Maurice
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Mexique
 
@@ -506,65 +422,47 @@ Moldavie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
 Monaco
 
 |
 
-Dispense de visa y compris pour des séjours d'une durée excédant trois mois.
-
-|
+Dispense de visa y compris pour des séjours d'une durée excédant trois mois. |
 
 Mongolie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Monténégro
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique.
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
-|
+Montserrat (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique de Montserrat) |
 
-Montserrat (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique de Montserrat)
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Montserrat".
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Montserrat". |
 
 Namibie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Nicaragua
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Nouvelle-Zélande
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Oman
 
@@ -582,25 +480,19 @@ Panama
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Paraguay
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Pérou
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. |
 
 Qatar
 
@@ -611,6 +503,12 @@ Dispense de visa s'appliquant seulement :
 - aux titulaires d'un passeport diplomatique ou spécial ;
 
 - aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+
+|
+
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord |
+
+Dispense s'étendant à tout type de passeport.
 
 |
 
@@ -630,57 +528,43 @@ Saint-Christophe-et-Niévès
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Saint-Marin
 
 |
 
-Dispense de visa y compris pour des séjours d'une durée excédant trois mois.
-
-|
+Dispense de visa y compris pour des séjours d'une durée excédant trois mois. |
 
 Saint-Siège
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Sainte-Lucie
 
 |
 
-Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois.
-
-|
+Dispense de visa pour des séjours d'une durée inférieure ou égale à quinze jours, dans la limite de cent vingt jours cumulés sur une période de douze mois. |
 
 Sénégal
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Serbie
 
 |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : "Koordinaciona uprava").
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'un passeport biométrique, à l'exclusion des titulaires de passeports serbes délivrés par la direction de coordination serbe (en serbe : "Koordinaciona uprava"). |
 
 Seychelles
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Singapour
 
@@ -698,41 +582,27 @@ Thaïlande
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Tunisie
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial.
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. |
 
-|
+Iles Turks et Caicos (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Turks et Caicos) |
 
-Iles Turks et Caicos (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Turks et Caicos)
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Turks and Caicos Islands". |
 
-|
+Iles Vierges britanniques (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Vierges britanniques) |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "Turks and Caicos Islands".
-
-|
-
-Iles Vierges britanniques (passeport délivré par le représentant de la Couronne dans le territoire d'outre-mer britannique des îles Vierges britanniques)
-
-|
-
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "British Virgin Islands".
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport britannique portant, sur la page des données personnelles, la mention "British Overseas Territories Citizen" ou "British Dependent Territories Citizen" et la mention "British Virgin Islands". |
 
 Turquie
 
 |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial.
-
-|
+Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial. |
 
 Ukraine
 
@@ -750,9 +620,7 @@ Uruguay
 
 |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport.
-
-|
+Dispense de visa de court séjour s'étendant à tout type de passeport. |
 
 Venezuela
 
@@ -770,9 +638,7 @@ Vietnam
 
 |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique.
-
-|
+Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 2. Liste des catégories spécifiques d'étrangers dispensés de visa pour l'entrée sur le territoire des collectivités de Saint-Barthélemy et de Saint-Martin, et limites à cette dispense :
 
@@ -797,3 +663,7 @@ d) Les passagers des navires de croisière pour entrer et y séjourner pendant l
 - ils sont titulaires d'un visa en cours de validité délivré par une autorité française pour une autre partie du territoire de la France ;
 
 e) Les passagers se trouvant dans un port de Saint-Barthélemy ou de Saint-Martin (partie française) à bord d'un navire y faisant escale, en provenance ou à destination de l'étranger, dès lors qu'ils ne quittent pas le navire.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 28 décembre 2020, ces dispositions entrent en vigueur le 7 janvier 2021.
