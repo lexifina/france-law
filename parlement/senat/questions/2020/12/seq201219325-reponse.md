@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219325
+
+- Question : [SEQ201219325](seq201219325.md) — Tension au Sahara occidental
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-01-07, page 62*
+
+La France suit avec préoccupation les évènements de Guerguerate, à la suite du blocage du point de passage dans cette zone, qui a entravé la libre circulation et mis en péril le respect du cessez-le-feu au Sahara occidental. Lors de sa dernière visite à Rabat le 9 novembre 2020, le ministre de l'Europe et des affaires étrangères a exprimé publiquement sa préoccupation quant au blocage de ce point de passage et à ses conséquences. Il est en contact régulier à ce sujet avec ses homologues marocain et algérien. La situation sur le terrain reste volatile et nous appelons à éviter toute action qui conduirait à une escalade. La France appelle au plein respect du cessez-le-feu sous la supervision de la Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (MINURSO), dont le rôle est essentiel. Celle-ci constitue un facteur clé pour la stabilité de la région et contribue à créer les conditions nécessaires à la reprise du processus politique. La France se félicite à cet égard de l'adoption de la résolution 2548 par le Conseil de sécurité des Nations unies, le 30 octobre 2020, qui renouvelle pour un an le mandat de la MINURSO. Les récents événements démontrent l'importance d'une relance rapide du processus politique, qui passe notamment par la nomination dans les meilleurs délais d'un nouvel Envoyé personnel du Secrétaire général des Nations unies. Notre position n'a pas changé. La France soutient les efforts du Secrétaire général des Nations unies en faveur d'une solution politique juste, durable et mutuellement acceptable au Sahara occidental, conformément aux résolutions du Conseil de sécurité des Nations unies. Dans ce cadre, le plan d'autonomie marocain de 2007 constitue une base sérieuse et crédible de discussions.
