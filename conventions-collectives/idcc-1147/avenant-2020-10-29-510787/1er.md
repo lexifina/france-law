@@ -1,6 +1,6 @@
 # Article 1er
 
-1.1. Contribution des entreprises
+1.1. Contribution des entreprises
 
 En application des dispositions en vigueur du code du travail, les entreprises de la branche du personnel des cabinets médicaux versent, à l'opérateur de compétences désigné, une contribution conventionnelle de formation professionnelle qui est fixée en fonction de la taille de l'entreprise comme suit :
 
@@ -12,7 +12,7 @@ En application des dispositions en vigueur du code du travail, les entreprises d
 
 Toutes les entreprises de la branche du personnel des cabinets médicaux sont concernées, quel que soit leur lieu d'implantation sur le territoire national.
 
-1.2. Opérateur de compétences désigné et principes de gestion
+1.2. Opérateur de compétences désigné et principes de gestion
 
 L'organisme désigné pour gérer les contributions conventionnelles des entreprises de la branche du personnel des cabinets médicaux est l'opérateur de compétences des entreprises de proximité.
 
