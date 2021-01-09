@@ -44,10 +44,6 @@ Maison de justice et du droit de Saint-Lô |
 
 Conseil de prud'hommes de Cherbourg-en-Cotentin |
 
-Cour d'appel de Cayenne |
-
-Maison de justice et du droit de Saint-Laurent-du-Maroni |
-
 Cour d'appel de Chambéry |
 
 Conseil de prud'hommes d'Aix-les-bains |
@@ -121,7 +117,3 @@ Conseil de prud'hommes de Châteaudun |
 Conseil de prud'hommes d'Argenteuil |
 
 Conseil de prud'hommes de Saint-Germain-en-Laye |
-
-NOTA :
-
-Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.
