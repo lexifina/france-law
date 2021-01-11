@@ -42,7 +42,7 @@ Marseille
 
 |
 
-Aubagne.
+Aubagne, Marseille.
 
 |
 
@@ -945,7 +945,3 @@ Les Mureaux, Saint-Quentin-en-Yvelines.
 (4) Applicable à compter du 1er janvier 2011.
 
 |
-
-NOTA :
-
-Conformément à l'article 3 de l’arrêté du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912.
