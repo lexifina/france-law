@@ -10,31 +10,57 @@ Remarques :
 
 - l'introduction sur le territoire national, la détention, le transport, le colportage, l'utilisation, l'échange, la mise en vente, la vente ou l'achat de tout spécimen vivant des espèces dont le nom est suivi du symbole (*) dans la présente annexe sont interdits, en application du I de l'article L. 411-6 du code de l'environnement. L'introduction sur le territoire national, la détention, le transport, l'utilisation et l'échange de spécimens de ces espèces ne pourront être autorisés par l'autorité administrative que par exception, dans les conditions décrites au II de ce même article. Un régime particulier de détention est également prévu, au bénéfice de l'antériorité, lorsque les conditions fixées par le I de l'article R. 411-39 du code de l'environnement sont satisfaites ; la détention des spécimens concernés est alors dispensée de certificat de capacité et d'autorisation d'ouverture.
 
-Noms scientifiques (Noms vernaculaires) |
+Noms scientifiques (Noms vernaculaires)
 
-Régime de détention en fonction des effectifs d'animaux adultes |
+|
 
-(a) |
+Régime de détention en fonction des effectifs d'animaux adultes
 
-(b) |
+|
 
-(c) |
+(a)
 
-Pas de formalité |
+|
 
-Déclaration de détention |
+(b)
 
-Certificat de capacité et autorisation d'ouverture |
+|
 
-Sauf mention contraire expresse dans la suite du présent tableau, espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé |
+(c)
 
-s.o. |
+|
 
-s.o. |
+Pas de formalité
 
-1 et plus |
+|
+
+Déclaration de détention
+
+|
+
+Certificat de capacité et autorisation d'ouverture
+
+|
+
+Sauf mention contraire expresse dans la suite du présent tableau, espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
 
 Sauf mention contraire expresse dans la suite du présent tableau, espèces protégées en application de l'article L. 411-1 du code de l'environnement listées dans les arrêtés suivants :
+
+- Arrêté du 15 mai 1986 relatif aux mammifères protégés de Guyane. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national ou sur le territoire hors Guyane.
 
 - Arrêté du 17 février 1989 relatif aux mesures de protection des espèces animales représentées dans le département de La Réunion. Le régime de détention indiqué ci-contre s'applique aux espèces concernées uniquement sur le territoire réunionnais.
 
@@ -82,755 +108,3359 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 
 - Arrêté du 17 janvier 2018 relatif aux mammifères terrestres protégés à Saint-Martin. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
--Arrêté du 8 janvier 2021 fixant la liste des amphibiens et des reptiles représentés sur le territoire métropolitain protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
-
 - Arrêté du 19 novembre 2020 fixant la liste des amphibiens et des reptiles représentés dans le département de la Guyane protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
+-Arrêté du 8 janvier 2021 fixant la liste des amphibiens et des reptiles représentés sur le territoire métropolitain protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+I. MAMMIFERES
+
+|
+
+|
+
+|
+
+|
+
+1° Monotremata (Echidnés, ornithorynques)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+2° Didelphimorphia (Opossums)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+3° Paucituberculata (Opossums rats)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+4° Microbiotheria (Colocolos)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+5° Notoryctemorphia (Taupes marsupiales)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+6° Dasyuromorphia (Diable de Tasmanie, souris et rats marsupiaux)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+7° Peramelemorphia (Bandicoots)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+8° Diprotodontia (Kangourous, koala)
+
+|
+
+|
+
+|
+
+|
+
+- Macropus rufogriseus (Wallaby de Benett)
+
+|
+
+s.o.
+
+|
+
+De 1 à 6
+
+|
+
+7 et plus
+
+|
+
+- Toutes les autres espèces de Diprodontia
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+9° Tubulidentata (Oryctéropes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+10° Sirenia (Dugong, lamantins)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+11° Afrosoricida (Taupes dorés, tenrecs)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+12° Macroscelididea (Musaraignes à trompe)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+13° Hyracoidea (Damans)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+14° Proboscidea (Eléphants)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+15° Cingulata (Tatous)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+16° Pilosa (Paresseux, tamanoirs)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+17° Scandentia (Toupailles)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+18° Dermoptera (Galéopithèques)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+19° Primates (Lémuriens, singes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+20° Rodentia (Rongeurs)
+
+|
+
+|
+
+|
+
+|
+
+- Aplodontidés (Castor de montagne)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Sciurus carolinensis (Écureuil gris) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Sciurus niger (Écureuil fauve) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tamias sibiricus (Écureuil de Corée ou tamia de Sibérie) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Callosciurus erythraeus (Écureuil à ventre rouge) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Toutes les autres espèces de Sciuridés (Écureuils, marmottes et chiens de prairie)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Castoridés (Castors)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Dipodidés (Gerboises)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Dendromurinés (Rats arboricoles africains)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Carpomys spp. (Rats des Philippines)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Celaenomys spp. (Rat musaraigne)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Chiruromys spp. (Rats à queue préhensile)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Chrotomys spp. (Rats des Philippines)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Coccymys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Crateromys spp. (Rats des nuages)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Cremnomys spp. (Rats indiens)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Crossomys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Crunomys spp. (Rats des Philippines)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Hyomys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Lenomys spp. (Rat des Célèbes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Leporillus spp. (Rats australiens)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Leptomys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Lorentzimys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Mallomys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Mayermys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Melasmothrix spp. (Rat des Célèbes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Melomys spp. (Rats des bananes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Ondatra zibethicus (Rat musqué) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Myocastor coypus (Ragondin) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Paraleptomys spp. (Rats de Nouvelle-Guinée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Phloeomys spp. (Rat des nuages)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pogonomelomys spp. (Rats de Rummler)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pogonomys spp. (Rats à queue préhensile)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Rhynchomys spp. (Rat musaraigne)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Solomys spp. (Rats des îles Salomon)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Stenomys spp. (Rat de l'île Céram)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Uromys spp. (Rat géant à queue nue)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Myospalacinés (Zokors)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Nésomyinés (Rats de Madagascar)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Spalacinés (Spalax)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Anomaluridés (Ecureuils volants africains)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pédétidés (Lièvre du Cap, etc.)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Cténodactylidés (Gundis)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Bathyergidés (Rats-taupes africains)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Hystrichidés (Porcs-épics)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pétromuridés (Rats des rochers)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Thryonomyidés (Aulacodes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Erethizontidés (Couendous)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Dinomyidés (Pacarana)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Dolichotinés (Maras ou lièvres de Patagonie)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Hydrochaeridés (Capybaras)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Dasyproctidés (Agoutis)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Agoutidés (Pacas)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Echimyidés (Rats épineux)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Rattus norvegicus (Rat surmulot)
+
+|
+
+s.o.
+
+|
+
+De 1 à 40
+
+|
+
+41 et plus
+
+|
+
+- Toutes les autres espèces de Rodentia, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+21° Lagomorpha (Lapins)
+
+|
+
+|
+
+|
+
+|
+
+- Ochotonidés (Pikas)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Bunolagus spp. (Lapin hottentot)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Caprolagus spp. (Lapin de l'Assam)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Nesolagus spp. (Lapin de Sumatra)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pentalagus spp. (Lapin des Ryukyu)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Romerolagus spp. (Lapin des volcans)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Sylvilagus floridanus (Lapin américain)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Toutes les autres espèces de Lagomorpha, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+22° Erinaceomorpha (Hérissons)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+23° Soricomorpha (Musaraignes, taupes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+24° Chiroptera (Chauves-souris)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+25° Pholidota (Pangolins)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+26° Carnivora (Canidés, félins)
+
+|
+
+|
+
+|
+
+|
+
+- Viverridés (Civettes, genettes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Herpestes javanicus (Mangouste de java) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces d'Herpestidés (Mangoustes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Nyctereutes procyonoides (Chien viverrin) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Neovison vison = Mustela vison (Vison d'Amérique)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Mustélidés dont le poids adulte est inférieur à 6 kilogrammes, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 susvisé ou sont protégés en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+s.o.
+
+|
+
+De 1 à 6
+
+|
+
+7 et plus
+
+|
+
+- Nasua nasua (Coati roux) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Procyon lotor (Raton laveur) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces de Procyonidés (Ratons laveurs, kinkajou, bassaricyons, coatis)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces de Carnivora dont le poids adulte est supérieur ou égal à 6 kilogrammes
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Toutes les autres espèces de Carnivora, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 6
+
+|
+
+s.o.
+
+|
+
+7 et plus
+
+|
+
+27° Perissodactyla (Equidés, rhinocéros)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+28° Artiodactyla (Chameaux, porcins, ruminants)
+
+|
+
+|
+
+|
+
+|
+
+- Sus scrofa (Sanglier)
+
+|
+
+s.o.
+
+|
+
+1
+
+|
+
+2 et plus
+
+|
+
+- Autres espèces de Suidés (Sangliers)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tayassuidés (Pécaris)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Hippopotamidés (Hippopotames)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Camélidés (Chameaux, lamas, vigognes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tragulidés (Chevrotains)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Moschidés (Chevrotains porte musc)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Dama dama (Daim)
+
+|
+
+|
+
+|
+
+|
+
+Spécimens mâles
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+Spécimens femelles
+
+|
+
+s.o.
+
+|
+
+De 1 à 3
+
+|
+
+4 et plus
+
+|
+
+- Muntiacus reevesi (Muntjack de Reeves) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Cervidés (Cerfs, chevreuils, élans, rennes, etc.)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Antilocapridés (Antilocapres)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Giraffidés (Girafes, okapis)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Bovidés (Antilopes, gazelles, bovinés)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Toutes les autres espèces d'Artiodactyla, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 6
+
+|
+
+s.o.
+
+|
+
+7 et plus
+
+|
+
+29° Cetacea (Dauphins, baleines, rorqual)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+II. OISEAUX
+
+|
+
+|
+
+|
+
+|
+
+1° Struthioniformes (Autruches)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+2° Rheiformes (Nandous)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+3° Apterygiformes (Kiwis)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+4° Casuariiformes (Casoars, Emeus)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+5° Tinamiformes (Tinamous)
+
+|
+
+|
+
+|
+
+|
+
+- Eudomia elegans (Tinamou élégant)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Rhynchotus rufescens (Tinamou isabelle)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Toutes les autres espèces de Tinamiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+6° Anseriformes (Canards, oies, cygnes, etc.)
+
+|
+
+|
+
+|
+
+|
+
+- Anhimidés (Kamichis)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Branta canadensis (Bernache du Canada)
+
+|
+
+s.o.
+
+|
+
+De 1 à 100
+
+|
+
+101 et plus
+
+|
+
+- Branta ruficollis (Bernache à cou roux)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Branta sandvicensis (Bernache néné)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Merganetta spp. (Merganettes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Alopochen aegyptiacus (Ouette d'Egypte) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Nettapus spp. (Anserelles)
+
+|
+
+s.o.
+
+|
+
+De 1 à 100
+
+|
+
+101 et plus
+
+|
+
+- Anas laysanensis (Sarcelle de Laysan)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Anas querquedula (Sarcelle d'été)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Aythya nyroca (Fuligule nyroca)
+
+|
+
+s.o.
+
+|
+
+De 1 à 100
+
+|
+
+101 et plus
+
+|
+
+- Oxyura leucocephala (Erismature à tête blanche)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Oxyura jamaicensis (Erismature rousse) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Anatidés, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97
+
+|
+
+s.o.
+
+|
+
+De 1 à 100
+
+|
+
+101 et plus
+
+|
+
+- Autres Anatidés, lorsqu'ils figurent à l'article 4 de l'arrêté du 25 mars 2015 précité
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Autres Anatidés, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
+
+|
+
+s.o.
+
+|
+
+De 1 à 100
+
+|
+
+101 et plus
+
+|
+
+- Toutes les autres espèces d'Ansériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+7° Galliformes (Dindes, poules, pintades, cailles, faisans, etc.)
+
+|
+
+|
+
+|
+
+|
+
+- Mégapodidés (Talégalles et Leipoa)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Cracidés (Hoccos, ortalides et pénélopes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+s.o.
+
+|
+
+De 1 à 10
+
+|
+
+11 et plus
+
+|
+
+- Colinus virginianus ridgwayi (Colin de Virginie)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Colinus virginianus virginianus (Colin de Virginie)
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+- Tétraoninés (Tétras, lagopèdes, cupidon), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+s.o.
+
+|
+
+De 1 à 10
+
+|
+
+11 et plus
+
+|
+
+- Coturnix chinensis (Caille peinte)
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+- Coturnix japonica (Caille du Japon)
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+- Ithaginis cruentus (Ithagine ensanglanté)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tragopan blythii (Tragopan de Blyth)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tragopan caboti (Tragopan de Cabot)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tragopan melanocephalus (Tragopan de Hastings)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Lophophorus impejanus (Lophophore resplendissant)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Lophura bulweri (Faisan de Bulwer)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Lophura edwardsi (Faisan d'Edwards)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Lophura swinhoii (Faisan de Swinhoe)
+
 |
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Crossoptilon crossoptilon (Hokki blanc)
 
-1 et plus |
+|
 
-I. MAMMIFERES |
+De 1 à 100
 
 |
+
+s.o.
 
 |
 
+101 et plus
+
 |
 
-1° Monotremata (Echidnés, ornithorynques) |
+- Crossoptilon mantchuricum (Hokki brun)
 
-s.o. |
+|
 
-s.o. |
+De 1 à 100
 
-1 et plus |
+|
 
-2° Didelphimorphia (Opossums) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+101 et plus
 
-1 et plus |
+|
 
-3° Paucituberculata (Opossums rats) |
+- Catreus wallichii (Faisan de Wallich)
 
-s.o. |
+|
 
-s.o. |
+De 1 à 100
 
-1 et plus |
+|
 
-4° Microbiotheria (Colocolos) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+101 et plus
 
-1 et plus |
+|
 
-5° Notoryctemorphia (Taupes marsupiales) |
+- Syrmaticus ellioti (Faisan d'Elliot)
 
-s.o. |
+|
 
-s.o. |
+De 1 à 100
 
-1 et plus |
+|
 
-6° Dasyuromorphia (Diable de Tasmanie, souris et rats marsupiaux) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+101 et plus
 
-1 et plus |
+|
 
-7° Peramelemorphia (Bandicoots) |
+- Syrmaticus humiae (Faisan de Hume)
 
-s.o. |
+|
 
-s.o. |
+De 1 à 100
 
-1 et plus |
+|
 
-8° Diprotodontia (Kangourous, koala) |
+s.o.
 
 |
+
+101 et plus
 
 |
 
+- Syrmaticus mikado (Faisan mikado)
+
 |
 
-- Macropus rufogriseus (Wallaby de Benett) |
+De 1 à 100
 
-s.o. |
+|
 
-De 1 à 6 |
+s.o.
 
-7 et plus |
+|
 
-- Toutes les autres espèces de Diprodontia |
+101 et plus
 
-s.o. |
+|
 
-s.o. |
+- Polyplectron malacense (Eperonnier de Hardwick)
 
-1 et plus |
+|
 
-9° Tubulidentata (Oryctéropes) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-10° Sirenia (Dugong, lamantins) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Polyplectron napoleonis = Polyplectron emphanum (Eperonnier napoléon)
 
-1 et plus |
+|
 
-11° Afrosoricida (Taupes dorés, tenrecs) |
+De 1 à 100
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-12° Macroscelididea (Musaraignes à trompe) |
+101 et plus
 
-s.o. |
+|
 
-s.o. |
+- Polyplectron schleiermacheri (Eperonnier de Bornéo)
 
-1 et plus |
+|
 
-13° Hyracoidea (Damans) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-14° Proboscidea (Eléphants) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Rheinardia ocellata (Rheinarte ocellé)
 
-1 et plus |
+|
 
-15° Cingulata (Tatous) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-16° Pilosa (Paresseux, tamanoirs) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Argusianus argus (Argus géant)
 
-1 et plus |
+|
 
-17° Scandentia (Toupailles) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-18° Dermoptera (Galéopithèques) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Pavo congensis (Paon du Congo)
 
-1 et plus |
+|
 
-19° Primates (Lémuriens, singes) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-20° Rodentia (Rongeurs) |
+1 et plus
 
 |
+
+- Autres Phasianidés, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97
 
 |
 
+s.o.
+
 |
+
+De 1 à 100
 
-- Aplodontidés (Castor de montagne) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Autres Phasianidés, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-- Sciurus carolinensis (Écureuil gris) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 100
 
-- Sciurus niger (Écureuil fauve) (*) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Toutes les autres espèces de Galliformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-- Tamias sibiricus (Écureuil de Corée ou tamia de Sibérie) (*) |
+|
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Callosciurus erythraeus (Écureuil à ventre rouge) (*) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+8° Gaviiformes (Plongeons)
 
-- Toutes les autres espèces de Sciuridés (Écureuils, marmottes et chiens de prairie) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Castoridés (Castors) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+9° Sphenisciformes (Manchots)
 
-- Dipodidés (Gerboises) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Dendromurinés (Rats arboricoles africains) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+10° Procellariiformes (Océanites, albatros, fulmars, pétrels, puffins, etc.)
 
-- Carpomys spp. (Rats des Philippines) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Celaenomys spp. (Rat musaraigne) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+11° Podicipediformes (Grèbes)
 
-- Chiruromys spp. (Rats à queue préhensile) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Chrotomys spp. (Rats des Philippines) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+12° Phoenicopteriformes (Flamants)
 
-- Coccymys spp. (Rats de Nouvelle-Guinée) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Crateromys spp. (Rats des nuages) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+13° Phaethontiformes (Phaétons)
 
-- Cremnomys spp. (Rats indiens) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Crossomys spp. (Rats de Nouvelle-Guinée) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+14° Ciconiiformes (Cigognes, jabirus, etc.)
 
-- Crunomys spp. (Rats des Philippines) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Hyomys spp. (Rats de Nouvelle-Guinée) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+15° Pelecaniformes (Ibis, hérons, pélicans, etc.)
 
-- Lenomys spp. (Rat des Célèbes) |
+|
 
-s.o. |
+|
 
-s.o. |
+|
 
-1 et plus |
+|
 
-- Leporillus spp. (Rats australiens) |
+- Threskiornis aethiopicus (ibis sacré) (*)
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Leptomys spp. (Rats de Nouvelle-Guinée) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Lorentzimys spp. (Rats de Nouvelle-Guinée) |
+- Autres Threskiornithidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et protégés en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Mallomys spp. (Rats de Nouvelle-Guinée) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+7 et plus
 
-1 et plus |
+|
 
-- Mayermys spp. (Rats de Nouvelle-Guinée) |
+- Toutes les autres espèces de Pelecaniformes
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Melasmothrix spp. (Rat des Célèbes) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Melomys spp. (Rats des bananes) |
+16° Suliformes (Frégates, fous, cormorans, anhingas, etc.)
 
-s.o. |
+|
 
-s.o. |
+|
 
-1 et plus |
+|
 
-- Ondatra zibethicus (Rat musqué) (*) |
+|
 
-s.o. |
+- Phalacrocoracidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Myocastor coypus (Ragondin) (*) |
+|
 
-s.o. |
+De 1 à 6
 
-s.o. |
+|
 
-1 et plus |
+7 et plus
 
-- Paraleptomys spp. (Rats de Nouvelle-Guinée) |
+|
 
-s.o. |
+- Autres espèces de Phalacrocoracidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 6
 
-- Phloeomys spp. (Rat des nuages) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+7 et plus
 
-- Pogonomelomys spp. (Rats de Rummler) |
+|
 
-s.o. |
+- Toutes les autres espèces de Suliformes
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Pogonomys spp. (Rats à queue préhensile) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Rhynchomys spp. (Rat musaraigne) |
+|
 
-s.o. |
+17° Accipitriformes
 
-s.o. |
+|
 
-1 et plus |
+|
 
-- Solomys spp. (Rats des îles Salomon) |
+|
 
-s.o. |
+|
 
-s.o. |
+- Spizaetus spp. (Spizaètes) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Stenomys spp. (Rat de l'île Céram) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Uromys spp. (Rat géant à queue nue) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Hieraaetus spp. (Aigles) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Myospalacinés (Zokors) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Nésomyinés (Rats de Madagascar) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Aquila spp. (Aigles) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Spalacinés (Spalax) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Anomaluridés (Ecureuils volants africains) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Accipiter spp. (Autours, éperviers) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Pédétidés (Lièvre du Cap, etc.) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Cténodactylidés (Gundis) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Buteogallus spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Bathyergidés (Rats-taupes africains) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Hystrichidés (Porcs-épics) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Parabuteo spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Pétromuridés (Rats des rochers) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Thryonomyidés (Aulacodes) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Buteo spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-- Erethizontidés (Couendous) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Dinomyidés (Pacarana) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Toutes les autres espèces d'Accipitriformes et autres cas de détention de Spizaetus spp., Hieraaetus spp., Aquila spp., Accipiter spp., Buteogallus spp., Parabuteo spp. et Buteo spp.
 
-1 et plus |
+|
 
-- Dolichotinés (Maras ou lièvres de Patagonie) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Hydrochaeridés (Capybaras) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+18° Otidiformes (Outardes)
 
-1 et plus |
+|
 
-- Dasyproctidés (Agoutis) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Agoutidés (Pacas) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+19° Mesitornithiformes (Mésites)
 
-1 et plus |
+|
 
-- Echimyidés (Rats épineux) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Rattus norvegicus (Rat surmulot) |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 40 |
+20° Cariamiformes (Cariamas)
 
-41 et plus |
+|
 
-- Toutes les autres espèces de Rodentia, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 40 |
+|
 
-s.o. |
+s.o.
 
-41 et plus |
+|
 
-21° Lagomorpha (Lapins) |
+1 et plus
 
 |
+
+21° Eurypygiformes (Kagous, etc.)
 
 |
 
+s.o.
+
 |
 
-- Ochotonidés (Pikas) |
+s.o.
+
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+22° Gruiformes (Grues, râles, etc.)
 
-- Bunolagus spp. (Lapin hottentot) |
+|
 
-s.o. |
+|
 
-s.o. |
+|
 
-1 et plus |
+|
 
-- Caprolagus spp. (Lapin de l'Assam) |
+- Rallidés figurant en annexe A du règlement (CE) n° 338/97
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Nesolagus spp. (Lapin de Sumatra) |
+De 1 à 25
 
-s.o. |
+|
 
-s.o. |
+26 et plus
 
-1 et plus |
+|
 
-- Pentalagus spp. (Lapin des Ryukyu) |
+- Rallidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Romerolagus spp. (Lapin des volcans) |
+De 1 à 25
 
-s.o. |
+|
 
-s.o. |
+26 et plus
 
-1 et plus |
+|
 
-- Sylvilagus floridanus (Lapin américain) |
+- Gruidés figurant en annexe A du règlement (CE) n° 338/97
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Toutes les autres espèces de Lagomorpha, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+De 1 à 25
 
-De 1 à 40 |
+|
 
-s.o. |
+26 et plus
 
-41 et plus |
+|
 
-22° Erinaceomorpha (Hérissons) |
+- Gruidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-23° Soricomorpha (Musaraignes, taupes) |
+De 1 à 25
 
-s.o. |
+|
 
-s.o. |
+26 et plus
 
-1 et plus |
+|
 
-24° Chiroptera (Chauves-souris) |
+- Toutes les autres espèces de Gruiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 25
 
-1 et plus |
+|
 
-25° Pholidota (Pangolins) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+26 et plus
 
-1 et plus |
+|
 
-26° Carnivora (Canidés, félins) |
+23° Charadriiformes (Goélands, mouettes, pingouins, etc.)
 
 |
 
@@ -838,247 +3468,245 @@ s.o. |
 
 |
 
-- Viverridés (Civettes, genettes) |
+|
 
-s.o. |
+- Charadriidés (Vanneaux, gravelots), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 25
 
-- Herpestes javanicus (Mangouste de java) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+26 et plus
 
-- Autres espèces d'Herpestidés (Mangoustes) |
+|
 
-s.o. |
+- Autres espèces de charadriiformes listées à l'arrêté du 26 juin 1987 (espèces de gibier dont la chasse est autorisée)
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 6
 
-- Nyctereutes procyonoides (Chien viverrin) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+7 et plus
 
-- Neovison vison = Mustela vison (Vison d'Amérique) |
+|
 
-s.o. |
+- Toutes les autres espèces de charadriiformes
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Mustélidés dont le poids adulte est inférieur à 6 kilogrammes, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 susvisé ou sont protégés en application de l'article L. 411-1 du code de l'environnement |
+|
 
-s.o. |
+s.o.
 
-De 1 à 6 |
+|
 
-7 et plus |
+1 et plus
 
-- Nasua nasua (Coati roux) (*) |
+|
 
-s.o. |
+24° Pterocliformes
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Procyon lotor (Raton laveur) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Autres espèces de Procyonidés (Ratons laveurs, kinkajou, bassaricyons, coatis) |
+|
 
-s.o. |
+25° Columbiformes (Pigeons, colombes, tourterelles, etc.)
 
-s.o. |
+|
 
-1 et plus |
+|
 
-- Autres espèces de Carnivora dont le poids adulte est supérieur ou égal à 6 kilogrammes |
+|
 
-s.o. |
+|
 
-s.o. |
+- Columba livia (Pigeon biset)
 
-1 et plus |
+|
 
-- Toutes les autres espèces de Carnivora, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+De 1 à 100
 
-De 1 à 6 |
+|
 
-s.o. |
+s.o.
 
-7 et plus |
+|
 
-27° Perissodactyla (Equidés, rhinocéros) |
+101 et plus
 
-s.o. |
+|
 
-s.o. |
+- Goura spp. (Gouras)
 
-1 et plus |
+|
 
-28° Artiodactyla (Chameaux, porcins, ruminants) |
+s.o.
 
 |
 
-|
+s.o.
 
 |
 
-- Sus scrofa (Sanglier) |
+1 et plus
 
-s.o. |
+|
 
-1 |
+- Otidiphaps nobilis (Otidiphaps noble)
 
-2 et plus |
+|
 
-- Autres espèces de Suidés (Sangliers) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Tayassuidés (Pécaris) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Geopelia cuneata (Colombe diamant)
 
-1 et plus |
+|
 
-- Hippopotamidés (Hippopotames) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Camélidés (Chameaux, lamas, vigognes) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+- Streptopelia roseogrisea (Tourterelle rieuse)
 
-1 et plus |
+|
 
-- Tragulidés (Chevrotains) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Moschidés (Chevrotains porte musc) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+- Streptopelia turtur (Tourterelle des bois)
 
-1 et plus |
+|
 
-- Dama dama (Daim) |
+De 1 à 100
 
 |
 
-|
+s.o.
 
 |
-
-Spécimens mâles |
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Autres Columbidés, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97
 
-Spécimens femelles |
+|
 
-s.o. |
+s.o.
 
-De 1 à 3 |
+|
 
-4 et plus |
+De 1 à 100
 
-- Muntiacus reevesi (Muntjack de Reeves) (*) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Autres Columbidés, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-- Autres Cervidés (Cerfs, chevreuils, élans, rennes, etc.) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 100
 
-- Antilocapridés (Antilocapres) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Toutes les autres espèces de Columbiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-- Giraffidés (Girafes, okapis) |
+|
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Bovidés (Antilopes, gazelles, bovinés) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+26° Opisthocomiformes (Hoazin huppé)
 
-- Toutes les autres espèces d'Artiodactyla, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 6 |
+s.o.
 
-s.o. |
+|
 
-7 et plus |
+s.o.
 
-29° Cetacea (Dauphins, baleines, rorqual) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+27° Musophagiformes (Touracos)
 
-II. OISEAUX |
+|
 
 |
 
@@ -1086,1929 +3714,2105 @@ II. OISEAUX |
 
 |
 
-1° Struthioniformes (Autruches) |
+- Musophagiformes figurant en annexe A du règlement (CE) n° 338/97
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-2° Rheiformes (Nandous) |
+De 1 à 10
 
-s.o. |
+|
 
-s.o. |
+11 et plus
 
-1 et plus |
+|
 
-3° Apterygiformes (Kiwis) |
+- Toutes les autres espèces de Musophagiformes
 
-s.o. |
+|
 
-s.o. |
+De 1 à 10
 
-1 et plus |
+|
 
-4° Casuariiformes (Casoars, Emeus) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+11 et plus
 
-1 et plus |
+|
 
-5° Tinamiformes (Tinamous) |
+28° Cuculiformes
 
 |
 
-|
+s.o.
 
 |
-
-- Eudomia elegans (Tinamou élégant) |
 
-De 1 à 100 |
+s.o.
 
-s.o. |
+|
 
-101 et plus |
+1 et plus
 
-- Rhynchotus rufescens (Tinamou isabelle) |
+|
 
-De 1 à 100 |
+29° Strigiformes (Rapaces nocturnes)
 
-s.o. |
+|
 
-101 et plus |
+|
 
-- Toutes les autres espèces de Tinamiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-s.o. |
+|
 
-s.o. |
+- Bubo bubo (Grand-duc) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-1 et plus |
+|
 
-6° Anseriformes (Canards, oies, cygnes, etc.) |
+s.o.
 
 |
 
-|
+De 1 à 6
 
 |
 
-- Anhimidés (Kamichis) |
+7 et plus
 
-s.o. |
+|
 
-s.o. |
+- Toutes les autres espèces de Strigiformes et autres cas de détention de Bubo bubo
 
-1 et plus |
+|
 
-- Branta canadensis (Bernache du Canada) |
+s.o.
 
-s.o. |
+|
 
-De 1 à 100 |
+s.o.
 
-101 et plus |
+|
 
-- Branta ruficollis (Bernache à cou roux) |
+1 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+30° Caprimulgiformes (Guacharo, podarges, ibijaux, egothèles, engoulevents)
 
-101 et plus |
+|
 
-- Branta sandvicensis (Bernache néné) |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Merganetta spp. (Merganettes) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+31° Apodiformes (Martinets, salanganes, hémiprocnées, colibris)
 
-1 et plus |
+|
 
-- Alopochen aegyptiacus (Ouette d'Egypte) (*) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Nettapus spp. (Anserelles) |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 100 |
+32° Coliiformes (Colious)
 
-101 et plus |
+|
 
-- Anas laysanensis (Sarcelle de Laysan) |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Anas querquedula (Sarcelle d'été) |
+1 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+33° Trogoniformes (Trogons)
 
-101 et plus |
+|
 
-- Aythya nyroca (Fuligule nyroca) |
+s.o.
 
-s.o. |
+|
 
-De 1 à 100 |
+s.o.
 
-101 et plus |
+|
 
-- Oxyura leucocephala (Erismature à tête blanche) |
+1 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+34° Leptosomatiformes (Courol vouroudriou)
 
-101 et plus |
+|
 
-- Oxyura jamaicensis (Erismature rousse) (*) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Autres Anatidés, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 100 |
+35° Coraciiformes (Martins-pêcheurs, martins-chasseurs, rolliers, etc.)
 
-101 et plus |
+|
 
-- Autres Anatidés, lorsqu'ils figurent à l'article 4 de l'arrêté du 25 mars 2015 précité |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Autres Anatidés, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 100 |
+36° Bucerotiformes (Calaos, etc.)
 
-101 et plus |
+|
 
-- Toutes les autres espèces d'Ansériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-7° Galliformes (Dindes, poules, pintades, cailles, faisans, etc.) |
+1 et plus
 
 |
 
-|
+37° Piciformes
 
 |
-
-- Mégapodidés (Talégalles et Leipoa) |
 
-s.o. |
+|
 
-s.o. |
+|
 
-1 et plus |
+|
 
-- Cracidés (Hoccos, ortalides et pénélopes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+- Capitonidés (Cabézons), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-De 1 à 10 |
+De 1 à 10
 
-11 et plus |
+|
 
-- Colinus virginianus ridgwayi (Colin de Virginie) |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+11 et plus
 
-101 et plus |
+|
 
-- Colinus virginianus virginianus (Colin de Virginie) |
+- Ramphastidés (Toucans, toucanets), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-1 et plus |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-- Tétraoninés (Tétras, lagopèdes, cupidon), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-s.o. |
+|
 
-De 1 à 10 |
+1 et plus
 
-11 et plus |
+|
 
-- Coturnix chinensis (Caille peinte) |
+- Mégalaimidés (Barbus), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-1 et plus |
+|
 
-s.o. |
+De 1 à 10
 
-s.o. |
+|
 
-- Coturnix japonica (Caille du Japon) |
+s.o.
 
-1 et plus |
+|
 
-s.o. |
+11 et plus
 
-s.o. |
+|
 
-- Ithaginis cruentus (Ithagine ensanglanté) |
+- Lybiidés (Barbicans), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 10
 
-1 et plus |
+|
 
-- Tragopan blythii (Tragopan de Blyth) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+11 et plus
 
-1 et plus |
+|
 
-- Tragopan caboti (Tragopan de Cabot) |
+- Toutes les autres espèces de piciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 6
 
-1 et plus |
+|
 
-- Tragopan melanocephalus (Tragopan de Hastings) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+7 et plus
 
-1 et plus |
+|
 
-- Lophophorus impejanus (Lophophore resplendissant) |
+38° Falconiformes (Faucons, vautours, etc.)
 
-De 1 à 100 |
+|
 
-s.o. |
+|
 
-101 et plus |
+|
 
-- Lophura bulweri (Faisan de Bulwer) |
+|
 
-s.o. |
+- Falco spp. (Faucons) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Lophura edwardsi (Faisan d'Edwards) |
+|
 
-De 1 à 100 |
+De 1 à 6
 
-s.o. |
+|
 
-101 et plus |
+7 et plus
 
-- Lophura swinhoii (Faisan de Swinhoe) |
+|
 
-De 1 à 100 |
+- Toutes les autres espèces de Falconiformes et autres cas de détention de Falco spp.
 
-s.o. |
+|
 
-101 et plus |
+s.o.
 
-- Crossoptilon crossoptilon (Hokki blanc) |
+|
 
-De 1 à 100 |
+s.o.
 
-s.o. |
+|
 
-101 et plus |
+1 et plus
 
-- Crossoptilon mantchuricum (Hokki brun) |
+|
 
-De 1 à 100 |
+39° Psittaciformes
 
-s.o. |
+|
 
-101 et plus |
+|
 
-- Catreus wallichii (Faisan de Wallich) |
+|
 
-De 1 à 100 |
+|
 
-s.o. |
+- Strigops habroptilus (Kakapo)
 
-101 et plus |
+|
 
-- Syrmaticus ellioti (Faisan d'Elliot) |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Syrmaticus humiae (Faisan de Hume) |
+1 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+- Nymphicus hollandicus (Calopsittes élégantes)
 
-101 et plus |
+|
 
-- Syrmaticus mikado (Faisan mikado) |
+1 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Polyplectron malacense (Eperonnier de Hardwick) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+- Calyptorhynchus banksii graptogyne (Cacatoès de Banks)
 
-1 et plus |
+|
 
-- Polyplectron napoleonis = Polyplectron emphanum (Eperonnier napoléon) |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Polyplectron schleiermacheri (Eperonnier de Bornéo) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Touit batavica (Toui septicolor)
 
-1 et plus |
+|
 
-- Rheinardia ocellata (Rheinarte ocellé) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Argusianus argus (Argus géant) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Touit purpurea (Toui à queue pourprée)
 
-1 et plus |
+|
 
-- Pavo congensis (Paon du Congo) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Autres Phasianidés, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 100 |
+- Bolborhynchus spp. (Touis)
 
-101 et plus |
+|
 
-- Autres Phasianidés, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+De 1 à 100
 
-s.o. |
+|
 
-De 1 à 100 |
+s.o.
 
-101 et plus |
+|
 
-- Toutes les autres espèces de Galliformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+101 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+- Myiopsitta spp. (Conures)
 
-101 et plus |
+|
 
-8° Gaviiformes (Plongeons) |
+De 1 à 75
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-9° Sphenisciformes (Manchots) |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Brotogeris versicolurus (Toui à ailes variées)
 
-1 et plus |
+|
 
-10° Procellariiformes (Océanites, albatros, fulmars, pétrels, puffins, etc.) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 75
 
-1 et plus |
+|
 
-11° Podicipediformes (Grèbes) |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Brotogeris chrysoptera (Conure ou Toui para)
 
-1 et plus |
+|
 
-12° Phoenicopteriformes (Flamants) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 75
 
-1 et plus |
+|
 
-13° Phaethontiformes (Phaétons) |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Autres Brotogeris spp. (Touïs)
 
-1 et plus |
+|
 
-14° Ciconiiformes (Cigognes, jabirus, etc.) |
+De 1 à 75
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-15° Pelecaniformes (Ibis, hérons, pélicans, etc.) |
+76 et plus
 
 |
 
-|
+- Amazona arausiaca (Amazone de Bouquet)
 
 |
 
-- Threskiornis aethiopicus (ibis sacré) (*) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Autres Threskiornithidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et protégés en application de l'article L. 411-1 du code de l'environnement |
+1 et plus
 
-De 1 à 6 |
+|
 
-s.o. |
+- Amazona dufresniana (Amazone de Dufresne)
 
-7 et plus |
+|
 
-- Toutes les autres espèces de Pelecaniformes |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 10
 
-1 et plus |
+|
 
-16° Suliformes (Frégates, fous, cormorans, anhingas, etc.) |
+11 et plus
 
 |
 
-|
+- Amazona guildingii (Amazone de Saint-Vincent)
 
 |
 
-- Phalacrocoracidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+s.o.
 
-s.o. |
+|
 
-De 1 à 6 |
+s.o.
 
-7 et plus |
+|
 
-- Autres espèces de Phalacrocoracidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé |
+1 et plus
 
-De 1 à 6 |
+|
 
-s.o. |
+- Amazona imperialis (Amazone impériale)
 
-7 et plus |
+|
 
-- Toutes les autres espèces de Suliformes |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-17° Accipitriformes |
+1 et plus
 
 |
 
-|
+- Amazona leucocephala bahamensis (Amazone des Bahamas)
 
 |
 
-- Spizaetus spp. (Spizaètes) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+s.o.
 
-s.o. |
+|
 
-De 1 à 6 |
+s.o.
 
-7 et plus |
+|
 
-- Hieraaetus spp. (Aigles) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 6 |
+- Amazona leucocephala hesterna (Amazone de Cuba)
 
-7 et plus |
+|
 
-- Aquila spp. (Aigles) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+s.o.
 
-s.o. |
+|
 
-De 1 à 6 |
+s.o.
 
-7 et plus |
+|
 
-- Accipiter spp. (Autours, éperviers) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 6 |
+- Amazona pretrei (Amazone de Prêtre)
 
-7 et plus |
+|
 
-- Buteogallus spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+s.o.
 
-s.o. |
+|
 
-De 1 à 6 |
+s.o.
 
-7 et plus |
+|
 
-- Parabuteo spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 6 |
+- Amazona versicolor (Amazone de Sainte-Lucie)
 
-7 et plus |
+|
 
-- Buteo spp. (Buses) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+s.o.
 
-s.o. |
+|
 
-De 1 à 6 |
+s.o.
 
-7 et plus |
+|
 
-- Toutes les autres espèces d'Accipitriformes et autres cas de détention de Spizaetus spp., Hieraaetus spp., Aquila spp., Accipiter spp., Buteogallus spp., Parabuteo spp. et Buteo spp. |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Amazona vittata (Amazone de Porto-Rico)
 
-1 et plus |
+|
 
-18° Otidiformes (Outardes) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-19° Mesitornithiformes (Mésites) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Forpus modestus = Forpus sclateri (Perruche moineau de Sclater)
 
-1 et plus |
+|
 
-20° Cariamiformes (Cariamas) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+De 1 à 100
 
-1 et plus |
+|
 
-21° Eurypygiformes (Kagous, etc.) |
+101 et plus
 
-s.o. |
+|
 
-s.o. |
+- Forpus passerinus (Toui à croupion-vert)
 
-1 et plus |
+|
 
-22° Gruiformes (Grues, râles, etc.) |
+s.o.
 
 |
 
-|
+De 1 à 100
 
 |
 
-- Rallidés figurant en annexe A du règlement (CE) n° 338/97 |
+101 et plus
 
-s.o. |
+|
 
-De 1 à 25 |
+- Autres Forpus spp.
 
-26 et plus |
+|
 
-- Rallidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+De 1 à 100
 
-s.o. |
+|
 
-De 1 à 25 |
+s.o.
 
-26 et plus |
+|
 
-- Gruidés figurant en annexe A du règlement (CE) n° 338/97 |
+101 et plus
 
-s.o. |
+|
 
-De 1 à 25 |
+- Pyrrhura cruentata (Conure à poitrine bleue)
 
-26 et plus |
+|
 
-- Gruidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+s.o.
 
-s.o. |
+|
 
-De 1 à 25 |
+De 1 à 75
 
-26 et plus |
+|
 
-- Toutes les autres espèces de Gruiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+76 et plus
 
-De 1 à 25 |
+|
 
-s.o. |
+- Pyrrhura picta (Conure versicolore)
 
-26 et plus |
+|
 
-23° Charadriiformes (Goélands, mouettes, pingouins, etc.) |
+s.o.
 
 |
 
-|
+De 1 à 75
 
 |
 
-- Charadriidés (Vanneaux, gravelots), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+76 et plus
 
-De 1 à 25 |
+|
 
-s.o. |
+- Autres Pyrrhura spp. (Conures, perruches)
 
-26 et plus |
+|
 
-- Autres espèces de charadriiformes listées à l'arrêté du 26 juin 1987 (espèces de gibier dont la chasse est autorisée) |
+De 1 à 75
 
-De 1 à 6 |
+|
 
-s.o. |
+s.o.
 
-7 et plus |
+|
 
-- Toutes les autres espèces de charadriiformes |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Cyanoliseus spp. (Conures)
 
-1 et plus |
+|
 
-24° Pterocliformes |
+De 1 à 75
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-25° Columbiformes (Pigeons, colombes, tourterelles, etc.) |
+76 et plus
 
 |
 
-|
+- Anodorhynchus leari (Ara de Lear)
 
 |
 
-- Columba livia (Pigeon biset) |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Goura spp. (Gouras) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Aratinga euops (Conure de Cuba)
 
-1 et plus |
+|
 
-- Otidiphaps nobilis (Otidiphaps noble) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Geopelia cuneata (Colombe diamant) |
+1 et plus
 
-1 et plus |
+|
 
-s.o. |
+- Psittacara leucophthalmus = Aratinga leucophthalma (Conure pavouane)
 
-s.o. |
+|
 
-- Streptopelia roseogrisea (Tourterelle rieuse) |
+s.o.
 
-1 et plus |
+|
 
-s.o. |
+De 1 à 75
 
-s.o. |
+|
 
-- Streptopelia turtur (Tourterelle des bois) |
+76 et plus
 
-De 1 à 100 |
+|
 
-s.o. |
+- Aratinga nenday = Nandayus nenday (Conure nanday)
 
-101 et plus |
+|
 
-- Autres Columbidés, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 |
+De 1 à 75
 
-s.o. |
+|
 
-De 1 à 100 |
+s.o.
 
-101 et plus |
+|
 
-- Autres Columbidés, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+76 et plus
 
-s.o. |
+|
 
-De 1 à 100 |
+- Eupsittula pertinax = Aratinga pertinax (Conure cuivrée)
 
-101 et plus |
+|
 
-- Toutes les autres espèces de Columbiformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 100 |
+|
 
-s.o. |
+De 1 à 75
 
-101 et plus |
+|
 
-26° Opisthocomiformes (Hoazin huppé) |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Autres Aratinga spp. (Conures, etc.)
 
-1 et plus |
+|
 
-27° Musophagiformes (Touracos) |
+De 1 à 75
 
 |
 
-|
+s.o.
 
 |
 
-- Musophagiformes figurant en annexe A du règlement (CE) n° 338/97 |
+76 et plus
 
-s.o. |
+|
 
-De 1 à 10 |
+- Cyanopsitta spixii (Ara de Spix)
 
-11 et plus |
+|
 
-- Toutes les autres espèces de Musophagiformes |
+s.o.
 
-De 1 à 10 |
+|
 
-s.o. |
+s.o.
 
-11 et plus |
+|
 
-28° Cuculiformes |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Ognorhynchus icterotis (Conure à joues d'or)
 
-1 et plus |
+|
 
-29° Strigiformes (Rapaces nocturnes) |
+s.o.
 
 |
 
-|
+s.o.
 
 |
 
-- Bubo bubo (Grand-duc) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+1 et plus
 
-s.o. |
+|
 
-De 1 à 6 |
+- Psittrichas fulgidus (Perroquet de Pesquet)
 
-7 et plus |
+|
 
-- Toutes les autres espèces de Strigiformes et autres cas de détention de Bubo bubo |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-30° Caprimulgiformes (Guacharo, podarges, ibijaux, egothèles, engoulevents) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Coracopsis nigra barklyi (Vasa de Praslin)
 
-1 et plus |
+|
 
-31° Apodiformes (Martinets, salanganes, hémiprocnées, colibris) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-32° Coliiformes (Colious) |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Polytelis spp. (Perruches)
 
-1 et plus |
+|
 
-33° Trogoniformes (Trogons) |
+De 1 à 75
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-34° Leptosomatiformes (Courol vouroudriou) |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Alisterus spp. (Perruches)
 
-1 et plus |
+|
 
-35° Coraciiformes (Martins-pêcheurs, martins-chasseurs, rolliers, etc.) |
+De 1 à 75
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-36° Bucerotiformes (Calaos, etc.) |
+76 et plus
 
-s.o. |
+|
 
-s.o. |
+- Aprosmictus spp. (Perruches)
 
-1 et plus |
+|
 
-37° Piciformes |
+De 1 à 75
 
 |
 
-|
+s.o.
 
 |
 
-- Capitonidés (Cabézons), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+76 et plus
 
-De 1 à 10 |
+|
 
-s.o. |
+- Psittacula echo (Perruche echo)
 
-11 et plus |
+|
 
-- Ramphastidés (Toucans, toucanets), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Mégalaimidés (Barbus), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+1 et plus
 
-De 1 à 10 |
+|
 
-s.o. |
+- Psittacula eques (Perruche à collier de Maurice)
 
-11 et plus |
+|
 
-- Lybiidés (Barbicans), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 10 |
+|
 
-s.o. |
+s.o.
 
-11 et plus |
+|
 
-- Toutes les autres espèces de piciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+1 et plus
 
-De 1 à 6 |
+|
 
-s.o. |
+- Psittacula krameri (Perruche à collier)
 
-7 et plus |
+|
 
-38° Falconiformes (Faucons, vautours, etc.) |
+s.o.
 
 |
 
-|
+De 1 à 75
 
 |
 
-- Falco spp. (Faucons) détenus uniquement à des fins personnelles dans le cadre de la pratique de la chasse au vol |
+76 et plus
 
-s.o. |
+|
 
-De 1 à 6 |
+- Autres Psittacula spp. (Perruches à collier afro-asiatiques)
 
-7 et plus |
+|
 
-- Toutes les autres espèces de Falconiformes et autres cas de détention de Falco spp. |
+De 1 à 75
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-39° Psittaciformes |
+76 et plus
 
 |
 
-|
+- Psephotus dissimilis (Perruche à capuchon noir)
 
 |
 
-- Strigops habroptilus (Kakapo) |
+De 1 à 100
 
-s.o. |
-
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Nymphicus hollandicus (Calopsittes élégantes) |
+|
 
-1 et plus |
+101 et plus
 
-s.o. |
+|
 
-s.o. |
+- Psephotus pulcherrimus (Perruche de paradis)
 
-- Calyptorhynchus banksii graptogyne (Cacatoès de Banks) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Touit batavica (Toui septicolor) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Autres Psephotus spp.
 
-- Touit purpurea (Toui à queue pourprée) |
+|
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Bolborhynchus spp. (Touis) |
+|
 
-De 1 à 100 |
+101 et plus
 
-s.o. |
+|
 
-101 et plus |
+- Platycercus spp. (Perruches)
 
-- Myiopsitta spp. (Conures) |
+|
 
-De 1 à 75 |
+De 1 à 75
 
-s.o. |
+|
 
-76 et plus |
+s.o.
 
-- Brotogeris versicolurus (Toui à ailes variées) |
+|
 
-s.o. |
+76 et plus
 
-De 1 à 75 |
+|
 
-76 et plus |
+- Barnardius spp. (Perruches)
 
-- Brotogeris chrysoptera (Conure ou Toui para) |
+|
 
-s.o. |
+De 1 à 75
 
-De 1 à 75 |
+|
 
-76 et plus |
+s.o.
 
-- Autres Brotogeris spp. (Touïs) |
+|
 
-De 1 à 75 |
+76 et plus
 
-s.o. |
+|
 
-76 et plus |
+- Lathamus discolor (Perruche de Latham)
 
-- Amazona arausiaca (Amazone de Bouquet) |
+|
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Amazona dufresniana (Amazone de Dufresne) |
+|
 
-s.o. |
+101 et plus
 
-De 1 à 10 |
+|
 
-11 et plus |
+- Prosopeia spp. (Prosopéias)
 
-- Amazona guildingii (Amazone de Saint-Vincent) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Amazona imperialis (Amazone impériale) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Eunymphicus cornutus uvaeensis (Perruche cornue d'Ouvéa)
 
-- Amazona leucocephala bahamensis (Amazone des Bahamas) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Amazona leucocephala hesterna (Amazone de Cuba) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Cyanoramphus auriceps forbesi (Kakariki à front jaune de Forbes)
 
-- Amazona pretrei (Amazone de Prêtre) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Amazona versicolor (Amazone de Sainte-Lucie) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Cyanoramphus novaezelandiae (Perruche de Sparrman)
 
-- Amazona vittata (Amazone de Porto-Rico) |
+|
 
-s.o. |
+De 1 à 75
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Forpus modestus = Forpus sclateri (Perruche moineau de Sclater) |
+|
 
-s.o. |
+76 et plus
 
-De 1 à 100 |
+|
 
-101 et plus |
+- Autres Cyanoramphus spp. (Perruches, kakarikis)
 
-- Forpus passerinus (Toui à croupion-vert) |
+|
 
-s.o. |
+De 1 à 75
 
-De 1 à 100 |
+|
 
-101 et plus |
+s.o.
 
-- Autres Forpus spp. |
+|
 
-De 1 à 100 |
+76 et plus
 
-s.o. |
+|
 
-101 et plus |
+- Pezoporus occidentalis (Perruche nocturne)
 
-- Pyrrhura cruentata (Conure à poitrine bleue) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 75 |
+|
 
-76 et plus |
+s.o.
 
-- Pyrrhura picta (Conure versicolore) |
+|
 
-s.o. |
+1 et plus
 
-De 1 à 75 |
+|
 
-76 et plus |
+- Pezoporus wallicus (Perruche terrestre)
 
-- Autres Pyrrhura spp. (Conures, perruches) |
+|
 
-De 1 à 75 |
+s.o.
 
-s.o. |
+|
 
-76 et plus |
+s.o.
 
-- Cyanoliseus spp. (Conures) |
+|
 
-De 1 à 75 |
+1 et plus
 
-s.o. |
+|
 
-76 et plus |
+- Neophema chrysogaster (Perruche à ventre orange)
 
-- Anodorhynchus leari (Ara de Lear) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Aratinga euops (Conure de Cuba) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Autres Neophema spp. (Perruches)
 
-- Psittacara leucophthalmus = Aratinga leucophthalma (Conure pavouane) |
+|
 
-s.o. |
+De 1 à 100
 
-De 1 à 75 |
+|
 
-76 et plus |
+s.o.
 
-- Aratinga nenday = Nandayus nenday (Conure nanday) |
+|
 
-De 1 à 75 |
+101 et plus
 
-s.o. |
+|
 
-76 et plus |
+- Vini spp. (Vinis)
 
-- Eupsittula pertinax = Aratinga pertinax (Conure cuivrée) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 75 |
+|
 
-76 et plus |
+s.o.
 
-- Autres Aratinga spp. (Conures, etc.) |
+|
 
-De 1 à 75 |
+1 et plus
 
-s.o. |
+|
 
-76 et plus |
+- Melopsittacus undulatus (Perruches ondulées)
 
-- Cyanopsitta spixii (Ara de Spix) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Ognorhynchus icterotis (Conure à joues d'or) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+- Psittaculirostris spp. (Psittacules)
 
-- Psittrichas fulgidus (Perroquet de Pesquet) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Coracopsis nigra barklyi (Vasa de Praslin) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Cyclopsitta spp. (Psittacules)
 
-- Polytelis spp. (Perruches) |
+|
 
-De 1 à 75 |
+s.o.
 
-s.o. |
+|
 
-76 et plus |
+s.o.
 
-- Alisterus spp. (Perruches) |
+|
 
-De 1 à 75 |
+1 et plus
 
-s.o. |
+|
 
-76 et plus |
+- Agapornis fischeri (Inséparables de Fischer)
 
-- Aprosmictus spp. (Perruches) |
+|
 
-De 1 à 75 |
+1 et plus
 
-s.o. |
+|
 
-76 et plus |
+s.o.
 
-- Psittacula echo (Perruche echo) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+- Agapornis personatus (Inséparables masqués)
 
-- Psittacula eques (Perruche à collier de Maurice) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Psittacula krameri (Perruche à collier) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 75 |
+|
 
-76 et plus |
+- Agapornis roseicollis (Inséparables rose-gorges)
 
-- Autres Psittacula spp. (Perruches à collier afro-asiatiques) |
+|
 
-De 1 à 75 |
+1 et plus
 
-s.o. |
+|
 
-76 et plus |
+s.o.
 
-- Psephotus dissimilis (Perruche à capuchon noir) |
+|
 
-De 1 à 100 |
+s.o.
 
-s.o. |
+|
 
-101 et plus |
+- Autres Agapornis spp. (Inséparables)
 
-- Psephotus pulcherrimus (Perruche de paradis) |
+|
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Psephotus spp. |
+|
 
-De 1 à 100 |
+101 et plus
 
-s.o. |
+|
 
-101 et plus |
+- Autres Psittaciformes, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97
 
-- Platycercus spp. (Perruches) |
+|
 
-De 1 à 75 |
+s.o.
 
-s.o. |
+|
 
-76 et plus |
+De 1 à 10
 
-- Barnardius spp. (Perruches) |
+|
 
-De 1 à 75 |
+11 et plus
 
-s.o. |
+|
 
-76 et plus |
+- Autres Psittaciformes, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-- Lathamus discolor (Perruche de Latham) |
+|
 
-De 1 à 100 |
+s.o.
 
-s.o. |
+|
 
-101 et plus |
+De 1 à 10
 
-- Prosopeia spp. (Prosopéias) |
+|
 
-s.o. |
+11 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Toutes les autres espèces de Psittaciformes
 
-- Eunymphicus cornutus uvaeensis (Perruche cornue d'Ouvéa) |
+|
 
-s.o. |
+De 1 à 10
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Cyanoramphus auriceps forbesi (Kakariki à front jaune de Forbes) |
+|
 
-s.o. |
+11 et plus
 
-s.o. |
+|
 
-1 et plus |
+40° Passeriformes
 
-- Cyanoramphus novaezelandiae (Perruche de Sparrman) |
+|
 
-De 1 à 75 |
+|
 
-s.o. |
+|
 
-76 et plus |
+|
 
-- Autres Cyanoramphus spp. (Perruches, kakarikis) |
+- Eurylaimidés (Eurylaimes)
 
-De 1 à 75 |
+|
 
-s.o. |
+s.o.
 
-76 et plus |
+|
 
-- Pezoporus occidentalis (Perruche nocturne) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Pezoporus wallicus (Perruche terrestre) |
+- Cotingidés (Cotingas)
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Neophema chrysogaster (Perruche à ventre orange) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Autres Neophema spp. (Perruches) |
+- Pipridés (Manakins)
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Vini spp. (Vinis) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Melopsittacus undulatus (Perruches ondulées) |
+- Ptilonorhynchidés (Oiseaux à berceaux, oiseaux jardiniers)
 
-1 et plus |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-- Psittaculirostris spp. (Psittacules) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Cyclopsitta spp. (Psittacules) |
+- Méliphagidés (Méliphages), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 10
 
-1 et plus |
+|
 
-- Agapornis fischeri (Inséparables de Fischer) |
+s.o.
 
-1 et plus |
+|
 
-s.o. |
+11 et plus
 
-s.o. |
+|
 
-- Agapornis personatus (Inséparables masqués) |
+- Dicruridés (Drongos)
 
-1 et plus |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-- Agapornis roseicollis (Inséparables rose-gorges) |
+s.o.
 
-1 et plus |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-- Autres Agapornis spp. (Inséparables) |
+- Corvus splendens (Corbeau familier) (*)
 
-De 1 à 100 |
+|
 
-s.o. |
+s.o.
 
-101 et plus |
+|
 
-- Autres Psittaciformes, lorsqu'ils figurent en annexe A du règlement (CE) n° 338/97 |
+s.o.
 
-s.o. |
+|
 
-De 1 à 10 |
+1 et plus
 
-11 et plus |
+|
 
-- Autres Psittaciformes, lorsqu'ils sont protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+- Autres espèces de corvidés listées à l'arrêté du 26 juin 1987 (espèces de gibier dont la chasse est autorisée)
 
-s.o. |
+|
 
-De 1 à 10 |
+De 1 à 6
 
-11 et plus |
+|
 
-- Toutes les autres espèces de Psittaciformes |
+s.o.
 
-De 1 à 10 |
+|
 
-s.o. |
+7 et plus
 
-11 et plus |
+|
 
-40° Passeriformes |
+- Paradisaeidés (Paradisiers)
 
 |
 
-|
+s.o.
 
 |
 
-- Eurylaimidés (Eurylaimes) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-1 et plus |
+|
 
-- Cotingidés (Cotingas) |
+- Alaudidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-1 et plus |
+|
 
-- Pipridés (Manakins) |
+De 1 à 50
 
-s.o. |
+|
 
-s.o. |
+51 et plus
 
-1 et plus |
+|
 
-- Ptilonorhynchidés (Oiseaux à berceaux, oiseaux jardiniers) |
+- Autres Alaudidés (Alouettes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé
 
-s.o. |
+|
 
-s.o. |
+De 1 à 50
 
-1 et plus |
+|
 
-- Méliphagidés (Méliphages), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 10 |
+|
 
-s.o. |
+51 et plus
 
-11 et plus |
+|
 
-- Dicruridés (Drongos) |
+- Autres Pycnonotidés (Bulbuls), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 50
 
-1 et plus |
+|
 
-- Corvus splendens (Corbeau familier) (*) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+51 et plus
 
-1 et plus |
+|
 
-- Autres espèces de corvidés listées à l'arrêté du 26 juin 1987 (espèces de gibier dont la chasse est autorisée) |
+- Timaliidés (Timalies), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-De 1 à 6 |
+|
 
-s.o. |
+De 1 à 50
 
-7 et plus |
+|
 
-- Paradisaeidés (Paradisiers) |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+51 et plus
 
-1 et plus |
+|
 
-- Alaudidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+- Autres Zostéropidés (Zostérops), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-De 1 à 50 |
+De 1 à 50
 
-51 et plus |
+|
 
-- Autres Alaudidés (Alouettes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé |
+s.o.
 
-De 1 à 50 |
+|
 
-s.o. |
+51 et plus
 
-51 et plus |
+|
 
-- Autres Pycnonotidés (Bulbuls), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+- Irénidés (Irènes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-De 1 à 50 |
+|
 
-s.o. |
+De 1 à 50
 
-51 et plus |
+|
 
-- Timaliidés (Timalies), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 50 |
+|
 
-s.o. |
+51 et plus
 
-51 et plus |
+|
 
-- Autres Zostéropidés (Zostérops), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+-Acridotheres tristis (Merle des Moluques, Martin triste) (*)
 
-De 1 à 50 |
+|
 
-s.o. |
+s.o.
 
-51 et plus |
+|
 
-- Irénidés (Irènes), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 50 |
+|
 
-s.o. |
+1 et plus
 
-51 et plus |
+|
 
--Acridotheres tristis (Merle des Moluques, Martin triste) (*) |
+- Autres Sturnidés (Etourneaux, martins, mainates), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+De 1 à 50
 
-1 et plus |
+|
 
-- Autres Sturnidés (Etourneaux, martins, mainates), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+s.o.
 
-De 1 à 50 |
+|
 
-s.o. |
+51 et plus
 
-51 et plus |
+|
 
 - Autres Turdidés (Grives, merles), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
 |
 
-De 1 à 50 |
+De 1 à 50
 
-s.o. |
+|
 
-51 et plus |
+s.o.
 
-- Muscicapidés figurant en annexe A du règlement (CE) n° 338/97 |
+|
 
-s.o. |
+51 et plus
 
-De 1 à 50 |
+|
 
-51 et plus |
+- Muscicapidés figurant en annexe A du règlement (CE) n° 338/97
 
-- Muscicapidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+|
 
-s.o. |
+s.o.
 
-De 1 à 50 |
+|
 
-51 et plus |
+De 1 à 50
 
-- Autres Muscicapidés (gobe-mouches) |
+|
 
-De 1 à 50 |
+51 et plus
 
-s.o. |
+|
 
-51 et plus |
+- Muscicapidés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-- Cinclidés (Cincles) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 50
 
-- Nectariniidés (Souimangas) |
+|
 
-s.o. |
+51 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Autres Muscicapidés (gobe-mouches)
 
-- Passéridés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■ |
+|
 
-s.o. |
+De 1 à 50
 
-De 1 à 100 |
+|
 
-101 et plus |
+s.o.
 
-- Autres Passéridés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé |
+|
 
-De 1 à 100 |
+51 et plus
 
-s.o. |
+|
 
-101 et plus |
+- Cinclidés (Cincles)
 
-- Plocéidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 100 |
+s.o.
 
-s.o. |
+|
 
-101 et plus |
+s.o.
 
-- Poephila (syn. Taeniopygia) guttata castanotis (Diamant mandarin) |
+|
 
-1 et plus |
+1 et plus
 
-s.o. |
+|
 
-s.o. |
+- Nectariniidés (Souimangas)
 
-- Erythrura gouldiae (Diamant de Gould) |
+|
 
-1 et plus |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-- Autres Estrildidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 100 |
+1 et plus
 
-s.o. |
+|
 
-101 et plus |
+- Passéridés protégés en application de l'article L. 411-1 du code de l'environnement. Pour les espèces figurant à l'arrêté du 29 octobre 2009 susvisé, la présente ligne s'applique uniquement aux espèces identifiées par les symboles ● ou ■
 
-- Carduelis cucullata (Tarin rouge du Venezuela) |
+|
 
-De 1 à 100 |
+s.o.
 
-s.o. |
+|
 
-101 et plus |
+De 1 à 100
 
-- Serinus canaria (Serin des Canaries) |
+|
 
-1 et plus |
+101 et plus
 
-s.o. |
+|
 
-s.o. |
+- Autres Passéridés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé
 
-- Autres Fringillidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 100 |
+De 1 à 100
 
-s.o. |
+|
 
-101 et plus |
+s.o.
 
-- Euphonia spp. (Organistes) |
+|
 
-s.o. |
+101 et plus
 
-s.o. |
+|
 
-1 et plus |
+- Plocéidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-- Chlorophonia spp. (Organistes) |
+|
 
-s.o. |
+De 1 à 100
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Embérizidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 100 |
+101 et plus
 
-s.o. |
+|
 
-101 et plus |
+- Poephila (syn. Taeniopygia) guttata castanotis (Diamant mandarin)
 
-- Ictéridés (Loriots, orioles, etc.), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé |
+|
 
-De 1 à 50 |
+1 et plus
 
-s.o. |
+|
 
-51 et plus |
+s.o.
 
-- Pipraeidea spp. (Organistes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+- Erythrura gouldiae (Diamant de Gould)
 
-- Chlorochrysa spp. (Organistes) |
+|
 
-s.o. |
+1 et plus
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Tangara spp. (Callistes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+- Autres Estrildidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-- Toutes les autres espèces de Passériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 6 |
+De 1 à 100
 
-s.o. |
+|
 
-7 et plus |
+s.o.
 
-III. REPTILES |
+|
+
+101 et plus
+
+|
+
+- Carduelis cucullata (Tarin rouge du Venezuela)
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Serinus canaria (Serin des Canaries)
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+- Autres Fringillidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Euphonia spp. (Organistes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Chlorophonia spp. (Organistes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Embérizidés, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 100
+
+|
+
+s.o.
+
+|
+
+101 et plus
+
+|
+
+- Ictéridés (Loriots, orioles, etc.), hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé
+
+|
+
+De 1 à 50
+
+|
+
+s.o.
+
+|
+
+51 et plus
+
+|
+
+- Pipraeidea spp. (Organistes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Chlorochrysa spp. (Organistes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tangara spp. (Callistes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Toutes les autres espèces de Passériformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 6
+
+|
+
+s.o.
+
+|
+
+7 et plus
+
+|
+
+III. REPTILES
 
 |
 
@@ -3016,23 +5820,41 @@ III. REPTILES |
 
 |
 
-1° Crocodilia (Alligators, caïmans, crocodiles, etc.) |
+|
 
-s.o. |
+1° Crocodilia (Alligators, caïmans, crocodiles, etc.)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-2° Rhynchocephalia (Sphénodons) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-3° Squamata (Lézards, serpents, etc.) |
+|
+
+2° Rhynchocephalia (Sphénodons)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+3° Squamata (Lézards, serpents, etc.)
 
 |
 
@@ -3040,7 +5862,9 @@ s.o. |
 
 |
 
-Sauria : |
+|
+
+Sauria :
 
 |
 
@@ -3048,391 +5872,777 @@ Sauria : |
 
 |
 
-- Uromastyx spp. (Fouette-queues) |
+|
 
-s.o. |
+- Uromastyx spp. (Fouette-queues)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Heloderma spp. (Monstre de Gila et lézard perlé) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Draco spp. (Lézards volants) |
+|
 
-s.o. |
+- Heloderma spp. (Monstre de Gila et lézard perlé)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Chamaeleo calyptratus (Caméléon casqué) |
+|
 
-De 1 à 25 |
+s.o.
 
-s.o. |
+|
 
-26 et plus |
+1 et plus
 
-- Chamaeleo pardalis (Caméléon-panthère) |
+|
 
-De 1 à 25 |
+- Draco spp. (Lézards volants)
 
-s.o. |
+|
 
-26 et plus |
+s.o.
 
-- Autres Chamaeléonidés (Caméléons) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Iguana Iguana (Iguane vert) |
+|
 
-s.o. |
+- Chamaeleo calyptratus (Caméléon casqué)
 
-De 1 à 3 |
+|
 
-4 et plus |
+De 1 à 25
 
-- Lacerta spp. (Grands lézards communs) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+26 et plus
 
-- Podarcis spp. (Petits lézards communs) |
+|
 
-s.o. |
+- Chamaeleo pardalis (Caméléon-panthère)
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 25
 
-- Dibamidés (Lézards-serpents) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+26 et plus
 
-- Xénosauridés (Lézards-crocodiles) |
+|
 
-s.o. |
+- Autres Chamaeléonidés (Caméléons)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Lanthanotidés (Lézards sans oreille de Bornéo) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Salvator merianae (Teju d'Argentine) |
+|
 
-s.o. |
+- Iguana Iguana (Iguane vert)
 
-De 1 à 6 |
+|
 
-7 et plus |
+s.o.
 
-- Salvator rufescens (Teju rouge) |
+|
 
-s.o. |
+De 1 à 3
 
-De 1 à 6 |
+|
 
-7 et plus |
+4 et plus
 
-- Varanus albigularis (Varan des steppes d'Afrique orientale) |
+|
 
-s.o. |
+- Lacerta spp. (Grands lézards communs)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus auffenbergi (Varan d'Auffenberg) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus caerulivirens (Varan à reflets bleus) |
+|
 
-s.o. |
+- Podarcis spp. (Petits lézards communs)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus cerambonensis (Varan de Céram) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus doreanus (Varan à queue bleue) |
+|
 
-s.o. |
+- Dibamidés (Lézards-serpents)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus dumerilii (Varan de Duméril) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus exanthematicus (Varan des savanes) |
+|
 
-s.o. |
+- Xénosauridés (Lézards-crocodiles)
 
-De 1 à 6 |
+|
 
-7 et plus |
+s.o.
 
-- Varanus finschi (Varan de Finsch) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus flavirufus (Varan des sables d'Australie) |
+|
 
-s.o. |
+- Lanthanotidés (Lézards sans oreille de Bornéo)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus giganteus (Varan Perenti) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus glebopalma (Varan crépusculaire) |
+|
 
-s.o. |
+- Salvator merianae (Teju d'Argentine)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus gouldii (Varan de Gould) |
+|
 
-s.o. |
+De 1 à 6
 
-s.o. |
+|
 
-1 et plus |
+7 et plus
 
-- Varanus indicus (Varan du Pacifique) |
+|
 
-s.o. |
+- Salvator rufescens (Teju rouge)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus jobiensis (Varan de Sepik) |
+|
 
-s.o. |
+De 1 à 6
 
-s.o. |
+|
 
-1 et plus |
+7 et plus
 
-- Varanus mabitang (Varan mabitang) |
+|
 
-s.o. |
+- Varanus albigularis (Varan des steppes d'Afrique orientale)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus macraei (Varan de Mac Rae) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus melinus (Varan jaune coing) |
+|
 
-s.o. |
+- Varanus auffenbergi (Varan d'Auffenberg)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus mertensi (Varan de Mertens) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus niloticus (Varan du Nil) |
+|
 
-s.o. |
+- Varanus caerulivirens (Varan à reflets bleus)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus ornatus (Varan orné) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus panoptes (Varan des sables) |
+|
 
-s.o. |
+- Varanus cerambonensis (Varan de Céram)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus rosenbergi (Varan de Rosenberg) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus rudicollis (Varan à cou rugueux) |
+|
 
-s.o. |
+- Varanus doreanus (Varan à queue bleue)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus salvadorii (Varan-crocodile) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus salvator (Varan malais) |
+|
 
-s.o. |
+- Varanus dumerilii (Varan de Duméril)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus spenceri (Varan de Spencer) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Varanus spinulosus (Varan à épines) |
+|
 
-s.o. |
+- Varanus exanthematicus (Varan des savanes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus varius (Varan bigarré) |
+|
 
-s.o. |
+De 1 à 6
 
-s.o. |
+|
 
-1 et plus |
+7 et plus
 
-- Varanus yemensis (Varan du Yémen) |
+|
 
-s.o. |
+- Varanus finschi (Varan de Finsch)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Varanus yuwonoi (Varan de Yuwono) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Autres Varanus, lorsque leur taille adulte est supérieure ou égale à 3 mètres |
+|
 
-s.o. |
+- Varanus flavirufus (Varan des sables d'Australie)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres espèces de Sauria, lorsque leur taille adulte est inférieure ou égale à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 25 |
+s.o.
 
-s.o. |
+|
 
-26 et plus |
+1 et plus
 
-- Autres espèces de Sauria, lorsque leur taille adulte est supérieure à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 10 |
+- Varanus giganteus (Varan Perenti)
 
-s.o. |
+|
 
-11 et plus |
+s.o.
 
-Amphisbaenia (Lézards-vers) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-Serpentes : |
+|
+
+- Varanus glebopalma (Varan crépusculaire)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus gouldii (Varan de Gould)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus indicus (Varan du Pacifique)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus jobiensis (Varan de Sepik)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus mabitang (Varan mabitang)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus macraei (Varan de Mac Rae)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus melinus (Varan jaune coing)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus mertensi (Varan de Mertens)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus niloticus (Varan du Nil)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus ornatus (Varan orné)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus panoptes (Varan des sables)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus rosenbergi (Varan de Rosenberg)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus rudicollis (Varan à cou rugueux)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus salvadorii (Varan-crocodile)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus salvator (Varan malais)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus spenceri (Varan de Spencer)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus spinulosus (Varan à épines)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus varius (Varan bigarré)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus yemensis (Varan du Yémen)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Varanus yuwonoi (Varan de Yuwono)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Varanus, lorsque leur taille adulte est supérieure ou égale à 3 mètres
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces de Sauria, lorsque leur taille adulte est inférieure ou égale à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 25
+
+|
+
+s.o.
+
+|
+
+26 et plus
+
+|
+
+- Autres espèces de Sauria, lorsque leur taille adulte est supérieure à 1 mètre, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 10
+
+|
+
+s.o.
+
+|
+
+11 et plus
+
+|
+
+Amphisbaenia (Lézards-vers)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+Serpentes :
 
 |
 
@@ -3440,415 +6650,825 @@ Serpentes : |
 
 |
 
-- Ahaetulla spp. (Serpents lianes) |
+|
 
-s.o. |
+- Ahaetulla spp. (Serpents lianes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Alsophis spp. (Couleuvres des Antilles) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Amplorhinus spp. (Couleuvres tachetées du Cap) |
+|
 
-s.o. |
+- Alsophis spp. (Couleuvres des Antilles)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Aniliidés (Serpents-tuyaux) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Anomalépididés (Serpents aveugles américains) |
+|
 
-s.o. |
+- Amplorhinus spp. (Couleuvres tachetées du Cap)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Apostolepis spp. (Couleuvres terrestres d'Amérique du Sud) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Atractaspis spp. (Actractaspides) |
+|
 
-s.o. |
+- Aniliidés (Serpents-tuyaux)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Balanophis spp. (Couleuvres de Ceylan) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Boa constrictor / Boa imperator (Boa constricteur) |
+|
 
-De 1 à 3 |
+- Anomalépididés (Serpents aveugles américains)
 
-s.o. |
+|
 
-4 et plus |
+s.o.
 
-- Autres Boïdés et Pythonidés (Boas, anacondas, pythons), lorsque leur taille adulte est supérieure ou égale à 3 mètres |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Boiga spp. (Serpents ratiers à ventre jaune) |
+|
 
-s.o. |
+- Apostolepis spp. (Couleuvres terrestres d'Amérique du Sud)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Cerberus spp. (Couleuvres cynocéphales) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Clelia spp. (Mussuranas) |
+|
 
-s.o. |
+- Atractaspis spp. (Actractaspides)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Coniophanes spp. (Couleuvres à bandes noires d'Amérique) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Conophis spp. (Couleuvres perfides d'Amérique) |
+|
 
-s.o. |
+- Balanophis spp. (Couleuvres de Ceylan)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Crotaphopeltis spp. (Couleuvres à lèvres jaunes d'Afrique) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Diadophis spp. (Couleuvres à collier d'Amérique du Nord) |
+|
 
-s.o. |
+- Boa constrictor / Boa imperator (Boa constricteur)
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 3
 
-- Dipsadoboa spp. (Couleuvres arboricoles vertes d'Afrique) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+4 et plus
 
-- Dispholidus spp. (Boomslang africain ou serpent d'arbre du Cap) |
+|
 
-s.o. |
+- Autres Boïdés et Pythonidés (Boas, anacondas, pythons), lorsque leur taille adulte est supérieure ou égale à 3 mètres
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Elapidés (Cobras, najas, etc.) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Elapomorphus spp. (Couleuvres d'Amérique du Sud) |
+|
 
-s.o. |
+- Boiga spp. (Serpents ratiers à ventre jaune)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Enhydris spp. (Couleuvres aquatiques d'Asie) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Erythrolamprus spp. (Faux serpents corail) |
+|
 
-s.o. |
+- Cerberus spp. (Couleuvres cynocéphales)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Heterodon spp. (Couleuvres à nez plat) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Hydrodynastes spp. (Faux cobras aquatiques d'Amérique du Sud) |
+|
 
-s.o. |
+- Clelia spp. (Mussuranas)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Hydrophiidés (Serpents marins) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Langaha spp. (Serpents à nez de feuille) |
+|
 
-s.o. |
+- Coniophanes spp. (Couleuvres à bandes noires d'Amérique)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Leptodeira spp. (Couleuvres forestières d'Amérique du Sud) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Leptophis spp. (Couleuvres arboricoles vertes d'Amérique) |
+|
 
-s.o. |
+- Conophis spp. (Couleuvres perfides d'Amérique)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Leptotyphlopidés (Serpents-vers) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Macrelaps spp. (Couleuvres noires d'Afrique australe) |
+|
 
-s.o. |
+- Crotaphopeltis spp. (Couleuvres à lèvres jaunes d'Afrique)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Madagascarophis spp. (Couleuvres nocturnes de Madagascar) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Malpolon spp. (Couleuvres de Montpellier) |
+|
 
-s.o. |
+- Diadophis spp. (Couleuvres à collier d'Amérique du Nord)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Opheodrys spp. (Serpents des buissons) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 25 |
+|
 
-26 et plus |
+1 et plus
 
-- Oxybelis spp. (Serpents-lianes à nez pointu d'Amérique du Sud) |
+|
 
-s.o. |
+- Dipsadoboa spp. (Couleuvres arboricoles vertes d'Afrique)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Phalotris spp. (Couleuvres à collier d'Amérique du Sud) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Philodryas spp. (Serpents-lianes perfides d'Amérique du Sud) |
+|
 
-s.o. |
+- Dispholidus spp. (Boomslang africain ou serpent d'arbre du Cap)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Psammophis spp. (Serpents des sables) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Psammophylax spp. (Serpents des sables d'Afrique australe) |
+|
 
-s.o. |
+- Elapidés (Cobras, najas, etc.)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Rhabdophis spp. (Couleuvres aquatiques d'Asie orientale), y compris Natrix tigrina = Rhabdophis tigrinus |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Stenorrhina spp. (Couleuvres à museau étroit) |
+|
 
-s.o. |
+- Elapomorphus spp. (Couleuvres d'Amérique du Sud)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Tachymenis spp. (Serpents-fouets d'Amérique du Sud) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Telescopus spp. (Serpents-chats) |
+|
 
-s.o. |
+- Enhydris spp. (Couleuvres aquatiques d'Asie)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Thelotornis spp. (Serpents lianes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Trimorphodon spp. (Serpents-lyres) |
+|
 
-s.o. |
+- Erythrolamprus spp. (Faux serpents corail)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Typhlopidés (Serpents minute) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Uropeltidés (Serpents à queue cuirassée) |
+|
 
-s.o. |
+- Heterodon spp. (Couleuvres à nez plat)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Vipéridés (Vipères) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Xenodon spp. (Couleuvres à dents inégales d'Amérique du Sud) |
+|
 
-s.o. |
+- Hydrodynastes spp. (Faux cobras aquatiques d'Amérique du Sud)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres espèces de Serpentes, lorsque leur taille adulte est inférieure ou égale à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 25 |
+s.o.
 
-s.o. |
+|
 
-26 et plus |
+1 et plus
 
-- Autres espèces de Serpentes, lorsque leur taille adulte est supérieure à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 10 |
+- Hydrophiidés (Serpents marins)
 
-s.o. |
+|
 
-11 et plus |
+s.o.
 
-4° Testudines ou chéloniens (Tortues) |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Langaha spp. (Serpents à nez de feuille)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Leptodeira spp. (Couleuvres forestières d'Amérique du Sud)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Leptophis spp. (Couleuvres arboricoles vertes d'Amérique)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Leptotyphlopidés (Serpents-vers)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Macrelaps spp. (Couleuvres noires d'Afrique australe)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Madagascarophis spp. (Couleuvres nocturnes de Madagascar)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Malpolon spp. (Couleuvres de Montpellier)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Opheodrys spp. (Serpents des buissons)
+
+|
+
+s.o.
+
+|
+
+De 1 à 25
+
+|
+
+26 et plus
+
+|
+
+- Oxybelis spp. (Serpents-lianes à nez pointu d'Amérique du Sud)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Phalotris spp. (Couleuvres à collier d'Amérique du Sud)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Philodryas spp. (Serpents-lianes perfides d'Amérique du Sud)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Psammophis spp. (Serpents des sables)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Psammophylax spp. (Serpents des sables d'Afrique australe)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Rhabdophis spp. (Couleuvres aquatiques d'Asie orientale), y compris Natrix tigrina = Rhabdophis tigrinus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Stenorrhina spp. (Couleuvres à museau étroit)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Tachymenis spp. (Serpents-fouets d'Amérique du Sud)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Telescopus spp. (Serpents-chats)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Thelotornis spp. (Serpents lianes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Trimorphodon spp. (Serpents-lyres)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Typhlopidés (Serpents minute)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Uropeltidés (Serpents à queue cuirassée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Vipéridés (Vipères)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Xenodon spp. (Couleuvres à dents inégales d'Amérique du Sud)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces de Serpentes, lorsque leur taille adulte est inférieure ou égale à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 25
+
+|
+
+s.o.
+
+|
+
+26 et plus
+
+|
+
+- Autres espèces de Serpentes, lorsque leur taille adulte est supérieure à 1,50 mètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 10
+
+|
+
+s.o.
+
+|
+
+11 et plus
+
+|
+
+4° Testudines ou chéloniens (Tortues)
 
 |
 
@@ -3856,319 +7476,633 @@ s.o. |
 
 |
 
-- Batagur borneoensis (Tortue peinte de Bornéo) |
+|
 
-s.o. |
+- Batagur borneoensis (Tortue peinte de Bornéo)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Caretta spp. (Tortues marines) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Carettochélyidés (Tortues fluviatiles de Nouvelle-Guinée et d'Australie) |
+|
 
-s.o. |
+- Caretta spp. (Tortues marines)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Centrochelys (geochelone) sulcata (Tortue sillonnée) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 10 |
+|
 
-11 et plus |
+1 et plus
 
-- Chélydridés (Tortues serpentines, tortues alligator) |
+|
 
-s.o. |
+- Carettochélyidés (Tortues fluviatiles de Nouvelle-Guinée et d'Australie)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Chrysemys spp. (Tortue peinte) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Claudius spp. |
+|
 
-s.o. |
+- Centrochelys (geochelone) sulcata (Tortue sillonnée)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Clemmys spp. (Clemmydes) |
+|
 
-s.o. |
+De 1 à 10
 
-s.o. |
+|
 
-1 et plus |
+11 et plus
 
-- Deirochelys reticularia (Tortue-poulet) |
+|
 
-s.o. |
+- Chélydridés (Tortues serpentines, tortues alligator)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Dermatémydidés (Tortues fluviatiles d'Amérique centrale) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Dermochelys coriacea (Tortue luth) |
+|
 
-s.o. |
+- Chrysemys spp. (Tortue peinte)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Aldabrachelys elephantina ou Testudo gigantea (Tortue éléphantine d'Albadra ou Tortue géante des Seychelles) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Emydoidea blandingii (Tortue de Blanding) |
+|
 
-s.o. |
+- Claudius spp.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Eretmochelys spp. (Tortues marines) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Erymnochelys spp. (Tortues à grosse tête de Madagascar) |
+|
 
-s.o. |
+- Clemmys spp. (Clemmydes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Gopherus spp. (Tortues fouisseuses américaines) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Graptemys spp. (Graptémydes) |
+|
 
-s.o. |
+- Deirochelys reticularia (Tortue-poulet)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Kinixys spp. (Tortues à dos articulé) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Kinosternon flavescens (Tortue bourbeuse jaunâtre) |
+|
 
-s.o. |
+- Dermatémydidés (Tortues fluviatiles d'Amérique centrale)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Kinosternon subrubrum (Tortue bourbeuse roussâtre) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Lepidochelys spp. (Tortues marines) |
+|
 
-s.o. |
+- Dermochelys coriacea (Tortue luth)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Malaclemys terrapin (Tortue à dos diamanté) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Mauremys reevesii = Chinemys reevesii (Chinémyde de Reeves) |
+|
 
-s.o. |
+- Aldabrachelys elephantina ou Testudo gigantea (Tortue éléphantine d'Albadra ou Tortue géante des Seychelles)
 
-De 1 à 25 |
+|
 
-26 et plus |
+s.o.
 
-- Orlitia borneensis (Tortue fluviatile géante de Bornéo) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Peltocephalus spp. (Peltocéphale d'Amazonie) |
+|
 
-s.o. |
+- Emydoidea blandingii (Tortue de Blanding)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Pelusios niger (Pélusios noir) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Platysternidés (Tortues à grosse tête orientales) |
+|
 
-s.o. |
+- Eretmochelys spp. (Tortues marines)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Podocnemis spp. (Tortues de l'Amazone) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Pseudemys spp. (Pseudémydes) |
+|
 
-s.o. |
+- Erymnochelys spp. (Tortues à grosse tête de Madagascar)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Staurotypus spp. (Staurotypes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Sternotherus odoratus (Tortue musquée) |
+|
 
-s.o. |
+- Gopherus spp. (Tortues fouisseuses américaines)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Stigmochelys (Geochelone) pardalis (Tortue léopard) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 10 |
+|
 
-11 et plus |
+1 et plus
 
-- Terrapene spp. (Tortues-boîtes) |
+|
 
-s.o. |
+- Graptemys spp. (Graptémydes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Testudo spp., y compris Agrionemys spp. (Tortues terrestres vraies) |
+|
 
-s.o. |
+s.o.
 
-De 1 à 6 |
+|
 
-7 et plus |
+1 et plus
 
-- Trachemys scripta (Tortue à tempes rouges ou tortue de Floride) (*) |
+|
 
-s.o. |
+- Kinixys spp. (Tortues à dos articulé)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres espèces de Trachemys (Trachémydes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Trionychidés (Tortues à carapace molle) |
+|
 
-s.o. |
+- Kinosternon flavescens (Tortue bourbeuse jaunâtre)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres espèces de Testudines, lorsque leur taille adulte est inférieure ou égale à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 25 |
+s.o.
 
-s.o. |
+|
 
-26 et plus |
+1 et plus
 
-- Autres espèces de Testudines, lorsque leur taille adulte est supérieure à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 10 |
+- Kinosternon subrubrum (Tortue bourbeuse roussâtre)
 
-s.o. |
+|
 
-11 et plus |
+s.o.
 
-IV. AMPHIBIENS |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Lepidochelys spp. (Tortues marines)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Malaclemys terrapin (Tortue à dos diamanté)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Mauremys reevesii = Chinemys reevesii (Chinémyde de Reeves)
+
+|
+
+s.o.
+
+|
+
+De 1 à 25
+
+|
+
+26 et plus
+
+|
+
+- Orlitia borneensis (Tortue fluviatile géante de Bornéo)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Peltocephalus spp. (Peltocéphale d'Amazonie)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pelusios niger (Pélusios noir)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Platysternidés (Tortues à grosse tête orientales)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Podocnemis spp. (Tortues de l'Amazone)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pseudemys spp. (Pseudémydes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Staurotypus spp. (Staurotypes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Sternotherus odoratus (Tortue musquée)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Stigmochelys (Geochelone) pardalis (Tortue léopard)
+
+|
+
+s.o.
+
+|
+
+De 1 à 10
+
+|
+
+11 et plus
+
+|
+
+- Terrapene spp. (Tortues-boîtes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Testudo spp., y compris Agrionemys spp. (Tortues terrestres vraies)
+
+|
+
+s.o.
+
+|
+
+De 1 à 6
+
+|
+
+7 et plus
+
+|
+
+- Trachemys scripta (Tortue à tempes rouges ou tortue de Floride) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces de Trachemys (Trachémydes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Trionychidés (Tortues à carapace molle)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres espèces de Testudines, lorsque leur taille adulte est inférieure ou égale à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 25
+
+|
+
+s.o.
+
+|
+
+26 et plus
+
+|
+
+- Autres espèces de Testudines, lorsque leur taille adulte est supérieure à 40 centimètres, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 10
+
+|
+
+s.o.
+
+|
+
+11 et plus
+
+|
+
+IV. AMPHIBIENS
 
 |
 
@@ -4176,7 +8110,9 @@ IV. AMPHIBIENS |
 
 |
 
-1° Anura (Grenouilles, crapauds) |
+|
+
+1° Anura (Grenouilles, crapauds)
 
 |
 
@@ -4184,175 +8120,345 @@ IV. AMPHIBIENS |
 
 |
 
-- Allophrynidae (Grenouilles arboricoles des Guyanes) |
+|
 
-s.o. |
+- Allophrynidae (Grenouilles arboricoles des Guyanes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Brachycéphalidae (Crapauds ensellés) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Discoglossidae (Discoglosses, crapauds sonneurs) |
+|
 
-s.o. |
+- Brachycéphalidae (Crapauds ensellés)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Héléophrynidae (Grenouilles spectres) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Hyla cinerea (Rainette cendrée) |
+|
 
-De 1 à 40 |
+- Discoglossidae (Discoglosses, crapauds sonneurs)
 
-s.o. |
+|
 
-41 et plus |
+s.o.
 
-- Autres espèces de Hyla spp. (Rainettes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Incilius alvarius = Bufo alvarius (Crapaud de Sonora) |
+|
 
-s.o. |
+- Héléophrynidae (Grenouilles spectres)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Leiopelmatidae (Grenouilles à queue) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Lithobates catesbeianus (Grenouille taureau) (*) |
+|
 
-s.o. |
+- Hyla cinerea (Rainette cendrée)
 
-s.o. |
+|
 
-1 et plus |
+De 1 à 40
 
-- Pélobatidae (Pélobates, crapauds à couteau) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+41 et plus
 
-- Pélodytidae (Pélodytes, grenouilles persillées) |
+|
 
-s.o. |
+- Autres espèces de Hyla spp. (Rainettes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Phyllobates spp. (Phyllobates) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Pipa spp. |
+|
 
-De 1 à 40 |
+- Incilius alvarius = Bufo alvarius (Crapaud de Sonora)
 
-s.o. |
+|
 
-41 et plus |
+s.o.
 
-- Autres espèces de Pipidae (dont Xenopus spp.) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Pelophylax kl. esculentus = Rana esculenta (Grenouille verte) |
+|
 
-De 1 à 40 |
+- Leiopelmatidae (Grenouilles à queue)
 
-s.o. |
+|
 
-41 et plus |
+s.o.
 
-- Rana temporaria (Grenouille rousse) |
+|
 
-De 1 à 40 |
+s.o.
 
-s.o. |
+|
 
-41 et plus |
+1 et plus
 
-- Autres espèces de Rana spp. et Pelophylax spp. |
+|
 
-s.o. |
+- Lithobates catesbeianus (Grenouille taureau) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Rhinodermatidae (Grenouilles à nez pointu) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Rhinophrynidae (Crapauds fouisseurs du Mexique) |
+|
 
-s.o. |
+- Pélobatidae (Pélobates, crapauds à couteau)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Sooglossidae (Grenouilles des Seychelles) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Autres Anoures, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 40 |
+- Pélodytidae (Pélodytes, grenouilles persillées)
 
-s.o. |
+|
 
-41 et plus |
+s.o.
 
-2° Caudata (Salamandres, tritons, etc.) |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Phyllobates spp. (Phyllobates)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pipa spp.
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+- Autres espèces de Pipidae (dont Xenopus spp.)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Pelophylax kl. esculentus = Rana esculenta (Grenouille verte)
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+- Rana temporaria (Grenouille rousse)
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+- Autres espèces de Rana spp. et Pelophylax spp.
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Rhinodermatidae (Grenouilles à nez pointu)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Rhinophrynidae (Crapauds fouisseurs du Mexique)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Sooglossidae (Grenouilles des Seychelles)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Anoures, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+2° Caudata (Salamandres, tritons, etc.)
 
 |
 
@@ -4360,71 +8466,137 @@ s.o. |
 
 |
 
-- Amphiumidés (Salamandres anguilles) |
+|
 
-s.o. |
+- Amphiumidés (Salamandres anguilles)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Cryptobranchidae (Salamandres géantes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Dicamptodontidés (Salamandres géantes du Pacifique) |
+|
 
-s.o. |
+- Cryptobranchidae (Salamandres géantes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Proteidae (Protées et nectures) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Sirénidés (Sirènes) |
+|
 
-s.o. |
+- Dicamptodontidés (Salamandres géantes du Pacifique)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Taricha spp. (Tritons rugueux) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Triturus spp. (Tritons) |
+|
 
-s.o. |
+- Proteidae (Protées et nectures)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Caudata, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 40 |
+s.o.
 
-s.o. |
+|
 
-41 et plus |
+1 et plus
 
-3° Gymnophiona |
+|
+
+- Sirénidés (Sirènes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Taricha spp. (Tritons rugueux)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Triturus spp. (Tritons)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Caudata, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+3° Gymnophiona
 
 |
 
@@ -4432,63 +8604,121 @@ s.o. |
 
 |
 
-- Cécilidés (Céciliens-vers) |
+|
 
-s.o. |
+- Cécilidés (Céciliens-vers)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Ichthyophiidés (Céciliens-poissons) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Rhinatrématidés (Céciliens à longue queue) |
+|
 
-s.o. |
+- Ichthyophiidés (Céciliens-poissons)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Scolécomorphidés (Céciliens-vers d'Afrique) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Typhlonectidés (Céciliens aquatiques) |
+|
 
-s.o. |
+- Rhinatrématidés (Céciliens à longue queue)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Uraeotyphlidés (Céciliens-cobras) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Autres Gymnophiona, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-De 1 à 40 |
+- Scolécomorphidés (Céciliens-vers d'Afrique)
 
-s.o. |
+|
 
-41 et plus |
+s.o.
 
-V. POISSONS |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Typhlonectidés (Céciliens aquatiques)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Uraeotyphlidés (Céciliens-cobras)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Gymnophiona, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+De 1 à 40
+
+|
+
+s.o.
+
+|
+
+41 et plus
+
+|
+
+V. POISSONS
 
 |
 
@@ -4496,15 +8726,25 @@ V. POISSONS |
 
 |
 
-CHONDRICHTYENS (POISSONS CARTILAGINEUX) |
+|
 
-s.o. |
+CHONDRICHTYENS (POISSONS CARTILAGINEUX)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-OSTEICHTYENS |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+OSTEICHTYENS
 
 |
 
@@ -4512,7 +8752,9 @@ OSTEICHTYENS |
 
 |
 
-1° Scorpaeniformes (poissons à nageoires rayonnées) |
+|
+
+1° Scorpaeniformes (poissons à nageoires rayonnées)
 
 |
 
@@ -4520,31 +8762,57 @@ OSTEICHTYENS |
 
 |
 
-- Scorpaenidae (Poissons-scorpions ou rascasses) |
+|
 
-s.o. |
+- Scorpaenidae (Poissons-scorpions ou rascasses)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Synanceiidae (Poissons-pierres) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Autres Scorpaeniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+- Synanceiidae (Poissons-pierres)
 
-s.o. |
+|
 
-s.o. |
+s.o.
 
-2° Perciformes ou Percomorphes (poissons osseux) |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Scorpaeniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+2° Perciformes ou Percomorphes (poissons osseux)
 
 |
 
@@ -4552,47 +8820,89 @@ s.o. |
 
 |
 
-- Trachinidae (Vives) |
+|
 
-s.o. |
+- Trachinidae (Vives)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Perccottus glenii (Goujon de l'Amour) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
--Lepomis gibbosus (Perche-soleil) (*) |
+|
 
-s.o. |
+- Perccottus glenii (Goujon de l'Amour) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Perciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
--Plotosus lineatus (Balibot rayé, Poisson-chat rayé) (*) |
+|
 
-s.o. |
+-Lepomis gibbosus (Perche-soleil) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-3° Cypriniformes (poissons d'eau douce) |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Perciformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+-Plotosus lineatus (Balibot rayé, Poisson-chat rayé) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+3° Cypriniformes (poissons d'eau douce)
 
 |
 
@@ -4600,33 +8910,59 @@ s.o. |
 
 |
 
-- Pseudorasbora parva (Pseudorasbora ou goujon asiatique) (*) |
+|
 
-s.o. |
+- Pseudorasbora parva (Pseudorasbora ou goujon asiatique) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Cypriniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-- Autres Ostéichtyens, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+- Autres Cypriniformes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
 
-s.o. |
+|
 
-s.o. |
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+- Autres Ostéichtyens, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
 
 VI. INVERTÉBRÉS
 
-La liste ci-dessous constitue la liste des espèces d'invertébrés dont la détention est soumise aux dispositions du chapitre III du titre Ier du livre IV, en application du second alinéa de l'article L. 413-1 du code de l'environnement. |
+La liste ci-dessous constitue la liste des espèces d'invertébrés dont la détention est soumise aux dispositions du chapitre III du titre Ier du livre IV, en application du second alinéa de l'article L. 413-1 du code de l'environnement.
 
 |
 
@@ -4634,7 +8970,9 @@ La liste ci-dessous constitue la liste des espèces d'invertébrés dont la dét
 
 |
 
-PLATHELMINTHES (VERS PLATS) |
+|
+
+PLATHELMINTHES (VERS PLATS)
 
 |
 
@@ -4642,15 +8980,25 @@ PLATHELMINTHES (VERS PLATS) |
 
 |
 
--Arthurdendyus triangulatus (Ver plat de Nouvelle-Zélande) (*) |
+|
 
-s.o. |
+-Arthurdendyus triangulatus (Ver plat de Nouvelle-Zélande) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-ANNELIDA (VERS SEGMENTES) |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+ANNELIDA (VERS SEGMENTES)
 
 |
 
@@ -4658,15 +9006,25 @@ ANNELIDA (VERS SEGMENTES) |
 
 |
 
-- Hirudinea (Sangsues) |
+|
 
-s.o. |
+- Hirudinea (Sangsues)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-MOLLUSCA (MOLLUSQUES) |
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+MOLLUSCA (MOLLUSQUES)
 
 |
 
@@ -4674,39 +9032,73 @@ MOLLUSCA (MOLLUSQUES) |
 
 |
 
-- Conidae (Escargots marins, cônes) |
+|
 
-s.o. |
+- Conidae (Escargots marins, cônes)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Hapalochlaena maculosa (Pieuvre aux anneaux bleus) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Hapalochlaena lunulata (Grande pieuvre aux cercles bleus) |
+|
 
-s.o. |
+- Hapalochlaena maculosa (Pieuvre aux anneaux bleus)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Mollusques, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-ARTHROPODA (ARTHROPODES) |
+|
+
+- Hapalochlaena lunulata (Grande pieuvre aux cercles bleus)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Mollusques, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+ARTHROPODA (ARTHROPODES)
 
 |
 
@@ -4714,7 +9106,9 @@ ARTHROPODA (ARTHROPODES) |
 
 |
 
-Decapoda (Crustacés) |
+|
+
+Decapoda (Crustacés)
 
 |
 
@@ -4722,55 +9116,105 @@ Decapoda (Crustacés) |
 
 |
 
--Eriocheir sinensis (Crabe chinois) (*) |
+|
 
-s. o |
+-Eriocheir sinensis (Crabe chinois) (*)
 
-s. o |
+|
 
-1 et plus |
+s. o
 
-- Orconectes limosus (Écrevisse américaine) (*) |
+|
 
-s.o. |
+s. o
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Orconectes virilis (Écrevisse américaine) (*) |
+|
 
-s.o. |
+- Orconectes limosus (Écrevisse américaine) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Pacifastacus leniusculus (Écrevisse du Pacifique) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Procambarus clarkii (Écrevisse de Louisiane) (*) |
+|
 
-s.o. |
+- Orconectes virilis (Écrevisse américaine) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Procambarus fallax (Écrevisse des marécages ou écrevisse marbrée) (*) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-ARACHNIDA (ARAIGNEES, SCORPIONS, ACARIENS) |
+|
+
+- Pacifastacus leniusculus (Écrevisse du Pacifique) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Procambarus clarkii (Écrevisse de Louisiane) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Procambarus fallax (Écrevisse des marécages ou écrevisse marbrée) (*)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+ARACHNIDA (ARAIGNEES, SCORPIONS, ACARIENS)
 
 |
 
@@ -4778,7 +9222,9 @@ ARACHNIDA (ARAIGNEES, SCORPIONS, ACARIENS) |
 
 |
 
-Araneae (Araignées) |
+|
+
+Araneae (Araignées)
 
 |
 
@@ -4786,71 +9232,137 @@ Araneae (Araignées) |
 
 |
 
-- Latrodectus spp. (Veuves noires) |
+|
 
-s.o. |
+- Latrodectus spp. (Veuves noires)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Loxosceles spp. (Araignées violoniste, recluses) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Phoneutria spp. (Araignées-banane) |
+|
 
-s.o. |
+- Loxosceles spp. (Araignées violoniste, recluses)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Sicarius spp. |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-- Mygalomorphae (Mygales) |
+|
 
-s.o. |
+- Phoneutria spp. (Araignées-banane)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Araneae, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
 
-Scorpiones (Scorpions) |
+|
 
-s.o. |
+- Sicarius spp.
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-Chilopoda : Scolopendromorpha (Myriapodes chilopodes) |
+|
 
-s.o. |
+s.o.
 
-s.o. |
+|
 
-1 et plus |
+1 et plus
 
-Insecta : Hymenoptera (Abeilles, guêpes, fourmis) |
+|
+
+- Mygalomorphae (Mygales)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+- Autres Araneae, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+Scorpiones (Scorpions)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+Chilopoda : Scolopendromorpha (Myriapodes chilopodes)
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
+
+1 et plus
+
+|
+
+Insecta : Hymenoptera (Abeilles, guêpes, fourmis)
 
 |
 
@@ -4858,21 +9370,39 @@ Insecta : Hymenoptera (Abeilles, guêpes, fourmis) |
 
 |
 
-- Vespa velunita nigrithorax (Frelon asiatique ou frelon à pattes jaunes) (*) |
+|
 
-s.o. |
+- Vespa velunita nigrithorax (Frelon asiatique ou frelon à pattes jaunes) (*)
 
-s.o. |
+|
 
-1 et plus |
+s.o.
 
-- Autres Arthropodes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement |
+|
 
-1 et plus |
+s.o.
 
-s.o. |
+|
 
-s.o. |
+1 et plus
+
+|
+
+- Autres Arthropodes, hors espèces figurant en annexe A du règlement (CE) n° 338/97 susvisé et espèces protégées en application de l'article L. 411-1 du code de l'environnement
+
+|
+
+1 et plus
+
+|
+
+s.o.
+
+|
+
+s.o.
+
+|
 
 NOTA :
 
