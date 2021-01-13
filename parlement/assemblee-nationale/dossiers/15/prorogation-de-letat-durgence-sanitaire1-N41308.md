@@ -1,0 +1,75 @@
+# Prorogation de l'état d'urgence sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41308
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/prorogation_de_letat_durgence_sanitaire1
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-296.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-01-13 : 1er dépôt d'une initiative. (PRJLANR5L15B3733)
+  - 2021-01-13 : Etude d'impact (ETDIANR5L15B3733)
+  - 2021-01-13 : Avis du Conseil d'Etat (AVCEANR5L15B3733)
+  - 2021-01-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-13 : Renvoi en commission au fond
+      - 2021-01-13 : Nomination de rapporteur
+      - 2021-01-13 : Réunion de commission
+      - 2021-01-13 : Réunion de commission
+      - 2021-01-14 : Réunion de commission
+      - 2021-01-14 : Dépôt de rapport (RAPPANR5L15B3739, PRJLANR5L15BTC3739)
+  - Discussion en séance publique
+    - 2021-01-20 : Discussion en séance publique
+    - 2021-01-20 : Discussion en séance publique
+    - 2021-01-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-01-21 : Dépôt d'une initiative en navette (PRJLSNR5S359B0296)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-21 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-01-26 : Dépôt de rapport (RAPPSNR5S359B0299, PRJLSNR5S359BTC0300)
+  - Discussion en séance publique
+    - 2021-01-27 : Discussion en séance publique
+    - 2021-01-27 : Décision
+- Commission Mixte Paritaire
+  - 2021-01-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-01-28 : Nomination de rapporteur
+    - 2021-01-28 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0321, PRJLSNR5S359BTC0322)
+    - 2021-01-29 : Dépôt du rapport d'une CMP (RAPPANR5L15B3820)
+  - 2021-01-28 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-01-28 : Dépôt d'une initiative en navette (PRJLANR5L15B3818)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-28 : Renvoi en commission au fond
+      - 2021-02-01 : Réunion de commission
+      - 2021-02-01 : Dépôt de rapport (RAPPANR5L15B3822, PRJLANR5L15BTC3822)
+  - Discussion en séance publique
+    - 2021-02-02 : Discussion en séance publique
+    - 2021-02-02 : Discussion en séance publique
+    - 2021-02-02 : Décision
+- Nouvelle Lecture
+  - 2021-02-02 : Dépôt d'une initiative en navette (PRJLSNR5S359B0327)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-02 : Renvoi en commission au fond
+      - 2021-02-03 : Dépôt de rapport (RAPPSNR5S359B0336, PRJLSNR5S359BTC0337)
+  - Discussion en séance publique
+    - 2021-02-04 : Discussion en séance publique
+    - 2021-02-04 : Décision
+- Lecture définitive
+  - 2021-02-04 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0559)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-04 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2021-02-05 : Discussion en séance publique
+    - 2021-02-09 : Discussion en séance publique
+    - 2021-02-09 : Décision
+- Promulgation de la loi
+  - 2021-02-15 : Promulgation d'une loi
