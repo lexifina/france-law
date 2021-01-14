@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018376
+
+- Question : [SEQ201018376](seq201018376.md) — Situation d'un salarié d'une régie dotée de la personnalité morale élu au conseil municipal
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-01-14, page 213*
+
+L'article R. 2221-4 du code général des collectivités territoriales (CGCT) prévoit que les statuts fixent les règles générales d'organisation et de fonctionnement du conseil d'administration des régies. Cet article précise que, s'agissant des membres du conseil d'administration et du conseil d'exploitation, les statuts fixent notamment les catégories de personnes parmi lesquelles sont choisis ceux d'entre eux n'appartenant pas au conseil municipal. L'article R. 2221-8 du CGCT, précisant le régime juridique des incompatibilités inhérentes à la fonction de membre du conseil d'administration d'une régie, ne prohibe pas la présence de représentants des salariés dans les conseils d'administration des régies. Néanmoins, dans le cas des régies dotées de la personnalité morale et de l'autonomie financière chargées de l'exploitation de services publics à caractère administratif, l'article R. 2221-54 du CGCT indique que les agents de la commune ou de la régie ne peuvent être membres du conseil d'administration. En conséquence, dans une régie dotée de la personnalité morale et de l'autonomie financière chargée de l'exploitation d'un service public industriel et commercial, des représentants des salariés de la régie pourront être désignés membres du conseil d'administration à la condition que les statuts le prévoient. En revanche, une telle désignation est impossible dans les régies dotées de la personnalité morale et de l'autonomie financière chargées de l'exploitation d'un service public administratif.
