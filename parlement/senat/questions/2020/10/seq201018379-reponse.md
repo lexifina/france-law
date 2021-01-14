@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018379
+
+- Question : [SEQ201018379](seq201018379.md) — Application du dispositif « argent de poche » en zone rurale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-01-14, page 214*
+
+Le dispositif des chantiers ou stages éducatifs, qui prévoit la rétribution des jeunes participants dans le cadre du dispositif dit « argent de poche » (montant maximal de 15 euros par jour pour un maximum de 33 jours par année civile) fait partie du programme « Ville Vie Vacances » (VVV). Ce programme s'adresse prioritairement aux enfants et jeunes en difficulté des quartiers de la politique de la ville, âgés de 11 à 18 ans et éloignés de l'accès aux loisirs et aux vacances. Le programme VVV permet à ce public cible de bénéficier d'activités culturelles, civiques, sportives et de loisirs et d'une prise en charge éducative durant les vacances scolaires. Le dispositif a vocation à être déployé à l'initiative des collectivités ou à celle des caisses locales de la Caisse nationale des allocations familiales (CNAF). Il est donc possible de le mobiliser en milieu rural dès lors qu'un partenaire local souhaite sa mise en œuvre et propose le financement de la rétribution. La mise en œuvre des mesures de l'Agenda rural en faveur de la jeunesse permettra d'étudier l'opportunité de renforcer le déploiement de ce dispositif en milieu rural, en échange notamment avec le ministère du travail et les partenaires concernés (réseaux de collectivités et CNAF). Accompagner et promouvoir la jeunesse est en effet un des grands axes de l'Agenda rural, réaffirmé lors du dernier comité interministériel aux ruralités du 14 novembre 2020. Le lancement de 800 volontaires territoriaux, mais aussi le déploiement du service civique dans la ruralité et le doublement du nombre de bénéficiaires des « cordées de la réussite » participent également de cette ambition.
