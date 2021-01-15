@@ -28,7 +28,7 @@ Chef du cabinet des inspections, des études et des audits.
 
 Directeur central adjoint de la police judiciaire.
 
-Directeur interrégional de police judiciaire, directeur du service régional à Marseille.
+Directeur zonal de la police judiciaire Sud à Marseille.
 
 6. Direction générale de la sécurité intérieure :
 
@@ -40,17 +40,17 @@ Directeur central adjoint de la sécurité publique, chef d'état-major.
 
 Directeur central adjoint chargé du renseignement et chef du service central du renseignement territorial à la direction centrale de la sécurité publique.
 
-Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense et de sécurité Sud à Marseille (13).
+Directeur zonal de la sécurité publique Sud à Marseille (13)
 
-Directeur départemental de la sécurité publique et commissaire central-coordonnateur zonal de la zone de défense et de sécurité Sud-Ouest à Bordeaux (33).
+Directeur zonal de la sécurité publique Sud-Ouest à Bordeaux (33)
 
-Directeur départemental de la sécurité publique et commissaire central-coordonnateur zonal de la zone de défense et de sécurité Ouest à Rennes (35).
+Directeur zonal de la sécurité publique Ouest à Rennes (35)
 
-Directeur départemental de la sécurité publique, chef de district et commissaire central-coordonnateur zonal de la zone de défense et de sécurité Est à Metz (57).
+Directeur zonal de la sécurité publique Est à Metz (57)
 
-Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense et de sécurité Nord-Lille DDSP-à Lille (59).
+Directeur zonal de la sécurité publique Nord à Lille (59)
 
-Directeur départemental de la sécurité publique et coordonnateur zonal de la zone de défense et de sécurité Sud-Est à Lyon (69).
+Directeur zonal de la sécurité publique Sud-Est à Lyon (69)
 
 8. Direction centrale de la police aux frontières :
 
@@ -64,9 +64,9 @@ Directeur central adjoint des compagnies républicaines de sécurité.
 
 Chef du service de la protection.
 
-11. Service national de police scientifique :
+11. Service national de police scientifique : :
 
-Chef du service national de police scientifique.
+Chef du service national de police scientifique
 
 12. Préfecture de police :
 
@@ -148,11 +148,11 @@ Sous-directeur de la lutte contre la criminalité organisée.
 
 Sous-directeur du pilotage et des ressources.
 
-Directeur interrégional de police judiciaire, directeur du service régional à Rennes.
+Directeur zonal de la police judiciaire Ouest à Rennes.
 
-Directeur interrégional de police judiciaire, directeur du service régional à Strasbourg.
+Directeur zonal de la police judiciaire Est à Strasbourg.
 
-Directeur interrégional de police judiciaire, directeur du service régional à Lyon.
+Directeur zonal de la police judiciaire Sud-Est à Lyon.
 
 Directeur régional de police judiciaire à Versailles.
 
@@ -182,7 +182,7 @@ Chef de la division nationale de recherche et d'appui.
 
 Directeur départemental de la sécurité publique et commissaire central à Nice (06).
 
-Directeur départemental adjoint de la sécurité publique à Marseille (13).
+Directeur départemental de la sécurité publique, commissaire central de Marseille (13).
 
 Directeur départemental de la sécurité publique et commissaire central à Toulouse (31).
 
@@ -196,13 +196,13 @@ Directeur départemental de la sécurité publique et commissaire central à Nan
 
 Directeur départemental de la sécurité publique, chef de district et commissaire central à Nancy (54).
 
-Directeur départemental adjoint de la sécurité publique-Lille DDSP-à Lille (59).
+Directeur départemental de la sécurité publique, commissaire central de Lille (59).
 
 Directeur départemental de la sécurité publique à Arras (62).
 
 Directeur départemental de la sécurité publique et commissaire central à Strasbourg (67).
 
-Directeur départemental adjoint de la sécurité publique à Lyon (69), préfigurateur des nouvelles fonctions de directeur départemental de la sécurité publique du Rhône, commissaire central de Lyon.
+Directeur départemental de la sécurité publique, commissaire central de Lyon (69).
 
 Directeur départemental de la sécurité publique à Rouen (76).
 
@@ -308,4 +308,4 @@ Secrétaire général adjoint pour l'administration du ministère de l'intérieu
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 30 octobre 2020 ( NOR : INTC2026946A ), les présentes dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française
+Conformément à l'article 5 de l'arrêté du 14 janvier 2021, ces dispositions entrent en vigueur à compter du 15 janvier 2021.
