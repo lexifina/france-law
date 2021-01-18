@@ -1,39 +1,23 @@
 # Article Annexe 2 bis
 
-Les pays étrangers mentionnés à la première phrase du troisième alinéa du V de l'article 6 et à la première phrase du troisième alinéa du II de l'article 11 sont les suivants :
+Les pays étrangers mentionnés à la première phrase du troisième alinéa du V de l'article 6 et à la première phrase du troisième alinéa du II de l'article 11 sont l'ensemble des pays du monde à l'exception des Etats membres de l'Union européenne et des pays suivants :
 
-- Afrique du Sud ;
+-Andorre ;
 
-- Algérie ;
+-Islande ;
 
-- Bahreïn ;
+-Liechtenstein ;
 
-- Chine ;
+-Monaco ;
 
-- Emirats arabes unis ;
+-Norvège ;
 
-- Equateur ;
+-Saint-Marin ;
 
-- Etats-Unis ;
+-Saint-Siège ;
 
-- Irak ;
+-Suisse.
 
-- Iran ;
+NOTA :
 
-- Israël ;
-
-- Liban ;
-
-- Maroc ;
-
-- Panama ;
-
-- République démocratique du Congo ;
-
-- Russie ;
-
-- Turquie ;
-
-- Ukraine ;
-
-- Zimbabwe.
+Conformément à l'article 4 du décret n° 2021-31 du 15 janvier 2021, ces dispositions entreront en vigueur le 18 janvier 2021 à 0 heure.
