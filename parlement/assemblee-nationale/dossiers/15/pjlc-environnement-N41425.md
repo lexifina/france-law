@@ -1,0 +1,64 @@
+# Compléter l’article 1er de la Constitution et relatif à la préservation de l’environnement
+
+- Procédure : Projet ou proposition de loi constitutionnelle
+- Législature : 15
+- Identifiant : DLR5L15N41425
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/pjlc_environnement
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-449.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-01-20 : 1er dépôt d'une initiative. (PRJLANR5L15B3787)
+  - 2021-01-20 : Avis du Conseil d'Etat (AVCEANR5L15B3787)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-20 : Renvoi en commission au fond
+      - 2021-02-03 : Nomination de rapporteur
+      - 2021-03-09 : Réunion de commission
+      - 2021-02-17 : Dépôt de rapport (RAPPANR5L15B3894)
+    - Travaux d'une commission saisie pour avis
+      - 2021-01-20 : Saisine pour avis d'une commission
+      - 2021-01-28 : Nomination de rapporteur
+      - 2021-01-28 : Réunion de commission
+      - 2021-02-16 : Réunion de commission
+      - 2021-02-16 : Réunion de commission
+      - 2021-02-18 : Dépôt de rapport (AVISANR5L15B3902)
+  - Discussion en séance publique
+    - 2021-03-09 : Discussion en séance publique
+    - 2021-03-09 : Discussion en séance publique
+    - 2021-03-10 : Discussion en séance publique
+    - 2021-03-10 : Discussion en séance publique
+    - 2021-03-11 : Discussion en séance publique
+    - 2021-03-11 : Discussion en séance publique
+    - 2021-03-16 : Discussion en séance publique
+    - 2021-03-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-03-16 : Dépôt d'une initiative en navette (PRJLSNR5S359B0449)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-05-05 : Dépôt de rapport (RAPPSNR5S359B0554)
+  - Discussion en séance publique
+    - 2021-05-10 : Décision
+- deuxième lecture
+  - 2021-05-11 : Dépôt d'une initiative en navette (PRJLANR5L15B4149)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-11 : Renvoi en commission au fond
+      - 2021-06-15 : Réunion de commission
+      - 2021-06-21 : Réunion de commission
+      - 2021-06-15 : Dépôt de rapport (RAPPANR5L15B4261)
+  - Discussion en séance publique
+    - 2021-06-21 : Discussion en séance publique
+    - 2021-06-22 : Discussion en séance publique
+    - 2021-06-22 : Décision
+- deuxième lecture
+  - 2021-06-23 : Dépôt d'une initiative en navette (PRJLSNR5S359B0703)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-06-23 : Renvoi en commission au fond
+      - 2021-06-30 : Dépôt de rapport (RAPPSNR5S359B0725)
+  - Discussion en séance publique
+    - 2021-07-05 : Décision
