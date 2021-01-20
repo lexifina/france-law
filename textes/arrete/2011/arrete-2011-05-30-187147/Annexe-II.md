@@ -12,7 +12,9 @@ ASSURANT
 
 la présidence
 
-de la CAPL |
+de la CAPL
+
+|
 
 COMPÉTENCE |
 
@@ -36,7 +38,9 @@ Administration centrale.
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+
+|
 
 Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009.
 
@@ -53,6 +57,8 @@ Agents en fonctions :
 a) Localisé à Vincennes ;
 
 b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
+-au sein du centre de formation au management du ministère de la défense
 
 Agents en fonctions à la direction générale de l'armement, affectés :
 
@@ -86,7 +92,9 @@ et
 
 7 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -108,7 +116,9 @@ Saint-Germain-en-Laye.
 
 Présidence :
 
-Le directeur du centre ministériel de gestion (CMG) de Saint-Germain-en-Laye. |
+Le directeur du centre ministériel de gestion (CMG) de Saint-Germain-en-Laye.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -144,7 +154,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération. |
+-Conseil national de l'ordre des communes Compagnon de la Libération.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -160,7 +172,9 @@ et
 
 7 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -182,7 +196,9 @@ Bordeaux.
 
 Présidence :
 
-Le directeur du CMG de Bordeaux. |
+Le directeur du CMG de Bordeaux.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -192,9 +208,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
+-au sein de DGA techniques aéronautiques, quel que soit le site.
+
 -au sein du centre des archives du personnel militaire de Pau.
 
-Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -210,7 +230,9 @@ et
 
 5 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -232,7 +254,9 @@ Lyon.
 
 Présidence :
 
-Le directeur du CMG de Lyon. |
+Le directeur du CMG de Lyon.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -248,7 +272,9 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 -centre du service national et de la jeunesse de Perpignan.
 
-Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -264,7 +290,9 @@ et
 
 5 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -286,7 +314,9 @@ Metz.
 
 Présidence :
 
-Le directeur du CMG de Metz. |
+Le directeur du CMG de Metz.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -294,7 +324,9 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein du service de l'énergie opérationnelle.
 
-Agents en fonctions en Allemagne. |
+Agents en fonctions en Allemagne.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -310,7 +342,9 @@ et
 
 7 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -332,7 +366,9 @@ Rennes.
 
 Présidence :
 
-Le directeur du CMG de Rennes. |
+Le directeur du CMG de Rennes.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -344,7 +380,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Service hydrographique et océanographique de la marine ;
 
--Ecole navale. |
+-Ecole navale.
+
+|
 
 Adjoint administratif principal de 1re classe |
 
@@ -360,7 +398,9 @@ et
 
 7 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -382,7 +422,9 @@ Toulon.
 
 Présidence :
 
-Le directeur du CMG de Toulon. |
+Le directeur du CMG de Toulon.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -422,7 +464,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -444,7 +488,9 @@ CNMSS.
 
 Présidence :
 
-Le directeur de la CNMSS. |
+Le directeur de la CNMSS.
+
+|
 
 Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale (CNMSS). |
 
@@ -462,7 +508,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Adjoint administratif principal de 2e classe |
 
@@ -482,7 +530,9 @@ AUTORITÉ
 
 ASSURANT
 
-la présidence de la CAPL |
+la présidence de la CAPL
+
+|
 
 COMPÉTENCE |
 
@@ -506,7 +556,9 @@ Administration centrale.
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+
+|
 
 Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
 
@@ -523,6 +575,8 @@ Agents en fonctions :
 a) Localisé à Vincennes ;
 
 b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
+-au sein du centre de formation au management du ministère de la défense
 
 Agents en fonctions à la direction générale de l'armement, affectés :
 
@@ -556,7 +610,9 @@ et
 
 4 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -578,7 +634,9 @@ Saint-Germain-en-Laye.
 
 Présidence :
 
-Le directeur du CMG de Saint-Germain-en-Laye. |
+Le directeur du CMG de Saint-Germain-en-Laye.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -614,7 +672,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération. |
+-Conseil national de l'ordre des communes Compagnon de la Libération.
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -630,7 +690,9 @@ et
 
 4 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -652,7 +714,9 @@ Bordeaux.
 
 Présidence :
 
-Le directeur du CMG de Bordeaux |
+Le directeur du CMG de Bordeaux
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -662,9 +726,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
+-au sein de DGA techniques aéronautiques, quel que soit le site.
+
 -au sein du centre des archives du personnel militaire de Pau.
 
-Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -680,7 +748,9 @@ et
 
 4 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -702,7 +772,9 @@ Lyon
 
 Présidence :
 
-Le directeur du CMG de Lyon |
+Le directeur du CMG de Lyon
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -718,7 +790,9 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 -centre du service national et de la jeunesse de Perpignan.
 
-Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives.
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -734,7 +808,9 @@ et
 
 4 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -756,7 +832,9 @@ Metz.
 
 Présidence :
 
-Le directeur du CMG de Metz. |
+Le directeur du CMG de Metz.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -766,7 +844,9 @@ Belfort (90).
 
 Agents en fonctions au sein du service de l'énergie opérationnelle.
 
-Agents en fonctions en Allemagne. |
+Agents en fonctions en Allemagne.
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -782,7 +862,9 @@ et
 
 4 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -804,7 +886,9 @@ Rennes.
 
 Présidence :
 
-Le directeur du CMG de Rennes. |
+Le directeur du CMG de Rennes.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -816,7 +900,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Service hydrographique et océanographique de la marine ;
 
--Ecole navale. |
+-Ecole navale.
+
+|
 
 Agent technique principal de 1re classe |
 
@@ -832,7 +918,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -854,7 +942,9 @@ Toulon.
 
 Présidence :
 
-Le directeur du CMG de Toulon. |
+Le directeur du CMG de Toulon.
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -896,7 +986,9 @@ et
 
 4 représentants
 
-suppléants |
+suppléants
+
+|
 
 Agent technique principal de 2e classe |
 
@@ -916,7 +1008,9 @@ AUTORITÉ
 
 ASSURANT
 
-la présidence de la CAPL |
+la présidence de la CAPL
+
+|
 
 COMPÉTENCE |
 
@@ -940,11 +1034,15 @@ Saint-Germain-en-Laye.
 
 Présidence :
 
-Le directeur du CMG de Saint-Germain-en-Laye. |
+Le directeur du CMG de Saint-Germain-en-Laye.
+
+|
 
 Territoire métropole, outre-mer
 
-et à l'étranger, sauf Allemagne. |
+et à l'étranger, sauf Allemagne.
+
+|
 
 Aide-soignant civil de classe exceptionnelle |
 
@@ -960,7 +1058,9 @@ et
 
 7 représentants
 
-suppléants |
+suppléants
+
+|
 
 Aide-soignant civil |
 
@@ -986,7 +1086,9 @@ AUTORITÉ
 
 ASSURANT
 
-la présidence de la CAPL |
+la présidence de la CAPL
+
+|
 
 COMPÉTENCE |
 
@@ -1012,7 +1114,9 @@ Administration centrale.
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+
+|
 
 Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
 
@@ -1029,6 +1133,8 @@ Agents en fonctions :
 a) Localisé à Vincennes ;
 
 b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
+-au sein du centre de formation au management du ministère de la défense
 
 Agents en fonctions à la direction générale de l'armement, affectés :
 
@@ -1062,7 +1168,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1084,7 +1192,9 @@ Saint-Germain-en-Laye
 
 Présidence :
 
-Le directeur du CMG de Saint-Germain-en-Laye |
+Le directeur du CMG de Saint-Germain-en-Laye
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -1120,7 +1230,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération. |
+-Conseil national de l'ordre des communes Compagnon de la Libération.
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1136,7 +1248,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1158,7 +1272,9 @@ Bordeaux
 
 Présidence :
 
-Le directeur du CMG de Bordeaux |
+Le directeur du CMG de Bordeaux
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -1170,9 +1286,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
+-au sein de DGA techniques aéronautiques, quel que soit le site.
+
 -au sein du centre des archives du personnel militaire de Pau.
 
-Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1188,7 +1308,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1210,7 +1332,9 @@ Lyon
 
 Présidence :
 
-Le directeur du CMG de Lyon |
+Le directeur du CMG de Lyon
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -1226,7 +1350,9 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 -centre du service national et de la jeunesse de Perpignan.
 
-Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives.
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1242,7 +1368,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1264,7 +1392,9 @@ Metz
 
 Présidence :
 
-Le directeur du CMG de Metz |
+Le directeur du CMG de Metz
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -1272,7 +1402,9 @@ Agents en fonctions dans les organismes ne relevant pas de l'administration cent
 
 Agents en fonctions au sein du service de l'énergie opérationnelle.
 
-Agents en fonctions en Allemagne. |
+Agents en fonctions en Allemagne.
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1288,7 +1420,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1310,7 +1444,9 @@ Rennes
 
 Présidence :
 
-Le directeur du CMG de Rennes |
+Le directeur du CMG de Rennes
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -1322,7 +1458,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Service hydrographique et océanographique de la marine ;
 
--Ecole navale. |
+-Ecole navale.
+
+|
 
 Technicien supérieur d'études et de fabrications de 1re classe |
 
@@ -1338,7 +1476,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1360,7 +1500,9 @@ Toulon
 
 Présidence :
 
-Le directeur du CMG de Toulon |
+Le directeur du CMG de Toulon
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants :
 
@@ -1404,7 +1546,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 Technicien supérieur d'études et de fabrications de 2e classe |
 
@@ -1424,7 +1568,9 @@ AUTORITÉ
 
 ASSURANT
 
-la présidence de la CAPL |
+la présidence de la CAPL
+
+|
 
 COMPÉTENCE |
 
@@ -1448,7 +1594,9 @@ Administration centrale
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale. |
+Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+
+|
 
 Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale. |
 
@@ -1466,7 +1614,9 @@ et
 
 6 représentants
 
-suppléantsPersonnel |
+suppléantsPersonnel
+
+|
 
 mis à disposition et administré par les services de l'administration centrale.
 
@@ -1481,6 +1631,8 @@ Agents en fonctions :
 a) Localisé à Vincennes ;
 
 b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
+-au sein du centre de formation au management du ministère de la défense
 
 |
 
@@ -1522,7 +1674,9 @@ Saint-Germain-en-Laye
 
 Présidence :
 
-Le directeur du CMG de Saint-Germain-en-Laye |
+Le directeur du CMG de Saint-Germain-en-Laye
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
@@ -1540,7 +1694,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 -Oise (60), Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95). |
 
@@ -1580,7 +1736,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Institut des hautes études de la défense nationale ;
 
--Conseil national de l'ordre des communes Compagnon de la Libération. |
+-Conseil national de l'ordre des communes Compagnon de la Libération.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1596,7 +1754,9 @@ Bordeaux
 
 Présidence :
 
-Le directeur du CMG de Bordeaux |
+Le directeur du CMG de Bordeaux
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
@@ -1614,7 +1774,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 -Ariège (09), Aveyron (12), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Haute-Garonne (31), Gers (32), Gironde (33), Landes (40), Lot (46), Lot-et-Garonne (47), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Vienne (86), Haute-Vienne (87). |
 
@@ -1628,9 +1790,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
+-au sein de DGA techniques aéronautiques, quel que soit le site.
+
 -au sein du centre des archives du personnel militaire de Pau.
 
-Agents en fonctions au sein de l'Institut supérieur de l'aéronautique. |
+Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1646,7 +1812,9 @@ Lyon
 
 Présidence :
 
-Le directeur du CMG de Lyon |
+Le directeur du CMG de Lyon
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
@@ -1664,7 +1832,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 -Ain (01), Allier (03), Ardèche (07), Cantal (15), Drôme (26), Isère (38), Loire (42), Haute-Loire (43), Puy-de-Dôme (63), Rhône (69), Savoie (73), Haute-Savoie (74). |
 
@@ -1684,7 +1854,9 @@ Agents en fonctions dans les organismes extérieurs de la direction du service n
 
 -centre du service national et de la jeunesse de Perpignan.
 
-Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives. |
+Agents en fonctions dans les sociétés Naval Group et GIAT/ Nexter ainsi que leurs filiales, et au sein du Commissariat à l'énergie atomique et aux énergies alternatives.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1700,7 +1872,9 @@ Metz
 
 Présidence :
 
-Le directeur du CMG de Metz |
+Le directeur du CMG de Metz
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
@@ -1718,7 +1892,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 -Aisne (02), Ardennes (08), Aube (10), Côte-d'Or (21), Doubs (25), Jura (39), Marne (51), Haute-Marne (52), Meurthe-et-Moselle (54), Meuse (55), Moselle (57), Nièvre (58), Nord (59), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Somme (80), Vosges (88), Yonne (89), Territoire de Belfort (90). |
 
@@ -1730,7 +1906,9 @@ Secrétaire administratif de classe supérieure |
 
 Agents en fonctions au sein du service de l'énergie opérationnelle.
 
-Agents en fonctions en Allemagne. |
+Agents en fonctions en Allemagne.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1746,7 +1924,9 @@ Rennes
 
 Présidence :
 
-Le directeur du CMG de Rennes |
+Le directeur du CMG de Rennes
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
@@ -1764,7 +1944,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 -Calvados (14), Cher (18), Côtes-d'Armor (22), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Mayenne (53), Morbihan (56), Orne (61), Sarthe (72), Seine-Maritime (76), Vendée (85). |
 
@@ -1780,7 +1962,9 @@ Agents en fonctions au sein des établissements publics suivants :
 
 -Service hydrographique et océanographique de la marine ;
 
--Ecole navale. |
+-Ecole navale.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1796,7 +1980,9 @@ Toulon
 
 Présidence :
 
-Le directeur du CMG de Toulon |
+Le directeur du CMG de Toulon
+
+|
 
 Agents en fonctions dans les organismes ne relevant pas de l'administration centrale et implantés dans les départements suivants : |
 
@@ -1814,7 +2000,9 @@ et
 
 6 représentants
 
-suppléants |
+suppléants
+
+|
 
 -Corse-du-Sud (2A), Haute-Corse (2B), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), à l'exception du centre du service national et de la jeunesse de Nice, Aude (11), Bouches-du-Rhône (13), à l'exception du centre du service national et de la jeunesse de Marseille, Gard (30), à l'exception du centre du service national et de la jeunesse de Nîmes, Hérault (34), Lozère (48), Pyrénées-Orientales (66), à l'exception du centre du service national et de la jeunesse de Perpignan, Var (83), Vaucluse (84).
 
@@ -1842,7 +2030,9 @@ Agents en fonctions dans les organismes extérieurs de la direction générale d
 
 -centre de la sécurité de défense et des systèmes d'information ;
 
--DGA techniques navales. |
+-DGA techniques navales.
+
+|
 
 Secrétaire administratif de classe normale |
 
@@ -1858,7 +2048,9 @@ CNMSS
 
 Présidence :
 
-Le directeur de la CNMSS |
+Le directeur de la CNMSS
+
+|
 
 Agents en fonctions au sein de la Caisse nationale militaire de sécurité sociale. |
 
@@ -1876,7 +2068,9 @@ et
 
 3 représentants
 
-suppléants |
+suppléants
+
+|
 
 Secrétaire administratif de classe supérieure |
 
@@ -1894,7 +2088,9 @@ Techniciens paramédicaux civils du ministère de la défense
 
 AUTORITÉ ASSURANT
 
-la présidence de la CAPL |
+la présidence de la CAPL
+
+|
 
 COMPÉTENCE |
 
@@ -1920,7 +2116,9 @@ Présidence :
 
 Le directeur du CMG de Saint-Germain-en-
 
-Laye. |
+Laye.
+
+|
 
 Territoire métropole, outre-mer et à l'étranger. |
 
@@ -1934,7 +2132,9 @@ Technicien paramédical civil de classe supérieure. |
 
 et
 
-4 représentants suppléants. |
+4 représentants suppléants.
+
+|
 
 Technicien paramédical civil de classe
 
