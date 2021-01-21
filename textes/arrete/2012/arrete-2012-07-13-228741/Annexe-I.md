@@ -32,11 +32,11 @@ NF EN ISO/CEI 17021 (2011) : Evaluation de la conformité. ― Exigences pour le
 
 NF EN ISO/CEI 17020 (2005) : Critères généraux pour le fonctionnement des différents types d'organismes procédant à l'inspection.
 
-Règlement 10 série 03 annexé à l'accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur, fait à Genève le 20 mars 1958 : Prescriptions uniformes relatives à l'homologation des véhicules en ce qui concerne la compatibilité électromagnétique.
+Règlement 10 annexé à l'accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur, fait à Genève le 20 mars 1958 : Prescriptions uniformes relatives à l'homologation des véhicules en ce qui concerne la compatibilité électromagnétique.
 
-Règlement 18 série 03 annexé à l'accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur, fait à Genève le 20 mars 1958 : Prescriptions uniformes relatives à l'homologation des véhicules à moteur en ce qui concerne leur protection contre une utilisation non autorisée.
+Règlement 18 annexé à l'accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur, fait à Genève le 20 mars 1958 : Prescriptions uniformes relatives à l'homologation des véhicules à moteur en ce qui concerne leur protection contre une utilisation non autorisée.
 
-Règlement 116 série 00 annexé à l'accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur, fait à Genève le 20 mars 1958 : Prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée.
+Règlement 116 annexé à l'accord concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur, fait à Genève le 20 mars 1958 : Prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée.
 
 Directive 72/245/CEE du Conseil du 20 juin 1972 modifiée concernant les parasites radioélectriques (compatibilité électromagnétique) produits par les véhicules à moteur, modifiée notamment par :
 
@@ -476,7 +476,7 @@ L'installateur indépendant ou le constructeur doit délivrer un certificat de m
 
 L'organisme désigné par le ministre chargé des transports vérifie le respect des dispositions figurant au 5.4.2.1 ou au 5.4.2.2.
 
-5.4.2.1. Lorsque l'installateur dispose, pour les sites concernés par l'installation et pour ses activités d'installation d'une certification de son système qualité, selon les normes NF EN ISO 9001 : 2008 ou NF EN ISO/CEI 17020 : 2006 délivré par un organisme de certification accrédité à cet effet, il s'engage à fournir toutes les informations nécessaires sur cette certification et s'engage à informer les autorités compétentes de toute modification de sa validité ou de sa portée.
+5.4.2.1. Lorsque l'installateur dispose, pour les sites concernés par l'installation et pour ses activités d'installation d'une certification de son système qualité, selon les normes NF EN ISO 9001 : 2015 ou NF EN ISO/CEI 17020 : 2012 délivré par un organisme de certification accrédité à cet effet, il s'engage à fournir toutes les informations nécessaires sur cette certification et s'engage à informer les autorités compétentes de toute modification de sa validité ou de sa portée.
 
 5.4.2.2. Lorsque l'installateur ne dispose pas d'une certification de système qualité pour ses activités d'installation, une évaluation initiale est effectuée par l'organisme désigné par le ministre chargé des transports. L'organisme vérifie notamment la présence d'un système qualité équivalent à celui visé au 5.4.2.1 pour ses activités d'installation du dispositif.
 
@@ -1110,49 +1110,27 @@ DSP
 
 |
 
-10
+10 |
 
-|
+18 |
 
-18
+20 |
 
-|
+36 |
 
-20
+30 |
 
-|
+36 |
 
-36
+180 |
 
-|
+1 |
 
-30
+2 000 |
 
-|
+1 |
 
-36
-
-|
-
-180
-
-|
-
-1
-
-|
-
-2 000
-
-|
-
-1
-
-|
-
-Note. ― Valeur efficace de l'accélération = 57,9 m/s².
-
-|
+Note. ― Valeur efficace de l'accélération = 57,9 m/s². |
 
 Tableau 13. ― Valeurs de la DSP en fonction de la fréquence, essai supplémentaire en cas de fréquences propres, fn' inférieures à 30 Hz du DSE
 

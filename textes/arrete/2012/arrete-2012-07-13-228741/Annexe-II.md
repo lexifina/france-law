@@ -4,15 +4,17 @@ VÉRIFICATION PÉRIODIQUE
 
 1. Vérification des dispositifs d'éthylotest antidémarrage
 
-La vérification périodique fait l'objet d'une demande adressée par le détenteur de l'EAD à un vérificateur qualifié pour cette vérification en application du présent texte. Cette vérification périodique au moins annuelle consiste à vérifier que le dispositif reste conforme aux exigences qui lui sont applicables.
+La vérification périodique fait l'objet d'une demande adressée par le détenteur de l'EAD à un vérificateur qualifié pour cette vérification en application du présent texte. Cette vérification périodique au moins annuelle consiste à vérifier l'installation du dispositif et s'assurer que le dispositif reste conforme aux exigences qui lui sont applicables.
 
-Le vérificateur procède aux examens et essais de vérification périodique prévus au cahier des charges techniques des éthylotests antidémarrage équipant les véhicules à moteur, au point 3A.10, en utilisant un gaz sec dont la valeur de mesure est comprise entre 0,25 mg/l et 0,5 mg/l.
+Le vérificateur procède aux examens et essais de vérification périodique prévus au cahier des charges techniques des éthylotests antidémarrage équipant les véhicules à moteur, au point 3. A. 10, en utilisant un gaz sec dont la valeur de mesure est comprise entre 0,25 mg/l et 0,5 mg/l.
 
-Lorsque l'EAD satisfait aux exigences applicables à la vérification périodique, le vérificateur appose sur l'EAD une marque de vérification indiquant le mois et l'année de la prochaine vérification si nécessaire, il modifie la date de vérification enregistrée dans l'appareil. Il délivre une attestation de vérification périodique dont le modèle figure au point 3 de la présente annexe.
+Lorsque l'EAD satisfait aux exigences applicables à la vérification périodique, le vérificateur appose sur l'EAD une marque de vérification indiquant le mois et l'année de la prochaine vérification si nécessaire, il modifie la date de vérification enregistrée dans l'appareil. Il délivre une attestation de vérification périodique devant être conçue de telle façon que son retrait entraîne obligatoirement sa destruction, dont le modèle figure au point 3 de la présente annexe.
+
+Lorsque la vérification périodique fait apparaître qu'un EAD ne satisfait pas aux dispositions techniques qui lui sont applicables, son détenteur est tenu de faire procéder à sa mise en conformité.
 
 2. Qualification des vérificateurs
 
-Pour être qualifiés, les vérificateurs doivent mettre en œuvre et entretenir un système qualité, pour leurs activités de vérifications, basé soit sur la norme NF EN ISO 9001, soit sur la norme NF EN ISO/CEI 17 020, notamment en ce qui concerne les moyens techniques, les procédures, les compétences et les garanties d'impartialité, dans le cadre des vérifications périodiques des EAD.
+Pour être qualifiés, les vérificateurs doivent mettre en œuvre et entretenir un système qualité, pour leurs activités de vérifications, basé soit sur la norme NF EN ISO 9001 : 2015, soit sur la norme NF EN ISO/CEI 17 020 : 2012, notamment en ce qui concerne les moyens techniques, les procédures, les compétences et les garanties d'impartialité, dans le cadre des vérifications périodiques des EAD.
 
 En vue de sa qualification, le vérificateur doit démontrer la conformité de son système qualité :
 
@@ -23,6 +25,8 @@ En vue de sa qualification, le vérificateur doit démontrer la conformité de s
 - aux exigences du fabricant de l'EAD, définies notamment dans le certificat de type.
 
 La qualification d'un vérificateur est délivrée par l'un des organismes visés à l'article 3 du présent arrêté, qui assure également la surveillance du système qualité du vérificateur.
+
+Les opérations de vérifications ne pourront être réalisées que dans les installations visées sur l'attestation de qualification.
 
 Si le bénéficiaire d'une qualification ne remplit pas ses obligations, si l'une des conditions qui ont présidé à la délivrance de la qualification cesse d'être respectée ou si les prestations du vérificateur ne répondent pas aux exigences réglementaires, la qualification peut être suspendue ou retirée, après que l'intéressé aura été invité à présenter ses observations ou justifications non retenues.
 
