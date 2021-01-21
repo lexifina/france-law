@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219637
+
+- Question : [SEQ201219637](seq201219637.md) — Fonderies du Poitou Fonte
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-01-21, page 426*
+
+L'ensemble de la filière fonderies françaises est en forte difficulté, et combine des problèmes structurels de surcapacité (liés notamment à la baisse du diesel), accentués par la crise de la Covid-19, et des problèmes de compétitivité par rapport aux autres fonderies européennes. Ces problèmes sont particulièrement prégnants pour les fonderies fontes, dont le marché s'est fortement rétracté ces dernières années. Les sites d'Ingrandes-sur-Vienne sont en difficulté de longue date, et la reprise par Liberty devait permettre la diversification de la clientèle, le gain de compétitivité, et de nouveaux investissements. La crise de la Covid-19 a gravement impacté les prévisions de rentabilité du site prévue par le groupe Liberty, qui a annoncé récemment la fermeture de la partie fonte. La priorité du Gouvernement est désormais l'accompagnement des salariés, dont une partie (environ 40 salariés) pourra être reclassée sur la partie de production d'aluminium. Les services du ministère de l'économie, des finances et de la relance seront vigilants à ce que Liberty remplisse ses engagements vis-à-vis des salariés, et déploie le maximum d'efforts pour assurer la reconversion du site. Préserver l'activité voisine de fonderie aluminium fait également partie des objectifs du Gouvernement. Enfin, afin de soutenir le territoire durement touché par cette fermeture de site, le ministère de l'économie, des finances et de l'industrie aura aussi une approche territoriale, et soutiendra tous les projets industriels qui pourraient se développer dans le territoire, en lien avec le dispositif Territoires d'Industrie.
