@@ -22,7 +22,9 @@ Décision de classement des aérodromes. |
 
 Code de l'aviation civile
 
-Article R. 222-3. |
+Article R. 222-3.
+
+|
 
 Décret sur rapport du ministre chargé de l'aviation civile |
 
@@ -176,7 +178,9 @@ Décisions relatives à l'agrément des aptitudes techniques des entreprises ass
 
 Code de l'aviation civile
 
-Articles R. 133-1-1 (1°) et R. 133-1-2. |
+Articles R. 133-1-1 (1°) et R. 133-1-2.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -186,7 +190,9 @@ Décision relative à l'agrément des aptitudes techniques des entreprises assur
 
 Code de l'aviation civile Articles R. 133-1 (2°) et
 
-R. 133-1-2. |
+R. 133-1-2.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -220,7 +226,9 @@ Décision relative aux transports de marchandises dangereuses. |
 
 Code de l'aviation civile
 
-Article R. 133-6. |
+Article R. 133-6.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -230,7 +238,9 @@ Décision relative à l'immobilisation d'un aéronef. |
 
 Code de l'aviation civile
 
-Article R. 133-15. |
+Article R. 133-15.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -304,7 +314,9 @@ Nomination d'un coordonnateur pour l'attribution des créneaux horaires sur un a
 
 Code de l'aviation civile
 
-Article R. 221-12. |
+Article R. 221-12.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -338,7 +350,9 @@ Délivrance de la qualification permettant l'exercice des fonctions assurant le 
 
 Code de l'aviation civile,
 
-Article R. 135-8. |
+Article R. 135-8.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -460,7 +474,9 @@ Concessions accordées par l'Etat pour la construction, l'entretien et l'exploit
 
 Code de l'aviation civile
 
-Article R. 223-2. |
+Article R. 223-2.
+
+|
 
 Décret en Conseil d'Etat |
 
@@ -478,7 +494,9 @@ Délivrance d'habilitations au secret de la défense nationale pour la direction
 
 Code de la défense
 
-Article R. 2311-8. |
+Article R. 2311-8.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -500,11 +518,15 @@ Décisions relatives aux opérations qui donnent lieu à inscription, transcript
 
 -radiation d'une location, d'une hypothèque ou d'un procès-verbal de saisie ;
 
--radiation d'un aéronef du registre. |
+-radiation d'un aéronef du registre.
+
+|
 
 Code de l'aviation civile
 
-Article D. 121-13. |
+Article D. 121-13.
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -514,7 +536,9 @@ Décisions relatives aux agréments d'assistance en escale |
 
 Code de l'aviation civile
 
-Article R. 216-14 |
+Article R. 216-14
+
+|
 
 Ministre chargé de l'aviation civile |
 
@@ -540,7 +564,9 @@ Agrément des organismes d'évaluation de conformité des navires de plaisance. 
 
 Code des transports
 
-Article R. 5113-30. |
+Article R. 5113-30.
+
+|
 
 Ministres chargés de la mer, des transports et de l'industrie |
 
@@ -550,7 +576,9 @@ Décision relative à l'obligation de capacité de transport de pétrole brut so
 
 Code de l'énergie
 
-Articles D. 631-1 et D. 631-2. |
+Articles D. 631-1 et D. 631-2.
+
+|
 
 Ministres chargés de la marine marchande et de l'industrie |
 
@@ -560,7 +588,9 @@ Evaluation des cargaisons et approbation des conditions de transport. |
 
 Décret n° 84-810 du 30 août 1984
 
-Article 56 (II). |
+Article 56 (II).
+
+|
 
 Ministre chargé du transport des marchandises dangereuses et, le cas échéant, autres ministres concernés |
 
@@ -570,7 +600,9 @@ Habilitation, retrait et suspension de l'habilitation des organismes chargés de
 
 Décret n° 84-810 du 30 août 1984
 
-Article 42-2 (II). |
+Article 42-2 (II).
+
+|
 
 Ministre chargé du transport des marchandises dangereuses et, le cas échéant, autres ministres concernés |
 
@@ -580,7 +612,9 @@ Notification et désignation des organismes d'évaluation de la conformité. |
 
 Décret n° 2019-525 du 27 mai 2019
 
-Article 13. |
+Article 13.
+
+|
 
 Ministre chargé des transports |
 
@@ -606,7 +640,9 @@ Agrément des experts et organismes qualifiés. |
 
 Code de la voirie routière
 
-Article R 118-2-4. |
+Article R 118-2-4.
+
+|
 
 Ministres chargés de l'équipement et des transports |
 
@@ -632,7 +668,9 @@ Approbation des projets unitaires d'investissement de SNCF Réseau. |
 
 Décret n° 97-444 du 5 mai 1997
 
-Article 4. |
+Article 4.
+
+|
 
 Ministre chargé des transports |
 
@@ -642,7 +680,9 @@ Autorisation de fermeture d'une ligne ou d'une section de ligne. |
 
 Décret n° 97-444 du 5 mai 1997
 
-Article 22. |
+Article 22.
+
+|
 
 Ministre chargé des transports |
 
@@ -652,7 +692,9 @@ Approbation des plans de renforcement des capacités. |
 
 Décret n° 2003-194 du 7 mars 2003
 
-Article 26. |
+Article 26.
+
+|
 
 Ministre chargé des transports |
 
@@ -662,7 +704,9 @@ Approbation de la convention relative aux modalités d'exploitation touristique 
 
 Décret n° 97-444 du 5 mai 1997
 
-Article 20. |
+Article 20.
+
+|
 
 Ministre chargé des transports |
 
@@ -672,7 +716,9 @@ Habilitation des organismes de sûreté. |
 
 Code des transports
 
-Article R. 5332-10. |
+Article R. 5332-10.
+
+|
 
 Ministre chargé des transports |
 
@@ -682,7 +728,9 @@ Retrait et suspension de l'habilitation des organismes de sûreté. |
 
 Code des transports
 
-Article R. 5332-12. |
+Article R. 5332-12.
+
+|
 
 Ministre chargé des transports |
 
@@ -692,7 +740,9 @@ Décision d'interdiction ou de limitation des services librement organisés assu
 
 Code des transports
 
-Articles L. 3111-18 et R. 3111-51. |
+Articles L. 3111-18 et R. 3111-51.
+
+|
 
 Ministre chargé des transports |
 
@@ -790,7 +840,9 @@ Refus d'accès aux ports et aux mouillages sur l'ensemble du territoire national
 
 Décret n° 84-810 du 30 août 1984
 
-Article 41-9 (I). |
+Article 41-9 (I).
+
+|
 
 Ministre chargé de la mer |
 
@@ -800,7 +852,9 @@ Décision d'expulsion des navires. |
 
 Décret n° 84-810 du 30 août 1984
 
-Article 41-9 (IV). |
+Article 41-9 (IV).
+
+|
 
 Ministre chargé de la mer |
 
@@ -810,7 +864,9 @@ Interdiction, restriction ou retrait de la mise sur le marché d'équipements ma
 
 Décret n° 84-810 du 30 août 1984
 
-Article 56-3. |
+Article 56-3.
+
+|
 
 Ministre chargé de la mer |
 
@@ -844,7 +900,9 @@ Décisions relatives à l'inscription au registre prévu au II de l'article L. 5
 
 Décret n° 2017-1119 du 29 juin 2017
 
-Articles 5 à 11 et 17. |
+Articles 5 à 11 et 17.
+
+|
 
 Ministre chargé de la mer |
 
@@ -854,7 +912,9 @@ Saisine du conseil de discipline des marins et des pilotes. |
 
 Code des transports
 
-Article R. 5524-26. |
+Article R. 5524-26.
+
+|
 
 Ministre chargé de la mer |
 
@@ -864,7 +924,9 @@ Décision relative à la sanction d'un marin suite à l'avis du conseil de disci
 
 Code des transports
 
-Article R. 5524-39. |
+Article R. 5524-39.
+
+|
 
 Ministre chargé de la mer |
 
@@ -874,7 +936,9 @@ Décision d'effacement de sanction disciplinaire d'un marin. |
 
 Code des transports
 
-Article R. 5524-45. |
+Article R. 5524-45.
+
+|
 
 Ministre chargé de la mer |
 
@@ -924,7 +988,9 @@ Décision relative à la sanction d'un pilote. |
 
 Code des transports
 
-Article R. 5524-52. |
+Article R. 5524-52.
+
+|
 
 Ministre chargé des ports maritimes |
 
@@ -934,7 +1000,9 @@ Saisine du conseil de discipline des marins et des pilotes. |
 
 Code des transports
 
-Article R. 5524-54. |
+Article R. 5524-54.
+
+|
 
 Ministre chargé des ports maritimes |
 
@@ -944,7 +1012,9 @@ Décision d'effacement de sanction disciplinaire d'un pilote. |
 
 Code des transports
 
-Article R. 5524-45. |
+Article R. 5524-45.
+
+|
 
 Ministre chargé des ports maritimes |
 
@@ -954,7 +1024,9 @@ Décision relative à la délivrance et au retrait des certificats de réception
 
 Code de l'environnement
 
-Article R. 224-12. |
+Article R. 224-12.
+
+|
 
 Ministre chargé des transports |
 
@@ -972,7 +1044,9 @@ Agrément des organismes délivrant les autorisations de transport routier. |
 
 Code des transports
 
-Articles R. 3431-1 et R. 3431-4. |
+Articles R. 3431-1 et R. 3431-4.
+
+|
 
 Ministre chargé des transports |
 
@@ -982,7 +1056,9 @@ Inscription au registre des voitures de transport avec chauffeur. |
 
 Code des transports
 
-Articles R. 3122-1 à R. 3122-5 |
+Articles R. 3122-1 à R. 3122-5
+
+|
 
 Ministre chargé des transports |
 
@@ -992,7 +1068,9 @@ Refus d'inscription ou de renouvellement d'inscription des véhicules de transpo
 
 Code des transports
 
-Article R. 3122-2 |
+Article R. 3122-2
+
+|
 
 Ministre chargé des transports |
 
@@ -1002,17 +1080,9 @@ Habilitation des autorités compétentes pour les essais et l'agrément des appa
 
 Code des transports
 
-Article D. 4221-23-1. |
+Article D. 4221-23-1.
 
-Ministre chargé des transports |
-
-53 |
-
-Délivrance des autorisations pour l'exécution des services internationaux de transport routier de voyageurs lorsque la demande d'autorisation est effectuée en France. |
-
-Code des transports
-
-Article R. 3111-57 |
+|
 
 Ministre chargé des transports |
 
@@ -1022,7 +1092,9 @@ Habilitation des organismes pour les essais et l'agrément des appareils de syst
 
 Code des transports
 
-Article D. 4411-8 |
+Article D. 4411-8
+
+|
 
 Ministre chargé des transports |
 
@@ -1032,7 +1104,9 @@ Agrément des organismes qui délivrent l'attestation spéciale passagers. |
 
 Code des transports
 
-Article R. 4231-17 |
+Article R. 4231-17
+
+|
 
 Ministre chargé des transports |
 
@@ -1044,7 +1118,9 @@ Code des transports
 
 Article L. 5435-2
 
-Articles D. 5435-1 à R. 5435-2 |
+Articles D. 5435-1 à R. 5435-2
+
+|
 
 Ministre chargé des transports |
 
@@ -1054,7 +1130,9 @@ Habilitation des sociétés spécialisées habilitées pour l'installation et le
 
 Codes des transports
 
-Article D. 4221-23-2 |
+Article D. 4221-23-2
+
+|
 
 Ministre chargé des transports |
 
@@ -1064,7 +1142,9 @@ Avis conforme pour la délivrance des certificats d'exemptions par les société
 
 Décret n° 84-810 du 30 août 1984
 
-Article 3-2 (I) |
+Article 3-2 (I)
+
+|
 
 Ministre chargé de la mer |
 
@@ -1174,7 +1254,9 @@ Homologation des objets bruyants ou des dispositifs d'insonorisation faisant l'o
 
 Code de l'environnement
 
-Article R. 571-10. |
+Article R. 571-10.
+
+|
 
 Ministre chargé de l'environnement |
 
@@ -1256,7 +1338,9 @@ Opposition à une décision du directeur général de l'agence mentionné à l'a
 
 Code de l'environnement
 
-Article R. 522-11. |
+Article R. 522-11.
+
+|
 
 Ministre chargé de l'environnement |
 
@@ -1314,7 +1398,9 @@ Autorisation de création d'installations nucléaires de base et prescription de
 
 Code de l'environnement
 
-Articles R. 593-26, R. 593-37 et R. 596-7. |
+Articles R. 593-26, R. 593-37 et R. 596-7.
+
+|
 
 Ministres chargés de l'environnement et de l'énergie |
 
@@ -1324,7 +1410,9 @@ Autorisation de création d'installations nucléaires de base de courte durée. 
 
 Code de l'environnement
 
-Article R. 593-115. |
+Article R. 593-115.
+
+|
 
 Ministres chargés de l'environnement et de l'énergie |
 
@@ -1334,7 +1422,9 @@ Mesures d'urgence concernant le fonctionnement d'une installation nucléaire de 
 
 Code de l'environnement
 
-Articles R. 593-84 et R. 593-85. |
+Articles R. 593-84 et R. 593-85.
+
+|
 
 Ministres chargés de l'environnement et de l'énergie |
 
@@ -1344,7 +1434,9 @@ Autorisation d'usage d'explosif dans les conditions autres que celles prévues p
 
 Décret n° 80-331 du 7 mai 1980
 
-Article 2. |
+Article 2.
+
+|
 
 Ministre chargé des mines |
 
@@ -1354,7 +1446,9 @@ Approbation des systèmes individuels et agrément des éco-organismes. |
 
 Code de l'environnement
 
-II de l'article L. 541-10 |
+II de l'article L. 541-10
+
+|
 
 Ministre chargé de l'environnement |
 
@@ -1664,7 +1758,9 @@ Décisions prises en matière de permis exclusifs de recherche de mines d'hydroc
 
 Décret n° 2006-648 du 2 juin 2006
 
-Article 23. |
+Article 23.
+
+|
 
 Ministre chargé de l'énergie |
 
@@ -1674,11 +1770,15 @@ Décisions relatives aux permis exclusifs de recherches de mines et de stockage 
 
 Décret n° 2006-648 du 2 juin 2006
 
-Articles 23,49,50,51,52 et 53. |
+Articles 23,49,50,51,52 et 53.
+
+|
 
 Ministre chargé des mines pour les substances minérales non énergétiques.
 
-Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains
+
+|
 
 39 |
 
@@ -1686,11 +1786,15 @@ Décisions relatives aux concessions de mines et de stockage souterrain : rejet 
 
 Décret n° 2006-648 du 2 juin 2006
 
-Article 31. |
+Article 31.
+
+|
 
 Ministre chargé des mines pour les substances minérales non énergétiques.
 
-Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains
+
+|
 
 40 |
 
@@ -1698,7 +1802,9 @@ Décisions relatives au permis d'exploitation dans les départements d'outre-mer
 
 Décret n° 2006-648 du 2 juin 2006
 
-Articles 35 et 40. |
+Articles 35 et 40.
+
+|
 
 Ministre chargé des mines |
 
@@ -1708,11 +1814,15 @@ Décisions prises au titre du contrôle des sociétés minières et de stockage 
 
 Décret n° 2006-648 du 2 juin 2006
 
-Article 43 (4°). |
+Article 43 (4°).
+
+|
 
 Ministre chargé des mines pour les substances minérales non énergétiques.
 
-Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains. |
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains.
+
+|
 
 42 |
 
@@ -1954,7 +2064,9 @@ Exemption au règlement (CE) n° 1907/2006 concernant la défense nationale. |
 
 Code de l'environnement
 
-Article R. 521-1. |
+Article R. 521-1.
+
+|
 
 Ministres chargés de l'environnement et de la défense |
 
@@ -1964,7 +2076,9 @@ Agrément des associations de protection de la nature et de l'environnement exer
 
 Code de l'environnement
 
-Article R. 141-13. |
+Article R. 141-13.
+
+|
 
 Ministre chargé de l'environnement |
 
@@ -1982,7 +2096,9 @@ Opposition à une délibération à caractère budgétaire ou financier du conse
 
 Code de l'environnement
 
-Article R. 213-41. |
+Article R. 213-41.
+
+|
 
 Ministres chargés de l'environnement et du budget |
 
@@ -1992,7 +2108,9 @@ Opposition aux autres délibérations du conseil d'administration d'une agence d
 
 Code de l'environnement
 
-Article R. 213-41. |
+Article R. 213-41.
+
+|
 
 Ministre chargé de l'environnement |
 
@@ -2100,7 +2218,9 @@ Dérogations à l'interdiction du camping et du stationnement des caravanes dans
 
 Code de l'urbanisme
 
-Article R. 111-33 (2°) et R. 111-48 (1°). |
+Article R. 111-33 (2°) et R. 111-48 (1°).
+
+|
 
 Ministre chargé des sites |
 
@@ -2110,7 +2230,9 @@ Autorisations d'entrée sur le territoire et d'introduction dans l'environnement
 
 Code rural et de la pêche maritime
 
-Articles R. 258-6, R. 258-8 et R. 258-9. |
+Articles R. 258-6, R. 258-8 et R. 258-9.
+
+|
 
 Ministres chargés de l'environnement et de l'agriculture |
 
@@ -2128,11 +2250,15 @@ Décisions prises en matière de permis exclusifs de carrières : octroi, refus 
 
 Décret n° 97-181 du 28 février 1997
 
-Articles 15,17,18,19 et 20 (I). |
+Articles 15,17,18,19 et 20 (I).
+
+|
 
 Ministre chargé des mines
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'environnement
+
+|
 
 27 |
 
@@ -2140,11 +2266,15 @@ Décisions relatives aux permis exclusifs de recherche : octroi, rejet, prolonga
 
 Décret n° 2006-798 du 6 juillet 2006
 
-Articles 7,15,31 et 32. |
+Articles 7,15,31 et 32.
+
+|
 
 Ministre chargé des mines pour les substances minérales non énergétiques.
 
-Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains
+
+|
 
 28 |
 
@@ -2152,11 +2282,15 @@ Rejet de demande de concession. |
 
 Décret n° 2006-798 du 6 juillet 2006
 
-Article 15. |
+Article 15.
+
+|
 
 Ministre chargé des mines pour les substances minérales non énergétiques.
 
-Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains
+
+|
 
 29 |
 
@@ -2164,11 +2298,15 @@ Octroi ou rejet de demande d'autorisation de prospection préalable. |
 
 Décret n° 2006-798 du 6 juillet
 
-Articles 26 et 28. |
+Articles 26 et 28.
+
+|
 
 Ministre chargé des mines pour les substances minérales non énergétiques.
 
-Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains |
+Ministre chargé des mines et ministre chargé de l'énergie pour les autres substances et les stockages souterrains
+
+|
 
 30 |
 
@@ -2464,7 +2602,9 @@ Ministre chargé du logement |
 
 Autorisation donnée à une société anonyme coopérative de production d'habitations à loyer modéré de souscrire à ou d'acquérir la totalité des parts d'une société civile immobilière |
 
-Code de la construction et de l'habitation16° de l'article L. 422-3. |
+Code de la construction et de l'habitation16° de l'article L. 422-3.
+
+|
 
 Ministre chargé du logement |
 
@@ -2552,7 +2692,9 @@ Ministre chargé du logement |
 
 Agrément spécial de sociétés d'économie mixte pour étendre leur champ d'intervention géographique |
 
-Code de la construction et de l'habitationArticles R. 481-1-1 (deuxième alinéa) et R. 481-1-2. |
+Code de la construction et de l'habitationArticles R. 481-1-1 (deuxième alinéa) et R. 481-1-2.
+
+|
 
 Ministre chargé du logement |
 
