@@ -1,22 +1,6 @@
 # Article Annexe 2 bis
 
-Les pays étrangers mentionnés à la première phrase du troisième alinéa du V de l'article 6 et à la première phrase du troisième alinéa du II de l'article 11 sont l'ensemble des pays du monde à l'exception des Etats membres de l'Union européenne et des pays suivants :
-
--Andorre ;
-
--Islande ;
-
--Liechtenstein ;
-
--Monaco ;
-
--Norvège ;
-
--Saint-Marin ;
-
--Saint-Siège ;
-
--Suisse.
+Les pays étrangers mentionnés à la première phrase du troisième alinéa du V de l'article 6 et à la première phrase du troisième alinéa du II de l'article 11 sont l'ensemble des pays du monde.
 
 NOTA :
 
