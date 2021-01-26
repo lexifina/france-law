@@ -1,0 +1,82 @@
+# Démocratiser le sport en France
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41449
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/democratiser_sport_france
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-465.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-01-26 : 1er dépôt d'une initiative. (PIONANR5L15B3808)
+  - 2021-02-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-01-26 : Renvoi en commission au fond
+      - 2021-02-17 : Nomination de rapporteur
+      - 2021-02-17 : Réunion de commission
+      - 2021-03-03 : Réunion de commission
+      - 2021-03-10 : Réunion de commission
+      - 2021-03-10 : Réunion de commission
+      - 2021-03-17 : Réunion de commission
+      - 2021-03-11 : Dépôt de rapport (RAPPANR5L15B3980, PIONANR5L15BTC3980)
+  - Discussion en séance publique
+    - 2021-03-17 : Discussion en séance publique
+    - 2021-03-17 : Discussion en séance publique
+    - 2021-03-18 : Discussion en séance publique
+    - 2021-03-18 : Discussion en séance publique
+    - 2021-03-18 : Discussion en séance publique
+    - 2021-03-19 : Discussion en séance publique
+    - 2021-03-19 : Discussion en séance publique
+    - 2021-03-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-03-19 : Dépôt d'une initiative en navette (PIONSNR5S359B0465)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-01-05 : Dépôt de rapport (RAPPSNR5S379B0319, PIONSNR5S379BTC0320)
+  - Discussion en séance publique
+    - 2022-01-19 : Discussion en séance publique
+    - 2022-01-19 : Décision
+- Commission Mixte Paritaire
+  - 2022-01-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-01-31 : Nomination de rapporteur
+    - 2022-01-31 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0420, PIONSNR5S379BTC0421)
+    - 2022-01-31 : Dépôt du rapport d'une CMP (RAPPANR5L15B4977)
+  - 2022-01-31 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-01-20 : Dépôt d'une initiative en navette (PIONANR5L15B4930)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-20 : Renvoi en commission au fond
+      - 2022-02-02 : Réunion de commission
+      - 2022-02-03 : Réunion de commission
+      - 2022-02-03 : Dépôt de rapport (RAPPANR5L15B4994, PIONANR5L15BTC4994)
+  - Discussion en séance publique
+    - 2022-02-09 : Discussion en séance publique
+    - 2022-02-09 : Discussion en séance publique
+    - 2022-02-09 : Décision
+- Nouvelle Lecture
+  - 2022-02-10 : Dépôt d'une initiative en navette (PIONSNR5S379B0477)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-10 : Renvoi en commission au fond
+      - 2022-02-15 : Dépôt de rapport (RAPPSNR5S379B0482, PIONSNR5S379BTC0483)
+  - Discussion en séance publique
+    - 2022-02-16 : Discussion en séance publique
+    - 2022-02-16 : Décision
+- Lecture définitive
+  - 2022-02-17 : Dépôt d'une initiative en navette (PIONANR5L15BTA0797)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-17 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2022-02-24 : Discussion en séance publique
+    - 2022-02-24 : Décision
+- Promulgation de la loi
+  - 2022-03-02 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2026-02-11 : Rapport sur l'application des lois (RINFANR5L17B2465)
