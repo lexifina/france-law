@@ -2,7 +2,7 @@
 
 DÉPENSES ÉLIGIBLES À LA PRIME DE TRANSITION ÉNERGÉTIQUE
 
-Les dépenses suivantes, lorsqu'elles satisfont les critères techniques fixés par l'arrêté mentionné à l'article 2 du présent décret, sont éligibles à la prime :
+Les dépenses suivantes, lorsqu'elles satisfont les critères techniques fixés par l'arrêté mentionné au VIII de l'article 2 du présent décret, sont éligibles à la prime :
 
 1. Chaudières à très haute performance énergétique, à l'exception de celles utilisant le fioul comme source d'énergie, pour les immeubles non raccordés à un réseau de chaleur aidé par l'agence visée par la loi n° 90-1130 du 19 décembre 1990 portant création de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
@@ -47,3 +47,11 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 12. Isolation des toitures terrasses ;
 
 13. Equipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires, pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte.
+
+14. Du 1er janvier 2021 au 31 décembre 2022, prestation d'assistance à maîtrise d'ouvrage ;
+
+15. Du 1er janvier 2021 au 31 décembre 2022, en immeuble bâti individuel, un ensemble de travaux de rénovation énergétique visant à améliorer la performance globale du logement et permettant d'atteindre une efficacité énergétique minimale fixée par arrêté.
+
+NOTA :
+
+Conformément à l'article 11 du décret n° 2021-59 du 25 janvier 2021, ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.
