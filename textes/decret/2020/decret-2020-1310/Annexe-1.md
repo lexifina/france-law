@@ -14,10 +14,28 @@ Les masques doivent être portés systématiquement par tous dès lors que les r
 
 II. - L'obligation de porter un masque de protection mentionnée au présent décret s'applique aux personnes de onze ans ou plus, ainsi que dans les cas mentionnés aux 3° et 5° du II de l'article 36. Elle s'applique également aux enfants de 6 à 10 ans dans les autres cas, dans la mesure du possible.
 
-III. - Sauf dispositions contraires, le masque de protection mentionné au présent décret répond aux caractéristiques techniques fixées par l'arrêté conjoint des ministres chargés de la santé et du budget mentionné au K bis de l'article 278-0 bis du code général des impôts.
+III. - Sauf dispositions contraires, les masques de protection mentionnés au présent décret appartiennent à l'une des catégories suivantes :
 
-Le masque de type chirurgical mentionné à l'article 11 répond à la définition de dispositifs médicaux, quelle que soit leur dénomination commerciale, et qu'il s'agisse :
+1° Masques chirurgicaux, répondant à la définition de dispositifs médicaux, quelle que soit leur dénomination commerciale, respectant la norme EN 14683 + AC : 2019 ou une norme étrangère reconnue comme équivalente ;
 
-1° D'un masque anti-projections respectant la norme EN 14683 ;
+2° Masques de forme chirurgicale importés mis à disposition sur le marché national, à l'exclusion des masques en tissu, dont les performances sont reconnues au moins égales à celles des masques mentionnés au 4° du présent III ;
 
-2° D'un masque fabriqué en France ou dans un autre Etat membre de l'Union européenne, ou importé, mis à disposition sur le marché national et ayant bénéficié d'une dérogation consentie par le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé en application de l'article R. 5211-19 du code de la santé publique.
+3° Masques de classes d'efficacité FFP2 ou FFP3 respectant la norme EN 149 + A1 : 2009 ou une norme étrangère reconnue comme équivalente pour ces classes, sous réserve qu'ils ne comportent pas de valve expiratoire ;
+
+4° Masques réservés à des usages non sanitaires répondant aux caractéristiques suivantes :
+
+a) Les masques présentent les niveaux de performances suivants :
+
+(i) L'efficacité de filtration vers l'extérieur des particules de 3 micromètres émises est supérieure à 90 % ;
+
+(ii) La respirabilité permet un port pendant un temps de quatre heures ;
+
+(iii) La perméabilité à l'air est supérieure à 96 litres par mètre carré et par seconde, pour une dépression de 100 pascal ;
+
+b) La forme permet un ajustement sur le visage avec une couverture du nez et du menton et ne comprend pas de couture sagittale ;
+
+c) Lorsqu'ils sont réutilisables, les niveaux de performances mentionnés au a sont maintenus après au moins cinq lavages ;
+
+d) Les caractéristiques mentionnées aux a à c du présent 4° sont vérifiées au moyen d'essais réalisés par l'une des personnes et dans les conditions spécifiquement prescrites par l'arrêté conjoint des ministres chargés de la santé et du budget mentionné au K bis de l'article 278-0 bis du code général des impôts.
+
+Le masque de type chirurgical mentionné à l'article 11 répond aux caractéristiques définies aux 1° et 3° du présent III.
