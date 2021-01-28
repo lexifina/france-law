@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119188
+
+- Question : [SEQ201119188](seq201119188.md) — Contrat de présence postale territoriale menacé par la réforme fiscale
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-01-28, page 581*
+
+La baisse de la cotisation sur la valeur ajoutée des entreprises (CVAE), prévue par l'article 3 du projet de loi de finances pour 2021, s'inscrit dans le cadre plus large du plan de relance pour renforcer la compétitivité de nos entreprises. Afin de réindustrialiser nos territoires et d'améliorer la performance de notre tissu industriel particulièrement affecté par la crise actuelle, une action ambitieuse et ciblée sur les impôts de production est effectivement nécessaire. À cet égard, sur les 100 Mds€ consacrés à la relance de l'économie, 20 Mds€ seront dévolus, en 2021 et 2022, à une baisse pérenne des impôts de production. La Poste tirera profit, comme tous les autres redevables, de cette baisse de la CVAE malgré le régime spécifique qui lui est applicable. Concernant le financement de la mission d'aménagement du territoire, La Poste disposait jusqu'alors pour abonder le fonds postal national de péréquation territoriale, de 174 M€ par an financés par des abattements d'impôts locaux, dont la CVAE représentait près de 80 % de la base d'abattement. La réforme envisagée, en divisant par deux le montant de la CVAE due, induira effectivement pour la Poste une baisse du montant des abattements, et ce seul montant ne sera plus suffisant pour financer le fonds postal national de péréquation territoriale. Le Gouvernement a voulu que la réforme soit neutre pour le fonds postal national de péréquation territoriale, conformément à l'accord triennal conclu avec l'Association des maires de France et La Poste. La perte de recette de CVAE sera ainsi compensée en totalité sous forme d'une subvention de 66 M€ imputée sur la mission « Économie » du budget de l'État en 2021.
