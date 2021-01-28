@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219749
+
+- Question : [SEQ201219749](seq201219749.md) — Spécificités des établissements de restauration ruraux dans le contexte du déconfinement
+
+## Réponse
+
+*Premier ministre, JO du 2021-01-28, page 549*
+
+Depuis le démarrage de la crise sanitaire et à chaque phase de l'épidémie, les décisions de l'exécutif sont prises sur le fondement des informations épidémiologiques et hospitalières disponibles, afin de les adapter au plus près de l'évolution de l'épidémie, sur le plan sanitaire et sur le plan territorial. Ainsi, l'exécutif a pris des mesures localisées lorsque la diffusion était limitée et contrôlable sur un territoire donné, des mesures nationales lorsque l'épidémie a diffusé de façon plus large et incontrôlée sur le territoire, en particulier en mars et octobre 2020 avant les deux confinements. Depuis le début de l'année 2021, il est constaté une circulation virale qui touche désormais tout le territoire : aucun département ne présente un taux d'incidence inférieur au seuil des 50 cas pour 100 000 habitants, et 40 départements présentent un taux d'incidence supérieur à 200 cas pour 100 000 habitants. La réalité de la circulation virale a par conséquent justifié la mesure de couvre-feu national à partir de 18h sur l'ensemble du territoire national mise en œuvre à partir du 16 janvier 2021. En outre, les études scientifiques convergent sur le fait que les bars et les restaurants font partie des lieux les plus à risque de contamination, car le port du masque n'y est pas permanent et les contacts rapprochés. Au-delà des configurations, le moment du repas est plus largement décrit comme très propice aux contaminations, à domicile ou ailleurs. Pour ces raisons, il n'est pas envisagé de différencier la situation des établissements de restauration et des bars selon leur localisation sur le territoire dans le cadre de mesures de freinage de portée nationale.
