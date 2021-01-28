@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119152
+
+- Question : [SEQ201119152](seq201119152.md) — Avenir du monde culturel local
+
+## Réponse
+
+*Culture, JO du 2021-01-28, page 568*
+
+Près de 160 M€ ont été mobilisés par le ministère de la culture en 2020 pour soutenir les entreprises et compagnies non subventionnées du domaine du spectacle vivant, particulièrement touchées par la crise sanitaire. Des fonds d'urgence ont ainsi été mis en place au Centre national de la musique et à l'Association pour le soutien au théâtre privé pour accompagner financièrement les entreprises privées, ainsi que les compagnies non subventionnées du spectacle vivant musical et non musical. Ces différents fonds de soutien ont été financés à hauteur de 135 M€ par le ministère de la culture sur l'année 2020. Une attention particulière a également été portée dans le soutien aux équipes subventionnées en région. Plus de 160 équipes particulièrement fragilisées par la crise ont ainsi pu bénéficier de subventions complémentaires versées par les directions régionales des affaires culturelles, dans le cadre des crédits ouverts par la loi du 30 novembre 2020 de finances rectificative pour 2020. Un accompagnement financier plus soutenu des équipes indépendantes est prévu dans le cadre du Plan de relance, afin de compenser leurs pertes de ressources propres (annulations de tournées ou baisse des produits de cession) et de relancer leur activité de création par un renforcement exceptionnel des aides aux projets. Une aide pourra également être apportée pour faciliter le financement des déplacements en tournées des compagnies. Par ailleurs, des moyens complémentaires seront consacrés en 2021 sur le programme 131 « création » pour renforcer le soutien aux compagnies et accompagner la réforme en cours des aides aux équipes. Une attention toute particulière sera portée aux petites structures qui permettent de faire vivre la culture dans les territoires.
