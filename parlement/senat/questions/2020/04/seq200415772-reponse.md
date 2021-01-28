@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415772
+
+- Question : [SEQ200415772](seq200415772.md) — Nécessité pour les aides à domicile de bénéficier en priorité de tests de dépistage du Covid-19
+
+## Réponse
+
+*Autonomie, JO du 2021-01-28, page 560*
+
+Face à l'accélération de la crise sanitaire, la mobilisation efficace des capacités de dépistage constitue plus que jamais l'une des priorités du Gouvernement pour réduire fortement la circulation du virus. Le choix a été fait en France de permettre à chaque Français qui le souhaite de bénéficier d'un test gratuitement et sans ordonnance. Depuis le début de la crise, 25 millions de tests virologiques ont ainsi été réalisés. Depuis la sortie du confinement, les capacités de prélèvement et d'analyse ont été augmentées de manière très significative. Elles permettent aujourd'hui de réaliser 2 millions de tests par semaine. Dans le cadre de l'intensification de la stratégie de dépistage et de la levée de la nécessité d'une prescription médicale, le nombre de personnes se présentant dans les laboratoires de biologie médicale pour se faire dépister a fortement augmenté. Depuis le 21 août 2020, le ministère des solidarités et de la santé a établi une doctrine de priorisation des indications des tests RT-PCR COVID-19. L'enjeu de cette priorisation est de permettre un prélèvement et un rendu de résultats rapide, compatibles avec un isolement des cas confirmés et des personnes contacts à risque. Depuis le 16 septembre 2020, cette doctrine de priorisation a été actualisée. Elle comprend deux niveaux de priorités : le premier niveau concerne les personnes disposant d'une prescription médicale, celles ayant des symptômes compatibles avec la COVID-19, les sujets « contacts », ainsi que les « professionnels de santé et assimilés intervenant à domicile ». Les aides à domicile font donc partie des personnes prioritaires pour se faire tester.
