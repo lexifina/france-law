@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219870
+
+- Question : [SEQ201219870](seq201219870.md) — Délais de réponse trop importants aux questions écrites et aux courriers des sénateurs
+
+## Réponse
+
+*Relations avec le Parlement et participation citoyenne, JO du 2021-01-28, page 589*
+
+Monsieur le Ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne, partage la préoccupation de Monsieur le Sénateur quant à la nécessité d'apporter, dans les meilleurs délais, une réponse aux questions écrites des parlementaires. Celles ci constituent un outil essentiel du contrôle de l'action du Gouvernement et de la mise en œuvre des politiques publiques. Le Gouvernement s'efforce d'apporter des réponses aux sénateur dans les délais fixés à l'article 75 du Règlement du Sénat. Le contexte actuel de crise, qui a fortement mobilisé les administrations et les cabinets ministériels en 2020 et en ce début d'année 2021, n'a certes pas permis de mieux respecter ces délais mais le taux de réponse aux plus de 18 500 questions publiées depuis le début du quinquennat, dont plus de 6 200 en 2020, est resté, quant à lui, stable à 73 %. Monsieur le Ministre a adressé, en décembre 2020, dans le même esprit que la circulaire n° 5623/SG du 12 décembre 2012 qu'avait adressée M. Jean Marc Ayrault aux membres de son Gouvernement, un courrier à l'ensemble de ses collègues afin de leur rappeler l'importance des questions écrites pour la mise en œuvre des prérogatives des parlementaires en application de l'article 24 de la Constitution. Il a, bien entendu, insisté sur la nécessité d'apporter des réponses dans les meilleurs délais afin de prévenir les situations que Monsieur le sénateur décrit et de poursuivre les efforts engagés depuis le début du quinquennat en ce domaine.
