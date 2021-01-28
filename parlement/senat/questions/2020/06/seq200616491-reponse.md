@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616491
+
+- Question : [SEQ200616491](seq200616491.md) — Prime exceptionnelle pour les salariés de l'hôpital public
+
+## Réponse
+
+*Solidarités et santé, JO du 2021-01-28, page 590*
+
+Dans le contexte de la crise sanitaire, l'engagement de l'ensemble des professionnels du secteur social et médico-social a été particulièrement précieux dans la lutte contre l'épidémie liée au Covid-19 et dans la prise en charge des populations fragiles. Afin de reconnaitre pleinement la mobilisation et la participation des professionnels du secteur social médico-social, le ministre des solidarités et de la santé a annoncé le versement d'une prime exceptionnelle financée par l'Assurance maladie pour les professionnels des établissements et services médico-sociaux financés ou cofinancés par l'assurance maladie, quel que soit leur statut. Le décret n° 2020-711 du 12 juin 2020 ouvre la possibilité aux employeurs relevant de la fonction publique de verser une prime exceptionnelle d'un montant de 1 000 ou 1 500 euros selon les départements, exonérée de toutes cotisations sociales et d'impôt sur le revenu, aux personnels du secteur social et médico-social. Afin d'étendre ce dispositif au secteur social et médico-social privé, la loi n° 2020-935 du 30 juillet 2020 a modifié l'article 11 de la loi de finances rectificatives pour 2020, pour que les salariés des établissements sociaux et médico-sociaux mobilisés pendant la période d'urgence sanitaire bénéficient également de cette prime exceptionnelle. Pour les établissements et services médico-sociaux financés ou cofinancés par l'Assurance maladie, une compensation financière assurée par l'Assurance maladie est prévue pour l'ensemble de ces établissements, publics comme privés et un dispositif analogue est également prévu pour les personnels du secteur social financés par le budget de l'État.
