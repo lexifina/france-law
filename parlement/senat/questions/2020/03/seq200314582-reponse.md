@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314582
+
+- Question : [SEQ200314582](seq200314582.md) — Conséquences de la propagation du coronavirus
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-01-28, page 570*
+
+Le maintien du tissu économique en France a été au cœur des préoccupations du Gouvernement dès les premières mesures prises pour endiguer la crise sanitaire. Les mesures de soutien économique sont nombreuses : délais de paiement d'échéances, sociales et/ou fiscales, remise d'impôts directs, report de paiement des factures, fonds de solidarité, prêt garanti par l'État (PGE), rééchelonnement des crédits bancaires, chômage partiel et un plan de soutien spécifique aux entreprises françaises exportatrices. À ces mesures d'urgence, le Gouvernement a ajouté des mesures de soutien propres à la reprise des secteurs sectoriels particulièrement impactés : aéronautique, commerce et artisanat, livre, bâtiments et travaux publics, automobile, tourisme et entreprises technologiques. Le détail des mesures de soutien économique est disponible sur le site du ministère de l'économie, des finances et de la relance : https://www.economie.gouv.fr/covid19-soutien-entreprises. Le Gouvernement poursuit son soutien aux entreprises, particulièrement aux très petites entreprises (TPE) et aux professionnels indépendants, durant la phase délicate de reprise : le plan de relance dédié au commerce de proximité, à l'artisanat et aux indépendants, annoncé le 29 juin 2020, comporte des mesures très concrètes pour renforcer la trésorerie des entreprises comme le maintien du fonds de solidarité pour le mois de juin 2020, le déblocage anticipé des plans d'épargne retraite et la suppression sur trois ans de la majoration de la base taxable de 25 % pour les indépendants qui n'adhèrent pas à un organisme de gestion agréé. Enfin, des mesures plus globales seront engagées et mises en œuvre dans le cadre du plan de relance porté par le Gouvernement.
