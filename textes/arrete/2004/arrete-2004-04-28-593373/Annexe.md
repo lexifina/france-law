@@ -2,129 +2,77 @@
 
 Prime de fonction
 
-D'EMPLOIS
-
-|
+NIVEAU D'EMPLOIS |
 
 PART FIXE
 
 Montant mensuel
 
-(en euros)
-
-|
+(en euros) |
 
 PART VARIABLE
 
-Montant maximal
+Montant maximal mensuel
 
-mensuel
+(en euros) |
 
-(en euros)
+1.1 |
 
-|
+79,67 |
 
-I bis
+75,62 |
 
-|
+1.2 |
 
-68,01
+79,67 |
 
-|
+75,62 |
 
-61,16
+2.1 |
 
-|
+79,67 |
 
-I
+75,62 |
 
-|
+2.2 |
 
-77,08
+107,78 |
 
-|
+108,05 |
 
-73,17
+2.3 |
 
-|
+107,78 |
 
-II
+108,89 |
 
-|
+3.1 |
 
-77,08
+107,78 |
 
-|
+108,89 |
 
-73,17
+3.2 |
 
-|
+107,78 |
 
-III
+121,33 |
 
-|
+3.3 |
 
-104,29
+164,01 |
 
-|
+159,11 |
 
-104,54
+4 |
 
-|
+206,18 |
 
-IV A
-
-|
-
-104,29
-
-|
-
-105,35
-
-|
-
-IV B
-
-|
-
-104,29
-
-|
-
-117,40
-
-|
-
-VA
-
-|
-
-158,70
-
-|
-
-153,95
-
-|
-
-VB
-
-|
-
-199,50
-
-|
-
-188,06
-
-|
+194,37 |
 
 SERVICES D'AFFECTATION
 
-et fonctions
-
-|
+et fonctions |
 
 MAJORATION
 
@@ -132,280 +80,146 @@ de la part fixe
 
 Montant mensuel
 
-(en euros)
+(en euros) |
 
-|
+Direction de l'audit |
 
-Direction de l'audit
+187,45 |
 
-|
+Mission départements d'outre-mer |
 
-181,37
+187,45 |
 
-|
+Conducteurs de voitures de service |
 
-Mission départements d'outre-mer
+149,95 |
 
-|
+Equipiers mobiles |
 
-181,37
+46,86 |
 
-|
+Maintenance et installation de matériels informatiques |
 
-Conducteurs de voitures de service
-
-|
-
-145,09
-
-|
-
-Equipiers mobiles
-
-|
-
-45,34
-
-|
-
-Maintenance et installation de matériels informatiques
-
-|
-
-113,35
-
-|
+117,15 |
 
 Prime variable liée à la manière de servir
 
-NIVEAUX D'EMPLOIS
+NIVEAU D'EMPLOIS |
 
-|
-
-PART LIEE A LA MANIERE DE SERVIR
+PART LIÉE À LA MANIÈRE DE SERVIR
 
 Montant maximal mensuel
 
-(en euros)
+(en euros) |
 
-|
+1.1 |
 
-I bis
+98,40 |
 
-|
+1.2 |
 
-81,59
+98,40 |
 
-|
+2.1 |
 
-I et II
+98,40 |
 
-|
+2.2 |
 
-95,22
+140,58 |
 
-|
+2.3 |
 
-III
+140,58 |
 
-|
+3.1 |
 
-136,05
+140,58 |
 
-|
+3.2 |
 
-IV A
+154,68 |
 
-|
+3.3 |
 
-136,05
+196,74 |
 
-|
+4 |
 
-IV B
-
-|
-
-149,63
-
-|
-
-VA
-
-|
-
-190,43
-
-|
-
-VB
-
-|
-
-244,85
-
-|
+253,05 |
 
 Prime variable liée à la performance individuelle
 
-CATEGORIES D'EMPLOIS
+NATURE D'EMPLOIS
 
-ou fonctions
+ou fonctions |
 
-|
-
-PART LIEE
+PART LIÉE
 
 à la performance individuelle
 
-(montant maximal annuel en euros)
+(montant maximal annuel en euros) |
 
-|
+Emplois classés dans le niveau d'emplois 3.1 de la filière management |
 
-Cadre opérationnel, adjoint au directeur d'agence ou animateur d'équipe professionnelle, classé dans le niveau d'emplois IV A
+4 118,88 |
 
-|
+Emplois classés dans le niveau d'emplois 3.2 de la filière management |
 
-3985,49
+6 065,28 |
 
-|
+Emplois classés dans le niveau d'emplois 3.3 de la filière management |
 
-Directeur d'agence locale de l'emploi, classé dans le niveau d'emplois IV B
+6 356,67 |
 
-|
+Directeur (trice) territorial(e), directeur (trice), responsable de fonction, classé(e)s dans le niveau d'emplois 4 |
 
-5868,87
+7 031,58 |
 
-|
+Directeur régional adjoint ou directeur adjoint d'établissement |
 
-Adjoint au directeur régional, conseiller technique, chef de service ou de département au siège ou en direction régionale, classé en VA
+8 107,05 |
 
-|
+Directeur régional ou directeur d'établissement |
 
-6150,81
-
-|
-
-Adjoint au directeur régional, conseiller technique, chef de service ou de département au siège ou en direction régionale, classés en VB
-
-|
-
-6803,83
-
-|
-
-Directeur délégué
-
-|
-
-6654,57
-
-|
-
-Directeur délégué coordinateur de bassin
-
-|
-
-7844,51
-
-|
-
-Directeur régional adjoint
-
-|
-
-7844,51
-
-|
-
-Directeur régional
-
-|
-
-11036,02
-
-|
+11 405,36 |
 
 Prime forfaitaire de direction
 
-CATEGORIES D'EMPLOIS
+FONCTIONS |
 
-|
+MONTANTS MOYENS ANNUELS
 
-MONTANTS MOYENS
+(en euros) |
 
-annuels
+Directeur territorial ou directeur territorial délégué |
 
-(en euros)
+1 574,48 € |
 
-|
+Directeur régional adjoint ou directeur adjoint d'établissement |
 
-Directeur délégué (groupe II)
+2 249,27 € |
 
-|
+Directeur régional ou directeur d'établissement (groupe II) |
 
-761,75
+2 249,27 € |
 
-|
+Directeur régional ou directeur d'établissement (groupe I) |
 
-Directeur délégué (groupe I)
+4 498,54 € |
 
-|
+Prime de responsabilité et de sujétion
 
-1523,50
-
-|
-
-Délégué régional adjoint
-
-|
-
-2176,43
-
-|
-
-Délégué régional (groupe II)
-
-|
-
-2176,43
-
-|
-
-Délégué régional (groupe I)
-
-|
-
-4352,86
-
-|
-
-Prime de responsabilité et de sujétions
-
-EMPLOI
-
-|
+EMPLOI |
 
 MONTANT MAXIMAL
 
-mensuel
+mensuel |
 
-(en euros)
+Directeur général adjoint, directeur régional d'Ile-de-France |
 
-|
+1 189,37 € |
 
-Directeur général adjoint, directeur régional d'Ile-de-France
+Directeur au siège, directeur régional d'Auvergne-Rhône-Alpes, Occitanie, Grand Est, Nouvelle-Aquitaine, Provence-Alpes-Côte d'Azur, Hauts-de-France |
 
-|
-
-1150,84
-
-|
-
-Directeur au siège, directeur régional de Rhône-Alpes, Provence-Alpes-Côte d'Azur, Nord - Pas-de-Calais
-
-|
-
-1125,34
-
-|
+1 163,00 € |
