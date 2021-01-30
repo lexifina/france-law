@@ -34,9 +34,7 @@ Fabrication de vins effervescents |
 
 9 |
 
-Vinification
-
-|
+Vinification |
 
 10 |
 
@@ -424,7 +422,7 @@ Collecte des déchets non dangereux lorsqu'au moins 50 % du chiffre d'affaires e
 
 106 |
 
-Exploitations agricoles des filières dites festives lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration |
+Exploitations agricoles des filières dites festives lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de la restauration ou de la chasse |
 
 107 |
 
