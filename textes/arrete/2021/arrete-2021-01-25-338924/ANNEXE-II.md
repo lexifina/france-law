@@ -1,0 +1,57 @@
+# Article ANNEXE II
+
+ÉPREUVES DU CONCOURS EXTERNE SPÉCIAL
+
+A. - Epreuves d'admissibilité
+
+1° Composition.
+
+Première épreuve d'admissibilité du concours externe.
+
+2° Analyse d'une situation éducative.
+
+Seconde épreuve d'admissibilité du concours externe.
+
+B. - Epreuves d'admission
+
+1° Epreuve à partir d'un sujet et d'un dossier remis par le jury.
+
+Première épreuve d'admission du concours externe.
+
+2° Epreuve d'entretien.
+
+L'épreuve d'entretien avec le jury se déroule en deux temps :
+
+1° Un premier entretien avec le jury portant sur la motivation du candidat et son aptitude à se projeter dans son futur métier au sein du service public de l'éducation.
+
+Cet entretien comporte une première partie d'une durée de quinze minutes débutant par une présentation, d'une durée de cinq minutes maximum, par le candidat des éléments de son parcours et des expériences qui l'ont conduit à se présenter au concours en valorisant notamment ses travaux de recherche, les enseignements suivis, les stages, l'engagement associatif ou les périodes de formation à l'étranger. Cette présentation donne lieu à un échange avec le jury.
+
+La deuxième partie, d'une durée de vingt minutes, doit permettre au jury, au travers de deux mises en situation professionnelle en lien avec la vie scolaire, d'apprécier l'aptitude du candidat à :
+
+- s'approprier les valeurs de la République, dont la laïcité, et les exigences du service public (droits et obligations du fonctionnaire dont la neutralité, lutte contre les discriminations et stéréotypes, promotion de l'égalité, notamment entre les filles et les garçons, etc.) ;
+
+- faire connaître et faire partager ces valeurs et exigences.
+
+Ce premier entretien est noté sur 8 points.
+
+Durée : trente-cinq minutes.
+
+2° Un second entretien permettant au candidat titulaire d'un doctorat conformément à l'article L. 412-1 du code de la recherche de présenter ses travaux de recherche.
+
+Il doit permettre au jury d'apprécier l'aptitude du candidat :
+
+- à rendre ses travaux accessibles à un public de non spécialiste.
+
+- à dégager ce qui dans les acquis de sa formation à et par la recherche, qu'il s'agisse de savoirs ou de savoir-faire, peut être mobilisé dans le cadre des enseignements qu'il serait appelé à dispenser dans la discipline du concours.
+
+Ce second entretien est noté sur 12 points.
+
+Durée : trente minutes dont quinze minutes d'exposé du candidat et quinze minutes d'échange avec le jury.
+
+Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe V du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture. Cette fiche comprend une rubrique en vue de la présentation par le candidat des travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat.
+
+Durée totale de l'épreuve : une heure et cinq minutes.
+
+L'épreuve est notée sur 20. La note 0 à l'ensemble de l'épreuve est éliminatoire.
+
+Coefficient 3.
