@@ -8,11 +8,11 @@ VÉRIFICATION PÉRIODIQUE DES DISPOSITIFS D'ÉTHYLOTESTS ANTIDÉMARRAGE
 
 d'éthylotest antidémarrage
 
-Le dispositif d'éthylotest antidémarrage (EAD) équipant les autocars doit faire l'objet d'une vérification périodique au moins annuelle, consistant à vérifier que le dispositif reste conforme aux exigences qui lui sont applicables.
+Le dispositif d'éthylotest antidémarrage (EAD) équipant les autocars doit faire l'objet d'une vérification périodique au moins annuelle, consistant à vérifier l'installation du dispositif et s'assurer que le dispositif reste conforme aux exigences qui lui sont applicables.
 
 Les examens et essais sont effectués par le vérificateur qualifié en utilisant un gaz sec dont la valeur de l'échelle de mesure est comprise entre 0,25 mg/l et 0,50 mg/l.
 
-Lorsque l'EAD satisfait aux exigences applicables à la vérification périodique, le vérificateur appose sur l'EAD une marque de vérification indiquant le mois et l'année de la prochaine vérification ; si nécessaire, il modifie la date de vérification enregistrée dans l'appareil. Il délivre une attestation de vérification périodique dont le modèle figure au point 3 de la présente annexe.
+Lorsque l'EAD satisfait aux exigences applicables à la vérification périodique, le vérificateur appose sur l'EAD une marque de vérification devant être conçue de telle façon que son retrait entraîne obligatoirement sa destruction, indiquant le mois et l'année de la prochaine vérification ; si nécessaire, il modifie la date de vérification enregistrée dans l'appareil. Il délivre une attestation de vérification périodique dont le modèle figure au point 3 de la présente annexe.
 
 Lorsque la vérification périodique fait apparaître qu'un EAD ne satisfait pas aux dispositions techniques qui lui sont applicables, l'exploitant est tenu de faire procéder à sa mise en conformité.
 
@@ -20,7 +20,7 @@ Lorsque la vérification périodique fait apparaître qu'un EAD ne satisfait pas
 
 La vérification périodique de l'EAD est effectuée par un vérificateur qualifié.
 
-Pour être qualifié, le vérificateur doit mettre en œuvre et entretenir un système d'assurance de la qualité basé sur la norme NF ISO 9001 : 2008 ou 17020 : 2005, notamment en ce qui concerne les moyens techniques, les procédures, les compétences et les garanties d'impartialité, dans le cadre des vérifications périodiques des EAD.
+Pour être qualifié, le vérificateur doit mettre en œuvre et entretenir un système d'assurance de la qualité basé sur la norme NF ISO 9001 : 2015 ou 17020 : 2012, notamment en ce qui concerne les moyens techniques, les procédures, les compétences et les garanties d'impartialité, dans le cadre des vérifications périodiques des EAD.
 
 En vue de sa qualification, le vérificateur qualifié doit établir un manuel d'assurance de la qualité démontrant la conformité de son système qualité :
 
@@ -29,6 +29,8 @@ En vue de sa qualification, le vérificateur qualifié doit établir un manuel d
 ― aux exigences de la norme appropriée sur l'assurance de la qualité précitée, appliquées aux vérifications périodiques des EAD ;
 
 ― aux exigences du fabricant de l'EAD.
+
+Les opérations de vérifications ne pourront être réalisées que dans les installations visées sur l'attestation de qualification.
 
 Outre la qualification d'un vérificateur, l'organisme visé à l'article 18 ter du présent arrêté ou le Laboratoire national de métrologie et d'essais (LNE) assure la surveillance du système d'assurance de la qualité du vérificateur.
 
@@ -56,7 +58,7 @@ Je soussigné (nom et prénom) ............................................ vér
 
 sous le numéro : ..........................................................................................
 
-certifie que l'éthylotest antidémarrage décrit ci-après a été vérifié par moi-même conformément aux règles applicables et aux instructions fournies par le fabricant du système.
+certifie que l'éthylotest antidémarrage décrit ci-après ainsi que son fonctionnement et son installation ont été vérifiés par moi-même conformément aux règles applicables et aux instructions fournies par le fabricant du système.
 
 Description du véhicule :
 
