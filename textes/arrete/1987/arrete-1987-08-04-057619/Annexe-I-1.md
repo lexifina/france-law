@@ -8,18 +8,18 @@ fabricant HT |
 
 COEFFICIENT HT
 
-A partir du 30 septembre 2020 |
+A partir du 1er février 2021 |
 
-De 0 € à 571,05 € |
+De 0 € à 468,97 € |
 
-0,0753 avec un minimum de 0,30 €
+0,0693 avec un minimum de 0,30 €
 
-et un plafond de 43 € |
+et un plafond de plafond de 32,50 € |
 
-Au-delà de 571,05 € |
+Au-delà de 468,97 € |
 
 0 |
 
 NOTA :
 
-Conformément à l’article 1er de l’arrêté du 14 septembre 2020 (SSAS2018270A), ces dispositions entrent en vigueur à compter du 30 septembre 2020.
+Conformément à l’article 1er de l’arrêté du 14 septembre 2020 (SSAS2018270A), ces dispositions entrent en vigueur à compter du 1er février 2021.
