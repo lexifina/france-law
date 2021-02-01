@@ -248,6 +248,12 @@ Elle veille à la qualité éditoriale et à la diversité du contenu de ses pro
 
 Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
 
+4° quater Culture Box : chaîne nationale diffusée notamment par voie hertzienne terrestre à titre temporaire dont la vocation est d'offrir une programmation liée à la culture et notamment au spectacle vivant à la suite de la fermeture au public des lieux de spectacle et de l'annulation de nombreuses manifestations culturelles en raison de la crise sanitaire résultant de l'épidémie de covid-19.
+
+La programmation de cette chaîne est composée de spectacles vivants dans toute leur diversité (spectacles de théâtre, danse, opéras, ballets, concerts, festivals, etc.), d'émissions culturelles et de portraits d'artistes, ou de toute autre manifestation culturelle. Cette programmation n'est pas soumise aux dispositions de l'article 6 du présent cahier des charges.
+
+La programmation ne comporte aucun message publicitaire.
+
 5° Outre-mer La 1ère : services régionaux généralistes de télévision et de radio diffusés en outre-mer qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
 
 France Télévisions assure également la continuité territoriale des programmes des services de télévision et de radio édités par les sociétés nationales de programme ou leurs filiales répondant à des missions de service public, de la métropole vers l'outre-mer et de l'outre-mer vers la métropole.
