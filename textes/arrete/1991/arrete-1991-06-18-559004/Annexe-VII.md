@@ -14,7 +14,7 @@ I. - Composition du dossier
 
 3. La copie d'un document, en cours de validité, permettant de justifier de l'identité du contrôleur ;
 
-4. Les pièces justificatives de la qualification requise pour exercer l'activité de contrôleur (cf. annexe IV) accompagnées d'une fiche récapitulative conforme au modèle de l'appendice 1 de la présente annexe. S'il s'agit d'un ressortissant étranger, celui-ci doit fournir un document équivalent établi depuis moins de trois mois à la date de la demande d'agrément et rédigé en français ou accompagné d'une traduction officielle ;
+4. Les pièces justificatives de la qualification requise pour exercer l'activité de contrôleur (cf. annexe IV) accompagnées d'une fiche récapitulative conforme au modèle de l'appendice 1 de la présente annexe. S'il s'agit d'un ressortissant étranger, celui-ci doit fournir un document équivalent établi depuis moins de trois mois à la date de la demande d'agrément et rédigé en français ou accompagné d'une traduction officielle. En cas de nouvelle demande suite à un retrait d'agrément, l'ensemble des conditions d'agrément et de maintien d'agrément sont remplies. La condition relative à la qualification préalable prévue au point A.2.1. de l'annexe IV s'apprécie à la date d'obtention de l'agrément initial ;
 
 5. L'avis du réseau de contrôle agréé dont le demandeur dépend, ou dans le cas d'un contrôleur non rattaché à un réseau, l'avis de l'organisme technique central, suivant le modèle de l'appendice 2 de la présente annexe ;
 
@@ -36,7 +36,7 @@ III. - Modification du dossier d'agrément
 
 Ces modifications peuvent entraîner l'annulation de l'agrément qu'elles aient été ou non signalées par le contrôleur, son centre de rattachement ou son réseau éventuel. La décision d'annulation d'agrément est notifiée simultanément au contrôleur, au centre de contrôle auquel il est rattaché, à la direction du réseau auquel il est rattaché le cas échéant et, pour les contrôleurs non rattachés, à l'organisme technique central.
 
-Dans le cas où un nouvel agrément est sollicité suite à l'annulation d'un agrément précédent, l'ensemble des conditions d'agrément et de maintien d'agrément sont remplies.
+Dans le cas où un nouvel agrément est sollicité suite à l'annulation d'un agrément précédent, l'ensemble des conditions d'agrément et de maintien d'agrément sont remplies. La condition relative à la qualification préalable prévue au point A.2.1. de l'annexe IV s'apprécie à la date d'obtention de l'agrément initial.
 
 L'annulation d'un agrément peut être prononcée uniquement si le préfet n'a pas informé le contrôleur, dans le cadre de l'article 13-1 du présent arrêté, qu'il envisage de suspendre ou de retirer l'agrément du contrôleur et qu'aucune suspension d'agrément n'a été notifiée.
 

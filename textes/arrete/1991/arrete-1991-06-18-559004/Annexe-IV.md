@@ -88,13 +88,13 @@ D. Qualification des exploitants
 
 D. 1. A défaut de la présentation d’une des qualifications prévues au point A.1 de la présente annexe, la personne physique assurant l’exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l’agrément du centre, justifie d’une formation d’une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
 
-L’exploitant justifie, par ailleurs, d’une formation de maintien de qualification d’une durée minimale de 14 heures tous les cinq ans.
+L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans, qu'il soit contrôleur ou non.
 
-Pour les exploitants désignés avant le 20 mai 2018, cette formation de maintien de qualification est à réaliser avant le 1er janvier 2022, qu’ils soient ou non contrôleurs.
+Une première formation de maintien de qualification est à réaliser avant le 1er janvier 2022, sauf pour les personnes ayant réalisé une formation d'exploitant d'une durée minimale de 35 heures entre le 20 mai 2018 et le 31 décembre 2021.
 
 Les exigences de connaissances et de compétences d’un exploitant de centre de contrôle technique des véhicules légers ainsi que les modalités d’évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l’OTC.
 
-D. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe D. 1 dans un délai maximum de 6 mois à compter de sa désignation.
+D. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe D. 1 (y compris pour la formation de maintien de qualification) dans un délai maximum de 6 mois à compter de sa désignation.
 
 E. Exigences relatives aux organismes de formation
 
