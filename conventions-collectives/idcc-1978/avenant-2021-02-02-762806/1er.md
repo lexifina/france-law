@@ -1,0 +1,5 @@
+# Article 1er
+
+L'avant dernier paragraphe de l'article 1er de l'avenant n° 2 du 24 juillet 2020 est modifié et remplacé par le paragraphe suivant :
+
+« – compte tenu de la dématérialisation des réunions et de l'absence de déplacements professionnels, aucune prise en charge de frais ne sera octroyée aux participants et membres de la CPPNI ou CMPPNI (frais de transport, hébergement …). Concernant les indemnités de présence destinées à compenser l'absence en entreprise des représentants des organisations patronales représentatives, celles-ci ne seront pas versées en cas de réunions en visioconférence, sauf si le négociateur patronal est en activité professionnelle et que la réunion en visioconférence l'empêche de travailler dans son entreprise. Ces règles sont également applicables aux réunions de la CPNEFP organisées en visioconférence. Elles ne remettent pas en cause les droits des négociateurs salariés des entreprises de la branche prévus par la convention collective et l'accord du 19 janvier 2018 étendus. »
