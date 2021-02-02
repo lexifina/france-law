@@ -65,3 +65,21 @@ L'examen de ces thématiques fait apparaître 7 blocs de négociation incontourn
 (Illustration non reproduite, consultable en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
 
 https://www.legifrance.gouv.fr/download/file/pdf/boc_20190012_0000_0008.pdf/BOCC
+
+Les organisations signataires du présent accord ajoutent aux thématiques de négociation deux obligations nouvelles de négociation insérées depuis la signature de l'accord initial à l'article L. 2241-1 du code du travail (bloc 1) :
+
+– “ les mesures destinées à faciliter la conciliation entre la vie professionnelle et la vie personnelle des salariés proches aidants ”
+
+(1)
+
+;
+
+– la construction et la mise à disposition des établissements et de leurs salariés “ des outils (…) pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes ”
+
+(2)
+
+.
+
+(1) Loi n° 2019-485 du 22 mai 2019 visant à favoriser la reconnaissance des proches aidants.
+
+(2) Loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel.
