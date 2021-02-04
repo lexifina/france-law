@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Convention relative à l’expérimentation du Compte Financier Unique (CFU)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-02-04
+- Matière : FINANCES
+- Objet : Convention relative à l’expérimentation du Compte Financier Unique (CFU)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NTAsInB1ciI6ImJsb2JfaWQifX0=--5c9178751ca8c9f876c985568df0c7c95be185b8/040221_03.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
