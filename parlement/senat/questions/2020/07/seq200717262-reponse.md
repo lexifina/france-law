@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717262
+
+- Question : [SEQ200717262](seq200717262.md) — Prise en compte de l'évolution des tarifs dans la publication des « devis-modèles » en matière funéraire
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-02-04, page 732*
+
+L'article L. 2223-21-1 du CGCT prévoit l'obligation, pour chaque opérateur funéraire, de dépôt d'un devis-type dans certaines communes, en fonction de leur (s) territoire (s) d'implantation. Aucune disposition ne fait en revanche référence à la fréquence du dépôt dans les communes. Or, comme le souligne l'honorable parlementaire, la validité et donc l'utilité d'un devis-type pour les familles et proches des défunts résident dans sa régulière actualisation. Le groupe de travail «Information du consommateur dans le secteur funéraire » qui a débuté en novembre 2020 sous l'égide du Conseil national de la consommation, en lien avec la Direction générale de la concurrence, de la consommation et de la répression des fraudes et la Direction générale des collectivités locales, a engagé une réflexion sur les devis-type et notamment sur le mode de mise à disposition des devis à l'attention des usagers. Ce groupe de travail, amené à se réunir régulièrement dans les prochains mois, prendra en compte les propositions d'évolutions règlementaires visant à favoriser le recours au devis, au respect de son modèle, et à retenir un mode de diffusion efficient. Cette réflexion, à laquelle participent les représentants des opérateurs funéraires, devra ainsi donner lieu à des propositions pragmatiques et concrètement utiles aux familles. Une évolution règlementaire ou des consignes particulières pourront donc voir le jour à l'issue de ces travaux et, alors, être largement relayées auprès du secteur funéraire, des communes et des consommateurs.
