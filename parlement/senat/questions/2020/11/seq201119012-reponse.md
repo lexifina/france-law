@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119012
+
+- Question : [SEQ201119012](seq201119012.md) — Nouvelles modalités de participation au concours « un des meilleurs ouvriers de France »
+
+## Réponse
+
+*Éducation nationale, jeunesse et sports, JO du 2021-02-04, page 768*
+
+Le ministère de l'éducation nationale, de la jeunesse et des sports attache une grande importance à cet examen qui promeut l'excellence professionnelle à la française et, dans ce cadre, a maintenu sa subvention annuelle à l'association COET-MOF. Le droit d'inscription à l'examen a été décidé par la décision du conseil d'administration et approuvé par l'assemblée générale du COET-MOF du 17 avril 2019 qui a fixé pour la 27ème session le montant à 200 euros. Aucune formation ni diplôme préalable n'est demandé pour se porter candidat au diplôme. En revanche, la durée des épreuves qualificatives et finales (entre un an et demi et deux ans) et l'exigence demandée (25 % de candidats retenus à l'issue des qualificatives et 20 % de lauréats à la fin des épreuves) conduisent nombre de candidats à se faire accompagner pour augmenter leur chance de réussite. Ces accompagnements sont suivis par les candidats qui le souhaitent dans les organismes de leurs choix. C'est dans ce cadre que le COET-MOF a souhaité apporter une aide aux problématiques des candidats. Le COET-MOF a présenté, sur son site, les possibilités de formation ouvertes par la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. La présentation a pu faire naître, chez certains candidats, des doutes sur son caractère facultatif. Afin de clarifier la situation, le ministère en charge de l'éducation nationale a demandé au COET-MOF de modifier la présentation de son offre afin de faire davantage ressortir son caractère volontaire et non exclusif.
