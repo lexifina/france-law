@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118777
+
+- Question : [SEQ201118777](seq201118777.md) — Crédit d'impôt sur les loyers
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-02-04, page 760*
+
+L'article 20 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021 instaure un crédit d'impôt en faveur des bailleurs qui consentent des abandons définitifs de loyers à certaines entreprises. Pour être éligibles au dispositif, les entreprises locataires doivent louer des locaux qui font l'objet d'une interdiction d'accueil du public au cours du mois de novembre 2020 ou exercer leur activité principale dans un secteur mentionné à l'annexe 1 du décret n° 2020-371 du 30 mars 2020 relatif au fonds de solidarité, dans sa rédaction en vigueur au 30 décembre 2020. Elles doivent par ailleurs avoir un effectif de moins de 5 000 salariés, ne pas être en difficulté au 31 décembre 2019 au sens du droit de l'Union européenne, ni en liquidation judiciaire au 1er mars 2020. Le crédit d'impôt s'applique aux abandons définitifs de loyers hors taxes et hors accessoires afférents au mois de novembre 2020, et consentis au plus tard le 31 décembre 2021. Pour les entreprises de 250 salariés ou plus, le montant est retenu dans la limite des deux tiers du montant du loyer pour le calcul du crédit d'impôt. Afin de renforcer le caractère incitatif du dispositif pour les bailleurs, le taux a été fixé à 50 % au lieu des 30 % initialement envisagés. Le crédit d'impôt est en outre cumulable avec le dispositif introduit par la deuxième loi de finances rectificative pour 2020, qui prévoit, compte tenu des effets de la crise sanitaire, la non-imposition des abandons de loyers. Cette mesure ayant été prolongée par l'article 20 précité, les abandons de loyers consentis jusqu'au 30 juin 2021 ne constituent pas des revenus imposables pour les bailleurs, quelle que soit leur catégorie d'imposition.
