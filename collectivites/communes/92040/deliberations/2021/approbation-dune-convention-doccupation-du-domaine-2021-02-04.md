@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention d’occupation du domaine public pour l’installation et exploitation d’infrastructures de recharge pour véhicules électriques sur voirie avec la Métropole du Grand Paris et la société Métropolis
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-02-04
+- Matière : ESPACES PUBLICS
+- Objet : Approbation d’une convention d’occupation du domaine public pour l’installation et exploitation d’infrastructures de recharge pour véhicules électriques sur voirie avec la Métropole du Grand Paris et la société Métropolis
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzNjAsInB1ciI6ImJsb2JfaWQifX0=--8971280e6c81b7f19d0d789f2c3e4778dd26bbeb/040221_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
