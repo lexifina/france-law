@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Renouvellement de la convention cadre relative à la mise en maquette, la mise en page et à l’impression des articles consacrés à l’établissement public territorial Grand Paris Seine Ouest dans le journal Point d’Appui
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-02-04
+- Matière : COMMUNICATION
+- Objet : Renouvellement de la convention cadre relative à la mise en maquette, la mise en page et à l’impression des articles consacrés à l’établissement public territorial Grand Paris Seine Ouest dans le journal Point d’Appui
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNTAsInB1ciI6ImJsb2JfaWQifX0=--865d1058320460e11a6c8b4ea136c5f0736fa58d/040221_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
