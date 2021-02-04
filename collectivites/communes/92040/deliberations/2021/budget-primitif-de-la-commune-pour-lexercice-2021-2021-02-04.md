@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Budget primitif de la Commune pour l’exercice 2021
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-02-04
+- Matière : FINANCES
+- Objet : Budget primitif de la Commune pour l’exercice 2021
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NTEsInB1ciI6ImJsb2JfaWQifX0=--71292c4785ea62f3b6283fec1d2313f08ba23dad/040221_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
