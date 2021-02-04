@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — ZAC du Pont d’Issy. Approbation d’une convention financière entre la SPL Seine Ouest Aménagement et la Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-02-04
+- Matière : URBANISME
+- Objet : ZAC du Pont d’Issy. Approbation d’une convention financière entre la SPL Seine Ouest Aménagement et la Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MDUsInB1ciI6ImJsb2JfaWQifX0=--d5db4d9679c3fc36200c7182a3551b0dcb6cf0d5/040221_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
