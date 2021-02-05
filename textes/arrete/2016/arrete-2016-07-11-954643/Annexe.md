@@ -1,3 +1,5 @@
 # Article Annexe
 
-Vous pouvez consulter les cartes ainsi que la liste aux préfectures des Landes, du Gers et de Lot-et-Garonne, dans les mairies des communes situées dans le périmètre du site, aux directions régionales de l'environnement, de l'aménagement et du logement de Midi-Pyrénées, Languedoc-Roussillon et d'Aquitaine, Limousin, Poitou-Charentes ainsi qu'à la direction de l'eau et de la biodiversité du ministère de l'environnement, de l'énergie et de la mer en charge des relations internationales sur le climat.
+Vous pouvez consulter les cartes ainsi que la liste aux préfectures des Landes, du Gers et du Lot-et-Garonne, dans les mairies des communes situées dans le périmètre du site, à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine, à la direction régionale de l'environnement, de l'aménagement et du logement Occitanie, ainsi qu'à la direction de l'eau et de la biodiversité du ministère de la transition écologique.
+
+Elles sont également consultables et téléchargeables sur les sites du Bulletin officiel du ministère de la transition écologique (https://www.bulletin-officiel.developpement-durable.gouv.fr/recherche) et de l'inventaire national du patrimoine naturel hébergé par le Muséum national d'histoire naturelle ( https://inpn.mnhn.fr/accueil/recherche-de-donnees/natura2000).
