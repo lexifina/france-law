@@ -1,3 +1,5 @@
 # Article Annexe
 
-Vous pouvez consulter la carte ainsi que la liste aux préfectures du Lot et de Lot-et-Garonne, dans les mairies des communes situées dans le périmètre du site, à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine, à la direction régionale de l'environnement et de l'aménagement et du logement d'Occitanie, ainsi qu'à la direction de l'eau et de la biodiversité du ministère de l'environnement, de l'énergie et de la mer, en charge des relations internationales sur le climat.
+Vous pouvez consulter la carte ainsi que la liste aux préfectures du Lot et de Lot-et-Garonne, dans les mairies des communes situées dans le périmètre du site, à la direction régionale de l'environnement, de l'aménagement et du logement Occitanie, à la direction régionale de l'environnement, de l'aménagement et du logement de Nouvelle-Aquitaine, ainsi qu'à la direction de l'eau et de la biodiversité du ministère de la transition écologique.
+
+Elles sont également consultables et téléchargeables sur les sites du Bulletin officiel du ministère de la transition écologique (https://www.bulletin-officiel.developpement-durable.gouv.fr/recherche) et de l'inventaire national du patrimoine naturel hébergé par le Muséum national d'histoire naturelle ( https://inpn.mnhn.fr/accueil/recherche-de-donnees/natura2000).
