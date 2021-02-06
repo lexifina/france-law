@@ -18,11 +18,7 @@ Corse-du-Sud.
 
 Haute-Corse.
 
-Creuse.
-
 Dordogne.
-
-Doubs.
 
 Drôme.
 
@@ -31,8 +27,6 @@ Gers.
 Isère.
 
 Haute-Loire.
-
-Manche.
 
 Haute-Marne.
 

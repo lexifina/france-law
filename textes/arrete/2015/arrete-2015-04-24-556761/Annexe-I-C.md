@@ -2,7 +2,7 @@
 
 LISTE DES DÉPARTEMENTS
 
-(en application de l'article 1er, point 1°, quatrième tiret, du présent arrêté)
+(en application de l'article 1er, point 1°, troisième tiret, du présent arrêté)
 
 Alpes-de-Haute-Provence.
 

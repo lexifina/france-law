@@ -2,7 +2,7 @@
 
 LISTE DES DÉPARTEMENTS
 
-(en application de l'article 1er, point 1°, sixième tiret, du présent arrêté)
+(en application de l'article 1er, point 1°, quatrième tiret, du présent arrêté)
 
 Aisne.
 
@@ -17,6 +17,10 @@ Cher.
 Côte-d'Or.
 
 Côtes-d'Armor.
+
+Creuse.
+
+Doubs.
 
 Eure.
 
@@ -56,9 +60,15 @@ Loiret.
 
 Maine-et-Loire.
 
+Manche.
+
 Marne.
 
 Mayenne.
+
+Meurthe-et-Moselle.
+
+Morbihan.
 
 Nord.
 

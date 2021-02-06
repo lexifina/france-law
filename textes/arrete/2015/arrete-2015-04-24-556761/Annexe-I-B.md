@@ -2,10 +2,6 @@
 
 LISTE DES DÉPARTEMENTS
 
-(en application de l'article 1er, point 1°, troisième tiret, du présent arrêté)
-
-Meurthe-et-Moselle.
-
-Morbihan.
+(en application de l'article 1er, point 1°, deuxième tiret, du présent arrêté)
 
 Moselle.
