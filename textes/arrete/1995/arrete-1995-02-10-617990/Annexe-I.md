@@ -1,10 +1,8 @@
 # Article Annexe I
 
-Horaire hebdomadaire des filières mathématique et physique, physique et chimie, physique et sciences de l'ingénieur, physique et technologie
+Horaire hebdomadaire des filières mathématique et physique, “ mathématiques, physique, informatique ”, mathématiques, physique, informatique, physique et chimie, physique et sciences de l'ingénieur, physique et technologie
 
-Première année : classes de " mathématique, physique et sciences de l'ingénieur ", " physique, chimie et sciences de l'ingénieur ",
-
-" physique, technologie et sciences de l'ingénieur "
+1re année : classes de “ Mathématiques, physique et sciences de l'ingénieur ”, “ Mathématiques, physique, ingénierie et informatique ”, “ Physique, chimie et sciences de l'ingénieur ”, “ Physique, technologie et sciences de l'ingénieur ”
 
 DISCIPLINES
 
@@ -296,25 +294,11 @@ Informatique
 
 |
 
-1
+-
 
 |
 
-|
-
-1
-
-|
-
-|
-
-|
-
-|
-
-1
-
-|
+-
 
 |
 
@@ -328,9 +312,29 @@ Informatique
 
 |
 
+-
+
+|
+
+-
+
+|
+
 1
 
 |
+
+|
+
+|
+
+|
+
+-
+
+|
+
+-
 
 |
 
@@ -462,7 +466,7 @@ TOTAL
 
 |
 
-23
+22
 
 |
 
@@ -480,7 +484,7 @@ TOTAL
 
 |
 
-22
+21
 
 |
 
@@ -498,7 +502,7 @@ TOTAL
 
 |
 
-20
+19
 
 |
 
@@ -1178,7 +1182,7 @@ Langue vivante étrangère II (facultative)
 
 |
 
-Deuxième année : classes de " mathématique et physique ", " physique et chimie ", " physique et sciences de l'ingénieur ",
+Deuxième année : classes de " mathématique et physique "“ mathématiques, physique, informatique ”, " physique et chimie ", " physique et sciences de l'ingénieur ", “ mathématiques, physique, ingénierie et informatique ”,
 
 " physique et technologie ", affectées ou non d'une étoile (*)
 
@@ -1733,3 +1737,683 @@ Langue vivante étrangère II (facultative)
 (c) Horaire limité à la première période de la seconde année |
 
 (d) Horaire diminué d'une heure en deuxième période |
+
+HORAIRE HEBDOMADAIRE DE LA FILIÈRE " MATHÉMATIQUES, PHYSIQUE, INFORMATIQUE "
+
+(1re et 2e années)
+
+1re année : classe de " mathématiques, physique, ingénierie et informatique " (MP2I)
+
+Disciplines |
+
+CLASSE |
+
+Mathématiques, physique, ingénierie et informatique |
+
+1ère période (S1) |
+
+Enseignements communs |
+
+|
+
+|
+
+|
+
+|
+
+Cours |
+
+TD |
+
+TP |
+
+|
+
+|
+
+|
+
+Mathématiques |
+
+|
+
+|
+
+|
+
+10 |
+
+2 |
+
+- |
+
+|
+
+|
+
+|
+
+Physique |
+
+|
+
+|
+
+|
+
+4 |
+
+1 |
+
+1,5 |
+
+|
+
+|
+
+|
+
+Sciences informatiques |
+
+|
+
+|
+
+|
+
+2 |
+
+1 |
+
+1 |
+
+|
+
+|
+
+|
+
+Sciences industrielles |
+
+|
+
+|
+
+|
+
+1 |
+
+1 |
+
+- |
+
+|
+
+|
+
+|
+
+Français-philosophie |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+Langue vivante étrangère I |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+Education physique et sportive |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+|
+
+|
+
+23 |
+
+5 |
+
+2,5 |
+
+|
+
+|
+
+|
+
+Langue vivante étrangère II (facultative) |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+2e période (S2) |
+
+Option sciences industrielles (1) |
+
+Enseignements communs |
+
+Option sciences informatiques (1) |
+
+|
+
+Cours |
+
+TD |
+
+TP |
+
+Cours |
+
+TD |
+
+TP |
+
+Cours |
+
+TD |
+
+TP |
+
+Mathématiques |
+
+|
+
+|
+
+|
+
+10 |
+
+2 |
+
+- |
+
+|
+
+|
+
+|
+
+Physique |
+
+|
+
+|
+
+|
+
+4 |
+
+1 |
+
+1,5 |
+
+|
+
+|
+
+|
+
+Chimie |
+
+1 |
+
+- |
+
+1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sciences informatiques |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4 |
+
+1 |
+
+1 |
+
+Informatique |
+
+1 |
+
+- |
+
+1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Sciences industrielles |
+
+1 |
+
+1 |
+
+2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Français-philosophie |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+Langue vivante étrangère I |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+Education physique et sportive |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+Travaux d'initiative personnelle encadrés |
+
+|
+
+|
+
+|
+
+- |
+
+2 |
+
+- |
+
+|
+
+|
+
+|
+
+TOTAL |
+
+3 |
+
+1 |
+
+4 |
+
+20 |
+
+5 |
+
+1,5 |
+
+4 |
+
+1 |
+
+1 |
+
+Langue vivante étrangère II (facultative) |
+
+|
+
+|
+
+|
+
+2 |
+
+- |
+
+- |
+
+|
+
+|
+
+|
+
+(1) Les étudiants doivent choisir obligatoirement une option en S2.
+
+2e année : classe de " mathématiques, physique, informatique " (MPI)
+
+Disciplines |
+
+CLASSE |
+
+Mathématiques, physique, informatique |
+
+1ère période (S3) |
+
+|
+
+Cours |
+
+TD |
+
+TP |
+
+Mathématiques |
+
+10 |
+
+2 |
+
+- |
+
+Physique |
+
+5 |
+
+1 |
+
+1,5 |
+
+Chimie |
+
+|
+
+|
+
+|
+
+Sciences informatiques |
+
+4 |
+
+1 |
+
+1 |
+
+Français-philosophie |
+
+2 |
+
+- |
+
+- |
+
+Langue vivante étrangère I |
+
+2 |
+
+- |
+
+- |
+
+Travaux d'initiative personnelle encadrés |
+
+- |
+
+2 |
+
+- |
+
+Education physique et sportive |
+
+2 |
+
+- |
+
+- |
+
+TOTAL |
+
+25 |
+
+6 |
+
+2,5 |
+
+Langue vivante étrangère II (facultative) |
+
+2 |
+
+- |
+
+- |
+
+2e période (S4) |
+
+|
+
+Cours |
+
+TD |
+
+TP |
+
+Mathématiques |
+
+10 |
+
+2 |
+
+- |
+
+Physique |
+
+5 |
+
+1 |
+
+1,5 |
+
+Chimie |
+
+|
+
+|
+
+|
+
+Sciences informatiques |
+
+4 |
+
+1 |
+
+1 |
+
+Français-philosophie |
+
+2 |
+
+- |
+
+- |
+
+Langue vivante étrangère I |
+
+2 |
+
+- |
+
+- |
+
+Travaux d'initiative personnelle encadrés |
+
+- |
+
+2 |
+
+- |
+
+Education physique et sportive |
+
+2 |
+
+- |
+
+- |
+
+TOTAL |
+
+25 |
+
+6 |
+
+2,5 |
+
+Langue vivante étrangère II (facultative) |
+
+2 |
+
+- |
+
+- |
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 5 janvier 2021 (NOR : ESRS2035767A), ces dispositions prennent effet à compter de la rentrée de l'année scolaire 2021-2022 pour les classes de première année, et à compter de la rentrée de l'année scolaire 2022-2023 pour les classes de seconde année.
+
+Dans les îles Wallis-et-Futuna et en Nouvelle-Calédonie, ces dispositions prennent effet à compter de la rentrée de l'année scolaire 2021 pour les classes de première année, et à compter de la rentrée de l'année scolaire 2022 pour les classes de seconde année.

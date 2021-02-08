@@ -50,9 +50,7 @@ Communication orale
 
 |
 
-Informatique
-
-|
+Informatique |
 
 Classe de Mathématique, Physique et sciences de l'ingénieur
 
@@ -280,9 +278,7 @@ Classe de Biologie, chimie, physique et sciences de la terre
 
 |
 
-5 mn
-
-|
+5 mn |
 
 Classe préparatoire aux écoles nationales vétérinaires
 
@@ -466,9 +462,7 @@ Communication orale
 
 |
 
-Informatique
-
-|
+Informatique |
 
 Classe de Mathématique et physique (1)
 
@@ -905,3 +899,103 @@ Classe préparatoire à l'ENS Cachan, section C, département Arts-création ind
 (b) 10 minutes en physique et 10 minutes en chimie.
 
 |
+
+DURÉE HEBDOMADAIRE DES INTERROGATIONS ORALES DANS LES CLASSES PRÉPARATOIRES SCIENTIFIQUES " MATHÉMATIQUES, PHYSIQUE, INGÉNIERIE ET INFORMATIQUE " ET " MATHÉMATIQUES, PHYSIQUE, INFORMATIQUE "
+
+1re année
+
+Classe Mathématiques, physique, ingénierie et informatique |
+
+Interrogations orales |
+
+Mathématiques |
+
+Informatique |
+
+Physique |
+
+Français-philosophie |
+
+Langue vivante
+
+étrangère |
+
+1ère période (S1) |
+
+15 mn |
+
+5 mn |
+
+10 mn |
+
+(a) |
+
+10 mn |
+
+2e période (S2)
+
+Option sciences industrielles
+
+Option sciences informatiques |
+
+20 mn
+
+15 mn |
+
+-
+
+5 mn |
+
+10 mn
+
+10 mn |
+
+(a)
+
+(a) |
+
+10 mn
+
+10 mn |
+
+(a) Une séance d'interrogation de 30 minutes par trimestre, soit trois séances au total pour l'année.
+
+2e année
+
+Classe
+
+Mathématiques, physique, informatique |
+
+Interrogations orales |
+
+Mathématiques |
+
+Informatique |
+
+Physique |
+
+Français-philosophie |
+
+Langue vivante
+
+étrangère |
+
+|
+
+15 mn |
+
+5 mn |
+
+10 mn |
+
+(a) |
+
+10 mn |
+
+(a) Deux séances d'interrogation de 30 minutes réparties sur les deux premiers trimestres.
+
+NOTA :
+
+Conformément à l'article 9 de l'arrêté du 5 janvier 2021, ces dispositions prennent effet à compter de la rentrée de l'année scolaire 2021-2022 pour les classes de première année, et à compter de la rentrée de l'année scolaire 2022-2023 pour les classes de seconde année.
+
+Dans les îles Wallis-et-Futuna et en Nouvelle-Calédonie, ces dispositions prennent effet à compter de la rentrée de l'année scolaire 2021 pour les classes de première année, et à compter de la rentrée de l'année scolaire 2022 pour les classes de seconde année.
