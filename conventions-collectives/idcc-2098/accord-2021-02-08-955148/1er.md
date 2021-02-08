@@ -1,0 +1,5 @@
+# Article 1er
+
+Le champ d'application du présent accord est identique, d'une part, à celui de l'accord du 12 octobre 2015 relatif à la formation professionnelle qu'il complète et modifie et, d'autre part, à ceux des accords du 18 décembre 2018 et du 18 mars 2019 qu'il annule et remplace.
+
+Il est expressément rappelé que ce champ d'application correspond à celui de la convention nationale du personnel des prestataires de services dans le domaine du secteur tertiaire du 13 août 1999 tel que défini dans son article 1er.
