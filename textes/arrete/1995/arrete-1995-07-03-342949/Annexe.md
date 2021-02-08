@@ -1,5 +1,7 @@
 # Article Annexe
 
-(1) Le présent arrêté et ses annexes seront publiés au Bulletin officiel du ministère de l'éducation nationale des 20 et 27 juillet 1995, vendu au prix de 14 F, disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
+Les annexes seront consultables au Bulletin officiel de l'éducation nationale, de la jeunesse et des sports spécial et au Bulletin officiel de l'enseignement supérieur, de la recherche et de l'innovation spécial en date du 11 février 2021 sur les sites http://www.education.gouv.fr et https://www.enseignementsup-recherche.gouv.fr
 
-L'arrêté et ses annexes seront diffusés par les centres précités.
+NOTA :
+
+Conformément aux arrêtés du 5 janvier 2021, les présentes dispositions prennent effet à compter de la rentrée de l'année scolaire 2021-2022 pour les classes de première année, et à compter de la rentrée de l'année scolaire 2022-2023 pour les classes de seconde année.
