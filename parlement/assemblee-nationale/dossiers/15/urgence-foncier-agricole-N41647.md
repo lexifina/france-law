@@ -1,0 +1,58 @@
+# Mesures d’urgence pour assurer la régulation de l’accès au foncier agricole au travers de structures sociétaires
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41647
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/urgence_foncier_agricole
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-641.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-02-09 : 1er dépôt d'une initiative. (PIONANR5L15B3853)
+  - 2021-04-30 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-09 : Renvoi en commission au fond
+      - 2021-04-14 : Nomination de rapporteur
+      - 2021-04-14 : Réunion de commission
+      - 2021-05-12 : Réunion de commission
+      - 2021-05-25 : Réunion de commission
+      - 2021-05-12 : Dépôt de rapport (RAPPANR5L15B4151, PIONANR5L15BTC4151)
+    - Travaux d'une commission saisie pour avis
+      - 2021-04-29 : Saisine pour avis d'une commission
+      - 2021-05-05 : Nomination de rapporteur
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-11 : Réunion de commission
+  - Discussion en séance publique
+    - 2021-05-25 : Discussion en séance publique
+    - 2021-05-25 : Discussion en séance publique
+    - 2021-05-26 : Discussion en séance publique
+    - 2021-05-26 : Discussion en séance publique
+    - 2021-05-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-05-26 : Dépôt d'une initiative en navette (PIONSNR5S359B0641)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-26 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-10-20 : Dépôt de rapport (RAPPSNR5S379B0071, PIONSNR5S379BTC0072)
+  - Discussion en séance publique
+    - 2021-11-03 : Décision
+- Commission Mixte Paritaire
+  - 2021-11-04 : Dépôt d'un projet de loi (PIONANR5L15B4650)
+  - 2021-11-04 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-12-01 : Nomination de rapporteur
+    - 2021-12-01 : Dépôt du rapport d'une CMP (RAPPANR5L15B4759, PIONANR5L15BTC4759)
+    - 2021-12-01 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0252, PIONSNR5S379BTC0253)
+  - Discussion en séance publique
+    - 2021-12-07 : Discussion en séance publique
+    - 2021-12-07 : Décision
+  - Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Décision
+  - 2021-12-02 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-12-23 : Promulgation d'une loi
