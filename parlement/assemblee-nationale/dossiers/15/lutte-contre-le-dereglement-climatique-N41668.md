@@ -1,0 +1,121 @@
+# Lutte contre le dérèglement climatique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N41668
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_le_dereglement_climatique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-551.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-02-10 : 1er dépôt d'une initiative. (PRJLANR5L15B3875)
+  - 2021-02-10 : Etude d'impact (ETDIANR5L15B3875)
+  - 2021-02-10 : Avis du Conseil d'Etat (AVCEANR5L15B3875)
+  - 2021-02-10 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-02-10 : Renvoi en commission au fond
+      - 2021-02-15 : Nomination de rapporteur
+      - 2021-03-08 : Réunion de commission
+      - 2021-03-08 : Réunion de commission
+      - 2021-03-09 : Réunion de commission
+      - 2021-03-09 : Réunion de commission
+      - 2021-03-10 : Réunion de commission
+      - 2021-03-10 : Réunion de commission
+      - 2021-03-11 : Réunion de commission
+      - 2021-03-11 : Réunion de commission
+      - 2021-03-11 : Réunion de commission
+      - 2021-03-12 : Réunion de commission
+      - 2021-03-12 : Réunion de commission
+      - 2021-03-12 : Réunion de commission
+      - 2021-03-13 : Réunion de commission
+      - 2021-03-13 : Réunion de commission
+      - 2021-03-13 : Réunion de commission
+      - 2021-03-14 : Réunion de commission
+      - 2021-03-14 : Réunion de commission
+      - 2021-03-14 : Réunion de commission
+      - 2021-03-15 : Réunion de commission
+      - 2021-03-15 : Réunion de commission
+      - 2021-03-15 : Réunion de commission
+      - 2021-03-16 : Réunion de commission
+      - 2021-03-16 : Réunion de commission
+      - 2021-03-17 : Réunion de commission
+      - 2021-03-17 : Réunion de commission
+      - 2021-03-17 : Réunion de commission
+      - 2021-03-18 : Réunion de commission
+      - 2021-03-18 : Réunion de commission
+      - 2021-03-18 : Réunion de commission
+      - 2021-03-29 : Réunion de commission
+      - 2021-04-02 : Réunion de commission
+      - 2021-04-09 : Réunion de commission
+      - 2021-04-15 : Réunion de commission
+      - 2021-03-19 : Dépôt de rapport (RAPPANR5L15B3995, PRJLANR5L15BTC3995)
+  - Discussion en séance publique
+    - 2021-03-29 : Discussion en séance publique
+    - 2021-03-29 : Discussion en séance publique
+    - 2021-03-30 : Discussion en séance publique
+    - 2021-03-30 : Discussion en séance publique
+    - 2021-03-31 : Discussion en séance publique
+    - 2021-03-31 : Discussion en séance publique
+    - 2021-04-01 : Discussion en séance publique
+    - 2021-04-01 : Discussion en séance publique
+    - 2021-04-02 : Discussion en séance publique
+    - 2021-04-02 : Discussion en séance publique
+    - 2021-04-02 : Discussion en séance publique
+    - 2021-04-06 : Discussion en séance publique
+    - 2021-04-06 : Discussion en séance publique
+    - 2021-04-07 : Discussion en séance publique
+    - 2021-04-07 : Discussion en séance publique
+    - 2021-04-09 : Discussion en séance publique
+    - 2021-04-09 : Discussion en séance publique
+    - 2021-04-09 : Discussion en séance publique
+    - 2021-04-10 : Discussion en séance publique
+    - 2021-04-10 : Discussion en séance publique
+    - 2021-04-10 : Discussion en séance publique
+    - 2021-04-12 : Discussion en séance publique
+    - 2021-04-12 : Discussion en séance publique
+    - 2021-04-13 : Discussion en séance publique
+    - 2021-04-14 : Discussion en séance publique
+    - 2021-04-14 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-15 : Discussion en séance publique
+    - 2021-04-16 : Discussion en séance publique
+    - 2021-04-16 : Discussion en séance publique
+    - 2021-04-16 : Discussion en séance publique
+    - 2021-04-17 : Discussion en séance publique
+    - 2021-04-17 : Discussion en séance publique
+    - 2021-05-04 : Discussion en séance publique
+    - 2021-05-04 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-05-04 : Dépôt d'une initiative en navette (PRJLSNR5S359B0551)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-04 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-06-02 : Dépôt de rapport (RAPPSNR5S359B0666, PRJLSNR5S359BTC0667)
+  - Discussion en séance publique
+    - 2021-06-29 : Discussion en séance publique
+    - 2021-06-29 : Décision
+- Commission Mixte Paritaire
+  - 2021-06-30 : Dépôt d'un projet de loi (PRJLANR5L15B4302)
+  - 2021-06-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-07-12 : Nomination de rapporteur
+    - 2021-07-13 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0766, PRJLSNR5S359BTC0767)
+    - 2021-07-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B4336, PRJLANR5L15BTC4336)
+  - Discussion en séance publique
+    - 2021-07-20 : Discussion en séance publique
+    - 2021-07-20 : Décision
+  - Discussion en séance publique
+    - 2021-07-20 : Discussion en séance publique
+    - 2021-07-20 : Décision
+  - 2021-07-13 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-07-27 : Saisine du conseil constitutionnel
+  - 2021-08-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-08-22 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2023-01-11 : Rapport sur l'application des lois (RINFANR5L16B0689)
