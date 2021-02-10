@@ -267,3 +267,69 @@ Entreprises de covoiturage |
 67 |
 
 Entreprises de transport ferroviaire international de voyageurs |
+
+68 |
+
+Culture de plantes à boissons
+
+|
+
+69 |
+
+Culture de la vigne
+
+|
+
+70 |
+
+Production de boissons alcooliques distillées
+
+|
+
+71 |
+
+Fabrication de vins effervescents
+
+|
+
+72 |
+
+Vinification
+
+|
+
+73 |
+
+Fabrication de cidre et de vins de fruits
+
+|
+
+74 |
+
+Production d'autres boissons fermentées non distillées
+
+|
+
+75 |
+
+Intermédiaire du commerce en vins ayant la qualité d'entrepositaire agréé en application de l'article 302 G du code général des impôts
+
+|
+
+76 |
+
+Commerçant de gros en vins ayant la qualité d'entrepositaire agréé en application de l'article 302 G du code général des impôts
+
+|
+
+77 |
+
+Intermédiaire du commerce en spiritueux exerçant une activité de distillation
+
+|
+
+78 |
+
+Commerçant de gros en spiritueux exerçant une activité de distillation
+
+|

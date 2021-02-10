@@ -2,11 +2,11 @@
 
 1 |
 
-Culture de plantes à boissons |
+Supprimé |
 
 2 |
 
-Culture de la vigne |
+Supprimé |
 
 3 |
 
@@ -26,23 +26,23 @@ Aquaculture en eau douce |
 
 7 |
 
-Production de boissons alcooliques distillées |
+Supprimé |
 
 8 |
 
-Fabrication de vins effervescents |
+Supprimé |
 
 9 |
 
-Vinification |
+Supprimé |
 
 10 |
 
-Fabrication de cidre et de vins de fruits |
+Supprimé |
 
 11 |
 
-Production d'autres boissons fermentées non distillées |
+Supprimé |
 
 12 |
 
@@ -358,7 +358,7 @@ Réparation de chaussures et d'articles en cuir |
 
 90 |
 
-Entreprises artisanales réalisant au moins 50 % de leur chiffre d'affaires par la vente de leurs produits ou services sur les foires et salons |
+Entreprises artisanales et commerçants réalisant au moins 50 % de leur chiffre d'affaires par la vente de leurs produits ou services sur les foires et salons |
 
 91 |
 
@@ -471,3 +471,57 @@ Autres mises à disposition de ressources humaines lorsqu'au moins 50 % du chiff
 118 |
 
 Fabrication de meubles de bureau et de magasin lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie ou de la restauration |
+
+119 |
+
+Commerce de détail d'articles de sport en magasin spécialisé lorsqu'au moins 50 % du chiffre d'affaires est réalisé dans la vente au détail de skis et de chaussures de ski
+
+|
+
+120 |
+
+Fabrication de matériel de levage et de manutention lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+121 |
+
+Fabrication de charpentes et autres menuiseries lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+122 |
+
+Services d'architecture lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+123 |
+
+Activités d'ingénierie lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+124 |
+
+Fabrication d'autres articles en caoutchouc lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+125 |
+
+Réparation de machines et équipements mécaniques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+126 |
+
+Fabrication d'autres machines d'usage général lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
+
+127 |
+
+Installation de machines et équipements mécaniques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+
+|
