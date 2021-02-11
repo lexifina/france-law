@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200917756
+
+- Question : [SEQ200917756](seq200917756.md) — Remplacement d'un conseiller municipal élu au bénéfice de l'âge démissionnaire
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 990*
+
+Le droit électoral français distingue les scrutins de liste et les scrutins majoritaires. Au scrutin de liste, chaque liste obtient un certain nombre de sièges. Quand un siège devient vacant, par exemple après une démission ou un décès, il est attribué au « suivant de liste », c'est-à-dire au premier candidat non élu sur la liste, ce qui est justifié car cela permet à la liste de conserver le nombre d'élus que les électeurs lui ont conféré. À défaut, il peut rester vacant ou être pourvu au terme d'une élection partielle, mais il n'est jamais attribué à un candidat d'une autre liste. Au scrutin majoritaire, les candidats sont élus individuellement, ou par binôme aux élections départementales. Quand un siège devient vacant, il est attribué au remplaçant de l'élu. À défaut, là encore, il peut rester vacant ou être pourvu au terme d'une élection partielle. Toutefois, attribuer ce siège à un candidat non élu constituerait une remise en cause des droits des électeurs. La circonstance qu'un candidat n'a pas été élu parce qu'il était plus jeune (en cas d'ex-aequo) ne change rien le fait qu'il n'a pas été élu, de la même manière qu'un candidat qui aurait obtenu une voix de moins ne peut pas obtenir un siège devenu vacant. Dans les communes de moins de 1 000 habitants, les candidats sont élus au scrutin plurinominal majoritaire (article L. 252 du code électoral) : les candidatures groupées qu'ils peuvent constituer (article L. 255-3) sont une facilité de présentation et ne modifie aucunement le mode de scrutin. Les principes du droit électoral ne permettant pas d'attribuer un siège à un candidat qui n'a pas été élu, il n'est pas envisageable de mettre en place le mécanisme proposé dans la question écrite.
