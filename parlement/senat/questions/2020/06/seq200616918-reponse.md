@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616918
+
+- Question : [SEQ200616918](seq200616918.md) — Report des élections régionales
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 985*
+
+Conformément aux dispositions de l'article L. 336 du code électoral, les élections régionales ont lieu en même temps que le renouvellement général des conseils départementaux. En outre, l'article L. 192 de ce même code dispose que les conseils départementaux se renouvellent intégralement tous les six ans au mois de mars. Il résulte de la combinaison de ces dispositions que les élections régionales et départementales devaient avoir lieu concomitamment en mars 2021. Cependant, en raison de la situation sanitaire, les mesures palliatives prises face au covid-19, notamment les mesures de confinement et de limitation des rassemblements et des déplacements, sont de nature à perturber la campagne électorale, à nuire à la bonne information des électeurs, à empêcher l'égalité des armes entre les candidats et, en définitive, à attenter à la sincérité du scrutin. C'est pourquoi, dans son rapport remis au Premier ministre le 13 novembre 2020, M. Jean-Louis DEBRE recommande de déposer un projet de loi afin de reporter ces élections au mois de juin 2021. Un projet de loi a été déposé en ce sens au Parlement. Ce projet de loi n'est pas incompatible avec les dispositions de l'article L. 567-1 A du code électoral qui dispose qu'il ne peut être procédé à une modification du régime électoral ou du périmètre des circonscriptions dans l'année qui précède le premier tour d'un scrutin dans la mesure où il s'agit d'un report d'élections, donc de la prolongation du mandat des élus en place et non d'une modification du régime électoral. En tout état de cause, les dispositions de cet article ne sont pas de niveau supra-légal, il est donc possible d'y déroger par une loi.
