@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200516425
+
+- Question : [SEQ200516425](seq200516425.md) — Élections municipales
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 976*
+
+L'inscription sur les listes électorales d'une commune nécessite, outre la preuve de la qualité d'électeur, d'apporter la justification de son attache avec la commune. Celle-ci peut être établie par plusieurs voies, parmi lesquelles la preuve du domicile réel ou celle de la résidence de plus de six mois dans la commune, toutes deux prévues par l'article L. 11 du code électoral. La jurisprudence de la Cour de cassation estime que le domicile réel est, au sens de l'article 102 du code civil, le lieu où la personne a son « principal établissement », c'est-à-dire son lieu d'habitation réel (Cass. 2ème civ., 4 mars 2008, n° 08-60206). Le domicile est donc une notion juridique qui présente le double caractère d'unité (on ne peut avoir qu'un seul domicile) et de stabilité. La notion de résidence se distingue de celle de domicile. Cette résidence résulte du fait d'habiter, au moment de la demande, de manière effective et continue dans la commune. Pour une inscription sur les listes électorales, cette résidence doit être d'une durée de six mois au moins, ce qui semble être le cas de cette personne. La circulaire NOR INTA1830120J du 21 novembre 2018 relative à la tenue des listes électorales et des listes électorales complémentaires rappelle que la preuve de la résidence peut être établie par tout moyen propre à emporter la conviction du maire, par exemple avec la production d'un certificat d'hébergement établi par un tiers, complété par un justificatif établissant la preuve de l'attache du demandeur avec la commune (ex. : un bulletin de salaire récent ou tout autre document sur lequel figure l'adresse de la personne hébergée) et d'une copie de la carte d'identité de l'hébergeant.
