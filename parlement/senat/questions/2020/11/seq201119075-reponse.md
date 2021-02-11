@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119075
+
+- Question : [SEQ201119075](seq201119075.md) — Prêt à un candidat à une élection
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 985*
+
+L'article 26 de la loi n° 2017-1339 du 15 septembre 2017 pour la confiance dans la vie politique a créé un article L. 52-7-1 dans le code électoral afin d'interdire aux personnes physiques de consentir à des candidats des prêts à titre habituel. Le financement de la vie politique était déjà régi par de telles dispositions puisque l'article L. 511-5 du code monétaire et financier interdit de façon générale le fait pour une personne, autre qu'un établissement de crédit ou une société de financement, d'effectuer des opérations de crédit à titre habituel. L'appréciation du caractère « habituel » du prêt relève du pouvoir souverain des juges du fond. Le juge cherche ainsi à déterminer si les prêteurs se constituent une clientèle et se présentent comme des professionnels auprès des différents emprunteurs. À la lumière de ces éléments, le fait pour une personne physique de consentir des prêts à un même candidat sur plusieurs années n'entraînera pas nécessairement la caractérisation de ses prêts en prêts habituels. Dans une décision du 3 décembre 2002, la Cour de cassation a ainsi considéré que « le fait pour une personne non agréée de consentir à titre habituel sur la période comprise entre le 20 février 1975 et le 19 janvier 1984 neuf prêts successifs contenant la remise de fonds à titre onéreux à la disposition d'un même client […] » est insuffisant pour caractériser le caractère habituel des opérations de banques effectuées (Cour de Cassation, chambre commerciale, du 3 décembre 2002, 00-16.957). S'agissant du fait pour une personne physique de consentir un prêt à plusieurs candidats à une même élection dans différentes circonscriptions, le juge saisi au fond appréciera le caractère habituel du prêt selon les critères énoncés ci-avant.
