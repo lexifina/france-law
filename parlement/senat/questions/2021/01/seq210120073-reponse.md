@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120073
+
+- Question : [SEQ210120073](seq210120073.md) — Lutte contre le trafic de stupéfiant
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 991*
+
+Grâce à une collaboration forte entre les ministères de l'Intérieur et de la Justice, une simplification de la procédure pénale a été mise en œuvre concernant l'usage de stupéfiants. Celle-ci permet désormais de sanctionner ce délit d'une amende forfaitaire de 200 € (montant minoré à 150 € et majoré à 450 € en fonction des délais de paiement). L'infraction est constatée par les forces de l'ordre par procès-verbal électronique. Cette mesure a fait l'objet d'un déploiement progressif à compter du 16 juin 2020, sur les ressorts des tribunaux judiciaires de Rennes, Reims, Créteil, Lille et Marseille. Au sein de l'agglomération parisienne, une expérimentation a d'abord été menée dans le Val-de-Marne, dans les circonscriptions de Créteil et Boissy-Saint-Léger, puis dans l'ensemble du département. Depuis le 1er septembre 2020, le dispositif a été généralisé à l'ensemble du territoire national, conformément aux annonces du Premier ministre. Ce nouveau mode de verbalisation évite aux consommateurs de stupéfiants mis en cause d'être conduits au commissariat en vue d'établir une procédure judiciaire classique sous la forme d'une audition libre ou d'une garde à vue. Cette procédure permet une réponse pénale immédiate et, dans un même temps, représente un gain de temps considérable pour les policiers. S'agissant des deux véhicules de police banalisés incendiés à proximité du commissariat de Villejuif le 14 septembre 2020, l'auteur, identifié et interpellé, s'est révélé être un incendiaire compulsif sans lien avec un quelconque trafic de stupéfiants. À ce jour, ce dispositif s'est avéré être un outil efficace et il n'a pas été constaté de lien de cause à effet entre cette nouvelle procédure répressive et les atteintes faites aux policiers.
