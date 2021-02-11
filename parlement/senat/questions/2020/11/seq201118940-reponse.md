@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118940
+
+- Question : [SEQ201118940](seq201118940.md) — Compensations et garanties fiscales pour les collectivités territoriales des territoires ruraux industrialisés
+
+## Réponse
+
+*Comptes publics, JO du 2021-02-11, page 955*
+
+Dans le cadre du plan de relance, le Gouvernement a souhaité alléger les impôts de production payés par les entreprises. Ainsi, l'article 29 de la loi de finances initiale (LFI) pour 2021 prévoit la réduction de moitié des bases de la taxe foncière sur les propriétés bâties (TFPB) et de la cotisation foncière des entreprises (CFE) des établissements industriels. Le même article institue une compensation de la perte de recettes des collectivités locales : le coût de la mesure (3,3 Md€ environ) pour les communes et les établissements publics de coopération intercommunale (EPCI) dotés d'une fiscalité propre sera compensé par un prélèvement sur les recettes de l'État. Dynamique, cette compensation sera égale chaque année au produit obtenu en multipliant la perte de bases, résultant de la mesure, par le taux de TFPB et de CFE voté par la collectivité concernée en 2020. S'agissant de la baisse attendue, en raison de la crise sanitaire, de la cotisation sur la valeur ajoutée des entreprises (CVAE) versée en 2021 aux collectivités locales, l'article 74 de la LFI pour 2021, prévoit de proroger en 2021 le mécanisme de compensation des pertes de recettes fiscales institué pour 2020 par la troisième loi de finances rectificative pour 2020. Cette prorogation permettra de compenser la baisse attendue de CVAE en 2021. À ce jour, celle-ci s'établit d'ailleurs en moyenne à 2,2 % sur l'ensemble du territoire, et non à 15 % comme initialement redouté. Ces mesures illustrent le soutien important apporté par l'État aux collectivités territoriales face à la baisse de leurs recettes fiscales.
