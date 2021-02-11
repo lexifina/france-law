@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118832
+
+- Question : [SEQ201118832](seq201118832.md) — Augmentation de l'effectif de l'opération « sentinelle » sur notre territoire
+
+## Réponse
+
+*Armées, JO du 2021-02-11, page 943*
+
+En cas de crise, dont la gravité et la portée nationale conduisent les autorités gouvernementales à activer le dispositif de gestion interministérielle de crise, les armées sont en mesure de déployer une force à dominante terrestre pour participer à la protection du territoire national en appui, en soutien ou en complément des dispositifs de sécurité intérieure et de sécurité civile mis en place par le ministère de l'intérieur. Le 12 janvier 2015, compte tenu du niveau de la menace terroriste, le Président de la République avait décidé la mise en œuvre du contrat protection. Cette décision s'était traduite par le déploiement, en trois jours, de plus de 10 000 soldats sur le territoire national. Le 22 janvier 2015, l'opération Sentinelle était officiellement lancée. Le niveau maximal de déploiement de 10 000 hommes a été à nouveau atteint à la suite d'attentats survenus en novembre 2015 et en juillet 2016. À la suite des attaques terroristes survenues en octobre 2020, le Président de la République a décidé d'augmenter les effectifs déployés sur le territoire national de 4 000 militaires. Les armées y ont répondu en s'appuyant sur l'échelon de renforcement planifié composé d'unités en alerte. Ce déploiement rapide et conséquent a permis aux différentes zones de défense de participer au renforcement de la sécurité des cérémonies religieuses pour la Toussaint, mais également de la rentrée scolaire du 2 novembre et des cérémonies de commémoration du 11 novembre. Les 4 000 militaires ont été déployés en une semaine. Les armées ont pu répondre à la demande du Président de la République sans solliciter des unités déployées en opérations extérieures et sans rappeler des militaires en permissions ou en congés de fin de campagne.
