@@ -354,15 +354,9 @@ TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE BAYET
 
 FR-new-03014555 |
 
-KERNAMAN |
+Total Direct Energie |
 
-KERNAMAN |
-
-FR-NEW-12929 |
-
-CHARTRES METROPOLE ENERGIES |
-
-CHAUFFAGE URBAIN DE LA MADELEINE (Chartres Métropole Energie) |
+Total Direct Energie Centrale électrique Saint Avold |
 
 FR-new-05803742 |
 

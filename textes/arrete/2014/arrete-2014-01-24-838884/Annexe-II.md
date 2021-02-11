@@ -3932,11 +3932,11 @@ Saint Louis Sucre-Cagny
 
 |
 
-37 924
+-
 
 |
 
-325 388
+287 464
 
 |
 
@@ -11006,7 +11006,7 @@ MONT SAINT-AIGNAN ENERGIE VERTE
 
 |
 
-Chaufferie urbaine de Mont-Saint-Aignan
+MONT SAINT-AIGNAN ENERGIE VERTE
 
 |
 
@@ -11030,7 +11030,7 @@ Chaufferie urbaine de Mont-Saint-Aignan
 
 |
 
-7 465
+3 733
 
 |
 
@@ -11038,11 +11038,11 @@ Chaufferie urbaine de Mont-Saint-Aignan
 
 |
 
-4 863
+2 432
 
 |
 
-81 217
+75 054
 
 |
 

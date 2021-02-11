@@ -1764,7 +1764,7 @@ SANOFI CHIMIE
 
 |
 
-Sanofi chimie Vitry
+SANOFI CHIMIE VITRY
 
 |
 
@@ -1776,31 +1776,31 @@ Sanofi chimie Vitry
 
 |
 
-30 515
+15 258
 
 |
 
-29 953
+14 977
 
 |
 
-29 386
+14 693
 
 |
 
-28 813
+14 407
 
 |
 
-28 233
+14 117
 
 |
 
-27 651
+13 826
 
 |
 
-237 242
+149 969
 
 |
 
@@ -9488,9 +9488,7 @@ FR000000000001005
 
 |
 
-ASCOVAL SAINT SAULVE
-
-|
+LIBERTY ASCOVAL |
 
 Acièrie de Saint Saulve
 

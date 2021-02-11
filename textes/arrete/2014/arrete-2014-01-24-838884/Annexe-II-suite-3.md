@@ -1418,7 +1418,7 @@ SAS LB
 
 |
 
-LUR BERRI SILO DE CAME
+SAS LB CAME
 
 |
 
@@ -1450,11 +1450,11 @@ LUR BERRI SILO DE CAME
 
 |
 
-316
+-
 
 |
 
-9 347
+9 031
 
 |
 
@@ -1510,11 +1510,11 @@ FR-new-05202636
 
 |
 
-Euralis Coop
+EURALIS SEMENCES
 
 |
 
-Euralis Coop Semences
+EURALIS SEMENCES
 
 |
 
@@ -1898,7 +1898,7 @@ EIFFAGE génie civil-GTE
 
 |
 
-Centrale mobile d'enrobage MI708
+Centrale mobile d'enrobage MI 708-Eiffage GC GTE
 
 |
 
@@ -1930,11 +1930,11 @@ Centrale mobile d'enrobage MI708
 
 |
 
-380
+-
 
 |
 
-9 018
+8 638
 
 |
 
@@ -2682,11 +2682,11 @@ SOCIETE LAITIERE DE VITRE
 
 FR-new-05501580 |
 
-Celluloses De la Loire
+OMNI-PAC GROUP
 
 |
 
-Celluloses De la Loire |
+OMNI-PAC GROUP |
 
 0 |
 
@@ -4994,11 +4994,11 @@ FR-new-05900536
 
 |
 
-ARMSTRONG BUILDING PRODUCTS SAS
+KNAUF CEILING SOLUTIONS SAS
 
 |
 
-ARMSTRONG BUILDING PRODUCTS SAS
+KNAUF CEILING SOLUTIONS SAS
 
 |
 
@@ -6044,11 +6044,11 @@ FR-new-06103721
 
 |
 
-Rhodia Opérations
+POLYTECHNYL
 
 |
 
-Rhodia Belle Etoile Engineering Plastics
+POLYTECHNYL Belle-Etoile Engineering Plastics
 
 |
 
@@ -6140,11 +6140,11 @@ FR-new-06103725
 
 |
 
-Rhodia Opérations
+POLYTECHNYL
 
 |
 
-Rhodia Belle Etoile - Polyamide & Intermediates
+POLYTECHNYL Belle-Etoile Polyamides Intermediates
 
 |
 
@@ -10186,7 +10186,7 @@ COOPERATIVE AGRICOLE DE CEREALES
 
 |
 
-CAC OTTMARSHEIM
+SECHOIR CAC OTTMARSHEIM
 
 |
 
@@ -10218,11 +10218,11 @@ CAC OTTMARSHEIM
 
 |
 
-891
+1782
 
 |
 
-26 387
+27 278
 
 |
 
@@ -13100,11 +13100,11 @@ FR-new-07208224
 
 |
 
-EIFFAGE génie civil grands travaux enrobés
+APPIA Grands Travaux
 
 |
 
-Centrale d'enrobage au bitume de matériaux routiers à chaud
+Centrale mobile d'enrobage MI 744-Eiffage GC GTE
 
 |
 
@@ -13136,11 +13136,11 @@ Centrale d'enrobage au bitume de matériaux routiers à chaud
 
 |
 
-192
+-
 
 |
 
-2 580
+2 388
 
 |
 
@@ -14410,23 +14410,23 @@ COGESTAR 3
 
 Installation de cogénération-CEA Saclay |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+497 |
 
-/ |
+2 445 |
 
-/ |
+1 937 |
 
-/ |
+4 879 |
 
 FR-new-06412998 |
 
@@ -14560,11 +14560,11 @@ IMERYS-Salin-de-Giraud |
 
 FR-new-05800439 |
 
-CHEVRON ORONITE S. A. S
+Chevron Oronite S. A. S
 
 |
 
-CHEVRON ORONITE Gonfreville l'Orcher |
+Chevron Oronite Gonfreville l'Orcher |
 
 - |
 
@@ -14576,13 +14576,13 @@ CHEVRON ORONITE Gonfreville l'Orcher |
 
 - |
 
-/ |
+- |
 
-/ |
+46 926 |
 
-/ |
+46 015 |
 
-/ |
+92 941 |
 
 FR-new-52900449 |
 
@@ -14638,11 +14638,11 @@ OMYA-Site d'Orgon |
 
 FR-new-10012929 |
 
-CHARTRES METROPOLE ENERGIES SPL
+SPL CHARTRES METROPOLE ENERGIES
 
 |
 
-CHARTRES METROPOLE ENERGIES |
+SPLCHARTRES METROPOLE ENERGIES |
 
 - |
 
@@ -14656,11 +14656,11 @@ CHARTRES METROPOLE ENERGIES |
 
 - |
 
-/ |
+1 376 |
 
-/ |
+1 133 |
 
-/ |
+2 509 |
 
 FR-new-06802412 |
 

@@ -1286,11 +1286,11 @@ Total raffinerie de Feyzin
 
 FR000000000000428 |
 
-ENGIE ENERGIE SERVICES-COFELY
+PLATEAU NORD ENERGIE
 
 |
 
-Chaufferie des Semailles à Rillieux-la-Pape COFELY
+Chaufferie des Semailles Rillieux la Pape
 
 |
 
@@ -1812,31 +1812,31 @@ Société des Véhicules Automobiles de Batilly (SOVAB)
 
 FR000000000000453 |
 
-Brasserie Champigneulles SAS
+BRASSERIE CHAMPIGNEULLES
 
 |
 
-Brasserie Champigneulles SAS
+BRASSERIE CHAMPIGNEULLES SAS
 
 |
 
-8 419 |
+7 581 |
 
-7 535 |
+6 785 |
 
-6 673 |
+6 009 |
 
-5 840 |
+5 258 |
 
-5 030 |
+4 529 |
 
-4 248 |
+3 825 |
 
-3 490 |
+3 143 |
 
-2 761 |
+2 486 |
 
-43 996 |
+39 616 |
 
 FR000000000000454 |
 
@@ -3346,17 +3346,17 @@ DALKIA-SODEVAR Puits Vouters
 
 3 988 |
 
-3 491 |
+1 746 |
 
-3 009 |
+1 505 |
 
-2 543 |
+1 272 |
 
-2 092 |
+1 046 |
 
-1 657 |
+829 |
 
-35 845 |
+29 451 |
 
 FR000000000000523
 
@@ -5110,11 +5110,11 @@ GB FOODS PRODUCTION France |
 
 4 008 |
 
-3 294 |
+390 |
 
-2 606 |
+309 |
 
-41 523 |
+36 322 |
 
 FR000000000000599
 
@@ -6092,9 +6092,9 @@ Centrale thermique Bât. 128 |
 
 1 632 |
 
-1 291 |
+- |
 
-20 572 |
+19 281 |
 
 FR000000000000646 |
 

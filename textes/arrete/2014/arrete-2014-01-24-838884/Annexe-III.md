@@ -150,6 +150,30 @@ COOPERATIVE ISIGNY SAINTE MERE |
 
 51 818 |
 
+FR000000000000181 |
+
+SOLEVAL OUEST |
+
+SOLEVAL OUEST |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+89 |
+
+622 |
+
+492 |
+
+1203 |
+
 FR000000000000217 |
 
 Société de Distribution de Chaleur de Moulins |
@@ -1327,3 +1351,27 @@ ACIDE NITRIQUE 5-MAXAM TAN SAS |
 9 247 |
 
 27 131 |
+
+FR-new-05403160 |
+
+DIJON ENERGIES |
+
+DIJON ENERGIES-Chaufferie des Péjoces |
+
+0 |
+
+0 |
+
+19 796 |
+
+17 327 |
+
+14 935 |
+
+13 975 |
+
+15 874 |
+
+12 573 |
+
+94 480 |
