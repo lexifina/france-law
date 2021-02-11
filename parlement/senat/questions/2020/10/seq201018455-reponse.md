@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018455
+
+- Question : [SEQ201018455](seq201018455.md) — Relocalisation en France de la production de munitions de petit calibre
+
+## Réponse
+
+*Armées, JO du 2021-02-11, page 941*
+
+Les armes de petit calibre équipant nos armées sont, pour l'essentiel, en cours de renouvellement. Trois contrats ont effet été conclus ces dernières années pour l'acquisition de fusils d'assaut, de pistolets automatiques et de fusils de précision, respectivement auprès des entreprises européennes Heckler & Koch, Glock et FN Herstal. Concernant les munitions associées, à la fin des années 1990, l'industrie français positionné sur ce segment a arrêté son activité et le Ministère a été conduit à s'approvisionner sur le marché mondial. La sécurisation de la disponibilité des munitions pour les besoins des forces est assurée notamment par la constitution de stocks. Dans le prolongement des conclusions de la mission parlementaire conduite en 2015 par les députés Nicolas Bays et Nicolas Dhuicq sur la filière munitions, les sociétés Sofisport (et sa filiale Nobelsport SA, champion mondial de la poudre et des cartouches de chasse) et Thales ont conjointement proposé au printemps 2017 de reconstituer une filière nationale de production implantée à Pont-de-Buis (Finistère). L'analyse alors menée par le ministère des armées a conclu que ce projet ne serait pas compétitif au niveau mondial, malgré un important investissement initial de l'État, et qu'il serait difficile de gagner des marchés à l'exportation. Par ailleurs, la sécurisation juridique des commandes à passer pour permettre le démarrage d'un tel projet n'était pas assurée. Cette analyse a été partagée avec les industriels concernés. Le ministère des armées reste vigilant sur ce sujet et ouvert à tout examen de projets portés par des industriels dans cette filière, afin d'examiner les différents soutiens permettant d'en faciliter l'émergence.
