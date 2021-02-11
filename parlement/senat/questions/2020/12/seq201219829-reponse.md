@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219829
+
+- Question : [SEQ201219829](seq201219829.md) — Demande de réponse à une question écrite relative aux ordures ménagères
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-02-11, page 952*
+
+L'article L. 2333-76 du code général des collectivités territoriales (CGCT) prévoit que les communes et leurs groupements qui bénéficient de la compétence prévue à l'article L. 2224-13 du CGCT, peuvent instituer une redevance d'enlèvement des ordures ménagères calculée en fonction du service rendu dès lors qu'ils assurent au moins la collecte des déchets des ménages. Cette redevance pour service rendu trouve sa contrepartie directe dans la prestation rendue aux usagers du service (Conseil d'État, arrêt du 24 mai 2006, requête n° 283070). Les usagers qui déposent eux-mêmes leurs ordures ménagères dans des bacs situés par la collectivité compétente sur le circuit de ramassage des déchets, doivent s'acquitter du paiement de la redevance dans la mesure où ils recourent bien au service d'enlèvement et de traitement des déchets, même si leurs habitations ne sont pas elles-mêmes situées sur le circuit de ramassage des déchets. Toutefois, les usagers peuvent être exonérés du paiement de la redevance pour enlèvement des ordures ménagères s'ils apportent la preuve qu'ils n'utilisent pas le service d'enlèvement et de traitement des déchets ménagers et assimilés (Conseil d'État, arrêt du 5 décembre 1990, requête n° 59891, Cass. Com, arrêt du 26 février 2002, n° 488 FS-P). Ainsi, ils doivent démontrer que leurs déchets sont éliminés conformément aux dispositions du L. 541-2 du code de l'environnement. À titre d'exemple, le redevable doit pouvoir apporter la preuve que les déchets produits ont bien été confiés à des entreprises spécialisées dans le traitement des déchets (Cour de Cassation, troisième chambre civile, arrêt du 16 janvier 2020, n° 19-10.709).
