@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113947
+
+- Question : [SEQ200113947](seq200113947.md) — Financement d'une campagne électorale par le biais d'une cagnotte en ligne
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 978*
+
+La loi n° 2019-1269 du 2 décembre 2019 visant à clarifier diverses dispositions du droit électoral a modifié les articles L. 52-5 et L. 52-6 du code électoral pour donner la possibilité aux mandataires financiers et aux associations de financement de recourir à des prestataires de services de paiement pour recueillir les fonds en ligne. Le nouvel article R. 39-1-1 du code électoral prévoit que c'est bien le mandataire financier, et non pas le candidat lui-même, qui peut avoir recours à ce type de prestataires. Pour les élections municipales dans les communes de moins de 9 000 habitants, les candidats ou listes de candidats n'ont pas l'obligation de désigner un mandataire financier ou une association de financement électorale, ni de déposer un compte de campagne auprès de la commission nationale des comptes de campagne et des financements politiques. Aussi, les articles L. 52-5 et L. 52-6 du code électoral ne leur sont pas applicables. Toutefois, dans le silence des textes, rien n'interdit à ces candidats d'avoir recours à un système de paiement en ligne ou à une plateforme de financement participatif pour le financement de leur campagne électorale. Le recours à de tels instruments doit s'opérer dans le respect des autres dispositions du code électoral qui sont applicables aux élections municipales dans toutes les communes, notamment l'interdiction de financement de la campagne par une personne morale à l'exception d'un parti ou d'un groupement politique et la limitation des dons des personnes physiques à 4 600 euros par donateur lors des mêmes élections (article L. 52-8 du code électoral).
