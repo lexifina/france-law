@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616986
+
+- Question : [SEQ200616986](seq200616986.md) — Critères de labellisation des maisons France services
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-02-11, page 944*
+
+Le Président de la République a décidé le 25 avril 2019 la mise en place d'un réseau France Services, afin d'accompagner les citoyens dans les principales démarches administratives, au plus près du terrain. Le réseau France Services poursuit trois objectifs : meilleure accessibilité des services publics, simplification des démarches, renforcement de la qualité de services. L'objectif est de couvrir, d'ici fin 2022, l'ensemble des cantons. Au total, et en fonction des besoins, ce sont environ 2 500 structures qui seront déployées sur le territoire, soit un peu plus d'une par canton. Pour soutenir le déploiement du réseau des France Services, le financement en fonctionnement des MSAP en cours de montée de gamme ainsi que des France Services nouvellement labellisées a été forfaitisé et porté à hauteur de 30 000 euros par an par structure, financés à parité par le fonds national d'aménagement du territoire (FNADT) et le fonds national France Services (FNFS). En outre, afin de respecter ces délais ambitieux et répondre au plus vite aux attentes de nos concitoyens, les MSAP souhaitant être labellisées France Services peuvent bénéficier d'un accompagnement par les préfectures de département, en lien avec les élus locaux. Concernant le critère de présence de deux agents d'accueil, il est à noter que ceux-ci peuvent être affectés à plein temps ou à temps partiel, en tenant compte à la fois des besoins des usagers et de la structure. Si la présence des deux agents ne peut être matériellement assurée, l'unique agent de la structure France Services doit être en mesure d'assurer un service public de proximité au moins vingt-quatre heures par semaine, sur cinq jours ouvrés.
