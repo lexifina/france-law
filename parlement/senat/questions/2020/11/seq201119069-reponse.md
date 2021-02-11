@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119069
+
+- Question : [SEQ201119069](seq201119069.md) — Accès à un mandat d'un suppléant ou suivant de liste
+
+## Réponse
+
+*Intérieur, JO du 2021-02-11, page 976*
+
+La situation d'éligibilité du suppléant ou suivant de liste est appréciée à deux reprises, au jour du scrutin et au moment où il est appelé à siéger. En effet, de façon générale, le Conseil d'État, saisi de cette question, contrôle l'éligibilité des candidats « à la date du premier tour de scrutin » (voir par exemple Conseil d'État, n° 318249, 11 mars 2009, « Élection municipale de l'Huez »). Toutefois, s'agissant de la situation particulière du suivant de liste, c'est-à-dire d'un candidat non élu à l'issue du scrutin mais appelé à occuper un siège devenu vacant à la suite du départ d'un candidat élu de sa liste, la juridiction administrative a jugé que son éligibilité était aussi appréciée « à la date à laquelle il a été appelé à siéger au conseil municipal » (Conseil d'Etat, 29 janvier 1999 « Commune de Saint-Philippe et M. Boyer », n° 197371 et 197372). Le tribunal administratif (TA) de Lyon avait synthétisé la position de la jurisprudence sur la double appréciation de l'éligibilité du suivant de liste : « il résulte de la combinaison des articles L. 228 et L. 270 que l'éligibilité du candidat appelé à remplacer en cours de mandat un conseiller démissionnaire doit, si elle est contestée, être appréciée à la fois à la date des opérations électorales initiales et à la date à laquelle le siège vacant lui est effectivement attribué » (TA Lyon, 2 juillet 1987, Élection municipale de Rive-de-Gier, AJDA 1988). En d'autres termes, le suppléant, appelé à devenir conseiller municipal devenu inéligible alors même qu'il était éligible au moment des élections, ne peut remplacer le colistier qui a démissionné.
