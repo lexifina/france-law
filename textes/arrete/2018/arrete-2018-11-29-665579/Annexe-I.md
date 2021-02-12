@@ -1,20 +1,30 @@
 # Article Annexe I
 
-ANNEXE I
-
-LOCALISATION DES EMPLOIS À FORTE RESPONSABILITÉ BÉNÉFICIANT DE LA NOUVELLE BONIFICATION INDICIAIRE ET DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'OUTRE-MER
-
-1° Périmètre administration centrale, établissements publics et services à compétence nationale
+1° Périmètre administration centrale, établissements publics et services à compétence nationale :
 
 Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité (EFR) |
+de NBI |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -38,7 +48,7 @@ Chargé de mission préfiguration de la juridiction administrative spécialisée
 
 1 |
 
-Chef de cabinet |
+Chef de cabinet. |
 
 30 |
 
@@ -48,7 +58,7 @@ Chef de cabinet |
 
 Direction de la modernisation et de l'action territoriale |
 
-Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au chef du bureau de l'organisation et des missions de l'administration territoriale au sein de la sous-direction de l'administration territoriale |
+Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au chef du bureau de l'organisation et des missions de l'administration territoriale au sein de la sous-direction de l'administration territoriale. |
 
 30 |
 
@@ -56,7 +66,7 @@ Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au c
 
 1 |
 
-Adjoint au chef du bureau de la performance et des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale |
+Adjoint au chef du bureau de la performance et des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale. |
 
 30 |
 
@@ -216,7 +226,7 @@ Chef du bureau de la gestion des sites de l'administration centrale au sein de l
 
 1 |
 
-Chef du bureau stratégie et performance achat au sein de la sous-direction stratégie et pilotage de la performance achat du service de l'achat, de l'innovation et de la logistique |
+Chef du bureau stratégie et performance achat au sein de la sous-direction stratégie et pilotage de la performance achat du service de l'achat, de l'innovation et de la logistique. |
 
 50 |
 
@@ -224,7 +234,7 @@ Chef du bureau stratégie et performance achat au sein de la sous-direction stra
 
 1 |
 
-Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'achat et du suivi de l'exécution des marchés du service de l'achat, de l'innovation et de la logistique |
+Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'achat et du suivi de l'exécution des marchés du service de l'achat, de l'innovation et de la logistique. |
 
 50 |
 
@@ -232,7 +242,7 @@ Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'ach
 
 1 |
 
-Chef du bureau logistique de la mobilité au sein de la sous-direction de la logistique et de l'approvisionnement du service de l'achat, de l'innovation et de la logistique |
+Chef du bureau logistique de la mobilité au sein de la sous-direction de la logistique et de l'approvisionnement du service de l'achat, de l'innovation et de la logistique. |
 
 30 |
 
@@ -290,9 +300,7 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des
-
-politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
+Chef du bureau du pilotage des politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
 
 50 |
 
@@ -348,7 +356,7 @@ Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouver
 
 1 |
 
-Chef de cabinet |
+Chef de cabinet. |
 
 30 |
 
@@ -382,7 +390,15 @@ Chef de cabinet. |
 
 1 |
 
-Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique |
+Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique. |
+
+30 |
+
+- |
+
+1 |
+
+Chef du bureau de la relation avec les opérateurs et agences. |
 
 30 |
 
@@ -394,7 +410,9 @@ Direction générale de la police nationale |
 
 Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
-60 |
+60
+
+|
 
 - |
 
@@ -423,8 +441,6 @@ Chef du département des réserves opérationnelles de la police nationale au se
 - |
 
 1 |
-
-|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -540,7 +556,7 @@ Chef du bureau de la modernisation et de valorisation des ressources humaines à
 
 Direction générale de la sécurité intérieure |
 
-Un poste |
+Un poste. |
 
 50 |
 
@@ -676,7 +692,7 @@ Chef du bureau du personnel civil à la sous-direction de la gestion du personne
 
 1 |
 
-Chargé de mission auprès du chef du service de la transformation |
+Chargé de mission auprès du chef du service de la transformation. |
 
 30 |
 
@@ -684,7 +700,7 @@ Chargé de mission auprès du chef du service de la transformation |
 
 1 |
 
-Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
+Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale. |
 
 20 |
 
@@ -724,7 +740,7 @@ Chef du bureau des ressources financières à la sous-direction des supports op�
 
 1 |
 
-Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances |
+Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances. |
 
 50 |
 
@@ -733,14 +749,6 @@ Chef du bureau de l'administration à la sous-direction administrative et financ
 1 |
 
 Délégation à la sécurité routière |
-
-Chef du bureau de la réglementation du permis de conduire et de l'organisation des examens à la sous-direction de l'éducation routière et du permis de conduire. |
-
-30 |
-
-- |
-
-1 |
 
 Chef du bureau national des droits à conduire à la sous-direction de l'éducation routière et du permis de conduire. |
 
@@ -774,7 +782,7 @@ Adjoint au chef du département de contrôle automatisé. |
 
 1 |
 
-Service national de police scientifique |
+Institut national de police scientifique |
 
 Secrétaire général. |
 
@@ -782,23 +790,33 @@ Secrétaire général. |
 
 - |
 
-1
+1 |
 
-|
-
-2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
+2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur :
 
 Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -864,23 +882,19 @@ Directeur des ressources humaines. |
 
 - |
 
-|
-
 Adjoint directeur de l'administration générale et des finances. |
 
 - |
 
-|
+- |
 
 1 |
-
-|
 
 Adjoint au directeur des ressources humaines du SGAMI de la zone de défense et de sécurité Ouest. |
 
 - |
 
-|
+- |
 
 1 |
 
@@ -936,7 +950,7 @@ Chargé de mission auprès du préfet délégué pour la sécurité et de défen
 
 1 |
 
-Adjoint au directeur des ressources humaines |
+Adjoint au directeur des ressources humaines. |
 
 - |
 
@@ -962,25 +976,37 @@ Directeur des ressources humaines. |
 
 1 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris :
 
 Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
 Service du cabinet |
 
-Adjoint au chef de service du cabinet |
+Adjoint au chef de service du cabinet. |
 
 50 |
 
@@ -1068,7 +1094,7 @@ Chef du bureau de la gestion des carrières des gradés, gardiens et adjoints de
 
 Direction de l'immobilier et de l'environnement |
 
-Chef du département juridique et budgétaire |
+Chef du département juridique et budgétaire. |
 
 50 |
 
@@ -1076,7 +1102,7 @@ Chef du département juridique et budgétaire |
 
 1 |
 
-Secrétaire général |
+Secrétaire général. |
 
 50 |
 
@@ -1176,9 +1202,7 @@ Chef du bureau des taxis et des transports publics au sein de la sous-direction 
 
 1 |
 
-Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-
-
-direction de la protection sanitaire et de l'environnement. |
+Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction de la protection sanitaire et de l'environnement. |
 
 50 |
 
@@ -1240,7 +1264,7 @@ Chef du service des finances, des achats et des moyens, adjoint au sous-directeu
 
 Direction du renseignement de la préfecture de police |
 
-Chef de la division des affaires générales |
+Chef de la division des affaires générales. |
 
 30 |
 
@@ -1248,25 +1272,37 @@ Chef de la division des affaires générales |
 
 1 |
 
-4° Périmètre services de police nationale
+4° Périmètre services de police nationale :
 
 Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
 06 DDSP des Alpes Maritimes |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1276,7 +1312,7 @@ Chef de service de gestion opérationnelle |
 
 13 DDSP des Bouches-du-Rhône |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 50 |
 
@@ -1296,7 +1332,7 @@ Chef de la division de la logistique. |
 
 13 DZPAF |
 
-Chef de la division de l'administration et des finances |
+Chef de la division de l'administration et des finances. |
 
 20 |
 
@@ -1306,7 +1342,7 @@ Chef de la division de l'administration et des finances |
 
 30 Direction centrale du recrutement et de la formation de la police nationale |
 
-Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud |
+Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud. |
 
 20 |
 
@@ -1316,7 +1352,7 @@ Adjoint au directeur de l'école nationale de police de Nîmes, responsable du d
 
 31 DDSP Haute Garonne |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 20 |
 
@@ -1326,7 +1362,7 @@ Chef de service de gestion opérationnelle |
 
 33 DDSP de la Gironde |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1346,7 +1382,7 @@ Chef de service de gestion opérationnelle. |
 
 35 DDSP d'Ille et Vilaine |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 20 |
 
@@ -1356,7 +1392,7 @@ Chef de service de gestion opérationnelle |
 
 44 DDSP de la Loire-Atlantique |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1366,7 +1402,7 @@ Chef de service de gestion opérationnelle |
 
 57 DDSP de la Moselle |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1386,7 +1422,7 @@ Chef de service de gestion opérationnelle |
 
 62 DDSP du Pas-de-Calais |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1396,7 +1432,7 @@ Chef de service de gestion opérationnelle |
 
 67 DDSP du Bas-Rhin |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1406,7 +1442,7 @@ Chef de service de gestion opérationnelle |
 
 69 DDSP du Rhône |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 50 |
 
@@ -1416,7 +1452,7 @@ Chef de service de gestion opérationnelle |
 
 69 Ecole nationale supérieure de la police |
 
-Secrétaire général |
+Secrétaire général. |
 
 30 |
 
@@ -1426,7 +1462,7 @@ Secrétaire général |
 
 76 DDSP de la Seine-Maritime |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1436,7 +1472,7 @@ Chef de service de gestion opérationnelle |
 
 77 DDSP de la Seine-et-Marne |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1446,7 +1482,7 @@ Chef de service de gestion opérationnelle |
 
 78 DDSP des Yvelines |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1476,7 +1512,7 @@ Chef de service de gestion opérationnelle |
 
 95 DDSP du Val-d'Oise |
 
-Chef de service de gestion opérationnelle |
+Chef de service de gestion opérationnelle. |
 
 30 |
 
@@ -1494,19 +1530,31 @@ Chef de la division de l'administration et des finances. |
 
 1 |
 
-5° Périmètre services de gendarmerie nationale
+5° Périmètre services de gendarmerie nationale :
 
 Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1560,19 +1608,33 @@ Chef du centre d'études et de documentation |
 
 1 |
 
-6° Périmètre juridictions administratives
+6° Périmètre juridictions administratives :
 
-Juridiction administrative |
+Juridiction
+
+administrative |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1736,6 +1798,16 @@ Greffier en chef |
 
 1 |
 
+TA de Strasbourg |
+
+Greffier en chef |
+
+30 |
+
+- |
+
+1 |
+
 TA de Montreuil. |
 
 Greffier en chef |
@@ -1746,15 +1818,19 @@ Greffier en chef |
 
 1 |
 
-7° Périmètre préfectures
+7° Périmètre préfectures :
 
-Localisation des emplois |
+Localisation
+
+des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total du nombre d'EFR |
+Total
+
+du nombre d'EFR |
 
 60 points |
 
@@ -1764,7 +1840,13 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre d'emplois de CAIOM |
+Total
+
+du nombre
+
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -1932,7 +2014,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -1940,7 +2022,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -1956,7 +2038,7 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -1964,7 +2046,7 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -2052,7 +2134,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2060,7 +2142,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2282,17 +2364,17 @@ Sans point de NBI |
 
 21 Côte-d'Or |
 
-2 |
+1 |
 
 - |
 
 - |
 
-2 |
+1 |
 
 - |
 
-5 |
+4 |
 
 - |
 
@@ -2302,7 +2384,7 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
 22 Côtes-d'Armor |
 
@@ -2316,13 +2398,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2336,21 +2418,21 @@ Sans point de NBI |
 
 - |
 
+1 |
+
+- |
+
+2 |
+
 - |
 
 - |
 
-3 |
-
 - |
 
-- |
+1 |
 
-- |
-
-3 |
-
-- |
+1 |
 
 24 Dordogne |
 
@@ -2412,13 +2494,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2580,11 +2662,11 @@ Sans point de NBI |
 
 - |
 
-7 |
+5 |
 
 - |
 
-5 |
+3 |
 
 - |
 
@@ -2724,7 +2806,7 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -2732,7 +2814,7 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -2820,7 +2902,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2828,7 +2910,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2854,7 +2936,7 @@ Sans point de NBI |
 
 - |
 
-0 |
+- |
 
 45 Loiret |
 
@@ -2874,11 +2956,11 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
-1 |
+2 |
 
 46 Lot |
 
@@ -2916,7 +2998,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2924,7 +3006,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2988,13 +3070,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3036,7 +3118,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3044,7 +3126,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3084,13 +3166,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3108,7 +3190,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3116,7 +3198,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3132,13 +3214,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 1 |
 
-3 |
+2 |
 
 - |
 
@@ -3228,13 +3310,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3300,13 +3382,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3324,13 +3406,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 1 |
 
-3 |
+2 |
 
 - |
 
@@ -3492,13 +3574,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3564,13 +3646,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3612,11 +3694,11 @@ Sans point de NBI |
 
 - |
 
-8 |
+7 |
 
 - |
 
-7 |
+6 |
 
 1 |
 
@@ -3636,9 +3718,9 @@ Sans point de NBI |
 
 - |
 
-7 |
+6 |
 
-7 |
+6 |
 
 - |
 
@@ -3684,13 +3766,13 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3708,13 +3790,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3834,11 +3916,11 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 1 |
 
-- |
+1 |
 
 86 Vienne |
 
@@ -3852,13 +3934,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3876,13 +3958,13 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3900,13 +3982,13 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
 - |
 
-2 |
+1 |
 
 - |
 
@@ -3972,9 +4054,9 @@ Sans point de NBI |
 
 - |
 
-7 |
+6 |
 
-7 |
+6 |
 
 - |
 
@@ -4034,9 +4116,9 @@ Sans point de NBI |
 
 94 Val-de-Marne |
 
-- |
+1 |
 
-- |
+1 |
 
 - |
 
@@ -4046,7 +4128,7 @@ Sans point de NBI |
 
 7 |
 
-5 |
+4 |
 
 - |
 
@@ -4054,7 +4136,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 95 Val-d'Oise |
 
@@ -4296,15 +4378,19 @@ Sans point de NBI |
 
 - |
 
-8° Périmètre secrétariat général commun départemental
+8° Périmètre secrétariat général commun départemental :
 
-Localisation des emplois |
+Localisation
+
+des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total du nombre d'EFR |
+Total
+
+du nombre d'EFR |
 
 60 points |
 
@@ -4314,7 +4400,13 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre d'emplois de CAIOM |
+Total
+
+du nombre
+
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -4398,6 +4490,54 @@ Sans point de NBI |
 
 - |
 
+07 Ardèche |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+08 Ardennes |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
 10 Aube |
 
 - |
@@ -4442,9 +4582,33 @@ Sans point de NBI |
 
 - |
 
-|
+- |
 
 1 |
+
+12 Aveyron |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
 
 14 Calvados |
 
@@ -4518,6 +4682,78 @@ Sans point de NBI |
 
 - |
 
+21 Côte-d'Or |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+22 Côtes d'Armor |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+23 Creuse |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
 24 Dordogne |
 
 - |
@@ -4543,6 +4779,30 @@ Sans point de NBI |
 - |
 
 25 Doubs |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+26 Drôme |
 
 - |
 
@@ -4614,6 +4874,30 @@ Sans point de NBI |
 
 - |
 
+33 Gironde |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+2 |
+
+- |
+
+2 |
+
+- |
+
+- |
+
+- |
+
 37 Indre-et-Loire |
 
 - |
@@ -4635,6 +4919,30 @@ Sans point de NBI |
 1 |
 
 - |
+
+- |
+
+39 Jura |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
 
 - |
 
@@ -4686,6 +4994,30 @@ Sans point de NBI |
 
 - |
 
+43 Haute-Loire |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
 44 Loire Atlantique |
 
 - |
@@ -4710,7 +5042,79 @@ Sans point de NBI |
 
 1 |
 
+45 Loiret |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+47 Lot-et-Garonne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
 49 Maine-et-Loire |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+50 Manche |
 
 - |
 
@@ -4758,6 +5162,126 @@ Sans point de NBI |
 
 - |
 
+52 Haute-Marne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+54 Meurthe-et-Moselle |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+55 Meuse |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+56 Morbihan |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+60 Oise |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
 62 Pas de Calais |
 
 - |
@@ -4777,6 +5301,54 @@ Sans point de NBI |
 1 |
 
 - |
+
+- |
+
+- |
+
+63 Puy de Dôme |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+64 Pyrénées-Atlantiques |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
 
 - |
 
@@ -4807,6 +5379,30 @@ Sans point de NBI |
 - |
 
 68 Haut-Rhin |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+71 Saône-et-Loire |
 
 - |
 
@@ -4878,6 +5474,78 @@ Sans point de NBI |
 
 - |
 
+74 Haute-Savoie |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+76 Seine-Maritime |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+77 Seine-et-Marne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
 78 Yvelines |
 
 - |
@@ -4897,6 +5565,54 @@ Sans point de NBI |
 - |
 
 - |
+
+- |
+
+- |
+
+79 Deux-Sèvres |
+
+|
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+80 Somme |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
 
 - |
 
@@ -4927,6 +5643,102 @@ Sans point de NBI |
 - |
 
 84 Vaucluse |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+85 Vendée |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+86 Vienne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+87 Haute-Vienne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+88 Vosges |
 
 - |
 
@@ -4995,6 +5807,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+- |
+
+91 Essonne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+1 |
+
+- |
+
+- |
+
+- |
 
 - |
 
