@@ -1,0 +1,5 @@
+# Article 23 bis
+
+Le financement des comités sociaux et économiques est assuré conformément aux dispositions législatives et réglementaires en vigueur.
+
+Si l'employeur finance déjà de sa propre initiative un programme de réalisations sociales en faveur de son personnel, ce programme pourra être pris en charge par le comité à concurrence du montant de la contribution indiquée à l'alinéa précédent.
