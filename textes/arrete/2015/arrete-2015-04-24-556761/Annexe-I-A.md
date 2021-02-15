@@ -52,4 +52,14 @@ Territoire de Belfort.
 
 Seine-Saint-Denis.
 
-Val-de-Marne
+Val-de-Marne.
+
+Alpes-Maritimes.
+
+Calvados.
+
+Cantal.
+
+Lozère.
+
+Vaucluse.
