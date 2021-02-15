@@ -62,18 +62,14 @@ Sont concernés les navires mesurant 20 mètres ou plus de longueur hors tout, a
 
 L'autorisation mentionne l'engin de pêche employé par le couple navire-armateur titulaire de l'autorisation. |
 
-Point 9 (1) (a) de la mesure de conservation et de gestion 2017/01 de l'Accord pour les pêcheries du sud de l'Océan Indien (APSOI) |
+Point 10 (1) (a) de la mesure de conservation et de gestion 2020/01 de l'Accord relatif aux pêches dans le sud de l'Océan Indien (APSOI) |
 
 La pêche des espèces non couvertes par la CTOI et la CCSBT, dans la zone de régulation de l'APSOI, est encadrée. L'effort annuel de l'ensemble des navires français est limité au nombre de jours de pêche en 2013 et conditionné au respect des mesures techniques afférentes. |
 
 Au plus tard le 1er décembre de l'année N-1 pour une autorisation de pêche de fond dans la zone APSOI valable l'année N. |
 
-Sont éligibles les navires sous pavillon français (registre communautaire) ayant déclaré des pêcheries démersales entre le 1er janvier et le 31 décembre 2013. |
+Sont éligibles les navires sous pavillon français (registre communautaire) ayant déclaré des pêcheries démersales en zone APSOI entre le 1er janvier et le 31 décembre 2013. |
 
-L'autorisation est limitée dans le temps, mentionne l'engin (seule la palangre et les lignes à main sont autorisées), les espèces ciblées par le couple navire-armateur et l'effort annuel autorisé pour l'ensemble des navires détenteurs d'une autorisation.
-
-Le navire doit accueillir un observateur scientifique pour 20 % de son activité annuelle.
-
-Le navire doit appliquer les seuils de détection des écosystèmes marins définis dans l'annexe sur la rencontre d'écosystèmes marins vulnérables de la demande d'autorisation de pêche dans la zone APSOI. |
+L'autorisation est limitée dans le temps, mentionne l'engin (seule la palangre et les lignes à main sont autorisées), les espèces ciblées par le couple navire-armateur et l'effort annuel autorisé pour l'ensemble des navires détenteurs d'une autorisation. Sauf disposition plus restrictive prévue pour certaines zones par les mesures de conservation et de gestion de l'APSOI, un navire doit accueillir un observateur scientifique pour au moins 20 % de son activité annuelle. Le navire doit appliquer les seuils de détection des écosystèmes marins vulnérables définis par les mesures de conservation et de gestion de l'APSOI. |
 
 (*) Albacore (Thunnus albacares), listao ou bonite à ventre rayé (Katsuwonus pelamis), patudo ou thon obèse (Thunnus obesus), thon rouge du Sud (Thunnus maccoyii), thon mignon (Thunnus tonggo), thonine orientale (Euthynnus affinis), auxide (Auxis thazard), bonitou (Auxis rochei), thazard rayé (Scomberomorus commerson), thazard ponctué (Scomberomorus guttatus), makaire bleu (Makaira mazara), makaire noir (Makaira nigricans), marlin rayé (Tetrapturus audax), voilier de l'Indo-Pacifique (Istiophorus platypterus). |

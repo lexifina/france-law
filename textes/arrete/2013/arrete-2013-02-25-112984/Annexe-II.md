@@ -38,11 +38,11 @@ Au 31 mai inclus de l'année de gestion en cours. |
 
 2. Tout déploiement, toute récupération de dispositifs de concentration de poissons (DCP) dans le cadre de la capture de thonidés tropicaux doivent être consignés dans un carnet de pêche mentionnant la position, la date, le DCP utilisé et les résultats de l'opération.
 
-1. Les captures de thonidés tropicaux doivent être consignées conformément aux exigences de l'annexe 1 de la recommandation 03-13 de l'ICCAT.
+3. Les captures de thonidés tropicaux sont interdites sur DCP du 1er janvier au 31 mars 2021 pour l'ensemble de la zone couverte par la convention CICTA. Le déploiement des DCP est interdit 15 jours avant la période de fermeture de la pêche, soit le 16/12/2020 à 00h00 GMT. A tout moment, le nombre de DCP opérationnel est limité à 300 par navire.
 
-2. Tout déploiement, toute récupération de dispositifs de concentration de poissons (DCP) dans le cadre de la capture de thonidés tropicaux doivent être consignés dans un carnet de pêche mentionnant la position, la date, le DCP utilisé et les résultats de l'opération.
+4. Pour les navires titulaires de l'autorisation de pêche du thon germon (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5° N, les prises accessoires de thon obèse (Thunnus obesus) peuvent être autorisées dans la limite de trois tonnes par navire et par marée.
 
-3. Les captures de thonidés tropicaux sont interdites sur DCP du 1er janvier au 28 février 2020 pour l'ensemble de la zone couverte par la convention CICTA. Le déploiement des DCP est interdit 15 jours avant la période de fermeture de la pêche, soit le 16/12/2019 à 00h00 GMT. A tout moment, le nombre de DCP opérationnel est limité à 300 par navire. |
+|
 
 Point 1 de la résolution 19/04 concernant le registre CTOI des navires autorisés à opérer dans la zone de compétence de la CTOI
 
