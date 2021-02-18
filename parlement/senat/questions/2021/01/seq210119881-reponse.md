@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210119881
+
+- Question : [SEQ210119881](seq210119881.md) — Ordre du jour d'une séance d'un conseil d'une communauté d'agglomération
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-02-18, page 1143*
+
+L'article L. 2121-10 du code général des collectivités territoriales, applicable par renvoi de l'article L. 5211-1 aux communautés d'agglomération, précise que « Toute convocation est faite par le maire. Elle indique les questions portées à l'ordre du jour. (…) ». L'article L. 5211-11 du même code, applicable aux établissements publics de coopération intercommunale à fiscalité propre, précise que : « (…) le président convoque les membres de l'organe délibérant. ». Par analogie, le président de la communauté d'agglomération est donc chargé de fixer l'ordre du jour. La jurisprudence a précisé que le maire disposait d'une compétence discrétionnaire dans le choix des questions portées à l'ordre du jour, qui doit toutefois ne pas porter une atteinte excessive au droit de proposition des conseillers municipaux qu'ils tiennent notamment de leur mandat (CAA Marseille, 24 novembre 2008, commune d'Orange, n° 07MA02744). En outre, le Conseil d'État a précisé que le règlement intérieur ne peut déroger aux lois et règlements existants (CE, Ass., 30 mars 1966, élections d'un vice-président du conseil général du Loiret, Lebon 248). Est ainsi illégale la disposition imposant l'inscription à l'ordre du jour d'une question (TA Paris, 20 décembre 1996, maire de Paris, Lebon T 766). Par conséquent, si les membres du bureau peuvent faire des propositions au président sur l'ordre du jour, c'est cependant le président, et lui seul, qui est chargé de le fixer. Le règlement intérieur ne peut donc imposer que l'ordre du jour sera fixé par le président après une concertation avec les autres membres du bureau.
