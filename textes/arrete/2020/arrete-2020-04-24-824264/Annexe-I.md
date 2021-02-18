@@ -1,9 +1,5 @@
 # Article Annexe I
 
-LOGIGRAMME APPLICABLE AUX INSTALLATIONS ET ÉQUIPEMENTS SOUMIS À DES CONTRÔLES ET VÉRIFICATIONS PÉRIODIQUES OBLIGATOIRES (CVPO).
+APPLICATION DES DISPOSITIONS DE L'ARTICLE 9 DE L'ARRETE
 
-EXEMPLES D'INSTALLATION OU ÉQUIPEMENT :
-
-Aérations-Installations de ventilation/ Appareils de levage/ Ascenseurs-Monte-charge-Elévateurs/ Dispositif de BTP/ Cuves, bassins, réservoirs contenant des produits corrosifs/ Eclairage/ Electricité/ Incendie/ Equipements de protection individuelle/ Systèmes de climatisation/ Machines/ Portes et portails/ Appareils électriques générant des rayons X/ Poste de travail exposé aux agents chimiques dangereux et cancérogènes, mutagènes et toxiques pour la reproduction/ Equipements sportifs, Equipements sous pression (ESP) à l'exception de ceux mentionnés à l'article 11 du présent arrêté, etc.
-
-Vous pouvez consulter l'intégralité de l'annexe à l'adresse suivante : https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000042020436
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=4Dy1Ggiv_8u8PtgR04-45lLdic3IxSR1nXRB0cGV928=
