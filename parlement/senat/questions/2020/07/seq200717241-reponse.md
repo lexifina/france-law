@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717241
+
+- Question : [SEQ200717241](seq200717241.md) — Stabilisation des plafonds de ressources affectées pour les années 2021 et 2022
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-02-18, page 1160*
+
+La transformation du modèle économique des CCI a effectivement été affectée par la crise sanitaire, qui a fortement mobilisé les chambres en renforçant temporairement leurs missions de services publics. Les CCI sont intervenues à la demande, en renfort des services de l'État et notamment des Direccte, pour expliquer les mesures prises et les dispositifs mis en place par le Gouvernement, mais aussi pour offrir aide et assistance aux entreprises, notamment dans la mobilisation des aides proposées. Les CCI ont aussi joué un rôle essentiel de coordination auprès des acteurs du développement économique (préfectures, collectivités territoriales…) et d'information, en relayant les problématiques locales. La visibilité des CCI, en tant qu'acteurs de terrain et de proximité, a été renforcée. Lors de l'examen du troisième projet de loi de finances rectificative pour 2020, les parlementaires ont tenu à reconnaître cet engagement, qui va se poursuivre dans les prochains mois, en annulant la baisse de 100 M€ du plafond de la taxe pour frais de chambres prévue dans la loi de finances initiale en 2020. Le réseau des CCI dispose ainsi de moyens supplémentaires importants pour poursuivre ses missions. Toutefois, si les circonstances ont impacté le rythme de la réforme des CCI, elles ne la remettent pas en cause et la transformation du modèle économique des CCI doit se poursuivre, notamment en s'appuyant sur la convention d'objectifs et de performance, signée entre l'État et CCI France le 15 avril 2019, qui définit précisément les missions prioritaires des CCI et les rôles de chaque composante du réseau.
