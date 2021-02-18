@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191112947
+
+- Question : [SEQ191112947](seq191112947.md) — Détachement dans la fonction publique hospitalière pour l'exercice du mandat d'élu local
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2021-02-18, page 1194*
+
+L'attention est appelée sur la situation des agents de la fonction publique hospitalière investis d'un mandat local lorsque ce mandat n'est pas compatible avec l'exercice de leurs fonctions au sein du service public hospitalier. L'auteur de la question souligne en particulier que si les décrets statutaires qui régissent les fonctionnaires de l'État et territoriaux prévoient expressément le bénéfice du détachement de droit en faveur des agents qui cessent d'exercer leur activité professionnelle pour accomplir un mandat local dans les cas prévus par le code général des collectivités territoriales, il n'en va pas de même s'agissant des fonctionnaires hospitaliers à l'égard desquels les dispositions de l'article 14 du décret n° 88-976 du 13 octobre 1988 relatif au régime particulier de certaines positions des fonctionnaires hospitaliers, ne mentionnent pas la situation des agents de la fonction publique hospitalière investis d'un mandat local. L'article L. 2123-10 du code général des collectivités territoriales prévoit en effet que les agents des trois versants de la fonction publique sont placés, sur leur demande, en position de détachement pour exercer l'un des mandats mentionnés à l'article L. 2123-9 du même code. L'article L. 2123-9 visent les mandats de maires et d'adjoints au maire de toutes les communes, désormais sans condition de seuil d'habitants. Un défaut de précisions dans le décret du 13 octobre 1988 précité a pu faire naitre un doute sur l'applicabilité aux agents de la fonction publique hospitalière de ces dispositions lorsque sont concernés les mandats visés à l'article L. 2123-9 du même code, mais cette absence ne doit pas faire obstacle à l'application de la loi.
