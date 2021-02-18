@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190711313
+
+- Question : [SEQ190711313](seq190711313.md) — Situation des finances publiques
+
+## Réponse
+
+*Comptes publics, JO du 2021-02-18, page 1144*
+
+En 2019, le Gouvernement a pris des mesures d'ampleur pour rehausser le pouvoir d'achat, dont les conséquences ont été tirées dans les trajectoires pluriannuelles présentées dans les textes financiers postérieurs. Pour autant, l'objectif de rétablissement des comptes publics n'y a été nullement remis en cause. La crise économique mondiale que nous connaissons depuis début 2020, à la suite de l'émergence de la Covid-19, a nécessité une réponse rapide et d'une envergure sans précédent dans l'histoire économique récente. Plus de 500 Md€ ont été déployés au titre de l'urgence afin d'amortir les conséquences de la crise sur le niveau de vie de nos concitoyens et l'activité des entreprises. Aujourd'hui, 100 Md€ sont mobilisés pour relancer notre économie et accélérer les transitions écologique et numérique. Les mesures d'urgence et le plan de relance, nécessaires, ne doivent pas conduire à rendre insoutenables la situation de nos finances publiques à long terme. Le Gouvernement a ainsi installé en décembre 2020 une commission sur l'avenir des finances publiques, présidée par Jean Arthuis. Sa mission est triple. Il s'agira : de proposer des scénarios de retour à l'équilibre des comptes, dans un objectif de stabilisation puis de réduction progressive de notre dette publique, en cohérence avec la baisse continue des prélèvements obligatoires mise en œuvre depuis le début du quinquennat ; de formuler des propositions sur la stratégie de gestion de la dette publique ; enfin, de proposer des voies d'amélioration des règles de gouvernance et des outils de pilotage de nos finances publiques afin d'améliorer notamment leur soutenabilité pluriannuelle. Ses résultats sont attendus au cours du premier trimestre 2021.
