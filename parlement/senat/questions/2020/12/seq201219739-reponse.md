@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219739
+
+- Question : [SEQ201219739](seq201219739.md) — Élu communal et agent territorial spécialisé des écoles maternelles
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-02-18, page 1141*
+
+Les agents territoriaux spécialisés des écoles maternelles (ATSEM) sont mis à la disposition de l'école maternelle par la commune dont ils relèvent, et placés sous l'autorité fonctionnelle du directeur ou de la directrice pendant leur service dans les locaux scolaires. Néanmoins, l'autorité hiérarchique sur ces agents communaux reste exercée par le Maire de la commune. Dans ce cadre, l'article L. 231 du code électoral précise notamment que les agents salariés communaux ne peuvent être élus au conseil municipal de la commune qui les emploie. Cette règle d'inégibilité préserve l'indépendance des élus et évite les situations de conflit d'intérêts. Bien que l'inéligibilité se constate au jour de l'élection, « tout conseiller municipal qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas d'inéligibilité prévus par les articles L. 230, L. 231 et L. 232 du code électoral est immédiatement déclaré démissionnaire par le préfet », conformément aux dispositions de l'article L. 236 du même code. La qualification de l'agent ne constitue pas un motif dérogatoire à cette règle d'inéligibilité des « agents salariés communaux ». Les exceptions prévues par l'article L. 231 du code électoral concernent « ceux qui, étant fonctionnaires publics ou exerçant une profession indépendante, ne reçoivent une indemnité de la commune qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession », ainsi que, les agents salariés « au titre d'une activité saisonnière ou occasionnelle » dans les communes comptant moins de 1 000 habitants.
