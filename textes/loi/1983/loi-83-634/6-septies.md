@@ -18,6 +18,8 @@ Les comités prévus à l'article 15 de la loi n° 84-16 du 11 janvier 1984 pré
 
 L'absence d'élaboration du plan d'action ou le non renouvellement du plan d'action au terme de sa durée peut être sanctionné par une pénalité dont le montant ne peut excéder 1 % de la rémunération brute annuelle globale de l'ensemble des personnels.
 
+Six mois au plus tard avant l'expiration du plan d'action, l'autorité ministérielle, territoriale ou l'autorité compétente relevant de la loi du 9 janvier 1986 précitée propose à l'ensemble des organisations syndicales représentatives l'ouverture d'une négociation dans les conditions prévues aux articles 8 bis et suivants pour l'élaboration du prochain plan d'action. En cas de conclusion d'un accord, le plan négocié constitue le plan d'action au sens du présent article.
+
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 NOTA :
