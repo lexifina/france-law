@@ -1,0 +1,77 @@
+# Article unique
+
+L'article 9 de la convention collective de la production de film d'animation (IDCC 2412) est remplacé par la rédaction suivante :
+
+« Article 9
+
+Commission paritaire permanente de négociation et d'interprétation
+
+Il est créé une commission paritaire permanente de négociation et d'interprétation (CPPNI), conformément aux articles L. 2232-9 et suivants du code du travail. Elle se substitue à la précédente commission d'interprétation, de conciliation et de suivi.
+
+9.1. Composition et fonctionnement
+
+La commission paritaire permanente de négociation et d'interprétation est composée des organisations syndicales de salariés et d'employeurs représentatives dans la branche.
+
+La commission est présidée par un représentant des employeurs les 2 premières années. Au terme de ce délai, en fonction de l'évolution de la branche, les parties seront amenées à redéfinir la gouvernance de cette commission. Le fonctionnement pérenne de la commission sera fixé dans le règlement intérieur.
+
+Pour ce qui est de sa mission d'interprétation, elle est réunie sur demande d'une organisation représentative de salariés ou d'employeurs relevant du champ de la présente convention.
+
+La demande est adressée au secrétariat de la commission, par lettre recommandée avec avis de réception. La réunion doit avoir lieu dans les 3 semaines qui suivent la réception de cette demande.
+
+Le secrétariat de la commission est assuré par une organisation représentant le collège des employeurs. Cette organisation informe le ministère chargé du travail de l'adresse postale et numérique de la commission. Les adresses postale et numérique de la commission sont les suivantes :
+
+CPPNI de la production de films d'animation c/ o SPFA, 5, rue Cernuschi, 75017 Paris (cppniProdAnim@spfa-france.fr)
+
+Un règlement intérieur précise l'organisation de la commission, les missions faisant l'objet d'une délibération et les modalités de fonctionnement de la CPPNI.
+
+Il sera élaboré par les membres lors de la première réunion qui se tiendra à cette fin, à la demande de la partie la plus diligente, à compter de la publication de l'arrêté d'extension du présent avenant instituant ladite commission.
+
+9.2. Missions
+
+9.2.1. Représentation de la branche
+
+La commission exerce une représentation collective de la branche, notamment vis-à-vis des entreprises et des pouvoirs publics.
+
+9.2.2. Veille
+
+La commission exerce une mission de veille sur les conditions de travail et sur l'emploi dans la branche.
+
+9.2.3. Observatoire paritaire de la négociation collective et rapport annuel d'activité
+
+La commission constitue l'observatoire paritaire de la négociation collective dans la branche de la production de films d'animation. Les accords collectifs de groupe, d'entreprise, ou d'établissement, conclus dans le champ de la présente convention sont transmis à la commission dans le respect des dispositions et formes de confidentialité figurant à l'article L. 2231-5-1 du code du travail.
+
+La commission rédige un rapport annuel d'activité comprenant un bilan des accords collectifs d'entreprise conclus dans le cadre des articles énumérés au 3° de l'article L. 2232-9 du code du travail. Ce rapport analyse l'impact de ces accords sur les conditions de travail des salariés et sur la concurrence entre les entreprises de la branche. La commission formule des recommandations destinées à répondre aux difficultés identifiées.
+
+(1)
+
+9.2.4. Interprétation
+
+En matière d'interprétation, la commission peut être saisie, avant toute action contentieuse, de tout litige entre un employeur et un salarié relatif à l'application de la présente convention collective dans une entreprise de la branche de la production de films d'animation. La partie demanderesse de l'interprétation (employeur et/ ou salarié) informe une organisation représentative membre de la présente CPPNI qui pourra saisir la commission selon les modalités prévues à l'article 9.1 de la présente convention.
+
+Par ailleurs, toute organisation signataire
+
+(2) pourra saisir la commission relativement à l'interprétation d'une disposition de la présente convention collective.
+
+Le nombre de voix délibératives entre les organisations d'employeurs et les organisations de salariés est réparti à égalité entre les deux collèges.
+
+Enfin, la commission peut rendre un avis à la demande d'une juridiction sur l'interprétation de la présente convention collective dans les conditions mentionnées à l'article L. 441-1 du code de l'organisation judiciaire.
+
+9.2.5. Conciliation
+
+En matière de conciliation, la commission peut agir en amiable conciliateur si les deux parties à un différend, entre un employeur relevant du champ de la présente convention collective et un salarié, sont d'accord pour lui confier une telle mission.
+
+Les modalités de saisine pour les missions figurant aux articles 9.2.4 et 9.2.5 sont précisées dans le règlement intérieur.
+
+9.3. Négociations collectives et suivi
+
+La commission se réunit au moins trois fois par an en vue des négociations obligatoires prévues par le code du travail. Elle définit son agenda de négociation dans les conditions prévues à l'article L. 2222-3.
+
+La commission pourra examiner l'intérêt d'envisager une modification de la présente convention, ou l'adjonction de nouvelles dispositions. »
+
+(1) Le deuxième alinéa de l'article 9.2.3 relatif au rapport annuel d'activité est étendu sous réserve du respect des dispositions du 3° du II de l'article 2232-9 du code du travail, dans sa rédaction issue de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel.
+
+(Arrêté du 21 mai 2021 - art. 1)
+
+(2) Le terme « signataire » du deuxième alinéa de l'article 9.2.4 est exclu de l'extension comme étant contraire au principe d'égalité tel qu'interprété par la Cour de cassation (Cass. soc. 29 mai 2001, Cegelec).
+
+(Arrêté du 21 mai 2021 - art. 1)
