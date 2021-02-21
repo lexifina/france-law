@@ -674,6 +674,8 @@ MBR (Marine Bretagne Réparation), 3, quai Armand-Considere, 29200 Brest : de sa
 
 MECAMAR. Rue Alain-Colas, 29200 Brest. Depuis 1996.
 
+MECA DIESEL (SIRET N° 334 923 596 00046) 1, rue Alphonse Rio 56100 Lorient, de 2011 à 2017.
+
 Meca Diesel, 7, rue du Professeur-Legendre et quai Carnot, 29900 Concarneau, de 1985 à 2004.
 
 Meca Diesel, quai du Moros, rive droite, 29900 Concarneau, depuis 2004.
