@@ -2,66 +2,34 @@
 
 Hémopathies provoquées par le benzène et tous les produits en renfermant
 
-DÉSIGNATION DES MALADIES
+Désignation de la maladie |
 
-|
+Délai de prise
 
-DÉLAI DE PRISE
+en charge |
 
-en charge
+Liste indicative des principaux travaux susceptibles
 
-|
+de provoquer ces maladies |
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
+Hypoplasies et aplasies médullaires isolées ou associées (anémie, leuconeutropénie, thrombopénie), acquises, non réversibles |
 
-susceptibles de provoquer ces maladies
+3 ans |
 
-|
+Opérations de production, transport et utilisation du benzène et autres produits contenant du benzène, notamment :
 
-Affections acquises isolées ou associées de type hypoplasique, aplasique ou dysplasique :
+-Préparation, transport, utilisation de carburants renfermant du benzène ; transvasement, manipulation de ces carburants, travaux en citerne ; emploi et entretien mécanique de véhicules, d'engins ou d'outils à moteur thermique utilisant ce type de carburants.
 
-- anémie ;
+-Emploi du benzène comme solvant, éluant ou réactif de laboratoire. |
 
-- leuconeutropénie ;
+Syndromes myélodysplasiques acquis |
 
-- thrombopénie.
+3 ans |
 
-|
+Leucémies aiguës myéloblastiques et lymphoblastiques |
 
-3 ans
+20 ans |
 
-|
+Syndrome myéloprolifératif |
 
-Emplois du benzène ou des produits en renfermant comme agent d'extraction, d'élution, d'imprégnation, d'agglomération ou de nettoyage, de décapage, de dissolution ou de dilution.
-
-Opérations de séchage de tous les produits, articles, préparations, substances où le benzène (ou les produits en renfermant) est intervenu au cours des opérations ci-dessus énumérées.
-
-Préparation et emploi des vernis, peintures, émaux, mastics, colles, d'entretien du benzène.
-
-encres, produits renfermant
-
-|
-
-Hypercytoses d'origine myélodysplasique.
-
-|
-
-3 ans
-
-|
-
-Syndrome myéloprolifératif.
-
-|
-
-15 ans
-
-|
-
-Leucémies (sous réserve d'une durée d'exposition de 1 an).
-
-|
-
-15 ans
-
-|
+20 ans |
