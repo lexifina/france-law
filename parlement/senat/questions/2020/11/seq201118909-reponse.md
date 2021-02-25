@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118909
+
+- Question : [SEQ201118909](seq201118909.md) — Imputations fiscales sur les remboursements kilométriques des assistants de vie
+
+## Réponse
+
+*Comptes publics, JO du 2021-02-25, page 1324*
+
+Les montants perçus en remboursement de frais occasionnés par l'exercice même de l'activité professionnelle n'ont pas à être déclarés en tant que revenus si le contribuable n'opte pas pour la déduction de ses frais réels, et si les frais engagés ne sont pas couverts par la déduction forfaitaire de 10 % qui sera alors appliquée au montant de ses salaires. La déduction forfaitaire de 10 % couvre les dépenses professionnelles engagées pour la plupart des salariés : les frais de déplacement du domicile au lieu de travail, les frais de restauration sur le lieu de travail (dépenses supplémentaires par rapport au coût des repas pris au domicile), les frais de documentation personnelle et de mise à jour des connaissances nécessités par l'activité professionnelle (cf. BOI-RSA-BASE-30-50-20 § 30). Seuls les frais de déplacement du domicile au lieu de travail (correspondant, pour les assistants de vie, aux dix premiers et derniers kilomètres non indemnisés), sont pris en compte par la déduction forfaitaire de 10 %. A contrario, les déplacements professionnels effectués pendant les horaires de travail ne sont pas couverts par cette déduction forfaitaire. Dès lors, les montants perçus en remboursement de ces frais professionnels sont exonérés, lorsque l'assistant de vie n'opte pas pour la déduction de ses frais réels (BOI-RSA-CHAMP-20-50-10-10 § 100). En revanche, le remboursement de ces frais doit être ajouté au revenu imposable, lorsque l'assistant de vie opte pour la déduction de ses frais réels et déduit ainsi l'ensemble de ses frais de déplacement, y compris ceux engagés pendant les horaires de travail.
