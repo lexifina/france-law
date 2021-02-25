@@ -1,7 +1,3 @@
 # Article Annexe 24
 
-Annexe non reproduite.
-
-NOTA :
-
-Les annexes seront publiées au Bulletin officiel santé - protection sociale - solidarités n° 2011/10 du mois d'octobre 2011. Elles peuvent être téléchargées sur le site internet de l'Institut national de veille sanitaire (http://www.invs.sante.fr/), à l'exception des annexes 28 et 29 composées de plusieurs feuillets autocollants, qui ne sont disponibles qu'auprès des agences régionales de santé (ARS).
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 47 du 24 février 2021 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=HyXDd9WH2tJscNRR9uJ3tlZQxHw5YMz-RNeqeEq8Hqs=.
