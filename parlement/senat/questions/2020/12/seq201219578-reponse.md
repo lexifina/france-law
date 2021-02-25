@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219578
+
+- Question : [SEQ201219578](seq201219578.md) — Réglementation de la pêche dite « à l'aimant »
+
+## Réponse
+
+*Culture, JO du 2021-02-25, page 1327*
+
+Les règles relatives à la pratique de la pêche à l'aimant sont identiques à celles qui sont applicables à la détection d'objets enfouis. Ainsi, sur les terrains privés (forêts, terrains, étangs, puits…), l'autorisation du propriétaire est requise et si l'objet de cette pratique a pour but la recherche d'un objet intéressant la préhistoire, l'histoire, l'art ou l'archéologie, l'autorisation du préfet de région est obligatoire, conformément à l'article L. 542-1 du code du patrimoine. Pour les cours d'eau, lacs, rivières, fleuves ou canaux, l'autorisation de l'État est requise en qualité de propriétaire des biens sous-marins, conformément à l'Édit de Colbert toujours applicable, qui attribue à l'État toute découverte réalisée dans les cours d'eau. Par ailleurs, l'autorisation du préfet de région au titre du code du patrimoine est également requise si cette pratique a une finalité patrimoniale, conformément à ce qui a été rappelé supra. Présentée le plus souvent comme une activité bénévole visant à permettre la dépollution des cours d'eau, cette pratique est en réalité illégale à défaut d'obtenir une autorisation préalable de l'État (préfecture au titre de la police de l'eau et le cas échéant préfecture de région au titre de la législation patrimoniale). Indépendamment des risques que fait courir cet exercice sur la faune et la flore, ainsi que pour les personnes en cas de mise au jour d'objets dangereux, tels que des munitions ou autres objets explosifs, la pratique de la pêche à l'aimant est susceptible de causer la détérioration, la dégradation, voire la destruction du patrimoine archéologique, qui constituent autant d'infractions sanctionnées par le code pénal.
