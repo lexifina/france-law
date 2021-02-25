@@ -484,11 +484,11 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " moniteur en sport adapté ", délivré jusqu'au 7 juin 2021. |
+CQP moniteur en sport adapté , délivré jusqu'au 7 juin 2021. |
 
 |
 
-Encadrement des activités sportives adaptées aux personnes en situation de handicap mental ou psychique. |
+Encadrement des activités en sport adapté aux personnes en situation de handicap mental ou psychique. |
 
 |
 
@@ -513,16 +513,6 @@ DES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et 
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " mention " aïkido, aïkibudo ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement de l'aïkido et l'aïkibudo jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
 
 |
 
@@ -844,6 +834,16 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
+
+CQP Base Ball-Softball-Cricket , délivré du 14 octobre 2020 au 14 octobre 2022. |
+
+4 |
+
+Entraînement et encadrement des activités de baseball ou softball ou cricket. |
+
+|
+
 BASKET-BALL
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -901,16 +901,6 @@ DES JEPS, spécialité " performance sportive " mention " basket-ball ", délivr
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP technicien sportif de basket-ball, délivré jusqu'au 25 juillet 2020. |
-
-|
-
-Entraînement et encadrement du basket-ball. |
 
 |
 
@@ -1536,56 +1526,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " activités équestres ", mention " équitation ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
-
-Conduite de séances et de cycles d'enseignement en équitation. |
-
-|
-
-BP JEPS, spécialité activités équestres ", mention " tourisme équestre ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement de randonnées pour tout public et sur tout itinéraire. |
-
-|
-
-BP JEPS, spécialité " activités équestres ", mention " équitation western ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. |
-
-|
-
-BP JEPS, spécialité " activités équestres ", mention " équitation de tradition et de travail ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de travail. |
-
-|
-
-BP JEPS, spécialité " activités équestres ", mention " attelage ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage. |
-
-|
-
 BP JEPS, spécialité " éducateur sportif ", mention " activités équestres ", option : " initiation poney, cheval ", " approfondissement technique " ou " équitation extérieur ", délivré jusqu'au 1er janvier 2024. |
 
 4 |
@@ -1790,16 +1730,6 @@ A l'exclusion :
 
 -de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " animateur d'escalade sur structure artificielle ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement des activités d'escalade sur structure artificielle d'escalade. |
-
-|
-
 ESCALADE-ENVIRONNEMENT SPECIFIQUE (pratiquée sur les sites sportifs au-delà du premier relais et " terrains d'aventure ", déterminés conformément aux normes de classement technique édictées par la fédération délégataire, ainsi que de l'escalade en " via ferrata ") |
 
 Diplômes délivrés par le ministère chargé des sports |
@@ -1822,7 +1752,7 @@ Enseignement et entraînement de l'escalade pratiquée en environnement spécifi
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-ESCRIME
+ESCRIME y compris toutes les qualifications mentionnées sous l'intitulé “ multi activités physiques ou sportives ” (*) dans la limite de leurs conditions d'exercice
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
 
@@ -1890,35 +1820,27 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
-CQP moniteur d'escrime, option " fleuret ", délivré jusqu'au 23 août 2020. |
+CQP moniteur d'escrime , option fleuret , délivré du 14 octobre 2020 au 14 octobre 2022. |
 
-|
+3 |
 
 Encadrement des activités de l'escrime sportive au fleuret par la découverte et l'initiation. |
 
 Dans la limite de 20 pratiquants. |
 
-CQP moniteur d'escrime, option " épée ", délivré jusqu'au 23 août 2020. |
+CQP moniteur d'escrime , option épée , délivré du 14 octobre 2020 au 14 octobre 2022. |
 
-|
+3 |
 
 Encadrement des activités de l'escrime sportive à l'épée par la découverte et l'initiation. |
 
 Dans la limite de 20 pratiquants. |
 
-CQP moniteur d'escrime, option " sabre ", délivré jusqu'au 23 août 2020. |
+CQP moniteur d'escrime , option sabre , délivré du 14 octobre 2020 au 14 octobre 2022. |
 
-|
+3 |
 
 Encadrement des activités de l'escrime sportive au sabre par la découverte et l'initiation. |
-
-Dans la limite de 20 pratiquants. |
-
-CQP moniteur d'escrime, option " artistique " délivré jusqu'au 23 août 2020. |
-
-|
-
-Encadrement des activités de l'escrime artistique par la découverte et l'initiation. |
 
 Dans la limite de 20 pratiquants. |
 
@@ -2616,16 +2538,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " mention " judo-jujitsu ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement du judo-jujitsu, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
-
-|
-
 KARATÉ
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -2680,29 +2592,9 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " mention " karaté et disciplines associées ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement du karaté et des disciplines associées, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
-
-|
-
 KENDO
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
-
-|
-
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " mention " kendo et disciplines associées ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement du kendo et des disciplines associées jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
 
 |
 
@@ -3542,14 +3434,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS spécialité " pêche de loisirs " délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Encadrement, animation et initiation d'activités de pêche sportive en eau douce. |
-
-|
-
 BP JEPS spécialité " éducateur sportif " mention " pêche de loisirs ", délivré jusqu'au 1er janvier 2024. |
 
 4 |
@@ -4224,7 +4108,7 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte et
 
 |
 
-BP JEPS, spécialité " sport automobile " mention " karting " délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité sport automobile , mention karting , délivré jusqu'au 31 décembre 2022. |
 
 4 |
 
@@ -4256,7 +4140,7 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte et
 
 |
 
-UCC " conduite sur glace " associée au BP JEPS spécialité " sport automobile ", délivré jusqu'au 1er janvier 2024. |
+UCC " conduite sur glace " associée au BP JEPS spécialité sport automobile . |
 
 |
 
@@ -4419,16 +4303,6 @@ Enseignement du patinage artistique. |
 A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
-
-BP JEPS, spécialité " éducateur sportif " mention " patinage sur glace ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
-
-Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation.
-
-Conduite de cycles d'apprentissage en patinage sur glace. |
-
-|
 
 BP JEPS, spécialité " éducateur sportif " mention " sports de glace " option disciplines d'expression sur glace ", délivré jusqu'au 1er janvier 2024. |
 
@@ -4912,16 +4786,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " mention " taekwondo et disciplines associées ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement du taekwondo, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
-
-|
-
 TENNIS
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -5296,14 +5160,6 @@ Encadrement et animation d'activités de découverte et d'initiation en planche 
 
 |
 
-CS " croisière " associée au BPJEPS spécialité " activités nautiques " mention " voile ", mention plurivalente support " croisière côtière " ou support " multicoques et dériveurs ", délivré jusqu'au 1er janvier 2021. |
-
-|
-
-Encadrement de la croisière côtière ou hauturière jusqu'à 200 milles nautiques d'un abri. |
-
-Dans les limites de navigation du ou des voilier (s) utilisé (s). |
-
 CC " voile multi-supports à moins de 6 milles nautiques d'un abri " associé au BP JEPS spécialité " éducateur sportif " mention " voile croisière jusqu'à 200 milles nautiques d'un abri ". |
 
 |
@@ -5414,19 +5270,11 @@ VOL EN SOUFFLERIE |
 
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " moniteur de vol à plat en soufflerie ", délivré jusqu'au 25 juillet 2020. |
+CQP " moniteur de vol à plat en soufflerie " délivré du 16 décembre 2020 au 16 décembre 2025. |
 
-|
+4 |
 
-Encadrement des activités de vol à plat en soufflerie, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des installations. |
-
-Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
-
-CQP " moniteur de vol à plat en soufflerie " assorti de la qualification complémentaire vol 3 D en soufflerie, délivré jusqu'au 25 juillet 2020. |
-
-|
-
-Encadrement des activités de vol à plat en soufflerie et des activités de vol 3 D en soufflerie, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des installations. |
+Encadrement des activités de vol à plat en soufflerie. |
 
 Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
 
@@ -5541,39 +5389,5 @@ DES JEPS, spécialité " performance sportive " mention " karaté et disciplines
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'arts martiaux " mention " arts énergétiques chinois ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement des arts énergétiques chinois, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
-
-|
-
-CQP " moniteur d'arts martiaux " mention " arts martiaux chinois externes ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement des arts martiaux chinois externes, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
-
-|
-
-CQP " moniteur d'arts martiaux " mention " arts martiaux chinois internes ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement des arts martiaux chinois internes, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
-
-|
-
-CQP " moniteur d'arts martiaux " mention " karaté et disciplines associées ", délivré jusqu'au 3 décembre 2020. |
-
-|
-
-Encadrement du karaté et des disciplines associées, jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
 
 |
