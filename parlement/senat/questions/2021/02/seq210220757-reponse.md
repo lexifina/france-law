@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220757
+
+- Question : [SEQ210220757](seq210220757.md) — Recyclage des déchets inertes du bâtiment
+
+## Réponse
+
+*Transition écologique, JO du 2021-02-25, page 1355*
+
+Le secteur du bâtiment et des travaux publics est le premier producteur de déchets en France. Réduire cette production et veiller à diminuer leur dangerosité, les gérer sans mettre en danger la santé humaine et sans nuire à l'environnement est depuis longtemps une préoccupation environnementale majeure pour notre société. Il est nécessaire de rappeler aussi que l'insuffisance du nombre d'installations permettant d'entreposer ces déchets dans l'attente de leur traitement ainsi que le coût de la gestion des déchets pour les petites entreprises est la principale cause de la prolifération de dépôts illégaux de ces déchets, à l'origine d'actes de malveillance et même de violences. Chacun a en mémoire le décès en 2019 du maire de Signes lors d'une tentative de constat en fragrant délit d'un dépôt illégal de déchets par deux personnes venues décharger des gravats en pleine nature. Par ailleurs, certains déchets inertes du bâtiment peuvent se substituer à des matériaux naturels alors que les ressources de certains d'entre eux ne sont pas inépuisables, et dont la demande mondiale entraine un renchérissement considérable des coûts. La question de la prise en compte des déchets inertes a fait l'objet de débats lors de l'examen de la loi relative à la lutte contre le gaspillage et à l'économie circulaire. Ce qui a été retenu par le Parlement, c'est que la nouvelle filière sur les « produits ou matériaux de construction du secteur du bâtiment destinés aux ménages ou aux professionnels » prendrait bien en charge les déchets inertes du bâtiment mais exclurait ceux des travaux publics, déjà très largement valorisés, ce qui conduit l'ADEME à mener des réflexions sur des mécanismes de redevance appropriée à cette distinction.
