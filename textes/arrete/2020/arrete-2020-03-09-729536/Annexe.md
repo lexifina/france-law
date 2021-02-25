@@ -654,6 +654,80 @@ Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'appr
 
 |
 
+BP JEPS, spécialité " activités équestres ", mention " équitation ", délivré jusqu'au 31 décembre 2020. |
+
+4 |
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement en équitation. |
+
+|
+
+BP JEPS, spécialité " activités équestres ", mention " tourisme équestre ", délivré jusqu'au 31 décembre 2020. |
+
+4 |
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement de randonnées pour tout public et sur tout itinéraire. |
+
+|
+
+BP JEPS, spécialité " activités équestres ", mention " équitation western ", délivré jusqu'au 31 décembre 2020. |
+
+4 |
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. |
+
+|
+
+BP JEPS, spécialité " activités équestres ", mention " équitation de tradition et de travail ", délivré jusqu'au 31 décembre 2020. |
+
+4 |
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
+
+Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de travail. |
+
+|
+
+BP JEPS, spécialité " activités équestres ", mention " attelage ", délivré jusqu'au 31 décembre 2020. |
+
+4 |
+
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage. |
+
+|
+
+BP JEPS spécialité pêche de loisirs délivré jusqu'au 31 décembre 2020.
+
+|
+
+4 |
+
+Encadrement, animation et initiation d'activités de pêche sportive en eau douce. |
+
+|
+
+BP JEPS, spécialité " éducateur sportif " mention " patinage sur glace ", délivré jusqu'au 31 décembre 2020.
+
+|
+
+4 |
+
+Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage en patinage sur glace. |
+
+|
+
+CS " croisière " associé au BPJEPS spécialité " activités nautiques " mention " voile ", mention plurivalente support " croisière côtière " ou support " multicoques et dériveurs ".
+
+|
+
+4 |
+
+Encadrement de la croisière côtière ou hauturière jusqu'à 200 milles nautiques d'un abri. |
+
+Dans les limites de navigation du ou des voilier (s) utilisé (s). |
+
+|
+
 C-4.-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
 
 INTITULÉ DU DIPLÔME |
@@ -692,6 +766,40 @@ Enseignement, animation, encadrement du baby et du mini-volley. |
 
 |
 
+C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
+
+INTITULÉ DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " moyenne montagne enneigée " délivré jusqu'au 31 août 2019. |
+
+Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain important. |
+
+A l'exclusion :
+
+-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+-de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;
+
+-de l'exercice professionnel dans les régions à climat tropical et équatorial, en périodes de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+
+Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option " moyenne montagne tropicale et équatoriale " délivré jusqu'au 31 août 2019. |
+
+Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de forte précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés. |
+
+A l'exclusion :
+
+-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;
+
+-des terrains enneigés.
+
+Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+
 D.-Titres à finalité professionnelle
 
 D-1.-Titres à finalité professionnelle délivrés par le ministère chargé de la défense
@@ -706,7 +814,7 @@ Moniteur d'entraînement physique, militaire et sportif délivré jusqu'au 16 ju
 
 Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. |
 
-Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique . |
 
 D-2.-Titres à finalité professionnelle délivrés par la Fédération française d'équitation
 
@@ -997,3 +1105,129 @@ Encadrement en autonomie de séances collectives et individuelles d'activités d
 Pour des publics de plus de 14 ans.
 
 Dans la limite de 12 pratiquants. " |
+
+CQP technicien sportif de basket-ball délivré jusqu'au 25 juillet 2020 |
+
+Entraînement et encadrement du basket-ball. |
+
+|
+
+CQP moniteur d'escrime, option " fleuret ", délivré jusqu'au 23 août 2020.
+
+|
+
+Encadrement des activités de l'escrime sportive au fleuret par la découverte et l'initiation. |
+
+Dans la limite de 20 pratiquants. |
+
+CQP moniteur d'escrime, option " épée ", délivré jusqu'au 23 août 2020.
+
+|
+
+Encadrement des activités de l'escrime sportive à l'épée par la découverte et l'initiation. |
+
+Dans la limite de 20 pratiquants. |
+
+CQP moniteur d'escrime, option " sabre ", délivré jusqu'au 23 août 2020.
+
+|
+
+Encadrement des activités de l'escrime sportive au sabre par la découverte et l'initiation. |
+
+Dans la limite de 20 pratiquants. |
+
+CQP moniteur d'escrime, option " artistique ", délivré jusqu'au 23 août 2020.
+
+|
+
+Encadrement des activités de l'escrime artistique par la découverte et l'initiation. |
+
+Dans la limite de 20 pratiquants. |
+
+CQP moniteur d'arts martiaux mention " aïkido, aïkibudo " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement de l'aïkido, aïkibudo jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur d'arts martiaux mention " judo-jujitsu " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement du judo-jujitsu jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur d'arts martiaux mention " karaté et disciplines associées " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement du karaté et des disciplines associées jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur d'arts martiaux mention " kendo et disciplines associées " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement du kendo et des disciplines associées jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur d'arts martiaux mention " taekwondo et disciplines associées " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement du taekwondo et des disciplines associées jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur de vol à plat en soufflerie délivré jusqu'au 25 juillet 2020.
+
+|
+
+Encadrement des activités de vol à plat en soufflerie, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des installations. |
+
+Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
+
+CQP moniteur de vol à plat en soufflerie assorti de la qualification complémentaire vol 3 D en soufflerie " délivré jusqu'au 25 juillet 2020.
+
+|
+
+Encadrement des activités de vol à plat en soufflerie et des activités de vol 3 D en soufflerie, dans les conditions techniques et de sécurité définies aux articles A. 322-165 et suivants du code du sport et le respect des capacités d'accueil des installations. |
+
+Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
+
+CQP moniteur d'arts martiaux mention " arts énergétiques chinois " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement des arts énergétiques chinois jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur d'arts martiaux mention " arts martiaux chinois externes " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement des arts martiaux chinois externes jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP moniteur d'arts martiaux mention " arts martiaux chinois internes " délivré jusqu'au 3 décembre 2020
+
+|
+
+Encadrement des arts martiaux chinois internes jusqu'au 1er niveau de grade, dan ou équivalent pour les disciplines sans compétition. |
+
+|
+
+CQP " animateur d'escalade sur structure artificielle ", délivré jusqu'au 3 décembre 2020.
+
+|
+
+Encadrement des activités d'escalade sur structure artificielle d'escalade. |
+
+|
