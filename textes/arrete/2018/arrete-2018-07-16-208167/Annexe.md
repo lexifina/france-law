@@ -36,11 +36,13 @@ Arts (c)
 
 Biologie-écologie (d)
 
+Education physique, pratiques et culture sportives (e)
+
 Histoire-géographie, géopolitique et sciences politiques
 
 Humanités, littérature et philosophie
 
-Langues, littératures et cultures étrangères et régionales (e*)
+Langues, littératures et cultures étrangères et régionales (f*)
 
 Littérature et LCA
 
@@ -54,7 +56,9 @@ Sciences de la vie et de la Terre
 
 Sciences de l'ingénieur
 
-Sciences économiques et sociales |
+Sciences économiques et sociales
+
+|
 
 4 heures
 
@@ -78,11 +82,15 @@ Sciences économiques et sociales |
 
 4 heures
 
-4 heures |
+4 heures
 
-Accompagnement personnalisé (f)
+4 heures
 
-Accompagnement au choix de l'orientation (g)
+|
+
+Accompagnement personnalisé (g)
+
+Accompagnement au choix de l'orientation (h)
 
 Heures de vie de classe |
 
@@ -102,11 +110,11 @@ Langue des signes française |
 
 3 heures |
 
-LCA : latin (h) |
+LCA : latin (i) |
 
 3 heures |
 
-LCA : grec (h) |
+LCA : grec (i) |
 
 3 heures |
 
@@ -138,13 +146,15 @@ Pratiques sociales et culturelles (d) |
 
 (d) Enseignement assuré uniquement dans les lycées d'enseignement général et technologique agricole.
 
-(e) Langue suivie en LVA ou LVB ou LVC.
+(e) Pour les élèves ne choisissant pas en première l'enseignement optionnel " Education physique et sportive ".
 
-(f) Volume horaire déterminé selon les besoins des élèves.
+(f) Langue suivie en LVA ou LVB ou LVC.
 
-(g) 54 heures, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement.
+(g) Volume horaire déterminé selon les besoins des élèves.
 
-(h) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus de l'enseignement optionnel suivi par ailleurs.
+(h) 54 heures, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement.
+
+(i) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus de l'enseignement optionnel suivi par ailleurs.
 
 |
 
@@ -182,11 +192,13 @@ Arts (c)
 
 Biologie-écologie (d)
 
+Education physique, pratiques et culture sportives (e)
+
 Histoire-géographie, géopolitique et sciences politiques
 
 Humanités, littérature et philosophie
 
-Langues, littératures et cultures étrangères et régionales (e)
+Langues, littératures et cultures étrangères et régionales (f)
 
 Littérature et LCA
 
@@ -198,13 +210,11 @@ Physique-chimie
 
 Sciences de la vie et de la Terre
 
-Sciences de l'ingénieur (f)
+Sciences de l'ingénieur (g)
 
-Sciences économiques et sociales |
+Sciences économiques et sociales
 
-6 heures
-
-6 heures
+|
 
 6 heures
 
@@ -224,11 +234,19 @@ Sciences économiques et sociales |
 
 6 heures
 
-6 heures |
+6 heures
 
-Accompagnement personnalisé (g)
+6 heures
 
-Accompagnement au choix de l'orientation (h)
+6 heures
+
+6 heures
+
+|
+
+Accompagnement personnalisé (h)
+
+Accompagnement au choix de l'orientation (i)
 
 Heures de vie de classe |
 
@@ -240,11 +258,11 @@ a) 1 enseignement parmi : |
 
 |
 
-Mathématiques complémentaires (i) |
+Mathématiques complémentaires (j) |
 
 3 heures |
 
-Mathématiques expertes (j) |
+Mathématiques expertes (k) |
 
 3 heures |
 
@@ -260,19 +278,15 @@ LVC (a) (b) |
 
 3 heures |
 
-Langue des signes française
-
-|
-
-3 heures
-
-|
-
-LCA : latin (k) |
+Langue des signes française |
 
 3 heures |
 
-LCA : grec (k) |
+LCA : latin (l) |
+
+3 heures |
+
+LCA : grec (l) |
 
 3 heures |
 
@@ -304,18 +318,24 @@ Pratiques sociales et culturelles (d) |
 
 (d) Enseignement assuré uniquement dans les lycées d'enseignement général et technologique agricole.
 
-(e) Langue suivie en LVA ou LVB ou LVC.
+(e) Pour les élèves ne choisissant pas en terminale l'enseignement optionnel " Education physique et sportive ".
 
-(f) Cet enseignement est complété de 2 h de sciences physiques.
+(f) Langue suivie en LVA ou LVB ou LVC.
 
-(g) Horaire déterminé selon les besoins des élèves.
+(g) Cet enseignement est complété de 2 h de sciences physiques.
 
-(h) 54 heures, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement.
+(h) Horaire déterminé selon les besoins des élèves.
 
-(i) Pour les élèves ne choisissant pas en terminale la spécialité "Mathématiques".
+(i) 54 heures, à titre indicatif, selon les besoins des élèves et les modalités de l'accompagnement à l'orientation mises en place dans l'établissement.
 
-(j) Pour les élèves choisissant en terminale la spécialité "Mathématiques".
+(j) Pour les élèves ne choisissant pas en terminale la spécialité "Mathématiques".
 
-(k) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus des enseignements optionnels suivis par ailleurs.
+(k) Pour les élèves choisissant en terminale la spécialité "Mathématiques".
+
+(l) Les enseignements optionnels de LCA latin et grec peuvent être choisis en plus des enseignements optionnels suivis par ailleurs.
 
 |
+
+NOTA :
+
+Conformément à l'article 5 l'arrêté du 17 février 2021 portant création de l'enseignement de spécialité et de l'épreuve terminale de spécialité Education physique, pratiques et culture sportives , ces dispositions entrent en vigueur en classes de première et de terminale générales à compter respectivement des rentrées 2021 et 2022. Elles s'appliquent au baccalauréat général à compter de la session 2023.
