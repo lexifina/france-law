@@ -2,11 +2,11 @@
 
 TARIFS MENTIONNÉS À L'ARTICLE 3 DE L'ARRÊTÉ
 
-L'énergie électrique active fournie par le producteur est facturée à l'acheteur sur la base des tarifs ci-dessous, exprimé en c€/kWh hors TVA.
+L'énergie électrique active fournie par le producteur est facturée à l'acheteur sur la base des tarifs ci-dessous, exprimé en c €/ kWh hors TVA.
 
 1. Durée annuelle de fonctionnement :
 
-La durée annuelle de fonctionnement est définie comme le quotient de l'énergie livrée au réseau pendant une année par la puissance maximale installée.
+La durée annuelle de fonctionnement est définie comme le quotient de l'énergie rémunérée au producteur (somme de l'énergie livrée au réseau et de la compensation de l'énergie non injectée) pendant une année par la puissance installée.
 
 2. Durée annuelle de fonctionnement de référence :
 
@@ -18,78 +18,30 @@ Pour les installations visées à l'article 1er, le tarif applicable à l'énerg
 
 DURÉE ANNUELLE
 
-de fonctionnement de référence
-
-|
+de fonctionnement de référence |
 
 TARIF
 
-pour les 10 premières années (c€/kWh)
-
-|
+pour les 10 premières années (c €/ kWh) |
 
 TARIF
 
-pour les 5 années suivantes (c€/kWh)
+pour les 10 années suivantes (c €/ kWh) |
 
-|
+2 600 heures et moins |
 
-2 000 heures et moins
+12 |
 
-|
+12 |
 
-23
+Entre 2 600 et 3 200 heures |
 
-|
+12 |
 
-23
+Interpolation linéaire entre les valeurs prévues pour 2600 heures et pour 3200 heures |
 
-|
+3 200 heures et plus |
 
-Entre 2 000 et 2 400 heures
+12 |
 
-|
-
-23
-
-|
-
-Interpolation linéaire
-
-|
-
-2 400 heures
-
-|
-
-23
-
-|
-
-14
-
-|
-
-Entre 2 400 et 3 200 heures
-
-|
-
-23
-
-|
-
-Interpolation linéaire
-
-|
-
-3 200 heures et plus
-
-|
-
-23
-
-|
-
-5
-
-|
+7 |
