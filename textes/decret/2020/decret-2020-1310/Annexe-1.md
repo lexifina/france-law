@@ -2,7 +2,7 @@
 
 I. - Les mesures d'hygiène sont les suivantes :
 
-- se laver régulièrement les mains à l'eau et au savon (dont l'accès doit être facilité avec mise à disposition de serviettes à usage unique) ou par une friction hydro-alcoolique ;
+- se laver régulièrement les mains à l'eau et au savon (dont l'accès doit être facilité avec mise à disposition de serviettes à usage unique) ou par une friction avec une solution pour la désinfection des mains conforme à la norme EN 14476 ;
 
 - se couvrir systématiquement le nez et la bouche en toussant ou éternuant dans son coude ;
 
