@@ -338,7 +338,7 @@ S'il n'a pas été encaissé au moment de l'enlèvement ou de la livraison, ce p
 
 20.3. Lorsque le transporteur consent à son débiteur des délais de paiement, la facture établie par le transporteur mentionne la date à laquelle le paiement doit intervenir. Elle précise les conditions d'escompte applicables en cas de paiement à une date antérieure à celle mentionnée sur ladite facture. Cette dernière doit être réglée au plus tard à la date indiquée.
 
-20.4. Conformément aux dispositions de l'article L. 441-6, alinéa 9, du code de commerce, les parties ne peuvent convenir d'un délai de paiement supérieur à trente jours à compter de la date d'émission de la facture.
+20.4. Conformément au 5° du II de l'article L. 441-11 du code de commerce, les parties ne peuvent convenir d'un délai de paiement supérieur à trente jours à compter de la date d'émission de la facture.
 
 20.5. Le paiement est exigible à la réception de la facture et à son lieu d'émission. Tout retard dans le paiement entraîne de plein droit, après mise en demeure, le versement de pénalités d'un montant au moins équivalent à une fois et demie le taux légal, conformément à l'article L. 441-6, alinéa 10, du code de commerce, sans préjudice de la réparation, dans les conditions du droit commun, de tout autre dommage résultant de ce retard.
 

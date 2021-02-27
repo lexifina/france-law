@@ -346,7 +346,7 @@ Modalités de paiement
 
 18.2. La compensation unilatérale du montant des dommages allégués sur le prix du transport est interdite.
 
-18.3. Tout retard dans le paiement entraîne de plein droit, le jour suivant la date limite de règlement figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant équivalent à cinq fois le taux d'intérêt légal, ainsi que d'une indemnité forfaitaire pour frais de recouvrement d'un montant minimum de 40 euros, conformément à l'article D. 441-5 du code de commerce, et ce, sans préjudice de la réparation éventuelle, dans les conditions du droit commun, de tout autre dommage résultant directement de ce retard.
+18.3. Tout retard dans le paiement entraîne de plein droit, le jour suivant la date limite de règlement figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant équivalent à cinq fois le taux d'intérêt légal, ainsi que d'une indemnité forfaitaire pour frais de recouvrement d'un montant minimum de 40 euros, conformément à l' article D. 441-5 du code de commerce , et ce, sans préjudice de la réparation éventuelle, dans les conditions du droit commun, de tout autre dommage résultant directement de ce retard.
 
 18.4. La date d'exigibilité du paiement, le taux d'intérêt des pénalités de retard, ainsi que le montant de l'indemnité forfaitaire de compensation des frais de recouvrement doivent obligatoirement figurer sur la facture.
 
@@ -366,7 +366,7 @@ Livraison contre remboursement
 
 19.4. La stipulation d'une livraison contre remboursement ne vaut pas déclaration de valeur et ne modifie donc pas les règles d'indemnisation pour pertes et avaries définies à l'article 21. Elle ne lie le transporteur que si elle figure sur un document procédant du contrat de transport.
 
-19.5. La responsabilité du transporteur en cas de manquement à cette obligation est engagée selon les règles du mandat. Néanmoins, conformément à l'article L. 133-6 du code de commerce, la prescription des actions relatives à la livraison contre remboursement est d'un an à compter de la date de la livraison.
+19.5. La responsabilité du transporteur en cas de manquement à cette obligation est engagée selon les règles du mandat. Néanmoins, conformément à l' article L. 133-6 du code de commerce , la prescription des actions relatives à la livraison contre remboursement est d'un an à compter de la date de la livraison.
 
 Article 20
 
@@ -436,7 +436,7 @@ Article 24
 
 Prescription
 
-Conformément aux dispositions de l'article L. 133-6 du code de commerce, toutes les actions nées du contrat de transport et de ses prestations annexes se prescrivent dans le délai d'un an. Ce délai court, en cas de perte totale, à compter du jour où la marchandise aurait dû être livrée ou offerte et, dans tous les autres cas, à compter du jour où la marchandise a été remise ou offerte au destinataire.
+Conformément aux dispositions de l'article L. 133-6 du code de commerce , toutes les actions nées du contrat de transport et de ses prestations annexes se prescrivent dans le délai d'un an. Ce délai court, en cas de perte totale, à compter du jour où la marchandise aurait dû être livrée ou offerte et, dans tous les autres cas, à compter du jour où la marchandise a été remise ou offerte au destinataire.
 
 Article 25
 
