@@ -4,12 +4,12 @@ Vous pouvez consulter l'intégralité de la présente annexe II à partir de l'e
 
 https://www.legifrance.gouv.fr/download/pdf?id=wbdWZVBrRZSpHvAc4jVeMuJEkRkiRL9VjTUPGPz6rP8=
 
-La présente annexe est modifiée conformément à l'article 2 de l'arrêté du 1er avril 2019 (NOR : LOGL1832867A).
+La présente annexe est modifiée conformément à l'article 2 de l'arrêté du 22 février 2021 (NOR : LOGL2031732A).
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié, n° 0087 du 12/04/2019, texte n° 37, accessible à cette adresse :
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié, n° 0050 du 27/02/2021, texte n° 47, accessible à cette adresse :
 
-https://www.legifrance.gouv.fr/download/pdf?id=yYhVp3Lvz7ON5SqD-hAC0cwJ0r_iDxNUqTQ-vf-OMW0=
+https://www.legifrance.gouv.fr/download/pdf?id=lNbp7krMXv99WS3zY33_u3X4XszLWmFmdpFXxsOXXVg=
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 1er avril 2019 (NOR : LOGL1832867A), ces dispositions s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2018.
+Conformément à l'article 5 de l'arrêté du 22 février 2021 (NOR : LOGL2031732A), ces dispositions s'appliquent à compter de l'exercice comptable ouvert le 1er janvier 2020.
