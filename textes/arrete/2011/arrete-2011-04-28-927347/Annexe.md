@@ -20,9 +20,7 @@ PRÉAMBULE
 
 4.2. Notification des Cessions Annuelles d'Electricité et de garanties de capacité
 
-5. Livraisons annuelles
-
-5.1. Livraison d'énergie
+5. Livraisons annuelles 5.1. Livraison d'énergie
 
 5.2. Livraison de garanties de capacité
 
@@ -48,21 +46,23 @@ PRÉAMBULE
 
 8.1. Facture mensuelle
 
-8.2. Factures relatives au complément de prix (CP1)
+8.2. Factures relatives au terme CP1 du complément de prix
 
-8.3. Règlement
+8.3. Factures relatives au terme CP2 du complément de prix
 
-8.4. Montants contestés
+8.4. Règlement
 
-8.4.1. Procédure de contestation
+8.5. Montants contestés
 
-8.4.2. Procédure en cas d'erreur manifeste ou grossière
+8.5.1. Procédure de contestation
 
-8.5. Défauts de paiement
+8.5.2. Procédure en cas d'erreur manifeste ou grossière
 
-8.5.1. Intérêts de retard
+8.6. Défauts de paiement
 
-8.5.2. Cessation de livraison pour défaut de paiement
+8.6.1. Intérêts de retard
+
+8.6.2. Cessation de livraison pour défaut de paiement
 
 9. Garantie
 
@@ -104,7 +104,7 @@ PRÉAMBULE
 
 19. Droit applicable
 
-Annexe I : Définitions
+Annexe I : Définitions Annexe
 
 Annexe II : Modèle de garantie-Garantie d'Affilié
 
@@ -116,7 +116,9 @@ Entre :
 
 1. Electricité de France (ci-après EDF), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent vingt-cinq mille six cent quatre-vingt-quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, immatriculée au registre du commerce et des sociétés de Paris sous le n° 552 081 317 T, représentée par XX, en sa qualité de XX (ci-après EDF ou le Vendeur),
 
-et 2. (…), (ci-après l'Acheteur),
+et
+
+2. (…), (ci-après l'Acheteur),
 
 ci-après dénommées individuellement ou ensemble une Partie ou les Parties.
 
@@ -148,7 +150,7 @@ Les termes avec majuscule utilisés dans le présent accord-cadre sont définis 
 
 -une référence à une Partie ou à une personne dans le présent accord-cadre ou dans tout autre document ou accord inclut ses ayants droit et successeurs et cessionnaires autorisés ;
 
--les intitulés des Articles et Annexes ne doivent pas être pris en compte dans l'interprétation du présent accord-cadre.
+-les intitulés des articles et annexes ne doivent pas être pris en compte dans l'interprétation du présent accord-cadre.
 
 3. Documents contractuels et priorité d'interprétation
 
@@ -170,7 +172,7 @@ L'Acheteur, afin d'exercer son droit à l'ARENH, adresse à la CRE le dossier de
 
 Afin de permettre à la CRE de procéder aux notifications mentionnées à l'article R. 336-19 du code de l'énergie, chaque Partie communique à la CRE les coordonnées de la personne destinataire des notifications.
 
-4.2. Notification des Cessions annuelles d'électricité et de garanties de capacité
+4.2. Notification des cessions annuelles d'électricité et de garanties de capacité
 
 En application de l'article R. 336-19 du code de l'énergie, la CRE notifie à l'Acheteur les Quantités et Profils des Produits cédés par EDF au titre de l'ARENH sur la période de livraison à venir (ci-après la Notification de cession annuelle d'électricité et de garanties de capacité).
 
@@ -226,7 +228,7 @@ Conformément aux dispositions de l'article L. 336-5 du code de l'énergie, dans
 
 Conformément aux dispositions de l'article R. 336-35 du code de l'énergie, le Complément de prix est constitué de deux termes : CP1 et CP2.
 
-Les modalités de calcul du Complément de prix sont définies par la CRE conformément aux dispositions des articles R. 336-33 et suivants du code de l'énergie.
+Les modalités de calcul et de répartition du Complément de prix sont définies par la CRE conformément aux dispositions des articles R. 336-33 et suivants du code de l'énergie.
 
 6. Taxe sur la valeur ajoutée
 
@@ -270,7 +272,7 @@ Tous les montants prévus au présent accord-cadre sont exclusifs de toute taxe 
 
 8. Facturation, règlement et suivi de la facturation
 
-Les modalités de facturation des frais de gestion de la CDC et du complément de prix CP2 sont précisées par le code de l'énergie et, le cas échéant, par une délibération de la CRE.
+Les modalités de facturation des frais de gestion de la CDC et des parts du montant global correspondant aux versements du terme CP1 attribuées à certains fournisseurs conformément à l'article R. 336-35-2 du code de l'énergie sont précisées par le code de l'énergie et, le cas échéant, par une délibération de la CRE.
 
 Le montant des factures ci-dessous est arrondi aux deux (2) décimales les plus proches.
 
@@ -278,13 +280,19 @@ Le montant des factures ci-dessous est arrondi aux deux (2) décimales les plus 
 
 En application de l'article R. 336-25 du code de l'énergie, la CRE notifie vingt (20) jours avant le premier jour de chaque période de livraison à la CDC le montant dû par chaque Acheteur pour la période de livraison à venir. Au plus tard le premier jour ouvré du mois de livraison [M], la CDC adressera, au nom et pour le compte d'EDF, une facture (la Facture mensuelle) sur la base des éléments qui lui ont été communiqués par la CRE, à l'Acheteur récapitulant les divers éléments constituant le montant à payer par l'Acheteur au titre du Produit cédé le mois [M].
 
-8.2. Factures relatives au complément de prix (CP1)
+8.2. Factures relatives au terme CP1 du complément de prix
 
-Tout montant dû au titre du terme CP1 fait l'objet d'une facture émise par la CDC, au nom et pour le compte d'EDF, sur la base des éléments qui lui ont été transmis par la CRE.
+Tout montant dû à EDF au titre du terme CP1, sur la base de la méthode de répartition prise en application de l'article R. 336-35-2 du code de l'énergie, fait l'objet d'une facture émise par la CDC, au nom et pour le compte d'EDF, sur la base des éléments qui lui ont été transmis par la CRE.
 
 La CDC, agissant au nom et pour le compte d'EDF, adresse cette facture à l'Acheteur au plus tard cinq (5) jours ouvrés après réception des éléments transmis par la CRE.
 
-8.3. Règlement
+8.3. Factures relatives au terme CP2 du complément de prix
+
+Tout montant dû au titre du terme CP2 fait l'objet d'une facture émise par la CDC, au nom et pour le compte d'EDF, sur la base des éléments qui lui ont été transmis par la CRE.
+
+La CDC, agissant au nom et pour le compte d'EDF, adresse cette facture à l'Acheteur au plus tard cinq (5) jours ouvrés après réception des éléments transmis par la CRE.
+
+8.4. Règlement
 
 L'Acheteur s'engage à payer à la CDC, agissant au nom et pour le compte d'EDF, les montants dus comme suit :
 
@@ -292,15 +300,17 @@ L'Acheteur s'engage à payer à la CDC, agissant au nom et pour le compte d'EDF,
 
 -en ce qui concerne le montant indiqué dans la facture relative au Complément de prix CP1, le dernier jour ouvré du Mois de juillet ;
 
+-en ce qui concerne le montant indiqué dans la facture relative au Complément de prix CP2, le dernier jour ouvré du Mois de juillet
+
 (Ci-après, pris individuellement, la Date d'Echéance).
 
 Le règlement sera effectué en Euros, à la Date d'Echéance, par virement sur le compte du fonds ARENH tel que défini à l'article R. 336-21 du code de l'énergie.
 
-8.4. Montants contestés
+8.5. Montants contestés
 
-8.4.1. Procédure de contestation
+8.5.1. Procédure de contestation
 
-Si l'Acheteur conteste, de bonne foi, tout montant figurant sur la Facture mensuelle ou la facture relative au Complément de prix et devant être payé à la CDC agissant au nom et pour le compte d'EDF :
+Si l'Acheteur conteste, de bonne foi, tout montant figurant sur la Facture mensuelle ou les factures relatives au Complément de prix et devant être payé à la CDC agissant au nom et pour le compte d'EDF :
 
 a) Il doit payer l'intégralité des sommes facturées, y compris les montants contestés, au plus tard à la Date d'échéance ;
 
@@ -310,19 +320,19 @@ c) La CDC agissant au nom et pour le compte d'EDF doit apporter à l'Acheteur to
 
 d) La CDC et l'Acheteur se rencontreront afin de résoudre à l'amiable la contestation.
 
-Tout remboursement de tout ou partie d'un montant contesté rendu exigible à l'issue du processus de résolution de la contestation fera l'objet d'une facture rectificative et d'un versement à l'Acheteur dans les cinq (5) jours ouvrés qui suivent la résolution amiable de la contestation. Le montant versé sera actualisé au taux d'intérêt prévu au deuxième alinéa de l'article 8.5.1 du présent accord-cadre.
+Tout remboursement de tout ou partie d'un montant contesté rendu exigible à l'issue du processus de résolution de la contestation fera l'objet d'une facture rectificative et d'un versement à l'Acheteur dans les cinq (5) jours ouvrés qui suivent la résolution amiable de la contestation. Le montant versé sera actualisé au taux d'intérêt prévu au deuxième alinéa de l'article 8.6.1 du présent accord-cadre.
 
 Au cas où la contestation ne serait pas résolue dans un délai de trente (30) jours à compter de la réception par la CDC de la contestation de l'Acheteur, la CDC informera la CRE et EDF de l'existence de cette contestation. La Partie la plus diligente saisira le tribunal compétent.
 
-8.4.2. Procédure en cas d'erreur manifeste ou grossière
+8.5.2. Procédure en cas d'erreur manifeste ou grossière
 
-Si l'Acheteur conteste, de bonne foi, un montant manifestement erroné figurant sur la Facture mensuelle ou la facture relative au Complément de prix, visées aux articles 8.1 et 8.2 du présent accord-cadre, et devant être payé à la CDC agissant au nom et pour le compte d'EDF, il doit communiquer le montant contesté ainsi que les motifs de sa contestation à la CDC dans les deux (2) jours ouvrés (la date d'envoi faisant foi) qui suivent la réception de la facture. Si la CDC, agissant au nom et pour le compte d'EDF, convient du caractère manifestement erroné du montant contesté, elle adresse dans les cinq (5) jours ouvrés qui suivent la réception de la contestation une facture rectificative. L'Acheteur paiera à la Date d'échéance les montants figurant dans la facture rectificative.
+Si l'Acheteur conteste, de bonne foi, un montant manifestement erroné figurant sur la Facture mensuelle ou les factures relatives au Complément de prix, visées aux articles 8.1,8.2 et 8.3 du présent accord-cadre, et devant être payé à la CDC agissant au nom et pour le compte d'EDF, il doit communiquer le montant contesté ainsi que les motifs de sa contestation à la CDC dans les deux (2) jours ouvrés (la date d'envoi faisant foi) qui suivent la réception de la facture. Si la CDC, agissant au nom et pour le compte d'EDF, convient du caractère manifestement erroné du montant contesté, elle adresse dans les cinq (5) jours ouvrés qui suivent la réception de la contestation une facture rectificative. L'Acheteur paiera à la Date d'échéance les montants figurant dans la facture rectificative.
 
-A défaut de réponse de la CDC dans les délais précités ou si la CDC, agissant au nom et pour le compte d'EDF, ne convient pas du caractère manifestement erroné du montant contesté, l'Acheteur doit payer l'intégralité des sommes facturées figurant dans la facture initiale à la Date d'échéance et il sera fait application de la procédure définie à l'article 8.4.1 du présent accord-cadre.
+A défaut de réponse de la CDC dans les délais précités ou si la CDC, agissant au nom et pour le compte d'EDF, ne convient pas du caractère manifestement erroné du montant contesté, l'Acheteur doit payer l'intégralité des sommes facturées figurant dans la facture initiale à la Date d'échéance et il sera fait application de la procédure définie à l'article 8.5.1 du présent accord-cadre.
 
-8.5. Défauts de paiement
+8.6. Défauts de paiement
 
-8.5.1. Intérêts de retard
+8.6.1. Intérêts de retard
 
 A défaut du paiement par l'Acheteur à la CDC agissant au nom et pour le compte d'EDF, à la date d'échéance, de toutes sommes dues en vertu du présent accord-cadre (ou toutes sommes dues en vertu d'une solution visant au règlement des litiges entre les Parties), lesdites sommes produiront un intérêt à un taux annuel égal à trois fois le taux d'intérêt légal augmenté de 3 %, à compter du jour suivant la Date d'échéance jusqu'à la date de règlement effectif à la CDC au nom et pour le compte d'EDF.
 
@@ -332,7 +342,7 @@ Les intérêts dus au titre du présent article seront calculés sur la base du 
 
 Tout retard de paiement entraîne de plein droit, outre les pénalités de retard, une obligation pour le débiteur de payer une indemnité forfaitaire pour frais de recouvrement dont le montant est de 40 € conformément aux dispositions de l'article D. 441-5 du code de commerce.
 
-8.5.2. Cessation de livraison pour défaut de paiement
+8.6.2. Cessation de livraison pour défaut de paiement
 
 La CDC, agissant au nom et pour le compte d'EDF, informe l'Acheteur dès connaissance de tout défaut de paiement par télécopie ou courrier électronique ou lettre recommandée avec accusé de réception. Conformément à l'article R. 336-26 du code de l'énergie, la CDC met immédiatement en demeure l'Acheteur de régulariser sa situation dans un délai de quatre jours ouvrés à compter de la Date d'échéance.
 
@@ -340,9 +350,7 @@ Si, faute d'avoir régularisé sa situation dans le délai de quatre (4) jours o
 
 La cessation intervient le treizième (13e) jour ouvré du mois suivant la constatation du défaut de paiement. L'Acheteur rétrocède une partie des garanties de capacité conformément aux stipulations de l'article 14.
 
-Dans le cas où l'Acheteur régularise sa situation auprès de la CDC, agissant au nom et pour le compte d'EDF, la CDC informe la CRE dans les deux (2) jours ouvrés suivant la régularisation. La CRE notifie à RTE, au Vendeur et à l'Acheteur la reprise de la livraison dans les deux (2) jours ouvrés suivant l'information de la CRE. Le rétablissement de la cession des produits au titre de l'ARENH reprend le sixième (6e) jour ouvré suivant la date d'envoi de la notification de la CRE.
-
-A compter de la deuxième (2e) cessation de transfert d'électricité au titre de l'ARENH pour défaut de paiement, l'Acheteur ne peut à nouveau bénéficier de la cession de produits au titre de l'ARENH qu'après une durée d'un an à compter de la date de cette cessation et à la condition que la régularisation du défaut de paiement ait été effectuée.
+A compter de la cessation de transfert d'électricité au titre de l'ARENH pour défaut de paiement, l'Acheteur ne peut à nouveau bénéficier de la cession de produits au titre de l'ARENH qu'après une durée d'un an à compter de la date de cette cessation et à la condition que la régularisation du défaut de paiement ait été effectuée.
 
 9. Garantie
 

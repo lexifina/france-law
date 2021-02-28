@@ -6,7 +6,7 @@ Garantie Approuvée
 
 Garantie Autonome à Première Demande.
 
-Nous soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le Garant ou Nous), acceptons par le présent document de donner ce jour à la Caisse des dépôts et consignations (CDC), intervenant en tant que mandataire d'Electricité de France (EDF), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingts quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'acheteur et EDF (accord-cadre) au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Confirmations de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la Garantie).
+Nous soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner ce jour à la Caisse des dépôts et consignations (CDC), intervenant en tant que mandataire d'Electricité de France (EDF), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingts quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'acheteur et EDF (accord-cadre) au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Confirmations de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la Garantie).
 
 PRÉAMBULE
 
@@ -62,7 +62,9 @@ Les intérêts de retard échus et non payés seront capitalisés avec le montan
 
 11-1. Les parties peuvent modifier le présent contrat par avenant portant sur la date de validité de la garantie et sur le montant de la garantie. L'avenant est conforme au modèle annexé à l'Accord-cadre.
 
-12. Aucune renonciation à la mise en œuvre d'une ou plusieurs des dispositions de la Garantie ne sera valable, à moins qu'elle n'ait été formulée par écrit et signée par la CDC. Aucun retard, ni aucune opposition, de la part de la CDC ne saura constituer une renonciation ou être interprétée comme telle. Les droits et pouvoirs, ainsi que l'interprétation faite par la CDC de ces droits et pouvoirs au titre de la Garantie s'ajoutent à, et ne sauraient être exclusifs de, ou se substituer à ceux qui lui sont conférés par la loi, tout autre contrat ou toute autre sûreté dont EDF bénéficierait. 13. Toute notification ou autre correspondance au titre de la Garantie ou en rapport avec la Garantie sera effectuée par télécopie ou par simple lettre et envoyée aux adresses suivantes :
+12. Aucune renonciation à la mise en œuvre d'une ou plusieurs des dispositions de la Garantie ne sera valable, à moins qu'elle n'ait été formulée par écrit et signée par la CDC. Aucun retard, ni aucune opposition, de la part de la CDC ne saura constituer une renonciation ou être interprétée comme telle. Les droits et pouvoirs, ainsi que l'interprétation faite par la CDC de ces droits et pouvoirs au titre de la Garantie s'ajoutent à, et ne sauraient être exclusifs de, ou se substituer à ceux qui lui sont conférés par la loi, tout autre contrat ou toute autre sûreté dont EDF bénéficierait.
+
+13. Toute notification ou autre correspondance au titre de la Garantie ou en rapport avec la Garantie sera effectuée par télécopie ou par simple lettre et envoyée aux adresses suivantes :
 
 (i) Concernant le Garant :
 
