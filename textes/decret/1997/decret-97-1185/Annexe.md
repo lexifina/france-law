@@ -170,9 +170,9 @@ Art. R. 6211-49 et R. 6211-56. |
 
 4 |
 
-Agrément des laboratoires chargés d'effectuer les analyses pour la vérification de la qualité de l'eau de consommation humaine, à l'exclusion des eaux minérales naturelles. |
+Agrément des laboratoires chargés d'effectuer les analyses de radioactivité pour la vérification de la qualité de l'eau de consommation humaine, à l'exclusion des eaux minérales naturelles. |
 
-Art. R. * 1321-21 |
+Art R. 1321-21 |
 
 5 |
 
@@ -182,9 +182,11 @@ Art. R. * 1321-52 |
 
 6 |
 
-Agrément des laboratoires d'analyses chargés d'effectuer les analyses pour la vérification de la qualité des eaux minérales naturelles. |
+Agrément des laboratoires d'analyses chargés d'effectuer les analyses de radioactivité pour la vérification de la qualité des eaux minérales naturelles. |
 
-Art. R. * 1322-44-3 |
+Art. R. 1322-44-3
+
+|
 
 Code de la sécurité sociale
 
@@ -271,32 +273,6 @@ Désignation des organismes chargés des examens relatifs au diagnostic de la ra
 |
 
 Art. 1er.
-
-|
-
-Décret n° 81-324 du 7 avril 1981 modifié fixant les normes d'hygiène et de sécurité applicables aux piscines et aux baignades aménagées
-
-1
-
-|
-
-Détermination des produits et procédés permettant de satisfaire aux exigences de qualité des eaux des piscines et des baignades aménagées.
-
-|
-
-Art. 2.
-
-|
-
-2
-
-|
-
-Agréments des laboratoires chargés d'effectuer les analyses pour la vérification de la qualité des eaux des piscines et des baignades.
-
-|
-
-Art. 12 et 14-2.
 
 |
 
@@ -405,3 +381,7 @@ Art. R. 2315-12 |
 Agrément des organismes de formation aux travaux sous tension sur les installations électriques |
 
 Art. R. 4544-11 |
+
+NOTA :
+
+Conformément à l'article 5 du décret n° 2021-205 du 24 février 2021, ces dispositions entrent en vigueur le 1er mars 2021.
