@@ -1052,27 +1052,19 @@ Ministre chargé des transports |
 
 50 |
 
-Inscription au registre des voitures de transport avec chauffeur. |
+(Supprimé) |
 
-Code des transports
+(Supprimé) |
 
-Articles R. 3122-1 à R. 3122-5
-
-|
-
-Ministre chargé des transports |
+(Supprimé) |
 
 51 |
 
-Refus d'inscription ou de renouvellement d'inscription des véhicules de transport avec chauffeur. |
+(Supprimé) |
 
-Code des transports
+(Supprimé) |
 
-Article R. 3122-2
-
-|
-
-Ministre chargé des transports |
+(Supprimé) |
 
 52 |
 
@@ -2734,4 +2726,4 @@ Décisions relatives aux personnes morales placées sous la tutelle ou le contr�
 
 NOTA :
 
-Conformément à l'article 6 du décret n° 2020-954 du 31 juillet 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l'article 4 du décret n° 2021-177 du 17 février 2021, ces dispositions s'appliquent à compter du 1er mars 2021.
