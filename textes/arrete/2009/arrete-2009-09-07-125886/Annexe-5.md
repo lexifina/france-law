@@ -4,115 +4,71 @@
 
 DE DEMANDE D'AGRÉMENT DES DISPOSITIFS DE TRAITEMENT
 
-CONTENU DU DOSSIER
-
-|
+CONTENU DU DOSSIER |
 
 PROCÉDURE D'ÉVALUATION
 
-sur plate-forme
-
-|
+sur plate-forme |
 
 PROCÉDURE D'ÉVALUATION
 
-simplifiée
+simplifiée |
+
+L'identité du demandeur et la dénomination commerciale réservée à l'objet de la demande. |
+
+X |
+
+X |
+
+Les réglementations et normes auxquelles l'installation ou ces dispositifs sont conformes, les rapports d'essais réalisés et le certificat de conformité obtenu, le cas échéant, dans un Etat membre, dans un autre Etat signataire de l'accord sur l'EEE ou en Turquie, la procédure d'évaluation ainsi que toute autre information que le demandeur juge utile à l'instruction de sa demande, afin de tenir compte des contrôles déjà effectués et des approbations déjà délivrées dans un Etat membre, dans un autre Etat signataire de l'accord sur l'EEE ou en Turquie. |
 
 |
 
-L'identité du demandeur et la dénomination commerciale réservée à l'objet de la demande.
+X |
+
+Le rapport d'essai du marquage CE, le cas échéant, s'il a été obtenu, précisant notamment les modalités de réalisation des essais et tous les résultats obtenus en entrée et sortie du dispositif de traitement. |
+
+X |
+
+X |
+
+Rapport d'essais réalisés conformément au protocole décrit en annexe 2.
 
 |
 
-X
+X |
 
 |
 
-X
+Les spécifications relatives à la conception de l'installation et aux procédés ainsi qu'un jeu complet de schémas et de justifications du dimensionnement. Les informations complètes relatives au transport, à l'installation, à l'exploitation et aux spécifications de maintenance de l'installation doivent également être fournies. |
 
-|
+X |
 
-Les réglementations et normes auxquelles l'installation ou ces dispositifs sont conformes, les rapports d'essais réalisés et le certificat de conformité obtenu, le cas échéant, dans un Etat membre, dans un autre Etat signataire de l'accord sur l'EEE ou en Turquie, la procédure d'évaluation ainsi que toute autre information que le demandeur juge utile à l'instruction de sa demande, afin de tenir compte des contrôles déjà effectués et des approbations déjà délivrées dans un Etat membre, dans un autre Etat signataire de l'accord sur l'EEE ou en Turquie.
+X |
 
-|
+La règle d'extrapolation aux installations de capacités supérieures ou inférieures à celles de l'installation de base et ses justifications. |
 
-|
+X |
 
-X
+X |
 
-|
+Les informations relatives à la sécurité mécanique, électrique et structurelle de l'installation à soumettre à l'essai. |
 
-Le rapport d'essai du marquage CE, le cas échéant, s'il a été obtenu, précisant notamment les modalités de réalisation des essais et tous les résultats obtenus en entrée et sortie du dispositif de traitement.
+X |
 
-|
+X |
 
-X
+La description du processus de traçabilité des dispositifs et des composants de l'installation. |
 
-|
+X |
 
-X
+X |
 
-|
+Les documents destinés à l'usager rédigés en français, notamment le guide d'utilisation prévu à l'article 16 du présent arrêté. |
 
-Les spécifications relatives à la conception de l'installation et aux procédés ainsi qu'un jeu complet de schémas et de justifications du dimensionnement. Les informations complètes relatives au transport, à l'installation, à l'exploitation et aux spécifications de maintenance de l'installation doivent également être fournies.
+X |
 
-|
-
-X
-
-|
-
-X
-
-|
-
-La règle d'extrapolation aux installations de capacités supérieures ou inférieures à celles de l'installation de base et ses justifications.
-
-|
-
-X
-
-|
-
-X
-
-|
-
-Les informations relatives à la sécurité mécanique, électrique et structurelle de l'installation à soumettre à l'essai.
-
-|
-
-X
-
-|
-
-X
-
-|
-
-La description du processus de traçabilité des dispositifs et des composants de l'installation.
-
-|
-
-X
-
-|
-
-X
-
-|
-
-Les documents destinés à l'usager rédigés en français, notamment le guide d'utilisation prévu à l'article 16 du présent arrêté.
-
-|
-
-X
-
-|
-
-X
-
-|
+X |
 
 Les documents destinés à l'usager doivent comporter les pièces suivantes :
 
@@ -149,3 +105,7 @@ Les documents destinés à l'usager doivent comporter les pièces suivantes :
 ― un rappel précisant que l'installation est destinée à traiter des effluents à usage domestique et une liste des principaux produits susceptibles d'affecter les performances épuratoires de l'installation ;
 
 ― une analyse du cycle de vie au regard du développement durable (consommation énergétique, possibilité de recyclage des éléments de l'installation en fin de vie, production des boues) et le coût approximatif de l'installation sur quinze ans (investissement, entretien, exploitation).
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 26 février 2021 (NOR : SSAP105341A), ces dispositions entrent en vigueur à compter du 1er mars 2021.
