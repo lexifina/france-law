@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219355
+
+- Question : [SEQ201219355](seq201219355.md) — Ralentisseurs sur les routes
+
+## Réponse
+
+*Transports, JO du 2021-03-04, page 1456*
+
+Le décret n° 94-447 du 27 mai 1994 relatif aux caractéristiques et aux conditions de réalisation des ralentisseurs de type dos d'âne ou de type trapézoïdal précise à l'article 1 que ces ralentisseurs doivent être conformes aux normes en vigueur. Leurs caractéristiques géométriques et techniques (notamment les dimensions) sont décrites dans la norme française NF P98-300, dont l'application est rendue obligatoire par le décret du 27 mai 1994. Tous les ralentisseurs de type dos d'âne ou trapézoïdal doivent aujourd'hui répondre à cette norme. En effet, le décret suscité imposait une mise en conformité de ces ralentisseurs avant 5 ans. Le gestionnaire de voirie qui n'aurait pas pris les dispositions nécessaires engage donc sa responsabilité. En ce qui concerne les coussins berlinois, ils ne font pas l'objet d'une norme et ils ne sont pas couverts par le décret précité. Ils font toutefois l'objet d'un guide de recommandations du centre d'études sur les réseaux de transports, l'urbanisme et les construction publiques (CERTU) intitulé « guide des coussins et plateaux », actualisé en 2010 qui n'a pas de valeur réglementaire. Ce guide a pour objectif d'accompagner les gestionnaires dans leur choix d'aménagement en vue de garantir, dans le même esprit que pour les ralentisseurs de type dos d'âne, la cohérence du dispositif avec l'environnement et la sécurité des usagers. Les coussins berlinois restent autorisés car à ce jour aucun texte juridique ne les interdit mais leur mise en œuvre doit respecter l'ensemble des réglementations opposables aux gestionnaires de voiries publiques. Par exemple, un défaut d'entretien de ces ralentisseurs, entraînant un risque pour les usagers, entraîne la responsabilité du gestionnaire.
