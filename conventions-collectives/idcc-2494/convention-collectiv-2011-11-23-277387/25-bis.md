@@ -1,0 +1,11 @@
+# Article 25 bis
+
+En dehors des situations d'astreinte, chacun devra agir de telle sorte que le droit à la déconnexion de chaque salarié en dehors de son temps de travail effectif soit respecté.
+
+En effet, l'effectivité du respect par le salarié des durées minimales de repos (quotidien et hebdomadaire) et des congés et du respect de la vie personnelle et familiale, implique pour le salarié une obligation de déconnexion des outils de communication à distance pendant ses périodes de repos.
+
+L'employeur s'attachera à sensibiliser les salariés à la déconnexion et au respect des temps de repos et de congés ainsi que du respect de la vie personnelle et familiale.
+
+(1) Article étendu sous réserve d'être complété par un accord d'entreprise, en application du 3° de l'article L. 3121-64 II ou, à défaut, par la fixation par l'employeur lui-même, des modalités d'exercice du droit du salarié à la déconnexion, conformément aux dispositions de l'article L. 3121-65 II du code du travail.
+
+(Arrêté du 15 février 2022 - art. 1)
