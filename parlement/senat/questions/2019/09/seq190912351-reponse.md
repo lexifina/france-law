@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912351
+
+- Question : [SEQ190912351](seq190912351.md) — Droits télévisés de Roland-Garros
+
+## Réponse
+
+*Culture, JO du 2021-03-04, page 1436*
+
+Le ministère de la culture tient tout d'abord à rappeler que la diffusion gratuite et en clair à la télévision des principales compétitions sportives est garantie par le décret n° 2004-1392 du 22 décembre 2004 relatif aux événements d'importance majeure. Cette garantie est d'autant plus nécessaire dans un contexte où le niveau des droits des principales compétitions sportives connaît une forte augmentation depuis plusieurs années. S'agissant de l'audiovisuel public, le Gouvernement a demandé aux sociétés qui le composent de contribuer à l'effort de redressement des comptes publics à hauteur de 190 M€ sur la période 2018-2022, dont 160 M€ portés par France Télévisions. Pour autant, France Télévisions est parvenue à sécuriser les droits de diffusion des compétitions sportives les plus emblématiques jusqu'à 2022 compris, à savoir Roland-Garros, le Tour de France et le Tournoi des Six Nations de Rugby – liste à laquelle il convient d'ajouter les droits de diffusion des éditions 2022 et 2024 des Jeux Olympiques, qui permettront à la société de proposer gratuitement à tous les publics une couverture exceptionnelle de cet événement majeur. Ces acquisitions traduisent l'attachement partagé de France Télévisions et du Gouvernement à ce que le sport trouve toute sa place sur les antennes du service public. S'agissant de l'attribution de lots de diffusion des éditions 2021-2023 de Roland-Garros, il n'appartient pas au ministère de la culture de s'exprimer spécifiquement sur le résultat de l'appel d'offres émis par la Fédération Française de Tennis qui a conduit France Télévisions à obtenir la diffusion de l'ensemble de la compétition à l'exception de quelques matches programmés sur le troisième court par ordre d'importance (court Simonne-Mathieu) en sessions de nuit.
