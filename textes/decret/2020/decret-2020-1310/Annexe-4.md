@@ -2,9 +2,13 @@
 
 - Les vaccins mentionnés à l'article 53-1 sont les suivants :
 
+I.-Vaccins à acide ribonucléique (ARN) messager :
+
 - le vaccin à ARNm COMIRNATY (BNT162b2) des laboratoires Pfizer/BioNTech ;
 
-- le vaccin Moderna Covid-19 mRNA ;
+- le vaccin Moderna Covid-19 mRNA.
+
+II.-Vaccins à vecteur viral :
 
 - le vaccin Covid vaccine AstraZeneca.
 
