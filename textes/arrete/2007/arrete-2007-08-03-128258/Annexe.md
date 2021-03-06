@@ -1,86 +1,22 @@
 # Article Annexe
 
-LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRÊT
+LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 novembre 2020 :
+Jusqu'au 31 décembre 2021 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
 
-Paris-Sal (Cabo Verde).
+Pointe-à-Pitre ─ Philipsburg (Etat de Saint-Martin), y compris en continuation depuis Paris ;
 
-Jusqu'au 28 février 2021 :
+Pointe-à-Pitre ─ Castries (Sainte-Lucie), y compris en continuation depuis Paris ;
 
-Paris-Port-Louis (île Maurice).
-
-Jusqu'au 31 mars 2021 :
-
-Paris-Montréal (Canada).
-
-Jusqu'au 30 juin 2021 :
-
-Pointe-à-Pitre-Saint-Barthélemy ;
-
-Pointe-à-Pitre-Punta Cana (République dominicaine) ;
-
-Pointe-à-Pitre-Saint-Domingue (République dominicaine) ;
-
-Fort-de-France-Sainte-Lucie ;
-
-Fort-de-France-Punta Cana (République dominicaine) ;
-
-Fort-de-France-Saint-Domingue (République dominicaine).
-
-Jusqu'au 31 août 2021 :
-
-Paris-San Juan (Porto Rico) ;
-
-Paris-Melville (La Dominique) ;
-
-Paris-Bridgetown (La Barbade) ;
-
-Pointe-à-Pitre-San Juan (Porto Rico) ;
-
-Pointe-à-Pitre-Melville (La Dominique) ;
-
-Pointe-à-Pitre-Bridgetown (La Barbade) ;
-
-Fort-de-France-San Juan (Porto Rico) ;
-
-Fort-de-France-Melville (La Dominique) ;
-
-Fort-de-France-Bridgetown (La Barbade).
-
-Jusqu'au 31 décembre 2021 :
-
-Paris-Sainte-Lucie ;
-
-Pointe-à-Pitre-Philipsburg (Saint-Martin) ;
-
-Pointe-à-Pitre-Sainte-Lucie ;
-
-Fort-de-France-Philipsburg (Saint-Martin) ;
-
-Paris-Philipsburg (Etat de Saint Martin).
-
-Jusqu'au 31 janvier 2022 :
-
-Saint-Denis de La Réunion-Antananarivo (Madagascar) ;
-
-Jusqu'au 30 avril 2022, et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie française disposant des autorisations nécessaires :
-
-Paris-Beyrouth (Liban).
-
-Jusqu'au 31 mai 2022 :
-
-Paris-Antananarivo (Madagascar) ;
-
-Paris-Dakar (Sénégal).
+Fort-de-France ─ Philipsburg (Etat de Saint-Martin), y compris en continuation depuis Paris.
 
 Jusqu'au 31 octobre 2022 :
 
 Paris-Bamako (Mali) ;
 
-Paris-Abidjan (Côte d'Ivoire).
+Paris ─ Abidjan (Côte d'Ivoire).
 
-Jusqu'au 31 mars 2023 :
+Jusqu'au 31 mars 2023 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
 
 Paris-Agadir (Maroc) ;
 
@@ -94,18 +30,54 @@ Paris-Marrakech (Maroc) ;
 
 Paris-Oujda (Maroc) ;
 
-Paris-Rabat (Maroc) ;
+Paris-Rabat (Maroc).
 
-Paris-New-York (Etats-Unis).
+Jusqu'au 31 octobre 2024 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
 
-Jusqu'au 31 décembre 2023 :
-
-Paris-Miami (Etats-Unis).
-
-Jusqu'au 31 octobre 2024 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie française disposant des autorisations nécessaires :
-
-Pointe-à-Pitre-Roseau (la Dominique) ;
+Pointe-à-Pitre ─ Roseau (La Dominique).
 
 Jusqu'au 30 novembre 2024, pour du transport de fret uniquement :
 
-Saint-Denis de La Réunion-Port-Louis (île Maurice).
+Saint-Denis de La Réunion ─ Port-Louis (île Maurice).
+
+Jusqu'au 31 mars 2026 et dans la limite de cinq (5) fréquences hebdomadaires sur l'ensemble des trois liaisons suivantes :
+
+Paris-Port Louis (Maurice) ;
+
+Lyon-Port Louis (Maurice) ;
+
+Marseille-Port Louis (Maurice).
+
+Jusqu'au 31 mars 2026 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie russe disposant des autorisations nécessaires :
+
+Paris ─ Moscou (Fédération de Russie).
+
+Jusqu'au 31 mars 2026 et exclusivement dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires :
+
+Pointe-à-Pitre ─ Saint-Barthélemy, y compris en continuation depuis Paris ;
+
+Pointe-à-Pitre ─ Punta Cana (République dominicaine) ;
+
+Pointe-à-Pitre ─ Saint-Domingue (République dominicaine) ;
+
+Fort-de-France ─ Castries (Sainte-Lucie), y compris en continuation depuis Paris ;
+
+Fort-de-France ─ Punta Cana (République dominicaine) ;
+
+Fort-de-France ─ Saint-Domingue (République dominicaine) ;
+
+Pointe-à-Pitre ─ San Juan (Porto Rico), y compris en continuation depuis Paris ;
+
+Pointe-à-Pitre ─ Douglas Charles (La Dominique), y compris en continuation depuis Paris ;
+
+Pointe-à-Pitre ─ Bridgetown (La Barbade), y compris en continuation depuis Paris ;
+
+Fort-de-France ─ San Juan (Porto Rico), y compris en continuation depuis Paris ;
+
+Fort-de-France ─ Douglas Charles (La Dominique), y compris en continuation depuis Paris ;
+
+Fort-de-France ─ Bridgetown (La Barbade), y compris en continuation depuis Paris.
+
+Jusqu'au 31 mars 2026 :
+
+Paris-Montréal (Canada).
