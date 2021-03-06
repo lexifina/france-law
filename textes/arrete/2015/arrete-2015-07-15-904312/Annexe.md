@@ -6,7 +6,7 @@ CAHIER DES CHARGES
 
 Le cahier des charges précise les conditions d'appréciation des critères définis à l'article 5 du présent arrêté relatif aux brevets d'aptitude aux fonctions d'animateur et de directeur en accueils collectifs de mineurs.
 
-Critère n° 1 : Formalisation d'un projet éducatif dans une démarche d'éducation populaire :
+Critère n° 1 : Formalisation d'un projet éducatif, garant des valeurs de la République et notamment de la laïcité, dans une démarche d'éducation populaire :
 
 Tout organisme est tenu d'élaborer et d'expliciter un projet éducatif s'inscrivant dans une démarche en rapport avec l'éducation populaire et répondant aux objectifs de formation particuliers du BAFA et du BAFD.
 
@@ -52,7 +52,7 @@ La participation des formateurs au dispositif de formation initiale doit être r
 
 Tout formateur ou directeur de session doit être en mesure de justifier sa participation à un nombre minimum de jours de formation continue sur une année.
 
-Chaque action de formation de formateurs fait l'objet d'un compte rendu succinct en annexe duquel figure la liste des participants. Ce compte rendu est joint au bilan annuel adressé, pour les habilitations régionales, à chaque directeur régional de la jeunesse, des sports et de la cohésion sociale concerné et pour les habilitations nationales, au directeur de la jeunesse, de l'éducation populaire et de la vie associative.
+Chaque action de formation de formateurs fait l'objet d'un compte rendu succinct en annexe duquel figure la liste des participants. Ce compte rendu est joint au bilan annuel adressé, pour les habilitations régionales, à chaque recteur de région académique concerné ou, en Guyane et à Saint-Pierre-et-Miquelon, au préfet et pour les habilitations nationales, au directeur de la jeunesse, de l'éducation populaire et de la vie associative.
 
 Critère n° 4 : Ouverture des sessions à tous les publics sans discrimination :
 
@@ -122,7 +122,7 @@ Critère n° 8 : Utilisation des critères définis aux articles 20 et 37 du pr�
 
 L'organisme doit être en mesure de préciser pour chaque fonction et critère définis aux articles 20 et 37 du présent arrêté, les indicateurs utilisés par ses équipes de formateurs lors de l'évaluation des stagiaires.
 
-Il convient de vérifier que la démarche d'évaluation de l'organisme repose bien sur des indicateurs objectifs et cohérents, ainsi que sa pertinence pour rendre un avis motivé qui permet en fin de cursus au jury d'apprécier le parcours du candidat et au directeur départemental ou régional de statuer.
+Il convient de vérifier que la démarche d'évaluation de l'organisme repose bien sur des indicateurs objectifs et cohérents, ainsi que sa pertinence pour rendre un avis motivé qui permet en fin de cursus au jury d'apprécier le parcours du candidat et au recteur de région académique ou, en Guyane et à Saint-Pierre-et-Miquelon, au préfet de statuer.
 
 Ces critères constituent les minima communs à toutes les sessions quel que soit l'organisme de formation. La démarche d'évaluation et l'ensemble des critères utilisés sont présentés aux stagiaires en tout début de session ; il est prévu au moins deux temps formels d'évaluation entre le stagiaire et l'équipe de formateurs, dont un à l'issue de la session.
 
