@@ -22,9 +22,9 @@ La combinaison s'entend comme un cumul des éléments d'actif et de passif, des 
 
 II. - Périmètre de combinaison
 
-Le périmètre de combinaison de chaque branche du régime général, de celui de l'activité de recouvrement dudit régime général et celui de chaque autre régime obligatoire de base de la sécurité sociale est constitué par l'ensemble des entités qui sont soit combinées entre elles, soit combinées ou, le cas échéant, consolidées par une ou plusieurs des entités combinées.
+1. Entités à retenir dans le périmètre de combinaison
 
-Lorsque des organismes qui gèrent un régime obligatoire de base gèrent également un régime complémentaire, les comptes combinés qu'ils présentent doivent distinguer clairement les opérations afférentes au régime obligatoire de base de celles des régimes complémentaires.
+Le périmètre de combinaison de chaque branche du régime général, de celui de l'activité de recouvrement dudit régime général et celui de chaque autre régime obligatoire de base de la sécurité sociale est constitué par l'ensemble des entités qui sont soit combinées entre elles, soit combinées ou, le cas échéant, consolidées par une ou plusieurs des entités combinées.
 
 L'entité combinante et les entités combinées constituent un ensemble.
 
@@ -60,7 +60,9 @@ En ce qui concerne les caisses générales de sécurité sociale, la ventilation
 
 Pour les branches du régime général :
 
-- CNAM-branche maladie : 71 % ;
+- -CNAM-branche maladie : 67 % ;
+
+-CNAM-branche accidents du travail et maladies professionnelles : 4 % ;
 
 - CNAV-branche vieillesse : 21 %.
 
@@ -77,6 +79,14 @@ Lorsque l'activité de ces dernières, qui sont tenues de par une disposition l�
 Toutefois, le cas échéant, une provision pour risques devra être constituée dans les comptes combinés, en vue de couvrir les risques d'importance significative de toute nature assumés par ces entités. Par ailleurs, la justification de l'exclusion du périmètre de combinaison ainsi qu'une information concernant les éléments significatifs, notamment le patrimoine immobilier, de ces entités devront figurer à l'annexe des comptes combinés.
 
 d) Lorsqu'une entreprise ou entité comprise dans le périmètre de combinaison vient à détenir un contrôle exclusif ou conjoint ou une influence notable au sens respectivement des paragraphes 1002, 1003 et 1004 de la section I du règlement n° 99-02 du CRC dans une société de capitaux, cette dernière est consolidée et par conséquent incluse dans le périmètre de combinaison, dès lors qu'elle présente une importance significative.
+
+2. Modalités de prise en compte des opérations ne relevant pas du champ des prestations des régimes de base de sécurité sociale
+
+Lorsque des organismes qui gèrent un régime obligatoire de base gèrent également un régime complémentaire, les comptes combinés qu'ils présentent doivent distinguer clairement les opérations afférentes au régime obligatoire de base de celles des régimes complémentaires.
+
+En ce qui concerne la branche maladie du régime général, le périmètre de combinaison n'inclut pas les charges et produits relatifs à la gestion de la complémentaire santé solidaire assurée par les organismes de son réseau. De la même façon, il n'inclut pas les charges et produits relatifs au financement des dépenses de complémentaire santé solidaire de l'ensemble des régimes assuré par le fonds mentionné à l'article L. 862-1 du code de la sécurité sociale.
+
+Les comptes combinés de la branche maladie n'incluent pas non plus le détail des charges et produits relatifs à la gestion des soins urgents. Ils retracent le déficit résultant de la différence entre la prise en charge de ces opérations par la branche maladie et la dotation versée à ce titre par l'Etat en application de l' article L. 254-1 du code de l'action sociale et des familles.
 
 III. - Transmission des informations
 
@@ -141,3 +151,7 @@ Toutefois, l'annexe devra fournir des informations propres aux comptes combinés
 - un compte de résultat détaillé décliné chaque fois que nécessaire par branche ou gestion en vertu d'une disposition législative ou réglementaire propre au régime ou à la branche concernés ;
 
 - tout document complémentaire estimé nécessaire pour des besoins spécifiques.
+
+NOTA :
+
+Se reporter à l’article 2 de l’arrêté du 2 mars 2021 qui précise les conditions d’application.
