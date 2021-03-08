@@ -12,7 +12,7 @@ Sur les classifications :
 
 – suivi de la mise en œuvre, moyens de recours ;
 
-– dispositifs d'évolution professionnelle y compris en lien avec la GPEC et les travaux de l'EDEC (répertoire et référentiel des métiers, aires de mobilité entre métiers, parcours professionnels, accès aux postes à responsabilités).
+– dispositifs d'évolution professionnelle y compris en lien avec la GEPP et les travaux de l'EDEC (répertoire et référentiel des métiers, aires de mobilité entre métiers, parcours professionnels, accès aux postes à responsabilités).
 
 Sur les rémunérations :
 
