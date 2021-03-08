@@ -102,47 +102,45 @@ TOTAL |
 
 II. - Corps d'encadrement et d'application de la police nationale
 
-POSTES A RESPONSABILITE
-
-DEVOLUS A UN MAJOR
-
-A L'ECHELON EXCEPTIONNEL |
+POSTES A RESPONSABILITE DEVOLUS A UN MAJOR DE L'ECHELON EXCEPTIONNEL |
 
 Rappel nombre
 
-d'emplois 2019 |
+d'emplois
+
+2020 |
 
 Nombre d'emplois
 
-à compter de 2020 |
+à compter de
 
-Nombre de points
+2021 |
 
-par emploi |
+Nombre de points par emploi |
 
 Total des points
 
-à compter de 2020 |
+à compter de 2021 |
 
-Major à l'échelon exceptionnel |
-
-2 270 |
+Major de l'échelon exceptionnel |
 
 2 350 |
+
+2 450 |
 
 10 |
 
-23 500 |
+24 500 |
 
 TOTAL |
 
-2 270 |
-
 2 350 |
 
-|
+2 450 |
 
-23 500 |
+10 |
+
+24 500 |
 
 III. - Emplois fonctionnels
 
@@ -152,36 +150,38 @@ D'EMPLOIS |
 
 Rappel nombre
 
-d'emplois 2019 |
+d'emplois
 
-Nombre d'emplois
+2020 |
 
-à compter de 2020 |
+Nombre
 
-Nombre de points
+d'emplois
 
-par emploi |
+à compter de 2021 |
+
+Nombre de points par emploi |
 
 Total des points
 
-à compter de 2020 |
+à compter de 2021 |
 
 Responsable d'unité locale de police |
 
-1159 |
-
 1 210 |
+
+1 260 |
 
 20 |
 
-24 200 |
+25 200 |
 
 TOTAL |
 
-1159 |
-
 1 210 |
 
-|
+1 260 |
 
-24 200 |
+20 |
+
+25 200 |
