@@ -1,5264 +1,2948 @@
 # Article Annexe 8 (suite)
 
-GFFC004
+GFFC004 |
 
 |
 
-|
+Exérèse de kyste bronchogénique, par thoracoscopie |
 
-Exérèse de kyste bronchogénique, par thoracoscopie
+GFFC005 |
 
 |
 
-GFFC005
+Résection de bulle pulmonaire avec abrasion ou exérèse de la plèvre pariétale, par thoracoscopie |
 
-|
+GFFC006 |
 
 |
 
-Résection de bulle pulmonaire avec abrasion ou exérèse de la plèvre pariétale, par thoracoscopie
-
-|
+Résection de bulle pulmonaire, par thoracoscopie |
 
-GFFC006
+GGCA001 |
 
 |
 
-|
+Pleurostomie cutanée avec résection costale, par thoracotomie [Thoracostomie en gueule de four] |
 
-Résection de bulle pulmonaire, par thoracoscopie
+GGFA001 |
 
 |
 
-GGCA001
+Exérèse de tumeur de la plèvre, par thoracotomie avec préparation par thoracoscopie |
 
-|
+GGFA003 |
 
 |
 
-Pleurostomie cutanée avec résection costale, par thoracotomie [Thoracostomie en gueule de four]
-
-|
+Exérèse de tumeur de la plèvre, par thoracotomie |
 
-GGFA001
+GGJA001 |
 
 |
 
-|
+Évacuation de collection septique de la cavité pleurale avec débridement, par thoracotomie |
 
-Exérèse de tumeur de la plèvre, par thoracotomie avec préparation par thoracoscopie
+GGJA002 |
 
 |
 
-GGFA003
+Évacuation de collection de la cavité pleurale, par thoracotomie |
 
-|
+GGJA003 |
 
 |
 
-Exérèse de tumeur de la plèvre, par thoracotomie
+Décaillotage de la cavité pleurale, par thoracotomie |
 
+GGJA004 |
+
 |
 
-GGJA001
+Évacuation de collection de la cavité pleurale avec résection costale, par thoracotomie |
 
-|
+GGJB005 |
 
 |
 
-Évacuation de collection septique de la cavité pleurale avec débridement, par thoracotomie
+Pose de plusieurs drains thoraciques pour irrigation-lavage pleurale, par voie transcutanée |
 
+GGJC001 |
+
 |
 
-GGJA002
+Évacuation de collection septique de la cavité pleurale avec débridement, par thoracoscopie |
 
-|
+GGJC002 |
 
 |
 
-Évacuation de collection de la cavité pleurale, par thoracotomie
+Évacuation d'un hémothorax, par thoracoscopie |
 
+GGLB006 |
+
 |
 
-GGJA003
+Pose d'un drain thoracique pour lavage pleural, par voie transcutanée |
 
-|
+GGLC001 |
 
 |
 
-Décaillotage de la cavité pleurale, par thoracotomie
+Instillation intrapleurale de substance irritante, par thoracoscopie |
 
+GGNA001 |
+
 |
 
-GGJA004
+Abrasion ou exérèse de la plèvre pariétale, par thoracotomie |
 
-|
+GGNC001 |
 
 |
 
-Évacuation de collection de la cavité pleurale avec résection costale, par thoracotomie
+Abrasion ou exérèse de la plèvre pariétale, par thoracoscopie |
 
+GGPA001 |
+
 |
 
-GGJB005
+Décortication pleuropulmonaire, par thoracotomie |
 
-|
+GGPA002 |
 
 |
 
-Pose de plusieurs drains thoraciques pour irrigation-lavage pleurale, par voie transcutanée
+Libération du poumon [Pneumolyse] pour symphyse pleurale |
 
+GHFA001 |
+
 |
 
-GGJC001
+Exérèse de tumeur du médiastin, par cervicotomie |
 
-|
+GHFA002 |
 
 |
 
-Évacuation de collection septique de la cavité pleurale avec débridement, par thoracoscopie
+Exérèse de tumeur du médiastin, par thoracotomie avec préparation par thoracoscopie |
 
-|
+GHFA002 |
 
-GGJC002
+-30 |
 
-|
+Exérèse de tumeur du médiastin, par thoracotomie avec préparation par thoracoscopie |
 
-|
+GHFA002 |
 
-Évacuation d'un hémothorax, par thoracoscopie
+-40 |
 
-|
+Exérèse de tumeur du médiastin, par thoracotomie avec préparation par thoracoscopie |
 
-GGLB006
+GHFA003 |
 
 |
 
-|
+Exérèse de tumeur du médiastin avec résection d'organe et/ou de structure de voisinage, par thoracotomie |
 
-Pose d'un drain thoracique pour lavage pleural, par voie transcutanée
+GHFA004 |
 
 |
 
-GGLC001
+Exérèse de tumeur du médiastin, par thoracotomie |
 
-|
+GHJA002 |
 
 |
 
-Instillation intrapleurale de substance irritante, par thoracoscopie
+Évacuation de collection du médiastin, par thoracotomie |
 
-|
-
-GGNA001
+HAFA003 |
 
 |
 
-|
+Glossectomie totale de langue mobile, par abord cervicofacial |
 
-Abrasion ou exérèse de la plèvre pariétale, par thoracotomie
+HAFA004 |
 
 |
 
-GGNC001
+Pelvimandibulectomie interruptrice, par abord cervicofacial |
 
-|
+HAFA012 |
 
 |
 
-Abrasion ou exérèse de la plèvre pariétale, par thoracoscopie
+Glossectomie totale de base |
 
+HAFA013 |
+
 |
 
-GGPA001
+Glossectomie totale de langue mobile, par abord intrabuccal |
 
-|
+HAFA016 |
 
 |
 
-Décortication pleuropulmonaire, par thoracotomie
+Glossectomie totale avec pharyngolaryngectomie totale |
 
+HAFA017 |
+
 |
 
-GGPA002
+Pelvi-glosso-mandibulectomie interruptrice, par abord cervicofacial |
 
-|
+HAFA027 |
 
 |
 
-Libération du poumon [Pneumolyse] pour symphyse pleurale
+Pelviglossectomie de langue mobile, par abord cervicofacial |
 
+HAFA029 |
+
 |
 
-GHFA001
+Glossectomie totale de base de langue et de langue mobile |
 
-|
+HDFA001 |
 
 |
 
-Exérèse de tumeur du médiastin, par cervicotomie
+Pharyngolaryngectomie totale circulaire avec rétablissement de continuité par transplant libre de jéjunum |
 
+HDFA003 |
+
 |
 
-GHFA002
+Pharyngolaryngectomie totale étendue à la base de langue |
 
-|
+HDFA005 |
 
 |
 
-Exérèse de tumeur du médiastin, par thoracotomie avec préparation par thoracoscopie
+Pharyngolaryngectomie totale |
 
+HDFA006 |
+
 |
 
-GHFA003
+Pharyngolaryngectomie totale circulaire avec rétablissement de continuité par coloplastie rétrosternale |
 
-|
+HDFA007 |
 
 |
 
-Exérèse de tumeur du médiastin avec résection d'organe et/ou de structure de voisinage, par thoracotomie
+Oropharyngectomie par mandibulotomie avec pharyngolaryngectomie totale |
 
+HDFA008 |
+
 |
 
-GHFA004
+Oropharyngectomie latérale, par cervicotomie |
 
-|
+HDFA010 |
 
 |
 
-Exérèse de tumeur du médiastin, par thoracotomie
+Pharyngolaryngectomie totale circulaire |
 
+HDFA011 |
+
 |
 
-GHJA002
+Oropharyngectomie avec mandibulectomie partielle interruptrice, par abord cervicofacial |
 
-|
+HDFA012 |
 
 |
 
-Évacuation de collection du médiastin, par thoracotomie
+Pharyngectomie postérieure, par cervicotomie |
 
+HDFA013 |
+
 |
 
-HAFA003
+Oropharyngectomie avec mandibulectomie partielle interruptrice et pharyngolaryngectomie totale |
 
-|
+HDFA017 |
 
 |
 
-Glossectomie totale de langue mobile, par abord cervicofacial
+Oropharyngectomie postérieure, par cervicotomie |
 
+HDFA019 |
+
 |
 
-HAFA004
+Oropharyngectomie par mandibulotomie |
 
-|
+HDGA001 |
 
 |
 
-Pelvimandibulectomie interruptrice, par abord cervicofacial
+Ablation de corps étranger pharyngooesophagien, par cervicotomie |
 
+HDMA008 |
+
 |
 
-HAFA012
+Pharyngoplastie pour sténose vélo-oro-rhino-pharyngée |
 
-|
+HDMA009 |
 
 |
 
-Glossectomie totale de base
+Vélopharyngoplastie ou pharyngoplastie avec lambeau pharyngé et lambeau palatin |
 
+HECA002 |
+
 |
 
-HAFA013
+Suture de plaie ou de perforation de l'oesophage, par thoracotomie |
 
-|
+HECA004 |
 
 |
 
-Glossectomie totale de langue mobile, par abord intrabuccal
+Suture de plaie ou de perforation de l'oesophage, par laparotomie |
 
+HECC001 |
+
 |
 
-HAFA016
+Suture de plaie ou de perforation de l'oesophage, par thoracoscopie |
 
-|
+HEFA001 |
 
 |
 
-Glossectomie totale avec pharyngolaryngectomie totale
+oesophagectomie avec oesophagogastroplastie, par thoracophrénotomie gauche |
 
+HEFA002 |
+
 |
 
-HAFA017
+oesophagectomie avec oesophagogastroplastie, par cervicotomie, thoracotomie et laparotomie |
 
-|
+HEFA003 |
 
 |
 
-Pelvi-glosso-mandibulectomie interruptrice, par abord cervicofacial
+oesophagectomie avec oesophagogastroplastie, par thoracotomie et par coelioscopie |
 
+HEFA004 |
+
 |
 
-HAFA027
+oesophagectomie totale avec oesophagogastroplastie, par cervicotomie et par laparotomie |
 
-|
+HEFA005 |
 
 |
 
-Pelviglossectomie de langue mobile, par abord cervicofacial
+oesophagectomie avec oesophagojéjunostomie, par thoraco-phréno-laparotomie |
 
+HEFA006 |
+
 |
 
-HAFA029
+oesophagectomie totale avec oesophagocoloplastie, par cervicotomie et par laparotomie |
 
-|
+HEFA007 |
 
 |
 
-Glossectomie totale de base de langue et de langue mobile
+oesophagectomie avec oesophagocoloplastie, par cervicotomie, thoracotomie et laparotomie |
 
+HEFA008 |
+
 |
 
-HDFA001
+oesophago-pharyngo-laryngectomie totale avec oesophagogastroplastie, par cervicotomie et par laparotomie |
 
-|
+HEFA009 |
 
 |
 
-Pharyngolaryngectomie totale circulaire avec rétablissement de continuité par transplant libre de jéjunum
+oesophagectomie avec oesophagocoloplastie, par thoracotomie et par laparotomie |
 
+HEFA010 |
+
 |
 
-HDFA003
+Exérèse de duplication de l'oesophage, par thoracotomie et par laparotomie |
 
-|
+HEFA011 |
 
 |
 
-Pharyngolaryngectomie totale étendue à la base de langue
+oesophagectomie avec oesophagojéjunostomie, par thoracotomie et par laparotomie |
 
+HEFA012 |
+
 |
 
-HDFA005
+oesophagectomie avec oesophagogastroplastie, par thoracotomie et par laparotomie |
 
-|
+HEFA013 |
 
 |
 
-Pharyngolaryngectomie totale
+oesophagectomie avec oesophagogastroplastie, par thoraco-phréno-laparotomie |
 
+HEFA014 |
+
 |
 
-HDFA006
+Exérèse de duplication de l'oesophage, par thoracotomie |
 
-|
+HEFA015 |
 
 |
 
-Pharyngolaryngectomie totale circulaire avec rétablissement de continuité par coloplastie rétrosternale
+Résection de diverticule de l'oesophage, par thoracotomie |
 
+HEFA016 |
+
 |
 
-HDFA007
+oesophagectomie avec oesophagocoloplastie, par thoraco-phréno-laparotomie |
 
-|
+HEFA017 |
 
 |
 
-Oropharyngectomie par mandibulotomie avec pharyngolaryngectomie totale
+oesophago-pharyngo-laryngectomie totale avec oesophagocoloplastie, par cervicotomie et par laparotomie |
 
+HEFA018 |
+
 |
 
-HDFA008
+oesophagectomie avec oesophagogastroplastie, par cervicotomie, thoracotomie et coelioscopie |
 
-|
+HEFA019 |
 
 |
 
-Oropharyngectomie latérale, par cervicotomie
+Excision de tumeur de l'oesophage sans interruption de la continuité, par thoracotomie |
 
+HEFA020 |
+
 |
 
-HDFA010
+oesophagectomie totale sans rétablissement de la continuité, par cervicotomie et par laparotomie |
 
-|
+HEFA021 |
 
 |
 
-Pharyngolaryngectomie totale circulaire
+Résection-anastomose de rétrécissement congénital de l'oesophage, par thoracotomie |
 
+HEFA022 |
+
 |
 
-HDFA011
+oesophagectomie totale sans rétablissement de la continuité, par thoracotomie |
 
-|
+HEFC001 |
 
 |
 
-Oropharyngectomie avec mandibulectomie partielle interruptrice, par abord cervicofacial
+Résection de diverticule de l'oesophage, par thoracoscopie |
 
+HEFC002 |
+
 |
 
-HDFA012
+Excision de tumeur de l'oesophage sans interruption de la continuité, par thoracoscopie |
 
-|
+HEFC003 |
 
 |
 
-Pharyngectomie postérieure, par cervicotomie
+Exérèse de duplication de l'oesophage, par thoracoscopie |
 
-|
+HEFC800 |
 
-HDFA013
+-01 |
 
-|
+Oesophagectomie avec oesophagogastroplastie, par thoracoscopie et laparotomie ou coelioscopie. |
 
-|
+HEFC801 |
 
-Oropharyngectomie avec mandibulectomie partielle interruptrice et pharyngolaryngectomie totale
+-01 |
 
-|
+Oesophagectomie avec oesophagogastroplastie, par cervicotomie, thoracoscopie et laparotomie ou coelioscopie. |
 
-HDFA017
+HEMA001 |
 
 |
 
-|
+oesophagocoloplastie rétrosternale sans oesophagectomie, avec anastomose oesophagocolique cervicale, par cervicotomie et par laparotomie |
 
-Oropharyngectomie postérieure, par cervicotomie
+HEMA002 |
 
 |
 
-HDFA019
+Reconstruction secondaire de l'oesophage pour atrésie avec fistule, par thoracotomie |
 
-|
+HEMA003 |
 
 |
 
-Oropharyngectomie par mandibulotomie
+Reconstruction de l'oesophage et fermeture de la fistule en un temps pour atrésie avec fistule, par thoracotomie |
 
+HEMA004 |
+
 |
 
-HDGA001
+Reconstruction de l'oesophage en un temps pour atrésie sans fistule, par thoracotomie |
 
-|
+HEMA005 |
 
 |
 
-Ablation de corps étranger pharyngooesophagien, par cervicotomie
+oesophagocoloplastie rétrosternale sans oesophagectomie, avec anastomose pharyngocolique, par cervicotomie et par laparotomie |
 
+HEMA006 |
+
 |
 
-HDMA008
+Reconstruction de l'oesophage par lambeau libre de segment digestif, avec anastomoses vasculaires et digestives |
 
-|
+HEMA008 |
 
 |
 
-Pharyngoplastie pour sténose vélo-oro-rhino-pharyngée
+oesophagogastroplastie rétrosternale sans oesophagectomie, avec anastomose oesophagogastrique cervicale, par cervicotomie et par laparotomie |
 
+HEMA009 |
+
 |
 
-HDMA009
+oesophagogastroplastie rétrosternale sans oesophagectomie, avec anastomose pharyngogastrique, par cervicotomie et par laparotomie |
 
-|
+HEPA001 |
 
 |
 
-Vélopharyngoplastie ou pharyngoplastie avec lambeau pharyngé et lambeau palatin
+oeso-cardio-myotomie extramuqueuse sans réalisation de procédé antireflux, par thoracotomie |
 
+HEPA003 |
+
 |
 
-HECA002
+oeso-cardio-myotomie extramuqueuse avec réalisation de procédé antireflux, par thoracotomie |
 
-|
+HEPA004 |
 
 |
 
-Suture de plaie ou de perforation de l'oesophage, par thoracotomie
+Transsection de l'oesophage avec splénectomie et déconnexion portosystémique, par laparotomie |
 
+HEPA005 |
+
 |
 
-HECA004
+Transsection de l'oesophage, par thoracotomie ou par laparotomie |
 
-|
+HEPA007 |
 
 |
 
-Suture de plaie ou de perforation de l'oesophage, par laparotomie
+Transsection de l'oesophage avec splénectomie et déconnexion portosystémique, par thoracotomie et par laparotomie |
 
+HEPC001 |
+
 |
 
-HECC001
+oeso-cardio-myotomie extramuqueuse sans réalisation de procédé antireflux, par thoracoscopie |
 
-|
+HEPC004 |
 
 |
 
-Suture de plaie ou de perforation de l'oesophage, par thoracoscopie
+oeso-cardio-myotomie extramuqueuse avec réalisation de procédé antireflux, par thoracoscopie |
 
+HESA001 |
+
 |
 
-HEFA001
+Fermeture de fistule oesotrachéale acquise, par cervicotomie |
 
-|
+HESA002 |
 
 |
 
-Oesophagectomie avec oesophagogastroplastie, par thoracophrénotomie gauche
+Fermeture d'une fistule oesotrachéale congénitale sans atrésie de l'oesophage, par cervicotomie et par thoracotomie |
 
+HESA004 |
+
 |
 
-HEFA002
+Fermeture de fistule oesotrachéale acquise, par cervicothoracotomie ou par thoracotomie |
 
-|
+HESA006 |
 
 |
 
-Oesophagectomie avec oesophagogastroplastie, par cervicotomie, thoracotomie et laparotomie
+Fermeture d'une fistule oesotrachéale congénitale sans atrésie de l'oesophage, par cervicotomie |
 
+HESA007 |
+
 |
 
-HEFA003
+Fermeture de fistule oesotrachéale acquise avec résection de la trachée, par cervicothoracotomie ou par thoracotomie |
 
-|
+HESA008 |
 
 |
 
-Oesophagectomie avec oesophagogastroplastie, par thoracotomie et par coelioscopie
+Fermeture de fistule oesotrachéale acquise avec résection-anastomose de la trachée, par cervicotomie |
 
+HESA009 |
+
 |
 
-HEFA004
+Fermeture de la fistule oesotrachéale d'une atrésie de l'oesophage, par thoracotomie |
 
-|
+HESA010 |
 
 |
 
-Oesophagectomie totale avec oesophagogastroplastie, par cervicotomie et par laparotomie
+Fermeture de fistule oesotrachéale après implant phonatoire, par cervicotomie |
 
+HFFA004 |
+
 |
 
-HEFA005
+Résection de duplication gastroduodénale avec dérivation du conduit biliaire commun, par laparotomie |
 
-|
+HFFA007 |
 
 |
 
-Oesophagectomie avec oesophagojéjunostomie, par thoraco-phréno-laparotomie
+Résection de duplication gastroduodénale sans dérivation du conduit biliaire commun, par laparotomie |
 
+HFMA001 |
+
 |
 
-HEFA006
+Confection d'une valve tubérositaire sans libération de la grande courbure gastrique, par thoracotomie |
 
-|
+HFMA007 |
 
 |
 
-Oesophagectomie totale avec oesophagocoloplastie, par cervicotomie et par laparotomie
+Confection d'une valve tubérositaire avec libération de la grande courbure gastrique, par thoracotomie |
 
+HGCA003 |
+
 |
 
-HEFA007
+Anastomose duodénoduodénale pour atrésie ou sténose congénitale du duodénum, par laparotomie |
 
-|
+HGEA001 |
 
 |
 
-Oesophagectomie avec oesophagocoloplastie, par cervicotomie, thoracotomie et laparotomie
+Détorsion intestinale ou section de bride péritonéale pour vice de rotation de l'anse intestinale primitive [mesenterium commune], par laparotomie |
 
+HGEC001 |
+
 |
 
-HEFA008
+Détorsion intestinale ou section de bride péritonéale pour vice de rotation de l'anse intestinale primitive [mesenterium commune], par coelioscopie |
 
-|
+HGFA008 |
 
 |
 
-Oesophago-pharyngo-laryngectomie totale avec oesophagogastroplastie, par cervicotomie et par laparotomie
+Résection segmentaire d'une atrésie unique de l'intestin grêle avec rétablissement de la continuité, par laparotomie |
 
+HGFA009 |
+
 |
 
-HEFA009
+Résection segmentaire d'une atrésie étagée de l'intestin grêle avec rétablissement de la continuité, par laparotomie |
 
-|
+HGFA010 |
 
 |
 
-Oesophagectomie avec oesophagocoloplastie, par thoracotomie et par laparotomie
+Exérèse de duplication de l'intestin grêle sans résection intestinale, par laparotomie |
 
+HGFA011 |
+
 |
 
-HEFA010
+Exérèse de duplication de l'intestin grêle avec résection intestinale, par laparotomie |
 
-|
+HGFA012 |
 
 |
 
-Exérèse de duplication de l'oesophage, par thoracotomie et par laparotomie
+Résection de l'intestin grêle et/ou du côlon pour péritonite néonatale, par laparotomie |
 
+HGFA013 |
+
 |
 
-HEFA011
+Résection totale de l'intestin grêle, par laparotomie |
 
-|
+HGFC001 |
 
 |
 
-Oesophagectomie avec oesophagojéjunostomie, par thoracotomie et par laparotomie
+Exérèse de duplication de l'intestin grêle sans résection intestinale, par coelioscopie |
 
+HGPA006 |
+
 |
 
-HEFA012
+Désobstruction de l'intestin grêle pour iléus méconial, par laparotomie |
 
-|
+HGPH001 |
 
 |
 
-Oesophagectomie avec oesophagogastroplastie, par thoracotomie et par laparotomie
+Désobstruction de l'intestin grêle par lavement intestinal pour iléus méconial, avec contrôle radiologique |
 
+HHFA003 |
+
 |
 
-HEFA013
+Résection du côlon pour malformation congénitale avec rétablissement de la continuité, par laparotomie |
 
-|
+HHFA004 |
 
 |
 
-Oesophagectomie avec oesophagogastroplastie, par thoraco-phréno-laparotomie
+Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA004 |
 
-HEFA014
+-30 |
 
-|
+Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA004 |
 
-Exérèse de duplication de l'oesophage, par thoracotomie
+-40 |
 
-|
+Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-HEFA015
+HHFA005 |
 
 |
 
-|
+Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-Résection de diverticule de l'oesophage, par thoracotomie
+HHFA005 |
 
-|
+-30 |
 
-HEFA016
+Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA005 |
 
-|
+-40 |
 
-Oesophagectomie avec oesophagocoloplastie, par thoraco-phréno-laparotomie
+Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
+HHFA021 |
+
 |
 
-HEFA017
+Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par laparotomie |
 
-|
+HHFA022 |
 
 |
 
-Oesophago-pharyngo-laryngectomie totale avec oesophagocoloplastie, par cervicotomie et par laparotomie
+Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par laparotomie |
 
+HHFA028 |
+
 |
 
-HEFA018
+Coloproctectomie totale avec anastomose iléoanale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA028 |
 
-|
+-30 |
 
-Oesophagectomie avec oesophagogastroplastie, par cervicotomie, thoracotomie et coelioscopie
+Coloproctectomie totale avec anastomose iléoanale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA028 |
 
-HEFA019
+-40 |
 
-|
+Coloproctectomie totale avec anastomose iléoanale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
+
+HHFA029 |
 
 |
 
-Excision de tumeur de l'oesophage sans interruption de la continuité, par thoracotomie
+Coloproctectomie totale sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA029 |
 
-HEFA020
+-30 |
 
-|
+Coloproctectomie totale sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HHFA029 |
 
-Oesophagectomie totale sans rétablissement de la continuité, par cervicotomie et par laparotomie
+-40 |
 
-|
+Coloproctectomie totale sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-HEFA021
+HHFA030 |
 
 |
 
-|
+Coloproctectomie totale sans rétablissement de la continuité, par laparotomie |
 
-Résection-anastomose de rétrécissement congénital de l'oesophage, par thoracotomie
+HHFA031 |
 
 |
 
-HEFA022
+Coloproctectomie totale avec anastomose iléoanale, par laparotomie |
 
-|
+HJEA001 |
 
 |
 
-Oesophagectomie totale sans rétablissement de la continuité, par thoracotomie
+Abaissement du rectum avec cervicocystoplastie, urétroplastie et vaginoplastie pour malformation anorectale haute, par laparotomie et par abord périnéal |
 
+HJEA002 |
+
 |
 
-HEFC001
+Abaissement du rectum pour malformation anorectale haute ou intermédiaire, par abord transsacrococcygien [de Kraske] et par abord périnéal |
 
-|
+HJEA003 |
 
 |
 
-Résection de diverticule de l'oesophage, par thoracoscopie
+Abaissement du rectum pour malformation anorectale haute, par laparotomie et par abord périnéal |
 
+HJEA004 |
+
 |
 
-HEFC002
+Abaissement du rectum pour malformation anorectale haute ou intermédiaire, par abord périnéal médian |
 
-|
+HJFA001 |
 
 |
 
-Excision de tumeur de l'oesophage sans interruption de la continuité, par thoracoscopie
+Résection rectocolique avec abaissement colique rétrorectal par laparotomie, avec anastomose colorectale par voie anale |
 
+HJFA002 |
+
 |
 
-HEFC003
+Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par laparotomie |
 
-|
+HJFA004 |
 
 |
 
-Exérèse de duplication de l'oesophage, par thoracoscopie
+Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-|
+HJFA004 |
 
-HEFC800
+-30 |
 
-|
+Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
--01
+HJFA004 |
 
-|
+-40 |
+
+Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par coelioscopie ou par laparotomie avec préparation par coelioscopie |
 
-Oesophagectomie avec oesophagogastroplastie, par thoracoscopie et laparotomie ou cœlioscopie
+HJFA005 |
 
 |
 
-HEFC801
+Amputation du rectum, par abord périnéal |
 
+HJFA006 |
+
 |
+
+Résection rectosigmoïdienne par laparotomie, avec anastomose coloanale par voie anale ou par abord transsphinctérien |
 
--01
+HJFA007 |
 
 |
 
-Oesophagectomie avec oesophagogastroplastie, par cervicotomie, thoracoscopie et laparotomie ou cœlioscopie
+Amputation du rectum, par laparotomie et par abord périnéal |
 
+HJFA010 |
+
 |
 
-HEMA001
+Exérèse de duplication du rectum, par abord transsacrococcygien [de Kraske] |
 
-|
+HJFA011 |
 
 |
 
-Oesophagocoloplastie rétrosternale sans oesophagectomie, avec anastomose oesophagocolique cervicale, par cervicotomie et par laparotomie
+Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par laparotomie |
 
+HJFA012 |
+
 |
 
-HEMA002
+Proctectomie secondaire par laparotomie avec anastomose iléoanale par voie transanale, après colectomie totale initiale |
 
-|
+HJFA015 |
 
 |
 
-Reconstruction secondaire de l'oesophage pour atrésie avec fistule, par thoracotomie
+Résection rectocolique totale pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par laparotomie ou par voie anale |
 
+HJFA016 |
+
 |
 
-HEMA003
+Résection rectocolique subtotale pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par laparotomie ou par voie anale |
 
-|
+HJFA017 |
 
 |
 
-Reconstruction de l'oesophage et fermeture de la fistule en un temps pour atrésie avec fistule, par thoracotomie
+Résection rectosigmoïdienne par coelioscopie ou par laparotomie avec préparation par coelioscopie, avec anastomose coloanale par voie anale |
 
-|
+HJFA017 |
 
-HEMA004
+-30 |
 
-|
+Résection rectosigmoïdienne par coelioscopie ou par laparotomie avec préparation par coelioscopie, avec anastomose coloanale par voie anale |
 
-|
+HJFA017 |
 
-Reconstruction de l'oesophage en un temps pour atrésie sans fistule, par thoracotomie
+-40 |
 
-|
+Résection rectosigmoïdienne par coelioscopie ou par laparotomie avec préparation par coelioscopie, avec anastomose coloanale par voie anale |
 
-HEMA005
+HJFA019 |
 
 |
 
-|
+Amputation du rectum, par coelioscopie ou par laparotomie avec préparation par coelioscopie et par abord périnéal |
 
-Oesophagocoloplastie rétrosternale sans oesophagectomie, avec anastomose pharyngocolique, par cervicotomie et par laparotomie
+HJFA019 |
 
-|
+-30 |
 
-HEMA006
+Amputation du rectum, par coelioscopie ou par laparotomie avec préparation par coelioscopie et par abord périnéal |
 
-|
+HJFA019 |
 
-|
+-40 |
 
-Reconstruction de l'oesophage par lambeau libre de segment digestif, avec anastomoses vasculaires et digestives
+Amputation du rectum, par coelioscopie ou par laparotomie avec préparation par coelioscopie et par abord périnéal |
 
+HJFA020 |
+
 |
 
-HEMA008
+Résection rectosigmoïdienne pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par voie anale |
 
-|
+HJFC001 |
 
 |
 
-Oesophagogastroplastie rétrosternale sans oesophagectomie, avec anastomose oesophagogastrique cervicale, par cervicotomie et par laparotomie
+Résection rectocolique subtotale pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale |
 
+HJFC002 |
+
 |
 
-HEMA009
+Résection rectosigmoïdienne pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale |
 
-|
+HJFC003 |
 
 |
 
-Oesophagogastroplastie rétrosternale sans oesophagectomie, avec anastomose pharyngogastrique, par cervicotomie et par laparotomie
+Résection rectocolique totale pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale |
 
+HJFC023 |
+
 |
 
-HEPA001
+Proctectomie secondaire par coelioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale |
 
-|
+HJFC023 |
 
-|
+-30 |
 
-Oeso-cardio-myotomie extramuqueuse sans réalisation de procédé antireflux, par thoracotomie
+Proctectomie secondaire par coelioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale |
 
-|
+HJFC023 |
 
-HEPA003
+-40 |
 
-|
+Proctectomie secondaire par coelioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale |
+
+HJFC031 |
 
 |
 
-Oeso-cardio-myotomie extramuqueuse avec réalisation de procédé antireflux, par thoracotomie
+Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par coelioscopie |
 
-|
+HJFC031 |
 
-HEPA004
+-30 |
 
-|
+Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par coelioscopie |
 
-|
+HJFC031 |
 
-Transsection de l'oesophage avec splénectomie et déconnexion portosystémique, par laparotomie
+-40 |
 
-|
+Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par coelioscopie |
 
-HEPA005
+HJFD003 |
 
 |
 
-|
+Résection rectosigmoïdienne pour aganglionose congénitale avec rétablissement de la continuité, par voie anale |
 
-Transsection de l'oesophage, par thoracotomie ou par laparotomie
+HLCA001 |
 
 |
 
-HEPA007
+Hépato-porto-cholécystostomie ou hépato-porto-entérostomie pour atrésie des conduits biliaires extrahépatiques, par laparotomie |
 
-|
+HLFA002 |
 
 |
 
-Transsection de l'oesophage avec splénectomie et déconnexion portosystémique, par thoracotomie et par laparotomie
+Résection du dôme saillant de kyste hydatique du foie, par laparotomie |
 
+HLFA003 |
+
 |
 
-HEPC001
+Résection du lobe caudé [de Spigel] [segment I] du foie, par laparotomie |
 
-|
+HLFA004 |
 
 |
 
-Oeso-cardio-myotomie extramuqueuse sans réalisation de procédé antireflux, par thoracoscopie
+Hépatectomie droite élargie au lobe caudé [de Spigel] [segment I], par laparotomie |
 
+HLFA005 |
+
 |
 
-HEPC004
+Lobectomie hépatique droite [Hépatectomie droite élargie au segment IV], par laparotomie |
 
-|
+HLFA006 |
 
 |
 
-Oeso-cardio-myotomie extramuqueuse avec réalisation de procédé antireflux, par thoracoscopie
+Trisegmentectomie hépatique, par laparotomie |
 
+HLFA007 |
+
 |
 
-HESA001
+Hépatectomie gauche élargie au lobe caudé [de Spigel] [segment I], par laparotomie |
 
-|
+HLFA009 |
 
 |
 
-Fermeture de fistule oesotrachéale acquise, par cervicotomie
+Bisegmentectomie hépatique, par laparotomie |
 
+HLFA010 |
+
 |
 
-HESA002
+Hépatectomie centrale, par laparotomie |
 
-|
+HLFA011 |
 
 |
 
-Fermeture d'une fistule oesotrachéale congénitale sans atrésie de l'oesophage, par cervicotomie et par thoracotomie
+Lobectomie hépatique gauche, par laparotomie |
 
+HLFA012 |
+
 |
 
-HESA004
+Kystectomie ou périkystectomie hépatique, par laparotomie |
 
-|
+HLFA014 |
 
 |
 
-Fermeture de fistule oesotrachéale acquise, par cervicothoracotomie ou par thoracotomie
+Séquestrectomie hépatique, par laparotomie |
 
+HLFA017 |
+
 |
 
-HESA006
+Hépatectomie droite, par laparotomie |
 
-|
+HLFA018 |
 
 |
 
-Fermeture d'une fistule oesotrachéale congénitale sans atrésie de l'oesophage, par cervicotomie
+Hépatectomie gauche, par laparotomie |
 
+HLFA019 |
+
 |
 
-HESA007
+Résection atypique du foie, par laparotomie |
 
-|
+HLFA020 |
 
 |
 
-Fermeture de fistule oesotrachéale acquise avec résection de la trachée, par cervicothoracotomie ou par thoracotomie
+Unisegmentectomie hépatique, par laparotomie |
 
+HLFC002 |
+
 |
 
-HESA008
+Lobectomie hépatique gauche, par coelioscopie |
 
-|
+HLFC003 |
 
 |
 
-Fermeture de fistule oesotrachéale acquise avec résection-anastomose de la trachée, par cervicotomie
+Résection atypique du foie, par coelioscopie |
 
+HLFC004 |
+
 |
 
-HESA009
+Unisegmentectomie hépatique, par coelioscopie |
 
-|
+HLFC027 |
 
 |
 
-Fermeture de la fistule oesotrachéale d'une atrésie de l'oesophage, par thoracotomie
+Bisegmentectomie hépatique, par coelioscopie |
 
+HLFC032 |
+
 |
 
-HESA010
+Trisegmentectomie hépatique, par coelioscopie |
 
-|
+HLFC037 |
 
 |
 
-Fermeture de fistule oesotrachéale après implant phonatoire, par cervicotomie
+Hépatectomie gauche, par coelioscopie |
 
-|
+HLFC801 |
 
-HFFA004
+-01 |
 
-|
+Hépatectomie droite, par coelioscopie |
 
+HLSA001 |
+
 |
+
+Hémostase de lésion du foie, par laparotomie |
 
-Résection de duplication gastroduodénale avec dérivation du conduit biliaire commun, par laparotomie
+HLSC012 |
 
 |
 
-HFFA007
+Hémostase de lésion du foie, par coelioscopie |
 
-|
+HMCA007 |
 
 |
+
+Anastomose biliodigestive au-dessus de la convergence portant sur plusieurs conduits biliaires, par laparotomie |
 
-Résection de duplication gastroduodénale sans dérivation du conduit biliaire commun, par laparotomie
+HNCA002 |
 
 |
 
-HFMA001
+Anastomose pancréaticojéjunale avec anastomose biliojéjunale, par laparotomie |
 
-|
+HNCA003 |
 
 |
+
+Anastomose pancréaticojéjunale avec anastomose biliojéjunale et gastrojéjunostomie, par laparotomie |
 
-Confection d'une valve tubérositaire sans libération de la grande courbure gastrique, par thoracotomie
+HNCA006 |
 
 |
 
-HFMA007
+Suture de plaie du pancréas avec reconstruction du conduit pancréatique, par laparotomie |
 
-|
+HNCA007 |
 
 |
+
+Anastomose pancréaticojéjunale, par laparotomie |
 
-Confection d'une valve tubérositaire avec libération de la grande courbure gastrique, par thoracotomie
+HNFA001 |
 
 |
 
-HGCA003
+Isthmectomie pancréatique avec rétablissement de continuité du conduit pancréatique, par laparotomie |
 
-|
+HNFA002 |
 
 |
+
+Pancréatectomie gauche avec conservation de la rate, avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie |
 
-Anastomose duodénoduodénale pour atrésie ou sténose congénitale du duodénum, par laparotomie
+HNFA004 |
 
 |
 
-HGEA001
+Duodénopancréatectomie totale avec splénectomie [Splénopancréatectomie totale], par laparotomie |
 
-|
+HNFA005 |
 
 |
+
+Exérèse de tumeur du pancréas, par laparotomie |
 
-Détorsion intestinale ou section de bride péritonéale pour vice de rotation de l'anse intestinale primitive [mesenterium commune], par laparotomie
+HNFA006 |
 
 |
 
-HGEC001
+Pancréatectomie totale ou subtotale avec conservation du duodénum et splénectomie, par laparotomie |
 
-|
+HNFA007 |
 
 |
+
+Duodénopancréatectomie céphalique, par laparotomie |
 
-Détorsion intestinale ou section de bride péritonéale pour vice de rotation de l'anse intestinale primitive [mesenterium commune], par coelioscopie
+HNFA008 |
 
 |
 
-HGFA008
+Pancréatectomie gauche avec conservation de la rate, par laparotomie |
 
-|
+HNFA010 |
 
 |
+
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie |
 
-Résection segmentaire d'une atrésie unique de l'intestin grêle avec rétablissement de la continuité, par laparotomie
+HNFA011 |
 
 |
 
-HGFA009
+Pancréatectomie totale ou subtotale avec conservation du duodénum, sans splénectomie, par laparotomie |
 
-|
+HNFA012 |
 
 |
+
+Nécrosectomie pancréatique, par laparotomie |
 
-Résection segmentaire d'une atrésie étagée de l'intestin grêle avec rétablissement de la continuité, par laparotomie
+HNFA013 |
 
 |
 
-HGFA010
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par laparotomie |
 
-|
+HNFC001 |
 
 |
+
+Exérèse de tumeur du pancréas, par coelioscopie |
 
-Exérèse de duplication de l'intestin grêle sans résection intestinale, par laparotomie
+HNFC002 |
 
 |
 
-HGFA011
+Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par coelioscopie |
 
-|
+HNFC027 |
 
 |
+
+Nécrosectomie pancréatique, par coelioscopie |
 
-Exérèse de duplication de l'intestin grêle avec résection intestinale, par laparotomie
+HNFC028 |
 
 |
 
-HGFA012
+Pancréatectomie gauche avec conservation de la rate, par coelioscopie |
 
-|
+HPLB003 |
 
 |
+
+Administration intrapéritonéale d'agent pharmacologique anticancéreux avec hyperthermie [Chimiohyperthermie anticancéreuse intrapéritonéale], sous anesthésie générale |
 
-Résection de l'intestin grêle et/ou du côlon pour péritonite néonatale, par laparotomie
+JAEA002 |
 
 |
 
-HGFA013
+Autotransplantation du rein, par abord direct |
 
-|
+JAEA003 |
 
 |
+
+Transplantation du rein |
 
-Résection totale de l'intestin grêle, par laparotomie
+JAFA003 |
 
 |
 
-HGFC001
+Héminéphrectomie avec urétérectomie totale, par abord direct |
 
-|
+JAFA005 |
 
 |
+
+Néphrectomie totale élargie à la loge rénale avec résection latérale de la veine cave inférieure, par abord direct |
 
-Exérèse de duplication de l'intestin grêle sans résection intestinale, par coelioscopie
+JAFA006 |
 
 |
 
-HGPA006
+Néphrectomie partielle ex situ avec autotransplantation du rein, par abord direct |
 
-|
+JAFA009 |
 
 |
+
+Néphrectomie totale élargie à la loge rénale, par laparotomie ou par abord lomboabdominal |
 
-Désobstruction de l'intestin grêle pour iléus méconial, par laparotomie
+JAFA011 |
 
 |
 
-HGPH001
+Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie et contrôle intraatrial cardiaque, par thoraco-phréno-laparotomie |
 
-|
+JAFA014 |
 
 |
+
+Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal |
 
-Désobstruction de l'intestin grêle par lavement intestinal pour iléus méconial, avec contrôle radiologique
+JAFA016 |
 
 |
 
-HHFA003
+Binéphrectomie, par laparotomie |
 
-|
+JAFA021 |
 
 |
+
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par thoraco-phréno-laparotomie |
 
-Résection du côlon pour malformation congénitale avec rétablissement de la continuité, par laparotomie
+JAFA022 |
 
 |
 
-HHFA004
+Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par thoraco-phréno-laparotomie |
 
-|
+JAFA025 |
 
 |
+
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par thoraco-phréno-laparotomie |
 
-Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par coelioscopie ou par laparotomie avec préparation par coelioscopie
+JAFA026 |
 
 |
 
-HHFA005
+Héminéphrectomie pour fusion rénale, par abord direct |
 
-|
+JAFA027 |
 
 |
+
+Binéphrectomie, par abords lombaux verticaux |
 
-Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie
+JAFA028 |
 
 |
 
-HHFA021
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal |
 
-|
+JAFA029 |
 
 |
+
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par laparotomie ou par abord lomboabdominal |
 
-Colectomie totale avec conservation du rectum, sans rétablissement de la continuité, par laparotomie
+JAFA031 |
 
 |
 
-HHFA022
+Néphrectomie totale élargie à la loge rénale, par thoraco-phréno-laparotomie |
 
-|
+JAFC004 |
 
 |
 
-Colectomie totale avec conservation du rectum, avec anastomose iléorectale, par laparotomie
+Binéphrectomie, par coelioscopie ou par rétropéritonéoscopie |
 
-|
+JAFC004 |
 
-HHFA028
+-30 |
 
-|
+Binéphrectomie, par coelioscopie ou par rétropéritonéoscopie |
 
-|
+JAFC004 |
 
-Coloproctectomie totale avec anastomose iléoanale, par coelioscopie ou par laparotomie avec préparation par coelioscopie
+-40 |
 
-|
+Binéphrectomie, par coelioscopie ou par rétropéritonéoscopie |
 
-HHFA029
+JAFC010 |
 
 |
 
-|
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par coelioscopie ou rétropéritonoscopie |
 
-Coloproctectomie totale sans rétablissement de la continuité, par coelioscopie ou par laparotomie avec préparation par coelioscopie
+JAFC010 |
 
-|
+-30 |
 
-HHFA030
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par coelioscopie ou rétropéritonoscopie |
 
-|
+JAFC010 |
 
-|
+-40 |
 
-Coloproctectomie totale sans rétablissement de la continuité, par laparotomie
+Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par coelioscopie ou rétropéritonoscopie |
 
+JAFC019 |
+
 |
 
-HHFA031
+Néphrectomie totale élargie à la loge rénale, par coelioscopie ou rétropéritonoscopie |
 
-|
+JAFC019 |
 
-|
+-30 |
 
-Coloproctectomie totale avec anastomose iléoanale, par laparotomie
+Néphrectomie totale élargie à la loge rénale, par coelioscopie ou rétropéritonoscopie |
 
-|
+JAFC019 |
 
-HJEA001
+-40 |
 
-|
+Néphrectomie totale élargie à la loge rénale, par coelioscopie ou rétropéritonoscopie |
+
+JAMA002 |
 
 |
 
-Abaissement du rectum avec cervicocystoplastie, urétroplastie et vaginoplastie pour malformation anorectale haute, par laparotomie et par abord périnéal
+Réparation d'un traumatisme complexe du rein et de la voie excrétrice, par abord direct |
 
+JASA001 |
+
 |
 
-HJEA002
+Hémostase de plaie ou de fracture du rein par pose de filet périrénal, par abord direct |
 
-|
+JBPG001 |
 
 |
 
-Abaissement du rectum pour malformation anorectale haute ou intermédiaire, par abord transsacrococcygien [de Kraske] et par abord périnéal
+Urétéropyélotomie ou urétérotomie, par néphroscopie par voie transcutanée |
 
+JCCA006 |
+
 |
 
-HJEA003
+Urétérostomie cutanée transintestinale par anse non détubulée, par abord direct |
 
-|
+JCCA012 |
 
 |
 
-Abaissement du rectum pour malformation anorectale haute, par laparotomie et par abord périnéal
+Anastomose urétérocolique ou urétérorectale avec confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par abord direct |
 
+JCCC002 |
+
 |
 
-HJEA004
+Urétérostomie cutanée transintestinale par anse non détubulée, par coelioscopie ou par rétropéritonéoscopie |
 
-|
+JCKA001 |
 
 |
 
-Abaissement du rectum pour malformation anorectale haute ou intermédiaire, par abord périnéal médian
+Remplacement partiel de l'uretère par un segment digestif, par abord direct |
 
+JCKA002 |
+
 |
 
-HJFA001
+Remplacement total de l'uretère par un segment digestif, par abord direct |
 
-|
+JCMA002 |
 
 |
 
-Résection rectocolique avec abaissement colique rétrorectal par laparotomie, avec anastomose colorectale par voie anale
+Transformation d'une urétérostomie cutanée en dérivation interne avec confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien |
 
+JCMA005 |
+
 |
 
-HJFA002
+Transformation d'une urétérostomie cutanée en dérivation interne avec entérocystoplastie de remplacement [néovessie] orthotopique par anse intestinale détubulée |
 
-|
+JDFA001 |
 
 |
 
-Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par laparotomie
+Cystectomie totale avec urétérostomie cutanée, par laparotomie |
 
+JDFA003 |
+
 |
 
-HJFA004
+Cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie |
 
-|
+JDFA005 |
 
 |
 
-Résection rectosigmoïdienne avec anastomose colorectale infrapéritonéale, par coelioscopie ou par laparotomie avec préparation par coelioscopie
+Cystectomie totale, par laparotomie |
 
+JDFA006 |
+
 |
 
-HJFA005
+Cystectomie totale avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie |
 
-|
+JDFA008 |
 
 |
 
-Amputation du rectum, par abord périnéal
+Cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie |
 
+JDFA009 |
+
 |
 
-HJFA006
+Cystectomie totale avec anastomose urétérocolique directe, par laparotomie |
 
-|
+JDFA016 |
 
 |
 
-Résection rectosigmoïdienne par laparotomie, avec anastomose coloanale par voie anale ou par abord transsphinctérien
+Cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie |
 
+JDFA019 |
+
 |
 
-HJFA007
+Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique directe, par laparotomie |
 
-|
+JDFA020 |
 
 |
 
-Amputation du rectum, par laparotomie et par abord périnéal
+Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie |
 
+JDFA021 |
+
 |
 
-HJFA010
+Vésiculo-prostato-cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie |
 
-|
+JDFA022 |
 
 |
 
-Exérèse de duplication du rectum, par abord transsacrococcygien [de Kraske]
+Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie |
 
+JDFA023 |
+
 |
 
-HJFA011
+Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée, par laparotomie |
 
-|
+JDFA024 |
 
 |
 
-Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par laparotomie
+Vésiculo-prostato-cystectomie totale, par laparotomie |
 
+JDFA025 |
+
 |
 
-HJFA012
+Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie |
 
-|
+JDMA001 |
 
 |
 
-Proctectomie secondaire par laparotomie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+Entérocystoplastie d'agrandissement par anse détubulée, par laparotomie |
 
+JDMA002 |
+
 |
 
-HJFA015
+Entérocystoplastie d'agrandissement avec réimplantation urétérovésicale bilatérale, par laparotomie |
 
-|
+JDSA003 |
 
 |
 
-Résection rectocolique totale pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par laparotomie ou par voie anale
+Fermeture d'une exstrophie vésicale avec allongement du pénis, sans ostéotomie du bassin |
 
+JDSA004 |
+
 |
 
-HJFA016
+Fermeture d'une exstrophie vésicale avec allongement de l'urètre chez la fille, sans ostéotomie du bassin |
 
-|
+JDSA007 |
 
 |
 
-Résection rectocolique subtotale pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par laparotomie ou par voie anale
+Fermeture d'une exstrophie vésicale avec allongement du pénis et cure unilatérale ou bilatérale de hernie de l'aine, sans ostéotomie du bassin |
 
+JFFA001 |
+
 |
 
-HJFA017
+Pelvectomie antérieure avec urétérostomie cutanée, par laparotomie |
 
-|
+JFFA002 |
 
 |
 
-Résection rectosigmoïdienne par coelioscopie ou par laparotomie avec préparation par coelioscopie, avec anastomose coloanale par voie anale
+Pelvectomie postérieure avec rétablissement de la continuité digestive, par laparotomie |
 
+JFFA003 |
+
 |
 
-HJFA019
+Pelvectomie antérieure avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie |
 
-|
+JFFA004 |
 
 |
 
-Amputation du rectum, par coelioscopie ou par laparotomie avec préparation par coelioscopie et par abord périnéal
+Pelvectomie postérieure sans rétablissement de la continuité digestive, par laparotomie et par abord périnéal |
 
+JFFA005 |
+
 |
 
-HJFA020
+Pelvectomie postérieure sans rétablissement de la continuité digestive, par laparotomie |
 
-|
+JFFA006 |
 
 |
 
-Résection rectosigmoïdienne pour aganglionose congénitale par laparotomie, avec rétablissement de la continuité par voie anale
+Exérèse de lésion de l'espace rétropéritonéal sans dissection des gros vaisseaux, par thoraco-phréno-laparotomie |
 
+JFFA007 |
+
 |
 
-HJFC001
+Exérèse d'une lipomatose pelvienne, par laparotomie |
 
-|
+JFFA008 |
 
 |
 
-Résection rectocolique subtotale pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale
+Pelvectomie totale avec urétérostomie cutanée, par laparotomie et par abord périnéal |
 
+JFFA009 |
+
 |
 
-HJFC002
+Pelvectomie antérieure avec anastomose urétérocolique directe, par laparotomie |
 
-|
+JFFA010 |
 
 |
 
-Résection rectosigmoïdienne pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale
+Exérèse de lésion de l'espace rétropéritonéal sans dissection des gros vaisseaux, par laparotomie ou par lombotomie |
 
+JFFA011 |
+
 |
 
-HJFC003
+Pelvectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie et par abord périnéal |
 
-|
+JFFA013 |
 
 |
 
-Résection rectocolique totale pour aganglionose congénitale par coelioscopie, avec rétablissement de la continuité par voie anale
+Pelvectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie et par abord périnéal |
 
+JFFA016 |
+
 |
 
-HJFC023
+Pelvectomie antérieure avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie |
 
-|
+JFFA018 |
 
 |
 
-Proctectomie secondaire par coelioscopie avec anastomose iléoanale par voie transanale, après colectomie totale initiale
+Pelvectomie antérieure, par laparotomie |
 
+JFFA019 |
+
 |
 
-HJFC031
+Pelvectomie antérieure avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie |
 
-|
+JFFA021 |
 
 |
 
-Résection rectosigmoïdienne dépassant le cul-de-sac de Douglas, sans rétablissement de la continuité, par coelioscopie
+Exérèse de lésion de l'espace rétropéritonéal avec dissection des gros vaisseaux, par abord direct |
 
+JFFA022 |
+
 |
 
-HJFD003
+Pelvectomie antérieure avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie |
 
-|
+KAFA001 |
 
 |
 
-Résection rectosigmoïdienne pour aganglionose congénitale avec rétablissement de la continuité, par voie anale
+Exérèse de lésion de la loge hypophysaire, par abord transsphénoïdal |
 
+KAFA002 |
+
 |
 
-HLCA001
+Exérèse de lésion de la loge hypophysaire, par craniotomie |
 
-|
+KAFE900 |
 
 |
 
-Hépato-porto-cholécystostomie ou hépato-porto-entérostomie pour atrésie des conduits biliaires extrahépatiques, par laparotomie
+Exérèse de lésion de la loge hypophysaire, par vidéochirurgie transsphénoïdale |
 
+KANB001 |
+
 |
 
-HLFA002
+Hypophysiolyse fonctionnelle, par voie transsphénoïdale |
 
-|
+KBFA001 |
 
 |
 
-Résection du dôme saillant de kyste hydatique du foie, par laparotomie
+Exérèse de lésion de la région pinéale, par craniotomie |
 
+KDQA002 |
+
 |
 
-HLFA003
+Exploration des sites parathyroïdiens médiastinaux, par thoracotomie |
 
-|
+KEFA001 |
 
 |
 
-Résection du lobe caudé [de Spigel] [segment I] du foie, par laparotomie
+Surrénalectomie totale pour phéochromocytome, par abord direct |
 
+KEFA002 |
+
 |
 
-HLFA004
+Surrénalectomie partielle ou totale, par abord direct |
 
-|
+KEFC001 |
 
 |
 
-Hépatectomie droite élargie au lobe caudé [de Spigel] [segment I], par laparotomie
+Surrénalectomie totale pour phéochromocytome, par coelioscopie ou par rétropéritonéoscopie |
 
+KEFC002 |
+
 |
 
-HLFA005
+Surrénalectomie partielle ou totale, par coelioscopie ou par rétropéritonéoscopie |
 
-|
+LAFA006 |
 
 |
 
-Lobectomie hépatique droite [Hépatectomie droite élargie au segment IV], par laparotomie
+Résection fronto-ethmoïdo-sphénoïdo-maxillaire avec exérèse de la lame criblée et de méninge, par abord paralatéronasal |
 
+LAFA900 |
+
 |
 
-HLFA006
+Craniectomie décompressive |
 
-|
+LAMA001 |
 
 |
 
-Trisegmentectomie hépatique, par laparotomie
+Reconstruction du tiers latéral du massif facial pour syndrome malformatif, par abord facial et par abord coronal |
 
+LAMA002 |
+
 |
 
-HLFA007
+Réparation d'une fente craniofaciale impliquant l'orbite avec abord de l'étage antérieur de la base du crâne |
 
-|
+LAMA006 |
 
 |
 
-Hépatectomie gauche élargie au lobe caudé [de Spigel] [segment I], par laparotomie
+Remodelage du pôle postérieur du crâne, par abord direct |
 
+LAMA009 |
+
 |
 
-HLFA009
+Cranioplastie de la voûte |
 
-|
+LAPA005 |
 
 |
 
-Bisegmentectomie hépatique, par laparotomie
+Taille et transposition de volet crânien n'intéressant pas les orbites, sans remodelage du pôle postérieur du crâne |
 
+LAPA006 |
+
 |
 
-HLFA010
+Taille et transposition de volet crânien intéressant les orbites |
 
-|
+LAPA008 |
 
 |
 
-Hépatectomie centrale, par laparotomie
+Taille de volet crânien sans transposition |
 
+LAPA016 |
+
 |
 
-HLFA011
+Taille et transposition de volet crânien n'intéressant pas les orbites, avec remodelage du pôle postérieur du crâne |
 
-|
+LDAA001 |
 
 |
 
-Lobectomie hépatique gauche, par laparotomie
+Recalibrage bilatéral de la colonne vertébrale cervicale, par abord postérieur |
 
+LDAA002 |
+
 |
 
-HLFA012
+Recalibrage unilatéral de la colonne vertébrale cervicale, par abord postérieur |
 
-|
+LDCA001 |
 
 |
 
-Kystectomie ou périkystectomie hépatique, par laparotomie
+Ostéosynthèse transarticulaire bilatérale de l'atlas et de l'axis, par cervicotomie antérieure ou par cervicotomie antérolatérale bilatérale |
 
+LDCA003 |
+
 |
 
-HLFA014
+Ostéosynthèse postérieure de la jonction occipitocervicale avec exploration du contenu canalaire, par abord postérieur |
 
-|
+LDCA004 |
 
 |
 
-Séquestrectomie hépatique, par laparotomie
+Ostéosynthèse de la dent de l'axis [apophyse odontoïde de C2], par cervicotomie antérieure ou antérolatérale |
 
+LDCA007 |
+
 |
 
-HLFA017
+Ostéosynthèse de la colonne vertébrale cervicale, par abord antérieur avec mandibulotomie |
 
-|
+LDCA008 |
 
 |
 
-Hépatectomie droite, par laparotomie
+Ostéosynthèse de la dent de l'axis [apophyse odontoïde de C2], par abord intrabuccal |
 
+LDCA012 |
+
 |
 
-HLFA018
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par cervicotomie antérieure ou antérolatérale et par abord postérieur |
 
-|
+LDCA013 |
 
 |
 
-Hépatectomie gauche, par laparotomie
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par cervicotomie antérieure ou par cervicotomie antérolatérale |
 
+LDDA001 |
+
 |
 
-HLFA019
+Arthrodèse antérieure de la jonction occipitocervicale, par abord intrabuccal ou par cervicotomie antérolatérale |
 
-|
+LDFA003 |
 
 |
 
-Résection atypique du foie, par laparotomie
+Laminarthrectomie cervicale totale bilatérale, par abord postérieur |
 
+LDFA010 |
+
 |
 
-HLFA020
+Spondylectomie totale, par cervicotomie antérieure ou antérolatérale et par abord postérieur |
 
-|
+LDPA001 |
 
 |
 
-Unisegmentectomie hépatique, par laparotomie
+Décompression médullaire pour malformation de la jonction occipitocervicale, avec ouverture durale, par abord postérieur |
 
+LDPA002 |
+
 |
 
-HLFC002
+Décompression médullaire pour malformation de la jonction occipitocervicale, par cervicotomie antérolatérale |
 
-|
+LDPA003 |
 
 |
 
-Lobectomie hépatique gauche, par coelioscopie
+Décompression médullaire pour malformation de la jonction occipitocervicale, sans ouverture durale, par abord postérieur |
 
+LDPA004 |
+
 |
 
-HLFC003
+Décompression médullaire pour malformation de la jonction occipitocervicale, avec ostéosynthèse, par abord postérieur |
 
-|
+LDPA005 |
 
 |
 
-Résection atypique du foie, par coelioscopie
+Décompression médullaire pour malformation de la jonction occipitocervicale, par abord intrabuccal |
 
+LDPA006 |
+
 |
 
-HLFC004
+Corporotomie [Somatotomie] d'une vertèbre pour décompression médullaire, par cervicotomie antérieure ou antérolatérale |
 
-|
+LDPA007 |
 
 |
 
-Unisegmentectomie hépatique, par coelioscopie
+Corporotomie [Somatotomie] d'une vertèbre pour décompression médullaire, avec arthrodèse et/ou ostéosynthèse, par cervicotomie antérieure ou antérolatérale |
 
+LDPA009 |
+
 |
 
-HLFC027
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, par cervicothoracotomie |
 
-|
+LECA001 |
 
 |
 
-Bisegmentectomie hépatique, par coelioscopie
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoraco-phréno-laparotomie |
 
+LECA002 |
+
 |
 
-HLFC032
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoracotomie et par abord postérieur |
 
-|
+LECA003 |
 
 |
 
-Trisegmentectomie hépatique, par coelioscopie
+Ostéosynthèse et/ou arthrodèse antérieure ou épiphysiodèse de la colonne vertébrale sans exploration du contenu canalaire, par thoracotomie |
 
+LECA004 |
+
 |
 
-HLFC037
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoraco-phréno-laparotomie et par abord postérieur |
 
-|
+LECA005 |
 
 |
 
-Hépatectomie gauche, par coelioscopie
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoracotomie |
 
+LECA006 |
+
 |
+
+Ostéosynthèse et/ou arthrodèse antérieure de la colonne vertébrale sans exploration du contenu canalaire, par thoraco-phréno-laparotomie |
 
-HLFC801
+LECC001 |
 
 |
 
--01
+Ostéosynthèse et/ou arthrodèse antérieure ou épiphysiodèse de la colonne vertébrale, par thoracoscopie |
 
+LEFA001 |
+
 |
+
+Spondylectomie thoracique totale, par abord postérieur |
 
-Hépatectomie droite, par coelioscopie
+LEFA004 |
 
 |
 
-HLSA001
+Corporectomie vertébrale totale, par thoraco-phréno-laparotomie |
 
-|
+LEFA005 |
 
 |
+
+Spondylectomie totale, par thoracotomie et par abord postérieur |
 
-Hémostase de lésion du foie, par laparotomie
+LEFA006 |
 
 |
 
-HLSC012
+Corporectomie vertébrale totale, par thoracotomie |
 
-|
+LEFA007 |
 
 |
+
+Corporectomie vertébrale partielle, par thoraco-phréno-laparotomie |
 
-Hémostase de lésion du foie, par coelioscopie
+LEFA008 |
 
 |
 
-HMCA007
+Corporectomie d'une vertèbre malformée, par thoraco-phréno-laparotomie |
 
-|
+LEFA009 |
 
 |
+
+Spondylectomie totale, par thoraco-phréno-laparotomie et par abord postérieur |
 
-Anastomose biliodigestive au-dessus de la convergence portant sur plusieurs conduits biliaires, par laparotomie
+LEFA010 |
 
 |
 
-HNCA002
+Corporectomie vertébrale partielle, par thoracotomie |
 
-|
+LEFA011 |
 
 |
+
+Exérèse d'une hernie discale de la colonne vertébrale avec ostéosynthèse et/ou arthrodèse, par thoracotomie |
 
-Anastomose pancréaticojéjunale avec anastomose biliojéjunale, par laparotomie
+LEFA012 |
 
 |
 
-HNCA003
+Corporectomie d'une vertèbre malformée, par thoracotomie |
 
-|
+LEFA013 |
 
 |
+
+Exérèse d'une hernie discale de la colonne vertébrale, par thoracotomie |
 
-Anastomose pancréaticojéjunale avec anastomose biliojéjunale et gastrojéjunostomie, par laparotomie
+LEFA014 |
 
 |
 
-HNCA006
+Corporectomie vertébrale partielle ou totale, par thoracoscopie ou par thoracotomie avec préparation par thoracoscopie |
 
-|
+LEFC002 |
 
 |
+
+Exérèse d'une hernie discale de la colonne vertébrale, par thoracoscopie |
 
-Suture de plaie du pancréas avec reconstruction du conduit pancréatique, par laparotomie
+LEGA001 |
 
 |
 
-HNCA007
+Ablation de matériel d'ostéosynthèse de la colonne vertébrale, par thoraco-phréno-laparotomie |
 
-|
+LEGA002 |
 
 |
+
+Ablation de matériel d'ostéosynthèse de la colonne vertébrale, par thoracotomie |
 
-Anastomose pancréaticojéjunale, par laparotomie
+LEHA001 |
 
 |
 
-HNFA001
+Biopsie osseuse et/ou discale de la colonne vertébrale, par thoraco-phréno-laparotomie |
 
-|
+LEHA003 |
 
 |
+
+Biopsie osseuse et/ou discale de la colonne vertébrale, par thoracotomie |
 
-Isthmectomie pancréatique avec rétablissement de continuité du conduit pancréatique, par laparotomie
+LEMA001 |
 
 |
 
-HNFA002
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 vertèbres ou plus, par thoraco-phréno-laparotomie |
 
-|
+LEMA002 |
 
 |
+
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par thoracotomie |
 
-Pancréatectomie gauche avec conservation de la rate, avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+LEMA003 |
 
 |
 
-HNFA004
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par thoraco-phréno-laparotomie |
 
-|
+LEMA004 |
 
 |
+
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 vertèbres ou plus, par thoracotomie |
 
-Duodénopancréatectomie totale avec splénectomie [Splénopancréatectomie totale], par laparotomie
+LEPA001 |
 
 |
 
-HNFA005
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 1 à 3 vertèbres, par thoraco-phréno-laparotomie |
 
-|
+LEPA002 |
 
 |
+
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 1 à 3 vertèbres, par thoracotomie |
 
-Exérèse de tumeur du pancréas, par laparotomie
+LEPA003 |
 
 |
 
-HNFA006
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 1 à 3 vertèbres, par thoracotomie |
 
-|
+LEPA004 |
 
 |
+
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 4 vertèbres ou plus, par thoraco-phréno-laparotomie |
 
-Pancréatectomie totale ou subtotale avec conservation du duodénum et splénectomie, par laparotomie
+LEPA005 |
 
 |
 
-HNFA007
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 4 vertèbres ou plus, par thoraco-phréno-laparotomie |
 
-|
+LEPA006 |
 
 |
+
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 4 vertèbres ou plus, par thoracotomie |
 
-Duodénopancréatectomie céphalique, par laparotomie
+LEPA007 |
 
 |
 
-HNFA008
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 4 vertèbres ou plus, par thoracotomie |
 
-|
+LEPA008 |
 
 |
+
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 1 à 3 vertèbres, par thoraco-phréno-laparotomie |
 
-Pancréatectomie gauche avec conservation de la rate, par laparotomie
+LFCA003 |
 
 |
 
-HNFA010
+Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par laparotomie ou lombotomie et par abord postérieur |
 
-|
+LFMA001 |
 
 |
+
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par lombotomie |
 
-Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche] avec anastomose pancréatojéjunale ou pancréaticojéjunale, par laparotomie
+LFPA002 |
 
 |
 
-HNFA011
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 4 vertèbres ou plus, par laparotomie ou par lombotomie |
 
-|
+LFPA003 |
 
 |
+
+Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 4 vertèbres ou plus, par laparotomie ou par lombotomie |
 
-Pancréatectomie totale ou subtotale avec conservation du duodénum, sans splénectomie, par laparotomie
+LGCA001 |
 
 |
 
-HNFA012
+Ostéosynthèse de fracture du sacrum, par abord postérieur |
 
-|
+LGFA003 |
 
 |
+
+Exérèse distale du sacrum [Sacrectomie respectant S1 et S2], par abord antérieur et par abord postérieur |
 
-Nécrosectomie pancréatique, par laparotomie
+LGFA004 |
 
 |
 
-HNFA013
+Exérèse totale du sacrum [Sacrectomie totale], par abord antérieur et par abord postérieur |
 
-|
+LGFA006 |
 
 |
+
+Exérèse proximale du sacrum [Sacrectomie S1 et/ou S2], par abord antérieur et par abord postérieur |
 
-Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par laparotomie
+LHCA001 |
 
 |
 
-HNFC001
+Ostéosynthèse de la colonne vertébrale sans exploration du contenu canalaire, par abord antérieur et par abord postérieur |
 
-|
+LHFA003 |
 
 |
+
+Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse et correction instrumentale, sur 10 vertèbres ou plus, par abord postérieur, avec résection de 3 côtes ou plus |
 
-Exérèse de tumeur du pancréas, par coelioscopie
+LHFA013 |
 
 |
 
-HNFC002
+Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse, correction instrumentale et ostéotomie antérieure transpédiculaire, sur 6 à 9 vertèbres, par abord postérieur |
 
-|
+LHFA025 |
 
 |
+
+Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse, correction instrumentale et ostéotomie antérieure transpédiculaire, sur 10 vertèbres ou plus, par abord postérieur |
 
-Pancréatectomie gauche avec splénectomie [Splénopancréatectomie gauche], par coelioscopie
+LHFA027 |
 
 |
 
-HNFC027
+Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse, correction instrumentale et ostéotomie antérieure transpédiculaire, sur 3 à 5 vertèbres, par abord postérieur |
 
-|
+LHFA028 |
 
 |
+
+Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse et correction instrumentale, sur 10 vertèbres ou plus, par abord postérieur |
 
-Nécrosectomie pancréatique, par coelioscopie
+LHFA029 |
 
 |
 
-HNFC028
+Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse et correction instrumentale, sur 6 à 9 vertèbres, par abord postérieur |
 
-|
+LHGA004 |
 
 |
+
+Ablation de matériel d'ostéosynthèse de la colonne vertébrale sur 10 vertèbres ou plus, par abord postérieur |
 
-Pancréatectomie gauche avec conservation de la rate, par coelioscopie
+LHGA006 |
 
 |
 
-HPLB003
+Ablation de matériel d'ostéosynthèse de la colonne vertébrale sur 6 à 9 vertèbres, par abord postérieur |
 
-|
+LHMA003 |
 
 |
+
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 à 9 vertèbres, par abord postérieur |
 
-Administration intrapéritonéale d'agent pharmacologique anticancéreux avec hyperthermie [Chimiohyperthermie anticancéreuse intrapéritonéale], sous anesthésie générale
+LHMA004 |
 
 |
 
-JAEA002
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 à 9 vertèbres, par abord postérolatéral |
 
-|
+LHMA006 |
 
 |
+
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par abord postérieur |
 
-Autotransplantation du rein, par abord direct
+LHMA013 |
 
 |
 
-JAEA003
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 à 9 vertèbres par abord postérieur, avec résection de 3 côtes ou plus |
 
-|
+LHMA014 |
 
 |
+
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 10 vertèbres ou plus par abord postérieur, avec résection de 3 côtes ou plus |
 
-Transplantation du rein
+LHMA015 |
 
 |
 
-JAFA003
+Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 10 vertèbres ou plus, par abord postérieur |
 
-|
+LHPA004 |
 
 |
+
+Mise à plat d'une lésion vertébrale infectieuse ou ossifluente, par abord postérieur |
 
-Héminéphrectomie avec urétérectomie totale, par abord direct
+LJCA002 |
 
 |
 
-JAFA005
+Ostéosynthèse d'un volet thoracique |
 
-|
+LJFA001 |
 
 |
+
+Gibbectomie, par abord direct |
 
-Néphrectomie totale élargie à la loge rénale avec résection latérale de la veine cave inférieure, par abord direct
+LJFA002 |
 
 |
 
-JAFA006
+Résection de la première côte, par abord supraclaviculaire ou par abord axillaire |
 
-|
+LJFA004 |
 
 |
+
+Résection de la paroi thoracique, sans prothèse |
 
-Néphrectomie partielle ex situ avec autotransplantation du rein, par abord direct
+LJFA007 |
 
 |
 
-JAFA009
+Résection de la première côte et d'une côte cervicale, par abord supraclaviculaire |
 
-|
+LJFA008 |
 
 |
+
+Résection de la paroi thoracique, avec prothèse |
 
-Néphrectomie totale élargie à la loge rénale, par laparotomie ou par abord lomboabdominal
+LJFA009 |
 
 |
 
-JAFA011
+Résection du sternum |
 
-|
+LJFA010 |
 
 |
+
+Exérèse partielle de côte et/ou de sternum, par abord direct |
 
-Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie et contrôle intraatrial cardiaque, par thoraco-phréno-laparotomie
+LJJA002 |
 
 |
 
-JAFA014
+Évacuation de collection suppurée de la paroi thoracique étendue au médiastin |
 
-|
+LJMA001 |
 
 |
+
+Thoracoplastie de 6 côtes ou plus |
 
-Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal
+LJMA002 |
 
 |
 
-JAFA016
+Plastie de malformation du thorax sans malformation du sternum, sans ostéosynthèse |
 
-|
+LJMA003 |
 
 |
+
+Thoracoplastie de 2 à 5 côtes |
 
-Binéphrectomie, par laparotomie
+LJMA004 |
 
 |
 
-JAFA021
+Plastie de malformation du thorax sans malformation du sternum, avec ostéosynthèse |
 
-|
+LJMA005 |
 
 |
+
+Plastie de malformation sternocostale, sans ostéosynthèse |
 
-Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par thoraco-phréno-laparotomie
+LJMA006 |
 
 |
 
-JAFA022
+Plastie de malformation sternocostale, avec ostéosynthèse |
 
-|
+LJSA001 |
 
 |
+
+Fermeture d'une désunion pariétale de thoracotomie latérale |
 
-Néphrectomie totale élargie à la loge rénale avec thrombectomie par cavotomie, par thoraco-phréno-laparotomie
+LLCA001 |
 
 |
 
-JAFA025
+Suture d'une coupole du diaphragme pour hernie congénitale, par laparotomie |
 
-|
+LLCA002 |
 
 |
+
+Suture d'une coupole du diaphragme pour hernie congénitale, par thoracotomie |
 
-Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par thoraco-phréno-laparotomie
+LLCA003 |
 
 |
 
-JAFA026
+Suture de plaie ou de rupture récente d'une coupole du diaphragme, par thoracotomie |
 
-|
+LLCA005 |
 
 |
+
+Suture de plaie ou de rupture récente de la coupole du diaphragme, par laparotomie |
 
-Héminéphrectomie pour fusion rénale, par abord direct
+LLCC001 |
 
 |
 
-JAFA027
+Suture de plaie ou de rupture récente d'une coupole du diaphragme, par thoracoscopie |
 
-|
+LLCC003 |
 
 |
+
+Suture de plaie ou de rupture récente de la coupole du diaphragme, par coelioscopie |
 
-Binéphrectomie, par abords lombaux verticaux
+LLFA003 |
 
 |
 
-JAFA028
+Exérèse partielle du diaphragme sans pose de prothèse, par thoracotomie |
 
-|
+LLFA013 |
 
 |
+
+Exérèse partielle du diaphragme avec pose de prothèse, par thoracotomie |
 
-Néphrectomie totale élargie à la loge rénale avec surrénalectomie et thrombectomie par cavotomie, par laparotomie ou par abord lomboabdominal
+LLMA001 |
 
 |
 
-JAFA029
+Cure d'une hernie acquise de la coupole gauche du diaphragme, par thoracotomie |
 
-|
+LLMA002 |
 
 |
+
+Cure d'une hernie hiatale congénitale avec agénésie des piliers du diaphragme, par laparotomie |
 
-Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par laparotomie ou par abord lomboabdominal
+LLMA003 |
 
 |
 
-JAFA031
+Plastie d'une coupole du diaphragme pour éventration, par thoracotomie |
 
-|
+LLMA004 |
 
 |
+
+Plastie musculaire ou prothétique d'une coupole du diaphragme pour hernie congénitale, par laparotomie |
 
-Néphrectomie totale élargie à la loge rénale, par thoraco-phréno-laparotomie
+LLMA005 |
 
 |
 
-JAFC004
+Cure d'une hernie acquise de la coupole droite du diaphragme, par abord direct |
 
-|
+LLMA009 |
 
 |
+
+Plastie musculaire ou prothétique d'une coupole du diaphragme pour hernie congénitale, par thoracotomie |
 
-Binéphrectomie, par coelioscopie ou par rétropéritonéoscopie
+LLMC003 |
 
 |
 
-JAFC010
+Plastie d'une coupole du diaphragme pour éventration, par thoracoscopie |
 
-|
+LLMC005 |
 
 |
+
+Cure d'une hernie acquise de la coupole du diaphragme, par thoracoscopie |
 
-Néphrectomie totale élargie à la loge rénale avec surrénalectomie, par cœlioscopie ou rétropéritonéoscopie
+LMSA001 |
 
 |
 
-JAFC019
+Fermeture d'une omphalocèle ou d'un laparoschisis en un temps |
 
-|
+MZEA002 |
 
 |
+
+Réimplantation de la main sectionnée au niveau du métacarpe |
 
-Néphrectomie totale élargie à la loge rénale, par cœlioscopie ou rétropéritonéoscopie
+MZEA007 |
 
 |
 
-JAMA002
+Réimplantation du membre supérieur sectionné au dessus du poignet |
 
-|
+MZEA011 |
 
 |
+
+Réimplantation de la main sectionnée au poignet |
 
-Réparation d'un traumatisme complexe du rein et de la voie excrétrice, par abord direct
+MZFA010 |
 
 |
 
-JASA001
+Désarticulation scapulohumérale [Désarticulation de l'épaule] |
 
-|
+MZMA001 |
 
 |
+
+Réparation d'une hémisection antérieure du poignet avec ischémie complète de la main |
 
-Hémostase de plaie ou de fracture du rein par pose de filet périrénal, par abord direct
+NACA002 |
 
 |
 
-JBPG001
+Ostéosynthèse plurifocale de fracture ou de fracture-luxation de la ceinture pelvienne [du bassin], à foyer ouvert |
 
-|
+NAFA001 |
 
 |
+
+Résection ""en bloc"" de l'os coxal ou du fémur avec arthrectomie monobloc de hanche |
 
-Urétéropyélotomie ou urétérotomie, par néphroscopie par voie transcutanée
+NAFA003 |
 
 |
 
-JCCA006
+Résection complète ""en bloc"" partielle ou totale d'un os coxal [hémibassin] emportant l'acétabulum |
 
-|
+NAFA006 |
 
 |
+
+Résection complète ""en bloc"" de l'aile iliaque ou du cadre obturateur interrompant la continuité de l'anneau pelvien |
 
-Urétérostomie cutanée transintestinale par anse non détubulée, par abord direct
+NAMA002 |
 
 |
 
-JCCA012
+Reconstruction de l'os coxal [hémibassin] après résection de la zone acétabulaire, sans prothèse coxale |
 
-|
+NEFA002 |
 
 |
 
-Anastomose urétérocolique ou urétérorectale avec confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par abord direct
+Résection étendue de l'articulation sacro-iliaque |
 
-|
+NEMA011 |
 
-JCCC002
+-01 |
 
-|
+Reconstruction de l'articulation coxofémorale par prothèse massive ou sur mesure, après perte de substance segmentaire au niveau de la hanche ou de l'os coxal |
 
-|
+NEMA011 |
 
-Urétérostomie cutanée transintestinale par anse non détubulée, par coelioscopie ou par rétropéritonéoscopie
+-02 |
 
-|
+Reconstruction de l'articulation coxofémorale par prothèse massive ou sur mesure, après perte de substance segmentaire au niveau de la hanche ou de l'os coxal |
 
-JCKA001
+NEMA013 |
 
 |
 
-|
+Reconstruction osseuse de la hanche après résection ""en bloc"" de l'os coxal [hémibassin], avec fixation du fémur à l'os coxal |
 
-Remplacement partiel de l'uretère par un segment digestif, par abord direct
+NJEA004 |
 
 |
 
-JCKA002
+Transfert du psoas à travers ou en avant de l'aile iliaque, avec ostéotomie de l'os coxal ou du fémur |
 
-|
+NZEA002 |
 
 |
+
+Réimplantation du membre inférieur sectionné à la jambe |
 
-Remplacement total de l'uretère par un segment digestif, par abord direct
+NZEA003 |
 
 |
 
-JCMA002
+Transplantation du pied à la cuisse avec conservation des pédicules vasculonerveux |
 
-|
+NZEA006 |
 
 |
+
+Réimplantation du membre inférieur sectionné à la cuisse |
 
-Transformation d'une urétérostomie cutanée en dérivation interne avec confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien
+NZEA007 |
 
 |
 
-JCMA005
+Réimplantation du pied |
 
-|
+NZFA001 |
 
 |
+
+Désarticulation de la hanche |
 
-Transformation d'une urétérostomie cutanée en dérivation interne avec entérocystoplastie de remplacement [néovessie] orthotopique par anse intestinale détubulée
+NZFA003 |
 
 |
 
-JDFA001
+Désarticulation du genou |
 
-|
+NZFA006 |
 
 |
+
+Désarticulation ou amputation du membre inférieur à travers l'os coxal, l'articulation sacro-iliaque ou le sacrum |
 
-Cystectomie totale avec urétérostomie cutanée, par laparotomie
+NZFA008 |
 
 |
 
-JDFA003
+Désarticulation ou amputation interilioabdominale |
 
-|
+QAJA001 |
 
 |
+
+Pansement chirurgical secondaire de brûlure sur l'extrémité céphalique et les 2 mains |
 
-Cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
+QAJA003 |
 
 |
 
-JDFA005
+Évacuation d'un phlegmon cervicofacial et médiastinal diffus, par cervicotomie |
 
-|
+QAJA007 |
 
 |
+
+Pansement chirurgical initial de brûlure sur l'extrémité céphalique et les 2 mains |
 
-Cystectomie totale, par laparotomie
+QAJA008 |
 
 |
 
-JDFA006
+Pansement chirurgical initial de brûlure sur l'extrémité céphalique et 1 main |
 
-|
+QAJA011 |
 
 |
+
+Pansement chirurgical secondaire de brûlure sur l'extrémité céphalique et 1 main |
 
-Cystectomie totale avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+QBFA014 |
 
 |
 
-JDFA008
+Excision d'une fasciite nécrosante périnéofessière |
 
-|
+QCJA002 |
 
 |
+
+Pansement chirurgical secondaire de brûlure sur les 2 mains |
 
-Cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+QCJA005 |
 
 |
 
-JDFA009
+Pansement chirurgical initial de brûlure sur les 2 mains |
 
-|
+QZFA012 |
 
 |
+
+Excision de brûlure en dehors de l'extrémité céphalique et des mains, sur 10% à 12,5% de la surface corporelle |
 
-Cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+QZFA018 |
 
 |
 
-JDFA016
+Excision de brûlure en dehors de l'extrémité céphalique et des mains, sur 12,5% à 15% de la surface corporelle |
 
-|
+QZFA034 |
 
 |
+
+Excision de brûlure en dehors de l'extrémité céphalique et des mains, sur 15% à 17,5% de la surface corporelle |
 
-Cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
+ZBGA001 |
 
 |
 
-JDFA019
+Ablation de corps étranger intrathoracique, par thoracotomie |
 
-|
+ZBGC001 |
 
 |
+
+Ablation de corps étranger intrathoracique, par thoracoscopie |
 
-Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique directe, par laparotomie
+ZBQA001 |
 
 |
 
-JDFA020
+Exploration du thorax avec biopsie du poumon, par thoracotomie |
 
-|
+ZBQC002 |
 
 |
+
+Exploration du thorax avec biopsie du poumon, par thoracoscopie |
 
-Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
+ZBSA001 |
 
 |
 
-JDFA021
+Hémostase secondaire à un acte intrathoracique, par thoracotomie |
 
-|
+ZCJA005 |
 
 |
+
+Évacuation de collection intraabdominale, par thoracotomie |
 
-Vésiculo-prostato-cystectomie totale avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
+ZZLF004 |
 
 |
 
-JDFA022
+Administration locorégionale d'agent pharmacologique anticancéreux par voie artérielle, avec CEC, avec hyperthermie |
 
-|
+Liste 3
 
-|
+DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE POUR LES ENFANTS DE MOINS DE 18 ANS
 
-Vésiculo-prostato-cystectomie totale avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
+CODES CIM-10 |
 
-|
+LIBELLÉS CIM-10 |
 
-JDFA023
+CODES ACTES CCAM |
 
-|
+EXT. PMSI |
 
-|
+LIBELLÉS CCAM |
 
-Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée, par laparotomie
+A37.0 |
 
-|
+Coqueluche à Bordetella pertussis |
 
-JDFA024
+|
 
 |
 
 |
 
-Vésiculo-prostato-cystectomie totale, par laparotomie
+A37.1 |
 
-|
+Coqueluche à Bordetella parapertussis |
 
-JDFA025
+|
 
 |
 
 |
 
-Vésiculo-prostato-cystectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+A37.8 |
 
-|
+Coqueluche due à d'autres espèces de Bordetella |
 
-JDMA001
+|
 
 |
 
 |
 
-Entérocystoplastie d'agrandissement par anse détubulée, par laparotomie
+A37.9 |
 
-|
+Coqueluche, sans précision |
 
-JDMA002
+|
 
 |
 
 |
 
-Entérocystoplastie d'agrandissement avec réimplantation urétérovésicale bilatérale, par laparotomie
+A39.2 |
 
-|
+Méningococcémie aiguë |
 
-JDSA003
+|
 
 |
 
 |
 
-Fermeture d'une exstrophie vésicale avec allongement du pénis, sans ostéotomie du bassin
+B01.0 |
 
-|
+Méningite varicelleuse (G02.0*) |
 
-JDSA004
+|
 
 |
 
 |
 
-Fermeture d'une exstrophie vésicale avec allongement de l'urètre chez la fille, sans ostéotomie du bassin
+B01.1 |
 
-|
+Encéphalite varicelleuse (G05.1*) |
 
-JDSA007
+|
 
 |
 
 |
 
-Fermeture d'une exstrophie vésicale avec allongement du pénis et cure unilatérale ou bilatérale de hernie de l'aine, sans ostéotomie du bassin
+B01.2 |
 
-|
+Pneumopathie varicelleuse (J17.1*) |
 
-JFFA001
+|
 
 |
 
 |
 
-Pelvectomie antérieure avec urétérostomie cutanée, par laparotomie
+B01.8 |
 
-|
+Varicelle avec autres complications |
 
-JFFA002
+|
 
 |
 
 |
 
-Pelvectomie postérieure avec rétablissement de la continuité digestive, par laparotomie
+B50.0 |
 
-|
+Paludisme à Plasmodium falciparum avec complications cérébrales |
 
-JFFA003
+|
 
 |
 
 |
 
-Pelvectomie antérieure avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie
+B50.8 |
 
-|
+Autres formes sévères et compliquées de paludisme à Plasmodium falciparum |
 
-JFFA004
+|
 
 |
 
 |
 
-Pelvectomie postérieure sans rétablissement de la continuité digestive, par laparotomie et par abord périnéal
+B51.0 |
 
-|
+Paludisme à Plasmodium vivax, avec rupture de la rate |
 
-JFFA005
+|
 
 |
 
 |
 
-Pelvectomie postérieure sans rétablissement de la continuité digestive, par laparotomie
+B51.8 |
 
-|
-
-JFFA006
-
-|
-
-|
-
-Exérèse de lésion de l'espace rétropéritonéal sans dissection des gros vaisseaux, par thoraco-phréno-laparotomie
-
-|
-
-JFFA007
-
-|
-
-|
-
-Exérèse d'une lipomatose pelvienne, par laparotomie
-
-|
-
-JFFA008
-
-|
-
-|
-
-Pelvectomie totale avec urétérostomie cutanée, par laparotomie et par abord périnéal
-
-|
-
-JFFA009
-
-|
-
-|
-
-Pelvectomie antérieure avec anastomose urétérocolique directe, par laparotomie
-
-|
-
-JFFA010
-
-|
-
-|
-
-Exérèse de lésion de l'espace rétropéritonéal sans dissection des gros vaisseaux, par laparotomie ou par lombotomie
-
-|
-
-JFFA011
-
-|
-
-|
-
-Pelvectomie totale avec urétérostomie cutanée transintestinale par anse non détubulée, par laparotomie et par abord périnéal
-
-|
-
-JFFA013
-
-|
-
-|
-
-Pelvectomie totale avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie et par abord périnéal
-
-|
-
-JFFA016
-
-|
-
-|
-
-Pelvectomie antérieure avec urétérostomie cutanée transintestinale par anse détubulée continente, par laparotomie
-
-|
-
-JFFA018
-
-|
-
-|
-
-Pelvectomie antérieure, par laparotomie
-
-|
-
-JFFA019
-
-|
-
-|
-
-Pelvectomie antérieure avec anastomose urétérocolique et confection d'un réservoir détubulé rectosigmoïdien ou iléo-recto-sigmoïdien, par laparotomie
-
-|
-
-JFFA021
-
-|
-
-|
-
-Exérèse de lésion de l'espace rétropéritonéal avec dissection des gros vaisseaux, par abord direct
-
-|
-
-JFFA022
-
-|
-
-|
-
-Pelvectomie antérieure avec entérocystoplastie de remplacement [néovessie] orthotopique par anse détubulée, par laparotomie
-
-|
-
-KAFA001
-
-|
-
-|
-
-Exérèse de lésion de la loge hypophysaire, par abord transsphénoïdal
-
-|
-
-KAFA002
-
-|
-
-|
-
-Exérèse de lésion de la loge hypophysaire, par craniotomie
-
-|
-
-KAFE900
-
-|
-
-|
-
-Exérèse de lésion de la loge hypophysaire, par vidéochirurgie transsphénoïdale
-
-|
-
-KANB001
-
-|
-
-|
-
-Hypophysiolyse fonctionnelle, par voie transsphénoïdale
-
-|
-
-KBFA001
-
-|
-
-|
-
-Exérèse de lésion de la région pinéale, par craniotomie
-
-|
-
-KDQA002
-
-|
-
-|
-
-Exploration des sites parathyroïdiens médiastinaux, par thoracotomie
-
-|
-
-KEFA001
-
-|
-
-|
-
-Surrénalectomie totale pour phéochromocytome, par abord direct
-
-|
-
-KEFA002
-
-|
-
-|
-
-Surrénalectomie partielle ou totale, par abord direct
-
-|
-
-KEFC001
-
-|
-
-|
-
-Surrénalectomie totale pour phéochromocytome, par coelioscopie ou par rétropéritonéoscopie
-
-|
-
-KEFC002
-
-|
-
-|
-
-Surrénalectomie partielle ou totale, par coelioscopie ou par rétropéritonéoscopie
-
-|
-
-LAFA006
-
-|
-
-|
-
-Résection fronto-ethmoïdo-sphénoïdo-maxillaire avec exérèse de la lame criblée et de méninge, par abord paralatéronasal
-
-|
-
-LAFA900
-
-|
-
-|
-
-Craniectomie décompressive
-
-|
-
-LAMA001
-
-|
-
-|
-
-Reconstruction du tiers latéral du massif facial pour syndrome malformatif, par abord facial et par abord coronal
-
-|
-
-LAMA002
-
-|
-
-|
-
-Réparation d'une fente craniofaciale impliquant l'orbite avec abord de l'étage antérieur de la base du crâne
-
-|
-
-LAMA006
-
-|
-
-|
-
-Remodelage du pôle postérieur du crâne, par abord direct
-
-|
-
-LAMA009
-
-|
-
-|
-
-Cranioplastie de la voûte
-
-|
-
-LAPA005
-
-|
-
-|
-
-Taille et transposition de volet crânien n'intéressant pas les orbites, sans remodelage du pôle postérieur du crâne
-
-|
-
-LAPA006
-
-|
-
-|
-
-Taille et transposition de volet crânien intéressant les orbites
-
-|
-
-LAPA008
-
-|
-
-|
-
-Taille de volet crânien sans transposition
-
-|
-
-LAPA016
-
-|
-
-|
-
-Taille et transposition de volet crânien n'intéressant pas les orbites, avec remodelage du pôle postérieur du crâne
-
-|
-
-LDAA001
-
-|
-
-|
-
-Recalibrage bilatéral de la colonne vertébrale cervicale, par abord postérieur
-
-|
-
-LDAA002
-
-|
-
-|
-
-Recalibrage unilatéral de la colonne vertébrale cervicale, par abord postérieur
-
-|
-
-LDCA001
-
-|
-
-|
-
-Ostéosynthèse transarticulaire bilatérale de l'atlas et de l'axis, par cervicotomie antérieure ou par cervicotomie antérolatérale bilatérale
-
-|
-
-LDCA003
-
-|
-
-|
-
-Ostéosynthèse postérieure de la jonction occipitocervicale avec exploration du contenu canalaire, par abord postérieur
-
-|
-
-LDCA004
-
-|
-
-|
-
-Ostéosynthèse de la dent de l'axis [apophyse odontoïde de C2], par cervicotomie antérieure ou antérolatérale
-
-|
-
-LDCA007
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale cervicale, par abord antérieur avec mandibulotomie
-
-|
-
-LDCA008
-
-|
-
-|
-
-Ostéosynthèse de la dent de l'axis [apophyse odontoïde de C2], par abord intrabuccal
-
-|
-
-LDCA012
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par cervicotomie antérieure ou antérolatérale et par abord postérieur
-
-|
-
-LDCA013
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par cervicotomie antérieure ou par cervicotomie antérolatérale
-
-|
-
-LDDA001
-
-|
-
-|
-
-Arthrodèse antérieure de la jonction occipitocervicale, par abord intrabuccal ou par cervicotomie antérolatérale
-
-|
-
-LDFA003
-
-|
-
-|
-
-Laminarthrectomie cervicale totale bilatérale, par abord postérieur
-
-|
-
-LDFA010
-
-|
-
-|
-
-Spondylectomie totale, par cervicotomie antérieure ou antérolatérale et par abord postérieur
-
-|
-
-LDPA001
-
-|
-
-|
-
-Décompression médullaire pour malformation de la jonction occipitocervicale, avec ouverture durale, par abord postérieur
-
-|
-
-LDPA002
-
-|
-
-|
-
-Décompression médullaire pour malformation de la jonction occipitocervicale, par cervicotomie antérolatérale
-
-|
-
-LDPA003
-
-|
-
-|
-
-Décompression médullaire pour malformation de la jonction occipitocervicale, sans ouverture durale, par abord postérieur
-
-|
-
-LDPA004
-
-|
-
-|
-
-Décompression médullaire pour malformation de la jonction occipitocervicale, avec ostéosynthèse, par abord postérieur
-
-|
-
-LDPA005
-
-|
-
-|
-
-Décompression médullaire pour malformation de la jonction occipitocervicale, par abord intrabuccal
-
-|
-
-LDPA006
-
-|
-
-|
-
-Corporotomie [Somatotomie] d'une vertèbre pour décompression médullaire, par cervicotomie antérieure ou antérolatérale
-
-|
-
-LDPA007
-
-|
-
-|
-
-Corporotomie [Somatotomie] d'une vertèbre pour décompression médullaire, avec arthrodèse et/ou ostéosynthèse, par cervicotomie antérieure ou antérolatérale
-
-|
-
-LDPA009
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, par cervicothoracotomie
-
-|
-
-LECA001
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoraco-phréno-laparotomie
-
-|
-
-LECA002
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoracotomie et par abord postérieur
-
-|
-
-LECA003
-
-|
-
-|
-
-Ostéosynthèse et/ou arthrodèse antérieure ou épiphysiodèse de la colonne vertébrale sans exploration du contenu canalaire, par thoracotomie
-
-|
-
-LECA004
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoraco-phréno-laparotomie et par abord postérieur
-
-|
-
-LECA005
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par thoracotomie
-
-|
-
-LECA006
-
-|
-
-|
-
-Ostéosynthèse et/ou arthrodèse antérieure de la colonne vertébrale sans exploration du contenu canalaire, par thoraco-phréno-laparotomie
-
-|
-
-LECC001
-
-|
-
-|
-
-Ostéosynthèse et/ou arthrodèse antérieure ou épiphysiodèse de la colonne vertébrale, par thoracoscopie
-
-|
-
-LEFA001
-
-|
-
-|
-
-Spondylectomie thoracique totale, par abord postérieur
-
-|
-
-LEFA004
-
-|
-
-|
-
-Corporectomie vertébrale totale, par thoraco-phréno-laparotomie
-
-|
-
-LEFA005
-
-|
-
-|
-
-Spondylectomie totale, par thoracotomie et par abord postérieur
-
-|
-
-LEFA006
-
-|
-
-|
-
-Corporectomie vertébrale totale, par thoracotomie
-
-|
-
-LEFA007
-
-|
-
-|
-
-Corporectomie vertébrale partielle, par thoraco-phréno-laparotomie
-
-|
-
-LEFA008
-
-|
-
-|
-
-Corporectomie d'une vertèbre malformée, par thoraco-phréno-laparotomie
-
-|
-
-LEFA009
-
-|
-
-|
-
-Spondylectomie totale, par thoraco-phréno-laparotomie et par abord postérieur
-
-|
-
-LEFA010
-
-|
-
-|
-
-Corporectomie vertébrale partielle, par thoracotomie
-
-|
-
-LEFA011
-
-|
-
-|
-
-Exérèse d'une hernie discale de la colonne vertébrale avec ostéosynthèse et/ou arthrodèse, par thoracotomie
-
-|
-
-LEFA012
-
-|
-
-|
-
-Corporectomie d'une vertèbre malformée, par thoracotomie
-
-|
-
-LEFA013
-
-|
-
-|
-
-Exérèse d'une hernie discale de la colonne vertébrale, par thoracotomie
-
-|
-
-LEFA014
-
-|
-
-|
-
-Corporectomie vertébrale partielle ou totale, par thoracoscopie ou par thoracotomie avec préparation par thoracoscopie
-
-|
-
-LEFC002
-
-|
-
-|
-
-Exérèse d'une hernie discale de la colonne vertébrale, par thoracoscopie
-
-|
-
-LEGA001
-
-|
-
-|
-
-Ablation de matériel d'ostéosynthèse de la colonne vertébrale, par thoraco-phréno-laparotomie
-
-|
-
-LEGA002
-
-|
-
-|
-
-Ablation de matériel d'ostéosynthèse de la colonne vertébrale, par thoracotomie
-
-|
-
-LEHA001
-
-|
-
-|
-
-Biopsie osseuse et/ou discale de la colonne vertébrale, par thoraco-phréno-laparotomie
-
-|
-
-LEHA003
-
-|
-
-|
-
-Biopsie osseuse et/ou discale de la colonne vertébrale, par thoracotomie
-
-|
-
-LEMA001
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 vertèbres ou plus, par thoraco-phréno-laparotomie
-
-|
-
-LEMA002
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par thoracotomie
-
-|
-
-LEMA003
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par thoraco-phréno-laparotomie
-
-|
-
-LEMA004
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 vertèbres ou plus, par thoracotomie
-
-|
-
-LEPA001
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 1 à 3 vertèbres, par thoraco-phréno-laparotomie
-
-|
-
-LEPA002
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 1 à 3 vertèbres, par thoracotomie
-
-|
-
-LEPA003
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 1 à 3 vertèbres, par thoracotomie
-
-|
-
-LEPA004
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 4 vertèbres ou plus, par thoraco-phréno-laparotomie
-
-|
-
-LEPA005
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 4 vertèbres ou plus, par thoraco-phréno-laparotomie
-
-|
-
-LEPA006
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 4 vertèbres ou plus, par thoracotomie
-
-|
-
-LEPA007
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 4 vertèbres ou plus, par thoracotomie
-
-|
-
-LEPA008
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 1 à 3 vertèbres, par thoraco-phréno-laparotomie
-
-|
-
-LFCA003
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale avec exploration du contenu canalaire, par laparotomie ou lombotomie et par abord postérieur
-
-|
-
-LFMA001
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par lombotomie
-
-|
-
-LFPA002
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale, avec arthrodèse et correction instrumentale, sur 4 vertèbres ou plus, par laparotomie ou par lombotomie
-
-|
-
-LFPA003
-
-|
-
-|
-
-Ostéotomie antérieure ou discectomie totale pour déformation rigide de la colonne vertébrale avec arthrodèse, sans correction instrumentale, sur 4 vertèbres ou plus, par laparotomie ou par lombotomie
-
-|
-
-LGCA001
-
-|
-
-|
-
-Ostéosynthèse de fracture du sacrum, par abord postérieur
-
-|
-
-LGFA003
-
-|
-
-|
-
-Exérèse distale du sacrum [Sacrectomie respectant S1 et S2], par abord antérieur et par abord postérieur
-
-|
-
-LGFA004
-
-|
-
-|
-
-Exérèse totale du sacrum [Sacrectomie totale], par abord antérieur et par abord postérieur
-
-|
-
-LGFA006
-
-|
-
-|
-
-Exérèse proximale du sacrum [Sacrectomie S1 et/ou S2], par abord antérieur et par abord postérieur
-
-|
-
-LHCA001
-
-|
-
-|
-
-Ostéosynthèse de la colonne vertébrale sans exploration du contenu canalaire, par abord antérieur et par abord postérieur
-
-|
-
-LHFA003
-
-|
-
-|
-
-Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse et correction instrumentale, sur 10 vertèbres ou plus, par abord postérieur, avec résection de 3 côtes ou plus
-
-|
-
-LHFA013
-
-|
-
-|
-
-Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse, correction instrumentale et ostéotomie antérieure transpédiculaire, sur 6 à 9 vertèbres, par abord postérieur
-
-|
-
-LHFA025
-
-|
-
-|
-
-Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse, correction instrumentale et ostéotomie antérieure transpédiculaire, sur 10 vertèbres ou plus, par abord postérieur
-
-|
-
-LHFA027
-
-|
-
-|
-
-Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse, correction instrumentale et ostéotomie antérieure transpédiculaire, sur 3 à 5 vertèbres, par abord postérieur
-
-|
-
-LHFA028
-
-|
-
-|
-
-Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse et correction instrumentale, sur 10 vertèbres ou plus, par abord postérieur
-
-|
-
-LHFA029
-
-|
-
-|
-
-Arthrectomie totale bilatérale et/ou ostéotomie postérieure pour déformation rigide de la colonne vertébrale avec arthrodèse et correction instrumentale, sur 6 à 9 vertèbres, par abord postérieur
-
-|
-
-LHGA004
-
-|
-
-|
-
-Ablation de matériel d'ostéosynthèse de la colonne vertébrale sur 10 vertèbres ou plus, par abord postérieur
-
-|
-
-LHGA006
-
-|
-
-|
-
-Ablation de matériel d'ostéosynthèse de la colonne vertébrale sur 6 à 9 vertèbres, par abord postérieur
-
-|
-
-LHMA003
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 à 9 vertèbres, par abord postérieur
-
-|
-
-LHMA004
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 à 9 vertèbres, par abord postérolatéral
-
-|
-
-LHMA006
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 3 à 5 vertèbres, par abord postérieur
-
-|
-
-LHMA013
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 6 à 9 vertèbres par abord postérieur, avec résection de 3 côtes ou plus
-
-|
-
-LHMA014
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 10 vertèbres ou plus par abord postérieur, avec résection de 3 côtes ou plus
-
-|
-
-LHMA015
-
-|
-
-|
-
-Correction instrumentale d'une déformation souple de la colonne vertébrale avec arthrodèse de 10 vertèbres ou plus, par abord postérieur
-
-|
-
-LHPA004
-
-|
-
-|
-
-Mise à plat d'une lésion vertébrale infectieuse ou ossifluente, par abord postérieur
-
-|
-
-LJCA002
-
-|
-
-|
-
-Ostéosynthèse d'un volet thoracique
-
-|
-
-LJFA001
-
-|
-
-|
-
-Gibbectomie, par abord direct
-
-|
-
-LJFA002
-
-|
-
-|
-
-Résection de la première côte, par abord supraclaviculaire ou par abord axillaire
-
-|
-
-LJFA004
-
-|
-
-|
-
-Résection de la paroi thoracique, sans prothèse
-
-|
-
-LJFA007
-
-|
-
-|
-
-Résection de la première côte et d'une côte cervicale, par abord supraclaviculaire
-
-|
-
-LJFA008
-
-|
-
-|
-
-Résection de la paroi thoracique, avec prothèse
-
-|
-
-LJFA009
-
-|
-
-|
-
-Résection du sternum
-
-|
-
-LJFA010
-
-|
-
-|
-
-Exérèse partielle de côte et/ou de sternum, par abord direct
-
-|
-
-LJJA002
-
-|
-
-|
-
-Évacuation de collection suppurée de la paroi thoracique étendue au médiastin
-
-|
-
-LJMA001
-
-|
-
-|
-
-Thoracoplastie de 6 côtes ou plus
-
-|
-
-LJMA002
-
-|
-
-|
-
-Plastie de malformation du thorax sans malformation du sternum, sans ostéosynthèse
-
-|
-
-LJMA003
-
-|
-
-|
-
-Thoracoplastie de 2 à 5 côtes
-
-|
-
-LJMA004
-
-|
-
-|
-
-Plastie de malformation du thorax sans malformation du sternum, avec ostéosynthèse
-
-|
-
-LJMA005
-
-|
-
-|
-
-Plastie de malformation sternocostale, sans ostéosynthèse
-
-|
-
-LJMA006
-
-|
-
-|
-
-Plastie de malformation sternocostale, avec ostéosynthèse
-
-|
-
-LJSA001
-
-|
-
-|
-
-Fermeture d'une désunion pariétale de thoracotomie latérale
-
-|
-
-LLCA001
-
-|
-
-|
-
-Suture d'une coupole du diaphragme pour hernie congénitale, par laparotomie
-
-|
-
-LLCA002
-
-|
-
-|
-
-Suture d'une coupole du diaphragme pour hernie congénitale, par thoracotomie
-
-|
-
-LLCA003
-
-|
-
-|
-
-Suture de plaie ou de rupture récente d'une coupole du diaphragme, par thoracotomie
-
-|
-
-LLCA005
-
-|
-
-|
-
-Suture de plaie ou de rupture récente de la coupole du diaphragme, par laparotomie
-
-|
-
-LLCC001
-
-|
-
-|
-
-Suture de plaie ou de rupture récente d'une coupole du diaphragme, par thoracoscopie
-
-|
-
-LLCC003
-
-|
-
-|
-
-Suture de plaie ou de rupture récente de la coupole du diaphragme, par coelioscopie
-
-|
-
-LLFA003
-
-|
-
-|
-
-Exérèse partielle du diaphragme sans pose de prothèse, par thoracotomie
-
-|
-
-LLFA013
-
-|
-
-|
-
-Exérèse partielle du diaphragme avec pose de prothèse, par thoracotomie
-
-|
-
-LLMA001
-
-|
-
-|
-
-Cure d'une hernie acquise de la coupole gauche du diaphragme, par thoracotomie
-
-|
-
-LLMA002
-
-|
-
-|
-
-Cure d'une hernie hiatale congénitale avec agénésie des piliers du diaphragme, par laparotomie
-
-|
-
-LLMA003
-
-|
-
-|
-
-Plastie d'une coupole du diaphragme pour éventration, par thoracotomie
-
-|
-
-LLMA004
-
-|
-
-|
-
-Plastie musculaire ou prothétique d'une coupole du diaphragme pour hernie congénitale, par laparotomie
-
-|
-
-LLMA005
-
-|
-
-|
-
-Cure d'une hernie acquise de la coupole droite du diaphragme, par abord direct
-
-|
-
-LLMA009
-
-|
-
-|
-
-Plastie musculaire ou prothétique d'une coupole du diaphragme pour hernie congénitale, par thoracotomie
-
-|
-
-LLMC003
-
-|
-
-|
-
-Plastie d'une coupole du diaphragme pour éventration, par thoracoscopie
-
-|
-
-LLMC005
-
-|
-
-|
-
-Cure d'une hernie acquise de la coupole du diaphragme, par thoracoscopie
-
-|
-
-LMSA001
-
-|
-
-|
-
-Fermeture d'une omphalocèle ou d'un laparoschisis en un temps
-
-|
-
-MZEA002
-
-|
-
-|
-
-Réimplantation de la main sectionnée au niveau du métacarpe
-
-|
-
-MZEA007
-
-|
-
-|
-
-Réimplantation du membre supérieur sectionné au dessus du poignet
-
-|
-
-MZEA011
-
-|
-
-|
-
-Réimplantation de la main sectionnée au poignet
-
-|
-
-MZFA010
-
-|
-
-|
-
-Désarticulation scapulohumérale [Désarticulation de l'épaule]
-
-|
-
-MZMA001
-
-|
-
-|
-
-Réparation d'une hémisection antérieure du poignet avec ischémie complète de la main
-
-|
-
-NACA002
-
-|
-
-|
-
-Ostéosynthèse plurifocale de fracture ou de fracture-luxation de la ceinture pelvienne [du bassin], à foyer ouvert
-
-|
-
-NAFA001
-
-|
-
-|
-
-Résection "en bloc" de l'os coxal ou du fémur avec arthrectomie monobloc de hanche
-
-|
-
-NAFA003
-
-|
-
-|
-
-Résection complète "en bloc" partielle ou totale d'un os coxal [hémibassin] emportant l'acétabulum
-
-|
-
-NAFA006
-
-|
-
-|
-
-Résection complète "en bloc" de l'aile iliaque ou du cadre obturateur interrompant la continuité de l'anneau pelvien
-
-|
-
-NAMA002
-
-|
-
-|
-
-Reconstruction de l'os coxal [hémibassin] après résection de la zone acétabulaire, sans prothèse coxale
-
-|
-
-NEFA002
-
-|
-
-|
-
-Résection étendue de l'articulation sacro-iliaque
-
-|
-
-NEMA011
-
-|
-
--01
-
-|
-
-Reconstruction de l'articulation coxofémorale droite par prothèse massive ou sur mesure, après perte de substance segmentaire au niveau de la hanche ou de l'os coxal
-
-|
-
-NEMA011
-
-|
-
--02
-
-|
-
-Reconstruction de l'articulation coxofémorale gauche par prothèse massive ou sur mesure, après perte de substance segmentaire au niveau de la hanche ou de l'os coxal
-
-|
-
-NEMA013
-
-|
-
-|
-
-Reconstruction osseuse de la hanche après résection "en bloc" de l'os coxal [hémibassin], avec fixation du fémur à l'os coxal
-
-|
-
-NJEA004
-
-|
-
-|
-
-Transfert du psoas à travers ou en avant de l'aile iliaque, avec ostéotomie de l'os coxal ou du fémur
-
-|
-
-NZEA002
-
-|
-
-|
-
-Réimplantation du membre inférieur sectionné à la jambe
-
-|
-
-NZEA003
-
-|
-
-|
-
-Transplantation du pied à la cuisse avec conservation des pédicules vasculonerveux
-
-|
-
-NZEA006
-
-|
-
-|
-
-Réimplantation du membre inférieur sectionné à la cuisse
-
-|
-
-NZEA007
-
-|
-
-|
-
-Réimplantation du pied
-
-|
-
-NZFA001
-
-|
-
-|
-
-Désarticulation de la hanche
-
-|
-
-NZFA003
-
-|
-
-|
-
-Désarticulation du genou
-
-|
-
-NZFA006
-
-|
-
-|
-
-Désarticulation ou amputation du membre inférieur à travers l'os coxal, l'articulation sacro-iliaque ou le sacrum
-
-|
-
-NZFA008
-
-|
-
-|
-
-Désarticulation ou amputation interilioabdominale
-
-|
-
-QAJA001
-
-|
-
-|
-
-Pansement chirurgical secondaire de brûlure sur l'extrémité céphalique et les 2 mains
-
-|
-
-QAJA003
-
-|
-
-|
-
-Évacuation d'un phlegmon cervicofacial et médiastinal diffus, par cervicotomie
-
-|
-
-QAJA007
-
-|
-
-|
-
-Pansement chirurgical initial de brûlure sur l'extrémité céphalique et les 2 mains
-
-|
-
-QAJA008
-
-|
-
-|
-
-Pansement chirurgical initial de brûlure sur l'extrémité céphalique et 1 main
-
-|
-
-QAJA011
-
-|
-
-|
-
-Pansement chirurgical secondaire de brûlure sur l'extrémité céphalique et 1 main
-
-|
-
-QBFA014
-
-|
-
-|
-
-Excision d'une fasciite nécrosante périnéofessière
-
-|
-
-QCJA002
-
-|
-
-|
-
-Pansement chirurgical secondaire de brûlure sur les 2 mains
-
-|
-
-QCJA005
-
-|
-
-|
-
-Pansement chirurgical initial de brûlure sur les 2 mains
-
-|
-
-QZFA012
-
-|
-
-|
-
-Excision de brûlure en dehors de l'extrémité céphalique et des mains, sur 10% à 12,5% de la surface corporelle
-
-|
-
-QZFA018
-
-|
-
-|
-
-Excision de brûlure en dehors de l'extrémité céphalique et des mains, sur 12,5% à 15% de la surface corporelle
-
-|
-
-QZFA034
-
-|
-
-|
-
-Excision de brûlure en dehors de l'extrémité céphalique et des mains, sur 15% à 17,5% de la surface corporelle
-
-|
-
-ZBGA001
-
-|
-
-|
-
-Ablation de corps étranger intrathoracique, par thoracotomie
-
-|
-
-ZBGC001
-
-|
-
-|
-
-Ablation de corps étranger intrathoracique, par thoracoscopie
-
-|
-
-ZBQA001
-
-|
-
-|
-
-Exploration du thorax avec biopsie du poumon, par thoracotomie
-
-|
-
-ZBQC002
-
-|
-
-|
-
-Exploration du thorax avec biopsie du poumon, par thoracoscopie
-
-|
-
-ZBSA001
-
-|
-
-|
-
-Hémostase secondaire à un acte intrathoracique, par thoracotomie
-
-|
-
-ZCJA005
-
-|
-
-|
-
-Évacuation de collection intraabdominale, par thoracotomie
-
-|
-
-ZZLF004
-
-|
-
-|
-
-Administration locorégionale d'agent pharmacologique anticancéreux par voie artérielle, avec CEC, avec hyperthermie
-
-|
-
-Liste 3 : diagnostics et actes associés autorisant la facturation d'un supplément
-
-de surveillance continue pour les enfants de moins de 18 ans
-
-CODES
-
-CIM-10
-
-|
-
-LIBELLÉS CIM-10
-
-|
-
-CODES ACTES CCAM
-
-|
-
-EXT. PMSI
-
-|
-
-LIBELLÉS CCAM
-
-|
-
-A37.0
-
-|
-
-Coqueluche à Bordetella pertussis
-
-|
-
-|
-
-|
-
-|
-
-A37.1
-
-|
-
-Coqueluche à Bordetella parapertussis
-
-|
-
-|
-
-|
-
-|
-
-A37.8
-
-|
-
-Coqueluche due à d'autres espèces de Bordetella
-
-|
-
-|
-
-|
-
-|
-
-A37.9
-
-|
-
-Coqueluche, sans précision
-
-|
-
-|
-
-|
-
-|
-
-A39.2
-
-|
-
-Méningococcémie aigüe
-
-|
-
-|
-
-|
-
-|
-
-B01.0
-
-|
-
-Méningite varicelleuse (G02.0*)
-
-|
-
-|
-
-|
-
-|
-
-B01.1
-
-|
-
-Encéphalite varicelleuse (G05.1*)
-
-|
-
-|
-
-|
-
-|
-
-B01.2
-
-|
-
-Pneumopathie varicelleuse (J17.1*)
-
-|
-
-|
-
-|
-
-|
-
-B01.8
-
-|
-
-Varicelle avec autres complications
-
-|
-
-|
-
-|
-
-|
-
-B50.0
-
-|
-
-Paludisme à Plasmodium falciparum avec complications cérébrales
-
-|
-
-|
-
-|
-
-|
-
-B50.8
-
-|
-
-Autres formes sévères et compliquées de paludisme à Plasmodium falciparum
-
-|
-
-|
-
-|
-
-|
-
-B51.0
-
-|
-
-Paludisme à Plasmodium vivax, avec rupture de la rate
-
-|
-
-|
-
-|
-
-|
-
-B51.8
-
-|
-
-Paludisme à Plasmodium vivax, avec autres complications
-
-|
-
-|
-
-|
-
-|
-
-B52.0
-
-|
-
-Paludisme à Plasmodium malariae, avec atteinte rénale
-
-|
-
-|
-
-|
-
-|
-
-B52.8
-
-|
-
-Paludisme à Plasmodium malariae, avec autres complications
-
-|
-
-|
-
-|
-
-|
-
-C40.2
-
-|
-
-Tumeur maligne des os longs du membre inférieur
-
-|
-
-|
-
-|
-
-|
-
-D57.0
-
-|
-
-Anémie à hématies falciformes [anémie drépanocytaire] avec crises
-
-|
-
-|
-
-|
-
-|
-
-D59.3
-
-|
-
-Syndrome hémolytique et urémique
-
-|
-
-|
-
-|
-
-|
-
-D65
-
-|
-
-Coagulation intravasculaire disséminée [syndrome de défibrination]
-
-|
-
-|
-
-|
-
-|
-
-D70
-
-|
-
-Agranulocytose
-
-|
-
-|
-
-|
-
-|
-
-E16.0
-
-|
-
-Hypoglycémie médicamenteuse, sans coma
-
-|
-
-|
-
-|
-
-|
-
-E16.1
-
-|
-
-Autres hypoglycémies
-
-|
-
-|
-
-|
-
-|
-
-E16.2
-
-|
-
-Hypoglycémie, sans précision
-
-|
-
-|
-
-|
-
-|
-
-E22.2
-
-|
-
-Syndrome de sécrétion anormale de l'hormone antidiurétique
-
-|
-
-|
-
-|
-
-|
-
-E23.0
-
-|
-
-Hypopituitarisme
-
-|
-
-|
-
-|
-
-|
-
-E23.2
-
-|
-
-Diabète insipide
-
-|
-
-|
-
-|
-
-|
-
-E43
-
-|
-
-Malnutrition protéinoénergétique grave, sans précision
-
-|
-
-|
-
-|
-
-|
-
-E66.24
-
-|
-
-Obésité extrême avec hypoventilation alvéolaire de l'adulte avec indice de masse corporelle [IMC] égal ou supérieurà 30 kg/m² et inférieur à 35 kg/m², ou obésité extrême avec hypoventilation alvéolaire de l'enfant
-
-|
-
-|
-
-|
-
-|
-
-E71.0
-
-|
-
-Maladie des urines à odeur de sirop d'érable
-
-|
-
-|
-
-|
-
-|
-
-E71.1
-
-|
-
-Autres anomalies du métabolisme des acides aminés à chaîne ramifiée
-
-|
-
-|
-
-|
-
-|
-
-E72.2
-
-|
-
-Anomalies du cycle de l'uréogenèse
-
-|
-
-|
-
-|
-
-|
-
-E74.3
-
-|
-
-Autres anomalies de l'absorption intestinale des hydrates de carbone
-
-|
-
-HSLF003
-
-|
-
-|
-
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
-
-|
-
-E84.0
-
-|
-
-Fibrose kystique du pancréas avec manifestations pulmonaires
-
-|
-
-|
-
-|
-
-|
-
-E84.1
-
-|
-
-Fibrose kystique du pancréas avec manifestations intestinales
-
-|
-
-|
-
-|
-
-|
-
-F10.0
-
-|
-
-Troubles mentaux et du comportement liés à l'utilisation d'alcool : intoxication aiguë
-
-|
-
-|
-
-|
-
-|
-
-F10.00
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, sans complication
-
-|
-
-|
-
-|
-
-|
-
-F10.01
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec traumatismes ou autres blessures physiques
-
-|
-
-|
-
-|
-
-|
-
-F10.02
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec d'autres complications médicales
-
-|
-
-|
-
-|
-
-|
-
-F10.03
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec délirium
-
-|
-
-|
-
-|
-
-|
-
-F10.04
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec distorsion des perceptions
-
-|
-
-|
-
-|
-
-|
-
-F10.05
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec coma
-
-|
-
-|
-
-|
-
-|
-
-F10.06
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec convulsions
-
-|
-
-|
-
-|
-
-|
-
-F10.07
-
-|
-
-Troubles mentaux et du comportement dus à une intoxication aigüe pathologique par l'alcool
-
-|
-
-|
-
-|
-
-|
-
-G06.0
-
-|
-
-Abcès et granulome intracrâniens
-
-|
-
-|
-
-|
-
-|
-
-G47.3
-
-|
-
-Apnée du sommeil
-
-|
-
-|
-
-|
-
-|
-
-G91.1
-
-|
-
-Hydrocéphalie obstructive (non communicante)
-
-|
-
-|
-
-|
-
-|
-
-G92
-
-|
-
-Encéphalopathie toxique
-
-|
-
-|
-
-|
-
-|
-
-G93.2
-
-|
-
-Hypertension intracrânienne bénigne
-
-|
-
-|
+Paludisme à Plasmodium vivax, avec autres complications |
 
 |
 
 |
 
-G93.4
-
-|
-
-Encéphalopathie, sans précision
-
-|
-
-HSLD002
-
-|
-
-|
-
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
-
-|
-
-G93.5
-
-|
-
-Compression du cerveau
-
-|
-
-|
-
-|
-
-|
-
-I15.0
-
-|
-
-Hypertension vasculorénale
-
-|
-
-|
-
-|
-
-|
-
-I62.0
-
-|
-
-Hémorragie sousdurale (aigüe) (non traumatique)
-
-|
-
-|
-
-|
-
-|
-
-I62.1
-
-|
-
-Hémorragie extradurale non traumatique
-
-|
-
-|
-
-|
-
-|
-
-I62.9
-
-|
-
-Hémorragie intracrânienne (non traumatique), sans précision
-
-|
-
-|
-
-|
-
-|
-
-I98.3
-
-|
-
-Varices oesophagiennes hémorragiques au cours de maladies classées ailleurs
-
-|
-
-|
-
-|
-
-|
-
-J05.0
-
-|
-
-Laryngite obstructive aigüe [croup]
-
-|
-
-|
-
-|
-
 |
 
-J18.8
+B52.0 |
 
-|
-
-Autres pneumopathies, microorganisme non précisé
-
-|
-
-GEQE004
-
-|
-
-|
-
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
-
-|
-
-J21.0
-
-|
-
-Bronchiolite aigüe due au virus respiratoire syncytial [VRS]
-
-|
-
-|
-
-|
-
-|
-
-J21.1
-
-|
-
-Bronchiolite aigüe due à métapneumovirus humain
-
-|
-
-|
+Paludisme à Plasmodium malariae, avec atteinte rénale |
 
 |
 
 |
 
-J21.8
-
 |
-
-Bronchiolite aigüe due à d'autres microorganismes précisés
 
-|
+B52.8 |
 
-|
+Paludisme à Plasmodium malariae, avec autres complications |
 
 |
 
 |
 
-J21.9
-
 |
-
-Bronchiolite (aigüe), sans précision
 
-|
+C40.2 |
 
-|
+Tumeur maligne des os longs du membre inférieur |
 
 |
 
 |
 
-J38.4
-
 |
 
-Oedème du larynx
+D57.0 |
 
-|
+Anémie à hématies falciformes [anémie drépanocytaire] avec crises |
 
 |
 
@@ -5266,123 +2950,89 @@ Oedème du larynx
 
 |
 
-J84.0
-
-|
+D59.3 |
 
-Pneumopathies alvéolaires et pariétoalvéolaires
+Syndrome hémolytique urémique |
 
 |
 
-GEQE004
-
 |
 
 |
-
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
 
-|
+D65 |
 
-J84.1
+Coagulation intravasculaire disséminée [syndrome de défibrination] |
 
 |
-
-Autres affections pulmonaires interstitielles avec fibrose
 
 |
 
-GEQE004
-
 |
 
-|
+D70 |
 
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
+Agranulocytose |
 
 |
 
-J84.8
-
 |
-
-Autres affections pulmonaires interstitielles précisées
 
 |
 
-GEQE004
+E16.0 |
 
-|
+Hypoglycémie médicamenteuse, sans coma |
 
 |
-
-Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique
 
 |
 
-J86.0
-
 |
-
-Pyothorax avec fistule
 
-|
+E16.1 |
 
-|
+Autres hypoglycémies |
 
 |
 
 |
 
-J86.9
-
 |
-
-Pyothorax sans fistule
 
-|
+E16.2 |
 
-|
+Hypoglycémie, sans précision |
 
 |
 
 |
 
-J94.0
-
 |
-
-Épanchement chyleux
 
-|
+E22.2 |
 
-|
+Syndrome de sécrétion anormale de l'hormone antidiurétique |
 
 |
 
 |
 
-J95.0
-
 |
-
-Fonctionnement défectueux d'une trachéotomie
 
-|
+E23.0 |
 
-|
+Hypopituitarisme |
 
 |
 
 |
 
-J95.5
-
 |
 
-Sténose sousglottique après un acte à visée diagnostique et thérapeutique
+E23.2 |
 
-|
+Diabète insipide |
 
 |
 
@@ -5390,277 +3040,199 @@ Sténose sousglottique après un acte à visée diagnostique et thérapeutique
 
 |
 
-J96.0
+E43 |
 
-|
-
-Insuffisance respiratoire aigüe
+Malnutrition protéino-énergétique grave, sans précision |
 
 |
 
-GLLD019
-
 |
 
 |
-
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
 
-|
+E66.24 |
 
-J96.00
+Obésité (extrême) avec hypoventilation alvéolaire de l'adulte avec indice de masse corporelle [IMC] égal ou supérieur à 30 kg/m² et inférieur à 35 kg/m², ou obésité (extrême) avec hypoventilation alvéolaire de l'enfant |
 
 |
-
-Insuffisance respiratoire aigüe de type I [hypoxique]
 
 |
 
-GLLD019
-
 |
 
-|
+E71.0 |
 
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
+Maladie des urines à odeur de sirop d'érable |
 
 |
 
-J96.01
-
 |
-
-Insuffisance respiratoire aigüe de type II [hypercapnique]
 
 |
 
-GLLD019
+E71.1 |
 
-|
+Autres anomalies du métabolisme des acides aminés à chaîne ramifiée |
 
 |
-
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
 
 |
 
-J96.09
-
 |
-
-Insuffisance respiratoire aigüe, type non précisé
 
-|
+E72.2 |
 
-GLLD019
+Anomalies du cycle de l'uréogenèse |
 
 |
 
 |
-
-Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe
 
 |
 
-J98.60
+E74.3 |
 
-|
-
-Paralysie du diaphragme
+Autres anomalies de l'absorption intestinale des hydrates de carbone |
 
-|
+HSLF003 |
 
 |
 
-|
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+E84.0 |
 
-K22.0
+Fibrose kystique avec manifestations pulmonaires |
 
 |
-
-Achalasie du cardia
 
 |
 
-HSLD002
-
 |
 
-|
+E84.1 |
 
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Fibrose kystique avec manifestations intestinales |
 
 |
 
-K22.4
-
 |
-
-Dyskinésie de l'oesophage
 
 |
 
-HSLD002
+F10.0 |
 
-|
+Troubles mentaux et du comportement liés à l'utilisation d'alcool : intoxication aiguë |
 
 |
-
-Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
-K29.0
-
 |
-
-Gastrite hémorragique aigüe
 
-|
+F10.00 |
 
-|
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, sans complication |
 
 |
 
 |
 
-K35.2
-
 |
-
-Appendicite aigüe avec péritonite généralisée
 
-|
+F10.01 |
 
-|
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec traumatismes ou autres blessures physiques |
 
 |
 
 |
 
-K52.3
-
 |
-
-Colite indéterminée
 
-|
+F10.02 |
 
-HSLF003
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec d'autres complications médicales |
 
 |
 
 |
-
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
-K52.9
+F10.03 |
 
-|
-
-Gastroentérite et colite non infectieuses, sans précision
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec délirium |
 
 |
 
-HSLF003
-
 |
 
 |
-
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
-|
+F10.04 |
 
-K56.0
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec distorsion des perceptions |
 
 |
-
-Iléus paralytique
 
 |
 
-HSLF002
-
 |
 
-|
+F10.05 |
 
-Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec coma |
 
 |
 
-K56.0
-
 |
-
-Iléus paralytique
 
 |
 
-HSLF003
+F10.06 |
 
-|
+Troubles mentaux et du comportement dus à une intoxication aigüe par l'alcool, avec convulsions |
 
 |
-
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
-K56.1
-
 |
-
-Invagination (intestinale)
 
-|
+F10.07 |
 
-|
+Troubles mentaux et du comportement dus à une intoxication aigüe pathologique par l'alcool |
 
 |
 
 |
 
-K56.2
-
 |
-
-Volvulus (intestinal)
 
-|
+G06.0 |
 
-|
+Abcès et granulome intracrâniens |
 
 |
 
 |
 
-K56.5
-
 |
-
-Adhérences de l'intestin [brides], avec occlusion
 
-|
+G47.3 |
 
-|
+Apnée du sommeil |
 
 |
 
 |
 
-K56.6
-
 |
 
-Occlusions intestinales, autres et sans précision
+G91.1 |
 
-|
+Hydrocéphalie obstructive (non communicante) |
 
 |
 
@@ -5668,11 +3240,9 @@ Occlusions intestinales, autres et sans précision
 
 |
 
-K63.1
-
-|
+G92 |
 
-Perforation de l'intestin (non traumatique)
+Encéphalopathie toxique |
 
 |
 
@@ -5680,171 +3250,149 @@ Perforation de l'intestin (non traumatique)
 
 |
 
-|
+G93.2 |
 
-K65.0
+Hypertension intracrânienne bénigne |
 
 |
-
-Péritonite aigüe
 
 |
 
 |
 
-|
+G93.4 |
 
-|
+Encéphalopathie, sans précision |
 
-K66.1
+HSLD002 |
 
 |
 
-Hémopéritoine
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+G93.5 |
 
-|
+Compression du cerveau |
 
 |
 
 |
 
-K72.0
-
 |
-
-Insuffisance hépatique aigüe et subaigüe
 
-|
+I15.0 |
 
-|
+Hypertension vasculo-rénale |
 
 |
 
 |
 
-K83.0
-
 |
-
-Angiocholite [cholangite]
 
-|
+I62.0 |
 
-|
+Hémorragie sousdurale non traumatique |
 
 |
 
 |
 
-K90.4
-
 |
-
-Malabsorption due à une intolérance, non classée ailleurs
 
-|
+I62.1 |
 
-HSLF003
+Hémorragie extradurale non traumatique |
 
 |
 
 |
-
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
 
 |
 
-K90.8
+I62.9 |
 
-|
+Hémorragie intracrânienne (non traumatique), sans précision |
 
-Autres malabsorptions intestinales
-
 |
-
-HSLF003
 
 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+I98.3 |
 
+Varices oesophagiennes hémorragiques au cours de maladies classées ailleurs |
+
 |
 
-K91.2
+|
 
 |
 
-Malabsorption postchirurgicale, non classée ailleurs
+J05.0 |
 
-|
+Laryngite obstructive (aiguë) [croup] |
 
-HSLF003
+|
 
 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+J18.8 |
 
-|
+Autres pneumopathies, micro-organisme non précisé |
 
-K91.3
+GEQE004 |
 
 |
 
-Occlusion intestinale postopératoire, non classée ailleurs
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+J21.0 |
 
-|
+Bronchiolite aiguë due au virus respiratoire syncytial [VRS] |
 
 |
 
 |
-
-K92.2
 
 |
 
-Hémorragie gastro-intestinale, sans précision
+J21.1 |
 
-|
+Bronchiolite aigüe due à métapneumovirus humain |
 
 |
 
 |
 
 |
-
-K93.828
 
-|
+J21.8 |
 
-Atteintes de l'intestin au cours d'autres maladies classées ailleurs
+Bronchiolite aiguë due à d'autres micro-organismes précisés |
 
 |
-
-HSLF003
 
 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+J21.9 |
 
+Bronchiolite (aiguë), sans précision |
+
 |
 
-L03.2
+|
 
 |
 
-Phlegmon de la face
+J38.4 |
 
-|
+Oedème du larynx |
 
 |
 
@@ -5852,39 +3400,39 @@ Phlegmon de la face
 
 |
 
-L51.1
+J84.0 |
 
-|
+Pneumopathies alvéolaires et pariéto-alvéolaires |
 
-Érythème polymorphe bulleux
+GEQE004 |
 
 |
 
-|
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+J84.1 |
 
-|
+Autres affections pulmonaires interstitielles avec fibrose |
 
-M31.1
+GEQE004 |
 
 |
 
-Microangiopathie thrombotique
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+J84.8 |
 
-|
+Autres affections pulmonaires interstitielles précisées |
 
-|
+GEQE004 |
 
 |
 
-P27.1
+Fibroscopie bronchique, avec lavage bronchioloalvéolaire à visée diagnostique |
 
-|
+J86.0 |
 
-Dysplasie bronchopulmonaire survenant pendant la période périnatale
+Pyothorax avec fistule |
 
 |
 
@@ -5892,77 +3440,89 @@ Dysplasie bronchopulmonaire survenant pendant la période périnatale
 
 |
 
-|
+J86.9 |
 
-Q32.0
+Pyothorax sans fistule |
 
 |
 
-Trachéomalacie congénitale
+|
 
 |
+
+J94.0 |
 
+Épanchement chyleux |
+
 |
 
 |
 
 |
+
+J95.0 |
 
-Q39.1
+Fonctionnement défectueux d'une trachéostomie |
 
 |
 
-Atrésie de l'oesophage avec fistule trachéooesophagienne
+|
 
 |
+
+J95.5 |
 
+Sténose sous-glottique après un acte à visée diagnostique et thérapeutique |
+
 |
 
 |
 
 |
 
-Q43.1
+J96.0 |
 
-|
+Insuffisance respiratoire aiguë |
 
-Maladie de Hirschsprung
+GLLD019 |
 
 |
 
-HSLF003
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-|
+J96.00 |
 
-|
+Insuffisance respiratoire aigüe de type I [hypoxique] |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+GLLD019 |
 
 |
 
-Q43.2
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-|
+J96.01 |
+
+Insuffisance respiratoire aigüe de type II [hypercapnique] |
 
-Autres anomalies fonctionnelles congénitales du côlon
+GLLD019 |
 
 |
 
-HSLF003
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-|
+J96.09 |
 
-|
+Insuffisance respiratoire aigüe, type non précisé |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+GLLD019 |
 
 |
 
-Q79.0
+Ventilation barométrique ou volumétrique non effractive au masque facial pendant au moins 2 heures cumulées au cours des 12 heures, pour insuffisance respiratoire aigüe |
 
-|
+J98.60 |
 
-Hernie diaphragmatique congénitale
+Paralysie du diaphragme |
 
 |
 
@@ -5970,85 +3530,89 @@ Hernie diaphragmatique congénitale
 
 |
 
-|
+K22.0 |
 
-Q79.3
+Achalasie du cardia |
 
+HSLD002 |
+
 |
 
-Gastroschisis
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K22.4 |
 
-HSLF003
+Dyskinésie de l'oesophage |
 
-|
+HSLD002 |
 
 |
 
-Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures
+Alimentation entérale par sonde avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K29.0 |
 
-R04.0
+Gastrite hémorragique aiguë |
 
 |
 
-Épistaxis
+|
 
 |
 
-GABD001
+K35.2 |
 
-|
+Appendicite aigüe avec péritonite généralisée |
 
 |
 
-Tamponnement nasal antérieur et postérieur
+|
 
 |
 
-R04.0
+K52.3 |
 
-|
+Colite non infectieuse indéterminée |
 
-Épistaxis
+HSLF003 |
 
 |
 
-GASE001
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K52.9 |
 
-|
+Gastro-entérite et colite non infectieuses, sans précision |
 
-Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie
+HSLF003 |
 
 |
 
-R04.0
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K56.0 |
+
+Iléus paralytique |
 
-Épistaxis
+HSLF002 |
 
 |
 
-GASE002
+Alimentation parentérale avec apport de 20 à 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K56.0 |
 
-|
+Iléus paralytique |
 
-Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie
+HSLF003 |
 
 |
 
-R04.2
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K56.1 |
 
-Hémoptysie
+Invagination (intestinale) |
 
 |
 
@@ -6056,41 +3620,39 @@ Hémoptysie
 
 |
 
-|
+K56.2 |
 
-R09.2
+Volvulus (intestinal) |
 
 |
 
-Arrêt respiratoire
-
 |
 
 |
 
-|
+K56.5 |
 
+Adhérences de l'intestin (brides), avec occlusion |
+
 |
 
-R10.0
+|
 
 |
 
-Syndrome abdominal aigu
+K56.6 |
 
-|
+Occlusions intestinales, autres et sans précision |
 
 |
 
 |
 
 |
-
-R40.10
 
-|
+K63.1 |
 
-État paucirelationnel
+Perforation de l'intestin (non traumatique) |
 
 |
 
@@ -6098,69 +3660,79 @@ R40.10
 
 |
 
-|
+K65.0 |
 
-R40.18
+Péritonite aiguë |
 
 |
 
-Stupeur, autre et sans précision
+|
 
 |
+
+K66.1 |
 
+Hémopéritoine |
+
 |
 
 |
 
 |
+
+K72.0 |
 
-R52.10
+Insuffisance hépatique aiguë et subaiguë |
 
 |
 
-Douleur neuropathique
+|
 
 |
+
+K83.0 |
 
+Angiocholite [cholangite] |
+
 |
 
 |
 
 |
 
-R52.18
+K90.4 |
 
-|
+Malabsorption due à une intolérance, non classée ailleurs |
 
-Douleurs chroniques irréductibles, autres et non précisées
+HSLF003 |
 
 |
 
-|
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K90.8 |
 
-|
+Autres malabsorptions intestinales |
 
-R55
+HSLF003 |
 
 |
 
-Syncope et collapsus (sauf choc)
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K91.2 |
 
-|
+Malabsorption post-chirurgicale, non classée ailleurs |
 
-|
+HSLF003 |
 
 |
 
-R56.0
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+K91.3 |
 
-Convulsions fébriles
+Occlusion intestinale post-opératoire, non classée ailleurs |
 
 |
 
@@ -6168,55 +3740,49 @@ Convulsions fébriles
 
 |
 
-|
+K92.2 |
 
-R56.8
+Hémorragie gastro-intestinale, sans précision |
 
 |
 
-Convulsions, autres et non précisées
-
 |
 
 |
 
-|
+K93.828 |
 
-|
+Atteintes de l'intestin au cours d'autres maladies classées ailleurs |
 
-R57.1
+HSLF003 |
 
 |
 
-Choc hypovolémique
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+L03.2 |
 
-|
+Phlegmon de la face |
 
 |
 
 |
-
-R57.8
 
 |
 
-Autres chocs
+L51.1 |
 
-|
+Érythème polymorphe bulleux |
 
 |
 
 |
 
 |
-
-R65.2
 
-|
+M31.1 |
 
-Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans défaillance d'organe
+Microangiopathie thrombotique |
 
 |
 
@@ -6224,29 +3790,29 @@ Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans d�
 
 |
 
-|
+P27.1 |
 
-R65.9
+Dysplasie broncho-pulmonaire survenant pendant la période périnatale |
 
 |
 
-Syndrome de réponse inflammatoire systémique, non précisé
-
 |
 
 |
 
-|
+Q32.0 |
 
+Trachéomalacie congénitale |
+
 |
 
-S02.10
+|
 
 |
 
-Fracture fermée de la base du crâne
+Q39.1 |
 
-|
+Atrésie de l'oesophage avec fistule trachéo-oesophagienne |
 
 |
 
@@ -6254,81 +3820,79 @@ Fracture fermée de la base du crâne
 
 |
 
-S02.11
+Q43.1 |
 
-|
+Maladie de Hirschsprung |
 
-Fracture ouverte de la base du crâne
+HSLF003 |
 
 |
 
-|
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+Q43.2 |
 
-|
+Autres anomalies fonctionnelles congénitales du côlon |
 
-S14.0
+HSLF003 |
 
 |
 
-Commotion et oedème de la moelle cervicale
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-|
+Q79.0 |
 
-|
+Hernie diaphragmatique congénitale |
 
 |
 
 |
-
-S14.1
 
 |
 
-Lésions traumatiques de la moelle cervicale, autres et non précisées
+Q79.3 |
 
-|
+Gastroschisis |
 
-|
+HSLF003 |
 
 |
 
-|
+Alimentation parentérale avec apport de plus de 35 kilocalories par kilogramme par jour [kcal/kg/jour], par 24 heures |
 
-S21.1
+R04.0 |
 
-|
+Épistaxis |
 
-Plaie ouverte de la paroi thoracique antérieure
+GABD001 |
 
 |
 
-|
+Tamponnement nasal antérieur et postérieur |
 
-|
+R04.0 |
 
-|
+Épistaxis |
 
-S22.40
+GASE001 |
 
 |
 
-Fractures fermées multiples de côtes
+Hémostase intranasale par cautérisation ou électrocoagulation, par endoscopie |
 
-|
+R04.0 |
 
-|
+Épistaxis |
 
-|
+GASE002 |
 
 |
 
-S22.50
+Hémostase intranasale par injection unilatérale ou bilatérale transmuqueuse d'agent pharmacologique, par endoscopie |
 
-|
+R04.2 |
 
-Volet costal, avec fracture fermée
+Hémoptysie |
 
 |
 
@@ -6336,41 +3900,39 @@ Volet costal, avec fracture fermée
 
 |
 
-|
+R09.2 |
 
-S22.51
+Arrêt respiratoire |
 
 |
 
-Volet costal, avec fracture ouverte
-
 |
 
 |
 
-|
+R10.0 |
 
+Syndrome abdominal aigu |
+
 |
 
-S24.0
+|
 
 |
 
-Commotion et oedème de la moelle dorsale
+R40.10 |
 
-|
+État paucirelationnel |
 
 |
 
 |
 
 |
-
-S24.1
 
-|
+R40.18 |
 
-Lésions traumatiques autres et non précisées de la moelle dorsale
+Stupeur, autre et sans précision |
 
 |
 
@@ -6378,41 +3940,39 @@ Lésions traumatiques autres et non précisées de la moelle dorsale
 
 |
 
-|
+R52.10 |
 
-S32.70
+Douleur neuropathique |
 
 |
 
-Fractures fermées multiples du rachis lombaire et du bassin
-
 |
 
 |
 
-|
+R52.18 |
 
+Douleurs chroniques irréductibles, autres et non précisées |
+
 |
 
-S34.0
+|
 
 |
 
-Commotion et oedème de la moelle lombaire
+R55 |
 
-|
+Syncope et collapsus (sauf choc) |
 
 |
 
 |
 
 |
-
-S34.1
 
-|
+R56.0 |
 
-Autres lésions traumatiques de la moelle lombaire
+Convulsions fébriles |
 
 |
 
@@ -6420,41 +3980,39 @@ Autres lésions traumatiques de la moelle lombaire
 
 |
 
-|
+R56.8 |
 
-S36.2
+Convulsions, autres et non précisées |
 
 |
 
-Lésion traumatique du pancréas
-
 |
 
 |
 
-|
+R57.1 |
 
+Choc hypovolémique |
+
 |
 
-S36.20
+|
 
 |
 
-Lésion traumatique du pancréas, sans plaie pénétrante de la cavité abdominale
+R57.8 |
 
-|
+Autres chocs |
 
 |
 
 |
 
 |
-
-S36.21
 
-|
+R65.2 |
 
-Lésion traumatique du pancréas, avec plaie pénétrante de la cavité abdominale
+Syndrome de réponse inflammatoire systémique d'origine non infectieuse sans défaillance d'organe |
 
 |
 
@@ -6462,41 +4020,39 @@ Lésion traumatique du pancréas, avec plaie pénétrante de la cavité abdomina
 
 |
 
-|
+R65.9 |
 
-S36.3
+Syndrome de réponse inflammatoire systémique, sans précision |
 
 |
 
-Lésion traumatique de l'estomac
-
 |
 
 |
 
-|
+S02.10 |
 
+Fracture fermée de la base du crâne |
+
 |
 
-S36.30
+|
 
 |
 
-Lésion traumatique de l'estomac, sans plaie pénétrante de la cavité abdominale
+S02.11 |
 
-|
+Fracture ouverte de la base du crâne |
 
 |
 
 |
 
 |
-
-S36.31
 
-|
+S14.0 |
 
-Lésion traumatique de l'estomac, avec plaie pénétrante de la cavité abdominale
+Commotion et oedème de la moelle cervicale |
 
 |
 
@@ -6504,41 +4060,39 @@ Lésion traumatique de l'estomac, avec plaie pénétrante de la cavité abdomina
 
 |
 
-|
+S14.1 |
 
-S36.4
+Lésions traumatiques de la moelle cervicale, autres et non précisées |
 
 |
 
-Lésion traumatique de l'intestin grêle
-
 |
 
 |
 
-|
+S21.1 |
 
+Plaie ouverte de la paroi thoracique antérieure |
+
 |
 
-S36.40
+|
 
 |
 
-Lésion traumatique de l'intestin grêle, sans plaie pénétrante de la cavité abdominale
+S22.40 |
 
-|
+Fractures fermées multiples de côtes |
 
 |
 
 |
 
 |
-
-S36.41
 
-|
+S22.50 |
 
-Lésion traumatique de l'intestin grêle, avec plaie pénétrante de la cavité abdominale
+Volet costal, avec fracture fermée |
 
 |
 
@@ -6546,41 +4100,39 @@ Lésion traumatique de l'intestin grêle, avec plaie pénétrante de la cavité 
 
 |
 
-|
+S22.51 |
 
-S36.5
+Volet costal, avec fracture ouverte |
 
 |
 
-Lésion traumatique du côlon
-
 |
 
 |
 
-|
+S24.0 |
 
+Commotion et oedème de la moelle dorsale |
+
 |
 
-S36.50
+|
 
 |
 
-Lésion traumatique du côlon, sans plaie pénétrante de la cavité abdominale
+S24.1 |
 
-|
+Lésions traumatiques autres et non précisées de la moelle dorsale |
 
 |
 
 |
 
 |
-
-S36.51
 
-|
+S32.70 |
 
-Lésion traumatique du côlon, avec plaie pénétrante de la cavité abdominale
+Fractures fermées multiples du rachis lombaire et du bassin |
 
 |
 
@@ -6588,41 +4140,39 @@ Lésion traumatique du côlon, avec plaie pénétrante de la cavité abdominale
 
 |
 
-|
+S34.0 |
 
-S36.6
+Commotion et oedème de la moelle lombaire |
 
 |
 
-Lésion traumatique du rectum
-
 |
 
 |
 
-|
+S34.1 |
 
+Autres lésions traumatiques de la moelle lombaire |
+
 |
 
-S36.60
+|
 
 |
 
-Lésion traumatique du rectum, sans plaie pénétrante de la cavité abdominale
+S36.2 |
 
-|
+Lésion traumatique du pancréas |
 
 |
 
 |
 
 |
-
-S36.61
 
-|
+S36.20 |
 
-Lésion traumatique du rectum, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique du pancréas, sans plaie intra-abdominale |
 
 |
 
@@ -6630,41 +4180,39 @@ Lésion traumatique du rectum, avec plaie pénétrante de la cavité abdominale
 
 |
 
-|
+S36.21 |
 
-S37.0
+Lésion traumatique du pancréas, avec plaie intra-abdominale |
 
 |
 
-Lésion traumatique du rein
-
 |
 
 |
 
-|
+S36.3 |
 
+Lésion traumatique de l'estomac |
+
 |
 
-S37.00
+|
 
 |
 
-Lésion traumatique du rein, sans plaie pénétrante de la cavité abdominale
+S36.30 |
 
-|
+Lésion traumatique de l'estomac, sans plaie intra-abdominale |
 
 |
 
 |
 
 |
-
-S37.01
 
-|
+S36.31 |
 
-Lésion traumatique du rein, avec plaie pénétrante de la cavité abdominale
+Lésion traumatique de l'estomac, avec plaie intra-abdominale |
 
 |
 
@@ -6672,41 +4220,39 @@ Lésion traumatique du rein, avec plaie pénétrante de la cavité abdominale
 
 |
 
-|
+S36.4 |
 
-T17.5
+Lésion traumatique de l'intestin grêle |
 
 |
 
-Corps étranger dans les bronches
-
 |
 
 |
 
-|
+S36.40 |
 
+Lésion traumatique de l'intestin grêle, sans plaie intra-abdominale |
+
 |
 
-T31.1
+|
 
 |
 
-Brulures couvrant entre 10% et moins de 20% de la surface du corps
+S36.41 |
 
-|
+Lésion traumatique de l'intestin grêle, avec plaie intra-abdominale |
 
 |
 
 |
 
 |
-
-T40.3
 
-|
+S36.5 |
 
-Intoxication par méthadone
+Lésion traumatique du côlon |
 
 |
 
@@ -6714,41 +4260,39 @@ Intoxication par méthadone
 
 |
 
-|
+S36.50 |
 
-T40.5
+Lésion traumatique du côlon, sans plaie intra-abdominale |
 
 |
 
-Intoxication par cocaïne
-
 |
 
 |
 
-|
+S36.51 |
 
+Lésion traumatique du côlon, avec plaie intra-abdominale |
+
 |
 
-T40.6
+|
 
 |
 
-Intoxication par narcotiques, autres et sans précision
+S36.6 |
 
-|
+Lésion traumatique du rectum |
 
 |
 
 |
 
 |
-
-T43.0
 
-|
+S36.60 |
 
-Intoxication par antidépresseurs tricycliques et tétracycliques
+Lésion traumatique du rectum, sans plaie intra-abdominale |
 
 |
 
@@ -6756,41 +4300,39 @@ Intoxication par antidépresseurs tricycliques et tétracycliques
 
 |
 
-|
+S36.61 |
 
-T43.1
+Lésion traumatique du rectum, avec plaie intra-abdominale |
 
 |
 
-Intoxication par antidépresseurs inhibiteurs de la mono-amine-oxydase
-
 |
 
 |
 
-|
+S37.0 |
 
+Lésion traumatique du rein |
+
 |
 
-T43.2
+|
 
 |
 
-Intoxication par antidépresseurs, autres et non précisés
+S37.00 |
 
-|
+Lésion traumatique du rein, sans plaie intra-abdominale |
 
 |
 
 |
 
 |
-
-T46.0
 
-|
+S37.01 |
 
-Intoxication par glucosides cardiotoniques et médicaments d'action similaire
+Lésion traumatique du rein, avec plaie intra-abdominale |
 
 |
 
@@ -6798,41 +4340,39 @@ Intoxication par glucosides cardiotoniques et médicaments d'action similaire
 
 |
 
-|
+T17.5 |
 
-T46.4
+Corps étranger dans les bronches |
 
 |
 
-Intoxication par inhibiteurs de l'enzyme de conversion
-
 |
 
 |
 
-|
+T31.1 |
 
+Brûlures couvrant entre 10 et moins de 20% de la surface du corps |
+
 |
 
-T46.5
+|
 
 |
 
-Intoxication par autres antihypertenseurs, non classés ailleurs
+T40.3 |
 
-|
+Intoxication par méthadone |
 
 |
 
 |
 
 |
-
-T46.9
 
-|
+T40.5 |
 
-Intoxication par substances agissant essentiellement sur le système cardiovasculaire, autres et sans précision
+Intoxication par cocaïne |
 
 |
 
@@ -6840,41 +4380,39 @@ Intoxication par substances agissant essentiellement sur le système cardiovascu
 
 |
 
-|
+T40.6 |
 
-T68.+0
+Intoxication par narcotiques, autres et sans précision |
 
 |
 
-Hypothermie, température corporelle égale ou inférieure à 32 °C
-
 |
 
 |
 
-|
+T43.0 |
 
+Intoxication par antidépresseurs tricycliques et tétracycliques |
+
 |
 
-T75.1
+|
 
 |
 
-Noyade et submersion non mortelle
+T43.1 |
 
-|
+Intoxication par antidépresseurs inhibiteurs de la mono-amine-oxydase |
 
 |
 
 |
 
 |
-
-T80.0
 
-|
+T43.2 |
 
-Embolie gazeuse consécutive à une injection thérapeutique, une perfusion et une transfusion
+Intoxication par antidépresseurs, autres et non précisés |
 
 |
 
@@ -6882,41 +4420,39 @@ Embolie gazeuse consécutive à une injection thérapeutique, une perfusion et u
 
 |
 
-|
+T46.0 |
 
-T80.3
+Intoxication par glucosides cardiotoniques et médicaments d'action similaire |
 
 |
 
-Réaction d'incompatibilité ABO
-
 |
 
 |
 
-|
+T46.4 |
 
+Intoxication par inhibiteurs de l'enzyme de conversion |
+
 |
 
-T81.1
+|
 
 |
 
-Choc pendant ou après un acte à visée diagnostique et thérapeutique, non classé ailleurs
+T46.5 |
 
-|
+Intoxication par autres antihypertenseurs, non classés ailleurs |
 
 |
 
 |
 
 |
-
-T85.0
 
-|
+T46.9 |
 
-Complication mécanique d'une dérivation [shunt] ventriculaire intracrânien
+Intoxication par substances agissant essentiellement sur le système cardio-vasculaire, autres et sans précision |
 
 |
 
@@ -6924,41 +4460,39 @@ Complication mécanique d'une dérivation [shunt] ventriculaire intracrânien
 
 |
 
-|
+T68.+0 |
 
-Z43.0
+Hypothermie, température corporelle égale ou inférieure à 32 °C |
 
 |
 
-Surveillance de trachéostomie
-
 |
 
 |
 
-|
+T75.1 |
 
+Noyade et submersion non mortelle |
+
 |
 
-Z45.84
+|
 
 |
 
-Ajustement et entretien d'une prothèse interne du système nerveux central
+T80.0 |
 
-|
+Embolie gazeuse consécutive à une injection thérapeutique, une perfusion et une transfusion |
 
 |
 
 |
 
 |
-
-Z99.1
 
-|
+T80.3 |
 
-Dépendance envers un respirateur
+Réaction d'incompatibilité ABO |
 
 |
 
@@ -6966,41 +4500,39 @@ Dépendance envers un respirateur
 
 |
 
-|
+T81.1 |
 
-Z99.1+0
+Choc pendant ou après un acte à visée diagnostique et thérapeutique, non classé ailleurs |
 
 |
 
-Dépendance envers un respirateur : ventilation par trachéostomie
-
 |
 
 |
 
-|
+T85.0 |
 
+Complication mécanique d'un shunt ventriculaire intracrânien (communication) |
+
 |
 
-Z99.1+1
+|
 
 |
 
-Dépendance envers un respirateur : ventilation par masque nasal
+Z43.0 |
 
-|
+Surveillance de trachéostomie |
 
 |
 
 |
 
 |
-
-Z99.1+8
 
-|
+Z45.84 |
 
-Dépendance envers un respirateur : ventilation par un autre moyen
+Ajustement et entretien d'une prothèse interne du système nerveux central |
 
 |
 
@@ -7008,57 +4540,79 @@ Dépendance envers un respirateur : ventilation par un autre moyen
 
 |
 
-|
+Z99.1 |
 
-Z99.2
+Dépendance envers un respirateur |
 
 |
 
-Dépendance envers une dialyse rénale
+|
 
 |
+
+Z99.1+0 |
 
+Dépendance envers un respirateur : ventilation par trachéostomie |
+
 |
 
 |
 
 |
+
+Z99.1+1 |
 
-Z99.2+0
+Dépendance envers un respirateur : ventilation par masque nasal |
 
 |
 
-Dépendance envers une hémodialyse (rénale)
+|
 
 |
+
+Z99.1+8 |
 
+Dépendance envers un respirateur : ventilation par un autre moyen |
+
 |
 
 |
 
 |
+
+Z99.2 |
 
-Z99.2+1
+Dépendance envers une dialyse rénale |
 
 |
 
-Dépendance envers une dialyse péritonéale
+|
 
 |
+
+Z99.2+0 |
 
+Dépendance envers une hémodialyse (rénale) |
+
 |
 
 |
 
 |
+
+Z99.2+1 |
 
-Z99.2+8
+Dépendance envers une dialyse péritonéale |
 
 |
 
-Dépendance envers une dialyse rénale, autre
+|
 
 |
+
+Z99.2+8 |
+
+Dépendance envers une dialyse rénale, autre |
 
 |
 

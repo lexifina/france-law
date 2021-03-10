@@ -2176,25 +2176,25 @@ Ictères du nouveau-né, niveau 1 |
 
 08C021 |
 
-Interventions majeures multiples sur les genoux et/ou les hanches, niveau 1 |
+Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 1 |
 
 2744 |
 
 08C022 |
 
-Interventions majeures multiples sur les genoux et/ou les hanches, niveau 2 |
+Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 2 |
 
 2745 |
 
 08C023 |
 
-Interventions majeures multiples sur les genoux et/ou les hanches, niveau 3 |
+Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 3 |
 
 2746 |
 
 08C024 |
 
-Interventions majeures multiples sur les genoux et/ou les hanches, niveau 4 |
+Interventions majeures multiples sur les genoux et/ ou les hanches, niveau 4 |
 
 2747 |
 
@@ -2272,61 +2272,61 @@ Biopsies ostéoarticulaires, niveau 4 |
 
 08C131 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 1 |
 
 2760 |
 
 08C132 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 2 |
 
 2761 |
 
 08C133 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 3 |
 
 2762 |
 
 08C134 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, niveau 4 |
 
 2763 |
 
 08C13J |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau de la hanche et du fémur, en ambulatoire |
 
 2764 |
 
 08C141 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 1 |
 
 2765 |
 
 08C142 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 2 |
 
 2766 |
 
 08C143 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 3 |
 
 2767 |
 
 08C144 |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4 |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, niveau 4 |
 
 2768 |
 
 08C14J |
 
-Résections osseuses localisées et/ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire |
+Résections osseuses localisées et/ ou ablation de matériel de fixation interne au niveau d'une localisation autre que la hanche et le fémur, en ambulatoire |
 
 2769 |
 
@@ -4456,61 +4456,61 @@ Entorses et luxations du rachis, très courte durée |
 
 09C021 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 1 |
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 1 |
 
 3315 |
 
 09C022 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 2 |
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 2 |
 
 3316 |
 
 09C023 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 3 |
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 3 |
 
 3317 |
 
 09C024 |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, niveau 4 |
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, niveau 4 |
 
 3318 |
 
 09C02J |
 
-Greffes de peau et/ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire |
+Greffes de peau et/ ou parages de plaie pour ulcère cutané ou cellulite, en ambulatoire |
 
 3319 |
 
 09C031 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1 |
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 1 |
 
 3320 |
 
 09C032 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2 |
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 2 |
 
 3321 |
 
 09C033 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3 |
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 3 |
 
 3322 |
 
 09C034 |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4 |
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, niveau 4 |
 
 3323 |
 
 09C03J |
 
-Greffes de peau et/ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire |
+Greffes de peau et/ ou parages de plaie à l'exception des ulcères cutanés et cellulites, en ambulatoire |
 
 3324 |
 

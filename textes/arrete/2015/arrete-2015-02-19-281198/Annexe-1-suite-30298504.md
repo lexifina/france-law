@@ -3408,6 +3408,30 @@ Transplantations cardiaques, niveau 3 |
 
 Transplantations cardiaques, niveau 4 |
 
+8940 |
+
+27C031 |
+
+Transplantations pancréatiques, niveau 1 |
+
+8940 |
+
+27C032 |
+
+Transplantations pancréatiques, niveau 2 |
+
+8940 |
+
+27C033 |
+
+Transplantations pancréatiques, niveau 3 |
+
+8940 |
+
+27C034 |
+
+Transplantations pancréatiques, niveau 4 |
+
 8970 |
 
 27Z021 |

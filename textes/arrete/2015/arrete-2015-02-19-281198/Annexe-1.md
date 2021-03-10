@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Liste des forfaits dénommés "Groupes homogènes de séjour"
+LISTE DES FORFAITS DÉNOMMÉS "GROUPES HOMOGÈNES DE SÉJOUR"
 
 GHS |
 
@@ -2214,97 +2214,97 @@ Rhinoplasties, en ambulatoire |
 
 03C101 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1 |
 
 644 |
 
 03C102 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2 |
 
 645 |
 
 03C103 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3 |
 
 646 |
 
 03C104 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4 |
 
 647 |
 
 03C111 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1 |
 
 648 |
 
 03C112 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2 |
 
 649 |
 
 03C113 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3 |
 
 650 |
 
 03C114 |
 
-Amygdalectomies et/ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4 |
+Amygdalectomies et/ ou adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4 |
 
 651 |
 
 03C121 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 1 |
 
 652 |
 
 03C122 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 2 |
 
 653 |
 
 03C123 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 3 |
 
 654 |
 
 03C124 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge inférieur à 18 ans, niveau 4 |
 
 655 |
 
 03C131 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 1 |
 
 656 |
 
 03C132 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 2 |
 
 657 |
 
 03C133 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 3 |
 
 658 |
 
 03C134 |
 
-Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4 |
+Interventions sur les amygdales et les végétations adénoïdes autres que les amygdalectomies et/ ou les adénoïdectomies isolées, âge supérieur à 17 ans, niveau 4 |
 
 659 |
 

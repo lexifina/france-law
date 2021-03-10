@@ -2,7 +2,9 @@
 
 LISTES DES ACTES DONNANT LIEU À RÉMUNÉRATION DES FORFAITS SE
 
-Liste 1 : liste des actes donnant lieu à rémunération sur la base d'un SE1
+Liste 1
+
+LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE1
 
 CODE |
 
@@ -86,7 +88,7 @@ HEGE002 |
 
 |
 
-Ablation de corps étranger de l'oesophage, de l'estomac et/ ou du duodénum, par oeso-gastro-duodénoscopie |
+Ablation de corps étranger de l'oesophage, de l'estomac et/ou du duodénum, par oeso-gastro-duodénoscopie |
 
 HEQE001 |
 
@@ -111,12 +113,6 @@ HEQE005 |
 |
 
 Endoscopie oeso-gastro-duodénale avec test à l'uréase, après l'âge de 6 ans |
-
-HEQE263 |
-
-|
-
-Endoscopie oesophagienne avec biopsie guidée par endomicroscopie confocale par laser [ECL] |
 
 HJQE001 |
 
@@ -166,7 +162,9 @@ JEHE002 |
 
 Biopsie de l'urètre à la pince, par endoscopie |
 
-Liste 2 : liste des actes donnant lieu à rémunération sur la base d'un SE2
+Liste 2
+
+LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE2
 
 CODE |
 
@@ -226,7 +224,7 @@ BEPA001 |
 
 |
 
-Libération de synéchies et/ ou de brides du segment antérieur de l'oeil, par kératotomie |
+Libération de synéchies et/ou de brides du segment antérieur de l'oeil, par kératotomie |
 
 BGJB001 |
 
@@ -305,6 +303,12 @@ FDHB002 |
 |
 
 Biopsie ostéomédullaire, par voie transcutanée |
+
+FDHB004 |
+
+|
+
+Ponction de moelle osseuse pour myélogramme et analyses biologiques avec biopsie ostéomédullaire dans le même territoire, par voie transcutanée |
 
 GBJD002 |
 
@@ -388,7 +392,7 @@ PDFA001 |
 
 |
 
-Exérèse de lésion fasciale et/ ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux |
+Exérèse de lésion fasciale et/ou sousfasciale des tissus mous, sans dissection d'un gros tronc vasculaire ou nerveux |
 
 QAGA004 |
 
@@ -408,7 +412,9 @@ QZGA006 |
 
 Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, en dehors du visage et des mains |
 
-Liste 3 : liste des actes donnant lieu à rémunération sur la base d'un SE3
+Liste 3
+
+LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE3
 
 CODE |
 
@@ -518,7 +524,9 @@ JQEP001 |
 
 Version du fœtus par manœuvres obstétricales externes au cours de la grossesse, avec contrôle échographique et surveillance du rythme cardiaque du fœtus |
 
-Liste 4 : liste des actes donnant lieu à rémuération sur la base d'un SE4
+Liste 4
+
+LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE4
 
 CODE |
 
@@ -531,3 +539,41 @@ FEJF003 |
 |
 
 Saignée thérapeutique |
+
+Liste 5
+
+LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE5
+
+CODE |
+
+EXT. PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+BALB001 |
+
+|
+
+Séance d'injection unilatérale ou bilatérale de toxine botulique au niveau des paupières |
+
+Liste 6
+
+LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE6
+
+CODE |
+
+EXT. PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+PCLB002 |
+
+|
+
+Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, sans examen électromyographique de détection |
+
+PCLB003 |
+
+|
+
+Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, avec examen électromyographique de détection |
