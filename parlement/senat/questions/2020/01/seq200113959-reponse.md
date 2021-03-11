@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113959
+
+- Question : [SEQ200113959](seq200113959.md) — Transports express régionaux
+
+## Réponse
+
+*Transports, JO du 2021-03-11, page 1666*
+
+Le rapport de la Cour des comptes sur les TER souligne les efforts accomplis par la SNCF ces dernières années pour mieux répondre aux attentes des usagers et des régions en tant qu'autorités organisatrices de transport qui financent son exploitation. La Direction générale TER de la SNCF a ainsi lancé en 2016 un plan stratégique « Cap TER 2020 » pour réduire les coûts d'exploitation, améliorer la qualité des services et développer la fréquentation. L'Etat encourage naturellement cette démarche et la Cour met en lumière, à juste titre, certains résultats positifs obtenus dès 2017 : amélioration de la régularité des trains, augmentation du trafic et charges d'exploitation orientées à la baisse. Ceci a permis d'atténuer en partie l'impact des mouvements sociaux sur les résultats constatés en 2018 et l'année 2019 a confirmé la poursuite de cette trajectoire positive. S'agissant de la préconisation de la Cour relative à la filialisation de la branche TER afin de diminuer le coût des fonctions support, pour lesquelles l'activité est soumise aux règles communes à l'ensemble de la SNCF, il revient à l'entreprise, dans le cadre de sa liberté de gestion, de définir son organisation afin d'assurer ses missions de la manière la plus efficace possible, dans le respect des dispositions législatives et réglementaires en vigueur. À cet égard, il convient de noter que la loi pour un nouveau pacte ferroviaire promulguée en juin 2018 offre à SNCF Voyageurs plus de souplesse dans ses possibilités d'organisation. Ainsi, dès cette année, l'entreprise, qui vient d'être transformée en société, a le choix d'exploiter directement ou à travers des filiales les services de transport de voyageurs ainsi que les autres activités qu'elle exerce.
