@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220593
+
+- Question : [SEQ210220593](seq210220593.md) — Tenue des journées défense et citoyenneté pour les Français établis hors de France
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2021-03-11, page 1646*
+
+Le ministère des armées s'est adapté aux contraintes engendrées par les mesures liées à la lutte contre l'épidémie de la Covid-19 s'agissant de l'organisation des journées défense et citoyenneté (JDC). Ainsi, la participation à distance à une JDC est possible depuis fin novembre 2020 à partir d'un compte personnel créé sur le site « majdc.fr ». Cette participation à distance n'est toutefois prévue que dans les cas définis par l'article R. 112-23 du code du service national. Celui-ci dispose que « Lorsque les limitations apportées par l'autorité administrative aux rassemblements ou à la circulation des personnes ne permettent pas l'accueil des appelés du service national dans les locaux prévus à cet effet, la journée défense et citoyenneté est accomplie, de manière continue ou fractionnée, sous la forme de sessions à distance. » Les jeunes Français établis hors de France n'étant pas soumis aux mesures de limitation aux rassemblements ou à la circulation des personnes apportées par l'autorité administrative, n'affectant par définition que le territoire national, ils ne bénéficient pas de cette modalité particulière d'organisation de la JDC. Toutefois, le ministère des armées et le ministère de l'Europe et des affaires étrangères œuvrent d'ores et déjà à l'adaptation du dispositif de la JDC à distance en France au profit des jeunes établis à l'étranger, dès lors que l'organisation d'une session normale de JDC est impossible. La mise en place de ce nouveau dispositif nécessite la modification de textes juridiques ainsi que le développement de solutions techniques qui sont à l'étude.
