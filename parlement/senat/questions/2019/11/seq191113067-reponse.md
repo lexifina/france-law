@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191113067
+
+- Question : [SEQ191113067](seq191113067.md) — Transports régionaux
+
+## Réponse
+
+*Transports, JO du 2021-03-11, page 1663*
+
+Le rapport de la Cour des comptes sur les TER souligne les efforts accomplis par la SNCF ces dernières années pour mieux répondre aux attentes des usagers et des régions en tant qu'autorités organisatrices de transport qui financent son exploitation. La Direction générale TER de la SNCF a ainsi lancé en 2016 un plan stratégique « Cap TER 2020 » pour réduire les coûts d'exploitation, améliorer la qualité des services et développer la fréquentation. L'État encourage naturellement cette démarche et la Cour met en lumière, à juste titre, certains résultats positifs obtenus dès 2017 : amélioration de la régularité des trains, augmentation du trafic et charges d'exploitation orientées à la baisse. Ceci a permis d'atténuer en partie l'impact des mouvements sociaux sur les résultats constatés en 2018 et l'année 2019 a confirmé la poursuite de cette trajectoire positive. S'agissant des préconisations de la Cour relatives aux niveaux d'exigence en matière de qualité des services TER, il convient de rappeler que leur mise en œuvre ne dépend plus de l'État. En tant qu'autorités organisatrices des transports ferroviaires d'intérêt régional, les régions contractualisent avec SNCF Voyageurs l'offre de transport qu'elles souhaitent voir mise en œuvre. Les objectifs de consistance et de qualité des services offerts aux usagers ainsi que l'ensemble des conditions financières, dont les bonus et pénalités qui, en fonction des résultats obtenus par rapport aux objectifs fixés, ont un impact sur la contribution financière versée à l'entreprise, sont inscrits dans ce contrat. L'État, en application du principe de libre administration des collectivités territoriales, n'intervient pas dans ces négociations.
