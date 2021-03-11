@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190811942
+
+- Question : [SEQ190811942](seq190811942.md) — Obligation pour les constructeurs de prévoir un cendrier dans les véhicules afin de lutter contre le risque incendie
+
+## Réponse
+
+*Transports, JO du 2021-03-11, page 1661*
+
+Jeter des mégots de cigarettes dans la nature a un double effet néfaste. C'est un geste qui peut être source d'incendie, mais aussi de pollution. C'est pour cela que des sanctions sont prévues par le code pénal (Article R 633-6) pour sanctionner le fait de déposer des mégots (déchets en général) dans des lieux privés ou publics, les peines peuvent être importantes en cas de responsabilité dans un départ de feu (Code pénal, Article 322-5). La réglementation technique pour l'homologation des véhicules routiers à moteur n'oblige pas les constructeurs à équiper leurs modèles d'un cendrier, mais les conducteurs ont toujours la possibilité d'installer un cendrier dans leur véhicule s'ils le souhaitent. Il reste de la responsabilité des fumeurs de ne pas jeter leurs mégots de cigarettes hors de leur véhicule et de s'équiper en conséquence. De plus, obliger les constructeurs à équiper les véhicules d'un cendrier, au prétexte de limiter les jets de mégots de cigarettes dans la nature, peut brouiller les messages du gouvernement dans la lutte contre le tabagisme, notamment les actions menées dans le cadre du programme national de lutte contre le tabac 2018-2022. Par ailleurs, l'arrêté du 5 février 2021 portant cahier des charges d'agrément des éco-organismes de la filière à responsabilité élargie du producteur des produits du tabac encadre le déploiement d'une filière pollueur/payeur qui sera opérationnelle courant 2021. Elle prévoit des actions devant renforcer la responsabilité des fabricants dans la gestion des déchets des produits du tabac.
