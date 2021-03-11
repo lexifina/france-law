@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214472
+
+- Question : [SEQ200214472](seq200214472.md) — Calcul des surloyers de solidarité
+
+## Réponse
+
+*Logement, JO du 2021-03-11, page 1644*
+
+En application de l'article L. 441-3 du Code de la construction et de l'habitation (CCH), le versement d'un supplément de loyer de solidarité intervient lorsque les ressources de l'ensemble des personnes vivant au foyer excèdent d'au moins 20 %, les plafonds de ressources en vigueur pour l'attribution du logement. Par ailleurs, l'arrêté du 29 juillet 1987 relatif aux plafonds de ressources des bénéficiaires de la législation sur les habitations à loyer modéré et des nouvelles aides de l'État en secteur locatif précise que ces plafonds sont fixés pour l'ensemble des personnes vivant au foyer au sens de l'article L. 442-12 du CCH, en fonction de la catégorie du ménage. Aux termes de l'article L. 442-12 du CCH, sont considérées comme personnes vivant au foyer, notamment, le ou les titulaires du bail, les personnes figurant sur les avis d'imposition du ou des titulaires du bail, le concubin notoire du titulaire du bail et le partenaire lié par un pacte civil de solidarité au titulaire du bail. Les époux, en application de l'article 1751 du Code civil, sont tous deux titulaires du contrat de location, leur conférant, ainsi, les mêmes droits et obligations sur le logement. En conséquence, le calcul du supplément de loyer de solidarité doit tenir compte du plafond de ressources applicable à la catégorie de ménage qui inclut dans sa composition les deux conjoints, même si l'un d'eux est placé en maison médicalisée de retraite, et des ressources des deux conjoints. La pratique qui consisterait dans ce cas à tenir compte de l'ensemble des ressources du ménage, mais à ne considérer qu'il ne reste plus qu'une seule personne vivant au foyer, n'est donc pas conforme au droit applicable.
