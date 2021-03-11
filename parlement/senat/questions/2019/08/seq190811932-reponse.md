@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190811932
+
+- Question : [SEQ190811932](seq190811932.md) — Suppression du congé de fin d'activité
+
+## Réponse
+
+*Transports, JO du 2021-03-11, page 1660*
+
+Le congé de fin d'activité (CFA) est un sujet d'une grande importance pour l'équilibre social de la branche des transports routiers également un moyen de reconnaissance de la pénibilité et de la spécificité du métier de conducteur. Mis en place par deux accords de branche en 1997 et 1998, le CFA est un dispositif qui permet aux conducteurs routiers de transport de marchandises et de voyageurs, qui ont exercé leur activité pendant une durée suffisante, de partir cinq ans avant l'âge légal de la retraite, en percevant un revenu de substitution équivalent à 75 % de leur salaire brut. À 62 ans, ils peuvent alors liquider leurs droits à pension. Le CFA est cofinancé par une cotisation sur la masse salariale des conducteurs (répartie entre une cotisation patronale et une cotisation salariale) et par l'État. Depuis sa création, 28 600 conducteurs en ont bénéficié, dont 26 000 dans le transport de marchandises et 2 600 dans le transport de voyageurs. Le nombre d'allocataires s'élève actuellement à environ 8 500, pour 250 000 conducteurs cotisants. Sa modernisation étant nécessaire, un protocole d'accord avait été signé le 19 avril 2017 prévoyant l'ouverture de négociations entre les partenaires sociaux au second semestre, et la renégociation du dispositif au plus tard d'ici la fin de l'année 2019. Il est aujourd'hui essentiel que ces négociations, qui n'ont toujours pas débuté, soient engagées rapidement. Afin que celles-ci débutent dans un climat apaisé, l'État est prêt à maintenir jusqu'en 2022 sa contribution financière annuelle au dispositif, qui varie de 100 à 150 millions d'euros. Pour faciliter les négociations, le Gouvernement a également mis en place une mission chargée d'apporter un appui technique aux partenaires sociaux.
