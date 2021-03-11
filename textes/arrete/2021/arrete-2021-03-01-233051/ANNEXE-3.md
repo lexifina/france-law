@@ -1,0 +1,14123 @@
+# Article ANNEXE 3
+
+Prestations dérogatoires financées pour les établissements et services médico-sociaux
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Remboursement des taxis et nuitées des personnels (A) et (B) sont à renseigner et (B) < ou = (A) |
+
+Reste à charge hébergement temporaire en EHPAD en sortie d'hospitalisation covid PA (C) et (D) sont à renseigner et (D) < ou = (C) |
+
+Région |
+
+N° caisse relai |
+
+N° caisse pivot |
+
+finess géographique établissement |
+
+finess juridique établissement |
+
+Raison sociale |
+
+ONDAM (PA/PH/SPE) |
+
+Montant total des demandes de remboursement pour le dispositif (A) |
+
+Montant des versement à fin décembre 2020 pour le dispositif (B) |
+
+Montant total des demandes de remboursement pour le dispositif (C) |
+
+Montant des versement à fin Oct. 2020 pour le dispositif (D) |
+
+AURA |
+
+|
+
+3070 |
+
+30785414 |
+
+30785307 |
+
+EHPAD LA CHESNAYE |
+
+PA |
+
+600,00 |
+
+600,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+131 |
+
+131 |
+
+50006626 |
+
+50001577 |
+
+EHPAD RESIDENCE OULETA |
+
+PA |
+
+8 424,00 |
+
+8 424,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+131 |
+
+131 |
+
+50007079 |
+
+50000561 |
+
+EHPAD VERGERS DURANCE |
+
+PA |
+
+8 612,73 |
+
+8 612,73 |
+
+|
+
+|
+
+OCCITANIE |
+
+111070 |
+
+1111 |
+
+110 782 869 |
+
+110786324 |
+
+M.R. NOSTRE CASTEL COUIZA |
+
+PA |
+
+900,00 |
+
+630,00 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1161 |
+
+1161 |
+
+160000014 |
+
+160000147 |
+
+IME Fraineau |
+
+PH |
+
+1 523,23 |
+
+1 523,23 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1161 |
+
+1161 |
+
+160012878 |
+
+490016342 |
+
+EHPAD EMERAUDES |
+
+PA |
+
+638,99 |
+
+638,99 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1171 |
+
+1171 |
+
+170016638 |
+
+170025894 |
+
+EHPAD LES PORTES DU JARDIN |
+
+PA |
+
+993,60 |
+
+993,60 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1171 |
+
+1171 |
+
+170021075 |
+
+170022198 |
+
+EHPAD LES JARDINS DU GÔ |
+
+PA |
+
+1 360,90 |
+
+1 360,90 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1171 |
+
+1171 |
+
+170022115 |
+
+170022107 |
+
+EHPAD LES JARDINS DU MARAIS |
+
+PA |
+
+315,00 |
+
+315,00 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1171 |
+
+1171 |
+
+170795090 |
+
+170023543 |
+
+EHPAD LES JARDINS D'IROISE |
+
+PA |
+
+1 235,30 |
+
+1 235,30 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+1171 |
+
+1171 |
+
+170801906 |
+
+170005664 |
+
+EHPAD LES 4 SAISONS |
+
+PA |
+
+1 287,20 |
+
+1 287,20 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+181 |
+
+|
+
+180000424 |
+
+180000762 |
+
+EHPAD BELLEVUE LA ROSERAIE BOURGES |
+
+PA |
+
+750,00 |
+
+750,00 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+1211 |
+
+1211 |
+
+210781472 |
+
+210781226 |
+
+EHPAD LES PERCE-NEIGE |
+
+PA |
+
+880,60 |
+
+880,60 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+1211 |
+
+1211 |
+
+210781613 |
+
+750721235 |
+
+EHPAD ST PHILIBERT |
+
+PA |
+
+51,80 |
+
+51,80 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+1211 |
+
+1211 |
+
+210950077 |
+
+590039657 |
+
+EHPAD LES FASSOLES |
+
+PA |
+
+97,30 |
+
+97,30 |
+
+|
+
+|
+
+BRETAGNE |
+
+221 |
+
+01221 CPAM SAINT-BRIEUC |
+
+220012892 |
+
+920031515 |
+
+EHPAD LES JARDINS D'ERQUY |
+
+PA |
+
+820,00 |
+
+820,00 |
+
+|
+
+|
+
+BRETAGNE |
+
+221 |
+
+01221 CPAM SAINT-BRIEUC |
+
+220014856 |
+
+920031523 |
+
+RESIDENCE LA TOURELLE D'ARGENT |
+
+PA |
+
+1 424,10 |
+
+|
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+01241 |
+
+01241 |
+
+240013029 |
+
+|
+
+EHPAD ST CYPRIEN |
+
+PA |
+
+275,00 |
+
+275,00 |
+
+|
+
+|
+
+Normandie |
+
+|
+
+271 |
+
+270010697 |
+
+270010697 |
+
+EHPAD LE BOIS LA ROSE |
+
+PA |
+
+5 105,88 |
+
+5 105,88 |
+
+|
+
+|
+
+Normandie |
+
+|
+
+271 |
+
+270011356 |
+
+270011356 |
+
+EHPAD RESIDENCE LES FEUILLANS BROSVILLE |
+
+PA |
+
+1 583,35 |
+
+1 583,35 |
+
+|
+
+|
+
+Normandie |
+
+|
+
+271 |
+
+270013121 |
+
+270013121 |
+
+EHPAD RESIDENCE TIERS-TEMPS EVREUX |
+
+PA |
+
+2 524,60 |
+
+2 524,60 |
+
+|
+
+|
+
+Normandie |
+
+|
+
+271 |
+
+270018278 |
+
+270018278 |
+
+EHPAD LA PROVIDENCE SA ODYSSENIOR |
+
+PA |
+
+8 247,80 |
+
+8 247,80 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+02281 |
+
+280503004 |
+
+750043713 |
+
+EHPAD NOTRE DAME DE LA JOIE |
+
+PA |
+
+1 223,50 |
+
+1 223,50 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+02281 |
+
+280506106 |
+
+280001314 |
+
+EHPAD Parc st Charles |
+
+PA |
+
+2 360,00 |
+
+2 360,00 |
+
+|
+
+|
+
+BRETAGNE |
+
+291 |
+
+1291 |
+
+290002096 |
+
+290001114 |
+
+EHPAD KERMARIA |
+
+PA |
+
+608,00 |
+
+608,00 |
+
+|
+
+|
+
+BRETAGNE |
+
+291 |
+
+1291 |
+
+290002104 |
+
+290001122 |
+
+EHPAD LES JARDINS DE LANDOUARDON |
+
+PA |
+
+476,00 |
+
+476,00 |
+
+|
+
+|
+
+BRETAGNE |
+
+291 |
+
+1291 |
+
+290004605 |
+
+290007053 |
+
+EHPAD KERLEVENEZ |
+
+PA |
+
+688,50 |
+
+688,50 |
+
+|
+
+|
+
+BRETAGNE |
+
+291 |
+
+1291 |
+
+290010503 |
+
+290007335 |
+
+EHPAD KER GWENN |
+
+PA |
+
+1 834,85 |
+
+1 834,85 |
+
+|
+
+|
+
+BRETAGNE |
+
+291 |
+
+1291 |
+
+290017201 |
+
+290007053 |
+
+EHPAD LOUISE LE ROUX |
+
+PA |
+
+4 425,00 |
+
+4 425,00 |
+
+|
+
+|
+
+BRETAGNE |
+
+291 |
+
+1291 |
+
+290023571 |
+
+290010446 |
+
+EHPAD BRUG EUSA |
+
+PA |
+
+1 205,40 |
+
+1 205,40 |
+
+|
+
+|
+
+occitanie |
+
+02481 |
+
+|
+
+300003159 |
+
+|
+
+EHPAD VAL DE CEZE CORNILLON |
+
+PA |
+
+|
+
+|
+
+3 066,31 |
+
+3 066,31 |
+
+occitanie |
+
+02481 |
+
+|
+
+300004199 |
+
+|
+
+EHPAD MOUSSAC |
+
+PA |
+
+|
+
+|
+
+8 264,00 |
+
+8 264,00 |
+
+occitanie |
+
+02481 |
+
+|
+
+300012697 |
+
+|
+
+EHPAD JARDINS DE L ESCALETTE UZES |
+
+PA |
+
+|
+
+|
+
+30 358,15 |
+
+30 358,15 |
+
+occitanie |
+
+02481 |
+
+|
+
+300013588 |
+
+|
+
+EHPAD LES JASSES FONS OUTRE G |
+
+PA |
+
+|
+
+|
+
+90 824,00 |
+
+90 824,00 |
+
+occitanie |
+
+02481 |
+
+|
+
+300781416 |
+
+|
+
+L'ACCUEIL |
+
+PA |
+
+|
+
+|
+
+35 370,69 |
+
+35 370,69 |
+
+occitanie |
+
+02481 |
+
+|
+
+300783529 |
+
+|
+
+EHPAD RIVIERE ET MARZE |
+
+PA |
+
+|
+
+|
+
+5 031,93 |
+
+5 031,93 |
+
+occitanie |
+
+02481 |
+
+|
+
+300785094 |
+
+|
+
+EHPAD LES 7 SOURCES HOP BAGNOLS |
+
+PA |
+
+|
+
+|
+
+19 508,27 |
+
+19 508,27 |
+
+occitanie |
+
+02481 |
+
+|
+
+300785110 |
+
+|
+
+MR L OUSTAOU BEAUCAIRE |
+
+PA |
+
+|
+
+|
+
+14 811,85 |
+
+14 811,85 |
+
+occitanie |
+
+02481 |
+
+|
+
+300785136 |
+
+|
+
+EHPAD PONT ST ESPRIT |
+
+PA |
+
+|
+
+|
+
+10 312,21 |
+
+10 312,21 |
+
+occitanie |
+
+02481 |
+
+|
+
+300785144 |
+
+|
+
+EHPAD TERRASSES GISFORT UZES |
+
+PA |
+
+|
+
+|
+
+1 234,32 |
+
+1 234,32 |
+
+occitanie |
+
+02481 |
+
+|
+
+300785169 |
+
+|
+
+EHPAD JARDIN DES ORANTES VIGAN |
+
+PA |
+
+|
+
+|
+
+8 019,00 |
+
+8 019,00 |
+
+occitanie |
+
+03070 |
+
+|
+
+300785193 |
+
+|
+
+MAISON SANTE PROT NIMES |
+
+PH |
+
+2 288,00 |
+
+2 288,00 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310003116 |
+
+310003272 |
+
+Saint Simon HP |
+
+PA |
+
+25 139,05 |
+
+25 139,05 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310016738 |
+
+600000426 |
+
+Maurice Garrigou HP |
+
+PA |
+
+272,08 |
+
+272,08 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310018783 |
+
+310018775 |
+
+Marie Lehman HP |
+
+PA |
+
+1 717,40 |
+
+1 717,40 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310023064 |
+
+740013776 |
+
+Résidence Nouvelle Orléans HP |
+
+PA |
+
+708,00 |
+
+708,00 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310784491 |
+
+750043713 |
+
+La Cadène HP |
+
+PA |
+
+924,91 |
+
+924,91 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310790522 |
+
+310790514 |
+
+Bastide de Médicis HP |
+
+PA |
+
+120,00 |
+
+120,00 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310792031 |
+
+310002050 |
+
+La Triade HP |
+
+PA |
+
+2 219,59 |
+
+2 219,59 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310793666 |
+
+310002407 |
+
+Henri IV* HP |
+
+PA |
+
+540,44 |
+
+540,44 |
+
+|
+
+|
+
+OCCITANIE |
+
+01-311 |
+
+01311 |
+
+310793674 |
+
+310002415 |
+
+La Cépière HP |
+
+PA |
+
+1 125,53 |
+
+1 125,53 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1331 |
+
+330006339 |
+
+|
+
+CPOM Erik-Odette BOCKE |
+
+PA |
+
+8 371,49 |
+
+|
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1331 |
+
+330020819 |
+
+|
+
+EHPAD LE MOULIN DE JEANNE |
+
+PA |
+
+787,85 |
+
+|
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1331 |
+
+330791757 |
+
+|
+
+EHPAD MA RESIDENCE |
+
+PA |
+
+269,81 |
+
+|
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1331 |
+
+330799412 |
+
+|
+
+EHPAD RES. DES CARMES |
+
+PA |
+
+10 466,19 |
+
+|
+
+|
+
+|
+
+Occitanie |
+
+|
+
+|
+
+340783844 |
+
+|
+
+EHPAD LES FRERES |
+
+PA |
+
+967,00 |
+
+967,00 |
+
+|
+
+|
+
+Occitanie |
+
+|
+
+|
+
+340783851 |
+
+|
+
+EHPAD BEZIERS LA RENAISSANCE |
+
+PA |
+
+1 879,97 |
+
+1 879,97 |
+
+|
+
+|
+
+Occitanie |
+
+|
+
+|
+
+340796317 |
+
+|
+
+EHPAD LES COURALIES |
+
+PA |
+
+6 420,00 |
+
+6 420,00 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350008512 |
+
+350012555 |
+
+SPASAD DE MORDELLES |
+
+PA |
+
+633,51 |
+
+633,51 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350025813 |
+
+350044806 |
+
+LES JARDINS D'HERMINE |
+
+PA |
+
+11 633,70 |
+
+11 633,70 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350028783 |
+
+350012548 |
+
+RESIDENCE BEAUSOLEIL |
+
+PA |
+
+1 246,20 |
+
+1 246,20 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350030292 |
+
+350000006 |
+
+MR BAGUER MORVAN |
+
+PA |
+
+602,40 |
+
+602,40 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350030722 |
+
+560023376 |
+
+RESIDENCE EDILYS RENNES |
+
+PA |
+
+4 740,80 |
+
+4 740,80 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350044426 |
+
+350012829 |
+
+RESIDENCE DE LA BUDORAIS |
+
+PA |
+
+275,00 |
+
+275,00 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350045373 |
+
+750721300 |
+
+RESIDENCE BORIS ANTONOFF |
+
+PA |
+
+840,00 |
+
+840,00 |
+
+|
+
+|
+
+Bretagne |
+
+35070 |
+
+351 |
+
+350052155 |
+
+350052973 |
+
+EHPAD MAISON AMELIE FRISTEL |
+
+PA |
+
+5 077,62 |
+
+5 077,62 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370000242 |
+
+370000242 |
+
+EHPAD CRX PERIGOURD ST CYR |
+
+PA |
+
+7 753,31 |
+
+7 753,31 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370002495 |
+
+370002495 |
+
+VASSELIERE MONTS |
+
+PA |
+
+2 475,00 |
+
+2 475,00 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370005191 |
+
+370005191 |
+
+MA MAISON TOURS |
+
+PA |
+
+101,00 |
+
+101,00 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370005209 |
+
+370005209 |
+
+RES HARDOUIN TOURS 02 |
+
+PA |
+
+533,60 |
+
+533,60 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370103004 |
+
+370103004 |
+
+PAPOTERIE CHAMBRAY |
+
+PA |
+
+134,00 |
+
+134,00 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370103368 |
+
+370103368 |
+
+CCAS DE TOURS |
+
+PA |
+
+21 200,98 |
+
+21 200,98 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+371 |
+
+371 |
+
+370103384 |
+
+370103384 |
+
+CL0S DU PARC VERNOU |
+
+PA |
+
+3 340,00 |
+
+3 340,00 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+391 |
+
+391 |
+
+390782449 |
+
+390000362 |
+
+EHPAD STE MARTHE VOITEUR |
+
+PA |
+
+1 080,00 |
+
+1 080,00 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+391 |
+
+391 |
+
+390782514 |
+
+390007524 |
+
+EHPAD LES OPALINES FRAISANS |
+
+PA |
+
+|
+
+|
+
+5 618,71 |
+
+5 618,71 |
+
+BOURGOGNE FRANCHE COMTE |
+
+391 |
+
+391 |
+
+390784155 |
+
+750721334 |
+
+EHPAD CLAIR JURA MONTAIN |
+
+PA |
+
+1 622,70 |
+
+1 622,70 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+391 |
+
+391 |
+
+390785160 |
+
+390005429 |
+
+EHPAD LES OPALINES CHAMBLAY |
+
+PA |
+
+1 758,31 |
+
+1 758,31 |
+
+|
+
+|
+
+Centre Val de Loire |
+
+1411 |
+
+1411 |
+
+410002141 |
+
+410000657 |
+
+EHPAD DE COINCES |
+
+PA |
+
+19 843,52 |
+
+19 843,52 |
+
+|
+
+|
+
+Centre Val de Loire |
+
+1411 |
+
+1411 |
+
+410005193 |
+
+410000913 |
+
+EHPAD CLAUDE DE France |
+
+PA |
+
+346,69 |
+
+346,69 |
+
+|
+
+|
+
+AURA |
+
+1422 |
+
+1422 |
+
+420781833 |
+
+420000598 |
+
+MR PIERRE MEUNIER |
+
+PA |
+
+2 599,40 |
+
+2 599,40 |
+
+|
+
+|
+
+AURA |
+
+1422 |
+
+1422 |
+
+420783987 |
+
+420001000 |
+
+MR ACCUEIL PA |
+
+PA |
+
+2 520,00 |
+
+2 520,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440002046 |
+
+440001394 |
+
+EHPAD LES TROIS RIVIERES |
+
+PA |
+
+2 605,89 |
+
+2 605,89 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440002715 |
+
+440018620 |
+
+EHPAD BEL AIR |
+
+PA |
+
+314,22 |
+
+314,22 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440002897 |
+
+440047454 |
+
+EHPAD LA HOUSSAIS |
+
+PA |
+
+537,90 |
+
+537,90 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440002905 |
+
+440001725 |
+
+EHPAD LES JARDINS DU VERT PRAUD |
+
+PA |
+
+100,00 |
+
+100,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440003432 |
+
+440047454 |
+
+EHPAD LA GRANDE PROVIDENCE |
+
+PA |
+
+86,80 |
+
+86,80 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440007466 |
+
+440002616 |
+
+EHPAD LE VERGER |
+
+PA |
+
+2 421,54 |
+
+1 589,50 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440018893 |
+
+40018620 |
+
+EHPA RESIDENCE LES NOELLES |
+
+PA |
+
+24,00 |
+
+24,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440022861 |
+
+440018620 |
+
+EHPAD NOTRE DAME DE CHARITE |
+
+PA |
+
+281,00 |
+
+281,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440024735 |
+
+750721300 |
+
+EHPAD MAISON DE RETRAITE PROTESTANTE |
+
+PA |
+
+1 851,80 |
+
+1 851,80 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440028553 |
+
+|
+
+EHPAD RICHEBOURG |
+
+PA |
+
+16,25 |
+
+16,25 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440028850 |
+
+750034589 |
+
+EHPAD LA CROIX DU GUE |
+
+PA |
+
+386,90 |
+
+386,90 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440030583 |
+
+440018620 |
+
+EHPAD ANNE DE BRETAGNE |
+
+PA |
+
+159,00 |
+
+159,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440032639 |
+
+440018620 |
+
+EHPAD JEAN MACE |
+
+PA |
+
+54,50 |
+
+54,50 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440041861 |
+
+440041853 |
+
+EHPAD LA CERISAIE |
+
+PA |
+
+4 205,70 |
+
+4 205,70 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440044592 |
+
+440018620 |
+
+EHPAD NOTRE DAME DU CHENE |
+
+PA |
+
+52,00 |
+
+52,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440044717 |
+
+440018620 |
+
+EHPAD L'ENCHANTERIE |
+
+PA |
+
+108,50 |
+
+108,50 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440045607 |
+
+440045599 |
+
+EHPAD STE FAMILLE DE GRILLAUD |
+
+PA |
+
+8 153,93 |
+
+8 153,93 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440047462 |
+
+440047454 |
+
+EHPAD LES BORDS DE SEVRE |
+
+PA |
+
+1 817,40 |
+
+1 817,40 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440047546 |
+
+920030152 |
+
+EHPAD LE CLOS DE L'ILE MACE |
+
+PA |
+
+3 288,00 |
+
+3 288,00 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440048817 |
+
+440018620 |
+
+EHPAD L'AIR DU TEMPS |
+
+PA |
+
+79,25 |
+
+79,25 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440049062 |
+
+440047454 |
+
+EHPAD LES JARDINS DE LA CHESNAIS |
+
+PA |
+
+802,40 |
+
+802,40 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440049302 |
+
+440018620 |
+
+EHPAD LEONTINE VIE |
+
+PA |
+
+66,50 |
+
+66,50 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+44070 |
+
+44070 |
+
+440052694 |
+
+440018620 |
+
+EHPAD LOUISE MICHEL |
+
+PA |
+
+54,50 |
+
+54,50 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450002589 |
+
+450000971 |
+
+LA MOTHE OLIVET |
+
+PA |
+
+13 284,83 |
+
+13 284,83 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450014535 |
+
+450011150 |
+
+RES. LA CHAPELLE |
+
+PA |
+
+2 242,60 |
+
+2 242,60 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450015839 |
+
+450010913 |
+
+MAS LES SAULNIERS |
+
+PH |
+
+2 078,00 |
+
+2 078,00 |
+
+|
+
+|
+
+Occitanie |
+
+01481 |
+
+01481 |
+
+480781905 |
+
+480782127 |
+
+EHPAD ST MARTIN |
+
+PA |
+
+1 200,00 |
+
+1 200,00 |
+
+|
+
+|
+
+Pays de le Loire |
+
+1491 |
+
+1491 |
+
+490007515 |
+
+490007515 |
+
+MAISON DE RETRAITE ST FRANCOIS |
+
+PA |
+
+2 392,00 |
+
+2 392,00 |
+
+|
+
+|
+
+Pays de le Loire |
+
+1491 |
+
+1491 |
+
+490019635 |
+
+490019635 |
+
+EHPAD LES TROIS MOULINS |
+
+PA |
+
+1 390,40 |
+
+1 390,40 |
+
+|
+
+|
+
+Normandie |
+
+1501 |
+
+1501 |
+
+500016613 |
+
+500019302 |
+
+EHPAD "LES ELIDES" DU DEZERT |
+
+PA |
+
+575,70 |
+
+575,70 |
+
+|
+
+|
+
+Grand Est |
+
+1511 |
+
+1511 |
+
+510004377 |
+
+690003728 |
+
+EHPAD RESIDENCE ST MARTIN |
+
+PA |
+
+379,90 |
+
+379,90 |
+
+|
+
+|
+
+Grand Est |
+
+1511 |
+
+1511 |
+
+510012024 |
+
+510023674 |
+
+EHPAD TIERS TEMPS |
+
+PA |
+
+1 309,09 |
+
+1 309,09 |
+
+|
+
+|
+
+Grand Est |
+
+1511 |
+
+1511 |
+
+510012958 |
+
+920030152 |
+
+RESIDENCE ORPEA ST ANDRE |
+
+PA |
+
+92,50 |
+
+92,50 |
+
+|
+
+|
+
+Pays de la Loire |
+
+01531 |
+
+01531 |
+
+530006709 |
+
+530006659 |
+
+CIGMA |
+
+PA |
+
+272,03 |
+
+272,03 |
+
+|
+
+|
+
+Pays de la Loire |
+
+01531 |
+
+01531 |
+
+530031178 |
+
+530031178 |
+
+CPOM CCAS -Laval |
+
+PA |
+
+4 203,04 |
+
+4 203,04 |
+
+|
+
+|
+
+Pays de la Loire |
+
+01531 |
+
+01531 |
+
+530033075 |
+
+530007129 |
+
+EHPAD RESIDENCE ST GABRIEL |
+
+PA |
+
+2 273,58 |
+
+2 273,58 |
+
+|
+
+|
+
+Bretagne |
+
+01561 |
+
+01561 |
+
+560002271 |
+
+560000549 |
+
+NT DAME DE BON GARANT FEREL |
+
+PA |
+
+200,00 |
+
+200,00 |
+
+|
+
+|
+
+Bretagne |
+
+01561 |
+
+01561 |
+
+560002354 |
+
+560000622 |
+
+SARZEAU |
+
+PA |
+
+620,00 |
+
+620,00 |
+
+|
+
+|
+
+Bretagne |
+
+01561 |
+
+01561 |
+
+560005027 |
+
+940023039 |
+
+EHPAD LES TAMARIS(EX LORIENT MA MAISON Petites sœurs des pauvres) |
+
+PA |
+
+156,75 |
+
+156,75 |
+
+|
+
+|
+
+Bretagne |
+
+01561 |
+
+01561 |
+
+560024986 |
+
+560014649 |
+
+EHPAD KERELYS LANDEVANT |
+
+PA |
+
+2 626,94 |
+
+2 626,94 |
+
+|
+
+|
+
+GRAND EST |
+
+571 |
+
+571 |
+
+570012047 |
+
+210009932 |
+
+LES OPALINES MONDELANGE EHPAD |
+
+PA |
+
+433,68 |
+
+433,68 |
+
+|
+
+|
+
+GRAND EST |
+
+571 |
+
+571 |
+
+570013607 |
+
+570012518 |
+
+MAS ADULTES HAND MARLY |
+
+PH |
+
+1 603,00 |
+
+1 603,00 |
+
+|
+
+|
+
+GRAND EST |
+
+571 |
+
+571 |
+
+570022335 |
+
+750015968 |
+
+FAM CREHANGE |
+
+PH |
+
+2 304,80 |
+
+2 304,80 |
+
+|
+
+|
+
+BFC |
+
+1581 |
+
+1581 |
+
+580000768 |
+
+920030186 |
+
+EHPAD SAINT GENEST |
+
+PA |
+
+255,00 |
+
+255,00 |
+
+|
+
+|
+
+BFC |
+
+1581 |
+
+1581 |
+
+580972123 |
+
+580004729 |
+
+SEDNA NEVERS MARION DE GIVRY |
+
+PA |
+
+1 837,10 |
+
+1 837,10 |
+
+|
+
+|
+
+HAUTS DE FRANCE |
+
+|
+
+595 |
+
+590037768 |
+
+590798377 |
+
+EHPAD GENEVIEVE RO |
+
+PA |
+
+5 180,00 |
+
+5 180,00 |
+
+|
+
+|
+
+Hauts de France |
+
+01594 |
+
+01594 |
+
+590045613 |
+
+920028560 |
+
+EHPAD PUV LES EGLANTINES |
+
+PA |
+
+4 440,00 |
+
+4 440,00 |
+
+|
+
+|
+
+Hauts de France |
+
+01594 |
+
+01594 |
+
+590059325 |
+
+920028560 |
+
+EHPAD LA ROSERAIE |
+
+PA |
+
+1 794,00 |
+
+1 794,00 |
+
+|
+
+|
+
+HAUTS DE FRANCE |
+
+|
+
+595 |
+
+590787966 |
+
+|
+
+EHPAD LES MAISONS |
+
+PA |
+
+1 141,04 |
+
+1 141,04 |
+
+|
+
+|
+
+HAUTS DE FRANCE |
+
+|
+
+595 |
+
+590804233 |
+
+590780169 |
+
+EHPAD COMINES |
+
+PA |
+
+1 628,57 |
+
+1 628,57 |
+
+|
+
+|
+
+Hauts de France |
+
+01597 |
+
+01597 |
+
+590815882 |
+
+590059853 |
+
+EHPAD LES ORCHIDEES ROUBAIX |
+
+PA |
+
+2 055,34 |
+
+2 055,34 |
+
+|
+
+|
+
+Hauts de France |
+
+01597 |
+
+01597 |
+
+590817375 |
+
+590059853 |
+
+EHPAD LES ORCHIDEES LANNOY |
+
+PA |
+
+104,04 |
+
+104,04 |
+
+|
+
+|
+
+HAUTS DE France |
+
+1601 |
+
+1601 |
+
+600008759 |
+
+600012199 |
+
+EHPAD DOLCEA ESCHES (ex JARDINS DE MEDICIS) |
+
+PA |
+
+1 122,15 |
+
+1 122,15 |
+
+|
+
+|
+
+HAUTS DE France |
+
+1601 |
+
+1601 |
+
+600009757 |
+
+600007769 |
+
+EHPAD OHPC CREIL (ex LA POMMERAYE) |
+
+PA |
+
+800,00 |
+
+800,00 |
+
+|
+
+|
+
+HAUTS DE France |
+
+1601 |
+
+1601 |
+
+600014062 |
+
+600000566 |
+
+EHPAD LES JARDINS DE L'AUNETTE CHAMANT |
+
+PA |
+
+142,50 |
+
+142,50 |
+
+|
+
+|
+
+HAUTS DE France |
+
+1601 |
+
+1601 |
+
+600103121 |
+
+750056368 |
+
+EHPAD SAINT VINCENT DE PAUL (AMV) NOGENT SUR OISE |
+
+PA |
+
+4 140,00 |
+
+4 140,00 |
+
+|
+
+|
+
+HAUTS DE France |
+
+1601 |
+
+1601 |
+
+600113484 |
+
+600000715 |
+
+EHPAD DOLCEA LES LYS PRECY |
+
+PA |
+
+25,30 |
+
+25,30 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630002111 |
+
+|
+
+EHPAD CEYRAT |
+
+PA |
+
+386,00 |
+
+386,00 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630002111 |
+
+|
+
+EHPAD CEYRAT |
+
+PA |
+
+|
+
+|
+
+38 144,96 |
+
+38 144,96 |
+
+AURA |
+
+631 |
+
+631 |
+
+630002608 |
+
+|
+
+EHPAD RES CHANDALON |
+
+PA |
+
+|
+
+|
+
+6 556,41 |
+
+6 556,41 |
+
+AURA |
+
+631 |
+
+631 |
+
+630003218 |
+
+|
+
+EHPAD ST JOSEPH |
+
+PA |
+
+|
+
+|
+
+7 116,41 |
+
+7 116,41 |
+
+AURA |
+
+631 |
+
+631 |
+
+630003598 |
+
+|
+
+EHPAD GEORGES SAND |
+
+PA |
+
+|
+
+|
+
+42 100,82 |
+
+42 100,82 |
+
+AURA |
+
+631 |
+
+631 |
+
+630004158 |
+
+|
+
+EHPAD OLLIERGUES |
+
+PA |
+
+|
+
+|
+
+3 788,57 |
+
+3 788,57 |
+
+AURA |
+
+631 |
+
+631 |
+
+630007169 |
+
+|
+
+EHPAD LES OLIVIERS |
+
+PA |
+
+|
+
+|
+
+15 193,64 |
+
+15 193,64 |
+
+AURA |
+
+631 |
+
+631 |
+
+630008159 |
+
+|
+
+EHPAD LES CHEVENIS |
+
+PA |
+
+|
+
+|
+
+31 351,86 |
+
+31 351,86 |
+
+AURA |
+
+631 |
+
+631 |
+
+630008258 |
+
+|
+
+EHPAD LES HORTENSIAS |
+
+PA |
+
+|
+
+|
+
+38 062,61 |
+
+38 062,61 |
+
+AURA |
+
+631 |
+
+631 |
+
+630009173 |
+
+|
+
+EHPAD GONFALON |
+
+PA |
+
+|
+
+|
+
+3 513,87 |
+
+3 513,87 |
+
+AURA |
+
+631 |
+
+631 |
+
+630009322 |
+
+|
+
+EHPAD PONTGIBAUD |
+
+PA |
+
+|
+
+|
+
+8 887,49 |
+
+8 887,49 |
+
+AURA |
+
+631 |
+
+631 |
+
+630009355 |
+
+|
+
+EHPAD la fontaine Blanzat |
+
+PA |
+
+|
+
+|
+
+10 449,36 |
+
+10 449,36 |
+
+AURA |
+
+631 |
+
+631 |
+
+630009405 |
+
+|
+
+EHPAD LE MOULIN |
+
+PA |
+
+147,00 |
+
+147,00 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630009405 |
+
+|
+
+EHPAD LE MOULIN |
+
+PA |
+
+|
+
+|
+
+7 457,67 |
+
+7 457,67 |
+
+AURA |
+
+631 |
+
+631 |
+
+630010122 |
+
+|
+
+EHPAD RIVES D ARTIERE |
+
+PA |
+
+|
+
+|
+
+18 190,00 |
+
+18 190,00 |
+
+AURA |
+
+631 |
+
+631 |
+
+630010163 |
+
+|
+
+EHPAD JARDINS la charme |
+
+PA |
+
+|
+
+|
+
+908,53 |
+
+908,53 |
+
+AURA |
+
+631 |
+
+631 |
+
+630010676 |
+
+|
+
+EHPAD BOISVALLON |
+
+PA |
+
+|
+
+|
+
+8 491,50 |
+
+8 491,50 |
+
+AURA |
+
+631 |
+
+631 |
+
+630010783 |
+
+|
+
+EHPAD 9 SOLEIL |
+
+PA |
+
+2 445,00 |
+
+2 445,00 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630010783 |
+
+|
+
+EHPAD 9 SOLEIL |
+
+PA |
+
+|
+
+|
+
+65 388,13 |
+
+65 388,13 |
+
+AURA |
+
+631 |
+
+631 |
+
+630010791 |
+
+|
+
+EHPAD STE MARIE |
+
+PA |
+
+|
+
+|
+
+1 980,25 |
+
+1 980,25 |
+
+AURA |
+
+631 |
+
+631 |
+
+630011682 |
+
+|
+
+EHPAD LOUIS PASTEUR |
+
+PA |
+
+|
+
+|
+
+140 564,36 |
+
+140 564,36 |
+
+AURA |
+
+631 |
+
+631 |
+
+630011690 |
+
+|
+
+EHPAD MARONNIER |
+
+PA |
+
+|
+
+|
+
+2 550,93 |
+
+2 550,93 |
+
+AURA |
+
+631 |
+
+631 |
+
+630011716 |
+
+|
+
+EHPAD LES RIVES D ITHAQUE |
+
+PA |
+
+|
+
+|
+
+2 370,19 |
+
+2 370,19 |
+
+AURA |
+
+631 |
+
+631 |
+
+630012078 |
+
+|
+
+EHPAD LE COLOMBIER |
+
+PA |
+
+|
+
+|
+
+6 573,30 |
+
+6 573,30 |
+
+AURA |
+
+631 |
+
+631 |
+
+630012086 |
+
+|
+
+EHPAD ALEXANDRE VARENNE |
+
+PA |
+
+|
+
+|
+
+24 991,49 |
+
+24 991,49 |
+
+AURA |
+
+631 |
+
+631 |
+
+630012094 |
+
+|
+
+EHPAD LES CHARMILLES |
+
+PA |
+
+|
+
+|
+
+5 081,00 |
+
+5 081,00 |
+
+AURA |
+
+631 |
+
+631 |
+
+630180040 |
+
+|
+
+EHPAD LE CASTEL |
+
+PA |
+
+1 337,00 |
+
+1 337,00 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630180040 |
+
+|
+
+EHPAD LE CASTEL |
+
+PA |
+
+|
+
+|
+
+6 891,18 |
+
+6 891,18 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781151 |
+
+|
+
+EHPAD LES SAVAROUNES |
+
+PA |
+
+2 947,00 |
+
+2 947,00 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630781151 |
+
+|
+
+EHPAD LES SAVAROUNES |
+
+PA |
+
+|
+
+|
+
+48 378,39 |
+
+48 378,39 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781227 |
+
+|
+
+EHPAD MON REPOS |
+
+PA |
+
+|
+
+|
+
+16 917,52 |
+
+16 917,52 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781235 |
+
+|
+
+EHPAD EFFIAT |
+
+PA |
+
+|
+
+|
+
+1 250,90 |
+
+1 250,90 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781391 |
+
+|
+
+EHPAD LE CENDRE |
+
+PA |
+
+|
+
+|
+
+7 561,54 |
+
+7 561,54 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781441 |
+
+|
+
+EHPAD LA ROSERAIE |
+
+PA |
+
+|
+
+|
+
+8 298,86 |
+
+8 298,86 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781458 |
+
+|
+
+EHPAD ARLANC |
+
+PA |
+
+|
+
+|
+
+4 419,29 |
+
+4 419,29 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781474 |
+
+|
+
+EHPAD CORPIERE |
+
+PA |
+
+|
+
+|
+
+19 717,28 |
+
+19 717,28 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781482 |
+
+|
+
+EHPAD CULHAT |
+
+PA |
+
+|
+
+|
+
+947,03 |
+
+947,03 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781490 |
+
+|
+
+EHPAD CUNLHAT |
+
+PA |
+
+|
+
+|
+
+22 563,65 |
+
+22 563,65 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781508 |
+
+|
+
+EHPAD MARINGUES |
+
+PA |
+
+|
+
+|
+
+14 919,51 |
+
+14 919,51 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781516 |
+
+|
+
+EHPAD MONTAIGUT |
+
+PA |
+
+|
+
+|
+
+19 095,94 |
+
+19 095,94 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781532 |
+
+|
+
+EHPAD PONT DU CHÂTEAU |
+
+PA |
+
+|
+
+|
+
+14 532,99 |
+
+14 532,99 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781540 |
+
+|
+
+EHPAD RANDAN |
+
+PA |
+
+|
+
+|
+
+16 089,69 |
+
+16 089,69 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781557 |
+
+|
+
+EHPAD ROCHEFORT |
+
+PA |
+
+|
+
+|
+
+25 311,00 |
+
+25 311,00 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781565 |
+
+|
+
+EHPAD ST AMANT TDE |
+
+PA |
+
+|
+
+|
+
+8 114,17 |
+
+8 114,17 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781573 |
+
+|
+
+EHPAD ST GERMAIN LEMBRON |
+
+PA |
+
+|
+
+|
+
+8 343,04 |
+
+8 343,04 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781599 |
+
+|
+
+EHPAD CHARLES AND |
+
+PA |
+
+|
+
+|
+
+14 671,89 |
+
+14 671,89 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781623 |
+
+|
+
+EHPAD P HERBECQ |
+
+PA |
+
+|
+
+|
+
+2 473,18 |
+
+2 473,18 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781631 |
+
+|
+
+EHPAD VOLVIC |
+
+PA |
+
+|
+
+|
+
+34 756,32 |
+
+34 756,32 |
+
+AURA |
+
+631 |
+
+631 |
+
+630781649 |
+
+|
+
+EHPAD LES ROCHES |
+
+PA |
+
+|
+
+|
+
+242,88 |
+
+242,88 |
+
+AURA |
+
+631 |
+
+631 |
+
+630783355 |
+
+|
+
+EHPAD LE BOSQUET |
+
+PA |
+
+|
+
+|
+
+7 817,58 |
+
+7 817,58 |
+
+AURA |
+
+631 |
+
+631 |
+
+630783470 |
+
+|
+
+EHPAD CH RIOM |
+
+PA |
+
+|
+
+|
+
+224 990,26 |
+
+224 990,26 |
+
+AURA |
+
+631 |
+
+631 |
+
+630783504 |
+
+|
+
+EHPAD CH THIERS |
+
+PA |
+
+|
+
+|
+
+15 801,93 |
+
+15 801,93 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784478 |
+
+|
+
+EHPAD BILLOM |
+
+PA |
+
+|
+
+|
+
+7 719,12 |
+
+7 719,12 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784510 |
+
+|
+
+EHPAD LA COLOMBE |
+
+PA |
+
+|
+
+|
+
+23 682,61 |
+
+23 682,61 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784528 |
+
+|
+
+EHPAD DE LOUBEYRAT |
+
+PA |
+
+|
+
+|
+
+14 916,68 |
+
+14 916,68 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784544 |
+
+|
+
+EHPAD LES ORC |
+
+PA |
+
+|
+
+|
+
+10 881,51 |
+
+10 881,51 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784551 |
+
+|
+
+EHPAD CEBAZAT |
+
+PA |
+
+|
+
+|
+
+11 475,44 |
+
+11 475,44 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784650 |
+
+|
+
+EHPAD ST JEAN D HEURS |
+
+PA |
+
+|
+
+|
+
+46 014,35 |
+
+46 014,35 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784676 |
+
+|
+
+EHPAD ST JOSEPH |
+
+PA |
+
+|
+
+|
+
+97 516,21 |
+
+97 516,21 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784775 |
+
+|
+
+EHPAD LA PROVIDENCE |
+
+PA |
+
+|
+
+|
+
+21 982,79 |
+
+21 982,79 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784783 |
+
+|
+
+EHPAD LA STE FAMILLE |
+
+PA |
+
+|
+
+|
+
+28 951,01 |
+
+28 951,01 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784833 |
+
+|
+
+EHPAD MA MAISON |
+
+PA |
+
+|
+
+|
+
+20 114,71 |
+
+20 114,71 |
+
+AURA |
+
+631 |
+
+631 |
+
+630784858 |
+
+|
+
+EHPAD LA TOUR D AUVERGNE |
+
+PA |
+
+|
+
+|
+
+9 913,62 |
+
+9 913,62 |
+
+AURA |
+
+631 |
+
+631 |
+
+630785814 |
+
+|
+
+EHPAD ST JEAN DES OLLIERGUES |
+
+PA |
+
+|
+
+|
+
+17 061,17 |
+
+17 061,17 |
+
+AURA |
+
+631 |
+
+631 |
+
+630785830 |
+
+|
+
+EHPAD BESSE |
+
+PA |
+
+|
+
+|
+
+7 761,12 |
+
+7 761,12 |
+
+AURA |
+
+631 |
+
+631 |
+
+630787067 |
+
+|
+
+EHPAD LES MELEZES |
+
+PA |
+
+|
+
+|
+
+67,58 |
+
+67,58 |
+
+AURA |
+
+631 |
+
+631 |
+
+630787513 |
+
+|
+
+EHPAD CH AMBERT |
+
+PA |
+
+|
+
+|
+
+18 059,71 |
+
+18 059,71 |
+
+AURA |
+
+631 |
+
+631 |
+
+630787687 |
+
+|
+
+EHPAD LE MONTEL |
+
+PA |
+
+|
+
+|
+
+4 439,22 |
+
+4 439,22 |
+
+AURA |
+
+631 |
+
+631 |
+
+630788198 |
+
+|
+
+EHPAD LES VERSANNES |
+
+PA |
+
+|
+
+|
+
+8 055,45 |
+
+8 055,45 |
+
+AURA |
+
+631 |
+
+631 |
+
+630790038 |
+
+|
+
+EHPAD LES CHATILLES |
+
+PA |
+
+|
+
+|
+
+6 932,80 |
+
+6 932,80 |
+
+AURA |
+
+631 |
+
+631 |
+
+630790301 |
+
+|
+
+EHPAD CANDELIE |
+
+PA |
+
+|
+
+|
+
+45 535,74 |
+
+45 535,74 |
+
+AURA |
+
+631 |
+
+631 |
+
+630790467 |
+
+|
+
+EHPAD LES SOURCES |
+
+PA |
+
+938,00 |
+
+938,00 |
+
+|
+
+|
+
+AURA |
+
+631 |
+
+631 |
+
+630790467 |
+
+|
+
+EHPAD LES SOURCES |
+
+PA |
+
+|
+
+|
+
+4 066,29 |
+
+4 066,29 |
+
+AURA |
+
+631 |
+
+631 |
+
+630790715 |
+
+|
+
+EHPAD LES ROCHES |
+
+PA |
+
+|
+
+|
+
+4 774,87 |
+
+4 774,87 |
+
+AURA |
+
+631 |
+
+631 |
+
+630790780 |
+
+|
+
+EHPAD LES RIVES |
+
+PA |
+
+|
+
+|
+
+3 335,64 |
+
+3 335,64 |
+
+AURA |
+
+631 |
+
+631 |
+
+630790988 |
+
+|
+
+EHPAD LES ANCIZES |
+
+PA |
+
+|
+
+|
+
+4 961,70 |
+
+4 961,70 |
+
+AURA |
+
+631 |
+
+631 |
+
+630791002 |
+
+|
+
+EHPAD BEAUREGARD |
+
+PA |
+
+|
+
+|
+
+15 036,89 |
+
+15 036,89 |
+
+AURA |
+
+631 |
+
+631 |
+
+630791580 |
+
+|
+
+EHPAD RENOURD |
+
+PA |
+
+|
+
+|
+
+11 372,40 |
+
+11 372,40 |
+
+AURA |
+
+631 |
+
+631 |
+
+630791788 |
+
+|
+
+EHPAD GIAT |
+
+PA |
+
+|
+
+|
+
+3 776,71 |
+
+3 776,71 |
+
+AURA |
+
+631 |
+
+631 |
+
+630791861 |
+
+|
+
+EHPAD MAPAD ROMAGNAT |
+
+PA |
+
+|
+
+|
+
+13 342,91 |
+
+13 342,91 |
+
+AURA |
+
+631 |
+
+631 |
+
+630791911 |
+
+|
+
+EHPAD MESANGES |
+
+PA |
+
+|
+
+|
+
+12 997,35 |
+
+12 997,35 |
+
+NOUVELLE AQUITAINE |
+
+01642 |
+
+01642 |
+
+640785929 |
+
+640785929 |
+
+EHPAD MERICI |
+
+PA |
+
+1 030,00 |
+
+1 030,00 |
+
+|
+
+|
+
+Occitanie |
+
+|
+
+*66070 |
+
+660004763 |
+
+|
+
+EHPAD VIA MONESTIR |
+
+PA |
+
+390,02 |
+
+390,02 |
+
+|
+
+|
+
+Occitanie |
+
+|
+
+*66070 |
+
+660781121 |
+
+|
+
+EHPAD BAPTISTE PAMS |
+
+PA |
+
+231,50 |
+
+231,50 |
+
+|
+
+|
+
+Occitanie |
+
+|
+
+*66070 |
+
+660782525 |
+
+|
+
+EHPAD FONDATION DANTJOU |
+
+PA |
+
+11 679,03 |
+
+11 679,03 |
+
+|
+
+|
+
+Occitanie |
+
+|
+
+*66070 |
+
+660785593 |
+
+|
+
+EHPAD LA LOGE DE MER |
+
+PA |
+
+860,00 |
+
+860,00 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670006519 |
+
+670006469 |
+
+EHPAD SILOE |
+
+PA |
+
+468,00 |
+
+468,00 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670006568 |
+
+670792340 |
+
+EHPAD DANUBE ANKARA |
+
+PA |
+
+679,40 |
+
+679,40 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670008598 |
+
+670006469 |
+
+EHPAD LES QUATRE VENTS |
+
+PA |
+
+300,00 |
+
+300,00 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670013838 |
+
+670001320 |
+
+FAM EOLYS |
+
+PH |
+
+227,50 |
+
+227,50 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670780246 |
+
+670014604 |
+
+EHPAD ST CHARLES |
+
+PA |
+
+237,00 |
+
+237,00 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670787787 |
+
+670014604 |
+
+EHPAD SAINT JOSEPH |
+
+PA |
+
+346,20 |
+
+346,20 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670787894 |
+
+670006469 |
+
+EHPAD EMMAUS KOENIGSHOFFEN |
+
+PA |
+
+644,47 |
+
+644,47 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670790112 |
+
+670792340 |
+
+EHPAD STEPHANIE |
+
+PA |
+
+722,10 |
+
+722,10 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670791276 |
+
+670010438 |
+
+EHPAD LE BARTISCHGUT |
+
+PA |
+
+382,70 |
+
+382,70 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670796838 |
+
+670013309 |
+
+EHPAD LA VOUTE ETOILEE |
+
+PA |
+
+92,00 |
+
+92,00 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670796937 |
+
+670006469 |
+
+EHPAD EMMAUS CENTRE VILLE |
+
+PA |
+
+7 710,90 |
+
+7 710,90 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+673 |
+
+670797778 |
+
+670797760 |
+
+EHPAD LES COQUELICOTS |
+
+PA |
+
+750,00 |
+
+750,00 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+682 |
+
+680004488 |
+
+|
+
+EHPAD RESIDENCE LES VIOLETTES |
+
+PA |
+
+5 254,74 |
+
+5 254,74 |
+
+|
+
+|
+
+GRAND EST |
+
+|
+
+682 |
+
+680020138 |
+
+|
+
+FAM DE BARTENHEIM |
+
+PH |
+
+2 792,02 |
+
+2 792,02 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690023809 |
+
+|
+
+EHPAD CLAUDE BERNARD |
+
+PA |
+
+2 096,05 |
+
+2 096,05 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690030663 |
+
+|
+
+FAM SAINT-ALBAN |
+
+PH |
+
+790,00 |
+
+790,00 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690031737 |
+
+|
+
+EHPAD RESIDENCE DES CANUTS |
+
+PA |
+
+14 485,80 |
+
+14 485,80 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690044789 |
+
+|
+
+EAM STEPHANE HOUDET |
+
+PH |
+
+4 878,98 |
+
+4 878,98 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690781604 |
+
+|
+
+EHPAD MA DEMEURE |
+
+PA |
+
+640,00 |
+
+640,00 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690782990 |
+
+|
+
+EHPAD JEAN VILLARD |
+
+PA |
+
+4 799,00 |
+
+4 799,00 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690785431 |
+
+|
+
+EHPAD RETRAITE LE MANOIR |
+
+PA |
+
+304,10 |
+
+304,10 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690788401 |
+
+|
+
+EHPAD LA ROTONDE |
+
+PA |
+
+10,00 |
+
+10,00 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690790340 |
+
+|
+
+EHPAD SAINTE-ANNE |
+
+PA |
+
+220,30 |
+
+220,30 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690794730 |
+
+|
+
+EHPAD LES QUATRE FONTAINES |
+
+PA |
+
+3 201,00 |
+
+3 201,00 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690799390 |
+
+|
+
+EHPAD LES AGAPANTHES (ancien ACANTHES) |
+
+PA |
+
+502,05 |
+
+502,05 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690802046 |
+
+|
+
+EHPAD LE CHARME DES SOURCES |
+
+PA |
+
+1 831,50 |
+
+1 831,50 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690802293 |
+
+|
+
+EHPAD MARGUERITE |
+
+PA |
+
+9 991,53 |
+
+9 991,53 |
+
+|
+
+|
+
+AURA |
+
+69070 |
+
+|
+
+690802459 |
+
+|
+
+EHPAD LES JARDIN D'ELEUSIS |
+
+PA |
+
+200,00 |
+
+200,00 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+701 |
+
+701 |
+
+700780257 |
+
+700000078 |
+
+EHPAD ALFRED DORNIER DAMPIERRE |
+
+PA |
+
+861,30 |
+
+861,30 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+701 |
+
+701 |
+
+700785090 |
+
+700004096 |
+
+FAM VILLAGE DES HAUTS PRES |
+
+PH |
+
+8 159,90 |
+
+8 159,90 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+|
+
+01711 |
+
+710007188 |
+
+|
+
+EHPAD LES JARDINS MEDICIS |
+
+PA |
+
+5 809,60 |
+
+5 809,60 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+|
+
+01711 |
+
+710974650 |
+
+|
+
+EHPAD VILLA VICTOR HUGO |
+
+PA |
+
+1 491,32 |
+
+1 760,17 |
+
+|
+
+|
+
+BOURGOGNE FRANCHE COMTE |
+
+|
+
+01711 |
+
+710977661 |
+
+|
+
+FAM LES VILLANDIÈRES DE CHARNAY LES MACON |
+
+PH |
+
+2 862,66 |
+
+2 862,66 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+1721 |
+
+1721 |
+
+720014109 |
+
+|
+
+EHPAD LE CHAMP DE L'ORMEAU |
+
+PA |
+
+203,50 |
+
+203,50 |
+
+|
+
+|
+
+PAYS DE LA LOIRE |
+
+1721 |
+
+1721 |
+
+720018373 |
+
+|
+
+EHPAD LA ROSE DES VENTS |
+
+PA |
+
+3 545,80 |
+
+3 545,80 |
+
+|
+
+|
+
+AURA |
+
+381 |
+
+731 |
+
+730783917 |
+
+730783917 |
+
+EHPAD ST BENOIT |
+
+PA |
+
+181,40 |
+
+181,40 |
+
+|
+
+|
+
+AURA |
+
+1741 |
+
+1741 |
+
+740010996 |
+
+|
+
+EHPAD LES JARDINS DU MONT-BLANC |
+
+PA |
+
+14 435,30 |
+
+11 545,30 |
+
+|
+
+|
+
+AURA |
+
+1741 |
+
+1741 |
+
+740011408 |
+
+|
+
+EHPAD MAISONNEE LE VAL FLEURI |
+
+PA |
+
+3 742,00 |
+
+3 742,00 |
+
+|
+
+|
+
+AURA |
+
+1741 |
+
+1741 |
+
+740012299 |
+
+|
+
+EHPAD MDF DU GENEVOIS |
+
+PA |
+
+1 039,82 |
+
+1 039,82 |
+
+|
+
+|
+
+AURA |
+
+1741 |
+
+1741 |
+
+740784681 |
+
+|
+
+FONDATION DU PARMELAN |
+
+PA |
+
+8 897,50 |
+
+0,00 |
+
+|
+
+|
+
+AURA |
+
+1741 |
+
+1741 |
+
+740790241 |
+
+|
+
+EHPAD PIERRE PAILLET |
+
+PA |
+
+359,10 |
+
+0,00 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750000366 |
+
+|
+
+JARDINS MONTMARTRE |
+
+PA |
+
+6 572,40 |
+
+6 572,40 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750002552 |
+
+|
+
+RESIDENCE DE SEVRES |
+
+PA |
+
+134 126,46 |
+
+134 126,46 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750003600 |
+
+|
+
+TIERS TEMPS PARIS |
+
+PA |
+
+3 104,86 |
+
+3 104,86 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750003642 |
+
+|
+
+EHPAD LES TERRASSES du 20ème |
+
+PA |
+
+37 266,01 |
+
+37 266,01 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750004020 |
+
+|
+
+KORIAN JARDINS D'ALESIA |
+
+PA |
+
+14 916,78 |
+
+14 916,78 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750007809 |
+
+|
+
+CLUB MONTSOURIS |
+
+PA |
+
+44 093,98 |
+
+44 093,98 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750012510 |
+
+|
+
+EHPAD ANSELME PAYEN |
+
+PA |
+
+241 842,55 |
+
+241 842,55 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750016248 |
+
+750804767 |
+
+MAS DR ARNAUD |
+
+PH |
+
+1 963,78 |
+
+1 963,78 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750016958 |
+
+|
+
+LA SOURCE D'AUTEUIL |
+
+PA |
+
+29 721,11 |
+
+29 721,11 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750017808 |
+
+|
+
+VILLA LECOURBE |
+
+PA |
+
+2 761,43 |
+
+2 761,43 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750021123 |
+
+|
+
+EHPAD JULIE SIEGFRIED |
+
+PA |
+
+90 394,71 |
+
+90 394,71 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750021479 |
+
+|
+
+EHPAD HEROLD |
+
+PA |
+
+96 444,68 |
+
+96 444,68 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750021719 |
+
+|
+
+RESIDENCE OCEANE |
+
+PA |
+
+5 934,65 |
+
+5 934,65 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750026189 |
+
+|
+
+DOMUSVI PARIS 16 |
+
+PA |
+
+278,54 |
+
+278,54 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750026718 |
+
+|
+
+LIS HALTE SOINS SANTE MAUBEUGE |
+
+SPECIFIQUE |
+
+478,26 |
+
+478,26 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750031999 |
+
+|
+
+CSAPA AURORE |
+
+SPECIFIQUE |
+
+264,52 |
+
+264,52 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750032948 |
+
+|
+
+SSIAD DOMUSVI DOMICILE SOINS EUROPE |
+
+PA |
+
+2 503,08 |
+
+2 503,08 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750033359 |
+
+|
+
+FONDATION MAISON DES CHAMPS |
+
+PA |
+
+17 655,50 |
+
+17 655,50 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750033979 |
+
+|
+
+RESIDENCE LES AMBASSADEURS |
+
+PA |
+
+13 260,70 |
+
+13 260,70 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750035099 |
+
+|
+
+EHPAD LES PARENTELES |
+
+PA |
+
+5 590,87 |
+
+5 590,87 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750036949 |
+
+|
+
+FAM LE PONT DE FLANDRE |
+
+PH |
+
+17 244,34 |
+
+17 244,34 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750036998 |
+
+|
+
+SAMSAH LE PONT DE FLANDRE |
+
+PH |
+
+2 022,62 |
+
+2 022,62 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750038564 |
+
+|
+
+EHPAD KORIAN MAGENTA |
+
+PA |
+
+4 573,78 |
+
+4 573,78 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750040149 |
+
+|
+
+EHPAD RES GOBELINS |
+
+PA |
+
+3 194,79 |
+
+3 194,79 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750040388 |
+
+|
+
+SSIAD DU CASVP |
+
+PA |
+
+2 511,55 |
+
+2 511,55 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750041295 |
+
+750721466 |
+
+FAM JEAN FAVERIS |
+
+PH |
+
+131 172,33 |
+
+131 172,33 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750041402 |
+
+|
+
+EHPAD RES DU MARAIS |
+
+PA |
+
+3 592,86 |
+
+3 592,86 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750041634 |
+
+|
+
+EHPAD PEAN |
+
+PA |
+
+69 537,37 |
+
+69 537,37 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750041659 |
+
+|
+
+EHPAD LES JARDIN DE BELLEVILLE |
+
+PA |
+
+116,43 |
+
+116,43 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750042731 |
+
+|
+
+EHPAD RESIDENCE LES ISSAMBRES |
+
+PA |
+
+14 986,94 |
+
+14 986,94 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750044232 |
+
+|
+
+EHPAD BASTILLE |
+
+PA |
+
+114 142,80 |
+
+114 142,80 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750044851 |
+
+|
+
+STE MARIE (NUIT) |
+
+PA |
+
+5 583,80 |
+
+5 583,80 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750047219 |
+
+|
+
+FAM LES AMIS DE L'ATELIER |
+
+PH |
+
+2 758,94 |
+
+2 758,94 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750047672 |
+
+|
+
+EHPAD ANNIE GIRARDOT |
+
+PA |
+
+160 878,95 |
+
+160 878,95 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750047714 |
+
+|
+
+EHPAD ST AUGUSTIN |
+
+PA |
+
+52 062,89 |
+
+52 062,89 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750047722 |
+
+|
+
+EHPAD ROBERT DOISNEAU |
+
+PA |
+
+31 798,50 |
+
+31 798,50 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750048332 |
+
+|
+
+EHPAD Antoine Portail |
+
+PA |
+
+17 964,40 |
+
+17 964,40 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750048365 |
+
+|
+
+HUGUETTE VALESCCHI |
+
+PA |
+
+245 818,54 |
+
+245 818,54 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750048373 |
+
+|
+
+EHPAD CASVP ALICE PRIN |
+
+PA |
+
+46 385,01 |
+
+46 385,01 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750048696 |
+
+|
+
+EAM MOULIN VERT |
+
+PH |
+
+4 840,01 |
+
+4 840,01 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750048738 |
+
+750803678 |
+
+FAM STE GENEVIEVE |
+
+PH |
+
+2 959,96 |
+
+2 959,96 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750048746 |
+
+750721466 |
+
+FAM LA MAISON DE PENELOPE |
+
+PH |
+
+43 852,50 |
+
+43 852,50 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750050882 |
+
+|
+
+FAM ROMAIN JACOB |
+
+PH |
+
+103 842,97 |
+
+103 842,97 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750054322 |
+
+|
+
+RESIDENCE LES INTEMPORELLES ORNANO |
+
+PA |
+
+3 635,79 |
+
+3 635,79 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750057101 |
+
+|
+
+EHPAD VILLA TORELLI |
+
+PA |
+
+16 427,74 |
+
+16 427,74 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750060840 |
+
+750721931 |
+
+RELAIS IDF |
+
+PA |
+
+956,45 |
+
+956,45 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750062986 |
+
+|
+
+EEEH SILENCE DES JUSTES |
+
+PH |
+
+12 215,83 |
+
+12 215,83 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750063547 |
+
+|
+
+SSIAD APSAD NUIT |
+
+PA |
+
+1 112,80 |
+
+1 112,80 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750680092 |
+
+750720674 |
+
+CMPP DENISE WEIL |
+
+PH |
+
+180,05 |
+
+180,05 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750710527 |
+
+|
+
+ESAT MOULIN VERT |
+
+PH |
+
+8 513,41 |
+
+8 513,41 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800427 |
+
+|
+
+EHPAD AMITIE ET PAR |
+
+PA |
+
+106 724,52 |
+
+106 724,52 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800435 |
+
+|
+
+EHPAD ND DES CHAMPS |
+
+PA |
+
+317,58 |
+
+317,58 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800518 |
+
+|
+
+RESIDENCE CATHERINE LABOURE |
+
+PA |
+
+75 672,90 |
+
+75 672,90 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800526 |
+
+|
+
+EHPAD MDR PROTESTANTE DE LA MUETTE |
+
+PA |
+
+2 740,40 |
+
+2 740,40 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800534 |
+
+|
+
+EHPAD ROTHSCHILD |
+
+PA |
+
+59,20 |
+
+59,20 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800567 |
+
+|
+
+EHPAD SAINTE MONIQUE |
+
+PA |
+
+16 752,29 |
+
+16 752,29 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800658 |
+
+|
+
+EHPAD VILLA JULES JANIN |
+
+PA |
+
+70 500,37 |
+
+70 500,37 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750800666 |
+
+|
+
+EHPAD FOYER ISRAELITE |
+
+PA |
+
+11 541,30 |
+
+11 541,30 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750801375 |
+
+|
+
+ISATIS |
+
+PA |
+
+174,30 |
+
+174,30 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750801458 |
+
+|
+
+OUDINOT |
+
+PA |
+
+6 361,00 |
+
+6 361,00 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750801607 |
+
+|
+
+EHPAD A DEBROUSSE |
+
+PA |
+
+144 849,53 |
+
+144 849,53 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750804338 |
+
+|
+
+VIVRE A DOMICILE |
+
+PA |
+
+50 966,70 |
+
+50 966,70 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750804643 |
+
+750720609 |
+
+Saint FARGEAU |
+
+PA |
+
+847,00 |
+
+847,00 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750814949 |
+
+|
+
+EHPAD RES LES AIRELLES |
+
+PA |
+
+19 530,70 |
+
+19 530,70 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750823965 |
+
+|
+
+EHPAD LE JARDIN DES PLANTES |
+
+PA |
+
+120 117,54 |
+
+120 117,54 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750825234 |
+
+750721466 |
+
+FOYER DE VIE JEAN CALVINO |
+
+PH |
+
+126 305,10 |
+
+126 305,10 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750831208 |
+
+|
+
+EHPAD FURTADO HEINE |
+
+PA |
+
+208 554,65 |
+
+208 554,65 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750831216 |
+
+|
+
+EHPAD MAPI ST SIMON |
+
+PA |
+
+1 175,41 |
+
+1 175,41 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750832578 |
+
+|
+
+EHPAD L'OASIS |
+
+PA |
+
+140 730,70 |
+
+140 730,70 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+750832586 |
+
+|
+
+EHPAD KORIAN MONCEAU |
+
+PA |
+
+42 887,55 |
+
+42 887,55 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770000081 |
+
+|
+
+EHPAD LE CHÂTEAU DE SEINE PORT |
+
+PA |
+
+17 625,36 |
+
+17 625,36 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770002228 |
+
+|
+
+EHPAD SOLEMNES CHÂTEAU DE LA GRANGE |
+
+PA |
+
+128,60 |
+
+128,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770003473 |
+
+|
+
+EHPAD TILLEUL ARGENTE |
+
+PA |
+
+505,02 |
+
+505,02 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770005239 |
+
+|
+
+FOYER LES CHARMILLES (CPOM ELLEN POIDATZ) |
+
+PH |
+
+4 345,00 |
+
+4 345,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770013969 |
+
+|
+
+MAS LES ROCHERS DE NEMOURS (CPOM AMIS DE L'ATELIER) |
+
+PH |
+
+487,45 |
+
+487,45 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770016459 |
+
+|
+
+EHPAD LES JARDINS DE MEDICIS PROVINS |
+
+PA |
+
+222,66 |
+
+222,66 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770016632 |
+
+|
+
+EHPAD LE GRAND PAVOIS |
+
+PA |
+
+7 700,20 |
+
+7 700,20 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770017291 |
+
+|
+
+EHPAD RESIDENCE LES BERGES DU DANUBE |
+
+PA |
+
+1 800,00 |
+
+1 800,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770017523 |
+
+|
+
+EHPAD LES JARDINS DE MEDICIS |
+
+PA |
+
+536,31 |
+
+536,31 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770017804 |
+
+|
+
+EHPAD LES TOURTERELLES |
+
+PA |
+
+12 869,13 |
+
+12 869,13 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770018042 |
+
+|
+
+FAM RESIDENCE IDALION |
+
+PH |
+
+6 277,03 |
+
+6 277,03 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770701001 |
+
+|
+
+EHPAD LES JARDINS DE CHAGOT |
+
+PA |
+
+203,30 |
+
+203,30 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770790723 |
+
+|
+
+MAS DES BERGES (CPOM AMIS DE L'ATELIER) |
+
+PH |
+
+25 830,00 |
+
+25 830,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770802072 |
+
+|
+
+EHPAD ACEP LES FONTAINES (CPOM ASS CREAT EQ PILOTES) |
+
+PA |
+
+6 045,71 |
+
+6 045,71 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770802635 |
+
+|
+
+EHPAD LE MANOIR DE CHELLES |
+
+PA |
+
+18 075,24 |
+
+18 075,24 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770802650 |
+
+|
+
+EHPAD CHÂTEAU DE LOUCHE |
+
+PA |
+
+4 499,43 |
+
+4 499,43 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770802726 |
+
+|
+
+EHPAD LA GUETTE VILLENEUVE |
+
+PA |
+
+6 681,65 |
+
+6 681,65 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770803427 |
+
+|
+
+EHPAD LES CEDRES (CPOM GEST° ŒUVRES SOCIALES) |
+
+PA |
+
+1 151,50 |
+
+1 151,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770803443 |
+
+|
+
+EHPAD LA MALNOUE (CPOM GEST° ŒUVRES SOCIALES) |
+
+PA |
+
+17 600,00 |
+
+17 600,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770803534 |
+
+|
+
+EHPAD VILLA BAUCIS |
+
+PA |
+
+1 781,70 |
+
+1 781,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770803591 |
+
+|
+
+EHPAD CHÂTEAU FONTENELLE |
+
+PA |
+
+3 253,19 |
+
+3 253,19 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770813905 |
+
+|
+
+EHPAD LA TABLE RONDE PROVINS |
+
+PA |
+
+464,94 |
+
+464,94 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770813939 |
+
+|
+
+EHPAD LES JARDINS DE SEDNA AVON |
+
+PA |
+
+505,00 |
+
+505,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770813947 |
+
+|
+
+EHPAD ELEUSIS ST THIBAULT |
+
+PA |
+
+3 591,06 |
+
+3 591,06 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770814655 |
+
+|
+
+EHPAD RESIDENCE LE CHÂTEAU (CPOM GEST° ŒUVRES SOCIALES) |
+
+PA |
+
+4 180,00 |
+
+4 180,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770814689 |
+
+|
+
+EHPAD MAISON DU GRAND CHENE |
+
+PA |
+
+2 812,70 |
+
+2 812,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+770814861 |
+
+|
+
+EHPAD ETANG MORTCERF |
+
+PA |
+
+1 384,30 |
+
+1 384,30 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780000204 |
+
+440049252 |
+
+EHPAD VILLA D EPIDAURE |
+
+PA |
+
+34 809,01 |
+
+34 809,01 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780000220 |
+
+780016762 |
+
+EHPAD MA MAISON |
+
+PA |
+
+27 516,17 |
+
+27 516,17 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780001731 |
+
+780001517 |
+
+EHPAD LE CLOS ST JEAN |
+
+PA |
+
+2 391,53 |
+
+2 391,53 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780002408 |
+
+330050899 |
+
+EHPAD COLISEE RESIDENCE DES COTEAUX |
+
+PA |
+
+90,00 |
+
+90,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780002598 |
+
+780804472 |
+
+MAS LE POINT DU JOUR |
+
+PH |
+
+7 401,88 |
+
+7 401,88 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780004669 |
+
+750832701 |
+
+EHPAD LES LYS |
+
+PA |
+
+26 590,43 |
+
+26 590,43 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780018206 |
+
+780018180 |
+
+EHPAD LE PARC DU DONJON |
+
+PA |
+
+898,50 |
+
+898,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780018560 |
+
+780018552 |
+
+EHPAD LE CERCLE DES AINES |
+
+PA |
+
+407,36 |
+
+407,36 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780018792 |
+
+750720609 |
+
+EHPAD LEOPOLD BELLAN DE MANTES LA JOLI |
+
+PA |
+
+11 490,52 |
+
+11 490,52 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780018826 |
+
+780027801 |
+
+EHPAD RESIDENCE DU PARC |
+
+PA |
+
+15 532,71 |
+
+15 532,71 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780019519 |
+
+750721466 |
+
+FAM CHARLES ALBERT HOUETTE |
+
+PH |
+
+22 412,60 |
+
+22 412,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780020731 |
+
+920028263 |
+
+SSIAD DOMUSVI ELEUSIS POISSY |
+
+PA |
+
+1 565,00 |
+
+1 565,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780022364 |
+
+750720609 |
+
+EHPAD LEOPOLD BELLAN DE MONTESSON |
+
+PA |
+
+5 698,30 |
+
+5 698,30 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780022372 |
+
+750721235 |
+
+EHPAD COS LA SOURCE |
+
+PA |
+
+1 300,53 |
+
+1 300,53 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780022752 |
+
+920030152 |
+
+EHPAD LA RESIDENCE MADELEINE BRES |
+
+PA |
+
+215,98 |
+
+215,98 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780024261 |
+
+920029014 |
+
+EHPAD NOISY LE ROI |
+
+PA |
+
+166,73 |
+
+166,73 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780700746 |
+
+750056368 |
+
+EHPAD SAINT LOUIS |
+
+PA |
+
+16 183,90 |
+
+16 183,90 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780700845 |
+
+750056368 |
+
+EHPAD SAINT JOSEPH |
+
+PA |
+
+109 450,80 |
+
+109 450,80 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780700894 |
+
+750721334 |
+
+EHPAD CHAMPSFLEUR |
+
+PA |
+
+929,34 |
+
+929,34 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780700969 |
+
+780000782 |
+
+EHPAD INTERCOMMUNAL LES OISEAUX |
+
+PA |
+
+21 141,10 |
+
+21 141,10 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701041 |
+
+780000790 |
+
+EHPAD RICHARD |
+
+PA |
+
+13 634,03 |
+
+13 634,03 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701082 |
+
+780000816 |
+
+EHPAD LES AULNETTES |
+
+PA |
+
+4 810,91 |
+
+4 810,91 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701504 |
+
+780019584 |
+
+EHPAD LES GLYCINES |
+
+PA |
+
+1 524,65 |
+
+1 524,65 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701710 |
+
+780000899 |
+
+EHPAD LES DAMES AUGUSTINES |
+
+PA |
+
+8 551,14 |
+
+8 551,14 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701744 |
+
+780000907 |
+
+EHPAD RESIDENCE MEDICIS |
+
+PA |
+
+1 632,92 |
+
+1 632,92 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701769 |
+
+750064024 |
+
+EHPAD MON REPOS |
+
+PA |
+
+4 788,18 |
+
+4 788,18 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780701785 |
+
+780000923 |
+
+EHPAD LE BEL AIR |
+
+PA |
+
+3 167,56 |
+
+3 167,56 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780800736 |
+
+780804456 |
+
+EHPAD DES SOEURS AUGUSTINES VERSAILLES |
+
+PA |
+
+36 280,89 |
+
+36 280,89 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780801742 |
+
+780001004 |
+
+EHPAD LES JARDINS MEDICIS |
+
+PA |
+
+7 395,80 |
+
+7 395,80 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780802138 |
+
+780809166 |
+
+EHPAD REPOTEL MAUREPAS |
+
+PA |
+
+2 858,50 |
+
+2 858,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780802468 |
+
+750813859 |
+
+EHPAD LA ROSERAIE |
+
+PA |
+
+3 628,63 |
+
+3 628,63 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780804845 |
+
+920000395 |
+
+EHPAD KORIAN LE COEUR VOLANT |
+
+PA |
+
+10 999,65 |
+
+10 999,65 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780808200 |
+
+780804472 |
+
+IME LES GLYCINES |
+
+PH |
+
+846,00 |
+
+846,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780822052 |
+
+920030186 |
+
+EHPAD JULIETTE VICTOR |
+
+PA |
+
+34 200,35 |
+
+34 200,35 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780823084 |
+
+250015658 |
+
+EHPAD KORIAN LES SAULES |
+
+PA |
+
+5 716,56 |
+
+5 716,56 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780823100 |
+
+780001152 |
+
+EHPAD RESIDENCE ANDRESY |
+
+PA |
+
+815,74 |
+
+815,74 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780823191 |
+
+780823183 |
+
+EHPAD LE PARC DE MONTFORT - DOMUSVI |
+
+PA |
+
+4 561,88 |
+
+4 561,88 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780823373 |
+
+250018074 |
+
+EHPAD KORIAN LES LILAS |
+
+PA |
+
+45 464,36 |
+
+45 464,36 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780823415 |
+
+780010419 |
+
+EHPAD RESID. DE LA TOUR |
+
+PA |
+
+10 817,97 |
+
+10 817,97 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780823795 |
+
+920030186 |
+
+EHPAD LES TILLEULS |
+
+PA |
+
+6 569,40 |
+
+6 569,40 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780824777 |
+
+780804472 |
+
+FAM DU MOULIN |
+
+PH |
+
+30 869,02 |
+
+30 869,02 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780824876 |
+
+920812435 |
+
+EHPAD LE CLOS DES PRIES |
+
+PA |
+
+4 739,72 |
+
+4 739,72 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780824959 |
+
+920031978 |
+
+EHPAD RESIDENCE ELEUSIS |
+
+PA |
+
+172,70 |
+
+172,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780825295 |
+
+780021069 |
+
+EHPAD CHÂTEAU CHAMBOURCY |
+
+PA |
+
+4 976,73 |
+
+4 976,73 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780825675 |
+
+750830747 |
+
+EHPAD LA FONTAINE MEDICIS |
+
+PA |
+
+543,22 |
+
+543,22 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+781 |
+
+780826293 |
+
+780826285 |
+
+EHPAD LE PRIEURE |
+
+PA |
+
+9 964,65 |
+
+9 964,65 |
+
+|
+
+|
+
+Hauts de France |
+
+801 |
+
+801 |
+
+800000747 |
+
+800000747 |
+
+EHPAD NESLE |
+
+PA |
+
+|
+
+|
+
+1 303,20 |
+
+1 303,20 |
+
+Provence Alpes Côte-d'Azur |
+
+831 |
+
+831 |
+
+830004529 |
+
+830004529 |
+
+EHPAD JARDINS DE MAR VIVO |
+
+PA |
+
+199,20 |
+
+199,20 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+831 |
+
+831 |
+
+830017034 |
+
+830017034 |
+
+EHPAD AMANDIERS DE LA RESSENCE |
+
+PA |
+
+675,92 |
+
+675,92 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+831 |
+
+831 |
+
+830100046 |
+
+830100046 |
+
+EHPAD LA ROSE DES VENTS |
+
+PA |
+
+157,60 |
+
+157,60 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+831 |
+
+831 |
+
+830213716 |
+
+830213716 |
+
+EHPAD LA MINORQUE |
+
+PA |
+
+424,92 |
+
+424,92 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+831 |
+
+831 |
+
+830216172 |
+
+830216172 |
+
+EHPAD RENAISSANCE MAYOL |
+
+PA |
+
+1 565,00 |
+
+1 565,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+01841 |
+
+01841 |
+
+840013858 |
+
+840018824 |
+
+FAM LA GARANCE |
+
+PH |
+
+3 438,00 |
+
+3 438,00 |
+
+|
+
+|
+
+Pays de la Loire |
+
+|
+
+01851 |
+
+850006651 |
+
+850006610 |
+
+EHPAD LA CAP'LINE |
+
+PA |
+
+|
+
+|
+
+1 452,30 |
+
+1 452,30 |
+
+Nouvelle Aquitaine |
+
+01 - 861 |
+
+01 - 861 |
+
+860007038 |
+
+|
+
+EHPAD LES JARDINS DE CAMILLE |
+
+PA |
+
+480,00 |
+
+480,00 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1871 |
+
+870005949 |
+
+|
+
+EHPAD RESIDENCE DINS LOU PELOU |
+
+PA |
+
+1 275,00 |
+
+1 275,00 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1871 |
+
+870006921 |
+
+|
+
+EHPAD RESIDENCE JEAN MAHAUT |
+
+PA |
+
+978,02 |
+
+978,02 |
+
+|
+
+|
+
+Nouvelle Aquitaine |
+
+|
+
+1871 |
+
+870016359 |
+
+|
+
+EHPAD LES 5 SENS |
+
+PA |
+
+4 538,60 |
+
+4 538,60 |
+
+|
+
+|
+
+BFC |
+
+891 |
+
+891 |
+
+890 002 140 |
+
+890 002 140 |
+
+EHPAD COURSON LES CARRIERES |
+
+PA |
+
+3 500,00 |
+
+3 500,00 |
+
+|
+
+|
+
+BFC |
+
+891 |
+
+891 |
+
+890 972 227 |
+
+890 972 227 |
+
+EHPAD AUXERRE MR DEPARTEMENTALE |
+
+PA |
+
+142,18 |
+
+142,18 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910000157 |
+
+910000140 |
+
+EHPAD RESIDENE PRO SANTE EVRY |
+
+PA |
+
+854,00 |
+
+854,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910000173 |
+
+750721466 |
+
+MAS LES JOURS HEUREUX |
+
+PH |
+
+108 830,34 |
+
+108 830,34 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910000231 |
+
+750721029 |
+
+EHPAD LE MOULIN VERT |
+
+PA |
+
+1 944,70 |
+
+1 944,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910002187 |
+
+750819526 |
+
+EHPAD LOUIS PASTEUR |
+
+PA |
+
+22 975,70 |
+
+22 975,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910002427 |
+
+910807585 |
+
+EHPAD LES GROUETTES |
+
+PA |
+
+4 033,70 |
+
+4 033,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910003938 |
+
+590035762 |
+
+EHPAD CENTRE DESFONTAINES |
+
+PA |
+
+1 747,34 |
+
+1 747,34 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910004589 |
+
+910004548 |
+
+EHPAD RESIDENCE DE L'ORGE |
+
+PA |
+
+2 026,42 |
+
+2 026,42 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910005859 |
+
+910014679 |
+
+EHPAD LES PARENTELES |
+
+PA |
+
+6 076,99 |
+
+6 076,99 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910006279 |
+
+750819526 |
+
+EHPAD CAMILLE DESMOULINS |
+
+PA |
+
+21 740,76 |
+
+21 740,76 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910009638 |
+
+910009588 |
+
+EHPAD LA RESIDENCE MEDICIS |
+
+PA |
+
+49 260,60 |
+
+49 260,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910013218 |
+
+910013168 |
+
+EHPAD RESIDENCE MEDICIS |
+
+PA |
+
+1 964,65 |
+
+1 964,65 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910013879 |
+
+940004088 |
+
+EHPAD LA MAISON DES CLEMATITES |
+
+PA |
+
+846,60 |
+
+846,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910013978 |
+
+620110650 |
+
+EHPAD DU BREUIL |
+
+PA |
+
+671,50 |
+
+671,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910015015 |
+
+920018918 |
+
+EHPAD RESIDENCE DU PARC DE BELLEJAME |
+
+PA |
+
+3 210,00 |
+
+3 210,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910017334 |
+
+910017326 |
+
+EHPAD LES JARDINS DU PLESSIS |
+
+PA |
+
+12 632,70 |
+
+12 632,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910020296 |
+
+910000108 |
+
+MAS DASSAULT |
+
+PH |
+
+1 995,38 |
+
+1 995,38 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910040112 |
+
+750014219 |
+
+EHPAD RESIDENCE MASSY - VILMORIN |
+
+PA |
+
+6 160,50 |
+
+6 160,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910300110 |
+
+910000421 |
+
+EHPAD RESIDENCE GRANGER |
+
+PA |
+
+16 432,72 |
+
+16 432,72 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910460096 |
+
+910000652 |
+
+EHPAD RESIDENCE DU BOIS |
+
+PA |
+
+3 171,73 |
+
+3 171,73 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+910670017 |
+
+750720609 |
+
+CAMSP LA NORVILLE |
+
+PH |
+
+700,00 |
+
+700,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910690338 |
+
+910707777 |
+
+MAS L'OREE DU BOIS |
+
+PH |
+
+19 241,00 |
+
+19 241,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700038 |
+
+750810533 |
+
+MAS ADEP EVRY |
+
+PH |
+
+4 481,60 |
+
+4 481,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700236 |
+
+910000710 |
+
+EHPAD FILE ETOUPE |
+
+PA |
+
+1 382,60 |
+
+1 382,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700293 |
+
+910000736 |
+
+EHPAD LA PIE VOLEUSE |
+
+PA |
+
+12 263,33 |
+
+12 263,33 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700368 |
+
+910000751 |
+
+EHPAD LA MAISON RUSSE |
+
+PA |
+
+535,00 |
+
+535,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700418 |
+
+920018389 |
+
+EHPAD RESIDENCE BELLEVUE |
+
+PA |
+
+78 466,21 |
+
+78 466,21 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700426 |
+
+910000777 |
+
+EHPAD REPOTEL |
+
+PA |
+
+583,10 |
+
+583,10 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700525 |
+
+910005248 |
+
+EHPAD CHÂTEAU DRANEM |
+
+PA |
+
+21 429,34 |
+
+21 429,34 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910700723 |
+
+910000819 |
+
+EHPAD DE CHARAINTRU |
+
+PA |
+
+27 929,14 |
+
+27 929,14 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910701481 |
+
+590035762 |
+
+EHPAD SAINT JOSEPH |
+
+PA |
+
+3 540,00 |
+
+3 540,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910701507 |
+
+930817739 |
+
+EHPAD RESIDENCE HIPPOLYTE PANHARD |
+
+PA |
+
+2 844,00 |
+
+2 844,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910701804 |
+
+910005768 |
+
+EHPAD LA ROSERAIE |
+
+PA |
+
+6 097,06 |
+
+6 097,06 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910800465 |
+
+920018348 |
+
+EHPAD RESIDENCE LE CLOS FLEURI |
+
+PA |
+
+1 998,60 |
+
+1 998,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910805449 |
+
+930817739 |
+
+EHPAD LES TISSERINS |
+
+PA |
+
+9 635,00 |
+
+9 635,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910805837 |
+
+910016898 |
+
+EHPAD MAISON DE FAMILLE LES ETANGS |
+
+PA |
+
+6 596,33 |
+
+6 596,33 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910808682 |
+
+910001031 |
+
+EHPAD REPOTEL MARCOUSSIS |
+
+PA |
+
+3 112,00 |
+
+3 112,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910811108 |
+
+910001874 |
+
+EHPAD RESIDENCE LES HAUTES FUTAIES |
+
+PA |
+
+2 829,46 |
+
+2 829,46 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910811736 |
+
+910003078 |
+
+EHPAD RESIDENCE LA COLOMBIERE |
+
+PA |
+
+6 959,30 |
+
+6 959,30 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910813450 |
+
+910018001 |
+
+EHPAD JARDINS DE ROINVILLE |
+
+PA |
+
+1 025,23 |
+
+1 025,23 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910813583 |
+
+440049252 |
+
+EHPAD RESIDENCE ASPHODIA |
+
+PA |
+
+45 319,23 |
+
+45 319,23 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910813815 |
+
+910001981 |
+
+EHPAD COLOMBIER DE CORBEIL |
+
+PA |
+
+5 911,13 |
+
+5 911,13 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910814557 |
+
+940000953 |
+
+EHPAD LA MAISON DU CEDRE BLEU |
+
+PA |
+
+6 297,12 |
+
+6 297,12 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910815018 |
+
+910002120 |
+
+EHPAD RESIDENCE LES CEDES |
+
+PA |
+
+9 211,73 |
+
+9 211,73 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+911 |
+
+911 |
+
+910815281 |
+
+910001890 |
+
+EHPAD FONTAINE MEDIC |
+
+PA |
+
+7 344,00 |
+
+7 344,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+920026077 |
+
+|
+
+MAS APF BOUGAINVILLE (CPOM APF) |
+
+PH |
+
+9 182,02 |
+
+9 182,02 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930002985 |
+
+930002985 |
+
+EHPAD LES JARDINS DE LONGUIOLLES |
+
+PA |
+
+14 436,13 |
+
+14 436,13 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930004379 |
+
+930004379 |
+
+EAM COALLIA |
+
+PH |
+
+1 425,00 |
+
+1 425,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930007109 |
+
+930007109 |
+
+EHPAD LA COLOMBE |
+
+PA |
+
+6 757,63 |
+
+6 757,63 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930015359 |
+
+930015359 |
+
+EHPAD RESIDENCE JACQUES OFFENBACH |
+
+PA |
+
+4 849,90 |
+
+4 849,90 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930018619 |
+
+930018619 |
+
+CAARUD FIRST AULNAY/BOIS |
+
+SPECIFIQUE |
+
+2 514,30 |
+
+2 514,30 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930018932 |
+
+930018932 |
+
+EHPAD LES JARDINS D EPINAY |
+
+PA |
+
+4 160,70 |
+
+4 160,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+01771 |
+
+01771 |
+
+930019070 |
+
+|
+
+IME LES 1000 COULEURS (CPOM APF) |
+
+PH |
+
+445,34 |
+
+445,34 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930019120 |
+
+930019120 |
+
+EHPAD RESIDENCE LES JARDINS DES LILAS |
+
+PA |
+
+20 572,26 |
+
+20 572,26 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930019153 |
+
+930019153 |
+
+EHPAD LA MAISON DU LAURIER NOBLE |
+
+PA |
+
+7 997,20 |
+
+7 997,20 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930019344 |
+
+930019344 |
+
+EHPAD RESIDENCE LES QUATRE SAISONS |
+
+PA |
+
+15 874,65 |
+
+15 874,65 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930019468 |
+
+930019468 |
+
+EHPAD LA MAISON DU SOLEIL |
+
+PA |
+
+7 330,80 |
+
+7 330,80 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930020078 |
+
+930020078 |
+
+EHPAD SOLEMNES |
+
+PA |
+
+25 140,00 |
+
+25 140,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930020904 |
+
+930020904 |
+
+EHAPD LES JARDINS DE PANTIN |
+
+PA |
+
+47 365,56 |
+
+47 365,56 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930021043 |
+
+930021043 |
+
+EHPAD LA MAISON DES LUMIERES |
+
+PA |
+
+7 831,85 |
+
+7 831,85 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930021175 |
+
+930021175 |
+
+ACCUEIL TEMPOR LE SILENCE DES JUSTES |
+
+PH |
+
+3 228,10 |
+
+3 228,10 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930021316 |
+
+930021316 |
+
+EHPAD LA MAISON DES GLYCINES |
+
+PA |
+
+1 356,32 |
+
+1 356,32 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930021332 |
+
+920001419 |
+
+FONDATIONS DES AMIS DE L ATELIER |
+
+PH |
+
+23 475,00 |
+
+23 475,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930021514 |
+
+930021514 |
+
+EHPAD LA MAISON DES VERGERS |
+
+PA |
+
+16 460,12 |
+
+16 460,12 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930022504 |
+
+930022504 |
+
+SSIAD DOMUSVI DOMICILE(CPOM 920030053) |
+
+PA |
+
+6 813,13 |
+
+6 813,13 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930022512 |
+
+930022512 |
+
+EAM DE MONTREUIL SOUS BOIS |
+
+PH |
+
+7 445,00 |
+
+7 445,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930022587 |
+
+930022587 |
+
+LHSS LES VOISINS SAINT DENIS (GOUPE SOS SOLIDARITE) |
+
+SPECIFIQUE |
+
+209,40 |
+
+209,40 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930023056 |
+
+930023056 |
+
+EHPAD RESIDENCE EMILE ZOLA |
+
+PA |
+
+8 561,60 |
+
+8 561,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930023155 |
+
+930023155 |
+
+EHPAD KORIAN LES LAURIERS DE PLAISANCE |
+
+PA |
+
+24 035,68 |
+
+24 035,68 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930023163 |
+
+930023163 |
+
+EHPAD VILLA BEAUSOLEIL DRANCY |
+
+PA |
+
+12 102,63 |
+
+12 102,63 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930023700 |
+
+930023700 |
+
+EHPAD RESIDENCE VICTOR HUGO |
+
+PA |
+
+3 479,60 |
+
+3 479,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930023965 |
+
+930023965 |
+
+EHPAD LES INTEMPORELLES |
+
+PA |
+
+28,00 |
+
+28,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930025705 |
+
+930025705 |
+
+EAM ET FOYER DE VIE AGECET |
+
+PH |
+
+4 155,00 |
+
+4 155,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930027073 |
+
+930027073 |
+
+EHPAD LEOPOLD BELLAN ROMAINVILLE |
+
+PA |
+
+24 553,78 |
+
+24 553,78 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930460050 |
+
+930460050 |
+
+EHPAD EMILE GERARD |
+
+PA |
+
+12 496,00 |
+
+12 496,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930460068 |
+
+930460068 |
+
+EHPAD MONMOUSSEAU |
+
+PA |
+
+3 475,40 |
+
+3 475,40 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930460084 |
+
+930460084 |
+
+EHPAD CONSTANCE MAZIER |
+
+PA |
+
+10 524,70 |
+
+10 524,70 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930460092 |
+
+930460092 |
+
+EHPAD SAINT JOSEPH |
+
+PA |
+
+52 311,16 |
+
+52 311,16 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930460100 |
+
+930460100 |
+
+EHPAD SAINTE MARTHE |
+
+PA |
+
+1 036,10 |
+
+1 036,10 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930460118 |
+
+930460118 |
+
+EHPAD ST ANTOINE DE PADOUE |
+
+PA |
+
+17 108,82 |
+
+17 108,82 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930700208 |
+
+930700208 |
+
+EHPAD LES FLORALIES |
+
+PA |
+
+615,46 |
+
+615,46 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930700265 |
+
+930700265 |
+
+EHPAD LUMIERES D AUTOMNE |
+
+PA |
+
+6 023,49 |
+
+6 023,49 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930700315 |
+
+930700315 |
+
+EHPAD RESIDENCE ARTHUR GROUSSIER |
+
+PA |
+
+60 352,95 |
+
+60 352,95 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930705728 |
+
+930705728 |
+
+EHPAD LA PEUPLERAIE |
+
+PA |
+
+7 579,15 |
+
+7 579,15 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930707286 |
+
+930707286 |
+
+EHPAD SAINT VINCENT DE PAUL STAINS |
+
+PA |
+
+12 142,43 |
+
+12 142,43 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930810387 |
+
+930810387 |
+
+EHPAD KORIAN VILLA VICTORIA |
+
+PA |
+
+176,21 |
+
+176,21 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930812524 |
+
+930712724 |
+
+ASSOCIATION ARPEI |
+
+PA |
+
+1 272,93 |
+
+1 272,93 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930815410 |
+
+930815410 |
+
+EHPAD RESIDENCE LAURE ETENEAU |
+
+PA |
+
+208,60 |
+
+208,60 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930816087 |
+
+930816087 |
+
+EHPAD DR GASTON ET PAULE SIMON |
+
+PA |
+
+9 055,00 |
+
+9 055,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930816285 |
+
+930816285 |
+
+EHPAD KORIAN LE TULIPIER |
+
+PA |
+
+28 497,50 |
+
+28 497,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930816293 |
+
+930816293 |
+
+EHPAD KORIAN L EPERVIER |
+
+PA |
+
+33 844,87 |
+
+33 844,87 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930816301 |
+
+930816301 |
+
+EHPAD KORIAN BONISIACA |
+
+PA |
+
+7 766,92 |
+
+7 766,92 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930816723 |
+
+930816723 |
+
+EHPAD RESIDENCE LES BEAUX MONTS |
+
+PA |
+
+15 085,90 |
+
+15 085,90 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+931 |
+
+931 |
+
+930817580 |
+
+930817580 |
+
+EHPAD RESIDENCE LES CLAIRIERES |
+
+PA |
+
+18 336,37 |
+
+18 336,37 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940003858 |
+
+440049252 |
+
+EHPAD LE VERGER DE VINCENNES |
+
+PA |
+
+10 915,98 |
+
+10 915,98 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940005499 |
+
+940009319 |
+
+EHPAD LA RESIDENCE MEDICIS DOMUSVI |
+
+PA |
+
+42 388,14 |
+
+42 388,14 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940007909 |
+
+940019060 |
+
+EHPAD RESIDENCE PIERRE TABANOU |
+
+PA |
+
+56 397,77 |
+
+56 397,77 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940008188 |
+
+920028263 |
+
+SSIAD DOMUSVI VINCENNES |
+
+PA |
+
+9 640,74 |
+
+9 640,74 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940009608 |
+
+940810328 |
+
+MAS Anne et René Potier |
+
+PH |
+
+10 157,05 |
+
+10 157,05 |
+
+|
+
+|
+
+ile de France |
+
+01-751 |
+
+01-751 |
+
+940010838 |
+
+750804767 |
+
+MAS DR GACHET |
+
+PH |
+
+34 226,83 |
+
+34 226,83 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940011398 |
+
+920030186 |
+
+EHPAD RESIDENCE SAINT EXUPERY |
+
+PA |
+
+53 401,48 |
+
+53 401,48 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940011778 |
+
+940721384 |
+
+FAM DE VILLENEUVE ST GEORGES |
+
+PH |
+
+258,50 |
+
+258,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940012339 |
+
+750812844 |
+
+EHPAD L ORANGERIE |
+
+PA |
+
+1 777,96 |
+
+1 777,96 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940016108 |
+
+940810328 |
+
+FAM La maison de l'ETAI |
+
+PH |
+
+1 136,74 |
+
+1 136,74 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940016678 |
+
+920001419 |
+
+FAM SILVAE |
+
+PH |
+
+2 160,50 |
+
+2 160,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940019219 |
+
+940810328 |
+
+FAM Michel Valette |
+
+PH |
+
+13 302,76 |
+
+13 302,76 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940019300 |
+
+920031994 |
+
+EHPAD TIERS TEMPS BICETRE DOMUSVI |
+
+PA |
+
+166,76 |
+
+166,76 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940019342 |
+
+750721466 |
+
+MAS DE NOISEAU |
+
+PH |
+
+75 328,32 |
+
+75 328,32 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940019631 |
+
+330020348 |
+
+EHPAD RESIDENCE LE VAL D OSNE |
+
+PA |
+
+4 552,50 |
+
+4 552,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940020001 |
+
+920028560 |
+
+EHPAD RESIDENCE LANMODEZ |
+
+PA |
+
+13 192,34 |
+
+13 192,34 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940020340 |
+
+920001419 |
+
+MAS des Murets |
+
+PH |
+
+3 908,00 |
+
+3 908,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940020878 |
+
+940721384 |
+
+SAMSAH DE CHENNEVIERES |
+
+PH |
+
+727,10 |
+
+727,10 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940022049 |
+
+940070071 |
+
+EHPAD LA CRISTOLIENNE |
+
+PA |
+
+88 223,43 |
+
+88 223,43 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940690209 |
+
+940721384 |
+
+IME le parc de l'abbaye |
+
+PH |
+
+52,40 |
+
+52,40 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940690241 |
+
+940721384 |
+
+EMP L'avenir |
+
+PH |
+
+1 333,50 |
+
+1 333,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940690266 |
+
+940810328 |
+
+IME Suzanne Brunel |
+
+PH |
+
+926,98 |
+
+926,98 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940690282 |
+
+940721384 |
+
+EMP EMPRO de Champigny |
+
+PH |
+
+600,20 |
+
+600,20 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940710122 |
+
+940001043 |
+
+EHPAD FONDATION FAVIER VAL DE MARNE |
+
+PA |
+
+32 505,44 |
+
+32 505,44 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940710205 |
+
+940810328 |
+
+ESAT Les ateliers de l'ETAI |
+
+PH |
+
+198,09 |
+
+198,09 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940711237 |
+
+940001068 |
+
+EHPAD HECTOR MALOT MRI |
+
+PA |
+
+112 418,16 |
+
+112 418,16 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940712110 |
+
+750720583 |
+
+Harmonie |
+
+PA |
+
+36 374,45 |
+
+36 374,45 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940714058 |
+
+940810328 |
+
+ESAT Jacques Henry |
+
+PH |
+
+45,53 |
+
+45,53 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940714660 |
+
+940001126 |
+
+EHPAD FONDATION GOURLET BONTEMPS |
+
+PA |
+
+3 949,20 |
+
+3 949,20 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940721541 |
+
+940810328 |
+
+FAM Val d'ETAI |
+
+PH |
+
+10 970,30 |
+
+10 970,30 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940800683 |
+
+750056368 |
+
+EHPAD ACCUEIL SAINT-FRANCOIS |
+
+PA |
+
+29 239,20 |
+
+29 239,20 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940800691 |
+
+250018918 |
+
+EHPAD KORIAN LES LIERRES |
+
+PA |
+
+10 081,00 |
+
+10 081,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940800816 |
+
+940001191 |
+
+EHPAD AFRICA |
+
+PA |
+
+9 569,82 |
+
+9 569,82 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940801293 |
+
+750056368 |
+
+EHPAD MAISON DE RETRAITE JEAN XXIII - (RIB RES VAL MARNAISES 940802648) |
+
+PA |
+
+51 880,99 |
+
+51 880,99 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940801343 |
+
+060024114 |
+
+EHPAD LA CASCADE |
+
+PA |
+
+6 803,93 |
+
+6 803,93 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940802630 |
+
+750056368 |
+
+EHPAD RESIDENCE LES CEDRES |
+
+PA |
+
+2 125,90 |
+
+2 125,90 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940802648 |
+
+750056368 |
+
+EHPAD MAISON DE RETRAITE ST JOSEPH - (RIB RES VAL MARNAISES 940802648) |
+
+PA |
+
+23 219,18 |
+
+23 219,18 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940802937 |
+
+250017530 |
+
+EHPAD KORIAN VILLA ST HILAIRE |
+
+PA |
+
+21 762,83 |
+
+21 762,83 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940803356 |
+
+750720583 |
+
+Cousin de Méricourt |
+
+PA |
+
+57 339,80 |
+
+57 339,80 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940803778 |
+
+940001431 |
+
+EHPAD HENRI LAIRE DOMUSVI |
+
+PA |
+
+420,78 |
+
+420,78 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940804347 |
+
+920030186 |
+
+EHPAD LE HAMEAU DU MESLY |
+
+PA |
+
+741,80 |
+
+741,80 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940805211 |
+
+940006158 |
+
+EHPAD LES JARDINS DES ACACIAS |
+
+PA |
+
+27 215,99 |
+
+27 215,99 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940805393 |
+
+750056335 |
+
+EHPAD LE JARDIN DE NEPTUNE LES SAULES |
+
+PA |
+
+35 065,99 |
+
+35 065,99 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940806045 |
+
+750824674 |
+
+EHPAD MAISON NATIONALE DES ARTISTES |
+
+PA |
+
+5 776,32 |
+
+5 776,32 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940807530 |
+
+940001704 |
+
+MAPA JOSEPH FRANSESCHI LE GRAND AGE |
+
+PA |
+
+1 888,40 |
+
+1 888,40 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940807795 |
+
+940001712 |
+
+EHPAD MAISON DE RETRAITE PUB,AUTONOME |
+
+PA |
+
+21 855,26 |
+
+21 855,26 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940808009 |
+
+940007248 |
+
+EHPAD LA RESIDENCE LES JARDINS THIAIS |
+
+PA |
+
+32 975,37 |
+
+32 975,37 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940808546 |
+
+940070071 |
+
+EHPAD RESIDENCE DE L ABBAYE |
+
+PA |
+
+86 007,87 |
+
+86 007,87 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940809387 |
+
+920030186 |
+
+EHPAD RESIDENCE LE VIEUX COLOMBIER |
+
+PA |
+
+23 973,23 |
+
+23 973,23 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940811763 |
+
+940721533 |
+
+MAS des oliviers |
+
+PH |
+
+9 695,39 |
+
+9 695,39 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940811987 |
+
+940070071 |
+
+Résidence les bords de Marne |
+
+PA |
+
+15 142,07 |
+
+15 142,07 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940813074 |
+
+440049252 |
+
+EHPAD RESIDENCE SEVIGNE |
+
+PA |
+
+99 229,73 |
+
+99 229,73 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940813116 |
+
+940019466 |
+
+EHPAD RESIDENCE LE TEMPS DES ROSES |
+
+PA |
+
+58 897,78 |
+
+58 897,78 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940813447 |
+
+940807472 |
+
+MAS de Bonneuil |
+
+PH |
+
+3 263,90 |
+
+3 263,90 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940813462 |
+
+940721426 |
+
+FAM Marcel Huet |
+
+PH |
+
+1 119,20 |
+
+1 119,20 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940814429 |
+
+940017304 |
+
+EHPAD LA MAISON DE LA BIEVRE |
+
+PA |
+
+22 237,68 |
+
+22 237,68 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+|
+
+941 |
+
+940814742 |
+
+920030186 |
+
+EHPAD RESIDENCE VERDI |
+
+PA |
+
+189,60 |
+
+189,60 |
+
+|
+
+|
+
+AURA |
+
+1011 |
+
+1011 |
+
+010785822 |
+
+130029838 |
+
+EHPAD LES OPALINES BELIGNEUX |
+
+PA |
+
+|
+
+|
+
+519,78 |
+
+0,00 |
+
+AURA |
+
+1011 |
+
+1011 |
+
+010788768 |
+
+010011013 |
+
+EHPAD LES CYCLAMENS |
+
+PA |
+
+14 114,02 |
+
+14 114,02 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+131 |
+
+131 |
+
+040002289 |
+
+40000168 |
+
+EHPAD LES CARMES |
+
+PA |
+
+8 319,78 |
+
+8 319,78 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+131 |
+
+131 |
+
+040785065 |
+
+40000440 |
+
+EHPAD PAUL CEZANNE |
+
+PA |
+
+400,00 |
+
+400,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060004249 |
+
+06000071/8 |
+
+EHPAD TIERS TEMPS LE CANNET DOLCE FARNIENTE |
+
+PA |
+
+|
+
+|
+
+21 960,00 |
+
+21 960,00 |
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060007069 |
+
+06002044/3 |
+
+FAM D'ASCROS |
+
+PH |
+
+2 521,60 |
+
+2 521,60 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060012689 |
+
+92003169/7 |
+
+RESIDENCE DU MIDI |
+
+PA |
+
+578,00 |
+
+578,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060012879 |
+
+25001914/8 |
+
+KORIAN SORGENTINO |
+
+PA |
+
+|
+
+|
+
+630,00 |
+
+630,00 |
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060013299 |
+
+06001320/8 |
+
+EHPAD LA PALMERAIE |
+
+PA |
+
+679,58 |
+
+679,58 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060013588 |
+
+25001917/1 |
+
+KORIAN CHÂTEAU DES OLLIERES |
+
+PA |
+
+12 839,02 |
+
+12 839,02 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060013588 |
+
+25001917/1 |
+
+KORIAN CHÂTEAU DES OLLIERES |
+
+PA |
+
+|
+
+|
+
+2 700,00 |
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060020609 |
+
+06002530/1 |
+
+EHPAD LA VILLA DES SAULES |
+
+PA |
+
+145,08 |
+
+145,08 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060020799 |
+
+06002288/6 |
+
+LES VALLIERES |
+
+PA |
+
+7 842,05 |
+
+7 842,05 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060781465 |
+
+06000075/9 |
+
+EHAPD LA SOFIETA |
+
+PA |
+
+2 326,70 |
+
+2 326,70 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060782158 |
+
+06000089/0 |
+
+EHPAD LA VENCOISE |
+
+PA |
+
+1 123,79 |
+
+1 123,79 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060782281 |
+
+06079030/0 |
+
+EHPAD LES ANCIENS COMBATTANTS |
+
+PA |
+
+14 489,90 |
+
+14 489,90 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060782349 |
+
+06079030/0 |
+
+FORNERO MENEI |
+
+PA |
+
+6 700,65 |
+
+6 700,65 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060783008 |
+
+06079030/0 |
+
+VALROSE |
+
+PA |
+
+26 291,92 |
+
+26 291,92 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060783016 |
+
+06079030/0 |
+
+GROSSO |
+
+PA |
+
+16 825,15 |
+
+16 825,15 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060791324 |
+
+06000205/2 |
+
+OREADIS |
+
+PA |
+
+4 905,00 |
+
+4 905,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060791712 |
+
+06000209/4 |
+
+MAS PALMEROSE |
+
+PH |
+
+557,00 |
+
+557,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060792322 |
+
+06000221/9 |
+
+EHPAD CHATEAU DE LA BRAGUE |
+
+PA |
+
+1 761,60 |
+
+1 761,60 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060793684 |
+
+06000253/2 |
+
+RESIDENCE DU GOLF |
+
+PA |
+
+5 400,00 |
+
+5 400,00 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060799459 |
+
+06002427/0 |
+
+EHPAD RESIDENCE FLEURIE |
+
+PA |
+
+282,10 |
+
+282,10 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060799889 |
+
+92000039/5 |
+
+EHPAD LE GRAND MAS |
+
+PA |
+
+2 766,32 |
+
+2 766,32 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060800604 |
+
+06000301/9 |
+
+EHPAD RESIDENCE BLEU SOLEIL |
+
+PA |
+
+6 229,76 |
+
+6 229,76 |
+
+|
+
+|
+
+Provence Alpes Côte-d'Azur |
+
+1061 |
+
+1061 |
+
+060801354 |
+
+06000216/9 |
+
+LES NOISETIERS |
+
+PA |
+
+377,80 |
+
+377,80 |
+
+|
+
+|
+
+Occitanie |
+
+01091 |
+
+01091 |
+
+090782616 |
+
+090782517 |
+
+L FOYER LA BASTIDE DE SEROU |
+
+PA |
+
+866,78 |
+
+866,78 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450002589 |
+
+450000971 |
+
+EHPAD LA MOTHE |
+
+PA |
+
+13 284,83 |
+
+13 284,83 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450013594 |
+
+450011150 |
+
+EHPAD LA SOURCE |
+
+PA |
+
+4 002,62 |
+
+4 002,62 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450014188 |
+
+450001912 |
+
+EHPAD LES PINELLES |
+
+PA |
+
+7 305,80 |
+
+7 305,80 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450014535 |
+
+450011150 |
+
+EHPAD LA CHAPELLE |
+
+PA |
+
+2 242,60 |
+
+2 242,60 |
+
+|
+
+|
+
+CENTRE VAL DE LOIRE |
+
+|
+
+451 |
+
+450018940 |
+
+450022165 |
+
+EHPAD RESIDENCE VALOIS |
+
+PA |
+
+1 423,40 |
+
+1 423,40 |
+
+|
+
+|
+
+GRAND EST |
+
+01-542 |
+
+01-542 |
+
+|
+
+540008703 |
+
+EHPAD St Joseph Essey Ncy |
+
+PA |
+
+933,99 |
+
+933,99 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950800250 |
+
+EHPAD ANNIE BEAUCHAIS |
+
+PA |
+
+413,00 |
+
+413,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950800243 |
+
+EHPAD RESIDENCE LE PARC FLEURI |
+
+PA |
+
+5 917,40 |
+
+5 917,40 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950807388 |
+
+EHPAD RESIDENCE LE VILLAGE |
+
+PA |
+
+10 797,25 |
+
+10 797,25 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950040238 |
+
+EHPAD LES MAGNOLIAS |
+
+PA |
+
+534,10 |
+
+534,10 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950005009 |
+
+EHPAD CHÂTEAU DE NEUVILLE |
+
+PA |
+
+233,25 |
+
+233,25 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950002261 |
+
+EHPAD LE COTTAGE |
+
+PA |
+
+19 764,57 |
+
+19 764,57 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950807545 |
+
+EHPAD KORIAN HAUT D ANDILLY |
+
+PA |
+
+2 850,71 |
+
+2 850,71 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950807271 |
+
+EHPAD LES MERLETTES |
+
+PA |
+
+4 230,01 |
+
+4 230,01 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950807172 |
+
+EHPAD LA CHATAIGNERAIE |
+
+PA |
+
+25 241,84 |
+
+25 241,84 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950802504 |
+
+EHPAD COMMANDERIE DES HOSPITALIERS |
+
+PA |
+
+748,00 |
+
+748,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950807826 |
+
+EHPAD ELEUSIS |
+
+PA |
+
+65 707,65 |
+
+65 707,65 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950808519 |
+
+EHPAD MAISON DU PARC |
+
+PA |
+
+3 714,88 |
+
+3 714,88 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950014589 |
+
+EHPAD RESIDENCE LE MESNIL |
+
+PA |
+
+1 342,23 |
+
+1 342,23 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950009118 |
+
+EHPAD RESIDENCE MEDICIS |
+
+PA |
+
+2 963,85 |
+
+2 963,85 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950002030 |
+
+EHPAD SAINTE GENEVIEVE |
+
+PA |
+
+216,00 |
+
+216,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950780395 |
+
+EHPAD ZEMGOR |
+
+PA |
+
+69 814,94 |
+
+69 814,94 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950807412 |
+
+EHPAD LE MENHIR |
+
+PA |
+
+22 688,00 |
+
+22 688,00 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+950780312 |
+
+EHPAD RESIDENCE DE LA RUE JOHN LENNON |
+
+PA |
+
+425,50 |
+
+425,50 |
+
+|
+
+|
+
+ILE DE FRANCE |
+
+951 |
+
+951 |
+
+|
+
+959999988 |
+
+CPOM OVE |
+
+PA |
+
+162 873,18 |
+
+162 873,18 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140004573 |
+
+|
+
+PA |
+
+67,00 |
+
+67,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140016395 |
+
+|
+
+PA |
+
+1 553,00 |
+
+1 553,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140016429 |
+
+|
+
+PA |
+
+2 500,00 |
+
+2 500,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140017476 |
+
+|
+
+PA |
+
+1 729,00 |
+
+1 729,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140024738 |
+
+|
+
+PA |
+
+1 150,00 |
+
+1 150,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140026998 |
+
+|
+
+PA |
+
+207,00 |
+
+207,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140027418 |
+
+|
+
+PA |
+
+553,00 |
+
+553,00 |
+
+|
+
+|
+
+normandie |
+
+141 |
+
+141 |
+
+|
+
+140028010 |
+
+|
+
+PA |
+
+30,00 |
+
+30,00 |
+
+|
+
+|
+
+NORMANDIE |
+
+763 |
+
+763 |
+
+|
+
+760915397 |
+
+EHPAD LA MARE AU CLERC |
+
+PA |
+
+2 916,00 |
+
+2 916,00 |
+
+|
+
+|
+
+Normandie |
+
+764 |
+
+764 |
+
+|
+
+760013649 |
+
+CPOM TIERS TEMPS ROUEN |
+
+PA |
+
+3 693,00 |
+
+3 693,00 |
+
+|
+
+|
+
+Normandie |
+
+764 |
+
+764 |
+
+|
+
+760028019 |
+
+MAS MALAUNAY ADEF |
+
+PH |
+
+1 594,00 |
+
+1 594,00 |
+
+|
+
+|
+
+Normandie |
+
+764 |
+
+764 |
+
+|
+
+760035923 |
+
+FILSEINE |
+
+PA |
+
+16 026,09 |
+
+16 026,09 |
+
+|
+
+|
+
+Normandie |
+
+764 |
+
+764 |
+
+|
+
+760804351 |
+
+CPOM LES PAPILLONS BLANCS |
+
+PA |
+
+1 339,20 |
+
+1 339,20 |
+
+|
+
+|
+
+Normandie |
+
+764 |
+
+764 |
+
+|
+
+760023655 |
+
+FAM LE SYLVEISON |
+
+PH |
+
+1 554,00 |
+
+1 554,00 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+7 243 764,21 |
+
+7 209 464,98 |
+
+1 769 549,69 |
+
+1 766 329,91 |
