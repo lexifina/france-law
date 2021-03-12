@@ -1,0 +1,25 @@
+# Article 1er
+
+L'article 3 dans sa rédaction issue de l'accord du 30 juin 2016 est abrogé. Il est remplacé par les dispositions suivantes.
+
+« Article 3
+
+Dérogations au principe de fermeture dominicale
+
+Les organisations signataires, représentant l'ensemble de la profession du meuble, s'engagent à faire respecter le calendrier d'ouverture suivant :
+
+– le premier dimanche des soldes d'hiver ;
+
+– le dimanche qui suit la rentrée scolaire ;
+
+– le dimanche qui suit le « Vendredi fou » ou « Black Friday » ;
+
+– les deux dimanches de décembre qui précèdent immédiatement Noël.
+
+Deux autres dimanches seront collectivement définis chaque année par les professionnels locaux dans le cadre de la commission de suivi prévue à l'article 6 du présent accord, sous la forme d'un avenant à cet accord déposé en préfecture au plus tard le 1er décembre. À défaut, ces 2 autres dimanches seraient alors :
+
+– le 3e dimanche de décembre qui précède Noël ;
+
+– le 2e dimanche des soldes d'hiver.
+
+Aucune dérogation particulière ne pourra être sollicitée sur la base d'un autre article du code du travail et à quelque titre que ce soit.
