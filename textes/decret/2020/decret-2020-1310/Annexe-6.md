@@ -1,0 +1,11 @@
+# Article Annexe 6
+
+Les professionnels mentionnés au VIII ter de l'article 53-1 sont :
+
+1° Les sapeurs-pompiers professionnels et volontaires titulaires de la formation d'équipier dans le domaine d'activité du secours d'urgence aux personnes ;
+
+2° Les sapeurs-pompiers de Paris titulaires de leur formation élémentaire en filière “ sapeur-pompier de Paris ” (SPP) ou filière “ secours à victimes ” (SAV) ou titulaires de leur formation élémentaire en filière “ spécialiste ” (SPE) ;
+
+3° Les marins-pompiers de Marseille détenant le brevet élémentaire de matelot pompier (BE MOPOMPI) ou le brevet élémentaire de pompier volontaire (BE MAPOV) ou le brevet élémentaire de sécurité et logistique (BE SELOG) ;
+
+4° Les sapeurs-sauveteurs des formations militaires de la sécurité civile de la DGSCGC titulaire de la formation élémentaire de la filière “ force protection secours ”.
