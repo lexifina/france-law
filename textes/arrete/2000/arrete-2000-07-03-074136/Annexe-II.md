@@ -718,7 +718,7 @@ BP Chemicals, BP 6,13117 Lavera, de 1970 à 1977 ;
 
 CABOT France SA puis CABOT France SAS, BP 39, CD 21, CS 30039, route départementale 21,13130 Berre-l'Etang/13131 Berre-l'Etang Cedex : de 1959 à 1996 ;
 
-Cellulose de Sète 13151 Tarascon Cedex : de 1951 à 1952, puis, Cellulose du Rhône, 13151 Tarascon Cedex : de 1952 à 1981, puis CDRA (Cellulose du Rhône, et d'Aquitaine) BP 8,13151 Tarascon Cedex : de 1981 à 1995, puis CELLURHONE BP 8,13151 Tarascon Cedex : de 1995 à 2000, puis TEMBEC TARASCON SA 13156 Tarascon Cedex : de 2000 à 2001 ;
+Cellulose de Sète, 13151 Tarascon Cedex : de 1951 à 1952, puis, Cellulose du Rhône, 13151 Tarascon Cedex : de 1952 à 1981, puis, CDRA (Cellulose du Rhône et d'Aquitaine) BP 8,13151 Tarascon Cedex : de 1981 à 1995, puis, CELLURHONE, BP 8,13151 Tarascon Cedex : de 1995 à 2000, puis, TEMBEC TARASCON SA 13156 Tarascon Cedex : de 2000 à 2010, puis, FIBRE EXCELLENCE La Barbade, BP 8 13150-13151-13156-13108 Tarascon Cedex : de 2010 à 2019 ;
 
 Chassimetal SA, Item SA, Item Centre SA, Ceric Thermic, 2208, route de Grasse, 06600 Antibes, lieudit Font de Cine, chemin de Saint-Bernard, 06220 Vallauris, de 1953 à 1996 ;
 
