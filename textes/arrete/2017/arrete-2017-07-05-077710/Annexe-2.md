@@ -54,6 +54,8 @@ Arrêtés définissant les réseaux routiers départementaux “ TE94 ” :
 
 -arrêté n° 32-2018-10-09-009 du 9 octobre 2018 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Gers accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
+-arrêté n° 33-2020-10-21-002 du 21 octobre 2020 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Gironde accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
 -arrêté préfectoral n° DDTM34-2018-04-09341 du 28 mars 2018 modifié portant définition des réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” et “ 48 tonnes ” du département de l'Hérault accessibles aux convois exceptionnels sous réserve du respect des caractéristiques maximales de poids et gabarit et des prescriptions associées ;
 
 -arrêté du 21 avril 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Ille-et-Vilaine accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
@@ -72,7 +74,7 @@ Arrêtés définissant les réseaux routiers départementaux “ TE94 ” :
 
 -arrêté DSC-CSR n° 2018-046 du 15 novembre 2018 définissant les réseaux routiers “ TE120 ”, “ TE94 ” et “ TE72 ” du département de la Haute-Loire accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté du 10 avril 2017 relatif aux transports exceptionnels définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” et “ 48 tonnes ” du département de la Loire-Atlantique accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté du 10 avril 2017 modifié relatif aux transports exceptionnels définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” et “ 48 tonnes ” du département de la Loire-Atlantique accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté du 11 avril 2017 pris en application de la généralisation de la procédure d'instruction simplifiée des autorisations de circulation des transports exceptionnels et définissant les réseaux routiers “ 72 tonnes ”, “ 94 tonnes ” et “ 120 tonnes ” du département du Loiret accessibles aux convois exceptionnels sous réserve du respect des caractéristiques maximales de poids et de gabarit et des prescriptions de circulation associées ;
 
