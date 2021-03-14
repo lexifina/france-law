@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2020
+INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1er JANVIER 2021
 
 Bassin minier Centre Ouest |
 
@@ -48,563 +48,13 @@ Nom de l'installation |
 
 De Wendel H |
 
-Forbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 10 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 5 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 6 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 7 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 8 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 9 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T GTI 3 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 5 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 6 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 7 |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Prélèvements d'eaux de surface |
-
-Morsbach amont |
-
-De Wendel H |
-
-Forbach |
-
-Triangle de Marienau |
-
-Prélèvements d'eaux de surface |
-
-Rosselle aval |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Marienau |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Simon |
-
-De Wendel H |
-
 Morsbach |
 
 Cokerie de Marienau |
 
 Equipements de rétention d'effluents pétroliers |
 
-séparateur des zones A et B |
-
-De Wendel H |
-
-Morsbach |
-
-Gazomètre de Marienau |
-
-Events |
-
-Cheminée du gazomètre |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 3 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 1 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 2 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Events |
-
-T EV 4 |
-
-De Wendel H |
-
-Morsbach |
-
-Gazomètre de Marienau |
-
-Piézomètres |
-
-MAR-GTi1 |
-
-De Wendel H |
-
-Morsbach |
-
-Gazomètre de Marienau |
-
-Piézomètres |
-
-MAR-GTi2 |
-
-De Wendel H |
-
-Morsbach |
-
-Gazomètre de Marienau |
-
-Piézomètres |
-
-MAR-GTi6 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T ALL 1 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 1 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 2 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 3 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Piézomètres |
-
-T NP 4 |
-
-De Wendel H |
-
-Morsbach |
-
-Triangle de Marienau |
-
-Prélèvements d'eaux de surface |
-
-Rosselle amont |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Saint Charles |
-
-Pechelbronn |
-
-Dieffenbach-les-Woerth |
-
-(vide) |
-
-Events |
-
-GS-PG-Z-9 |
-
-Pechelbronn |
-
-Dieffenbach-les-Woerth |
-
-(vide) |
-
-Events |
-
-Aae-PG-Z-9 |
-
-Pechelbronn |
-
-Durrenbach |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-108 |
-
-Pechelbronn |
-
-Haguenau |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-1684 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-2761 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-3059 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-3068 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-3969 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-3349 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Piézomètres |
-
-PZ10 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Piézomètres |
-
-PZ7 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Piézomètres |
-
-PZ8 |
-
-Pechelbronn |
-
-Lampersloch |
-
-(vide) |
-
-Events |
-
-GS-PG-Z-19 |
-
-Pechelbronn |
-
-Lampersloch |
-
-(vide) |
-
-Events |
-
-Aae-PG-Z-19 |
-
-Pechelbronn |
-
-Lampersloch |
-
-(vide) |
-
-Events |
-
-GS-PG-Z1-5 (CD) |
-
-Pechelbronn |
-
-Lampersloch |
-
-(vide) |
-
-Events |
-
-GS-PG-Z1-6 (CD) |
-
-Pechelbronn |
-
-Lampersloch |
-
-(vide) |
-
-Events |
-
-AA EXT-Z1-1 |
-
-Pechelbronn |
-
-Lobsann |
-
-(vide) |
-
-Piézomètres |
-
-AEP-Forage à Marienbronn |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Events |
-
-GS-PG-Z-14 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Events |
-
-Aae-PG-Z-14 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-459 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Piézomètres |
-
-PZ11 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Piézomètres |
-
-PZ2 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Piézomètres |
-
-PZ3 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Piézomètres |
-
-PZ4 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Piézomètres |
-
-PZ5 |
+Séparateur des zones A et B |
 
 Pechelbronn |
 
@@ -778,6 +228,436 @@ Aae-PG-Z-6 |
 
 Pechelbronn |
 
+Dieffenbach-les-Woerth |
+
+(vide) |
+
+Events |
+
+GS-PG-Z-9 |
+
+Pechelbronn |
+
+Dieffenbach-les-Woerth |
+
+(vide) |
+
+Events |
+
+Aae-PG-Z-9 |
+
+Pechelbronn |
+
+Merkwiller-Pechelbronn |
+
+(vide) |
+
+Events |
+
+GS-PG-Z-14 |
+
+Pechelbronn |
+
+Merkwiller-Pechelbronn |
+
+(vide) |
+
+Events |
+
+Aae-PG-Z-14 |
+
+Pechelbronn |
+
+Lampersloch |
+
+(vide) |
+
+Events |
+
+GS-PG-Z-19 |
+
+Pechelbronn |
+
+Lampersloch |
+
+(vide) |
+
+Events |
+
+Aae-PG-Z-19 |
+
+Pechelbronn |
+
+Lampersloch |
+
+(vide) |
+
+Events |
+
+GS-PG-Z1-5 (CD) |
+
+Pechelbronn |
+
+Lampersloch |
+
+(vide) |
+
+Events |
+
+GS-PG-Z1-6 (CD) |
+
+Pechelbronn |
+
+Lampersloch |
+
+(vide) |
+
+Events |
+
+AA EXT-Z1-1 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 10 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 5 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 6 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 7 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 8 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 9 |
+
+De Wendel H |
+
+Morsbach |
+
+Gazomètre de Marienau |
+
+Events |
+
+Cheminée du gazomètre |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 3 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 1 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 2 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Events |
+
+T EV 4 |
+
+Pechelbronn |
+
+Durrenbach |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-108 |
+
+Pechelbronn |
+
+Haguenau |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-1684 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-2761 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-3059 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-3068 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-3969 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-3349 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-459 |
+
+Pechelbronn |
+
+Surbourg |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-2962 |
+
+Pechelbronn |
+
+Surbourg |
+
+(vide) |
+
+Forage de dépollution |
+
+Forage Fuyard-3103 |
+
+Sarre et Moselle |
+
+Diesen |
+
+Bassins de Diesen |
+
+Forage de dépollution |
+
+Forage P1 |
+
+Sarre et Moselle |
+
+Diesen |
+
+Bassins de Diesen |
+
+Forage de dépollution |
+
+Forage P2 |
+
+Sarre et Moselle |
+
+Diesen |
+
+Bassins de Diesen |
+
+Forage de dépollution |
+
+Forage P3 |
+
+Sarre et Moselle |
+
+Diesen |
+
+Bassins de Diesen |
+
+Forage de dépollution |
+
+Forage P4 bis |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Piézomètres |
+
+PZ10 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Piézomètres |
+
+PZ7 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Piézomètres |
+
+PZ8 |
+
+Pechelbronn |
+
+Lobsann |
+
+(vide) |
+
+Piézomètres |
+
+AEP-Forage à Marienbronn |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Piézomètres |
+
+PZ11 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Piézomètres |
+
+PZ2 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Piézomètres |
+
+PZ3 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Piézomètres |
+
+PZ4 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Piézomètres |
+
+PZ5 |
+
+Pechelbronn |
+
 Preuschdorf |
 
 (vide) |
@@ -868,26 +748,6 @@ AEP-Source des sept fontaines |
 
 Pechelbronn |
 
-Surbourg |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-2962 |
-
-Pechelbronn |
-
-Surbourg |
-
-(vide) |
-
-Forage de dépollution |
-
-Forage Fuyard-3103 |
-
-Pechelbronn |
-
 Woerth |
 
 (vide) |
@@ -905,146 +765,6 @@ Woerth |
 Piézomètres |
 
 AEP-Forage de Mitschdorf 1973 |
-
-Sarre et Moselle |
-
-Diesen |
-
-Bassins de Diesen |
-
-Forage de dépollution |
-
-Forage P1 |
-
-Sarre et Moselle |
-
-Diesen |
-
-Bassins de Diesen |
-
-Forage de dépollution |
-
-Forage P2 |
-
-Sarre et Moselle |
-
-Diesen |
-
-Bassins de Diesen |
-
-Forage de dépollution |
-
-Forage P3 |
-
-Sarre et Moselle |
-
-Diesen |
-
-Bassins de Diesen |
-
-Forage de dépollution |
-
-Forage P4 bis |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Bassin de Merlebach |
-
-Piézomètres |
-
-CM GEL 1 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Bassin de Merlebach |
-
-Piézomètres |
-
-CM GEL 3 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Schistier du Warndt |
-
-Piézomètres |
-
-CM SBW 2 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Schistier du Warndt |
-
-Piézomètres |
-
-CM SBW 3 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Schistier du Warndt |
-
-Piézomètres |
-
-CM SBW 4 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Schistier du Warndt |
-
-Piézomètres |
-
-CM SBW 5 amont |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Carrière de Merlebach |
-
-Prélèvements d'eaux de surface |
-
-Bassin de décantation |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Carrière de Merlebach |
-
-Réseaux de nivellement |
-
-Falaise de la carrière de Merlebach |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-Carrière de Merlebach |
-
-Réseaux de nivellement |
-
-Chemin des Douaniers |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Peyerimhoff |
 
 Amodiation du Warndt-Allemagne |
 
@@ -1116,6 +836,186 @@ Piézomètres |
 
 T NP 9 |
 
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T GTI 3 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 5 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 6 |
+
+De Wendel H |
+
+Forbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 7 |
+
+De Wendel H |
+
+Morsbach |
+
+Gazomètre de Marienau |
+
+Piézomètres |
+
+MAR-GTi1 |
+
+De Wendel H |
+
+Morsbach |
+
+Gazomètre de Marienau |
+
+Piézomètres |
+
+MAR-GTi2 |
+
+De Wendel H |
+
+Morsbach |
+
+Gazomètre de Marienau |
+
+Piézomètres |
+
+MAR-GTi6 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T ALL 1 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 1 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 2 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 3 |
+
+De Wendel H |
+
+Morsbach |
+
+Triangle de Marienau |
+
+Piézomètres |
+
+T NP 4 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Bassin de Merlebach |
+
+Piézomètres |
+
+CM GEL 1 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Bassin de Merlebach |
+
+Piézomètres |
+
+CM GEL 3 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Schistier du Warndt |
+
+Piézomètres |
+
+CM SBW 2 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Schistier du Warndt |
+
+Piézomètres |
+
+CM SBW 3 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Schistier du Warndt |
+
+Piézomètres |
+
+CM SBW 4 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+Schistier du Warndt |
+
+Piézomètres |
+
+CM SBW 5 amont |
+
 Amodiation du Warndt-Allemagne |
 
 Emmersweiler |
@@ -1126,217 +1026,105 @@ Prélèvements d'eaux de surface |
 
 Morsbach aval |
 
-Bassin minier Est Potassique |
+De Wendel H |
 
-Concession |
+Forbach |
 
-Commune |
+Triangle de Marienau |
 
-Site |
+Prélèvements d'eaux de surface |
 
-Nature de l'installation |
+Morsbach amont |
 
-Nom de l'installation |
+De Wendel H |
 
-Alex Ouest |
+Forbach |
 
-Pulversheim |
+Triangle de Marienau |
 
-Marie-Louise |
+Prélèvements d'eaux de surface |
 
-Piézomètres |
+Rosselle aval |
 
-04131X0141/ P1 |
+De Wendel H |
 
-Alex Ouest |
+Morsbach |
 
-Pulversheim |
+Triangle de Marienau |
 
-Marie-Louise |
+Prélèvements d'eaux de surface |
 
-Piézomètres |
+Rosselle amont |
 
-04131X0266/ PP4 |
+Sarre et Moselle |
 
-Alex Ouest |
+Freyming Merlebach |
 
-Pulversheim |
+Carrière de Merlebach |
 
-Marie-Louise |
+Prélèvements d'eaux de surface |
 
-Piézomètres |
+Bassin de décantation |
 
-04131X0514/ ML3 |
+Sarre et Moselle |
 
-Alex Ouest |
+Freyming Merlebach |
 
-Pulversheim |
+Carrière de Merlebach |
 
-Marie-Louise |
+Réseaux de nivellement |
 
-Piézomètres |
+Falaise de la carrière de Merlebach |
 
-04131X0531/ VL2P |
+Sarre et Moselle |
 
-Alex Ouest |
+Freyming Merlebach |
 
-Pulversheim |
+Carrière de Merlebach |
 
-Marie-Louise |
+Réseaux de nivellement |
 
-Piézomètres |
+Chemin des Douaniers |
 
-04131X0532/ VL2S |
+De Wendel H |
 
-Alex Ouest |
+Forbach |
 
-Pulversheim |
+(vide) |
 
-Marie-Louise |
+Stations de captage et de compression de gaz de mine |
 
-Piézomètres |
+Marienau |
 
-04131X0533/ VL3P |
+De Wendel H |
 
-Alex Ouest |
+Forbach |
 
-Pulversheim |
+(vide) |
 
-Marie-Louise |
+Stations de captage et de compression de gaz de mine |
 
-Piézomètres |
+Simon |
 
-04131X0534/ VL3S |
+De Wendel H |
 
-Alex Ouest |
+Petite Rosselle |
 
-Ungersheim |
+(vide) |
 
-Alex-Rodolphe |
+Stations de captage et de compression de gaz de mine |
 
-Forage de dépollution |
+Saint Charles |
 
-04131X0389/ F |
+Sarre et Moselle |
 
-Alex Ouest |
+Saint Avold |
 
-Ungersheim |
+(vide) |
 
-Alex-Rodolphe |
+Stations de captage et de compression de gaz de mine |
 
-Forage de dépollution |
-
-04131X0409/ UNG/ B |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Forage de dépollution |
-
-04132X0394/ DEP |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04131X0389/ F |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04131X0409/ UNG/ B |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04131X0558/ ROD6 |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04132X0228/ P1 |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04132X0319/ PMC |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04132X0384/ PZ1FON |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04132X0385/ PZ2SUP |
-
-Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Piézomètres |
-
-04132X0394/ DEP |
-
-Alex Ouest |
-
-Ungersheim |
-
-Hors secteurs |
-
-Piézomètres |
-
-03786X0158/ PZ |
-
-Alex Ouest |
-
-Ungersheim |
-
-Marie-Louise |
-
-Piézomètres |
-
-04132X0185/ S |
+Peyerimhoff |
 
 Alex Ouest, Rodolphe Ouest, Amélie, Max, Marie-Louise, Ruelisheim, Anna, Anna I, Marie, Prince Eugène, Prince Eugène I, Zollhaus, Théodore et hors concessions |
 
@@ -1347,6 +1135,36 @@ Ungersheim, Wittelsheim, Wittenheim, Staffelfelden, Pulversheim, Ruelisheim, Fel
 Canalisations |
 
 Saumoduc (Réseaux d'évacuation des eaux saléees) |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Forage de dépollution |
+
+04131X0389/ F |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Forage de dépollution |
+
+04131X0409/ UNG/ B |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Forage de dépollution |
+
+04132X0394/ DEP |
 
 Amélie |
 
@@ -1477,6 +1295,376 @@ Amélie |
 Forage de dépollution |
 
 04131X0560/ VA11 |
+
+Fernand |
+
+Wittenheim |
+
+Fernand |
+
+Forage de dépollution |
+
+04132X0291/ F |
+
+Fernand |
+
+Wittenheim |
+
+Fernand |
+
+Forage de dépollution |
+
+04132X0399/ F |
+
+Fernand |
+
+Wittenheim |
+
+Fernand |
+
+Forage de dépollution |
+
+04132X0419/ DEP |
+
+Fernand |
+
+Wittenheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0303/1002 |
+
+Fernand |
+
+Wittenheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0331/ EUG/ B2 |
+
+Marie-Louise |
+
+Pulversheim |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0144/ P4 |
+
+Marie-Louise |
+
+Pulversheim |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0514/ ML3 |
+
+Marie-Louise |
+
+Staffelfelden |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0141/ P1 |
+
+Marie-Louise |
+
+Staffelfelden |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0142/ P2 |
+
+Marie-Louise |
+
+Staffelfelden |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0143/ P3 |
+
+Marie-Louise |
+
+Staffelfelden |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0512/ ML1 |
+
+Marie-Louise |
+
+Staffelfelden |
+
+Marie-Louise |
+
+Forage de dépollution |
+
+04131X0513/ ML2 |
+
+Max |
+
+Pfastatt |
+
+Joseph-Else |
+
+Forage de dépollution |
+
+04135X0212/ VJ1 |
+
+Max |
+
+Wittelsheim |
+
+Joseph-Else |
+
+Forage de dépollution |
+
+04135X0213/ VJ2 |
+
+Rodolphe Est |
+
+Ensisheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0393/ P2 |
+
+Rodolphe Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Forage de dépollution |
+
+04131X0444/ P2 |
+
+Ruelisheim |
+
+Ruelisheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0075/ F2VT |
+
+Ruelisheim |
+
+Ruelisheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0383/ DEP |
+
+Zollhaus |
+
+Ensisheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0397/ P4 |
+
+Zollhaus |
+
+Ensisheim |
+
+Théodore-Eugène |
+
+Forage de dépollution |
+
+04132X0398/ P5 |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0141/ P1 |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0266/ PP4 |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0514/ ML3 |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0531/ VL2P |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0532/ VL2S |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0533/ VL3P |
+
+Alex Ouest |
+
+Pulversheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04131X0534/ VL3S |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04131X0389/ F |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04131X0409/ UNG/ B |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04131X0558/ ROD6 |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04132X0228/ P1 |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04132X0319/ PMC |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04132X0384/ PZ1FON |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04132X0385/ PZ2SUP |
+
+Alex Ouest |
+
+Ungersheim |
+
+Alex-Rodolphe |
+
+Piézomètres |
+
+04132X0394/ DEP |
+
+Alex Ouest |
+
+Ungersheim |
+
+Hors secteurs |
+
+Piézomètres |
+
+03786X0158/ PZ |
+
+Alex Ouest |
+
+Ungersheim |
+
+Marie-Louise |
+
+Piézomètres |
+
+04132X0185/ S |
 
 Amélie |
 
@@ -1812,7 +2000,7 @@ Amélie |
 
 Wittelsheim |
 
-Hors secteurs |
+Amélie |
 
 Piézomètres |
 
@@ -1822,7 +2010,7 @@ Amélie |
 
 Wittelsheim |
 
-Hors secteurs |
+Amélie |
 
 Piézomètres |
 
@@ -1832,21 +2020,11 @@ Amélie |
 
 Wittelsheim |
 
-Hors sceteurs |
+Amélie |
 
 Piézomètres |
 
 04131X0189/ P22 |
-
-Amélie |
-
-Wittelsheim |
-
-Amélie |
-
-Dépôt de minerai ou de résidus |
-
-Terril Amélie 2 |
 
 Amélie |
 
@@ -2202,61 +2380,271 @@ Fernand |
 
 Wittenheim |
 
-Fernand |
-
-Forage de dépollution |
-
-04132X0291/ F |
-
-Fernand |
-
-Wittenheim |
-
-Fernand |
-
-Forage de dépollution |
-
-04132X0399/ F |
-
-Fernand |
-
-Wittenheim |
-
-Fernand |
-
-Forage de dépollution |
-
-04132X0419/ DEP |
-
-Fernand |
-
-Wittenheim |
-
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0303/1002 |
-
-Fernand |
-
-Wittenheim |
-
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0331/ EUG/ B2 |
-
-Fernand |
-
-Wittenheim |
-
 Théodore-Eugène |
 
 Piézomètres |
 
 04132X0330/ THEOB1 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+03788X0032/ F |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0184/ F |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0185/ F |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0186/ S |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 204,995 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 205,503 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 206,025 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 206,510 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 207,060 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 207,570 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 208,080 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 208,570 |
+
+Hors concession |
+
+Blodelsheim |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 209,160 |
+
+Hors concession |
+
+Ensisheim |
+
+Saumoduc |
+
+Piézomètres |
+
+04133X1011/ G |
+
+Hors concession |
+
+Fessenheim |
+
+Hors secteurs |
+
+Piézomètres |
+
+03795X0110/ N3 |
+
+Hors concession |
+
+Munchhouse |
+
+Saumoduc |
+
+Piézomètres |
+
+04133X0060/ F |
+
+Hors concession |
+
+Munchhouse |
+
+Saumoduc |
+
+Piézomètres |
+
+04133X0066/ F |
+
+Hors concession |
+
+Munchhouse |
+
+Saumoduc |
+
+Piézomètres |
+
+04133X0067/ F |
+
+Hors concession |
+
+Munchhouse |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0181/ PZ1W |
+
+Hors concession |
+
+Munwiller |
+
+Hors secteurs |
+
+Piézomètres |
+
+03786X0087/ PMT |
+
+Hors concession |
+
+Reguisheim |
+
+Hors secteurs |
+
+Piézomètres |
+
+03786X0080/ PMT |
+
+Hors concession |
+
+Reguisheim |
+
+Saumoduc |
+
+Piézomètres |
+
+04133X0010/ F |
+
+Hors concession |
+
+Roggrnhouse |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0183/ F |
+
+Hors concession |
+
+Rumersheim-le-Haut |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0187/ S |
+
+Hors concession |
+
+Rumersheim-le-Haut |
+
+Saumoduc |
+
+Piézomètres |
+
+04134X0188/ S |
+
+Hors concession |
+
+Rumersheim-le-Haut |
+
+Saumoduc |
+
+Piézomètres |
+
+RG 204,480 |
 
 Marie |
 
@@ -2298,77 +2686,7 @@ Piézomètres |
 
 04132X1201/ PZ40M |
 
-Marie-Louise |
-
-Pulversheim |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0144/ P4 |
-
-Marie-Louise |
-
-Pulversheim |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0514/ ML3 |
-
-Marie-Louise |
-
-Staffelfelden |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0141/ P1 |
-
-Marie-Louise |
-
-Staffelfelden |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0142/ P2 |
-
-Marie-Louise |
-
-Staffelfelden |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0143/ P3 |
-
-Marie-Louise |
-
-Staffelfelden |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0512/ ML1 |
-
-Marie-Louise |
-
-Staffelfelden |
-
-Marie-Louise |
-
-Forage de dépollution |
-
-04131X0513/ ML2 |
-
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2378,7 +2696,7 @@ Piézomètres |
 
 04131X0142/ P2 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2388,7 +2706,7 @@ Piézomètres |
 
 04131X0143/ P3 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2398,7 +2716,7 @@ Piézomètres |
 
 04131X0144/ P4 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2408,7 +2726,7 @@ Piézomètres |
 
 04131X0512/ ML1 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2418,7 +2736,7 @@ Piézomètres |
 
 04131X0513/ ML2 |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2428,7 +2746,7 @@ Piézomètres |
 
 04131X0542/ VLSP |
 
-Marie-Louise |
+Marie Louise |
 
 Staffelfelden |
 
@@ -2437,16 +2755,6 @@ Marie-Louise |
 Piézomètres |
 
 04131X0543/ VLSS |
-
-Max |
-
-Pfastatt |
-
-Joseph-Else |
-
-Forage de dépollution |
-
-04135X0212/ VJ1 |
 
 Max |
 
@@ -2507,16 +2815,6 @@ Hors secteurs |
 Piézomètres |
 
 04135X0440/ PMT |
-
-Max |
-
-Wittelsheim |
-
-Joseph-Else |
-
-Forage de dépollution |
-
-04135X0213/ VJ2 |
 
 Max |
 
@@ -2728,16 +3026,6 @@ Piézomètres |
 
 04135X0404/ D |
 
-Max, Amélie et Else |
-
-Wittelsheim |
-
-Joseph-Else |
-
-Dépôt de minerai ou de résidus |
-
-Terril Joseph-Else Ouest |
-
 Prince Eugène |
 
 Ruelisheim |
@@ -2818,16 +3106,6 @@ Piézomètres |
 
 04132X0432/ PZ8 |
 
-Prince Eugène I et Prince Eugène |
-
-Wittenheim |
-
-Théodore-Eugène |
-
-Dépôt de minerai ou de résidus |
-
-Terril Eugène |
-
 Prince Eugène I |
 
 Wittenheim |
@@ -2857,16 +3135,6 @@ Théodore-Eugène |
 Piézomètres |
 
 04132X0426/ PZ2 |
-
-Rodolphe Est |
-
-Ensisheim |
-
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0393/ P2 |
 
 Rodolphe Est |
 
@@ -3008,16 +3276,6 @@ Piézomètres |
 
 04132X0377/ EO5 |
 
-Rodolphe Est |
-
-Ensisheim |
-
-Ensisheim |
-
-Dépôt de minerai ou de résidus |
-
-Terril Ensisheim Ouest |
-
 Rodolphe Ouest |
 
 Pulversheim |
@@ -3084,16 +3342,6 @@ Ungersheim |
 
 Alex-Rodolphe |
 
-Forage de dépollution |
-
-04131X0444/ P4 |
-
-Rodolphe Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
 Piézomètres |
 
 04131X0444/ P2 |
@@ -3148,16 +3396,6 @@ Piézomètres |
 
 04131X0140/ P4 |
 
-Rodolphe Ouest, Alex Ouest |
-
-Ungersheim |
-
-Alex-Rodolphe |
-
-Dépôt de minerai ou de résidus |
-
-Terril Rodolphe |
-
 Rodolphe XI |
 
 Ungersheim |
@@ -3177,26 +3415,6 @@ Hors secteurs |
 Piézomètres |
 
 03786X0117/ S |
-
-Ruelisheim |
-
-Ruelisheim |
-
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0075/ F2VT |
-
-Ruelisheim |
-
-Ruelisheim |
-
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0383/ DEP |
 
 Ruelisheim |
 
@@ -3392,26 +3610,6 @@ Zollhaus |
 
 Ensisheim |
 
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0397/ P4 |
-
-Zollhaus |
-
-Ensisheim |
-
-Théodore-Eugène |
-
-Forage de dépollution |
-
-04132X0398/ P5 |
-
-Zollhaus |
-
-Ensisheim |
-
 Ensisheim |
 
 Piézomètres |
@@ -3528,275 +3726,55 @@ Piézomètres |
 
 04132X0403/ ENS1 |
 
-Hors concession |
+Amélie |
 
-Blodelsheim |
+Wittelsheim |
 
-Saumoduc |
+Amélie |
 
-Piézomètres |
+Dépôt de minerai ou de résidus |
 
-03788X0032/ F |
+Terril Amélie 2 |
 
-Hors concession |
+Max, Amélie et Else |
 
-Blodelsheim |
+Wittelsheim |
 
-Saumoduc |
+Joseph-Else |
 
-Piézomètres |
+Dépôt de minerai ou de résidus |
 
-04134X0184/ F |
+Terril Joseph-Else Ouest |
 
-Hors concession |
+Prince Eugène 1 et Prince Eugène |
 
-Blodelsheim |
+Wittenheim |
 
-Saumoduc |
+Théodore-Eugène |
 
-Piézomètres |
+Dépôt de minerai ou de résidus |
 
-04134X0185/ F |
+Terril Eugène |
 
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-04134X0186/ S |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 204,995 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 205,503 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 206,025 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 206,510 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 207,060 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 207,570 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 208,080 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 208,570 |
-
-Hors concession |
-
-Blodelsheim |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 209,160 |
-
-Hors concession |
-
-Cernay |
-
-Hors secteurs |
-
-Piézomètres |
-
-04124X0154/ F |
-
-Hors concession |
+Rodolphe Est |
 
 Ensisheim |
 
-Saumoduc |
+Ensisheim |
 
-Piézomètres |
+Dépôt de minerai ou de résidus |
 
-04133X1011/ G |
+Terril Ensisheim Ouest |
 
-Hors concession |
+Rodolphe Ouest, Alex Ouest |
 
-Fessenheim |
+Ungersheim |
 
-Hors secteurs |
+Alex-Rodolphe |
 
-Piézomètres |
+Dépôt de minerai ou de résidus |
 
-03795X0110/ N3 |
-
-Hors concession |
-
-Munchhouse |
-
-Saumoduc |
-
-Piézomètres |
-
-04133X0060/ F |
-
-Hors concession |
-
-Munchhouse |
-
-Saumoduc |
-
-Piézomètres |
-
-04133X0066/ F |
-
-Hors concession |
-
-Munchhouse |
-
-Saumoduc |
-
-Piézomètres |
-
-04133X0067/ F |
-
-Hors concession |
-
-Munchhouse |
-
-Saumoduc |
-
-Piézomètres |
-
-04134X0181/ PZ1W |
-
-Hors concession |
-
-Munwiller |
-
-Hors secteurs |
-
-Piézomètres |
-
-03786X0087/ PMT |
-
-Hors concession |
-
-Reguisheim |
-
-Hors secteurs |
-
-Piézomètres |
-
-03786X0080/ PMT |
-
-Hors concession |
-
-Reguisheim |
-
-Saumoduc |
-
-Piézomètres |
-
-04133X0010/ F |
-
-Hors concession |
-
-Roggrnhouse |
-
-Saumoduc |
-
-Piézomètres |
-
-04134X0183/ F |
-
-Hors concession |
-
-Rumersheim-le-Haut |
-
-Saumoduc |
-
-Piézomètres |
-
-04134X0187/ S |
-
-Hors concession |
-
-Rumersheim-le-Haut |
-
-Saumoduc |
-
-Piézomètres |
-
-04134X0188/ S |
-
-Hors concession |
-
-Rumersheim-le-Haut |
-
-Saumoduc |
-
-Piézomètres |
-
-RG 204,480 |
+Terril Rodolphe |
 
 Bassin minier Nord |
 
@@ -4190,66 +4168,6 @@ Piézomètres |
 
 PZS9 |
 
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Prélèvements d'eaux de surface |
-
-Naville amont |
-
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Prélèvements d'eaux de surface |
-
-Naville aval |
-
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Prélèvements d'eaux de surface |
-
-Sédiments Naville aval |
-
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Prélèvements d'eaux de surface |
-
-Sédiments Naville droit |
-
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Confinement |
-
-Confinement Lourches zone 1 |
-
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Confinement |
-
-Confinement Lourches zone 2 |
-
 Dourges |
 
 Dourges |
@@ -4352,26 +4270,6 @@ PZS2 |
 
 Dourges |
 
-Evin Malmaison |
-
-Terril 113 |
-
-Prélèvements d'eaux de surface |
-
-Fossé Ouest |
-
-Dourges |
-
-Evin Malmaison |
-
-Terril 113 |
-
-Prélèvements d'eaux de surface |
-
-Rejet drainage |
-
-Dourges |
-
 Hénin Beaumont |
 
 Friche Sainte Henriette |
@@ -4419,36 +4317,6 @@ Lavoir du 10 d'Oignies |
 Piézomètres |
 
 PZC5 |
-
-Dourges |
-
-Oignies |
-
-Lavoir du 10 d'Oignies |
-
-Confinement |
-
-Confinement zone Marais de Chaix Oignies |
-
-Dourges |
-
-Oignies |
-
-Lavoir du 10 d'Oignies |
-
-Confinement |
-
-Confinement zones 2.1 et 2.2 Oignies |
-
-Dourges |
-
-Oignies |
-
-Lavoir du 10 d'Oignies |
-
-Confinement |
-
-Confinement zones 5.1,5.2,5.3 Oignies |
 
 Drocourt |
 
@@ -4612,46 +4480,6 @@ PZC75 |
 
 Grenay |
 
-Mazingarbe |
-
-Cokerie de Mazingarbe |
-
-Confinement |
-
-Confinement Est Mazingarbe |
-
-Grenay |
-
-Mazingarbe |
-
-Cokerie de Mazingarbe |
-
-Confinement |
-
-Confinement Nord Mazingarbe |
-
-Grenay |
-
-Noyelles lès Vermelles |
-
-Cokerie de Mazingarbe |
-
-Piézomètres |
-
-Forage Fontaine de Bray |
-
-Grenay |
-
-Noyelles lès Vermelles |
-
-Cokerie de Mazingarbe |
-
-Piézomètres |
-
-PZC293 |
-
-Grenay |
-
 Vermelles |
 
 Cokerie de Mazingarbe |
@@ -4690,15 +4518,125 @@ Piézomètres |
 
 PZC5 |
 
-Lens |
+Grenay |
 
-Loos en Gohelle |
+Noyelles lès Vermelles |
 
-Terril 74A de Loos en Gohelle |
+Cokerie de Mazingarbe |
 
-Confinement |
+Piézomètres |
 
-Confinement zone 2 T74A Loos |
+Forage Fontaine de Bray |
+
+Grenay |
+
+Noyelles lès Vermelles |
+
+Cokerie de Mazingarbe |
+
+Piézomètres |
+
+PZC293 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+Forage Air Liquide |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZC5 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZC8 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZS1 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZS2 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZS3 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZS4 |
+
+Hors concession |
+
+Chocques |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZS6 |
+
+Hors concession |
+
+Labeuvrière |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+Forage ICI |
+
+Hors concession |
+
+Labeuvrière |
+
+Cokerie de Chocques |
+
+Piézomètres |
+
+PZS7 |
 
 Lens |
 
@@ -4780,36 +4718,6 @@ Piézomètres |
 
 PZC7 |
 
-Lens |
-
-Vendin le Vieil |
-
-Cokerie de Vendin le Vieil |
-
-Confinement |
-
-Sarcophage Vendin |
-
-Lens |
-
-Vendin le Vieil |
-
-Cokerie de Vendin le Vieil |
-
-Confinement |
-
-Confinement cokerie Vendin |
-
-Lens |
-
-Vendin le Vieil |
-
-Gare d'eau de Vendin le Vieil |
-
-Confinement |
-
-Confinement gare d'eau Vendin |
-
 L'Escarpelle |
 
 Auby |
@@ -4882,26 +4790,6 @@ PZS7 |
 
 L'Escarpelle |
 
-Auby |
-
-Cokerie d'Auby |
-
-Prélèvements d'eaux de surface |
-
-Vieille rivière aval |
-
-L'Escarpelle |
-
-Auby |
-
-Cokerie d'Auby |
-
-Prélèvements d'eaux de surface |
-
-Vieille rivière amont |
-
-L'Escarpelle |
-
 Douai |
 
 Usine d'agglomération Anthracine |
@@ -4969,16 +4857,6 @@ Cokerie de Liévin |
 Piézomètres |
 
 PZC4 |
-
-Liévin |
-
-Liévin |
-
-Cokerie de Liévin |
-
-Confinement |
-
-Confinement zone PP1 Liévin |
 
 Noeux |
 
@@ -5250,85 +5128,65 @@ Piézomètres |
 
 PZS14 |
 
-Hors concession |
+Douchy |
 
-Chocques |
+Lourches |
 
-Cokerie de Chocques |
+Cokerie de Lourches |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-Forage Air Liquide |
+Naville amont |
 
-Hors concession |
+Douchy |
 
-Chocques |
+Lourches |
 
-Cokerie de Chocques |
+Cokerie de Lourches |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-PZC5 |
+Naville aval |
 
-Hors concession |
+Douchy |
 
-Chocques |
+Lourches |
 
-Cokerie de Chocques |
+Cokerie de Lourches |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-PZC8 |
+Sédiments Naville aval |
 
-Hors concession |
+Douchy |
 
-Chocques |
+Lourches |
 
-Cokerie de Chocques |
+Cokerie de Lourches |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-PZS1 |
+Sédiments Naville droit |
 
-Hors concession |
+Dourges |
 
-Chocques |
+Evin Malmaison |
 
-Cokerie de Chocques |
+Terril 113 |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-PZS2 |
+Fossé Ouest |
 
-Hors concession |
+Dourges |
 
-Chocques |
+Evin Malmaison |
 
-Cokerie de Chocques |
+Terril 113 |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-PZS3 |
-
-Hors concession |
-
-Chocques |
-
-Cokerie de Chocques |
-
-Piézomètres |
-
-PZS4 |
-
-Hors concession |
-
-Chocques |
-
-Cokerie de Chocques |
-
-Piézomètres |
-
-PZS6 |
+Rejet drainage |
 
 Hors concession |
 
@@ -5338,7 +5196,7 @@ Cokerie de Chocques |
 
 Prélèvements d'eaux de surface |
 
-Calonette amont |
+Clarence amont |
 
 Hors concession |
 
@@ -5396,29 +5254,149 @@ Labeuvrière |
 
 Cokerie de Chocques |
 
-Piézomètres |
+Prélèvements d'eaux de surface |
 
-Forage ICI |
+Calonette amont |
 
-Hors concession |
+L'Escarpelle |
 
-Labeuvrière |
+Auby |
 
-Cokerie de Chocques |
-
-Piézomètres |
-
-PZS7 |
-
-Hors concession |
-
-Labeuvrière |
-
-Cokerie de Chocques |
+Cokerie d'Auby |
 
 Prélèvements d'eaux de surface |
 
-Clarence amont |
+Vieille rivière aval |
+
+L'Escarpelle |
+
+Auby |
+
+Cokerie d'Auby |
+
+Prélèvements d'eaux de surface |
+
+Vieille rivière amont |
+
+Douchy |
+
+Lourches |
+
+Cokerie de Lourches |
+
+Confinement |
+
+Confinement Lourches zone 1 |
+
+Douchy |
+
+Lourches |
+
+Cokerie de Lourches |
+
+Confinement |
+
+Confinement Lourches zone 2 |
+
+Dourges |
+
+Oignies |
+
+Lavoir du 10 d'Oignies |
+
+Confinement |
+
+Confinement zone Marais de Chaix Oignies |
+
+Dourges |
+
+Oignies |
+
+Lavoir du 10 d'Oignies |
+
+Confinement |
+
+Confinement zones 2.1 et 2.2 Oignies |
+
+Dourges |
+
+Oignies |
+
+Lavoir du 10 d'Oignies |
+
+Confinement |
+
+Confinement zones 5.1,5.2,5.3 Oignies |
+
+Grenay |
+
+Mazingarbe |
+
+Cokerie de Mazingarbe |
+
+Confinement |
+
+Confinement Est Mazingarbe |
+
+Grenay |
+
+Mazingarbe |
+
+Cokerie de Mazingarbe |
+
+Confinement |
+
+Confinement Nord Mazingarbe |
+
+Lens |
+
+Loos en Gohelle |
+
+Terril 74A de Loos en Gohelle |
+
+Confinement |
+
+Confinement zone 2 T74A Loos |
+
+Lens |
+
+Vendin le Vieil |
+
+Cokerie de Vendin le Vieil |
+
+Confinement |
+
+Sarcophage Vendin |
+
+Lens |
+
+Vendin le Vieil |
+
+Cokerie de Vendin le Vieil |
+
+Confinement |
+
+Confinement cokerie Vendin |
+
+Lens |
+
+Vendin le Vieil |
+
+Gare d'eau de Vendin le Vieil |
+
+Confinement |
+
+Confinement gare d'eau Vendin |
+
+Liévin |
+
+Liévin |
+
+Cokerie de Liévin |
+
+Confinement |
+
+Confinement zone PP1 Liévin |
 
 Bassin minier Sud |
 
@@ -5432,235 +5410,95 @@ Nature de l'installation |
 
 Nom de l'installation |
 
-Lastours |
-
-Lastours |
-
-Amont Lastours |
-
-Prélèvements d'eaux de surface |
-
-Orbiel amont confluence du Grésillou |
-
-Lastours |
-
-Lastours |
-
-Aval Lastours |
-
-Prélèvements d'eaux de surface |
-
-Orbiel aval confluence du Grésillou |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Eaux Jonche amont étang |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Eaux Jonche aval |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Pz Amont |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Pz Aval Etang |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Pz Puits Charvet |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Sédiments Jonche amont étang |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Sédiments Jonche aval |
-
-Marais de la Mure |
-
-Susville |
-
-Site des anciennes centrales thermiques |
-
-Zones au sol pollué |
-
-Pz Etang |
-
-Roche la Molière & Firminy |
-
-Roche la Molière |
-
-Cote Gravelle |
-
-Dépôt de résidus |
-
-Côte Gravelle |
+Hors concession |
 
 Salsigne |
 
+Montredon |
+
+Cellule de pression |
+
+Cellule de pression A |
+
+Hors concession |
+
 Salsigne |
 
-Malabau |
+Montredon |
 
-Dépôt de résidus |
+Cellule de pression |
 
-Malabau |
-
-Villanière |
-
-Les Ilhes |
-
-Amont village des Ilhes |
-
-Prélèvements d'eaux de surface |
-
-Orbiel amont village des Ilhes |
-
-Villanière |
-
-Villanière |
-
-Nartau |
-
-Prélèvements d'eaux de surface |
-
-Grésillou amont Nartau |
-
-Villanière |
-
-Villanière |
-
-Ramelle |
-
-Prélèvements d'eaux de surface |
-
-Grésillou aval Ramelle |
-
-Villanière |
-
-Villanière |
-
-Nartau et Ramelle |
-
-Prélèvements d'eaux de surface |
-
-Grésillou entre Nartau et Ramelle |
-
-Villanière |
-
-Villanière |
-
-Nartau |
-
-Dépôt de résidus |
-
-Nartau |
-
-Villanière |
-
-Villanière |
-
-Ramelle |
-
-Dépôt de résidus |
-
-Ramelle |
+Cellule de pression C |
 
 Hors concession |
 
-Conques sur Orbiel |
+Salsigne |
 
-La Combe du Saut |
+Montredon |
 
-Piézomètres |
+Cellule de pression |
 
-PB1 |
-
-Hors concession |
-
-Conques sur Orbiel |
-
-La Combe du Saut |
-
-Piézomètres |
-
-PB2 |
+Cellule de pression E 1 |
 
 Hors concession |
 
-Conques sur Orbiel |
+Salsigne |
 
-La Combe du Saut |
+Montredon |
 
-Piézomètres |
+Cellule de pression |
 
-PB3 |
-
-Hors concession |
-
-Conques sur Orbiel |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Orbiel Conques |
+Cellule de pression E 2 |
 
 Hors concession |
 
-Conques sur Orbiel |
+Salsigne |
 
-La Combe du Saut |
+Montredon |
 
-Prélèvements d'eaux de surface |
+Cellule de pression |
 
-Orbiel Vic la Vernède |
+Cellule de pression SC 01 |
+
+Hors concession |
+
+Salsigne |
+
+Montredon |
+
+Cellule de pression |
+
+Cellule de pression SC 03 |
+
+Hors concession |
+
+Lastours |
+
+Montredon |
+
+Inclinomètre |
+
+IC7 |
+
+Hors concession |
+
+Salsigne |
+
+Montredon |
+
+Inclinomètre |
+
+Inclinomètre IC5 |
+
+Hors concession |
+
+Salsigne |
+
+Montredon |
+
+Inclinomètre |
+
+Inclinomètre IC6 |
 
 Hors concession |
 
@@ -5691,16 +5529,6 @@ Plage de la Caunette |
 Piézomètres |
 
 Pz 7 |
-
-Hors concession |
-
-Lastours |
-
-Plage de la Caunette |
-
-Dépôt de résidus |
-
-Plage de la Caunette |
 
 Hors concession |
 
@@ -5866,141 +5694,21 @@ Hors concession |
 
 Limousis |
 
-Artus |
+Montredon |
 
-Prélèvements d'eaux de surface |
+Piézomètres |
 
-Drains et penstocks |
-
-Hors concession |
-
-Limousis |
-
-Artus |
-
-Prélèvements d'eaux de surface |
-
-Fossé Nord |
+PZ19-01 |
 
 Hors concession |
 
-Limousis |
+Salsigne |
 
-Artus |
+Montredon |
 
-Prélèvements d'eaux de surface |
+Piézomètres |
 
-Fossé Sud |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Drain B 1 |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Drain B 2 |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Drain de confinement D1 |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Lagune d'infiltration |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Mare B 2 |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Orbiel Gué Lassac |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Orbiel Pont de Limousis |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Point V |
-
-Hors concession |
-
-Limousis |
-
-La Combe du Saut |
-
-Prélèvements d'eaux de surface |
-
-Source Arsine |
-
-Hors concession |
-
-Limousis |
-
-(vide) |
-
-Stations de traitement des eaux |
-
-Station de traitement des eaux arseniées |
-
-Hors concession |
-
-Limousis |
-
-Artus |
-
-Dépôt de résidus |
-
-Artus |
+PZ19-02 |
 
 Hors concession |
 
@@ -6164,6 +5872,216 @@ PZ 09-03 |
 
 Hors concession |
 
+Conques sur Orbiel |
+
+La Combe du Saut |
+
+Piézomètres |
+
+PB1 |
+
+Hors concession |
+
+Conques sur Orbiel |
+
+La Combe du Saut |
+
+Piézomètres |
+
+PB2 |
+
+Hors concession |
+
+Conques sur Orbiel |
+
+La Combe du Saut |
+
+Piézomètres |
+
+PB3 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+B1 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+B2 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+B3 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+B4 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+B5 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+B6 |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Drains et penstocks |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Fossé Nord |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Prélèvements d'eaux de surface |
+
+Fossé Sud |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Drain B 1 |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Drain B 2 |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Drain de confinement D1 |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Lagune d'infiltration |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Mare B 2 |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Orbiel Gué Lassac |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Orbiel Pont de Limousis |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Point V |
+
+Hors concession |
+
+Limousis |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Source Arsine |
+
+Hors concession |
+
 Salsigne |
 
 Montredon |
@@ -6184,13 +6102,123 @@ RM 2 |
 
 Hors concession |
 
+Conques sur Orbiel |
+
+Ru sec amont confluence Orbiel |
+
+Prélèvements d'eaux de surface |
+
+Ru Sec amont Orbiel |
+
+Hors concession |
+
+Conques sur Orbiel |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Orbiel Conques |
+
+Hors concession |
+
+Conques sur Orbiel |
+
+La Combe du Saut |
+
+Prélèvements d'eaux de surface |
+
+Orbiel Vic la Vernède |
+
+Lastours |
+
+Lastours |
+
+Amont Lastours |
+
+Prélèvements d'eaux de surface |
+
+Orbiel amont confluence du Grésillou |
+
+Lastours |
+
+Lastours |
+
+Aval Lastours |
+
+Prélèvements d'eaux de surface |
+
+Orbiel aval confluence du Grésillou |
+
+Villanière |
+
+Villanière |
+
+Nartau |
+
+Prélèvements d'eaux de surface |
+
+Grésillou amont Nartau |
+
+Villanière |
+
+Villanière |
+
+Ramelle |
+
+Prélèvements d'eaux de surface |
+
+Grésillou aval Ramelle |
+
+Villanière |
+
+Villanière |
+
+Nartau et Ramelle |
+
+Prélèvements d'eaux de surface |
+
+Grésillou entre Nartau et Ramelle |
+
+Villanière |
+
+Les Ilhes |
+
+Amont village des Ilhes |
+
+Prélèvements d'eaux de surface |
+
+Orbiel amont village des Ilhes |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Réseaux de nivellement |
+
+Bassin de l'Artus |
+
+Hors concession |
+
 Salsigne |
 
 Montredon |
 
-Dépôt de résidus |
+Réseaux de nivellement |
 
-Montredon |
+Bassin de Montredon |
+
+Hors concession |
+
+Limousis |
+
+(vide) |
+
+Stations de traitement des eaux |
+
+Station de traitement des eaux arseniées |
 
 Hors concession |
 
@@ -6212,6 +6240,156 @@ Zones au sol pollué |
 
 Sédiments Jonche amont |
 
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Eaux Jonche amont étang |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Eaux Jonche aval |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Pz Amont |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Pz Aval Etang |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Pz Puits Charvet |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Sédiments Jonche amont étang |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Sédiments Jonche aval |
+
+Marais de la Mure |
+
+Susville |
+
+Site des anciennes centrales thermiques |
+
+Zones au sol pollué |
+
+Pz Etang |
+
+Hors concession |
+
+Lastours |
+
+Plage de la Caunette |
+
+Dépôt de résidus |
+
+Plage de la Caunette |
+
+Hors concession |
+
+Limousis |
+
+Artus |
+
+Dépôt de résidus |
+
+Artus |
+
+Hors concession |
+
+Salsigne |
+
+Montredon |
+
+Dépôt de résidus |
+
+Montredon |
+
+Hors concession |
+
+Salsigne |
+
+Atelier |
+
+Dépôt de résidus |
+
+Verse de l'Atelier |
+
+Salsigne |
+
+Salsigne |
+
+Malabau |
+
+Dépôt de résidus |
+
+Malabau |
+
+Villanière |
+
+Villanière |
+
+Nartau |
+
+Dépôt de résidus |
+
+Nartau |
+
+Villanière |
+
+Villanière |
+
+Ramelle |
+
+Dépôt de résidus |
+
+Ramelle |
+
 Hors concession |
 
 Viviez |
@@ -6221,3 +6399,13 @@ Joany |
 Dépôt de résidus |
 
 Joany |
+
+Roche la Molière & Firminy |
+
+Roche la Molière |
+
+Cote Gravelle |
+
+Dépôt de résidus |
+
+Côte Gravelle |

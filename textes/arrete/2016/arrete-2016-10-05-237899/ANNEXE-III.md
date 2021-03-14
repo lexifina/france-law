@@ -1,6 +1,6 @@
 # Article ANNEXE III
 
-INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2020
+INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2021
 
 Bassin minier Centre Ouest |
 
@@ -13,36 +13,6 @@ Site |
 Nature de l'installation |
 
 Nom de l'installation |
-
-Barbecot |
-
-Chapdes Beaufort |
-
-Barbecot |
-
-Piézomètres |
-
-BBT1 |
-
-Barbecot |
-
-Chapdes Beaufort |
-
-Barbecot |
-
-Piézomètres |
-
-BBT2 |
-
-Barbecot |
-
-Chapdes Beaufort |
-
-Barbecot |
-
-Dépôt de minerai ou de résidus |
-
-Mur de Barbecot |
 
 Barbery |
 
@@ -64,85 +34,175 @@ Cavités |
 
 GER7 |
 
-Barbery |
+La Ferrière aux Etangs |
 
-Saint Germain le Vasson |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Saint Germain le Vasson |
-
-Blanzy Montceau |
-
-Blanzy |
+La Ferrière aux Etangs |
 
 (vide) |
 
-Têtes de puits non matérialisées |
+Cavités |
 
-Blanzy 3 |
+3005 |
 
-Blanzy Montceau |
+La Ferrière aux Etangs |
 
-Blanzy |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Harmet ou puits Neuf |
-
-Blanzy Montceau |
-
-Blanzy |
+La Ferrière aux Etangs |
 
 (vide) |
 
-Têtes de puits non matérialisées |
+Cavités |
 
-St Claude ou Blanzy 4 |
+5SD1 |
 
-Blanzy Montceau |
+La Ferrière aux Etangs |
 
-Ciry le Noble |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Porrot 3 |
-
-Blanzy Montceau |
-
-Sanvignes les Mines |
+La Ferrière aux Etangs |
 
 (vide) |
 
-Têtes de puits non matérialisées |
+Cavités |
 
-Charme 2 Ouest |
+7SD2 |
 
-Blanzy Montceau |
+La Ferrière aux Etangs |
 
-Sanvignes les Mines |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Louvot 3 |
-
-Bully |
-
-Feuguerolles Bully |
+La Ferrière aux Etangs |
 
 (vide) |
 
-Réseaux de nivellement |
+Cavités |
 
-Feuguerolles Bully |
+7SD3 |
+
+May sur Orne |
+
+Fontenay le Marmion |
+
+(vide) |
+
+Cavités |
+
+Circuit Flanc Sud Puits D15 |
+
+May sur Orne |
+
+Fontenay le Marmion |
+
+(vide) |
+
+Cavités |
+
+Sondage D20 bis |
+
+May sur Orne |
+
+Fontenay le Marmion-May sur Orne |
+
+(vide) |
+
+Cavités |
+
+Circuit Flanc Sud Orne |
+
+May sur Orne |
+
+May sur Orne |
+
+(vide) |
+
+Cavités |
+
+Sondage D03 bis |
+
+Saint André sur Orne |
+
+Saint André sur Orne-Saint Martin de Fontenay |
+
+(vide) |
+
+Cavités |
+
+Circuit Flanc Nord Orne |
+
+Saint André sur Orne |
+
+Fontenay le Marmion |
+
+(vide) |
+
+Cavités |
+
+Sondage D43 |
+
+Saint André sur Orne |
+
+Saint Martin de Fontenay |
+
+(vide) |
+
+Cavités |
+
+D41 bis |
+
+Saint André sur Orne |
+
+Saint Martin de Fontenay |
+
+(vide) |
+
+Cavités |
+
+Circuit Flanc Nord Puits D27 |
+
+Saint André sur Orne |
+
+Saint Martin de Fontenay |
+
+(vide) |
+
+Cavités |
+
+C06 bis |
+
+Saint Rémy sur Orne |
+
+Saint Rémy |
+
+(vide) |
+
+Cavités |
+
+Travers Banc de l'Orne |
+
+Saint Rémy sur Orne |
+
+Saint Rémy |
+
+(vide) |
+
+Cavités |
+
+SR12 |
+
+Soumont |
+
+Soumont Saint Quentin |
+
+(vide) |
+
+Cavités |
+
+SOU3 |
+
+Urville |
+
+Urville |
+
+(vide) |
+
+Cavités |
+
+URV9 |
 
 Chaze Henry |
 
@@ -163,6 +223,126 @@ Chaze Henry |
 Cavités |
 
 Forage Mazuraie 2 |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+S 152 |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+S 173 |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+32b |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+175b |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+2020-01 |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+2020-01a |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+2020-03 |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+2020-06 |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+2020-07a |
+
+AHUN |
+
+Lavaveix Les Mines |
+
+(vide) |
+
+Cavités |
+
+2020-08 |
+
+Barbecot |
+
+Chapdes Beaufort |
+
+Barbecot |
+
+Piézomètres |
+
+BBT1 |
+
+Barbecot |
+
+Chapdes Beaufort |
+
+Barbecot |
+
+Piézomètres |
+
+BBT2 |
 
 Gargenville |
 
@@ -203,16 +383,6 @@ SUEZ Eau France |
 Piézomètres |
 
 A8 |
-
-Gargenville |
-
-Gargenville, Issou, Porcheville |
-
-Dépôt TOTAL, Domaine Public |
-
-Réseaux de nivellement |
-
-Nivel |
 
 Gargenville |
 
@@ -294,45 +464,25 @@ Piézomètres |
 
 VPL |
 
-La Ferrière aux Etangs |
+Barbery |
 
-La Ferrière aux Etangs |
-
-(vide) |
-
-Cavités |
-
-3005 |
-
-La Ferrière aux Etangs |
-
-La Ferrière aux Etangs |
+Saint Germain le Vasson |
 
 (vide) |
 
-Cavités |
+Réseaux de nivellement |
 
-5SD1 |
+Saint Germain le Vasson |
 
-La Ferrière aux Etangs |
+Bully |
 
-La Ferrière aux Etangs |
-
-(vide) |
-
-Cavités |
-
-7SD2 |
-
-La Ferrière aux Etangs |
-
-La Ferrière aux Etangs |
+Feuguerolles Bully |
 
 (vide) |
 
-Cavités |
+Réseaux de nivellement |
 
-7SD3 |
+Feuguerolles Bully |
 
 La Ferrière aux Etangs |
 
@@ -343,66 +493,6 @@ La Ferrière aux Etangs |
 Réseaux de nivellement |
 
 La Ferrière aux Etangs |
-
-Le Périmètre de l'Aumance |
-
-Buxières les Mines |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Saint Martin |
-
-l'Huisserie |
-
-l'Huisserie |
-
-(vide) |
-
-Réseaux de nivellement |
-
-La Mine |
-
-l'Huisserie |
-
-l'Huisserie |
-
-(vide) |
-
-Réseaux de nivellement |
-
-La Moësière |
-
-l'Huisserie |
-
-l'Huisserie |
-
-(vide) |
-
-Réseaux de nivellement |
-
-L'Angerie |
-
-May sur Orne |
-
-Fontenay le Marmion |
-
-(vide) |
-
-Cavités |
-
-Circuit Flanc Sud Puits D15 |
-
-May sur Orne |
-
-Fontenay le Marmion |
-
-(vide) |
-
-Cavités |
-
-Sondage D20 bis |
 
 May sur Orne |
 
@@ -423,26 +513,6 @@ Fontenay le Marmion |
 Réseaux de nivellement |
 
 Fontenay le Marmion |
-
-May sur Orne |
-
-Fontenay le Marmion-May sur Orne |
-
-(vide) |
-
-Cavités |
-
-Circuit Flanc Sud Orne |
-
-May sur Orne |
-
-May sur Orne |
-
-(vide) |
-
-Cavités |
-
-Sondage D03 bis |
 
 May sur Orne |
 
@@ -484,86 +554,6 @@ Réseaux de nivellement |
 
 May sur Orne Est |
 
-Saint André sur Orne |
-
-Fontenay le Marmion |
-
-(vide) |
-
-Cavités |
-
-Sondage D43 |
-
-Saint André sur Orne |
-
-Saint André sur Orne-Saint Martin de Fontenay |
-
-(vide) |
-
-Cavités |
-
-Circuit Flanc Nord Orne |
-
-Saint André sur Orne |
-
-Saint Martin de Fontenay |
-
-(vide) |
-
-Cavités |
-
-D41 bis |
-
-Saint André sur Orne |
-
-Saint Martin de Fontenay |
-
-(vide) |
-
-Cavités |
-
-Circuit Flanc Nord Puits D27 |
-
-Saint André sur Orne |
-
-Saint Martin de Fontenay |
-
-(vide) |
-
-Cavités |
-
-C06 bis |
-
-Saint Rémy sur Orne |
-
-Saint Rémy |
-
-(vide) |
-
-Cavités |
-
-Travers Banc de l'Orne |
-
-Saint Rémy sur Orne |
-
-Saint Rémy |
-
-(vide) |
-
-Cavités |
-
-SR12 |
-
-Soumont |
-
-Soumont Saint Quentin |
-
-(vide) |
-
-Cavités |
-
-SOU3 |
-
 Soumont |
 
 Soumont Saint Quentin |
@@ -594,15 +584,65 @@ Réseaux de nivellement |
 
 Saint Quentin |
 
-Urville |
+Gargenville |
 
-Urville |
+Gargenville, Issou, Porcheville |
+
+Dépôt TOTAL, Domaine Public |
+
+Réseaux de nivellement |
+
+Nivel |
+
+l'Huisserie |
+
+l'Huisserie |
 
 (vide) |
 
-Cavités |
+Réseaux de nivellement |
 
-URV9 |
+La Mine |
+
+l'Huisserie |
+
+l'Huisserie |
+
+(vide) |
+
+Réseaux de nivellement |
+
+La Moësière |
+
+l'Huisserie |
+
+l'Huisserie |
+
+(vide) |
+
+Réseaux de nivellement |
+
+L'Angerie |
+
+Barbecot |
+
+Chapdes Beaufort |
+
+Barbecot |
+
+Dépôt de minerai ou de résidus |
+
+Mur de Barbecot |
+
+Le Périmètre de l'Aumance |
+
+Buxières les Mines |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Saint Martin |
 
 Bassin minier Est |
 
@@ -616,106 +656,6 @@ Nature de l'installation |
 
 Nom de l'installation |
 
-Amermont Dommary |
-
-Bouligny |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Bouligny Cité Saint Pierre |
-
-Amermont Dommary |
-
-Bouligny |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Bouligny village |
-
-Anderny Chevillon |
-
-Avril |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Avril Ferme de Sainte Croix |
-
-Anderny Chevillon |
-
-Trieux |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Trieux Le Sart |
-
-Anderny Chevillon-Sancy |
-
-Trieux-Tucquegnieux |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Trieux 040A |
-
-Angevillers |
-
-Angevillers |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Angevillers village |
-
-Angevillers |
-
-Angevillers-Rochonvillers |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Angevillers |
-
-Auboué Moineville |
-
-Auboué |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Auboué Cité de Coinville |
-
-Auboué Moineville |
-
-Auboué-Homécourt |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Auboué Centre aéré |
-
-Auboué Moineville |
-
-Auboué-Homécourt |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Homécourt R065S1 2 |
-
 Auboué Moineville |
 
 Homécourt |
@@ -725,176 +665,6 @@ Homécourt |
 Bâtiments |
 
 Eglise d'Homécourt |
-
-Auboué Moineville |
-
-Homécourt |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Homécourt Petite Fin |
-
-Auboué Moineville |
-
-Homécourt-Moutiers |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Moutiers haut Cité de Gorcy |
-
-Auboué Moineville |
-
-Homécourt-Moutiers |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Moutiers Gorcy |
-
-Auboué Moineville-Batilly Jouaville |
-
-Auboué-Batilly-Moineville |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Batilly-Mine du Paradis |
-
-Auboué Moineville-Belleville-Giraumont |
-
-Moineville |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Beaumont 071A |
-
-Auboué Moineville-Homécourt |
-
-Homécourt |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Homécourt |
-
-Auboué Moineville-Homécourt |
-
-Homécourt |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Homécourt ville |
-
-Auboué Moineville-Moutiers |
-
-Moutiers |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Moutiers bas |
-
-Auboué Moineville-Sainte Marie |
-
-Auboué-Homécourt-Sainte Marie aux Chênes |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Auboué centre |
-
-Auboué Moineville-Valleroy |
-
-Auboué |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Cité du tunnel |
-
-Auboué Moineville-Valleroy |
-
-Moineville |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Moineville Aire de jeux |
-
-Aumetz-Saint Michel |
-
-Audun le Tiche |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Audun le Tiche-Ferme de Hirps |
-
-Bassompierre-Bassompierre 1 |
-
-Fontoy |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Fontoy D58 |
-
-Bassompierre-Bassompierre 1 |
-
-Fontoy |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Fontoy |
-
-Bassompierre-Bassompierre 1 |
-
-Fontoy |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Fontoy N52 |
-
-Bassompierre-Elisabeth-Haut Pont |
-
-Fontoy |
-
-(vide) |
-
-Réseaux de nivellement |
-
-La Houve Bonnefeld |
-
-Bazailles |
-
-Ville au Montois |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Ville au Montois |
 
 Boudonville |
 
@@ -906,45 +676,25 @@ Bâtiments |
 
 Tour panoramique du Haut du Lièvre |
 
-Bouligny-La Mourière |
+Homécourt |
 
-Bouligny-Piennes |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Bouligny D106 |
-
-Bréhain |
-
-Bréhain la Ville |
+Homécourt |
 
 (vide) |
 
-Zones surveillées par microsismique |
+Bâtiments |
 
-Brehain village |
+Centre Pablo Picasso |
 
-Bréhain-Fillières-Tiercelet |
+Homécourt |
 
-Bréhain la Ville |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Bréhain 022B |
-
-Conflans-Brainville-Droitaumont |
-
-Conflans en Jarnisy-Friauville-Jarny |
+Joeuf |
 
 (vide) |
 
-Réseaux de nivellement |
+Bâtiments |
 
-Conflans en Jarnisy |
+Eglise de Joeuf |
 
 De Wendel F |
 
@@ -988,16 +738,6 @@ Hayange Côte Dupont |
 
 De Wendel F |
 
-Hayange |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Hayange |
-
-De Wendel F |
-
 Moyeuvre Grande |
 
 (vide) |
@@ -1006,15 +746,625 @@ Cavités |
 
 Moyeuvre G7 |
 
-De Wendel F |
+Duss |
 
-Neufchef |
+Dieuze |
 
 (vide) |
 
-Réseaux de nivellement |
+Cavités |
 
-Neufchef A30 |
+Sondage Géodéris SC1 |
+
+Frouard |
+
+Frouard |
+
+(vide) |
+
+Cavités |
+
+Frouard Cimetière |
+
+Giraumont |
+
+Giraumont |
+
+(vide) |
+
+Cavités |
+
+Giraumont Château d'eau-R3-R5 |
+
+Godbrange |
+
+Thil |
+
+(vide) |
+
+Cavités |
+
+277 Rue du Petit Bois |
+
+Godbrange |
+
+Thil |
+
+(vide) |
+
+Cavités |
+
+290 rue du Petit Bois |
+
+Godbrange |
+
+Thil |
+
+(vide) |
+
+Cavités |
+
+SD3 Rue du Petit Bois |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Hussigny Entrée DW |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Hussigny Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S1H Rue des Sapins |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S3H Rue Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S4H Rue Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S5H Rue Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S6H Rue Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S8H Rue Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S9H Rue Mouty |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+Forage S2H Rue des Sapins |
+
+Godbrange-Hussigny |
+
+Hussigny Godbrange |
+
+(vide) |
+
+Cavités |
+
+S7H Bis |
+
+Godbrange-Villerupt |
+
+Thil |
+
+(vide) |
+
+Cavités |
+
+289 Bis |
+
+Godbrange-Villerupt |
+
+Thil |
+
+(vide) |
+
+Cavités |
+
+Thil Galerie des V1 |
+
+Godbrange-Villerupt |
+
+Thil |
+
+(vide) |
+
+Cavités |
+
+Thil Petit Bois |
+
+Hettange Grande |
+
+Ottange |
+
+(vide) |
+
+Cavités |
+
+Nondkeil R125B1 |
+
+Michelsberg |
+
+Thionville |
+
+(vide) |
+
+Cavités |
+
+Galerie Charles |
+
+Molvange |
+
+Entrange |
+
+(vide) |
+
+Cavités |
+
+Carreau d'Entrange |
+
+Moselle |
+
+Ars-sur-Moselle |
+
+(vide) |
+
+Cavités |
+
+Béclou |
+
+Moyeuvre la Grande |
+
+Moyeuvre Grande |
+
+(vide) |
+
+Cavités |
+
+Forage F14MG |
+
+Moyeuvre la Grande |
+
+Moyeuvre Petite |
+
+(vide) |
+
+Cavités |
+
+Forage 185 R063 156 158A1 E2 |
+
+Ottange 1-Ottange 2-Ottange 3 |
+
+Ottange |
+
+(vide) |
+
+Cavités |
+
+Ottange |
+
+Pulventeux |
+
+Réhon |
+
+(vide) |
+
+Cavités |
+
+Réhon Rue de Longwy |
+
+Sainte Barbe |
+
+Algrange |
+
+(vide) |
+
+Cavités |
+
+Galerie Louise |
+
+Victor |
+
+Hayange |
+
+(vide) |
+
+Cavités |
+
+Forage 239 rue Maryse Bastié |
+
+Victor |
+
+Hayange |
+
+(vide) |
+
+Cavités |
+
+Forage 481 rue Mine Victor |
+
+Pechelbronn |
+
+Durrenbach |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 108 |
+
+Pechelbronn |
+
+Durrenbach |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 148 |
+
+Pechelbronn |
+
+Durrenbach |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 4728 |
+
+Pechelbronn |
+
+Durrenbach |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 89 |
+
+Pechelbronn |
+
+Durrenbach |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Drainage stade |
+
+Pechelbronn |
+
+Haguenau |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 1684 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 2761 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3059 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3068 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3969 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 945 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 459 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 1050 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage fuyard-4138 |
+
+Pechelbronn |
+
+Ohlungen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3349 |
+
+Pechelbronn |
+
+Ohlungen |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3517 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Déshuileur Clémenceau |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Emanation 1 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Emanation 2 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Emanation G |
+
+Pechelbronn |
+
+Soultz sous Forêts |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3732 |
+
+Pechelbronn |
+
+Surbourg |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 2962 |
+
+Pechelbronn |
+
+Surbourg |
+
+(vide) |
+
+Equipements de rétention d'effluents pétroliers |
+
+Forage 3103 |
+
+Pechelbronn |
+
+Gunstett |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 3 |
+
+Pechelbronn |
+
+Gunstett |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 7 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 6 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 8 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 1 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 2 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 4 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 5 |
 
 De Wendel H |
 
@@ -1185,46 +1535,6 @@ Forbach |
 Exutoires de gaz de mine |
 
 SDEC E9 |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Marienau |
-
-De Wendel H |
-
-Forbach |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Simon |
-
-De Wendel H |
-
-Forbach-Petite Rosselle |
-
-(vide) |
-
-Réseaux de transport de gaz de mine |
-
-Wendel |
-
-De Wendel H |
-
-Forbach-Petite Rosselle |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Terril Wendel |
 
 De Wendel H |
 
@@ -1498,66 +1808,6 @@ Puits Saint Charles 1 |
 
 De Wendel H |
 
-Petite Rosselle |
-
-Bassin Saint Charles |
-
-Réseaux de nivellement |
-
-Chemin du Talgen |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Saint Charles |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Gargan 1 |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Gargan 2 |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Vuillemin 1 |
-
-De Wendel H |
-
-Petite Rosselle |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Vuillemin 2 |
-
-De Wendel H |
-
 Schoeneck |
 
 (vide) |
@@ -1676,6 +1926,436 @@ Exutoires de gaz de mine |
 
 SDEC E10 |
 
+Sarre et Moselle |
+
+Carling |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+PCS PUITS MAX |
+
+Sarre et Moselle |
+
+Carling |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 8 (dit Max) |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+PCS REUMAUX |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+PCS VOUTERS 2 |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits Reumaux |
+
+Sarre et Moselle |
+
+Freyming Merlebach |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits Vouters |
+
+Sarre et Moselle |
+
+L'hopital |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+PCS L'HOPITAL 1-2 |
+
+Sarre et Moselle |
+
+L'hopital |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits L'HOPITAL 1 et 2 |
+
+Sarre et Moselle |
+
+Saint Avold |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+PCS SAINT AVOLD |
+
+Sarre et Moselle |
+
+Saint Avold |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+PCS SAINTE FONTAINE |
+
+Sarre et Moselle |
+
+Saint Avold |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits Saint Avold |
+
+Sarre et Moselle |
+
+Saint Avold |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits Sainte Fontaine |
+
+Mont Rouge |
+
+Aumetz |
+
+(vide) |
+
+Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
+
+Puits François |
+
+Ottange 2 |
+
+Ottange |
+
+(vide) |
+
+Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
+
+Puits 2 d'Ottange 2 |
+
+Saint Michel |
+
+Audun le Tiche |
+
+(vide) |
+
+Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
+
+Puits 2 de Saint Michel |
+
+(vide) |
+
+Lochwiller |
+
+Lochwiller |
+
+Réseaux de nivellement |
+
+Lochwiller |
+
+Amermont Dommary |
+
+Bouligny |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Bouligny Cité Saint Pierre |
+
+Amermont Dommary |
+
+Bouligny |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Bouligny village |
+
+Anderny Chevillon |
+
+Avril |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Avril Ferme de Sainte Croix |
+
+Anderny Chevillon |
+
+Trieux |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Trieux Le Sart |
+
+Anderny Chevillon-Sancy |
+
+Trieux-Tucquegnieux |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Trieux 040A |
+
+Angevillers |
+
+Angevillers-Rochonvillers |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Angevillers |
+
+Auboué Moineville |
+
+Auboué |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Auboué Cité de Coinville |
+
+Auboué Moineville |
+
+Auboué-Homécourt |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Auboué Centre aéré |
+
+Auboué Moineville |
+
+Auboué-Homécourt |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Homécourt R065S1 2 |
+
+Auboué Moineville |
+
+Homécourt-Moutiers |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Moutiers haut Cité de Gorcy |
+
+Auboué Moineville-Batilly Jouaville |
+
+Auboué-Batilly-Moineville |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Batilly-Mine du Paradis |
+
+Auboué Moineville-Belleville-Giraumont |
+
+Moineville |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Beaumont 071A |
+
+Auboué Moineville-Homécourt |
+
+Homécourt |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Homécourt |
+
+Auboué Moineville-Moutiers |
+
+Moutiers |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Moutiers bas |
+
+Auboué Moineville-Sainte Marie |
+
+Auboué-Homécourt-Sainte Marie aux Chênes |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Auboué centre |
+
+Auboué Moineville-Valleroy |
+
+Auboué |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Cité du tunnel |
+
+Auboué Moineville-Valleroy |
+
+Moineville |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Moineville Aire de jeux |
+
+Aumetz-Saint Michel |
+
+Audun le Tiche |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Audun le Tiche-Ferme de Hirps |
+
+Bassompierre-Bassompierre 1 |
+
+Fontoy |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Fontoy D58 |
+
+Bassompierre-Bassompierre 2 |
+
+Fontoy |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Fontoy N52 |
+
+Bassompierre-Elisabeth-Haut Pont |
+
+Fontoy |
+
+(vide) |
+
+Réseaux de nivellement |
+
+La Houve Bonnefeld |
+
+Bazailles |
+
+Ville au Montois |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Ville au Montois |
+
+Bouligny-La Mourière |
+
+Bouligny-Piennes |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Bouligny D106 |
+
+Bréhain-Fillières-Tiercelet |
+
+Bréhain la Ville |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Bréhain 022B |
+
+Conflans-Brainville-Droitaumont |
+
+Conflans en Jarnisy-Friauville-Jarny |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Conflans en Jarnisy |
+
+De Wendel F |
+
+Hayange |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Hayange |
+
+De Wendel F |
+
+Neufchef |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Neufchef A30 |
+
 De Wendel H-Sarre et Moselle |
 
 Behren-Etzling-Folkling-Forbach-Morsbach-Oeting-Petite Rosselle-Schoeneck-Spicheren-Stiring Wendel |
@@ -1726,16 +2406,6 @@ Réseaux de nivellement |
 
 Jarny ville |
 
-Duss |
-
-Dieuze |
-
-(vide) |
-
-Cavités |
-
-Sondage Géodéris SC1 |
-
 Elisabeth-Bassompierre |
 
 Fontoy |
@@ -1766,16 +2436,6 @@ Réseaux de nivellement |
 
 Errouville ARBED |
 
-Ferdinand |
-
-Tressange |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Tressange |
-
 Ferdinand-Bassompierre |
 
 Boulange-Havange-Tressange |
@@ -1795,56 +2455,6 @@ Jouaville |
 Réseaux de nivellement |
 
 Jouaville Fleury |
-
-Folschviller |
-
-Folschviller |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Alexandre Dreux 1 |
-
-Folschviller |
-
-Folschviller |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Alexandre Dreux 2 |
-
-François |
-
-Aumetz |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Aumetz Devant le Bois |
-
-Frouard |
-
-Frouard |
-
-(vide) |
-
-Cavités |
-
-Frouard Cimetière |
-
-Giraumont |
-
-Giraumont |
-
-(vide) |
-
-Cavités |
-
-Giraumont Château d'eau-R3-R5 |
 
 Giraumont |
 
@@ -1876,176 +2486,6 @@ Réseaux de nivellement |
 
 Giraumont village |
 
-Godbrange |
-
-Thil |
-
-(vide) |
-
-Cavités |
-
-277 Rue du Petit Bois |
-
-Godbrange |
-
-Thil |
-
-(vide) |
-
-Cavités |
-
-290 rue du Petit Bois |
-
-Godbrange |
-
-Thil |
-
-(vide) |
-
-Cavités |
-
-SD3 Rue du Petit Bois |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Hussigny Entrée DW |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Hussigny Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S1H Rue des Sapins |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S3H Rue Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S4H Rue Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S5H Rue Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S6H Rue Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S8H Rue Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S9H Rue Mouty |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-Forage S2H Rue des Sapins |
-
-Godbrange-Hussigny |
-
-Hussigny Godbrange |
-
-(vide) |
-
-Cavités |
-
-S7H Bis |
-
-Godbrange-Villerupt |
-
-Thil |
-
-(vide) |
-
-Cavités |
-
-289 Bis |
-
-Godbrange-Villerupt |
-
-Thil |
-
-(vide) |
-
-Cavités |
-
-Thil Galerie des V1 |
-
-Godbrange-Villerupt |
-
-Thil |
-
-(vide) |
-
-Cavités |
-
-Thil Petit Bois |
-
 Gustave Wiesner Extension 1-Gustave Wiesner-Nondkeil-Tressange |
 
 Tressange |
@@ -2056,26 +2496,6 @@ Réseaux de nivellement |
 
 Bure ARBED |
 
-Hettange Grande |
-
-Ottange |
-
-(vide) |
-
-Cavités |
-
-Nondkeil R125B1 |
-
-Hettange Grande |
-
-Ottange |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Ottange Nondkeil |
-
 Hettange Grande-Gustave Wiesner-Mont Rouge-Nondkeil |
 
 Ottange |
@@ -2085,86 +2505,6 @@ Ottange |
 Réseaux de nivellement |
 
 Nondkeil 125A1 B1 C1 |
-
-Homécourt |
-
-Briey-Joeuf |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Joeuf usine |
-
-Homécourt |
-
-Homécourt |
-
-(vide) |
-
-Bâtiments |
-
-Centre Pablo Picasso |
-
-Homécourt |
-
-Homécourt |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Homécourt Tappes |
-
-Homécourt |
-
-Homécourt |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Homécourt Carnot |
-
-Homécourt |
-
-Joeuf |
-
-(vide) |
-
-Bâtiments |
-
-Eglise de Joeuf |
-
-Homécourt |
-
-Joeuf |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Joeuf Orne Station Mangin |
-
-Homécourt |
-
-Joeuf |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Joeuf ville |
-
-Homécourt |
-
-Joeuf-Montois la Montagne |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Joeuf Arly |
 
 Homécourt-Auboué Moineville-Joeuf-Rombas |
 
@@ -2236,26 +2576,6 @@ Réseaux de nivellement |
 
 Bouligny Cité de Joudreville |
 
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 1 |
-
-La Houve |
-
-Creutzwald |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 2 |
-
 La Houve-Berviller-Bisten 1 et 2-Coume 1,2,3,4 et 5-Dalem-Niedervisse 1,3 et 6-Sarre et Moselle-Teterchen |
 
 Berviller-Bisten en Lorraine-Boucheporn-Château Rouge-Coume-Creutzwald-Dalem-Diesen-Falck-Guerting-Ham sous Varsberg-Hargarten aux Mines-Merten-Niedervisse-Obervisse-Porcelette-Rémering les Hargarten-Saint Avold-Tromborn-Varsberg-Villing |
@@ -2286,46 +2606,6 @@ Réseaux de nivellement |
 
 Mont Bonvillers 054G |
 
-Michelsberg |
-
-Thionville |
-
-(vide) |
-
-Cavités |
-
-Galerie Charles |
-
-Molvange |
-
-Entrange |
-
-(vide) |
-
-Cavités |
-
-Carreau d'Entrange |
-
-Mont Rouge |
-
-Audun le Tiche |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Audun ville |
-
-Mont Rouge |
-
-Aumetz |
-
-(vide) |
-
-Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
-
-Puits François |
-
 Mont Saint Martin |
 
 Mont Saint Martin |
@@ -2335,26 +2615,6 @@ Mont Saint Martin |
 Réseaux de nivellement |
 
 Mont Saint Martin Le Plateau |
-
-Moselle |
-
-Ars-sur-Moselle |
-
-(vide) |
-
-Cavités |
-
-Béclou |
-
-Moutiers |
-
-Briey-Moutiers |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Moutiers Foch |
 
 Moutiers-Auboué Moineville |
 
@@ -2372,45 +2632,13 @@ Moyeuvre Grande |
 
 (vide) |
 
-Cavités |
-
-Moyeuvre G14 |
-
-Moyeuvre la Grande |
-
-Moyeuvre Grande |
-
-(vide) |
-
-Cavités |
-
-Forage F14MG |
-
-Moyeuvre la Grande |
-
-Moyeuvre Grande |
-
-(vide) |
-
 Réseaux de nivellement |
 
 Moyeuvre Grande-Cité de Froidcul |
 
-Moyeuvre la Grande |
-
-Moyeuvre Petite |
-
-(vide) |
-
-Cavités |
-
-Forage 185 R063 156 158A1 E2 |
-
 Murville |
 
-Mont Bonvillers-
-
-Murville |
+Mont Bonvillers-Murville |
 
 (vide) |
 
@@ -2428,26 +2656,6 @@ Réseaux de nivellement |
 
 Ferme Cholot ARBED |
 
-Ottange 1 |
-
-Ottange |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Ottange Ferme Cholot |
-
-Ottange 2 |
-
-Ottange |
-
-(vide) |
-
-Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
-
-Puits 2 d'Ottange 2 |
-
 Ottange 2 |
 
 Ottange |
@@ -2457,426 +2665,6 @@ Ottange |
 Réseaux de nivellement |
 
 Ottange ville ARBED |
-
-Ottange 3 |
-
-Ottange |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Ottange ville |
-
-Ottange 1-Ottange 2-Ottange 3 |
-
-Ottange |
-
-(vide) |
-
-Cavités |
-
-Ottange |
-
-Pechelbronn |
-
-Durrenbach |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 108 |
-
-Pechelbronn |
-
-Durrenbach |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 148 |
-
-Pechelbronn |
-
-Durrenbach |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 4728 |
-
-Pechelbronn |
-
-Durrenbach |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 89 |
-
-Pechelbronn |
-
-Durrenbach |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Drainage stade |
-
-Pechelbronn |
-
-Gunstett |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 3 |
-
-Pechelbronn |
-
-Gunstett |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 7 |
-
-Pechelbronn |
-
-Gunstett |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 3 |
-
-Pechelbronn |
-
-Gunstett |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 7 |
-
-Pechelbronn |
-
-Gunstett |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Terril Mieg |
-
-Pechelbronn |
-
-Haguenau |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 1684 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 2761 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3059 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3068 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3969 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 945 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 6 |
-
-Pechelbronn |
-
-Kutzenhausen |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 6 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 459 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 1050 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage fuyard-4138 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 8 |
-
-Pechelbronn |
-
-Merkwiller Pechelbronn |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 8 |
-
-Pechelbronn |
-
-Ohlungen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3349 |
-
-Pechelbronn |
-
-Ohlungen |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3517 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Déshuileur Clémenceau |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Emanation 1 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Emanation 2 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Emanation G |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 1 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 2 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 4 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 5 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 1 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 2 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 4 |
-
-Pechelbronn |
-
-Preuschdorf |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 5 |
-
-Pechelbronn |
-
-Soultz sous Forêts |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3732 |
-
-Pechelbronn |
-
-Surbourg |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 2962 |
-
-Pechelbronn |
-
-Surbourg |
-
-(vide) |
-
-Equipements de rétention d'effluents pétroliers |
-
-Forage 3103 |
 
 Piennes |
 
@@ -2897,16 +2685,6 @@ Bouligny-Joudreville-Mancieulles-Piennes |
 Réseaux de nivellement |
 
 Joudreville Piennes |
-
-Pulventeux |
-
-Réhon |
-
-(vide) |
-
-Cavités |
-
-Réhon Rue de Longwy |
 
 Rochonvillers-Hettange Grande |
 
@@ -2948,16 +2726,6 @@ Réseaux de nivellement |
 
 Saint Privat village |
 
-Saint Michel |
-
-Audun le Tiche |
-
-(vide) |
-
-Ouvrages nécessaires à l'aérage de galeries (en vue de leur inspection) |
-
-Puits 2 de Saint Michel |
-
 Saint Michel-Aumetz-Butte |
 
 Audun le Tiche |
@@ -2970,9 +2738,7 @@ Audun le Tiche ARBED |
 
 Saint Pierremont |
 
-Bettainvillers-
-
-Mancieulles |
+Bettainvillers-Mancieulles |
 
 (vide) |
 
@@ -2990,28 +2756,6 @@ Réseaux de nivellement |
 
 Mancieulles |
 
-Saint Privat |
-
-Sainte Marie
-
-aux Chênes |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits 2 |
-
-Sainte Barbe |
-
-Algrange |
-
-(vide) |
-
-Cavités |
-
-Galerie Louise |
-
 Sainte Barbe N |
 
 Auboué-Sainte Marie aux Chênes |
@@ -3021,16 +2765,6 @@ Auboué-Sainte Marie aux Chênes |
 Réseaux de nivellement |
 
 Sainte Marie aux Chênes R164D |
-
-Sainte Barbe N |
-
-Havange |
-
-(vide) |
-
-Zones surveillées par microsismique |
-
-Havange |
 
 Sainte Barbe N |
 
@@ -3071,176 +2805,6 @@ Sancy |
 Réseaux de nivellement |
 
 Sancy |
-
-Sarre et Moselle |
-
-Carling |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-PCS PUITS MAX |
-
-Sarre et Moselle |
-
-Carling |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits 8 (dit Max) |
-
-Sarre et Moselle |
-
-Cocheren |
-
-(vide) |
-
-Coffrets gaz |
-
-PCS BR |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-PCS REUMAUX |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-PCS VOUTERS 2 |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits Reumaux |
-
-Sarre et Moselle |
-
-Freyming Merlebach |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits Vouters |
-
-Sarre et Moselle |
-
-Freyming Merlebach-Saint Avold |
-
-(vide) |
-
-Réseaux de transport de gaz de mine |
-
-Sarre et Moselle |
-
-Sarre et Moselle |
-
-L'Hôpital |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-PCS L'HOPITAL 1-2 |
-
-Sarre et Moselle |
-
-L'Hôpital |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits L'HOPITAL 1 et 2 |
-
-Sarre et Moselle |
-
-L'Hôpital |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-L'Hôpital 1 |
-
-Sarre et Moselle |
-
-L'Hôpital |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-L'Hôpital 2 |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-PCS SAINT AVOLD |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-PCS SAINTE FONTAINE |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits Saint Avold |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits Sainte Fontaine |
-
-Sarre et Moselle |
-
-Saint Avold |
-
-(vide) |
-
-Stations de captage et de compression de gaz de mine |
-
-Peyerimhoff |
 
 Sarre et Moselle-De Wendel H-Allemagne |
 
@@ -3322,47 +2886,555 @@ Réseaux de nivellement |
 
 Valleroy ancienne mine |
 
-Victor |
+De Wendel H |
 
-Hayange |
+Petite Rosselle |
 
-(vide) |
-
-Cavités |
-
-Forage 239 rue Maryse Bastié |
-
-Victor |
-
-Hayange |
-
-(vide) |
-
-Cavités |
-
-Forage 481 rue Mine Victor |
-
-(vide) |
-
-Lochwiller |
-
-Lochwiller |
+Bassin Saint Charles |
 
 Réseaux de nivellement |
 
-Lochwiller |
+Chemin du Talgen |
 
-Bassin minier Est Potassique |
+François |
 
-Concession |
+Aumetz |
 
-Commune |
+(vide) |
 
-Site |
+Réseaux de nivellement |
 
-Nature de l'installation |
+Aumetz Devant le Bois |
 
-Nom de l'installation |
+De Wendel H |
+
+Forbach-Petite Rosselle |
+
+(vide) |
+
+Réseaux de transport de gaz de mine |
+
+Wendel |
+
+Sarre et Moselle |
+
+Freyming Merlebach-Saint Avold |
+
+(vide) |
+
+Réseaux de transport de gaz de mine |
+
+Sarre et Moselle |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Stations de captage et de compression de gaz de mine |
+
+Marienau |
+
+De Wendel H |
+
+Forbach |
+
+(vide) |
+
+Stations de captage et de compression de gaz de mine |
+
+Simon |
+
+De Wendel H |
+
+Petite Rosselle |
+
+(vide) |
+
+Stations de captage et de compression de gaz de mine |
+
+Saint Charles |
+
+Sarre et Moselle |
+
+Saint Avold |
+
+(vide) |
+
+Stations de captage et de compression de gaz de mine |
+
+Peyerimhoff |
+
+Pechelbronn |
+
+Gunstett |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 3 |
+
+Pechelbronn |
+
+Gunstett |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 7 |
+
+Pechelbronn |
+
+Kutzenhausen |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 6 |
+
+Pechelbronn |
+
+Merkwiller Pechelbronn |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 8 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 1 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 2 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 4 |
+
+Pechelbronn |
+
+Preuschdorf |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 5 |
+
+De Wendel H |
+
+Petite Rosselle |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Gargan 1 |
+
+De Wendel H |
+
+Petite Rosselle |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Gargan 2 |
+
+De Wendel H |
+
+Petite Rosselle |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Vuillemin 1 |
+
+De Wendel H |
+
+Petite Rosselle |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Vuillemin 2 |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 1 |
+
+La Houve |
+
+Creutzwald |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 2 |
+
+Saint Privat |
+
+Sainte Marie aux Chênes |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits 2 |
+
+Sarre et Moselle |
+
+L'Hôpital |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+L'Hôpital 1 |
+
+Sarre et Moselle |
+
+L'Hôpital |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+L'Hôpital 2 |
+
+Folschviller |
+
+Folschviller |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits Alexandre Dreux 1 |
+
+Folschviller |
+
+Folschviller |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits Alexandre Dreux 2 |
+
+Blanzy Montceau |
+
+Blanzy |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Blanzy 3 |
+
+Blanzy Montceau |
+
+Blanzy |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Harmet ou puits Neuf |
+
+Blanzy Montceau |
+
+Blanzy |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+St Claude ou Blanzy 4 |
+
+Blanzy Montceau |
+
+Ciry le Noble |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Porrot 3 |
+
+Blanzy Montceau |
+
+Sanvignes les Mines |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Charme 2 Ouest |
+
+Blanzy Montceau |
+
+Sanvignes les Mines |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Louvot 3 |
+
+Angevillers |
+
+Angevillers |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Angevillers village |
+
+Auboué Moineville |
+
+Homécourt |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Homécourt Petite Fin |
+
+Auboué Moineville |
+
+Homécourt-Moutiers |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Moutiers Gorcy |
+
+Auboué Moineville-Homécourt |
+
+Homécourt |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Homécourt ville |
+
+Bassompierre-Bassompierre 1 |
+
+Fontoy |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Fontoy |
+
+Bréhain |
+
+Bréhain la Ville |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Brehain village |
+
+Ferdinand |
+
+Tressange |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Tressange |
+
+Hettange Grande |
+
+Ottange |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Ottange Nondkeil |
+
+Homécourt |
+
+Briey-Joeuf |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Joeuf usine |
+
+Homécourt |
+
+Homécourt |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Homécourt Tappes |
+
+Homécourt |
+
+Homécourt |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Homécourt Carnot |
+
+Homécourt |
+
+Joeuf |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Joeuf Orne Station Mangin |
+
+Homécourt |
+
+Joeuf |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Joeuf ville |
+
+Homécourt |
+
+Joeuf-Montois la Montagne |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Joeuf Arly |
+
+Mont Rouge |
+
+Audun le Tiche |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Audun ville |
+
+Moutiers |
+
+Briey-Moutiers |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Moutiers Foch |
+
+Ottange 1 |
+
+Ottange |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Ottange Ferme Cholot |
+
+Ottange 3 |
+
+Ottange |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Ottange ville |
+
+Sainte Barbe N |
+
+Havange |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Havange |
+
+Pechelbronn |
+
+Gunstett |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Terril Mieg |
+
+De Wendel H |
+
+Forbach-Petite Rosselle |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Terril Wendel |
+
+Sarre et Moselle |
+
+Cocheren |
+
+(vide) |
+
+Coffrets gaz |
+
+PCS BR |
 
 Alex Ouest |
 
@@ -3453,26 +3525,6 @@ Wittenheim |
 Têtes de puits matérialisées |
 
 Puits Fernand Ouest |
-
-Blodelsheim |
-
-Blodelsheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Nord |
-
-Blodelsheim |
-
-Blodelsheim |
-
-(vide) |
-
-Têtes de puits matérialisées |
-
-Puits Sud |
 
 Marie |
 
@@ -3604,6 +3656,26 @@ Têtes de puits matérialisées |
 
 Puits Théodore |
 
+Blodelsheim |
+
+Blodelsheim |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits Nord |
+
+Blodelsheim |
+
+Blodelsheim |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits Sud |
+
 Bassin minier Nord |
 
 Concession |
@@ -3635,6 +3707,806 @@ Aniche |
 Exutoires de gaz de mine |
 
 S21 AN 02 |
+
+Aniche |
+
+Douai |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S36 AN 04 |
+
+Aniche |
+
+Erchin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S37 AN 05 |
+
+Aniche |
+
+Somain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S23 AN 03 |
+
+Aniche |
+
+Waziers |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S38 AN 06 |
+
+Anzin |
+
+Denain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S39 AZ 08 |
+
+Anzin |
+
+Escaudain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S01 AZ 01 |
+
+Anzin |
+
+Escaudain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S02 AZ 02 |
+
+Anzin |
+
+Hélesmes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S42 AZ 11 |
+
+Anzin |
+
+Hérin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S67 AZ 12 |
+
+Anzin |
+
+Raismes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S40 AZ 09 |
+
+Anzin |
+
+Rouvignies |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S16 AZ 04 |
+
+Anzin |
+
+Somain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S18 AZ 06 |
+
+Anzin |
+
+Somain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S22 AZ 07 |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S09 AZ 03 |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S41 AZ 10 |
+
+Anzin |
+
+Wallers |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S17 AZ 05 |
+
+Bruay |
+
+Bruay La Buissière |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S69 BR 03 |
+
+Bruay |
+
+Haillicourt |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S62 BR 01 |
+
+Bruay |
+
+Haillicourt |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S73 BR 04 |
+
+Camblain Chatelain |
+
+Camblain Chatelain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S26 CC 02 |
+
+Camblain Chatelain |
+
+Divion |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S25 CC 01 |
+
+Camblain Chatelain |
+
+Divion |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S70 CC 03 |
+
+Courrières |
+
+Avion |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S33 CS 01 |
+
+Denain |
+
+Denain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S43 DE 02 |
+
+Denain |
+
+Denain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S45 DE 03 |
+
+Denain |
+
+Wavrechain sous Denain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S13 DE 01 |
+
+Denain |
+
+Wavrechain sous Denain |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S13bis DE 02 |
+
+Dourges |
+
+Montigny en Gohelle |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S24 DS 01 |
+
+Douvrin |
+
+Haisnes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S51 DO 01 |
+
+Ferfay |
+
+Ames |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S72 FE 01 |
+
+Fresnes |
+
+Escautpont |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S49 FS 01 |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S57 FS 02 |
+
+Grenay |
+
+Bully les Mines |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S64 GR 01 |
+
+Grenay |
+
+Mazingarbe |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S66 GR 03 |
+
+Grenay |
+
+Vermelles |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S65 GR 02 |
+
+Hors concession |
+
+Saint Amand les Eaux |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S14 HN 01 |
+
+Lens |
+
+Hulluch |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S20 LS 01 |
+
+Lens |
+
+Liévin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S55 LS 04 |
+
+Lens |
+
+Loos en Gohelle |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S54 LS 03 |
+
+Lens |
+
+Loos en Gohelle |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S56 LS 05 |
+
+L'Escarpelle |
+
+Courcelle les Lens |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S32 ES 01 |
+
+L'Escarpelle |
+
+Douai |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S60 ES 02 |
+
+Marles |
+
+Auchel |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S71 MA 03 |
+
+Marles |
+
+Burbure |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S27 MA 01 |
+
+Marles |
+
+Marles les Mines |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S68 MA 02 |
+
+Meurchin |
+
+Wingles |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S44 ME 01 |
+
+Noeux |
+
+Barlin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S59 NX 05 |
+
+Noeux |
+
+Hersin Coupigny |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S28 NX 01 |
+
+Noeux |
+
+Hersin Coupigny |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S58 NX 04 |
+
+Noeux |
+
+Labourse |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S29 NX 02 |
+
+Noeux |
+
+Noeux les Mines |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S53 NX 03 |
+
+Odomez |
+
+Bruille Saint Amand |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S11 OD 01 |
+
+Ostricourt |
+
+Carvin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S31 OS 01 |
+
+Ostricourt |
+
+Ostricourt |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S50 OS 02 |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S10 RA 02 |
+
+Raismes |
+
+Petite Forêt |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S15 RA 04 |
+
+Raismes |
+
+Petite Forêt |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S15bis RA 05 |
+
+Raismes |
+
+Raismes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S06 RA 01 |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S12 RA 03 |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S52 RA 05 |
+
+Saint Saulve |
+
+Bruay sur Escaut |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S03 SS 01 |
+
+Vicoigne |
+
+Raismes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S05 VG 01 |
+
+Vicoigne |
+
+Raismes |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S34 VG 02 |
+
+Vieux Condé |
+
+Condé sur l'Escaut |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S07 VC 02 |
+
+Vieux Condé |
+
+Hergnies |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S46 VC 04 |
+
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S04 VC 01 |
+
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S47 VC 05 |
+
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S48 VC 06 |
+
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+S61 VC 07 |
+
+Aniche |
+
+Waziers |
+
+(vide) |
+
+Piézomètres |
+
+PP 3 |
+
+Anzin |
+
+Wallers |
+
+(vide) |
+
+Piézomètres |
+
+PP 1 |
+
+Flines les Raches |
+
+Anhiers |
+
+(vide) |
+
+Piézomètres |
+
+PP 4 |
+
+Noeux |
+
+Verquin |
+
+(vide) |
+
+Piézomètres |
+
+PP 6 |
+
+Ostricourt |
+
+Libercourt |
+
+(vide) |
+
+Piézomètres |
+
+PP 2 |
+
+Vieux Condé |
+
+Vieux Condé |
+
+(vide) |
+
+Piézomètres |
+
+PP 5 |
+
+Anzin-Hasnon |
+
+Hasnon-Hélesmes-Wallers |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Wallers Arenberg |
+
+Bruay-Beugin |
+
+Beugin-Bruay La Buissière-Houdain |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Bruay |
+
+Courrières-Dourges |
+
+Billy Montigny-Hénin Beaumont-Méricourt-Montigny en Gohelle-Sallaumines |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Billy Montigny |
+
+Courrières-Dourges |
+
+Carvin-Courrières-Estevelles-Oignies-Pont à Vendin |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Estevelles |
+
+Lens-Liévin-Vimy Fresnoy |
+
+Annay sous Lens-Avion-Eleu dit Leauwette-Farbus-Lens-Loison sous Lens-Pont à Vendin-Vendin le Vieil-Vimy |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Lens |
 
 Aniche |
 
@@ -3802,29 +4674,9 @@ Douai |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S36 AN 04 |
-
-Aniche |
-
-Douai |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 Bernard |
-
-Aniche |
-
-Erchin |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S37 AN 05 |
 
 Aniche |
 
@@ -3948,16 +4800,6 @@ Lemay 2 |
 
 Aniche |
 
-Rieulay |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-144 (Belevédère) |
-
-Aniche |
-
 Roucourt |
 
 (vide) |
@@ -4012,16 +4854,6 @@ Somain |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S23 AN 03 |
-
-Aniche |
-
-Somain |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 De Sessevalle 1 |
@@ -4055,26 +4887,6 @@ Somain |
 Têtes de puits matérialisées |
 
 Saint Louis |
-
-Aniche |
-
-Waziers |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S38 AN 06 |
-
-Aniche |
-
-Waziers |
-
-(vide) |
-
-Piézomètres |
-
-PP 3 |
 
 Aniche |
 
@@ -4145,16 +4957,6 @@ Abscon |
 Têtes de puits matérialisées |
 
 La Pensée |
-
-Anzin |
-
-Denain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S39 AZ 08 |
 
 Anzin |
 
@@ -4298,36 +5100,6 @@ Villars extraction |
 
 Anzin |
 
-Denain |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Bayard |
-
-Anzin |
-
-Escaudain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S01 AZ 01 |
-
-Anzin |
-
-Escaudain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S02 AZ 02 |
-
-Anzin |
-
 Escaudain |
 
 (vide) |
@@ -4458,36 +5230,6 @@ Haveluy 2 |
 
 Anzin |
 
-Haveluy |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-157 |
-
-Anzin |
-
-Hélesmes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S42 AZ 11 |
-
-Anzin |
-
-Hérin |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S67 AZ 12 |
-
-Anzin |
-
 Hérin |
 
 (vide) |
@@ -4598,46 +5340,6 @@ Vedette |
 
 Anzin |
 
-Raismes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S40 AZ 09 |
-
-Anzin |
-
-Rouvignies |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S16 AZ 04 |
-
-Anzin |
-
-Somain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S18 AZ 06 |
-
-Anzin |
-
-Somain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S22 AZ 07 |
-
-Anzin |
-
 Somain |
 
 (vide) |
@@ -4645,26 +5347,6 @@ Somain |
 Têtes de puits matérialisées |
 
 Casimir Périer |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S09 AZ 03 |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S41 AZ 10 |
 
 Anzin |
 
@@ -4808,86 +5490,6 @@ Tinchon Sud |
 
 Anzin |
 
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Henri 1 |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Henri 2 |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Mitant |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Pied |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Régie |
-
-Anzin |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Saint Joseph Sud |
-
-Anzin |
-
-Wallers |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S17 AZ 05 |
-
-Anzin |
-
-Wallers |
-
-(vide) |
-
-Piézomètres |
-
-PP 1 |
-
-Anzin |
-
 Wallers |
 
 (vide) |
@@ -4955,16 +5557,6 @@ Wavrechain sous Denain |
 Têtes de puits matérialisées |
 
 Blignières 2 |
-
-Anzin-Hasnon |
-
-Hasnon-Hélesmes-Wallers |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Wallers Arenberg |
 
 Azincourt |
 
@@ -5035,16 +5627,6 @@ Monchecourt |
 Têtes de puits matérialisées |
 
 Saint Roch 1 |
-
-Bruay |
-
-Bruay La Buissière |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S69 BR 03 |
 
 Bruay |
 
@@ -5138,16 +5720,6 @@ Têtes de puits matérialisées |
 
 Bruay |
 
-Bruay La Buissière |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-10 |
-
-Bruay |
-
 Divion |
 
 (vide) |
@@ -5175,36 +5747,6 @@ Divion |
 Têtes de puits matérialisées |
 
 5 ter-5 ter |
-
-Bruay |
-
-Fouquereuil |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-28 |
-
-Bruay |
-
-Haillicourt |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S62 BR 01 |
-
-Bruay |
-
-Haillicourt |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S73 BR 04 |
 
 Bruay |
 
@@ -5266,16 +5808,6 @@ Têtes de puits matérialisées |
 
 7-7 bis |
 
-Bruay-Beugin |
-
-Beugin-Bruay La Buissière-Houdain |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Bruay |
-
 Camblain Chatelain |
 
 Calonne Ricouart |
@@ -5285,36 +5817,6 @@ Calonne Ricouart |
 Têtes de puits matérialisées |
 
 Salonique 2 |
-
-Camblain Chatelain |
-
-Camblain Chatelain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S26 CC 02 |
-
-Camblain Chatelain |
-
-Divion |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S25 CC 01 |
-
-Camblain Chatelain |
-
-Divion |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S70 CC 03 |
 
 Camblain Chatelain |
 
@@ -5415,16 +5917,6 @@ Courcelles les Lens |
 Têtes de puits matérialisées |
 
 7-7 bis |
-
-Courrières |
-
-Avion |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S33 CS 01 |
 
 Courrières |
 
@@ -5676,46 +6168,6 @@ Têtes de puits matérialisées |
 
 5-5 |
 
-Courrières-Dourges |
-
-Billy Montigny-Hénin Beaumont-Méricourt-Montigny en Gohelle-Sallaumines |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Billy Montigny |
-
-Courrières-Dourges |
-
-Carvin-Courrières-Estevelles-Oignies-Pont à Vendin |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Estevelles |
-
-Denain |
-
-Denain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S43 DE 02 |
-
-Denain |
-
-Denain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S45 DE 03 |
-
 Denain |
 
 Denain |
@@ -5745,26 +6197,6 @@ Denain |
 Têtes de puits matérialisées |
 
 Orléans |
-
-Denain |
-
-Wavrechain sous Denain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S13 DE 01 |
-
-Denain |
-
-Wavrechain sous Denain |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S13bis DE 02 |
 
 Douchy |
 
@@ -5958,26 +6390,6 @@ Têtes de puits matérialisées |
 
 Dourges |
 
-Hénin Beaumont |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-205 |
-
-Dourges |
-
-Montigny en Gohelle |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S24 DS 01 |
-
-Dourges |
-
 Montigny en Gohelle |
 
 (vide) |
@@ -6035,26 +6447,6 @@ Oignies |
 Têtes de puits matérialisées |
 
 9-9 bis |
-
-Dourges-Courrières-Drocourt |
-
-Billy Montigny-Hénin Beaumont-Rouvroy |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-101 |
-
-Douvrin |
-
-Haisnes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S51 DO 01 |
 
 Douvrin |
 
@@ -6158,16 +6550,6 @@ Soult 2 |
 
 Ferfay |
 
-Ames |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S72 FE 01 |
-
-Ferfay |
-
 Auchel |
 
 (vide) |
@@ -6222,16 +6604,6 @@ Anhiers |
 
 (vide) |
 
-Piézomètres |
-
-PP 4 |
-
-Flines les Raches |
-
-Anhiers |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 Flines 2 |
@@ -6252,16 +6624,6 @@ Escautpont |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S49 FS 01 |
-
-Fresnes |
-
-Escautpont |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 Carniaux 1 |
@@ -6275,26 +6637,6 @@ Escautpont |
 Têtes de puits matérialisées |
 
 Carniaux 2 |
-
-Fresnes |
-
-Escautpont |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Moulin |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S57 FS 02 |
 
 Fresnes |
 
@@ -6476,136 +6818,6 @@ Têtes de puits matérialisées |
 
 Sarteau 2 extraction |
 
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Caulier |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Clausin épuisement |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Clausin extraction |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Elisabeth Dahié couchant |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Elisabeth Dahié levant |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Jeanne Colard 1 |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Jeanne Colard 3 |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Long Farva |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Pierronne |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Point du jour |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Saint Mathias extraction |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Saint Pierre |
-
-Fresnes |
-
-Fresnes sur Escaut |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Sainte Anne extraction |
-
 Gouy Servins |
 
 Bouvigny Boyeffles |
@@ -6625,36 +6837,6 @@ Bouvigny Boyeffles |
 Têtes de puits matérialisées |
 
 Puits 1-1 |
-
-Grenay |
-
-Bully les Mines |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S64 GR 01 |
-
-Grenay |
-
-Mazingarbe |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S66 GR 03 |
-
-Grenay |
-
-Vermelles |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S65 GR 02 |
 
 Grenay |
 
@@ -6866,6 +7048,16 @@ Têtes de puits matérialisées |
 
 4-4 bis |
 
+Hasnon |
+
+Hasnon |
+
+(vide) |
+
+Têtes de puits matérialisées |
+
+Puits des Tertres |
+
 Lens |
 
 Avion |
@@ -6895,16 +7087,6 @@ Bénifontaine |
 Têtes de puits matérialisées |
 
 13-13 bis |
-
-Lens |
-
-Hulluch |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S20 LS 01 |
 
 Lens |
 
@@ -7012,16 +7194,6 @@ Liévin |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S55 LS 04 |
-
-Lens |
-
-Liévin |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 3-3 bis |
@@ -7075,26 +7247,6 @@ Loison sous Lens |
 Têtes de puits matérialisées |
 
 2 ter-2 ter |
-
-Lens |
-
-Loos en Gohelle |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S54 LS 03 |
-
-Lens |
-
-Loos en Gohelle |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S56 LS 05 |
 
 Lens |
 
@@ -7168,16 +7320,6 @@ Têtes de puits matérialisées |
 
 Lens |
 
-Loos en Gohelle |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-74 B |
-
-Lens |
-
 Vendin le Vieil |
 
 (vide) |
@@ -7236,16 +7378,6 @@ Têtes de puits matérialisées |
 
 7-7 bis |
 
-Lens-Liévin-Vimy Fresnoy |
-
-Annay sous Lens-Avion-Eleu dit Leauwette-Farbus-Lens-Loison sous Lens-Pont à Vendin-Vendin le Vieil-Vimy |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Lens |
-
 L'Escarpelle |
 
 Auby |
@@ -7255,26 +7387,6 @@ Auby |
 Têtes de puits matérialisées |
 
 8-8 |
-
-L'Escarpelle |
-
-Courcelle les Lens |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S32 ES 01 |
-
-L'Escarpelle |
-
-Douai |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S60 ES 02 |
 
 L'Escarpelle |
 
@@ -7542,16 +7654,6 @@ Auchel |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S71 MA 03 |
-
-Marles |
-
-Auchel |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 3-3 ter |
@@ -7638,16 +7740,6 @@ Têtes de puits matérialisées |
 
 Marles |
 
-Burbure |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S27 MA 01 |
-
-Marles |
-
 Calonne Ricouart |
 
 (vide) |
@@ -7675,16 +7767,6 @@ Calonne Ricouart |
 Têtes de puits matérialisées |
 
 6-6 bis |
-
-Marles |
-
-Marles les Mines |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S68 MA 02 |
 
 Marles |
 
@@ -7772,16 +7854,6 @@ Wingles |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S44 ME 01 |
-
-Meurchin |
-
-Wingles |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 3-4-3 |
@@ -7795,36 +7867,6 @@ Wingles |
 Têtes de puits matérialisées |
 
 3-4-4 |
-
-Meurchin |
-
-Wingles |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-70 A |
-
-Meurchin |
-
-Wingles |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-70 C |
-
-Noeux |
-
-Barlin |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S59 NX 05 |
 
 Noeux |
 
@@ -7885,26 +7927,6 @@ Fouquières les Béthune |
 Têtes de puits matérialisées |
 
 11-11 |
-
-Noeux |
-
-Hersin Coupigny |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S28 NX 01 |
-
-Noeux |
-
-Hersin Coupigny |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S58 NX 04 |
 
 Noeux |
 
@@ -7992,16 +8014,6 @@ Labourse |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S29 NX 02 |
-
-Noeux |
-
-Labourse |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 6-6 |
@@ -8015,16 +8027,6 @@ Labourse |
 Têtes de puits matérialisées |
 
 6-6 bis |
-
-Noeux |
-
-Noeux les Mines |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S53 NX 03 |
 
 Noeux |
 
@@ -8096,26 +8098,6 @@ Têtes de puits matérialisées |
 
 13-13 bis |
 
-Noeux |
-
-Verquin |
-
-(vide) |
-
-Piézomètres |
-
-PP 6 |
-
-Odomez |
-
-Bruille Saint Amand |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S11 OD 01 |
-
 Odomez |
 
 Bruille Saint Amand |
@@ -8132,29 +8114,9 @@ Carvin |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S31 OS 01 |
-
-Ostricourt |
-
-Carvin |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 Maurice Tilloy 4 |
-
-Ostricourt |
-
-Libercourt |
-
-(vide) |
-
-Piézomètres |
-
-PP 2 |
 
 Ostricourt |
 
@@ -8202,16 +8164,6 @@ Ostricourt |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S50 OS 02 |
-
-Ostricourt |
-
-Ostricourt |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 Alphonse Lecocq 7 |
@@ -8235,16 +8187,6 @@ Ostricourt |
 Têtes de puits matérialisées |
 
 Charles Tilloy 6 |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S10 RA 02 |
 
 Raismes |
 
@@ -8348,116 +8290,6 @@ Verger |
 
 Raismes |
 
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Du Mitant |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Barrière |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Des Gardins |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-La Croix Nord |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-La Croix Sud |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Raismes épuisement |
-
-Raismes |
-
-Anzin |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Raismes extraction |
-
-Raismes |
-
-Petite Forêt |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S15 RA 04 |
-
-Raismes |
-
-Petite Forêt |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S15bis RA 05 |
-
-Raismes |
-
-Petite Forêt |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Du Sarts |
-
-Raismes |
-
-Raismes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S06 RA 01 |
-
-Raismes |
-
 Raismes |
 
 (vide) |
@@ -8502,26 +8334,6 @@ Valenciennes |
 
 (vide) |
 
-Exutoires de gaz de mine |
-
-S12 RA 03 |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S52 RA 05 |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
 Têtes de puits matérialisées |
 
 Beaujardin épuisement |
@@ -8556,66 +8368,6 @@ Têtes de puits matérialisées |
 
 Poirier |
 
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Marais |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Moulinet |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Mouton Noir midi |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Mouton Noir Nord |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Rivierette 1 |
-
-Raismes |
-
-Valenciennes |
-
-(vide) |
-
-Têtes de puits non matérialisées |
-
-Rivierette 2 |
-
 Saint Aybert |
 
 Thivencelle |
@@ -8625,16 +8377,6 @@ Thivencelle |
 Têtes de puits matérialisées |
 
 Saint Aybert |
-
-Saint Saulve |
-
-Bruay sur Escaut |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S03 SS 01 |
 
 Saint Saulve |
 
@@ -8706,27 +8448,7 @@ Têtes de puits matérialisées |
 
 Puits 1 |
 
-Vicoigne |
-
-Raismes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S05 VG 01 |
-
-Vicoigne |
-
-Raismes |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S34 VG 02 |
-
-Vicoigne |
+Vicoignes |
 
 Raismes |
 
@@ -8736,7 +8458,7 @@ Têtes de puits matérialisées |
 
 Boittelle 1 |
 
-Vicoigne |
+Vicoignes |
 
 Raismes |
 
@@ -8746,7 +8468,7 @@ Têtes de puits matérialisées |
 
 Evrard 2 |
 
-Vicoigne |
+Vicoignes |
 
 Raismes |
 
@@ -8756,7 +8478,7 @@ Têtes de puits matérialisées |
 
 Ewbank 3 |
 
-Vicoigne |
+Vicoignes |
 
 Raismes |
 
@@ -8765,16 +8487,6 @@ Raismes |
 Têtes de puits matérialisées |
 
 Le Bret 4 |
-
-Vieux Condé |
-
-Condé sur l'Escaut |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S07 VC 02 |
 
 Vieux Condé |
 
@@ -8828,26 +8540,6 @@ Ledoux 2 |
 
 Vieux Condé |
 
-Condé sur l'Escaut |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-195 A |
-
-Vieux Condé |
-
-Hergnies |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S46 VC 04 |
-
-Vieux Condé |
-
 Hergnies |
 
 (vide) |
@@ -8885,56 +8577,6 @@ Hergnies |
 Têtes de puits matérialisées |
 
 Sophie |
-
-Vieux Condé |
-
-Vieux Condé |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S04 VC 01 |
-
-Vieux Condé |
-
-Vieux Condé |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S47 VC 05 |
-
-Vieux Condé |
-
-Vieux Condé |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S48 VC 06 |
-
-Vieux Condé |
-
-Vieux Condé |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-S61 VC 07 |
-
-Vieux Condé |
-
-Vieux Condé |
-
-(vide) |
-
-Piézomètres |
-
-PP 5 |
 
 Vieux Condé |
 
@@ -9080,11 +8722,361 @@ Vieux Condé |
 
 Vieux Condé |
 
-|
+(vide) |
 
 Têtes de puits matérialisées |
 
 Vieux Condé 2 |
+
+Anzin |
+
+Denain |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Bayard |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Henri 1 |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Henri 2 |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Mitant |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Pied |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Régie |
+
+Anzin |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Saint Joseph Sud |
+
+Fresnes |
+
+Escautpont |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Moulin |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Caulier |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Clausin épuisement |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Clausin extraction |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Elisabeth Dahié couchant |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Elisabeth Dahié levant |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Jeanne Colard 1 |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Jeanne Colard 3 |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Long Farva |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Pierronne |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Point du jour |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Saint Mathias extraction |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Saint Pierre |
+
+Fresnes |
+
+Fresnes sur Escaut |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Sainte Anne extraction |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Du Mitant |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Barrière |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Des Gardins |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+La Croix Nord |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+La Croix Sud |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Raismes épuisement |
+
+Raismes |
+
+Anzin |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Raismes extraction |
+
+Raismes |
+
+Petite Forêt |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Du Sarts |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Marais |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Moulinet |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Mouton Noir midi |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Mouton Noir Nord |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Rivierette 1 |
+
+Raismes |
+
+Valenciennes |
+
+(vide) |
+
+Têtes de puits non matérialisées |
+
+Rivierette 2 |
 
 Vieux Condé |
 
@@ -9146,15 +9138,105 @@ Têtes de puits non matérialisées |
 
 Milieu |
 
-Hors concession |
+Aniche |
 
-Saint Amand les Eaux |
+Rieulay |
 
 (vide) |
 
-Exutoires de gaz de mine |
+Dépôt de minerai ou de résidus |
 
-S14 HN 01 |
+144 (Belevédère) |
+
+Anzin |
+
+Haveluy |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+157 |
+
+Bruay |
+
+Bruay La Buissière |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+10 |
+
+Bruay |
+
+Fouquereuil |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+28 |
+
+Dourges |
+
+Hénin Beaumont |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+205 |
+
+Dourges-Courrières-Drocourt |
+
+Billy Montigny-Hénin Beaumont-Rouvroy |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+101 |
+
+Lens |
+
+Loos en Gohelle |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+74 B |
+
+Meurchin |
+
+Wingles |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+70 A |
+
+Meurchin |
+
+Wingles |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+70 C |
+
+Vieux Condé |
+
+Condé sur l'Escaut |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+195 A |
 
 Bassin minier Sud |
 
@@ -9168,6 +9250,26 @@ Nature de l'installation |
 
 Nom de l'installation |
 
+Mondalazac et Solsac |
+
+Muret-Le-Château |
+
+Quartier des Espeyroux |
+
+Réseau de cannes de convergence |
+
+Espeyroux |
+
+Mondalazac et Solsac |
+
+Muret-Le-Château |
+
+(vide) |
+
+Cavités |
+
+Quartier des Espeyroux |
+
 Aubin |
 
 Decazeville |
@@ -9178,195 +9280,125 @@ Cavités |
 
 Nivellement Lagrange |
 
-Boussagues |
+Villecelle |
 
-Camplong |
-
-(vide) |
-
-Dépôt |
-
-Verse des Brouttes |
-
-C2 |
-
-Meyreuil |
+Le Pradal |
 
 (vide) |
 
-Dépôt de minerai ou de résidus |
+Cavités |
 
-Le Défends |
+Le Pradal |
 
-C2 |
+Villecelle |
 
-Meyreuil |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Terril du Grappon |
-
-C3 |
-
-Fuveau |
+Taussac-la-Billière |
 
 (vide) |
 
-Dépôt de minerai ou de résidus |
+Cavités |
 
-Madame d'André |
+Taussac |
 
-C3 |
+Les Camoins-Les Accates |
 
-Gardanne |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Les Sauvaires |
-
-C3 |
-
-Gréasque |
+Marseille |
 
 (vide) |
 
-Exutoires de gaz de mine |
+Cavités |
 
-Puits Béthune |
+Les Camoins |
 
-C3 |
+Mine de Gaude |
 
-Gréasque |
+Manosque |
 
-(vide) |
+Gaude |
 
-Exutoires de gaz de mine |
+Cavités |
 
-Puits Prosper |
+Galerie de la gare |
 
-C4 |
+Montgirod |
 
-Gardanne |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Forage Gardanne |
-
-C4 |
-
-Gardanne-Mimet |
+Les Chapelles |
 
 (vide) |
 
-Zones surveillées par microsismique |
+Cavités |
 
-Biver |
+TB Saint-Jacques |
 
-C6 |
+La Motte d'Aveillans |
 
-Mimet |
+La Motte Saint Martin |
 
-(vide) |
+Plateau Matheysin |
 
-Exutoires de gaz de mine |
+Emergences minières |
 
-Forage Mimet 3 |
+Galerie de la Faurie |
 
-C8 |
+La Motte d'Aveillans |
 
-Cadolive-Saint Savournin |
+La Motte Saint Martin |
 
-(vide) |
+Plateau Matheysin |
 
-Zones surveillées par microsismique |
+Emergences minières |
 
-Cadolive |
+Galerie N6 Comberamis |
 
-C8 |
+La Motte d'Aveillans |
 
-Peypin |
+La Motte Saint Martin |
 
-(vide) |
+Plateau Matheysin |
 
-Exutoires de gaz de mine |
+Emergences minières |
 
-Forage Champisse |
+Galerie N10bis |
 
-C8 |
+La Motte d'Aveillans |
 
-Peypin |
+La Motte Saint Martin |
 
-(vide) |
+Plateau Matheysin |
 
-Exutoires de gaz de mine |
+Emergences minières |
 
-Forage Lecas |
+Galerie N14 |
 
-C9 |
+La Motte d'Aveillans |
 
-Cadolive-Peypin |
+La Motte Saint Martin |
 
-(vide) |
+Plateau Matheysin |
 
-Zones surveillées par microsismique |
+Emergences minières |
 
-Peypin |
+Forage de décharge |
 
-C10 |
+La Jonche |
 
-Saint Savournin |
+Saint Arey |
 
-(vide) |
+Plateau Matheysin |
 
-Zones surveillées par microsismique |
+Emergences minières |
 
-Saint Savournin |
+Galerie de la Baume |
 
-C14 |
+Pic de la Fourque |
 
-Fuveau |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Forage Fuveau 2 |
-
-C14 |
-
-Fuveau |
+Couflens-Salau |
 
 (vide) |
 
-Zones surveillées par microsismique |
+Emergences minières |
 
-Fuveau |
-
-C14 |
-
-Fuveau |
-
-(vide) |
-
-Exutoires de gaz de mine |
-
-Puits L'Huillier |
-
-C4-C2-C3-C6-C8-C9-C10-C14-EG |
-
-Aix en Provence-Allauch-Belcodène-Bouc Bel Air-Cadolive-Fuveau-Gardanne-Gréasque-Mimet-Peypin-Simiane-Saint Savournin |
-
-(vide) |
-
-Réseaux de nivellement |
-
-Provence |
+Emergence galerie 1230 |
 
 Combes |
 
@@ -9498,6 +9530,296 @@ Exutoires de gaz de mine |
 
 Puits 1 ancien |
 
+Lavernhe |
+
+Cransac |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits 9 |
+
+C14 |
+
+Fuveau |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Forage Fuveau 2 |
+
+C15 |
+
+Fuveau |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits L'Huillier |
+
+C3 |
+
+Gréasque |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits Béthune |
+
+C4 |
+
+Gréasque |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Puits Prosper |
+
+C4 |
+
+Gardanne |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Forage Gardanne |
+
+C6 |
+
+Mimet |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Forage Mimet 3 |
+
+C8 |
+
+Peypin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Forage Champisse |
+
+C9 |
+
+Peypin |
+
+(vide) |
+
+Exutoires de gaz de mine |
+
+Forage Lecas |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+La Motte d'Aveillans |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+La Motte d'Aveillans |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Peychagnard Nouvelle |
+
+Susville |
+
+Plateau Matheysin |
+
+Exutoires de gaz de mine |
+
+Susville |
+
+Montrambert |
+
+La Ricamarie |
+
+Pigeot |
+
+Piézomètres |
+
+Piézomètre Pigeot |
+
+Peygros-blanquette |
+
+Le Thoronet |
+
+Le Thoronet |
+
+Piézomètres |
+
+K2 |
+
+Peygros-blanquette |
+
+Le Thoronet |
+
+Le Thoronet |
+
+Piézomètres |
+
+FD12 |
+
+Peygros-blanquette |
+
+Le Thoronet |
+
+Le Thoronet |
+
+Piézomètres |
+
+SD2 |
+
+Peygros-blanquette |
+
+Le Thoronet |
+
+Le Thoronet |
+
+Piézomètres |
+
+PZ1 |
+
+Peygros-blanquette |
+
+Le Thoronet |
+
+Le Thoronet |
+
+Réseaux de nivellement |
+
+Nivellement Peygros-Blanquette |
+
+C4-C2-C3-C6-C8-C9-C10-C14-EG |
+
+Aix en Provence-Allauch-Belcodène-Bouc Bel Air-Cadolive-Fuveau-Gardanne-Gréasque-Mimet-Peypin-Simiane-Saint Savournin |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Provence |
+
 Dauphin |
 
 Saint Maime |
@@ -9507,6 +9829,86 @@ Saint Maime |
 Zones affectées par un échauffement souterrain |
 
 Bois d'Asson |
+
+Quartier Gaillard |
+
+Saint Etienne |
+
+(vide) |
+
+Zones affectées par un échauffement souterrain |
+
+Colline des Rosiers |
+
+C10 |
+
+Saint Savournin |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Saint Savournin |
+
+C14 |
+
+Fuveau |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Fuveau |
+
+C4 |
+
+Gardanne-Mimet |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Biver |
+
+C8 |
+
+Cadolive-Saint Savournin |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Cadolive |
+
+C9 |
+
+Cadolive-Peypin |
+
+(vide) |
+
+Zones surveillées par microsismique |
+
+Peypin |
+
+Fontsante |
+
+Tanneron/ Callian |
+
+(vide) |
+
+Dépôt de résidus |
+
+Bassin Lenté |
+
+Fontsante |
+
+Tanneron/ Callian |
+
+(vide) |
+
+Dépôt de résidus |
+
+Bassin St-Barthélémy |
 
 Decazeville Firmi |
 
@@ -9528,6 +9930,76 @@ Dépôt de minerai ou de résidus |
 
 L'Aérien |
 
+Pic de la Fourque |
+
+Couflens-Salau |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Verse 1150 |
+
+Pic de la Fourque |
+
+Couflens-Salau |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Verse 1230 |
+
+Pic de la Fourque |
+
+Couflens-Salau |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Barrage des Cougnets |
+
+C 2 |
+
+Meyreuil |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Le Défends |
+
+C 2 |
+
+Meyreuil |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Terril du Grappon |
+
+C 3 |
+
+Fuveau |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Madame d'André |
+
+C 3 |
+
+Gardanne |
+
+(vide) |
+
+Dépôt de minerai ou de résidus |
+
+Les Sauvaires |
+
 Dourdel Montsalson |
 
 Saint Etienne |
@@ -9548,146 +10020,6 @@ Dépôt de minerai ou de résidus |
 
 Couriot B |
 
-Fontsante |
-
-Tanneron/ Callian |
-
-(vide) |
-
-Dépôt de résidus |
-
-bassin Lenté |
-
-Fontsante |
-
-Tanneron/ Callian |
-
-(vide) |
-
-Dépôt de résidus |
-
-bassin St-Barthélémy |
-
-La Jonche |
-
-Saint Arey |
-
-Plateau Matheysin |
-
-Emergences minières |
-
-Galerie de la Baume |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-MD12 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-MD30 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-MD03 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-MC04 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-MD09 |
-
-La Motte d'Aveillans |
-
-La Motte d'Aveillans |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-MD25 |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-Plateau Matheysin |
-
-Emergences minières |
-
-Galerie de la Faurie |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-Plateau Matheysin |
-
-Emergences minières |
-
-Galerie N6 Comberamis |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-Plateau Matheysin |
-
-Emergences minières |
-
-Galerie N10bis |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-Plateau Matheysin |
-
-Emergences minières |
-
-Galerie N14 |
-
-La Motte d'Aveillans |
-
-La Motte Saint Martin |
-
-Plateau Matheysin |
-
-Emergences minières |
-
-Forage de décharge |
-
 La Talaudière Chazotte |
 
 Saint Jean Bonnefonds |
@@ -9698,322 +10030,72 @@ Dépôt de minerai ou de résidus |
 
 Le Fay |
 
+Boussagues |
+
+Camplong |
+
+(vide) |
+
+Dépôt |
+
+Verse des Brouttes |
+
 Lavernhe |
 
 Cransac |
 
-(vide) |
+Decazeville |
 
-Exutoires de gaz de mine |
+Fissuromètres |
 
-Puits 9 |
+Habitation chemin du Montet |
 
-Les Camoins-Les Accates |
+Peygros-blanquette |
 
-Marseille |
+Le Thoronet |
 
-(vide) |
-
-Cavités |
-
-Les Camoins |
-
-Mine de Gaude |
-
-Manosque |
-
-Gaude |
-
-Cavités |
-
-galerie de la gare |
-
-Mondalazac et Solsac |
-
-Muret-Le-Château |
-
-Quartier des Espeyroux |
-
-Réseau de cannes de convergence |
-
-Espeyroux |
-
-Mondalazac et Solsac |
-
-Muret-Le-Château |
-
-(vide) |
-
-Cavités |
-
-Quartier des Espeyrous |
-
-Montgirod |
-
-Les Chapelles |
-
-(vide) |
-
-Cavités |
-
-TB Saint-Jacques |
-
-Montrambert |
-
-La Ricamarie |
-
-Pigeot |
-
-Piézomètres |
-
-Piézomètre Pigeot |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD2 |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD20bis |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD21bis |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD22 |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD24 |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD24bis |
-
-Peychagnard Nouvelle |
-
-Susville |
-
-Plateau Matheysin |
-
-Exutoires de gaz de mine |
-
-VD33 |
-
-Pic de la Fourque |
-
-Couflens-Salau |
-
-(vide) |
-
-Emergences minières |
-
-Emergence galerie 1230 |
-
-Pic de la Fourque |
-
-Couflens-Salau |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Terril 1150 |
-
-Pic de la Fourque |
-
-Couflens-Salau |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Terril 1230 |
-
-Pic de la Fourque |
-
-Couflens-Salau |
-
-(vide) |
-
-Dépôt de minerai ou de résidus |
-
-Barrage des Cougnets |
-
-Quartier Gaillard |
-
-Saint Etienne |
-
-(vide) |
-
-Zones affectées par un échauffement souterrain |
-
-Colline des Rosiers |
-
-Villecelle |
-
-Le Pradal |
-
-(vide) |
-
-Cavités |
-
-Le Pradal |
-
-Villecelle |
-
-Taussac |
-
-(vide) |
-
-Cavités |
-
-Taussac |
-
-Hors concession |
-
-Limousis |
-
-Artus |
-
-Réseaux de nivellement |
-
-Bassin de l'Artus |
-
-Hors concession |
-
-Salsigne |
-
-Montredon |
-
-Piézomètres |
-
-Piézomètre central |
-
-Hors concession |
-
-Salsigne |
-
-Montredon |
-
-Réseaux de nivellement |
-
-Bassin de Montredon |
-
-Hors concession |
-
-Salsigne |
-
-Montredon |
+Le Thoronet |
 
 Inclinomètre |
 
-Inclinomètre IC5 |
+IC20 |
 
-Hors concession |
+Peygros-blanquette |
 
-Salsigne |
+Le Thoronet |
 
-Montredon |
+Le Thoronet |
 
 Inclinomètre |
 
-Inclinomètre IC6 |
+IC21 |
 
-Hors concession |
+Peygros-blanquette |
 
-Salsigne |
+Le Thoronet |
 
-Montredon |
+Le Thoronet |
 
-Cellule de pression |
+Inclinomètre |
 
-Cellule de pression A |
+I1C |
 
-Hors concession |
+Peygros-blanquette |
 
-Salsigne |
+Le Thoronet |
 
-Montredon |
+Le Thoronet |
 
-Cellule de pression |
+Inclinomètre |
 
-Cellule de pression C |
+I2C |
 
-Hors concession |
+Peygros-blanquette |
 
-Salsigne |
+Le Thoronet |
 
-Montredon |
+Le Thoronet |
 
-Cellule de pression |
+Inclinomètre |
 
-Cellule de pression E 1 |
-
-Hors concession |
-
-Salsigne |
-
-Montredon |
-
-Cellule de pression |
-
-Cellule de pression E 2 |
-
-Hors concession |
-
-Salsigne |
-
-Montredon |
-
-Cellule de pression |
-
-Cellule de pression SC 01 |
-
-Hors concession |
-
-Salsigne |
-
-Montredon |
-
-Cellule de pression |
-
-Cellule de pression SC 03 |
+I12C |
