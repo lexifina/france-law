@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Cette annexe définit la fraction des volumes de certificats d'économies d'énergie réalisée au bénéfice de ménages en situation de précarité énergétique et de grande précarité énergétique en application du IV de l'article 3-1.
+Cette annexe définit, pour les opérations engagées jusqu'au 31 mars 2021 et achevées au plus tard le 30 septembre 2021, la fraction des volumes de certificats d'économies d'énergie réalisée au bénéfice de ménages en situation de précarité énergétique et de grande précarité énergétique en application du IV de l'article 3-1.
 
 DÉPARTEMENT DE RÉALISATION
 
@@ -46,1168 +46,586 @@ COLONNE B
 
 |
 
-01 - Ain
+01 - Ain |
 
-|
+55 % |
 
-55 %
+88 % |
 
-|
+49 - Maine-et-Loire |
 
-88 %
+56 % |
 
-|
+87 % |
 
-49 - Maine-et-Loire
+02 - Aisne |
 
-|
+63 % |
 
-56 %
+91 % |
 
-|
+50 - Manche |
 
-87 %
+59 % |
 
-|
+90 % |
 
-02 - Aisne
+03 - Allier |
 
-|
+67 % |
 
-63 %
+93 % |
 
-|
+51 - Marne |
 
-91 %
+51 % |
 
-|
+85 % |
 
-50 - Manche
+04 - Alpes-de-Haute-Provence |
 
-|
+67 % |
 
-59 %
+92 % |
 
-|
+52 - Haute-Marne |
 
-90 %
+60 % |
 
-|
+90 % |
 
-03 - Allier
+05 - Hautes-Alpes |
 
-|
+53 % |
 
-67 %
+88 % |
 
-|
+53 - Mayenne |
 
-93 %
+60 % |
 
-|
+92 % |
 
-51 - Marne
+06 - Alpes-Maritimes |
 
-|
+43 % |
 
-51 %
+80 % |
 
-|
+54 - Meurthe-et-Moselle |
 
-85 %
+60 % |
 
-|
+89 % |
 
-04 - Alpes-de-Haute-Provence
+07 - Ardèche |
 
-|
+67 % |
 
-67 %
+94 % |
 
-|
+55 - Meuse |
 
-92 %
+67 % |
 
-|
+92 % |
 
-52 - Haute-Marne
+08 - Ardennes |
 
-|
+64 % |
 
-60 %
+93 % |
 
-|
+56 - Morbihan |
 
-90 %
+66 % |
 
-|
+94 % |
 
-05 - Hautes-Alpes
+09 - Ariège |
 
-|
+74 % |
 
-53 %
+95 % |
 
-|
+57 - Moselle |
 
-88 %
+61 % |
 
-|
+89 % |
 
-53 - Mayenne
+10 - Aube |
 
-|
+63 % |
 
-60 %
+92 % |
 
-|
+58 - Nièvre |
 
-92 %
+63 % |
 
-|
+92 % |
 
-06 - Alpes-Maritimes
+11 - Aude |
 
-|
+74 % |
 
-43 %
+95 % |
 
-|
+59 - Nord |
 
-80 %
+63 % |
 
-|
+92 % |
 
-54 - Meurthe-et-Moselle
+12 - Aveyron |
 
-|
+67 % |
 
-60 %
+94 % |
 
-|
+60 - Oise |
 
-89 %
+55 % |
 
-|
+87 % |
 
-07 - Ardèche
+13 - Bouches-du-Rhône |
 
-|
+61 % |
 
-67 %
+89 % |
 
-|
+61 - Orne |
 
-94 %
+63 % |
 
-|
+92 % |
 
-55 - Meuse
+14 - Calvados |
 
-|
+60 % |
 
-67 %
+91 % |
 
-|
+62 - Pas-de-Calais |
 
-92 %
+66 % |
 
-|
+93 % |
 
-08 - Ardennes
+15 - Cantal |
 
-|
+65 % |
 
-64 %
+93 % |
 
-|
+63 - Puy-de-Dôme |
 
-93 %
+59 % |
 
-|
+90 % |
 
-56 - Morbihan
+16 - Charente |
 
-|
+70 % |
 
-66 %
+93 % |
 
-|
+64 - Pyrénées-Atlantiques |
 
-94 %
+60 % |
 
-|
+90 % |
 
-09 - Ariège
+17 - Charente-Maritime |
 
-|
+67 % |
 
-74 %
+93 % |
 
-|
+65 - Hautes-Pyrénées |
 
-95 %
+66 % |
 
-|
+93 % |
 
-57 - Moselle
+18 - Cher |
 
-|
+61 % |
 
-61 %
+91 % |
 
-|
+66 - Pyrénées-Orientales |
 
-89 %
+72 % |
 
-|
+94 % |
 
-10 - Aube
+19 - Corrèze |
 
-|
+68 % |
 
-63 %
+93 % |
 
-|
+67 - Bas-Rhin |
 
-92 %
+61 % |
 
-|
+89 % |
 
-58 - Nièvre
+21 - Côte-d'Or |
 
-|
+58 % |
 
-63 %
+90 % |
 
-|
+68 - Haut-Rhin |
 
-92 %
+61 % |
 
-|
+90 % |
 
-11 - Aude
+22 - Côtes-d'Armor |
 
-|
+71 % |
 
-74 %
+95 % |
 
-|
+69 - Rhône |
 
-95 %
+58 % |
 
-|
+89 % |
 
-59 - Nord
+23 - Creuse |
 
-|
+65 % |
 
-63 %
+92 % |
 
-|
+70 - Haute-Saône |
 
-92 %
+66 % |
 
-|
+93 % |
 
-12 - Aveyron
+24 - Dordogne |
 
-|
+67 % |
 
-67 %
+93 % |
 
-|
+71 - Saône-et-Loire |
 
-94 %
+61 % |
 
-|
+91 % |
 
-60 - Oise
+25 - Doubs |
 
-|
+64 % |
 
-55 %
+91 % |
 
-|
+72 - Sarthe |
 
-87 %
+61 % |
 
-|
+92 % |
 
-13 - Bouches-du-Rhône
+26 - Drôme |
 
-|
+70 % |
 
-61 %
+94 % |
 
-|
+73 - Savoie |
 
-89 %
+53 % |
 
-|
+87 % |
 
-61 - Orne
+27 - Eure |
 
-|
+59 % |
 
-63 %
+90 % |
 
-|
+74 - Haute-Savoie |
 
-92 %
+52 % |
 
-|
+85 % |
 
-14 - Calvados
+28- Eure-et-Loir |
 
-|
+57 % |
 
-60 %
+87 % |
 
-|
+75 - Paris |
 
-91 %
+51 % |
 
-|
+80 % |
 
-62 - Pas-de-Calais
+29 - Finistère |
 
-|
+69 % |
 
-66 %
+95 % |
 
-|
+76 - Seine-Maritime |
 
-93 %
+54 % |
 
-|
+87 % |
 
-15 - Cantal
+2A - Corse-du-Sud |
 
-|
+59 % |
 
-65 %
+87 % |
 
-|
+77 - Seine-et-Marne |
 
-93 %
+62 % |
 
-|
+92 % |
 
-63 - Puy-de-Dôme
+2B - Haute-Corse |
 
-|
+63 % |
 
-59 %
+89 % |
 
-|
+78 - Yvelines |
 
-90 %
+53 % |
 
-|
+87 % |
 
-16 - Charente
+30 - Gard |
 
-|
+77 % |
 
-70 %
+95 % |
 
-|
+79 - Deux-Sèvres |
 
-93 %
+62 % |
 
-|
+93 % |
 
-64 - Pyrénées-Atlantiques
+31 - Haute-Garonne |
 
-|
+63 % |
 
-60 %
+90 % |
 
-|
+80 - Somme |
 
-90 %
+64 % |
 
-|
+91 % |
 
-17 - Charente-Maritime
+32 - Gers |
 
-|
+64 % |
 
-67 %
+91 % |
 
-|
+81 - Tarn |
 
-93 %
+74 % |
 
-|
+96 % |
 
-65 - Hautes-Pyrénées
+33 - Gironde |
 
-|
+55 % |
 
-66 %
+88 % |
 
-|
+82 - Tarn-et-Garonne |
 
-93 %
+77 % |
 
-|
+96 % |
 
-18 - Cher
+34 - Hérault |
 
-|
+68 % |
 
-61 %
+93 % |
 
-|
+83 - Var |
 
-91 %
+62 % |
 
-|
+90 % |
 
-66 - Pyrénées-Orientales
+35 - Ille-et-Vilaine |
 
-|
+61 % |
 
-72 %
+92 % |
 
-|
+84 - Vaucluse |
 
-94 %
+70 % |
 
-|
+94 % |
 
-19 - Corrèze
+36 - Indre |
 
-|
+61 % |
 
-68 %
+92 % |
 
-|
+85 - Vendée |
 
-93 %
+63 % |
 
-|
+94 % |
 
-67 - Bas-Rhin
+37 - Indre-et-Loire |
 
-|
+67 % |
 
-61 %
+93 % |
 
-|
+86 - Vienne |
 
-89 %
+65 % |
 
-|
+92 % |
 
-21 - Côte-d'Or
+38 - Isère |
 
-|
+60 % |
 
-58 %
+90 % |
 
-|
+87 - Haute-Vienne |
 
-90 %
+63 % |
 
-|
+92 % |
 
-68 - Haut-Rhin
+39 - Jura |
 
-|
+64 % |
 
-61 %
+91 % |
 
-|
+88 - Vosges |
 
-90 %
+62 % |
 
-|
+91 % |
 
-22 - Côtes-d'Armor
+40 - Landes |
 
-|
+64 % |
 
-71 %
+92 % |
 
-|
+89 - Yonne |
 
-95 %
+68 % |
 
-|
+93 % |
 
-69 - Rhône
+41 - Loir-et-Cher |
 
-|
+61 % |
 
-58 %
+92 % |
 
-|
+90 - Territoire de Belfort |
 
-89 %
+64 % |
 
-|
+90 % |
 
-23 - Creuse
+42 - Loire |
 
-|
+63 % |
 
-65 %
+92 % |
 
-|
+91 - Essonne |
 
-92 %
+55 % |
 
-|
+89 % |
 
-70 - Haute-Saône
+43 - Haute-Loire |
 
-|
+68 % |
 
-66 %
+93 % |
 
-|
+92 - Hauts-de-Seine |
 
-93 %
+46 % |
 
-|
+82 % |
 
-24 - Dordogne
+44 - Loire-Atlantique |
 
-|
+62 % |
 
-67 %
+91 % |
 
-|
+93 - Seine-Saint-Denis |
 
-93 %
+62 % |
 
-|
+90 % |
 
-71 - Saône-et-Loire
+45 - Loiret |
 
-|
+61 % |
 
-61 %
+91 % |
 
-|
+94 - Val-de-Marne |
 
-91 %
+53 % |
 
-|
+86 % |
 
-25 - Doubs
+46 - Lot |
 
-|
+70 % |
 
-64 %
+94 % |
 
-|
+95 - Val-d'Oise |
 
-91 %
+58 % |
 
-|
+89 % |
 
-72 - Sarthe
+47 - Lot-et-Garonne |
 
-|
+72 % |
 
-61 %
+94 % |
 
-|
+Collectivités d'outre-mer |
 
-92 %
+80 % |
 
-|
+94 % |
 
-26 - Drôme
+48 - Lozère |
 
-|
+59 % |
 
-70 %
-
-|
-
-94 %
-
-|
-
-73 - Savoie
-
-|
-
-53 %
-
-|
-
-87 %
-
-|
-
-27 - Eure
-
-|
-
-59 %
-
-|
-
-90 %
-
-|
-
-74 - Haute-Savoie
-
-|
-
-52 %
-
-|
-
-85 %
-
-|
-
-28- Eure-et-Loir
-
-|
-
-57 %
-
-|
-
-87 %
-
-|
-
-75 - Paris
-
-|
-
-51 %
-
-|
-
-80 %
-
-|
-
-29 - Finistère
-
-|
-
-69 %
-
-|
-
-95 %
-
-|
-
-76 - Seine-Maritime
-
-|
-
-54 %
-
-|
-
-87 %
-
-|
-
-2A - Corse-du-Sud
-
-|
-
-59 %
-
-|
-
-87 %
-
-|
-
-77 - Seine-et-Marne
-
-|
-
-62 %
-
-|
-
-92 %
-
-|
-
-2B - Haute-Corse
-
-|
-
-63 %
-
-|
-
-89 %
-
-|
-
-78 - Yvelines
-
-|
-
-53 %
-
-|
-
-87 %
-
-|
-
-30 - Gard
-
-|
-
-77 %
-
-|
-
-95 %
-
-|
-
-79 - Deux-Sèvres
-
-|
-
-62 %
-
-|
-
-93 %
-
-|
-
-31 - Haute-Garonne
-
-|
-
-63 %
-
-|
-
-90 %
-
-|
-
-80 - Somme
-
-|
-
-64 %
-
-|
-
-91 %
-
-|
-
-32 - Gers
-
-|
-
-64 %
-
-|
-
-91 %
-
-|
-
-81 - Tarn
-
-|
-
-74 %
-
-|
-
-96 %
-
-|
-
-33 - Gironde
-
-|
-
-55 %
-
-|
-
-88 %
-
-|
-
-82 - Tarn-et-Garonne
-
-|
-
-77 %
-
-|
-
-96 %
-
-|
-
-34 - Hérault
-
-|
-
-68 %
-
-|
-
-93 %
-
-|
-
-83 - Var
-
-|
-
-62 %
-
-|
-
-90 %
-
-|
-
-35 - Ille-et-Vilaine
-
-|
-
-61 %
-
-|
-
-92 %
-
-|
-
-84 - Vaucluse
-
-|
-
-70 %
-
-|
-
-94 %
-
-|
-
-36 - Indre
-
-|
-
-61 %
-
-|
-
-92 %
-
-|
-
-85 - Vendée
-
-|
-
-63 %
-
-|
-
-94 %
-
-|
-
-37 - Indre-et-Loire
-
-|
-
-67 %
-
-|
-
-93 %
-
-|
-
-86 - Vienne
-
-|
-
-65 %
-
-|
-
-92 %
-
-|
-
-38 - Isère
-
-|
-
-60 %
-
-|
-
-90 %
-
-|
-
-87 - Haute-Vienne
-
-|
-
-63 %
-
-|
-
-92 %
-
-|
-
-39 - Jura
-
-|
-
-64 %
-
-|
-
-91 %
-
-|
-
-88 - Vosges
-
-|
-
-62 %
-
-|
-
-91 %
-
-|
-
-40 - Landes
-
-|
-
-64 %
-
-|
-
-92 %
-
-|
-
-89 - Yonne
-
-|
-
-68 %
-
-|
-
-93 %
-
-|
-
-41 - Loir-et-Cher
-
-|
-
-61 %
-
-|
-
-92 %
-
-|
-
-90 - Territoire de Belfort
-
-|
-
-64 %
-
-|
-
-90 %
-
-|
-
-42 - Loire
-
-|
-
-63 %
-
-|
-
-92 %
-
-|
-
-91 - Essonne
-
-|
-
-55 %
-
-|
-
-89 %
-
-|
-
-43 - Haute-Loire
-
-|
-
-68 %
-
-|
-
-93 %
-
-|
-
-92 - Hauts-de-Seine
-
-|
-
-46 %
-
-|
-
-82 %
-
-|
-
-44 - Loire-Atlantique
-
-|
-
-62 %
-
-|
-
-91 %
-
-|
-
-93 - Seine-Saint-Denis
-
-|
-
-62 %
-
-|
-
-90 %
-
-|
-
-45 - Loiret
-
-|
-
-61 %
-
-|
-
-91 %
-
-|
-
-94 - Val-de-Marne
-
-|
-
-53 %
-
-|
-
-86 %
-
-|
-
-46 - Lot
-
-|
-
-70 %
-
-|
-
-94 %
-
-|
-
-95 - Val-d'Oise
-
-|
-
-58 %
-
-|
-
-89 %
-
-|
-
-47 - Lot-et-Garonne
-
-|
-
-72 %
-
-|
-
-94 %
-
-|
-
-Collectivités d'outre-mer
-
-|
-
-80 %
-
-|
-
-94 %
-
-|
-
-48 - Lozère
-
-|
-
-59 %
-
-|
-
-89 %
-
-|
+89 % |
 
 |
