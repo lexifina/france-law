@@ -410,9 +410,7 @@ Direction générale de la police nationale |
 
 Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
-60
-
-|
+60 |
 
 - |
 

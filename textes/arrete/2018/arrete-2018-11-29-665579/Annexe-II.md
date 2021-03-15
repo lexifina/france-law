@@ -32,7 +32,7 @@ Direction générale des étrangers en France |
 
 Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
 
-Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers. |
+Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers |
 
 Préfecture de police et secrétariat général pour l'administration de la police de la zone de défense et de sécurité de Paris : |
 
@@ -50,7 +50,7 @@ Direction de la police générale |
 
 Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
 
-Chef du 8e bureau au sein de la sous-direction de l'administration des étrangers. |
+Chef du 8e bureau au sein de la sous-direction de l'administration des étrangers |
 
 Direction de la sécurité de proximité de l'agglomération parisienne |
 
@@ -116,7 +116,7 @@ Hauts-de-Seine |
 
 Directeur des migrations et de l'intégration. |
 
-Directeur des ressources humaines et des moyens. |
+- |
 
 Seine-Saint-Denis |
 
