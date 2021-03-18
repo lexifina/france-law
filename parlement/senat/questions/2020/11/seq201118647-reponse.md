@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118647
+
+- Question : [SEQ201118647](seq201118647.md) — Implantation des maisons France services
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-03-18, page 1819*
+
+Le Président de la République a décidé le 25 avril 2019 la mise en place d'un réseau France Services, afin d'accompagner les citoyens dans leurs principales démarches administratives, au plus près du terrain. Le réseau France Services poursuit trois objectifs : meilleure accessibilité des services publics, simplification des démarches, renforcement de la qualité de services. L'objectif est de couvrir, avant fin 2022, l'ensemble des cantons. Au total, et en fonction des besoins, ce sont 2 500 structures qui seront déployées sur le territoire, soit un peu plus d'une par canton, ce qui laisse aux préfets, en étroite concertation avec les élus, des marges de manœuvre pour les implanter dans les territoires prioritaires. En outre, les préfets de région ont la possibilité de faire évoluer de 10 % les plafonds fixés pour chaque département. Inscrite à l'agenda rural, cette mesure s'adresse tout particulièrement aux territoires ruraux. Ainsi, 80 % des espaces France Services ouverts en 2020 se trouvent dans des territoires ruraux, dont près de 50 % en zone de revitalisation rurale (ZRR). En outre, un appel à manifestation d'intérêts (AMI) a été lancé en novembre 2020 pour faire circuler 50 « Bus France Services » dans les territoires ruraux et renforcer l'offre de services. Les projets éligibles bénificieront d'une aide en investissement de 60 000 € pour accompagner l'équipement des véhicules et leur transformation en France Services itinérants. Soumis aux mêmes critères de labellisation qu'une structure fixe, ils bénéficieront ensuite d'une aide au fonctionnement de 30 000 €. L'AMI finance des structures existantes souhaitant développer une offre mobile, mais aussi des projets nouveaux.
