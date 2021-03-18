@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018159
+
+- Question : [SEQ201018159](seq201018159.md) — Transport scolaire et enfants de maternelle
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-03-18, page 1816*
+
+L'organisation et la responsabilité des services de transport scolaire, dont la responsabilité est confiée à la région en vertu des dispositions de l'article L. 213-11 du code de l'éducation et des articles L. 3111-7 à L. 3111-10 du code des transports, présente le caractère d'un service public dont l'accès est soumis au respect du principe d'égalité entre les usagers (V., par exemple, Cons. d'État, 19 juin 1992, Département du Puy-de-Dôme, req. n° 108 367). Ce principe, constitutionnellement garanti par les articles 1er et 6 de la Déclaration des droits de l'Homme et du Citoyen du 26 août 1789, suppose, aux termes d'une jurisprudence constitutionnelle et administrative constante, que les usagers du service placés dans une situation identique doivent être traités de façon identiques. Il en résulte, qu'une discrimination entre les usagers d'un service public n'est légale que si ces derniers sont placés dans une situation différente, au regard de critères objectifs et rationnels, ou qu'une telle différence de traitement est justifiée par un motif d'intérêt général. Sous réserve de l'interprétation du juge, il apparaît, d'une part, que les élèves de maternelle et les autres, sont placés dans une situation identique au regard de l'obligation de scolarisation à laquelle ils sont assujettis. Il n'en reste pas moins qu'au regard de leur âge, les conditions de leur prise en charge peut justifier un traitement différent, exigeant notamment un accompagnant. Il s'en déduit que les régions doivent s'assurer que les services de transport scolaire qu'elles organisent puissent traiter de manière égale tous les élèves.
