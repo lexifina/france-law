@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120232
+
+- Question : [SEQ210120232](seq210120232.md) — Évolution des règles liées au 1 % patronal
+
+## Réponse
+
+*Logement, JO du 2021-03-18, page 1842*
+
+L'article L. 441-1 du Code de la construction et de l'habitat introduit la possibilité, pour les organismes d'habitations à loyer modéré, en contrepartie d'un apport de terrain, d'un financement ou d'une garantie financière, de contracter des obligations de réservation d'un flux annuel de logements, lors d'une mise en location initiale ou ultérieure, à l'exception des logements réservés par des services relevant de la défense nationale ou de la sécurité intérieure qui sont identifiés précisément. Le plus souvent, les réservations à disposition du maire sont la contrepartie d'une garantie financière accordée pour l'obtention, auprès de la Caisse des dépôts, d'un prêt par le bailleur. Ces réservations peuvent également être la contrepartie d'un financement ou d'un apport de terrain. De la même manière, les droits de réservation acquis par Action Logement sont la contrepartie d'une subvention ou d'un prêt que cet organisme a accordé au bailleur social. La quotité de réservation est ainsi définie lors du montage financier du programme de logement social en fonction de la participation des différents financeurs et inscrite dans des conventions de réservation. La loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique, dite « loi ELAN », a introduit l'obligation d'une gestion en flux des réservations, évitant ainsi de figer les situations dans le temps, afin d'offrir aux bailleurs, aux réservataires et à la collectivité la possibilité de déployer des politiques de peuplement au plus près des territoires. Le passage à la gestion en flux, partout sur le territoire, est en cours.
