@@ -32,11 +32,11 @@ g) Le montant cumulé des plus-values ou moins-values qui n'ont pas été retenu
 
 6. Dans les situations visées aux c, d, e, f, g, i ou j du 6 de l'article 223 L du code général des impôts, des états faisant apparaître :
 
-a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés apportées et qui font partie du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui provient de chacune des sociétés pour lesquelles le bénéfice de cette imputation a été demandé ;
+a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés apportées et qui font partie du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui provient de chacune des sociétés pour lesquelles le bénéfice de cette imputation a été demandé et de chacune des sociétés membres du groupe ayant cessé absorbées par les sociétés précitées ou scindées à leur profit dans les conditions mentionnées au 5 de l'article 223 I du code général des impôts ;
 
-b) L'imputation de ce déficit sur le bénéfice de la société qui en est titulaire et sur les bénéfices des sociétés mentionnées ci-dessus ;
+b) L'imputation de ce déficit sur le bénéfice de la société qui en est titulaire et sur les bénéfices des sociétés membres du groupe ayant cessé ou des sociétés apportées et qui font partie du nouveau groupe ;
 
-c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts.
+c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés membres du groupe ayant cessé ou des sociétés apportées et qui font partie du nouveau groupe, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts.
 
 6 bis. Dans les situations mentionnées au h du 6 de l'article 223 L du code général des impôts, des états faisant apparaître, par société sortie du groupe, la quotité du déficit et de la moins-value nette à long terme d'ensemble mentionnée au deuxième alinéa de l'article 223 E du code général des impôts revenant à chacune d'elles.
 
