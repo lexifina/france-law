@@ -8,15 +8,15 @@ SOCIÉTÉ |
 
 ADRESSE |
 
-APPAREILS AGRÉÉS
+APPAREILS AGRÉÉS POUR
 
-pour lesquels la société reçoit l'habilitation |
+lesquels la société reçoit l'habilitation |
 
 1 |
 
 AEMI |
 
-56, avenue Pierre-Berthelot-14000 Caen |
+56, avenue Pierre Berthelot-14000 Caen |
 
 Appareils radar :
 
@@ -30,7 +30,7 @@ Simrad |
 
 ALPHATRON MARINE FRANCE |
 
-114, avenue de la Plaine
+114, avenue de la Plaine-
 
 06250 Mougins |
 
@@ -56,6 +56,32 @@ AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
 3 |
 
+E-NAUTIC |
+
+12, quai du capitaine Allègre
+
+33120 Arcachon |
+
+Appareils radar :
+
+JRC JMA-610 6/7/9 (R-4-015)
+
+Indicateurs de vitesse de giration :
+
+Alphatriopilot MF 90°/ min + EBF01A (R-1-088) ;
+
+Alphaturn MF (R-4-092) ;
+
+Alphaturn 90° MC/ Alphaturn 300° MC (R-4-093) ;
+
+EBF 01a/ Basicturn (R-4-094) ;
+
+EBF Kombipilot/ Alphatron-Basictriple (R-4-095) ;
+
+AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
+
+4 |
+
 ENTCO |
 
 1, impasse des Peupliers
@@ -80,11 +106,11 @@ EBF Kombipilot/ Alphatron-Basictriple (R-4-095) ;
 
 AlphaTurn (River) MFM/ MFL 90°/ min, 300°/ min + EBF01a (e-01-086) |
 
-4 |
+5 |
 
 MAP Marine |
 
-1, quai de la Grande-Bigue, bât. B 13002 Marseille |
+1, quai de la Grande Bigue, bât. B-13002 Marseille |
 
 Appareils radar :
 
@@ -94,11 +120,11 @@ Indicateurs de vitesse de giration :
 
 Radio Zeeland |
 
-5 |
+6 |
 
 PROMAT SÉCURITÉ |
 
-68, boulevard Jules-Durand 76056 Le Havre |
+68, boulevard Jules Durand-76056 Le Havre |
 
 Appareils radar :
 
@@ -112,11 +138,11 @@ Indicateurs de vitesse de giration :
 
 AlphaTurn (River) MFM/ MFL 90°/ min 300°/ min + EBF01a (e-01-086) |
 
-6 |
+7 |
 
 RADIO HOLLAND FRANCE |
 
-21, rue Paul-Verlaine
+21, rue Paul Verlaine-
 
 76700 Harfleur |
 
@@ -156,11 +182,11 @@ Titan 500 90°/ min 270°/ min + S300 (e-01-084) ;
 
 Titan 1000 90°/ min 300°/ min + S300 (e-01-083) |
 
-7 |
+8 |
 
 SIECMI |
 
-3, quai Est
+3, quai Est-
 
 29900 Concarneau |
 
@@ -172,13 +198,13 @@ Indicateurs de vitesse de giration :
 
 Radio Holland ; Radio Zeeland ; Alphatron |
 
-8 |
+9 |
 
 THEMYS |
 
-Quartier de la Chaume
+Quartier de la chaume-
 
-CD 45-pont de l'Etoile
+CD 45-pont de l'Etoile-
 
 13360 Roquevaire |
 
