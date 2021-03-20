@@ -664,20 +664,6 @@ Hydrolyse des liaisons alpha 1-4 glycosidiques des polysaccharides et des oligos
 
 Teneur techniquement inévitable. |
 
-Alpha-amylase de Pseudomonas fluorescens DC 88 porteuse d'un gène hybride de Thermococcus / codant l'alpha-amylase. |
-
-Enzymes. |
-
-Amidonnerie, production de glucose
-
-Industrie de l'alcool.
-
-|
-
-Hydrolyse des liaisons endo-alpha-1, 4-D-glucosidiques des oligo-saccharides et des polysaccharides. |
-
-Dose techniquement inévitable. |
-
 Alpha-amylase issue d'une souche génétiquement modifiée de Trichoderma reesei (LOH4 AkAApaA) porteuse du gène codant une alpha-amylase d'Aspergillus kawachii. |
 
 Enzymes |
@@ -1087,16 +1073,6 @@ Addition de galactose ou de lactose pour obtenir des galacto-oligosaccharides.
 Dose techniquement inévitable.
 
 |
-
-Bêta galactosidase BbgIV issue d'une souche génétiquement modifiée d'Escherichia coli (BgIA MCB3) porteuse du gène codant une bêta galactosidase BbgIV de Bifidobactérium bifidum. |
-
-Enzymes. |
-
-Galacto-oligosaccharides |
-
-Transgalactosylation générant des galacto-oligosaccharides à partir de lactose. |
-
-Teneur techniquement inévitable. |
 
 Bêta-galactosidase de Kluyveromyces lactis n° 013-2 (FERM P-3513). |
 

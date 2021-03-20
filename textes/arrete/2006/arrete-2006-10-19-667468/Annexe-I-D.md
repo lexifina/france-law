@@ -92,26 +92,6 @@ Hydrolyse des lipides lors du prétraitement des matières premières utilisées
 
 Teneur résiduelle techniquement inévitable. |
 
-Bêta galactosidase BbgIV issue d'une souche génétiquement modifiée d'Escherichia coli (BgIA MCB3) porteuse du gène codant une bêta galactosidase BbgIV de Bifidobactérium bifidum.
-
-|
-
-Enzymes.
-
-|
-
-Galacto-oligosaccharides.
-
-|
-
-Transgalactosylation générant des galacto-oligosaccharides à partir de lactose.
-
-|
-
-Teneur techniquement inévitable.
-
-|
-
 Enzymes amylolytiques citées à l'annexe I C.
 
 |
