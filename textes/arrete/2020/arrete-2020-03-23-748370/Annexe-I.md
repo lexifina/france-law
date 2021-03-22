@@ -64,8 +64,38 @@ Désignation de la division, du groupe ou de la classe |
 
 -Tous les codes appartenant à la classe 51.10 |
 
--Transports aériens de passagers
+-Transports aériens de passagers |
 
-|
+Les codes appartenant à la classe 85.51 |
+
+Enseignement de disciplines sportives et d'activités de loisirs |
+
+Les codes appartenant à la classe 74.30 |
+
+Traduction et interprétation |
+
+Les codes appartenant à la classe 96.04 |
+
+Entretien corporel |
+
+Les codes appartenant à la classe 85.52 |
+
+Enseignement culturel |
+
+Les codes appartenant à la classe 49.10 |
+
+Transport ferroviaire interurbain de voyageurs |
+
+Sous-catégorie parmi les entreprises dont le code NAF est 78. 10Z |
+
+Sous-catégorie des activités des agences de mannequin, à l'exclusion des autres catégories d'entreprises partageant le même code NAF |
+
+Sous-catégorie parmi les entreprises dont le code NAF est 66. 12Z |
+
+Sous-catégorie des services de change de devises, à l'exclusion des autres catégories d'entreprises partageant le même code NAF |
+
+Sous-catégorie parmi les entreprises dont le code NAF est 47. 78C |
+
+Sous-catégorie du commerce de détail de souvenirs, d'objets artisanaux et d'articles religieux, à l'exclusion des autres catégories d'entreprises partageant le même code NAF |
 
 .
