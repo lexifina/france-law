@@ -1,0 +1,51 @@
+# Accélérer l’égalité économique et professionnelle
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42024
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/accelerer_egalite_economique_professionnelle
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-592.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-03-23 : 1er dépôt d'une initiative. (PIONANR5L15B4000)
+  - 2021-04-05 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-23 : Renvoi en commission au fond
+      - 2021-04-07 : Nomination de rapporteur
+      - 2021-04-07 : Réunion de commission
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-05 : Dépôt de rapport (RAPPANR5L15B4143, PIONANR5L15BTC4143)
+  - Discussion en séance publique
+    - 2021-05-11 : Discussion en séance publique
+    - 2021-05-11 : Discussion en séance publique
+    - 2021-05-12 : Discussion en séance publique
+    - 2021-05-12 : Discussion en séance publique
+    - 2021-05-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-05-12 : Dépôt d'une initiative en navette (PIONSNR5S359B0592)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-10-13 : Dépôt de rapport (RAPPSNR5S379B0052, PIONSNR5S379BTC0053)
+  - Discussion en séance publique
+    - 2021-10-27 : Décision
+- Commission Mixte Paritaire
+  - 2021-10-28 : Dépôt d'un projet de loi (PIONANR5L15B4617)
+  - 2021-10-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-12-07 : Nomination de rapporteur
+    - 2021-12-07 : Dépôt du rapport d'une CMP (RAPPANR5L15B4769, PIONANR5L15BTC4769)
+    - 2021-12-07 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0262, PIONSNR5S379BTC0263)
+  - Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Décision
+  - Discussion en séance publique
+    - 2021-12-16 : Décision
+  - 2021-12-07 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-12-24 : Promulgation d'une loi
