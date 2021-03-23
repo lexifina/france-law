@@ -1,0 +1,51 @@
+# Interdiction des pratiques visant à modifier l’orientation sexuelle ou l’identité de genre d’une personne
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42044
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/interdiction_pratiques_modifiant_orientation_sexuelle
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl21-013.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-03-23 : 1er dépôt d'une initiative. (PIONANR5L15B4021)
+  - 2021-09-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-03-23 : Renvoi en commission au fond
+      - 2021-09-21 : Nomination de rapporteur
+      - 2021-09-21 : Réunion de commission
+      - 2021-09-29 : Réunion de commission
+      - 2021-10-05 : Réunion de commission
+      - 2021-09-29 : Dépôt de rapport (RAPPANR5L15B4501, PIONANR5L15BTC4501)
+  - Discussion en séance publique
+    - 2021-10-05 : Discussion en séance publique
+    - 2021-10-05 : Discussion en séance publique
+    - 2021-10-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-10-06 : Dépôt d'une initiative en navette (PIONSNR5S379B0013)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-06 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-12-01 : Dépôt de rapport (RAPPSNR5S379B0238, PIONSNR5S379BTC0239)
+  - Discussion en séance publique
+    - 2021-12-07 : Discussion en séance publique
+    - 2021-12-07 : Décision
+- Commission Mixte Paritaire
+  - 2021-12-07 : Dépôt d'un projet de loi (PIONANR5L15B4785)
+  - 2021-12-08 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-12-14 : Nomination de rapporteur
+    - 2021-12-14 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0294, PIONSNR5S379BTC0295)
+    - 2021-12-14 : Dépôt du rapport d'une CMP (RAPPANR5L15B4802, PIONANR5L15BTC4802)
+  - Discussion en séance publique
+    - 2022-01-20 : Discussion en séance publique
+    - 2022-01-20 : Décision
+  - Discussion en séance publique
+    - 2022-01-25 : Discussion en séance publique
+    - 2022-01-25 : Décision
+  - 2021-12-14 : Décision de la CMP
+- Promulgation de la loi
+  - 2022-01-31 : Promulgation d'une loi
