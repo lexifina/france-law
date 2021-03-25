@@ -1,0 +1,9 @@
+# Réponse à la question SEQ190912361
+
+- Question : [SEQ190912361](seq190912361.md) — Congés spécifiques des proches aidants
+
+## Réponse
+
+*Autonomie, JO du 2021-03-25, page 1981*
+
+En application du Décret n° 2020-1208 du 1er octobre 2020 et conformément aux dispositions de la loi de financement de la Sécurité sociale 2020, le congé de proche aidant permet de suspendre ou réduire son activité professionnelle pour accompagner un proche en situation de handicap ou un proche âgé en perte d'autonomie importante tout en étant indemnisé. Ce congé, s'adressant auparavant uniquement aux salariés (avec un an d'ancienneté au minimum, ce qui n'est plus le cas dans sa version 2020), est maintenant ouvert également aux fonctionnaires, aux travailleurs indépendants et aux personnes en recherche d'emploi qui peuvent faire le choix, pendant cette période, de suspendre leur allocation chômage. Il peut désormais être pris de manière fractionnée, la durée minimale de chaque période de congé est fixée à une journée. Le congé peut également être transformé en période de travail à temps partiel, sous réserve de l'accord de l'employeur. Sa durée maximale est de 3 mois, renouvelable dans la limite d'un an sur l'ensemble de la carrière professionnelle, à défaut d'accord collectif plus favorable. Le maintien dans l'emploi est garanti. Ce congé donne droit maintenant à l'allocation journalière de proche aidant, qui vise à compenser une partie de la perte de salaire, dans la limite de soixante-six jours au cours du parcours professionnel. Son montant : 43,83 euros par jour pour une personne vivant en couple, et 52,08 euros pour une personne seule. Cette allocation, versée par la caisse d'allocations familiales et la mutualité sociale agricole pour les agriculteurs, sans conditions de ressources, ouvre également des droits à la retraite.
