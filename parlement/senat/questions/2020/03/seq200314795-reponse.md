@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314795
+
+- Question : [SEQ200314795](seq200314795.md) — Autisme en France
+
+## Réponse
+
+*Personnes handicapées, JO du 2021-03-25, page 2029*
+
+Vous m'interrogez sur la mise en œuvre de la stratégie nationale autisme et troubles du neuro-développement (TND), notamment au regard de la recherche en matière d'épidémiologie. Plusieurs mesures de la stratégie nationale autisme- TND visent à intensifier et renforcer la recherche et la formation sur l'autisme et les troubles du neuro-développement. Un Groupement d'Intérêt Scientifique (GIS), créé en collaboration avec plusieurs associations défendant les intérêts de personnes autistes et/ou TND, et 5 centres d'excellence permettent une mise en réseau de la recherche et l'organisation du partage et de l'interopérabilité des données. Les objectifs du GIS sont de mieux comprendre comment se développe les troubles du neuro-développement, et en particulier les troubles autistiques, à travers 4 thématiques principales : - Etudier la période prénatale et la prématurité afin d'élucider le rôle des facteurs environnementaux - Identifier les biomarqueurs corrélés au développement des TND - Comprendre les transformations qui s'opèrent à l'adolescence - Mieux connaitre les spécificités des troubles autistiques à l'âge adulte, afin d'adapter le diagnostic. Pour avoir une idée plus précise de la répartition des équipes de recherche spécialisées en autisme, je vous invite à consulter le bilan de la Délégation Interministérielle pour l'Autisme au sein des troubles du neuro-développement, deux ans après la mise en place de la stratégie, et en particulier la page 11. Par ailleurs, afin d'encourager la mobilisation des jeunes chercheurs, 10 postes de chefs de cliniques sont créés chaque année (depuis 2018) afin de financer leurs projets de recherche et d'accroitre la portée des études sur l'autisme.
