@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018008
+
+- Question : [SEQ201018008](seq201018008.md) — Incidences sur les finances locales du recours aux résidences secondaires durant la crise sanitaire
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-03-25, page 1993*
+
+Le principe majeur du recensement de la population veut que chaque habitant soit comptabilisé dans la population municipale d'une seule commune, celle où il réside le plus souvent. C'est ainsi le critère de durée de présence qui est pris en compte pour distinguer les résidences principales des résidences secondaires ; l'appréciation de la durée étant établie par les habitants eux-mêmes. Au début du premier confinement du 17 mars, plusieurs mouvements de population ont été enregistrés. Le chiffre de 1,7 million de personnes cité correspond aux personnes qui étaient de passage dans un autre département que celui dans lequel ils résident et qui ont rejoint leur résidence principale. Les mouvements d'une résidence principale vers une autre résidence sont de moindre ampleur. Pour Paris intra-muros, l'Insee les estime à 200 000 personnes. Par ailleurs, le confinement a duré 55 jours, soit 15 % de l'année 2020. Même en ajoutant une durée de deux mois de présence « habituelle » des détenteurs de résidence secondaire dans celle-ci, l'ensemble ne représente encore qu'une part minoritaire de la durée de l'année (33%). Si des mouvements pérennes de population avaient lieu entre résidence principale et résidence secondaire, les personnes recensées auraient l'occasion de le déclarer lorsqu'elles seront interrogées par l'enquête de recensement de leur commune. Enfin, il convient de rappeler que le nombre de résidences secondaires fait aussi partie des critères pris en compte pour le calcul de la Dotation globale de fonctionnement (DGF) versée aux communes.
