@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ORGANISATION DE LA FINALE DU 1ER CHAMPIONNAT DE FRANCE DE BREAK DANCE A AIX-EN-PROVENCE - ATTRIBUTION D'UNE SUBVENTION ET SIGNATURE D'UNE CONVENTION DE PARTENARIAT AVEC LA FEDERATION FRANÇAISE DE DANSE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-03-26
+- Séance : Conseil Municipal 1CA
+- Objet : ORGANISATION DE LA FINALE DU 1ER CHAMPIONNAT DE FRANCE DE BREAK DANCE A AIX-EN-PROVENCE - ATTRIBUTION D'UNE SUBVENTION ET SIGNATURE D'UNE CONVENTION DE PARTENARIAT AVEC LA FEDERATION FRANÇAISE DE DANSE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12822-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
