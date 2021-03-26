@@ -718,9 +718,7 @@ par emploi
 
 |
 
-Chef de cellule amélioration de l'habitat et rénovation
-
-urbaine - Service urbanisme habitat construction
+Chef du pôle logement construction-Service aménagement et développement durable
 
 |
 
@@ -736,9 +734,7 @@ A
 
 |
 
-Chef de cellule documents stratégiques et ville durable -
-
-Service urbanisme habitat construction
+Chef de cellule documents stratégiques et ville durable-Pôle urbanisme, aménagement et ville durable-Service aménagement et développement durable
 
 |
 
