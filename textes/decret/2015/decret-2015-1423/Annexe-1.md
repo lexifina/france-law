@@ -440,11 +440,9 @@ Décret n° 2002-1219 du 27 septembre 2002 pris pour l'application de l'ordonnan
 
 Décret n° 2008-1176 du 13 novembre 2008 relatif aux attributions des chefs de mission diplomatique et des chefs de poste consulaire en matière de visas |
 
-Document de séjour (titres de séjour, autorisations provisoires de séjour et récépissés) |
+Document de séjour et titre de voyage (document de circulation des mineurs étrangers, document de voyage pour réfugié, apatride et autres bénéficiaires de protection), à l'exception de ceux dont le fondement est listé dans l'arrêté du ministre en charge de l'immigration prévu à l'article R. 431-2 du CESEDA |
 
-Livres Ier et III du CESEDA
-
-Titres Ier et II des ordonnances nos 2000-371 et 2000-372 du 26 avril 2000 et n° 2002-388 du 20 mars 2002 |
+Livres II et IV du CESEDA |
 
 Visa de long séjour |
 
