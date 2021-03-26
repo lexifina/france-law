@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FOUILLE D'ARCHEOLOGIE PREVENTIVE - EXTENSION DU RESEAU DE CHALEUR - DECISION DE POURSUITE DE L'OPERATION PAR LA DIRECTION ARCHEOLOGIE - AUTORISATION DE SIGNER LE CONTRAT ENTRE LA VILLE ET LA SOCIETE APEE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-03-26
+- Séance : Conseil Municipal 1CA
+- Objet : FOUILLE D'ARCHEOLOGIE PREVENTIVE - EXTENSION DU RESEAU DE CHALEUR - DECISION DE POURSUITE DE L'OPERATION PAR LA DIRECTION ARCHEOLOGIE - AUTORISATION DE SIGNER LE CONTRAT ENTRE LA VILLE ET LA SOCIETE APEE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12833-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
