@@ -6,13 +6,19 @@ Les départements mentionnés aux II et II bis de l'article 4, aux IV et IV bis 
 
 -Alpes-Maritimes ;
 
+-Aube ;
+
 -Eure ;
+
+-Nièvre ;
 
 -Nord ;
 
 -Oise ;
 
 -Pas-de-Calais ;
+
+-Rhône ;
 
 -Seine-Maritime ;
 
