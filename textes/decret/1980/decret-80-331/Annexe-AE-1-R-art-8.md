@@ -1,8 +1,6 @@
 # Article 8
 
-Aérage principal : 1. Lorsque la ventilation naturelle ne permet pas d'atteindre de manière permanente les objectifs visés à l'article 4, l'aérage principal doit être établi par un ou plusieurs ventilateurs mécaniques. Le préfet peut autoriser l'exploitant à arrêter la ventilation mécanique durant les périodes pendant lesquelles la ventilation naturelle suffit.
-
-Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
+Aérage principal : 1. Lorsque la ventilation naturelle ne permet pas d'atteindre de manière permanente les objectifs visés à l'article 4, l'aérage principal doit être établi par un ou plusieurs ventilateurs mécaniques.
 
 2. Les points d'entrée d'air et de retour d'air au jour doivent être séparés par une distance telle que l'air extrait des travaux ne puisse y être réintroduit, même partiellement.
 

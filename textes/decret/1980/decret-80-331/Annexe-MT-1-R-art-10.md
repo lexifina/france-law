@@ -10,10 +10,8 @@ Le débit d'air ainsi déterminé doit, le cas échéant, être majoré pour ten
 
 - que la profondeur du cul-de-sac soit au plus égale à quatre fois sa hauteur sans excéder 13 mètres ;
 
-- et que l'exploitant prenne toutes mesures pour qu'en aucun cas le personnel ayant à pénétrer dans le cul-de-sac ne puisse être exposé à des teneurs en constituants nocifs de l'atmosphère dépassant les teneurs limites admissibles.
+- et que l'employeur prenne toutes mesures pour qu'en aucun cas le personnel ayant à pénétrer dans le cul-de-sac ne puisse être exposé à des teneurs en constituants nocifs de l'atmosphère dépassant les teneurs limites admissibles.
 
-3. Le préfet peut autoriser l'utilisation de moteurs thermiques en un endroit ou dans une branche d'aérage parcouru par un courant d'air dont le débit ne répond pas aux dispositions du paragraphe 1, sous réserve que l'exploitant justifie qu'en aucun cas les teneurs limites admissibles puissent être dépassées aux postes de travail.
-
-Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
+3. L'employeur peut autoriser l'utilisation de moteurs thermiques en un endroit ou dans une branche d'aérage parcouru par un courant d'air dont le débit ne répond pas aux dispositions du paragraphe 1, sous réserve de justifier qu'en aucun cas les teneurs limites admissibles puissent être dépassées aux postes de travail.
 
 4. Lorsqu'un véhicule équipé d'un moteur thermique se déplace dans le sens du courant d'air, leurs vitesses respectives doivent être nettement différentes pour ne pas donner lieu à la formation d'un bouchon de fumées dont les constituants nocifs atteindraient des teneurs excédant les teneurs limites admissibles.

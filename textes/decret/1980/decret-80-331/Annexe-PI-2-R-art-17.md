@@ -18,7 +18,7 @@ Lieux d'installation des arrêts-barrages : 1. Les ouvrages suivants doivent se 
 
 - des voies dont la section libre ne permet pas la mise en place réglementaire des arrêts-barrages de quartier.
 
-Dans les trois derniers cas, les mesures compensatoires prises par l'exploitant sont soumises à l'accord préalable du préfet.
+Dans les trois derniers cas, les mesures compensatoires prises par l'employeur sont soumises à l'accord préalable du préfet.
 
 Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
