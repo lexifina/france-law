@@ -34,7 +34,7 @@ L'arrêté mentionné au deuxième alinéa du présent IV fixe la liste des aér
 
 V. – Les redevables déclarent par mois, ou par trimestre civil si le montant des sommes dues pour le premier mois du trimestre est inférieur à 1 000 €, les éléments nécessaires à l'établissement de la taxe, conformément au modèle prescrit par l'administration de l'aviation civile.
 
-Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe, par virement bancaire.
+Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe, par télépaiement.
 
 La date limite de dépôt de la déclaration et de paiement de la taxe est fixée au dernier jour du deuxième mois suivant la période mensuelle ou trimestrielle visée par la déclaration.
 
@@ -62,4 +62,6 @@ VII. – Le contentieux est suivi par la direction générale de l'aviation civi
 
 NOTA :
 
-Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 quatervicies A telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du D, s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2020.
+Conformément aux dispositions du B du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, par dérogation au A dudit II, les dispositions de l'article 1609 quatervicies A telles qu'elles résultent du b du 2° du D du I s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2021.
+
+Conformément au 2° de l'article 38 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions sont abrogées à compter de l'entrée en vigueur des dispositions prises en application ou pour l'application des dispositions législatives du code des impositions des biens et services pour ce qui concerne les dispositions relatives à la déclaration, au paiement et aux indexations des paramètres des impositions mentionnées à l'article 4 de ladite ordonnance.

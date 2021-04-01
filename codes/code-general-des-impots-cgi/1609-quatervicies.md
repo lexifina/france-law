@@ -94,7 +94,7 @@ Les entreprises de transport aérien déclarent chaque mois, conformément au mo
 
 Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations trimestrielles indiquant le nombre de passagers et la masse de fret et de courrier embarqués au cours du trimestre précédent pour les vols effectués au départ de chaque aérodrome. Ces déclarations trimestrielles sont souscrites au plus tard le dernier jour du mois qui suit le trimestre au titre duquel elle est établie. Lorsque le montant de la taxe déclarée au terme des quatre trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise souscrit mensuellement ses déclarations dans les conditions fixées au onzième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de dépassement.
 
-Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe et sa majoration prévue au IV bis, par virement bancaire.
+Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe et sa majoration prévue au IV bis, par télépaiement.
 
 IV bis. – A compter du 1er janvier 2010, le tarif par passager de la taxe d'aéroport fait l'objet d'une majoration fixée, dans la limite d'un montant de 1,25 €, par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'aviation civile. Les limites supérieures des tarifs mentionnés au IV ne prennent pas en compte cette majoration.
 
@@ -114,4 +114,6 @@ VIII. ― Pour l'application du présent article, la notion de correspondance es
 
 NOTA :
 
-Conformément aux dispositions du A du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 quatervicies telles qu'elles résultent du I dudit article ormis celles issues du b du 2° du C, s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2020.
+Conformément aux dispositions du B du II de l'article 171 de la loi n° 2019-1479 du 28 décembre 2019, par dérogation au A dudit II, les dispositions de l'article 1609 quatervicies telles qu'elles résultent du b du 2° du C du I s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2021.
+
+Conformément au 2° de l'article 38 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions sont abrogées à compter de l'entrée en vigueur des dispositions prises en application ou pour l'application des dispositions législatives du code des impositions des biens et services pour ce qui concerne les dispositions relatives à la déclaration, au paiement et aux indexations des paramètres des impositions mentionnées à l'article 4 de ladite ordonnance.
