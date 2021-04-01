@@ -1,0 +1,21 @@
+# Article 1er
+
+L'article 2 de l'accord collectif du 3 juin 2014 est annulé et remplacé par le texte suivant :
+
+« Le régime conventionnel frais de santé se compose d'un régime socle comprenant les garanties définies à l'article 3 et une structure tarifaire “ Uniforme ”. Cette structure tarifaire doit permettre d'assurer le salarié et ses ayants droit moyennant une cotisation identique pour chaque salarié quelle que soit sa situation personnelle et le nombre de ses ayants droit.
+
+Les garanties du régime socle prises ligne à ligne constituent le niveau minimal obligatoire auxquelles les entreprises doivent se conformer pour assurer leurs salariés et leurs ayants droit.
+
+(1)
+
+Ce régime socle doit pouvoir être amélioré pour les entreprises qui le décident par accord collectif, référendaire ou décision unilatérale de l'employeur, par une option destinée à couvrir le salarié et ses ayants droit moyennant une cotisation unique et forfaitaire.
+
+(2) »
+
+(1) Alinéa exclu de l'extension en tant qu'il contrevient aux dispositions de l'article L. 2253-1 du code du travail.
+
+(Arrêté du 9 mars 2023 - art. 1)
+
+(2) Alinéa étendu sous réserve du respect des dispositions de l'article L. 2253-1 du code du travail.
+
+(Arrêté du 9 mars 2023 - art. 1)
