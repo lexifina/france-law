@@ -148,6 +148,8 @@ En cas de contrôle technique périodique ou de contre-visite d'un véhicule sou
 
 -les défaillances mineures ;
 
+- Les kilométrages relevés en contrôle technique depuis le 20 mai 2018 ;
+
 -les commentaires.
 
 En cas de contre-visite, suite à un contrôle technique périodique, “ La connaissance de l'ensemble des défaillances constatées sur ce véhicule nécessite de disposer également du procès-verbal de contrôle technique périodique ”.
@@ -165,6 +167,10 @@ En cas de discordance entre le numéro de frappe à froid relevé sur le châssi
 En cas de constat de l'une des défaillances 8.2.12. d. 1,8.2.12. d. 2,8.2.22. c. 1 ou 8.2.22. c. 2, la mention “ Code (s) défaut (s) standard (s) relevé (s) concernant le dispositif antipollution : ” suivie de la liste de l'ensemble des codes défauts standards relevés à l'aide du dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes prévu au point 8 du A de l'annexe III du présent arrêté, dès lors que ceux-ci concernent les éléments surveillés du dispositif antipollution du véhicule et les niveaux d'émissions par rapport aux valeurs limites applicables.
 
 Lorsque le contrôle a été réalisé dans les conditions prévues à l’article 32-4 du présent arrêté, Validité du présent contrôle technique limitée exclusivement au territoire suivant : xxxxxx , xxxxxx correspondant au territoire concerné.
+
+En cas d'absence de liaison du logiciel de contrôle avec le système d'immatriculation des véhicules (SIV) pendant tout ou partie du contrôle, "Contrôle de cohérence du kilométrage avec les kilométrages relevés lors des contrôles techniques précédents non réalisé".
+
+En cas de présence de la défaillance 7.11.1.a.1., "Le contrôle de cohérence du kilométrage est réalisé à partir des kilométrages relevés lors des contrôles réalisés depuis le 20 mai 2018".
 
 14. Les mesures réalisées et les valeurs limites correspondantes :
 
@@ -396,4 +402,4 @@ Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme
 
 NOTA :
 
-Conformément à l'article 12 de l'arrêté du 4 septembre 2017, ces dispositions sont applicables à partir du 20 mai 2018.
+Conformément à l'article 5 de l'arrêté du 27 janvier 2021, ces dispositions entrent en vigueur le 1er avril 2021.
