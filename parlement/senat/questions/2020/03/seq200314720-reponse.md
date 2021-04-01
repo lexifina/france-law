@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314720
+
+- Question : [SEQ200314720](seq200314720.md) — Effets de seuil dans le calcul de l'allocation aux adultes handicapés
+
+## Réponse
+
+*Personnes handicapées, JO du 2021-04-01, page 2234*
+
+L'allocation aux adultes handicapés (AAH) est une prestation sociale destinée à assurer des conditions de vie digne aux personnes dont les ressources sont les plus faibles du fait de leur handicap. Minimum social fondé sur la solidarité nationale, l'AAH contribue également à favoriser l'insertion sociale et professionnelle de ses bénéficiaires. A ce titre, les bénéficiaires de la prestation peuvent la cumuler avec leurs revenus d'activité professionnelle et/ou les revenus d'activité de leurs conjoints. Des mécanismes de calcul favorables sont mis en place pour assurer que l'AAH constitue un tremplin vers et dans l'emploi. Ainsi, à la reprise d'une activité professionnelle, les bénéficiaires de l'AAH peuvent cumuler intégralement leurs revenus d'activité et l'AAH pendant une durée de six mois sur une période de douze mois glissants. Après ces six mois, leurs revenus d'activité sont affectés d'un abattement de 80% pour la tranche de revenus inférieure à 30% du Smic brut (ne sont donc retenus que 20% de leurs ressources) et d'un abattement de 40% pour la tranche de revenus supérieure à 30% du Smic (ne sont donc retenus que 60% de leurs revenus pour le calcul de la prestation). Les revenus d'activité de leurs conjoints sont également affectés d'un abattement de 20% en plus de l'abattement fiscal de 10%. En outre, les ressources prises en compte dans le calcul de la prestation sont réduites au total des revenus nets catégoriels imposables à l'impôt sur le revenu. Ces mécanismes favorables de prise en compte des ressources dans le calcul de la prestation garantissent un intéressement à la reprise d'une activité pour l'ensemble des bénéficiaires de l'AAH.
