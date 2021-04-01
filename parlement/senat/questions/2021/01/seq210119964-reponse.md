@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210119964
+
+- Question : [SEQ210119964](seq210119964.md) — Politique agricole commune et nouvelle architecture verte
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-04-01, page 2176*
+
+En juin 2018, la Commission européenne a fait une proposition de textes réglementaires pour encadrer la future réforme de la politique agricole commune (PAC), qui entrera en vigueur à partir de 2023. Des négociations ont lieu au niveau du Parlement européen et du Conseil européen, au sein duquel le Gouvernement français fait valoir ses positions. Le Parlement et le Conseil ont chacun adopté un mandat en octobre 2020, suite à quoi le trilogue a débuté afin de trouver un compromis entre les parties. L'objectif est d'aboutir à une version stabilisée des textes en 2021. En ce qui concerne les bonnes conditions agricoles et environnementales (BCAE), la proposition de la Commission prévoit effectivement une obligation de rotation pour l'enjeu lié à la protection et à la qualité des sols (BCAE 8). La France porte, depuis le début des négociations sur les projets de règlements européens, que soit inscrite dans le texte la possibilité de mettre en place d'autres pratiques permettant de préserver le potentiel du sol, comme la diversification des cultures. Le sujet a été ré-ouvert par la présidence portugaise du Conseil et sera discuté dans le cadre des trilogues. Les règles qui seront mises en place dans le cadre de cette BCAE, et les éventuelles pratiques équivalentes qui pourraient être reconnues, ne pourront être discutées qu'une fois une solution de compromis trouvée. C'est par ailleurs en fonction de ce socle que constitue la conditionnalité dans l'architecture environnementale de la future PAC que pourront être précisés les contours des autres dispositifs susceptibles d'être mobilisés dans l'objectif de préservation des sols, comme les éco-régimes et les mesures agro-environnementales et climatiques.
