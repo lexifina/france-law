@@ -22,7 +22,7 @@ Modèle de fiche de renseignements
 
 1. Généralités :
 
-1.1. raison sociale du fabricant :
+1.1. Raison sociale du fabricant :
 
 1.2. a) Type :
 
@@ -45,3 +45,19 @@ b) Dénomination commerciale (si connue) :
 Addendum
 
 Famille de véhicules sur lesquels le type de dispositif peut se monter :
+
+3. Marquage
+
+3.1. Justification du caractère lisible et indélébile
+
+3.2. Caractéristique technique de l'étiquette/ marquage :
+
+4. Plaque de transformation
+
+4.1. Modèle
+
+4.2. Indication de son emplacement
+
+NOTA :
+
+Conformément à l’article 15 de l’arrêté du 19 février 2021, les présentes dispositions s'appliquent pour les nouvelles homologations de dispositifs de conversion à compter du 1er avril 2021.

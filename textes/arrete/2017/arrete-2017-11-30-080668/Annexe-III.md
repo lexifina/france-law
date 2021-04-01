@@ -26,7 +26,7 @@ Ils doivent aussi présenter les critères de similitudes spécifiés ci-dessous
 
 4.1. Surveillance
 
-Le témoin du système de diagnostic embarqué (OBD) du véhicule transformé ne doit pas s'allumer après l'installation du dispositif de conversion.
+L'installation du dispositif de conversion ne doit pas provoquer l'allumage du témoin du système de diagnostic embarqué (OBD) du véhicule transformé durant l'utilisation du véhicule.
 
 4.2. Dispositions anti-manipulations
 
@@ -38,13 +38,13 @@ Le fabricant du dispositif de conversion fournit aux installateurs les instructi
 
 5. Exigences relatives aux modifications apportées au système-moteur et maîtrise de la pollution
 
-Le fabricant du dispositif de conversion démontre sa capacité à :
+Le fabricant du dispositif de conversion s'engage sur sa capacité à :
 
-- garantir la préservation de l'intégrité des moteurs et des systèmes de post-traitement des émissions de polluants sur lesquels est installé le dispositif réceptionné qu'il commercialise ;
+- garantir la préservation de l'intégrité des moteurs réservoirs, circuits d'alimentation, des systèmes de post-traitements des émissions de polluants et de toute pièce susceptible d'être en contact avec du carburant E85 sur lesquels est installé le dispositif réceptionné qu'il commercialise ;
 
-- assumer la responsabilité d'une détérioration éventuelle des moteurs et des systèmes de post-traitement des émissions de polluants due à l'installation de ce dispositif.
+- assumer la responsabilité d'une détérioration éventuelle des éléments cités ci-dessus due à l'installation de ce dispositif.
 
-L'installation d'un dispositif de conversion ne doit pas altérer le bon fonctionnement des systèmes de diagnostic embarqué (OBD) et, le cas échéant, des dispositifs de post-traitement des émissions de polluants installés sur le véhicule.
+L'installation d'un dispositif de conversion ne doit pas altérer le bon fonctionnement des systèmes de diagnostic embarqué (OBD) et, le cas échéant, des dispositifs de post-traitement des émissions de polluants installés sur le véhicule, durant l'utilisation normale du véhicule.
 
 6. Exigences concernant les émissions
 
@@ -52,9 +52,11 @@ L'installation d'un dispositif de conversion ne doit pas altérer le bon fonctio
 
 L'essai de type I est réalisé conformément à la procédure indiquée dans l'annexe 4a du règlement UNECE n° 83 susvisé.
 
+Pour les familles Euro 5/6, si le véhicule soumis au test a été réceptionné selon le cycle d'essai WLTP, l'essai de type I est réalisé conformément à la procédure indiquée à l'annexe XXI du règlement 2017/1151.
+
 Les valeurs limites à respecter durant l'essai de type I après installation du dispositif de conversion sur le véhicule de test sont spécifiées dans la directive ou le règlement en application duquel le véhicule testé a été homologué.
 
-Les valeurs limites doivent être respectées aussi bien lorsque le véhicule équipé du système de conversion fonctionne avec de l'essence que lorsqu'il fonctionne avec du carburant superethanol E85, carburants tels que spécifiées dans la directive ou le règlement en application duquel le véhicule testé a été homologué.
+Les valeurs limites doivent être respectées aussi bien lorsque le véhicule équipé du système de conversion fonctionne avec de l'essence que lorsqu'il fonctionne avec du carburant superethanol E85, carburants tels que spécifiées dans la directive ou le règlement en application duquel le véhicule testé a été homologué. Les valeurs limites doivent également être respectées lorsque le véhicule fonctionne avec un mélange de carburant essence et superethanol E85.
 
 6.2 Essai de type II
 
@@ -64,11 +66,23 @@ Les valeurs limites à respecter durant l'essai de type II après installation d
 
 Les valeurs limites doivent être respectées aussi bien lorsque le véhicule équipé du système de conversion fonctionne avec de l'essence que lorsqu'il fonctionne avec du carburant superethanol E85, carburants tels que spécifiées dans la directive ou le règlement en application duquel le véhicule testé à été homologué.
 
+6.3. Essai du type VI
+
+L'essai de type VI est réalisé conformément à la procédure indiquée à l'annexe VIII du règlement 2017/1151.
+
+Les valeurs limites à respecter durant l'essai de type VI après installation du dispositif de conversion sur le véhicule de test sont spécifiées dans la directive ou le règlement en application duquel le véhicule testé a été homologué.
+
+Les valeurs limites doivent être respectées aussi bien lorsque le véhicule équipé du système de conversion fonctionne avec de l'essence que lorsqu'il fonctionne avec du carburant superethanol E85, carburants tels que spécifié dans la directive ou le règlement en application duquel le véhicule testé a été homologué. Les valeurs limites doivent également être respectées lorsque le véhicule fonctionne avec un mélange de carburant essence et superethanol E85.
+
+Toutefois, la part d'éthanol à l'échappement devra être retirée lors de la mesure des HC.
+
+Un seul essai de type VI par fabricant est demandé pour couvrir l'ensemble de ses familles précédemment homologuées ou à venir.
+
 7. Exigences relatives à l'ensemble testé lors des essais d'émissions
 
 7.1. Choix du véhicule destiné à être équipé
 
-Le véhicule présenté par le fabricant doit être en bon état mécanique. Il doit avoir parcouru au moins 10 000 km avant l'essai.
+Le véhicule présenté par le fabricant doit être en bon état mécanique. Il doit avoir parcouru au moins 10 000 km avant l'essai. Le véhicule présenté doit être le plus contraignant de la famille au regard de son niveau Euro et ne pas présenter de bi-carburation.
 
 Les autres conditions sont décrites à l'annexe IV du règlement UNECE n° 83 susvisé.
 
@@ -82,13 +96,11 @@ Le dispositif de conversion utilisé pour l'essai doit être représentatif du t
 
 7.3 Installation du dispositif de conversion pour l'essai
 
-Le dispositif de conversion doit être installé sur le véhicule de test selon les prescriptions figurant dans les instructions de montage fournis par le fabricant du dispositif de conversion.
-
-Le dispositif de conversion, une fois installé, doit être réglé après un roulage conformément aux spécifications du fabricant.
+Le dispositif de conversion doit être installé et réglé sur le véhicule de test selon les prescriptions figurant dans les instructions de montage fournies par le fabricant du dispositif de conversion.
 
 8. Exigences relatives à la mesure des émissions
 
-La mesure des émissions gazeuses, de particules le cas échéant et de CO2 après installation du dispositif doit être réalisée conformément aux exigences de la directive 70/220/CEE susvisée, du règlement (CE) 692/2008 ou des règlements UNECE n° 83 et 101 susvisés applicables à ce véhicule, avec le carburant essence tel que spécifié dans la directive ou le règlement en application duquel le véhicule testé a été homologué, et avec le carburant superethanol E85.
+La mesure des émissions gazeuses, de particules le cas échéant et de CO2 après installation du dispositif doit être réalisée conformément aux exigences de la directive 70/220/CEE susvisée, du règlement (CE) 692/2008, du règlement (UE) 2017/1151 ou des règlements UNECE n° 83 et 101 susvisés applicables à ce véhicule, avec le carburant essence tel que spécifié dans la directive ou le règlement en application duquel le véhicule testé a été homologué, avec le carburant superethanol E85, et avec un carburant de mélange essence-superéthanaol E85.
 
 9. Exigences concernant la compatibilité électro-magnétique
 
@@ -96,9 +108,19 @@ Le dispositif de conversion doit répondre aux prescriptions du règlement UNECE
 
 10. Exigences relatives au carburant
 
-Les essais doivent être réalisés avec des carburants de référence tels que spécifiés dans le règlement UNECE n° 83 susvisé.
+Les essais doivent être réalisés avec des carburants de référence tels que spécifiés dans le règlement UNECE n° 83 susvisé, y compris pour la réalisation du carburant de mélange essence-superéthanol E85 .
 
 11. Séquence des essais
+
+Les essais d'homologation doivent se dérouler dans l'ordre suivant :
+
+-configuration 1 : Véhicule sans système de conversion avec de l'essence de référence
+
+-configuration 2 : Véhicule avec système de conversion avec du superéthanol de référence
+
+-configuration 3 : Véhicule avec système de conversion avec du mélange essence-superéthanol E85
+
+-configuration 4 : Véhicule avec système de conversion avec de l'essence de référence
 
 Les essais doivent se dérouler selon la séquence suivante :
 
@@ -106,14 +128,30 @@ Les essais doivent se dérouler selon la séquence suivante :
 
 - installation du dispositif selon les exigences mentionnées au 7.3 de la présente annexe ;
 
-- réalisation de l'essai de type I et de type II pour les deux carburants (E85 puis essence).
+- réalisation de l'essai de type I, type II et de type VI pour les trois carburants.
 
 12. Cycle d'essai
 
-Le cycle d'essai utilisé durant l'essai doit être celui utilisé lorsque le véhicule testé à été homologué.
+Le cycle d'essai utilisé durant l'essai doit être celui utilisé lorsque le véhicule testé a été homologué.
 
-13. Exigences de durabilité
+13. Validation des résultats d'homologation
+
+Afin de valider les résultats d'émission de polluants de la famille représentée, la configuration 1 sera comparée avec la configuration 4 en termes de moyennes, où l'écart maximum entre les résultats sont de moins :
+
+-15 % de la limite pour les NOx et pour les particules
+
+Configuration 4 ≤ Configuration 1 + 0. 15*limite en NOx et particules
+
+-30 % de la limite pour les autres polluants
+
+Configuration 4 ≤ Configuration 1 + 0. 30*limite pour les autres polluants.
+
+14. Exigences de durabilité
 
 Le dispositif de conversion doit être conçu, fabriqué et installé de manière à ce que les exigences du présent arrêté soient tout au long de sa vie respectées dans des conditions normales d'utilisation.
 
 Notamment, le dispositif de conversion doit être durable. Par cela, on entend qu'il doit être conçu, fabriqué et prévu pour être installé de manière à offrir une résistance raisonnable à la corrosion, à l'oxydation, aux vibrations, aux sollicitations mécaniques et aux autres agressions auxquelles il est exposé dans les conditions normales de son usage.
+
+NOTA :
+
+Conformément à l’article 15 de l’arrêté du 19 février 2021, les présentes dispositions s'appliquent pour les nouvelles homologations de dispositifs de conversion à compter du 1er avril 2021.
