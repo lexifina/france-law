@@ -24,7 +24,7 @@ interdépartementale des routes
 
 |
 
-DIR Ile-de-France (direction régionale et interdépartementale de l'équipement et de l'aménagement)
+DIR Ile-de-France ( direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports)
 
 |
 
@@ -107,3 +107,7 @@ CRICR Rhône-Alpes-Auvergne
 Zone de défense Sud-Est
 
 |
+
+NOTA :
+
+Conformément à l’article 7 du décret n° 2021-261 du 10 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.

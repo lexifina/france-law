@@ -30,10 +30,14 @@ Les directions régionales et départementales de la jeunesse, des sports et de 
 
 La direction régionale et interdépartementale de l'alimentation, de l'agriculture et de la forêt.
 
-La direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France.
+La direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports d'Ile-de-France.
 
-La direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
+La direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports d'Ile-de-France.
 
 La direction régionale et interdépartementale de l'hébergement et du logement.
 
 Les directions de la jeunesse, des sports et de la cohésion sociale.
+
+NOTA :
+
+Conformément à l’article 7 du décret n° 2021-261 du 10 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.

@@ -56,7 +56,7 @@ III. ― L'exploitant tient à jour les enregistrements des résultats des mesur
 
 IV. ― L'exploitant tient à jour les enregistrements des résultats des mesures dans l'environnement prévues par le présent arrêté.
 
-V. ― Les enregistrements visés aux alinéas précédents sont conservés par l'exploitant pendant la durée de vie de l'INBS. Ils sont tenus à la disposition du DSND et, pour ce qui les concerne, de l'Autorité de sûreté nucléaire (ASN) ainsi que des agents de la direction régionale et interdépartementale de l'environnement et de l'énergie (DRIEE) et des agents chargés de la police de l'eau. Ils peuvent faire l'objet d'un traitement informatisé, à condition qu'ils puissent être facilement consultés et que ce traitement assure la traçabilité des modifications apportées.
+V. ― Les enregistrements visés aux alinéas précédents sont conservés par l'exploitant pendant la durée de vie de l'INBS. Ils sont tenus à la disposition du DSND et, pour ce qui les concerne, de l'Autorité de sûreté nucléaire (ASN) ainsi que des agents de la direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports (DRIEE) et des agents chargés de la police de l'eau. Ils peuvent faire l'objet d'un traitement informatisé, à condition qu'ils puissent être facilement consultés et que ce traitement assure la traçabilité des modifications apportées.
 
 Le format de ces enregistrements est laissé au choix de l'exploitant.
 
@@ -640,9 +640,9 @@ III. ― Dans le cadre des contrôles préalables, l'exploitant ne peut rejeter 
 
 POINT DE PRÉLÈVEMENT |
 
-ANALYSES RÉALISÉES |
+ANALYSES RÉALISÉESChaque |
 
-Chaque BAEI (avant rejet)
+BAEI (avant rejet)
 
 |
 
@@ -1390,9 +1390,9 @@ de la surveillance |
 
 PÉRIODICITÉ |
 
-PARAMÈTRES |
+PARAMÈTRESNOMBRE |
 
-NOMBRE DE POINTS
+DE POINTS
 
 de prélèvements
 
@@ -1429,3 +1429,7 @@ Article 23
 Implantation des points de prélèvements
 
 La localisation des différents points de prélèvements et de mesures mentionnée à la présente annexe est précisée sur des cartes déposées auprès du DSND et des autorités administratives concernées.
+
+NOTA :
+
+Conformément à l’article 7 du décret n° 2021-261 du 10 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.

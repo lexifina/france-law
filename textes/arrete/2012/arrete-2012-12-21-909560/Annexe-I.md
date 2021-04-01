@@ -90,7 +90,7 @@ d. Information sur les déchèteries et les installations d'élimination des dé
 
 Les informations relatives aux déchèteries acceptant des déchets d'amiante lié et aux installations d'élimination des déchets d'amiante peuvent être obtenues auprès :
 
-― de la préfecture ou de la direction régionale de l'environnement, de l'aménagement et du logement (direction régionale et interdépartementale de l'environnement et de l'énergie en Ile-de-France) ou de la direction de l'environnement, de l'aménagement et du logement ;
+― de la préfecture ou de la direction régionale de l'environnement, de l'aménagement et du logement ( direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports en Ile-de-France) ou de la direction de l'environnement, de l'aménagement et du logement ;
 
 ― du conseil départemental (ou conseil régional en Ile-de-France) au regard de ses compétences de planification sur les déchets dangereux ;
 
@@ -105,3 +105,7 @@ Le producteur des déchets remplit un bordereau de suivi des déchets d'amiante 
 Dans tous les cas, le producteur des déchets devra avoir préalablement obtenu un certificat d'acceptation préalable lui garantissant l'effectivité d'une filière d'élimination des déchets.
 
 Par exception, le bordereau de suivi des déchets d'amiante n'est pas imposé aux particuliers voire aux artisans qui se rendent dans une déchèterie pour y déposer des déchets d'amiante lié à des matériaux inertes ayant conservé leur intégrité. Ils ne doivent pas remplir un bordereau de suivi de déchets d'amiante, ce dernier étant élaboré par la déchèterie.
+
+NOTA :
+
+Conformément à l’article 7 du décret n° 2021-261 du 10 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.
