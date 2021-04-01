@@ -16,4 +16,10 @@ II.-Pour les personnes physiques ou morales qui sont immatriculées ou en cours 
 
 III.-Par dérogation au I, sont effectuées gratuitement les modifications auxquelles il est procédé d'office.
 
+IV.-La collecte des droits mentionnés aux I et II est réalisée par le centre de formalités des entreprises compétent ou par le service informatique mentionné à l'article R. 123-30-14 du code de commerce lorsque le déclarant a recours à ce service.
+
 IV.-Le présent article peut être modifié par décret.
+
+NOTA :
+
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.

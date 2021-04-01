@@ -484,11 +484,11 @@ Prestations relatives au registre
 
 des bénéficiaires effectifs |
 
-Dépôt du document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale ou au plus tard dans les quinze jours à compter de la délivrance du récépissé de dépôt de dossier de création d'entreprise |
+Déclaration relative au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale ou au plus tard dans les quinze jours à compter de la délivrance du récépissé de dépôt de dossier de création d'entreprise |
 
 84-2 |
 
-Dépôt du document modificatif ou complémentaire au document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code monétaire et financier |
+Déclaration modificative ou complémentaire à la déclaration relative au bénéficiaire effectif mentionnée au deuxième alinéa de l'article L. 561-46 du code monétaire et financier |
 
 85 |
 
@@ -4243,3 +4243,7 @@ Incidents |
 Incidents |
 
 Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure civile et contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution) |
+
+NOTA :
+
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.

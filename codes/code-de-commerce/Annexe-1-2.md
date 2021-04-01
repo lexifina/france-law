@@ -2,7 +2,7 @@
 
 ANNEXE AUX ARTICLES R. 123-5 ET R. 123-30
 
-Formalités des entreprises déposées aux centres de formalités des entreprises.
+Principales formalités des entreprises déposées aux centres de formalités des entreprises.
 
 Chaque centre est compétent pour recevoir les déclarations ci-dessous énumérées et les actes et pièces dont la remise est exigée par l'un des organismes destinataires.
 
@@ -135,3 +135,7 @@ Les déclarations relatives à des mesures de publicité autres que celles figur
 Les formalités prévues dans le cadre de la déclaration unique d'embauche.
 
 Les déclarations concernant une personne morale de droit public non soumise à immatriculation au registre du commerce et des sociétés.
+
+NOTA :
+
+Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.
