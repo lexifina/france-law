@@ -52,7 +52,7 @@ Pour l'application du présent 1, est situé à moins de 1 000 kilomètres de la
 
 Toutefois, les entreprises de transport aérien qui ont déclaré au cours de l'année précédente un montant de taxe égal ou inférieur à 12 000 € sont admises à souscrire, à compter du premier trimestre civil de l'année qui suit, des déclarations trimestrielles indiquant le nombre de passagers et la masse de fret et de courrier embarqués au cours du trimestre précédent pour les vols effectués au départ de France. Ces déclarations trimestrielles sont souscrites au plus tard le dernier jour du mois qui suit le trimestre au titre duquel elle est établie. Lorsque le montant de la taxe déclarée au terme des quatre trimestres civils consécutifs de l'année dépasse le montant de 12 000 €, l'entreprise souscrit mensuellement ses déclarations dans les conditions fixées au huitième alinéa ; dans ce cas, l'obligation court à compter du premier mois qui suit l'année de dépassement.
 
-3. Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par virement bancaire.
+3. Ces déclarations, mensuelles ou trimestrielles, sont adressées par voie électronique aux comptables du budget annexe " Contrôle et exploitation aériens ". Concomitamment, les redevables acquittent la taxe ainsi que la contribution additionnelle prévue au VI, par télépaiement.
 
 III. – (Abrogé).
 
@@ -172,7 +172,7 @@ Le produit annuel excédant les plafonds mentionnés ci-dessus est attribué au 
 
 5. La taxe de solidarité sur les billets d'avion n'est pas perçue au départ des collectivités d'outre-mer de Saint-Barthélemy et de Saint-Martin.
 
-6. Les montants mentionnés à la deuxième ligne du tableau du 1 font l'objet d'une réduction égale à la différence entre le tarif résultant de l'arrêté mentionné au deuxième alinéa du même 1 et le montant minimum mentionné à la deuxième ligne du tableau audit 1. Ces réductions s'appliquent aux vols commerciaux :
+6. Les montants mentionnés à la deuxième ligne du tableau du dernier alinéa du 1 font l'objet d'une réduction égale à la différence entre le tarif résultant de l'arrêté mentionné au deuxième alinéa du même 1 et le montant minimum mentionné à la deuxième ligne du tableau du dernier alinéa dudit 1. Ces réductions s'appliquent aux vols commerciaux :
 
 a) Effectués entre la Corse et la France continentale ;
 
@@ -194,6 +194,4 @@ Il est fixé par arrêté des ministres chargés du budget et de l'aviation civi
 
 NOTA :
 
-Conformément au III l’article 72 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur à compter du 1er janvier 2021.
-
-Conformément au II de l'article 71 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Conformément au B du II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions de la seconde phrase du 3 du II de l'article 302 bis K telles qu'elles résultent du dernier alinéa du b du 2° du A du I dudit article s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2021.
