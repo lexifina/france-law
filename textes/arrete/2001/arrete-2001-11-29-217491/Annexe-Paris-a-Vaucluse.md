@@ -1,24 +1,18 @@
 # Article Annexe Paris à Vaucluse
 
-Direction régionale et interdépartementale de l'équipement
+Direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports d'Ile-de-France
 
-et de l'aménagement d'Ile-de-France (4)
+Fonctions exercées |
 
-FONCTIONS EXERCÉES |
+Niveau
 
-NIVEAU
+de qualification de l'emploi |
 
-de qualification
+Nombre d'emplois |
 
-de l'emploi |
+Nombre de points (IM) par emploi |
 
-NOMBRE
-
-d'emplois |
-
-NOMBRE
-
-de points (IM) par emploi |
+Date d'effet |
 
 Chef du pôle planification urbaine et aménagement durable-Unité départementale de Paris |
 
@@ -28,6 +22,8 @@ A |
 
 50 |
 
+01/03/20 |
+
 Chargé de mission Plaine commune-Unité départementale de Seine-Saint-Denis |
 
 A |
@@ -36,13 +32,17 @@ A |
 
 23 |
 
-Chargé de mission secteur centre et référent foncier-Unité départementale de Seine-Saint-Denis |
+/ |
+
+Chargé de mission Est Ensemble, référent foncier-Unité départementale de Seine-Saint-Denis |
 
 A |
 
 1 |
 
 23 |
+
+01/09/20 |
 
 Chef du pôle planification urbaine et aménagement-Unité départementale de Seine-Saint-Denis |
 
@@ -52,7 +52,9 @@ A |
 
 20 |
 
-Chargé de mission secteur Est et référent de projet rénovation urbaine-Unité départementale de Seine-Saint-Denis |
+/ |
+
+Chargé de mission Grand Paris Grand Est, référent projet rénovation urbaine et ville durable-Unité départementale de Seine-Saint-Denis |
 
 A |
 
@@ -60,7 +62,9 @@ A |
 
 23 |
 
-Chargé de mission secteur Roissy-le Bourget, référent quartier gare-Unité départementale de Seine-Saint-Denis |
+01/09/19 |
+
+Chargé de mission Paris Terre d'Envol, référent quartier gare-Unité départementale de Seine-Saint-Denis |
 
 A |
 
@@ -68,13 +72,17 @@ A |
 
 23 |
 
-Chef du pôle innovation écologique et territoire-Unité départementale de la Seine Saint-Denis |
+01/09/19 |
+
+Responsable du pôle bâtiment et accessibilité-Unité départementale de la Seine-Saint-Denis |
 
 A |
 
 1 |
 
 23 |
+
+01/08/21 |
 
 Chef de pôle ville durable et rénovation urbaine-Unité départementale du Val-de-Marne |
 
@@ -83,6 +91,8 @@ A |
 1 |
 
 23 |
+
+/ |
 
 Direction régionale et interdépartementale de l'hébergement
 
