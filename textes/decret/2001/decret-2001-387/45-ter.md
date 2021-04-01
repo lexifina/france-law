@@ -1,9 +1,13 @@
 # Article 45 ter
 
-I.-L'autorité administrative mentionnée à l'article 9 de la loi du 4 juillet 1837 susvisée est le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou, dans les départements et régions d'outre-mer, le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de la région dans laquelle est constaté le manquement, ou leurs représentants nommément désignés.
+I.-L'autorité administrative mentionnée à l'article 9 de la loi du 4 juillet 1837 susvisée est le directeur régional de l'économie, de l'emploi, du travail et des solidarités ou, dans les départements et régions d'outre-mer, le directeur de l'économie, de l'emploi, du travail et des solidarités de la région dans laquelle est constaté le manquement, ou leurs représentants nommément désignés.
 
 II.-La décision mentionnée au V de l'article 9 de la loi du 4 juillet 1837 susvisée peut faire l'objet d'un recours hiérarchique devant le ministre chargé de l'industrie. Ce recours est exclusif de tout autre recours hiérarchique.
 
 La publication prévue au VI du même article peut être effectuée par voie de presse, par voie électronique ou par affichage. Ces différents modes de publication peuvent être ordonnés de manière cumulative. Les modalités de la publication sont précisées dans la décision prononçant l'amende.
 
 III.-Le ministre chargé de l'industrie est l'ordonnateur compétent pour émettre les titres de perception afférents aux sanctions prononcées en application des dispositions de l'article 9 de la loi du 4 juillet 1837 susvisée.
+
+NOTA :
+
+Conformément à l'article 30 du décret n° 2020-1545 du 9 décembre 2020, ces dispositions entrent en vigueur le 1er avril 2021.
