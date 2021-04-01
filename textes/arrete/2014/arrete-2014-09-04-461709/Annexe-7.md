@@ -20,7 +20,7 @@ L'attestation sur l'honneur comporte dans l'ordre les parties suivantes :
 
 - une ou plusieurs parties complémentaires, si celles-ci sont prévues par la fiche d'opération standardisée ;
 
-- une partie ou plusieurs parties complémentaires, si l'opération est réalisée au bénéfice des ménages en situation de précarité énergétique ;
+- une partie ou plusieurs parties complémentaires, si l'opération est réalisée au bénéfice des ménages en situation de précarité énergétique ou si l'opération est réalisée au bénéfice de ménages modestes dès lors que cette opération fait l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie ;
 
 - une partie finale.
 
@@ -62,7 +62,7 @@ Le contenu de la partie C est défini à l'annexe 7-1. Par dérogation, les arr�
 
 L'une des deux cases permettant d'identifier le type du professionnel est cochée.
 
-7. Parties complémentaires dans le cas d'opérations réalisées chez des ménages en situation de précarité énergétique
+7. Parties complémentaires dans le cas d'opérations réalisées chez des ménages en situation de précarité énergétique ou dans le cas d'opérations réalisées chez des ménages modestes et faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie
 
 Le contenu de ces parties R1, BS, CD, QPV et R2 est défini à l'annexe 7-1. Une même attestation sur l'honneur peut comporter :
 
@@ -74,7 +74,7 @@ Le contenu de ces parties R1, BS, CD, QPV et R2 est défini à l'annexe 7-1. Une
 
 - une unique partie QPV.
 
-La partie R1 est utilisée lorsque l'opération entre dans le cadre du paragraphe 8.1 de l'annexe 5.
+La partie R1 est utilisée lorsque l'opération entre dans le cadre des paragraphes 8.1,8.1 bis ou 8.1 ter de l'annexe 5.
 
 La partie BS correspond à l'attestation prévue au point I du paragraphe 8.2 de l'annexe 5. Elle peut être dupliquée autant de fois que nécessaire.
 
@@ -87,3 +87,7 @@ La partie R2 correspond à l'attestation prévue au point II du paragraphe 8.2 d
 8. Partie finale
 
 Le contenu de cette partie est défini à l'annexe 7-1. Elle comporte notamment la mention CNIL relative au ministère chargé de l'énergie et la mention CNIL du demandeur.
+
+NOTA :
+
+Conformément à l’article 5 de l’arrêté du 25 mars 2021, ces dispositions entrent en vigueur à compter du 1er avril 2021 .

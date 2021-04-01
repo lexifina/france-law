@@ -312,11 +312,11 @@ Les attestations sur l'honneur prévues ci-dessus font partie intégrante de l'a
 
 Lorsque l'opération relève du dernier alinéa de l'article R. 221-19 du code de l'énergie, fait partie des pièces justificatives de l'opération l'extrait de la convention de financement signée par l'Agence de l'environnement et de la maîtrise de l'énergie, comportant la mention que la subvention de l'Agence de l'environnement et de la maîtrise de l'énergie a été calculée et décidée en prenant en compte les incitations perceptibles dans le cadre du dispositif des certificats d'économies d'énergie pour cette opération.
 
-8. Opérations réalisées au bénéfice de ménages en situation de précarité énergétique
+8. Opérations réalisées au bénéfice de ménages en situation de précarité énergétique ou appartenant à la catégorie des ménages modestes
 
-8.1. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage en situation de précarité énergétique
+8.1. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage en situation de précarité énergétique, s'agissant des opérations engagées au plus tard le 31 mars 2021 et achevées au plus tard le 30 septembre 2021
 
-La situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
+La situation de précarité énergétique du ménage selon le II de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
 
 – le ou les avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
@@ -324,7 +324,7 @@ La situation de précarité énergétique du ménage selon l'article 3-1 de l'ar
 
 – pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer social conclue entre le bailleur et l'Agence nationale de l'habitat, en application de l'article L. 321-8 du code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
 
-La situation de grande précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
+La situation de grande précarité énergétique du ménage selon le II de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie est justifiée par :
 
 – l'avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
 
@@ -340,7 +340,7 @@ La situation de grande précarité énergétique du ménage selon l'article 3-1 
 
 – l'attestation accompagnant le chèque énergie prévu à l'article L. 124-1 du code de l'énergie, dont l'échéance d'utilisation est postérieure à la date de référence ; ou
 
-– pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer très social conclue entre le bailleur et l'Agence nationale de l'habitat en application de l'article L. 321-8 du Code de la construction et de l'habitat en vigueur à la date de référence pour le logement concerné.
+– pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer très social conclue entre le bailleur et l'Agence nationale de l'habitat en application de l'article L. 321-8 du Code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
 
 La date de référence est, au choix :
 
@@ -350,9 +350,55 @@ La date de référence est, au choix :
 
 – la date de la demande de certificats d'économies d'énergie auprès du ministre chargé de l'énergie.
 
+8.1 bis. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage en situation de précarité énergétique, s'agissant des opérations engagées à compter du 1er avril 2021 ou achevées à compter du 1er octobre 2021
+
+La situation de précarité énergétique du ménage selon le II bis de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie et la situation de grande précarité énergétique du ménage selon le II du même article sont justifiées par :
+
+-l'avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+
+-le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+
+-une facture d'électricité justifiant du bénéfice de la tarification de l'électricité comme produit de première nécessité prévue par l'article L. 337-3 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
+
+-une facture de gaz naturel justifiant du bénéfice du tarif spécial de solidarité applicable à la fourniture de gaz naturel prévu par l'article L. 445-5 du code de l'énergie. La facture date de moins d'un an à la date de référence ; ou
+
+-l'attestation du droit à la protection complémentaire en matière de santé prévue par l'article R. 861-16 du code de la sécurité sociale valide à la date de référence ; ou
+
+-une copie de l'attestation de droit à l'aide au paiement d'une assurance complémentaire de santé prévue par l'article L. 863-3 du code de la sécurité sociale, datée de moins d'un an à la date de référence ; ou
+
+-l'attestation accompagnant le chèque énergie prévu à l'article L. 124-1 du code de l'énergie, dont l'échéance d'utilisation est postérieure à la date de référence ; ou
+
+-pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer très social conclue entre le bailleur et l'Agence nationale de l'habitat, en application de l'article L. 321-8 du code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
+
+La date de référence est, au choix :
+
+-la date d'engagement de l'opération ; ou
+
+-la date d'achèvement de l'opération ; ou
+
+-la date de la demande de certificats d'économies d'énergie auprès du ministre chargé de l'énergie.
+
+8.1 ter. Cas où le bénéficiaire de l'opération, au sens de l'article 3 du présent arrêté, est le ménage modeste, s'agissant d'une opération faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie
+
+La situation de ménage modeste du ménage, selon le II ter de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, est justifiée par :
+
+-le ou les avis d'imposition ou de non-imposition de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+
+-le justificatif d'impôt sur le revenu délivré par l'administration fiscale de chaque foyer fiscal intégré au ménage au titre des revenus de l'année N-1 ou de l'année N-2 par rapport à la date de référence ; ou
+
+-pour les locataires du parc social privé conventionné, la fourniture d'une convention à loyer social conclue entre le bailleur et l'Agence nationale de l'habitat, en application de l'article L. 321-8 du code de la construction et de l'habitation, et en vigueur à la date de référence pour le logement concerné.
+
+La date de référence est, au choix :
+
+-la date d'engagement de l'opération ; ou
+
+-la date d'achèvement de l'opération ; ou
+
+-la date de la demande de certificats d'économies d'énergie auprès du ministre chargé de l'énergie.
+
 8.2. Opérations concernant au moins un logement locatif social
 
-I. Le demandeur peut être exempté des documents justificatifs mentionnés au 8-1 pour les ménages occupant des logements faisant l'objet d'une convention définie à l'article L. 351-2 du code de la construction et de l'habitation, géré par :
+I. Le demandeur peut être exempté des documents justificatifs mentionnés aux 8.1,8.1 bis et 8.1 ter pour les ménages occupant des logements faisant l'objet d'une convention définie à l'article L. 831-1 du code de la construction et de l'habitation, géré par :
 
 – un organisme d'habitations à loyer modéré défini à l'article L. 411-2 du même code, ou
 
@@ -372,9 +418,9 @@ Dans ce cas, le gestionnaire des logements concernés atteste sur l'honneur :
 
 Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
-II. Pour les ménages bénéficiant de l'opération mais non concernés par l'exemption prévue au I, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au point 8-1.
+II. Pour les ménages bénéficiant de l'opération mais non concernés par l'exemption prévue au I, le demandeur de l'opération justifie la situation de précarité énergétique ou, dans le cas d'une opération faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la situation de ménage modeste du ménage, selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, par, selon les cas, l'un des documents énoncés aux points 8.1,8.1 bis ou 8.1 ter.
 
-Le bénéficiaire de l'opération établit la liste de ces ménages. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
+Le bénéficiaire de l'opération établit la ou les listes de ces ménages (liste des ménages en situation de précarité énergétique, liste des ménages en situation de grande précarité énergétique et, dans le cas d'une opération faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, liste des ménages modestes). Cette ou ces listes sont intégrées à l'attestation sur l'honneur définie à l'annexe 7.
 
 8.3. Copropriétés objet d'une subvention de l'Agence nationale de l'habitat
 
@@ -382,21 +428,23 @@ Pour les logements remplissant les conditions du V de l'article 3-1 de l'arrêt�
 
 – la décision de l'Agence nationale de l'habitat d'attribution d'une subvention au syndicat de copropriétaires ;
 
-– les résultats de l'enquête sociale, relative aux ressources des occupants de l'immeuble, faisant partie de l'étude pré-opérationnelle. Les résultats de l'enquête sociale mentionnent notamment le nombre total de logements de la copropriété, le nombre de logements enquêtés, et soit le nombre de répondants, soit le nombre de non-répondants, ainsi que le nombre de ménages en situation de précarité énergétique ou de grande précarité parmi les répondants ; et
+– les résultats de l'enquête sociale, relative aux ressources des occupants de l'immeuble, faisant partie de l'étude pré-opérationnelle. Les résultats de l'enquête sociale mentionnent notamment le nombre total de logements de la copropriété, le nombre de logements enquêtés, et soit le nombre de répondants, soit le nombre de non-répondants, ainsi que le nombre de ménages dont les revenus sont inférieurs aux plafonds indiqués dans le tableau B de la partie R1 de l'annexe 7-1 et le nombre de ménages dont les revenus sont inférieurs aux plafonds indiqués dans le tableau A de la partie R1 de l'annexe 7-1 parmi les répondants ; et
 
 – une attestation sur l'honneur du syndicat des copropriétaires bénéficiaire de l'opération, précisant que la copropriété respecte les conditions prévues au V de l'article 3-1 de l'arrêté du 29 décembre 2014 précité. Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
 8.4. Cas où l'opération concerne un quartier prioritaire de la politique de la ville
 
-Dans le cas où les fractions considérées comme ayant été réalisées au bénéfice de ménages en situation de précarité énergétique et grande précarité énergétique sont déterminées conformément au VI de l'article 3-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, les documents justificatifs mentionnés au 8.1 sont remplacés par l'attestation sur l'honneur prévue dans la partie QPV de l'annexe 7, signée par le demandeur.
+Dans le cas où les fractions considérées comme ayant été réalisées au bénéfice de ménages en situation de précarité énergétique et grande précarité énergétique sont déterminées conformément au VI de l'article 3-1 de l'arrêté du 29 décembre 2014 relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, les documents justificatifs mentionnés au aux 8.1 et 8.1 bis sont remplacés par l'attestation sur l'honneur prévue dans la partie QPV de l'annexe 7, signée par le demandeur.
 
-Cette attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
+Dès lors que l'opération fait l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie et dans le cas où les fractions considérées comme ayant été réalisées au bénéfice de ménages modestes sont déterminées conformément au VI de l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, les documents justificatifs mentionnés au 8.1 ter sont remplacés par l'attestation sur l'honneur prévue dans la partie QPV de l'annexe 7, signée par le demandeur.
+
+Dans les cas mentionnés aux deux alinéas ci-dessus, l'attestation est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
 
 8.5. Autres opérations
 
-Pour les opérations n'entrant pas dans le cadre des paragraphes 8.1, 8.2, 8.3 et 8.4 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie par l'un des documents énoncés au paragraphe 8.1.
+Pour les opérations n'entrant pas dans le cadre des paragraphes 8.1,8.1 bis, 8.1 ter, 8.2,8.3 et 8.4 ci-dessus, le demandeur de l'opération justifie la situation de précarité énergétique du ménage ou, dès lors que l'opération fait l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la situation de ménage modeste, selon l'article 3-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, par l'un des documents énoncés, selon les cas, aux paragraphes 8.1,8.1 bis ou 8.1 ter.
 
-Le bénéficiaire de l'opération établit la liste des ménages en situation de précarité énergétique bénéficiant de l'opération. Cette liste est intégrée à l'attestation sur l'honneur définie à l'annexe 7.
+Le bénéficiaire de l'opération établit la liste des ménages en situation de précarité énergétique bénéficiant de l'opération et pour ce qui concerne les opérations faisant l'objet d'une bonification au titre des articles 3-5-1,3-6 ou 3-7-1 de l'arrêté du 29 décembre 2014 modifié relatif aux modalités d'application du dispositif des certificats d'économies d'énergie, la liste des ménages modestes. Cette ou ces listes sont intégrées à l'attestation sur l'honneur définie à l'annexe 7.
 
 9. Opérations d'économies d'énergie réalisées dans le cadre d'un contrat de performance énergétique (CPE).
 
@@ -422,6 +470,4 @@ g) Les pénalités en cas de non-atteinte de la performance garantie par le cont
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 11 février 2020, ces dispositions sont applicables à toute demande de certificats d'économies d'énergie effectuée à compter du 1er juillet 2020.
-
-Conformément à l'article 3 de l'arrêté du 14 mai 2020 ( NOR : TRER2012131A ), les dispositions issues du I de l'article 2 entrent en vigueur le 1er juillet 2020.
+Conformément à l’article 5 de l’arrêté du 25 mars 2021, ces dispositions entrent en vigueur à compter du 1er avril 2021 .
