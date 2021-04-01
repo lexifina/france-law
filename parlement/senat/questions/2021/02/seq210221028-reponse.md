@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210221028
+
+- Question : [SEQ210221028](seq210221028.md) — Sauver les emplois menacés de l'usine Lafarge, à Contes, dans les Alpes-Maritimes
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-04-01, page 2200*
+
+Le Gouvernement prend acte que le cimentier Lafarge Holcim a présenté aux partenaires sociaux, mercredi 3 février 2021, un plan de réorganisation de son activité en France. Il est prévu que le site de Contes (Alpes-Maritimes) fasse l'objet d'une fermeture partielle concernant l'ensemble de ses activités à l'exception celle de dépôt logistique. La décision du groupe Lafarge Holcim est justifiée par la raréfaction de la ressource locale disponible, par la mauvaise performance énergétique du site ainsi que par la présence d'un concurrent direct dont la production est quatre fois plus importante. Il s'agit par conséquent d'une décision en opportunité d'une personne morale de droit privé, sur laquelle l'État n'a pas à se prononcer. Cela étant, le ministre de l'économie, des finances et de la relance, en lien avec les services déconcentrés de l'État, suit attentivement ce dossier, afin que cette restructuration s'opère de la manière la plus responsable qui soit pour le territoire. A cet égard, un plan de sauvegarde de l'emploi (PSE), prévoyant notamment le licenciement pour motif économique de 65 salariés, est en cours de négociation. Une demande de validation, ou d'homologation, du PSE devrait être déposée à la mi-avril 2021 auprès de la direction régionale de l'économie, de l'emploi, du travail et des solidarités (DIRRECTE) de la région Provence-Alpes-Côte d'Azur, afin que celle-ci s'exprime dessus au plus tard début mai 2021. Les conditions de départ et de reclassement des salariés concernés seront étudiées avec minutie par les services du Ministère du Travail.
