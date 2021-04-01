@@ -10,19 +10,13 @@ Saint-Denis de La Réunion - Diego-Suarez (Madagascar) ;
 
 Saint-Denis de La Réunion - Dar es Salaam (Tanzanie).
 
-Jusqu'au 27 mars 2021 :
+Jusqu'au 30 octobre 2021 :
+
+Saint-Denis de La Réunion-Nosy Be (Madagascar).
+
+Jusqu'au 31 mars 2026 :
 
 Dzaoudzi-Moroni (Comores) ;
-
-Saint-Denis de La Réunion-Bangkok (Thaïlande) ;
-
-Saint-Denis de La Réunion-Johannesbourg (Afrique du Sud) ;
-
-Saint-Denis de La Réunion-Mahé (Seychelles) ;
-
-Saint-Denis de La Réunion-Moroni (Comores) ;
-
-Saint-Denis de La Réunion-Nosy Be (Madagascar) ;
 
 Saint-Denis de La Réunion-Tamatave (Madagascar) ;
 
