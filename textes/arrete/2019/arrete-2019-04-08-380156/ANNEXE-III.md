@@ -4,7 +4,7 @@
 
 Affectée d'un coefficient 1, la note de sport est calculée à partir des notes obtenues aux trois épreuves de sport définies ci-dessous en fonction des coefficients propres à chacune.
 
-Cette note est éliminatoire si elle est inférieure à 3 sur 20.
+Cette note est éliminatoire si elle est inférieure à 6 sur 20. Pour chaque épreuve de sport la note est éliminatoire si elle est inférieure à 6 sur 20.
 
 Les épreuves de sport sont effectuées dans l'ordre suivant :
 
@@ -22,7 +22,7 @@ Le candidat est allongé sur le dos, genoux et hanches fléchis à 90°. Les pie
 
 Il s'agit, en appui facial, corps tendu, de fléchir les bras de telle sorte que la poitrine touche une cale (10 cm de haut pour les candidats masculins, 20 cm de haut pour les candidats féminins), revenir à la position en appui, membres complètement tendus, cela sans interruption. Le militaire qui évalue ne compte que les mouvements exécutés correctement (corps rectiligne).
 
-Barème des épreuves de sport
+Barème des épreuves de sport :
 
 Note |
 
@@ -46,143 +46,143 @@ Femmes |
 
 20 |
 
-12'00 |
+12'30 |
 
-14'00 |
+15'30 |
 
-40 |
+30 |
 
 25 |
 
 50 |
 
-40 |
+35 |
 
 19 |
 
-12'15 |
+12'45 |
 
-14'20 |
+15'45 |
 
-38 |
+29 |
 
 24 |
 
 48 |
 
-38 |
+33 |
 
 18 |
 
-12'30 |
+13'00 |
 
-14'40 |
+16'00 |
 
-36 |
+28 |
 
 23 |
 
 46 |
 
-36 |
+31 |
 
 17 |
 
-12'45 |
+13'15 |
 
-15'00 |
+16'15 |
 
-34 |
+27 |
 
 22 |
 
 44 |
 
-34 |
+29 |
 
 16 |
 
-13'00 |
-
-15'20 |
-
-32 |
-
-21 |
-
-42 |
-
-32 |
-
-15 |
-
-13'20 |
-
-15'40 |
-
-30 |
-
-20 |
-
-40 |
-
-30 |
-
-14 |
-
-13'40 |
-
-16'00 |
-
-28 |
-
-19 |
-
-38 |
-
-28 |
-
-13 |
-
-14'00 |
+13'30 |
 
 16'30 |
 
 26 |
 
-18 |
+21 |
 
-36 |
+42 |
 
-26 |
+27 |
 
-12 |
+15 |
 
-14'20 |
+13'45 |
+
+16'45 |
+
+25 |
+
+20 |
+
+40 |
+
+25 |
+
+14 |
+
+14'00 |
 
 17'00 |
 
 24 |
 
-17 |
+19 |
 
-34 |
+38 |
 
-24 |
+23 |
 
-11 |
+13 |
 
-14'40 |
+14'15 |
+
+17'15 |
+
+23 |
+
+18 |
+
+36 |
+
+21 |
+
+12 |
+
+14'30 |
 
 17'30 |
 
 22 |
 
+17 |
+
+34 |
+
+19 |
+
+11 |
+
+14'45 |
+
+17'45 |
+
+21 |
+
 16 |
 
 32 |
 
-22 |
+17 |
 
 10 |
 
@@ -196,146 +196,150 @@ Femmes |
 
 30 |
 
-20 |
+15 |
 
 9 |
 
-15'30 |
+15'45 |
 
-18'30 |
+18'45 |
 
-18 |
+19 |
 
 14 |
 
-28 |
+27 |
 
-18 |
+14 |
 
 8 |
-
-16'00 |
-
-19'00 |
-
-16 |
-
-13 |
-
-26 |
-
-16 |
-
-7 |
 
 16'30 |
 
 19'30 |
 
-14 |
-
-12 |
-
-24 |
-
-14 |
-
-6 |
-
-17'00 |
-
-20'00 |
+18 |
 
 13 |
 
-10 |
+24 |
+
+13 |
+
+7 |
+
+17'15 |
+
+20'15 |
+
+17 |
+
+12 |
 
 22 |
 
 12 |
 
-5 |
+6 |
 
 18'00 |
 
 21'00 |
 
-12 |
+15 |
 
-8 |
+10 |
 
 20 |
 
 10 |
 
-4 |
+5 |
 
 19'00 |
 
 22'00 |
 
-10 |
+14 |
 
-6 |
+8 |
 
 18 |
 
-9 |
+8 |
 
-3 |
+4 |
 
 20'00 |
 
 23'00 |
 
-8 |
+12 |
 
-4 |
+6 |
 
 16 |
-
-8 |
-
-2 |
-
-21'00 |
-
-24'00 |
 
 6 |
 
 3 |
 
+21'00 |
+
+24'00 |
+
+10 |
+
+4 |
+
 14 |
-
-7 |
-
-1 |
-
-22'00 |
-
-25'00 |
 
 4 |
 
 2 |
 
+22'00 |
+
+25'00 |
+
+8 |
+
+2 |
+
 12 |
+
+2 |
+
+1 |
+
+23'00 |
+
+26'00 |
 
 6 |
 
+1 |
+
+10 |
+
+1 |
+
 0 |
 
-> 22'00 |
+> 23'00 |
 
-> 25'00 |
+> 26'00 |
 
-< 4 |
+< 6 |
 
-< 2 |
+0 |
 
-< 12 |
+< 10 |
 
-< 2 |
+0 |
 
-Nota. - En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
+Nota.-En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure. Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celle de la note 1 sont notées zéro.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 25 mars 2021 modifiant l'arrêté du 8 avril 2019 relatif au recrutement des sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale, ces dispositions sont applicables à compter du recrutement organisé au titre de la session de septembre 2021.
