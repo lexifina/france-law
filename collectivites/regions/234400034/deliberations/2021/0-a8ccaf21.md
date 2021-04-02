@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 381 Région - Formation - Accès évolution
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2021-04-02
+- Matière : 8.6
+- Objet : 381 Région - Formation - Accès évolution
+- Transmis à la préfecture : 2021-04-02
+- Votants : 90
+- Pour : 68
+- Contre : 0
+- Abstentions : 22
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-36805.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
