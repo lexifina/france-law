@@ -1,0 +1,6003 @@
+# Article ANNEXE II
+
+TABLE DE CORRESPONDANCE DES FAMILLES PROFESSIONNELLES AVEC LE RÉPERTOIRE OPÉRATIONNEL DES MÉTIERS ET DES EMPLOIS (FAP-2009 / ROME-V3)
+
+FAP |
+
+Familles professionnelles |
+
+ROME |
+
+Répertoire Opérationnel des Métiers et des Emplois |
+
+A0Z40 |
+
+Agriculteurs salariés |
+
+A1416 |
+
+Polyculture, élevage |
+
+A0Z41 |
+
+Éleveurs salariés |
+
+A1403 |
+
+Aide d'élevage agricole et aquacole |
+
+A0Z41 |
+
+Éleveurs salariés |
+
+A1407 |
+
+Élevage bovin ou équin |
+
+A0Z41 |
+
+Éleveurs salariés |
+
+A1408 |
+
+Élevage d'animaux sauvages ou de compagnie |
+
+A0Z41 |
+
+Éleveurs salariés |
+
+A1409 |
+
+Élevage de lapins et volailles |
+
+A0Z41 |
+
+Éleveurs salariés |
+
+A1410 |
+
+Élevage ovin ou caprin |
+
+A0Z41 |
+
+Éleveurs salariés |
+
+A1411 |
+
+Élevage porcin |
+
+A0Z42 |
+
+Bûcherons, sylviculteurs salariés et agents forestiers |
+
+A1201 |
+
+Bûcheronnage et élagage |
+
+A0Z42 |
+
+Bûcherons, sylviculteurs salariés et agents forestiers |
+
+A1204 |
+
+Protection du patrimoine naturel |
+
+A0Z42 |
+
+Bûcherons, sylviculteurs salariés et agents forestiers |
+
+A1205 |
+
+Sylviculture |
+
+A0Z43 |
+
+Conducteurs d'engins agricoles ou forestiers* |
+
+A1101 |
+
+Conduite d'engins d'exploitation agricole et forestière |
+
+A1Z40 |
+
+Maraîchers, horticulteurs salariés |
+
+A1402 |
+
+Aide agricole de production légumière ou végétale |
+
+A1Z40 |
+
+Maraîchers, horticulteurs salariés |
+
+A1414 |
+
+Horticulture et maraîchage |
+
+A1Z41 |
+
+Jardiniers salariés |
+
+A1202 |
+
+Entretien des espaces naturels |
+
+A1Z41 |
+
+Jardiniers salariés |
+
+A1203 |
+
+Entretien des espaces verts |
+
+A1Z41 |
+
+Jardiniers salariés |
+
+F1101 |
+
+Architecture du BTP* |
+
+A1Z42 |
+
+Viticulteurs, arboriculteurs salariés |
+
+A1401 |
+
+Aide agricole de production fruitière ou viticole |
+
+A1Z42 |
+
+Viticulteurs, arboriculteurs salariés |
+
+A1405 |
+
+Arboriculture et viticulture |
+
+A2Z70 |
+
+Techniciens et agents d'encadrement d'exploitations agricoles |
+
+A1301 |
+
+Conseil et assistance technique en agriculture |
+
+A2Z70 |
+
+Techniciens et agents d'encadrement d'exploitations agricoles |
+
+A1302 |
+
+Contrôle et diagnostic technique en agriculture |
+
+A2Z70 |
+
+Techniciens et agents d'encadrement d'exploitations agricoles |
+
+A1303 |
+
+Ingénierie en agriculture et environnement naturel |
+
+A2Z70 |
+
+Techniciens et agents d'encadrement d'exploitations agricoles |
+
+A1416 |
+
+Polyculture, élevage |
+
+A2Z90 |
+
+Ingénieurs, cadres techniques de l'agriculture |
+
+A1301 |
+
+Conseil et assistance technique en agriculture |
+
+A2Z90 |
+
+Ingénieurs, cadres techniques de l'agriculture |
+
+A1302 |
+
+Contrôle et diagnostic technique en agriculture |
+
+A2Z90 |
+
+Ingénieurs, cadres techniques de l'agriculture |
+
+A1303 |
+
+Ingénierie en agriculture et environnement naturel |
+
+A3Z40 |
+
+Pêcheurs, aquaculteurs salariés |
+
+A1404 |
+
+Aquaculture |
+
+A3Z40 |
+
+Pêcheurs, aquaculteurs salariés |
+
+A1415 |
+
+Équipage de la pêche |
+
+A3Z40 |
+
+Pêcheurs, aquaculteurs salariés |
+
+A1417 |
+
+Saliculture |
+
+A3Z41 |
+
+Marins salariés |
+
+N3102 |
+
+Équipage de la navigation maritime |
+
+A3Z41 |
+
+Marins salariés |
+
+N3103 |
+
+Navigation fluviale |
+
+A3Z90 |
+
+Cadres et maîtres d'équipage de la marine |
+
+A1406 |
+
+Encadrement équipage de la pêche |
+
+A3Z90 |
+
+Cadres et maîtres d'équipage de la marine |
+
+N3101 |
+
+Encadrement de la navigation maritime |
+
+A3Z90 |
+
+Cadres et maîtres d'équipage de la marine |
+
+N3102 |
+
+Équipage de la navigation maritime |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+F1401 |
+
+Extraction liquide et gazeuse |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+F1402 |
+
+Extraction solide |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+F1701 |
+
+Construction en béton |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+F1702 |
+
+Construction de routes et voies |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+F1704 |
+
+Préparation du gros œuvre et des travaux publics |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+F1705 |
+
+Pose de canalisations |
+
+B0Z20 |
+
+Ouvriers non qualifiés des travaux publics, du béton et de l'extraction |
+
+I1502 |
+
+Intervention en milieu subaquatique |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1501 |
+
+Montage de structures et de charpentes bois |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1502 |
+
+Montage de structures métalliques |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1503 |
+
+Réalisation - installation d'ossatures bois |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1608 |
+
+Pose de revêtements rigides |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1610 |
+
+Pose et restauration de couvertures |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1611 |
+
+Réalisation et restauration de façades |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1613 |
+
+Travaux d'étanchéité et d'isolation |
+
+B0Z21 |
+
+Ouvriers non qualifiés du gros œuvre du bâtiment |
+
+F1703 |
+
+Maçonnerie |
+
+B1Z40 |
+
+Ouvriers qualifiés des travaux publics, du béton et de l'extraction |
+
+F1401 |
+
+Extraction liquide et gazeuse |
+
+B1Z40 |
+
+Ouvriers qualifiés des travaux publics, du béton et de l'extraction |
+
+F1402 |
+
+Extraction solide |
+
+B1Z40 |
+
+Ouvriers qualifiés des travaux publics, du béton et de l'extraction |
+
+F1701 |
+
+Construction en béton |
+
+B1Z40 |
+
+Ouvriers qualifiés des travaux publics, du béton et de l'extraction |
+
+F1702 |
+
+Construction de routes et voies |
+
+B1Z40 |
+
+Ouvriers qualifiés des travaux publics, du béton et de l'extraction |
+
+F1705 |
+
+Pose de canalisations |
+
+B1Z40 |
+
+Ouvriers qualifiés des travaux publics, du béton et de l'extraction |
+
+I1502 |
+
+Intervention en milieu subaquatique |
+
+B2Z40 |
+
+Maçons |
+
+F1608 |
+
+Pose de revêtements rigides |
+
+B2Z40 |
+
+Maçons |
+
+F1611 |
+
+Réalisation et restauration de façades |
+
+B2Z40 |
+
+Maçons |
+
+F1613 |
+
+Travaux d'étanchéité et d'isolation |
+
+B2Z40 |
+
+Maçons |
+
+F1703 |
+
+Maçonnerie |
+
+B2Z41 |
+
+Professionnels du travail de la pierre et des matériaux associés |
+
+F1612 |
+
+Taille et décoration de pierres |
+
+B2Z42 |
+
+Charpentiers (métal) |
+
+F1502 |
+
+Montage de structures métalliques |
+
+B2Z43 |
+
+Charpentiers (bois) |
+
+F1501 |
+
+Montage de structures et de charpentes bois |
+
+B2Z43 |
+
+Charpentiers (bois) |
+
+F1503 |
+
+Réalisation - installation d'ossatures bois |
+
+B2Z44 |
+
+Couvreurs |
+
+F1610 |
+
+Pose et restauration de couvertures |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1601 |
+
+Application et décoration en plâtre, stuc et staff |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1602 |
+
+Électricité bâtiment |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1603 |
+
+Installation d'équipements sanitaires et thermiques |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1604 |
+
+Montage d'agencements |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1605 |
+
+Montage réseaux électriques et télécoms |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1606 |
+
+Peinture en bâtiment |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1607 |
+
+Pose de fermetures menuisées |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+F1609 |
+
+Pose de revêtements souples |
+
+B3Z20 |
+
+Ouvriers non qualifiés du second œuvre du bâtiment |
+
+H2206 |
+
+Réalisation de menuiserie bois et tonnellerie |
+
+B4Z41 |
+
+Plombiers, chauffagistes |
+
+F1603 |
+
+Installation d'équipements sanitaires et thermiques |
+
+B4Z42 |
+
+Menuisiers et ouvriers de l'agencement et de l'isolation |
+
+F1604 |
+
+Montage d'agencements |
+
+B4Z42 |
+
+Menuisiers et ouvriers de l'agencement et de l'isolation |
+
+F1607 |
+
+Pose de fermetures menuisées |
+
+B4Z42 |
+
+Menuisiers et ouvriers de l'agencement et de l'isolation |
+
+H2206 |
+
+Réalisation de menuiserie bois et tonnellerie |
+
+B4Z43 |
+
+Électriciens du bâtiment |
+
+F1602 |
+
+Électricité bâtiment |
+
+B4Z43 |
+
+Électriciens du bâtiment |
+
+F1605 |
+
+Montage réseaux électriques et télécoms |
+
+B4Z44 |
+
+Ouvriers qualifiés de la peinture et de la finition du bâtiment |
+
+F1601 |
+
+Application et décoration en plâtre, stuc et staff |
+
+B4Z44 |
+
+Ouvriers qualifiés de la peinture et de la finition du bâtiment |
+
+F1606 |
+
+Peinture en bâtiment |
+
+B4Z44 |
+
+Ouvriers qualifiés de la peinture et de la finition du bâtiment |
+
+F1609 |
+
+Pose de revêtements souples |
+
+B5Z40 |
+
+Conducteurs d'engins du bâtiment et des travaux publics |
+
+F1301 |
+
+Conduite de grue |
+
+B5Z40 |
+
+Conducteurs d'engins du bâtiment et des travaux publics |
+
+F1302 |
+
+Conduite d'engins de terrassement et de carrière |
+
+B5Z40 |
+
+Conducteurs d'engins du bâtiment et des travaux publics |
+
+N1104 |
+
+Manœuvre et conduite d'engins lourds de manutention |
+
+B6Z70 |
+
+Géomètres |
+
+F1107 |
+
+Mesures topographiques |
+
+B6Z71 |
+
+Techniciens et chargés d'études du bâtiment et des travaux publics |
+
+F1103 |
+
+Contrôle et diagnostic technique du bâtiment |
+
+B6Z71 |
+
+Techniciens et chargés d'études du bâtiment et des travaux publics |
+
+F1105 |
+
+Études géologiques |
+
+B6Z71 |
+
+Techniciens et chargés d'études du bâtiment et des travaux publics |
+
+F1106 |
+
+Ingénierie et études du BTP |
+
+B6Z71 |
+
+Techniciens et chargés d'études du bâtiment et des travaux publics |
+
+F1108 |
+
+Métré de la construction |
+
+B6Z71 |
+
+Techniciens et chargés d'études du bâtiment et des travaux publics |
+
+F1204 |
+
+Sécurité et protection santé du BTP |
+
+B6Z72 |
+
+Dessinateurs en bâtiment et en travaux publics |
+
+F1104 |
+
+Dessin BTP |
+
+B6Z73 |
+
+Chefs de chantier, conducteurs de travaux (non cadres) |
+
+F1201 |
+
+Conduite de travaux du BTP |
+
+B6Z73 |
+
+Chefs de chantier, conducteurs de travaux (non cadres) |
+
+F1202 |
+
+Direction de chantier du BTP |
+
+B7Z90 |
+
+Architectes |
+
+F1101 |
+
+Architecture du BTP |
+
+B7Z90 |
+
+Architectes |
+
+F1102 |
+
+Conception aménagement d'espaces intérieurs |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1103 |
+
+Contrôle et diagnostic technique du bâtiment |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1105 |
+
+Études géologiques |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1106 |
+
+Ingénierie et études du BTP |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1108 |
+
+Métré de la construction |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1201 |
+
+Conduite de travaux du BTP |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1202 |
+
+Direction de chantier du BTP |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1203 |
+
+Direction et ingénierie d'exploitation de gisements et de carrières |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+F1204 |
+
+Sécurité et protection santé du BTP |
+
+B7Z91 |
+
+Ingénieurs du bâtiment et des travaux publics, chefs de chantier et conducteurs de travaux (cadres) |
+
+I1101 |
+
+Direction et ingénierie en entretien infrastructure et bâti |
+
+C0Z20 |
+
+Ouvriers non qualifiés de l'électricité et de l'électronique |
+
+H2601 |
+
+Bobinage électrique |
+
+C0Z20 |
+
+Ouvriers non qualifiés de l'électricité et de l'électronique |
+
+H2602 |
+
+Câblage électrique et électromécanique |
+
+C0Z20 |
+
+Ouvriers non qualifiés de l'électricité et de l'électronique |
+
+H2603 |
+
+Conduite d'installation automatisée de production électrique, électronique et microélectronique |
+
+C0Z20 |
+
+Ouvriers non qualifiés de l'électricité et de l'électronique |
+
+H2604 |
+
+Montage de produits électriques et électroniques |
+
+C0Z20 |
+
+Ouvriers non qualifiés de l'électricité et de l'électronique |
+
+H2605 |
+
+Montage et câblage électronique |
+
+C1Z40 |
+
+Ouvriers qualifiés de l'électricité et de l'électronique |
+
+H1504 |
+
+Intervention technique en contrôle essai qualité en électricité et électronique |
+
+C1Z40 |
+
+Ouvriers qualifiés de l'électricité et de l'électronique |
+
+H2601 |
+
+Bobinage électrique |
+
+C1Z40 |
+
+Ouvriers qualifiés de l'électricité et de l'électronique |
+
+H2602 |
+
+Câblage électrique et électromécanique |
+
+C1Z40 |
+
+Ouvriers qualifiés de l'électricité et de l'électronique |
+
+H2603 |
+
+Conduite d'installation automatisée de production électrique, électronique et microélectronique |
+
+C1Z40 |
+
+Ouvriers qualifiés de l'électricité et de l'électronique |
+
+H2604 |
+
+Montage de produits électriques et électroniques |
+
+C1Z40 |
+
+Ouvriers qualifiés de l'électricité et de l'électronique |
+
+H2605 |
+
+Montage et câblage électronique |
+
+C2Z70 |
+
+Techniciens en électricité et en électronique |
+
+H1207 |
+
+Rédaction technique ** |
+
+C2Z70 |
+
+Techniciens en électricité et en électronique |
+
+H1209 |
+
+Intervention technique en études et développement électronique |
+
+C2Z70 |
+
+Techniciens en électricité et en électronique |
+
+H1504 |
+
+Intervention technique en contrôle essai qualité en électricité et électronique |
+
+C2Z71 |
+
+Dessinateurs en électricité et en électronique |
+
+H1202 |
+
+Conception et dessin produits électriques et électroniques |
+
+C2Z80 |
+
+Agents de maîtrise et assimilés en fabrication de matériel électrique, électronique |
+
+H2501 |
+
+Encadrement de production de matériel électrique et électronique |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H2902 |
+
+Chaudronnerie - tôlerie |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H2903 |
+
+Conduite d'équipement d'usinage |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H2904 |
+
+Conduite d'équipement de déformation des métaux |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H2905 |
+
+Conduite d'équipement de formage et découpage des matériaux |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H2906 |
+
+Conduite d'installation automatisée ou robotisée de fabrication mécanique |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H2914 |
+
+Réalisation et montage en tuyauterie |
+
+D0Z20 |
+
+Ouvriers non qualifiés travaillant par enlèvement ou formage de métal |
+
+H3203 |
+
+Fabrication de pièces en matériaux composites |
+
+D1Z40 |
+
+Régleurs |
+
+H2912 |
+
+Réglage d'équipement de production industrielle |
+
+D1Z41 |
+
+Ouvriers qualifiés travaillant par enlèvement de métal |
+
+H2903 |
+
+Conduite d'équipement d'usinage |
+
+D1Z41 |
+
+Ouvriers qualifiés travaillant par enlèvement de métal |
+
+H2905 |
+
+Conduite d'équipement de formage et découpage des matériaux |
+
+D1Z41 |
+
+Ouvriers qualifiés travaillant par enlèvement de métal |
+
+H2906 |
+
+Conduite d'installation automatisée ou robotisée de fabrication mécanique |
+
+D1Z41 |
+
+Ouvriers qualifiés travaillant par enlèvement de métal |
+
+H2908 |
+
+Modelage de matériaux non métalliques |
+
+D1Z41 |
+
+Ouvriers qualifiés travaillant par enlèvement de métal |
+
+H2910 |
+
+Moulage sable |
+
+D1Z41 |
+
+Ouvriers qualifiés travaillant par enlèvement de métal |
+
+H3203 |
+
+Fabrication de pièces en matériaux composites |
+
+D2Z40 |
+
+Chaudronniers, tôliers, traceurs, serruriers, métalliers, forgerons |
+
+H2902 |
+
+Chaudronnerie - tôlerie |
+
+D2Z40 |
+
+Chaudronniers, tôliers, traceurs, serruriers, métalliers, forgerons |
+
+H2904 |
+
+Conduite d'équipement de déformation des métaux |
+
+D2Z40 |
+
+Chaudronniers, tôliers, traceurs, serruriers, métalliers, forgerons |
+
+H2911 |
+
+Réalisation de structures métalliques |
+
+D2Z41 |
+
+Tuyauteurs |
+
+H2914 |
+
+Réalisation et montage en tuyauterie |
+
+D2Z42 |
+
+Soudeurs |
+
+H2913 |
+
+Soudage manuel |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H2901 |
+
+Ajustement et montage de fabrication |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H2909 |
+
+Montage - assemblage mécanique |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H2911 |
+
+Réalisation de structures métalliques * |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H2913 |
+
+Soudage manuel * |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H3401 |
+
+Conduite de traitement d'abrasion de surface |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H3402 |
+
+Conduite de traitement par dépôt de surface |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H3403 |
+
+Conduite de traitement thermique |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+H3404 |
+
+Peinture industrielle |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+I1603 |
+
+Maintenance d'engins de chantier, de levage, manutention et agricoles ** |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+I1604 |
+
+Mécanique automobile ** |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+I1606 |
+
+Réparation de carrosserie ** |
+
+D3Z20 |
+
+Ouvriers non qualifiés métallerie, serrurerie, montage |
+
+I1607 |
+
+Réparation de cycles, motocycles et motoculteurs de loisirs ** |
+
+D4Z40 |
+
+Monteurs, ajusteurs et autres ouvriers qualifiés de la mécanique |
+
+H1506 |
+
+Intervention technique qualité en mécanique et travail des métaux |
+
+D4Z40 |
+
+Monteurs, ajusteurs et autres ouvriers qualifiés de la mécanique |
+
+H2901 |
+
+Ajustement et montage de fabrication |
+
+D4Z40 |
+
+Monteurs, ajusteurs et autres ouvriers qualifiés de la mécanique |
+
+H2909 |
+
+Montage - assemblage mécanique |
+
+D4Z41 |
+
+Agents qualifiés de traitement thermique et de surface |
+
+H3401 |
+
+Conduite de traitement d'abrasion de surface |
+
+D4Z41 |
+
+Agents qualifiés de traitement thermique et de surface |
+
+H3402 |
+
+Conduite de traitement par dépôt de surface |
+
+D4Z41 |
+
+Agents qualifiés de traitement thermique et de surface |
+
+H3403 |
+
+Conduite de traitement thermique |
+
+D4Z41 |
+
+Agents qualifiés de traitement thermique et de surface |
+
+H3404 |
+
+Peinture industrielle |
+
+D6Z70 |
+
+Techniciens en mécanique et travail des métaux |
+
+H1506 |
+
+Intervention technique qualité en mécanique et travail des métaux |
+
+D6Z70 |
+
+Techniciens en mécanique et travail des métaux |
+
+H2908 |
+
+Modelage de matériaux non métalliques |
+
+D6Z70 |
+
+Techniciens en mécanique et travail des métaux |
+
+H2910 |
+
+Moulage sable |
+
+D6Z70 |
+
+Techniciens en mécanique et travail des métaux |
+
+H2912 |
+
+Réglage d'équipement de production industrielle |
+
+D6Z71 |
+
+Dessinateurs en mécanique et travail des métaux |
+
+H1203 |
+
+Conception et dessin produits mécaniques |
+
+D6Z80 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+H2503 |
+
+Pilotage d'unité élémentaire de production mécanique |
+
+D6Z80 |
+
+Agents de maîtrise et assimilés en fabrication mécanique |
+
+H2912 |
+
+Réglage d'équipement de production industrielle |
+
+E0Z20 |
+
+Ouvriers non qualifiés des industries chimiques et plastiques |
+
+H2301 |
+
+Conduite d'équipement de production chimique ou pharmaceutique |
+
+E0Z20 |
+
+Ouvriers non qualifiés des industries chimiques et plastiques |
+
+H3201 |
+
+Conduite d'équipement de formage des plastiques et caoutchoucs |
+
+E0Z21 |
+
+Ouvriers non qualifiés des industries agro-alimentaires |
+
+A1412 |
+
+Fabrication et affinage de fromages |
+
+E0Z21 |
+
+Ouvriers non qualifiés des industries agro-alimentaires |
+
+A1413 |
+
+Fermentation de boissons alcoolisées |
+
+E0Z21 |
+
+Ouvriers non qualifiés des industries agro-alimentaires |
+
+H2101 |
+
+Abattage et découpe des viandes |
+
+E0Z21 |
+
+Ouvriers non qualifiés des industries agro-alimentaires |
+
+H2102 |
+
+Conduite d'équipement de production alimentaire |
+
+E0Z22 |
+
+Ouvriers non qualifiés en métallurgie, verre, céramique et matériaux de construction |
+
+F1706 |
+
+Préfabrication en béton industriel |
+
+E0Z22 |
+
+Ouvriers non qualifiés en métallurgie, verre, céramique et matériaux de construction |
+
+H2801 |
+
+Conduite d'équipement de transformation du verre |
+
+E0Z22 |
+
+Ouvriers non qualifiés en métallurgie, verre, céramique et matériaux de construction |
+
+H2803 |
+
+Façonnage et émaillage en industrie céramique |
+
+E0Z22 |
+
+Ouvriers non qualifiés en métallurgie, verre, céramique et matériaux de construction |
+
+H2907 |
+
+Conduite d'installation de production des métaux |
+
+E0Z23 |
+
+Ouvriers non qualifiés du papier-carton et du bois |
+
+H2203 |
+
+Conduite d'installation de production de panneaux bois |
+
+E0Z23 |
+
+Ouvriers non qualifiés du papier-carton et du bois |
+
+H3101 |
+
+Conduite d'équipement de fabrication de papier ou de carton |
+
+E0Z23 |
+
+Ouvriers non qualifiés du papier-carton et du bois |
+
+H3102 |
+
+Conduite d'installation de pâte à papier |
+
+E0Z24 |
+
+Autres ouvriers non qualifiés de type industriel |
+
+H3301 |
+
+Conduite d'équipement de conditionnement |
+
+E0Z24 |
+
+Autres ouvriers non qualifiés de type industriel |
+
+H3302 |
+
+Opérations manuelles d'assemblage, tri ou emballage |
+
+E0Z24 |
+
+Autres ouvriers non qualifiés de type industriel |
+
+H3303 |
+
+Préparation de matières et produits industriels (broyage, mélange, …) |
+
+E1Z40 |
+
+Pilotes d'installation lourde des industries de transformation |
+
+H2701 |
+
+Pilotage d'installation énergétique et pétrochimique |
+
+E1Z40 |
+
+Pilotes d'installation lourde des industries de transformation |
+
+H2804 |
+
+Pilotage de centrale à béton prêt à l'emploi, ciment, enrobés et granulats |
+
+E1Z40 |
+
+Pilotes d'installation lourde des industries de transformation |
+
+H2805 |
+
+Pilotage d'installation de production verrière |
+
+E1Z41 |
+
+Autres ouvriers qualifiés des industries chimiques et plastiques |
+
+H2301 |
+
+Conduite d'équipement de production chimique ou pharmaceutique |
+
+E1Z41 |
+
+Autres ouvriers qualifiés des industries chimiques et plastiques |
+
+H3201 |
+
+Conduite d'équipement de formage des plastiques et caoutchoucs |
+
+E1Z41 |
+
+Autres ouvriers qualifiés des industries chimiques et plastiques |
+
+H3202 |
+
+Réglage d'équipement de formage des plastiques et caoutchoucs |
+
+E1Z42 |
+
+Autres ouvriers qualifiés des industries agro-alimentaires (hors transformation des viandes) |
+
+A1412 |
+
+Fabrication et affinage de fromages |
+
+E1Z42 |
+
+Autres ouvriers qualifiés des industries agro-alimentaires (hors transformation des viandes) |
+
+A1413 |
+
+Fermentation de boissons alcoolisées |
+
+E1Z42 |
+
+Autres ouvriers qualifiés des industries agro-alimentaires (hors transformation des viandes) |
+
+H2102 |
+
+Conduite d'équipement de production alimentaire |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+H2802 |
+
+Conduite d'installation de production de matériaux de construction |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+F1706 |
+
+Préfabrication en béton industriel |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+H2801 |
+
+Conduite d'équipement de transformation du verre |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+H2803 |
+
+Façonnage et émaillage en industrie céramique |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+H2907 |
+
+Conduite d'installation de production des métaux |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+B1201 |
+
+Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse |
+
+E1Z43 |
+
+Autres ouvriers qualifiés en verre, céramique, métallurgie, matériaux de construction et énergie |
+
+B1602 |
+
+Réalisation d'objets artistiques et fonctionnels en verre |
+
+E1Z44 |
+
+Ouvriers qualifiés des industries lourdes du bois et de la fabrication de papier-carton |
+
+H2203 |
+
+Conduite d'installation de production de panneaux bois |
+
+E1Z44 |
+
+Ouvriers qualifiés des industries lourdes du bois et de la fabrication de papier-carton |
+
+H3101 |
+
+Conduite d'équipement de fabrication de papier ou de carton |
+
+E1Z44 |
+
+Ouvriers qualifiés des industries lourdes du bois et de la fabrication de papier-carton |
+
+H3102 |
+
+Conduite d'installation de pâte à papier |
+
+E1Z46 |
+
+Agents qualifiés de laboratoire |
+
+H1201 |
+
+Expertise technique couleur en industrie |
+
+E1Z46 |
+
+Agents qualifiés de laboratoire |
+
+H1503 |
+
+Intervention technique en laboratoire d'analyse industrielle |
+
+E1Z47 |
+
+Autres ouvriers qualifiés de type industriel |
+
+H3301 |
+
+Conduite d'équipement de conditionnement |
+
+E1Z47 |
+
+Autres ouvriers qualifiés de type industriel |
+
+H3303 |
+
+Préparation de matières et produits industriels (broyage, mélange, …) |
+
+E2Z70 |
+
+Techniciens des industries de process |
+
+H1210 |
+
+Intervention technique en études, recherche et développement |
+
+E2Z70 |
+
+Techniciens des industries de process |
+
+H1404 |
+
+Intervention technique en méthodes et industrialisation |
+
+E2Z70 |
+
+Techniciens des industries de process |
+
+H1503 |
+
+Intervention technique en laboratoire d'analyse industrielle |
+
+E2Z70 |
+
+Techniciens des industries de process |
+
+H1505 |
+
+Intervention technique en formulation et analyse sensorielle |
+
+E2Z70 |
+
+Techniciens des industries de process |
+
+H3202 |
+
+Réglage d'équipement de formage des plastiques et caoutchoucs |
+
+E2Z80 |
+
+Agents de maîtrise et assimilés des industries de process |
+
+H2504 |
+
+Encadrement d'équipe en industrie de transformation |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+B1801 |
+
+Réalisation d'articles de chapellerie |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+B1802 |
+
+Réalisation d'articles en cuir et matériaux souples (hors vêtement) |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+B1803 |
+
+Réalisation de vêtements sur mesure ou en petite série |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+D1206 |
+
+Réparation d'articles en cuir et matériaux souples |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+D1207 |
+
+Retouches en habillement |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2401 |
+
+Assemblage - montage d'articles en cuirs, peaux |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2402 |
+
+Assemblage - montage de vêtements et produits textiles |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2403 |
+
+Conduite de machine de fabrication de produits textiles |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2404 |
+
+Conduite de machine de production et transformation des fils |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2405 |
+
+Conduite de machine de textiles nontissés |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2406 |
+
+Conduite de machine de traitement textile |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2407 |
+
+Conduite de machine de transformation et de finition des cuirs et peaux |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2408 |
+
+Conduite de machine d'impression textile |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2409 |
+
+Coupe cuir, textile et matériaux souples |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2410 |
+
+Mise en forme, repassage et finitions en industrie textile |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2411 |
+
+Montage de prototype cuir et matériaux souples |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2413 |
+
+Préparation de fils, montage de métiers textiles |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2414 |
+
+Préparation et finition d'articles en cuir et matériaux souples |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+H2415 |
+
+Contrôle en industrie du cuir et du textile |
+
+F0Z20 |
+
+Ouvriers non qualifiés du textile et du cuir |
+
+K2201 |
+
+Blanchisserie industrielle |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2401 |
+
+Assemblage - montage d'articles en cuirs, peaux |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2402 |
+
+Assemblage - montage de vêtements et produits textiles |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2403 |
+
+Conduite de machine de fabrication de produits textiles |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2404 |
+
+Conduite de machine de production et transformation des fils |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2405 |
+
+Conduite de machine de textiles nontissés |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2406 |
+
+Conduite de machine de traitement textile |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2407 |
+
+Conduite de machine de transformation et de finition des cuirs et peaux |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2408 |
+
+Conduite de machine d'impression textile |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2409 |
+
+Coupe cuir, textile et matériaux souples |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2410 |
+
+Mise en forme, repassage et finitions en industrie textile |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2411 |
+
+Montage de prototype cuir et matériaux souples |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2412 |
+
+Patronnage - gradation |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2413 |
+
+Préparation de fils, montage de métiers textiles |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2414 |
+
+Préparation et finition d'articles en cuir et matériaux souples |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+H2415 |
+
+Contrôle en industrie du cuir et du textile |
+
+F1Z40 |
+
+Ouvriers qualifiés du travail industriel du textile et du cuir |
+
+K2201 |
+
+Blanchisserie industrielle |
+
+F1Z41 |
+
+Ouvriers qualifiés du travail artisanal du textile et du cuir |
+
+B1801 |
+
+Réalisation d'articles de chapellerie |
+
+F1Z41 |
+
+Ouvriers qualifiés du travail artisanal du textile et du cuir |
+
+B1802 |
+
+Réalisation d'articles en cuir et matériaux souples (hors vêtement) |
+
+F1Z41 |
+
+Ouvriers qualifiés du travail artisanal du textile et du cuir |
+
+B1803 |
+
+Réalisation de vêtements sur mesure ou en petite série |
+
+F1Z41 |
+
+Ouvriers qualifiés du travail artisanal du textile et du cuir |
+
+B1804 |
+
+Réalisation d'ouvrages d'art en fils * |
+
+F1Z41 |
+
+Ouvriers qualifiés du travail artisanal du textile et du cuir |
+
+D1206 |
+
+Réparation d'articles en cuir et matériaux souples |
+
+F1Z41 |
+
+Ouvriers qualifiés du travail artisanal du textile et du cuir |
+
+D1207 |
+
+Retouches en habillement |
+
+F2Z20 |
+
+Ouvriers non qualifiés du travail du bois et de l'ameublement |
+
+B1806 |
+
+Tapisserie - décoration en ameublement |
+
+F2Z20 |
+
+Ouvriers non qualifiés du travail du bois et de l'ameublement |
+
+H2201 |
+
+Assemblage d'ouvrages en bois |
+
+F2Z20 |
+
+Ouvriers non qualifiés du travail du bois et de l'ameublement |
+
+H2202 |
+
+Conduite d'équipement de fabrication de l'ameublement et du bois |
+
+F2Z20 |
+
+Ouvriers non qualifiés du travail du bois et de l'ameublement |
+
+H2205 |
+
+Première transformation de bois d'œuvre |
+
+F2Z20 |
+
+Ouvriers non qualifiés du travail du bois et de l'ameublement |
+
+H2207 |
+
+Réalisation de meubles en bois |
+
+F2Z20 |
+
+Ouvriers non qualifiés du travail du bois et de l'ameublement |
+
+H2208 |
+
+Réalisation d'ouvrages décoratifs en bois |
+
+F3Z40 |
+
+Artisans du travail du bois et de l'ameublement *** |
+
+B1806 |
+
+Tapisserie - décoration en ameublement |
+
+F3Z40 |
+
+Artisans du travail du bois et de l'ameublement *** |
+
+H2207 |
+
+Réalisation de meubles en bois |
+
+F3Z40 |
+
+Artisans du travail du bois et de l'ameublement *** |
+
+H2208 |
+
+Réalisation d'ouvrages décoratifs en bois |
+
+F3Z41 |
+
+Ouvriers qualifiés du travail du bois et de l'ameublement |
+
+H2201 |
+
+Assemblage d'ouvrages en bois |
+
+F3Z41 |
+
+Ouvriers qualifiés du travail du bois et de l'ameublement |
+
+H2202 |
+
+Conduite d'équipement de fabrication de l'ameublement et du bois |
+
+F3Z41 |
+
+Ouvriers qualifiés du travail du bois et de l'ameublement |
+
+H2205 |
+
+Première transformation de bois d'œuvre |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1202 |
+
+Production en laboratoire cinématographique |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1203 |
+
+Production en laboratoire photographique |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1301 |
+
+Conduite de machines d'impression |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1302 |
+
+Conduite de machines de façonnage routage |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1304 |
+
+Façonnage et routage |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1306 |
+
+Prépresse |
+
+F4Z20 |
+
+Ouvriers non qualifiés de l'imprimerie, de la presse et de l'édition |
+
+E1307 |
+
+Reprographie |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1202 |
+
+Production en laboratoire cinématographique |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1203 |
+
+Production en laboratoire photographique |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1301 |
+
+Conduite de machines d'impression |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1302 |
+
+Conduite de machines de façonnage routage |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1304 |
+
+Façonnage et routage |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1306 |
+
+Prépresse |
+
+F4Z41 |
+
+Ouvriers qualifiés de l'impression et du façonnage des industries graphiques |
+
+E1307 |
+
+Reprographie |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+E1303 |
+
+Encadrement des industries graphiques |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+E1305 |
+
+Préparation et correction en édition et presse |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+E1308 |
+
+Intervention technique en industries graphiques |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+H1205 |
+
+Études - modèles en industrie des matériaux souples |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+H2204 |
+
+Encadrement des industries de l'ameublement et du bois |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+H2209 |
+
+Intervention technique en ameublement et bois |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+H2412 |
+
+Patronnage - gradation |
+
+F5Z70 |
+
+Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques |
+
+H2505 |
+
+Encadrement d'équipe ou d'atelier en matériaux souples |
+
+G0A40 |
+
+Ouvriers qualifiés de la maintenance en mécanique |
+
+B1604 |
+
+Réparation - montage en systèmes horlogers |
+
+G0A40 |
+
+Ouvriers qualifiés de la maintenance en mécanique |
+
+I1310 |
+
+Maintenance mécanique industrielle |
+
+G0A40 |
+
+Ouvriers qualifiés de la maintenance en mécanique |
+
+I1601 |
+
+Installation et maintenance en nautisme |
+
+G0A40 |
+
+Ouvriers qualifiés de la maintenance en mécanique |
+
+I1602 |
+
+Maintenance d'aéronefs |
+
+G0A40 |
+
+Ouvriers qualifiés de la maintenance en mécanique |
+
+I1605 |
+
+Mécanique de marine |
+
+G0A41 |
+
+Ouvriers qualifiés de la maintenance en électricité et en électronique |
+
+I1303 |
+
+Installation et maintenance de distributeurs automatiques |
+
+G0A41 |
+
+Ouvriers qualifiés de la maintenance en électricité et en électronique |
+
+I1309 |
+
+Maintenance électrique |
+
+G0A42 |
+
+Mainteniciens en biens électrodomestiques |
+
+I1402 |
+
+Réparation de biens électrodomestiques |
+
+G0A43 |
+
+Ouvriers qualifiés polyvalents d'entretien du bâtiment |
+
+I1203 |
+
+Maintenance de bâtiments et des locaux |
+
+G0B40 |
+
+Carrossiers automobiles |
+
+I1606 |
+
+Réparation de carrosserie |
+
+G0B41 |
+
+Mécaniciens et électroniciens de véhicules |
+
+I1603 |
+
+Maintenance d'engins de chantier, de levage, manutention et agricoles |
+
+G0B41 |
+
+Mécaniciens et électroniciens de véhicules |
+
+I1604 |
+
+Mécanique automobile |
+
+G0B41 |
+
+Mécaniciens et électroniciens de véhicules |
+
+I1607 |
+
+Réparation de cycles, motocycles et motoculteurs de loisirs |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+A1204 |
+
+Protection du patrimoine naturel |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+B1604 |
+
+Réparation - montage en systèmes horlogers |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+H1101 |
+
+Assistance et support technique client |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+H1208 |
+
+Intervention technique en études et conception en automatisme |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+H1303 |
+
+Intervention technique en Hygiène Sécurité Environnement -HSE- industriel |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1301 |
+
+Installation et maintenance d'ascenseurs |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1302 |
+
+Installation et maintenance d'automatismes |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1304 |
+
+Installation et maintenance d'équipements industriels et d'exploitation |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1305 |
+
+Installation et maintenance électronique |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1306 |
+
+Installation et maintenance en froid, conditionnement d'air |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1307 |
+
+Installation et maintenance télécoms et courants faibles |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1308 |
+
+Maintenance d'installation de chauffage |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1309 |
+
+Maintenance électrique |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1310 |
+
+Maintenance mécanique industrielle |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1503 |
+
+Intervention en milieux et produits nocifs |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1601 |
+
+Installation et maintenance en nautisme |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1602 |
+
+Maintenance d'aéronefs |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1603 |
+
+Maintenance d'engins de chantier, de levage, manutention et agricoles |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1604 |
+
+Mécanique automobile |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1605 |
+
+Mécanique de marine |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+I1607 |
+
+Réparation de cycles, motocycles et motoculteurs de loisirs |
+
+G1Z70 |
+
+Techniciens et agents de maîtrise de la maintenance et de l'environnement |
+
+K2301 |
+
+Distribution et assainissement d'eau |
+
+G1Z71 |
+
+Techniciens experts |
+
+H1301 |
+
+Inspection de conformité |
+
+G1Z71 |
+
+Techniciens experts |
+
+I1103 |
+
+Supervision d'entretien et gestion de véhicules |
+
+G1Z71 |
+
+Techniciens experts |
+
+K2306 |
+
+Supervision d'exploitation éco industrielle |
+
+G1Z80 |
+
+Agents de maîtrise en entretien |
+
+I1203 |
+
+Maintenance de bâtiments et des locaux |
+
+H0Z90 |
+
+Ingénieurs et cadres de fabrication et de la production |
+
+H1301 |
+
+Inspection de conformité |
+
+H0Z90 |
+
+Ingénieurs et cadres de fabrication et de la production |
+
+H1505 |
+
+Intervention technique en formulation et analyse sensorielle |
+
+H0Z90 |
+
+Ingénieurs et cadres de fabrication et de la production |
+
+H2502 |
+
+Management et ingénierie de production |
+
+H0Z91 |
+
+Cadres techniques de la maintenance et de l'environnement |
+
+A1204 |
+
+Protection du patrimoine naturel |
+
+H0Z91 |
+
+Cadres techniques de la maintenance et de l'environnement |
+
+H1302 |
+
+Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels |
+
+H0Z91 |
+
+Cadres techniques de la maintenance et de l'environnement |
+
+H1101 |
+
+Assistance et support technique client |
+
+H0Z91 |
+
+Cadres techniques de la maintenance et de l'environnement |
+
+I1102 |
+
+Management et ingénierie de maintenance industrielle |
+
+H0Z91 |
+
+Cadres techniques de la maintenance et de l'environnement |
+
+K2302 |
+
+Management et inspection en environnement urbain |
+
+H0Z91 |
+
+Cadres techniques de la maintenance et de l'environnement |
+
+K2306 |
+
+Supervision d'exploitation éco industrielle |
+
+H0Z92 |
+
+Ingénieurs des méthodes de production, du contrôle qualité |
+
+H1401 |
+
+Management et ingénierie gestion industrielle et logistique |
+
+H0Z92 |
+
+Ingénieurs des méthodes de production, du contrôle qualité |
+
+H1402 |
+
+Management et ingénierie méthodes et industrialisation |
+
+H0Z92 |
+
+Ingénieurs des méthodes de production, du contrôle qualité |
+
+H1501 |
+
+Direction de laboratoire d'analyse industrielle |
+
+H0Z92 |
+
+Ingénieurs des méthodes de production, du contrôle qualité |
+
+H1502 |
+
+Management et ingénierie qualité industrielle |
+
+J0Z20 |
+
+Ouvriers non qualifiés de l'emballage et manutentionnaires |
+
+N1101 |
+
+Conduite d'engins de déplacement des charges |
+
+J0Z20 |
+
+Ouvriers non qualifiés de l'emballage et manutentionnaires |
+
+N1102 |
+
+Déménagement |
+
+J0Z20 |
+
+Ouvriers non qualifiés de l'emballage et manutentionnaires |
+
+N1103 |
+
+Magasinage et préparation de commandes |
+
+J0Z20 |
+
+Ouvriers non qualifiés de l'emballage et manutentionnaires |
+
+N1105 |
+
+Manutention manuelle de charges |
+
+J0Z20 |
+
+Ouvriers non qualifiés de l'emballage et manutentionnaires |
+
+N2203 |
+
+Exploitation des pistes aéroportuaires |
+
+J0Z20 |
+
+Ouvriers non qualifiés de l'emballage et manutentionnaires |
+
+N3203 |
+
+Manutention portuaire |
+
+J1Z40 |
+
+Ouvriers qualifiés du magasinage et de la manutention |
+
+N1101 |
+
+Conduite d'engins de déplacement des charges |
+
+J1Z40 |
+
+Ouvriers qualifiés du magasinage et de la manutention |
+
+N1102 |
+
+Déménagement |
+
+J1Z40 |
+
+Ouvriers qualifiés du magasinage et de la manutention |
+
+N1103 |
+
+Magasinage et préparation de commandes |
+
+J1Z40 |
+
+Ouvriers qualifiés du magasinage et de la manutention |
+
+N1105 |
+
+Manutention manuelle de charges |
+
+J1Z40 |
+
+Ouvriers qualifiés du magasinage et de la manutention |
+
+N2203 |
+
+Exploitation des pistes aéroportuaires |
+
+J1Z40 |
+
+Ouvriers qualifiés du magasinage et de la manutention |
+
+N3203 |
+
+Manutention portuaire |
+
+J1Z80 |
+
+Responsables magasinage |
+
+N1103 |
+
+Magasinage et préparation de commandes |
+
+J1Z80 |
+
+Responsables magasinage |
+
+N1302 |
+
+Direction de site logistique |
+
+J3Z40 |
+
+Conducteurs de véhicules légers |
+
+J1305 |
+
+Conduite de véhicules sanitaires |
+
+J3Z40 |
+
+Conducteurs de véhicules légers |
+
+N4102 |
+
+Conduite de transport de particuliers |
+
+J3Z41 |
+
+Conducteurs de transport en commun sur route |
+
+N4103 |
+
+Conduite de transport en commun sur route |
+
+J3Z42 |
+
+Conducteurs et livreurs sur courte distance |
+
+N4104 |
+
+Courses et livraisons express |
+
+J3Z42 |
+
+Conducteurs et livreurs sur courte distance |
+
+N4105 |
+
+Conduite et livraison par tournées sur courte distance |
+
+J3Z42 |
+
+Conducteurs et livreurs sur courte distance |
+
+M1603 |
+
+Distribution de documents * |
+
+J3Z43 |
+
+Conducteurs routiers |
+
+N4101 |
+
+Conduite de transport de marchandises sur longue distance |
+
+J3Z44 |
+
+Conducteurs sur rails et d'engins de traction |
+
+N4301 |
+
+Conduite sur rails |
+
+J3Z44 |
+
+Conducteurs sur rails et d'engins de traction |
+
+N4402 |
+
+Exploitation et manœuvre des remontées mécaniques |
+
+J4Z40 |
+
+Agents d'exploitation des transports |
+
+N4401 |
+
+Circulation du réseau ferré |
+
+J4Z40 |
+
+Agents d'exploitation des transports |
+
+N4403 |
+
+Manœuvre du réseau ferré |
+
+J4Z60 |
+
+Contrôleurs des transports |
+
+N4302 |
+
+Contrôle des transports en commun |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+H1403 |
+
+Intervention technique en gestion industrielle et logistique |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N1201 |
+
+Affrètement transport |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N1202 |
+
+Gestion des opérations de circulation internationale des marchandises |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N1301 |
+
+Conception et organisation de la chaîne logistique |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N1303 |
+
+Intervention technique d'exploitation logistique |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N2204 |
+
+Préparation des vols |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N3201 |
+
+Exploitation des opérations portuaires et du transport maritime |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N3202 |
+
+Exploitation du transport fluvial |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N4201 |
+
+Direction d'exploitation des transports routiers de marchandises |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N4202 |
+
+Direction d'exploitation des transports routiers de personnes |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N4203 |
+
+Intervention technique d'exploitation des transports routiers de marchandises |
+
+J4Z80 |
+
+Responsables logistiques (non cadres) |
+
+N4204 |
+
+Intervention technique d'exploitation des transports routiers de personnes |
+
+J5Z60 |
+
+Agents et hôtesses d'accompagnement |
+
+G1201 |
+
+Accompagnement de voyages, d'activités culturelles ou sportives |
+
+J5Z60 |
+
+Agents et hôtesses d'accompagnement |
+
+N2101 |
+
+Navigation commerciale aérienne |
+
+J5Z61 |
+
+Agents administratifs des transports |
+
+N1201 |
+
+Affrètement transport |
+
+J5Z61 |
+
+Agents administratifs des transports |
+
+N1202 |
+
+Gestion des opérations de circulation internationale des marchandises |
+
+J5Z62 |
+
+Employés des transports et du tourisme |
+
+D1204 |
+
+Location de véhicules ou de matériel de loisirs |
+
+J5Z62 |
+
+Employés des transports et du tourisme |
+
+G1101 |
+
+Accueil touristique |
+
+J5Z62 |
+
+Employés des transports et du tourisme |
+
+G1303 |
+
+Vente de voyages |
+
+J5Z62 |
+
+Employés des transports et du tourisme |
+
+N2201 |
+
+Personnel d'escale aéroportuaire |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+D1204 |
+
+Location de véhicules ou de matériel de loisirs |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+G1102 |
+
+Promotion du tourisme local |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+G1301 |
+
+Conception de produits touristiques |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+G1303 |
+
+Vente de voyages |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N1301 |
+
+Conception et organisation de la chaîne logistique |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N3201 |
+
+Exploitation des opérations portuaires et du transport maritime |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N3202 |
+
+Exploitation du transport fluvial |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N4201 |
+
+Direction d'exploitation des transports routiers de marchandises |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N4202 |
+
+Direction d'exploitation des transports routiers de personnes |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N4203 |
+
+Intervention technique d'exploitation des transports routiers de marchandises |
+
+J5Z80 |
+
+Techniciens des transports et du tourisme |
+
+N4204 |
+
+Intervention technique d'exploitation des transports routiers de personnes |
+
+J6Z90 |
+
+Cadres des transports |
+
+N2202 |
+
+Contrôle de la navigation aérienne |
+
+J6Z90 |
+
+Cadres des transports |
+
+N2205 |
+
+Direction d'escale et exploitation aéroportuaire |
+
+J6Z90 |
+
+Cadres des transports |
+
+N3201 |
+
+Exploitation des opérations portuaires et du transport maritime |
+
+J6Z90 |
+
+Cadres des transports |
+
+N3202 |
+
+Exploitation du transport fluvial |
+
+J6Z90 |
+
+Cadres des transports |
+
+N4201 |
+
+Direction d'exploitation des transports routiers de marchandises |
+
+J6Z90 |
+
+Cadres des transports |
+
+N4202 |
+
+Direction d'exploitation des transports routiers de personnes |
+
+J6Z90 |
+
+Cadres des transports |
+
+N4203 |
+
+Intervention technique d'exploitation des transports routiers de marchandises |
+
+J6Z90 |
+
+Cadres des transports |
+
+N4204 |
+
+Intervention technique d'exploitation des transports routiers de personnes |
+
+J6Z91 |
+
+Personnels navigants de l'aviation |
+
+N2102 |
+
+Pilotage et navigation technique aérienne |
+
+J6Z92 |
+
+Ingénieurs et cadres de la logistique, du planning et de l'ordonnancement |
+
+G1302 |
+
+Optimisation de produits touristiques |
+
+J6Z92 |
+
+Ingénieurs et cadres de la logistique, du planning et de l'ordonnancement |
+
+N1301 |
+
+Conception et organisation de la chaîne logistique |
+
+J6Z92 |
+
+Ingénieurs et cadres de la logistique, du planning et de l'ordonnancement |
+
+N1302 |
+
+Direction de site logistique |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+A1502 |
+
+Podologie animale |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+A1503 |
+
+Toilettage des animaux |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1302 |
+
+Décoration d'objets d'art et artisanaux |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1303 |
+
+Gravure - ciselure |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1401 |
+
+Réalisation d'objets en lianes, fibres et brins végétaux |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1402 |
+
+Reliure et restauration de livres et archives |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1501 |
+
+Fabrication et réparation d'instruments de musique |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1601 |
+
+Métallerie d'art |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1603 |
+
+Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+B1701 |
+
+Conservation et reconstitution d'espèces animales |
+
+K0Z20 |
+
+Ouvriers non qualifiés divers de type artisanal** |
+
+D1205 |
+
+Nettoyage d'articles textiles ou cuirs |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+A1502 |
+
+Podologie animale |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+A1503 |
+
+Toilettage des animaux |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1302 |
+
+Décoration d'objets d'art et artisanaux |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1303 |
+
+Gravure - ciselure |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1401 |
+
+Réalisation d'objets en lianes, fibres et brins végétaux |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1402 |
+
+Reliure et restauration de livres et archives |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1501 |
+
+Fabrication et réparation d'instruments de musique |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1601 |
+
+Métallerie d'art |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1603 |
+
+Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+B1701 |
+
+Conservation et reconstitution d'espèces animales |
+
+K0Z40 |
+
+Artisans et ouvriers qualifiés divers de type artisanal |
+
+D1205 |
+
+Nettoyage d'articles textiles ou cuirs |
+
+L0Z60 |
+
+Secrétaires bureautiques et assimilés |
+
+D1401 |
+
+Assistanat commercial |
+
+L0Z60 |
+
+Secrétaires bureautiques et assimilés |
+
+M1607 |
+
+Secrétariat |
+
+L0Z60 |
+
+Secrétaires bureautiques et assimilés |
+
+M1608 |
+
+Secrétariat comptable |
+
+L0Z60 |
+
+Secrétaires bureautiques et assimilés |
+
+M1609 |
+
+Secrétariat et assistanat médical ou médico-social |
+
+L1Z60 |
+
+Employés de la comptabilité |
+
+M1203 |
+
+Comptabilité |
+
+L2Z60 |
+
+Agents d'accueil et d'information |
+
+M1601 |
+
+Accueil et renseignements |
+
+L2Z61 |
+
+Agents administratifs divers |
+
+M1401 |
+
+Conduite d'enquêtes |
+
+L2Z61 |
+
+Agents administratifs divers |
+
+M1501 |
+
+Assistanat en ressources humaines |
+
+L2Z61 |
+
+Agents administratifs divers |
+
+M1602 |
+
+Opérations administratives |
+
+L2Z61 |
+
+Agents administratifs divers |
+
+M1605 |
+
+Assistanat technique et administratif |
+
+L2Z61 |
+
+Agents administratifs divers |
+
+M1606 |
+
+Saisie de données |
+
+L3Z80 |
+
+Secrétaires de direction |
+
+D1401 |
+
+Assistanat commercial |
+
+L3Z80 |
+
+Secrétaires de direction |
+
+M1604 |
+
+Assistanat de direction |
+
+L3Z80 |
+
+Secrétaires de direction |
+
+M1607 |
+
+Secrétariat |
+
+L3Z80 |
+
+Secrétaires de direction |
+
+M1608 |
+
+Secrétariat comptable |
+
+L3Z80 |
+
+Secrétaires de direction |
+
+M1609 |
+
+Secrétariat et assistanat médical ou médico-social |
+
+L4Z80 |
+
+Techniciens des services administratifs |
+
+M1404 |
+
+Management et gestion d'enquêtes |
+
+L4Z80 |
+
+Techniciens des services administratifs |
+
+M1501 |
+
+Assistanat en ressources humaines |
+
+L4Z80 |
+
+Techniciens des services administratifs |
+
+M1605 |
+
+Assistanat technique et administratif |
+
+L4Z81 |
+
+Techniciens des services comptables et financiers |
+
+M1203 |
+
+Comptabilité |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1201 |
+
+Analyse et ingénierie financière |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1202 |
+
+Audit et contrôle comptables et financiers |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1203 |
+
+Comptabilité |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1204 |
+
+Contrôle de gestion |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1205 |
+
+Direction administrative et financière |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1206 |
+
+Management de groupe ou de service comptable |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1207 |
+
+Trésorerie et financement |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1402 |
+
+Conseil en organisation et management d'entreprise |
+
+L5Z90 |
+
+Cadres administratifs, comptables et financiers (hors juristes) |
+
+M1403 |
+
+Études et prospectives socio-économiques |
+
+L5Z91 |
+
+Juristes |
+
+K1903 |
+
+Défense et conseil juridique |
+
+L5Z92 |
+
+Cadres des ressources humaines et du recrutement |
+
+K2101 |
+
+Conseil en formation |
+
+L5Z92 |
+
+Cadres des ressources humaines et du recrutement |
+
+K2102 |
+
+Coordination pédagogique |
+
+L5Z92 |
+
+Cadres des ressources humaines et du recrutement |
+
+M1502 |
+
+Développement des ressources humaines |
+
+L5Z92 |
+
+Cadres des ressources humaines et du recrutement |
+
+M1503 |
+
+Management des ressources humaines |
+
+L6Z00 |
+
+Dirigeants de petites et moyennes entreprises |
+
+M1302 |
+
+Direction de petite ou moyenne entreprise |
+
+L6Z90 |
+
+Cadres dirigeants des grandes entreprises |
+
+M1301 |
+
+Direction de grande entreprise ou d'établissement public |
+
+M0Z60 |
+
+Employés et opérateurs en informatique |
+
+M1801 |
+
+Administration de systèmes d'information |
+
+M0Z60 |
+
+Employés et opérateurs en informatique |
+
+M1805 |
+
+Études et développement informatique |
+
+M0Z60 |
+
+Employés et opérateurs en informatique |
+
+M1810 |
+
+Production et exploitation de systèmes d'information |
+
+M1Z80 |
+
+Techniciens d'étude et de développement en informatique |
+
+M1805 |
+
+Études et développement informatique |
+
+M1Z81 |
+
+Techniciens de production, d'exploitation, d'installation, et de maintenance, support et services aux utilisateurs en informatique |
+
+I1401 |
+
+Maintenance informatique et bureautique |
+
+M1Z81 |
+
+Techniciens de production, d'exploitation, d'installation, et de maintenance, support et services aux utilisateurs en informatique |
+
+M1801 |
+
+Administration de systèmes d'information |
+
+M1Z81 |
+
+Techniciens de production, d'exploitation, d'installation, et de maintenance, support et services aux utilisateurs en informatique |
+
+M1810 |
+
+Production et exploitation de systèmes d'information |
+
+M2Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+
+M1801 |
+
+Administration de systèmes d'information |
+
+M2Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+
+M1802 |
+
+Conseil et maîtrise d'ouvrage en systèmes d'information |
+
+M2Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+
+M1803 |
+
+Direction des systèmes d'information |
+
+M2Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+
+M1805 |
+
+Études et développement informatique |
+
+M2Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+
+M1806 |
+
+Expertise et support technique en systèmes d'information |
+
+M2Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement en informatique, chefs de projets informatiques |
+
+M1810 |
+
+Production et exploitation de systèmes d'information |
+
+M2Z91 |
+
+Ingénieurs et cadres d'administration, maintenance en informatique |
+
+I1401 |
+
+Maintenance informatique et bureautique |
+
+M2Z92 |
+
+Ingénieurs et cadres des télécommunications |
+
+M1804 |
+
+Études et développement de réseaux de télécoms |
+
+M2Z92 |
+
+Ingénieurs et cadres des télécommunications |
+
+M1807 |
+
+Exploitation de systèmes de communication et de commandement |
+
+N0Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement (industrie) |
+
+H1206 |
+
+Management et ingénierie études, recherche et développement industriel |
+
+N0Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement (industrie) |
+
+M1808 |
+
+Information géographique |
+
+N0Z90 |
+
+Ingénieurs et cadres d'étude, recherche et développement (industrie) |
+
+M1809 |
+
+Information météorologique |
+
+N0Z91 |
+
+Chercheurs (sauf industrie et enseignement supérieur) ** |
+
+K2401 |
+
+Recherche en sciences de l'homme et de la société |
+
+N0Z91 |
+
+Chercheurs (sauf industrie et enseignement supérieur) ** |
+
+K2402 |
+
+Recherche en sciences de l'univers, de la matière et du vivant |
+
+P0Z60 |
+
+Agents des impôts et des douanes |
+
+K1501 |
+
+Application des règles financières publiques |
+
+P1Z80 |
+
+Contrôleurs des impôts et des douanes |
+
+K1503 |
+
+Contrôle et inspection des impôts |
+
+P1Z80 |
+
+Contrôleurs des impôts et des douanes |
+
+K1504 |
+
+Contrôle et inspection du Trésor Public |
+
+P1Z80 |
+
+Contrôleurs des impôts et des douanes |
+
+K1505 |
+
+Protection des consommateurs et contrôle des échanges commerciaux |
+
+P1Z81 |
+
+Autres cadres B de la fonction publique |
+
+K1502 |
+
+Contrôle et inspection des Affaires Sociales |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1401 |
+
+Conception et pilotage de la politique des pouvoirs publics |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1403 |
+
+Management de structure de santé, sociale ou pénitentiaire |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1404 |
+
+Mise en œuvre et pilotage de la politique des pouvoirs publics |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1405 |
+
+Représentation de l'État sur le territoire national ou international |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1502 |
+
+Contrôle et inspection des Affaires Sociales |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1503 |
+
+Contrôle et inspection des impôts |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1504 |
+
+Contrôle et inspection du Trésor Public |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1505 |
+
+Protection des consommateurs et contrôle des échanges commerciaux |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1602 |
+
+Gestion de patrimoine culturel |
+
+P2Z90 |
+
+Cadres A de la fonction publique (hors spécialités juridiques) et assimilés* |
+
+K1802 |
+
+Développement local |
+
+P3Z90 |
+
+Professionnels du droit |
+
+K1901 |
+
+Aide et médiation judiciaire |
+
+P3Z90 |
+
+Professionnels du droit |
+
+K1902 |
+
+Collaboration juridique |
+
+P3Z91 |
+
+Magistrats |
+
+K1904 |
+
+Magistrature |
+
+P4Z60 |
+
+Agents de sécurité et de l'ordre public |
+
+K1701 |
+
+Personnel de la Défense |
+
+P4Z60 |
+
+Agents de sécurité et de l'ordre public |
+
+K1705 |
+
+Sécurité civile et secours |
+
+P4Z60 |
+
+Agents de sécurité et de l'ordre public |
+
+K1706 |
+
+Sécurité publique |
+
+P4Z61 |
+
+Agents de polices municipales |
+
+K1707 |
+
+Surveillance municipale |
+
+P4Z80 |
+
+Cadres intermédiaires de la police et de l'armée |
+
+K1702 |
+
+Direction de la sécurité civile et des secours |
+
+P4Z80 |
+
+Cadres intermédiaires de la police et de l'armée |
+
+K1703 |
+
+Direction opérationnelle de la défense |
+
+P4Z80 |
+
+Cadres intermédiaires de la police et de l'armée |
+
+K1704 |
+
+Management de la sécurité publique |
+
+Q0Z60 |
+
+Employés de la banque et des assurances |
+
+C1102 |
+
+Conseil clientèle en assurances |
+
+Q0Z60 |
+
+Employés de la banque et des assurances |
+
+C1109 |
+
+Rédaction et gestion en assurances |
+
+Q0Z60 |
+
+Employés de la banque et des assurances |
+
+C1201 |
+
+Accueil et services bancaires |
+
+Q0Z60 |
+
+Employés de la banque et des assurances |
+
+C1206 |
+
+Gestion de clientèle bancaire |
+
+Q0Z60 |
+
+Employés de la banque et des assurances |
+
+C1401 |
+
+Gestion en banque et assurances |
+
+Q1Z80 |
+
+Techniciens de la banque |
+
+C1201 |
+
+Accueil et services bancaires |
+
+Q1Z80 |
+
+Techniciens de la banque |
+
+C1202 |
+
+Analyse de crédits et risques bancaires |
+
+Q1Z80 |
+
+Techniciens de la banque |
+
+C1203 |
+
+Relation clients banque/finance |
+
+Q1Z80 |
+
+Techniciens de la banque |
+
+C1205 |
+
+Conseil en gestion de patrimoine financier |
+
+Q1Z80 |
+
+Techniciens de la banque |
+
+C1206 |
+
+Gestion de clientèle bancaire |
+
+Q1Z80 |
+
+Techniciens de la banque |
+
+C1302 |
+
+Gestion back et middle-office marchés financiers |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1102 |
+
+Conseil clientèle en assurances |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1103 |
+
+Courtage en assurances |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1105 |
+
+Études actuarielles en assurances |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1106 |
+
+Expertise risques en assurance |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1107 |
+
+Indemnisations en assurances |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1109 |
+
+Rédaction et gestion en assurances |
+
+Q1Z81 |
+
+Techniciens des assurances |
+
+C1110 |
+
+Souscription d'assurances |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1202 |
+
+Analyse de crédits et risques bancaires |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1203 |
+
+Relation clients banque/finance |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1204 |
+
+Conception et expertise produits bancaires et financiers |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1205 |
+
+Conseil en gestion de patrimoine financier |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1207 |
+
+Management en exploitation bancaire |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1301 |
+
+Front office marchés financiers |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1302 |
+
+Gestion back et middle-office marchés financiers |
+
+Q2Z90 |
+
+Cadres de la banque |
+
+C1303 |
+
+Gestion de portefeuilles sur les marchés financiers |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1101 |
+
+Conception développement produits d'assurances |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1103 |
+
+Courtage en assurances |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1104 |
+
+Direction d'exploitation en assurances |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1105 |
+
+Études actuarielles en assurances |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1106 |
+
+Expertise risques en assurance |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1107 |
+
+Indemnisations en assurances |
+
+Q2Z91 |
+
+Cadres des assurances |
+
+C1108 |
+
+Management de groupe et de service en assurances |
+
+R0Z60 |
+
+Employés de libre service |
+
+D1501 |
+
+Animation de vente |
+
+R0Z60 |
+
+Employés de libre service |
+
+D1507 |
+
+Mise en rayon libre - service |
+
+R0Z61 |
+
+Caissiers |
+
+D1505 |
+
+Personnel de caisse |
+
+R1Z60 |
+
+Vendeurs en produits alimentaires |
+
+D1105 |
+
+Poissonnerie |
+
+R1Z60 |
+
+Vendeurs en produits alimentaires |
+
+D1106 |
+
+Vente en alimentation |
+
+R1Z60 |
+
+Vendeurs en produits alimentaires |
+
+D1107 |
+
+Vente en gros de produits frais |
+
+R1Z61 |
+
+Vendeurs en ameublement, équipement du foyer, bricolage |
+
+D1212 |
+
+Vente en décoration et équipement du foyer |
+
+R1Z62 |
+
+Vendeurs en habillement et accessoires, articles de luxe, de sport, de loisirs et culturels |
+
+D1201 |
+
+Achat vente d'objets d'art, anciens ou d'occasion |
+
+R1Z62 |
+
+Vendeurs en habillement et accessoires, articles de luxe, de sport, de loisirs et culturels |
+
+D1209 |
+
+Vente de végétaux |
+
+R1Z62 |
+
+Vendeurs en habillement et accessoires, articles de luxe, de sport, de loisirs et culturels |
+
+D1210 |
+
+Vente en animalerie |
+
+R1Z62 |
+
+Vendeurs en habillement et accessoires, articles de luxe, de sport, de loisirs et culturels |
+
+D1211 |
+
+Vente en articles de sport et loisirs |
+
+R1Z62 |
+
+Vendeurs en habillement et accessoires, articles de luxe, de sport, de loisirs et culturels |
+
+D1214 |
+
+Vente en habillement et accessoires de la personne |
+
+R1Z63 |
+
+Vendeurs en gros de matériel et équipements |
+
+D1213 |
+
+Vente en gros de matériel et équipements |
+
+R1Z67 |
+
+Télévendeurs |
+
+D1408 |
+
+Téléconseil et télévente |
+
+R2Z80 |
+
+Attachés commerciaux |
+
+D1407 |
+
+Relation technico-commerciale |
+
+R2Z80 |
+
+Attachés commerciaux |
+
+D1402 |
+
+Relation commerciale grands comptes et entreprise |
+
+R2Z80 |
+
+Attachés commerciaux |
+
+D1405 |
+
+Conseil en information médicale |
+
+R2Z83 |
+
+Représentants auprès des particuliers |
+
+D1403 |
+
+Relation commerciale auprès de particuliers |
+
+R2Z83 |
+
+Représentants auprès des particuliers |
+
+D1404 |
+
+Relation commerciale en vente de véhicules ** |
+
+R2Z83 |
+
+Représentants auprès des particuliers |
+
+D1501 |
+
+Animation de vente |
+
+R3Z80 |
+
+Maîtrise des magasins |
+
+D1506 |
+
+Marchandisage |
+
+R3Z80 |
+
+Maîtrise des magasins |
+
+D1502 |
+
+Management/gestion de rayon produits alimentaires |
+
+R3Z80 |
+
+Maîtrise des magasins |
+
+D1503 |
+
+Management/gestion de rayon produits non alimentaires |
+
+R3Z80 |
+
+Maîtrise des magasins |
+
+D1508 |
+
+Encadrement du personnel de caisses |
+
+R3Z82 |
+
+Professions intermédiaires commerciales |
+
+M1101 |
+
+Achats |
+
+R3Z82 |
+
+Professions intermédiaires commerciales |
+
+M1102 |
+
+Direction des achats |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+D1406 |
+
+Management en force de vente |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1701 |
+
+Administration des ventes |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1702 |
+
+Analyse de tendance |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1703 |
+
+Management et gestion de produit |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1704 |
+
+Management relation clientèle |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1705 |
+
+Marketing |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1707 |
+
+Stratégie commerciale |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1102 |
+
+Direction des achats |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+D1506 |
+
+Marchandisage |
+
+R4Z90 |
+
+Cadres commerciaux, acheteurs et cadres de la mercatique |
+
+M1101 |
+
+Achats |
+
+R4Z91 |
+
+Ingénieurs et cadres technico-commerciaux |
+
+H1102 |
+
+Management et ingénierie d'affaires |
+
+R4Z91 |
+
+Ingénieurs et cadres technico-commerciaux |
+
+M1706 |
+
+Promotion des ventes |
+
+R4Z91 |
+
+Ingénieurs et cadres technico-commerciaux |
+
+D1407 |
+
+Relation technico-commerciale |
+
+R4Z92 |
+
+Cadres des magasins |
+
+D1301 |
+
+Management de magasin de détail |
+
+R4Z92 |
+
+Cadres des magasins |
+
+D1504 |
+
+Direction de magasin de grande distribution |
+
+R4Z92 |
+
+Cadres des magasins |
+
+D1509 |
+
+Management de département en grande distribution |
+
+R4Z93 |
+
+Agents immobiliers, syndics |
+
+C1501 |
+
+Gérance immobilière |
+
+R4Z93 |
+
+Agents immobiliers, syndics |
+
+C1502 |
+
+Gestion locative immobilière |
+
+R4Z93 |
+
+Agents immobiliers, syndics |
+
+C1503 |
+
+Management de projet immobilier |
+
+R4Z93 |
+
+Agents immobiliers, syndics |
+
+C1504 |
+
+Transaction immobilière |
+
+S0Z20 |
+
+Apprentis et ouvriers non qualifiés de l'alimentation (hors industries agro-alimentaires) |
+
+D1101 |
+
+Boucherie |
+
+S0Z20 |
+
+Apprentis et ouvriers non qualifiés de l'alimentation (hors industries agro-alimentaires) |
+
+D1102 |
+
+Boulangerie - viennoiserie |
+
+S0Z20 |
+
+Apprentis et ouvriers non qualifiés de l'alimentation (hors industries agro-alimentaires) |
+
+D1103 |
+
+Charcuterie - traiteur |
+
+S0Z20 |
+
+Apprentis et ouvriers non qualifiés de l'alimentation (hors industries agro-alimentaires) |
+
+D1104 |
+
+Pâtisserie, confiserie, chocolaterie et glacerie |
+
+S0Z40 |
+
+Bouchers |
+
+D1101 |
+
+Boucherie |
+
+S0Z40 |
+
+Bouchers |
+
+H2101 |
+
+Abattage et découpe des viandes |
+
+S0Z41 |
+
+Charcutiers, traiteurs |
+
+D1103 |
+
+Charcuterie - traiteur |
+
+S0Z42 |
+
+Boulangers, pâtissiers |
+
+D1102 |
+
+Boulangerie - viennoiserie |
+
+S0Z42 |
+
+Boulangers, pâtissiers |
+
+D1104 |
+
+Pâtisserie, confiserie, chocolaterie et glacerie |
+
+S1Z20 |
+
+Aides de cuisine, apprentis de cuisine et employés polyvalents de la restauration |
+
+G1603 |
+
+Personnel polyvalent en restauration |
+
+S1Z20 |
+
+Aides de cuisine, apprentis de cuisine et employés polyvalents de la restauration |
+
+G1604 |
+
+Fabrication de crêpes ou pizzas |
+
+S1Z20 |
+
+Aides de cuisine, apprentis de cuisine et employés polyvalents de la restauration |
+
+G1605 |
+
+Plonge en restauration |
+
+S1Z40 |
+
+Cuisiniers |
+
+G1602 |
+
+Personnel de cuisine |
+
+S1Z80 |
+
+Chefs cuisiniers |
+
+G1601 |
+
+Management du personnel de cuisine |
+
+S2Z60 |
+
+Employés de l'hôtellerie |
+
+G1501 |
+
+Personnel d'étage |
+
+S2Z60 |
+
+Employés de l'hôtellerie |
+
+G1502 |
+
+Personnel polyvalent d'hôtellerie |
+
+S2Z60 |
+
+Employés de l'hôtellerie |
+
+G1702 |
+
+Personnel du hall |
+
+S2Z60 |
+
+Employés de l'hôtellerie |
+
+G1703 |
+
+Réception en hôtellerie |
+
+S2Z61 |
+
+Serveurs de cafés restaurants |
+
+G1801 |
+
+Café, bar brasserie |
+
+S2Z61 |
+
+Serveurs de cafés restaurants |
+
+G1803 |
+
+Service en restauration |
+
+S2Z80 |
+
+Maîtres d'hôtel |
+
+G1802 |
+
+Management du service en restauration |
+
+S2Z80 |
+
+Maîtres d'hôtel |
+
+G1804 |
+
+Sommellerie |
+
+S2Z81 |
+
+Maîtrise de l'hôtellerie |
+
+G1503 |
+
+Management du personnel d'étage |
+
+S2Z81 |
+
+Maîtrise de l'hôtellerie |
+
+G1701 |
+
+Conciergerie en hôtellerie |
+
+S3Z90 |
+
+Cadres de l'hôtellerie et de la restauration* |
+
+G1401 |
+
+Assistance de direction d'hôtel - restaurant |
+
+S3Z90 |
+
+Cadres de l'hôtellerie et de la restauration* |
+
+G1402 |
+
+Management d'hôtel - restaurant |
+
+S3Z90 |
+
+Cadres de l'hôtellerie et de la restauration* |
+
+G1403 |
+
+Gestion de structure de loisirs ou d'hébergement touristique |
+
+S3Z90 |
+
+Cadres de l'hôtellerie et de la restauration* |
+
+G1404 |
+
+Management d'établissement de restauration collective |
+
+T0Z60 |
+
+Coiffeurs, esthéticiens |
+
+D1202 |
+
+Coiffure |
+
+T0Z60 |
+
+Coiffeurs, esthéticiens |
+
+D1203 |
+
+Hydrothérapie |
+
+T0Z60 |
+
+Coiffeurs, esthéticiens |
+
+D1208 |
+
+Soins esthétiques et corporels |
+
+T1Z60 |
+
+Employés de maison et personnels de ménage |
+
+K1304 |
+
+Services domestiques |
+
+T2A60 |
+
+Aides à domicile et aides ménagères |
+
+K1302 |
+
+Assistance auprès d'adultes |
+
+T2A60 |
+
+Aides à domicile et aides ménagères |
+
+K1305 |
+
+Intervention sociale et familiale |
+
+T2B60 |
+
+Assistantes maternelles |
+
+K1303 |
+
+Assistance auprès d'enfants |
+
+T3Z60 |
+
+Concierges |
+
+K2501 |
+
+Gardiennage de locaux |
+
+T3Z61 |
+
+Agents de sécurité et de surveillance |
+
+K2502 |
+
+Management de sécurité privée |
+
+T3Z61 |
+
+Agents de sécurité et de surveillance |
+
+K2503 |
+
+Sécurité et surveillance privées |
+
+T4Z60 |
+
+Agents d'entretien de locaux |
+
+I1501 |
+
+Intervention en grande hauteur |
+
+T4Z60 |
+
+Agents d'entretien de locaux |
+
+K2202 |
+
+Lavage de vitres |
+
+T4Z60 |
+
+Agents d'entretien de locaux |
+
+K2203 |
+
+Management et inspection en propreté de locaux |
+
+T4Z60 |
+
+Agents d'entretien de locaux |
+
+K2204 |
+
+Nettoyage de locaux |
+
+T4Z61 |
+
+Agents de services hospitaliers |
+
+J1301 |
+
+Personnel polyvalent des services hospitaliers |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+I1201 |
+
+Entretien d'affichage et mobilier urbain |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+I1202 |
+
+Entretien et surveillance du tracé routier |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+I1503 |
+
+Intervention en milieux et produits nocifs |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+K2301 |
+
+Distribution et assainissement d'eau |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+K2303 |
+
+Nettoyage des espaces urbains |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+K2304 |
+
+Revalorisation de produits industriels |
+
+T4Z62 |
+
+Ouvriers de l'assainissement et du traitement des déchets |
+
+K2305 |
+
+Salubrité et traitement de nuisibles |
+
+T6Z61 |
+
+Employés des services divers** |
+
+G1205 |
+
+Personnel d'attractions ou de structures de loisirs |
+
+T6Z61 |
+
+Employés des services divers** |
+
+G1206 |
+
+Personnel technique des jeux |
+
+T6Z61 |
+
+Employés des services divers** |
+
+K1103 |
+
+Développement personnel et bien-être de la personne |
+
+T6Z61 |
+
+Employés des services divers** |
+
+K2601 |
+
+Conduite d'opérations funéraires |
+
+T6Z61 |
+
+Employés des services divers** |
+
+K2602 |
+
+Conseil en services funéraires |
+
+T6Z61 |
+
+Employés des services divers** |
+
+K2603 |
+
+Thanatopraxie |
+
+U0Z80 |
+
+Assistants de communication |
+
+E1101 |
+
+Animation de site multimédia |
+
+U0Z80 |
+
+Assistants de communication |
+
+E1103 |
+
+Communication |
+
+U0Z80 |
+
+Assistants de communication |
+
+E1107 |
+
+Organisation d'événementiel |
+
+U0Z80 |
+
+Assistants de communication |
+
+E1401 |
+
+Développement et promotion publicitaire |
+
+U0Z80 |
+
+Assistants de communication |
+
+E1402 |
+
+Élaboration de plan média |
+
+U0Z81 |
+
+Interprètes |
+
+E1108 |
+
+Traduction, interprétariat |
+
+U0Z90 |
+
+Cadres de la communication |
+
+E1101 |
+
+Animation de site multimédia |
+
+U0Z90 |
+
+Cadres de la communication |
+
+E1103 |
+
+Communication |
+
+U0Z90 |
+
+Cadres de la communication |
+
+E1107 |
+
+Organisation d'événementiel |
+
+U0Z90 |
+
+Cadres de la communication |
+
+E1401 |
+
+Développement et promotion publicitaire |
+
+U0Z90 |
+
+Cadres de la communication |
+
+E1402 |
+
+Élaboration de plan média |
+
+U0Z90 |
+
+Cadres de la communication |
+
+L1303 |
+
+Promotion d'artistes et de spectacles * |
+
+U0Z91 |
+
+Cadres et techniciens de la documentation |
+
+K1601 |
+
+Gestion de l'information et de la documentation |
+
+U0Z92 |
+
+Journalistes et cadres de l'édition |
+
+E1105 |
+
+Coordination d'édition |
+
+U0Z92 |
+
+Journalistes et cadres de l'édition |
+
+E1106 |
+
+Journalisme et information média |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+E1204 |
+
+Projection cinéma |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1302 |
+
+Production et administration spectacle, cinéma et audiovisuel |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1304 |
+
+Réalisation cinématographique et audiovisuelle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1501 |
+
+Coiffure et maquillage spectacle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1502 |
+
+Costume et Habillage spectacle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1503 |
+
+Décor et accessoires spectacle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1504 |
+
+Éclairage spectacle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1505 |
+
+Image cinématographique et télévisuelle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1506 |
+
+Machinerie spectacle |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1507 |
+
+Montage et post-production |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1508 |
+
+Prise de son et sonorisation |
+
+U1Z80 |
+
+Professionnels des spectacles |
+
+L1509 |
+
+Régie générale |
+
+U1Z81 |
+
+Photographes |
+
+E1201 |
+
+Photographie |
+
+U1Z82 |
+
+Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle** |
+
+B1301 |
+
+Décoration d'espaces vente |
+
+U1Z82 |
+
+Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle** |
+
+B1805 |
+
+Stylisme |
+
+U1Z82 |
+
+Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle** |
+
+E1104 |
+
+Conception de contenus multimédias |
+
+U1Z82 |
+
+Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle** |
+
+E1205 |
+
+Réalisation de contenus multimédias |
+
+U1Z82 |
+
+Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle** |
+
+F1102 |
+
+Conception aménagement d'espaces intérieurs |
+
+U1Z82 |
+
+Graphistes, dessinateurs, stylistes, décorateurs et créateurs de supports de communication visuelle** |
+
+H1204 |
+
+Design industriel |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+K2105 |
+
+Enseignement artistique |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1101 |
+
+Animation musicale et scénique |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1102 |
+
+Mannequinat et pose artistique |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1103 |
+
+Présentation de spectacles ou d'émissions |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1201 |
+
+Danse |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1202 |
+
+Musique et chant |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1203 |
+
+Art dramatique |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1204 |
+
+Arts du cirque et arts visuels |
+
+U1Z91 |
+
+Artistes (musique, danse, spectacles) |
+
+L1301 |
+
+Mise en scène de spectacles vivants |
+
+U1Z92 |
+
+Écrivains |
+
+E1102 |
+
+Écriture d'ouvrages, de livres |
+
+U1Z93 |
+
+Artistes plasticiens |
+
+B1101 |
+
+Création en arts plastiques |
+
+V0Z60 |
+
+Aides-soignants |
+
+A1501 |
+
+Aide aux soins animaux |
+
+V0Z60 |
+
+Aides-soignants |
+
+J1303 |
+
+Assistance médico-technique |
+
+V0Z60 |
+
+Aides-soignants |
+
+J1304 |
+
+Aide en puériculture |
+
+V0Z60 |
+
+Aides-soignants |
+
+J1501 |
+
+Soins d'hygiène, de confort du patient |
+
+V0Z60 |
+
+Aides-soignants |
+
+K1301 |
+
+Accompagnement médicosocial |
+
+V1Z80 |
+
+Infirmiers |
+
+J1502 |
+
+Coordination de services médicaux ou paramédicaux |
+
+V1Z80 |
+
+Infirmiers |
+
+J1503 |
+
+Soins infirmiers spécialisés en anesthésie |
+
+V1Z80 |
+
+Infirmiers |
+
+J1504 |
+
+Soins infirmiers spécialisés en bloc opératoire |
+
+V1Z80 |
+
+Infirmiers |
+
+J1505 |
+
+Soins infirmiers spécialisés en prévention |
+
+V1Z80 |
+
+Infirmiers |
+
+J1506 |
+
+Soins infirmiers généralistes |
+
+V1Z80 |
+
+Infirmiers |
+
+J1507 |
+
+Soins infirmiers spécialisés en puériculture |
+
+V1Z81 |
+
+Sages-femmes |
+
+J1104 |
+
+Suivi de la grossesse et de l'accouchement |
+
+V2Z90 |
+
+Médecins |
+
+J1101 |
+
+Médecine de prévention |
+
+V2Z90 |
+
+Médecins |
+
+J1102 |
+
+Médecine généraliste et spécialisée |
+
+V2Z90 |
+
+Médecins |
+
+K1402 |
+
+Conseil en Santé Publique * |
+
+V2Z91 |
+
+Dentistes |
+
+J1103 |
+
+Médecine dentaire |
+
+V2Z92 |
+
+Vétérinaires |
+
+A1504 |
+
+Santé animale |
+
+V2Z93 |
+
+Pharmaciens |
+
+J1201 |
+
+Biologie médicale |
+
+V2Z93 |
+
+Pharmaciens |
+
+J1202 |
+
+Pharmacie |
+
+V3Z70 |
+
+Techniciens médicaux et préparateurs |
+
+J1302 |
+
+Analyses médicales |
+
+V3Z70 |
+
+Techniciens médicaux et préparateurs |
+
+J1306 |
+
+Imagerie médicale |
+
+V3Z70 |
+
+Techniciens médicaux et préparateurs |
+
+J1307 |
+
+Préparation en pharmacie |
+
+V3Z71 |
+
+Spécialistes de l'appareillage médical |
+
+J1401 |
+
+Audioprothèses |
+
+V3Z71 |
+
+Spécialistes de l'appareillage médical |
+
+J1405 |
+
+Optique - lunetterie |
+
+V3Z71 |
+
+Spécialistes de l'appareillage médical |
+
+J1410 |
+
+Prothèses dentaires |
+
+V3Z71 |
+
+Spécialistes de l'appareillage médical |
+
+J1411 |
+
+Prothèses et orthèses |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1402 |
+
+Diététique |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1403 |
+
+Ergothérapie |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1404 |
+
+Kinésithérapie |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1406 |
+
+Orthophonie |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1407 |
+
+Orthoptique |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1408 |
+
+Ostéopathie et chiropraxie |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1409 |
+
+Pédicurie et podologie |
+
+V3Z80 |
+
+Autres professionnels para-médicaux |
+
+J1412 |
+
+Rééducation en psychomotricité |
+
+V3Z90 |
+
+Psychologues, psychothérapeutes |
+
+K1104 |
+
+Psychologie |
+
+V4Z80 |
+
+Professionnels de l'orientation |
+
+K1801 |
+
+Conseil en emploi et insertion socioprofessionnelle |
+
+V4Z80 |
+
+Professionnels de l'orientation |
+
+K2112 |
+
+Orientation scolaire et professionnelle |
+
+V4Z83 |
+
+Educateurs spécialisés |
+
+K1202 |
+
+Éducation de jeunes enfants |
+
+V4Z83 |
+
+Educateurs spécialisés |
+
+K1203 |
+
+Encadrement technique en insertion professionnelle |
+
+V4Z83 |
+
+Educateurs spécialisés |
+
+K1204 |
+
+Facilitation de la vie sociale |
+
+V4Z83 |
+
+Educateurs spécialisés |
+
+K1207 |
+
+Intervention socioéducative |
+
+V4Z85 |
+
+Professionnels de l'action sociale |
+
+K1101 |
+
+Accompagnement et médiation familiale |
+
+V4Z85 |
+
+Professionnels de l'action sociale |
+
+K1102 |
+
+Aide aux bénéficiaires d'une mesure de protection juridique |
+
+V4Z85 |
+
+Professionnels de l'action sociale |
+
+K1201 |
+
+Action sociale |
+
+V4Z85 |
+
+Professionnels de l'action sociale |
+
+K1205 |
+
+Information et médiation sociale |
+
+V5Z81 |
+
+Professionnels de l'animation socioculturelle |
+
+G1202 |
+
+Animation d'activités culturelles ou ludiques |
+
+V5Z81 |
+
+Professionnels de l'animation socioculturelle |
+
+G1203 |
+
+Animation de loisirs auprès d'enfants ou d'adolescents |
+
+V5Z81 |
+
+Professionnels de l'animation socioculturelle |
+
+K1206 |
+
+Intervention socioculturelle |
+
+V5Z82 |
+
+Sportifs et animateurs sportifs |
+
+G1204 |
+
+Éducation en activités sportives |
+
+V5Z82 |
+
+Sportifs et animateurs sportifs |
+
+L1401 |
+
+Sportif professionnel |
+
+V5Z84 |
+
+Surveillants d'établissements scolaires |
+
+K2104 |
+
+Éducation et surveillance au sein d'établissements d'enseignement |
+
+W0Z80 |
+
+Professeurs des écoles |
+
+K2106 |
+
+Enseignement des écoles |
+
+W0Z90 |
+
+Professeurs du secondaire |
+
+K2107 |
+
+Enseignement général du second degré |
+
+W0Z90 |
+
+Professeurs du secondaire |
+
+K2109 |
+
+Enseignement technique et professionnel |
+
+W0Z91 |
+
+Directeurs d'établissement scolaire et inspecteurs |
+
+K2103 |
+
+Direction d'établissement et d'enseignement |
+
+W0Z92 |
+
+Professeurs du supérieur** |
+
+K2108 |
+
+Enseignement supérieur |
+
+W1Z80 |
+
+Formateurs |
+
+K2110 |
+
+Formation en conduite de véhicules |
+
+W1Z80 |
+
+Formateurs |
+
+K2111 |
+
+Formation professionnelle |
