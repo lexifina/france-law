@@ -58,7 +58,9 @@ Etablissement public du musée et du domaine national du château de Fontaineble
 
 Etablissement public du musée des Civilisations de l'Europe et de la Méditerranée (MuCEM) ;
 
-Etablissement public du Musée national Picasso-Paris.
+Etablissement public du Musée national Picasso-Paris ;
+
+Etablissement public chargé de la conservation et de la restauration de la cathédrale Notre-Dame de Paris.
 
 NOTA :
 
