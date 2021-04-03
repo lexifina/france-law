@@ -2,21 +2,21 @@
 
 DÉFINITION DE L'ÉPREUVE OBLIGATOIRE DE LANGUE VIVANTE ÉTRANGÈRE AU CAP
 
-Epreuve obligatoire de langue vivante étrangère (LVE) : coefficient 1
+Epreuve obligatoire de langue vivante étrangère (LVE) : coefficient 1.
 
 1. Objectifs de l'épreuve
 
-L'épreuve de LVE obligatoire a pour objectif de vérifier, au niveau A2 ( utilisateur élémentaire de niveau intermédiaire ) du CECRL (art. D. 312-16 du CE), les compétences du candidat à :
+L'épreuve de LVE obligatoire a pour objectif de vérifier, au niveau A2 (" utilisateur élémentaire de niveau intermédiaire ") du CECRL (art. D. 312-16 du CE), les compétences du candidat à :
 
-- comprendre la langue orale,
+-comprendre la langue orale ;
 
-- comprendre un document écrit,
+-comprendre un document écrit ;
 
-- s'exprimer à l'écrit,
+-s'exprimer à l'écrit ;
 
-- s'exprimer à l'oral en continu,
+-s'exprimer à l'oral en continu ;
 
-- interagir à l'oral,
+-interagir à l'oral,
 
 dans des situations de la vie quotidienne, sociale et professionnelle.
 
@@ -28,9 +28,9 @@ Les critères d'évaluation se fondent sur les descripteurs des activités langa
 
 En référence au niveau A2 du CECRL, sont évalués chez le candidat :
 
-- en réception, le degré auquel se situe sa compréhension d'un message oral et d'un message écrit ;
+-en réception, le degré auquel se situe sa compréhension d'un message oral et d'un message écrit ;
 
-- en production, le degré auquel se situent la recevabilité et l'intelligibilité de son expression, orale et écrite.
+-en production, le degré auquel se situent la recevabilité et l'intelligibilité de son expression, orale et écrite.
 
 3. Modalités d'évaluation
 
@@ -44,13 +44,13 @@ Les deux situations peuvent être organisées le même jour ou à des dates diff
 
 3.1. Situation A : épreuve écrite commune
 
-- Compétences évaluées : compréhension de l'oral, compréhension de l'écrit et expression écrite.
+-compétences évaluées : compréhension de l'oral, compréhension de l'écrit et expression écrite ;
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : A2.
+-niveau attendu en référence à l'échelle de niveaux du CECRL : A2 ;
 
-- Durée : une heure, sans préparation ; partie 1 : dix minutes maximum ; partie 2 et partie 3 : 25 minutes maximum chacune.
+-durée : une heure, sans préparation ; partie 1 : dix minutes maximum ; partie 2 et partie 3 : 25 minutes maximum chacune.
 
-L'évaluation est conduite par les professeurs et/ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés.
+L'évaluation est conduite par les professeurs et/ ou les formateurs enseignant les langues concernées dans l'établissement quelles que soient les classes ou groupes d'élèves qui leur sont confiés.
 
 Partie 1 : compréhension de l'oral
 
@@ -66,7 +66,7 @@ Partie 2 : compréhension de l'écrit
 
 Se déroulant immédiatement après la partie 1, la deuxième partie vise à évaluer les compétences du candidat à comprendre un document écrit rédigé en langue vivante étrangère. Elle prend appui sur un document inconnu ne comportant pas plus de 10 lignes (ligne s'entend au sens de 70 signes environ y compris les blancs et signes de ponctuation) mis à la disposition des candidats et dont le degré de difficulté correspond au niveau du CECRL attendu pour les candidats concernés.
 
-Ce document écrit - dont la thématique, le sujet ou l'objet ont un lien avec ceux du support de la partie 1 - a trait lui aussi à l'utilisation de la langue vivante étrangère dans les situations et les actes de la vie quotidienne, personnelle, sociale et citoyenne ou professionnelle. Il est ancré dans la réalité du ou des pays de la langue concernée et peut relever de genres différents : publicité, extrait d'article de presse ou d'œuvre littéraire, petite (s) annonce (s), courrier de nature professionnelle, notice, mode d'emploi, etc. Il peut être informatif, descriptif, ou narratif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Il peut être illustré par un élément iconographique (photographie, dessin, schéma, graphique, etc.). S'il est lié à un secteur d'activité professionnelle, il ne présente pas un caractère excessif de spécialisation.
+Ce document écrit-dont la thématique, le sujet ou l'objet ont un lien avec ceux du support de la partie 1-a trait lui aussi à l'utilisation de la langue vivante étrangère dans les situations et les actes de la vie quotidienne, personnelle, sociale et citoyenne ou professionnelle. Il est ancré dans la réalité du ou des pays de la langue concernée et peut relever de genres différents : publicité, extrait d'article de presse ou d'œuvre littéraire, petite (s) annonce (s), courrier de nature professionnelle, notice, mode d'emploi, etc. Il peut être informatif, descriptif, ou narratif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Il peut être illustré par un élément iconographique (photographie, dessin, schéma, graphique, etc.). S'il est lié à un secteur d'activité professionnelle, il ne présente pas un caractère excessif de spécialisation.
 
 Déroulement
 
@@ -76,9 +76,9 @@ Partie 3 : expression écrite
 
 La troisième partie vise à évaluer les compétences des candidats à s'exprimer à l'écrit en langue vivante étrangère. Elle se déroule immédiatement après la partie 2. Les candidats disposent de deux sujets au choix, libellés en français. Ils sont invités à rédiger, en langue vivante étrangère :
 
-- soit une réponse à une question présentant un lien avec le thème des documents qui ont fait l'objet de la compréhension de l'oral et de la compréhension de l'écrit ;
+-soit une réponse à une question présentant un lien avec le thème des documents qui ont fait l'objet de la compréhension de l'oral et de la compréhension de l'écrit ;
 
-- soit une réponse à un bref message écrit en langue vivante étrangère (carte postale, lettre, courriel, SMS, commentaire de lecteur, avis d'usager ou de consommateur, etc.) dont l'origine et le contexte sont brièvement présentés en français.
+-soit une réponse à un bref message écrit en langue vivante étrangère (carte postale, lettre, courriel, SMS, commentaire de lecteur, avis d'usager ou de consommateur, etc.) dont l'origine et le contexte sont brièvement présentés en français.
 
 Les deux sujets ne peuvent pas relever du même contexte d'utilisation de la langue. Si le premier sujet a trait aux situations et aux actes de la vie quotidienne, personnelle, sociale et citoyenne, le second sujet doit se rapporter aux situations et actes de la vie professionnelle et inversement.
 
@@ -88,21 +88,21 @@ Les candidats disposent de 25 minutes maximum pour prendre connaissance des deux
 
 3.2. Situation B : épreuve orale individuelle
 
-- Compétences évaluées : expression orale en continu, expression orale en interaction.
+-compétences évaluées : expression orale en continu, expression orale en interaction ;
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : A2.
+-niveau attendu en référence à l'échelle de niveaux du CECRL : A2 ;
 
-- Durée : six minutes, partie 1 et partie 2 : trois minutes maximum chacune.
+-durée : six minutes, partie 1 et partie 2 : trois minutes maximum chacune.
 
-L'évaluation est conduite par les professeurs et/ou les formateurs enseignant les langues concernées dans l'établissement, quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
+L'évaluation est conduite par les professeurs et/ ou les formateurs enseignant les langues concernées dans l'établissement, quelles que soient les classes ou groupes d'élèves qui leur sont confiés. Elle peut être organisée de manière à ce que les professeurs n'évaluent pas leurs élèves de l'année en cours.
 
 Partie 1 : expression orale en continu
 
 La première partie vise à évaluer la capacité du candidat à prendre la parole de manière continue. Le sujet et le contenu de cette prise de parole relèvent du choix du candidat. Le candidat présente et rend compte :
 
-- soit d'un travail, d'un projet, d'un produit ou d'un service dont la réalisation, dans le cadre des enseignements généraux et/ou professionnels qu'il a suivis, a fait appel à une utilisation de la langue vivante étrangère ;
+-soit d'un travail, d'un projet, d'un produit ou d'un service dont la réalisation, dans le cadre des enseignements généraux et/ ou professionnels qu'il a suivis, a fait appel à une utilisation de la langue vivante étrangère ;
 
-- soit d'une expérience professionnelle, tout particulièrement une expérience ayant fait appel à une utilisation de la langue vivante étrangère, que cette expérience ait été vécue en France ou dans le cadre d'une mobilité à l'étranger.
+-soit d'une expérience professionnelle, tout particulièrement une expérience ayant fait appel à une utilisation de la langue vivante étrangère, que cette expérience ait été vécue en France ou dans le cadre d'une mobilité à l'étranger.
 
 Pour son exposé, le candidat peut prendre appui sur un plan d'intervention ou des mots clés et aussi présenter à l'évaluateur un document de nature iconographique (photographie, schéma, croquis, reproduction d'œuvre d'art, etc.). Ce support visuel peut en effet être nécessaire à l'illustration, voire indispensable à la compréhension de son propos sur le travail, projet, produit ou service qu'il a réalisé ou sur l'expérience professionnelle qu'il a vécue.
 
@@ -112,7 +112,7 @@ L'évaluateur invite le candidat à s'exprimer. Ce dernier dispose de 3 minutes 
 
 Partie 2 : expression orale en interaction
 
-La seconde partie vise à évaluer la capacité du candidat à interagir en langue vivante étrangère. À la suite de l'exposé du candidat, l'évaluateur amorce avec ce dernier un échange oral d'une durée maximale de 3 minutes.
+La seconde partie vise à évaluer la capacité du candidat à interagir en langue vivante étrangère. A la suite de l'exposé du candidat, l'évaluateur amorce avec ce dernier un échange oral d'une durée maximale de 3 minutes.
 
 Déroulement
 
@@ -130,11 +130,11 @@ Elle se compose de deux sous-épreuves organisées au cours du dernier trimestre
 
 3.1. Première sous-épreuve : épreuve écrite commune
 
-- Compétences évaluées : compréhension de l'oral, compréhension de l'écrit et expression écrite.
+-compétences évaluées : compréhension de l'oral, compréhension de l'écrit et expression écrite ;
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : A2.
+-niveau attendu en référence à l'échelle de niveaux du CECRL : A2 ;
 
-- Durée : une heure, sans préparation ; partie 1 : dix minutes maximum ; partie 2 et partie 3 : 25 minutes maximum chacune.
+-durée : une heure, sans préparation ; partie 1 : dix minutes maximum ; partie 2 et partie 3 : 25 minutes maximum chacune.
 
 Partie 1 : compréhension de l'oral
 
@@ -150,7 +150,7 @@ Partie 2 : compréhension de l'écrit
 
 Se déroulant immédiatement après la partie 1, la deuxième partie vise à évaluer les compétences du candidat à comprendre un document écrit rédigé en langue vivante étrangère. Elle prend appui sur un document inconnu ne comportant pas plus de 10 lignes (ligne s'entend au sens de 70 signes environ y compris les blancs et signes de ponctuation) mis à la disposition des candidats et dont le degré de difficulté correspond au niveau du CECRL attendu pour les candidats concernés.
 
-Ce document écrit - dont la thématique, le sujet ou l'objet ont un lien avec ceux du support de la partie 1 - a trait lui aussi à l'utilisation de la langue vivante étrangère dans les situations et les actes de la vie quotidienne, personnelle, sociale et citoyenne ou professionnelle. Il est ancré dans la réalité du ou des pays de la langue concernée et peut relever de genres différents : publicité, extrait d'article de presse ou d'œuvre littéraire, petite(s) annonce(s), courrier de nature professionnelle, notice, mode d'emploi, etc. Il peut être informatif, descriptif, ou narratif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Il peut être illustré par un élément iconographique (photographie, dessin, schéma, graphique, etc.). S'il est lié à un secteur d'activité professionnelle, il ne présente pas un caractère excessif de spécialisation.
+Ce document écrit-dont la thématique, le sujet ou l'objet ont un lien avec ceux du support de la partie 1-a trait lui aussi à l'utilisation de la langue vivante étrangère dans les situations et les actes de la vie quotidienne, personnelle, sociale et citoyenne ou professionnelle. Il est ancré dans la réalité du ou des pays de la langue concernée et peut relever de genres différents : publicité, extrait d'article de presse ou d'œuvre littéraire, petite (s) annonce (s), courrier de nature professionnelle, notice, mode d'emploi, etc. Il peut être informatif, descriptif, ou narratif ; il peut comporter du dialogue. Il est authentique (au sens technique du terme), c'est-à-dire non élaboré ou adapté à des fins d'enseignement. Il peut être illustré par un élément iconographique (photographie, dessin, schéma, graphique, etc.). S'il est lié à un secteur d'activité professionnelle, il ne présente pas un caractère excessif de spécialisation.
 
 Déroulement
 
@@ -160,9 +160,9 @@ Partie 3 : expression écrite
 
 La troisième partie vise à évaluer les compétences des candidats à s'exprimer à l'écrit en langue vivante étrangère. Elle se déroule immédiatement après la partie 2. Les candidats disposent de deux sujets au choix, libellés en français. Ils sont invités à rédiger, en langue vivante étrangère :
 
-- soit une réponse à une question présentant un lien avec le thème des documents qui ont fait l'objet de la compréhension de l'oral et de la compréhension de l'écrit ;
+-soit une réponse à une question présentant un lien avec le thème des documents qui ont fait l'objet de la compréhension de l'oral et de la compréhension de l'écrit ;
 
-- soit une réponse à un bref message écrit en langue vivante étrangère (carte postale, lettre, courriel, SMS, commentaire de lecteur, avis d'usager ou de consommateur, etc.) dont l'origine et le contexte sont brièvement présentés en français.
+-soit une réponse à un bref message écrit en langue vivante étrangère (carte postale, lettre, courriel, SMS, commentaire de lecteur, avis d'usager ou de consommateur, etc.) dont l'origine et le contexte sont brièvement présentés en français.
 
 Les deux sujets ne peuvent pas relever du même contexte d'utilisation de la langue. Si le premier sujet a trait aux situations et aux actes de la vie quotidienne, personnelle, sociale et citoyenne, le second sujet doit se rapporter aux situations et actes de la vie professionnelle et inversement.
 
@@ -172,19 +172,19 @@ Les candidats disposent de 25 minutes maximum pour prendre connaissance des deux
 
 3.2. Seconde sous-épreuve : épreuve orale individuelle
 
-- Compétences évaluées : expression orale en continu, expression orale en interaction.
+-compétences évaluées : expression orale en continu, expression orale en interaction ;
 
-- Niveau attendu en référence à l'échelle de niveaux du CECRL : A2.
+-niveau attendu en référence à l'échelle de niveaux du CECRL : A2 ;
 
-- Durée : six minutes ; partie 1 et partie 2 : trois minutes maximum chacune.
+-durée : six minutes ; partie 1 et partie 2 : trois minutes maximum chacune.
 
 Partie 1 : expression orale en continu
 
 La première partie vise à évaluer la capacité du candidat à prendre la parole de manière continue. Le sujet et le contenu de cette prise de parole relèvent du choix du candidat. Le candidat présente et rend compte :
 
-- soit d'un travail, d'un projet, d'un produit ou d'un service dont la réalisation, dans le cadre des enseignements généraux et/ou professionnels qu'il a suivis, a fait appel à une utilisation de la langue vivante étrangère,
+-soit d'un travail, d'un projet, d'un produit ou d'un service dont la réalisation, dans le cadre des enseignements généraux et/ ou professionnels qu'il a suivis, a fait appel à une utilisation de la langue vivante étrangère ;
 
-- soit d'une expérience professionnelle, tout particulièrement une expérience ayant fait appel à une utilisation de la langue vivante étrangère, que cette expérience ait été vécue en France ou dans le cadre d'une mobilité à l'étranger.
+-soit d'une expérience professionnelle, tout particulièrement une expérience ayant fait appel à une utilisation de la langue vivante étrangère, que cette expérience ait été vécue en France ou dans le cadre d'une mobilité à l'étranger.
 
 Pour son exposé, le candidat peut prendre appui sur un plan d'intervention ou des mots et aussi présenter à l'évaluateur un document de nature iconographique (photographie, schéma, croquis, reproduction d'œuvre d'art, etc.). Ce support visuel peut en effet être nécessaire à l'illustration, voire indispensable à la compréhension de son propos sur le travail, projet, produit ou service qu'il a réalisé ou sur l'expérience professionnelle qu'il a vécue.
 
@@ -203,3 +203,35 @@ Cet échange oral commence par prendre appui sur l'exposé du candidat et compor
 Dans l'hypothèse où le candidat ne s'est pas ou très peu exprimé dans le cadre de la première partie de l'épreuve (expression orale en continu), l'évaluateur ouvre, élargit et, si besoin, multiplie les objets sur lesquels peut porter l'échange conversationnel attendu.
 
 La note finale sur 20 points attribuée aux candidats au titre de l'épreuve ponctuelle obligatoire de langue vivante étrangère pour toutes les spécialités du certificat d'aptitude professionnelle comportant une unité obligatoire de LVE est calculée en additionnant les notes des trois parties de la première sous-épreuve et celles obtenues aux deux parties de la seconde sous-épreuve.
+
+4. Modalités particulières pour les candidats en situation de handicap
+
+4.1. Demande d'aménagement d'épreuve
+
+En application du 5° de l'article D. 351-27 du code de l'éducation, les candidats à l'examen du certificat d'aptitude professionnelle présentant tout trouble relevant du handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et empêchant l'expression ou la compréhension écrite ou orale d'une langue vivante peuvent demander un aménagement, par décision du recteur d'académie, à leur demande et sur proposition du médecin désigné par la commission des droits et de l'autonomie des personnes handicapées :
+
+-de l'évaluation de la compréhension de l'oral de l'épreuve obligatoire de langue vivante étrangère ;
+
+-de l'évaluation de la compréhension de l'écrit de l'épreuve obligatoire de langue vivante étrangère ;
+
+-de l'évaluation de l'expression écrite de l'épreuve obligatoire de langue vivante étrangère ;
+
+-de l'évaluation de l'expression orale en continu et en interaction de l'épreuve obligatoire de langue vivante étrangère.
+
+4.2. Demande de dispense d'une partie d'épreuve (en l'absence de possibilité d'aménagement)
+
+En application du 5° de l'article D. 351-27 du code de l'éducation, les candidats à l'examen du certificat d'aptitude professionnelle présentant tout trouble relevant du handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles et empêchant l'expression ou la compréhension écrite ou orale d'une langue vivante peuvent être dispensés, par décision du recteur d'académie, à leur demande et sur proposition du médecin désigné par la commission des droits et de l'autonomie des personnes handicapées :
+
+-soit de l'évaluation de la compréhension de l'oral de l'épreuve obligatoire de langue vivante étrangère ;
+
+-soit de l'évaluation de la compréhension de l'écrit de l'épreuve obligatoire de langue vivante étrangère ;
+
+-soit de l'évaluation de l'expression écrite de l'épreuve obligatoire de langue vivante étrangère ;
+
+-soit de la totalité de la situation ou de la sous-épreuve d'évaluation de l'expression orale en continu et en interaction de l'épreuve obligatoire de langue vivante étrangère.
+
+Les demandes de dispense ne peuvent pas porter sur la totalité des quatre évaluations susmentionnées.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 10 mars 2021 (NOR : MENE2107970A), ces dispositions entrent en vigueur à la session d'examen 2021.
