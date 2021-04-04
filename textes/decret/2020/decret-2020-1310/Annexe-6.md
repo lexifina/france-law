@@ -10,7 +10,9 @@ I.-Les professionnels de santé suivants, sous la responsabilité d'un médecin 
 
 II.-Les professionnels suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
 
-1° Les personnes exerçant la profession de vétérinaire dans les conditions mentionnées à l'article L. 241-1 du code rural et de la pêche maritime ;
+1° Les personnes en activité ou retraitées, habilitées à exercer ou ayant exercé la profession de vétérinaire dans les conditions mentionnées à l'article L. 241-1 du code rural et de la pêche maritime, sous réserve des dispositions de l'article L. 242-1 du même code ;
+
+1° bis Les inspecteurs de santé publique vétérinaire, en activité ou retraités, détenteurs d'un diplôme, certificat ou titre permettant l'exercice en France des activités de vétérinaire ;
 
 2° Les sapeurs-pompiers professionnels et volontaires titulaires de la formation d'équipier dans le domaine d'activité du secours d'urgence aux personnes ;
 
@@ -18,11 +20,15 @@ II.-Les professionnels suivants, sous la responsabilité d'un médecin pouvant i
 
 4° Les marins-pompiers de Marseille détenant le brevet élémentaire de matelot pompier (BE MOPOMPI) ou le brevet élémentaire de pompier volontaire (BE MAPOV) ou le brevet élémentaire de sécurité et logistique (BE SELOG) ;
 
-5° Les sapeurs-sauveteurs des formations militaires de la sécurité civile de la DGSCGC titulaire de la formation élémentaire de la filière “ force protection secours ”.
+5° Les sapeurs-sauveteurs des formations militaires de la sécurité civile de la DGSCGC titulaire de la formation élémentaire de la filière “ force protection secours ” ;
+
+6° Les auxiliaires sanitaires relevant de l'autorité technique du service de santé des armées.
 
 III.-Les étudiants en santé suivants :
 
-1° Les étudiants de troisième cycle en médecine et en pharmacie ;
+1° Les étudiants de troisième cycle en médecine ;
+
+1° bis Les étudiants de troisième cycle en pharmacie, sous réserve qu'ils aient suivi soit les enseignements théoriques et pratiques relatifs à la vaccination dans le cadre de leur cursus, soit une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
 
 2° Les étudiants en santé suivants ayant suivi les enseignements théoriques et pratiques relatifs à la vaccination dans le cadre de leur cursus, en présence d'un médecin ou d'un infirmier :
 
@@ -33,3 +39,7 @@ b) Etudiants en soins infirmiers ayant validé leur première année de formatio
 3° Les étudiants de deuxième et troisième cycles en odontologie, en présence d'un médecin ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
 
 4° Les étudiants de premier cycle de la formation en médecine à partir de la deuxième année ayant effectué leur stage infirmier, en présence d'un médecin ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins.
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2021-384 du 2 avril 2021, ces dispositions sont applicables aux collectivités de l'article 74 de la Constitution et à la Nouvelle-Calédonie dans les mêmes conditions que les dispositions du décret du 16 octobre 2020 et du décret du 29 octobre 2020 susvisés qu'elles modifient.

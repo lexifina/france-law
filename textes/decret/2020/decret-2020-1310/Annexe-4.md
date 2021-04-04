@@ -1,17 +1,19 @@
 # Article Annexe 4
 
-- Les vaccins mentionnés à l'article 53-1 sont les suivants :
+Les vaccins mentionnés à l'article 53-1 sont les suivants :
 
 I.-Vaccins à acide ribonucléique (ARN) messager :
 
-- le vaccin à ARNm COMIRNATY (BNT162b2) des laboratoires Pfizer/BioNTech ;
+-le vaccin à ARNm COMIRNATY (BNT162b2) des laboratoires Pfizer/ BioNTech ;
 
-- le vaccin Moderna Covid-19 mRNA.
+-le vaccin Moderna Covid-19 mRNA.
 
 II.-Vaccins à vecteur viral :
 
-- le vaccin Covid vaccine AstraZeneca.
+-le vaccin Covid vaccine AstraZeneca ;
+
+-le vaccin COVID-19 Vaccine Janssen.
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 2021-123 du 5 février 2021, ces dispositions sont applicables aux collectivités de l'article 74 de la Constitution et à la Nouvelle-Calédonie dans les mêmes conditions que les dispositions du décret du 16 octobre 2020 et du décret du 29 octobre 2020 susvisés qu'elles modifient.
+Conformément à l'article 3 du décret n° 2021-384 du 2 avril 2021, ces dispositions sont applicables aux collectivités de l'article 74 de la Constitution et à la Nouvelle-Calédonie dans les mêmes conditions que les dispositions du décret du 16 octobre 2020 et du décret du 29 octobre 2020 susvisés qu'elles modifient.
