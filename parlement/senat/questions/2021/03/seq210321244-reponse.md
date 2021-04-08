@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321244
+
+- Question : [SEQ210321244](seq210321244.md) — Enveloppes budgétaires destinées aux zones intermédiaires dans le cadre des négociations de la nouvelle politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-04-08, page 2359*
+
+En ce qui concerne la future politique agricole commune (PAC), la situation particulière des zones intermédiaires et notamment les menaces qui pèsent sur la durabilité de leurs systèmes agricoles, est prise en compte dans le diagnostic demandé par la Commission européenne sur l'agriculture française et dans la rédaction du plan stratégique national (PSN), qui sera présenté à la Commission européenne en 2021, pour une mise en œuvre à compter de 2023. Les réflexions sont en cours pour définir les dispositifs spécifiques qui permettront de mobiliser, à la fois, des aides du premier et du second pilier au bénéfice des zones intermédiaires. Sans attendre la mise en œuvre de la prochaine PAC, le plan « France Relance », qui inclut un volet agricole important, peut être mobilisé rapidement pour soutenir les agriculteurs et les filières des zones intermédiaires. Les nouvelles opportunités sont nombreuses : appels à projet pour la structuration de filières, aides à l'investissement pour la modernisation des équipements des exploitations pour répondre aux défis climatiques et environnementaux, soutien au développement de l'agriculture biologique et de la certification environnementale, projets alimentaires territoriaux, stratégie nationale pour les protéines végétales, plan de modernisation des abattoirs et des élevages… Ces dispositifs constituent autant de leviers qui peuvent être utilisés à court et moyen termes, dès 2021, pour favoriser la diversification des modèles agricoles et la dynamisation du tissu d'entreprises rurales dans les zones intermédiaires.
