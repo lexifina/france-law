@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer le marché relatif aux travaux des aménagements intérieurs et extérieurs du restaurant club seniors Sainte Lucie et de la crèche l’île aux trésors au 131 avenue de Verdun
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-04-08
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Autorisation de signer le marché relatif aux travaux des aménagements intérieurs et extérieurs du restaurant club seniors Sainte Lucie et de la crèche l’île aux trésors au 131 avenue de Verdun
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NjIsInB1ciI6ImJsb2JfaWQifX0=--eb03ecbf7fb0c7159d9a054150046a67c0287d3e/080421_21.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
