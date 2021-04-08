@@ -2,31 +2,23 @@
 
 CABILLAUD
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES
-
-obligatoires
-
-pour le débarquement/
+Jours et heures obligatoires pour le débarquement/
 
 transbordement
 
 (heure locale) |
 
-DÉLAI
-
-de notification
+Délai de notification
 
 préalable
 
-(si différent
+(si différent de 4 heures) |
 
-de 4 heures) |
-
-RESTRICTIONS
+Restrictions
 
 supplémentaires
 
@@ -56,7 +48,7 @@ DIEPPE |
 
 76200 |
 
-|
+8 heures à 20 heures |
 
 |
 
@@ -66,7 +58,7 @@ FECAMP |
 
 76400 |
 
-|
+8 heures à 20 heures |
 
 |
 
@@ -161,3 +153,13 @@ LORIENT |
 |
 
 L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
+
+LA ROCHELLE |
+
+17000 |
+
+|
+
+|
+
+|

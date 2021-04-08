@@ -1,4 +1,4 @@
-# Article ANNEXE K
+# Article ANNEXE J
 
 MODÈLE DE NOTIFICATION PRÉALABLE DE TRANSBORDEMENT ÉTABLIE PAR LE CAPITAINE DU NAVIRE VERS LEQUEL EST TRANSBORDÉE LA CAPTURE
 
@@ -30,4 +30,4 @@ Notification préalable de transbordement à transmettre 48 heures avant le tran
 
 Rappel : le transbordement est interdit en mer
 
-Demande à transmettre au CNSP par télex (422) 95-18-92), courrier électronique (cnsp-france@developpement-durable.gouv.fr) ou télécopie (33 (0) 2-97-55-23-75) 48 heures avant l'heure de transbordement souhaitée.
+Demande à transmettre au CNSP par SMS (00-33 (0)7-60-22-36-78), courrier électronique (cnsp-france@developpement-durable.gouv.fr) ou télécopie (33 (0) 2-97-55-23-75) 48 heures avant l'heure de transbordement souhaitée.

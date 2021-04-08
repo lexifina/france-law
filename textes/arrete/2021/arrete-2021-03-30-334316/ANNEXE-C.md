@@ -1,0 +1,115 @@
+# Article ANNEXE C
+
+ESPÈCES D'EAU PROFONDE
+
+Nom du port |
+
+Code postal |
+
+Jours et heures obligatoires pour le débarquement/
+
+transbordement
+
+(heure locale) |
+
+Délai de notification
+
+préalable de débarquement
+
+(si différent de 4 heures) |
+
+Restrictions
+
+supplémentaires
+
+au débarquement (*) |
+
+BOULOGNE-SUR-MER |
+
+62200 |
+
+|
+
+|
+
+|
+
+BREST |
+
+|
+
+Tous les jours de 6 heures à 22 heures |
+
+8 heures |
+
+|
+
+DOUARNENEZ |
+
+29100 |
+
+|
+
+|
+
+|
+
+AUDIERNE |
+
+29770 |
+
+|
+
+|
+
+|
+
+SAINT-GUÉNOLÉ |
+
+29760 |
+
+|
+
+|
+
+|
+
+LE GUILVINEC |
+
+29730 |
+
+|
+
+|
+
+|
+
+CONCARNEAU |
+
+29900 |
+
+|
+
+|
+
+|
+
+LORIENT |
+
+56100 |
+
+|
+
+|
+
+|
+
+LA ROCHELLE |
+
+17000 |
+
+|
+
+|
+
+|

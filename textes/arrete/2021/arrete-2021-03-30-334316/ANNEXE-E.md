@@ -4,11 +4,11 @@ THON ROUGE
 
 Nom du port |
 
-Code
+Code postal |
 
-postal |
+Jours et heures
 
-Jours et heures obligatoires
+obligatoires
 
 pour le débarquement/
 
@@ -16,23 +16,39 @@ transbordement
 
 (heure locale) |
 
-Lieu (x) obligatoire (s)
+Lieu(x) obligatoire(s)
 
-pour le débarquement/ transbordement |
+pour le
 
-Délai de notification
+débarquement/
 
-préalable
+transbordement |
 
-de débarquement
+Délai de notification préalable de
 
-(si supérieur à 4 heures) |
+débarquement
+
+(si supérieur
+
+à 4 heures) |
 
 Restrictions
 
 supplémentaires
 
 au débarquement |
+
+BOULOGNE SUR MER |
+
+62200 |
+
+Du lundi au vendredi |
+
+|
+
+|
+
+|
 
 GRANVILLE |
 
@@ -42,7 +58,7 @@ Du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
 
 Quai de la Criée Quai Ouest |
 
-12 heures pour les navires non titulaires d'une AEP thon rouge |
+6 heures pour les navires non titulaires d'une AEP thon rouge |
 
 |
 
@@ -52,21 +68,11 @@ CHERBOURG |
 
 Pour les navires non titulaires d'une AEP thon rouge : du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
 
-Quai de débarque du centre de marée |
-
-12 heures |
-
-|
-
-|
-
-|
-
-|
+Quai de débarque du centre de marée
 
 Quai Lawton Collins |
 
-|
+6 heures |
 
 |
 
@@ -74,7 +80,7 @@ SAINT QUAY PORTRIEUX |
 
 22410 |
 
-Du lundi au vendredi (hors jours fériés) de 8 h 30 à 17 heures |
+Du dimanche au vendredi de 6h à 22H |
 
 |
 
@@ -86,7 +92,7 @@ LE CONQUET |
 
 29217 |
 
-Tous les jours de 6 h à 22 h |
+Tous les jours de 6h à 22H . |
 
 Quai de la criée |
 
@@ -98,7 +104,7 @@ LE GUILVINEC |
 
 29730 |
 
-Tous les jours de 6 h à 22 h |
+Tous les jours de 6h à 22H |
 
 Quai de la Criée |
 
@@ -110,23 +116,13 @@ DOUARNENEZ |
 
 29100 |
 
-Tous les jours de 6 h à 22 h |
+Tous les jours de 6h à 22H |
 
-Quai de la Criée |
-
-Préavis 6 heures pour les navires en pêche au large |
-
-|
-
-|
-
-|
-
-|
+Quai de la Criée
 
 Quai Ouest |
 
-|
+Préavis 6 heures pour les navires en pêche au large |
 
 |
 
@@ -134,7 +130,7 @@ CONCARNEAU |
 
 29900 |
 
-Tous les jours de 6 h à 22 h fériés. |
+Tous les jours de 6h à 22H fériés. |
 
 Quai de la Criée |
 
@@ -148,7 +144,7 @@ ROSCOFF |
 
 Tous les jours de 6 heures à 22 heures |
 
-Quai de la criée du port de Roscoff/ Bloscon |
+Quai de la criée du port de Roscoff/Bloscon |
 
 Préavis 6 heures pour les navires en pêche au large |
 
@@ -166,7 +162,7 @@ Quais du port de Keroman |
 
 12 heures pour les autres navires |
 
-L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
+|
 
 QUIBERON |
 
@@ -176,17 +172,7 @@ Tous les jours de 9 heures à 17 heures |
 
 Port Maria |
 
-4 heures pour les ligneurs |
-
-|
-
-|
-
-|
-
-|
-
-|
+4 heures pour les ligneurs
 
 12 heures pour les autres navires |
 
@@ -220,23 +206,13 @@ LES SABLES-D'OLONNE |
 
 85180 |
 
-Du lundi au vendredi de 9 heures à 18 heures |
+Du lundi au vendredi - de 04h à 18h et le dimanche de 4H00 heures à 15 heures
+
+Le dimanche de 9 heures à 15 heures |
 
 Quais du port des Sables-d'Olonne |
 
 24 heures pour les débarquements le dimanche |
-
-|
-
-|
-
-|
-
-Le dimanche de 9 heures à 15 heures |
-
-|
-
-|
 
 |
 
@@ -282,17 +258,7 @@ ARCACHON |
 
 Du lundi au vendredi-de 8 heures à 17 heures |
 
-Port de pêche |
-
-|
-
-|
-
-|
-
-|
-
-|
+Port de pêche
 
 Quai de la Criée |
 
@@ -316,21 +282,11 @@ SAINT-JEAN-DE-LUZ |
 
 64500 |
 
-Pour les navires titulaires d'une AEP thon rouge, tous les jours de 4 h à 24 h ; |
+Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au vendredi, de 10 heures à 17 heures
+
+Pour les navires titulaires d'une AEP thon rouge, tous les jours de 04 heures à 00 heures |
 
 Quai de la Criée |
-
-|
-
-|
-
-|
-
-|
-
-Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au jeudi de 10 h à 17 h. |
-
-|
 
 |
 
@@ -342,65 +298,15 @@ PORT-VENDRES |
 
 De 8 h 30 à 12 heures et 13 h 30 à 17 h 30 |
 
-Quai de la République (enceinte portuaire) |
+Quai de la République (enceinte portuaire)
 
-|
+Quai de la gare maritime
 
-|
+Quai de la Presqu'île (enceinte portuaire)
 
-|
+Débarcadère de la Criée
 
-|
-
-|
-
-Quai de la gare maritime |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Quai de la Presqu'île (enceinte portuaire) |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Débarcadère de la Criée |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Quai François-Joly |
-
-|
-
-|
-
-|
-
-|
-
-|
+Quai François-Joly
 
 Quai Pierre-Forgas |
 
@@ -414,17 +320,7 @@ SAINT-CYPRIEN |
 
 De 8 h 30 à 12 heures et 13 h 30 à 17 h 30 |
 
-Quai de pêche |
-
-|
-
-|
-
-|
-
-|
-
-|
+Quai de pêche
 
 Quai Arthur Rimbaud |
 
@@ -486,17 +382,7 @@ AGDE |
 
 De 8 heures à 10 heures et de 14 h à 21 heures |
 
-Quai Baulant |
-
-|
-
-|
-
-|
-
-|
-
-|
+Quai Baulant
 
 Quai Soixante-Dix-Sept |
 
@@ -510,29 +396,9 @@ SETE |
 
 De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures |
 
-Quai de la Halle à Marée |
+Quai de la Halle à Marée
 
-|
-
-|
-
-|
-
-|
-
-|
-
-Quai d'Alger |
-
-|
-
-|
-
-|
-
-|
-
-|
+Quai d'Alger
 
 Quai de Frontignan |
 
@@ -544,7 +410,7 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9 h 00 à 11 h 00 et de 16 h 00 à 20 h 00 |
+Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
 
 Quai des Pompes |
 
@@ -568,7 +434,7 @@ CARNON |
 
 34280 |
 
-Tous les jours de 7 heures à 10 heures et de 16 heures à 19 heures |
+De 7h à 9H et de 13H à 17H |
 
 Quai Auguste Meunier |
 
@@ -580,19 +446,9 @@ GRAU-DU-ROI |
 
 30240 |
 
-De 8 h 30 à 12 h 30 et de 14 h à 19 heures |
+De 8 h 30 à 12h30 et de 14h à 19 heures |
 
-Quai du Général-de-Gaulle (rive droite) |
-
-|
-
-|
-
-|
-
-|
-
-|
+Quai du Général-de-Gaulle (rive droite)
 
 Quai du 19 Mars 1962 |
 
@@ -616,7 +472,7 @@ PORT SAINT LOUIS DU RHONE |
 
 13230 |
 
-De 8 h à 11 h et de 15 h 30 à 18 h 30 |
+De 8h à 11h et de 15h30 à 18h30 |
 
 |
 
@@ -664,7 +520,7 @@ MARSEILLE |
 
 13008 |
 
-Tous les jours de 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+Tous les jours de 8 heures à 11 heures et de 15h30 à 18h30 |
 
 La Madrague de Montredon |
 
@@ -676,7 +532,7 @@ LA CIOTAT |
 
 13600 |
 
-Tous les jours de 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+Tous les jours de 8 heures à 11 heures et de 15h30 à 18h30 |
 
 |
 
@@ -688,7 +544,7 @@ CARRY-LE-ROUET |
 
 13620 |
 
-Tous les jours de 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+Tous les jours de 8 heures à 11 heures et de 15h30 à 18h30 |
 
 |
 
@@ -760,7 +616,7 @@ COGOLIN |
 
 83310 |
 
-Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+Tous les jours de 8h30 à 11h30 et de 14 heures à 16 heures |
 
 |
 
@@ -772,9 +628,9 @@ MENTON |
 
 06500 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
-Quai Napoléon III |
+Vieux port de menton sur le quai Napoléon III |
 
 |
 
@@ -784,7 +640,7 @@ CAGNES SUR MER |
 
 06800 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
 Cros de Cagnes |
 
@@ -792,11 +648,11 @@ Cros de Cagnes |
 
 |
 
-SAINT JEAN CAP FERRA |
+SAINT JEAN CAP FERRAT |
 
-6230 |
+06230 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
 |
 
@@ -806,9 +662,9 @@ Tous les jours de 7 h à minuit |
 
 THEOULE SUR MER |
 
-6590 |
+06590 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
 Port de la Figueirette |
 
@@ -816,13 +672,13 @@ Port de la Figueirette |
 
 |
 
-VALLAURIS GOLFE DU JUAN |
+VALLAURIS GOLFE- JUAN |
 
-6220 |
+06220 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
-Vieux-port du golfe du Juan |
+Vieux-port du golfe Juan |
 
 |
 
@@ -868,7 +724,7 @@ BASTIA |
 
 20200 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Tous les jours de 8 heures à 18 heures |
 
 |
 
@@ -928,7 +784,7 @@ CENTURI |
 
 20238 |
 
-lundi au vendredi de 8 h à18 h |
+lundi au vendredi de 8h à18h |
 
 |
 
@@ -940,7 +796,7 @@ GALERIA |
 
 20245 |
 
-lundi au vendredi de 8 h à18 h |
+lundi au vendredi de 8h à18h |
 
 |
 
@@ -952,7 +808,7 @@ TIZZANO |
 
 20100 |
 
-Tous les jours de 8 h à 18 h |
+Tous les jours de 8h à 18h |
 
 |
 
@@ -960,4 +816,14 @@ Tous les jours de 8 h à 18 h |
 
 |
 
-.
+CANNES |
+
+06400 |
+
+Tous les jours de 7H à minuit |
+
+|
+
+|
+
+|

@@ -8,13 +8,17 @@ Code postal |
 
 Jours et heures obligatoires
 
-pour le débarquement/ transbordement
+pour le débarquement/
+
+transbordement
 
 (heure locale) |
 
-Lieu (x) obligatoire (s)
+Lieu(x) obligatoire(s)
 
-pour le débarquement/ transbordement |
+pour le débarquement/
+
+transbordement |
 
 PORT-VENDRES |
 
@@ -22,45 +26,15 @@ PORT-VENDRES |
 
 De 8 h 30 à 12 heures et de 13 h 30 à 17 h 30 |
 
-Quai de la République (enceinte portuaire) |
+Quai de la République (enceinte portuaire)
 
-|
+Quai de la gare maritime
 
-|
+Quai de la Presqu'île (enceinte portuaire)
 
-|
+Débarcadère de la Criée
 
-Quai de la gare maritime |
-
-|
-
-|
-
-|
-
-Quai de la Presqu'île (enceinte portuaire) |
-
-|
-
-|
-
-|
-
-Débarcadère de la Criée |
-
-|
-
-|
-
-|
-
-Quai François-Joly |
-
-|
-
-|
-
-|
+Quai François-Joly
 
 Quai Pierre-Forgas |
 
@@ -70,13 +44,7 @@ SAINT-CYPRIEN |
 
 De 8 h 30 à 12 heures et de 13 h 30 à 17 h 30 |
 
-Quai de pêche |
-
-|
-
-|
-
-|
+Quai de pêche
 
 Quai Arthur Rimbaud |
 
@@ -100,7 +68,7 @@ LEUCATE |
 
 11370 |
 
-Tous les jours de 9 h 30 à 12 h et de 15 heures à 17 heures |
+Tous les jours de 9h30 à 12h et de 15 heures à 17 heures |
 
 |
 
@@ -108,7 +76,7 @@ GRUISSAN |
 
 11430 |
 
-Tous les jours de 9 h 30 à 12 h et de 15 heures à 17 heures |
+Tous les jours de 9h30 à 12h et de 15 heures à 17 heures |
 
 |
 
@@ -116,15 +84,9 @@ AGDE |
 
 34300 |
 
-De 8 heures à 10 heures et de 14 h à 21 heures |
+De 8 heures à 10 heures et de 14h à 21 heures |
 
-Quai Baulant |
-
-|
-
-|
-
-|
+Quai Baulant
 
 Quai Soixante-Dix-Sept |
 
@@ -134,21 +96,9 @@ SETE |
 
 De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures |
 
-Quai de la Halle à Marée |
+Quai de la Halle à Marée
 
-|
-
-|
-
-|
-
-Quai d'Alger |
-
-|
-
-|
-
-|
+Quai d'Alger
 
 Quai de Frontignan |
 
@@ -156,7 +106,7 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9 h 00 à 11 h 00 et de 16 h 00 à 20 h 00 |
+Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
 
 Quai des Pompes |
 
@@ -172,15 +122,9 @@ GRAU-DU-ROI |
 
 30240 |
 
-De 8 h 30 à 12 h 30 et de 14 h 00 à 19 heures |
+De 8 h 30 à 12 h 30 et de 14 heures à 19 heures |
 
-Quai du Général de Gaulle (rive droite) |
-
-|
-
-|
-
-|
+Quai du Général de Gaulle (rive droite)
 
 Quai du 19 Mars 1962 |
 
@@ -220,7 +164,7 @@ MARSEILLE |
 
 13008 |
 
-Tous les jours de 8 heures à 11 heures et de 15 h 30 à 18 h 30 |
+Tous les jours de 8 heures à 11 heures et de 15h30 à 18h30 |
 
 La Madrague de Montredon |
 
@@ -276,7 +220,7 @@ COGOLIN |
 
 83310 |
 
-Tous les jours de 8 h 30 à 11 h 30 et de 14 heures à 16 heures |
+Tous les jours de 8h30 à 11h30 et de 14 heures à 16 heures |
 
 |
 
@@ -284,7 +228,7 @@ HYERES |
 
 83400 |
 
-Tous les jours de 8 h 30 à 11 h et 14 h à 16 h |
+Tous les jours de 8h30 à 11h et 14h à 16h |
 
 |
 
@@ -292,15 +236,15 @@ CANNES |
 
 06400 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
-Vieux-port, arrondi du quai Saint-Pierre ou arrondi du quai Laubeuf |
+Vieux-port |
 
 CAGNES-SUR-MER |
 
 06800 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7h à minuit |
 
 Port du Cros-de-Cagnes |
 
@@ -308,25 +252,25 @@ MENTON |
 
 06500 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7H à minuit |
 
-Vieux Port-Quai princesse Eugénie |
+Vieux port de menton sur le quai Napoléon III |
 
 THEOULE-SUR-MER |
 
 06590 |
 
-Tous les jours de 7 h à minuit |
+Tous les jours de 7H à minuit |
 
 Port de la Figueirette |
 
-VALLORIS GOLFE DU JUAN |
+VALLORIS GOLFE- JUAN |
 
 6400 |
 
-tous les jours de 7 h à minuit |
+tous les jours de 7h à minuit |
 
-Vieux-port du golfe du Juan |
+Vieux-port du golfe Juan |
 
 SARI-SOLENZARA |
 
@@ -348,7 +292,7 @@ BASTIA |
 
 20200 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Tous les jours de 8 heures à 18 heures |
 
 |
 
@@ -396,7 +340,7 @@ AJACCIO |
 
 20000 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au samedi-de 8 heures à 18 heures |
 
 Port de pêche |
 
@@ -420,8 +364,22 @@ TIZZANO |
 
 20100 |
 
-Tous les jours de 8 h à 18 h |
+Tous les jours de 8h à 18h |
 
 |
 
-.
+SAINT JEAN CAP FERRAT |
+
+06230 |
+
+Tous les jours de 7h à minuit |
+
+|
+
+CARNON |
+
+34280 |
+
+De 7h à 9H et de 13H à 17H |
+
+Quai Auguste Meunier |

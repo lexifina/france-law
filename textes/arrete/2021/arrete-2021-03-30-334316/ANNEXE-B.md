@@ -6,19 +6,21 @@ Nom du port |
 
 Code postal |
 
-Jours et heures obligatoires
+Jours et heures obligatoires pour le débarquement/
 
-pour le débarquement/
-
-Transbordement
+transbordement
 
 (heure locale) |
 
-Délai de notification préalable
+Délai de notification
+
+préalable
 
 (si différent de 4 heures) |
 
-Restrictions supplémentaires
+Restrictions
+
+supplémentaires
 
 au débarquement |
 
@@ -36,7 +38,7 @@ DIEPPE |
 
 76200 |
 
-|
+8 heures à 20 heures |
 
 |
 
@@ -76,9 +78,7 @@ ROSCOFF |
 
 29680 |
 
-Tous les jours
-
-de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 8 heures |
 
@@ -88,9 +88,7 @@ BREST |
 
 29200 |
 
-Tous les jours
-
-de 6 heures à 22 heures |
+Tous les jours de 6 h à 22 h |
 
 8 heures |
 
@@ -150,15 +148,11 @@ LORIENT |
 
 56100 |
 
-Tous les jours
-
-de 0 heure à 5 heures
-
-et de 9 heures à minuit |
+|
 
 |
 
-L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
+|
 
 LA TURBALLE |
 
@@ -200,9 +194,7 @@ YEU |
 
 |
 
-SAINT-GILLES-
-
-CROIX-DE-VIE |
+SAINT-GILLES-CROIX-DE-VIE |
 
 85800 |
 
@@ -282,9 +274,7 @@ SAINT-JEAN-DE-LUZ |
 
 |
 
-HENDAYE
-
-|
+HENDAYE |
 
 64700 |
 

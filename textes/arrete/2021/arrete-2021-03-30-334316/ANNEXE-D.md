@@ -1,32 +1,20 @@
 # Article ANNEXE D
 
-HARENG, MAQUEREAU, CHINCHARD
+HARENG, MAQUEREAU, CHINCHARD, MERLAN BLEU
 
-NOM DU PORT |
+Nom du port |
 
-CODE POSTAL |
+Code postal |
 
-JOURS ET HEURES
-
-obligatoires
-
-pour le débarquement/
-
-transbordement
+Jours et heures obligatoires pour le débarquement/transbordement
 
 (heure locale) |
 
-DÉLAI
+Délai de notification préalable
 
-de notification
+(si différent de 4 heures) |
 
-préalable
-
-(si différent
-
-de 4 heures) |
-
-RESTRICTIONS
+Restrictions
 
 supplémentaires
 
@@ -46,7 +34,7 @@ DIEPPE |
 
 76200 |
 
-|
+8 heures à 20 heures |
 
 2 heures |
 
@@ -56,7 +44,7 @@ FECAMP |
 
 76400 |
 
-|
+8 heures à 20 heures |
 
 2 heures |
 
@@ -71,6 +59,16 @@ CHERBOURG |
 2 heures |
 
 |
+
+SAINT-MALO |
+
+35400 |
+
+|
+
+2 heures |
+
+L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
 
 DOUARNENEZ |
 
@@ -118,6 +116,6 @@ LORIENT |
 
 |
 
-Tous les jours de 0 h à 5 h et de 8 h à minuit |
+2 heures |
 
-L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
+|

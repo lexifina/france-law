@@ -1,22 +1,28 @@
-# Article ANNEXE H
+# Article ANNEXE G
 
-SOLE (ARTICLE 1ER DU RÈGLEMENT [CE] 388/2006)
+SOLE
 
 Nom du port |
 
 Code postal |
 
-Jours et heures obligatoires
+Jours et heures obligatoires pour le débarquement/
 
-pour le débarquement/
+transbordement
 
-transbordement (heure locale) |
+(heure locale) |
 
-Délai de notification préalable de (si différent de 4 heures) |
+Délai de notification
 
-Restrictions supplémentaires
+préalable de
 
-au débarquement (*) |
+(si différent de 4 heures) |
+
+Restrictions
+
+supplémentaires au
+
+débarquement (*) |
 
 SAINT MALO |
 
@@ -122,11 +128,11 @@ LORIENT |
 
 56100 |
 
-Tous les jours de 0 h à 5 h et de 8 h à minuit |
+|
 
 2 heures |
 
-L'heure de débarquement effectif des espèces doit être indiquée dans le préavis, si elle diffère de l'heure d'arrivée au port. A défaut, soit le débarquement effectif doit débuter dans l'heure qui suit l'arrivée au port, soit l'heure est fixée par le service de contrôle. |
+|
 
 QUIBERON |
 
@@ -196,7 +202,7 @@ PORNICHET |
 
 2 heures |
 
-Seuls les débarquements inférieurs à 150 kilogrammes effectués par des navires d'une longueur inférieure à 12 mètres sont autorisés dans ce port |
+|
 
 PORNIC |
 

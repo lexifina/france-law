@@ -1,4 +1,4 @@
-# Article ANNEXE I
+# Article ANNEXE H
 
 CORAIL ROUGE
 
@@ -6,11 +6,11 @@ Nom du port |
 
 Code postal |
 
-Jours et heures obligatoires
+Jours et heures obligatoires pour le débarquement/
 
-pour le débarquement/
+transbordement
 
-transbordement (heure locale) |
+(heure locale) |
 
 Lieu (x) obligatoire (s)
 
@@ -18,7 +18,9 @@ pour le débarquement/
 
 transbordement |
 
-Délai de notification préalable
+Délai de notification
+
+préalable
 
 de débarquement |
 
@@ -222,7 +224,7 @@ FREJUS |
 
 2 heures |
 
-SAINT-RAPHAEL |
+SAINT RAPHAEL |
 
 83700 |
 
@@ -405,6 +407,16 @@ BONIFACIO |
 PIANOTTOLI |
 
 20131 |
+
+|
+
+|
+
+2 heures |
+
+TIZZANO |
+
+20100 |
 
 |
 
