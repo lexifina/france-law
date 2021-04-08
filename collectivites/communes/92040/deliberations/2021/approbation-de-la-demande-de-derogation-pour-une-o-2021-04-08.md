@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la demande de dérogation pour une organisation de la semaine scolaire sur 4 jours pour l’année scolaire 2021-2022 et les années scolaires suivantes
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-04-08
+- Matière : EDUCATION
+- Objet : Approbation de la demande de dérogation pour une organisation de la semaine scolaire sur 4 jours pour l’année scolaire 2021-2022 et les années scolaires suivantes
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzNjIsInB1ciI6ImJsb2JfaWQifX0=--4307c90bf209972b9e3e6ede3d095f89237b14f8/080421_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
