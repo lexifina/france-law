@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention constitutive de groupement de commandes entre la Ville et le Centre Communal d’Action Sociale pour les services d’assurances
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-04-08
+- Matière : ASSURANCES,AFFAIRES JURIDIQUES
+- Objet : Approbation d’une convention constitutive de groupement de commandes entre la Ville et le Centre Communal d’Action Sociale pour les services d’assurances
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MTQsInB1ciI6ImJsb2JfaWQifX0=--0644f7a947cf506c4c24e60e64cfc06b59d3857e/080421_18.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
