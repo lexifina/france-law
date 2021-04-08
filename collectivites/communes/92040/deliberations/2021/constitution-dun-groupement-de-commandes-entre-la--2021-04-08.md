@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Constitution d’un groupement de commandes entre la Ville et le Centre Communal d’Action Sociale en vue de la passation d’un marché relatif à des services de conseils juridiques et de représentation lors de contentieux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-04-08
+- Matière : ASSURANCES,AFFAIRES JURIDIQUES
+- Objet : Constitution d’un groupement de commandes entre la Ville et le Centre Communal d’Action Sociale en vue de la passation d’un marché relatif à des services de conseils juridiques et de représentation lors de contentieux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNTQsInB1ciI6ImJsb2JfaWQifX0=--f0a63b1f135e37b2210d231e9ae194279b56f128/080421_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
