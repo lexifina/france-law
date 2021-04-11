@@ -2,49 +2,31 @@
 
 La durée du temps passé dans chacun des échelons du grade d'agent d'exploitation est fixée ainsi qu'il suit :
 
-ÉCHELONS
+ÉCHELONS |
 
-|
+DURÉE |
 
-DURÉE
+13e échelon |
 
-|
+4 ans |
 
-12e échelon
+12e échelon |
 
-|
+3 ans |
 
-3 ans
+8e, 9e, 10e et 11e échelons |
 
-|
+4 ans |
 
-8e, 9e, 10e et 11e échelons
+5e, 6e et 7e échelons |
 
-|
+3 ans |
 
-4 ans
+2e, 3e et 4e échelons |
 
-|
+2 ans |
 
-5e, 6e et 7e échelons
-
-|
-
-3 ans
-
-|
-
-2e, 3e et 4e échelons
-
-|
-
-2 ans
-
-|
-
-1er échelon
-
-|
+1er échelon |
 
 1 an
 
@@ -52,8 +34,4 @@ DURÉE
 
 NOTA :
 
-Décret n° 2009-1555 du 14 décembre 2009 article 1 :
-
-I. - Les dispositions des décrets régissant les corps de La Poste mentionnés en annexe du présent décret sont abrogées en tant qu'elles concernent les recrutements externes et la répartition des emplois à pourvoir par la voie externe et la voie interne.
-
-II. - Les dispositions des mêmes décrets définissant une période probatoire ou de stage sont abrogées en tant qu'elles concernent les corps de La Poste.
+Conformément à l’article 22 du décret n° 2021-412 du 8 avril 2021, à la date d'entrée en vigueur dudit décret, les agents d'exploitation régis par le décret du 23 juin 1972 susvisé justifiant d'une durée d'ancienneté de quatre ans ou plus dans le 13e échelon de leur grade bénéficient d'un avancement au 14e échelon.
