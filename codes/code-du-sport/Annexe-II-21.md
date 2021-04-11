@@ -2,6 +2,8 @@
 
 CAHIER DES CHARGES
 
+Les dispositions suivantes s'appliquent à défaut de dispositions spécifiques prévues par l'arrêté de la mention concernée.
+
 A. - Clauses générales à tous les environnements spécifiques
 
 Clause 1. - L'établissement met en œuvre la formation professionnelle en environnement spécifique dans le respect de mesures de sécurité particulières.
