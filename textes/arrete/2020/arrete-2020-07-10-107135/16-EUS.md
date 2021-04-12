@@ -17,3 +17,5 @@ II.-L'assurance maladie prend en charge en outre, pour les mêmes établissement
 III.-Pour demander la prise en charge des frais mentionnés au I et au II du présent article auprès des caisses d'assurance maladie mentionnées à l'article L. 211-1 du code de la sécurité sociale, les établissements précités concluent une convention dont le modèle type est publié sur le site internet de la Caisse nationale de l'assurance maladie.
 
 IV.-Par dérogation au b du 2° de l'article L. 1431-2 du code de la santé publique, le ministre chargé de la santé ordonne la prise en charge par les caisses d'assurance maladie des dépenses mentionnées au I et au II du présent article.
+
+V.-Pour l'application des dispositions des I, II et III du présent article, les hôpitaux des armées sont regardés comme des établissements de santé. Pour ces hôpitaux, la caisse mentionnée au III est la caisse nationale militaire de sécurité sociale mentionnée à l'article L. 174-15 du code de la sécurité sociale.
