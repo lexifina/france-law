@@ -964,7 +964,7 @@ Commerce de détail d'articles de sport en magasin spécialisé lorsqu'au moins 
 
 |
 
-Fabrication de matériel de levage et de manutention lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Fabrication de matériel de levage et de manutention lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -972,7 +972,7 @@ Fabrication de matériel de levage et de manutention lorsqu'au moins 50 % du chi
 
 |
 
-Fabrication de charpentes et autres menuiseries lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Fabrication de charpentes et autres menuiseries lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -980,7 +980,7 @@ Fabrication de charpentes et autres menuiseries lorsqu'au moins 50 % du chiffre 
 
 |
 
-Services d'architecture lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Services d'architecture lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -988,7 +988,7 @@ Services d'architecture lorsqu'au moins 50 % du chiffre d'affaires est réalisé
 
 |
 
-Activités d'ingénierie lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Activités d'ingénierie lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -996,7 +996,7 @@ Activités d'ingénierie lorsqu'au moins 50 % du chiffre d'affaires est réalis�
 
 |
 
-Fabrication d'autres articles en caoutchouc lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Fabrication d'autres articles en caoutchouc lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -1004,7 +1004,7 @@ Fabrication d'autres articles en caoutchouc lorsqu'au moins 50 % du chiffre d'af
 
 |
 
-Réparation de machines et équipements mécaniques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Réparation de machines et équipements mécaniques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -1012,7 +1012,7 @@ Réparation de machines et équipements mécaniques lorsqu'au moins 50 % du chif
 
 |
 
-Fabrication d'autres machines d'usage général lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Fabrication d'autres machines d'usage général lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
@@ -1020,7 +1020,7 @@ Fabrication d'autres machines d'usage général lorsqu'au moins 50 % du chiffre 
 
 |
 
-Installation de machines et équipements mécaniques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme
+Installation de machines et équipements mécaniques lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une personne morale qui exploite des remontées mécaniques au sens de l'article L. 342-7 du code du tourisme ou des entreprises du secteur des domaines skiables
 
 |
 
