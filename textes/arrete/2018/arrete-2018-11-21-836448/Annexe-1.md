@@ -6,21 +6,13 @@ VOLUME HORAIRE DE RÉFÉRENCE (*) CORRESPONDANT À UNE DURÉE DE 84 SEMAINES D'E
 
 |
 
-Seconde
+Seconde prof |
 
-professionnelle |
+Première prof |
 
-Première
+Terminale prof |
 
-professionnelle |
-
-Terminale
-
-professionnelle |
-
-Total
-
-sur 3 ans |
+Total sur 3 ans |
 
 ENSEIGNEMENTS PROFESSIONNELS |
 
@@ -42,15 +34,17 @@ Enseignement professionnel |
 
 856 |
 
-Enseignements professionnels et français en co-intervention (a) |
+Enseignements professionnels et français
+
+en co-intervention (a) |
 
 30 |
 
 28 |
 
-13 |
+/ |
 
-71 |
+58 |
 
 Enseignements professionnels et mathématiques-sciences en co-intervention (a) |
 
@@ -58,11 +52,27 @@ Enseignements professionnels et mathématiques-sciences en co-intervention (a) |
 
 14 |
 
-13 |
+/ |
 
-57 |
+44 |
 
-Réalisation d'un chef d'œuvre |
+Enseignements professionnels et enseignements
+
+généraux (b) en
+
+co-intervention et/ ou atelier de philosophie
+
+et/ ou insertion professionnelle-poursuite d'études (a) (c) |
+
+/ |
+
+/ |
+
+26 |
+
+26 |
+
+Réalisation d'un chef d'œuvre (e) |
 
 - |
 
@@ -82,7 +92,9 @@ Prévention-santé-environnement |
 
 84 |
 
-Economie-gestion ou économie-droit (selon la spécialité) |
+Economie-gestion ou économie-droit
+
+(selon la spécialité) |
 
 30 |
 
@@ -102,7 +114,9 @@ ENSEIGNEMENTS GÉNÉRAUX |
 
 995 |
 
-Français, histoire-géographie et enseignement moral et civique |
+Français, histoire-géographie et enseignement moral
+
+et civique |
 
 105 |
 
@@ -132,7 +146,9 @@ Langue vivante A |
 
 168 |
 
-Physique - chimie ou langue vivante B (selon la spécialité) |
+Physique-chimie ou langue vivante B
+
+(selon la spécialité) |
 
 45 |
 
@@ -162,9 +178,9 @@ Education physique et sportive |
 
 210 |
 
-CONSOLIDATION, ACCOMPAGNEMENT PERSONNALISÉ
+CONSOLIDATION, AP ET ACCOMPAGNEMENT
 
-ET ACCOMPAGNEMENT AU CHOIX D'ORIENTATION (b) (c) |
+AU CHOIX D'ORIENTATION (c) (d) |
 
 90 |
 
@@ -173,16 +189,6 @@ ET ACCOMPAGNEMENT AU CHOIX D'ORIENTATION (b) (c) |
 91 |
 
 265 |
-
-|
-
-|
-
-|
-
-|
-
-|
 
 TOTAL DES HEURES |
 
@@ -193,16 +199,6 @@ TOTAL DES HEURES |
 780 |
 
 2 520 |
-
-|
-
-|
-
-|
-
-|
-
-|
 
 PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL |
 
@@ -216,8 +212,12 @@ PÉRIODE DE FORMATION EN MILIEU PROFESSIONNEL |
 
 (a) la dotation horaire professeur est égale au double du volume horaire élève.
 
-(b) y compris les heures dédiées à la consolidation des acquis des élèves en fonction de leurs besoins à l'issue d'un positionnement en début de classe de seconde.
+(b) français, histoire-géographie et enseignement moral et civique, mathématiques, physique-chimie (selon la spécialité), langue vivante A, langue vivante B (selon la spécialité), arts appliqués et culture artistique, éducation physique et sportive
 
-(c) en terminale : insertion professionnelle (préparation à l'emploi : recherche, CV, entretiens etc.) ou poursuite d'études (renforcement méthodologique etc.) |
+(c) en terminale : insertion professionnelle (préparation à l'emploi : recherche, CV, entretiens etc.) ou poursuite d'études (renforcement méthodologique etc.)
+
+(d) y compris les heures dédiées à la consolidation des acquis des élèves en fonction de leurs besoins à l'issue d'un positionnement en début de classe de seconde.
+
+(e) la réalisation d'un chef d'œuvre par les élèves est assurée dans un cadre pluridisciplinaire. |
 
 (*) Volume horaire élève identique quelle que soit la spécialité (2 520 h).
