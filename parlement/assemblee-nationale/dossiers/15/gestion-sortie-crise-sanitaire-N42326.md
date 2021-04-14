@@ -1,0 +1,61 @@
+# Gestion  de  la  sortie  de  crise  sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42326
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/gestion_sortie_crise_sanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-571.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-04-28 : 1er dépôt d'une initiative. (PRJLANR5L15B4105)
+  - 2021-04-28 : Etude d'impact (ETDIANR5L15B4105)
+  - 2021-04-28 : Avis du Conseil d'Etat (AVCEANR5L15B4105)
+  - 2021-04-28 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-04-28 : Renvoi en commission au fond
+      - 2021-04-14 : Nomination de rapporteur
+      - 2021-04-14 : Réunion de commission
+      - 2021-05-04 : Réunion de commission
+      - 2021-05-04 : Réunion de commission
+      - 2021-05-04 : Réunion de commission
+      - 2021-05-04 : Réunion de commission
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-10 : Réunion de commission
+      - 2021-05-05 : Dépôt de rapport (RAPPANR5L15B4141, PRJLANR5L15BTC4141)
+  - Discussion en séance publique
+    - 2021-05-10 : Discussion en séance publique
+    - 2021-05-10 : Discussion en séance publique
+    - 2021-05-11 : Discussion en séance publique
+    - 2021-05-11 : Discussion en séance publique
+    - 2021-05-11 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-05-12 : Dépôt d'une initiative en navette (PRJLSNR5S359B0571)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-05-17 : Dépôt de rapport (RAPPSNR5S359B0596, PRJLSNR5S359BTC0597)
+  - Discussion en séance publique
+    - 2021-05-18 : Décision
+- Commission Mixte Paritaire
+  - 2021-05-19 : Dépôt d'un projet de loi (PRJLANR5L15B4177)
+  - 2021-05-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-05-20 : Nomination de rapporteur
+    - 2021-05-20 : Dépôt du rapport d'une CMP (RAPPANR5L15B4182, PRJLANR5L15BTC4182)
+    - 2021-05-20 : Dépôt du rapport d'une CMP (RAPPSNR5S359B0621, PRJLSNR5S359BTC0622)
+  - Discussion en séance publique
+    - 2021-05-25 : Discussion en séance publique
+    - 2021-05-25 : Discussion en séance publique
+    - 2021-05-25 : Décision
+  - Discussion en séance publique
+    - 2021-05-27 : Décision
+  - 2021-05-20 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-05-27 : Saisine du conseil constitutionnel
+  - 2021-05-31 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-05-31 : Promulgation d'une loi
