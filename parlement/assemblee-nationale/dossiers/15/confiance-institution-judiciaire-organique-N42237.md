@@ -1,0 +1,68 @@
+# Confiance dans l'institution judiciaire (loi organique)
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N42237
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/confiance_institution_judiciaire_organique
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-631.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-04-14 : 1er dépôt d'une initiative. (PRJLANR5L15B4092)
+  - 2021-04-14 : Etude d'impact (ETDIANR5L15B4092)
+  - 2021-04-14 : Avis du Conseil d'Etat (AVCEANR5L15B4092)
+  - 2021-04-14 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-04-14 : Renvoi en commission au fond
+      - 2021-04-14 : Nomination de rapporteur
+      - 2021-04-14 : Réunion de commission
+      - 2021-05-04 : Réunion de commission
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-05 : Réunion de commission
+      - 2021-05-06 : Réunion de commission
+      - 2021-05-06 : Réunion de commission
+      - 2021-05-18 : Réunion de commission
+      - 2021-05-07 : Dépôt de rapport (RAPPANR5L15B4147, PRJLANR5L15BTC4147)
+  - Discussion en séance publique
+    - 2021-05-18 : Discussion en séance publique
+    - 2021-05-18 : Discussion en séance publique
+    - 2021-05-19 : Discussion en séance publique
+    - 2021-05-19 : Discussion en séance publique
+    - 2021-05-20 : Discussion en séance publique
+    - 2021-05-20 : Discussion en séance publique
+    - 2021-05-20 : Discussion en séance publique
+    - 2021-05-25 : Discussion en séance publique
+    - 2021-05-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-05-26 : Dépôt d'une initiative en navette (PRJLSNR5S359B0631)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-26 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-09-15 : Dépôt de rapport (RAPPSNR5S359B0834, PRJLSNR5S359BTC0835)
+  - Discussion en séance publique
+    - 2021-09-29 : Décision
+- Commission Mixte Paritaire
+  - 2021-09-30 : Dépôt d'un projet de loi (PRJLANR5L15B4508)
+  - 2021-09-30 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-10-21 : Nomination de rapporteur
+    - 2021-10-21 : Dépôt du rapport d'une CMP (RAPPANR5L15B4603, PRJLANR5L15BTC4603)
+    - 2021-10-21 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0083, PRJLSNR5S379BTC0084)
+  - Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Décision
+  - Discussion en séance publique
+    - 2021-11-18 : Discussion en séance publique
+    - 2021-11-18 : Décision
+  - 2021-10-26 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-11-19 : Saisine du conseil constitutionnel
+  - 2021-12-17 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-12-22 : Promulgation d'une loi
