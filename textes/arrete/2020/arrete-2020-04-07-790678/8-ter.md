@@ -1,0 +1,7 @@
+# Article 8 ter
+
+L'admission définitive est subordonnée :
+
+1° A la production, au plus tard le jour de la rentrée, d'un certificat médical émanant d'un médecin agréé attestant que le candidat n'est atteint d'aucune affection d'ordre physique ou psychologique incompatible avec l'exercice de la profession à laquelle il se destine ;
+
+2° A la production, avant la date d'entrée au premier stage, d'un certificat médical attestant que l'élève remplit les obligations d'immunisation et de vaccination prévues le cas échéant par les dispositions du titre Ier du livre Ier de la troisième partie législative du code de la santé publique.
