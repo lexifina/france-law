@@ -1,0 +1,15 @@
+# Article 4. Manifestations des risques psychosociaux
+
+Les risques psychosociaux comprennent :
+
+– le stress au travail : selon l'agence européenne pour la santé et la sécurité au travail, il s'agit du « déséquilibre entre la perception qu'une personne a des contraintes que lui imposent son environnement et la perception qu'elle a de ses propres ressources pour y faire face » ;
+
+– les violences au travail : « La violence va du manque de respect à la manifestation de la volonté de nuire, de l'incivilité à l'agression physique et peut prendre la forme d'agressions verbales, comportementales, notamment sexistes, d'agressions physiques » (accord national interprofessionnel du 26 mars 2010).
+
+À titre d'exemples : incivilités, insultes, menaces, agressions par des personnes au sein de la structure ou extérieures à celle-ci (clients, avocats, fournisseurs etc.).
+
+– le harcèlement moral : « Aucun salarié ne doit subir les agissements répétés de harcèlement moral qui ont pour objet ou pour effet une dégradation des conditions de travail susceptibles de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel » (article L. 1152-1 du code du travail).
+
+« Le fait de harceler autrui par des propos ou comportements répétés ayant pour objet ou pour effet une dégradation des conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel, est puni de 2 ans d'emprisonnement et de 30 000 € d'amende » (article L. 222-33-2 du code pénal).
+
+– le harcèlement sexuel : « Les agissements de harcèlement de toute personne dans le but d'obtenir des faveurs de nature sexuelle à son profit ou au profit d'un tiers sont interdits. » (article L. 1153-1 du code du travail)

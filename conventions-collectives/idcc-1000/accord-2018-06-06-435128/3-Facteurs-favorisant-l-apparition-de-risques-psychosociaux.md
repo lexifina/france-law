@@ -1,0 +1,13 @@
+# Article 3. Facteurs favorisant l'apparition de risques psychosociaux
+
+Les parties reconnaissent que chacun réagit de manière différente à des situations similaires, de même qu'il peut à différents moments de sa vie réagir différemment.
+
+Malgré ces différences de perception, certains facteurs sont identifiés comme pouvant générer des risques psychosociaux :
+
+– des facteurs liés au travail prescrit : la charge de travail, le rendement, la masse d'informations à traiter, l'absence d'autonomie, le caractère monotone ou répétitif des tâches, un niveau d'exigences qualitatives disproportionné quant à la précision ou à la vigilance dans l'accomplissement des missions etc. ;
+
+– des facteurs liés à l'organisation du travail : l'absence de contrôle sur la répartition et la planification des tâches de l'entreprise, le caractère flou des missions confiées, les délais d'exécution des missions, etc. ;
+
+– des facteurs liés aux relations de travail (au sein de la structure et dans le cadre des relations entretenues après les contacts extérieurs à la structure) ;
+
+– des facteurs liés à l'évolution de l'activité de la structure.
