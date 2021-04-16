@@ -42,14 +42,6 @@ Ressort du tribunal judiciaire de Marseille |
 
 Cour d'appel d'Angers |
 
-Maine-et-Loire |
-
-Angers |
-
-|
-
-Ressort du tribunal judiciaire d'Angers |
-
 Sarthe |
 
 Le Mans |
@@ -132,4 +124,4 @@ Ressort du tribunal judiciaire de Versailles à l'exception du ressort de la cha
 
 NOTA :
 
-Conformément aux I et III de l’article 13 du décret n° 2019-914 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020 et sont applicables aux procédures en cours à leur date d'entrée en vigueur, dans les conditions déterminées par les IV à VIII de l'article 40 du décret n° 2019-912 du 30 août 2019.
+Conformément à l’article 2 du décret n° 2021-439 du 13 avril 2021, ces dispositions sont applicables aux instances introduites à compter du 1er juillet 2021.
