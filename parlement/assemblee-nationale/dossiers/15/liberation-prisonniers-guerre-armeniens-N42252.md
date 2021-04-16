@@ -1,0 +1,11 @@
+# Libération des prisonniers de guerre arméniens
+
+- Procédure : Résolution Article 34-1
+- Législature : 15
+- Identifiant : DLR5L15N42252
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/liberation_prisonniers_guerre_armeniens
+
+## Étapes
+
+- Lecture unique
+  - 2021-04-16 : 1er dépôt d'une initiative. (PNREANR5L15B4102)
