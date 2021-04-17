@@ -78,8 +78,6 @@ Conseil de prud'hommes de Bobigny |
 
 Conseil de prud'hommes de Créteil |
 
-Conseil de prud'hommes de Sens |
-
 Conseil de prud'hommes de Villeneuve-Saint-Georges |
 
 Cour d'appel de Poitiers |
