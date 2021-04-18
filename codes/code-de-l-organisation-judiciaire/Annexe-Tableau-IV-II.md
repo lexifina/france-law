@@ -76,7 +76,7 @@ Villeneuve-sur-Lot. |
 
 28° Contestations prévues aux articles R*421-7, R. 422-2-1 et R*423-89 du code de la construction et de l'habitation ;
 
-29° Contestations relatives à la formation, à l'exécution ou à la rupture du contrat de travail entre l'employeur et le marin, dans les conditions prévues par le livre V de la cinquième partie du code des transports ;
+29° Des contestations relatives à la formation, à l'exécution ou à la rupture du contrat d'engagement maritime entre l'employeur et le marin, dans les conditions prévues aux articles L. 5542-48 et L. 5621-18 du code des transports ;
 
 30° Oppositions à contrainte dans les conditions prévues par les articles R. 1235-4 à R. 1235-9 du code du travail ;
 
