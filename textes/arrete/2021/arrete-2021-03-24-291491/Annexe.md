@@ -18,7 +18,7 @@ Prépa-concours de l'institut de préparation à l'administration générale de 
 
 Parcours Carrières administratives de l'institut d'études politiques de Bordeaux
 
-Parcours Objectif ENA de l'institut d'études politiques de Bordeaux
+Parcours " Objectif ENA " de l'institut d'études politiques de Bordeaux
 
 Pôle action sanitaire et sociale du centre de préparation à l'administration générale de l'institut d'études politiques de Bordeaux
 
@@ -79,3 +79,7 @@ Préparation à l'ENA et à la Haute Fonction Publique du centre de préparation
 Module concours Administration hospitalière, travail, social du centre de préparation à l'administration générale de l'institut d'études politiques de Toulouse
 
 Module concours Métiers de la sécurité du centre de préparation à l'administration générale de l'institut d'études politiques de Toulouse
+
+Préparation aux concours administratifs français de l'Institut d'études politiques de Paris
+
+Prep'ENA Paris1-ENS de l'université Paris I Panthéon-Sorbonne et de l'Ecole normale supérieure
