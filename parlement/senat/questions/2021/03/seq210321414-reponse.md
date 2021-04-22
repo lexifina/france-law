@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321414
+
+- Question : [SEQ210321414](seq210321414.md) — Pour une révision des critères d'indexation de la pension militaire d'invalidité des anciens combattants
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2021-04-22, page 2711*
+
+La commission tripartite chargée de débattre de l'évolution du point de pension militaire d'invalidité (PMI) a été installée le 7 décembre 2020 par la ministre déléguée auprès de la ministre des armées, chargée de la mémoire et des anciens combattants. Cette commission, attendue depuis longtemps par les représentants d'associations, devait évaluer le mécanisme d'évolution du point de PMI, qui gouverne l'évolution des pensions militaires d'invalidité, de la retraite du combattant et du seuil de la rente mutualiste. L'évolution de ces prestations repose sur des revalorisations ponctuelles du nombre de points de la retraite du combattant. Les associations demandaient que ce mécanisme, basé sur un « rapport constant » avec l'indice de traitement brut de la fonction publique d'Etat, soit expertisé. Le groupe de travail, présidé par Jean-Paul Bodin, conseiller d'Etat en service extraordinaire, a notamment mené un travail rigoureux, en toute indépendance, et avec la participation d'experts, afin de comparer cet indice avec l'évolution de l'inflation. Sur cette base, il n'est pas demandé par le groupe de travail une indexation sur l'inflation, et le maintien de l'indice actuel fait l'objet d'un consensus. D'autres mesures ont été recommandées par le groupe de travail et sont actuellement en cours d'examen. Sur ce sujet, comme sur la défense des droits des anciens combattants en général, les nouvelles mesures proposées ont émané du dialogue constant avec les associations et feront l'objet d'un suivi conjoint rigoureux.
