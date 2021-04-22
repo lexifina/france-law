@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220933
+
+- Question : [SEQ210220933](seq210220933.md) — Réponses aux questions écrites des sénateurs
+
+## Réponse
+
+*Relations avec le Parlement et participation citoyenne, JO du 2021-04-22, page 2714*
+
+Monsieur le Ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne, renouvelle, auprès de Monsieur le sénateur, l'engagement du Gouvernement à apporter des réponses aux questions de l'ensemble des parlementaires et à respecter, dans la mesure du possible, les délais inscrits à l'article 75 du Règlement. S'il est vrai que le taux de réponse aux questions des sénateurs constaté durant l'année parlementaire 2019-2020 apparaît en recul, il s'explique en grande partie par le contexte de crise et ne saurait masquer les efforts importants qui avaient été réalisés jusque là, avec un taux record de 91 % de réponses apportées en 2018-2019. La période du premier confinement a ainsi conduit les sénateurs à poser de très nombreuses questions sur la crise sanitaire et les réponses à y apporter, avec un pic de 232 questions publiées le 23 avril 2020 contre une cinquantaine à la même date en 2019. Monsieur le Ministre appelle régulièrement l'attention de ses collègues sur la nécessité d'apporter des réponses rapides aux questions écrites. Il a adressé en ce sens, au mois de décembre 2020, un courrier à l'ensemble des membres du Gouvernement afin de leur rappeler l'importance des questions écrites pour la mise en œuvre des prérogatives des parlementaires, en application de l'article 24 de la Constitution. Il a, bien entendu, insisté sur la nécessité d'améliorer les délais de réponse afin de remédier à la situation que Monsieur le Sénateur décrit et de poursuivre les efforts engagés depuis le début du quinquennat en ce domaine.
