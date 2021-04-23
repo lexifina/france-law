@@ -56,7 +56,7 @@ Le transpondeur a le code suivant :
 
 De 22 à 19 |
 
-De 99 à 100 |
+De 99 à 10 |
 
 X |
 
