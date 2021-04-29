@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200314655
+
+- Question : [SEQ200314655](seq200314655.md) — Valorisation des mesures judiciaires d'aide à la gestion du budget familial en sensibilisant les magistrats
+
+## Réponse
+
+*Justice, JO du 2021-04-29, page 2838*
+
+Le programme de l'École nationale de la magistrature prend en compte les mesures judiciaires d'aide à la gestion du budget familial (MJAGBF) tout au long du parcours du magistrat. Elles sont présentées dans le cadre de la formation initiale et de la formation continue. En formation initiale, les auditeurs de justice abordent la mesure judiciaire d'aide à la gestion du budget familial (MJAGBF) à travers un parcours hybride de formation, disposant d'un fascicule et d'une formation e-learning sur ce sujet, et d'une direction d'études en assistance éducative en présence d'un éducateur/chef de service de l'ASE où des échanges ont lieu sur ce thème. En outre, lors de la préparation aux premières fonctions, la MJAGBF est abordée à travers la journée sur la gestion de cabinet et des courriers à travailler. Pour les élèves magistrats issus des concours compélementaires et de l'intégration directe, la MJAGBF est abordée dans le cadre des stages en juridiction de plein exercice et, plus particulièrement, de leur stage en cabinet de juge des enfants (5 semaines), puis dans le cadre de leur stage extérieur (environ 7 semaines) lorsqu'ils le réalisent au sein d'associations de protection de l'enfance ou des services sociaux départementaux (aide sociale à l'enfance), enfin, au cours du stage de pré-affectation pour ceux qui choisissent les fonctions de juge des enfants en premier poste. En formation continue, les juges des enfants sont formés à la mesure judiciaire d'aide à la gestion du budget familial à l'occasion de leur session de reconversion intitulée « changement de fonctions enfants » à travers une séquence dédiée.
