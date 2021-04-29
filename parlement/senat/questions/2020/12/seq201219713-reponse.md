@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219713
+
+- Question : [SEQ201219713](seq201219713.md) — Complément indemnitaire annuel
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-04-29, page 2807*
+
+Par dérogation au premier alinéa de l'article 88 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les fonctionnaires appartenant aux cadres d'emplois de police municipale peuvent bénéficier d'un régime indemnitaire dont les modalités et les taux sont fixés par décret en application de l'article 68 de la loi n° 96-1093 du 16 décembre 1996 relative à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire. Le régime indemnitaire des agents de police municipale se compose de l'indemnité mensuelle spéciale de fonction (ISF), de l'indemnité d'administration et de technicité (IAT) pour les agents de catégorie B dont l'indice brut est inférieur à 380 et les agents de catégorie C et, le cas échéant, des indemnités horaires pour travaux supplémentaires pour les agents des catégories B et C. En raison de la spécificité des fonctions exercées par les agents de police municipale et de l'absence de corps équivalent au sein de la fonction publique de l'État, le régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel (RIFSEEP), composé de l'indemnité de fonctions, de sujétions et d'expertise (IFSE) et du complément indemnitaire annuel (CIA), n'a pas été rendu applicable aux agents de police municipale. Ces agents bénéficient toutefois d'un régime indemnitaire modulable qui ne leur est pas défavorable par rapport aux autres cadres d'emplois de la fonction publique territoriale caractérisé par une part indemnitaire dans la rémunération en moyenne supérieure.
