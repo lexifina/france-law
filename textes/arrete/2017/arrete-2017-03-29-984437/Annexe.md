@@ -120,7 +120,7 @@ Conseiller prospective et stratégie.
 
 Conseiller, chef du pôle judiciaire.
 
-Conseiller stratégie, coopérations et prévention.
+Conseiller, chef du pôle des affaires internationales et européennes.
 
 2. Direction des ressources et des compétences de la police nationale :
 
@@ -238,11 +238,11 @@ Directeur zonal des compagnies républicaines de sécurité Sud à Marseille.
 
 Directeur zonal des compagnies républicaines de sécurité Paris à Vélizy.
 
-10. Direction de la coopération internationale :
+10. Direction de la coopération internationale de sécurité :
 
-Sous-directeur de l'administration et des finances.
+Sous-directeur de l'administration et du soutien.
 
-Sous-directeur de la coopération de sécurité et de gouvernance.
+Sous-directeur Monde.
 
 11. Service de la protection :
 
