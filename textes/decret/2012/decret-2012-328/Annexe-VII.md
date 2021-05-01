@@ -2,13 +2,9 @@
 
 UNITÉS D'ÉLOIGNEMENT À COMPÉTENCE ZONALE
 
-SERVICE DECONCENTRE DE RATTACHEMENT
+SERVICE DECONCENTRE DE RATTACHEMENT |
 
-|
-
-LIEU D'IMPLANTATION
-
-|
+LIEU D'IMPLANTATION |
 
 Direction zonale de la police aux frontières du sud
 
@@ -44,26 +40,16 @@ Bordeaux (33)
 
 UNITÉS D'ELOIGNEMENT COMPÉTENTES SUR PLUSIEURS DÉPARTEMENTS
 
-SERVICE DÉCONCENTRÉ DE RATTACHEMENT
+SERVICE DÉCONCENTRÉ DE RATTACHEMENT |
 
-|
+LIEU D'IMPLANTATION ET RESSORT DE COMPETENCE |
 
-LIEU D'IMPLANTATION ET RESSORT DE COMPÉTENCE
+Direction de la police aux frontières des aérodromes parisiens |
 
-|
+Emprise de l'aérodrome de Paris-Orly |
 
-DPAF de Roissy
+Emprise des aérodromes de Paris-Charles-de-Gaulle et du Bourget |
 
-|
+NOTA :
 
-Aéroport de Roissy-Charles de Gaulle
-
-|
-
-DPAF d'Orly
-
-|
-
-Aéroport d'Orly
-
-|
+Conformément à l’article 4 du décret n° 2021-482 du 21 avril 2021, ces dispositions entrent en vigueur le premier jour du mois suivant sa publication.
