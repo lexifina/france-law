@@ -1,0 +1,57 @@
+# Article 1er
+
+1. La présente convention collective nationale règle les rapports entre les employeurs et travailleurs des deux sexes de l'industrie de la manutention, de l'entretien et des travaux connexes pour le rail et pour l'air.
+
+Elle est applicable à l'ensemble des employeurs français ou étrangers et à l'ensemble de leurs personnels sauf exceptions visées dans le texte même des articles.
+
+a) Elle s'applique sur l'ensemble du territoire national à l'industrie de la manutention ferroviaire et travaux connexes, dans les gares, estacades, chantiers, parcs, dépôts, etc., de la société nationale des chemins de fer français (c'est-à-dire les infrastructures ferroviaires historiquement gérées par la SNCF), puis du réseau ferré national
+
+(1)
+
+et des voies ferrées d'intérêt local (VFIL) pour :
+
+– travaux de chargement et déchargement de marchandises ;
+
+– travaux de chargement et déchargement de matériel ;
+
+– travaux de chargement et déchargement de charbon ;
+
+– désinfection de wagons ;
+
+– nettoyage des cours de gares ;
+
+– nettoyage des dépôts ;
+
+– lavage et nettoyage des voitures à voyageurs ;
+
+– portage des bagages ;
+
+– travaux de mutation des boggies et des essieux dans les gares frontalières.
+
+b) Elle s'applique sur l'ensemble du territoire national à l'assistance au matériel roulant en environnement dédié (métros…) pour :
+
+– nettoyage intérieur ;
+
+– nettoyage extérieur ;
+
+– nettoyage des voies ;
+
+– petite maintenance.
+
+2. Des dispositions de la présente convention collective nationale précisent en tant que de besoin les dispositions particulières applicables à chacune des catégories de personnels désignées ci-après et visées à l'article 2 de la présente convention collective :
+
+– ouvriers (relevant précédemment de l'annexe I) ;
+
+– ouvriers des entreprises travaillant sur les sites de la RATP ou des entreprises de transport de voyageurs opérant sur les réseaux de métro et de RER
+
+(2)
+
+de la région parisienne tels que définis à l'article 2 (et précédemment à l'article 1er de l'annexe II) ;
+
+– employés de chantiers (relevant précédemment de l'annexe III) ;
+
+– agents de maîtrise et cadres (relevant précédemment de l'annexe IV).
+
+(1) Le réseau ferré national désigne le réseau ferroviaire français dont Réseau ferré de France était est le propriétaire et gestionnaire (loi n° 97-135 du 13 février 1997 portant création de l'établissement public « Réseau ferré de France » en vue du renouveau du transport ferroviaire (2 JO 1 du 15 février 1997), décret n° 97-444 du 5 mai 1997 relatif aux missions et aux statuts de Réseau ferré de France modifié par décret n° 99-11 du 7 janvier 1999 ; décret n° 97-415 portant constitution du patrimoine initial de l'établissement public Réseau ferré de France et dont, depuis la loi portant réforme ferroviaire du 4 août 2014, l'État, les établissements publics constituant le groupe public ferroviaire voire de régions qui seraient bénéficiaire du transfert de propriété du domaine public ferroviaire mentionné à l'article L. 3114-1 du code des transports et des lignes d'intérêt régional qui seraient créées par lesdites régions.
+
+(2) Attribués à la RATP à la date de l'accord.
