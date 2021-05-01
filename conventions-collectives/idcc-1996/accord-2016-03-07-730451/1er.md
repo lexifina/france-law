@@ -1,6 +1,6 @@
 # Article 1er
 
-Les jeunes qui préparent le brevet professionnel de préparateur en pharmacie en contrat d'apprentissage ou en contrat de professionnalisation perçoivent, pendant la durée complète de la formation, une rémunération calculée en pourcentage du minimum conventionnel correspondant aux coefficients définis par l'annexe I « Classifications et salaires » de la convention collective nationale susvisée en fonction de leur niveau de formation.
+Les jeunes qui préparent le brevet professionnel de préparateur en pharmacie ou le diplôme d'études universitaires scientifiques et techniques de préparateur/ technicien en pharmacie en contrat d'apprentissage ou en contrat de professionnalisation perçoivent, pendant la durée complète de la formation, une rémunération calculée en pourcentage du minimum conventionnel correspondant aux coefficients définis par l'annexe I « Classifications et salaires » de la convention collective nationale susvisée en fonction de leur niveau de formation.
 
 Les rémunérations applicables aux contrats conclus à compter de l'entrée en vigueur du présent accord sont déterminées comme suit :
 
