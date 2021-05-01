@@ -184,7 +184,7 @@ Durée : trente-cinq minutes ; coefficient 3.
 
 SECTION ÉCONOMIE ET GESTION
 
-Option communication, option organisation et gestion des ressources humaines ; option comptabilité et finance ; option marketing ; option informatique et systèmes d'information ; option gestion des activités touristiques
+Option communication, organisation et gestion des ressources humaines ; option comptabilité et finance ; option marketing ; option informatique et systèmes d'information ; option gestion des activités touristiques
 
 A. - Epreuves d'admissibilité
 

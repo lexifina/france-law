@@ -14,7 +14,7 @@ A partir d'un sujet pouvant s'appuyer sur une documentation visuelle et/ou textu
 
 Le projet de création proposé peut être assorti de données visuelles et, si besoin, de quelques informations textuelles que le candidat juge nécessaires à la compréhension de ses intentions comme à certains aspects de sa démarche (techniques, procéduraux, symboliques, contextuels, etc.).
 
-L'ensemble de la production n'excède pas un format total du type Grand Aigle . Elle peut être réalisée sur un à trois supports maxima qui, dans ce cas, sont rendus solidaires. La note d'intention est rédigée ou fixée directement sur le verso de la production.
+L'ensemble de la production n'excède pas un format total du type " Grand Aigle " . Elle peut être réalisée sur un à trois supports maxima qui, dans ce cas, sont rendus solidaires. La note d'intention est rédigée ou fixée directement sur le verso de la production.
 
 Durée : huit heures.
 
@@ -334,13 +334,13 @@ L'épreuve est notée sur 20. Une note globale égale ou inférieure à 5 est é
 
 2° Epreuve écrite disciplinaire appliquée.
 
-L'épreuve place le candidat en situation de choisir des documents, d'en produire une analyse critique, puis de construire une séquence d'enseignement à partir du sujet remis par le jury. Elle permet d'évaluer la capacité du candidat à concevoir et mettre en œuvre une séquence d'enseignement permettant la structuration des apprentissages à un niveau visé et au regard des instructions officielles.
+L'épreuve place le candidat en situation de choisir des documents, d'en produire une analyse critique (en langue corse), puis de construire une séquence d'enseignement (en français), à partir du sujet remis par le jury. Elle permet d'évaluer la capacité du candidat à concevoir et mettre en œuvre une séquence d'enseignement permettant la structuration des apprentissages à un niveau visé et au regard des instructions officielles.
 
-L'épreuve, rédigée en langue française, prend appui sur des supports de natures différentes (texte, document audio présenté sous forme de script, iconographie, extrait de manuel, etc.) en lien avec le thème ou l'axe proposé au candidat et susceptibles d'être utilisés dans la cadre d'une séquence pédagogique au niveau ou dans les conditions d'enseignement indiqués par le sujet. Ils peuvent être accompagnés de documents annexes destinés à en faciliter la mise en perspective.
+L'épreuve prend appui sur des supports de natures différentes (texte, document audio présenté sous forme de script, iconographie, extrait de manuel, etc.) en lien avec le thème ou l'axe proposé au candidat et susceptibles d'être utilisés dans la cadre d'une séquence pédagogique au niveau ou dans les conditions d'enseignement indiqués par le sujet. Ils peuvent être accompagnés de documents annexes destinés à en faciliter la mise en perspective.
 
 Parmi ces supports, le candidat opère des choix. Sur la base de l'étude et de la mise en relation des documents qu'il sélectionne, il conçoit et présente la séquence pédagogique qu'il envisage. Il mentionne ses objectifs (linguistiques, communicationnels, culturels, éducatifs, etc.) et les moyens et stratégies qu'il compte mettre en œuvre pour les atteindre en fonction de la classe.
 
-Les textes en langue corse qui figurent parmi les supports proposés à la réflexion du candidat comportent une sélection de faits de langue, signalés par un soulignement. Le candidat décrit, analyse et explicite en français, selon les indications mentionnées par le sujet, un ou des faits de langue dans la perspective du travail en classe lors de cette séquence pédagogique.
+Les textes en langue corse qui figurent parmi les supports proposés à la réflexion du candidat comportent une sélection de faits de langue, signalés par un soulignement. Lors de la présentation de cette séquence pédagogique, le candidat décrit, analyse et explicite en français, selon les indications mentionnées par le sujet, un ou des faits de langue, dans la perspective du travail en classe.
 
 Durée : six heures.
 
@@ -366,7 +366,7 @@ Cet exposé est suivi d'un entretien avec le jury.
 
 Durée de la première partie : trente minutes maximum (exposé : quinze minutes maximum ; entretien : quinze minutes maximum).
 
-- une seconde partie en français pendant laquelle le candidat présente au jury les objectifs d'une séance de cours et expose ses propositions de mise en œuvre.
+- une seconde partie en langue corse pendant laquelle le candidat présente au jury les objectifs d'une séance de cours et expose ses propositions de mise en œuvre.
 
 Le candidat propose des pistes d'exploitations didactiques et pédagogiques du document audio ou vidéo et, le cas échéant, du ou des documents qu'il a choisis. Il construit sa proposition en fonction de l'intérêt linguistique et culturel que les documents présentent ainsi que des activités langagières qu'ils permettent de mettre en pratique selon la situation d'enseignement choisie et le niveau visé. Le candidat propose un déroulement cohérent avec des exemples concrets d'activités.
 
