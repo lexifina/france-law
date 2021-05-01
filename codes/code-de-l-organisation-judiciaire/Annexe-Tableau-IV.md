@@ -336,19 +336,19 @@ Besançon |
 
 |
 
-Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Clerval, L'Isle-sur-le-Doubs, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans. |
+Cantons d'Amancey (à l'exception de la fraction de commune de Levier), Audeux, Baume-les-Dames, Besançon-Est, Besançon-Nord-Est, Besançon-Nord-Ouest, Besançon-Ouest, Besançon-Planoise, Besançon-Sud, Boussières, Marchaux, Ornans (à l'exception de la fraction de commune d'Etalans), Quingey, Rougemont et Roulans. |
 
 |
 
 Pontarlier |
 
-Cantons de Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans et Vercel-Villedieu-le-Camp et communes d'Etalans et Levier. |
+Cantons du Russey, Levier, Montbenoît, Morteau, Mouthe, Pontarlier, Pierrefontaine-les-Varans, Vercel-Villedieu-le-Camp et communes d'Etalans et Levier. |
 
 Montbéliard |
 
 |
 
-Cantons d'Audincourt, Étupes, Hérimoncourt, Le Russey, Maîche, Montbéliard-Est, Montbéliard-Ouest, Pont-de-Roide, Saint-Hippolyte, Sochaux-Grand-Charmont et Valentigney. |
+Cantons d'Audincourt, Clerval, Étupes, Hérimoncourt, L'Isle-sur-le-Doubs, Maîche, Montbéliard-Est, Montbéliard-Ouest, Pont-de-Roide, Saint-Hippolyte, Sochaux-Grand-Charmont et Valentigney. |
 
 Haute-Saône |
 
@@ -1086,13 +1086,13 @@ Béziers |
 
 |
 
-Cantons d'Agde, Bédarieux, Béziers 1er Canton, Béziers 2e Canton, Béziers 3e Canton, Béziers 4e Canton, Capestang, Florensac, La Salvetat-sur-Agout, Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Pézenas, Roujan, Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières et Servian. |
+Cantons d'Agde, Bédarieux, Béziers 1er Canton, Béziers 2e Canton, Béziers 3e Canton, Béziers 4e Canton, Capestang, Florensac, La Salvetat-sur-Agout, Montagnac, Murviel-lès-Béziers, Olargues, Olonzac, Pézenas, Roujan, Saint-Chinian, Saint-Gervais-sur-Mare, Saint-Pons-de-Thomières et Servian et communes d'Avène, Brénas, Ceilhes-et-Rocozels, Dio-et-Valquières, Joncels, Le Bousquet-d'Orb et Lunas. |
 
 Montpellier |
 
 |
 
-Cantons d'Aniane, Castelnau-le-Lez, Castries, Claret, Clermont-l'Hérault, Ganges, Gignac, Lattes, Le Caylar, Les Matelles, Lodève, Lunas, Lunel, Mauguio, Montpellier 1er Canton, Montpellier 2e Canton, Montpellier 3e Canton, Montpellier 4e Canton, Montpellier 5e Canton, Montpellier 6e Canton, Montpellier 7e Canton, Montpellier 8e Canton, Montpellier 9e Canton, Montpellier 10e Canton, Pignan et Saint-Martin-de-Londres. |
+Cantons d'Aniane, Castelnau-le-Lez, Castries, Claret, Clermont-l'Hérault, Ganges, Gignac, Lattes, Le Caylar, Les Matelles, Lodève, Lunas (à l'exception des communes d'Avène, Brénas, Ceilhes-et-Rocozels, Dio-et-Valquières, Joncels, Le Bousquet-d'Orb et Lunas), Lunel, Mauguio, Montpellier 1er Canton, Montpellier 2e Canton, Montpellier 3e Canton, Montpellier 4e Canton, Montpellier 5e Canton, Montpellier 6e Canton, Montpellier 7e Canton, Montpellier 8e Canton, Montpellier 9e Canton, Montpellier 10e Canton, Pignan et Saint-Martin-de-Londres. |
 
 |
 
@@ -2124,4 +2124,6 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2020-1151 du 18 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l'article 2 du décret n° 2021-46 du 19 janvier 2021, ces dispositions sont applicables aux instances introduites après le 1er mai 2021.
+
+Conformément à l'article 2 du décret n° 2021-47 du 19 janvier 2021, ces dispositions sont applicables aux instances introduites après le 1er mai 2021.
