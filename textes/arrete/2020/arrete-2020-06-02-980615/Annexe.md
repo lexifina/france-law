@@ -1,6 +1,6 @@
 # Article Annexe
 
-DCCRS : 199 Postes
+DCCRS : 199 postes
 
 DEPT |
 
@@ -140,7 +140,7 @@ Chef bureau méthodes et techniques d'appui opérationnel |
 
 SGAMI ZDS de Paris |
 
-30 |
+31 |
 
 77 |
 
@@ -278,6 +278,12 @@ Adjoint au Commandant de Compagnie |
 
 DZCRS Paris/ CRS 08 Bievres |
 
+Adjoint n° 2 au Commandant de Compagnie |
+
+91 |
+
+DZCRS Paris/ CRS 08 Bievres |
+
 Chef de section |
 
 91 |
@@ -324,19 +330,13 @@ Chef de section |
 
 SGAMI de Bordeaux |
 
-23 |
+22 |
 
 17 |
 
 DZCRS Sud-ouest/ CRS 19 La Rochelle |
 
 Adjoint au Commandant de Compagnie |
-
-17 |
-
-DZCRS Sud-ouest/ CRS 19 La Rochelle |
-
-Chef de section |
 
 17 |
 
@@ -1272,7 +1272,7 @@ Adjoint au chef de l'unité nationale d'escorte, de soutien et d'intervention (U
 
 SGAMI ZDS de Paris |
 
-11 |
+9 |
 
 77 |
 
@@ -1390,7 +1390,7 @@ Chef de la brigade mobile de recherche zonale (BMRZ) |
 
 SGAMI de Marseille |
 
-4 |
+5 |
 
 6 |
 
@@ -1424,7 +1424,7 @@ Adjoint au chef de centre de rétention administrative (CRA)-Toulouse |
 
 SGAMI de Metz |
 
-1 |
+2 |
 
 57 |
 
@@ -3376,13 +3376,13 @@ SGAMI de Lyon |
 
 DDSP26/ CSP Romans-sur-Isère |
 
-Adjoint au chef SU |
+Adjoint au chef de Circonscription |
 
 26 |
 
 DDSP26/ CSP Romans-sur-Isère |
 
-Adjoint au chef de Circonscription |
+Adjoint au chef SU |
 
 26 |
 
@@ -3412,19 +3412,19 @@ Adjoint au chef SVP |
 
 DDSP26/ CSP Valence |
 
-Chef UEG |
+Chef UAP |
 
 26 |
 
 DDSP26/ CSP Valence |
 
-Chef UAP |
+Chef UEG |
 
 26 |
 
-DDSP26/ Drôme-SND |
+DDSP26/ Drôme-RT |
 
-Chef SND |
+Adjoint Chef SDRT |
 
 26 |
 
@@ -3434,15 +3434,21 @@ Adjoint au Chef SND |
 
 26 |
 
-DDSP26/ Drôme-RT |
+DDSP26/ Drôme-SND |
 
-Adjoint Chef SDRT |
+Chef SND |
 
 38 |
 
 DDSP38 Isère |
 
 Chef du bureau " Partenariats " |
+
+38 |
+
+DDSP38 Isère-RT |
+
+Adjoint au chef SDRT |
 
 38 |
 
@@ -3454,19 +3460,7 @@ Adjoint au chef SD |
 
 DDSP38/ CSP Grenoble |
 
-Adjoint au chef UOP |
-
-38 |
-
-DDSP38/ CSP Grenoble |
-
-Adjoint au chef UTA |
-
-38 |
-
-DDSP38/ CSP Grenoble |
-
-Chef d'unité SD-URJ |
+Chef GAJ |
 
 38 |
 
@@ -3476,27 +3470,33 @@ Chef UOP |
 
 38 |
 
-DDSP38/ CSP Grenoble-Division Sud |
+DDSP38/ CSP Grenoble |
 
-Adjoint au chef des unités déconcentrées |
-
-38 |
-
-DDSP38/ SCN Grenoble-Voiron-Bourgoin-Jallieu |
-
-Chef SCN |
+Adjoint au chef UAO |
 
 38 |
 
-DDSP38/ SCN Grenoble-Voiron-Bourgoin-Jallieu |
+DDSP38/ CSP Grenoble |
 
-Chef SCN adjoint |
+Adjoint au chef UOP |
 
 38 |
 
-DDSP38/ SDRT Isère rés. Grenoble |
+DDSP38/ CSP Grenoble |
 
-Adjoint au chef SDRT |
+Adjoint au chef UPS |
+
+38 |
+
+DDSP38/ CSP Grenoble-SND |
+
+Chef SND |
+
+38 |
+
+DDSP38/ CSP Grenoble-SND |
+
+Adjoint au chef SND |
 
 69 |
 
@@ -3580,12 +3580,6 @@ Adjoint au chef BSU |
 
 DDSP69/ CSP Lyon/ Ciat subdivisionnaire de Vénissieux-Division Centre |
 
-Adjoint au chef de commissariat subdivisionnaire |
-
-69 |
-
-DDSP69/ CSP Lyon/ Ciat subdivisionnaire de Vénissieux-Division Centre |
-
 Adjoint au chef UIAAP |
 
 69 |
@@ -3599,6 +3593,12 @@ Chef BSU |
 DDSP69/ CSP Lyon/ Ciat subdivisionnaire de Vénissieux-Division Centre |
 
 Chef UIAAP |
+
+69 |
+
+DDSP69/ CSP Lyon/ Ciat subdivisionnaire de Vénissieux-Division Centre |
+
+Adjoint au chef de commissariat subdivisionnaire |
 
 69 |
 
@@ -4202,13 +4202,13 @@ Adjoint au chef SVP |
 
 DDSP30/ CSP Nîmes |
 
-Chef UAO |
+Chef des commissariats de secteur |
 
 30 |
 
 DDSP30/ CSP Nîmes |
 
-Chef des commissariats de secteur |
+Chef UAO |
 
 30 |
 
@@ -4224,9 +4224,9 @@ Chef UOP |
 
 30 |
 
-DDSP30/ Gard-SND |
+DDSP30/ Gard-SDRT |
 
-Chef SND |
+Adjoint au chef SDRT |
 
 30 |
 
@@ -4238,7 +4238,7 @@ Adjoint au chef SND |
 
 DDSP30/ Gard-SND |
 
-Officier SND |
+Chef SND |
 
 30 |
 
@@ -4248,9 +4248,9 @@ Officier SND |
 
 30 |
 
-DDSP30/ Gard-SDRT |
+DDSP30/ Gard-SND |
 
-Adjoint au chef SDRT |
+Officier SND |
 
 31 |
 
@@ -4350,39 +4350,21 @@ Adjoint au chef SOPSR |
 
 34 |
 
-DDSP34/ SCN Béziers-Agde |
+DDSP34/ CSP Béziers |
 
-Chef SCN |
-
-34 |
-
-DDSP34/ SCN Béziers-Agde |
-
-Chef SCN adjoint |
+Chef SU |
 
 34 |
 
 DDSP34/ CSP Béziers |
 
-Adjoint au chef BSU |
+Chef SVP |
 
 34 |
 
-DDSP34/ CSP Béziers |
+DDSP34/ CSP Montpellier |
 
-Adjoint au chef UIAAP |
-
-34 |
-
-DDSP34/ CSP Béziers |
-
-Chef BSU |
-
-34 |
-
-DDSP34/ CSP Béziers |
-
-Chef UIAAP |
+Chef UAO |
 
 34 |
 
@@ -4394,43 +4376,61 @@ Adjoint au chef SD |
 
 DDSP34/ CSP Montpellier |
 
-Chef des unités de soutien |
+Chef UOP |
 
 34 |
 
 DDSP34/ CSP Montpellier |
 
-Chef d'unité SD-URJ |
+Chef UAP |
 
 34 |
 
 DDSP34/ CSP Montpellier-Division Nord |
 
-Chef de division-Adjoint au chef des unités territorialisées |
+Chef de Secteur-La Mosson |
 
 34 |
 
-DDSP34/ SCN Montpellier-Sète |
+DDSP34/ Hérault |
 
-Chef SCN |
-
-34 |
-
-DDSP34/ SCN Montpellier-Sète |
-
-Chef SCN adjoint |
+Officier SND |
 
 34 |
 
-DDSP34/ SRT Béziers |
+DDSP34/ Hérault-SDRT |
 
-Adjoint au chef SRT |
+Chef de division RT-Béziers |
 
 34 |
 
-DDSP34/ SRT Béziers |
+DDSP34/ Hérault-SDRT |
 
-Chef du SRT |
+Chef SRT-Béziers |
+
+34 |
+
+DDSP34/ Hérault-SND |
+
+Adjoint au chef SND |
+
+34 |
+
+DDSP34/ Hérault-SND |
+
+Adjoint au chef SND |
+
+34 |
+
+DDSP34/ Hérault-SND |
+
+Chef SND |
+
+34 |
+
+DDSP34/ Hérault-SND |
+
+Officier SND |
 
 66 |
 
@@ -4472,25 +4472,25 @@ Adjoint au chef SD |
 
 DDSP84/ CISP Vaucluse-Gard |
 
-Adjoint au chef SIAAP |
+Adjoint au chef SVP |
 
 84 |
 
 DDSP84/ CISP Vaucluse-Gard |
 
-Adjoint au chef UTA |
+Adjoint au chef UAO |
 
 84 |
 
 DDSP84/ CISP Vaucluse-Gard |
 
-Chef UTA |
+Chef UPS |
 
 84 |
 
-DDSP84/ CSP Carpentras |
+DDSP84/ CISP Vaucluse-Gard |
 
-Adjoint au chef BSU |
+Chef UAP |
 
 84 |
 
@@ -4502,29 +4502,29 @@ Adjoint au chef de circonscription |
 
 DDSP84/ CSP Carpentras |
 
-Chef BSU |
+Chef SU |
 
 84 |
 
 DDSP84/ CSP Carpentras |
 
-Chef UIAAP |
+Chef SVP |
 
 84 |
 
-DDSP84/ SCN Vaucluse |
+DDSP84/ Vaucluse-SND |
 
-Chef SCN |
-
-84 |
-
-DDSP84/ SCN Vaucluse |
-
-Chef SCN adjoint |
+Chef SND |
 
 84 |
 
-DDSP84/ SDRT Vaucluse rés. Avignon |
+DDSP84/ Vaucluse-SND |
+
+Adjoint au Chef SND |
+
+84 |
+
+DDSP84/ Vaucluse-RT |
 
 Adjoint au chef SDRT |
 
@@ -4732,19 +4732,13 @@ Chef du SRT |
 
 DDSP76/ CSP Le Havre |
 
-Adjoint au chef SOPS |
-
-76 |
-
-DDSP76/ CSP Le Havre |
-
-Chef SOPS |
-
-76 |
-
-DDSP76/ CSP Le Havre |
-
 Adjoint au chef SIAAP |
+
+76 |
+
+DDSP76/ CSP Le Havre |
+
+Adjoint au chef SOPS |
 
 76 |
 
@@ -4756,25 +4750,31 @@ Adjoint au chef SU |
 
 DDSP76/ CSP Le Havre |
 
+Chef d'unité SU |
+
+76 |
+
+DDSP76/ CSP Le Havre |
+
+Chef d'unité SU |
+
+76 |
+
+DDSP76/ CSP Le Havre |
+
+Chef d'unité SU |
+
+76 |
+
+DDSP76/ CSP Le Havre |
+
+Chef SOPS |
+
+76 |
+
+DDSP76/ CSP Le Havre |
+
 Chef UTA |
-
-76 |
-
-DDSP76/ CSP Le Havre |
-
-Chef d'unité SU |
-
-76 |
-
-DDSP76/ CSP Le Havre |
-
-Chef d'unité SU |
-
-76 |
-
-DDSP76/ CSP Le Havre |
-
-Chef d'unité SU |
 
 76 |
 
@@ -4812,7 +4812,7 @@ DDSP76/ SRT Le Havre |
 
 Chef du SRT |
 
-SATPN de la Guadeloupe |
+SGAP de Guadeloupe |
 
 8 |
 
@@ -4864,7 +4864,7 @@ DDSP971/ SDRT Guadeloupe rés. Pointe-à-Pitre |
 
 Adjoint au chef SDRT |
 
-SATPN de la Martinique |
+SGAP de Martinique |
 
 10 |
 
@@ -5406,15 +5406,15 @@ Chef du groupe travail dissimulé |
 
 75 |
 
-DPJ/ SDAEF/ Brigade d'Enquête sur les Fraudes aux Technologies de l'Information |
+DPJ/ SDAEF/ Brigade d'Enquête sur les Fraudes aux Technologies de l'Information-BL2C |
 
 Adjoint au chef de service |
 
 75 |
 
-DPJ/ SDAEF/ Brigade d'Enquête sur les Fraudes aux Technologies de l'Information |
+DPJ/ SDAEF/ Brigade d'Enquête sur les Fraudes aux Technologies de l'Information-BL2C |
 
-Chef du groupe assistance |
+Chef de la Section d'Appui et d'Investigations Numériques |
 
 75 |
 
@@ -5456,7 +5456,7 @@ Chef de groupe internet |
 
 DPJ/ SDBC/ Brigade de Protection des Mineurs |
 
-Chef de groupe internet cyberinfiltration |
+Chef de groupe proxénétisme |
 
 75 |
 
@@ -6720,8 +6720,12 @@ PP/ DSPAP/ SDLII/ DCRAP |
 
 Officier jour |
 
-DGSI
+DGSI : 40 postes
 
 La liste des postes difficiles de la DGSI fait l'objet d'un arrêté distinct, non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
-TOTAL : 1 122 postes
+TOTAL : 1 122 postes.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 15 juillet 2021 (NOR : INTC2112760A), ces dispositions entrent en vigueur le 1er mai 2021.

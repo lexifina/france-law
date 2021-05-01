@@ -1292,7 +1292,7 @@ CRF La Réunion |
 
 Chef de centre régional de formation |
 
-DCSP : 231 postes
+DCSP : 232 postes
 
 DEPT |
 
@@ -1312,19 +1312,13 @@ Chef CSP |
 
 77 |
 
-DDSP77/ CSP Meaux |
-
-Chef SU |
-
-77 |
-
 DDSP77/ CSP Lagny-sur-Marne |
 
 Chef SU |
 
 77 |
 
-DDSP77/ CSP Villeparisis |
+DDSP77/ CSP Meaux |
 
 Chef SU |
 
@@ -1339,6 +1333,12 @@ Chef CSP |
 DDSP77/ CSP Provins |
 
 Chef CSP |
+
+77 |
+
+DDSP77/ CSP Villeparisis |
+
+Chef SU |
 
 78 |
 
@@ -1394,13 +1394,19 @@ Chef CSP |
 
 16 |
 
-DDSP16/ SDRT Charente |
+DDSP16/ Charente-RT |
 
 Chef du SDRT |
 
 17 |
 
-DDSP17/ SDRT Charente-Maritime |
+DDSP17/ Charente-Maritime-RT |
+
+Chef du SDRT |
+
+19 |
+
+DDSP19/ Corrèze-RT |
 
 Chef du SDRT |
 
@@ -1410,29 +1416,17 @@ DDSP19/ CSP Ussel |
 
 Chef CSP |
 
-19 |
-
-DDSP19/ SDRT Corrèze |
-
-Chef du SDRT |
-
 23 |
 
-DDSP23-Creuse |
+DDSP23/ Creuse |
 
 Directeur Départemental Adjoint |
 
 23 |
 
-DDSP23/ SDRT Creuse |
+DDSP23/ Creuse-RT |
 
 Chef du SDRT |
-
-24 |
-
-DDSP24-Dordogne |
-
-Directeur Départemental Adjoint |
 
 24 |
 
@@ -1442,15 +1436,15 @@ Chef CSP |
 
 24 |
 
-DDSP24/ SDRT Dordogne |
+DDSP24/ Dordogne |
+
+Directeur Départemental Adjoint |
+
+24 |
+
+DDSP24/ Dordogne-RT |
 
 Chef du SDRT |
-
-33 |
-
-DDSP33/ SCN |
-
-Chef SCN |
 
 33 |
 
@@ -1464,9 +1458,15 @@ DDSP33/ CSP Bordeaux-Division Pessac |
 
 Chef de division |
 
+33 |
+
+DDSP33/ SCN |
+
+Chef SCN |
+
 40 |
 
-DDSP40/ SDRT Landes |
+DDSP40/ Landes-RT |
 
 Chef du SDRT |
 
@@ -1478,27 +1478,21 @@ Chef CSP |
 
 47 |
 
-DDSP47SDRT Lot-et-Garonne |
+DDSP47/ Lot-et-Garonne |
 
-Chef du SDRT |
+Directeur Départemental Adjoint |
 
 47 |
 
-DDSP47-Lot-et-Garonne |
-
-Directeur Départemental Adjoint |
-
-64 |
-
-DDSP64/ SDRT Pyrénées-Atlantiques |
+DDSP47/ Lot-et-Garonne-RT |
 
 Chef du SDRT |
 
-79 |
+64 |
 
-DDSP79-Deux-Sèvres |
+DDSP64/ Pyrénées-Atlantiques-RT |
 
-Directeur Départemental Adjoint |
+Chef du SDRT |
 
 79 |
 
@@ -1508,7 +1502,13 @@ Chef CSP |
 
 79 |
 
-DDSP79/ SDRT Deux-Sèvres |
+DDSP79/ Deux-Sèvres |
+
+Directeur Départemental Adjoint |
+
+79 |
+
+DDSP79/ Deux-Sèvres-RT |
 
 Chef du SDRT |
 
@@ -1530,13 +1530,7 @@ Chef CSP |
 
 2 |
 
-DDSP02/ CSP Tergnier-la-Fère |
-
-Chef CSP |
-
-2 |
-
-DDSP02/ SDRT Aisne |
+DDSP02/ Aisne-RT |
 
 Chef du SDRT |
 
@@ -1546,23 +1540,11 @@ DDSP02/ CSP Saint-Quentin |
 
 Chef SD |
 
-59 |
+2 |
 
-DDSP59/ CSP Lille Agglomération |
+DDSP02/ CSP Tergnier-la-Fère |
 
-Chef SPASO |
-
-59 |
-
-DDSP59/ SISTC Nord |
-
-Chef SISTC |
-
-59 |
-
-DDSP59/ CSP Lille agglomération/ Division Roubaix |
-
-Chef UIAAP |
+Chef CSP |
 
 59 |
 
@@ -1584,6 +1566,12 @@ Chef CSP |
 
 59 |
 
+DDSP59/ CSP Lille Agglomération |
+
+Chef SPASO |
+
+59 |
+
 DDSP59/ CSP Lille agglomération/ Division Armentières-Bailleul |
 
 Chef de division |
@@ -1596,9 +1584,9 @@ Chef BSU |
 
 59 |
 
-DDSP59/ CSP Maubeuge agglomération |
+DDSP59/ CSP Lille agglomération/ Division Roubaix |
 
-Chef SU |
+Chef UIAAP |
 
 59 |
 
@@ -1608,9 +1596,21 @@ Chef UIAAP |
 
 59 |
 
+DDSP59/ CSP Maubeuge agglomération |
+
+Chef SU |
+
+59 |
+
 DDSP59/ CSP Valenciennes agglomération |
 
 Chef SPASO |
+
+59 |
+
+DDSP59/ SISTC Nord |
+
+Chef SISTC |
 
 60 |
 
@@ -1620,7 +1620,7 @@ Chef SD |
 
 60 |
 
-DDSP60/ SDRT Oise |
+DDSP60/ Oise-RT |
 
 Chef du SDRT |
 
@@ -1672,15 +1672,15 @@ SGAMI de Lyon |
 
 1 |
 
-DDSP01/ CSP Oyonnax |
+DDSP01/ Ain |
 
-Chef CSP |
+Directeur Départemental Adjoint |
 
 1 |
 
-DDSP01-Ain |
+DDSP01/ CSP Oyonnax |
 
-Directeur Départemental Adjoint |
+Chef CSP |
 
 1 |
 
@@ -1696,7 +1696,7 @@ Chef du SDRT |
 
 7 |
 
-DDSP07-Ardèche |
+DDSP07/ Ardèche |
 
 Directeur Départemental Adjoint |
 
@@ -1714,13 +1714,13 @@ Chef CSP |
 
 15 |
 
-DDSP15-Cantal |
+DDSP15/ Cantal |
 
 Directeur Départemental Adjoint |
 
 15 |
 
-DDSP15/ SDRT Cantal |
+DDSP15/ Cantal-RT |
 
 Chef du SDRT |
 
@@ -1732,15 +1732,9 @@ Chef CSP |
 
 26 |
 
-DDSP26/ SDRT Drôme |
+DDSP26/ Drôme-RT |
 
 Chef du SDRT |
-
-38 |
-
-DDSP38-Isère |
-
-Chef EM |
 
 38 |
 
@@ -1754,27 +1748,33 @@ DDSP38/ CSP Voiron |
 
 Chef CSP |
 
+38 |
+
+DDSP38/ Isère |
+
+Chef EMD |
+
 42 |
 
-DDSP42-Loire |
+DDSP42/ Loire |
 
 Chef EM |
 
 42 |
 
-DDSP42/ SDRT Loire |
+DDSP42/ Loire-RT |
 
 Chef du SDRT |
 
 43 |
 
-DDSP43-Haute-Loire |
+DDSP43/ Haute-Loire |
 
 Directeur Départemental Adjoint |
 
 43 |
 
-DDSP43/ SDRT Haute-Loire |
+DDSP43/ Haute-Loire-RT |
 
 Chef du SDRT |
 
@@ -1804,25 +1804,7 @@ Chef CSP |
 
 69 |
 
-DDSP69/ CSP Lyon/ Caluire-Division ouest |
-
-Chef du commissariat subdivisionnaire |
-
-69 |
-
 DDSP69/ CSP Lyon/ Décines-Meyzieu-Division est |
-
-Chef du commissariat subdivisionnaire |
-
-69 |
-
-DDSP69/ CSP Lyon/ Oullins Pierre-Bénite-Division ouest |
-
-Chef du commissariat subdivisionnaire |
-
-69 |
-
-DDSP69/ CSP Lyon/ Rilleux-La-Pape-Division ouest |
 
 Chef du commissariat subdivisionnaire |
 
@@ -1835,6 +1817,24 @@ Chef du commissariat subdivisionnaire |
 69 |
 
 DDSP69/ CSP Lyon/ 8e arrondissement-Division centre |
+
+Chef du commissariat subdivisionnaire |
+
+69 |
+
+DDSP69/ CSP Lyon/ Caluire-Division ouest |
+
+Chef du commissariat subdivisionnaire |
+
+69 |
+
+DDSP69/ CSP Lyon/ Oullins Pierre-Bénite-Division ouest |
+
+Chef du commissariat subdivisionnaire |
+
+69 |
+
+DDSP69/ CSP Lyon/ Rilleux-La-Pape-Division ouest |
 
 Chef du commissariat subdivisionnaire |
 
@@ -1852,13 +1852,13 @@ Chef SD |
 
 73 |
 
-DDSP73/ SDRT Savoie |
+DDSP73/ Savoie-RT |
 
 Chef du SDRT |
 
 74 |
 
-DDSP74/ SDRT Haute-Savoie |
+DDSP74/ Haute-Savoie-RT |
 
 Chef du SDRT |
 
@@ -1868,27 +1868,21 @@ SGAMI de Marseille |
 
 4 |
 
-DDSP04/ CSP Manosque |
-
-Chef CSP |
-
-4 |
-
-DDSP04-Alpes-de-Haute-Provence |
+DDSP04/ Alpes-de-Haute-Provence |
 
 Directeur Départemental Adjoint |
 
 4 |
 
-DDSP04/ SDRT Alpes-de-Haute-Provence |
+DDSP04/ Alpes-de-Haute-Provence-RT |
 
 Chef du SDRT |
 
-5 |
+4 |
 
-DDSP05-Hautes-Alpes |
+DDSP04/ CSP Manosque |
 
-Directeur Départemental Adjoint |
+Chef CSP |
 
 5 |
 
@@ -1898,15 +1892,27 @@ Chef CSP |
 
 5 |
 
-DDSP05/ SDRT Hautes-Alpes |
+DDSP05/ Hautes-Alpes |
+
+Directeur Départemental Adjoint |
+
+5 |
+
+DDSP05/ Hautes-Alpes-RT |
 
 Chef du SDRT |
 
 9 |
 
-DDSP09-Ariège |
+DDSP09/ Ariège |
 
 Directeur Départemental Adjoint |
+
+9 |
+
+DDSP09/ Ariège-RT |
+
+Chef du SDRT |
 
 9 |
 
@@ -1914,15 +1920,21 @@ DDSP09/ CSP Pamiers |
 
 Chef CSP |
 
-9 |
+11 |
 
-DDSP09/ SDRT Ariège |
+DDSP11/ Aude-RT |
 
 Chef du SDRT |
 
-11 |
+12 |
 
-DDSP11/ SDRT Aude |
+DDSP12/ Aveyron |
+
+Directeur Départemental Adjoint |
+
+12 |
+
+DDSP12/ Aveyron-RT |
 
 Chef du SDRT |
 
@@ -1935,24 +1947,6 @@ Chef CSP |
 12 |
 
 DDSP12/ CSP Millau |
-
-Chef CSP |
-
-12 |
-
-DDSP12-Aveyron |
-
-Directeur Départemental Adjoint |
-
-12 |
-
-DDSP12/ SDRT Aveyron |
-
-Chef du SDRT |
-
-13 |
-
-DDSP30/ CISP Tarascon-Beaucaire |
 
 Chef CSP |
 
@@ -1970,15 +1964,21 @@ Chef SD |
 
 2B |
 
-DDSP2B/ SDRT Haute-Corse |
-
-Chef du SDRT |
-
-2B |
-
 DDSP2B/ CSP Bastia |
 
 Chef SD |
+
+2B |
+
+DDSP2B/ Haute-Corse-RT |
+
+Chef du SDRT |
+
+13 |
+
+DDSP30/ CISP Tarascon-Beaucaire |
+
+Chef CSP |
 
 30 |
 
@@ -1988,21 +1988,21 @@ Chef CSP |
 
 30 |
 
-DDSP30/ SDRT Gard |
+DDSP30/ Gard-RT |
 
 Chef du SDRT |
-
-31 |
-
-DDSP31/ SCN |
-
-Chef SCN |
 
 31 |
 
 DDSP31/ CSP Saint-Gaudens |
 
 Chef CSP |
+
+31 |
+
+DDSP31/ CSP Toulouse-Division Centre |
+
+Chef de division |
 
 31 |
 
@@ -2018,57 +2018,51 @@ Chef de division |
 
 31 |
 
-DDSP31/ CSP Toulouse-Division Centre |
+DDSP31/ SCN |
 
-Chef de division |
+Chef SCN |
 
 32 |
 
-DDSP32-Gers |
+DDSP32/ Gers |
 
 Directeur Départemental Adjoint |
 
 32 |
 
-DDSP32/ SDRT Gers |
+DDSP32/ Gers-RT |
 
 Chef du SDRT |
 
 34 |
 
-DDSP34-Hérault |
+DDSP34/ Hérault |
 
-Chef EM |
+Chef EMD |
 
 46 |
 
-DDSP46-Lot |
+DDSP46/ Lot |
 
 Directeur Départemental Adjoint |
 
 46 |
 
-DDSP46/ SDRT Lot |
+DDSP46/ Lot-RT |
 
 Chef du SDRT |
 
 48 |
 
-DDSP48-Lozère |
+DDSP48/ Lozère |
 
 Directeur Départemental Adjoint |
 
 48 |
 
-DDSP48/ SDRT Lozère |
+DDSP48/ Lozère-RT |
 
 Chef du SDRT |
-
-65 |
-
-DDSP65-Hautes-Pyrénées |
-
-Directeur Départemental Adjoint |
 
 65 |
 
@@ -2078,13 +2072,19 @@ Chef CSP |
 
 65 |
 
-DDSP65/ SDRT Hautes-Pyrénées |
+DDSP65/ Hautes-Pyrénées |
+
+Directeur Départemental Adjoint |
+
+65 |
+
+DDSP65/ Hautes-Pyrénées-RT |
 
 Chef du SDRT |
 
 66 |
 
-DDSP66/ SDRT Pyrénées-Orientales |
+DDSP66/ Pyrénées-Orientales-RT |
 
 Chef du SDRT |
 
@@ -2102,15 +2102,9 @@ Chef CSP |
 
 81 |
 
-DDSP81/ SRT rés Albi |
+DDSP81/ Tarn-RT |
 
 Chef du SDRT |
-
-82 |
-
-DDSP82-Tarn-et-Garonne |
-
-Directeur Départemental Adjoint |
 
 82 |
 
@@ -2120,15 +2114,21 @@ Chef CSP |
 
 82 |
 
-DDSP82/ SDRT Tarn-et-Garonne |
+DDSP82/ Tarn-et-Garonne |
+
+Directeur Départemental Adjoint |
+
+82 |
+
+DDSP82/ Tarn-et-Garonne-RT |
 
 Chef du SDRT |
 
 83 |
 
-DDSP83-Var |
+DDSP83/ Var |
 
-Chef EM |
+Chef EMD |
 
 84 |
 
@@ -2144,19 +2144,25 @@ Chef CSP |
 
 84 |
 
-DDSP84/ SDRT Vaucluse |
+DDSP84/ Vaucluse-RT |
 
 Chef du SDRT |
 
 SGAMI de Metz |
 
-46 |
+47 |
 
 8 |
 
-DDSP08-Ardennes |
+DDSP08/ Ardennes |
 
 Directeur Départemental Adjoint |
+
+8 |
+
+DDSP08/ Ardennes-RT |
+
+Chef du SDRT |
 
 8 |
 
@@ -2164,15 +2170,9 @@ DDSP08/ CSP Sedan |
 
 Chef CSP |
 
-8 |
-
-DDSP08/ SDRT Ardennes |
-
-Chef du SDRT |
-
 10 |
 
-DDSP10/ SDRT Aube |
+DDSP10/ Aube-RT |
 
 Chef du SDRT |
 
@@ -2196,21 +2196,21 @@ Chef CSP |
 
 39 |
 
-DDSP39-Jura |
+DDSP39/ CSP Dôle |
+
+Chef CSP |
+
+39 |
+
+DDSP39/ Jura |
 
 Directeur Départemental Adjoint |
 
 39 |
 
-DDSP39/ SDRT Jura |
+DDSP39/ Jura-RT |
 
 Chef du SDRT |
-
-39 |
-
-DDSP39/ CSP Dôle |
-
-Chef CSP |
 
 52 |
 
@@ -2220,21 +2220,15 @@ Chef CSP |
 
 52 |
 
-DDSP52-Haute-Marne |
+DDSP52/ Haute-Marne |
 
 Directeur Départemental Adjoint |
 
 52 |
 
-DDSP52/ SDRT Haute-Marne |
+DDSP52/ Haute-Marne-RT |
 
 Chef du SDRT |
-
-54 |
-
-DDSP54-Meurthe-et-Moselle |
-
-Chef EM |
 
 54 |
 
@@ -2274,7 +2268,13 @@ Chef CSP |
 
 54 |
 
-DDSP54/ SDRT Meurthe-et-Moselle |
+DDSP54/ Meurthe-et-Moselle |
+
+Chef EM |
+
+54 |
+
+DDSP54/ Meurthe-et-Moselle-RT |
 
 Chef du SDRT |
 
@@ -2286,13 +2286,13 @@ Chef CSP |
 
 55 |
 
-DDSP55-Meuse |
+DDSP55/ Meuse |
 
 Directeur Départemental Adjoint |
 
 55 |
 
-DDSP55/ SDRT Meuse |
+DDSP55/ Meuse-RT |
 
 Chef du SDRT |
 
@@ -2316,21 +2316,27 @@ Chef CSP |
 
 58 |
 
-DDSP58-Nièvre |
+DDSP58/ Nièvre |
 
 Directeur Départemental Adjoint |
 
 58 |
 
-DDSP58/ SDRT Nièvre |
+DDSP58/ Nièvre-RT |
 
 Chef du SDRT |
 
 67 |
 
-DDSP67-Bas-Rhin |
+DDSP67/ Bas-Rhin |
 
 Chef EM |
+
+67 |
+
+DDSP67/ CSP Haguenau |
+
+Chef CSP |
 
 67 |
 
@@ -2352,21 +2358,21 @@ Chef CSP |
 
 68 |
 
-DDSP68/ SDRT Haut-Rhin |
+DDSP68/ Haut-Rhin-RT |
 
 Chef du SDRT |
 
 70 |
 
-DDSP70/ SDRT Haute-Saône |
-
-Chef du SDRT |
-
-70 |
-
-DDSP70-Haute-Saône |
+DDSP70/ Haute-Saône |
 
 Directeur Départemental Adjoint |
+
+70 |
+
+DDSP70/ Haute-Saône-RT |
+
+Chef du SDRT |
 
 71 |
 
@@ -2376,7 +2382,7 @@ Chef CSP |
 
 71 |
 
-DDSP71/ SDRT Saône-et-Loire |
+DDSP71/ Saône-et-Loire-RT |
 
 Chef du SDRT |
 
@@ -2394,15 +2400,15 @@ Chef CSP |
 
 88 |
 
-DDSP88/ SDRT Vosges |
+DDSP88/ Vosges |
 
-Chef du SDRT |
+Directeur Départemental Adjoint |
 
 88 |
 
-DDSP88-Vosges |
+DDSP88/ Vosges-RT |
 
-Directeur Départemental Adjoint |
+Chef du SDRT |
 
 89 |
 
@@ -2412,19 +2418,19 @@ Directeur Départemental Adjoint et Chef CSP |
 
 89 |
 
-DDSP89/ SDRT Yonne |
+DDSP89/ Yonne-RT |
 
 Chef du SDRT |
 
 90 |
 
-DDSP90-Territoire de Belfort |
+DDSP90/ Territoire de Belfort |
 
 Directeur Départemental Adjoint |
 
 90 |
 
-DDSP90/ SDRT Territoire de Belfort |
+DDSP90/ Territoire de Belfort-RT |
 
 Chef du SDRT |
 
@@ -2452,9 +2458,9 @@ Chef CSP |
 
 14 |
 
-DDSP14/ SOPSR rés. Caen |
+NON IMPLANTEE |
 
-Chef du SOPSR |
+|
 
 18 |
 
@@ -2464,15 +2470,15 @@ Chef CSP |
 
 22 |
 
-DDSP22/ CSP Lannion |
+DDSP22/ Côtes-d'Armor-RT |
 
-Chef CSP |
+Chef du SDRT |
 
 22 |
 
-DDSP22/ SDRT rés. Saint-Brieuc |
+DDSP22/ CSP Lannion |
 
-Chef du SDRT |
+Chef CSP |
 
 27 |
 
@@ -2488,7 +2494,7 @@ Chef CSP |
 
 27 |
 
-DDSP27/ SDRT rés. Evreux |
+DDSP27/ Eure-RT |
 
 Chef du SDRT |
 
@@ -2500,7 +2506,7 @@ Chef SD |
 
 28 |
 
-DDSP28/ SDRT Eure-et-Loir |
+DDSP28/ Eure-et-Loir-RT |
 
 Chef du SDRT |
 
@@ -2522,27 +2528,27 @@ DDSP35/ CSP Fougères |
 
 Chef CSP |
 
-35 |
+|
 
-DDSP35/ SOPSR rés. Rennes |
+NON IMPLANTEE |
 
-Chef du SOPSR |
+NON IMPLANTEE |
 
 36 |
 
-DDSP36-Indre |
+DDSP36/ Indre |
 
 Directeur Départemental Adjoint |
 
 36 |
 
-DDSP36/ SDRT Indre |
+DDSP36/ Indre-RT |
 
 Chef du SDRT |
 
 37 |
 
-DDSP37/ SDRT Indre-et-Loire |
+DDSP37/ Indre-et-Loire-RT |
 
 Chef du SDRT |
 
@@ -2554,19 +2560,19 @@ Chef CSP |
 
 41 |
 
-DDSP41-Loir-et-Cher |
+DDSP41/ Loir-et-Cher |
 
 Directeur Départemental Adjoint |
 
 41 |
 
-DDSP41/ SDRT Loir-et-Cher |
+DDSP41/ Loir-et-Cher-RT |
 
 Chef du SDRT |
 
 44 |
 
-DDSP44-Loire-Atlantique |
+DDSP44/ Loire-Atlantique |
 
 Chef EM |
 
@@ -2578,7 +2584,7 @@ Chef CSP |
 
 49 |
 
-DDSP49/ SDRT Maine-et-Loire |
+DDSP49/ Maine-et-Loire-RT |
 
 Chef du SDRT |
 
@@ -2602,33 +2608,27 @@ Chef SD |
 
 50 |
 
-DDSP50/ SDRT Manche |
+DDSP50/ Manche-RT |
 
 Chef du SDRT |
 
 53 |
 
-DDSP53-Mayenne |
+DDSP53/ Mayenne |
 
 Directeur Départemental Adjoint |
 
 53 |
 
-DDSP53/ SDRT Mayenne |
+DDSP53/ Mayenne-RT |
 
 Chef du SDRT |
 
 56 |
 
-DDSP56/ SDRT Morbihan |
+DDSP56/ Morbihan-RT |
 
 Chef du SDRT |
-
-61 |
-
-DDSP61-Orne |
-
-Directeur Départemental Adjoint |
 
 61 |
 
@@ -2644,13 +2644,19 @@ Chef CSP |
 
 61 |
 
-DDSP61/ SDRT Orne |
+DDSP61/ Orne |
+
+Directeur Départemental Adjoint |
+
+61 |
+
+DDSP61/ Orne-RT |
 
 Chef du SDRT |
 
 72 |
 
-DDSP72/ SDRT Sarthe |
+DDSP72/ Sarthe-RT |
 
 Chef du SDRT |
 
@@ -2668,17 +2674,17 @@ Chef CSP |
 
 85 |
 
-DDSP85/ SDRT Vendée |
+DDSP85/ Vendée-RT |
 
 Chef du SDRT |
 
-SATPN de Guadeloupe |
+SGAP de Guadeloupe |
 
 2 |
 
 971 |
 
-DDSP971/ SDRT Guadeloupe |
+DDSP971/ Guadeloupe-RT |
 
 Chef du SDRT |
 
@@ -2688,7 +2694,7 @@ DDSP971/ CSP Basse-Terre |
 
 Chef CSP |
 
-SATPN de Martinique |
+SGAP de Martinique |
 
 1 |
 
@@ -2698,7 +2704,7 @@ DDSP972/ CSP Le Lamentin |
 
 Chef CSP |
 
-SATPN de La Réunion |
+SGAP de La Réunion |
 
 2 |
 
@@ -2714,7 +2720,7 @@ DDSP974/ GIR La Réunion |
 
 Chef de GIR |
 
-SATPN de Polynésie |
+SGAP de Polynésie |
 
 2 |
 
@@ -2726,7 +2732,7 @@ DDA Papeete |
 
 987 |
 
-DSP987/ SDRT Polynésie |
+DSP987/ Polynésie-RT |
 
 Chef du SDRT |
 
@@ -2792,7 +2798,7 @@ Adjoint au chef STRT |
 
 SATPN de Mayotte |
 
-4 |
+5 |
 
 976 |
 
@@ -2818,9 +2824,15 @@ DCSP/ STSP976/ CSP |
 
 Chef STPJ |
 
+976 |
+
+DCSP/ STSP976/ RT |
+
+Chef STRT |
+
 SATPN de Nouvelle-Calédonie |
 
-3 |
+2 |
 
 988 |
 
@@ -2833,12 +2845,6 @@ Chef STPAF |
 DCPJ/ STPJ988 |
 
 Adjoint au chef STPJ-Chef du service d'investigations |
-
-988 |
-
-DTPN988/ RAID |
-
-Chef de l'antenne RAID Nouméa |
 
 PP : 111 postes
 
@@ -2974,7 +2980,7 @@ Adjoint au chef de service-Brigade d'Exécution des Décisions de Justice |
 
 DPJ/ SDBC/ BPM |
 
-Chef de section-Enquêtes intra-familliales (Brigade de Protection des Mineurs) |
+Chef de section-Enquêtes intrafamiliales (Brigade de Protection des Mineurs) |
 
 75 |
 
@@ -3534,7 +3540,7 @@ DSPAP/ SDSS/ SN94 |
 
 Chef de l'unité de coordination opérationnelle des services de nuit |
 
-RAID : 12 postes
+RAID : 13 postes
 
 DEPT |
 
@@ -3646,6 +3652,16 @@ RAID/ Antenne de la Réunion |
 
 Chef d'antenne |
 
+SATPN de Nouvelle Calédonie |
+
+1 |
+
+988 |
+
+RAID/ Antenne de Nouvelle Calédonie |
+
+Chef d'antenne |
+
 ST (SI) 2 : 1 poste
 
 DEPT |
@@ -3668,6 +3684,8 @@ DGSI : 60 postes
 
 La liste des postes de chef de service ou d'unité organique bénéficiant du plafond réglementaire de la part fonctionnelle de l'indemnité de responsabilité et de performance de la DGSI fait l'objet d'un arrêté distinct, non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
+TOTAL : 618 postes.
+
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 13 août 2020, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 2 de l’arrêté du 15 juillet 2021 (NOR : INTC2112757A), ces dispositions entrent en vigueur le 1er mai 2021.
