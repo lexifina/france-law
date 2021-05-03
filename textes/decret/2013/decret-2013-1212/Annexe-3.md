@@ -10,6 +10,8 @@ CONTENU DE LA DÉCLARATION D'INTÉRÊTS
 
 - le mandat ou les fonctions au titre desquels le déclarant effectue la déclaration ainsi que la date d'élection ou de nomination dans ce mandat ou ces fonctions ;
 
+- pour les membres du Conseil économique, social et environnemental, le nom de l'organisation qui a désigné le déclarant ;
+
 - pour les dirigeants d'organismes publics, le nom de l'organisme dirigé ;
 
 - pour les dirigeants d'entreprises publiques, le chiffre d'affaires de l'entreprise l'année précédant la nomination et, le cas échéant, le nom du groupe auquel appartient l'entreprise ;
