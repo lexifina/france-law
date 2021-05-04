@@ -1,0 +1,53 @@
+# Protéger la rémunération des agriculteurs
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42333
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/proteger_remuneration_agriculteurs
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-718.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-05-04 : 1er dépôt d'une initiative. (PIONANR5L15B4134)
+  - 2021-06-18 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-04 : Renvoi en commission au fond
+      - 2021-05-12 : Nomination de rapporteur
+      - 2021-06-15 : Réunion de commission
+      - 2021-06-15 : Réunion de commission
+      - 2021-06-16 : Réunion de commission
+      - 2021-06-24 : Réunion de commission
+      - 2021-06-16 : Dépôt de rapport (RAPPANR5L15B4266, PIONANR5L15BTC4266)
+  - Discussion en séance publique
+    - 2021-06-24 : Discussion en séance publique
+    - 2021-06-24 : Discussion en séance publique
+    - 2021-06-24 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-06-25 : Dépôt d'une initiative en navette (PIONSNR5S359B0718)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-06-25 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-09-15 : Dépôt de rapport (RAPPSNR5S359B0828, PIONSNR5S359BTC0829)
+  - Discussion en séance publique
+    - 2021-09-22 : Décision
+- Commission Mixte Paritaire
+  - 2021-09-23 : Dépôt d'un projet de loi (PIONANR5L15B4490)
+  - 2021-09-23 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-10-04 : Nomination de rapporteur
+    - 2021-10-04 : Dépôt du rapport d'une CMP (RAPPANR5L15B4511, PIONANR5L15BTC4511)
+    - 2021-10-04 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0003, PIONSNR5S379BTC0004)
+  - Discussion en séance publique
+    - 2021-10-06 : Discussion en séance publique
+    - 2021-10-06 : Décision
+  - Discussion en séance publique
+    - 2021-10-14 : Discussion en séance publique
+    - 2021-10-14 : Décision
+  - 2021-10-04 : Décision de la CMP
+- Promulgation de la loi
+  - 2021-10-18 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2022-07-27 : Rapport sur l'application des lois (RINFANR5L16B0171)
