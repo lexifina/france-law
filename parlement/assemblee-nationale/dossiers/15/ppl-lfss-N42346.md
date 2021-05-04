@@ -1,0 +1,66 @@
+# Proposition de loi relative aux lois de financement de la sécurité sociale
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42346
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/ppl_lfss
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-783.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-05-04 : 1er dépôt d'une initiative. (PIONANR5L15B4139)
+  - 2021-06-25 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-04 : Renvoi en commission au fond
+      - 2021-06-28 : Nomination de rapporteur
+      - 2021-07-19 : Réunion de commission
+      - 2021-07-16 : Dépôt de rapport (RAPPANR5L15B4379, PIONANR5L15BTC4379)
+  - Discussion en séance publique
+    - 2021-07-19 : Discussion en séance publique
+    - 2021-07-19 : Discussion en séance publique
+    - 2021-07-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-07-20 : Dépôt d'une initiative en navette (PIONSNR5S359B0783)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-09-15 : Dépôt de rapport (RAPPSNR5S359B0825, PIONSNR5S359BTC0827)
+  - Discussion en séance publique
+    - 2021-09-28 : Discussion en séance publique
+    - 2021-09-28 : Décision
+- Commission Mixte Paritaire
+  - 2021-09-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-01-12 : Nomination de rapporteur
+    - 2022-01-12 : Dépôt du rapport d'une CMP (RAPPANR5L15B4903)
+    - 2022-01-12 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0347, PIONSNR5S379BTC0348)
+  - 2022-01-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-09-29 : Dépôt d'une initiative en navette (PIONANR5L15B4496)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-09-29 : Renvoi en commission au fond
+      - 2022-01-19 : Réunion de commission
+      - 2022-01-27 : Réunion de commission
+      - 2022-01-19 : Dépôt de rapport (RAPPANR5L15B4925, PIONANR5L15BTC4925)
+  - Discussion en séance publique
+    - 2022-01-27 : Discussion en séance publique
+    - 2022-01-27 : Discussion en séance publique
+    - 2022-01-27 : Décision
+- Nouvelle Lecture
+  - 2022-01-27 : Dépôt d'une initiative en navette (PIONSNR5S379B0412)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-27 : Renvoi en commission au fond
+      - 2022-02-01 : Dépôt de rapport (RAPPSNR5S379B0429, PIONSNR5S379BTC0430)
+  - Discussion en séance publique
+    - 2022-02-09 : Discussion en séance publique
+    - 2022-02-09 : Décision
+- Conseil constitutionnel
+  - 2022-02-14 : Saisine du conseil constitutionnel
+  - 2022-03-10 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-03-14 : Promulgation d'une loi
