@@ -1,0 +1,51 @@
+# Proposition de loi organique relative à la modernisation de la gestion des finances publiques
+
+- Procédure : Projet ou proposition de loi organique
+- Législature : 15
+- Identifiant : DLR5L15N42349
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/modernisation_gestion_fp
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl20-780.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-05-04 : 1er dépôt d'une initiative. (PIONANR5L15B4110)
+  - 2021-06-25 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-05-04 : Renvoi en commission au fond
+      - 2021-06-28 : Nomination de rapporteur
+      - 2021-07-19 : Réunion de commission
+      - 2021-07-16 : Dépôt de rapport (RAPPANR5L15B4381, PIONANR5L15BTC4381)
+  - Discussion en séance publique
+    - 2021-07-19 : Discussion en séance publique
+    - 2021-07-19 : Discussion en séance publique
+    - 2021-07-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-07-20 : Dépôt d'une initiative en navette (PIONSNR5S359B0780)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-20 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-09-15 : Dépôt de rapport (RAPPSNR5S359B0831, PIONSNR5S359BTC0832)
+  - Discussion en séance publique
+    - 2021-09-27 : Décision
+- Commission Mixte Paritaire
+  - 2021-09-28 : Dépôt d'un projet de loi (PIONANR5L15B4492)
+  - 2021-09-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-11-15 : Nomination de rapporteur
+    - 2021-11-15 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0150, PIONSNR5S379BTC0151)
+    - 2021-11-15 : Dépôt du rapport d'une CMP (RAPPANR5L15B4667, PIONANR5L15BTC4667)
+  - Discussion en séance publique
+    - 2021-11-18 : Discussion en séance publique
+    - 2021-11-18 : Décision
+  - Discussion en séance publique
+    - 2021-11-24 : Discussion en séance publique
+    - 2021-11-24 : Décision
+  - 2021-11-16 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-11-25 : Saisine du conseil constitutionnel
+  - 2021-12-23 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-12-28 : Promulgation d'une loi
