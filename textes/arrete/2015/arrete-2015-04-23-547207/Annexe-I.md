@@ -42,7 +42,7 @@ Directeur de l'unité de management nucléaire, biologique et chimique
 
 Directeur de l'unité de management Horus
 
-Directeur de l'unité de management espace et système d'information opérationnels
+Directeur de l'unité de management Connectivité cyber espace renseignement
 
 Directeur de l'unité de management opérations d'armement hélicoptères et missiles
 
@@ -56,7 +56,7 @@ Directeur de l'unité de management Cœlacanthe
 
 Directeur de l'unité de management opérations d'armement terrestres
 
-Directeur de l'unité de management socle numérique
+Directeur de l'agence du numérique de défense
 
 |
 

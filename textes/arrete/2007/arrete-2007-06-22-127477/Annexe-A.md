@@ -180,6 +180,12 @@ Directeur de l'agence de l'innovation de défense |
 
 MAPA x 25 |
 
+|
+
+Directeur de l'agence du numérique de défense |
+
+Sans limitation |
+
 Direction des opérations |
 
 Chef du service des achats d'armement |
