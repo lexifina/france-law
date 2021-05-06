@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422106
+
+- Question : [SEQ210422106](seq210422106.md) — Sort des prisonniers de guerre arméniens en Azerbaïdjan
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-05-06, page 3033*
+
+La France suit de près les questions relatives aux prisonniers et crimes de guerre, liées au conflit qui s'est déroulé au Haut-Karabagh du 27 septembre au 9 novembre 2020. En vertu du rôle qui lui a été confié par l'OSCE en 1997 au sein de la co-Présidence du Groupe de Minsk, la France rappelle, à l'occasion de chaque entretien avec les dirigeants d'Arménie et d'Azerbaïdjan, les obligations découlant du droit international humanitaire, s'agissant notamment du traitement des prisonniers de guerre, dont nous demandons la libération, et la nécessité d'enquêter sur les exactions documentées par les organisations non-gouvernementales. La France entretient également des contacts avec le Comité international de la Croix Rouge (CICR), qui travaille au quotidien avec les parties en vue de rendre visite aux prisonniers. L'organisation a rencontré la majorité des prisonniers de guerre détenus en Azerbaïdjan et a fait savoir qu'aucun d'entre eux n'était détenu dans des conditions qui seraient contraires au droit international humanitaire. La libération, le 10 mars dernier, de Madame Marel Najarian, ressortissante libano-arménienne, est un pas dans la bonne direction. La coprésidence du Groupe de Minsk contribue à exercer la pression nécessaire sur les parties afin d'avancer sur ce sujet. La France continuera de l'évoquer avec les dirigeants de l'Azerbaïdjan et de l'Arménie, afin que l'ensemble des prisonniers de guerre et autres détenus puissent regagner leur pays et que la lumière soit faite sur l'ensemble des crimes qui ont pu être commis au cours du conflit au Haut-Karabagh.
