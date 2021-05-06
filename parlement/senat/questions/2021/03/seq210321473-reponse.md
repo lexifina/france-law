@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321473
+
+- Question : [SEQ210321473](seq210321473.md) — Protocole vaccinal
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-05-06, page 2967*
+
+Le règlement communautaire (UE) 2016/429 prévoit le renforcement de la prévention et de la surveillance des maladies animales ainsi que la sécurisation des échanges intracommunautaires des animaux vivants et du matériel génétique. À ce jour, un accord bilatéral signé entre la France et l'Italie permet d'envoyer des bovins vers l'Italie dans un délai de 10 jours après la vaccination contre la fièvre catarrhale ovine (FCO) au lieu des 60 jours prévus par les conditions générales du règlement européen relatif à la FCO. Dans le cadre de l'application au 21 avril 2021 du nouveau règlement (UE) 2016/429 dit Loi Santé Animale, des exigences dérogatoires aux conditions générales peuvent être accordées par l'État membre de destination. Ainsi s'agissant de la FCO, les autorités italiennes viennent de préciser qu'elles maintiennent l'obligation de vaccination des bovins de plus de 90 jours contre le sérotype 8 et l'envoi d'animaux vaccinés depuis moins de 10 jours puisque leur communication indique « vaccination depuis au moins 7 jours ». Les conditions dérogatoires pour l'export de bovins non vaccinés mais désinsectisés et testés négatifs en PCR continueront à s'appliquer à destination de l'Espagne pour les animaux de moins de 70 jours, et à destination de l'Italie pour les animaux de moins de 90 jours. Les conditions d'échanges évolueront pour l'Espagne à compter du 1er septembre 2021, date à partir de laquelle la vaccination sera rendue obligatoire contre les sérotypes 4 et 8 de la FCO pour tous les ruminants de plus de 70 jours. Les acteurs ont été informés le 24 mars 2021 de ces évolutions. Le délai de transition obtenu permet de préparer collectivement cette échéance.
