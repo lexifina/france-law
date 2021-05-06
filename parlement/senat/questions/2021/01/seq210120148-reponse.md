@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120148
+
+- Question : [SEQ210120148](seq210120148.md) — Montant de l'enveloppe budgétaire des aides de secours pour 2021
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-05-06, page 3028*
+
+Le secours occasionnel de solidarité (SOS) est une aide spécifique mise en œuvre sur la base des aides accordées en France. Il est attribué au foyer avec le supplément pour enfant à charge, le cas échéant. En 2020, à partir du mois de mai, date de la mise en place de ce secours, 4,7 M€ ont été versés à nos compatriotes en difficulté, soit 30 000 aides attribuées. En décembre 2020, les cinq premiers postes en montants versés étaient les suivants : - Beyrouth (493 942 €) - Jérusalem (292 258 €) - Tel Aviv (232 601 €) - Londres (202 683 €) - Montréal (185 070 €) Depuis septembre 2020, le SOS est cumulable avec les aides associatives, familiales, amicales et les aides publiques locales. Le SOS a été reconduit pour 2021 et sera financé sur la base du report de crédits généraux, tel que figurant dans l'arrêté du 15 mars 2021, publié au JO le 18 mars 2021, soit 25M€ pour ce dispositif. La campagne 2021 combine le critère de diminution de revenus avec celui de précarité. Une personne ayant subi une diminution de revenus, mais dont le niveau de vie reste confortable, ne sera pas éligible à cette aide à caractère social afin de pouvoir venir en aide à ceux de nos compatriotes qui en ont le plus besoin. Les postes diplomatiques et consulaires évaluent la situation précaire des demandeurs en fonction des conditions de vie locales. Depuis début 2021, 1,9M € ont été versés, soit 13 452 aides attribuées. En février 2021, les cinq premiers postes en montants versés étaient les suivants : - Beyrouth (220 870 €) - Bogota (121 919 €) - Londres (111 678 €) - Montréal (85 995 €) - Jérusalem (79 971 €).
