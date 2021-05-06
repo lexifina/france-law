@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321684
+
+- Question : [SEQ210321684](seq210321684.md) — Compensation des pertes financières liées à l'exploitation des bâtiments communaux
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-05-06, page 2983*
+
+Le Gouvernement a mis en œuvre un ensemble de mesures de soutien inédites en faveur des communes pour leur permettre notamment d'assurer l'équilibre de leur budget. Ces mesures, tant en recettes qu'en dépenses, concernent à la fois leur section de fonctionnement et leur section d'investissement. L'article 21 de la loi de finances rectificative du 30 juillet 2020 (LFR 3) a ainsi institué un mécanisme garantissant aux communes que leurs ressources fiscales et domaniales ne seront pas inférieures en 2020 à la moyenne de celles perçues entre 2017 et 2019. Si tel est le cas, l'État leur verse une dotation égale à la différence. À ce titre, environ 4 400 communes et groupements à fiscalité propre devraient bénéficier d'une dotation, selon les données disponibles à la fin mars, pour environ 200 millions d'euros. L'article 74 de la loi de finances 2021 a reconduit ce mécanisme pour l'année 2021. Ce mécanisme ne tient effectivement pas compte des éventuelles pertes de recettes tarifaires subies par les communes. Les communes semblent avoir été, en règle générale, en mesure d'y faire face puisque les données budgétaires provisoires sur l'exercice 2020 indiquent que si elles ont subi une perte d'épargne brute par rapport à 2019, le niveau de cette dernière resterait proche à celui atteint en 2018. Cependant, une fois les données budgétaires définitives connues pour chaque commune au titre de 2020, le Gouvernement proposera, le cas échéant, des solutions d'accompagnement complémentaires ciblées, notamment s'il s'avère que certaines communes ont subi des pertes de recettes tarifaires de nature à remettre en cause leur équilibre budgétaire.
