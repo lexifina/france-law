@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220922
+
+- Question : [SEQ210220922](seq210220922.md) — Mise en œuvre du dispositif des tuteurs
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2021-05-06, page 3025*
+
+Afin de soutenir massivement les étudiants impactés par la crise sanitaire, le Premier ministre a annoncé la création de 20 000 emplois étudiants supplémentaires. Ces emplois renforcent le soutien et la solidarité par les pairs dans cette période exceptionnelle. Ils se déploient dans l'ensemble des universités, partout sur le territoire. Par ces emplois, la ministre chargée de l'enseignement supérieur entend accompagner massivement tous les étudiants, tout en permettant à plus de 20 000 d'entre eux de disposer d'un emploi adapté à la réussite académique et à la poursuite des cours. Ces emplois viennent compléter la création de 1 600 emplois de référents dans les CROUS, dont la principale mission, en cette période de pandémie, est de maintenir le lien social pour l'ensemble des résidents, en particulier les étudiants en situation de précarité ou de fragilité. L'emploi étudiant, tel que défini dans les articles L. 811-2 et D. 811-1 et suivants du code de l'éducation, permet de contribuer à la vie dans les universités et dans les campus. Il a l'avantage de s'adapter aux horaires de formation. De plus, l'emploi étudiant peut également être valorisé conformément au décret n° 2017-962 du 10 mai 2017. Dans le contexte de la crise sanitaire, les établissements se sont appropriés ce dispositif pour adapter ces emplois. L'utilisation du numérique a permis également de repenser les temps d'accompagnement en introduisant des échanges à distance. Afin d'accompagner au mieux les établissements et faciliter la mise en place de ces 20 000 emplois étudiant, un guide de bonnes pratiques sur l'emploi étudiant a été diffusé en décembre 2020.
