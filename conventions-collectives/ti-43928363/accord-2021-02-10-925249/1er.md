@@ -1,0 +1,5 @@
+# Article 1er
+
+Les dispositions du présent accord s'appliquent à l'ensemble des entreprises et des salariés entrant dans le champ d'application des conventions collectives, au regard des activités économiques fixées à l'annexe 1 du présent accord.
+
+Au vu de son objet, les règles édictées par le présent accord s'appliquent à l'ensemble des entreprises visées au paragraphe précédent, les partenaires sociaux n'ayant pas souhaité insérer des dispositions particulières liées à l'effectif des entreprises. Le présent accord a donc vocation à s'appliquer à toutes les entreprises, quel que soit leur effectif.
