@@ -1,6 +1,6 @@
 # Article Annexes
 
-Nota. - Les annexes au présent arrêté sont tenues à disposition du public sur le site internet relevant du ministre chargé des sports (
+Les annexes au présent arrêté sont tenues à disposition du public sur le site internet relevant du ministre chargé des sports (
 
 http://www.sports.gouv.fr/
 
