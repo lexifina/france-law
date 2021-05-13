@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220829
+
+- Question : [SEQ210220829](seq210220829.md) — Accès à l'honorariat pour les réservistes
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2021-05-13, page 3217*
+
+Le décret n° 2019-1009 du 30 septembre 2019 relatif à la simplification et la valorisation des activités des réservistes militaires a vocation à mieux valoriser et récompenser l'engagement des réservistes. Les articles R. 4211-6 et R. 4211-7 du code de la défense ont ainsi été modifiés pour permettre à la ministre d'accorder, sur proposition de l'autorité militaire, l'honorariat au grade immédiatement supérieur aux réservistes opérationnels très méritants. L'obtention de l'honorariat au grade immédiatement supérieur n'est donc pas de droit, contrairement à l'honorariat du grade détenu dès lors que le réserviste remplit les conditions fixées par le code de la défense. Il convient en effet de veiller à la cohérence des critères de reconnaissance conduisant à l'attribution de l'honorariat d'un grade supérieur afin de ne pas conduire à une situation qui permettrait à un réserviste opérationnel d'obtenir un grade, à travers l'honorariat, dans des conditions plus faciles que celles prévues pour la promotion des militaires d'active notamment. L'attribution de l'honorariat du grade immédiatement supérieur doit rester exceptionnelle et être encadrée par une procédure interarmées en cours d'élaboration. Un groupe de travail sous pilotage de l'état-major des armées a été mis en place à cet effet en fin d'année 2020 pour définir les actions qui méritent d'être valorisées. Les actions de combat et les actes de bravoure menés dans le cadre d'opérations extérieures ou sur le territoire national, un engagement hors norme du fait de sa durée en nombre d'années et de jours de réserve réalisés tous les ans, constituent à ce stade les pistes d'études de ce groupe de travail.
