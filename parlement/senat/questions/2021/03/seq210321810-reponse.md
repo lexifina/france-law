@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321810
+
+- Question : [SEQ210321810](seq210321810.md) — Contrat de fourniture d'une régie
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-05-13, page 3194*
+
+Avant le 1er avril 2016, seuls les marchés publics passés par les personnes soumises au code des marchés publics étaient des contrats administratifs par détermination de loi, en application de l'article 2 de la loi n° 2001-1168 du 11 décembre 2001 portant mesures urgentes de réformes à caractère économique et financier (loi dite « MURCEF »). La décision n° C3949 du Tribunal des conflits, rendue le 7 avril 2014, visait à déterminer le caractère de contrat administratif, ou de contrat de droit privé, d'un contrat qui n'était pas un marché public régi par le code des marchés publics alors applicable. Aujourd'hui, les personnes morales de droit public sont des pouvoirs adjudicateurs en application du 1° de l'article L. 1211-1 du code de la commande publique. Elles l'étaient antérieurement en application du 1° de l'article 10 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics, et du 1° du I de l'article 3 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics. Les régies dotées de l'autonomie financière et de la personnalité morale, également dénommées « établissements publics locaux » (CGCT, art. L. 2221-10), sont des personnes morales de droit public. Elles sont donc des pouvoirs adjudicateurs en application du 1° de l'article L. 1211-1 du code de la commande publique. Elles doivent, par conséquent, respecter les dispositions du code de la commande publique, y compris lorsqu'elles gèrent un service public industriel et commercial, dès lors qu'elles souhaitent conclure un contrat d'achat répondant à un besoin en matière de fournitures, de services ou de travaux.
