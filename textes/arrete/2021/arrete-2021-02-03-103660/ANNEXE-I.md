@@ -6,193 +6,197 @@ Répartition du quota de thon rouge en Méditerranée pour la France en 2021
 
 |
 
+|
+
+|
+
 Quota en mer méditerranée |
 
 Dont x tonnes mesurant
 
 entre 8 et 30 kg |
 
-Senneurs titulaires d'une AEP " thon rouge " : CHRISDERIC II immatriculé 863686 |
+Senneurs titulaires d'une AEP thon rouge : CHRISDERIC II immatriculé 863686 |
 
-147,2 |
+146,9 |
 
 |
 
 GERALD JEAN III immatriculé 916344 |
 
-150,7 |
+150,3 |
 
 |
 
 GERALD JEAN IV immatriculé 916469 |
 
-150,7 |
+150,3 |
 
 |
 
 ORION SEA STAR immatriculé 669329 |
 
-133,0 |
+132,7 |
 
 |
 
 VILLE D'ARZEW II immatriculé 860730 |
 
-143,6 |
+143,3 |
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-5,0 |
+6,5 |
 
 1,2 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-20,3 |
+20,8 |
 
 4,7 |
 
 TOTAL OP DU Levant |
 
-750,5 |
+750,8 |
 
 5,9 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-45,3 |
+45,2 |
 
 10,4 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-35,7 |
+35,6 |
 
 8,2 |
 
 TOTAL OP DU SUD |
 
-81,0 |
+80,8 |
 
 18,6 |
 
-Senneurs titulaires d'une AEP " thon rouge " : JEAN MARIE CHRISTIAN III immatriculé 781462 |
+Senneurs titulaires d'une AEP thon rouge : JEAN MARIE CHRISTIAN III immatriculé 781462 |
 
-356,0 |
+355,2 |
 
 |
 
 JEAN LOUIS RAPHAEL 2 immatriculé 819516 |
 
-169,9 |
+169,5 |
 
 |
 
 JEAN MARIE CHRISTIAN IV immatriculé 819527 |
 
-356,0 |
+355,2 |
 
 |
 
 JANVIER GIORDANO immatriculé 819571 |
 
-160,9 |
+160,5 |
 
 |
 
 ANNE ANTOINE 2 immatriculé 819572 |
 
-140,4 |
+140,1 |
 
 |
 
 ST SOPHIE FRANCOIS 2 immatriculé 859076 |
 
-228,0 |
+227,5 |
 
 |
 
 GERARD LUC IV immatriculé 900236 |
 
-285,6 |
+284,9 |
 
 |
 
 JEAN MARIE CHRISTIAN VI immatriculé 900265 |
 
-356,0 |
+355,2 |
 
 |
 
 JEAN MARIE CHRISTIAN VII immatriculé 900270 |
 
-356,0 |
+355,2 |
 
 |
 
 ST SOPHIE FRANCOIS 3 immatriculé 923752 |
 
-226,5 |
+226,0 |
 
 |
 
 ERIC MARIN immatriculé 924860 |
 
-140,4 |
+140,1 |
 
 |
 
 VILLE D'AGDE IV immatriculé 924880 |
 
-140,4 |
+140,1 |
 
 |
 
 JANVIER LOUIS RAPHAEL immatriculé 925310 |
 
-136,8 |
+136,5 |
 
 |
 
 CHRISDERIC V immatriculé 934489 |
 
-138,8 |
+138,5 |
 
 |
 
-Palangriers hauturiers titulaires d'une AEP " thon rouge " |
+Palangriers hauturiers titulaires d'une AEP thon rouge |
 
-132,7 |
+132,4 |
 
 11,3 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
-309,9 |
+309,2 |
 
 64,0 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
-30.7 |
+30.6 |
 
 4,1 |
 
 TOTAL SATHOAN |
 
-3 665,0 |
+3 656,7 |
 
 79,4 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
 11.5 |
 
 2,7 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
 21,6 |
 
@@ -204,25 +208,25 @@ TOTAL SPMO |
 
 7,8 |
 
-Senneurs titulaires d'une AEP " thon rouge " : PIERRE JOSEPH SALVADOR immatriculé 914222 |
+Senneurs titulaires d'une AEP thon rouge : PIERRE JOSEPH SALVADOR immatriculé 914222 |
 
-243,3 |
+242,8 |
 
 |
 
 VENT DU NORD II immatriculé 914221 |
 
-296,1 |
+295,4 |
 
 |
 
 CISBERLANDE 5 immatriculé 923751 |
 
-246,5 |
+245,9 |
 
 |
 
-Palangriers " petits métiers " titulaires d'une AEP " thon rouge " |
+Palangriers petits métiers titulaires d'une AEP thon rouge |
 
 et immatriculés dans un quartier maritime des Alpes maritimes |
 
@@ -232,7 +236,7 @@ et immatriculés dans un quartier maritime des Alpes maritimes |
 
 et immatriculés dans un quartier maritime des Bouches du Rhône |
 
-15,7 |
+14,2 |
 
 3,6 |
 
@@ -260,11 +264,11 @@ et immatriculés dans un quartier maritime des Pyrénées orientales |
 
 0,0 |
 
-Canneurs, ligneurs " petits métiers " titulaires d'une AEP " thon rouge " |
+Canneurs, ligneurs petits métiers titulaires d'une AEP thon rouge |
 
 et immatriculés dans un quartier maritime des Alpes maritimes |
 
-5,4 |
+4,9 |
 
 1,2 |
 
@@ -300,7 +304,7 @@ et immatriculés dans un quartier maritime des Pyrénées orientales |
 
 TOTAL HORS OP |
 
-822,4 |
+818,6 |
 
 8,3 |
 
@@ -312,10 +316,6 @@ Prises accessoires telles que définies par la réglementation en vigueur |
 
 TOTAL |
 
-|
-
-|
-
-5 363 |
+5 351 |
 
 120 |

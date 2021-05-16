@@ -20,15 +20,15 @@ Pour les prises accessoires |
 
 Navires adhérant à l'organisation de producteurs Les Pêcheurs d'Aquitaine |
 
-88,5 |
+88,7 |
 
-108,5 |
+108,2 |
 
-2 |
+1,6 |
 
 1 |
 
-Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP " thon rouge " : ST JEAN PPN (899847) |
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : ST JEAN PPN (899847) |
 
 30 |
 
@@ -52,7 +52,7 @@ Navires adhérant à l'organisation de producteurs Coopérative Bretagne-Nord (C
 
 0 |
 
-1 |
+0,9 |
 
 0 |
 
@@ -62,23 +62,23 @@ Navires adhérant à l'organisation de producteurs Fonds régional d'organisatio
 
 0 |
 
-1 |
+1,1 |
 
-1 |
+0,9 |
 
 15 |
 
 Navires adhérant à l'organisation de producteurs Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
 
-24 |
+23,9 |
 
-9 |
+9,1 |
 
 0 |
 
 3 |
 
-Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP " thon rouge " : ABLETTE (684904) |
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : ABLETTE (684904) |
 
 7 |
 
@@ -92,13 +92,13 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 18 |
 
-8 |
+7,8 |
 
 0 |
 
 0 |
 
-Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP " thon rouge " : MAGELLAN (684536) |
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : MAGELLAN (684536) |
 
 18 |
 
@@ -116,7 +116,7 @@ Navires adhérant à l'organisation de producteurs Organisation des Pêcheurs No
 
 0 |
 
-6 |
+6,5 |
 
 Navires adhérant à l'organisation de producteurs Organisation de producteurs des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
 
@@ -126,19 +126,19 @@ Navires adhérant à l'organisation de producteurs Organisation de producteurs d
 
 0 |
 
-1 |
+0,7 |
 
 Navires adhérant à l'organisation de producteurs Les Pêcheurs de Bretagne |
 
-194 |
+193,2 |
 
-16 |
+15,8 |
 
-8 |
+8,8 |
 
 18 |
 
-Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP " thon rouge " : KSORA (785715) |
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : KSORA (785715) |
 
 9 |
 
@@ -200,15 +200,15 @@ BARA AN ARVORIZ (933213) |
 
 Navires adhérant à l'organisation de producteurs de Vendée |
 
-61 |
+60,3 |
 
-5 |
+5,3 |
+
+0,7 |
 
 1 |
 
-1 |
-
-Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP " thon rouge " : LES BARGES (870580) |
+Dont limites de capture pour les chalutiers de plus de 24 mètres titulaires d'une AEP thon rouge : LES BARGES (870580) |
 
 10 |
 
@@ -226,14 +226,14 @@ Navires non adhérant à une organisation de producteurs au titre des prises acc
 
 |
 
-10 |
+9,5 |
 
 TOTAL |
 
-385,5 |
+384,1 |
 
-148,5 |
+148,2 |
 
 12 |
 
-57 |
+56,7 |
