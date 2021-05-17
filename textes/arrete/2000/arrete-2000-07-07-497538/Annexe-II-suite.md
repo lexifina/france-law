@@ -1208,9 +1208,7 @@ TTPN (Tous travaux de peinture et de nettoyage), 30, rue des Phocéens, 13002 Ma
 
 TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-Caillol, 13012 Marseille, 95, avenue des Caillols, 13012 Marseille, 23, bassin de Radoub, forme 7, enceinte portuaire, 13002 Marseille, de 1977 à 1987.
 
-Var Industrie :
-
-- 525, ZI Les Négadoux, 83140 Six-Fours : depuis 1979.
+Var Industrie Zone Industrielle Les Négadoux 83140 Six Fours Les Plages de 1979 à 2001.
 
 Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989
 
