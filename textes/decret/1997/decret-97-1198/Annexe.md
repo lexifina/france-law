@@ -1140,6 +1140,18 @@ Article 3-2 (I)
 
 Ministre chargé de la mer |
 
+59 |
+
+Décision autorisant la dérogation à l'obligation générale d'emplacements destinés au transport de vélo non démontés à bord des trains
+
+|
+
+Code des transports
+
+R. 1272-10 |
+
+Ministre chargé des transports |
+
 |
 
 Prévention des risques |
@@ -2723,7 +2735,3 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
-
-NOTA :
-
-Conformément à l'article 4 du décret n° 2021-177 du 17 février 2021, ces dispositions s'appliquent à compter du 1er mars 2021.
