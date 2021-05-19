@@ -1152,6 +1152,16 @@ R. 1272-10 |
 
 Ministre chargé des transports |
 
+59 |
+
+Décisions relatives aux demandes d'aide financière temporaire aux entreprises d'armement maritime au titre de l'année 2021
+
+|
+
+Article 6 du décret n° 2021-603 du 14 mai 2021 |
+
+Ministre chargé du transport maritime |
+
 |
 
 Prévention des risques |
@@ -2735,3 +2745,7 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+
+NOTA :
+
+Conformément à l'article 8 du décret n° 2021-603 du 14 mai 2021, ces dispositions entrent en vigueur à compter de la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer ces dispositions comme conformes au droit de l'Union européenne en matière d'aides d'Etat.
