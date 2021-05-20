@@ -118,7 +118,7 @@ TDCP
 
 |
 
-Bisphénol A (b)
+Bisphénol A
 
 |
 
@@ -186,13 +186,29 @@ Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin-3-one [n° ce 247-500
 
 |
 
-Phénol (a) |
+Phénol |
 
 108-95-2 |
 
 5 mg/ l (limite de migration) dans les matériaux polymères, conformément aux méthodes établies par les normes EN 71-10 : 2005 et EN 71-11 : 2005
 
 10 mg/ kg (teneur limite) pour les utilisations en tant qu'agent conservateur, conformément aux méthodes établies par les normes EN 71-10 : 2005 et EN 71-11 : 2005 |
+
+Formaldéhyde (a) |
+
+50-00-0 |
+
+1,5 mg/ l (limite de migration) dans les matériaux polymères des jouets
+
+0,1 ml/ m3 (limite d'émission) dans les matériaux composites à base de bois des jouets
+
+30 mg/ kg (teneur limite) dans les matériaux textiles des jouets
+
+30 mg/ kg (teneur limite) dans les matériaux en cuir des jouets
+
+30 mg/ kg (teneur limite) dans les matériaux en papier des jouets
+
+10 mg/ kg (teneur limite) dans les matériaux à base aqueuse des jouets |
 
 V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouets en application du 9 de la partie "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
@@ -676,11 +692,11 @@ grattée du jouet
 
 Aluminium |
 
-5 625 |
+2 250 |
 
-1 406 |
+560 |
 
-70 000 |
+28 130 |
 
 Antimoine |
 
@@ -754,7 +770,7 @@ Cuivre |
 
 7 700 |
 
-Plomb (c) |
+Plomb |
 
 2,00
 
@@ -832,8 +848,4 @@ Ces valeurs limites ne s'appliquent pas aux jouets ou composants de jouets qui, 
 
 NOTA :
 
-le (a) entre en vigueur le 4 novembre 2018.
-
-le (b) entre en vigueur le 26 novembre 2018.
-
-le (c) entre en vigueur le 28 octobre 2018.
+Conformément à l'article 2 de l'arrêté du 3 septembre 2020, ces dispositions entrent en vigueur le 20 mai 2021 sauf le (a) du tableau du IV qui entrera en vigueur le 21 mai 2021.
