@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219363
+
+- Question : [SEQ201219363](seq201219363.md) — Remise en état de palissades et procédure d'immeuble en péril
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-05-20, page 3297*
+
+Le Gouvernement est très attentif aux moyens dont disposent les communes pour résorber l'habitat indigne. La lutte contre l'habitat indigne constitue une priorité du Gouvernement qui est extrêmement sensible à la nécessité de rendre cette politique efficace. À ce titre, les différentes procédures de police administrative spéciale de lutte contre l'habitat indigne ont été profondément réformées par l'ordonnance n° 2020-1144 du 16 septembre 2020 relative à l'harmonisation et à la simplification des polices des immeubles, locaux et installations. L'ancienne police du péril a été intégrée, depuis le 1er janvier 2021, dans la police de la sécurité et de la salubrité des immeubles locaux et installations prévue aux articles L. 511-1 et suivants du code de la construction et de l'habitation. Cette police permet aux maires ou aux présidents d'établissements publics de coopération intercommunale, en cas de transfert fondé sur l'article L.5211-9-2 du code général des collectivités territoriales (CGCT), d'intervenir pour notamment mettre fin aux « risques présentés par les murs, bâtiments ou édifices quelconques qui n'offrent pas les garanties de solidité nécessaires au maintien de la sécurité des occupants et des tiers ». Le périmètre de cette police est certes large, car non limité à l'immeuble, toutefois elle n'intègre pas le risque causé par une palissade de protection (installation non pérenne). De plus, il n'existe pas d'exemple de ce type dans la jurisprudence applicable à l'ancienne police du péril. En revanche, le maire peut faire usage de sa police administrative générale pour y mettre fin en se fondant sur les articles L.2212-1 et suivants du CGCT.
