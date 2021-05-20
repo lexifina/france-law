@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422268
+
+- Question : [SEQ210422268](seq210422268.md) — Absence des groupements de collectivités touristiques du filet de sécurité pour l'année 2021
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-05-20, page 3310*
+
+L'article 21 de la troisième loi de finances rectificative pour 2020 du 30 juillet 2020 (LFR 3) a instauré un mécanisme garantissant à chaque commune et établissement public de coopération intercommunale (EPCI) à fiscalité propre que ses recettes fiscales et domaniales ne seront pas inférieures en 2020 à celles perçues en moyenne entre 2017 et 2019. Dans cette hypothèse, l'État leur verse une dotation égale à la différence. Le VIII de cet article 21 prévoyait que les groupements de collectivités territoriales qui ont perçu en 2019 et 2020 la taxe de séjour, le produit brut des jeux ou la taxe sur les remontées mécaniques pouvaient également être éligibles à cette dotation au titre de 2020, sous la réserve d'en réunir les conditions d'octroi. Dans ce cadre, un acompte a été versé sur cette dotation à 21 groupements de collectivités territoriales qui en ont fait la demande avant le 15 décembre 2020. Si l'article 74 de la loi de finances 2021 a prorogé ce mécanisme pour 2021, pour les recettes fiscales, pour les communes et les EPCI à fiscalité propre, il ne l'a effectivement pas fait pour les groupements de collectivités territoriales percevant de la taxe de séjour, le produit brut des jeux ou la taxe sur les remontées mécaniques. Le Gouvernement, qui poursuit les échanges avec les associations d'élus sur les questions de compensation, examinera, au cours des travaux de préparation de la loi de finances, l'opportunité d'étendre cette prorogation également à ces groupements de collectivités territoriales.
