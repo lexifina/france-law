@@ -190,7 +190,7 @@ HAUTE-CORSE |
 
 21 |
 
-CÔTE-D'OR |
+COTE-D'OR |
 
 1,00 |
 
@@ -810,7 +810,7 @@ DIRECTION DE LA SECURITE DE L'AVIATION CIVILE SUD-OUEST |
 
 1,00 |
 
-Les coefficients de modulation pour les services du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) sont les suivants :
+Les coefficients de modulation pour les services du Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) sont les suivants :
 
 SERVICES DU CEREMA |
 
@@ -828,11 +828,11 @@ DIRECTIONS TECHNIQUES OU DIRECTIONS TERRITORIALES : |
 
 1.20 |
 
--Implantation de Blois, Brest, Compiègne, Le Bourget, Metz, Nancy, Provins, Saint-Mandé, Sourdun, Strasbourg et Trappes |
+-Implantation de Blois, Brest, Compiègne, Le Bourget, Metz, Nancy, Provins, Rouen/ Le Grand-Quevilly, Saint-Mandé, Sourdun, Strasbourg, Trappes et Verneuil l'Etang |
 
 1.10 |
 
--Implantation d'Aix-en-Provence, Angers, Autun, Bordeaux, Bron, Clermont-Ferrand, l'Isle d'Abeau, Lyon, Montpellier, Nantes, Saint-Brieuc, Sofia Antipolis et Toulouse. |
+-Implantation d'Aix-en-Provence, Angers, Autun, Bordeaux, Bron, Clermont-Ferrand, l'Isle d'Abeau, Lyon, Montpellier, Nantes, Saint-Brieuc, Sofia Antipolis et Toulouse |
 
 1.00 |
 
@@ -870,9 +870,9 @@ DIRECTION TERRITORIALE SUD-OUEST |
 
 1,00 |
 
-Les agents affectés à l'Agence nationale de contrôle du logement social (ANCOLS) bénéficient d'un coefficient de 1.10.
+Les agents affectés à l'agence nationale de contrôle du logement social (ANCOLS) bénéficient d'un coefficient de 1.10.
 
-Les agents affectés dans les services des directions générales et des directions centrales des établissements publics Météo-France, IGN (Institut national de l'information géographique et forestière) et à l'université Gustave-Eiffel bénéficient d'un coefficient de 1.10.
+Les agents affectés dans les services des directions générales et des directions centrales des établissements publics Météo-France, IGN (Institut national de l'information géographique et forestière) et à l'Université Gustave Eiffel bénéficient d'un coefficient de 1.10.
 
 Les coefficients de modulation pour les directions, services d'administration centrale et écoles sont les suivants :
 
@@ -884,15 +884,19 @@ Agents en position d'activité dans les directions générales, les directions e
 
 1,10 |
 
-Agents affectés à l'Ecole nationale des techniciens de l'équipement de Valenciennes |
+Agents affectés à l'École nationale des techniciens de l'équipement de Valenciennes |
 
 1,20 |
 
-Agents affectés à l'Ecole nationale des techniciens de l'équipement d'Aix-en-Provence |
+Agents affectés à l'École nationale des techniciens de l'équipement d'Aix-en-Provence |
 
 1,10 |
 
-Agents affectés à l'Ecole nationale de l'aviation civile |
+Agents affectés à l'École nationale des travaux publics de l'Etat |
+
+1,10 |
+
+Agents affectés à l'École nationale de l'aviation civile |
 
 1,00 |
 
@@ -921,7 +925,5 @@ AISNE, NORD, OISE, PAS-DE-CALAIS, SOMME |
 Les fonctionnaires stagiaires bénéficient du coefficient 1,00, à l'exception de ceux affectés dans les services déconcentrés qui bénéficient du coefficient de leur service.
 
 NOTA :
-
-Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer (les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 Décret n° 2013-1273 du 27 décembre 2013, article 26 : Dans tous les textes réglementaires en vigueur qui les mentionnent, les mots : "centre d'études techniques de l'équipement", "centre d'études techniques de l'équipement de l'Est", "centre d'études techniques de l'équipement de Lyon", "centre d'études techniques de l'équipement Méditerranée", "centre d'études techniques de l'équipement Normandie Centre", "centre d'études techniques de l'équipement Nord-Picardie", "centre d'études techniques de l'équipement de l'Ouest", "centre d'études techniques de l'équipement Sud-Ouest", "centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques", "centre d'études techniques maritimes et fluviales" et "service d'études sur les transports, les routes et leurs aménagements" sont remplacés par les mots : "centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement".
