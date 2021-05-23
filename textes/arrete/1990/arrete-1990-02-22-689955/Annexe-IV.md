@@ -605,3 +605,41 @@ Notamment :
 isopropylphénidate et ses sels ;
 
 propylphénidate (PPH) et ses sels.
+
+- Isotonitazène ou N, N-diéthyl-2-[[4-(1-méthyléthoxy) phényl] méthyl]-5-nitro-1H-benzimidazol-1-éthanamine.
+
+- 1B-LSD ;
+
+- 1P-ETH-LAD ;
+
+- 1P-LSD ;
+
+- ALD-52 ;
+
+- AL-LAD ou ALLY-LAD ;
+
+- ECPLA ;
+
+- EIPLA ;
+
+- ETH-LAD ;
+
+- LAH ou LSH ;
+
+- LAMPA ;
+
+- LSA ;
+
+- LSB ;
+
+- LSM-775 ;
+
+- LSZ ;
+
+- MIPLA ;
+
+- OML-632 ;
+
+- PARGY-LAD ;
+
+- PRO-LAD.
