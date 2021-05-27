@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422562
+
+- Question : [SEQ210422562](seq210422562.md) — Rapatriement des enfants français en Syrie et de leurs mères
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-05-27, page 3406*
+
+La situation des personnes qui se trouvent actuellement retenues dans le Nord-Est syrien est évidemment terrible et suscite chez ceux qui ont vu partir un fils ou une fille à la fois incompréhension et désarroi. Les personnes adultes, hommes et femmes, qui sont aujourd'hui détenues ou retenues dans des camps de réfugiés et de déplacés du Nord-Est syrien ont pris la décision de rejoindre les rangs de Daech, organisation terroriste, qui s'est livrée à des exactions avant tout contre ses victimes syriennes et irakiennes. Il ne saurait y avoir d'impunité pour de tels crimes. Il s'agit d'un défi international. La lutte contre l'impunité de ces combattants de Daech doit être traitée collectivement entre partenaires de la Coalition, et les autorités françaises s'y emploient en tenant compte du caractère à la fois très grave et proprement exceptionnel des actes commis dans cette région entre la création du califat territorial de Daech et sa chute. À la différence de leurs parents, les enfants n'ont pas choisi de rejoindre la cause d'une organisation terroriste. Ils sont passés de l'enfer de Daech à la vie de ces camps. La priorité absolue des autorités françaises est de ramener ces enfants. Ces opérations de rapatriement sont extrêmement difficiles à mener, car il s'agit d'une zone de guerre, encore très dangereuse, sur laquelle le gouvernement n'a aucun contrôle effectif. Dès que cela est possible, le gouvernement organise de telles opérations, mais cela demande un travail de négociation et de préparation très ardu. Le ministère de l'Europe et des affaires étrangères soutient par ailleurs le travail que les organisations humanitaires internationales mènent à leur endroit.
