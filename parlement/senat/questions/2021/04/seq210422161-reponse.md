@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422161
+
+- Question : [SEQ210422161](seq210422161.md) — Augmentation des droits de scolarité à l'école des arts et métiers
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2021-05-27, page 3400*
+
+Les droits de scolarité pour la plupart des écoles d'ingénieurs qui relèvent du ministère de l'enseignement supérieur, de la recherche et de l'innovation ont été fixé à 601 € par l'arrêté interministériel du 19 avril 2019 relatif aux droits d'inscription dans les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur. Ce montant est maintenu pour l'année 2021-2022 compte tenu de la crise sanitaire. Les étudiants préparant le titre d'ingénieur diplômé de l'école nationale supérieure des arts et métiers (ENSAM) acquitteront donc ce montant pour la prochaine rentrée. Certaines écoles d'ingénieurs ont fait le choix de porter ce montant à 2 500 € eu égard à la formation dispensée ou au public concerné : les écoles centrales, constituées sous la forme d'une école extérieure aux universités, et l'école des mines de Nancy, composante de l'université de Lorraine. D'autres établissements publics relevant d'autres départements ministériels tels que les ministères chargés de l'industrie, de l'économie, de l'agriculture ou de la défense ont également fixé des montants des droits d'inscription compris entre 1 800 € et 3 500 €, par arrêtés interministériels distincts. Il n'a pas été donné de suite favorable à la demande de l'ENSAM en vue de procéder à une telle modification des droits d'inscription acquittés par ses étudiants, la réflexion engagée par l'école n'apparaissant pas mûre à ce jour. En tout état de cause, toute évolution en ce sens doit être concertée avec la communauté éducative et avoir pour objectif une amélioration des conditions d'accueil, de travail et d'orientation des étudiants.
