@@ -1,0 +1,9 @@
+# Dracénie Provence Verdon agglomération : séance 01 - Ordre du Jour
+
+- Collectivité : Dracénie Provence Verdon agglomération
+- SIREN : 248300493
+- Date : 2021-05-27
+- Objet : (non reproduit : désigne une personne ou une mesure individuelle / names a person or is an individual measure)
+- Pages : 1
+- Acte publié : https://www.datasud.fr/fr/dataset/datasets/2693/resource/3145/download/#2021/2021_05_27/01 - Ordre du Jour.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/667cacc74be7d63d6436b54a
