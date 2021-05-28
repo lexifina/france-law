@@ -48,6 +48,10 @@ Pour l'année 2020
 
 17 |
 
+Pour les années 2021 et 2022 |
+
+18 |
+
 Ces taux sont également applicables au corps des professeurs des écoles du corps de l'Etat créé pour la Polynésie française, régi par le décret n° 2003-1260 du 23 décembre 2003
 
 |
@@ -74,6 +78,10 @@ Pour les années 2018, 2019 et 2020 |
 
 17 |
 
+Pour les années 2021 et 2022 |
+
+18 |
+
 Corps des professeurs certifiés
 
 Régi par le décret n° 72-581 du 4 juillet 1972 modifié
@@ -93,6 +101,10 @@ Professeur certifié hors classe
 Pour les années 2018, 2019 et 2020 |
 
 17 |
+
+Pour les années 2021 et 2022 |
+
+18 |
 
 Corps des professeurs d'éducation physique et sportive
 
@@ -114,6 +126,10 @@ Pour les années 2018, 2019 et 2020 |
 
 17 |
 
+Pour les années 2021 et 2022 |
+
+18 |
+
 Corps des professeurs de lycée professionnel
 
 Régi par le décret n° 92-1189 du 6 novembre 1992 modifié
@@ -133,6 +149,10 @@ Professeur de lycée professionnel hors classe
 Pour les années 2018, 2019 et 2020 |
 
 17 |
+
+Pour les années 2021 et 2022 |
+
+18 |
 
 Corps des professeurs d'enseignement général de collège (en voie d'extinction)
 
@@ -206,6 +226,10 @@ Pour les années 2018, 2019 et 2020 |
 
 17 |
 
+Pour les années 2021 et 2022 |
+
+18 |
+
 Corps des psychologues de l'éducation nationale
 
 Régi par le décret n° 2017-120 du 1er février 2017 portant dispositions statutaires relatives aux psychologues de l'éducation nationale
@@ -223,3 +247,7 @@ Psychologue de l'éducation nationale hors classe
 Pour les années 2018, 2019 et 2020 |
 
 17 |
+
+Pour les années 2021 et 2022 |
+
+18 |
