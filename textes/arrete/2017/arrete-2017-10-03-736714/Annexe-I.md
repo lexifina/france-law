@@ -1,6 +1,6 @@
 # Article Annexe I
 
-RÉFÉRENTIEL DE COMPÉTENCES ET D'ÉVALUATION “ MISE À NIVEAU VOL LIBRE ”
+REFERENTIEL DE COMPETENCES ET D'EVALUATION “ MISE A NIVEAU VOL LIBRE ”
 
 REFERENTIEL DE COMPETENCES
 
@@ -28,13 +28,13 @@ Entretien à partir de l'analyse de sa pratique professionnelle : retours d'exp�
 
 Le candidat est capable d':
 
--Isoler les causes d'incidents en rapport avec les statistiques ;
+-isoler les causes d'incidents en rapport avec les statistiques ;
 
--Évaluer les risques et leurs conséquences civiles et/ ou pénales. |
+-évaluer les risques et leurs conséquences civiles et/ ou pénales. |
 
 Actualisation des savoirs et savoir-faire dans le domaine de l'assistance et du secours |
 
-C2 Actualiser les savoirs et savoir-faire dans le domaine de l'assistance et du secours afin d'intervenir auprès d'une personne en détresse.
+C2-Actualiser les savoirs et savoir-faire dans le domaine de l'assistance et du secours afin d'intervenir auprès d'une personne en détresse.
 
 C 2.1 Intervenir auprès d'une personne en détresse urgente ou imminente
 
@@ -42,19 +42,21 @@ C 2.2 Appliquer les techniques de secourisme en milieu naturel
 
 C 2.3 Maîtriser les étapes du déclenchement des secours |
 
-Mise en situation professionnelle simulée à partir de cas concrets dans le domaine de l'assistance et du secours. |
+Questionnaire écrit portant sur les connaissances et savoir-faire nécessaires dans le domaine de l'assistance et du secours aux victimes
 
-Le candidat est capable de :
+Des évaluations en contrôle continu lors de mises en situation professionnelle simulées à partir de cas concrets dans le domaine de l'assistance et du secours se dérouleront en cours de formation. |
 
--Faire un bilan ;
+Le candidat :
 
--Donner l'alerte ;
+-assure la protection, pour la victime, lui-même et d ‘ éventuels témoins ;
 
--Effectuer les manipulations (positionnement latérale de sécurité PLS, retournement) de victime harnachée ; massage cardiaque externe MCE et défibrillateur automatisé externe DAE. |
+-sait mettre en œuvre les gestes techniques et les procédures de premiers secours (selon programme des Gestes Qui Sauvent ) et empêche l'aggravation de l'état de la victime en attendant les secours ;
+
+-transmet une alerte, au service adapté, en tenant compte des spécificités de son activité et du milieu. |
 
 Actualisation des compétences techniques et pédagogiques en vol libre |
 
-C3. Actualiser les compétences techniques et pédagogiques en vol libre afin de s'approprier l'évolution des techniques et des pratiques.
+C3.-Actualiser les compétences techniques et pédagogiques en vol libre afin de s'approprier l'évolution des techniques et des pratiques.
 
 C 3.1. Appréhender l'évolution des matériels et des matériaux
 
