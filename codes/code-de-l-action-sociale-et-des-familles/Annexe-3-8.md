@@ -14,7 +14,7 @@ Le contrat type prévu dans le cadre d'un accueil familial, article L. 442-1 du 
 
 Le contrat fixe également le montant de l'indemnité représentative des frais d'entretien courant de la personne accueillie et l'indemnité représentative de mise à disposition de la ou des pièces réservées à la personne accueillie.
 
-Un contrat d'accueil est obligatoirement signé entre l'accueillant familial et chaque personne accueillie ou, s'il y a lieu, son représentant légal.
+Un contrat d'accueil est obligatoirement signé entre l'accueillant familial et chaque personne accueillie ou, s'il y a lieu, la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne.
 
 Contrat établi
 
@@ -50,7 +50,7 @@ Né (e) le :
 
 Domicile antérieur :
 
-Représenté par M./ Mme... (préciser la qualité : tuteur, curateur...).
+Représenté par M./ Mme...
 
 Assisté par M./ Mme... (préciser la qualité : famille, autre).
 
@@ -166,7 +166,7 @@ Vis-à-vis du service chargé du suivi de la personne accueillie à :
 
 - l'alerter et l'informer de tout événement affectant le bon déroulement de l'accueil.
 
-Art. 3. - Obligations de la personne accueillie et/ ou de son représentant
+Art. 3. - Obligations de la personne accueillie et/ ou de la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne
 
 La personne accueillie et son représentant s'engagent à respecter la vie familiale de l'accueillant, à faire preuve de réserve et de discrétion et à adopter un comportement courtois à l'égard de l'accueillant familial et de sa famille.
 
@@ -180,7 +180,7 @@ Les attestations relatives à ces contrats sont jointes en annexe.
 
 Disposition particulière :
 
-Protection juridique : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial peut en informer le juge d'instance compétent et doit, concomitamment, en informer le président du conseil départemental.
+Protection juridique : s'il s'avère que la personne accueillie a besoin d'une mesure de protection juridique, l'accueillant familial peut en informer le procureur de la République compétent et doit, concomitamment, en informer le président du conseil départemental.
 
 Art. 5. - Conditions financières de l'accueil
 
@@ -350,14 +350,10 @@ L'accueillant familial (*),
 
 |
 
-La personne accueillie ou son représentant légal,
+La personne accueillie ou la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne,
 
 |
 
 (*) En cas d'agrément d'un couple, les deux membres doivent signer.
 
 |
-
-NOTA :
-
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

@@ -8,7 +8,7 @@ Préambule
 
 L'accueil à titre onéreux, par des particuliers, de personnes âgées ou adultes handicapées, constitue une réponse adaptée, parmi la palette des réponses offertes aux personnes âgées ou handicapées qui ne désirent plus ou ne peuvent plus, en raison de leur perte d'autonomie ou de leur handicap, demeurer à leur domicile. Elle leur permet de bénéficier d'un mode d'accueil intermédiaire entre le maintien à domicile et l'hébergement collectif en établissement ou de répondre à des situations de prise en charge temporaire, pendant des vacances ou après une hospitalisation. Ce mode d'accueil, que le Gouvernement souhaite développer parce qu'il répond à une attente forte de ces personnes et de leur famille, constitue une formule souple, recherchée en raison des avantages qu'elle présente. Elle permet généralement, par la proximité géographique du lieu de l'accueil, à la personne âgée ou handicapée de maintenir des liens tissés avec son environnement antérieur tout en lui offrant un cadre familial et sécurisant. Elle présente également un grand intérêt pour la collectivité, par le potentiel d'emplois qu'elle représente.
 
-Un contrat d'accueil est obligatoirement signé entre l'accueillant familial et chaque personne accueillie ou, s'il y a lieu, son représentant légal. Ce contrat, conclu dans le cadre d'une rémunération directe de l'accueillant familial par la personne accueillie, fixe les conditions matérielles, humaines et financières de l'accueil.
+Un contrat d'accueil est obligatoirement signé entre l'accueillant familial et chaque personne accueillie ou, s'il y a lieu, la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne. Ce contrat, conclu dans le cadre d'une rémunération directe de l'accueillant familial par la personne accueillie, fixe les conditions matérielles, humaines et financières de l'accueil.
 
 Pendant la période d'absence de l'accueillant familial pour congés :
 
@@ -80,7 +80,7 @@ Né (e) le :
 
 Domicile antérieur :
 
-Représenté (e) par M./ Mme ... (préciser la qualité : tuteur, curateur...)
+Représenté (e) par M./ Mme ...
 
 Assisté (e) par M./ Mme ... (préciser la qualité : famille, autres)
 
@@ -214,7 +214,7 @@ Article 3
 
 Obligations de la personne acccueillie et/ ou de son représentant
 
-La personne accueillie et son représentant s'engagent à respecter la vie familiale de l'accueillant, à faire preuve de réserve et de discrétion et à adopter un comportement courtois à l'égard de l'accueillant familial et de sa famille.
+La personne accueillie et la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne s'engagent à respecter la vie familiale de l'accueillant, à faire preuve de réserve et de discrétion et à adopter un comportement courtois à l'égard de l'accueillant familial et de sa famille.
 
 Article 4
 
@@ -352,7 +352,7 @@ Le remplacement en cas d'absence de l'accueillant familial
 
 Le principe qui prévaut dans le dispositif de l'accueil familial est celui de la continuité de l'accueil ; par ailleurs, le contrôle exercé par le président du conseil départemental porte également sur le remplaçant de l'accueillant familial.
 
-Les différentes solutions envisagées pour le remplacement de l'accueillant familial doivent tenir compte de l'avis de la personne accueillie ou de son représentant légal.
+Les différentes solutions envisagées pour le remplacement de l'accueillant familial doivent tenir compte de l'avis de la personne accueillie ou de la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne.
 
 Nom du ou des remplaçants : (à compléter)
 
@@ -436,7 +436,7 @@ L'accueillant familial (*)
 
 La personne accueillie
 
-(ou son représentant légal)
+(ou la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne)
 
 (*) En cas d'agrément d'un couple, les deux membres doivent signer.
 
@@ -467,8 +467,6 @@ Eventuellement nom d'épouse :
 Né (e) le :
 
 Représenté (e) par M./ Mme ...
-
-(préciser la qualité : tuteur, curateur...)
 
 Assisté (e) par M./ Mme ... (préciser la qualité : famille, autres)
 
@@ -512,12 +510,8 @@ L'accueillant familial (*)
 
 La personne accueillie
 
-(ou son représentant légal)
+(ou la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne)
 
 Le remplaçant
 
 (*) En cas d'agrément d'un couple, les deux membres doivent signer.
-
-NOTA :
-
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

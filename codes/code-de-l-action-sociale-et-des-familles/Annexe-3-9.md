@@ -4,7 +4,7 @@ MODELE DE " CONTRAT DE SOUTIEN ET D'AIDE PAR LE TRAVAIL " ETABLI ENTRE L'ETABLIS
 
 Entre Mme, Mlle, M. (usager)...
 
-(le cas échéant), représenté (e) par Mme, Mlle, M. (tuteur-tutrice)...,
+(le cas échéant), représenté (e) par Mme, Mlle, M., la personne chargée à son égard d'une mesure de protection juridique avec représentation ...,
 
 et l'association (ou l'établissement public) gestionnaire de l'établissement ou du service d'aide par le travail (nom de l'établissement ou du service d'aide par le travail)...,
 
@@ -20,11 +20,11 @@ Art. 1er. - Définition-établissement-signature
 
 Le présent contrat de soutien et d'aide par le travail définit les droits et les obligations réciproques de l'établissement ou du service d'aide par le travail X et de Mme, Mlle, M. Y, afin d'encadrer l'exercice des activités à caractère professionnel et la mise en oeuvre du soutien médico-social et éducatif afférent à ces activités.
 
-Le présent contrat est élaboré en collaboration avec Mme, Mlle, M. Y, accompagné le cas échéant de son représentant légal, en prenant en compte l'expression de ses besoins et de ses attentes ainsi que les conditions d'organisation et de fonctionnement propres à l'établissement ou au service X, telles que définies dans la convention d'aide sociale passée le..., avec le représentant de l'Etat dans le département ainsi que, le cas échéant, dans la convention passée en application de l'article R. 243-8 du code de l'action sociale et des familles définissant la politique de l'établissement en faveur des travailleurs handicapés.
+Le présent contrat est élaboré en collaboration avec Mme, Mlle, M. Y, accompagné le cas échéant de la personne chargée à son égard d'une mesure de protection juridique avec représentation, en prenant en compte l'expression de ses besoins et de ses attentes ainsi que les conditions d'organisation et de fonctionnement propres à l'établissement ou au service X, telles que définies dans la convention d'aide sociale passée le..., avec le représentant de l'Etat dans le département ainsi que, le cas échéant, dans la convention passée en application de l'article R. 243-8 du code de l'action sociale et des familles définissant la politique de l'établissement en faveur des travailleurs handicapés.
 
 Il est signé au plus tard dans le mois qui suit son admission dans l'établissement ou le service.
 
-Pour la signature du contrat, la personne accueillie ou son représentant légal peut être accompagnée de la personne de son choix.
+Pour la signature du contrat, la personne accueillie ou la personne chargée à son égard d'une mesure de protection juridique avec représentation peut être accompagnée de la personne de son choix.
 
 Le présent contrat est transmis pour information à la maison départementale des personnes handicapées au nom de laquelle la commission des droits et de l'autonomie a prononcé l'orientation.
 
@@ -68,11 +68,11 @@ Pour la réalisation des engagements prévus au présent contrat et par ses aven
 
 Art. 8. - Assistance de la personne accueillie en cas de difficultés en cours de prise en charge
 
-En cas de difficultés dans l'application du présent contrat, ou de l'un de ses avenants, et à l'initiative de l'un ou l'autre des cocontractants, des temps de rencontre et d'expression doivent être organisés avec la personne responsable de l'établissement ou du service d'aide par le travail. A cette occasion, Mme, Mlle, M. Y peut être accompagné (e) d'un membre du personnel ou d'un usager de l'établissement ou du service, de son représentant légal ou d'un membre de sa famille, ou bien faire appel à la personne qualifiée extérieure à l'établissement et choisie sur une liste départementale telle que mentionnée à l'article L. 311-5 du code de l'action sociale et des familles.
+En cas de difficultés dans l'application du présent contrat, ou de l'un de ses avenants, et à l'initiative de l'un ou l'autre des cocontractants, des temps de rencontre et d'expression doivent être organisés avec la personne responsable de l'établissement ou du service d'aide par le travail. A cette occasion, Mme, Mlle, M. Y peut être accompagné (e) d'un membre du personnel ou d'un usager de l'établissement ou du service, de la personne chargée à son égard d'une mesure de protection juridique avec représentation ou d'un membre de sa famille, ou bien faire appel à la personne qualifiée extérieure à l'établissement et choisie sur une liste départementale telle que mentionnée à l'article L. 311-5 du code de l'action sociale et des familles.
 
 Art. 9. - Mesure de protection juridique
 
-Dès lors que Mme, Mlle, M. Y bénéficie d'une mesure de protection juridique, les signataires du présent contrat attestent qu'il/ qu'elle a été partie prenante dans son élaboration et qu'il/ qu'elle a pu donner son consentement, dans toute la mesure du possible.
+Dès lors que Mme, Mlle, M. Y bénéficie d'une mesure de protection juridique avec représentation, les signataires du présent contrat attestent qu'il/ qu'elle a été partie prenante dans son élaboration et qu'il/ qu'elle a pu donner son consentement, dans toute la mesure du possible.
 
 Art. 10. - Modification ou suspension du contrat de soutien et d'aide par le travail
 

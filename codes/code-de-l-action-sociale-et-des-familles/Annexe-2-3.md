@@ -58,11 +58,11 @@ Mentionner le cas échéant l'existence d'une mesure de protection juridique :
 
 - sauvegarde de justice
 
-- curatelle
+- mesure de protection juridique avec assistance
 
-- tutelle
+- mesure de protection juridique avec représentation
 
-Nom et adresse du tuteur ou de l'association chargée de la mesure :
+Nom et adresse de la personne chargée à son égard d'une mesure de protection juridique avec représentation ou de l'association chargée de la mesure :
 
 Coordonnées de la personne référente à contacter pour la visite d'évaluation à domicile ou en cas d'urgence (enfant, parent, autre..........) : adresse, numéro de téléphone.
 
