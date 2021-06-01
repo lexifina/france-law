@@ -2,17 +2,15 @@
 
 PRINCIPES DE L'OCDE DE BONNES PRATIQUES DE LABORATOIRE (BPL)
 
-Section I
+Section I : Introduction
 
-Introduction
-
-Les principes de bonnes pratiques de laboratoire (BPL) adoptés par le Conseil de l'OCDE en 1981, en annexe à la décision du Conseil relative à l'acceptation mutuelle des données pour l'évaluation des produits chimiques (C[81] 30 final), ont été révisés et mis à jour par le présent document.
+Les principes de bonnes pratiques de laboratoire (BPL) adoptés par le Conseil de l'OCDE en 1981, en annexe à la décision du Conseil relative à l'acceptation mutuelle des données pour l'évaluation des produits chimiques (C [81] 30 final), ont été révisés et mis à jour par le présent document.
 
 Les présents principes relatifs aux bonnes pratiques de laboratoire ont pour objet de promouvoir l'obtention de données d'essai de qualité. Une qualité comparable des données d'essai est la base même de l'acceptation mutuelle de ces données par les pays. Si chaque pays peut se fier sans réserve aux données d'essais obtenues dans d'autres pays, il sera possible d'éviter une répétition des essais et donc d'économiser du temps et des ressources. L'application de ces principes devrait contribuer à empêcher la création d'obstacles techniques aux échanges et améliorer encore la protection de la santé humaine et de l'environnement.
 
 1. Champ d'application
 
-Les présents principes relatifs aux bonnes pratiques de laboratoire devront s'appliquer aux essais de sécurité non cliniques pratiqués sur des éléments contenus dans des pesticides, des additifs pour l'alimentation humaine et animale et des produits chimiques industriels. Ces éléments soumis à des essais sont souvent des produits chimiques de synthèse, mais peuvent avoir une origine naturelle ou biologique et être des organismes vivants dans certaines circonstances. Les essais effectués sur ces éléments visent à fournir des données sur leurs propriétés et/ou leur innocuité du point de vue de la santé humaine et/ou de l'environnement.
+Les présents principes relatifs aux bonnes pratiques de laboratoire devront s'appliquer aux essais de sécurité non cliniques pratiqués sur des éléments contenus dans des pesticides, des additifs pour l'alimentation humaine et animale et des produits chimiques industriels. Ces éléments soumis à des essais sont souvent des produits chimiques de synthèse, mais peuvent avoir une origine naturelle ou biologique et être des organismes vivants dans certaines circonstances. Les essais effectués sur ces éléments visent à fournir des données sur leurs propriétés et/ ou leur innocuité du point de vue de la santé humaine et/ ou de l'environnement.
 
 Les études de sécurité non cliniques ayant trait à la santé et à l'environnement couvertes par les principes de bonnes pratiques de laboratoire comprennent les recherches effectuées au laboratoire, en serre et sur le terrain.
 
@@ -24,9 +22,7 @@ Sauf dérogation prévue par des dispositions particulières, les présents prin
 
 Les bonnes pratiques de laboratoire forment un système de garantie de qualité portant sur le mode d'organisation des études de sécurité non cliniques ayant trait à la santé et à l'environnement et sur les conditions dans lesquelles ces études sont planifiées, réalisées, contrôlées, enregistrées, archivées et diffusées.
 
-2.2. Termes relatifs à l'organisation
-
-d'une installation d'essai
+2.2. Termes relatifs à l'organisation d'une installation d'essai
 
 1. L'installation d'essai comprend les personnes, les locaux et les équipements qui sont nécessaires à la réalisation de l'étude de sécurité non clinique ayant trait à la santé et à l'environnement. Pour les études multisites, réalisées sur plusieurs sites, l'installation d'essai comprend le site où se trouve le directeur de l'étude et tous les autres sites d'essai, qui peuvent être considérés individuellement ou collectivement comme des installations d'essai.
 
@@ -48,11 +44,9 @@ d'une installation d'essai
 
 10. Le schéma directeur (plan chronologique des études) est une compilation des informations devant aider à l'évaluation de la charge de travail et au suivi des études réalisées dans une installation d'essai.
 
-2.3. Termes relatifs à l'étude de sécurité non clinique
+2.3. Termes relatifs à l'étude de sécurité non clinique ayant trait à la santé et à l'environnement
 
-ayant trait à la santé et à l'environnement
-
-1. Une étude de sécurité non clinique ayant trait à la santé et à l'environnement, appelée simplement " étude " ci-après, consiste en une expérience ou un ensemble d'expériences au cours desquelles on examine un élément d'essai, au laboratoire ou dans l'environnement, en vue d'obtenir sur ses propriétés et/ou sur sa sécurité des données destinées à être soumises aux autorités réglementaires compétentes.
+1. Une étude de sécurité non clinique ayant trait à la santé et à l'environnement, appelée simplement " étude " ci-après, consiste en une expérience ou un ensemble d'expériences au cours desquelles on examine un élément d'essai, au laboratoire ou dans l'environnement, en vue d'obtenir sur ses propriétés et/ ou sur sa sécurité des données destinées à être soumises aux autorités réglementaires compétentes.
 
 2. Une étude à court terme est une étude de courte durée réalisée avec des techniques courantes, largement utilisées.
 
@@ -64,7 +58,7 @@ ayant trait à la santé et à l'environnement
 
 6. Le système d'essai désigne tout système biologique, chimique ou physique, ou toute combinaison de ceux-ci, qui est utilisé dans une étude.
 
-7. Les données brutes représentent l'ensemble des comptes rendus et des documents originaux de l'installation d'essai ou des copies conformes de ceux-ci, qui résultent des observations et des travaux originaux réalisés dans le cadre d'une étude. Les données brutes peuvent aussi comporter, par exemple, des photographies, des copies sur microfilm ou sur microfiche, des données sur support informatique, des relevés d'observations sur cassette, des enregistrements automatiques de données ou tout autre moyen de conservation de données réputé capable d'assurer un stockage des informations en toute sécurité pour une certaine durée, comme indiqué à la section 10 ci-dessous.
+7. Les données brutes représentent l'ensemble des comptes rendus et des documents originaux de l'installation d'essai ou des copies conformes de ceux-ci, qui résultent des observations et des travaux originaux réalisés dans le cadre d'une étude. Les données brutes peuvent aussi comporter, par exemple, des photographies, des copies sur microfilm ou sur microfiche, des données sur support informatique, des relevés d'observations sur cassette, des enregistrements automatiques de données ou tout autre moyen de conservation de données réputé capable d'assurer un stockage des informations en toute sécurité pour une certaine durée, comme indiqué au paragraphe 10 de la section II ci-dessous.
 
 8. Un spécimen désigne tout matériau prélevé dans un système d'essai pour examen, analyse ou conservation.
 
@@ -86,13 +80,7 @@ ayant trait à la santé et à l'environnement
 
 4. Un véhicule représente tout agent dont on se sert comme milieu porteur pour mélanger, disperser ou solubiliser l'élément d'essai ou de référence en vue de faciliter son administration ou son application au système d'essai.
 
-Section II
-
-Principes de bonnes pratiques de laboratoire
-
-1. Organisation et personnel de l'installation d'essai
-
-1.1. Responsabilités de la direction de l'installation d'essai
+Section II : Principes de bonnes pratiques de laboratoire 1. Organisation et personnel de l'installation d'essai 1.1. Responsabilités de la direction de l'installation d'essai
 
 1. La direction de toute installation d'essai doit veiller au respect des présents principes relatifs aux bonnes pratiques de laboratoire dans l'installation et s'assurer de la bonne exécution, chez tout sous-traitant dont l'activité concerne une partie de l'étude, des tâches nécessaires à ce respect.
 
@@ -134,7 +122,7 @@ q) Instaurer des procédures garantissant que les systèmes informatiques convie
 
 3. Lorsqu'une ou plusieurs phases d'une étude se déroulent sur un site d'essai, la direction du site (si on en a désigné une) assumera les responsabilités décrites précédemment, à l'exception de celles qui figurent aux points 1.1.2 (g, i, j et o).
 
-4. Responsabilités du directeur de l'étude :
+1.2. Responsabilités du directeur de l'étude
 
 1. Le directeur de l'étude est seul en charge du contrôle de l'étude et assume la responsabilité de la conduite générale de l'étude et de l'établissement du rapport final.
 
@@ -158,11 +146,11 @@ h) Signer et dater le rapport final afin d'indiquer qu'il accepte la responsabil
 
 i) Veiller à ce que le plan de l'étude, le rapport final, les données brutes et les pièces justificatives soient transférés aux archives après achèvement (conclusion comprise) de l'étude.
 
-1.2. Responsabilités du responsable principal des essais
+1.3. Responsabilités du responsable principal des essais
 
 Le responsable principal des essais s'assurera que les phases de l'étude qui lui sont déléguées se déroulent conformément aux principes applicables de bonnes pratiques de laboratoire.
 
-1.3. Responsabilités du personnel de l'étude
+1.4. Responsabilités du personnel de l'étude
 
 1. Tout le personnel participant à la réalisation de l'étude doit être bien informé des parties des principes de bonnes pratiques de laboratoire applicables à sa participation à l'étude.
 
@@ -182,9 +170,7 @@ Le responsable principal des essais s'assurera que les phases de l'étude qui lu
 
 3. Ces personnes ne doivent pas participer à la réalisation de l'étude visée par le programme.
 
-2.2. Responsabilités du personnel
-
-chargé de l'assurance qualité
+2.2. Responsabilités du personnel chargé de l'assurance qualité
 
 Le personnel chargé de l'assurance qualité est responsable des tâches suivantes, dont la liste n'est pas limitative :
 
@@ -196,11 +182,11 @@ c) Procéder à des inspections pour établir si toutes les études se déroulen
 
 Ces inspections peuvent être de trois types, comme le précisent les modes opératoires normalisés du programme d'assurance qualité :
 
-- inspections portant sur l'étude ;
+-inspections portant sur l'étude ;
 
-- inspections portant sur l'installation ;
+-inspections portant sur l'installation ;
 
-- inspections portant sur le procédé.
+-inspections portant sur le procédé.
 
 Les comptes rendus de ces inspections doivent être conservés ;
 
@@ -224,11 +210,9 @@ f) Rédiger et signer une déclaration, qui sera insérée dans le rapport final
 
 2. L'installation d'essai doit disposer de salles ou de locaux appropriés pour le diagnostic, le traitement et le contrôle des maladies, de sorte que les systèmes d'essai ne subissent pas un degré inacceptable de détérioration.
 
-3. L'installation d'essai doit disposer de salles ou d'aires de stockage en suffisance pour les fournitures et pour les équipements. Les salles ou aires de stockage doivent être séparées des salles ou locaux accueillant les systèmes d'essai et suffisamment protégées contre l'infestation, la contamination et/ou la détérioration.
+3. L'installation d'essai doit disposer de salles ou d'aires de stockage en suffisance pour les fournitures et pour les équipements. Les salles ou aires de stockage doivent être séparées des salles ou locaux accueillant les systèmes d'essai et suffisamment protégées contre l'infestation, la contamination et/ ou la détérioration.
 
-3.3. Installations de manutention
-
-des éléments d'essai et de référence
+3.3. Installations de manutention des éléments d'essai et de référence
 
 1. Pour éviter une contamination ou des mélanges, il doit exister des salles ou des locaux distincts pour la réception et le stockage des éléments d'essai et de référence ainsi que pour le mélange des éléments d'essai avec un véhicule.
 
@@ -246,7 +230,7 @@ La manutention et l'évacuation des déchets doivent s'effectuer de manière à 
 
 1. Les appareils, notamment les systèmes informatiques validés, utilisés pour l'obtention, le stockage et la consultation des données et pour la régulation des facteurs d'environnement qui interviennent dans l'étude doivent occuper un emplacement correct, être de conception appropriée et avoir une capacité suffisante.
 
-2. Les appareils utilisés dans une étude doivent être périodiquement inspectés, nettoyés, entretenus et étalonnés conformément aux modes opératoires normalisés. Il faut tenir un relevé de ces activités. L'étalonnage doit être traçable aux étalons nationaux ou au système international d'unités (SI), s'il y a lieu, c'est-à-dire lorsque l'étalon existe et que le paramètre mesuré, tel que par exemple la masse, la température ou l'hygrométrie, peut être un facteur d'influence sur la qualité du résultat, s'il y a lieu, être rapporté à des normes de métrologie nationales ou internationales.
+2. Les appareils utilisés dans une étude doivent être périodiquement inspectés, nettoyés, entretenus et étalonnés conformément aux modes opératoires normalisés. Il faut tenir un relevé de ces activités. L'étalonnage doit être traçable aux étalons nationaux ou au système international d'unités (SI), s'il y a lieu.
 
 3. Les appareils et matériaux utilisés dans une étude ne doivent pas interférer de façon préjudiciable avec les systèmes d'essai.
 
@@ -328,7 +312,9 @@ c) Matériaux, réactifs et solutions :
 
 Préparation et étiquetage.
 
-3. Enregistrement des données, établissement des rapports, stockage et consultation des données, codage des études, collecte des données, établissement des rapports, systèmes d'indexation, exploitation des données, y compris l'emploi de systèmes informatisés.
+3. Enregistrement des données, établissement des rapports, stockage et consultation des données :
+
+Codage des études, collecte des données, établissement des rapports, systèmes d'indexation, exploitation des données, y compris l'emploi de systèmes informatisés.
 
 4. Système d'essai (lorsqu'il y a lieu) :
 
@@ -346,15 +332,15 @@ f) Installation et disposition de systèmes d'essai sur des parcelles expérimen
 
 g) Méthodes d'élimination des déchets.
 
-5. Mécanismes d'assurance qualité.
+5. Mécanismes d'assurance qualité :
 
-6. Affectation du personnel chargé de l'assurance qualité à la planification, l'établissement du calendrier, la réalisation, l'explication et la notification des inspections.
+Affectation du personnel chargé de l'assurance qualité à la planification, l'établissement du calendrier, la réalisation, l'explication et la notification des inspections.
 
 8. Réalisation de l'étude
 
 8.1. Plan de l'étude
 
-1. Pour chaque étude, il convient d'établir un plan écrit avant le début des travaux. Le plan de l'étude doit être approuvé par le directeur de l'étude, qui le date et le signe, et sa conformité aux BPL doit être vérifiée par le personnel d'assurance qualité comme indiqué au point 2.2 b ci-dessus. Ce plan doit également être approuvé par la direction de l'installation d'essai et le donneur d'ordre si la réglementation ou la législation du pays où l'étude est réalisée l'impose.
+1. Pour chaque étude, il convient d'établir un plan écrit avant le début des travaux. Le plan de l'étude doit être approuvé par le directeur de l'étude, qui le date et le signe, et sa conformité aux BPL doit être vérifiée par le personnel d'assurance qualité comme indiqué au point 2.2 b ci-dessus. Ce plan doit également être approuvé par la direction de l'installation d'essai et le donneur d'ordre.
 
 2. a) Les amendements apportés au plan de l'étude doivent être justifiés et approuvés par le directeur de l'étude, qui les date et les signe, puis conservés avec le plan de l'étude ;
 
@@ -388,7 +374,7 @@ d) Le nom et l'adresse du ou des responsables principaux des essais, et la ou le
 
 3. Dates :
 
-a) La date de l'approbation du plan de l'étude par apposition de la signature du directeur de l'étude. La date de l'approbation du plan de l'étude par apposition de la signature de la direction de l'installation d'essai et du donneur d'ordre si la réglementation ou la législation du pays où l'étude est effectuée l'impose ;
+a) La date de l'approbation du plan de l'étude par apposition de la signature du directeur de l'étude. La date de l'approbation du plan de l'étude par apposition de la signature de la direction de l'installation d'essai et du donneur d'ordre ;
 
 b) Les dates proposées pour le début et la fin de l'expérimentation.
 
@@ -404,7 +390,7 @@ b) La caractérisation du système d'essai, c'est-à-dire l'espèce, la race, la
 
 c) La méthode d'administration et les raisons de son choix ;
 
-d) Les taux de dose et/ou les concentrations, ainsi que la fréquence et la durée de l'administration ou de l'application ;
+d) Les taux de dose et/ ou les concentrations, ainsi que la fréquence et la durée de l'administration ou de l'application ;
 
 e) Des renseignements détaillés sur la conception de l'expérience, qui comprennent une description du déroulement chronologique de l'étude, de tous les matériaux, méthodes et conditions, de la nature et de la fréquence des analyses, des mesures, des observations et des examens à réaliser, ainsi que des méthodes statistiques à utiliser (le cas échéant).
 
@@ -510,10 +496,14 @@ f) Le dossier chronologique de tous les modes opératoires normalisés ;
 
 g) Des comptes rendus de surveillance de l'environnement.
 
-Lorsque des échantillons des éléments d'essai et de référence et des spécimens sont éliminés avant l'expiration de la période de conservation requise pour quelque raison que ce soit, cette élimination doit être justifiée et étayée par des documents. Des échantillons des éléments d'essai et de référence et des spécimens ne doivent être conservés qu'aussi longtemps que la qualité de la préparation en permet l'évaluation.
+Au-delà de cette période, l'élimination définitive de tout matériel d'étude doit être étayée par des documents. Lorsque des échantillons des éléments d'essai et de référence et des spécimens sont éliminés avant l'expiration de la période de conservation requise pour quelque raison que ce soit, cette élimination doit être justifiée et étayée par des documents. Des échantillons des éléments d'essai et de référence et des spécimens ne doivent être conservés qu'aussi longtemps que la qualité de la préparation en permet l'évaluation.
 
 10.2. Le matériel conservé dans des archives sera indexé de façon à en faciliter le stockage et la consultation méthodiques.
 
 10.3. Seul le personnel autorisé par la direction aura accès aux archives. Toute entrée et sortie de matériel archivé doit être correctement consignée.
 
 10.4. Si une installation d'essai ou un dépôt d'archives cesse ses activités et n'a pas de successeur légal, les archives doivent être remises au ou aux donneurs d'ordre de la ou des études.
+
+NOTA :
+
+Conformément au I de l'article 6 du décret n° 2021-662 du 26 mai 2021, ces dispositions entrent en vigueur à compter du 1er juin 2021.
