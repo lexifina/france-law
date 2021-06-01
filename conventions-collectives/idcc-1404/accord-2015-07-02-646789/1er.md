@@ -32,19 +32,31 @@ La branche professionnelle doit, au travers des outils dont elle dispose, concen
 
 – les salariés menacés dans leur emploi et identifiés comme tels dans un processus de gestion prévisionnelle des emplois et des compétences (GPEC).
 
-1.3. Formations conduites dans le cadre du plan de formation
+1.3. Plan de développement des compétences (PDC)
 
-Les parties signataires incitent les entreprises à prendre en compte les objectifs et les priorités de formation, tant en matière d'actions que de publics, définis au niveau de la branche dans le présent accord, lors de l'élaboration du plan de formation de l'entreprise.
+Conformément aux articles L. 6321-1 et suivants du code du travail, le plan de développement de compétences regroupe l'ensemble des formations réalisées à l'initiative de l'employeur.
 
-Le plan de formation peut contribuer à faciliter le reclassement ou la reconversion des salariés dans les entreprises de la branche.
+L'action de formation se définit comme un parcours pédagogique permettant d'atteindre un objectif professionnel.
 
-Les formations conduites dans le cadre du plan de formation sont :
+Les parties signataires incitent les entreprises à prendre en compte les objectifs et les priorités de formation, tant en matière d'actions que de publics, définis au niveau de la branche dans le présent accord, lors de l'élaboration du plan de développement des compétences et des actions de formation à mettre en œuvre.
 
-– les actions d'adaptation au poste de travail et les actions de formation liées au maintien ou à l'évolution des emplois. Ces actions sont mises en œuvre sur le temps de travail ;
+Les actions sont classées en deux catégories :
 
-– les actions de formation qui participent au développement des compétences des salariés. Ces actions peuvent se dérouler en dehors du temps de travail, dans les conditions fixées par l'article L. 6321-6 du code du travail, et elles donnent lieu au versement par l'entreprise de l'allocation de formation prévue par l'article L. 6321-10 du code du travail.
+– les actions de formation obligatoires qui sont celles qui conditionnent l'exercice d'une activité ou d'une fonction en application de dispositions légales et réglementaires. Elles constituent du temps de travail effectif et donnent lieu au maintien de la rémunération par l'employeur qui définit les actions de formation requises pour l'exécution de bonne foi du contrat de travail afin de satisfaire son obligation d'adaptation des salariés aux fonctions ;
 
-La contribution légale " plan de formation " doit être utilisée pour financer principalement les formations prévues à l'article 1.4.
+– les actions de formation autres que celles ci-dessus, dites non obligatoires : elles constituent aussi du temps de travail effectif et donnent lieu au maintien de la rémunération, sauf lorsqu'elles se déroulent hors temps de travail.
+
+Le plan de développement des compétences permet de réaliser des actions de formation en situation de travail (AFEST), en plus des formations en présentiel ou en tout ou partie à distance.
+
+Le plan de développement des compétences peut également prévoir des actions de bilan de compétences et de validation des acquis de l'expérience (VAE) et proposer des formations qui participent à la lutte contre l'illettrisme.
+
+Le plan peut inclure aussi d'autres types d'actions de professionnalisation, de tutorat, de mise en situation, de parrainages issus de la stratégie de l'entreprise en matière de développement des compétences de ses salariés.
+
+Le départ du salarié en formation, dans le cadre du plan de développement des compétences, correspond à l'exécution d'une mission professionnelle et donc à l'exécution normale du contrat de travail. Le salarié bénéficie de sa rémunération et de la protection sociale de l'entreprise. À ce titre, il est tenu d'une obligation d'assiduité et doit respecter les conditions de mise en œuvre de l'action de formation telles que prévues par son employeur.
+
+Pour les actions de formation se déroulant en dehors des horaires de travail et du site habituel du travail, les entreprises transmettent aux salarié(e)s la programmation des formations en respectant un délai de prévenance d'au moins 4 semaines. Ce délai peut être réduit avec l'accord du salarié. Ces formations en dehors du temps de travail nécessitent l'accord du salarié concerné.
+
+Les signataires du présent accord demandent aux entreprises de prendre en charge par avance les frais prévisibles des salariés occasionnés par le départ en formation (restauration, déplacement, hébergement). Pour les formations se déroulant en dehors du temps de travail, l'employeur peut également prendre en charge les frais induits par la garde d'enfant.
 
 1.4. Formations financées par la contribution conventionnelle
 
