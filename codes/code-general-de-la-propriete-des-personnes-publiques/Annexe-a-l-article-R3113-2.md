@@ -318,6 +318,10 @@ Neuves-Maisons. |
 
 C. - Ports intérieurs non transférables
 
-Port autonome de Paris.
+Grand port fluvio-maritime de l'axe Seine (secteur fluvial)
 
 Port autonome de Strasbourg.
+
+NOTA :
+
+Conformément à l'article 60 du décret n° 2021-618 du 19 mai 2021 relatif à la fusion du port autonome de Paris et des grands ports maritimes du Havre et de Rouen en un établissement public unique, ces dispositions entrent en vigueur le 1er juin 2021.
