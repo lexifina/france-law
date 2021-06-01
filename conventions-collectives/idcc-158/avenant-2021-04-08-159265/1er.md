@@ -1,0 +1,107 @@
+# Article 1er
+
+Le présent avenant s'applique aux entreprises relevant des activités suivantes :
+
+|
+
+Référence NAPE/ NAF |
+
+Importation de bois
+
+(1) pour les entreprises ou établissements dont l'activité principale d'approvisionnement résulte de l'achat à l'importation, ou sur les marchés internationaux ; lesdites opérations étant supérieures à 50 % des achats totaux de bois et dérivés du bois |
+
+5907/51.5 E |
+
+Scieries relevant du régime de travail du ministère du travail |
+
+4801/20.1 A |
+
+Fabrication de parquets et lambris en lames |
+
+4803/20.1 A |
+
+Fabrication de parquets assemblés en panneaux |
+
+4803/20.3 Z |
+
+Moulures, baguettes |
+
+4803/20.3 Z |
+
+Bois de placages, placages tranchés et déroulés |
+
+4804/20.2 Z |
+
+Production de charbon de bois
+
+(2)
+
+|
+
+24.1 G |
+
+Panneaux de fibragglos |
+
+4804/26.6 J |
+
+Poteaux, traverses, bois injectés |
+
+4804/20.1 A |
+
+Application de traitement des bois |
+
+4804/20.1 B |
+
+Emballage en bois (caisses, tonnellerie, emballeurs) |
+
+4805/20.4 Z |
+
+Emballages légers en bois, boîtes à fromage |
+
+4805/20.4 Z |
+
+Palettes |
+
+4805/20.4 Z |
+
+Tourets |
+
+4805/20. Z |
+
+Objets divers en bois (matériel industriel, agricole et ménager en bois, bois multiplis multiformes) |
+
+4807/20.5 A |
+
+Fibres de bois |
+
+4807/20.1 A |
+
+Farine de bois |
+
+4807/20.1 A |
+
+Articles de pêche (pour les cannes et lignes) |
+
+5402/36.4 Z |
+
+Fabrication d'articles en liège |
+
+5408/20.5 C |
+
+Commerce de gros de liège et articles en liège |
+
+5907/51.5 E |
+
+Commerce de détail de liège et articles en liège |
+
+6422/51.4 S |
+
+À l'exclusion des entreprises dont l'activité principale est consacrée au travail du pin maritime dans les zones de la forêt de Gascogne.
+
+(1) La référence à l'« importation de bois » correspondant au code NAF 51.5 E visée dans le « champ d'application » de l'accord est étendue sous réserve de la décision du Conseil d'Etat du 18 septembre 2019 qui a identifié cette activité comme visant les activités d'importation de bois du Nord, de bois tropicaux ou américains, pour les entreprises dont l'activité principale d'approvisionnement résulte de l'achat à l'importation ou sur les marchés internationaux, lesdites opérations étant supérieures à 50 % des achats totaux en bois et dérivés du bois et conformément à l'arrêté du 7 mai 1997 portant extension de la Convention collective nationale du négoce de bois d'oeuvre et de produits dérivés du 17 décembre 1996.
+
+(Arrêté du 19 novembre 2021 - art. 1)
+
+(2) La référence à la « production de charbon de bois » de la classe 24.1 G visée dans le « champ d'application » de l'accord est exclue de l'extension à l'exception de l'activité de « production de charbon de bois à usage domestique non liée à la valorisation des jus pyroligneux » conformément à l'arrêté du 13 novembre 1956 portant extension de la Convention collective nationale des industries chimiques et connexes du 30 décembre 1952.
+
+(Arrêté du 19 novembre 2021 - art. 1)
