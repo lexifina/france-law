@@ -1,0 +1,7 @@
+# Bordeaux Métropole : arrêté avr-21 — Reglementation de la circulation publique - 17 avenue du Bicentenaire - SABOM
+
+- Collectivité : Bordeaux Métropole
+- SIREN : 243300316
+- Date : 2021-06-01
+- Objet : Reglementation de la circulation publique - 17 avenue du Bicentenaire - SABOM
+- Jeu de données : https://www.data.gouv.fr/datasets/67f5bac903325228295b7de3
