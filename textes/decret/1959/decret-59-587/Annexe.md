@@ -512,62 +512,6 @@ Président du conseil d'administration
 
 |
 
-Port autonome de Bordeaux
-
-|
-
-Directeur
-
-|
-
-Port autonome de Dunkerque
-
-|
-
-Directeur
-
-|
-
-Port autonome de la Guadeloupe
-
-|
-
-Directeur
-
-|
-
-Port autonome du Havre
-
-|
-
-Directeur
-
-|
-
-Port autonome de Nantes-Saint-Nazaire
-
-|
-
-Directeur
-
-|
-
-Port autonome de Paris
-
-|
-
-Directeur
-
-|
-
-Port autonome de Rouen
-
-|
-
-Directeur
-
-|
-
 Régie autonome des transports parisiens
 
 |
@@ -635,3 +579,7 @@ Voies navigables de France
 Président du conseil d'administration
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2021-617 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.
