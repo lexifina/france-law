@@ -4,1592 +4,812 @@ TABLEAU N° 1 ANNEXÉ À L'ARTICLE 20
 
 CIRCONSCRIPTIONS D'ÉLECTION
 
-des conseillers consulaires |
+des conseillers des Français de l'étranger |
 
 CIRCONSCRIPTIONS CONSULAIRES |
 
 INDEMNITÉ SEMESTRIELLE
 
-des conseillers consulaires
+des conseillers des Français de l'étranger
 
 (en euros) |
 
-Canada, 1re circonscription
+Canada, 1re circonscription |
 
-|
+Vancouver, Calgary |
 
-Vancouver, Calgary
+1 932 |
 
-|
+Canada, 2e circonscription |
 
-1 932
+Toronto |
 
-|
+1 974 |
 
-Canada, 2e circonscription
+Canada, 3e circonscription |
 
-|
+Québec |
 
-Toronto
+1 710 |
 
-|
+Canada, 4e circonscription |
 
-1 974
+Montréal, Moncton et Halifax |
 
-|
+1 914 |
 
-Canada, 3e circonscription
+Etats-Unis, 1re circonscription |
 
-|
+Atlanta |
 
-Québec
+1 584 |
 
-|
+Etats-Unis, 2e circonscription |
 
-1 710
+Boston |
 
-|
+1 638 |
 
-Canada, 4e circonscription
+Etats-Unis, 3e circonscription |
 
-|
+Houston, La Nouvelle-Orléans |
 
-Montréal, Moncton et Halifax
+1 602 |
 
-|
+Etats-Unis, 4e circonscription |
 
-1 914
+Chicago |
 
-|
+1 710 |
 
-Etats-Unis, 1re circonscription
+Etats-Unis, 5e circonscription |
 
-|
+Miami |
 
-Atlanta
+1 656 |
 
-|
+Etats-Unis, 6e circonscription |
 
-1 584
+Washington |
 
-|
+1 692 |
 
-Etats-Unis, 2e circonscription
+Etats-Unis, 7e circonscription |
 
-|
+Los Angeles |
 
-Boston
+1 728 |
 
-|
+Etats-Unis, 8e circonscription |
 
-1 638
+San Francisco |
 
-|
+1 692 |
 
-Etats-Unis, 3e circonscription
+Etats-Unis, 9e circonscription |
 
-|
+New York |
 
-Houston, La Nouvelle-Orléans
+1 878 |
 
-|
+Argentine |
 
-1 602
+Buenos Aires |
 
-|
+1 788 |
 
-Etats-Unis, 4e circonscription
+Bolivie |
 
-|
+La Paz |
 
-Chicago
-
-|
-
-1 710
-
-|
-
-Etats-Unis, 5e circonscription
-
-|
-
-Miami
-
-|
-
-1 656
-
-|
-
-Etats-Unis, 6e circonscription
-
-|
-
-Washington
-
-|
-
-1 692
-
-|
-
-Etats-Unis, 7e circonscription
-
-|
-
-Los Angeles
-
-|
-
-1 728
-
-|
-
-Etats-Unis, 8e circonscription
-
-|
-
-San Francisco
-
-|
-
-1 692
-
-|
-
-Etats-Unis, 9e circonscription
-
-|
-
-New York
-
-|
-
-1 878
-
-|
-
-Argentine
-
-|
-
-Buenos Aires
-
-|
-
-1 788
-
-|
-
-Bolivie
-
-|
-
-La Paz
-
-|
-
-1 584
-
-|
+1 584 |
 
 Brésil, 1re circonscription
 
-(avec Suriname)
+(avec Suriname) |
 
-|
+Brasilia, Recife, Paramaribo |
 
-Brasilia, Recife, Paramaribo
+2 196 |
 
-|
+Brésil, 2e circonscription |
 
-2 196
+Rio de Janeiro |
 
-|
+2 046 |
 
-Brésil, 2e circonscription
+Brésil, 3e circonscription |
 
-|
+São Paulo |
 
-Rio de Janeiro
+2 046 |
 
-|
+Chili |
 
-2 046
+Santiago |
 
-|
+1 860 |
 
-Brésil, 3e circonscription
+Colombie |
 
-|
+Bogotá |
 
-São Paulo
+1 878 |
 
-|
+Costa Rica, Honduras, Nicaragua |
 
-2 046
+San José, Tegucigalpa, Managua |
 
-|
+1 674 |
 
-Chili
+Equateur |
 
-|
+Quito |
 
-Santiago
+1 488 |
 
-|
+Guatemala, Salvador |
 
-1 860
+Guatemala, San Salvador |
 
-|
+1 620 |
 
-Colombie
+Haïti |
 
-|
+Port-au-Prince |
 
-Bogotá
+1 674 |
 
-|
+Mexique |
 
-1 878
+Mexico |
 
-|
+1 506 |
 
-Costa Rica, Honduras, Nicaragua
+Panamá, Cuba, Jamaïque |
 
-|
+Panamá, La Havane, Kingston |
 
-San José, Tegucigalpa, Managua
+1 632 |
 
-|
+Paraguay |
 
-1 674
+Assomption |
 
-|
+1 524 |
 
-Equateur
+Pérou |
 
-|
+Lima |
 
-Quito
+1 824 |
 
-|
+République dominicaine |
 
-1 488
+Saint-Domingue |
 
-|
+1 560 |
 
-Guatemala, Salvador
+Uruguay |
 
-|
+Montevideo |
 
-Guatemala, San Salvador
+1 674 |
 
-|
+Venezuela, Sainte-Lucie, Trinité-et-Tobago |
 
-1 620
+Caracas, Castries, Port-d'Espagne |
 
-|
+2 178 |
 
-Haïti
+Danemark |
 
-|
+Copenhague |
 
-Port-au-Prince
+2 250 |
 
-|
+Finlande, Lituanie, Lettonie, Estonie |
 
-1 674
+Helsinki, Vilnius, Riga, Tallinn |
 
-|
+1 896 |
 
-Mexique
+Irlande |
 
-|
+Dublin |
 
-Mexico
+1 842 |
 
-|
+Norvège, Islande |
 
-1 506
+Oslo, Reykjavik |
 
-|
+2 472 |
 
-Panamá, Cuba, Jamaïque
+Royaume-Uni, 1re circonscription |
 
-|
+Edimbourg et Glasgow |
 
-Panamá, La Havane, Kingston
+1 728 |
 
-|
+Royaume-Uni, 2e circonscription |
 
-1 632
+Londres |
 
-|
+1 932 |
 
-Paraguay
+Suède |
 
-|
+Stockholm |
 
-Assomption
+2 082 |
 
-|
+Belgique |
 
-1 524
+Bruxelles |
 
-|
+1 824 |
 
-Pérou
+Luxembourg |
 
-|
+Luxembourg |
 
-Lima
+1 806 |
 
-|
+Pays-Bas |
 
-1 824
+Amsterdam |
 
-|
+1 770 |
 
-République dominicaine
+Allemagne, 1re circonscription |
 
-|
+Berlin, Hambourg |
 
-Saint-Domingue
+1 746 |
 
-|
+Allemagne, 2e circonscription |
 
-1 560
+Francfort, Düsseldorf, Sarrebruck |
 
-|
+1 746 |
 
-Uruguay
+Allemagne, 3e circonscription |
 
-|
+Munich, Stuttgart |
 
-Montevideo
+1 728 |
 
-|
+Autriche, Slovaquie, Slovénie |
 
-1 674
+Vienne, Bratislava, Ljubljana |
 
-|
+1 914 |
 
-Venezuela, Sainte-Lucie, Trinité-et-Tobago
+Suisse, 1re circonscription |
 
-|
+Zurich |
 
-Caracas, Castries, Port-d'Espagne
+2 436 |
 
-|
+Suisse, 2e circonscription |
 
-2 178
+Genève |
 
-|
+2 382 |
 
-Danemark
+Arménie, Géorgie |
 
-|
+Erevan, Tbilissi |
 
-Copenhague
+1 488 |
 
-|
-
-2 250
-
-|
-
-Finlande, Lituanie, Lettonie, Estonie
-
-|
-
-Helsinki, Vilnius, Riga, Tallinn
-
-|
-
-1 896
-
-|
-
-Irlande
-
-|
-
-Dublin
-
-|
-
-1 842
-
-|
-
-Norvège, Islande
-
-|
-
-Oslo, Reykjavik
-
-|
-
-2 472
-
-|
-
-Royaume-Uni, 1re circonscription
-
-|
-
-Edimbourg et Glasgow
-
-|
-
-1 728
-
-|
-
-Royaume-Uni, 2e circonscription
-
-|
-
-Londres
-
-|
-
-1 932
-
-|
-
-Suède
-
-|
-
-Stockholm
-
-|
-
-2 082
-
-|
-
-Belgique
-
-|
-
-Bruxelles
-
-|
-
-1 824
-
-|
-
-Luxembourg
-
-|
-
-Luxembourg
-
-|
-
-1 806
-
-|
-
-Pays-Bas
-
-|
-
-Amsterdam
-
-|
-
-1 770
-
-|
-
-Allemagne, 1re circonscription
-
-|
-
-Berlin, Hambourg
-
-|
-
-1 746
-
-|
-
-Allemagne, 2e circonscription
-
-|
-
-Francfort, Düsseldorf, Sarrebruck
-
-|
-
-1 746
-
-|
-
-Allemagne, 3e circonscription
-
-|
-
-Munich, Stuttgart
-
-|
-
-1 728
-
-|
-
-Autriche, Slovaquie, Slovénie
-
-|
-
-Vienne, Bratislava, Ljubljana
-
-|
-
-1 914
-
-|
-
-Suisse, 1re circonscription
-
-|
-
-Zurich
-
-|
-
-2 436
-
-|
-
-Suisse, 2e circonscription
-
-|
-
-Genève
-
-|
-
-2 382
-
-|
-
-Arménie, Géorgie
-
-|
-
-Erevan, Tbilissi
-
-|
-
-1 488
-
-|
-
-Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro
-
-|
+Bulgarie, Bosnie-Herzégovine, Macédoine, Albanie, Kosovo, Monténégro |
 
 Sofia, Sarajevo, Skopje, Tirana,
 
-Pristina, Podgorica
+Pristina, Podgorica |
 
-|
+1 524 |
 
-1 524
+Croatie |
 
-|
+Zagreb |
 
-Croatie
+1 692 |
 
-|
+Hongrie |
 
-Zagreb
+Budapest |
 
-|
+1 656 |
 
-1 692
+Pologne |
 
-|
+Varsovie, Cracovie |
 
-Hongrie
+1 914 |
 
-|
+République tchèque |
 
-Budapest
+Prague |
 
-|
+1 542 |
 
-1 656
+Roumanie, Moldavie |
 
-|
+Bucarest, Chisinau |
 
-Pologne
+1 338 |
 
-|
+Russie, Biélorussie |
 
-Varsovie, Cracovie
+Moscou, Saint-Pétersbourg, Ekaterinbourg, Minsk |
 
-|
+2 382 |
 
-1 914
+Serbie |
 
-|
+Belgrade |
 
-République tchèque
+1 188 |
 
-|
+Ukraine |
 
-Prague
+Kiev |
 
-|
+1 620 |
 
-1 542
+Chypre |
 
-|
+Nicosie |
 
-Roumanie, Moldavie
+1 788 |
 
-|
+Grèce |
 
-Bucarest, Chisinau
+Athènes, Thessalonique |
 
-|
-
-1 338
-
-|
-
-Russie, Biélorussie
-
-|
-
-Moscou, Saint-Pétersbourg, Ekaterinbourg, Minsk
-
-|
-
-2 382
-
-|
-
-Serbie
-
-|
-
-Belgrade
-
-|
-
-1 188
-
-|
-
-Ukraine
-
-|
-
-Kiev
-
-|
-
-1 620
-
-|
-
-Chypre
-
-|
-
-Nicosie
-
-|
-
-1 788
-
-|
-
-Grèce
-
-|
-
-Athènes, Thessalonique
-
-|
-
-1 824
-
-|
+1 824 |
 
 Italie, 1re circonscription
 
-(avec Malte et Etat de la Cité du Vatican)
+(avec Malte et Etat de la Cité du Vatican) |
 
-|
+Rome, Naples, La Valette, Cité du Vatican |
 
-Rome, Naples, La Valette, Cité du Vatican
+1 896 |
 
-|
+Italie, 2e circonscription |
 
-1 896
+Milan, Turin et Gênes |
 
-|
+1 932 |
 
-Italie, 2e circonscription
+Monaco |
 
-|
+Monaco |
 
-Milan, Turin et Gênes
+1 860 |
 
-|
+Turquie |
 
-1 932
+Istanbul, Ankara |
 
-|
+1 716 |
 
-Monaco
+Andorre |
 
-|
+Andorre-la-Vieille |
 
-Monaco
+1 788 |
 
-|
+Espagne, 1re circonscription |
 
-1 860
+Barcelone |
 
-|
+1 788 |
 
-Turquie
+Espagne, 2e circonscription |
 
-|
+Madrid, Séville, Bilbao |
 
-Istanbul, Ankara
+1 788 |
 
-|
+Portugal |
 
-1 716
+Lisbonne, Porto |
 
-|
+1 746 |
 
-Andorre
+Algérie, 1re circonscription |
 
-|
+Oran |
 
-Andorre-la-Vieille
+1 488 |
 
-|
+Algérie, 2e circonscription |
 
-1 788
+Annaba |
 
-|
+1 488 |
 
-Espagne, 1re circonscription
+Algérie, 3e circonscription |
 
-|
+Alger |
 
-Barcelone
+1 524 |
 
-|
+Egypte |
 
-1 788
+Le Caire, Alexandrie |
 
-|
+1 656 |
 
-Espagne, 2e circonscription
+Maroc, 1re circonscription |
 
-|
+Tanger |
 
-Madrid, Séville, Bilbao
+1 620 |
 
-|
+Maroc, 2e circonscription |
 
-1 788
+Fès |
 
-|
+1 620 |
 
-Portugal
+Maroc, 3e circonscription |
 
-|
+Agadir |
 
-Lisbonne, Porto
+1 620 |
 
-|
+Maroc, 4e circonscription |
 
-1 746
+Marrakech |
 
-|
+1 620 |
 
-Algérie, 1re circonscription
+Maroc, 5e circonscription |
 
-|
+Rabat |
 
-Oran
+1 620 |
 
-|
+Maroc, 6e circonscription |
 
-1 488
+Casablanca |
 
-|
+1 674 |
 
-Algérie, 2e circonscription
+Tunisie, Libye |
 
-|
+Tunis, Tripoli |
 
-Annaba
+1 374 |
 
-|
+Bénin |
 
-1 488
+Cotonou |
 
-|
+1 974 |
 
-Algérie, 3e circonscription
+Burkina Faso |
 
-|
+Ouagadougou |
 
-Alger
+1 914 |
 
-|
+Côte d'Ivoire |
 
-1 524
+Abidjan |
 
-|
+2 160 |
 
-Egypte
+Guinée |
 
-|
+Conakry |
 
-Le Caire, Alexandrie
+1 974 |
 
-|
+Mali |
 
-1 656
+Bamako |
 
-|
+1 992 |
 
-Maroc, 1re circonscription
+Mauritanie |
 
-|
+Nouakchott |
 
-Tanger
+1 602 |
 
-|
+Niger |
 
-1 620
+Niamey |
 
-|
+1 974 |
 
-Maroc, 2e circonscription
+Sénégal, Guinée-Bissau, Cap-Vert |
 
-|
+Dakar, Bissau, Praia |
 
-Fès
+2 010 |
 
-|
+Togo, Ghana |
 
-1 620
+Lomé, Accra |
 
-|
-
-Maroc, 3e circonscription
-
-|
-
-Agadir
-
-|
-
-1 620
-
-|
-
-Maroc, 4e circonscription
-
-|
-
-Marrakech
-
-|
-
-1 620
-
-|
-
-Maroc, 5e circonscription
-
-|
-
-Rabat
-
-|
-
-1 620
-
-|
-
-Maroc, 6e circonscription
-
-|
-
-Casablanca
-
-|
-
-1 674
-
-|
-
-Tunisie, Libye
-
-|
-
-Tunis, Tripoli
-
-|
-
-1 374
-
-|
-
-Bénin
-
-|
-
-Cotonou
-
-|
-
-1 974
-
-|
-
-Burkina Faso
-
-|
-
-Ouagadougou
-
-|
-
-1 914
-
-|
-
-Côte d'Ivoire
-
-|
-
-Abidjan
-
-|
-
-2 160
-
-|
-
-Guinée
-
-|
-
-Conakry
-
-|
-
-1 974
-
-|
-
-Mali
-
-|
-
-Bamako
-
-|
-
-1 992
-
-|
-
-Mauritanie
-
-|
-
-Nouakchott
-
-|
-
-1 602
-
-|
-
-Niger
-
-|
-
-Niamey
-
-|
-
-1 974
-
-|
-
-Sénégal, Guinée-Bissau, Cap-Vert
-
-|
-
-Dakar, Bissau, Praia
-
-|
-
-2 010
-
-|
-
-Togo, Ghana
-
-|
-
-Lomé, Accra
-
-|
-
-2 028
-
-|
+2 028 |
 
 Afrique du Sud, Mozambique, Namibie,
 
-Botswana
+Botswana |
 
-|
+Johannesburg, Le Cap, Maputo, Windhoek, Gaborone |
 
-Johannesburg, Le Cap, Maputo, Windhoek, Gaborone
+1 470 |
 
-|
+Angola |
 
-1 470
+Luanda |
 
-|
+2 658 |
 
-Angola
+Cameroun, Guinée équatoriale |
 
-|
+Douala, Yaoundé, Malabo |
 
-Luanda
+2 160 |
 
-|
+Comores |
 
-2 658
+Moroni |
 
-|
+1 602 |
 
-Cameroun, Guinée équatoriale
+Congo |
 
-|
+Pointe-Noire, Brazzaville |
 
-Douala, Yaoundé, Malabo
+2 064 |
 
-|
+Djibouti |
 
-2 160
+Djibouti |
 
-|
+2 142 |
 
-Comores
+Ethiopie, Soudan, Soudan du Sud |
 
-|
+Addis-Abeba, Khartoum, Djouba |
 
-Moroni
+1 470 |
 
-|
+Gabon |
 
-1 602
+Libreville, Port-Gentil |
 
-|
+2 346 |
 
-Congo
+Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe |
 
-|
+Nairobi, Kampala, Kigali, Bujumbura, Dar es Salam, Lusaka, Harare |
 
-Pointe-Noire, Brazzaville
+1 878 |
 
-|
+Madagascar |
 
-2 064
+Tananarive, Diégo-Suarez, Majunga, Tamatave |
 
-|
+1 602 |
 
-Djibouti
+Maurice, Seychelles |
 
-|
+Port-Louis, Victoria |
 
-Djibouti
+1 674 |
 
-|
+Nigeria |
 
-2 142
+Lagos, Abuja |
 
-|
+1 878 |
 
-Ethiopie, Soudan, Soudan du Sud
+République centrafricaine |
 
-|
+Bangui |
 
-Addis-Abeba, Khartoum, Djouba
+2 118 |
 
-|
+République démocratique du Congo |
 
-1 470
+Kinshasa |
 
-|
+2 160 |
 
-Gabon
+Tchad |
 
-|
+Ndjamena |
 
-Libreville, Port-Gentil
-
-|
-
-2 346
-
-|
-
-Kenya, Ouganda, Rwanda, Burundi, Tanzanie, Zambie, Zimbabwe
-
-|
-
-Nairobi, Kampala, Kigali, Bujumbura, Dar es Salam, Lusaka, Harare
-
-|
-
-1 878
-
-|
-
-Madagascar
-
-|
-
-Tananarive, Diégo-Suarez, Majunga, Tamatave
-
-|
-
-1 602
-
-|
-
-Maurice, Seychelles
-
-|
-
-Port-Louis, Victoria
-
-|
-
-1 674
-
-|
-
-Nigeria
-
-|
-
-Lagos, Abuja
-
-|
-
-1 878
-
-|
-
-République centrafricaine
-
-|
-
-Bangui
-
-|
-
-2 118
-
-|
-
-République démocratique du Congo
-
-|
-
-Kinshasa
-
-|
-
-2 160
-
-|
-
-Tchad
-
-|
-
-Ndjamena
-
-|
-
-2 364
-
-|
+2 364 |
 
 Arabie saoudite, 1re circonscription
 
-(avec Yémen)
+(avec Yémen) |
 
-|
+Djeddah, Sanaa |
 
-Djeddah, Sanaa
-
-|
-
-1 470
-
-|
+1 470 |
 
 Arabie saoudite, 2e circonscription
 
-(avec Koweït)
+(avec Koweït) |
 
-|
+Riyad, Koweït |
 
-Riyad, Koweït
+1 488 |
 
-|
+Emirats arabes unis, Oman |
 
-1 488
+Dubaï, Abu Dhabi, Mascate |
 
-|
-
-Emirats arabes unis, Oman
-
-|
-
-Dubaï, Abu Dhabi, Mascate
-
-|
-
-1 806
-
-|
+1 806 |
 
 Iran, Pakistan, Afghanistan, Azerbaïdjan,
 
 Turkménistan, Kazakhstan, Tadjikistan,
 
-Ouzbékistan, Kirghizstan
+Ouzbékistan, Kirghizstan |
 
-|
+Téhéran, Islamabad, Karachi, Kaboul, Bakou, Achgabat, Astana, Almaty, Douchanbe, Tachkent |
 
-Téhéran, Islamabad, Karachi, Kaboul, Bakou, Achgabat, Astana, Almaty, Douchanbe, Tachkent
+1 710 |
 
-|
+Jordanie, Irak |
 
-1 710
+Amman, Bagdad, Erbil |
 
-|
+1 878 |
 
-Jordanie, Irak
+Liban, Syrie |
 
-|
+Beyrouth, Damas |
 
-Amman, Bagdad, Erbil
+1 824 |
 
-|
+Qatar, Bahreïn |
 
-1 878
+Doha, Manama |
 
-|
+1 602 |
 
-Liban, Syrie
+Israël et Territoires palestiniens, 1re circonscription |
 
-|
+Jérusalem |
 
-Beyrouth, Damas
+1 914 |
 
-|
+Israël et Territoires palestiniens, 2e circonscription |
 
-1 824
+Tel-Aviv, Haïfa |
 
-|
+1 914 |
 
-Qatar, Bahreïn
+Australie, Fidji, Papouasie-Nouvelle-Guinée |
 
-|
+Sydney, Canberra, Suva, Port Moresby |
 
-Doha, Manama
+2 472 |
 
-|
+Cambodge |
 
-1 602
+Phnom Penh |
 
-|
+1 656 |
 
-Israël et Territoires palestiniens, 1re circonscription
+Chine, 1re circonscription |
 
-|
+Canton, Wuhan, Chengdu |
 
-Jérusalem
-
-|
-
-1 914
-
-|
-
-Israël et Territoires palestiniens, 2e circonscription
-
-|
-
-Tel-Aviv, Haïfa
-
-|
-
-1 914
-
-|
-
-Australie, Fidji, Papouasie-Nouvelle-Guinée
-
-|
-
-Sydney, Canberra, Suva, Port Moresby
-
-|
-
-2 472
-
-|
-
-Cambodge
-
-|
-
-Phnom Penh
-
-|
-
-1 656
-
-|
-
-Chine, 1re circonscription
-
-|
-
-Canton, Wuhan, Chengdu
-
-|
-
-1 878
-
-|
+1 878 |
 
 Chine, 2e circonscription
 
-(avec Mongolie et Corée du Nord)
+(avec Mongolie et Corée du Nord) |
 
-|
+Pékin, Shenyang, Oulan-Bator, Pyongyang |
 
-Pékin, Shenyang, Oulan-Bator, Pyongyang
+2 214 |
 
-|
+Chine, 3e circonscription |
 
-2 214
+Hong Kong et Macao |
 
-|
+2 028 |
 
-Chine, 3e circonscription
+Chine, 4e circonscription |
 
-|
+Shanghai |
 
-Hong Kong et Macao
+2 178 |
 
-|
+Corée du Sud, Taïwan |
 
-2 028
+Séoul, Taipei |
 
-|
-
-Chine, 4e circonscription
-
-|
-
-Shanghai
-
-|
-
-2 178
-
-|
-
-Corée du Sud, Taïwan
-
-|
-
-Séoul, Taipei
-
-|
-
-2 046
-
-|
+2 046 |
 
 Inde, 1re circonscription
 
-(avec Bangladesh, Népal, Sri Lanka)
+(avec Bangladesh, Népal, Sri Lanka) |
 
-|
+New Delhi, Bangalore, Bombay, Calcutta, Dacca, Katmandou, Colombo |
 
-New Delhi, Bangalore, Bombay, Calcutta, Dacca, Katmandou, Colombo
+1 398 |
 
-|
+Inde, 2e circonscription |
 
-1 398
+Pondichéry et Chennai |
 
-|
+1 338 |
 
-Inde, 2e circonscription
+Indonésie |
 
-|
+Jakarta |
 
-Pondichéry et Chennai
+1 860 |
 
-|
+Japon |
 
-1 338
+Tokyo, Kyoto |
 
-|
+2 790 |
 
-Indonésie
+Laos |
 
-|
+Vientiane |
 
-Jakarta
+1 470 |
 
-|
+Malaisie, Brunei |
 
-1 860
+Kuala Lumpur, Bandar Seri Begawan |
 
-|
+1 692 |
 
-Japon
+Nouvelle-Zélande |
 
-|
+Wellington |
 
-Tokyo, Kyoto
+1 956 |
 
-|
+Philippines |
 
-2 790
+Manille |
 
-|
+1 692 |
 
-Laos
+Singapour |
 
-|
+Singapour |
 
-Vientiane
+2 382 |
 
-|
+Thaïlande, Birmanie |
 
-1 470
+Bangkok, Rangoun |
 
-|
+1 824 |
 
-Malaisie, Brunei
+Vanuatu |
 
-|
+Port-Vila |
 
-Kuala Lumpur, Bandar Seri Begawan
+2 286 |
 
-|
+Vietnam |
 
-1 692
+Hô Chi Minh-Ville, Hanoi |
 
-|
-
-Nouvelle-Zélande
-
-|
-
-Wellington
-
-|
-
-1 956
-
-|
-
-Philippines
-
-|
-
-Manille
-
-|
-
-1 692
-
-|
-
-Singapour
-
-|
-
-Singapour
-
-|
-
-2 382
-
-|
-
-Thaïlande, Birmanie
-
-|
-
-Bangkok, Rangoun
-
-|
-
-1 824
-
-|
-
-Vanuatu
-
-|
-
-Port-Vila
-
-|
-
-2 286
-
-|
-
-Vietnam
-
-|
-
-Hô Chi Minh-Ville, Hanoi
-
-|
-
-1 560
-
-|
+1 560 |

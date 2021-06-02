@@ -4,7 +4,7 @@ TABLEAU N° 2 ANNEXÉ À L'ARTICLE 34
 
 CIRCONSCRIPTIONS D'ÉLECTION,
 
-en qualité de conseillers consulaires,
+en qualité de conseillers des Français de l'étranger,
 
 des conseillers à l'Assemblée
 
@@ -14,7 +14,7 @@ CIRCONSCRIPTIONS CONSULAIRES |
 
 MONTANT ANNUEL
 
-DU REMBOURSEMENT
+DE L'INDEMNITE FORFAITAIRE POUR COUVRIR LES
 
 DES FRAIS DE DEPLACEMENT
 
@@ -805,3 +805,7 @@ Vietnam |
 Hô Chi Minh-Ville, Hanoi |
 
 3752 |
+
+NOTA :
+
+Conformément au II de l'article 3 du décret n° 2021-691 du 31 mai 2021, ces dispositions entrent en vigueur à compter du prochain renouvellement général des conseils consulaires.
