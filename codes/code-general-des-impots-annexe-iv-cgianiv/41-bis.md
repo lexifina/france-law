@@ -1,6 +1,6 @@
 # Article 41 bis
 
-Le registre des biens prévu au I de l'article 286 quater du code général des impôts comporte les mentions nécessaires à l'identification de l'expédition ou du transport de biens sur le territoire d'un autre Etat membre de la Communauté européenne et destinés dans cet Etat à être utilisés à titre temporaire ou à faire l'objet de travaux dans les conditions prévues aux a et b du III de l'article 256 du code général des impôts :
+Le registre des biens prévu au 1 du I de l'article 286 quater du code général des impôts comporte les mentions nécessaires à l'identification de l'expédition ou du transport de biens sur le territoire d'un autre Etat membre de la Communauté européenne et destinés dans cet Etat à être utilisés à titre temporaire ou à faire l'objet de travaux dans les conditions prévues aux a et b du III de l'article 256 du code général des impôts :
 
 a) Désignation des biens ou matériaux ;
 
