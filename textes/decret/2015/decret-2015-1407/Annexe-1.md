@@ -28,7 +28,7 @@ Article 6 du décret n° 2005-1613 du 22 décembre 2005 portant application de l
 
 |
 
-Déclaration de candidature à l'élection des conseillers consulaires, des conseillers à l'Assemblée des Français de l'étranger, députés élus par les Français établis hors de France et des sénateurs représentant les Français établis hors de France
+Déclaration de candidature à l'élection des conseillers des Français de l'étranger, des conseillers à l'Assemblée des Français de l'étranger, députés élus par les Français établis hors de France et des sénateurs représentant les Français établis hors de France
 
 |
 
