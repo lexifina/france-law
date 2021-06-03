@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119178
+
+- Question : [SEQ201119178](seq201119178.md) — Incohérence entre la compétence juridique de la France en matière de transport maritime sur les navires étrangers et sa capacité à imposer des mesures relatives à la condition animale
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-06-03, page 3522*
+
+Les agents chargés des contrôles vétérinaires ont compétence pour monter à bord des navires bétaillers et réaliser les inspections nécessaires à leur agrément au titre de l'article 19 du règlement (CE) n° 1/2005 relatif à la protection des animaux pendant le transport et les opérations annexes, lorsque cet agrément est demandé en France. Ces agents ont également compétence pour monter à bord de tous les navires bétaillers qui chargent en départ de la France, pour réaliser les contrôles préalables à l'embarquement des animaux (point 1 de l'article 20 du règlement susmentionné), ainsi que les contrôles en cours d'embarquement (point 2 de l'article 20 du règlement susmentionné). Ce n'est qu'à l'issue de la réalisation de ces contrôles, réalisés sur le fondement des articles 19 et 20 susmentionnés, que s'arrête leur compétence. C'est à l'occasion des inspections au titre de l'agrément d'une part, et des contrôles concomitants à l'embarquement d'autre part, que la vérification de la présence et le contrôle du bon fonctionnement des systèmes d'enregistrement des températures pourront être réalisés. Le Gouvernement a prévu dès janvier 2020 d'adopter des dispositions réglementaires en ce sens conformément au point 3 de l'article premier du règlement (CE) n° 1/2005, qui autorise dans certains cas les États membres à adopter des mesures nationales plus contraignantes que celle du règlement lui-même, et notamment pour améliorer les transports maritimes au départ de leur territoire.
