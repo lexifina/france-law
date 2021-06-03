@@ -12,21 +12,23 @@ Code stock |
 
 |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant
+
+à une organisation de producteurs immatriculés
 
 dans un quartier maritime de Nouvelle-Aquitaine |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant à une organisation de producteurs
 
-dans un quartier maritime De Bretagne (1) |
+immatriculés dans un quartier maritime De Bretagne (3) |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant à une organisation de producteurs
 
-dans un quartier maritime Normandie |
+immatriculés dans un quartier maritime Normandie |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant à une organisation de producteurs
 
-dans un quartier maritime du Pays de Loire |
+immatriculés dans un quartier maritime du Pays de Loire |
 
 TOTAL |
 
@@ -34,25 +36,19 @@ Maquereau Scomber scombrus |
 
 VI, VII, VIII a, b, d, e ; eaux UE et eaux internationales de la zone V b ; eaux internationales des zones II a, XII et XIV. |
 
-MAC/2CX14 |
+MAC/ 2CX14 |
 
 Sous-quota (tonnes) |
 
-0 |
+1 |
 
-27 |
+33 |
 
-46 |
+56 |
 
-0 |
+1 |
 
-73 |
-
-(1) Pour les navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne, les captures sont autorisées dans la limite de :
-
-- 100 kg par jour par navire ;
-
-- 300 kg par semaine par navire.
+91 |
 
 Libellé du quota |
 
@@ -62,25 +58,29 @@ pour l'exploration de la mer (CIEM) |
 
 |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant
+
+à une organisation de producteurs immatriculés
 
 dans un quartier maritime de Bretagne |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant
+
+à une organisation de producteurs immatriculés
 
 dans un quartier maritime de Normandie |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant à une organisation de producteurs
 
-dans un quartier maritime de Nouvelle-Aquitaine |
+immatriculés dans un quartier maritime de Nouvelle-Aquitaine |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant à une organisation de producteurs
 
-dans un quartier maritime d'Occitanie |
+immatriculés dans un quartier maritime d'Occitanie |
 
-Autres navires non adhérant à une organisation de producteurs immatriculés
+Autres navires non adhérant à une organisation de producteurs
 
-dans un quartier maritime du Pays de Loire |
+immatriculés dans un quartier maritime du Pays de Loire |
 
 TOTAL |
 
@@ -90,17 +90,17 @@ VIII a, b, d, e |
 
 Sous-quota (tonnes) |
 
-117 |
+196 |
 
-5 |
+10 |
 
-16 |
-
-1 |
+79 |
 
 2 |
 
-141 |
+3 |
+
+290 |
 
 Sole Solea solea |
 
@@ -119,3 +119,5 @@ Sous-quota (tonnes) |
 6 |
 
 49 |
+
+(3) Pour les navires non adhérant à une organisation de producteurs et immatriculés dans un quartier maritime de Bretagne, les captures sont autorisées dans la limite de :-100 kg par jour par navire-300 kg par semaine par navire
