@@ -50,6 +50,10 @@ remise au public
 
 |
 
+INDICATION thérapeutique
+
+|
+
 Acéglutamide et ses sels (monoamide de l'acide N-acétyl-L-glutamique ou N-acétyl-L-glutamine)
 
 |
@@ -70,7 +74,11 @@ Voie orale
 
 |
 
+|
+
 Acétique, acide et ses dérivés halogénés :
+
+|
 
 |
 
@@ -98,6 +106,8 @@ QS pour pH
 
 |
 
+|
+
 Autres formes
 
 |
@@ -109,6 +119,8 @@ Autres formes
 |
 
 100
+
+|
 
 |
 
@@ -130,6 +142,8 @@ En applications sur la peau et les muqueuses
 
 |
 
+|
+
 Autres formes
 
 |
@@ -143,6 +157,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -164,6 +180,8 @@ Uniquement pour une dose unitaire de 0,1
 
 |
 
+|
+
 Acexamique, acide ou acide N-acétyl amino-6 hexanoïque et ses sels
 
 |
@@ -182,6 +200,8 @@ Pommades
 
 |
 
+|
+
 Aciclovir
 
 |
@@ -197,6 +217,8 @@ En application sur la peau
 |
 
 0,1
+
+|
 
 |
 
@@ -220,6 +242,8 @@ Collutoires, solutés pour pulvérisations nasales
 
 |
 
+|
+
 Collyres
 
 |
@@ -231,6 +255,8 @@ Collyres
 |
 
 0,005
+
+|
 
 |
 
@@ -252,6 +278,8 @@ En applications sur la peau et sous réserve d'un excipient non pénétrant
 
 |
 
+|
+
 En application sur la peau
 
 |
@@ -263,6 +291,8 @@ En application sur la peau
 |
 
 1,5
+
+|
 
 |
 
@@ -279,6 +309,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -300,6 +332,8 @@ Collutoires, solutés pour pulvérisations nasales
 
 |
 
+|
+
 Collyres
 
 |
@@ -314,7 +348,11 @@ Collyres
 
 |
 
+|
+
 Aconit :
+
+|
 
 |
 
@@ -346,6 +384,8 @@ Toutes formes
 
 |
 
+|
+
 - sirop
 
 |
@@ -360,7 +400,11 @@ Toutes formes
 
 |
 
+|
+
 Adonis vernalis :
+
+|
 
 |
 
@@ -392,6 +436,8 @@ Toutes formes
 
 |
 
+|
+
 - extrait fluide, plante, poudre
 
 |
@@ -412,6 +458,8 @@ Toutes formes
 
 |
 
+|
+
 - Teinture
 
 |
@@ -427,6 +475,8 @@ Toutes formes
 |
 
 20
+
+|
 
 |
 
@@ -450,6 +500,8 @@ Préparations destinées à être administrées par voie nasale et rhinopharyng�
 
 |
 
+|
+
 Autres formes
 
 |
@@ -463,6 +515,8 @@ Autres formes
 |
 
 0,25
+
+|
 
 |
 
@@ -484,6 +538,8 @@ Liniments et lotions
 
 |
 
+|
+
 Autres formes
 
 |
@@ -495,6 +551,8 @@ Autres formes
 |
 
 1
+
+|
 
 |
 
@@ -518,7 +576,11 @@ Toutes formes
 
 |
 
+|
+
 Anémone pulsatille :
+
+|
 
 |
 
@@ -550,6 +612,8 @@ Toutes formes
 
 |
 
+|
+
 - extrait
 
 |
@@ -568,6 +632,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 Autres formes
 
 |
@@ -581,6 +647,8 @@ Autres formes
 |
 
 2,50
+
+|
 
 |
 
@@ -604,6 +672,8 @@ Toutes formes
 
 |
 
+|
+
 Anesthésiques locaux :
 
 |
@@ -616,7 +686,11 @@ Anesthésiques locaux :
 
 |
 
+|
+
 1. Type dibucaïne :
+
+|
 
 |
 
@@ -654,7 +728,11 @@ Autres formes
 
 |
 
+|
+
 2. Type butacaïne (ou butelline ) :
+
+|
 
 |
 
@@ -684,6 +762,8 @@ En applications sur la peau
 
 |
 
+|
+
 - lignocaïne et ses sels (diéthylamino-diméthylacétanilide).
 
 |
@@ -710,7 +790,11 @@ Autres formes
 
 |
 
+|
+
 3. Type amyléine :
+
+|
 
 |
 
@@ -748,6 +832,8 @@ Autres formes
 
 |
 
+|
+
 - Dextrocaïne et ses sels (pseudo-cocaïne droite).
 
 |
@@ -757,6 +843,8 @@ Autres formes
 |
 
 4. Type procaïne :
+
+|
 
 |
 
@@ -794,11 +882,15 @@ Autres formes, y compris les solutés injectables qui doivent répondre aux troi
 
 |
 
+|
+
 - Diméthocaïne et ses sels (p. aminobenzoyl diméthyl-2,2 diéthylamino-3 propanol).
 
 |
 
 - procaïne (p. aminobenzoyl-diéthyl-amino-éthanol) et ses sels.
+
+|
 
 |
 
@@ -828,6 +920,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes, y compris les préparations injectables (par voie intramusculaire seulement)
 
 |
@@ -840,7 +934,11 @@ Autres formes, y compris les préparations injectables (par voie intramusculaire
 
 |
 
+|
+
 6. Autres anesthésiques locaux :
+
+|
 
 |
 
@@ -876,11 +974,15 @@ Pommades et crèmes dermiques
 
 |
 
+|
+
 - myrtécaïne et ses sels (hormo-myrtényloxy-2 diéthylamino-1 éthane ou {[(diméthyl-66 norpinène-2 yle)-2 éthoxy]-2 éthyl} diéthylamine).
 
 |
 
 Argent, sels solubles :
+
+|
 
 |
 
@@ -910,6 +1012,8 @@ Crayons
 
 |
 
+|
+
 Collyres
 
 |
@@ -921,6 +1025,8 @@ Collyres
 |
 
 0
+
+|
 
 |
 
@@ -940,6 +1046,8 @@ Autres formes
 
 |
 
+|
+
 Arsenic, composés organiques :
 
 |
@@ -952,7 +1060,11 @@ Arsenic, composés organiques :
 
 |
 
+|
+
 Pour toute association de plusieurs composés organiques de l'arsenic, les quantités limites de chacun d'eux doivent être diminuées en proportion du nombre de substances associées (soit 50 % s'il y en a deux, 33 % s'il y en a trois, etc.).
+
+|
 
 |
 
@@ -984,7 +1096,11 @@ Toutes formes
 
 |
 
+|
+
 2. Type acétarsol :
+
+|
 
 |
 
@@ -1014,6 +1130,8 @@ Collutoires, gargarismes, opiats, pâtes dentifrices
 
 |
 
+|
+
 - acide 2-oxy 4-acétylamino-phényl 1-arsinique et ses sels (ou acide acétamido-4 hydroxy-2 phénylar-sinique-1)
 
 |
@@ -1032,6 +1150,8 @@ En applications sur la peau
 
 |
 
+|
+
 - acide 4-oxo 3-formyl amino-phényl 1-arsinique et ses sels
 
 |
@@ -1045,6 +1165,8 @@ Bougies, comprimés gynécologiques, crayons, ovules, suppositoires
 |
 
 5
+
+|
 
 |
 
@@ -1068,7 +1190,11 @@ Autres formes
 
 |
 
+|
+
 - carbarsone et ses sels (acide p. carbamido phénylarsinique)
+
+|
 
 |
 
@@ -1092,7 +1218,11 @@ Autres formes
 
 |
 
+|
+
 3. Type arsphénamine :
+
+|
 
 |
 
@@ -1122,6 +1252,8 @@ Collutoire, gargarismes, opiats
 
 |
 
+|
+
 - dichlorophénarsine (amino-3 hydroxy-4 phényl dichloro arsine)
 
 |
@@ -1131,6 +1263,8 @@ En applications sur la peau
 |
 
 5
+
+|
 
 |
 
@@ -1156,6 +1290,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 - sulfarsphénamine (thioarsphénamine) ou diamino-dihydroxy-arsénobenzène diméthylène sulfite de sodium
 
 |
@@ -1176,7 +1312,11 @@ Autres formes
 
 |
 
+|
+
 Barbituriques :
+
+|
 
 |
 
@@ -1200,11 +1340,15 @@ Acides barbiturique et thiobarbiturique (dérivés des) et leurs sels. Pour tout
 
 |
 
+|
+
 1° Groupe du barbital :
 
 |
 
 1° En association avec d'autres substances médicamenteuses :
+
+|
 
 |
 
@@ -1238,7 +1382,11 @@ Comprimés, dragées, pilules enrobés avec un produit destiné à retarder leur
 
 |
 
+|
+
 Comprimés, dragées, pilules non enrobés, cachets, paquets.
+
+|
 
 |
 
@@ -1262,6 +1410,8 @@ Chaque unité terminée devra peser au minimum 0,5 g
 
 |
 
+|
+
 Granulés, poudres
 
 |
@@ -1273,6 +1423,8 @@ Granulés, poudres
 |
 
 1
+
+|
 
 |
 
@@ -1290,6 +1442,8 @@ Granulés, poudres
 
 |
 
+|
+
 3° Bougies, crayons, ovules
 
 |
@@ -1301,6 +1455,8 @@ Granulés, poudres
 |
 
 5
+
+|
 
 |
 
@@ -1320,7 +1476,11 @@ Granulés, poudres
 
 |
 
+|
+
 2° Groupe du phénobarbital :
+
+|
 
 |
 
@@ -1346,6 +1506,8 @@ Granulés, poudres
 
 |
 
+|
+
 Comprimés, dragées, pilules enrobés avec un produit destiné à retarder leur désagrégation ; capsules et gélules. Toutes ces formes devront répondre aux trois conditions ci-contre ;
 
 |
@@ -1359,6 +1521,8 @@ Comprimés, dragées, pilules enrobés avec un produit destiné à retarder leur
 |
 
 1
+
+|
 
 |
 
@@ -1376,6 +1540,8 @@ Comprimés, dragées, pilules non enrobés, cachets, paquets. Chaque unité term
 
 |
 
+|
+
 Granulés, poudres
 
 |
@@ -1387,6 +1553,8 @@ Granulés, poudres
 |
 
 0,50
+
+|
 
 |
 
@@ -1404,6 +1572,8 @@ Granulés, poudres
 
 |
 
+|
+
 3° Bougies, crayons, ovules
 
 |
@@ -1415,6 +1585,8 @@ Granulés, poudres
 |
 
 2
+
+|
 
 |
 
@@ -1434,6 +1606,8 @@ Granulés, poudres
 
 |
 
+|
+
 Baryum carbonate
 
 |
@@ -1450,7 +1624,11 @@ Voie orale
 
 |
 
+|
+
 Belladone :
+
+|
 
 |
 
@@ -1476,6 +1654,8 @@ Belladone :
 
 |
 
+|
+
 - pommade mercurielle belladonée
 
 |
@@ -1485,6 +1665,8 @@ Belladone :
 |
 
 Voir à Mercure
+
+|
 
 |
 
@@ -1501,6 +1683,8 @@ Voir à Mercure
 |
 
 100
+
+|
 
 |
 
@@ -1524,6 +1708,8 @@ Toutes formes
 
 |
 
+|
+
 Benzoyle (Peroxyde de)
 
 |
@@ -1542,7 +1728,11 @@ En application sur la peau
 
 |
 
+|
+
 Bromoforme :
+
+|
 
 |
 
@@ -1568,6 +1758,8 @@ Bromoforme :
 
 |
 
+|
+
 - sirop composé
 
 |
@@ -1579,6 +1771,8 @@ Bromoforme :
 |
 
 500
+
+|
 
 |
 
@@ -1602,6 +1796,8 @@ Voie orale
 
 |
 
+|
+
 Suppositoires
 
 |
@@ -1616,6 +1812,8 @@ Suppositoires
 
 |
 
+|
+
 Pommades et crèmes dermiques
 
 |
@@ -1627,6 +1825,8 @@ Pommades et crèmes dermiques
 |
 
 0,40
+
+|
 
 |
 
@@ -1650,7 +1850,11 @@ Voie orale
 
 |
 
+|
+
 Catiorésines carbo et catiorésines sulfo :
+
+|
 
 |
 
@@ -1682,7 +1886,11 @@ Voie orale
 
 |
 
+|
+
 - catiorésinate de noscapine :
+
+|
 
 |
 
@@ -1712,6 +1920,8 @@ Voie orale
 
 |
 
+|
+
 2. Association de noscapine avec une résine catiocarboxylique contenant 80 % de résine polyvinylmétacrylique
 
 |
@@ -1727,6 +1937,8 @@ Voie orale
 |
 
 1
+
+|
 
 |
 
@@ -1750,6 +1962,8 @@ Voie orale
 
 |
 
+|
+
 - Catiorésinate de prométhazine : association de prométhazine et de résine catiocarboxylique contenant 80 % de résine polyvinylmétacrylique
 
 |
@@ -1765,6 +1979,8 @@ Voie orale
 |
 
 0,32
+
+|
 
 |
 
@@ -1786,6 +2002,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 En applications sur la peau et les muqueuses
 
 |
@@ -1797,6 +2015,8 @@ En applications sur la peau et les muqueuses
 |
 
 20
+
+|
 
 |
 
@@ -1813,6 +2033,8 @@ Toutes autres formes
 |
 
 12
+
+|
 
 |
 
@@ -1834,6 +2056,8 @@ Suppositoires
 
 |
 
+|
+
 Autres formes
 
 |
@@ -1847,6 +2071,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -1865,6 +2091,8 @@ Toutes formes
 |
 
 20
+
+|
 
 |
 
@@ -1888,6 +2116,8 @@ Toutes formes
 
 |
 
+|
+
 Chlorhydrate d'ambroxol
 
 |
@@ -1905,6 +2135,8 @@ Voie orale
 |
 
 2
+
+|
 
 |
 
@@ -1926,6 +2158,8 @@ Voie ophtalmique
 
 |
 
+|
+
 Chlorhydrique, acide
 
 |
@@ -1937,6 +2171,8 @@ Solutés injectables
 |
 
 QS pour pH
+
+|
 
 |
 
@@ -1956,6 +2192,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -1967,6 +2205,8 @@ Autres formes
 |
 
 3
+
+|
 
 |
 
@@ -1988,6 +2228,8 @@ En applications sur la peau et les muqueuses
 
 |
 
+|
+
 Inhalations
 
 |
@@ -2001,6 +2243,8 @@ Inhalations
 |
 
 0,50
+
+|
 
 |
 
@@ -2020,6 +2264,8 @@ Toutes autres formes, y compris les solutés injectables (qui devront répondre 
 
 |
 
+|
+
 Chlorproéthazine (chlorhydrate de)
 
 |
@@ -2035,6 +2281,8 @@ Pommade
 |
 
 3
+
+|
 
 |
 
@@ -2058,6 +2306,8 @@ Solutés injectables (devront répondre aux trois conditions)
 
 |
 
+|
+
 En applications sur la peau
 
 |
@@ -2069,6 +2319,8 @@ En applications sur la peau
 |
 
 5
+
+|
 
 |
 
@@ -2085,6 +2337,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -2106,6 +2360,8 @@ Applications sur la peau
 
 |
 
+|
+
 Cimétidine
 
 |
@@ -2121,6 +2377,8 @@ Voie orale
 |
 
 2
+
+|
 
 |
 
@@ -2142,6 +2400,8 @@ En applications sur la peau
 
 |
 
+|
+
 Codéine, sirop
 
 |
@@ -2156,6 +2416,8 @@ Codéine, sirop
 
 |
 
+|
+
 Codéthyline, sirop
 
 |
@@ -2167,6 +2429,8 @@ Codéthyline, sirop
 |
 
 250
+
+|
 
 |
 
@@ -2190,6 +2454,8 @@ Toutes formes
 
 |
 
+|
+
 Coloquinte
 
 |
@@ -2203,6 +2469,8 @@ Voie orale
 |
 
 0,1
+
+|
 
 |
 
@@ -2224,6 +2492,8 @@ Crèmes dermiques et solutés destinés à l'usage externe
 
 |
 
+|
+
 Créosote
 
 |
@@ -2242,6 +2512,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 En applications sur la peau
 
 |
@@ -2253,6 +2525,8 @@ En applications sur la peau
 |
 
 10
+
+|
 
 |
 
@@ -2269,6 +2543,8 @@ Autres formes
 |
 
 3
+
+|
 
 |
 
@@ -2292,6 +2568,8 @@ Solutés injectables comme conservateur (devront répondre aux trois conditions)
 
 |
 
+|
+
 En applications sur la peau
 
 |
@@ -2303,6 +2581,8 @@ En applications sur la peau
 |
 
 10
+
+|
 
 |
 
@@ -2322,6 +2602,8 @@ Autres formes
 
 |
 
+|
+
 Cromoglycate de sodium
 
 |
@@ -2337,6 +2619,8 @@ Voie nasale
 |
 
 0,3
+
+|
 
 |
 
@@ -2366,6 +2650,8 @@ Préparations pour l'usage dentaire
 
 |
 
+|
+
 Dibencozide (ancienne dénomination) : diméthyl-5,6 benzimidazole-cobamide coenzyme ou désoxy-5 adénosine-5, α-(diméthyl-5,6 benzimidazolyl) cobamide
 
 |
@@ -2381,6 +2667,8 @@ Voie orale
 |
 
 0,014
+
+|
 
 |
 
@@ -2404,6 +2692,8 @@ En application sur la peau
 
 |
 
+|
+
 Dichlorhydrate de cétirizine
 
 |
@@ -2422,7 +2712,11 @@ Voie orale
 
 |
 
+|
+
 Digitale :
+
+|
 
 |
 
@@ -2448,6 +2742,8 @@ Digitale :
 
 |
 
+|
+
 - teinture
 
 |
@@ -2465,6 +2761,8 @@ Toutes formes
 |
 
 3
+
+|
 
 |
 
@@ -2486,6 +2784,8 @@ Sirop
 
 |
 
+|
+
 Diphénylpyraline, chlorhydrate ou N-méthyl-1 benzhydryloxy-4 pipéridine
 
 |
@@ -2504,6 +2804,8 @@ Comprimés
 
 |
 
+|
+
 Diphényl-5,5 tétrahydroglyoxaline one-4
 
 |
@@ -2519,6 +2821,8 @@ Comprimés
 |
 
 4
+
+|
 
 |
 
@@ -2542,6 +2846,8 @@ Toutes formes
 
 |
 
+|
+
 Ephédrine et ses sels
 
 |
@@ -2562,6 +2868,8 @@ Préparations destinées à être administrées par voie nasale et rhinopharyng�
 
 |
 
+|
+
 Aérosols
 
 |
@@ -2575,6 +2883,8 @@ Aérosols
 |
 
 0
+
+|
 
 |
 
@@ -2594,6 +2904,8 @@ Autres formes
 
 |
 
+|
+
 Esoméprazole
 
 |
@@ -2609,6 +2921,8 @@ Voie orale
 |
 
 280
+
+|
 
 |
 
@@ -2632,6 +2946,8 @@ Toutes formes
 
 |
 
+|
+
 Euphorbe
 
 |
@@ -2645,6 +2961,8 @@ Voie orale
 |
 
 0,01
+
+|
 
 |
 
@@ -2663,6 +2981,8 @@ Voie orale
 |
 
 0,120
+
+|
 
 |
 
@@ -2686,6 +3006,8 @@ Suspensions buvables
 
 |
 
+|
+
 Comprimés
 
 |
@@ -2699,6 +3021,8 @@ Comprimés
 |
 
 0,600
+
+|
 
 |
 
@@ -2722,7 +3046,11 @@ Toutes formes
 
 |
 
+|
+
 Fluosilicates métalliques :
+
+|
 
 |
 
@@ -2750,6 +3078,8 @@ Voie orale
 
 |
 
+|
+
 Formol (formaldéhyde)
 
 |
@@ -2765,6 +3095,8 @@ Toutes formes
 |
 
 10
+
+|
 
 |
 
@@ -2788,6 +3120,8 @@ Solutés injectables (devront répondre aux trois conditions)
 
 |
 
+|
+
 En application sur la peau
 
 |
@@ -2799,6 +3133,8 @@ En application sur la peau
 |
 
 10
+
+|
 
 |
 
@@ -2816,6 +3152,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 Autres formes
 
 |
@@ -2829,6 +3167,8 @@ Autres formes
 |
 
 3
+
+|
 
 |
 
@@ -2850,6 +3190,8 @@ Voie orale en association avec l'acide acétylsalicylique
 
 |
 
+|
+
 Suppositoires en association avec l'acide acétylsalicylique
 
 |
@@ -2861,6 +3203,8 @@ Suppositoires en association avec l'acide acétylsalicylique
 |
 
 0,008
+
+|
 
 |
 
@@ -2884,6 +3228,8 @@ Toutes formes
 
 |
 
+|
+
 HCH ou hexachlorocyclohexane et ses dérivés soufrés
 
 |
@@ -2902,11 +3248,15 @@ En applications sur la peau
 
 |
 
+|
+
 Hexachlorophène ou bis-(trichloro 3, 5, 6 hydroxy-2 phényl) méthane
 
 |
 
 Préparations destinées à être utilisées exclusivement sur la peau :
+
+|
 
 |
 
@@ -2930,6 +3280,8 @@ a) Savons solides
 
 |
 
+|
+
 b) Sparadraps
 
 |
@@ -2943,6 +3295,8 @@ b) Sparadraps
 |
 
 0
+
+|
 
 |
 
@@ -2960,6 +3314,8 @@ c) Poudres
 
 |
 
+|
+
 d) Autres
 
 |
@@ -2971,6 +3327,8 @@ d) Autres
 |
 
 0,40
+
+|
 
 |
 
@@ -2992,7 +3350,11 @@ Suppositoires
 
 |
 
+|
+
 Hydrastis :
+
+|
 
 |
 
@@ -3022,6 +3384,8 @@ Toutes formes
 
 |
 
+|
+
 Hydroquinone
 
 |
@@ -3038,6 +3402,8 @@ En applications sur la peau
 
 |
 
+|
+
 Toutes autres formes, y compris les solutés injectables (qui devront répondre aux trois conditions)
 
 |
@@ -3051,6 +3417,8 @@ Toutes autres formes, y compris les solutés injectables (qui devront répondre 
 |
 
 0,05
+
+|
 
 |
 
@@ -3072,6 +3440,8 @@ Applications sur la peau
 
 |
 
+|
+
 Hymécromone ou hydroxy-7 méthyl-4 oxo-2 chromène-3
 
 |
@@ -3087,6 +3457,8 @@ Voie orale
 |
 
 12
+
+|
 
 |
 
@@ -3110,6 +3482,8 @@ Toutes formes
 
 |
 
+|
+
 Ibuprofène
 
 |
@@ -3128,6 +3502,8 @@ Voie orale, formes solides (durée maximale de traitement : 5 jours)
 
 |
 
+|
+
 Voie orale, formes liquides (durée maximale de traitement : 5 jours)
 
 |
@@ -3139,6 +3515,8 @@ Voie orale, formes liquides (durée maximale de traitement : 5 jours)
 |
 
 4
+
+|
 
 |
 
@@ -3156,17 +3534,29 @@ Crème
 
 |
 
+|
+
 emplâtre
 
 |
 
-- |
+-
 
-200 mg |
+|
 
-1g |
+200 mg
+
+|
+
+1g
+
+|
+
+|
 
 Iode :
+
+|
 
 |
 
@@ -3198,6 +3588,8 @@ Toutes formes
 
 |
 
+|
+
 - teinture
 
 |
@@ -3214,7 +3606,11 @@ Toutes formes
 
 |
 
+|
+
 Ipéca :
+
+|
 
 |
 
@@ -3246,6 +3642,8 @@ Toutes formes
 
 |
 
+|
+
 - extrait fluide
 
 |
@@ -3263,6 +3661,8 @@ Toutes formes
 |
 
 3
+
+|
 
 |
 
@@ -3284,6 +3684,8 @@ Toutes formes
 
 |
 
+|
+
 - sirop
 
 |
@@ -3297,6 +3699,8 @@ Toutes formes
 |
 
 40
+
+|
 
 |
 
@@ -3318,6 +3722,8 @@ Toutes formes
 
 |
 
+|
+
 Isométheptène (méthylaminométhylheptène)
 
 |
@@ -3336,6 +3742,8 @@ Toutes formes
 
 |
 
+|
+
 Jaborandi, teinture
 
 |
@@ -3351,6 +3759,8 @@ Toutes formes
 |
 
 25
+
+|
 
 |
 
@@ -3374,6 +3784,8 @@ Toutes formes
 
 |
 
+|
+
 Kétoprofène
 
 |
@@ -3392,7 +3804,11 @@ Voie orale
 
 |
 
+|
+
 Laurier-cerise :
+
+|
 
 |
 
@@ -3422,6 +3838,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -3435,6 +3853,8 @@ Autres formes
 |
 
 20
+
+|
 
 |
 
@@ -3458,6 +3878,8 @@ Voie orale
 
 |
 
+|
+
 Solutés injectables (qui devront répondre aux trois conditions)
 
 |
@@ -3471,6 +3893,8 @@ Solutés injectables (qui devront répondre aux trois conditions)
 |
 
 0,005
+
+|
 
 |
 
@@ -3488,6 +3912,8 @@ Collyre
 
 |
 
+|
+
 Pâtes dentifrices
 
 |
@@ -3502,7 +3928,11 @@ Pâtes dentifrices
 
 |
 
+|
+
 Lobélie enflée :
+
+|
 
 |
 
@@ -3534,6 +3964,8 @@ Toutes formes
 
 |
 
+|
+
 - poudre
 
 |
@@ -3551,6 +3983,8 @@ Toutes formes
 |
 
 2
+
+|
 
 |
 
@@ -3574,6 +4008,8 @@ Toutes formes
 
 |
 
+|
+
 Lobéline et ses sels
 
 |
@@ -3591,6 +4027,8 @@ Toutes formes y compris les solutés injectables (qui devront répondre aux troi
 |
 
 0,06
+
+|
 
 |
 
@@ -3612,6 +4050,8 @@ Voie orale, formes solides
 
 |
 
+|
+
 Loratadine
 
 |
@@ -3630,9 +4070,15 @@ Comprimés
 
 |
 
-Maléate de trimébutine |
+|
 
-Voie orale |
+Maléate de trimébutine
+
+|
+
+Voie orale
+
+|
 
 -
 
@@ -3646,7 +4092,11 @@ Voie orale |
 
 |
 
+|
+
 Mercure, ses composés et leurs préparations :
+
+|
 
 |
 
@@ -3676,6 +4126,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 En applications sur la peau
 
 |
@@ -3690,6 +4142,8 @@ En applications sur la peau
 
 |
 
+|
+
 Voie orale
 
 |
@@ -3699,6 +4153,8 @@ Voie orale
 |
 
 0,001
+
+|
 
 |
 
@@ -3715,6 +4171,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -3736,6 +4194,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -3749,6 +4209,8 @@ Autres formes
 |
 
 1
+
+|
 
 |
 
@@ -3772,6 +4234,8 @@ Toutes formes
 
 |
 
+|
+
 - mercure, sulfate (turbith minéral)
 
 |
@@ -3787,6 +4251,8 @@ Pommades
 |
 
 5
+
+|
 
 |
 
@@ -3806,7 +4272,11 @@ Autres formes
 
 |
 
+|
+
 Préparations diverses :
+
+|
 
 |
 
@@ -3834,6 +4304,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -3847,6 +4319,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -3866,6 +4340,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -3882,11 +4358,15 @@ Autres formes
 
 |
 
+|
+
 - pilules de chlorure mercurique opiacées (Dupuytren)
 
 |
 
 Voir à Opium.
+
+|
 
 |
 
@@ -3918,6 +4398,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 Pommades
 
 |
@@ -3929,6 +4411,8 @@ Pommades
 |
 
 25
+
+|
 
 |
 
@@ -3945,6 +4429,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -3966,6 +4452,8 @@ Bougies, crayons, ovules, suppositoires
 
 |
 
+|
+
 Pommades
 
 |
@@ -3977,6 +4465,8 @@ Pommades
 |
 
 20
+
+|
 
 |
 
@@ -3993,6 +4483,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -4012,6 +4504,8 @@ Pommades ophtalmiques
 
 |
 
+|
+
 Autres formes
 
 |
@@ -4021,6 +4515,8 @@ Autres formes
 |
 
 60
+
+|
 
 |
 
@@ -4038,6 +4534,8 @@ Autres formes
 
 |
 
+|
+
 - sirop de Gibert au bi-iodure de mercure
 
 |
@@ -4049,6 +4547,8 @@ Autres formes
 |
 
 400
+
+|
 
 |
 
@@ -4068,6 +4568,8 @@ Voie orale
 
 |
 
+|
+
 Méthocarbamol ou (o. méthoxy phénoxy)-3 hydroxy-2 propyle carbamate-1
 
 |
@@ -4083,6 +4585,8 @@ Pommades, baumes
 |
 
 4
+
+|
 
 |
 
@@ -4106,6 +4610,8 @@ Voie orale
 
 |
 
+|
+
 Minoxidil
 
 |
@@ -4121,6 +4627,8 @@ Application locale
 |
 
 9
+
+|
 
 |
 
@@ -4142,6 +4650,8 @@ Toutes formes
 
 |
 
+|
+
 Morphine, sirop
 
 |
@@ -4153,6 +4663,8 @@ Morphine, sirop
 |
 
 50
+
+|
 
 |
 
@@ -4174,6 +4686,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -4190,6 +4704,8 @@ Autres formes
 
 |
 
+|
+
 Muguet, teinture
 
 |
@@ -4203,6 +4719,8 @@ Voie orale
 |
 
 0,1
+
+|
 
 |
 
@@ -4226,6 +4744,8 @@ Toutes formes
 
 |
 
+|
+
 Naproxène sodique
 
 |
@@ -4241,6 +4761,8 @@ Voie orale
 |
 
 3,3
+
+|
 
 |
 
@@ -4260,6 +4782,8 @@ Voie orale
 
 |
 
+|
+
 En applications sur la peau
 
 |
@@ -4271,6 +4795,8 @@ En applications sur la peau
 |
 
 0,40
+
+|
 
 |
 
@@ -4290,6 +4816,8 @@ Autres formes
 
 |
 
+|
+
 Nitrite d'amyle
 
 |
@@ -4303,6 +4831,8 @@ Ampoules pour inhalations
 |
 
 0,50
+
+|
 
 |
 
@@ -4326,9 +4856,15 @@ Toutes formes
 
 |
 
-Oméprazole |
+|
 
-Voie orale |
+Oméprazole
+
+|
+
+Voie orale
+
+|
 
 -
 
@@ -4342,7 +4878,19 @@ Voie orale |
 
 |
 
+Traitement des symptômes de reflux
+
+gastro-œsophagien
+
+(par exemple pyrosis, régurgitation acide)
+
+chez l'adulte.
+
+|
+
 Opium, préparations :
+
+|
 
 |
 
@@ -4370,6 +4918,8 @@ Emplâtre
 
 |
 
+|
+
 - pilules de chlorure mercurique opiacées (Dupuytren)
 
 |
@@ -4381,6 +4931,8 @@ Emplâtre
 |
 
 25 pilules
+
+|
 
 |
 
@@ -4400,6 +4952,8 @@ Emplâtre
 
 |
 
+|
+
 - pilules d'iodure mercureux opiacées (Ricord)
 
 |
@@ -4411,6 +4965,8 @@ Emplâtre
 |
 
 10 pilules
+
+|
 
 |
 
@@ -4432,6 +4988,8 @@ Toutes formes
 
 |
 
+|
+
 Sirop diacode
 
 |
@@ -4446,6 +5004,8 @@ Sirop diacode
 
 |
 
+|
+
 - sirop d'opium (sirop thébaïque)
 
 |
@@ -4457,6 +5017,8 @@ Sirop diacode
 |
 
 50
+
+|
 
 |
 
@@ -4478,6 +5040,8 @@ Voie orale
 
 |
 
+|
+
 Oxalique, acide
 
 |
@@ -4494,11 +5058,15 @@ Voie orale
 
 |
 
+|
+
 Pantoprazole
 
 |
 
-Voie orale |
+Voie orale
+
+|
 
 |
 
@@ -4507,6 +5075,8 @@ Voie orale |
 |
 
 0,28
+
+|
 
 |
 
@@ -4530,6 +5100,8 @@ Toutes formes
 
 |
 
+|
+
 Phénacétine
 
 |
@@ -4550,6 +5122,8 @@ Préparations sèches destinées à la voie orale
 
 |
 
+|
+
 Suppositoires
 
 |
@@ -4561,6 +5135,8 @@ Suppositoires
 |
 
 2
+
+|
 
 |
 
@@ -4580,11 +5156,15 @@ Autres formes
 
 |
 
+|
+
 Phénol et phénates alcalins
 
 |
 
 a) Solutés injectables (devront répondre aux trois conditions) :
+
+|
 
 |
 
@@ -4610,6 +5190,8 @@ a) Solutés injectables (devront répondre aux trois conditions) :
 
 |
 
+|
+
 - en solution huileuse
 
 |
@@ -4623,6 +5205,8 @@ a) Solutés injectables (devront répondre aux trois conditions) :
 |
 
 0,40
+
+|
 
 |
 
@@ -4642,6 +5226,8 @@ b) Formes pour ingestion et suppositoires
 
 |
 
+|
+
 c) Autres formes
 
 |
@@ -4653,6 +5239,8 @@ c) Autres formes
 |
 
 20
+
+|
 
 |
 
@@ -4674,6 +5262,8 @@ Toutes formes
 
 |
 
+|
+
 Phosphorique, acide officinal
 
 |
@@ -4685,6 +5275,8 @@ Solutés injectables
 |
 
 QS pour pH
+
+|
 
 |
 
@@ -4706,6 +5298,8 @@ Autres formes
 
 |
 
+|
+
 Picrique, acide
 
 |
@@ -4719,6 +5313,8 @@ Voie orale
 |
 
 0,001
+
+|
 
 |
 
@@ -4736,6 +5332,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -4749,6 +5347,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -4772,6 +5372,8 @@ Solution pour pulvérisation buccale
 
 |
 
+|
+
 Podophylle (résine de)
 
 |
@@ -4787,6 +5389,8 @@ En applications sur la peau
 |
 
 2,50
+
+|
 
 |
 
@@ -4806,7 +5410,11 @@ Autres formes
 
 |
 
+|
+
 Potassium :
+
+|
 
 |
 
@@ -4834,6 +5442,8 @@ Voie orale
 
 |
 
+|
+
 - hydroxyde ou potasse caustique
 
 |
@@ -4852,6 +5462,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -4865,6 +5477,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -4886,6 +5500,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -4899,6 +5515,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -4922,6 +5540,8 @@ Toutes formes
 
 |
 
+|
+
 Pyrogallol
 
 |
@@ -4937,6 +5557,8 @@ En applications sur la peau
 |
 
 5
+
+|
 
 |
 
@@ -4958,6 +5580,8 @@ Uniquement pour une dose unitaire de 0,1
 
 |
 
+|
+
 Ramitidine
 
 |
@@ -4973,6 +5597,8 @@ Voie orale
 |
 
 0,9
+
+|
 
 |
 
@@ -4992,6 +5618,8 @@ Autres formes
 
 |
 
+|
+
 Réserpine et ses sels
 
 |
@@ -5007,6 +5635,8 @@ Comprimés
 |
 
 0,005
+
+|
 
 |
 
@@ -5030,6 +5660,8 @@ Toutes formes
 
 |
 
+|
+
 Santonine
 
 |
@@ -5050,7 +5682,11 @@ Toutes formes
 
 |
 
+|
+
 Scille :
+
+|
 
 |
 
@@ -5082,6 +5718,8 @@ Toutes formes
 
 |
 
+|
+
 - plante et poudre
 
 |
@@ -5099,6 +5737,8 @@ Toutes formes
 |
 
 2
+
+|
 
 |
 
@@ -5122,7 +5762,11 @@ Toutes formes
 
 |
 
+|
+
 Sodium :
+
+|
 
 |
 
@@ -5152,6 +5796,8 @@ Toutes formes, sauf solutés injectables
 
 |
 
+|
+
 (comme conservateur sous réserve d'une autorisation préalable)
 
 |
@@ -5167,6 +5813,8 @@ Solutés injectables
 |
 
 0,02
+
+|
 
 |
 
@@ -5188,6 +5836,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -5201,6 +5851,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -5222,6 +5874,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -5235,6 +5889,8 @@ Autres formes
 |
 
 0
+
+|
 
 |
 
@@ -5258,7 +5914,11 @@ Toutes formes
 
 |
 
+|
+
 Stramoine :
+
+|
 
 |
 
@@ -5290,7 +5950,11 @@ Toutes formes
 
 |
 
+|
+
 Sulfurique acide :
+
+|
 
 |
 
@@ -5320,6 +5984,8 @@ Toutes formes
 
 |
 
+|
+
 - acide sulfurique alcoolisé ou eau de Rabel
 
 |
@@ -5335,6 +6001,8 @@ Toutes formes
 |
 
 8
+
+|
 
 |
 
@@ -5358,9 +6026,15 @@ Voie cutanée (durée maximale du traitement : 7 jours)
 
 |
 
-Trimétazidine |
+|
+
+Trimétazidine
+
+|
 
 Toutes formes
+
+|
 
 |
 
@@ -5388,6 +6062,8 @@ En applications sur la peau
 
 |
 
+|
+
 Autres formes
 
 |
@@ -5404,7 +6080,11 @@ Autres formes
 
 |
 
+|
+
 Uréides non barbituriques :
+
+|
 
 |
 
@@ -5421,6 +6101,8 @@ Uréides non barbituriques :
 |
 
 En association avec d'autres substances médicamenteuses :
+
+|
 
 |
 
@@ -5450,6 +6132,8 @@ Comprimés enrobés d'une substance destinée à retarder leur désagrégation (
 
 |
 
+|
+
 - bromovalurée ou bromoisovalérylurée.
 
 |
@@ -5465,6 +6149,8 @@ Bougies, crayons, ovules, suppositoires
 |
 
 5
+
+|
 
 |
 
@@ -5488,7 +6174,11 @@ Toutes autres formes
 
 |
 
+|
+
 Pour toute association de ces substances entre elles, les quantités limites de chacune d'elles doivent être diminuées en proportion du nombre desdites substances associées, soit 50 % s'il y en a deux, 33 % s'il y en a trois, etc.
+
+|
 
 |
 
@@ -5520,6 +6210,8 @@ Voie orale
 
 |
 
+|
+
 Vitamines D
 
 |
@@ -5548,7 +6240,11 @@ Soit 400 000 UI
 
 |
 
+|
+
 Zinc :
+
+|
 
 |
 
@@ -5578,6 +6274,8 @@ Collyres et pommades ophtalmiques
 
 |
 
+|
+
 En applications sur la peau
 
 |
@@ -5589,6 +6287,8 @@ En applications sur la peau
 |
 
 0,50
+
+|
 
 |
 
@@ -5605,14 +6305,6 @@ Autres formes
 |
 
 0,50
-
-|
-
-|
-
-|
-
-|
 
 |
 
