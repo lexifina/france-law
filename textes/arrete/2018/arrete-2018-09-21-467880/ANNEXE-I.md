@@ -4,23 +4,25 @@ ANNEXES
 
 ANNEXE I
 
-EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION AU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ « PERFECTIONNEMENT SPORTIF » MENTION « SPORTS ÉQUESTRES »
+EXIGENCES PRÉALABLES À L'ENTRÉE EN FORMATION AU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF " MENTION " SPORTS ÉQUESTRES "
 
 Les exigences préalables requises pour accéder à la formation sont les suivantes :
 
 - présenter un certificat médical de non-contre-indication à la pratique des sports équestres datant de moins d'un an à la date de l'entrée en formation ;
 
-- justifier de l'unité d'enseignement « prévention et secours civiques de niveau 1 » ou de l'une des attestations de formation aux premiers secours mentionnée à l'article A. 212-52-1 du code du sport ;
+- justifier de l'unité d'enseignement " prévention et secours civiques de niveau 1 " ou de l'une des attestations de formation aux premiers secours mentionnée à l'article A. 212-52-1 du code du sport ;
 
 - satisfaire aux tests techniques et au test pédagogique suivants :
 
-A. - Tests techniques
+A.-Test technique
 
 Le candidat réalise les 2 tests suivants dans un ordre indifférent :
 
-Test A1 : Test technique de dressage de niveau « Amateur 3 grand prix » ;
+Test A1 : Test technique de dressage de niveau " Amateur 3 grand prix " ;
 
-Test A2 : Test technique de CSO de niveau « Amateur 2 » (1 m 05 à 1 m 10).
+Test A2 : Test technique de CSO de niveau " Amateur 2 " (1 m 05 à 1 m 10).
+
+Le candidat qui n'a pas satisfait à l'ensemble des deux tests techniques A1 et A2 composant le test technique A peut conserver le bénéfice de celui auquel il a satisfait.
 
 B. - Test pédagogique
 
@@ -56,4 +58,4 @@ Liste des disciplines :
 
 - équitation de travail.
 
-Dispense des tests techniques préalables à l'entrée en formation : les titres et qualifications permettant au candidat d'être dispensé des tests techniques préalables à l'entrée en formation sont mentionnés à l'annexe III.
+Le candidat qui n'a pas satisfait aux deux tests A et B peut conserver le bénéfice de celui auquel il a satisfait. Dispense des tests techniques préalables à l'entrée en formation : les titres et qualifications permettant au candidat d'être dispensé des tests techniques préalables à l'entrée en formation sont mentionnés à l'annexe III.
