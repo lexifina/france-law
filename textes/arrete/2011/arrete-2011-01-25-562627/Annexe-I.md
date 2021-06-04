@@ -18,6 +18,8 @@ Le candidat réalise les 2 tests suivants dans un ordre indifférent :
 
 – Test A2 : Test technique de concours de saut d'obstacles de niveau “ Amateur 1 ” ou équivalent.
 
+Le candidat qui n'a pas satisfait à l'ensemble des deux tests techniques A1 et A2 composant le test technique A peut conserver le bénéfice de celui auquel il a satisfait.
+
 B –Test pédagogique
 
 Le candidat réalise un test pédagogique consistant en la conduite d'une séance de perfectionnement de travail sur le plat d'une durée de vingt minutes maximum dans la discipline de son choix figurant ci-dessous, pour trois cavaliers de niveau galop 5 ou plus, suivi d'un entretien d'une durée de dix minutes au maximum.
@@ -38,4 +40,4 @@ Liste des disciplines :
 
 – endurance.
 
-Dispense des tests techniques préalables à l'entrée en formation : les qualifications permettant au candidat d'être dispensé des tests techniques préalables à l'entrée en formation sont mentionnées à l'annexe III.
+Le candidat qui n'a pas satisfait aux deux tests A et B peut conserver le bénéfice de celui auquel il a satisfait. Dispense des tests techniques préalables à l'entrée en formation : les qualifications permettant au candidat d'être dispensé des tests techniques préalables à l'entrée en formation sont mentionnées à l'annexe III.
