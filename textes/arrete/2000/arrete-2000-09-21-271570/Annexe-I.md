@@ -140,7 +140,7 @@ Diagrammes de rayonnement dans les plans horizontal et vertical.
 
 Ligne bifilaire, câble coaxial ;
 
-Pertes, taux d'onde stationnaire ;
+Pertes, rapport d'onde stationnaire ;
 
 Ligne quart d'onde impédance ;
 
@@ -287,6 +287,14 @@ P = I2.R ; P =
 ; U = Ueff ; I = eff
 
 R
+
+1.10. Traitement numérique du signal (DSP) :
+
+- Echantillonnage et quantification ;
+
+- Démodulation des signaux ;
+
+- Conversion analogique/ digitale et digitale/ analogique (ADC/ DAC).
 
 Chapitre 2
 
@@ -735,3 +743,7 @@ Pratique des opérations de mesure :
 - oscilloscope et analyseur de spectre.
 
 3e partie : Abrogé
+
+NOTA :
+
+Conformément à l'article 17 de l'arrêté du 2 mars 2021 (NOR : ECOI2101792A), ces dispositions entrent en vigueur le 6 juin 2021.
