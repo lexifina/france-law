@@ -50,7 +50,9 @@ BARILLEC SAS |
 
 ZI du Moros-
 
-29990 Concarneau |
+1, rue des Sardiniers
+
+29900 Concarneau |
 
 -OceanSat |
 
@@ -132,6 +134,18 @@ Rue Laplace-33700 Mérignac |
 
 11 |
 
+CEGELEC SDEM |
+
+Cours Bourbon
+
+BP 87-76370 Martin-Église |
+
+-FA 150 AIS Transponder (R-4-206) *
+
+-FA-170 Class A/ Inland AIS (R-4-314) |
+
+12 |
+
 H2O |
 
 Port de plaisance-
@@ -140,7 +154,7 @@ Port de plaisance-
 
 -AIS 950 Combined Class A/ Inland AIS Transceiver (R-4-311) |
 
-12 |
+13 |
 
 LORRAINE NAUTISME |
 
@@ -148,7 +162,7 @@ LORRAINE NAUTISME |
 
 -Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
-13 |
+14 |
 
 MAP Marine |
 
@@ -162,7 +176,7 @@ MAP Marine |
 
 -Comnav |
 
-14 |
+15 |
 
 MAX GUERDIN ET SES FILS |
 
@@ -178,7 +192,7 @@ MAX GUERDIN ET SES FILS |
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
-15 |
+16 |
 
 NAUTOR VILLEFRANCHE |
 
@@ -190,7 +204,7 @@ Quartier La Darse-BP 33-
 
 -SIMRAD V5035 Class A/ Inland AIS (R-4-303) |
 
-16 |
+17 |
 
 PROMAT SECURITE |
 
@@ -202,7 +216,7 @@ PROMAT SECURITE |
 
 -A200 Combined Class A/ Inland AIS Transceiver (R-4-316) |
 
-17 |
+18 |
 
 RADIO HOLLAND FRANCE |
 
@@ -226,17 +240,17 @@ RADIO HOLLAND FRANCE |
 
 -VDL 6000 AIS Class A/ Inland AIS Transponder (R-4-219) * |
 
-18 |
+19 |
 
 RADIO NAVIGATION |
 
 62, rue Gambetta-BP 44-
 
-13110 PORT DE BOUC |
+13110 Port de Bouc |
 
 -SIMRAD V5035 Class A/ Inland AIS (R-4-303) |
 
-19 |
+20 |
 
 SIECMI |
 
@@ -250,7 +264,7 @@ SIECMI |
 
 -SRT Comnav Voyager X3 |
 
-20 |
+21 |
 
 Sud Communication |
 
@@ -264,7 +278,7 @@ Espace Fréjorgues Ouest-
 
 -KAT330 Combined Class A/ Inland AIS Transceiver (R-4-317) |
 
-21 |
+22 |
 
 THEMYS |
 
@@ -280,4 +294,4 @@ CD 45-Pont de l'Etoile-
 
 -Sailor 6280/6281 AIS System Class A/ Inland AIS (R-4-302) |
 
-* Certains types d'appareils n'ont pas reçu d'agrément conformément au Règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+* Certains types d'appareils n'ont pas reçu d'agrément conformément au Règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé, à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
