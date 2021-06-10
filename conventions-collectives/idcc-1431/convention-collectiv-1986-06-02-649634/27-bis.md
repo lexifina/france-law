@@ -1,5 +1,0 @@
-# Article 27 bis
-
-Pour l'application des dispositions de la présente convention et de ses annexes, on entend par présence continue le temps écoulé depuis la date d'entrée en vigueur du contrat de travail en cours sans que soient exclues les périodes pendant lesquelles le contrat a été suspendu, y compris la période d'apprentissage.
-
-Pour la détermination de l'ancienneté dans l'entreprise, on tiendra compte, non seulement de la présence continue au titre du contrat en cours dans l'entreprise ou une de ses filiales, mais également le cas échéant de la durée des contrats de travail antérieurs dans l'entreprise ou l'une de ses filiales, à l'exclusion toutefois de ceux qui auraient été rompus pour faute grave ou dont la résiliation aurait été le fait du salarié intéressé.
