@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200113970
+
+- Question : [SEQ200113970](seq200113970.md) — Fraude aux prélèvements obligatoires
+
+## Réponse
+
+*Comptes publics, JO du 2021-06-10, page 3707*
+
+Depuis plusieurs années, la recherche d'efficacité dans la lutte contre le travail dissimulé a conduit le réseau des URSSAF à améliorer sa méthode d'identification des risques de fraude et de ciblage des contrôles. Plus de 89 % des actions ciblées au titre de l'année 2020 ont ainsi abouti à un redressement. Dans le cadre de la convention d'objectifs et de gestion signée avec l'État pour la période 2018-2022, l'Agence centrale des organismes de sécurité sociale (ACOSS) poursuit une démarche opérationnelle d'analyse du risque. L'objectif est d'améliorer le ciblage national et régional des entreprises à contrôler, notamment par un classement par niveau de cotation du risque. Des expérimentations de datamining à partir des données issues de la déclaration sociale nominative (DSN) ont été menées dans une dizaine d'URSSAF avant qu'un plan de datamining ne soit diffusé en avril 2021 à l'ensemble des organismes du recouvrement. Les résultats devraient permettre de consolider le modèle prédictif défini et d'aboutir à l'industrialisation d'un outil de ciblage. En parallèle, afin d'optimiser le ciblage des entreprises présentant un profil de risque de fraude, l'ACOSS s'inscrit dans des projets visant à enrichir les informations exploitées. Ces travaux d'échange de données conduits avec d'autres organismes de protection sociale (CNAM, CLEISS) et des administrations partenaires (direction générale des finances publiques, direction générale du travail, direction générale de l'emploi et de la formation professionnelle) portent sur l'économie numérique, les détachements entrants et sortants, et l'activité partielle.
