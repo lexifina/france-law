@@ -1160,9 +1160,7 @@ Etablissements Jean Villard, 81-87, quai Bérigny, 76400 Fécamp : de 1964 à 19
 
 Etablissements SETI Boulevard Jules-Durand, 76600 Le Havre : Depuis sa création jusqu'à 1997.
 
-Evers/Evers isolation :
-
-- 76600 Le Havre, rue Henri-Tournon, 76133 Epouville, 76290 Montivilliers : depuis 1946.
+Ets Georges EVERS et Cie ,Rue Henri Ternon, 76133 EPOUVILLE : de 1946 à 1992 puis EVERS ISOLATION, Rue Henri Ternon, 76133 EPOUVILLE : de 1992 à 1997.
 
 Forges et chantiers de la Méditerranée/ACHDBAN (atelier chantier du Havre Dubigeon, Normandie/SNACHDBAN (Société nouvelle du Havre Dubigeon Normandie)/Société nouvelle des chantiers de Graville (SNCG) :
 
