@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415456
+
+- Question : [SEQ200415456](seq200415456.md) — Exonération de charges pour les salariés des petites et moyennes entreprises et épidémie de Covid-19
+
+## Réponse
+
+*Comptes publics, JO du 2021-06-10, page 3711*
+
+Les dispositifs d'exonération et d'aide au paiement des cotisations et contributions sociales sont prévus d'une part, à l'article 65 de la loi de finances rectificative pour 2020 (loi n° 2020-935 du 30 juillet 2020), et d'autre part, à l'article 9 de la loi de financement de la sécurité sociale pour 2021 (loi n° 2020-1576 du 14 décembre 2020). Ces dispositifs sont applicables aux cotisations patronales (à l'exclusion des cotisations de retraite complémentaire) dues sur les rémunérations versées durant les périodes d'emploi frappées par une mesure liée à l'urgence sanitaire. S'ajoute une aide au paiement des cotisations sociales, qui équivaut au montant des cotisations salariales dues. Sont éligibles à ces dispositifs : - d'une part, les entreprises particulièrement affectées par la propagation de l'épidémie (secteurs du tourisme, de l'hôtellerie, de la restauration, du sport, de la culture, du transport aérien et de l'évènementiel), et celles dont l'activité est dépendante de ces secteurs. Les activités concernées sont définies aux annexes 1 et 2 du décret n° 2020-371 du 30 mars 2020 relatif au fonds de solidarité à destination des entreprises particulièrement touchées par les conséquences économiques, financières et sociales de la propagation de l'épidémie de Covid-19 et des mesures prises pour limiter cette propagation ; - d'autre part, les secteurs ayant fait l'objet d'une interdiction d'accueil du public affectant de manière prépondérante la poursuite de leur activité, à l'exception des activités de livraison, de retrait de commande ou de vente à emporter. Ces activités ont fait l'objet des décrets n° 2020-293 du 23 mars 2020, n° 2020-1262 du 16 octobre 2020, et n° 2020-1310 du 29 octobre 2020.
