@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210119952
+
+- Question : [SEQ210119952](seq210119952.md) — Installations considérées comme accessibles aux personnes à mobilité réduite
+
+## Réponse
+
+*Personnes handicapées, JO du 2021-06-10, page 3746*
+
+Les usages attendus et les caractéristiques minimales relatifs à l'accessibilité des sanitaires sont fixés par plusieurs textes de lois. Il s'agit tout d'abord de l'article 12 de l'arrêté du 8 décembre 2014 fixant les dispositions prises pour l'application des articles R. 111-19-7 à R. 111-19-11 du code de la construction et de l'habitation et de l'article 14 du décret n° 2006-555 relatives à l'accessibilité aux personnes handicapées des établissements recevant du public situés dans un cadre bâti existant et des installations existantes ouvertes au public. L'article 14 de l'arrêté du 20 avril 2017 prévoit, quant à lui, l'accessibilité aux personnes handicapées dans les établissements recevant du public lors de leur construction et dans les installations ouvertes au public lors de leur aménagement. Ces dispositions correspondent à un équilibre nécessaire entre la multitude des besoins et usages des personnes handicapées au sein d'un cabinet d'aisance. Modifier la hauteur d'assise déplacerait le problème puisque d'autres personnes, pour lesquelles la hauteur réglementaire actuelle est satisfaisante, seraient alors en difficulté. Le ministère de la transition écologique capitalise régulièrement les remontées de cet ordre et les demandes de modification de la règlementation en vue d'améliorer la qualité d'usage des personnes handicapées. Or, les sanitaires n'ont fait l'objet d'aucune alerte depuis les importants travaux de réécriture de la réglementation relative à l'accessibilité des établissements recevant du public, mais aussi des logements, menés entre 2014 et 2017.
