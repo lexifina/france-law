@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219378
+
+- Question : [SEQ201219378](seq201219378.md) — Statut de l'aire d'arrêt d'une route départementale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-06-10, page 3690*
+
+Les aires d'arrêt ou de stationnement le long des voies départementales sont des dépendances du domaine public routier départemental en tant qu'accessoire indissociable de la voie au sens de l'article L. 2111-2 du code général de la propriété des personnes publiques. Les règlements de voirie départementale mentionnent en général expressément que le domaine public routier recouvre, outre la chaussée, ses dépendances dont les aires de repos ou de stationnement. Les délaissés de voirie, quant à eux, sont des parcelles qui faisaient préalablement partie du domaine public routier et qui se trouvent être déclassées par suite d'une modification de l'alignement résultant notamment d'un changement de tracé de la voie. Les délaissés de voirie ne font plus partie du domaine public routier, car ces parcelles ne sont plus utilisées pour la circulation (CE, 27 septembre 1989, n° 70653). Dans le cas décrit dans la présente question, s'il y a bien eu une modification du tracé de la chaussée, la parcelle est demeurée dans le domaine public routier départemental. En effet, les aires d'arrêt ou de stationnement participent de la sécurité du trafic et des usagers et, à ce titre, constituent des accessoires permanents de la voirie. Il revient ainsi au département, en vertu de son obligation d'entretien de la voirie, d'assurer le ramassage des déchets sur l'aire d'arrêt et de stationnement. En cas de dépôt sauvage, le président du conseil départemental, au titre de son pouvoir de police de la circulation, peut engager la procédure prévue à l'article L. 541-3 du code l'environnement relatif aux personnes responsables de ces dépôts.
