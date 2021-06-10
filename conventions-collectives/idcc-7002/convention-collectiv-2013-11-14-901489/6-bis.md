@@ -19,3 +19,5 @@ Cette enveloppe globale est répartie entre les organisations syndicales représ
 - à 60 % de manière égalitaire ;
 
 - à 40 % selon la représentativité de l'organisation syndicale au sein de la branche.
+
+Pour toute négociation de branches, dans le cadre de la CCN « V Branches » et nécessitant un travail technique approfondi par le biais de groupe de travail paritaire, il est prévu la conclusion d'un accord de méthode et de moyen pour permettre notamment le financement des déplacements et des repas. L'ensemble des modalités sera détaillé dans cet accord de méthode et de moyen en fonction de la thématique.
