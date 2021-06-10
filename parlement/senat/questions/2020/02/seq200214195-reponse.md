@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200214195
+
+- Question : [SEQ200214195](seq200214195.md) — Prolifération des attaques de chiens dangereux en Seine-Saint-Denis
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-06-10, page 3688*
+
+Les mesures contraignantes et les évaluations comportementales ne concernent pas uniquement les chiens catégorisés, mais également tous les chiens susceptibles de présenter un danger. En effet, la loi du 5 mars 2007 a renforcé la loi de 1999 relatives aux chiens dangereux en permettant au maire d'imposer une évaluation comportementale effectuée par un vétérinaire, pour tout chien qu'il estime dangereux, qu'il soit classé ou non. Par ailleurs, l'Anses a publié en février 2021 une évaluation du risque de morsure par les chiens téléchargeable sur https://www.anses.fr/fr/system/files/SABA2015SA0158Ra.pdf Lors de ces travaux, l'Anses a analysé l'ensemble des résultats des évaluations comportementales, toutes races confondues, et a conduit des enquêtes auprès de vétérinaires évaluateurs ainsi qu'une analyse bibliographique sur le sujet. Au terme de cette expertise, l'Anses a conclu que le risque de morsure ne peut se fonder de manière fiable sur la seule race ou type racial du chien et qu'il dépend de nombreux facteurs liés à l'animal lui-même, comme par exemple l'éducation qu'il a reçue, son âge, son sexe ou encore son état de santé et de bien-être. Le risque dépend également des interactions du chien avec les humains (ceux qui l'élèvent, ceux qu'il rencontre occasionnellement, selon les circonstances et d'autres facteurs encore). Dans un objectif de prévention, l'Anses préconise donc d'agir sur un ensemble large de leviers de sensibilisation, de formation, d'information et de partage, afin de gérer collectivement au mieux les risques associés.
