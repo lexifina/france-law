@@ -526,6 +526,8 @@ Lebrun Albert, rue du Clos-au-Blé, 76530 Grand-Couronne, puis rue raspail, BP 2
 
 les Fours Gouet SA, rue Edmond-Lavernot, 76260 Eu : de 1963 à 1996 ;
 
+LES PAPETERIES DE LA CHAPELLE-CHAPELLE DARBLAY-SA PAPETERIES CHAPELLE DARBLAY-SA NOUVELLE CHAPELLE DARBLAY-SA REMAP HOLDING-CHAPELLE DARBLAY HOLDING-SA CHAPELLE DARBLAY HOLDING-KYMMENE HOLDING-SA CHAPELLE DARBLAY-SA OTOR PAPETERIE DE ROUEN, rue Désiré-Granet, 76800 Saint-Etienne-du-Rouvray : de 1930 à 1998.
+
 Lincoln Electric France, avenue Franklin-Roosevelt, BP 214,76121 Le Grand-Quevilly Cedex : de 1947 à 1990 ;
 
 Normandie Isolation, 76830 Dieppedalle-Croisset : de 1954 à 1985 ;
