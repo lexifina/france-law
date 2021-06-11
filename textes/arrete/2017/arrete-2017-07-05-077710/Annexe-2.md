@@ -28,6 +28,8 @@ Arrêtés définissant les réseaux routiers départementaux “ TE94 ” :
 
 -arrêté n° 2018-0185 du 6 février 2018 définissant les réseaux routiers du département du Cantal “ TE120 ”, “ TE94 ” et “ TE72 ” accessibles aux convois exceptionnels, ainsi que leur cahier de prescriptions ;
 
+-arrêté n° 16-2021-03-30-00005 du 30 mars 2021 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Charente accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
 -arrêté préfectoral n° 19-2020-09-18-005 du 18 septembre 2020 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Corrèze accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral n° 805 du 14 décembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” de la Côte-d'Or accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
@@ -139,6 +141,8 @@ Arrêtés définissant les réseaux routiers départementaux “ TE94 ” :
 -arrêté n° 2017-DDT-SIDCE-REG-001 du 29 mai 2017 portant sur la définition des réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Seine-et-Marne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral du 2 mai 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département des Yvelines accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
+-arrêté n° 79-2021-03-12-00002 du 12 mars 2021 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département des Deux-Sèvres accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté TE2017-002 du 30 novembre 2017 abrogeant l'arrêté TE2017-001 du 27 mars 2017 relatif à la définition des réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Somme accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
