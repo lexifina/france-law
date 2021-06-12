@@ -2,7 +2,7 @@
 
 I. – Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2020, à 17,43 € en zone A bis, 12,95 € dans le reste de la zone A, 10,44 € en zone B 1 et 9,07 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2021, à 17,55 € en zone A bis, 13,04 € dans le reste de la zone A, 10,51 € en zone B 1 et 9,13 € en zone B 2 et en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la formule suivante :
 
@@ -14,7 +14,7 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants :
 
-a) Pour les baux conclus en 2020, les plafonds annuels de ressources des locataires sont les suivants :
+a) Pour les baux conclus en 2021, les plafonds annuels de ressources des locataires sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE |
 
@@ -40,87 +40,87 @@ Zone C
 
 Personne seule |
 
-38 465 |
+38 377 |
 
-38 465 |
+38 377 |
 
-31 352 |
+31 280 |
 
-28 217 |
+28 152 |
 
-28 217 |
+28 152 |
 
 Couple |
 
-57 489 |
+57 357 |
 
-57 489 |
+57 357 |
 
-41 868 |
+41 772 |
 
-37 681 |
+37 594 |
 
-37 681 |
+37 594 |
 
 Personne seule ou couple ayant une personne à charge |
 
-75 361 |
+75 188 |
 
-69 105 |
+68 946 |
 
-50 349 |
+50 233 |
 
-45 314 |
+45 210 |
 
-45 314 |
+45 210 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-89 976 |
+89 769 |
 
-82 776 |
+82 586 |
 
-60 783 |
+60 643 |
 
-54 705 |
+54 579 |
 
-54 705 |
+54 579 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-107 053 |
+106 807 |
 
-97 991 |
+97 766 |
 
-71 504 |
+71 340 |
 
-64 354 |
+64 206 |
 
-64 354 |
+64 206 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-120 463 |
+120 186 |
 
-110 271 |
+110 017 |
 
-80 584 |
+80 399 |
 
-72 526 |
+72 359 |
 
-72 526 |
+72 359 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+13 421 |
++ 13 390 |
 
-+12 286 |
++ 12 258 |
 
-+8 990 |
++ 8 969 |
 
-+8 089 |
++ 8 070 |
 
-+8 089 |
++ 8 070 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2 duodecies ;
 
@@ -146,4 +146,4 @@ III. – Pour l'application du second alinéa du III de l'article 199 novovicies
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2012-1532 du 29 décembre 2012 et de l'article 5 II 3° du décret n° 2019-873 du 21 août 2019.
+Modifications effectuées en conséquence du décret n° 2012-1532 du 29 décembre 2012, art. 1er-1°.

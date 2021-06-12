@@ -18,7 +18,7 @@ Le donataire ne peut bénéficier du dispositif qu'une seule fois par donateur.
 
 Pour un même donateur, la somme des donations ayant bénéficié de l'exonération mentionnée au premier alinéa du présent I ne peut excéder un montant de 100 000 €.
 
-Cette exonération ne s'applique pas aux versements effectués par le donataire au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies A, 199 undecies B, 199 undecies C, 199 terdecies-0 A, 199 terdecies-0 AB ou 199 terdecies 0 B du présent code. Elle ne s'applique pas non plus aux dépenses au titre desquelles le donataire a bénéficié des crédits d'impôt prévus à l'article 199 sexdecies ou 200 quater, d'une déduction de charges pour la détermination de ses revenus catégoriels ou de la prime prévue au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.
+Cette exonération ne s'applique pas aux versements effectués par le donataire au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux articles 199 undecies A, 199 undecies B, 199 undecies C, 199 terdecies-0 A, 199 terdecies-0 AB ou 199 terdecies-0 B du présent code. Elle ne s'applique pas non plus aux dépenses au titre desquelles le donataire a bénéficié des crédits d'impôt prévus à l'article 199 sexdecies ou 200 quater, d'une déduction de charges pour la détermination de ses revenus catégoriels ou de la prime prévue au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020.
 
 Le donataire conserve les pièces justificatives à la disposition de l'administration.
 

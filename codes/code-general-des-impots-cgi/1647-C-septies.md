@@ -1,6 +1,6 @@
 # Article 1647 C septies
 
-I. – Les redevables de la cotisation foncière des entreprises et les entreprises temporairement exonérées de cet impôt au titre de l'un ou plusieurs de leurs établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 I bis, 1464 M, 1466 A, 1466 B, 1466 B bis, 1466 C, 1466 D et 1478 bis peuvent bénéficier d'un crédit d'impôt, pris en charge par l'Etat et égal à 750 € par salarié employé dans l'établissement au titre duquel le crédit d'impôt est demandé, lorsque les conditions suivantes sont réunies :
+I. – Les redevables de la cotisation foncière des entreprises et les entreprises temporairement exonérées de cet impôt au titre de l'un ou plusieurs de leurs établissements en application des articles 1464 B à 1464 D, 1464 I, 1464 I bis, 1464 M, 1466 A, 1466 B, 1466 B bis, 1466 D et 1478 bis peuvent bénéficier d'un crédit d'impôt, pris en charge par l'Etat et égal à 750 € par salarié employé dans l'établissement au titre duquel le crédit d'impôt est demandé, lorsque les conditions suivantes sont réunies :
 
 1° L'établissement relève d'une entreprise employant moins de onze salariés et ayant réalisé soit un chiffre d'affaires inférieur à 2 millions d'euros au cours de la période de référence prévue aux articles 1467 A et 1478, éventuellement corrigé pour correspondre à une année pleine, soit un total du bilan inférieur à 2 millions d'euros. Pour la société mère d'un groupe mentionné aux articles 223 A ou 223 A bis, le chiffre d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
 
@@ -25,7 +25,3 @@ V. – Si, pendant la période d'application du crédit d'impôt ou dans les cin
 VI. – Les emplois transférés à partir d'un autre établissement de l'entreprise situé dans une zone autre que celles visées au 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée n'ouvrent pas droit au crédit d'impôt.
 
 VII. – Le bénéfice du crédit d'impôt est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
-
-NOTA :
-
-Conformément au II de l'article 120 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s’appliquent aux créations et extensions d’établissements intervenues à compter du 1er janvier 2021.

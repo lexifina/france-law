@@ -2,11 +2,11 @@
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-1. Pour les baux conclus en 2020, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
+1. Pour les baux conclus en 2021, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 178 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
+1° 180 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 218 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 219 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
@@ -18,11 +18,13 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2020, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2021, les plafonds annuels de ressources sont les suivants :
 
 Composition du foyer du locataire |
 
-Plafond annuel de ressources (en €) |
+Plafond annuel de ressources
+
+(en €) |
 
 Départements d'outre-mer, Saint-Barthélemy et Saint-Martin |
 
@@ -30,45 +32,45 @@ Polynésie française, Nouvelle Calédonie, îles Wallis et Futuna, Terres austr
 
 Personne seule |
 
-32 877 |
+33 106 |
 
-31 200 |
+31 257 |
 
 Couple |
 
-60 799 |
+61 223 |
 
-57 701 |
+57 806 |
 
 Personne seule ou couple ayant une personne à charge |
 
-64 315 |
+64 763 |
 
-61 037 |
+61 148 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-67 833 |
+68 306 |
 
-64 376 |
+64 493 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-72 530 |
+73 035 |
 
-68 833 |
+68 958 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-77 230 |
+77 768 |
 
-73 292 |
+73 425 |
 
 Majoration par personne à charge à partir de la cinquième |
 
-+ 4 937 |
++ 4 972 |
 
-+ 4 685 |
++ 4 694 |
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 
@@ -84,4 +86,4 @@ c) Des ressources du sous-locataire.
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1373 du 31 décembre 2001.
+Modifications effectuées en conséquence du décret n° 2001-137 du 31 décembre 2001, art. 1er.

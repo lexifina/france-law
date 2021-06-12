@@ -4,7 +4,7 @@ I. – Les entreprises de production cinématographique et les entreprises de pr
 
 Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation sociale. Il ne peut notamment être accordé aux entreprises de production déléguées qui ont recours à des contrats de travail mentionnés au 3° de l'article L. 1242-2 du code du travail afin de pourvoir à des emplois qui ne sont pas directement liés à la production d'une oeuvre déterminée.
 
-II. – 1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du documentaire de l'animation et de l'adaptation audiovisuelle de spectacles. Ces oeuvres doivent répondre aux conditions suivantes :
+II. – 1. Les oeuvres cinématographiques ou audiovisuelles mentionnées au I appartiennent aux genres de la fiction, du documentaire, de l'animation et de l'adaptation audiovisuelle de spectacles. Ces oeuvres doivent répondre aux conditions suivantes :
 
 a) Etre réalisées intégralement ou principalement en langue française ou dans une langue régionale en usage en France à l'exception des œuvres cinématographiques d'animation mentionnées à l'avant-dernier alinéa du 1 du III et des œuvres cinématographiques de fiction mentionnées au dernier alinéa du même 1 du III, ainsi que des œuvres cinématographiques pour lesquelles l'emploi d'une langue étrangère est justifié pour des raisons artistiques tenant au scénario ;
 

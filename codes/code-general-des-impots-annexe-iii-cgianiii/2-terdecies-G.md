@@ -8,7 +8,7 @@ a) Pour les logements donnés en location dans le cadre d'une convention mention
 
 Pour l'application du premier alinéa, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au premier alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D. La zone C mentionnée au présent alinéa est celle définie à l'article D. 304-1 du code de la construction et de l'habitation ;
 
-b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2020, à :
+b) Pour les logements donnés en location dans le cadre d'une convention mentionnée à l'article L. 321-8 du code de la construction et de l'habitation, les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2021, à :
 
 |
 
@@ -34,27 +34,27 @@ ZONE C
 
 Loyer social |
 
-12,19 |
+12,27 |
 
-9,38 |
+9,44 |
 
-8,08 |
+8,13 |
 
-7,76 |
+7,81 |
 
-7,20 |
+7,25 |
 
 Loyer très social |
 
-9,49 |
+9,55 |
 
-7,30 |
+7,35 |
 
-6,29 |
+6,33 |
 
-6,02 |
+6,06 |
 
-5,59 |
+5,63 |
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies.
 
@@ -76,4 +76,4 @@ c) Pour l'application du présent 2, les ressources du locataire s'entendent du 
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 2-1° du décret n° 2017-839 du 5 mai 2017 et de l'article 5 II 3° du décret n° 2019-873 du 21 août 2019.
+Modifications effectuées en conséquence du décret n° 2017-839 du 5 mai 2017, art. 2-1°.

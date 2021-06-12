@@ -8,7 +8,7 @@ III. – Les établissements pouvant être exonérés de cotisation foncière de
 
 IV. – Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée des établissements bénéficiant d'un abattement de leur base nette d'imposition à la cotisation foncière des entreprises en application de l'article 1466 F fait l'objet, à la demande de l'entreprise, d'un abattement de même taux, pour la fraction de la valeur ajoutée taxée au profit des collectivités concernées par l'abattement de cotisation foncière des entreprises, dans la limite de 2 millions d'euros de valeur ajoutée.
 
-V. – Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée des établissements bénéficiant d'une exonération ou d'un abattement de la base nette d'imposition à la cotisation foncière des entreprises en application des I, I sexies ou I septies de l'article 1466 A fait l'objet, à la demande de l'entreprise, d'une exonération ou d'un abattement de même taux, dans la limite respectivement pour 2019 de 142 425 € et de 387 059 € de valeur ajoutée par établissement et actualisé chaque année en fonction de la variation de l'indice des prix.
+V. – Pour la détermination de la cotisation sur la valeur ajoutée des entreprises, la valeur ajoutée des établissements bénéficiant d'une exonération ou d'un abattement de la base nette d'imposition à la cotisation foncière des entreprises en application des I, I sexies ou I septies de l'article 1466 A fait l'objet, à la demande de l'entreprise, d'une exonération ou d'un abattement de même taux, dans la limite respectivement pour 2020 de 141 998 € et de 385 898 € de valeur ajoutée par établissement et actualisé chaque année en fonction de la variation de l'indice des prix.
 
 VI. – Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III et de l'abattement prévu au IV est perdu lorsque les conditions de l'exonération ou de l'abattement correspondant de cotisation foncière des entreprises ne sont plus réunies.
 
@@ -18,10 +18,4 @@ VII. – Lorsqu'une entreprise dispose de plusieurs établissements dans une mê
 
 NOTA :
 
-Conformément au II de l’article 110 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux impositions établies au titre des années 2020 à 2023.
-
-Conformément au A du VI de l’article 8 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 1° à 7° du I, à l'exception du b du 2°, s'appliquent à la cotisation sur la valeur ajoutée des entreprises :
-
-1° Due par les redevables au titre de 2021 et des années suivantes ;
-
-2° Versée par l'Etat aux communes, le cas échéant aux établissements publics de coopération intercommunale, ainsi qu'aux départements à compter de 2022.
+Modifications effectuées en conséquence de l’article 108-II F 4° de la loi n° 2010-1657 du 29 décembre 2010,

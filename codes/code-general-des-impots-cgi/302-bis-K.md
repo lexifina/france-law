@@ -34,11 +34,11 @@ Pour l'application du a, un décret précise les aéroports faisant partie d'un 
 
 II. – 1. Le tarif de la taxe, perçue en fonction de la destination finale du passager est le suivant :
 
-4,63 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, de la Confédération suisse ou d'un autre Etat situé à moins de 1 000 kilomètres de la France continentale ;
+4,66 € par passager embarqué à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, de la Confédération suisse ou d'un autre Etat situé à moins de 1 000 kilomètres de la France continentale ;
 
-8,32 € par passager embarqué vers d'autres destinations ;
+8,37 € par passager embarqué vers d'autres destinations ;
 
-Le tarif de la taxe est de 1,37 € par tonne de courrier ou de fret embarquée.
+Le tarif de la taxe est de 1,38 € par tonne de courrier ou de fret embarquée.
 
 A compter de l'année 2011, ces tarifs sont revalorisés chaque année dans une proportion égale au taux prévisionnel de croissance de l'indice des prix à la consommation hors tabac associé au projet de loi de finances de l'année.
 
@@ -194,4 +194,4 @@ Il est fixé par arrêté des ministres chargés du budget et de l'aviation civi
 
 NOTA :
 
-Conformément au B du II de l’article 171 de la loi n° 2019-1479 du 29 décembre 2019, les dispositions de la seconde phrase du 3 du II de l'article 302 bis K telles qu'elles résultent du dernier alinéa du b du 2° du A du I dudit article s'appliquent aux impositions dont le fait générateur intervient à compter du 1er avril 2021.
+Les conditions de prise d'effet de l'abrogation de ces dispositions sont prévues à l'article 38 de l'ordonnance n° 2021-1843 du 22 décembre 2021.
