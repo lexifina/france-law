@@ -68,12 +68,6 @@ Haut-Rhin |
 
 |
 
-Creil |
-
-Oise |
-
-|
-
 Damblain |
 
 Vosges |
