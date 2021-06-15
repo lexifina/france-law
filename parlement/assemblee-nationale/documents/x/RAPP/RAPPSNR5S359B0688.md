@@ -1,0 +1,10 @@
+# rapport  sur le projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, autorisant la ratification de l'accord-cadre entre l'Union européenne et ses États membres, d'une part, et l'Australie, d'autre part (n°539).
+
+- Type : Rapport
+- Dénomination : Rapport
+- Provenance : Commission
+- Titre court : rapport  sur le projet de loi, adopté, par l'Assemblée nationale après engagement de la procédure accélérée, autorisant la ratification de l'accord-cadre entre l'Union européenne et ses États membres, d'une part, et l'Australie, d'autre part (n°539).
+- Déposé le : 2021-06-15
+- Dossier : DLR5L15N38322
+- Auteurs : M. Pascal Allizard (rapporteur), Commission des affaires étrangères, de la défense et des forces armées
+- Identifiant : RAPPSNR5S359B0688
