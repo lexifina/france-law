@@ -1,0 +1,8 @@
+# Blois : délibération SCFP-2021 — Adhésion 2021 - CGS Achats du Centre
+
+- Collectivité : Blois
+- SIREN : 214100182
+- Code INSEE : 41018
+- Date : 2021-06-16
+- Objet : Adhésion 2021 - CGS Achats du Centre
+- Jeu de données : https://www.data.gouv.fr/datasets/centre-intercommunal-d-action-sociale-du-blaisois-deliberations-du-conseil-d-adm@blois-agglopolys-centrevaldeloire
