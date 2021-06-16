@@ -1,0 +1,57 @@
+# Protection des enfants
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42608
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/pjl_protection_enfants
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-764.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-06-16 : 1er dépôt d'une initiative. (PRJLANR5L15B4264)
+  - 2021-06-16 : Etude d'impact (ETDIANR5L15B4264)
+  - 2021-06-16 : Avis du Conseil d'Etat (AVCEANR5L15B4264)
+  - 2021-06-16 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-06-16 : Renvoi en commission au fond
+      - 2021-06-16 : Réunion de commission
+      - 2021-06-30 : Réunion de commission
+      - 2021-06-30 : Réunion de commission
+      - 2021-06-30 : Réunion de commission
+      - 2021-07-06 : Réunion de commission
+      - 2021-07-01 : Dépôt de rapport (RAPPANR5L15B4307, PRJLANR5L15BTC4307)
+  - Discussion en séance publique
+    - 2021-07-06 : Discussion en séance publique
+    - 2021-07-06 : Discussion en séance publique
+    - 2021-07-07 : Discussion en séance publique
+    - 2021-07-07 : Discussion en séance publique
+    - 2021-07-08 : Discussion en séance publique
+    - 2021-07-08 : Discussion en séance publique
+    - 2021-07-08 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-07-09 : Dépôt d'une initiative en navette (PRJLSNR5S359B0764)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-09 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-10-20 : Dépôt de rapport (RAPPSNR5S379B0074, PRJLSNR5S379BTC0075)
+  - Discussion en séance publique
+    - 2021-12-15 : Décision
+- Commission Mixte Paritaire
+  - 2021-12-16 : Dépôt d'un projet de loi (PRJLANR5L15B4819)
+  - 2021-12-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-01-11 : Nomination de rapporteur
+    - 2022-01-11 : Dépôt du rapport d'une CMP (RAPPANR5L15B4890, PRJLANR5L15BTC4890)
+    - 2022-01-11 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0338, PRJLSNR5S379BTC0339)
+  - Discussion en séance publique
+    - 2022-01-20 : Discussion en séance publique
+    - 2022-01-20 : Décision
+  - Discussion en séance publique
+    - 2022-01-25 : Discussion en séance publique
+    - 2022-01-25 : Décision
+  - 2022-01-12 : Décision de la CMP
+- Promulgation de la loi
+  - 2022-02-07 : Promulgation d'une loi
