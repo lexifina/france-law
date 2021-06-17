@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522615
+
+- Question : [SEQ210522615](seq210522615.md) — Offense faite aux victimes des persécutions antisémites de la Deuxième Guerre mondiale
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2021-06-17, page 3860*
+
+La loi du 14 avril 1954 consacre le dernier dimanche d'avril au souvenir des victimes et des héros de la déportation. Dans ce cadre, un message est lu lors des cérémonies officielles pour rappeler ce que furent les camps nazis et rendre hommage à toutes les victimes. A cet égard, le texte diffusé le 25 avril dernier a été rédigé conjointement par la Fédération nationale des déportés, internés, résistants et patriotes (FNDIRP), la Fondation pour la mémoire de la déportation (FMD), les Associations de mémoire des camps nazis et l'Union nationale des associations de déportés internés de la résistance et familles (UNADIF-FNDIR). Les différentes associations représentant les victimes de la barbarie nazie œuvrent depuis des années pour perpétuer et transmettre la mémoire des déportés, quels que soient les motifs de la déportation. Le message évoquait bien entendu l'ensemble des victimes de la déportation, qu'il s'agisse des Juifs, des Tsiganes, des Slaves, des résistants, et de toutes les victimes de persécutions d'ordre religieux, politique ou encore sexuel. Le choix a été fait de ne nommer aucune catégorie de déportés dans un souci d'unité des mémoires. Cet hommage est national et rendu à tous les déportés, cette année comme les précédentes. Cette journée nationale honore toutes les victimes et héros de la déportation, contrairement au 16 juillet, journée nationale à la mémoire des victimes des crimes racistes et antisémites de l'État français et d'hommage aux « Justes » de France, ou au 27 janvier, journée internationale dédiée à la mémoire des victimes de l'Holocauste et de la prévention des crimes contre l'humanité, dates plus spécifiquement consacrées à la commémoration de la Shoah.
