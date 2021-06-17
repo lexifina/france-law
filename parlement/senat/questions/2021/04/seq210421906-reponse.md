@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210421906
+
+- Question : [SEQ210421906](seq210421906.md) — Suppression des espèces et gestion des régies de recettes dans les communes rurales
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-06-17, page 3843*
+
+Une régie de recettes permet à un régisseur d'encaisser les recettes énumérées dans l'acte constitutif de la régie, à la place du comptable public assignataire, pour le compte d'une collectivité ou d'un l'établissement public local. Ainsi, elle permet d'encaisser des recettes dès que le service a été rendu et donc d'abonder rapidement la trésorerie de la collectivité ou de l'établissement public local. En application des dispositions du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et notamment son article 25, et de l'article R.1617-7 du code général des collectivités territoriales (CGCT), les redevables sont autorisés à s'acquitter des sommes à leur charge selon les modes de perception suivants :en numéraire dans la limite de 300€ ;au moyen de chèques bancaires, postaux et assimilés ;par carte bancaire ;par virement ;par prélèvement s'agissant de natures de recettes que les comptables peuvent être autorisés à percevoir ainsi. Le contexte fortement évolutif des usages des moyens de paiement demande une attention particulière, afin de continuer de garantir à tous et partout l'accessibilité aux espèces, et de préserver la liberté de choix du moyen de paiement, en particulier pour les populations fragiles ou habitant en milieu rural. Les paiements auprès des services municipaux en espèces sont donc toujours possibles. Par ailleurs, les régies peuvent depuis le 30 avril 2021 s'approvisionner en espèces et les déposer auprès de bureaux de poste habilités dans le cadre du dispositif mis en place par la Banque postale spécialement pour la DGFIP. La DDFIP de Haute Vienne est à la disposition de la Sénatrice pour lui présenter plus précisément cette prestation.
