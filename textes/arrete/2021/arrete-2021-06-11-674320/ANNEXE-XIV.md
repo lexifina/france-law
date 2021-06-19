@@ -1,6 +1,4 @@
-# Article LEGIARTI000039794986
-
-ANNEXE XIV
+# Article ANNEXE XIV
 
 EMPLOIS RELEVANT DU SECRÉTARIAT GÉNÉRAL POUR L'ADMINISTRATION
 
@@ -298,13 +296,17 @@ A |
 
 De 20 à 40 |
 
-5 |
+10 |
 
-200 |
+300 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
+Adjoint à un chef de bureau ou assimilé.
+
 Chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
 
 Secrétaire de direction ou responsable de secrétariat assujetti à des obligations particulières. |
 
@@ -312,9 +314,9 @@ A ou B |
 
 De 15 à 20 |
 
-5 |
+10 |
 
-100 |
+200 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -352,7 +354,7 @@ A |
 
 De 20 à 40 |
 
-27 |
+35 |
 
 1 080 |
 
@@ -361,6 +363,8 @@ De 20 à 40 |
 Adjoint à un chef de bureau ou assimilé.
 
 Agent chargé d'une responsabilité dans le domaine informatique.
+
+Chef de bureau ou assimilé.
 
 Chef de section ou assimilé.
 
@@ -416,7 +420,7 @@ A |
 
 De 20 à 40 |
 
-9 |
+15 |
 
 360 |
 
@@ -438,9 +442,9 @@ A ou B |
 
 De 15 à 20 |
 
-18 |
+25 |
 
-360 |
+500 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -480,9 +484,9 @@ A |
 
 De 20 à 40 |
 
-7 |
+15 |
 
-280 |
+450 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -496,9 +500,9 @@ A ou B |
 
 De 15 à 20 |
 
-12 |
+20 |
 
-240 |
+400 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -512,9 +516,9 @@ B ou C |
 
 De 10 à 15 |
 
-21 |
+25 |
 
-315 |
+375 |
 
 IX. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine scientifique, dans le domaine technique. |
 
@@ -528,9 +532,9 @@ A |
 
 De 20 à 40 |
 
-5 |
+10 |
 
-200 |
+300 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -544,9 +548,9 @@ A ou B |
 
 De 15 à 20 |
 
-12 |
+20 |
 
-240 |
+300 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -578,9 +582,9 @@ A |
 
 De 20 à 40 |
 
-14 |
+20 |
 
-560 |
+600 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -612,6 +616,6 @@ B ou C |
 
 De 10 à 15 |
 
-9 |
+20 |
 
-135 |
+300 |

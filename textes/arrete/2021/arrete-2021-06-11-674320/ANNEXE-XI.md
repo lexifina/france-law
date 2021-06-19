@@ -1,8 +1,6 @@
-# Article LEGIARTI000039794982
+# Article ANNEXE XI
 
-ANNEXE XII
-
-EMPLOIS RELEVANT DE LA DIRECTION DU RENSEIGNEMENT MILITAIRE
+EMPLOIS RELEVANT DE L'ÉTAT-MAJOR DES ARMÉES
 
 Désignation de l'emploi |
 
@@ -28,9 +26,69 @@ de points |
 
 I. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de la gestion du personnel, dans le domaine des ressources humaines. |
 
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
+
+Chef de bureau ou assimilé. |
+
+A |
+
+De 20 à 40 |
+
+15 |
+
+450 |
+
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
-Adjoint à un chef de bureau ou assimilé. |
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de section ou assimilé. |
+
+A ou B |
+
+De 15 à 20 |
+
+10 |
+
+200 |
+
+3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Agent spécialisé dans des tâches nécessitant des connaissances particulières dans le domaine de la gestion du personnel ou des ressources humaines.
+
+Chef de section ou assimilé.
+
+Conseiller ou responsable formation. |
+
+B ou C |
+
+De 10 à 15 |
+
+15 |
+
+225 |
+
+II. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine économique, dans le domaine financier. |
+
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
+
+Chef de bureau ou assimilé. |
+
+A |
+
+De 20 à 40 |
+
+5 |
+
+200 |
+
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de section ou assimilé. |
 
 A ou B |
 
@@ -42,29 +100,19 @@ De 15 à 20 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
-Chef de section ou assimilé. |
+Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
+
+Chef de section ou assimilé.
+
+Contrôleur de gestion ou assimilé. |
 
 B ou C |
 
 De 10 à 15 |
 
-5 |
+15 |
 
-75 |
-
-II. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine économique, dans le domaine financier. |
-
-3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
-
-Chef de section ou assimilé. |
-
-B ou C |
-
-De 10 à 15 |
-
-5 |
-
-75 |
+225 |
 
 III. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine juridique, dans le domaine de l'immobilier, dans le domaine du contentieux, dans le domaine du patrimoine, dans le domaine de(s) infrastructure(s). |
 
@@ -82,6 +130,116 @@ De 20 à 40 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
+
+Contrôleur de gestion ou assimilé. |
+
+A ou B |
+
+De 15 à 20 |
+
+10 |
+
+200 |
+
+3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Agent chargé d'une responsabilité dans le domaine informatique.
+
+Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
+
+Contrôleur de gestion ou assimilé.
+
+Responsable assurance qualité.
+
+Spécialiste dans le domaine infrastructures.
+
+Spécialiste réglementation, juridique ou assimilé. |
+
+B ou C |
+
+De 10 à 15 |
+
+20 |
+
+300 |
+
+IV. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'administration générale. |
+
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
+
+Directeur d'établissement, sous-directeur, adjoint et assimilé. |
+
+A |
+
+De 20 à 40 |
+
+5 |
+
+200 |
+
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
+
+Contrôleur de gestion ou assimilé. |
+
+A ou B |
+
+De 15 à 20 |
+
+10 |
+
+200 |
+
+3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Chef de section ou assimilé. |
+
+B ou C |
+
+De 10 à 15 |
+
+5 |
+
+75 |
+
+VI. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'informatique, dans le domaine de la communication, dans le domaine de l'interprétariat, dans le domaine de la documentation. |
+
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
+
+Chef de bureau ou assimilé.
+
+Responsable technique systèmes d'information. |
+
+A |
+
+De 20 à 40 |
+
+5 |
+
+200 |
+
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Agent chargé d'une responsabilité dans le domaine informatique.
+
+Adjoint à un chef de bureau ou assimilé.
+
 Chef de bureau ou assimilé. |
 
 A ou B |
@@ -94,27 +252,19 @@ De 15 à 20 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
-Adjoint à un chef de bureau ou assimilé.
+Agent chargé d'une responsabilité dans le domaine informatique.
 
-Adjoint à un chef de section ou assimilé.
-
-Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
-
-Chef de bureau ou assimilé.
-
-Chef de section ou assimilé.
-
-Spécialiste en sécurité dans un établissement ou un service important ou comportant des risques particuliers. |
+Chef de section ou assimilé. |
 
 B ou C |
 
 De 10 à 15 |
 
-53 |
+17 |
 
-795 |
+255 |
 
-IV. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'administration générale. |
+VIII. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de la prévention, dans le domaine de la médecine du travail, dans le domaine de l'hygiène et de la sécurité du travail, dans le domaine de la protection de l'environnement. |
 
 1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
 
@@ -130,49 +280,23 @@ De 20 à 40 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
-Chef de bureau ou assimilé. |
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Spécialiste en hygiène et sécurité du travail dans un établissement ou un service important ou comportant des risques particuliers. |
 
 A ou B |
 
 De 15 à 20 |
 
-5 |
+10 |
 
-100 |
-
-3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
-
-Adjoint à un chef de bureau ou assimilé.
-
-Chef de bureau ou assimilé. |
-
-B ou C |
-
-De 10 à 15 |
-
-5 |
-
-75 |
-
-VI. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'informatique, dans le domaine de la communication, dans le domaine de l'interprétariat, dans le domaine de la documentation. |
+200 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
-Agent chargé d'une responsabilité dans le domaine informatique.
-
-Chef de section ou assimilé. |
-
-B ou C |
-
-De 10 à 15 |
-
-12 |
-
-180 |
-
-VIII. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de la prévention, dans le domaine de la médecine du travail, dans le domaine de l'hygiène et de la sécurité du travail, dans le domaine de la protection de l'environnement. |
-
-3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+Chef de section ou assimilé.
 
 Spécialiste en hygiène et sécurité du travail dans un établissement ou un service important ou comportant des risques particuliers. |
 
@@ -180,13 +304,45 @@ B ou C |
 
 De 10 à 15 |
 
-5 |
+36 |
 
-75 |
+540 |
 
 IX. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine scientifique, dans le domaine technique. |
 
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
+
+Chef de bureau ou assimilé. |
+
+A |
+
+De 20 à 40 |
+
+5 |
+
+200 |
+
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé. |
+
+A ou B |
+
+De 15 à 20 |
+
+15 |
+
+300 |
+
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
 
 Chef de section ou assimilé. |
 
@@ -194,6 +350,6 @@ B ou C |
 
 De 10 à 15 |
 
-5 |
+10 |
 
-75 |
+150 |

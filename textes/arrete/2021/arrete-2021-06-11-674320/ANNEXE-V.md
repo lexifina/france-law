@@ -1,6 +1,4 @@
-# Article LEGIARTI000039794968
-
-ANNEXE V
+# Article ANNEXE V
 
 EMPLOIS RELEVANT DU SERVICE DU COMMISSARIAT DES ARMÉES
 
@@ -32,15 +30,17 @@ I. - Fonction comportant l'exercice d'une responsabilité ou une technicité par
 
 Adjoint à un chef de bureau ou assimilé.
 
-Chef de bureau ou assimilé. |
+Chef de bureau ou assimilé.
+
+Chef de service ou de département. |
 
 A |
 
 De 20 à 40 |
 
-7 |
+15 |
 
-280 |
+450 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -60,9 +60,9 @@ A ou B |
 
 De 15 à 20 |
 
-57 |
+60 |
 
-1 140 |
+1200 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -106,9 +106,9 @@ A |
 
 De 20 à 40 |
 
-18 |
+30 |
 
-720 |
+900 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -130,9 +130,9 @@ A ou B |
 
 De 15 à 20 |
 
-103 |
+130 |
 
-2 060 |
+2600 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -176,13 +176,17 @@ A |
 
 De 20 à 40 |
 
-7 |
+20 |
 
-280 |
+600 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
+Adjoint à un chef de bureau ou assimilé.
+
 Chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
 
 Directeur d'établissement, sous-directeur, adjoint et assimilé.
 
@@ -192,11 +196,13 @@ A ou B |
 
 De 15 à 20 |
 
-20 |
+30 |
 
-400 |
+600 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Adjoint à un chef de bureau ou assimilé.
 
 Chef de bureau ou assimilé.
 
@@ -208,9 +214,9 @@ B ou C |
 
 De 10 à 15 |
 
-14 |
+20 |
 
-210 |
+300 |
 
 IV. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'administration générale. |
 
@@ -248,11 +254,13 @@ A ou B |
 
 De 15 à 20 |
 
-40 |
+60 |
 
-800 |
+1200 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Adjoint à un chef de bureau ou assimilé.
 
 Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
 
@@ -264,37 +272,59 @@ B ou C |
 
 De 10 à 15 |
 
-31 |
+50 |
 
-465 |
+750 |
 
 V. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine du secrétariat, dans le domaine de l'accueil, dans le domaine du service général. |
 
-2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
 
-Chef de bureau ou assimilé. |
+Chef de bureau ou assimilé.
 
-A ou B |
+Chef de service ou de département. |
 
-De 15 à 20 |
+A |
+
+De 20 à 40 |
 
 5 |
 
-100 |
+200 |
 
-3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
 
 Chef de bureau ou assimilé.
 
 Chef de section ou assimilé. |
 
+A ou B |
+
+De 15 à 20 |
+
+10 |
+
+200 |
+
+3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Chef de bureau ou assimilé.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
+
+Secrétaire de direction ou responsable de secrétariat assujetti à des obligations particulières. |
+
 B ou C |
 
 De 10 à 15 |
 
-5 |
+10 |
 
-75 |
+150 |
 
 VI. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'informatique, dans le domaine de la communication, dans le domaine de l'interprétariat, dans le domaine de la documentation. |
 
@@ -308,11 +338,13 @@ A |
 
 De 20 à 40 |
 
-5 |
+10 |
 
-200 |
+300 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
 
 Chef de bureau ou assimilé.
 
@@ -324,9 +356,9 @@ A ou B |
 
 De 15 à 20 |
 
-8 |
+20 |
 
-160 |
+300 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -364,9 +396,9 @@ A |
 
 De 20 à 40 |
 
-12 |
+20 |
 
-480 |
+600 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -375,6 +407,8 @@ Adjoint à un chef de bureau ou assimilé.
 Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
 
 Chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
 
 Chef de service ou de département.
 
@@ -386,9 +420,9 @@ A ou B |
 
 De 15 à 20 |
 
-46 |
+50 |
 
-920 |
+1000 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -416,7 +450,7 @@ Responsable technique matériels.
 
 Spécialiste en sécurité dans un établissement ou un service important ou comportant des risques particuliers.
 
-Spécialiste logistique
+Spécialiste logistique.
 
 Spécialiste réglementation, juridique ou assimilé. |
 
@@ -444,17 +478,25 @@ De 20 à 40 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé.
+
 Spécialiste en hygiène et sécurité du travail dans un établissement ou un service important ou comportant des risques particuliers. |
 
 A ou B |
 
 De 15 à 20 |
 
-44 |
+50 |
 
-880 |
+1000 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
+
+Chef de section ou assimilé.
 
 Spécialiste en hygiène et sécurité du travail dans un établissement ou un service important ou comportant des risques particuliers. |
 
@@ -462,23 +504,25 @@ B ou C |
 
 De 10 à 15 |
 
-35 |
+40 |
 
-525 |
+600 |
 
 IX. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine scientifique, dans le domaine technique. |
 
 1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
 
-Chef de service ou de département. |
+Chef de service ou de département.
+
+Chef de bureau ou assimilé. |
 
 A |
 
 De 20 à 40 |
 
-5 |
+10 |
 
-200 |
+400 |
 
 2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
 
@@ -500,9 +544,9 @@ A ou B |
 
 De 15 à 20 |
 
-26 |
+40 |
 
-520 |
+800 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
@@ -510,12 +554,14 @@ Adjoint à un chef de bureau ou assimilé.
 
 Chef d'atelier, de magasin, de cellule, de segment, d'équipe ou assimilé.
 
-Chef de bureau ou assimilé. |
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé. |
 
 B ou C |
 
 De 10 à 15 |
 
-10 |
+20 |
 
-150 |
+300 |

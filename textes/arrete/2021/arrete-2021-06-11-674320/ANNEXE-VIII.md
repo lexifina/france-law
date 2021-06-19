@@ -1,6 +1,4 @@
-# Article LEGIARTI000039794974
-
-ANNEXE VIII
+# Article ANNEXE VIII
 
 EMPLOIS RELEVANT DE LA DIRECTION DE LA MAINTENANCE AÉRONAUTIQUE
 
@@ -40,6 +38,22 @@ De 20 à 40 |
 
 200 |
 
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé. |
+
+A ou B |
+
+De 15 à 20 |
+
+5 |
+
+100 |
+
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
 Adjoint à un chef de bureau ou assimilé.
@@ -48,9 +62,7 @@ Adjoint à un chef de section ou assimilé.
 
 Agent spécialisé dans des tâches nécessitant des connaissances particulières dans le domaine de la gestion du personnel ou des ressources humaines.
 
-Chef de bureau ou assimilé.
-
-Chef de section ou assimilé. |
+Chef de bureau ou assimilé. |
 
 B ou C |
 
@@ -62,9 +74,25 @@ De 10 à 15 |
 
 II. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine économique, dans le domaine financier. |
 
-2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
 
 Chef de bureau ou assimilé. |
+
+A |
+
+De 20 à 40 |
+
+5 |
+
+200 |
+
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé. |
 
 A ou B |
 
@@ -86,11 +114,39 @@ B ou C |
 
 De 10 à 15 |
 
-9 |
+15 |
 
-135 |
+225 |
 
 IV. - Fonction comportant l'exercice d'une responsabilité ou une technicité particulière dans le domaine de l'administration générale. |
+
+1. Emploi de responsable requérant une technicité particulièrement étendue ou d'encadrement important.
+
+Chef de bureau ou assimilé. |
+
+A |
+
+De 20 à 40 |
+
+5 |
+
+200 |
+
+2. Emploi de responsabilité particulière de premier niveau comportant un encadrement ou la mise en œuvre d'une technicité particulière ou l'exécution d'une procédure particulière.
+
+Adjoint à un chef de bureau ou assimilé.
+
+Chef de bureau ou assimilé.
+
+Chef de section ou assimilé |
+
+A ou B |
+
+De 15 à 20 |
+
+5 |
+
+100 |
 
 3. Emploi spécialisé nécessitant la mise en œuvre de connaissances spécifiques ou l'exécution de travaux spécifiques ou impliquant l'assujettissement à des obligations particulières.
 
