@@ -8,9 +8,11 @@ II. - Au sens du présent décret, on entend par :
 
 1° "Gestionnaire d'infrastructure", toute entité ou entreprise responsable de l'exploitation, de l'entretien et du renouvellement de l'infrastructure ferroviaire sur un réseau et chargée de la participation à son développement conformément aux politiques nationales en matière de développement et de financement de l'infrastructure ;
 
+1° bis “Gestionnaire des gares de voyageurs”, la filiale mentionnée au 5° de l'article L. 2111-9 du code des transports ;
+
 2° "Entreprise ferroviaire", toute entreprise à statut privé ou public et titulaire de la licence mentionnée à l'article L. 2122-10 du code des transports, fournissant des prestations de transport de marchandises ou de voyageurs par chemin de fer, la traction devant obligatoirement être assurée par cette entreprise ; ce terme recouvre aussi les entreprises qui assurent uniquement la traction ;
 
-3° "Infrastructure ferroviaire", l'ensemble des éléments mentionnés à l'annexe I de la directive 2012/34/UE du Parlement européen et du Conseil du 21 novembre 2012 établissant un espace ferroviaire unique européen (refonte) à l'exclusion de ceux qui sont incorporés aux installations de service mentionnées aux articles L. 2123-1 du code des transports et 1er du décret n° 2012-70 du 20 janvier 2012 relatif aux installations de service du réseau ferroviaire ;
+3° "Infrastructure ferroviaire", l'ensemble des éléments mentionnés à l'annexe I de la directive 2012/34/UE du Parlement européen et du Conseil du 21 novembre 2012 établissant un espace ferroviaire unique européen (refonte) y compris les quais à voyageurs définis comme l'espace aménagé le long des voies servant à l'embarquement des voyageurs dans les trains ou à leur débarquement ;
 
 4° "Réseau", l'ensemble de l'infrastructure ferroviaire gérée par un gestionnaire d'infrastructure ;
 
@@ -36,8 +38,14 @@ II. - Au sens du présent décret, on entend par :
 
 15° "La Liaison Fixe", la liaison fixe transmanche mentionnée à l'article L. 2111-8 du code des transports ;
 
-16° "La commission intergouvernementale de la Liaison Fixe", la commission intergouvernementale instituée par le traité entre la République française et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant la construction et l'exploitation par des sociétés privées concessionnaires d'une liaison fixe transmanche, signé le 12 février 1986.
+16° "La commission intergouvernementale de la Liaison Fixe", la commission intergouvernementale instituée par le traité entre la République française et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant la construction et l'exploitation par des sociétés privées concessionnaires d'une liaison fixe transmanche, signé le 12 février 1986 ;
+
+17° “Prestations régulées”, les prestations définies au 9° du I de l'article préliminaire du décret n° 2012-70 du 20 janvier 2012 cité précédemment.
 
 III. - Aux titres IV et V, la référence au ministre chargé des transports est entendue, lorsque l'infrastructure ferroviaire de la Liaison Fixe est en cause, comme visant la commission intergouvernementale de la Liaison Fixe.
 
 Aux titres IV et V, à l'exception de l'article 24-1, et sauf disposition contraire, lorsque les fonctions de gestionnaire de l'infrastructure sur tout ou partie d'un réseau sont exercées par plusieurs entités ou entreprises, la référence au gestionnaire d'infrastructure est entendue comme faite à celui qui exerce la fonction de répartition des capacités.
+
+NOTA :
+
+Se reporter aux dispositions mentionnées à l'article 5 du décret n° 2021-776 du 16 juin 2021.

@@ -120,7 +120,7 @@ SNCF.
 
 SNCF Réseau.
 
-SNCF Mobilités.
+SNCF Voyageurs.
 
 SNPE.
 
