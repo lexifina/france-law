@@ -44,9 +44,9 @@ A l'issue de la formation, le stagiaire a acquis les connaissances et les savoir
 
 Pour atteindre les objectifs de ce référentiel de formation, l'organisme de formation établit, en langue française, un programme de formation permettant aux stagiaires de maîtriser les connaissances et savoir-faire professionnels décrits au point 2.2 en s'assurant de l'équilibre entre théorie et pratique.
 
-Le programme de formation du tronc commun privilégie une approche globale de la coordination en prenant en compte les items décrits dans Compétences communes . Il intègre également ceux décrits dans Compétences particulières en les adaptant aux compétences nécessaires à l'exercice d'une mission de coordination SPS de niveau 3.
+Le programme de formation du tronc commun privilégie une approche globale de la coordination en prenant en compte les items décrits dans Compétences communes. Il intègre également ceux décrits dans Compétences particulières en les adaptant aux compétences nécessaires à l'exercice d'une mission de coordination SPS de niveau 3.
 
-Pour les modules spécialisés par phase d'activité, le programme de formation de chaque module prend en compte les items décrits dans Compétences particulières de la phase concernée en vue des les approfondir.
+Pour les modules spécialisés par phase d'activité, le programme de formation de chaque module prend en compte les items décrits dans Compétences particulières de la phase concernée en vue de les approfondir.
 
 Pour le module complémentaire, le programme de formation prend en compte les items décrits dans Compétences liées aux particularités des opérations de première catégorie .
 
@@ -58,7 +58,7 @@ Cadre législatif et réglementaire
 
 A l'issue de la formation, le stagiaire est capable :
 
-- d'accéder aux textes législatifs et réglementaires nécessaires à l'exercice de la fonction de coordonnateur SPS ainsi qu'aux aspects juridiques liés à la mission (obligations, moyens, responsabilité civile et pénale du coordonnateur SPS) ;
+- d'accéder aux textes législatifs et réglementaires nécessaires à l'exercice de la fonction de coordonnateur SPS et connaître les aspects juridiques liés à la mission (obligations, moyens, responsabilité civile et pénale du coordonnateur SPS) ;
 
 - de différencier la nature et la hiérarchie des réglementations liées au secteur d'activité et d'articuler ces réglementations entre elles ;
 
