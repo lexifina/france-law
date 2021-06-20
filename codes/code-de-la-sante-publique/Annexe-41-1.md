@@ -318,10 +318,40 @@ A. - 4 spécifiques (1).
 
 B. - 3 libres.
 
-XXXX. - Réanimation
+XXXX. - Médecine intensive-réanimation
 
-A. - 4 spécifiques (1) ;
+Cinq stages d'un semestre dont au moins deux dans un lieu agréé à titre principal pour la spécialité et un en anesthésie dans un lieu agréé à titre principal pour l'anesthésie-réanimation.
 
-B. - 4 libres.
+XXXXI. - Allergologie
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité et un à titre complémentaire.
+
+XXXXII. - Chirurgie orale
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité.
+
+XXXXIII. - Génétique médicale
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité.
+
+XXXXIV. - Gériatrie
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité.
+
+XXXXV. - Maladies infectieuses et tropicales
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité.
+
+XXXXVI. - Médecine d'urgence
+
+Cinq stages d'un semestre dont au moins un dans un lieu hospitalier agréé à titre principal en médecine d'urgence, un dans un lieu agréé à titre principal en médecine d'urgence ayant la qualification de SAMU-CRRA15/ SMUR, un dans un lieu agréé à titre principal en pédiatrie et à titre complémentaire en médecine d'urgence et assurant la permanence de soins pédiatriques et un dans un lieu agréé à titre principal en médecine intensive-réanimation ou en anesthésie-réanimation et à titre complémentaire en médecine d'urgence
+
+XXXXVII. - Médecine vasculaire
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité.
+
+XXXXVIII. - Médecine légale et expertises médicales
+
+Cinq stages d'un semestre dont au moins trois dans un lieu agréé à titre principal pour la spécialité.
 
 (1) Semestres cliniques effectués dans des services agréés correspondant à la spécialité.
