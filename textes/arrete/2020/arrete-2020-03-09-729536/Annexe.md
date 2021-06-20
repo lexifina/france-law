@@ -390,13 +390,27 @@ Parapente. |
 
 Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente. |
 
+A l'exclusion :
+
+-des publics à mobilité réduite ;
+
+-des publics de moins de 12 ans pour les activités autres que le vol en biplace.
+
+Pour les publics entre 12 et 14 ans, l'encadrement est assuré sous l'autorité d'un titulaire d'une certification professionnelle d'encadrement en parapente, de niveau supérieur.
+
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
 Deltaplane. |
 
 Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en deltaplane. |
 
-Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau. |
+A l'exclusion :
+
+-des publics à mobilité réduite ;
+
+-des publics de moins de 12 ans pour les activités autres que le vol en biplace.
+
+Pour les publics entre 12 et 14 ans, l'encadrement est assuré sous l'autorité d'un titulaire d'une certification professionnelle d'encadrement en deltaplane, de niveau supérieur. |
 
 BP JEPS, spécialité " activités aquatiques et de la natation ". |
 
@@ -656,15 +670,11 @@ Conduite de cycles d'initiation en pentathlon moderne. Conduite de cycles d'appr
 
 BP JEPS, spécialité " activités équestres ", mention " équitation ", délivré jusqu'au 31 décembre 2020. |
 
-4 |
-
 Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement en équitation. |
 
 |
 
 BP JEPS, spécialité " activités équestres ", mention " tourisme équestre ", délivré jusqu'au 31 décembre 2020. |
-
-4 |
 
 Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement de randonnées pour tout public et sur tout itinéraire. |
 
@@ -672,35 +682,27 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
 
 BP JEPS, spécialité " activités équestres ", mention " équitation western ", délivré jusqu'au 31 décembre 2020. |
 
-4 |
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western.
 
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. |
+|
 
 |
 
 BP JEPS, spécialité " activités équestres ", mention " équitation de tradition et de travail ", délivré jusqu'au 31 décembre 2020. |
 
-4 |
-
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
-
-Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de travail. |
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation de tradition et de travail. |
 
 |
 
 BP JEPS, spécialité " activités équestres ", mention " attelage ", délivré jusqu'au 31 décembre 2020. |
 
-4 |
-
 Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en attelage. |
 
 |
 
-BP JEPS spécialité pêche de loisirs délivré jusqu'au 31 décembre 2020.
+BP JEPS, spécialité " pêche de loisirs ", délivré jusqu'au 31 décembre 2020.
 
 |
-
-4 |
 
 Encadrement, animation et initiation d'activités de pêche sportive en eau douce. |
 
@@ -710,23 +712,17 @@ BP JEPS, spécialité " éducateur sportif " mention " patinage sur glace ", dé
 
 |
 
-4 |
-
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage en patinage sur glace. |
 
 |
 
-CS " croisière " associé au BPJEPS spécialité " activités nautiques " mention " voile ", mention plurivalente support " croisière côtière " ou support " multicoques et dériveurs ".
+CS " croisière " associé au BP JEPS spécialité " activités nautiques " mention " voile ", mention plurivalente support " croisière côtière " ou support " multicoques et dériveurs ".
 
 |
-
-4 |
 
 Encadrement de la croisière côtière ou hauturière jusqu'à 200 milles nautiques d'un abri. |
 
-Dans les limites de navigation du ou des voilier (s) utilisé (s). |
-
-|
+Dans les limites de navigation du ou des voilier (s) utilisé (s) |
 
 C-4.-Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (DE JEPS ET DES JEPS)
 
@@ -759,6 +755,22 @@ DES JEPS, spécialité " performance sportive " mention " parapente " délivré 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'une formation de mise à niveau |
+
+DE JEPS, spécialité " perfectionnement sportif ", mention " ski nautique et disciplines associées ", délivré jusqu'au 31 mars 2021. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif, de l'activité visée par la mention considérée.
+
+|
+
+|
+
+DES JEPS, spécialité " performance sportive ", mention " full contact-boxe américaine ", délivré jusqu'au 31 mars 2021. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive, de l'activité visée par la mention considérée.
+
+|
+
+|
 
 UCC " baby et mini-volley ". |
 
@@ -1229,5 +1241,13 @@ CQP " animateur d'escalade sur structure artificielle ", délivré jusqu'au 3 d�
 |
 
 Encadrement des activités d'escalade sur structure artificielle d'escalade. |
+
+|
+
+CQP " animateur de course d'orientation ", délivré jusqu'au 7 mai 2021.
+
+|
+
+Animation et initiation des activités de course d'orientation. |
 
 |
