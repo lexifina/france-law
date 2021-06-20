@@ -826,14 +826,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " cricket ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
 CQP Base Ball-Softball-Cricket , délivré du 14 octobre 2020 au 14 octobre 2022. |
@@ -928,29 +920,9 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-BOWLING
+BOWLING |
 
-y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
-
-|
-
-Diplômes délivrés par le ministère chargé des sports |
-
-DE JEPS, spécialité " perfectionnement sportif ", mention " bowling ", délivré jusqu'au 1er janvier 2024. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive ", mention " bowling ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
+Toutes les qualifications mentionnées sous l'intitulé multi activités physiques ou sportives (*) dans la limite de leurs conditions d'exercice. |
 
 BOXE
 
@@ -1356,16 +1328,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " animateur de course d'orientation ", délivré jusqu'au 7 juin 2021. |
-
-|
-
-Animation et initiation des activités de course d'orientation. |
-
-|
-
 CYCLISME
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1542,30 +1504,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " dressage ", délivré jusqu'au 1er février 2021. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif ", mention " concours complet d'équitation ", délivré jusqu'au 1er février 2021. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif ", mention " concours de sauts d'obstacles ", délivré jusqu'au 1er février 2021. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
 DE JEPS, spécialité " perfectionnement sportif ", mention " polo ", délivré jusqu'au 1er janvier 2024. |
 
 5 |
@@ -1583,30 +1521,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 |
 
 DES JEPS, spécialité " performance sportive " mention " sports équestres ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive " mention " concours complet d'équitation ", délivré jusqu'au 1er février 2021. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive " mention " concours de saut d'obstacles ", délivré jusqu'au 1er février 2021. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive " mention " dressage ", délivré jusqu'au 1er février 2021. |
 
 6 |
 
@@ -2387,14 +2301,6 @@ DE JEPS, spécialité " perfectionnement sportif " mention " handisport ", déli
 5 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive ", mention " handisport ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
 
 |
 
@@ -3484,14 +3390,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " pelote basque ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
 |
@@ -4038,14 +3936,6 @@ Encadrement, enseignement et animation du ski nautique-wakeboard, des discipline
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " ski nautique et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
 DES JEPS, spécialité " performance sportive ", mention " ski nautique et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
 
 6 |
@@ -4196,14 +4086,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " sports boules ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
 CQP " animateur bouliste ", option " sports boules ", délivré jusqu'au 21 juillet 2023. |
@@ -4255,14 +4137,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 |
 
 DES JEPS, spécialité " performance sportive ", mention " boxe thaï-muay thaï ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive ", mention " full contact-boxe américaine ", délivré jusqu'au 1er janvier 2024. |
 
 6 |
 
@@ -4409,14 +4283,6 @@ DE JEPS, spécialité " perfectionnement sportif " mention " squash ", délivré
 5 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DES JEPS, spécialité " performance sportive " mention " squash ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
 
 |
 
@@ -4820,14 +4686,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " tennis ", délivré jusqu'au 1er janvier 2024. |
-
-6 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
 
 CQP " animateur de tennis ", délivré jusqu'au 21 juillet 2023. |
@@ -4845,6 +4703,16 @@ CQP " éducateur de tennis ", délivré jusqu'au 7 août 2023. |
 Initiation au tennis en cours collectifs. |
 
 A l'exclusion de l'entraînement. |
+
+Titre à finalité professionnelle délivré par la Fédération française de tennis |
+
+Moniteur de padel, délivré jusqu'au 10 février 2024. |
+
+4 |
+
+Encadrement et conduite de séances de découverte, d'animation et d'entraînement en padel. |
+
+|
 
 TENNIS DE TABLE
 
