@@ -2,7 +2,7 @@
 
 Pour l'application des dispositions de l'article 244 quater B du code général des impôts, sont considérées comme opérations de recherche scientifique ou technique :
 
-a. Les activités ayant un caractère de recherche fondamentale, qui pour apporter une contribution théorique ou expérimentale à la résolution des problèmes techniques, concourent à l'analyse des propriétés, des structures, des phénomènes physiques et naturels, en vue d'organiser, au moyen de schémas explicatifs ou de théories interprétatives, les faits dégagés de cette analyse ;
+a. Les activités ayant un caractère de recherche fondamentale qui concourent à l'analyse des propriétés, des structures, des phénomènes physiques et naturels, en vue d'organiser, au moyen de schémas explicatifs ou de théories interprétatives, les faits dégagés de cette analyse ;
 
 b. Les activités ayant le caractère de recherche appliquée qui visent à discerner les applications possibles des résultats d'une recherche fondamentale ou à trouver des solutions nouvelles permettant à l'entreprise d'atteindre un objectif déterminé choisi à l'avance.
 
