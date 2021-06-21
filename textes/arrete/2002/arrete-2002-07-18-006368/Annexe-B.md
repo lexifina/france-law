@@ -10,13 +10,9 @@ Argentine.
 
 Brésil.
 
-Bulgarie.
-
 Chili.
 
 Corée du Sud.
-
-Hongkong.
 
 Islande.
 
@@ -26,16 +22,10 @@ Maroc.
 
 Mexique.
 
-Roumanie.
-
-Russie.
-
 Singapour.
 
 Taïwan.
 
 Thaïlande.
-
-Turquie.
 
 Ukraine.
