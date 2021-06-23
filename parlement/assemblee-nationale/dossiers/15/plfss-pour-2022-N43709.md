@@ -1,0 +1,86 @@
+# Loi de financement de la sécurité sociale pour 2022
+
+- Procédure : Projet de loi de financement de la sécurité sociale
+- Législature : 15
+- Identifiant : DLR5L15N43709
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/plfss_pour_2022
+- Sénat : http://www.senat.fr/dossier-legislatif/plfss2022.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-10-07 : 1er dépôt d'une initiative. (PRJLANR5L15B4523)
+  - 2021-10-07 : Etude d'impact (ETDIANR5L15B4523)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-07 : Renvoi en commission au fond
+      - 2021-06-30 : Nomination de rapporteur
+      - 2021-10-11 : Réunion de commission
+      - 2021-10-13 : Réunion de commission
+      - 2021-10-13 : Réunion de commission
+      - 2021-10-13 : Réunion de commission
+      - 2021-10-20 : Réunion de commission
+      - 2021-10-14 : Dépôt de rapport (RAPPANR5L15B4568)
+    - Travaux d'une commission saisie pour avis
+      - 2021-10-07 : Saisine pour avis d'une commission
+      - 2021-06-23 : Nomination de rapporteur
+      - 2021-10-14 : Dépôt de rapport (AVISANR5L15B4572)
+  - Discussion en séance publique
+    - 2021-10-21 : Discussion en séance publique
+    - 2021-10-21 : Discussion en séance publique
+    - 2021-10-21 : Discussion en séance publique
+    - 2021-10-22 : Discussion en séance publique
+    - 2021-10-22 : Discussion en séance publique
+    - 2021-10-22 : Discussion en séance publique
+    - 2021-10-26 : Discussion en séance publique
+    - 2021-10-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-11-02 : Dépôt d'une initiative en navette (PRJLSNR5S379B0118)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-02 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-11-03 : Dépôt de rapport (RAPPSNR5S379B0130)
+  - Discussion en séance publique
+    - 2021-11-16 : Discussion en séance publique
+    - 2021-11-16 : Décision
+- Commission Mixte Paritaire
+  - 2021-11-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-11-16 : Nomination de rapporteur
+    - 2021-11-16 : Dépôt du rapport d'une CMP (RAPPANR5L15B4687)
+    - 2021-11-17 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0154, PRJLSNR5S379BTC0155)
+  - 2021-11-16 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-11-16 : Dépôt d'une initiative en navette (PRJLANR5L15B4685)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-16 : Renvoi en commission au fond
+      - 2021-11-22 : Réunion de commission
+      - 2021-11-18 : Dépôt de rapport (RAPPANR5L15B4701)
+  - Discussion en séance publique
+    - 2021-11-22 : Discussion en séance publique
+    - 2021-11-22 : Décision
+- Nouvelle Lecture
+  - 2021-11-23 : Dépôt d'une initiative en navette (PRJLSNR5S379B0189)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-23 : Renvoi en commission au fond
+      - 2021-11-25 : Dépôt de rapport (RAPPSNR5S379B0220)
+  - Discussion en séance publique
+    - 2021-11-25 : Discussion en séance publique
+    - 2021-11-25 : Décision
+- Lecture définitive
+  - 2021-11-25 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0698)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-25 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2021-11-29 : Discussion en séance publique
+    - 2021-11-29 : Discussion en séance publique
+    - 2021-11-29 : Décision
+- Conseil constitutionnel
+  - 2021-11-30 : Saisine du conseil constitutionnel
+  - 2021-12-16 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-12-23 : Promulgation d'une loi
