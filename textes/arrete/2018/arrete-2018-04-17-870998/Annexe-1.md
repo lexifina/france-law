@@ -2,748 +2,960 @@
 
 QUESTIONNAIRE
 
-Question |
-
-Réponse |
-
-Précisions |
-
-Description de l'expérimentation |
-
-Quel est le type de l'expérimentation ? |
-
-- Essais techniques et mises au point ;
-
-- Evaluation des performances en situation de l'usage pour lequel est destiné le véhicule DPTC ;
-
-- Démonstration publique, notamment lors de manifestations événementielles |
+Questions
 
 |
 
-Quels sont les objectifs de l'expérimentation ?
-
-(détailler) |
+Réponses
 
 |
 
-|
+Précisions et pièces à annexer
 
-Quel est le niveau d'autonomie des véhicules à délégation de conduite durant l'expérimentation ?
-
-(niveaux de 0 à 5 selon le standard SAE J3016) |
-
-- 0 ;
-
-- 1 ;
-
-- 2 ;
-
-- 3 ;
-
-- 4 ;
-
-- 5 |
+(le cas échéant)
 
 |
 
-Quelles sont les modalités globales de l'expérimentation ?
+Présentation synthétique
 
-(Description succincte de l'expérimentation) |
+|
+
+Quel est le type de l'expérimentation et quels sont ses objectifs ?
+
+|
+
+- Essais techniques ;
+
+- Évaluation des performances en situation ;
+
+- Démonstration publique,
+
+- Test ou préfiguration d'un service ;
+
+-Autre (préciser)
+
+|
+
+Fiche synthétique d'une page à diffuser par l'administration aux autorités locales (gestionnaires de voirie, autorités de police, autorité organisatrice des mobilités, services de l'État chargés du contrôle des transports terrestres, fonctionnaires de la police nationale, militaires de la gendarmerie nationale et agents de police judiciaire adjoints habilités à effectuer des contrôles routiers en application des dispositions du code de la route, gardes champêtres des communes.)
+
+|
+
+S'agit-t-il d'une circulation de véhicules en peloton ou d'engins roulants destinés à la livraison de marchandises ?
+
+|
+
+Oui / Non
 
 |
 
 |
 
-Quelles sont les parties prenantes de l'expérimentation et leurs rôles respectifs ?
+Qui est l'organisme demandant l'autorisation d'expérimenter un véhicule DPTC ?
 
-(Constructeurs, opérateurs de transport, prestataires, collectivité locale, autorités de police de la circulation, autorités organisatrices de la mobilité…) |
+|
+
+- Nom de la personne physique ou morale ;
+
+- Raison sociale ;
+
+- Adresse ;
+
+- Contact.
+
+|
+
+- Kbis ;
+
+- Attestation d'assurance pour l'expérimentation
+
+|
+
+Quelles sont les parties prenantes de l'expérimentation (autres que le titulaire de l'autorisation) ?
+
+|
+
+1) autorité(s) de police de la circulation ;
+
+2) gestionnaire(s) de voirie ;
+
+3) autorités organisatrices des mobilités ;
+
+4) autres (services de l'État chargés du contrôle des transports terrestres, fonctionnaires de la police nationale, militaires de la gendarmerie nationale et agents de police judiciaire adjoints habilités à effectuer des contrôles routiers en application des dispositions du code de la route, gardes champêtres des communes, partenaires de l'expérimentation, opérateurs de transport, services de secours, …)
+
+|
+
+Préciser pour chacun l'identité du ou des acteurs consultés, la date de consultation ainsi que - le cas échéant - la date et le lieu envisagés pour la présentation du véhicule
+
+S'il y a lieu, préciser les réponses ou engagements reçus
+
+|
+
+Quelle est la durée et la date de début souhaitée de l'expérimentation ?
 
 |
 
 |
 
-Conditions de l'expérimentation |
+Préciser notamment la durée et les dates de la phase de marche à blanc
 
-Lieu |
+|
+
+Quel est le nombre de véhicules et la catégorie associée (au sens de l'article R. 311-1 du code de la route) ?
 
 |
 
 |
 
-Date de début de l'expérimentation
+|
 
-(Ne pas oublier les périodes de préparation de l'expérimentation notamment pour le rodage d'une démonstration…) |
+Quelle est la localisation de l'expérimentation ?
 
 |
 
 |
 
-Date de fin de l'expérimentation |
+|
+
+Qu'avez-vous prévu pour informer le public présent dans le champ de l'expérimentation, sur la circulation à des fins expérimentales de véhicules DPTC ?
 
 |
 
 |
 
-Type de véhicule |
-
-- Voiture particulière ;
-
-- Transport en commun de personnes ;
-
-- Transport de marchandises ;
-
-- Véhicule agricole ;
-
-- Autre |
+Décrire les moyens utilisés (points d'arrêts, internet, système d'information multimodal, presse, autre …).
 
 |
 
-Nombre de véhicules |
+L'expérimentation prévoit-elle que des passagers (autres que ceux identifiés à la question exploitation : moyens humains ) prennent place à bord du véhicule DPTC ?
 
 |
 
+Oui/Non
+
+Si oui, indiquer (réponse multiple possible) si les passagers seront transportés :
+
+1) dans le cadre d'un service de transport (cf. rubrique service de transport de passagers ou de marchandises )
+
+2) hors du cadre d'un service de transport 2.1) dans le cadre d'une démonstration 2.2) dans le cadre de l'expérimentation (panel) 2.3) autre
+
 |
 
-Essais réalisés durant l'expérimentation
-
-(S'il ne s'agit pas d'une pure opération de démonstration ni d'une présentation aux médias) |
+Dans le cas 1), préciser si l'expérimentation prévoit la présence de personnes mineures à bord des véhicules DPTC.
 
 |
 
+Véhicules utilisés (un descriptif par véhicule)
+
 |
 
-Réseaux de voiries sur lesquels se dérouleront les expérimentations
-
-(compléter le formulaire réseau de voirie et fournir dans le dossier de demande d'autorisation les plans et informations nécessaires à l'instruction de la demande) |
+Numéro d'identification (VIN)
 
 |
 
 |
 
-Le véhicule circulera-t-il en mode conventionnel sur des réseaux routiers autres que ceux empruntés en mode délégué, notamment pour rejoindre les sites d'expérimentation (parcours de liaison) ?
+|
 
-(Préciser lesquels) |
-
-- Oui ;
-
-- Non |
+Type de motorisation du véhicule
 
 |
 
-L'expérimentation se déroulera-t-elle partiellement sur des voies fermées à la circulation publique ?
+- Thermique (Essence, Diesel) ;
 
-(Si oui, préciser) |
+- Électrique ;
 
-- Oui ;
+- Hybride ;
 
-- Non |
+- Hydrogène ;
 
-|
-
-Le parcours du véhicule est-il protégé ?
-
-(si oui, préciser par quels moyens) |
-
-- Oui ;
-
-- Non |
-
-|
-
-Des équipements et des aménagements supplémentaires sur la route sont-ils prévus pour les expérimentations ?
-
-(Si oui, préciser : signalisation, voirie, communication
-
-Attention : certains aménagements (notamment la mise en place d'une signalisation non réglementaire) peuvent être soumis à une autorisation spécifique de la délégation à la sécurité routière et de la direction générale des infrastructures, des transports et de la mer nécessitant une demande d'autorisation distincte de celle concernant la circulation de véhicules DPTC) |
-
-- Oui ;
-
-- Non |
-
-|
-
-Des mesures de police de circulation sont-elles prévues pour les expérimentations ?
-
-(Modification de la signalisation, restriction de circulation, abaissement de la vitesse, changement des régimes de priorité aux intersections…) |
-
-- Oui ;
-
-- Non |
-
-|
-
-Quelles seront les interactions avec les flux de véhicules usuels (véhicules particuliers, bus, tram, sites propres, piste-bandes cyclables…) ?
-
-(Préciser le type et la géométrie - carrefour, rond-point… - si besoin au moyen de schémas joints) |
+- Autre (préciser)
 
 |
 
 |
 
-Des interactions avec des usagers vulnérables sont-elles possibles ? |
-
-Piétons |
-
-- Oui ;
-
-- Non |
+Vitesse maximale du véhicule par construction
 
 |
 
-Cyclistes |
-
-- Oui ;
-
-- Non |
-
 |
-
-2 roues motorisés |
-
-- Oui ;
-
-- Non |
-
-|
-
-Autres (préciser) |
-
-- Oui ;
-
-- Non |
 
 |
 
 Vitesse maximale du véhicule durant les expérimentations
 
-(Elle peut être différente de la vitesse par construction du véhicule) |
+|
 
 |
+
+Fournir un dossier décrivant le parcours dans lequel la vitesse maximale du VDPTC doit être renseignée, soit section par section, soit par catégorie homogène de ces sections.
 
 |
 
-Conduite du véhicule et passagers embarqués |
+Masse en charge maximale techniquement admissible
+
+|
 
-La personne responsable de la conduite du véhicule se trouve-t-elle à bord du véhicule ? |
+|
 
-- Oui ;
+|
 
-- Non |
+Nombre de places assises et debout dans le véhicule
 
 |
+
+1) Nombre de places assises ;
+
+2) Nombre de places debout ;
 
-Qui sont les personnes responsables de la conduite (conducteurs experts, employés, prestataires…) ? |
+3) Indiquer la position de conduite du conducteur.
 
 |
 
+Au 1), préciser si les places assises sont équipées de ceintures de sécurité.
+
+Au 3), joindre des vues de l'intérieur du véhicule, avec position du conducteur et des différentes interfaces homme-machine,
+
+visibilité de l'environnement du véhicule depuis le poste de conduite, équipements de rétro-vision, le cas échéant équipements d'interfaçage avec un poste de supervision …
+
 |
 
-Quels sont les moyens de contrôle (latéral et/ou longitudinal) dont dispose la personne responsable de la conduite du véhicule ? |
+Équipements complémentaires ajoutés au véhicule, le cas échéant par rapport à son homologation
 
 |
 
 |
+
+Décrire les modifications apportées au véhicule : ajout de capteurs, avertisseurs sonores ou lumineux spécifiques, connectivité, interfaces homme-machine, etc.
 
-Si la personne responsable de la conduite ne se trouve pas à bord du véhicule :
+Fournir des vues de face, de dessus et de côté du véhicule avec positionnement des équipements ajoutés, leur angle de vue et leur portée.
 
-- préciser où elle se trouve ;
+|
 
-- décrire les retours d'information dont elle dispose en provenance du véhicule expérimental et du terrain d'expérimentation ;
+Dispositif d'enregistrement et d'accès aux données permettant de déterminer l'état de délégation de conduite
 
-- préciser les protocoles de passage en mode autonome et de retour vers le mode conventionnel. |
+|
 
 |
+
+Décrire la procédure d'effacement automatique des données enregistrées par le dispositif d'enregistrement.
+
+Expliquer comment le conducteur du véhicule DPTC a accès aux données enregistrées à sa demande.
 
+Préciser la procédure de stockage et d'effacement des données, en cas d'accident.
+
 |
+
+Service de transport de passagers ou de marchandises
 
-Le protocole expérimental prévoit-il la présence d'un superviseur dans le véhicule ?
+De manière générale, les questions de cette rubrique font référence à la réglementation des transports (code des transports)
 
-(Un superviseur est une personne différente du conducteur, présente dans la voiture durant l'expérimentation, qui dispose de tous les moyens de contrôler le véhicule, et qui durant certaines phases de l'expérimentation, peut devenir le conducteur de la voiture.
+qui s'impose dès lors qu'un service de transport est envisagé.
 
-Si oui, préciser les moyens de conduite du superviseur et les modalités de transfert de la conduite du conducteur au superviseur et du superviseur au conducteur.) |
+|
 
-- Oui ;
+Quel est le service de transport visé ?
 
-- Non |
+|
 
 |
 
-Lorsque le véhicule circule en mode conventionnel, s'il y a lieu, préciser qui assurera la fonction de conducteur et comment ? |
+Préciser pour les transports de personnes s'il s'agit d'une opération de transport public ou privé, et la nature du service (ligne régulière, transport à la demande, transport public particulier de personnes, autre …)
 
+Préciser pour les transports de marchandises s'il s'agit d'une opération de transport public ou privé
+
 |
+
+Le service sera-t-il intégré dans le service de transport existant ?
 
 |
 
-Quel est le type du permis de conduire des personnes responsables de la conduite du véhicule ? |
+1) Décrire la coordination et l'interaction avec les services existants, gérés éventuellement par d'autres autorités organisatrices. Liste des services concernés.
 
+2) Impacts du service de transport projeté sur l'offre générale. La ou les autorités organisatrices ont-elles été saisies de ces impacts (positifs ou négatifs) ?
+
 |
 
 |
+
+Ouverture du service :
 
-La formation des personnes responsables de la conduite du véhicule est-elle interne ou externe ?
+Quelle est la procédure adoptée pour mettre en place le service ? (Nouveau service / extension d'un service existant (lequel ? ) / procédure à suivre / état d'avancement / organismes consultés, …)
 
-(Préciser son contenu) |
+|
+
+|
 
 |
+
+Opérateur de service :
 
+1) En cas de transport public, de personnes ou de marchandises, le demandeur de l'autorisation est-il inscrit au registre correspondant ?
+
+2) Si l'opérateur de service est différent du demandeur de l'autorisation, l'opérateur est-il inscrit au registre soit des transporteurs de personnes soit des transporteurs de marchandises ?
+
 |
 
-A part la ou les personnes responsables de la conduite du véhicule, y aura-t-il d'autres personnes en charge de l'expérimentation à bord du véhicule ?
+1) Oui / Non. Si oui, indiquer le numéro d'inscription.
 
-(Si oui, précisez le contexte, le nombre, et s'il s'agit de professionnels et/ou d'employés de l'entreprise) |
+2) Oui / Non. Si oui, indiquer le numéro d'inscription.
+
+|
 
-- Oui ;
+|
 
-- Non |
+Description du service :
 
 |
+
+1) Pour un transport de personnes :
+
+Parcours fixes / menu de parcours / parcours libres ;
+
+Arrêts fixes ou à la demande
 
-En dehors des expérimentateurs, y aura-t-il des passagers à bord du véhicule ?
+Plan de la ligne, arrêts, horaires, fréquences, tarification, intégration du système d'information multimodal, solution de substitution en cas d'indisponibilité des VDPTC.
 
-(Si oui, le demandeur a l'obligation de se conformer aux prescriptions du décret n° 2018-211 du 28 mars 2018 et du présent arrêté relatifs à l'expérimentation de véhicules à délégation de conduite sur les voies publiques) |
+2) Pour un transport de marchandises :
 
-- Oui ;
+Itinéraires, marchandises transportées, tarification.
+
+|
+
+|
 
-- Non |
+Exploitation : moyens humains
 
 |
 
-Caractéristiques du véhicule |
+Quels sont les missions et profils des conducteurs (dont le conducteur situé à l'extérieur du véhicule) ?
 
-Motorisation |
+|
 
-- Thermique ;
+|
 
-- Electrique ;
+Préciser le/les permis de conduire détenu(s), les qualifications spécifiques, ou formations reçues.
 
-- Hybride ;
+|
 
-- Autre |
+Quels sont les missions et profils des personnels d'accompagnement (le cas échéant) ?
 
 |
 
-Numéro(s) de série du (des) véhicule(s) ? |
+|
 
 |
 
+Quels sont les missions et profils, le cas échéant, du/des responsable(s) de la sécurité (personnel spécifiquement et uniquement dédié à encadrer le déroulement en sécurité de l'expérimentation) ?
+
 |
 
-Nombre de places assises y compris poste(s) de conduite le cas échéant |
+|
 
 |
 
+Quels sont les missions et profils, le cas échéant, des personnels de surveillance des circulations ?
+
 |
 
-Nombre de places debout y compris poste(s) de conduite le cas échéant |
+|
 
 |
 
+Système de conduite automatisé
+
 |
 
-Vitesse maximale par construction du véhicule |
+Quelle est l'architecture (fonctionnelle et technique) du système ?
 
 |
 
 |
+
+Dossier d'architecture (fonctionnelle et technique) des systèmes embarqués, de connectivité et de supervision :
+
+Présentation, schémas à l'appui, de l'architecture générale de la chaîne de robotisation du VDPTC (vu comme un système et intégrant donc le cas échéant le poste de supervision, les connexions V2I, les communications avec les aides à la localisation telles que des balises RTK, …) permettant de comprendre le fonctionnement général :
+
+1) de la localisation
 
-Quelle est la classification auquel appartient le véhicule s'il existe une configuration de série homologuée sinon la classification à laquelle le véhicule pourrait se rattacher ? |
+2) de la saisie et modélisation de l'environnement
 
-- Autobus ou autocar ;
+3) de la détection d'obstacles et de la chaîne de sécurité
 
-- Autobus/autocar articulé ;
+|
 
-- Camionnette ;
+Chaîne de capteurs pour la localisation et la perception de l'environnement
 
-- Cyclomoteur ;
+|
 
-- Motocyclette ;
+|
 
-- Motocyclette légère ;
+Vues de face, de dessus et de côté du véhicule avec positionnement des équipements ajoutés, leur angle de vue et leur portée.
 
-- Poids lourd ;
+|
 
-- Quadricycle léger à moteur ;
+Quel est le processus d'apprentissage ? par le véhicule lui-même ou par un véhicule spécialisé, en continu ou avant expérimentation…
 
-- Quadricycle lourd à moteur ;
+|
 
-- Tricycle à moteur ;
+|
 
-- Véhicule de transport en commun ;
+|
 
-- Voiture particulière ;
+Quelle est la localisation précise du conducteur non présent à bord du véhicule ?
 
-- Autre |
+|
 
 |
 
-En mode conventionnel, le véhicule est-il homologué ? |
+Description de ses possibilités d'action sur le contrôle du véhicule.
 
-- Oui ;
+|
+
+Quelles sont les informations disponibles au conducteur non présent à bord du véhicule ?
 
-- Non |
+|
 
 |
 
-Le véhicule aura-t-il été modifié par rapport aux règles d'homologation de cette catégorie ?
+États du système ; Vision et perception sonore de l'intérieur et de l'extérieur du véhicule
+
+|
 
-(Si oui, décrire ces modifications.) |
+Quelles sont les interactions entre les systèmes de supervision et le conducteur non présent à bord et les systèmes de gestion et de contrôle de la circulation ?
 
-- Oui ;
+|
 
-- Non |
+|
 
 |
 
-Le véhicule expérimental aura-t-il fait l'objet de tests avant l'expérimentation demandée ?
+Quel sera le système d'interaction entre le conducteur non présent à bord avec une personne à l'extérieur du véhicule ?
 
-(Si oui, préciser notamment pour ce qui concerne les systèmes de délégation, les systèmes assurant la sécurité des personnes à bord et celle des usagers de la voirie.) |
+|
 
-- Oui ;
+|
 
-- Non |
+Description des moyens
 
 |
 
-Le véhicule dispose-t-il d'avertisseurs sonores ou lumineux spécifiques ?
+Quelles sont les solutions retenues pour gérer les interactions avec les véhicules d'intérêt général ? (prioritaires et non prioritaires)
 
-(- S'il s'agit d'un véhicule homologué modifié, préciser si le véhicule disposera d'avertisseurs spécifiques ;
+|
 
-- S'il s'agit d'un véhicule non homologué, décrire les avertisseurs sonores et lumineux dont il disposera ;
+|
 
-- S'il s'agit d'un véhicule électrique, préciser s'il disposera d'un avertisseur de courtoisie pour signaler sa présence) |
+|
 
-- Oui ;
+Quelles sont les solutions retenues pour gérer les interactions avec les forces de l'ordre sur la voie publique ?
 
-- Non |
+|
 
 |
 
-Sous quelle(s) forme(s) la mention Véhicule expérimental à délégation partielle ou totale de conduite figure-t-elle dans le véhicule ?
+Décrire la solution retenue en cas de contrôle statique et d'interception dynamique (notamment la communication avec les agents de la circulation).
 
-(préciser emplacements, taille, formats…) |
+|
+
+Quelle est la politique de maintenance ?
 
 |
 
 |
 
-Indiquer les données qui sont sauvegardées par l'enregistreur de données événementielles et les périodes de conservation de ces données.
+|
 
-(Comment et où sont-elles sauvegardées ? Dans quelles conditions ces données peuvent-elles être mises à disposition des autorités en cas d'accident sur la voirie ? ) |
+Manœuvres
 
 |
+
+Quelles sont les manœuvres pouvant être conduites en délégation avec conducteur à l'intérieur du véhicule ?
 
 |
 
-Un journal de bord, manuscrit ou électronique, sera-t-il présent à bord du véhicule ?
+cf. annexe 4
 
-(Si oui, préciser les éléments indiqués dans ce journal) |
+|
 
-- Oui ;
+|
 
-- Non |
+Quelles sont les manœuvres pouvant être conduites en délégation avec conducteur situé à l'extérieur du véhicule ?
 
 |
 
-Le véhicule sera-t-il supervisé depuis un poste de contrôle fixe ? Uniquement durant les phases d'expérimentation ?
+cf. annexe 4
 
-(Si oui, décrire) |
+|
 
-- Oui ;
+|
 
-- Non |
+Quel est le domaine d'emploi ?
 
 |
 
-Décrire les systèmes de délégation de conduite.
+|
 
-(Quels systèmes de délégation ? Comment le véhicule passe-t-il en mode délégation de conduite ? Quels sont les systèmes d'alerte du conducteur ? … renvoyer aux pièces du dossier pour les descriptions approfondies) |
+Type de voie, visibilité, vitesse, conditions de trafic, décision du conducteur, état du conducteur
 
 |
+
+Quelles sont les attitudes et actions attendues du conducteur pendant la délégation ?
 
 |
 
-Mise en œuvre d'un service de transport |
+|
 
-(Répondre aux questions suivantes uniquement si le(s) véhicule(s) seront affectés à un service de transport) |
+|
 
-Autorité qui organise ce service de transport |
+Quels sont les dispositifs et fonctionnalités d'alerte du conducteur sur l'état du système ?
 
 |
 
 |
 
-Nature du service de transport |
+|
 
-- transport public de personnes ;
+Quelles sont les conditions de déclenchement des demandes de reprise en main ?
 
-- transport privé de personnes ;
+|
 
-- transport de marchandises |
+|
 
 |
 
-Opérateur de transport partenaire (s'il y a lieu) |
+Quels sont les dispositifs et fonctionnalités d'alerte du conducteur pour la reprise en main ?
 
 |
 
 |
+
+Préciser le délai de reprise de contrôle du véhicule DPTC et les éventuelles modalités de répétition de l'alerte.
 
-Quel est le numéro d'inscription de cet opérateur au registre de transport par route de personnes ou au registre de transport par route de marchandises, selon la typologie du service de transport effectué ? |
+(Visuel, Sonore, Haptique ; Préavis ; Durée ; Répétition)
 
 |
 
+Quelles sont les conditions de déclenchement des manœuvres d'urgence ?
+
 |
 
-Quelle est la durée de la phase d'expérimentation sans service de transport (marche à blanc) ?
+|
 
-(Indiquer la période [date début, date fin] et le programme de cette phase) |
+Lister les défaillances et/ou conditions de circulation
 
 |
 
+Comment s'effectuent le déroulement et les terminaisons des manœuvres d'urgence ?
+
 |
 
-S'il s'agit d'un service de transport public de personnes : décrire l'itinéraire et les points d'arrêts des parcours envisagés. |
+|
 
 |
 
+Quelles sont les conditions de déclenchement des manœuvres à distance ?
+
 |
+
+Acquittement d'une proposition ou d'options proposées par le système ; actionnement par le conducteur
 
-S'il s'agit d'un service de transport public de personnes : quelles sont les plages horaires durant lesquelles le service sera ouvert ? |
+|
 
 |
+
+Parcours
 
 |
 
-S'il s'agit d'un service de transport public de personnes : quelle est l'information mise à disposition du public concernant ce service ?
+Identification des sections de voirie sur lesquelles se dérouleront les expérimentations
 
-(sur les points d'arrêts, site internet, système d'information multimodal, dans la presse, par des flyers…) |
+|
+
+Cf. annexe 2
 
 |
 
+Joindre un plan d'ensemble
+
 |
+
+Décomposition du parcours en sections homogènes du point de vue des risques d'événements redoutés de circulation (pour un parcours prédéfini)
 
-S'il s'agit d'un service de transport public de personnes : comment chaque passager est il informé que ce service s'appuie sur des VDPTC ?
+|
 
-(Préciser le cas échéant) |
+Cf. annexe 3
 
 |
+
+Une photo de chaque section est obligatoire.
 
+Une vidéo du parcours (point de vue du conducteur, à vitesse nominale) est optionnelle.
+
 |
 
-S'il s'agit d'un service de transport public de personnes : quelles sont les conditions d'accès à ce service, et quelle est la politique tarifaire appliquée ?
+Voies fermées à la circulation publique (si empruntées)
 
-(Préciser le cas échéant) |
+|
 
 |
 
 |
 
-S'il s'agit d'un service de transport public de personnes : quels sont les règlements applicables en matière de transport de passagers pris en compte dans le cadre de l'expérimentation ?
+Équipements spécifiques du parcours pour l'expérimentation, dont signalisation horizontale et verticale
 
-(Préciser) |
+|
 
 |
+
+Fournir des schémas
 
 |
 
-Votre société est elle inscrite au registre électronique des transporteurs par route ? |
+Identification des sections et points les plus critiques du point de vue des risques d'événements redoutés de circulation (pour un parcours prédéfini) - Il s'agit des sections sur lesquelles des scenarii critiques (sévérité ≥ 3) ont été identifiés par l' analyse d'événements redoutés de circulation .
+
+|
 
-- Oui ;
+|
 
-- Non |
+Photos des points singuliers du parcours pour les événements critiques redoutés de circulation (point de vue du conducteur et point de vue du tiers identifié dans le scenario critique)
 
 |
 
-Préciser les dérogations à l'arrêté du 2 juillet 1982 relatif aux transports en commun de personnes. |
+Analyses de risques et démonstrations de sécurité
 
 |
+
+Analyse d'événements redoutés de circulation
 
 |
 
-Sécurité |
+Méthode d'évaluation des scenarii ; Scenarii critiques identifiés (sévérité ≥ 3) ; Réponses du système
 
-Comment avez-vous analysé les risques de sécurité ?
+|
 
-(Préciser la méthode employée) |
+Dossier d'analyse de risques ; Coordonnées de l'auditeur / certificateur le cas échéant
 
 |
+
+Analyse des risques de défaillance des éléments du système
 
 |
 
-L'analyse de risque a-t-elle été effectuée par un organisme extérieur ?
+Risques de défaillance identifiés ; Mesures de mitigation
 
-(Si oui, préciser) |
+|
+
+Dossier de sécurité du système ; Coordonnées de l'auditeur / certificateur le cas échéant
 
-- Oui ;
+|
 
-- Non |
+Plan d'intervention et de gestion des incidents ou accidents
 
 |
 
-Quels sont les principaux risques liés à cette expérimentation ?
+Organisation ; Compétences
 
-(Lister et décrire) |
+|
 
 |
 
+Tests conduits sur site fermé pour le(s) véhicule(s) concerné(s) et les fonctionnalités et manœuvres visées
+
 |
+
+Manœuvres, défaillances et conditions de circulation testées + résultats
 
-Quelles mesures ont été mises en place pour limiter ces risques ?
+|
 
-(Lister et décrire) |
+Bilan des tests
 
 |
+
+Expérimentations conduites en d'autres lieux pour des manœuvres identiques pour le(s) véhicule(s) concerné(s)
 
 |
 
-Quelles sont les procédures de détection, d'analyse et de traitement des incidents ?
+Manœuvres et conditions de circulation expérimentées
 
-(Type de mesures correctives mises en place, etc.) |
+|
+
+Bilan de sécurité des expérimentations
 
 |
 
+Cybersécurité
+
 |
 
-Quel système d'enregistrement des événements de sécurité avez-vous mis en œuvre ?
+Quelle organisation interne en terme de cybersécurité avez-vous mise en place ?
 
-(Préciser) |
+|
 
 |
 
+Politique de sécurité des systèmes d'information, organigramme, etc.
+
 |
 
-Cybersécurité |
+Les systèmes d'information employés dans le cadre de l'expérimentation ont-ils été homologués selon la méthodologie définie par l'Agence nationale de sécurité des systèmes d'information ?
 
-Comment avez-vous analysé les risques relatifs à la cybersécurité ?
+|
 
-(Préciser la méthode employée) |
+Oui/non
 
 |
 
+Dossier d'homologation
+
 |
 
-Cette analyse de risque a-t-elle été effectuée par un organisme extérieur ?
+Comment avez-vous analysé les risques de cybersécurité relatifs à l'expérimentation ?
 
-(Si oui, préciser) |
+|
 
-- Oui ;
+|
 
-- Non |
+Méthode d'analyse de risques employée
 
 |
 
 Quels sont les principaux risques de cybersécurité liés à cette expérimentation ?
 
-(Lister et décrire) |
+|
+
+|
+
+Analyse de risques, risques résiduels
+
+|
+
+Dans le cas où le conducteur ne se trouve pas à bord du véhicule ; quels sont les risques de cybersécurité identifiés ? quelles sont les mesures mises en place pour les limiter ?
+
+|
+
+Oui/non
+
+|
+
+Analyse de risques, procédures d'exploitation
+
+|
+
+Dans le cas où une supervision existe ; quels sont les risques de cybersécurité identifiés ? quelles sont les mesures mises en place pour les limiter ?
+
+|
+
+Oui/non
+
+|
+
+Analyse de risques, description des fonctions de supervision
+
+|
+
+Quelles mesures ont été mises en place pour limiter les risques de cybersécurité ?
 
 |
 
 |
 
-Quelles mesures ont été mises en place pour limiter ces risques de cybersécurité ?
-
-(Lister et décrire) |
+Plan de traitement des risques
 
 |
+
+Comment la cybersécurité est-elle prise en compte tout au long du cycle de vie ?
+
+(conception, développement, production, exploitation, décommissionnement)
+
+|
+
+|
+
+Plans d'amélioration continue relatifs à la sécurité des systèmes d'information mis en œuvre
+
+|
+
+Les systèmes d'information concernés par l'expérimentation ont-ils fait l'objet d'un audit de sécurité ?
+
+|
+
+Oui/non
+
+|
+
+Rapport d'audit
+
+|
+
+Quelles sont les procédures d'exploitation (maintien en condition de sécurité, d'administration, etc.) des systèmes d'information employées dans le cadre de l'expérimentation ?
+
+|
+
+|
+
+Procédures
 
 |
 
 Quelles sont les procédures de détection, d'analyse et de traitement des incidents de cybersécurité ?
 
-(Type de mesures correctives mises en place, etc.) |
+|
+
+|
+
+Procédures
+
+|
+
+Disposez-vous d'un système embarqué ou débarqué de détection des cyberattaques ?
+
+|
+
+Oui/non
+
+|
+
+Préciser
+
+|
+
+Disposez-vous d'un système embarqué ou débarqué d'enregistrement des événements de sécurité ?
+
+|
+
+Oui/non
+
+|
+
+Préciser
+
+|
+
+Sécurité des passagers et des autres usagers de la route
+
+|
+
+Quels sont les dispositifs de communication prévus entre le conducteur non présent à bord et les passagers ?
 
 |
 
 |
 
-Comment la cybersécurité a-t-elle été prise en compte ?
+Description et mode de fonctionnement du ou des dispositifs de communication entre le conducteur et les passagers/ Stockage des enregistrements.
 
-(Préciser les mesures de cybersécurité) |
+Y compris quand le conducteur est non présent à bord.
+
+|
+
+Est-il prévu de diffuser des messages préenregistrés à destination des passagers ?
+
+|
+
+Oui/non
+
+|
+
+Si oui, préciser les messages préenregistrés (nature du message, mode et fréquence de diffusion).
+
+|
+
+Comment le caractère expérimental du véhicule DPTC est-il indiqué aux passagers ?
 
 |
 
 |
 
-Quels sont les risques de cybersécurité résiduels identifiés lors des audits de sécurité effectués sur les systèmes d'information concernés par l'expérimentation ?
+Description et emplacement de la mention visible et accessible véhicule à délégation de conduite
 
-(Préciser) |
+|
+
+L'expérimentation prévoit-elle l'accès des personnes mineures à ou aux véhicules ?
+
+|
+
+Oui/non
+
+|
+
+Si oui, décrire l'emplacement des prescriptions qui s'appliquent au transport des personnes mineures
+
+|
+
+Quelles sont les conditions et les limites relatives au transport des personnes mineures, le cas échéant ?
 
 |
 
 |
 
-Avez-vous fait appel à un prestataire pour réaliser les audits de sécurité des systèmes d'information concernés par l'expérimentation ?
+Préciser les conditions et les limites prévues relatives à la présence des personnes mineures à bord du ou des véhicules expérimentés.
 
-(Si oui, préciser) |
-
-- Oui ;
-
-- Non |
+Décrire la procédure de recueil du consentement des responsables légaux des personnes mineures
 
 |
 
-Si vous avez fait appel à un prestataire d'audits, a-t-il fait l'objet d'une qualification par l'ANSSI (Agence nationale de la sécurité des systèmes d'information) ou par un autre organisme ?
-
-(Si oui, préciser) |
-
-- Oui ;
-
-- Non |
-
-|
-
-Quel système d'enregistrement des événements de sécurité avez-vous mis en œuvre ?
-
-(Préciser) |
+Quelle est la procédure d'évacuation des passagers en cas de conducteur non présent à bord ?
 
 |
 
 |
 
-Consultation des acteurs |
+Description détaillée de la procédure d'évacuation des passagers en cas d'immobilisation prolongée du véhicule DPTC.
 
-Quels sont les gestionnaires de voirie auprès desquels des démarches ont-elles été effectuées ? |
+Préciser, le cas échéant les messages diffusés et la communication avec le conducteur non présent à bord du véhicule DPTC.
+
+Démontrer la prise en compte des scénarios de rupture d'alimentation et/ou de connexion.
+
+|
+
+Comment sont actionnées les issues de secours par le conducteur non présent à bord du véhicule DPTC ?
 
 |
 
 |
 
-Si des mesures de police de la circulation sur ces infrastructures en relation directe avec l'expérimentation, auprès de quelles autorités de police des démarches ont-elles été effectuées ?
+Décrire le processus de déclenchement de l'ouverture des issues de secours par le conducteur non présent à bord. Décrire le nombre et la disposition des issues de secours et moyens de les actionner.
 
-(Préciser quelles autorités, les mesures de police de la circulation, les dates de consultation…) |
+|
+
+Quelles sont les mesures prises pour assurer la sécurité des autres usagers de la route, en particulier des usagers vulnérables ?
 
 |
 
 |
 
-Existe-t-il des demandes particulières envers les gestionnaires d'infrastructures ?
-
-(Si oui, préciser : interventions, équipements, signalisation, travaux de voirie…) |
-
-- Oui ;
-
-- Non |
+Le cas échéant, description des systèmes de communication avec les autres usagers de la route
 
 |
 
-Par quels moyens les forces de l'ordre et les services de secours sont-ils informés de la tenue de l'expérimentation et des particularités du véhicule ? |
+Suivi et évaluation
 
 |
 
-|
-
-Par quels moyens les autres usagers sont-ils informés de l'expérimentation (si cela est nécessaire) ? |
+Quelle est la procédure de recueil et de traitement des données d'incidents ?
 
 |
 
 |
 
-Le demandeur garantit-il que l'expérimentation sera couverte par une assurance adéquate ?
+|
 
-(Préciser les risques couverts) |
+Quelles sont les données collectées par l'enregistreur de données évènementielles des véhicules ?
 
-- Oui ;
+|
 
-- Non |
+Localisation ; cinématique ; état de délégation de conduite - dont déportée ; demandes de reprise en main ; environnement de conduite du véhicule…
+
+|
+
+|
+
+Quelles sont les données collectées sur les usagers du véhicule ?
+
+|
+
+Nombre de passagers ; position dans le véhicule…
+
+|
 
 |

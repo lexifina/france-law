@@ -1,73 +1,291 @@
 # Article Annexe 5
 
-SUIVI SEMESTRIEL ET BILAN ANNUEL
+SUIVI SEMESTRIEL
 
-Le suivi semestriel devra présenter les éléments suivants :
+1. Eléments techniques sur le déroulement de l'expérimentation
 
-1. Nombre de kilomètres parcourus ;
+Type et nombre de véhicules : [à compléter]
 
-2. Décomposition des kilomètres parcourus en mode conventionnel et en mode délégué dans différentes conditions de trafic et sur différents types de réseaux, en distinguant a minima :
+Pour les expérimentations de véhicules de transport de personnes, nombre de passagers transportés : [à compléter]
 
-a. la vitesse contextuelle (< 30 km/h ; comprise entre 30 km/h et 70 km/h : comprise entre 70 km/h et 110 km/h ; supérieure à 110 km/h),
+Distance totale parcourue (km) : [à compléter], dont :
 
-b. les types de réseau empruntés (réseaux à voies à chaussées séparées ; réseaux sur lesquels la circulation est restreinte (ex : voies réservées) ; réseau interurbain indifférencié ; réseau urbain indifférencié),
+-distance parcourue en mode conventionnel (km) : [à compléter] ;
 
-c. la circulation avec ou sans passager pour les véhicules affectés au transport de personnes,
+-distance parcourue en mode délégation de conduite (km) : [compléter le tableau ci-dessous].
 
-d. la circulation en charge ou à vide pour les véhicules affectés au transport de marchandises ;
+Distance parcourue en mode délégation de conduite (km) |
 
-3. Liste des incidents affectant la sécurité routière. Cette liste devra mentionner au minimum, pour chaque incident :
+Vitesse limite (km/ h) |
 
-a. lieux,
+30 ou inférieur
 
-b. heures,
+à 30 |
 
-c. conditions de circulation telles que mentionnées ci-dessus,
+50 |
 
-d. système de délégation de conduite en fonctionnement lors de l'accident,
+De 70 à 90 |
 
-e. comportement du conducteur avant, lors et après l'incident,
+110 |
 
-f. autres personnes ou véhicules impliqués,
+130 |
 
-g. cause(s) [présumée(s)] et conséquence(s) de l'incident ;
+Autres
 
-4. Liste des incidents affectant la cybersécurité. Cette liste devra inclure au minimum, pour chaque incident, les éléments mentionnés au point 3 ci-dessus ainsi que les journaux des événements de sécurité enregistrés par les systèmes d'information ;
+(à préciser
 
-5. Liste récapitulative des accidents matériels et corporels cités au V de l'article 5. Cette liste devra mentionner au minimum, pour chaque accident :
+et compléter
 
-a. lieux,
+si besoin) |
 
-b. heures,
+Remarques |
 
-c. conditions de circulation telles que mentionnées ci-dessus,
+Distance
 
-d. système de délégation de conduite en fonctionnement lors de l'accident,
+parcourue |
 
-e. comportement du conducteur avant, lors et après l'accident,
+|
 
-f. autres personnes ou véhicules impliqués,
+|
 
-g. cause(s) [présumée(s)] et conséquence(s) de l'accident ;
+|
 
-6. Présentation synthétique des enseignements tirés des incidents et accidents ;
+|
 
-7. Listes des incidents ou accidents ayant donné lieu à enquêtes approfondies d'accidents ou retours d'expérience (REX) ; conclusions de ces enquêtes ou REX.
+|
 
-Le bilan annuel devra présenter :
+|
 
-1. L'évaluation du comportement des conducteurs dans les différents modes (conventionnel, autonome) et dans les phases de transition, en distinguant les conditions de circulation telles que mentionnées ci-dessus, les différents réseaux empruntés, les conditions météorologiques et d'environnement du véhicule ;
+|
 
-2. L'évaluation des interactions entre les véhicules et les autres usagers de la route dans les différents modes (conventionnel, autonome) et dans les phases de transition, en distinguant les conditions de circulation telles que mentionnées ci-dessus, les différents réseaux empruntés, les conditions météorologiques et d'environnement du véhicule ;
+Vitesse moyenne
 
-3. L'impact sur les consommations énergétiques des véhicules concernés ;
+du/ des
 
-4. L'impact sur l'organisation des services de transports (marchandises, voyageurs) concernés par l'expérimentation ;
+véhicule (s) |
 
-5. L'évaluation des mesures de maîtrise des risques adoptées pour répondre aux scenarii critiques identifiés dans le dossier de demande d'autorisation ;
+|
 
-6. Les scenarii s'étant révélés critiques a posteriori, au vu des retours d'expériences (caractérisés par les conditions de circulation, conditions météorologiques, réseaux empruntés, caractéristiques de l'infrastructure et/ou de la signalisation, systèmes de délégation de conduite) ;
+|
 
-7. Les besoins de poursuivre l'expérimentation relevant de l'autorisation, le cas échéant ;
+|
 
-8. Les besoins identifiés de conduire d'autres expérimentations.
+|
+
+|
+
+|
+
+|
+
+Pour les expérimentations de véhicules de transport de marchandises, distance parcourue en mode délégation de conduite en charge : [à compléter]
+
+Nombre de reprises en main : [à compléter]
+
+Nature des reprises en main : [à compléter]
+
+Nombre d'arrêts d'urgence : [à compléter]
+
+Répartition par type des arrêts d'urgence : [à compléter]
+
+Incidents affectant la sécurité routière : [renseigner le tableau ci-dessous pour chaque incident] [Copier le tableau autant de fois que nécessaire]
+
+Incident numéro [à compléter] |
+
+Résumé de la situation globale indiquant la cause (présumée) de l'incident |
+
+Exemple : freinage d'urgence mal détecté par le véhicule
+
+circulant derrière la navette. |
+
+Lieu |
+
+Exemple : au droit du 2, rue de l'Eglise |
+
+Heure |
+
+|
+
+Conditions de circulation (vitesse, passagers à bord, etc.) |
+
+|
+
+Type de voie |
+
+Par exemple : autoroute, route interurbaine, voie structurante
+
+d'agglomération, rue, zone de rencontre … |
+
+État de la délégation de conduite |
+
+Exemple : mode délégation de conduite enclenché |
+
+Actions du conducteur et/ ou du véhicule (manœuvre)
+
+avant, pendant et après l'incident |
+
+|
+
+Autres personnes ou véhicules impliqués |
+
+|
+
+Conséquence (s) de l'incident |
+
+|
+
+Préciser si l'expérimentation, ou la circulation du véhicule concerné,
+
+a été suspendue ou arrêtée. |
+
+|
+
+Indiquer les principales conclusions d'une éventuelle enquête
+
+ou retour d'expérience particulier |
+
+|
+
+Enseignements tirés des incidents affectant la sécurité routière : [à compléter]
+
+Incidents de nature à affecter la cybersécurité [renseigner le tableau ci-dessous pour chaque incident] [Copier le tableau autant de fois que nécessaire]
+
+Incident numéro [à compléter] |
+
+Résumé de la situation globale indiquant la cause (présumée) de l'incident |
+
+|
+
+Lieu |
+
+|
+
+Heure |
+
+|
+
+Conditions de circulation (vitesse, passagers à bord, etc.) |
+
+|
+
+Type de voie |
+
+|
+
+État de la délégation de conduite |
+
+|
+
+Actions du conducteur et/ ou du véhicule (manœuvre) avant,
+
+pendant et après l'incident |
+
+|
+
+Autres personnes ou véhicules impliqués |
+
+|
+
+Conséquence (s) de l'incident |
+
+|
+
+Préciser si l'expérimentation, ou la circulation du véhicule concerné,
+
+a été suspendue ou arrêtée. |
+
+|
+
+Indiquer les principales conclusions d'une éventuelle enquête
+
+ou retour d'expérience particulier |
+
+|
+
+Enseignements tirés des incidents de nature à affecter la cybersécurité : [à compléter]
+
+Accidents matériels et/ ou corporels [renseigner le tableau ci-dessous pour chaque accident] [Copier le tableau autant de fois que nécessaire]
+
+Accident numéro [à compléter] |
+
+Résumé de la situation globale indiquant la cause (présumée) de l'accident |
+
+Exemple : freinage d'urgence mal détecté par le véhicule
+
+circulant derrière la navette. |
+
+Lieu |
+
+|
+
+Heure |
+
+|
+
+Conditions de circulation (vitesse, passagers à bord, etc.) |
+
+|
+
+Type de voie |
+
+|
+
+État de la délégation de conduite |
+
+Exemple : mode délégation de conduite enclenché |
+
+Actions du conducteur et/ ou du véhicule (manœuvre) avant,
+
+pendant et après l'accident |
+
+|
+
+Autres personnes ou véhicules impliqués |
+
+|
+
+Préciser les dommages corporels, en précisant le nombre et le type de blessés,
+
+et s'ils étaient à l'intérieur ou à l'extérieur du véhicule |
+
+|
+
+Conséquence (s) de l'accident |
+
+|
+
+Préciser si l'expérimentation, ou la circulation du véhicule concerné,
+
+a été suspendue ou arrêtée. |
+
+|
+
+Indiquer les principales conclusions d'une éventuelle enquête
+
+ou retour d'expérience particulier |
+
+|
+
+Enseignements tirés des accidents : [à compléter]
+
+Evaluation a posteriori des mesures de maîtrise des risques adoptées pour répondre aux scenarii critiques identifiés dans le dossier de demande d'autorisation ; [à compléter]
+
+Scenarii non identifiés dans l'analyse de risque initiale et s'étant révélés critiques lors de l'expérimentation (ces scénarii peuvent être caractérisés par les conditions de circulation, conditions météorologiques, réseaux empruntés, caractéristiques de l'infrastructure et/ ou de la signalisation, systèmes de délégation de conduite) : [à compléter]
+
+Consommation énergétique des véhicules autorisés : [à compléter]
+
+2. Eléments d'évaluation sur le comportement des acteurs et des tiers, et sur la perception et l'acceptabilité de l'expérimentation :
+
+Evaluation sur le rapport du conducteur, y compris à distance, au véhicule (comportement, perception, etc), en distinguant dès que possible les conditions de circulation et l'environnement du véhicule : [à compléter]
+
+Evaluation sur le comportement des autres usagers interagissant avec l'expérimentation : [à compléter]
+
+Dans le cas d'une expérimentation de transport de personnes :
+
+-évaluation sur la perception de l'expérimentation par les usagers des services de transport : nature et modalités de réalisation de ces évaluations (par exemple : enquête directe auprès des usagers après essai), thématiques abordées (satisfaction, sentiment d'insécurité …) : [à compléter] ;
+
+-évaluation sur l'acceptation de l'expérimentation par les usagers et les non-usagers : [à compléter].
+
+Modifications souhaitées ou réalisées sur les véhicules et/ ou sur les conditions de l'expérimentation : [à compléter]
+
+En fin d'expérimentation, préciser les besoins et les modalités d'une prochaine expérimentation : [à compléter].

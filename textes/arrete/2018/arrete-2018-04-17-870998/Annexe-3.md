@@ -1,61 +1,75 @@
 # Article Annexe 3
 
-LISTE DES ÉLÉMENTS DEMANDÉS DANS LE DOSSIER SUR L'EXPÉRIMENTATION CITÉ AU III DE L'ARTICLE 3
+PRINCIPES DE SECTIONNEMENT
 
-1. Présentation du contexte de l'expérimentation, notamment :
+Lorsque la demande d'autorisation d'expérimentation porte sur un parcours prédéfini, le parcours ou l'ensemble des voies sur lequel porte la demande devra être découpé en sections homogènes du point de vue de la criticité des événements redoutés de circulation (i. e. présentant des risques de collisions). Ces sections sont définies, schématiquement, par trois dimensions :
 
-a. les acteurs impliqués et leurs rôles respectifs dans l'expérimentation,
+-la géométrie de la voie de circulation elle-même ;
 
-b. la gestion de l'expérimentation,
+-l'aménagement de l'espace de circulation ;
 
-c. le contexte global de l'expérimentation ;
+-les adjacents à cette voie, qui sont potentiellement générateurs de risques de collisions.
 
-2. Présentation de l'expérimentation, notamment :
+Une section est considérée comme homogène lorsque les trois critères ci-dessus sont homogènes le long de cette section.
 
-a. les dates de début et de fin, en incluant la marche à blanc le cas échéant,
+Pour chaque section, une photo (obligatoire), une vidéo (optionnelle) et un texte permettent d'apprécier les caractéristiques dimensionnantes de la section.
 
-b. la localisation de l'expérimentation,
+|
 
-c. les objectifs de l'expérimentation,
+Exemples d'éléments de découpage en section homogène |
 
-d. la plage horaire journalière de l'expérimentation,
+Par typologie |
 
-e. les protocoles d'expérimentation utilisés,
+Par caractéristique dimensionnante |
 
-f. s'il y a lieu, le type de service de transport expérimenté (transport en commun de personne, transport public de personne, transport de marchandise),
+Géométrie de la voie de circulation |
 
-g. les études de sécurité effectuées ;
+Section courante |
 
-3. Présentation des modalités de l'expérimentation, notamment :
+Géométrie de la voie (droit, en courbe) ; Pente |
 
-a. le nombre de véhicules utilisés,
+Intersection ou giratoire |
 
-b. le numéro d'identification (VIN) des véhicules utilisés,
+Fréquence et angles des voies d'approche |
 
-c. les interactions avec les autres usagers de la voirie,
+Tunnel |
 
-d. les trajets empruntés,
+|
 
-e. le profil des expérimentateurs (permis de conduire, qualifications spécifiques, formations) ;
+Vitesse maximale autorisée |
 
-f. le cas échéant, et en référence au point IV de l'article 12 du décret n° 2018-211 du 28 mars 2018 relatif à l'expérimentation de véhicules à délégation de conduite sur les voies publiques, les interactions et coordinations entre les systèmes de supervision et les commandes déportés et les systèmes de gestion et de contrôle de la circulation existants ainsi que les protocoles de communication entre le conducteur déporté et les éventuelles personnes à bord du véhicule ;
+Vitesse programmée du véhicule expérimenté |
 
-4. Un sous-dossier concernant la voirie contenant en particulier :
+Aménagement de l'espace de circulation |
 
-a. un plan de situation général des voiries empruntées,
+Principes de partage de l'espace de circulation |
 
-b. la liste des sections de voirie empruntées suivant le format en annexe 4,
+Voie ouverte, voie réservée au transport expérimenté, voie partagée avec d'autres modes spécifiques (détailler), zones de rencontre, autres |
 
-c. la caractérisation des sections de voirie avec notamment :
+Modalités de séparation des flux |
 
-i. le plan de ces sections,
+Marquage horizontal ; parapet ou glissière ; mur ou grillage
 
-ii. les équipements et signalisations nécessaires à l'expérimentation, le cas échéant, les plans de détails permettant de comprendre l'intégration dans le système existant (profils en travers, organisation des carrefours, signalisation, …).
+Préciser si aucune séparation |
 
-d. la réglementation en vigueur sur les voiries concernées en matière de police de circulation et du stationnement ;
+Adjacents générateurs de risques de collisions |
 
-5. Un sous-dossier concernant la sécurité des systèmes d'information ;
+Présence d'autres modes de transport en section courante (transports collectifs, cycles, transports guidés, etc.) |
 
-6. Une attestation d'assurance couvrant l'expérimentation de véhicules à délégation de conduite ;
+Intensité du trafic sur la voie et les adjacents, voie dédiée ou non, circulation à contresens |
 
-7. Toute autre information que le demandeur juge nécessaire de porter à connaissance.
+Flux croisant la section d'expérimentation |
+
+|
+
+Trottoir |
+
+Distinguer la nature du bâti adjacent (notamment : écoles, logements, zones de commerce, bureaux) |
+
+Zone d'arrêt de transport collectif |
+
+|
+
+Sortie de parking ou de zone de stationnement |
+
+|
