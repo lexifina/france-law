@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219589
+
+- Question : [SEQ201219589](seq201219589.md) — Statut particulier du cadre d'emploi des attachés territoriaux dans les communes de moins de 2 000 habitants
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2021-06-24, page 4004*
+
+Le recrutement des attachés principaux est conditionné au respect du seuil démographique, fixé par les dispositions de l'article 2 du décret n° 87-1099 du 30 décembre 1987, portant statut particulier du cadre d'emplois des attachés territoriaux : « Les titulaires du grade d'attaché principal exercent leurs fonctions dans les communes de plus de 2 000 habitants. » Ce dispositif de seuil démographique répond à plusieurs objectifs. Tout d'abord, il permet de s'assurer que les fonctionnaires sont recrutés pour occuper des fonctions en adéquation avec le niveau de leur grade. Ensuite, il garantit une homologie, facteur de mobilité, entre les niveaux des responsabilités exercées par les fonctionnaires de grade équivalent au sein des différentes fonctions publiques. A cet égard, on peut noter qu'une commune de cette taille comprend en moyenne 15 agents, dont un seul de catégorie A. Un assouplissement ou une remise en cause de ces dispositions serait de nature à produire une inflation injustifiée du niveau des emplois au sein des petites structures. En outre, il ne paraîtrait pas plus pertinent de prendre comme critère le budget de la collectivité, alors que les autres critères de création des grades, pour les attachés hors classe et les administrateurs, sont aussi basés sur la population, avec respectivement des seuils de 10 000 et 40 000 habitants. Telles sont les raisons pour lesquelles il n'est pas envisagé de revenir sur les seuils démographiques de recrutement des attachés principaux, comme des autres fonctionnaires territoriaux.
