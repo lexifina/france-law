@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415296
+
+- Question : [SEQ200415296](seq200415296.md) — Exonération des charges sociales
+
+## Réponse
+
+*Comptes publics, JO du 2021-06-24, page 3984*
+
+Le renforcement du dispositif d'activité partielle induit par les conséquences de l'épidémie de Covid-19 a été mis en place par l'ordonnance n° 2020-346 du 27 mars 2020 portant mesures d'urgence en matière d'activité partielle et par le décret n° 2020-325 du 25 mars 2020 relatif à l'activité partielle. Ce dispositif exceptionnel s'appliquera jusqu'au 31 décembre 2021. Dans sa rédaction initiale, il a permis de compenser, pour chaque salarié concerné, par une allocation à l'employeur, l'équivalent de 70 % de la rémunération brute, dans la limite de 4,5 fois le taux horaire du SMIC, avec un taux horaire minimum de 8,03 € alors que l'allocation horaire était auparavant fixée à 7,23 € ou 7,74 € en fonction de la taille de l'entreprise. Avec la reprise d'activité, le taux de la rémunération prise en charge a été ramenée à 36 % pour un taux horaire minimum de 7,23 € à compter du 1er février 2021. Le recours à l'activité partielle a été massif. L'indemnité d'activité partielle étant exonérée de cotisations sociales et soumise à un taux de CSG minoré (6,2 % contre 9,2 % sur les revenus d'activité), il en a résulté des pertes de recettes très conséquentes pour la sécurité sociale. En dehors de cet effort considérable fourni par les finances publiques et sociales, une indemnisation complémentaire visant à assurer l'intégralité du salaire a pu parallèlement être accordée par l'employeur. Dans ce cas, seule la part des indemnités complémentaires d'activité partielle versées aux salariés en activité partielle qui est supérieure à 3,15 SMIC est soumise aux cotisations de sécurité sociale. Des instructions en ce sens ont été passées aux employeurs par le portail Net-entreprises et le site urssaf.fr.
