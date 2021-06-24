@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220995
+
+- Question : [SEQ210220995](seq210220995.md) — Meilleure prise en compte des communes dans les contrats de relance et de transition écologique
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-06-24, page 3974*
+
+Les communes ont bien toute leur place dans les contrats de relance et de transition écologique (CRTE). Ce nouvel outil doit permettre à l'ensemble des territoires de bénéficier rapidement du plan de relance et d'être soutenus par l'Etat sur toute la durée des mandats locaux. Ces contrats ont également vocation à simplifier le paysage contractuel en offrant un cadre intégrateur et transversal aux politiques publiques. Le périmètre retenu après concertation locale pour cette contractualisation est le plus souvent l'établissement public à fiscalité propre, voire un groupement d'établissements publics à fiscalité propre, pour la mise en oeuvre des projets de territoire à une échelle adaptée aux différents enjeux stratégiques. Les présidents de ces établissements en sont les chefs de file et ils réuniront à ce titre l'ensemble des partenaires, publics et privés, souhaitant contribuer et enrichir la démarche. Les maires seront bien évidemment associés. Comme le prévoit la circulaire du Premier ministre du 20 novembre 2020, des opérations sous maîtrise d'ouvrage communale contribuant à la mise en œuvre du projet de territoire pourront être inscrites dans le CRTE. À l'issue de leur élaboration partenariale, les différents documents (contrat lui-même, conventions annuelles financières ou avenants), pourront être signés par où en présence des maires des communes qui composent l'établissement public à fiscalité propre ou le groupement d'établissements publics à fiscalité propre, en fonction des organisations locales.
