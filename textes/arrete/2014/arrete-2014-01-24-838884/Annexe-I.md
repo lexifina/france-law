@@ -366,16 +366,6 @@ EDF
 
 EDF data center Val-de-Reuil |
 
-FR-new-05804966
-
-|
-
-ORANGE
-
-|
-
-ORANGE data center Val-de-Reuil |
-
 FR-new-61050201
 
 |
@@ -496,11 +486,9 @@ VIRIDI DATA CENTER PARIS 2 SAS à Ferrières-en-Brie
 
 FR-new-06521797 |
 
-Bouygues Immobilier |
+Equinix |
 
-Bouygues Immobilier Data center
-
-|
+Equinix-Data Center de Meudon |
 
 FR-new-06900563
 
@@ -581,16 +569,6 @@ EDF PEI
 EDF PEI centrale de Haute-Corse
 
 |
-
-FR-new-07403939
-
-|
-
-ORANGE
-
-|
-
-ORANGE data center d'Aubervilliers |
 
 FR-new-07404148 |
 
@@ -719,14 +697,6 @@ Electricité de Mayotte
 |
 
 EDM Centrale de Longoni
-
-|
-
-FR-new-10013537 |
-
-DATA CENTER ORANGE |
-
-DATA CENTER ORANGE
 
 |
 

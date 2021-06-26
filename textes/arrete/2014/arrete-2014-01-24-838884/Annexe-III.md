@@ -174,6 +174,30 @@ SOLEVAL OUEST |
 
 1203 |
 
+FR000000000000195 |
+
+Erasteel Commentry |
+
+Erasteel Commentry |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+501 |
+
+2941 |
+
+2885 |
+
+2829 |
+
+9156 |
+
 FR000000000000217 |
 
 Société de Distribution de Chaleur de Moulins |
@@ -343,6 +367,30 @@ Hôpital Edouard Herriot
 99 |
 
 374 |
+
+FR000000000000488 |
+
+UEM |
+
+UEM Centrale de Chambière |
+
+5632 |
+
+5040 |
+
+4465 |
+
+3908 |
+
+3369 |
+
+2847 |
+
+2342 |
+
+1855 |
+
+29458 |
 
 FR000000000000504 |
 
@@ -921,6 +969,30 @@ Solvay Electrolyse France
 25 289
 
 |
+
+FR-new-05104757 |
+
+CHU AMIENS PICARDIE |
+
+CHU AMIENS PICARDIE |
+
+0 |
+
+0 |
+
+4940 |
+
+4323 |
+
+3726 |
+
+3149 |
+
+2591 |
+
+2052 |
+
+20781 |
 
 FR-new-06104438 |
 

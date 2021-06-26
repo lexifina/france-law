@@ -256,9 +256,7 @@ Compagnie de Chauffage Intercommunale de l'Agglomération Grenobloise (CCIAG)
 
 |
 
-Chaufferie du CEA
-
-|
+Chaufferie du CEA |
 
 1 716
 
@@ -2566,7 +2564,7 @@ UEM
 
 |
 
-UEM Centrale de Metz Est
+UEM Centrale de Metz
 
 |
 
@@ -2574,19 +2572,19 @@ UEM Centrale de Metz Est
 
 18 737 |
 
-15 210 |
+3447 |
 
-12 095 |
+1803 |
 
-9 375 |
+509 |
 
-7 487 |
+0 |
 
-6 151 |
+0 |
 
-4 866 |
+0 |
 
-96 606 |
+47181 |
 
 FR000000000000488 |
 

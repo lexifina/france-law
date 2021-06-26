@@ -1112,13 +1112,11 @@ FR000000000000034
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Montataire
+Arcelormittal France
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Montataire
-
-|
+ArcelorMittal France-Site de Montataire |
 
 59 542
 
@@ -1544,13 +1542,11 @@ FR000000000000050
 
 |
 
-SPILLERS PETFOOD FRANCE SA
+NESTLE PURINA PETCARE France S. A. S
 
 |
 
-SPILLERS PETFOOD FRANCE SA-Usine d'Aubigny
-
-|
+NESTLE PURINA PETCARE France-Usine d'Aubigny |
 
 8 297
 
@@ -12110,7 +12106,7 @@ PSA AUTOMOBILES SA
 
 |
 
-PSA AUTOMOBILES SA VESOUL
+PSA AUTOMOBILES SA Vesoul
 
 |
 
@@ -13498,13 +13494,11 @@ FR000000000000366
 
 |
 
-RHODIA OPERATIONS
+POLYTECHNYL
 
 |
 
-RHODIA OPERATIONS SITE DE VALENCE
-
-|
+POLYTECHNYL Valence |
 
 18 029
 

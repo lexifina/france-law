@@ -1942,7 +1942,7 @@ FR-new-05209268
 
 |
 
-EUROVIA GRANDS TRAVAUX
+EUROVIA GRANDS PROJETS FRANCE
 
 |
 
@@ -2038,9 +2038,7 @@ FR-new-05209846
 
 |
 
-EUROVIA GRANDS TRAVAU
-
-|
+EUROVIA GRANDS PROJETS FRANCE |
 
 RF 500
 
@@ -2682,11 +2680,11 @@ SOCIETE LAITIERE DE VITRE
 
 FR-new-05501580 |
 
-OMNI-PAC GROUP
+Celluloses De la Loire
 
 |
 
-OMNI-PAC GROUP |
+Celluloses De la Loire |
 
 0 |
 
@@ -2705,6 +2703,30 @@ OMNI-PAC GROUP |
 20 872 |
 
 131 374 |
+
+FR-new-05503394 |
+
+COGELYO OUEST |
+
+COGELYO OUEST LA JANAIS |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-05503400
 
@@ -4845,6 +4867,30 @@ Linex Panneaux SAS
 190 964
 
 |
+
+FR-new-05804966 |
+
+ORANGE |
+
+ORANGE data center Val de Reuil |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-05805324
 
@@ -7452,13 +7498,9 @@ FR-new-06201358
 
 |
 
-British Steel France Rail SAS
+LIBERTY RAIL HAYANGE |
 
-|
-
-British Steel France Rail SAS
-
-|
+LIBERTY RAIL HAYANGE |
 
 32 995
 
@@ -9772,13 +9814,11 @@ FR-new-06600885
 
 |
 
-SEM (Société des Enrobés Méditerranéens)
+S. E. M. (Société des Enrobés Méditerranéens)
 
 |
 
-Centrale d'enrobage à chaud
-
-|
+Centrale d'enrobage à chaux |
 
 3 934
 
@@ -11682,23 +11722,23 @@ MG-VALDUNES
 
 MG-VALDUNES Leffinckoucke |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
 3 411 |
 
 2 805 |
 
-2 222 |
+0 |
 
-8 438 |
+6216 |
 
 FR-new-07000683
 
@@ -13288,6 +13328,30 @@ SIAAP site de SEINE-AMONT
 
 |
 
+FR-new-07403939 |
+
+ORANGE |
+
+ORANGE data center d'Aubervilliers |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
 FR-new-07409093
 
 |
@@ -13652,7 +13716,7 @@ COLAS Centre-Ouest-centrale d'enrobage mobile RMS300
 
 FR-new-10010879 |
 
-EUROVIA GRANDS TRAVAUX
+EUROVIA GRANDS PROJETS FRANCE
 
 |
 
@@ -13680,7 +13744,7 @@ FR-new-10011026
 
 |
 
-EUROVIA GRANDS TRAVAUX
+EUROVIA GRANDS PROJETS FRANCE
 
 |
 
@@ -13749,6 +13813,30 @@ DESCARTES BIOMASSE INDUSTRIE - DBI |
 0 |
 
 0 |
+
+FR-new-10013537 |
+
+ORANGE |
+
+Data center Orange |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+/ |
+
+/ |
+
+/ |
 
 FR-new-10300065
 
@@ -14508,7 +14596,7 @@ POLYREY SAS |
 
 FR-new-03103394 |
 
-EUROVIA GRANDS TRAVAUX GPI
+EUROVIA GRANDS PROJETS FRANCE
 
 |
 
@@ -14985,6 +15073,30 @@ Chaufferie Énergie Verte de Valence site de Laforêt/ Briffaut |
 - |
 
 - |
+
+/ |
+
+/ |
+
+/ |
+
+FR-new-28300009 |
+
+Wizpaper |
+
+Wizpaper Wizernes |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
 
 / |
 

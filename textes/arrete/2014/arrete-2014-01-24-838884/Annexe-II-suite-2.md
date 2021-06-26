@@ -7520,13 +7520,9 @@ FR000000000000955
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Mardyck
+ArcelorMittal France |
 
-|
-
-ArcelorMittal Atlantique et Lorraine - Site de Mardyck
-
-|
+ArcelorMittal France-Site de Mardyck |
 
 72 955
 
@@ -7568,13 +7564,11 @@ FR000000000000956
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Dunkerque
+ArcelorMittal France
 
 |
 
-ArcelorMittal Atlantique et Lorraine - Site de Dunkerque
-
-|
+ArcelorMittal France-Site de Dunkerque |
 
 9 481 273
 
@@ -8480,13 +8474,11 @@ FR000000000000979
 
 |
 
-SPILLERS PETFOOD FRANCE SA
+NESTLE PURINA PETCARE France
 
 |
 
-SPILLERS PETFOOD FRANCE SA-Usine de Marconnelle
-
-|
+NESTLE PURINA PETCARE France-Usine de Marconnelle |
 
 11 639
 
@@ -11838,13 +11830,9 @@ FR000000000001081
 
 |
 
-DURALEX INTERNATIONAL
+New Duralex International |
 
-|
-
-DURALEX INTERNATIONAL
-
-|
+New Duralex International |
 
 26 871
 
@@ -12786,13 +12774,9 @@ POTERIE DES TROIS-ILETS SA
 
 |
 
-1 602
+0 |
 
-|
-
-13 749
-
-|
+12 147 |
 
 FR000000000001119
 
