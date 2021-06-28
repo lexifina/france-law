@@ -2,7 +2,7 @@
 
 VALEURS LIMITES DE REJET DES EAUX RÉSIDUAIRES
 
-Sans préjudice des autorisations de déversement dans le réseau public (art. L. 1331-10 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents. Ces valeurs limites doivent être respectées en moyenne sur 24 heures et aucune valeur instantanée ne doit dépasser le double des valeurs limites de concentration.
+Sans préjudice des autorisations de déversement dans le réseau public (art. L. 1331-10 du code de la santé publique), les rejets d'eaux résiduaires doivent faire l'objet en tant que de besoin d'un traitement permettant de respecter les valeurs limites suivantes contrôlées, sauf stipulation contraire de la norme, sur effluent brut non décanté et non filtré, sans dilution préalable ou mélange avec d'autres effluents. Ces valeurs limites doivent être respectées en moyenne sur 24 heures et aucune valeur instantanée ne doit dépasser le double des valeurs limites de concentration. Ces valeurs limites s'appliquent sans préjudice des valeurs limites d'émissions définies par l'arrêté du 17 décembre 2019 relatif aux meilleures techniques disponibles (MTD) applicables à certaines installations de traitement de déchets relevant du régime de l'autorisation et de la directive IED.
 
 a) Dans tous les cas, avant rejet au milieu naturel ou dans un réseau d'assainissement collectif :
 
