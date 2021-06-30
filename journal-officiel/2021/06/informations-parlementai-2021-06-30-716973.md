@@ -1,0 +1,800 @@
+# Commissions et organes de contrôle
+
+- Nature : Informations Parlementaires
+- Publication : 2021-06-30
+- JO n° : 0150
+- NOR : INPA2120240X
+- Origine : JORF n°0150 du 30 juin 2021
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043716973
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire de 2020-2021
+
+1. Création
+
+Mission d'information visant à identifier les ressorts de l'abstention et les mesures permettant de renforcer la participation électorale
+
+La Conférence des présidents a décidé, sur proposition du Président de l'Assemblée nationale, en application de l'article 145, alinéa 4, du Règlement, de créer une mission d'information visant à identifier les ressorts de l'abstention et les mesures permettant de renforcer la participation électorale.
+
+Cette mission sera composée de 25 membres auxquels s'ajoutera un député non inscrit.
+
+Les Présidents de groupe voudront bien faire connaître à la Présidence (division des questions et des scrutins), avant le mardi 6 juillet 2021, à 15 heures, les noms des candidats qu'ils proposent pour cette mission.
+
+Les députés n'appartenant à aucun groupe voudront bien faire parvenir leur candidature dans les mêmes conditions.
+
+Mission d'information sur l'application du droit voisin au bénéfice des agences, éditeurs et professionnels du secteur de la presse
+
+La Conférence des présidents, en application de l'article 145, alinéa 5, du Règlement, a pris acte, à la demande du Président du groupe Mouvement Démocrate (MoDem) et Démocrates apparentés, de la création d'une mission d'information sur l'application du droit voisin au bénéfice des agences, éditeurs et professionnels du secteur de la presse.
+
+Cette mission sera composée de 25 membres auxquels s'ajoutera un député non inscrit.
+
+Les Présidents de groupe voudront bien faire connaître à la Présidence (division des questions et des scrutins), avant le mardi 6 juillet 2021, à 15 heures, les noms des candidats qu'ils proposent pour cette mission.
+
+Les députés n'appartenant à aucun groupe voudront bien faire parvenir leur candidature dans les mêmes conditions.
+
+2. Composition
+
+Modifications à la composition des commissions
+
+DÉMISSIONS |
+
+Affaires culturelles |
+
+Mme Florence Provendier |
+
+Mme Maina Sage |
+
+Mme Agnès Thill |
+
+Affaires sociales |
+
+Mme Nicole Sanquer |
+
+Mme Hélène Vainqueur-Christophe |
+
+Défense |
+
+Mme Isabelle Santiago |
+
+Développement durable |
+
+M. Benoit Potterie |
+
+|
+
+|
+
+|
+
+NOMINATIONS |
+
+|
+
+|
+
+|
+
+Le groupe La République en Marche a désigné : |
+
+Affaires sociales |
+
+Mme Florence Provendier |
+
+|
+
+|
+
+|
+
+Le groupe Socialistes et apparentés a désigné : |
+
+Affaires sociales |
+
+Mme Isabelle Santiago |
+
+Défense |
+
+Mme Hélène Vainqueur-Christophe |
+
+|
+
+|
+
+|
+
+Le groupe Agir ensemble a désigné : |
+
+Affaires culturelles |
+
+M. Benoit Potterie |
+
+Développement durable |
+
+Mme Maina Sage |
+
+|
+
+|
+
+|
+
+Le groupe UDI et Indépendants a désigné : |
+
+Affaires culturelles |
+
+Mme Nicole Sanquer |
+
+Affaires sociales |
+
+Mme Agnès Thill |
+
+3. Réunions
+
+Mercredi 30 juin 2021
+
+Commission des affaires culturelles,
+
+A 9 h 30 salle 6242 (Affaires culturelles) :
+
+- table ronde sur la recherche française sur les pôles, réunissant :
+
+- M. Olivier Poivre d'Arvor, ambassadeur pour les pôles et les enjeux maritimes ;
+
+- M. Yvon Le Maho, membre de l'Académie des sciences, président du conseil d'administration de l'Institut polaire français Paul-Émile-Victor (IPEV), directeur de recherche au CNRS - Institut pluridisciplinaire Hubert Curien, université de Strasbourg ;
+
+- Mme Catherine Ritz, vice-présidente du Centre national français de recherches arctiques et antarctiques (CNFRA), directrice de recherche au CNRS - Institut des Géosciences de l'Environnement (IGE), Université de Grenoble-Alpes ;
+
+- M. Jérôme Fort, chargé de mission pour les pôles à l'Institut écologie et environnement (INEE), chercheur au laboratoire Littoral, environnement et sociétés (LIENs) de l'Université de La Rochelle.
+
+Commission des affaires économiques,
+
+A 9 h 30 (salle 6241 (Affaires économiques) ) :
+
+- audition de Mme Catherine MacGregor, directrice générale d'Engie.
+
+Commission des affaires étrangères,
+
+A 9 h 30 (salle 4223 et visioconférence) :
+
+- audition, ouverte à la presse, de M. Thomas Gomart, directeur de l'Institut français des relations internationales, auteur de « Guerres invisibles. Nos prochains défis géopolitiques », sur les transformations du système international.
+
+Commission des affaires européennes,
+
+A 15 heures (visioconférence) :
+
+- réunion commune avec la délégation française au Comité économique et social européen (CESE) sur le Digital Service Act.
+
+Commission des affaires sociales,
+
+A 9 h 30 (salle Lamartine) :
+
+- désignation des rapporteurs sur le projet de loi de financement de la sécurité sociale pour 2022 ;
+
+- désignation des rapporteurs pour avis sur le projet de loi de finances pour 2022 ;
+
+- désignation des rapporteurs de la mission « flash » sur les salles de consommation à moindre risque ;
+
+- projet de loi relatif à l'enfance (n° 4264) (Mmes Bénédicte Pételle et Michèle Peyron, rapporteures).
+
+A 15 heures (salle Lamartine) :
+
+- projet de loi relatif à l'enfance (n° 4264) (Mmes Bénédicte Pételle et Michèle Peyron, rapporteures).
+
+Commission de la défense,
+
+A 9 heures salle 4123 (33, rue Saint-Dominique) :
+
+- audition, à huis clos, de M. le général d'armée aérienne Philippe Lavigne, chef d'état-major de l'armée de l'air et de l'espace, sur l'actualisation de la LPM 2019-2025 ;
+
+- nomination des rapporteurs pour avis sur le projet de loi de finances pour 2022.
+
+A 11 heures salle 4123 (33, rue Saint-Dominique) :
+
+- audition, à huis clos, de M. Vincenzo Salvetti, directeur des applications militaires au Commissariat à l'énergie atomique (CEA), sur l'actualisation de la LPM 2019-2025.
+
+Commission du développement durable,
+
+A 9 h 30 salle 6238 (Développement durable) :
+
+- mission « flash » sur les enjeux environnementaux de l'aménagement des aires de stationnement (conclusions).
+
+Commission des finances,
+
+A 9 heures (visioconférence) :
+
+- audition d'Aéma Groupe et de l'Association des assureurs mutualistes sur la révision de la directive Solvabilité II.
+
+A 11 heures (visioconférence) :
+
+- audition de la Fédération nationale de la mutualité française sur la révision de la directive Solvabilité II.
+
+Commission des lois,
+
+A 9 h 30 (6e Bureau (Lois) et visioconférence) :
+
+- communication de la mission flash sur l'application de l'article 122-1 du code pénal (Mme Naima Moutchou et M. Antoine Savignat, co-rapporteurs) (6ème bureau - 1er étage du Palais Bourbon et visioconférence) ;
+
+- examen de la recevabilité de la proposition de résolution tendant à la création d'une commission d'enquête chargée de rechercher d'éventuels dysfonctionnements de la justice et de la police dans l'affaire dite Sarah Halimi et de formuler des propositions pour éviter le cas échéant leur renouvellement (n° 4109) (M. Didier Paris, rapporteur) (6ème bureau - 1er étage du Palais Bourbon) ;
+
+- nomination d'un rapporteur sur la recevabilité de la proposition de résolution tendant à la création d'une commission d'enquête visant à identifier les dysfonctionnements et manquements de la politique pénitentiaire française (n° 4277) (6ème bureau - 1er étage du Palais Bourbon).
+
+Commission d'enquête sur la lutte contre l'orpaillage illégal en Guyane,
+
+A 15 heures (visioconférence) :
+
+- audition de Mme Isabelle Braun-Lemaire, directrice générale des douanes et droits indirects (DGDDI).
+
+A 16 h 30 (Visioconférence) :
+
+- audition de l'adjudant-chef David Gris, commandant de la brigade motorisée de Louvres - auteur du livre « Garimpeiros »
+
+Mission d'information pour le suivi de l'application de la loi pour la conservation et la restauration de la cathédrale Notre Dame de Paris et instituant une souscription nationale à cet effet,
+
+A 11 h 30 (Visioconférence) :
+
+- audition de M. Jean-François Hebert, directeur général des patrimoines et de l'architecture.
+
+Mission d'information sur l'autonomie alimentaire de la France et au sein de ses territoires,
+
+A 16 heures (en visioconférence) :
+
+- audition de M. Damien Houdebine, secrétaire national de la Confédération paysanne, accompagné de M. Joris Gaudaré, animateur de la commission alimentation.
+
+A 17 heures (en visioconférence) :
+
+- audition de M. Pierre Thomas, président du Mouvement de défense des exploitants familiaux (MODEF), accompagné de M. Clément Tardy, animateur.
+
+Mission d'information sur le rôle et l'avenir des commerces de proximité dans l'animation et l'aménagement du territoire,
+
+A 17 heures (visioconférence) :
+
+- audition de M. William Koeberlé, président du Conseil du commerce de France.
+
+Mission d'information sur la construction d'une indépendance stratégique de l'Europe,
+
+A 14 heures (visioconférence) :
+
+- audition de M. Christophe Fouquet, membre du directoire d'ASML, responsable de la branche « Extrême ultraviolet ».
+
+A 15 heures (visioconférence) :
+
+- audition de Tixeo : M. Renaud Ghia, président, M. Sébastien Jeanjean, directeur général et M. Olivier Azan, responsable marketing et communication.
+
+A 16 heures (visioconférence) :
+
+- audition de M. Bruno Sportisse, président directeur général de l'INRIA (Institut national de recherche en sciences et technologies du numérique).
+
+A 17 heures (Visioconférence) :
+
+- audition de M. Marko Erman, directeur scientifique du groupe Thales.
+
+Mission d'information sur le plan famille : quel bilan ? ,
+
+A 14 heures (visioconférence) :
+
+- audition de M. le général de corps d'armée Bernard Fontan, directeur central du service d'infrastructure de la Défense (SID).
+
+A 15 heures (visioconférence) :
+
+- audition de M. le commissaire en chef de première classe Gaël Kerreneur, chef du bureau politique ressources humaines et condition de l'aviateur, et de
+
+Mme le commandant Ophélie Simon, chef de la division condition de l'aviateur.
+
+A 16 heures (visioconférence) :
+
+- audition de M. l'ingénieur général hors classe de l'armement (2S) Marc Leclère, président de la mutuelle Unéo.
+
+A 17 heures (visioconférence) :
+
+- audition du docteur Anne Raynaud, psychiatre, fondatrice de l'institut de la parentalité.
+
+Mission d'information sur la politique de la France et de l'Europe à l'égard de la Chine,
+
+A 16 h 30 (visioconférence) :
+
+- table-ronde portant sur le thème de la coopération universitaire et scientifique et réunissant M. Jean-François Huchet, président de l'INALCO et vice-président de la commission des relations internationales et européennes de la CPU et Mme Béatrice Khaiat, directrice générale de Campus France.
+
+Mission d'information sur la résilience nationale,
+
+A 14 heures (salle 6656) :
+
+- nomination du bureau ;
+
+- désignation du rapporteur ;
+
+- échange de vues sur le programme de la mission.
+
+Jeudi 1er juillet 2021
+
+Commission des affaires économiques,
+
+A 10 heures (visioconférence) :
+
+- audition de M. Jean Tirole, prix Nobel d'économie, et de M. Olivier Blanchard, ancien chef économiste et directeur des études au Fonds monétaire international, co-présidents du comité d'experts sur les grands défis économiques, dont le rapport a été remis au Président de la République.
+
+Commission des affaires sociales,
+
+A 9 heures (salle 6237) :
+
+- audition du Pr Didier Pittet, président de la mission indépendante nationale sur l'évaluation de la gestion de la crise Covid-19 et sur l'anticipation des risques pandémiques.
+
+Commission d'enquête sur les migrations, les déplacements de populations et les conditions de vie et d'accès au droit des migrants, réfugiés et apatrides en regard des engagements nationaux, européens et internationaux de la France,
+
+A 9 heures (salle 4325 (3ème étage) du 33, rue Saint-Dominique) :
+
+- audition de la direction des Français à l'étranger et de l'administration consulaire du ministère de l'Europe et des affaires étrangères : M. Cédric Prieto, sous-directeur de la politique des visas
+
+A 10 heures (salle 4325 (3ème étage) du 33, rue Saint-Dominique) :
+
+- audition de l'ambassade de France en Turquie : Hervé Magro, ambassadeur
+
+A 11 h 15 (salle 4325 (3ème étage) du 33, rue Saint-Dominique) :
+
+- audition du réseau Migreurop : Mme Lydie Arbogast, responsable des questions européennes à La Cimade, membre de Migreurop et M. Filippo Furri, anthropologue, membre de Migreurop
+
+Mission d'information sur les enjeux de la défense en Indo-Pacifique,
+
+A 9 h 30 (visioconférence) :
+
+- audition de Son Excellence Mme Gillian Bird, ambassadrice d'Australie en France.
+
+A 10 h 30 (visioconférence) :
+
+- audition de M. Benoît de Tréglodé, directeur du domaine Afrique-Asie-Moyen-Orient à l'Institut de Recherche Stratégique de l'Ecole Militaire (IRSEM).
+
+Mission d'information sur le cadre juridique et statutaire de l'enseignement hybride ou à distance, dans l'enseignement scolaire et l'enseignement supérieur ,
+
+A 18 heures (Visioconférence uniquement avec diffusion) :
+
+- audition de M. Jean-Marc Merriaux, directeur de la Direction du numérique pour l'éducation du ministère de l'Éducation nationale.
+
+Mission d'information sur l'organisation et les enjeux de la gastronomie et de ses filières,
+
+A 13 h 30 (par visioconférence) :
+
+- audition de M. Alban Galland, sous-directeur commerce, artisanat et restauration à la direction générale des entreprises (DGE)
+
+A 14 h 30 (par visioconférence) :
+
+- audition de M. Pierre Sanner, président de la mission française du patrimoine et des cultures alimentaires (MFPCA)
+
+A 15 h 30 (par visioconférence) :
+
+- audition de Mme Caroline Leboucher, directrice générale d'Atout France, accompagnée de Mme Sophie Lacressonnière, directrice marketing
+
+Mission d'information sur les perspectives économiques des jeunes français : logement et précarité chez les étudiants, les apprentis et les jeunes actifs,
+
+A 8 h 30 (salle n° 3 - 95 Rue de l'Université) :
+
+- audition de M. Emmanuel Desmaizières, vice-président de la Fédération des promoteurs immobiliers (FPI) (à compter du 1er juillet 2021), directeur général d'Icade Promotion, accompagné de M. Alexis Rouque, délégué général de la FPI, et de Mme Anne Peyricot, directrice de cabinet et des relations institutionnelles.
+
+A 9 h 30 (salle n° 3 - 95, rue de l'Université) :
+
+- audition M. Thierry Rousseau, animateur du GT Accueil de la commission « Vie étudiante » de la Conférence des grandes écoles (CGE) ; directeur de la vie étudiante et résidentielle de l'ESSEC.
+
+A 10 h 30 (salle n° 3 - 95, rue de l'Université) :
+
+- audition de Mme Virginie Dupont, vice-présidente de la Conférence des présidents d'université (CPU).
+
+A 11 h 30 (salle n° 3 - 95, rue de l'Université) :
+
+- audition M. Guillaume Brugidou, délégué général de l'Association pour le logement des familles et des isolés (ALFI).
+
+Mission d'information sur la politique de la France et de l'Europe à l'égard de la Chine,
+
+A 10 h 30 (salle 4204) :
+
+- audition de M. David Baverez, investisseur et auteur de « Chine-Europe : le grand tournant » (2021).
+
+Vendredi 2 juillet 2021
+
+Mission d'information sur l'organisation et les enjeux de la gastronomie et de ses filières,
+
+A 9 heures (en visioconférence) :
+
+- audition de Mme Véronique Carrion, directrice générale de Cuisine Mode d'Emploi(s) (école de M. Thierry Marx).
+
+A 9 h 45 (par visioconférence) :
+
+- Table ronde des écoles de cuisine :
+
+- Chef Eric Briffard, accompagné de Mme Aude Mouline, directrice marketing de l'Institut Le Cordon Bleu,
+
+- M. Dominique Giraudier, directeur général de l'Institut Paul Bocuse.
+
+A 11 heures (en visioconférence) :
+
+- audition de M. Pascal Maillou, proviseur du lycée Belliard de Paris, directeur du CFA, président du GRETA METEHOR, accompagné de Mme Sonia Calisto, cheffe des travaux.
+
+A 14 heures (par visioconférence) :
+
+- audition de M. Jean-Baptiste Lemoyne, secrétaire d'État chargé du Tourisme, des Français de l'étranger et de la Francophonie
+
+Mardi 6 juillet 2021
+
+Comité d'évaluation et de contrôle,
+
+A 9 heures (salle 6241, 2ème sous-sol) :
+
+- suivi de l'évaluation de la lutte contre la délinquance financière : examen du rapport de MM. Ugo Bernalicis et Jacques Maire (ouvert à la presse).
+
+Mercredi 7 juillet 2021
+
+Délégation aux outre-mer,
+
+A 14 heures (visioconférence) :
+
+- à 14heures (heure de Paris) :
+
+- audition de M. Roger Genet, directeur général de l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) ;
+
+- audition de Mme Marianne Louis, directrice générale de l'union sociale pour l'habitat (USH) et de M. Mahieddine Hedli, directeur à l'outre-mer de l'USH ;
+
+- questions diverses.
+
+Groupe de travail sur les modalités d'organisation de la vie démocratique,
+
+A 11 heures salle 6566 (Lois) :
+
+- réunion d'étape des membres du groupe de travail.
+
+4. Ordre du jour prévisionnel
+
+Mardi 6 juillet 2021
+
+Commission des affaires économiques,
+
+A 17 h 30 salle 6241 (Affaires économiques) :
+
+- audition, conjointe avec la commission des finances, de M. Antoine Frérot, président-directeur général de Veolia.
+
+Commission des affaires sociales,
+
+A 14 h 45 (salle 6237) :
+
+- examen, en application de l'article 88 du Règlement, des amendements au projet de loi relatif à la protection des enfants (n° 4264) (Mmes Bénédicte Pételle et Michèle Peyron, rapporteures)
+
+Commission de la défense,
+
+A 17 h 30 (à préciser) :
+
+- examen, ouvert à la presse, des conclusions de la mission d'information sur la stabilité au Moyen-Orient dans la perspective de l'après « Chammal » (co-rapporteurs : MM. Gwendal Rouillard et Philippe Meyer).
+
+Commission du développement durable,
+
+A 14 h 45 salle 6238 (Développement durable) :
+
+- diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances (n° 4186) (amendements, art. 88)
+
+Commission des finances,
+
+A 17 h 30 salle 6241 (Affaires économiques) :
+
+- audition, commune avec la commission des affaires économiques, de M. Antoine FRÉROT, président-directeur général de VEOLIA.
+
+A 21 heures (salle 6237) :
+
+- éventuellement, examen, en nouvelle lecture, du projet de loi de finances rectificative pour 2021 (M. Laurent SAINT-MARTIN, rapporteur général) ;
+
+- désignation des rapporteurs spéciaux sur le projet de loi de finances pour 2022 et du rapporteur pour avis sur le projet de loi de financement de la sécurité sociale pour 2022.
+
+mission d'information sur les négociations internationales relatives au changement climatique,
+
+A 13 h 45 (visioconférence) :
+
+- audition de Mme Laurence Tubiana, présidente de la fondation européenne pour le climat, ancienne ambassadrice chargée des négociations sur le changement climatique au moment de la COP21.
+
+Mercredi 7 juillet 2021
+
+Commission des affaires économiques,
+
+A 9 h 30 salle 6241 (Affaires économiques) :
+
+- audition de M. Jean-Dominique Sénard, président de Renault, et de M. Luca de Meo, directeur général.
+
+Commission des affaires étrangères,
+
+A 9 h 30 (visioconférence) :
+
+- examen, ouvert à la presse, du rapport d'information sur la pollution des mers (Mme Ramlati Ali et M. Nicolas Dupont-Aignan, rapporteurs).
+
+Commission des affaires européennes,
+
+A 16 heures salle de commission (3e étage - 33, rue Saint-Dominique et visioconférence) :
+
+- coordination par l'Union européenne des mesures nationales de gestion de la crise sanitaire (rapport d'information) (proposition de résolution européenne) (M. Thierry Michels et Mme Marietta Karamanli, rapporteurs).
+
+Commission des affaires sociales,
+
+A 9 h 30 (salle 6237) :
+
+- mission d'information « Maladie de Lyme : améliorer la prise en charge des patients » (rapport d'information) ;
+
+- mission d'information « Professions de santé : quelles évolutions pour les périmètres d'activité, les protocoles de coopération et les pratiques avancées ? » (rapport d'information).
+
+Commission de la défense,
+
+A 10 heures (à préciser) :
+
+- examen, ouvert à la presse, des conclusions de la mission d'information sur la guerre des drones (co-rapporteurs : MM. Stéphane Baudu et Jean Lassalle).
+
+A 17 h 30 (à préciser) :
+
+- audition de M. le général d'armée François Lecointre, chef d'état-major des Armées sur la place des armées dans la société française et la singularité militaire
+
+Commission des lois,
+
+A 9 h 30 6e Bureau (Lois) :
+
+- examen du rapport de la mission d'évaluation de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique, dite « loi Sapin 2 » ;
+
+- examen de la recevabilité de la proposition de résolution tendant à la création d'une commission d'enquête visant à identifier les dysfonctionnements et manquements de la politique pénitentiaire française (n° 4277).
+
+Mission d'information sur les droits de diffusion audiovisuelle des manifestations sportives,
+
+A 16 heures salle 6242 (Affaires culturelles) :
+
+- audition de M. Marc Sénéchal, associé-gérant de la société BTSG, professeur à l'Université Paris 1-Panthéon-Sorbonne, médiateur de l'affaire Mediapro-LFP, mandataire judiciaire.
+
+Jeudi 8 juillet 2021
+
+Commission du développement durable,
+
+A 9 h 30 salle 6238 (Développement durable) :
+
+- nomination d'un rapporteur pour avis ;
+
+- audition de M. Julien Denormandie, ministre de l'agriculture et de l'alimentation, sur le volet climatique et environnemental du plan stratégique national élaboré dans le cadre de la politique agricole commune.
+
+Commission des finances,
+
+A 8 h 45 (salle 6237) :
+
+- éventuellement, examen, en nouvelle lecture, en application de l'article 88 du Règlement, des amendements au projet de loi de finances rectificative pour 2021 (M. Laurent SAINT-MARTIN, rapporteur général).
+
+Mission d'information sur la construction d'une indépendance stratégique de l'Europe,
+
+A 9 h 30 (visioconférence) :
+
+- audition de M. Elie Girard, directeur général d'Atos.
+
+A 11 h 30 (visioconférence) :
+
+- audition de M. Christophe Grudler, député européen (groupe Renew Europe), rapporteur au nom de son groupe sur la communication de la Commission du 10 février 2020 « Une nouvelle stratégie industrielle pour l'Europe ».
+
+Mission d'information sur les droits de diffusion audiovisuelle des manifestations sportives,
+
+A 9 h 30 salle 6242 (Affaires culturelles) :
+
+- audition de M. Claude Ferrandi, président-directeur général du Sporting Club de Bastia (à confirmer).
+
+A 10 heures salle 6242 (Affaires culturelles) :
+
+- audition de M. René Bouscatel, président de la Ligue nationale de rugby (à confirmer).
+
+A 11 heures salle 6242 (Affaires culturelles) :
+
+- audition de M. Bernard Caïazzo, président du conseil de surveillance de l'ASSE Association sportive de Saint-Étienne (à confirmer).
+
+Vendredi 9 juillet 2021
+
+Mission d'information sur les droits de diffusion audiovisuelle des manifestations sportives,
+
+A 14 h 30 (Visioconférence uniquement avec diffusion ) :
+
+- audition de M. André Giraud, président de la Fédération française d'athlétisme (FFA).
+
+Lundi 12 juillet 2021
+
+Commission des lois,
+
+A 14 h 30 6e Bureau (Lois) :
+
+- en cas d'échec de la commission mixte paritaire, examen, en nouvelle lecture, du projet de loi relatif à la prévention d'actes de terrorisme et au renseignement.
+
+Mardi 13 juillet 2021
+
+Commission des affaires économiques,
+
+A 17 h 30 salle 6241 (Affaires économiques) :
+
+- présentation du rapport d'information sur l'application de la loi n° 2020-699 du 10 juin 2020 relative à la transparence de l'information sur les produits agricoles et alimentaires (Mmes Barbara Bessot-Ballot et Anne-Laure Blin, rapporteures) ;
+
+- présentation du rapport d'information sur l'application de la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique, dite « ASAP » (M. Guillaume Kasbarian et Mme Sylvia Pinel, rapporteurs) ;
+
+- présentation du rapport d'information sur l'application de la loi n° 2020-1578 du 14 décembre 2020 relative aux conditions de mise sur le marché de certains produits phytopharmaceutiques en cas de danger sanitaire pour les betteraves sucrières (MM. Grégory Besson-Moreau et M. Thierry Benoit, rapporteurs) ;
+
+- présentation du rapport d'information sur l'application de la loi n° 2020-1508 du 3 décembre 2020 portant diverses dispositions d'adaptation au droit de l'Union européenne en matière économique et financière dite « DADUE » (Mme Pascale Boyer et M. Jérôme Nury, rapporteurs).
+
+Commission des affaires étrangères,
+
+A 17 h 15 (salle 4223 (33, rue Saint-Dominique) et visioconférence) :
+
+- examen, ouvert à la presse, et vote sur deux projets de loi :
+
+- projet de loi autorisant la ratification de la Convention n° 190 de l'Organisation internationale du Travail relative à l'élimination de la violence et du harcèlement dans le monde du travail (n° 4216) (M. Mustapha Laabid, rapporteur) ;
+
+- projet de loi autorisant l'approbation de la Mesure 1 (2005) - annexe VI au Protocole au Traité sur l'Antarctique relatif à la protection de l'environnement, responsabilité découlant de situations critiques pour l'environnement (n° 4265) (M. Jacques Maire, rapporteur).
+
+Commission du développement durable,
+
+A 17 h 30 salle 6238 (Développement durable) :
+
+- prolifération des plantes invasives et les moyens pour endiguer cette situation (rapport d'information).
+
+Jeudi 15 juillet 2021
+
+Mission d'information sur la construction d'une indépendance stratégique de l'Europe,
+
+A 9 h 30 (visioconférence) :
+
+- OVH Cloud : audition de M. Michel Paulin, directeur général, et Mme Anne Duboscq, directrice des affaires publiques.
+
+Mardi 20 juillet 2021
+
+Commission des affaires européennes,
+
+A 17 h 45 salle de commission (3e étage - 33, rue Saint-Dominique et visioconférence) :
+
+- audition de M. Clément Beaune, secrétaire d'État aux affaires européennes sur la Conférence sur l'avenir de l'Europe
+
+mission d'information sur les négociations internationales relatives au changement climatique,
+
+A 13 h 45 (visioconférence) :
+
+- audition de M. Yannick Glemarec, directeur exécutif du Fonds vert pour le climat.
+
+Mission d'information sur la préparation à la haute intensité,
+
+A 14 heures (salle 4204 - 2e étage 33 SD) :
+
+- audition de M. le général de corps aérien Bruno Maigret, commandant des forces aériennes stratégiques (FAS).
+
+A 15 h 30 salle 4204 (33, rue Saint-Dominique) :
+
+- audition de M. le général de division aérienne Étienne Patry, directeur du Centre interarmées de concepts, doctrines et expérimentations (CICDE).
+
+Mercredi 21 juillet 2021
+
+Comité d'évaluation et de contrôle,
+
+A 15 heures
+
+- évaluation des politiques de prévention en santé publique : examen du rapport (M. Régis Juanico et Mme Marie Tamarelle-Verhaeghe, rapporteurs).
+
+Commission des affaires culturelles,
+
+A 9 h 30 salle 6242 (Affaires culturelles) :
+
+- désignation de rapporteurs sur :
+
+- la proposition de loi, adoptée par le Sénat après engagement de la procédure accélérée, visant à conforter l'économie du livre et à renforcer l'équité et la confiance entre ses acteurs (n° 4229) ;
+
+- la proposition de loi, adoptée par le Sénat après engagement de la procédure accélérée, relative aux bibliothèques et au développement de la lecture publique (4240) ;
+
+- bilan d'activité de la commission pour la session 2020-2021 ;
+
+- communication de Mmes Valérie Bazin-Malgras et Fabienne Colboc, rapporteures de la mission flash relative à la Politique de la danse ;
+
+- communication de M. Bertrand Bouyx et Mme Agnès Thill, rapporteurs de la mission flash relative aux spécialités en terminale dans le cadre de la réforme du baccalauréat.
+
+Commission des affaires économiques,
+
+A 9 h 30 salle 6241 (Affaires économiques) :
+
+- présentation, conjointement avec la commission des finances et la commission des lois, du rapport de la mission d'information commune sur les entreprises en difficulté du fait de la crise sanitaire (Mme Anne Laurence Petel, co-rapporteure) ;
+
+- présentation du rapport de la mission d'information sur la production laitière (hors AOP) en zone de montagne (Mme Pascale Boyer et M. Jean Pierre Vigier, rapporteurs).
+
+Commission des affaires européennes,
+
+A 18 heures salle de commission (3e étage - 33, rue Saint-Dominique et visioconférence) :
+
+- prise en compte des enjeux européens dans les médias (rapport d'information) (Mme Sabine Thillaye, rapporteure)
+
+- digital market act (rapport d'information) (Mme Christine Hennion, rapporteure)
+
+Commission des affaires sociales,
+
+A 9 h 30 (A préciser) :
+
+- examen du rapport de la mission « flash » relative à l'effectivité des droits à l'allocation journalière de présence parentale (M. Paul Christophe, rapporteur).
+
+A 15 heures (à préciser) :
+
+- table ronde sur la prévention du cancer de la prostate.
+
+Mission d'information sur les droits de diffusion audiovisuelle des manifestations sportives,
+
+A 17 heures salle 6242 (Affaires culturelles) :
+
+- audition de M. Pierre Ferracci, président du Paris FC, et M. Fabrice Herrault, directeur général délégué.
+
+Mission d'information sur la préparation à la haute intensité,
+
+A 9 heures (salle 4204 - 2e étage 33 SD) :
+
+- audition de M. le général de division aérienne Philippe Adam, chef de la division « cohérence capacitaire » (COCA) de l'état-major des armées.
+
+A 10 h 30 (salle 4204 - 2e étage 33 SD) :
+
+- audition de M. le colonel Olivier Poncet, chef du bureau emploi de l'état-major de l'armée de l'air et de l'espace.
+
+A 14 heures salle 4016 (33, rue Saint-Dominique) :
+
+- audition de M. Élie Tenenbaum, directeur du Centre des études de sécurité de l'IFRI et coordinateur pour l'IFRI de l'Observatoire des conflits futurs.
+
+Jeudi 22 juillet 2021
+
+Délégation aux outre-mer,
+
+A 15 heures (visioconférence) :
+
+- à 15 heures (heure de Paris) :
+
+- présentation du rapport d'information sur la réforme de l'indemnité temporaire de retraite (ITR) (Mme Stéphanie Atger, M. Philippe Dunoyer et Mme Nicole Sanquer, rapporteurs) ;
+
+- présentation du rapport d'information sur le projet de loi relatif à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (Mme Stéphanie Atger, MM. Mansour Kamardine et Jean-Hugues Ratenon, rapporteurs).
+
+- questions diverses.
+
+Mission d'information sur les droits de diffusion audiovisuelle des manifestations sportives,
+
+A 10 h 30 salle 6242 (Affaires culturelles) :
+
+- audition de M. Didier Quillot, ancien directeur général de la Ligue de Football Professionnel (LFP).
+
+Mercredi 28 juillet 2021
+
+Mission d'information sur le plan famille : quel bilan ? ,
+
+A 14 heures (visioconférence) :
+
+- audition de M. le colonel Aumonnier, chef du bureau condition du personnel et environnement humain de l'armée de Terre.
+
+Jeudi 29 juillet 2021
+
+Mission d'information sur le plan famille : quel bilan ? ,
+
+A 15 heures (visioconférence) :
+
+- audition de M. le colonel Christophe Dubuis, sous-directeur adjoint de l'accompagnement du personnel, Mme la lieutenante-colonelle Emmanuelle Parietti, adjointe du chef du bureau de l'action et M. le colonel Stéphane Ayzac, chef du bureau de la valorisation et de la transition professionnelle de la direction générale de l gendarmerie nationale (DGGN).
+
+Jeudi 2 septembre 2021
+
+Mission d'information sur le plan famille : quel bilan ? ,
+
+A 10 heures salle 4123 (33, rue Saint-Dominique) :
+
+- audition de M. Francis Lamy, président du Haut Comité d'évaluation de la condition militaire.
+
+A 11 heures salle 4123 (33, rue Saint-Dominique) :
+
+- audition de MM. les aumôniers en chef des armées : M. l'aumônier en chef du culte catholique Antoine de Romanet, M. l'aumônier en chef du culte israélite Joël Jonas, M. l'aumônier en chef du culte musulman Nadir Mehidi et M. l'aumônier en chef du culte protestant Étienne Waechter.
+
+Mardi 14 septembre 2021
+
+Mission d'information sur la préparation à la haute intensité,
+
+A 14 heures salle 4016 (33, rue Saint-Dominique) :
+
+- Audition de M. Bruno Tertrais, directeur adjoint de la Fondation pour la recherche stratégique (FRS) et M. Philippe Gros, maître de recherche à la FRS et spécialiste des questions opérationnelles.
+
+Mardi 21 septembre 2021
+
+Commission des affaires sociales,
+
+A 17 heures (à préciser) :
+
+- mission d'information sur l'emploi des seniors (rapport d'information).
+
+Mercredi 29 septembre 2021
+
+Mission d'information sur la préparation à la haute intensité,
+
+A 14 heures salle 4016 (33, rue Saint-Dominique) :
+
+- audition de M. le capitaine de vaisseau Frédéric Bordier, chef du bureau « contrats opérationnels des armées et préparation opérationnelle interarmées » au bureau « emploi » de la division « opérations » de l'état-major des armées, M. le colonel Pierre Gaudillière en charge de la prospective et de la stratégie militaire au sein de la division des études-synthèse-management général (ESMG) et M. le colonel Jérôme Mary, chef du bureau J5 / Europe - Afrique du Nord au sein du centre de planification et de conduite des opérations (CPCO).
