@@ -1,0 +1,11 @@
+# Maintenir les lignes de desserte fine du territoire
+
+- Procédure : Résolution Article 34-1
+- Législature : 15
+- Identifiant : DLR5L15N42753
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/lignes_desserte_fine
+
+## Étapes
+
+- Lecture unique
+  - 2021-06-30 : 1er dépôt d'une initiative. (PNREANR5L15B4306)
