@@ -38,61 +38,17 @@ DATE D'EFFET
 
 |
 
-1°. Chef d'échelon de jauge.
-
-|
-
-Emploi administratif du niveau de la catégorie A.
-
-|
-
-8
-
-|
-
-|
-
-10
-
-|
-
-1er août 1990
-
-|
-
-d°
-
-|
-
-d°
-
-|
-
-d°
-
-|
-
-|
-
-20
-
-|
-
-1er août 1991
-
-|
-
 2° Chef de subdivision :
 
-- chef de subdivision terrestre ;
+-chef de subdivision terrestre ;
 
-- officier naval ;
+-officier naval ;
 
-- inspecteur mécanicien interrégional ;
+-inspecteur mécanicien interrégional ;
 
-- inspecteur radio interrégional ;
+-inspecteur radio interrégional ;
 
-- chef d'atelier naval.
+-chef d'atelier naval.
 
 |
 
@@ -246,50 +202,6 @@ d°
 
 |
 
-4° Jaugeur.
-
-|
-
-Emploi administratif du niveau de la catégorie B ou C.
-
-|
-
-20
-
-|
-
-|
-
-10
-
-|
-
-1er août 1990
-
-|
-
-d°
-
-|
-
-d°
-
-|
-
-d°
-
-|
-
-|
-
-20
-
-|
-
-1er août 1991
-
-|
-
 5° Chef de poste (unité maritime ou unité terrestre).
 
 |
@@ -366,7 +278,7 @@ d°
 
 |
 
-- 47
+-47
 
 |
 
@@ -514,7 +426,7 @@ Emploi administratif du niveau de la catégorie B ou C.
 
 |
 
-- 14
+-14
 
 |
 
@@ -1164,7 +1076,7 @@ Emploi administratif du niveau de la catégorie B.
 
 |
 
-24° Agents exerçant des missions de sûreté, affectés au tunnel sous la Manche, à Lille TGV et gare du Nord.
+24° Agents exerçant des missions de sûreté, affectés au tunnel sous la Manche, à Lille TGV et à gare du Nord ou agents exerçant des missions de contrôles des matières dangereuses, affectés au tunnel du Fréjus ou au tunnel du Mont-Blanc.
 
 |
 
@@ -1174,7 +1086,7 @@ Emploi administratif du niveau de la catégorie B ou C.
 
 |
 
-+ 255
+255
 
 |
 
@@ -1186,17 +1098,13 @@ Emploi administratif du niveau de la catégorie B ou C.
 
 |
 
-d°
-
 |
-
-d°
 
 |
 
 |
 
-+ 113
+113
 
 |
 
@@ -1208,49 +1116,27 @@ d°
 
 |
 
-25° Responsable, au niveau départemental, de la coordination du retrait des fruits et légumes.
-
 |
-
-Emploi administratif du niveau de la catégorie A.
 
 |
 
 |
 
-+ 12
+84 |
 
-|
+10 |
 
-20
+1er jour du mois
 
-|
+suivant
 
-1er août 1994
+la publication
 
-|
+du décret
 
-d°
+n° 2021-698
 
-|
-
-d°
-
-|
-
-|
-
-+ 2
-
-|
-
-20
-
-|
-
-1er août 1996
-
-|
+du 1er juin 2021 |
 
 26° Responsable d'une unité de ciblage des grands ports et aéroports.
 
@@ -1318,7 +1204,7 @@ d°
 
 |
 
-28° Agent des services de recherche de la direction nationale du renseignement et des enquêtes douanières (D.N.R.E.D.).
+28° Agent des services de recherche de la direction nationale du renseignement et des enquêtes douanières (D. N. R. E. D.).
 
 |
 
@@ -1734,4 +1620,4 @@ Emploi administratif du niveau de la catégorie A ou B.
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.
+Conformément à l'article 2 de l'arrêté 1er juin 2021 modifiant l'arrêté du 14 octobre 1991 fixant les conditions d'attribution de la nouvelle bonification indiciaire au ministère de l'économie, des finances et du budget, à la Cour des comptes et dans les chambres régionales des comptes, les présentes dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication.
