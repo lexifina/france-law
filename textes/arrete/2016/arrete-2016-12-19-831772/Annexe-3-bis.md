@@ -12,9 +12,9 @@ Acte réglementaire |
 
 Véhicules routiers |
 
-Vmax ≤ 25 km/ h |
+Vmax ≤ 25 km/h |
 
-Vmax ≤ 40km/ h |
+Vmax ≤ 40km/h |
 
 2 |
 
@@ -68,7 +68,7 @@ A |
 
 Champ de vision et essuie-glace |
 
-R. 316-2, R. 316-3 et R. 316-4 |
+R.316-2, R.316-3 et R.316-4 |
 
 Y |
 
@@ -178,7 +178,7 @@ Anti-parasitage
 
 (moteurs allumage commandé) |
 
-R. 318-4
+R.318-4
 
 Arrêté du 28 avril 1969 |
 
@@ -192,7 +192,13 @@ A |
 
 compatibilité électromagnétique |
 
-R. 318-4
+- Pour les MAGA électriques :
+
+Règlement CEE-ONU n° 10 série 04 d'amendements
+
+- Pour les autres MAGA :
+
+R.318-4
 
 règlement (UE) n° 2015/208
 
@@ -200,9 +206,7 @@ Annexe XV
 
 ou
 
-Décret n° 2015-1084 du 27 août 2015
-
-|
+Décret n° 2015-1084 du 27 août 2015 |
 
 Y |
 
@@ -290,7 +294,7 @@ Plaque et marquage obligatoires |
 
 règlement (UE) n° 2015/208
 
-Annexe XX ou R317-9 |
+Annexe XX ou R317.9 |
 
 |
 
@@ -298,7 +302,7 @@ D |
 
 D |
 
-R. 317-10 |
+R.317-10 |
 
 21 |
 
@@ -316,7 +320,7 @@ B |
 
 Masse maximale en charge |
 
-R. 312-1 à R. 312-18
+R.312-1 à R.312-18
 
 Arrêté du 5 février 1969 |
 
@@ -326,6 +330,18 @@ B |
 
 B |
 
+24 |
+
+Sécurité des systèmes électriques |
+
+Règlement CEE-ONU n° 100 série 01 d'amendements |
+
+|
+
+A |
+
+A |
+
 25 |
 
 Réservoir de carburant |
@@ -334,7 +350,7 @@ règlement (UE) n° 2015/208
 
 Annexe XXV |
 
-|
+Y |
 
 A
 
@@ -416,19 +432,27 @@ D |
 
 Émissions de polluants |
 
-R318-1 et R413-12
+R318-1 et
 
-R. 224-7 à R. 224-14 du code de l'environnement (règlement (UE) n° 2016/1628 EMNR) |
+directive 97/68/CE le cas échéant
+
+ou
+
+R.224-7 à R.224-14 du code de l'environnement (règlement (UE) n° 2016/1628 EMNR) |
 
 |
 
 A
 
-(*) |
+(*)
+
+(5) |
 
 A
 
-(*) |
+(*)
+
+(5) |
 
 62 |
 
@@ -448,30 +472,36 @@ A |
 
 A |
 
-Légende annexe 3 bis : |
+Légende annexe 3 bis :
 
-A : la fiche de réception et la marque de réception ne sont pas exigées. Des rapports d'essais doivent être établis par un service technique notifié. |
+A : la fiche de réception et la marque de réception ne sont pas exigées. Des rapports d'essais doivent être établis par un service technique notifié.
 
-B : les prescriptions techniques de l'acte réglementaire doivent être respectées. Les essais prévus dans l'acte réglementaire doivent être réalisés intégralement ; ils peuvent être réalisés par le constructeur lui-même, qui émet alors le rapport technique, sous réserve de l'accord du service en charge des réceptions. |
+B : les prescriptions techniques de l'acte réglementaire doivent être respectées. Les essais prévus dans l'acte réglementaire doivent être réalisés intégralement ; ils peuvent être réalisés par le constructeur lui-même, qui émet alors le rapport technique, sous réserve de l'accord du service en charge des réceptions.
 
-C : le constructeur doit démontrer, à la satisfaction du service chargé des réceptions, que les exigences fondamentales de l'acte réglementaire sont respectées. |
+C : le constructeur doit démontrer, à la satisfaction du service chargé des réceptions, que les exigences fondamentales de l'acte réglementaire sont respectées.
 
-D : une déclaration de conformité soumise par le constructeur est suffisante. Aucun rapport d'essai n'est requis. |
+D : Une déclaration de conformité soumise par le constructeur est suffisante. Aucun rapport d'essai n'est requis.
 
-X = la conformité totale à l'acte réglementaire est exigée. La fiche de réception UE est délivrée lorsqu'elle est prévue par le règlement (UE) 2015/504. La conformité de production est assurée. |
+X = la conformité totale à l'acte réglementaire est exigée. La fiche de réception UE est délivrée lorsqu'elle est prévue par le règlement (UE) 2015/504. La conformité de production est assurée.
 
-Y : les actes correspondants pour les véhicules routiers sont acceptés comme équivalents, tel que précisé dans l'acte délégué. |
+Y : les actes correspondants pour les véhicules routiers sont acceptés comme équivalents, tel que précisé dans l'acte délégué.
 
 (1) : conformité de l'entité ou du composant exigée.
 
-(2) : installation. |
+(2) : installation.
 
-(3) : si le chauffage est conforme au R122, la fiche de réception de l'entité est requise. |
+(3) : si le chauffage est conforme au R122, la fiche de réception de l'entité est requise.
 
-(4) : pour les véhicules limités à 25 km/ h, une attestation de capacité des pneumatiques établie par le manufacturier peut être acceptée en alternative à la déclaration de conformité. |
+(4) : pour les véhicules limités à 25 km/h, une attestation de capacité des pneumatiques établie par le manufacturier peut être acceptée en alternative à la déclaration de conformité.
 
-(*) : En l'absence d'un PV attestant le respect des spécifications du moteur réceptionné, une attestation conjointe du motoriste et du constructeur du véhicule doit confirmer le respect des préconisations d'installation du motoriste. |
+(5) Si la MAGA a déjà été commercialisée sur le territoire d'un Etat membre, la conformité à la réglementation européenne en matière d'émissions polluantes est à considérer en prenant en compte la date de la première mise sur le marché européen légalement effectuée du moteur, sous réserve de justifier de ladite date.
+
+(*) : en l'absence d'un PV attestant le respect des spécifications du moteur réceptionné, une attestation conjointe du motoriste et du constructeur du véhicule doit confirmer le respect des préconisations d'installation du motoriste. |
 
 Un justificatif de conformité d'un niveau supérieur au niveau requis est accepté.
 
 Niveaux des justificatifs classés par ordre décroissant : X, A, B, C et D.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 12 mars 2021, ces dispositions sont applicables à compter du 1er juillet 2021.

@@ -34,17 +34,17 @@ T3a |
 
 T3b |
 
-T4. 1a |
+T4.1a |
 
-T4. 1b |
+T4.1b |
 
-T4. 2a |
+T4.2a |
 
-T4. 2b |
+T4.2b |
 
-T4. 3a |
+T4.3a |
 
-T4. 3b |
+T4.3b |
 
 Ca |
 
@@ -1130,7 +1130,7 @@ Annexe XXI
 
 ou
 
-R. 312-10 et 312-11 |
+R.312-10 et 312-11 |
 
 B |
 
@@ -1204,7 +1204,7 @@ Annexe XXII
 
 ou
 
-R. 312-4 et suivants |
+R.312-4 et suivants |
 
 B |
 
@@ -1278,7 +1278,7 @@ Sécurité des systèmes électriques |
 
 règlement (UE) n° 2015/208
 
-Annexe XXIV |
+Annexe XXIV (***) |
 
 |
 
@@ -1814,32 +1814,38 @@ I |
 
 I |
 
-Légende annexe 1 bis : |
+Légende annexe 1 bis :
 
-A : la fiche de réception et la marque de réception ne sont pas exigées. Des rapports d'essais selon l'acte délégué visé doivent être établis par un service technique notifié. |
+A : la fiche de réception et la marque de réception ne sont pas exigées. Des rapports d'essais selon l'acte délégué visé doivent être établis par un service technique notifié.
 
-B : les prescriptions techniques de l'acte réglementaire doivent être respectées. Les essais prévus dans l'acte réglementaire doivent être réalisés intégralement ; ils peuvent être réalisés par le constructeur lui-même, qui émet alors le rapport technique, sous réserve de l'accord du service en charge des réceptions. |
+B : les prescriptions techniques de l'acte réglementaire doivent être respectées. Les essais prévus dans l'acte réglementaire doivent être réalisés intégralement ; ils peuvent être réalisés par le constructeur lui-même, qui émet alors le rapport technique, sous réserve de l'accord du service en charge des réceptions.
 
-C : le constructeur doit démontrer, à la satisfaction du service chargé des réceptions, que les exigences fondamentales de l'acte réglementaire sont respectées. |
+C : le constructeur doit démontrer, à la satisfaction du service chargé des réceptions, que les exigences fondamentales de l'acte réglementaire sont respectées.
 
-D : Une déclaration de conformité soumise par le constructeur est suffisante. Aucun rapport d'essai n'est requis. |
+D : Une déclaration de conformité soumise par le constructeur est suffisante. Aucun rapport d'essai n'est requis.
 
-X = la conformité totale à l'acte réglementaire est exigée. La fiche de réception UE est délivrée lorsqu'elle est prévue par le règlement (UE) 2015/504. La conformité de production est assurée. |
+X = la conformité totale à l'acte réglementaire est exigée. La fiche de réception UE est délivrée lorsqu'elle est prévue par le règlement (UE) 2015/504. La conformité de production est assurée.
 
-I = identique à T en fonction de la catégorie. |
+I = identique à T en fonction de la catégorie.
 
-Y = les actes correspondants pour les véhicules routiers sont acceptés comme équivalents, tel que précisé dans l'acte délégué. |
+Y = les actes correspondants pour les véhicules routiers sont acceptés comme équivalents, tel que précisé dans l'acte délégué.
 
-NA = non applicable. |
+NA = non applicable.
 
-(1) : conformité de l'entité ou du composant exigée. |
+(1) : conformité de l'entité ou du composant exigée.
 
-(2) : le PV d'installation du service technique est exigé uniquement pour les véhicules dont la vitesse dépasse 60 km/ h. |
+(2) : le PV d'installation du service technique est exigé uniquement pour les véhicules dont la vitesse dépasse 60 km/h.
 
-(*) : conformité à l'arrêté du 16 juillet 1954 relatif à l'éclairage et la signalisation des véhicules possible. |
+(*) : conformité à l'arrêté du 16 juillet 1954 relatif à l'éclairage et la signalisation des véhicules possible.
 
-(**) : conformité à l'arrêté du 18 août 1955 modifié pour les T4. 1 et T4. 2 dont la vitesse maximale est inférieure ou égale à 25 km/ h. |
+(**) : conformité à l'arrêté du 18 août 1955 modifié pour les T4.1 et T4.2 dont la vitesse maximale est inférieure ou égale à 25 km/h.
+
+(***) : pour les véhicules électriques non couverts par l'annexe XXIV du règlement (UE) n° 2015/208, une conformité au règlement ONU-UNECE n° 100 série d'amendements 01 est exigée. |
 
 Un justificatif de conformité d'un niveau supérieur au niveau requis est accepté.
 
 Niveaux des justificatifs classés par ordre décroissant : X, A, B, C et D.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 12 mars 2021, ces dispositions sont applicables à compter du 1er juillet 2021.
