@@ -452,6 +452,8 @@ Annexe 9 : (sans objet).
 
 Annexe 10 : Modèle de carnet de contrôle des huiles usées.
 
+Annexe 12 : Liste des catégories de bâtiments et de convois.
+
 NOTA :
 
-Conformément à la décision CM-I-19-5-2 du 23 mai 2019, l'amendement entre en vigueur le 1er juillet 2020.
+Conformément à la décision CM-II-18-5-6 du 27 novembre 2018, l'amendement entre en vigueur le 1er juillet 2021.

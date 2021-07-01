@@ -124,7 +124,7 @@ X |
 
 16 000 € |
 
-Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique, mentionnés au b du 3 de l'annexe 1 |
+Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés en France métropolitaine, mentionnés au b du 3 de l'annexe 1 |
 
 4 000 € |
 
@@ -136,7 +136,21 @@ X |
 
 7 000 € |
 
-Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide, mentionnés au c du 3 de l'annexe 1 |
+Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionné au 3-1 de l'annexe 1
+
+|
+
+2 000 € |
+
+1 500 € |
+
+1 000 € |
+
+X |
+
+2 600 € |
+
+Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide, mentionnés au d du 3 de l'annexe 1 |
 
 2 500 € |
 
@@ -316,6 +330,34 @@ X |
 
 200 €/ m2 |
 
+Sur-toitures ventilées pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionnés au 13-1 de l'annexe 1
+
+|
+
+75 € / m2 |
+
+60 € / m2 |
+
+40 € / m2 |
+
+15 € / m2 |
+
+110 € / m2 |
+
+Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionné au 13-2 de l'annexe 1
+
+|
+
+75 € / m2 |
+
+60 € / m2 |
+
+40 € / m2 |
+
+15 € / m2 |
+
+105 € / m2 |
+
 Prestation d'assistance à maîtrise d'ouvrage mentionnée au 14 de l'annexe 1 |
 
 150 € |
@@ -344,15 +386,31 @@ Tableau 2 : sommes forfaitaires mentionnées au septième alinéa du I de l'arti
 
 |
 
-Ménages aux ressources très modestes |
+Ménages
 
-Ménages aux ressources modestes |
+aux ressources
 
-Ménages aux ressources intermédiaires |
+très modestes |
 
-Ménages aux ressources supérieures |
+Ménages
 
-Somme forfaitaire mentionnée à l'article 13-3 de l'arrêté du XXX précité |
+aux ressources
+
+modestes |
+
+Ménages
+
+aux ressources
+
+intermédiaires |
+
+Ménages
+
+aux ressources
+
+supérieures |
+
+Somme forfaitaire mentionnée à l'article 13-3 de l'arrêté précité |
 
 1 500 € |
 
@@ -362,7 +420,7 @@ Somme forfaitaire mentionnée à l'article 13-3 de l'arrêté du XXX précité |
 
 500 € |
 
-Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté du XXX précité |
+Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté précité |
 
 1 500 € |
 
@@ -376,4 +434,4 @@ Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté du XXX précité |
 
 NOTA :
 
-Conformément à l'article 12 de l'arrêté du 25 janvier 2021 (LOGL2100768A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.
+Conformément à l'article 8 de l'arrêté du 8 juillet 2021 (NOR : LOGL2119191A), ces dispositions s'appliquent aux demandes de primes déposées à compter du 1er juillet 2021.

@@ -30,7 +30,9 @@ Certificat de qualification ou certification RGE |
 
 Demande de prime |
 
-Engagement sur l'honneur à louer le logement à titre de résidence principale pour une durée minimum de 5 ans pour les personnes physiques visées au II de l'article 1 du décret du 14 janvier 2020 susvisé |
+Engagement sur l'honneur à louer le logement à titre de résidence principale pour une durée minimum de 5 ans et, dans le cas d'une éventuelle réévaluation du montant du loyer, à déduire le montant de la prime du montant des travaux d'amélioration ou de mise en conformité justifiant cette réévaluation du montant du loyer, pour les personnes visées au II de l'article 1 du décret du 14 janvier 2020 susvisé
+
+Engagement sur l'honneur à informer le locataire de la réalisation de travaux financés par la prime et de la déduction du montant de la prime dans le cas d'une éventuelle réévaluation du loyer (voir modèle en annexe 5 du présent arrêté) |
 
 |
 
@@ -102,12 +104,16 @@ Formulaire CERFA de désignation d'un mandataire de perception des fonds |
 
 Signature du mandataire et du mandant |
 
-Demande de prime, avance, solde |
+Demande de prime |
 
-Avis d'imposition ou le cas échéant, un justificatif de propriété ou une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit d'usage et d'habitation sur l'immeuble subventionné et indiquant le titulaire de ce droit |
+Avis d'imposition pour tout demandeur
+
+Un justificatif de propriété pour tout propriétaire bailleur, et, le cas échéant, pour les propriétaires occupants
+
+Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou une attestation notariée de même nature) instituant le droit d'usage et d'habitation sur l'immeuble subventionné et indiquant le titulaire de ce droit |
 
 |
 
 NOTA :
 
-Conformément à l'article 12 de l'arrêté du 25 janvier 2021 (LOGL2100768A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.
+Conformément à l'article 8 de l'arrêté du 8 juillet 2021 (NOR : LOGL2119191A), ces dispositions s'appliquent aux demandes de primes déposées à compter du 1er juillet 2021.
