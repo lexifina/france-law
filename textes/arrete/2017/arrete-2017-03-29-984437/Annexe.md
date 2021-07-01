@@ -6,7 +6,7 @@ I.-Emplois d'inspecteur général des services actifs de la police nationale
 
 Conseiller stratégie et prospective de la police nationale.
 
-Conseiller stratégie et prospective de la police nationale.
+Directeur de cabinet du directeur général de la police nationale.
 
 Conseiller stratégie et prospective de la police nationale.
 
@@ -114,7 +114,7 @@ Chef d'état-major au cabinet du directeur général de la police nationale.
 
 Conseiller pour la communication-chef du service d'information et de communication de la police (SICOP).
 
-Directeur de cabinet du directeur général de la police nationale.
+Conseiller, chef du pôle des technologies de sécurité intérieure.
 
 Conseiller prospective et stratégie.
 
@@ -232,7 +232,7 @@ Chef d'état-major.
 
 9. Direction centrale des compagnies républicaines de sécurité :
 
-Sous-directeur des opérations.
+Chef d'état-major.
 
 Directeur zonal des compagnies républicaines de sécurité Sud à Marseille.
 
@@ -308,4 +308,4 @@ Secrétaire général adjoint pour l'administration du ministère de l'intérieu
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 14 janvier 2021, ces dispositions entrent en vigueur à compter du 15 janvier 2021.
+Conformément à l'article 5 de l'arrêté du 4 juin 2021 (NOR : INTC2114826A), ces dispositions entrent en vigueur à compter du 1er juillet 2021.
