@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d’exécution du délégataire pour la gestion et l'exploitation des crèches « Arche de Noé » et « L’Oiseau Bleu ». Exercice 2020
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-07-01
+- Matière : PETITE ENFANCE
+- Objet : Présentation du rapport annuel d’exécution du délégataire pour la gestion et l'exploitation des crèches « Arche de Noé » et « L’Oiseau Bleu ». Exercice 2020
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MjAsInB1ciI6ImJsb2JfaWQifX0=--f260bf734afe94d27b9b6e377d3d1190d81cb9a1/010721_29.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
