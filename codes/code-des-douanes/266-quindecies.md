@@ -6,7 +6,7 @@ Pour l'application du présent article :
 
 1° Les essences s'entendent du carburant identifié à l'indice 11 du tableau du 1° du 1 de l'article 265 et des carburants autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, au sens du premier alinéa du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019 ;
 
-2° Les gazoles s'entendent du gazole non routier et du gazole routier identifiés respectivement aux indices 20 et 22 du même tableau et des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
+2° Les gazoles s'entendent du "gazole identifié par l'indice 22 du même tableau, du gazole non exonéré utilisé comme carburant et relevant du a du 1 de l'article 265 B ainsi que des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
 
 Toutefois, l'éthanol diesel identifié à l'indice 56 dudit tableau est pris en compte comme une essence.
 
@@ -48,7 +48,7 @@ Pourcentage cible des essences |
 
 V.-A.-La proportion d'énergie renouvelable désigne la proportion, évaluée en pouvoir calorifique inférieur, d'énergie produite à partir de sources renouvelables dont le redevable peut justifier qu'elle est contenue dans les carburants inclus dans l'assiette, compte tenu, le cas échéant, des règles de calcul propres à certaines matières premières prévues aux C et D du présent V et des dispositions du VII.
 
-L'énergie contenue dans les biocarburants est renouvelable lorsque ces derniers remplissent les critères de durabilité définis à l'article 17 de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives 2001/77/ CE et 2003/30/ CE dans sa rédaction en vigueur au 24 septembre 2018.
+L'énergie contenue dans les biocarburants est renouvelable lorsque ces derniers remplissent les critères de durabilité et de réduction des émissions de gaz à effet de serre mentionnés aux 1 à 11 de l'article 29 de la directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables, dans sa rédaction en vigueur au 1er janvier 2021, vérifiant les conditions prévues à l'article 30 de la même directive.
 
 A bis.-Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur production.
 
@@ -108,7 +108,7 @@ Pourcentage |
 
 0 % |
 
-;
+Pour l'année 2021, la quantité d'énergie issue de soja n'est pas prise en compte lorsqu'elle excède le seuil de 0 % pour les essences et de 0,70 % pour les gazoles.
 
 2. Les matières premières auxquelles s'applique le seuil défini au 1 relèvent de la catégorie 1 du tableau du C du présent V et répondent aux conditions cumulatives suivantes, évaluées à l'échelle mondiale :
 
@@ -158,11 +158,9 @@ Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières pr
 
 0,9 % |
 
-Pour l'année 2021, la quantité d'énergie issue de soja n'est pas prise en compte lorsqu'elle excède le seuil de 0 % pour les essences et de 0,70 % pour les gazoles.
+;
 
 Pour les matières premières relevant de plusieurs des catégories mentionnées dans le tableau ci-dessus, lorsque la part de l'énergie qui en est issue est comptabilisée pour l'application du seuil de l'une de ces catégories, elle ne l'est pas pour l'application des seuils des autres catégories. Toutefois, pour les égouts pauvres relevant de la catégorie 2, lorsqu'elle est comptabilisée pour l'application du seuil de cette catégorie, elle l'est également, à hauteur de 55 % de sa valeur réelle, pour l'application du seuil prévu pour la catégorie 1.
-
-.
 
 D.-Pour chacune des catégories de matières premières suivantes, la part d'énergie issue de l'ensemble des matières premières de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C.
 
@@ -216,4 +214,4 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 NOTA :
 
-Conformément aux dispositions prévues par l'article 58 II. B et C de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 5° du I et du 7° du I entrent en vigueur le 1er janvier 2021 et s'appliquent aux produits pour lesquels la taxe mentionnée à l'article 265 du code des douanes devient exigible à compter de cette même date.
+Conformément aux dispositions prévues par l'article 58 II. C de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 5° du I du présent article entrent en vigueur le 1er juillet 2021 et s'appliquent aux produits pour lesquels les critères de durabilité et de réduction des émissions de gaz à effet de serre sont vérifiés à compter de cette même date.
