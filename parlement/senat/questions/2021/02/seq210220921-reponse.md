@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220921
+
+- Question : [SEQ210220921](seq210220921.md) — Remboursement des prêts garantis par l'État
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-07-01, page 4088*
+
+Avec les prêts garantis par l'État (PGE), les entreprises bénéficieront concrètement des conditions très avantageuses qui sont parmi les plus avantageuses d'Europe : un taux particulièrement bas, qui inclut la prime de garantie due à l'État elle-même fixée au plancher de ce que la Commission européenne autorise ; jusqu'à deux années de franchise de remboursement ; et aucune garantie ou sureté prise par la banque sur l'entreprise ou son dirigeant. Du fait de ce dernier aspect, la fraction du prêt qui n'est pas garantie, soit 10 % du prêt dans le cas de PGE obtenus par des très petite entreprise (TPE), est un risque que les banques portent « en blanc », chose que les banques n'ont pas l'habitude de proposer à des TPE et encore moins à des TPE qui ne seraient pas parmi les plus solides financièrement. Dans le cas du PGE, elles sont obligées de l'appliquer à toutes les situations. Au surplus, non seulement ces prêts sont plus avantageux que les prêts classiques moyen-long terme auxquelles les entreprises pouvaient prétendre avant la crise actuelle, mais ils ont surtout permis de maintenir un accès au crédit qui sans cela n'aurait plus été acquis, a fortiori dans d'aussi bonnes conditions, et en particulier pour les entreprises plus fragiles. Au demeurant, il n'est pas possible de comparer les taux auxquels se financent les TPE, d'une part, et les collectivités locales ou l'État, d'autre part. Enfin, les banques se sont engagées à distribuer le PGE à prix « coûtant » et ont accepté, à la demande de l'État, d'encadrer le taux d'intérêt total, garantie de l'État comprise, à 2,5 % maximum pour les TPE et PME.
