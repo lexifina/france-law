@@ -2,14 +2,6 @@
 
 MODÈLES DE PRÉSENTATION DU DIAGNOSTIC DE PERFORMANCE ÉNERGÉTIQUE
 
-Modèle 6.1
-
-Pour les bâtiments à usage principal d'habitation pour lesquels les quantités d'énergie sont évaluées sur la base de consommations estimées (consommation conventionnelle).
-
-Modèle 6.2
-
-Pour les bâtiments à usage principal d'habitation pour lesquels les quantités d'énergie sont évaluées sur la base de consommations réelles (consommations estimées au moyen de factures d'énergie, de décomptes de charges ou de relevés de comptages).
-
 Modèles 6.3
 
 Pour les bâtiments à usage principal autre que d'habitation, à l'exception des centres commerciaux, déclinés en trois sous-groupes a, b, ou c :
@@ -35,3 +27,7 @@ Lorsque les consommations en énergie finale sont indisponibles par usage, la pr
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 64 du 15 mars 2012, texte n° 6, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=oazEZJQ9DOzj415jgF9Hth9K_gvnOMgthOva_2h02AY
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 31 mars 2021 (NOR : LOGL2107220A), ces dispositions entrent en vigueur le 1er juillet 2021.

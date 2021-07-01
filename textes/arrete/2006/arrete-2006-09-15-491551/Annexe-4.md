@@ -16,133 +16,65 @@ au moyen d'une méthode de calcul
 
 En kilogramme de CO2 par kilowattheure PCI d'énergie finale :
 
-|
+Bois-Bûches |
 
-CHAUFFAGE |
+0,03 |
 
-PRODUCTION D'EAU chaude sanitaire |
+Bois-Granulés (pellets) ou briquettes |
 
-REFROIDISSEMENT |
+0,03 |
 
-Bois, biomasse
+Bois-Plaquettes forestières |
 
-|
+0,024 |
 
-0,013
+Bois-Plaquettes d'industrie |
 
-|
+0,024 |
 
-0,013
+Gaz naturel |
 
-|
+0,227 |
 
-|
+Fioul domestique |
 
-Gaz naturel
+0,324 |
 
-|
+Charbon |
 
-0,234
+0,385 |
 
-|
+Gaz propane ou butane |
 
-0,234
+0,272 |
 
-|
+Autres combustibles fossiles |
 
-0,234
+0,324 |
 
-|
+Électricité d'origine renouvelable produite sur site et autoconsommée |
 
-Fioul domestique
+0 |
 
-|
+Électricité (hors électricité d'origine renouvelable produite sur site et autoconsommée)-Chauffage |
 
-0,300
+0,079 |
 
-|
+Électricité (hors électricité d'origine renouvelable produite sur site et autoconsommée)-Production d'eau chaude sanitaire |
 
-0,300
+0,065 |
 
-|
+Électricité (hors électricité d'origine renouvelable produite sur site et autoconsommée)-Refroidissement |
 
-0,300
+0,064 |
 
-|
+Électricité (hors électricité d'origine renouvelable produite sur site et autoconsommée)-Éclairage |
 
-Charbon
+0,069 |
 
-|
+Électricité (hors électricité d'origine renouvelable produite sur site et autoconsommée)-Auxiliaires |
 
-0,384
-
-|
-
-0,384 |
-
-|
-
-Gaz propane ou butane
-
-|
-
-0,274
-
-|
-
-0,274
-
-|
-
-0,274
-
-|
-
-Autres combustibles fossiles
-
-|
-
-0,320
-
-|
-
-0,320
-
-|
-
-|
-
-Electricité d'origine renouvelable utilisée dans le bâtiment
-
-|
-
-0
-
-|
-
-0
-
-|
-
-0
-
-|
-
-Electricité (hors électricité d'origine renouvelable utilisée dans le bâtiment)
-
-|
-
-0,180
-
-|
-
-0,040
-
-|
-
-0,040
-
-|
+0,064 |
 
 Pour les réseaux de chaleur ou de froid, pour lesquels la dispersion du contenu CO2 est importante, la valeur à retenir est précisée à l'annexe 7.
 
@@ -156,73 +88,49 @@ où les consommations sont relevées par factures ou mesures
 
 Les facteurs de conversion sont exprimés en kilogramme de CO2 par kilowattheure PCI d'énergie finale.
 
-|
+Électricité (hors autoconsommation) tous usages confondus |
 
-TOUS USAGES |
+0,064 |
 
-Bois, biomasse
+Gaz méthane (naturel) issu des réseaux |
 
-|
+0,227 |
 
-0,013
+Gaz butane |
 
-|
+0,272 |
 
-Gaz naturel
+Gaz propane |
 
-|
+0,272 |
 
-0,234
+Fioul domestique |
 
-|
+0,324 |
 
-Fioul domestique
+Charbon (anthracite) |
 
-|
+0,385 |
 
-0,300
+Bois, biomasse-Plaquettes d'industrie (10-15 % humidité) |
 
-|
+0,024 |
 
-Charbon
+Bois, biomasse-Plaquettes forestières (25 % humidité) |
 
-|
+0,024 |
 
-0,384
+Bois, biomasse-Granulés (pellets) ou briquettes (8 % humidité) |
 
-|
+0,03 |
 
-Gaz propane ou butane
+Bois, biomasse-Buche (20 % humidité) |
 
-|
+0,03 |
 
-0,274
+Autres combustibles fossiles |
 
-|
-
-Autres combustibles fossiles
-
-|
-
-0,320
-
-|
-
-Electricité d'origine renouvelable utilisée dans le bâtiment
-
-|
-
-0
-
-|
-
-Electricité (hors électricité d'origine renouvelable utilisée dans le bâtiment)
-
-|
-
-0,084
-
-|
+0,324 |
 
 Pour les réseaux de chaleur ou de froid, pour lesquels la dispersion du contenu CO2 est importante, la valeur à retenir est précisée à l'annexe 7.
 
@@ -258,24 +166,6 @@ Tout le texte doit être rédigé en caractères noirs, à l'exception du curseu
 
 Une reproduction lisible en noir et blanc de l'étiquette peut être produite, ainsi que de l'ensemble du diagnostic.
 
-2.1.a. Cas des bâtiments à usage principal d'habitation
-
-Pour les bâtiments à usage principal autre que d'habitation à l'exception des centres commerciaux, l'étiquette "climat" doit être conforme au modèle suivant :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
-
-L'étiquette climat mentionne les limites de classes comme définies au paragraphe 2.2.a.
-
-2.1.b. Cas des bâtiments à usage principal autre
-
-que d'habitation, à l'exception des centres commerciaux
-
-Pour les bâtiments à usage principal autre que d'habitation, l'étiquette "climat" doit être conforme au modèle suivant :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
-
-L'étiquette climat mentionne les limites de classes comme définies au paragraphe 2.2.b.
-
 2.2. Limites des classes de l'étiquette climat
 
 2.2.a. Pour les bâtiments à usage principal d'habitation
@@ -290,57 +180,43 @@ A
 
 |
 
-inférieur ou égal à 5
-
-|
+inférieur ou égal à 5 |
 
 B
 
 |
 
-6 à 10
-
-|
+6 à 10 |
 
 C
 
 |
 
-11 à 20
-
-|
+11 à 20 |
 
 D
 
 |
 
-21 à 35
-
-|
+21 à 35 |
 
 E
 
 |
 
-36 à 55
-
-|
+36 à 55 |
 
 F
 
 |
 
-56 à 80
-
-|
+56 à 80 |
 
 G
 
 |
 
-Strictement supérieur à 80
-
-|
+Strictement supérieur à 80 |
 
 2.2.b. Pour les bâtiments à usage principal autre
 
@@ -358,57 +234,43 @@ A
 
 |
 
-Inférieur ou égal à 5
-
-|
+Inférieur ou égal à 5 |
 
 B
 
 |
 
-De 6 à 15
-
-|
+De 6 à 15 |
 
 C
 
 |
 
-De 16 à 30
-
-|
+De 16 à 30 |
 
 D
 
 |
 
-De 31 à 60
-
-|
+De 31 à 60 |
 
 E
 
 |
 
-De 61 à 100
-
-|
+De 61 à 100 |
 
 F
 
 |
 
-De 101 à 145
-
-|
+De 101 à 145 |
 
 G
 
 |
 
-Strictement supérieur à 145
-
-|
+Strictement supérieur à 145 |
 
 ii) Bâtiments à occupation continue (par exemple : hôpitaux, hôtels, internats, maisons de retraite, etc.).
 
@@ -422,57 +284,43 @@ A
 
 |
 
-Inférieur ou égal à 12
-
-|
+Inférieur ou égal à 12 |
 
 B
 
 |
 
-De 13 à 30
-
-|
+De 13 à 30 |
 
 C
 
 |
 
-De 31 à 65
-
-|
+De 31 à 65 |
 
 D
 
 |
 
-De 66 à 110
-
-|
+De 66 à 110 |
 
 E
 
 |
 
-De 111 à 160
-
-|
+De 111 à 160 |
 
 F
 
 |
 
-De 161 à 220
-
-|
+De 161 à 220 |
 
 G
 
 |
 
-Strictement supérieur à 220
-
-|
+Strictement supérieur à 220 |
 
 iii) Autres bâtiments non mentionnés dans les deux précédents cas (par exemple : théâtres, salles de sport, restauration, commerces individuels, etc.).
 
@@ -486,54 +334,44 @@ A
 
 |
 
-Inférieur ou égal à 3
-
-|
+Inférieur ou égal à 3 |
 
 B
 
 |
 
-De 4 à 10
-
-|
+De 4 à 10 |
 
 C
 
 |
 
-De 11 à 25
-
-|
+De 11 à 25 |
 
 D
 
 |
 
-De 26 à 45
-
-|
+De 26 à 45 |
 
 E
 
 |
 
-De 46 à 70
-
-|
+De 46 à 70 |
 
 F
 
 |
 
-De 71 à 95
-
-|
+De 71 à 95 |
 
 G
 
 |
 
-Strictement supérieur à 95
+Strictement supérieur à 95 |
 
-|
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 31 mars 2021 (NOR : LOGL2107220A), ces dispositions entrent en vigueur le 1er juillet 2021.

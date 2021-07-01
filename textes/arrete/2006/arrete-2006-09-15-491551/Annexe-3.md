@@ -12,37 +12,21 @@ Les compteurs d'énergie affichent une quantité d'énergie finale PCS. Le diagn
 
 Bois de chauffage
 
-Plaquettes d'industrie
+Plaquettes d'industrie |
 
-|
+2 200 kWh PCI par tonne |
 
-2 200 kWh PCI par tonne
+Plaquettes forestières |
 
-|
+2 700 kWh PCI par tonne |
 
-Plaquettes forestières
+Granulés, briquettes |
 
-|
+4 600 kWh PCI par tonne |
 
-2 760 kWh PCI par tonne
+Bûches |
 
-|
-
-Granulés, briquettes
-
-|
-
-4 600 kWh PCI par tonne
-
-|
-
-Bûches
-
-|
-
-1 680 kWh PCI par stère
-
-|
+1 680 kWh PCI par stère |
 
 Gaz naturel
 
@@ -70,9 +54,9 @@ Gaz propane ou butane :
 
 |
 
-13 800
+12 600
 
-12 780
+12 570
 
 |
 
@@ -94,9 +78,7 @@ Pétrole brut, gazole, fioul domestique
 
 |
 
-9,97
-
-|
+9,97 |
 
 Charbon
 
@@ -140,7 +122,7 @@ Lignite et produits de récupération
 
 Les facteurs de conversion de l'énergie finale (exprimée en PCI) en énergie primaire sont les suivants :
 
-- + 2,58 pour l'électricité ;
+- + 2,3 pour l'électricité ;
 
 - + 1 pour les autres énergies.
 
@@ -172,14 +154,6 @@ Tout le texte doit être rédigé en caractères noirs, à l'exception du curseu
 
 Une reproduction lisible en noir et blanc de l'étiquette peut être produite, ainsi que de l'ensemble du diagnostic.
 
-3.1.a. Cas des bâtiments à usage principal d'habitation
-
-Pour les bâtiments à usage principal d'habitation, l'étiquette "énergie" doit être conforme au modèle suivant :
-
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20120315&numTexte=6&pageDebut=04710&pageFin=04762
-
-L'étiquette énergie mentionne les limites de classes comme définies au paragraphe 3.2. a.
-
 3.1.b. Cas des bâtiments à usage principal autre
 
 que d'habitation, à l'exception des centres commerciaux
@@ -204,57 +178,43 @@ A
 
 |
 
-inférieur ou égal à 50
-
-|
+inférieur ou égal à 50 |
 
 B
 
 |
 
-de 51 à 90
-
-|
+de 51 à 90 |
 
 C
 
 |
 
-de 91 à 150
-
-|
+de 91 à 150 |
 
 D
 
 |
 
-de 151 à 230
-
-|
+de 151 à 230 |
 
 E
 
 |
 
-de 231 à 330
-
-|
+de 231 à 330 |
 
 F
 
 |
 
-de 331 à 450
-
-|
+de 331 à 450 |
 
 G
 
 |
 
-strictement supérieur à 450
-
-|
+strictement supérieur à 450 |
 
 3.2.b. Bâtiments à usage principal autre que d'habitation,
 
@@ -272,57 +232,43 @@ A
 
 |
 
-Inférieur ou égal à 50
-
-|
+Inférieur ou égal à 50 |
 
 B
 
 |
 
-De 51 à 110
-
-|
+De 51 à 110 |
 
 C
 
 |
 
-De 111 à 210
-
-|
+De 111 à 210 |
 
 D
 
 |
 
-De 211 à 350
-
-|
+De 211 à 350 |
 
 E
 
 |
 
-De 351 à 540
-
-|
+De 351 à 540 |
 
 F
 
 |
 
-De 541 à 750
-
-|
+De 541 à 750 |
 
 G
 
 |
 
-Strictement supérieur à 750
-
-|
+Strictement supérieur à 750 |
 
 ii) Bâtiments à occupation continue (par exemple : hôpitaux, hôtels, internats, maisons de retraite, etc.).
 
@@ -336,57 +282,43 @@ A
 
 |
 
-Inférieur ou égal à 100
-
-|
+Inférieur ou égal à 100 |
 
 B
 
 |
 
-De 101 à 210
-
-|
+De 101 à 210 |
 
 C
 
 |
 
-De 211 à 370
-
-|
+De 211 à 370 |
 
 D
 
 |
 
-De 371 à 580
-
-|
+De 371 à 580 |
 
 E
 
 |
 
-De 581 à 830
-
-|
+De 581 à 830 |
 
 F
 
 |
 
-De 831 à 1 130
-
-|
+De 831 à 1 130 |
 
 G
 
 |
 
-Strictement supérieur à 1 130
-
-|
+Strictement supérieur à 1 130 |
 
 iii) Autres bâtiments non mentionnés dans les deux précédents cas (par exemple : théâtres, salles de sport, restauration, commerces individuels, etc.).
 
@@ -400,54 +332,44 @@ A
 
 |
 
-Inférieur ou égal à 30
-
-|
+Inférieur ou égal à 30 |
 
 B
 
 |
 
-De 31 à 90
-
-|
+De 31 à 90 |
 
 C
 
 |
 
-De 91 à 170
-
-|
+De 91 à 170 |
 
 D
 
 |
 
-De 171 à 270
-
-|
+De 171 à 270 |
 
 E
 
 |
 
-De 271 à 380
-
-|
+De 271 à 380 |
 
 F
 
 |
 
-De 381 à 510
-
-|
+De 381 à 510 |
 
 G
 
 |
 
-Strictement supérieur à 510
+Strictement supérieur à 510 |
 
-|
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 31 mars 2021 (NOR : LOGL2107220A), ces dispositions entrent en vigueur le 1er juillet 2021.
