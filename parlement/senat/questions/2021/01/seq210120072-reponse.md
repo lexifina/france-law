@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120072
+
+- Question : [SEQ210120072](seq210120072.md) — Inéligibilités électorales tenant aux fonctions exercées
+
+## Réponse
+
+*Intérieur, JO du 2021-07-01, page 4098*
+
+L'article L. 273-4 du code électoral prévoit, pour les conseillers communautaires, que : « Leurs conditions d'éligibilité, les inéligibilités et les incompatibilités sont celles prévues pour les conseillers municipaux de la commune qu'ils représentent et pour les conseillers communautaires aux sections 2 et 3 du chapitre Ier du titre IV du présent livre. ». Cette disposition découle logiquement du premier alinéa de l'article L. 273-5 du même code, qui prévoit que « Nul ne peut être conseiller communautaire s'il n'est conseiller municipal ou conseiller d'arrondissement ». Par conséquent, les inéligibilités qui empêchent un candidat de se présenter aux élections municipales l'empêchent ipso facto de se présenter aux élections communautaires. De même, les inéligibilités intervenant en cours de mandat et les incompatibilités qui mettent fin au mandat d'un conseiller municipal ont pour conséquence la fin automatique du mandat de conseiller communautaire. Cette disposition n'implique pas pour autant de transposer les inéligibilités et les incompatibilités prévues pour les candidats au conseil municipal aux candidats au conseil communautaire. Ainsi, au titre du 6° de l'article L. 231 du code électoral, l'inéligibilité d'un candidat au conseil municipal et au conseil communautaire tient uniquement à son éventuelle qualité d'entrepreneur des services municipaux de la commune dans laquelle il se présente. En revanche, aucune disposition du code électoral ni aucune jurisprudence ne définit la notion d'entrepreneur de service communautaire, ni ne prévoit de rendre inéligible une personne qui exercerait de telles fonctions au mandat de conseiller communautaire.
