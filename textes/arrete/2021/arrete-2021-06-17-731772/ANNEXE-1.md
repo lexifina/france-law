@@ -1,6 +1,4 @@
-# Article LEGIARTI000043071891
-
-ANNEXE 1
+# Article ANNEXE 1
 
 NOMBRE DE POSTES COMPTABLES PROJETÉ DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES AU 31 DÉCEMBRE 2021
 
@@ -10,20 +8,20 @@ Nombre de postes |
 
 Groupe 1 (C1) |
 
-778 |
+777 |
 
-Groupe 2 (C +) |
+Groupe 2 (C+) |
 
-43 |
+40 |
 
 Groupe 3 (C2) |
 
-1 288 |
+1281 |
 
 Groupe 4 (C3) |
 
-551 |
+567 |
 
 Groupe 5 (C4) |
 
-82 |
+86 |

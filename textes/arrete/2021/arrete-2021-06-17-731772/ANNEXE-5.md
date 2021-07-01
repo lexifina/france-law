@@ -1,6 +1,4 @@
-# Article LEGIARTI000043071896
-
-ANNEXE 5
+# Article ANNEXE 5
 
 LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 4E CATÉGORIE
 
@@ -22,7 +20,7 @@ Trésorerie spécialisée |
 
 BOURG-EN-BRESSE MUNICIPALE |
 
-01/01/2021 |
+01/07/2021 |
 
 Ain |
 
@@ -32,7 +30,7 @@ SIE |
 
 BOURG-EN-BRESSE |
 
-01/01/2021 |
+01/07/2021 |
 
 Ain |
 
@@ -42,7 +40,7 @@ SIP-SIE |
 
 BELLEGARDE-SUR-VALSERINE |
 
-01/01/2021 |
+01/07/2021 |
 
 Ain |
 
@@ -52,7 +50,7 @@ SPF |
 
 BOURG-EN-BRESSE |
 
-14/10/2021 |
+01/07/2021 |
 
 Aisne |
 
@@ -62,7 +60,7 @@ SIE |
 
 LAON |
 
-01/01/2021 |
+01/07/2021 |
 
 Allier |
 
@@ -72,7 +70,7 @@ Trésorerie spécialisée |
 
 VICHY |
 
-01/01/2021 |
+01/07/2021 |
 
 Alpes-Maritimes |
 
@@ -92,7 +90,7 @@ SIE |
 
 GRASSE |
 
-01/01/2021 |
+01/07/2021 |
 
 Alpes-Maritimes |
 
@@ -102,7 +100,7 @@ SDE |
 
 GRASSE |
 
-01/01/2021 |
+01/07/2021 |
 
 Ardèche |
 
@@ -112,7 +110,7 @@ SIP-SIE |
 
 AUBENAS |
 
-01/01/2021 |
+01/07/2021 |
 
 Ardèche |
 
@@ -132,7 +130,7 @@ SGC |
 
 AUBENAS |
 
-01/01/2021 |
+01/07/2021 |
 
 Aube |
 
@@ -142,7 +140,7 @@ SIP |
 
 TROYES |
 
-01/01/2021 |
+01/07/2021 |
 
 Aube |
 
@@ -162,7 +160,7 @@ SIE |
 
 CARCASSONNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Aveyron |
 
@@ -172,7 +170,7 @@ SIE |
 
 RODEZ |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -180,9 +178,9 @@ Bouches-du-Rhône |
 
 SIP |
 
-MARSEILLE 4E/13E |
+MARSEILLE 4e/13e |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -192,7 +190,7 @@ SIP |
 
 MARSEILLE BORDE 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -200,9 +198,9 @@ Bouches-du-Rhône |
 
 SIE |
 
-MARSEILLE 7E/10E ET 9E |
+MARSEILLE 7e/10e ET 9e |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -212,7 +210,7 @@ SIE |
 
 MARSEILLE SAINT-BARNABE |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -220,9 +218,9 @@ Bouches-du-Rhône |
 
 SIE |
 
-MARSEILLE 1ER/8EME |
+MARSEILLE 1er/8e |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -232,7 +230,7 @@ SIP |
 
 SALON-DE-PROVENCE |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -242,7 +240,7 @@ SIP |
 
 AIX-EN-PROVENCE SUD |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -252,7 +250,7 @@ Trésorerie spécialisée |
 
 MARTIGUES |
 
-01/01/2021 |
+01/07/2021 |
 
 Charente |
 
@@ -262,7 +260,7 @@ SIP |
 
 ANGOULEME |
 
-01/01/2021 |
+01/07/2021 |
 
 Charente |
 
@@ -272,7 +270,7 @@ SIE |
 
 ANGOULEME |
 
-01/01/2021 |
+01/07/2021 |
 
 Charente |
 
@@ -282,7 +280,17 @@ SPF |
 
 ANGOULEME 1 |
 
-01/01/2021 |
+01/07/2021 |
+
+Charente-Maritime |
+
+017012 |
+
+SGC |
+
+SAINT-JEAN-D'ANGELY |
+
+01/09/2021 |
 
 Charente-Maritime |
 
@@ -302,7 +310,7 @@ SIE |
 
 SAINTES |
 
-01/01/2021 |
+01/07/2021 |
 
 Dordogne |
 
@@ -312,17 +320,7 @@ SIE |
 
 PÉRIGUEUX |
 
-01/01/2021 |
-
-Doubs |
-
-025010 |
-
-SPF |
-
-BESANCON 1 |
-
-24/06/2021 |
+01/07/2021 |
 
 Drôme |
 
@@ -332,7 +330,7 @@ Trésorerie spécialisée |
 
 DROME |
 
-01/01/2021 |
+01/07/2021 |
 
 Eure |
 
@@ -342,7 +340,7 @@ SPF |
 
 EVREUX |
 
-15/03/2021 |
+01/07/2021 |
 
 Eure |
 
@@ -352,7 +350,7 @@ SGC |
 
 LES ANDELYS |
 
-01/01/2021 |
+01/07/2021 |
 
 Eure |
 
@@ -362,17 +360,17 @@ SIE |
 
 EVREUX |
 
-01/01/2021 |
+01/07/2021 |
 
 Finistère |
 
-029039 |
+029004 |
 
-SIE |
+SGC |
 
 BREST |
 
-01/01/2021 |
+01/10/2021 |
 
 Finistère |
 
@@ -382,7 +380,7 @@ SPF |
 
 QUIMPER 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Corse-du-Sud |
 
@@ -392,7 +390,7 @@ Trésorerie spécialisée |
 
 CORSE |
 
-01/01/2021 |
+01/07/2021 |
 
 Gard |
 
@@ -402,7 +400,7 @@ Trésorerie spécialisée |
 
 DU GARD |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Garonne |
 
@@ -412,7 +410,7 @@ SIE |
 
 TOULOUSE CITE |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Garonne |
 
@@ -422,7 +420,7 @@ SIE |
 
 BALMA |
 
-01/01/2021 |
+01/07/2021 |
 
 Gers |
 
@@ -432,7 +430,7 @@ SIE |
 
 DU GERS |
 
-01/01/2021 |
+01/07/2021 |
 
 Gers |
 
@@ -442,7 +440,7 @@ SIP |
 
 DU GERS |
 
-01/01/2021 |
+01/07/2021 |
 
 Gironde |
 
@@ -452,7 +450,7 @@ Trésorerie mixte |
 
 AUDENGE |
 
-01/01/2021 |
+01/07/2021 |
 
 Gironde |
 
@@ -462,7 +460,17 @@ SIE |
 
 ARCACHON |
 
-01/01/2021 |
+01/07/2021 |
+
+Gironde |
+
+033032 |
+
+SIE |
+
+BORDEAUX |
+
+01/09/2021 |
 
 Gironde |
 
@@ -472,7 +480,7 @@ Trésorerie spécialisée |
 
 PESSAC |
 
-01/01/2021 |
+01/07/2021 |
 
 Gironde |
 
@@ -482,7 +490,7 @@ SGC |
 
 COUTRAS |
 
-01/01/2021 |
+01/07/2021 |
 
 Gironde |
 
@@ -492,7 +500,7 @@ Trésorerie spécialisée |
 
 NOUVELLE AQUITAINE |
 
-01/01/2021 |
+01/07/2021 |
 
 Gironde |
 
@@ -502,7 +510,7 @@ PRS |
 
 GIRONDE |
 
-01/01/2021 |
+01/07/2021 |
 
 Hérault |
 
@@ -522,7 +530,7 @@ SPF |
 
 BEZIERS 2 |
 
-01/01/2021 |
+01/07/2021 |
 
 Ille-et-Vilaine |
 
@@ -532,7 +540,7 @@ SIE |
 
 SAINT-MALO |
 
-01/01/2021 |
+01/07/2021 |
 
 Ille-et-Vilaine |
 
@@ -542,7 +550,7 @@ SPF |
 
 RENNES 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Indre-et-Loire |
 
@@ -552,7 +560,7 @@ SIE |
 
 TOURS |
 
-01/01/2021 |
+01/07/2021 |
 
 Indre-et-Loire |
 
@@ -572,7 +580,7 @@ SIE |
 
 GRENOBLE BELLEDONNE-VERCORS |
 
-01/01/2021 |
+01/07/2021 |
 
 Isère |
 
@@ -582,7 +590,7 @@ SPF |
 
 VIENNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Isère |
 
@@ -592,7 +600,7 @@ Trésorerie spécialisée |
 
 VIENNE AGGLOMERATION |
 
-01/01/2021 |
+01/07/2021 |
 
 Jura |
 
@@ -602,7 +610,7 @@ SIE |
 
 DU JURA |
 
-01/01/2021 |
+01/07/2021 |
 
 Loir-et-Cher |
 
@@ -612,7 +620,7 @@ SPF |
 
 BLOIS 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire |
 
@@ -622,7 +630,7 @@ SIP |
 
 SAINT-ETIENNE SUD |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire |
 
@@ -632,7 +640,7 @@ SPF |
 
 SAINT-ETIENNE 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire |
 
@@ -642,7 +650,7 @@ SIP |
 
 ROANNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire-Atlantique |
 
@@ -652,7 +660,7 @@ SIE |
 
 NANTES CENTRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire-Atlantique |
 
@@ -662,7 +670,7 @@ SIE |
 
 NANTES SUD |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire-Atlantique |
 
@@ -672,7 +680,7 @@ SIE |
 
 SAINT-NAZAIRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Loire-Atlantique |
 
@@ -683,16 +691,6 @@ SIP |
 NANTES CENTRE |
 
 Courant 2021 |
-
-Loire-Atlantique |
-
-044056 |
-
-SIP |
-
-NANTES EST |
-
-01/01/2021 |
 
 Loire-Atlantique |
 
@@ -712,7 +710,7 @@ SIP |
 
 ORLEANS EST |
 
-01/01/2021 |
+01/07/2021 |
 
 Loiret |
 
@@ -722,7 +720,7 @@ SIE |
 
 LOIRET OUEST |
 
-01/01/2021 |
+01/07/2021 |
 
 Maine-et-Loire |
 
@@ -732,7 +730,17 @@ SIP |
 
 ANGERS OUEST |
 
-01/01/2021 |
+01/07/2021 |
+
+Maine-et-Loire |
+
+049004 |
+
+Trésorerie spécialisée |
+
+ANGERS CHU |
+
+01/08/2021 |
 
 Maine-et-Loire |
 
@@ -742,7 +750,7 @@ SIE |
 
 CHOLET |
 
-01/01/2021 |
+01/07/2021 |
 
 Marne |
 
@@ -752,7 +760,7 @@ SIP |
 
 CHALONS-EN-CHAMPAGNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Morbihan |
 
@@ -762,7 +770,7 @@ SIP |
 
 VANNES |
 
-01/01/2021 |
+01/07/2021 |
 
 Morbihan |
 
@@ -772,7 +780,7 @@ SIE |
 
 LORIENT |
 
-01/01/2021 |
+01/07/2021 |
 
 Moselle |
 
@@ -782,7 +790,7 @@ SGC |
 
 D'HAYANGE |
 
-01/01/2021 |
+01/07/2021 |
 
 Moselle |
 
@@ -792,7 +800,7 @@ SIE |
 
 METZ |
 
-01/01/2021 |
+01/07/2021 |
 
 Moselle |
 
@@ -802,7 +810,7 @@ Trésorerie spécialisée |
 
 SARREBOURG |
 
-01/01/2021 |
+01/07/2021 |
 
 Moselle |
 
@@ -812,7 +820,7 @@ SGC |
 
 SARREGUEMINES |
 
-01/01/2021 |
+01/07/2021 |
 
 Moselle |
 
@@ -822,7 +830,7 @@ SIP-SIE |
 
 SAINT-AVOLD |
 
-01/01/2021 |
+01/07/2021 |
 
 Nièvre |
 
@@ -832,7 +840,7 @@ SIP |
 
 NEVERS |
 
-01/01/2021 |
+01/07/2021 |
 
 Nièvre |
 
@@ -842,11 +850,11 @@ SGC |
 
 NEVERS |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
-059000-P |
+059000 |
 
 SIE |
 
@@ -862,7 +870,7 @@ Trésorerie mixte |
 
 VILLENEUVE-D'ASCQ |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -872,7 +880,7 @@ SIE |
 
 DUNKERQUE |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -882,7 +890,7 @@ SGC |
 
 TOURCOING |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -892,7 +900,7 @@ SIP |
 
 ROUBAIX |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -902,7 +910,7 @@ SIE |
 
 LILLE-SECLIN |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -912,7 +920,7 @@ SIE |
 
 LILLE OUEST |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -922,7 +930,7 @@ SPF |
 
 VALENCIENNES |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -932,7 +940,7 @@ SDE |
 
 LILLE |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -942,7 +950,7 @@ SIP |
 
 DOUAI |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -962,17 +970,7 @@ SIP |
 
 VALENCIENNES |
 
-01/01/2021 |
-
-Oise |
-
-060000-P |
-
-SIE |
-
-POLE NATIONAL DE GESTION DE LA TVA DU COMMERCE EN LIGNE |
-
-01/04/2021 |
+01/07/2021 |
 
 Oise |
 
@@ -982,7 +980,17 @@ SPF |
 
 BEAUVAIS |
 
-01/01/2021 |
+01/07/2021 |
+
+Oise |
+
+060016-0 |
+
+SIE |
+
+PÔLE NATIONAL DE GESTION DE LA TVA DU COMMERCE EN LIGNE |
+
+01/07/2021 |
 
 Oise |
 
@@ -992,7 +1000,7 @@ SIE |
 
 BEAUVAIS |
 
-01/01/2021 |
+01/07/2021 |
 
 Orne |
 
@@ -1002,7 +1010,7 @@ SGC |
 
 MORTAGNE-AU-PERCHE |
 
-01/01/2021 |
+01/07/2021 |
 
 Pas-de-Calais |
 
@@ -1012,7 +1020,7 @@ SPF |
 
 ARRAS 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Pas-de-Calais |
 
@@ -1022,7 +1030,7 @@ SIP |
 
 BOULOGNE-SUR-MER |
 
-01/01/2021 |
+01/07/2021 |
 
 Puy-de-Dôme |
 
@@ -1032,7 +1040,7 @@ SIE |
 
 CLERMONT-FERRAND SUD |
 
-01/01/2021 |
+01/07/2021 |
 
 Pyrénées-Atlantiques |
 
@@ -1042,7 +1050,7 @@ SIE |
 
 BAYONNE-ANGLET |
 
-01/01/2021 |
+01/07/2021 |
 
 Pyrénées-Atlantiques |
 
@@ -1052,7 +1060,7 @@ SPF |
 
 PAU 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Hautes-Pyrénées |
 
@@ -1062,7 +1070,7 @@ SIE |
 
 DES HAUTES-PYRENEES |
 
-01/01/2021 |
+01/07/2021 |
 
 Pyrénées-Orientales |
 
@@ -1072,7 +1080,7 @@ SIE |
 
 PERPIGNAN |
 
-01/01/2021 |
+01/07/2021 |
 
 Bas-Rhin |
 
@@ -1082,7 +1090,7 @@ PRS |
 
 BAS-RHIN |
 
-01/01/2021 |
+01/07/2021 |
 
 Bas-Rhin |
 
@@ -1092,7 +1100,7 @@ SIP |
 
 SCHILTIGHEIM |
 
-01/01/2021 |
+01/07/2021 |
 
 Bas-Rhin |
 
@@ -1102,7 +1110,17 @@ SIE |
 
 HAGUENAU |
 
-01/01/2021 |
+01/07/2021 |
+
+Bas-Rhin |
+
+067071 |
+
+SGC |
+
+SELESTAT |
+
+01/07/2021 |
 
 Bas-Rhin |
 
@@ -1112,7 +1130,7 @@ SGC |
 
 SAVERNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Haut-Rhin |
 
@@ -1122,7 +1140,7 @@ SIP |
 
 COLMAR |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -1132,7 +1150,7 @@ Trésorerie spécialisée |
 
 LYON AMENDES |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -1142,7 +1160,7 @@ SIE |
 
 VILLEURBANNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -1152,7 +1170,7 @@ SIE |
 
 VILLEFRANCHE-SUR-SAONE |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -1162,7 +1180,7 @@ SIE |
 
 GIVORS |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -1172,7 +1190,7 @@ SPF |
 
 LYON 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Saône-et-Loire |
 
@@ -1182,7 +1200,7 @@ Trésorerie spécialisée |
 
 MACON MUNICIPALE |
 
-01/01/2021 |
+01/07/2021 |
 
 Saône-et-Loire |
 
@@ -1192,7 +1210,7 @@ Trésorerie spécialisée |
 
 CHALON-SUR-SAONE MUNICIPALE |
 
-01/01/2021 |
+01/07/2021 |
 
 Sarthe |
 
@@ -1202,7 +1220,7 @@ SPF |
 
 LE MANS 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Savoie |
 
@@ -1212,7 +1230,7 @@ SIP-SIE |
 
 ALBERTVILLE |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Savoie |
 
@@ -1222,7 +1240,7 @@ Trésorerie mixte |
 
 CLUSES |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Savoie |
 
@@ -1232,7 +1250,7 @@ SGC |
 
 THONON-LES-BAINS |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Savoie |
 
@@ -1242,7 +1260,7 @@ SIE |
 
 THONON-LES-BAINS |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Savoie |
 
@@ -1252,7 +1270,7 @@ SIP |
 
 ANNEMASSE |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -1260,7 +1278,7 @@ Paris |
 
 SIP |
 
-PARIS 19E BUTTES CHAUMONT |
+PARIS 19e BUTTES CHAUMONT |
 
 Courant 2021 |
 
@@ -1270,9 +1288,9 @@ Paris |
 
 SIP |
 
-PARIS 20E PERE LACHAISE |
+PARIS 20e PERE LACHAISE |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -1280,9 +1298,9 @@ Paris |
 
 SIE |
 
-PARIS 4E |
+PARIS 4e |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -1290,9 +1308,9 @@ Paris |
 
 SIE |
 
-PARIS 12E |
+PARIS 12e |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -1300,9 +1318,9 @@ Paris |
 
 SIE |
 
-PARIS 13E |
+PARIS 13e |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Maritime |
 
@@ -1322,7 +1340,7 @@ SIE |
 
 ROUEN |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Maritime |
 
@@ -1332,7 +1350,7 @@ Trésorerie spécialisée |
 
 ELBEUF |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Maritime |
 
@@ -1342,7 +1360,7 @@ SIP |
 
 ROUEN OUEST |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Maritime |
 
@@ -1352,7 +1370,7 @@ Trésorerie spécialisée |
 
 LE HAVRE CENTRE HOSPITALIER |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-et-Marne |
 
@@ -1362,7 +1380,7 @@ SIP |
 
 SENART |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-et-Marne |
 
@@ -1372,7 +1390,7 @@ Trésorerie spécialisée |
 
 FONTAINEBLEAU-AVON |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-et-Marne |
 
@@ -1382,7 +1400,7 @@ SIP |
 
 LAGNY-SUR-MARNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Yvelines |
 
@@ -1392,7 +1410,7 @@ SIE |
 
 MANTES-LA-JOLIE |
 
-01/01/2021 |
+01/07/2021 |
 
 Yvelines |
 
@@ -1402,7 +1420,7 @@ SIE |
 
 SAINT-GERMAIN-EN-LAYE EXTERIEUR |
 
-01/01/2021 |
+01/07/2021 |
 
 Yvelines |
 
@@ -1412,7 +1430,7 @@ SPF |
 
 VERSAILLES 2 |
 
-03/05/2021 |
+01/07/2021 |
 
 Yvelines |
 
@@ -1422,7 +1440,7 @@ SIP |
 
 SAINT-GERMAIN-EN-LAYE EST |
 
-01/01/2021 |
+01/07/2021 |
 
 Yvelines |
 
@@ -1433,16 +1451,6 @@ SDE |
 VERSAILLES |
 
 Courant 2021 |
-
-Yvelines |
-
-078122 |
-
-Trésorerie spécialisée |
-
-MANTES POISSY ST-GERMAIN ETS H. |
-
-01/09/2021 |
 
 Deux-Sèvres |
 
@@ -1462,7 +1470,7 @@ SIE |
 
 SUD DEUX-SEVRES |
 
-01/01/2021 |
+01/07/2021 |
 
 Somme |
 
@@ -1472,7 +1480,7 @@ SIP |
 
 AMIENS NORD-EST |
 
-01/01/2021 |
+01/07/2021 |
 
 Somme |
 
@@ -1482,7 +1490,7 @@ SIE |
 
 DE LA SOMME |
 
-01/01/2021 |
+01/07/2021 |
 
 Somme |
 
@@ -1492,7 +1500,7 @@ SPF |
 
 AMIENS 1 |
 
-01/12/2021 |
+01/07/2021 |
 
 Tarn |
 
@@ -1502,7 +1510,7 @@ SIE |
 
 CASTRES |
 
-01/01/2021 |
+01/07/2021 |
 
 Tarn-et-Garonne |
 
@@ -1512,7 +1520,7 @@ SIP |
 
 MONTAUBAN |
 
-01/01/2021 |
+01/07/2021 |
 
 Tarn-et-Garonne |
 
@@ -1522,7 +1530,7 @@ SIE |
 
 DE TARN-ET-GARONNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Var |
 
@@ -1532,7 +1540,7 @@ SIP |
 
 HYERES |
 
-01/01/2021 |
+01/07/2021 |
 
 Var |
 
@@ -1542,7 +1550,7 @@ PRS |
 
 VAR |
 
-01/01/2021 |
+01/07/2021 |
 
 Var |
 
@@ -1552,7 +1560,17 @@ SIP |
 
 TOULON |
 
-01/01/2021 |
+01/07/2021 |
+
+Var |
+
+083037 |
+
+SIE |
+
+TOULON |
+
+Courant 2021 |
 
 Var |
 
@@ -1562,7 +1580,7 @@ Trésorerie spécialisée |
 
 DRAGUIGNAN MUNICIPALE |
 
-01/01/2021 |
+01/07/2021 |
 
 Var |
 
@@ -1572,7 +1590,17 @@ SIP |
 
 FREJUS |
 
-01/01/2021 |
+01/07/2021 |
+
+Vaucluse |
+
+084011 |
+
+SPF |
+
+AVIGNON 1 |
+
+01/10/2021 |
 
 Vaucluse |
 
@@ -1602,7 +1630,7 @@ SIE |
 
 CAVAILLON |
 
-01/01/2021 |
+01/07/2021 |
 
 Vendée |
 
@@ -1612,7 +1640,7 @@ SIP |
 
 LA ROCHE-SUR-YON |
 
-01/01/2021 |
+01/07/2021 |
 
 Vendée |
 
@@ -1622,7 +1650,7 @@ SPF |
 
 LES SABLES-D'OLONNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Vendée |
 
@@ -1632,17 +1660,7 @@ Trésorerie spécialisée |
 
 LA ROCHE-SUR-YON HOPITAUX |
 
-01/01/2021 |
-
-Vendée |
-
-085030 |
-
-SGC |
-
-CHALLANS |
-
-01/09/2021 |
+01/07/2021 |
 
 Vendée |
 
@@ -1652,7 +1670,7 @@ SIP-SIE |
 
 FONTENAY-LE-COMTE |
 
-01/01/2021 |
+01/07/2021 |
 
 Vendée |
 
@@ -1662,7 +1680,7 @@ SIP |
 
 CHALLANS |
 
-01/01/2021 |
+01/07/2021 |
 
 Vendée |
 
@@ -1672,7 +1690,7 @@ SIP-SIE |
 
 LES HERBIERS |
 
-01/01/2021 |
+01/07/2021 |
 
 Vienne |
 
@@ -1680,9 +1698,9 @@ Vienne |
 
 SGC |
 
-CHATELLERAULT |
+NORD VIENNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Vienne |
 
@@ -1692,7 +1710,7 @@ SIE |
 
 POITIERS |
 
-01/01/2021 |
+01/07/2021 |
 
 Vienne |
 
@@ -1702,7 +1720,7 @@ SPF |
 
 POITIERS 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Vienne |
 
@@ -1712,7 +1730,7 @@ SPF |
 
 LIMOGES 1 |
 
-01/01/2021 |
+01/07/2021 |
 
 Yonne |
 
@@ -1722,7 +1740,7 @@ SPF |
 
 AUXERRE 1 |
 
-11/10/2021 |
+01/07/2021 |
 
 Territoire-de-Belfort |
 
@@ -1732,7 +1750,7 @@ SIP |
 
 BELFORT |
 
-01/01/2021 |
+01/07/2021 |
 
 Essonne |
 
@@ -1742,7 +1760,7 @@ Trésorerie spécialisée |
 
 ETAMPES COLLECTIVITES |
 
-01/01/2021 |
+01/07/2021 |
 
 Essonne |
 
@@ -1752,7 +1770,7 @@ SIE |
 
 ETAMPES |
 
-01/01/2021 |
+01/07/2021 |
 
 Essonne |
 
@@ -1762,7 +1780,7 @@ SIE |
 
 JUVISY |
 
-01/01/2021 |
+01/07/2021 |
 
 Essonne |
 
@@ -1772,7 +1790,7 @@ SIE |
 
 PALAISEAU |
 
-01/01/2021 |
+01/07/2021 |
 
 Essonne |
 
@@ -1782,7 +1800,7 @@ SPF |
 
 CORBEIL 1 |
 
-02/11/2021 |
+01/07/2021 |
 
 Essonne |
 
@@ -1802,7 +1820,7 @@ SIP |
 
 ASNIERES |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -1822,7 +1840,17 @@ SIP |
 
 SURESNES |
 
-01/01/2021 |
+01/07/2021 |
+
+Hauts-de-Seine |
+
+092042 |
+
+Trésorerie spécialisée |
+
+HAUTS-DE-SEINE AMENDES |
+
+01/11/2021 |
 
 Hauts-de-Seine |
 
@@ -1832,7 +1860,7 @@ SIP |
 
 ISSY-LES-MOULINEAUX |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -1842,7 +1870,7 @@ SIE |
 
 COURBEVOIE |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -1852,7 +1880,7 @@ SIE |
 
 SURESNES |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -1862,7 +1890,7 @@ Trésorerie spécialisée |
 
 MEUDON |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Saint-Denis |
 
@@ -1872,17 +1900,7 @@ SIP |
 
 VILLEPINTE |
 
-01/01/2021 |
-
-Seine-Saint-Denis |
-
-093014 |
-
-Trésorerie spécialisée |
-
-MONTFERMEIL HOSPITALIER |
-
-01/09/2021 |
+01/07/2021 |
 
 Seine-Saint-Denis |
 
@@ -1892,7 +1910,7 @@ SIP |
 
 MONTREUIL |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Saint-Denis |
 
@@ -1902,7 +1920,7 @@ SIP |
 
 PANTIN |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Saint-Denis |
 
@@ -1912,7 +1930,7 @@ SIE |
 
 VILLEPINTE |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Saint-Denis |
 
@@ -1922,7 +1940,7 @@ SIE |
 
 BOBIGNY |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-Saint-Denis |
 
@@ -1932,7 +1950,7 @@ SPF |
 
 BOBIGNY 1 |
 
-17/06/2021 |
+01/07/2021 |
 
 Val-de-Marne |
 
@@ -1942,7 +1960,7 @@ PRS |
 
 VAL-DE-MARNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Val-de-Marne |
 
@@ -1952,7 +1970,17 @@ SIE |
 
 CHARENTON LE PONT |
 
-01/01/2021 |
+01/07/2021 |
+
+Val-de-Marne |
+
+094045 |
+
+SIE |
+
+L'HAY-LES-ROSES |
+
+Courant 2021 |
 
 Val-de-Marne |
 
@@ -1962,7 +1990,7 @@ SIP |
 
 MAISONS-ALFORT/CHARENTON |
 
-01/01/2021 |
+01/07/2021 |
 
 Val-de-Marne |
 
@@ -1972,7 +2000,7 @@ SIP |
 
 NOGENT-SUR-MARNE |
 
-01/01/2021 |
+01/07/2021 |
 
 Val-d'Oise |
 
@@ -1982,7 +2010,7 @@ SIP |
 
 ARGENTEUIL |
 
-01/01/2021 |
+01/07/2021 |
 
 Val-d'Oise |
 
@@ -1992,7 +2020,7 @@ PRS |
 
 VAL-D'OISE |
 
-01/01/2021 |
+01/07/2021 |
 
 Val-d'Oise |
 
@@ -2002,7 +2030,27 @@ SIE |
 
 ERMONT |
 
-01/01/2021 |
+01/07/2021 |
+
+Guadeloupe |
+
+101014 |
+
+Trésorerie mixte |
+
+SAINT-MARTIN |
+
+01/09/2021 |
+
+Guadeloupe |
+
+101018 |
+
+Trésorerie spécialisée |
+
+POINTE-A-PITRE HOSPITALIERE |
+
+01/12/2021 |
 
 Guadeloupe |
 
@@ -2012,7 +2060,7 @@ SIE |
 
 GRANDE TERRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Guadeloupe |
 
@@ -2022,7 +2070,7 @@ SIE |
 
 NORD BASSE-TERRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Guadeloupe |
 
@@ -2032,7 +2080,7 @@ SIP |
 
 NORD BASSE-TERRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Martinique |
 
@@ -2042,7 +2090,7 @@ Trésorerie spécialisée |
 
 CACEM |
 
-01/01/2021 |
+01/07/2021 |
 
 Martinique |
 
@@ -2052,7 +2100,7 @@ SIP |
 
 FORT-DE-FRANCE SCHOELCHER |
 
-01/01/2021 |
+01/07/2021 |
 
 Martinique |
 
@@ -2062,7 +2110,7 @@ SPF |
 
 FORT-DE-FRANCE |
 
-01/01/2021 |
+01/07/2021 |
 
 La Réunion |
 
@@ -2072,7 +2120,7 @@ SIP |
 
 SAINT-DENIS-DE-LA-REUNION EST |
 
-01/01/2021 |
+01/07/2021 |
 
 La Réunion |
 
@@ -2082,7 +2130,7 @@ SIE |
 
 ST-DENIS-DE-LA-REUNION OUEST |
 
-01/01/2021 |
+01/07/2021 |
 
 DINR |
 
@@ -2092,7 +2140,7 @@ SIE |
 
 ENTREPRISES ETRANGERES |
 
-01/01/2021 |
+01/07/2021 |
 
 DINR |
 
@@ -2102,4 +2150,4 @@ SIE |
 
 RECETTE DES NON RESIDENTS |
 
-01/01/2021 |
+01/07/2021 |

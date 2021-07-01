@@ -1,6 +1,4 @@
-# Article LEGIARTI000043057926
-
-ANNEXE 2
+# Article ANNEXE 2
 
 LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 1RE CATÉGORIE
 
@@ -22,7 +20,7 @@ Trésorerie spécialisée |
 
 MARSEILLE MUN. ET METROPOLE AMP |
 
-01/01/2021 |
+01/07/2021 |
 
 Bouches-du-Rhône |
 
@@ -32,7 +30,7 @@ SIE |
 
 AIX-EN-PROVENCE SUD |
 
-01/01/2021 |
+01/07/2021 |
 
 Côte-d'Or |
 
@@ -42,7 +40,7 @@ SIE |
 
 DIJON |
 
-01/01/2021 |
+01/07/2021 |
 
 Gard |
 
@@ -52,7 +50,7 @@ SPF |
 
 NIMES 1 |
 
-06/09/2021 |
+01/07/2021 |
 
 Haute-Garonne |
 
@@ -62,7 +60,7 @@ SPF |
 
 TOULOUSE 3 |
 
-08/04/2021 |
+01/07/2021 |
 
 Gironde |
 
@@ -72,7 +70,7 @@ Trésorerie spécialisée |
 
 BORDEAUX MUNICIPALE ET METROPOLE |
 
-01/01/2021 |
+01/07/2021 |
 
 Hérault |
 
@@ -82,7 +80,7 @@ SIP |
 
 MILLENAIRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Hérault |
 
@@ -92,7 +90,7 @@ SPF |
 
 MONTPELLIER 2 |
 
-01/01/2021 |
+01/07/2021 |
 
 Ille-et-Vilaine |
 
@@ -102,7 +100,7 @@ Trésorerie spécialisée |
 
 CONTROLE AUTOMATISE |
 
-01/01/2021 |
+01/07/2021 |
 
 Morbihan |
 
@@ -112,7 +110,7 @@ Trésorerie spécialisée |
 
 VANNES MUNICIPALE |
 
-01/01/2021 |
+01/07/2021 |
 
 Nord |
 
@@ -122,7 +120,7 @@ SPF |
 
 LILLE 3 |
 
-14/06/2021 |
+01/07/2021 |
 
 Pyrénées-Orientales |
 
@@ -132,7 +130,7 @@ SPF |
 
 PERPIGNAN 1 |
 
-10/11/2021 |
+01/07/2021 |
 
 Bas-Rhin |
 
@@ -142,7 +140,7 @@ SIP |
 
 STRASBOURG |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -152,7 +150,7 @@ SIE |
 
 LYON CENTRE |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -162,7 +160,7 @@ Trésorerie spécialisée |
 
 LYON MUNICIPALE-METROPOLE LYON |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -172,7 +170,7 @@ Trésorerie spécialisée |
 
 LYON HOSPICES CIVILS |
 
-01/01/2021 |
+01/07/2021 |
 
 Rhône |
 
@@ -182,7 +180,7 @@ SIE |
 
 LYON BERTHELOT |
 
-01/01/2021 |
+01/07/2021 |
 
 Haute-Savoie |
 
@@ -192,7 +190,7 @@ SIP-SIE |
 
 SEYNOD |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -202,7 +200,7 @@ SIP |
 
 PARIS 7E |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -212,7 +210,7 @@ SIE |
 
 PARIS 1E |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -220,9 +218,9 @@ Paris |
 
 SIE |
 
-SIE PARIS 9E |
+PARIS 9E |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -232,7 +230,7 @@ Trésorerie spécialisée |
 
 CENTRE D'ACTION SOCIALE DE PARIS |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -240,9 +238,9 @@ Paris |
 
 SIE |
 
-PARIS 8E CHAMPS -ELYSEES |
+PARIS 8e CHAMPS -ELYSEES |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -250,9 +248,9 @@ Paris |
 
 SIE |
 
-PARIS 8E ROME MADELEINE |
+PARIS 8e ROME MADELEINE |
 
-01/01/2021 |
+01/07/2021 |
 
 Paris |
 
@@ -260,9 +258,9 @@ Paris |
 
 SIE |
 
-PARIS 17E TERNES BATIGNOLLES |
+PARIS 17e TERNES BATIGNOLLES |
 
-01/01/2021 |
+01/07/2021 |
 
 Seine-et-Marne |
 
@@ -272,7 +270,7 @@ SPF |
 
 MEAUX |
 
-07/10/2021 |
+01/07/2021 |
 
 Var |
 
@@ -282,7 +280,7 @@ SPF |
 
 TOULON 2 |
 
-04/03/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -292,7 +290,7 @@ PRS |
 
 HAUTS-DE-SEINE |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -302,7 +300,7 @@ SIE |
 
 NEUILLY |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -312,7 +310,7 @@ SPF |
 
 NANTERRE 3 |
 
-01/01/2021 |
+01/07/2021 |
 
 Hauts-de-Seine |
 
@@ -322,7 +320,7 @@ SPF |
 
 VANVES 2 |
 
-18/03/2021 |
+01/07/2021 |
 
 La Réunion |
 
@@ -332,7 +330,7 @@ Trésorerie mixte |
 
 LE PORT |
 
-01/01/2021 |
+01/07/2021 |
 
 DGE |
 
@@ -342,4 +340,4 @@ SIE |
 
 POSTE COMPTABLE DE LA DGE |
 
-01/01/2021 |
+01/07/2021 |
