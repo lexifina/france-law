@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des modifications n°1 aux marchés relatifs aux travaux de construction du complexe sportif rue du Gouverneur Général Eboué «Cité des Sports »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-07-01
+- Matière : SPORTS
+- Objet : Approbation des modifications n°1 aux marchés relatifs aux travaux de construction du complexe sportif rue du Gouverneur Général Eboué «Cité des Sports »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNjMsInB1ciI6ImJsb2JfaWQifX0=--a086ac06f99e5295676d973b8e4f3d3d3fdcfe3b/010721_25.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
