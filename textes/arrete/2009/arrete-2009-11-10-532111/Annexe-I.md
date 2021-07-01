@@ -78,15 +78,21 @@ Lorsque l'installation cesse l'activité au titre de laquelle elle était décla
 
 2.1. Règles d'implantation
 
-Sans préjudice des règlements d'urbanisme, les lieux d'implantation de l'aire ou des équipements de stockage des matières entrantes et des digestats satisfont les dispositions suivantes :
+Sans préjudice des règlements d'urbanisme, l'installation satisfait les dispositions suivantes :
 
-- ils ne sont pas situés dans le périmètre de protection rapproché d'un captage d'eau destinée à la consommation humaine ;
+- elle n'est pas située dans le périmètre de protection rapproché d'un captage d'eau destinée à la consommation humaine ;
 
-- ils sont distants d'au moins 35 mètres des puits et forages de captage d'eau extérieurs au site, des sources, des aqueducs en écoulement libre, des rivages et des berges des cours d'eau, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux destinées à l'alimentation en eau potable, à des industries agroalimentaires, ou à l'arrosage des cultures maraîchères ou hydroponiques; la distance de 35 mètres des rivages et des berges des cours d'eau peut toutefois être réduite en cas de transport par voie d'eau.
+- elle est distante d'au moins 35 mètres des puits et forages de captage d'eau extérieurs au site, des sources, des aqueducs en écoulement libre, des rivages et des berges des cours d'eau, de toute installation souterraine ou semi-enterrée utilisée pour le stockage des eaux destinées à l'alimentation en eau potable, à des industries agroalimentaires, ou à l'arrosage des cultures maraîchères ou hydroponiques; la distance de 35 mètres des rivages et des berges des cours d'eau peut toutefois être réduite en cas de transport par voie d'eau.
 
-La distance entre les digesteurs et les habitations occupées par des tiers ne peut pas être inférieure à 50 mètres, à l'exception des logements occupés par des personnels de l'installation et des logements dont l'exploitant ou le fournisseur de substrats de méthanisation ou l'utilisateur de la chaleur produite à la jouissance.
+La distance entre l'installation et les habitations occupées par des tiers, y compris les lieux d'accueil visés au II de l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage, ne peut pas être inférieure à 100 mètres, à l'exception des équipements ou des zones destinées exclusivement au stockage de matière végétale brute ainsi qu' à l'exception des logements occupés par des personnels de l'installation et des logements dont l'exploitant ou le fournisseur de substrats de méthanisation ou l'utilisateur de la chaleur produite à la jouissance.
 
-Le dossier de déclaration mentionne la distance d'implantation de l'installation et de ses différents composants par rapport aux habitations occupées par des tiers, stades ou terrains de camping agréés ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers et établissements recevant du public.
+Le dossier de déclaration mentionne la distance d'implantation de l'installation et de ses différents composants par rapport aux habitations occupées par des tiers, y compris les lieux d'accueil visés au II de l'article 1er de la loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage, aux stades ou aux terrains de camping agréés ainsi que des zones destinées à l'habitation par des documents d'urbanisme opposables aux tiers et établissements recevant du public.
+
+La distance entre les installations de combustion ou un local abritant ces équipements (unités de cogénération, chaudières) et les installations d'épuration de biogaz ou un local abritant ces équipements ne peut être inférieure à 10 mètres.
+
+La distance entre les torchères ouvertes et les équipements de méthanisation (digesteur, post digesteur, gazomètre) ne peut être inférieure à 15 mètres. La distance entre les torchères fermées et les équipements de méthanisation (prétraitement, digesteur, post digesteur, gazomètre) ne peut être inférieure à 10 mètres. La distance entre les torchères et les unités connexes (local séchage, local électrique, local technique) ne peut être inférieure à 10 mètres.
+
+La distance entre les aires de stockage de liquides inflammables ou des matériaux combustibles (dont les intrants et les arbres feuillus à proximité) et les sources d'inflammation (par exemple : armoire électrique, torchère) ne peut être inférieure à 10 mètres, sauf dispositions spécifiques coupe-feu dont l'exploitant justifie qu'elles apportent un niveau de protection équivalent.
 
 2.2. Intégration dans le paysage
 
@@ -168,15 +174,17 @@ Objet du contrôle :
 
 2.5.2. Accessibilité en cas de sinistre
 
-En cas de sinistre, les engins de secours doivent pouvoir intervenir rapidement et sous au moins deux angles différents.
+L'installation dispose en permanence d'au moins un accès pour permettre l'intervention des services d'incendie et de secours.
 
-Toutes les dispositions sont prises pour permettre une intervention rapide des secours et leur accès aux zones d'entreposage des matières ou des déchets.
+Cet accès relie la voie de desserte ou publique à l'intérieur du site et est suffisamment dimensionné pour permettre l'entrée des engins de secours et leur mise en œuvre.
 
-2.6. Ventilation
+Les véhicules dont la présence est liée à l'exploitation de l'installation stationnent sans occasionner de gêne pour l'accessibilité des engins des services de secours à l'installation, même en dehors des heures d'exploitation et d'ouverture de l'installation.
+
+2.6. Ventilation des locaux
 
 Sans préjudice des dispositions du code du travail, les espaces confinés et les locaux dans lesquels du biogaz pourrait s'accumuler en cas de fuite sont convenablement ventilés pour éviter la formation d'une atmosphère explosive ou nocive.
 
-La ventilation assure en permanence, y compris en cas d'arrêt de l'installation, et notamment en cas de mise en sécurité de l'installation, un balayage de l'atmosphère du local, au moyen d'ouvertures en parties haute et basse permettant une circulation efficace de l'air ou par tout autre moyen équivalent.
+La ventilation assure en permanence, y compris en cas d'arrêt de l'installation, et notamment en cas de mise en sécurité de l'installation, un balayage de l'atmosphère du local, au moyen d'ouvertures en parties haute et basse permettant une circulation efficace de l'air ou par tout autre moyen équivalent garantissant un débit horaire d'air supérieur ou égal à dix fois le volume du local. Un système de surveillance par détection de méthane, sulfure d'hydrogène et monoxyde de carbone, régulièrement vérifié et calibré, permet de contrôler la bonne ventilation des locaux.
 
 Objet du contrôle :
 
@@ -186,9 +194,17 @@ Objet du contrôle :
 
 Les installations électriques sont réalisées conformément aux règles en vigueur, notamment par l'application du décret no 88-1056 du 14 novembre 1988 relatif à la réglementation du travail ou par l'application des articles de la quatrième partie du code du travail.
 
+Les installations électriques des dispositifs de ventilation et de sécurité (torchère notamment) de l'installation (y compris celles relatives aux locaux de cogénération et/ ou d'épuration) et les équipements nécessaires à sa surveillance sont raccordées à une alimentation de secours électrique.
+
+Les installations électriques et alimentations de secours situées dans des zones inondables par une crue de niveau d'aléa décennal sont placées à une hauteur supérieure au niveau de cette crue. Par ailleurs, lorsqu'elles sont situées au droit d'une rétention, elles sont placées à une hauteur supérieure au niveau de liquide résultant de la rupture du plus grand stockage associé à cette rétention.
+
 2.8. Mise à la terre des équipements
 
 Les équipements métalliques (réservoirs, cuves, canalisations) sont mis à la terre conformément aux règlements et aux normes applicables, compte tenu notamment de la nature explosive ou inflammable des produits.
+
+Les matériaux isolants installés dans un emplacement avec une présence d'une atmosphère explosive (membrane souple, etc.) sont conçus pour être de nature antistatique selon les normes en vigueur.
+
+L'exploitant assure ou fait effectuer la vérification périodique et la maintenance des matériels de sécurité et de lutte contre l'incendie mis en place (exutoires, systèmes de détection et d'extinction, portes coupe-feu, colonne sèche par exemple, alarmes, détecteurs de gaz, injection d'air dans le biogaz …) et organise à fréquence annuelle des tests dont les comptes rendus sont tenus à disposition de l'inspection des installations classées et annexés au programme de maintenance préventive visé au point 3.6.2.
 
 2.9. Rétention des aires et locaux de travail
 
@@ -200,41 +216,49 @@ Objet du contrôle :
 
 - capacité des aires et locaux à recueillir les eaux et matières répandues (présence de seuil par exemple).
 
-2.10. Cuvettes de rétention
+2.10. Rétentions
 
-Tout stockage de matières liquides autres que le digestat, les matières en cours de traitement ou les effluents d'élevage, susceptibles de créer une pollution de l'eau ou du sol, est associé à une capacité de rétention de volume au moins égal à la plus grande des deux valeurs suivantes :
+2.10.1. Tout stockage de matière entrantes ou de digestats liquides, ou de matière susceptible de créer une pollution des eaux ou des sols, y compris les cuves à percolat, est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
-- 100 % de la capacité du plus grand réservoir servant au stockage de ces matières liquides ;
+-100 % de la capacité du plus grand réservoir ;
 
-- 50 % de la capacité globale des réservoirs associés.
+-50 % de la capacité totale des réservoirs associés.
 
-Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages enterrés, de limiteurs de remplissage. Le stockage sous le niveau du sol n'est autorisé que dans des réservoirs en fosse maçonnée ou assimilés. L'étanchéité des réservoirs doit être contrôlable.
+Cette disposition n'est pas applicable aux bassins de traitement des eaux résiduaires.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, admis au transport, le volume minimal de la rétention est égal soit à la capacité totale des récipients, si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale, ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants), avec un minimum de 800 litres si cette capacité excède 800 litres. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour le dispositif d'obturation, qui doit être maintenu fermé en conditions normales.
+Lorsqu'ils ne sont pas construits dans une fosse étanche satisfaisant aux prescriptions des trois premiers alinéas du présent 2.10.1, les stockages enterrés sont équipés d'un dispositif de drainage des fuites vers un point bas pourvu d'un regard de contrôle facilement accessible, dont les eaux sont analysées annuellement (MEST, DBO5, DCO, Azote global et Phosphore total). Lorsque le sol présente un coefficient de perméabilité supérieur à 10-7 mètres par seconde, ils sont, en outre, équipés d'une géomembrane associée à un détecteur de fuite régulièrement entretenu.
 
-L'étanchéité du ou des réservoirs associés doit pouvoir être contrôlée à tout moment.
+Le précédent alinéa n'est pas applicable aux lagunes. Celles-ci sont constituées d'une double géomembrane dont l'intégrité est contrôlée a minima tous les cinq ans.
+
+2.10.2. La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est maintenu fermé.
+
+Les produits récupérés en cas d'accident ne peuvent être rejetés que dans des conditions conformes au présent arrêté ou sont éliminés comme les déchets.
 
 Les réservoirs ou récipients contenant des produits incompatibles ne sont pas associés à une même rétention.
 
-L'installation est en outre munie d'un dispositif de rétention, le cas échéant effectué par talutage, d'un volume au moins égal au volume du contenu liquide de la plus grosse cuve, qui permet de retenir le digestat ou les matières en cours de traitement en cas de débordement ou de perte d'étanchéité du digesteur ou de la cuve de stockage du digestat.
+Les réservoirs fixes sont munis de jauges de niveau et, pour les stockages enterrés, de limiteurs de remplissage. Ces équipements sont compatibles avec les caractéristiques du produit ou de la matière contenue. Un contrôle visuel de ces jauges de niveau et limiteurs de remplissage est opéré quotidiennement pour s'assurer de leur bon fonctionnement.
 
-Pour les cuves enterrées, en cas d'impossibilité de mettre en place une cuvette de rétention, justifiée dans le dossier de déclaration, un dispositif de drainage est mis en place pour collecter les fuites éventuelles.
+2.10.3. A l'exception des installations de méthanisation par voie solide ou pâteuse pour lesquelles les dispositions suivantes ne sont applicables qu'aux rétentions associées aux cuves de percolat, les rétentions sont pourvues d'un dispositif d'étanchéité répondant à l'une des caractéristiques suivantes :
 
-Objet du contrôle :
+-un revêtement en béton, une membrane imperméable ou tout autre dispositif qui confère à la rétention son caractère étanche. La vitesse d'infiltration à travers la couche d'étanchéité est alors inférieure à 10-7 mètres par seconde ;
 
-- présence de cuvettes de rétention (le non-respect de ce point relève d'une non-conformité majeure) ;
+-une couche d'étanchéité en matériaux meubles telle que si V est la vitesse de pénétration (en mètres par heure) et h l'épaisseur de la couche d'étanchéité (en mètres), le rapport h/ V est supérieur à 500 heures. L'épaisseur h, prise en compte pour le calcul, ne peut dépasser 0,5 mètre. Ce rapport h/ V peut être réduit sans toutefois être inférieur à 100 heures si l'exploitant démontre sa capacité à reprendre ou à évacuer le digestat, la matière entrante et/ ou la matière en cours de transformation dans une durée inférieure au rapport h/ V calculé.
 
-- sur les cuves enterrées, en cas d'impossibilité de mettre en place une cuvette de rétention, présence d'un réseau de drainage.
+L'exploitant s'assure dans le temps de la pérennité de ce dispositif. L'étanchéité ne doit notamment pas être compromise par les produits pouvant être recueillis, par un éventuel incendie ou par les éventuelles agressions physiques liées à l'exploitation courante.
 
-2.11. Isolement du réseau de collecte
+2.10.4. Le cas échéant, les rétentions sont vidées dès que possible des eaux pluviales s'y versant.
 
-Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de ruissellement sont implantés de sorte à maintenir sur le site les eaux d'extinction d'un sinistre ou l'écoulement d'un accident de transport. Une consigne définit les modalités de mise en œuvre de ces dispositifs.
+2.10.5. Le sol des aires et des locaux de stockage ou de manipulation des matières dangereuses pour l'homme ou susceptibles de créer une pollution de l'eau ou du sol est étanche et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement.
 
-2.12. Cuves de méthanisation
+2.10.6. Pour les installations existantes au 1er juillet 2021, l'exploitant recense dans un délai de deux ans à compter de cette date les rétentions nécessitant des travaux d'étanchéité afin de répondre aux exigences des dispositions du point 2.10.3. Il planifie ensuite les travaux en quatre tranches, chaque tranche de travaux couvrant au minimum 20 % de la surface totale des rétentions concernées. Les tranches de travaux sont réalisées au plus tard respectivement quatre, six, huit et dix ans après le 1er juillet 2021.
+
+2.11. (Supprimé)
+
+2.12. Cuves de méthanisation et cuves de stockage du percolat
 
 2.12.1. Les équipements dans lesquels s'effectue le processus de méthanisation sont dotés d'un dispositif de limitation des conséquences d'une surpression brutale, tel qu'une membrane souple, un disque de rupture, un évent d'explosion ou tout autre dispositif équivalent.
 
-2.12.2. Ils sont également dotés d'un dispositif destiné à prévenir les risques de surpression ou de sous-pression conçu et disposé pour que son bon fonctionnement ne soit entravé ni par la mousse, ni par le gel, ni par quelque obstacle que ce soit.
+2.12.2. Les équipements dans lesquels s'effectue le processus de méthanisation ou le cas échéant le stockage de percolat sont également équipés d'une soupape de respiration destinée à prévenir les risques de mise en pression ou dépression des équipements au-delà de leurs caractéristiques de résistance, dimensionnée pour passer les débits requis, conçue et disposée pour que son bon fonctionnement ne soit entravé ni par la mousse, ni par le gel, ni par quelque obstacle que ce soit.
 
 2.12.3. Les dispositifs visés aux points ci-dessus ne débouchent pas sur un lieu de passage et leur disponibilité est contrôlée régulièrement et après toute situation d'exploitation ayant conduit à leur sollicitation.
 
@@ -244,15 +268,17 @@ Objet du contrôle :
 
 - présence et bon fonctionnement d'un dispositif destiné à prévenir les risques de surpression ou de sous-pression (le non-respect de ce point relève d'une non-conformité majeure).
 
-2.13. Caractéristiques des canalisations et stockages de biogaz
+2.13. Caractéristiques des canalisations et stockages de biogaz et de biométhane
 
-Les différentes canalisations sont repérées par des couleurs normalisées (norme NF X 08 15) ou par des pictogrammes en fonction du fluide qu'elles transportent. Elles sont reportées sur le plan établi en application des dispositions de l'article 1.4 du présent arrêté.
+Les différentes canalisations sont repérées par des couleurs normalisées ou par des pictogrammes en fonction du fluide qu'elles transportent. Elles sont reportées sur le plan établi en application des dispositions de l'article 1.4 du présent arrêté.
 
-Les canalisations en contact avec le biogaz sont constituées de matériaux insensibles à la corrosion par les produits soufrés ou protégés contre cette corrosion.
+Les canalisations en contact avec le biogaz, la robinetterie et les joints d'étanchéité des brides sont constitués de matériaux insensibles à la corrosion par les produits soufrés ou protégés contre cette corrosion.
 
 Les dispositifs d'ancrage des équipements de stockage du biogaz, en particulier ceux utilisant des matériaux souples, sont conçus pour maintenir l'intégrité des équipements même en cas de défaillance de l'un de ces dispositifs.
 
-Les raccords des tuyauteries de biogaz sont soudés lorsqu'ils sont positionnés dans, ou à proximité immédiate d'un local accueillant des personnes autre que le local de combustion, d'épuration ou de compression. S'ils ne sont pas soudés, une détection de gaz est mise en place dans le local.
+Les raccords des tuyauteries de biogaz sont soudés lorsqu'ils sont positionnés dans, ou à proximité immédiate d'un local accueillant des personnes autre que le local de combustion, d'épuration ou de compression. S'ils ne sont pas soudés, une détection de gaz fixe est mise en place dans le local (une alarme sonore et visuelle est mise en place pour se déclencher lors d'une détection supérieure ou égale à 10 % de la limite inférieure d'explosivité du méthane).
+
+Les canalisations de biogaz et de biométhane ne passent pas dans des zones confinées. Si cela n'est pas possible, une information de risque appropriée est réalisée et une ventilation appropriée est installée dans les zones confinées. Les conduites de biogaz et le système de condensation du biogaz doivent être à l'épreuve du gel.
 
 Objet du contrôle :
 
@@ -262,23 +288,49 @@ Objet du contrôle :
 
 2.14. Traitement du biogaz
 
-Lorsqu'il existe un dispositif d'injection d'air dans le biogaz destiné à en limiter la teneur en H2S par oxydation, ce dispositif est conçu pour prévenir le risque de formation d'une atmosphère explosive ou doté des sécurités permettant de prévenir ce risque.
+2.14.1. Lorsqu'il existe un dispositif d'injection d'air dans le biogaz destiné à en limiter la teneur en H2S par oxydation, ce dispositif est conçu pour prévenir le risque de formation d'une atmosphère explosive ou doté des sécurités permettant de prévenir ce risque. L'exploitant établit une consigne écrite sur l'utilisation et l'étalonnage du débitmètre d'injection d'air dans le biogaz.
+
+2.14.2. Les systèmes d'épuration du biogaz en biométhane sont conçus, exploités, entretenus et vérifiés afin de limiter l'émission du méthane dans les gaz d'effluents à :
+
+-2 % en volume du biométhane produit, pour les installations d'une capacité de production de biométhane inférieure à 50 Nm3/ h. A compter du 1er janvier 2025, cette valeur est ramenée à 1 % en volume du biométhane produit.
+
+-1 % en volume du biométhane produit, pour les installations d'une capacité de production de biométhane supérieure à 50 Nm3/ h. A compter du 1er janvier 2025, cette valeur est ramenée à 0,5 % en volume du biométhane produit.
+
+Le respect de ces valeurs fait l'objet d'une évaluation annuelle.
 
 2.15. Stockage du digestat
 
 Les ouvrages de stockage du digestat sont dimensionnés et exploités de manière à éviter tout déversement dans le milieu naturel. Ils ont une capacité suffisante pour permettre le stockage de la quantité de digestat (fraction solide et fraction liquide) produit pendant au moins quatre mois ou pendant une période correspondant à la plus longue période pendant laquelle son évacuation ou son traitement n'est pas possible. Cette disposition n'est pas applicable si l'exploitant ou un prestataire dispose de capacités de stockage sur un autre site et est en mesure d'en justifier la disponibilité.
 
+Les stockages de digestats solides et liquides sont couverts. Cette disposition ne s'applique pas pour le digestat solide stocké en bout de champ moins de 24 heures avant épandage, ni aux lagunes de stockage de digestat liquide ayant subi un traitement de plus de 80 jours.
+
+Les installations de stockage non couvertes doivent faire l'objet de mesures organisationnelles prenant en compte les situations météorologiques décennales (et notamment le niveau de réduction nécessaire des quantités de digestat produites avant les évènements pluvieux importants) permettant d'éviter les débordements. Ces mesures sont annexées au programme de maintenance préventive visé au point 3.6.2.
+
+2.16. Gestion du biogaz lors de dysfonctionnement de l'installation
+
+L'installation dispose d'un équipement de destruction du biogaz produit en cas d'indisponibilité temporaire des équipements de valorisation du biogaz. Cet équipement est présent en permanence sur le site et muni d'un arrête-flammes. Les équipements disposant d'un arrête-flammes conçu selon les normes NF EN ISO 16852 (de janvier 2017) ou NF ISO 22580 (de décembre 2020) sont présumés satisfaire aux exigences du présent point.
+
+Notamment, les torchères installées doivent être mises en route avant le remplissage total des unités de stockages de biogaz. Dans le cas d'une torchère asservie, l'exploitant tient à disposition de l'inspection les pressions de service de la torchère et d'ouverture des soupapes.
+
+Pour les installations existantes au 1er juillet 2021, dans le cas où cet équipement n'est pas présent en permanence sur le site, l'installation dispose d'une capacité permettant le stockage du biogaz produit jusqu'à la mise en service de cet équipement. L'exploitant définit dans un plan de gestion, au plus tard le 1er juillet 2022, les mesures de gestion associées à ces situations d'indisponibilités et garantissant la limitation de la production et un stockage du biogaz compatible avec le délai maximal de disponibilité de ses moyens de destruction ou de valorisation de secours. Ce délai ne peut être supérieur à 6 heures.
+
+Pour toutes les installations, des mesures de gestion, actualisées chaque année en fonction des quantités traitées et des équipements installés, sont définies et annexées au programme de maintenance préventive visé au point 3.6.2, pour faire face à un éventuel pic de production. Ces mesures prévoient le stockage temporaire d'une quantité de biogaz déterminée en fonction de la documentation fournie par les constructeurs des installations. Cette quantité ne peut être inférieure à 6 heures de production nominale, ou 3 heures pour les installations disposant d'une torchère installée à demeure, dans la limite de 5 tonnes.
+
+Lorsque le torchage s'avère nécessaire en cas de dépassement de la capacité établie au précédent alinéa, la durée de torchage est recensée et versée au programme de maintenance préventive. Si dans le cours d'une année, et à l'exception des opérations de maintenance et des situations accidentelles liées à l'indisponibilité du réseau de valorisation en sortie d'installation, il est recensé plus de trois évènements de dépassement de capacité de stockage ayant impliqué l'activation durant plus de 6 heures d'une torchère ou à défaut d'une soupape de décompression, l'exploitant communique à l'inspection des installations classées un bilan de ces évènements, une analyse de leurs causes et des propositions de mesures correctives de nature à respecter les dispositions du précédent alinéa.
+
 3. Exploitation. - Entretien
 
-3.1. Surveillance de l'exploitation et formation
+3.1. Surveillance de l'exploitation, astreinte et formation
 
-3.1.1. L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation, des dangers et inconvénients des produits utilisés ou stockés dans l'installation et des risques liés au biogaz.
+3.1.1. Une astreinte opérationnelle vingt-quatre heures sur ving-quatre est organisée sur le site de l'exploitation. L'exploitation se fait sous la surveillance, directe ou indirecte, d'un service de maintenance et de surveillance du site composé d'une ou plusieurs personnes qualifiées, nommément désignées par l'exploitant et ayant une connaissance de la conduite de l'installation, des dangers et inconvénients des produits utilisés ou stockés dans l'installation et des risques liés au biogaz.
+
+Ce service pourra être renforcé par du personnel de sous-traitance qualifié. Lorsque la surveillance de l'exploitation est indirecte, celle-ci est opérée à l'aide de dispositifs connectés permettant au service de maintenance et de surveillance d'intervenir dans un délai de moins de 30 minutes suivant la détection de gaz, de flamme, ou de tout phénomène de dérive du processus de digestion ou de stockage de percolat susceptible de provoquer des déversements, incendies ou explosion. L'organisation mise en place est notifiée à l'inspection des installations classées.
 
 3.1.2. Formation
 
 Avant le démarrage des installations, l'exploitant et son personnel, y compris le personnel intérimaire, sont formés à la prévention des nuisances et des risques générés par le fonctionnement et la maintenance des installations, à la conduite à tenir en cas d'incident ou d'accident et à la mise en œuvre des moyens d'intervention.
 
-Les formations appropriées pour satisfaire ces dispositions sont dispensées par des organismes ou des personnels compétents sélectionnés par l'exploitant. Le contenu des formations est décrit et leur adéquation aux besoins justifiée. La formation initiale mentionnée à l'alinéa précédent est renouvelée selon une périodicité spécifiée par l'exploitant et validée par les organismes ou personnels compétents ayant effectué la formation initiale. Le contenu de cette formation peut être adapté, pour prendre en compte notamment le retour d'expérience de l'exploitation des installations et ses éventuelles modifications.
+Les formations appropriées pour satisfaire ces dispositions sont dispensées par des organismes ou des personnels compétents sélectionnés par l'exploitant. Le contenu des formations est décrit et leur adéquation aux besoins justifiée. La formation initiale mentionnée à l'alinéa précédent est renouvelée selon une périodicité spécifiée par l'exploitant et validée par les organismes ou personnels compétents ayant effectué la formation initiale. Le contenu de cette formation peut s'appuyer sur des guides faisant référence.
 
 À l'issue de chaque formation, les organismes ou personnels compétents établissent une attestation de formation précisant les coordonnées du formateur, la date de réalisation de la formation, le thème et le contenu de la formation. Cette attestation est délivrée à chaque personne ayant suivi les formations.
 
@@ -352,13 +404,21 @@ Objet du contrôle :
 
 - présence et tenue à jour d'un registre de sortie des déchets (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-3.6. Vérification périodique des installations électriques
+3.6. Vérification périodique des installations
 
-Toutes les installations électriques sont maintenues en bon état et sont vérifiées, après leur installation ou leur modification, par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs auxdites vérifications sont fixés par l'arrêté du 10 octobre 2000 fixant la périodicité, l'objet et l'étendue des vérifications des installations électriques au titre de la protection des travailleurs, ainsi que le contenu des rapports relatifs auxdites vérifications.
+3.6.1. Vérification périodique des installations électriques
+
+Toutes les installations électriques sont maintenues en bon état et sont vérifiées, après leur installation ou leur modification, par une personne compétente. Les rapports de ces vérifications sont tenus à la disposition de l'inspection des installations classées.
+
+3.6.2. Vérification périodique de l'étanchéité des équipements
+
+Un programme de maintenance préventive et de vérification périodique des canalisations, du mélangeur et des principaux équipements intéressant la sécurité (alarmes, détecteurs de gaz, injection d'air dans le biogaz …) et la prévention des émissions odorantes est élaboré avant la mise en service de l'installation. Ce programme est périodiquement révisé au cours de la vie de l'installation, en fonction des équipements mis en place. Ce programme inclut notamment la maintenance des soupapes par un nettoyage approprié, y compris le cas échéant de la garde hydraulique, le contrôle des capteurs de pression ainsi que leur étalonnage régulier sur des plages de mesures adaptées au fonctionnement de l'installation, et le contrôle semestriel de l'étanchéité des équipements (par exemple, système d'ancrage du stockage tampon de biogaz, joints des hublots, introduction dans un ouvrage, trappes d'accès et trous d'hommes) vis-à-vis du risque de corrosion. La pression de tarage de chaque soupape est recensée dans le programme de maintenance préventive. Dans le cas des installations de méthanisation par voie solide ou pâteuse nécessitant des opérations répétées de chargement et de déchargement de matières, la vérification de l'étanchéité des équipements est opérée à chaque manipulation ou a minima sur une base mensuelle. Après deux ans de fonctionnement de l'installation, l'exploitant effectue un contrôle des systèmes de recirculation du percolat et un curage de la cuve de stockage associée. Cette fréquence peut ensuite être adaptée, elle est alors portée au programme de maintenance préventive. L'exploitant réalise en outre un contrôle de la fiabilité des analyseurs de gaz installés (CH4, O2) à une fréquence semestrielle.
 
 Objet du contrôle :
 
-- présence des éléments justifiant que les installations électriques sont entretenues en bon état et vérifiées conformément aux normes en vigueur.
+-présence des éléments justifiant que les installations électriques sont entretenues en bon état et vérifiées conformément aux normes en vigueur ;
+
+-présence et mise à jour du programme de maintenance préventive en fonction des équipements mis en place et des opérations réalisées sur l'installation. L'absence de programme de maintenance préventive, ou de sa mise à jour depuis plus de 18 mois, relève d'une non-conformité majeure.
 
 3.7. Consignes d'exploitation
 
@@ -368,17 +428,47 @@ L'installation est conçue, équipée, construite et exploitée de manière à c
 
 À cet effet :
 
-- si le délai de traitement des matières susceptibles de générer des nuisances à la livraison ou lors de leur entreposage est supérieur à vingt-quatre heures, l'exploitant met en place les moyens d'entreposage adaptés ;
+- si le délai de traitement des matières susceptibles de générer des nuisances à la livraison ou lors de leur entreposage est supérieur à vingt-quatre heures, l'exploitant met en place les moyens d'entreposage adaptés pour confiner et traiter les émissions. Ces moyens sont décrits dans le programme de maintenance préventive visé au 3.6.2 ;
 
 - les matières et effluents à traiter sont déchargés dès leur arrivée dans un dispositif de stockage étanche, conçu pour éviter tout écoulement incontrôlé d'effluents liquides ;
 
 - la zone de déchargement est équipée des moyens permettant d'éviter tout envol de matières et de poussières à l'extérieur du site de l'installation.
 
+-les voies de circulation et les aires de stationnement des véhicules sont aménagées (formes de pente, revêtement, etc.) et convenablement nettoyées ;
+
+-les véhicules sortant de l'installation n'entraînent pas d'envol de poussière ou de dépôt de boue sur les voies de circulation publique ;
+
+-dans la mesure du possible, les surfaces sont engazonnées et des écrans de végétation sont mis en place ;
+
+-lorsque le stockage des matières se fait à l'air libre, le dimensionnement intègre, pour les nouveaux ouvrages implantés après le 1er juillet 2021, les effluents, matières semi-liquides à traiter et au besoin les eaux de lavage des surfaces de réception et de manutention des déchets. Ces ouvrages sont implantés de manière à limiter leur impact sur les tiers ;
+
+-tout stockage à l'air libre de matières entrantes, à l'exception des matières végétales brutes et des stockages de fumiers de moins d'un mois et dont les jus sont collectés et traités par méthanisation, est protégé des eaux pluviales et, pour les matières liquides, doté de limiteurs de remplissage ;
+
+-pour les stockages d'intrants solides, de digestat solide et séché de longue durée, des dispositifs de sécurité, notamment à l'aide de sondes de température régulièrement réparties et à différents niveaux de profondeur de stockage, sont mis en place afin de prévenir les phénomènes d'auto-échauffement (feux couvant et émission de monoxyde de carbone) ;
+
+-les unités de séchage de digestat sont nettoyées conformément aux préconisations du constructeur et à minima tous les trois mois afin de retirer tout dépôt ;
+
+-à l'exception des unités de séchage basse température (moins de 85° C), les unités de séchage de digestat sont équipées d'un système de détection de monoxyde de carbone (avec alarme sonore et visuelle) et d'extinction d'incendie ;
+
+-le stockage de liquide inflammable, de combustible et de réactifs (carton, palette, huile thermique, réactifs potentiellement exothermiques comme le chlorure de fer …) est interdit dans les locaux abritant les unités de combustion du biogaz ;
+
+-les installations de manipulation, transvasement, transport de produits pulvérulents, volatils ou odorants sont, sauf impossibilité technique justifiée, munies de dispositifs de capotage et d'aspiration permettant de réduire les émissions dans l'atmosphère ;
+
+-les produits odorants sont stockés en milieu confiné (récipients, silos, bâtiments fermés …).
+
 3.7.2. Surveillance du procédé de méthanisation
 
 3.7.2.1. Les dispositifs assurant l'étanchéité des équipements dont une défaillance est susceptible d'être à l'origine de dégagement gazeux font l'objet de vérifications régulières. Ces vérifications sont décrites dans un programme de maintenance que l'exploitant tient à la disposition des services en charge du contrôle des installations classées.
 
-3.7.2.2. L'installation est équipée des moyens de mesure nécessaires à la surveillance du processus de méthanisation, et notamment de dispositifs de contrôle en continu de la température des matières en fermentation et de la pression du biogaz. L'exploitant spécifie le domaine de fonctionnement des installations pour chaque paramètre surveillé, en définit la fréquence de vérification et spécifie, le cas échéant, les seuils d'alarme associés.
+3.7.2.2. L'installation est équipée des moyens de mesure nécessaires à la surveillance du processus de méthanisation, et notamment de dispositifs de contrôle en continu de la température des matières en fermentation et de la pression du biogaz au sein du digesteur et de la cuve de percolat pour les installations de méthanisation par voie solide ou pâteuse. L'exploitant spécifie le domaine de fonctionnement des installations pour chaque paramètre surveillé, en définit la fréquence de vérification et spécifie, le cas échéant, les seuils d'alarme associés.
+
+Chacune des lignes de méthanisation est équipée des moyens de mesure nécessaires à la surveillance du processus de méthanisation. Le système de surveillance inclut des dispositifs de surveillance ou de modulation des principaux paramètres des déchets et des procédés, y compris :
+
+-le pH et l'alcalinité de l'alimentation du digesteur ;
+
+-la mesure continue de la température de fonctionnement du digesteur et des matières en fermentation et de la pression du biogaz ;
+
+-les niveaux de liquide et de mousse dans le digesteur.
 
 3.7.2.3. L'installation est équipée d'un dispositif de mesure de la quantité de biogaz produit. Ce dispositif est vérifié a minima une fois par an par un organisme compétent. Les quantités de biogaz mesurées et les résultats des vérifications sont tenus à la disposition des services chargés du contrôle des installations.
 
@@ -392,7 +482,7 @@ Objet du contrôle :
 
 L'étanchéité du ou des digesteurs, de leurs canalisations de biogaz et des équipements de protection contre les surpressions et les sous-pressions est vérifiée lors du démarrage et de chaque redémarrage consécutif à une intervention susceptible de porter atteinte à leur étanchéité. L'exécution du contrôle et ses résultats sont consignés.
 
-Lors du démarrage ou du redémarrage ainsi que lors de l'arrêt ou de la vidange de tout ou partie de l'installation, l'exploitant prend les dispositions nécessaires pour limiter les risques de formation d'atmosphères explosives. Il établit une consigne spécifique pour ces phases d'exploitation. Cette consigne spécifie notamment les moyens de prévention additionnels, du point de vue du risque d'explosion, qu'il met en œuvre pendant ces phases transitoires d'exploitation.
+Lors du démarrage ou du redémarrage ainsi que lors de l'arrêt ou de la vidange de tout ou partie de l'installation, l'exploitant prend les dispositions nécessaires pour limiter les risques de formation d'atmosphères explosives. Il établit une consigne spécifique pour ces phases d'exploitation à partir des consignes proposées et explicitées par le concepteur des installations. Cette consigne spécifie notamment les moyens de prévention additionnels, du point de vue du risque d'explosion, qu'il met en œuvre pendant ces phases transitoires d'exploitation.
 
 Pendant ces phases, toute opération ou intervention de nature à accentuer le risque d'explosion est interdite.
 
@@ -404,15 +494,13 @@ Objet du contrôle :
 
 4. Risques
 
-4.1. Localisation des risques : classement en zones à risque d'explosion
+4.1. Localisation des risques : classement en zones à risque d'explosion (Zones ATEX) et zones à risque toxique
 
-L'exploitant identifie les zones présentant un risque de présence d'une atmosphère explosive, qui peut également se superposer à un risque toxique. Ce risque est signalé et, lorsque ces zones sont confinées, elles sont équipées de détecteurs de méthane ou d'alarmes. Il est reporté sur un plan général des ateliers et des stockages indiquant les différentes zones de danger correspondant à ces risques.
-
-Ces zones sont définies sans préjudice des dispositions de l'arrêté du 4 novembre 1993, de l'arrêté du 8 juillet 2003 complétant celui-ci, du décret no 2002-1553 du 24 décembre 2002, ainsi que de l'arrêté du 28 juillet 2003 susvisés. Elles sont reportées sur le plan des installations mentionné au point 1.4. du présent arrêté.
+L'exploitant identifie les zones présentant un risque de présence d'atmosphère explosive, qui peut également se superposer à un risque toxique. Ce risque est signalé et, lorsqu'elles sont confinées (local contenant notamment des canalisations de biogaz), ces zones sont équipées de détecteurs fixes de méthane ou d'alarmes (une alarme visuelle et sonore est déclenchée pour une détection supérieure ou égale à 10 % de la limite inférieure d'explosivité du méthane). Le risque d'explosion ou toxique est reporté sur un plan général des ateliers et des stockages, affiché à l'entrée de l'unité de méthanisation, et indiquant les différentes zones correspondant à ces risques. Dans chacune de ces zones, l'exploitant identifie les équipements ou phénomènes susceptibles de provoquer une explosion ou un risque toxique et les reporte sur le plan ainsi que dans son programme de maintenance préventive.
 
 Objet du contrôle :
 
-- identification et signalisation des zones présentant un risque d'explosion (le non-respect de ce point relève d'une non-conformité majeure).
+-identification et signalisation des zones présentant un risque toxique ou d'explosion (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.2. [ * ]
 
@@ -438,7 +526,7 @@ Objet du contrôle :
 
 4.4. Matériels utilisables dans les zones à risque d'explosion
 
-Le matériel implanté dans les zones pouvant présenter un risque d'explosion, identifiées conformément aux dispositions de l'article 4.1, est conforme aux prescriptions du décret no 96-1010 du 19 novembre 1996 susvisé. Les installations électriques sont réalisées avec du matériel normalisé et installées conformément aux normes applicables, par des personnes compétentes et en conformité avec la réglementation ATEX en vigueur.
+Le matériel implanté dans les zones pouvant présenter un risque d'explosion, identifiées conformément aux dispositions de l'article 4.1, est conforme aux prescriptions du décret n° 2015-799 du 1er juillet 2015 relatif aux produits et équipements à risque. Les installations électriques sont réalisées avec du matériel normalisé et installées conformément aux normes applicables, par des personnes compétentes et en conformité avec la réglementation ATEX en vigueur.
 
 Les gaines et chemins de câbles électriques ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégés contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
 
@@ -456,17 +544,33 @@ Dans les parties de l'installation visées au point 4.1, tous les travaux de ré
 
 Le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière sont établis et visés par l'exploitant ou par la personne qu'il aura expressément désignée. Ils sont délivrés après analyse des risques correspondants et définition des mesures de prévention. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis d'intervention" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation sont cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront désignées.
 
-Avant la remise en service de l'équipement ayant fait l'objet des travaux mentionnés ci-dessus, l'exploitant vérifie que le niveau de prévention des risques n'a pas été dégradé.
+Les documents ou dossier préalable nécessaire à la délivrance du permis comprennent :
+
+-la définition des phases d'activité dangereuses et des moyens de prévention spécifiques correspondants ;
+
+-l'adaptation des matériels, installations et dispositifs à la nature des opérations à réaliser ainsi que la définition de leurs conditions d'entretien ;
+
+-les instructions à donner aux personnes en charge des travaux ;
+
+-l'organisation mise en place pour assurer les premiers secours en cas d'urgence ;
+
+-lorsque les travaux sont effectués par une entreprise extérieure, les conditions de recours par cette dernière à de la sous-traitance et l'organisation mise en place dans un tel cas pour assurer le maintien de la sécurité.
+
+Le respect des dispositions précédentes peut être assuré par l'élaboration du document relatif à la protection contre les explosions défini à l'article R. 4227-52 du code du travail et par l'obtention de l'autorisation mentionnée au 6° de ce même article.
+
+Avant la remise en service de l'équipement ayant fait l'objet des travaux mentionnés ci-dessus, l'exploitant vérifie que le niveau de prévention des risques n'a pas été dégradé. Cette vérification fait l'objet d'un enregistrement annexé au programme de maintenance préventive visé au point 3.6.2.
 
 4.7. Consignes de sécurité
 
-Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Ces consignes indiquent notamment :
+Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté sont établies, tenues à jour et portées à la connaissance du personnel dans les lieux fréquentés par le personnel. Elles font l'objet d'une communication au personnel permanent ainsi qu'aux intérimaires et personnels d'entreprises extérieures appelés à intervenir sur les installations. Ces consignes indiquent notamment :
 
-- l'interdiction d'apporter du feu sous quelque forme que ce soit, dans les parties de l'installation susceptibles de contenir du biogaz ;
+- l'interdiction d'apporter du feu sous quelque forme que ce soit, notamment l'interdiction de fumer, dans les parties de l'installation présentant des risques d'incendie ou d'explosion, sauf délivrance préalable d'un permis de feu ;
 
-- l'obligation du "permis d'intervention" ou du "permis de feu" pour les parties de l'installation susceptibles de contenir du biogaz ;
+- l'obligation du "permis d'intervention" ou du "permis de feu" pour les parties concernées de l'installation ;
 
-- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ;
+- l'interdiction de tout brûlage à l'air libre ;
+
+- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides) ainsi que les conditions de destruction ou de relargage du biogaz ;
 
 - les mesures à prendre en cas de fuite sur un récipient ou une canalisation contenant des substances dangereuses, notamment les conditions de rejet prévues au point 5.7 ;
 
@@ -476,9 +580,17 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc. ;
 
+- les modes opératoires ;
+
+- la fréquence de vérification des dispositifs de sécurité et de limitation ou de traitement des pollutions et nuisances générées ;
+
+- les instructions de maintenance et de nettoyage ;
+
 - les modalités de mise en œuvre des dispositifs d'isolement du réseau de collecte, prévues au point 2.11 ;
 
 - l'obligation d'informer l'inspection des installations classées en cas d'accident.
+
+L'exploitant justifie la conformité avec les prescriptions du présent article en listant les consignes qu'il met en place et en faisant apparaître la date de dernière modification de chacune.
 
 Objet du contrôle :
 
@@ -500,7 +612,27 @@ Toutes dispositions sont prises pour limiter la consommation d'eau.
 
 5.3. Réseau de collecte
 
-Le réseau de collecte est de type séparatif permettant d'isoler les eaux résiduaires souillées des eaux pluviales non susceptibles de l'être. Les points de rejet des eaux résiduaires sont en nombre aussi réduits que possible. Ils sont aménagés pour permettre un prélèvement aisé d'échantillons.
+Le réseau de collecte est de type séparatif permettant d'isoler les eaux résiduaires susceptibles d'être souillées (notamment issues des voies de circulation et des aires de chargement/ déchargement) des eaux pluviales non susceptibles de l'être. Les points de rejet des eaux résiduaires sont en nombre aussi réduits que possible. Ils sont aménagés pour permettre un prélèvement aisé d'échantillons.
+
+Les eaux pluviales non souillées peuvent être rejetées sans traitement préalable.
+
+Les eaux pluviales susceptibles d'être souillées sont dirigées vers un bassin de confinement capable de recueillir le premier flot à raison de 10 litres par mètre carré de surface concernée pour les installations nouvelles. Une analyse au moins annuelle permet de s'assurer du respect des valeurs limites de rejets prévues au point 5.5.
+
+Les conditions de gestion de la canalisation servant à l'évacuation des eaux de pluie des zones de rétention sont définies dans une procédure rédigée et connue des opérateurs du site.
+
+L'installation est équipée de dispositifs étanches qui doivent pouvoir recueillir et confiner l'ensemble des eaux susceptibles d'être polluées lors d'un accident ou d'un incendie.
+
+Toutes mesures sont prises pour recueillir l'ensemble des eaux et écoulements susceptibles d'être pollués lors d'un sinistre, y compris les eaux utilisées lors d'un incendie, afin que celles-ci soient récupérées ou traitées afin de prévenir toute pollution des sols, des égouts, des cours d'eau ou du milieu naturel.
+
+En cas de recours à des systèmes de relevage autonomes, l'exploitant est en mesure de justifier à tout instant d'un entretien et d'une maintenance rigoureux de ces dispositifs. Des tests réguliers sont par ailleurs menés sur ces équipements.
+
+En cas de confinement interne dans des bâtiments couverts, les orifices d'écoulement sont en position fermée par défaut.
+
+En cas de confinement externe, les orifices d'écoulement issus de ces dispositifs sont munis d'un dispositif d'obturation à déclenchement automatique ou commandable à distance pour assurer ce confinement lorsque des eaux susceptibles d'être pollués y sont portées.
+
+Ces dispositifs permettant l'obturation des différents réseaux (eaux usées et eaux pluviales) sont implantés de sorte à maintenir sur le site les eaux d'extinction d'un sinistre ou les épandages accidentels. Ils sont clairement signalés et facilement accessibles et peuvent être mis en œuvre dans des délais brefs et à tout moment. Une consigne définit les modalités de mise en œuvre de ces dispositifs. Cette consigne est affichée à l'accueil de l'établissement.
+
+En l'absence de pollution préalablement caractérisée, les eaux confinées qui respectent les valeurs limites autorisées au point 5.5 peuvent être évacuées vers le milieu récepteur. Lorsque ces limites excèdent les objectifs de qualité du milieu récepteur visés au IV de l'article L. 212-1 du code de l'environnement, les eaux confinées ne peuvent toutefois être rejetées que si elles satisfont ces objectifs. Dans le cas contraire, ces eaux sont éliminées vers les filières de traitement des déchets appropriées.
 
 5.4. Mesure des volumes rejetés
 
@@ -524,13 +656,21 @@ b) Dans le cas de rejet dans un réseau d'assainissement collectif muni d'une st
 
 - DBO5 800 mg/l.
 
-c) Dans le cas de rejet dans le milieu naturel ou dans un réseau d'assainissement collectif dépourvu de station d'épuration :
+- azote global (exprimé en N) : 150 mg/ l ;
+
+- phosphore total (exprimé en P) : 50 mg/ l.
+
+c) Dans le cas de rejet dans le milieu naturel ou dans un réseau d'assainissement collectif dépourvu de station d'épuration, les valeurs limites de concentration imposées à l'effluent comme aux eaux pluviales sont les suivantes :
 
 - matières en suspension : la concentration ne doit pas dépasser 100 mg/l si le flux journalier n'excède pas 15 kg/j, 35 mg/l au-delà ;
 
 - DCO : la concentration ne doit pas dépasser 300 mg/l si le flux journalier n'excède pas 100 kg/j, 125 mg/l au-delà ;
 
 - DBO5 : la concentration ne doit pas dépasser 100 mg/l si le flux journalier n'excède pas 30 kg/j, 30 mg/l au-delà.
+
+- azote global : la concentration en moyenne mensuelle ne doit pas dépasser 30 mg/ l si le flux journalier excède 50 kg/ j, 15 mg/ l si le flux journalier excède 150 kg/ j et 10 mg/ l si le flux journalier excède 300 kg/ j ;
+
+- phosphore total : la concentration en moyenne mensuelle ne doit pas dépasser 10 mg/ l si le flux journalier excède 15kg/ j, 2 mg/ l si le flux journalier excède 40 kg/ j, et 1 mg/ l si le flux journalier excède 80 kg/ j.
 
 Dans tous les cas, les rejets doivent être compatibles avec la qualité ou les objectifs de qualité des cours d'eau.
 
@@ -606,13 +746,37 @@ Le débit est également mesuré, ou estimée à partir des consommations, si ce
 
 6.1. Captage et épuration des rejets à l'atmosphère
 
-Les installations comportant des phases de travail provoquant de fortes émissions de poussières sont équipées de dispositifs permettant de collecter, canaliser et traiter autant que possible les effluents gazeux.
+Les équipements et infrastructures susceptibles de dégager des poussières, des gaz ou des composés odorants sont exploités de manière à prévenir les émissions et sont, le cas échéant, équipés de dispositifs permettant de collecter, canaliser et traiter autant que possible les émissions.
 
 Si la circulation d'engins ou de véhicules dans l'enceinte de l'installation entraîne de fortes émissions de poussières, l'exploitant prend les dispositions utiles pour en limiter la formation.
 
 6.2. Prévention des nuisances odorantes
 
-Sans préjudice des dispositions du code du travail, les installations et les entrepôts pouvant dégager des émissions odorantes sont aménagés autant que possible dans des locaux confinés et si besoin ventilés. Les effluents gazeux canalisés odorants sont, le cas échéant, récupérés et acheminés vers une installation d'épuration des gaz. Les sources potentielles d'odeurs (bassin de stockage, bassin de traitement...) difficiles à confiner en raison de leur grande surface sont implantées de manière à limiter la gêne pour le voisinage en tenant compte, notamment, de la direction des vents dominants.
+6.2.1. L'exploitant conçoit et gère son installation de façon à prendre en compte et à limiter les nuisances odorantes. Il réalise à cet effet un dossier consacré à cette problématique, qui comporte notamment :
+
+-la liste des principales sources d'émissions odorantes vers l'extérieur, qu'elles soient continues ou discontinues, concentrées ou diffuses ;
+
+-une liste des opérations critiques susceptibles de provoquer des émissions importantes d'odeurs, précisant la fréquence correspondante de chacune d'elles ;
+
+-un document précisant les moyens techniques ou les modes d'exploitation mis en œuvre pour limiter les émissions odorantes, notamment pour chacune des opérations critiques identifiées à l'alinéa précédent.
+
+6.2.2. Sans préjudice des dispositions du code du travail, les installations et les entrepôts pouvant dégager des émissions odorantes sont aménagés autant que possible dans des locaux confinés et si besoin ventilés. Les effluents gazeux canalisés odorants sont, le cas échéant, récupérés et acheminés vers une installation d'épuration des gaz. Les sources potentielles d'odeurs (bassin de stockage, bassin de traitement...) difficiles à confiner en raison de leur grande surface sont implantées de manière à limiter la gêne pour le voisinage en tenant compte, notamment, de la direction des vents dominants.
+
+En cas de plainte, le préfet peut exiger la production, aux frais de l'exploitant, d'un état des perceptions olfactives présentes dans l'environnement. Les mesures d'odeurs et d'intensité odorante réalisées selon les méthodes normalisées de référence sont présumées satisfaire aux exigences énoncées au présent article. Ces méthodes sont fixées dans un avis publié au Journal officiel de la République française.
+
+6.2.3. L'exploitant tient à jour et à la disposition de l'inspection des installations classées un registre des éventuelles plaintes qui lui sont communiquées, comportant les informations nécessaires pour caractériser les conditions d'apparition des nuisances ayant motivé la plainte : date, heure, localisation, conditions météorologiques, correspondance éventuelle avec une opération critique.
+
+Pour chaque événement signalé, l'exploitant identifie les causes des nuisances constatées et décrit les mesures qu'il met en place pour prévenir le renouvellement des situations d'exploitation à l'origine de la plainte.
+
+En dehors des cas où l'environnement de l'installation présente une sensibilité particulièrement faible, et notamment en cas d'absence de zone d'occupation humaine répertoriée dans un rayon de 1 kilomètre autour de l'installation :
+
+-l'exploitant tient à jour et joint au programme mentionné au point 3.6.2 un cahier de conduite de l'installation sur lequel il reporte les dates, heures et descriptifs des opérations critiques réalisées ;
+
+-l'exploitant d'une installation nouvelle recevant des boues d'épuration fait réaliser par un organisme compétent un état des perceptions odorantes présentes dans l'environnement du site avant la mise en route de l'installation (état zéro), indiquant, dans la mesure du possible, les caractéristiques des odeurs perçues dans l'environnement : nature, intensité, origine (en discriminant des autres odeurs les odeurs provenant des activités éventuellement déjà présentes sur le site), type de perception (odeur perçue par bouffées ou de manière continue). Cet état zéro des perceptions odorantes est, le cas échéant, joint au dossier mentionné au point 1.4.
+
+En cas de nuisances importantes, l'exploitant fait réaliser par un organisme compétent un diagnostic et une étude de dispersion pour identifier les sources odorantes sur lesquelles des modifications sont à apporter pour que l'installation respecte l'objectif suivant de qualité de l'air ambiant : la concentration d'odeur imputable à l'installation au niveau des zones d'occupation humaine dans un rayon de 3 000 mètres des limites clôturées de l'installation ne doit pas dépasser la limite de 5 uoE/ m3 plus de 175 heures par an, soit une fréquence de dépassement de 2 %.
+
+6.2.4. L'exploitant d'une installation dotée d'équipements de traitement des odeurs, tels que laveurs de gaz ou biofiltres, procède au contrôle de ces équipements au minimum une fois tous les trois ans. Ces contrôles, effectués en amont et en aval de l'équipement, sont réalisés par un organisme disposant des connaissances et des compétences requises ; ils comportent a minima la mesure des paramètres suivants : composés soufrés, ammoniac et concentration d'odeur. Les résultats de ces contrôles, précisant l'organisme qui les a réalisés, les méthodes mises en oeuvre et les conditions dans lesquelles ils ont été réalisés, sont reportés dans le programme mentionné au point 3.6.2.
 
 6.3. [ * ]
 
