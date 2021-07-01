@@ -1031,3 +1031,7 @@ Installation de machines et équipements mécaniques lorsqu'au moins 50 % du chi
 Commerce de gros de café, thé, cacao et épices lorsqu'au moins 50 % du chiffre d'affaires est réalisé avec une ou des entreprises du secteur de l'hôtellerie ou de la restauration
 
 |
+
+130 |
+
+Fabricants de vêtements de dessus et fabrication de vêtements de dessous ; Fabrication d'articles à mailles |
