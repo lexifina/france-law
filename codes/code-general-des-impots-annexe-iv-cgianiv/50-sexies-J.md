@@ -1,6 +1,6 @@
 # Article 50 sexies J
 
-Les informations prévues au 2 de l'article 298 sexdecies F et au V de l'article 298 sexdecies G du code général des impôts sont les suivantes :
+Les informations prévues au 2 de l'article 298 sexdecies F et au II de l'article 298 sexdecies G du code général des impôts sont les suivantes :
 
 a. Raison sociale ;
 
@@ -17,3 +17,7 @@ f. Description de l'activité ;
 g. Numéro d'identification fiscal national ;
 
 h. Déclaration attestant, le cas échéant, que l'entreprise n'a pas établi le siège de son activité économique sur le territoire de l'Union européenne et qu'elle n'y dispose pas d'un établissement stable.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 31 mai 2021 (NOR : CCPE2112747A), ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur de la taxe sur la valeur ajoutée intervient à compter du 1er juillet 2021.
