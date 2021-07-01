@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de recrutement de sept nouveaux apprentis au sein de la Ville - année scolaire 2021/2022
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-07-01
+- Matière : RESSOURCES HUMAINES
+- Objet : Autorisation de recrutement de sept nouveaux apprentis au sein de la Ville - année scolaire 2021/2022
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNjIsInB1ciI6ImJsb2JfaWQifX0=--d508469a534a2a249950d448bdaf3c641c6882b1/010721_17.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
