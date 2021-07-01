@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport annuel d'exécution du délégataire du service public pour la mise en fourrière des véhicules sur l'exercice 2020
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-07-01
+- Matière : ESPACES PUBLICS
+- Objet : Présentation du rapport annuel d'exécution du délégataire du service public pour la mise en fourrière des véhicules sur l'exercice 2020
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MjIsInB1ciI6ImJsb2JfaWQifX0=--3dc0b52bbe93e2fe2fc2988f5a512197499ce131/010721_37.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
