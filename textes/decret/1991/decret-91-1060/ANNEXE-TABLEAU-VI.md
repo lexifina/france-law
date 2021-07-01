@@ -8,10 +8,6 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
-1. Chef d'échelon de jauge.
-
-|
-
 2. Chef de subdivision :
 
 |
@@ -37,10 +33,6 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 |
 
 3. Adjoint à un chef divisionnaire.
-
-|
-
-4. Jaugeur.
 
 |
 
@@ -120,11 +112,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 |
 
-24. Agents exerçant des missions de sûreté, affectés au tunnel sous la Manche, à Lille TGV et gare du Nord.
-
-|
-
-25. Responsable, au niveau départemental, de la coordination du retrait des fruits et légumes.
+24. Agents exerçant des missions de sûreté, affectés au tunnel sous la Manche, à Lille TGV et à gare du Nord ou agents exerçant des missions de contrôles des matières dangereuses, affectés au tunnel du Fréjus ou au tunnel du Mont-Blanc.
 
 |
 
@@ -206,4 +194,4 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 2014-826 du 21 juillet 2014, les présentes dispositions entrent en vigueur le 1er juillet 2014, à l'exception des dispositions relatives aux personnels de catégorie A qui seront applicables à compter du 1er septembre 2014.
+Conformément à l'article 2 du décret n° 2021-698 du 1er juin 2021, les présentes dispositions entrent en vigueur le premier jour du mois suivant leur publication.
