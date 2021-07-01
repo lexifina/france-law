@@ -96,7 +96,7 @@ A.-Locaux auxquels s'applique la présente convention.
 
 1.2. Nombre de logements qu'il est possible d'attribuer à des personnes dont les ressources excèdent les plafonds de ressources prévus au premier alinéa de l'article D. 331-12 précité pour l'attribution des logements sociaux, dans la limite de 120 % de ces plafonds (article 8 de la présente convention)
 
-2. Surface habitable totale (art. R. 111-2 du code de la construction et de l'habitation) :
+2. Surface habitable totale (art. R. 156-1 du code de la construction et de l'habitation) :
 
 3. Surface totale des annexes entrant dans le calcul de la surface utile ( art. D. 353-16 (2°) du code de la construction et de l'habitation ) :
 

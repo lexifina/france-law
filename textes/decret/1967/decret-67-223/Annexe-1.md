@@ -484,13 +484,13 @@ Opposition sur mutation (article 20 I de la loi du 10 juillet 1965).
 
 |
 
-9.3 Frais de délivrance des documents sur support papier (art. 33 du décret du 17 mars 1967 et R. 134-3 du code de la construction et de l'habitation) |
+9.3 Frais de délivrance des documents sur support papier (art. 33 du décret du 17 mars 1967 et R.126-17 du code de la construction et de l'habitation) |
 
 Délivrance d'une copie du carnet d'entretien ;
 
 Délivrance d'une copie des diagnostics techniques ;
 
-Délivrance des informations nécessaires à la réalisation d'un diagnostic de performance énergétique individuel mentionnées à l'article R. 134-3 du code de la construction et de l'habitation ;
+Délivrance des informations nécessaires à la réalisation d'un diagnostic de performance énergétique individuel mentionnées à l'article R.126-17 du code de la construction et de l'habitation ;
 
 Délivrance au copropriétaire d'une copie certifiée conforme ou d'un extrait de procès-verbal d'assemblée générale ainsi que des copies et annexes (hors notification effectuée en application de l'article 18 du décret du 17 mars 1967).
 

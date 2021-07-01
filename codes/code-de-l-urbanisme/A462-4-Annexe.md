@@ -8,19 +8,19 @@ Je soussigné :
 
 agissant au nom de la société :
 
-contrôleur technique au sens de l'article L. 111-23 du code de la construction et de l'habitation, titulaire de l'agrément délivré par décision ministérielle du :.... /.... /.....
+contrôleur technique au sens de l'article L. 125-1 du code de la construction et de l'habitation, titulaire de l'agrément délivré par décision ministérielle du :..../..../.....
 
 Atteste que le maître d'ouvrage :
 
 de l'opération de construction suivante :
 
-Permis de construire en date du :...... /...... /......
+Permis de construire en date du :....../....../......
 
 a confié à :, au titre des alinéas 4° et 5°
 
-de l'article R. 111-38 du CCH, une mission parasismique par convention de contrôle technique n° :
+de l'article R. 125-17 du CCH, une mission parasismique par convention de contrôle technique n° :
 
-en date du :.... /.... /....
+en date du :..../..../....
 
 A l'issue de cette mission, réalisée dans les termes et conditions de la convention précitée, le contrôleur technique atteste que le maître d'ouvrage a tenu compte de ses avis relatifs au respect des règles de construction parasismique.
 

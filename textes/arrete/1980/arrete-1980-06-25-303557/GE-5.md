@@ -8,7 +8,7 @@ Cet avis, du modèle ci-après, est dûment rempli par l'exploitant et sous sa r
 
 Sécurité incendie
 
-Conformément aux dispositions des articles R. 123-18 et 19, R. 123-45 et 46 du code de la construction et de l'habitation, notre établissement répond aux caractéristiques suivantes :
+Conformément aux dispositions des articles R. 143-18 et 19, R. 143-38 et 39 du code de la construction et de l'habitation, notre établissement répond aux caractéristiques suivantes :
 
 Type :
 

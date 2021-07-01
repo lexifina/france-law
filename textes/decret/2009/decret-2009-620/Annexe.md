@@ -160,7 +160,7 @@ Commission d'agrément des contrôleurs techniques de la construction. |
 
 |
 
-Articles R. 111-29 et R. 111-34 du code de la construction et de l'habitation. |
+Articles R. 125-1 et R. 125-11 du code de la construction et de l'habitation. |
 
 Commission d'agrément des laboratoires ou des organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère. |
 

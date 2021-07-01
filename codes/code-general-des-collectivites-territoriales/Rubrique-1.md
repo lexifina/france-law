@@ -22,7 +22,7 @@ Convention ou décision de justice passée en force de chose jugée (1) ou, le c
 
 2. Attestation de défaillance établie par le syndic de copropriété précisant notamment la date du procès-verbal de l'assemblée générale et le récapitulatif des impayés pour chaque copropriétaire.
 
-(2) Article L. 1331-29 III et les articles R. 1331-6 à R. 1331-8 du code de la santé publique pour ce qui concerne l'insalubrité ; l'article L. 511-2 IV et les articles R. 511-8 à R. 511-10 du code de la construction et de l'habitation (CCH) pour ce qui concerne le péril, les articles L. 129-2 et R. 129-7 du CCH pour les équipements communs des immeubles collectifs.
+(2) Article L. 1331-29 III et les articles R. 1331-6 à R. 1331-8 du code de la santé publique pour ce qui concerne l'insalubrité ; l'article L. 511-2 IV et les articles R. 511-8 à R. 511-10 du code de la construction et de l'habitation (CCH) pour ce qui concerne le péril, les articles L. 126-8 et R. 511-11 du code de la construction et de l'habitation pour les équipements communs des immeubles collectifs.
 
 12. Reversement d'excédents de budgets annexes (3)
 

@@ -96,11 +96,11 @@ Arrêté du préfet de police du 4 juin 1973.
 
 Commission départementale de sécurité pour Paris :
 
-Article R. 123-53 du code de la construction.
+Article R. 143-46 du code de la construction et de l'habitation.
 
 Commission départementale de sécurité pour le Val-de-Marne, les Hauts-de-Seine et la Seine-Saint-Denis :
 
-Article R. 123-53 du code de la construction.
+Article R. 143-46 du code de la construction et de l'habitation.
 
 MINISTERE DES TRANSPORTS.
 

@@ -92,7 +92,7 @@ Villeneuve-sur-Lot. |
 
 36° Des demandes de désignation d'expert prévues à l'article L. 429-32 du code de l'environnement ;
 
-37° Des actions mentionnées à l'article R. 136-2 du code de la construction et de l'habitation ;
+37° Des actions mentionnées aux articles R. 113-7 à R. 113-10 du code de la construction et de l'habitation ;
 
 38° Des actions mentionnées à l'article L. 271-5 du code de l'action sociale et des familles ;
 

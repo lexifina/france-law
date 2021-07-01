@@ -56,7 +56,7 @@ VI. – Le prix de revient mentionné au II de l'article 199 undecies C du code 
 
 8° Les dépenses de plantations, espaces verts et aménagements paysagers attenants aux habitations, dans la limite globale de 0, 80 % du montant total des dépenses mentionnées au 4° ;
 
-9° Les honoraires de géomètres, architectes, techniciens, de réalisation de plans, d'études techniques préalables, de direction d'opération, de pilotage, de coordination, de contrôle et de sécurité, de maîtrise d'ouvrage et maîtrise d'ouvrage déléguée, de certification, d'assurance dommage obligatoire et en application de l'article L. 111-30 du code de la construction et de l'habitation, dans la limite globale de 12 % du montant total des dépenses mentionnées du 3° au 7°. Cette limite peut être portée à 15 % pour les programmes ou ensembles d'investissements d'un montant inférieur à 10 millions d'euros.
+9° Les honoraires de géomètres, architectes, techniciens, de réalisation de plans, d'études techniques préalables, de direction d'opération, de pilotage, de coordination, de contrôle et de sécurité, de maîtrise d'ouvrage et maîtrise d'ouvrage déléguée, de certification, d'assurance dommage obligatoire et en application de l'article L. 242-1 du code des assurances, dans la limite globale de 12 % du montant total des dépenses mentionnées du 3° au 7°. Cette limite peut être portée à 15 % pour les programmes ou ensembles d'investissements d'un montant inférieur à 10 millions d'euros.
 
 VII. – 1. Pour l'application des dispositions de l'article 199 undecies C du code général des impôts, les ressources du locataire, les personnes composant son foyer ou à sa charge et la surface à prendre en compte sont déterminées ainsi qu'il est dit aux articles 46 AG duodecies et 46 AG terdecies.
 

@@ -52,4 +52,4 @@ Majoration par personne à charge supplémentaire, dans la limite de cinq person
 
 Les personnes à charge s'entendent de celles mentionnées aux articles 196 à 196 B du code général des impôts.
 
-III. – La surface à prendre en compte s'entend de la surface habitable au sens de l'article R*111-2 du code de la construction et de l'habitation. Il est toutefois tenu compte de la surface des varangues dans une limite maximale de 14 mètres carrés.
+III. – La surface à prendre en compte s'entend de la surface habitable au sens de l'article R. 156-1 du code de la construction et de l'habitation. Il est toutefois tenu compte de la surface des varangues dans une limite maximale de 14 mètres carrés.

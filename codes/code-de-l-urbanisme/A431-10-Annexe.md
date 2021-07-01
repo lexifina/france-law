@@ -10,7 +10,7 @@ Je soussigné :
 
 agissant au nom de la société :
 
-contrôleur technique au sens de l'article L. 111-23 du code de la construction et de l'habitation, titulaire de l'agrément délivré par décision ministérielle du :.... /.... /.....
+contrôleur technique au sens de l'article L. 125-1 du code de la construction et de l'habitation, titulaire de l'agrément délivré par décision ministérielle du :.... /.... /.....
 
 Atteste que le maître d'ouvrage de l'opération de construction suivante :
 

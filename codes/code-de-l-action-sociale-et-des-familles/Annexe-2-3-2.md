@@ -8,7 +8,7 @@ I. - Prestations d'administration générale :
 
 2° Elaboration et suivi du contrat de séjour, de ses annexes et ses avenants.
 
-II. - Mise à disposition d'un logement privatif, au sens de l'article R. 111-3 du code de la construction et de l'habitation, comprenant en sus des connectiques nécessaires pour recevoir la télévision et installer le téléphone.
+II. - Mise à disposition d'un logement privatif, au sens de l'article R. 151-1 du code de la construction et de l'habitation, comprenant en sus des connectiques nécessaires pour recevoir la télévision et installer le téléphone.
 
 III. - Mise à disposition et entretien de locaux collectifs en application de l'article R. 633-1 du code de la construction et de l'habitation :
 

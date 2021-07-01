@@ -6,7 +6,7 @@ a) Pour les baux conclus en 2021, les plafonds de loyer mensuel, charges non com
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du logement.
 
-La surface à prendre en compte pour l'appréciation du plafond de loyer s'entend de la surface habitable au sens de l'article R. 111-2 du code de la construction et de l'habitation, augmentée de la moitié, dans la limite de 8 mètres carrés par logement, de la surface des annexes mentionnées aux articles D. 353-16 et D. 331-10 du même code ;
+La surface à prendre en compte pour l'appréciation du plafond de loyer s'entend de la surface habitable au sens de l'article R. 156-1 du code de la construction et de l'habitation, augmentée de la moitié, dans la limite de 8 mètres carrés par logement, de la surface des annexes mentionnées aux articles D. 353-16 et D. 331-10 du même code ;
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
