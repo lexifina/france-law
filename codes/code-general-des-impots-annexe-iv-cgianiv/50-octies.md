@@ -10,7 +10,7 @@ Les biens désignés ci-après sont admis en exonération de la taxe sur la vale
 
 4° Les biens constituant les trousseaux, requis d'études et autres objets mobiliers d'élèves ou d'étudiants ;
 
-5° Les envois d'une valeur qui n'excède pas 22 €, à l'exclusion des biens importés dans le cadre d'une vente par correspondance ;
+5° Les biens compris dans un envoi d'une valeur intrinsèque qui n'excède pas 22 €, lorsque l'importation est réalisée en Guadeloupe, à La Réunion ou en Martinique ;
 
 6° Les envois adressés de particulier à particulier, dans la limite d'une valeur globale n'excédant pas 45 € ou, pour les marchandises désignées ci-après dans les limites quantitatives suivantes par envoi :
 
@@ -157,3 +157,7 @@ b. Les biens de première nécessité adressés à titre gratuit à des organism
 32° Les matériels visuels et auditifs de caractère éducatif, scientifique ou culturel indiqués au B de l'annexe I du règlement (CEE) du 28 mars 1983 susmentionné, quel que soit l'usage auquel ils sont destinés ;
 
 33° Les objets de collection et objets d'art de caractère éducatif, scientifique ou culturel, non destinés à la vente et importés par des musées, galeries et autres établissements agréés par l'administration des douanes et droits indirects pour recevoir ces objets en exonération.L'exonération n'est accordée que lorsque les objets sont importés à titre gratuit ou, s'ils sont importés à titre onéreux, lorsqu'ils ne sont pas livrés par un assujetti ou une personne agissant comme tel, sans préjudice des exonérations mentionnées au 8° du II de l'article 291 du code général des impôts.
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 31 mai 2021 (NOR :CCPE2112752A), ces dispositions s'appliquent aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter du 1er juillet 2021.
