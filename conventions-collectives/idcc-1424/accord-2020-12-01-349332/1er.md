@@ -1,0 +1,5 @@
+# Article 1er
+
+Les présentes dispositions s'appliquent aux entreprises visées à l'article 1er de la convention collective nationale des réseaux de transports publics urbains de voyageurs de toute taille, sans qu'il y ait lieu de prévoir des dispositions spécifiques pour les entreprises de moins de 50 salariés, lorsque survient un changement d'exploitant d'un service ou d'une partie de service de transport public de voyageurs organisé par Île-de-France Mobilités ou toute autre autorité organisatrice qui lui serait déléguée ou substituée, à défaut d'application de l'article L. 1224-1 du code du travail.
+
+Elles s'appliquent également en cas de changement d'exploitant d'un service ou d'une partie de service de transport public de voyageurs organisé par Île-de-France Mobilités ou toute autre autorité organisatrice qui lui serait déléguée ou substituée, à défaut d'application de l'article L. 1224-1 du code du travail, depuis ou vers une entreprise relevant de la convention collective des transports routiers et des activités auxiliaires du transport par application d'un accord de branche étendu prévoyant des dispositions miroirs identiques.
