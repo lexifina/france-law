@@ -174,7 +174,7 @@ Servitudes relatives aux ouvrages de défense des côtes ou de sécurité mariti
 
 Zones et polygones d'isolement créés en application des articles L. 5111-1 à L. 5111-7 du code de la défense ;
 
-Servitudes concernant l'établissement de terrains d'atterrissage destinés en partie ou en totalité à l'armée de l'air instituées en application du décret du 30 octobre 1935 ;
+Servitudes concernant l'établissement de terrains d'atterrissage destinés en partie ou en totalité à l'armée de l'air et de l'espace instituées en application du décret du 30 octobre 1935 ;
 
 Servitudes relatives à certaines installations de défense instituées en application de l'article L. 5114-1 du code de la défense ;
 

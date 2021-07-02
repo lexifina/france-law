@@ -42,9 +42,9 @@ Ces visites ne sont pas rendues.
 
 3. Visites à l'occasion de l'arrivée d'une force maritime :
 
-Des visites sont échangées entre les officiers généraux de marine arrivant dans un port de la métropole ou d'une collectivité d'outre-mer et les officiers généraux des armées de terre ou de l'air en service ou en mission dans ce port.
+Des visites sont échangées entre les officiers généraux de marine arrivant dans un port de la métropole ou d'une collectivité d'outre-mer et les officiers généraux des armées de terre ou de l'air et de l'espace en service ou en mission dans ce port.
 
-Les commandants de force maritime ou de bâtiment isolé, arrivant dans un port non militaire pour un séjour de plus de deux jours, échangent des visites avec les officiers des armées de terre ou de l'air commandants d'armes.
+Les commandants de force maritime ou de bâtiment isolé, arrivant dans un port non militaire pour un séjour de plus de deux jours, échangent des visites avec les officiers des armées de terre ou de l'air et de l'espace commandants d'armes.
 
 La première visite est faite par l'officier de grade inférieur ; à égalité de grade, la visite est faite par l'arrivant.
 
@@ -76,4 +76,4 @@ Cette procédure n'intéresse que les ports ou rades équipés pour rendre ce sa
 
 4. Arrivée d'aéronefs militaires étrangers sur un terrain :
 
-Lorsqu'un détachement aérien ou un aéronef étranger atterrit sur un terrain d'aviation, il y est reçu dans les conditions fixées par le commandant d'armes-ou par le commandant de base, lorsque le terrain se trouve dans une base aérienne de l'armée de l'air ou une base d'aéronautique navale-, qui prend par ailleurs toutes mesures en vue d'assurer la sécurité du matériel et des membres de l'équipage ainsi que leur logement.
+Lorsqu'un détachement aérien ou un aéronef étranger atterrit sur un terrain d'aviation, il y est reçu dans les conditions fixées par le commandant d'armes-ou par le commandant de base, lorsque le terrain se trouve dans une base aérienne de l'armée de l'air et de l'espace ou une base d'aéronautique navale-, qui prend par ailleurs toutes mesures en vue d'assurer la sécurité du matériel et des membres de l'équipage ainsi que leur logement.

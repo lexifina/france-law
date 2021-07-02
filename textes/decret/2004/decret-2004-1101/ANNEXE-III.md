@@ -92,7 +92,7 @@ Honneurs au pavillon national
 
 Article 5
 
-Dans les emprises et camps militaires des armées de terre et de l'air, de la gendarmerie et des formations rattachées, les couleurs nationales sont hissées et rentrées chaque jour aux heures fixées par le commandant d'armes.
+Dans les emprises et camps militaires des armées de terre et de l'air et de l'espace, de la gendarmerie et des formations rattachées, les couleurs nationales sont hissées et rentrées chaque jour aux heures fixées par le commandant d'armes.
 
 Les honneurs sont rendus par un détachement d'effectif variable désigné à cet effet.
 
@@ -128,7 +128,9 @@ Article 6
 
 A bord des bâtiments de la marine nationale et dans les organisations à terre de la marine, la cérémonie se déroule dans les conditions fixées par le règlement particulier en vigueur dans la marine.
 
-Chapitre III : Mise en berne du pavillon national
+Chapitre III :
+
+Mise en berne du pavillon national
 
 Article 7
 

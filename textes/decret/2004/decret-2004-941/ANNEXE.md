@@ -2,7 +2,7 @@
 
 AU DÉCRET N° 2004-941 DU 3 SEPTEMBRE 2004 RELATIF À L'ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE AUX MILITAIRES OCCUPANT CERTAINS POSTES
 
-1. Emplois comportant une responsabilité ou une technicité particulière pouvant donner lieu au versement d'une nouvelle bonification indiciaire aux militaires relevant de l'armée de terre, de l'armée de l'air, de la marine, de la direction générale de l'armement, du service de santé des armées, du service des essences des armées, des affaires pénales militaires et de la poste interarmées :
+1. Emplois comportant une responsabilité ou une technicité particulière pouvant donner lieu au versement d'une nouvelle bonification indiciaire aux militaires relevant de l'armée de terre, de l'armée de l'air et de l'espace, de la marine, de la direction générale de l'armement, du service de santé des armées, du service des essences des armées, des affaires pénales militaires et de la poste interarmées :
 
 -les emplois de niveau de responsabilité 2 (NR 2) : emplois d'encadrement de contact ou de technicité particulière, ou présentant un enjeu dont la latitude d'action ou l'ampleur du champ d'action ou son impact est identifié comme étant de niveau moyen ;
 

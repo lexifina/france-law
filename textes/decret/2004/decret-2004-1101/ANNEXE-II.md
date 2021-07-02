@@ -94,7 +94,7 @@ Délégué général pour l'armement (organismes de l'armement).
 
 |
 
-Chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air.
+Chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air et de l'espace.
 
 |
 
@@ -110,7 +110,7 @@ Inspecteurs généraux des armées.
 
 |
 
-Membres du Conseil supérieur de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie et organismes correspondants pour le service de santé des armées, le service des essences des armées et la direction générale de l'armement.
+Membres du Conseil supérieur de l'armée de terre, de la marine, de l'armée de l'air et de l'espace et de la gendarmerie et organismes correspondants pour le service de santé des armées, le service des essences des armées et la direction générale de l'armement.
 
 |
 
