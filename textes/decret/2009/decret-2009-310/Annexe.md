@@ -4,40 +4,16 @@ EMPRISES DE LA DÉFENSE APPORTÉES À L'ÉPIDE
 
 DÉNOMINATION
 
-et localisation de l'emprise
+et localisation de l'emprise |
 
-|
-
-SUPERFICIE
-
-|
+SUPERFICIE |
 
 VALEUR VÉNALE
 
-(HT)
+(HT) |
 
-|
+Fraction, dépendant de l'emprise dénommée Quartier Lecourbe , à Strasbourg (67) |
 
-Chemin de Tucaut, dépendant de la BA 101 de Toulouse-Francazal (31)
+39 176 m² |
 
-|
-
-103 995 m²
-
-|
-
-900 000 €
-
-|
-
-Fraction, dépendant de l'emprise dénommée Quartier Lecourbe , à Strasbourg (67)
-
-|
-
-39 176 m²
-
-|
-
-6 500 000 €
-
-|
+6 500 000 € |
