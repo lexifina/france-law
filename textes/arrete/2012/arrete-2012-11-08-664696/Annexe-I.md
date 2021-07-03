@@ -1,6 +1,6 @@
 # Article Annexe I
 
-LISTE DES DIPLÔMES OUVRANT DROIT À DISPENSER DES UNITÉS LANGUE VIVANTE 1, FRANÇAIS, HISTOIRE-GÉOGRAPHIE ET ÉDUCATION CIVIQUE, ARTS APPLIQUÉS ET CULTURES ARTISTIQUES, ÉDUCATION SOCIOCULTURELLE, ÉDUCATION PHYSIQUE ET SPORTIVE
+LISTE DES DIPLÔMES OUVRANT DROIT À DISPENSER DES UNITÉS LANGUE VIVANTE A, FRANÇAIS, HISTOIRE-GÉOGRAPHIE ET ENSEIGNEMENT MORAL ET CIVIQUE, ARTS APPLIQUÉS ET CULTURES ARTISTIQUES, ÉDUCATION SOCIOCULTURELLE, ÉDUCATION PHYSIQUE ET SPORTIVE
 
 Baccalauréat général.
 
@@ -20,8 +20,8 @@ Diplôme de technicien podo-orthésiste.
 
 Diplôme de technicien prothésiste-orthésiste.
 
-Toute certification délivrée dans un Etat membre de l'Union européenne, de l'Espace européen ou de l'Association de libre-échange classé au moins au niveau 5 du cadre européen des certifications, à condition qu'elle comprenne au moins une épreuve passée en langue française ou bien que le candidat justifie d'une qualification en langue française relevant du niveau “ B1 + ” du cadre européen commun de référence pour les langues. Sans justification de cette qualification en langue française, ces candidats sont dispensés, à leur demande, de l'unité scientifique et de l'unité d'éducation physique et sportive.
+Toute certification délivrée dans un Etat membre de l'Union européenne, de l'Espace européen ou de l'Association de libre-échange classé au moins au niveau 5 du cadre européen des certifications, à condition qu'elle comprenne au moins une épreuve passée en langue française ou bien que le candidat justifie d'une qualification en langue française relevant du niveau “ B1 + ” du cadre européen commun de référence pour les langues. Sans justification de cette qualification en langue française, ces candidats sont dispensés, à leur demande, de l'unité d'éducation physique et sportive.
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 6 novembre 2019, les présentes dispositions entrent en vigueur à compter de la session 2020.
+Conformément à l'article 14 de l'arrêté du 11 juin 2021, les dispositions relatives aux dispenses d'épreuves d'enseignement général sont applicables à compter de la session d'examen 2022.
