@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FINANCEMENT DE L'ACTION PUBLIQUE - OPÉRATION D'ISOLATION THERMIQUE PAR L'EXTÉRIEUR DES GROUPES SCOLAIRES PONT DE L'ARC ET PAYOT - FONDS RÉGIONAL D'AMÉNAGEMENT DU TERRITOIRE (FRAT) : MISE EN PLACE DU FINANCEMENT DU CONSEIL RÉGIONAL PACA
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-07-05
+- Séance : Conseil Municipal 1CA
+- Objet : FINANCEMENT DE L'ACTION PUBLIQUE - OPÉRATION D'ISOLATION THERMIQUE PAR L'EXTÉRIEUR DES GROUPES SCOLAIRES PONT DE L'ARC ET PAYOT - FONDS RÉGIONAL D'AMÉNAGEMENT DU TERRITOIRE (FRAT) : MISE EN PLACE DU FINANCEMENT DU CONSEIL RÉGIONAL PACA
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12922-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
