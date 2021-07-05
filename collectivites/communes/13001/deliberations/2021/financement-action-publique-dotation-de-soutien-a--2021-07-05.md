@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FINANCEMENT ACTION PUBLIQUE - DOTATION DE SOUTIEN A L'INVESTISSEMENT LOCAL (DSIL) - AMÉLIORATION DU SYSTÈME DE VENTILATION DE LA LAVERIE ET REMPLACEMENT DU SYSTÈME FROID ALIMENTAIRE DE LA CUISINE CENTRALE 1ERE PHASE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-07-05
+- Séance : Conseil Municipal 1CA
+- Objet : FINANCEMENT ACTION PUBLIQUE - DOTATION DE SOUTIEN A L'INVESTISSEMENT LOCAL (DSIL) - AMÉLIORATION DU SYSTÈME DE VENTILATION DE LA LAVERIE ET REMPLACEMENT DU SYSTÈME FROID ALIMENTAIRE DE LA CUISINE CENTRALE 1ERE PHASE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12921-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
