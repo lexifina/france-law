@@ -1,0 +1,35 @@
+# Article 1er
+
+Afin d'assurer un dialogue social serein et constructif les partenaires sociaux de la branche taxis 49.32Z décident de modifier l'article 2.1 de l'article 2 relatif aux dispositions communes à l'accord de création de la CPPNI de la convention collective nationale.
+
+En conséquence l'article 2.1 « Composition » est ainsi rédigé :
+
+« La CPPNI comprend un nombre de représentants de chaque organisation syndicale de salariés représentative au niveau de la branche et un nombre égal de représentants des organisations professionnelles d'employeurs représentatives au niveau de la branche (cf. art. 3.1 du présent accord).
+
+Ce nombre varie selon la nature des réunions (négociation, interprétation).
+
+Les organisations syndicales ou patronales devront dans la mesure du possible veiller à la mixité de leur représentation.
+
+Les représentants des organisations syndicales de salariés représentatives dans la branche sont désignés pour une durée indéterminée par les fédérations nationales de ces mêmes organisations et les représentants des organisations professionnelles d'employeurs sont désignés par les organisations patronales représentatives dans la branche.
+
+(1)
+
+Les organisations syndicales de salariés représentatives dans la branche devront fournir aux organisations professionnelles d'employeurs représentatives la liste de leurs représentants au sein de la CPPNI ainsi que, par la suite, les modifications qu'elles pourraient être amenées à y faire.
+
+Lorsque la réunion porte sur un sujet demandant une technicité particulière, chaque organisation syndicale de salarié et les organisations professionnelles d'employeurs ont la possibilité de procéder à une désignation si nécessaire.
+
+Parmi les représentants désignés par les deux collèges, les membres de la CPPNI désigneront un président et un vice-président.
+
+En effet, la présidence de la CPPNI est assurée de façon paritaire par un président et un vice-président issus de chaque collège et désignés paritairement pour une durée de 2 ans. À chaque renouvellement, tous les 2 ans, la répartition du poste de président et de vice-présidence se fait alternativement et paritairement entre les deux collèges.
+
+La présidence paritaire a pour rôle de :
+
+– représenter la commission dans ses activités et de l'en tenir informée ;
+
+– fixer et d'assurer la tenue de l'ordre du jour des réunions ;
+
+– mettre en débat les points mis à l'ordre du jour. »
+
+(1) Alinéa étendu sous réserve du respect de l'application du principe d'égalité à valeur constitutionnelle résultant de l'article 6 de la Déclaration des droits de l'homme et du citoyen du 26 août 1789 et du 6e alinéa du préambule de la Constitution de 1946, tel qu'interprété par la Cour de Cassation (Cass. soc. 29 mai 2001, Cegelec).
+
+(Arrêté du 17 septembre 2021 - art. 1)
