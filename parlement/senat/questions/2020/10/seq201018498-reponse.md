@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018498
+
+- Question : [SEQ201018498](seq201018498.md) — Implantation d'une mairie hors du territoire de la commune
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-07-08, page 4260*
+
+Plusieurs dispositions permettent d'affirmer que la mairie est située sur le territoire de la commune. S'agissant par exemple du lieu de réunion du conseil municipal, l'article L. 2121-7 du code général des collectivités territoriales (CGCT) dispose en son alinéa 4 que "Le conseil municipal se réunit et délibère à la mairie de la commune. Il peut également se réunir et délibérer, à titre définitif, dans un autre lieu situé sur le territoire de la commune, dès lors que ce lieu ne contrevient pas au principe de neutralité, qu'il offre les conditions d'accessibilité et de sécurité nécessaires et qu'il permet d'assurer la publicité des séances". Concernant les mariages, l'article 75 du code civil prévoit qu'ils sont célébrés à la mairie. L'article L. 2121-30-1 du CGCT ajoute que "Pour l'application de l'article 75 du code civil, le maire peut, sauf opposition du procureur de la République, affecter à la célébration de mariages tout bâtiment communal, autre que celui de la maison commune, situé sur le territoire de la commune". Par ailleurs, l'article L. 2321-2 du CGCT prévoit que "Les dépenses obligatoires [de la commune] comprennent notamment : / 1° L'entretien de l'hôtel de ville ou, si la commune n'en possède pas, la location d'une maison ou d'une salle pour en tenir lieu". Toute commune doit se doter d'une mairie, et dans la mesure où l'entretien de la mairie incombe à la commune, il est possible de déduire que le bâtiment affecté à cet effet se situe sur le territoire communal. Le Gouvernement n'a pas connaissance de l'existence d'une commune dont la mairie serait située à l'extérieur de son territoire.
