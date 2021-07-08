@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219845
+
+- Question : [SEQ201219845](seq201219845.md) — Projet de loi de finances pour 2021 et conséquences sur le contrat de présence postale territoriale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-07-08, page 4264*
+
+La mission d'aménagement du territoire de La Poste est financée à travers un fonds national, alimenté par un abattement sur le montant des taxes locales dues par La Poste. Le montant du fonds est arrêté tous les trois ans par une convention tripartite conclue entre l'État, La Poste et l'Association des maires de France. Pour la période 2020-2022 le montant du fonds s'élève à 174 millions d'euros par an. La baisse de la fiscalité professionnelle locale votée dans la loi de finances pour 2021 se traduit mécaniquement par une diminution de cet abattement, puisque l'impôt dû est lui-même réduit. Dans le même temps, La Poste réalise un gain fiscal de même valeur grâce à la baisse des impôts de production. Ainsi, en 2021, La Poste économisera 108 millions d'euros au titre de l'abattement « historique », et 66 millions d'euros du fait de la baisse des impôts de production. Cette situation aurait pu entraîner une diminution du montant abondant le fonds postal de péréquation, qui n'est alimenté que par le redéploiement du gain tiré de l'abattement « historique ». C'est la raison pour laquelle le Gouvernement a proposé d'ouvrir une dotation dans la loi de finances pour 2021, d'un montant de 66 millions d'euros en autorisations d'engagement et en crédits de paiement sur le programme « Développement des entreprises et régulations » au profit de La Poste. Ce montant viendra abonder le fonds en complément de la participation de La Poste qui pourra ainsi conserver le bénéfice de la baisse des impôts de production. Le fonds atteindra donc bien 174 millions d'euros en 2021.
