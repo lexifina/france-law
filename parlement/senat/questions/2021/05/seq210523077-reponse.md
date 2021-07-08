@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210523077
+
+- Question : [SEQ210523077](seq210523077.md) — Régime des actes administratifs liés à l'achat d'un bien immobilier en Alsace-Moselle
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-07-08, page 4265*
+
+Lorsqu'elles souhaitent acquérir un bien immobilier, les communes doivent consulter le service de la direction de l'immobilier de l'État en application des articles L. 1311-9 à L. 1311-12 du code général des collectivités territoriales (CGCT). Cette acquisition est ensuite autorisée par une délibération motivée du conseil municipal (article L. 2241-1 du CGCT). L'article L. 1212-1 du code général de la propriété des personnes publiques, applicable dans les communes d'Alsace-Moselle, prévoit que les personnes publiques ont le choix entre deux types d'actes authentiques pour l'acquisition d'un bien immobilier : l'acte notarié ou l'acte en la forme administrative. L'article L. 1212-7 du même code précise que « la réception et l'authentification des actes d'acquisitions immobilières passés en la forme administrative par les collectivités territoriales des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, leurs groupements et leurs établissements publics ont lieu dans les conditions fixées à l'article L.1311-14 du code général des collectivités territoriales ». Il ressort de l'article L.1311-14 du CGCT, qui reprend le droit commun de l'article L. 1311-13 du CGCT, que les maires sont habilités à recevoir et à authentifier, en vue de leur publication au livre foncier, les actes en la forme administrative passés par la collectivité européenne d'Alsace et le département de la Moselle. Par conséquent, malgré la particularité du régime du livre foncier en Alsace Moselle, les actes d'acquisitions immobilières passés en la forme administrative par ces collectivités ne relèvent pas d'un régime spécifique.
