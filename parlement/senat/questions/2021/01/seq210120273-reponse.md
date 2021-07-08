@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120273
+
+- Question : [SEQ210120273](seq210120273.md) — Soutien à la filière d'élevage du petit gibier
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-07-08, page 4240*
+
+La crise sanitaire actuelle a des impacts importants pour de nombreuses filières agricoles et agroalimentaires. C'est notamment le cas des éleveurs de petit gibier. Ces derniers ont dû faire face à d'importantes difficultés en raison des effets combinés des mesures adoptées pour contrer la propagation de la covid-19 et l'épizootie d'influenza aviaire. Pour ces éleveurs, la situation et les enjeux pouvant être très différents d'une région à l'autre, les services de l'État en région ont été mobilisés dès fin 2020 pour, d'une part, dresser un état des lieux local précis et, d'autre part, identifier les actions envisageables et les mettre en œuvre. Cette mobilisation a notamment conduit, là où c'était possible et souhaité par les fédérations de chasse, à étendre au maximum les périodes de chasse dans la limite des dates de fermeture générale prévues par les dispositions précisées par le code de l'environnement et à aider les éleveurs à trouver des débouchés pour leur gibier. Par ailleurs, au vu des particularités de la filière, un dispositif spécifique va également être mis en place afin de soutenir financièrement les éleveurs. Ce dispositif sera scindé en deux volets avec un guichet unique. Un premier volet, reprenant les critères du fonds de solidarité pour le mois de novembre en l'adaptant aux élevages de gibier, ouvert le 1er juin 2021. Un second volet, visant à indemniser les pertes de chiffre d'affaires et les surcoûts induits par le maintien des animaux dans les élevages de gibier à plume, sera mis en place dans un second temps. Dans le cadre de la concertation large souhaitée par le ministre pour préparer la nouvelle feuille de route influenza aviaire, un groupe de travail spécifique à la filière gibier à également été mis en place.
