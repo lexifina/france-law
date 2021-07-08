@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321436
+
+- Question : [SEQ210321436](seq210321436.md) — Incitations à la vidéosurveillance
+
+## Réponse
+
+*Intérieur, JO du 2021-07-08, page 4280*
+
+L'utilité de la vidéoprotection sur le terrain est majeure en termes de prévention et de dissuasion, en permettant d'orienter l'occupation de la voie publique par les forces de sécurité intérieure et de détecter précocément les situations pouvant nécessiter une intervention. Elle concourt en outre, par l'exploitation des images, à la résolution de nombreuses affaires judiciaires. Compte tenu de l'apport de cette technologie au service da la sécurité, l'État s'est engagé dès 2007 dans son développement, notamment en accompagnant financièrement les collectivités qui souhaitent équiper leur circonscription d'un dispositif de vidéoprotection. En effet, depuis sa création par la loi du 5 mars 2007 le fonds interministériel de prévention de la délinquance peut être sollicité chaque année à cette fin. C'est ainsi que dans le cadre de la mobilisation de ce fonds pour aider des projets de vidéoprotection, 244,7 M€ ont été consacrés à la participation financière de plusieurs centaines de projets d'installation de tels dispositifs. Ces efforts qui ont contribué à un développement sans précédent de la vidéoprotection seront encore poursuivis cette année dans le cadre de ce fonds dont les répartitions sont en cours d'arbitrages et seront prochainement communiqués aux préfets. Parallèlement, les communes rurales peuvent aussi solliciter la dotation d'équipement des territoires ruraux pour laquelle chaque année la commission des élus, prévue par l'art. L.2333-37 du code général des collectivités territoriales, détermine la liste des opérations éligibles ainsi que les taux des subventions applicables aux demandes présentées.
