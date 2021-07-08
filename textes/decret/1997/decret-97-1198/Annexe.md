@@ -1558,13 +1558,29 @@ Code de l'environnement Article R. 512-71. |
 
 Ministre chargé de l'environnement |
 
+10-1 |
+
+Dérogation aux conditions d'attribution des déchets radioactifs issus du traitement de combustibles usés ou de déchets radioactifs. |
+
+Code de l'environnement Article R. 542-33-2. |
+
+Ministre chargé de l'énergie |
+
+10-2 |
+
+Autorisation des équivalents prévus aux articles L. 542-2 et L. 542-2-2 du code de l'environnement. |
+
+Code de l'environnement Article R. 542-33-3. |
+
+Ministre chargé de l'énergie |
+
 11 |
 
 Autorisation de transfert de déchets radioactifs ou de combustible nucléaire usé. |
 
 Code de l'environnement Article R. 542-38. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 12 |
 
@@ -1572,7 +1588,7 @@ Consentement donné à l'importation de transfert de déchets radioactifs ou de 
 
 Code de l'environnement Article R. 542-41. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 13 |
 
@@ -1580,7 +1596,7 @@ Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire 
 
 Code de l'environnement Article R. 542-45. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 14 |
 
@@ -1588,7 +1604,7 @@ Autorisation d'importation de déchets radioactifs ou de combustible nucléaire 
 
 Code de l'environnement Article R. 542-50. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 15 |
 
@@ -1596,7 +1612,7 @@ Autorisation d'exportation de déchets radioactifs ou de combustible nucléaire 
 
 Code de l'environnement Article R. 542-54. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 16 |
 
@@ -1604,7 +1620,7 @@ Autorisation de transit à l'occasion du transfert de déchets radioactifs ou de
 
 Code de l'environnement Article R. 542-60. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 17 |
 
@@ -1612,7 +1628,7 @@ Autorisation de retour sur le territoire national des déchets radioactifs ou du
 
 Code de l'environnement Article R. 542-65 (troisième alinéa). |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 18 |
 
@@ -1620,7 +1636,7 @@ Autorisations d'importation et d'exportation de matières nucléaires, suspensio
 
 Code de la défense Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6. |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
 
 19 |
 
@@ -1628,7 +1644,31 @@ Décision de ne pas mener à bien un transfert autorisé. |
 
 Code de l'environnement Article R. 542-65 (premier alinéa). |
 
-Ministre chargé de l'environnement |
+Ministre chargé de l'énergie |
+
+19-1 |
+
+Autorisation d'actifs de couverture. |
+
+Article D. 594-6 (II). |
+
+Ministres chargés de l'énergie et de l'économie |
+
+19-2 |
+
+Dérogation à l'interdiction de détention de certaines valeurs parmi les actifs de couverture. |
+
+Article D. 594-6 (IV). |
+
+Ministres chargés de l'énergie et de l'économie |
+
+19-3 |
+
+Dérogation aux règles de diversification des actifs de couverture définies au III de l'article D. 594-7 du code de l'environnement. |
+
+Code de l'environnement Article D. 594-7 (III). |
+
+Ministres chargés de l'énergie et de l'économie |
 
 20 |
 
@@ -1664,11 +1704,11 @@ Ministre chargé de l'énergie |
 
 24 |
 
-Dérogation aux conditions d'attribution des déchets radioactifs issus du traitement de combustibles usés ou de déchets radioactifs. |
+Supprimé |
 
-Décret n° 2008-209 du 3 mars 2008 Article 2-1. |
+|
 
-Ministre chargé de l'environnement |
+|
 
 25 |
 
@@ -1840,11 +1880,11 @@ Ministre chargé des mines et ministre chargé de l'énergie pour les autres sub
 
 42 |
 
-Décisions relatives à l'importation, au transfert et au transit de déchets radioactifs. |
+Supprimé |
 
-Code de l'environnement Article R. 542-36. |
+|
 
-Ministre chargé de l'environnement |
+|
 
 43 |
 
