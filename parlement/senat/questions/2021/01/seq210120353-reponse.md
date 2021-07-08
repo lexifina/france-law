@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120353
+
+- Question : [SEQ210120353](seq210120353.md) — Droit de grève à la SNCF après l'ouverture à la concurrence des réseaux
+
+## Réponse
+
+*Transports, JO du 2021-07-08, page 4305*
+
+La nouvelle rédaction de l'article L.2121-12 du code des transports relatif aux services librement organisés (SLO), issue du nouveau pacte ferroviaire (article 8) prévoit que « Les entreprises ferroviaires peuvent assurer des services de transport ferroviaire dans les conditions prévues au présent article et aux articles L. 2122-9, L. 2122-10 et L. 2133-1 ». Elle élargit ainsi le champ des SLO non plus aux seules entreprises ferroviaires exploitant des services de transport international de voyageurs, mais à toutes les entreprises ferroviaires, dès lorsque leur activité ne relève pas de l'exécution d'un contrat de service public. Le Gouvernement a complété ce dispositif par ordonnance n° 2019-552 du 3 juin 2019 portant diverses dispositions relatives au groupe SNCF qui étend aux SLO, sauf pour les liaisons internationales, les dispositions relatives à l'encadrement du droit de grève dans les services publics de transports terrestres. Ces dispositions permettent de leur appliquer les mesures relatives à la continuité du trafic (définition de dessertes prioritaires, élaboration de plans de transports par les entreprises et d'un accord ou d'un plan de prévisibilité qui recense les fonctions essentielles et enfin élaboration d'un plan d'information des usagers avec une information renforcée de ces derniers). Quant à la liste des agents soumis à une obligation de déclaration individuelle d'intention de participer à une grève elle est fondée, par un jeu de renvoi, via l'article L. 1324-7 du code des transports, sur les fonctions listées dans les accords ou les plans de prévisibilité, qui sont élaborées à partir des dessertes prioritaires.
