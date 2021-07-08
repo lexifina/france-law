@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717335
+
+- Question : [SEQ200717335](seq200717335.md) — Rétablissement des liaisons ferroviaires sur la ligne Thionville-Bouzonville-Dillingen-Sarrelouis
+
+## Réponse
+
+*Transports, JO du 2021-07-08, page 4302*
+
+L'amélioration de la mobilité transfrontalière franco-allemande via le réseau ferré est un objectif partagé de la région Grand Est et des partenaires frontaliers qui endossent le rôle d'autorités organisatrices des transports de voyageurs d'intérêt régional. Au terme de près de trois années d'études et de concertations, les trois Länder de Rhénanie-Palatinat, de Sarre et du Bade-Wurtemberg et les deux groupements intercommunaux de transport ferroviaire de voyageurs du sud et du nord de la Rhénanie-Palatinat se sont mis d'accord pour intervenir en priorité sur les lignes transfrontalières existantes qui présentent un potentiel de trafic de voyageurs notables. Dans le cadre de cette coopération, les liaisons ferroviaires transfrontalières de l'ancienne région Lorraine ne sont pas négligées. En effet, l'accord de coopération conclu par la Région Grand Est en particulier avec le Land de Sarre prévoit le renforcement des dessertes ferroviaires des lignes Metz-Forbach-Sarrebrück et Strasbourg-Sarreguemines-Sarrebrück à horizon 2025 et des améliorations sur les liaisons Metz-Thionville-Trèves. S'agissant de la ligne ferroviaire Thionville-Bouzonville-Dillingen-Sarrelouis, la demande d'en étudier la réouverture et la décision éventuelle d'y rétablir des services voyageurs transfrontaliers relève conjointement du conseil régional Grand Est et du Land de Sarre. L'État, très attentif à ce que l'offre ferroviaire réponde aux besoins des territoires, demeurera à l'écoute des projets émis, mais, en application du principe de libre administration des collectivités territoriales, n'intervient pas dans ces choix.
