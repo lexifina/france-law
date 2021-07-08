@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200415569
+
+- Question : [SEQ200415569](seq200415569.md) — Soutien au fret ferroviaire et baisse des péages
+
+## Réponse
+
+*Transports, JO du 2021-07-08, page 4302*
+
+Le Gouvernement a entendu les appels des opérateurs de services de fret ferroviaire, lourdement impactés financièrement par la grève de décembre 2019 - janvier 2020 puis la crise sanitaire, alors même qu'ils ont contribué à assurer à cette occasion les approvisionnements essentiels du pays. L'État s'est engagé à prendre en charge, via la compensation fret, la totalité de la redevance de circulation nette de début juillet jusqu'à la fin 2020, sans impact pour SNCF Réseau. Le montant de la redevance que l'État prendra en charge en lieu et place des entreprises ferroviaires sur la période concernée est évalué à ce stade à environ 65 M€ TTC. Au-delà, pour tenir compte de ce contexte difficile et également accompagner le développement des services, une enveloppe supplémentaire de 170 M€ d'aide à l'exploitation des services de fret ferroviaire est également prévue en 2021 afin de soutenir les opérateurs et améliorer la compétitivité du rail face au mode routier dans l'objectif du développement de la part modale du fret ferroviaire. Une partie de cette enveloppe permettra à l'État de prendre en charge, au total, près de 70 % de la redevance de circulation facturée aux opérateurs. Enfin, dans le cadre du plan de relance, l'État consacre au fret ferroviaire un plan d'investissements dans les infrastructures utiles au maintien et au développement de cette activité. Il affirme notamment son soutien renforcé, aux côtés des collectivités et des chargeurs, à la remise en état des lignes « capillaires fret », outils essentiels pour accéder aux lieux de production (usines, silos céréaliers…), aux terminaux multimodaux et, plus généralement, aux infrastructures nécessaires à la mise en place de services de fret ferroviaires.
