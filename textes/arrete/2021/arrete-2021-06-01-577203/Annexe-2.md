@@ -4,31 +4,51 @@ Les professionnels et les étudiants en santé mentionnés au VIII quinquiès de
 
 I. - Les professionnels de santé suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
 
-1° Les techniciens de laboratoire titulaires du certificat de capacité mentionné à l'article R. 4352-13 du code de la santé publique ;
+1° Les physiciens médicaux ;
 
-2° Les manipulateurs d'électroradiologie médicale ;
+2° Les techniciens de laboratoire médical ;
 
-3° Les masseurs kinésithérapeutes diplômés d'Etat ;
+3° Les aides-soignants diplômés d'Etat ;
 
-4° Les aides-soignants diplômes d'Etat ;
+4° Les auxiliaires de puériculture diplômés d'Etat ;
 
-5° Les auxiliaires de puériculture diplômés d'Etat ;
+5° Les ambulanciers diplômés d'Etat ;
 
-6° Les ambulanciers diplômés d'Etat.
+6° Les masseurs kinésithérapeutes diplômés d'Etat ;
+
+7° Les pédicures podologues diplômés d'Etat ;
+
+8° Les ergothérapeutes diplômés d'Etat ;
+
+9° Les psychomotriciens diplômés d'Etat ;
+
+10° Les orthophonistes ;
+
+11° Les orthoptistes ;
+
+12° Les audioprothésistes diplômés d'Etat ;
+
+13° Les diététiciens ;
+
+14° Les opticiens-lunetiers ;
+
+15° Les orthoprothésistes, podo-orthésistes, ocularistes, épithésistes et orthopédistes-orthésistes ;
+
+16° Les assistants dentaires.
 
 II. - Les professionnels et les détenteurs de formation suivants, sous la responsabilité d'un médecin pouvant intervenir à tout moment et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins :
 
-1° Les personnes en activité ou retraitées, habilitées à exercer ou ayant exercé la profession de vétérinaire dans les conditions mentionnées à l'article L. 241-1 du code rural et de la pêche maritime, sous réserve des dispositions de l'article L. 242-1 du même code ;
+1° Supprimé ;
 
-1° bis Les inspecteurs de santé publique vétérinaire, en activité ou retraités, détenteurs d'un diplôme, certificat ou titre permettant l'exercice en France des activités de vétérinaire ;
+1° bis Supprimé ;
 
 2° Les sapeurs-pompiers professionnels et volontaires titulaires de la formation d'équipier dans le domaine d'activité du secours d'urgence aux personnes ;
 
-3° Les sapeurs-pompiers de Paris titulaires de leur formation élémentaire en filière "sapeur-pompier de Paris" (SPP) ou filière "secours à victimes" (SAV) ou titulaires de leur formation élémentaire en filière "spécialiste" (SPE) ;
+3° Les sapeurs-pompiers de Paris titulaires de leur formation élémentaire en filière sapeur-pompier de Paris (SPP) ou filière secours à victimes (SAV) ou titulaires de leur formation élémentaire en filière spécialiste (SPE) ;
 
 4° Les marins-pompiers de Marseille détenant le brevet élémentaire de matelot pompier (BE MOPOMPI) ou le brevet élémentaire de pompier volontaire (BE MAPOV) ou le brevet élémentaire de sécurité et logistique (BE SELOG) ;
 
-5° Les sapeurs-sauveteurs des formations militaires de la sécurité civile de la DGSCGC titulaire de la formation élémentaire de la filière "force protection secours" ;
+5° Les sapeurs-sauveteurs des formations militaires de la sécurité civile de la DGSCGC titulaire de la formation élémentaire de la filière force protection secours ;
 
 6° Les auxiliaires sanitaires relevant de l'autorité technique du service de santé des armées ;
 
@@ -36,7 +56,7 @@ II. - Les professionnels et les détenteurs de formation suivants, sous la respo
 
 8° Les matelots pompiers détenant le brevet élémentaire de matelot pompier (BE MOPOMPI) ou les marins pompiers détenant le brevet d'aptitude technique de marins pompier (BAT MARPO) ou le brevet supérieur de marin pompier (BS MARPO) ;
 
-9° Les détenteurs de la formation "premiers secours en équipe de niveau 2" (PSE2).
+9° Les détenteurs de la formation premiers secours en équipe de niveau 2 (PSE2).
 
 III. - Les étudiants en santé suivants :
 
@@ -48,4 +68,6 @@ b) Etudiants en soins infirmiers ayant validé leur première année de formatio
 
 2° Les étudiants de deuxième et troisième cycles en odontologie, en présence d'un médecin ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
 
-3° Les étudiants de premier cycle de la formation en médecine et en maïeutique à partir de la deuxième année ayant effectué leur stage infirmier, en présence d'un médecin, d'une sage-femme ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins.
+3° Les étudiants de premier cycle de la formation en médecine et en maïeutique à partir de la deuxième année ayant effectué leur stage infirmier, en présence d'un médecin, d'une sage-femme ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
+
+4° Les étudiants en masso-kinésithérapie ayant validé leur deuxième année de formation, en présence d'un médecin ou d'un infirmier, et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins.
