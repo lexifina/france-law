@@ -18,9 +18,11 @@ c) Equipements de chauffage ou de fourniture d'eau chaude sanitaire indépendant
 
 a) Equipements de production de chauffage fonctionnant à l'énergie solaire thermique ;
 
-b) Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique ;
+b) Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés en France métropolitaine ;
 
-c) Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide ;
+c) Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte ;
+
+d) Equipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide ;
 
 4. Pompes à chaleur, autres qu'air/air, dont la finalité essentielle est la production de chauffage ou d'eau chaude sanitaire :
 
@@ -46,12 +48,16 @@ c) Pompes à chaleur dédiées à la production d'eau chaude sanitaire ;
 
 12. Isolation des toitures terrasses ;
 
-13. Equipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires, pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte.
+13. Equipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires, pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte ;
+
+13-1. Sur-toitures ventilées pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte ;
+
+13-2. Bardages ventilés pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte ;
 
 14. Du 1er janvier 2021 au 31 décembre 2022, prestation d'assistance à maîtrise d'ouvrage ;
 
-15. Du 1er janvier 2021 au 31 décembre 2022, en immeuble bâti individuel, un ensemble de travaux de rénovation énergétique visant à améliorer la performance globale du logement et permettant d'atteindre une efficacité énergétique minimale fixée par arrêté.
+15. Du 1er janvier 2021 au 31 décembre 2022, en immeuble bâti individue situé en France métropolitaine, un ensemble de travaux de rénovation énergétique visant à améliorer la performance globale du logement et permettant d'atteindre une efficacité énergétique minimale fixée par arrêté.
 
 NOTA :
 
-Conformément à l'article 11 du décret n° 2021-59 du 25 janvier 2021, ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.
+Conformément à l'article 6 du décret n° 2021-911 du 8 juillet 2021, ces dispositions s'appliquent aux demandes de primes déposées à compter du 1er juillet 2021.
