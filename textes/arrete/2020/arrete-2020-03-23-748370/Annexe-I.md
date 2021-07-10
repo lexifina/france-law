@@ -66,23 +66,33 @@ Désignation de la division, du groupe ou de la classe |
 
 -Transports aériens de passagers |
 
-Les codes appartenant à la classe 85.51 |
+Les codes appartenant à la classe 85.51
+
+|
 
 Enseignement de disciplines sportives et d'activités de loisirs |
 
-Les codes appartenant à la classe 74.30 |
+Les codes appartenant à la classe 74.30
+
+|
 
 Traduction et interprétation |
 
-Les codes appartenant à la classe 96.04 |
+Les codes appartenant à la classe 96.04
+
+|
 
 Entretien corporel |
 
-Les codes appartenant à la classe 85.52 |
+Les codes appartenant à la classe 85.52
+
+|
 
 Enseignement culturel |
 
-Les codes appartenant à la classe 49.10 |
+Les codes appartenant à la classe 49.10
+
+|
 
 Transport ferroviaire interurbain de voyageurs |
 
@@ -97,5 +107,83 @@ Sous-catégorie des services de change de devises, à l'exclusion des autres cat
 Sous-catégorie parmi les entreprises dont le code NAF est 47. 78C |
 
 Sous-catégorie du commerce de détail de souvenirs, d'objets artisanaux et d'articles religieux, à l'exclusion des autres catégories d'entreprises partageant le même code NAF |
+
+Tous les codes appartenant au groupe 01.1
+
+|
+
+Cultures non permanentes |
+
+Tous les codes appartenant au groupe 01.2
+
+|
+
+Cultures permanentes |
+
+Tous les codes appartenant au groupe 01.3
+
+|
+
+Reproduction de plantes |
+
+Tous les codes appartenant au groupe 01.4
+
+|
+
+Production animale |
+
+Tous les codes appartenant au groupe 01.5
+
+|
+
+Culture et élevage associés |
+
+Tous les codes appartenant au groupe 10.3
+
+|
+
+Produits à base de fruits et légumes |
+
+Tous les codes appartenant au groupe 10.4
+
+|
+
+Huiles et graisses végétales et animales |
+
+Tous les codes appartenant au groupe 10.6
+
+|
+
+Produits du travail des grains |
+
+Tous les codes appartenant à la classe 11.01
+
+|
+
+Boissons alcoolisées distillées |
+
+Tous les codes appartenant à la classe 11.02
+
+|
+
+Vins de raisin |
+
+Tous les codes appartenant à la classe 11.03
+
+|
+
+Cidre et autre vins de fruits |
+
+Tous les codes appartenant à la classe 11.04
+
+|
+
+Autres boissons fermentées non distillées |
+
+Tous les codes appartenant à la classe 11.05
+
+|
+
+Fabrication de bière |
 
 .
