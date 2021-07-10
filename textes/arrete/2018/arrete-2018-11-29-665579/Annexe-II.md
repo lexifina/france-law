@@ -46,11 +46,13 @@ Direction des ressources humaines |
 
 Chef du bureau zonal des rémunérations et des pensions d'Ile-de-France. |
 
-Direction de la police générale |
+Direction des transports et de la protection du public |
 
-Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
+Chef du bureau des titres d'identité au sein du service des titres et des relations avec les usagers |
 
-Chef du 8e bureau au sein de la sous-direction de l'administration des étrangers |
+Délégation à l'immigration |
+
+Chef du 8e bureau au sein de la sous-direction de du département zonal de l'asile et de l'éloignement |
 
 Direction de la sécurité de proximité de l'agglomération parisienne |
 

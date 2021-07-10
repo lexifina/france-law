@@ -1,6 +1,6 @@
 # Article Annexe I
 
-1° Périmètre administration centrale, établissements publics et services à compétence nationale :
+1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
 Directions et services |
 
@@ -48,7 +48,7 @@ Chargé de mission préfiguration de la juridiction administrative spécialisée
 
 1 |
 
-Chef de cabinet. |
+Chef de cabinet |
 
 30 |
 
@@ -58,7 +58,7 @@ Chef de cabinet. |
 
 Direction de la modernisation et de l'action territoriale |
 
-Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au chef du bureau de l'organisation et des missions de l'administration territoriale au sein de la sous-direction de l'administration territoriale. |
+Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au chef du bureau de l'organisation et des missions de l'administration territoriale au sein de la sous-direction de l'administration territoriale |
 
 30 |
 
@@ -66,7 +66,7 @@ Chef de projet réforme de l'administration territoriale de l'Etat, adjoint au c
 
 1 |
 
-Adjoint au chef du bureau de la performance et des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale. |
+Adjoint au chef du bureau de la performance et des moyens de l'administration territoriale au sein de la sous-direction de l'administration territoriale |
 
 30 |
 
@@ -192,7 +192,7 @@ Chef de la mission catastrophes naturelles au sein de la sous-direction de la pr
 
 Direction du numérique |
 
-Chef du bureau du budget et de la programmation financière au sein de la sous-direction de l'administration générale et de l'achat. |
+Chef du bureau du budget et du contrôle de gestion au sein de la sous-direction des ressources. |
 
 30 |
 
@@ -200,7 +200,7 @@ Chef du bureau du budget et de la programmation financière au sein de la sous-d
 
 1 |
 
-Chef du bureau du personnel et des compétences au sein de la sous-direction de l'administration générale et de l'achat. |
+Chef du bureau des ressources humaines au sein de la sous-direction des ressources. |
 
 30 |
 
@@ -208,7 +208,7 @@ Chef du bureau du personnel et des compétences au sein de la sous-direction de 
 
 1 |
 
-Chef de la coordination fonctionnelle. |
+Chef du cabinet. |
 
 30 |
 
@@ -226,7 +226,7 @@ Chef du bureau de la gestion des sites de l'administration centrale au sein de l
 
 1 |
 
-Chef du bureau stratégie et performance achat au sein de la sous-direction stratégie et pilotage de la performance achat du service de l'achat, de l'innovation et de la logistique. |
+Chef du bureau stratégie et performance achat au sein de la sous-direction stratégie et pilotage de la performance achat du service de l'achat, de l'innovation et de la logistique |
 
 50 |
 
@@ -234,7 +234,7 @@ Chef du bureau stratégie et performance achat au sein de la sous-direction stra
 
 1 |
 
-Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'achat et du suivi de l'exécution des marchés du service de l'achat, de l'innovation et de la logistique. |
+Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'achat et du suivi de l'exécution des marchés du service de l'achat, de l'innovation et de la logistique |
 
 50 |
 
@@ -242,7 +242,7 @@ Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'ach
 
 1 |
 
-Chef du bureau logistique de la mobilité au sein de la sous-direction de la logistique et de l'approvisionnement du service de l'achat, de l'innovation et de la logistique. |
+Chef du bureau logistique de la mobilité au sein de la sous-direction de la logistique et de l'approvisionnement du service de l'achat, de l'innovation et de la logistique |
 
 30 |
 
@@ -300,7 +300,9 @@ Chef du bureau des affaires financières et de l'évaluation de la dépense au s
 
 1 |
 
-Chef du bureau du pilotage des politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
+Chef du bureau du pilotage des
+
+politiques sociales au sein de la sous-direction de l'action sociale et de l'accompagnement du personnel. |
 
 50 |
 
@@ -344,9 +346,9 @@ Chef de la mission pour l'innovation en ressources humaines au sein de la missio
 
 30 |
 
-- |
-
 1 |
+
+- |
 
 Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouvernance ministérielle des ressources humaines. |
 
@@ -356,9 +358,17 @@ Adjoint au directeur de l'application DIALOGUE 2 au sein de la mission de gouver
 
 1 |
 
-Chef de cabinet. |
+Chef de cabinet |
 
 30 |
+
+- |
+
+1 |
+
+Chef de mission des affaires budgétaires et des emplois de la fonction RH ministérielle |
+
+0 |
 
 - |
 
@@ -390,7 +400,7 @@ Chef de cabinet. |
 
 1 |
 
-Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique. |
+Chef du bureau des interventions économiques et de l'aménagement du territoire au sein de la sous-direction des finances locales et de l'action économique |
 
 30 |
 
@@ -398,13 +408,15 @@ Chef du bureau des interventions économiques et de l'aménagement du territoire
 
 1 |
 
-Chef du bureau de la relation avec les opérateurs et agences. |
+Chef du bureau de la relation avec les opérateurs et agences |
 
 30 |
 
 - |
 
-1 |
+1
+
+|
 
 Direction générale de la police nationale |
 
@@ -460,9 +472,9 @@ Secrétaire adjoint pour l'administration générale au sein de la direction des
 
 30 |
 
-- |
-
 1 |
+
+- |
 
 Adjoint au sous-directeur des ressources et des moyens de la direction centrale du recrutement et de la formation de la police nationale. |
 
@@ -552,9 +564,17 @@ Chef du bureau de la modernisation et de valorisation des ressources humaines à
 
 1 |
 
+Adjoint au chef de projet pilotage des emplois de la police nationale |
+
+0 |
+
+- |
+
+1 |
+
 Direction générale de la sécurité intérieure |
 
-Un poste. |
+Un poste |
 
 50 |
 
@@ -690,15 +710,15 @@ Chef du bureau du personnel civil à la sous-direction de la gestion du personne
 
 1 |
 
-Chargé de mission auprès du chef du service de la transformation. |
+Chargé de mission auprès du chef du service de la transformation |
 
 30 |
 
-- |
-
 1 |
 
-Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale. |
+- |
+
+Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
 
 20 |
 
@@ -718,9 +738,9 @@ Chef du bureau de la réglementation et de la fonction militaire au sein de la s
 
 30 |
 
-- |
-
 1 |
+
+- |
 
 Adjoint au chef du bureau de l'analyse et de l'anticipation au sein de la sous-direction de la politique des ressources humaines. |
 
@@ -738,11 +758,19 @@ Chef du bureau des ressources financières à la sous-direction des supports op�
 
 1 |
 
-Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances. |
+Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances |
 
 50 |
 
 - |
+
+1 |
+
+Chargé de mission auprès du directeur soutien finances |
+
+0 |
+
+|
 
 1 |
 
@@ -780,7 +808,7 @@ Adjoint au chef du département de contrôle automatisé. |
 
 1 |
 
-Institut national de police scientifique |
+Service national de police scientifique |
 
 Secrétaire général. |
 
@@ -790,7 +818,7 @@ Secrétaire général. |
 
 1 |
 
-2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur :
+2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
 Directions et services |
 
@@ -948,7 +976,7 @@ Chargé de mission auprès du préfet délégué pour la sécurité et de défen
 
 1 |
 
-Adjoint au directeur des ressources humaines. |
+Adjoint au directeur des ressources humaines |
 
 - |
 
@@ -974,7 +1002,7 @@ Directeur des ressources humaines. |
 
 1 |
 
-3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris :
+3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
 Directions et services |
 
@@ -1004,7 +1032,7 @@ et de l'outre-mer
 
 Service du cabinet |
 
-Adjoint au chef de service du cabinet. |
+Adjoint au chef de service du cabinet |
 
 50 |
 
@@ -1074,7 +1102,7 @@ Chef du service de gestion des personnels administratifs, techniques et scientif
 
 1 |
 
-Chef du service de prospective et de pilotage au sein de la sous-direction des personnels. |
+Chef du service du pilotage et de la prospective au sein de la sous-direction des personnels. |
 
 50 |
 
@@ -1092,7 +1120,7 @@ Chef du bureau de la gestion des carrières des gradés, gardiens et adjoints de
 
 Direction de l'immobilier et de l'environnement |
 
-Chef du département juridique et budgétaire. |
+Chef du département juridique et budgétaire |
 
 50 |
 
@@ -1100,7 +1128,7 @@ Chef du département juridique et budgétaire. |
 
 1 |
 
-Secrétaire général. |
+Secrétaire général |
 
 50 |
 
@@ -1108,9 +1136,9 @@ Secrétaire général. |
 
 1 |
 
-Direction de la police générale |
+Délégation de l'immigration |
 
-Chef du 1er bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
+Chef du 1er bureau au sein de la sous-direction du séjour et de l'accès à la nationalité. |
 
 60 |
 
@@ -1118,7 +1146,15 @@ Chef du 1er bureau au sein de la sous-direction de la citoyenneté et des libert
 
 1 |
 
-Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
+Chef du 7e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité. |
+
+50 |
+
+- |
+
+1 |
+
+Chef du 8e bureau au sein du département zonal de l'asile et de l'éloignement. |
 
 60 |
 
@@ -1126,7 +1162,15 @@ Chef du 2e bureau au sein de la sous-direction de la citoyenneté et des libert�
 
 1 |
 
-Chef du 4e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
+Chef du 6e bureau au sein de la sous-direction de du séjour et de l'accès à la nationalité |
+
+50 |
+
+|
+
+1 |
+
+Chef du 9e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité. |
 
 50 |
 
@@ -1134,55 +1178,15 @@ Chef du 4e bureau au sein de la sous-direction de la citoyenneté et des libert�
 
 1 |
 
-Chef du 5e bureau au sein de la sous-direction de la citoyenneté et des libertés publiques. |
-
-50 |
-
-- |
-
-1 |
-
-Chef du 6e bureau au sein de la sous-direction de l'administration des étrangers. |
-
-50 |
-
-- |
-
-1 |
-
-Chef du 7e bureau au sein de la sous-direction de l'administration des étrangers. |
-
-50 |
-
-- |
-
-1 |
-
-Chef du 8e bureau au sein de la sous-direction de l'administration des étrangers. |
+Chef du 10e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité |
 
 60 |
 
-- |
+|
 
 1 |
 
-Chef du 9e bureau au sein de la sous-direction de l'administration des étrangers. |
-
-50 |
-
-- |
-
-1 |
-
-Chef du 10e bureau au sein de la sous-direction de l'administration des étrangers. |
-
-60 |
-
-- |
-
-1 |
-
-Chef du 12e bureau au sein de la sous-direction de l'administration des étrangers. |
+Chef du 12e bureau au sein du département zonal de l'asile et de l'éloignement. |
 
 60 |
 
@@ -1200,7 +1204,7 @@ Chef du bureau des taxis et des transports publics au sein de la sous-direction 
 
 1 |
 
-Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction de la protection sanitaire et de l'environnement. |
+Chef du bureau des actions de prévention et de protection sanitaires au sein de la sous-direction des polices sanitaires, environnementales et de sécurité. |
 
 50 |
 
@@ -1208,7 +1212,7 @@ Chef du bureau des actions de prévention et de protection sanitaires au sein de
 
 1 |
 
-Chef du bureau des actions de santé mentale au sein de la sous-direction de la protection sanitaire et de l'environnement. |
+Chef du bureau des actions de santé mentale au sein de la sous-direction des polices sanitaires, environnementales et de sécurité. |
 
 50 |
 
@@ -1232,6 +1236,30 @@ Secrétaire général. |
 
 1 |
 
+Chef du bureau des titres d'identité au sein du service des titres et des relations avec les usagers. |
+
+60 |
+
+- |
+
+1 |
+
+Chef du bureau des polices administratives de sécurité au sein de la sous-direction des polices sanitaires, environnementales et de sécurité. |
+
+50 |
+
+- |
+
+1 |
+
+Chef du bureau des droits à conduire au sein du service des titres et relations avec les usagers. |
+
+50 |
+
+- |
+
+1 |
+
 Direction de la sécurité de proximité de l'agglomération parisienne |
 
 Chef du service de gestion opérationnelle des personnels et des équipements au sein de la sous-direction de la gestion opérationnelle. |
@@ -1250,9 +1278,9 @@ Chef du bureau de gestion opérationnelle au sein de la direction territoriale d
 
 1 |
 
-Direction opérationnelle des services techniques et logistiques |
+Direction de l'innovation, de la logistique et des technologies |
 
-Chef du service des finances, des achats et des moyens, adjoint au sous-directeur des ressources et des compétences. |
+Secrétaire général. |
 
 60 |
 
@@ -1262,7 +1290,7 @@ Chef du service des finances, des achats et des moyens, adjoint au sous-directeu
 
 Direction du renseignement de la préfecture de police |
 
-Chef de la division des affaires générales. |
+Chef de la division des affaires générales |
 
 30 |
 
@@ -1270,7 +1298,7 @@ Chef de la division des affaires générales. |
 
 1 |
 
-4° Périmètre services de police nationale :
+4° Périmètre services de police nationale
 
 Directions et services |
 
@@ -1300,7 +1328,7 @@ et de l'outre-mer
 
 06 DDSP des Alpes Maritimes |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1310,7 +1338,7 @@ Chef de service de gestion opérationnelle. |
 
 13 DDSP des Bouches-du-Rhône |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 50 |
 
@@ -1330,7 +1358,7 @@ Chef de la division de la logistique. |
 
 13 DZPAF |
 
-Chef de la division de l'administration et des finances. |
+Chef de la division de l'administration et des finances |
 
 20 |
 
@@ -1340,7 +1368,7 @@ Chef de la division de l'administration et des finances. |
 
 30 Direction centrale du recrutement et de la formation de la police nationale |
 
-Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud. |
+Adjoint au directeur de l'école nationale de police de Nîmes, responsable du département des ressources de la délégation zonale au recrutement et à la formation de la zone Sud |
 
 20 |
 
@@ -1350,7 +1378,7 @@ Adjoint au directeur de l'école nationale de police de Nîmes, responsable du d
 
 31 DDSP Haute Garonne |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 20 |
 
@@ -1360,7 +1388,7 @@ Chef de service de gestion opérationnelle. |
 
 33 DDSP de la Gironde |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1380,7 +1408,7 @@ Chef de service de gestion opérationnelle. |
 
 35 DDSP d'Ille et Vilaine |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 20 |
 
@@ -1390,7 +1418,7 @@ Chef de service de gestion opérationnelle. |
 
 44 DDSP de la Loire-Atlantique |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1400,7 +1428,7 @@ Chef de service de gestion opérationnelle. |
 
 57 DDSP de la Moselle |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1420,7 +1448,7 @@ Chef de service de gestion opérationnelle |
 
 62 DDSP du Pas-de-Calais |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1430,7 +1458,7 @@ Chef de service de gestion opérationnelle. |
 
 67 DDSP du Bas-Rhin |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1440,7 +1468,7 @@ Chef de service de gestion opérationnelle. |
 
 69 DDSP du Rhône |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 50 |
 
@@ -1450,7 +1478,7 @@ Chef de service de gestion opérationnelle. |
 
 69 Ecole nationale supérieure de la police |
 
-Secrétaire général. |
+Secrétaire général |
 
 30 |
 
@@ -1460,7 +1488,7 @@ Secrétaire général. |
 
 76 DDSP de la Seine-Maritime |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1470,7 +1498,7 @@ Chef de service de gestion opérationnelle. |
 
 77 DDSP de la Seine-et-Marne |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1480,7 +1508,7 @@ Chef de service de gestion opérationnelle. |
 
 78 DDSP des Yvelines |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1510,7 +1538,7 @@ Chef de service de gestion opérationnelle |
 
 95 DDSP du Val-d'Oise |
 
-Chef de service de gestion opérationnelle. |
+Chef de service de gestion opérationnelle |
 
 30 |
 
@@ -1528,7 +1556,7 @@ Chef de la division de l'administration et des finances. |
 
 1 |
 
-5° Périmètre services de gendarmerie nationale :
+5° Périmètre services de gendarmerie nationale
 
 Directions et services |
 
@@ -1606,11 +1634,19 @@ Chef du centre d'études et de documentation |
 
 1 |
 
-6° Périmètre juridictions administratives :
+93 Commandement du soutien opérationnel de la gendarmerie nationale |
 
-Juridiction
+Chef du service des ressources humaines |
 
-administrative |
+0 |
+
+|
+
+1 |
+
+6° Périmètre juridictions administratives
+
+Juridiction administrative |
 
 Fonctions |
 
@@ -1626,9 +1662,7 @@ Nombre d'emplois
 
 Nombre d'emplois
 
-de conseiller
-
-d'administration
+de conseiller d'administration
 
 de l'intérieur
 
@@ -1816,7 +1850,7 @@ Greffier en chef |
 
 1 |
 
-7° Périmètre préfectures :
+7° Périmètre préfectures
 
 Localisation
 
@@ -1988,11 +2022,11 @@ Sans point de NBI |
 
 - |
 
-6 |
+5 |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2130,7 +2164,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 2 |
 
@@ -2156,17 +2190,17 @@ Sans point de NBI |
 
 - |
 
-10 |
+9 |
 
-10 |
-
-- |
+8 |
 
 - |
 
 - |
 
 - |
+
+1 |
 
 14 Calvados |
 
@@ -2378,11 +2412,11 @@ Sans point de NBI |
 
 - |
 
-3 |
+4 |
 
 - |
 
-1 |
+- |
 
 22 Côtes-d'Armor |
 
@@ -2416,7 +2450,7 @@ Sans point de NBI |
 
 - |
 
-1 |
+- |
 
 - |
 
@@ -2428,9 +2462,9 @@ Sans point de NBI |
 
 - |
 
-1 |
+2 |
 
-1 |
+- |
 
 24 Dordogne |
 
@@ -2578,27 +2612,27 @@ Sans point de NBI |
 
 30 Gard |
 
-2 |
+1 |
 
 - |
 
 - |
 
-2 |
+1 |
 
 - |
 
-4 |
+3 |
 
 - |
 
 - |
 
-2 |
+3 |
 
 - |
 
-2 |
+- |
 
 31 Haute-Garonne |
 
@@ -3340,9 +3374,9 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
-- |
+1 |
 
 62 Pas-de-Calais |
 
@@ -3470,7 +3504,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -3480,13 +3514,13 @@ Sans point de NBI |
 
 - |
 
-8 |
+7 |
 
 - |
 
 - |
 
-- |
+1 |
 
 68 Haut-Rhin |
 
@@ -3524,13 +3558,13 @@ Sans point de NBI |
 
 - |
 
-8 |
+5 |
 
-7 |
+5 |
 
 - |
 
-1 |
+- |
 
 - |
 
@@ -3880,7 +3914,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -3890,11 +3924,11 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
 - |
 
-- |
+1 |
 
 85 Vendée |
 
@@ -4066,27 +4100,27 @@ Sans point de NBI |
 
 92 Hauts-de-Seine |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
+1 |
 
 - |
 
-7 |
+6 |
 
-5 |
-
-- |
-
-2 |
+4 |
 
 - |
 
+1 |
+
 - |
+
+1 |
 
 93 Seine-Saint-Denis |
 
@@ -4162,7 +4196,17 @@ Sans point de NBI |
 
 971 Guadeloupe |
 
-2 |
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+3 |
 
 - |
 
@@ -4172,17 +4216,7 @@ Sans point de NBI |
 
 - |
 
-4 |
-
-- |
-
-- |
-
-2 |
-
-- |
-
-2 |
+1 |
 
 977/978 Préfecture de Saint-Barthélemy et de Saint-Martin |
 
@@ -4376,7 +4410,7 @@ Sans point de NBI |
 
 - |
 
-8° Périmètre secrétariat général commun départemental :
+8° Périmètre secrétariat général commun départemental
 
 Localisation
 
@@ -4388,7 +4422,9 @@ Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
 Total
 
-du nombre d'EFR |
+du nombre
+
+d'EFR |
 
 60 points |
 
@@ -4483,6 +4519,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+- |
+
+- |
+
+06 Alpes-Maritimes |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
 
 - |
 
@@ -4604,9 +4664,33 @@ Sans point de NBI |
 
 - |
 
+- |
+
 1 |
 
-- |
+13 Bouches-du-Rhône |
+
+2 |
+
+2 |
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+|
+
+|
+
+|
+
+1 |
 
 14 Calvados |
 
@@ -4847,6 +4931,30 @@ Sans point de NBI |
 - |
 
 - |
+
+30 Gard |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
 
 32 Gers |
 
@@ -5280,6 +5388,30 @@ Sans point de NBI |
 
 - |
 
+61 Orne |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
 62 Pas de Calais |
 
 - |
@@ -5391,6 +5523,30 @@ Sans point de NBI |
 1 |
 
 - |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+69 Rhône |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+3 |
+
+2 |
 
 - |
 
@@ -5831,6 +5987,54 @@ Sans point de NBI |
 - |
 
 - |
+
+92 Hauts-de-Seine |
+
+1 |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+971 Guadeloupe |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+|
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
 
 974 La Réunion |
 
