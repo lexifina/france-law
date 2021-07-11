@@ -1,8 +1,6 @@
-# Article Annexe II
+# Article ANNEXE II
 
 RUBRIQUES DE LA FICHE DE RENSEIGNEMENTS
-
-(Concours externe)
 
 Spécialité choisie :
 
@@ -13,8 +11,6 @@ Identification du candidat :
 - nom d'usage ;
 
 - prénom(s) ;
-
-- photographie ;
 
 - téléphone ;
 

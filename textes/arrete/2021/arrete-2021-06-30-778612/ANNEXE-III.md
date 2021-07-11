@@ -1,8 +1,6 @@
-# Article Annexe III
+# Article ANNEXE III
 
 RUBRIQUES DU DOSSIER DE RECONNAISSANCE DES ACQUIS DE L'EXPÉRIENCE PROFESSIONNELLE
-
-(Concours interne)
 
 Spécialité choisie :
 
@@ -13,8 +11,6 @@ Identification du candidat :
 - nom de naissance ;
 
 - prénoms(s) ;
-
-- photographie ;
 
 - téléphone ;
 
