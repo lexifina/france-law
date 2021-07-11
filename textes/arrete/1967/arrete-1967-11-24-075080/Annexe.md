@@ -77,3 +77,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=SeClViiZ5iLmRN1stbL9c-9lqfPsA4T9o
 Le modèle du signal XCE45 mentionné à l'article 3 de l'arrêté du 6 mai 2020 figure à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=kP0cscEfbBbghXVQrM4URcUmmnoqYTQB6o91PIRfAlg=
+
+Les modèles des signaux nouveaux mentionnés à l'article 4 de l'arrêté du 23 juin 2021 figurent à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=W0aXpjQ_WXbPi8jiCJ_yLL3NFIW3dzNvYtiXksp3e4k=
