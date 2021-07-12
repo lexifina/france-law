@@ -1,6 +1,6 @@
-# Article Annexe au I bis de l'article 28
+# Article Annexe au I bis de l'article 29
 
-Annexe au I bis de l'article 28 : Conditions de mise à disposition des tests rapides d'orientation diagnostique antigéniques marqués CE sur auto-prélèvement nasal pour la détection du SARS-CoV-2
+Annexe au I bis de l'article 29 : Conditions de mise à disposition des tests rapides d'orientation diagnostique antigéniques marqués CE sur auto-prélèvement nasal pour la détection du SARS-CoV-2
 
 1. Formation des personnes habilitées à distribuer et à superviser les tests rapides d'orientation diagnostique antigéniques marqués CE sur auto-prélèvement pour la détection du SARS-CoV-2 ou à réaliser le prélèvement nasal :
 
