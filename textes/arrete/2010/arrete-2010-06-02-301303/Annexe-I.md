@@ -107,3 +107,11 @@ PROGRAMME DE GÉOGRAPHIE
 Le programme d'enseignement de la géographie est le programme national d'enseignement en vigueur.
 
 Lorsqu'il sera possible de les enseigner, l'étude de quelques questions optionnelles portant sur la géographie de l'Europe et des deux pays, Espagne et France, à différentes échelles et selon différentes approches est recommandée.
+
+L’annexe 1 modifiée par l'article 1er de l'arrêté du 28 juin 2021 est consultable au Bulletin officiel de l'éducation nationale, de la jeunesse et des sports en date du 22 juillet 2021 sur le site http://www.education.gouv.fr
+
+.
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 28 juin 2021, ces dispositions entrent en application à la rentrée de l'année scolaire 2021-2022 pour les classes de seconde et de première et à la rentrée de l'année scolaire 2022-2023 pour la classe terminale.
