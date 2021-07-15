@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219837
+
+- Question : [SEQ201219837](seq201219837.md) — Redressement des restaurateurs
+
+## Réponse
+
+*Comptes publics, JO du 2021-07-15, page 4414*
+
+Conformément à l'engagement pris lors de l'examen du projet de loi de financement de la sécurité sociale pour 2019, l'arrêté du 23 décembre 2019 modifiant l'arrêté du 10 décembre 2002 relatif à l'évaluation des avantages en nature en vue du calcul des cotisations de sécurité sociale a étendu les dispositions applicables aux salariés aux titulaires d'un mandat social concernant la valorisation des repas pris dans leur restaurant. Il n'est en revanche pas prévu de remettre en cause le principe de soumettre à cotisations l'ensemble des formes de rémunération. Les revenus d'activité sont constitués de l'ensemble des avantages retirés par une personne de sa relation de travail. Seul importe, pour définir la rémunération constituant l'assiette des cotisations, que ces avantages soient valorisables et perçus à l'occasion ou en lien avec une activité professionnelle. Cette condition suffit pour regarder cees avantages comme des revenus. C'est pourquoi les avantages en nature accordés aux salariés sont une part indissociable de l'assiette des cotisations et contributions sociales. Les rémunérations sous forme d'avantages en nature sont variées et comprennent de nombreux types d'avantages, sous forme de logement, de nourriture ou de facilités de transports. Leur assujettissement est tout aussi légitime et nécessaire que celui de la rémunération versée en espèces. À défaut, les salariés en bénéficiant verraient l'assiette servant au calcul de leurs droits réduite. En outre, si la rémunération versée sous forme d'avantages était exonérée de cotisations et contributions, l'ensemble des employeurs et salariés seraient incités à attribuer des avantages de toutes sortes plutôt que des revalorisations salariales en espèces.
