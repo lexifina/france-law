@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018255
+
+- Question : [SEQ201018255](seq201018255.md) — Impact des « coronapistes » sur les autres modes de circulation
+
+## Réponse
+
+*Transports, JO du 2021-07-15, page 4458*
+
+À travers le plan vélo et mobilités actives, le Gouvernement est engagé dans le développement des mobilités actives pour répondre aux enjeux de transition écologique, de santé publique et de pouvoir d'achat. La période de déconfinement en 2020 a été une occasion de répondre à une demande massive des français en développant en quelques semaines plus de 600 km de pistes cyclables temporaires. Sur nombre de celles-ci les fréquentations de cyclistes ont été importantes ou en forte hausse, avec, par exemple, un doublement de la pratique cycliste observée sur les pistes cyclables temporaires mises en place en Île-de-France. Le Gouvernement invite ainsi effectivement les collectivités locales à pérenniser un maximum de pistes cyclables temporaires pour multiplier les aménagements cyclables qui sont une des conditions de sécurisation des cyclistes et de développement du vélo. Le Fonds mobilités actives créé en 2019 et doté de 350M€ sur 7 ans a ainsi été mobilisé pour soutenir les projets de pérennisation des pistes cyclables de transition lors du 3e appel à projets lancé en juillet 2020 et dont les lauréats ont été annoncés en février 2020. Un nouvel appel à projets sera prochainement lancé. En tout état de cause, il revient à chaque gestionnaire de voirie de déterminer les conditions dans lesquelles un aménagement cyclable peut être installé ou pérennisé. Pour assister les maîtres d'ouvrage, le centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) publie et met à jour régulièrement les recommandations qu'il convient d'appliquer pour que la sécurité de tous les usagers soit assurée.
