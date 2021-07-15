@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623284
+
+- Question : [SEQ210623284](seq210623284.md) — Exonération de la taxe d'habitation sur les résidences principales
+
+## Réponse
+
+*Comptes publics, JO du 2021-07-15, page 4423*
+
+Dans les conditions prévues par l'article 16 de la loi de finances pour 2020, la suppression de la taxe d'habitation sur les résidences principales se traduit pour les communes par une perte de ressources, compensée par le transfert à leur profit de la part départementale de taxe foncière sur les propriétés bâties. Afin de corriger les écarts de compensation générés par la réforme, ce texte institue un dispositif d'équilibrage qui permet de neutraliser la surcompensation ou la sous-compensation de chaque commune au titre d'une année de référence. En outre, si l'engagement du Gouvernement est celui d'une compensation à l'euro près, celle-ci s'apprécie en fonction d'une perte de référence calculée indépendamment des variations d'assiette ultérieures, conformément aux dispositions de l'article 16 précité. Ainsi la perte compensable est-elle calculée, notamment, en fonction « du produit de la base d'imposition à la taxe d'habitation sur les locaux meublés affectés à l'habitation principale de la commune déterminée au titre de 2020 par le taux communal de taxe d'habitation appliqué en 2017 sur le territoire de la commune ». Avant la mise en œuvre de la réforme de la taxe d'habitation, environ 100 000 foyers avaient choisi de modifier leur résidence secondaire en principale entre 2016 et 2017 et 130 000 l'ont fait entre 2017 et 2018. Sur la période 2018-2020, ce sont moins de 130 000 foyers qui ont opté pour ce changement, dont seule la moitié a bénéficié d'un dégrèvement au titre de la résidence principale. Il y a donc une certaine stabilité dans l'ampleur des changements de nature des résidences, à rapporter aux 30 millions de foyers affectés à la résidence principale.
