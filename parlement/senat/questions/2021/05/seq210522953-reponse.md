@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522953
+
+- Question : [SEQ210522953](seq210522953.md) — Demande d'un délai supplémentaire pour les frontaliers pour leur déclaration d'impôts en raison de la crise sanitaire
+
+## Réponse
+
+*Comptes publics, JO du 2021-07-15, page 4421*
+
+Dans le contexte exceptionnel de la crise sanitaire liée à la Covid 19, l'administration fiscale s'est mobilisée tout au long de la campagne déclarative pour répondre au mieux aux attentes et aux questions des usagers, et les aider à respecter les délais de déclaration. De multiples canaux de contacts ont été offerts aux usagers, de façon totalement sécurisée et dans le respect des règles sanitaires. Le contact téléphonique et la messagerie sécurisée ont permis aux usagers d'éviter tout déplacement physique. Pour celles et ceux qui souhaitaient un entretien en présentiel, la prise de rendez-vous a permis d'éviter toute attente au guichet. Il est important de respecter les dates limites de dépôt des déclarations de revenus, notamment pour permettre la confection des avis d'impôt à l'été. Un dépôt tardif peut en effet se traduire par le rallongement des délais d'émission de l'avis d'impôt, et par le décalage éventuel des remboursements qui peuvent l'accompagner. Une telle situation pourrait par ailleurs mettre les usagers en difficulté, notamment pour ceux d'entre eux qui doivent produire un avis d'impôt pour pouvoir bénéficier d'éventuelles prestations ou services. L'administration fiscale fera preuve cette année encore de bienveillance en cas de difficultés rencontrées par les contribuables pour déposer leurs déclarations de revenus dans les délais impartis pour des raisons indépendantes de leur volonté, liés en particulier à la complexité de leur situation, pour les frontaliers, ou aux circonstances exceptionnelles que nous traversons actuellement.
