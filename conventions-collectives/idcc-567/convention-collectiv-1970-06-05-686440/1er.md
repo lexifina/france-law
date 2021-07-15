@@ -14,107 +14,35 @@ Le code de l'activité principale exercée « NAF » attribué par l'INSEE à l'
 
 Les codes NAF indiqués ci-dessous entrent dans le champ d'application de la convention collective nationale de la bijouterie, joaillerie, orfèvrerie et activités qui s'y rattachent, en dehors des activités couvertes par une autre branche.
 
-22-29B
+22. 29B – fabrication de produits de consommation courante en matières plastiques
 
-Fabrication de produits de consommation courante en matières plastiques
+Cette catégorie comprend la fabrication de produits de consommation courante en matières plastiques pour la fabrication de bijouterie, joaillerie, orfèvrerie qu'il s'agisse notamment, sans que cette liste soit limitative, de parties d'appareils d'éclairage, de bandes autoadhésives, d'articles pour le service de table ou de la cuisine, d'hygiène ou de toilettes, de fournitures de bureau et scolaires, de garnitures pour meubles, statuettes …
 
-Cette catégorie comprend la fabrication de produits de consommation courante en matières plastiques exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie qu'il s'agisse notamment, sans que cette liste soit limitative, de parties d'appareils d'éclairage, de bandes autoadhésives, d'articles pour le service de table ou de la cuisine, d'hygiène ou de toilettes, de fournitures de bureau et scolaires, de garnitures pour meubles, statuettes …
+25. 50A – forge, estampage, matriçage, métallurgie des poudres
 
-25-50A
+Cette catégorie comprend l'activité des graveurs estampeurs travaillant essentiellement pour la bijouterie et l'orfèvrerie.
 
-Forge, estampage, matriçage, métallurgie des poudres
+25. 50B – découpage, emboutissage
 
-Cette catégorie comprend, exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie, la production pour des tiers de pièces forgées ou estampées en acier, la production pour des tiers de pièces matricées en métaux non ferreux et la production pour des tiers de pièces obtenues par frittage
+Cette catégorie comprend l'activité des graveurs estampeurs travaillant essentiellement pour la bijouterie et l'orfèvrerie.
 
-25-50B
+25. 61Z – traitement et revêtement des métaux
 
-Découpage, emboutissage
+Cette catégorie comprend l'activité des doreurs-argenteurs travaillant pour la bijouterie et ­ l'orfèvrerie.
 
-Cette catégorie comprend, exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie la production pour des tiers de pièces métalliques découpées ou embouties
+25. 93Z – fabrication de quincaillerie
 
-25-61Z
+Cela comprend la fabrication de chaînes et chaînettes, chaînes-colonnes, gourmettes, bourses en mailles métalliques ou tissus à mailles métalliques, par les entreprises fabriquant essentiellement des produits destinés à la bijouterie et à la parure.
 
-Traitement et revêtement des métaux
+25. 99B – fabrication d'articles métalliques divers
 
-Cette catégorie comprend le traitement et revêtement des métaux exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie.
+Ce groupe comprend la fabrication de fermoirs pour sacs par les entreprises fabriquant essentiellement des articles destinés à la bijouterie et l'orfèvrerie, ainsi que la fabrication d'étuis à cigarettes, boîtes à fard, boîtes à poudre (poudriers).
 
-Cela comprend les opérations de traitement ou de revêtement des métaux exécutées pour des tiers :
-
-– traitements thermiques (trempe superficielle, etc.) et thermochimiques (cémentation, nitruration, etc.) des métaux ;
-
-– revêtements métalliques des métaux par électrolyse ou immersion ;
-
-– anodisation des métaux légers ;
-
-– polissage et autres traitements mécaniques des métaux ;
-
-– revêtements protecteurs et décoratifs des métaux (émaillage, vernissage, phosphatation, peinture, marquage sérigraphique, etc.) ;
-
-– plastification des métaux ;
-
-– gravure sur métaux.
-
-Cela comprend aussi le doublage ou le placage de métaux précieux, les « services minute » de gravure.
-
-25-71Z et 33-11Z
-
-Fabrication de coutellerie et Réparation d'ouvrages en métaux
-
-Cela comprend, exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie :
-
-– la fabrication de coutellerie de table, de coutellerie professionnelle et de lames pour couteaux, en métal précieux ou revêtu de métal précieux ;
-
-– la fabrication de couverts de table, y compris dorés ou argentés ;
-
-– la réparation et l'entretien d'articles de coutellerie
-
-25-93Z
-
-Fabrication d'articles en fils métalliques
-
-Cela comprend la fabrication d'articles en fils métalliques, de chaînes et de ressorts exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie :
-
-– la fabrication de clous, pointes et articles divers de clouterie ;
-
-– la fabrication de chaînes à maillons soudés, de chaînes forgées ;
-
-– la fabrication de chaînettes de toute nature ;
-
-– la fabrication de ressorts à l'exception des ressorts d'horlogerie : ressorts à lame, ressorts hélicoïdaux, barres de torsion ;
-
-– la fabrication de lames de ressort ;
-
-– la fabrication de chaînes mécaniques ;
-
-– la fabrication de ressorts d'horlogerie.
-
-25-99A
-
-Fabrication d'articles métalliques ménagers
-
-Cela comprend la fabrication d'articles d'orfèvrerie en métaux communs
-
-25-99B
-
-Fabrication d'articles métalliques divers
-
-Cela comprend :
-
-– la fabrication des petites fournitures métalliques diverses : bouclerie, rivets creux ;
-
-– la fabrication d'autres fournitures métalliques pour la maroquinerie, etc. ;
-
-– la fabrication d'articles divers en métaux communs : badges et insignes.
-
-32-11Z
-
-Frappe de monnaie
+32. 11Z – frappe de monnaie
 
 Cela comprend la fabrication de monnaies, y compris celles ayant cours légal, en métaux précieux ou non, de médailles, insignes et instruments de marque et de garantie.
 
-32-12Z
-
-Bijouterie, joaillerie, orfèvrerie
+32. 12Z – bijouterie, joaillerie, orfèvrerie
 
 Cela comprend la fabrication d'articles de joaillerie et bijouterie et d'orfèvrerie :
 
@@ -128,76 +56,62 @@ Cela comprend la fabrication d'articles de joaillerie et bijouterie et d'orfèvr
 
 – la fabrication d'articles d'orfèvrerie en métaux précieux ou en plaqués ou doublés de métaux précieux sur des métaux communs : vaisselle plate et creuse, couverts, articles de toilette, garnitures de bureau, articles à usage religieux, etc. ;
 
-– la fabrication d'articles techniques et de laboratoire en métal précieux (sauf instruments ou parties d'instruments) : creusets, spatules, anodes de placage, etc. ;
-
 – la fabrication de bracelets de montres et d'étuis et boîtes en coffrets en métaux précieux ;
 
 – la fabrication d'articles en estampage, émaux, laque, gravure, ciselure d'art et lapidairerie.
 
-32-13Z
-
-Bijouterie fantaisie
+32. 13Z – bijouterie fantaisie
 
 Cela comprend la fabrication totale ou partielle de tout article de bijouterie fantaisie à vocation d'accessoire de mode ou de parure. Réalisés à partir de matériaux divers (métal plaqué ou non, doublé de métaux précieux sur métaux communs ou non, bois, cuirs et peaux, verre, cristal, résines et matières plastiques …), ils se distinguent de la joaillerie par l'utilisation de matériaux moins précieux, bien qu'ils puissent y être intégrés.
 
-32-99Z
-
-Autres activités manufacturières NCA
+32. 99Z – autres activités manufacturières NCA
 
 Cela comprend :
 
-– la fabrication de stylos et de crayons de tous types, mécaniques ou non ;
+– la fabrication de briquets (sauf pour les départements suivants : Ain, Ardennes, Doubs, Ille-et-Vilaine, Isère, Marne, Rhône, Haute-Savoie) ;
 
-– la fabrication de boutons, de bouton-pression et de fermetures à glissière ;
+– la fabrication des ouvrages en écaille, nacre, ivoire, os, corne, corail, bois d'animaux … en matières végétales, en cire, gélatine etc.
 
-– la fabrication de briquets.
-
-15-12Z
-
-Fabrication d'articles de voyage, de maroquinerie et de sellerie
+15. 12Z – fabrication d'articles de voyage, de maroquinerie et de sellerie
 
 Cela comprend la fabrication d'articles de voyage, de maroquinerie et de sellerie exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie.
 
-16-29Z
+16. 29Z – fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie
 
-Fabrication d'objets divers en bois ; fabrication d'objets en liège, vannerie et sparterie
+Cela comprend, exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie : la fabrication d'objets divers en bois : coffrets, écrins et coffrets pour bijouterie ou orfèvrerie et ouvrages similaires, peignes de l'Ariège.
 
-Cela comprend, exclusivement pour la fabrication de bijouterie, joaillerie, orfèvrerie : la fabrication d'objets divers en bois : coffrets, écrins et coffrets pour bijouterie ou orfèvrerie et ouvrages similaires
+46. 48Z – autres commerces de gros de biens de consommation
 
-46-48Z
+Il s'agit du commerce de gros (commerce interentreprises) d'articles de bijouterie, joaillerie orfèvrerie ainsi que du commerce de gros d'horlogerie, pièces détachées, accessoires et outillage d'horlogerie.
 
-Autres commerces de gros de biens de consommation
-
-Il s'agit du commerce de gros (commerce interentreprises) d'articles de bijouterie.
-
-47-77Z
-
-Commerce de détail d'horlogerie et de bijouterie
+47. 77Z – commerce de détail d'horlogerie et de bijouterie
 
 Cela comprend le commerce de détail d'articles de bijouterie en magasin spécialisé.
 
-« Conformément à la clause prévue par l'article 1er de la convention collective du commerce de détail de l'horlogerie-bijouterie, et après la date d'extension de cette convention, la convention collective nationale de la BJO du 5 juin 1970 modifiée demeure applicable aux entreprises du commerce de détail qui l'appliquent à la date d'extension susvisée, sont adhérentes aux syndicats affiliés à la fédération BJOC et non adhérentes à l'une des organisations syndicales signataires de la convention collective du commerce de détail de l'horlogerie-bijouterie. »
+« Conformément à la clause prévue par l'article 1er de la convention collective du commerce de détail de l'horlogerie-bijouterie, et après la date d'extension de cette convention, la convention collective nationale de la BJO du 5 juin 1970 modifiée demeure applicable aux entreprises du commerce de détail qui l'appliquent à la date d'extension susvisée, sont adhérentes aux syndicats représentatifs de la branche et non adhérentes à l'une des organisations syndicales signataires de la convention collective du commerce de détail de l'horlogerie-bijouterie. »
 
-64-20Z
-
-Activités des sociétés de holding
+64. 20Z – activités des sociétés de holding
 
 Dans cette sous-classe, sont visées les entreprises détenant des participations dans des sociétés incluses dans le présent champ d'application, pour un montant supérieur à la moitié de la valeur de leur portefeuille. Ce montant et cette valeur sont retenus tels qu'ils figurent au poste « immobilisations » du bilan arrêté à la fin du dernier exercice clos.
 
-70-10Z
-
-Activités des sièges sociaux
+70. 10Z – activités des sièges sociaux
 
 Dans cette sous-classe, sont visés les sièges sociaux des entreprises dont la majorité des salariés sont occupés dans des établissements dont l'activité principale relève du champ d'application défini par le présent accord.
 
-95-25Z
+95. 25Z – réparation de montres, horloges et bijoux
 
-Réparation de montres, horloges et bijoux
-
-Cela comprend la réparation d'articles de bijouterie.
+Cela comprend la réparation d'articles de bijouterie à l'exception de la réparation de montres et d'horloges de bijouterie ne dépendant pas d'un magasin de vente.
 
 La présente convention collective est également applicable :
 
 – aux organisations patronales ou associations d'employeurs dont l'objet peut les conduire à participer à la négociation de la convention collective ;
 
 – aux organismes de formation initiale ou continue, rattachés aux organisations professionnelles d'employeurs relevant de la présente convention collective.
+
+NOTA :
+
+Par arrêté ministériel du 5 janvier 2017, pris en application de l'article L. 2261-32 du code du travail relatif à la restructuration des branches professionnelles, le champ d'application de la convention collective locale des industries du peigne de la Vallée de l'Hers et du Touyre (IDCC 25) a fusionné avec celui de la convention collective nationale de la bijouterie, joaillerie, orfèvrerie et des activités qui s'y rattachent (IDCC 567), désignée comme branche de rattachement.
+
+Par arrêté ministériel du 16 novembre 2018, pris en application de l'article L. 2261-32 du code du travail relatif à la restructuration des branches professionnelles, le champ d'application de la convention collective nationale de l'horlogerie (IDCC 1044) a fusionné avec celui de la convention collective nationale de la bijouterie, joaillerie, orfèvrerie et des activités qui s'y rattachent (IDCC 567), désignée comme branche de rattachement.
+
+Dans un délai maximal de 5 ans à compter de l'entrée en vigueur de la fusion des champs, les stipulations des conventions collectives concernées peuvent être maintenues, dans l'attente de la conclusion d'un accord remplaçant par des stipulations communes les stipulations régissant des situations équivalentes dans chacune des conventions. A défaut d'accord au terme de ce délai, les stipulations de la convention rattachée cessent de s'appliquer, à l'exception de celles régissant des situations spécifiques (Conseil constitutionnel, décision n° 2019-816 QPC du 29 novembre 2019).
