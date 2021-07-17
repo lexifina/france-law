@@ -450,7 +450,7 @@ COMPAGNIE DE SIGNAUX ET D'ENTREPRISES ÉLECTRIQUES (CSEE), Résidence La Grande 
 
 CORSICA LINEA SAS (n° SIRET 81524385200101), 42, rue de Ruffi, Bât G, 13003 MARSEILLE
 
-Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 au 30 juin 2021.
+Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 au 30 juin 2022.
 
 Cotre :
 
@@ -830,7 +830,7 @@ SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, 
 
 SA Compagnie Marseille Réparation-CMR (SIRET : 442 531 281 00016), puis Union Naval Marseille SAS (UNM) (SIRET : 490 355 005 00029), Terrain de Mourepiane, Porte 4, 13016 MARSEILLE
 
-puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 au 30 juin 2021.
+puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 au 30 juin 2022.
 
 SA des anciens établissements Groignard/Ateliers provençaux de réparation navale/Ateliers provençaux de réparation navale et industrielle/Ateliers provençaux :
 
@@ -1060,13 +1060,19 @@ Société méditerranéenne de carénage (SOMECAR) :
 
 - centre de réparation navale Mourepiane, 13016 Marseille : de 1981 à 1992.
 
-Société Méditerranéenne Electricité Electronique Electrotechnique - M3E
+Société Méditerranéenne Electricité Electronique Electrotechnique-M3E
 
-17B boulevard Arthur Michaud
+19, rue Mathilde,13015 Marseille : de 1999 à 2000
 
-13015 Marseille
+(SIRET N° 423 082 593 00017)
 
-(SIRET N° 423 082 593 00033) : De 1999 à 2010
+puis
+
+Société Méditerranéenne Electricité Electronique Electrotechnique-M3E
+
+78, rue Rabelais, 13016 Marseille : de 2000 à 2010
+
+(SIRET N° 423 082 593 00025)
 
 Société nationale Corse-Méditerranée (SNCM) 61, boulevard des Dames, 18, rue Mazenod, 17, avenue Robert-Schuman, 13002 Marseille : De 1950 à 2014.
 
@@ -1210,7 +1216,7 @@ TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-
 
 Var Industrie Zone Industrielle Les Négadoux 83140 Six Fours Les Plages de 1979 à 2001.
 
-Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989
+Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989.
 
 Wartsila Diesel Normed/Wartsila Diesel France/SACM Diesel/Wartsila SACM Diesel/Wartsila France/Wartsila NSD France/Wartsila France SAS, lieudit Les Baux, RN 8, 13420 Gemenos, de 1985 à 2003, enceinte portuaire, porte 4, 13344 Marseille Cedex 15, depuis 2003
 
