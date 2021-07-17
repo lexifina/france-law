@@ -1,0 +1,57 @@
+# Article 1er
+
+« Départ à la retraite
+
+Constitue un départ volontaire à la retraite le fait par un salarié de résilier unilatéralement son contrat de travail à durée indéterminée pour bénéficier d'une pension de vieillesse.
+
+Tout salarié quittant volontairement l'entreprise pour bénéficier du droit à une pension vieillesse a droit à une indemnité de départ en retraite fixée en fonction de son ancienneté dans l'entreprise ou l'établissement à :
+
+– 1 mois et demi de salaire après 10 ans d'ancienneté ;
+
+– 2 mois de salaire après 15 ans d'ancienneté ;
+
+– 3 mois de salaire après 20 ans d'ancienneté ;
+
+– 3,5 mois de salaire après 25 ans d'ancienneté ;
+
+– 4 mois de salaire après 30 ans d'ancienneté ;
+
+– 4,5 mois de salaire après 35 ans d'ancienneté ;
+
+– 5 mois de salaire après 40 ans d'ancienneté.
+
+Le salaire à prendre en considération pour le calcul de l'indemnité de départ en retraite est le douzième de la rémunération des 12 derniers mois précédant le départ en retraite, ou, selon la formule la plus avantageuse pour l'intéressé, le tiers des 3 derniers mois, étant entendu que dans ce cas, toute prime ou gratification qui aurait été versée au salarié pendant cette période ne serait prise en considération que pro rata temporis, c'est-à-dire que ces éléments de rémunération seraient ramenés à une valeur mensuelle.
+
+L'indemnité prévue au présent article ne se cumule pas avec toute autre indemnité de même nature.
+
+Mise à la retraite
+
+Constitue une mise à la retraite le fait par un employeur de résilier unilatéralement, dans les conditions et sous les réserves prévues par l'article L. 1237-5 du code du travail, le contrat de travail à durée indéterminée d'un salarié.
+
+En cas de rupture du contrat de travail à l'initiative de l'employeur, pour mise à la retraite d'un salarié qui :
+
+– a atteint l'âge d'acquisition automatique du taux plein soit l'âge légal augmenté de 5 années (67 ans pour les assurés nés à compter du 1er janvier 1955) ;
+
+– bénéficie d'une pension vieillesse à taux plein ;
+
+– remplit les conditions d'ouverture à la pension vieillesse.
+
+L'employeur versera une indemnité égale à l'indemnité de licenciement prévue à l'article 79 de la convention collective.
+
+Délai-congé
+
+En cas de rupture du contrat de travail pour cause de départ volontaire en retraite et de mise à la retraite la durée du délai-congé est fixée, en fonction de l'ancienneté de services continus du salarié dans l'entreprise, dans les conditions suivantes :
+
+1°   S'il justifie chez le même employeur d'une ancienneté de services continus inférieure à 6 mois, à un préavis d'une semaine.
+
+2°   S'il justifie chez le même employeur d'une ancienneté de services continus comprise entre 6 mois et moins de 2 ans, à un préavis d'un mois.
+
+3°   S'il justifie chez le même employeur d'une ancienneté de services continus d'au moins 2 ans, à un préavis de 2 mois.
+
+En cas de mise à la retraite par l'employeur, ces délais courent à compter de la date de présentation au salarié de la lettre recommandée relative à la mise en retraite.
+
+Ces délais peuvent être réduits d'un commun accord entre les parties.
+
+Dans le cas où le salarié ne respecte pas ce préavis, celui-ci devra à l'employeur une indemnité compensatrice de préavis égale au salaire qu'il aurait perçu s'il avait continué à travailler jusqu'au terme de la période de préavis. »
+
+Les dispositions du présent avenant sont applicables pour tout départ ou mise à la retraite notifiée à partir du lendemain de son arrêté d'extension.
