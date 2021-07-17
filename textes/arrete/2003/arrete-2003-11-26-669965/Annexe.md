@@ -16,7 +16,11 @@ Pôle de la communication |
 
 Astreinte de direction. |
 
-1 astreinte de fin de semaine et jours fériés. |
+1 astreinte de semaine
+
+1 astreinte de fin semaine
+
+1 astreinte de jour férié isolé |
 
 Cabinet |
 
@@ -86,13 +90,17 @@ Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
+Bureau d'enquêtes et d'analyses
+
+pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
 1 astreinte de semaine et 2 astreintes de fin de semaine |
 
-Direction des opérations de la direction des services de la navigation aérienne |
+Direction des opérations de la direction des services
+
+de la navigation aérienne |
 
 |
 
@@ -122,11 +130,11 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Astreinte technique. |
-
-1 astreinte de semaine. |
+Astreinte technique.
 
 Astreinte technique (radar). |
+
+1 astreinte de semaine.
 
 2 astreintes de fin de semaine 4 fois par an. |
 
@@ -192,9 +200,13 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
+|
+
 Astreinte technique. |
 
 1 astreinte de semaine. |
+
+|
 
 Astreinte technique (radar). |
 
@@ -480,7 +492,7 @@ DSAC Sud-Ouest |
 
 DSAC |
 
-Astreinte de contrôle technique d'exploitation. |
+Astreinte de contrôle technique d'exploitation . |
 
 1 astreinte de semaine dans la limite de 26 semaines par an. |
 
@@ -490,19 +502,19 @@ Astreinte de direction |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Bordeaux) |
+Région Nouvelle-Aquitaine (Bordeaux) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Pau) |
+Région Nouvelle-Aquitaine (Pau) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Poitiers) |
+Région Nouvelle-Aquitaine (Poitiers) |
 
 Astreinte enquêtes-accidents. |
 
@@ -574,13 +586,13 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val-de-Loire (Tours) |
+Région Centre-Val de Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Normandie (Deauville, le Havre et Rouen) |
+Région Normandie (Deauville, Le Havre et Rouen) |
 
 Astreinte enquêtes-accidents. |
 
@@ -818,7 +830,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 Nouméa |
 
-Astreinte de direction (Service mixte DAC/ NC ). |
+Astreinte de direction (service mixte DAC/ NC ). |
 
 1 astreinte de semaine. |
 
