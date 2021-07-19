@@ -1,0 +1,62 @@
+# Responsabilité pénale et sécurité intérieure
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N43025
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reponsabilite_penale_securite_interieure
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl20-849.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-07-20 : 1er dépôt d'une initiative. (PRJLANR5L15B4387)
+  - 2021-07-20 : Etude d'impact (ETDIANR5L15B4387)
+  - 2021-07-20 : Avis du Conseil d'Etat (AVCEANR5L15B4387)
+  - 2021-07-19 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-20 : Renvoi en commission au fond
+      - 2021-07-25 : Nomination de rapporteur
+      - 2021-07-25 : Réunion de commission
+      - 2021-09-14 : Réunion de commission
+      - 2021-09-14 : Réunion de commission
+      - 2021-09-15 : Réunion de commission
+      - 2021-09-15 : Réunion de commission
+      - 2021-09-21 : Réunion de commission
+      - 2021-09-16 : Dépôt de rapport (RAPPANR5L15B4442, PRJLANR5L15BTC4442)
+  - Discussion en séance publique
+    - 2021-09-21 : Discussion en séance publique
+    - 2021-09-21 : Discussion en séance publique
+    - 2021-09-22 : Discussion en séance publique
+    - 2021-09-22 : Discussion en séance publique
+    - 2021-09-23 : Discussion en séance publique
+    - 2021-09-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-09-23 : Dépôt d'une initiative en navette (PRJLSNR5S359B0849)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-09-23 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-10-13 : Dépôt de rapport (RAPPSNR5S379B0046, PRJLSNR5S379BTC0047)
+  - Discussion en séance publique
+    - 2021-10-19 : Décision
+- Commission Mixte Paritaire
+  - 2021-10-19 : Dépôt d'un projet de loi (PRJLANR5L15B4596)
+  - 2021-10-19 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-11-18 : Nomination de rapporteur
+    - 2021-11-18 : Dépôt du rapport d'une CMP (RAPPANR5L15B4703, PRJLANR5L15BTC4703)
+    - 2021-11-18 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0175, PRJLSNR5S379BTC0176)
+  - Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Discussion en séance publique
+    - 2021-12-13 : Décision
+  - Discussion en séance publique
+    - 2021-12-16 : Décision
+  - 2021-11-18 : Décision de la CMP
+- Conseil constitutionnel
+  - 2021-12-21 : Saisine du conseil constitutionnel
+  - 2021-12-23 : Saisine du conseil constitutionnel
+  - 2022-01-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-01-24 : Promulgation d'une loi
