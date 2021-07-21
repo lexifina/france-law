@@ -56,7 +56,7 @@ a) pour les essences et supercarburants, le taux de la taxe intérieure de conso
 
 b) pour le gazole, le taux de la taxe intérieure de consommation visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 22.
 
-c) (Abrogé).
+c) Pour le gazole utilisé comme carburant pour l'alimentation des moteurs fixes, le tarif de la taxe intérieure de consommation prévu à l'article 265 octies D.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil régional, et, à Mayotte, par le conseil général aux conditions qu'il fixe.
 
@@ -66,6 +66,4 @@ c) (Abrogé).
 
 NOTA :
 
-Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020) conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
-
-Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Se reporter aux conditions d'application prévues au IV de l'article 7 de la loi n° 2021-953 du 19 juillet 2021.

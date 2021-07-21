@@ -10,6 +10,22 @@ L'impôt est acquitté dans les conditions fixées au IV de l'article 244 bis A.
 
 Les organisations internationales, les Etats étrangers, les banques centrales et les institutions financières publiques de ces Etats sont exonérés lorsque les cessions se rapportent à des titres remplissant les conditions prévues à l'article 131 sexies.
 
+Le prélèvement mentionné au premier alinéa du présent article ne s'applique pas aux organismes de placement collectif constitués sur le fondement d'un droit étranger, situés dans un Etat membre de l'Union européenne ou dans un autre Etat ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de l'article 238-0 A et qui satisfont aux conditions suivantes :
+
+1° Lever des capitaux auprès d'un certain nombre d'investisseurs en vue de les investir, conformément à une politique d'investissement définie, dans l'intérêt de ces investisseurs ;
+
+2° Présenter des caractéristiques similaires à celles d'organismes de placement collectif de droit français relevant de la section 1, des paragraphes 1,2,3,5 et 6 de la sous-section 2, de la sous-section 3 ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ;
+
+3° Pour les organismes situés dans un Etat non membre de l'Union européenne ou non partie à l'accord sur l'Espace économique européen, ne pas participer de manière effective à la gestion ou au contrôle de la société mentionnée au f du I de l'article 164 B du présent code.
+
+Les stipulations de la convention d'assistance administrative mentionnée au sixième alinéa du présent article et leur mise en œuvre doivent effectivement permettre à l'administration fiscale d'obtenir, des autorités de l'Etat dans lequel l'organisme de placement collectif constitué sur le fondement d'un droit étranger mentionné au même sixième alinéa est situé, les informations nécessaires à la vérification du respect par cet organisme des conditions prévues aux 1° à 3°.
+
+Peuvent obtenir la restitution de la part du prélèvement mentionné au premier alinéa qui excède l'impôt sur les sociétés dont elles auraient été redevables si leur siège social avait été situé en France les personnes morales ou organismes, quelle qu'en soit la forme :
+
+a) Dont le siège social se situe dans un Etat de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de l'article 238-0 A ;
+
+b) Ou, sous réserve qu'ils ne participent pas de manière effective à la gestion ou au contrôle de la société dont les titres sont cédés ou rachetés, dont le siège social se situe dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance administrative en matière d'échange de renseignements et de lutte contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens du même article 238-0 A.
+
 NOTA :
 
-Conformément au A du X de l'article 39 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux retenues et prélèvements à la source dont le fait générateur est intervenu entre le 6 mars 2019 et le 31 décembre 2021.
+Conformément au II de l'article 2 de la loi n° 2021-953 du 19 juillet 2021, ces dispositions s'appliquent aux cessions ou rachats de droits sociaux et aux distributions réalisés à compter du 30 juin 2021.

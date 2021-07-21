@@ -106,7 +106,7 @@ Un centre de stockage de données numériques s'entend d'une infrastructure immo
 
 f. Le tarif de la taxe applicable à l'électricité consommée par les exploitants d'aérodromes ouverts à la circulation aérienne publique, dont la consommation totale d'électricité est supérieure à 222 wattheures par euro de valeur ajoutée, est fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
-g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222 wattheures par euro de valeur ajoutée, est fixé à 0,5 € par mégawattheure.
+g. (abrogé)
 
 h. Le tarif de la taxe applicable à l'électricité directement fournie, lors de leur stationnement à quai dans les ports, aux navires mentionnés au c du 1 de l'article 265 bis et aux engins bénéficiant de l'exonération mentionnée au e du même 1 est fixé à 0,5 € par mégawattheure.
 
@@ -156,6 +156,4 @@ Un décret détermine les modalités d'application de l'assiette de la taxe lors
 
 NOTA :
 
-Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020) conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
-
-Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Ordonnance n° 2021-1843 du 22 décembre 2021, article 7 : L'abrogation des dispositions mentionnées au 6° de l'article 7 ne prendra effet qu'à compter de la publication des dispositions réglementaires du code des impositions sur les biens et services pour ce qui concerne le mot " 240 millions de kilowattheures par site de production ".

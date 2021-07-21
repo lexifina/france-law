@@ -2,7 +2,7 @@
 
 I. 1° Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire réalisées dans les mêmes conditions que celles prévues aux 1 et 2 du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2021.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2022.
 
 2° Le bénéfice de l'avantage fiscal prévu au 1° du présent I est subordonné au respect, par la société bénéficiaire de la souscription, des conditions prévues au 1 bis du I de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017.
 
@@ -42,7 +42,7 @@ V. Un décret fixe les modalités d'application du présent article, notamment l
 
 VI. – 1. Les contribuables domiciliés fiscalement en France peuvent bénéficier d'une réduction de leur impôt sur le revenu égale à 18 % des versements effectués au titre de souscriptions en numéraire de parts de fonds ou d'organismes mentionnés au 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, sous réserve du respect des conditions prévues au même 1.
 
-Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2021.
+Toutefois, le taux est fixé à 25 % pour les versements effectués jusqu'au 31 décembre 2022.
 
 2. Les versements ouvrant droit à la réduction d'impôt mentionnée au 1 du présent VI sont retenus, après imputation des droits ou frais d'entrée et à proportion du quota d'investissement mentionné au premier alinéa du c du 1 du III de l'article 885-0 V bis, dans sa rédaction en vigueur au 31 décembre 2017, que le fonds s'engage à atteindre, dans les limites annuelles de 12 000 € pour les contribuables célibataires, veufs ou divorcés et de 24 000 € pour les contribuables mariés ou pour ceux liés par un pacte civil de solidarité et soumis à imposition commune.
 
@@ -80,8 +80,8 @@ Sans préjudice des sanctions que l'Autorité des marchés financiers peut prono
 
 NOTA :
 
-Conformément au III de l'article 113 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne, ou aux versements effectués à compter du 1er janvier 2021 si cette réception a lieu avant cette date.
+Conformément à l'article 1 du décret n° 2021-371 du 16 mars 2022 :
 
-Conformément au II de l'article 110 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne, ou aux versements effectués à compter du 1er janvier 2021 si cette réception a lieu avant cette date.
+Les dispositions du I de l'article 19 de la loi n° 2021-953 du 19 juillet 2021 de finances rectificative pour 2021 s'appliquent aux versements effectués à compter du lendemain de la publication du présent décret au Journal officiel de la République française.
 
-Conformément à l'article 1 du décret n° 2021-559 du 6 mai 2021 fixant la date d'entrée en vigueur des dispositions relatives à la réduction d'impôt pour souscription en numéraire au capital des petites et moyennes entreprises issues des articles 110, 112 et 113 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, ces dispositions s'appliquent aux versements effectués à compter du lendemain de la publication dudit décret.
+Conformément au III de l'article 19 de la loi n° 2021-953 du 19 juillet 2021, ces dispositions s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne, ou aux versements effectués à compter du 1er janvier 2022 si cette réception a lieu avant cette date.
