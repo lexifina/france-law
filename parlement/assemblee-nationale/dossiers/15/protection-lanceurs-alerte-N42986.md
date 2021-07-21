@@ -1,0 +1,53 @@
+# Améliorer la protection des lanceurs d’alerte
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N42986
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/protection_lanceurs_alerte
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl21-174.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-07-21 : 1er dépôt d'une initiative. (PIONANR5L15B4398)
+  - 2021-07-21 : Avis du Conseil d'Etat (AVCEANR5L15B4398)
+  - 2021-10-25 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-07-21 : Renvoi en commission au fond
+      - 2021-10-19 : Nomination de rapporteur
+      - 2021-11-10 : Réunion de commission
+      - 2021-11-17 : Réunion de commission
+      - 2021-11-10 : Dépôt de rapport (RAPPANR5L15B4663, PIONANR5L15BTC4663)
+  - Discussion en séance publique
+    - 2021-11-17 : Discussion en séance publique
+    - 2021-11-17 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-11-18 : Dépôt d'une initiative en navette (PIONSNR5S379B0174)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-18 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-12-15 : Dépôt de rapport (RAPPSNR5S379B0299, PIONSNR5S379BTC0300)
+  - Discussion en séance publique
+    - 2022-01-20 : Décision
+- Commission Mixte Paritaire
+  - 2022-01-21 : Dépôt d'un projet de loi (PIONANR5L15B4936)
+  - 2022-01-24 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-02-01 : Nomination de rapporteur
+    - 2022-02-01 : Dépôt du rapport d'une CMP (RAPPANR5L15B4979, PIONANR5L15BTC4979)
+    - 2022-02-01 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0424, PIONSNR5S379BTC0425)
+  - Discussion en séance publique
+    - 2022-02-08 : Discussion en séance publique
+    - 2022-02-08 : Discussion en séance publique
+    - 2022-02-08 : Décision
+  - Discussion en séance publique
+    - 2022-02-16 : Discussion en séance publique
+    - 2022-02-16 : Décision
+  - 2022-02-01 : Décision de la CMP
+- Conseil constitutionnel
+  - 2022-02-18 : Saisine du conseil constitutionnel
+  - 2022-03-17 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-03-21 : Promulgation d'une loi
