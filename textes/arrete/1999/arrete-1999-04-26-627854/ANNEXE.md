@@ -36,6 +36,8 @@ Sonde vésicale pour hétérosondage intermittent.
 
 Seringue et aiguille sauf si le matériel est compris dans la rémunération de l'acte.
 
+Chaussures thérapeutiques à usage temporaire.
+
 II. - Matériel médical amortissable
 
 Armoire de pharmacie.
