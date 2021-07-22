@@ -50,6 +50,18 @@ remise au public
 
 |
 
+Aciclovir
+
+|
+
+Voie gingivale |
+
+|
+
+0,05 |
+
+0,1 |
+
 Acides polyéthylène sulfoniques et leurs sels :
 
 |
