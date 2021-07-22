@@ -4,15 +4,11 @@
 
 PAYS OU RÉGION
 
-administrative
-
-|
+administrative |
 
 CATÉGORIES CONCERNÉES
 
-par la dispense de visa
-
-|
+PAR LA DISPENSE DE VISA |
 
 Afrique du Sud |
 
@@ -20,9 +16,9 @@ Dispense s'appliquant seulement :
 
 -aux titulaires d'un passeport diplomatique ou de service ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Albanie |
 
@@ -34,7 +30,7 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de
 
 Andorre |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Angola |
 
@@ -42,15 +38,21 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de
 
 Antigua-et-Barbuda |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Arabie saoudite |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
+Dispense s'appliquant seulement :
+
+-aux titulaires d'un passeport diplomatique, ou spécial ;
+
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
+
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Argentine |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Arménie |
 
@@ -58,15 +60,11 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Australie |
 
-Dispense de visa :
-
-Sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense Sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ;
 
--et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants australiens, cette dispense de visa s'applique également aux ressortissants de Norfolk (territoire associé à l'Australie), titulaires d'un passeport australien.
-
-|
+-et le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants australiens, cette dispense de visa s'applique également aux ressortissants de Norfolk (territoire associé à l'Australie), titulaires d'un passeport australien. |
 
 Azerbaïdjan |
 
@@ -74,33 +72,41 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Bahamas |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Bahreïn |
 
-Dispense de visa s'appliquant seulement :
+Dispense s'appliquant seulement :
 
 -aux titulaires d'un passeport diplomatique ou spécial ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Barbade |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
+
+Belize |
+
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Bénin |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique sécurisé. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique sécurisé. |
 
 Biélorussie |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française. |
+Dispense s'appliquant seulement :
+
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
+
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Bolivie |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Bosnie |
 
@@ -108,15 +114,13 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'
 
 Brésil |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. |
 
-|
-
-Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen. |
+Titulaires d'un passeport britannique dont la nationalité mentionnée sur la page des données personnelles n'est pas British Citizen |
 
 Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, sur la page de données personnelles, à la rubrique nationalité :
 
@@ -128,17 +132,15 @@ Dispense s'appliquant aux seuls titulaires d'un passeport britannique portant, s
 
 -British Protected Persons ;
 
--British Subjects.
-
-|
+-British Subjects. |
 
 Brunei |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Canada |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Cap-Vert |
 
@@ -146,153 +148,161 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de
 
 Chili |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Chine |
 
-Pour les séjours dont la durée n'excède pas trois mois : dispense de visa s'appliquant seulement aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+Dispense s'appliquant :
 
-Pour les séjours d'une durée inférieure à quinze jours : dispense de visa pour les ressortissants dont le voyage et le séjour sont organisés par l'intermédiaire d'une agence agréée.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire.
+
+Pour les séjours d'une durée inférieure à quinze jours : dispense de visa pour les ressortissants dont le voyage et le séjour sont organisés par l'intermédiaire d'une agence agréée. |
 
 Chine (Hong Kong) |
 
-Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine. |
+Dispense s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Hong Kong de la République populaire de Chine. |
 
 Chine (Macao) |
 
-Dispense de visa s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine. |
+Dispense s'appliquant aux titulaires d'un passeport de la région administrative spéciale de Macao de la République populaire de Chine. |
 
 Chine (Taïwan) |
 
-Dispense de visa s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité. |
+Dispense s'appliquant aux seuls titulaires de passeports délivrés par Taïwan qui comportent un numéro de carte d'identité. |
 
 Colombie |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Congo (Brazzaville) |
 
-Dispense de visa s'appliquant jusqu'au 31 octobre 2016 aux seuls titulaires d'un passeport diplomatique sécurisé. |
+Dispense s'appliquant jusqu'au 30 septembre 2022 aux seuls titulaires d'un passeport diplomatique sécurisé. |
 
 Corée du Sud |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
-
-|
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. |
 
 Costa Rica |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 République dominicaine |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Dominique |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 El Salvador |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Emirats arabes unis |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport |
+Dispense s'étendant à tout type de passeport |
 
 Equateur |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Etats-Unis |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie Française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non incorporé des USA) et titulaires d'un passeport américain.
 
-Outre les ressortissants américains, cette dispense s'étend également aux ressortissants des îles Samoa américaines et de Guam (territoires bénéficiant du statut de non-incorporé des USA) et titulaires d'un passeport américain.
+La dispense de visa prévue supra ne s'applique pas aux titulaires d'un passeport diplomatique ou de service effectuant un séjour pour des raisons professionnelles. |
 
-La dispense de visa prévue supra ne s'applique pas aux titulaires d'un passeport diplomatique ou de service effectuant un séjour pour des raisons professionnelles.
+Fidji |
 
-|
+Dispense s'étendant à tout type de passeport. |
 
 Gabon |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Géorgie |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
 Grenade |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport |
+Dispense s'étendant à tout type de passeport |
 
 Guatemala |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Honduras |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Inde |
 
-Dispense de visa s'appliquant :
+Dispense s'appliquant seulement :
 
 -aux titulaires d'un passeport diplomatique ;
 
--aux titulaires d'un passeport sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Indonésie |
 
-Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou de service. |
+Dispense s'appliquant seulement :
+
+-aux titulaires d'un passeport diplomatique ou de service ;
+
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
+
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Israël |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Japon |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
-
-|
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. |
 
 Jordanie |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Kazakhstan |
 
 Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique. |
 
-Koweït |
+Kirghizistan |
 
-Dispense de visa s'appliquant seulement :
-
--aux titulaires d'un passeport diplomatique ou spécial ;
-
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
-
-|
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Kiribati |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
+
+Koweït |
+
+Dispense s'appliquant seulement :
+
+-aux titulaires d'un passeport diplomatique ou spécial ;
+
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
+
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Macédoine (ancienne République yougoslave de) |
 
@@ -300,49 +310,47 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'
 
 Malaisie |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Mariannes du Nord |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Maroc |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou de service. |
 
 Iles Marshall |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Maurice |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Mexique |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie Française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
-
-|
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. |
 
 Etats fédérés de Micronésie |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Moldavie |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique ou d'un passeport biométrique. |
 
 Monaco |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois. |
+Dispense s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois. |
 
 Mongolie |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Monténégro |
 
@@ -350,51 +358,53 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'
 
 Namibie |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Nauru |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Nicaragua |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Nouvelle-Zélande |
 
-Outre les ressortissants néo-zélandais, la dispense de visa s'étend également aux ressortissants :
+Dispense s'étendant à tout type de passeport. Outre les ressortissants néo-zélandais, la dispense de visa s'étend également aux ressortissants :
 
 -des îles Tokelau (territoire sous souveraineté néo-zélandaise) et Niue (statut de libre association avec la Nouvelle-Zélande), titulaires d'un passeport néo-zélandais ;
 
--des îles Cook, titulaires d'un passeport néo-zélandais.
-
-|
+-des îles Cook, titulaires d'un passeport néo-zélandais. |
 
 Oman |
 
-Dispense de visa s'appliquant seulement :
+Dispense s'appliquant seulement :
 
 -aux titulaires d'un passeport diplomatique, spécial ou de service ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Palaos |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Panama |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
+
+Papouasie-Nouvelle-Guinée |
+
+Dispense s'étendant à tout type de passeport. |
 
 Paraguay |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Pérou |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. |
+Dispense s'étendant à tout type de passeport. |
 
 Qatar |
 
@@ -402,11 +412,11 @@ Dispense de visa s'appliquant seulement :
 
 -aux titulaires d'un passeport diplomatique ou spécial ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
-Royaume-Uni de Grande-Bretagne et d'Irlande du Nord |
+Royaume-Uni de Grande Bretagne et d'Irlande du Nord |
 
 Dispense s'étendant à tout type de passeport. |
 
@@ -416,41 +426,41 @@ Dispense de visa s'appliquant seulement :
 
 -aux titulaires d'un passeport diplomatique ;
 
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
 
-|
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Saint-Christophe-et-Niévès |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Saint-Marin |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois. |
+Dispense s'étendant à tout type de passeport y compris pour des séjours d'une durée excédant trois mois. |
 
 Saint-Siège |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Saint-Vincent-et-les-Grenadines |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Sainte-Lucie |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Iles Salomon |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Samoa occidentales |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Sénégal |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 Serbie |
 
@@ -458,77 +468,73 @@ Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique ou d'
 
 Seychelles |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Singapour |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie Française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
-
-|
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. |
 
 Thaïlande |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant seulement :
+
+-aux titulaires d'un passeport diplomatique ;
+
+-aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française ;
+
+-aux titulaires d'un passeport en cours de validité, passagers d'un navire de croisière, pour une escale n'excédant pas 24 heures et sous réserve d'être en possession d'un certificat d'escale émis par la société de croisière avant sa descente du bateau. La liste des passagers susceptibles de bénéficier de cette dispense est transmise par les responsables des sociétés de croisière au service de police chargé du contrôle aux frontières au moins 24 heures avant la date d'entrée dans le port concerné. La liste comprend les informations suivantes : nom, prénom, date de naissance, nationalité, numéro et date d'expiration du passeport de chaque passager. Dans les ports éligibles, ces informations sont transmises via le guichet unique portuaire. |
 
 Timor oriental |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Tonga |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Trinité-et-Tobago |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Tunisie |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique ou spécial. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique, de service ou spécial. |
 
 Turquie |
 
-Dispense de visa s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial. |
+Dispense s'appliquant seulement aux titulaires d'un passeport diplomatique, de service ou spécial. |
 
 Tuvalu |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Ukraine |
 
-Dispense de visa s'appliquant seulement :
-
--aux titulaires d'un passeport diplomatique ou de service biométrique ;
-
--aux titulaires d'un passeport ordinaire sur lequel est apposé un visa à entrées multiples dont la durée de validité est comprise entre six mois et cinq ans, délivré par une autorité consulaire française.
-
-|
+Dispense s'appliquant seulement aux titulaires d'un passeport biométrique. |
 
 Uruguay |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Vanuatu |
 
-Dispense de visa de court séjour s'étendant à tout type de passeport. |
+Dispense s'étendant à tout type de passeport. |
 
 Venezuela |
 
-Dispense de visa sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en France une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
+Dispense sauf pour effectuer un séjour d'une durée n'excédant pas trois mois afin d'exercer en Polynésie Française une activité rémunérée et seulement si les conditions suivantes sont simultanément réunies :
 
 -une autorisation de travail est exigée par la réglementation de la Polynésie française pour exercer cette activité ; et
 
--le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière.
-
-|
+-le ressortissant étranger n'est pas en mesure de présenter cette autorisation de travail lors du franchissement de la frontière. |
 
 Vietnam |
 
-Dispense de visa s'appliquant aux seuls titulaires d'un passeport diplomatique. |
+Dispense s'appliquant aux seuls titulaires d'un passeport diplomatique. |
 
 2. Liste des catégories spécifiques d'étrangers dispensés de visa pour l'entrée sur le territoire de la Polynésie française et limites à cette dispense :
 
@@ -544,7 +550,7 @@ c) Les membres de l'équipage civil des avions (le personnel navigant technique 
 
 d) Les membres de l'équipage civil des navires titulaires d'une pièce d'identité des gens de mer, délivrée conformément aux conventions de l'Organisation internationale du travail n° 108 de 1958 et n° 185 du 19 juin 2003 et de la convention visant à faciliter le trafic maritime international signée à Londres le 9 avril 1965, en cas de descente à terre lors d'une escale pour circuler dans la zone portuaire, sur le territoire de la commune du port de relâche et sur celui des communes avoisinantes tel que défini par le haut commissaire.
 
-e) Les passagers des navires de croisière pour entrer et y séjourner pendant la durée de l'escale s'ils répondent à l'une des conditions suivantes :
+e) Les passagers des navires de croisière pour entrer et y séjourner pour une escale n'excédant pas 24 heures s'ils répondent à l'une des conditions suivantes :
 
 - ils sont titulaires d'un titre de séjour en cours de validité délivré par un Etat membre de l'Union européenne, de l'Espace économique européen ou de Suisse ;
 
@@ -552,7 +558,9 @@ e) Les passagers des navires de croisière pour entrer et y séjourner pendant l
 
 - ou ils sont titulaires d'un visa en cours de validité délivré par une autorité française pour une autre partie du territoire de la France.
 
-f) Les passagers se trouvant dans un port français à bord d'un navire y faisant escale, en provenance ou à destination de l'étranger, dès lors qu'ils ne quittent pas le navire.
+f) Les passagers se trouvant dans un port de Polynésie française à bord d'un navire y faisant escale, en provenance ou à destination de l'étranger, dès lors qu'ils ne quittent pas le navire ;
+
+g) Les passagers des navires de croisière pour entrer et y séjourner pendant la durée de l'escale s'ils sont titulaires d'un passeport en cours de validité délivré par certains Etats, dans les conditions définies au 1 de l'annexe II du présent arrêté.
 
 NOTA :
 
