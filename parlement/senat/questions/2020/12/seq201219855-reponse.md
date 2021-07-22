@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219855
+
+- Question : [SEQ201219855](seq201219855.md) — Fiscalité appliquée aux rémunérations des professionnels de santé travaillant en centre Covid-19
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-07-22, page 4543*
+
+Les centres Covid-19 dans lesquels exercent des médecins libéraux, mis en place depuis mars 2020 sur l'ensemble du territoire français, permettent d'éviter un afflux de personnes aux urgences et dans les cabinets de médecine de ville, en filtrant les sollicitations et en redirigeant vers les hôpitaux les patients à risque ou souffrant de forme aigue, et en renvoyant à leur domicile les malades atteints d'une forme moins grave. Différents types d'organisation ont été mis en place. Entre autres modalités d'exercice, des locaux peuvent être mis à disposition par des collectivités territoriales dans le cadre d'une convention signée entre une association de médecins et l'Agence régionale de santé (ARS) compétente. En pareil cas, ces professionnels de santé sont rémunérés forfaitairement par l'ARS au titre du Fonds d'investissement régional (FIR). En pratique, cette rémunération peut être versée à des associations de professionnels de santé qui la reversent ensuite aux intervenants, en fonction des vacations effectuées. Les médecins qui réalisent volontairement une vacation dans ces conditions perçoivent une somme forfaitaire en rémunération des services ainsi rendus. A cet égard, doivent être retenus à titre de recettes imposables, les honoraires, commissions, vacations, ristournes, intéressements, gratifications et autres rémunérations, quelle que soit la dénomination attribuée par les parties. Ces rémunérations sont imposables en tant que bénéfices non commerciaux professionnels, en application des règles de droit commun.
