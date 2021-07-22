@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616671
+
+- Question : [SEQ200616671](seq200616671.md) — Réouverture élargie des écoles
+
+## Réponse
+
+*Éducation nationale, jeunesse et sports, JO du 2021-07-22, page 4550*
+
+Le 16 mars 2020, la situation sanitaire du pays, liée au coronavirus Covid-19, a conduit à la fermeture des écoles, collèges et lycées. A partir du 11 mai 2020, dans le cadre des premières phases du déconfinement il a été décidé de rouvrir progressivement les écoles et établissements scolaires dans le strict respect d'un protocole sanitaire élaboré en lien avec les autorités sanitaires. Pour la troisième phase du déconfinement qui a commencé le 15 juin, ce protocole sanitaire a été assoupli en raison de la baisse du niveau de circulation du virus et des données rassurantes concernant l'impact et la transmission de la Covid-19 chez les enfants. Ce protocole a permis la réouverture des écoles et établissements en définissant en précisément un cadre de fonctionnement conformes aux prescriptions émises par les autorités sanitaires. Depuis la rentrée scolaire 2020-2021, un nouveau protocole sanitaire est en vigueur. Il se fonde sur l'avis du Haut conseil de la santé publique du 7 juillet 2020. Ce protocole a été publié le 21 juillet 2020 afin de donner une visibilité à l'ensemble des acteurs sur les conditions de préparation de la rentrée. Cette version a connu une légère adaptation en août dernier avec l'extension de l'obligation du port du masque pour les personnels, les collégiens et les lycéens en raison de la reprise de la circulation du virus. La stabilité de ce protocole sanitaire, qui n'a connu que deux renforcements ponctuels depuis la rentrée scolaire en novembre 2020 et février 2021 consultable sur le site www.education.gouv.fr, a facilité la prise en main par les différents acteurs et favorisé la clarté et la cohérence des mesures.
