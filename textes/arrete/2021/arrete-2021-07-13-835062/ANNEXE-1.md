@@ -1,8 +1,4 @@
-# Article LEGIARTI000038665778
-
-ANNEXES
-
-ANNEXE 1
+# Article ANNEXE 1
 
 CRITÈRES D'IDENTIFICATION DES GROUPES DE COMPARAISON DES SITES GÉOGRAPHIQUES DES ÉTABLISSEMENTS DE SANTÉ
 
@@ -74,6 +70,6 @@ SSR-4 |
 
 les établissements réalisant au moins 730 de séjours et pour lesquels 80 % de l'activité est réalisée sur au moins 20 groupes nosologiques (**) |
 
-(*) Les groupes d'activité sont définis par le « Manuel des groupes homogènes de malades » publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale et des données de facturation correspondantes, produites par les établissements de santé publics ou privés ayant une activité en médecine, chirurgie, obstétrique et odontologie, et à la transmission d'informations issues de ce traitement dans les conditions définies à l'article L. 6113-8 du code de la santé publique.
+(*) Les groupes d'activité sont des regroupements des racines de groupes homogènes de malades (GHM) définies par le " Manuel des groupes homogènes de malades " publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale et des données de facturation correspondantes, produites par les établissements de santé publics ou privés ayant une activité en médecine, chirurgie, obstétrique et odontologie, et à la transmission d'informations issues de ce traitement dans les conditions définies à l'article L. 6113-8 du code de la santé publique. La liste des groupes d'activité est publiée sur le site internet de l'Agence technique de l'information sur l'hospitalisation https :// www. atih. sante. fr/ mco/ classification-medico-economique.
 
-(**) Les groupes nosologiques sont définis par le « Manuel des groupes microéconomiques en soins de suite et de réadaptation » publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale des établissements de santé publics ou privés ayant une activité en soins de suite et de réadaptation et à la transmission d'informations issues de ce traitement, dans les conditions définies aux articles L. 6113-7 et L. 6113-8 du code de la santé publique.
+(**) Les groupes nosologiques sont définis par le " Manuel des groupes microéconomiques en soins de suite et de réadaptation " publié au Bulletin officiel du ministère des affaires sociales et de la santé, conformément à l'annexe I de l'arrêté du 23 décembre 2016 relatif au recueil et au traitement des données d'activité médicale des établissements de santé publics ou privés ayant une activité en soins de suite et de réadaptation et à la transmission d'informations issues de ce traitement, dans les conditions définies aux articles L. 6113-7 et L. 6113-8 du code de la santé publique.
