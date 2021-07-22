@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623326
+
+- Question : [SEQ210623326](seq210623326.md) — Situation des personnels civils afghans
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-07-22, page 4604*
+
+Dans le cadre de son engagement en Afghanistan entre 2001 et 2014, la France a eu recours à des civils recrutés localement (PCRL) pour appuyer sa force militaire dans sa mission au profit de la population afghane. Au moment du retrait de ses forces armées, la France a assumé son devoir de responsabilité et de solidarité vis-à-vis de ces Afghans qui l'ont aidée au quotidien, durant toutes ces années. Les anciens PCRL ont ainsi été pris en charge via trois campagnes d'évacuation et d'accueil, menées par différents gouvernements entre 2012 et 2018. Au total, près de 400 anciens PCRL ont rejoint la France par différents canaux. Certains ont été relocalisés en France ; 222 d'entre eux ont choisi ce dispositif de mise à l'abri, avec leur famille, soit plus de 800 personnes. D'autres sont arrivés par leurs propres moyens et ont pu bénéficier de l'asile ou de dispositifs de protection fonctionnelle. Le choix de quitter l'Afghanistan étant par définition une décision qui leur appartenait, certains PCRL ont privilégié des destinations tierces, car d'autres pays les avaient également employés, notamment les États-Unis. Enfin, certains ont fait le choix de ne pas utiliser le dispositif mis en place par la France et sont restés en Afghanistan. Dans le cadre de ces campagnes, des procédures précises de sécurité, notamment de criblage individuel, ont été élaborées grâce à un important travail des ministères concernés, afin d'être en mesure de répondre aussi rapidement que possible aux différentes situations, tout en assurant l'ensemble des procédures de sécurité prévues dans ce type d'opération.
