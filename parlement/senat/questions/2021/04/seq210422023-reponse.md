@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422023
+
+- Question : [SEQ210422023](seq210422023.md) — Carrière professionnelle des doctorants
+
+## Réponse
+
+*Enseignement supérieur, recherche et innovation, JO du 2021-07-22, page 4593*
+
+La situation des doctorants diffère selon qu'ils bénéficient d'un contrat de droit public ou privé, ou de l'absence de contrat. Dans le premier cas, que le contrat soit de droit public (contrat doctoral ou contrat d'attaché temporaire d'enseignement et de recherche, ATER) ou de droit privé (convention industrielle de formation par la recherche, CIFRE, avec un contrat de travail), le doctorant cotise d'ores et déjà pour sa retraite. Dans le second cas (absence de contrat), le doctorant ne cotise pas pour la retraite. En ce sens, prendre en compte les périodes de préparation du doctorat non couvertes par un contrat reviendrait à créer une bonification pour la retraite, ce qui ne correspond pas aux orientations générales en matière de retraite. Aussi, pour répondre à ces difficultés, la loi n° 2020-1674 du 24 décembre 2020 de programmation de la recherche pour les années 2021 à 2030 et portant diverses dispositions relatives à la recherche et à l'enseignement supérieur, prévoit l'accroissement de 20 % du nombre de contrats doctoraux financés par le ministère de l'enseignement supérieur, de la recherche et de l'innovation, notamment dans les filières en sciences humaines et sociales, domaines de recherche où la proportion de doctorants sans contrat est la plus élevée. Par ailleurs, l'arrêté du 25 mai 2016 – fixant le cadre national de la formation et les modalités conduisant à la délivrance du diplôme national de doctorat – rappelle que la préparation du doctorat, au sein de l'école doctorale, s'effectue en règle générale en 3 ans en équivalent temps plein consacré à la recherche. Cette durée est donc celle à prendre en compte pour le calcul d'une pension de retraite.
