@@ -614,6 +614,22 @@ Lustrier
 
 |
 
+Fontainier d'art
+
+|
+
+22h40 |
+
+1) Réalisation d'un élément de projet de fontainerie à partir de métaux (21h)
+
+2) Mise en situation sur site sur le fonctionnement d'un réseau hydraulique gravitaire ou sous pression avec ses équipements et sa maintenance
+
+(Durée de l'observation : 1 heure,
+
+Préparation : 20 minutes,
+
+Entretien oral : 20 minutes, dont 10 minutes maximum de présentation par le candidat et 10 minutes au moins de questions-réponses). |
+
 Créateur de prototypes |
 
 35 heures |

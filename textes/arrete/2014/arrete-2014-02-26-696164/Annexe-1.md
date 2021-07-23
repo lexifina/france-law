@@ -542,6 +542,14 @@ Connaissance des métaux.
 
 Connaissance des techniques de restauration des métaux.
 
+Fontainier d'art :
+
+Connaissances du travail des métaux utilisés en fontainerie.
+
+Connaissance des assemblages des métaux entre eux.
+
+Connaissance du travail et de l'assemblage en sécurité des métaux en fontainerie.
+
 Lustrier :
 
 Histoire des styles du bronze du Moyen Age à nos jours.
