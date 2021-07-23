@@ -18,9 +18,7 @@ Décret n° 91-1412 du 31 décembre 1991 instituant des taxes parafiscales au
 
 profit de l'Office national interprofessionnel des produits de la mer et de
 
-l'aquaculture, modifié par le décret n° 2000-1346 du 26 décembre 2000.
-
-|
+l'aquaculture, modifié par le décret n° 2000-1346 du 26 décembre 2000. |
 
 Comité national des pêches maritimes et des élevages marins et comités
 
@@ -36,13 +34,9 @@ profit du Comité national des pêches maritimes et des élevages marins ainsi
 
 qu'au profit des comités régionaux et locaux des pêches maritimes et des
 
-élevages marins, modifié par le décret n° 2002-678 du 29 avril 2002.
+élevages marins, modifié par le décret n° 2002-678 du 29 avril 2002. |
 
-|
-
-Groupement national interprofessionnel des semences, graines et plants
-
-(GNIS).
+SEMAE
 
 |
 
@@ -54,9 +48,7 @@ plans, modifié par le décret n° 2003-793 du 21 août 2003.
 
 |
 
-Centre technique de la conservation des produits agricoles (CTCPA).
-
-|
+Centre technique de la conservation des produits agricoles (CTCPA). |
 
 Décret n° 2000-742 du 31 juillet 2000 instituant une taxe parafiscale au profit
 
@@ -82,9 +74,7 @@ n° 2003-793 du 21 août 2003.
 
 |
 
-Centre technique interprofessionnel des fruits et légumes (CTIFL).
-
-|
+Centre technique interprofessionnel des fruits et légumes (CTIFL). |
 
 Décret n° 2002-250 du 22 février 2002 instituant une taxe parafiscale au profit
 
@@ -92,9 +82,7 @@ du centre technique interprofessionnel des fruits et légumes.
 
 |
 
-Etablissement national technique pour l'amélioration de la viticulture (ENTAV).
-
-|
+Etablissement national technique pour l'amélioration de la viticulture (ENTAV). |
 
 Décret n° 2002-379 du 19 mars 2002 instituant une taxe au profit de
 
@@ -104,9 +92,7 @@ modifié par le décret n° 2003-793 du 21 août 2003.
 
 |
 
-Bureau national interprofessionnel du pruneau (BIP).
-
-|
+Bureau national interprofessionnel du pruneau (BIP). |
 
 Décret n° 2002-864 du 3 mai 2002 instituant une taxe parafiscale au profit du
 
@@ -116,9 +102,7 @@ n° 2003-793 du 21 août 2003.
 
 |
 
-Centre technique des productions cidricoles (CTPC).
-
-|
+Centre technique des productions cidricoles (CTPC). |
 
 Décret n° 2002-1098 du 28 août 2002 instituant une taxe parafiscale au profit
 
@@ -140,9 +124,7 @@ viandes.
 
 |
 
-Comité interprofessionnel du vin de Champagne (CIVC).
-
-|
+Comité interprofessionnel du vin de Champagne (CIVC). |
 
 Décret n° 2002-1628 du 31 décembre 2002 relatif aux taxes parafiscales au
 
@@ -176,9 +158,7 @@ au financement de certains organismes interprofessionnels de vins.
 
 |
 
-Société nationale interprofessionnelle de la tomate (SONITO).
-
-|
+Société nationale interprofessionnelle de la tomate (SONITO). |
 
 Décret n° 2002-1630 du 31 décembre 2002 instituant des taxes parafiscales au
 
@@ -188,9 +168,7 @@ tomate.
 
 |
 
-Bureau national interprofessionnel du cognac (BNIC).
-
-|
+Bureau national interprofessionnel du cognac (BNIC). |
 
 Décret n° 2003-17 du 3 janvier 2003 relatif à la taxe parafiscale destinée à
 

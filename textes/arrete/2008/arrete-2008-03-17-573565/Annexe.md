@@ -70,9 +70,7 @@ Le schéma de vie ci-dessous constitue une trame générale commune à toutes le
 
 ÉTAPES
 
-(à définir)
-
-|
+(à définir) |
 
 EXIGENCES
 
@@ -80,29 +78,21 @@ du produit courant
 
 Guide de bonnes
 
-pratiques professionnelles
-
-|
+pratiques professionnelles |
 
 CARACTÉRISTIQUES CERTIFIÉES
 
 CARACTÉRISTIQUE
 
-certifiée n° 1
-
-|
+certifiée n° 1 |
 
 CARACTÉRISTIQUE
 
-certifiée n° 2
-
-|
+certifiée n° 2 |
 
 CARACTÉRISTIQUE
 
-certifiée n° 3
-
-|
+certifiée n° 3 |
 
 Origine du matériel, sélection du multiplicateur, mise en place de la culture :
 
@@ -116,9 +106,7 @@ Origine du matériel, sélection du multiplicateur, mise en place de la culture 
 
 -choix variétal ;
 
--antécédents culturaux.
-
-|
+-antécédents culturaux. |
 
 |
 
@@ -140,7 +128,7 @@ Croissance et développement :
 
 -protection phytosanitaire ;
 
--pratiques culturales particulières.
+-pratiques culturales particulières. |
 
 |
 
@@ -150,9 +138,7 @@ Croissance et développement :
 
 |
 
-|
-
-Récolte.
+Récolte. |
 
 |
 
@@ -162,9 +148,7 @@ Récolte.
 
 |
 
-|
-
-Transport.
+Transport. |
 
 |
 
@@ -174,9 +158,7 @@ Transport.
 
 |
 
-|
-
-Conditionnement, stockage.
+Conditionnement, stockage. |
 
 |
 
@@ -186,9 +168,7 @@ Conditionnement, stockage.
 
 |
 
-|
-
-Transport.
+Transport. |
 
 |
 
@@ -198,11 +178,7 @@ Transport.
 
 |
 
-|
-
-Mise à disposition de l'utilisateur de la semence ou du plant.
-
-|
+Mise à disposition de l'utilisateur de la semence ou du plant. |
 
 |
 
@@ -420,7 +396,7 @@ Les mélanges de semences à gazon reconnus sont les suivants :
 
 -sport et jeux, regarnissage, professionnel.
 
-Les caractéristiques de ces mélanges sont définies par le règlement technique du GNIS / SOC.
+Les caractéristiques de ces mélanges sont définies par le règlement technique du SEMAE / SOC.
 
 2e exigence mélange de semences à gazon : qualité du mélange de semences à gazon
 

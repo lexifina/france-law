@@ -1,164 +1,86 @@
 # Article Tableau des abréviations
 
-ARVALIS.
+ARVALIS. |
 
-|
+Institut du végétal. |
 
-Institut du végétal.
+BPC. |
 
-|
+Bonnes pratiques culturales. |
 
-BPC.
+COFRAC. |
 
-|
+Comité français d'accréditation. |
 
-Bonnes pratiques culturales.
+CTIFL. |
 
-|
+Centre technique interprofessionnel des fruits et légumes. |
 
-COFRAC.
+DGCCRF. |
 
-|
+Direction générale de la concurrence, de la consommation et de la répression des fraudes. |
 
-Comité français d'accréditation.
+DLC. |
 
-|
+Date limite de consommation. |
 
-CTIFL.
+DLUO. |
 
-|
+Date limite d'utilisation optimale. |
 
-Centre technique interprofessionnel des fruits et légumes.
+SEMAE |
 
-|
+SEMAE. |
 
-DGCCRF.
+IRTAC. |
 
-|
+Institut de recherches technologiques agroalimentaires des céréales. |
 
-Direction générale de la concurrence, de la consommation et de la répression des fraudes.
+MS. |
 
-|
+Matière sèche. |
 
-DLC.
+OC. |
 
-|
+Organisme certificateur. |
 
-Date limite de consommation.
+OPA. |
 
-|
+Organisme professionnel agricole. |
 
-DLUO.
+OQ. |
 
-|
+Organisme de qualification. |
 
-Date limite d'utilisation optimale.
+PLV. |
 
-|
+Publicité sur le lieu de vente. |
 
-GNIS.
+SOC. |
 
-|
+Service officiel de contrôle et de certification. |
 
-Groupement national interprofessionnel des semences et des plants.
+SRPV. |
 
-|
+Service régional de la protection des végétaux. |
 
-IRTAC.
+UVC. |
 
-|
+Unité de vente au consommateur. |
 
-Institut de recherches technologiques agroalimentaires des céréales.
+UVCI. |
 
-|
+Unité de vente au consommateur industrielle. |
 
-MS.
+UVCM. |
 
-|
-
-Matière sèche.
-
-|
-
-OC.
-
-|
-
-Organisme certificateur.
-
-|
-
-OPA.
-
-|
-
-Organisme professionnel agricole.
-
-|
-
-OQ.
-
-|
-
-Organisme de qualification.
-
-|
-
-PLV.
-
-|
-
-Publicité sur le lieu de vente.
-
-|
-
-SOC.
-
-|
-
-Service officiel de contrôle et de certification.
-
-|
-
-SRPV.
-
-|
-
-Service régional de la protection des végétaux.
-
-|
-
-UVC.
-
-|
-
-Unité de vente au consommateur.
-
-|
-
-UVCI.
-
-|
-
-Unité de vente au consommateur industrielle.
-
-|
-
-UVCM.
-
-|
-
-Unité de vente au consommateur en magasin.
-
-|
+Unité de vente au consommateur en magasin. |
 
 VINIFLHOR.
 
 |
 
-Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture. (1)
-
-|
+Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture. (1) |
 
 NOTA :
 
