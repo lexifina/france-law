@@ -6,9 +6,11 @@ CLASSÉES SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2921
 
 1. Dispositions générales
 
-Sont considérés comme faisant partie de l'installation de refroidissement au sens du présent arrêté l'ensemble des éléments suivants : tour(s) de refroidissement et ses parties internes, échangeur(s), dévésiculeur, ensemble composant le circuit d'eau en contact avec l'air (bac[s], canalisation[s], pompe[s]...), circuit de purge et circuit d'eau d'appoint.
+Sont considérés comme faisant partie de l'installation de refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle au sens du présent arrêté l'ensemble des éléments suivants : tour(s) de refroidissement et ses parties internes, échangeur(s), dévésiculeur, ensemble composant le circuit d'eau en contact avec l'air (bac[s], canalisation[s], pompe[s]...), circuit de purge et circuit d'eau d'appoint.
 
-L'installation de refroidissement est dénommée "installation" dans la suite de la présente annexe.
+Sont considérés comme faisant partie de l'installation de récupération de la chaleur par dispersion d'eau dans des fumées émises à l'atmosphère au sens du présent arrêté, l'ensemble des éléments suivants : parties du circuit en contact avec les fumées ou avec l'eau de condensation réinjectée dans les fumées, condenseur, électrofiltre humide, buse d'aspersion, et toutes ses parties internes, échangeur (s), ensemble des canalisations qui acheminent l'eau d'un équipement à l'autre, bassin (s) de stockage (s), canalisation (s) de distribution de l'eau, canalisation (s) d'acheminement de l'effluent de l'électrofiltre, unité (s) de traitement des eaux chargées, purge (s) de rejet et circuit (s) d'eau des appoint (s).
+
+L'installation de refroidissement (système aéroréfrigérant) ou l'installation de récupération de la chaleur (condenseur par voie humide) est dénommée "installation" dans la suite de la présente annexe.
 
 1.1. Conformité de l'installation à la déclaration
 
@@ -94,7 +96,9 @@ Si le rapport fait apparaître des non-conformités aux dispositions faisant l'o
 
 "Système de refroidissement évaporatif" : système de refroidissement où l'eau du circuit primaire est refroidie soit en évaporation en contact direct avec le flux d'air, soit au travers d'un échangeur de chaleur dont l'eau du circuit secondaire est refroidie par évaporation d'eau en contact direct avec l'air ;
 
-"Dispersion d'eau dans un flux d'air" : production d'aérosols par projection de gouttes d'eau dans un flux d'air ;
+"Condenseur par voie humide" : installations de récupération de la chaleur latente des fumées par dispersion d'eau dans des fumées émises à l'atmosphère ;
+
+"Dispersion d'eau dans un flux d'air ou dans des fumées" : production d'aérosols par projection de gouttes d'eau dans un flux d'air ou dans des fumées ;
 
 "Bras mort" : tronçons de canalisation dans lesquels l'eau ne circule pas et pour lesquels cette eau stagnante est susceptible de repasser en circulation ;
 
@@ -138,11 +142,7 @@ Si le rapport fait apparaître des non-conformités aux dispositions faisant l'o
 
 – les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ;
 
-– l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de
-
-celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles
-
-.
+– l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
 
 2. Implantation, aménagement
 
@@ -196,13 +196,13 @@ f) Les équipements de refroidissement répondant à la norme NF E 38-424 sont c
 
 Objet du contrôle :
 
-– implantation de l'installation permettant les accès aux parties internes, aux bassins, et aux parties hautes à la hauteur des rampes de pulvérisation de la tour dans les conditions de sécurité ;
+– implantation de l'installation permettant les accès aux parties internes, aux bassins, et aux parties hautes à la hauteur des rampes de pulvérisation de la tour aéroréfrigérante ou du condenseur par voie humide dans les conditions de sécurité ;
 
 – absence de bras mort non géré ;
 
 – présence sur l'installation d'un dispositif ou de dispositions permettant la purge complète de l'eau du circuit (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– présence sur la tour d'un dispositif de limitation des entraînements vésiculaires (le non-respect de ce point relève d'une non-conformité majeure) ;
+– présence d'un dispositif de limitation des entraînements vésiculaires (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 – présentation pour chaque tour du document attestant du respect, par le dispositif de limitation, du taux d'entraînement vésiculaire, pour les dévésiculeurs installés après le 1er juillet 2005.
 
@@ -298,7 +298,7 @@ Objet du contrôle :
 
 – présence d'un document désignant nommément le responsable de la surveillance de l'exploitation de l'installation (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– vérification de la présence et de la pertinence du contenu de formation couvrant :
+– vérification de la présence et de la complétude du contenu de formation couvrant :
 
 – les conditions de prolifération et de dispersion des légionelles ;
 
@@ -394,7 +394,7 @@ Objet du contrôle :
 
 – prise en compte dans cette analyse méthodique des différentes situations de fonctionnement et configurations hydrauliques de l'installation ;
 
-– vérification de la présence et de la pertinence du contenu de l'analyse méthodique de risques :
+– vérification de la présence et de la complétude du contenu de l'analyse méthodique de risques :
 
 – description de l'installation, schéma de principe, modalités de gestion ;
 
@@ -440,7 +440,7 @@ Objet du contrôle :
 
 – présence d'un plan d'entretien (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– vérification de la présence et de la pertinence du contenu du plan d'entretien :
+– vérification de la présence et de la complétude du contenu du plan d'entretien :
 
 – fiche de stratégie de traitement préventif (le non-respect de ce point relève d'une non-conformité majeure) ;
 
@@ -450,13 +450,13 @@ Objet du contrôle :
 
 – présence d'un plan de surveillance (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– vérification de la présence et de la pertinence du contenu du plan de surveillance :
+– vérification de la présence et de la complétude du contenu du plan de surveillance :
 
 – liste et définition des indicateurs de suivi avec leurs valeurs cibles et d'alerte (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– procédures d'entretien, de suivi et d'actions en cas de dérive, dont description des actions en cas de dérive de la concentration en Legionella pneumophila et des actions de désinfections précisant produits utilisés et quantités injectées(le non-respect de ce point relève d'une non-conformité majeure) ;
+– procédures d'entretien, de suivi et d'actions en cas de dérive, dont description des actions en cas de dérive de la concentration en Legionella pneumophila le cas échéant et des actions de désinfections précisant produits utilisés et quantités injectées(le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– vérification de la présence et de la pertinence du contenu des procédures spécifiques d'arrêt immédiat de la dispersion, et procédures de gestion de l'installation à l'arrêt et de redémarrage (le non-respect de ce point relève d'une non-conformité majeure) ;
+– vérification de la présence et de la complétude du contenu des procédures spécifiques d'arrêt immédiat de la dispersion, et procédures de gestion de l'installation à l'arrêt et de redémarrage (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 2. Entretien préventif de l'installation
 
@@ -548,9 +548,9 @@ a) Fréquence des prélèvements en vue de l'analyse de la concentration en Legi
 
 La fréquence des prélèvements et analyses des Legionella pneumophila est au minimum bimestrielle pendant la période de fonctionnement de l'installation.
 
-Ces prélèvements sont effectués selon la norme NF T90-431 (avril 2006). L'ensemble des seuils de gestion mentionnés dans le présent arrêté sont spécifiques pour cette méthode d'analyse et sont exprimés en unité formant colonies par litre d'eau (UFC/L).
+Ces prélèvements sont effectués selon la norme NF T90-431 (version 2020). L'ensemble des seuils de gestion mentionnés dans le présent arrêté sont spécifiques pour cette méthode d'analyse et sont exprimés en unité formant colonies par litre d'eau (UFC/L).
 
-L'exploitant peut avoir recours, en lieu et place de la norme NF T90-431 (avril 2006), à une autre méthode d'analyse si celle-ci a été préalablement reconnue par le ministère en charge des installations classées. Pour chaque méthode reconnue, le ministère indique les seuils de gestion à utiliser ou la méthodologie de fixation de ces seuils par l'exploitant.
+L'exploitant peut avoir recours, en lieu et place de la norme NF T90-431 (version 2020), à une autre méthode d'analyse si celle-ci a été préalablement reconnue par le ministère en charge des installations classées. Pour chaque méthode reconnue, le ministère indique les seuils de gestion à utiliser ou la méthodologie de fixation de ces seuils par l'exploitant.
 
 Cette fréquence d'analyse s'applique dès lors que l'installation de refroidissement est en fonctionnement, que le fonctionnement soit continu ou intermittent.
 
@@ -566,11 +566,11 @@ En particulier, si une injection ponctuelle de biocide a été mise en œuvre su
 
 En cas de traitement continu à base de biocide oxydant, l'action du biocide dans l'échantillon est inhibée par un neutralisant présent dans le flacon d'échantillonnage en quantité suffisante.
 
-Les dispositions relatives aux échantillons répondent aux dispositions prévues par la norme NF T90-431 (avril 2006) ou par toute autre méthode reconnue par le ministère en charge des installations classées.
+Les dispositions relatives aux échantillons répondent aux dispositions prévues par la norme NF T90-431 (version 2020) ou par toute autre méthode reconnue par le ministère en charge des installations classées.
 
 c) Laboratoire en charge de l'analyse des légionelles :
 
-Le laboratoire, chargé par l'exploitant des analyses en vue de la recherche des Legionella pneumophila selon la norme NF T90-431 (avril 2006) répond aux conditions suivantes :
+Le laboratoire, chargé par l'exploitant des analyses en vue de la recherche des Legionella pneumophila selon la norme NF T90-431 (version 2020) répond aux conditions suivantes :
 
 – le laboratoire est accrédité selon la norme NF EN ISO/CEI 17025 (septembre 2005) par le Comité français d'accréditation (COFRAC) ou tout autre organisme d'accréditation équivalent européen, signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation ;
 
@@ -578,7 +578,7 @@ Le laboratoire, chargé par l'exploitant des analyses en vue de la recherche des
 
 d) Résultats de l'analyse des légionelles :
 
-Les résultats sont présentés selon la norme NF T90-431 (avril 2006) ou toute autre méthode reconnue par le ministère en charge des installations classées. Les résultats sont exprimés en unité formant colonies par litre d'eau (UFC/L).
+Les résultats sont présentés selon la norme NF T90-431 (version 2020) ou toute autre méthode reconnue par le ministère en charge des installations classées. Les résultats sont exprimés en unité formant colonies par litre d'eau (UFC/L).
 
 L'exploitant demande au laboratoire chargé de l'analyse que les souches correspondant aux résultats faisant apparaître une concentration en Legionella pneumophila ou en Legionella species supérieures ou égales à 100 000 UFC/L soient conservés pendant trois mois par le laboratoire.
 
@@ -598,7 +598,9 @@ Le rapport d'analyse fournit les informations nécessaires à l'identification d
 
 – aspect de l'eau prélevée : couleur, dépôt ;
 
-– pH, conductivité et turbidité de l'eau au lieu du prélèvement ;
+– pH, conductivité et turbidité de l'eau mésurés
+
+au lieu du prélèvement ;
 
 – nature (dénomination commerciale et molécules) et concentration cible pour les produits de traitements utilisés dans l'installation (biocides oxydants, non oxydants biodispersants, anticorrosion...) ;
 
@@ -628,7 +630,7 @@ L'ensemble des frais des prélèvements et analyses est supporté par l'exploita
 
 Objet du contrôle :
 
-– présence dans le carnet de suivi d'analyses des Legionella pneumophila selon la norme NF T90-431 (avril 2006) ou toute autre méthode reconnue par le ministère en charge des installations classées (le non-respect de ce point relève d'une non-conformité majeure) ;
+– présence dans le carnet de suivi d'analyses des Legionella pneumophila selon la norme NF T90-431 (version 2020) ou toute autre méthode reconnue par le ministère en charge des installations classées (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 – fréquence d'analyses au minimum bimestrielle pendant la période de fonctionnement de l'installation (le non-respect de ce point relève d'une non-conformité majeure) ;
 
@@ -640,7 +642,7 @@ Objet du contrôle :
 
 II. – Actions à mener en cas de prolifération de légionelles
 
-1. Actions à mener si les résultats provisoires confirmés ou définitifs de l'analyse selon la norme NF T90-431 (avril 2006) mettent en évidence une concentration en Legionella pneumophila supérieure ou égale à 100 000 UFC/L
+1. Actions à mener si les résultats provisoires confirmés ou définitifs de l'analyse selon la norme NF T90-431 (version 2020) mettent en évidence une concentration en Legionella pneumophila supérieure ou égale à 100 000 UFC/L
 
 a) Dès réception de ces résultats, l'exploitant en informe immédiatement l'inspection des installations classées par télécopie et par courriel avec la mention : "Urgent & important, tour aérorefrigérante, dépassement du seuil de 100 000 unités formant colonies par litre d'eau".
 
@@ -660,11 +662,11 @@ En tout état de cause, l'exploitant s'assure de l'absence de risque de prolifé
 
 Si la cause de dérive n'est pas identifiée, l'exploitant procède à la révision complète de l'AMR, dans un délai de quinze jours ;
 
-b) A l'issue de la mise en place de ces actions curatives et correctives, l'exploitant en vérifie l'efficacité, en réalisant un nouveau prélèvement pour analyse de la concentration en Legionella pneumophila selon la norme NF T90-431 (avril 2006). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à la mise en œuvre de ces actions est respecté ;
+b) A l'issue de la mise en place de ces actions curatives et correctives, l'exploitant en vérifie l'efficacité, en réalisant un nouveau prélèvement pour analyse de la concentration en Legionella pneumophila selon la norme NF T90-431 (version 2020). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à la mise en œuvre de ces actions est respecté ;
 
 c) Dès réception des résultats de ce nouveau prélèvement, ceux-ci sont communiqués à l'inspection des installations classées.
 
-Des prélèvements et analyses en Legionella pneumophila selon la norme NF T90-431 (avril 2006) sont ensuite effectués tous les quinze jours pendant trois mois ;
+Des prélèvements et analyses en Legionella pneumophila selon la norme NF T90-431 (version 2020) sont ensuite effectués tous les quinze jours pendant trois mois ;
 
 d) L'AMR, les plans d'entretien et de surveillance sont remis à jour, en prenant en compte le facteur de risque à l'origine de la dérive et en mettant en œuvre les mesures nécessaires à sa gestion ;
 
@@ -682,61 +684,59 @@ Si l'installation est également concernée par le point 3.7.I.2.c, les mesures 
 
 L'inspection des installations classées peut soumettre ces mesures compensatoires à l'avis d'un tiers expert.
 
-Ces mesures compensatoires sont, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'article R. 512-31 du code de l'environnement
-
-.
+Ces mesures compensatoires sont, après avis de l'inspection des installations classées, imposées par arrêté préfectoral pris en application de l'article R. 512-31 du code de l'environnement.
 
 Objets du contrôle :
 
-– présence d'une procédure d'arrêt immédiat de la dispersion via la ou les tours ;
+– présence d'une procédure d'arrêt immédiat de la dispersion via l'installation ;
 
-– présence d'une procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 100 000 UFC/l d'eau selon la norme NF T90-431 (avril 2006)" (le non-respect de ce point relève d'une non-conformité majeure) ;
+– présence d'une procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 100 000 UFC/l d'eau selon la norme NF T90-431 (version 2020)" (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– en cas de dépassement de la concentration en Legionella pneumophila du seuil de 100 000 UFC/l, mise à jour du tableau des dérives joint au carnet de suivi sur les actions engagées en application de la procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 100 000 UFC/l d'eau selon la norme NF T90-431 (avril 2006)" ;
+– en cas de dépassement de la concentration en Legionella pneumophila du seuil de 100 000 UFC/l, mise à jour du tableau des dérives joint au carnet de suivi sur les actions engagées en application de la procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 100 000 UFC/l d'eau selon la norme NF T90-431 (version 2020)" ;
 
 – présence d'un rapport de vérification réalisé dans les six mois suivant tout épisode de dépassement de 100 000 UFC/L en Legionella pneumophila.
 
-2. Actions à mener si les résultats d'analyse selon la norme NF T90-431 (avril 2006) mettent en évidence une concentration mesurée en Legionella pneumophila supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L
+2. Actions à mener si les résultats d'analyse selon la norme NF T90-431 (version 2020) mettent en évidence une concentration mesurée en Legionella pneumophila supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L
 
 a) Cas de dépassement ponctuel :
 
 En application de la procédure correspondante, l'exploitant met en œuvre des actions curatives permettant un abattement rapide de la concentration en Legionella pneumophila dans l'eau, et les actions correctives prévues, en vue de rétablir une concentration en Legionella pneumophila inférieure à 1 000 UFC/L.
 
-Suite à la mise en place de ces actions curatives et correctives et pour s'assurer de leur efficacité, l'exploitant réalise une nouvelle analyse de la concentration en Legionella pneumophila selon la norme NF T90-431 (avril 2006). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à ces actions est respecté.
+Suite à la mise en place de ces actions curatives et correctives et pour s'assurer de leur efficacité, l'exploitant réalise une nouvelle analyse de la concentration en Legionella pneumophila selon la norme NF T90-431 (version 2020). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à ces actions est respecté.
 
 b) Cas de dépassements multiples consécutifs :
 
 Au bout de deux analyses consécutives mettant en évidence une concentration en Legionella pneumophila supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L, l'exploitant procède à des actions curatives, à la recherche de la ou des causes de dérive et à la mise en place d'actions correctives complémentaires pour gérer le facteur de risque identifié.
 
-Suite à la mise en place de ces actions curatives et correctives et pour s'assurer de leur efficacité, l'exploitant réalise une nouvelle analyse des légionelles selon la norme NF T90-431 (avril 2006). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à ces actions est respecté.
+Suite à la mise en place de ces actions curatives et correctives et pour s'assurer de leur efficacité, l'exploitant réalise une nouvelle analyse des légionelles selon la norme NF T90-431 (version 2020). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à ces actions est respecté.
 
 Au bout de trois analyses consécutives mettant en évidence une concentration en Legionella pneumophila supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L, l'exploitant en informe l'inspection des installations classées, par télécopie et par courriel, précisant la date des dérives et les concentrations en Legionella pneumophila correspondantes, les causes de dérives identifiées et les actions curatives et correctives précédemment mises en œuvre. Il procède à nouveau à des actions curatives, à la recherche de la ou des causes de dérive, met en place des actions correctives et procède à la révision de l'AMR existante en prenant en compte le facteur de risque à l'origine de cette dérive.
 
 La mise en place d'actions curatives et correctives et la vérification de leur efficacité sont renouvelées tant que la concentration mesurée en Legionella pneumophila est supérieure ou égale à 1 000 UFC/L.
 
-Des prélèvements et analyses en Legionella pneumophila selon la norme NF T90-431 (avril 2006) sont effectués tous les quinze jours jusqu'à obtenir trois mesures consécutives présentant une concentration en Legionella pneumophila inférieure à 1 000 UFC/L.
+Des prélèvements et analyses en Legionella pneumophila selon la norme NF T90-431 (version 2020) sont effectués tous les quinze jours jusqu'à obtenir trois mesures consécutives présentant une concentration en Legionella pneumophila inférieure à 1 000 UFC/L.
 
 c) Dans tous les cas, l'exploitant tient les résultats des mesures et des analyses de risques effectuées à la disposition de l'inspection des installations classées. Les dépassements sont consignés dans un tableau de suivi des dérives joint au carnet de suivi.
 
 Objets du contrôle :
 
-– présence d'une procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L selon la norme NF T90-431 (avril 2006)" (le non-respect de ce point relève d'une non-conformité majeure), distinguant les dépassements ponctuels des dépassements multiples consécutifs ;
+– présence d'une procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L selon la norme NF T90-431 (version 2020)" (le non-respect de ce point relève d'une non-conformité majeure), distinguant les dépassements ponctuels des dépassements multiples consécutifs ;
 
-– en cas de dépassement de la concentration en Legionella pneumophila du seuil de 1 000 UFC/L, mise à jour du tableau de suivi des dérives joint au carnet de suivi sur les actions engagées en application de la procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L selon la norme NF T90-431 (avril 2006)".
+– en cas de dépassement de la concentration en Legionella pneumophila du seuil de 1 000 UFC/L, mise à jour du tableau de suivi des dérives joint au carnet de suivi sur les actions engagées en application de la procédure "Actions à mener si la concentration mesurée en Legionella pneumophila est supérieure ou égale à 1 000 UFC/L et inférieure à 100 000 UFC/L selon la norme NF T90-431 (version 2020)".
 
-3. Actions à mener si le dénombrement des Legionella pneumophila selon la norme NF T90-431 (avril 2006) est rendu impossible par la présence d'une flore interférente
+3. Actions à mener si le dénombrement des Legionella pneumophila selon la norme NF T90-431 (version 2020) est rendu impossible par la présence d'une flore interférente
 
 a) L'exploitant réalise immédiatement un nouveau prélèvement en vue de l'analyse en Legionella pneumophila selon la norme NF T90 431. Il procède ensuite à la mise en place d'actions curatives, afin d'assurer une concentration en Legionella pneumophila inférieure à 1 000 UFC/L dans l'eau du circuit.
 
-b) Si le dénombrement des Legionella pneumophila selon la norme NF T90-431 (avril 2006) est à nouveau rendu impossible par la présence d'une flore interférente, l'exploitant procède sous une semaine à la recherche des causes de présence de flore interférente et à la mise en place d'actions curatives et correctives.
+b) Si le dénombrement des Legionella pneumophila selon la norme NF T90-431 (version 2020) est à nouveau rendu impossible par la présence d'une flore interférente, l'exploitant procède sous une semaine à la recherche des causes de présence de flore interférente et à la mise en place d'actions curatives et correctives.
 
-c) Suite à la mise en place de ces actions et pour s'assurer de leur efficacité, l'exploitant réalise une nouvelle analyse des légionelles selon la norme NF T90-431 (avril 2006). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à ces actions est respecté.
+c) Suite à la mise en place de ces actions et pour s'assurer de leur efficacité, l'exploitant réalise une nouvelle analyse des légionelles selon la norme NF T90-431 (version 2020). Un délai d'au moins quarante-huit heures et d'au plus une semaine par rapport à ces actions est respecté.
 
 Objet du contrôle :
 
-– présence d'une procédure"Actions à mener si le résultat de l'analyse selon la norme NF T90-431 (avril 2006) rend impossible la quantification de Legionella pneumophila en raison de la présence d'une flore interférente" (le non-respect de ce point relève d'une non-conformité majeure) ;
+– présence d'une procédure"Actions à mener si le résultat de l'analyse selon la norme NF T90-431 (version 2020) rend impossible la quantification de Legionella pneumophila en raison de la présence d'une flore interférente" (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-– en cas de présence d'une flore interférente, mise à jour du carnet de suivi sur les actions engagées en application de la procédure "Actions à mener si le résultat de l'analyse selon la norme NF T90-431 (avril 2006) rend impossible la quantification de Legionella pneumophila en raison de la présence de flore interférente".
+– en cas de présence d'une flore interférente, mise à jour du carnet de suivi sur les actions engagées en application de la procédure "Actions à mener si le résultat de l'analyse selon la norme NF T90-431 (version 2020) rend impossible la quantification de Legionella pneumophila en raison de la présence de flore interférente".
 
 4. En cas de dérives répétées, consécutives ou non, de la concentration en Legionella pneumophila au-delà de 1 000 UFC/L et a fortiori de 100 000 UFC/L, et sur proposition des installations classées, le préfet peut prescrire la réalisation d'un réexamen des différentes composantes permettant la prévention du risque légionellose, notamment conception de l'installation, état du circuit, stratégie de traitement de l'eau, analyse méthodique des risques, plan d'entretien et de surveillance, ou toute autre étude jugée nécessaire pour supprimer ces dérives répétées.
 
@@ -744,7 +744,7 @@ III. – Mesures supplémentaires en cas de découverte de cas de légionellose
 
 Si des cas groupés de légionellose sont découverts par les autorités sanitaires et sur demande de l'inspection des installations classées, l'exploitant :
 
-– fait immédiatement réaliser un prélèvement par un laboratoire répondant aux conditions prévues au point I-3 c du présent article, suivant les modalités définies au point I-3 b, auquel il confie l'analyse des Legionella pneumophila selon la norme NF T90-431 (avril 2006) ;
+– fait immédiatement réaliser un prélèvement par un laboratoire répondant aux conditions prévues au point I-3 c du présent article, suivant les modalités définies au point I-3 b, auquel il confie l'analyse des Legionella pneumophila selon la norme NF T90-431 (version 2020) ;
 
 – procède ensuite à une désinfection curative de l'installation ;
 
