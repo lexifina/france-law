@@ -88,6 +88,12 @@ Article R. 121-7. |
 
 9 |
 
+Refus de l'autorisation de consultation, avant l'expiration des délais fixés au I de l'article L. 213-2, de documents d'archives publiques des collectivités territoriales et de leurs groupements |
+
+II de l'article R. 212-50-2. |
+
+9 |
+
 Transfert de propriété d'archives d'origine privée appartenant au domaine public entre personnes publiques. |
 
 Article R. 212-95. |
