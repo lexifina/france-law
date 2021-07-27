@@ -1,0 +1,21 @@
+# Article 1er
+
+Le présent article modifie l'article 4 du titre I de l'avenant du 28 juin 2018 comme suit :
+
+« Le présent avenant révise et se substitue dans son intégralité aux dispositions de la convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes du 20 février 1969 à l'exception des accords de branche et des avenants suivants :
+
+– avenant n° 67 du 11 octobre 2006 relatif à la journée de solidarité ;
+
+– avenant n° 80 du 17 janvier 2012 relatif à la prévoyance ;
+
+– avenant n° 85 du 18 février 2016 relatif à la prévoyance ;
+
+– avenant n° 87 du 21 février 2018 relatif à la revalorisation des salaires minima et à la contrepartie au temps d'habillage et de déshabillage ;
+
+– avenant n° 44 du 21 mars 1991 (uniquement l'article 4) relatif au taux contractuel de cotisation du régime de retraite complémentaire et sa répartition.
+
+Cependant, il ne peut être, en aucun cas, la cause de restrictions aux avantages particuliers acquis sur le plan d'une entreprise ou d'un établissement antérieurement à sa date de signature, individuellement, par équipe ou pour l'ensemble du personnel, étant entendu que les conditions d'application et de durée de ces avantages ne subissent aucune modification du fait de la présente convention.
+
+Toutefois, les avantages reconnus par la présente convention ne peuvent en aucun cas s'interpréter, comme s'ajoutant à ceux déjà accordés pour le même objet, dans certaines entreprises.
+
+Des accords particuliers pourront aménager les dispositions de la présente convention conformément aux lois n° 2004-391 du 4 mai 2004 et n° 2008-789 du 20 août 2008. »
