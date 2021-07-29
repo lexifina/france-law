@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522992
+
+- Question : [SEQ210522992](seq210522992.md) — Aides publiques pour les projets photovoltaïques
+
+## Réponse
+
+*Transition écologique, JO du 2021-07-29, page 4763*
+
+Dès le début des années 2000, l'Etat a souhaité favoriser le développement des énergies renouvelables sur l'ensemble du territoire national. Pour cela, il a mis en place différents dispositifs d'aide, parmi lesquels l'obligation d'achat, à des tarifs préférentiels, de l'électricité produite par des installations photovoltaïques. Cette dynamique se poursuit encore aujourd'hui, car ces installations sont soutenues par : - un ensemble d'appels d'offres pour les installations de puissance supérieure à 100 kWc, - deux arrêtés tarifaires de 2017 (en zone non interconnectée et en France continentale) pour celles de puissance inférieure à 100 kWc. Afin d'accélérer le développement du photovoltaïque sur bâtiment, un projet d'arrêté tarifaire est en cours de notification à la Commission européenne pour relever le seuil de 100 à 500 kWc. D'autre part, de nouveaux cahiers des charges d'appels d'offres sont également en cours de notification. Ces dispositifs de soutien devraient pouvoir être publiés au deuxième semestre 2021. Le futur arrêté prévoit des modalités permettant d'équilibrer les rémunérations entre régions, avec un plafonnement de la production rémunérée au tarif plein. Ce plafond de productible permet de limiter les sur-rentabilités dans les régions plus ensoleillées, tout en permettant un tarif de base permettant une rentabilité raisonnable dans les zones les moins ensoleillées. Ces aides ne peuvent être cumulées avec d'autres dispositifs de soutien si ceux-ci portent sur le même dispositif technique. Toutefois, les collectivités locales et notamment les régions pourront aider à l'émergence des projets, en intervenant sur des étapes de développement non couvertes par le dispositif de soutien national.
