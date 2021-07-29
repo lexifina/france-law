@@ -90,7 +90,7 @@ Grand Ajaccio |
 
 02B ― Haute-Corse |
 
-Saint-Florent |
+DDFiP de la Haute-Corse |
 
 21 ― Côte-d'Or |
 
@@ -134,7 +134,7 @@ Nîmes Agglomération |
 
 31 ― Haute-Garonne |
 
-Grenade-Cadours |
+DRFiP de Haute-Garonne |
 
 32 ― Gers |
 
@@ -158,7 +158,7 @@ DDFiP de l'Indre |
 
 37 ― Indre-et-Loire |
 
-Trésorerie Hospitalière et Amendes |
+DDFiP d'Indre-et-Loire |
 
 38 ― Isère |
 
@@ -222,7 +222,7 @@ Chaumont |
 
 53 ― Mayenne |
 
-Pays de Laval |
+DDFiP de la Mayenne |
 
 54 ― Meurthe-et-Moselle |
 
@@ -410,4 +410,4 @@ DRFiP de la Réunion |
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 10 décembre 2020 (NOR : CCPE2033279A), les présentes dispositions entrent en vigueur à compter du 1er janvier 2021.
+Conformément à l’article 2 de l’arrêté du 9 juillet 2021 (NOR : CCPE2120750A), les dispositions relatives à la Haute-Corse entrent en vigueur à compter du 1er septembre 2021.
