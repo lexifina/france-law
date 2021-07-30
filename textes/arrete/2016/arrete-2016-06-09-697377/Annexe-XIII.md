@@ -1,7 +1,5 @@
 # Article Annexe XIII
 
-ANNEXE XIII
-
 EXIGENCES ESSENTIELLES APPLICABLES AUX INSTRUMENTS DE PESAGE A FONCTIONNEMENT NON AUTOMATIQUE
 
 Les exigences essentielles de la présente annexe s'appliquent aux instruments de pesage à fonctionnement non automatique définis au II de l'article 5-1 du décret du 3 mai 2001, qui sont des instruments destinés à déterminer la masse d'un corps en utilisant l'action de la pesanteur sur ce corps et nécessitant l'intervention d'un opérateur au cours de la pesée, utilisés ou destinés à être utilisés pour les applications énumérées au 1° à 6° du III de l'article 5-1 de ce décret.
@@ -182,69 +180,9 @@ i = n° de l'étendue partielle de pesage
 
 r = nombre total des étendues partielles de pesage.
 
-Classe |
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0174 du 29 juillet 2021, texte n° 10, accessible à l’adresse suivante :
 
-Echelon de vérification (e) |
-
-Portée minimale (Min) |
-
-Nombre d'échelons de vérification |
-
-Valeur minimale |
-
-Valeur minimale(1) |
-
-Valeur maximale |
-
-I |
-
-0.001 g ≤ ei |
-
-100 e1 |
-
-50 000 |
-
-- |
-
-II |
-
-0.001 g ≤ ei ≤ 0.05 g
-
-0.1 g ≤ ei |
-
-20 e1
-
-50 e1 |
-
-100
-
-5 000 |
-
-100 000
-
-100 000 |
-
-III |
-
-0.1 g ≤ ei |
-
-20 e1 |
-
-500 |
-
-10 000 |
-
-IIII |
-
-5 g ≤ ei |
-
-10 e1 |
-
-100 |
-
-1 000 |
-
-(1) pour i=r, on applique la colonne correspondante du tableau1, e étant remplacé par er. |
+https://www.legifrance.gouv.fr/download/pdf?id=O-venK_YS7auSM8TAvTQeFdAV-pqnhpuwM5LZBeTr90=
 
 4. Précision
 
@@ -358,7 +296,7 @@ En ce cas de détection automatique d'une erreur de durabilité significative, l
 
 L'indication des résultats de pesée et des autres valeurs de poids est précise, non ambiguë et non susceptible d'induire en erreur ; le dispositif indicateur permet une lecture facile de l'indication en conditions normales d'utilisation.
 
-Les noms et les symboles des unités visées au point 1 de la présente annexe seront conformes aux dispositions du décret du 3 mai 1961 susvisé avec ajout du symbole pour le carat métrique qui sera le symbole «ct».
+Les noms et les symboles des unités visées au point 1 de la présente annexe seront conformes aux dispositions du décret du 3 mai 1961 susvisé avec ajout du symbole pour le carat métrique qui sera le symbole ct.
 
 L'indication est impossible au-delà de la portée maximale (Max), augmentée de 9 e.
 
@@ -400,7 +338,7 @@ Les dispositifs indicateurs auxiliaires et les dispositifs d'extension de l'indi
 
 Des dispositifs supplémentaires ne sont autorisés que dans la mesure où ils ne permettent pas un usage frauduleux.
 
-Les instruments similaires à ceux normalement utilisés pour la vente directe de marchandises au public et qui se satisfont pas aux exigences du présent paragraphe portent près de l'affichage, de manière indélébile, l'inscription «interdit pour la vente directe au public».
+Les instruments similaires à ceux normalement utilisés pour la vente directe de marchandises au public et qui se satisfont pas aux exigences du présent paragraphe portent près de l'affichage, de manière indélébile, l'inscription interdit pour la vente directe au public.
 
 15. Instruments étiqueteurs du prix
 
