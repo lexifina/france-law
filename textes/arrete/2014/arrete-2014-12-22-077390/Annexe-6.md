@@ -1,6 +1,6 @@
 # Article Annexe 6
 
-Secteur transport
+Secteur transports
 
 - Unité de transport intermodal pour le transport combiné rail-route / Fiche d’opération n° TRA-EQ-101
 
@@ -78,7 +78,11 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 - Simulateur de conduite / Fiche d’opération n° TRA-EQ-123
 
+Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la présente fiche d'opération standardisée est remplacée par la fiche portant la même référence figurant à l'annexe D dudit arrêté, à compter du 1er novembre 2021.
+
 - Branchement électrique des navires et bateaux à quai / Fiche d’opération n° TRA-EQ-124
+
+- Stop & Start pour véhicules ferroviaires / Fiche d’opération n° TRA-EQ-125
 
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
@@ -131,6 +135,10 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 175 du 30/07/2021, texte nº 2, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte nº 16, accessible à l’adresse suivante :
 
@@ -187,3 +195,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter à l'article 7 de l'arrêté du 6 décembre 2018, à l'article 7 de l'arrêté du 24 juillet 2020 ( NOR : TRER2020386A), à l'article 1 de l'arrêté du 18 décembre 2020 ( NOR : TRER2035968A ) et aux articles 1 et 2 de l'arrêté du 19 juillet 2021 (NOR : TRER2121430A).

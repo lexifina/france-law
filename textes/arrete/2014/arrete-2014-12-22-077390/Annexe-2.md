@@ -162,11 +162,17 @@ Système énergétique comportant des capteurs solaires photovoltaïques et ther
 
 Conduit d’évacuation des produits de combustion / Fiche d’opération standardisée n°BAR-TH-163
 
+Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er novembre 2021.
+
 Rénovation globale d’une maison individuelle (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-164
 
 Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
 Chaudière biomasse collective / Fiche d’opération standardisée n°BAR-TH-165
+
+Pompe à chaleur collective de type air/eau ou eau/eau / Fiche d’opération standardisée n°BAR-TH-166
+
+Chauffe-bain individuel à haut rendement ou à condensation (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-167
 
 Lampe fluo-compacte de classe A / Fiche d’opération standardisée n° BAR-EQ-101
 
@@ -203,6 +209,8 @@ Service de suivi des consommations d’énergie / Fiche d’opération standardi
 Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0175 du 30/07/2021, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
 

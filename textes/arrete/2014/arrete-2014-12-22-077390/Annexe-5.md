@@ -1,6 +1,6 @@
 # Article Annexe 5
 
-Secteur réseaux
+Secteur réseau
 
 - Valorisation de chaleur de récupération en réseau (France métropolitaine) / Fiche d’opération n° RES-CH-101
 
@@ -23,6 +23,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 Conformément à l’article 2 de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d'opération standardisée d'économies d'énergie est remplacée par la version portant les mêmes références en annexe B dudit arrêté.
 
 - Mise en place d’un calorifugeage des canalisations d’un réseau de chaleur / Fiche d’opération n° RES-CH-106
+
+Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d'opération standardisée d'économies d'énergie est remplacée à compter du 1er novembre 2021 par la version portant les mêmes références en annexe C dudit arrêté.
 
 - Isolation de points singuliers sur un réseau de chaleur / Fiche d’opération n° RES-CH-107
 
@@ -47,6 +49,10 @@ Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRE
 - Horloge astronomique pour l’éclairage extérieur / Fiche d’opération n° RES-EC-107
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 175 du 30/07/2021, texte nº 2, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte nº 16, accessible à l’adresse suivante :
 
@@ -83,3 +89,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=ZucI2g3TB8391J-G1h9Dua3PzXyh2U2x_
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 297 du 24/12/2014, texte nº 18, accessible à l’adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Se reporter à l'article 7 de l'arrêté du 6 décembre 2018, à l'article 6 de l'arrêté du 24 juillet 2020 ( NOR : TRER2020386A), à l'article 1 de l'arrêté du 18 décembre 2020 ( NOR : TRER2035968A ) et à l'article 1 de l'arrêté du 19 juillet 2021 (NOR : TRER2121430A).

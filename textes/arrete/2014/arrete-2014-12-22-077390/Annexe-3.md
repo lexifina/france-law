@@ -36,6 +36,10 @@ Conformément à l’article 4 de de l’arrêté du 22 décembre 2017 (NOR : TR
 
 -Protections des baies contre le rayonnement solaire (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EN-110
 
+-Fenêtre ou porte-fenêtre complète avec vitrage pariétodynamique (France métropolitaine) / Fiche d’opération standardisée n° BAT-EN-111
+
+-Revêtements réflectifs en toiture / Fiche d’opération standardisée n° BAT-EN-112
+
 -Réglage des organes d’équilibrage d’une installation de chauffage à eau chaude / Fiche d’opération standardisée n° BAT-SE-103
 
 -Contrat de Performance Energétique Services (CPE Services) Chauffage / Fiche d’opération standardisée n° BAT-SE-104
@@ -90,6 +94,8 @@ Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
+Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2021.
+
 -Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
 Conformément à l’article 2 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
@@ -133,6 +139,8 @@ Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
 -Déstratificateur ou brasseur d’air / Fiche d’opération standardisée n° BAT-TH-142
+
+Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2021.
 
 -Ventilo-convecteurs haute performance / Fiche d’opération standardisée n° BAT-TH-143
 
@@ -186,6 +194,10 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 -Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
+Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0175 du 30/07/2021, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0079 du 01/04/2020, texte n° 9, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=0LduWOm6C36WhoOrckwBT4k85GgPqvffEsbnZjwEPRE=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 02/08/2020, texte n° 10, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=MPsGEg4nMY1Mv2xP2M5-h9xJZvxKXBoNLUNa3sUly-c=
@@ -221,7 +233,3 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter aux conditions d’application prévues à l’article 5 de l’arrêté du 25 mars 2020 (NOR : TRER2008377A).
