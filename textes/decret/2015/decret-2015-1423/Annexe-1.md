@@ -338,13 +338,25 @@ Loi n° 72-964 du 25 octobre 1972 modifiée relative à la francisation des noms
 
 Décret n° 93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française |
 
-Acquisition de la nationalité française à raison du mariage avec un conjoint français (en France et à l'étranger) |
+Acquisition de la nationalité française à raison du mariage avec un conjoint français (en France et à l'étranger) à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
-Articles 21-2, 26 et 26-1
+Articles 21-2,26 et 26-1
 
 Articles 14 à 15 du décret n° 93-1362 du 30 décembre 1993 |
 
-Acquisition de la nationalité française et réintégration dans la nationalité française par décision de l'autorité publique (en France et à l'étranger) |
+Acquisition de la nationalité française à raison de la qualité d'ascendant de Français à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
+
+Articles 21-13-1,26 et 26-1
+
+Articles 17-1 et 17-2 du décret n° 93-1362 du 30 décembre 1993 |
+
+Acquisition de la nationalité française à raison de la qualité de frère ou sœur de Français à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
+
+Articles 21-13-2,26 et 26-1
+
+Articles 17-3 et 17-4 du décret n° 93-1362 du 30 décembre 1993 |
+
+Acquisition de la nationalité française et réintégration dans la nationalité française par décision de l'autorité publique (en France et à l'étranger) à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
 Article 21-15
 
@@ -352,33 +364,31 @@ Articles 35 à 52 du décret n° 93-1362 du 30 décembre 1993
 
 Article 24-1
 
-Articles 35 à 52 du décret n° 93-1362 du 30 décembre |
+Articles 35 à 52 du décret n° 93-1362 du 30 décembre 1993 |
 
-Acquisition de la nationalité française par l'étranger francophone qui en fait la demande et qui contribue par son action émérite au rayonnement de la France et à la prospérité de ses relations économiques internationales |
+Acquisition de la nationalité française par l'étranger francophone qui en fait la demande et qui contribue par son action émérite au rayonnement de la France et à la prospérité de ses relations économiques internationales à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
 Article 21-21
 
 Articles 35 à 52 du décret n° 93-1362 du 30 décembre 1993 |
 
-Acquisition de la nationalité française par l'enfant mineur, resté étranger bien que l'un de ses parents ait acquis la nationalité française |
+Acquisition de la nationalité française par l'enfant mineur, resté étranger bien que l'un de ses parents ait acquis la nationalité française à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
 Article 21-22
 
 Articles 35 à 52 du décret n° 93-1362 du 30 décembre 1993 |
 
-Acquisition de la nationalité française par l'enfant mineur, en conséquence de l'acquisition de la nationalité par un de ses parents |
+Acquisition de la nationalité française par l'enfant mineur, en conséquence de l'acquisition de la nationalité par un de ses parents à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
 Article 22-1 |
 
-Autorisation de perdre la nationalité française sur demande : libération des liens d'allégeance (en France et à l'étranger) |
+Autorisation de perdre la nationalité française sur demande : libération des liens d'allégeance (en France et à l'étranger) à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
 Article 23-4 du code civil
 
-Articles 53 à 58 du décret n° 93-1362 du 30 décembre 1993
+Articles 53 à 58 du décret n° 93-1362 du 30 décembre 1993 |
 
-|
-
-Demandes de francisation de noms et prénoms déposées (en France et à l'étranger) |
+Demandes de francisation de noms et prénoms déposées (en France et à l'étranger) à l'exception des personnes résidant dans un département, ou sur un territoire d'une collectivité mentionnée à l'article 72-3 de la Constitution, désigné par arrêté du ministre chargé des naturalisations |
 
 Articles 1er, 2 et 8 de la loi n° 72-964 du 25 octobre 1972 modifiée relative à la francisation des noms et prénoms des personnes qui acquièrent ou recouvrent ou se font reconnaître la nationalité française |
 
@@ -466,14 +476,6 @@ Articles 4 et 11-1 des ordonnances n° 2000-372 des 26 avril 2000 et n° 2002-38
 
 Décret n° 2008-1176 du 13 novembre 2008 |
 
-Document de circulation des mineurs étrangers |
-
-Articles L. 321-3 et L. 321-4
-
-Article 11 de l'ordonnance n° 2000-371 du 26 avril 2000
-
-Article 12 des ordonnances n° 2000-372 du 26 avril 2000 et n° 2002-388 du 20 mars 2002 |
-
 Aide au retour |
 
 Articles L. 512-5 et R. 512-1-2 |
@@ -493,10 +495,6 @@ Articles L. 721-3 |
 Renonciation à la protection internationale |
 
 Article L. 723-12 |
-
-Document de voyage pour réfugié, apatride et autres bénéficiaires de protection |
-
-Articles L. 753-1, L. 753-2, L. 753-3, L.753-5 et L. 812-7 |
 
 Reconnaissance de la qualité d'apatride |
 
