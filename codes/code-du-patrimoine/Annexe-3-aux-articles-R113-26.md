@@ -14,7 +14,7 @@ Décret n° 93-163 du 2 février 1993 relatif au musée Rodin.
 
 Décret n° 94-3 du 3 janvier 1994 portant création de la Bibliothèque nationale de France.
 
-Décret n° 2003-1300 du 26 décembre 2003 portant création de l'Etablissement public du musée d'Orsay et du musée de l'Orangerie.
+Décret n° 2003-1300 du 26 décembre 2003 portant création de l'Etablissement public du musée d'Orsay et du musée de l'Orangerie-Valéry Giscard d'Estaing.
 
 Décret n° 2003-1301 du 26 décembre 2003 portant création de l'Etablissement public du musée des arts asiatiques Guimet.
 
