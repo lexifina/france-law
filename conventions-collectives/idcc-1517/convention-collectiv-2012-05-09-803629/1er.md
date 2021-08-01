@@ -20,7 +20,9 @@ La présente convention règle les rapports entre les employeurs et les salarié
 
 – puérinatalité ;
 
-– instruments de musique.
+– instruments de musique ;
+
+– produits de la vape.
 
 Les entreprises visées sont notamment répertoriées dans la nomenclature des activités et produits de l'INSEE aux rubriques suivantes :
 
