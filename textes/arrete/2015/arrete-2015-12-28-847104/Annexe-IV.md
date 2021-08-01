@@ -1,10 +1,10 @@
 # Article Annexe IV
 
-LISTE DES EMPLOIS OUVRANT DROIT À L’ATTRIBUTION DE L’INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE IV
+LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET DE RESPONSABILITÉS DES MILITAIRES DE LA GENDARMERIE NATIONALE DE LA CATÉGORIE IV
 
 1° A la direction générale de la gendarmerie nationale, le chef du bureau :
 
-- de l’administration
+- de l'administration
 
 - du budget et de la réglementation
 
@@ -16,7 +16,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L’ATTRIBUTION DE L’INDEMNITÉ DE FONCTION
 
 - de la lutte anti-terroriste
 
-- du management de l’information
+- du management de l'information
 
 - médias
 
@@ -26,9 +26,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L’ATTRIBUTION DE L’INDEMNITÉ DE FONCTION
 
 - de la mobilité et de la proximité numérique
 
-- de l’ordre public
-
-- de l’organisation
+- de l'organisation
 
 - du personnel civil
 
@@ -52,33 +50,39 @@ LISTE DES EMPLOIS OUVRANT DROIT À L’ATTRIBUTION DE L’INDEMNITÉ DE FONCTION
 
 - des ressources financières
 
-- de la sécurité routière des formations et moyens spécialisés
+- de la sécurité des mobilités
 
-- des systèmes d’aide à l’enquête
+- des systèmes d'aide à l'enquête
 
-- chef du centre d’analyse et d’exploitation
+- du management de l'information opérationnelle
+
+- du suivi de la synthèse et de la veille opérationnelle
+
+- chef du centre d'analyse et d'exploitation
+
+- chef J1 du centre national des opérations
 
 Au service de la transformation, le chef du département :
 
-- de l’accompagnement et de la conformité
+- de l'accompagnement et de la conformité
 
-- de la prospective et de l’innovation
+- de la prospective et de l'innovation
 
-- de l’évaluation et de la valorisation
+- de l'évaluation et de la valorisation
 
-- Coordonnateur santé et sécurité au travail
+- Coordonnateur national de la prévention des risques professionnels
 
-- Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l’évaluation, de la performance, des affaires financières et immobilières
+- Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
 
-- Chef d’une division à la direction de la coopération internationale
+- Chef d'une division à la direction de la coopération internationale de sécurité
 
 - Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
 
-- Chef du bureau de l’activité et des procédures au service des technologies et des systèmes d’information de la sécurité intérieure
+- Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
 
 - Chef du centre sécurité économique et protection des entreprises
 
-- Au service de l’achat, de l’innovation et de la logistique du ministère de l’intérieur, chef du bureau :
+- Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
 
 - logistique des équipements
 
@@ -88,31 +92,31 @@ Au service de la transformation, le chef du département :
 
 - Chef du bureau :
 
-- d’audit financier, administratif et technique
+- d'audit financier, administratif et technique
 
-- de l’audit, de la protection et la gouvernance des données
+- de l'audit, de la protection et la gouvernance des données
 
 3° Gendarmerie départementale :
 
 - Chef de la division des opérations de la région de gendarmerie :
 
-- d’Aquitaine
+- d'Aquitaine
 
 - de Bourgogne
 
 - de Bretagne
 
-- de Centre-Val-de-Loire
+- de Centre-Val de Loire
 
 - de Corse
 
-- d’Ile de France
+- d'Ile-de-France
 
 - de Lorraine
 
 - du Nord-Pas-de-Calais
 
-- de Provence-Alpes-Côte-d’Azur
+- de Provence-Alpes-Côte d'Azur
 
 - de Rhône-Alpes
 
@@ -130,29 +134,29 @@ Au service de la transformation, le chef du département :
 
 - de la Vienne
 
-- Commandant en second du groupement de gendarmerie départementale
+- Commandant en second du groupement de gendarmerie départementale :
 
-- de l’Ain
+- de l'Ain
 
-- de l’Aisne
+- de l'Aisne
 
-- de l’Allier
+- de l'Allier
 
 - des Alpes-de-Haute-Provence
 
 - des Alpes-Maritimes
 
-- de l’Ardèche
+- de l'Ardèche
 
 - des Ardennes
 
-- de l’Ariège
+- de l'Ariège
 
-- de l’Aube
+- de l'Aube
 
-- de l’Aude
+- de l'Aude
 
-- de l’Aveyron
+- de l'Aveyron
 
 - du Calvados
 
@@ -166,7 +170,7 @@ Au service de la transformation, le chef du département :
 
 - de la Corrèze
 
-- des Côtes-d’Armor
+- des Côtes-d'Armor
 
 - de la Creuse
 
@@ -176,11 +180,11 @@ Au service de la transformation, le chef du département :
 
 - de la Drôme
 
-- de l’Essonne
+- de l'Essonne
 
-- de l’Eure
+- de l'Eure
 
-- d’Eure-et-Loir
+- d'Eure-et-Loir
 
 - du Finistère
 
@@ -202,11 +206,11 @@ Au service de la transformation, le chef du département :
 
 - des Hautes-Pyrénées
 
-- d’Ille-et-Vilaine
+- d'Ille-et-Vilaine
 
-- de l’Indre
+- de l'Indre
 
-- d’Indre-et-Loire
+- d'Indre-et-Loire
 
 - du Jura
 
@@ -256,7 +260,7 @@ Au service de la transformation, le chef du département :
 
 - du Territoire de Belfort
 
-- du Val-d’Oise
+- du Val-d'Oise
 
 - du Var
 
@@ -266,7 +270,7 @@ Au service de la transformation, le chef du département :
 
 - des Vosges
 
-- de l’Yonne
+- de l'Yonne
 
 - des Yvelines
 
@@ -484,7 +488,7 @@ Au service de la transformation, le chef du département :
 
 - Commandant de la section de recherches :
 
-- d’Angers
+- d'Angers
 
 - de Besançon
 
@@ -536,27 +540,27 @@ Au service de la transformation, le chef du département :
 
 5° Gendarmeries spécialisées :
 
-- Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l’air
+- Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
-- Commandant en second d’un groupement de gendarmerie de l’air
+- Commandant en second d'un groupement de gendarmerie de l'air
 
-- Commandant en second d’un groupement de gendarmerie maritime
+- Commandant en second d'un groupement de gendarmerie maritime
 
-- Commandant en second d’un groupement de la gendarmerie des transports aériens
+- Commandant en second d'un groupement de la gendarmerie des transports aériens
 
 - Commandant de la section de recherches de la gendarmerie des transports aériens
 
-- Chef de la division des opérations de la gendarmerie de l’air
+- Chef de la division des opérations de la gendarmerie de l'air
 
 - Chef de la division des opérations de la gendarmerie maritime
 
-- Chef d’état-major de la gendarmerie de l’armement
+- Chef d'état-major de la gendarmerie de l'armement
 
 6° Autres emplois :
 
 - Chef du service de développement et de mise en œuvre des logiciels
 
-- Directeur adjoint de l’institut de recherches criminelles de la gendarmerie nationale
+- Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
 
 - Commandant en second du service central de renseignement criminel de la gendarmerie nationale
 
@@ -564,33 +568,33 @@ Au service de la transformation, le chef du département :
 
 - Commandant du groupe de sécurité de la présidence de la République
 
-- Chef adjoint de l’unité de coordination de lutte contre l’insécurité routière
+- Chef adjoint de l'unité de coordination de lutte contre l'insécurité routière
 
-- Chef de la force d’intervention au groupe d’intervention de la gendarmerie nationale
+- Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
 
-- Chef d’état-major opérationnel du groupe d’intervention de la gendarmerie nationale
+- Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
 
-- Chef du centre national d’administration de la solde gendarmerie
+- Chef du centre national d'administration de la solde gendarmerie
 
 - Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
 
-- Chef de la trésorerie militaire pour l’activité des forces de la gendarmerie
+- Chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
 
-- Officier de liaison auprès de l’association des maires de France
+- Officier de liaison auprès de l'association des maires de France
 
-- Officier de liaison référent intelligence économique à l’assemblée des départements de France
+- Officier de liaison référent intelligence économique à l'assemblée des départements de France
 
-- Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l’intérieur (1 emploi)
+- Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
 
-- Commandant en second de l’office central de lutte contre la délinquance itinérante
+- Commandant en second de l'office central de lutte contre la délinquance itinérante
 
-- Commandant en second de l’office central de lutte contre le travail illégal
+- Commandant en second de l'office central de lutte contre le travail illégal
 
-- Commandant en second de l’office central de lutte contre les atteintes à l’environnement et à la santé publique
+- Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
 
-- Commandant en second de l’office central de lutte contre les crimes contre l’humanité les génocides et les crimes de guerre
+- Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
 
-- Chargé de mission au sein d’un secrétariat général pour l’administration du ministère de l’intérieur
+- Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
 - Chef du centre de lutte contre les cyber-criminalités numériques
 
@@ -598,14 +602,18 @@ Au service de la transformation, le chef du département :
 
 - Chef de division au service central du renseignement territorial (2 emplois)
 
-- Chef de division à la direction de la coopération internationale
+- Chef de division à la direction de la coopération internationale de sécurié
 
 - Chef de département au commandement spécialisé pour la sécurité nucléaire
 
 7° Ecoles :
 
-- Commandant de groupement à l’école des officiers de la gendarmerie nationale
+- Commandant de groupement à l'école des officiers de la gendarmerie nationale
 
-- Commandant du groupement de l’école de guerre
+- Commandant du groupement de l'école de guerre
 
-- Commandant du centre de formation des dirigeants de l’école des officiers de la gendarmerie nationale
+- Commandant du centre de formation des dirigeants de l'école des officiers de la gendarmerie nationale
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 16 juillet 2021, ces dispositions entrent en vigueur le 1er août 2021.
