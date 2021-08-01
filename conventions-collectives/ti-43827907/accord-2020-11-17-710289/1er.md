@@ -1,0 +1,13 @@
+# Article 1er
+
+Le présent accord couvre l'ensemble des particuliers employeurs et des salariés entrant dans le champ d'application professionnel et géographique de :
+
+– la convention collective nationale des salariés du particulier employeur du 24 novembre 1999 étendue par arrêté du 2 mars 2000, JORF 11 mars 2000 ;
+
+– la convention collective nationale des assistants maternels du particulier employeur du 1er juillet 2004 étendue par arrêté du 17 décembre 2004, JORF 28 décembre 2004.
+
+Le présent accord annule et remplace :
+
+– l'accord du 25 mars 2016 relatif à la formation professionnelle tout au long de la vie dans la branche des salariés du particulier employeur ;
+
+– l'accord du 7 juin 2016 relatif à la formation professionnelle tout au long de la vie dans la branche des assistants maternels du particulier employeur.
