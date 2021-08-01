@@ -1,0 +1,23 @@
+# Article 1er
+
+Les dispositions de l'article 1er du chapitre Ier de la convention collective nationale du commerce de détail de l'horlogerie-bijouterie ainsi que celles issues de l'avenant n° 8 du 14 novembre 1994 sont abrogées et remplacées par les dispositions suivantes :
+
+« La présente convention collective règle les rapports entre les employeurs et tous les salariés des magasins de vente au détail de l'horlogerie, bijouterie, joaillerie et orfèvrerie, indépendamment de leur profession ou de la nature du contrat de travail qui les lie à l'entreprise, à l'exclusion des voyageurs représentants et placiers.
+
+Son champ d'intervention géographique est le territoire national.
+
+Le champ d'application de la convention collective nationale des commerces de détail de l'horlogerie-bijouterie couvre les entreprises et les établissements dont l'activité réelle et principale est désignée aux alinéas suivants :
+
+– les commerces de détail de l'horlogerie, bijouterie, joaillerie, orfèvrerie ;
+
+– les commerces de détail et de réparation dans les activités ci-dessus mentionnées ;
+
+– tout commerce de vente incluant les activités de réparation et de fabrication lorsque celles-ci sont accessoires en horlogerie, bijouterie, joaillerie, orfèvrerie et accessoires.
+
+L'activité réelle et principale exercée entraîne, en principe, le classement de ces entreprises dans les rubriques NAF.
+
+Le code NAF attribuée par l'INSEE à l'employeur, et que celui-ci est tenu de mentionner sur le bulletin de paye, constitue uniquement une présomption de classement. Par suite, il incombe à l'employeur de justifier qu'il n'entre pas dans le présent champ d'application en raison de l'activité réelle et principale exercée par lui, laquelle constitue le critère de classement.
+
+Le code NAF indiqué ci-dessous entre dans le champ d'application de la convention collective nationale du commerce de détail de l'horlogerie-bijouterie et activités qui s'y rattachent :
+
+4777Z. – Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé. »
