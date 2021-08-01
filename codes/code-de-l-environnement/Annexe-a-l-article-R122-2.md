@@ -30,7 +30,7 @@ a) Installations mentionnées à l'article L. 515-28 du code de l'environnement.
 
 a) Autres installations classées pour la protection de l'environnement soumises à autorisation.
 
-b) Autres installations classées pour la protection de l'environnement soumises à enregistrement (pour ces installations, l'examen au cas par cas est réalisé dans les conditions et formes prévues à l'article L. 512-7-2 du code de l'environnement).
+b) Autres installations classées pour la protection de l'environnement soumises à enregistrement (pour ces installations, l'examen au cas par cas est réalisé dans les conditions et formes prévues aux articles L. 512-7-2 et R. 512-46-18 du code de l'environnement.
 
 c) Extensions inférieures à 25 ha des carrières soumises à autorisation mentionnées par la rubrique 2510 de la nomenclature des ICPE
 
@@ -45,6 +45,12 @@ d) Parcs éoliens soumis à autorisation mentionnés par la rubrique 2980 de la 
 e) Elevages bovins soumis à autorisation mentionnés par la rubrique 2101 (élevages de veaux de boucherie ou bovins à l'engraissement, vaches laitières) de la nomenclature des installations classées pour la protection de l'environnement. |
 
 f) Stockage géologique de CO 2 soumis à autorisation mentionnés par la rubrique 2970 de la nomenclature des installations classées pour la protection de l'environnement. |
+
+g) Usines intégrées de première fusion de la fonte et de l'acier. |
+
+h) Installations d'élimination des déchets dangereux, tels que définis à l'article 3, point 2, de la directive 2008/98/ CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets, par incinération, traitement chimique, tel que défini à l'annexe I, point D 9, de ladite directive, ou mise en décharge. |
+
+i) Installations destinées à l'extraction de l'amiante ainsi qu'au traitement et à la transformation de l'amiante et de produits contenant de l'amiante, à la production d'amiante et à la fabrication de produits à base d'amiante. |
 
 Installations nucléaires de base (INB)
 
@@ -104,9 +110,9 @@ On entend par " route " une voie destinée à la circulation des véhicules à m
 
 a) Construction d'autoroutes et de voies rapides.
 
-b) Construction d'une route à quatre voies ou plus, élargissement d'une route existante à deux voies ou moins pour en faire une route à quatre voies ou plus, lorsque la nouvelle route ou la section de route alignée et/ ou élargie excède une longueur ininterrompue d'au moins 10 kilomètres.
+b) Construction d'une route à quatre voies ou plus, élargissement d'une route existante à deux voies ou moins pour en faire une route à quatre voies ou plus, lorsque la nouvelle route ou la section de route alignée et/ ou élargie a une longueur ininterrompue supérieure ou égale à 10 kilomètres.
 
-c) Construction, élargissement d'une route par ajout d'au moins une voie, extension d'une route ou d'une section de route, lorsque la nouvelle route ou la section de route élargie ou étendue excède une longueur ininterrompue d'au moins 10 kilomètres.
+c) Construction, élargissement d'une route par ajout d'au moins une voie, extension d'une route ou d'une section de route, lorsque la nouvelle route ou la section de route élargie ou étendue a une longueur ininterrompue supérieure ou égale à 10 kilomètres.
 
 |
 
@@ -542,13 +548,13 @@ Pour la rubrique 43, est considéré comme " site vierge " un site non accessibl
 
 |
 
-a) Pistes permanentes de courses d'essai et de loisirs pour véhicules motorisés.
+a) Pistes permanentes de courses, d'essais et de loisirs pour véhicules motorisés.
 
 b) Parcs d'attractions à thème et attractions fixes.
 
 c) Terrains de golf et aménagements associés d'une superficie supérieure à 4 hectares.
 
-d) Autres équipements sportifs ou de loisirs et aménagements associés.
+d) Autres équipements sportifs, culturels ou de loisirs et aménagements associés.
 
 |
 
@@ -578,11 +584,7 @@ b) Pour La Réunion et Mayotte, dérogations à l'interdiction générale de dé
 
 b) Autres déboisements en vue de la reconversion des sols, portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare.
 
-En Guyane, ce seuil est porté à :
-
--20 ha dans les zones classées agricoles par un plan local d'urbanisme ayant fait l'objet d'une évaluation environnementale ou, en l'absence d'un tel plan local d'urbanisme, dans le schéma d'aménagement régional ;
-
--5 ha dans les autres zones.
+En Guyane, ce seuil est porté à 20 ha dans les zones classées agricoles par un plan local d'urbanisme ayant fait l'objet d'une évaluation environnementale ou, en l'absence d'un tel plan local d'urbanisme, dans le schéma d'aménagement régional.
 
 |
 
@@ -606,14 +608,4 @@ Toute création ou extension.
 
 NOTA :
 
-Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
-
-(1) Au lieu de lire " R. 122-10 ", il convient de lire " R. 122-4 ".
-
-(2) Conseil d’Etat, décision n° 404391
-
-du 8 décembre 2017 (
-
-ECLI:FR:CECHR:2017:404391.20171208), Art. 1 :
-
-Au a) de la rubrique 44 du tableau annexé à l’article R. 122-2 du code de l’environnement, sont annulés les mots : " d’une emprise supérieure ou égale à 4 hectares " et au d) de la même rubrique, les mots : " susceptibles d’accueillir plus de 5 000 personnes ".
+Conformément à l'article 30 du décret n° 2021-837 du 29 juin 2021, ces dispositions entrent en vigueur le 1er août 2021.
