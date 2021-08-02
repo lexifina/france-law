@@ -43,3 +43,165 @@ Du 1er mars 2020 au 1er mars 2021. |
 Fermeture de l'échelon technique de Dugny |
 
 Du 1er juillet 2020 au 31 octobre 2021. |
+
+Opérations :
+
+- Transfert des missions de gestion, contrôle et de recouvrement des taxes intérieures de consommation (TIC) sur l’électricité (TICFE), sur le gaz naturel (TICGN), et sur les charbons, les houilles, les lignites et les cokes (TICC) vers les services de la direction générale des finances publiques;
+
+- Transfert des missions de gestion, contrôle du droit annuel de francisation et de navigation (DAFN), du droit de passeport vers les services de la direction des affaires maritimes, et transfert du recouvrement de ces droits vers les services de la direction générale des finances publiques.
+
+Services concernés :
+
+- Direction interrégionale Nouvelle Aquitaine :
+
+Arcachon port bureau
+
+Angoulême bureau
+
+Bordeaux Bassens port bureau
+
+Brive bureau
+
+Bayonne bureau
+
+Guéret bureau
+
+La Rochelle Pallice bureau
+
+Limoges bureau
+
+Mont de Marsan bureau
+
+Niort bureau
+
+Pau bureau
+
+Poitiers bureau
+
+Bordeaux recette interrégionale
+
+- Direction interrégionale Bretagne-Pays de la Loire :
+
+La Roche-sur-Yon bureau
+
+Sables d’Olonne bureau
+
+Lorient bureau
+
+Saint-Brieuc bureau
+
+Brest bureau
+
+Le Mans bureau
+
+Saint Nazaire Montoir bureau
+
+Rennes bureau
+
+Saint Malo bureau
+
+Nantes recette interrégionale
+
+- Direction interrégionale Occitanie :
+
+Nîmes bureau
+
+Port la nouvelle crd
+
+Sète bureau
+
+Toulouse Portet bureau
+
+Montpellier recette interrégionale
+
+- Direction interrégionale Provence-Alpes-Côte d’Azur-Corse :
+
+Cannes bureau
+
+Nice port bureau
+
+Port de Bouc énergies
+
+Toulon la Seyne bureau
+
+Ajaccio port
+
+Avignon bureau
+
+Marseille recette interrégionale
+
+- Direction interrégionale Auvergne-Rhône-Alpes :
+
+Lyon énergies inter
+
+- Direction interrégionale Bourgogne-Franche Comté-centre-Val de Loire :
+
+Tours bureau
+
+- Direction interrégionale Normandie :
+
+Port Jérôme raffinerie
+
+Rouen énergies
+
+Cherbourg bureau
+
+Le Havre recette interrégionale
+
+- Direction interrégionale Antilles Guyane :
+
+Fort de France port bureau
+
+Point-à-Pitre port bureau
+
+Guadeloupe recette régionale
+
+Martinique recette régionale
+
+- Direction interrégionale Grand Est :
+
+Strasbourg énergies grand est
+
+Metz recette interrégionale
+
+- Direction interrégionale des Hauts-de-France :
+
+Lille bureau
+
+Boulogne bureau
+
+Dunkerque recette interrégionale
+
+- Direction régionale de la Réunion :
+
+Saint Pierre bureau
+
+- Direction interrégionale d’Ile-de-France :
+
+Paris principal bureau
+
+Paris Recette interrégionale
+
+- Direction régionale de Mayotte :
+
+Pamandzi Bureau
+
+- Direction générale :
+
+Sous-direction douanière
+
+Bureau Énergie, environnement et lois de finances (FID 1)
+
+Bureau transports,
+
+Et fiscalité européenne (FID 2)
+
+|
+
+Du 1er septembre 2021 au 28 février 2023. |
+
+Réorganisation du bureau des douanes de Toulouse Portet suite au transfert de la mission de dédouanement vers un autre service.
+
+|
+
+Du 1er juillet 2021 au 28 février 2023. |
