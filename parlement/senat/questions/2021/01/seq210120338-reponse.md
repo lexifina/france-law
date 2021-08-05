@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120338
+
+- Question : [SEQ210120338](seq210120338.md) — Craintes des élus du bloc communal en matière de projets d'investissement sur le mandat à venir
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-08-05, page 4852*
+
+Le Gouvernement a mis en oeuvre plusieurs mesures pour soutenir directement les investissements locaux. L'Etat a mis en place une enveloppe de 950 millions d'euros (M€) de dotation de soutien à l'investissement local exceptionnelle (DSIL exceptionnelle), destinée à financer les projets liés à la transition écologique, à la résilience sanitaire et à la préservation du patrimoine. Au 31 décembre 2020, moins de six mois après son instauration, près de 570 millions d'euros (M€) de crédits avaient été engagés par les représentants de l'État sur cette enveloppe, pour financer plus de 3 350 projets. En juin 2021, près de 90 % de l'enveloppe a fait l'objet d'une autorisation d'engagement. En outre, la loi de finances pour 2021 a institué une autre enveloppe de 650 M€ pour la rénovation thermique des bâtiments du bloc communal. Une instruction du 18 novembre 2020 a précisé les modalités d'emploi de cette dotation d'investissement. En juin 2021, déjà 345 M€ ont été engagés pour financer des projets de rénovation thermique. En outre, une dotation de soutien aux investissements régionaux de 600 M€ a été ouverte. Ces mesures nouvelles, qui ont été instituées au surplus des dotations classiques d'investissement aux collectivités territoriales (dotation d'équipement des territoires ruraux (DETR) - 1,046 Md€, dotation de soutien à l'investissement local (DSIL) - 570 M€ et dotation politique de la ville (DPV) - 150 M€), traduisent l'engament de l'État à soutenir l'investissement public local.
