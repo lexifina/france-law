@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623517
+
+- Question : [SEQ210623517](seq210623517.md) — Durée de travail des agents des collectivités d'Alsace-Moselle
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2021-08-05, page 4896*
+
+L'article L. 3134-13 du code du travail précise que le vendredi-saint et le 26 décembre sont chômés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Par ailleurs, l'article 47 de la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique a supprimé les régimes de travail dérogatoires plus favorables pris sur le fondement de l'article 7-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale. Les collectivités territoriales concernées sont invitées à définir, dans le délai d'un an à compter du renouvellement général de leurs assemblées délibérantes et dans les conditions fixées à l'article 7-1 précité, de nouvelles règles relatives au temps de travail de leurs agents. Ces dispositions sont applicables aux collectivités territoriales d'Alsace et de Moselle, qui se voient appliquer la durée légale annuelle de travail effectif de 1 607 heures. La durée légale de travail s'applique uniformément et indépendamment du nombre de jours chômés, qu'il s'agisse des jours fériés de droit commun ou des jours fériés spécifiques applicables en Alsace et en Moselle (questions écrites n° 03989, réponse publiée au JO Sénat du 18 décembre 2008 et n° 20362, réponse publiée au JO Sénat du 2 février 2006). Autrement dit, la base d'annualisation de la durée du travail reste fixée à 1 607 heures indépendamment du nombre de jours chômés fixé dans ces départements. Toute collectivité territoriale d'Alsace et de Moselle qui déduirait ces deux jours fériés locaux de la durée légale annuelle de travail en la réduisant à 1 593 heures méconnaitrait les textes applicables en la matière.
