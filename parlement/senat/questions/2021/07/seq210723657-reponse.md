@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723657
+
+- Question : [SEQ210723657](seq210723657.md) — Obtention d'un QR code attestant d'une vaccination pour les Français de l'étranger
+
+## Réponse
+
+*Transition numérique et communications électroniques, JO du 2021-08-05, page 4901*
+
+Toute personne se faisant vacciner sur le territoire français par un professionnel de santé est en mesure de récupérer son certificat de vaccination. Ainsi, un français de l'étranger vacciné en France ayant reçu une ou plusieurs doses de vaccination peut récupérer son certificat auprès d'un professionnel de santé du centre où il a effectué son vaccin, en utilisant notamment le numéro de patient donné par le centre. Par ailleurs, même sans numéro de sécurité sociale, les certificats de vaccination sont accessibles sur attestation-vaccin.ameli.fr avec une connexion France Connect. En revanche, pour les français de l'étranger ayant effectué leur vaccination dans leur pays de résidence trois cas peuvent se présenter : soit le pays est membre de l'Union européenne et un QR Code au format européen intéropérable avec le système français est délivré (format DCC) ; soit la vaccination a été effectuée par un professionnel de santé avec un vaccin envoyé par la France (réseau des Ambassades de France par exemple) ou la deuxième dose est prévue en France et l'acte de vaccination est enregistré dans Vaccin Covid et le certificat de vaccination est alors délivré au format DCC ; soit la vaccination a été effectuée dans un pays non-intéropérable avec le format DCC européen. Pour ce dernier cas, un outil est en cours de développement et il sera possible pour ces personnes de récupérer une certification de vaccination au format DCC après avoir soumis une requête par mail ou via un portail dédié. Le service sera accessible pour tous les français de l'étranger au début du mois d'août, leur permettant d'obtenir un certificat valable sur le territoire ainsi qu'au niveau européen.
