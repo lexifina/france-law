@@ -66,6 +66,24 @@ X |
 
 |
 
+TFP AE (animateur d'équitation) |
+
+|
+
+X |
+
+X |
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Degré 3 |
 
 X |
