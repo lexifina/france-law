@@ -52,4 +52,4 @@ La personne formée : Je soussigné (e), (nom, prénom), avoir suivi la formatio
 
 -matériel et consommables permettant la protection de la personne distribuant les tests de détection antigénique du virus SARS-CoV-2 sur prélèvement nasal et la désinfection des surfaces en respectant la norme de virucide 14476 ;
 
--les tests négatifs placés sous emballage est évacué dans les ordures ménagères, les tests positifs doivent être placés sous double emballage et stockés pendant 24 heures avant leur élimination par la filière des ordures ménagères ou immédiatement si une poubelle spécifique pour les déchets d'activité de soins à risques infectieux est disponible.
+-les tests négatifs placés sous double emballage est évacué dans les ordures ménagères, les tests positifs doivent être placés sous double emballage et stockés pendant 24 heures avant leur élimination par la filière des ordures ménagères ou immédiatement si une poubelle spécifique pour les déchets d'activité de soins à risques infectieux est disponible.
