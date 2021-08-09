@@ -1,6 +1,10 @@
 # Article 13 sexies
 
-I.-Peuvent être promus au grade de professeur agrégé de classe exceptionnelle, au choix, par voie d'inscription à un tableau annuel d'avancement, les professeurs agrégés qui, à la date d'établissement dudit tableau, ont atteint au moins le 2e échelon de la hors-classe, et justifient de huit années de fonctions accomplies dans des conditions d'exercice difficiles ou sur des fonctions particulières au sein d'un corps enseignant, d'éducation ou de psychologue relevant du ministère de l'éducation nationale.
+Peuvent être promus au grade de professeur agrégé de classe exceptionnelle, au choix, par voie d'inscription à un tableau annuel d'avancement, les professeurs agrégés qui, à la date d'établissement de ce tableau, ont atteint au moins le 2e échelon de la hors-classe et justifient de huit années :
+
+1° Dans des fonctions particulières, notamment au regard des responsabilités exercées, de direction, de coordination, d'accompagnement ou de formation au sein d'un ou de plusieurs corps enseignants, d'éducation ou de psychologue relevant du ministère de l'éducation nationale ;
+
+2° Ou dans des fonctions accomplies au sein de l'un ou de plusieurs de ces mêmes corps dans un établissement d'enseignement supérieur ou une classe préparatoire aux grandes écoles ou dans un territoire ou lieu d'exercice caractérisé par des difficultés éducatives, économiques ou sociales.
 
 La liste de ces fonctions est fixée par arrêté du ministre chargé de l'éducation nationale et du ministre chargé de la fonction publique.
 
