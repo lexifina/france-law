@@ -60,6 +60,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Occitanie
 
+-Commandant en second d'un groupement de gendarmerie départementale ayant le statut de formation administrative
+
 -Commandant du groupement de gendarmerie départementale :
 
 -de l'Ain
@@ -284,10 +286,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Officier de liaison au sein du pôle " prospective et stratégie militaire " au cabinet du major général des armées (1 emploi)
 
+-Commandant militaire de la Présidence de la République
+
 8° Ecoles :
 
 -Commandant en second de l'école des officiers de la gendarmerie nationale
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 16 juillet 2021, ces dispositions entrent en vigueur le 1er août 2021.
