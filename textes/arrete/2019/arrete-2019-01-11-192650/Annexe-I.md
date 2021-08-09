@@ -1,6 +1,6 @@
 # Article Annexe I
 
-LISTE DES EMPLOIS DU MINISTÈRE DE L'INTÉRIEUR CONCERNÉS PAR L'OBLIGATION DE TRANSMISSION PRÉALABLE DE LA DÉCLARATION D'INTÉRÊTS À PRÉVUE À L'ARTICLE 25 TER DE LA LOI NO 83-634 DU 13 JUILLET 1983 PORTANT DROITS ET OBLIGATIONS DES FONCTIONNAIRES
+LISTE DES EMPLOIS DU MINISTÈRE DE L'INTÉRIEUR CONCERNÉS PAR L'OBLIGATION DE TRANSMISSION PRÉALABLE DE LA DÉCLARATION D'INTÉRÊTS À PRÉVUE À L'ARTICLE 25 TER DE LA LOI N° 83-634 DU 13 JUILLET 1983 PORTANT DROITS ET OBLIGATIONS DES FONCTIONNAIRES
 
 Au sein de l'administration centrale et des services à compétence nationale
 
@@ -22,21 +22,15 @@ Sous-directeur de l'action sociale et de l'accompagnement du personnel |
 
 Direction de l'Evaluation de la Performance et des Affaires Financières et Immobilières (DEPAFI) |
 
-Sous-directeur des programmes et de l'achat |
-
 Sous-directeur des affaires immobilières |
 
-Direction des Systèmes d'Information et de Communication (DSIC) |
+Directeur de projet, chargé de la conception et de la construction du futur site unique de la direction générale de la sécurité intérieure |
 
-Sous-directeur de l'administration générale et de l'achat |
+Adjoint au directeur de projet, chargé de la conception et de la construction du futur site unique de la direction générale de la sécurité intérieure |
 
-Sous-directeur des applications |
+Direction de l'Evaluation de la Performance, de l'achat, des finances et de l'immobilier/ service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (SAILMI) |
 
-Sous-directeur des infrastructures |
-
-Sous-directeur de la supervision et de la production |
-
-Sous-directeur du soutien aux utilisateurs |
+Sous-directeur de l'achat et du suivi de l'exécution des marchés |
 
 Délégation à l'Information et à la Communication (DICOM) |
 
@@ -46,6 +40,8 @@ Direction Générale des collectivités Locales (DGCL) |
 
 Sous-directeur des finances locales et de l'action économique |
 
+Sous-directeur de la cohésion et de l'aménagement du territoire |
+
 Sous-directeur des élus locaux et de la fonction publique territoriale |
 
 Direction Générale des Etrangers en France (DGEF) |
@@ -54,7 +50,7 @@ Sous-directeur, chef du service du pilotage et des systèmes d'information |
 
 Sous-directeur de l'accès à la nationalité française |
 
-Sous-directeur de l'accueil et de l'accompagnement des étrangers |
+Sous-directeur de l'intégration des étrangers |
 
 Direction Générale de la Sécurité Civile et de la Gestion des Crises (DGSCGC) |
 
@@ -74,23 +70,15 @@ Sous-directeur de l'éducation routière et du permis de conduire |
 
 Sous-directeur de la protection des usagers de la route |
 
-Service des achats, des équipements et de la logistique de la sécurité intérieure (SAELSI) |
-
-Sous-directeur des achats |
-
 Direction des ressources et des compétences de la police nationale (DRCPN) |
 
 Sous-directeur de la prévention, de l'accompagnement et du soutien |
 
-Direction centrale du recrutement et de la formation de la police nationale (DCRFPN)
-
-|
+Direction centrale du recrutement et de la formation de la police nationale (DCRFPN) |
 
 Directeur central adjoint |
 
-Direction centrale de la police aux frontières (DCPAF)
-
-|
+Direction centrale de la police aux frontières (DCPAF) |
 
 Directeur central adjoint |
 
@@ -117,10 +105,6 @@ Ecole nationale supérieure des officiers de sapeurs pompiers (ENSOSP) |
 Directeur |
 
 Conseil National des Activités Privées de Sécurité (CNAPS) |
-
-Directeur |
-
-Institut National de la Police Scientifique (INPS) |
 
 Directeur |
 
