@@ -1178,7 +1178,7 @@ Grand Est |
 
 Pneumologie |
 
-|
+3 |
 
 Grand Est |
 
@@ -1218,7 +1218,7 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-190 |
+193 |
 
 Hauts-de-France |
 
@@ -1648,7 +1648,7 @@ Ile-de-France |
 
 Ophtalmologie |
 
-17 |
+|
 
 Ile-de-France |
 
@@ -1718,7 +1718,7 @@ Odontologie |
 
 TOTAL |
 
-379 |
+362 |
 
 Normandie |
 
@@ -1748,7 +1748,7 @@ Normandie |
 
 Chirurgie orthopédique et traumatologique |
 
-|
+1 |
 
 Normandie |
 
@@ -1850,7 +1850,7 @@ Normandie |
 
 Médecine générale |
 
-24 |
+22 |
 
 Normandie |
 
@@ -1962,7 +1962,7 @@ Odontologie |
 
 TOTAL |
 
-129 |
+128 |
 
 Nouvelle-Aquitaine |
 
@@ -1980,7 +1980,7 @@ Nouvelle-Aquitaine |
 
 Biologie médicale |
 
-3 |
+1 |
 
 Nouvelle-Aquitaine |
 
@@ -2136,7 +2136,7 @@ Nouvelle-Aquitaine |
 
 Neurologie |
 
-8 |
+7 |
 
 Nouvelle-Aquitaine |
 
@@ -2208,7 +2208,7 @@ Nouvelle-Aquitaine |
 
 Sage-Femme |
 
-3 |
+1 |
 
 Nouvelle-Aquitaine |
 
@@ -2218,7 +2218,7 @@ Odontologie |
 
 TOTAL |
 
-232 |
+227 |
 
 Occitanie |
 
@@ -2434,13 +2434,13 @@ Occitanie |
 
 Radiologie et imagerie médicale |
 
-|
+9 |
 
 Occitanie |
 
 Rhumatologie |
 
-8 |
+|
 
 Occitanie |
 
@@ -2458,7 +2458,7 @@ Occitanie |
 
 Pharmacie polyvalente |
 
-1 |
+|
 
 TOTAL |
 
@@ -3380,13 +3380,13 @@ La Réunion |
 
 Neurologie |
 
-|
+2 |
 
 La Réunion |
 
 Oncologie |
 
-|
+1 |
 
 La Réunion |
 
@@ -3444,8 +3444,8 @@ Urologie |
 
 TOTAL |
 
-17 |
+20 |
 
 TOTAL DES POSTES OUVERTS POUR LA SESSION 2021 |
 
-2010 |
+1993 |

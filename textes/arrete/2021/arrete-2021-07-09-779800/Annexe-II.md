@@ -22,7 +22,7 @@ Anesthésie-réanimation |
 
 Biologie médicale |
 
-10 |
+8 |
 
 Chirurgie maxillo-faciale |
 
@@ -30,7 +30,7 @@ Chirurgie maxillo-faciale |
 
 Chirurgie orthopédique et traumatologique |
 
-21 |
+22 |
 
 Chirurgie plastique, reconstructrice et esthétique |
 
@@ -86,7 +86,7 @@ Maladies infectieuses et tropicales |
 
 Médecine cardiovasculaire |
 
-81 |
+83 |
 
 Médecine d'urgence |
 
@@ -98,7 +98,7 @@ Médecine et santé au travail |
 
 Médecine générale |
 
-366 |
+364 |
 
 Médecine intensive-réanimation |
 
@@ -126,15 +126,15 @@ Neurochirurgie |
 
 Neurologie |
 
-38 |
+37 |
 
 Oncologie |
 
-38 |
+39 |
 
 Ophtalmologie |
 
-29 |
+12 |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
@@ -146,7 +146,7 @@ Pédiatrie |
 
 Pneumologie |
 
-54 |
+57 |
 
 Psychiatrie |
 
@@ -154,11 +154,11 @@ Psychiatrie |
 
 Radiologie et imagerie médicale |
 
-92 |
+101 |
 
 Rhumatologie |
 
-15 |
+7 |
 
 Santé publique |
 
@@ -174,12 +174,12 @@ Odontologie |
 
 Pharmacie polyvalente |
 
-14 |
+13 |
 
 Sage-Femme |
 
-9 |
+7 |
 
 Total |
 
-2010 |
+1993 |
