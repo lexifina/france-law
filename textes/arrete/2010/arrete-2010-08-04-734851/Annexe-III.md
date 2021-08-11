@@ -4,17 +4,17 @@ SOUS-OFFICIERS DE GENDARMERIE
 
 La commission d'avancement mentionnée à l'article 4 se compose des membres désignés dans le tableau ci-après :
 
-1. Branches de la subdivision d'arme de la gendarmerie départementale :
+1. Branches de la subdivision d'arme de la gendarmerie départementale
 
 BRANCHES |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-titulaire |
+de la commission titulaire |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléante |
+de la commission suppléante |
 
 MEMBRES |
 
@@ -100,17 +100,17 @@ L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-ma
 
 Deux officiers supérieurs de la branche considérée, à défaut, désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
-2. Branches de la subdivision d'arme de la gendarmerie mobile :
+2. Branches de la subdivision d'arme de la gendarmerie mobile
 
 BRANCHES |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-titulaire |
+de la commission titulaire |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléante |
+de la commission suppléante |
 
 MEMBRES |
 
@@ -130,31 +130,37 @@ L'officier supérieur le plus ancien dans le grade le plus élevé parmi les mem
 
 Les commandants de régiment ou les commandants de régiment par suppléance.
 
+Le commandant des maisons militaires.
+
 L'administrateur, régisseur des formations musicales de la garde républicaine. |
 
 (1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire chef d'état-major. |
 
-3. Branches communes aux deux subdivisions d'arme :
+3. Branches communes aux deux subdivisions d'arme
 
 BRANCHES |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-titulaire |
+de la commission titulaire |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléante |
+de la commission suppléant |
 
 MEMBRES |
 
-Personnel servant outre-mer, en assistance militaire technique. |
+Personnel servant outre-mer, au sein des formations prévôtales ou en assistance militaire technique. |
 
 Le commandant en second du commandement de la gendarmerie outre-mer. |
 
 Le chef d'état-major du commandement de la gendarmerie outre-mer. |
 
 Les commandants territoriaux de la gendarmerie outre-mer ou les officiers supérieurs les représentant désignés par le général, commandant la gendarmerie outre-mer.
+
+Le commandant de la gendarmerie pour les missions extérieures.
+
+Le commandant de la gendarmerie prévôtale.
 
 Un officier supérieur de l'état-major de la gendarmerie outre-mer désigné par le général, commandant la gendarmerie outre-mer. |
 
@@ -172,7 +178,7 @@ Le commandant en second du commandement des écoles de la gendarmerie nationale.
 
 L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des écoles de la gendarmerie nationale. |
 
-Les commandants des écoles de la gendarmerie nationale et centres d'instruction ou les officiers supérieurs les représentant désignés par le commandant des écoles de la gendarmerie nationale. |
+Les commandants des écoles de la gendarmerie nationale, les commandants des centres d'instruction, le commandant du groupement de soutien opérationnel des écoles ou les officiers supérieurs les représentant désignés par le commandant des écoles de la gendarmerie nationale. |
 
 Organismes centraux, branche administrative et technique. |
 
@@ -182,7 +188,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale, commandement de la gendarmerie prévôtale, commandement spécialisé pour la sécurité nucléaire, commandement des réserves de la gendarmerie).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement des réserves de la gendarmerie, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur).
 
 Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
@@ -194,7 +200,7 @@ L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. 
 
 Trois officiers supérieurs appartenant respectivement à la direction des opérations et de l'emploi, à la direction des personnels militaires de la gendarmerie nationale et à la direction des soutiens et des finances.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, service de la transformation, service des achats, de l'innovation et de la logistique du ministère de l'intérieur).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (cabinet du directeur général de la gendarmerie nationale, service des technologies et des systèmes d'information de la sécurité intérieure, service d'information et de relations publiques des armées-gendarmerie, service de la transformation).
 
 Le chef du bureau du personnel sous-officier de gendarmerie et volontaire.
 
@@ -232,17 +238,17 @@ Un officier supérieur du pôle judiciaire désigné par le commandant du pôle 
 
 (1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale. |
 
-4. Spécialités :
+4. Spécialités
 
 BRANCHES |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-titulaire |
+de la commission titulaire |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
 
-suppléante |
+de la commission suppléante |
 
 MEMBRES |
 
