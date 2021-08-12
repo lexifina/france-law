@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120168
+
+- Question : [SEQ210120168](seq210120168.md) — Pour un brevet de technicien supérieur « mécatronique navale » au lycée maritime de Paimpol
+
+## Réponse
+
+*Mer, JO du 2021-08-12, page 4965*
+
+Le BTS mécatronique navale, dont la création du référentiel est en cours de finalisation par la marine nationale, l'éducation nationale et la direction des affaires maritimes, présente de belles opportunités professionnelles pour les bacheliers issus de l'enseignement secondaire maritime. En effet, la mécatronique est une discipline associant électronique, informatique et mécanique, ce qui permet au mécatronicien de travailler dans quasiment tous les secteurs de l'industrie et en fait un profil recherché pour le secteur de la défense nationale. Ce BTS intéresse plusieurs lycées maritimes, et compte-tenu de notre plafond d'emplois ministériel, une sélection devra être effectuée. À la demande de la ministre de la mer, la direction des affaires maritimes a lancé un appel à candidature pour connaître les projets d'ouverture d'une classe de BTS mécatronique navale. Ces demandes seront classées à l'aune de critères tels que les débouchés professionnels ou les possibilités de poursuite d'études à proximité, les qualifications des équipes enseignantes, les équipements déjà acquis ou les investissements à réaliser pour dispenser la formation et les synergies locales pouvant être développées avec d'autres établissements d'enseignement supérieur. Si le lycée professionnel maritime de Paimpol ne pouvait être retenu au titre de la rentrée 2022 en raison de l'insuffisance en moyens humains, une demande d'ETP supplémentaires auprès du ministère de l'éducation nationale, de la jeunesse et des sports, pourrait être envisagée, afin de créer de nouvelles classes de BTS à la rentrée 2023.
