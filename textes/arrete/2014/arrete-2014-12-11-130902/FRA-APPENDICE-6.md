@@ -384,29 +384,63 @@ e) INDIQUEZ DISTANCE (GNSS ou DME) AVANT ou APRES (point significatif) ou (nom d
 
 * Indique une communication du pilote. |
 
-1.1.11 RENSEIGNEMENTS SUR L'AERODROME |
+1.1.11 RENSEIGNEMENTS SUR L'AÉRODROME
 
-a) [(lieu)] ETAT DE SURFACE PISTE (numéro) (état) ; |
+Note 1.-Le code relatif à l'état de surface est communiqué aux aéronefs dans l'ordre de la direction d'atterrissage ou de décollage.
 
-b) [(lieu)] ETAT DE SURFACE PISTE (numéro) NON ACTUALISE ; |
+Note 2.-Ces informations sont fournies pour des tiers de piste ou pour toute la longueur de la piste, selon le cas. |
+
+a) [(lieu)] PISTE (numéro) ÉTAT DE SURFACE [CODE (numéro à trois chiffres)] ;
+
+a) suivi au besoin de :
+
+1) PUBLIÉ LE (date et heure UTC) ;
+
+2) SÈCHE, ou GLACE MOUILLÉE, ou EAU SUR NEIGE COMPACTÉE, ou NEIGE SÈCHE, ou NEIGE SÈCHE SUR GLACE, ou NEIGE MOUILLÉE SUR GLACE, ou GLACE, ou NEIGE FONDANTE, ou EAU STAGNANTE, ou NEIGE COMPACTÉE, ou NEIGE MOUILLÉE, ou NEIGE SÈCHE SUR NEIGE COMPACTÉE, ou NEIGE MOUILLÉE SUR NEIGE COMPACTÉE, ou MOUILLÉE, ou MOUILLÉE GLISSANTE, ou GELÉE ;
+
+3) PROFONDEUR [(profondeur du dépôt) MILLIMÈTRES ou NON COMMUNIQUÉE)] ;
+
+4) COUVERTURE [(nombre) POURCENTAGE ou NON COMMUNIQUÉE] ;
+
+5) LARGEUR DISPONIBLE (nombre) MÈTRES ;
+
+6) LONGUEUR RÉDUITE À (nombre) MÈTRES ;
+
+7) CHASSE-NEIGE BASSE ;
+
+8) SABLE NON ADHÉRENT ;
+
+9) TRAITÉE CHIMIQUEMENT ;
+
+10) CONGÈRE (nombre) MÈTRES [À GAUCHE, ou À DROITE ou DES DEUX CÔTÉS] [DE ou À PARTIR DE] L'AXE ;
+
+11) VOIE DE CIRCULATION (identification de la voie de circulation) CONGÈRE (nombre) MÈTRES [À GAUCHE, ou À DROITE ou DES DEUX CÔTÉS] [DE ou À PARTIR DE] L'AXE ;
+
+12) CONGÈRES ADJACENTES ;
+
+13) VOIE DE CIRCULATION (identification de la voie de circulation) FAIBLE ;
+
+14) AIRE DE TRAFIC (identification de l'aire de trafic) FAIBLE ;
+
+15) Observations en langage clair. |
+
+b) [(lieu)] ÉTAT DE SURFACE PISTE (numéro) NON ACTUALISÉ ; |
 
 c) SURFACE D'ATTERRISSAGE (état) ; |
 
 d) ATTENTION TRAVAUX DE CONSTRUCTION (emplacement) ; |
 
-e) ATTENTION (préciser les raisons) A DROITE (ou A GAUCHE) (ou DES DEUX COTES) DE LA PISTE [numéro] ; |
+e) ATTENTION (préciser les raisons) À DROITE (ou À GAUCHE) (ou DES DEUX CÔTÉS) DE LA PISTE [(numéro)] ; |
 
 f) ATTENTION TRAVAUX EN COURS (ou OBSTACLES) (position et tous conseils utiles) ; |
 
-g) ETAT DE LA PISTE A (heure d'observation) PISTE (numéro) (type de précipitation) JUSQU'A (épaisseur du dépôt) MILLIMETRES. FREINAGE ESTIME BON (ou MOYEN-BON, ou MOYEN, ou MOYEN-FAIBLE, ou FAIBLE) ; |
+g) EFFICACITÉ DU FREINAGE SIGNALÉE PAR (type d'aéronef) À (heure) BONNE (ou BONNE À MOYENNE, ou MOYENNE, ou MOYENNE À FAIBLE, ou FAIBLE) ; |
 
-h) FREINAGE SIGNALE PAR (type d'aéronef) A (heure) BON (ou MOYEN, ou MOYEN à FAIBLE, ou FAIBLE) ; |
+h) VOIE DE CIRCULATION (identification de la voie de circulation) MOUILLÉE [ou EAU STAGNANTE, ou DÉNEIGÉE (longueur et largeur, le cas échéant) ou CHIMIQUEMENT TRAITÉE, ou COUVERTE DE PLAQUES DE NEIGE SÈCHE (ou NEIGE MOUILLÉE, ou NEIGE COMPACTÉE, ou NEIGE FONDANTE, ou NEIGE FONDANTE GELÉE, ou GLACE, ou GLACE MOUILLÉE, ou GLACE RECOUVERTE DE NEIGE, ou GLACE ET NEIGE, ou CONGÈRES, ou ORNIÈRES ET ARÊTES GELÉES ou SABLE MEUBLE)] ; |
 
-i) PISTE (ou VOIE DE CIRCULATION ou TAXIWAY) (numéro) MOUILLEE [ou HUMIDE, FLAQUES D'EAU, INONDEE (profondeur), ou DENEIGEE (longueur et largeur, le cas échéant) ou TRAITEE, ou COUVERTE DE PLAQUES DE NEIGE SECHE (ou NEIGE MOUILLEE, ou NEIGE TASSEE, ou NEIGE FONDANTE, ou NEIGE FONDANTE GELEE, ou GLACE, ou GLACE RECOUVERTE DE NEIGE, ou GLACE ET NEIGE, ou CONGERES, ou ORNIERES ET ARETES GELEES)] ; |
+i) LA TOUR OBSERVE (renseignements météorologiques) ; |
 
-j) LA TOUR OBSERVE (renseignements météorologiques) ; |
-
-k) UN PILOTE SIGNALE (renseignements météorologiques). |
+j) UN PILOTE SIGNALE (renseignements météorologiques). |
 
 1.1.12 ETAT DE FONCTIONNEMENT DES AIDES VISUELLES ET NON VISUELLES |
 
@@ -1899,3 +1933,7 @@ f) IMPOSSIBLE D'APPROUVER L'AUTORISATION DE MISE EN ROUTE CAUSE CRENEAU EXPIRE, 
 Refus de mise en route lorsque demandé trop tôt pour se conformer avec le CTOT donné. |
 
 g) IMPOSSIBLE D'APPROUVER L'AUTORISATION DE MISE EN ROUTE CAUSE CRENEAU (heure), DEMANDEZ MISE EN ROUTE A (heure). |
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 20 juillet 2021, ces dispositions entrent en vigueur le 12 août 2021.

@@ -58,7 +58,7 @@ Bureau NOTAM international : Tout bureau désigné par un Etat pour échanger de
 
 Calendrier : Système de référence temporel discret qui sert de base à la définition de la position temporelle avec une résolution de un jour (Norme ISO 19108, Information géographique - Schéma temporel).
 
-Calendrier grégorien : Calendrier d'usage courant. Introduit en 1582 pour définir une année qui soit plus proche.
+Calendrier grégorien : Calendrier d'usage courant. Introduit en 1582 pour définir une année qui soit plus proche de l'année tropique que celle du calendrier julien (Norme ISO 19108, Information géographique-Schéma temporel).
 
 Carburant minimal : Expression employée pour décrire une situation dans laquelle la quantité de carburant à bord est devenue telle que l'aéronef doit obligatoirement se poser à un aérodrome précis et ne peut pas supporter un allongement du temps de vol.
 
@@ -187,3 +187,7 @@ Zone réservée temporairement (TRA) : Volume d'espace aérien réservé tempora
 Zone de ségrégation temporaire (TSA) : Volume d'espace aérien réservé temporairement à des usagers déterminés, pour leur usage exclusif.
 
 Zone de ségrégation temporaire transfrontalière (CBA) : Volume d'espace aérien établi au-dessus de frontières internationales et réservé temporairement à des usagers déterminés, pour un usage spécifique. Une telle zone peut prendre la forme d'une TSA ou d'une TRA.
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 20 juillet 2021, ces dispositions entrent en vigueur le 12 août 2021.
