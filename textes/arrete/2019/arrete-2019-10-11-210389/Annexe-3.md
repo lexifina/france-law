@@ -34,9 +34,9 @@ Direction de l'animation de la recherche, des études et des statistiques du min
 
 Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de la DARES d'exploiter les données à des fins statistiques destinées à la recherche ou à l'évaluation du SI-CPF, de suivre l'évolution du compte personnel de formation conformément à ses missions, qui consistent notamment à réaliser des enquêtes et des études statistiques sur l'emploi, le travail et la formation professionnelle en France afin d'éclairer la conception et la mise en œuvre des politiques publiques dans ces domaines, notamment par le suivi et l'évaluation des résultats des politiques menées. |
 
-Organismes de formation |
+Organismes de formation et leurs sous-traitants |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités des organismes de formation mentionnés à l'article L. 6351-1 du code du travail de traiter les demandes d'inscription des titulaires de compte à des formations. |
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités des organismes de formation mentionnés à l'article L. 6351-1 du code du travail et de leurs sous-traitants de traiter les demandes d'inscription des titulaires de compte à des formations. |
 
 France Compétences |
 
@@ -69,3 +69,21 @@ Des traitements mis en place à partir du traitement automatisé SI-CPF permette
 Caisse des dépôts et consignations assurant la gestion du traitement automatisé |
 
 Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités de la Caisse des dépôts et consignations, d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+
+Agence de l'outre-mer pour la mobilité (LADOM)
+
+|
+
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités de LADOM d'être destinataires des données mentionnées au premier alinéa de l'article L. 6353-10 du code du travail dans le cadre de la mise en œuvre du partage de données prévu au deuxième alinéa du même article. |
+
+Administrations et organismes pouvant se voir communiquer des données strictement nécessaires à l'exercice de leurs missions de contrôle et d'enquête
+
+|
+
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des administrations et organismes pouvant se voir communiquer des données à caractère personnel strictement nécessaires à l'accomplissement de leurs missions de contrôle et de leurs pouvoirs d'enquête en application d'une disposition législative ou réglementaire. |
+
+Financeurs des abondements en droits du compte personnel de formation
+
+|
+
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des financeurs pouvant attribuer des abondements en droits au titre du compte personnel de formation d'être destinataires des données relatives à l'identification du titulaire de compte bénéficiaire de l'abondement en droits par le financeur ainsi que celles relatives aux dossiers de formation ayant fait l'objet d'un abondement en droits par le financeur. |
