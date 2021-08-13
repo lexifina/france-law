@@ -70,6 +70,8 @@ Agence nationale pour la rénovation urbaine
 
 Agence nationale pour l'amélioration des conditions de travail
 
+Agence nationale de contrôle du logement social
+
 Agence pour la création d'entreprises
 
 Agence pour l'enseignement français à l'étranger
@@ -138,8 +140,6 @@ Bibliothèque nationale et universitaire de Strasbourg
 
 Bibliothèque publique d'information
 
-BPI Groupe SA
-
 Bpifrance EPIC
 
 Caisse nationale des autoroutes
@@ -192,8 +192,6 @@ Centre de sécurité sociale des travailleurs migrants
 
 Centre d'enseignement zootechnique
 
-Centre d'études de l'emploi
-
 Centre d'études et de recherches sur les qualifications
 
 Centre d'expertise pour les risques, l'environnement, la mobilité et l'aménagement
@@ -234,13 +232,7 @@ Centre pour le développement de l'information sur la formation permanente
 
 Centre régional de ressources pédagogiques et de développement de la qualité de la formation
 
-Centre régional d'information et de documentation jeunesse d'Aquitaine
-
 Centre régional d'information et de documentation jeunesse d'Auvergne
-
-Centre régional d'information et de documentation jeunesse de Basse-Normandie
-
-Centre régional d'information et de documentation jeunesse de Bourgogne
 
 Centre régional d'information et de documentation jeunesse de Bretagne
 
@@ -254,23 +246,11 @@ Centre régional d'information et de documentation jeunesse de Guadeloupe
 
 Centre régional d'information et de documentation jeunesse de Guyane
 
-Centre régional d'information et de documentation jeunesse de Haute-Normandie
-
-Centre régional d'information et de documentation jeunesse de la Côte d'Azur
-
 Centre régional d'information et de documentation jeunesse de La Réunion
 
 Centre régional d'information et de documentation jeunesse de Lorraine
 
-Centre régional d'information et de documentation jeunesse de Midi-Pyrénées
-
 Centre régional d'information et de documentation jeunesse de Paris
-
-Centre régional d'information et de documentation jeunesse de Picardie
-
-Centre régional d'information et de documentation jeunesse de Poitou-Charentes
-
-Centre régional d'information et de documentation jeunesse de Provence-Alpes
 
 Centre régional d'information et de documentation jeunesse de Rhône-Alpes
 
@@ -281,12 +261,6 @@ Centre régional d'information et de documentation jeunesse des Pays de Loire
 Centre régional d'information et de documentation jeunesse des Yvelines
 
 Centre régional d'information et de documentation jeunesse du Centre
-
-Centre régional d'information et de documentation jeunesse du Languedoc-Roussillon
-
-Centre régional d'information et de documentation jeunesse du Limousin
-
-Centre régional d'information et de documentation jeunesse du Nord-Pas-de-Calais
 
 Centre régional d'information et de documentation jeunesse du Val-d'Oise
 
@@ -355,8 +329,6 @@ Chancellerie des universités de Toulouse
 Chancellerie des universités de Versailles
 
 Chancellerie des universités d'Orléans-Tours
-
-Charbonnages de France
 
 Cinémathèque française
 
@@ -494,6 +466,8 @@ Confédération nationale du mouvement pour le planning familial
 
 Conseil national des communes Compagnon de la Libération
 
+Conseil national des activités privées de sécurité
+
 Conseil supérieur de l'Audiovisuel
 
 Conservatoire de l'espace littoral et des rivages lacustres
@@ -510,8 +484,6 @@ Consortium de réalisation
 
 Cotravaux
 
-Drogue alcools tabac info service
-
 Echanges et productions radiophoniques
 
 Ecofor (recherche écosystèmes forestiers)
@@ -525,8 +497,6 @@ Ecole centrale de Marseille
 Ecole centrale de Nantes
 
 Ecole d'anthropologie
-
-Ecole de service social du Nord
 
 Ecole des hautes études en santé publique
 
@@ -644,19 +614,11 @@ Ecole nationale supérieure des beaux-arts
 
 Ecole nationale supérieure des métiers de l'image et du son
 
-Ecole nationale supérieure des mines d'Alès
-
-Ecole nationale supérieure des mines de Nantes
-
 Ecole nationale supérieure des mines de Paris
-
-Ecole nationale supérieure des mines de Saint-Etienne
 
 Ecole nationale supérieure des officiers de sapeurs-pompiers
 
 Ecole nationale supérieure des sciences de l'information et des bibliothèques
-
-Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux
 
 Ecole nationale supérieure d'informatique pour l'industrie et l'entreprise
 
@@ -718,6 +680,8 @@ Etablissement public du parc et de la grande halle de la Villette
 
 Etablissement public palais de la découverte et de la cité des sciences et de l'industrie
 
+Etablissement public Haras national du Pin
+
 FCS Paris-Saclay
 
 Fondation Léonie Chaptal
@@ -737,6 +701,8 @@ Fonds de garantie des victimes des actes de terrorisme et d'autres infractions
 Fonds de solidarité pour le développement
 
 Fonds national de promotion et de communication de l'artisanat
+
+Fonds national des aides à la pierre
 
 Fonds pour l'insertion des personnes handicapées dans la fonction publique
 
@@ -769,6 +735,8 @@ GIP ASIP Santé (Agence nationale des systèmes d'information partagés de sant�
 GIP Bibliothèque universitaire des langues et civilisations
 
 GIP CAP LOISIRS
+
+GIP Conseil départemental de l'accès au droit de la Lozère
 
 GIP de l'académie de Clermont-Ferrand dans le domaine de la formation professionnelle et de l'insertion
 
@@ -826,9 +794,13 @@ GIP Insertion
 
 GIP Institut national du cancer
 
+GIP Réseau professionnel des enseignants
+
 GIP Université numérique francophone des sciences de la santé et du sport
 
 Grande Chancellerie de la Légion d'honneur
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Ardèche
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de Corse-du-Sud
 
@@ -847,6 +819,8 @@ Groupement d'intérêt public Conseil départemental de l'accès au droit de la 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Corrèze
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Creuse
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de la Drôme
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de la Gironde
 
@@ -895,6 +869,8 @@ Groupement d'intérêt public Conseil départemental de l'accès au droit de l'H
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Ille-et-Vilaine
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Indre
+
+Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Isère
 
 Groupement d'intérêt public Conseil départemental de l'accès au droit de l'Oise
 
@@ -990,8 +966,6 @@ Groupement d'intérêt public Conseil départemental de l'accès au droit du Vau
 
 Groupement d'intérêt public d'Onairac : Terre de vie, terres de vignes
 
-Groupement d'intérêt public Institut de formation en soins infirmiers de Cornouaille
-
 Groupement d'intérêt public Maison départementale des adolescents de Loire-Atlantique
 
 Groupement d'intérêt public Maison des adolescents du Bas-Rhin
@@ -999,6 +973,8 @@ Groupement d'intérêt public Maison des adolescents du Bas-Rhin
 Groupement d'intérêt public Maison des adolescents du Haut-Rhin
 
 Groupement d'intérêt public Maison des adolescents du Vaucluse
+
+Groupement d'intérêt public Portail d'accès à la publicité légale des entreprises
 
 Groupement d'intérêt public Réseau Addictions Guadeloupe
 
@@ -1011,10 +987,6 @@ Haute Autorité de santé
 IFP Energies nouvelles
 
 Institut agronomique, vétérinaire et forestier de France
-
-Institut de formation en soins infirmiers de Marseille
-
-Institut de formation en soins infirmiers St Vincent
 
 Institut de France et fondations
 
@@ -1064,8 +1036,6 @@ Institut national de la formation des personnels du ministère de l'agriculture
 
 Institut national de la propriété industrielle
 
-Institut national de la recherche agronomique
-
 Institut national de la santé et de la recherche médicale
 
 Institut national de la transfusion sanguine
@@ -1073,8 +1043,6 @@ Institut national de la transfusion sanguine
 Institut national de l'audiovisuel
 
 Institut national de l'environnement industriel et des risques
-
-Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture
 
 Institut national de recherches en informatique et automatique
 
@@ -1141,8 +1109,6 @@ Institut supérieur de l'aéronautique et de l'espace
 Institut supérieur de l'agriculture de Rhône-Alpes
 
 Institut supérieur de mécanique de Paris
-
-Maison des sciences de l'homme et de la société Ange Guepin
 
 Météo-France
 
@@ -1213,8 +1179,6 @@ Parc national des Ecrins
 Parc national des Pyrénées
 
 Parc national du Mercantour
-
-Parcs naturels marins
 
 Service hydrographique et océanographique de la marine
 
