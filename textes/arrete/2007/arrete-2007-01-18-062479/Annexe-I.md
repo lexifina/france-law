@@ -16,4 +16,6 @@
 
 8. Baccalauréat professionnel spécialité "polyvalent navigant pont/ machine" délivré conformément aux dispositions de l'arrêté du 11 juillet 2019 portant création de la spécialité "polyvalent navigant pont/ machine" de baccalauréat professionnel et fixant ses modalités de délivrance.
 
-9. Diplôme de capitaine 200 pêche.
+9. Diplôme de capitaine 200.
+
+10. Module pêche.
