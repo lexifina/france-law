@@ -204,7 +204,7 @@ Directeur départemental de la sécurité publique et commissaire central à Str
 
 Directeur départemental de la sécurité publique, commissaire central de Lyon (69).
 
-Directeur départemental de la sécurité publique à Rouen (76).
+Directeur départemental de la sécurité publique et commissaire central à Rouen (76)
 
 Directeur départemental de la sécurité publique à Melun (77).
 
@@ -240,13 +240,13 @@ Directeur zonal des compagnies républicaines de sécurité Paris à Vélizy.
 
 10. Direction de la coopération internationale de sécurité :
 
-Sous-directeur de l'administration et du soutien.
-
 Sous-directeur Monde.
 
 11. Service de la protection :
 
 Chef adjoint du service de la protection.
+
+Chef groupe de sécurité de la Présidence de la République et directeur de la sécurité de la Présidence de la République.
 
 12. Service national de police scientifique :
 
