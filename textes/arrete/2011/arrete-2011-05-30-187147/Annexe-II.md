@@ -38,43 +38,43 @@ Administration centrale.
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+le directeur du centre ministériel de gestion (CMG) d'Arcueil
 
 |
 
-Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009.
+Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009 susvisé, à l'exception des assistants de service social et conseillers techniques de service social.
 
-Personnel mis à disposition et administré par les services de l'administration centrale.
+Agents en fonctions à la direction générale de l'armement et affectés :
 
-Agents en fonctions :
+- au sein du centre de prestation de proximité des ressources humaines, quel que soit le site ;
 
--en poste permanents à l'étranger ;
+- dans les organismes extérieurs de la direction générale de l'armement implantés en Ile-de-France, à l'exception de DGA Maîtrise nucléaire, radiologique, bactériologique et chimique et de DGA Essais propulseurs ;
 
--au sein d'échelons de direction des services à compétence nationale du ministère ;
+- au sein du service des achats d'armement, quel que soit le site ;
 
--au sein du service historique de la défense :
+- au sein du service du maintien en condition opérationnelle, quel que soit le site ;
 
-a) Localisé à Vincennes ;
+- au sein de l'établissement de contrôle de Cherbourg ;
 
-b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+- au sein de l'unité de management Socle numérique, quel que soit le site ;
 
--au sein du centre de formation au management du ministère de la défense
+- au sein du service des méthodes et du management de projet, quel que soit le site.
 
-Agents en fonctions à la direction générale de l'armement, affectés :
+Agents en fonctions au sein :
 
--au sein du centre de proximité des ressources humaines, quel que soit le site ;
+- du centre ministériel de gestion d'Arcueil ;
 
--au sein du service des achats d'armement, quel que soit le site ;
+- d'échelons de direction des services à compétence nationale du ministère, hors service à compétence nationale de l'action sociale des armées ;
 
--au sein de l'établissement de contrôle de Cherbourg ;
+- du service historique de la défense :
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+a) Localisés sur le site de Vincennes.
 
--au sein de l'unité managériale Socle numérique, quel que soit le site ;
+b) A la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
 
--au sein du service des méthodes et du management de projet, quel que soit le site ;
+Agents en fonctions au centre de formation au management du ministère de la défense, quel que soit le site ;
 
--au sein du service du maintien en condition opérationnelle, quel que soit le site.
+Des agents en poste permanent à l'étranger.
 
 |
 
@@ -208,9 +208,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
--au sein de DGA techniques aéronautiques, quel que soit le site.
+-au sein de DGA techniques aéronautiques, quel que soit le site ;
 
--au sein du centre des archives du personnel militaire de Pau.
+-au sein du centre des archives du personnel militaire de Pau ;
+
+-au sein du centre expert pour les ressources humaines du personnel civil, quel que soit le site ;
+
+-au sein du service à compétence nationale de l'action sociale des armées, y compris son échelon de direction.
 
 Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
 
@@ -556,43 +560,43 @@ Administration centrale.
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+le directeur du centre ministériel de gestion (CMG) d'Arcueil
 
 |
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
+Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009 susvisé, à l'exception des assistants de service social et conseillers techniques de service social.
 
-Personnel mis à disposition et administré par les services de l'administration centrale.
+Agents en fonctions à la direction générale de l'armement et affectés :
 
-Agents en fonctions :
+- au sein du centre de prestation de proximité des ressources humaines, quel que soit le site ;
 
--en poste permanents à l'étranger ;
+- dans les organismes extérieurs de la direction générale de l'armement implantés en Ile-de-France, à l'exception de DGA Maîtrise nucléaire, radiologique, bactériologique et chimique et de DGA Essais propulseurs ;
 
--au sein d'échelons de direction des services à compétence nationale du ministère ;
+- au sein du service des achats d'armement, quel que soit le site ;
 
--au sein du service historique de la défense :
+- au sein du service du maintien en condition opérationnelle, quel que soit le site ;
 
-a) Localisé à Vincennes ;
+- au sein de l'établissement de contrôle de Cherbourg ;
 
-b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+- au sein de l'unité de management Socle numérique, quel que soit le site ;
 
--au sein du centre de formation au management du ministère de la défense
+- au sein du service des méthodes et du management de projet, quel que soit le site.
 
-Agents en fonctions à la direction générale de l'armement, affectés :
+Agents en fonctions au sein :
 
--au sein du centre de proximité des ressources humaines, quel que soit le site ;
+- du centre ministériel de gestion d'Arcueil ;
 
--service des achats d'armement, quel que soit le site ;
+- d'échelons de direction des services à compétence nationale du ministère, hors service à compétence nationale de l'action sociale des armées ;
 
--au sein de l'établissement de contrôle de Cherbourg ;
+- du service historique de la défense :
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+a) Localisés sur le site de Vincennes.
 
--au sein de l'unité managériale Socle numérique, quel que soit le site ;
+b) A la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
 
--au sein du service des méthodes et du management de projet, quel que soit le site ;
+Agents en fonctions au centre de formation au management du ministère de la défense, quel que soit le site ;
 
--au sein du service du maintien en condition opérationnelle, quel que soit le site.
+Des agents en poste permanent à l'étranger.
 
 |
 
@@ -726,9 +730,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
--au sein de DGA techniques aéronautiques, quel que soit le site.
+-au sein de DGA techniques aéronautiques, quel que soit le site ;
 
--au sein du centre des archives du personnel militaire de Pau.
+-au sein du centre des archives du personnel militaire de Pau ;
+
+-au sein du centre expert pour les ressources humaines du personnel civil, quel que soit le site ;
+
+-au sein du service à compétence nationale de l'action sociale des armées, y compris son échelon de direction.
 
 Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
 
@@ -1114,43 +1122,43 @@ Administration centrale.
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+le directeur du centre ministériel de gestion (CMG) d'Arcueil
 
 |
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale.
+Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009 susvisé, à l'exception des assistants de service social et conseillers techniques de service social.
 
-Personnel mis à disposition et administré par les services de l'administration centrale.
+Agents en fonctions à la direction générale de l'armement et affectés :
 
-Agents en fonctions :
+- au sein du centre de prestation de proximité des ressources humaines, quel que soit le site ;
 
--en poste permanents à l'étranger ;
+- dans les organismes extérieurs de la direction générale de l'armement implantés en Ile-de-France, à l'exception de DGA Maîtrise nucléaire, radiologique, bactériologique et chimique et de DGA Essais propulseurs ;
 
--au sein d'échelons de direction des services à compétence nationale du ministère ;
+- au sein du service des achats d'armement, quel que soit le site ;
 
--au sein du service historique de la défense :
+- au sein du service du maintien en condition opérationnelle, quel que soit le site ;
 
-a) Localisé à Vincennes ;
+- au sein de l'établissement de contrôle de Cherbourg ;
 
-b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+- au sein de l'unité de management Socle numérique, quel que soit le site ;
 
--au sein du centre de formation au management du ministère de la défense
+- au sein du service des méthodes et du management de projet, quel que soit le site.
 
-Agents en fonctions à la direction générale de l'armement, affectés :
+Agents en fonctions au sein :
 
--au sein du centre de proximité des ressources humaines, quel que soit le site ;
+- du centre ministériel de gestion d'Arcueil ;
 
--service des achats d'armement, quel que soit le site ;
+- d'échelons de direction des services à compétence nationale du ministère, hors service à compétence nationale de l'action sociale des armées ;
 
--au sein de l'établissement de contrôle de Cherbourg ;
+- du service historique de la défense :
 
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
+a) Localisés sur le site de Vincennes.
 
--au sein de l'unité managériale Socle numérique, quel que soit le site ;
+b) A la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
 
--au sein du service des méthodes et du management de projet, quel que soit le site ;
+Agents en fonctions au centre de formation au management du ministère de la défense, quel que soit le site ;
 
--au sein du service du maintien en condition opérationnelle, quel que soit le site.
+Des agents en poste permanent à l'étranger.
 
 |
 
@@ -1286,9 +1294,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
--au sein de DGA techniques aéronautiques, quel que soit le site.
+-au sein de DGA techniques aéronautiques, quel que soit le site ;
 
--au sein du centre des archives du personnel militaire de Pau.
+-au sein du centre des archives du personnel militaire de Pau ;
+
+-au sein du centre expert pour les ressources humaines du personnel civil, quel que soit le site ;
+
+-au sein du service à compétence nationale de l'action sociale des armées, y compris son échelon de direction.
 
 Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
 
@@ -1594,11 +1606,45 @@ Administration centrale
 
 Présidence :
 
-Le sous-directeur de la gestion des personnels relevant de l'administration centrale.
+le directeur du centre ministériel de gestion (CMG) d'Arcueil
 
 |
 
-Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale. |
+Agents en fonctions dans les organismes militaires et civils faisant partie de l'administration centrale mentionnés dans le décret n° 2009-1178 du 5 octobre 2009 susvisé, à l'exception des assistants de service social et conseillers techniques de service social.
+
+Agents en fonctions à la direction générale de l'armement et affectés :
+
+- au sein du centre de prestation de proximité des ressources humaines, quel que soit le site ;
+
+- dans les organismes extérieurs de la direction générale de l'armement implantés en Ile-de-France, à l'exception de DGA Maîtrise nucléaire, radiologique, bactériologique et chimique et de DGA Essais propulseurs ;
+
+- au sein du service des achats d'armement, quel que soit le site ;
+
+- au sein du service du maintien en condition opérationnelle, quel que soit le site ;
+
+- au sein de l'établissement de contrôle de Cherbourg ;
+
+- au sein de l'unité de management Socle numérique, quel que soit le site ;
+
+- au sein du service des méthodes et du management de projet, quel que soit le site.
+
+Agents en fonctions au sein :
+
+- du centre ministériel de gestion d'Arcueil ;
+
+- d'échelons de direction des services à compétence nationale du ministère, hors service à compétence nationale de l'action sociale des armées ;
+
+- du service historique de la défense :
+
+a) Localisés sur le site de Vincennes.
+
+b) A la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
+
+Agents en fonctions au centre de formation au management du ministère de la défense, quel que soit le site ;
+
+Des agents en poste permanent à l'étranger.
+
+|
 
 Secrétaire administratif de classe exceptionnelle |
 
@@ -1618,47 +1664,11 @@ suppléantsPersonnel
 
 |
 
-mis à disposition et administré par les services de l'administration centrale.
-
-Agents en fonctions :
-
--en poste permanents à l'étranger ;
-
--au sein d'échelons de direction des services à compétence nationale du ministère ;
-
--au sein du service historique de la défense :
-
-a) Localisé à Vincennes ;
-
-b) Affecté à la division des archives des victimes des conflits contemporains constitutive du centre historique des archives.
-
--au sein du centre de formation au management du ministère de la défense
-
-|
-
 Secrétaire administratif de classe supérieure |
 
 2 |
 
 2 |
-
-Agents en fonctions à la direction générale de l'armement, affectés :
-
--au sein du centre de proximité des ressources humaines, quel que soit le site ;
-
--service des achats d'armement, quel que soit le site ;
-
--au sein de l'établissement de contrôle de Cherbourg ;
-
--dans les organismes extérieurs de la direction générale de l'armement implantés dans les départements d'Ile-de-France, à l'exception de DGA maîtrise NRBC et de DGA essais propulseurs ;
-
--au sein de l'unité managériale Socle numérique, quel que soit le site ;
-
--au sein du service des méthodes et du management de projet, quel que soit le site ;
-
--au sein du service du maintien en condition opérationnelle, quel que soit le site.
-
-|
 
 Secrétaire administratif de classe normale |
 
@@ -1790,9 +1800,13 @@ Agents en fonctions :
 
 -au sein de DGA essais de missiles ;
 
--au sein de DGA techniques aéronautiques, quel que soit le site.
+-au sein de DGA techniques aéronautiques, quel que soit le site ;
 
--au sein du centre des archives du personnel militaire de Pau.
+-au sein du centre des archives du personnel militaire de Pau ;
+
+-au sein du centre expert pour les ressources humaines du personnel civil, quel que soit le site ;
+
+-au sein du service à compétence nationale de l'action sociale des armées, y compris son échelon de direction.
 
 Agents en fonctions au sein de l'Institut supérieur de l'aéronautique.
 
