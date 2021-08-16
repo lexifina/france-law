@@ -38,7 +38,7 @@ Le rapport d'évaluation est transmis au demandeur et mis en accès libre sur un
 
 5. Suivi et demande de mise à jour annuelle de l'évaluation
 
-Tous les deux ans, deux mois avant la date d'anniversaire de la diffusion du premier rapport d'évaluation l'éditeur d'un logiciel évalué fournit au ministre en charge de la construction et de l'habitation une demande de mise à jour de l'évaluation présentant les adaptations apportées au logiciel d'application de la réglementation thermique au regard, notamment :
+Le paragraphe suivant ne s'applique pas aux logiciels ayant fait l'objet d'un réexamen de l'évaluation après le 1er janvier 2018. Tous les deux ans, deux mois avant la date d'anniversaire de la diffusion du premier rapport d'évaluation l'éditeur d'un logiciel évalué fournit au ministre en charge de la construction et de l'habitation une demande de mise à jour de l'évaluation présentant les adaptations apportées au logiciel d'application de la réglementation thermique au regard, notamment :
 
 - des éléments mis en avant dans le précédent rapport d'évaluation ;
 
