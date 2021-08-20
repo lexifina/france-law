@@ -122,13 +122,21 @@ En cas de codétention, seul le responsable de la codétention désigné par les
 
 L'utilisation et la communication des informations contenues dans la déclaration annuelle ne pourront être effectuées que conformément aux lois et règlements en vigueur.
 
+Activité de dégustation et de toute autre activité complémentaire exercées par le concessionnaire dans le prolongement de l'activité principale.
+
+5.8. En application du I-1° de l'article R. 923-11 du code rural et de la pêche maritime, le concessionnaire décrit dans l'annexe V les conditions d'exercice des activités mentionnées au 2° de l'article R. 923-9 du même code en précisant, le cas échéant, au minimum :
+
+1. La description de l'ensemble des produits concernés par cette activité. Dans le cas de la dégustation, cette description comprend la liste des produits aquacoles issus de l'exploitation et des accompagnements autorisés ;
+
+2. La description des modalités d'exercice de l'activité (lieux et locaux dans lesquelles s'exerce l'activité, description générale de l'activité).
+
 Article 6
 
 Retrait de la concession prononcé par l'administration
 
 Par application des dispositions de l'article 29 du décret du 22 mars 1983, les autorisations peuvent être modifiées, suspendues temporairement ou retirées à tout moment par décision motivée du préfet après avis de la commission des cultures marines, sans indemnité à la charge de l'Etat :
 
-1. Pour défaut du paiement des redevances domaniales ;
+1. Pour défaut du paiement soit de la redevance, soit des cotisations professionnelles obligatoires prévues par l'article L. 912-16 du code rural et de la pêche maritime ;
 
 2. En cas d'infraction à la réglementation générale des cultures marines ou aux clauses du présent cahier des charges, au schéma des structures ou en cas de non-respect des normes sanitaires de commercialisation des produits d'aquaculture ;
 
@@ -200,19 +208,13 @@ ANNEXE I
 
 Description des ouvrages en place à l'entrée en jouissance du concessionnaire
 
-OUVRAGES APPARTENANT À L'ÉTAT (1)
+OUVRAGES APPARTENANT À L'ÉTAT (1) |
 
-|
-
-AUTRES OUVRAGES (1)
-
-|
+AUTRES OUVRAGES (1) |
 
 DATE D'EXPIRATION DE LA PÉRIODE
 
-d'amortissement
-
-|
+d'amortissement |
 
 .
 
@@ -268,6 +270,4 @@ d'amortissement
 
 - de constructions comportant des aménagements spéciaux (bureaux, magasins) ;
 
-- d'autres constructions.
-
-|
+- d'autres constructions. |
