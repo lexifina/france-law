@@ -76,7 +76,7 @@ Les eaux territoriales françaises comprises entre la limite Nord définie au po
 
 4. Pays de la Loire
 
-Siège à Bouin |
+Siège à Beauvoir-sur-Mer |
 
 L'ensemble des communes sises sur le littoral ou sur un bassin versant de ce littoral situé entre la rive gauche de la Loire et la limite séparative des départements de la Vendée et de la Charente-Maritime. |
 
@@ -90,7 +90,7 @@ Les eaux territoriales françaises comprises entre la limite nord définie au po
 
 - et de ce point plein ouest, d'autre part. |
 
-30 |
+21 |
 
 5. Charente-Maritime
 
