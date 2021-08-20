@@ -228,7 +228,13 @@ France 3 reflète la diversité de la vie économique, sociale et culturelle en 
 
 La programmation de France 3 assure une information nationale, régionale et locale. Elle s'attache à développer en particulier une information de proximité et rend compte des événements régionaux et locaux ;
 
-3° France 4 : chaîne de la jeunesse et de la famille, dont la vocation est de s'adresser aux enfants, aux jeunes et à leurs parents en contribuant à renforcer le lien entre ces générations. La programmation de France 4 accorde une place privilégiée aux programmes français et particulièrement aux œuvres françaises d'animation. Ses programmes favorisent notamment l'éveil, la curiosité et l'apprentissage de la citoyenneté en conjuguant approche éducative et divertissement ;
+3° France 4 : chaîne de la jeunesse, de la famille, de la culture et notamment du spectacle vivant.
+
+En journée, la programmation Okoo a pour vocation de s'adresser aux enfants, aux jeunes et à leurs parents en contribuant à renforcer le lien entre ces générations. Elle accorde une place privilégiée aux programmes français et particulièrement aux œuvres françaises d'animation. Ses programmes favorisent notamment l'éveil, la curiosité et l'apprentissage de la citoyenneté en conjuguant approche éducative et divertissement.
+
+En soirée, la programmation Culturebox est principalement composée de spectacles vivants dans toute leur diversité (spectacles de théâtre, danse, opéras, ballets, concerts, festivals, etc.). Elle peut également comporter des manifestations, magazines, documentaires et divertissements culturels ainsi que des œuvres cinématographiques d'art et d'essai. Cette programmation n'est pas soumise aux dispositions de l'article 6 du présent cahier des charges.
+
+La programmation de France 4 ne comporte aucun message publicitaire
 
 4° France 5 : chaîne du décryptage, du partage des savoirs et de la transmission des connaissances. Ses programmes contribuent à la découverte et à la compréhension du monde, en s'attachant tout particulièrement aux registres des sciences et techniques, des sciences humaines, de l'environnement et du développement durable ;
 
@@ -247,12 +253,6 @@ Elle veille à la qualité éditoriale et à la diversité du contenu de ses pro
 4° ter Via Stella : chaîne régionale ayant pour vocation de diffuser, par voie hertzienne terrestre en Corse ainsi que par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel, des programmes, dont une proportion significative est diffusée en langue corse, consacrés à la Corse, son actualité, son patrimoine, sa culture et ses traditions, avec une ouverture sur d'autres régions, et notamment les régions voisines de la Méditerranée.
 
 Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
-
-4° quater Culture Box : chaîne nationale diffusée notamment par voie hertzienne terrestre à titre temporaire dont la vocation est d'offrir une programmation liée à la culture et notamment au spectacle vivant à la suite de la fermeture au public des lieux de spectacle et de l'annulation de nombreuses manifestations culturelles en raison de la crise sanitaire résultant de l'épidémie de covid-19.
-
-La programmation de cette chaîne est composée de spectacles vivants dans toute leur diversité (spectacles de théâtre, danse, opéras, ballets, concerts, festivals, etc.), d'émissions culturelles et de portraits d'artistes, ou de toute autre manifestation culturelle. Cette programmation n'est pas soumise aux dispositions de l'article 6 du présent cahier des charges.
-
-La programmation ne comporte aucun message publicitaire.
 
 5° Outre-mer La 1ère : services régionaux généralistes de télévision et de radio diffusés en outre-mer qui privilégient la proximité dans leur offre de programmes. Ils font appel à tous les genres dans une ligne éditoriale proche des cultures et environnements des territoires ultra-marins français et contribuent à l'expression des langues régionales.
 
@@ -1467,3 +1467,7 @@ Dans l'hypothèse où le producteur délégué décide de confier des mandats de
 3. Exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés
 
 A l'exception des séries ou collections dont France Télévisions a acquis les droits de diffusion de nouveaux épisodes au plus tard à l'issue de la période initiale des droits de diffusion qui lui ont été cédés, France Télévisions s'engage à exploiter, dans un délai de dix-huit mois à compter de leur acquisition, les droits de diffusion de l'œuvre en France sur un service de télévision qu'il édite, s'il acquiert ces droits à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2021-785 du 19 juin 2021, ces dispositions entrent en vigueur le 20 août 2021.
