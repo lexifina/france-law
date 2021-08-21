@@ -42,10 +42,6 @@ Conseillers pour l'action sociale des administrations de l'Etat ( décret n° 20
 
 Techniciens sanitaires et de sécurité sanitaire ( décret n° 2013-176 du 27 février 2013 portant statut particulier du corps des techniciens sanitaires et de sécurité sanitaire) ;
 
-Agents non titulaires recrutés en application du décret n° 78-457 du 17 mars 1978 modifié fixant les dispositions applicables aux agents contractuels de l'administration centrale et des services extérieurs du ministère du travail et du ministère de la santé et de la sécurité sociale ;
+Agents contractuels recrutés en application du décret n° 78-457 du 17 mars 1978 modifié fixant les dispositions applicables aux agents contractuels de l'administration centrale et des services extérieurs du ministère du travail et du ministère de la santé et de la sécurité sociale ;
 
-Agents non titulaires régis par le décret n° 86-83 du 17 janvier 1986 modifié relatif aux dispositions applicables aux agents non titulaires de l'Etat pris pour l'application de l' article 7 de la loi n° 84-16 portant dispositions statutaires relatives à la fonction publique de l'Etat recrutés pour l'exercice de missions relevant des ministres chargés des affaires sociales, de la santé, des sports, de la jeunesse, de l'éducation populaire et de la vie associative.
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 11 décembre 2020 (NOR : MENR2035097A), les présentes dispositions entrent en vigueur au 1er janvier 2021.
+Agents contractuels régis par le décret n° 86-83 du 17 janvier 1986 modifié relatif aux dispositions applicables aux agents contractuels de l'Etat pris pour l'application des articles 7 et 7 bis de la loi n° 84-16 portant dispositions statutaires relatives à la fonction publique de l'Etat recrutés pour l'exercice de missions relevant des ministres chargés des affaires sociales, de la santé, des sports, de la jeunesse, de l'éducation populaire et de la vie associative.
