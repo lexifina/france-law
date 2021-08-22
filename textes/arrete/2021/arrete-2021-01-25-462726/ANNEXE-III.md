@@ -60,7 +60,7 @@ B. - Epreuve d'admission
 
 Leçon portant sur les programmes des lycées et des classes post-baccalauréat.
 
-L'épreuve a pour but d'évaluer, dans l'option choisie, l'aptitude du candidat à concevoir et à organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques sur un problème de conception et de réalisation en design et métiers d'art et comporte un exposé suivi d'un entretien avec les membres du jury.
+L'épreuve a pour but d'évaluer l'aptitude du candidat à concevoir et à organiser une séquence de formation pour un objectif pédagogique imposé et un niveau de classe donné. Elle prend appui sur les investigations et les analyses effectuées au préalable par le candidat au cours de travaux pratiques sur un problème de conception et de réalisation en design et métiers d'art et comporte un exposé suivi d'un entretien avec les membres du jury.
 
 La séquence de formation s'inscrit dans les programmes de lycée ou des classes post-baccalauréat du lycée dans la discipline considérée.
 

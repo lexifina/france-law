@@ -336,7 +336,7 @@ L'épreuve se déroule dans les locaux spécifiques à l'option choisie. Elle co
 
 - une première phase de conception et d'organisation de la séance d'une durée d'une heure trente minutes ;
 
-- une deuxième phase de management de la production de services en présence de deux commis d'une durée totale de quatre heures et trente minutes, elle-même découpée en deux temps :
+- une deuxième phase de management de la production de services en présence de deux commis d'une durée totale de quatre heures, elle-même découpée en deux temps :
 
 a) un premier temps d'explicitation et de lancement de la séance en direction des deux commis d'une durée de trente minutes maximum. Pour l'option sciences et technologies des services en hôtellerie et restauration, ce premier temps de trente minutes concerne à la fois le restaurant et l'hébergement.
 
