@@ -1,10 +1,10 @@
 # Article Annexe II
 
-FORMATION PRATIQUE BASIQUE AUX SCENARIOS OPERATIONNELS S-1, S-2, S-3, S-4
+FORMATION PRATIQUE BASIQUE AUX SCENARIOS OPERATIONNELS S-1, S-2, et S-3
 
 1. Généralités
 
-Le livret de progression permet de suivre et d'attester l'acquisition des compétences pratiques. Il contient les comptes rendus détaillés et réguliers d'avancement établis par les formateurs et comportant les évaluations visant à estimer les progrès. Il est établi selon une forme définie par le ministre chargé de l'aviation civile. Il est signé par l'élève télépilote à l'issue de chaque cycle de formation. Il est archivé pendant cinq ans. Une copie est remise au télépilote à sa demande.
+Le livret de progression permet de suivre et d'attester l'acquisition des compétences pratiques. Il contient les comptes rendus détaillés et réguliers d'avancement établis par les formateurs et comportant les évaluations visant à estimer les progrès. Il est signé par l'élève télépilote à l'issue de chaque cycle de formation. Il est archivé pendant cinq ans. Une copie est remise au télépilote à sa demande.
 
 2. Compétences communes pour tous les scénarios
 
@@ -181,39 +181,3 @@ Vol Situation normale :
 Vol Situation anormale :
 
 - mise en application de la procédure définie en cas de perte de la liaison de commande et de contrôle.
-
-5. Compétences propres au scénario S-4
-
-Préparation du vol mission :
-
-- effectuer, au préalable, les démarches réglementaires spécifiques au scénario S-4 ;
-
-- extraire du dossier technique les informations pertinentes pour le bon déroulement de la mission ;
-
-- vérifier que la zone d'opération est sécurisée ;
-
-- évaluer le risque de perte de liaison radio et perte de télémétrie.
-
-Préparation du vol machine :
-
-- vérifier les dispositifs permettant de voler hors vue ;
-
-- vérifier le fonctionnement du dispositif d'enregistrement des paramètres et le démarrer ;
-
-- vérifier (si nécessaire) que le plan de vol programmé est conforme au plan de vol prévu.
-
-Vol Situation normale :
-
-- gérer l'usage de la cartographie pour opérer l'aéronef qui circule sans personne à bord hors vue ;
-
-- suivre le bon déroulement du vol en accord avec le plan de vol préparé.
-
-Vol Situation anormale :
-
-- sélectionner un site favorable dans le cas d'un atterrissage forcé en limitant les dommages et les risques aux tiers ;
-
-- opérer l'aéronef manuellement ;
-
-- opérer l'aéronef pour qu'il reste dans un volume restreint (hippodrome.) en cas d'interruption temporaire de la mission ;
-
-- avoir conscience des alarmes pouvant survenir et connaître les procédures à suivre.

@@ -22,9 +22,9 @@ Réglementation générale
 
 Réglementation spécifique aux aéronefs civils qui circulent sans personne à bord
 
-- Connaissance des dispositions de l'arrêté du 17 décembre 2015 relatif à la conception des aéronefs civils qui circulent sans personne à bord, aux conditions de leur emploi et aux capacités requises des personnes qui les utilisent ;
+- Connaissance des dispositions de l'arrêté du 3 décembre 2020 relatif à la définition des scénarios standard nationaux et fixant les conditions applicables aux missions d'aéronefs civils sans équipage à bord exclues du champ d'application du règlement (UE) 2018/1139 ;
 
-- Connaissance des dispositions de l'arrêté du 17 décembre 2015 relatif à l'utilisation de l'espace aérien par les aéronefs qui circulent sans personne à bord ;
+- Connaissance des dispositions de l'arrêté du 3 décembre 2020 relatif à l'utilisation de l'espace aérien par les aéronefs sans équipage à bord ; ;
 
 - Protection des données et respect de la vie privée ;
 
@@ -77,8 +77,6 @@ Suivi du vol d'un aéronef civil qui circule sans personne à bord :
 - Manuel d'activités particulières ;
 
 - Manuel d'entretien et d'utilisation ;
-
-- Dossier de mission (S-4) ;
 
 - Scénarios de vol ;
 
