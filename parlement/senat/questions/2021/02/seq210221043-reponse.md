@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210221043
+
+- Question : [SEQ210221043](seq210221043.md) — Réglementation environnementale 2020 et habitat
+
+## Réponse
+
+*Transition écologique, JO du 2021-08-26, page 5047*
+
+La réglementation environnementale 2020, dite « RE2020 », constitue une avancée environnementale importante pour le secteur de la construction. Au-delà du prolongement des efforts sur la sobriété et l'efficacité énergétique, dans la droite ligne des réglementations thermiques précédentes, la RE2020 intègre une dimension climat sous la forme d'une exigence sur l'impact de l'utilisation et de la construction du bâtiment sur le climat ainsi qu'en matière de confort d'été. Afin de tenir nos objectifs en termes d'efficacité énergétique, la RE2020 limite le recours aux radiateurs électriques en renforçant les exigences sur la consommation d'énergie primaire non renouvelable qui est une contrainte importante permettant de limiter le recours aux chauffages électriques peu performants. Les systèmes thermodynamiques pourront se développer, ainsi que les radiateurs à effet joule performants à condition que l'enveloppe du bâtiment soit suffisamment performante et qu'ils soient accompagnés d'une source d'énergie renouvelable pour le chauffage ou la production d'eau chaude sanitaire, telle que le solaire thermique, la biomasse ou un chauffe-eau thermodynamique. De manière générale, les logements construits dans le cadre de la future règlementation RE2020 auront une très bonne isolation et des besoins de chauffage moindres. Enfin, on peut rappeler les termes de l'article 15 de la directive européenne relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables : « Les États membres introduisent, dans leurs réglementations et leurs codes en matière de construction, des mesures appropriées afin d'augmenter la part de tous les types d'énergie provenant de sources renouvelables dans le secteur de la construction. »
