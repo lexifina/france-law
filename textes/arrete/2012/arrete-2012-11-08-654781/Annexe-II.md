@@ -1,10 +1,10 @@
 # Article Annexe II
 
-PROGRAMME DE FORMATION DU BREVET DE SÉCURITÉ ROUTIÈRE
+PROGRAMME DE FORMATION DU BREVET DE SECURITE ROUTIERE
 
-CORRESPONDANT À LA CATÉGORIE AM DU PERMIS DE CONDUIRE
+CORRESPONDANT A LA CATEGORIE AM DU PERMIS DE CONDUIRE
 
-OPTION "CYCLOMOTEUR" ET OPTION "QUADRICYCLE LÉGER À MOTEUR"
+OPTION "CYCLOMOTEUR" ET OPTION "QUADRICYCLE LEGER A MOTEUR" |
 
 Lors de la formation, l'enseignant s'assure que l'élève est en possession de son livret et qu'il a rempli le "Questionnaire préalable à la formation".
 
@@ -40,7 +40,7 @@ En s'appuyant sur l'analyse du questionnaire d'auto-évaluation du livret, prév
 
 -permettre à l'enseignant de mieux connaître les élèves et d'adapter son enseignement ;
 
--faciliter l'expression des élèves et les échanges sur le respect des règles (signalisation et règles de circulation), les grandes thématiques de sécurité routière (vitesse, consommation d'alcool ou autres produits, utilisation de distracteurs) et sur l'interaction entre le comportement des autres et son propre comportement (influence et pression des pairs).
+-faciliter l'expression des élèves et les échanges sur le respect des règles (signalisation et règles de circulation), les grandes thématiques de sécurité routière (vitesse, consommation d'alcool ou autres produits, utilisation de distracteurs, dangers de la pratique du rodéo motorisé) et sur l'interaction entre le comportement des autres et son propre comportement (influence et pression des pairs).
 
 Séquence 2. Formation à la conduite hors circulation
 
@@ -48,7 +48,7 @@ Durée minimale : 1 heure
 
 Elle doit permettre l'acquisition des connaissances et compétences suivantes :
 
--les équipements indispensables à la conduite d'un cyclomoteur-leurs rôles ;
+-les équipements indispensables à la conduite d'un cyclomoteur ― leurs rôles ;
 
 -la connaissance des principaux organes du véhicule (cyclomoteur ou quadricycle). Savoir effectuer les contrôles indispensables du véhicule pour l'entretien et le maintien de la sécurité ;
 
@@ -136,7 +136,7 @@ Pour chacune des compétences à développer, le formateur devra insister sur l'
 
 -des facteurs, de la prise de conscience et de la perception des risques.
 
-La séquence en circulation doit permettre l'acquisition des connaissances et compétencessuivantes :
+La séquence en circulation doit permettre l'acquisition des connaissances et compétences suivantes :
 
 Démarrer le cyclomoteur ou le quadricycle léger à moteur qu'il soit déjà ou non dans la circulation :
 
@@ -154,13 +154,13 @@ Ralentir et immobiliser le cyclomoteur ou le quadricycle léger à moteur qu'il 
 
 S'arrêter et stationner.
 
--Précautions à prendre avec un cyclomoteur et avec un quadricycle léger à moteur :
+-précautions à prendre avec un cyclomoteur et avec un quadricycle léger à moteur :
 
 -avant de s'arrêter ou de stationner : rechercher la signalisation, les indices utiles, prendre les informations, communiquer ses intentions aux autres usagers, adapter son allure ;
 
--pour s'insérer dans la circulation à la suite d'un arrêt ou d'un stationnement : prendre les informations, communiquer ses intentions aux autres usagers, s'insérer dans la circulation, adapter son allure ;
+-pour s'insérer dans la circulation à la suite d'un arrêt ou d'un stationnement : prendre les informations, communiquer ses intentions aux autres usagers, s'insérer dans la circulation, adapter son allure.
 
--Spécifique quadricycle léger à moteur : s'arrêter et stationner en épi, en bataille et en créneau.
+-spécifique quadricycle léger à moteur : s'arrêter et stationner en épi, en bataille et en créneau.
 
 Rechercher les indices utiles : signalisation, clignotants, trajectoire, regard des autres usagers.
 
