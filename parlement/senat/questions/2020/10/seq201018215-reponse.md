@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018215
+
+- Question : [SEQ201018215](seq201018215.md) — Dysfonctionnements de pajemploi
+
+## Réponse
+
+*Enfance et familles, JO du 2021-08-26, page 5035*
+
+Le dispositif Pajemploi constitue une offre de service destinée aux familles et visant à simplifier les formalités liées à l'embauche de gardes d'enfant à domicile ou d'assistants maternels. Il leurs permet d'accomplir en une seule démarche l'ensemble des déclarations obligatoires auprès des organismes de protection sociale. De plus, le centre établit les bulletins de paie, calcule les cotisations sociales dues, prélève le reste à charge sur le compte bancaire des parents, après imputation éventuelle de la prestation du complément de libre choix du mode de garde attribuée par la caisse d'allocations familiales, puis reverse l'ensemble des sommes dues, y compris le prélèvement à la source de l'impôt du salarié, à chacun des organismes. En outre, depuis mai 2019, le service « Pajemploi + » optionnel et gratuit permet de subroger au Centre Pajemploi le paiement du salaire effectué habituellement par la famille. Les dysfonctionnements évoqués découlent pour la plupart du processus de modernisation et font l'objet d'une veille régulière et de résolutions progressives des anomalies. S'agissant des erreurs sur les bulletins de paies, il convient de rappeler que les bulletins de paies émis par Pajemploi sont réalisés à partir des données déclarées par les parents. Le modèle et les informations qui y sont mentionnées, bien que minimalistes, sont conformes à la règlementation en vigueur et résultent de la volonté initiale de ne pas complexifier à outrance les données à renseigner par les parents. Une refonte du système, prévue à l'horizon 2023, est en cours de programmation et doit permettre de mieux répondre aux besoins de l'ensemble des utilisateurs.
