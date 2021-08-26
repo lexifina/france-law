@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723547
+
+- Question : [SEQ210723547](seq210723547.md) — Délais de réponse aux questions écrites
+
+## Réponse
+
+*Relations avec le Parlement et participation citoyenne, JO du 2021-08-26, page 5045*
+
+Monsieur le Ministre délégué auprès du Premier ministre, chargé des relations avec le Parlement et de la participation citoyenne, partage la préoccupation de Monsieur le Sénateur quant à la nécessité d'apporter, dans les meilleurs délais, une réponse aux questions écrites posées au Gouvernement. Elles constituent, en effet, un levier essentiel d'information, d'évaluation et de contrôle de l'action du Gouvernement, mis à la disposition des parlementaires des deux chambres. Le Gouvernement est, depuis 2017, pleinement mobilisé pour apporter des réponses aux questions écrites dans le délai de deux mois fixé par l'article 75 du règlement du Sénat. Néanmoins, comme l'évoque Monsieur le Sénateur, les administrations et cabinets ministériels ont été fortement sollicités au cours de l'année 2020 et pendant le premier semestre de 2021, du fait de la crise sanitaire. Cette forte activité n'a ainsi pas permis de réduire sensiblement les délais de réponse aux plus de 62 000 questions écrites posées au Gouvernement. Cependant, le taux de réponse demeure stable et s'élevait début août 2021 à 74% (soit 16634 questions ayant reçu une réponse sur les 22 629 questions posées par les Sénateurs). Monsieur le Ministre appelle régulièrement l'attention de ses collègues sur l'importance des questions écrites pour la mise en œuvre des prérogatives des parlementaires, définies à l'article 24 de notre Constitution. Il insistera à nouveau sur la nécessité d'améliorer les délais de réponse et de poursuivre ainsi l'effort entrepris par le Gouvernement depuis le début du quinquennat.
