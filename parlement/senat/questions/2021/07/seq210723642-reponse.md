@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723642
+
+- Question : [SEQ210723642](seq210723642.md) — Prélèvement à la source de l'impôt sur le revenu des salariés par l'entreprise et défaut de paiement de l'entreprise au Trésor public lors du dépôt de bilan
+
+## Réponse
+
+*Comptes publics, JO du 2021-08-26, page 5033*
+
+Les entreprises qui collectent le prélèvement à la source (PAS) sur les salaires qu'elles versent à leurs employés sont tenues de le déclarer au moyen de la déclaration sociale nominative (DSN) le mois suivant celui au cours duquel les sommes ont été versées, en application des dispositions combinées des articles 87-0 A du code général des impôts et 39 D de son annexe III. Les informations contenues dans cette déclaration affectent automatiquement le compte fiscal de chacun des salariés mentionnés même en l'absence de paiement. Ainsi, dès lors que la retenue à la source effectuée par une entreprise sur la paye d'un salarié pour un mois donné est bien mentionnée sur la DSN du mois correspondant, elle est prise en compte pour le calcul de l'impôt sur le revenu dû par ce salarié. Le reversement effectif du prélèvement à la source par l'entreprise est ainsi sans incidence sur la situation du salarié au regard de l'impôt sur le revenu. Dans l'hypothèse où l'entreprise a prélevé le PAS sur la paie du salarié mais n'a pas souscrit la DSN correspondante et a fortiori n'a pas procédé au reversement des sommes dues, l'usager devra renseigner le montant du PAS, figurant sur ses bulletins de salaire, au moment de sa déclaration de revenus, afin que celui-ci soit pris en compte lors du calcul de son imposition. Par ailleurs, la créance née du non-paiement des sommes dues par l'employeur à l'administration fiscale au titre du prélèvement à la source des salaires qu'il verse sera recouvrée par l'ensemble des moyens de recouvrement forcé dont dispose le comptable public ou sera inscrite au passif de l'entreprise dans le cadre des procédures collectives.
