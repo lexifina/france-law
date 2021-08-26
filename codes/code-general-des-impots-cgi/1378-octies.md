@@ -4,7 +4,7 @@ I. – Lorsque le ministre chargé du budget reçoit de la Cour des comptes la d
 
 Dans le cas contraire, il adresse un rapport motivé au premier président de la Cour des comptes et aux présidents des commissions des finances de l'Assemblée nationale et du Sénat.
 
-II. – Lorsqu'un organisme, qui peut être contrôlé en application de l'article L. 111-8 du code précité, est définitivement condamné en application des articles 313-2 ou 314-1 du code pénal, les dons, legs et versements effectués à son profit ne peuvent plus, à compter du quinzième jour qui suit la condamnation, ouvrir droit à l'avenir au bénéfice d'un avantage fiscal.
+II. – Lorsqu'un organisme, qui peut être contrôlé en application des articles L. 111-9 ou L. 111-10 du code précité, est définitivement condamné en application des articles 223-1-1, 313-2, 314-1, 321-1, 324-1, 421-1 à 421-2-6 ou 433-3-1 du code pénal, les dons, legs et versements effectués à son profit ne peuvent plus, à compter du quinzième jour qui suit la condamnation, ouvrir droit à l'avenir au bénéfice d'un avantage fiscal.
 
 III. – 1. A compter du quinzième jour qui suit la notification de l'arrêté du ministre chargé du budget prévu au I, les dons, legs et versements effectués au profit de l'organisme visé par l'arrêté sont exclus du bénéfice de tout avantage fiscal.
 
@@ -26,7 +26,7 @@ b. La saisine est accompagnée de tous les éléments propres à établir les mo
 
 c. Le ministre chargé du budget peut rétablir le bénéfice des avantages fiscaux pour les dons, legs et versements susceptibles d'être effectués au profit de cet organisme après avis conforme de la Cour des comptes. A défaut d'avis de la Cour des comptes dans un délai de six mois à compter de sa saisine, celui-ci est réputé favorable.
 
-V. – Lorsqu'un commissaire aux comptes d'un organisme visé à l'article L. 111-8 du code des juridictions financières refuse de certifier les comptes de cet organisme, il transmet son rapport au ministre chargé du budget qui procède dans les conditions prévues au I.
+V. – Lorsqu'un commissaire aux comptes d'un organismementionné aux articles L. 111-9 ou L. 111-10 du code des juridictions financières refuse de certifier les comptes de cet organisme, il transmet son rapport au ministre chargé du budget qui procède dans les conditions prévues au I.
 
 VI. – Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -34,4 +34,4 @@ VII. – Les I à VI s'appliquent à compter du 1er janvier 2010.
 
 NOTA :
 
-Modification effectuée en conséquence de l'article 51 II de l'ordonnance n° 2016-1360 du 13 octobre 2016.
+Conformément au III de l'article 20 de la loi n° 2021-1109 du 24 août 2021, ces dispositions sont applicables aux actes commis à compter du lendemain de la publication de ladite loi.

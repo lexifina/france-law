@@ -6,6 +6,8 @@ Seront punis des mêmes peines ceux qui auront nié, minoré ou banalisé de fa�
 
 1° Ce crime a donné lieu à une condamnation prononcée par une juridiction française ou internationale ;
 
+Lorsque les faits mentionnés au présent article sont commis par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, les peines sont portées à trois ans d'emprisonnement et à 75 000 euros d'amende.
+
 [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2016-745 DC du 26 janvier 2017.]
 
 Le tribunal pourra en outre ordonner :
