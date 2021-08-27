@@ -2,13 +2,13 @@
 
 ORGANISMES OU AUTORITÉS
 
-dont relèvent les personnes habilitées
-
-|
+dont relèvent les personnes habilitées |
 
 PERSONNES HABILITÉES |
 
-MONTANT MAXIMUM DES MARCHÉS (1) |
+MONTANT MAXIMUM
+
+DES MARCHÉS (1) |
 
 Directions et services relevant du chef d'état-major des armées |
 
@@ -40,15 +40,11 @@ Sans limitation |
 
 Directeur de l'établissement logistique de Roanne |
 
-40 000 euros HT |
+MAPA x 0,66 |
 
 Chefs des groupements de soutien de base de défense en métropole (2) |
 
 MAPA × 1 |
-
-Commandant de l'école des fourriers |
-
-MAPA × 0,66 |
 
 Service de l'énergie opérationnelle |
 
@@ -110,27 +106,27 @@ Direction centrale du service de soutien de la flotte |
 
 Directeur local du service du soutien de la flotte de Brest, directeur adjoint |
 
-MAPA × 70 |
+MAPA x 70 |
 
 Directeur local du service du soutien de la flotte de Toulon, directeur adjoint |
 
-MAPA × 70 |
+MAPA x 70 |
 
 Directeur d'antenne de soutien des Antilles |
 
-MAPA × 10 |
+MAPA x 10 |
 
 Directeur d'antenne de soutien de Nouvelle-Calédonie |
 
-MAPA × 10 |
+MAPA x 10 |
 
 Directeur d'antenne de soutien de Polynésie française |
 
-MAPA × 10 |
+MAPA x 10 |
 
 Directeur d'antenne de soutien de La Réunion |
 
-MAPA × 10 |
+MAPA x 10 |
 
 Divers |
 
@@ -156,7 +152,7 @@ MAPA × 50 |
 
 Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand |
 
-Sans limitation |
+MAPA x 50 |
 
 Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
 
@@ -180,8 +176,6 @@ Directeur de l'agence de l'innovation de défense |
 
 MAPA x 25 |
 
-|
-
 Directeur de l'agence du numérique de défense |
 
 Sans limitation |
@@ -195,6 +189,10 @@ Sans limitation |
 Adjoints du chef du service des achats d'armement |
 
 Sans limitation |
+
+Chefs de division achat |
+
+MAPA × 1 |
 
 Autorités signataires de marchés |
 
@@ -226,9 +224,7 @@ Sans limitation |
 
 Directeur du centre national de production d'infrastructure de la défense |
 
-Sans limitation
-
-|
+Sans limitation |
 
 Divers |
 
@@ -248,15 +244,17 @@ Sans limitation (7) (8) (9) |
 
 Service militaire volontaire |
 
-Commandement du service militaire volontaire |
+Commandant du service militaire volontaire |
 
-MAPA × 10 (11) |
+MAPA × 10 (10)
 
-(1) L'expression " MAPA x " s'entend comme suit : montant égal à n fois le seuil européen publié au Journal officiel de la République française prévu par l' article 42 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (dernière référence : avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique), et en dessous duquel les marchés et accords-cadres peuvent être passés selon la procédure adaptée.
+|
+
+(1) L'expression MAPA x n s'entend comme suit : montant égal à n fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et de services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe n° 2 du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée. Ce seuil est retenu pour la définition du seuil maximal de la délégation accordée pour tous les marchés du ministère, quels que soient l'identité du pouvoir adjudicateur, le type et l'objet du marché.
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
-(3) Délégation limitée aux marchés et accords-cadres de produits pétroliers à l'étranger, dans la zone de compétence des personnes habilitées.
+(3) Délégation limitée aux marchés publics et accords-cadres de produits pétroliers à l'étranger, dans la zone de compétence des personnes habilitées.
 
 (4) Délégation limitée aux marchés subséquents d'approvisionnement en produits pétroliers des bâtiments en escale à l'étranger.
 
@@ -264,14 +262,10 @@ MAPA × 10 (11) |
 
 (6) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.
 
-(7) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
+(7) Délégation limitée aux marchés publics et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) applicables aux marchés publics de travaux, y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.
 
-(8) Délégation limitée aux marchés et accords-cadres de nature industrielle, de prestations intellectuelles et de fournitures courantes.
+(8) Délégation limitée aux marchés publics et accords-cadres de nature industrielle, de prestations intellectuelles et de fournitures courantes.
 
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
-(10) Pour le chef du quartier général, la délégation pour passer les marchés de fournitures et services est applicable dans des conditions fixées par arrêté.
-
-(11) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle.
-
-|
+(10) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle. |
