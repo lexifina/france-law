@@ -10,19 +10,9 @@ Points
 
 de NBI |
 
-Nombre d'emplois
+Nombre d'emplois à forte responsabilité (EFR) |
 
-à forte responsabilité
-
-(EFR) |
-
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -414,11 +404,11 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 - |
 
-1
+1 |
+
+Direction générale de la police nationale
 
 |
-
-Direction générale de la police nationale |
 
 Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -718,7 +708,7 @@ Chargé de mission auprès du chef du service de la transformation |
 
 - |
 
-Adjoint au chef du bureau de la reconversion à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
+Chef de bureau de la valorisation et de la transition professionnelle à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
 
 20 |
 
@@ -828,19 +818,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1012,19 +994,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1194,6 +1168,26 @@ Chef du 12e bureau au sein du département zonal de l'asile et de l'éloignement
 
 1 |
 
+|
+
+|
+
+|
+
+- |
+
+|
+
+|
+
+|
+
+|
+
+- |
+
+|
+
 Direction des transports et de la protection du public |
 
 Chef du bureau des taxis et des transports publics au sein de la sous-direction des déplacements et de l'espace public. |
@@ -1308,19 +1302,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1566,19 +1552,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1646,7 +1624,9 @@ Chef du service des ressources humaines |
 
 6° Périmètre juridictions administratives
 
-Juridiction administrative |
+Juridiction
+
+administrative |
 
 Fonctions |
 
@@ -1654,17 +1634,11 @@ Points
 
 de NBI |
 
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller d'administration
-
-de l'intérieur
+Nombre d'emplois de conseiller d'administration de l'intérieur
 
 et de l'outre-mer
 
@@ -1860,9 +1834,7 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total
-
-du nombre d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -1872,13 +1844,7 @@ du nombre d'EFR |
 
 20 points |
 
-Total
-
-du nombre
-
-d'emplois
-
-de CAIOM |
+Total du nombre d'emplois de CAIOM |
 
 60 points |
 
@@ -2650,7 +2616,7 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3020,7 +2986,7 @@ Sans point de NBI |
 
 47 Lot-et-Garonne |
 
-- |
+1 |
 
 - |
 
@@ -3028,7 +2994,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 2 |
 
@@ -3038,9 +3004,9 @@ Sans point de NBI |
 
 - |
 
-2 |
+1 |
 
-- |
+1 |
 
 48 Lozère |
 
@@ -3938,7 +3904,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -3948,11 +3914,11 @@ Sans point de NBI |
 
 - |
 
+1 |
+
+1 |
+
 2 |
-
-1 |
-
-1 |
 
 86 Vienne |
 
@@ -4420,11 +4386,7 @@ Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-Total
-
-du nombre
-
-d'EFR |
+Total du nombre d'EFR |
 
 60 points |
 
@@ -4434,13 +4396,7 @@ d'EFR |
 
 20 points |
 
-Total
-
-du nombre
-
-d'emplois
-
-de CAIOM |
+Total du nombre d'emplois de CAIOM |
 
 60 points |
 
@@ -4955,6 +4911,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+31 Haute Garonne |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
 
 32 Gers |
 
