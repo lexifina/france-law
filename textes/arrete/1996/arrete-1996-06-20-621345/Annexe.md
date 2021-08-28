@@ -1,7 +1,9 @@
 # Article Annexe
 
-Le présent arrêté et son annexe seront consultables au Bulletin officiel de l'éducation nationale, de la jeunesse et des sports spécial et au Bulletin officiel de l'enseignement supérieur, de la recherche et de l'innovation spécial en date du 11 février 2021 sur les sites http://www.education.gouv.fr et https://www.enseignementsup-recherche.gouv.fr.
+Le présent arrêté et son annexes seront consultables au Bulletin officiel de l'éducation nationale, de la jeunesse et des sports et au Bulletin officiel de l'enseignement supérieur, de l'innovation et de la recherche en date du 16 septembre 2021 sur le site https://www.education.gouv.fr
+
+.
 
 NOTA :
 
-Conformément aux arrêtés du 5 janvier 2021, ces dispositions prennent effet à compter de la rentrée de l'année scolaire 2021-2022 pour les classes de première année, et à compter de la rentrée de l'année scolaire 2022-2023 pour les classes de seconde année.
+Conformément à l’article 2 de l’arrêté du 19 juillet 2021, ces dispositions prennent effet à compter de la rentrée de l'année scolaire 2022-2023.
