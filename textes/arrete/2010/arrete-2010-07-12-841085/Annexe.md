@@ -22,6 +22,10 @@ Saint-Denis de La Réunion-Nosy Be (Madagascar) ;
 
 Saint-Denis de La Réunion-Port Louis (Maurice) ;
 
+Saint-Denis-de la Réunion-Doha (Qatar) ;
+
+Lyon-Doha (Qatar).
+
 Jusqu'au 30 novembre 2022 :
 
 Saint-Denis de La Réunion-Perth (Australie).
