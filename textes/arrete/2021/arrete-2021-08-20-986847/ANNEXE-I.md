@@ -1,10 +1,6 @@
-# Article LEGIARTI000043987954
+# Article ANNEXE I
 
-ANNEXES
-
-ANNEXE I
-
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS COMMUNES AUX ARMÉES ET AUX FORMATIONS RATTACHÉES
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS COMMUNES AUX FORCES ARMÉES ET AUX FORMATIONS RATTACHÉES
 
 1. Formation de l'enseignement supérieur :
 
@@ -38,7 +34,7 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le ti
 
 2 |
 
-Formation de l'enseignement supérieur validée par un diplôme universitaire (DU) ou interuniversitaire (DIU). |
+Formation de l'enseignement supérieur validée par une capacité universitaire ou un diplôme universitaire (DU) ou interuniversitaire (DIU), à l'exclusion du DIU de pratique médicale en santé au travail (voir annexe VII). |
 
 Double de la durée de formation |
 
@@ -84,7 +80,11 @@ Enseignement militaire supérieur au-dessus de l'EMS2 du 1er groupe en France et
 
 2 |
 
-Enseignement militaire supérieur au-dessus de l'EMS2 du 2e groupe en France et à l'étranger : sessions nationales de l'Institut des hautes études de la défense nationale (IHEDN), Senior Course du NATO Defense College (NDC) et Higher Command and Staff Course (HCSC, Schrivenham). |
+Enseignement militaire supérieur au-dessus de l'EMS2 du 2e groupe :
+
+- en France, session nationale de l'Institut des hautes études de la défense nationale (IHEDN), majeures politique de défense , armement et économie de défense , enjeux et stratégies maritimes , souveraineté et cybersécurité et défense et sécurité économique ;
+
+- à l'étranger, Senior Course du NATO Defense College (NDC) et Higher Command and Staff Course (HCSC, Schrivenham). |
 
 4 |
 
@@ -116,9 +116,9 @@ Institut des hautes études pour la science et la technologie (IHEST). |
 
 Formation des managers d'hôpital d'instruction des armées (HIA). |
 
-4 |
+2 |
 
-3 |
+2 |
 
 3. Spécialités techniques et sportives :
 
@@ -152,13 +152,13 @@ Diplôme d'État d'alpinisme accompagnateur en moyenne montagne (DEA-AMM). |
 
 2 |
 
-Diplôme d'État de la jeunesse, de l'éducation populaire et du sport mention « escalade ». |
+Diplôme d'État de la jeunesse, de l'éducation populaire et du sport mention escalade . |
 
 4 |
 
 3 |
 
-Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « escalade en milieux naturels ». |
+Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif mention escalade en milieux naturels . |
 
 4 |
 
@@ -170,7 +170,7 @@ Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spé
 
 3 |
 
-Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « parapente ». |
+Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif mention parapente . |
 
 4 |
 
@@ -448,6 +448,12 @@ Permis civil catégorie transport des marchandises dangereuses classe 7 (qualifi
 
 1 |
 
+Formation d'adaptation T12 maintenance des équipements de parachutage très grande hauteur. |
+
+3 |
+
+1 |
+
 Formation d'adaptation T12 contrôle matériel levage (ou vérificateur des appareils de levage et de manutention). |
 
 2 |
@@ -468,13 +474,13 @@ Qualifications acheminement interarmées (QAIA) de 3e niveau. |
 
 Formation logistique du 2e degré (QLIA 2). |
 
-2 |
+1 |
 
 1 |
 
 Formation logistique du 3e degré (QLIA 3). |
 
-2 |
+1 |
 
 1 |
 
@@ -500,7 +506,7 @@ Coefficient multiplicateur |
 
 Maître système des réseaux de satellites. |
 
-5 |
+4 |
 
 2 |
 
@@ -652,7 +658,7 @@ Coefficient multiplicateur |
 
 Stage de formation renseignement à la DGSE. |
 
-4 |
+5 |
 
 1 |
 
@@ -844,13 +850,13 @@ Formation initiale au CICDA des contrôleurs et opérateurs. |
 
 3 |
 
-Formation Flight Instructor (FI) pilote avion Joint Aviation Requirement (JAR). Flight Crew Licensing (FCL). |
+Formation Flight Instructor (FI) pilote avion (formation adaptée exclue). Flight Crew Licensing (EU-Part FCL). |
 
 2 |
 
 3 |
 
-Formation Flight Instructor (FI) pilote hélicoptère Joint Aviation Requirement (JAR). Flight Crew Licensing (FCL). |
+Formation Flight Instructor (FI) pilote hélicoptère. Flight Crew Licensing (EU-Part FCL). |
 
 3 |
 
@@ -868,19 +874,19 @@ Stage sauveteur plongeur hélicoptère. |
 
 1 |
 
-Formation Instrument Rating Instructor (IRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Instrument Rating Instructor (IRI) pilote avion (formation adaptée exclue) / hélicoptère. Flight Crew Licensing (EU-Part FCL). |
 
 3 |
 
 3 |
 
-Formation Type Rating Instructor (TRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Type Rating Instructor (TRI) pilote avion (formation adaptée exclue) / hélicoptère. Flight Crew Licensing (EU-Part FCL). |
 
 2 |
 
 2 |
 
-Formation Class Rating Instructor (CRI) pilote avion / hélicoptère Joint Aviation Requirements (JAR). Flight Crew Licensing (FCL). |
+Formation Class Rating Instructor (CRI) pilote avion (formation adaptée exclue) / hélicoptère. Flight Crew Licensing (EU-Part FCL). |
 
 2 |
 
@@ -891,6 +897,12 @@ Formation radio de bord calibration 1351. |
 6 |
 
 2 |
+
+Formation d'adaptation pilote H 160. |
+
+4 |
+
+4 |
 
 11. Opérations en milieu terrestre :
 

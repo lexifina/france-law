@@ -1,6 +1,4 @@
-# Article LEGIARTI000042216892
-
-ANNEXE VII
+# Article ANNEXE VII
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE DE SANTÉ DES ARMÉES
 
@@ -93,3 +91,15 @@ Formation sanctionnée par le diplôme d'État d'infirmier de bloc opératoire r
 Double de la période de formation |
 
 1 |
+
+Formation de l'enseignement supérieur validée par le diplôme inter-universitaire (DIU) de pratiques médicales en santé au travail pour la formation des collaborateurs médecins. |
+
+4 |
+
+2 |
+
+Formation des techniciens des matériels santé. |
+
+Triple de la période de formation |
+
+2 |

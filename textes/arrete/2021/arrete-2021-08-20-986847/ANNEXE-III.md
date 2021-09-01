@@ -1,6 +1,4 @@
-# Article LEGIARTI000042216884
-
-ANNEXE III
+# Article ANNEXE III
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE TERRE
 
@@ -202,9 +200,7 @@ Instructorat incendie. |
 
 1 |
 
-Conseiller technique risques chimiques et biologiques
-
-(RCH 4). |
+Conseiller technique risques chimiques et biologiques (RCH 4). |
 
 3 |
 
@@ -272,7 +268,13 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Formation de spécialité de 1er niveau maintenance matériel détection électromagnétique toutes options. |
+Formation de spécialité de 1er niveau livraison par air. |
+
+5 |
+
+2 |
+
+Formation de spécialité de 1er niveau maintenance matériel détection électromagnétique MULTICAPTEURS . |
 
 5 |
 
@@ -344,6 +346,12 @@ Formation de spécialité de 1er niveau électromécanicien frigoriste. |
 
 2 |
 
+Formation de spécialité de 2e niveau livraison par air. |
+
+5 |
+
+2 |
+
 Formation de spécialité de 2e niveau électromécanicien frigoriste. |
 
 5 |
@@ -410,7 +418,7 @@ Formation de spécialité de 2e niveau maintenance matériel para-largage toutes
 
 2 |
 
-Formation de spécialité de 2e niveau maintenance détection électromagnétique toutes options. |
+Formation de spécialité de 2e niveau maintenance détection électromagnétique MULTICAPTEURS . |
 
 5 |
 
@@ -465,6 +473,12 @@ Stage d'administrateur du système d'aide à l'interprétation multicapteurs. |
 3 |
 
 1 |
+
+Formation de spécialiste du 2e degré système de mini drone SMDR. |
+
+4 |
+
+2 |
 
 c) Prévention et gestion des risques :
 
@@ -582,6 +596,18 @@ Formation chef de salle opérationnelle sapeur-pompier de Paris (SIC5/BSPP). |
 
 1 |
 
+Formation Exploration Longue Durée (ELD). |
+
+2 |
+
+1 |
+
+Feux de forêt niveau 3. |
+
+2 |
+
+1 |
+
 d) Systèmes d'information et de communication :
 
 Intitulé de la formation |
@@ -608,7 +634,7 @@ Formation de spécialité de 1er niveau : Emploi des systèmes d'information (ES
 
 1 |
 
-Formation de spécialité de 1er niveau : Réalisation des systèmes d'information (RSI). |
+Formation de spécialité de 1er niveau : Projet de développement informatique (PDI). |
 
 4 |
 
@@ -621,6 +647,12 @@ Formation de spécialité de 1er niveau : Emploi des réseaux mobiles (ERM). |
 1 |
 
 Formation de spécialité de 1er niveau : Liaisons de données tactiques (LDT). |
+
+4 |
+
+1 |
+
+Formation de spécialité de 1er niveau : cyber sécurité (SSI). |
 
 4 |
 
@@ -716,7 +748,7 @@ Formation de spécialité de 2e niveau maintenance des matériels aéronautiques
 
 2 |
 
-Formation de mécanicien volant d'appareil à voilure tournante (1re formation). |
+Brevet de mécanicien volant d'appareil à voilure tournante ou brevet vol technique (VT). |
 
 5 |
 
@@ -842,6 +874,12 @@ Instructorat incendie. |
 
 1 |
 
+Formation Exploration Longue Durée (ELD). |
+
+2 |
+
+1 |
+
 c) Opérations en milieu terrestre :
 
 Intitulé de la formation |
@@ -864,7 +902,7 @@ Formation d'adaptation cynotechnique moniteur d'aide à la recherche et à la d�
 
 Formation d'adaptation cynotechnique pour la mise en œuvre d'un chien d'aide à la recherche et à la détection d'explosif et d'armement ARDE-ARMT. |
 
-2 |
+4 |
 
 1 |
 
@@ -908,9 +946,7 @@ d) Renseignement :
 
 Intitulé de la formation |
 
-Durée du lien au service
-
-(années) |
+Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 

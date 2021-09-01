@@ -1,8 +1,6 @@
-# Article LEGIARTI000042216888
+# Article ANNEXE V
 
-ANNEXE V
-
-RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE L'AIR
+RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE L'AIR ET DE L'ESPACE
 
 1. Management :
 
@@ -224,7 +222,7 @@ Brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur). 
 
 Brevet de pilote à distance Drones Ab initio. |
 
-8 |
+4 |
 
 3 |
 
@@ -234,23 +232,17 @@ Stage de qualification pilote sur hélicoptère Super Puma. |
 
 2 |
 
-Stage de qualification pilote sur avions Airbus et Boeing. |
-
-6 |
-
-2 |
-
-Formation de type additionnelle (FQTA) sur Airbus A330 MRTT (si détention de qualification de type sur avions Airbus A310, Boeing C135 ou E3F, ou Falcon). |
+Stage de qualification pilote sur avions initial Airbus (A400M et A330) et Boeing. |
 
 4 |
 
 2 |
 
-Stage de qualification pilote sur avions Falcon. Initiale ou additionnelle. |
+Stage de qualification pilote sur avions initial Falcon. |
 
-6 |
+4 |
 
-3 |
+2 |
 
 Formation Global Air Traffic Management (GATM) PTX1 light sur Boeing KC-135 Stratotanker (concerne uniquement formation sur base aérienne d'Atlus, Oklahoma, USA). |
 
@@ -263,24 +255,6 @@ Formation réentraînement transport (RET). |
 5 |
 
 2 |
-
-Formation Flight Examinator (FE) pilote avion Joint Aviation Requirement (JAR) - Flight Crew Licensing (FCL). |
-
-2 |
-
-1 |
-
-Flight Instructeur Examinator (FIE). |
-
-3 |
-
-3 |
-
-Instrument Rating Examinator (IRE). |
-
-3 |
-
-3 |
 
 Formation pilote avion réorienté hélicoptère (REH). |
 
@@ -318,49 +292,19 @@ Formation initiale instructeur sur avion C160, Airbus (hors A330 MRTT), Falcon, 
 
 2 |
 
-Stage de qualification pilote sur CN235 initiale ou additionnelle. |
+Stage de qualification pilote sur CN235 initiale. |
 
 3 |
 
 2 |
 
-Stage de qualification pilote sur C130H initiale ou additionnelle. |
+Stage de qualification pilote sur C130H initiale. |
 
 3 |
 
 2 |
 
-Stage de qualification pilote sur C130J initiale ou additionnelle. |
-
-5 |
-
-2 |
-
-Type Rating Examinator (TRE). |
-
-2 |
-
-2 |
-
-CCQ tous types d'aéronefs (hors avion Airbus A330 MRTT). |
-
-2 |
-
-1 |
-
-CCQ avion Airbus A330 MRTT. |
-
-4 |
-
-2 |
-
-Qualification additionnelle dans le cadre d'une bi-qualification sur avions Airbus et Boeing. |
-
-4 |
-
-2 |
-
-Qualification additionnelle dans le cadre d'une bi-qualification sur avions Falcon. |
+Stage de qualification pilote sur C130J initiale. |
 
 4 |
 
@@ -388,15 +332,9 @@ ETIS métrologie (secteur civil). |
 
 Formation instructeur vol à voile FI (S). |
 
-4 |
-
-1 |
-
-Formation examinateur vol à voile FE (S). |
-
 2 |
 
-3 |
+1 |
 
 Formation PPL pour instructeur vol à voile. |
 
@@ -532,7 +470,7 @@ Formation globale à la conception de trajectoires IFR. |
 
 Formation opérateur système drones (pilote et opérateur capteur). |
 
-4 3 |
+4 |
 
 2 |
 
@@ -566,7 +504,7 @@ Stage industriel de qualification de type vecteur drone Reaper à l'étranger. |
 
 2 |
 
-Stage industriel de qualification de type avionique drone Reaper à l'étranger. |
+Stage industriel dequalification de type avionique drone Reaper à l'étranger. |
 
 4 |
 
@@ -596,7 +534,7 @@ Stage industriel de qualification de type avionique Puma. |
 
 2 |
 
-Qualification réparation cellule & matériaux composite (« I+ Structure Repair Course »). |
+Qualification réparation cellule & matériaux composite ( I+ Structure Repair Course ). |
 
 4 |
 
@@ -614,7 +552,7 @@ Stage industriel de qualification de type avionique Beechcraft King Air 350. |
 
 2 |
 
-Stage industriel mécanicien hélicoptère « Bridge Course ». |
+Stage industriel mécanicien hélicoptère Bridge Course . |
 
 4 |
 

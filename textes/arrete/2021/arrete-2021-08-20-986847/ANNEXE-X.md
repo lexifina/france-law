@@ -1,6 +1,4 @@
-# Article LEGIARTI000042216898
-
-ANNEXE X
+# Article ANNEXE X
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPECIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES AU SERVICE D'INFRASTRUCTURE DE LA DÉFENSE
 
@@ -18,7 +16,7 @@ Formation complémentaire au diplôme d'ingénieur d'une durée de quatre mois c
 
 2 |
 
-Formation complémentaire au diplôme d'architecte d'une durée de quatre mois consécutifs minimum, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure. |
+Formation complémentaire au diplôme d'architecte d'une durée de quatre mois consécutifs minimum ou permettant d'être habilité à la maîtrise d'œuvre en nom propre (HMONP), dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure. |
 
 4 |
 

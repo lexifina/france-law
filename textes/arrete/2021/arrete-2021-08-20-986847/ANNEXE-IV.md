@@ -1,6 +1,4 @@
-# Article LEGIARTI000042216886
-
-ANNEXE IV
+# Article ANNEXE IV
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPECIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À LA MARINE NATIONALE
 
@@ -13,6 +11,24 @@ Intitulé de la formation |
 Durée du lien au service (années) |
 
 Coefficient multiplicateur |
+
+Cycle de formation officier de marine sous contrat (OM/SC) voie bi-diplômante |
+
+4 |
+
+2 |
+
+Cycle de formation officier de marine sous contrat (OM/SC) voie non bi-diplômante |
+
+4 |
+
+1 |
+
+Cycle de formation officier spécialisé de la marine sous contrat (OSM/SC) |
+
+2 |
+
+1 |
 
 Formation en langues rares (chinois, russe, arabe). |
 
@@ -80,7 +96,7 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Brevet de pilote militaire de 1er degré (avion ou hélicoptère) de l'aéronautique navale et formation « Whiting Field » (officiers en cursus « Full US »). |
+Brevet de pilote militaire de 1er degré (avion ou hélicoptère) de l'aéronautique navale et formation Whiting Field (officiers en cursus Full US ). |
 
 5 |
 
@@ -220,7 +236,7 @@ Certificat de chef de site feux de forêts (C FDF5). |
 
 1 |
 
-Certificat de conseiller technique d'intervention à bord des navires et des bateaux « en eaux maritimes » (C IBNB4). |
+Certificat de conseiller technique d'intervention à bord des navires et des bateaux en eaux maritimes (C IBNB4). |
 
 4 |
 
@@ -388,9 +404,9 @@ Stage de formateur système (armes et senseur, système de combat, plate-forme).
 
 1 |
 
-3.2. Cas particuliers :
+Cas particuliers :
 
-Les formations dont la liste suit font exception aux règles générales énoncées ci-dessus.
+3.2. Les formations dont la liste suit font exception aux règles générales énoncées ci-dessus.
 
 a) Formation initiale :
 
@@ -494,67 +510,73 @@ Stage sauveteur plongeur hélicoptère spécialisé marine (C PLONGHELI). |
 
 1 |
 
-Stage dépanneur en ligne Rafale. |
+Stage dépanneur en ligne Rafale (C AVERAFALE / C ARMRAFALE / C PPRAFALE). |
 
 2 |
 
 1 |
 
-Stage dépanneur en ligne NH90. |
+Stage dépanneur en ligne NH90 (C PPNH90). |
 
 2 |
 
 1 |
 
-Stage dépanneur en ligne Atlantique ATL 2. |
+Stage dépanneur en ligne ATLANTIQUE 2 (C AVEATL2 / C ARMATL2 / C PPATL2). |
 
 2 |
 
 1 |
 
-Stage dépanneur en ligne Hawkeye. |
+Stage dépanneur en ligne Hawkeye (C PPE2C). |
 
 2 |
 
 1 |
 
-Stage d'opérateur multisenseurs du Caïman. |
+Stage d'opérateur multisenseurs (C MULTISENSO). |
 
 2 |
 
 1 |
 
-Certificat préparateur et animateur de missions sur simulateurs de vol Rafale ou Caïman. |
+Stage d'opérateur de maintenance UAV (C MAINTUAV). |
 
 4 |
 
 1 |
 
-Stage d'opérateur de maintenance UAV. |
-
-4 |
-
-1 |
-
-Cours du certificat de directeur de pont d'envol. |
+Cours du certificat de directeur de pont d'envol (C DIRPONVOL). |
 
 3 |
 
 1 |
 
-Stage dépanneur en ligne Dauphin / Panther. |
+Stage dépanneur en ligne Dauphin / Panther (C AVEDPNPTR / C PPDPNPTR). |
 
 2 |
 
 1 |
 
-Stage dépanneur en ligne Lynx. |
+Stage dépanneur en ligne DAUPHIN N3 (C AVEDPNN3 / C PPDPNN3). |
 
 2 |
 
 1 |
 
-Stage dépanneur en ligne F50. |
+Stage dépanneur en ligne H160. |
+
+2 |
+
+1 |
+
+Stage dépanneur en ligne EC 725 (C AVEEC725 / C PPEC725). |
+
+3 |
+
+1 |
+
+Stage dépanneur en ligne F50 (C AVEFALCON50). |
 
 2 |
 
@@ -578,24 +600,6 @@ Stage d'administrateur du système local de préparation et de restitution de mi
 
 1 |
 
-Formation en contrôle non destructif (CND) qualifiante COFREND-COSAC de niveau 1. |
-
-2 |
-
-2 |
-
-Formation en contrôle non destructif (CND) qualifiante COFREND-COSAC de niveau 2. |
-
-3 |
-
-2 |
-
-Formation en contrôle non destructif (CND) qualifiante COFREND-COSAC de niveau 3. |
-
-3 |
-
-3 |
-
 Certificat de contrôleur radar d'aéronautique (C RADCONTA). |
 
 5 |
@@ -609,6 +613,24 @@ Intitulé de la formation |
 Durée du lien au service (années) |
 
 Coefficient multiplicateur |
+
+Certificat de conduite des opérations aériennes (C COPSAE). |
+
+2 |
+
+1 |
+
+Certificat de préparateur et animateur de mission sur simulateur de vol (C MOSIMVOL). |
+
+2 |
+
+1 |
+
+Certificat de chef préparateur et animateur de mission sur simulateur de vol (C MOSIMVOL CONF). |
+
+2 |
+
+1 |
 
 Brevet d'aptitude technique météorologiste océanographe (BAT METOC). |
 
@@ -624,19 +646,13 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Brevet d'aptitude technique de marins-pompiers de Marseille (BAT MAPOM). |
+Certificat de chef d'agrès à une équipe de marins-pompiers de Marseille (C CAUEQ). |
 
 4 |
 
 1 |
 
-Certificat de chef d'agrès à une équipe de marins-pompiers de Marseille (C CHEFAGRES). |
-
-4 |
-
-1 |
-
-Mention de chef d'agrès à une équipe de marins-pompiers de la flotte (M CHEFAGRES). |
+Mention de chef d'agrès à une équipe de marins-pompiers de la flotte (M CAUEQ). |
 
 2 |
 
@@ -648,7 +664,7 @@ Mention d'équipier feux de forêt (M FDF1). |
 
 1 |
 
-Certificat formateur de conducteur tout terrain (C COD3). |
+Certificat formateur en conduite mention tout terrain (C F-CODTT). |
 
 3 |
 
@@ -840,6 +856,18 @@ Certificat de conseiller technique cynotechnique (C CYN3). |
 
 1 |
 
+Certificat de chef d'agrès tout engin de marins-pompiers de Marseille (C CATE MAPOM). |
+
+4 |
+
+1 |
+
+Certificat de chef d'agrès tout engin de marins-pompiers de la Flotte (C CATE MARPO). |
+
+4 |
+
+1 |
+
 Soutien opérationnel :
 
 Intitulé de la formation |
@@ -910,6 +938,24 @@ Stage de chef de quart de poste de contrôle des transmissions de sous-marin nuc
 
 1 |
 
+Stage supérieur d'administrateur SAP (M SAP ADMINSUP). |
+
+3 |
+
+1 |
+
+Stage supérieur d'administration des droits sous SAP (M SAP CONFSUP). |
+
+3 |
+
+1 |
+
+Stage supérieur de programmateur sous SAP (M SAP PROGSUP). |
+
+3 |
+
+1 |
+
 Opérations en milieu maritime :
 
 Intitulé de la formation |
@@ -936,7 +982,7 @@ Stage de chef de central opérations de sous-marin type Suffren (si réalisé pl
 
 1 |
 
-Spécialiste de génie sous-marin. |
+Spécialiste de génie sous-marin (C SPEGENISM). |
 
 2 |
 
@@ -1036,7 +1082,7 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Spécialiste en finances publiques et en comptabilité générale (COMPTAFIN). |
+Spécialiste en finances publiques et en comptabilité générale (CSUP COMPTAFIN). |
 
 2 |
 
@@ -1110,12 +1156,6 @@ Stage chef de quart propulsion des SNLE (conversion d'un chef de quart propulsio
 
 1 |
 
-Stage d'instrumentiste chaufferie. |
-
-3 |
-
-1 |
-
 Stage de qualification d'instrumentiste sur SNA de type Suffren (C INSTRU SFE). |
 
 3 |
@@ -1170,7 +1210,7 @@ Stage de qualification de chimiste sur SNLE de type Le Triomphant (C CHIMI TRI).
 
 1 |
 
-Stage d'instrumentiste non atomicien « avant » sur SNA (C INSTRUSNA NON ATO AV). |
+Stage d'instrumentiste non atomicien avant sur SNA (C INSTRUSNA NON ATO AV). |
 
 3 |
 
@@ -1182,13 +1222,13 @@ Stage d'instrumentiste de porte-avions nucléaire (PAN) - (transfert des forces 
 
 1 |
 
-Stage de plongée par système. |
+Stage de plongée par système (C PLONGOPSY). |
 
 3 |
 
 1 |
 
-Certificat supérieur d'hydrographe. |
+Certificat supérieur d'hydrographe (CSUP HYDROGRAPHE). |
 
 2 |
 
@@ -1263,6 +1303,18 @@ Mention de chef de manœuvre pompier d'aérodrome (M SSIS2). |
 Certificat d'instructeur système feu (C ISF). |
 
 2 |
+
+1 |
+
+Certificat supérieur de marins-pompiers de Marseille, fonction chef de groupe urbain (CSUP MAPOM-CDG URB) |
+
+4 |
+
+1 |
+
+Certificat supérieur de marins-pompiers de la Flotte, fonction chef de groupe urbain (CSUP MARPO CDG URB) |
+
+4 |
 
 1 |
 
