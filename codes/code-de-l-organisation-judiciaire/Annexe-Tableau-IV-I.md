@@ -2,8 +2,6 @@
 
 Conseils de prud'hommes et maisons de justice et du droit dans lesquels est implanté un service d'accueil unique du justiciable (annexe R. 123-26)
 
-Tableau IV-I
-
 CONSEIL DE PRUD'HOMMES ET MAISONS DE JUSTICE ET DU DROIT DANS LESQUELS EST IMPLANTE UN SERVICE D'ACCUEIL UNIQUE DU JUSTICIABLE |
 
 Cour d'appel d'Agen |
@@ -102,10 +100,6 @@ Conseil de prud'hommes de Lorient |
 
 Maison de justice et du droit de Pontivy |
 
-Cour d'appel de Rouen |
-
-Conseil de prud'hommes de Louviers |
-
 Cour d'appel de Versailles |
 
 Conseil de prud'hommes de Boulogne-Billancourt |
@@ -115,3 +109,7 @@ Conseil de prud'hommes de Châteaudun |
 Conseil de prud'hommes d'Argenteuil |
 
 Conseil de prud'hommes de Saint-Germain-en-Laye |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 avril 2021 (NOR : JUSB2112667A), ces dispositions entrent en vigueur le 1er septembre 2021.
