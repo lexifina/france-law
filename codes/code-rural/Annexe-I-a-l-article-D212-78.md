@@ -433,3 +433,25 @@ Conformément aux dispositions de l'article 9 de la loi du 30 décembre 1982 sus
 Le transport d'animaux vivants étant soumis à des réglementations particulières, notamment vétérinaires, chacune des parties est tenue de se conformer aux obligations qui en découlent et qui lui incombent.
 
 Chacune des parties supporte les conséquences des manquements qui lui sont imputables.
+
+26. Durée, reconduction et résiliation du contrat de transport.
+
+26.1. Le contrat de transport est conclu, soit pour une durée déterminée, reconductible ou non, soit pour une durée indéterminée.
+
+26.2. Chacune des parties peut y mettre un terme par l'envoi d'une lettre recommandée avec avis de réception moyennant un préavis se calculant comme suit :
+
+a) Un (1) mois lorsque la durée de la relation est inférieure ou égale à six (6) mois ;
+
+b) Deux (2) mois lorsque la durée de la relation est supérieure à six (6) mois et inférieure ou égale à un (1) an ;
+
+c) Trois (3) mois lorsque la durée de la relation est supérieure à un (1) an et inférieure ou égale à trois (3) ans ;
+
+d) Quatre (4) mois quand la durée de la relation est supérieure à trois (3) ans, auxquels s'ajoute une semaine, par année complète de relations commerciales, sans pouvoir excéder une durée maximale de six (6) mois.
+
+26.3. Pendant la période de préavis, les parties maintiennent l'économie du contrat.
+
+26.4. En cas de manquement grave ou de manquements répétés de l'une des parties à ses obligations contractuelles, et à l'issue d'un délai de quinze (15) jours suivants une mise en demeure, mentionnant la présente clause résolutoire, restée sans effet, adressée par lettre recommandée avec avis de réception, l'autre partie peut mettre fin au contrat de transport, qu'il soit à durée déterminée ou indéterminée, sans préavis ni indemnités, par l'envoi d'une lettre recommandée avec avis de réception de résiliation de celui-ci.
+
+NOTA :
+
+Conformément à l'article 8 du décret n° 2021-985 du 26 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021. Elles s'appliquent aux contrats conclus ou renouvelés à compter de cette date.

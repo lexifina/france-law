@@ -90,7 +90,7 @@ Le donneur d'ordre s'interdit de confier au commissionnaire de transport l'organ
 
 Le donneur d'ordre qui demande la fourniture d'un matériel d'un type particulier le spécifie et confirme sa demande au commissionnaire par écrit ou par tout moyen électronique de transmission et de conservation des données.
 
-3.4. Sous réserve des obligations du commissionnaire, notamment celles mentionnées à l'article 5, le donneur d'ordre supporte les conséquences résultant de déclarations ou de documents faux, erronés, incomplets, inadaptés ou remis tardivement au commissionnaire.
+3.4. Sous réserve des obligations du commissionnaire, notamment celles mentionnées à l'article 5, le donneur d'ordre supporte les conséquences résultant de déclarations ou de documents faux, erronés, incomplets, inadaptés ou remis tardivement au commissionnaire .
 
 Article 4
 
@@ -276,7 +276,7 @@ Conditions de paiement
 
 12.2. La compensation unilatérale du montant des dommages allégués sur le prix dû au commissionnaire est interdite.
 
-12.3. Tout retard dans le paiement entraîne de plein droit, le jour suivant la date de règlement figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant équivalant à cinq fois le taux d'intérêt légal ainsi que d'une indemnité forfaitaire pour frais de recouvrement d'un montant de 40 € suivant l'article D. 441-5 du code de commerce et ce, sans préjudice de la réparation éventuelle, dans les conditions du droit commun, de tout autre dommage résultant directement de ce retard.
+12.3. Tout retard dans le paiement entraîne de plein droit, le jour suivant la date de règlement figurant sur la facture, l'exigibilité d'intérêts de retard d'un montant équivalant à cinq fois le taux d'intérêt légal ainsi que d'une indemnité forfaitaire pour frais de recouvrement d'un montant de 40 € suivant l' article D. 441-5 du code de commerce et ce, sans préjudice de la réparation éventuelle, dans les conditions du droit commun, de tout autre dommage résultant directement de ce retard.
 
 La date d'exigibilité du paiement, le taux d'intérêt des pénalités de retard ainsi que le montant de l'indemnité forfaitaire de compensation des frais de recouvrement doivent obligatoirement figurer sur la facture.
 
@@ -324,18 +324,30 @@ Ce délai court, en cas de perte totale, à compter du jour où la marchandise a
 
 Article 15
 
-Durée et résiliation du contrat de commission
+Durée, reconduction et résiliation du contrat de commission
 
-15.1. Dans le cas de relations suivies faisant l'objet d'une convention dont la durée est indéterminée, chacune des parties peut y mettre un terme par l'envoi d'une lettre recommandée avec avis de réception moyennant un préavis d'un mois quand le temps déjà écoulé depuis le début d'exécution du contrat n'est pas supérieur à six mois. Le préavis est porté à deux mois quand ce temps est supérieur à six mois et inférieur à un an. Le préavis à respecter est de trois mois quand la durée de la relation est d'un an et plus.
+15.1. Le contrat de commission de transport est conclu, soit pour une durée déterminée, reconductible ou non, soit pour une durée indéterminée.
 
-Pendant la période de préavis, les parties maintiennent l'économie du contrat.
+15.2. Chacune des parties peut y mettre un terme par l'envoi d'une lettre recommandée avec avis de réception moyennant un préavis se calculant comme suit :
 
-15.2. En cas de manquements répétés de l'une des parties à ses obligations, malgré un avertissement adressé par lettre recommandée avec avis de réception, l'autre partie peut mettre fin au contrat de commission, qu'il soit à durée déterminée ou indéterminée, sans préavis ni indemnité, par l'envoi d'une lettre recommandée avec avis de réception.
+a) Un (1) mois lorsque la durée de la relation est inférieure ou égale à six (6) mois ;
 
-15.3. En cas de manquement grave de l'une des parties à ses obligations, l'autre partie peut mettre fin au contrat de commission de transport, qu'il soit à durée déterminée ou indéterminée, sans préavis ni indemnité, par l'envoi d'une lettre recommandée avec avis de réception.
+b) Deux (2) mois lorsque la durée de la relation est supérieure à six (6) mois et inférieure ou égale à un (1) an ;
+
+c) Trois (3) mois lorsque la durée de la relation est supérieure à un (1) an et inférieure ou égale à trois (3) ans ;
+
+d) Quatre (4) mois quand la durée de la relation est supérieure à trois (3) ans, auxquels s'ajoute une semaine, par année complète de relations commerciales, sans pouvoir excéder une durée maximale de six (6) mois.
+
+15.3. Pendant la période de préavis, les parties maintiennent l'économie du contrat.
+
+15.4. En cas de manquement grave ou de manquements répétés de l'une des parties à ses obligations contractuelles, et à l'issue d'un délai de quinze (15) jours suivants une mise en demeure, mentionnant la présente clause résolutoire, restée sans effet, adressée par lettre recommandée avec avis de réception, l'autre partie peut mettre fin au contrat de commission de transport, qu'il soit à durée déterminée ou indéterminée, sans préavis ni indemnités, par l'envoi d'une lettre recommandée avec avis de réception de résiliation de celui-ci.
 
 Article 16
 
 Clause attributive de juridiction
 
 En cas de litige ou de contestation relatif à un contrat de commission de transport incluant un transport international, seul le tribunal de commerce de Paris est compétent, même en cas de pluralité de défendeurs ou d'appels en garantie.
+
+NOTA :
+
+Conformément à l'article 8 du décret n° 2021-985 du 26 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021. Elles s'appliquent aux contrats conclus ou renouvelés à compter de cette date.
