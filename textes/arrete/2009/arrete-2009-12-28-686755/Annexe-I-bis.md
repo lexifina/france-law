@@ -122,19 +122,17 @@ A. Epreuve d'admissibilité
 
 Composition de mathématiques (durée : six heures ; coefficient 4).
 
-B. Epreuves d'admission
+B.-Epreuves d'admission
 
-Les candidats ont le choix entre quatre options :
+Les candidats ont le choix entre trois options :
 
-- option A : probabilités et statistiques ;
+Option A : probabilités et statistiques ;
 
-- option B : calcul scientifique ;
+Option B : calcul scientifique ;
 
-- option C : algèbre et calcul formel ;
+Option C : algèbre et calcul formel.
 
-- option D : informatique.
-
-Le choix de l'option s'effectue lors de l'inscription. Les candidats proposés par le jury pour l'admission ne font pas l'objet de classements distincts selon l'option choisie.
+Le choix de l'option s'effectue lors de l'inscription du candidat. Les candidats proposés par le jury pour l'admission ne font pas l'objet de classements distincts selon l'option choisie.
 
 1° Epreuve de mathématiques (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : dix minutes maximum ; entretien : cinquante minutes maximum] ; coefficient 4).
 
@@ -142,13 +140,13 @@ Deux sujets au choix sont proposés par le jury au candidat. Ce dernier dispose,
 
 A l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Il est suivi du développement d'une question qui lui est liée. Au cours de l'entretien qui suit, le jury peut éventuellement proposer un ou plusieurs exercices. Le jury intervient à son gré au cours de l'épreuve et conduit le dialogue avec le candidat.
 
-L'épreuve est commune aux options A, B, C et D.
+L'épreuve est commune options A, B et C.
 
 2° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
 
-L'épreuve porte sur un programme commun aux options A, B et C et sur un programme spécifique à l'option choisie (A, B, C et D).
+L'épreuve porte sur un programme commun aux options A, B et C et sur un programme spécifique à l'option choisie.
 
-Deux textes de modélisation mathématique pour les options A, B et C ou décrivant une classe de systèmes informatiques (pour l'option D) sont proposés au candidat.
+Deux textes de modélisation mathématique sont proposés au candidat.
 
 Pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés. Il dispose également d'un ordinateur muni des logiciels indiqués au programme de l'option.
 
@@ -166,11 +164,11 @@ Lors de la première partie de l'épreuve, le candidat présente au jury la natu
 
 L'épreuve doit permettre au jury d'apprécier l'aptitude du candidat à :
 
-- rendre ses travaux accessibles à un public de non-spécialistes ;
+-rendre ses travaux accessibles à un public de non-spécialistes ;
 
-- dégager ce qui dans les acquis de sa formation à et par la recherche, qu'il s'agisse de savoirs ou de savoir-faire, peut être mobilisé dans le cadre des enseignements qu'il serait appelé à dispenser dans la discipline du concours ;
+-dégager ce qui dans les acquis de sa formation à et par la recherche, qu'il s'agisse de savoirs ou de savoir-faire, peut être mobilisé dans le cadre des enseignements qu'il serait appelé à dispenser dans la discipline du concours ;
 
-- appréhender de façon pertinente les missions confiées à un professeur agrégé.
+-appréhender de façon pertinente les missions confiées à un professeur agrégé.
 
 Le programme de l'épreuve d'admissibilité et des épreuves d'admission est constitué par le programme du concours externe de l'agrégation de mathématiques, qui fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
@@ -335,3 +333,7 @@ L'épreuve doit permettre au jury d'apprécier l'aptitude du candidat à :
 - appréhender de façon pertinente les missions confiées à un professeur agrégé.
 
 Le programme des épreuves d'admissibilité et d'admission est constitué par le programme du concours externe de l'agrégation de biochimie-génie biologique, qui fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 23 juillet 2021, ces dispositions prennent effet le 1er septembre 2021.

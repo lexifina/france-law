@@ -778,41 +778,33 @@ A. - Epreuves écrites d'admissibilité
 
 2° Composition d'analyse et de probabilités (durée : six heures ; coefficient 4).
 
-B. - Epreuves orales d'admission
+B.-Epreuves d'admission
 
-Les candidats ont le choix entre quatre options :
+Les candidats ont le choix entre trois options :
 
 Option A : probabilités et statistiques ;
 
 Option B : calcul scientifique ;
 
-Option C : algèbre et calcul formel ;
+Option C : algèbre et calcul formel.
 
-Option D : informatique.
-
-Le choix de l'option s'effectue lors de l'inscription. Les candidats proposés par le jury pour l'admission ne font pas l'objet de classements distincts selon l'option choisie.
-
-Option A : probabilités et statistiques
-
-Option B : calcul scientifique
-
-Option C : algèbre et calcul formel
+Le choix de l'option s'effectue lors de l'inscription du candidat. Les candidats proposés par le jury pour l'admission ne font pas l'objet de classements distincts selon l'option choisie.
 
 1° Epreuve d'algèbre et géométrie (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum (exposé : quinze minutes maximum ; entretien : quarante-cinq minutes maximum ; coefficient 4).
 
-L'épreuve est commune aux options A, B et C.
+L'épreuve est commune options A, B et C.
 
 2° Epreuve d'analyse et probabilités (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 4).
 
-L'épreuve est commune aux options A, B et C.
+L'épreuve est commune options A, B et C.
 
 Pour chacune de ces épreuves :
 
-- deux sujets au choix sont proposés par le jury au candidat ;
+-deux sujets au choix sont proposés par le jury au candidat ;
 
-- pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
+-pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
 
-- à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté dix minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
+-à l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté dix minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
 3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
 
@@ -826,31 +818,7 @@ Le candidat présente un exposé construit à partir du texte choisi. Il peut en
 
 Le jury intervient à son gré au cours de l'épreuve et conduit le dialogue avec le candidat.
 
-Option D : informatique
-
-1° Epreuve de mathématiques (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : quinze minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 4).
-
-2° Epreuve d'informatique fondamentale (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 4).
-
-Pour chacune de ces deux épreuves :
-
-- deux sujets au choix sont proposés par le jury au candidat ;
-
-- pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
-
-- à l'issue de la préparation, le candidat présente au jury un plan détaillé du sujet qu'il a choisi. Ce plan est présenté pendant dix minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
-
-3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum ; coefficient 4).
-
-Deux textes décrivant une classe de systèmes informatiques sont proposés au candidat.
-
-Pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés. Il dispose également d'un ordinateur muni des logiciels indiqués au programme.
-
-Le candidat présente un exposé construit à partir du texte choisi. Il peut en faire la synthèse, expliciter les relations entre les systèmes et les modèles informatiques présentés, justifier leur pertinence et leur efficacité. Cette présentation peut faire l'usage de l'ordinateur.
-
-Le jury intervient à son gré au cours de l'épreuve et conduit le dialogue avec le candidat.
-
-Le programme des épreuves d'admissibilité et d'admission du concours externe de l'agrégation de mathématiques fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
+Le programme des épreuves d'admissibilité et d'admission fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 Section physique-chimie
 
@@ -1535,3 +1503,75 @@ Le dossier, fourni par le jury, rassemble divers documents à caractère scienti
 Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
+Section informatique
+
+A. - Epreuves d'admissibilité
+
+1° Composition d'informatique.
+
+L'épreuve vise à s'assurer de la maîtrise des concepts et des méthodes de la science informatique. Elle consiste en la résolution de plusieurs problèmes ou exercices permettant d'en parcourir les grands domaines.
+
+Durée : cinq heures ; coefficient 1.
+
+2° Etude d'un problème informatique.
+
+L'épreuve vise à s'assurer de la capacité à se confronter à un problème informatique relativement ouvert et à prendre des initiatives pertinentes. Le sujet se compose de la présentation d'un problème et de questions permettant de guider le candidat.
+
+Durée : six heures ; coefficient 1.
+
+3° Epreuve spécifique.
+
+L'épreuve vise à permettre au candidat de faire la preuve de compétences et connaissances de niveau master dans l'un des grands champs de l'informatique que sont le développement d'une application à partir d'un cahier des charges et les fondements de l'informatique.
+
+Le candidat a le choix entre un sujet proposant une étude de cas informatique ou un sujet portant sur les fondements de l'informatique. Le choix est formulé au moment de l'inscription au concours.
+
+a) Etude de cas informatique : à partir d'un dossier présentant le cahier des charges de développement d'une application, le traitement du sujet doit permettre de vérifier la capacité du candidat à maîtriser l'ensemble des problématiques associées à l'application pouvant aller de l'analyse à la conception, du traitement des données et l'étude des infrastructures attenantes.
+
+b) Fondements de l'informatique : le traitement du sujet doit permettre de vérifier, au travers de la résolution d'un problème et/ou de questions spécifiques, la maîtrise de concepts avancés d'informatique fondamentale et la capacité à les manipuler rigoureusement, à les relier entre eux et connaître leurs applications à des problématiques concrètes.
+
+Durée : six heures ; coefficient 1.
+
+Les épreuves 1° et 2° d'admissibilité portent sur les programmes d'enseignement de la spécialité numérique et sciences informatiques (NSI) du cycle terminal de la voie générale du lycée, ceux des classes préparatoires scientifiques aux grandes écoles mathématiques, physique, ingénierie et informatique (MP2I) et mathématiques, physique, informatique (MPI), auxquels s'ajoute un programme complémentaire publié sur le site internet du ministère chargé de l'éducation nationale.
+
+L'épreuve 3° d'admissibilité porte sur les programmes mentionnés ci-dessus auxquels s'ajoute un programme complémentaire spécifique à chacun des sujets au choix (étude de cas informatique ou fondements de l'informatique). Ce programme complémentaire fait également l'objet d'une publication sur le site internet précité.
+
+Pour l'ensemble du programme, il est attendu du candidat un recul correspondant au niveau master.
+
+B. - Epreuves d'admission
+
+1° Leçon d'informatique.
+
+L'épreuve vise à s'assurer de la capacité du candidat à mobiliser et organiser des connaissances sur un thème donné, à les présenter clairement et rigoureusement et à interagir avec le jury. Elle consiste en la présentation d'une leçon, suivie d'un entretien avec le jury.
+
+Le candidat dispose pour sa préparation et sa présentation d'un environnement informatique mis à disposition par le jury.
+
+Les leçons s'appuient sur des notions et concepts informatiques issus des programmes et référentiels du lycée et des classes post-baccalauréat des lycées.
+
+Préparation : quatre heures ; durée de l'épreuve : une heure ; coefficient 2.
+
+2° Travaux pratiques de programmation.
+
+L'épreuve vise à s'assurer de la capacité du candidat à analyser et planifier son travail, à développer en conditions quasi-réelles, avec des outils standards, un code de qualité, à analyser un code produit par d'autres et à exposer et justifier les choix effectués en développant en particulier des problématiques de conception, de qualité du code et de garanties de comportement correct.
+
+L'épreuve consiste en la présentation devant le jury du travail effectué par le candidat, à partir d'un sujet fourni par le jury, suivie d'un entretien.
+
+Le candidat dispose, pendant le temps de préparation, d'environnements de développement fournis par le jury et des bibliothèques pertinentes mises à sa disposition, accompagnées de leur documentation.
+
+Préparation : cinq heures ; durée de l'épreuve : une heure ; coefficient 1.
+
+3° Modélisation.
+
+L'épreuve vise à s'assurer de la capacité du candidat à comprendre, critiquer et améliorer la modélisation informatique d'un problème éventuellement issu d'une autre discipline, à en exposer clairement les enjeux scientifiques, y compris dans leurs dimensions éthiques, sociétales, environnementales, économiques, ou encore juridiques.
+
+Le sujet proposé par le jury présente une problématique ainsi que des pistes pour son analyse et la construction de modèles informatiques répondant au problème. Le candidat développe et complète l'analyse et la solution, et propose une illustration sur ordinateur.
+
+L'épreuve consiste en la présentation par le candidat d'une modélisation informatique du sujet, suivie d'un échange avec le jury.
+
+Préparation : quatre heures ; durée de l'épreuve : une heure ; coefficient 1.
+
+Les programmes des épreuves 2° et 3° d'admission sont ceux des épreuves 1° et 2° d'admissibilité.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 23 juillet 2021, ces dispositions prennent effet le 1er septembre 2021.
