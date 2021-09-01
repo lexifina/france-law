@@ -66,7 +66,7 @@ Il convient de prendre en compte :
 
 1° La capacité à percevoir et prendre en compte les besoins de chaque enfant, selon son âge et ses rythmes propres, pour assurer son développement physique, intellectuel et affectif et à mettre en œuvre les moyens appropriés, notamment dans les domaines de l'alimentation, du sommeil, du jeu, des acquisitions psychomotrices, intellectuelles et sociales.
 
-Le service départemental de protection maternelle et infantile s'appuiera à cet effet sur les recommandations de santé publique validées, en premier lieu celles qui figurent dans le carnet de santé mentionné à l'article L. 2132-1 du code de la santé publiqueainsi que celles qui sont publiées ou diffusées par le ministère chargé de la santé ;
+Le service départemental de protection maternelle et infantile s'appuiera à cet effet sur les recommandations de santé publique validées, en premier lieu celles qui figurent dans le carnet de santé mentionné à l'article L. 2132-1 du code de la santé publique ainsi que celles qui sont publiées ou diffusées par le ministère chargé de la santé ;
 
 2° La capacité à poser un cadre éducatif cohérent, permettant l'acquisition progressive de l'autonomie, respectueux de l'intérêt supérieur de l'enfant et des attentes et principes éducatifs des parents, favorisant la continuité des repères de l'enfant entre la vie familiale et le mode d'accueil.
 
@@ -98,13 +98,15 @@ et des responsabilités de l'assistant maternel
 
 Il convient de prendre en compte :
 
-1° La capacité à mesurer les responsabilités qui sont les siennes vis-à-vis de l'enfant, de ses parents ainsi que des services départementaux de protection maternelle et infantile, en tenant compte de l'apport des réunions d'information préalables et de la formation obligatoire ultérieure prévues à l'article L. 2112-2 du code de la santé publique;
+1° La capacité à mesurer les responsabilités qui sont les siennes vis-à-vis de l'enfant, de ses parents ainsi que des services départementaux de protection maternelle et infantile, en tenant compte de l'apport des réunions d'information préalables et de la formation obligatoire ultérieure prévues à l'article L. 2112-2 du code de la santé publique ;
 
 2° La capacité à observer une discrétion professionnelle et à faire preuve de réserve vis-à-vis des tiers dans le cadre de son activité professionnelle ;
 
 3° La connaissance ou la capacité de s'approprier, dans le cadre des réunions d'information obligatoires et de la formation obligatoire ultérieure, les principales règles légales, réglementaires et conventionnelles régissant la profession ;
 
-4° La compréhension et l'acceptation du rôle d'accompagnement, de contrôle et de suivi des services départementaux de protection maternelle et infantile.
+4° La compréhension et l'acceptation du rôle d'accompagnement, de contrôle et de suivi des services départementaux de protection maternelle et infantile ;
+
+5° Dans le cas d'un renouvellement d'agrément, l'inscription et le renseignement des disponibilités sur le site mentionné à l'article R. 421-18-1, ou dans le cas d'une première demande d'agrément, l'engagement à le faire.
 
 Section 2
 
@@ -183,3 +185,7 @@ Il convient de prendre en compte :
 1° Les modalités d'organisation et de sécurité des sorties, en tenant compte de l'âge et du nombre d'enfants accueillis, et de l'obligation d'obtenir une autorisation écrite des parents pour les transports ;
 
 2° La connaissance et l'application des règles de sécurité en vigueur pour les enfants transportés dans le véhicule personnel et l'utilisation de sièges auto homologués et adaptés en fonction de l'âge et du poids de l'enfant ;
+
+NOTA :
+
+Conformément au I de l'article 15 du décret n° 2021-1131 du 30 août 2021, ces dispositions entrent en vigueur le 1er septembre 2021 sous réserve des dispositions des II à IX.
