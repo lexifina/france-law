@@ -10,7 +10,9 @@ TRIBUNAL JUDICIAIRE |
 
 CHAMBRES
 
-DE PROXIMITE |
+DE PROXIMITE
+
+|
 
 COMPETENCE MATERIELLE |
 
@@ -28,7 +30,9 @@ Marmande |
 
 4° Délits dont la liste est fixée aux 2° et 3° de l'article 398-1 du code de procédure pénale.
 
-5° Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les articles 495-9 et 495-11 à 495-16 du code de procédure pénale. |
+5° Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les articles 495-9 et 495-11 à 495-16 du code de procédure pénale.
+
+|
 
 Basse-Terre |
 
@@ -36,7 +40,7 @@ Basse-Terre |
 
 Saint-Martin |
 
-1° Sous réserve des 2° et 3°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ; 2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
+1° Sous réserve des 2° et 3°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
 
 2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ;
 
@@ -56,15 +60,19 @@ Dole |
 
 3° Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale ;
 
-4° Contraventions. |
+4° Contraventions.
+
+|
 
 Cayenne |
 
 Cayenne |
 
-Saint-Laurent-du-Maroni. |
+Saint-Laurent-du-Maroni |
 
-Affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ; |
+1° Sous réserve du 2°, affaires civiles et pénales de la compétence du tribunal judiciaire à l'exception de celles relevant des fonctions visées au premier alinéa de l'article 28-3 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
+
+2° Fonctions relevant de la compétence du juge des enfants et présidence du tribunal pour enfants lorsque cette juridiction tient ses audiences au siège de la chambre de proximité ; |
 
 Colmar |
 
@@ -84,7 +92,9 @@ Guebwiller |
 
 6° Registre des associations de droit local ;
 
-7° Saisie conservatoire prévue à l'article L. 511-51 du code de commerce quel que soit le montant des causes de la saisie. |
+7° Saisie conservatoire prévue à l'article L. 511-51 du code de commerce quel que soit le montant des causes de la saisie.
+
+|
 
 Sélestat |
 
@@ -130,7 +140,9 @@ Millau |
 
 5° Procédures de comparution sur reconnaissance préalable de culpabilité dont l'audience d'homologation est régie par les articles 495-9 et 495-11 à 495-16 du code de procédure pénale ;
 
-6° Contraventions. |
+6° Contraventions.
+
+|
 
 Rennes |
 
@@ -146,8 +158,10 @@ Guingamp |
 
 4° Délits dont la liste est fixée à l'article 398-1 du code de procédure pénale ;
 
-5° Contraventions. |
+5° Contraventions.
+
+|
 
 NOTA :
 
-Conformément aux dispositions de l'article 2 du décret n° 2020-166 du 26 février 2020, ces dispositions sont applicables aux saisines du juge des libertés et de la détention introduites à compter du 1er mars 2020.
+Conformément à l’article 2 du décret n° 2021-887 du 2 juillet 2021, ces dispositions sont applicables aux saisines du juge des enfants introduites à compter du 1er septembre 2021.
