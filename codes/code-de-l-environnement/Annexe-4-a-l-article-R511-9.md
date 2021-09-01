@@ -1992,7 +1992,7 @@ A
 
 |
 
-Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l'article R. 541-8 du code de l'environnement et des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et 3660 :
+Sous-produits animaux (dépôt ou transit de), à l'exclusion des dépôts visés par les rubriques 2171 et 2355, des dépôts associés aux activités des établissements de diagnostic, de recherche et d'enseignement, des dépôts de biodéchets au sens de l'article R. 541-8 du code de l'environnementet des dépôts annexés et directement liés aux installations dont les activités sont visées par les rubriques 2101 à 2150,2170,2210,2221,2230,2240,2350,2690,2740,2780,2781,3532,3630,3641,3642,3643 et 3660 :
 
 |
 
@@ -2734,7 +2734,7 @@ D
 
 |
 
-Combustion à l'exclusion des activités visées par les rubriques 2770, 2771, 2971 ou 2931 et des installations classées au titre de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
+Combustion à l'exclusion des activités visées par les rubriques 2770,2771,2971 ou 2931 et des installations classées au titre de la rubrique 3110 ou au titre d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes
 
 |
 
@@ -2742,7 +2742,7 @@ Combustion à l'exclusion des activités visées par les rubriques 2770, 2771, 2
 
 |
 
-A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v) de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, ou du biogaz provenant d'installations classées sous la rubrique 2781-1, si la puissance thermique nominale est :
+A. Lorsque sont consommés exclusivement, seuls ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du biométhane, du fioul domestique, du charbon, des fiouls lourds, de la biomasse telle que définie au a) ou au b) i) ou au b) iv) de la définition de la biomasse, des produits connexes de scierie et des chutes du travail mécanique de bois brut relevant du b) v) de la définition de la biomasse, de la biomasse issue de déchets au sens de l'article L. 541-4-3 du code de l'environnement, ou du biogaz provenant d'installations classées sous la rubrique 2781-1, si la puissance thermique nominale totale de l'installation de combustion (*) est :
 
 |
 
@@ -2762,9 +2762,7 @@ E
 
 |
 
-2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW
-
-|
+2. Supérieure ou égale à 1 MW, mais inférieure à 20 MW |
 
 DC
 
@@ -2794,15 +2792,13 @@ E
 
 |
 
-2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale supérieure ou égale à 0,1 MW, mais inférieure à 50 MW
-
-|
+2. Des combustibles différents de ceux visés au point 1 ci-dessus, avec une puissance thermique nominale supérieure ou égale à 0,1 MW, mais inférieure à 50 MW |
 
 A |
 
 3 |
 
-La puissance thermique nominale correspond à la somme des puissances thermiques des appareils de combustion pouvant fonctionner simultanément sur le site. Ces puissances sont fixées et garanties par le constructeur, exprimées en pouvoir calorifique inférieur et susceptibles d'être consommées en marche continue.
+La puissance thermique nominale totale correspond à la somme des puissances thermiques des appareils de combustion pouvant fonctionner simultanément. Ces puissances sont fixées et garanties par le constructeur, exprimées en pouvoir calorifique inférieur et susceptibles d'être consommées en marche continue.
 
 |
 
@@ -2810,7 +2806,7 @@ La puissance thermique nominale correspond à la somme des puissances thermiques
 
 |
 
-On entend par biomasse , au sens de la rubrique 2910 :
+On entend par " biomasse ", au sens de la rubrique 2910 :
 
 |
 
@@ -2826,17 +2822,13 @@ a) Les produits composés d'une matière végétale agricole ou forestière susc
 
 |
 
-b) Les déchets ci-après :
+b) Les déchets ci-après : |
 
 |
 
 |
 
-|
-
-i) Déchets végétaux agricoles et forestiers ;
-
-|
+i) Déchets végétaux agricoles et forestiers ; |
 
 |
 
@@ -2869,6 +2861,14 @@ iv) Déchets de liège ;
 v) Déchets de bois, à l'exception des déchets de bois susceptibles de contenir des composés organiques halogénés ou des métaux lourds à la suite d'un traitement avec des conservateurs du bois ou du placement d'un revêtement tels que les déchets de bois de ce type provenant de déchets de construction ou de démolition.
 
 |
+
+|
+
+|
+
+|
+
+(*) Au sens de la directive (UE) 2015/2193 du Parlement européen et du Conseil, du 25 novembre 2015, relative à la limitation des émissions de certains polluants dans l'atmosphère en provenance des installations de combustion moyennes. |
 
 |
 
@@ -2932,7 +2932,15 @@ D
 
 |
 
-Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle (installations de) :
+Refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle, ou récupération de la chaleur par dispersion d'eau dans des fumées émises à l'atmosphère (installations de) :
+
+|
+
+|
+
+|
+
+1. Installations de refroidissement évaporatif par dispersion d'eau dans un flux d'air généré par ventilation mécanique ou naturelle :
 
 |
 
@@ -2948,17 +2956,27 @@ E
 
 |
 
+- |
+
 |
 
 b) La puissance thermique évacuée maximale étant inférieure à 3 000 kW
 
 |
 
-DC
+DC |
+
+- |
 
 |
 
+2. Installations de récupération de la chaleur par dispersion d'eau dans des fumées émises à l'atmosphère
+
 |
+
+DC |
+
+- |
 
 2925
 
@@ -6622,6 +6640,4 @@ Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre e
 
 NOTA :
 
-Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
-
-Conformément à l’article 8, II du décret n° 2020-828 du 30 juin 2020, ces dispositions sont applicables aux demandes d'autorisation et aux déclarations déposées à compter du 1er septembre 2020.
+Conformément à l'article 2 du décret n° 2021-976 du 21 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021.
