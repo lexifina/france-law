@@ -1,6 +1,6 @@
 # Article Annexe
 
-AU 01/07/2021
+AU 01/09/2021
 
 |
 
@@ -308,6 +308,24 @@ ARGENTINE |
 
 5 886 |
 
+ARMENIE |
+
+6 792 |
+
+6 421 |
+
+5 803 |
+
+5 312 |
+
+5 008 |
+
+4 364 |
+
+3 980 |
+
+3 724 |
+
 AUSTRALIE |
 
 22 629 |
@@ -415,6 +433,24 @@ BENIN |
 6 631 |
 
 6 173 |
+
+BIRMANIE |
+
+21 856 |
+
+19 465 |
+
+17 757 |
+
+16 733 |
+
+15 025 |
+
+12 296 |
+
+11 611 |
+
+10 928 |
 
 BOLIVIE |
 
@@ -2863,3 +2899,7 @@ ZIMBABWE |
 11 379 |
 
 10 709 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 28 octobre 2021, ces dispositions prennent effet au 1er septembre 2021.

@@ -1020,45 +1020,45 @@ SGAMI de Metz |
 
 21 |
 
-DIPJ Dijon/ BRI |
+DZPJ Est/ DTPJ Dijon/ BRI |
 
 Chef BRI |
 
 21 |
 
-GIR Dijon |
+DZPJ Est/ DTPJ Dijon/ GIR Dijon |
 
 Chef GIR |
 
 25 |
 
-DIPJ Dijon/ Antenne PJ Besançon |
+DZPJ Est/ DTPJ Dijon/ SPJ Besançon |
 
-Chef d'antenne |
+Chef du SPJ |
 
 57 |
 
-GIR Metz |
+DZPJ Est/ DTPJ Metz/ GIR Metz |
 
 Chef GIR |
 
 67 |
 
-DIPJ Strasbourg/ BRI |
+DZPJ Est/ BRI Strabsourg |
 
 Chef BRI |
 
 67 |
 
-GIR Strasbourg |
+DZPJ Est/ GIR Strabsourg |
 
 Chef GIR |
 
 89 |
 
-DIPJ Dijon/ Antenne PJ Auxerre |
+DZPJ Est/ DTP Dijon/ SPJ Auxerre |
 
-Chef d'antenne |
+Chef du SPJ |
 
 SGAMI de Rennes |
 
@@ -1066,71 +1066,71 @@ SGAMI de Rennes |
 
 28 |
 
-DIPJ Orléans/ Antenne PJ Dreux |
+DZPJ Ouest/ DTPJ Orléans/ SPJ Dreux |
 
-Chef d'antenne PJ |
+Chef du SPJ |
 
 29 |
 
-DIPJ Rennes/ Antenne PJ Brest-Quimper |
+DZPJ Ouest/ DTPJ Rennes/ SPJ Brest-Quimper |
 
-Chef d'antenne |
+Chef du SPJ |
 
 35 |
 
-GIR Bretagne |
+DZPJ Ouest/ DTPJ Rennes/ GIR Rennes |
 
 Chef GIR |
 
 37 |
 
-DIPJ Orléans/ Antenne PJ Tours |
+DZPJ Ouest/ DTPJ Orléans/ SPJ Tours |
 
-Chef d'antenne |
+Chef du SPJ |
 
 44 |
 
-DIPJ Rennes/ Antenne PJ Nantes/ BRI |
+DZPJ Ouest/ DTPJ Nantes/ BRI |
 
 Chef BRI |
 
 45 |
 
-DIPJ Orléans/ BRI |
+DZPJ Ouest/ DTPJ Orléans/ BRI |
 
 Chef BRI |
 
 45 |
 
-GIR Orléans |
+DZPJ Ouest/ DTPJ Orléans/ GIR Orléans |
 
 Chef GIR |
 
 45 |
 
-GIR Orléans/ Antenne Dreux |
+DZPJ Ouest/ DTPJ Orléans/ GIR Orléans/ Antenne Dreux |
 
 Chef d'antenne GIR |
 
 76 |
 
-DIPJ Rennes/ SRPJ Rouen/ BRI |
+DZPJ Ouest/ DTPJ Rouen/ BRI |
 
 Chef BRI |
 
 76 |
 
-DIPJ Rennes/ SRPJ Rouen/ Antenne PJ Le Havre |
+DZPJ Ouest/ DTPJ Rouen/ SPJ Le Havre |
 
-Chef d'antenne |
+Chef du SPJ |
 
 76 |
 
-GIR Rouen |
+DZPJ Ouest/ DTPJ Rouen/ GIR Rouen |
 
 Chef GIR |
 
-SATPN de Guadeloupe |
+SGAP de Guadeloupe |
 
 2 |
 
@@ -1146,7 +1146,7 @@ DIPJ Pointe-à-Pitre/ Antenne OFAST/ Détachement Pointe-à-Pitre |
 
 Chef de détachement OFAST |
 
-SATPN de Martinique |
+SGAP de Martinique |
 
 1 |
 
@@ -1384,7 +1384,7 @@ Chef SU |
 
 SGAMI de Bordeaux |
 
-22 |
+21 |
 
 16 |
 
@@ -1448,21 +1448,19 @@ Chef du SDRT |
 
 33 |
 
-DDSP33/ CSP Bordeaux-Division Mérignac |
+DDSP33/ Gironde |
 
-Chef de division |
-
-33 |
-
-DDSP33/ CSP Bordeaux-Division Pessac |
-
-Chef de division |
+CTCC |
 
 33 |
 
-DDSP33/ SCN |
+NON IMPLANTEE |
 
-Chef SCN |
+33 |
+
+DDSP33/ Gironde-SND |
+
+Chef SND |
 
 40 |
 
@@ -1506,12 +1504,6 @@ DDSP79/ Deux-Sèvres |
 
 Directeur Départemental Adjoint |
 
-79 |
-
-DDSP79/ Deux-Sèvres-RT |
-
-Chef du SDRT |
-
 86 |
 
 DDSP86/ CSP Châtellerault |
@@ -1520,7 +1512,7 @@ Chef CSP |
 
 SGAMI de Lille |
 
-24 |
+25 |
 
 2 |
 
@@ -1548,15 +1540,21 @@ Chef CSP |
 
 59 |
 
-DDSP59/ CSP Douai agglomération |
+DDSP59/ CSP Lille Agglomération/ Division Lille |
 
-Chef SPASO |
+Chef des commissariats de secteur |
 
 59 |
 
-DDSP59/ CSP Dunkerque agglomération |
+DDSP59/ CSP Lille agglomération/ Division Tourcoing |
 
-Chef SPASO |
+Chef SU |
+
+59 |
+
+DDSP59/ CSP Dunkerque |
+
+Chef d''EM de circonscription |
 
 59 |
 
@@ -1566,13 +1564,13 @@ Chef CSP |
 
 59 |
 
-DDSP59/ CSP Lille Agglomération |
+DDSP59/ CSP Lille Agglomération/ Division Lille |
 
-Chef SPASO |
+Chef d''EM de circonscription |
 
 59 |
 
-DDSP59/ CSP Lille agglomération/ Division Armentières-Bailleul |
+DDSP59/ CSP Lille agglomération/ Division Armentières |
 
 Chef de division |
 
@@ -1580,19 +1578,19 @@ Chef de division |
 
 DDSP59/ CSP Lille agglomération/ Division Roubaix |
 
-Chef BSU |
+Chef SU |
 
 59 |
 
 DDSP59/ CSP Lille agglomération/ Division Roubaix |
 
-Chef UIAAP |
+Chef SVP |
 
 59 |
 
 DDSP59/ CSP Lille agglomération/ Division Turcoing |
 
-Chef UIAAP |
+Chef SVP |
 
 59 |
 
@@ -1604,7 +1602,7 @@ Chef SU |
 
 DDSP59/ CSP Valenciennes agglomération |
 
-Chef SPASO |
+Chef d''EM de circonscription |
 
 59 |
 
@@ -1758,7 +1756,7 @@ Chef EMD |
 
 DDSP42/ Loire |
 
-Chef EM |
+Chef EMD |
 
 42 |
 
@@ -1780,9 +1778,7 @@ Chef du SDRT |
 
 63 |
 
-DDSP63/ CSP Cournon-d'Auvergne |
-
-Chef CSP |
+NON IMPLANTEE |
 
 63 |
 
@@ -2000,27 +1996,25 @@ Chef CSP |
 
 31 |
 
-DDSP31/ CSP Toulouse-Division Centre |
+DDSP31/ Haute-Garonne |
 
-Chef de division |
-
-31 |
-
-DDSP31/ CSP Toulouse-Division Mirail |
-
-Chef de division |
+CCTCC |
 
 31 |
 
-DDSP31/ CSP Toulouse-Division Ouest-Colomiers |
-
-Chef de division |
+NON IMPLANTEE |
 
 31 |
 
-DDSP31/ SCN |
+DDSP31/ CSP Toulouse/ Division Toulouse Rive Gauche |
 
-Chef SCN |
+Chef SU |
+
+31 |
+
+DDSP31/ Haute-Garonne-SND |
+
+Chef SND |
 
 32 |
 
@@ -2150,7 +2144,7 @@ Chef du SDRT |
 
 SGAMI de Metz |
 
-47 |
+48 |
 
 8 |
 
@@ -2184,9 +2178,9 @@ Chef CSP |
 
 25 |
 
-DDSP25/ CISP Montbéliard |
+DDSP25/ CISP Montbéliard/ Secteur d'Héricourt |
 
-Chef du commissariat subdivisionnaire d'Héricourt |
+Chef du commissariat de secteur |
 
 25 |
 
@@ -2270,7 +2264,7 @@ Chef CSP |
 
 DDSP54/ Meurthe-et-Moselle |
 
-Chef EM |
+Chef EMD |
 
 54 |
 
@@ -2295,6 +2289,12 @@ Directeur Départemental Adjoint |
 DDSP55/ Meuse-RT |
 
 Chef du SDRT |
+
+57 |
+
+DDSP57/ Moselle |
+
+Chef EMD |
 
 57 |
 
@@ -2330,7 +2330,7 @@ Chef du SDRT |
 
 DDSP67/ Bas-Rhin |
 
-Chef EM |
+Chef EMD |
 
 67 |
 
@@ -2436,7 +2436,7 @@ Chef du SDRT |
 
 SGAMI de Rennes |
 
-40 |
+39 |
 
 14 |
 
@@ -2455,12 +2455,6 @@ Chef CSP |
 DDSP14/ CSP Lisieux |
 
 Chef CSP |
-
-14 |
-
-NON IMPLANTEE |
-
-|
 
 18 |
 
@@ -2482,7 +2476,7 @@ Chef CSP |
 
 27 |
 
-DDSP27/ CSP Evreux |
+DDSP27/ CSP Evreux-SD |
 
 Chef SD |
 
@@ -2528,11 +2522,11 @@ DDSP35/ CSP Fougères |
 
 Chef CSP |
 
-|
+35 |
 
-NON IMPLANTEE |
+DDSP35/ Ille-et-Vilaine |
 
-NON IMPLANTEE |
+Chef EMD |
 
 36 |
 
@@ -2574,7 +2568,7 @@ Chef du SDRT |
 
 DDSP44/ Loire-Atlantique |
 
-Chef EM |
+Chef EMD |
 
 49 |
 
@@ -2716,7 +2710,7 @@ Chef CSP |
 
 974 |
 
-DDSP974/ GIR La Réunion |
+DDSP974/ GIR Saint-Denis-de-la Réunion |
 
 Chef de GIR |
 
@@ -2726,9 +2720,9 @@ SGAP de Polynésie |
 
 987 |
 
-DSP987-Polynésie |
+DSP987/ Polynésie |
 
-DDA Papeete |
+Directeur Départemental Adjoint |
 
 987 |
 
@@ -3652,7 +3646,7 @@ RAID/ Antenne de la Réunion |
 
 Chef d'antenne |
 
-SATPN de Nouvelle Calédonie |
+SATPN de Nouvelle-Calédonie |
 
 1 |
 
@@ -3684,8 +3678,8 @@ DGSI : 60 postes
 
 La liste des postes de chef de service ou d'unité organique bénéficiant du plafond réglementaire de la part fonctionnelle de l'indemnité de responsabilité et de performance de la DGSI fait l'objet d'un arrêté distinct, non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
-TOTAL : 618 postes.
+TOTAL : 618 postes
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 15 juillet 2021 (NOR : INTC2112757A), ces dispositions entrent en vigueur le 1er mai 2021.
+Conformément à l’article 2 de l’arrêté du 27 janvier 2022, ces dispositions entrent en vigueur le 1er septembre 2021.

@@ -604,23 +604,17 @@ DIRECTION DÉPARTEMENTALE DES TERRITOIRES ET DE LA MER DE LA LOIRE-ATLANTIQUE
 
 Fonctions exercées |
 
-Niveau de qualification de l'emploi |
+Niveau de qualification
+
+de l'emploi |
 
 Nombre d'emplois |
 
-Nombre de points (IM) par emploi |
+Nombre de points (IM)
 
-Unité " logement public "
+par emploi |
 
-Chef d'unité |
-
-A |
-
-1 |
-
-25 |
-
-Responsable de la mission renouvellement urbain |
+Responsable de l'unité logement public |
 
 A |
 
@@ -628,7 +622,7 @@ A |
 
 25 |
 
-Responsable de la mission observation, prospective, évaluation, développement durable |
+Chef de la mission rénovation urbaine |
 
 A |
 
@@ -636,7 +630,15 @@ A |
 
 25 |
 
-Coordonnateur territorial du réseau territorial Est |
+Chef du service Pilotage, Connaissance et Développement durable |
+
+A |
+
+1 |
+
+25 |
+
+Coordonnateur territorial Est |
 
 A |
 
@@ -660,7 +662,7 @@ B |
 
 15 |
 
-Chargé de projet à la mission renouvellement urbain |
+Chargé de projet |
 
 B |
 
@@ -864,4 +866,4 @@ NOTA :
 
 (2) En application de l'article 6 du décret n° 2006-1740 du 23 décembre 2006, l'intitulé "direction départementale de l'équipement" est remplacé par l'intitulé "direction départementale de l'équipement et de l'agriculture" au 1er janvier 2009.
 
-Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 7 septembre 2022 (NOR:TREK2225702A).
+Se reporter aux conditions d'application prévues à l'article 1 de l'arrêté du 10 octobre 2022 (NOR: TREK2228924A).

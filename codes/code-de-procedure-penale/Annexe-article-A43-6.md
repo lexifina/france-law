@@ -172,7 +172,7 @@ b) Acte réalisé par un médecin ne relevant pas du a |
 
 CNPSY |
 
-11 |
+13 |
 
 2° Pour une expertise psychiatrique comportant un ou plusieurs examens et concernant une personne poursuivie ou condamnée pour infraction sexuelle ou une victime d'une telle infraction |
 
@@ -190,7 +190,7 @@ b) Acte réalisé par un médecin ne relevant pas du a |
 
 CNPSY |
 
-11,5 |
+13,5 |
 
 III.-TARIFS APPLICABLES AUX ACTES DE PSYCHOLOGIE LÉGALE
 
@@ -220,7 +220,7 @@ b) Acte réalisé par une personne ne relevant pas du a |
 
 CNPSY |
 
-9,5 |
+10 |
 
 2° Pour une expertise médico-psychologique comportant un ou plusieurs examens, pratiquée par un médecin ayant également la qualité de psychologue, intervenant en qualité d'expert unique |
 
@@ -238,7 +238,7 @@ b) Acte réalisé par un médecin ne relevant pas du a |
 
 CNPSY |
 
-9,5 |
+10 |
 
 3° Pour la partie médicale de l'expertise médico-psychologique pratiquée par un médecin et un psychologue intervenant en qualité d'expert distinct |
 
@@ -262,7 +262,7 @@ b) Acte réalisé par une personne ne relevant pas du a |
 
 CNPSY |
 
-9,5 |
+10 |
 
 IV.-TARIFS APPLICABLES AUX ACTES DE RADIOLOGIE
 
@@ -287,3 +287,7 @@ Z |
 Z |
 
 35 |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 7 septembre 2021 : Les coefficients tarifaires s'appliquent aux actes prescrits à compter du 1er septembre 2021. Les mesures prescrites avant la date d'entrée en vigueur du présent arrêté sont rémunérées sur la base des coefficients en vigueur le jour de leur prononcé.

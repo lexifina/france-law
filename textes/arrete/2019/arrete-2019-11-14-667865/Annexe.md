@@ -396,8 +396,6 @@ EPLEFPA de Montravel
 
 EPLEFPA de Montreuil Bellay
 
-EPLEFPA de Poligny
-
 EPLEFPA de Romans
 
 EPLEFPA de Saint Flour
@@ -505,6 +503,8 @@ EPLEFPA Avignon (Site de l'Isle sur Sorgue)
 EPLEFPA Carcassonne (Site de Narbonne)
 
 EPLEFPA d'Angoulême (Site de Barbezieux)
+
+EPLEFPA de Bordeaux Gironde (Site de La Tour blanche)
 
 EPLEFPA de Bordeaux Gironde (Site de Libourne Montagne)
 
@@ -1383,3 +1383,7 @@ CFPPA de Vire
 CFPPA du Tarn et Garonne
 
 Site de Périgueux du CFPPA de la Dordogne |
+
+NOTA :
+
+Conformément au premier alinéa de l'article 2 de l'arrêté du 9 août 2022 (NOR : AGRS2206861A), ces dispositions s'appliquent à compter du 1er septembre 2021.
