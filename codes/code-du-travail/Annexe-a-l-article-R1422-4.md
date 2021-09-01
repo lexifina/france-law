@@ -372,9 +372,9 @@ Ressort du tribunal judiciaire de Lisieux. |
 
 Manche |
 
-Cherbourg-en-Corentin |
+Cherbourg-en-Cotentin |
 
-Cherbourg-en-Corentin |
+Cherbourg-en-Cotentin |
 
 Ressort du tribunal judiciaire de Cherbourg-en-Cotentin. |
 
@@ -1304,19 +1304,19 @@ Evreux |
 
 Bernay |
 
-Ressort de la chambre de proximité de Bernay et commune des Monts du Roumois |
+Ressort de la chambre de proximité de Bernay |
 
 |
 
 Evreux |
 
-Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts de la chambre de proximité de Bernay, des Andélys et des cantons d'Amfreville-la-Campagne, Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. |
+Ressort du tribunal judiciaire d'Evreux, à l'exception des ressorts des chambres de proximité de Bernay et de Louviers. |
 
 |
 
 Louviers |
 
-Ressort de la chambre de proximité des Andelys et cantons d'Amfreville-la-Campagne (à l'exception de la partie de la commune des Monts du Roumois correspondant à l'ancienne commune de Houlbec-près-le-Gros-Theil), Gaillon, Gaillon-Campagne, Le Neubourg, Louviers-Nord, Louviers-Sud, Pont-de-l'Arche et Val-de-Reuil. |
+Ressort de la chambre de proximité de Louviers. |
 
 Seine-Maritime |
 
@@ -1546,6 +1546,6 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre. |
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 2 du décret n° 2021-886 du 2 juillet 2021, ces dispositions entrent en vigueur le 1er septembre 2021.
 
 Conformément aux dispositions du II de l'article 18 du décret n° 2011-338 du 29 mars 2011 modifié en dernier lieu par le décret n° 2018-122 du 20 février 2018, l'installation du conseil des prud'hommes à Mayotte, créé par l'article 9 dudit décret, sera effective à compter d'une date fixée par décret et au plus tard à la date mentionnée au II de l'article 16 de l'ordonnance n° 2011-337 du 29 mars 2011 susvisée, c'est-à-dire au plus tard à compter du 1er janvier 2022.
