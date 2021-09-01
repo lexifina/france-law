@@ -52,7 +52,7 @@ Comité technique de service central de réseau (CTSCR) de la DGFIP |
 
 Directeur général des finances publiques |
 
-Services centraux de la DGFIP, directions locales de St Pierre et Miquelon, Wallis et Futuna, délégations interrégionales, service à compétence nationale Cap numérique |
+Services centraux de la DGFIP, directions locales de St Pierre et Miquelon, Wallis et Futuna, délégations interrégionales, service à compétence nationale direction des projets numériques |
 
 51,69 |
 
@@ -2191,3 +2191,7 @@ Service à compétence nationale |
 8 |
 
 Election directe Scrutin de liste |
+
+NOTA :
+
+Conformément à l’article 5 de l‘arrêté du 26 avril 2021, ces dispositions entrent en vigueur le 1er septembre 2021.

@@ -1,38 +1,42 @@
 # Article Annexe II
 
-ANNEXE II
-
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A-Ministère de l'Europe et des affaires étrangères
+A.-Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels en fonctions sur le territoire national |
 
-Etranger |
+Étranger |
 
-B-Ministère de la culture
+B.-Ministère de la culture
 
 Catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels affectés dans les directions régionales des affaires culturelles |
 
 Paris |
 
-Personnels des Écoles normales supérieures d'Architecture |
+Personnels des Écoles Normales Supérieures d'Architecture |
 
 Paris |
 
-C-Ministère de l'agriculture et de l'alimentation
+C.-Ministère de l'agriculture et de l'alimentation
 
 Catégorie de personnels |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Personnels des services centraux |
 
@@ -50,27 +54,25 @@ Ingénieurs des ponts, des eaux et des forêts relevant du centre interministér
 
 Hauts-de-Seine |
 
-D-Ministère de l'éducation nationale, de la jeunesse et des sports et ministère de l'enseignement supérieur, de la recherche et de l'innovation
+D.-Ministère de l'éducation nationale, de la jeunesse et des sports et ministère de l'enseignement supérieur, de la recherche et de l'innovation
 
-1° Enseignement
+1°) Enseignement
 
 Population ou région académique (académie) |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Recteurs de région académique, recteurs d'académie, recteurs délégués pour l'enseignement supérieur, la recherche et l'innovation |
 
 Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
 Paris |
-
-Population ou région académique (académie) |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Auvergne-Rhône-Alpes (Clermont-Ferrand, Grenoble, Lyon) |
 
@@ -88,7 +90,7 @@ Rhône |
 
 Bourgogne-Franche-Comté (Besançon, Dijon) |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort |
+Doubs, Jura, Haute-Saône, territoire-de-Belfort |
 
 Doubs |
 
@@ -112,7 +114,7 @@ Corse |
 
 Corse-du-Sud, Haute-Corse |
 
-Bouches-du-Rhône à compter du 1er septembre 2021 |
+Corse-du-Sud |
 
 Grand Est (Nancy-Metz, Reims, Strasbourg) |
 
@@ -156,7 +158,7 @@ Paris (1er et 2nd degrés) |
 
 Seine-Saint-Denis |
 
-Paris (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État) |
+Paris (enseignement supérieur) |
 
 Paris |
 
@@ -164,29 +166,19 @@ Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (1er et 2nd degrés) |
 
 Val-de-Marne |
 
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par leur établissement d'affectation) |
+Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (enseignement supérieur) |
 
 Seine-Saint-Denis |
 
-|
+Yvelines, Essonne, Hauts-de-Seine, Val d'Oise
 
-Population ou région académique (académie) |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-|
-
-Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par le rectorat de l'académie de Créteil) |
-
-Val-de Marne à compter du 1er janvier 2022 |
-
-Yvelines, Essonne, Hauts-de-Seine, Val d'Oise (1er et 2nd degrés) |
+(1er et 2nd degrés) |
 
 Yvelines |
 
-Service interacadémique des examens et concours d'Arcueil |
+Service interacadémique des examens
+
+et concours d'Arcueil |
 
 Paris |
 
@@ -214,7 +206,9 @@ Seine-Maritime |
 
 Nouvelle-Aquitaine (Bordeaux, Limoges, Poitiers) |
 
-Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques |
+Dordogne, Gironde, Landes, Lot-et-Garonne,
+
+Pyrénées-Atlantiques |
 
 Gironde |
 
@@ -252,13 +246,17 @@ Alpes-Maritimes, Var |
 
 Alpes-Maritimes |
 
-2° Jeunesse, engagement et sports
+2°) Jeunesse, engagement et sports
 
 Population |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Corps de professeurs de sport |
 
@@ -266,15 +264,9 @@ Administration centrale et Ile-de-France |
 
 Paris |
 
-Autres affectations |
+Autres affectations hors Mayotte |
 
 Seine-Saint-Denis |
-
-Population |
-
-Service ou département d'affectation |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Corps des conseillers d'éducation populaire et de jeunesse |
 
@@ -282,7 +274,7 @@ Administration centrale et Ile-de-France |
 
 Paris |
 
-Autres affectations |
+Autres affectations hors Mayotte |
 
 Seine-Saint-Denis |
 
@@ -292,7 +284,7 @@ Administration centrale et Ile-de-France |
 
 Paris |
 
-Autres affectations |
+Autres affectations hors Mayotte |
 
 Seine-Saint-Denis |
 
@@ -302,19 +294,19 @@ Administration centrale et Ile-de-France |
 
 Paris |
 
-Autres affectations |
+Autres affectations hors Mayotte |
 
 Seine-Saint-Denis |
 
 Agents contractuels exerçant les fonctions de préparateur olympique ou de directeur technique national auprès des fédérations sportives |
 
-Toutes affectations |
+Toutes affectations hors Mayotte |
 
 Seine-Saint-Denis |
 
 Agents contractuels exerçant les fonctions de conseiller technique national ou régional |
 
-Toutes affectations |
+Toutes affectations hors Mayotte |
 
 Seine-Saint-Denis |
 
@@ -324,17 +316,19 @@ Administration centrale |
 
 Paris |
 
-Autres affectations |
+Autres affectations hors Mayotte |
 
 Se reporter au tableau mentionné au 1° |
 
-E-Ministère de l'économie, des finances et de la relance
+E.-Ministère de l'économie, des finances et de la relance
 
-1° Direction générale de la concurrence de la consommation et de la répression des fraudes
+1°) Direction générale de la concurrence de la consommation et de la répression des fraudes
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Services déconcentrés de métropole et des collectivités d'outre-mer régies par l'article 73 de la Constitution hors Mayotte |
 
@@ -344,11 +338,13 @@ Personnels affectés au Service commun des laboratoires des ministères économi
 
 Hauts-de-Seine |
 
-2° Direction générale des douanes et droits indirects
+2°) Direction générale des douanes et droits indirects
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Direction nationale garde-côtes des douanes |
 
@@ -418,17 +414,21 @@ Gironde |
 
 Gironde |
 
-Personnels affectés au service commun des laboratoires des ministères économiques et financiers |
+Personnels affectés au Service commun des laboratoires des ministères économiques et financiers |
 
 Hauts-de-Seine |
 
-3° Direction générale des finances publiques
+3°) Direction générale des finances publiques
 
 Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -590,12 +590,6 @@ Clermont-Ferrand |
 
 Puy-de-Dôme |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Dordogne |
 
 Bordeaux |
@@ -992,7 +986,7 @@ Tours |
 
 Indre-et-Loire |
 
-Territoire de Belfort |
+Territoire-de-Belfort |
 
 Metz |
 
@@ -1054,7 +1048,7 @@ Puy-de-Dôme |
 
 Directions et services à compétence nationale |
 
-Cap numérique (Noisy-le-Grand) |
+Direction des projets numériques (Noisy-le-Grand) |
 
 Noisy-le-Grand |
 
@@ -1107,12 +1101,6 @@ Paris |
 Noisy-le-Grand |
 
 Paris |
-
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Service d'appui aux ressources humaines (Noisy-le-Grand) |
 
@@ -1208,12 +1196,6 @@ Noisy-le-Grand |
 
 Paris |
 
-Service ou catégorie de personnel |
-
-Centre de services de ressources humaines |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Directions de contrôle fiscal |
 
 Centre-Est (Lyon) |
@@ -1264,15 +1246,19 @@ Toulouse |
 
 Hérault |
 
-F-Ministère de l'intérieur
+F.-Ministère de l'intérieur
 
-1° Administration territoriale de l'Etat
+1°) Administration territoriale de l'Etat
 
 Service ou catégorie de personnel |
 
 Secrétariat général pour l'administration |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Corps préfectoral |
 
@@ -1353,12 +1339,6 @@ Aveyron |
 Sud (Marseille) |
 
 Bouches-du-Rhône |
-
-Service ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Bouches-du-Rhône |
 
@@ -1552,12 +1532,6 @@ Sud-Est (Lyon) |
 
 Isère |
 
-Service ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
 Loire-Atlantique |
 
 Ouest (Rennes) |
@@ -1834,7 +1808,7 @@ Est (Metz) |
 
 Moselle |
 
-Territoire de Belfort |
+Territoire-de-Belfort |
 
 Est (Metz) |
 
@@ -1894,13 +1868,21 @@ La Réunion |
 
 La Réunion |
 
-2° Direction générale de la police nationale
+2°) Direction générale de la police nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
 
-Secrétariat général pour l'administration |
+ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Secrétariat général
+
+pour l'administration |
+
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -1944,7 +1926,7 @@ Ile-de-France (Paris-Versailles) |
 
 Paris |
 
-Personnels du corps d'encadrement et d'application de la police nationale en poste en Ile-de-France |
+Personnels du corps d'encadrement et d'application de la police nationale en poste en Île-de-France |
 
 Ile-de-France (Paris-Versailles) |
 
@@ -1986,13 +1968,21 @@ Martinique |
 
 Martinique |
 
-3° Personnels civils de la direction générale de la gendarmerie nationale
+3°) Personnels civils de la direction générale de la gendarmerie nationale
 
-Zone de sécurité et de défense ou catégorie de personnel |
+Zone de sécurité et de défense
 
-Secrétariat général pour l'administration |
+ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Secrétariat général
+
+pour l'administration |
+
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Est (Bourgogne-Franche-Comté Grand Est) |
 
@@ -2060,11 +2050,13 @@ La Réunion |
 
 La Réunion |
 
-4° Autres
+4°) Autres
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Bureau des cultes du Bas-Rhin et du Haut-Rhin |
 
@@ -2082,533 +2074,13 @@ Personnels navigants contractuels relevant du groupement des moyens aériens du 
 
 Paris |
 
-G-Ministère de la justice
-
-1° Services judiciaires
-
-Cour d'Appel |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Agen |
-
-Gers, Lot, Lot-et-Garonne |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Aix-en-Provence |
-
-Alpes-de-Haute-Provence, Alpes-Maritimes, Bouches-du-Rhône, Var |
-
-Doubs à compter
-
-du 1er octobre 2021 |
-
-Amiens |
-
-Aisne, Oise, Somme |
-
-Doubs à compter
-
-du 1er janvier 2022 |
-
-Angers |
-
-Maine-et-Loire, Mayenne, Sarthe |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Basse-Terre |
-
-Guadeloupe |
-
-Doubs à compter
-
-du 1er octobre 2022 |
-
-Bastia |
-
-Corse-du-Sud, Haute-Corse |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Besançon |
-
-Doubs, Jura, Haute-Saône, Territoire de Belfort |
-
-Doubs |
-
-Bordeaux |
-
-Charente, Dordogne, Gironde |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Bourges |
-
-Cher, Indre, Nièvre |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Caen |
-
-Calvados, Manche, Orne |
-
-Doubs à compter
-
-du 1er janvier 2022 |
-
-Cayenne |
-
-Guyane |
-
-Doubs à compter
-
-du 1er octobre 2022 |
-
-Chambéry |
-
-Savoie, Haute-Savoie |
-
-Doubs à compter
-
-du 1er octobre 2021 |
-
-Colmar |
-
-Bas-Rhin, Haut-Rhin |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Dijon |
-
-Côte d'Or, Haute-Marne, Saône-et-Loire |
-
-Doubs à compter
-
-du 1er octobre 2021 |
-
-Douai |
-
-Nord, Pas-de-Calais |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Fort-de-France |
-
-Martinique |
-
-Doubs à compter
-
-du 1er octobre 2022 |
-
-Cour d'Appel |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Grenoble |
-
-Drôme, Hautes-Alpes, Isère |
-
-Doubs à compter
-
-du 1er octobre 2021 |
-
-Limoges |
-
-Corrèze, Creuse, Haute-Vienne |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Lyon |
-
-Ain, Loire, Rhône |
-
-Doubs à compter
-
-du 1er janvier 2022 |
-
-Metz |
-
-Moselle |
-
-Doubs à compter
-
-du 1er janvier 2022 |
-
-Montpellier |
-
-Aude, Aveyron, Hérault, Pyrénées-Orientales |
-
-Doubs à compter du 1er janvier 2022 |
-
-Nancy |
-
-Meurthe-et-Moselle, Meuse, Vosges |
-
-Doubs à compter
-
-du 1er janvier 2022 |
-
-Nîmes |
-
-Ardèche, Gard, Lozère, Vaucluse |
-
-Doubs à compter
-
-du 1er janvier 2022 |
-
-Orléans |
-
-Indre-et-Loire, Loir-et-Cher, Loiret |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Paris |
-
-Paris, Seine-et-Marne, Yonne, Essonne, Seine-Saint-Denis, Val-de-Marne |
-
-Doubs à compter
-
-du 1er octobre 2022 |
-
-Pau |
-
-Landes, Pyrénées-Atlantiques, Hautes-Pyrénées |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Poitiers |
-
-Charente-Maritime, Deux-Sèvres, Vendée, Vienne |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Reims |
-
-Ardennes, Aube, Marne |
-
-Doubs à compter
-
-du 1er octobre 2021 |
-
-Rennes |
-
-Côtes d'Armor, Finistère, Ille-et-Vilaine, Loire-Atlantique, Morbihan |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Riom |
-
-Allier, Cantal, Haute-Loire, Puy-de-Dôme |
-
-Doubs à compter
-
-du 1er septembre 2021 |
-
-Rouen |
-
-Eure, Seine-Maritime |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Saint-Denis de La Réunion |
-
-La Réunion |
-
-Doubs à compter
-
-du 1er octobre 2022 |
-
-Toulouse |
-
-Ariège, Haute-Garonne, Tarn, Tarn-et-Garonne |
-
-Doubs à compter
-
-du 1er septembre 2022 |
-
-Cour d'Appel |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Versailles |
-
-Eure-et-Loir, Yvelines, Hauts-de-Seine, Val d'Oise |
-
-Doubs à compter
-
-du 1er octobre 2022 |
-
-2° Services pénitentiaires
-
-Direction interrégionale des services pénitentiaires |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Bordeaux |
-
-Charente, Charente-Maritime, Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne, Haute-Vienne |
-
-Haute-Vienne à compter
-
-du 1er septembre 2021 |
-
-Dijon |
-
-Cher, Côte-d'Or, Doubs, Eure-et-Loir, Indre, Indre-et-Loire, Jura, Loir-et-Cher, Loiret, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire de Belfort |
-
-Haute-Vienne à compter
-
-du 1er octobre 2021 |
-
-Lille |
-
-Aisne, Nord, Oise, Pas-de-Calais, Somme |
-
-Haute-Vienne à compter
-
-du 1er septembre 2022 |
-
-Lyon |
-
-Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie |
-
-Haute-Vienne à compter
-
-du 1er janvier 2022 |
-
-Marseille |
-
-Alpes de Haute-Provence, Hautes-Alpes, Alpes, Maritimes, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Var, Vaucluse |
-
-Haute-Vienne à compter
-
-du 1er octobre 2021 |
-
-Paris |
-
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
-
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
-
-Direction interrégionale des services pénitentiaires |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Rennes |
-
-Calvados, Côtes d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
-
-Haute-Vienne à compter
-
-du 1er septembre 2021 |
-
-Strasbourg |
-
-Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges |
-
-Haute-Vienne à compter
-
-du 1er septembre 2022 |
-
-Toulouse |
-
-Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
-
-Haute-Vienne à compter
-
-du 1er septembre 2022 |
-
-Mission outre-mer |
-
-Guadeloupe, Guyane, Martinique |
-
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
-
-La Réunion |
-
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
-
-3° Protection judiciaire de la jeunesse
-
-Direction interrégionale de la protection judiciaire de la jeunesse |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Centre-Est (Lyon) |
-
-Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie |
-
-Haute-Vienne à compter
-
-du 1er janvier 2022 |
-
-Grand Centre (Dijon) |
-
-Cher, Côte-d'Or, Doubs, Eure-et-Loir, Indre, Indre-et-Loire, Jura, Loir-et-Cher, Loiret, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire de Belfort |
-
-Haute-Vienne à compter
-
-du 1er octobre 2021 |
-
-Grand Est (Nancy) |
-
-Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges |
-
-Haute-Vienne à compter
-
-du 1er janvier 2022 |
-
-Direction interrégionale de la protection judiciaire de la jeunesse |
-
-Ressort |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Grand Nord (Lille) |
-
-Aisne, Nord, Oise, Pas-de-Calais, Somme |
-
-Haute-Vienne à compter
-
-du 1er septembre 2022 |
-
-Grand Ouest (Rennes) |
-
-Calvados, Côtes d'Armor, Eure, Finistère, Ille-et-Vilaine, Loire-Atlantique, Maine-et-Loire, Manche, Mayenne, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée |
-
-Haute-Vienne à compter
-
-du 1er septembre 2021 |
-
-Ile-de-France/ Outre-Mer (Paris) |
-
-Paris, Seine-et-Marne, Yvelines, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val d'Oise |
-
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
-
-Guadeloupe, Guyane, Martinique |
-
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
-
-La Réunion |
-
-Haute-Vienne à compter
-
-du 1er octobre 2022 |
-
-Sud (Toulouse) |
-
-Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
-
-Haute-Vienne à compter
-
-du 1er septembre 2022 |
-
-Sud-Est (Marseille) |
-
-Alpes de Haute-Provence, Hautes-Alpes, Alpes, Maritimes, Bouches-du-Rhône, Corse-du-Sud, Haute-Corse, Var, Vaucluse |
-
-Haute-Vienne à compter
-
-du 1er octobre 2021 |
-
-Sud-Ouest (Bordeaux) |
-
-Charente, Charente-Maritime, Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne, Haute-Vienne |
-
-Haute-Vienne à compter
-
-du 1er septembre 2021 |
-
-4° Autres services
-
-Services |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
-
-Services centraux |
-
-Haute-Vienne à compter du 1er octobre 2022 |
-
-Conseil supérieur de la magistrature |
-
-Haute-Vienne à compter du 1er octobre 2022 |
-
-Cour de Cassation |
-
-Haute-Vienne à compter du 1er octobre 2022 |
-
-École nationale de l'administration pénitentiaire d'Agen |
-
-Haute-Vienne à compter du 1er septembre 2021 |
-
-École nationale des greffes de Dijon |
-
-Doubs à compter du 1er octobre 2021 |
-
-École nationale de la magistrature de Bordeaux |
-
-Doubs à compter du 1er octobre 2021 |
-
-École nationale de la protection judiciaire de la jeunesse de Roubaix |
-
-Haute-Vienne à compter du 1er septembre 2022 |
-
-H-Services du Premier ministre-Juridictions administratives et financières
+G.-Services du Premier ministre-Juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Magistrats des tribunaux administratifs et cours administratives d'appel |
 
@@ -2622,13 +2094,17 @@ Chambres régionales des comptes |
 
 Paris |
 
-I-Ministère de la transition écologique et ministère de la mer
+H.-Ministère de la transition écologique et ministère de la mer
 
 Service |
 
 Service ou département d'affectation |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques
+
+chargée de la paye
+
+sans ordonnancement préalable |
 
 Services centraux |
 
@@ -2730,11 +2206,13 @@ Isère |
 
 Val-de-Marne |
 
-J-Ministère du travail, de l'emploi et de l'insertion et ministère des solidarités et de la santé
+I.-Ministère du travail, de l'emploi et de l'insertion et ministère des solidarités et de la santé
 
 Service |
 
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+Direction des finances publiques chargée de la paye
+
+sans ordonnancement préalable |
 
 Directions régionales de l'économie, de l'emploi, du travail et des solidarités de métropole hors Ile-de-France |
 
@@ -2759,3 +2237,13 @@ Seine-Saint-Denis |
 Direction de l'économie, de l'emploi, du travail et des solidarités de La Réunion |
 
 Seine-Saint-Denis |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 décembre 2020 :
+
+1° Le tableau mentionné au 2° de la rubrique D de l'annexe II précitée prend effet à la date d'entrée en vigueur du décret n° 2020-1542 du 9 décembre 2020 susvisé.
+
+2° Le tableau mentionné à la rubrique I de l'annexe II précitée prend effet à la date d'entrée en vigueur du décret n° 2020-1545 du 9 décembre 2020 susvisé.
+
+Conformément à l’article 5 de l‘arrêté du 26 avril 2021, ces dispositions entrent en vigueur le 1er septembre 2021.
