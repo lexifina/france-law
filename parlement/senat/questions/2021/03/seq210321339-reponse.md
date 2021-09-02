@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321339
+
+- Question : [SEQ210321339](seq210321339.md) — Future gestion des sites Natura 2000
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-09-02, page 5098*
+
+Le Sénat a examiné en juillet en séance publique le projet de loi relatif à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale. L'article 13 tel que voté par le Sénat, relatif à la décentralisation de la gestion des sites Natura 2000 exclusivement terrestres aux régions, a maintenu cette orientation tout en développant le rôle des conseils régionaux, en lien avec les conseils départementaux et le bloc communal, dans la phase de désignation des sites, en leur permettant de présenter à l'État, qui est chargé de la notification à la Commission européenne des projets d'inscription d'une zone spéciale de conservation, un projet de désignation d'une zone de protection spéciale ou de modification du périmètre de telles zones. Le conseil de l'environnement et du développement durable et l'inspection générale de l'administration ont été missionnés par le Gouvernement dès avril aux fins de communiquer, dans le courant de cet été, leurs propositions sur les modalités de coordination et d'interface entre l'État et les régions, en vue de la bonne articulation et mise en œuvre de la politique Natura 2000 dans nos territoires. L'accompagnement technique de proximité aux élus et les sujets financiers liés à l'animation des sites ainsi qu'aux actions connexes au réseau s'inscrivent pleinement dans le cadre des travaux diligentés pour accompagner la mise en œuvre de ce transfert avec le souci constant de rechercher une meilleure efficience dans nos outils de protection des espaces naturels et, in fine, une efficacité accrue de cette politique publique.
