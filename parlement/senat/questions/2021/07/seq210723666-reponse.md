@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723666
+
+- Question : [SEQ210723666](seq210723666.md) — Publicité des actes des collectivités territoriales
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-09-02, page 5119*
+
+L'article 78 de la loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique habilite le Gouvernement à prendre par voie d'ordonnance toute mesure relevant du domaine de la loi afin de modifier les règles relatives à la publicité des actes des collectivités territoriales et de leurs groupements, à leur entrée en vigueur, à leur conservation ainsi qu'au point de départ du délai de recours contentieux, dans le but de simplifier, de clarifier et d'harmoniser ces règles et de recourir à la dématérialisation. Il prévoit que cette ordonnance doit être prise dans un délai de dix-huit mois à compter de la promulgation de la loi du 27 décembre 2019. Ce délai a néanmoins été prolongé de quatre mois par l'article 14 de la loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de covid-19, aux termes duquel : « Les délais dans lesquels le Gouvernement a été autorisé à prendre par ordonnances, sur le fondement de l'article 38 de la Constitution, des mesures relevant du domaine de la loi sont prolongés de quatre mois, lorsqu'ils n'ont pas expiré à la date de publication de la présente loi. » Aussi, le délai d'habilitation fixé par l'article 78 de la loi du 27 décembre 2019 expirera le 27 octobre 2021. Le Gouvernement entend bien prendre, dans le délai ainsi prolongé, cette ordonnance qui aura pour ambition de répondre tant à l'objectif de modernisation et de simplification des règles de publicité, d'entrée en vigueur et de conservation des actes des collectivités territoriales et de leurs groupements qu'à l'exigence démocratique d'information des citoyens.
