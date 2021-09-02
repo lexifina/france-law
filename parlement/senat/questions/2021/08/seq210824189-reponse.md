@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210824189
+
+- Question : [SEQ210824189](seq210824189.md) — Modalités d'attribution de l'aide financière pour l'achat d'un vélo à assistance électrique
+
+## Réponse
+
+*Transition écologique, JO du 2021-09-02, page 5152*
+
+L'État a mis en place deux aides à l'acquisition d'un vélo à assistance électrique : le bonus écologique et la prime à la conversion. Le bonus est attribué à toute personne physique dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros, dès lors qu'une aide ayant le même objet a été attribuée par une collectivité territoriale. Le montant de l'aide est identique au montant de l'aide attribuée par la collectivité territoriale, dans la limite de 200 euros. Le versement du bonus est conditionné à l'octroi d'une aide locale similaire afin d'inciter les collectivités territoriales à mettre en place des aides portant sur le même objet et garantir le caractère incitatif du bonus pour l'usager. Depuis le 26 juillet 2021, l'acquisition d'un vélo cargo neuf, à assistance électrique ou non, permet également aux personnes physiques dont le revenu fiscal de référence par part est inférieur ou égal à 13 489 euros et aux personnes morales de bénéficier du bonus, sans qu'une aide locale ait été attribuée. Le montant du bonus s'élève à 40 % du coût d'acquisition, dans la limite de 1 000 euros. De plus, la prime à la conversion est désormais élargie à l'acquisition d'un vélo à assistance électrique, neuf ou d'occasion, en échange de la mise au rebut d'une voiture ou d'une camionnette diesel immatriculée pour la première fois avant 2011 ou essence immatriculée pour la première fois avant 2006. Le montant de la prime s'élève à 40 % du coût d'acquisition, dans la limite de 1 500 euros, sans conditions de revenu ou d'attribution d'une aide locale similaire.
