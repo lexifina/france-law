@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210523070
+
+- Question : [SEQ210523070](seq210523070.md) — Composition de certains emballages alimentaires
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-09-02, page 5141*
+
+Les substances perfluoroalkylées (PFAS) constituent une famille de composés fluorés utilisés dans les matériaux destinés à entrer en contact avec les denrées alimentaires (MCDA) afin notamment de les rendre imperméables à l'eau et aux graisses. Certains de ces composés ont été évalués par l'Autorité européenne de sécurité des aliments (EFSA) et font l'objet de restrictions d'usage dans la réglementation relative aux MCDA en matières plastiques. Les matériaux en papiers et cartons ne font quant à eux pas l'objet d'une réglementation harmonisée. Néanmoins, la sécurité de ces matériaux constituant un sujet de préoccupation, des lignes directrices ont été élaborées en France consultables sur le site de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) dans une fiche « Papier et Cartons » sous la rubrique « Matériaux au contact des denrées alimentaires ». Cette fiche prévoit notamment une limite pour l'acide perfluorooctanoïque (PFOA), l'un des PFAS les plus utilisés. Le Gouvernement, très soucieux de la protection sanitaire des consommateurs, suit avec attention ce sujet. Des contrôles sont ainsi mis en œuvre chaque année pour s'assurer de la conformité des MCDA. Par ailleurs, la France, dans une démarche partagée par plusieurs autres États membres, a demandé à la Commission européenne en juin 2020 de prendre des mesures harmonisées afin de renforcer la réglementation applicable aux MCDA et notamment aux papiers et cartons. Cette préoccupation est partagée par la Commission européenne qui prévoit dans sa « Stratégie Chimique » de restreindre les utilisations non-essentielles des PFAS.
