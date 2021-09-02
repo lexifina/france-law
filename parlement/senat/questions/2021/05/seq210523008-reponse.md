@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210523008
+
+- Question : [SEQ210523008](seq210523008.md) — Fonds de solidarité et repreneurs de fonds
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2021-09-02, page 5147*
+
+Le Gouvernement est particulièrement attentif à la situation économique des entreprises. C'est pourquoi, dès le début de la crise sanitaire, l'État et les Régions ont mis en place un fonds de solidarité pour aider les aider celles plus particulièrement affectées en cette période. Ce dispositif est régulièrement adapté pour soutenir au mieux les très petites entreprises (TPE) /petites et moyennes entreprises (PME), indépendants, micro-entrepreneurs et professions libérales de notre pays. À ce titre, les entreprises ayant débuté leur activité avant le 31 janvier 2021 sont désormais éligibles à l'aide du fonds de solidarité. En outre, un nouvelle aide a été instituée par décret du 20 mai 2021, destinée aux entreprises qui ont acquis, entre le 1er janvier 2020 et le 31 décembre 2020, au moins un fonds de commerce dont l'activité a été interdite d'accueil du public sans interruption entre novembre 2020 et mai 2021, et qui n'ont réalisé aucun chiffre d'affaires (CA) en 2020. Complémentaire au fonds de solidarité, cette aide est limitée à 1,8 M€. Par ailleurs, le Gouvernement a mis en place de nombreux dispositifs pour soutenir les entreprises en période de crise : dispositif d'activité partielle renforcé et simplifié, prêts garantis par l'État (PGE) qui peuvent être contractés jusqu'à fin juin 2021, dispositifs d'exonérations de cotisations pour les entreprises fermées administrativement et les entreprises des secteurs faisant l'objet du plan tourisme, prêts directs de l'État (prêts participatifs et avances remboursables) pour les entreprises n'ayant pas l'accès au PGE, etc.
