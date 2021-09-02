@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623359
+
+- Question : [SEQ210623359](seq210623359.md) — Statut des conservateurs de cimetières
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-09-02, page 5116*
+
+Les agents territoriaux en charge des cimetières sont, dans la majorité des cas, titulaires d'un grade au sein d'un cadre d'emplois de la filière administrative ou de la filière technique de la fonction publique territoriale. Dès lors, leur situation administrative est régie par le statut de la fonction publique et par les statuts particuliers, notamment l'évolution de carrière dont ils bénéficient au sein des différents cadres d'emplois. En matière de formation, le Centre national de la fonction publique territoriale propose de nombreux cursus de formation s'adressant en particulier aux agents concernés. S'agissant des disparités qui peuvent exister entre les agents territoriaux en charge des cimetières, elles s'expliquent par la variabilité de leurs missions au sein des collectivités territoriales. Encadrer davantage le statut de ces agents et particulièrement leurs missions pourrait s'avérer contraignant pour les employeurs territoriaux au plan local et constituer une mesure qui ne serait pas nécessairement dans l'intérêt des agents. En effet, bien que variables d'une collectivité territoriale à une autre, les missions des agents en charge des cimetières sont restreintes. Aussi, ces agents ne sont pas susceptibles d'intégrer une filière spécifique, qui a vocation, par nature, à couvrir un ensemble de fonctions et d'emplois. Cette intégration limiterait considérablement leur mobilité ainsi que leur progression de carrière, notamment s'agissant des possibilités de promotion interne eu égard à leur nombre très limité. Telles sont les raisons pour lesquelles il n'est pas envisagé de modifier le cadre statutaire existant les concernant.
