@@ -1,273 +1,91 @@
 # Article Annexe II
 
-REFERENTIEL DE CERTIFICATION
+ANNEXE II
 
-UNITE CAPITALISABLE 1
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES UC 3 ET UC 4 DU BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ ÉDUCATEUR SPORTIF ”
 
-UC1 : ENCADRER TOUT PUBLIC DANS TOUT LIEU ET TOUTE STRUCTURE
+MENTION “ ACTIVITÉS AQUATIQUES ET DE LA NATATION ”
 
-|
+Situation d'évaluation certificative des unités capitalisables UC3 et UC4 :
 
-OI 1-1
+Epreuve certificative de l'UC3 :
 
-1-1-1
+L'épreuve se déroule au sein de la structure d'alternance et se décompose comme suit :
 
-1-1-2
+Mises en situation professionnelle
 
-1-1-3
+A : Encadrement d'une séance d'apprentissage de la natation en sécurité :
 
-|
+Avant le début de l'épreuve, le candidat remet aux évaluateurs un dossier exposant le cycle de 5 séances minimum à 10 séances maximum d'apprentissage et dont la séance évaluée.
 
-Communiquer dans les situations de la vie professionnelle
+Le candidat conduit en sécurité, une séquence d'apprentissage de la natation ou d'acquisition de l'aisance aquatique, en milieu scolaire ou dans un milieu s'inscrivant dans le cadre d'un projet pédagogique d'apprentissage de la natation ou d'acquisition de l'aisance aquatique :
 
-Adapter sa communication aux différents publics
+-sur une durée effective dans l'eau comprise entre 30 minutes minimum et 40 minutes maximum ;
 
-Produire des écrits professionnels
+-pour 8 pratiquants minimum ;
 
-Promouvoir les projets et actions de la structure
+-sur la tranche d'âge ciblée prioritairement par l'aisance aquatique entre 3 et 7 ans.
 
-|
+La séance est suivie d'un entretien de 30 minutes maximum portant sur :
 
-OI 1-2
+-la conception, la conduite et l'évaluation de la séance ;
 
-1-2-1
+-l'ensemble des connaissances nécessaires à la conduite de séances et de cycles pour l'apprentissage de l'aisance aquatique ;
 
-1-2-2
+-l'ensemble des connaissances nécessaires à la conduite de séances et de cycles pour l'apprentissage des activités aquatiques et de la natation.
 
-1-2-3
+Cet entretien permet au candidat d'expliciter ses choix, pédagogiques, techniques et organisationnels et sa capacité à certifier dans le domaine des activités aquatiques et de la natation.
 
-|
+Epreuve certificative de l'UC4 :
 
-Prendre en compte les caractéristiques des publics dans leurs environnements dans une demarche d'éducation à la citoyenneté
+Elle se décompose comme suit :
 
-Repérer les attentes et les besoins des différents publics
+1° Démonstration d'aisance technique :
 
-Choisir les démarches adaptées en fonction des publics
+Le candidat démontre son aisance technique en réalisant les deux tests suivants :
 
-Garantir l'intégrité physique et morale des publics
+-test technique A : un 100 mètres dans les 4 nages enchaînées (papillon avec ondulation, dos crawlé, brasse et crawl). Il réalise l'épreuve, départ plongé, en 1 minute et 50 secondes maximum.
 
-|
+-test technique B : un 400 mètres nage libre en moins de 7 minutes.
 
-OI 1-3
+Est dispensé de ces tests techniques le sportif de haut niveau dans l'une des disciplines de la natation inscrit ou ayant été inscrit sur la liste ministérielle mentionnée à l'article L. 221-2 du code du sport.
 
-1-3-1
+2° Mise en situation professionnelle
 
-1-3-2
+Le candidat conduit en sécurité, une séance d'activités aquatiques en forme, santé et bien-être sur une durée effective dans l'eau comprise entre 20 minutes minimum et 30 minutes maximum, pour 10 pratiquants minimum.
 
-1-3-3
+La séance est suivie d'un entretien de 20 minutes maximum portant sur les activités de forme, santé et bien-être et permettant au candidat d'expliciter ses choix, pédagogiques, techniques, organisationnels et sécuritaires.
 
-|
+3° Une épreuve écrite portant sur les règles d'hygiène et de sécurité ainsi que sur la réglementation des activités aquatiques et de la natation composée de :
 
-Contribuer au fonctionnement d'une structure
+a) QCM :
 
-Se situer dans la structure
+Un questionnaire à choix multiple (QCM) organisé pendant 30 minutes maximum comportant 30 questions dont 2 questions a minima par item.
 
-Situer la structure dans les différents types d'environnement
+Pour valider cette épreuve, le candidat doit obtenir au moins 20 bonnes réponses.
 
-Participer à la vie de la structure
+Les questions posées doivent permettre d'appréhender les connaissances du candidat dans les domaines réglementaires et pratiques, faisant l'objet de diverses réglementations édictées par plusieurs départements ministériels. Ces domaines sont liés à :
 
-|
+-la surveillance et l'encadrement des différentes activités, des différents publics ;
 
-UNITE CAPITALISABLE 2
+-la surveillance des différents milieux d'intervention ;
 
-UC2 : METTRE EN ŒUVRE UN PROJET D'ANIMATION S'INSCRIVANT DANS LE PROJET DE LA STRUCTURE
+-le POSS ;
 
-|
+-le règlement intérieur ;
 
-OI 2-1
+-l'hygiène ;
 
-2-1-1
+-la sécurité ;
 
-2-1-2
+-l'accueil des différents publics ;
 
-2-1-3
+-l'accueil sur différents lieux de pratique.
 
-|
+b) Question ouverte :
 
-Concevoir un projet d'animation
+Une question ouverte d'une durée de 30 minutes maximum portant sur la réglementation des activités aquatiques et de la natation, ou sur les règles d'hygiène de l'eau et de l'air, ou sur les règles de sécurité.
 
-Situer son projet d'animation dans son environnement, en fonction du projet de la structure, de ses ressources et du public accueilli
+NOTA :
 
-Définir les objectifs et les modalités d'évaluation
-
-Identifier les moyens nécessaires à la réalisation du projet
-
-|
-
-OI 2-2
-
-2-2-1
-
-2-2-2
-
-2-2-3
-
-|
-
-Conduire un projet d'animation
-
-Planifier les étapes de réalisation
-
-Animer une équipe dans le cadre du projet
-
-Procéder aux régulations nécessaires
-
-|
-
-OI 2-3
-
-2-3-1
-
-2-3-2
-
-2-3-3
-
-|
-
-Evaluer un projet d'animation
-
-Utiliser les outils d'évaluation adaptés
-
-Produire un bilan
-
-Identifier des perspectives d'évolution
-
-|
-
-UNITE CAPITALISABLE 3
-
-UC3 : CONCEVOIR UNE SEANCE, UN CYCLE D'ANIMATION OU D'APPRENTISSAGE DANS LE CHAMP
-
-DES ACTIVITES AQUATIQUES ET DE LA NATATION
-
-|
-
-OI 3-1
-
-3-1-1
-
-3-1-2
-
-3-1-3
-
-|
-
-Concevoir la séance, le cycle d'animation ou d'apprentissage des activités aquatiques et de la natation
-
-Mobiliser les connaissances et les compétences transversales des activités aquatiques et de la natation et notamment les objectifs pédagogiques développés dans le domaine de la découverte, de l'initiation, des apprentissages pluridisciplinaires, de l'apprentissage de la natation
-
-Fixer les objectifs de la séance ou du cycle et les modalités d'organisation
-
-Organiser la séance ou le cycle en prenant en compte les caractéristiques du public
-
-|
-
-OI 3-2
-
-3-2-1
-
-3-2-2
-
-3-2-3
-
-|
-
-Conduire la séance, le cycle d'animation ou d'apprentissage des activités aquatiques et de la natation
-
-Programmer une séance ou un cycle en fonction des objectifs
-
-Mettre en œuvre une démarche pédagogique adaptée aux objectifs de la séance ou du cycle
-
-Adapter ses actions d'enseignement de l'ensemble des différentes nages codifiées
-
-|
-
-OI 3-3
-
-3-3-1
-
-3-3-2
-
-3-3-3
-
-|
-
-Evaluer la séance, le cycle d'animation ou d'apprentissage des activités aquatiques et de la natation
-
-Construire et utiliser des outils d'évaluation adaptés
-
-Evaluer son action
-
-Evaluer la progression des pratiquants
-
-|
-
-UNITE CAPITALISABLE 4
-
-UC 4 : MOBILISER LES TECHNIQUES DES ACTIVITES AQUATIQUES ET DE LA NATATION POUR METTRE EN ŒUVRE UNE SEANCE, UN CYCLE D'ANIMATION OU D'APPRENTISSAGE DANS LE CHAMP DES ACTIVITES AQUATIQUES ET DE LA NATATATION
-
-|
-
-OI 4-1
-
-4-1-1
-
-4-1-2
-
-4-1-3
-
-|
-
-Conduire une séance ou un cycle en utilisant les techniques des activités aquatiques et de la natation
-
-Maîtriser les gestes techniques et les conduites professionnelles, dans le cadre d'activités à visée d'éveil, de découverte, d'apprentissages, de sécurité, de loisirs, de forme et de bien-être
-
-Utiliser les gestes techniques appropriés dans le cadre d'activités à visée d'éveil, de découverte, d'apprentissages, de sécurité, de loisirs, de forme et de bien-être
-
-Adapter les techniques en fonction des publics en argumentant ses choix par des connaissances
-
-|
-
-OI 4-2
-
-4-2-1
-
-4-2-2
-
-4-2-3
-
-|
-
-Maîtriser et faire appliquer les règlements des activités aquatiques et de la natation
-
-Maîtriser et faire appliquer les règlements et usages des activités aquatiques et de la natation et notamment dans le domaine de l'hygiène et le traitement de l'air et de l'eau
-
-Maîtriser et faire appliquer le cadre réglementaire de la pratique des activités aquatiques et de la natation, dans le cadre d'activités à visée d'éveil, de découverte, d'apprentissages, de sécurité, de loisirs, de forme et de bien-être
-
-Sensibiliser aux bonnes pratiques et aux conduites à risque
-
-|
-
-OI 4-3
-
-4-3-1
-
-4-3-2
-
-4-3-3
-
-4-3-4
-
-|
-
-Garantir la sécurité dans tous les lieux de baignade et de pratiques des activités aquatiques et de la natation
-
-Organiser la sécurité de tous les lieux de baignade et de pratiques des activités aquatiques et de la natation
-
-Assurer la surveillance et la sécurité de tous les lieux de baignade et de pratiques des activités aquatiques et de la natation
-
-Réaliser les gestes professionnels nécessaires à la sécurité des différents publics
-
-De réaliser en sécurité les démonstrations techniques dans le cadre des activités aquatiques et de la natation
-
-|
+Conformément au II de l’article 10 de l’arrêté du 29 juillet 2021, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date d'entrée en vigueur dudit arrêté.

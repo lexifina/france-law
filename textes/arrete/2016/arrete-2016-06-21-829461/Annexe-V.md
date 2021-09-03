@@ -1,27 +1,37 @@
 # Article Annexe V
 
-EXIGENCES PREALABLES A LA MISE EN SITUATION PROFESSIONNELLE
+ANNEXE V
 
-Les compétences professionnelles correspondant aux exigences minimales permettant la mise en situation professionnelle des personnes en cours de formation au brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS) spécialité "éducateur sportif" mention "activités aquatiques et de la natation" sont les suivantes :
+MODÈLE D'ATTESTATION DE 400 MÈTRES NAGE LIBRE EN 7 MINUTES ET 40 SECONDES MAXIMUM
 
-- être capable de réaliser une situation pédagogique pratique en sécurité face à un public ;
+Tous les champs de cette attestation doivent être remplis pour la rendre recevable
 
-- être capable d'évaluer les risques courants prévisibles liés à la pratique des activités aquatiques et de la natation ;
+Attestation de réussite au 400 mètres nage libre en moins de 7 minutes 40 secondes en vue de l'entrée en formation au brevet professionnel de la jeunesse de l'éducation populaire et du sport, spécialité “ éducateur sportif ” mention “ Activités aquatiques et de la natation ”
 
-- être capable de réaliser en sécurité une démonstration technique des compétences visées dans le pass'sports de l'eau.
+Je soussigné (e), Nom _ _ _ _ _ _ _ _ _ _ _ _ _, Prénom _ _ _ _ _ _ _ _ _ _ _ _,
 
-Il est procédé à la vérification des exigences préalables permettant la mise en situation professionnelle des personnes en cours de formation au BPJEPS spécialité "éducateur sportif" mention "activités aquatiques et de la natation" au moyen des épreuves suivantes :
+Intitulé du diplôme _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,
 
-Epreuve n°1 : démonstration technique
+Diplôme n° _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,
 
-Le(la) candidat(e) réalise une démonstration technique de pratique personnelle dans chacune des cinq disciplines du Pass'sports de l'eau (natation course, natation synchronisée, plongeon, water-polo et nage avec palmes). Il/elle est évalué(e) à partir des critères de réussite des compétences visées dans le Pass'sports de l'eau et doit satisfaire au minimum aux critères de trois des cinq épreuves démontrées.
+Carte professionnelle n° _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ délivrée par le service : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Epreuve n°2 : conduite par le(la) candidat(e) d'une séance d'apprentissage de la natation auprès d'un groupe d'enfants suivie d'un entretien portant sur l'évaluation des risques courants prévisibles liés à la pratique des activités aquatiques et de la natation.
+Certifie que M./ Mme _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _, né (e) le _ _ _ _ _ _ _ _ _ _ _ _ _ _, à _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Le(la) candidat(e) anime une séance d'apprentissage de la natation auprès d'un groupe d'enfants. Au cours de cette séance proposée par le tuteur ou l'organisme de formation, le(la) candidat(e) démontre uniquement ses compétences liées à la sécurité des pratiquants et des tiers.
+domicilié (e) : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _, CP + Ville : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-Durée de la séance : 20 minutes maximum.
+a effectué sans aide et sans matériel :
 
-Durée de l'entretien : 10 minutes maximum.
+intitulé du test : distance de 400 mètres nage libre dans un temps de _ _ _ _ _ _ minutes _ _ _ _ _ _ _ _ _ _ secondes _ _ _ _ _ _ _ _ _ _
 
-Dispense des épreuves permettant la vérification des exigences préalables à la mise en situation pédagogique : les qualifications permettant au (à la) candidat(e) d'être dispensé(e) des épreuves permettant la vérification des exigences préalables à la mise en situation pédagogique sont mentionnées en annexe VI "dispenses et équivalences".
+Le temps maximum pour rendre cette attestation recevable est de : 7 minutes et 40 secondes
+
+Date de la réalisation : _ _ _ _ _/ _ _ _ _ _/ _ _ _ _
+
+Lieu de la réalisation : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Signature du certificateur : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Signature du titulaire : _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Fait pour servir et faire valoir ce que de droit.

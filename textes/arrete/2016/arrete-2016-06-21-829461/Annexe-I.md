@@ -1,419 +1,425 @@
 # Article Annexe I
 
-REFERENTIEL PROFESSIONNEL
+ANNEXE I
 
-L'éducateur(trice) sportif(ve) exerce en autonomie son activité professionnelle, en utilisant un ou des supports techniques dans les champs des activités physiques et sportives ou des activités éducatives, culturelles et sociales, dans la limite des cadres réglementaires. Il/ elle est responsable de son action au plan pédagogique, technique et organisationnel. Il/ elle assure la sécurité des tiers et des publics dont il/elle a la charge. Il/ elle a la responsabilité du projet d'animation qui s'inscrit dans le projet de la structure.
+RÉFÉRENTIEL D'ACTIVITÉS, DE COMPÉTENCES ET D'ÉVALUATION DU BREVET PROFESSIONNEL DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ ÉDUCATEUR SPORTIF ”
 
-Les modes d'intervention qu'il/elle développe s'inscrivent dans une logique de travail collectif et partenarial, prenant en compte notamment les démarches de développement durable, d'éducation à la citoyenneté et de prévention des maltraitances.
+MENTION “ ACTIVITÉS AQUATIQUES ET DE LA NATATION ”
 
-Il/ elle encadre tout type de public, dans tous lieux d'accueil ou de pratique au sein desquels il/elle met en place un projet.
+L'éducateur sportif exerce en autonomie son activité professionnelle, en utilisant un ou des supports techniques dans le champ des activités physiques et sportives ou des activités éducatives, culturelles et sociales, dans la limite des cadres réglementaires.
 
-Il/ elle encadre des activités de découverte, d'animation et d'éducation.
+Il est responsable de son action au plan pédagogique, technique et organisationnel.
 
-I. - Présentation du secteur professionnel
+Il encadre tout type de public, dans tous lieux d'accueil ou de pratique à visée de découverte, d'animation, d'apprentissage et d'éducation.
 
-Outre les notions d'apprendre à nager, la demande sociale pour les pratiques aquatiques connaît depuis de nombreuses années une évolution importante s'orientant vers des besoins émergents d'activités d'encadrement liés davantage à la santé, à la forme et au bien-être et faisant aujourd'hui de la natation l'un des sports les plus pratiqués en France.
+Le champ de compétences couvert par la mention “ activités aquatiques et de la natation ” du brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS AAN), spécialité “ éducateur sportif ” permet à son titulaire d'obtenir la délivrance du titre de maître-nageur-sauveteur (MNS).
 
-Ainsi, l'activité aquatique devient-elle aujourd'hui plurielle aussi bien dans sa forme que dans ses objets (loisirs sportifs, loisirs détente, forme et bien-être, éveil...).
+Au mois d'août 2020, le nombre d'éducateurs déclarés qui portent le titre de MNS, ayant une carte professionnelle en cours de validité pour la filière JEPS natation et AAN est de 19 138.
 
-Parmi les activités de loisirs détente, forme et bien-être, ces dernières années, les différentes formes "d'aqua" connaissent un réel développement (aquagym, aqua fitness, aqua forme, aquabike...). Toutes ces activités concernent un public extrêmement large qui va du très jeune enfant jusqu'aux seniors, des personnes présentant une mobilité réduite à celles souffrant de déficiences sensorielles ou mentales. Les propriétés physiques du milieu aquatique, l'absence de pesanteur que l'on y subit, permettent à des populations diverses d'y réaliser les pratiques de leur choix.
+Ce champ de compétences est pluriel, à l'image des activités aquatiques qui le sont aussi bien dans leurs formes que dans leurs objets : loisirs sportifs ; loisirs détente ; forme santé et bien-être ; découverte ; publics séniors ; personnes présentant une mobilité réduite ou souffrant de déficiences sensorielles ou mentales ; aisance aquatique. Les compétences associées à l'aisance aquatique ont par exemple pour objectif de poser les fondements de la capacité d'agir de façon adaptée en milieu aquatique grâce à des apprentissages massés. Ces apprentissages doivent être obtenus sans aide et sans matériel de flottaison, dans un bassin permettant l'expérience de la profondeur.
 
-Si une partie de ces pratiques sont libres, nombre d'entre elles sont encadrées et requièrent des professionnels(les) du secteur, outre des compétences à assurer la sécurité des lieux de pratiques et des pratiquants, des compétences pédagogiques affirmées. Ces professionnels(les) doivent, en particulier, savoir adapter l'activité aux attentes d'un public de plus en plus exigeant et proposer une palette de pratiques de plus en plus étoffée.
+Si une partie de ces pratiques sont libres, nombre d'entre elles sont encadrées et requièrent des professionnels du secteur qui possèdent outre des compétences à assurer la surveillance et la sécurité des lieux de pratiques et des pratiquants, des compétences techniques et pédagogiques affirmées.
 
-C'est dans ce contexte que s'inscrit la mention "activités aquatiques et de la natation" du brevet professionnel de la jeunesse, de l'éducation populaire et du sport (BPJEPS AAN), spécialité "éducateur sportif" qui vise à proposer un cadre de professionnalisation des éducateurs adapté aux attentes des publics des structures artificielles comme naturelles, relevant du secteur public associatif comme marchand.
+Les modes d'intervention développés s'inscrivent dans une logique de travail collectif et partenarial, prenant en compte notamment les démarches de développement durable et de prévention des maltraitances.
 
-Selon l'état des lieux de l'offre des bassins de natation en France (ministère de la santé et des sports - 2009), on recense en France 4 135 piscines (publiques et privées, accessibles à titre gratuit ou payantes) et 6 343 bassins dans le but de pratiquer une activité physique et sportive.
+Le titulaire du BPJEPS AAN peut être amené à former de futurs professionnels et encadrants des activités aquatiques et de la natation et notamment dans le cadre de l'aisance aquatique.
 
-77 % des piscines recensées (RES 2008) sont des piscines publiques et 23 % appartiennent au secteur privé.
+Il assure en autonomie le maintien ou l'actualisation de ses compétences physiques et techniques nécessaires à l'exercice de ses missions de surveillance et de sécurité et doit certifier tous les cinq ans son aptitude à l'exercice de la profession de maître-nageur-sauveteur.
 
-Par ailleurs, 6 % des piscines sont en délégation de service public, administrées par des organismes privés (principalement par des établissements privés commerciaux).
+Ses activités s'exercent aujourd'hui principalement dans le cadre des collectivités territoriales, du secteur marchand (centre aquatique, centre de remise en forme, activité libérale …) et associatif (clubs sportifs affiliés ou non à une fédération) ou du secteur sportif professionnel. Les situations statutaires sont très variables selon les secteurs d'intervention.
 
-Ce mode de gestion se développe de plus en plus : ainsi, 40 % des piscines créées depuis deux ans sont en Délégation de Service Public (DSP).
+Le métier est exercé par des femmes et des hommes travaillant majoritairement à temps plein. On observe une forte augmentation de l'activité en période estivale. Ces professionnels exercent fréquemment leur métier selon des horaires atypiques (le soir, en nocturne ou le week-end) et en milieu particulier (profession considérée en milieu à pollution spécifique et associée à des maladies plurifactorielles à caractères plus ou moins différés).
 
-En parallèle de cet état des lieux, une enquête sur la pratique physique et sportive en France, commanditée par le CNDS et le Ministère des Sports, est réalisée par la MEOS et l'INSEP en 2010.
+Plusieurs débouchés s'offrent au titulaire du BPJEPS AAN : conseiller des APS ; formateur ; gestionnaire d'établissement recevant du public ; chef de projet en poursuivant sur une expérience dans le domaine du perfectionnement, de l'entraînement sportif ou de la formation. Une évolution peut également être envisagée vers des emplois intégrant une dimension de management, de direction de structure, d'expertise ou de recherche dans le secteur de l'entraînement notamment. |
 
-Cette étude révèle que, début 2010, près de deux personnes sur trois, âgées de 15 ans et plus, soit 34 millions de personnes, pratiquent (ou ont pratiqué au cours des 12 derniers mois), une ou plusieurs activités sportives, au moins une fois par semaine.
+REFERENTIEL D'ACTIVITES
 
-Selon cette enquête, la natation est l'activité la plus pratiquée après la marche de loisir. Ainsi, 12,7 millions de personnes, âgées de 15 ans et plus, déclarent pratiquer cette activité.
+Décrit les situations de travail et les activités exercées, les métiers ou emplois visés. |
 
-Si, comme mentionné précédemment, l'ensemble de ces pratiques n'est pas systématiquement encadré au plan pédagogique, les structures publiques, associatives ou marchandes proposent des prestations pédagogiques.
+REFERENTIEL
 
-Si les structures publiques accueillent, en priorité, les publics scolaires, les adultes, les touristes, les enfants en accueils collectifs de mineurs (ACM) et les jeunes, les associations sont plutôt fréquentées par les sportifs, les jeunes, les adultes, les enfants en ACM et pour l'éveil aquatique des très jeunes enfants.
+DE COMPETENCES
 
-Les piscines municipales proposent l'école de natation, les leçons individuelles de natation, la natation scolaire, les différentes activités "aqua", des séances pour femmes enceintes, d'éveil pour les très jeunes enfants ...
+Identifie les compétences et les connaissances, y compris transversales, qui découlent du référentiel d'activités. |
 
-De leur côté, les associations proposent, de l'enseignement sportif dans le cadre de l'Ecole de natation française, de la natation sportive, d'autres activités aquatiques sportives, (natation synchronisée, nage avec palmes, nage en milieu naturel, le sauvetage, ...) et des activités de la natation liées à la personne (l'éveil, la santé et le bien-être, les seniors, le troisième âge, etc. ...). Ainsi, le mouvement associatif propose aussi bien des activités d'éveil, de découvertes, de forme, de bien-être que des activités de perfectionnement et d'entraînement sportifs.
+REFERENTIEL D'EVALUATION
 
-Dans le secteur des activités aquatiques, l'employeur principal reste la fonction publique territoriale qui recrute, par voie de concours, des professionnels de l'encadrement de ces activités. Le cadre d'emploi le plus adapté à ces fonctions est celui d'éducateurs des activités physiques et sportives. Selon l'enquête COLTER réalisée par l'INSEE, la filière sportive territoriale compte 10 749 titulaires ETAPS et 2 316 non titulaires au 31 décembre 2003.
+Définit les critères et les modalités d'évaluation des acquis
 
-Le Centre d'analyse des formations des emplois des métiers de l'animation et du sport (CAFEMAS) réalise une enquête en mai 2013 et estime ainsi le poids du secteur aquatique à 11 280 emplois équivalent temps plein et 18 051 salariés, personnels de surveillance et d'encadrement. 77 % d'entre eux soit 13 898 salariés sont titulaires ou contractuels de la fonction publique territoriale.
+Les modalités d'évaluation des unités capitalisables (UC) 1 et 2 sont définies à l'article A. 212-47-3 du code du sport.
 
-Le secteur associatif est un secteur en plein développement. On note une augmentation des offres d'emplois dans ce secteur professionnel soutenue par les politiques d'aides à l'emploi tant au niveau national que portées par des collectivités territoriales. Le recensement exhaustif des emplois temps plein dans ce secteur est difficile à réaliser du fait de la nature même des emplois associatifs marqués par le temps partiel, les statuts de vacataires...
+L'évaluation des unités capitalisables (UC) UC 3 et
 
-Cependant une enquête réalisée par la Fédération française de natation en janvier 2015 sur un échantillon représentatif de l'ensemble des clubs fait apparaître au sein du mouvement associatif, une évaluation de 2 352 équivalents temps plein. D'une manière plus générale, les statistiques fédérales font apparaître en 2014 la répartition de 7 735 éducateurs sportifs répartis sur 1 308 clubs. Parmi eux, 56 % sont professionnels.
+UC 4, sont définies à l'annexe II du présent arrêté. |
 
-Le Centre d'analyse des formations des emplois des métiers de l'animation et du sport (CAFEMAS) dans son enquête réalisée en mai 2013 estime que 16 % des 18 051 personnels de surveillance et d'encadrement sont des salariés de droit privé et 7 % correspondent à des vacataires ou contrats à durée déterminée. Cette étude montre également que parmi ces 18 051 personnes, 61 % assurent une mission de surveillance et d'encadrement, 33 % sont des personnels affectés uniquement à la surveillance et 3 % sont des personnels exclusifs d'encadrement.
+|
 
-A la date du 23 novembre 2015, le nombre d'éducateurs déclarés et ayant une carte professionnelle en cours de validité délivrée par les services Jeunesse et Sport en natation est de 16 747.
+|
 
-Enfin, selon l'enquête réalisée par la DRJSCS d'Ile de France concernant l'insertion professionnelle des diplômés de niveau IV, sur les années 2013 et 2014 et sur un effectif de 48 diplômés, 47 % exercent à l'issue de leur formation en entreprise privée ou secteur marchand, 23,5 % en milieu associatif et 6 % en collectivités territoriales.
+MODALITES D'EVALUATION |
 
-II. - Description de l'emploi
+CRITERES D'EVALUATION |
 
-1. Appellations :
+UC 1-ENCADRER TOUT PUBLIC DANS TOUT LIEU ET TOUTE STRUCTURE |
 
-Selon les secteurs de pratique, différentes appellations sont possibles : éducateur(trice) d'activités aquatiques, éducateur(trice) territorial(e) des activités physiques et sportives, maître-nageur-sauveteur, éducateur(trice) sportif(ve) des activités de la natation, ...
+-Participation au fonctionnement de la structure
 
-Quelles que soient les appellations, ces personnes portent le titre de maître-nageur-sauveteur.
+-Accueil, information et orientation d'un public diversifié au sein de la structure dans le respect du code du sport (surveillance constante et exclusive)
 
-2. Entreprises et structures employeuses :
+-Promotion des activités aquatiques et de la natation
 
-Les activités s'exercent aujourd'hui principalement dans le cadre des collectivités territoriales, du secteur marchand (centre aquatique, centre de remise en forme, activité libérale...) et associatif (clubs sportifs affiliés ou non à une fédération) ou du secteur sportif professionnel.
+-Participation à l'organisation des activités de la structure
 
-Ces structures privées sont assujetties soit à la convention collective du sport, soit à celle des espaces de loisirs, d'attractions et culturels ou à celle du secteur de l'animation.
+-Prise en compte des caractéristiques de tous les publics pour les orienter
 
-3. Publics concernés :
+-Conseil à tous les publics sur l'utilisation du matériel mis à sa disposition |
 
-Ces professionnels(les) peuvent être amenés(ées) à intervenir auprès de tout public.
+C1. 1-Communiquer dans les situations de la vie professionnelle.
 
-4. Champ et nature des interventions :
+C1. 2-Prendre en compte les caractéristiques des publics dans leurs environnements dans une démarche d'éducation à la citoyenneté.
 
-Les modes d'intervention qu'ils (elles) développent en autonomie s'inscrivent dans le domaine des activités aquatiques et de la natation, dans une logique de travail individuelle et/ou collective pour :
+C1. 3-Contribuer au fonctionnement d'une structure. |
 
-- concevoir un projet pédagogique ;
+Présentation d'un projet suivie d'un entretien :
 
-- conduire des actions d'éveil, de découverte, d'apprentissages pluridisciplinaires et d'enseignement des nages codifiées ;
+Le candidat produit un document personnel explicitant la conception, la mise en œuvre et la réalisation d'un projet d'animation dans la structure d'alternance pédagogique.
 
-- organiser la sécurité des activités aquatiques ;
+Ce document constitue le support d'un entretien.
 
-- assurer la sécurité d'un lieu de pratique ;
+Durée : 40 minutes au maximum dont 20 minutes au maximum pour la présentation orale par le candidat.
 
-- assurer la sécurité des pratiquants dont il a la charge ;
+NB : une seule modalité certificative permet d'évaluer de façon distincte les UC 1 et 2. |
 
-- assurer la sécurité d'un lieu de pratique dans le domaine de l'hygiène de l'air et de l'eau ;
+Le candidat :
 
-- gérer un poste de secours ;
+-Adapte sa communication aux différents publics
 
-- participer au fonctionnement de la structure.
+-Produit des écrits professionnels
 
-5. Situation fonctionnelle :
+-Promeut les projets et actions de la structure
 
-Le métier est exercé par des femmes et/ou des hommes travaillant majoritairement à temps plein. On observe une forte augmentation de l'activité en période estivale. Ces professionnels(les) exercent fréquemment leur métier selon des horaires décalés (le soir, en nocturne ou le week-end). Les situations statutaires sont très variables selon les secteurs d'intervention.
+-Repère les attentes et les besoins des différents publics
 
-Toutefois, la majorité appartient à la fonction publique territoriale qu'il s'agisse de titulaires ou de contractuels (éducateurs(trices) ou opérateurs(trices) des activités physiques et sportives) et travaillent la plupart du temps en équipe.
+-Choisit les démarches adaptées en fonction des publics
 
-Au sein des entreprises du secteur marchand ou associatif, les contrats de travail sont à durée indéterminée ou déterminée. Certains exercent sous statut de travailleur indépendant.
+-Garantit l'intégrité physique et morale des publics
 
-Dans le cadre des objectifs fixés par les instances dirigeantes, ce(tte) professionnel(le) bénéficie d'une délégation de responsabilité pédagogique. Il/ elle intervient en autonomie. Il/ elle rend compte régulièrement des actions entreprises et des résultats obtenus.
+-Se situe dans la structure
 
-Il/ elle assure également en autonomie des activités dans le cadre de la surveillance et de la sécurité d'un lieu de pratique, en utilisant les supports matériels, techniques et réglementaires liés à la prévention et au sauvetage. Il/ elle assure en autonomie le maintien ou l'actualisation de ses compétences physiques et techniques nécessaires à l'exercice de ses missions de surveillance et de sécurité d'un lieu de pratique.
+-Situe la structure dans les différents types d'environnement
 
-7. Débouchés et évolution de carrière :
+-Participe à la vie de la structure. |
 
-L'accès à ces emplois correspond souvent à une première véritable expérience professionnelle dans le domaine de l'encadrement des différents secteurs de pratique auprès des publics, précédée d'une pratique personnelle des activités aquatiques.
+UC 2-METTRE EN ŒUVRE UN PROJET D'ANIMATION S'INSCRIVANT DANS LE PROJET DE LA STRUCTURE |
 
-En poursuivant sur une expérience dans le domaine du perfectionnement et de l'entraînement sportif ou de la formation, une évolution de carrière peut déboucher vers des emplois intégrant une dimension de management, d'expertise ou de recherche dans le secteur de l'entraînement notamment.
+-Conception et réalisation d'un projet d'animation dans le champ des activités aquatiques et de la en tenant compte des particularités du milieu
 
-III. - Fiche descriptive d'activités
+-Proposition d'activités dans le programme de la structure dans le respect de la sécurité des pratiques et des pratiquants
 
-1. L'éducateur(trice) sportif(ve) conçoit un projet pédagogique dans le domaine des activités aquatiques et de la natation, il/elle :
+-Participation à l'organisation des activités de la structure
 
-- prend en compte le projet de la structure ;
+-Participation à la communication de la structure
 
-- prend en compte les caractéristiques des publics ;
+-vérification de la prise en compte dans le projet d'animation de :
 
-- prend en compte les caractéristiques du milieu d'intervention ;
+-la réglementation spécifique liée aux activités aquatiques et de la natation
 
-- prend en compte les spécificités des activités aquatiques et de la natation ;
+-la sécurité des pratiquants dans tout type de structure pour toutes les activités aquatiques et de la natation
 
-- fixe les objectifs de son projet pédagogique ;
+-les évolutions du champ des activités aquatiques et de la natation. |
 
-- planifie son projet pédagogique ;
+C2. 1-Concevoir un projet d'animation
 
-- programme les actions de son projet pédagogique ;
+C2. 2-Conduire un projet d'animation
 
-- formalise son projet par écrit ;
+C2. 3-Evaluer un projet d'animation |
 
-- détermine les besoins et les ressources de son projet pédagogique ;
+Présentation d'un projet suivie d'un entretien :
 
-- présente son projet pédagogique au sein de l'équipe de la structure ;
+Le candidat produit un document personnel explicitant la conception, la mise en œuvre et la réalisation d'un projet d'animation dans la structure d'alternance pédagogique.
 
-- détermine les modalités et les critères d'évaluation de son projet pédagogique ;
+Ce document constitue le support d'un entretien.
 
-- évalue son projet pédagogique ;
+Durée : 40 minutes au maximum dont 20 minutes au maximum pour la présentation orale par le candidat.
 
-- réalise un bilan écrit de son projet pédagogique ;
+NB : une seule modalité certificative permet d'évaluer de façon distincte les UC 1 et 2. |
 
-- peut être amené(e) à participer à l'élaboration ou à construire un projet de structure ou un projet pédagogique au sein d'une structure ;
+Le candidat :
 
-- peut être amené(e) à inscrire son action dans le cadre d'un projet pédagogique.
+-Situe son projet d'animation dans son environnement, en fonction du projet de la structure, de ses ressources et du public accueilli
 
-2. L'éducateur(trice) sportif(ve) conduit des actions à visée d'éveil, de découverte, d'apprentissages pluridisciplinaires, d'activités de loisirs de forme et de bien être et d'enseignement des nages codifiées, il/elle :
+-Définit les objectifs et les modalités d'évaluation
 
-- encadre un groupe dans la conduite de ses actions ;
+-Identifie les moyens nécessaires à la réalisation du projet
 
-- prend en charge les publics dont les groupes de mineurs ;
+-Participe à l'élaboration du projet de la structure
 
-- présente les consignes, l'organisation pédagogique et matérielle de son action ;
+-Inscrit son action dans le cadre d'un projet pédagogique
 
-- évalue le niveau des publics dont il a la charge ;
+-Planifie les étapes de réalisation
 
-- organise son espace en fonction de l'activité qu'il conduit ;
+-Définit l'animation de l'équipe dans le cadre du projet
 
-- organise son espace en fonction du public dont il a la charge ;
+-Procède aux régulations nécessaires
 
-- prépare le matériel pour son activité ;
+-Utilise les outils d'évaluation adaptés
 
-- conduit une action permettant : l'éveil, la découverte, les activités de forme, de bien être, et l'enseignement des différentes activités aquatiques et de la natation ;
+-Produit un bilan
 
-- conduit une action d'enseignement pluridisciplinaire et des nages codifiées ;
+-Identifie des perspectives d'évolution. |
 
-- observe les comportements des publics ;
+UC 3-CONDUIRE UNE SEANCE, UN CYCLE D'ANIMATION OU D'APPRENTISSAGE DANS LE CHAMP DES ACTIVITES AQUATIQUES ET DE LA NATATION |
 
-- analyse les comportements des publics ;
+-Conception et conduite d'un projet pédagogique dans le domaine de l'animation ou de l'apprentissage des activités aquatiques et de la natation, en sécurité
 
-- adapte son action en fonction des comportements des publics ;
+-Conduite d'actions à visée d'acquisition de l'aisance aquatique chez les très jeunes enfants, de découverte aquatique d'apprentissages pluridisciplinaires, d'activités de loisirs de forme, de santé et de bien-être et d'enseignement sécuritaire jusqu'aux nages codifiées
 
-- réalise le bilan de son action ;
+-Prise en charge des publics dont les groupes de mineurs
 
-- explicite les perspectives futures de son action ;
+-Certification de la capacité à nager à se sauver, à sauver les autres, du savoir nager sécuritaire et de l'aisance aquatique
 
-- certifie la capacité à nager ;
+-Organisation de cessions d'évaluation ou de certification
 
-- organise des sessions d'évaluation ou de certification ;
+-Participation aux réunions de travail au sein de l'équipe pédagogique
 
-- rend compte de son action ;
+-Accompagnement de stagiaires, d'apprentis, en formation |
 
-- explicite des règles de comportements en groupe ;
+C3-1-concevoir la séance, le cycle d'animation ou d'apprentissage des activités aquatiques et de la natation dont l'aisance aquatique
 
-- maîtrise les phénomènes liés à l'activité du groupe et aux comportements des publics ;
+C3. 2-conduire la séance, le cycle, d'animation ou d'apprentissage des activités aquatiques et de la natation dont l'aisance aquatique
 
-- favorise les expressions individuelles et collectives ;
+C3. 3-évaluer la séance, le cycle d'animation ou d'apprentissage des activités aquatiques et de la natation dont l'aisance aquatique |
 
-- assure la prise en charge, l'encadrement et la direction de séjours spécifiques comprenant des mineurs ;
+La situation d'évaluation certificative se compose :
 
-- sensibilise à la démarche citoyenne.
+-De la production d'un document exposant le cycle d'apprentissage et sa séance
 
-3. L'éducateur(trice) sportif(ve) organise la sécurité d'un lieu de pratique, il/elle :
+-D'une mise en situation professionnelle : d'encadrement d'une séance d'apprentissage de la natation ou d'acquisition de l'aisance aquatique en sécurité
 
-- analyse la demande de l'employeur ;
+-D'un entretien portant sur l'acquisition de l'aisance aquatique, et l'apprentissage des nages |
 
-- analyse les attentes du public en matière de sécurité ;
+Le candidat :
 
-- prend en compte la réglementation ;
+-Mobilise les connaissances et les compétences transversales des activités aquatiques et de la natation
 
-- participe à l'élaboration du plan d'organisation de la surveillance et des secours (POSS) ;
+-Mobilise les objectifs pédagogiques développés dans le domaine de l'aisance aquatique, de la découverte, de l'initiation, des apprentissages pluridisciplinaires, de l'apprentissage de la natation
 
-- organise la sécurité d'une activité ;
+-Formalise son projet par écrit
 
-- propose des stratégies d'action dans le domaine de la prévention et de la sécurité ;
+-Prend en compte le projet de la structure
 
-- prend en compte les dangers spécifiques liés aux activités ;
+-Détermine les besoins et les ressources de son projet pédagogique
 
-- prend en compte le milieu artificiel ou naturel ;
+-Présente les consignes, l'organisation pédagogique et matérielle de son action
 
-- prend en compte les conditions météorologiques pour assurer la sécurité des personnes ;
+-Organise la séance ou le cycle en prenant en compte les caractéristiques du public et du milieu d'intervention
 
-- prend en compte les contenus des activités ;
+-Planifie son projet pédagogique
 
-- prend en compte les interrelations entre les activités et les publics ;
+-Fixe les objectifs de son projet pédagogique
 
-- prend en compte les moyens matériels et humains dont il dispose ;
+-fixe les objectifs de la séance ou du cycle et les modalités d'organisation
 
-- définit les moyens à mettre en œuvre pour assurer la sécurité d'un lieu de pratique ;
+-Programme les actions de son projet pédagogique
 
-- prend des dispositions pour assurer la sécurité des usagers ;
+-Programme une séance ou un cycle en fonction des objectifs fixés
 
-- gère l'aménagement de l'espace pour garantir la sécurité des pratiques ;
+-Présente son projet pédagogique au sein de l'équipe de la structure
 
-- prépare le lieu d'activité ;
+-Evalue le niveau des publics dont il a la charge
 
-- identifie les dangers en présence ;
+-Organise son espace en fonction de l'activité qu'il conduit et du public dont il a la charge
 
-- vérifie la non dangerosité du lieu de pratique ;
+-Prépare le matériel pour son activité
 
-- mobilise ses connaissances en matière de faune et de flore en milieu naturel ;
+-Met en œuvre une démarche pédagogique adaptée aux objectifs de la séance ou du cycle
 
-- prépare le matériel nécessaire à la surveillance ;
+-Conduit une action d'enseignement sécuritaire de l'aisance aquatique pluridisciplinaire et des nages codifiées
 
-- gère un poste de secours ;
+-Analyse les comportements des publics
 
-- définit les besoins d'achat en matériel ;
+-Maîtrise les phénomènes liés à l'activité du groupe et aux comportements des publics
 
-- peut être amené(e) à coordonner une équipe de sauveteur ;
+-Adapte ses actions d'enseignement de la découverte à l'apprentissage de l'ensemble des activités et différentes nages codifiées
 
-- peut être amené(e) à élaborer le POSS et à le proposer à l'autorité d'emploi.
+-Favorise les expressions individuelles et collectives
 
-4. L'éducateur(trice) sportif(ve) assure la sécurité d'un lieu de pratique et des pratiquants dont il a la charge, il/elle :
+-Adapte son action en fonction des comportements des publics
 
-4.1 assure la sécurité d'un lieu de pratique :
+-Réalise le bilan de son action
 
-- met en œuvre le POSS, le plan de sécurité ou de secours établi ;
+-Réalise un bilan écrit de son projet pédagogique
 
-- fait respecter le POSS, le plan de sécurité ou de secours établi ;
+-Construit et utilise des outils, d'évaluations adaptées aux compétences visées
 
-- s'intègre dans le POSS, le plan de sécurité ou de secours établi ;
+-Détermine les modalités et les critères d'évaluation de son projet pédagogique
 
-- se positionne dans une chaine de secours ;
+-Evalue la progression des pratiquants
 
-- se positionne dans une équipe de surveillance ;
+-Identifie des perspectives d'évolutions cohérentes et adaptées. |
 
-- met en œuvre les techniques de surveillance appropriée à la sécurité ;
+UC 4-MOBILISER LES TECHNIQUES DES ACTIVITES AQUATIQUES ET DE LA NATATION POUR METTRE EN ŒUVRE UNE SEANCE, UN CYCLE D'ANIMATION OU D'APPRENTISSAGE |
 
-- évalue les risques en matière de sécurité ;
+-Assure la sécurité la surveillance, le sauvetage des pratiquants et des tiers sur tous les lieux de baignade et de pratiques des activités aquatiques et de la natation
 
-- évalue les risques liés à la zone de surveillance ;
+-Conduite de séances, dans le cadre d'activités à visée d'acquisition de l'aisance aquatique, d'éveil, de découverte, d'apprentissages, de sécurité, de loisirs, de forme, de santé, de bien-être
 
-- évalue les risques liés à l'activité ;
+-Mise en œuvre et organisation de la sécurité des pratiques et lieux de pratique,
 
-- évalue les risques liés aux personnes ;
+-Elaboration du plan d'organisation de la surveillance et des secours (POSS)
 
-- évalue les risques liés à l'environnement ;
+-Mise en œuvre et suivi du respect de l'application du POSS, du plan de sécurité ou de secours établi
 
-- utilise des moyens de signalisation ;
+-Participation à l'élaboration et à l'application du règlement intérieur de la structure
 
-- utilise des moyens de balisage ;
+-Proposition de stratégies d'action dans le domaine de la prévention, de la sécurité et de la lutte contre les noyades
 
-- accueille les différents publics ;
+-Gestion d'un poste de secours
 
-- gère des situations de conflits ;
+-Peut être amené à coordonner une équipe de sauveteurs
 
-- fait respecter le règlement intérieur de la structure ;
+-Mise en œuvre des techniques de surveillance appropriées à la sécurité
 
-- fait respecter les consignes de sa hiérarchie ;
+-Définition et gestion du matériel nécessaire à la surveillance
 
-- porte une tenue clairement identifiable.
+-Assistance sur personne en effectuant les gestes et en appliquant les techniques relatives aux premiers secours
 
-4.2. Il /elle assure la sécurité des pratiquants dont il a la charge, il/elle :
+-Maintien de ses capacités physiques en natation et en sauvetage par des entraînements
 
-- s'assure de la présence et du bon fonctionnement du matériel de sécurité lié aux activités aquatiques et de la natation ;
+-Contribution à la sécurité d'un lieu de pratique dans le domaine de l'hygiène de l'air et de l'eau
 
-- prévient les risques liés à la sécurité de l'activité et des pratiquants dont il/elle a la charge ;
+-Contribution à la gestion du matériel nécessaire à la mise en œuvre des moyens technologiques pour le maintien de l'hygiène d'un lieu de pratique dans le respect du code du sport (surveillance constante et exclusive)
 
-- anticipe les comportements à risque pour la santé physique des pratiquants ;
+-Application de la sécurité dans le domaine de l'hygiène de l'air et de l'eau,
 
-- réagit en cas de maltraitance de mineurs, de comportement sectaire ou de discrimination ;
+-Contrôle des documents administratifs liés au maintien de l'hygiène
 
-- intervient en cas d'incident ou d'accident ;
+-Mise en œuvre des contrôles d'hygiène et sanitaires quotidiens
 
-- extrait une personne du milieu aquatique ;
+-Contribution à la gestion du traitement de l'air et de l'eau sur un temps dédié
 
-- porte assistance en effectuant les gestes et en appliquant les techniques relatives aux premiers secours ;
+-Contribution à la gestion de la régulation des paramètres et du confort des usagers sur un temps dédié
 
-- s'intègre dans le dispositif d'alerte conformément aux dispositions du POSS ou du plan de sécurité ou de secours établi ;
+-Encadrement et surveillance des activités aquatiques et de la natation en milieu à pollution spécifique et associé à des maladies plurifactorielles à caractère plus ou moins différés.
 
-- sensibilise le public dont il/elle a la charge aux enjeux de sécurité spécifiques au milieu aquatique ;
+-Anticipation des comportements à risque pour la santé physique des pratiquants
 
-- sensibilise les pratiquants dont il/elle a la charge aux règles de sécurité ;
+-Gestion des situations de conflits
 
-- organise des simulations d'incident ou d'accident liées à la sécurité des pratiquants ;
+-Intervention en cas d'incident ou d'accident, de maltraitance de mineurs, de comportement sectaire ou de discrimination
 
-- s'entraîne pour maintenir ses capacités physiques en natation et en sauvetage ;
+-Gestion du suivi administratif de son action ;
 
-- maintient ses compétences en matière de secourisme et de sauvetage.
+-Gestion des documents administratifs mis à sa disposition
 
-4.3. Il/elle assure la sécurité d'un lieu de pratique dans le domaine de l'hygiène de l'air et de l'eau, il/elle :
+-Participation à la veille juridique de son activité
 
-- prévient les risques liés à l'hygiène ;
+-Utilisation de l'outil informatique dans le cadre de sa participation à la gestion administrative de son action
 
-- fait respecter les règles d'hygiène ;
+-Délivrance de pièces administratives |
 
-- sensibilise les pratiquants dont il/elle a la charge aux règles d'hygiène ;
+C4. 1-conduire une séance ou un cycle en utilisant les techniques adaptées aux différentes activités aquatiques et de la natation.
 
-- prend des dispositions pour assurer la sécurité des usagers dans le domaine de l'hygiène ;
+C4. 2-maîtriser et faire appliquer les règlements adaptés aux activités aquatiques et de la natation.
 
-- décèle les anomalies relatives à la qualité de l'eau dans son environnement de pratique ;
+C4. 3-garantir la sécurité dans tous les lieux de baignade et de pratique des activités aquatiques et de la natation.
 
-- décèle les anomalies liées à la qualité de l'air ;
+C4. 3-réaliser en sécurité les démonstrations techniques dans le cadre des activités aquatiques et de la natation |
 
-- réagit face aux anomalies afin de garantir la sécurité des pratiquants dont il/elle a la charge ;
+La situation d'évaluation certificative se décompose comme suit :
 
-- sécurise tous les publics en cas d'incident ou d'accident lié à l'hygiène ;
+1° Démonstration d'aisance technique en réalisant :
 
-- applique les protocoles d'intervention en cas d'incident ou d'accident liés à l'hygiène.
+-un 100 mètres dans les 4 nages enchaînées en moins de 1'50 s
 
-5. L'éducateur(trice) sportif(ve) participe au fonctionnement de la structure :
+-un 400 mètres nage libre en moins de 7 minutes
 
-5.1. Il/elle participe à l'accueil, l'information et l'orientation dans la structure, il/elle :
+2° Mise en situation professionnelle/
 
-- accueille un public diversifié ;
+Encadrement d'une séance d'activités aquatiques portant sur :
 
-- renseigne le public sur le fonctionnement de la structure ;
+-forme
 
-- prend en compte les caractéristiques de tous les publics pour les orienter ;
+-santé
 
-- oriente le public en fonction de ses attentes et ses demandes ;
+-bien être
 
-- conseille tous les publics sur l'utilisation du matériel mis à sa disposition ;
+La séance est suivie d'un entretien portant sur les activités de forme, santé et bien-être.
 
-- peut être amené(e) à participer à l'accueil physique et téléphonique dans le respect du code du sport.
+3° Une épreuve écrite portant sur les règles d'hygiène et de sécurité ainsi que sur la règlementation des activités aquatiques et de la natation :
 
-5.2 Il/elle participe à la communication et à la promotion de la structure, il/elle :
+a) Un questionnaire à choix multiple (QCM)
 
-- participe à la communication et à la promotion des activités de la structure ;
+b) Une question ouverte |
 
-- participe à l'organisation d'animations événementielles au sein de la structure ;
+Le candidat :
 
-- participe à la communication interne et externe de la structure ;
+-Maîtrise les gestes techniques et les conduites professionnelles, pour l'encadrement d'activités à visée d'acquisition de l'aisance aquatique, d'éveil, de découverte, d'apprentissages, de sécurité, de loisirs, de forme, de santé, de bien-être
 
-- utilise différents outils de communication ;
+-Maîtrise le cadre réglementaire et son application pour la surveillance et la pratique des activités aquatiques et de la natation, dans le cadre d'activités à visée d'acquisition de l'aisance aquatique, de découverte, d'apprentissages, de sécurité, de loisirs, de forme, de santé et de bien-être,
 
-- peut être amené(e) à participer à la conception d'outils de communication.
+-Utilise les gestes techniques appropriés dans le cadre d'activités à visée d'acquisition de l'aisance aquatique, d'éveil, de découverte, d'apprentissages, de sécurité, de loisirs, de forme, de santé, de bien-être
 
-5.3 Il/elle participe à la gestion administrative, il/elle :
+-Adapte les techniques en fonction des publics en argumentant ses choix par des connaissances
 
-- participe au suivi administratif de son action ;
+-Sensibilise le public dont il a la charge aux enjeux et aux règles de sécurité spécifiques au milieu aquatique
 
-- renseigne les documents administratifs mis à sa disposition ;
+-Assure la sécurité des pratiquants dont il a la charge
 
-- assure la veille juridique de son activité ;
+-Définit les moyens à mettre en œuvre pour assurer la sécurité de la pratique et des lieux de pratique
 
-- utilise l'outil informatique dans le cadre de sa participation à la gestion administrative de son action ;
+-Prend en compte les moyens matériels et humains dont il dispose dans le cadre de son action
 
-- réalise les démarches administratives nécessaires au déplacement ou séjour de mineurs ;
+-S'assure de la présence et du bon fonctionnement du matériel de sécurité
 
-- assure le suivi administratif des groupes dont il a la charge ;
+-Gère l'aménagement de l'espace pour garantir la sécurité des pratiques
 
-- peut être amené(e) à réaliser une inscription ;
+-Identifie les dangers et risques en présence ;
 
-- peut être amené(e) à délivrer une pièce administrative.
+-Evalue et prévient les risques liés à l'activité, aux personnes, à l'environnement
 
-5.4 Il/elle participe à l'organisation des activités de la structure, il/elle :
+-Maîtrise les règlements et usages et le respect de leur application dans le cadre des activités aquatiques et de la natation dans le domaine de l'hygiène et du traitement de l'air et de l'eau
 
-- participe à la définition des objectifs du projet de la structure ;
+-Décèle les anomalies relatives à la qualité physico-chimique de l'eau et qualité de l'air dans son environnement de pratique
 
-- participe à la programmation et la planification des activités de la structure ;
+-Sécurise tous les publics en cas d'incident ou d'accident lié à l'hygiène et applique les protocoles d'intervention
 
-- participe aux réunions de travail au sein de l'équipe pédagogique ;
+-Décide de la conduite à tenir en fonction des résultats des contrôles et des dysfonctionnements ou anomalies constatés
 
-- s'informe régulièrement des évolutions de son activité ;
+-Prend des dispositions pour assurer la sécurité des usagers dans le domaine de l'hygiène
 
-- fait des propositions sur les besoins d'achat en matériel ;
+-Mobilise de façon adaptée des connaissances liées à l'utilisation des produits d'entretien et d'hygiène spécifiques
 
-- participe à l'élaboration du POSS, du plan de sécurité ou de secours ;
+-Prend en compte les dangers spécifiques liés aux activités en milieu artificiel ou naturel
 
-- participe à l'élaboration du règlement intérieur de la structure ;
+-Mobilise ses connaissances en matière de faune et de flore en milieu naturel
 
-- peut être amené(e) à animer des activités physiques, dans les limites des cadres réglementaires, au sein de sa structure d'emploi ;
+-Prend en compte les conditions météorologiques pour assurer la sécurité des personnes
 
-- peut être amené(e) à participer aux jurys du ministère chargé des sports dans son champ de compétences et à être tuteur.
+-Sensibilise aux bonnes pratiques et aux conduites à risque
 
-5.5 Il/elle gère le matériel nécessaire à la mise en œuvre des moyens technologiques pour le maintien de l'hygiène d'un lieu de pratique dans le respect du code du sport, il/elle :
+-Propose des éléments contribuant à la rédaction du plan d'organisation de la surveillance et des secours (POSS)
 
-- contrôle la qualité physico-chimique de l'eau et de l'air ;
+-S'intègre dans le dispositif d'alerte, dans le POSS, le plan de sécurité ou de secours établi
 
-- repère tout disfonctionnement et anomalies ;
+-Propose des simulations d'incident ou d'accident liées à la sécurité des pratiquants
 
-- effectue les contrôles d'hygiène et sanitaires quotidiens ;
+-Fait respecter les consignes de sa hiérarchie
 
-- connaît l'ensemble des produits d'entretien et d'hygiène spécifiques de façon adaptée ;
+-Se positionne dans une chaine de secours et dans une équipe de surveillance
 
-- définit les besoins d'achat en matériel ;
+-Met en œuvre les techniques de surveillance appropriées à la sécurité ;
 
-- vérifie l'application des règles et normes pour l'utilisation du matériel ;
+-Evalue les risques liés à la zone de surveillance
 
-- tient à jour les documents administratifs liés au maintien de l'hygiène ;
+-Utilise des moyens de signalisation et de balisage
 
-- peut assurer le traitement de l'air et de l'eau notamment lorsqu'il/elle surveille seul le bassin ;
+-Porte une tenue adaptée, lui permettant d'être immédiatement identifiable ;
 
-- peut être amené(e) à assurer la régulation des paramètres et du confort des usagers notamment lorsqu'il/elle surveille seul(e) le bassin.
+-Définit les démarches administratives nécessaires au déplacement ou séjour de mineurs ;
+
+-Définit le suivi administratif des groupes dont il a la charge |
+
+NOTA :
+
+Conformément au II de l’article 10 de l’arrêté du 29 juillet 2021, ces dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date d'entrée en vigueur dudit arrêté.
