@@ -20,6 +20,14 @@ Conditions complémentaires à satisfaire par tout titulaire d'un diplôme, d'un
 
 Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 8. |
 
+2. Certificat de patron de navire aux cultures marines niveau 1 et certificat de patron de navire aux cultures marines niveau 2 délivré conformément à l'arrêté du 30 mai 2016 relatif à la délivrance des certificats d'aptitude permettant d'exercer des fonctions sur les navires armés aux cultures marines ou prévus dans le décret n° 2007-1377 du 21 septembre 2007 portant diverses dispositions relatives aux titres de formation professionnelle maritime. |
+
+Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 8.
+
+La présentation des attestations citées aux 1 et 2 du 3° de l'article 4 de l'arrêté du 30 mai 2016 mentionné ci-contre permet de satisfaire à la condition fixée au 4° de l'article 8.
+
+|
+
 Tableau 2 - Diplômes, attestations ou titres reconnus pour la délivrance du brevet d'aptitude à la conduite de petits navires et les conditions à satisfaire à cet effet.
 
 DIPLÔMES, ATTESTATIONS OU TITRES RECONNUS POUR LA DÉLIVRANCE DU BREVET D'APTITUDE À LA CONDUITE DE PETITS NAVIRES
@@ -68,13 +76,13 @@ Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 14. |
 
 14. Brevet restreint d'aptitude à la conduite de petits navires délivré conformément au présent arrêté. |
 
-Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 14. Le module RN est réputé acquis. |
+Satisfaire aux conditions fixées aux 1° à 5° de l'article 14. Le module RN est réputé acquis. |
 
 15. Diplôme, autre que ceux mentionnés dans le présent tableau, reconnu pour la délivrance d'un brevet pour exercer des fonctions au niveau de direction ou au niveau opérationnel au pont. |
 
 Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 14. |
 
-16. Brevet permettant d'exercer des fonctions au niveau de direction ou au niveau opérationnel au service pont à bord des navires armés au commerce, à la plaisance ou à la pêche lorsque le brevet ne permet pas d'exercer les prérogatives associées au brevet d'aptitude à la conduite de petits navires concerné dans les conditions du tableau IX de l'annexe II du décret n° 2015-723 du 24 juin 2015 susvisé. |
+16. Brevet ou certificat permettant d'exercer des fonctions au niveau de direction ou au niveau opérationnel au service pont à bord des navires armés au commerce, à la plaisance, à la pêche ou aux cultures marines lorsque le brevet ou le certificat ne permet pas d'exercer les prérogatives associées au brevet d'aptitude à la conduite de petits navires concerné dans les conditions du tableau IX de l'annexe II du décret n° 2015-723 du 24 juin 2015 susvisé. |
 
 Tableau 3 - Diplômes, attestations ou titres reconnus pour la délivrance du brevet d'aptitude à la conduite de petits navires à voile et les conditions à satisfaire à cet effet.
 
@@ -94,4 +102,4 @@ Conditions complémentaires à satisfaire par tout titulaire d'un diplôme, d'un
 
 1. Diplôme de capitaine 200 et attestation d'acquisition du module voile |
 
-Satisfaire aux conditions fixées aux 1°, 2° et 4° de l'article 20. |
+Satisfaire aux conditions fixées aux 1°, 2°, 4° et 5° de l'article 20. |
