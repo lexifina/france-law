@@ -682,9 +682,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
 
 BP JEPS, spécialité " activités équestres ", mention " équitation western ", délivré jusqu'au 31 décembre 2020. |
 
-Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western.
-
-|
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres. Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western. |
 
 |
 
@@ -847,6 +845,12 @@ Animateur assistant d'équitation délivré jusqu'au 3 mars 2020 |
 Découverte et initiation des activités équestres |
 
 Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres |
+
+Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021 |
+
+Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés. |
+
+|
 
 E.-Certificats de qualification délivrés par les branches professionnelles
 
@@ -1249,5 +1253,17 @@ CQP " animateur de course d'orientation ", délivré jusqu'au 7 mai 2021.
 |
 
 Animation et initiation des activités de course d'orientation. |
+
+|
+
+CQP "moniteur en sport adapté", délivré jusqu'au 7 juin 2021 |
+
+Encadrement des activités en sport adapté aux personnes en situation de handicap mental ou psychique. |
+
+|
+
+CQP “moniteur de rugby à XV", délivré jusqu'au 7 juin 2021 |
+
+Animation des activités de rugby à XV à des fins de découverte et d'initiation. Encadrement des activités de rugby à XV dans les catégories d'âge des écoles de rugby (7 à 15 ans). |
 
 |
