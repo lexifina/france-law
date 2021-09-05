@@ -134,6 +134,36 @@ Encadrement et coordination des activités physiques ou sportives. |
 
 A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
 
+Adjoint éducateur sportif opérationnel délivré jusqu'au 17 juillet 2025.
+
+|
+
+3 |
+
+Animation des activités physiques ou sportives. |
+
+Sous le contrôle d'un titulaire de diplôme ou titre de niveau 4. |
+
+Éducateur sportif opérationnel délivré jusqu'au 16 juin 2025.
+
+|
+
+4 |
+
+Animation auprès de tout public des activités physiques ou sportives à des fins d'initiation, de découverte, de loisir, de développement et de maintien des capacités physiques individuelles. |
+
+Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
+
+Chef d'équipe éducateur sportif opérationnel délivré jusqu'au 17 juillet 2025.
+
+|
+
+5 |
+
+Encadrement et coordination des activités physiques ou sportives. |
+
+A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
+
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
 CQP " animateur de loisirs sportifs ", option " jeux sportifs et jeux d'opposition ", délivré jusqu'au 3 mars 2022. |
@@ -482,16 +512,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP moniteur en sport adapté , délivré jusqu'au 7 juin 2021. |
-
-|
-
-Encadrement des activités en sport adapté aux personnes en situation de handicap mental ou psychique. |
-
-|
-
 AÏKIDO, AÏKIBUDO
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -515,6 +535,26 @@ DES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
 
 |
+
+ARTS MARTIAUX MIXTES y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
+
+|
+
+CC " encadrer les arts martiaux mixtes " (MMA) " associé :
+
+-au BP JEPS, spécialité " éducDES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et disciplines associées " délivré jusqu'au 1er janvier 2024. ateur sportif ", mentions " activités de la savate ", " boxe ", " judo-jujitsu ", " karaté, wushu et disciplines associées ", " lutte et disciplines associées ", " sports de contact et disciplines associées "
+
+-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS spécialité "performance sportive ", mentions " boxe ", " boxe thaï-muay thaï ", " full contact ", " full contact-boxe américaine ", " judo-jujitsu ", " karaté et disciplines associées ", " kick-boxing ", " muay-thaï ", " lutte et disciplines associées "
+
+-au DES JEPS, spécialité " performance sportive ", mention " savate boxe française ".
+
+|
+
+|
+
+Encadrement et conduite de cycles d'initiation et d'apprentissage en arts martiaux mixtes. |
+
+Pour les titulaires du DE JEPS spécialité " perfectionnement sportif ", mention " judo-jujitsu ", sous réserve d'être titulaire du 2ème dan |
 
 ATHLÉTISME
 
@@ -1538,14 +1578,6 @@ Encadrement, découverte et initiation des activités équestres. |
 
 Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres. |
 
-Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021. |
-
-4 |
-
-Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés. |
-
-|
-
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres |
 
 CQP " enseignant animateur d'équitation ", délivré jusqu'au 21 décembre 2022. |
@@ -1802,7 +1834,9 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Titres à finalité professionnelle délivrés par la fédération française de football |
 
-Moniteur de football, délivré jusqu'au 7 juin 2021. |
+Moniteur de football, délivré jusqu'au 19 mai 2023.
+
+|
 
 4 |
 
@@ -1810,25 +1844,35 @@ Conduite de cycles d'apprentissage et entraînement de la pratique du football. 
 
 |
 
-Entraîneur de football, délivré jusqu'au 7 juin 2021. |
+Entraîneur de football, délivré jusqu'au 19 mai 2023. |
 
-5 |
+5
+
+|
 
 Entraînement en football. |
 
 |
 
-Entraîneur formateur de football, délivré jusqu'au 7 juin 2021. |
-
-6 |
-
-Encadrement et entraînement en football dans une structure de préformation ou de formation. |
+Entraîneur formateur de football, délivré jusqu'au 19 mai 2023.
 
 |
 
-Entraîneur professionnel de football, délivré jusqu'au 7 juin 2021. |
-
 6 |
+
+Encadrement et entraînement en football dans une structure de préformation ou de formation.
+
+|
+
+|
+
+Entraîneur professionnel de football, délivré jusqu'au 19 mai 2023.
+
+|
+
+6
+
+|
 
 Encadrement et entraînement en football, dans un club professionnel. |
 
@@ -3514,7 +3558,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'une formation de mise à niveau. |
 
-CC " plongée profonde et tutorat " associé au DE JEPS spécialité " perfectionnement sportif " mention " activités de plongée subaquatique ", délivré jusqu'au 1er janvier 2021. |
+CC “ plongée profonde et tutorat ” associé au DE JEPS spécialité “ perfectionnement sportif ” mention “ activités de plongée subaquatique ”. |
 
 |
 
@@ -3773,16 +3817,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 |
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur de rugby à XV ", délivré jusqu'au 7 juin 2021 |
-
-|
-
-Animation des activités de rugby à XV à des fins de découverte et d'initiation.
-
-Encadrement des activités de rugby à XV dans les catégories d'âge des écoles de rugby (7 à 15 ans). |
-
-|
 
 CQP " technicien sportif de rugby à XV ", délivré jusqu'au 21 juillet 2023. |
 
