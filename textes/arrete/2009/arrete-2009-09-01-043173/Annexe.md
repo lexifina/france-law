@@ -54,6 +54,12 @@ Commune de Châteaudun (n° 28088).
 
 Année au titre de laquelle la commune est reconnue en application du 2° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2016.
 
+Zone d'emploi 2020 de Châteaudun (n° 2404)
+
+Année au titre de laquelle les communes sont reconnues en application du 1° du 3 ter de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée : 2021.
+
+Liste des communes : 28005 Alluyes ; 28012 Commune nouvelle d'Arrou ; 28016 Les Autels-Villevillon ; 28027 La Bazoche-Gouet ; 28028 Bazoches-en-Dunois ; 28051 Bonneval ; 28061 Brou ; 28065 Bullainville ; 28075 La Chapelle-du-Noyer ; 28078 Chapelle-Guillaume ; 28079 Chapelle-Royale ; 28088 Châteaudun ; 28103 Cloyes-les-Trois-Rivières ; 28106 Conie-Molitard ; 28108 Cormainville ; 28114 Courbehaye ; 28123 Dampierre-sous-Brou ; 28126 Dancy ; 28127 Dangeau ; 28132 Donnemain-Saint-Mamès ; 28153 Flacey ; 28157 Fontenay-sur-Conie ; 28161 Frazé ; 28182 Gohory ; 28198 Jallans ; 28211 Logron ; 28233 Marboué ; 28256 Moléans ; 28259 Montboissier ; 28260 Montharville ; 28270 Moriers ; 28272 Mottereau ; 28273 Moulhard ; 28277 Neuvy-en-Dunois ; 28283 Nottonville ; 28287 Orgères-en-Beauce ; 28305 Pré-Saint-Évroult ; 28306 Pré-Saint-Martin ; 28329 Saint-Christophe ; 28330 Villemaury ; 28334 Saint-Denis-Lanneray ; 28353 Saint-Maur-sur-le-Loir ; 28364 Sancheville ; 28370 Saumeray ; 28389 Thiville ; 28396 Trizay-lès-Bonneval ; 28398 Unverre ; 28400 Varize ; 28409 Vieuvicq ; 28410 Villampuy ; 28418 Villiers-Saint-Orien ; 28424 Yèvres ; 41022 Bouffry ; 41026 Brévainville ; 41075 Droué ; 41089 La Fontenelle ; 41096 Le Gault-du-Perche ; 41141 Moisy ; 41172 Ouzouer-le-Doyen ; 41179 Le Poislay ; 41196 Ruan-sur-Egvonne ; 41216 Saint-Jean-Froidmentel ; 41277 Villebout.
+
 Indre
 
 Zone d'emploi de Châteauroux (n° 2431)
