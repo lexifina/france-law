@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723546
+
+- Question : [SEQ210723546](seq210723546.md) — Vols de ruches
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-09-09, page 5251*
+
+Le phénomène des vols de ruches présente une sensibilité toute particulière, au regard du double préjudice subi par les exploitations apicoles. En effet, non seulement les apiculteurs concernés souffrent de la soustraction frauduleuse de leur outil de production et de leur matériel d'élevage, mais encore ils font ensuite face à la perte de production de miels consécutive à ces vols. Le coût en hausse des essaims et les épisodes de mortalité offrent aux délinquants des motivations supplémentaires, en particulier dans des zones isolées où leur action est facilitée par la rareté des témoins. Face à cette situation, les réponses sont d'abord assurantielle et organisationnelle. Le ministère de l'agriculture et de l'alimentation invite les apiculteurs à souscrire une assurance contre le vol de ruches, et à en étudier les garanties avec les assureurs, pour qu'elles puissent couvrir au mieux les préjudices pouvant être subis. Les initiatives visant à prévenir le vol par l'équipement des ruches avec du matériel permettant de les tracer et de les identifier sont également à encourager. Le ministère de l'agriculture et de l'alimentation précise que le vol de ruches représente un délit. Comme tout vol, il est susceptible d'une qualification pénale au titre de l'article 311-3 du code pénal. Les contrevenants risquent une peine pouvant aller jusqu'à trois ans d'emprisonnement et 45 000 euros d'amende, peine pouvant être alourdie au regard des circonstances dans lesquelles le vol a été commis. Le ministère de l'agriculture et de l'alimentation incite donc fortement les apiculteurs victimes d'un tel vol à le déclarer sans délai aux services compétents, pour que les suites adaptées puissent y être données.
