@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321787
+
+- Question : [SEQ210321787](seq210321787.md) — Accélération de la stratégie vaccinale
+
+## Réponse
+
+*Solidarités et santé, JO du 2021-09-09, page 5290*
+
+Les mois d'avril et de mai constituent une séquence d'accélération dans la stratégie de vaccination. A la mi-mai 2021, 20 millions de primo-injections ont été réalisées. Le gouvernement intensifie sa campagne vaccinale pour atteindre l'objectif intermédiaire de vacciner 30 millions de personnes à la mi-juin, en ouvrant l'accès au vaccin à tous les adultes dès le 31 mai. Pour accompagner cette accélération du calendrier vaccinal, des centres de vaccination ont été créés ou agrandis. Les préfets et les directeurs généraux des Agences régionales de santé (ARS) ont ainsi élaboré des plans départementaux d'organisation de la campagne de vaccination au début du mois d'avril afin de mobiliser et éventuellement renforcer localement les capacités de vaccination existantes. Certains départements densément peuplés disposent désormais d'au moins 2 grands centres (> 1 000 injections/jours). S'agissant de l'armement et de la sécurité de ces centres, certains restent dirigés et gérés par le Préfet et le directeur de l'ARS selon le mode de gestion originelle. Ces derniers assurent la mise en œuvre de la sécurité de ces centres. En outre, dans le cadre de l'opération Résilience, des grands centres militaires de vaccination fonctionnent avec le concours du ministère des armées. Les militaires déployés y assurent notamment des missions de logistique et d'organisation. Par ailleurs, dans d'autres centres de vaccination, ce sont les sapeurs-pompiers ou encore l'Assurance maladie qui sont chargés d'assurer une gestion conjointe avec l'ARS. Ainsi, dans la définition d'un schéma opérationnel d'organisation, le ministère des solidarités et de la santé a mobilisé divers acteurs afin d'adapter la vaccination à l'offre existante et assurer un maillage territorial efficace.
