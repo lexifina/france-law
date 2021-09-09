@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220533
+
+- Question : [SEQ210220533](seq210220533.md) — Décharge de munitions militaires à Saint-Martin de Crau
+
+## Réponse
+
+*Armées, JO du 2021-09-09, page 5256*
+
+Le terrain de La Carougnade à Saint-Martin-de-Crau est un terrain privé, ancien site de la Société industrielle de munitions et de travaux (SIMT), avec laquelle les armées avaient passé un contrat pour la destruction de leurs munitions. Cette société, défaillante et mise en liquidation judiciaire, est responsable de la pollution aujourd'hui constatée. L'intervention des services de l'État, en substitution, est désormais coordonnée par la préfecture : la sécurité civile, relevant du ministère de l'intérieur, pour les opérations de dépollution pyrotechnique, l'ADEME, opérateur du ministère de la transition écologique, pour la mise en sécurité du site et la gendarmerie, pour la surveillance. Le ministère des armées apporte son concours à la sécurité civile, en mettant à sa disposition des moyens humains et matériels et des créneaux d'utilisation d'installations militaires pour la destruction des munitions évacuées au fur et à mesure. Le camp de Canjuers a ainsi été mis à contribution et, depuis 2017, celui de Captieux en Gironde. Par la suite, en mai 2019, il a été établi que la suite des opérations de dépollution consisterait à traiter les obus au phosphore immergés sur site. Ces obus ne pourront pas être transportés et devront être traités sur place. La gestion des obus au phosphore étant plus complexe et spécifique que celle des munitions conventionnelles, l'ampleur de ce chantier est significative. Le ministère des armées continuera, autant que possible, à apporter son appui matériel à la sécurité civile en mobilisant, à ses côtés, des spécialistes en déminage, des moyens matériels (moyens de transports, engins de chantier) ou encore des créneaux d'utilisation des installations de stockage et de destruction de munitions du ministère.
