@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422125
+
+- Question : [SEQ210422125](seq210422125.md) — Schéma de vaccination contre la Covid-19 par les pharmaciens dans les territoires ruraux
+
+## Réponse
+
+*Solidarités et santé, JO du 2021-09-09, page 5291*
+
+Suivant les recommandations de la Haute autorité de santé (HAS) formulées dans ses avis du 2 février et du 4 mars 2021, le décret n° 2021-248 du 4 mars 2021, modifiant les décrets n° 2020-1262 du 16 octobre 2020 et n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de l'état d'urgence sanitaire, autorise les pharmaciens d'officine, des pharmacies mutualistes et de secours minières à prescrire et administrer tous les vaccins disponibles contre la Covid-19. Il n'a pas été décidé de réserver la compétence vaccinale des pharmaciens au vaccin AstraZeneca, mais celui-ci était à l'origine le seul disponible à la commande pour vacciner en officine. La commande de ville a progressivement été abondée en vaccins Janssen à partir du 12 avril, puis Moderna, vaccin à ARN messager, à partir du 17 mai. Cette intégration des pharmaciens a permis d'élargir le périmètre des effecteurs aux pharmaciens et infirmiers libéraux. En outre, le décret du 26 mars a ensuite autorisé les pharmaciens exerçant dans une pharmacie à usage intérieur, dans un laboratoire de biologie médicale et dans les pharmacies à usage intérieur du service d'incendie et de secours, dans le bataillon des marins-pompiers de Marseille ou dans la brigade des sapeurs-pompiers de Paris à prescrire et à administrer tous vaccins disponibles contre la Covid-19, dans le cadre des centres de vaccination et à la condition d'être formés en conformité avec les objectifs pédagogiques prévus pour la formation des pharmaciens d'officine.
