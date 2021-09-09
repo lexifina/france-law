@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623421
+
+- Question : [SEQ210623421](seq210623421.md) — Lutter contre la présence de polystyrène expansé dans l'environnement
+
+## Réponse
+
+*Transition écologique, JO du 2021-09-09, page 5305*
+
+L'usage massif du polystyrène expansé sans procédé de collecte et de recyclage est de nature à générer des impacts environnementaux forts. Les outils réglementaires d'interdiction doivent relever prioritairement du niveau européen. C'est la raison pour laquelle la France a soutenu, avec succès, l'adoption d'une première réglementation d'interdiction concernant les boîtes (notamment utilisées pour la restauration à emporter). L'opportunité de mesures complémentaires a été débattue à l'occasion de l'examen par le Parlement du projet de loi qui a conduit à loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets. Il a ainsi été décidé qu'à compter du 1er janvier 2025, les emballages constitués pour tout ou partie de polymères ou de copolymères styréniques, non recyclables et dans l'incapacité d'intégrer une filière de recyclage, sont interdits. Cette mesure, ainsi que les incitations qui peuvent être mises en place par les éco-organismes de la filière à responsabilité élargie des producteurs des emballages ménagers conduira les acteurs économiques à renoncer au polystyrène ou à mettre en place des filières de recyclage pour les usages résiduels. Les acteurs économiques, lors de l'examen du projet de loi au Parlement, ont fait part de leurs engagements en ce sens. Dans le domaine du bâtiment, une nouvelle filière à responsabilité élargie des producteurs se mettre en place à partir de 2022 et pourra mettre en œuvre les mesures d'incitation d'une part, et de gestion des déchets de polystyrène d'autre part, qui sont les plus appropriées.
