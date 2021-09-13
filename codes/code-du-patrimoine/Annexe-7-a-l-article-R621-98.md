@@ -213,3 +213,59 @@ Etat |
 Le domaine national du Palais du Rhin comprend en outre les éléments non cadastrés suivants :
 
 - avant-corps de la façade du Palais, avec son perron, ses emmarchements et ses rampes d'accès sur la place de la République.
+
+7° Palais de la Cité (Paris Ier) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+- liste des parcelles :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+8° Domaine du Palais-Royal (Paris Ier) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+- liste des parcelles :
+
+Nota. – En cas d’inclusion partielle d’une parcelle au domaine national, l’emprise incluse non bornée au sein de la parcelle est désignée dans le tableau ci-après en lieu et place de la contenance.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+9° Château de Vincennes (Val-de-Marne et Paris XIIe) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+- liste des parcelles :
+
+Nota. – En cas d’inclusion dans le domaine national d’un espace non cadastré relevant du domaine public de l’Etat ou d’une collectivité territoriale, la désignation de l’espace est reportée dans le tableau ci-après en lieu et place de la contenance.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+10° Château de Coucy (Aisne) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+- liste des parcelles :
+
+Nota. – En cas d’inclusion partielle d’une parcelle dans le domaine national, la contenance retenue dans le domaine national figure en rouge dans le tableau ci-après, sous la contenance totale de la parcelle concernée (parcelle C9). Pour les espaces non cadastrés intégrés dans le domaine national, leur désignation figure en lieu et place de la contenance.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+11° Château de Pierrefonds (Oise) :
+
+- carte :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
+
+- Liste des parcelles :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0213 du 12 septembre 2021, texte n° 7, accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=5oIhWfpRZdg0jFfX7gfl7RMDPYFz4ZIey5WmXlXIHPY=
