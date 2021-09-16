@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321780
+
+- Question : [SEQ210321780](seq210321780.md) — Développement d'une politique des produits pharmaceutiques matures
+
+## Réponse
+
+*Industrie, JO du 2021-09-16, page 5370*
+
+Le Gouvernement salue la mobilisation du laboratoire UPSA depuis la première vague de la crise sanitaire, participant à la préservation de la continuité de l'accès aux soins des patients malgré les tensions d'approvisionnement auxquelles l'entreprise était confrontée. UPSA participe également au projet de relocalisation du principe actif du paracétamol, mené conjointement avec le chimiste Seqens et le laboratoire Sanofi, confirmé le 29 juin dernier. Afin de soutenir les investissements industriels dont les produits matures, le nouvel accord-cadre CEPS-LEEM (les entreprises du médicament), signé le 5 mars 2021, prend désormais explicitement en compte les considérations de politique industrielle. Pour la première fois, un chapitre entier est dédié aux mesures d'attractivité encourageant les investissements en production industrielle, solutions numériques et R&D. Le Gouvernement veille aussi à adapter le cadre dans lequel les entreprises du médicament réalisent leur activité afin qu'il soit plus attractif. Le Conseil stratégique des industries de santé (CSIS) a abouti à un "plan innovation santé 2030" annoncé le 29 juin dernier par le Président de la République et représente plus de 7Md d'euros. Il a notamment pour ambition de soutenir l'industrialisation des produits de santé dans le prolongement des objectifs de relocalisation des sites de production poursuivis dans le cadre de « France Relance ». De nombreux mécanismes d'aides ont effectivement été élaborés et déployés par le Gouvernement depuis juin 2020 pour soutenir l'écosystème industriel en santé à l'image de l'appel à manifestation d'intérêt « Capacity building » et de l'appel à projets « Résilience ».
