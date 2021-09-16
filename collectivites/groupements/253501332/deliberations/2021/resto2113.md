@@ -1,0 +1,9 @@
+# SI DE REGROUPEMENT SCOLAIRE DES ETABLISSEMENTS D'ENSEIGNEMENT PRIVES DE BILLE, COMBOURTILLE, PARCE : délibération RESTO2113 — ACTIVITE TEMPORAIRE
+
+- Collectivité : SI DE REGROUPEMENT SCOLAIRE DES ETABLISSEMENTS D'ENSEIGNEMENT PRIVES DE BILLE, COMBOURTILLE, PARCE
+- SIRET : 25350133200014
+- Date : 2021-09-16
+- Matière : 4.2 Fonction publique/Personnel contractuel
+- Objet : ACTIVITE TEMPORAIRE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/253501332/Deliberation/2021/123761/55b0a9d0be1120485e7245189f41e6a8af7c94cbd74f2d61db398653cd0d37bd.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
