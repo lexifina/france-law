@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623352
+
+- Question : [SEQ210623352](seq210623352.md) — Établissements d'abattage non agrées
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-09-16, page 5366*
+
+La dérogation européenne permettant aux établissements d'abattage non agréés (EANA) de transformer leurs produits sans agrément sanitaire a pris fin au 31 décembre 2020. Le Gouvernement n'ignorait pas l'impact majeur qu'aurait pu avoir une telle évolution sur l'activité des EANA qui sont nombreux à transformer leurs produits. Les autorités françaises ont interpellé fin 2019 la Commission européenne pour que le cas particulier de ces établissements puisse être pris en compte, particulièrement à un moment où la pandémie de covid-19 impactait les entreprises agricoles et agroalimentaires françaises. Le ministre de l'agriculture et de l'alimentation a porté le sujet dans les enceintes européennes et notamment auprès de la Commissaire chargée de la santé. Après le refus de la Commission européenne exprimé en début d'année, le Gouvernement a entrepris de nouvelles démarches auprès du Parlement européen pour justifier le bien-fondé de la pérennisation de l'activité de transformation dans les EANA. Cette démarche fut bénéfique puisqu'une adaptation législative est désormais engagée et aboutira avant la fin d'année. Ainsi, la dérogation qui était autorisée par le règlement 2017/185 sera pérennisée par modification du règlement 853/2004. Dans l'attente, des dispositions nationales ont été prises pour permettre aux établissements concernés de poursuivre leur activité. Ces établissements participent à la richesse et à la diversité gastronomique des régions françaises ainsi qu'à l'ancrage territorial de l'alimentation. Le ministère de l'agriculture et de l'alimentation est attaché au maintien de la valorisation de produits frais et locaux dans les exploitations agricoles et donc à ce que ces établissements puissent continuer leur activité de transformation.
