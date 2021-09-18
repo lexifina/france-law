@@ -6,65 +6,65 @@ Pour les ergothérapeutes :
 
 Liste indicative et non exhaustive d'outils pouvant être utilisés pour l'évaluation des besoins de l'enfant dans la réalisation des activités de la vie quotidienne en lien avec leur développement sensori-moteur, sensoriel et cognitif réalisé par les ergothérapeutes à destination des enfants de 0 à 6 ans révolus.
 
-- MCRO - Mesure Canadienne de Rendement Occupationnel
+-MCRO-Mesure Canadienne de Rendement Occupationnel
 
-- PACS (Pediatric Activity Card Sort)
+-PACS (Pediatric Activity Card Sort)
 
-- OT'hope (Outil thérapeutique pour l'autodétermination d'objectifs pédiatriques en ergothérapie)
+-OT'hope (Outil thérapeutique pour l'autodétermination d'objectifs pédiatriques en ergothérapie)
 
-- PQRS
+-PQRS
 
-- MHAVIE (mesure des habitudes de vie)
+-MHAVIE (mesure des habitudes de vie)
 
-- AMPS (Assessment of Motor and Process Skills)
+-AMPS (Assessment of Motor and Process Skills)
 
-- Batterie Talbot
+-Batterie Talbot
 
-- Evaluation du Comportement Ludique de l'enfant
+-Evaluation du Comportement Ludique de l'enfant
 
-- Profil sensoriel (W.Dunn)
+-Profil sensoriel (W. Dunn)
 
-- Vineland II
+-Vineland II
 
-- PEDS-QL (Pediatric Quality of Life Inventory)
+-PEDS-QL (Pediatric Quality of Life Inventory)
 
-- M-ABC et MABC2
+-M-ABC et MABC2
 
-- NP-MOT (Batterie d'évaluation des fonctions neuro-psychomotrices de l'enfant)
+-NP-MOT (Batterie d'évaluation des fonctions neuro-psychomotrices de l'enfant)
 
-- MAP Miller (Assesment for Preschoolers)
+-MAP Miller (Assesment for Preschoolers)
 
-- Peabody, PDMS2
+-Peabody, PDMS2
 
 Outils pour fonctions cognitives
 
-- Beery VMI
+-Beery VMI
 
-- DTVP2 et 3
+-DTVP2 et 3
 
-- NEPSY 1 et 2
+-NEPSY 1 et 2
 
-- Figure de Rey
+-Figure de Rey
 
-- TIHM (Test in-Hand Manipulation)
+-TIHM (Test in-Hand Manipulation)
 
-- Dessin du bonhomme
+-Dessin du bonhomme
 
-- BHK
+-BHK
 
 Evaluations plus spécifiquement motrices
 
-- Mini-CHEQ
+-Mini-CHEQ
 
-- Kids-AHA
+-Kids-AHA
 
-- Mini AHA
+-Mini AHA
 
-- HAI (Hand Assessment in Infants)
+-HAI (Hand Assessment in Infants)
 
-- BHA
+-BHA
 
-- Evaluation clinique factorielle
+-Evaluation clinique factorielle
 
 La liste des outils a été établie à titre indicatif par les représentants des professionnels concernés.
 
@@ -72,59 +72,59 @@ Pour les psychomotriciens :
 
 Liste indicative et non exhaustive d'outils d'évaluation pouvant être utilisés pour le bilan psychomoteur comportant un examen du développement sensorimoteur réalisé par les psychomotriciens à destination des enfants de 0 à 6 ans révolus.
 
-- BL-R & BL-C - Echelles de développement : psychomoteur de la première enfance Brunet Lézine Révisé et épreuves complémentaires
+-BL-R & BL-C-Echelles de développement : psychomoteur de la première enfance Brunet Lézine Révisé et épreuves complémentaires
 
-- NPMOT - Batterie d'évaluations des fonctions neuro-psychomotrices de l'enfant
+-NPMOT-Batterie d'évaluations des fonctions neuro-psychomotrices de l'enfant
 
-- DF-MOT - Développement fonctionnel moteur de 0 à 48 mois
+-DF-MOT-Développement fonctionnel moteur de 0 à 48 mois
 
-- SCHEMA CORPOREL-R - Epreuve de Schéma Corporel - Révisée
+-SCHEMA CORPOREL-R-Epreuve de Schéma Corporel-Révisée
 
-- EPSA - Echelle des Particularités Sensori-Psychomotrices dans l'Autisme
+-EPSA-Echelle des Particularités Sensori-Psychomotrices dans l'Autisme
 
-- Charlop-Atwell - Echelle de coordination motrice de l'enfant
+-Charlop-Atwell-Echelle de coordination motrice de l'enfant
 
-- MABC-2 - Batterie d'Evaluation des Mouvements chez l'enfant
+-MABC-2-Batterie d'Evaluation des Mouvements chez l'enfant
 
-- TGMD-2 - Test de développement de la motricité globale
+-TGMD-2-Test de développement de la motricité globale
 
-- BOT-2 - Test des compétences motrices de Bruininks-Oseretsky (normes américaines).
+-BOT-2-Test des compétences motrices de Bruininks-Oseretsky (normes américaines).
 
-- EMG - Evaluation de la motricité Gnosopraxique Distale
+-EMG-Evaluation de la motricité Gnosopraxique Distale
 
-- Profil Sensoriel De Dunn - Mesure de l'impact des troubles sensoriels de l'enfant sur sa vie quotidienne (2e édition existante mais uniquement aux normes canadiennes)
+-Profil Sensoriel De Dunn-Mesure de l'impact des troubles sensoriels de l'enfant sur sa vie quotidienne (2ème édition existante mais uniquement aux normes canadiennes)
 
-- PSP-R - Profils sensoriels et perceptifs révisés de Bogdashina (pas de normes)
+-PSP-R-Profils sensoriels et perceptifs révisés de Bogdashina (pas de normes)
 
-- REY - Test de la Figure complexe de Rey
+-REY-Test de la Figure complexe de Rey
 
-- DTVP-3 - Test du développement visuoperceptif-3e Ed (normes américaines)
+-DTVP-3-Test du développement visuoperceptif-3ème Ed (normes américaines)
 
-- FROSTIG - Test de développement de la perception visuelle
+-FROSTIG-Test de développement de la perception visuelle
 
-- NEPSY-II - Bilan neuropsychologique de l'enfant - 2e édition
+-NEPSY-II-Bilan neuropsychologique de l'enfant-2ème édition
 
-- TEACH - Test de l'évaluation de l'attention chez l'enfant.
+-TEACH-Test de l'évaluation de l'attention chez l'enfant.
 
-- LABY 5-12 - Test des labyrinthes pour les enfants
+-LABY 5-12-Test des labyrinthes pour les enfants
 
-- BHK - Echelle d'évaluation rapide de l'écriture chez l'enfant
+-BHK-Echelle d'évaluation rapide de l'écriture chez l'enfant
 
 Autres outils d'évaluation spécifique du trouble du spectre de l'autisme (TSA) utilisable par le psychomotricien :
 
-- ECA-R - Echelle des Comportements Autistiques Révisée
+-ECA-R-Echelle des Comportements Autistiques Révisée
 
-- ADOS-2 Toddler
+-ADOS-2 Toddler
 
-- CARS-2 - Echelle d'évaluation de l'autisme infantile
+-CARS-2-Echelle d'évaluation de l'autisme infantile
 
-- M-CHAT- R - Questionnaire de repérage des troubles autistiques chez le jeune enfant
+-M-CHAT-R-Questionnaire de repérage des troubles autistiques chez le jeune enfant
 
-- DDST - Échelle de Denver (dans le cadre de la réalisation d'un programme Denver)
+-DDST-Echelle de Denver (dans le cadre de la réalisation d'un programme Denver)
 
-- VINELAND 2 - Echelles de comportement adaptatif de Vineland - 2e édition
+-VINELAND 2-Echelles de comportement adaptatif de Vineland-2nde édition
 
-- EC2R - Echelle des Comportements Restreints et Répétitifs
+-EC2R-Echelle des Comportements Restreints et Répétitifs
 
 La liste des outils a été établie à titre indicatif par des représentants des professionnels concernés.
 
@@ -136,74 +136,74 @@ Outils non spécifiques
 
 Evaluation des comportements et de l'adaptation sociale
 
-- VINELAND 2, Echelles de comportement adaptatif de Vineland
+-VINELAND 2, Echelles de comportement adaptatif de Vineland
 
-- EQCA, Echelle Québécoise des Comportements adaptatifs
+-EQCA, Echelle Québécoise des Comportements adaptatifs
 
-- ECAA/ECHA, Echelle des conduites Auto Agressives (ECAA)/Echelle des conduites Hétéro Agressives (ECHA)
+-ECAA/ ECHA, Echelle des conduites Auto Agressives (ECAA)/ Echelle des conduites Hétéro Agressives (ECHA)
 
 Evaluation de développement et de l'efficience intellectuelle
 
-- BECS, Batterie d'Evaluation Cognitive et Socio-émotionnelle
+-BECS, Batterie d'Evaluation Cognitive et Socio-émotionnelle
 
-- EDEI-R, Echelles différentielles d'Efficience Intellectuelle
+-EDEI-R, Echelles différentielles d'Efficience Intellectuelle
 
-- K-ABC (K-ABC II), Batterie pour l'examen psychologique de l'enfant
+-K-ABC (K-ABC II), Batterie pour l'examen psychologique de l'enfant
 
-- WISC (WISC V), Echelle d'intelligence de Wechsler pour enfants et adolescents
+-WISC (WISC V), Echelle d'intelligence de Wechsler pour enfants et adolescents
 
-- WPPSI (WPPSI IV), Echelle d'intelligence de Wechsler pour enfants
+-WPPSI (WPPSI IV), Echelle d'intelligence de Wechsler pour enfants
 
 Evaluation de la communication
 
-- ECSP, Echelle d'évaluation de la communication sociale précoce
+-ECSP, Echelle d'évaluation de la communication sociale précoce
 
 Repérage et diagnostic des troubles autistiques
 
 Repérage précoce
 
-- CHAT & M-CHAT, Check-List for Autism in Toddlers
+-CHAT & M-CHAT, Check-List for Autism in Toddlers
 
-- SCQ, Questionnaire de Communication Sociale pour le dépistage des troubles du spectre autistique
+-SCQ, Questionnaire de Communication Sociale pour le dépistage des troubles du spectre autistique
 
-- SRS-Toddler
+-SRS-Toddler
 
 Outils de confirmation du diagnostic
 
-- ADOS-2 Toddler
+-ADOS-2 Toddler
 
-- ADI-R, Entretien semi-structuré pour le diagnostic de l'autisme
+-ADI-R, Entretien semi-structuré pour le diagnostic de l'autisme
 
-- AQ, Quotient du spectre autistique pour enfants 4-11 ans
+-AQ, Quotient du spectre autistique pour enfants 4-11 ans
 
 Evaluation des comportements et du développement des enfants avec troubles autistiques
 
 Evaluation des comportements autistiques
 
-- ECA-R/ECAN, Echelle d'évaluation des Comportements Autistiques : ECA, version révisée ECA-R, version adaptée avec nourrissons ECAN
+-ECA-R/ ECAN, Echelle d'évaluation des Comportements Autistiques : ECA, version révisée ECA-R, version adaptée avec nourrissons ECAN
 
-- EFC, Evaluation Fonctionnelle des Comportements
+-EFC, Evaluation Fonctionnelle des Comportements
 
 Evaluation développementales et fonctionnelles spécifiques
 
-- PEP, PEP-R, PEP 3, Psycho Educational Profil 3 (PEP-3), Profil Educatif Personnalisé
+-PEP, PEP-R, PEP 3, Psycho Educational Profil 3 (PEP-3), Profil Educatif Personnalisé
 
-- BECS, Batterie d'Evaluation Cognitive et Socio-émotionnelle
+-BECS, Batterie d'Evaluation Cognitive et Socio-émotionnelle
 
-- GRAM, Grille de la régulation de l'activité (Grille, Régulation, Adaptation, Modulation)
+-GRAM, Grille de la régulation de l'activité (Grille, Régulation, Adaptation, Modulation)
 
-- ECPV, Evaluation Résumée du Comportement Pré-Verbal
+-ECPV, Evaluation Résumée du Comportement Pré-Verbal
 
-- ERCP, Evaluation Résumée du Comportement Psychomoteur
+-ERCP, Evaluation Résumée du Comportement Psychomoteur
 
 Adaptation sociale et théorie de l'esprit
 
-- Echelle d'Adaptation Sociale pour Enfants
+-Echelle d'Adaptation Sociale pour Enfants
 
-- Batterie de taches de Théorie de l'esprit
+-Batterie de taches de Théorie de l'esprit
 
 Evaluation du stress perçu des parents et des professionnels
 
-- ALES, Appraisal of Life Event Scale
+-ALES, Appraisal of Life Event Scale
 
 La liste des outils a été établie à titre indicatif par des représentants des professionnels concernés.

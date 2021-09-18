@@ -4,11 +4,11 @@ Comptes rendus d'évaluation ou de bilan
 
 Pour les ergothérapeutes : structure rédactionnelle du compte rendu d'évaluation
 
-I. NATURE DE LA DEMANDE ET OBJET DE L'ÉVALUATION
+I. - NATURE DE LA DEMANDE ET OBJET DE L'ÉVALUATION
 
 - données administratives : nom, prénom, date de naissance, adresse, numéro de sécurité sociale
 
-- date de l'évaluation et nature de l'évaluation (initiale/d'évolution/de fin de parcours)
+- date de l'évaluation et nature de l'évaluation (initiale / d'évolution / de fin de parcours)
 
 - médecin prescripteur : nom du médecin ayant adressé l'enfant à la plateforme
 
@@ -20,7 +20,7 @@ I. NATURE DE LA DEMANDE ET OBJET DE L'ÉVALUATION
 
 - autre(s) évaluation(s) ou bilan(s) déjà réalisés : date de l'évaluation initiale s'il y a lieu et les autres bilans ou évaluations en la possession de l'évaluateur au moment de l'évaluation
 
-II. DESTINATAIRE(S) DU COMPTE RENDU DE BILAN
+II. - DESTINATAIRE(S) DU COMPTE RENDU DE BILAN
 
 - représentant(s) léga(ux)l de l'enfant
 
@@ -30,7 +30,7 @@ II. DESTINATAIRE(S) DU COMPTE RENDU DE BILAN
 
 - les autres professionnels de santé concernés
 
-III. ANAMNÈSE
+III. - ANAMNÈSE
 
 - antécédents personnels et familiaux
 
@@ -38,21 +38,21 @@ III. ANAMNÈSE
 
 - suivis et traitement en cours
 
-IV. SCOLARITÉ
+IV. - SCOLARITÉ
 
 - ou mode de garde pour les plus jeunes
 
-V. ENTRETIEN
+V. - ENTRETIEN
 
 - recueillir les informations pertinentes
 
 - comportement de l'enfant
 
-VI. TESTS UTILISÉS
+VI. - TESTS UTILISÉS
 
 Voir liste indicative annexe n° 2
 
-VII. ÉVALUATION
+VII. - ÉVALUATION
 
 a. domaines explorés
 
@@ -66,21 +66,21 @@ b. observations et outils d'évaluation normés et standardisés
 
 c. synthèse des observations et des tests et épreuves utilisés, interprétation et résultats
 
-VIII. DIAGNOSTIC ERGOTHÉRAPIQUE
+VIII. - DIAGNOSTIC ERGOTHÉRAPIQUE
 
 - mandat : répondre à la demande initiale reformulée en termes occupationnels
 
-- partie descriptive : précision sur les problèmes présents. Différents aspects, objectifs ou subjectifs, peuvent être étudiés (satisfaction, efficacité, effort, dépendance…). Les domaines d'occupations concernés sont indiqués, par exemple : soins personnels, activités productives, de loisirs, repos… La sévérité des problèmes occupationnels est appréciée : probable, léger, faible, modéré, marqué, important, massif, sévère, complet…
+- partie descriptive : précision sur les problèmes présents. Différents aspects, objectifs ou subjectifs, peuvent être étudiés (satisfaction, efficacité, effort, dépendance, …). Les domaines d'occupations concernés sont indiqués, par exemple : soins personnels, activités productives, de loisirs, repos… La sévérité des problèmes occupationnels est appréciée : probable, léger, faible, modéré, marqué, important, massif, sévère, complet…
 
 - partie explicative : identification des facteurs qui déterminent cet état occupationnel qui sont importants à prendre en compte au regard de l'intervention à venir et détermination des forces et des ressources dans le but de concevoir et d'atteindre les objectifs.
 
-IX. PROJET D'INTERVENTION PRÉCOCE EN ERGOTHÉRAPIE
+IX. - PROJET D'INTERVENTION PRÉCOCE EN ERGOTHÉRAPIE
 
 - détermination d'objectifs SMART
 
 - plan d'intervention : structure, nombre de séances
 
-X. PRÉCONISATIONS
+X. - PRÉCONISATIONS
 
 - aménagement
 
@@ -90,11 +90,11 @@ L'architecture rédactionnelle du compte rendu d'évaluation proposée est adapt
 
 Pour les psychomotriciens : structure rédactionnelle du compte-rendu de bilan
 
-I. NATURE DE LA DEMANDE ET OBJET DU BILAN
+I. - NATURE DE LA DEMANDE ET OBJET DU BILAN
 
 - données administratives : nom, prénom, date de naissance, adresse, numéro de sécurité sociale
 
-- date du bilan et nature du bilan (initial/d'évolution/de fin de parcours)
+- date du bilan et nature du bilan (initial / d'évolution / de fin de parcours)
 
 - médecin prescripteur : nom du médecin ayant adressé l'enfant à la plateforme
 
@@ -102,11 +102,11 @@ I. NATURE DE LA DEMANDE ET OBJET DU BILAN
 
 - date d'entrée dans le parcours de bilan et d'intervention précoce : indiquer ici la date de validation de la prescription initiale par un médecin de la plateforme
 
-- motif de la demande : indiquer le(s) symptôme(s) d'appel/pathologie(s) déjà diagnostiquée(s)
+- motif de la demande : indiquer le(s) symptôme(s) d'appel / pathologie(s) déjà diagnostiquée(s)
 
 - autre(s) bilan(s) déjà réalisés : indiquer la date du bilan initial s'il y a lieu et les autres bilans et évaluations en la possession de l'évaluateur au moment du bilan psychomoteur
 
-II. DESTINATAIRE(S) DU COMPTE RENDU DE BILAN
+II. - DESTINATAIRE(S) DU COMPTE RENDU DE BILAN
 
 - représentant(s) léga(ux)l de l'enfant
 
@@ -116,45 +116,45 @@ II. DESTINATAIRE(S) DU COMPTE RENDU DE BILAN
 
 - les autres professionnels de santé concernés
 
-III. ÉLÉMENTS D'ANAMNÈSE EN LIEN AVEC LE BILAN
+III. - ÉLÉMENTS D'ANAMNÈSE EN LIEN AVEC LE BILAN
 
 A remplir par l'évaluateur (port de verres correcteurs, déficit(s) sensoriel(s), retard dans certaines acquisitions motrices, difficulté dans des domaines précis de la scolarité/ dans la vie quotidienne, etc.)
 
-IV. TESTS UTILISÉS
+IV. - TESTS UTILISÉS
 
 Voir liste indicative annexe 2.
 
-V. EXAMEN PSYCHOMOTEUR
+V. - EXAMEN PSYCHOMOTEUR
 
 A organiser et remplir par l'évaluateur, détaille l'évaluation des différentes fonctions psychomotrices, se veut avant tout descriptif
 
-VI. OBSERVATIONS DIVERSES :
+VI. - OBSERVATIONS DIVERSES
 
 Appréciations plus subjectives sur les comportements du patient, son adaptation à la situation de bilan, sa qualité relationnelle, son rapport au corps
 
-VII. ANALYSE CLINIQUE
+VII. - ANALYSE CLINIQUE
 
 Il s'agit d'expliquer ici la compréhension qu'a l'évaluateur de la dynamique psychomotrice générale de l'enfant et de comment s'y exprime(nt) le(s) symptôme(s)
 
-VIII. PROJET THÉRAPEUTIQUE
+VIII. - PROJET THÉRAPEUTIQUE
 
 Type d'intervention(s) envisagée(s) et dans quel but, modalités de l'intervention (fréquence du suivi, individuel/groupal)
 
-IX. RECOMMANDATIONS
+IX. - RECOMMANDATIONS
 
 A remplir par l'évaluateur si cela est pertinent/adapté à la situation clinique. Doit comporter des conseils pratiques susceptibles d'aider l'entourage à mieux accompagner l'enfant face aux difficultés qu'il rencontre.
 
-X. TABLEAUX DE RÉSULTATS DES TESTS UTILISÉS
+X. - TABLEAUX DE RÉSULTATS DES TESTS UTILISÉS
 
 En préambule figure une explication sur les mesure dans un test (Qu'est-ce qu'une note standard, un écart type, etc.)
 
-XI. CONCLUSIONS DU BILAN
+XI. - CONCLUSIONS DU BILAN
 
 - Si bilan d'évolution ou de fin de traitement, comparaison avec le bilan initial
 
 - Fonctions psychomotrices touchées
 
-- Appréciation de l'aisance corporelle/relationnelle
+- Appréciation de l'aisance corporelle / relationnelle
 
 - Appréciation de l'exploitation ou non des compétences repérées
 
@@ -166,7 +166,7 @@ L'architecture rédactionnelle du compte rendu d'évaluation proposée est adapt
 
 Pour les psychologues : structure rédactionnelle du compte-rendu de l'évaluation et des tests complémentaires
 
-I. NATURE DE LA DEMANDE ET OBJET DE L'ÉVALUATION
+I. - NATURE DE LA DEMANDE ET OBJET DE L'ÉVALUATION
 
 - données administratives : nom, prénom, date de naissance, adresse, numéro de sécurité sociale
 
@@ -186,7 +186,7 @@ I. NATURE DE LA DEMANDE ET OBJET DE L'ÉVALUATION
 
 - autre(s) évaluations(s) ou bilan(s) psychologiques déjà réalisés : indiquer ici la date des autres bilans et évaluations en la possession de l'évaluateur au moment de l'évaluation
 
-II. DESTINATAIRE(S) DU COMPTE-RENDU DE BILAN
+II. - DESTINATAIRE(S) DU COMPTE-RENDU DE BILAN
 
 - représentant(s) léga(ux)l de l'enfant
 
@@ -194,19 +194,19 @@ II. DESTINATAIRE(S) DU COMPTE-RENDU DE BILAN
 
 - le médecin prescripteur
 
-III. ANAMNÈSE DEVELOPPEMENTALE
+III. - ANAMNÈSE DÉVELOPPEMENTALE
 
-IV. DESCRIPTION DES CONDITIONS DANS LESQUELLES LES CONSULTATIONS SE SONT DÉROULÉES
+IV. - DESCRIPTION DES CONDITIONS DANS LESQUELLES LES CONSULTATIONS SE SONT DÉROULÉES
 
 - attitude du/des sujet(s) vis-à-vis de la situation d'examen, des personnes présentes, de la relation établie avec le psychologue, vis-à-vis des tâches et épreuves proposées.
 
-V. ÉVALUATION CLINIQUE
+V. - ÉVALUATION CLINIQUE
 
-VI. SOURCE D'INFORMATION ET OUTILS UTILISÉS
+VI. - SOURCE D'INFORMATION ET OUTILS UTILISÉS
 
 Voir liste indicative annexe n° 2
 
-VII. DISCUSSION DES RÉSULTATS
+VII. - DISCUSSION DES RÉSULTATS
 
 - modalités éventuelles d'ajustement à la standardisation des épreuves
 
@@ -218,7 +218,7 @@ VII. DISCUSSION DES RÉSULTATS
 
 - discussion des résultats appuyée sur des principes généraux, des hypothèses explicatives et des illustrations spécifiques issues des données recueillies
 
-VIII. CONCLUSIONS ET RECOMMANDATIONS AU REGARD DES QUESTIONS INITIALES
+VIII. - CONCLUSIONS ET RECOMMANDATIONS AU REGARD DES QUESTIONS INITIALES
 
 - propositions
 
@@ -228,7 +228,7 @@ VIII. CONCLUSIONS ET RECOMMANDATIONS AU REGARD DES QUESTIONS INITIALES
 
 - spécifications déontologiques éventuelles
 
-IX. LE CAS ECHÉANT, PROPOSITION D'INTERVENTION
+IX. - LE CAS ÉCHÉANT, PROPOSITION D'INTERVENTION
 
 L'objectif et la finalité du bilan psychologique seront d'appréhender l'enfant dans sa globalité (sphère affective émotionnelle, sphère cognitive et intellectuelle et capacités de communication), d'apporter des éclairages sur son fonctionnement, de poser un diagnostic psychologique en vue d'apprécier l'aide qui pourra lui être apporté.
 
