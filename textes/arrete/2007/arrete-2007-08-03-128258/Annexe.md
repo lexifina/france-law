@@ -81,3 +81,7 @@ Fort-de-France ─ Bridgetown (La Barbade), y compris en continuation depuis Par
 Jusqu'au 31 mars 2026 :
 
 Paris-Montréal (Canada).
+
+Jusqu'au 31 août 2026 :
+
+-Paris-Punta Cana (République dominicaine).
