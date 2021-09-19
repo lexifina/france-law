@@ -222,7 +222,7 @@ Le commandant en second du groupe d'intervention de la gendarmerie nationale. |
 
 L'officier supérieur le plus ancien dans le grade le plus élevé parmi les membres présents. |
 
-Les chefs d'état-major, les chefs des forces et le chef du détachement gendarmerie du groupe de sécurité de la présidence de la République. |
+Les chefs d'état-major, les chefs des forces, les chefs de division ou de centre et le chef du détachement gendarmerie du groupe de sécurité de la présidence de la République. |
 
 Personnel servant au sein du pôle judiciaire de la gendarmerie nationale. |
 
@@ -236,7 +236,7 @@ Le commandant du service central de renseignement criminel de la gendarmerie nat
 
 Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale. |
 
-(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale. |
+(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale |
 
 4. Spécialités
 
