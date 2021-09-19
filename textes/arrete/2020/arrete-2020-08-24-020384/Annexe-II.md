@@ -1404,7 +1404,7 @@ RNCP23737 |
 
 DIPLOVIS-PROGRAMME DE FORMATION INTERNATIONALE EN MANAGEMENT DE NEOMA BUSINESS SCHOOL, VISÉ PAR LE MINISTÈRE DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE (NEOMA BUSINESS SCHOOL) |
 
-7 355,00 € |
+9 733,00 € |
 
 RNCP2388 |
 
@@ -6382,4 +6382,4 @@ TITRE-CONDUCTEUR DE TRAIN FRET (GESTION DES TECHNIQUES D'INGÉNIERIE ET DE FORMA
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 décembre 2020 (NOR : MTRD2036862A), les dispositions issues de l'article 1er sont applicables aux contrats d'apprentissage conclus à compter du 1er janvier 2021, sous réserve des dispositions prévues à l'article D. 6332-80.
+Conformément à l'article 2 de l'arrêté du 13 septembre 2021 (NOR : MTRD2127484A), ces dispositions sont applicables aux contrats d'apprentissage conclus à compter du 19 septembre 2021, sous réserve des dispositions prévues à l'article D. 6332-80.
