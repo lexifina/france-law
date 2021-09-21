@@ -1,0 +1,9 @@
+# SYND INTERCOM REGROUPEMENT SCOL BROUALAN : délibération BROUATRAN2112D — REMBOURSEMENT DE FRAIS ACHAT CABLES INFORMATIQUES
+
+- Collectivité : SYND INTERCOM REGROUPEMENT SCOL BROUALAN
+- SIRET : 25351450900012
+- Date : 2021-09-21
+- Matière : 7.10 Finances locales/Divers
+- Objet : REMBOURSEMENT DE FRAIS ACHAT CABLES INFORMATIQUES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/253514509/Deliberation/2021/128093/c6b23c03d7add04469c116e36b9390947625e87c623584f523f7e42a13ce8fa3.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
