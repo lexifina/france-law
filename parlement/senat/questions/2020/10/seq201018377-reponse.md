@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018377
+
+- Question : [SEQ201018377](seq201018377.md) — Tickets de caisse et justificatifs comptables
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-09-23, page 5499*
+
+L'article L. 441-9 du code de commerce relatif aux règles de facturation entre professionnels prévoit que tout achat de produits ou toute prestation de service pour une activité professionnelle fait l'objet d'une facturation, sans prévoir de montant minimal en-dessous duquel les professionnels seraient dispensés de respecter ces règles. La législation précédemment applicable, avant la publication de l'ordonnance n° 2019-359 du 24 avril 2019 portant refonte du titre IV du livre IV du code de commerce relatif à la transparence, aux pratiques restrictives de concurrence et aux autres pratiques prohibées, ne conditionnait pas non plus l'émission d'une facture à un montant minimal d'achat. La législation applicable en matière de facturation n'a donc pas été modifiée sur ce point. La facture constitue un des éléments de la transparence de la relation commerciale entre les vendeurs et les acheteurs. Toute modification de la législation, ayant pour objet de fixer un montant minimal d'achat, au-delà duquel l'émission d'une facture serait obligatoire, pourrait être utilisée par certains pour rendre plus difficile le contrôle de la loyauté des relations commerciales, en particulier dans le cadre des relations entre les fournisseurs et les distributeurs. L'article 153 de loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020 a prévu une entrée en vigueur étalée dans le temps de l'obligation de recourir à la facturation électronique pour tous les professionnels d'ici 2025, sans que là encore, cette obligation ne soit applicable qu'à partir d'un montant minimal facturé. Enfin, il est rappelé que la facture obéit également à des règles fiscales, liées au recouvrement de la TVA.
