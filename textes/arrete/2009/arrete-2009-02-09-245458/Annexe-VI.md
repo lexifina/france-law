@@ -122,6 +122,22 @@ FH
 
 |
 
+Bicarburation superéthanol-GPL et électricité (hybride rechargeable) |
+
+FR |
+
+Bicarburation superéthanol-GPL et électricité (hybride non rechargeable) |
+
+FQ |
+
+Bicarburation superéthanol-gaz naturel et électricité (hybride rechargeable) |
+
+FM |
+
+Bicarburation superéthanol-gaz naturel et électricité (hybride non rechargeable) |
+
+FP |
+
 Biogazole B100 |
 
 B1 |

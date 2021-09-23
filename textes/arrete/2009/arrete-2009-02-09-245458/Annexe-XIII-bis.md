@@ -1,14 +1,14 @@
 # Article Annexe XIII bis
 
-ATTESTATION DE RECONNAISSANCE POUR LES VÉHICULES IMPORTÉS CONFORMES À UNE RÉCEPTION CE INDIVIDUELLE DE VÉHICULE
+ATTESTATION DE RECONNAISSANCE POUR LES VÉHICULES IMPORTÉS CONFORMES À UNE RÉCEPTION CE OU UE INDIVIDUELLE DE VÉHICULE
 
-(Papier à en-tête de la DRIEE, DREAL ou DEAL)
+(Papier à en-tête de la DRIEAT, DREAL ou DEAL)
 
 Je soussigné (nom, prénom)
 
-DRIEE, DREAL, DEAL (1)
+DRIEAT, DREAL, DEAL (1)
 
-certifie que le véhicule NEUF ou USAGÉ ci-dessous décrit (1) a fait l'objet d'une réception individuelle européenne délivrée selon le règlement (UE) n° 183/2011 de la Commission en date du 22 février 2011 sous le n° ........ et que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
+certifie que le véhicule NEUF ou USAGÉ ci-dessous décrit (1) a fait l'objet d'une réception individuelle européenne délivrée selon le règlement (UE) n° 183/2011 de la Commission en date du 22 février 2011 ou d'une réception UE individuelle délivrée en accord avec l'article 44 du règlement (UE) 2018/858 sous le n° ........ et que les données nécessaires à l'immatriculation en France sont les suivantes (2) :
 
 (A.1) Précédent numéro d'immatriculation (3)
 

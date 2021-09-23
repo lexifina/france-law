@@ -76,7 +76,7 @@ b) Rubriques D. 1 à X. 1 relatives aux caractéristiques techniques du véhicul
 
 (V. 9) Indication de la classe environnementale de réception CE.
 
-(X. 1) Dates de visites techniques.
+(X. 1) Dates de contrôles techniques.
 
 c) Rubriques Y. 1 à Y. 4 relatives aux taxes à acquitter :
 
@@ -152,7 +152,7 @@ Places médicales :... places.
 
 Places modulables de... à...
 
-[Mention DREAL, DEAL ou DRIEE (2).].
+[Mention DREAL, DEAL ou DRIEAT (2).].
 
 TE possible (3).
 

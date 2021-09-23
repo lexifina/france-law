@@ -52,15 +52,15 @@ a) Document dit 3 en 1 (partie certificat de conformité) ;
 
 b) Certificat de conformité à un type national : certificat délivré par le constructeur ou son représentant accrédité en France, précédé de la notice descriptive du véhicule et du procès-verbal de réception par type établi par un service chargé des réceptions ;
 
-c) Certificat de conformité à un type CE : certificat conforme aux dispositions de la directive 70/156/ CEE ou 74/150/ CE ou 92/61/ CE ou 2002/24/ CE ou 2003/37/ CE ou 2007/46/ CE ou du règlement (UE) 167/2013 ou (UE) 168/2013 délivré par le constructeur, le cas échéant, dans une autre langue que le français.
+c) Certificat de conformité à un type CE ou UE : certificat conforme aux dispositions de la directive 70/156/ CEE ou 74/150/ CE ou 92/61/ CE ou 2002/24/ CE ou 2003/37/ CE ou 2007/46/ CE ou du règlement (UE) 167/2013 ou (UE) 168/2013 ou (UE) 2018/858 délivré par le constructeur, le cas échéant, dans une autre langue que le français.
 
-II. Sans préjudice des dispositions du I, le certificat de conformité à un type CE peut être délivré par le constructeur sous forme de données électroniques structurées suivant les dispositions prévues par le règlement (UE) 2018/858 relatif à la réception et à la surveillance du marché des véhicules à moteurs et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE.
+II. Sans préjudice des dispositions du I, le certificat de conformité à un type CE ou UE peut être délivré par le constructeur sous forme de données électroniques structurées suivant les dispositions prévues par le règlement (UE) 2018/858 relatif à la réception et à la surveillance du marché des véhicules à moteurs et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n° 715/2007 et (CE) n° 595/2009 et abrogeant la directive 2007/46/CE.
 
 3.2. Autres certificats
 
 a) Indications complémentaires au certificat de conformité 74/150/CE : indications selon modèle indiqué en annexe 11, à joindre au certificat de conformité conforme à la directive 74/150/CE ;
 
-b) Indications complémentaires nécessaires pour les véhicules neufs non prêts à l'emploi ayant fait l'objet d'une réception communautaire : données du tableau émis par l'Union technique de l'automobile, du motocycle et du cycle (UTAC/OTC) figurant à l'annexe 17 du présent arrêté, à joindre au certificat de conformité conforme à la directive 2007/46/CE.
+b) Indications complémentaires nécessaires pour les véhicules neufs non prêts à l'emploi ayant fait l'objet d'une réception communautaire : données du tableau émis par l'Union technique de l'automobile, du motocycle et du cycle (UTAC/OTC) figurant à l'annexe 17 du présent arrêté, à joindre au certificat de conformité conforme au règlement (UE) 2018/858.
 
 3.3. Attestations d'identification
 
@@ -96,19 +96,15 @@ b) Preuve d'un contrôle technique : document prouvant un contrôle technique en
 
 ― l'original du procès-verbal de contrôle technique ;
 
-― ou à défaut, l'une des pièces suivantes :
-
-― le certificat d'immatriculation complété du timbre sur lequel figure la date limite de validité du contrôle technique ;
-
-― une attestation délivrée soit par l'installation de contrôle ayant effectué le contrôle technique, soit par le réseau dans le cadre d'un centre rattaché à un réseau, et reprenant au moins l'identification de l'installation de contrôle qui a effectué le contrôle technique, le numéro d'immatriculation du véhicule, son numéro d'identification, ainsi que les informations figurant sur le timbre du certificat d'immatriculation.
+― ou à défaut, le certificat d'immatriculation complété du timbre sur lequel figure la date limite de validité du contrôle technique.
 
 La preuve d'un contrôle technique de moins de six mois en cours de validité est demandée en cas de cession.
 
 c) Procès-verbal de RTI : procès-verbal de réception à titre isolé délivré par le service chargé des réceptions ;
 
-d) Fiche de RI : fiche de réception individuelle délivrée pour les véhicules neufs par le service chargé des réceptions dans le cadre de l'article 21 de l'arrêté du 4 mai 2009 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application de la directive 2007/46/ CE ;
+d) Fiche de RI : fiche de réception individuelle délivrée pour les véhicules neufs par le service chargé des réceptions dans le cadre de l'article 21 de l'arrêté du 4 mai 2009 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application de la directive 2007/46/ CE ou de l'article 22 de l'arrêté du 11 janvier 2021 relatif à la réception des véhicules à moteur, de leurs remorques et des systèmes et équipements destinés à ces véhicules en application du règlement UE/2018/858 ;
 
-e) Attestation de reconnaissance d'une réception individuelle européenne : attestation délivrée par le service en charge des réceptions pour les véhicules usagés ayant fait l'objet d'une réception individuelle européenne dans le cadre du règlement (UE) n° 183/2011 de la Commission du 22 février 2011.
+e) Attestation de reconnaissance d'une réception individuelle européenne ou d'une réception UE individuelle : attestation délivrée par le service en charge des réceptions pour les véhicules neufs ou usagés ayant fait l'objet d'une réception individuelle européenne dans le cadre du règlement (UE) n° 183/2011 de la Commission du 22 février 2011 ou d'une réception UE individuelle délivrée en accord avec l'article 44 du règlement (UE) n° 2018/858.
 
 f) Attestation d'adaptation réversible conforme à l'annexe 1-B de l'arrêté du 7 novembre 2014 relatif à l'adaptation réversible de série de certains types de véhicules, pour les véhicules neufs ou usagés de catégorie M1, genre VP faisant l'objet d'une transformation réversible dite " DERIV VP " ;
 

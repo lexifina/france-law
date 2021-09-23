@@ -2,13 +2,13 @@
 
 ATTESTATION D'IDENTIFICATION POUR LES VÉHICULES IMPORTÉS COMPLETS OU COMPLÉTÉS CONFORMES À UN TYPE COMMUNAUTAIRE
 
-(Papier à en-tête du constructeur ou de son représentant ou de la DREAL/DEAL/DRIEE)
+(Papier à en-tête du constructeur ou de son représentant ou de la DREAL/DEAL/DRIEAT)
 
 Je soussigné (Nom, Prénom)
 
 - Constructeur du véhicule ou son représentant (1) (2)
 
-- DREAL/DEAL/DRIEE (1)
+- DREAL/DEAL/DRIEAT (1) (1-1)
 
 (dans la mesure où elle dispose des moyens techniques d'identification)
 
@@ -89,6 +89,8 @@ A , le
 Signature et fonction :
 
 (1) Rayer la mention inutile.
+
+(1-1) Uniquement lorsque le constructeur ou son représentant en France n'existe plus.
 
 (2) L'attestation relative aux véhicules d'un PTAC supérieur à 3 500 kg n'est délivrée que par le constructeur ou son représentant.
 

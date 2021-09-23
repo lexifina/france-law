@@ -306,7 +306,7 @@ Remorque spécialisée. |
 
 RESP |
 
-02 ou 03 |
+O2 ou O3 |
 
 Remorque urbaine |
 
@@ -318,7 +318,7 @@ REMURB |
 
 (2) Ces carrosseries ne peuvent être affectées qu'à des véhicules de la catégorie internationale L conformes au règlement (UE) n° 168/2013.
 
-(3) La lettre " G "peut être ajoutée comme suffixe à la lettre et au numéro d'identification de la catégorie si le véhicule est " hors route " conformément à la directive 2007/46/CE.
+(3) La lettre " G "peut être ajoutée comme suffixe à la lettre et au numéro d'identification de la catégorie si le véhicule est " hors route " conformément au règlement (UE) 2018/858.
 
 (4) L'immatriculation d'un véhicule de transport en commun de personnes sous différents genre et carrosserie est interdite.
 
@@ -720,7 +720,7 @@ Semi-remorques avant-train. |
 
 SRAT |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les CAM. |
 
@@ -730,7 +730,7 @@ Semi-remorques routières. |
 
 SREM |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les CAM +.
 
@@ -764,7 +764,7 @@ Remorques routières. |
 
 REM |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les SREM. |
 
@@ -774,7 +774,7 @@ Semi-remorques pour transports combinés. |
 
 SRTC |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les SREM. |
 
@@ -784,7 +784,7 @@ Remorques pour transports combinés. |
 
 RETC |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les REM. |
 
@@ -794,7 +794,7 @@ Mêmes carrosseries que pour les REM. |
 
 (2) Ces carrosseries ne peuvent être affectées qu'à des véhicules de la catégorie internationale L conformes au règlement (UE) n° 168/2013.
 
-(3) La lettre " G " peut être ajoutée comme suffixe à la lettre et au numéro d'identification de la catégorie si le véhicule est " hors route " conformément à la directive 2007/46/CE.
+(3) La lettre " G " peut être ajoutée comme suffixe à la lettre et au numéro d'identification de la catégorie si le véhicule est " hors route " conformément au règlement (UE) 2018/858.
 
 (5) Bien que classés dans le groupe véhicules affectés au transport de marchandises, les conditions de circulation des tracteurs routiers sont déterminées par le genre des semi-remorques qui leur sont attelées.
 
@@ -1000,7 +1000,7 @@ Semi-remorques spécialisées. |
 
 SRSP |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les véhicules automoteurs spécialisés sauf ambulance et chariot porteur. |
 
@@ -1010,7 +1010,7 @@ Remorques spécialisées. |
 
 RESP |
 
-01,02,03 ou 04 |
+O1, O2, O3 ou O4 |
 
 Mêmes carrosseries que pour les semi-remorques spécialisées. |
 
@@ -1018,7 +1018,7 @@ Mêmes carrosseries que pour les semi-remorques spécialisées. |
 
 (*) Catégories de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire.
 
-(3) La lettre " G " peut être ajoutée comme suffixe à la lettre et au numéro d'identification de la catégorie si le véhicule est " hors route " conformément à la directive 2007/46/CE.
+(3) La lettre " G " peut être ajoutée comme suffixe à la lettre et au numéro d'identification de la catégorie si le véhicule est " hors route " conformément au règlement (UE) 2018/858.
 
 (9) Engins spéciaux de la catégorie A, prévus par l'article 9 de l'arrêté du 20 novembre 1969.
 
