@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120167
+
+- Question : [SEQ210120167](seq210120167.md) — Financement des travaux sur les colonnes montantes d'électricité des immeubles collectifs
+
+## Réponse
+
+*Logement, JO du 2021-09-23, page 5519*
+
+Depuis le 23 novembre 2020, la totalité des colonnes montantes d'électricité, à l'exception des quelques dizaines dont les copropriétaires ont revendiqué et obtenu la propriété, a été intégrée au réseau public d'électricité, et la charge de leur renouvellement incombe désormais sans ambiguïté au gestionnaire du réseau public de distribution (Enedis sur 95 % du territoire). D'un point de vue juridique tout autant que technique, les colonnes montantes d'électricité sont sans ambiguïté des « branchements collectifs », ce qui n'est nullement incompatible avec le fait qu'elles appartiennent pleinement au réseau public d'électricité, là encore sans ambiguïté. Néanmoins, la clarification du régime de propriété ne suffit pas en soi à faire disparaître tout risque de contentieux sur le périmètre des travaux pris en charge par le gestionnaire du réseau de distribution, comme l'ont illustré plusieurs recommandations du médiateur national de l'énergie. Pour résoudre les difficultés rencontrées, l'outil réglementaire n'est pas nécessairement le plus adapté pour traiter de la diversité des cas. C'est la raison pour laquelle des échanges techniques ont été initiés entre le principal gestionnaire de réseau, Enedis, et le médiateur national de l'énergie, à l'automne 2020, élargis ensuite à l'administration et aux représentants des autorités concédantes propriétaires des réseaux de distribution, des entreprises locales de distribution, des bailleurs et des copropriétés. Si ces travaux ne devaient pas aboutir prochainement à un consensus, pourrait être opérée une clarification des règles de prise en charge des travaux sur les colonnes montantes d'électricité.
