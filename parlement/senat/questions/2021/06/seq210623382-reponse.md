@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623382
+
+- Question : [SEQ210623382](seq210623382.md) — Conditions d'attribution de la médaille de la défense nationale
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2021-09-23, page 5521*
+
+La médaille de la défense nationale avec agrafe « Essais nucléaires » est attribuée aux personnes qui justifient par tout moyen avoir participé de manière effective aux missions liées au développement de la force de dissuasion nucléaire, dans les zones et durant les périodes définies à l'article 2 de la loi n° 2010-2 du 5 janvier 2010 relative à la reconnaissance et à l'indemnisation des victimes des essais nucléaires français, c'est-à-dire dans le Sahara algérien entre 1960 et 1967 et en Polynésie française entre 1966 et 1998. Conformément au guide relatif aux modalités d'attribution de la médaille de la défense nationale du ministère des armées, édité en mars 2021, les dossiers des candidats sont recueillis par les services de proximité de l'Office national des anciens combattants et victimes de guerre puis adressés par voie électronique au département du maillage territorial et des associations, chargé de les centraliser et de les transmettre à la direction des ressources humaines du ministère (DRH-MD). Les candidats doivent adresser une demande manuscrite, une copie de leur carte d'identité et toutes les pièces justificatives liées à cette demande. Dès réception de ce guide, la direction générale de l'Office a transmis aux services départementaux les instructions nécessaires à la mise en place de cette procédure. Un rappel a été effectué au mois d'août. De nombreux dossiers ont été transmis à la direction générale, et continuent à l'être, par les services de proximité de l'Office afin de permettre aux candidats de recevoir dans les meilleurs délais la récompense qu'ils méritent.
