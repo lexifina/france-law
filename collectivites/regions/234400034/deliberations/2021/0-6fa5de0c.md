@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 191 Investissement apprentissage
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2021-09-24
+- Matière : 8.6
+- Objet : 191 Investissement apprentissage
+- Transmis à la préfecture : 2021-09-24
+- Votants : 30
+- Pour : 26
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-43154.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
