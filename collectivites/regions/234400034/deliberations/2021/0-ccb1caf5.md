@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 198 Arts de la scène
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2021-09-24
+- Matière : 8.9
+- Objet : 198 Arts de la scène
+- Transmis à la préfecture : 2021-09-24
+- Votants : 27
+- Pour : 23
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-42574.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
