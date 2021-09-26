@@ -8,13 +8,11 @@ L'objectif de ce forfait est de permettre aux médecins de se libérer d'une par
 
 Le forfait structure comporte deux volets :
 
--Le premier volet, constitué de cinq indicateurs, vise à accompagner les médecins qui souhaitent investir dans l'équipement du cabinet pour faciliter le suivi des patients, les échanges avec les autres professionnels et structures intervenant dans la prise en charge des patients.
+-Le premier volet, constitué de cinq indicateurs, vise à accompagner les médecins qui souhaitent investir dans l'équipement du cabinet pour faciliter le suivi et les échanges avec les patients, les échanges avec les autres professionnels et structures intervenant dans la prise en charge des patients.
 
 -Le deuxième volet, constitué de sept indicateurs, vise à développer les démarches d'appui au patient dans le parcours de soins au sein des cabinets médicaux ou en recourant à des services extérieurs.
 
 Tous les médecins exerçant dans le champ conventionnel sont éligibles à cette rémunération forfaitaire, sans distinction de secteur d'exercice.
-
-Ce forfait structure est basé sur un total de 250 points en 2017,460 points en 2018 et 735 points en 2019. A compter de 2020, le nombre de points total du forfait structure s'élève à 885 points.
 
 La valeur du point est fixée à 7 euros.
 
@@ -34,21 +32,21 @@ Article 1.1
 
 Mise à disposition d'un justificatif témoignant de l'utilisation d'un logiciel facilitant la pratique médicale
 
-Les médecins doivent disposer d'un logiciel métier avec LAP certifié par la HAS, compatible avec le Dossier Médical Partagé (DMP). Cet outil doit permettre de faciliter le suivi des patients et leur prise en charge coordonnée entre professionnels. Le LAP certifié n'est pas exigé pour les médecins exerçant une spécialité ne disposant pas d'une telle offre de logiciels.
+Les médecins doivent disposer d'un logiciel métier avec LAP certifié par la HAS, compatible avec le Dossier Médical Partagé (DMP). Cet outil doit permettre de faciliter le suivi des patients et leur prise en charge coordonnée entre professionnels. A compter de 2023, les médecins doivent disposer d'un logiciel référencé Ségur avec un LAP certifié HAS. Le LAP certifié n'est pas exigé pour les médecins exerçant une spécialité ne disposant pas d'une telle offre de logiciels. Des travaux vont être conduits avec les éditeurs spécialisés de sorte à faire bénéficier l'ensemble des médecins de logiciels ergonomiques et adaptés à leurs pratiques. Le LAP certifié n'est pas exigé pour les médecins exerçant une spécialité ne disposant pas d'une telle offre de logiciels.
 
 Article 1.2
 
 Utilisation d'une messagerie sécurisée
 
-L'utilisation d'une messagerie sécurisée de santé est requise.
+L'utilisation d'une messagerie sécurisée de santé est requise. A compter de 2023 cet indicateur est fusionné avec l'indicateur défini à l'article 1.1.
 
 Article 1.3
 
 La version du cahier des charges intégrant les avenants publiés sur le site du GIE
 
-La version du cahier des charges SESAM-Vitale requise doit intégrer les avenants publiés sur le site du GIE SESAM-Vitale au 31/12 de l'année N-1 par rapport à l'année de référence pour le calcul de la rémunération.
+Pour 2022 est requise la version du cahier des charges Sesam-Vitale avec l'addendum 8 intégrant l'Application Carte Vitale ou d'un logiciel référencé Ségur intégré dans le dossier de spécification de référencement Ségur (cf article 19.3.1 de la convention nationale) ; pour 2023 est requise la version du cahier des charges Sesam-Vitale avec l'addendum 8 intégrant l'Application carte Vitale.
 
-L'objectif est que les médecins disposent d'un l'outil de facturation comportant les fonctionnalités les plus à jour et notamment celles simplifiant les échanges avec l'assurance maladie (fonctionnalités de suivi des factures....).
+La version du cahier des charges SESAM-Vitale comprend également l'intégration des avenants publiés sur le site du GIE SESAM-Vitale au 31/12 de l'année N-1 par rapport à l'année de référence pour le calcul de la rémunération. L'objectif est que l'outil de facturation comporte les fonctionnalités les plus à jour et notamment celles simplifiant les échanges avec l'assurance maladie.
 
 Article 1.4
 
@@ -214,7 +212,7 @@ Ce deuxième volet du forfait structure valorise les démarches d'appui au patie
 
 Ce volet est affecté de 75 points en 2017,230 points en 2018 répartis entre cinq indicateurs et 455 points en 2019 répartis entre sept indicateurs.
 
-A compter de 2020 est créé un 8ème indicateur affecté de 150 points pour valoriser la "participation à une organisation proposant la prise en charge de soins non programmés dans le cadre d'une régulation territoriale". Ainsi, le nombre point du volet 2 du forfait structure pour 2020 et 2021 s'élève à 605 points. A compter de 2022, le nombre de points du volet 2 sera de 485 points par le transfert de l'indicateur 3 dans le volet 1 du forfait structure.
+A compter de 2020 est créé un 8ème indicateur affecté de 150 points pour valoriser la "participation à une organisation proposant la prise en charge de soins non programmés dans le cadre d'une régulation territoriale". Ainsi, le nombre point du volet 2 du forfait structure pour 2020 et 2021 s'élève à 605 points. A compter de 2022, le nombre de points du volet 2 est de 985 points et est porté à 1075 points pour 2023.
 
 Chaque indicateur est mesuré indépendamment des autres.
 
@@ -222,17 +220,21 @@ Le déclenchement de la rémunération de ce deuxième volet est conditionné pa
 
 Article 2.1
 
-Taux de dématérialisation sur un bouquet de téléservices
+Taux de dématérialisation sur un bouquet de services
 
 Pour bénéficier de la rémunération de cet indicateur, le médecin doit atteindre un taux de dématérialisation pour chacun des téléservices suivants :
 
--la déclaration médecin traitant dématérialisée (DCMT),
+-la déclaration médecin traitant dématérialisée (DCMT) ;
 
--le protocole de soins électronique (PSE),
+-le protocole de soins électronique (PSE) ;
 
--la prescription d'arrêt de travail dématérialisée (AAT),
+-la prescription d'arrêt de travail dématérialisée (AAT) ;
 
--la déclaration d'un certificat médical d'Accident de Travail ou de Maladie Professionnelle dématérialisé (CMATMP).
+-la déclaration d'un certificat médical d'Accident de Travail ou de Maladie Professionnelle dématérialisé (CMATMP) ;
+
+-à compter de 2022 le service de prescription électronique de transport (SPE) ;
+
+-à compter de 2023 le service de déclaration simplifiée de grossesse (DSG).
 
 Au fur et à mesure de l'évolution des téléservices offerts par l'assurance maladie ce bouquet aura vocation à évoluer.
 
@@ -254,6 +256,14 @@ Taux = Nombre d'AAT dématérialisé/ total des AAT (papier et dématérialisés
 
 Taux = Nombre de déclarations de CMATMP dématérialisés/ nombre de déclarations CMATMP (papier et dématérialisées).
 
+-Taux de déclarations de grossesse dématérialisées
+
+Taux = Nombre de déclarations de grossesse dématérialisées/ nombre total de déclarations de grossesse (papier + dématérialisées)
+
+-Taux de prescription de transport dématérialisées
+
+Taux = Nombre de prescriptions électroniques de transport dématérialisées/ nombre total de prescriptions de transport (papier + dématérialisées).
+
 Le calcul du taux de dématérialisation d'un téléservice s'effectue sur la base des données du régime général uniquement.
 
 Pour accompagner la mise en place de ce nouvel indicateur, pendant les premières années suivant l'entrée en vigueur de la présente convention, le taux de dématérialisation requis est fixé par palier. Le taux de dématérialisation est fixé par téléservice selon les modalités ci-dessous :
@@ -262,59 +272,151 @@ Pour accompagner la mise en place de ce nouvel indicateur, pendant les première
 
 Objectifs |
 
+Nb de points 2021 |
+
+Nb de points 2022 |
+
+Nb de points 2023 |
+
 |
 
-Année 2017 |
+Année 2021 |
 
-Année 2018 |
+Année 2022 |
 
-Année 2019 |
+Année 2023 |
 
-Année 2020 |
+|
+
+|
+
+|
 
 AAT |
 
-30 % |
-
-40 % |
-
-50 % |
-
 60 % |
-
-CM ATMP |
-
-10 % |
-
-14 % |
-
-17 % |
-
-20 % |
-
-PSE |
-
-40 % |
-
-50 % |
-
-60 % |
-
-70 % |
-
-DMT |
-
-77 % |
 
 80 % |
 
-85 % |
+90 % |
+
+22,5 |
+
+22,5 |
+
+22,5 |
+
+CM AT-MP |
+
+20 % |
+
+30 % |
+
+45 % |
+
+22,5 |
+
+22,5 |
+
+22,5 |
+
+PSE |
+
+70 % |
+
+80 % |
 
 90 % |
 
-Cet indicateur est affecté de 20 points, en 2017,60 points en 2018 et 90 points en 2019.
+22,5 |
 
-Chaque téléservice représente un quart du total des points de cet indicateur.
+22,5 |
+
+22,5 |
+
+DMT |
+
+90 % |
+
+90 % |
+
+90 % |
+
+22,5 |
+
+22,5 |
+
+22,5 |
+
+DSG |
+
+NC |
+
+30 % |
+
+50 % |
+
+- |
+
+- |
+
+10 |
+
+SPE |
+
+NC |
+
+10 % |
+
+30 % |
+
+- |
+
+10 |
+
+10 |
+
+|
+
+|
+
+|
+
+|
+
+90 |
+
+100 |
+
+110 |
+
+-Indicateur d'usage et remplissage du DMP
+
+Cet indicateur valorise l'usage du DMP à travers l'alimentation du DMP par les médecins.
+
+L'atteinte d'un taux de 20 % des consultations réalisées dans l'année donnant lieu à l'alimentation d'un document dans le DMP valide l'indicateur. Cet indicateur calculé automatiquement par l'assurance maladie chaque année est valorisé à hauteur de 40 points.
+
+-indicateur d'usage de la messagerie sécurisée de santé pour les échanges avec les patients
+
+Cet indicateur valorise l'usage de la messagerie sécurisée de santé intégrée dans le service Mon espace santé.
+
+En 2022 et 2023, l'atteinte d'un taux d'au moins 5 % des consultations réalisées par le médecin comprenant un échange par mail sécurisé avec un patient via la messagerie de Mon espace santé valide l'indicateur.
+
+Cet indicateur calculé automatiquement par l'assurance maladie est valorisé à hauteur de 40 points.
+
+-indicateur d'usage de la e-prescription
+
+Cet indicateur valorise l'usage du service de e-prescription selon l'annexe 12 bis de la présente convention qui décrit le circuit du dispositif.
+
+L'atteinte d'un taux de 50 % des prescriptions de produits de santé du médecin établies pour sa patientèle réalisées via le service e-prescription valide l'indicateur. Cet indicateur calculé automatiquement par l'assurance maladie est valorisé à hauteur de 40 points.
+
+-Indicateur d'usage de l'application Carte Vitale
+
+Cet indicateur valorise l'usage de l'application carte Vitale déployée à partir de 2022.
+
+A compter de 2023, l'atteinte d'un taux de 5 % des FSE réalisées avec l'application carte Vitale valide l'indicateur. Cet indicateur calculé automatiquement par l'assurance maladie est valorisé à hauteur de 40 points.
+
+A compter de 2024, les indicateurs du champ " usage des téléservices " ont vocation à être transférés dans le volet 1 du forfait structure. La nature de ces indicateurs et leur valeur seront définies par les partenaires conventionnels dans le cadre de la nouvelle convention en 2023. Le transfert dans le volet 1 sera conditionné à la capacité effective des médecins à pouvoir utiliser ces téléservices.
 
 Article 2.2
 
@@ -374,133 +476,165 @@ Cet indicateur est affecté de 25 points à compter de 2019.
 
 Article 2.8
 
-Indicateur 8 : valoriser la "participation à une organisation proposant la prise en charge de soins non programmés dans le cadre d'une régulation territoriale"
+Indicateur 8 : Valoriser la participation à une organisation proposant la prise en charge de soins non programmés dans le cadre de la régulation du SAS
 
-Ce nouvel indicateur est mis en place pour valoriser l'implication des médecins dans le cadre d'une organisation territoriale régulée pour répondre aux besoins de soins non programmés hors dispositifs de PDSA (demande de prise en charge le jour-même ou dans les 24 heures émanant de patients du territoire en situation d'urgence non vitale). Cette organisation s'inscrit notamment dans le cadre des missions mises en place par les Communautés Professionnelle Territoriale de Santé. Cette réponse implique à la fois les médecins de premier recours et de second recours quelle que soit leur spécialité médicale.
+Cet indicateur vise à valoriser la participation des médecins libéraux et la prise en charge de nouveaux patients orientés par le SAS, le cas échéant via le service de régulation mis en place au niveau territorial par l'Agence régionale de santé.
 
-Cet indicateur est valorisé dès 2020 à hauteur de 150 points .
+Pour 2021 cet indicateur déclaratif est valorisé à hauteur de 150 points.
+
+A compter de 2022, les conditions de validation de l'indicateur sont :
+
+-avoir un agenda ouvert au public ou partagé avec la structure de régulation du dispositif SAS permettant la réservation de RDV en ligne de patients non connus par le médecin, avec un minimum de 2 heures ouvertes par semaine ;
+
+-et être inscrit auprès de la structure de régulation du dispositif SAS ou faire partie d'une CPTS participant à la mission de soins non programmés dans le cadre du SAS.
+
+A partir de 2022, l'indicateur est majoré de 50 points pour atteindre 200 points.
 
 Article 2.9
 
-Justificatifs des indicateurs du deuxième volet du forfait structure
+Indicateur 9 : Valoriser l'effection des soins non programmés régulés par le SAS
 
-Champs |
+A compter de 2022, cet indicateur valorise l'effection des soins non programmés (SNP) par les médecins généralistes conformément à l'article 9.7.2 de la convention médicale.
+
+Pour les médecins généralistes amenés à prendre en charge des patients supplémentaires, hors de leur patientèle médecin traitant, pour des soins non programmés dans les 48 heures sur adressage par la régulation libérale après échec d'une prise de rendez-vous via les outils de prise de rendez-vous en ligne, l'indicateur est calculé par l'Assurance Maladie selon le barème suivant :
+
+Les modalités de cette rémunération sont organisées selon le barème suivant
+
+-10 points de 5 à 15 SNP réalisées sur le trimestre ;
+
+-30 points de 16 à 25 SNP réalisés sur le trimestre ;
+
+-50 points de 26 à 35 SNP réalisés sur le trimestre ;
+
+-70 points de 36 à 45 SNP réalisés sur le trimestre ;
+
+-90 au-delà de 45 SNP réalisés sur le trimestre.
+
+L'indicateur concerné est suivi trimestriellement et payé annuellement lors du paiement annuel du forfait structure.
+
+Article 2.10
+
+Le volet 2 du forfait structure est affecté des points suivants :
 
 Indicateurs |
 
-Nombre
+2021 |
 
-de points |
+2022 |
 
-Equivalent en € |
+2023 |
 
-Type
+Usage des services |
 
-d'indicateur |
+Usage téléservices (AAT/ PSE/ DCMT/ CMAT-MP/ DSG/ SPE) |
 
-Périodicité |
+90 |
 
-Volet 2 :
+100 |
 
-valoriser la démarche d'appui à la prise en charge des patients |
+110 |
 
-Dématérialisation des téléservices |
+Usage DMP |
 
-20 en 2017 60 en 2018 90 en 2019 |
+- |
 
-140 € en 2017 420 € en 2018 630 € en 2019 |
+40 |
 
-Automatisé |
+40 |
 
-Annuelle |
+Usage MSS |
 
-Capacité à coder les données médicales (2) |
+- |
 
-10 en 2017 20 en 2018 50 en 2019 |
+40 |
 
-70 € en 2017 140 € en 2018 350 € en 2019 |
+40 |
 
-Déclaratif |
+Usage e-prescription |
 
-Annuelle |
+- |
 
-Implication dans les démarches de prise en charge coordonnées de patients |
+- |
 
-15 en 2017 40 en 2018 60 en 2019 120 en 2020 et 2021 2022 transfert volet 1 |
+40 |
 
-105 € en 2017 280 € en 2018 420 € en 2019 840 € en 2020 et 2021 |
+Usage ApCV |
 
-Déclaratif |
+- |
 
-Annuelle |
+- |
 
-Amélioration du service offert aux patients |
+40 |
 
-20 en 2017 80 en 2018 130 en 2019 70 en 2020 |
+Capacité à coder |
 
-140 € en 2017 560 € en 2018 910 € en 2019 490 € en 2020 |
+50 |
 
-Déclaratif |
+50 |
 
-Annuelle |
+50 |
 
-Valorisation de la fonction de maitre de stage |
+Prise en charge coordonnée |
 
-10 en 2017 30 en 2018 50 en 2019 |
+120 |
 
-70 € en 2017 210 € en 2018 350 € en 2019 |
+Transfert volet 1 |
 
-Déclaratif |
+Transfert volet 1 |
 
-Annuelle |
+Services offerts aux patients |
 
-|
+70 |
 
-Valoriser le recours à la télémédecine
+70 |
 
-Aide à l'équipement pour vidéotransmission sécurisée |
+70 |
 
-50 en 2019 |
+Encadrement étudiants en médecine |
 
-350 € en 2019 |
+50 |
 
-Déclaratif |
+50 |
 
-Annuelle |
+50 |
 
-|
+Equipement pour vidéotransmission |
 
-Valoriser le recours à la télémédecine
+50 |
 
-Aide aux équipements médicaux connectés |
+50 |
 
-25 en 2019 |
+50 |
 
-175 € en 2019 |
+Equipement médicaux connectés |
 
-Déclaratif |
+25 |
 
-Annuelle |
+25 |
 
-|
+25 |
 
-Valoriser la participation à une organisation proposant la prise en charge de soins non programmés dans le cadre d'une régulation territoriale |
+SAS/ SNP |
 
-150 à compter de 2020 |
+150 |
 
-1050 € en 2020 |
+200 |
 
-Déclaratif |
+200 |
 
-Annuelle |
+Effection Sas |
+
+- |
+
+Jusqu'à 360 points |
 
 TOTAL |
 
-|
+605 |
 
-75 en 2017 230 en 2018 455 en 2019 605 en 2020 et 2021 485 en 2022 |
+985 |
 
-525 € en 2017 1 610 € en 2018 3 185 € en 2019 4 235 € en 2020 et 2021 3 385 € en 2022 |
+1075 |
 
 Article 3
 

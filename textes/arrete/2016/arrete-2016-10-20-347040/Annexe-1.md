@@ -714,39 +714,49 @@ Adhésion au contrat type figurant dans le décret du 3 mai 2002 relatif à la d
 
 Les parties signataires conviennent d'harmoniser les conditions d'abattements des indemnités kilométriques conformément à la jurisprudence.
 
-Article 2
-
-A compter du 15 septembre 2018 (sous réserve de l'inscription de l'acte sur la liste des actes et prestations
+Article 2 Nouveaux tarifs en euros
 
 Actes |
 
 Métropole |
 
-Guadeloupe
+Guadeloupe Martinique |
 
-Martinique
-
-Guyane
-
-Réunion |
+Guyane Réunion |
 
 Mayotte |
 
-Acte de téléconsultation du médecin généraliste secteur 1 et secteur 2 ayant adhéré à l'OPTAM : TCG |
+Avis ponctuel de consultant (prévu à l'article 18 de la NGAP et à l'article 28.3.5 de la convention) |
 
-25,00 |
+|
 
-29,60 |
+|
 
-29,60 |
+|
 
-Acte de téléconsultation du médecin généraliste de secteur 2 n'ayant pas adhéré à l'OPTAM : TC |
+|
 
-23,00 |
+Avis ponctuel de consultant APC |
 
-27,60 |
+55,00 |
 
-27,60 |
+66,00 |
+
+66,00 |
+
+66,00 |
+
+Avis ponctuel de consultant au domicile du patient APV |
+
+55,00 |
+
+66,00 |
+
+66,00 |
+
+66,00 |
+
+Les mesures tarifaires prévues au présent article entrent en vigueur au premier jour du mois suivant l'expiration du délai défini à l'article L. 162-14-1-1 du code de la sécurité sociale.
 
 Sous-titre 2
 
@@ -1890,9 +1900,7 @@ Valeur de l'indemnité kilométrique (IK) |
 
 Les parties signataires conviennent d'harmoniser les conditions d'abattements des indemnités kilométriques conformément à la jurisprudence.
 
-Article 2
-
-Nouveau tarif applicable à compter du 15 septembre 2018 (sous réserve de l'inscription de l'acte sur la liste des actes et prestations)
+Article 2 Nouveaux tarifs en euros
 
 Actes |
 
@@ -1900,34 +1908,136 @@ Métropole |
 
 Guadeloupe
 
-Martinique
+Martinique |
 
-Guyane
-
-Réunion |
+Guyane Réunion |
 
 Mayotte |
 
-Acte de téléconsultation du médecin spécialiste (TC)-hors psychiatrie |
+CNPSY
 
-23,00 |
+(prévue à l'article 2.1 de la NGAP) |
 
-27,60 |
+42,50 |
 
-27,60 |
+51,00 |
+
+51,00 |
+
+51,00 |
+
+Consultation réalisée au cabinet par un psychiatre à la demande du médecin traitant dans les deux jours ouvrables
+
+(prévue à l'article 15.2.4 de la NGAP) |
+
+2 CNPSY 85,00 |
+
+2 CNPSY 102,00 |
+
+2 CNPSY 102,00 |
+
+2 CNPSY 102,00 |
+
+Avis ponctuel de consultant (prévu à l'article 18 de la NGAP et à l'article 28.3.5 de la convention) |
+
+|
+
+|
+
+|
+
+|
+
+Avis ponctuel de consultant APC |
+
+55,00 |
+
+66,00 |
+
+66,00 |
+
+66,00 |
+
+Avis ponctuel de consultant au domicile du patient APV |
+
+55,00 |
+
+66,00 |
+
+66,00 |
+
+66,00 |
+
+Consultation à distance réalisée entre un patient et un médecin dit téléconsultant (prévu à l'article 14.9.3 de la NGAP et à l'article 28.6.1.4 de la convention) |
+
+|
+
+|
+
+|
+
+|
 
 Acte de téléconsultation du médecin spécialiste en psychiatrie TC |
 
-39,00 |
+42,50 |
 
-46,80 |
+51,00 |
 
-46,80 |
+51,00 |
 
-Acte de téléconsultation du médecin spécialiste en psychiatrie à la demande du médecin traitant dans les deux jours ouvrables 1. 5TC |
+51,00 |
 
-58,50 |
+Acte de téléconsultation du médecin spécialiste en psychiatrie à la demande du médecin traitant dans les deux jours ouvrables |
 
-70,20 |
+85,00 |
 
-70,20 |
+102,00 |
+
+102,00 |
+
+102,00 |
+
+Majorations enfants des pédiatres |
+
+|
+
+|
+
+|
+
+|
+
+Nouveau Forfait pédiatrique (jusqu'à 2 ans) du pédiatre : NFP (prévu à l'article 14.6.1 de la NGAP) |
+
+10,00 |
+
+10,00 |
+
+10,00 |
+
+10,00 |
+
+Consultations et majorations complexes |
+
+|
+
+|
+
+|
+
+|
+
+Majoration pour certaines consultations par les spécialistes en endocrinologie et en médecine interne compétents en diabétologie : MCE
+
+(prévue à l'article 15-4 de la NGAP) |
+
+22,00 |
+
+22,00 |
+
+22,00 |
+
+22,00 |
+
+Les mesures tarifaires prévues au présent article entrent en vigueur au premier jour du mois suivant l'expiration du délai défini à l'article L. 162-14-1-1 du code de la sécurité sociale.

@@ -1,6 +1,6 @@
 # Article Annexe 26 ter
 
-COEFFICIENTS DE MAJORATION POUR LES ANTILLES, LA GUYANE, LA RÉUNION ET MAYOTTE APPLICABLES AUX TARIFS DE REMBOURSEMENT "MÉTROPOLE" DES ACTES SUIVANTS
+Article 1 COEFFICIENTS DE MAJORATION POUR LES ANTILLES, LA GUYANE, LA RÉUNION ET MAYOTTE APPLICABLES AUX TARIFS DE REMBOURSEMENT "MÉTROPOLE" DES ACTES SUIVANTS :
 
 Codes |
 
@@ -1520,4 +1520,1174 @@ LBGA168 |
 
 Ablation de 10 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte |
 
-.
+Article 2 Coefficients de majoration pour les Antilles, la Guyane, La Réunion et Mayotte applicables aux tarifs de remboursement Métropole des actes CCAM d'anatomie et cytologie pathologiques (ACP) réalisés hors laboratoire de biologie médicale :
+
+Code CCAM |
+
+Libellé CCAM |
+
+Coefficient de majoration |
+
+AZQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de tumeur de l'encéphale, de la moelle épinière, ou des méninges |
+
+1,214 |
+
+BZQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse d'organe accessoire de l'œil |
+
+1,214 |
+
+BHQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'énucléation du bulbe [globe] oculaire |
+
+1,214 |
+
+BKQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exentération de l'orbite |
+
+1,214 |
+
+ENQX011 |
+
+Examen histopathologique de biopsie d'artère avec coloration spéciale |
+
+1,214 |
+
+DZQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de tumeur du cœur |
+
+1,214 |
+
+FCQX028 |
+
+Examen histopathologique de biopsie de nœud [ganglion] lymphatique |
+
+1,214 |
+
+FDQX007 |
+
+Examen histopathologique de biopsie de moelle osseuse avec coloration spéciale |
+
+1,214 |
+
+FCQX004 |
+
+Examen anatomopathologique de pièce d'exérèse de nœud [ganglion] lymphatique |
+
+1,214 |
+
+FCQX005 |
+
+Examen anatomopathologique de pièce d'exérèse d'un nœud [ganglion] lymphatique sentinelle |
+
+1,214 |
+
+FCQX008 |
+
+Examen anatomopathologique de pièce d'exérèse de 2 nœuds [ganglions] lymphatiques sentinelles |
+
+1,214 |
+
+FCQX007 |
+
+Examen anatomopathologique de pièce d'exérèse de 3 nœuds [ganglions] lymphatiques sentinelles |
+
+1,214 |
+
+FCQX006 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse d'un groupe lymphonodal [ganglionnaire lymphatique] |
+
+1,214 |
+
+FCQX010 |
+
+Examen anatomopathologique à visée carcinologique de pièces d'exérèse de 2 ou 3 groupes lymphonodaux [ganglionnaires lymphatiques] |
+
+1,214 |
+
+FCQX012 |
+
+Examen anatomopathologique à visée carcinologique de pièces d'exérèse de 4 à 6 groupes lymphonodaux [ganglionnaires lymphatiques] |
+
+1,214 |
+
+FCQX011 |
+
+Examen anatomopathologique à visée carcinologique de pièces d'exérèse de 7 groupes lymphonodaux [ganglionnaires lymphatiques] ou plus |
+
+1,214 |
+
+FAQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'amygdalectomie |
+
+1,214 |
+
+FBQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse du thymus ou de vestiges thymiques |
+
+1,214 |
+
+FFQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de splénectomie |
+
+1,214 |
+
+GEQX002 |
+
+Examen cytopathologique de produit de lavage bronchioloalvéolaire, non différencié, avec coloration spéciale |
+
+1,214 |
+
+GEQX001 |
+
+Examen cytopathologique de produit de lavage bronchioloalvéolaire, différencié, avec coloration spéciale |
+
+1,214 |
+
+GFQX020 |
+
+Examen histopathologique de biopsie de poumon avec coloration spéciale pour diagnostic d'affection non carcinologique |
+
+1,214 |
+
+GCQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de cavité nasale [fosse nasale] et/ ou de sinus paranasal |
+
+1,214 |
+
+GCQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse du rhinopharynx |
+
+1,214 |
+
+GDQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de cordectomie laryngée |
+
+1,214 |
+
+GDQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce de laryngectomie partielle et/ ou de pharyngectomie partielle |
+
+1,214 |
+
+GDQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de laryngectomie partielle verticale ou de laryngectomie totale |
+
+1,214 |
+
+GFQX006 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse pulmonaire non anatomique et/ ou de segmentectomie, non différenciées, sans résection de côte ni de vertèbre |
+
+1,214 |
+
+GFQX009 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse pulmonaire non anatomique et/ ou de segmentectomie, différenciées, sans résection de côte ni de vertèbre |
+
+1,214 |
+
+GFQX010 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse pulmonaire non anatomique et/ ou de segmentectomie, avec résection de côte et/ ou de vertèbre |
+
+1,214 |
+
+GFQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse d'une lobectomie pulmonaire, sans résection de côte ni de vertèbre |
+
+1,214 |
+
+GFQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pneumonectomie ou de lobectomies pulmonaires multiples, sans résection de côte ni de vertèbre |
+
+1,214 |
+
+GFQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse d'une lobectomie pulmonaire, avec résection de côte et/ ou de vertèbre |
+
+1,214 |
+
+GFQX007 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pneumonectomie ou de lobectomies pulmonaires multiples, avec résection de côte et/ ou de vertèbre |
+
+1,214 |
+
+GGQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de tumeur de plèvre |
+
+1,214 |
+
+HLQX013 |
+
+Examen histopathologique de biopsie de foie avec coloration spéciale pour diagnostic d'affection non carcinologique |
+
+1,214 |
+
+HAQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de lèvre, de commissure labiale et/ ou de muqueuse buccale |
+
+1,214 |
+
+HAQX017 |
+
+Examen anatomopathologique à visée carcinologique de pièce de glossectomie, de pelvectomie buccale, de pelviglossectomie ou d'oropharyngectomie sans mandibulectomie |
+
+1,214 |
+
+HAQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pelvimandibulectomie, de pelvi-glosso-mandibulectomie ou d'oropharyngectomie avec mandibulectomie |
+
+1,214 |
+
+HCQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de glande salivaire |
+
+1,214 |
+
+HDQX007 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pharyngolaryngectomie totale |
+
+1,214 |
+
+HEQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse endoscopique de l'œsophage |
+
+1,214 |
+
+HEQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'œsophagectomie partielle ou totale |
+
+1,214 |
+
+HEQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'œsophago-pharyngo-laryngectomie ou d'œsophagogastrectomie |
+
+1,214 |
+
+HFQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse endoscopique de l'estomac |
+
+1,214 |
+
+HFQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de gastrectomie partielle |
+
+1,214 |
+
+HFQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce de gastrectomie totale ou de dégastrogastrectomie |
+
+1,214 |
+
+HGQX003 |
+
+Examen anatomopathologique de pièce d'exérèse intestinale pour maladie inflammatoire chronique de l'intestin [MICI] |
+
+1,214 |
+
+HGQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse endoscopique de l'intestin grêle |
+
+1,214 |
+
+HGQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse segmentaire de l'intestin grêle |
+
+1,214 |
+
+HHQX007 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'appendicectomie |
+
+1,214 |
+
+HHQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse endoscopique de 1 ou 2 lésions du côlon et/ ou du rectum |
+
+1,214 |
+
+HHQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse endoscopique de 3 à 5 lésions du côlon et/ ou du rectum |
+
+1,214 |
+
+HHQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse endoscopique de 6 lésions ou plus du côlon et/ ou du rectum |
+
+1,214 |
+
+HHQX006 |
+
+Examen anatomopathologique à visée carcinologique de pièce de colectomie partielle ou de rectosigmoidectomie sans résection du mésorectum |
+
+1,214 |
+
+HHQX010 |
+
+Examen anatomopathologique à visée carcinologique de pièce de colectomie totale |
+
+1,214 |
+
+HHQX011 |
+
+Examen anatomopathologique à visée carcinologique de pièce de coloprotectomie totale |
+
+1,214 |
+
+HJQX004 |
+
+Examen anatomopathologique à visée carcinologique de rectosigmoidectomie, ou d'exérèse partielle ou totale de rectum, emportant le mésorectum |
+
+1,214 |
+
+HKQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse du canal anal et/ ou de la marge anale |
+
+1,214 |
+
+HLQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'une hépatectomie partielle |
+
+1,214 |
+
+HLQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièces de plusieurs hépatectomies partielles |
+
+1,214 |
+
+HLQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'hépatectomie totale |
+
+1,214 |
+
+HMQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de cholécystectomie |
+
+1,214 |
+
+HMQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de conduit biliaire extrahépatique |
+
+1,214 |
+
+HNQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de la papille duodénale majeure [ampullectomie] |
+
+1,214 |
+
+HNQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pancréatectomie partielle, sans splénectomie |
+
+1,214 |
+
+HNQX007 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pancréatectomie partielle avec splénectomie |
+
+1,214 |
+
+HNQX006 |
+
+Examen anatomopathologique à visée carcinologique de pièce de duodénopancréatectomie partielle ou totale |
+
+1,214 |
+
+HPQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de tumeur du grand omentun, du péritoine et/ ou de repli péritonéal [méso] |
+
+1,214 |
+
+JKQX347 |
+
+Examen cytopathologique de prélèvement [frottis] du col de l'utérus pour dépistage individuel |
+
+1,214 |
+
+JKQX261 |
+
+Examen cytopathologique de prélèvement [frottis] du col de l'utérus pour dépistage organisé |
+
+1,214 |
+
+JKQX027 |
+
+Examen cytopathologique de contrôle de prélèvement [frottis] du col de l'utérus |
+
+1,214 |
+
+JKQX147 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de prélèvement [frottis] du col de l'utérus pour dépistage individuel |
+
+1,214 |
+
+JKQX015 |
+
+Examen cytopathologique de contrôle en phase liquide [technique monocouche] de prélèvement [frottis] du col de l'utérus |
+
+1,214 |
+
+JKQX426 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de prélèvement [frottis] du col de l'utérus pour dépistage organisé |
+
+1,214 |
+
+JAQX006 |
+
+Examen histopathologique de biopsie de rein avec coloration spéciale pour diagnostic d'affection non carcinologique |
+
+1,214 |
+
+JDQX002 |
+
+Examen histopathologique de fragments d'exérèse endoscopique de la vessie |
+
+1,214 |
+
+JGQX001 |
+
+Examen histopathologique de fragments d'exérèse endoscopique de la prostate |
+
+1,214 |
+
+JAQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de néphrectomie totale ou de néphro-urétérectomie |
+
+1,214 |
+
+JAQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de néphrectomie partielle |
+
+1,214 |
+
+JCQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'urétrectomie partielle ou totale |
+
+1,214 |
+
+JDQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de cystectomie partielle |
+
+1,214 |
+
+JDQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de cystectomie totale |
+
+1,214 |
+
+JEQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'urétérectomie partielle ou totale |
+
+1,214 |
+
+JGQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de vésiculoprostatectomie totale |
+
+1,214 |
+
+JGQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de vésiculo-prostato-cystectomie totale |
+
+1,214 |
+
+JHQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'orchidectomie partielle |
+
+1,214 |
+
+JHQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'orchidectomie totale |
+
+1,214 |
+
+JHQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'amputation partielle du pénis |
+
+1,214 |
+
+JHQX007 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'amputation totale du pénis |
+
+1,214 |
+
+JJQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce de salpingectomie |
+
+1,214 |
+
+JJQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'une ovariectomie partielle ou totale |
+
+1,214 |
+
+JJQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de plusieurs ovariectomies partielle et/ ou totale |
+
+1,214 |
+
+JKQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'hystérectomie, sans annexectomie |
+
+1,214 |
+
+JKQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'hystérectomie, avec annexectomie |
+
+1,214 |
+
+JKQX020 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'hystérectomie, avec annexectomie et omentectomie |
+
+1,214 |
+
+JKQX007 |
+
+Examen anatomopathologique à visée carcinologique de pièce de conisation du col de l'utérus |
+
+1,214 |
+
+JLQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de colpectomie partielle ou totale |
+
+1,214 |
+
+JKQX006 |
+
+Examen anatomopathologique à visée carcinologique de pièce de trachélectomie [cervicectomie] ou de colpotrachélectomie |
+
+1,214 |
+
+JMQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de vulvectomie partielle |
+
+1,214 |
+
+JMQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de vulvectomie totale |
+
+1,214 |
+
+JFQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pelvectomie antérieure |
+
+1,214 |
+
+JFQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de pelvectomie totale |
+
+1,214 |
+
+JPQX007 |
+
+Examen anatomopathologique d'un placenta complet avec cordon et membranes |
+
+1,214 |
+
+JPQX019 |
+
+Examen anatomopathologique de plusieurs placentas complets avec cordons et membranes |
+
+1,214 |
+
+JQQX109 |
+
+Examen anatomopathologique de produit d'avortement avant la 14e semaine d'aménorrhée |
+
+1,214 |
+
+JQQX005 |
+
+Autopsie médicale d'un fœtus ou d'un nouveau-né de moins de 4 jours de vie, sans examen de l'encéphale |
+
+1,214 |
+
+JQQX003 |
+
+Autopsie médicale d'un fœtus ou d'un nouveau-né de moins de 4 jours de vie, avec examen de l'encéphale |
+
+1,214 |
+
+JQQX002 |
+
+Autopsie médicale de 2 fœtus |
+
+1,214 |
+
+JQQX004 |
+
+Autopsie médicale de 3 fœtus ou plus |
+
+1,214 |
+
+KCQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de lobectomie ou de lobo-isthmectomie thyroïdienne |
+
+1,214 |
+
+KCQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de thyroïdectomie subtotale ou totale |
+
+1,214 |
+
+KDQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce de parathyroïdectomie |
+
+1,214 |
+
+KEQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce de surrénalectomie |
+
+1,214 |
+
+PZQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'amputation partielle ou totale d'un doigt ou d'un orteil |
+
+1,214 |
+
+PZQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'amputation partielle ou totale de main, de pied ou de plusieurs doigts ou orteils |
+
+1,214 |
+
+PZQX008 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'amputation partielle ou totale de membre |
+
+1,214 |
+
+PAQX004 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de tumeur de l'os et/ ou de cartilage |
+
+1,214 |
+
+PDQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de tumeur des tissus mous fasciaux et/ ou sousfasciaux [aponévrotiques et/ ou sousaponévrotiques] |
+
+1,214 |
+
+ZZQX107 |
+
+Examen cytopathologique de l'étalement de produit de brossage, de grattage ou d'écouvillonnage de la peau ou de muqueuse |
+
+1,214 |
+
+QZQX021 |
+
+Examen histopathologique de biopsie de peau avec coloration spéciale pour diagnostic d'affection non carcinologique |
+
+1,214 |
+
+QZQX014 |
+
+Examen histopathologique de biopsie d'ongle avec coloration spéciale |
+
+1,214 |
+
+QZQX004 |
+
+Examen anatomopathologique à visée carcinologique d'une pièce d'exérèse de peau et/ ou de tissu mou susfascial [susaponévrotique] de moins de 5 cm2 |
+
+1,214 |
+
+QZQX005 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de peau et/ ou de tissu mou susfascial [susaponévrotique] de 5 cm2 ou plus |
+
+1,214 |
+
+QZQX032 |
+
+Examen anatomopathologique à visée carcinologique de plusieurs pièces d'exérèse de peau et/ ou de tissu mou susfascial [susaponévrotique] de moins de 5 cm2 |
+
+1,214 |
+
+QEQX016 |
+
+Examen histopathologique d'une macrobiopsie de sein |
+
+1,214 |
+
+QEQX037 |
+
+Examen histopathologique de plusieurs macrobiopsies de sein |
+
+1,214 |
+
+QEQX004 |
+
+Examen anatomopathologique à visée carcinologique d'une pièce de mastectomie partielle ou totale avec lésion unifocale |
+
+1,214 |
+
+QEQX005 |
+
+Examen anatomopathologique à visée carcinologique de plusieurs pièces de mastectomie partielle et/ ou totale avec lésion unifocale sur chaque pièce d'exérèse |
+
+1,214 |
+
+QEQX008 |
+
+Examen anatomopathologique à visée carcinologique d'une pièce de mastectomie partielle ou totale avec lésion infraclinique ou lésion plurifocale |
+
+1,214 |
+
+QEQX007 |
+
+Examen anatomopathologique à visée carcinologique de plusieurs pièces de mastectomie partielle et/ ou totale avec lésion infraclinique ou lésion plurifocale sur chaque pièce d'exérèse |
+
+1,214 |
+
+QEQX006 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse d'un conduit lactifère [pyramidectomie] |
+
+1,214 |
+
+QEQX010 |
+
+Examen anatomopathologique à visée carcinologique de pièce d'exérèse de plusieurs conduits lactifères [pyramidectomies] |
+
+1,214 |
+
+ZZQX128 |
+
+Examen cytopathologique de l'étalement d'un prélèvement ou de plusieurs prélèvements non différenciés de liquide de structure anatomique |
+
+1,214 |
+
+ZZQX103 |
+
+Examen cytopathologique de l'étalement de 2 prélèvements différenciés de liquide de structure anatomique |
+
+1,214 |
+
+ZZQX110 |
+
+Examen cytopathologique de l'étalement de 3 prélèvements différenciés de liquide de structure anatomique |
+
+1,214 |
+
+ZZQX117 |
+
+Examen cytopathologique de l'étalement de 4 prélèvements différenciés ou plus de liquide de structure anatomique |
+
+1,214 |
+
+ZZQX151 |
+
+Examen cytopathologique de l'étalement d'un prélèvement ou de plusieurs prélèvements non différenciés de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX139 |
+
+Examen cytopathologique de l'étalement de 2 prélèvements différenciés de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX141 |
+
+Examen cytopathologique de l'étalement de 3 prélèvements différenciés de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX133 |
+
+Examen cytopathologique de l'étalement de 4 prélèvements différenciés ou plus de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX116 |
+
+Examen cytopathologique de culot cellulaire d'un prélèvement ou de plusieurs prélèvements non différenciés de liquide et/ ou de produit de ponction de structure anatomique, avec inclusion en paraffine |
+
+1,214 |
+
+ZZQX023 |
+
+Examen cytopathologique de culot cellulaire de 2 prélèvements différenciés de liquide et/ ou de produit de ponction de structure anatomique, avec inclusion en paraffine |
+
+1,214 |
+
+ZZQX098 |
+
+Examen cytopathologique de culot cellulaire de 3 prélèvements différenciés de liquide et/ ou de produit de ponction de structure anatomique, avec inclusion en paraffine |
+
+1,214 |
+
+ZZQX054 |
+
+Examen cytopathologique de culot cellulaire de 4 prélèvements différenciés de liquide et/ ou de produit de ponction de structure anatomique, avec inclusion en paraffine |
+
+1,214 |
+
+ZZQX153 |
+
+Examen cytopathologique en phase liquide [technique monocouche] d'un prélèvement ou de prélèvements non différenciés de liquide, de structure anatomique |
+
+1,214 |
+
+ZZQX145 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de 2 prélèvements différenciés de liquide, de structure anatomique |
+
+1,214 |
+
+ZZQX147 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de 3 prélèvements différenciés de liquide, de structure anatomique |
+
+1,214 |
+
+ZZQX155 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de 4 prélèvements différenciés ou plus de liquide, de structure anatomique |
+
+1,214 |
+
+ZZQX170 |
+
+Examen cytopathologique en phase liquide [technique monocouche] d'un prélèvement ou de plusieurs prélèvements non différenciés de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX172 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de 2 prélèvements différenciés de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX158 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de 3 prélèvements différenciés de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX174 |
+
+Examen cytopathologique en phase liquide [technique monocouche] de 4 prélèvements différenciés ou plus de produit de ponction de structure anatomique |
+
+1,214 |
+
+ZZQX162 |
+
+Examen histopathologique de biopsie d'une structure anatomique |
+
+1,214 |
+
+ZZQX163 |
+
+Examen histopathologique de biopsie de 2 structures anatomiques |
+
+1,214 |
+
+ZZQX132 |
+
+Examen histopathologique de biopsie de 3 structures anatomiques |
+
+1,214 |
+
+ZZQX197 |
+
+Examen histopathologique de biopsie de 4 structures anatomiques |
+
+1,214 |
+
+ZZQX035 |
+
+Examen histopathologique de biopsie de 5 structures anatomiques ou plus |
+
+1,214 |
+
+ZZQX077 |
+
+Examen histopathologique de biopsies étagées d'une structure anatomique |
+
+1,214 |
+
+ZZQX200 |
+
+Examen histopathologique de biopsies étagées de 2 structures anatomiques |
+
+1,214 |
+
+ZZQX068 |
+
+Examen histopathologique de biopsies étagées de 3 structures anatomiques |
+
+1,214 |
+
+ZZQX047 |
+
+Examen histopathologique de biopsies étagées de 4 structures anatomiques ou plus |
+
+1,214 |
+
+ZZQX217 |
+
+Examen histopathologique de biopsies d'une structure anatomique avec cartographie |
+
+1,214 |
+
+ZZQX012 |
+
+Examen histopathologique de biopsies de plusieurs structures anatomiques avec cartographie de chaque structure anatomique |
+
+1,214 |
+
+ZZQX149 |
+
+Examen cytopathologique et/ ou histopathologique extemporané d'un prélèvement de structure anatomique, hors du lieu du prélèvement |
+
+1,214 |
+
+ZZQX119 |
+
+Examen cytopathologique et/ ou histopathologique extemporané d'un prélèvement de structure anatomique, sur le lieu du prélèvement |
+
+1,214 |
+
+ZZQX175 |
+
+Examen cytopathologique et/ ou histopathologique extemporané de 2 à 4 prélèvements différenciés de structure anatomique, hors du lieu du prélèvement |
+
+1,214 |
+
+ZZQX118 |
+
+Examen cytopathologique et/ ou histopathologique extemporané de 2 à 4 prélèvements différenciés de structure anatomique, sur le lieu du prélèvement |
+
+1,214 |
+
+ZZQX146 |
+
+Examen cytopathologique et/ ou histopathologique extemporané de 5 prélèvements différenciés ou plus de structure anatomique, hors du lieu du prélèvement |
+
+1,214 |
+
+ZZQX104 |
+
+Examen cytopathologique et/ ou histopathologique extemporané de 5 prélèvements différenciés ou plus de structure anatomique, sur le lieu du prélèvement |
+
+1,214 |
+
+ZZQX123 |
+
+Examen histopathologique de fragment d'exérèse endoscopique ou de curetage de structure anatomique, non différenciés par le préleveur |
+
+1,214 |
+
+ZZQX159 |
+
+Examen histopathologique de fragments d'exérèse endoscopique ou de curetage d'une structure anatomique, différenciés par le préleveur |
+
+1,214 |
+
+ZZQX177 |
+
+Examen histopathologique de fragments d'exérèse endoscopique ou de curetage de plusieurs structures anatomiques, différenciés par le préleveur sur chaque structure |
+
+1,214 |
+
+ZZQX188 |
+
+Examen anatomopathologique de pièce d'exérèse monobloc ou en fragments non différenciés, d'une structure anatomique |
+
+1,214 |
+
+ZZQX127 |
+
+Examen anatomopathologique de pièce d'exérèse en fragments différenciés d'une structure anatomique |
+
+1,214 |
+
+ZZQX192 |
+
+Examen anatomopathologique de pièce d'exérèse en fragments différenciés de plusieurs structures anatomiques |
+
+1,214 |
+
+ZZQX180 |
+
+Examen anatomopathologique de pièce d'exérèse de 2 structures anatomiques |
+
+1,214 |
+
+ZZQX178 |
+
+Examen anatomopathologique de pièce d'exérèse de 3 structures anatomiques |
+
+1,214 |
+
+ZZQX181 |
+
+Examen anatomopathologique de pièce d'exérèse de 4 structures anatomiques ou plus |
+
+1,214 |
+
+ZZQX069 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé avec 1 à 2 anticorps, sans quantification du signal |
+
+1,214 |
+
+ZZQX081 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé avec 1 à 2 anticorps, avec quantification du signal pour chaque anticorps |
+
+1,214 |
+
+ZZQX027 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé avec 3 à 5 anticorps, sans quantification du signal |
+
+1,214 |
+
+ZZQX045 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé avec 3 à 5 anticorps, avec quantification du signal pour chaque anticorps |
+
+1,214 |
+
+ZZQX034 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé avec 6 à 9 anticorps, sans quantification du signal |
+
+1,214 |
+
+ZZQX122 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé avec 6 à 9 anticorps, avec quantification du signal pour chaque anticorps |
+
+1,214 |
+
+ZZQX092 |
+
+Examen immunocytochimique ou immunohistochimique de prélèvement cellulaire ou tissulaire fixé, avec 10 anticorps ou plus, sans quantification du signal |
+
+1,214 |
+
+ZZQX016 |
+
+Examen cytopathologique ou anatomopathologique de prélèvement cellulaire ou tissulaire congelé, avec examen immunocytochimique, immunohistochimique et/ ou immunofluorescence avec 1 à 4 anticorps |
+
+1,214 |
+
+ZZQX073 |
+
+Examen cytopathologique ou anatomopathologique de prélèvement cellulaire ou tissulaire congelé, avec examen immunocytochimique, immunohistochimique et/ ou immunofluorescence avec 5 anticorps ou plus |
+
+1,214 |
+
+ZZQX029 |
+
+Examen cytopathologique ou histopathologique par hybridation in situ, sans quantification du signal |
+
+1,214 |
+
+ZZQX058 |
+
+Examen cytopathologique ou histopathologique par hybridation in situ, avec quantification du signal |
+
+1,214 |
+
+ZZQX628 |
+
+Test de détection du génome des papillomavirus humains oncogènes pour dépistage individuel |
+
+1,214 |
+
+ZZQX603 |
+
+Test de détection du génome des papillomavirus humains oncogènes pour dépistage organisé |
+
+1,214 |
+
+ZZQX065 |
+
+Examen histopathologique ou cytopathologique pour second avis |
+
+1,214 |
+
+ZZQX086 |
+
+Examen histopathologique ou cytopathologique de cancer rare pour seconde lecture |
+
+1,214 |

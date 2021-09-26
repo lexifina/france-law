@@ -180,9 +180,9 @@ Le médecin peut s’opposer à la reconduction de l’option selon les modalit�
 
 Article 4 Suivi du respect des engagements dans le cadre de l’OPTAM-CO
 
-A compter de la date d’adhésion à l’option, l’assurance maladie informe le médecin, chaque trimestre, sur le suivi de sa pratique tarifaire : taux de dépassement constaté, part de l’activité réalisée au tarif opposable, montant des honoraires sans dépassement et montant des dépassements d’honoraires.
+A compter de la date d'adhésion à l'option, l'assurance maladie informe le médecin, mensuellement, sur le suivi de sa pratique tarifaire : taux de dépassement des tarifs conventionnels constaté, part de l'activité réalisée au tarif opposable, montant des honoraires sans dépassement et montant des honoraires avec dépassements des tarifs conventionnels. Le médecin est informé de la mise à disposition de ces données sur Amelipro.
 
-Le médecin est informé de la mise à disposition de ces données sur Espace Pro.
+Un suivi des données de résultats du médecin adhérent au regard de ses objectifs sur les 3 derniers mois glissants consolidés lui est présenté via Amelipro tout au long de l'année, via un visuel sous forme de " warning " lui permettant de vérifier s'il respecte ou non ses engagements contractuels.
 
 Si, à l’issue de deux trimestres consécutifs, la caisse constate le non-respect par le médecin de l’un ou l’autre des engagements souscrits dans le cadre de l’option, elle lui adresse un courrier d’avertissement signalant d’une part, les anomalies constatées et d’autre part, le fait que si le non-respect des engagements est constaté à l’issue d’une année civile, une procédure de résiliation de l’adhésion est susceptible d’être mise en œuvre dans les conditions définies à l’article 5.
 

@@ -132,7 +132,7 @@ Les mêmes dispositions s'appliquent aux médecins qui participent aux sous-comm
 
 Article 6 Dispositions particulières sur les organisations coordonnées territoriales de proximité dans le cadre de la téléconsultation
 
-Conformément aux dispositions de l’article 28.6.1.2 de la présente convention, les organisations territoriales coordonnées constituées sous une autre forme que communautés professionnelles territoriales de santé (CPTS), équipes de soins primaires (ESP), de maisons de santé pluriprofessionnelles (MSP), de centres de santé sont référencées par la caisse primaire à l’issue de la validation de l’organisation proposée par la commission paritaire locale (CPL) ou régionale des médecins libéraux (CPR) selon le territoire d’intervention de l’organisation, afin de s’assurer que celle-ci répond à l’organisation territoriale souhaitée par les partenaires conventionnels dans le cadre des téléconsultations.
+Conformément aux dispositions de l’article 28.6.1.2 de la présente convention, les organisations territoriales coordonnées constituées sous une autre forme que communautés professionnelles territoriales de santé (CPTS), équipes de soins primaires (ESP), équipes de soins spécialisés (ESS), de maisons de santé pluriprofessionnelles (MSP), de centres de santé sont référencées par la caisse primaire à l’issue de la validation de l’organisation proposée par la commission paritaire locale (CPL) ou régionale des médecins libéraux (CPR) selon le territoire d’intervention de l’organisation, afin de s’assurer que celle-ci répond à l’organisation territoriale souhaitée par les partenaires conventionnels dans le cadre des téléconsultations.
 
 Ainsi :
 
@@ -142,9 +142,7 @@ Ainsi :
 
 Les membres de la CPL/CPR se prononcent sur la validation de cette organisation lors d’une réunion de l’instance, qui doit se tenir au plus tard dans un délai de trois mois la réception du dossier complet remis par le porteur de projet.
 
-La commission se prononce en principe sur pièces. Toutefois, à la demande du porteur de projet, ce dernier peut être entendu en séance, pour fournir les explications complémentaires qu’il juge utile.
-
-Les modalités de vote suivent celles définies à l’article 2.2 de la présente annexe.
+La commission se prononce en principe sur pièces. Toutefois, à la demande du porteur de projet, ce dernier peut être entendu en séance, pour fournir les explications complémentaires qu’il juge utile. Les modalités de vote suivent celles définies à l’article 2.2 de la présente annexe.
 
 La commission paritaire émet en séance un avis sur la décision à prendre.
 
