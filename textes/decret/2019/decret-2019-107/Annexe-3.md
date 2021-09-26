@@ -1,25 +1,99 @@
 # Article Annexe 3
 
-DÉPARTEMENT D'IMPLANTATION |
+DÉPARTEMENT
 
-BRIGADE DE RECHERCHES |
+D'IMPLANTATION
 
-ZONE DE COMPÉTENCE JUDICIAIRE |
+|
 
-Haute-Marne (52). |
+BRIGADE DE RECHERCHES
 
-Saint-Dizier. |
+|
 
-Haute-Marne (52), Meuse (55). |
+ZONE DE COMPÉTENCE JUDICIAIRE
 
-Meuse (55). |
+|
 
-Commercy. |
+Lot (46).
 
-Haute-Marne (52), Meuse (55). |
+|
 
-Seine-Maritime (76). |
+Figeac.
 
-Dieppe. |
+|
 
-Seine-Martime (76), Somme (80). |
+Aveyron (12), Lot (46).
+
+|
+
+Haute-Marne (52).
+
+|
+
+Saint-Dizier.
+
+|
+
+Haute-Marne (52), Meuse (55).
+
+|
+
+Meuse (55).
+
+|
+
+Commercy.
+
+|
+
+Haute-Marne (52), Meuse (55).
+
+|
+
+Bas-Rhin (67).
+
+|
+
+Sélestat.
+
+|
+
+Bas-Rhin (67), Haut-Rhin (68).
+
+|
+
+Haut-Rhin (68).
+
+|
+
+Colmar.
+
+|
+
+Bas-Rhin (67), Haut-Rhin (68).
+
+|
+
+Seine-Maritime (76).
+
+|
+
+Dieppe.
+
+|
+
+Seine-Maritime (76), Somme (80).
+
+|
+
+Vendée (85).
+
+|
+
+Fontenay-le-Comte.
+
+|
+
+Charente-Maritime (17), Deux-Sèvres (79), Vendée (85).
+
+|
