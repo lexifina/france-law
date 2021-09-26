@@ -26,7 +26,7 @@ Caen (14), Rennes (35), Nantes (44), Orléans (45), Cherbourg (50), Le Havre (76
 
 Direction zonale de la police aux frontières du Sud-Est |
 
-Annemasse (74), Grenoble (38), Clermont-Ferrand (63), Lyon (69), Modane (73) |
+Annemasse (74), Voiron (38), Clermont-Ferrand (63), Lyon (69), Modane (73) |
 
 Direction zonale de la police aux frontières du Sud-Ouest |
 
