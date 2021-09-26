@@ -1,8 +1,6 @@
 # Article Annexe II
 
-Objectifs de la formation suivie par un architecte inscrit à l'ordre des architectes pour réaliser un audit énergétique éligible au crédit d'impôt pour la transition énergétique (CITE)
-
-L'architecte mentionné au c du II de l'article 1er du présent décret, qui réalise un audit énergétique éligible au CITE, doit avoir suivi une formation d'au moins quatre jours dont les objectifs sont les suivants :
+La formation suivie par les personnes visées au c et d du II de l'article 1er du présent décret répond aux objectifs suivants :
 
 - être capable d'intégrer les problématiques d'une enveloppe performante : existant, usage, hiver/été ;
 

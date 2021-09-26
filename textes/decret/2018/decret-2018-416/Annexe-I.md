@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Critères relatifs à la qualification d'un prestataire réalisant un audit énergétique éligible au crédit d'impôt pour la transition énergétique (CITE) pour une maison individuelle :
+Critères relatifs à la qualification d'un prestataire réalisant un audit énergétique éligible à la prime de transition énergétique pour une maison individuelle :
 
 Le signe de qualité mentionné au b du II de l'article 1er du présent décret comporte en son référentiel et/ou sa nomenclature les exigences suivantes auxquelles tout postulant devra satisfaire :
 
