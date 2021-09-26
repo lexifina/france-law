@@ -1,7 +1,5 @@
 # Article Annexe II
 
-ANNEXE II
-
 PROGRAMMES ET NATURE DES ÉPREUVES D'ADMISSION
 
 1. Epreuve d'entretien d'aptitude à l'emploi d'officier
@@ -43,8 +41,6 @@ Le résultat obtenu compris entre deux performances entraîne l'octroi de la not
 Les épreuves non effectuées, non terminées ou dont les performances sont inférieures à celles de la note 1 sont notées zéro.
 
 Chaque épreuve est notée sur 20, soit un total de 60 points ramené à une note finale sur 20.
-
-L'âge devant être pris en compte pour l'application des barèmes est celui du candidat au 31 décembre de l'année de présentation au concours.
 
 BAREME MASCULIN |
 
