@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119180
+
+- Question : [SEQ201119180](seq201119180.md) — Plan 2020-2025 de protection du rouget et merlu
+
+## Réponse
+
+*Mer, JO du 2021-09-30, page 5651*
+
+Le plan de gestion pour les espèces démersales en Méditerranée occidentales (dit plan WestMed), entré en vigueur en 2019, prévoit une réduction de l'effort de pêche graduelle jusqu'en 2025. Cette réduction a été de 10 % pour l'année 2020 et de 7,5 % pour l'année 2021 à l'issue de la négociation annuelle ayant lieu au Conseil des ministres de l'Union européenne. Pour l'année 2021, chaque navire dispose d'une enveloppe de 183 jours de mer, par conséquent supérieure au seuil de rentabilité moyen estimé à 177 jours annuellement. Le plan de gestion WestMed prévoit en outre des fermetures spatio-temporelles à mettre en place par la France dans le Golfe du Lion et en Corse. Ces fermetures, qui s'étendent sur une zone d'environ 5 000 km2 fermée entre 6 à 8 mois annuellement, ont été élaborées en concertation avec la profession, soucieuse de préserver les stocks halieutiques dont dépend leur activité économique. Leurs résultats ont été évalués très positivement en 2021 par l'institut français de recherche pour l'exploitation de la mer (IFREMER) comme ayant eu un impact significatif de réduction des captures de merlus et de rouget juvéniles. Ces mesures visent à terme à rétablir les stocks halieutiques et, par voie de conséquence, assurer une exploitation durable de la ressource par les entreprises de pêche. En outre, et afin d'accompagner le secteur de la pêche professionnelle au chalut en Méditerranée, un plan d'accompagnement spécifique a été mis en place, reposant notamment sur le Fonds européen pour les affaires maritimes et la pêche avec un mécanisme d'arrêts temporaires aidés pour les navires permettant de maintenir l'activité économique du secteur.
