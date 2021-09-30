@@ -1,0 +1,10 @@
+# COMMUNE DE LESNEVEN : délibération DEL30SEPT2110MP — MARCHES PUBLICS - AVENANTS AUX MARCHES DE TRAVAUX POUR L'AMENAGEMENT DE LA COULEE VERTE LE PARCOU
+
+- Collectivité : COMMUNE DE LESNEVEN
+- SIRET : 21290124300015
+- Code INSEE : 29124
+- Date : 2021-09-30
+- Matière : 1.1 Commande Publique/Marches publics
+- Objet : MARCHES PUBLICS - AVENANTS AUX MARCHES DE TRAVAUX POUR L'AMENAGEMENT DE LA COULEE VERTE LE PARCOU
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901243/Deliberation/2021/124205/59e12a83e94a73cdbafb876e26fed20c7386ff6308e698a0d87e0ca480fbe351.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
