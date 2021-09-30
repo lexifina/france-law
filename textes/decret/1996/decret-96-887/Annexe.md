@@ -18,7 +18,7 @@ Conformément aux dispositions des articles 27 et 29 de la loi n° 91-647 du 10 
 
 4° Les missions d'assistance aux personnes déférées devant le procureur de la République en application de l'article 393 du code de procédure pénale ;
 
-5° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante qu'ils accomplissent ;
+5° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue au 2° de l'article L. 422-1, de l'activité d'aide ou de réparation prévue au 1° de l'article L. 112-8 ou de la médiation prévue au 2° de l'article L. 112-8 du code de la justice pénale des mineurs qu'ils accomplissent ;
 
 6° Les missions d'assistance aux détenus au cours de procédures disciplinaires en relation avec leur détention, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
@@ -36,7 +36,7 @@ a) Carpa-aide juridictionnelle ;
 
 b) Carpa-garde à vue, audition libre, de la retenue ou de la rétention, de la retenue douanière et de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ;
 
-c) Carpa-défèrement, carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
+c) Carpa-défèrement, carpa-médiation et composition pénales et mesure prévue au 2° de l'article L. 422-1, de l'activité d'aide ou de réparation prévue au 1° de l'article L. 112-8 ou de la médiation prévue au 2° de l'article L. 112-8 du code de la justice pénale des mineurs ;
 
 d) Carpa-assistance d'un détenu.
 
@@ -106,11 +106,11 @@ L'ensemble de ces états et pièces doivent être communiqués au commissaire au
 
 Chapitre III
 
-Rétribution finale due à l'avocat et d'aide à l'intervention de l'avocat
+Rétribution finale due à l'avocat
 
 Section 1
 
-Les missions d'aide juridictionnelle
+Les missions d'aide juridictionnelle et d'aide à l'intervention de l'avocat
 
 Article 13
 
@@ -156,7 +156,7 @@ Dans ces deux derniers cas, il est procédé à deux enregistrements distincts :
 
 Pour les missions d'aide juridictionnelle partielle, le montant de la rétribution due à l'avocat est égal à celui de la contribution due par l'Etat.
 
-Lorsque l'avocat est commis ou désigné d'office dans le cadre d'une procédure mentionnée à l'article 19-1 de la loi du 10 juillet 1991 sont pris en compte le nombre d'unités de valeur portés sur le document attestant de l'intervention de l'avocat et le montant de l'unité de valeur en vigueur à la date d'accomplissement de la mission
+Lorsque l'avocat est commis ou désigné d'office dans le cadre d'une procédure mentionnée à l'article 19-1 de la loi du 10 juillet 1991 sont pris en compte le nombre d'unités de valeur portés sur le document attestant de l'intervention de l'avocat et le montant de l'unité de valeur en vigueur à la date d'accomplissement de la mission.
 
 Dans tous les cas, il prend en compte la situation fiscale de l'avocat au regard des dispositions législatives et réglementaires relatives à la T. V. A.
 
@@ -176,7 +176,7 @@ Il est procédé, le cas échéant, à la déduction :
 
 4° Des sommes versées au titre d'un contrat d'assurance de protection juridique ou d'un autre système de protection telles qu'elles sont indiquées dans l'attestation de mission, conformément aux dispositions de l'article 102 du décret du 19 décembre 1991 précité.
 
-Articles 18 à 21-5 (Abrogés)
+Articles 18 à 20-5 (Abrogés)
 
 Section 2
 
@@ -296,7 +296,7 @@ I.-La Carpa transmet à l'ordonnateur compétent un état de trésorerie mensuel
 
 2° bis Le nombre d'interventions et les montants des rétributions versées aux avocats pour les missions d'assistance aux personnes déférées devant le procureur de la République en application de l'article 393 du code de procédure pénale ;
 
-3° Le nombre d'interventions et les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
+3° Le nombre d'interventions et les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue au 2° de l'article L. 422-1, de l'activité d'aide ou de réparation prévue au 1° de l'article L. 112-8 ou de la médiation prévue au 2° de l'article L. 112-8 du code de la justice pénale des mineurs ;
 
 4° Les montants des rétributions versées aux avocats pour l'assistance aux détenus au cours de procédures disciplinaires, de mesures d'isolement d'office, de prolongation de ces mesures, ou de levée, sans leur accord, de placements à l'isolement à leur demande.
 
@@ -332,4 +332,4 @@ Pour les missions d'aide juridictionnelle et d'aides à l'intervention de l'avoc
 
 NOTA :
 
-Conformément à l'article 190 du décret n° 2020-1717 du 28 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2021.
+Conformément à l’article 8 du décret n° 2021-682 du 27 mai 2021, ces dispositions entrent en vigueur à la date fixée par l'article 9 de l'ordonnance n° 2019-950 du 11 septembre 2019, soit le 30 septembre 2021.
