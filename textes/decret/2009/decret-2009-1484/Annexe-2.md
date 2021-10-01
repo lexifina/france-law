@@ -16,10 +16,6 @@ Côtes-d'Armor.
 
 Finistère.
 
-Corse-du-Sud.
-
-Haute-Corse.
-
 Gironde.
 
 Hérault.
@@ -45,3 +41,7 @@ Seine-Maritime.
 Vendée.
 
 Var.
+
+NOTA :
+
+Conformément à l'article 13 du décret n° 2021-1140 du 1er septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021.
