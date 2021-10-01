@@ -6,15 +6,17 @@ APPAREILS ET DISPOSITIFS TECHNIQUES SOUMIS À AUTORISATION EN APPLICATION DE L'A
 
 Entrent notamment dans cette catégorie :
 
--les appareils dont les fonctionnalités qui participent à l'interception, l'écoute, l'analyse, la retransmission, l'enregistrement ou le traitement de correspondances ne sont pas activées, quel que soit le moyen d'activation ;
+- les appareils qui permettent aux opérateurs de communications électroniques de connecter les équipements de leurs clients au cœur de leur réseau radioélectrique mobile ouvert au public, dès lors que ces appareils disposent de fonctionnalités, pouvant être configurées et activées à distance, permettant de dupliquer les correspondances des clients, à l'exclusion des appareils installés chez ceux-ci ;
 
--les appareils permettant, par des techniques non intrusives d'induction électromagnétique ou de couplage optique, d'intercepter ou d'écouter les correspondances transitant sur les câbles filaires ou les câbles optiques des réseaux de communications électroniques.
+- les appareils dont les fonctionnalités qui participent à l'interception, l'écoute, l'analyse, la retransmission, l'enregistrement ou le traitement de correspondances ne sont pas activées, quel que soit le moyen d'activation ;
+
+- les appareils permettant, par des techniques non intrusives d'induction électromagnétique ou de couplage optique, d'intercepter ou d'écouter les correspondances transitant sur les câbles filaires ou les câbles optiques des réseaux de communications électroniques.
 
 N'entrent pas dans cette catégorie :
 
--les appareils de tests et de mesures acquis exclusivement pour l'établissement, la mise en service, le réglage et la maintenance des réseaux et systèmes de communications électroniques ;
+- les appareils de tests et de mesures acquis exclusivement pour l'établissement, la mise en service, le réglage et la maintenance des réseaux et systèmes de communications électroniques ;
 
--les dispositifs permettant de réaliser l'enregistrement des communications reçues ou émises par des équipements terminaux de télécommunications, lorsque cet enregistrement fait partie des fonctionnalités prévues par les caractéristiques publiques de ces équipements.
+- les dispositifs permettant de réaliser l'enregistrement des communications reçues ou émises par des équipements terminaux de télécommunications, lorsque cet enregistrement fait partie des fonctionnalités prévues par les caractéristiques publiques de ces équipements.
 
 2. Appareils permettant l'analyse du spectre radioélectrique ou son exploration manuelle ou automatique en vue de la réception et de l'écoute des fréquences n'appartenant pas aux bandes de fréquences attribuées seules ou en partage par le tableau national de répartition des bandes de fréquences au service de radiodiffusion, ou au service radioamateur, ou aux installations radioélectriques pouvant être établies librement en application de l'article L. 33-3 du code des postes et des communications électroniques, ou aux postes émetteurs et récepteurs fonctionnant sur les canaux banalisés dits CB.
 
@@ -22,11 +24,11 @@ N'entrent pas dans cette catégorie :
 
 Entrent dans cette catégorie :
 
--les dispositifs microémetteurs permettant la retransmission de la voix par moyens hertziens, optiques ou filaires, à l'insu du locuteur ;
+- les dispositifs microémetteurs permettant la retransmission de la voix par moyens hertziens, optiques ou filaires, à l'insu du locuteur ;
 
--les appareils d'interception du son à distance de type microcanon ou équipés de dispositifs d'amplification acoustique ;
+- les appareils d'interception du son à distance de type microcanon ou équipés de dispositifs d'amplification acoustique ;
 
--les systèmes d'écoute à distance par faisceaux laser.
+- les systèmes d'écoute à distance par faisceaux laser.
 
 4. Dispositifs techniques, à savoir tous matériels ou logiciels, spécifiquement conçus pour, sans le consentement des intéressés, accéder aux données informatiques, les enregistrer, les conserver et les transmettre, telles qu'elles sont stockées dans un système informatique, telles qu'elles s'affichent sur un écran pour l'utilisateur d'un tel système, telles qu'il les y introduit par saisie de caractères ou telles qu'elles sont reçues et émises par des périphériques audiovisuels, opérations ayant pour objet la captation de données informatiques prévue par l'article 706-102-1 du code de procédure pénale ou celle prévue par l'article L. 853-2 du code de la sécurité intérieure.
 
