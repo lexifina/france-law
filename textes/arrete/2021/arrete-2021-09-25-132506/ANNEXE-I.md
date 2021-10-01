@@ -1,0 +1,35 @@
+# Article ANNEXE I
+
+LISTE DES CHAMBRES DE MÉTIERS PARTICIPANT À LA CRÉATION D'UN SYSTÈME DE VOTE ÉLECTRONIQUE EN VUE DES ÉLECTIONS DES MEMBRES DES CMA SE DÉROULANT DU 1ER OCTOBRE AU 14 OCTOBRE 2021
+
+REGION
+
+COLLECTIVITE |
+
+CHAMBRE DE METIER |
+
+ADRESSE |
+
+ALSACE |
+
+Chambre de métiers d'Alsace |
+
+30, avenue de l'Europe |
+
+|
+
+67300 |
+
+SCHILTIGHEIM |
+
+MOSELLE |
+
+Chambre de métiers de la Moselle |
+
+5 boulevard de la Défense |
+
+|
+
+57070 |
+
+METZ |
