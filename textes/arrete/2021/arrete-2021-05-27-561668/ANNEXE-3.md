@@ -6,7 +6,7 @@ EXIGENCES MINIMALES À RESPECTER POUR ASSURER LA SANTÉ ET LA SÉCURITÉ DES STA
 
 1° bis Lors des enseignements dispensés en salle, les personnes présentes portent un masque barrière, en veillant notamment à ce que le nez et la bouche soient couverts.
 
-2° Les déplacements des stagiaires et des formateurs dans les locaux au sein desquels les formations sont dispensées sont organisés conformément aux préconisations et en tenant compte des bonnes pratiques énoncées dans le protocole national pour assurer la santé et la sécurité des salariés en entreprise face à l'épidémie de covid-19, disponible sur le site du ministère du travail. Ces déplacements s'effectuent dans le respect des mesures dites "barrières". Les stagiaires et les formateurs portent lors de leurs déplacements un masque barrière.
+2° Les déplacements des stagiaires et des formateurs dans les locaux au sein desquels les formations sont dispensées sont organisés conformément aux préconisations et en tenant compte des bonnes pratiques énoncées dans le protocole national pour assurer la santé et la sécurité des salariés en entreprise face à l'épidémie de covid-19, disponible sur le site du ministère du travail. Ces déplacements s'effectuent dans le respect des mesures dites barrières . Les stagiaires et les formateurs portent lors de leurs déplacements un masque barrière.
 
 3° Les salles de cours et les locaux d'accueil des stagiaires sont nettoyés, désinfectés et aérés conformément aux préconisations du protocole susmentionné.
 
@@ -22,7 +22,7 @@ EXIGENCES MINIMALES À RESPECTER POUR ASSURER LA SANTÉ ET LA SÉCURITÉ DES STA
 
 6° Lors des enseignements pratiques dispensés en véhicule :
 
-- le véhicule est aéré régulièrement, par l'ouverture des fenêtres. La climatisation du véhicule peut être activée, à condition que le système de climatisation soit correctement entretenu et que la fonction "recyclage de l'air", lorsqu'elle existe et si cela est possible, soit éteinte ;
+- le véhicule est aéré régulièrement, par l'ouverture des fenêtres. La climatisation du véhicule peut être activée, à condition que le système de climatisation soit correctement entretenu et que la fonction recyclage de l'air , lorsqu'elle existe et si cela est possible, soit éteinte ;
 
 - du gel hydro-alcoolique est à disposition des personnes présentes dans le véhicule.
 
@@ -30,4 +30,4 @@ EXIGENCES MINIMALES À RESPECTER POUR ASSURER LA SANTÉ ET LA SÉCURITÉ DES STA
 
 7° bis Avant et après chaque enseignement pratique, chaque passage au poste de conduite d'un véhicule et chaque manipulation d'un équipement de formation, les personnes concernées procèdent à une hygiène des mains.
 
-8° Les masques barrières mentionnés au présent arrêté appartiennent à l'une des catégories de masques de protection énumérées à l'annexe 1 du décret du 29 octobre susvisé. Pour les personnes à risque de forme grave de covid-19, les masques barrières appartiennent à la catégorie des masques de type chirurgical définie à l'annexe 1 du même décret.
+8° Les masques barrières mentionnés au présent arrêté appartiennent à l'une des catégories de masques de protection énumérées à l'annexe 1 du décret n° 2021-699 du 1er juin 2021 prescrivant les mesures générales nécessaires à la gestion de la sortie de crise sanitaire. Pour les personnes à risque de forme grave de covid-19, les masques barrières appartiennent à la catégorie des masques de type chirurgical définie à l'annexe 1 du même décret.
