@@ -26,7 +26,7 @@ III. - Scénarios de référence :
 
 - feu de récipients mobiles de liquides et solides liquéfiables combustibles en stockage couvert ;
 
-- feu d'engin de transport (principalement les camions).
+- feu d'engin de transport (principalement les camions et les chariots élévateurs).
 
 IV. - La stratégie est dimensionnée pour une extinction des incendies des scénarios de référence définis aux alinéas précédents en moins de trois heures après le départ de feu, pour les stockages extérieurs, et dans un délai maximal après le départ de feu équivalent au degré de résistance au feu des murs séparatifs, pour les stockages couverts.
 

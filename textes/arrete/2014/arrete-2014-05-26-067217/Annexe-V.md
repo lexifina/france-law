@@ -18,6 +18,6 @@ g) Au besoin, dispositions prises pour former le personnel aux tâches dont il s
 
 h) Dispositions visant à soutenir les mesures d'atténuation prises hors site ;
 
-i) Dispositions permettant de mener les premiers prélèvements environnementaux, dont les méthodes de prélèvement appropriées, et les analyses comme indiqué à l'article 5 du présent arrêté, en adéquation avec les types de produits de décomposition mentionnés au I de l'annexe III. Ce point est applicable aux plans d'opération interne ou à leurs mises à jour postérieurs au 1er janvier 2023.
+i) Dispositions permettant de mener les premiers prélèvements environnementaux, dont les méthodes de prélèvement appropriées, et les analyses comme indiqué à l'article 5 du présent arrêté, et portant sur les substances toxiques, les types de produits de décomposition mentionnés au I de l'annexe III et, le cas échéant, pour les installations relevant du L. 515-36 du code de l'environnement, les substances générant des incommodités fortes sur de grandes distances. Ce point est applicable aux plans d'opération interne ou à leurs mises à jour postérieurs au 1er janvier 2023.
 
 j) Moyens et méthodes prévus, en ce qui concerne l'exploitant, pour la remise en état et le nettoyage de l'environnement après un accident majeur comme indiqué à l'article 5 du présent arrêté.

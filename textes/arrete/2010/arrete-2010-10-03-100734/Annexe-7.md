@@ -2,11 +2,13 @@
 
 DISPOSITIONS APPLICABLES AUX INSTALLATIONS EXISTANTES
 
-I.-Dispositions applicables aux installations existantes soumises à autorisation au titre de l'une ou plusieurs des rubriques nos 1436,4330,4331,4722,4734,4742,4743,4744,4746,4747 ou 4748, ou pour le pétrole brut au titre de l'une ou plusieurs des rubriques nos 4510 ou 4511 de la législation des installations classées pour la protection de l'environnement relevant du I. 1 de l'article 1er du présent arrêté
+I.-Dispositions applicables aux réservoirs aériens manufacturés de liquides inflammables exploités au sein d'une installation classée existante relevant du régime de l'autorisation au titre de l'une ou plusieurs des rubriques nos 1436,4330,4331,4722,4734,4742,4743,4744,4746,4747 ou 4748, ou pour le pétrole brut au titre de l'une ou plusieurs des rubriques nos 4510 ou 4511 de la législation des installations classées pour la protection de l'environnement
 
-Ce point définit les dispositions applicables aux installations existantes soumises à autorisation au titre de l'une ou plusieurs des rubriques nos 1436,4330,4331,4722,4734,4742,4743,4744,4746,4747 ou 4748, ou pour le pétrole brut au titre de l'une ou plusieurs des rubriques nos 4510 ou 4511 de la législation des installations classées pour la protection de l'environnement relevant du I. 1 de l'article 1er du présent arrêté, en complément le cas échéant de dispositions spécifiques plus contraignantes figurant dans les arrêtés d'autorisation.
+Ce point définit les dispositions applicables aux réservoirs aériens manufacturés de liquides inflammables exploités au sein d'une installation classée existante relevant du régime de l'autorisation au titre de l'une ou plusieurs des rubriques nos 1436,4330,4331,4722,4734,4742,4743,4744,4746,4747 ou 4748, ou pour le pétrole brut au titre de l'une ou plusieurs des rubriques nos 4510 ou 4511 de la législation des installations classées pour la protection de l'environnement, en complément le cas échéant de dispositions spécifiques plus contraignantes figurant dans les arrêtés d'autorisation.
 
-A.-L'ensemble des dispositions des articles 2 à 64 du présent arrêté s'appliquent aux installations relevant du I. 1 de l'article 1er du présent arrêté qui font l'objet d'une demande d'autorisation présentée à compter du 16 mai 2011 ainsi qu'aux extensions ou modifications d'installations existantes régulièrement mises en service nécessitant le dépôt d'une nouvelle demande d'autorisation en application de l'article R. 181-46 du code de l'environnement au-delà du 16 mai 2011.
+Les dispositions particulières applicables aux réservoirs ou rétentions, présents au sein de ces installations, et nouvellement soumis aux dispositions du présent arrêté en application du point III. de l'article I sont définies au point II. de la présente annexe.
+
+A.- Pour les installations dont la demande d'autorisation présentée à compter du 16 mai 2011 ainsi qu'aux extensions ou modifications d'installations existantes régulièrement mises en service nécessitant le dépôt d'une nouvelle demande d'autorisation en application de l'article R. 181-46 du code de l'environnement au-delà du 16 mai 2011, l'ensemble des dispositions des articles 2 à 64 du présent arrêté s'appliquent.
 
 Les articles 19,20,21,43-1,43-2,43-3 et 43-7 sont applicables selon les modalités décrites ci-dessous :
 
@@ -38,7 +40,9 @@ La stratégie de lutte contre l'incendie est mise à jour au plus tard le 1er ja
 
 43-2 |
 
-Dans les cas où la mise à jour de la stratégie incendie prévue au 43-1 pour tenir compte du scénario 4 conduit à une augmentation des moyens nécessaires, si l'exploitant prévoit un recours aux moyens des services d'incendie et de secours en application de l'article 43-3-2, ce recours ne porte que sur les moyens complémentaires sollicités. |
+Si la mise à jour de la stratégie de lutte contre l'incendie prévue au 43-1 conduit à une augmentation des moyens nécessaires, si l'exploitant prévoit un recours aux moyens des services d'incendie et de secours en application de l'article 43-2-2, ce recours ne porte que sur les moyens complémentaires sollicités.
+
+Les dispositions du 43-2-6 sont applicables aux sites nouveaux à compter du 16 mai 2011. |
 
 43-3 |
 
@@ -262,9 +266,7 @@ La stratégie de lutte contre l'incendie est mise à jour au plus tard le 1er ja
 
 Les dispositions du point 43-2-4 sont applicables aux installations existantes au 31 décembre 2013.
 
-Les dispositions du 43-2-6 sont applicables aux sites nouveaux à compter du 16 mai 2011.
-
-Dans les cas où la mise à jour de la stratégie incendie prévue au 43-1 pour tenir compte du scénario 4 conduit à une augmentation des moyens nécessaires, si l'exploitant prévoit un recours aux moyens des services d'incendie et de secours en application de l'article 43-3-2, ce recours ne porte que sur les moyens complémentaires sollicités. |
+Si la mise à jour de la stratégie de lutte contre l'incendie prévue au 43-1 conduit à une augmentation des moyens nécessaires, si l'exploitant prévoit un recours aux moyens des services d'incendie et de secours en application de l'article 43-2-2, ce recours ne porte que sur les moyens complémentaires sollicités. |
 
 43-3-1 |
 
@@ -358,13 +360,19 @@ Pour les installations existantes, une étude technico-économique portant sur l
 
 Les dispositions du présent article sont applicables aux installations existantes à compter du 16 novembre 2012. |
 
-II.-Dispositions applicables aux installations existantes au sein d'une installation classée soumise à autorisation selon une ou plusieurs autres rubriques que les rubriques dites “ liquides inflammables ”, dès lors que les quantités susceptibles d'être présentes de la substance ou du mélange dangereux avec une mention de danger H224, H225, H226 et de déchets liquides inflammables catégorisés HP3 dépassent 1 000 tonnes, relevant du I. 2 de l'article 1er du présent arrêté
+II.- Dispositions applicables aux réservoirs aériens manufacturés de liquides inflammables exploités au sein d'installations existantes et non couverts par le point I de la présente annexe.
 
-Ce point définit les dispositions applicables aux installations au sein d'une installation classée soumise à autorisation selon une ou plusieurs autres rubriques que les rubriques dites “ liquides inflammables ”, dès lors que les quantités susceptibles d'être présentes de la substance ou du mélange dangereux avec une mention de danger H224, H225, H226 et de déchets liquides inflammables catégorisés HP3 dépassent 1 000 tonnes, relevant du I. 2 de l'article 1er du présent arrêté, en complément le cas échéant de dispositions spécifiques plus contraignantes figurant dans les arrêtés d'autorisation.
+Ce point définit les dispositions applicables :
 
-Pour les installations relevant du I. 2 de l'article 1er du présent arrêté ayant fait l'objet d'un dépôt du dossier d'autorisation complet avant le 1er janvier 2021 ou régulièrement mise en service avant le 1er janvier 2021, et sans préjudice des dispositions déjà applicables, les dispositions du présent arrêté sont applicables aux liquides de mention de danger H224, H225, H226 et déchets liquides inflammables catégorisés HP3 selon les modalités particulières suivantes :
+-aux réservoirs aériens manufacturés de liquides inflammables au sein des installations existantes relevant du I. 2 de l'article 1er du présent arrêté ;
 
--les dispositions des articles 1er, 2,24,30 à 33,35,37,38,40,41 et 42 sont applicables à compter du 1er juillet 2021 ;
+-aux réservoirs aériens manufacturés de liquides inflammables ou rétentions au sein des installations existantes relevant du I. 1 de l'article 1er du présent arrêté et soumis aux dispositions du présent arrêté en application du point III de l'article I. et non couverts par le point I de la présente annexe.
+
+Ces dispositions s'appliquent en complément le cas échéant de dispositions spécifiques plus contraignantes figurant dans les arrêtés d'autorisation.
+
+Pour les installations, rétentions ou réservoirs cités ci-dessus, les dispositions du présent arrêté sont applicables aux liquides inflammables selon les modalités particulières suivantes :
+
+-les dispositions des articles 1er, 2, 24, 30 à 33, 37, 38, 40, 41 et 42 sont applicables à compter du 1er juillet 2021 ;
 
 -les dispositions des articles 3,10 et 11 sont applicables aux installations uniquement pour l'implantation d'un nouveau réservoir à compter du 1er janvier 2021 ;
 
@@ -526,7 +534,7 @@ Cette disposition est applicable. |
 
 23 |
 
-Les dispositions du présent article sont applicables aux installations existantes au 1er janvier 2023. |
+Les dispositions du présent article sont applicables aux installations existantes au 1er janvier 2026. |
 
 25 |
 
@@ -578,7 +586,7 @@ La stratégie de lutte contre l'incendie prévue au 43-1 est élaborée ou mise 
 
 43-2 |
 
-Dans le cas d'une installation déjà soumise au titre VI de l'arrêté ministériel du 3 octobre 2010, si la mise à jour de la stratégie de lutte contre l'incendie prévue au 43-1 conduit à une augmentation des moyens nécessaires, si l'exploitant prévoit un recours aux moyens des services d'incendie et de secours en application de l'article 43-3-2, ce recours ne porte que sur les moyens complémentaires sollicités.
+Dans le cas d'une installation déjà soumise au titre VI de l'arrêté ministériel du 3 octobre 2010, si la mise à jour de la stratégie de lutte contre l'incendie prévue au 43-1 conduit à une augmentation des moyens nécessaires, si l'exploitant prévoit un recours aux moyens des services d'incendie et de secours en application de l'article 43-2-2, ce recours ne porte que sur les moyens complémentaires sollicités.
 
 Les dispositions du point 43-2-4 sont applicables aux installations existantes au 1er janvier 2026. |
 

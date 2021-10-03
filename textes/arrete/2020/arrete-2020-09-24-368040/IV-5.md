@@ -8,7 +8,7 @@ II. - Dans le cas d'une présence permanente sur un site, une intervention suite
 
 Dans le cas d'un site sous télésurveillance :
 
-- le système de détection d'incendie actionne automatiquement un dispositif d'extinction automatique d'incendie des stockages couverts ;
+- un système de détection d'incendie actionne automatiquement un dispositif d'extinction automatique d'incendie des stockages couverts, lorsqu'il existe ;
 
 - le système de détection d'incendie actionne automatiquement le refroidissement des installations voisines identifiées en application du point IX de l'article VI-2 du présent arrêté. Une personne apte, formée et autorisée à la mise en œuvre des premiers moyens d'extinction est présente dans un délai inférieur à trente minutes après déclenchement de ce dispositif.
 

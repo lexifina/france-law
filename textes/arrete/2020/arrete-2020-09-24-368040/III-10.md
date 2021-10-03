@@ -2,7 +2,7 @@
 
 Détection incendie
 
-Les stockages extérieurs en récipients mobiles sont équipées d'un système de détection incendie. Ce dispositif est conçu, dimensionné et installé de manière à détecter, à tout moment, tout départ de feu sur les zones de stockages concernées. Le dispositif est distinct d'autres dispositifs de surveillance (telle que les surveillances anti-intrusion) et transmet une alerte dans les conditions prévues à l'article IV-5 du présent arrêté.
+Les stockages extérieurs en récipients mobiles sont équipés d'un système de détection incendie. Ce dispositif est conçu, dimensionné et installé de manière à détecter, à tout moment, tout départ de feu sur les zones de stockage concernées. Le dispositif est distinct d'autres dispositifs de surveillance (telles que les surveillances anti-intrusion) et transmet une alerte dans les conditions prévues à l'article IV-5 du présent arrêté.
 
 Cette disposition ne s'applique pas aux stockages extérieurs contenant moins de 10 mètres cube de liquides inflammables et de liquides et solides liquéfiables combustibles, et pour lesquels l'une des conditions suivantes est respectée :
 
