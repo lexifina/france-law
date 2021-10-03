@@ -50,9 +50,13 @@ Pour la saison aéronautique d'été 2021 :
 
 Terminal |
 
-Nombre maximal de passagers par 20 min au départ |
+Nombre maximal de passagers
 
-Nombre maximal de passagers par 120 min au départ |
+par 20 min au départ |
+
+Nombre maximal de passagers
+
+par 120 min au départ |
 
 Orly 1 |
 
@@ -74,19 +78,55 @@ Orly 4 |
 
 3400 |
 
-A compter de la saison aéronautique d'hiver 2021/2022 :
+Pour la saison aéronautique d'hiver 2021/2022 :
 
 Terminal |
 
-Nombre maximal de passagers par 20 min au départ |
+Nombre maximal de passagers
 
-Nombre maximal de passagers par 120 min au départ |
+par 20 min au départ |
+
+Nombre maximal de passagers
+
+par 120 min au départ |
 
 Orly 1 |
 
 1400 |
 
 8700 |
+
+Orly 2 |
+
+700 |
+
+Orly 3 |
+
+1500 |
+
+Orly 4 |
+
+1100 |
+
+3400 |
+
+A compter de la saison aéronautique d'été 2022 :
+
+Terminal |
+
+Nombre maximal de passagers
+
+par 20 min au départ |
+
+Nombre maximal de passagers
+
+par 120 min au départ |
+
+Orly 1 |
+
+1200 |
+
+8100 |
 
 Orly 2 |
 
