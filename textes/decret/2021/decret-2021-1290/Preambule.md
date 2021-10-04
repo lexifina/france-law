@@ -1,0 +1,13 @@
+# Article Préambule
+
+Convaincus de la nécessité d'unir leurs forces pour mieux relever ensemble les défis du monde contemporain, l'université de Nantes, l'Ecole centrale de Nantes, le centre hospitalier universitaire (CHU) de Nantes, l'Institut national de la santé et de la recherche médicale (INSERM), l'Ecole des beaux-arts de Nantes Saint-Nazaire (EBANSN), l'Ecole nationale supérieure d'architecture de Nantes (ENSA Nantes) et l'institut de recherche technologique (IRT) Jules Verne s'allient pour créer un nouvel établissement : Nantes Université.
+
+En faisant émerger un établissement public d'enseignement supérieur et de recherche de rang mondial à Nantes, appuyé sur le territoire et l'écosystème local, Nantes Université renforce les axes d'excellence de la recherche nantaise, notamment pour penser et construire la santé et l'industrie du futur. Elle développe de nouvelles thématiques et met le progrès scientifique et l'innovation au service de la société. Elle offre de nouvelles opportunités à ses étudiants en décloisonnant les modes de pensée, les cultures et les pratiques. Membre de l'Université européenne du bien-être EUniWell, elle contribue à la construction de l'Europe et démontre le rôle majeur des universités dans la transformation de la société.
+
+Forte de ses compétences et de son expertise dans le domaine de la santé, des sciences, de l'ingénierie et des technologies, des sciences humaines et sociales, de l'architecture et de l'environnement, des arts et de la culture, elle promeut le libre accès de tous à la connaissance, forme des citoyens éclairés, développe la recherche et l'innovation pour partager les savoirs, diffuser la culture scientifique, contribuer à la réflexion critique sur l'évolution du monde et être actrice de celle-ci, spécialement en s'emparant des enjeux attachés au développement durable.
+
+A la fois ancrée dans son territoire et résolument ouverte sur l'Europe et sur le monde, Nantes Université fait rayonner le service public de l'enseignement supérieur, de la recherche et de l'innovation et participe à son évolution pour le rendre plus fort, plus juste et plus attractif.
+
+Les membres de Nantes Université travaillent de manière collective dans l'objectif de construire et de mettre en œuvre ensemble une stratégie commune qui s'appuie sur la richesse de leur diversité, qui suscite l'adhésion la plus large de tous.
+
+Nantes Université porte des valeurs fortes, constitutives de son identité : elle repose sur un fonctionnement démocratique, elle est écoresponsable, inclusive, exemplaire dans l'application de l'égalité femmes-hommes, elle garantit la liberté académique et cherche constamment à améliorer les conditions d'étude et de travail.
