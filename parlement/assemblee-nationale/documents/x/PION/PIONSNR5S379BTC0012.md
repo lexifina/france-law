@@ -1,0 +1,10 @@
+# proposition de loi sur la proposition de loi de MM. Jérôme Durain, Jean-Yves Leconte, Patrick Kanner, Mme Marie-Pierre de la Gontrie, MM. Hussein Bourgi, Éric Kerrouche, Mme Laurence Harribey, MM. Didier Marie, Jean-Pierre Sueur, Mmes Laurence Rossignol, Laurence Rossignol, MM. Yannick Vaugrenard, Maurice Antiste, Mme Viviane Artigalas, M. Jacques-Bernard Magner, Mmes Nicole Bonnefoy, Marie-Arlette Carlotti, MM. Thierry Cozic, Gilbert-Luc Devinaz, Gilbert-Luc Devinaz, Rémi Féraud, Mme Martine Filleul, MM. Olivier Jacquin, Éric Jeansannetas, Mmes Gisèle Jourda, Monique Lubin, Michelle Meunier, Marie-Pierre Monier, MM. Franck Montaugé, Sebastien Pla, Claude Raynal, Christian Redon-Sarrazy, Mme Sylvie Robert, MM. Lucien Stanzione, Rachid Temal, Jean-Marc Todeschini, Jean-Marc Todeschini et Mme Sabine Van Heghe tendant à sécuriser l'intégration des jeunes majeurs étrangers pris en charge par l'aide sociale à l'enfance (475).
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : tendant à sécuriser l'intégration des jeunes majeurs étrangers  pris en charge par l'aide sociale à l'enfance
+- Déposé le : 2021-10-06
+- Dossier : DLR5L15N42088
+- Auteurs : Mme Jacqueline Eustache-Brinio (rapporteur), Commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale
+- Identifiant : PIONSNR5S379BTC0012
