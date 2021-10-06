@@ -14,11 +14,13 @@ de points
 
 par emploi |
 
-NOMBRE
+NOMBRE d'emplois concernés |
 
-d'emplois concernés |
+I.-Administration centrale |
 
-I-Administration centrale |
+|
+
+|
 
 |
 
@@ -278,7 +280,7 @@ C |
 
 1 |
 
-II-Services déconcentrés |
+II.-Services déconcentrés |
 
 |
 
@@ -294,53 +296,51 @@ II-Services déconcentrés |
 
 |
 
-Chiffreur
+Adjoint au directeur de cabinet du haut-commissaire, chef du bureau du cabinet
 
-Secrétaire administratif au service des communes
+Adjoint au chef de la subdivision administrative des Iles Marquises
 
-Assistant technique au service des communes
+Directeur de la réglementation et des affaires juridiques
 
-Chef de cabinet du haut-commissaire
+Directeur des interventions de l'Etat
 
-Adjoint technique à la subdivision des iles Sous-le-Vent
+Directeur de l'ingénierie publique
 
-Adjoint technique à la subdivision des iles du vent
+Chef du bureau de la communication interministérielle
 
-Adjoint technique à la subdivision des iles Tuamotu-Gambier
+Chef du bureau des ressources humaines et des traitements
 
-Adjoint au chef de la subdivision des iles Sous-le-Vent
+Responsable du pôle des relations avec les usagers
 
-Adjoint au chef de la subdivision des iles Marquises
+Chef de la mission de la stratégie et de l'évaluation
 
-Secrétaire administratif à la mission d'aide financière et de coopération régionale
+Chef du centre de services partagés interministériel Chorus
 
-Responsable de la mission d'aide financière et de coopération régionale au haut-commissariat
+Chef du bureau de l'aide à la mobilité et à l'insertion
 
-Directeur de l'administration et des finances au haut-commissariat
+Adjoint au chef du bureau de l'aide à la mobilité et à l'insertion
 
-Directeur de la réglementation et du contrôle de la légalité au haut-commissariat
+Responsable de la section protocole, expulsions et chancellerie
 
-Chef de la cellule budget et contrôle de gestion au haut-commissariat
+Secrétaire général des subdivisions administratives des îles du Vent et des îles sous-le-Vent
 
-Chef de la section des passeports et des cartes nationales d'identité au haut-commissariat |
+Adjoint à la subdivision administrative des îles Tuamotu-Gambier
 
-B
+Adjoint à la subdivision administrative des îles Australes |
 
-B
+A
 
-B
+A
 
-A ou B
+A
 
-A ou B
+A
 
-A ou B
+A
 
-A ou B
+A
 
-A ou B
-
-A ou B
+A
 
 B
 
@@ -350,39 +350,49 @@ A
 
 A
 
+B
+
+B
+
 A
+
+B
 
 B |
 
+20
+
+10
+
+30
+
+30
+
+30
+
+20
+
+20
+
+10
+
+20
+
 10
 
 10
 
-20
+10
 
 20
 
 20
 
-20
+10
 
-20
+10 |
 
-20
-
-20
-
-20
-
-20
-
-20
-
-20
-
-20
-
-20 |
+1
 
 1
 
@@ -422,23 +432,25 @@ B |
 
 |
 
-Chiffreur
+Adjoint au directeur de cabinet, directeur des sécurités
 
-Chef de cabinet du haut-commissaire
+Agent chargé du traitement de la paye au Haut-commissariat
 
-Agent chargé du traitement de la solde au haut-commissariat
-
-Chef du service des finances de l'Etat et du développement
-
-Premier adjoint au chef de la subdivision administrative Sud, chargé de la politique de la ville
+Adjoint au chef de la subdivision administrative Sud
 
 Adjoint au chef de la subdivision administrative Nord
 
-Adjoint à la subdivision des iles loyauté
+Adjoint au chef de la subdivision administrative des îles Loyauté
 
-Chef du service des collectivités locales |
+Chef du centre de services partagés interministériel (CSPI)
 
-B
+Directeur de l'action de l'Etat et de la coordination des politiques publiques
+
+Chef du bureau des ressources humaines
+
+Chef du bureau des affaires juridiques et des élections
+
+Chef du bureau de la représentation de l'Etat |
 
 A
 
@@ -452,9 +464,13 @@ A
 
 A
 
-A |
+A
 
-20
+A
+
+A
+
+A |
 
 20
 
@@ -468,7 +484,17 @@ A |
 
 20
 
-20 |
+20
+
+20
+
+10
+
+10 |
+
+1
+
+3
 
 1
 
@@ -480,9 +506,9 @@ A |
 
 1
 
-2
+1
 
-2
+1
 
 1 |
 
@@ -496,9 +522,9 @@ A |
 
 Délégué de Futuna
 
-Chiffreur
+Technicien SIC, adjoint au chef du SIC
 
-Chef de la circonscription administrative d'Uvéa |
+Adjoint au délégué de la circonscription d'Uvéa |
 
 A
 
@@ -526,9 +552,9 @@ A |
 
 |
 
-Chef de district
+Directeur des pêches et des questions maritimes
 
-Chef du service administratif et financier |
+Directeur des affaires administratives et financières |
 
 A
 
