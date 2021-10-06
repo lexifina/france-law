@@ -4,7 +4,7 @@ ANNEXE
 
 Zones à couvrir
 
-NUMÉRO DE ZONE
+NUMERO DE ZONE
 
 |
 
@@ -1074,27 +1074,13 @@ Site_GC_07_016_S1
 
 |
 
-2
+1
 
 |
 
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
+822085,20 |
 
-|
-
-|
-
-822085,20
-
-|
-
-6419568,90
-
-|
-
-Site_GC_07_016_S2
-
-|
+6419568,90 |
 
 2019_02_07-7
 
@@ -1181,136 +1167,6 @@ Site_ZN_07_003_S1
 |
 
 1
-
-|
-
-2019_02_15-1
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Cantal
-
-|
-
-ZN_15_001
-
-|
-
-PUY-MARY (MANDAILLES) / Lavigerie
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-673425
-
-|
-
-6445062
-
-|
-
-Site_ZN_15_010_S1
-
-|
-
-2
-
-|
-
-|
-
-675054
-
-|
-
-6444499
-
-|
-
-|
-
-674440
-
-|
-
-6445190
-
-|
-
-|
-
-681041
-
-|
-
-6449253
-
-|
-
-|
-
-679093
-
-|
-
-6448604
-
-|
-
-|
-
-679743
-
-|
-
-6447758
-
-|
-
-|
-
-676608
-
-|
-
-6447883
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-675866
-
-|
-
-6443726
-
-|
-
-Site_ZN_15_010_S2
-
-|
-
-|
-
-674080
-
-|
-
-6443096
 
 |
 
@@ -2044,67 +1900,59 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-881372,25
+881372
 
 |
 
-6406210,62
-
-|
-
-Site_ZN_26_005_S1
-
-|
-
-2
-
-|
-
-|
-
-880942,8
-
-|
-
-6405310,5
-
-|
-
-|
-
-881289,6
-
-|
-
-6405544,17
-
-|
-
-|
-
-881616,51
-
-|
-
-6406461,63
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-882539,82
-
-|
-
-6404875,78
+6406211
 
 |
 
 Site_ZN_26_005_S2
+
+|
+
+1
+
+|
+
+|
+
+880943
+
+|
+
+6405311
+
+|
+
+|
+
+881290
+
+|
+
+6405544
+
+|
+
+|
+
+881617
+
+|
+
+6406462
+
+|
+
+|
+
+882540
+
+|
+
+6404876
 
 |
 
@@ -2251,16 +2099,6 @@ Site_ZG_42_001_S1
 |
 
 6526063,25
-
-|
-
-|
-
-766880,73
-
-|
-
-6525791,86
 
 |
 
@@ -3278,68 +3116,6 @@ Site_ZN_69_004_S1
 
 |
 
-2019_02_69-2
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Rhône
-
-|
-
-ZN_69_006
-
-|
-
-Cenves
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-827232,8796
-
-|
-
-6576987,149
-
-|
-
-Site_ZN_69_006_S1
-
-|
-
-1
-
-|
-
-|
-
-827540,4372
-
-|
-
-6578080,687
-
-|
-
-|
-
-827082,7115
-
-|
-
-6575633,112
-
-|
-
 2019_02_69-3
 
 |
@@ -3732,18 +3508,6 @@ Site_ZN_74_005_S1
 
 |
 
-Point 2-RGF93
-
-|
-
-975132,1
-
-|
-
-6574483,72
-
-|
-
 Point 3-RGF93
 
 |
@@ -3949,98 +3713,6 @@ Point 5-RGF93
 |
 
 6576693,86
-
-|
-
-2019_02_74-6
-
-|
-
-Auvergne-Rhône-Alpes
-
-|
-
-Haute Savoie
-
-|
-
-ZN_74_009
-
-|
-
-CLERMONT
-
-|
-
-FREE MOBILE/ORANGE
-
-|
-
-Point 1-RGF93
-
-|
-
-925164,2
-
-|
-
-6545532,04
-
-|
-
-Site_ZN_74_009_S1
-
-|
-
-1
-
-|
-
-Point 2-RGF93
-
-|
-
-925017,61
-
-|
-
-6545531,75
-
-|
-
-Point 3-RGF93
-
-|
-
-925254,67
-
-|
-
-6544515,58
-
-|
-
-Point 4-RGF93
-
-|
-
-925109,81
-
-|
-
-6545058,75
-
-|
-
-Point 5-RGF93
-
-|
-
-924722,59
-
-|
-
-6545482,34
 
 |
 
@@ -4264,62 +3936,6 @@ Site_ZN_90_004_S1
 
 |
 
-2019_02_22-1
-
-|
-
-Bretagne
-
-|
-
-Côte-d'Armor
-
-|
-
-ZG_22_002
-
-|
-
-St-Michel-en-Grève
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Bourg – Ouest
-
-|
-
-217575
-
-|
-
-6862737
-
-|
-
-Site_ZG_22_002_S1
-
-|
-
-1
-
-|
-
-sud grève
-
-|
-
-216671
-
-|
-
-6861864
-
-|
-
 2019_02_22-2
 
 |
@@ -4521,18 +4137,6 @@ Plage Goret Camping
 |
 
 6857288
-
-|
-
-Grève Saint Marc GR34
-
-|
-
-269278
-
-|
-
-6856709
 
 |
 
@@ -4889,50 +4493,6 @@ Centre Bourg
 |
 
 Site_ZG_56_002_S1
-
-|
-
-1
-
-|
-
-2019_02_56-3
-
-|
-
-Bretagne
-
-|
-
-Morbihan
-
-|
-
-ZG_56_003
-
-|
-
-INZINZAC-LOCHRIST
-
-|
-
-ORANGE
-
-|
-
-Secteur Nord Est
-
-|
-
-232185
-
-|
-
-6768328
-
-|
-
-Site_ZG_56_003_S3
 
 |
 
@@ -6052,7 +5612,7 @@ Site_ZG_2A_001_S1
 
 |
 
-2
+1
 
 |
 
@@ -6080,10 +5640,6 @@ RD268-1
 
 |
 
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
 RD268-2
 
 |
@@ -6093,10 +5649,6 @@ RD268-2
 |
 
 6098957,374
-
-|
-
-Site_ZG_2A_001_S2
 
 |
 
@@ -6244,7 +5796,7 @@ Corse
 
 |
 
-Corse du Sud
+Corse-du-Sud
 
 |
 
@@ -6260,71 +5812,15 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-Bergerie de Basseta
-
-|
-
-1210676,479
-
-|
-
-6107035,703
-
-|
-
-Site_ZN_2A_003_S1
-
-|
-
-3
-
-|
-
 Refuge de Matalza
 
 |
 
-1211366,422
+1211366
 
 |
 
-6105846,336
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Bergeries de Cavallare
-
-|
-
-1213096,416
-
-|
-
-6105078,659
-
-|
-
-Site_ZN_2A_003_S2
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Pian d'Ornucciu
-
-|
-
-1212307,776
-
-|
-
-6101692,778
+6105846
 
 |
 
@@ -6332,15 +5828,31 @@ Site_ZN_2A_003_S3
 
 |
 
+1
+
+|
+
+Pian d'Ornucciu
+
+|
+
+1212308
+
+|
+
+6101693
+
+|
+
 Nouveau refuge de Bucchinera
 
 |
 
-1210976,741
+1210977
 
 |
 
-6100160,319
+6100160
 
 |
 
@@ -7444,38 +6956,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-morangis1
-
-|
-
-766537,95
-
-|
-
-6874949,85
-
-|
-
-Site_ZG_51_006_S1
-
-|
-
-1
-
-|
-
-morangis2
-
-|
-
-767233,19
-
-|
-
-6875115,98
-
-|
-
 les buzons
 
 |
@@ -7485,6 +6965,14 @@ les buzons
 |
 
 6874218,99
+
+|
+
+Site_ZG_51_006_S1
+
+|
+
+1
 
 |
 
@@ -8288,7 +7776,7 @@ Site_GC_68_002_S1
 
 |
 
-3
+2
 
 |
 
@@ -8301,18 +7789,6 @@ Site_GC_68_002_S1
 |
 
 Site_GC_68_002_S2
-
-|
-
-995267
-
-|
-
-6755181
-
-|
-
-Site_GC_68_002_S3
 
 |
 
@@ -8974,98 +8450,6 @@ Chemin de Quincampoix, Gourchelles
 
 |
 
-2019_02_60-3
-
-|
-
-Hauts-de-France
-
-|
-
-Oise
-
-|
-
-ZN_60_001
-
-|
-
-Maysel
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-19 Grande Rue, Maysel
-
-|
-
-654403,6603
-
-|
-
-6906820,659
-
-|
-
-Site_ZN_60_001_S1
-
-|
-
-1
-
-|
-
-4 grande Rue, Maysel
-
-|
-
-654427,0728
-
-|
-
-6906925,102
-
-|
-
-1 rue de la vallée aux truies, Maysel
-
-|
-
-654244,6875
-
-|
-
-6906639,75
-
-|
-
-15 rue du Connétable, Maysel
-
-|
-
-654468,5
-
-|
-
-6907031
-
-|
-
-28 grande rue, Maysel
-
-|
-
-654337,615
-
-|
-
-6906669,336
-
-|
-
 2019_02_62-1
 
 |
@@ -9322,50 +8706,6 @@ Site_ZN_77_001_S1
 
 |
 
-2019_02_77-2
-
-|
-
-Île-de-France
-
-|
-
-Seine et Marne
-
-|
-
-ZN_77_009
-
-|
-
-Larchant
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Auberge de la Dame Jouanne
-
-|
-
-670331,74
-
-|
-
-6800414,25
-
-|
-
-Site_ZN_77_009_S1
-
-|
-
-1
-
-|
-
 2019_02_78-1
 
 |
@@ -9566,68 +8906,6 @@ Site_GC_78_002-S2
 
 |
 
-2019_02_91-1
-
-|
-
-Île-de-France
-
-|
-
-Essonne
-
-|
-
-ZN_91_005
-
-|
-
-Itteville
-
-|
-
-BOUYGUES TELECOM/ SFR
-
-|
-
-|
-
-651922,226
-
-|
-
-6824691,798
-
-|
-
-Site_ZN_91_005_S1
-
-|
-
-1
-
-|
-
-|
-
-651690,425
-
-|
-
-6824255,951
-
-|
-
-|
-
-651212,915
-
-|
-
-6824007,112
-
-|
-
 2019_02_91-2
 
 |
@@ -9664,23 +8942,7 @@ Site_ZN_91_014_S2
 
 |
 
-2
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
-650490,536 |
-
-6824788,812
-
-|
-
-Site_ZN_91_014_S1
+1
 
 |
 
@@ -10545,18 +9807,6 @@ La Chéronnière
 |
 
 6868840
-
-|
-
-Les Aunays
-
-|
-
-496430
-
-|
-
-6867180
 
 |
 
@@ -12484,18 +11734,6 @@ Site_ZN_79_001_S1
 
 |
 
-Carrefour du Pas de Loup
-
-|
-
-434331,88
-
-|
-
-6563805,12
-
-|
-
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
@@ -12730,28 +11968,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-604126,38
-
-|
-
-6526534,36
-
-|
-
-Site_ZN_87_003_S1
-
-|
-
-2
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-|
-
 608372,04
 
 |
@@ -12761,6 +11977,10 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 |
 
 Site_ZN_87_003_S2
+
+|
+
+1
 
 |
 
@@ -14342,7 +13562,7 @@ Les Escarbins
 
 |
 
-2019_2_12-9
+2019_02_12-9
 
 |
 
@@ -14382,51 +13602,7 @@ Site_ZN_12_004_S1
 
 |
 
-2
-
-|
-
-FREE MOBILE
-
-|
-
-Cureboursot
-
-|
-
-663600
-
-|
-
-6351790
-
-|
-
-Site_ZN_12_004_S2
-
-|
-
-Ceignac
-
-|
-
-662230
-
-|
-
-6352757
-
-|
-
-Ceignac (Les Tilleuls)
-
-|
-
-661932
-
-|
-
-6352672
+1
 
 |
 
@@ -14630,7 +13806,7 @@ Site_ZN_30_001_S1
 
 |
 
-2019_2_30-2
+2019_02_30-2
 
 |
 
@@ -14669,16 +13845,6 @@ Site_ZG_30_001_S1
 |
 
 2
-
-|
-
-|
-
-775125
-
-|
-
-6335230
 
 |
 
@@ -15358,7 +14524,7 @@ Tucau
 
 |
 
-2019_2_32-1
+2019_02_32-1
 
 |
 
@@ -15397,16 +14563,6 @@ Site_ZN_32_003_S1
 |
 
 1
-
-|
-
-|
-
-496508,7702
-
-|
-
-6318159,091
 
 |
 
@@ -16864,7 +16020,7 @@ Pont des Grouets
 
 |
 
-2019_2_66-1
+2019_02_66-1
 
 |
 
@@ -16929,18 +16085,6 @@ Les Ferreres
 |
 
 6171802
-
-|
-
-Esposolla
-
-|
-
-625722
-
-|
-
-6169849
 
 |
 
@@ -18504,11 +17648,11 @@ ORANGE
 
 |
 
-495118,31
+497420
 
 |
 
-6782575,72
+6785832
 
 |
 
@@ -18522,31 +17666,11 @@ Site_ZN_72_004_S1
 
 |
 
-497420,02
+498008
 
 |
 
-6785831,79
-
-|
-
-|
-
-498008,06
-
-|
-
-6785370,22
-
-|
-
-|
-
-494507,58
-
-|
-
-6782578,49
+6785370
 
 |
 
@@ -18774,7 +17898,7 @@ Provence-Alpes-Côte d'Azur
 
 |
 
-Hautes Alpes
+Hautes-Alpes
 
 |
 
@@ -18790,15 +17914,15 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 
 |
 
-pont romain
+cabane du cantonnier
 
 |
 
-922879,26
+921680
 
 |
 
-6357124,4
+6356510
 
 |
 
@@ -18810,27 +17934,15 @@ Site_ZN_05_001_S1
 
 |
 
-cabane du cantonnier
-
-|
-
-921679,72
-
-|
-
-6356510,3
-
-|
-
 Pomet
 
 |
 
-922431,31
+922431
 
 |
 
-6357463,77
+6357464
 
 |
 
@@ -19082,7 +18194,7 @@ Site_ZN_83_001_S1
 
 |
 
-2
+1
 
 |
 
@@ -19106,10 +18218,6 @@ Site_ZN_83_001_S1
 
 |
 
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
 |
 
 963717
@@ -19117,20 +18225,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
 |
 
 6301931
-
-|
-
-Site_ZN_83_001_S2
-
-|
-
-|
-
-963173
-
-|
-
-6301546
 
 |
 
@@ -19418,7 +18512,7 @@ ZG_06_003
 
 |
 
-Andon; Caille; Le Mas
+Andon ; Caille ; Le Mas
 
 |
 
@@ -19438,15 +18532,11 @@ Andon village centre-bourg
 
 |
 
-Site_ZG_06_003_S1
+Site_ZG_06_003_S2
 
 |
 
-3
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
+2
 
 |
 
@@ -19459,10 +18549,6 @@ commune de Caille - hameau La Moulière
 |
 
 6303033
-
-|
-
-Site_ZG_06_003_S2
 
 |
 
@@ -19546,43 +18632,7 @@ ZG_06_006
 
 |
 
-Pierrefeu; Coursegoules
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR
-
-|
-
-Mairie de Pierrefeu
-
-|
-
-1028835,06
-
-|
-
-6315725,73
-
-|
-
-Site_ZG_06_006_S2
-
-|
-
-2
-
-|
-
-Commune de Toudon Lieu-dit La Cerise route de NICE RD17
-
-|
-
-1030944,53
-
-|
-
-6315040,9
+Coursegoules
 
 |
 
@@ -19603,6 +18653,10 @@ Lieu-dit Saint-Barnabé - Coursegoules
 |
 
 Site_ZG_06_006_S3
+
+|
+
+1
 
 |
 

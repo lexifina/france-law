@@ -68,32 +68,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6587757 |
 
-2019_01_07-1 |
-
-Auvergne-Rhône-Alpes |
-
-Ardèche |
-
-GC_07_013 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-782097 |
-
-6372882 |
-
-2 |
-
-|
-
-781982 |
-
-6371575 |
-
 2019_01_07-2 |
 
 Auvergne-Rhône-Alpes |
@@ -128,17 +102,11 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 |
 
-824524 |
-
-6424646 |
-
-2 |
-
-|
-
 827268 |
 
 6426796 |
+
+1 |
 
 2019_01_07-4 |
 
@@ -426,26 +394,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 1 |
 
-2019_01_25-3 |
-
-Bourgogne-Franche-Comté |
-
-Doubs |
-
-GC_25_007 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-928271 |
-
-6682844 |
-
-1 |
-
 2019_01_25-4 |
 
 Bourgogne-Franche-Comté |
@@ -714,7 +662,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6780884 |
 
-8 |
+6 |
 
 |
 
@@ -1362,13 +1310,7 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6878875 |
 
-3 |
-
-|
-
-1021212 |
-
-6880449 |
+2 |
 
 |
 
@@ -2040,23 +1982,11 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 |
 
-542014 |
-
-6384548 |
-
-3 |
-
-|
-
-541107 |
-
-6382932 |
-
-|
-
 534641 |
 
 6383150 |
+
+1 |
 
 2019_01_64-1 |
 
@@ -2380,31 +2310,31 @@ Alpes-de-Haute-Provence |
 
 GC_04_001 |
 
-Volonne, Thoard, Sourribes, Salignac, Mallefougasse-Augès, Entrepierres, Châteauneuf-Val-Saint-Donat, Champtercier, Aiglun |
+Volonne, Thoard, Sourribes, Salignac, Mallefougasse-Augès, Entrepierre, Châteauneuf-Val-Saint-Donat, Champtercier, Aiglun |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
-Point 1 - |
+Point 1 |
 
 941236 |
 
 6343393 |
 
-6 |
+5 |
 
-Point 2 - |
+Point 2 |
 
 939478 |
 
 6351113 |
 
-Point 3 - |
+Point 3 |
 
 932207 |
 
 6334087 |
 
-Point 4 - |
+Point 4 |
 
 939573 |
 
@@ -2562,25 +2492,19 @@ GC_06_001 |
 
 BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
-|
+point 1- |
 
 1014280 |
 
 6327200 |
 
-3 |
+2 |
 
-|
+point 2- |
 
 1018473 |
 
 6316065 |
-
-|
-
-1013415 |
-
-6328826 |
 
 2019_01_06-2 |
 
