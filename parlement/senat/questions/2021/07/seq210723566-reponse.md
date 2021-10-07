@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723566
+
+- Question : [SEQ210723566](seq210723566.md) — Financement de la phase II du service national universel
+
+## Réponse
+
+*Jeunesse et engagement, JO du 2021-10-07, page 5778*
+
+La phase 2 du service national universel est accessible aux volontaires à l'issue du séjour de cohésion, phase 1 du dispositif. Cette phase 2 vise à développer la culture de l'engagement et le sens de l'intérêt général ainsi qu'à renforcer la responsabilité et l'autonomie des jeunes, et donc leur insertion dans la société. Elle se situe à l'intersection de deux logiques : celle d'un service rendu à la nation et celle d'une découverte de l'engagement, démarche par nature volontaire. Ses modalités de mise en œuvre doivent donc s'appuyer sur la conciliation de ces deux objectifs. C'est pourquoi, la mission d'intérêt général, effectuée de manière individuelle ou collective, se déroule pendant 84 heures au sein d'organismes, pour partie, éligibles à l'accueil de volontaires en service civique : associations, corps en uniforme, services publics, collectivités territoriales. Aucune contrepartie financière n'est accordée à la structure pour l'accueil de volontaires en mission d'intérêt général. En revanche les structures associatives ou non bénéficient de l'accompagnement des services départementaux de la jeunesse, de l'engagement et des sports sous l'autorité des directeurs académiques des services de l'éducation nationale : cet accompagnement permet aux structures d'identifier et de valoriser les opportunités d'accueil de volontaires pour développer ces missions d'intérêt général et les rendre accessibles au public bénéficiaire. Par ailleurs, un travail entre le ministère de l'éducation nationale, de la jeunesse et des sports et plusieurs grandes têtes de réseau associatives prévoit, à court terme, la signature de conventions d'objectifs identifiant notamment l'appui au déploiement de missions d'intérêt général.
