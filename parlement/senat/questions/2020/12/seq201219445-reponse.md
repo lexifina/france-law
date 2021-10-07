@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201219445
+
+- Question : [SEQ201219445](seq201219445.md) — Difficultés subies par les fédérations sportives et le secteur des sports et loisirs en raison de la crise sanitaire
+
+## Réponse
+
+*Sports, JO du 2021-10-07, page 5787*
+
+En complément des éléments communiqués par courrier en date du 19 janvier 2021, les éléments suivants peuvent être apportés. Les versements au titre du mécanisme de compensation des pertes de recettes de billetterie ont débuté au mois de janvier pour soutenir la trésorerie des clubs professionnels. La prolongation du dispositif pour le premier semestre 2021 a été annoncée et notifiée à la Commission européenne. A nouveau, les Flammes Carolo Basket Ardennes pourront donc en bénéficier. Les mesures de droit commun comme le fonds de solidarité ou le dispositif dit "coûts fixes" sont accessibles aux salles de sport et le restent en période de reprise des activités, depuis leur réouverture le 9 juin. Les associations sont éligibles aux aides de l'Agence nationale du sport (ANS), comme le fonds de solidarité, doté de 15 M€ en 2021 comme en 2020. Elles pourront également bénéficier du plan de relance sectoriel qui est en cours de déploiement (122 M€ au total pour 2021 et 2022). Un fonds d'urgence de 10 M€ a été mobilisé cette année par l'ANS, en faveur des fédérations les plus fragilisées. Depuis le 30 juin, toutes les pratiques sont à nouveau accessibles, en intérieur comme en extérieur ; elles ont vocation à le rester dans les conditions prévues par le décret n° 2021-955 du 19 juillet 2021 modifiant le décret n° 2021-699 du 1er juin 2021 prescrivant les mesures générales nécessaires à la gestion de la sortie de la crise sanitaire. Enfin, dans ce contexte de reprise, le Pass'sport, doté de 100 M€ dès cette année, a vocation à favoriser les inscriptions dans les clubs des enfants et jeunes de familles modestes et des enfants et jeunes en situation de handicap.
