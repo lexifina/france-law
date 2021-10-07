@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210724048
+
+- Question : [SEQ210724048](seq210724048.md) — Frais des plans d'épargne retraite
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-10-07, page 5773*
+
+Afin de développer l'épargne retraite en France, la loi relative à la croissance et la transformation des entreprises, dite loi PACTE a créé de nouveaux produits d'épargne retraite (PER) plus attractifs pour les épargnants et mieux adaptés aux besoins de financement des entreprises. Le Gouvernement s'est fixé l'objectif pour 2022 de porter l'encours total de l'épargne retraite à 300 milliards d'euros (230 milliards d'euros en 2018) et d'équiper 3 millions de personnes avec ces nouveaux produits. Dans le cadre du suivi du déploiement de la réforme, le ministre Bruno Le Maire a souhaité confier à la présidente du comité consultatif du secteur financier (CCSF) une mission d'analyse des frais facturés par les gestionnaires de ces nouveaux produits. Le comité consultatif du secteur financier (CCSF) se caractérise en effet par son mode de fonctionnement collégial qui associe l'ensemble des parties prenantes, gage de la qualité et de la fiabilité de ses travaux. Les conclusions du rapport soulignent les avantages de ces nouveaux produits d'épargne retraite et le dynamisme de l'offre associée, de plus en plus diversifiée pour mieux répondre aux différents objectifs d'épargne des Français. Elles soulignent également la nécessité de poursuivre l'objectif de développement de la transparence dans le secteur, auquel le ministre souscrit. Le ministre a rappelé à la fédération française des assurances l'importance qu'il accordait à une plus grande transparence et à une maîtrise des coûts. Les recommandations exprimées, dont la mise en œuvre nécessite des évolutions législatives pour favoriser la lisibilité des offres, sont actuellement analysées et pourront faire l'objet de mesures si nécessaire.
