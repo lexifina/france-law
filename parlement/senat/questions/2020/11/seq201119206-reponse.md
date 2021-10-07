@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119206
+
+- Question : [SEQ201119206](seq201119206.md) — Attentes du milieu équestre
+
+## Réponse
+
+*Sports, JO du 2021-10-07, page 5785*
+
+Depuis le début de la pandémie, le ministère chargé des Sports a toujours été guidé par l'objectif de garantir la sécurité des Français tout en préservant la liberté de pratique sportive individuelle, lors du premier confinement, puis collective, en prenant en compte la situation sanitaire propre à chaque territoire ainsi que la spécificité de chaque pratique. Le Gouvernement a ainsi été mobilisé au quotidien pour concilier enjeux sanitaires et continuité d'activité sportive, pour les mineurs comme pour les adultes. Les centres équestres ont pu, par ailleurs bénéficier, au nom du bien-être et de la santé des équidés, d'une autorisation d'activité résiduelle qui a permis aux chevaux de maintenir une activité physique nécessaire à leur bien-être physique et psychologique. Un dispositif de soutien économique spécifique a été mis en place par l'Etat lors des deux périodes de confinement avec une aide directe par équidé versée à chaque centre équestre. Enfin, dans le cadre du plan de relance, les associations peuvent bénéficier de financements, dans le cadre des projets sportifs fédéraux ou territoriaux. Pour soutenir les associations et développer la pratique sportive, le Pass'sport est en cours de déploiement. Doté de 100 M€ en 2021, ce dispositif a vocation à favoriser les inscriptions dans les clubs des enfants et jeunes de familles modestes bénéficiaires de l'allocation de rentrée scolaire et des enfants et jeunes adultes en situation de handicap. A travers une participation directe de l'Etat de 50 € par enfant, l'adhésion dans une association sportive est ainsi fortement accompagnée pour la saison sportive 2021-2022.
