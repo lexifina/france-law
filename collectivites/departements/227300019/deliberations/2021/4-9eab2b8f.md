@@ -1,0 +1,12 @@
+# Département : délibération 4 — Règlement intérieur
+
+- Collectivité : Département
+- SIREN : 227300019
+- Date : 2021-10-08
+- Séance : Conseil Départemental
+- Matière : 5.2 Fonctionnement des assemblees
+- Objet : Règlement intérieur
+- Transmis à la préfecture : 2021-10-13
+- Pour : 37
+- Contre : 0
+- Jeu de données : https://www.data.gouv.fr/datasets/60900a7946a4fefcb039fd64
