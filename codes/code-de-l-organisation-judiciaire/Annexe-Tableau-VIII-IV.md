@@ -190,7 +190,7 @@ Ressort de la cour d'appel de Reims |
 
 Cour d'appel de Rennes |
 
-Rennes |
+Brest |
 
 Ressort de la cour d'appel de Rennes |
 
@@ -232,6 +232,4 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre-et-Miquelon |
 
 NOTA :
 
-Conformément à l’article 4 du décret n° 2021-286 du 16 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.
-
-La juridiction saisie demeure compétente pour statuer sur les procédures introduites antérieurement à la date d'entrée en vigueur des articles 2 et 3 dudit décret.
+Conformément à l’article 3 du décret n° 2021-1305 du 7 octobre 2021, la juridiction saisie demeure compétente pour statuer sur les procédures introduites antérieurement à la date d'entrée en vigueur de l'article 2 dudit décret.
