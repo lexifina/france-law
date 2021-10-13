@@ -1,0 +1,77 @@
+# Diverses dispositions de vigilance sanitaire
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N43812
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/vigilancesanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-088.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-10-13 : 1er dépôt d'une initiative. (PRJLANR5L15B4565)
+  - 2021-10-13 : Etude d'impact (ETDIANR5L15B4565)
+  - 2021-10-13 : Avis du Conseil d'Etat (AVCEANR5L15B4565)
+  - 2021-10-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-13 : Renvoi en commission au fond
+      - 2021-10-13 : Nomination de rapporteur
+      - 2021-10-15 : Réunion de commission
+      - 2021-10-19 : Réunion de commission
+      - 2021-10-15 : Dépôt de rapport (RAPPANR5L15B4574, PRJLANR5L15BTC4574)
+  - Discussion en séance publique
+    - 2021-10-19 : Discussion en séance publique
+    - 2021-10-19 : Discussion en séance publique
+    - 2021-10-20 : Discussion en séance publique
+    - 2021-10-20 : Discussion en séance publique
+    - 2021-10-20 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-10-21 : Dépôt d'une initiative en navette (PRJLSNR5S379B0088)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-21 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2021-10-27 : Dépôt de rapport (RAPPSNR5S379B0109, PRJLSNR5S379BTC0110)
+  - Discussion en séance publique
+    - 2021-10-28 : Décision
+- Commission Mixte Paritaire
+  - 2021-10-29 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2021-11-02 : Nomination de rapporteur
+    - 2021-11-02 : Dépôt du rapport d'une CMP (RAPPANR5L15B4625)
+    - 2021-11-02 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0120, PRJLSNR5S379BTC0121)
+  - 2021-11-02 : Décision de la CMP
+- Nouvelle Lecture
+  - 2021-10-29 : Dépôt d'une initiative en navette (PRJLANR5L15B4623)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-29 : Renvoi en commission au fond
+      - 2021-11-03 : Réunion de commission
+      - 2021-11-03 : Dépôt de rapport (RAPPANR5L15B4627, PRJLANR5L15BTC4627)
+  - Discussion en séance publique
+    - 2021-11-03 : Discussion en séance publique
+    - 2021-11-03 : Discussion en séance publique
+    - 2021-11-03 : Décision
+- Nouvelle Lecture
+  - 2021-11-04 : Dépôt d'une initiative en navette (PRJLSNR5S379B0131)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-04 : Renvoi en commission au fond
+      - 2021-11-04 : Dépôt de rapport (RAPPSNR5S379B0135, PRJLSNR5S379BTC0136)
+  - Discussion en séance publique
+    - 2021-11-04 : Décision
+- Lecture définitive
+  - 2021-11-05 : Dépôt d'une initiative en navette (PRJLANR5L15BTA0684)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-05 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2021-11-05 : Discussion en séance publique
+    - 2021-11-05 : Décision
+- Conseil constitutionnel
+  - 2021-11-05 : Saisine du conseil constitutionnel
+  - 2021-11-05 : Saisine du conseil constitutionnel
+  - 2021-11-09 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2021-11-10 : Promulgation d'une loi
