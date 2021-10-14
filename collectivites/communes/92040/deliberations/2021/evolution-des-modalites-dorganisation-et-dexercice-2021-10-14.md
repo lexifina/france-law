@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Evolution des modalités d’organisation et d’exercice des fonctions en télétravail au sein de la Ville d'Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-10-14
+- Matière : RESSOURCES HUMAINES
+- Objet : Evolution des modalités d’organisation et d’exercice des fonctions en télétravail au sein de la Ville d'Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MjksInB1ciI6ImJsb2JfaWQifX0=--4f074454d544db205b688528b99c475faec91265/141021_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
