@@ -86,9 +86,9 @@ Les documents de preuve de réalisation de l'opération comportent :
 
 – la description des travaux permettant l'identification sans équivoque de l'opération d'économies d'énergie réalisée ou, dans le cas d'une opération standardisée, les mentions exigées par la fiche correspondante.
 
-3. Preuve du rôle actif, incitatif et antérieur du demandeur
+3. Preuve du rôle actif et incitatif du demandeur
 
-La preuve du rôle actif, incitatif et antérieur à l'engagement de l'opération est apportée par l'un des éléments ou ensemble d'éléments décrits ci-après.
+La preuve du rôle actif et incitatif est apportée par l'un des éléments ou ensemble d'éléments décrits ci-après.
 
 Lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, le cadre CONTRIBUTION défini à l'annexe 8 est inséré dans le contrat ou l'engagement, annexé, ou joint à celui-ci.
 
@@ -146,7 +146,7 @@ L'engagement écrit du demandeur, le cas échéant représenté par un mandatair
 
 – l'identité du bénéficiaire de l'opération d'économies d'énergie.
 
-L'engagement est daté et signé par le demandeur. Il est envoyé au bénéficiaire avant la date d'engagement de l'opération. La preuve de l'envoi de l'engagement est apportée par :
+L'engagement est daté et signé par le demandeur. Il est envoyé au bénéficiaire avant la date d'engagement de l'opération ou, lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, au plus tard quatorze jours après la date d'engagement de l'opération, et en tout état de cause avant la date de début des travaux. La preuve de l'envoi de l'engagement est apportée par :
 
 – la preuve de dépôt du courrier d'engagement prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux ; ou
 
@@ -172,7 +172,7 @@ Un contrat établi entre le demandeur et le bénéficiaire, le cas échéant rep
 
 Le contrat peut être renouvelé au-delà de cette durée par un avenant, dont la durée est limitée selon les conditions ci-avant, ou par l'adoption d'un nouveau contrat.
 
-Le contrat est signé et daté de la date de signature par les deux parties. Il est signé par les deux parties avant l'engagement des premières opérations qui entrent dans le champ de ce contrat.
+Le contrat est signé et daté de la date de signature par les deux parties. Il est signé par les deux parties avant l'engagement des premières opérations qui entrent dans le champ de ce contrat ou, lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, au plus tard quatorze jours après l'engagement des premières opérations qui entrent dans le champ de ce contrat, et en tout état de cause avant la date de début des travaux.
 
 Le contrat peut être signé par un mandataire agissant en lieu et place du bénéficiaire ou du demandeur. Dans ce cas, le contrat de mandat précise :
 
@@ -206,7 +206,7 @@ L'engagement écrit d'un partenaire du demandeur à avoir incité directement le
 
 – l'identité du bénéficiaire de l'opération d'économies d'énergie.
 
-L'engagement est daté et signé par le partenaire au plus tard à la date d'engagement de l'opération.
+L'engagement est daté et signé au plus tard à la date d'engagement de l'opération ou, lorsque le bénéficiaire est une personne physique ou un syndicat de copropriétaires, au plus tard quatorze jours après la date d'engagement de l'opération, et en tout état de cause avant la date de début des travaux.
 
 Dans le cas d'un envoi par courrier au demandeur de l'engagement écrit du partenaire, la date de cet engagement est justifiée par la preuve de dépôt du courrier prévue par l'arrêté du 7 février 2007 susvisé ou tout autre arrêté pris en application de l'article R. 2-1 du code des postes et des communications électroniques et fixant les modalités relatives au dépôt et à la distribution des envois postaux. Dans tous les autres cas, la date de cet engagement est justifiée par un horodatage électronique fiable de l'engagement au sens du décret n° 2011-434 du 20 avril 2011 susvisé.
 
@@ -470,4 +470,4 @@ g) Les pénalités en cas de non-atteinte de la performance garantie par le cont
 
 NOTA :
 
-Conformément à l’article 5 de l’arrêté du 25 mars 2021, ces dispositions entrent en vigueur à compter du 1er avril 2021 .
+Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2021.

@@ -210,6 +210,8 @@ Abaissement de la température de retour vers un réseau de chaleur / Fiche d’
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0239 du 13/10/2021, texte n° 42, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=B51-SSHriFiFYTUI37wQ7PwDva0a42xsLCS5e-CWYeI=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0175 du 30/07/2021, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
