@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert relatif à des prestations de nettoyage et d’entretien des terrasses, chéneaux et gouttières des bâtiments communa
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-10-14
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Lancement d’un appel d’offres ouvert relatif à des prestations de nettoyage et d’entretien des terrasses, chéneaux et gouttières des bâtiments communa
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MjgsInB1ciI6ImJsb2JfaWQifX0=--3f984d3d15fb8e2e05ec3dc96e7c4d0b7a2c33d7/141021_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
