@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution du marché de travaux relatifs à la construction d’une école modulaire et à l’adaptation des bâtiments conservés du collège de la Pai
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-10-14
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Attribution du marché de travaux relatifs à la construction d’une école modulaire et à l’adaptation des bâtiments conservés du collège de la Pai
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5NzYsInB1ciI6ImJsb2JfaWQifX0=--6410c9343e03312cb453687b5f933179641cb9e4/141021_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
