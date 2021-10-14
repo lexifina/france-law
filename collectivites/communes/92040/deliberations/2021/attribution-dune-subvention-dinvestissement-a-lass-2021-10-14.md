@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution d’une subvention d’investissement à l’association LE CLUB SPORTIF ET DE LOISIRS GENDARMERIE PRISMA pour l’acquisition d’agrès sportifs
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-10-14
+- Matière : FINANCES
+- Objet : Attribution d’une subvention d’investissement à l’association LE CLUB SPORTIF ET DE LOISIRS GENDARMERIE PRISMA pour l’acquisition d’agrès sportifs
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MjQsInB1ciI6ImJsb2JfaWQifX0=--ad1b4dd6d63d12b7a907c091def534ba97b93056/141021_08.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
