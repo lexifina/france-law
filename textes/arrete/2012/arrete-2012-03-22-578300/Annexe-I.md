@@ -454,7 +454,7 @@ Valence-ville, Valence TGV.
 
 Gard
 
-Nîmes.
+Nîmes, Nîmes Pont-du-Gard.
 
 Haute-Garonne
 
