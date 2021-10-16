@@ -1,4 +1,4 @@
-# Article LEGIARTI000037059166
+# Article Annexe
 
 ANNEXE
 
@@ -64,7 +64,9 @@ Travaux forestiers de boisement |
 
 Fascicule 35 |
 
-Aménagements paysagers - Aires de sports et de loisirs en plein air |
+Aménagements paysagers - Aires de sports et de loisirs en plein air
+
+Version 2 - Mai 2020 |
 
 Fascicule 36 |
 
@@ -100,7 +102,7 @@ Version 1.0. Décembre 2017 |
 
 Fascicule 67 Titre III |
 
-Etanchéité des ouvrages souterrains
+Étanchéité des ouvrages souterrains
 
 Version 1.0. Décembre 2017 |
 
@@ -114,25 +116,37 @@ Fascicule 69 |
 
 Travaux en souterrain |
 
-Fascicule 70 |
+Fascicule 70 Titre I |
 
-Ouvrages d'assainissement
+Fourniture, pose et réhabilitation de canalisations d'eaux
 
-Titre I : réseaux
+à écoulement à surface libre
 
-Titre II : Ouvrages de recueil, de restitution et de stockage des eaux pluviales |
+Version 4.01 - Mai 2021 |
+
+Fascicule 70 Titre II |
+
+Ouvrages de recueil, de stockage, et de restitution des eaux pluviales
+
+Version 3.01 - Mai 2021 |
 
 Fascicule 71 |
 
-Fourniture et pose de conduites d'adduction et de distribution d'eau |
+Fourniture, pose et réhabilitation de canalisations d'eaux à écoulement sous pression
+
+Version 4.01 - Mai 2021 |
 
 Fascicule 73 |
 
-Equipement hydraulique, mécanique et électrique des stations de pompage d'eaux |
+Équipement d'installations de pompage d'eaux claires destinées aux consommations humaines, agricoles et industrielles
+
+Version 46.01 - Mai 2021 |
 
 Fascicule 74 |
 
-Construction des réservoirs en béton |
+Construction des réservoirs en béton et réhabilitation des réservoirs en béton ou en maçonnerie
+
+Version 4.01 - Mai 2021 |
 
 Fascicule 75 |
 
@@ -148,7 +162,9 @@ Canalisations et ouvrages de transport et de distribution de chaleur ou de froid
 
 Fascicule 81 Titre I |
 
-Construction d'installation de pompage pour le relèvement ou le refoulement des eaux usées domestiques, d'effluents industriels ou d'eaux de ruissellement ou de surface |
+Equipement d´installations de pompage pour réseaux d'évacuation et d'assainissement
+
+Version 25.01 - Mai 2021 |
 
 Fascicule 81 Titre II |
 
