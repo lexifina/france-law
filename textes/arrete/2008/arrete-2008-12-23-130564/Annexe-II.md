@@ -2,7 +2,7 @@
 
 AGENTS PRINCIPAUX DE DEUXIÈME CATÉGORIE
 
-Périmètre préfectures
+Périmètre préfectures/ Secrétariats généraux communs
 
 LOCALISATION
 
@@ -76,9 +76,9 @@ Maître d'hôtel de la résidence du préfet |
 
 08 |
 
-Préfecture des Ardennes |
+Secrétariat général commun des Ardennes |
 
-Chef du garage |
+Chef de garage |
 
 1 |
 
@@ -92,15 +92,15 @@ Gestionnaire bâtiments et travaux |
 
 09 |
 
-Préfecture de l'Ariège |
+Secrétariat général commun de l'Ariège |
 
-Chef de garage |
+Chef d'équipe technique et logistique |
 
 1 |
 
 10 |
 
-Préfecture de l'Aube |
+Secrétariat général commun de l'Aube |
 
 Chef de l'équipe logistique |
 
@@ -140,9 +140,9 @@ Chef du garage |
 
 15 |
 
-Préfecture du Cantal |
+Secrétariat général commun du Cantal |
 
-Chef du garage |
+Chef de garage |
 
 1 |
 
@@ -204,7 +204,7 @@ Maître d'hôtel de la résidence du préfet |
 
 24 |
 
-Préfecture de la Dordogne |
+Secrétariat général commun de la Dordogne |
 
 Chef de l'équipe logistique |
 
@@ -220,7 +220,7 @@ Chef de cuisine |
 
 26 |
 
-Préfecture de la Drôme |
+Secrétariat général commun de la Drôme |
 
 Chef de l'équipe du service intérieur |
 
@@ -244,7 +244,7 @@ Chef de garage |
 
 29 |
 
-Préfecture du Finistère |
+Secrétariat général commun du Finistère |
 
 Chef de l'équipe du service intérieur |
 
@@ -276,25 +276,25 @@ Maître d'hôtel de la résidence du préfet |
 
 31 |
 
-Préfecture de la Haute-Garonne |
+Secrétariat général commun de la Haute-Garonne |
 
-Chef de l'équipe du service intérieur |
-
-1 |
-
-33 |
-
-Préfecture de la Gironde |
-
-Adjoint au chef du service technique commun |
+Intendant de la résidence du préfet |
 
 1 |
 
 33 |
 
-Préfecture de la Gironde |
+Secrétariat général commun de la Gironde |
 
-Agent de sécurité incendie et assistance aux personnes |
+Adjoint au chef du pôle logistique non mutualisé |
+
+1 |
+
+33 |
+
+Secrétariat général commun de la Gironde |
+
+Adjoint au chef d'atelier-responsable de la maintenance |
 
 1 |
 
@@ -316,7 +316,7 @@ Chef du garage |
 
 35 |
 
-Préfecture d'Ille-et-Vilaine |
+Secrétariat général commun de l'Ille-et-Vilaine |
 
 Chef de la section courrier |
 
@@ -412,15 +412,15 @@ Intendant de la résidence du préfet |
 
 46 |
 
-Préfecture du Lot |
+Secrétariat général commun du Lot |
 
-Chef de l'équipe du service intérieur |
+Chef du garage |
 
 1 |
 
 47 |
 
-Préfecture de Lot-et-Garonne |
+Secrétariat général commun du Lot-et-Garonne |
 
 Chef de l'équipe du service intérieur |
 
@@ -436,7 +436,7 @@ Chef de cuisine |
 
 49 |
 
-Préfecture du Maine-et-Loire |
+Secrétariat général commun du Maine-et-Loire |
 
 Adjoint au chef du bureau logistique et courrier |
 
@@ -484,7 +484,7 @@ Maître d'hôtel de la résidence du préfet |
 
 55 |
 
-Préfecture de la Meuse |
+Secrétariat général commun de la Meuse |
 
 Adjoint au chef du service intérieur |
 
@@ -508,7 +508,7 @@ Chef de garage |
 
 57 |
 
-Préfecture de la Moselle |
+Secrétariat général commun de la Moselle |
 
 Responsable de l'atelier reprographie |
 
@@ -548,7 +548,7 @@ Chef du garage |
 
 60 |
 
-Préfecture de l'Oise |
+Secrétariat général commun de l'Oise |
 
 Chef de l'équipe logistique |
 
@@ -564,7 +564,7 @@ Chef du garage |
 
 61 |
 
-Préfecture de l'Orne |
+Secrétariat général commun de l'Orne |
 
 Responsable de la section courrier-reprographie-accueil |
 
@@ -588,7 +588,7 @@ Maître d'hôtel de la résidence du préfet |
 
 63 |
 
-Préfecture du Puy-de-Dôme |
+Secrétariat général commun du Puy-de-Dôme |
 
 Chef du garage |
 
@@ -628,7 +628,7 @@ Chef des huissiers |
 
 69 |
 
-Préfecture du Rhône |
+Secrétariat général commun du Rhône |
 
 Adjoint au chef de l'équipe du service intérieur |
 
@@ -644,7 +644,7 @@ Intendant de la résidence du préfet |
 
 71 |
 
-Préfecture de Saône-et-Loire |
+Secrétariat général commun de la Saône-et-Loire |
 
 Chef de l'équipe logistique |
 
@@ -692,7 +692,7 @@ Chargé de la maintenance, travaux et de l'exploitation |
 
 76 |
 
-Préfecture de la Seine-Maritime |
+Secrétariat général commun de la Seine-Maritime |
 
 Adjoint au chef de la section technique |
 
@@ -740,7 +740,7 @@ Chef du garage |
 
 80 |
 
-Préfecture de la Somme |
+Secrétariat général commun de la Somme |
 
 Chef de l'équipe logistique |
 
@@ -868,9 +868,9 @@ Responsable de l'atelier reprographie |
 
 92 |
 
-Préfecture des Hauts-de-Seine |
+Secrétariat général commun des Hauts-de-Seine |
 
-Chef du garage |
+Chef de garage |
 
 1 |
 
@@ -900,9 +900,9 @@ Chef d'atelier |
 
 93 |
 
-Préfecture de la Seine-Saint-Denis |
+Secrétariat général commun de la Seine-Saint-Denis |
 
-Adjoint au chef de l'atelier technique |
+Adjoint au chef de garage |
 
 1 |
 
@@ -916,7 +916,7 @@ Chef du garage |
 
 972 |
 
-Préfecture de la Martinique |
+Secrétariat général commun de la Martinique |
 
 Chef de l'équipe du service intérieur |
 
@@ -932,7 +932,7 @@ Chef du garage |
 
 974 |
 
-Préfecture de La Réunion |
+Secrétariat général commun de la Réunion |
 
 Chef de l'équipe du service intérieur |
 
@@ -998,7 +998,17 @@ Chef du secteur roulage |
 
 SGAMI de la zone de défense et de sécurité Sud-Ouest/ Bordeaux |
 
-Adjoint au chef de secteur mécanique 2 roues-nautique de l'atelier régional |
+Chef de secteur électricité-auto |
+
+1 |
+
+38 |
+
+SGAMI de la zone de défense et de sécurité Sud-Est/ Meylan
+
+|
+
+Chef de l'atelier |
 
 1 |
 
@@ -1044,21 +1054,17 @@ Responsable réception à l'atelier auto |
 
 57 |
 
-SGAMI de la zone de défense et de sécurité Est/Metz |
+SGAMI de la zone de défense et de sécurité Est/ Metz |
 
-Adjoint au chef du département transport |
+Chef du pôle logistique |
 
 1 |
 
 35 |
 
-SGAMI de la zone de défense et de sécurité Ouest/
+SGAMI de la zone de défense et de sécurité Ouest/ Rennes |
 
-Rennes
-
-|
-
-Responsable du service roulage |
+Adjoint au chef de la cellule logistique |
 
 1 |
 
@@ -1106,23 +1112,15 @@ Chef d'équipe mécanique moto de l'atelier |
 
 SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons |
 
-Adjoint au chef d'équipe carrosserie de l'atelier |
-
-1 |
-
-69 |
-
-SGAMI de la zone de défense et de sécurité Sud-Est/ Saint-Fons |
-
-Adjoint au chef d'équipe mécanique auto n° 1 de l'atelier |
+Adjoint au chef du service rapide de l'atelier de Saint-Fons |
 
 1 |
 
 59 |
 
-SGAMI de la zone de défense et de sécurité Nord/Lille |
+SGAMI de la zone de défense et de sécurité Nord/ Lille |
 
-Adjoint au chef du pôle des transports |
+Responsable de l'unité tôlerie légère-sellerie |
 
 1 |
 
@@ -1200,9 +1198,9 @@ Adjoint au chef de cuisine |
 
 77 |
 
-RZG IdF/EOGN Melun |
+RZG IdF/ EOGN Melun Musée |
 
-Chef du service central et responsable des espaces verts |
+Responsable du pôle surveillance, logistique et matériel |
 
 1 |
 
@@ -1240,23 +1238,15 @@ Chef de cuisine |
 
 45 |
 
-RZG Ouest Centre/EM/Section Commandement/ESG/Orléans |
+RZG Ouest Centre/ EM/ Section Commandement/ ESG/ Orléans |
 
-Chef des services généraux |
+Chef de cuisine |
 
 1 |
 
 44 |
 
 RZG Ouest Pays de la Loire/CM Nantes |
-
-Chef de cuisine |
-
-1 |
-
-31 |
-
-RZG AQUITAINE/RG Midi-Pyrénées/CM Toulouse |
 
 Chef de cuisine |
 
@@ -1270,11 +1260,21 @@ Adjoint au chef de cuisine |
 
 1 |
 
-69 |
+63 |
 
-RZG Sud-Est Rhône-Alpes/CM Sathonay-Camp |
+RZG Sud-Est Rhône-Alpes/ CM Clermont-Ferrand
 
-Gérant d'activité bar/service |
+|
+
+Chef de cuisine |
+
+1 |
+
+93 |
+
+RZG IdF/ COMSOP/ CM Rosny-sous-Bois |
+
+Adjoint gérant restauration |
 
 1 |
 

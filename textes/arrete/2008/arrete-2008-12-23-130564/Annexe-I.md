@@ -62,7 +62,7 @@ Chef de cuisine |
 
 Préfecture d'Indre-et-Loire |
 
-Intendant de la résidence du préfet |
+Responsable de l'atelier reprographie |
 
 1 |
 
@@ -124,7 +124,7 @@ Maître d'hôtel de la résidence du préfet |
 
 81 |
 
-Préfecture du Tarn |
+Secrétariat général commun du Tarn |
 
 Adjoint au chef de l'équipe du service intérieur |
 
@@ -132,7 +132,7 @@ Adjoint au chef de l'équipe du service intérieur |
 
 87 |
 
-Préfecture de la Haute-Vienne |
+Secrétariat général commun de la Haute-Vienne |
 
 Chef de l'équipe du service intérieur |
 
