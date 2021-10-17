@@ -432,7 +432,7 @@ parentérale |
 
 solution perfusion à 0,9 %-500 ml |
 
-4 |
+10 |
 
 |
 
@@ -451,16 +451,6 @@ Glucose |
 parentérale |
 
 solution perfusion à 5 %-250 ml |
-
-3 |
-
-|
-
-Hydroxyéthylamidon 130 000 |
-
-parentérale |
-
-solution perfusion 500 ml |
 
 3 |
 
@@ -600,7 +590,7 @@ collyre 2 %-10 ml |
 
 1 |
 
-I |
+|
 
 Oxybuprocaine chlorhydrate |
 
@@ -766,7 +756,7 @@ bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min
 
 Insufflateur manuel avec réservoir à oxygène |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -774,7 +764,7 @@ ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
 Masque facial pour insufflateur manuel taille 5 (adulte) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -782,7 +772,7 @@ usage unique |
 
 Masque facial pour insufflateur manuel taille 3 (pédiatrie) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -790,7 +780,7 @@ usage unique |
 
 Canule oro-pharyngée tailles 1 et 2 (pédiatrie) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -798,7 +788,7 @@ type Guedel ® |
 
 Aspirateur de mucosité fonctionnant à pied ou à main, ou automatique, avec tuyau d'aspiration |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -806,7 +796,7 @@ type Ambu ® Twin Pump |
 
 Sonde d'aspiration buccale |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -814,7 +804,7 @@ CH 26 |
 
 Masque à oxygène à haute concentration (adulte) avec tubulure |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -894,7 +884,7 @@ rouleau 4 m |
 
 type Coheban ® |
 
-Mèche de gaze vaselinée stérile (1,3 cm x 3,7 m) |
+Mèche de gaze vaselinée stérile (2 cm x 5 m) |
 
 flacon stérile |
 
@@ -986,7 +976,7 @@ usage unique |
 
 Pince hémostatique à griffes |
 
-set stérile |
+set stérile (2) |
 
 2 |
 
@@ -1000,7 +990,7 @@ Set Hémorragie comprenant :
 
 -Bande granulés hémostatiques |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1012,7 +1002,7 @@ bande type Chito-SAM ® |
 
 Tensiomètre |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1020,7 +1010,7 @@ automatique à brassard huméral |
 
 Oxymètre de pouls |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1044,7 +1034,7 @@ mesure jusqu'à 25° C |
 
 Lecteur de glycémie capillaire |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1052,13 +1042,11 @@ unité |
 
 Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) |
 
-boîte |
+boîte (2) |
 
 1 |
 
-avec lancettes capillaires sécurisées,
-
-conditionnées à l'unité et non en barillet |
+avec lancettes capillaires sécurisées, conditionnées à l'unité et non en barillet |
 
 Bandelettes réactives pour examen d'urines |
 
@@ -1436,7 +1424,7 @@ unité |
 
 type KED ® |
 
-Civière polyvalente treuillable |
+Civière polyvalente treuillable (3) |
 
 unité |
 
@@ -1452,7 +1440,7 @@ rouleau |
 
 |
 
-8. Trousse de Premiers Secours (1) |
+8. Trousses de premiers secours (8) |
 
 Compresses de gaze stériles |
 
@@ -1541,6 +1529,8 @@ Sac médical d'urgence |
 1 |
 
 Voir annexe 217-3. A. 4 |
+
+(8) Voir ANNEXE 217-3. A. 7 Table des notes de bas de page |
 
 NOTA :
 

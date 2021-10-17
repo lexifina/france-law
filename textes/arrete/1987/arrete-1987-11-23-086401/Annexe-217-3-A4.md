@@ -2,23 +2,23 @@
 
 SAC MÉDICAL D'URGENCE
 
-Le sac médical d'urgence doit être présent à bord des navires à passagers n'ayant pas l'obligation d'embarquer un médecin au titre de l'article 217-2.02.
+Le sac médical d'urgence doit être présent à bord des navires à passagers n'ayant pas obligation d'embarquer un médecin au titre de l'article 217-2.02.
 
 La présence du sac médical d'urgence n'est pas obligatoire sur les navires de desserte côtière et les vedettes à passagers qui ne sont jamais à plus d'une heure d'un port.
 
 En cas d'urgence médicale sur les navires à passagers n'ayant pas obligation d'embarquer un médecin, le capitaine peut faire appel à un médecin éventuellement présent parmi les passagers.
 
-Cette compétence médicale peut permettre d'améliorer l'efficacité des soins médicaux dispensés aux passagers blessés/malades, à conditions que :
+Cette compétence médicale peut permettre d'améliorer l'efficacité des soins médicaux dispensés aux passagers blessés/ malades, à conditions que :
 
-1. L'appel d'un médecin ne retarde pas les premiers soins que doit dispenser le personnel du navire en attendant l'arrivée du médecin ;
+-l'appel d'un médecin ne retarde pas les premiers soins que doit dispenser le personnel du navire en attendant l'arrivée du médecin,
 
-et que :
+et que
 
-2. Le Capitaine prenne toutes les mesures raisonnables pour vérifier les qualifications de la personne qui se présente comme médecin avant de l'autoriser à dispenser des soins médicaux au patient.
+-le capitaine prenne toutes les mesures raisonnables pour vérifier les qualifications de la personne qui se présente comme médecin avant de l'autoriser à dispenser des soins médicaux au patient.
 
-Le “Sac Médical d'Urgence” permet l'intervention du médecin en situation d'urgence car le patient doit être traité immédiatement sur place avant d'être transféré à l'infirmerie du navire pour recevoir des soins médicaux complémentaires. En l'absence de médecin, il pourra être utilisé par un infirmier/infirmière diplômé(e), un personnel paramédical qualifié ou le personnel responsable des soins à bord, après téléconsultation médicale.
+Le sac médical d'urgence permet l'intervention du médecin en situation d'urgence car le patient doit être traité immédiatement sur place avant d'être transféré à l'infirmerie du navire pour recevoir des soins médicaux complémentaires. En l'absence de médecin, il pourra être utilisé par un infirmier/ infirmière diplômé (e), un personnel paramédical qualifié ou le personnel responsable des soins à bord, après téléconsultation médicale.
 
-Ce “Sac Médical d'Urgence” doit :
+Ce sac médical d'urgence doit :
 
 1. Etre portable ;
 
@@ -26,37 +26,37 @@ Ce “Sac Médical d'Urgence” doit :
 
 3. Etre conservé dans un endroit sûr ;
 
-4. Porter une étiquette avec la mention suivante : “les médicaments de ce sac doivent être utilisés par un médecin qualifié ou un infirmier/une infirmière diplômés, un personnel paramédical qualifié ou le personnel du navire ayant la charge des soins médicaux à bord sous le contrôle direct d'un médecin à bord du navire ou après consultation/prescription télémédicale par un service de consultation télémédicale (par exemple le CCMM)” et ;
+4. Porter une étiquette avec la mention suivante : les médicaments de ce sac doivent être utilisés par un médecin qualifié ou un infirmier/ une infirmière diplômés, un personnel paramédical qualifié ou le personnel du navire ayant la charge des soins médicaux à bord sous le contrôle direct d'un médecin à bord du navire ou après consultation/ prescription télémédicale par un service de consultation télémédicale (par exemple le CCMM) et ;
 
-5. Etre conservé sous la garde ou la responsabilité du Capitaine. Son contenu sera régulièrement vérifié ; il sera rendu compte de tout médicament ou matériel utilisé en situation d'urgence et ce médicament ou matériel devra être remplacé dés que possible. Une fiche d'observation médicale sera renseignée pour toute utilisation.
+5. Etre conservé sous la garde ou la responsabilité du capitaine. Son contenu sera régulièrement vérifié ; il sera rendu compte de tout médicament ou matériel utilisé en situation d'urgence et ce médicament ou matériel devra être remplacé dés que possible. Une fiche d'observation médicale sera renseignée pour toute utilisation.
 
-Conformément aux règles de l'OMI (STCW)/OIT, le Capitaine reste la seule personne responsable de la décision finale (soins à bord, déroutement du navire, évacuation médicale). Il/elle peut à tout moment obtenir une consultation télémédicale auprès du CCMM soit pour confirmer les mesures préconisées par le passager médecin soit pour aider l'infirmier/infirmière, le personnel paramédical ou le personnel du navire à dispenser les meilleurs soins médicaux possibles. Une téléconsultation avec un tel Centre officiel offre une protection au malade, au capitaine du navire et au passager médecin.
+Conformément aux règles de l'OMI (STCW)/ OIT, le capitaine reste la seule personne responsable de la décision finale (soins à bord, déroutement du navire, évacuation médicale). Il/ elle peut à tout moment obtenir une consultation télémédicale auprès du CCMM soit pour confirmer les mesures préconisées par le passager médecin soit pour aider l'infirmier/ infirmière, le personnel paramédical ou le personnel du navire à dispenser les meilleurs soins médicaux possibles. Une téléconsultation avec un tel Centre officiel offre une protection au malade, au capitaine du navire et au passager médecin.
 
 Les deux ampoules de morphine du sac doivent être stockées dans le coffre du commandant. Les médicaments et matériel du sac peuvent être prélevés sur la dotation réglementaire du bord quand ils y sont inscrits.
 
-SAC MÉDICAL D'URGENCE : médicaments
+SAC MÉDICAL D'URGENCE : Médicaments
 
-Principe Actif Dénomination Commune Internationale (DCI)
+Principe Actif
+
+Dénomination Commune
+
+Internationale (DCI)
 
 (*) Groupe Générique |
 
-Voie d'Administration |
+Voie
 
-Forme Composition |
+d'Administration |
+
+Forme
+
+Composition |
 
 Quantité |
 
 Liste |
 
-l) Cardiologie |
-
-|
-
-|
-
-|
-
-|
+1. Cardiologie |
 
 Atropine |
 
@@ -188,15 +188,7 @@ ampoule 500 mg |
 
 |
 
-2) Gastro-Entérologie |
-
-|
-
-|
-
-|
-
-|
+2. Gastro-Entérologie |
 
 Ondansetron |
 
@@ -208,17 +200,9 @@ ampoule 4 mg/2 ml |
 
 I |
 
-3) Antalgiques-Antipyrétiques-Antispasmodiques-Anti-inflammatoires |
+3. Antalgiques-Antipyrétiques-Antispasmodiques-Anti-inflammatoires |
 
-|
-
-|
-
-|
-
-|
-
-Kétoprofène (*) |
+Kétoprofène |
 
 parentérale |
 
@@ -238,16 +222,6 @@ flacon 1 g/100 ml |
 
 II |
 
-|
-
-|
-
-|
-
-|
-
-|
-
 Morphine chlorhydrate |
 
 parentérale |
@@ -258,15 +232,7 @@ ampoule 10 mg/1 ml |
 
 Stupéfiant |
 
-4) Psychiatrie-Neurologie |
-
-|
-
-|
-
-|
-
-|
+4. Psychiatrie-Neurologie |
 
 Diazépam |
 
@@ -298,15 +264,7 @@ ampoule 0,4 mg/ ml |
 
 I |
 
-5) Allergologie |
-
-|
-
-|
-
-|
-
-|
+5. Allergologie |
 
 Méthyl prednisolone |
 
@@ -328,15 +286,7 @@ ampoule 100 mg/2 ml |
 
 I |
 
-6) Pneumologie |
-
-|
-
-|
-
-|
-
-|
+6. Pneumologie |
 
 Salbutamol |
 
@@ -378,15 +328,7 @@ flacon pressurisé 250 mg/ dose |
 
 I |
 
-7) Réanimation |
-
-|
-
-|
-
-|
-
-|
+7. Réanimation |
 
 Oxygène médical |
 
@@ -404,7 +346,7 @@ parentérale |
 
 solution pour perfusion 0,9 % 250 ml |
 
-2 |
+8 |
 
 |
 
@@ -415,16 +357,6 @@ parentérale |
 solution pour perfusion 5 % 250 ml |
 
 2 |
-
-|
-
-Hydroxyéthylamidon |
-
-parentérale |
-
-solution pour perfusion, poche 500ml |
-
-3 |
 
 |
 
@@ -458,27 +390,21 @@ Quantité |
 
 Remarques |
 
-l) Matériel de réanimation |
-
-|
-
-|
-
-|
+1. Matériel de réanimation |
 
 Insufflateur manuel avec masque facial (taille 4 & 5) et réservoir à oxygène |
 
 unité |
 
-1 (27) |
+1 (1) |
 
 Type Ambu ® |
 
-Canules de "Guedel" (taille 3 et 4) |
+Canules de Guedel (taille 3 et 4) |
 
 unité |
 
-1 (27) |
+1 (1) |
 
 |
 
@@ -486,11 +412,11 @@ Pompe d'aspiration manuelle pour désobstruction des voies aériennes supérieur
 
 unité |
 
-1 (27) |
+1 (1) |
 
 Type Ambu ® Twin Pump |
 
-Canule d'aspiration "Yankauer" |
+Canule d'aspiration Yankauer |
 
 unité |
 
@@ -554,13 +480,7 @@ unité |
 
 |
 
-2) Instruments |
-
-|
-
-|
-
-|
+2. Instruments |
 
 Ciseaux universels |
 
@@ -602,13 +522,7 @@ Set stérile |
 
 Recommandé |
 
-3) Matériel d'examen et de surveillance médicale |
-
-|
-
-|
-
-|
+3. Matériel d'examen et de surveillance médicale |
 
 Lampe stylo |
 
@@ -658,19 +572,9 @@ unité |
 
 Pour téléconsultation médicale |
 
-4) Matériel d'injection et de perfusion
+4. Matériel d'injection et de perfusion |
 
-|
-
-|
-
-|
-
-|
-
-Compresses de gaze stériles
-
-|
+Compresses de gaze stériles |
 
 paquet de 5 |
 
@@ -678,9 +582,7 @@ paquet de 5 |
 
 Taille moyenne |
 
-Chlorhexidine - Benzalkonium. Chl. - Alco. Benzylique
-
-|
+Chlorhexidine-Benzalkonium. Chl.-Alco. Benzylique |
 
 locale |
 
@@ -688,428 +590,176 @@ locale |
 
 Flacon 40 ml |
 
-1+ = Si déjà présent dans la dotation du navire, un seul exemplaire est obligatoire à bord, conditionné dans le Sac Médical d'Urgence.
-
-Article
-
-|
-
-Présentation
-
-|
-
-Quantité
-
-|
-
-Remarques
-
-|
-
 Aiguille à injection stérile :
 
-|
+sous-cutanée (25 G-0,5 x 16)
 
-|
+intra-veineuse (23 G-0,6 x 25)
 
-|
+intra-musculaire (21 G-0,8 x 40)
 
-Usage unique
-
-|
-
-- sous-cutanée (25 G - 0,5 x 16)
-
-|
+trocards (19 G-1,1 x 40) |
 
 unité
 
-|
+unité
+
+unité
+
+unité |
 
 4
 
-|
-
-|
-
-- intra-veineuse (23 G - 0,6 x 25)
-
-|
-
-unité
-
-|
+4
 
 4
 
-|
+4 |
 
-|
+Usage unique |
 
-- intra-musculaire (21 G - 0,8 x 40)
+Champ adhésif transparent (10 cm x 14 cm) |
 
-|
+unité |
 
-unité
+2 |
 
-|
-
-4
-
-|
-
-|
-
-- trocards (19 G - 1,1 x 40)
-
-|
-
-unité
-
-|
-
-4
-
-|
-
-|
-
-Champ adhésif transparent (10 cm x 14 cm)
-
-|
-
-unité
-
-|
-
-2
-
-|
-
-Fixation de cathéter
-
-|
+Fixation de cathéter |
 
 Cathéter IV court :
 
-|
+20 G
 
-|
+18 G
 
-|
-
-|
-
-- 20 G
-
-|
+16 G |
 
 |
 
 2
 
-|
-
-|
-
-- 18 G
-
-|
-
-|
-
 2
 
-|
-
-|
-
-- 16 G
-
-|
-
-|
-
-2
-
-|
+2 |
 
 |
 
 Seringue :
 
-|
+1 ml
 
-|
+5 ml
 
-|
-
-Usage unique
-
-|
-
-- 1 ml
-
-|
+10 ml |
 
 unité
 
-|
+unité
+
+unité |
 
 2
 
-|
-
-|
-
-- 5 ml
-
-|
-
-unité
-
-|
-
 2
 
-|
-
-|
-
-- 10 ml
-
-|
-
-unité
-
-|
-
-2
-
-|
-
-|
-
-Nécessaire à perfusion
-
-|
-
-Set stérile
-
-|
-
-2
-
-|
-
-Avec site d'injection
-
-|
-
-Garrot en caoutchouc pour voie veineuse
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-|
-
-Collecteur d'aiguilles
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-0,45 l.
-
-|
-
-5) Trousse de Premiers Secours
-
-|
-
-|
-
-|
-
-|
-
-Compresses de gaze stériles
-
-|
-
-paquet de 5
-
-|
-
-2
-
-|
+2 |
 
-Taille moyenne
+Usage unique |
 
-|
-
-Chlorhexidine - Solution aqueuse
-
-|
-
-unidose 0,05 %
-
-|
-
-2
-
-|
-
-|
-
-Coussin Hémostatique
-
-|
-
-unité
-
-|
-
-1
-
-|
-
-Type CHUT ® (1)
-
-|
-
-Bande de crêpe (10 cm)
-
-|
-
-rouleau de 4 m
-
-|
-
-1
-
-|
+Nécessaire à perfusion |
 
-Type Velpeau® (1)
+Set stérile |
 
-|
-
-Bande auto-adhésive (10 cm)
-
-|
-
-rouleau de 4 m
-
-|
-
-1
+2 |
 
-|
+Avec site d'injection |
 
-Type Coheban® (1)
+Garrot en caoutchouc pour voie veineuse |
 
-|
+unité |
 
-Pansement adhésif
+1 |
 
 |
 
-boîte
-
-|
+Collecteur d'aiguilles |
 
-1
+unité |
 
-|
+1 |
 
-Assortiment 3 tailles
+0,45 l. |
 
-|
+5. Trousse de Premiers Secours |
 
-Gants d'examen, non stériles
+Compresses de gaze stériles |
 
-|
+paquet de 5 |
 
-paire
+2 |
 
-|
+Taille moyenne |
 
-4
+Chlorhexidine-Solution aqueuse |
 
-|
+unidose 0,05 % |
 
-Taille M et L
+2 |
 
 |
 
-6) Matériel de téléconsultation
+Coussin Hémostatique |
 
-cardiologique (1)
+unité |
 
-|
-
-|
+1 |
 
-|
+Type CHUT ® (1) |
 
-|
+Bande de crêpe (10 cm) |
 
-Appareil d'enregistrement ambulatoire et événementiel de tracés ECG avec transmission par INMARSAT ou HF
+rouleau de 4 m |
 
-|
+1 |
 
-unité
+Type Velpeau ® (1) |
 
-|
+Bande auto-adhésive (10 cm) |
 
-1 (2)
+rouleau de 4 m |
 
-|
+1 |
 
-Possibilité de branchement sur
+Type Coheban ® (1) |
 
-l'ordinateur du bord non obligatoire.
+Pansement adhésif |
 
-|
+boîte |
 
-comprenant :
+1 |
 
-|
+Assortiment 3 tailles |
 
-|
+Gants d'examen, non stériles |
 
-|
+paire |
 
-|
+4 |
 
-- le branchement au réseau INMARSAT ou HF
+Taille M et L |
 
-- le matériel permettant d'effectuer les dérivations standard classiques aux membres
+6. Matériel de téléconsultation cardiologique (11) |
 
-|
+Appareil d'enregistrement ambulatoire et événementiel de tracés ECG avec transmission par INMARSAT ou HF comprenant :
 
-|
+le branchement au réseau INMARSAT ou HF
 
-|
+le matériel permettant d'effectuer les dérivations standard classiques aux membres |
 
-|
+unité |
 
-(1) = En l'absence d'autre appareil électrocardiogramme/scope avec fonction de télétransmission.
+1 (12) |
 
-(2) = Si déjà présent dans la dotation du navire, un seul exemplaire est obligatoire à bord, conditionné dans le Sac Médical d'Urgence.
+Possibilité de branchement sur l'ordinateur du bord non obligatoire. |
 
-(27) Si déjà présent dans la dotation du navire, un seul exemplaire est obligatoire à bord, conditionné dans le Sac Médical d'Urgence.
+(11) (12) Voir ANNEXE 217-3. A. 7 Table des notes de bas de page |

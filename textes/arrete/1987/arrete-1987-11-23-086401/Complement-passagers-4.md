@@ -14,7 +14,7 @@ Liste |
 
 1. Allergologie |
 
-Epinéphrine (25) |
+Epinéphrine (9) |
 
 parentérale |
 
@@ -36,7 +36,7 @@ I |
 
 2. Pneumologie |
 
-TerbutalineErreur : source de la référence non trouvée |
+Terbutaline (9) |
 
 nébulisation |
 
@@ -46,7 +46,7 @@ solution inhalation 5 mg/2 ml unidose |
 
 I |
 
-Ipratropium bromureErreur : source de la référence non trouvée |
+Ipratropium bromure (9) |
 
 nébulisation |
 
@@ -56,7 +56,7 @@ solution inhalation 0,5 mg/2 ml unidose |
 
 I |
 
-(25) Les navires effectuant des dessertes régulières de très courte durée, inférieure à une demi-heure, ne sont pas astreints à l'emport de ces articles.
+(9) Voir ANNEXE 217-3. A. 7 Table des notes de bas de page |
 
 COMPLÉMENT PASSAGERS 4 : Matériel médical et objets de pansement
 
@@ -78,7 +78,7 @@ unité |
 
 Type Guedel ® |
 
-Oxygène médical |
+Oxygène médical (9) |
 
 bouteille de 2 l 200 bars |
 
@@ -86,7 +86,7 @@ bouteille de 2 l 200 bars |
 
 bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min et prises normalisées |
 
-Insufflateur manuel avec réservoir à oxygène |
+Insufflateur manuel avec réservoir à oxygène (9) |
 
 unité |
 
@@ -94,7 +94,7 @@ unité |
 
 Ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
-Masque facial pour insufflateur manuel, taille 5 (adulte) |
+Masque facial pour insufflateur manuel, taille 5 (adulte) (9) |
 
 unité |
 
@@ -102,7 +102,7 @@ unité |
 
 usage unique |
 
-Masque facial pour insufflateur manuel, taille 3 (pédiatrie) |
+Masque facial pour insufflateur manuel, taille 3 (pédiatrie) (9) |
 
 unité |
 
@@ -110,7 +110,7 @@ unité |
 
 usage unique |
 
-Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration |
+Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration (9) |
 
 unité |
 
@@ -118,7 +118,7 @@ unité |
 
 type Ambu ® Twin Pump |
 
-Sonde d'aspiration buccale |
+Sonde d'aspiration buccale (9) |
 
 unité |
 
@@ -126,7 +126,7 @@ unité |
 
 CH 26 |
 
-Masque à oxygène à haute concentration (adulte) avec tubulure |
+Masque à oxygène à haute concentration (adulte) avec tubulure (9) |
 
 unité |
 
@@ -134,7 +134,7 @@ unité |
 
 usage unique |
 
-Masque aérosol pour nébulisation de médicaments (adulte) avec tubulure |
+Masque aérosol pour nébulisation de médicaments (adulte) avec tubulure (9) |
 
 unité |
 
@@ -142,7 +142,7 @@ unité |
 
 usage unique |
 
-Masque aérosol pour nébulisation de médicaments (pédiatrie) avec tubulure |
+Masque aérosol pour nébulisation de médicaments (pédiatrie) avec tubulure (9) |
 
 unité |
 
@@ -150,7 +150,7 @@ unité |
 
 usage unique |
 
-2. Défibrillateur Automatisé Externe (26) |
+2. Défibrillateur Automatisé Externe (10) |
 
 Défibrillateur automatisé externe |
 
@@ -170,7 +170,7 @@ unité |
 
 automatique à brassard huméral |
 
-Oxymètre de poulsErreur : source de la référence non trouvée |
+Oxymètre de pouls (9) |
 
 unité |
 
@@ -178,7 +178,7 @@ unité |
 
 |
 
-Lecteur de glycémie capillaireErreur : source de la référence non trouvée |
+Lecteur de glycémie capillaire (9) |
 
 unité |
 
@@ -186,85 +186,15 @@ unité |
 
 |
 
-Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) |
+Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) (9) |
 
 boîte |
 
 1 |
 
-avec lancettes capillaires sécurisées,
+avec lancettes capillaires sécurisées, conditionnées à l'unité et non en barillet |
 
-conditionnées à l'unité et non en barillet |
-
-4. Trousses de premier secours (1) |
-
-Compresses de gaze stériles |
-
-paquet de 5 |
-
-2 |
-
-taille moyenne |
-
-Chlorhexidine-Solution aqueuse |
-
-unidose 0,2 % |
-
-2 |
-
-|
-
-Coussin Hémostatique |
-
-unité |
-
-1 |
-
-type CHUT ® |
-
-Bande de crêpe (10 cm) |
-
-rouleau de 4 m |
-
-1 |
-
-type Velpeau ® |
-
-Bande auto-adhésive (10 cm) |
-
-rouleau de 4 m |
-
-1 |
-
-type Coheban ® |
-
-Pansement adhésif stérile étanche |
-
-boîte |
-
-1 |
-
-assortiment 3 tailles |
-
-Gel antiseptique hydroalcoolique pour la peau saine |
-
-flacon 75ml |
-
-1 |
-
-|
-
-Gants d'examen non stériles |
-
-paire |
-
-4 |
-
-taille M et L |
-
-(26) Ce matériel est obligatoire lorsque le navire est autorisé à transporter 400 passagers et plus.
-
-A la suite d'une contamination avérée du réseau d'eau potable du navire par un micro-organisme, il est nécessaire de procéder à un nettoyage mécanique des caisses à eau, puis à une sur-chloration. A la suite de cette sur-chloration, l'eau doit être brassée pendant au moins deux heures puis évacuée de la caisse à eau polluée. Pour mémoire, un litre d'eau de javel concentrée à 9 % contient 100 gr de chlore et permet d'obtenir une chloration à environ 5 mgr/l d'une caisse à eau d'une contenance de 20 m³.
+(10) Voir ANNEXE 217-3. A. 7 Table des notes de bas de page |
 
 NOTA :
 

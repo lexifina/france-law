@@ -54,7 +54,7 @@ et de magnésium |
 
 orale |
 
-sachet suspension 460mg/ 400mg |
+sachet suspension 460mg, 400mg |
 
 20 |
 
@@ -234,7 +234,7 @@ Chlorhexidine |
 
 locale |
 
-solution aqueuse 0,2 %-unidose 5 ml |
+solution aqueuse 0,2 %-unidose 5ml |
 
 16 |
 
@@ -284,7 +284,7 @@ pommade ophtalmique
 
 1 000 000 UI/100 g-
 
-tube 5 g |
+tube de 5 g |
 
 1 |
 
@@ -370,7 +370,7 @@ assortiment 3 tailles |
 
 Pansement absorbant stérile
 
-(15 cm × 20 cm) |
+(15 cm x 20 cm) |
 
 unité |
 
@@ -418,7 +418,7 @@ rouleau |
 
 |
 
-Tulle gras (10 cm × 10 cm) |
+Tulle gras (10 cm x 10 cm) |
 
 boîte de 10 |
 
@@ -426,7 +426,7 @@ boîte de 10 |
 
 |
 
-Compresses hydrogel 40 cm × 55 cm |
+Compresses hydrogel 40 cm x 55 cm |
 
 unité |
 
@@ -434,7 +434,7 @@ unité |
 
 type BurnAid ® |
 
-Compresses hydrogel 20 cm × 20 cm |
+Compresses hydrogel 20 cm x 20 cm |
 
 unité |
 
@@ -442,7 +442,7 @@ unité |
 
 type BurnAid ® |
 
-Sutures cutanées adhésives (6 mm × 75 mm) |
+Sutures cutanées adhésives (6 mm x 75 mm) |
 
 pochette
 
@@ -573,8 +573,6 @@ unité |
 1 |
 
 pour téléconsultation |
-
-.
 
 DOTATION C restreinte
 

@@ -1,56 +1,66 @@
 # Article Annexe 217-3.A.3
 
-MODELE DE REGISTRE DES MEDICAMENTS
+MODÈLE DE REGISTRE DE LA DOTATION MÉDICALE
 
-Dotation Médicale : A B C P1 P2 P3 P4
+Dotation médicale : |
+
+A |
+
+B |
+
+C |
+
+P1 |
+
+P2 |
+
+P3 |
+
+P4 |
 
 Navire :
 
 Armement :
 
-Pavillon
+Pavillon :
 
-Port d'attache
+Port d'attache : |
+
+I.-Registre des médicaments
 
 Principe actif
 
-Dénomination Commune Internationale
+Dénomination Commune
 
-|
+Internationale |
 
-Nom de spécialité ou générique
+Nom de spécialité
 
-|
+ou générique |
 
 Voie
 
-d'administration
+d'administration |
 
-|
+Forme-
 
-Forme - Composition
-
-|
-
-Quantité réglementaire
-
-|
+Composition |
 
 Quantité
 
-existante
+réglementaire |
 
-|
+Quantité existante |
 
-Date de péremption
+Date
 
-|
+de
 
-Liste
+péremption |
 
-|
+Liste |
 
-1 - Cardiologie
+1-Cardiologie |
 
 |
 
@@ -66,75 +76,95 @@ Liste
 
 |
 
+Atropine |
+
 |
+
+parentérale |
+
+ampoule 0,5 mg/1 ml |
 
-Atropine
+10 |
 
 |
 
 |
 
-parentérale
+I |
 
+Epinéphrine |
+
 |
 
-ampoule 0,5 mg / 1 ml
+parentérale |
 
-|
+ampoule 1 mg/1 ml |
 
-10
+10 |
 
 |
 
 |
 
-|
+I |
 
-I
+Furosémide |
 
 |
 
-Epinéphrine
+parentérale |
 
+ampoule 20 mg/2 ml |
+
+10 |
+
 |
 
 |
+
+II |
 
-parentérale
+Trinitrine |
 
 |
 
-ampoule 1 mg / 1 ml
+buccale |
 
-|
+flacon pulvérisation 0,15 mg/ dose |
 
-10
+2 |
 
 |
 
 |
 
-|
+II |
 
-I
+Isosorbide dinitrate |
 
 |
+
+orale |
 
-Furosémide
+comprimé 20 mg LP |
 
+60 |
+
 |
 
 |
 
-parentérale
+II |
 
+2-Gastro-entérologie |
+
 |
 
-ampoule 20 mg / 2 ml
+|
 
 |
 
-10
+|
 
 |
 
@@ -142,25 +172,31 @@ ampoule 20 mg / 2 ml
 
 |
 
-II
+Charbon et levure |
 
 |
 
-Trinitrine
+orale |
 
-|
+gélule 100 mg |
+
+100 |
 
 |
 
-buccale
+|
 
 |
 
-flacon pulvérisation
+Hydroxydes d'aluminium et de magnésium |
 
 |
+
+orale |
+
+comprimé 400 mg |
 
-2
+120 |
 
 |
 
@@ -168,27 +204,31 @@ flacon pulvérisation
 
 |
 
-II
+Nifuroxazide |
 
 |
 
-Isosorbide dinitrate
+orale |
 
+gélule 200 mg |
+
+56 |
+
 |
 
 |
 
-orale
+II |
 
-|
+3-Antalgiques, Antispasmodiques |
 
-0,15 mg / dose
+|
 
-comprimé 20 mg LP
+|
 
 |
 
-60
+|
 
 |
 
@@ -196,19 +236,31 @@ comprimé 20 mg LP
 
 |
 
-II
+Paracétamol |
 
 |
 
-2 - Gastro-entérologie
+orale |
 
+lyophilisat oral 500 mg |
+
+32 |
+
 |
 
 |
 
 |
+
+Paracétamol |
 
 |
+
+orale |
+
+gélule 500 mg |
+
+100 |
 
 |
 
@@ -216,144 +268,254 @@ II
 
 |
 
+Tramadol (opioïde) |
+
 |
+
+orale |
+
+Comprimé orodispersible
 
-Charbon et levure
+50 mg |
 
+30 |
+
 |
 
 |
 
-orale
+I |
 
+Morphine chlorhydrate |
+
 |
 
-gélule 100 mg
+parentérale |
 
-|
+ampoule 10 mg/ ml |
 
-100
+10 |
 
 |
 
 |
 
-|
+Stupéfiant |
 
+7-Infectiologie Parasitologie |
+
 |
 
-Hydroxydes d'aluminium
+|
 
-et de magnésium
+|
 
 |
 
 |
 
-orale
+|
 
 |
 
-comprimé 400 mg
+Amoxicilline |
 
 |
 
-120
+orale |
 
-|
+gélule 500 mg |
 
+48 |
+
 |
 
 |
+
+I |
+
+Amoxicilline + Acide Clavulanique |
 
 |
 
-Nifuroxazide
+orale |
 
+comprimé 500 mg |
+
+48 |
+
 |
 
 |
+
+I |
 
-orale
+Azithromycine |
 
 |
 
-gélule 200 mg
+orale |
 
+comprimé 250 mg |
+
+12 |
+
+|
+
 |
+
+I |
+
+II.-Registre du matériel médical
 
-56
+Article |
 
+Présentation |
+
+Quantité réglementaire |
+
+Quantité existante |
+
+Date de péremption |
+
+Remarques |
+
+1-Matériel de réanimation |
+
 |
 
 |
 
 |
 
-II
+|
 
 |
 
-3 - Antalgiques,
+Défibrillateur automatisé externe |
 
-Antispasmodiques
+Unité |
 
+1 |
+
 |
 
 |
+
+Avec 2 sets d'électrodes et 1 tapis isolant |
+
+Oxygène médical |
+
+Bouteille de 5l 200 bars |
+
+2 |
 
 |
 
 |
 
+Bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min et prises normalisées |
+
+Insufflateur manuel avec réservoir à oxygène |
+
+Unité (21) |
+
+1 |
+
 |
 
 |
+
+Ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
+
+Masque facial pour insufflateur manuel, taille 5 (adulte) |
 
+Unité (21) |
+
+2 |
+
 |
 
 |
+
+Usage unique |
 
-Paracétamol
+Canule oro-pharyngée taille 4 (adulte) |
 
+Unité (21) |
+
+1 |
+
 |
 
 |
 
-orale
+Type Guedel ® |
 
-|
+2-Pansements et matériel de suture |
 
-lyophilisat oral 500 mg
+|
 
 |
 
-32
+|
 
 |
 
 |
+
+Set à pansement : 1 paire de ciseaux droits à bouts pointus-1 champ stériel non troué-1 pince Kocher-1 pince anatomique à mors fins-1 pince à disséquer à griffes-Compresses stériles |
 
+Set stérile |
+
+5 |
+
 |
 
 |
+
+Usage unique |
 
-Paracétamol
+Compresse de gaze non stérile |
 
+Paquet de 100 |
+
+2 |
+
+|
+
 |
 
 |
+
+Compresse de gaze stérile |
+
+Paquet de 5 |
+
+20 |
 
-orale
+|
 
 |
+
+Taille moyenne |
+
+Pansement ashésif stérile étanche |
 
-gélule 500 mg
+Boîte |
+
+5 |
+
+|
 
 |
 
-100
+Assortiment de 3 tailles |
 
+11-Désinfection-Désinsectisation-Protection |
+
+|
+
 |
 
 |
@@ -362,160 +524,306 @@ gélule 500 mg
 
 |
 
-Tramadol (opioïde)
+Comprimés chlorés pour stérilisation de l'eau |
 
 |
 
 |
 
-orale
+|
 
 |
+
+Quantité en fonction de la capacité des réservoirs d'eau et permettant d'obtenir en cas de contamination avérée par un micro-organisme, une concentration de chlore de 5 mgr/ l d'eau. |
+
+Eau de Javel |
 
-comprimé 200 mg LP
+Bouteille concentrée à 9,6 % ou pastilles chlorées à 1, 5g |
 
+2 |
+
+|
+
 |
+
+Application cutanée ou désinfection des surfaces |
+
+Détergent désinfectant de surface |
+
+Litre |
 
-30
+2 |
 
 |
 
 |
 
+Type Anios ® |
+
+Insecticide liquide |
+
+Unité |
+
+2 |
+
 |
 
-I
+|
 
 |
+
+III.-Registre du nécessaire pharmaceutique d'urgence
 
-Morphine chlorhydrate
+Médicaments
 
+Principe actif
+
+Dénomination commune
+
+internationale (DCI) |
+
+Voie d'administration |
+
+Forme composition |
+
+Quantité réglementaire |
+
+Quantité existante |
+
+Date de péremption |
+
+Liste |
+
+1-Cardiologie |
+
 |
 
 |
 
-parentérale
+|
 
 |
 
-ampoule 10 mg / ml
+|
 
 |
 
-10
+Trinitine |
 
+Buccale |
+
+Flacon pul. 0,15 mg/ dose |
+
+1 |
+
 |
+
+|
+
+2 |
 
+Méthylergométrine |
+
+Orale |
+
+Comp. 0,125 mg |
+
+20 |
+
 |
 
 |
 
-Stupéfiant
+1 |
 
+2-Gastro-Entérologie |
+
 |
 
-7) - Infectiologie
+|
 
-Parasitologie
+|
 
 |
 
 |
 
 |
+
+Lopéramide |
+
+Orale |
 
+Gélule 2 mg |
+
+20 |
+
 |
 
 |
+
+2 |
 
+Dimenhydrate |
+
+Orale |
+
+Comp. 50 mg |
+
+15 |
+
 |
 
 |
 
 |
+
+Métopimazine |
+
+Orale |
 
-Amoxicilline
+Lyophilisat oral 7,5 mg |
 
+16 |
+
 |
 
 |
 
-orale
+2 |
 
+3-Antalgiques-Antipyrétiques-Antispasmodiques-Anti-inflammatoires |
+
 |
 
-gélule 500 mg
+|
 
 |
 
-48
+|
 
 |
 
 |
+
+Paracétamol |
+
+Orale |
 
+Lyophilisat oral 500 mg |
+
+16 |
+
 |
 
-I
+|
 
 |
+
+Matériel médical
+
+Article |
+
+Présentation |
 
-Amoxicilline + Acide
+Quantité réglementaire |
 
-Clavulanique
+Quantité existante |
 
+Remarques |
+
+1-Matériel de réanimation |
+
 |
 
 |
 
-orale
+|
 
 |
 
-comprimé 500 mg
+Masque protecteur pour ventilation bouche à bouche (film plastique et valve unidirectionnelle) |
 
-|
+Unité |
 
-48
+1 |
 
 |
+
+Type Ambu ® LifeKey (1) (nouveau matériel) |
+
+2-Pansements et matériel de suture |
 
 |
 
 |
 
-I
+|
 
 |
+
+Bande auto-adhésive (10cm) |
+
+Rouleau 4m |
 
-Azithromycine
+1 |
 
 |
+
+Type Coheban ® (1) |
+
+Compresses de gaze stérile |
+
+Paquet de 5 |
 
+4 |
+
 |
+
+Taille moyenne |
+
+Pansement adhésif stérile |
 
-orale
+Boîte |
 
+2 |
+
 |
+
+Assortiment 3 tailles |
+
+Coussin hémostatique |
 
-comprimé 250 mg
+Unité |
 
+1 |
+
 |
+
+Type CHUT-Ebony ® (1) |
+
+Sutures cutanées adhésives (6x75 mm) |
 
-12
+Pochette de 3 |
 
+2 |
+
 |
 
 |
+
+Gants à usage unique |
 
 |
 
-I
+1 |
+
+|
 
 |
 
-Lieu et date
+Lieu et date :
 
-Signature du capitaine
+Signature du capitaine :
 
-Visa de l'autorité compétente
+Visa de l'autorité compétente :

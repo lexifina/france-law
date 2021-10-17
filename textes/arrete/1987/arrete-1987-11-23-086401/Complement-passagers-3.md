@@ -368,7 +368,7 @@ bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min
 
 Insufflateur manuel avec réservoir à oxygène |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -376,7 +376,7 @@ ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
 Masque facial pour insufflateur manuel, taille 5 (adulte) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -384,7 +384,7 @@ usage unique |
 
 Masque facial pour insufflateur manuel, taille 3 (pédiatrie) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -392,7 +392,7 @@ usage unique |
 
 Canule oro-pharyngée tailles 1 et 2 (pédiatrie) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -400,7 +400,7 @@ type Guedel ® |
 
 Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -408,7 +408,7 @@ type Ambu ® Twin Pump |
 
 Sonde d'aspiration buccale |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -416,7 +416,7 @@ CH 26 |
 
 Masque à oxygène à haute concentration (adulte) avec tubulure |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -494,7 +494,7 @@ usage unique |
 
 Pince hémostatique à griffes |
 
-set stérile |
+set stérile (2) |
 
 1 |
 
@@ -508,7 +508,7 @@ Set Hémorragie comprenant :
 
 -Bande granulés hémostatiques |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -520,7 +520,7 @@ bande type Chito-SAM ® |
 
 Tensiomètre |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -528,7 +528,7 @@ automatique à brassard huméral |
 
 Oxymètre de pouls |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -544,7 +544,7 @@ unité |
 
 Lecteur de glycémie capillaire |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -552,13 +552,11 @@ unité |
 
 Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) |
 
-boîte |
+boîte (2) |
 
 1 |
 
-avec lancettes capillaires sécurisées,
-
-conditionnées à l'unité et non en barillet |
+avec lancettes capillaires sécurisées, conditionnées à l'unité et non en barillet |
 
 5. Matériel d'injection, de perfusion, de ponction et de sondage |
 
@@ -710,7 +708,7 @@ unité |
 
 Attaches rapides Velcro ® |
 
-Civière polyvalente treuillable |
+Civière polyvalente treuillable (3) |
 
 unité |
 
@@ -734,7 +732,7 @@ unité |
 
 |
 
-8. Trousses de premier secours (1) |
+8. Trousses de premier secours (8) |
 
 Compresses de gaze stériles |
 
@@ -815,6 +813,12 @@ unité |
 pour les navires sans médecin |
 
 10. Sac médical d'urgence |
+
+|
+
+|
+
+|
 
 Sac médical d'urgence |
 

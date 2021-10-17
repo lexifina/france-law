@@ -106,7 +106,7 @@ et de magnésium |
 
 orale |
 
-sachet suspension 460mg/ 400mg |
+sachet suspension 460mg, 400mg |
 
 40 |
 
@@ -146,7 +146,7 @@ Carraghénates-Dioxyde titane-Oxyde de zinc-Lidocaîne 2 % |
 
 rectale |
 
-Crème-tube 20g |
+crème-tube 20g |
 
 1 |
 
@@ -670,7 +670,7 @@ collyre 2 %-flacon 10 ml |
 
 1 |
 
-I |
+|
 
 Oxybuprocaine chlorhydrate |
 
@@ -850,7 +850,7 @@ bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min
 
 Insufflateur manuel avec réservoir à oxygène |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -858,7 +858,7 @@ Ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
 Masque facial pour insufflateur manuel, taille 5 (adulte) |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -866,7 +866,7 @@ usage unique |
 
 Canule oro-pharyngée taille 4 (adulte) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -874,7 +874,7 @@ type Guedel ® |
 
 Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -882,7 +882,7 @@ type Ambu ® Twin Pump |
 
 Sonde d'aspiration buccale |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -890,7 +890,7 @@ CH 26 |
 
 Masque à oxygène à haute concentration (adulte) avec tubulure |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -906,7 +906,7 @@ usage unique |
 
 2. Défibrillateur Automatisé Externe :
 
-ce matériel non obligatoire est recommandé (23) |
+ce matériel non obligatoire est recommandé (6) |
 
 Défibrillateur automatisé externe |
 
@@ -992,7 +992,7 @@ rouleau |
 
 |
 
-Mèche de gaze stérile (2 cm × 5 m) |
+Mèche de gaze stérile (2 cm x 5 m) |
 
 flacon stérile |
 
@@ -1000,7 +1000,7 @@ flacon stérile |
 
 |
 
-Tulle gras (10 cm × 10 cm) |
+Tulle gras (10 cm x 10 cm) |
 
 boîte de 10 |
 
@@ -1008,7 +1008,7 @@ boîte de 10 |
 
 |
 
-Compresses hydrogel 40 cm × 55 cm |
+Compresses hydrogel 40 cm x 55 cm |
 
 unité |
 
@@ -1016,7 +1016,7 @@ unité |
 
 type BurnAid ® |
 
-Compresses hydrogel 20 cm × 20 cm |
+Compresses hydrogel 20 cm x 20 cm |
 
 unité |
 
@@ -1024,7 +1024,7 @@ unité |
 
 type BurnAid ® |
 
-Sutures cutanées adhésives (6 mm × 75 mm) |
+Sutures cutanées adhésives (6 mm x 75 mm) |
 
 pochette
 
@@ -1088,7 +1088,7 @@ usage unique |
 
 Pince hémostatique à griffes |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1102,7 +1102,7 @@ Set Hémorragie comprenant :
 
 -Bande granulés hémostatiques |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1114,7 +1114,7 @@ bande type Chito-SAM ® |
 
 Tensiomètre |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1122,7 +1122,7 @@ automatique à brassard huméral |
 
 Oxymètre de pouls |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1146,7 +1146,7 @@ mesure jusqu'à 25° C |
 
 Lecteur de glycémie capillaire |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1154,13 +1154,11 @@ unité |
 
 Bandelettes réactives pour glycémie capillaire (compatible avec lecteur) |
 
-boîte |
+Boîte (2) |
 
 1 |
 
-avec lancettes capillaires sécurisées,
-
-conditionnées à l'unité et non en barillet |
+avec lancettes capillaires sécurisées, conditionnées à l'unité et non en barillet |
 
 Bandelettes réactives pour examen d'urines |
 
@@ -1256,7 +1254,7 @@ usage unique |
 
 Sac d'intervention |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -1392,9 +1390,9 @@ unité |
 
 type KED ® |
 
-Civière polyvalente treuillable |
+Civière polyvalente treuillable (3) |
 
-unité (24) |
+unité (7) |
 
 1 |
 
@@ -1436,7 +1434,7 @@ type Vidal de la Famille-Guide de l'automédication |
 
 Fiche d'observation médicale |
 
-unité |
+unité (2) |
 
 5 |
 
@@ -1450,7 +1448,7 @@ unité |
 
 |
 
-10. Trousse des premiers secours |
+10. Trousse des premiers secours (4) |
 
 Compresses de gaze stériles |
 
@@ -1502,7 +1500,7 @@ assortiment 3 tailles |
 
 Gel antiseptique hydroalcoolique pour la peau saine |
 
-flacon 75 ml |
+flacon 75ml |
 
 1 |
 
@@ -1518,13 +1516,13 @@ taille M et L |
 
 11. Désinfection-Désinsectisation-Protection |
 
-Comprimés chlorés pour stérilisation de l'eau |
+Comprimés chlorés pour stérilisation de l'eau (5) |
 
 |
 
 |
 
-quantité en fonction de la capacité des réservoirs d'eau et permettant d'obtenir en cas de contamination avérée par un micro-organisme, une concentration de chlore de 5 mgr/l d'eau. |
+quantité en fonction de la capacité des réservoirs d'eau et permettant d'obtenir en cas de contamination avérée par un micro-organisme une concentration de chlore de 5 mgr/ l d'eau. |
 
 Eau de Javel |
 
@@ -1544,9 +1542,7 @@ litre |
 
 type Anios ® |
 
-(23) Pour favoriser la prise en charge d'urgences cardiaques graves, les exploitants sont invités à s'équiper d'un DAE après une analyse des risques encourus.
-
-(24) Facultative pour les navires de pêche.
+(6) (7) Voir ANNEXE 217-3. A. 7 Table des notes de bas de page |
 
 DOTATION B restreinte : Médicaments
 
@@ -1566,7 +1562,7 @@ Liste |
 
 Acide acétylsalicylique |
 
-Orale |
+orale |
 
 sachet 300 mg |
 
@@ -1576,7 +1572,7 @@ sachet 300 mg |
 
 Atropine |
 
-Parentérale |
+parentérale |
 
 ampoule 0,5 mg/1 ml |
 
@@ -1586,7 +1582,7 @@ I |
 
 Epinéphrine |
 
-Parentérale |
+parentérale |
 
 ampoule1 mg/1 ml |
 
@@ -1596,7 +1592,7 @@ I |
 
 Furosémide |
 
-Parentérale |
+parentérale |
 
 ampoule 20 mg/2 ml |
 
@@ -1606,7 +1602,7 @@ II |
 
 Trinitrine |
 
-Sublinguale |
+sublinguale |
 
 flacon pulvérisation
 
@@ -1618,7 +1614,7 @@ II |
 
 Isosorbide dinitrate |
 
-Orale |
+orale |
 
 comprimé 20 mg |
 
@@ -1628,7 +1624,7 @@ II |
 
 Nitrendipine |
 
-Orale |
+orale |
 
 comprimé 10 mg |
 
@@ -1660,7 +1656,7 @@ sachet 3g |
 
 |
 
-Carraghénates-Dioxyde titane-Oxyde de zinc-Lidocaîne 2 % |
+Carraghénates-Dioxyde Titane-Oxyde de zinc-Lidocaîne 2 % |
 
 rectale |
 
@@ -1690,7 +1686,7 @@ gélule 100mg |
 
 II |
 
-Oméprazole |
+Oméprazolem |
 
 orale |
 
@@ -1768,7 +1764,7 @@ Naloxone |
 
 parentérale |
 
-ampoule 0,4 mg/ ml |
+ampoule 0,4 mg/1 ml |
 
 2 |
 
@@ -1978,7 +1974,7 @@ pommade-tube 20g |
 
 10. Ophtalmologie |
 
-Acide Borique
+Acide Borique-
 
 Borate de Sodium |
 
@@ -1998,7 +1994,7 @@ pommade ophtalmique
 
 1 000 000 UI/100 g-
 
-tube de 5 g |
+tube 5 g |
 
 1 |
 
@@ -2094,7 +2090,7 @@ bouteille munie d'un robinet avec manodétenteur-débitmètre de 0 à 15 L./ min
 
 Insufflateur manuel avec réservoir à oxygène |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2102,7 +2098,7 @@ Ballon auto remplisseur à valve unidirectionnelle type Ambu ® |
 
 Masque facial pour insufflateur manuel, taille 5 (adulte) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2110,7 +2106,7 @@ usage unique |
 
 Canule oro-pharyngée taille 4 (adulte) |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2118,7 +2114,7 @@ type Guedel ® |
 
 Aspirateur de mucosité fonctionnant à pied, à main ou de façon automatique, avec tuyau d'aspiration |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2126,7 +2122,7 @@ type Ambu ® Twin Pump |
 
 Sonde d'aspiration buccale |
 
-unité |
+unité (2) |
 
 2 |
 
@@ -2134,7 +2130,7 @@ CH 26 |
 
 Masque à oxygène à haute concentration (Adulte) avec tubulure |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2232,7 +2228,7 @@ boîte de 10 |
 
 |
 
-Compresses hydrogel 40 cm × 55 cm |
+Compresses hydrogel 40 cm x 55 cm |
 
 unité |
 
@@ -2240,7 +2236,7 @@ unité |
 
 type BurnAid ® |
 
-Compresses hydrogel 20 cm × 20 cm |
+Compresses hydrogel 20 cm x 20 cm |
 
 unité |
 
@@ -2248,7 +2244,7 @@ unité |
 
 type BurnAid ® |
 
-Sutures cutanées adhésives (6 mm × 75 mm) |
+Sutures cutanées adhésives (6 mm x 75 mm) |
 
 pochette
 
@@ -2312,7 +2308,7 @@ usage unique |
 
 Pince hémostatique à griffes |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2326,7 +2322,7 @@ Set Hémorragie comprenant :
 
 -Bande granulés hémostatiques |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2338,7 +2334,7 @@ bande type Chito-SAM ® |
 
 Tensiomètre |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2346,7 +2342,7 @@ automatique à brassard huméral |
 
 Oxymètre de pouls |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2394,7 +2390,7 @@ unité |
 
 5. Matériel d'injection, de perfusion, de ponction et de sondage |
 
-Aiguille à injection sous-cutannée stérile (25 G-0,5 × 16) |
+Aiguille à injection sous-cutannée stérile (25 G-0,5 x 16) |
 
 unité |
 
@@ -2402,7 +2398,7 @@ unité |
 
 usage unique |
 
-Aiguille à injection intra-musculaire stérile (21 G-0,8 × 40) |
+Aiguille à injection intra-musculaire stérile (21 G-0,8 x 40) |
 
 unité |
 
@@ -2410,7 +2406,7 @@ unité |
 
 usage unique |
 
-Aiguille à injection stérile (19 G-1,1 × 40) : trocart |
+Aiguille à injection stérile (19 G-1,1 x 40) : trocart |
 
 unité |
 
@@ -2446,7 +2442,7 @@ usage unique |
 
 Sac d'intervention |
 
-unité |
+unité (2) |
 
 1 |
 
@@ -2570,7 +2566,7 @@ type Vidal de la famille-Guide de l'automédication |
 
 Fiche d'observation médicale |
 
-unité |
+unité (2) |
 
 5 |
 
@@ -2584,7 +2580,7 @@ unité |
 
 |
 
-9. Trousse des premiers secours |
+9. Trousse des premiers secours (4) |
 
 Compresses de gaze stériles |
 
@@ -2652,7 +2648,7 @@ taille M et L |
 
 10. Désinfection-Désinsectisation-Protection |
 
-Comprimés chlorés pour stérilisation de l'eau |
+Comprimés chlorés pour stérilisation de l'eau (5) |
 
 |
 
@@ -2675,7 +2671,3 @@ litre |
 1 |
 
 type Anios ® |
-
-.
-
-A la suite d'une contamination avérée du réseau d'eau potable du navire par un micro-organisme, il est nécessaire de procéder à un nettoyage mécanique des caisses à eau, puis à une sur-chloration. A la suite de cette sur-chloration, l'eau doit être brassée pendant au moins deux heures puis évacuée de la caisse à eau polluée. Pour mémoire, un litre d'eau de javel concentrée à 9 % contient 100 gr de chlore et permet d'obtenir une chloration à environ 5 mgr/l d'une caisse à eau d'une contenance de 20 m³.
