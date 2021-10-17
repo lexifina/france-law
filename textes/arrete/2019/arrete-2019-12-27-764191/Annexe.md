@@ -14,7 +14,9 @@ Bordeaux |
 
 Bayonne |
 
-Toulouse |
+Cayenne |
+
+(néant) |
 
 Dijon |
 
@@ -25,8 +27,6 @@ Fort-de-France |
 Saint-Martin |
 
 Pointe-à-Pitre |
-
-Cayenne |
 
 Lille |
 
@@ -41,6 +41,8 @@ Marseille |
 Montpellier |
 
 Perpignan |
+
+Toulouse
 
 |
 
@@ -69,7 +71,3 @@ Mulhouse |
 Versailles |
 
 (néant) |
-
-NOTA :
-
-Conformément à l'article 3 de l'arrêté du 30 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
