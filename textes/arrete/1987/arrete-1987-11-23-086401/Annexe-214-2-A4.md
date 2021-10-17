@@ -34,7 +34,7 @@ Art. 11-Les agents de la santé pourront, avant les opérations, exiger de l'ent
 
 Art. 12-Une fois les opérations terminées, les locaux traités seront aérés mécaniquement.L'aération naturelle prolongée pourra être autorisée pour les navires désarmés.
 
-Dès que les agents de l'entrepreneur auront reconnu que l'aération est suffisante ils descendront dans les cales et autres locaux et s'assureront qu'ils n'existe plus aucun danger en introduisant des animaux sensibles au gaz. Le libre pratique ne sera donnée par les agents de la santé que si ces animaux, après trente minutes de séjour, ont été remontés sains et saufs. Il pourra être fait usage de tous produits détecteurs et, s'il y a lieu, de produits neutralisants.
+Dès que les agents de l'entrepreneur auront reconnu que l'aération est suffisante ils descendront dans les cales et autres locaux et s'assureront qu'il n'existe plus aucun danger en introduisant des animaux sensibles au gaz. Le libre pratique ne sera donnée par les agents de la santé que si ces animaux, après trente minutes de séjour, ont été remontés sains et saufs. Il pourra être fait usage de tous produits détecteurs et, s'il y a lieu, de produits neutralisants.
 
 Art. 13-Toute négligence ou faute lourde de la part de l'opérateur entraînera le retrait temporaire ou définitif de l'autorisation ministérielle accordée à la société, sans préjudice de poursuites pénales éventuelles.
 
@@ -42,7 +42,7 @@ La société est responsable civilement des dommages causés par une imprudence 
 
 Art. 14-Les procédés de dératisation par l'acide cyanhydrique comprendront toujours un gaz détecteur.
 
-Art. 15-Quel que soit le gaz toxique utilisé, les objets de literies ou de couchages devront être exposés à l'air pendant six heures et battus à plusieurs reprises.L'équipage ne couchera dans les postes traités que vingt quatre heures après le début des opérations.
+Art. 15-Quel que soit le gaz toxique utilisé, les objets de literies ou de couchages devront être exposés à l'air pendant six heures et battus à plusieurs reprises.L'équipage ne couchera dans les postes traités que vingt-quatre heures après le début des opérations.
 
 Art. 16-Chaque opération sera notée sur un registre dont les feuillets seront paraphés avec la mention de toutes les particularités utiles (nom du navire, tonnage, nom du capitaine, noms de l'entreprise, de l'opérateur et des aides, cubages traités, doses horaires de l'opération, résultats, etc.)
 

@@ -33,3 +33,7 @@ CMU ≥ 50 t
 1,1 CMU
 
 |
+
+CMU variable suivant la portée |
+
+Plusieurs essais à effectuer en fonction du couple |
