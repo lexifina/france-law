@@ -1,3 +1,115 @@
 # Article Annexe III
 
-Le présent arrêté et ses annexes I, II, III, IV et V seront consultables en ligne au Bulletin officiel du ministère de l'éducation nationale en date du 7 avril 2016 sur le site http://www.education.gouv.fr. Le présent arrêté et ses annexes I, II, III, IV et V sont diffusés en ligne à l'adresse suivante : http://www.adressrlr.cndp.fr.
+DÉFINITION DE L'ÉPREUVE OU DE LA SOUS-ÉPREUVE DE PHYSIQUE-CHIMIE AU BREVET PROFESSIONNEL
+
+Objectifs de l'épreuve
+
+L'épreuve de physique-chimie a pour objectif d'évaluer le niveau de maîtrise des compétences terminales telles que définies dans le programme des formations préparant au brevet professionnel, notamment :
+
+-s'approprier : rechercher, extraire et organiser l'information ;
+
+-analyser/ raisonner : formuler des hypothèses. Proposer, choisir une méthode de résolution ou un protocole expérimental ;
+
+-réaliser : mettre en œuvre une méthode de résolution, un protocole expérimental. Utiliser un modèle, représenter, calculer, effectuer une simulation ;
+
+-valider : commenter un résultat, argumenter. Contrôler la vraisemblance d'une hypothèse, de la valeur d'une mesure ;
+
+-communiquer : rendre compte d'une démarche, d'un résultat, à l'oral ou à l'écrit à l'aide d'outils et d'un langage appropriés. Expliquer une démarche.
+
+Critères d'évaluation
+
+L'évaluation porte notamment sur :
+
+-la capacité du candidat à résoudre des problèmes en lien avec le domaine professionnel de la spécialité suivie ou avec la vie courante, notamment en expérimentant, éventuellement à l'aide d'outils numériques, ou en utilisant des résultats fournis, expérimentaux ou résultant de simulation ;
+
+-la qualité de la validation et de l'interprétation des résultats obtenus par le candidat ;
+
+-la qualité de la communication écrite ou orale.
+
+Modes d'évaluation
+
+1. Contrôle en cours de formation (CCF)
+
+Le contrôle en cours de formation comporte deux situations d'évaluation d'une durée maximale d'une heure chacune. Une de ces situations d'évaluation se déroule durant le deuxième semestre de la dernière année de formation. Les deux séquences ne peuvent avoir lieu durant le même semestre de la formation.
+
+Les deux situations d'évaluation sont notées sur 10 points ; une proposition de note sur 20 est établie en additionnant ces deux notes. La note définitive est délivrée par le jury.
+
+Les deux situations d'évaluation se déroulent quand le candidat est considéré comme prêt à être évalué sur les compétences terminales attendues, tenant compte de sa maîtrise des capacités et connaissances du programme. Elles s'appuient chacune sur une ou deux activités expérimentales composées d'une ou plusieurs expériences dont certaines peuvent être assistées par ordinateur.
+
+L'évaluation est conçue comme sondage probant sur des compétences du programme.
+
+Lors de cette évaluation, il est demandé au candidat :
+
+-de mettre en œuvre un protocole expérimental ;
+
+-d'utiliser correctement le matériel mis à sa disposition ;
+
+-de mettre en œuvre les procédures et consignes de sécurité adaptées ;
+
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités utilisés lors de la situation d'évaluation ;
+
+-d'estimer simplement la précision des mesures qu'il est amené à réaliser ;
+
+-d'utiliser des définitions, des lois et des modèles pour répondre aux questions posées ;
+
+-d'utiliser une ou plusieurs relations quantitatives. Ces relations sont données lorsqu'elles ne sont pas explicitement répertoriées dans la colonne connaissances du programme ;
+
+-d'interpréter et valider les résultats des travaux réalisés et d'en rendre compte, notamment par écrit.
+
+En cours de situation d'évaluation, le candidat complète une fiche où il consigne les résultats de ses observations et mesures ainsi que leur interprétation.
+
+Toutes les indications utiles ne figurant pas explicitement dans les programmes de physique-chimie des formations préparant au brevet professionnel sont fournies dans le sujet.
+
+Pour évaluer les connaissances et capacités du candidat, l'examinateur s'appuie sur une grille d'évaluation nationale.
+
+2. Epreuve ponctuelle : écrite et pratique-Durée : 1 heure
+
+Cette épreuve, d'une durée d'une heure, est notée sur 20 points. Elle repose sur un sujet élaboré au niveau national qui permet d'évaluer par sondage des compétences terminales telles que définies dans le programme.
+
+Ce sujet, à dominante expérimentale, implique la réalisation effective par le candidat d'une ou plusieurs expériences, éventuellement assistées par ordinateur. Il est conçu en référence explicite aux compétences terminales attendues.
+
+Au cours de cette épreuve, il est demandé au candidat :
+
+-de mettre en œuvre un protocole expérimental ;
+
+-d'utiliser correctement le matériel mis à sa disposition ;
+
+-de mettre en œuvre, en les justifiant, les procédures et consignes de sécurité adaptées ;
+
+-de montrer qu'il connaît le vocabulaire, les symboles, les grandeurs et les unités utilisés lors de la situation d'évaluation ;
+
+-d'utiliser des définitions, des lois et des modèles pour répondre aux questions posées ;
+
+-d'utiliser une ou plusieurs relations quantitatives. Ces relations sont données lorsqu'elles ne sont pas explicitement répertoriées dans la colonne connaissances du programme ;
+
+-d'estimer simplement la précision des mesures qu'il est amené à réaliser ;
+
+-d'interpréter et valider les résultats des travaux réalisés et d'en rendre compte, notamment par écrit.
+
+En cours d'épreuve, le candidat complète une fiche où il consigne les résultats de ses observations et mesures ainsi que leur interprétation.
+
+Toutes les indications utiles ne figurant pas dans les programmes de physique-chimie sont fournies dans l'énoncé.
+
+Pour évaluer les compétences, connaissances et capacités du candidat, l'examinateur s'appuie sur une grille d'évaluation nationale.
+
+Instructions complémentaires
+
+Le nombre de points affectés à chaque partie de l'épreuve est indiqué sur le sujet. La longueur et l'ampleur du sujet doivent permettre à tout candidat de le traiter et de le rédiger dans le temps imparti.
+
+Si des questionnaires à choix multiples (QCM) sont proposés, les modalités de notation en sont précisées. Il n'est pas enlevé de point pour les réponses fausses.
+
+La clarté des raisonnements et la qualité de la rédaction interviennent dans l'appréciation du candidat.
+
+Calculatrices et formulaires :
+
+L'emploi des calculatrices est autorisé dans les conditions prévues par la réglementation en vigueur.
+
+Remarques sur la correction et la notation :
+
+Les concepteurs de sujets veillent, dans leurs propositions, à mettre en évidence les compétences, les capacités et les connaissances évaluées.
+
+Les consignes de correction doivent permettre aux correcteurs de prendre en compte la démarche, les tentatives pertinentes, les résultats partiels et la cohérence globale des réponses dans l'appréciation du candidat.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 5 octobre 2021, ces dispositions sont applicables à compter de la session d'examen 2023.
