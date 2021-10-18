@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — INFORMATION DU CONSEIL - DEFINITION DU SEUIL RELATIF A LA PRODUCTION DE LOGEMENTS SOCIAUX ET AUX LOGEMENTS ABORDABLES A LA PROPRIETE PAR LE BAIL REEL ET SOLIDAIRE (BRS) OU LE PRIX MAITRISE POUR LES PRIMO-ACCEDANT.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-10-18
+- Séance : Conseil Municipal 1CA
+- Objet : INFORMATION DU CONSEIL - DEFINITION DU SEUIL RELATIF A LA PRODUCTION DE LOGEMENTS SOCIAUX ET AUX LOGEMENTS ABORDABLES A LA PROPRIETE PAR LE BAIL REEL ET SOLIDAIRE (BRS) OU LE PRIX MAITRISE POUR LES PRIMO-ACCEDANT.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13223-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
