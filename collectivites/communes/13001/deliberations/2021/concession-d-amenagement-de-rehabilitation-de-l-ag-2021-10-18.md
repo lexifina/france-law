@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONCESSION D'AMENAGEMENT DE REHABILITATION DE L'AGGLOMERATION AIXOISE - ADOPTION DU COMPTE RENDU FINANCIER ANNUEL ANNEE 2020 ET VERSEMENT DU SOLDE DE LA PARTICIPATION DE LA VILLE POUR L'ANNEE 2021
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-10-18
+- Séance : Conseil Municipal 1CA
+- Objet : CONCESSION D'AMENAGEMENT DE REHABILITATION DE L'AGGLOMERATION AIXOISE - ADOPTION DU COMPTE RENDU FINANCIER ANNUEL ANNEE 2020 ET VERSEMENT DU SOLDE DE LA PARTICIPATION DE LA VILLE POUR L'ANNEE 2021
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13221-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
