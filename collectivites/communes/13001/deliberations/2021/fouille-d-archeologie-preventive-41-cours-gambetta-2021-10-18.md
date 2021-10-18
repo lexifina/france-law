@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FOUILLE D'ARCHÉOLOGIE PRÉVENTIVE - 41, COURS GAMBETTA (PARCELLE BL 36) - DÉCISION DE RÉALISATION DE L'OPÉRATION PAR LA DIRECTION ARCHEOLOGIE ET MUSÉUM - AUTORISATION DE SIGNER LE CONTRAT ENTRE LA VILLE ET MONSIEUR RÉMY COURTES (SASU M2J)
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-10-18
+- Séance : Conseil Municipal 1CA
+- Objet : FOUILLE D'ARCHÉOLOGIE PRÉVENTIVE - 41, COURS GAMBETTA (PARCELLE BL 36) - DÉCISION DE RÉALISATION DE L'OPÉRATION PAR LA DIRECTION ARCHEOLOGIE ET MUSÉUM - AUTORISATION DE SIGNER LE CONTRAT ENTRE LA VILLE ET MONSIEUR RÉMY COURTES (SASU M2J)
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13245-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
