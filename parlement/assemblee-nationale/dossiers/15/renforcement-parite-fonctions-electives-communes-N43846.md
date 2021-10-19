@@ -1,0 +1,55 @@
+# Renforcement de la parité dans les fonctions électives et exécutives du bloc communal
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N43846
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/renforcement_parite_fonctions_electives_communes
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl21-451.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-10-19 : 1er dépôt d'une initiative. (PIONANR5L15B4587)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-10-19 : Renvoi en commission au fond
+      - 2022-01-12 : Nomination de rapporteur
+      - 2022-01-12 : Réunion de commission
+      - 2022-01-26 : Réunion de commission
+      - 2022-02-02 : Réunion de commission
+      - 2022-01-26 : Dépôt de rapport (RAPPANR5L15B4966, PIONANR5L15BTC4966)
+  - Discussion en séance publique
+    - 2022-02-03 : Discussion en séance publique
+    - 2022-02-03 : Discussion en séance publique
+    - 2022-02-03 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-02-03 : Dépôt d'une initiative en navette (PIONSNR5S379B0451)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-03 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2025-03-05 : Dépôt de rapport (RAPPSNR5S459B0398, PIONSNR5S459BTC0399)
+      - 2025-03-05 : Dépôt de rapport (RAPPSNR5S459B0398, PIONSNR5S459BTC0399)
+  - Discussion en séance publique
+    - 2025-03-11 : Discussion en séance publique
+    - 2025-03-11 : Décision
+- deuxième lecture
+  - 2025-03-12 : Dépôt d'une initiative en navette (PIONANR5L17B1105)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2025-03-12 : Renvoi en commission au fond
+      - 2025-03-19 : Nomination de rapporteur
+      - 2025-03-19 : Réunion de commission
+      - 2025-04-02 : Réunion de commission
+      - 2025-04-07 : Réunion de commission
+      - 2025-04-02 : Dépôt de rapport (RAPPANR5L17B1245, PIONANR5L17BTC1245)
+  - Discussion en séance publique
+    - 2025-04-07 : Discussion en séance publique
+    - 2025-04-07 : Décision
+- Conseil constitutionnel
+  - 2025-04-15 : Saisine du conseil constitutionnel
+  - 2025-04-15 : Saisine du conseil constitutionnel
+  - 2025-05-02 : Saisine du conseil constitutionnel
+  - 2025-05-15 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2025-05-21 : Promulgation d'une loi
