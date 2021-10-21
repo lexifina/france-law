@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120131
+
+- Question : [SEQ210120131](seq210120131.md) — Réglementation des bacs maritimes ou fluviaux
+
+## Réponse
+
+*Transports, JO du 2021-10-21, page 6028*
+
+Le Barcarin V est un bac amphidrome d'une jauge de 498 UMS pour 43 m de longueur et pouvant accueillir jusqu'à 196 passagers assurant la traversée du Rhône. La décision d'effectif comprenait initialement 4 marins : un commandant, un chef mécanicien et 2 matelots. Ces 2 derniers sont chargés du recouvrement des billets, mais participent également en cas de sinistre à la lutte incendie, au déploiement des moyens de sauvetage et à la gestion des passagers en situation d'urgence. Le 30 avril 2019, les services de la Direction départementale des territoires et de la mer (DDTM) des Bouches-du-Rhône ont accepté, dans le cadre de la révision du permis d'armement une modification à l'effectif minimal proposé par l'armement permettant de passer à un effectif de 3 marins (un commandant, un chef mécanicien, un matelot) lorsque la capacité à passagers est inférieure à 97 passagers, à la demande de l'entreprise. Le 22 août 2019, lors de la visite périodique de sécurité du navire, la réduction effective de l'équipage à 3 personnes a été constatée. La réalisation d'un exercice de sécurité a alors démontré que l'effectif à 3 était insuffisant pour répondre à toutes les situations d'urgence. Ce résultat a donc remis en question la possibilité d'une exploitation à trois marins. Si aucune modification de la réglementation n'est actuellement prévue pour ce qui concerne la sécurité de la navigation applicable aux bacs maritimes, l'armateur a toutefois la possibilité de demander une nouvelle visite de sécurité s'il estime que son organisation interne permet désormais de pouvoir démontrer que toutes les garanties en matière de sécurité sont réunies.
