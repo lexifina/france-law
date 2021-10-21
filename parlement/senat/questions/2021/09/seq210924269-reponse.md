@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924269
+
+- Question : [SEQ210924269](seq210924269.md) — Camping municipal
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2021-10-21, page 6012*
+
+Les terrains de camping aménagés et de caravanage sont destinés à l'accueil de tentes, de caravanes, de résidences mobiles de loisirs et d'habitations légères de loisirs. Ils font l'objet d'une exploitation permanente ou saisonnière, et accueillent une clientèle qui n'y élit pas domicile. Ils doivent disposer d'un règlement intérieur conforme à un modèle arrêté par le ministre chargé du tourisme : art. D.331-1-1 du code du tourisme. Les terrains aménagés sont classés selon deux catégories, d'une part avec la mention « tourisme », si plus de la moitié du nombre des emplacements dénommés emplacements « tourisme » est destinée à la location à la nuitée, à la semaine ou au mois pour une clientèle de passage. D'autre part, avec la mention « loisirs », si la location est supérieure au mois par une clientèle qui n'y élit pas domicile : art. D. 332-1-1 du code du tourisme. Les terrains de camping classés en catégorie « aire naturelle » sont destinés exclusivement à l'accueil de tentes, de caravanes et d'autocaravanes. Leur période d'exploitation n'excède pas six mois par an, continus ou pas. Dans l'annexe I, de l'arrêté du 17 février 2014 relatif à l'obligation pour les terrains de camping ou de caravanage ainsi que pour les parcs résidentiels de loisirs de disposer d'un règlement intérieur, il est prévu à l'article 13, qu'il ne pourra être laissé de matériel non occupé sur le terrain, qu'après accord de la direction et seulement à l'emplacement indiqué. Cette prestation peut-être payante. S'agissant de la clientèle résidentielle, en principe, l'hébergement peut rester en dehors de la date d'ouverture. Toutefois, le gestionnaire n'a pas d'obligation de garde ou d'entretien de l'hébergement pendant cette période, sauf accord écrit entre les parties.
