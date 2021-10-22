@@ -72,17 +72,13 @@ X |
 
 X |
 
-BPJEPS (*) spécialité activité du cyclisme
+BPJEPS (*) spécialité "activité du cyclisme"
 
-mention cyclisme traditionnel |
+mention "cyclisme traditionnel"
 
-X
+|
 
-(Dispense
-
-du test pédagogique
-
-uniquement) |
+X |
 
 X |
 
@@ -221,7 +217,3 @@ X |
 (*) BEES1 : brevet d'Etat d'éducateur sportif du premier degré.
 
 (*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
-
-NOTA :
-
-Conformément à l’article 8 de l’arrêté du 18 juin 2019, les dispositions s'appliquent aux sessions de formation qui seront ouvertes à compter du 23 juin 2019.
