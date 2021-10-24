@@ -1,0 +1,3 @@
+# Article 1er
+
+Conformément à l'article I.10.1.2, b, ii de la CCN, les partenaires sociaux de la branche de l'Industrie cimentière conviennent, par le présent accord de méthode, de constituer un groupe technique paritaire de réécriture conventionnelle dont l'objet est de tenir compte des observations contenues dans l'arrêté ministériel du 30 juillet 2021 portant extension de la convention collective nationale de l'industrie de la fabrication des ciments du 2 octobre 2019 (IDCC 3233) et, sur la base de cette analyse, de travailler à la rédaction d'un avenant de révision des dispositions conventionnelles concernées, qui sera ensuite soumis à la CPPNI de l'Industrie cimentière.
