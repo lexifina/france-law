@@ -70,6 +70,10 @@ Autorité des normes comptables |
 
 Présidence |
 
+Autorité de régulation de la communication audiovisuelle et numérique |
+
+Présidence |
+
 Autorité de régulation des transports |
 
 Présidence |
@@ -165,10 +169,6 @@ Présidence |
 Compagnie nationale du Rhône |
 
 Présidence du directoire |
-
-Conseil supérieur de l'audiovisuel |
-
-Présidence |
 
 Contrôleur général des lieux de privation de liberté |
 
