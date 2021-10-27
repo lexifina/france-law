@@ -256,7 +256,7 @@ Commission compétente en matière d'énergie
 
 |
 
-Présidence du Conseil supérieur de l'audiovisuel
+Présidence de l'Autorité de régulation de la communication audiovisuelle et numérique
 
 |
 

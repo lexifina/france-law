@@ -8,7 +8,7 @@ La filiale mentionnée au deuxième alinéa peut bénéficier du crédit d'impô
 
 II.-Le crédit d'impôt est égal à 15 % du montant total des dépenses suivantes exposées du 1er mars 2020 au 31 décembre 2020 en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
-1° Les dépenses exposées par les éditeurs de services de télévision ou de services de médias audiovisuels à la demande contribuant au développement de la production d'œuvres cinématographiques et audiovisuelles déclarées au Conseil supérieur de l'audiovisuel au titre des obligations prévues au 3° de l'article 27, au 6° de l'article 33 ou au 3° de l'article 33-2 de la loi n° 86-1067 du 30 septembre 1986 précitée, lorsqu'elles relèvent des catégories suivantes :
+1° Les dépenses exposées par les éditeurs de services de télévision ou de services de médias audiovisuels à la demande contribuant au développement de la production d'œuvres cinématographiques et audiovisuelles déclarées à l'Autorité de régulation de la communication audiovisuelle et numérique au titre des obligations prévues au 3° de l'article 27, au 6° de l'article 33 ou au 3° de l'article 33-2 de la loi n° 86-1067 du 30 septembre 1986 précitée, lorsqu'elles relèvent des catégories suivantes :
 
 a) Achat des droits de diffusion des œuvres ;
 
@@ -37,9 +37,3 @@ V.-Les subventions publiques non remboursables reçues par les entreprises et di
 VI.-La somme totale de crédits d'impôt accordés par entreprise ne peut excéder le montant de la diminution de chiffre d'affaires déterminée dans les conditions prévues au I.
 
 Pour la filiale mentionnée au dernier alinéa du même I, le montant de la diminution de chiffre d'affaires s'entend de la somme du montant de la diminution du chiffre d'affaires de l'éditeur qui la détient et, à proportion du pourcentage de détention, du montant de la diminution de son chiffre d'affaires.
-
-NOTA :
-
-Conformément au II de l’article 49 de la loi n° 2020-935 du 30 juillet 2020, ces dispositions entrent en vigueur à une date fixée par décret qui ne peut être postérieure de plus d'un mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.
-
-Conformément à l’article 1er du décret n° 2021-764 du 15 juin 2021 : Les dispositions du I de l'article 49 de la loi n° 2020-935 du 30 juillet 2020 de finances rectificative pour 2020 entrent en vigueur le lendemain de la publication du présent décret.
