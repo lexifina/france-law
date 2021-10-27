@@ -52,7 +52,7 @@ Directeur du service de l'énergie opérationnelle |
 
 Sans limitation |
 
-Directeur de l'exploitation et de la logistique pétrolières interarmées |
+Commandant du centre de soutien technique et administratif |
 
 Sans limitation |
 
@@ -60,15 +60,15 @@ Adjoint interarmées de soutien pétrolier |
 
 Sans limitation (3) |
 
-Directeurs des détachements du service de l'énergie opérationnelle auprès des commandements permanents interarmées hors du territoire métropolitain |
+Chefs des détachements du service de l'énergie opérationnelle auprès des commandements permanents interarmées hors du territoire métropolitain |
 
 Sans limitation (3) |
 
-Directeur du centre d'expertise pétrolière interarmées |
+Commandant du centre d'expertise technique du service de l'énergie opérationnelle |
 
 MAPA × 20 |
 
-Chef du détachement de liaison du service de l'énergie opérationnelle auprès de l'état-major de la marine |
+Officier de liaison du service de l'énergie opérationnelle auprès de l'état-major de la marine |
 
 MAPA × 7 (4) |
 
@@ -152,7 +152,7 @@ MAPA × 50 |
 
 Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand |
 
-MAPA x 50 |
+Sans limitation |
 
 Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu |
 
@@ -246,9 +246,7 @@ Service militaire volontaire |
 
 Commandant du service militaire volontaire |
 
-MAPA × 10 (10)
-
-|
+MAPA × 10 (10) |
 
 (1) L'expression MAPA x n s'entend comme suit : montant égal à n fois le seuil européen de procédure formalisée applicable aux marchés de fournitures et de services, qui ne sont pas des marchés de défense ou de sécurité, mentionné dans l'avis prévu par l'article L. 2123-1 du code de la commande publique (annexe n° 2 du code de la commande publique) et en dessous duquel les marchés publics et les accords-cadres peuvent être passés selon la procédure adaptée. Ce seuil est retenu pour la définition du seuil maximal de la délégation accordée pour tous les marchés du ministère, quels que soient l'identité du pouvoir adjudicateur, le type et l'objet du marché.
 

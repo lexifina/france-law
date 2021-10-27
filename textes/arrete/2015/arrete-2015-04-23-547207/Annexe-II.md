@@ -104,7 +104,7 @@ Directeur du service de l'énergie opérationnelle |
 
 P. 901 |
 
-Directeur de l'exploitation et de la logistique pétrolière interarmées |
+Commandant du centre de soutien technique et administratif |
 
 P. 144, P. 167, P. 178, P. 212, P. 901 |
 
