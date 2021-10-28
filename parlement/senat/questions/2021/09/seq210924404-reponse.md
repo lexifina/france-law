@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924404
+
+- Question : [SEQ210924404](seq210924404.md) — Liberté de la presse en Ukraine
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-10-28, page 6125*
+
+En février 2021, trois chaînes télévisées liées à M. Medvetchouk ont été fermées sur le fondement de la législation ukrainienne. Ces chaînes sont accusées de violer les restrictions économiques imposées, depuis mars 2017, par le gouvernement ukrainien, sur le commerce avec les territoires de Donetsk et de Louhansk qui échappent à son contrôle. M. Medvedtchouk, député du parti d'opposition Plateforme d'opposition - Pour la vie, fait l'objet de poursuites judiciaires sur lesquelles il n'appartient pas au ministère de l'Europe et des affaires étrangères de se prononcer. Le traitement de son cas, comme celui de tout justiciable ukrainien, doit s'effectuer dans le respect des procédures prévues par la Constitution et la législation ukrainiennes, et en conformité avec les obligations et normes internationales. La France et l'Union européenne (UE) ont rappelé au gouvernement ukrainien l'importance particulière qu'elles attachent au respect de la liberté de la presse. Les efforts de l'Ukraine pour protéger sa sécurité nationale et lutter contre la manipulation d'informations n'en restent pas moins légitimes, compte tenu de l'ampleur des campagnes de désinformation l'affectant. Les réformes conduites depuis plusieurs années en Ukraine, prévues notamment dans le cadre de l'accord d'association avec l'UE, ont permis de rapprocher le pays des standards européens en matière de liberté des médias. Malgré les faiblesses structurelles de l'environnement médiatique ukrainien, les évaluations menées par l'OSCE et l'UE confirment que le pluralisme y est globalement garanti. La France et l'UE continueront de travailler avec les autorités ukrainiennes en faveur de la liberté de la presse et de la liberté d'expression.
