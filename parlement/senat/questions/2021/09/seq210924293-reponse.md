@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924293
+
+- Question : [SEQ210924293](seq210924293.md) — Droit à l'erreur en matière d'aides relevant de la politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2021-10-28, page 6108*
+
+Le ministre de l'agriculture et de l'alimentation a fait de la reconnaissance du droit à l'erreur l'une de ses priorités dans la négociation des prochains règlements de la politique agricole commune. En ce sens, il a obtenu que cette reconnaissance soit intégrée dans le futur règlement dit « horizontal » applicable à compter du 1er janvier 2023. L'article 57 (3), paragraphe 3a du texte d'accord entre le Conseil européen, la Commission européenne et le Parlement européen prévoit que « les États membres peuvent inclure, dans leur système de gestion et de contrôle, la possibilité que les demandes d'aides et de droits à paiement puissent être corrigées après soumission, sans que cela n'impacte le droit à recevoir l'aide, pourvu que les éléments ou les omissions à corriger soient jugés de bonne foi par les autorités compétentes ; et que la correction soit faite avant que le demandeur soit informé de sa sélection pour un contrôle sur place ou que l'autorité compétente ait pris une décision au regard de la demande d'aide ». Cette disposition fera l'objet d'une déclinaison par les services du ministère de l'agriculture et de l'alimentation. Par ailleurs, il convient de noter que la mise en œuvre du système de suivi des surfaces (area monitoring system en anglais) va conduire à la mise en œuvre d'une relation plus interactive entre l'administration et les demandeurs d'aide, permettant à ces derniers de corriger sans pénalité, le cas échéant, leur déclaration sur la base d'alertes émises à partir de traitements par intelligence artificielle des images satellitaires. Cette évolution permettra également de limiter le nombre d'exploitants concernés par des sanctions financières.
