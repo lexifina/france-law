@@ -105,3 +105,19 @@ Autres emplois de chefs de service :
 Chef pôle pilotage opérationnel service garde-côtes Antilles Guyane |
 
 10 ans |
+
+Direction générale de l'Institut national de la statistique et des études économiques |
+
+Emploi de secrétaire général, de directeur ;
+
+Emploi de chef de département, de chef d'unité, d'adjoint à un chef de département et de chef de division |
+
+6 ans |
+
+Directions régionales de l'Institut national de la statistique et des études économiques |
+
+Emploi de directeur interrégional et de directeur régional ;
+
+Emploi de directeur adjoint et de chef de service |
+
+6 ans |
