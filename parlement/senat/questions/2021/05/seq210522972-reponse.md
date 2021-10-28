@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522972
+
+- Question : [SEQ210522972](seq210522972.md) — Cession de parts et exonération d'impôts
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-10-28, page 6116*
+
+Les plus-values professionnelles réalisées à l'occasion de cession d'entreprise lors du départ à la retraite du cédant peuvent, par dérogation, bénéficier d'un dispositif d'exonération prévu à l'article 151 septies A du code général des impôts (CGI). Parmi les conditions d'application de ce dispositif, le cédant doit notamment cesser toute fonction dans l'entreprise cédée et faire valoir ses droits à la retraite dans les deux années suivant ou précédant la cession. Du fait des conséquences économiques de la crise sanitaire, certains entrepreneurs ayant déjà fait valoir leurs droits à la retraite peuvent rencontrer des difficultés pour céder leur entreprise dans le délai prévu et risquent ainsi, de ce seul fait, de perdre le bénéfice de ce dispositif. Le Président de la République a annoncé, le 16 septembre 2021, la mise en œuvre d'un Plan Indépendants pour un environnement juste, simple et protecteur des travailleurs indépendants. Dans ce cadre, le Gouvernement propose l'allongement de 24 à 36 mois du délai prévu à l'article 151 septies A du CGI pour les entrepreneurs ayant fait valoir leurs droits à la retraite entre le 1er janvier 2019 et le 31 décembre 2021 préalablement à la cession de leur entreprise, permettant à ceux-ci de bénéficier d'un régime fiscal avantageux tout en favorisant la transmission des entreprises dans les meilleures conditions. Un dispositif d'allongement identique est également proposé pour les plus-values de cessions de titres d'entreprises éligibles à l'abattement prévu par l'article 150-0 D ter du CGI. Ces deux mesures sont discutées au Parlement dans le cadre du projet de loi de finances pour 2022.
