@@ -20,6 +20,12 @@ Belley |
 
 01 |
 
+2 |
+
+Bourg-en-Bresse |
+
+01 |
+
 3 |
 
 Gex |
@@ -47,6 +53,12 @@ Laon |
 3 |
 
 Saint-Quentin |
+
+02 |
+
+4 |
+
+Soissons |
 
 03 |
 
@@ -191,6 +203,12 @@ Rodez |
 1 |
 
 Millau |
+
+12 |
+
+3 |
+
+Villefranche-de-Rouergue |
 
 15 |
 
@@ -347,6 +365,18 @@ Périgueux |
 2 |
 
 Nontron |
+
+25 |
+
+3 |
+
+Pontarlier |
+
+25 |
+
+1 |
+
+Besançon |
 
 26 |
 
@@ -516,6 +546,12 @@ Blanc (Le) |
 
 Chinon |
 
+37 |
+
+2 |
+
+Tours |
+
 38 |
 
 3 |
@@ -527,6 +563,18 @@ Vienne |
 1 |
 
 Grenoble |
+
+38 |
+
+2 |
+
+Tour-du-Pin (La) |
+
+39 |
+
+1 |
+
+Dole |
 
 39 |
 
@@ -552,6 +600,18 @@ Dax |
 
 Romorantin-Lanthenay |
 
+41 |
+
+2 |
+
+Vendôme |
+
+42 |
+
+1 |
+
+Montbrison |
+
 42 |
 
 2 |
@@ -569,6 +629,18 @@ Saint-Étienne |
 1 |
 
 Brioude |
+
+43 |
+
+2 |
+
+Puy-en-Velay (Le) |
+
+43 |
+
+3 |
+
+Yssingeaux |
 
 45 |
 
@@ -672,11 +744,53 @@ Sainte-Menehould |
 
 Châlons-en-Champagne |
 
+52 |
+
+1 |
+
+Chaumont |
+
+52 |
+
+2 |
+
+Langres |
+
 55 |
 
 1 |
 
 Bar-le-Duc |
+
+55 |
+
+2 |
+
+Commercy |
+
+55 |
+
+3 |
+
+Verdun |
+
+57 |
+
+1 |
+
+Forbach |
+
+57 |
+
+2 |
+
+Sarrebourg |
+
+57 |
+
+6 |
+
+Sarreguemines |
 
 57 |
 
@@ -824,9 +938,27 @@ Céret |
 
 67 |
 
+2 |
+
+Haguenau |
+
+67 |
+
+4 |
+
+Saverne |
+
+67 |
+
 5 |
 
 Sélestat-Erstein |
+
+68 |
+
+1 |
+
+Altkirch |
 
 68 |
 
@@ -851,6 +983,12 @@ Guebwiller |
 5 |
 
 Ribeauvillé |
+
+69 |
+
+1 |
+
+Lyon |
 
 69 |
 
@@ -890,9 +1028,39 @@ Albertville |
 
 73 |
 
+2 |
+
+Chambéry |
+
+73 |
+
 3 |
 
 Saint-Jean-de-Maurienne |
+
+74 |
+
+1 |
+
+Annecy |
+
+74 |
+
+2 |
+
+Bonneville |
+
+74 |
+
+3 |
+
+Saint-Julien-en-Genevois |
+
+74 |
+
+4 |
+
+Thonon-les-Bains |
 
 77 |
 
@@ -936,6 +1104,12 @@ Rambouillet |
 
 Saint-Germain-en-Laye |
 
+79 |
+
+1 |
+
+Bressuire |
+
 80 |
 
 2 |
@@ -978,6 +1152,12 @@ Montauban |
 
 Draguignan |
 
+85 |
+
+1 |
+
+Fontenay-le-Comte |
+
 86 |
 
 1 |
@@ -1007,6 +1187,12 @@ Bellac |
 2 |
 
 Limoges |
+
+88 |
+
+1 |
+
+Épinal |
 
 88 |
 
@@ -1267,6 +1453,12 @@ Bergerac |
 2 |
 
 Nontron |
+
+24 |
+
+3 |
+
+Périgueux |
 
 24 |
 
@@ -1598,6 +1790,12 @@ Oloron-Sainte-Marie |
 
 Pau |
 
+65 |
+
+3 |
+
+Tarbes |
+
 66 |
 
 3 |
@@ -1693,6 +1891,12 @@ Bressuire |
 2 |
 
 Niort |
+
+79 |
+
+3 |
+
+Parthenay |
 
 81 |
 
