@@ -214,11 +214,19 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur). |
+Brevet militaire de pilote d'avion 1er degré (BMPA 1) et brevet militaire de pilote d'hélicoptère 1er degré (BMPH 1) (*). |
 
-8 |
+6 |
 
 3 |
+
+Brevet militaire de pilote d'avion 2e degré (BMPA 2) et brevet militaire de pilote d'hélicoptère 2e degré (BMPH 2) (*).
+
+|
+
+5 |
+
+3,5 |
 
 Brevet de pilote à distance Drones Ab initio. |
 
@@ -315,6 +323,22 @@ Formation LRE Drones (Launch and Recovery Element). |
 2 |
 
 2 |
+
+(*) Les militaires soumis, à la date du 1er novembre 2021, en application d'un précédent arrêté fixant la liste des formations spécialisées et la durée du lien au service qui leur est attachée, à un lien au service au titre de la formation " brevet du personnel navigant air du 2e degré (BPN Air) (pilote ou navigateur) " peuvent opter pour l'application des dispositions du présent arrêté pour la détermination de l'obligation de lien au service dont ils restent redevables. Ils exercent ce droit d'option dans les conditions suivantes :
+
+1° Les élèves-pilotes d'avion peuvent opter pour l'application du lien au service attaché à la formation " brevet militaire de pilote d'avion 1er degré (BMPA 1) " ;
+
+2° Les pilotes d'avion qui ont validé le BMPA 1 et ont été admis en formation de BMPA 2 peuvent opter pour l'application du lien au service attaché à la formation " brevet militaire de pilote d'avion 2e degré (BMPA 2) " ;
+
+3° Les élèves-pilotes ou pilotes d'hélicoptère peuvent opter pour l'application du lien au service attaché à la formation " brevet militaire de pilote d'hélicoptère 1er degré (BMPH 1) " s'ils ont été admis à ou ont validé cette phase de formation ;
+
+4° Les militaires de la filière navigateur peuvent opter pour la suppression de leur lien au service.
+
+Ils formulent leur option auprès du directeur des ressources humaines de l'armée de l'air et de l'espace, par l'intermédiaire de leur commandant de formation.
+
+Ce droit d'option peut être exercé jusqu'à la fin de leur lien au service en cours au 1er novembre 2021.
+
+|
 
 5.2. Autres formations :
 
@@ -552,7 +576,7 @@ Stage industriel de qualification de type avionique Beechcraft King Air 350. |
 
 2 |
 
-Stage industriel mécanicien hélicoptère Bridge Course . |
+Stage industriel mécanicien hélicoptère " Bridge Course ". |
 
 4 |
 
