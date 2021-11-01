@@ -268,20 +268,6 @@ X |
 
 PJ |
 
-Extrait KBIS (Régistre du Commerce et des Scoiété) ou Extrait D1 (Répertoire des Métiers) de-3 mois |
-
-X |
-
-|
-
-|
-
-|
-
-X |
-
-PJ |
-
 Inscription au registre spécial des agents commerciaux (Si agent commercial) |
 
 |
@@ -380,4 +366,4 @@ X |
 
 NOTA :
 
-Conformément à l'article 12 de l'arrêté du 25 janvier 2021 (LOGL2100768A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2021.
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

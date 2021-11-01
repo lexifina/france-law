@@ -16,7 +16,7 @@ a) Eléments généraux.
 
 Le dossier comprend toutes les pièces justificatives (carte d'identité ou passeport pour les personnes physiques) à l'établissement de l'identité du demandeur.
 
-Le dossier comprend, si la demande émane d'une personne morale, l'extrait K bis (ou l'inscription au répertoire de l'INSEE ou équivalent), les nom, prénoms, nationalité et domicile de chacun des administrateurs et des membres du personnel de direction, les règles d'assistance aux services opérationnels et les critères d'embauche ou d'affectation des agents.
+Le dossier comprend, si la demande émane d'une personne morale, le numéro unique d'identification, les nom, prénoms, nationalité et domicile de chacun des administrateurs et des membres du personnel de direction, les règles d'assistance aux services opérationnels et les critères d'embauche ou d'affectation des agents.
 
 Le dossier comporte l'engagement de porter sans délai à la connaissance des services du ministre chargé de la construction toute modification des renseignements figurant au dossier initial et de respecter les prescriptions de l'article R. 111-31 pendant toute la durée de l'agrément.
 
@@ -63,3 +63,7 @@ Mesures simplificatrices pour les demandes de modification et de renouvellement 
 Le demandeur ou le déclarant qui sollicite la modification ou le renouvellement de son agrément ou de sa déclaration peut présenter un dossier simplifié, se référant au dossier précédent. Ce dossier simplifié doit comprendre au moins tous les éléments nouveaux intervenus depuis l'agrément ou l'autorisation antérieur et, dans le cas d'une demande de modification, les éléments détaillés justifiant cette demande.
 
 En outre, il doit produire dans son dossier une information détaillée sur le volume et les conditions de son activité pendant la période précédente d'agrément ou de déclaration.
+
+NOTA :
+
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

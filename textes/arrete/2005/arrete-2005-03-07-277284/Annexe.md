@@ -16,9 +16,9 @@ Et :
 
 [raison sociale et identification
 
-du co-contractant, strictement conforme à l'identification Kbis pour les sociétés], dont le siège social est situé à,
+du co-contractant], dont le siège social est situé à,
 
-désigné ci-dessous comme « l'organisme », et représenté par [nom, fonction] habilité à signer la présente convention,
+désigné ci-dessous comme " l'organisme ", et représenté par [nom, fonction] habilité à signer la présente convention,
 
 ont été arrêtées les dispositions suivantes, en application des articles R. 314-4 et suivants du code de la construction et de l'habitation :
 
@@ -266,7 +266,7 @@ Pièces jointes :
 
 - statuts de l'organisme ;
 
-- extrait Kbis de son immatriculation au registre du commerce et des sociétés.
+- son numéro unique d'identification.
 
 ANNEXE CONTRACTUELLE À LA CONVENTION N° .....
 
@@ -295,3 +295,11 @@ Mode et nature du chauffage :
 Nombre par type et total des logements réservés :
 
 Par logement, les caractéristiques de l'opération sont les suivantes :
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 73 du 27/03/2005 texte numéro 8
+
+NOTA :
+
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

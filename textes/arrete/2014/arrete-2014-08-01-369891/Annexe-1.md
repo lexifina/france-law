@@ -52,7 +52,7 @@ II.-Pièces complémentaires particulières à fournir dans les cas suivants :
 
 A.-Propriétaires bailleurs ou mettant à disposition un logement (art. R. 321-12 [I, 1°]) ou organismes agréés visés au 6° de l'article R. 321-12 (art. 15-A, 15-B et 15-G du RGA) :
 
--pour les sociétés, un relevé modèle K bis récent, avec, en plus, pour toutes les sociétés civiles immobilières, une copie des statuts dans leur dernière mise à jour, ce dernier document sera exigé également pour les autres propriétaires bailleurs personnes morales ;
+-pour les sociétés, le numéro unique d'identification, avec, en plus, pour toutes les sociétés civiles immobilières, une copie des statuts dans leur dernière mise à jour, ce dernier document sera exigé également pour les autres propriétaires bailleurs personnes morales ;
 
 -la justification de la vacance du logement réhabilité (en cas de demande d'une prime pour sortie de vacance) ;
 
@@ -154,7 +154,7 @@ Dans les cas de travaux d'office réalisés sur les parties communes d'un immeub
 
 H.-Cas des dossiers présentés par les organismes définis aux 10° et 11° du I de l'article R. 321-12 et des articles 15-I et 15-J du RGA :
 
-Pour les sociétés, un relevé modèle K bis récent avec, en plus, pour toutes les sociétés civiles immobilières, une copie des statuts dans leur dernière mise à jour, ce dernier document sera exigé également pour les associations et autres propriétaires bailleurs personnes morales :
+Pour les sociétés, le numéro unique d'identification avec, en plus, pour toutes les sociétés civiles immobilières, une copie des statuts dans leur dernière mise à jour, ce dernier document sera exigé également pour les associations et autres propriétaires bailleurs personnes morales :
 
 -le cas échéant, une copie du plan de sauvegarde ou une copie du document visé au 10° du I du R. 321-12 du CCH ;
 
@@ -222,7 +222,7 @@ B.-Pièces complémentaires particulières à fournir dans les cas suivants :
 
 a) Propriétaires bailleurs ou mettant gratuitement à disposition un logement (art. R. 321-12 [I, 1°]) ou organismes agréés visés au 6° de l'article R. 321-12 :
 
--tout document complémentaire qui serait demandé par la décision d'attribution de subvention, notamment lorsqu'une convention d'opération importante de réhabilitation a été signée avec le bénéficiaire, ou, le cas échéant, un relevé modèle K bis datant de moins de deux mois pour certaines sociétés ;
+-tout document complémentaire qui serait demandé par la décision d'attribution de subvention, notamment lorsqu'une convention d'opération importante de réhabilitation a été signée avec le bénéficiaire, ou, le cas échéant, le numéro unique d'identification ;
 
 -le cas échéant, la convention de réservation visée au III de l'article 7-A, signée par les deux parties ;
 
@@ -242,4 +242,4 @@ b) Pour les bénéficiaires visés au II de l'article R. 321-12 (travaux réalis
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

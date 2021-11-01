@@ -100,7 +100,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
-2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois, sur lequel est identifié l'établissement correspondant au centre de contrôle ;
+2. Le numéro unique d'identification permettant de s'assurer que la fiche de renseignements identifie l'établissement correspondant au centre de contrôle ;
 
 3. Une attestation de l'affiliation à un réseau de contrôle agréé, suivant le modèle de l'appendice 5 de la présente annexe ;
 
@@ -166,7 +166,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête ;
 
-2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois, sur lequel est identifié l'établissement correspondant au centre de contrôle ;
+2. Le numéro unique d'identification permettant de s'assurer que la fiche de renseignements identifie l'établissement correspondant au centre de contrôle ;
 
 3. Un rapport d'audit initial favorable établi par un organisme agréé ;
 
@@ -549,3 +549,7 @@ Nom du réseau :
 Représentant du réseau (nom, prénom et qualité) :
 
 Date : Cachet et signature :
+
+NOTA :
+
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

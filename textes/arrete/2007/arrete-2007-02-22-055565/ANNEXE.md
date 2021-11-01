@@ -10,8 +10,6 @@ Les entreprises de nationalité étrangère, dans les cas où certaines informat
 
 1.1. Légalité de l'existence
 
-Extrait KBIS ou inscription à la chambre de métiers ou à la chambre d'agriculture.
-
 Immatriculation INSEE (SIREN, SIRET et NAF).
 
 Copie des statuts comportant les dernières mises à jour.
@@ -178,4 +176,4 @@ L'entreprise doit fournir à l'organisme certificateur ses instructions écrites
 
 NOTA :
 
-.-Il va de soi que ces exigences ne seront applicables que pour les dispositions en vigueur. Ainsi, à ce stade, seul le respect des dispositions relatives au contenu de la formation définies par les accords de branche mentionnés à l'article R. 231-59-2, soit par l'arrêté pris pour son application, c'est-à-dire, à ce jour, l'arrêté du 25 avril 2005 susvisé, pourra être exigé pour la certification. Au fur et à mesure de la publication des autres arrêtés, ces exigences seront étendues.
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

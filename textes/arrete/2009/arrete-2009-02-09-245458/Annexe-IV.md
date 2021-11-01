@@ -26,9 +26,9 @@ La carte de séjour temporaire, la carte de résident, le certificat de résiden
 
 b) Immatriculation au nom d'une personne morale :
 
-Personne morale de type industriel, commercial ou civil : il doit être présenté un extrait K bis du registre du commerce et des sociétés établi depuis moins de deux ans ou un journal d'annonces légales datant de moins de deux ans, à condition qu'y apparaissent le nom du responsable, l'objet social, l'adresse et le numéro d'enregistrement au registre du commerce et des sociétés.
+Personne morale de type industriel, commercial ou civil : il doit être communiqué le numéro unique d'identification ou un journal d'annonces légales datant de moins de deux ans, à condition qu'y apparaissent le nom du responsable, l'objet social, l'adresse et le numéro d'enregistrement au registre du commerce et des sociétés.
 
-Pour l'immatriculation des véhicules au nom des sociétés en cours de constitution, il y a lieu d'admettre soit un extrait K bis, soit un certificat attestant l'immatriculation au registre du commerce et des sociétés mentionnant que ladite société est en attente de son numéro d'identification INSEE.
+Pour l'immatriculation des véhicules au nom des sociétés en cours de constitution, il y a lieu d'admettre soit la communication du numéro unique d'identification, soit un certificat attestant l'immatriculation au registre du commerce et des sociétés mentionnant que ladite société est en attente de son numéro d'identification INSEE.
 
 Personne jouissant de la personnalité morale (associations, syndicats, sociétés civiles professionnelles) : il doit être présenté les statuts ou toutes autres pièces justificatives de leur existence légale de la personne faisant apparaître le nom du responsable et l'adresse de l'organisme ainsi que la preuve qu'elles ont été déclarées auprès d'une préfecture ou sous-préfecture ou reconnues par une administration, une juridiction ou un organisme professionnel.
 
@@ -46,7 +46,7 @@ Le procès-verbal de la délibération de l'assemblée générale ou du syndicat
 
 e) Immatriculation au nom d'une entreprise individuelle :
 
-Un extrait K bis du registre du commerce et des sociétés ou la carte d'identification d'entreprise délivrée par la chambre des métiers ;
+Le numéro unique d'identification ou la carte d'identification d'entreprise délivrée par la chambre des métiers ;
 
 Une justification de l'adresse où est exercée l'activité commerciale.
 
@@ -70,7 +70,7 @@ Une attestation établissant leur lien avec l'organisme d'accueil figurant sur u
 
 Le demandeur, personne morale, peut justifier de son adresse par tout moyen, notamment :
 
-Pour une personne morale de type industriel, commercial ou civil : par un extrait K bis du registre du commerce et des sociétés établi depuis moins de deux ans ou un journal d'annonces légales datant de moins de deux ans, à condition qu'y apparaissent le nom du responsable, l'objet social, l'adresse et le numéro d'enregistrement au registre du commerce et des sociétés.
+Pour une personne morale de type industriel, commercial ou civil : par le numéro unique d'identification ou un journal d'annonces légales datant de moins de deux ans, à condition qu'y apparaissent le nom du responsable, l'objet social, l'adresse et le numéro d'enregistrement au registre du commerce et des sociétés.
 
 Pour une personne jouissant de la personnalité morale (associations, syndicats, sociétés civiles professionnelles) : par les statuts ou toutes autres pièces justificatives de leur existence légale de la personne faisant apparaître le nom du responsable et l'adresse de l'organisme ainsi que la preuve qu'elles ont été déclarées auprès d'une préfecture ou sous-préfecture ou reconnues par une administration, une juridiction ou un organisme professionnel.
 
@@ -78,4 +78,4 @@ Pour le cas des personnes hébergées, une attestation sur l'honneur, co-signée
 
 NOTA :
 
-L'arrêté du 23 mars 2009 art. 1 I. ― Les dispositions du décret du 9 février 2009 susvisé et de l'arrêté du 9 février 2009 susvisé relatif aux modalités d'immatriculation des véhicules entrent en vigueur le 15 avril 2009.
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

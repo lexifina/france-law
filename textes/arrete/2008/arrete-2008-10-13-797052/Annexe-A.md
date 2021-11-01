@@ -48,7 +48,7 @@ Il a une existence légale.
 
 Il fournit les documents suivants :
 
-- inscription Kbis ou inscription à la chambres des métiers ;
+- numéro unique d'identification ;
 
 - immatriculation INSEE (SIRET ou NAF) ;
 
@@ -307,3 +307,7 @@ Il décrit cette procédure par écrit.
 |
 
 Toutes les pièces doivent être rédigées en langue française.
+
+NOTA :
+
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

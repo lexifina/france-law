@@ -162,7 +162,7 @@ I. - Composition du dossier
 
 1. Une demande d'agrément sur papier à en-tête.
 
-2. Un justificatif relatif à l'immatriculation au répertoire des métiers ou au registre du commerce et des sociétés datant de moins de trois mois, sur lequel est identifié l'établissement correspondant au centre de contrôle.
+2. Le numéro unique d'identification permettant de s'assurer que la fiche de renseignements identifie l'établissement correspondant au centre de contrôle.
 
 3. La copie du certificat d'accréditation de la personne physique ou morale exploitante ou un récépissé délivré par l'organisme accréditeur tel que prévu à l'article 22 du présent arrêté attestant que le centre a déposé, en vue de son accréditation, son système qualité complet et conforme à la norme NF EN ISO/CEI 17020 : 2012.
 
@@ -664,4 +664,4 @@ Signature et cachet
 
 NOTA :
 
-Conformément à l’article 8 de l’arrêté du 19 juin 2020 (NOR : TRER2016056A), les présentes dispositions entrent en vigueur à compter du 27 août 2020.
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

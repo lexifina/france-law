@@ -8,17 +8,11 @@ Outre les exigences de la norme NF X 50-091, ou équivalente, le signe de qualit
 
 |
 
-BÂTIMENTS
+BÂTIMENTS |
 
-|
+PROCÉDÉS INDUSTRIELS |
 
-PROCÉDÉS INDUSTRIELS
-
-|
-
-TRANSPORT
-
-|
+TRANSPORT |
 
 Référents techniques.
 
@@ -84,25 +78,19 @@ Durée d'expérience requise en matière d'audit énergétique pour les référe
 
 |
 
-3 ans
-
-|
+3 ans |
 
 Durée d'expérience requise en matière d'audit énergétique pour les référents techniques disposant d'un titre ou d'un diplôme de niveau II, dans le domaine de la maîtrise de l'énergie.
 
 |
 
-4 ans
-
-|
+4 ans |
 
 Durée d'expérience requise en matière d'audit énergétique pour les référents techniques disposant d'un autre titre ou diplôme.
 
 |
 
-7 ans
-
-|
+7 ans |
 
 Les niveaux auxquels il est fait référence sont les niveaux français mentionnés au répertoire national des certifications professionnelles (RNCP).
 
@@ -148,23 +136,19 @@ Le postulant fournit une note méthodologique d'intervention ; elle s'appuie sur
 
 |
 
-Référence de prestations.
-
-|
+Référence de prestations. |
 
 Le nombre minimum de références d'audit énergétique à présenter, achevées sur les trois dernières années et attestées par les donneurs d'ordre ou maîtres d'ouvrage concernés, est fixé au nombre de 3.
 
 A l'appui de chacune de ces références, le postulant fournit les rapports d'audit énergétique correspondants. Ces rapports permettent de juger de la qualité du travail ainsi que de leur conformité à la méthodologie présentée.
 
-En particulier, chaque rapport décrit l'ensemble des étapes de l'audit dont : le contact préliminaire, la réunion de démarrage, le recueil des données, l'analyse des consommations réelles, la conduite du travail sur place (qui inclut les visites de sites), l'analyse et la réunion de clôture.
-
-|
+En particulier, chaque rapport décrit l'ensemble des étapes de l'audit dont : le contact préliminaire, la réunion de démarrage, le recueil des données, l'analyse des consommations réelles, la conduite du travail sur place (qui inclut les visites de sites), l'analyse et la réunion de clôture. |
 
 Pièces justificatives à fournir pour les critères légaux, administratifs, juridiques et financiers :
 
 1° Statuts (pour les formes juridiques autres que les professions libérales) ;
 
-2° K bis de moins de trois mois ou une attestation INSEE de moins de trois mois pour les structures qui ne sont pas des entreprises ;
+2° Numéro unique d'identification ou une attestation INSEE de moins de trois mois pour les structures qui ne sont pas des entreprises ;
 
 3° Curriculum vitae et extrait de casier judiciaire de moins de trois mois pour le (les) personne(s) ayant le pouvoir d'engager la structure postulante ;
 
@@ -195,3 +179,7 @@ Le personnel d'audit énergétique interne à l'entreprise est reconnu compéten
 2° Pour les référents techniques disposant d'un titre ou d'un diplôme de niveau II : 3 ans ;
 
 3° Pour les référents techniques disposant d'un autre titre ou diplôme : 5 ans.
+
+NOTA :
+
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.

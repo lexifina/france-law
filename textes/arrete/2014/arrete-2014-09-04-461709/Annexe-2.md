@@ -36,7 +36,7 @@ Le numéro de compte du demandeur au registre national des certificats d'économ
 
 Si le demandeur est une personne mentionnée à l'article L. 221-1 du code de l'énergie n'ayant fait l'objet d'aucune délivrance de certificats d'économies d'énergie pour des opérations engagées à partir du 1er janvier 2015, la première demande comporte :
 
-1° Une copie, datant de moins de trois mois, de l'extrait d'immatriculation au registre du commerce et des sociétés (extrait K bis) ou au répertoire des métiers ;
+1° Le numéro unique d'identification ;
 
 2° Une déclaration des volumes d'énergie mis à la consommation ou vendu sur le territoire national durant l'année civile ou les douze mois précédant la demande, ces volumes devant être supérieurs au(x) seuil(s) concerné(s) fixé(s) à l'article R. 221-3 du code de l'énergie. Cette déclaration est certifiée par un expert-comptable ou un commissaire aux comptes ou, pour les régies, par leur comptable public ;
 
@@ -46,7 +46,7 @@ Si le demandeur est une personne mentionnée à l'article L. 221-1 du code de l'
 
 Si le demandeur est un délégataire d'obligation d'économies d'énergie n'ayant fait l'objet d'aucune délivrance de certificats d'économies d'énergie pour des opérations engagées à partir du 1er janvier 2015, la première demande comporte :
 
-1° Une copie datant de moins de trois mois de l'extrait d'immatriculation au registre du commerce et des sociétés (extrait K bis) ou au répertoire des métiers ; et
+1° Le numéro unique d'identification ; et
 
 2° Les pièces archivées constitutives de la demande mentionnées à l'article 4.
 
@@ -58,7 +58,7 @@ Si le demandeur est une collectivité territoriale, un groupement de collectivit
 
 Dans le cas des associations mentionnées à l'article L. 221-7 du code de l'énergie, la première demande comporte un extrait du registre national des associations datant de moins de trois mois et mentionnant son titre, objet, adresse du siège social, durée, nature juridique de l'association, code d'objet social, numéro RNA et lorsqu'il existe numéro SIREN.
 
-Dans tous les autres cas, la première demande comporte une copie, datant de moins de trois mois, de l'extrait d'immatriculation au registre du commerce et des sociétés (extrait K bis) ou au répertoire des métiers.
+Dans tous les autres cas, la première demande comporte le numéro unique d'identification.
 
 Le demandeur tient à disposition de l'administration tout document complémentaire permettant de justifier de son appartenance aux personnes mentionnées à l'article L. 221-7 du code de l'énergie.
 
@@ -92,4 +92,8 @@ La demande comporte en complément des pièces prévues aux points 3, 4 et 5 de 
 
 2° Pour chaque membre du regroupement, les informations et justifications relatives à leur identité et à leur éligibilité définies aux points 1 et 2 de la présente annexe ; et
 
-3° L'accord signé par chaque membre du regroupement pour désigner le demandeur en tant que regroupeur.
+3° L'accord signé par chaque membre du regroupement pour désigner le demandeur en tant que regroupeur ou, pour chaque membre du regroupement, une lettre datée et signée par celui-ci, indiquant la qualité du signataire et désignant le demandeur en tant que regroupeur.
+
+NOTA :
+
+Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.
