@@ -2,68 +2,40 @@
 
 .
 
-CORPS ET GRADES
-
-|
+CORPS ET GRADES |
 
 MONTANT MENSUEL
 
-(en euros)
+(en euros) |
 
-|
+Sages-femmes des hôpitaux du second grade chargées de fonctions de direction de structures de formation en maïeutique ou coordonnateurs en maïeutique chargés de fonctions de direction de structures de formation en maïeutique |
 
-Sages-femmes des hôpitaux du second grade chargées de fonctions de direction de structures de formation en maïeutique ou coordonnateurs en maïeutique chargés de fonctions de direction de structures de formation en maïeutique
+198,19 € |
 
-|
+Coordonnateurs en maïeutique chargés de fonctions d'assistance du chef d'un pôle comportant une activité d'obstétrique |
 
-152,45
+217,69 € |
 
-|
+Coordonnateurs en maïeutique chargés de la responsabilité d'unités physiologiques |
 
-Coordonnateurs en maïeutique chargés de fonctions d'assistance du chef d'un pôle comportant une activité d'obstétrique
+217,69 € |
 
-|
+Cadres supérieurs de santé et cadres supérieurs de santé paramédicaux |
 
-167,45
+217,69 € |
 
-|
+Sages-femmes des hôpitaux du second grade chargées de fonctions de coordination ou d'enseignement |
 
-Coordonnateurs en maïeutique chargés de la responsabilité d'unités physiologiques
+118,59 € |
 
-|
+Cadres de santé et cadres de santé paramédicaux (filière infirmière, de rééducation et médico-technique) |
 
-167,45
+145,95 € |
 
-|
+Cadres socio-éducatifs |
 
-Cadres supérieurs de santé et cadres supérieurs de santé paramédicaux
+99,09 € |
 
-|
+NOTA :
 
-167,45
-
-|
-
-Sages-femmes des hôpitaux du second grade chargées de fonctions de coordination ou d'enseignement
-
-|
-
-91,22
-
-|
-
-Cadres de santé et cadres de santé paramédicaux (filières infirmière, de rééducation et médico-technique)
-
-|
-
-91,22
-
-|
-
-Cadres socio-éducatifs
-
-|
-
-76,22
-
-|
+Conformément à l'article 2 de l'arrêté du 25 octobre 2021, ces dispositions entrent en vigueur au 1er novembre 2021.
