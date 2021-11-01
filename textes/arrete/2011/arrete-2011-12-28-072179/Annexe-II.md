@@ -18,11 +18,9 @@ Identification de l'entreprise |
 
 -acte de constitution de l'entreprise ou les statuts définitifs signés, comportant la nomination du responsable légal, ou le procès-verbal de sa nomination
 
--extrait du registre du commerce et des sociétés ou du répertoire des métiers, lorsqu'il est exigé, datant de moins de trois mois
+-numéro unique d'identification délivré par l'INSEE (numéro SIREN à 9 chiffres)
 
-Nota.-pour les entreprises en cours de constitution, la production de cet extrait peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande
-
--pour une entreprise déjà immatriculée, avis de situation au répertoire Siren datant de moins de trois mois. |
+Nota.-pour les entreprises en cours de constitution, la production de ce numéro peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande |
 
 Dispositions spécifiques aux entreprises dont l'immatriculation au registre du commerce et des sociétés n'est pas requise et exerçant une activité de transport public routier de personnes :
 
@@ -32,13 +30,13 @@ Selon le cas :
 
 -régie de transport dotée de la seule autonomie financière : acte constitutif de la régie de transport, accompagné de l'acte de nomination du directeur et de la délibération créant le budget annexe
 
--artisan : extrait du répertoire des métiers (document D1) ou, à défaut, récépissé de la demande d'immatriculation à ce répertoire et, si l'artisan est également inscrit au registre du commerce et des sociétés, extrait de ce registre |
+-artisan : numéro unique d'identification délivré par l'INSEE (numéro SIREN à 9 chiffres) |
 
 Identification du-des responsable (s) légal (aux) |
 
 -copie d'une pièce d'identité en cours de validité (carte nationale d'identité, passeport ou titre de séjour) du ou des responsable (s) légal (aux)
 
--dans le cas où le responsable légal est une personne morale, Kbis de la personne morale |
+-numéro unique d'identification délivré par l'INSEE (numéro SIREN à 9 chiffres) |
 
 Identification du gestionnaire de transport titulaire de la capacité professionnelle |
 
@@ -96,11 +94,9 @@ Identification de l'entreprise |
 
 -acte de constitution de l'entreprise ou les statuts définitifs signés, comportant la nomination du responsable légal, ou le procès-verbal de sa nomination
 
--extrait du registre du commerce et des sociétés ou du répertoire des métiers, lorsqu'il est exigé, datant de moins de trois mois
+-numéro unique d'identification délivré par l'INSEE (numéro SIREN à 9 chiffres)
 
-Nota.-pour les entreprises en cours de constitution, la production de cet extrait peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande
-
--pour une entreprise déjà immatriculée, avis de situation au répertoire Siren datant de moins de trois mois. |
+Nota.-pour les entreprises en cours de constitution, la production de ce numéro peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande |
 
 A-Entreprises de taxis (utilisant un seul véhicule de 9 places maxi conducteur compris)
 
@@ -129,8 +125,6 @@ C-Régies de collectivités territoriales effectuant des transports publics (lim
 Pièces justificatives obligatoires
 
 -régie dotée de la seule autonomie financière : acte constitutif de la régie de transport, accompagné de l'acte de nomination du directeur et de la délibération créant le budget annexe
-
--extrait du répertoire Siren concernant la régie de transport de moins de trois mois
 
 -acte de nomination du responsable de la régie
 

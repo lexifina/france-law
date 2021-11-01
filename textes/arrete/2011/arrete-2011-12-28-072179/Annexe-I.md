@@ -18,11 +18,11 @@ Identification de l'entreprise |
 
 -acte de constitution de l'entreprise ou statuts définitifs signés, comportant la nomination du responsable légal, ou le procès-verbal de sa nomination
 
--extrait du registre du commerce et des sociétés ou du répertoire des métiers, lorsqu'il est exigé (ce document doit dater de moins de trois mois)
+-numéro unique d'identification délivré par l'INSEE (numéro SIREN à 9 chiffres)
 
-Nota.-pour les entreprises en cours de constitution, la production de cet extrait peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande
+Nota.-pour les entreprises en cours de constitution, la production de ce numéro peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande
 
--pour une entreprise déjà immatriculée, l'avis de situation au répertoire Siren datant de moins de trois mois |
+|
 
 Identification du responsable légal-gestionnaire de transport titulaire de la capacité professionnelle |
 
@@ -68,11 +68,9 @@ Identification de l'entreprise |
 
 -acte de constitution de l'entreprise ou les statuts définitifs signés, comportant la nomination du responsable légal ou le procès-verbal de sa nomination
 
--extrait du registre du commerce et des sociétés ou du répertoire des métiers, lorsqu'il est exigé, datant de moins de trois mois
+- numéro unique d'identification délivré par l'INSEE (numéro SIREN à 9 chiffres)
 
-Nota.-pour les entreprises en cours de constitution, la production de cet extrait peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande
-
--pour une entreprise déjà immatriculée, l'avis de situation au répertoire Siren datant de moins de trois mois
+Nota.-pour les entreprises en cours de constitution, la production de ce numéro peut être différée d'un délai maximal de trois mois à compter de la date de dépôt de la demande
 
 -en cas de domiciliation, le contrat de domiciliation |
 
@@ -89,8 +87,6 @@ Pièces justificatives obligatoires
 -copie de l'autorisation de stationnement
 
 -copie de la carte professionnelle de conducteur de taxi (si cette personne est un salarié, joindre une copie d'un bulletin de salaire ou du contrat de travail)
-
--avis de situation au répertoire Siren datant de moins de 3 mois
 
 Pièces à produire selon les cas
 
