@@ -1,0 +1,51 @@
+# Reconnaissance de la Nation et réparation des préjudices subis par les harkis, par les autres personnes rapatriées d’Algérie anciennement de statut civil de droit local et par leurs familles du fait des conditions de leur accueil sur le territoire français
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N44108
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reconnaissance_harkis
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-178.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-11-03 : 1er dépôt d'une initiative. (PRJLANR5L15B4631)
+  - 2021-11-03 : Etude d'impact (ETDIANR5L15B4631)
+  - 2021-11-03 : Avis du Conseil d'Etat (AVCEANR5L15B4631)
+  - 2021-11-03 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-03 : Renvoi en commission au fond
+      - 2021-11-03 : Nomination de rapporteur
+      - 2021-11-18 : Réunion de commission
+      - 2021-11-10 : Dépôt de rapport (RAPPANR5L15B4662, PRJLANR5L15BTC4662)
+  - Discussion en séance publique
+    - 2021-11-18 : Discussion en séance publique
+    - 2021-11-18 : Discussion en séance publique
+    - 2021-11-18 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2021-11-19 : Dépôt d'une initiative en navette (PRJLSNR5S379B0178)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-11-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-01-12 : Dépôt de rapport (RAPPSNR5S379B0340, PRJLSNR5S379BTC0341)
+  - Discussion en séance publique
+    - 2022-01-25 : Décision
+- Commission Mixte Paritaire
+  - 2022-01-26 : Dépôt d'un projet de loi (PRJLANR5L15B4971)
+  - 2022-01-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-02-01 : Nomination de rapporteur
+    - 2022-02-01 : Dépôt du rapport d'une CMP (RAPPANR5L15B4981, PRJLANR5L15BTC4981)
+    - 2022-02-01 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0427, PRJLSNR5S379BTC0428)
+  - Discussion en séance publique
+    - 2022-02-09 : Discussion en séance publique
+    - 2022-02-09 : Discussion en séance publique
+    - 2022-02-09 : Décision
+  - Discussion en séance publique
+    - 2022-02-15 : Discussion en séance publique
+    - 2022-02-15 : Décision
+  - 2022-02-01 : Décision de la CMP
+- Promulgation de la loi
+  - 2022-02-23 : Promulgation d'une loi
