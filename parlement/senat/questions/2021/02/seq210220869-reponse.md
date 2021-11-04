@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220869
+
+- Question : [SEQ210220869](seq210220869.md) — Soutien à la filière « pommes de terre » dans sa sortie progressive du plastique
+
+## Réponse
+
+*Transition écologique, JO du 2021-11-04, page 6225*
+
+La loi du 10 février 2020 prévoit que les fruits et légumes lorsqu'ils sont proposés à la vente ne peuvent être exposés à la vente dans des conditionnements en plastique, dès lors que la masse des fruits et légumes conditionnés ne dépasse pas 1,5 kg. La volonté du législateur a été de n'accorder d'exception à cette interdiction que dans les cas où il existe un risque de détérioration des produits lorsqu'ils sont vendus en vrac. Il est en effet urgent de réduire la part des emballages en plastique à usage unique qui constituent à la fois la majorité des quantités de plastique mises sur le marché et qui contribuent, malgré les efforts collectifs mis en œuvre pour leur collecte et leur recyclage, à la pollution de notre environnement. Un projet de décret définissant la liste des fruits et des légumes présentant un risque de détérioration lors de leur vente en vrac et qui seront exemptés de l'obligation posée par la loi a été élaboré après avoir entendu les différents acteurs du secteur des fruits et légumes. Ce projet de décret a été soumis à la consultation du public jusqu'au 30 mars dernier. Les discussions se sont ensuite poursuivies les acteurs concernés afin qu'ils s'approprient pleinement cette réforme des emballages que la loi a voulu exemplaire. Le décret a été publié le 12 octobre (décret 2021-1318). Il prévoit des délais d'entrée en vigueur progressifs entre 2022 et 2026 afin de permettre aux acteurs économiques de mettre en place des solutions alternatives au plastique. Nombre de producteurs ou de distributeurs de fruits et légumes ont d'ailleurs pris la mesure de la nécessité d'abandonner le plastique et se sont déjà tournés vers des emballages en carton ou en bois léger.
