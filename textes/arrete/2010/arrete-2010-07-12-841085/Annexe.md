@@ -8,6 +8,8 @@ Saint-Denis de La Réunion-Guangzhou (Chine).
 
 Jusqu'au 31 octobre 2022 :
 
+Saint-Denis de La Réunion-Chennai (Inde), ainsi que les liaisons entre Saint-Denis de La Réunion et Dehli, Kochi et Bombay (Inde) via Chennai en partage de code avec une compagnie indienne.
+
 Saint-Denis de La Réunion-Bangkok (Thaïlande) ;
 
 Saint-Denis de La Réunion-Johannesburg (Afrique du Sud) ;
@@ -63,3 +65,7 @@ Dzaoudzi-Moroni (Comores) ;
 Saint-Denis de La Réunion-Tamatave (Madagascar) ;
 
 Saint-Denis de La Réunion-Tananarive (Madagascar).
+
+Jusqu'au 31 octobre 2026 :
+
+Liaisons entre la France métropolitaine et le Royaume Uni dans le cadre d'une opération de partage de codes avec une compagnie disposant des autorisations nécessaires.
