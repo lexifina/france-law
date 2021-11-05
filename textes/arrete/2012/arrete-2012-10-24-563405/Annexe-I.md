@@ -36,6 +36,8 @@ France métropolitaine-Moldavie ;
 
 France métropolitaine-Monténégro ;
 
+France métropolitaine-Royaume-Uni ;
+
 France métropolitaine-Serbie.
 
 3. Liaisons internationales extracommunautaires :
@@ -302,6 +304,10 @@ Gabon :
 
 Paris-Libreville ;
 
+Gambie :
+
+Paris-Banjul
+
 Ghana :
 
 Paris-Accra ;
@@ -348,7 +354,7 @@ Paris-Delhi ;
 
 Paris-Hyderhabad ;
 
-Paris-Madras ;
+Paris-Chennai ;
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie indienne entre un point du territoire français et un point du territoire d'Inde situé au-delà d'un des points du territoire indien mentionnés ci-dessus.
 
