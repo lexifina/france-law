@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FINANCEMENT ACTION PUBLIQUE - DOTATION DE SOUTIEN A L'INVESTISSEMENT LOCAL (DSIL) - RÉNOVATION DU PATRIMOINE SCOLAIRE PAR L'INSTALLATION DE VOLETS ROULANTS ET LE REMPLACEMENT DES MENUISERIES EXTÉRIEURES
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-11-06
+- Séance : Conseil Municipal 1CA
+- Objet : FINANCEMENT ACTION PUBLIQUE - DOTATION DE SOUTIEN A L'INVESTISSEMENT LOCAL (DSIL) - RÉNOVATION DU PATRIMOINE SCOLAIRE PAR L'INSTALLATION DE VOLETS ROULANTS ET LE REMPLACEMENT DES MENUISERIES EXTÉRIEURES
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12976-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
