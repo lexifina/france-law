@@ -232,6 +232,46 @@ Autorisation d'un architecte non ressortissant d'un Etat membre de l'Union europ
 
 Article 16. |
 
+Décret n° 2017-432 du 28 mars 2017 relatif aux labels et au conventionnement dans les domaines du spectacle vivant et des arts plastiques :
+
+"
+
+1 |
+
+1° Arrêté d'attribution du label "Centre chorégraphique national",
+
+2° Arrêté d'attribution du label "Centre d'art contemporain d'intérêt national",
+
+3° Arrêté d'attribution du label "Centre de développement chorégraphique national",
+
+4° Arrêté d'attribution du label "Centre dramatique national",
+
+5° Arrêté d'attribution du label "Centre national de création musicale",
+
+6° Arrêté d'attribution du label "Centre national des arts de la rue et de l'espace public",
+
+7° Arrêté d'attribution du label "fonds régional d'art contemporain"
+
+8° Arrêté d'attribution du label "Opéra national en région",
+
+9° Arrêté d'attribution du label "Orchestre national en région",
+
+10° Arrêté d'attribution du label "Pôle national du cirque",
+
+11° Arrêté d'attribution du label "Scène de musiques actuelles",
+
+12° Arrêté d'attribution du label "Scène nationale",
+
+13° Arrêté d'attribution du label "Centre national de la marionnette". |
+
+Article 3 |
+
+2 |
+
+Agrément du dirigeant d'une structure bénéficiant du label mentionné à l'article 3. |
+
+Article 5 |
+
 Divers :
 
 |
