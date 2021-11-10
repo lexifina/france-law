@@ -80,9 +80,7 @@ La liste des quartiers pour mineurs prévue à l'article R. 124-9 est fixée com
 
 -quartier des mineurs du centre pénitentiaire de Moulins-Yzeure (Allier) ;
 
--quartier des mineurs de la maison d'arrêt de Mulhouse (Haut-Rhin) ;
-
--quartier des mineurs du quartier de semi-liberté de la maison d'arrêt de Mulhouse (Haut-Rhin) ;
+- quartier des mineurs du centre pénitentiaire de Mulhouse-Lutterbach (Haut-Rhin) ;
 
 -quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
 
@@ -132,4 +130,4 @@ La liste des unités affectées à la prise en charge des mineures prévue à l'
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 27 mai 2021 (NOR : JUSF2113088A), ces dispositions entrent en vigueur à la date fixée par l'article 9 de l'ordonnance n° 2019-950 du 11 septembre 2019 (30 septembre 2021).
+Conformément à l'article 2 de l'arrêté du 4 novembre 2021 (NOR : JUSK2133007A), ces dispositions entrent en vigueur le 10 novembre 2021.
