@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210824104
+
+- Question : [SEQ210824104](seq210824104.md) — Réciprocité des conditions d'entrée aux États-Unis et en France
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2021-11-11, page 6351*
+
+Le 20 septembre 2021, le coordinateur de la lutte contre la pandémie à la Maison-Blanche, M. Jeff Zients, a annoncé qu'à partir de début novembre, les voyageurs, en provenance de l'Union européenne en particulier, pourront à nouveau se rendre aux États-Unis, à condition qu'ils soient entièrement vaccinés. Ils devront se faire tester dans les trois jours précédant leur voyage et porter un masque. Cette annonce, saluée par la Commission européenne, est un soulagement pour de nombreuses familles et acteurs économiques de notre pays qui, depuis mars 2020, rencontrent des difficultés considérables pour se rendre aux États-Unis. Elle intervient dans un contexte où la vaccination en France et dans les États européens a progressé de façon significative. Les autorités françaises n'ont cessé de plaider auprès des autorités américaines pour un assouplissement des règles encadrant l'entrée des voyageurs français sur le territoire américain, au nom de la réciprocité (les voyageurs américains vaccinés ne sont soumis à aucune restriction ; les voyageurs américains non vaccinés doivent justifier d'un motif impérieux pour se rendre en France, compte tenu de la situation épidémiologique aux États-Unis - pays classé "orange". Dans l'attente de cette levée prochaine des restrictions américaines, le ministère de l'Europe et des affaires étrangères reste mobilisé pour plaider en faveur d'une facilitation de l'obtention des exceptions ("National Interest Exception" ou NIE) permettant l'accès au territoire américain à tous les Français qui désirent se rendre aux États-Unis.
