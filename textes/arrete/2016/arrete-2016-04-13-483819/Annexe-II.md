@@ -22,8 +22,6 @@ Pour une personne physique :
 
 Pour une personne morale de droit privé :
 
--extrait KBis de moins de trois mois ou autre justificatif d'enregistrement suivant le statut ;
-
 -copie du procès-verbal de l'assemblée générale ou autre instance portant nomination au poste de dirigeant ou au poste de responsable pouvant engager la responsabilité de la personne morale ;
 
 -copie de l'acte de nomination du représentant légal ainsi que, le cas échéant, de la procuration établie par ce dernier en faveur du signataire de la demande de représentant en douane enregistré ;
