@@ -142,6 +142,10 @@ b. Qui figurent sur la décision ministérielle fixant la liste des instructeurs
 
 obtiennent le certificat d'instructeur de vol ballon FI(B) Partie BFCL avec le privilège d'instruire en vue de la qualification FI(B) Partie BFCL.
 
+4.6. Crédit accordé aux titulaires d'une qualification d'instructeur de pilote de ballon (IBL) périmées.
+
+Les pilotes titulaires d'une qualification d'instructeur de pilote de ballon (IBL) périmée obtiennent un certificat d'instructeur de vol ballon FI (B) partie BFCL sous réserve de répondre aux conditions du d du point BFCL. 360 du règlement (UE) n° 2018/395 du 13 mars 2018 modifié établissant des règles détaillées concernant l'exploitation de ballons ainsi que l'octroi de licences pour les membres d'équipage de conduite de ballons conformément au règlement (UE) 2018/1139 du Parlement européen et du Conseil.
+
 5. Conditions de la conversion de la qualification d'instructeur de ballon libre vers un certificat d'examinateur de vol ballon FE(B) Partie BFCL
 
 5.1. Conversion d'une qualification IBL en un certificat FE(B) Partie BFCL
