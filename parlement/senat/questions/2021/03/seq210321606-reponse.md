@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321606
+
+- Question : [SEQ210321606](seq210321606.md) — Clarification de la réglementation concernant la vente des produits à base de cannabidiol
+
+## Réponse
+
+*Solidarités et santé, JO du 2021-11-18, page 6469*
+
+À l'occasion d'une procédure judiciaire initiée par un distributeur de cigarettes électroniques et d'e-liquides contenant du cannabidiol (CBD) à qui avait été opposée une interdiction de commercialisation, la cour d'appel d'Aix-en-Provence a saisi le 23 octobre 2018 la Cour de justice de l'Union Européenne d'une question préjudicielle portant sur la conformité au droit de l'Union européenne de l'article 1er de l'arrêté du 22 août 1990 qui limite la culture, l'importation et l'utilisation industrielle et commerciale du chanvre aux seules fibres et graines de la plante et interdit, de ce fait, l'importation et la commercialisation d'e-liquide pour cigarette électronique contenant du CBD obtenue à partir de plantes entières de chanvre. La Cour de justice de l'Union Européenne a rendu son arrêt dans l'affaire C-663/18, dite Kanavape, le 19 novembre 2020. Dans cet arrêt, la Cour considère que « Les articles 34 et 36 TFUE doivent être interprétés en ce sens qu'ils s'opposent à une réglementation nationale interdisant la commercialisation du cannabidiol (CBD) légalement produit dans un autre État membre, lorsqu'il est extrait de la plante de cannabis sativa dans son intégralité et non de ses seules fibres et graines, à moins que cette réglementation soit propre à garantir la réalisation de l'objectif de la protection de la santé publique et n'aille pas au-delà de ce qui est nécessaire pour qu'il soit atteint ». Le gouvernement a pris acte de cette décision de la Cour et a engagé des travaux interministériels visant à modifier l'arrêté de 1990. Ces travaux devraient aboutir prochainement et permettre de rendre compatible le droit national avec l'arrêt de la Cour.
