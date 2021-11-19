@@ -720,6 +720,8 @@ Route de Tournai
 
 Date d'agrément : 19.02.2020 |
 
+|
+
 CHAROLAISE (Charolais) |
 
 France |
@@ -736,13 +738,15 @@ France |
 
 31.07.2020 |
 
-Association Bovinext
+ASSOCIATION BOVINEXT
 
 9, rue de la Vologne
 
 54520 Laxou
 
-Date d'agrément : 20 novembre 2020 |
+Date d'agrément : 20 novembre 2020
+
+|
 
 Redyblack |
 
@@ -751,6 +755,24 @@ France |
 1 |
 
 20 novembre 2020 |
+
+ASSOCIATION ABERDEEN ANGUS FRANCE
+
+2090, route des Trois Rivières
+
+01660 Mézériat
+
+Date d'agrément : 8 novembre 2021
+
+|
+
+Angus |
+
+France |
+
+|
+
+|
 
 II. - Liste des organismes de sélection agréés qui réalisent des programmes de sélection avec des reproducteurs de race pure de l'espèce ovine
 
@@ -1419,6 +1441,8 @@ France |
 01.07.2014 |
 
 ANGORA |
+
+|
 
 France |
 
