@@ -92,7 +92,7 @@ Conduite d'opération, organisation de la maitrise d'ouvrage et de la maitrise d
 
 Gestion de patrimoine, organisation des contrôles et entretiens réglementaires.
 
-Domaine Entretien des infrastructures et exploitation routière.
+Domaine Gestion et maintenance des infrastructures et des routes.
 
 Compétences attendues :
 
