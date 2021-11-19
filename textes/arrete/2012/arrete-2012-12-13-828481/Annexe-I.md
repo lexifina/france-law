@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PROGRAMME DE L'ÉPREUVE D'ADMISSIBILITÉ NO 2
+PROGRAMME DE L'ÉPREUVE D'ADMISSIBILITÉ N° 2
 
 Spécialité “ Techniques générales ”
 
@@ -92,7 +92,7 @@ Conduite d'opération, organisation de la maitrise d'ouvrage et de la maitrise d
 
 Gestion de patrimoine, organisation des contrôles et entretiens réglementaires.
 
-Domaine Entretien des infrastructures et exploitation routière :
+Domaine Gestion et maintenance des infrastructures et des routes :
 
 Compétences attendues :
 
