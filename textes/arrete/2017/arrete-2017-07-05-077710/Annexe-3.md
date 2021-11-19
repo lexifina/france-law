@@ -6,7 +6,7 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté préfectoral N° DREAL-RCTV-TE01-01/2018 du 9 juillet 2018 définissant les réseaux routiers du département de l'Ain “ TE120 ”, “ TE94 ” et “ TE72 ”, accessibles aux convois exceptionnels, ainsi que leur cahier de prescriptions ;
 
--arrêté préfectoral du 9 juin 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Aisne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées ;
+-arrêté préfectoral du 9 juin 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Aisne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées ;
 
 -arrêté n° 704 bis/2018 du 6 mars 2018 définissant les réseaux routiers du département de l'Allier “ TE120 ”, “ TE94 ” et “ TE72 ”, accessibles aux convois exceptionnels, ainsi que leur cahier de prescriptions ;
 
@@ -34,13 +34,15 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté n° 16-2021-03-30-00005 du 30 mars 2021 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Charente accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
+-arrêté préfectoral n° 17-2021-07-15-00007 du 15 juillet 2021 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de Charente-Maritime accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+
 -arrêté n° 2017-1-935 du 2 août 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Cher accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral n° 19-2020-09-18-005 du 18 septembre 2020 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Corrèze accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral n° 805 du 14 décembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” de la Côte-d'Or accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté du 22 décembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” du département des Côtes-d'Armor, accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté du 22 décembre 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” du département des Côtes-d'Armor, accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté n° 23-2019-12-24-001 du 24 décembre 2019 définissant les réseaux routiers “ 120 tonnes ” et “ 72 tonnes ” du département de la Creuse accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
@@ -48,13 +50,13 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté préfectoral n° 25-2017-07-10-006 du 10 juillet 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Doubs accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté préfectoral n° DREAL-RCTV-TE26-01/2018 du 17 avril 2018 définissant les réseaux routiers du département de la Drôme “ TE120 ”, “ TE94 ” et “ TE72 ”, accessibles aux convois exceptionnels, ainsi que leur cahier de prescriptions ;
+-arrêté n° DREAL-RCTV-TE26-01-2021 du 18/03/2021 modifié définissant les réseaux routiers du département de la Drôme “ TE120 ”, “ TE94 ” et “ TE72 ”, accessibles aux convois exceptionnels ;
 
 -arrêté préfectoral n° DDTM/ SCTSRD/2018/10 du 4 avril 2018 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Eure, accessibles aux convois exceptionnels sous réserve des caractéristiques du poids et gabarit maximales et des prescriptions associées ;
 
--arrêté n° SERBAT-BRRT-2017-38 du 20 avril 2017 pris dans le cadre de la généralisation de la procédure d'instruction simplifiée des dossiers de transports exceptionnels et définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Eure-et-Loir accessibles aux convois exceptionnels, sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté n° SERBAT-BRRT-2017-38 du 20 avril 2017 modifié pris dans le cadre de la généralisation de la procédure d'instruction simplifiée des dossiers de transports exceptionnels et définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Eure-et-Loir accessibles aux convois exceptionnels, sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté préfectoral AP n° 2017097-0002 du 7 avril 2017 du département du Finistère définissant les réseaux routiers accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté préfectoral AP n° 2017097-0002 du 7 avril 2017 modifié du département du Finistère définissant les réseaux routiers accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral n° 30-2018-03-14-006 du 14 mars 2018 modifié portant définition des réseaux routiers “ 72 tonnes ”, “ 94 tonnes ” et “ 120 tonnes ” du département du Gard accessibles aux convois exceptionnels sous réserve du respect des caractéristiques techniques de poids et gabarit et des prescriptions associées ;
 
@@ -66,11 +68,13 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté préfectoral n° DDTM34-2018-04-09341 du 28 mars 2018 modifié portant définition des réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” et “ 48 tonnes ” du département de l'Hérault accessibles aux convois exceptionnels sous réserve du respect des caractéristiques maximales de poids et gabarit et des prescriptions associées ;
 
--arrêté du 21 avril 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Ille-et-Vilaine accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté du 21 avril 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Ille-et-Vilaine accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral n° 36-2017-05-16-004 du 16 mai 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Indre, accessibles aux convois exceptionnels, sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral du 17 mai 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département d'Indre-et-Loire accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées ;
+
+-arrêté préfectoral n° DREAL-RCTV-TE38-01/2021 du 16 juin 2021 définissant les réseaux routiers du département de l'Isère “ TE120 ”, “ TE94 ” et “ TE72 ”, accessibles aux convois exceptionnels, ainsi que leurs cahiers de prescriptions ;
 
 -arrêté du 21 juillet 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Jura accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
@@ -96,9 +100,9 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté n° 2018-06 du 28 mars 2018 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Manche accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté préfectoral du 1er juin 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Marne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées ;
+-arrêté préfectoral du 1er juin 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Marne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et de gabarit maximales et des prescriptions associées ;
 
--arrêté n° 2466 du 8 novembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Haute-Marne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté n° 2466 du 8 novembre 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Haute-Marne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté du 5 mai 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ”, “ 72 tonnes ” et “ 48 tonnes ” du département de la Mayenne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
@@ -106,7 +110,7 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté n° TE55-2019-001 du 26 juillet 2019 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Meuse accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté du 20 septembre 2017 définissant les réseaux routiers du département du Morbihan accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté du 20 septembre 2017 modifié définissant les réseaux routiers du département du Morbihan accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté n° 2020/ CAB/ SSI/ PPA-DDT N° 320 du 11 septembre 2020 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Moselle accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
@@ -114,7 +118,7 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté du 27 mars 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Nord accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté TE 2018 du 31 mai 2018 relatif à la définition des réseaux routiers 120 tonnes, 94 tonnes et 72 tonnes du département de l'Oise accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et de prescriptions associées ;
+-arrêté TE 2018 du 31 mai 2018 modifié relatif à la définition des réseaux routiers 120 tonnes, 94 tonnes et 72 tonnes du département de l'Oise accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et de prescriptions associées ;
 
 -arrêté préfectoral ‘ NOR : 2360-18-021) du 6 mars 2018 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de l'Orne accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
@@ -126,7 +130,7 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté n° 65-2018-03-30-002 du 30 mars 2018 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département des Hautes-Pyrénées accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
--arrêté préfectoral n° DDTM/ SER/2018103-0001 du 13 avril 2018 portant définition des réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département des Pyrénées-Orientales accessibles aux convois exceptionnels sous réserve du respect des caractéristiques techniques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté préfectoral n° DDTM/ SER/2018103-0001 du 13 avril 2018 modifié portant définition des réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département des Pyrénées-Orientales accessibles aux convois exceptionnels sous réserve du respect des caractéristiques techniques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté préfectoral n° 014/2017 du 24 novembre 2017 définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département du Bas-Rhin accessibles aux convois exceptionnels, sous réserve du respect des caractéristiques de poids et de gabarit et des prescriptions associées ;
 
@@ -144,7 +148,7 @@ Arrêtés définissant les réseaux routiers départementaux “ TE72 ” :
 
 -arrêté préfectoral n° DREAL-RCTV-TE74-01/2018 du 20 décembre 2018 définissant les réseaux routiers du département de la Haute-Savoie “ TE120 ”, “ TE94 ” et “ TE72 ”, accessibles aux convois exceptionnels, ainsi que leur cahier de prescriptions ;
 
--arrêté n° 2019-00829 du 17 octobre 2019 définissant les réseaux routiers parisiens de “ 120 tonnes ” et de “ 72 et 94 tonnes ” accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
+-arrêté n° 2019-00829 du 17 octobre 2019 modifié définissant les réseaux routiers parisiens de “ 120 tonnes ” et de “ 72 et 94 tonnes ” accessibles aux convois exceptionnels sous réserve du respect des caractéristiques de poids et gabarit maximales et des prescriptions associées ;
 
 -arrêté du 23 août 2017 modifié définissant les réseaux routiers “ 120 tonnes ”, “ 94 tonnes ” et “ 72 tonnes ” du département de la Seine-Maritime accessibles aux convois exceptionnels, sous réserve du respect des caractéristiques de poids et gabarit maximales, et des prescriptions associées ;
 
