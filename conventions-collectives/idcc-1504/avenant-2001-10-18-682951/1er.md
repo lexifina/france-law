@@ -6,6 +6,14 @@ Elle élira, parmi ses membres, un président, un vice-président, un secrétair
 
 Tous les 2 ans, les fonctions d'un collège au sein de l'association seront permutées au profit de l'autre collège.
 
-Cette association a pour vocation d'engager des études, de participer à l'information des négociateurs paritaires, à leur formation et à l'organisation de leurs rencontres. Elle a, également, pour vocation d'engager des actions destinées à informer les entreprises et leurs salariés sur les accords collectifs, sur l'évolution de la profession et, tout particulièrement, sur l'évolution de l'emploi.
+Cette association a pour vocation d'engager des études, rapports, analyses, ou services d'experts, de participer à l'information des négociateurs paritaires, à leur formation, à l'organisation de leurs rencontres, et à la prise en charge des frais liés à l'organisation des commissions paritaires de la branche ou des réunions de l'association. Elle a également pour vocation d'engager des actions destinées à informer les entreprises et leurs salariés sur les accords collectifs, sur l'évolution de la profession et, tout particulièrement, sur l'évolution de l'emploi.
+
+L'association est également habilitée à gérer et détenir tout fonds social qui viendrait à être constitué dans l'intérêt des salariés et des entreprises de la poissonnerie. Cette gestion se fera sur décision de la commission paritaire permanente de négociation et d'interprétation (CPPNI) qui précisera le cadre des actions à engager. Pour cela, l'association est habilitée à recevoir toute somme relative à la négociation collective, à la formation, aux régimes de branche, à la santé et à la prévoyance du champ conventionnel de la poissonnerie dont la gestion lui serait déléguée par la CPPNI et à engager et payer toute somme conformément aux actions décidées par la CPPNI. L'association paritaire rendra compte annuellement à la CPPNI de la manière dont sont utilisés les fonds confiés.
+
+Elle pourra également être saisie par la CPPNI afin d'intervenir sur des sujets qui lui auront été délégués afin d'apporter à la CPPNI l'ensemble des informations dont elle pourrait avoir besoin afin d'éclairer son action et ses décisions.
+
+Pour cela, elle pourra, sur mandat de la CPPNI, entamer des négociations sur des sujets délégués et engager à cet effet les ressources nécessaires pour se faire accompagner par des conseils ou experts. Elle rendra compte périodiquement de ses actions aux membres de la CPPNI.
+
+Elle pourra également, sur décision de la CPPNI, agir en justice, en son nom propre (c'est-à-dire au nom de l'association) seule ou conjointement avec tout ou partie de ses membres, afin de défendre les droits et les intérêts collectifs de ses membres et à travers eux des salariés et des entreprises de la poissonnerie sur toute question, notamment sur les questions de l'emploi, de l'exercice du droit syndical, de la négociation collective, des régimes de santé et prévoyance, de la formation, et de tous les sujets entrant dans le champ de la négociation collective.
 
 Dans ce but, l'association recueille et gère les cotisations qui lui sont destinées.
