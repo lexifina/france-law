@@ -1,6 +1,4 @@
-# Article LEGIARTI000039436212
-
-ANNEXE II
+# Article ANNEXE II
 
 MENTIONS À PRÉCISER DANS LA DEMANDE D'AUTORISATION DE PÊCHE
 
@@ -36,9 +34,13 @@ Navire :
 
 - N° OMI :
 
+- N° Lloyds (si attribué) :
+
+- N° IHS (si attribué) :
+
 - Nom(s) précédent(s) :
 
-- Marques extérieures (**) :
+- Marques extérieures** :
 
 - Port d'enregistrement :
 
@@ -76,9 +78,11 @@ Caractéristiques du navire :
 
 - Largeur :
 
-- Tonnage brut (GT) :
+- Jauge brute (GT) :
 
-- Tonnage net :
+- Tonnage (GRT) (si jauge brute non disponible) :
+
+- Jauge nette :
 
 - Déplacement :
 
@@ -106,13 +110,19 @@ Palangre :
 
 - Autres équipements :
 
-- Hameçons (marque, n°) :
+- Hameçons (marque, n° ) :
 
 - Capacité de mise à l'eau (nombre d'hameçons) :
 
 - Line shooter (marque) :
 
 - Caractéristiques, schéma et dimensions des engins utilisés (si possible avec photos) (**) :
+
+Casiers :
+
+. Modèle de casiers :
+
+. Type de ligne :
 
 Contrôleur de pêche - Observateur de pêche :
 
@@ -143,3 +153,13 @@ Mesures environnementales :
 (*) Informations à fournir dans le cadre du formulaire simplifié prévu à l'article 4 du présent arrêté.
 
 (**) Pièce ou justificatif à fournir à l'appui de la demande.
+
+Fait àle
+
+(Lieu et date de la demande)
+
+Signature et cachet du demandeur
+
+Les demandes d'autorisation de pêche sont transmises par lettre recommandée avec accusé de réception à l'adresse indiquée ci-dessous :
+
+Monsieur le directeur des pêches maritimes et de l'aquaculture, direction des pêches maritimes et de l'aquaculture, tour Séquoia, place Carpeaux, 92055 La Défense Cedex
