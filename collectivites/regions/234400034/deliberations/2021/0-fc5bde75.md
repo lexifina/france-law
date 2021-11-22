@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 512 Soutien aux transitions
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2021-11-22
+- Matière : 7.4
+- Objet : 512 Soutien aux transitions
+- Transmis à la préfecture : 2021-11-22
+- Votants : 29
+- Pour : 25
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-44784.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
