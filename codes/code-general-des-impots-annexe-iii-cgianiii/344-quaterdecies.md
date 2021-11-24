@@ -60,21 +60,13 @@ Cette fraction correspond à la cotisation acquittée par le contribuable multip
 
 2° Et le rapport défini au 1° du 2 du II du présent article.
 
-6. Une fraction est attribuée à chaque région dont le périmètre comprend au moins une commune sur le territoire de laquelle, en application du III de l'article 1586 octies du code général des impôts, la valeur ajoutée produite par le contribuable a été imposée à la cotisation sur la valeur ajoutée des entreprises au titre de l'année précédente.
-
-Cette fraction correspond à la cotisation acquittée par le contribuable multipliée par :
-
-1° La fraction définie au 3° de l'article 1599 bis du code général des impôts ;
-
-2° Et le rapport défini au 1° du 2 du II du présent article.
-
 II. – Pour l'application du présent article :
 
 1. La situation des collectivités territoriales et des établissements publics de coopération intercommunale s'apprécie au 1er janvier de l'année au cours de laquelle la cotisation sur la valeur ajoutée des entreprises leur est reversée.
 
 Les fractions définies à l'article 1609 quinquies BA du code général des impôts sont celles applicables au 1er janvier de la même année.
 
-2.1° Pour l'application des 1 à 3, du 2° du 4, du 5 et du 6 du I, le rapport comprend :
+2.1° Pour l'application des 1 à 3, du 2° du 4 et du 5 du I, le rapport comprend :
 
 a. Au numérateur : la valeur ajoutée imposable dans la commune concernée en application du III de l'article 1586 octies du code général des impôts nette des exonérations appliquées dans la collectivité territoriale ou dans l'établissement public de coopération intercommunale bénéficiaire conformément à l'article 1586 nonies de ce code ;
 
@@ -97,3 +89,7 @@ b. Les exonérations s'entendent de celles applicables au titre de l'année pré
 a. Les valeurs locatives imposées à la cotisation foncière des entreprises situées sur le territoire de chaque commune au 1er janvier de l'année précédant celle mentionnée au 1 du présent II ;
 
 b. Les effectifs déclarés au titre de l'année précédant celle au cours de laquelle la cotisation sur la valeur ajoutée a été acquittée ;
+
+NOTA :
+
+En conséquence de l'article 55-I et XXVII B de la loi n° 2022-1726 du 30 décembre 2022, cet article devient sans objet.
