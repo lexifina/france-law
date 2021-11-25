@@ -2,7 +2,7 @@
 
 NOMBRE DE SIÈGES À POURVOIR PAR LA VOIE DE L'ÉLECTION
 
-A. - Disciplines médicales
+A.-Disciplines médicales
 
 SECTION |
 
@@ -12,11 +12,11 @@ TITRE |
 
 TYPE |
 
-NOMBRE DE SIEGÈS
+NOMBRE DE SIEGES
 
-À POURVOIR
+A POURVOIR
 
-ÉLUS |
+ELUS |
 
 PR |
 
@@ -62,9 +62,9 @@ Mixte |
 
 1
 
-1
+2
 
-2 |
+3 |
 
 43 |
 
@@ -98,7 +98,7 @@ Mixte |
 
 2
 
-2 |
+4 |
 
 44 |
 
@@ -148,11 +148,11 @@ Mixte |
 
 2
 
-2
+3
 
 1
 
-1 |
+3 |
 
 45 |
 
@@ -174,7 +174,7 @@ Microbiologie, maladies transmissibles et hygiène : |
 
 03 |
 
-Bactériologie - virologie ; hygiène hospitalière (2 options)
+Bactériologie-virologie ; hygiène hospitalière (2 options)
 
 Parasitologie et mycologie
 
@@ -192,7 +192,7 @@ Clinique |
 
 2
 
-2 |
+3 |
 
 2
 
@@ -220,7 +220,9 @@ Santé publique, environnement et société : |
 
 03
 
-04 |
+04
+
+05 |
 
 Epidémiologie, économie de la santé et prévention
 
@@ -228,41 +230,37 @@ Médecine et santé au travail
 
 Médecine légale et droit de la santé
 
-Biostatistiques, informatique médicale et technologies de communication |
-
-Mixte
-
-Mixte
-
-Mixte
-
-Mixte |
-
-2
-
-2
-
-2
-
-2 |
-
-1
-
-2
-
-1
-
-1 |
-
-|
-
-05 |
+Biostatistiques, informatique médicale et technologies de communication
 
 Médecine palliative |
 
+Mixte
+
+Mixte
+
+Mixte
+
+Mixte
+
 Clinique |
 
+2
+
+2
+
+2
+
+2
+
 0 |
+
+1
+
+2
+
+1
+
+1
 
 0 |
 
@@ -316,7 +314,7 @@ Mixte |
 
 1
 
-2
+1
 
 1 |
 
@@ -336,31 +334,11 @@ Anesthésiologie, réanimation, médecine d'urgence, pharmacologie et thérapeut
 
 01
 
-02
-
-03
-
-04
-
-05 |
+02 |
 
 Anesthésiologie-réanimation et médecine péri-opératoire
 
-Médecine intensive-réanimation
-
-Pharmacologie fondamentale ; pharmacologie
-
-clinique ; addictologie (3 options)
-
-Thérapeutique - médecine de la douleur ; addictologie (2 options)
-
-Médecine d'urgence |
-
-Mixte
-
-Clinique
-
-Mixte
+Médecine intensive-réanimation |
 
 Mixte
 
@@ -368,23 +346,65 @@ Clinique |
 
 2
 
-2
+2 |
 
 2
 
-2
+1 |
+
+|
+
+03 |
+
+Pharmacologie fondamentale ; pharmacologie clinique ; addictologie (3 options) |
+
+Mixte |
 
 2 |
 
-1
+2 |
 
-1
+|
 
-1
+04 |
 
-1
+Thérapeutique-médecine de la douleur ; addictologie (2 options) |
+
+Mixte |
 
 2 |
+
+3 |
+
+|
+
+05 |
+
+Médecine d'urgence |
+
+Clinique |
+
+2 |
+
+1 |
+
+SECTION |
+
+SOUS-SECTION |
+
+TITRE |
+
+TYPE |
+
+NOMBRE DE SIEGES
+
+A POURVOIR
+
+ELUS |
+
+PR |
+
+MC |
 
 49 |
 
@@ -446,9 +466,9 @@ Clinique |
 
 1
 
-0
+1
 
-1 |
+2 |
 
 50 |
 
@@ -478,9 +498,7 @@ Chirurgie orthopédique et traumatologique
 
 Dermato-vénéréologie
 
-Chirurgie plastique, reconstructrice et
-
-esthétique ; brûlologie (2 options) |
+Chirurgie plastique, reconstructrice et esthétique ; brûlologie (2 options) |
 
 Clinique
 
@@ -496,13 +514,13 @@ Clinique |
 
 3
 
-2 |
+3 |
 
 1
 
-1
+2
 
-1
+2
 
 1 |
 
@@ -534,9 +552,7 @@ Cardiologie
 
 Chirurgie thoracique et cardio-vasculaire
 
-Chirurgie vasculaire ; médecine vasculaire
-
-(2 options) |
+Chirurgie vasculaire ; médecine vasculaire (2 options) |
 
 Clinique
 
@@ -560,7 +576,25 @@ Clinique |
 
 1
 
-1 |
+2 |
+
+SECTION |
+
+SOUS-SECTION |
+
+TITRE |
+
+TYPE |
+
+NOMBRE DE SIEGES
+
+A POURVOIR
+
+ELUS |
+
+PR |
+
+MC |
 
 52 |
 
@@ -602,7 +636,7 @@ Clinique |
 
 3
 
-4
+3
 
 3
 
@@ -614,7 +648,7 @@ Clinique |
 
 1
 
-0 |
+1 |
 
 53 |
 
@@ -630,23 +664,25 @@ Médecine interne, gériatrie et médecine générale |
 
 |
 
-01
+01 |
 
-03 |
-
-Médecine interne ; gériatrie et biologie du vieillissement ; addictologie (3 options)
-
-Médecine générale |
-
-Clinique
+Médecine interne ; gériatrie et biologie du vieillissement ; addictologie (3 options) |
 
 Clinique |
 
-4
+4 |
+
+1 |
+
+|
+
+03 |
+
+Médecine générale |
+
+Clinique |
 
 2 |
-
-1
 
 1 |
 
@@ -664,23 +700,29 @@ Développement et pathologie de l'enfant, gynécologie-obstétrique, endocrinolo
 
 |
 
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 01
 
 02
 
-03
-
-04 |
+03 |
 
 Pédiatrie
 
 Chirurgie infantile
 
-Gynécologie-obstétrique ; gynécologie médicale (2 options)
-
-Endocrinologie, diabète et maladies métaboliques ; gynécologie médicale (2 options) |
-
-Clinique
+Gynécologie-obstétrique ; gynécologie médicale (2 options) |
 
 Clinique
 
@@ -692,11 +734,7 @@ Clinique |
 
 2
 
-3
-
 3 |
-
-1
 
 1
 
@@ -706,17 +744,45 @@ Clinique |
 
 |
 
+04 |
+
+Endocrinologie, diabète et maladies métaboliques ; gynécologie médicale (2 options) |
+
+Clinique |
+
+3 |
+
+1 |
+
+|
+
 05 |
 
-Biologie et médecine du développement
-
-et de la reproduction ; gynécologie médicale (2 options) |
+Biologie et médecine du développement et de la reproduction ; gynécologie médicale (2 options) |
 
 Mixte |
 
 2 |
 
 1 |
+
+SECTION |
+
+SOUS-SECTION |
+
+TITRE |
+
+TYPE |
+
+NOMBRE DE SIEGES
+
+A POURVOIR
+
+ELUS |
+
+PR |
+
+MC |
 
 55 |
 
@@ -758,7 +824,7 @@ Clinique |
 
 2
 
-1
+2
 
 1 |
 
@@ -782,11 +848,11 @@ Personnels enseignants-chercheurs des disciplines médicales (maïeutique) |
 
 TOTAL |
 
-133 |
+134 |
 
-61 |
+77 |
 
-B. - Disciplines odontologiques
+B.-Disciplines odontologiques
 
 SECTION |
 
@@ -794,11 +860,11 @@ SOUS-SECTION |
 
 TITRE |
 
-NOMBRE DE SIEGÈS
+NOMBRE DE SIEGES
 
-À POURVOIR
+A POURVOIR
 
-ÉLUS |
+ELUS |
 
 PR |
 
@@ -828,7 +894,7 @@ Prévention, épidémiologie, économie de la santé, odontologie légale |
 
 2 |
 
-1
+2
 
 2 |
 
@@ -848,7 +914,7 @@ Chirurgie orale ; parodontologie ; biologie orale : |
 
 Chirurgie orale ; parodontologie ; biologie orale |
 
-3 |
+2 |
 
 3 |
 
@@ -876,21 +942,21 @@ Dentisterie restauratrice, endodontie, prothèses, fonction-dysfonction, imageri
 
 TOTAL |
 
-9 |
-
 8 |
 
-C. - Disciplines pharmaceutiques
+9 |
+
+C.-Disciplines pharmaceutiques
 
 SECTION |
 
 TITRE |
 
-NOMBRE DE SIEGÈS
+NOMBRE DE SIEGES
 
-À POURVOIR
+A POURVOIR
 
-ÉLUS |
+ELUS |
 
 PR |
 
@@ -952,17 +1018,17 @@ TOTAL |
 
 18 |
 
-D. - Disciplines des sciences de la rééducation et de la réadaptation et des sciences infirmières
+D.-Disciplines des sciences de la rééducation et de la réadaptation et des sciences infirmières
 
 SECTION |
 
 TITRE |
 
-NOMBRE DE SIEGÈS
+NOMBRE DE SIEGES
 
-À POURVOIR
+A POURVOIR
 
-ÉLUS |
+ELUS |
 
 PR |
 
