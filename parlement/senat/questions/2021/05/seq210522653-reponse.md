@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522653
+
+- Question : [SEQ210522653](seq210522653.md) — Préservation du patrimoine meulier français
+
+## Réponse
+
+*Culture, JO du 2021-11-25, page 6560*
+
+Le patrimoine immobilier français est particulièrement riche : on estime à plusieurs centaines de milliers le nombre d'édifices présentant un intérêt artistique, historique ou architectural sur le territoire. Parmi ces édifices, plus de 44 000 sont protégés (classés ou inscrits) au titre des monuments historiques. C'est précisément sur ces bâtiments, ainsi que sur ceux se trouvant sur un site patrimonial remarquable ou aux abords de monuments historiques, que le ministère de la culture exerce un contrôle scientifique et technique. Les deux moulins de Collias sont inclus dans le périmètre du site classé au titre du code de l'environnement des gorges du Gardon, ce qui subordonne tous travaux dont ils peuvent être l'objet à autorisation spéciale du ministère chargé de l'environnement ou du préfet. Ils ne bénéficient cependant pas des protections issues du code du patrimoine. En 2014, la délégation permanente de la commission régionale du patrimoine et de l'architecture de la région Occitanie, saisie d'une demande de protection au titre des monuments historiques pour l'un de ces moulins, a émis un avis défavorable, considérant l'intérêt de cet édifice insuffisant pour justifier son inscription. Pour autant, une concertation, en liaison notamment avec la direction régionale des affaires culturelles d'Occitanie, est actuellement menée par la préfecture du Gard à propos du devenir de ces deux moulins. Le ministère de la culture souhaite qu'une solution soit trouvée, garantissant la sécurité des personnes tout en permettant, dans la mesure du possible, la conservation d'un patrimoine auquel les élus et la population sont fortement attachés.
