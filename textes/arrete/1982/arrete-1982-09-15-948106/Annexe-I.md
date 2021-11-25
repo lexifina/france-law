@@ -8,11 +8,11 @@ Semences de céréales ne devant être commercialisées que dans les catégories
 
 - avoine maigre ou rude (Avena strigosa Schreb.) ;
 
-- blé dur (Triticum durum Desf.) ;
+- blé dur (Triticum turgidum L. subsp. durum (Desf.) van Slageren) ;
 
-- blé tendre (froment) (Triticum aestivum L.) ;
+- blé tendre (froment) (Triticum aestivum L. subsp. aestivum) ;
 
-- épeautre (Triticum spelta L.) ;
+- épeautre (Triticum aestivum L. subsp. spelta (L.) Thell.) ;
 
 - maïs, à l'exception du pop-corn et maïs sucré (Zea mays L. " partim ") ;
 
@@ -24,11 +24,11 @@ Semences de céréales ne devant être commercialisées que dans les catégories
 
 - seigle (Secale cereale L.) ;
 
-- sorgho (Sorghum bicolor " L. " Moench) ;
+- sorgho (Sorghum bicolor (L.) Moench subsp. bicolor) ;
 
-- sorgho du Soudan (Sorghum sudanense " Piper " Stapf) ;
+- sorgho du Soudan (Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) ;
 
-- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor " L. " Moench × Sorghum sudanense " Piper " Stapf) ;
+- hybride résultant du croisement entre le sorgho bicolore et le sorgho du Soudan (Sorghum bicolor (L.) Moench subsp. bicolor × Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse) ;
 
 - triticale (× Triticosecale Wittm. ex A. Camus).
 
