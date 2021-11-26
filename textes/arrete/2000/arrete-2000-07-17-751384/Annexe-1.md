@@ -1,43 +1,51 @@
 # Article Annexe 1
 
-LISTE DES DIPLOMES, TITRES ET CERTIFICATS REQUIS POUR L'EXERCICE D'ACTIVITES DE DRESSAGE DE CHIENS AU MORDANT
+ANNEXE I
 
-Ministère de l'intérieur. - Police nationale
+LISTE DES DIPLÔMES, TITRES ET CERTIFICATS REQUIS POUR L'EXERCICE D'ACTIVITÉS DE DRESSAGE DE CHIENS AU MORDANT
+
+Ministère de l'intérieur
+
+1. Police nationale :
 
 Diplôme de dresseur cynotechnicien.
 
 Diplôme de moniteur cynotechnicien.
 
-Ministère de la défense
+2. Gendarmerie :
 
-1. Armée de terre :
+Certificat technique du premier degré " cynotechnie " (module dresseur-chef de cyno-groupe).
 
-Certificat technique du premier degré cynotechnie .
+Certificat technique du deuxième degré " cynotechnie " (module approfondissement).
 
-Certificat technique du deuxième degré cynotechnie .
+Ministère des armées
 
-Brevet supérieur de technicien de l'armée de terre cynotechnie .
+1. Certifications communes aux trois armées :
 
-2. Armée de l'air :
+Cynotechnicien de sécurité et de surveillance.
 
-Brevet élémentaire de maître chien (formation technique de 2e niveau).
+Chef de service cynotechnique.
 
-Brevet supérieur de maître chien (formation technique de 3e niveau).
+2. Armée de terre :
 
-3. Marine nationale :
+Certificat technique du premier degré " cynotechnie ".
 
-Certificat technique du premier degré cynotechnie .
+Certificat technique du deuxième degré " cynotechnie ".
 
-Certificat technique du deuxième degré cynotechnie .
+Brevet supérieur de technicien de l'armée de terre " cynotechnie ".
 
-4. Gendarmerie :
+3. Armée de l'air :
 
-Certificat technique du premier degré cynotechnie (module dresseur-chef de cyno-groupe).
+Brevet élémentaire de maître-chien (formation technique de 2e niveau).
 
-Certificat technique du deuxième degré cynotechnie (module approfondissement).
+Brevet supérieur de maître-chien (formation technique de 3e niveau).
 
-Société centrale canine pour l'amélioration
+4. Marine nationale :
 
-des races de chiens en France
+Certificat technique du premier degré " cynotechnie ".
 
-Brevet de moniteur de club habilité à pratiquer des disciplines incluant du mordant
+Certificat technique du deuxième degré " cynotechnie ".
+
+Société centrale canine
+
+Brevet de moniteur de club " habilité à pratiquer des disciplines incluant du mordant ".
