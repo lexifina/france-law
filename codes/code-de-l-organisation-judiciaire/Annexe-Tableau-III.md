@@ -4,944 +4,530 @@ Liste des maisons de justice et du droit
 
 (annexe de l'article R. 131-11)
 
-TRIBUNAUX JUDICIAIRES
+TRIBUNAUX JUDICIAIRES |
 
-|
+MAISONS DE JUSTICE ET DU DROIT |
 
-MAISONS DE JUSTICE ET DU DROIT
+Cour d'appel d'Aix-en-Provence |
 
-|
+Alpes Maritimes |
 
-Cour d'appel d'Aix-en-Provence
+Nice |
 
-|
-
-Alpes-Maritimes
-
-|
-
-Nice
-
-|
-
-Menton, Nice (Ariane).
-
-|
+Menton, Nice. |
 
 Bouches-du-Rhône |
 
-Aix-en-Provence
+Aix-en-Provence |
 
-|
+Aix-en-Provence, Martigues, Salon-de-Provence. |
 
-Aix-en-Provence (Jas du Bouffan), Martigues, Salon-de-Provence.
+Marseille |
 
-|
+Aubagne, Marseille. |
 
-Marseille
+Tarascon |
 
-|
-
-Aubagne, Marseille.
-
-|
-
-Tarascon
-
-|
-
-Arles
-
-|
+Arles. |
 
 Var |
 
-Toulon
+Toulon |
 
-|
-
-La Seyne-sur-Mer, Toulon.
-
-|
+La Seyne-sur-Mer, Toulon. |
 
 Cour d'appel d'Amiens |
 
 Oise |
 
-Beauvais
+Beauvais |
 
-|
+Méru. |
 
-Méru/Vexin-Thelle-Sablons.
+Compiègne |
 
-|
+Noyon. |
 
-Compiègne
+Senlis |
 
-|
-
-Noyon.
-
-|
-
-Senlis
-
-|
-
-Creil.
-
-|
+Creil. |
 
 Somme |
 
-Amiens
+Amiens |
 
-|
+Amiens. |
 
-Amiens.
+Cour d'appel d'Angers |
 
-|
+Maine-et-Loire |
 
-Cour d'appel d'Angers
+Angers |
 
-Maine-et-Loire
-
-|
-
-Angers
-
-|
-
-Angers.
-
-|
+Angers. |
 
 Sarthe |
 
-Le Mans
+Le Mans |
 
-|
+Allonnes. |
 
-Allonnes.
+Cour d'appel de Basse-Terre |
 
-|
+Guadeloupe |
 
-Cour d'appel de Basse-Terre
+Pointe-à-Pitre |
 
-Guadeloupe
+Les Abymes. |
 
-|
+Cour d'appel de Bastia |
 
-Pointe-à-Pitre
+Corse-du-Sud |
 
-|
+Ajaccio |
 
-Les Abymes |
+Porto-Vecchio. |
 
-Cour d'appel de Bastia
+Cour d'appel de Bordeaux |
 
-Corse-du-Sud
+Charente |
 
-|
+Angoulême |
 
-Ajaccio
-
-|
-
-Porto-Vecchio.
-
-|
-
-Cour d'appel de Bordeaux
-
-Charente
-
-|
-
-Angoulême
-
-|
-
-Angoulême.
-
-|
+Angoulême. |
 
 Dordogne |
 
-Bergerac
+Bergerac |
 
-|
-
-Bergerac.
-
-|
+Bergerac. |
 
 Gironde |
 
-Bordeaux
+Bordeaux |
 
-|
+Lormont, Bordeaux. |
 
-Bordeaux-Bastide, Bordeaux-Nord.
+Cour d'appel de Bourges |
 
-|
+Cher |
 
-Cour d'appel de Bourges
+Bourges |
 
-Cher
+Vierzon. |
 
-|
+Cour d'appel de Caen |
 
-Bourges
+Calvados |
 
-|
+Caen |
 
-Vierzon.
+Hérouville-Saint-Clair. |
 
-|
+Manche |
 
-Cour d'appel de Caen
+Coutances |
 
-Calvados
+Saint-Lô. |
 
-|
+Cour d'appel de Cayenne |
 
-Caen
+Guyane |
 
-|
+Cayenne |
 
-Hérouville-Saint-Clair.
+Saint-Laurent-du-Maroni. |
 
-|
+Cour d'appel de Chambéry |
 
-Manche
+Haute-Savoie |
 
-|
+Thonon-les-Bains |
 
-Coutances.
-
-|
-
-Saint-Lô.
-
-|
-
-Cour d'appel de Cayenne
-
-Guyane
-
-|
-
-Cayenne
-
-|
-
-Saint-Laurent-du-Maroni.
-
-|
-
-Cour d'appel de Chambéry
-
-Haute-Savoie
-
-|
-
-Thonon-les-Bains
-
-|
-
-Annemasse, Saint-Julien-en-Genevois.
-
-|
+Annemasse, Saint-Julien-en-Genevois. |
 
 Savoie |
 
-Albertville
+Albertville |
 
-|
+Albertville, Saint-Jean-de-Maurienne. |
 
-Albertville (La Tarentaise), Saint-Jean-de-Maurienne (La Maurienne).
+Chambéry |
 
-|
+Aix-les-Bains, Chambéry. |
 
-Chambéry
+Cour d'appel de Colmar |
 
-|
+Bas-Rhin |
 
-Aix-les-Bains, Chambéry.
+Strasbourg |
 
-|
-
-Cour d'appel de Colmar
-
-Bas-Rhin
-
-|
-
-Strasbourg
-
-|
-
-Strasbourg.
-
-|
+Strasbourg. |
 
 Haut-Rhin |
 
-Colmar
+Colmar |
 
-|
+Colmar. |
 
-Colmar.
+Mulhouse |
 
-|
+Mulhouse. |
 
-Mulhouse
+Cour d'appel de Dijon |
 
-|
+Côte-d'Or |
 
-Mulhouse.
+Dijon |
 
-|
+Chenôve. |
 
-Cour d'appel de Dijon
+Haute-Marne |
 
-Côte-d'Or
-
-|
-
-Dijon
-
-|
-
-Chenôve.
-
-|
-
-Haute-Marne
-
-|
-
-Chaumont
-
-|
+Chaumont |
 
 Saint-Dizier. |
 
 Saône-et-Loire |
 
-Chalon-sur-Saône
+Chalon-sur-Saône |
 
-|
+Chalon-sur-Saône. |
 
-Chalon-sur-Saône.
+Mâcon |
 
-|
+Mâcon. |
 
-Mâcon
+Cour d'appel de Douai |
 
-|
+Nord |
 
-Mâcon.
+Avesnes-sur-Helpe |
 
-|
+Aulnoye-Aymeries, Maubeuge. |
 
-Cour d'appel de Douai
+Dunkerque |
 
-Nord
+Dunkerque. |
 
-|
+Lille |
 
-Avesnes-sur-Helpe
+Roubaix, Tourcoing. |
 
-|
+Valenciennes |
 
-Aulnoy-Aymeries, Maubeuge.
-
-|
-
-Dunkerque
-
-|
-
-Dunkerque.
-
-|
-
-Lille
-
-|
-
-Roubaix, Tourcoing.
-
-|
+Denain. |
 
 Pas-de-Calais |
 
-Valenciennes
+Béthune |
 
-|
+Lens. |
 
-Denain.
+Boulogne-sur-Mer |
 
-|
+Calais. |
 
-Béthune
+Cour d'appel de Fort-de-France |
 
-|
+Martinique |
 
-Lens.
+Fort-de-France |
 
-|
+Fort-de-France. |
 
-Boulogne-sur-Mer
+Cour d'appel de Grenoble |
 
-|
+Drôme |
 
-Calais.
+Valence |
 
-|
+Romans-sur-Isère. |
 
-Cour d'appel de Fort-de-France
+Hautes-Alpes |
 
-Martinique
+Gap |
 
-|
-
-Fort-de-France
-
-|
-
-Fort-de-France.
-
-|
-
-Cour d'appel de Grenoble
-
-Drôme
-
-|
-
-Valence
-
-|
-
-Romans-sur-Isère.
-
-|
-
-Hautes-Alpes
-
-|
-
-Gap
-
-|
-
-Briançon
-
-|
+Briançon. |
 
 Isère |
 
-Grenoble
+Grenoble |
 
-|
+Grenoble. |
 
-Grenoble.
+Vienne |
 
-|
+Villefontaine. |
 
-Vienne
+Cour d'appel de Limoges |
 
-|
+Corrèze |
 
-Villefontaine.
+Brive-la-Gaillarde |
 
-|
-
-Cour d'appel de Limoges
-
-Corrèze
-
-|
-
-Brive-la-Gaillarde
-
-|
-
-Brive-la-Gaillarde.
-
-|
+Brive-la-Gaillarde. |
 
 Haute-Vienne |
 
-Limoges
+Limoges |
 
-|
+Limoges. |
 
-Limoges.
+Cour d'appel de Lyon |
 
-|
+Ain |
 
-Cour d'appel de Lyon
+Bourg-en-Bresse |
 
-Ain
+Bourg-en-Bresse. |
 
-|
+Loire |
 
-Bourg-en-Bresse
+Saint-Etienne |
 
-|
-
-Bourg-en-Bresse.
-
-|
-
-Loire
-
-|
-
-Saint-Etienne
-
-|
-
-Saint-Etienne.
-
-|
+Saint-Etienne. |
 
 Rhône |
 
-Lyon
+Lyon |
 
-|
+Bron, Givors, Lyon, Rillieux-la-Pape, Vaulx-en-Velin, Villeurbanne, Vénissieux. |
 
-Bron, Givors, Lyon-Sud, Rillieux-la-Pape, Vaulx-en-Velin, Villeurbanne, Vénissieux.
+Cour d'appel de Metz |
 
-|
+Moselle |
 
-Cour d'appel de Metz
+Metz |
 
-Moselle
+Faulquemont, Woippy. |
 
-|
+Sarreguemines |
 
-Metz
+Forbach. |
 
-|
+Thionville |
 
-Faulquemont, Woippy.
+Hayange. |
 
-|
+Cour d'appel de Montpellier |
 
-Sarreguemines
+Aude |
 
-|
+Narbonne |
 
-Forbach.
-
-|
-
-Thionville
-
-|
-
-Hayange (Val de Fensch). |
-
-Cour d'appel de Montpellier
-
-Aude
-
-|
-
-Narbonne
-
-|
-
-Narbonne.
-
-|
+Narbonne. |
 
 Hérault |
 
-Béziers
+Béziers |
 
-|
+Agde. |
 
-Agde.
+Montpellier |
 
-|
+Lattes, Lodève, Lunel, Montpellier. |
 
-Montpellier
-
-|
-
-Lattes (Montpellier Méditerranée Métropole), Lodève, Lunel, Montpellier (La Paillade). |
-
-Pyrénées-Orientales
-
-|
-
-Perpignan
-
-|
+Pyrénées-Orientales |
 
 Perpignan |
 
-Cour d'appel de Nancy
+Perpignan. |
 
-Meurthe-et-Moselle
+Cour d'appel de Nancy |
 
-|
+Meurthe-et-Moselle |
 
-Nancy
+Nancy |
 
-|
+Nancy, Tomblaine, Vandœuvre-lès-Nancy, Toul. |
 
-Haut du Lièvre, Tomblaine, Vandœuvre-lès-Nancy, Toul.
+Cour d'appel de Nîmes |
 
-|
+Gard |
 
-Cour d'appel de Nîmes
+Nîmes |
 
-Gard
+Bagnols-sur-Cèze, Nîmes, Vauvert. |
 
-|
-
-Nîmes
-
-|
-
-Bagnols-sur-Cèze, Nîmes, Vauvert.
-
-|
-
-Vaucluse
-
-|
+Vaucluse |
 
 Avignon |
 
-Avignon
+Avignon. |
 
-|
+Cour d'appel d'Orléans |
 
-Cour d'appel d'Orléans
+Indre-et-Loir |
 
-Indre-et-Loire
+Tours |
 
-|
-
-Tours
-
-|
-
-Joué-lès-Tours.
-
-|
+Joué-les-Tours. |
 
 Loir-et-Cher |
 
-Blois
+Blois |
 
-|
-
-Blois.
-
-|
+Blois. |
 
 Loiret |
 
-Orléans
+Orléans |
 
-|
+Orléans. |
 
-Orléans.
+Cour d'appel de Paris |
 
-|
+Essonne |
 
-Cour d'appel de Paris
+Evry |
 
-Essonne
-
-|
-
-Evry-Courcouronnes
-
-|
-
-Athis-Mons, Etampes (Etampois sud Essonne), Les Ulis, Villemoisson-sur-Orge (Val d'Orge).
-
-|
+Athis-Mons, Etampes, Les Ulis, Villemoisson-sur-Orge. |
 
 Paris |
 
-Paris
+Paris |
 
-|
-
-Paris (10e), Paris (14e), Paris (17e).
-
-|
+Paris (10ème), Paris (14ème), Paris (17ème). |
 
 Seine-et-Marne |
 
-Meaux
+Meaux |
 
-|
+Chelles, Meaux, Lognes. |
 
-Chelles, Meaux, Val-Maubuée.
+Melun |
 
-|
-
-Melun
-
-|
-
-Pontault-Combault, Savigny-le-Temple.
-
-|
+Pontault-Combault, Savigny-le-Temple. |
 
 Seine-Saint-Denis |
 
-Bobigny
+Bobigny |
 
-|
-
-Aubervilliers, Clichy-sous-Bois-Montfermeil, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis.
-
-|
+Aubervilliers, Clichy-sous-Bois, Epinay-sur-Seine, La Courneuve, Le Blanc-Mesnil, Pantin, Saint-Denis. |
 
 Val-de-Marne |
 
-Créteil
+Créteil |
 
-|
+Champigny-sur-Marne, Villejuif. |
 
-Champigny-sur-Marne, Val de Bièvre.
+Cour d'appel de Poitiers |
 
-|
+Charente-Maritime |
 
-Cour d'appel de Poitiers
+La Rochelle |
 
-Charente-Maritime
+La Rochelle. |
 
-|
+Cour d'appel de Reims |
 
-La Rochelle
+Ardennes |
 
-|
+Charleville-Mézières |
 
-La Rochelle.
-
-|
-
-Cour d'appel de Reims
-
-Ardennes
-
-|
-
-Charleville-Mézières
-
-|
-
-Charleville-Mézières, Sedan.
-
-|
+Charleville-Mézières, Sedan. |
 
 Aube |
 
-Troyes
+Troyes |
 
-|
-
-Romilly-sur-Seine, Troyes.
-
-|
+Romilly-sur-Seine, Troyes. |
 
 Marne |
 
-Reims
+Reims |
 
-|
+Reims. |
 
-Reims.
+Cour d'appel de Rennes |
 
-|
+Côtes d'Armor |
 
-Cour d'appel de Rennes
+Saint-Brieuc |
 
-Côtes-d'Armor
-
-|
-
-Saint-Brieuc
-
-|
-
-Lannion, Loudéac
-
-|
+Lannion, Loudéac. |
 
 Loire-Atlantique |
 
-Nantes
+Nantes |
 
-|
+Nantes, Rezé, Châteaubriant. |
 
-Nantes, Nantes-Rezé, Châteaubriant.
+Morbihan |
 
-|
-
-Morbihan
-
-|
-
-Lorient
-
-|
+Lorient |
 
 Pontivy. |
 
-Cour d'appel de Riom
+Cour d'appel de Riom |
 
-Allier
+Allier |
 
-|
+Montluçon |
 
-Montluçon
-
-|
-
-Montluçon.
-
-|
+Montluçon. |
 
 Puy-de-Dôme |
 
 Clermont-Ferrand |
 
-Clermont-Ferrand |
+Clermont-Ferrand. |
 
-Cour d'appel de Rouen
+Cour d'appel de Rouen |
 
-Eure
+Eure |
 
-|
+Evreux |
 
-[Bernay
-
-|
-
-Pont-Audemer (3).]
-
-|
-
-[Evreux
-
-|
-
-Evreux, Louviers, Vernon (3).]
-
-|
-
-[Evreux
-
-|
-
-Evreux, Louviers, Pont-Audemer, Vernon (4).]
-
-|
+Evreux, Louviers, Pont-Audemer, Vernon. |
 
 Seine-Maritime |
 
-Le Havre
+Le Havre |
 
-|
+Fécamp, Le Havre. |
 
-Fécamp, Le Havre.
+Rouen |
 
-|
+Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray. |
 
-Rouen
+Cour d'appel de Toulouse |
 
-|
+Haute-Garonne |
 
-Elbeuf-sur-Seine, Canteleu, Rouen, Saint-Etienne-du-Rouvray.
+Toulouse |
 
-|
-
-Cour d'appel de Toulouse
-
-Haute-Garonne
-
-|
-
-Toulouse
-
-|
-
-Toulouse, Toulouse-Nord, Toulouse-Ouest.
-
-|
+Toulouse (Lalande), Toulouse (La Reynerie), Tournefeuille. |
 
 Tarn |
 
-Castres
+Castres |
 
-|
+Mazamet. |
 
-Mazamet.
+Cour d'appel de Versailles |
 
-|
+Eure-et-Loir |
 
-Cour d'appel de Versailles
+Chartres |
 
-Eure-et-Loir
-
-|
-
-Chartres
-
-|
-
-Dreux, Nogent-le-Rotrou.
-
-|
+Dreux, Nogent-le-Rotrou. |
 
 Hauts-de-Seine |
 
-Nanterre
+Nanterre |
 
-|
-
-Bagneux, Châtenay-Malabry, Gennevilliers.
-
-|
+Bagneux, Châtenay-Malabry, Gennevilliers. |
 
 Val-d'Oise |
 
-Pontoise
+Pontoise |
 
-|
-
-Argenteuil, Cergy-Pontoise, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel.
-
-|
+Argenteuil, Cergy, Ermont, Garges-lès-Gonesse, Persan, Sarcelles, Villiers-le-Bel. |
 
 Yvelines |
 
-Versailles
+Versailles |
 
-|
-
-Les Mureaux, Saint-Quentin-en-Yvelines.
-
-|
-
-(3) Applicable jusqu'au 31 décembre 2010.
-
-(4) Applicable à compter du 1er janvier 2011.
-
-|
+Les Mureaux, Trappes. |
