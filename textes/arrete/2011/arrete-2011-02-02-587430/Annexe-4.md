@@ -58,6 +58,18 @@ ZI du Moros-
 
 5 |
 
+CEGELEC SDEM |
+
+Cours Bourbon
+
+BP 87-76370 Martin-Église |
+
+-FA 150 AIS Transponder (R-4-206) *
+
+-FA-170 Class A/ Inland AIS (R-4-314) |
+
+6 |
+
 CLAUDIN SERVICE |
 
 41, avenue Henri Barbusse-
@@ -66,7 +78,7 @@ CLAUDIN SERVICE |
 
 -Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
-6 |
+7 |
 
 DISCOUNT MARINE |
 
@@ -86,7 +98,19 @@ DISCOUNT MARINE |
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
-7 |
+8 |
+
+ELECTRO NAUTIC |
+
+Centre d'affaires Agde Capitole
+
+1 boulevard Jean Monnet
+
+34300 Agde |
+
+-SIMRAD V5035 Class A/ Inland AIS (R-4-303) |
+
+9 |
 
 E-NAUTIC |
 
@@ -96,7 +120,7 @@ E-NAUTIC |
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
-8 |
+10 |
 
 ENTCO |
 
@@ -106,7 +130,7 @@ ENTCO |
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
-9 |
+11 |
 
 FLUVIAL ELEC |
 
@@ -122,7 +146,7 @@ FLUVIAL ELEC |
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
-10 |
+12 |
 
 FURUNO FRANCE |
 
@@ -132,19 +156,7 @@ Rue Laplace-33700 Mérignac |
 
 -FA-170 Class A/ Inland AIS (R-4-314) |
 
-11 |
-
-CEGELEC SDEM |
-
-Cours Bourbon
-
-BP 87-76370 Martin-Église |
-
--FA 150 AIS Transponder (R-4-206) *
-
--FA-170 Class A/ Inland AIS (R-4-314) |
-
-12 |
+13 |
 
 H2O |
 
@@ -154,7 +166,7 @@ Port de plaisance-
 
 -AIS 950 Combined Class A/ Inland AIS Transceiver (R-4-311) |
 
-13 |
+14 |
 
 LORRAINE NAUTISME |
 
@@ -162,7 +174,7 @@ LORRAINE NAUTISME |
 
 -Orolia type Z601, Mc Murdo Smartfind M5 Class A/ Inland AIS (R-4-301) |
 
-14 |
+15 |
 
 MAP Marine |
 
@@ -174,9 +186,11 @@ MAP Marine |
 
 -Transas
 
--Comnav |
+-Comnav
 
-15 |
+|
+
+16 |
 
 MAX GUERDIN ET SES FILS |
 
@@ -192,7 +206,7 @@ MAX GUERDIN ET SES FILS |
 
 -A200 Combined Class A/ inland AIS Transceiver (R-4-316) |
 
-16 |
+17 |
 
 NAUTOR VILLEFRANCHE |
 
@@ -204,7 +218,7 @@ Quartier La Darse-BP 33-
 
 -SIMRAD V5035 Class A/ Inland AIS (R-4-303) |
 
-17 |
+18 |
 
 PROMAT SECURITE |
 
@@ -216,7 +230,7 @@ PROMAT SECURITE |
 
 -A200 Combined Class A/ Inland AIS Transceiver (R-4-316) |
 
-18 |
+19 |
 
 RADIO HOLLAND FRANCE |
 
@@ -240,7 +254,7 @@ RADIO HOLLAND FRANCE |
 
 -VDL 6000 AIS Class A/ Inland AIS Transponder (R-4-219) * |
 
-19 |
+20 |
 
 RADIO NAVIGATION |
 
@@ -250,7 +264,7 @@ RADIO NAVIGATION |
 
 -SIMRAD V5035 Class A/ Inland AIS (R-4-303) |
 
-20 |
+21 |
 
 SIECMI |
 
@@ -264,7 +278,7 @@ SIECMI |
 
 -SRT Comnav Voyager X3 |
 
-21 |
+22 |
 
 Sud Communication |
 
@@ -278,7 +292,7 @@ Espace Fréjorgues Ouest-
 
 -KAT330 Combined Class A/ Inland AIS Transceiver (R-4-317) |
 
-22 |
+23 |
 
 THEMYS |
 
@@ -294,4 +308,4 @@ CD 45-Pont de l'Etoile-
 
 -Sailor 6280/6281 AIS System Class A/ Inland AIS (R-4-302) |
 
-* Certains types d'appareils n'ont pas reçu d'agrément conformément au Règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé, à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
+(*) Certains types d'appareils n'ont pas reçu d'agrément conformément au règlement de visite des bateaux du Rhin. Le montage des appareils AIS intérieur dont la réception par type est basée sur l'édition 1.0 et 1.01 du Standard d'essai de la CCNR n'est plus autorisé à compter du 1er novembre 2015. L'utilisation et la réparation de ces appareils demeurent autorisées au-delà de cette date.
