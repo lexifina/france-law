@@ -1,0 +1,53 @@
+# Réforme des outils de gestion des risques climatiques en agriculture
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N44395
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/reforme_outils_risques_climatiques_agriculture
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-350.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-12-01 : 1er dépôt d'une initiative. (PRJLANR5L15B4758)
+  - 2021-12-01 : Etude d'impact (ETDIANR5L15B4758)
+  - 2021-12-01 : Avis du Conseil d'Etat (AVCEANR5L15B4758)
+  - 2021-12-01 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-12-01 : Renvoi en commission au fond
+      - 2021-12-07 : Nomination de rapporteur
+      - 2022-01-06 : Réunion de commission
+      - 2022-01-12 : Réunion de commission
+      - 2022-01-06 : Dépôt de rapport (RAPPANR5L15B4874, PRJLANR5L15BTC4874)
+  - Discussion en séance publique
+    - 2022-01-12 : Discussion en séance publique
+    - 2022-01-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-01-13 : Dépôt d'une initiative en navette (PRJLSNR5S379B0350)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-01-26 : Dépôt de rapport (RAPPSNR5S379B0393, PRJLSNR5S379BTC0394)
+  - Discussion en séance publique
+    - 2022-02-08 : Discussion en séance publique
+    - 2022-02-08 : Décision
+- Commission Mixte Paritaire
+  - 2022-02-09 : Dépôt d'un projet de loi (PRJLANR5L15B5025)
+  - 2022-02-09 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-02-16 : Nomination de rapporteur
+    - 2022-02-16 : Dépôt du rapport d'une CMP (RAPPANR5L15B5045, PRJLANR5L15BTC5045)
+    - 2022-02-16 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0512, PRJLSNR5S379BTC0513)
+  - Discussion en séance publique
+    - 2022-02-22 : Discussion en séance publique
+    - 2022-02-22 : Décision
+  - Discussion en séance publique
+    - 2022-02-24 : Discussion en séance publique
+    - 2022-02-24 : Décision
+  - 2022-02-17 : Décision de la CMP
+- Promulgation de la loi
+  - 2022-03-02 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2022-11-02 : Rapport sur l'application des lois (RINFANR5L16B0394)
