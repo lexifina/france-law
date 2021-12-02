@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — VIE CULTURELLE - ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS CONVENTIONNÉES : CENTRE CHORÉGRAPHIQUE NATIONAL, CENTRE INTERNATIONAL DES ARTS EN MOUVEMENTS ET LE THÉÂTRE DU JEU DE PAUME - ADOPTION DE CONVENTION
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-02
+- Séance : Conseil Municipal 1CA
+- Objet : VIE CULTURELLE - ATTRIBUTION DE SUBVENTIONS AUX ASSOCIATIONS CONVENTIONNÉES : CENTRE CHORÉGRAPHIQUE NATIONAL, CENTRE INTERNATIONAL DES ARTS EN MOUVEMENTS ET LE THÉÂTRE DU JEU DE PAUME - ADOPTION DE CONVENTION
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12678-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
