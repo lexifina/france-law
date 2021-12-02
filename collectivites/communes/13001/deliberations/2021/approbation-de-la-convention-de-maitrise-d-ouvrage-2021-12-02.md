@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DE LA CONVENTION DE MAITRISE D'OUVRAGE DELEGUEE ENTRE LA METROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNE D'AIX EN PROVENCE RELATIVE A LA REALISATION DE TRAVAUX PLUVIAUX POUR L'ANNEE 2021
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-02
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DE LA CONVENTION DE MAITRISE D'OUVRAGE DELEGUEE ENTRE LA METROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNE D'AIX EN PROVENCE RELATIVE A LA REALISATION DE TRAVAUX PLUVIAUX POUR L'ANNEE 2021
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-12674-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
