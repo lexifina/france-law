@@ -330,7 +330,7 @@ Une opération de tri s'entend d'une opération de séparation, au sein d'un mê
 
 i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliquées les réfactions suivantes :
 
-- 25 % en Guadeloupe, à La Réunion et en Martinique ;
+- 35 % en Guadeloupe, à La Réunion et en Martinique ;
 
 - 75 % en Guyane et à Mayotte.
 
@@ -653,7 +653,3 @@ Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1
 7. (Abrogé).
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies est fixé à 5 tonnes par an.
-
-NOTA :
-
-Conformément au XVI, A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.
