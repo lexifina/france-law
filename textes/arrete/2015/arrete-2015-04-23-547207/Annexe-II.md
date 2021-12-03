@@ -161,3 +161,7 @@ P. 144, P. 146, P. 167, P. 178, P. 212 |
 Directeur de l'établissement du service d'infrastructure de la défense de Toulon |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
+
+Directeur du service Ingénierie Contractuelle et Logistique |
+
+P. 144, P. 146, P. 167, P. 178, P. 212 |

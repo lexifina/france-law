@@ -16,7 +16,7 @@ Direction du renseignement militaire |
 
 P. 144, P. 178 |
 
-Direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense |
+Direction centrale de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense |
 
 P. 144, P. 146, P. 167, P. 178, P. 212 |
 
@@ -35,7 +35,3 @@ P. 144, P. 146, P. 178, P. 212 |
 Sous-direction chargée de la préfiguration de l'agence ministérielle de gestion |
 
 P. 144, P. 146, P. 167, P. 169, p. 178, P. 212 |
-
-NOTA :
-
-Conformément à l’article 15 de l’arrêté du 29 juin 2020 et à l'article 12 de l'arrêté du 30 décembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
