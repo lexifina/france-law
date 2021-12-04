@@ -84,9 +84,9 @@ Définitions :
 
 -Les termes substance radioactive et déchet radioactif sont définis à l'article L. 542-1-1 du code de l'environnement ;
 
--Les termes substance radioactive d'origine naturelle , activité , radioactivité , radionucléide et source radioactive scellée sont définis dans l'annexe 13-7 de la première partie du code de la santé publique ;
+-Les termes substance radioactive d'origine naturelle, activité, radioactivité, radionucléide et source radioactive scellée sont définis dans l'annexe 13-7 de la première partie du code de la santé publique ;
 
-- QNS : calcul du coefficient Q tel que défini à l'article R. 1333-106 du code de la santé publique pour les substances radioactives non scellées uniquement.
+-QNS : calcul du coefficient Q tel que défini à l'article R. 1333-106 du code de la santé publique pour les substances radioactives non scellées uniquement.
 
 |
 
@@ -642,9 +642,9 @@ D
 
 Nota.-
 
-Pour le 1. , les volailles sont comptées en emplacements : 1 animal = 1 emplacement.
+Pour le 1., les volailles sont comptées en emplacements : 1 animal = 1 emplacement.
 
-Pour le 2. , les volailles sont comptées en utilisant les valeurs suivantes exprimées en animaux-équivalents :
+Pour le 2., les volailles sont comptées en utilisant les valeurs suivantes exprimées en animaux-équivalents :
 
 1. caille = 0,125 ;
 
@@ -734,7 +734,7 @@ D
 
 |
 
-Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de) à l'exclusion des établissements de soins et de toilettage et des rassemblements occasionnels tels que foires, expositions et démonstrations canines.
+Chiens (activité d'élevage, vente, transit, garde, détention, refuge, fourrières, etc., de) à l'exclusion des établissements de soins et de toilettage et des rassemblements occasionnels tels que foires, expositions et démonstrations canines
 
 |
 
@@ -742,7 +742,7 @@ Chiens (établissements d'élevage, vente, transit, garde, fourrières, etc., de
 
 |
 
-1. Plus de 50 animaux
+1. Plus de 250 animaux
 
 |
 
@@ -754,17 +754,21 @@ A
 
 |
 
-2. De 10 à 50 animaux
+2. De 51 à 250 animaux |
 
-|
-
-D
+E
 
 |
 
 - |
 
-Nota : Ne sont pris en compte que les chiens âgés de plus de quatre mois.
+3. De 10 à 50 animaux |
+
+D |
+
+- |
+
+Nota.-Ne sont pris en compte que les chiens âgés de plus de quatre mois
 
 |
 
@@ -836,7 +840,9 @@ Animaux d'espèces non domestiques (installations fixes et permanentes de prése
 
 -présentation au public d'animaux dont les espèces figurent dans la liste prévue par l'article R. 413-6 du code de l'environnement ;
 
--présentation au public d'arthropodes. |
+-présentation au public d'arthropodes.
+
+|
 
 A
 
@@ -872,7 +878,7 @@ Coléoptères, diptères, orthoptères (activité d'élevage de) à l'exclusion 
 
 |
 
-a) Supérieure à 150 kg/j
+a) Supérieure à 150 kg/ j
 
 |
 
@@ -880,7 +886,7 @@ A |
 
 3 |
 
-b) Supérieure à 1 kg/j et inférieure ou égale à 150 kg/j
+b) Supérieure à 1 kg/ j et inférieure ou égale à 150 kg/ j
 
 |
 
@@ -896,7 +902,7 @@ DC |
 
 |
 
-a) Supérieure à 15 t/j
+a) Supérieure à 15 t/ j
 
 |
 
@@ -904,7 +910,7 @@ A |
 
 3 |
 
-b) Supérieure à 100 kg/j et inférieure ou égale à 15 t/j
+b) Supérieure à 100 kg/ j et inférieure ou égale à 15 t/ j
 
 |
 
@@ -960,7 +966,7 @@ DC |
 
 |
 
-Les critères caractérisant les termes de silo , silo plat , tente et structure gonflable sont précisés par arrêtés ministériels. |
+Les critères caractérisant les termes de silo, silo plat, tente et structure gonflable sont précisés par arrêtés ministériels. |
 
 |
 
@@ -968,7 +974,9 @@ Les critères caractérisant les termes de silo , silo plat , tente et structure
 
 (1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
-(2) Rayon d'affichage en kilomètres. |
+(2) Rayon d'affichage en kilomètres.
+
+|
 
 2170
 
@@ -1030,7 +1038,7 @@ D
 
 |
 
-Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou égale à 3 000 l, lorsque la capacité totale est supérieure à 100 m3
+Engrais liquide (dépôt d') en récipients de capacité unitaire supérieure ou égale à 3 000 l, lorsque la capacité totale est supérieure à 100 m 3
 
 |
 
@@ -1174,7 +1182,7 @@ La quantité de produits entrants étant :
 
 |
 
-1. Supérieure à 4 t/j
+1. Supérieure à 4 t/ j
 
 |
 
@@ -1184,7 +1192,7 @@ E
 
 |
 
-2. Supérieure à 500 kg/j, mais inférieure ou égale à 4 t/j
+2. Supérieure à 500 kg/ j, mais inférieure ou égale à 4 t/ j
 
 |
 
@@ -1206,13 +1214,13 @@ La capacité journalière de traitement exprimée en litres de lait ou litres é
 
 |
 
-1. Supérieure à 70 000 l/j |
+1. Supérieure à 70 000 l/ j |
 
 E |
 
 |
 
-2. Supérieure à 7 000 l/j, mais inférieure ou égale à 70 000 l/j |
+2. Supérieure à 7 000 l/ j, mais inférieure ou égale à 70 000 l/ j |
 
 DC |
 
@@ -1220,15 +1228,15 @@ DC |
 
 Nota :
 
-1) " Traitement et transformation, à l'exclusion du seul conditionnement " inclut toute modification (thermique, mécanique, physico chimique,…) du lait ou des produits issus du lait.
+1) " Traitement et transformation, à l'exclusion du seul conditionnement " inclut toute modification (thermique, mécanique, physico chimique, …) du lait ou des produits issus du lait.
 
 Ne sont pas considérées comme traitement et transformation les opérations suivantes :
 
-- le seul conditionnement et/ou la découpe sans autre opération (du type broyage, râpage, tamisage, filtration, etc.) en vue du transport ou de la commercialisation ;
+-le seul conditionnement et/ ou la découpe sans autre opération (du type broyage, râpage, tamisage, filtration, etc.) en vue du transport ou de la commercialisation ;
 
-- le simple stockage ou transit sans autre opération que la réfrigération (les quantités d'équivalent-lait concernées sont à déduire du classement sous la rubrique 2230) ;
+-le simple stockage ou transit sans autre opération que la réfrigération (les quantités d'équivalent-lait concernées sont à déduire du classement sous la rubrique 2230) ;
 
-- la simple maturation et/ou l'affinage du produit.
+-la simple maturation et/ ou l'affinage du produit.
 
 2) Equivalences sur les produits entrant dans l'installation :
 
@@ -1240,7 +1248,9 @@ Ne sont pas considérées comme traitement et transformation les opérations sui
 
 1 kg de fromage = 10 l équivalent-lait
 
-1 kg de poudre de lait = 9 l équivalent-lait |
+1 kg de poudre de lait = 9 l équivalent-lait
+
+|
 
 |
 
@@ -1250,7 +1260,7 @@ Ne sont pas considérées comme traitement et transformation les opérations sui
 
 |
 
-Huiles et corps gras d'origine animale ou végétale (extraction ou traitement des), fabrication des acides stéariques, palmitiques et oléiques, à l'exclusion des activités qui relèvent des rubriques 2631, 2791, 3410 ou 3642.
+Huiles et corps gras d'origine animale ou végétale (extraction ou traitement des), fabrication des acides stéariques, palmitiques et oléiques, à l'exclusion des activités qui relèvent des rubriques 2631,2791,3410 ou 3642.
 
 |
 
@@ -1280,13 +1290,13 @@ B) Autres installations que celles visées au A, dont la capacité de production
 
 |
 
-a) Supérieure à 20 t/j |
+a) Supérieure à 20 t/ j |
 
 E |
 
 |
 
-b) Supérieure à 200 kg/j, mais inférieure ou égale à 20 t/j |
+b) Supérieure à 200 kg/ j, mais inférieure ou égale à 20 t/ j |
 
 D |
 
@@ -1306,9 +1316,11 @@ E |
 
 |
 
-b) Supérieure à 200 kg/j, mais inférieure ou égale à 10 t/j
+b) Supérieure à 200 kg/ j, mais inférieure ou égale à 10 t/ j
 
-(*) : Pour toute activité saisonnière, la capacité journalière de production est estimée sur la base de la moyenne mensuelle |
+(*) : Pour toute activité saisonnière, la capacité journalière de production est estimée sur la base de la moyenne mensuelle
+
+|
 
 DC |
 
@@ -1534,7 +1546,7 @@ La capacité de production étant :
 
 |
 
-1. Supérieure à 2 t/j
+1. Supérieure à 2 t/ j
 
 |
 
@@ -1542,7 +1554,7 @@ A |
 
 1 |
 
-2. Supérieure à 200 kg/j, mais inférieure ou égale à 2 t/j
+2. Supérieure à 200 kg/ j, mais inférieure ou égale à 2 t/ j
 
 |
 
@@ -1776,13 +1788,13 @@ La capacité de production étant :
 
 |
 
-a) Supérieure à 5t/j |
+a) Supérieure à 5t/ j |
 
 A |
 
 1 |
 
-b) Supérieure à 100 kg /j, mais inférieure ou égale à 5t/j |
+b) Supérieure à 100 kg/ j, mais inférieure ou égale à 5t/ j |
 
 DC |
 
@@ -2024,7 +2036,7 @@ D
 
 |
 
-Préparation de la pâte à papier à l'exclusion des activités classées au titre de la rubrique 3610.a.
+Préparation de la pâte à papier à l'exclusion des activités classées au titre de la rubrique 3610. a.
 
 La capacité de production étant :
 
@@ -2034,7 +2046,7 @@ La capacité de production étant :
 
 |
 
-a) Supérieure à 10 t/j
+a) Supérieure à 10 t/ j
 
 |
 
@@ -2042,7 +2054,7 @@ A |
 
 1 |
 
-b) Supérieure à 1 t/j et inférieure ou égale à 10 t/j
+b) Supérieure à 1 t/ j et inférieure ou égale à 10 t/ j
 
 |
 
@@ -2056,7 +2068,7 @@ DC
 
 |
 
-Fabrication de papier, carton à l'exclusion des installations dont les activités sont classées au titre de la rubrique 3610.b, la quantité étant supérieure à 2 t/j
+Fabrication de papier, carton à l'exclusion des installations dont les activités sont classées au titre de la rubrique 3610. b, la quantité étant supérieure à 2 t/ j
 
 |
 
@@ -2090,11 +2102,11 @@ La capacité de production étant :
 
 |
 
-A
+E
 
 |
 
-1
+-
 
 |
 
@@ -2106,7 +2118,7 @@ D
 
 |
 
-|
+- |
 
 2450
 
@@ -2128,7 +2140,7 @@ A) Offset utilisant des rotatives à séchage thermique, héliogravure, flexogra
 
 |
 
-a) Supérieure à 200 kg/j
+a) Supérieure à 200 kg/ j
 
 |
 
@@ -2136,7 +2148,7 @@ A |
 
 2 |
 
-b) Supérieure à 50 kg/j mais inférieure ou égale à 200 kg/j
+b) Supérieure à 50 kg/ j mais inférieure ou égale à 200 kg/ j
 
 |
 
@@ -2156,7 +2168,7 @@ B) Autres procédés, y compris les techniques offset non visées en A/ si la qu
 
 |
 
-a) Supérieure à 400 kg/j
+a) Supérieure à 400 kg/ j
 
 |
 
@@ -2164,7 +2176,7 @@ A |
 
 2 |
 
-b) Supérieure à 100 kg/j mais inférieure ou égale à 400 kg/j
+b) Supérieure à 100 kg/ j mais inférieure ou égale à 400 kg/ j
 
 |
 
@@ -2172,7 +2184,7 @@ D |
 
 - |
 
-Nota : pour les produits qui contiennent moins de 10% de solvants organiques au moment de leur emploi, la quantité à retenir pour établir le classement correspond à la quantité consommée dans l'installation, divisée par deux.
+Nota : pour les produits qui contiennent moins de 10 % de solvants organiques au moment de leur emploi, la quantité à retenir pour établir le classement correspond à la quantité consommée dans l'installation, divisée par deux.
 
 |
 
@@ -2334,6 +2346,8 @@ DC
 
 |
 
-NOTA :
+(1) A : autorisation, E : enregistrement, D : déclaration, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement
 
-Conformément à l’article 3 du décret n° 2020-1169 du 24 septembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+(2) Rayon d'affichage en kilomètres
+
+|
