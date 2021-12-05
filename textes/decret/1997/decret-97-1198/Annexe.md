@@ -2076,6 +2076,16 @@ Art 18 |
 
 Ministre chargé de l'énergie |
 
+362 |
+
+Amendes administratives prononcées en cas de non-respect des obligations d'interopérabilité des infrastructures de recharge ou de ravitaillement en carburants alternatifs ouvertes au public |
+
+Code de l'énergie
+
+Articles R. 353-4-7 et R. 641-27 |
+
+Ministre chargé de l'énergie |
+
 |
 
 Aménagement et nature |
