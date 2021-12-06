@@ -1,8 +1,4 @@
-# Article LEGIARTI000037624293
-
-ANNEXES
-
-ANNEXE I
+# Article ANNEXE I
 
 CONDITIONS DE CANDIDATURE AU CONCOURS EXTERNE SUR TITRES DE RECRUTEMENT D'ÉLÈVES COMMISSAIRES DES ARMÉES
 
@@ -12,7 +8,7 @@ Sont autorisés à concourir les candidats réunissant les conditions suivantes 
 
 - jouir de ses droits civiques ;
 
-- ne pas avoir subi de condamnations figurant au bulletin n° 2 du casier judiciaire, incompatibles avec l'exercice des fonctions de commissaire des armées ;
+- ne pas avoir subi de condamnations figurant au bulletin n° 2 du casier judiciaire,
 
 - être en règle avec le code du service national et en fournir les justificatifs ;
 
@@ -26,6 +22,6 @@ Sont autorisés à concourir les candidats réunissant les conditions suivantes 
 
 - diplôme remis par un établissement autorisé à délivrer un diplôme officiel visé par le ministre chargé de l'enseignement supérieur et préparant à des emplois de niveau 1.
 
-- détenir l'aptitude physique exigée par l'arrêté du 10 juillet 2017 relatif aux normes d'aptitude applicables aux commissaires des armées, aux aumôniers militaires et au personnel militaire rattaché au corps des commissaires des armées ;
+- détenir l'aptitude médicale exigée par l'arrêté du 10 juillet 2017 susvisé ;
 
-- ne pas s'être présenté plus de trois fois à ce concours.
+- ne pas s'être déjà présenté trois fois à ce concours.
