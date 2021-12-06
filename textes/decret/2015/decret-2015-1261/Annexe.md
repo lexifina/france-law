@@ -310,6 +310,118 @@ Saint-Pourçain |
 
 27 ,5 |
 
+Beaujolais
+
+|
+
+12 |
+
+30 |
+
+Beaujolais supérieur
+
+|
+
+11 |
+
+29 |
+
+Beaujolais Villages
+
+|
+
+11 |
+
+29 |
+
+Beaujolais + nom de commune
+
+|
+
+11 |
+
+29 |
+
+Brouilly
+
+|
+
+11 |
+
+28 |
+
+Chénas
+
+|
+
+11 |
+
+28 |
+
+Chiroubles
+
+|
+
+11 |
+
+28 |
+
+Côte de Brouilly
+
+|
+
+11 |
+
+28 |
+
+Fleurie
+
+|
+
+11 |
+
+28 |
+
+Juliénas
+
+|
+
+11 |
+
+28 |
+
+Morgon
+
+|
+
+11 |
+
+28 |
+
+Moulin-à-Vent
+
+|
+
+11 |
+
+28 |
+
+Régnié
+
+|
+
+11 |
+
+28 |
+
+Saint-Amour
+
+|
+
+11 |
+
+28 |
+
 II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
@@ -598,9 +710,9 @@ Rully premier cru |
 
 Saint-Bris |
 
-6 |
+14 |
 
-19 |
+34 |
 
 Saint-Romain |
 
@@ -760,7 +872,7 @@ Vacqueyras |
 
 Alsace |
 
-5 |
+8 |
 
 15 |
 
@@ -871,6 +983,46 @@ Bourgogne Hautes Côtes de Nuits (vignes hautes et larges) |
 12 |
 
 30 |
+
+Beaujolais
+
+|
+
+13 |
+
+35 |
+
+Beaujolais Villages
+
+|
+
+12 |
+
+34 |
+
+Beaujolais + nom de commune
+
+|
+
+12 |
+
+34 |
+
+Monthélie
+
+|
+
+7 |
+
+17 |
+
+Monthélie 1er cru
+
+|
+
+7 |
+
+16 |
 
 III. - Liste des vins rosés tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
