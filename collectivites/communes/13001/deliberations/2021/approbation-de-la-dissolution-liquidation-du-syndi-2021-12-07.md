@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DE LA DISSOLUTION - LIQUIDATION DU SYNDICAT D'AMENAGEMENT DU BASSIN DE LA TOULOUBRE-REPARTITION ENTRE LES COLLECTIVITES DU SOLDE DE TRESORERIE FIGURANT AU BILAN DU SYNDICAT DISSOUS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-07
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DE LA DISSOLUTION - LIQUIDATION DU SYNDICAT D'AMENAGEMENT DU BASSIN DE LA TOULOUBRE-REPARTITION ENTRE LES COLLECTIVITES DU SOLDE DE TRESORERIE FIGURANT AU BILAN DU SYNDICAT DISSOUS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13032-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
