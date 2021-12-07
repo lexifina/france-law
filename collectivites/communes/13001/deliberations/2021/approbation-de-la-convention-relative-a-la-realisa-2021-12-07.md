@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DE LA CONVENTION RELATIVE À LA RÉALISATION DE MISSIONS D'EXPLOITATION, D'ENTRETIEN ET DE MAINTENANCE DU STADE MAURICE DAVID ENTRE LA VILLE D'AIX-EN-PROVENCE ET LE CONSEIL DE TERRITOIRE DU PAYS D'AIX
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-07
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DE LA CONVENTION RELATIVE À LA RÉALISATION DE MISSIONS D'EXPLOITATION, D'ENTRETIEN ET DE MAINTENANCE DU STADE MAURICE DAVID ENTRE LA VILLE D'AIX-EN-PROVENCE ET LE CONSEIL DE TERRITOIRE DU PAYS D'AIX
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13105-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
