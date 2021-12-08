@@ -16,346 +16,194 @@ alcoométrique volumique
 
 total |
 
-Franche-Comté
+Franche-Comté |
 
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Coteaux de l'Auxois |
 
-Coteaux de l'Auxois
-
-|
-
-Vins tranquilles, vins de raisins surmûris blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins tranquilles, vins de raisins surmûris blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Saône-et-Loire |
 
-Saône-et-Loire
-
-|
-
-Vins tranquilles, vins de raisins surmûris blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins tranquilles, vins de raisins surmûris blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Collines rhodaniennes |
 
-Collines rhodaniennes
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Comté Tolosan |
 
-Comté Tolosan
-
-|
-
-Vins tranquilles blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins tranquilles blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Côtes de Gascogne |
 
-Côtes de Gascogne
-
-|
-
-Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Gers |
 
-Gers
-
-|
-
-Vins blancs tranquilles et vins de raisins surmûris blancs, rouge et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles et vins de raisins surmûris blancs, rouge et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Côtes du Lot |
 
-Côtes du Lot
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Côtes du Tarn |
 
-Côtes du Tarn
-
-|
-
-Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Ile de Beauté |
 
-Vins de la Corrèze
-
-suivi de la mention "vin paillé" |
-
-Vins de raisins passerillés rouges et blancs avec sucres fermentescibles (glucose + fructose) ≥ 68 g/l
-
-|
-
-Supérieur à 16 % vol.
-
-|
-
-Ile de Beauté
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Pays d'Oc |
 
-Pays d'Oc
-
-|
-
-Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Côtes de Thau |
 
-Côtes de Thau
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Val de Loire |
 
-Val de Loire
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Méditerranée |
 
-Méditerranée
-
-|
-
-Vins tranquilles blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins tranquilles blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Comtés rhodaniens |
 
-Comtés rhodaniens
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Côtes de Thongue |
 
-Côtes de Thongue
-
-|
-
-Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Côte Vermeille |
+
+Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
+
+Entre 15 % et 20 % vol.
+
+Vins obtenus sans enrichissement |
 
 Côte Vermeille
 
+suivi de la mention "rancio " |
+
+Vins blancs tranquilles et rouges avec sucres fermentescibles (glucose + fructose) ≤ 12 g/l avec sucres fermentescibles (glucose + fructose) ≤ 12 g/l l |
+
 |
 
-Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
+Agenais |
 
-|
+Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Landes |
 
-Côte Vermeille
-
-suivi de la mention "rancio "
-
-|
-
-Vins blancs tranquilles et rouges avec sucres fermentescibles (glucose + fructose) ≤ 12 g/l avec sucres fermentescibles (glucose + fructose) ≤ 12 g/l l
-
-|
-
-|
-
-Agenais
-
-|
-
-Vins blancs tranquilles et vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Vin des Allobroges |
 
-Landes
-
-|
-
-Vins blancs tranquilles vins de raisins surmûris blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins blancs tranquilles, vins de raisins surmûris blancs et vins de raisins passerillés blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
+Vins obtenus sans enrichissement |
 
-|
+Var |
 
-Vin des Allobroges
-
-|
-
-Vins blancs tranquilles, vins de raisins surmûris blancs et vins de raisins passerillés blancs avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins tranquilles blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
-
-|
-
-Var
-
-|
-
-Vins tranquilles blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
-
-Entre 15 % et 20 % vol.
-
-Vins obtenus sans enrichissement
-
-|
+Vins obtenus sans enrichissement |
 
 Côtes catalanes
 
-suivi de la mention "rancio "
+suivi de la mention "rancio " |
+
+Vins tranquilles blancs et rouges avec sucres fermentescibles (glucose + fructose) ≤ 12 g/l |
 
 |
 
-Vins tranquilles blancs et rouges avec sucres fermentescibles (glucose + fructose) ≤ 12 g/l
+Ardèche |
 
-|
-
-|
-
-Ardèche
-
-|
-
-Vins tranquilles blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l
-
-|
+Vins tranquilles blancs, rouges et rosés avec sucres fermentescibles (glucose + fructose) ≥ 45 g/l |
 
 Entre 15 % et 20 % vol.
 
-Vins obtenus sans enrichissement
-
-|
+Vins obtenus sans enrichissement |
