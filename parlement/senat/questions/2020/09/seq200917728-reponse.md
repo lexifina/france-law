@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200917728
+
+- Question : [SEQ200917728](seq200917728.md) — Application des dispositions de l'article L. 161-4 du code de l'urbanisme
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-12-09, page 6784*
+
+En application de l'article L. 161-4 du Code de l'urbanisme, une carte communale délimite des secteurs où les constructions sont autorisées, et des secteurs où les constructions ne sont pas admises. Lorsque le terrain d'assiette d'un projet se situe à cheval sur ces deux secteurs, il convient de procéder de la même manière qu'en présence d'un terrain d'assiette se situant à cheval entre deux zones d'un plan local d'urbanisme. Ainsi, les règles d'urbanisme propres à chaque secteur s'appliquent à la partie du terrain d'assiette couverte par ledit secteur (cf. CE, section, 26 février 1988, Mme S., n° 64507, au Recueil, rendu en matière de plan d'occupation des sols transposé de manière constante en matière de plan local d'urbanisme). L'article 39 de la loi n° 2018-1021 du 23 novembre 2018 portant évolution du logement, de l'aménagement et du numérique, a introduit la possibilité d'autoriser les « annexes à proximité d'un bâtiment existant » dans les secteurs inconstructibles de la carte communale. Ainsi, en application du 1° de l'article L.161-4 du Code de l'urbanisme, l'édification de telles annexes est désormais autorisée en secteur inconstructible, à la condition qu'elle se situe « à proximité d'un bâtiment existant ». À la lumière de la jurisprudence précitée rendue en matière de plan d'urbanisme, on peut en déduire qu'il est possible d'autoriser, en secteur inconstructible de la carte communale, l'édification d'annexes « à proximité » d'un bâtiment principal, sans se soucier de la question de savoir si ce bâtiment est situé en secteur inconstructible ou constructible de cette carte.
