@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422479
+
+- Question : [SEQ210422479](seq210422479.md) — Extension de la portée du « titre-mobilité » au télétravail en tiers-lieux
+
+## Réponse
+
+*Transports, JO du 2021-12-09, page 6825*
+
+La loi n° 2019-1428 du 24 décembre 2019 d'orientation des mobilités a ouvert de nouvelles opportunités aux employeurs pour encourager leurs collaborateurs à emprunter des transports plus propres, plus durables et moins coûteux que la voiture individuelle, pour leurs trajets quotidiens domicile - travail. Le forfait mobilités durables figure parmi ces nouvelles mesures. Il est défini à l'article L. 3261-3-1 du code du travail. Le salarié qui exerce son travail dans un tiers-lieu de travail de type coworking peut bénéficier d'une prise en charge de tout ou partie de ses frais de transports personnels, éligibles au forfait mobilités durables, engagés pour s'y rendre depuis son domicile, ou depuis ses autres lieux de travail. En effet, l'article R. 3261-15 du code du travail prévoit que « le salarié qui exerce son activité sur plusieurs lieux de travail au sein d'une même entreprise qui n'assure pas le transport entre ces différents lieux et entre ces lieux et la résidence habituelle du salarié peut prétendre aux prises en charge mentionnées aux articles L. 3261-3 et L. 3261-3-1 pour les déplacements qui lui sont imposés entre sa résidence habituelle et ses différents lieux de travail, ainsi qu'entre ces lieux de travail. ». Or, les tiers-lieux de travail peuvent être considérés comme un lieu de travail du salarié. Enfin, la prise en charge du forfait mobilités durables pourra se faire également via un "titre-mobilité", qui prendra la forme d'une solution de paiement spécifique, dématérialisée et prépayée. Le décret relatif à ce titre est en cours de finalisation.
