@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924523
+
+- Question : [SEQ210924523](seq210924523.md) — Sanction des administrés par une collectivité territoriale
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-12-09, page 6786*
+
+Le III de l'article L 2224-8 du code général des collectivités territoriales confère aux communes ou à leurs groupements compétents en matière d'assainissement non collectif une mission générale de contrôle des installations des immeubles non raccordés au réseau public de collecte des eaux usées. Le 2° de l'article L 1331-11 du code de la santé publique prévoit que les agents du service d'assainissement ont accès aux propriétés privées « pour procéder à la mission de contrôle des installations d'assainissement non collectif prévue au III de l'article L 2224-8 du code général des collectivités territoriales ». Son dernier alinéa dispose en particulier « qu'en cas d'obstacle mis à l'accomplissement de cette mission, l'occupant est astreint au paiement de la somme définie à l'article L 1331-8, dans les conditions prévues par cet article ». La commune ou le groupement compétent en matière d'assainissement non collectif est donc autorisé à soumettre le propriétaire récalcitrant au paiement d'une somme au moins équivalente à la redevance qu'il aurait payée au service public d'assainissement si son immeuble avait été équipé d'une installation d'assainissement autonome réglementaire. Cette somme peut être majorée dans une proportion fixée par l'organe délibérant dans la limite de 400 %, soit un taux quadruplé par la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets. Cette même loi a également ajouté que la somme n'est pas recouvrée si les obligations de raccordement sont satisfaites dans un délai de douze mois à compter de la date d'envoi de la notification de la pénalité.
