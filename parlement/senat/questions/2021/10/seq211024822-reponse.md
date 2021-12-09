@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211024822
+
+- Question : [SEQ211024822](seq211024822.md) — Extension du délai d'instruction d'une déclaration préalable à deux mois
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2021-12-09, page 6787*
+
+La consultation des services gestionnaires de réseaux publics donne lieu à un avis simple, notamment dans les cas prévus à l'article L. 111-4 du Code de l'urbanisme pour les permis de construire ou d'aménager. Si la consultation de services gestionnaires de réseaux publics sur certaines demandes d'autorisations d'urbanisme s'avère souvent utile, en particulier lorsque certains réseaux sont actuellement insuffisants, elle n'est pas juridiquement obligatoire et ne paraît pas devoir être systématisée compte tenu de la diversité des situations possibles. Dans le cadre d'une déclaration préalable, cette consultation n'est pas toujours nécessaire car il s'agit en général de projets de petite taille qui peuvent être éloignés des considérations de réseaux publics. Il ne semble donc pas raisonnable de modifier l'état du droit existant pour y insérer une mesure à caractère général qui aurait vocation à régir quelques situations particulières. Un tel dispositif allongerait les délais d'instruction et serait contraire au travail de simplification du droit de l'urbanisme, et des autorisations plus particulièrement, engagé depuis quelques années. Il faut d'ailleurs préciser que les modifications de délai d'instruction du code de l'urbanisme sont déjç prévues afin d'articuler l'autorisation d'urbanisme avec d'autres législations ou lorsqu'elle nécessite d'autres formalités. Enfin, la difficulté soulevée sera en partie levée par la dématérialisation de la procédure d'autorisation qui devrait permettre de fluidifier les échanges entre gestionnaires de réseaux et services instructeur.
