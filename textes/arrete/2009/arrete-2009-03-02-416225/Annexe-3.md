@@ -1,10 +1,10 @@
 # Article Annexe 3
 
-LES SYSTEMES DE DILATATION
+LES SYSTÈMES DE DILATATION
 
 Les différents types de vérifications ou d'essais à effectuer par type de système de dilatation, sont :
 
-A.-Pour les systèmes de dilatation intégrés aux dispositifs de retenue
+A) Pour les systèmes de dilatation intégrés aux dispositifs de retenue :
 
 Le tableau ci-après précise les différents types de vérifications à effectuer en fonction des 3 cas suivants :
 
@@ -14,21 +14,15 @@ Le tableau ci-après précise les différents types de vérifications à effectu
 
 -cas c : système non présent dans la barrière et non présent dans la zone de raccordement lors de l'essai d'évaluation des produits.
 
-Fonction à vérifier |
-
-Vérification
-
-n° 1 |
-
-Vérification
-
-n° 2 |
-
-Vérification
-
-n° 3 |
+Fonction à vérifier
 
 Type de cas |
+
+Vérification n° 1 |
+
+Vérification n° 2 |
+
+Vérification n° 3 |
 
 Cas a ou b |
 
@@ -44,35 +38,35 @@ Oui |
 
 Oui |
 
-Souffle (*) ≤ 10 cm |
+Souffle* ≤ 10 cm |
 
 Non |
 
-Souffle (*) > 10 cm |
+Souffle* > 10 cm |
 
 Oui |
 
-(*) valeur maximum admissible par le système de dilatation. |
+* valeur maximum admissible par le système de dilatation |
 
-B.-Pour les systèmes de dilatation non intégrés aux dispositifs de retenue
+B) Pour les systèmes de dilatation non intégrés aux dispositifs de retenue :
 
 Les systèmes de dilatation sont évalués conformément aux dispositions prévues dans l'annexe 2 jointe au présent arrêté et conformément à la vérification n° 1 décrite.
 
-C.-Méthodes de vérification
+C) Méthodes de vérification :
 
 Vérification n° 1 :
 
-Vérification de la capacité du système à se dilater librement (sur plan ou en audit sur un prototype à l'échelle 1).
+Vérification de la capacité du système à se dilater librement (sur plan, ou en audit sur un prototype à l'échelle 1).
 
 Vérification n° 2 :
 
-Réalisation d'essais de traction selon la norme NF EN ISO 6892-1 par un laboratoire accrédité selon la norme EN/ ISO CEI 17025 :
+Réalisation d'essais de traction selon la norme NF EN ISO 6892-1 : 2019 par un laboratoire accrédité selon la norme EN/ ISO CEI 17025 :
 
--essai de référence sur assemblage d'éléments longitudinaux de barrière à l'échelle 1/11 ;
+-essai de référence sur assemblage d'éléments longitudinaux de barrière à l'échelle 1/1 ;
 
 -essai sur un assemblage d'éléments longitudinaux avec système de dilatation.
 
-L'effort enregistré sur l'assemblage des éléments avec le système de dilatation devra être à minima égal à 80 % de l'effort de référence mesuré sur l'assemblage des éléments sans le système de dilatation (mesure hydraulique suffisante). Alternativement, la valeur de référence utilisée pourra être déduite des efforts maximums longitudinaux relevés dans un modèle corrélé avec l'essai de choc physique initial de la barrière.
+L'effort de rupture enregistré sur l'assemblage des éléments avec le système de dilatation devra être à minima égal à 80 % de l'effort de rupture de référence mesuré sur l'assemblage des éléments sans le système de dilatation (mesure hydraulique suffisante). Alternativement, la valeur de référence utilisée pourra être déduite des efforts maximums longitudinaux relevés dans un modèle corrélé avec l'essai de choc physique initial de la barrière.
 
 Un contrôle dimensionnel, ainsi qu'une analyse des matériaux seront réalisés sur les éléments (2 systèmes complets devront être transmis au laboratoire).
 
