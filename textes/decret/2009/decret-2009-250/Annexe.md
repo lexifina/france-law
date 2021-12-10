@@ -12,13 +12,13 @@ La direction de l'évaluation, de la prospective et de la performance.
 
 Dans les services relevant du ministre de l'éducation nationale, de la jeunesse et des sports :
 
-La mission des enquêtes, données et études statistiques du service à compétence nationale dénommé Institut national de la jeunesse et de l'éducation populaire , rattaché au directeur de la jeunesse, de l'éducation populaire et de la vie associative.
+La mission des enquêtes, données et études statistiques du service à compétence nationale dénommé "Institut national de la jeunesse et de l'éducation populaire", rattaché à la directrice de la jeunesse, de l'éducation populaire et de la vie associative.
 
 Dans les services relevant du ministre de l'économie, des finances et de la relance :
 
 Le département des statistiques et des études du commerce extérieur de la direction générale des douanes et droits indirects.
 
-Le bureau des études statistiques en matière fiscale de la direction générale des finances publiques.
+Le pôle statistique publique du département des études et statistiques fiscales de la direction générale des finances publiques.
 
 Dans les services relevant de la ministre des armées :
 
@@ -26,7 +26,7 @@ L'observatoire économique de la défense de la direction des affaires financiè
 
 Dans les services relevant du ministre de l'intérieur :
 
-Le service statistique ministériel de la sécurité intérieure, sous la direction conjointe de la direction générale de la police nationale et de la direction générale de la gendarmerie nationale, placé auprès du directeur central de la police judiciaire.
+Le service statistique ministériel de la sécurité intérieure, sous la direction conjointe du directeur général de la police nationale et du directeur général de la gendarmerie nationale.
 
 Le département des statistiques, des études et de la documentation de la direction générale des étrangers en France.
 
@@ -44,7 +44,7 @@ La sous-direction de la statistique et des études du secrétariat général.
 
 Dans les services relevant de la ministre de la culture :
 
-Le département des études, de la prospective et des statistiques du service de la coordination des politiques culturelles et de l'innovation.
+Le département des études, de la prospective, des statistiques et de la documentation du secrétariat général.
 
 Dans les services relevant du ministre des solidarités et de la santé, du ministre de l'économie, des finances et de la relance et de la ministre du travail, de l'emploi et de l'insertion :
 
