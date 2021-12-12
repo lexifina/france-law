@@ -1256,11 +1256,11 @@ Société thermique de La Doua
 
 FR000000000000427 |
 
-Total raffinage France
+TotalEnergies Raffinage France
 
 |
 
-Total raffinerie de Feyzin
+Raffinerie de Feyzin
 
 |
 
@@ -1396,11 +1396,11 @@ ELVYA-Chaufferie LAFAYETTE
 
 FR000000000000432 |
 
-ELYDE (ENERGIE LYON DUCHERE ENVIRONNEMENT)
+ECLYDE
 
 |
 
-ELYDE-LA-DUCHERE
+Chaufferie de La Duchère
 
 |
 
@@ -1564,11 +1564,11 @@ ARKEMA usine de La Chambre
 
 FR000000000000438 |
 
-Jean Goulet
+La Rochette Cartonboard SAS
 
 |
 
-RDM LA ROCHETTE SAS
+La Rochette Cartonboard SAS
 
 |
 
@@ -2080,11 +2080,11 @@ SAM NEUVES MAISONS
 
 FR000000000000466 |
 
-Saint-Gobain PAM
+SAINT GOBAIN PAM CANALISATION
 
 |
 
-Saint-Gobain PAM usine de Pont-à-Mousson
+SAINT GOBAIN PAM CANALISATION (Pont à Mousson)
 
 |
 
@@ -2438,11 +2438,11 @@ FR000000000000483
 
 |
 
-smart France SAS
+INEOS AUTOMOTIVE SAS
 
 |
 
-smart France SAS
+INEOS AUTOMOTIVE SAS
 
 |
 
@@ -4346,9 +4346,9 @@ ACI Le Mans
 
 FR000000000000559 |
 
-TOTAL RAFFINAGE FRANCE |
+TotalEnergies Raffinage France |
 
-TOTAL RAFFINAGE FRANCE |
+Raffinerie de Donges |
 
 1 124 155 |
 
@@ -5764,7 +5764,7 @@ ArcelorMittal Méditerranée - Site de Fos-sur-Mer |
 
 FR000000000000629 |
 
-TOTAL raffinerie de Provence |
+TotalEnergies Raffinage France |
 
 Raffinerie de Provence |
 
@@ -6414,9 +6414,9 @@ Chaleur Grandpuits |
 
 FR000000000000664 |
 
-RAFFINERIE DE GRANDPUITS |
+TotalEnergies Raffinage France |
 
-RAFFINERIE DE GRANDPUITS |
+Raffinerie de GrandPuits |
 
 592 595 |
 
@@ -7640,9 +7640,9 @@ FR000000000000717 |
 
 4 048 |
 
-3 202 |
+- |
 
-51 015 |
+47813 |
 
 FR000000000000720
 

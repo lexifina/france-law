@@ -1446,11 +1446,11 @@ FR000000000000046
 
 |
 
-AJINOMOTO ANIMAL NUTRITION EUROPE
+METEX NOOVISTAGO
 
 |
 
-AJINOMOTO ANIMAL NUTRITION EUROPE
+METEX NOOVISTAGO (Amiens)
 
 |
 
@@ -3460,7 +3460,7 @@ FR000000000000105
 
 |
 
-RIVE DROITE Energie
+Hauts de Garonne Energies
 
 |
 
@@ -3604,11 +3604,11 @@ FR000000000000109
 
 |
 
-COGESTAR
+COGESTAR 2
 
 |
 
-AHLSTROM PACKAGING - COGESTAR
+COGESTAR 2-AHLSTROM PACKAGING
 
 |
 
@@ -7160,7 +7160,7 @@ BOUYER LEROUX
 
 |
 
-BOUYER LEROUX site de Vergonghéon
+BOUYER LEROUX - Usine Vergongheon
 
 |
 
@@ -7196,7 +7196,7 @@ BOUYER LEROUX site de Vergonghéon
 
 |
 
-24 303
+24303
 
 |
 
@@ -9028,11 +9028,11 @@ FR000000000000250
 
 |
 
-SAICA EL
+SAICA PAPER EL
 
 |
 
-Usine de Nogent sur Seine
+SAICA PAPER EL-Usine de Nogent sur Seine
 
 |
 
@@ -9172,11 +9172,11 @@ FR000000000000253
 
 |
 
-TOTAL RAFFINAGE France
+TotalEnergies Raffinage France
 
 |
 
-raffinerie de NORMANDIE
+Raffinerie de Normandie
 
 |
 
@@ -9510,11 +9510,11 @@ FR000000000000263
 
 |
 
-TOTAL RAFFINAGE FRANCE
+TotalEnergies Raffinage France
 
 |
 
-TOTAL PETROCHEMICALS FRANCE usine de Gonfreville
+Usine de Gonfreville
 
 |
 
@@ -12006,11 +12006,11 @@ FR000000000000325
 
 |
 
-EUROSERUM SA
+EUROSERUM S.A.
 
 |
 
-EUROSERUM Port-sur-Saône
+EUROSERUM PORT SUR SAONE
 
 |
 
@@ -13398,11 +13398,11 @@ FR000000000000364
 
 |
 
-SAICA EL
+SAICA PAPER EL
 
 |
 
-SAICA EL-Usine de Champblain
+SAICA PAPER EL-Usine de Laveyron
 
 |
 

@@ -344,11 +344,11 @@ FR000000000000733
 
 |
 
-ENERTHERM
+IDEX La Défense
 
 |
 
-ENERTHERM - CENTRALE D'ALENCON -
+IDEX La Défense-Centrale d'Alençon
 
 |
 
@@ -5600,11 +5600,11 @@ FR000000000000891
 
 |
 
-COGESTAR
+COGESTAR 2
 
 |
 
-COGESTAR - ARKEMA
+COGESTAR 2-ARKEMA
 
 |
 
@@ -6512,11 +6512,11 @@ FR000000000000924
 
 |
 
-ASCOMETAL LES DUNES
+ASCO INDUSTRIES
 
 |
 
-Usine des Dunes
+ASCO INDUSTRIES ASCOMETAL Usine des Dunes
 
 |
 
@@ -6540,19 +6540,19 @@ Usine des Dunes
 
 |
 
-58 849
+42 217
 
 |
 
-57 663
+41 366
 
 |
 
-56 474
+40 513
 
 |
 
-538 345
+489 455
 
 |
 
@@ -9766,11 +9766,11 @@ FR000000000001011
 
 |
 
-BORALEX BLENDECQUES SAS
+NORENERGY
 
 |
 
-BORALEX BLENDECQUES SAS
+NORENERGY Blendecques
 
 |
 
@@ -12118,7 +12118,7 @@ COMPAGNIE DE COGENERATION DE LA BRAYE (CCB)
 
 |
 
-COMPAGNIE DE COGENERATION DE LA BRAYE
+Compagnie de Cogénération de la Braye
 
 |
 
@@ -12150,7 +12150,7 @@ COMPAGNIE DE COGENERATION DE LA BRAYE
 
 |
 
-0
+-
 
 |
 
@@ -12550,7 +12550,7 @@ BOUYER LEROUX
 
 |
 
-BOUYER LEROUX Site de St Marcellin en forez
+BOUYER LEROUX Site de SAINT-MARCELLIN-EN-FOREZ
 
 |
 
@@ -12558,7 +12558,7 @@ BOUYER LEROUX Site de St Marcellin en forez
 
 |
 
-16 116
+16 115
 
 |
 
@@ -12570,7 +12570,7 @@ BOUYER LEROUX Site de St Marcellin en forez
 
 |
 
-9 526
+9 527
 
 |
 
@@ -12578,15 +12578,15 @@ BOUYER LEROUX Site de St Marcellin en forez
 
 |
 
-3 662
+-
 
 |
 
-3 587
+-
 
 |
 
-78 235
+70 986
 
 |
 
@@ -13454,11 +13454,11 @@ FR000000000001136
 
 |
 
-CONSERVERIE MORBIHANNAISE
+D'Aucy Le Faouët
 
 |
 
-CONSERVERIE MORBIHANNAISE
+D'Aucy Le Faouët
 
 |
 
@@ -13932,11 +13932,11 @@ FR000000000001146
 
 |
 
-ENERTHERM
+IDEX La Défense
 
 |
 
-ENERTHERM - CENTRALE PONS
+IDEX La Défense-Centrale Pons
 
 |
 
