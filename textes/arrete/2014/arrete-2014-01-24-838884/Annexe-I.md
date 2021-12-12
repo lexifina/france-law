@@ -296,11 +296,11 @@ FR000000000001151
 
 |
 
-TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE PONT-SUR-SAMBRE
+TotalEnergies-Centrale électrique Pont sur Sambre
 
 |
 
-TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE PONT-SUR-SAMBRE
+TotalEnergies-Centrale électrique Pont sur Sambre
 
 |
 
@@ -354,9 +354,9 @@ TOTAL DIRECT ENERGIE-CENTRALE ELECTRIQUE BAYET
 
 FR-new-03014555 |
 
-Total Direct Energie |
+TotalEnergies-Centrale électrique Saint Avold |
 
-Total Direct Energie Centrale électrique Saint Avold |
+TotalEnergies-Centrale électrique Saint Avold |
 
 FR-new-05803742 |
 

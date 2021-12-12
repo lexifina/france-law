@@ -1447,3 +1447,77 @@ DIJON ENERGIES-Chaufferie des Péjoces |
 12 573 |
 
 94 480 |
+
+FR000000000000629 |
+
+TotalEnergies Raffinage France |
+
+Raffinerie de Provence |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+69 465 |
+
+111 924 |
+
+181 389 |
+
+FR000000000000458 |
+
+NOVACARB
+
+|
+
+NOVACARB |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+720 |
+
+3 738 |
+
+3 666 |
+
+8 124 |
+
+FR000000000001163 |
+
+KNAUF INSULATION LANNEMEZAN |
+
+KNAUF INSULATION LANNEMEZAN |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+6 100 |
+
+7 205 |
+
+13 305 |
