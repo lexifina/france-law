@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SOCIETE PUBLIQUE LOCALE D'AMENAGEMENT PAYS D'AIX TERRITOIRES - OPERATION ZAC DE BARIDA : ACQUISITION D'UN TERRAIN - EMPRUNT DE 3 700 000 EUROS A SOUSCRIRE AUPRES DE LA LYONNAISE DE BANQUE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 80 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-15
+- Séance : Conseil Municipal 1CA
+- Objet : SOCIETE PUBLIQUE LOCALE D'AMENAGEMENT PAYS D'AIX TERRITOIRES - OPERATION ZAC DE BARIDA : ACQUISITION D'UN TERRAIN - EMPRUNT DE 3 700 000 EUROS A SOUSCRIRE AUPRES DE LA LYONNAISE DE BANQUE - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 80 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13365-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
