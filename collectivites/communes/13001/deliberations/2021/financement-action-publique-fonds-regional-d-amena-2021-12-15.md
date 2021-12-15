@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FINANCEMENT ACTION PUBLIQUE - FONDS RÉGIONAL D'AMÉNAGEMENT DU TERRITOIRE (FRAT) 2022 - CUISINE CENTRALE CHANGEMENT DU SYSTÈME DE FROID INTENSE - DEMANDE DE CO-FINANCEMENT AUPRÈS DU CONSEIL RÉGIONAL PROVENCE-ALPES-COTE D'AZUR (PACA)
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-15
+- Séance : Conseil Municipal 1CA
+- Objet : FINANCEMENT ACTION PUBLIQUE - FONDS RÉGIONAL D'AMÉNAGEMENT DU TERRITOIRE (FRAT) 2022 - CUISINE CENTRALE CHANGEMENT DU SYSTÈME DE FROID INTENSE - DEMANDE DE CO-FINANCEMENT AUPRÈS DU CONSEIL RÉGIONAL PROVENCE-ALPES-COTE D'AZUR (PACA)
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13373-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
