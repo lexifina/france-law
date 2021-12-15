@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — APPROBATION DE L'AVENANT N°4 A LA CONVENTION DE GESTION N°17/1038 ENTRE LA METROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNIE D'AIX-EN-PROVENCE AU TITRE DE LA COMPETENCE "SERVICES EXTERIEURS DEFENSE CONTRE INCENDIE"
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2021-12-15
+- Séance : Conseil Municipal 1CA
+- Objet : APPROBATION DE L'AVENANT N°4 A LA CONVENTION DE GESTION N°17/1038 ENTRE LA METROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNIE D'AIX-EN-PROVENCE AU TITRE DE LA COMPETENCE "SERVICES EXTERIEURS DEFENSE CONTRE INCENDIE"
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13362-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
