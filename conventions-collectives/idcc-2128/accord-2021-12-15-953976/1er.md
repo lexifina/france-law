@@ -1,0 +1,3 @@
+# Article 1er
+
+Les dispositions du présent accord sont applicables aux établissements médico-sociaux privés financés par l'État et l'assurance-maladie (établissements pour personnes handicapées, services de soins et d'intervention à domicile (SSIAD), établissements pour publics en difficultés spécifiques). Entrent également dans le champ d'application les établissements et services sociaux et médico-sociaux du secteur privé accueillant des personnes en situation de handicap mentionnés aux 7° et 12° du I de l'article L. 312-1 du code de l'action sociale et des familles et ne relevant pas de l'objectif de dépenses mentionné au I de l'article L. 314-3 du même code.
