@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Détermination du périmètre de développement du réseau de chaleur et de froid Issy Cœur de Ville
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-12-16
+- Matière : URBANISME
+- Objet : Détermination du périmètre de développement du réseau de chaleur et de froid Issy Cœur de Ville
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzODEsInB1ciI6ImJsb2JfaWQifX0=--781d3ce61eb28edba1f0d98fb4dd0d11656c5f24/161221_16.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
