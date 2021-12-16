@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des modifications n°1 au marché n°MA20015 relatif à la fourniture de matériels et d’équipements sportifs pour les lots n°1 et n°2
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-12-16
+- Matière : MOYENS GENERAUX
+- Objet : Approbation des modifications n°1 au marché n°MA20015 relatif à la fourniture de matériels et d’équipements sportifs pour les lots n°1 et n°2
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwODEsInB1ciI6ImJsb2JfaWQifX0=--31da94006e0e8f989a6e7712c5f7f427c3b7b305/161221_39.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
