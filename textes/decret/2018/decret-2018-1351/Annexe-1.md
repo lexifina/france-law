@@ -36,11 +36,9 @@ Décret n° 83-1260 du 30 décembre 1983 fixant les dispositions statutaires com
 
 Décret n° 84-431 du 6 juin 1984 modifié, fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences
 
-Décret n° 84-135 du 24 février 1984 modifié, portant statut des personnels enseignants et hospitaliers des centres hospitaliers et universitaires
-
 Décret n° 87-889 du 29 octobre 1987 relatif aux conditions de recrutement et d'emploi de vacataires pour l'enseignement supérieur
 
-Décret n° 90-92 du 24 janvier 1990 modifié, portant statut des personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires
+Décret n° 2021-1645 du 13 décembre 2021 relatif au personnel enseignant et hospitalier des centres hospitaliers et universitaires.
 
 Décret n° 2008-744 du 28 juillet 2008 modifié, portant dispositions relatives aux personnels enseignants des universités, titulaires et non titulaires de médecine générale
 

@@ -20,11 +20,11 @@ Agents non titulaires :
 
 -ingénieurs et spécialistes régis par le décret n° 59-1405 du 9 décembre 1959 modifié.
 
--attachés scientifiques et contractuels régis par le décret n° 80-479 du 27 juin 1980.
+-attachés scientifiques et contractuels régis par le décret n° 80-479 du 27 juin 1980 .
 
--professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984 et de la loi n° 85-1223 du 22 novembre 1985.
+-professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984 et de la loi n° 85-1223 du 22 novembre 1985 .
 
--allocataires de recherche régis par le décret n° 85-402 du 3 avril 1985 modifié par le décret n° 92-339 du 30 mars 1992.
+-allocataires de recherche régis par le décret n° 85-402 du 3 avril 1985 modifié par le décret n° 92-339 du 30 mars 1992 .
 
 -moniteurs et allocataires-moniteurs normaliens régis par le décret n° 89-794 du 30 octobre 1989 modifié.
 
@@ -48,11 +48,7 @@ Agents non titulaires :
 
 Enseignement supérieur, recherche et affaires sociales :
 
--personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le décret n° 84-135 du 24 février 1984 modifié.
-
--personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires, régis par le décret n° 90-92 du 24 janvier 1990 modifié.
-
--professeurs du premier et du deuxième grade de chirurgien dentaire-odontologiste des services de consultations et de traitement dentaire, régis par le décret n° 65-803 du 22 septembre 1965 modifié.
+-membres du personnel enseignant et hospitalier des centres hospitaliers et universitaires, régis par le décret n° 2021-1645 du 13 décembre 2021 relatif au personnel enseignant et hospitalier des centres hospitaliers et universitaires.
 
 personnels enseignants des universités, titulaires et non titulaires de médecine générale, régis par le décret n° 2008-744 du 28 juillet 2008.
 
@@ -74,17 +70,17 @@ Corps de fonctionnaires :
 
 -personnels scientifiques du Centre national d'études vétérinaires et alimentaires régis par le décret n° 64-642 du 29 juin 1964 modifié.
 
--enseignants-chercheurs des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture régis par le décret n° 92-171 du 21 février 1992.
+-enseignants-chercheurs des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture régis par le décret n° 92-171 du 21 février 1992 .
 
--ingénieurs, assistants ingénieurs et techniciens régis par le décret n° 95-370 du 6 avril 1995.
+-ingénieurs, assistants ingénieurs et techniciens régis par le décret n° 95-370 du 6 avril 1995 .
 
--techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996.
+-techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996 .
 
 Agents non titulaires :
 
--personnels associés ou invités dans les établissements d'enseignement supérieur et de la recherche relevant du ministre chargé de l'agriculture, régis par le décret n° 95-621 du 6 mai 1995.
+-personnels associés ou invités dans les établissements d'enseignement supérieur et de la recherche relevant du ministre chargé de l'agriculture, régis par le décret n° 95-621 du 6 mai 1995 .
 
--assistants d'enseignement et de recherche contractuels des établissements d'enseignement supérieur publics relevant du ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 1991.
+-assistants d'enseignement et de recherche contractuels des établissements d'enseignement supérieur publics relevant du ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 1991 .
 
 -autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
@@ -96,13 +92,13 @@ Corps de fonctionnaires :
 
 -Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
 
--Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
+-Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007 .
 
 -Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 2012-1002 du 29 août 2012.
 
--Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
+-Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967 .
 
--Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
+-Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Mines-Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 .
 
 Agents non titulaires
 
@@ -144,7 +140,7 @@ Agents non titulaires :
 
 Personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
 
--règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement mentionné à l'article 127 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005 ;
+-règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement mentionné à l' article 127 de la loi n° 2005-1720 du 30 décembre 2005 de finances rectificative pour 2005 ;
 
 -décision du 18 mars 1992 instituant le règlement intérieur national des agents du niveau de la catégorie A du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat ;
 

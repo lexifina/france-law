@@ -48,11 +48,7 @@ Agents non titulaires :
 
 ENSEIGNEMENT SUPERIEUR, RECHERCHE ET AFFAIRES SOCIALES
 
-Personnels enseignants et hospitaliers des centres hospitaliers et universitaires régis par le décret n° 84-135 du 24 février 1984 modifié.
-
-Personnels enseignants et hospitaliers des centres de soins d'enseignement et de recherche dentaires des centres hospitaliers et universitaires régis par le décret n° 90-92 du 24 janvier 1990 modifié.
-
-Professeurs du 1er et du 2e grade de chirurgien dentaire-odontologiste des services de consultations et de traitement dentaire régis par le décret n° 65-803 du 22 septembre 1965 modifié.
+Membres du personnel enseignant et hospitalier régis par le décret n° 2021-1645 du 13 décembre 2021 relatif au personnel enseignant et hospitalier des centres hospitaliers et universitaires.
 
 AGRICULTURE, PÊCHE ET ALIMENTATION
 
