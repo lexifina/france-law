@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Vœu demandant l’annulation, dans le Projet de Loi de Finances 2022, du mécanisme de transfert des deux-tiers de la dynamique de Cotisation Foncière des Entreprises (CFE) des Établissements Publics Territoriaux à la Métropole du Grand Paris (MGP).
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-12-16
+- Matière : ADMINISTRATION GENERALE
+- Objet : Vœu demandant l’annulation, dans le Projet de Loi de Finances 2022, du mécanisme de transfert des deux-tiers de la dynamique de Cotisation Foncière des Entreprises (CFE) des Établissements Publics Territoriaux à la Métropole du Grand Paris (MGP).
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzNzYsInB1ciI6ImJsb2JfaWQifX0=--b933768913e6756d19195d87e20fe94b9983fd60/161221_1.1.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
