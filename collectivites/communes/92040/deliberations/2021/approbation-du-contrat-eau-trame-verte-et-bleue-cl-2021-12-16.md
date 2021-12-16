@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du Contrat Eau, Trame Verte et Bleue, Climat, et de la Charte Trame Verte et Bleue des Plaines et Coteaux la Seine centrale urbaine pour la période 2022-2024
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-12-16
+- Matière : DEVELOPPEMENT DURABLE
+- Objet : Approbation du Contrat Eau, Trame Verte et Bleue, Climat, et de la Charte Trame Verte et Bleue des Plaines et Coteaux la Seine centrale urbaine pour la période 2022-2024
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MzYsInB1ciI6ImJsb2JfaWQifX0=--2fa3011a290fbf3cd19cedd2e76507f196813e34/161221_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
