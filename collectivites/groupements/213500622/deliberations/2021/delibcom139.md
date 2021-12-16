@@ -1,0 +1,8 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM139 — ACQUISITION BANDE DE TERRAIN SUR PARCELLE BH 99 POUR CREATION LIAISON DOUCE
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2021-12-16
+- Matière : 8.4 Domaines de competences par themes/Amenagement du territoire
+- Objet : ACQUISITION BANDE DE TERRAIN SUR PARCELLE BH 99 POUR CREATION LIAISON DOUCE
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
