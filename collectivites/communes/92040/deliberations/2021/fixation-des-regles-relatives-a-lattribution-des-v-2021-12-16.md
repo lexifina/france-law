@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation des règles relatives à l’attribution des véhicules de service aux élus
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-12-16
+- Matière : MOYENS GENERAUX
+- Objet : Fixation des règles relatives à l’attribution des véhicules de service aux élus
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3MzksInB1ciI6ImJsb2JfaWQifX0=--87dff12c9c816c9bdd9cfd2bbb13170bd8aab6e1/161221_38.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
