@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres ouvert pour la fourniture de denrées alimentaires dans les structures d’accueil de la petite enfance
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2021-12-16
+- Matière : PETITE ENFANCE
+- Objet : Lancement d’un appel d’offres ouvert pour la fourniture de denrées alimentaires dans les structures d’accueil de la petite enfance
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NzUsInB1ciI6ImJsb2JfaWQifX0=--aae99b0281c8f18a8a1af238fa3cfc108b09a419/161221_36.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
