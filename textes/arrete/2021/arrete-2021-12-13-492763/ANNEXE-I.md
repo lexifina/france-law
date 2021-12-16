@@ -1,30 +1,20 @@
-# Article Annexe I
+# Article ANNEXE I
 
 CHIRURGIE
 
-Tableau 1
-
-Liste des prérequis à remplir
+Tableau 1. - Liste des prérequis à remplir
 
 Spécialité :
 
-CRITÈRES
+CRITÈRES |
 
-|
-
-EXISTENCE
-
-|
+EXISTENCE |
 
 Activité chirurgicale globale de l'établissement (source = CCAM).
 
-Nombre d'interventions réalisées par an 2000
+Nombre d'interventions réalisées par an 2000 |
 
-|
-
-OUI/NON
-
-|
+OUI/NON |
 
 sauf dérogation exceptionnelle accordée par le DARH après avis du CNC.
 
@@ -32,107 +22,61 @@ Organisation du temps de travail médical :
 
 Existence d'un tableau de service mensuel :
 
-― prévisionnel
+- prévisionnel |
 
-|
+OUI/NON |
 
-OUI/NON
+- réalisé |
 
-|
+OUI/NON |
 
-― réalisé
+Le repos quotidien est assuré (sauf circonstances exceptionnelles) |
 
-|
-
-OUI/NON
-
-|
-
-Le repos quotidien est assuré (sauf circonstances exceptionnelles)
-
-|
-
-OUI/NON
-
-|
+OUI/NON |
 
 Lutte contre les infections nosocomiales :
 
 Mise en œuvre des éléments suivants :
 
-Protocole antibioprophylaxie
+Protocole antibioprophylaxie |
 
-|
+OUI/NON |
 
-OUI/NON
+Protocole préparation opérés |
 
-|
+OUI/NON |
 
-Protocole préparation opérés
+Programme de surveillance des BMR |
 
-|
+OUI/NON |
 
-OUI/NON
+Surveillance des postes de lavage des mains |
 
-|
+OUI/NON |
 
-Programme de surveillance des BMR
+Surveillance traitement de l'air |
 
-|
+OUI/NON |
 
-OUI/NON
+Protocole AES (accidents d'exposition au sang) |
 
-|
+OUI/NON |
 
-Surveillance des postes de lavage des mains
+Surveillance des infections du site opératoire |
 
-|
+OUI/NON |
 
-OUI/NON
+Déclaration des infections nosocomiales |
 
-|
-
-Surveillance traitement de l'air
-
-|
-
-OUI/NON
-
-|
-
-Protocole AES (accidents d'exposition au sang)
-
-|
-
-OUI/NON
-
-|
-
-Surveillance des infections du site opératoire
-
-|
-
-OUI/NON
-
-|
-
-Déclaration des infections nosocomiales
-
-|
-
-OUI/NON
-
-|
+OUI/NON |
 
 Si une des réponses est négative, le contrat d'engagement ne peut être signé.
 
-Tableau 2
-
-Mode d'emploi
+Tableau 2. - Mode d'emploi
 
 Le contrat détermine les objectifs d'activité et de qualité sur la base des indicateurs suivants :
 
-I. ― Objectifs d'activité
+I. - Objectifs d'activité
 
 L'activité opératoire de l'équipe :
 
@@ -146,7 +90,7 @@ Pour chacun de ces actes, il est mesuré la proportion d'actes réalisés en amb
 
 L'activité de consultations.
 
-II. ― Objectifs de qualité
+II. - Objectifs de qualité
 
 Accréditation (prévue à l'article L. 4135-1 du code de la santé publique) :
 
@@ -174,11 +118,9 @@ Principes de cotation :
 
 Si l'objectif est atteint : il est attribué le nombre de points maximum prévu par la grille.
 
-Tableau 3
+Tableau 3. - Liste des actes ambulatoires et actes traceurs retenus
 
-Liste des actes ambulatoires et actes traceurs retenus
-
-Nota. ― Les actes ambulatoires sont soulignés.
+Nota. - Les actes ambulatoires sont soulignés.
 
 CHIRURGIE THORACIQUE
 
@@ -226,7 +168,7 @@ Ostéotomie de l'extrémité supérieure du fémur.
 
 Fixation épiphysiolyse.
 
-Ostéotomie du bassin (Chiari, Salter, Triple, Dega...).
+Ostéotomie du bassin (Chiari, Salter, Triple, Dega…).
 
 Epiphysiodèse.
 
@@ -464,81 +406,59 @@ Traitement pour fracture grave de la ceinture pelvienne.
 
 Réimplantation des doigts.
 
-Tableau 4
-
-Grille d'appréciation des critères d'attribution
+Tableau 4. - Grille d'appréciation des critères d'attribution
 
 Spécialité :
 
-CRITÈRES
+CRITÈRES |
 
-|
-
-MESURE
-
-|
+MESURE |
 
 OBJECTIFS D'ACTIVITÉ
 
 (Source = CCAM)
 
-Volume global d'activité de l'équipe.
-
-|
+Volume global d'activité de l'équipe. |
 
 |
 
 Nombre total d'interventions rapporté au nombre de chirurgiens intervenant au bloc (en ETP).
 
-(Source : Cahier de bloc .)
-
-|
+(Source : Cahier de bloc.) |
 
 Niveau fixé contractuellement.
 
-Révisable annuellement.
-
-|
+Révisable annuellement. |
 
 Part d'activité ambulatoire.
 
-Nombre total et part des actes réalisés en ambulatoire pour les actes retenus :
-
-― acte 1
+Nombre total et part des actes réalisés en ambulatoire pour les actes retenus : |
 
 |
 
-|
-
-― acte 2
+- acte 1 |
 
 |
 
-|
-
-― acte 3
+- acte 2 |
 
 |
 
-|
-
-― acte 4
+- acte 3 |
 
 |
 
-|
-
-(Source = PMSI.)
+- acte 4 |
 
 |
+
+(Source = PMSI.) |
 
 |
 
 Activité de consultations.
 
-Nombre total de consultations.
-
-|
+Nombre total de consultations. |
 
 |
 
@@ -546,84 +466,268 @@ OBJECTIFS DE QUALITÉ
 
 Accréditation :
 
-Obtention du certificat d'accréditation ou de renouvellement d'accréditation
+Obtention du certificat d'accréditation ou de renouvellement d'accréditation |
 
-|
-
-OUI/NON
-
-|
+OUI/NON |
 
 Indicateur de prévention des risques :
 
-Mise en œuvre d'un protocole de prévention du risque (ex. : prévention du risque thrombo-embolique)
+Mise en œuvre d'un protocole de prévention du risque (ex. : prévention du risque thrombo-embolique) |
 
-|
-
-OUI/NON
-
-|
+OUI/NON |
 
 Analyse des actes traceurs :
 
-Actes retenus :
-
-― acte 1
+Actes retenus : |
 
 |
 
-|
-
-― acte 2
+- acte 1 |
 
 |
 
-|
-
-― acte 3
+- acte 2 |
 
 |
+
+- acte 3 |
 
 |
 
 Items d'analyse des actes traceurs (source : PMSI) :
 
-Taux de reprise des actes dont la primo-intervention a eu lieu dans l'établissement < valeur de référence.
-
-|
+Taux de reprise des actes dont la primo-intervention a eu lieu dans l'établissement < valeur de référence. |
 
 Valeur de référence fixée contractuellement.
 
-Révisable annuellement.
+Révisable annuellement. |
+
+Transfusions réalisées < référence. |
 
 |
 
-Transfusions réalisées < référence.
+Durée moyenne de séjour < référence. |
 
 |
 
-|
-
-Durée moyenne de séjour < référence.
+Pourcentage d'infections nosocomiales < référence. |
 
 |
 
-|
-
-Pourcentage d'infections nosocomiales < référence.
-
-|
-
-|
-
-Tableau 5
-
-Grille de cotation à appliquer
+Tableau 5. - Grille de cotation à appliquer
 
 Spécialité :
 
-Vous pouvez consulter le tableau dans le
+CRITERES |
 
-JOn° 241 du 15/10/2008 texte numéro 21
+OBJECTIF
+
+A REALISER |
+
+REALISE |
+
+COTATION
+
+MAXIMALE |
+
+NOMBRE DE POINTS
+
+OBTENUS |
+
+ACTIVITE |
+
+|
+
+|
+
+|
+
+|
+
+activité opératoire
+
+nb total interventions/nb total chirurgiens |
+
+|
+
+|
+
+5 |
+
+|
+
+activité ambulatoire |
+
+|
+
+|
+
+3 |
+
+|
+
+acte 1 |
+
+nb total
+
+% en ambulatoire |
+
+acte 2 |
+
+nb total
+
+% en ambulatoire |
+
+acte 3 |
+
+nb total
+
+% en ambulatoire |
+
+acte 4 |
+
+nb total
+
+% en ambulatoire |
+
+activité de consultations
+
+nb total consultations |
+
+|
+
+|
+
+2 |
+
+|
+
+TOTAL ACTIVITE (1) |
+
+10 |
+
+|
+
+accréditation |
+
+certificat obtenu |
+
+|
+
+5 |
+
+|
+
+prévention des risques
+
+protocole retenu : |
+
+Mise en œuvre d'un protocole de prévention des risques |
+
+|
+
+0,5 |
+
+|
+
+acte traceur 1 |
+
+|
+
+|
+
+|
+
+|
+
+item 1
+
+item 2
+
+item 3 |
+
+|
+
+|
+
+0,5
+
+0,5
+
+0,5 |
+
+|
+
+acte traceur 2 |
+
+|
+
+|
+
+|
+
+|
+
+item 1
+
+item 2
+
+item 3 |
+
+|
+
+|
+
+0,5
+
+0,5
+
+0,5 |
+
+|
+
+acte traceur 3 |
+
+|
+
+|
+
+|
+
+|
+
+item 1
+
+item 2
+
+item 3 |
+
+|
+
+|
+
+0,5
+
+0,5
+
+0,5 |
+
+|
+
+TOTAL QUALITE (2) |
+
+10 |
+
+|
+
+SCORE GENERAL = (1) + [ (1) x (2) / 10]
+
+à la double condition que :
+
+(1) > = 6 points (2) > = 6 points |
+
+20 |
+
+|
 
 Activité : pour les spécialités où l'activité ambulatoire n'existe pas, il convient de coter l'activité opératoire sur 7 points et l'activité de consultation sur 3 points.
