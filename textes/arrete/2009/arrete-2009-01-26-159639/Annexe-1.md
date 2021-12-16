@@ -112,7 +112,7 @@ Service d'information du Gouvernement
 
 |
 
-Chef du bureau de l'administration générale
+Secrétaire général
 
 |
 
