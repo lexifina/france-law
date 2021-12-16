@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210523041
+
+- Question : [SEQ210523041](seq210523041.md) — Coordination des travaux de voirie entre État et collectivités territoriales
+
+## Réponse
+
+*Transports, JO du 2021-12-16, page 6947*
+
+Dans le cadre de leurs missions, les directions interdépartementales des routes (DIR) sont chargées de l'entretien des chaussées sur le réseau routier national, y compris dans la traversée des agglomérations. Les travaux d'entretien des chaussées des DIR sont programmés dans le cadre de programme d'amélioration d'itinéraire pour une période de 3 à 4 ans sur la base du relevé de l'état des chaussées IQRN 3D (Image qualité du réseau routier national) réalisé par le centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA). Ces travaux sont réalisés par itinéraire souvent en traversée d'agglomération mais également sur des sections en dehors des agglomérations pour optimiser les travaux. Les DIR informent en amont des travaux les collectivités concernées. Dans le cadre de ces programmes, la collectivité peut bien entendu en profiter pour réaliser des travaux sur les trottoirs, ou aux abords de la route. Dans ce cadre, des conventions peuvent être établies entre la DIR et la collectivité pour un partage de maîtrise d'ouvrage et un cofinancement par la collectivité et la DIR du programme d'entretien commun. Ces processus nécessitent une forte anticipation afin de trouver un accord entre les parties et de permettre l'adoption et signature des conventions dans des délais appropriés pour la réalisation des travaux prévus. En revanche, s'agissant de travaux d'entretien urgent des chaussées, ils ne sauraient être retardés faute d'accord entre les parties. Au-delà, la collectivité peut bien évidemment profiter des travaux des DIR pour réaliser les siens de manière coordonnée avec ceux des DIR.
