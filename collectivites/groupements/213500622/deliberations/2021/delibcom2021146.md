@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM2021146 — SUBVENTION A L'ASSOCIATION DES ENTREPRISES DE LA ZONE ACTIVITE DE CIMETTE  "CIMETTE EN FETE"
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2021-12-16
+- Matière : 7.5 Finances locales/Subventions
+- Objet : SUBVENTION A L'ASSOCIATION DES ENTREPRISES DE LA ZONE ACTIVITE DE CIMETTE  "CIMETTE EN FETE"
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2021/151578/9f4d8f81e1deb67e5f03494d0294961fac8e78ca4d1f5ae27fd0260a26ae3132.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
