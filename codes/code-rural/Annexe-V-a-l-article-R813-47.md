@@ -1,63 +1,43 @@
 # Article Annexe V à l'article D813-47
 
-Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2014 conformément au tableau ci-dessous :
-
-RYTHME APPROPRIE
+Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2021 conformément au tableau ci-dessous :
 
 |
 
-|
-
-Par alternance
+Rythme approprié |
 
 |
 
-Par une autre méthode
+Par alternance |
 
-pédagogique
+Par une autre méthode pédagogique |
 
-|
+Cycle court
 
-Cycle court : 4e, 3e
+4e, 3e |
 
-|
+1,5 |
 
-1,30
+1,77 |
 
-|
+CAPA |
 
-1,77
+1,95 |
 
-|
+1,95 |
 
-CAPA, BEPA
+Cycle long
 
-|
+Baccalauréat |
 
-1,95
+2 |
 
-|
+2 |
 
-1,95
+Cycle supérieur court
 
-|
+BTSA |
 
-Cycle long :
+2 |
 
-baccalauréat
-
-|
-
-2
-
-|
-
-Cycle supérieur court :
-
-BTSA
-
-|
-
-2
-
-|
+2 |
