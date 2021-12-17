@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord a vocation à s'appliquer à l'ensemble du personnel des régies de quartier, de territoire, du comité national de liaison des régies de quartiers, des groupements d'employeurs de régies et des associations et œuvrant dans les mêmes finalités, dès lors qu'il est placé en situation de télétravail sous réserve de respecter les conditions requises et définies dans cet accord, et ce, quelle que soit la nature de leur contrat et l'emploi qu'il occupe. Le présent accord est applicable sur l'ensemble du territoire national français y compris les départements d'Outre-Mer.
