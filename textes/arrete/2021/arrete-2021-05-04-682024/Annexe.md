@@ -4,7 +4,7 @@ Annexe non reproduite.
 
 NOTA :
 
-Le tableau national de répartition des bandes de fréquences est consultable et téléchargeable sur le site internet de l'Agence nationale des fréquences à l'adresse suivante :
+Les annexes modificatives et le tableau national de répartition des bandes de fréquences, dans sa version consolidée, sont consultables et téléchargeables sur le site internet de l'Agence nationale des fréquences à l'adresse suivante :
 
 https://www.anfr.fr/gestion-des-frequences-sites/tnrbf/
 
