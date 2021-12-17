@@ -90,6 +90,30 @@ Taillefontaine |
 
 AM 6 en partie, AM 7, AM 21 en partie |
 
+|
+
+Maison forestière de Blessis |
+
+Saint-Michel |
+
+A 249 en partie, A 250 |
+
+|
+
+Maison forestière Epinois |
+
+Amigny Rouy |
+
+AD 29 en partie, AD 30, AD 31 |
+
+|
+
+Maison forestière Rond d'Orléans |
+
+Sinceny |
+
+000 E 173,000 E 176,000 E 177 |
+
 Allier (03)
 
 |
@@ -173,6 +197,14 @@ Maison forestière de Chatillon, garage et dépendances |
 Vieure |
 
 C 0757 en partie, C 0758, C 0759 |
+
+|
+
+Maison forestière Boisjaumal |
+
+Bellenaves |
+
+AX 0003 en partie, AX 0004 |
 
 Alpes-de-Haute-Provence (04)
 
@@ -416,6 +448,14 @@ Les Hautes rivieres |
 
 A 132 en partie, A 134, A 161 en partie |
 
+|
+
+Maison forestière Champ Bernard |
+
+Thilay |
+
+B 132, B 133 en partie |
+
 Aube (10)
 
 |
@@ -624,6 +664,14 @@ F15, F16 en partie afin de constituer une superficie permettant un usage normal 
 
 |
 
+|
+
+Maison forestière Pont Bourdin |
+
+Saint Léger Triey |
+
+D 162, D 165 en partie |
+
 Doubs (25) |
 
 Maison forestière du Rondé |
@@ -692,6 +740,14 @@ Bouvante |
 
 AI 56 en partie |
 
+|
+
+Ecole de Lente |
+
+Bouvante |
+
+AI 56 en partie |
+
 Eure (27)
 
 |
@@ -738,6 +794,24 @@ B 24 en partie,
 
 B 25 en partie |
 
+Maison forestière Belleface |
+
+Lyons la Foret |
+
+E 154 en partie |
+
+Maison forestière de La Lande |
+
+Lyons la Foret |
+
+E 156 en partie |
+
+Maison forestière Les Hogues |
+
+Hogues |
+
+A 357 en partie, A 358 |
+
 Eure-et-Loir (28)
 
 |
@@ -775,6 +849,14 @@ K 28
 K 29 en partie
 
 |
+
+|
+
+Maison forestière de la Caneterie |
+
+Senonches |
+
+L 0030 en partie, L 0031, L 0032 |
 
 Finistère (29)
 
@@ -1034,6 +1116,18 @@ Ferriere-sur-Beaulieu |
 
 B 012 en partie (future B 102), B 013 en partie (future B 103), B 014 |
 
+Maison forestière La Plotterie |
+
+Genillé |
+
+N 106 en partie, N 108 en partie, N 140 |
+
+Maison forestière Turpenay |
+
+Saint Benoit la Foret |
+
+A 0216, A 0217 en partie, A 0218 |
+
 Isère (38)
 
 |
@@ -1138,6 +1232,14 @@ V 44 en partie,
 
 V46 |
 
+|
+
+Maison forestière des Hournails |
+
+Mimizan |
+
+G 28 |
+
 Loir-et-Cher (41)
 
 |
@@ -1175,6 +1277,14 @@ Maison forestière de Thoury |
 Thoury |
 
 D10 en partie, D11 en partie, D12 en partie, D 13, D14, D 107 |
+
+|
+
+Maison forestière Les Allées |
+
+Blois |
+
+DS 0052 en partie, DS 0053, DS 0054 |
 
 Loire-Atlantique (44)
 
@@ -1384,6 +1494,38 @@ Neuville-aux-Bois |
 
 K 130 en partie, K 131, K 132 |
 
+|
+
+Maison forestière Courcy |
+
+Courcy aux Loges |
+
+AB 74, AB 75 en partie |
+
+|
+
+Maison forestière La Noue des Gastils |
+
+Chilleurs aux Bois |
+
+F 0236 et F 0237 |
+
+|
+
+Maison forestière Les Chemeaux |
+
+Loury |
+
+A 554, A 555 en partie, A 556 en partie |
+
+|
+
+Maison forestière Trainou |
+
+Trainou |
+
+A 0056, A 0054 en partie |
+
 Lozère (48)
 
 |
@@ -1425,6 +1567,14 @@ Bassurels |
 F 26, F 27, F 28, F 29, F 30, F 31, F 34, F 35, F 36, F 37
 
 |
+
+|
+
+Maison forestière Du Chêne Rond |
+
+Gennes-Val-de-Loire |
+
+149 D 119 en partie |
 
 Marne (51)
 
@@ -1758,6 +1908,14 @@ C7, C18 en partie afin de constituer une superficie permettant un usage normal d
 
 |
 
+|
+
+Maison forestière Haudronville |
+
+Lachaussee |
+
+E 45, E 46 en partie |
+
 Moselle (57)
 
 |
@@ -2008,6 +2166,14 @@ Halstroff |
 
 Section 2 parcelle 146 |
 
+|
+
+Maison forestière Lorois |
+
+Gerbecourt |
+
+Section 7 parcelle 1 en partie |
+
 Nièvre (58)
 
 |
@@ -2083,6 +2249,22 @@ Obies
 A208 en partie et A209 en partie dans la limite du jardin attenant, A210 et A211
 
 |
+
+|
+
+Maison forestière Grand Coin |
+
+Saint Amand les Eaux |
+
+C683 en partie, C 684 |
+
+|
+
+Maison forestière Le Parc |
+
+Morbecque |
+
+E 121 en partie, E 122, E 123 en partie |
 
 Oise (60)
 
@@ -2396,6 +2578,22 @@ Chamant |
 
 D 46 en partie, D 47 en partie |
 
+|
+
+Maison forestière de Maison Blanche |
+
+Fontaine Chaalis |
+
+E 102 en partie |
+
+|
+
+Maison forestière Saint Sauveur |
+
+Saint Sauveur |
+
+A 8, A 9 en partie |
+
 Orne (61)
 
 |
@@ -2510,7 +2708,7 @@ Maison forestière de la Herse
 
 Belforêt-en-Perche |
 
-154 E 01 parcelle 10 en partie et 154 E 01 parcelle 11 |
+154 E 10 en partie, 154 E 11,154 E 12,154 E 13 en partie |
 
 |
 
@@ -2521,6 +2719,48 @@ Maison forestière Le Canard
 L'orée d'Ecouves |
 
 172 ZB 01 parcelle 136 |
+
+|
+
+Maison forestière La Ferriere Bechet |
+
+La Ferrière-Béchet |
+
+AM 50, AM 51, AM 52 en partie |
+
+|
+
+Maison forestière La Mare Bodin |
+
+La Ferriere au Doyen |
+
+B 37 en partie, B 38 |
+
+|
+
+Maison forestière Le Ravalier |
+
+Belforêt en Perche |
+
+Préfixe 325, Section E parcelle 1 en partie,
+
+Préfixe 325, Section E, parcelles 2,3,4 |
+
+|
+
+Maison forestière L'Epinette |
+
+La Ferté-Macé |
+
+H 42 en partie, H 43 |
+
+|
+
+Maison forestière Les Loges |
+
+Champsecret |
+
+O 151, O 170, O 212 en partie, O 218 en partie, O 219 en partie |
 
 Pas-de-Calais (62)
 
@@ -2585,6 +2825,22 @@ Maison forestière de Winsquedal
 Tournehem-sur-la-Hem |
 
 C 0016 et C 0017 |
+
+|
+
+Maison forestière Aubin Saint Vaast |
+
+Huby Saint Leu |
+
+B 11 en partie, B 12, B 13 |
+
+|
+
+Maison forestière de Grosse Borne |
+
+Arques |
+
+B10 en partie, B11, B12 |
 
 Puy-de-Dôme (63)
 
@@ -2894,6 +3150,30 @@ Saverne |
 
 D 6 en partie |
 
+|
+
+Maison forestière de Freudeneck |
+
+Wangenbourg-Engenthal |
+
+Section 518 04 parcelle 239 en partie |
+
+|
+
+Maison forestière de Sandlach |
+
+Haguenau |
+
+NH 159 |
+
+|
+
+Maison forestière de Zundelkopf |
+
+Le Hohwald |
+
+Section 01 parcelle 191 en partie, section 01 parcelle 192 |
+
 Haut-Rhin (68)
 
 |
@@ -2919,6 +3199,22 @@ Maison forestière de l'ile Napoleon et annexe
 Rixheim |
 
 AO6 en partie |
+
+|
+
+Maison forestière de Salzlecke |
+
+Baldersheim |
+
+Section 18 parcelle 20 en partie |
+
+|
+
+Maison forestière de Schlierbach |
+
+Schlierbach |
+
+Section 25 parcelle 25 |
 
 Saône-et-Loire (71) |
 
@@ -2999,6 +3295,14 @@ Maison forestière de Chédouet
 Villeneuve-en-Perseigne |
 
 A831 en partie, D 18, D 19, D 20 en partie |
+
+|
+
+Maison forestière La Bosse |
+
+Saint Symphorien |
+
+A 0088, A 0089, A0090, A 0091 |
 
 Savoie (73)
 
@@ -3268,6 +3572,50 @@ Saint-Martin-au-Bosc |
 
 A 647 en partie, A 965 |
 
+|
+
+Maison forestière De La Poterie |
+
+La Feuillie |
+
+L 152 en partie |
+
+|
+
+Maison forestière La Haye De Gauville |
+
+Rives en Seine |
+
+Préfixe 659 Section C parcelle 28 en totalité,
+
+Préfixe 659 Section C parcelle 30 en partie |
+
+|
+
+Maison forestière La Mare Terreuse |
+
+Canteleu |
+
+BN 126 |
+
+|
+
+Maison forestière Le Manoir du Val |
+
+Freulleville |
+
+C 12 en partie, C 29 en partie |
+
+|
+
+Maison forestière Les Caillettes |
+
+Rives en Seine |
+
+Préfixe 659 Section AH parcelle 52,
+
+Préfixe 659 Section AH parcelle 10 |
+
 Seine-et-Marne (77)
 
 |
@@ -3383,6 +3731,30 @@ Pavillon extérieur de la Faisanderie
 Fontainebleau |
 
 AX 79 en partie |
+
+|
+
+Maison forestière de Courbuisson |
+
+Fontainebleau |
+
+M 79 en partie, M 470 en partie |
+
+|
+
+Maison forestière des Abbesses |
+
+Jouarre |
+
+H 148 en partie, H 149, H 150 en partie |
+
+|
+
+Maison forestière Les Bordes |
+
+Faremoutiers |
+
+C 111, C 112, C 113 en partie |
 
 Yvelines (78)
 
@@ -3756,7 +4128,7 @@ Maison forestière des Grands Coins |
 
 Saint-Léger-en-Yvelines |
 
-D 401, D 402 |
+D 400 en partie, D 401, D 402 |
 
 Deux-Sèvres (79)
 
@@ -3801,6 +4173,14 @@ Villiers-en-Bois
 A242-A243
 
 |
+
+Somme (80) |
+
+Maison forestière Forest Montiers |
+
+Forest Montiers |
+
+B 22 en partie, B 318 |
 
 Tarn (81)
 
@@ -3904,7 +4284,7 @@ Gîte de Brantes
 
 Brantes |
 
-D 0157 |
+D 0157, D 0251, D 0334, D 0336 |
 
 Vendée (85) |
 
@@ -3961,6 +4341,14 @@ Maison forestière du Schmalik
 Ban-sur-Meurthe-Clefcy |
 
 AW 25, AZ 8 en partie |
+
+|
+
+Maison forestière du Grand Fays |
+
+Moyenmoutier |
+
+C12, C 13, C 14 |
 
 Essonne (91)
 
@@ -4098,7 +4486,7 @@ Maison forestière Le Bois Corbon Sud
 
 Saint-Prix |
 
-AO 28, AO 29 en partie |
+AO 28, AO 29 en partie, AO 31 en partie, AO 36 en partie |
 
 |
 
