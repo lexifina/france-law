@@ -1,0 +1,121 @@
+# Article 1er
+
+L'article 6.1 du titre 6 de la convention collective des régies de quartier est remplacé comme suit :
+
+« Article 6.1 du titre 6
+
+Commission paritaire permanente de négociation et d'interprétation. »
+
+Les autres dispositions du titre 6 demeurent inchangées.
+
+Cette CPPNI se substitue à la commission paritaire nationale de négociation précédemment existante. Elle joue un rôle d'animatrice du dialogue social.
+
+Missions de la commission
+
+La commission paritaire permanente de négociation et d'interprétation exerce les missions définies par la loi et notamment :
+
+– réunir ses membres afin de mener les négociations au niveau de la branche et définir le calendrier de négociation ;
+
+– assurer une veille sur les conditions de travail et l'emploi ;
+
+– assurer une mission de veille sur la santé des salariés de la branche ;
+
+– garantir le fonctionnement de l'observatoire paritaire de la négociation collective en application de l'article L. 2232-10 du code du travail, au titre duquel les entreprises sont tenues de lui transmettre les accords d'entreprise conclus ;
+
+– rendre, à chaque fois que nécessaire, des avis interprétatifs sur les dispositions de la convention collective des régies de quartier, que ce soit à la demande d'une structure, d'un salarié ou d'une juridiction dans les conditions de l'article L. 441-1 du code de l'organisation judiciaire.
+
+Organisation de la commission
+
+Composition
+
+Elle sera composée paritairement par les organisations syndicales représentatives au niveau de la branche et le syndicat des employeurs des régies de quartier (Serq).
+
+La commission comprend deux représentants de chaque organisation syndicale représentative de salariés dans la branche et un nombre de représentants du Serq égal au total des représentants salariés.
+
+Présidence
+
+Les réunions de la commission sont co-présidées par un représentant de chacun des collèges : employeur et organisation syndicale. À charge chaque année pour les organisations syndicales de s'accorder sur la désignation de leur représentant.
+
+La présidence assure la préparation et la tenue des réunions.
+
+Secrétariat
+
+La commission est domiciliée au siège du syndicat employeur des régies de quartier, qui en assure le secrétariat.
+
+Les missions du secrétariat consistent à :
+
+– assurer l'organisation et la logistique des réunions organisées (date, lieu, repas) ;
+
+– assurer la transmission et la réception de tous documents entrant dans son champ d'intervention et de compétence tant aux organisations syndicales représentatives qu'au Serq ;
+
+– rédiger des comptes rendus des réunions de la commission et les avis rendus par cette dernière dans le cadre de ses attributions consultatives et en assurer le suivi administratif de leur signature ;
+
+– accuser réception des demandes d'avis transmises par les structures ou les salariés ;
+
+– établir le rapport annuel d'activité de la branche pour validation de la commission ;
+
+– réceptionner et compiler les accords transmis par les structures au titre de l'observatoire de la négociation collective.
+
+L'adresse postale du secrétariat est la suivante :
+
+Commission paritaire permanente de négociation et d'interprétation (CPPNI)
+
+Syndicat employeur des régies de quartier (Serq)
+
+144, boulevard de la Villette
+
+75019 Paris
+
+L'adresse électronique du secrétariat de la commission paritaire nationale est : secretariat.cppni.regies@gmail.com
+
+Fonctionnement de la commission
+
+Réunions de la commission
+
+La commission se réunit sur convocation de sa présidence a minima trois fois par an conformément à la loi.
+
+À la demande de la présidence, le secrétariat convoque la commission au moins quinze jours avant la date de tenue de la réunion et adjoint l'ordre du jour ainsi que tous les documents utiles.
+
+La commission définit son agenda social dans les conditions visées à l'article L. 2222-3 du code du travail. L'agenda social est arrêté dans les conditions visées par le présent accord au titre des avis de la commission. À cette fin, elle se réunit au plus tard dans les trois mois suivant le début de l'année civile.
+
+Ces demandes peuvent en outre être formulées à tout moment, par simple courriel d'une organisation syndicale auprès du secrétariat. La modification de l'agenda social est alors examinée lors de la séance suivante, sous réserve que la demande soit parvenue au moins 15 jours avant la date de tenue effective de la réunion.
+
+Le fonctionnement des instances paritaires, et par voie de conséquence, le présent accord fait pleinement partie des thèmes de discussion et de négociation de la présente commission.
+
+Avis interprétatifs rendus par la commission
+
+Dans le cadre de son fonctionnement interne et de ses fonctions consultatives, notamment au titre de l'article L. 441-1 du code de l'organisation judiciaire, la commission rend des avis.
+
+Les avis la commission sont adoptés à la majorité simple, sans condition de quorum.
+
+Chaque organisation syndicale de salariés dispose d'une voix et le syndicat employeur d'autant de voix que l'ensemble des voix des organisations syndicales représentatives des salariés dans la branche.
+
+Lorsque l'avis ne porte pas sur son fonctionnement interne ou l'exercice de ses attributions liées à la négociation collective, la commission est valablement saisie par courrier recommandé avec accusé de réception ou par courriel envoyé à l'adresse du secrétariat :
+
+– lorsqu'une régie de quartier ou de territoire ou une structure autre appliquant la convention collective nationale des régies de quartier sollicite l'avis de la commission, celle-ci-joint, outre le détail de la question d'interprétation, ses statuts et les courriers échangés avec le (les) salarié(s) ;
+
+– le salarié peut solliciter l'avis de la commission via l'appui d'une organisation syndicale représentative dans la branche. Cette saisine doit comprendre tous les éléments nécessaires à l'analyse de la situation.
+
+Cette procédure n'est pas applicable lorsque la commission est saisie en application de l'article L. 441-1 du code de l'organisation judiciaire.
+
+Dans la mesure du possible, la commission est tenue de se prononcer sur la question d'interprétation dans un délai de 3 mois suivant sa saisine.
+
+L'avis de la commission est rédigé par le secrétariat qui le soumet à approbation de la commission et validé par celle-ci sous quinzaine.
+
+Travaux de la commission. Rapport annuel. Observatoire
+
+Les travaux de la commission sont établis par ses membres avec l'assistance du secrétariat.
+
+En ce qui concerne le rapport annuel d'activité, il fait l'objet d'une présentation au cours d'une réunion de la commission et doit être adopté à la majorité des membres présents.
+
+Chaque année, et au vu des accords transmis par les régies pour le fonctionnement de l'observatoire de la négociation collective, la commission établit un rapport. Ce rapport comprend des préconisations concernant les thèmes de négociation à aborder au cours de l'année suivante.
+
+La commission peut, dans ce cadre, engager toute action de sensibilisation des employeurs de son champ d'application en vue d'obtenir les informations et accords nécessaires à son bon fonctionnement et la conduite de ses travaux.
+
+En cas de nécessité, la commission pourra établir un règlement intérieur fixant les modalités pratiques de son fonctionnement et l'organisation de ses travaux. Ce règlement intérieur respecte les termes du présent accord. Il est adopté à la majorité des membres de la commission et peut être modifié, après inscription du point à l'ordre du jour.
+
+Indemnisation des membres de la commission
+
+Les membres de la commission à concurrence de deux personnes par organisation syndicale représentative au niveau de la branche et présents le jour de la réunion de la commission bénéficient du remboursement de leurs frais de transport sur la base du tarif aller-retour SNCF 2e classe, de la nuitée ainsi que du repas pris.
+
+Le Serq prend en charge ces frais.
