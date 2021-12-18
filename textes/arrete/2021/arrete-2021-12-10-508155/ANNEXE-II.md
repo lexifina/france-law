@@ -1,0 +1,135 @@
+# Article ANNEXE II
+
+LISTE DES ÉTABLISSEMENTS BÉNÉFICIANT DE L'EXCLUSION MENTIONNÉE AU I DE L'ARTICLE L. 229-14 DU CODE DE L'ENVIRONNEMENT
+
+Identifiant |
+
+Nom de l'installation |
+
+Nom de l'exploitant |
+
+FR000000000000578 |
+
+CENTRE HOSPITALIER UNIVERSITAIRE D'ANGERS |
+
+DALKIA |
+
+FR000000000205995 |
+
+ACOME |
+
+ACOME |
+
+FR000000000206042 |
+
+EURALIS CEREALES SOLFERINO |
+
+EURALIS CEREALES |
+
+FR000000000206043 |
+
+EURALIS CEREALES silo de BARCELONNE DU GERS |
+
+EURALIS CEREALES |
+
+FR000000000206352 |
+
+SILO DE BEAUREPAIRE |
+
+COOPERATIVE DAUPHINOISE |
+
+FR000000000206365 |
+
+RF 500 |
+
+EUROVIA GRANDS TRAVAUX |
+
+FR000000000206373 |
+
+LE HOUGA |
+
+SCA VIVADOUR |
+
+FR000000000206404 |
+
+Efectis France |
+
+Efectis France |
+
+FR000000000210102 |
+
+CENTRALE MOBILE D'ENROBAGE MI704 |
+
+EIFFAGE GENIE CIVIL |
+
+FR000000000210433 |
+
+N.N.A. |
+
+Nutréa Nutrition Animale (N.N.A.) |
+
+FR000000000212100 |
+
+EUROVIA GRANDS TRAVAUX - TRX |
+
+EUROVIA GRANDS TRAVAUX |
+
+FR000000000213920 |
+
+SETMI |
+
+SETMI |
+
+FR-new-07000894 |
+
+Centre hospitalier de Boulogne sur mer |
+
+Centre hospitalier de Boulogne sur mer |
+
+FR000000000205614 |
+
+ETS BERNARD |
+
+ETS BERNARD |
+
+FR000000000000163 |
+
+Centre Hospitalier Universitaire de Dijon |
+
+Centre hospitalier universitaire de Dijon |
+
+FR-new-09000285 |
+
+MINISTERE DES ARMEES BALARD |
+
+OPALE Défense |
+
+FR000000000212280 |
+
+Centrale d'énergie du CHR de MERCY |
+
+DALKIA |
+
+FR000000000209562 |
+
+Centre Hospitalier Universitaire de Nîmes |
+
+Centre Hospitalier Universitaire de Nîmes |
+
+FR-new-07001036 |
+
+Centre Hospitalier Régional Universitaire Lille |
+
+CHU Lille |
+
+FR000000000214783 |
+
+CHU CENTRE HOSPITALIER site principal Reims |
+
+CHU Reims |
+
+FR000000000000885 |
+
+Hôpital PURPAN |
+
+Centre Hospitalier Universitaire de Toulouse |
