@@ -1,6 +1,12 @@
 # Article 1 bis
 
-I.-Les marins en activité, dont les fonctions sont classées dans l'une des 16 premières catégories de la grille de classement du III de l'article 1er, et qui ont cotisé pendant dix ans dans la même catégorie, sont, lorsqu'ils continuent d'exercer des fonctions relevant du même classement, placés dans la catégorie immédiatement supérieure. Entrent également en compte, pour le surclassement dans la catégorie supérieure, les fonctions qui ont été exercées par les marins dans une catégorie supérieure et qui ont donné lieu à versement de cotisations au titre de cette catégorie.
+I.-Les marins en activité, dont les fonctions sont classées dans l'une des treize premières catégories de la grille de classement du III de l'article 1er et qui ont cotisé pendant 120 mois dans la même catégorie sont, lorsqu'ils continuent d'exercer des fonctions relevant du même classement, placés dans la catégorie immédiatement supérieure. Entrent également en compte, pour ce surclassement, les périodes cotisées pendant lesquelles les marins ont été classés dans des fonctions et des catégories supérieures.
+
+Les marins ayant cotisé pendant au moins 120 mois pour l'exercice de fonctions classées en application de la grille de classement du III de l'article 1er dans la 14e catégorie ou une catégorie supérieure sont classés dans la 15e catégorie lorsqu'ils exercent des fonctions relevant de la 14e catégorie.
+
+Les marins ayant cotisé pendant au moins 120 mois pour l'exercice de fonctions classées en application de la grille de classement du III de l'article 1er dans la 15e catégorie ou une catégorie supérieure sont classés dans la 16e catégorie lorsqu'ils exercent des fonctions relevant de la 15e catégorie.
+
+Les marins ayant cotisé pendant au moins 120 mois pour l'exercice de fonctions classées en application de la grille de classement du III de l'article 1er dans la 16e catégorie ou une catégorie supérieure sont classés dans la 17e catégorie lorsqu'ils exercent des fonctions relevant de la 16e catégorie.
 
 II.-Pour les marins qui exercent des fonctions de président des comités des pêches maritimes et des élevages marins et des comités de la conchyliculture, la catégorie de référence pour déterminer le bénéfice du surclassement de deux catégories prévu au 6° de l'article L. 5552-16 du code des transports, est la moyenne des catégories affectées aux emplois embarqués au cours de la période des douze mois précédant le début du mandat de président, calculée au prorata de la durée de chacune d'elles et arrondie à l'entier supérieur. Cette catégorie de référence est recalculée à chaque nouveau mandat dès lors que le marin reprend la navigation à l'issue d'un mandat.
 
