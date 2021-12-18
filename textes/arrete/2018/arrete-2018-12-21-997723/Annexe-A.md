@@ -6,7 +6,7 @@ ORDONNATEUR SECONDAIRE |
 
 COMPTABLE PRINCIPAL ASSIGNATAIRE |
 
-Directeur de la plate-forme commissariat Santé |
+Directeur de la plate-forme achats-finances-santé |
 
 Agent comptable des services industriels de l'armement |
 
@@ -22,4 +22,10 @@ Directeur du service de l'exécution financière, de la gestion logistique des b
 
 et des comptabilités |
 
-Directeur du service industriel de l'aéronautique |
+Directeur du service industriel de l'aéronautique
+
+|
+
+Directeur du service ingénierie contractuelle et logistique
+
+|
