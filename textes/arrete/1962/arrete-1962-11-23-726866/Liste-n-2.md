@@ -176,12 +176,6 @@ Landes |
 
 Hélistation |
 
-Saint-Christol |
-
-Vaucluse |
-
-|
-
 Saint-Denis-la-Redoute |
 
 Réunion |
@@ -216,4 +210,4 @@ Toulon - Saint-Mandrier |
 
 Var |
 
-Hélistation et hydrobase : procédure de fermeture de l'hydrobase en cours |
+Hydrobase : procédure de fermeture de l’hydrobase en cours |
