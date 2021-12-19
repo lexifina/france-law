@@ -8,8 +8,6 @@ Parcs nationaux ;
 
 Agences de l'eau ;
 
-Office national de la chasse et de la faune sauvage ;
-
 Agence française de sécurité sanitaire de l'environnement et du travail ;
 
-Agence française pour la biodiversité.
+Office français de la biodiversité.
