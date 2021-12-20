@@ -82,7 +82,7 @@ Chef du bureau des titres d'identité et de voyage au sein de la sous-direction 
 
 1 |
 
-Chef du bureau du contentieux des étrangers au sein du service du conseil juridique et du contentieux. |
+Chef du bureau du contentieux des étrangers au sein de la sous-direction du conseil juridique et du contentieux. |
 
 60 |
 
@@ -90,7 +90,7 @@ Chef du bureau du contentieux des étrangers au sein du service du conseil jurid
 
 1 |
 
-Chef de la mission du pilotage et de l'appui juridique aux territoires au sein du service du conseil juridique et du contentieux. |
+Chef de la mission du pilotage et de l'appui juridique aux territoires au sein de la sous-direction du conseil juridique et du contentieux. |
 
 30 |
 
@@ -406,9 +406,7 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 1 |
 
-Direction générale de la police nationale
-
-|
+Direction générale de la police nationale |
 
 Chef du bureau des affaires disciplinaires au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
