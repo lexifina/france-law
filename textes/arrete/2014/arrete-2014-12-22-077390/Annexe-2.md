@@ -8,7 +8,11 @@ Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER200
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
+Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+
 Isolation des murs / Fiche d’opération standardisée n° BAR-EN-102
+
+Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
 
 Isolation d’un plancher / Fiche d’opération standardisée n° BAR-EN-103
 
@@ -18,11 +22,15 @@ Conformément à l’article 5 de de l’arrêté du 25 mars 2020 (NOR : TRER200
 
 Conformément à l’article 1er de de l’arrêté du 8 octobre 2020 (NOR : TRER2027118A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté.
 
+Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+
 Fenêtre ou porte-fenêtre complète avec vitrage isolant / Fiche d’opération standardisée n° BAR-EN-104
 
 Isolation des toitures terrasses / Fiche d’opération standardisée n° BAR-EN-105
 
 Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.
+
+Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
 
 Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° BAR-EN-106
 
@@ -156,6 +164,8 @@ Pompe à chaleur hybride individuelle / Fiche d’opération standardisée n°BA
 
 Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160
 
+Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+
 Isolation des points singuliers d’un réseau / Fiche d’opération standardisée n°BAR-TH-161
 
 Système énergétique comportant des capteurs solaires photovoltaïques et thermiques à circulation d’eau (France métropolitaine) / Fiche d’opération standardisée n°BAR-TH-162
@@ -209,6 +219,8 @@ Service de suivi des consommations d’énergie / Fiche d’opération standardi
 Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0295 du 19/12/2021, texte n° 13, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=M8Ld4djfu8SiQ7Wj2bdJxG3_jl-AG5OU8reAnxwY_iE=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0239 du 13/10/2021, texte n° 42, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=B51-SSHriFiFYTUI37wQ7PwDva0a42xsLCS5e-CWYeI=
 
