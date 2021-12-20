@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 132 — autres domaines de compétence des régions
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2021-12-20
+- Matière : 9.3 Autres domaines de competences des regions
+- Objet : autres domaines de compétence des régions
+- Transmis à la préfecture : 2021-12-20
+- Votants : 75
+- Pour : 51
+- Contre : 9
+- Abstentions : 15
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-47820.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
