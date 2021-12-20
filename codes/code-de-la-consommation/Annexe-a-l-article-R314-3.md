@@ -30,7 +30,7 @@ https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032797752
 
 -sl est l'intervalle de temps, exprimé en années et fractions d'années, entre la date de la première utilisation effectuée sur le crédit et la date de chaque remboursement ou paiement de frais.
 
-PARTIE II-Calcul du Taux annuel effectif global (TAEG) pour les crédits encadrés par les articles L. 312-1 et suivants.
+PARTIE II-Calcul du Taux annuel effectif global (TAEG) pour les crédits encadrés par les articles L. 312-1 et suivants et par les articles L. 315-1 et suivants.
 
 Remarques
 
@@ -54,11 +54,13 @@ Le calcul du taux annuel effectif global se fait, le cas échéant, conformémen
 
 4° En cas de facilité de découvert, le montant total du crédit est réputé utilisé en totalité et pour la durée totale du contrat de crédit. Si la durée de la facilité de découvert n'est pas connue, le taux annuel effectif global est calculé en partant de l'hypothèse que la durée du crédit est de trois mois ;
 
-5° En cas de contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour une nouvelle utilisation, et autre qu'une facilité de découvert :
+5° En cas de contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour une nouvelle utilisation, et autre qu'une facilité de découvert ou qu'un contrat de prêt mentionné aux articles L. 315-1 et L. 315-2 :
 
 a) Le crédit est réputé être octroyé pour une durée d'un an à partir de la date d'utilisation initiale, et le paiement final effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels ;
 
 b) Le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après la date de l'utilisation initiale. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un seul versement, à l'intérieur de chaque période de paiement, les utilisations et les remboursements successifs de la totalité du capital par le consommateur sont supposés être effectués sur la durée d'un an. Les intérêts et autres frais sont appliqués conformément à ces utilisations et remboursements du capital, d'une part, et aux dispositions du contrat de crédit, d'autre part ;
+
+5° bis Pour les contrats de prêts mentionnés aux articles L. 315-1 et L. 315-2, le crédit, pour la seule vérification des dispositions relatives à l'usure, est réputé octroyé pour une durée de dix ans à la date de formation du contrat de prêt. Le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels ;
 
 6° En cas de contrats de crédit autres que les découverts et les contrats de crédits sans durée fixe visés dans les hypothèses des points 4° et 5° :
 
@@ -167,3 +169,7 @@ ii) en cas de contrat de crédit renouvelable, à la fin de la période initiale
 i) les paiements effectués par les consommateurs sont réputés intervenir à la (ou aux) dernière (s) date (s) autorisée (s) en vertu du contrat de crédit ;
 
 ii) le pourcentage d'accroissement de la valeur du bien immobilier qui garantit le contrat de crédit en fonds partagés, ainsi que le taux de tout indice d'inflation visé dans le contrat, sont supposés égaux à la valeur la plus élevée entre le taux d'inflation cible de la banque centrale en vigueur et le niveau d'inflation dans l'Etat membre où le bien immobilier est situé au moment de la conclusion du contrat de crédit ou à 0 % si ces pourcentages sont négatifs.
+
+NOTA :
+
+Conformément à l’article 3 du décret n° 2021-1700 du 17 décembre 2021, ces dispositions s’appliquent aux prêts avance mutation et aux prêts viager hypothécaire pour lesquels l'offre de prêt est émise à compter de la date d'entrée en vigueur dudit décret.
