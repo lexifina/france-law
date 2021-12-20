@@ -19,3 +19,5 @@ Décret n° 88-654 du 7 mai 1988 relatif au recrutement d'attachés temporaires 
 Décret n° 2009-464 du 23 avril 2009 relatif aux doctorants contractuels des établissements publics d'enseignement supérieur ou de recherche
 
 Décret n° 2007-1915 du 26 décembre 2007 pris en application de l'article L. 811-2 du code de l'éducation et fixant les conditions de recrutement et d'emploi des étudiants au sein des établissements publics d'enseignement supérieur
+
+Décret n° 2021-1710 du 17 décembre 2021 relatif au contrat de chaire de professeur junior prévu par l'article L. 952-6-2 du code de l'éducation et par l'article L. 422-3 du code de la recherche
