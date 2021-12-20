@@ -4,7 +4,7 @@ SIGNALISATION À MAIN
 
 Article 1er-Signaux à main de manœuvre
 
-Article 2-Signal à main d'Autorisation de Mouvement (AuM) à l'usage exclusif du gestionnaire d'infrastructure en charge de la gestion opérationnelle des circulations
+Article 2-Signal à main d'Autorisation de Mouvement (AuM) à l'usage exclusif du gestionnaire de l'infrastructure en charge de la gestion opérationnelle des circulations.
 
 Article 3-Signal d'arrêt à main
 
@@ -24,9 +24,9 @@ Signal à main d'Autorisation de Mouvement (AuM) à l'usage exclusif du gestionn
 
 Le signal à main d'AuM est constitué :
 
-le jour : par une palette verte et blanche élevée verticalement et balancée légèrement dans le sens transversal ;
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié du JO nº 0295 du 19/12/2021, texte nº 149 à l'adresse suivante :
 
-la nuit : par le même geste avec le feu vert d'une lanterne.
+https://www.legifrance.gouv.fr/download/pdf?id=M8Ld4djfu8SiQ7Wj2bdJxIQy3J78eAnZQ1SZeXD187M=
 
 Article 3
 
@@ -552,13 +552,25 @@ Si la limitation de vitesse ne concerne que certaines locomotives (pancarte "L" 
 
 Article 509
 
-Repérage des points de transition de la vitesse limite
+Repérage des points de transition de la vitesse limite.
 
-En complément des indications figurant à la documentation d'exploitation (article 65), et lorsqu'ils ne coïncident pas avec des points remarquables (BV ...), les points de transition de la vitesse limite d'une section de ligne sont repérés spécialement sur le terrain par une pancarte "Km ...".
+En complément des indications figurant à la documentation d'exploitation, et lorsqu'ils ne coïncident pas avec des points remarquables (BV …), les points de transition de la vitesse limite d'une section de ligne sont repérés spécialement sur le terrain par une pancarte “ Km … ”.
 
-Vous pouvez consulter l'image dans le fac-similé du JO nº 0211 du 12/09/2015, texte nº 2 à l'adresse suivante
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l’adresse suivante :
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20150912&numTexte=2&pageDebut=15904&pageFin=15948
+https://www.legifrance.gouv.fr/download/pdf?id=M8Ld4djfu8SiQ7Wj2bdJxIQy3J78eAnZQ1SZeXD187M=
+
+Cette pancarte, non éclairée la nuit, de forme carrée, porte l'indication arrondie à l'hectomètre, en noir sur fond blanc, du point kilométrique correspondant.
+
+Dans le sens de la vitesse décroissante, cette pancarte est précédée d'un TIV fixe à distance du type ordinaire, du type B ou du type C, selon la catégorie des trains concernés, ou à défaut par une pancarte spécifique “ Transition de Vitesse ” associée éventuellement à un TIV fixe de type B ou de type C.
+
+Dans le sens de la vitesse croissante la pancarte “ Km … ” est utilisée isolément.
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=M8Ld4djfu8SiQ7Wj2bdJxIQy3J78eAnZQ1SZeXD187M=
+
+Cette pancarte, non éclairée la nuit, de forme carrée, annonce une transition de vitesse décroissante repérée par une pancarte “ Km 000.0 ” ou exceptionnellement un point facilement repérable. Elle est implantée quand un TIV de type ordinaire ne suffit pas à annoncer les taux de vitesses par catégorie de trains repris à la documentation d'exploitation.
 
 Section 2
 
