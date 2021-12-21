@@ -1,0 +1,71 @@
+# Garantir l’égalité et la liberté dans l’attribution et le choix du nom
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N44585
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/egalite_liberte_attribution_nom
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl21-409.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-12-21 : 1er dépôt d'une initiative. (PIONANR5L15B4853)
+  - 2021-12-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-12-21 : Renvoi en commission au fond
+      - 2022-01-05 : Nomination de rapporteur
+      - 2022-01-05 : Réunion de commission
+      - 2022-01-19 : Réunion de commission
+      - 2022-01-26 : Réunion de commission
+      - 2022-01-19 : Dépôt de rapport (RAPPANR5L15B4921, PIONANR5L15BTC4921)
+  - Discussion en séance publique
+    - 2022-01-26 : Discussion en séance publique
+    - 2022-01-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-01-27 : Dépôt d'une initiative en navette (PIONSNR5S379B0409)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-02-09 : Dépôt de rapport (RAPPSNR5S379B0467, PIONSNR5S379BTC0468)
+  - Discussion en séance publique
+    - 2022-02-15 : Discussion en séance publique
+    - 2022-02-15 : Décision
+- Commission Mixte Paritaire
+  - 2022-02-16 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-02-17 : Nomination de rapporteur
+    - 2022-02-17 : Dépôt du rapport d'une CMP (RAPPANR5L15B5047)
+    - 2022-02-17 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0518, PIONSNR5S379BTC0519)
+  - 2022-02-17 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-02-16 : Dépôt d'une initiative en navette (PIONANR5L15B5036)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-16 : Renvoi en commission au fond
+      - 2022-02-17 : Réunion de commission
+      - 2022-02-21 : Réunion de commission
+      - 2022-02-18 : Dépôt de rapport (RAPPANR5L15B5057, PIONANR5L15BTC5057)
+  - Discussion en séance publique
+    - 2022-02-21 : Discussion en séance publique
+    - 2022-02-21 : Décision
+- Nouvelle Lecture
+  - 2022-02-21 : Dépôt d'une initiative en navette (PIONSNR5S379B0529)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-21 : Renvoi en commission au fond
+      - 2022-02-23 : Dépôt de rapport (RAPPSNR5S379B0539, PIONSNR5S379BTC0540)
+  - Discussion en séance publique
+    - 2022-02-24 : Discussion en séance publique
+    - 2022-02-24 : Décision
+- Lecture définitive
+  - 2022-02-24 : Dépôt d'une initiative en navette (PIONANR5L15BTA0809)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-24 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2022-02-24 : Discussion en séance publique
+    - 2022-02-24 : Décision
+- Promulgation de la loi
+  - 2022-03-02 : Promulgation d'une loi
