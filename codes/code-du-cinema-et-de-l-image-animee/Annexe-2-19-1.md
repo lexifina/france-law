@@ -12,6 +12,12 @@ Liste des festivals
 
 - Paris : Cinéma du Réel ;
 
+- Marseille : Festival international de cinéma ;
+
+- Lussas : Etats généraux du film documentaire ;
+
+- Biarritz : Festival international de programmes audiovisuels documentaires.
+
 2° Sélection en compétition dans l'un des festivals étrangers suivants :
 
 a) Allemagne :
