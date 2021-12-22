@@ -1,8 +1,8 @@
 # Article unique
 
-Le présent accord a la nature juridique d'un texte complémentaire en ce sens qu'il ne modifie en rien les dispositions de l'accord de branche et de ses annexes. Il a pour objet de préciser, jusqu'au 31 décembre 2020, les conditions de mise en œuvre de l'article 3.24.3 de l'annexe III de la CCNEP relatif aux RCP.
+Le présent accord a la nature juridique d'un texte complémentaire en ce sens qu'il ne modifie en rien les dispositions de l'accord de branche et de ses annexes. Il a pour objet de préciser, jusqu'au 30 juin 2022 au plus tard, les conditions de mise en œuvre de l'article 3.24.3 de l'annexe III de la CCNEP relatif aux RCP.
 
-Constatant l'échec des discussions initiées en vue de la mise en œuvre de l'article 3.24.3 de l'annexe III de la CCNEP, les partenaires sociaux décident, pour la durée de l'accord, que l'intermédiaire de la société de perception et de répartition de droits d'artistes-interprètes est suspendu. En conséquence, les RCP sont versées aux artistes musiciens par la société de perception et de répartition de droits de producteurs de phonogrammes compétente.
+À la suite de la réunion de négociation du 6 décembre 2021 entre les partenaires sociaux, les organismes de gestion collective de producteurs ainsi que l'Adami, et en vue de la mise en œuvre prochaine de l'article 3.24.3 de l'annexe III de la CCNEP par cette dernière, il est convenu qu'elle assure la reprise des paiements des RCP aux artistes musiciens dans une période maximale de 6 mois à compter de la signature du présent accord. Durant cette période, les RCP sont versées aux artistes musiciens par l'organisme de gestion collective de producteurs de phonogrammes compétente.
 
 Les partenaires sociaux mettent en place un bilan chiffré régulier des versements effectués par les sociétés de perception et de répartition de droits des producteurs de phonogrammes et des sommes en attente de répartition. Ce bilan chiffré est adressé, par e-mail, aux partenaires sociaux par les représentants des producteurs de phonogrammes une fois par semestre et fait l'objet d'une réunion spécifique des partenaires sociaux au minimum deux fois par an.
 
