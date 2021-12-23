@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018155
+
+- Question : [SEQ201018155](seq201018155.md) — Restrictions de circulation pour les véhicules de collection
+
+## Réponse
+
+*Transports, JO du 2021-12-23, page 7046*
+
+Le Gouvernement tient tout d'abord à rappeler qu'il souhaite préserver le patrimoine et la richesse culturelle que représentent les véhicules de collection pour notre pays. Par ailleurs, les zones à faibles émissions mobilité (ZFE-m) aujourd'hui en vigueur disposent toutes de dérogations locales pour la circulation des véhicules de collection. Aucun véhicule de collection n'est ainsi empêché de rouler en ZFE. La mise en place d'une dérogation nationale, qui pour le moment ne bénéficie qu'aux seuls véhicules d'intervention et d'urgence, pose la question des critères permettant de bénéficier du statut de « véhicule de collection ». En effet, les critères européens qui sont actuellement en vigueur : avoir été construit ou immatriculé la première fois il y a plus de 30 ans, ne plus être produit et être maintenu dans son état d'origine semblent trop larges. Par exemple, les premières générations de Renault Espace rentrent dans ce champ d'application. Alors que seulement 152 000 véhicules bénéficient à ce stade du certificat « collection », les données du contrôle technique montrent que près d'1 million de véhicules roulants ont été immatriculés il y a plus de 30 ans et pourraient ainsi potentiellement être catégorisés en tant que véhicule de collection. L'effet d'aubaine pourrait ainsi être important, le statut de véhicule de collection permettant de circuler librement dans les ZFE-m, avec des véhicules très émetteurs. C'est pourquoi des échanges sont en cours avec la fédération française des véhicules d'époque (FFVE). L'objectif est de profiter de leur expertise et des données qu'ils possèdent pour identifier les pistes d'évolution.
