@@ -1,0 +1,18 @@
+# Documents publiés
+
+- Nature : Informations Parlementaires
+- Publication : 2021-12-23
+- JO n° : 0298
+- NOR : INPS2138728X
+- Origine : JORF n°0298 du 23 décembre 2021
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044548788
+
+## Article
+
+Sénat
+
+Session ordinaire de 2021-2022
+
+Documents publiés sur le site internet du Sénat le mercredi 22 décembre 2021
+
+N° 307 (2021-2022) Proposition de loi présentée par M. Michel CANÉVET, visant à aménager certaines dispositions de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur du littoral dite « loi Littoral », envoyée à la commission de l'aménagement du territoire et du développement durable, sous réserve de la constitution éventuelle d'une commission spéciale dans les conditions prévues par le Règlement.
