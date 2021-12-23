@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120219
+
+- Question : [SEQ210120219](seq210120219.md) — Vaccination prioritaire pour les routiers
+
+## Réponse
+
+*Transports, JO du 2021-12-23, page 7046*
+
+Le Gouvernement est très attentif aux conditions sanitaires et de travail des conducteurs routiers qui jouent un rôle essentiel dans l'approvisionnement de la population et la continuité de l'activité économique, en particulier dans le contexte actuel de l'épidémie de la Covid-19. En accord avec les recommandations vaccinales émises par la Haute Autorité de Santé (HAS) dans ses avis du 27 novembre 2020 et du 2 février 2021, la stratégie vaccinale du Gouvernement s'est déployée progressivement suivant une logique de priorisation des publics ciblés chez les professionnels et les particuliers. Dans la mesure où la montée en charge de la campagne vaccinale a porté ses fruits, l'ouverture à la vaccination pour tous les publics au 31 mai 2021 a permis à l'ensemble des professionnels d'accéder à la vaccination. Eu égard à leur degré d'exposition au virus, équivalent à celui des professionnels de santé et du secteur médico-social qui constituent, avec les aides à domicile intervenant auprès de personnes vulnérables et aux pompiers, les seules catégories de professionnels qui ont bénéficié d'une priorité de vaccination au début de la campagne vaccinale, il a été décidé, dès fin janvier 2021, que les ambulanciers de plus de 50 ans ou fragiles avec des risques de forme grave de Covid-19 pouvaient bénéficier d'un accès prioritaire aux vaccins contre la Covid-19. Cette décision s'inscrit dans le cadre de la stratégie vaccinale retenue par le Gouvernement qui, conformément aux recommandations de la Haute Autorité de Santé, prévoyait une montée en puissance de la vaccination sur le territoire étape par étape, pour assurer que la protection offerte par la vaccination profite en priorité aux personnes qui en ont le plus besoin.
