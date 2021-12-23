@@ -60,14 +60,14 @@ II. - Les professionnels et les détenteurs de formation suivants, sous la respo
 
 III. - Les étudiants en santé suivants :
 
-1° Les étudiants en santé suivants ayant suivi les enseignements théoriques et pratiques relatifs à la vaccination dans le cadre de leur cursus, en présence d'un médecin ou d'un infirmier :
+1° Les étudiants en santé suivants ayant suivi les enseignements théoriques et pratiques relatifs à la vaccination dans le cadre de leur cursus, en présence d'un médecin d'un infirmier ou d'un pharmacien formé à l'administration des vaccins ou ayant suivi une formation spécifique à la vaccination contre la covid-19 :
 
 a) Etudiants de deuxième cycle des formations en médecine, en pharmacie et en maïeutique ;
 
 b) Etudiants en soins infirmiers ayant validé leur première année de formation ;
 
-2° Les étudiants de deuxième et troisième cycles en odontologie, en présence d'un médecin ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
+2° Les étudiants de deuxième et troisième cycles en odontologie, en présence d'un médecin ou d'un infirmier ou d'un pharmacien formé à l'administration des vaccins ou ayant suivi une formation spécifique à la vaccination contre la covid-19 et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
 
-3° Les étudiants de premier cycle de la formation en médecine et en maïeutique à partir de la deuxième année ayant effectué leur stage infirmier, en présence d'un médecin, d'une sage-femme ou d'un infirmier et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
+3° Les étudiants de premier cycle de la formation en médecine et en maïeutique à partir de la deuxième année ayant effectué leur stage infirmier, en présence d'un médecin, d'une sage-femme ou d'un infirmier ou d'un pharmacien formé à l'administration des vaccins ou ayant suivi une formation spécifique à la vaccination contre la covid-19 et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins ;
 
 4° Les étudiants en masso-kinésithérapie ayant validé leur deuxième année de formation, en présence d'un médecin ou d'un infirmier, et à condition qu'ils aient suivi une formation spécifique à la réalisation de cet acte, dispensée et attestée par un professionnel de santé formé à l'administration des vaccins.
