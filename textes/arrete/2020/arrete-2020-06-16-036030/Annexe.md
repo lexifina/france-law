@@ -198,7 +198,7 @@ Et fiscalité européenne (FID 2)
 
 |
 
-Du 1er septembre 2021 au 28 février 2023. |
+Du 1er juillet 2021 au 28 février 2023. |
 
 Réorganisation du bureau des douanes de Toulouse Portet suite au transfert de la mission de dédouanement vers un autre service.
 
