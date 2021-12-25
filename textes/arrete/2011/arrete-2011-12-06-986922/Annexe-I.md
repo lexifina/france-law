@@ -14,16 +14,16 @@ c) Le programme détaillé et le volume horaire des enseignements délivrés sur
 
 d) Des fiches détaillant le contenu de chaque unité d'enseignement.
 
-Le ministre chargé de la santé notifie au demandeur sa décision motivée, après avis de la commission mentionnée à l'article 3 du présent arrêté, dans un délai de deux mois à compter de la réception de la demande.
+Le ministre chargé de la santé notifie au demandeur sa décision motivée, dans un délai de deux mois à compter de la réception de la demande.
 
 2° Inscription sur la liste des diplômes prérequis mentionnée à l'article 3 :
 
-Les diplômes considérés comme répondant aux exigences définies à l'annexe II sont inscrits sur la liste des diplômes admis comme prérequis arrêtée par le ministre chargé de la santé, après avis de la commission mentionnée à l'article 3 du présent arrêté, pour une durée de quatre ans.
+Les diplômes considérés comme répondant aux exigences définies à l'annexe II sont inscrits sur la liste des diplômes admis comme prérequis arrêtée par le ministre chargé de la santé, pour une durée de quatre ans.
 
 Avant l'expiration du délai de quatre ans, les responsables des diplômes admis comme prérequis transmettent un nouveau dossier au ministre chargé de la santé, dans les conditions définies au 1°. A défaut, les diplômes peuvent être retirés de la liste arrêtée par le ministre chargé de la santé.
 
-Le ministre chargé de la santé peut, après avis de la commission mentionnée à l'article 3 du présent arrêté, retirer un diplôme de la liste des diplômes prérequis s'il ne répond plus aux exigences définies en annexe II du présent arrêté.
+Le ministre chargé de la santé peut retirer un diplôme de la liste des diplômes prérequis s'il ne répond plus aux exigences définies en annexe II du présent arrêté.
 
-Les responsables des diplômes inscrits sur la liste mentionnée à l'article 3 à la date de publication du présent arrêté disposent d'un délai de deux ans à compter de la publication du présent arrêté pour transmettre au ministre chargé de la santé un nouveau dossier. Celui-ci répond aux exigences et est examiné dans les mêmes conditions que celles définies au 1° de la présente annexe. La décision du ministre chargé de la santé est rendue après avis de la commission mentionnée à l'article 3 du présent arrêté.
+Les responsables des diplômes inscrits sur la liste mentionnée à l'article 3 à la date de publication du présent arrêté disposent d'un délai de deux ans à compter de la publication du présent arrêté pour transmettre au ministre chargé de la santé un nouveau dossier. Celui-ci répond aux exigences et est examiné dans les mêmes conditions que celles définies au 1° de la présente annexe. Le ministre notifie au demandeur sa décision motivée dans un délai de deux mois à compter de la réception de la demande.
 
 A titre transitoire, ces diplômes continuent de figurer sur la liste mentionnée à l'article 3 jusqu'à réception par le ministre chargé de la santé du dossier mentionné à l'alinéa précédent.
