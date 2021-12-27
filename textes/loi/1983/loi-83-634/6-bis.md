@@ -18,10 +18,4 @@ Aucune mesure concernant notamment le recrutement, la titularisation, la rémun�
 
 Est passible d'une sanction disciplinaire tout agent ayant procédé ou enjoint de procéder aux agissements définis ci-dessus.
 
-Le Gouvernement présente devant le Conseil commun de la fonction publique un rapport sur les mesures mises en œuvre pour assurer l'égalité professionnelle entre les femmes et les hommes. Ce rapport annuel, dont les modalités de mise en œuvre sont définies par décret, comprend notamment des données relatives au recrutement, à la féminisation des jurys, à la formation, au temps de travail, à la promotion professionnelle, aux conditions de travail, à la rémunération et à l'articulation entre l'activité professionnelle et la vie personnelle. Ce rapport est remis au Parlement.
-
-NOTA :
-
-Conformément au VII de l'article 94 de la loi n° 2019-828 du 6 août 2019, ces dispositions entrent en vigueur le 1er janvier 2021 et sont applicables aux entretiens professionnels conduits au titre de l'année 2020.
-
-Conformément aux dispositions du XX du même article, ces dispositions s'appliquent nonobstant toute disposition statutaire contraire.
+Le Gouvernement présente devant le Conseil commun de la fonction publique un rapport sur les mesures mises en œuvre pour assurer l'égalité professionnelle entre les femmes et les hommes. Ce rapport annuel, dont les modalités de mise en œuvre sont définies par décret, comprend notamment des données relatives au recrutement, à la féminisation des jurys, à la formation, au temps de travail, à la promotion professionnelle, aux conditions de travail, à la rémunération et à l'articulation entre l'activité professionnelle et la vie personnelle. Ce rapport est publié au plus tard six mois après le dernier jour de l'exercice au titre duquel il est élaboré et remis au Parlement.
