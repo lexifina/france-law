@@ -1,0 +1,83 @@
+# Projet de loi renforçant les outils de gestion de la crise sanitaire et modifiant le code de la santé publique
+
+- Procédure : Projet de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N44625
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/projetdeloirenforcantlesoutilsdegestiondelacrisesanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-327.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2021-12-27 : 1er dépôt d'une initiative. (PRJLANR5L15B4857)
+  - 2021-12-27 : Etude d'impact (ETDIANR5L15B4857)
+  - 2021-12-27 : Avis du Conseil d'Etat (AVCEANR5L15B4857)
+  - 2021-12-27 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2021-12-27 : Renvoi en commission au fond
+      - 2021-12-29 : Nomination de rapporteur
+      - 2021-12-29 : Réunion de commission
+      - 2021-12-29 : Réunion de commission
+      - 2021-12-29 : Réunion de commission
+      - 2021-12-29 : Réunion de commission
+      - 2022-01-03 : Réunion de commission
+      - 2021-12-30 : Dépôt de rapport (RAPPANR5L15B4858, PRJLANR5L15BTC4858)
+  - Discussion en séance publique
+    - 2022-01-03 : Discussion en séance publique
+    - 2022-01-03 : Discussion en séance publique
+    - 2022-01-04 : Discussion en séance publique
+    - 2022-01-04 : Discussion en séance publique
+    - 2022-01-05 : Discussion en séance publique
+    - 2022-01-05 : Discussion en séance publique
+    - 2022-01-05 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-01-06 : Dépôt d'une initiative en navette (PRJLSNR5S379B0327)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-06 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-01-10 : Dépôt de rapport (RAPPSNR5S379B0332, PRJLSNR5S379BTC0333)
+  - Discussion en séance publique
+    - 2022-01-12 : Discussion en séance publique
+    - 2022-01-12 : Décision
+- Commission Mixte Paritaire
+  - 2022-01-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-01-13 : Nomination de rapporteur
+    - 2022-01-13 : Dépôt du rapport d'une CMP (RAPPANR5L15B4908)
+    - 2022-01-13 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0353, PRJLSNR5S379BTC0354)
+  - 2022-01-13 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-01-13 : Dépôt d'une initiative en navette (PRJLANR5L15B4905)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-13 : Renvoi en commission au fond
+      - 2022-01-13 : Réunion de commission
+      - 2022-01-14 : Dépôt de rapport (RAPPANR5L15B4909, PRJLANR5L15BTC4909)
+  - Discussion en séance publique
+    - 2022-01-14 : Discussion en séance publique
+    - 2022-01-14 : Discussion en séance publique
+    - 2022-01-14 : Décision
+- Nouvelle Lecture
+  - 2022-01-15 : Dépôt d'une initiative en navette (PRJLSNR5S379B0357)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-15 : Renvoi en commission au fond
+      - 2022-01-15 : Dépôt de rapport (RAPPSNR5S379B0359, PRJLSNR5S379BTC0360)
+  - Discussion en séance publique
+    - 2022-01-15 : Décision
+- Lecture définitive
+  - 2022-01-16 : Dépôt d'une initiative en navette (PRJLSNR5S379BTA0073)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-16 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2022-01-16 : Discussion en séance publique
+    - 2022-01-16 : Décision
+- Conseil constitutionnel
+  - 2022-01-17 : Saisine du conseil constitutionnel
+  - 2022-01-17 : Saisine du conseil constitutionnel
+  - 2022-01-21 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-01-22 : Promulgation d'une loi
