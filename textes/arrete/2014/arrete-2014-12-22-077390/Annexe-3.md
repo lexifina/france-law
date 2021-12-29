@@ -160,6 +160,10 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 
 -Chaudière biomasse collective / Fiche d’opération standardisée n° BAT-TH-157
 
+-Pompe à chaleur réversible de type air/air / Fiche d’opération standardisée n° BAT-TH-158
+
+-Raccordement d’un bâtiment tertiaire à un réseau de froid / Fiche d’opération standardisée n° BAT-TH-159
+
 -Luminaires à modules LED pour surfaces commerciales / Fiche d’opération standardisée n° BAT-EQ-111 (abrogée à compter du 1er avril 2019)
 
 -Eclairage LED pour meubles frigorifiques verticaux / Fiche d’opération standardisée n° BAT-EQ-114 (abrogée à compter du 1er avril 2019)
@@ -167,6 +171,8 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 -Lampe à LED de classe A+ (France d’outre-mer) / Fiche d’opération standardisée n° BAT-EQ-116 (abrogée à compter du 1er avril 2019)
 
 -Installation frigorifique utilisant du CO2 subcritique ou transcritique / Fiche d’opération standardisée n° BAT-EQ-117
+
+Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe C dudit arrêté, à compter du 1er avril 2022.
 
 -Moto-variateur synchrone à aimants permanents / Fiche d’opération standardisée n° BAT-EQ-123
 
@@ -179,6 +185,8 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 -Luminaire d’éclairage général à modules LED / Fiche d’opération standardisée n° BAT-EQ-127
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
+
+Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe C dudit arrêté, à compter du 1er avril 2022.
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
@@ -194,7 +202,11 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 -Systèmes hydro-économes (France métropolitaine) / Fiche d’opération standardisée n° BAT-EQ-133
 
+-Meuble frigorifique de vente performant avec groupe de production de froid intégré / Fiche d’opération standardisée n° BAT-EQ-134
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 28/12/2021, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0175 du 30/07/2021, texte n° 2, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=pIHHY48SRkCwDVTpbkn3r7zpZd6I8n7FDiJ95W09ZL4=
 

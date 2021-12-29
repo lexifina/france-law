@@ -18,6 +18,10 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1529503A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 6 dudit arrêté.
 
+- Luminaires à modules LED / Fiche d’opération standardisée n° IND-BA-116
+
+Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe D dudit arrêté, à compter du 1er avril 2022.
+
 - Isolation des murs (France d’outre-mer) / Fiche d’opération standardisée n° IND-EN-101
 
 - Isolation de combles ou de toitures (France d’outre-mer) / Fiche d’opération standardisée n° IND-EN-102
@@ -36,7 +40,7 @@ Conformément à l’article 9 de l’arrêté du 31 juillet 2015 (NOR : DEVR151
 
 - Brûleur micro-modulant sur chaudière industrielle / Fiche d’opération standardisée n° IND-UT-105
 
-- Moteur haut rendement de classe IE2 / Fiche d’opération standardisée n° IND-UT-112
+- Moteur haut rendement de classe IE2 / Fiche d’opération standardisée n° IND-UT-112 (Abrogée à compter du 1er avril 2022)
 
 - Système de condensation frigorifique à haute efficacité / Fiche d’opération standardisée n° IND-UT-113
 
@@ -61,6 +65,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 - Matelas pour l’isolation de points singuliers / Fiche d’opération standardisée n° IND-UT-121
 
 Conformément à l’article 4 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 7 dudit arrêté.
+
+Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe D dudit arrêté, à compter du 1er avril 2022.
 
 - Sécheur d’air comprimé à adsorption utilisant un apport calorifique pour sa régénération / Fiche d’opération standardisée n° IND-UT-122
 
@@ -97,6 +103,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 - Freecooling par eau de refroidissement en substitution d’un groupe froid / Fiche d’opération standardisée n° IND-UT-135
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 28/12/2021, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 315 du 30/12/2020, texte n° 16, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=lsbjkllDP7FKiDNSrB8xR3I0p40x7_qaO7csO7mEUs0=
 
