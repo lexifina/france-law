@@ -2,9 +2,7 @@
 
 LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPEE D'ACTIVITE DES TRAVAILLEURS DE L'AMIANTE EN FAVEUR DES DOCKERS PROFESSIONNELS
 
-PORTS
-
-|
+PORTS |
 
 PÉRIODES DURANT LESQUELLES
 
@@ -12,96 +10,52 @@ ont été manipulées des sacs d'amiante
 
 (les années de début et de fin
 
-de périodes étant incluses)
+de périodes étant incluses) |
 
-|
+Bastia |
 
-Bastia
+de 1959 à 2004 |
 
-|
+Bordeaux |
 
-De 1959 à 1965
-
-|
-
-Bordeaux
-
-|
-
-De 1961 à 1994
-
-|
+de 1961 à 2004 |
 
 Calais |
 
-De 1974 à 1993
+de 1974 à 2004 |
 
-|
+Cherbourg |
 
-Cherbourg
+de 1968 à 1975 et les années 1978 et 1980 et de 1983 à 2004 |
 
-|
+Dunkerque |
 
-De 1968 à 1975 et les années 1978, 1980 et 1983
+de 1960 à 2004 |
 
-|
+Le Havre |
 
-Dunkerque
+de 1949 à 2004 |
 
-|
+Marseille |
 
-De 1960 à 1993
+de 1957 à 2004 |
 
-|
+Nantes-Saint-Nazaire |
 
-Le Havre
+de 1960 à 2004 |
 
-|
+La Rochelle-La Pallice |
 
-De 1949 à 1992
+de 1974 à 2004 |
 
-|
+Rouen |
 
-Marseille
+de 1960 à 2004 |
 
-|
+Saint-Malo |
 
-De 1957 à 1993
-
-|
-
-Nantes - Saint-Nazaire
-
-|
-
-De 1960 à 1993
-
-|
-
-La Rochelle-La Palice |
-
-De 1974 à 1999
-
-|
-
-Rouen
-
-|
-
-De 1960 à 1988
-
-|
-
-Saint-Malo
-
-|
-
-De 1964 à 1986
-
-|
+de 1964 à 2004 |
 
 Sète |
 
-De 1980 à 1989
-
-|
+de 1980 à 2004 |
