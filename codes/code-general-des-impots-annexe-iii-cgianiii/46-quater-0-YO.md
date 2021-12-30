@@ -2,7 +2,7 @@
 
 I. – Les artistes-interprètes et les artistes de complément mentionnés au b du 1 et au b du 2 de l'article 46 quater-0 YM comprennent :
 
-a. Les acteurs assurant les rôles principaux et les rôles secondaires des œuvres appartenant au genre de la fiction ainsi que les artistes-interprètes assurant le commentaire ou la postsynchronisation des œuvres appartenant au genre du documentaire et au genre de l'animation. Pour les œuvres appartenant au genre de la fiction, sont considérés comme rôles principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise pour la moitié au moins des scènes de l'œuvre et comme rôles secondaires les rôles d'au moins quatre cachets ;
+a. Les acteurs assurant les rôles principaux et les rôles secondaires des œuvres appartenant au genre de la fiction, les artistes-interprètes intervenant dans le spectacle pour les œuvres appartenant au genre de l'adaptation audiovisuelle de spectacles, ainsi que les artistes-interprètes assurant le commentaire ou la postsynchronisation des œuvres appartenant au genre du documentaire et au genre de l'animation. Pour les œuvres appartenant au genre de la fiction, sont considérés comme rôles principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise pour la moitié au moins des scènes de l'œuvre et comme rôles secondaires les rôles d'au moins quatre cachets ;
 
 b. Les artistes musiciens engagés pour l'enregistrement sonore de leur interprétation ou exécution d'œuvres musicales destinées à être incorporées aux œuvres cinématographiques ou audiovisuelles ;
 
@@ -10,7 +10,7 @@ c. Les artistes du spectacle considérés comme artistes de complément par les 
 
 II. – Les personnels mentionnés au c du 1 et au c du 2 de l'article 46 quater-0 YM comprennent :
 
-1° Pour les œuvres cinématographiques ou audiovisuelles de fiction et les œuvres cinématographiques ou audiovisuelles documentaires :
+1° Pour les œuvres cinématographiques ou audiovisuelles de fiction, les œuvres cinématographiques ou audiovisuelles documentaires et les œuvres d'adaptation audiovisuelle de spectacles :
 
 a. les techniciens de la production qui sont ceux en charge : de la réalisation ; de la préparation et de l'assistance de réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la qualité artistique des enregistrements sonores ; de la création artistique et de l'exécution des décors ; de la création artistique des costumes, perruques et accessoires vestimentaires ; de la confection des costumes et accessoires vestimentaires ; de l'habillage et de l'entretien des costumes ; du maquillage de composition des acteurs ; de la confection des perruques et postiches et de l'exécution des coiffures ; des accessoires de plateau et de décor ; de l'assemblage artistique et technique des images et des sons ; de la préparation et de la réalisation des effets spéciaux de tournage, y compris les cascades ; de la direction artistique et du développement ; de la direction et de la gestion administrative, technique et comptable de la production ;
 

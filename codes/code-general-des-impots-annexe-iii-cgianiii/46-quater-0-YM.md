@@ -2,11 +2,11 @@
 
 Pour la détermination des dépenses mentionnées au III de l'article 220 sexies du code général des impôts, il y a lieu de retenir :
 
-1. Pour les œuvres cinématographiques ou audiovisuelles de fiction et les œuvres cinématographiques ou audiovisuelles documentaires :
+1. Pour les œuvres cinématographiques ou audiovisuelles de fiction, les œuvres cinématographiques ou audiovisuelles documentaires et les œuvres d'adaptation audiovisuelle de spectacles :
 
-a. Au titre des rémunérations et charges sociales afférentes aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle : les rémunérations versées par l'entreprise de production aux auteurs en contrepartie de la commande et de l'acquisition des droits nécessaires à la réalisation de l'œuvre, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ;
+a. Au titre des rémunérations et charges sociales afférentes aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle : les rémunérations versées par l'entreprise de production aux auteurs en contrepartie de la commande et de l'acquisition des droits nécessaires à la réalisation de l'œuvre, y compris, en ce qui concerne les œuvres d'adaptation audiovisuelle de spectacles, les compléments de droits artistiques versés aux auteurs, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ;
 
-b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes mentionnés à l'article L. 212-4 du code de la propriété intellectuelle et aux artistes de complément : la part de leur rémunération versée par l'entreprise de production correspondant aux rémunérations minimales prévues par les conventions collectives et accords collectifs de la production cinématographique ou audiovisuelle, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ;
+b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes mentionnés à l'article L. 212-4 du code de la propriété intellectuelle et aux artistes de complément : la part de leur rémunération versée par l'entreprise de production correspondant aux rémunérations minimales prévues par les conventions collectives et accords collectifs de la production cinématographique ou audiovisuelle, y compris, en ce qui concerne les œuvres d'adaptation audiovisuelle de spectacles, la part de la rémunération complémentaire versée aux artistes-interprètes pour la fixation audiovisuelle du spectacle et l'exploitation de l'œuvre audiovisuelle, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ;
 
 c. Au titre des salaires et charges sociales afférents aux personnels de la réalisation et de la production : les rémunérations et leurs accessoires versés par l'entreprise de production aux techniciens et ouvriers de la production, ainsi que les charges sociales dans la mesure où elles correspondent à des cotisations sociales obligatoires. Lorsque les techniciens et ouvriers de la production sont employés par l'entreprise de production à titre permanent, seuls sont pris en compte les salaires et charges sociales correspondant à la période durant laquelle ces personnels ont été effectivement employés à la réalisation de l'œuvre éligible au crédit d'impôt ;
 
@@ -21,6 +21,18 @@ les dépenses de matériels de prises de vues, de machinerie, d'éclairage et de
 3° Les dépenses de postproduction, y compris les effets spéciaux, à savoir : les dépenses de laboratoire image, de montage des images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux numériques et de génériques et bandes-annonces ;
 
 4° Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoire, à savoir : les dépenses de pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo et de sous-titrage ;
+
+d bis Au titre des dépenses effectivement payées au producteur du spectacle pour les œuvres d'adaptation audiovisuelle de spectacles :
+
+1° Le complément de droits artistiques qui correspond à la part de rémunération complémentaire prévue respectivement aux a et b du présent 1 lorsqu'elle est acquittée par le producteur de spectacle ;
+
+2° Le coût plateau qui correspond :
+
+-aux compléments de salaires et charges sociales des auteurs et artistes-interprètes dès lors qu'ils rémunèrent une représentation spécifiquement mise en place pour son adaptation audiovisuelle ;
+
+-aux compléments de rémunérations et charges sociales des collaborateurs de création du spectacle et des personnels rattachés à la représentation du spectacle dès lors qu'ils rémunèrent une représentation spécifiquement mise en place pour son adaptation audiovisuelle ;
+
+-au montant de l'autorisation de fixation audiovisuelle du spectacle versée au producteur du spectacle.
 
 e. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et techniques, strictement nécessaires aux besoins de la production de l'œuvre.
 
