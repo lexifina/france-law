@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201119169
+
+- Question : [SEQ201119169](seq201119169.md) — Aide aux petits commerces
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-12-30, page 7101*
+
+Face à la crise que nous traversons, le Gouvernement a répondu rapidement et massivement à l'urgence économique en améliorant et en renforçant tous les instruments de soutien aux entreprises, en fonction des remontées du terrain et en étant à l'écoute de l'ensemble des acteurs professionnels. Parmi les nombreuses préoccupations économiques liées à la crise, la problématique du paiement des loyers s'est rapidement révélée être un sujet central. Le Gouvernement est bien conscient de l'importance que les loyers peuvent représenter pour les revenus de certains bailleurs privés. C'est pourquoi, il a préconisé, entre bailleurs et locataires, des solutions au cas par cas, fondées sur le dialogue et des négociations d'accords. Surtout, l'Etat a mis en place une palette de mesures permettant aux preneurs de s'acquitter de leurs loyers. En effet, un dispositif complet de soutien aux entreprises a été mis en place, puis prolongé et adapté mois après mois pour répondre au mieux à la situation des entreprises les plus affectés par les conséquences économiques de la situation sanitaire : fonds de solidarité, aide dite « coûts fixes », aide à la reprise des fonds de commerce, délais de paiement ou exonérations d'échéances sociales et fiscales, dispositif d'activité partielle simplifié et renforcé… Au niveau national, le dispositif du fonds de solidarité a dépassé les 36 milliards d'euros et le soutien aux entreprises a atteint près de 240 milliards d'euros lorsque l'on y ajoute les 140 milliards d'euros de prêts garantis par l'Etat accordés. Ces montants sont historiques et à la hauteur des enjeux de la crise.
