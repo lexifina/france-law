@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623301
+
+- Question : [SEQ210623301](seq210623301.md) — Dématérialisation de la procédure d'élection des représentants du personnel au sein de la fonction publique territoriale
+
+## Réponse
+
+*Transformation et fonction publiques, JO du 2021-12-30, page 7152*
+
+Les collectivités disposent de la possibilité de communiquer par voie dématérialisée aux électeurs les candidatures et professions de foi dans le cadre des élections professionnelles. En effet, l'article 13 I du décret n° 2014-793 du 9 juillet 2014 relatif aux conditions et modalités de mise en œuvre du vote électronique par internet pour l'élection des représentants du personnel au sein des instances de représentation du personnel de la fonction publique territoriale, dispose que « sous réserve des dispositions prévues au III du présent article, la délibération mentionnée à l'article 4 du présent décret peut autoriser la collectivité ou l'établissement à mettre en ligne ou à communiquer aux électeurs sur support électronique, au moins quinze jours avant le premier jour du scrutin, les candidatures et professions de foi. Cette mise en ligne ou cette communication fait aussi l'objet d'une transmission sur support papier des candidatures et professions de foi. » Si les décrets concernant les trois versants de la fonction publique sont similaires, cette disposition a été introduite, pour le versant territorial, afin de tenir compte de la spécificité de certains emplois de la FPT et du fait que nombre d'agents exerçant des métiers spécifiques ne disposent pas de postes informatiques. Cette transmission sur support papier vise à permettre aux agents ne disposant pas d'un poste informatique que ce soit au travail ou à domicile de prendre connaissance de ces informations. Aussi il n'est pas envisagé, à ce stade, de modifier la règlementation sur ce point.
