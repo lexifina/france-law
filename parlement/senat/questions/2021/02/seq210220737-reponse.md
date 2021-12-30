@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220737
+
+- Question : [SEQ210220737](seq210220737.md) — Utilisation de couverts et d'ustensiles en bambou en France
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-12-30, page 7115*
+
+Au cours des dernières années une forte diffusion de matériaux et objets destinés à entrer en contact avec des denrées alimentaires (MCDA) en « fibres de bambou » (ou autres fibres végétales) additionnés de résines plastiques a été constatée sur le marché européen. Le Gouvernement est très soucieux de la protection sanitaire des consommateurs. Aussi la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) est chargée de s'assurer de la conformité à la règlementation des MCDA. L'utilisation de fibres de bambou dans les matières plastiques a pour effet de déstabiliser le produit fini et peut mener à des migrations importantes en mélamine et formaldéhyde. Ce constat a été confirmé lors de contrôles réalisés par la DGCCRF qui ont mis en évidence des dépassements des limites maximales en migration pour plus de la moitié des prélèvements effectués (13 articles sur les 24 prélevés en 2019). Ces objets ont fait l'objet de retrait et de rappel du marché. Les États membres et la Commission européenne ont précisé le cadre réglementaire applicable à ces produits. Les MCDA en plastique sont soumis à une réglementation qui définit une liste de substances qu'il est possible d'ajouter aux matières plastiques après évaluation par l'Autorité européenne de sécurité sanitaire. Le bambou n'a pas fait l'objet d'une telle évaluation et ne peut donc pas être utilisé dans ces MCDA. Ainsi tout opérateur, fabriquant, important ou commercialisant ces produits est en infraction avec la réglementation en vigueur. La DGCCRF a réitéré en 2020 ses contrôles sur les MCDA en plastique contenant des fibres de bambou (ou d'autres fibres non autorisées) et d'autres contrôles sur ces produits se poursuivent en 2021.
