@@ -44,9 +44,19 @@ Astreinte technique. |
 
 1 astreinte de semaine. |
 
-Service des systèmes d'information
+Secrétariat interrégional Nord |
 
-et de la modernisation (SSIM) |
+Astreinte d'exploitation viabilité hivernale. |
+
+2 astreintes de semaine (entre le 15/11 et le 31/03). |
+
+Secrétariat interrégional Nord |
+
+Astreinte technique. |
+
+1 astreinte de semaine. |
+
+Direction du numérique |
 
 Astreinte opérationnelle et technique. |
 
@@ -68,9 +78,9 @@ Astreinte d'exploitation viabilité hivernale. |
 
 2 astreintes de semaine (entre le 15/11 et le 31/03). |
 
-Ecole nationale
+École Nationale
 
-de l'aviation civile |
+de l'Aviation Civile |
 
 |
 
@@ -90,23 +100,19 @@ Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Bureau d'enquêtes et d'analyses
-
-pour la sécurité de l'aviation civile |
+Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
 1 astreinte de semaine et 2 astreintes de fin de semaine |
 
-Direction des opérations de la direction des services
-
-de la navigation aérienne |
+Direction des opérations de la direction des services de la navigation aérienne |
 
 |
 
 |
 
-Echelon central |
+Échelon central |
 
 Astreinte opérationnelle. |
 
@@ -130,11 +136,11 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Astreinte technique.
+Astreinte technique. |
+
+1 astreinte de semaine. |
 
 Astreinte technique (radar). |
-
-1 astreinte de semaine.
 
 2 astreintes de fin de semaine 4 fois par an. |
 
@@ -200,13 +206,9 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-|
-
 Astreinte technique. |
 
 1 astreinte de semaine. |
-
-|
 
 Astreinte technique (radar). |
 
@@ -424,9 +426,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service de l'aviation civile
-
-de Saint-Pierre-et-Miquelon |
+Service de l'aviation civile de Saint-Pierre-et-Miquelon |
 
 |
 
@@ -492,7 +492,7 @@ DSAC Sud-Ouest |
 
 DSAC |
 
-Astreinte de contrôle technique d'exploitation . |
+Astreinte de contrôle technique d'exploitation. |
 
 1 astreinte de semaine dans la limite de 26 semaines par an. |
 
@@ -502,19 +502,19 @@ Astreinte de direction |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Bordeaux) |
+Région Nouvelle Aquitaine (Bordeaux) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Pau) |
+Région Nouvelle Aquitaine (Pau) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle-Aquitaine (Poitiers) |
+Région Nouvelle Aquitaine (Poitiers) |
 
 Astreinte enquêtes-accidents. |
 
@@ -586,13 +586,13 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val de Loire (Tours) |
+Région Centre-Val-de-Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Normandie (Deauville, Le Havre et Rouen) |
+Région Normandie (Deauville, le Havre et Rouen) |
 
 Astreinte enquêtes-accidents. |
 
@@ -622,13 +622,13 @@ Astreinte enquêtes-accidents (Bourgogne-Franche-Comté) |
 
 1 astreinte de semaine. |
 
-Région Grand Est (Strasbourg) |
+Région Grand-Est (Strasbourg) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Grand Est (Metz-Nancy-Lorraine) |
+Région Grand-Est (Metz-Nancy-Lorraine) |
 
 Astreinte enquêtes-accidents. |
 
@@ -814,15 +814,15 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte Direction de l'aviation civile
-
-en Nouvelle-Calédonie |
+Service mixte " Direction de l'aviation civile en Nouvelle-Calédonie "
 
 |
 
 |
 
-Service mixte DAC/ NC |
+|
+
+Service mixte " DAC/ NC " |
 
 Astreinte de contrôle technique d'exploitation. |
 
@@ -830,7 +830,7 @@ Astreinte de contrôle technique d'exploitation. |
 
 Nouméa |
 
-Astreinte de direction (service mixte DAC/ NC ). |
+Astreinte de direction (Service mixte " DAC/ NC "). |
 
 1 astreinte de semaine. |
 
@@ -858,7 +858,7 @@ Astreinte technique de maintenance. |
 
 1 astreinte de semaine. |
 
-SEAC des îles Wallis et Futuna |
+SEAC des îles Wallis-et-Futuna |
 
 |
 
