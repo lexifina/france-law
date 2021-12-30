@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321208
+
+- Question : [SEQ210321208](seq210321208.md) — Récupération des eaux de pluie
+
+## Réponse
+
+*Transition écologique, JO du 2021-12-30, page 7153*
+
+La récupération d'eaux de pluie, partiellement ou non traitées, est autorisée pour certains usages à l'extérieur ou à l'intérieur des bâtiments (arrosage, lavage des sol, alimentation de chasses d'eau). Ces usages sont encadrés par le Code de la santé publique. L'arrêté interministériel du 21 août 2008 précise les conditions d'installation, d'entretien et de surveillance des équipements de récupération de l'eau de pluie. Conformément à l'article R. 2224-19-4 du Code général des collectivités territoriales, le système de récupération de l'eau de pluie et l'évaluation des volumes utilisés doivent être déclarés en mairie pour des bâtiments raccordés au réseau de collecte des eaux usées. Cette déclaration en mairie est obligatoire et permet au propriétaire de s'acquitter de la redevance assainissement collectif qui assure le report du coût du service d'assainissement vers l'usager. En effet, l'eau de pluie rejetée au réseau après usage devra être transportée vers une station d'épuration puis traitée, ce qui induit un coût pour la collectivité. Conformément à l'article précédemment cité, cette redevance est calculée : - soit par mesure directe au moyen de dispositifs de comptage posés et entretenus aux frais de l'usager et dont les relevés sont transmis au service d'assainissement ; - soit, en l'absence de dispositifs de comptage, sur la base de critères permettant d'évaluer le volume d'eau prélevé, définis par la même autorité et prenant en compte notamment la surface de l'habitation et du terrain, le nombre d'habitants et la durée d'occupation du bien. En l'absence de formulaire officiel, le propriétaire de l'installation doit se renseigner directement auprès de sa mairie sur les modalités pratiques de cette déclaration.
