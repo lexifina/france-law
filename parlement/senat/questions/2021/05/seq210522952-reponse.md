@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522952
+
+- Question : [SEQ210522952](seq210522952.md) — Différenciation des règles de déconfinement suivant les territoires
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-12-30, page 7137*
+
+Le Gouvernement est pleinement conscient des conséquences de la lutte contre l'épidémie de Covid-19 pour les cafés, restaurants, bars durement touchés ainsi que des inquiétudes et des attentes légitimes de ces entreprises. Le Président de la République a annoncé le 29 avril 2021 la stratégie de réouverture des commerces et des établissements recevant du public ayant fait l'objet d'une fermeture administrative. Cette stratégie a fait l'objet de concertations avec les scientifiques, les forces politiques représentées au Parlement, les élus locaux, les partenaires sociaux et l'ensemble des secteurs professionnels concernés. La sécurité des clients et des salariés pendant la crise de la Covid-19 est la priorité absolue du Gouvernement et de tous les établissements du secteur de l'hôtellerie, des cafés et de la restauration. Le Gouvernement et les professionnels ont élaboré un protocole permettant une réouverture sécurisée dans des conditions conciliant l'activité économique avec la protection sanitaire de la population. Ce protocole se concentre sur les mesures de protection du consommateur et sur la bonne application des gestes barrières vis-à-vis des clients. Depuis le 30 juin, la consommation en terrasse et en intérieur est de nouveau autorisée dans l'ensemble des établissements de restauration, sans application d'une jauge restreignant la capacité d'accueil de l'établissement, ni le nombre maximal de convives par table. En outre, le Gouvernement a maintenu, selon certaines modalités, les aides aux entreprises concernées notamment le fonds de solidarité, et ce après les étapes de réouverture.
