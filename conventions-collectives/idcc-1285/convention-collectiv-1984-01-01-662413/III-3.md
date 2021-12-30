@@ -134,7 +134,7 @@ La désignation des représentants à l'assemblée générale s'effectue de la m
 
 Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS. Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 3 représentants de ce collège au conseil de gestion ;
 
-– les 40 représentants des salariés intermittents du spectacle sont élus par l'ensemble des salariés intermittents ayant eu leurs droits ouverts au cours des 2 dernières années, selon les modalités fixées par le règlement intérieur. Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS.
+– les 40 représentants des salariés intermittents du spectacle sont élus par l'ensemble des salariés intermittents ayant eu leurs droits ouverts au cours des 3 dernières années, selon les modalités fixées par le règlement intérieur. Cette élection a lieu par correspondance sur listes syndicales à la proportionnelle à un tour. Les listes sont établies par les organisations de salariés ayant au moins un représentant du personnel élu au premier tour dans au moins une des entreprises affiliées au FNAS.
 
 Le scrutin se déroule selon les modalités des élections professionnelles prévues au code du travail sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur. Au cours de ce même scrutin, et selon les mêmes modalités de calcul, seront élus les 7 représentants de ce collège au conseil de gestion ;
 
@@ -224,7 +224,7 @@ Les représentants sont désignés comme suit :
 
 – ceux représentant des structures ayant constitué un comité d'entreprise sont élus lors de l'assemblée générale par leur collège, sur listes syndicales établies par les organisations de salariés représentatives au plan national selon les modalités des élections professionnelles prévues au code du travail à la représentation proportionnelle sur la base du quotient électoral et à la plus forte moyenne et selon les dispositions du règlement intérieur.
 
-La durée du mandat des membres élus du conseil de gestion est fixée à 2 ans.
+La durée du mandat des membres élus du conseil de gestion est fixée à 3 ans.
 
 Article 13
 
