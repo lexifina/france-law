@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321734
+
+- Question : [SEQ210321734](seq210321734.md) — Détresse du secteur de l'événementiel et nécessité de leur obtenir une meilleure visibilité pour la reprise de leur activité à l'approche des périodes printanière et estivale
+
+## Réponse
+
+*Économie, finances et relance, JO du 2021-12-30, page 7122*
+
+La sécurité des clients et des salariés pendant la crise de la Covid-19 est la priorité absolue du Gouvernement et des acteurs du mariage. C'est pourquoi le Gouvernement a élaboré un protocole permettant une reprise des célébrations compatible avec la protection sanitaire de la population. Ce protocole est disponible sur le site du ministère de l'économie, des finances et de la relance. En outre, pendant toute cette période où l'activité était fortement limitée en raison des mesures prises pour freiner la propagation de l'épidémie, le Gouvernement a soutenu économiquement l'ensemble des entreprises impactées. Elles ont pu bénéficier des dispositifs d'accompagnement mis en place depuis le début de la crise sanitaire tel que le fonds de solidarité, le chômage partiel, les prêts garantis par l'Etat (PGE), ou encore le dispositif d'exonération de cotisations pour les entreprises fermées administrativement. En outre, concernant les commerces fermés en centres commerciaux, une aide spécifique a par ailleurs est mise en place. Au niveau national, le dispositif du fonds de solidarité a dépassé les 36 milliards d'euros et le soutien aux entreprises a atteint près de 240 milliards d'euros lorsque l'on y ajoute les 140 milliards d'euros de prêts garantis par l'Etat accordés. Ces montants sont historiques et à la hauteur des enjeux de la crise.L'ensemble des entreprises ont désormais repris leurs activités ; l'économie retrouve son niveau d'activité de fin 2019, en avance par rapport aux objectifs initiaux ; les prévisions de croissance sont revues à la hausse avec 6,25% de croissance en 2021.
