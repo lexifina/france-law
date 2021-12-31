@@ -24,6 +24,8 @@ Toute personne condamnée a le droit de faire examiner sa condamnation par une a
 
 En matière criminelle et correctionnelle, aucune condamnation ne peut être prononcée contre une personne sur le seul fondement de déclarations qu'elle a faites sans avoir pu s'entretenir avec un avocat et être assistée par lui.
 
+En matière de crime ou de délit, le droit de se taire sur les faits qui lui sont reprochés est notifié à toute personne suspectée ou poursuivie avant tout recueil de ses observations et avant tout interrogatoire, y compris pour obtenir des renseignements sur sa personnalité ou pour prononcer une mesure de sûreté, lors de sa première présentation devant un service d'enquête, un magistrat, une juridiction ou toute personne ou tout service mandaté par l'autorité judiciaire. Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations faites sans que ledit droit ait été notifié.
+
 NOTA :
 
-Conformément à l’article 109, XIII de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication de la présente loi.
+Conformément au IX de l'article 59 de la loi n° 2021-1729 du 22 décembre 2021, ces dispositions entrent en vigueur le 31 décembre 2021.
