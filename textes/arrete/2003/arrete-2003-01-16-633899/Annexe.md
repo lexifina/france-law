@@ -8,23 +8,23 @@ Chapitre Ier : Conditions générales.
 
 3. Le logement des porcs doit être construit de manière à permettre aux animaux :
 
-- d'avoir accès à une aire de couchage confortable du point de vue physique et thermique et qui soit convenablement asséchée et propre, permettant à tous les animaux de se coucher en même temps ;
+-d'avoir accès à une aire de couchage confortable du point de vue physique et thermique et qui soit convenablement asséchée et propre, permettant à tous les animaux de se coucher en même temps ;
 
-- de se reposer et de se lever normalement ;
+-de se reposer et de se lever normalement ;
 
-- de voir d'autres porcs ; toutefois, au cours de la semaine précédant la mise bas prévue et au cours de la mise bas, les truies et cochettes peuvent être hébergées à l'écart de leurs congénères.
+-de voir d'autres porcs ; toutefois, au cours de la semaine précédant la mise bas prévue et au cours de la mise bas, les truies et cochettes peuvent être hébergées à l'écart de leurs congénères.
 
 4. Tous les porcs doivent pouvoir accéder en permanence à une quantité suffisante de matériaux permettant des activités de recherche et de manipulation suffisantes, tels que la paille, le foin, la sciure de bois, le compost de champignons, la tourbe ou un mélange de ces matériaux, qui ne compromette pas la santé des animaux.
 
 Le type et le nombre de matériaux manipulables sont les suivants :
 
-- pour les cases contenant jusqu'à 25 porcs : au moins un matériau optimal ou un matériau sous-optimal et un matériau d'intérêt minime ;
+-pour les cases contenant jusqu'à 25 porcs : au moins un matériau optimal ou un matériau sous-optimal et un matériau d'intérêt minime ;
 
-- pour les cases contenant de 26 à 40 porcs : au moins un matériau optimal, ou deux matériaux sous-optimaux ou un si plus de deux porcs peuvent accéder simultanément, et un d'intérêt minime ;
+-pour les cases contenant de 26 à 40 porcs : au moins un matériau optimal, ou deux matériaux sous-optimaux ou un si plus de deux porcs peuvent accéder simultanément, et un d'intérêt minime ;
 
-- pour les cases contenant plus de 40 porcs : au moins un matériau optimal ou deux matériaux sous-optimaux et deux matériaux d'intérêt minime ou un si plus de deux porcs peuvent accéder simultanément ;
+-pour les cases contenant plus de 40 porcs : au moins un matériau optimal ou deux matériaux sous-optimaux et deux matériaux d'intérêt minime ou un si plus de deux porcs peuvent accéder simultanément ;
 
-- dans le cas particulier des cases contenant jusqu'à 10 porcs femelles reproductrices, des verrats en case individuelle et des cochettes et porcs femelles reproductrices en stalle individuelle : au moins un matériau optimal ou sous-optimal.
+-dans le cas particulier des cases contenant jusqu'à 10 porcs femelles reproductrices, des verrats en case individuelle et des cochettes et porcs femelles reproductrices en stalle individuelle : au moins un matériau optimal ou sous-optimal.
 
 Les catégories de matériaux mentionnés aux alinéas précédents sont définies dans la recommandation (UE) 2016/336 de la Commission du 8 mars 2016 sur l'application de la directive 2008/120/ CE du Conseil établissant les normes minimales relatives à la protection des porcs en ce qui concerne des mesures visant à diminuer la nécessité de l'ablation de la queue.
 
@@ -42,33 +42,49 @@ Lorsqu'une auge longue est utilisée, les porcs sevrés doivent disposer d'un ac
 
 2° Si les porcs sont alimentés par une alimentation sèche :
 
-- lorsque les abreuvoirs sont constitués de bols, le nombre d'animaux par abreuvoir ne doit pas dépasser 18 porcelets sevrés ou porcs de production, 10 truies gestantes et une truie allaitante ;
+-lorsque les abreuvoirs sont constitués de bols, le nombre d'animaux par abreuvoir ne doit pas dépasser 18 porcelets sevrés ou porcs de production, 10 truies gestantes et une truie allaitante ;
 
-- lorsque les abreuvoirs sont constitués de pipettes, le nombre d'animaux par abreuvoir ne doit pas dépasser 10 porcelets sevrés ou porcs de production, 5 truies gestantes et une truie allaitante.
+-lorsque les abreuvoirs sont constitués de pipettes, le nombre d'animaux par abreuvoir ne doit pas dépasser 10 porcelets sevrés ou porcs de production, 5 truies gestantes et une truie allaitante.
 
 8. Toutes les procédures destinées à intervenir à d'autres fins que thérapeutiques ou de diagnostic ou pour l'identification des porcs conformément à la législation applicable et provoquant des dommages ou la perte d'une partie sensible du corps ou une altération de la structure osseuse sont interdites, sauf dans les cas mentionnés ci-après :
 
-- la réduction uniforme des coins des porcelets par une technique appropriée telle que le meulage au cours des sept jours suivant la naissance et devant laisser une surface lisse, intacte et non blessante pour la truie et le porcelet. Si une telle intervention est pratiquée, elle doit être justifiée conformément au second alinéa. Les défenses des verrats peuvent être réduites dans leur longueur si nécessaire pour prévenir toute blessure causée aux autres animaux ou pour des raisons de sécurité ;
+-la réduction uniforme des coins des porcelets par une technique appropriée telle que le meulage au cours des sept jours suivant la naissance et devant laisser une surface lisse, intacte et non blessante pour la truie et le porcelet. Si une telle intervention est pratiquée, elle doit être justifiée conformément au second alinéa. Les défenses des verrats peuvent être réduites dans leur longueur si nécessaire pour prévenir toute blessure causée aux autres animaux ou pour des raisons de sécurité ;
 
-- la section partielle de la queue ;
+-la section partielle de la queue ;
 
-- la castration des porcs mâles par d'autres moyens que le déchirement des tissus ;
-
-- la pose d'anneaux dans le nez n'est autorisée que dans les systèmes d'élevage en plein air.
+-la pose d'anneaux dans le nez n'est autorisée que dans les systèmes d'élevage en plein air.
 
 La section partielle de la queue et la réduction des coins ne peuvent être réalisées sur une base de routine, mais uniquement lorsqu'il existe des preuves que des blessures causées aux mamelles des truies ou aux oreilles ou aux queues d'autres porcs ont eu lieu. Avant d'exécuter ces procédures, d'autres mesures doivent être prises afin de prévenir la caudophagie et d'autres vices, en tenant compte du milieu de vie et des taux de charge. Pour cette raison, les conditions d'ambiance ou les systèmes de conduite des élevages doivent être modifiés s'ils ne sont pas appropriés.
 
-Les procédures décrites ci-dessus ne sont exécutées que par un vétérinaire ou une personne formée et expérimentée pour mettre en œuvre les techniques concernées avec les moyens appropriés et dans des conditions hygiéniques. Ces procédures doivent faire appel à des techniques de nature à réduire au minimum toute douleur ou stress pour les animaux. Si la castration ou la section partielle de la queue sont pratiquées plus de sept jours après la naissance, une anesthésie complétée par une analgésie prolongée doit être réalisée par un vétérinaire.
+Les procédures décrites ci-dessus ne sont exécutées que par un vétérinaire ou une personne formée et expérimentée pour mettre en œuvre les techniques concernées avec les moyens appropriés et dans des conditions hygiéniques. Ces procédures doivent faire appel à des techniques de nature à réduire au minimum toute douleur ou stress pour les animaux. Si la section partielle de la queue est pratiquée plus de sept jours après la naissance, une anesthésie complétée par une analgésie prolongée doit être réalisée par un vétérinaire.
+
+9. Il ne peut être procédé à la castration des porcs domestiques mâles que :
+
+1° A des fins thérapeutiques ou de diagnostic ;
+
+2° A d'autres fins, à condition d'être réalisée soit par castration chirurgicale avec anesthésie et analgésie par d'autres moyens que le déchirement des tissus, soit par immunocastration et lorsque l'une des conditions suivantes est remplie :
+
+a) Elle conditionne le respect d'un cahier des charges imposé pour l'obtention d'un signe d'identification de la qualité et de l'origine au sens de l'article L. 640-2 du code rural et de la pêche maritime ;
+
+b) Elle répond à une exigence de qualité de la personne à laquelle est transférée la propriété du porc par l'éleveur, qui figure dans le contrat de vente de produits agricoles conclu en application de l'article L. 631-24 du même code ou dans les documents mentionnés au premier alinéa du II de l'article L. 631-24-3 du même code, et qui résulte, le cas échéant, des exigences figurant dans les contrats de revente des produits par cette personne conclus en application des dispositions précitées ou en application de l'article L. 443-8 du code de commerce ;
+
+c) Dans l'hypothèse où les articles L. 631-24 et L. 631-24-3 du même code ne sont pas applicables, elle répond à une exigence de qualité de l'acheteur prouvée par tout moyen, ou est rendue nécessaire par des exigences de qualité attendues par les consommateurs dans le cadre de ventes directes.
+
+Le respect des conditions mentionnées au 2° ci-dessus doit pouvoir être démontré sur demande des services de contrôles.
+
+Seuls les vétérinaires mentionnés à l'article L. 241-1 du code rural et de la pêche maritime peuvent pratiquer des opérations de castration.
+
+Par dérogation à l'alinéa précédent, les détenteurs de porcs domestiques mâles et leurs salariés peuvent pratiquer la castration des porcs domestiques mâles âgés de sept jours ou moins dans des conditions et techniques fixées par instruction du ministre chargé de l'agriculture publiée au Bulletin officiel du ministère chargé de l'agriculture.
 
 Chapitre II : Dispositions particulières relatives aux différentes catégories de porcs.
 
-A. - Verrats.
+A.-Verrats.
 
 Les cases pour verrats doivent être placées et construites de manière que les verrats puissent se retourner, percevoir le grognement, l'odeur et la silhouette des autres porcs. La surface au sol, débarrassée de tout obstacle, disponible pour un verrat adulte doit avoir une dimension minimale de 6 mètres carrés.
 
 Lorsque les cases sont également utilisées pour la saillie naturelle, la surface disponible pour un verrat adulte doit être d'au moins 10 mètres carrés et la case doit être débarrassée de tout obstacle. A compter du 1er janvier 2003, cette disposition sera applicable à toutes les exploitations nouvellement construites ou reconstruites ou utilisées pour la première fois après cette date ; à compter du 1er janvier 2005, cette disposition sera applicable à toutes les exploitations.
 
-B. - Truies et cochettes.
+B.-Truies et cochettes.
 
 1. Des mesures doivent être prises pour minimiser les agressions dans les groupes.
 
@@ -80,7 +96,7 @@ B. - Truies et cochettes.
 
 5. Les loges de mise bas où les truies peuvent se mouvoir librement doivent être munies de dispositifs de protection des porcelets tels que des barres.
 
-C. - Porcelets.
+C.-Porcelets.
 
 1. Une partie de la surface totale au sol suffisamment large pour permettre aux animaux de se reposer en même temps doit être suffisamment solide, être couverte d'un revêtement, d'une litière de paille ou de tout autre matériau approprié. Si nécessaire, il y a lieu de fournir aux porcelets une source de chaleur adéquate.
 
@@ -90,7 +106,7 @@ C. - Porcelets.
 
 Cependant, les porcelets peuvent être sevrés jusqu'à sept jours plus tôt s'ils sont déplacés dans des locaux spécialisés qui seront vidés, nettoyés et désinfectés complètement avant l'introduction d'un nouveau groupe et qui seront séparés des locaux où les truies sont hébergées afin de réduire autant que possible les risques de transmission de maladies aux porcelets.
 
-D. - Porcelets sevrés et porcs de production.
+D.-Porcelets sevrés et porcs de production.
 
 1. Lorsque les porcs sont détenus en groupes, des mesures doivent être prises pour éviter les combats allant au-delà d'un comportement normal.
 
@@ -99,3 +115,9 @@ D. - Porcelets sevrés et porcs de production.
 3. Lorsque des signes de combats violents sont constatés, les causes doivent en être immédiatement recherchées et des mesures appropriées, telles que la mise à disposition de grandes quantités de paille pour les animaux, si possible, ou d'autres matériaux permettant des activités de recherche, doivent être prises. Les animaux à risque ou les animaux agressifs doivent être maintenus à l'écart du groupe.
 
 4. L'utilisation de tranquillisants en vue de faciliter le mélange des porcs doit être limitée aux cas exceptionnels et être soumise à l'avis d'un vétérinaire.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 24 février 2020, ces dispositions entrent en vigueur le 31 décembre 2021.
+
+Conformément à l'article 2 de l'arrêté du 17 novembre 2021, ces dispositions entrent en vigueur pour les porcs nés à partir du 1er janvier 2022.
