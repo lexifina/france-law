@@ -10,7 +10,7 @@ II.-Il est institué, au sein de la Caisse nationale des industries électriques
 
 Le comité de suivi peut émettre des propositions d'évolution des mécanismes de solidarité intraprofessionnelle. Il délibère sur la liste des charges mentionnées au 1° du III et l'évaluation des dépenses qui en résultent. Il procède à l'évaluation des mécanismes de solidarité intraprofessionnelle mis en œuvre.
 
-Le directeur et l'agent comptable de la Caisse nationale des industries électriques et gazières ou leurs représentants peuvent assister aux séances de ce comité.
+Le directeur et le directeur comptable et financier de la Caisse nationale des industries électriques et gazières ou leurs représentants peuvent assister aux séances de ce comité.
 
 Un arrêté du ministre chargé de la sécurité sociale détermine les conditions de fonctionnement du comité, et notamment de désignation de ses membres.
 
@@ -24,30 +24,18 @@ La délibération mentionnée au 1° ne prend effet qu'au terme d'un délai de t
 
 IV.-Les ressources destinées à couvrir les charges prévues au III sont constituées du produit :
 
-1° D'une cotisation à la charge des employeurs mentionnés au I ;
+1° D'une cotisation à la charge des employeurs mentionnés au I déclarée, versée, contrôlée et recouvrée dans les conditions prévues par le décret n° 2005-278 du 24 mars 2005 relatif aux ressources de la Caisse nationale des industries électriques et gazières ;
 
 2° Des sommes résultant des recours exercés par les entreprises contre les tiers responsables d'accidents occasionnés aux agents statutaires, en remboursement des prestations versées par celles-ci au titre de l'article 22 du statut national précité.
 
-V.-La cotisation mentionnée au 1° du IV est due et recouvrée selon les modalités suivantes :
+V.- (Abrogé) ;
 
-1° Elle est assise sur l'assiette mentionnée au I de l'article 2 du décret n° 2005-278 du 24 mars 2005 relatif aux ressources de la Caisse nationale des industries électriques et gazières ;
+VI.- (Abrogé) ;
 
-2° Son taux est égal au rapport entre les charges mentionnées au présent III, nettes des sommes mentionnées au 2° du IV supportées au cours de l'année civile, et la somme des éléments de rémunération constitutifs de l'assiette mentionnée au 1° ci-dessus versés au cours de cette même année par l'ensemble des employeurs redevables de la cotisation.
+VII.-La Caisse nationale des industries électriques et gazières assure, au titre de la gestion des mécanismes supplémentaires de solidarité intraprofessionnelle mentionnés à l'article 2 bis, une mission de contrôle et d'audit des charges couvertes dans le cadre de ces derniers. L'employeur est tenu de communiquer à la Caisse nationale des industries électriques et gazières les éléments justificatifs du versement des prestations.
 
-VI.-Il est déterminé un taux provisionnel et un taux définitif de la cotisation mentionnée au 1° du IV comme suit au titre de chaque année civile :
+VIII.-Les opérations relatives aux charges et produits des mécanismes supplémentaires de solidarité intra-professionnelle sont retracées dans une section comptable distincte des autres risques dont la caisse assure la gestion. Elles sont décrites dans le rapport annuel du directeur comptable et financier de la caisse et font l'objet d'une présentation chaque année au comité de suivi mentionné au II dans le cadre de l'arrêté des comptes de la caisse.
 
-1° Le taux provisionnel est calculé sur la base de l'assiette mentionnée au 1° du V établie à titre définitif pour l'année précédant l'année en cours et des prévisions de charges mentionnées au III pour l'année en cours.
+NOTA :
 
-Toutefois, ce taux provisionnel peut faire l'objet d'une révision par la caisse en cours de période. Ce taux révisé est alors applicable à compter de la première échéance de versement des éléments de rémunérations constitutifs de l'assiette mentionnée 1° du V suivant le mois de la notification de ce taux ;
-
-2° Le taux définitif est déterminé au titre de chaque année civile par la caisse avant le 1er avril de l'année suivant celle à laquelle il s'applique.
-
-En cas de différence entre ce taux et le taux provisionnel, la caisse procède à une régularisation annuelle et la notifie aux employeurs au plus tard le 1er avril de l'année suivant l'exercice en cause ;
-
-3° La cotisation définie au V est déclarée, versée et recouvrée dans les mêmes conditions, aux mêmes dates et sous les mêmes garanties et sanctions que celles applicables aux cotisations mentionnées aux articles 5 et 6 du décret du 24 mars 2005 précité, à l'exception des dispositions du chapitre III bis du titre III du livre Ier du code de la sécurité sociale.
-
-En cas de révision du taux provisionnel, la caisse procède à une régularisation annuelle et la notifie aux employeurs au plus tard le 1er avril de l'année suivant l'exercice en cause. Si le taux définitif est inférieur au taux provisionnel, les trop-perçus par la caisse sont déduits, par les employeurs, des sommes dont ils sont redevables aux échéances suivantes.
-
-VII.-L'employeur est tenu de communiquer à la Caisse nationale des industries électriques et gazières les éléments justificatifs du versement des prestations.
-
-VIII.-Les opérations relatives aux charges et produits des mécanismes supplémentaires de solidarité intra-professionnelle sont retracées dans une section comptable distincte des autres risques dont la caisse assure la gestion. Elles sont décrites dans le rapport annuel de l'agent comptable de la caisse et font l'objet d'une présentation chaque année au comité de suivi mentionné au II dans le cadre de l'arrêté des comptes de la caisse.
+Se reporter aux conditions d'application prévues au I de l'article 3 du décret n° 2021-1877 du 29 décembre 2021.
