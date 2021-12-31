@@ -1,5 +1,0 @@
-# Article 2 bis
-
-Les compétences relatives à l'intervention à proximité des réseaux définies en annexe II de l'arrêté du 15 janvier 2019 relatif aux diplômes professionnels délivrés par le ministre de l'éducation nationale et de la jeunesse et aux brevets de techniciens supérieurs permettant la délivrance de l'autorisation d'intervention à proximité des réseaux (AIPR) complètent les compétences définies en annexes du présent arrêté.
-
-Les compétences définies en annexe II de l'arrêté du 15 janvier 2019 précité sont évaluées au cours des épreuves professionnelles.
