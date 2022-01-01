@@ -132,6 +132,12 @@ Arrêté fixant le modèle d'avis pour la passation des contrats de concession
 
 |
 
+Annexe n° 22 |
+
+Arrêté du 12 février 2020 fixant un modèle d'avis pour la passation des marchés publics répondant à un besoin d'une valeur estimée entre 90 000 € hors taxes et les seuils de procédure formalisée
+
+|
+
 GRILLE DE CORRESPONDANCE
 
 Articles
@@ -245,6 +251,12 @@ Article R. 2131-7
 |
 
 Annexe n° 3 : Avis relatif aux contrats de la commande publique ayant pour objet des services sociaux et autres services spécifiques |
+
+Article R. 2131-12
+
+|
+
+Annexe n° 22 : Arrêté du 12 février 2020 fixant un modèle d'avis pour la passation des marchés publics répondant à un besoin d'une valeur estimée entre 90 000 € hors taxes et les seuils de procédure formalisée |
 
 Article R. 2131-14
 
@@ -579,3 +591,9 @@ Article R. 3221-2
 |
 
 Annexe n° 2 : Avis relatif aux seuils de procédure et à la liste des autorités publiques centrales en droit de la commande publique |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 12 février 2020 (NOR : ECOM2004461A), ces dispositions entrent en vigueur le 1er janvier 2022.
+
+Elles s'appliquent aux marchés publics pour lesquels un avis de marché est envoyé à la publication à compter de sa date d'entrée en vigueur.
