@@ -2566,7 +2566,9 @@ et techniciens des hôpitaux des armées |
 
 Échelons |
 
-Grade de référence de la hiérarchie militaire générale |
+Grade de référence
+
+de la hiérarchie militaire générale |
 
 Directeur des soins hors classe |
 
@@ -2578,13 +2580,15 @@ Directeur des soins hors classe |
 
 A partir du 1er et jusqu'au 7e échelon inclus |
 
-Lieutenant-colonel ou
-
-capitaine de frégate |
+Lieutenant-colonel ou capitaine de frégate |
 
 Directeur des soins de classe normale |
 
 A partir du 8e échelon |
+
+Cadre de santé paramédical hors classe |
+
+A partir du 3e échelon |
 
 Cadre supérieur de santé paramédical |
 
@@ -2602,9 +2606,11 @@ Directeur des soins de classe normale |
 
 A partir du 1er et jusqu'au 7e échelon inclus |
 
-Commandant ou
+Commandant ou capitaine de corvette |
 
-capitaine de corvette |
+Cadre de santé paramédical hors classe |
+
+A partir du 1er et jusqu'au 2e échelon inclus |
 
 Cadre supérieur de santé paramédical |
 
@@ -2820,7 +2826,7 @@ Technicien de laboratoire de classe normale |
 
 A partir du 6e échelon |
 
-Technicien supérieur hospitalier de 1ère classe |
+Technicien supérieur hospitalier de 1re classe |
 
 A partir du 1er échelon |
 
@@ -2836,19 +2842,17 @@ Assistant médico-administratif de classe supérieure |
 
 A partir du 1er et jusqu'au 6e échelon inclus |
 
-Adjudant-chef ou
-
-maître principal |
+Adjudant-chef ou maître principal |
 
 Assistant médico-administratif de classe normale |
 
 A partir du 5e et jusqu'au 10e échelon inclus |
 
-Aide-soignant principal |
+Aide-soignant de classe supérieure |
 
 A partir du 3e échelon |
 
-Aide-soignant |
+Aide-soignant de classe normale |
 
 A partir du 8e échelon |
 
@@ -2902,7 +2906,7 @@ A partir du 1er et jusqu'au 4e échelon inclus |
 
 Orthoptiste de classe normale (1) |
 
-A partir du 1e et jusqu'au 5e échelon inclus |
+A partir du 1er et jusqu'au 5e échelon inclus |
 
 Préparateur en pharmacie hospitalière de classe normale |
 
@@ -2924,13 +2928,13 @@ Technicien hospitalier |
 
 A partir du 5e et jusqu'au 10e échelon inclus |
 
-Aide-soignant principal |
+Aide-soignant de classe supérieure |
 
 A partir du 1er et jusqu'au 2e échelon inclus |
 
 Adjudant ou premier maître |
 
-Aide-soignant |
+Aide-soignant de classe normale |
 
 A partir du 6e et jusqu'au 7e échelon inclus |
 
@@ -2942,7 +2946,7 @@ Technicien hospitalier |
 
 A partir du 1er et jusqu'au 4e échelon inclus |
 
-Aide-soignant |
+Aide-soignant de classe normale |
 
 A partir du 1er et jusqu'au 5e échelon inclus |
 
@@ -2953,3 +2957,5 @@ Sergent-chef ou maître |
 NOTA :
 
 (*) Au lieu de " SOUS-OFFICIERS MARINIERS, il faut lire OFFICIERS MARINIERS ".
+
+Conformément à l’article 1 du décret n° 2021-1811 du 24 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
