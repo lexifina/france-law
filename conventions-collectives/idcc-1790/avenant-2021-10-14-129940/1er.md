@@ -1,0 +1,63 @@
+# Article 1er
+
+L'article 2 de l'avenant n° 44 du 28 juin 2013 intitulé « Garanties », est modifié comme suit :
+
+« À compter du 1er janvier 2022, le taux de la cotisation, initialement fixé à 0,56 % des salaires bruts, est augmenté de 15 %, soit un nouveau taux de 0,65 % (après arrondi) des salaires bruts, pour l'ensemble des salariés permanents y compris ceux de la filière spectacle).
+
+Montant des cotisations : 0,65 % des salaires bruts tranche 1 et tranche 2 (limité au total T1 + T2 à 4 Pass), répartis de la façon suivante :
+
+Garanties |
+
+T1 |
+
+T2 |
+
+Capital décès |
+
+0,12 % |
+
+0,12 % |
+
+Rente d'éducation |
+
+0,10 % |
+
+0,10 % |
+
+Incapacité temporaire de travail |
+
+0,22 % |
+
+0,22 % |
+
+Invalidité |
+
+0,20 % |
+
+0,20 % |
+
+Reprise des encours (revalorisations) |
+
+0,01 % |
+
+0,01 % |
+
+Total |
+
+0,65 % |
+
+0,65 % |
+
+T2 (limité au total T1 + T2 à 4 Pass [et 3 Pass pour les non cadres de la filière spectacle]). |
+
+Les cotisations sont réparties à raison de :
+
+– 40 % à la charge des salariés ;
+
+– 60 % à la charge de l'employeur.
+
+Il est rappelé qu'en tout état de cause, les entreprises de la branche doivent se conformer à l'obligation résultant de la convention collective nationale des cadres du 14 mars 1947.
+
+Les cotisations visées ci-dessus seront prises en compte pour apprécier cette obligation.
+
+Les entreprises seront libres de choisir l'organisme de prévoyance pour souscrire, si nécessaire, un contrat couvrant des garanties supplémentaires à celles prévues par le présent accord. »
