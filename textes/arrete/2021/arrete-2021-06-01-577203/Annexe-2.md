@@ -56,7 +56,9 @@ II. - Les professionnels et les détenteurs de formation suivants, sous la respo
 
 8° Les matelots pompiers détenant le brevet élémentaire de matelot pompier (BE MOPOMPI) ou les marins pompiers détenant le brevet d'aptitude technique de marins pompier (BAT MARPO) ou le brevet supérieur de marin pompier (BS MARPO) ;
 
-9° Les détenteurs de la formation premiers secours en équipe de niveau 2 (PSE2).
+9° Les détenteurs de la formation premiers secours en équipe de niveau 2 (PSE2) ;
+
+10° Les détenteurs d'au moins une formation prévention et secours civiques de niveau 1 (PSC1).
 
 III. - Les étudiants en santé suivants :
 
