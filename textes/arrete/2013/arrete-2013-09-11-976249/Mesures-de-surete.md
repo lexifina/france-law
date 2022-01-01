@@ -1252,49 +1252,25 @@ IV. - Les durées minimales de formation sur le tas relative à l'utilisation de
 
 Article 11-2-1-3 T
 
-Contenu et approbation des cours
+Contenu et conception des formations.
 
-I. - Sans préjudice des droits de propriété intellectuelle, le ministre chargé des transports met un cours de référence à la disposition des instructeurs, organismes ou entreprises délivrant une formation initiale (théorique et pratique) définie au chapitre 11 de l'annexe du règlement (UE) n° 2015/1998 susvisé.
+I.-En application du point 11.2.1.3 de l'annexe du règlement d'exécution (UE) n° 2015/1998 susvisé et sans préjudice des dispositions de l'article 12-9-3-1 de la présente annexe et de celles relatives à la propriété intellectuelle, les entreprises, organismes ou instructeurs délivrant une formation initiale ou périodique en sûreté de l'aviation civile :
 
-L'utilisation de ce cours, dans son intégralité, notamment au regard de son contenu, des exercices et des tests de progression, ne nécessite pas de mesure d'approbation particulière.
+1. Utilisent, pour concevoir la formation, les modules de compétence mis à disposition par le directeur général de l'aviation civile pour chaque objectif pédagogique des formations définies au point 11.2. de l'annexe du règlement (UE) n° 2015/1998 susvisé ;
 
-II. - L'entreprise, l'organisme ou l'instructeur ayant élaboré un contenu de cours, une partie de cours ou une formation sur ordinateur, ou souhaitant modifier de façon substantielle le cours ou une partie du cours de référence mis à disposition par le ministre chargé des transports ou déjà approuvé, dépose une demande d'approbation auprès du ministre chargé des transports trois mois au moins avant de l'utiliser en formation.
+2. Suivent les règles d'utilisation de ces modules de compétence, qui sont fixées par le directeur général de l'aviation civile et qui spécifient le contenu théorique et pratique, ainsi que les méthodes et outils pédagogiques à utiliser lors des formations ;
 
-L'utilisation d'un cours ou d'une partie de cours, approuvé par le ministre chargé des transports et référencé par son numéro d'approbation, dans son intégralité, par un autre organisme ou entreprise que celui qui en a sollicité et obtenu l'approbation, ne nécessite pas de mesures d'approbation particulière.
+3. Mettent à jour, en cas d'actualisation par le directeur général de l'aviation civile de modules de compétence ou de règles d'utilisation notamment pour prendre en compte les évolutions du droit de l'Union européenne et du droit national ainsi que des menaces, les formations qu'ils délivrent au plus tard un mois après la mise à disposition de la version actualisée de ces modules de compétence ou règles d'utilisation, sauf si ces dernières prévoient un délai différent.
 
-Toute modification non substantielle d'un cours ou d'une formation sur ordinateur déjà approuvé fait l'objet d'une déclaration préalable auprès du ministre chargé des transports. Sauf avis contraire du ministre chargé des transports, la modification peut être mise en œuvre à l'issue d'un délai d'un mois à compter de la date de la réception de la déclaration.
+II.-Lorsque les règles d'utilisation des modules de compétence mentionnées au I l'autorisent, les entreprises, organismes ou instructeurs délivrant une formation initiale ou périodique peuvent recourir à la formation en ligne.
 
-III. - Le dossier de demande d'approbation d'un cours ou d'une partie de cours dispensé dans le cadre d'une formation initiale ou périodique contient l'ensemble des éléments suivants :
+Au sens du présent article, on entend par formation en ligne une formation numérique basée sur un système de gestion de l'apprentissage, à l'exclusion de tout autre type de formation dématérialisée.
 
-- le contenu des cours, notamment les supports de cours électroniques et/ou papiers, les cours distribués, les notes de l'instructeur, les exercices, les travaux pratiques, les tests de progressions et évaluations ;
+III.-Lorsque les règles d'utilisation des modules de compétence mentionnées au I l'autorisent, les entreprises, organismes ou instructeurs délivrant une formation initiale ou périodique peuvent recourir à la visio-formation.
 
-- la durée de la formation par objectif pédagogique ;
+Au sens du présent article, on entend par visio-formation une formation qui, bien que dispensée à distance, est réalisée en temps réel et dans des conditions de communication entre l'instructeur et les bénéficiaires de la formation comparables à celles en formation présentielle.
 
-- le nombre maximum de stagiaires par session ;
-
-- les méthodes pédagogiques retenues, notamment : cours magistral, formation ouverte et/ou à distance avec ou sans le soutien d'un instructeur, travaux dirigés, travaux pratiques, mise en situation ;
-
-- les outils pédagogiques utilisés, notamment : enseignement assisté par ordinateur, équipements spécifiques, simulateurs d'équipements de sûreté, armes neutralisées, simulants d'explosifs, engins explosifs improvisés factices ;
-
-- un exemplaire des documents remis aux stagiaires pendant la formation ou à l'issue de celle-ci ;
-
-- les mesures permettant de s'assurer de l'identité de l'agent suivant la formation ;
-
-- les modalités mises en œuvre pour s'assurer que le stagiaire a suivi avec succès les formations ou a acquis les compétences définies aux points suivants de l'annexe du règlement (UE) 2015/1998 susvisé :
-
-- point 11.2.3.3 pour celles des personnes relevant de l'article 11-3-4 de la présente annexe ;
-
-- points 11.2.3.6 à 11.2.3.10 ;
-
-- points 11.2.5 à 11.2.7 ; et
-
-- point 11.2.4 pour celles ne faisant pas l'objet d'une certification.
-
-Les méthodes et outils pédagogiques sont adaptés à l'acquisition des compétences définies au chapitre 11 de l'annexe du règlement (UE) 2015/1998 susvisé.
-
-IV. - Les nouvelles dispositions légales ou réglementaires sont intégrées dans les cours dans les meilleurs délais, et au plus tard trois mois après leur entrée en vigueur.
-
-Les nouvelles menaces sont intégrées dans les cours dans les meilleurs délais, et au plus tard trois mois après la diffusion de l'information relative à leur apparition.
+IV.-Les logiciels et outils utilisés lors des formations à l'analyse d'image relevant des points 11.3.2 et 11.4.1 de l'annexe du règlement (UE) n° 2015/1998 susvisé sont conformes à un cahier des charges fixé par le directeur général de l'aviation civile.
 
 Article 11-2-1-4 - Dossier de formation
 
@@ -6318,6 +6294,4 @@ Ancienne section 12-13
 
 NOTA :
 
-Se reporter aux modalités d'application prévues aux II et III de l'article 2 de l'arrêté du 14 mai 2018.
-
-Conformément à l'article 6 de l’arrêté du 26 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au I de l'article 3 de l’arrêté du 8 juillet 2021 (NOR : TRAA2122955A), ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux modalités d'application prévues au II de l'article 3 précité.
