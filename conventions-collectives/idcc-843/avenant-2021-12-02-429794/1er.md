@@ -1,0 +1,13 @@
+# Article 1er
+
+L'intégralité du tableau de garanties figurant à l'annexe à l'avenant n° 83 « Niveau des prestations » est substitué par le tableau suivant et ses notes associées :
+
+Le détail des garanties en vigueur à compter du 1er janvier 2022 est repris ci-après.
+
+Les nouvelles dispositions s'appliquent pour les frais engagés relatifs à des soins intervenant à compter de la date d'effet susmentionnée.
+
+Les niveaux d'indemnisation définis ci-dessous s'entendent y compris les prestations versées par la sécurité sociale, dans la limite des frais réellement engagés par les bénéficiaires.
+
+(Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives.)
+
+https://www.legifrance.gouv.fr/download/file/pdf/boc_20220004_0000_0004.pdf/BOCC
