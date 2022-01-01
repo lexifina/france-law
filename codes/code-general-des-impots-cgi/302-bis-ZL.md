@@ -2,7 +2,7 @@
 
 Dans le cas d'un jeu ou d'un pari en ligne, le prélèvement est dû au titre des sommes engagées dans le cadre d'une session de jeu ou de pari réalisée au moyen d'un compte joueur ouvert sur un site dédié tel que défini à l'article 24 de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne.
 
-L'exigibilité du prélèvement mentionné à l'article 302 bis ZH est constituée par la réalisation du ou des événements sur lesquels repose le jeu. L'exigibilité des prélèvements mentionnés aux articles 302 bis ZG et 302 bis ZI est constituée par l'encaissement des sommes engagées par les joueurs ou les parieurs. L'exigibilité du prélèvement mentionné à l'article 302 bis ZO est constituée par le versement des commissions aux sociétés de courses.
+L'exigibilité des prélèvements mentionnés aux articles 302 bis ZG et 302 bis ZH est constituée par la réalisation du ou des événements sur lesquels repose le jeu. L'exigibilité du prélèvement mentionné à l'article 302 bis ZI est constituée par l'encaissement des sommes engagées par les joueurs ou les parieurs. L'exigibilité du prélèvement mentionné à l'article 302 bis ZO est constituée par le versement des commissions aux sociétés de courses.
 
 Le produit des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH, 302 bis ZI et 302 bis ZO est déclaré et liquidé par les opérateurs de jeux ou de paris en ligne mentionnés au deuxième alinéa de ces mêmes articles ou par le Pari mutuel urbain pour le prélèvement mentionné à l'article 302 bis ZO selon les modalités suivantes :
 
@@ -14,4 +14,4 @@ Le produit des prélèvements mentionnés aux articles 302 bis ZG, 302 bis ZH, 3
 
 NOTA :
 
-Conformément au A du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZL, dans sa rédaction résultant du 1° du D du I du présent article, entre en vigueur le 1er janvier 2020.
+Conformément au B du VI de l'article 28 de la loi n° 2019-1479 du 28 décembre 2019, l'article 302 bis ZL, dans sa rédaction résultant du 2° du D du I du présent article, entre en vigueur à une date fixée par décret qui ne peut être antérieure au 1er janvier 2021, et au plus tard le 1er janvier 2022.

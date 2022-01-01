@@ -4,7 +4,7 @@ I.-Lorsque, pour l'importation de biens faisant l'objet d'une vente à distance 
 
 II.-Lorsqu'il est recouru au présent dispositif, les conditions suivantes sont applicables :
 
-1° Le destinataire des biens est redevable de la taxe sur la valeur ajoutée conformément à la première phrase du troisième alinéa du 1 de l'article 293 A ;
+1° Par dérogation au 2 de l'article 293 A, le redevable de la taxe sur la valeur ajoutée est le destinataire du bien indiqué sur la déclaration d'importation et l'option prévue à l'article 293 A quater ne peut être exercée ;
 
 2° La personne qui présente les biens en douane prend les mesures appropriées pour percevoir la taxe sur la valeur ajoutée auprès du destinataire des biens préalablement à son acquittement auprès du service des douanes conformément aux dispositions du présent article ;
 
@@ -26,4 +26,4 @@ VII.-Aux fins du présent régime, la contre-valeur en monnaie nationale du mont
 
 NOTA :
 
-Conformément au A du IV de l’article 147 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur de la taxe sur la valeur ajoutée intervient à compter du 1er janvier 2021. Le III de l'article 51 de la loi n° 2020-1721 du 29 décembre 2020 à modifié cette date : 1er juillet 2021.
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.
