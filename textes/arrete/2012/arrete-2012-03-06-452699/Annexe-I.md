@@ -31,27 +31,3 @@ Beauvais |
 Savoie |
 
 Chambéry |
-
-Guadeloupe |
-
-Les Abymes |
-
-Martinique |
-
-Le Lamentin |
-
-La Réunion |
-
-Saint-Denis |
-
-Directions
-
-|
-
-Polynésie française
-
-|
-
-Faa'a
-
-|
