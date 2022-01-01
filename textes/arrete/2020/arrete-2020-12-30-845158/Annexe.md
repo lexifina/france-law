@@ -304,6 +304,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2157 - Agencements et aménagements du matériel et outillage industriels
 
+2158 - Autres
+
 216 - Collections et œuvres d'art
 
 21731 - Bâtiments
@@ -321,6 +323,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 21755 - Outillage industriel
 
 21757 - Agencements et aménagements du matériel et outillage industriels
+
+21758 - Autres
 
 21782 - Matériel de transport
 
@@ -472,6 +476,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 21578 - Autres
 
+2158 - Autres
+
 216 - Collections et œuvres d'art
 
 21731 - Bâtiments
@@ -620,7 +626,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation-informatique en nuage
 
-7. Pour le plan de comptes M42 applicable aux abattoirs, les comptes :
+7. Pour le plan de comptes M43 applicable aux services publics de transport de personnes, les comptes :
 
 1675 - Dettes afférentes aux PPP
 
@@ -638,115 +644,11 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2155 - Outillage industriel
 
-2157 - Agencements et aménagements du matériel et outillage industriels
-
-216 - Collections et œuvres d'art
-
-21731 - Bâtiments
-
-21735 - Installations générales, agencements, aménagements des constructions
-
-21738 - Autres constructions
-
-21751 - Installations complexes spécialisées
-
-21753 - Installations à caractère spécifique
-
-21754 - Matériel industriel
-
-21755 - Outillage industriel
-
-21757 - Agencements et aménagements du matériel et outillage industriels
-
-21782 - Matériel de transport
-
-21783 - Matériel de bureau et matériel informatique
-
-21784 - Mobilier
-
-21788 - Autres
-
-2181 - Installations générales, agencements, aménagements divers
-
-2182 - Matériel de transport
-
-2183 - Matériel de bureau et matériel informatique
-
-2184 - Mobilier
-
-2186 - Emballages récupérables
-
-2188 - Autres
-
-2313 - Immobilisations en cours-Constructions
-
-2315 - Immobilisations en cours-Installations, matériel et outillage techniques
-
-2317 - Immobilisations en cours-Immobilisations reçues au titre d'une mise à disposition
-
-2318 - Immobilisations en cours-Autres immobilisations corporelles
-
-235 - Part investissement PPP
-
-61521 - Bâtiments publics
-
-6512 - Droits d'utilisation-informatique en nuage
-
-8. Pour le plan de comptes M43 abrégé applicable aux services publics de transport de personnes, les comptes :
-
-213 - Constructions
-
 2156 - Matériel de transport d'exploitation
+
+2157 - Agencements et aménagements du matériel et outillage industriels
 
 2158 - Autres
-
-216 - Collections et œuvres d'art
-
-2173 - Constructions
-
-21756 - Matériel de transport d'exploitation
-
-21758 - Autres
-
-2178 - Autres immobilisations corporelles reçues au titre d'une mise à disposition
-
-218 - Autres immobilisations corporelles
-
-2313 - Constructions
-
-2315 - Installations, matériel et outillage techniques
-
-2317 - Immobilisations reçues au titre d'une mise à disposition
-
-2318 - Autres immobilisations corporelles
-
-235 - Part investissement PPP
-
-61521 - Bâtiments publics
-
-6512 - Droits d'utilisation-informatique en nuage
-
-9. Pour le plan de comptes M43 développé applicable aux services publics de transport de personnes, les comptes :
-
-1675 - Dettes afférentes aux PPP
-
-2131 - Bâtiments
-
-2135 - Installations générales-agencements-aménagements des constructions
-
-2138 - Autres constructions
-
-2151 - Installations complexes spécialisées
-
-2153 - Installations à caractère spécifique
-
-2154 - Matériel industriel
-
-2155 - Outillage industriel
-
-2156 - Matériel de transport d'exploitation
-
-2157 - Agencements et aménagements du matériel et outillage industriels
 
 216 - Collections et oeuvres d'art
 
@@ -767,6 +669,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 21756 - Matériel de transport d'exploitation
 
 21757 - Agencements et aménagements du matériel et outillage industriels
+
+21758 - Autres
 
 21782 - Matériel de transport
 
@@ -808,7 +712,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation-informatique en nuage
 
-10. Pour le plan de comptes M49 abrégé applicable aux services d'eau et assainissement, les comptes :
+8. Pour le plan de comptes M49 abrégé applicable aux services d'eau et assainissement, les comptes :
 
 213 - Constructions
 
@@ -844,7 +748,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation-informatique en nuage
 
-11. Pour le plan de comptes M49 développé applicable aux services d'eau et assainissement, les comptes :
+9. Pour le plan de comptes M49 développé applicable aux services d'eau et assainissement, les comptes :
 
 1675 - Dettes afférentes aux PPP
 
@@ -874,6 +778,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2157 - Agencements et aménagements du matériel et outillage industriels
 
+2158 - Autres
+
 216 - Collections et œuvres d'art
 
 217311 - Bâtiments d'exploitation
@@ -901,6 +807,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 217562 - Service d'assainissement
 
 21757 - Agencements et aménagements du matériel et outillage industriels
+
+21758 - Autres
 
 21782 - Matériel de transport
 
@@ -944,7 +852,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation-informatique en nuage
 
-12. Pour le plan de comptes M22 applicable aux établissements sociaux et médicaux sociaux, les comptes :
+10. Pour le plan de comptes M22 applicable aux établissements sociaux et médicaux sociaux, les comptes :
 
 1675 - Dettes PPP (Partenariat Public Privé)
 
@@ -984,7 +892,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation-informatique en nuage
 
-13. Pour le plan de comptes M52 applicable aux départements, les comptes :
+11. Pour le plan de comptes M52 applicable aux départements, les comptes :
 
 1675 - Dettes afférentes aux M. E. T. P et P. P. P
 
@@ -1158,7 +1066,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 65811 - Droits d'utilisation - informatique en nuage
 
-14. Pour le plan de comptes M57 applicable aux régions, aux départements, aux métropoles, aux communes aux établissements publics de coopération intercommunale, les comptes :
+12. Pour le plan de comptes M57 développé, les comptes :
 
 1675 - Dettes afférentes aux M. E. T. P et P. P. P.
 
@@ -1182,6 +1090,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 21314 - Bâtiments culturels et sportifs
 
+21315 - Centres d'incendie et de secours
+
 21316 - Équipements du cimetière
 
 21318 - Autres bâtiments publics
@@ -1193,6 +1103,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 2151 - Réseaux de voirie
 
 2152 - Installations de voirie
+
+21531 - Réseaux de transmission
+
+21532 - Réseaux d'alerte
 
 21533 - Réseaux câblés
 
@@ -1214,6 +1128,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 215738 - Autre matériel et outillage de voirie
 
+215741 - Installations, matériel et outillage des cantines scolaires
+
+215742 - Installations, matériel et outillage des colonies de vacances
+
 21578 - Autre matériel technique
 
 2158 - Autres installations, matériel et outillage techniques
@@ -1234,6 +1152,8 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 217314 - Bâtiments culturels et sportifs
 
+217315 - Centre d'incendie et de secours
+
 217318 - Autres bâtiments publics
 
 21735 - Installations générales, agencements, aménagements des constructions
@@ -1244,6 +1164,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 21752 - Installations de voirie
 
+217531 - Réseaux de transmission
+
+217532 - Réseaux d'alerte
+
 217533 - Réseaux câblés
 
 217534 - Réseaux d'électrification
@@ -1251,6 +1175,10 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 217538 - Autres réseaux
 
 21754 - Voies navigables
+
+217561 - Matériel roulant
+
+217568 - Autre matériel et outillage d'incendie et de défense civile
 
 217571 - Matériel ferroviaire
 
@@ -1310,7 +1238,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 2315 - Immobilisations en cours - Installations, matériel et outillage techniques
 
-2316 - Immobilisations en cours - Restauration des collections et oeuvres d'art
+2316 - Immobilisations en cours - Restauration des biens historiques et culturels
 
 2317 - Immobilisations en cours - Immobilisations reçues au titre d'une mise à disposition
 
@@ -1328,7 +1256,89 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 65811 - Droits d'utilisation - informatique en nuage
 
-15. Pour le plan de comptes M61 applicable aux services départementaux d'incendie et de secours, les comptes :
+13. Pour le plan de comptes M57 abrégé :
+
+202 - Frais d'études, d'élaboration, de modifications et de révisions des documents d'urbanisme
+
+204114 - Subventions d'équipement aux organismes publics - Voirie
+
+204115 - Subventions d'équipement aux organismes publics - Monuments historiques
+
+2131 - Bâtiments publics
+
+2135 - Installations générales agencements et aménagements des constructions
+
+2138 - Autres constructions
+
+2151 - Réseaux de voirie
+
+2152 - Installations de voirie
+
+21531 - Réseaux d'adduction d'eau
+
+21532 - Réseaux d'assainissement
+
+21538 - Autres réseaux
+
+2156 - Matériel et outillage d'incendie et de défense civile
+
+2157 - Matériel et outillage de voirie
+
+2158- Autres installations matériel et outillage techniques
+
+21611- Biens sous-jacents
+
+21612 - Dépenses ultérieures immobilisées
+
+21621 - Biens sous-jacents
+
+21622 - Dépenses ultérieures immobilisées
+
+2173 - Constructions
+
+21751- Réseaux de voirie
+
+21752 - Installation de voirie
+
+21753 - Réseaux divers
+
+21757 - Matériel et outillage techniques
+
+21758 - Autres installations, matériel et outillage techniques
+
+217612 - Dépenses ultérieures immobilisées
+
+217622 - Dépenses ultérieures immobilisées
+
+2178 - Autres immobilisations corporelles reçues au titre d'une mise à disposition
+
+2181 - Installations générales agencements et aménagements divers
+
+2182 - Matériel de transport
+
+2183 - Matériel de bureau et matériel informatique
+
+2184 - Mobilier
+
+2186 - Cheptel
+
+2188 - Autres immobilisations corporelles
+
+231 - Immobilisations corporelles en cours
+
+235 - Part investissement PPP
+
+236 - Avances versées aux E.P.L.E. sur immobilisations
+
+615221 - Entretien bâtiments publics
+
+615231 - Entretien voirie
+
+615232 - Entretien réseaux
+
+65811 - Droits d'utilisation - informatique en nuage
+
+14. Pour le plan de comptes M61 applicable aux services départementaux d'incendie et de secours, les comptes :
 
 1675 - Dettes afférentes aux METP et PPP
 
@@ -1498,7 +1508,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation - informatique en nuage
 
-16. Pour le plan de comptes M71 applicable aux régions, les comptes :
+15. Pour le plan de comptes M71 applicable aux régions, les comptes :
 
 1675 - Dettes afférentes aux M. E. T. P. et P. P. P.
 
@@ -1624,7 +1634,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 65811 - Droits d'utilisation - informatique en nuage
 
-17. Pour le plan de comptes M831 applicable au Centre national de la fonction publique territoriale, les comptes :
+16. Pour le plan de comptes M831 applicable au Centre national de la fonction publique territoriale, les comptes :
 
 2131 - Bâtiments publics
 
@@ -1652,7 +1662,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 
 6512 - Droits d'utilisation - informatique en nuage
 
-18. Pour le plan de comptes M832 applicable aux centres de gestion, les comptes :
+17. Pour le plan de comptes M832 applicable aux centres de gestion, les comptes :
 
 1675 - Dettes afférentes aux PPP
 
@@ -1687,3 +1697,7 @@ LISTE DES COMPTES SERVANT À DÉTERMINER L'ASSIETTE ÉLIGIBLE AU FONDS DE COMPEN
 61521 - Bâtiments publics
 
 6512 - Droits d'utilisation - informatique en nuage
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 17 décembre 2021 (NOR : TERB2135563A), ces dispositions sont modifiées à compter du 1er janvier 2022.
