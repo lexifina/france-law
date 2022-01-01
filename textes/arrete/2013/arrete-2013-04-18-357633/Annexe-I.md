@@ -1,9 +1,5 @@
 # Article Annexe I
 
-ANNEXES
-
-ANNEXE I
-
 ASSIGNATION COMPTABLE DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
 Résidence administrative de l'ordonnateur ou du responsable d'unité opérationnelle de programme |
@@ -58,7 +54,7 @@ Côte-d'Or, Nièvre, Saône-et-Loire, Yonne |
 
 Côte-d'Or |
 
-Doubs, Jura, Haute-Saône, Territoire de Belfort |
+Doubs, Jura, Haute-Saône, Territoire-de-Belfort |
 
 Doubs |
 
@@ -80,7 +76,7 @@ Corse-du-Sud, Haute-Corse |
 
 Bouches-du-Rhône à compter du 1er septembre 2021 |
 
-Ile-de-France |
+Île-de-France |
 
 Paris |
 
@@ -162,6 +158,10 @@ Martinique |
 
 Martinique |
 
+Mayotte |
+
+La Réunion à compter du 1er janvier 2022 |
+
 La Réunion |
 
 La Réunion |
@@ -175,3 +175,19 @@ Martinique |
 Saint-Martin |
 
 Martinique |
+
+NOTA :
+
+Conformément à l'article 6 de l'arrêté du 17 décembre 2021 (NOR : CCPE2138397A), ces dispositions prennent effet au 1er janvier 2022.
+
+Cette date est reportée au 1er janvier 2023 pour les agents relevant des ministères :
+
+1° De l'agriculture et de l'alimentation ;
+
+2° De l'éducation nationale, de la jeunesse et des sports ;
+
+3° De la transition écologique ;
+
+4° Du travail, de l'emploi et de l'insertion ;
+
+5° Des solidarités et de la santé.
