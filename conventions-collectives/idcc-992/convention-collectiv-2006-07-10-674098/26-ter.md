@@ -52,7 +52,7 @@ En tout état de cause, les salariés visés ci-dessus cotisent obligatoirement 
 
 2.   Prestations
 
-Sont couverts, tous les actes et frais courants sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de sécurité sociale au titre de la législation « maladie », « accidents du travail/maladies professionnelles » et « maternité » ainsi que les actes et frais non pris en charge par ce régime, expressément mentionnés dans le tableau des prestations visé ci-dessous.
+Sont couverts, tous les actes et frais courants sur la période de garantie ayant fait l'objet d'un remboursement et d'un décompte individualisé du régime de base de sécurité sociale au titre de la législation « maladie », « accidents du travail/ maladies professionnelles » et « maternité » ainsi que les actes et frais non pris en charge par ce régime, expressément mentionnés dans le tableau des prestations visé ci-dessous.
 
 L'organisme assureur verse, en cas de naissance d'un enfant du salarié (viable ou mort-né), une allocation dont le montant est égal au forfait en vigueur au jour de l'événement. Le forfait maternité est également versé, en cas d'adoption d'un enfant mineur par le salarié. Un seul forfait peut être octroyé par période de 300 jours, à l'exception des naissances gémellaires ou de l'adoption. Les dates prises en compte, pour le versement du forfait maternité et pour le calcul de la période de 300 jours, sont les dates de naissance respectives de chaque enfant.
 
@@ -64,9 +64,9 @@ Les garanties sont dites « responsables » conformément aux articles L. 871-1 
 
 Les niveaux d'indemnisation définis ci-dessous s'entendent y compris les prestations versées par la sécurité sociale, dans la limite des frais réellement engagés par les bénéficiaires.
 
-(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
+(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
 
-https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2020/0007/boc_20200007_0000_0005.pdf
+https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0007/ boc _ 20200007 _ 0000 _ 0005. pdf
 
 2.2.   Limites des garanties. Exclusions
 
@@ -76,19 +76,19 @@ Ne donnent pas lieu à remboursement :
 
 – les frais de soins :
 
-–– engagés avant la date d'effet de la garantie ou après la cessation de celle-ci. La date prise en considération est, dans tous les cas, celle figurant sur les décomptes de la sécurité sociale ;
+– – engagés avant la date d'effet de la garantie ou après la cessation de celle-ci. La date prise en considération est, dans tous les cas, celle figurant sur les décomptes de la sécurité sociale ;
 
-–– déclarés après un délai de 2 ans suivant la date des soins pratiqués ;
+– – déclarés après un délai de 2 ans suivant la date des soins pratiqués ;
 
-–– engagés hors de France. Si la caisse de sécurité sociale à laquelle le salarié est affilié prend en charge les frais engagés hors de France, ceux-ci seront pris en charge par le présent régime sur la base de remboursement utilisée par la sécurité sociale et selon les garanties prévues par le régime ;
+– – engagés hors de France. Si la caisse de sécurité sociale à laquelle le salarié est affilié prend en charge les frais engagés hors de France, ceux-ci seront pris en charge par le présent régime sur la base de remboursement utilisée par la sécurité sociale et selon les garanties prévues par le régime ;
 
-–– non remboursés par les régimes de base de la sécurité sociale ;
+– – non remboursés par les régimes de base de la sécurité sociale ;
 
-–– ne figurant pas à la nomenclature générale des actes professionnels ou à la classification commune des actes médicaux, sauf pour les actes prévus expressément dans le tableau de garanties ;
+– – ne figurant pas à la nomenclature générale des actes professionnels ou à la classification commune des actes médicaux, sauf pour les actes prévus expressément dans le tableau de garanties ;
 
-–– engagés dans le cadre de la législation sur les pensions militaires ;
+– – engagés dans le cadre de la législation sur les pensions militaires ;
 
-–– engagés au titre de l'hospitalisation dans les centres hospitaliers de long séjour ou dans les unités de long séjour relevant des centres hospitaliers, dans les sections de cure médicale des maisons de retraite, des logements foyers ou des hospices ;
+– – engagés au titre de l'hospitalisation dans les centres hospitaliers de long séjour ou dans les unités de long séjour relevant des centres hospitaliers, dans les sections de cure médicale des maisons de retraite, des logements foyers ou des hospices ;
 
 – les participations forfaitaires et les franchises restant à la charge du salarié prévues à l'article L. 160-13 du code de la sécurité sociale ;
 
@@ -110,7 +110,7 @@ La prise en charge des frais inhérents à des séjours en établissement psychi
 
 En cas d'intervention en secteur non conventionné sur la base d'une prestation calculée par référence aux tarifs retenus par les régimes de base de la sécurité sociale pour les actes effectués en secteur conventionné, la prestation ne pourra excéder celle qui aurait été versée si la dépense avait été engagée en secteur conventionné.
 
-Les prestations sont limitées aux frais réels dûment justifiés restant à charge du salarié, après intervention du régime de base de la sécurité sociale, et/ou d'éventuels organismes complémentaires.
+Les prestations sont limitées aux frais réels dûment justifiés restant à charge du salarié, après intervention du régime de base de la sécurité sociale, et/ ou d'éventuels organismes complémentaires.
 
 3.   Suspension du contrat de travail
 
@@ -150,11 +150,11 @@ Par conséquent, les tarifs applicables à ces anciens salariés :
 
 Conformément aux dispositions de l'article L. 862-4 du code de la sécurité sociale, les cotisations ne sont pas fixées en fonction de l'état de santé des bénéficiaires du régime.
 
-La cotisation mensuelle s'élève à 40 € pour les salariés relevant du régime général de la sécurité sociale et à 24 € pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise en charge pour moitié par l'employeur et pour moitié par le salarié.
+La cotisation mensuelle s'élève à 44 euros pour les salariés relevant du régime général de sécurité sociale et à 26,40 euros pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise pour moitié par l'employeur et pour moitié par le salarié.
 
 6.   Règlement des prestations
 
-Les modalités pratiques du règlement des prestations (pièces justificatives…) sont détaillées dans le contrat d'assurance souscrit par l'entreprise et la notice d'information remise par l'employeur aux salariés.
+Les modalités pratiques du règlement des prestations (pièces justificatives …) sont détaillées dans le contrat d'assurance souscrit par l'entreprise et la notice d'information remise par l'employeur aux salariés.
 
 7.   Solidarité
 
@@ -168,7 +168,7 @@ Toute reprise de travail met fin au bénéfice de la gratuité à compter du pre
 
 Tout salarié, qui reprend le travail moins de 6 mois après la date d'arrêt initial, conserve le bénéfice des jours d'arrêt écoulés pour le calcul de la franchise de 6 mois ouvrant droit à la gratuité, si le nouvel arrêt de travail est qualifié par la sécurité sociale de rechute de l'arrêt de travail initial pris en charge au titre de la législation « accidents du travail/ maladies professionnelles ».
 
-Tout salarié qui reprend le travail après avoir bénéficié partiellement de l'exonération du paiement des cotisations, conserve son droit à gratuité en cas de rechute au sens de la législation de la sécurité sociale « accidents du travail/maladies professionnelles », dans la limite de la période d'exonération restant à courir.
+Tout salarié qui reprend le travail après avoir bénéficié partiellement de l'exonération du paiement des cotisations, conserve son droit à gratuité en cas de rechute au sens de la législation de la sécurité sociale « accidents du travail/ maladies professionnelles », dans la limite de la période d'exonération restant à courir.
 
 En cas de cessation du contrat de travail, les anciens salariés, relevant de la législation « accidents du travail/ maladies professionnelles » du régime de base de la sécurité sociale bénéficiaires d'une rente d'incapacité ou d'invalidité ou, s'ils sont privés d'emploi, d'un revenu de remplacement, continuent à bénéficier après la rupture du contrat de travail de la garantie avec exonération des cotisations dans les conditions fixées ci-dessus.
 
@@ -180,21 +180,21 @@ Ont la qualité d'ayant droit au titre des présentes dispositions le conjoint o
 
 – les enfants de moins de 26 ans à charge du salarié au sens de la législation fiscale, à savoir :
 
-–– les enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;
+– – les enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;
 
-–– les enfants du salarié auxquels celui-ci sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ;
+– – les enfants du salarié auxquels celui-ci sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ;
 
-–– quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes (c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité) à charge du salarié au sens de la législation fiscale à savoir :
+– – quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes (c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité) à charge du salarié au sens de la législation fiscale à savoir :
 
-––– pris en compte dans le calcul du quotient familial ;
+– – – pris en compte dans le calcul du quotient familial ;
 
-––– ou ouvrant droit à un abattement applicable au revenu imposable ;
+– – – ou ouvrant droit à un abattement applicable au revenu imposable ;
 
-––– ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable.
+– – – ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable.
 
 7.3.   Couverture santé des anciens salariés
 
-Les partenaires sociaux considèrent que la solidarité doit non seulement être professionnelle, mais également intergénérationnelle et entendent favoriser l'accès des retraités à une couverture santé. Dans cette perspective, l'employeur souscrit un contrat d'assurance prévoyant qu'à l'expiration de la période de 3 ans visée par le décret n° 90-769 du 30 août 1990, l'organisme assureur propose, aux anciens salariés retraités, un contrat prévoyant des garanties identiques à celles en vigueur pour les salariés. Le souscripteur organise chaque année avec l'assureur l'affectation des résultats bénéficiaires du contrat des actifs de manière à obtenir un lissage de la cotisation des anciens salariés retraités dans l'objectif de limiter la cotisation appelée auprès de ces derniers à 150 % de celle des actifs.
+Les partenaires sociaux considèrent que la solidarité doit non seulement être professionnelle mais également intergénérationnelle et entendent favoriser l'accès des retraités à une couverture santé. Dans cette perspective, l'employeur souscrit un contrat d'assurance prévoyant qu'à l'expiration de la période de 3 ans visée par le décret n° 90-769 du 30 août 1990, l'organisme assureur propose, aux anciens salariés retraités, un contrat prévoyant des garanties identiques à celles en vigueur pour les salariés. Le souscripteur organise chaque année avec l'assureur l'affectation des résultats bénéficiaires des actifs de manière à obtenir un lissage de la cotisation des anciens salariés retraités dans l'objectif de limiter la cotisation appelée auprès de ces derniers à 200 % de celle des actifs.
 
 7.4.   Fonds de solidarité
 
@@ -246,7 +246,7 @@ La commission paritaire permanente de négociation et d'interprétation (CPPNI) 
 
 – par voie postale, à l'adresse suivante : commission paritaire permanente de négociation et d'interprétation de la branche de la boucherie : 98, boulevard Pereire, 75850 Paris Cedex 17 ;
 
-– sous format numérique, à l'adresse suivante : cppni.idcc992@boucherie-france.org.
+– sous format numérique, à l'adresse suivante : cppni. idcc992 @ boucherie-france. org.
 
 8.   Organisme assureur
 

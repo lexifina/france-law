@@ -62,13 +62,13 @@ L'organisme assureur verse, en cas de naissance d'un enfant du salarié (viable 
 
 À l'exception de ceux ayant demandé une dispense d'affiliation, les salariés bénéficient à titre obligatoire des prestations et éléments de solidarité ci-dessous.
 
-Les garanties sont dites ''responsables'' conformément aux articles L. 871-1 et R. 871-1 et 2 du code de la sécurité sociale et respectent en conséquence les obligations minimales et maximales de prise en charge résultant de ces textes.
+Les garanties sont dites''responsables''conformément aux articles L. 871-1 et R. 871-1 et 2 du code de la sécurité sociale et respectent en conséquence les obligations minimales et maximales de prise en charge résultant de ces textes.
 
 Les niveaux d'indemnisation définis ci-dessous s'entendent y compris les prestations versées par la sécurité sociale, dans la limite des frais réellement engagés par les bénéficiaires.
 
-(Tableaux non reproduits, consultables en ligne sur le site www.journal-officiel.gouv.fr, rubrique BO Convention collective.)
+(Tableaux non reproduits, consultables en ligne sur le site www. journal-officiel. gouv. fr, rubrique BO Convention collective.)
 
-https://www.journal-officiel.gouv.fr/publications/bocc/pdf/2020/0007/boc_20200007_0000_0005.pdf
+https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2020/0007/ boc _ 20200007 _ 0000 _ 0005. pdf
 
 2.2.   Limites des garanties. Exclusions
 
@@ -78,19 +78,19 @@ Ne donnent pas lieu à remboursement :
 
 – les frais de soins :
 
-–– engagés avant la date d'effet de la garantie ou après la cessation de celle-ci. La date prise en considération est, dans tous les cas, celle figurant sur les décomptes de la sécurité sociale ;
+– – engagés avant la date d'effet de la garantie ou après la cessation de celle-ci. La date prise en considération est, dans tous les cas, celle figurant sur les décomptes de la sécurité sociale ;
 
-–– déclarés après un délai de 2 ans suivant la date des soins pratiqués ;
+– – déclarés après un délai de 2 ans suivant la date des soins pratiqués ;
 
-–– engagés hors de France. Si la caisse de sécurité sociale à laquelle le salarié est affilié prend en charge les frais engagés hors de France, ceux-ci seront pris en charge par le présent régime sur la base de remboursement utilisée par la sécurité sociale et selon les garanties prévues par le régime ;
+– – engagés hors de France. Si la caisse de sécurité sociale à laquelle le salarié est affilié prend en charge les frais engagés hors de France, ceux-ci seront pris en charge par le présent régime sur la base de remboursement utilisée par la sécurité sociale et selon les garanties prévues par le régime ;
 
-–– non remboursés par les régimes de base de la sécurité sociale ;
+– – non remboursés par les régimes de base de la sécurité sociale ;
 
-–– ne figurant pas à la nomenclature générale des actes professionnels ou à la classification commune des actes médicaux, sauf pour les actes prévus expressément dans le tableau de garanties ;
+– – ne figurant pas à la nomenclature générale des actes professionnels ou à la classification commune des actes médicaux, sauf pour les actes prévus expressément dans le tableau de garanties ;
 
-–– engagés dans le cadre de la législation sur les pensions militaires ;
+– – engagés dans le cadre de la législation sur les pensions militaires ;
 
-–– engagés au titre de l'hospitalisation dans les centres hospitaliers de long séjour ou dans les unités de long séjour relevant des centres hospitaliers, dans les sections de cure médicale des maisons de retraite, des logements foyers ou des hospices ;
+– – engagés au titre de l'hospitalisation dans les centres hospitaliers de long séjour ou dans les unités de long séjour relevant des centres hospitaliers, dans les sections de cure médicale des maisons de retraite, des logements foyers ou des hospices ;
 
 – les participations forfaitaires et les franchises restant à la charge du salarié prévues à l'article L. 160-13 du code de la sécurité sociale ;
 
@@ -152,7 +152,7 @@ Par conséquent, les tarifs applicables à ces anciens salariés :
 
 Conformément aux dispositions de l'article L. 862-4 du code de la sécurité sociale, les cotisations ne sont pas fixées en fonction de l'état de santé des bénéficiaires du régime.
 
-La cotisation mensuelle s'élève à 40 € pour les salariés relevant du régime général de la sécurité sociale et à 24 € pour les salariés relevant du régime local d'Alsace Moselle. Elle est prise en charge pour moitié par l'employeur et pour moitié par le salarié.
+La cotisation mensuelle s'élève à 44 euros pour les salariés relevant du régime général de sécurité sociale et à 26,40 euros pour les salariés relevant du régime local d'Alsace-Moselle. Elle est prise pour moitié par l'employeur et pour moitié par le salarié.
 
 6.   Règlement des prestations
 
@@ -182,21 +182,21 @@ Ont la qualité d'ayant droit au titre des présentes dispositions le conjoint o
 
 – les enfants de moins de 26 ans à charge du salarié au sens de la législation fiscale, à savoir :
 
-–– les enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;
+– – les enfants du salarié, de son conjoint ou de son concubin pris en compte dans le calcul du quotient familial ou ouvrant droit à un abattement applicable au revenu imposable ;
 
-–– les enfants du salarié auxquels celui-ci sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ;
+– – les enfants du salarié auxquels celui-ci sert une pension alimentaire (y compris en application d'un jugement de divorce) retenue sur son avis d'imposition à titre de charge déductible du revenu global ;
 
-–– quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes (c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité) à charge du salarié au sens de la législation fiscale à savoir :
+– – quel que soit leur âge, et sauf déclaration personnelle de revenus, les enfants infirmes (c'est-à-dire hors d'état de subvenir à leurs besoins en raison notamment de leur invalidité) à charge du salarié au sens de la législation fiscale à savoir :
 
-––– pris en compte dans le calcul du quotient familial ;
+– – – pris en compte dans le calcul du quotient familial ;
 
-––– ou ouvrant droit à un abattement applicable au revenu imposable ;
+– – – ou ouvrant droit à un abattement applicable au revenu imposable ;
 
-––– ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable.
+– – – ou bénéficiaires d'une pension alimentaire que le salarié est autorisé à déduire de son revenu imposable.
 
 7.3.   Couverture santé des anciens salariés
 
-Les partenaires sociaux considèrent que la solidarité doit non seulement être professionnelle, mais également intergénérationnelle et entendent favoriser l'accès des retraités à une couverture santé. Dans cette perspective, l'employeur souscrit un contrat d'assurance prévoyant qu'à l'expiration de la période de 3 ans visée par le décret n° 90-769 du 30 août 1990, l'organisme assureur propose, aux anciens salariés retraités, un contrat prévoyant des garanties identiques à celles en vigueur pour les salariés. Le souscripteur organise chaque année avec l'assureur l'affectation des résultats bénéficiaires du contrat des actifs de manière à obtenir un lissage de la cotisation des anciens salariés retraités dans l'objectif de limiter la cotisation appelée auprès de ces derniers à 150 % de celle des actifs.
+Les partenaires sociaux considèrent que la solidarité doit non seulement être professionnelle mais également intergénérationnelle et entendent favoriser l'accès des retraités à une couverture santé. Dans cette perspective, l'employeur souscrit un contrat d'assurance prévoyant qu'à l'expiration de la période de 3 ans visée par le décret n° 90-769 du 30 août 1990, l'organisme assureur propose, aux anciens salariés retraités, un contrat prévoyant des garanties identiques à celles en vigueur pour les salariés. Le souscripteur organise chaque année avec l'assureur l'affectation des résultats bénéficiaires des actifs de manière à obtenir un lissage de la cotisation des anciens salariés retraités dans l'objectif de limiter la cotisation appelée auprès de ces derniers à 200 % de celle des actifs.
 
 7.4.   Fonds de solidarité
 
@@ -248,7 +248,7 @@ La commission paritaire permanente de négociation et d'interprétation (CPPNI) 
 
 – par voie postale, à l'adresse suivante : commission paritaire permanente de négociation et d'interprétation de la branche de la boucherie : 98, boulevard Pereire, 75850 Paris Cedex 17 ;
 
-– sous format numérique, à l'adresse suivante : cppni. idcc992@boucherie-france.org.
+– sous format numérique, à l'adresse suivante : cppni. idcc992 @ boucherie-france. org.
 
 8.   Organisme assureur
 
@@ -276,4 +276,4 @@ Les modalités de fonctionnement de ce comité sont détaillées aux statuts de 
 
 Conformément aux dispositions de l'article L. 2253-1 du code du travail, les présentes stipulations prévoyant des garanties collectives complémentaires présentant un degré élevé de solidarité prévalent sur celles des conventions d'entreprise, sauf lorsque la convention d'entreprise assure des garanties au moins équivalentes. L'appréciation du caractère équivalent des garanties inclut l'ensemble des mesures de solidarité qui sont un élément essentiel du régime.
 
-Les présentes stipulations se substituent à compter de leur entrée en vigueur à toutes les décisions unilatérales ayant le même objet.»
+Les présentes stipulations se substituent à compter de leur entrée en vigueur à toutes les décisions unilatérales ayant le même objet. »
