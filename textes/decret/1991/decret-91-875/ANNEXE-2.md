@@ -62,7 +62,11 @@ Infirmières et infirmiers des services médicaux des administrations de l'Etat.
 
 Auxiliaires de puériculture territoriaux. |
 
-Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
+Infirmières et infirmiers des services médicaux des administrations de l'Etat. |
+
+Aides-soignants territoriaux. |
+
+Infirmières et infirmiers des services médicaux des administrations de l'Etat. |
 
 Auxiliaires de soins territoriaux. |
 
@@ -91,3 +95,7 @@ Attachés d'administration de l'Etat (services déconcentrés). |
 Conseillers territoriaux des activités physiques et sportives. |
 
 Conseillers techniques de service social des administrations de l'Etat (services déconcentrés). |
+
+NOTA :
+
+Conformément à l'article 32 du décret n° 2021-1881 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

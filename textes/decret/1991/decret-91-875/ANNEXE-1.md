@@ -136,11 +136,15 @@ Infirmiers civils de soins généraux et spécialisés du ministère de la défe
 
 Auxiliaires de puériculture territoriaux. |
 
-Aides-soignants et agents des services hospitaliers qualifiés civils du ministère de la défense. |
+Aides-soignants civils du ministère de la défense. |
+
+Aides-soignants territoriaux. |
+
+Aides-soignants civils du ministère de la défense. |
 
 Auxiliaires de soins territoriaux. |
 
-Aides-soignants et agents des services hospitaliers qualifiés civils du ministère de la défense. |
+Aides-soignants exerçant des fonctions d'aide-médico-psychologique et agents des services hospitaliers qualifiés civils du ministère de la défense. |
 
 Biologistes, vétérinaires et pharmaciens territoriaux. |
 
@@ -245,3 +249,7 @@ Secrétaires administratifs des administrations de l'Etat (services déconcentr�
 Adjoints territoriaux d'animation. |
 
 Adjoints administratifs des administrations de l'Etat (services déconcentrés). |
+
+NOTA :
+
+Conformément à l'article 32 du décret n° 2021-1881 du 29 décembre 2021 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
