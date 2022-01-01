@@ -2,13 +2,9 @@
 
 Tableau de concordance
 
-GRADE
+GRADE |
 
-|
-
-EMPLOIS OPÉRATIONNELS ET D'ENCADREMENT OU ASSIMILÉS
-
-|
+EMPLOIS OPÉRATIONNELS ET D'ENCADREMENT OU ASSIMILÉS |
 
 Sapeur |
 
@@ -40,9 +36,7 @@ Chef opérateur de salle opérationnelle
 
 |
 
-Caporal-chef
-
-|
+Caporal-chef |
 
 Chef d'équipe
 
@@ -52,9 +46,7 @@ Chef opérateur de salle opérationnelle
 
 |
 
-Sergent
-
-|
+Sergent |
 
 Chef d'agrès une équipe
 
@@ -64,9 +56,7 @@ Adjoint au chef de salle opérationnelle
 
 |
 
-Adjudant
-
-|
+Adjudant |
 
 Chef d'agrès tout engin
 
@@ -80,9 +70,7 @@ Sous-officier de garde (effectif de sapeurs-pompiers postés inférieur à 10)
 
 |
 
-Lieutenant de 2e classe
-
-|
+Lieutenant de 2e classe |
 
 Officier de garde (effectif de sapeurs-pompiers postés supérieur ou égal à 10)
 
@@ -108,9 +96,7 @@ Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers profession
 
 |
 
-Lieutenant de 1re classe
-
-|
+Lieutenant de 1re classe |
 
 Officier de garde (effectif de sapeurs-pompiers postés supérieur ou égal à 10)
 
@@ -152,9 +138,7 @@ Chef de service (effectif d'agents inférieur ou égal à 5)
 
 |
 
-Lieutenant hors classe
-
-|
+Lieutenant hors classe |
 
 Officier de garde (effectif de sapeurs-pompiers postés supérieur ou égal à 10)
 
@@ -196,9 +180,7 @@ Chef de service (effectif d'agents supérieur à 5)
 
 |
 
-Capitaine
-
-|
+Capitaine |
 
 Officier de garde
 
@@ -240,9 +222,7 @@ Chef de groupement (départements de catégorie C dont l'effectif de référence
 
 |
 
-Commandant
-
-|
+Commandant |
 
 Chef de colonne
 
@@ -290,9 +270,7 @@ Chef de service (effectif d'agents supérieur à 30)
 
 |
 
-Lieutenant-colonel
-
-|
+Lieutenant-colonel |
 
 Chef de site
 
@@ -312,9 +290,7 @@ Chef de service (effectif d'agents supérieur à 50)
 
 |
 
-Colonel, colonel hors classe, contrôleur général
-
-|
+Colonel, colonel hors classe, contrôleur général |
 
 Chef de site
 
@@ -356,23 +332,15 @@ TRAITEMENT IB MOYEN
 
 Sapeur |
 
-Equipier
+Equipier |
+
+6 |
 
 |
 
-6
+Opérateur de salle opérationnelle |
 
-|
-
-|
-
-Opérateur de salle opérationnelle
-
-|
-
-7,5
-
-|
+7,5 |
 
 Caporal |
 
@@ -380,9 +348,7 @@ Equipier
 
 |
 
-6
-
-|
+6 |
 
 |
 
@@ -390,9 +356,7 @@ Opérateur de salle opérationnelle
 
 |
 
-7.5
-
-|
+7.5 |
 
 |
 
@@ -400,9 +364,7 @@ Chef d'équipe
 
 |
 
-8.5
-
-|
+8.5 |
 
 |
 
@@ -410,511 +372,301 @@ Chef opérateur de salle opérationnelle
 
 |
 
-10
-
-|
+10 |
 
 Caporal-chef |
 
-Chef d'équipe
+Chef d'équipe |
 
-|
-
-8,5
-
-|
-
-|
-
-Chef opérateur de salle opérationnelle
-
-|
-
-10
-
-|
-
-Sergent
-
-|
-
-Chef d'équipe
-
-|
-
-8,5
-
-|
-
-|
-
-Chef opérateur de salle opérationnelle
-
-|
-
-10
-
-|
-
-|
-
-Chef d'agrès une équipe
-
-|
-
-13
-
-|
-
-|
-
-Adjoint au chef de salle opérationnelle
-
-|
-
-14,5
-
-|
-
-Adjudant
-
-|
-
-Chef d'agrès une équipe
-
-|
-
-12
-
-|
-
-|
-
-Chef d'agrès tout engin
-
-|
-
-13
-
-|
-
-|
-
-Adjoint au chef de salle opérationnelle
-
-|
-
-14,5
-
-|
-
-|
-
-Sous-officier de garde
-
-|
-
-16
-
-|
-
-Lieutenant de 2e classe
-
-|
-
--
-
-|
-
-13
-
-|
-
-|
-
-Officier de garde
-
-|
-
-16
-
-|
-
-|
-
-Chef de groupe
-
-|
-
-19
-
-|
-
-|
-
-Chef de salle opérationnelle
-
-|
-
-19
-
-|
-
-|
-
-Adjoint au chef de centre d'incendie et de secours
-
-|
-
-20
-
-|
-
-|
-
-Officier expert
-
-|
-
-20
-
-|
-
-|
-
-Chef de centre d'incendie et de secours
+8,5 |
 
 |
 
-22
+Chef opérateur de salle opérationnelle |
 
-|
-
-Lieutenant de 1re classe
-
-|
-
--
-
-|
-
-13
-
-|
-
-|
+10 |
 
-Officier de garde
+Sergent |
 
-|
+Chef d'équipe |
 
-16
+8,5 |
 
 |
 
-|
+Chef opérateur de salle opérationnelle |
 
-Chef de bureau en centre d'incendie et de secours
+10 |
 
 |
 
-16
+Chef d'agrès une équipe |
 
-|
+13 |
 
 |
-
-Chef de groupe
 
-|
+Adjoint au chef de salle opérationnelle |
 
-19
+14,5 |
 
-|
+Adjudant |
 
-|
+Chef d'agrès une équipe |
 
-Chef de salle opérationnelle
+12 |
 
 |
 
-19
+Chef d'agrès tout engin |
 
-|
+13 |
 
 |
 
-Officier expert
-
-|
+Adjoint au chef de salle opérationnelle |
 
-20
+14,5 |
 
 |
 
-|
+Sous-officier de garde |
 
-Adjoint au chef de centre d'incendie et de secours
+16 |
 
-|
+Lieutenant de 2e classe |
 
-20
+- |
 
-|
+13 |
 
 |
-
-Adjoint au chef de service
 
-|
+Officier de garde |
 
-20
+16 |
 
 |
 
-|
+Chef de groupe |
 
-Chef de centre d'incendie et de secours
+19 |
 
 |
 
-22
+Chef de salle opérationnelle |
 
-|
+19 |
 
 |
 
-Adjoint au chef de groupement
+Adjoint au chef de centre d'incendie et de secours |
 
-|
+20 |
 
-22
-
 |
 
-|
+Officier expert |
 
-Chef de service
+20 |
 
 |
 
-22
+Chef de centre d'incendie et de secours |
 
-|
+22 |
 
-Lieutenant hors classe
+Lieutenant de 1re classe |
 
-|
+- |
 
--
+13 |
 
 |
 
-13
+Officier de garde |
 
-|
+16 |
 
 |
 
-Officier de garde
+Chef de bureau en centre d'incendie et de secours |
 
-|
-
-16
+16 |
 
 |
 
-|
+Chef de groupe |
 
-Chef de bureau en centre d'incendie et de secours
+19 |
 
 |
 
-16
+Chef de salle opérationnelle |
 
-|
+19 |
 
 |
 
-Chef de groupe
+Officier expert |
 
-|
+20 |
 
-19
-
 |
 
-|
+Adjoint au chef de centre d'incendie et de secours |
 
-Chef de salle opérationnelle
+20 |
 
 |
 
-19
+Adjoint au chef de service |
 
-|
+20 |
 
 |
 
-Officier expert
-
-|
+Chef de centre d'incendie et de secours |
 
-20
+22 |
 
 |
 
-|
+Adjoint au chef de groupement |
 
-Adjoint au chef de service
+22 |
 
 |
 
-20
-
-|
+Chef de service |
 
-|
+22 |
 
-Adjoint au chef de centre d'incendie et de secours
+Lieutenant hors classe |
 
-|
+- |
 
-20
+13 |
 
 |
 
-|
+Officier de garde |
 
-Chef de centre d'incendie et de secours
+16 |
 
 |
 
-22
+Chef de bureau en centre d'incendie et de secours |
 
-|
+16 |
 
 |
 
-Adjoint au chef de groupement
+Chef de groupe |
 
-|
+19 |
 
-22
-
 |
 
-|
+Chef de salle opérationnelle |
 
-Chef de service
+19 |
 
 |
 
-22
+Officier expert |
 
-|
+20 |
 
-Capitaine
-
 |
-
--
 
-|
+Adjoint au chef de service |
 
-13
+20 |
 
 |
 
-|
+Adjoint au chef de centre d'incendie et de secours |
 
-Chef de colonne
+20 |
 
 |
 
-15
+Chef de centre d'incendie et de secours |
 
-|
+22 |
 
 |
 
-Chef de bureau en centre d'incendie et de secours
+Adjoint au chef de groupement |
 
-|
-
-17
+22 |
 
 |
 
-|
+Chef de service |
 
-Officier de garde
+22 |
 
-|
+Capitaine |
 
-20
+- |
 
-|
+13 |
 
 |
 
-Officier expert
-
-|
+Chef de colonne |
 
-21
+15 |
 
 |
 
-|
+Chef de bureau en centre d'incendie et de secours |
 
-Adjoint au chef de service
+17 |
 
 |
 
-21
+Officier de garde |
 
-|
+20 |
 
 |
-
-Adjoint au chef de centre d'incendie et de secours
 
-|
+Officier expert |
 
-21
+21 |
 
 |
 
-|
+Adjoint au chef de service |
 
-Chef de centre d'incendie et de secours
+21 |
 
 |
 
-23
+Adjoint au chef de centre d'incendie et de secours |
 
-|
+21 |
 
 |
 
-Adjoint au chef de groupement
+Chef de centre d'incendie et de secours |
 
-|
-
-23
+23 |
 
 |
 
-|
+Adjoint au chef de groupement |
 
-Chef de service
+23 |
 
 |
 
-23
+Chef de service |
 
-|
+23 |
 
 |
 
@@ -922,177 +674,105 @@ Chef de groupement
 
 |
 
-33
+33 |
+
+Commandant |
+
+Chef de colonne |
+
+15 |
 
 |
 
-Commandant
+Chef de site |
+
+15 |
 
 |
 
-Chef de colonne
+Adjoint au chef de centre d'incendie et de secours |
+
+18 |
 
 |
 
-15
+Chef de centre d'incendie et de secours |
+
+30 |
 
 |
 
-|
+Adjoint au chef de groupement |
 
-Chef de site
-
-|
-
-15
+33 |
 
 |
 
-|
+Chef de groupement |
 
-Adjoint au chef de centre d'incendie et de secours
-
-|
-
-18
+35 |
 
 |
 
-|
+Adjoint au chef de service |
 
-Chef de centre d'incendie et de secours
-
-|
-
-30
+22 |
 
 |
 
-|
+Chef de service |
 
-Adjoint au chef de groupement
+30 |
 
-|
+Lieutenant-colonel |
 
-33
+Chef de site |
 
-|
-
-|
-
-Chef de groupement
+15 |
 
 |
 
-35
+Chef de centre d'incendie et de secours |
+
+30 |
 
 |
 
-|
+Chef de groupement |
 
-Adjoint au chef de service
-
-|
-
-22
+33 |
 
 |
 
-|
+Chef de service |
 
-Chef de service
+30 |
 
-|
+Colonel, colonel hors classe, contrôleur général |
 
-30
+Chef de site |
 
-|
-
-Lieutenant-colonel
+15 |
 
 |
 
-Chef de site
+Chef de groupement |
+
+32 |
 
 |
 
-15
+Directeur départemental adjoint |
+
+33 |
 
 |
 
-|
+Directeur départemental |
 
-Chef de centre d'incendie et de secours
+34 |
 
-|
-
-30
-
-|
-
-|
-
-Chef de groupement
-
-|
-
-33
-
-|
-
-|
-
-Chef de service
-
-|
-
-30
-
-|
-
-Colonel, colonel hors classe, contrôleur général
-
-|
-
-Chef de site
-
-|
-
-15
-
-|
-
-|
-
-Chef de groupement
-
-|
-
-32
-
-|
-
-|
-
-Directeur départemental adjoint
-
-|
-
-33
-
-|
-
-|
-
-Directeur départemental
-
-|
-
-34
-
-|
-
-Infirmier de classe normale
+Infirmier et infirmier hors classe
 
 |
 
@@ -1102,131 +782,63 @@ Infirmier de classe normale
 
 |
 
-Groupement
+Groupement |
 
-|
-
-20
-
-|
-
-Infirmier de classe supérieure et infirmier hors classe |
-
--
-
-|
-
-16
-
-|
-
-|
-
-Groupement
-
-|
-
-20
-
-|
-
-|
-
-Chefferie
-
-|
-
-22
-
-|
-
-Cadre supérieur de santé de sapeurs-pompiers professionnels
-
-|
-
--
-
-|
-
-16
-
-|
-
-|
-
-Groupement
-
-|
-
-24
-
-|
-
-|
-
-Chefferie
-
-|
-
-31
-
-|
-
-Cadre de santé de sapeurs-pompiers professionnels de 1re classe |
-
--
-
-|
-
-16
-
-|
-
-|
-
-Groupement
-
-|
-
-24
-
-|
-
-|
-
-Chefferie
-
-|
-
-31
-
-|
-
-Cadre de santé de sapeurs-pompiers professionnels de 2e classe
-
-|
-
--
-
-|
-
-16
-
-|
-
-|
-
-Groupement
-
-|
-
-24
-
-|
+20 |
 
 |
 
 Chefferie |
+
+22 |
+
+Cadre supérieur de santé de sapeurs-pompiers professionnels |
+
+- |
+
+16
+
+|
+
+|
+
+Groupement |
+
+24 |
+
+|
+
+Chefferie |
+
+31 |
+
+Cadre de santé de sapeurs-pompiers professionnels
+
+|
+
+-
+
+|
+
+16
+
+|
+
+|
+
+Groupement
+
+|
+
+24
+
+|
+
+|
+
+Chefferie
+
+|
 
 31
 
@@ -1262,9 +874,7 @@ Médecin-chef adjoint
 
 |
 
-Pharmacien gérant PUI
-
-|
+Pharmacien gérant PUI |
 
 34
 
@@ -1427,3 +1037,7 @@ CTA : centre de traitement de l'alerte
 CODIS : centre opérationnel départemental d'incendie et de secours
 
 |
+
+NOTA :
+
+Conformément à l’article 84 du décret n° 2021-1879 du 28 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
