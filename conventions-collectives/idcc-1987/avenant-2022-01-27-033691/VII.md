@@ -1,0 +1,3 @@
+# Article VII
+
+Les parties signataires s'engagent à demander, en commun, au ministère du travail, de l'emploi et de l'insertion de faire procéder à l'extension du présent avenant.

@@ -1,0 +1,3 @@
+# Article IV
+
+L'indemnité journalière de poste visée à l'article 5, alinéa 1, de l'annexe I de la convention collective nationale est fixée forfaitairement à 4,75 euros et l'indemnité dite de panier de nuit prévue à l'article 34, alinéa 2, de la convention collective nationale est fixée à 10,70 euros.
