@@ -4,19 +4,19 @@ Par arrêté du ministre délégué à la santé en date du 3 décembre 1993, de
 
 Ces épreuves sont réservées aux fonctionnaires et agents non titulaires des établissements ci-après :
 
-- établissements publics de santé et syndicats interhospitaliers ;
+-établissements publics de santé et syndicats interhospitaliers ;
 
-- hospices publics ;
+-hospices publics ;
 
-- maisons de retraite publiques (à l'exclusion de celles qui sont rattachées au bureau d'aide sociale de Paris) ;
+-maisons de retraite publiques (à l'exclusion de celles qui sont rattachées au bureau d'aide sociale de Paris) ;
 
-- établissements publics ou à caractère public relevant des services départementaux de l'aide sociale à l'enfance et maisons d'enfants à caractère social ;
+-établissements publics ou à caractère public relevant des services départementaux de l'aide sociale à l'enfance et maisons d'enfants à caractère social ;
 
-- établissements publics ou à caractère public pour mineurs ou adultes handicapés ou inadaptés, à l'exception des établissements nationaux et des établissements d'enseignement ou d'éducation surveillée ;
+-établissements publics ou à caractère public pour mineurs ou adultes handicapés ou inadaptés, à l'exception des établissements nationaux et des établissements d'enseignement ou d'éducation surveillée ;
 
-- centre d'hébergement et de réadaptation sociale, public ou à caractère public, mentionné à l'article 185 du code de la famille et de l'aide sociale ;
+-centre d'hébergement et de réadaptation sociale, public ou à caractère public, mentionné à l'article 185 du code de la famille et de l'aide sociale ;
 
-- centre d'accueil et de soins hospitaliers de Nanterre.
+-centre d'accueil et de soins hospitaliers de Nanterre.
 
 Ces fonctionnaires et agents doivent justifier au 1er janvier 1995 soit de deux ans de services effectifs depuis leur titularisation compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant l'accès à un corps de la fonction publique, soit de quatre années de services publics.
 
@@ -26,7 +26,7 @@ Les candidats au concours d'accès audit cycle doivent se trouver en fonctions �
 
 Nul ne peut se présenter plus de trois fois auxdites épreuves.
 
-Dix-sept places sont offertes aux candidats titulaires d'un diplôme de l'enseignement supérieur permettant de se présenter au concours externe d'entrée à l'Ecole nationale d'administration.
+Dix-sept places sont offertes aux candidats titulaires d'un diplôme de l'enseignement supérieur permettant de se présenter au concours externe d'entrée à l'Institut national du service public.
 
 Les candidats de cette catégorie admis à l'issue des épreuves suivront une formation de trois mois.
 

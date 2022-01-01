@@ -156,7 +156,7 @@ ATF
 
 |
 
-Adjoint au directeur de l'Ecole nationale d'administration publique (ENAP), directeur général des études.
+Adjoint au directeur de l'Institut national du service public publique (ENAP), directeur général des études.
 
 |
 
@@ -300,7 +300,7 @@ AT
 
 |
 
-Chef de projet FSP "Appui à la consolidation de la gouvernance démocratique" au ministère de la décentralisation.
+Chef de projet FSP " Appui à la consolidation de la gouvernance démocratique " au ministère de la décentralisation.
 
 |
 
@@ -684,7 +684,7 @@ TE3
 
 |
 
-Assistant information/communication auprès de la cellule technique de l'Association de producteurs de coton africains.
+Assistant information/ communication auprès de la cellule technique de l'Association de producteurs de coton africains.
 
 |
 
@@ -780,7 +780,7 @@ E
 
 |
 
-Conseiller technique du ministre, chef du projet FSP "jeunesse".
+Conseiller technique du ministre, chef du projet FSP " jeunesse ".
 
 |
 
@@ -828,7 +828,7 @@ SR
 
 |
 
-Expert sectoriel "Enseignement supérieur" auprès du ministère des enseignements secondaire et supérieur, de la recherche et de la technologie (MESSRT).
+Expert sectoriel " Enseignement supérieur " auprès du ministère des enseignements secondaire et supérieur, de la recherche et de la technologie (MESSRT).
 
 |
 
@@ -852,7 +852,7 @@ AT
 
 |
 
-Conseiller sûreté/immigration (CSI) auprès du directeur général des migrations au ministère de l'intérieur.
+Conseiller sûreté/ immigration (CSI) auprès du directeur général des migrations au ministère de l'intérieur.
 
 |
 
@@ -1020,7 +1020,7 @@ SR
 
 |
 
-Expert sectoriel (lecteur/lectrice) à l'université de Damas.
+Expert sectoriel (lecteur/ lectrice) à l'université de Damas.
 
 |
 
@@ -1044,7 +1044,7 @@ CI
 
 |
 
-Directeur de centre culturel - ACTED.
+Directeur de centre culturel-ACTED.
 
 |
 
@@ -1092,7 +1092,7 @@ AT
 
 |
 
-Conseiller du directeur de l'Ecole nationale d'administration du Togo.
+Conseiller du directeur de l'Institut national du service public du Togo.
 
 |
 

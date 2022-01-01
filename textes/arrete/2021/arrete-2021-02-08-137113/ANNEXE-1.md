@@ -6,7 +6,7 @@ Direction des services administratifs et financiers
 
 LOCALISATION |
 
-SERVICE/BUREAU/POLE |
+SERVICE/ BUREAU/ POLE |
 
 NOMBRE
 
@@ -14,7 +14,9 @@ d'emplois |
 
 75 |
 
-Division du pilotage, des services généraux et du site de Ségur-Fontenoy |
+Division du pilotage, des services généraux et du site de Ségur-Fontenoy
+
+|
 
 Bureau de la politique et des opérations immobilières |
 
@@ -22,7 +24,9 @@ Bureau de la politique et des opérations immobilières |
 
 75 |
 
-Division du pilotage, des services généraux et du site de Ségur-Fontenoy |
+Division du pilotage, des services généraux et du site de Ségur-Fontenoy
+
+|
 
 Pôle graphisme-fabrication-déplacement-image |
 
@@ -30,7 +34,9 @@ Pôle graphisme-fabrication-déplacement-image |
 
 75 |
 
-Sous-direction des sites historiques et des transports |
+Sous-direction des sites historiques et des transports
+
+|
 
 Bureau de l'exploitation des sites de Matignon |
 
@@ -38,7 +44,9 @@ Bureau de l'exploitation des sites de Matignon |
 
 75 |
 
-Sous-direction des sites historiques et des transports |
+Sous-direction des sites historiques et des transports
+
+|
 
 Bureau du transport automobile |
 
@@ -46,7 +54,9 @@ Bureau du transport automobile |
 
 75 |
 
-Sous-direction des sites historiques et des transports |
+Sous-direction des sites historiques et des transports
+
+|
 
 Service de l'intendance du Premier ministre |
 
@@ -56,7 +66,7 @@ Direction de l'information légale et administrative
 
 LOCALISATION |
 
-SERVICE/BUREAU/POLE |
+SERVICE/ BUREAU/ POLE |
 
 NOMBRE
 
@@ -64,7 +74,9 @@ d'emplois |
 
 75 |
 
-Sous-direction des publics et des produits |
+Sous-direction des publics et des produits
+
+|
 
 Département de l'imprimerie |
 
@@ -72,17 +84,19 @@ Département de l'imprimerie |
 
 75 |
 
-Secrétariat général |
+Secrétariat général
+
+|
 
 Département des moyens généraux |
 
 2 |
 
-Ecole nationale d'administration
+Institut national du service public
 
 LOCALISATION |
 
-SERVICE/BUREAU/POLE |
+SERVICE/ BUREAU/ POLE |
 
 NOMBRE
 
@@ -90,8 +104,12 @@ d'emplois |
 
 67 |
 
-Secrétariat général |
+Secrétariat général
 
-Département des moyens généraux et du patrimoine |
+|
+
+Département des moyens généraux et du patrimoine
+
+|
 
 1 |

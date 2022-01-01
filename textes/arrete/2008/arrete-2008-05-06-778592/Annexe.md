@@ -16,4 +16,4 @@ Le directeur de l'information légale et administrative.
 
 Le directeur du service d'information du Gouvernement.
 
-Le directeur de l'Ecole nationale d'administration.
+Le directeur de l'Institut national du service public.

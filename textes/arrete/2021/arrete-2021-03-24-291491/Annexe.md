@@ -1,6 +1,6 @@
 # Article Annexe
 
-Classe préparatoire pour l'accès au concours externe d'accès à l'Ecole nationale d'administration de l'Ecole nationale d'administration
+Classe préparatoire pour l'accès au concours externe d'accès à l'Institut national du service public de l'Institut national du service public
 
 Classe préparatoire intégrée au concours externe de recrutement des élèves directeurs d'hôpital et des élèves directeurs d'établissement sanitaire, social et médico-social de l'Ecole des hautes études en santé publique
 
@@ -38,7 +38,7 @@ Cycle préparatoire ENA et grands concours des fonctions publiques de l'institut
 
 Parcours carrières publiques du centre de préparation à l'administration générale de l'institut d'études politiques de Lyon
 
-Prep'A+ du centre de préparation à l'administration générale de l'institut d'études politiques de Lyon
+Prep'A + du centre de préparation à l'administration générale de l'institut d'études politiques de Lyon
 
 Master Droit, mention Administration publique, parcours Carrières supérieures de l'Etat de l'institut de préparation à l'administration générale de l'université de Montpellier
 
@@ -64,9 +64,9 @@ Centre de préparation à l'ENA de l'institut d'études politiques de Rennes
 
 Master Santé publique, parcours Droit et gouvernance du secteur sanitaire et social de l'institut de préparation à l'administration générale de l'université de Rennes-I
 
-Préparation aux concours de catégorie A, parcours Se préparer aux métiers des administrations de la santé (A+) et de la protection sociale de l'institut de préparation à l'administration générale de l'université de Rennes-I
+Préparation aux concours de catégorie A, parcours Se préparer aux métiers des administrations de la santé (A +) et de la protection sociale de l'institut de préparation à l'administration générale de l'université de Rennes-I
 
-Centre de préparation à l'ENA (Prép'ENA / Prep'INET) de l'institut d'études politiques de Strasbourg
+Centre de préparation à l'ENA (Prép'ENA/ Prep'INET) de l'institut d'études politiques de Strasbourg
 
 Préparation aux concours, parcours : Préparation générale de l'institut de préparation à l'administration générale de l'université de Strasbourg
 
@@ -83,3 +83,7 @@ Module concours Métiers de la sécurité du centre de préparation à l'adminis
 Préparation aux concours administratifs français de l'Institut d'études politiques de Paris
 
 Prep'ENA Paris1-ENS de l'université Paris I Panthéon-Sorbonne et de l'Ecole normale supérieure
+
+NOTA :
+
+Conformément à l’article 11 de l‘ordonnance n° 2021-702 du 2 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

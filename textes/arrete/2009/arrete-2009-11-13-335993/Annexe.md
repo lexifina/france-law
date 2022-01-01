@@ -58,7 +58,7 @@ Article 26
 
 Les chefs de service sont recrutés par concours unique ouvert :
 
-― d'une part, aux candidats remplissant les conditions pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration ;
+― d'une part, aux candidats remplissant les conditions pour se présenter au premier concours d'entrée à l'Institut national du service public ;
 
 ― d'autre part, aux candidats remplissant les conditions pour se présenter au deuxième concours d'entrée à ladite école ; les services pris en considération étant exclusivement ceux accomplis à la caisse autonome nationale.
 
@@ -302,111 +302,67 @@ La composition de chacune des commissions administratives paritaires est la suiv
 
 |
 
-TITULAIRES
+TITULAIRES |
 
-|
+SUPPLÉANTS |
 
-SUPPLÉANTS
-
-|
-
-Commission administrative paritaire n° 1
+Commission administrative paritaire n° 1 |
 
 |
 
 |
 
-|
+Chefs de Service |
 
-Chefs de Service
+2 |
 
-|
+2 |
 
-2
+Attachés d'administration |
 
-|
+2 |
 
-2
-
-|
-
-Attachés d'administration
-
-|
-
-2
-
-|
-
-2
-
-|
+2 |
 
 Commission administrative paritaire n° 2
 
-Secrétaires administratifs
+Secrétaires administratifs |
 
-|
+4 |
 
-4
+4 |
 
-|
-
-4
-
-|
-
-Commission administrative paritaire n° 3
+Commission administrative paritaire n° 3 |
 
 |
 
 |
 
-|
+Adjoints administratifs principaux de 1re classe et 2e classe |
 
-Adjoints administratifs principaux de 1re classe et 2e classe
+2 |
 
-|
+2 |
 
-2
-
-|
-
-2
-
-|
-
-Inspecteur de service intérieur et du matériel de classe exceptionnelle (à compter du 1er août 1993) et de 1re classe
+Inspecteur de service intérieur et du matériel de classe exceptionnelle (à compter du 1er août 1993) et de 1re classe |
 
 |
 
 |
 
-|
+Adjoints administratifs ― Inspecteur de service intérieur et du matériel de 2e classe (grade classé en E4 à compter du 1er août 1993) |
 
-Adjoints administratifs ― Inspecteur de service intérieur et du matériel de 2e classe (grade classé en E4 à compter du 1er août 1993)
+3 |
 
-|
-
-3
-
-|
-
-3
-
-|
+3 |
 
 Agents administratifs de 1re classe, chefs surveillants (grade intégré en agent de service technique de 1re classe au 1er août 1993)
 
 Agents de 1er et 2e classe des services techniques
 
-Agents de service ― Conducteurs d'automobile
+Agents de service ― Conducteurs d'automobile |
 
-|
-
-Représentation confondue avec celle des adjoints administratifs compte tenu des effectifs concernés
-
-|
+Représentation confondue avec celle des adjoints administratifs compte tenu des effectifs concernés |
 
 |
 
@@ -470,7 +426,7 @@ Dispositions transitoires
 
 Article 54
 
-Les instances énumérées aux articles 44, 45 et 53 en exercice à la date d'approbation du présent statut restent compétentes jusqu'à l'expiration du mandat de leurs membres.
+Les instances énumérées aux articles 44,45 et 53 en exercice à la date d'approbation du présent statut restent compétentes jusqu'à l'expiration du mandat de leurs membres.
 
 Pendant cette période transitoire, le comité technique paritaire est composé de neuf représentants titulaires de la direction, de neuf représentants titulaires du personnel et d'un nombre égal de représentants suppléants.
 

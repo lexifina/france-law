@@ -18,7 +18,7 @@ Ecole Nationale Supérieure des Beaux-Arts (Architecture diplômé) ;
 
 Ecole Supérieure d'Electricité (lorsque l'intéressé est, en outre, titulaire de l'un des autres diplômes donnant droit au classement dans l'échelle 15) ;
 
-Ecole Nationale d'Administration ;
+Institut national du service public ;
 
 Ecole Nationale Supérieure du Pétrole et des Moteurs à Combustion Interne (lorsque l'intéressé est, en outre, titulaire de l'un des diplômes donnant droit au classement dans l'échelle 15) ;
 

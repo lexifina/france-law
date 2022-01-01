@@ -6,7 +6,7 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents de l'Ecole des hautes études en santé publique
 
-- Prépa Talents de l'Ecole nationale d'administration
+- Prépa Talents de l'Institut national du service public
 
 - Prépa Talents de l'Ecole nationale d'administration pénitentiaire
 
@@ -16,19 +16,19 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents de l'Institut régional d'administration de Metz (Lorraine)
 
-- Prépa Talents de l'ENA et grands concours de l'Institut d'études politiques d'Aix-en-Provence
+- Prépa Talents de l'Institut national du service public et grands concours de l'Institut d'études politiques d'Aix-en-Provence
 
 - Prépa Talents du service public de l'université d'Aix-Marseille
 
 - Prépa Talents sécurité et défense de l'université de Besançon
 
-- Prépa Talents ESPOIR (Egalité Service Public Objectif Insertion Réussite) de l'Institut d'études politiques de Bordeaux (pôles Sécurité et Justice, Sanitaire et Social, et Objectif ENA)
+- Prépa Talents ESPOIR (Egalité Service Public Objectif Insertion Réussite) de l'Institut d'études politiques de Bordeaux (pôles Sécurité et Justice, Sanitaire et Social, et Objectif Institut national du service public)
 
 - Prépa Talents du service public de l'université de Bordeaux
 
 - Prépa Talents aux concours du secteur santé-social de CY Cergy Paris Université
 
-- Prépa Talents ENA de l'université d'Evry Val d'Essonne
+- Prépa Talents l'Institut national du service public de l'université d'Evry Val d'Essonne
 
 - Prépa Talents d'administration publique de l'université de La Réunion (concours A+ et A)
 
@@ -59,3 +59,7 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 - Prépa Talents du service public de l'université polytechnique des Hauts-de-France (filière Sécurité-Justice)
 
 - Prépa Talents de l'ouest francilien de l'université de Versailles Saint-Quentin-en-Yvelines (filière Sécurité-Justice)
+
+NOTA :
+
+Conformément à l’article 11 de l‘ordonnance n° 2021-702 du 2 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

@@ -4,19 +4,19 @@ Par arrêté du ministre de la solidarité, de la santé et de la protection soc
 
 Ces épreuves sont réservées aux fonctionnaires et agents non titulaires des établissements ci-après :
 
-- établissements hospitaliers publics et syndicats interhospitaliers ;
+-établissements hospitaliers publics et syndicats interhospitaliers ;
 
-- hospices publics ;
+-hospices publics ;
 
-- maisons de retraite publiques (à l'exclusion de celles qui sont rattachées au bureau d'aide sociale de Paris) ;
+-maisons de retraite publiques (à l'exclusion de celles qui sont rattachées au bureau d'aide sociale de Paris) ;
 
-- établissements publics ou à caractère public relevant des services départementaux de l'aide sociale à l'enfance et maisons d'enfants à caractère social ;
+-établissements publics ou à caractère public relevant des services départementaux de l'aide sociale à l'enfance et maisons d'enfants à caractère social ;
 
-- établissements publics ou à caractère public pour mineurs ou adultes handicapés ou inadaptés, à l'exception des établissements nationaux et des établissements d'enseignement ou d'éducation surveillée ;
+-établissements publics ou à caractère public pour mineurs ou adultes handicapés ou inadaptés, à l'exception des établissements nationaux et des établissements d'enseignement ou d'éducation surveillée ;
 
-- centres d'hébergement et de réadaptation sociale, publics ou à caractère public, mentionnés à l'article 185 du code de la famille et de l'aide sociale ;
+-centres d'hébergement et de réadaptation sociale, publics ou à caractère public, mentionnés à l'article 185 du code de la famille et de l'aide sociale ;
 
-- thermes nationaux d'Aix-les-Bains.
+-thermes nationaux d'Aix-les-Bains.
 
 Ces fonctionnaires et agents doivent justifier au 1er janvier 1992 soit de deux ans de services effectifs depuis leur titularisation compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant l'accès à un corps de la fonction publique, soit de quatre années de services publics.
 
@@ -26,7 +26,7 @@ Les candidats au concours d'accès audit cycle doivent se trouver en fonctions �
 
 Nul ne peut se présenter plus de trois fois auxdites épreuves.
 
-Quatorze places sont offertes aux candidats titulaires d'un diplôme de l'enseignement supérieur permettant de se présenter aux concours externes d'entrée à l'Ecole nationale d'administration.
+Quatorze places sont offertes aux candidats titulaires d'un diplôme de l'enseignement supérieur permettant de se présenter aux concours externes d'entrée à l' Institut national du service public.
 
 Les candidats de cette catégorie admis à l'issue des épreuves suivront une formation de trois mois.
 

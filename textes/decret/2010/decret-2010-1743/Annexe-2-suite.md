@@ -2,7 +2,7 @@
 
 Comités d'hygiène et de sécurité
 
-CHS central placé auprès du directeur de l'Ecole nationale d'administration pénitentiaire (ENAP)
+CHS central placé auprès du directeur de l' Institut national du service public pénitentiaire (ENAP)
 
 CHS départemental placé auprès du président du tribunal judiciaire de l'Ain
 

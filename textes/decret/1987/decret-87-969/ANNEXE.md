@@ -68,7 +68,7 @@ H-aide de documentation
 
 274-474
 
-HC.-Ecole nationale d'administration
+HC.- Institut national du service public
 
 HSecrétaire adjoint :
 
@@ -916,7 +916,7 @@ H-seconde classe
 
 284-463
 
-V.- Institut national de l'information géographique et forestière
+V.-Institut national de l'information géographique et forestière
 
 H-technicien géomètre
 
