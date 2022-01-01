@@ -1,9 +1,7 @@
 # Article Annexe
 
-- Corps interministériel des infirmières et des infirmiers de l'Etat ;
+- Corps des techniciens paramédicaux civils du ministère de la défense, pour les seules spécialités diététicien, préparateur en pharmacie hospitalière et technicien de laboratoire.
 
-- Corps des infirmières et des infirmiers du ministère chargé de l'éducation nationale ;
+NOTA :
 
-- Corps des infirmiers civils de soins généraux ;
-
-- Corps des techniciens paramédicaux civils du ministère de la défense.
+Conformément à l'article 12 du décret n° 2021-1873 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
