@@ -30,15 +30,7 @@ Article 2
 
 Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture des comptes ci-après désignés :
 
-1° Au titre du compte spécial : quatre comptes distincts intitulés respectivement :
-
-a) Carpa-aide juridictionnelle ;
-
-b) Carpa-garde à vue, audition libre, de la retenue ou de la rétention, de la retenue douanière et de la retenue d'un étranger aux fins de vérification de son droit de circulation ou de séjour ;
-
-c) Carpa-défèrement, carpa-médiation et composition pénales et mesure prévue au 2° de l'article L. 422-1, de l'activité d'aide ou de réparation prévue au 1° de l'article L. 112-8 ou de la médiation prévue au 2° de l'article L. 112-8 du code de la justice pénale des mineurs ;
-
-d) Carpa-assistance d'un détenu.
+1° Au titre du compte spécial : un compte intitulé “Carpa - aide juridictionnelle et aide à l'intervention de l'avocat” ;
 
 2° Trois comptes annexes, intitulés respectivement :
 
@@ -46,7 +38,7 @@ a) Emploi des produits financiers ;
 
 b) Placements financiers ;
 
-c) (s'il y a lieu) Convention locale relative à l'aide juridique.
+c) (s'il y a lieu) Carpa - convention locale relative à l'aide juridique.
 
 Article 3
 
