@@ -684,7 +684,7 @@ Tribunal judiciaire de Mont-de-Marsan
 
 |
 
-Ressort du tribunal judiciaire, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour
+Le département
 
 |
 
@@ -1650,4 +1650,4 @@ Le département
 
 NOTA :
 
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 2 du décret n° 2021-1821 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se référer audit article en ce qui concerne les modalités d'application.
