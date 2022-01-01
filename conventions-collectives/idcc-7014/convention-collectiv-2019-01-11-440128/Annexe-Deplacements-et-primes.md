@@ -1,6 +1,6 @@
 # Article Annexe « Déplacements et primes »
 
-1.   Indemnités de déplacement dans la région parisienne au 1er janvier 2021 :
+1.   Indemnités de déplacement dans la région parisienne au 1er janvier 2022
 
 Départ de Chantilly
 
@@ -12,21 +12,23 @@ Dimanche |
 
 Région parisienne [1] |
 
-32,90 € |
+33,60 € |
 
-44,40 € |
+45,40 € |
 
 Chantilly |
 
-24,70 € |
+25,20 € |
 
-28,30 € |
+28,90 € |
 
-[1] Tous hippodromes y compris Compiègne et Fontainebleau. Une somme forfaitaire correspondant à un repas, non soumise à charges sociales est incluse dans les chiffres ci-dessus (19,10 € pour 2021). |
+[1]   Tous hippodromes y compris Compiègne et Fontainebleau.
+
+Une somme forfaitaire correspondant à un repas non soumise à charges sociales est incluse dans les chiffres ci-dessus (19,40 € pour 2022). |
 
 Départ de Maisons-Laffitte
 
-ippodromes |
+Hippodromes |
 
 Semaine |
 
@@ -34,19 +36,21 @@ Dimanche |
 
 Région parisienne [1] |
 
+29,50 € |
+
+39,20 € |
+
+Maisons Laffitte |
+
+25,20 € |
+
 28,90 € |
 
-38,40 € |
+[1]   Tous hippodromes y compris Compiègne et Fontainebleau.
 
-Maisons-Laffitte |
+Une somme forfaitaire correspondant à un repas non soumise à charges sociales est incluse dans les chiffres ci-dessus (19,40 € pour 2022). |
 
-24,70 € |
-
-28,30 € |
-
-[1] Tous hippodromes y compris Compiègne et Fontainebleau. Une somme forfaitaire correspondant à un repas, non soumise à charges sociales est incluse dans les chiffres ci-dessus (19,10 € pour 2021). |
-
-2.   Indemnités de déplacement en province par tranches selon l'éloignement (non compris les frais éventuels de nourriture et de logement) :
+2.   Indemnités de déplacement en province par tranches selon l'éloignement (non compris les frais éventuels de nourriture et de logement)
 
 Départ de Chantilly ou de Maisons-Laffitte
 
@@ -58,29 +62,29 @@ Dimanche |
 
 Moins de 150 km |
 
-30,90 € |
+31,60 € |
 
-43,40 € |
+44,30 € |
 
 De 150 à 250 km |
 
-39,10 € |
+40,00 € |
 
-56,60 € |
+57,80 € |
 
 Plus de 250 km |
 
-48,50 € |
+49,60 € |
 
-69,70 € |
+71,20 € |
 
 Déplacement à l'étranger (plus d'une journée) |
 
-80,80 € |
+82,60 € |
 
-80,80 € |
+82,60 € |
 
-3.   Indemnité de déplacement pour les déplacements dans la même journée à Deauville, Clairefontaine ou Vichy (non compris les frais éventuels de nourriture et de logement) :
+3.   Indemnité de déplacement pour les déplacements dans la même journée à Deauville, Clairefontaine ou Vichy (non compris les frais éventuels de nourriture et de logement)
 
 Départ de Chantilly ou de Maisons-Laffitte
 
@@ -90,25 +94,25 @@ Semaine |
 
 Dimanche |
 
-Deauville* |
+Deauville [1] |
 
-39,10 € |
+40,00 € |
 
-56,60 € |
+57,80 € |
 
-Clairefontaine* |
+Clairefontaine [1] |
 
-39,10 € |
+40,00 € |
 
-56,60 € |
+57,80 € |
 
-Vichy   * |
+Vichy [1] |
 
-48,50 € |
+49,60 € |
 
-69,70 € |
+71,20 € |
 
-(*) Pour un déplacement dans la même journée. |
+[1]   Pour un déplacement dans la même journée. |
 
 4.   Les indemnités de déplacement sont majorées de 9 € pour les semi-nocturnes et les nocturnes.
 
@@ -118,8 +122,8 @@ Vichy   * |
 
 – 25 € par jour ;
 
-– indemnité complémentaire de meeting : 5,50 € ;
+– Indemnité complémentaire de meeting : 5,50 € ;
 
-– prime de débourrage : 30 € ;
+– Prime de débourrage : 30 € ;
 
-– prime de tonte : 16 €.
+– Prime de tonte : 16 €.
