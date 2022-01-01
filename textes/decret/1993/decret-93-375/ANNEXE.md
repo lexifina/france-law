@@ -68,4 +68,10 @@
 
 -responsables d'unités administratives du centre national, des centres régionaux et locaux ;
 
+-directeurs généraux des centres régionaux ;
+
 -directeurs de cités et de restaurants.
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2021-1748 du 21 décembre 2021, ces dispositions entreront en vigueur le 1er janvier 2022.
