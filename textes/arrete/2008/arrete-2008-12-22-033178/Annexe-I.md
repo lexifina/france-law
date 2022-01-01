@@ -36,7 +36,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - le dossier de déclaration ;
 
-- les plans tenus à jour ;
+- les plans tenus à jour, y compris le plan des réseaux d'eau internes ; Ces plans font figurer les dates de constructions, notamment des rétentions et des stockages couverts ;
 
 - la preuve de dépôt de la déclaration et les prescriptions générales ;
 
@@ -47,6 +47,8 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 - les résultats des dernières mesures sur les effluents et le bruit.
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+Les éléments des rapports de visites de risques qui portent sur les constats et sur les recommandations issues de l'analyse des risques menés par l'assureur dans l'installation sont également tenus à la disposition de l'inspection des installations classées.
 
 Objet du contrôle :
 
@@ -84,13 +86,75 @@ Au sens du présent arrêté, on entend par :
 
 - accès à l'installation : ouverture reliant la voie publique et l'intérieur du site, suffisamment dimensionnée pour permettre l'entrée des engins de secours et leur mise en œuvre ;
 
+- armoire de stockage : armoire close dédiée au stockage de substances, mélanges ou déchets en récipients mobiles, et ne permettant aucune circulation des personnes ;
+
+-bâtiment : structure dotée d'une toiture pouvant être, le cas échéant, compartimentée (cellules, locaux). Pour l'application de cet arrêté, les auvents sont assimilés à des bâtiments. Les armoires de stockage ne sont pas des bâtiments ;
+
+- bâtiment ouvert : bâtiment qui n'est pas fermé sur au moins 70 % de son périmètre assurant une ventilation correcte évitant l'accumulation de fumée sous la toiture en cas d'incendie ;
+
+- capacité d'un récipient mobile : contenance d'un récipient définie par le volume de liquide contenu ou le volume de remplissage quand ce dernier est connu ;
+
+- capacité utile d'une rétention afférente à plusieurs réservoirs ou plusieurs récipients mobiles : capacité réputée égale :
+
+- à sa capacité réelle (géométrique), lorsque la capacité utile est calculée en fonction de la capacité totale des réservoirs ou récipients mobiles ;
+
+- à sa capacité réelle diminuée du volume déplacé dans la rétention par les réservoirs ou récipients mobiles autres que le plus grand, lorsque la capacité utile est calculée en fonction de la capacité du plus grand réservoir ou récipient mobile ;
+
+- carburant dans lequel sont incorporés au plus 15 % de produits oxygénés ;
+
+- cellule : partie d'un stockage couvert compartimenté, séparée des autres parties par un dispositif REI 120 et destinée au stockage. Un stockage couvert non compartimenté par des dispositifs REI 120 forme une cellule unique ;
+
+- contenant fusible : contenant qui, notamment pris dans un incendie, est susceptible de fondre et de libérer son contenu. Les contenants, dont l'enveloppe assurant le confinement du contenu en cas d'incendie est réalisée avec des matériaux dont le point de fusion est inférieur à 330° C, sont considérés comme fusibles. Néanmoins, sont exclus les contenants dont le comportement physique en cas d'incendie satisfait à des tests de qualification selon un protocole reconnu par le ministère chargé des installations classées ;
+
+- drainage : système d'évacuation (dispositif de collecte) et de transfert (réseau) des liquides vers une rétention déportée, le dispositif de drainage inclut, notamment, les caniveaux, puisards et les drains de sol ;
+
+- drainage actif : système mécanique qui permet un écoulement dynamique en canalisant le liquide déversé ;
+
+- drainage passif : système qui permet un écoulement gravitaire via, notamment, des caniveaux, siphons de sol ou des puisards ;
+
 - émergence : différence entre les niveaux de pression continus équivalents pondérés du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation) ;
 
 - équipements annexes d'un réservoir : tuyauteries associées, limiteur de remplissage, dispositif de détection de fuite et ses alarmes, dispositif de jaugeage, vannes, évents et dispositifs de récupération des vapeurs ;
 
+- liquides et solides liquéfiables combustibles : liquides et solides dont la température de fusion est inférieure à 80° C dont le Pouvoir Calorifique Inférieur (PCI) est supérieur à 15 MJ/ kg. Sont exclus les liquides dont le point éclair est inférieur à 93° C ainsi que les liquides et solides dont le comportement physique, en cas d'incendie, satisfait à des tests de qualification, selon un protocole reconnu par le ministère chargé des installations classées, montrant qu'ils ne sont pas susceptibles de générer une nappe enflammée lorsqu'ils sont pris dans un incendie. Au sens de cette définition, sont exclus les contenants et emballages ;
+
+- liquide miscible à l'eau : liquide ne répondant pas à la définition d'un liquide non miscible à l'eau ;
+
+- liquide non miscible à l'eau : liquide répondant à l'un des critères suivants :
+
+- liquide inflammable ayant une solubilité dans l'eau à 20° C inférieure à 1 %
+
+-liquide inflammable dont la solubilité dans l'eau à 20° C est comprise entre 1 % et 10 % et pour lequel des tests d'extinction ont montré qu'il se comporte comme un liquide ayant une faible affinité avec l'eau ;
+
+- mezzanine : surface en hauteur qui occupe au maximum 50 % de la surface du niveau inférieur de la cellule et qui ne comporte pas de local fermé ;
+
+- niveau de référence : niveau de la voirie interne au site située au pied du bâtiment et desservant la construction utilisable par les engins des services publics d'incendie et de secours. S'il y a deux accès par des voies situées à des niveaux différents, le niveau de référence est déterminé par la voie la plus basse ;
+
+-récipient mobile : capacité mobile manutentionnable d'un volume inférieur ou égal à 3 mètres cubes. Les réservoirs à carburant des véhicules et engins ne sont pas considérés comme des récipients mobiles
+
 - réservoir aérien : réservoir qui se situe à la surface du sol, en contact direct ou surélevé par rapport à ce dernier ;
 
 - réservoir enterré : réservoir se trouvant entièrement ou partiellement en dessous du niveau du sol environnant, qu'il soit directement dans le sol ou en fosse. Les réservoirs installés dans des locaux ne sont pas considérés comme enterrés, même quand les locaux sont situés en dessous du sol environnant ;
+
+-réservoir mobile : les réservoirs mobiles sont des réservoirs qui permettent le transport de substances, mélanges ou déchets (citernes, wagon,...) ;
+
+-rétention : dispositif de capacité utile suffisante permettant de collecter et de retenir des liquides ;
+
+-rétention déportée : rétention permettant de collecter et de retenir les liquides à distance des réservoirs ou récipients associés, via un drainage ;
+
+-rétention locale : rétention permettant de collecter et de retenir in situ les liquides des réservoirs ou récipients qui lui sont associés ;
+
+-stockage couvert : stockage en bâtiment ;
+
+-stockage extérieur : stockage non pourvu d'une toiture ;
+
+-structure : éléments qui concourent à la stabilité de la construction, tels que les poteaux, les poutres, les planchers et les murs porteurs ;
+
+-support de couverture : éléments fixés sur la structure destinée à supporter la couverture du stockage couvert ;
+
+-système d'extinction automatique d'incendie : système permettant, sans intervention humaine, d'éteindre le feu à ses débuts ou de le contenir de façon à ce que l'extinction puisse être menée à bien par les moyens de l'établissement protégé ou par les services de secours et d'incendie ;
+
+- zone de collecte : surface délimitée servant à la récupération des liquides et permettant de contrôler la propagation de la nappe ou de l'incendie en les transférant via un drainage vers des bassins de récupération (rétention déportée).
 
 - zones à émergence réglementée :
 
@@ -116,9 +180,21 @@ Si des liquides sont contenus dans des réservoirs en fosse ou en double envelop
 
 Les liquides des catégories B, C ou D réchauffés dans leur masse à une température supérieure à leur point d'éclair sont assimilés à des liquides de catégorie B.
 
+1.9. Dispositions particulières applicables aux stockages en bâtiment ouvert
+
+Dans le cas particulier d'un stockage en bâtiment, dont les caractéristiques répondent à la définition de bâtiment ouvert , l'exploitant peut opter pour le respect de l'ensemble des dispositions du point A ci-dessous, en lieu et place de l'ensemble des dispositions définies au point B ci-dessous :
+
+A.- Points 5.3.2,2.7.5 et 4.3.4 de la présente annexe ;
+
+B.- Points 5.3.3,2.7.6 et 4.3.3 de la présente annexe.
+
+Les autres dispositions applicables aux stockages en bâtiment restent applicables.
+
 2. Implantation. - aménagement
 
 2.1. Implantation
+
+2.1.1. Implantation des réservoirs
 
 Les réservoirs sont installés de façon à ce que leurs parois soient situées aux distances minimales suivantes mesurées horizontalement :
 
@@ -138,11 +214,37 @@ Les installations de stockage de superéthanol ne sont pas implantées en rez-de
 
 Aucune bouche de dépotage ne débouche en sous-sol ou en rez-de-chaussée d'un immeuble occupé par des tiers.
 
+2.1.2. Implantation des récipients mobiles en stockage extérieur
+
+Les récipients mobiles au sein d'un stockage extérieur contenant au moins un liquide inflammable sont implantés de façon à ce que le bord de la rétention ou de la zone de collecte extérieure respecte les distances minimales suivantes vis à vis des limites de propriété, à moins que l'exploitant justifie que les effets létaux (seuil des effets thermiques de 5 kW/ m2) restent à l'intérieur du site.
+
+Surface maximale susceptible d'être en feu
+
+en application des dispositions du point 5.3.2 de la présente annexe : |
+
+Distance minimale entre le bord de la rétention, ou le cas échéant, de la zone de collecte, vis-à-vis des limites de propriété |
+
+Jusqu'à 500 m2 |
+
+15 m |
+
+> 500 m2 |
+
+20 m |
+
+2.1.3. Implantation des stockages contenant des liquides inflammables en bâtiment
+
+Les parois extérieures des bâtiments abritant au moins un stockage de liquide inflammable, lorsque ces parois existent, ou les éléments de structure dans le cas d'un bâtiment ouvert, sont implantés à une distance au moins égale à 1,5 fois la hauteur du bâtiment par rapport aux limites de propriété, sans être inférieure à 20 mètres, à moins qu'un dispositif séparatif E120 soit mis en place, et que l'exploitant justifie que les effets létaux (seuil des effets thermiques de 5 kW/ m2) restent à l'intérieur du site.
+
+Les mesures du point 2.1.3 de la présente annexe ne s'appliquent pas aux bâtiments contenant moins de 10 mètres cube de liquides inflammables, sous réserve que chacun de ces bâtiments soit distant d'un espace libre d'au moins 10 mètres des autres bâtiments ou des installations susceptibles d'abriter au moins un liquide inflammable.
+
 Objet du contrôle :
 
-- respect des distances d'éloignement des réservoirs (le non-respect de ce point relève d'une non conformité majeure) ;
+- -Respect des distances d'éloignement des réservoirs, des récipients mobiles en stockage extérieur et des bâtiments abritant des stockages (le non-respect de ce point relève d'une non conformité majeure) ;
 
-- présentation d'un justificatif démontrant que les caractéristiques du mur (matériaux et épaisseur) sont celles d'un mur coupe-feu, lorsque les distances d'éloignement sont réduites (le non-respect de ce point relève d'une non-conformité majeure).
+- présentation d'un justificatif démontrant que les caractéristiques du mur (matériaux et épaisseur) sont celles d'un mur coupe-feu (EI120), lorsque les distances d'éloignement sont réduites (le non-respect de ce point relève d'une non-conformité majeure).
+
+- Présentation, le cas échéant, de la justification que les zones d'effets létaux générés par l'incendie de cellule restent à l'intérieur du site (le non-respect de ce point relève d'une non conformité majeure).
 
 2.2. Accessibilité
 
@@ -164,11 +266,11 @@ Une voie engins au moins est maintenue dégagée pour la circulation sur le pér
 
 Cette voie engins respecte les caractéristiques suivantes :
 
-- la largeur utile est au minimum de 3 mètres, la hauteur libre au minimum de 3,5 mètres et la pente inférieure à 15 % ;
+- la largeur utile est au minimum de 3 mètres, la hauteur libre au minimum de 4,5 mètres et la pente inférieure à 15 % ;
 
 - dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 11 mètres est maintenu et une largeur de S = 15/R mètres est ajoutée ;
 
-- la voie résiste à la force portante calculée pour un véhicule de 160 kN avec un maximum de 90 kN par essieu, ceux-ci étant distants de 3,6 mètres au minimum ;
+- la voie résiste à la force portante calculée pour un véhicule de 320 kN avec un maximum de 130 kN par essieu, ceux-ci étant distants de 3,6 mètres au minimum ;
 
 - chaque point du périmètre du stockage est à une distance maximale de 60 mètres de cette voie ;
 
@@ -216,17 +318,103 @@ Les panneaux d'obturation ou les châssis composant ces accès s'ouvrent et deme
 
 2.2.2.5. Établissement du dispositif hydraulique depuis les engins
 
-A partir de chaque voie engins ou échelle est prévu un accès à toutes les issues des bâtiments comportant un réservoir aérien de liquide inflammable par un chemin stabilisé de 1,40 mètre de large au minimum.
+A partir de chaque voie engins ou échelle est prévu un accès à toutes les issues des bâtiments comportant un réservoir aérien de liquide inflammable par un chemin stabilisé de 1,80 mètres de large au minimum.
 
 Objet du contrôle :
 
 - les réservoirs aériens sont accessibles par un chemin stabilisé.
 
-2.3. Comportement au feu des bâtiments
+2.2.3. Sites comportant des récipients mobiles
+
+Ces dispositions sont applicables à toute installation contenant au moins 10 m3 de liquides inflammables en récipients mobiles.
+
+2.2.3.1 Accès
+
+La voie d'accès aux installations jusqu'à la voie engins définie aux points 2.2.3.2 et 2.2.3.3 de la présente annexe respecte les caractéristiques suivantes :
+
+-la largeur utile est au minimum de 6 mètres, la hauteur libre, au minimum de 4,5 mètres et la pente, inférieure à 15 % ;
+
+-dans les virages de rayon intérieur inférieur à 50 mètres, un rayon intérieur R minimal de 13 mètres est maintenu et une surlargeur de S = 15/ R mètres est ajoutée ;
+
+-la voie résiste à la force portante calculée pour un véhicule de 320 kN avec un maximum de 130 kN par essieu, ceux-ci étant distants de 3,6 mètres au maximum
+
+2.2.3.2 Stockage extérieur contenant au moins un liquide inflammable
+
+L'installation dispose d'une voie engins permettant de faire le tour de chaque rétention associée à un ou plusieurs récipients mobiles.
+
+La voie " engins " respecte les caractéristiques suivantes :
+
+-la largeur utile est au minimum de 3 mètres, la hauteur libre, au minimum de 4,5 mètres et la force portante, identique à celle de la voie d'accès prévue au point 2.2.3.1 du présent arrêté ;
+
+-elle comprend au moins deux aires de croisement tous les 100 mètres ; ces aires ont une longueur minimale de 15 mètres et une largeur minimale de 3 mètres en plus de la voie engins.
+
+2.2.3.3 Stockage en bâtiment abritant au moins un liquide inflammable
+
+A.-Voies engins
+
+L'installation dispose d'une voie " engins " permettant de faire le tour de chaque bâtiment et d'accéder à au moins deux faces de chaque rétention déportée.
+
+La voie engins est positionnée de façon à ne pouvoir être obstruée par l'effondrement de tout ou partie de la construction ou occupée par les eaux d'extinction.
+
+La voie " engins " respecte les caractéristiques suivantes :
+
+-la largeur utile est au minimum de 6 mètres, la pente au maximum de 15 % et la hauteur libre au minimum de 4,5 mètres ;
+
+-elle résiste à la force portante calculée pour un véhicule de 320 kN avec un maximum de 130 kN par essieu, ceux-ci étant distants de 3,6 mètres au maximum ;
+
+-elle comprend au moins deux aires de croisement tous les 100 mètres ; ces aires ont une longueur minimale de 15 mètres et une largeur minimale de 3 mètres en plus de la voie " engins ".
+
+B.-Aires de mise en station des moyens aériens
+
+Les aires de mise en station des moyens aériens permettent aux engins de stationner pour déployer leurs moyens aériens (par exemple les échelles et les bras élévateurs articulés). Elles sont directement accessibles depuis la voie " engins " définie au A du présent point.
+
+Elles sont positionnées de façon à ne pouvoir être obstruées par l'effondrement de tout ou partie de la construction ou occupées par les eaux d'extinction.
+
+Pour tout bâtiment où sont susceptibles d'être présents des liquides inflammables, au moins une façade est desservie par au moins une aire de mise en station des moyens aériens. Au moins deux façades sont desservies lorsque la longueur des murs coupe-feu reliant ces façades est supérieure à 50 mètres.
+
+Les murs coupe-feu séparant une partie de bâtiment d'autres parties de bâtiment sont :
+
+-soit équipés d'une aire de mise en station des moyens aériens, positionnée au droit du mur coupe-feu à l'une de ses extrémités, ou à ses deux extrémités si la longueur du mur coupe-feu est supérieure à 50 mètres ;
+
+-soit équipés de moyens fixes ou semi-fixes permettant d'assurer leur refroidissement. Ces moyens sont indépendants du système d'extinction automatique d'incendie et sont mis en œuvre par l'exploitant.
+
+Chaque aire de mise en station des moyens aériens respecte, par ailleurs, les caractéristiques suivantes :
+
+-la largeur utile est au minimum de 7 mètres, la longueur au minimum de 10 mètres, la pente au maximum de 10 % ;
+
+-elle comporte une matérialisation au sol ;
+
+-aucun obstacle aérien ne gêne la manœuvre de ces moyens aériens à la verticale de cette aire ;
+
+-la distance par rapport à la façade est de 1 mètre minimum et de 8 mètres maximum ;
+
+-elle est maintenue en permanence entretenue, dégagée et accessible aux services d'incendie et de secours.
+
+-l'aire résiste à la force portante calculée pour un véhicule de 320 kN avec un maximum de 130 kN par essieu, ceux-ci étant distants de 3,6 mètres au minimum et présente une résistance au poinçonnement minimale de 88 N/ cm2.
+
+Les dispositions du présent point ne sont pas exigées si la cellule abritant au moins un liquide inflammable a une surface de moins de 2 000 mètres carrés et qu'au moins un de ses murs séparatifs se situe à moins de 23 mètres d'une façade accessible.
+
+C.-A partir de chaque voie " engins " est prévu un accès aux issues des cellules contenant au moins un liquide inflammable par un chemin stabilisé de 1,8 mètre de large au minimum.
+
+Les quais de déchargement sont équipés d'une rampe dévidoir de 1,8 mètre de large au minimum et de pente inférieure ou égale à 10 %, permettant l'accès à chaque cellule par une porte de largeur égale au minimum à 0,9 mètre, sauf s'il existe des accès de plain-pied.
+
+D.-Les accès des cellules contenant au moins un liquide inflammable permettent l'intervention rapide des secours. Leur nombre minimal permet que tout point des cellules contenant au moins un liquide inflammable ne soit pas distant de plus de 50 mètres effectifs de l'un de ces accès ; cette distance étant réduite à 25 mètres dans les cellules abritant au moins un liquide inflammable formant cul-de-sac. Deux issues au moins donnant vers l'extérieur ou sur un espace protégé, dans deux directions opposées, sont prévues dans chaque cellule contenant au moins un liquide inflammable d'une surface supérieure à 1 000 mètres carrés.
+
+Les dispositions du 2.2.3 ne sont pas applicables aux cellules qui ne sont pas susceptibles de contenir une quantité supérieure ou égale à 2 mètres cube de liquides inflammables ainsi qu'aux bâtiments contenant moins de 10 mètres cube de liquides inflammables, sous réserve que chacun de ces bâtiments soit distant d'un espace libre d'au moins 10 mètres des autres bâtiments ou des installations susceptibles d'abriter au moins un liquide inflammable.
+
+Objet du contrôle du point 2.2.3 :
+
+-présence des voies engins ;
+
+-conformité de la largeur utile et de la hauteur libre des voies ainsi que des caractéristiques des aires de croisement.
+
+2.3. Dispositions constructives des bâtiments.
+
+2.3.1. Comportement au feu des bâtiments stockant au moins un liquide inflammable
 
 Les locaux abritant le stockage de liquides inflammables aériens présentent les caractéristiques de réaction et de résistance au feu minimales suivantes :
 
-- les parois extérieures sont construites en matériaux de classe A1 selon la norme NF EN 13 501-1 (incombustible) ;
+- les parois extérieures si elles existent, sont construites en matériaux de classe A1 selon la norme NF EN 13 501-1 (incombustible) ;
 
 - murs extérieurs et murs séparatifs REI 120 ;
 
@@ -240,9 +428,77 @@ Les locaux abritant le stockage de liquides inflammables aériens présentent le
 
 - les matériaux des ouvertures laissant passer l'éclairage naturel ne produisent pas, lors d'un incendie, de gouttes enflammées.
 
-Les locaux sont équipés en partie haute de dispositifs permettant l'évacuation des fumées et gaz de combustion dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage est adapté aux risques particuliers de l'installation.
-
 Le sol des aires et locaux de stockage de liquides inflammables est imperméable et incombustible (de classe A1).
+
+Objet du contrôle du point 2.3.1 :
+
+-présentation des justificatifs de comportement au feu des locaux.
+
+2.3.2. Interdiction de stockage au-dessous du niveau de référence
+
+Le stockage de liquides inflammables au-dessous du niveau de référence est interdit.
+
+Objet du contrôle du point 2.3.2 :
+
+-vérification de l'interdiction de stockage en dessous du niveau de référence (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.3.3. Dimension des cellules
+
+Les cellules ont une surface maximale égale à 3 500 mètres carrés. Ces cellules sont à simple rez-de-chaussée et ne comportent pas de mezzanine.
+
+Objet du contrôle du point 2.3.3 :
+
+-vérification de la dimension (surface au sol) et de l'absence de mezzanine au sein des cellules (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.3.4. Cantons de désenfumage
+
+Lorsque leurs dimensions le permettent, les cellules abritant le stockage d'au moins un liquide inflammable sont divisées en cantons de désenfumage d'une superficie maximale de 1 600 mètres carrés et d'une longueur maximale de 60 mètres.
+
+Les écrans de cantonnement sont constitués soit par des éléments de la structure (couverture, poutre et murs), soit par des écrans fixes, rigides ou flexibles, soit par des écrans mobiles asservis à la détection incendie. Ces écrans sont DH 30, en référence aux normes en vigueur.
+
+Chaque écran de cantonnement a une hauteur minimale de 1 mètre, sans préjudice des dispositions applicables par ailleurs au titre des articles R. 4216-13 et suivants du code du travail. La distance entre le point bas de l'écran et le point le plus près du stockage est supérieure ou égale à 1 mètre. La différence de hauteur entre le point le plus haut du stockage et le point le plus bas de l'écran de cantonnement est supérieure ou égale à 0,5 mètre.
+
+Les dispositions du présent point ne s'appliquent pas pour un bâtiment ouvert.
+
+2.3.5. Dispositifs d'évacuation naturelle des fumées et des chaleurs
+
+Les cantons de désenfumage sont équipés en partie haute de dispositifs d'évacuation naturelle des fumées et des chaleurs (DENFC).
+
+Un DENFC de superficie utile comprise entre 0,5 et 6 mètres carrés est prévu pour 250 mètres carrés de superficie projetée de toiture.
+
+Les DENFC ne sont pas implantés sur la toiture à moins de 7 mètres des murs coupe-feu séparant les cellules de stockage.
+
+Les dispositifs d'évacuation des fumées sont composés d'exutoires à commande manuelle et automatique. La surface utile de l'ensemble de ces exutoires n'est pas inférieure à 2 % de la superficie de chaque canton de désenfumage.
+
+L'action d'une commande de mise en sécurité ne peut pas être inversée par une autre commande.
+
+En exploitation normale, le réarmement (fermeture) est possible depuis le sol du bâtiment, depuis la zone de désenfumage ou depuis la cellule à désenfumer dans le cas d'un bâtiment divisé en plusieurs cantons ou cellules.
+
+Les commandes manuelles des DENFC sont facilement accessibles depuis les issues du bâtiment ou des cellules contenant au moins un liquide inflammable. Ces commandes d'ouverture manuelle sont installées conformément aux normes en vigueur.
+
+Les DENFC, en référence aux normes en vigueur, présentent les caractéristiques suivantes :
+
+-système d'ouverture de type B (ouverture + fermeture) ;
+
+-fiabilité : classe RE 300 (300 cycles de mise en sécurité) ;
+
+-classification de la surcharge neige à l'ouverture : SL 250 (25 daN/ m2) pour des altitudes inférieures ou égales à 400 mètres et SL 500 (50 daN/ m2) pour des altitudes comprises entre 400 et 800 mètres. La classe SL 0 est utilisable si la région d'implantation n'est pas susceptible d'être enneigée ou si des dispositions constructives empêchent l'accumulation de la neige. Au-dessus de 800 mètres, les exutoires sont de la classe SL 500 et installés avec des dispositions constructives empêchant l'accumulation de la neige ;
+
+-classe de température ambiante T (00) ;
+
+-classe d'exposition à la chaleur B 300.
+
+Le déclenchement du désenfumage n'est pas asservi à la même détection que celle à laquelle est asservi le système d'extinction automatique d'incendie visé au point 4.3.3 de la présente annexe.
+
+Les dispositifs d'ouverture automatique des exutoires sont réglés de telle façon que l'ouverture des organes de désenfumage ne puisse se produire avant le déclenchement de l'extinction automatique.
+
+Les dispositions du présent point ne s'appliquent pas pour un bâtiment ouvert.
+
+2.3.6. Application
+
+Les mesures du point 2.3 de la présente annexe ne s'appliquent pas aux bâtiments contenant moins de 10 mètres cube de liquides inflammables, sous réserve que chacun de ces bâtiments soit distant d'un espace libre d'au moins 10 mètres des autres bâtiments ou des installations susceptibles d'abriter au moins un liquide inflammable.
+
+Les dispositions du point 2.3 ne sont par ailleurs pas applicables aux cellules qui ne sont pas susceptibles de contenir une quantité supérieure ou égale à 2 mètres cube de liquides inflammables.
 
 2.4. Ventilation
 
@@ -274,7 +530,9 @@ Les équipements métalliques (réservoirs, cuves, tuyauteries) sont mis à la t
 
 Sous réserve des impératifs techniques qui peuvent résulter de la mise en place de dispositifs de protection cathodique, les installations fixes de transfert de liquides inflammables ainsi que les charpentes et enveloppes métalliques seront reliées électriquement entre elles ainsi qu'à une prise de terre unique. La continuité des liaisons présente une résistance inférieure à 1 ohm et la résistance de la prise de terre est inférieure à 10 ohms.
 
-2.7. Rétention des aires et locaux de travail
+2.7 Rétention
+
+2.7.1 Rétention des aires et locaux de travail
 
 Le sol des aires et des locaux de stockage ou de manipulation des matières dangereuses pour l'homme ou susceptibles de créer une pollution de l'eau ou du sol est étanche, incombustible et équipé de façon à pouvoir recueillir les eaux de lavage et les matières répandues accidentellement.
 
@@ -284,35 +542,203 @@ Objet du contrôle :
 
 - présence d'un dispositif empêchant la diffusion des matières dangereuses répandues accidentellement.
 
-2.8. Cuvettes de rétention
+2.7.2. Généralités
 
-Tout réservoir aérien de produits liquides susceptibles de créer une pollution de l'eau ou du sol est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
+A.-Tout stockage d'un liquide susceptible de créer une pollution des eaux ou des sols est associé à une capacité de rétention dont le volume est au moins égal à la plus grande des deux valeurs suivantes :
 
-- 100 % de la capacité du plus grand réservoir ;
+-100 % de la capacité du plus grand réservoir ou récipient ;
 
-- 50 % de la capacité globale des réservoirs associés.
+-50 % de la capacité globale des réservoirs et récipients associés.
 
-La capacité de rétention est étanche aux produits qu'elle pourrait contenir et résiste à l'action physique et chimique des fluides. Il en est de même pour son dispositif d'obturation qui est manœuvrable depuis l'extérieur et maintenu fermé.
+Lorsque le stockage est constitué exclusivement de récipients mobiles de capacité unitaire inférieure ou égale à 250 litres, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale avec un minimum de 800 litres si cette capacité excède 800 litres.
 
-Lorsque le stockage est constitué exclusivement de récipients de capacité unitaire inférieure ou égale à 250 litres, le volume minimal de la rétention est égal soit à la capacité totale des récipients si cette capacité est inférieure à 800 litres, soit à 20 % de la capacité totale ou 50 % dans le cas de liquides inflammables (à l'exception des lubrifiants), avec un minimum de 800 litres si cette capacité excède 800 litres.
+B.-La rétention est étanche aux produits qu'elle pourrait contenir.
 
-Des réservoirs ou récipients contenant des produits susceptibles de réagir dangereusement ensemble ne sont pas associés à la même cuvette de rétention. Cette disposition ne s'applique pas aux bassins de traitement des eaux résiduaires.
+L'exploitant s'assure dans le temps de la pérennité de ce dispositif. L'étanchéité ne doit notamment pas être compromise par les produits pouvant être recueillis, par un éventuel incendie ou par les éventuelles agressions physiques liées à l'exploitation courante.
 
-Les produits récupérés en cas d'accident ne peuvent être rejetés que dans des conditions conformes au point 8 de la présente annexe.
+C.-La rétention résiste à la pression statique du produit éventuellement répandu et à l'action physique et chimique des produits pouvant être recueillis. Il en est de même pour son dispositif d'obturation, s'il existe.
+
+-En cas de rétention locale, le dispositif d'obturation, s'il existe, est maintenu fermé,
+
+-En cas de rétention déportée, celle-ci est conforme aux dispositions du point 2.7.7 de la présente annexe.
+
+D.-L'exploitant met en place les dispositifs et procédures appropriés pour assurer l'évacuation des eaux pouvant s'accumuler dans les rétentions.
+
+Ces dispositifs :
+
+-sont étanches aux produits susceptibles d'être retenus ;
+
+-sont fermés (ou à l'arrêt s'il s'agit de dispositifs actifs) sauf pendant les phases de vidange ;
+
+-peuvent être commandés sans avoir à pénétrer dans la rétention.
+
+La position ouverte ou fermée de ces dispositifs est clairement identifiable sans avoir à pénétrer dans la rétention.
+
+E.-Les produits récupérés en cas d'accident ne peuvent être rejetés que dans des conditions conformes au présent arrêté ou sont éliminés vers les filières de traitement des déchets appropriées.
+
+F.-L'exploitant veille à ce que les capacités de rétention soient disponibles en permanence.
+
+La rétention et ses dispositifs associés font l'objet d'une surveillance et d'une maintenance appropriées, définies dans une procédure.
+
+G.-Une rétention affectée au stockage de réservoirs ne peut pas également être affectée au stockage de récipients mobiles, sauf dans le cas des rétentions déportées.
+
+H.-Des réservoirs ou récipients contenant des produits susceptibles de réagir dangereusement ensemble ne sont pas associés à la même rétention. Cette disposition ne s'applique pas aux bassins de confinement des eaux d'extinction d'un éventuel incendie prévus au point 6.3 de la présente annexe.
 
 Objet du contrôle :
 
-- conformité du volume de rétention par rapport au volume de stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
+-conformité du volume de rétention par rapport au volume de stockage (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- dispositif d'obturation manœuvrable depuis l'extérieur et maintenu fermé (le non-respect de ce point relève d'une non-conformité majeure) ;
+-le cas échéant, dispositif d'obturation manœuvrable depuis l'extérieur et maintenu fermé (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- conformité des modalités de récupération des effluents pollués.
+-conformité des modalités de récupération des effluents pollués.
+
+2.7.3. Dispositions communes pour les stockages contenant au moins un liquide inflammable
+
+A.-L'étanchéité de la rétention est assurée par un revêtement en béton, ou tout autre revêtement présentant des caractéristiques d'étanchéité au moins équivalente.
+
+B.-Les tuyauteries tant aériennes qu'enterrées, les canalisations électriques ainsi que les pompes de transfert de liquide inflammable qui ne sont pas strictement nécessaires à l'exploitation de la rétention ou à sa sécurité sont exclues de celle-ci.
+
+C.-Les parois des rétentions sont incombustibles. Si le volume de ces rétentions est supérieur à 3 000 litres, les parois sont a minima RE 30, à l'exception de celles creusées.
+
+2.7.4. Dispositions spécifiques au stockage en réservoirs aériens contenant au moins un liquide inflammable
+
+Pour chaque réservoir ou groupe de réservoirs contenant un liquide inflammable, le volume minimal de la rétention calculé en application du point 2.7.2 de la présente annexe est majoré pour contenir également :
+
+-le volume des eaux d'extinction. Pour cela, l'exploitant détermine le volume d'eau nécessaire à l'extinction ou applique une hauteur supplémentaire forfaitaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction. ;
+
+-le volume d'eau lié aux intempéries à raison de 10 litres par mètre carré de surface exposée aux intempéries de la rétention et du drainage menant à la rétention.
+
+Objet du contrôle :
+
+-Conformité du volume de rétention par rapport au volume de stockage (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.7.5. Dispositions particulières pour les stockages de récipients mobiles en extérieur contenant au moins un liquide inflammable
+
+A.-Pour chaque récipient mobile ou groupe de récipients mobiles, la capacité utile de la rétention est au moins égale :
+
+-soit à la capacité totale des récipients si elle est inférieure à 800 litres ;
+
+-soit à 50 % de la capacité totale des récipients avec un minimum de 800 litres si elle excède 800 litres.
+
+La capacité totale des récipients prend en compte l'ensemble des liquides susceptibles d'être présents au sein de la rétention, y compris les liquides et solides liquéfiables combustibles.
+
+B.-Dispositions particulières pour les récipients mobiles de type contenant fusible
+
+Pour chaque récipient mobile ou groupe de récipients mobiles de type contenant fusible contenant au moins un liquide inflammable, le volume minimal de la rétention est au moins égal à la capacité totale des récipients de type contenants fusibles. La capacité totale des récipients prend en compte l'ensemble des liquides susceptibles d'être présents au sein de la rétention, y compris les liquides et solides liquéfiables combustibles.
+
+C.-Prise en compte du volume des eaux d'extinction ou lié aux intempéries
+
+Pour chaque récipient mobile ou groupe de récipients mobiles contenant au moins un liquide inflammable, le volume minimal de la rétention calculé en application du A. ou du B. du présent point est majoré pour contenir également :
+
+-le volume des eaux d'extinction. Pour cela, l'exploitant détermine le volume d'eau nécessaire à l'extinction, ou applique une hauteur supplémentaire forfaitaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction ;
+
+-le volume d'eau lié aux intempéries à raison de 10 litres par mètre carré de surface exposée aux intempéries de la rétention et du drainage menant à la rétention.
+
+D.-Le volume nécessaire à la rétention est rendu disponible par une ou des rétentions locales ou déportées. En cas de rétention déportée, celle-ci peut être commune à plusieurs stockages. Dans ce cas, son volume minimal est au moins égal au plus grand volume calculé pour chacun des stockages associés. Le dispositif de drainage ainsi que la rétention sont conformes aux dispositions du point 2.7.7 de la présente annexe relatif aux rétentions déportées.
+
+E.-Le cas échéant, les dispositifs de drainage sont suffisamment dimensionnés au regard des caractéristiques des produits et des débits attendus, en particulier en cas de déversements dans le cadre d'un incendie, pour assurer l'évacuation des produits et contenir la surface en feu.
+
+F.-La distance entre les parois de la rétention et la paroi du stockage contenu (récipients mobiles) est au moins égale à la hauteur du plus grand récipient mobile stocké moins la hauteur de la paroi de la rétention par rapport au sol côté rétention. A défaut, l'exploitant justifie que la distance est suffisante pour éviter tout phénomène d'écoulement hors de la rétention en cas de fuite.
+
+Objet du contrôle :
+
+-conformité du volume de rétention par rapport au volume de stockage (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.7.6. Dispositions particulières applicables aux cellules
+
+I.-Chaque cellule d'une superficie supérieure à 500 mètres carrés est divisée en zones de collecte d'une superficie unitaire maximale au sol égale à 500 mètres carrés et compatible avec le dimensionnement du système d'extinction automatique d'incendie prévu au point 4.3.3 de la présente annexe. A chacune de ces zones est associé un système de drainage et une ou des rétentions déportées dont la capacité utile est au moins égale à 100 % de la capacité des récipients mobiles associés, à laquelle est ajouté le volume d'eau d'extinction nécessaire à la lutte contre l'incendie. Pour cela, l'exploitant détermine le volume d'eau nécessaire à l'extinction, ou applique une hauteur supplémentaire forfaitaire des parois de rétention de 0,15 mètre en vue de contenir ces eaux d'extinction. Est également ajouté le volume lié aux intempéries à raison de 10 litres par mètre carré de surface exposée aux intempéries de la rétention et du drainage menant à la rétention.
+
+Les rétentions déportées peuvent être communes à plusieurs zones de collecte. Dans ce cas, son ou leur volume minimal est au moins égal au plus grand volume calculé pour chacune des zones de collecte associées.
+
+Le dispositif de collecte, les réseaux ainsi que la rétention sont conformes aux dispositions des points 2.7.3 et 2.7.7 de la présente annexe.
+
+II.-Les cellules d'une superficie inférieure à 500 mètres carrés sont conformes aux dispositions suivantes :
+
+Ces cellules sont associées à un dispositif de rétention, dont la capacité utile répond aux dispositions relatives aux capacités de rétention des points A, B et C au point 2.7.5 ou du point 2.7.2 de la présente annexe. Le volume nécessaire à la rétention est rendu disponible par une ou des rétentions locales ou déportées.
+
+En cas de rétention déportée, celle-ci peut être commune à plusieurs cellules. Dans ce cas, son volume minimal est au moins égal au plus grand volume calculé pour chacune des cellules associées. Le dispositif de drainage ainsi que la rétention sont conformes aux dispositions du point 2.7.7 de la présente annexe relatif aux rétentions déportées
+
+III.-Les dispositions du point 2.7.6 ne sont pas applicables aux cellules qui ne sont pas susceptibles de contenir une quantité supérieure ou égale à 2 mètres cube de liquides inflammables.
+
+Les dispositions du point 2.7.6 de la présente annexe ne sont par ailleurs pas applicables aux bâtiments contenant moins de 10 mètres cubes de liquide inflammable, sous réserve que chacun de ces bâtiments soit distant d'un espace libre d'au moins 10 mètres des autres bâtiments ou des installations susceptibles d'abriter au moins un liquide inflammable.
+
+Les dispositions du point 2.7.6 de la présente annexe ne sont enfin pas applicables aux cellules contenant uniquement des liquides dont le comportement physique en cas d'incendie satisfait à des tests de qualification selon un protocole reconnu par le ministère chargé des installations classées montrant qu'ils ne sont pas susceptibles de générer une nappe enflammée lorsqu'ils sont pris dans un incendie.
+
+Objet du contrôle :
+
+-présence des zones de collecte dans les cellules contenant des liquides inflammables ;
+
+-vérification de la conformité de la surface des zones de collectes par rapport à la surface maximale définie respectivement aux points I et II ainsi qu'à la surface prévue par le dimensionnement du système d'extinction automatique ;
+
+-conformité du volume de rétention par rapport au volume de stockage (le non-respect de ce point relève d'une non-conformité majeure).
+
+2.7.7. Dispositions pour les rétentions déportées
+
+Dans le cas d'une rétention déportée, les dispositions suivantes sont à respecter :
+
+1. Zone de collecte extérieure
+
+Dans le cas d'une rétention déportée, chaque îlot de stockage extérieur est associé à une zone de collecte dédiée, qui permet de répondre aux dispositions du point 5.3.2 de la présente annexe.
+
+2. Dispositif de drainage
+
+Chaque zone de collecte extérieure et chaque zone de collecte mentionnée au point 2.7.6 de la présente annexe est pourvue d'un dispositif de drainage permettant de récupérer et de canaliser les liquides inflammables et les eaux d'extinction d'incendie.
+
+3. Dispositif d'extinction des effluents enflammés
+
+Les effluents ainsi canalisés sont dirigés à l'extérieur des zones de collecte vers un dispositif permettant l'extinction des effluents enflammés et évitant leur réinflammation avant qu'ils ne soient dirigés vers la rétention déportée. Ce dispositif peut être une fosse d'extinction, un plancher pareflamme, un siphon anti-feu ou tout autre dispositif équivalent.
+
+4. La zone de collecte, le drainage, le dispositif d'extinction et la rétention déportée sont conçus, dimensionnés et construits afin de :
+
+-ne pas communiquer le feu directement ou indirectement aux autres installations situées sur le site ainsi qu'à l'extérieur du site, en particulier le trajet aérien ne traverse pas de zone comportant des feux nus et ne coupe pas les voies d'accès aux récipients mobiles ou bâtiment. Le réseau est protégé de tout risque d'agression mécanique au droit des circulations d'engins ;
+
+-éviter tout débordement des réseaux, pour cela ils sont adaptés aux débits ainsi qu'aux volumes attendus d'effluents enflammés et des eaux d'extinction d'incendie, pour assurer l'écoulement vers la rétention déportée ;
+
+-éviter le colmatage du réseau d'évacuation par toute matière solide ou susceptible de se solidifier ;
+
+-éviter tout débordement de la rétention déportée. Une rétention déportée peut être commune à plusieurs stockages, le volume minimal de la rétention déportée est au moins égal au plus grand volume calculé en application des dispositions des points 2.7.2,2.7.4,2.7.5 et 2.7.6 de la présente annexe pour chaque stockage associé ;
+
+-éviter toute surverse de liquide inflammable lors de son arrivée éventuelle dans la rétention déportée ;
+
+-résister aux effluents enflammés : en amont du dispositif d'extinction, les réseaux sont en matériaux incombustibles.
+
+Le cas échéant, la rétention déportée peut être commune avec le bassin de confinement prévu au point 6.3 de la présente annexe.
+
+La rétention déportée et, si elle existe, la fosse d'extinction sont accessibles aux services d'intervention lors de l'incendie.
+
+Les hypothèses et justificatifs de dimensionnement sont tenus à disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+5. Le liquide recueilli est dirigé de manière gravitaire vers la rétention déportée.
+
+En cas d'impossibilité technique justifiée de disposer d'un dispositif de drainage passif, l'écoulement vers la rétention associée peut être constitué d'un dispositif de drainage commandable manuellement et automatiquement sur déclenchement du système de détection d'incendie ou d'écoulement. Dans ce cas, la pertinence, le dimensionnement et l'efficacité du dispositif de drainage sont démontrés au regard des conditions et de la configuration des stockages. En cas de mise en place d'un dispositif actif, les équipements nécessaires au dispositif (pompes, etc.) sont conçus pour résister aux effets auxquels ils sont soumis. Ils disposent d'une alimentation électrique de secours et, le cas échéant, d'équipement empêchant la propagation éventuelle d'un incendie.
+
+6. Le dispositif d'extinction ainsi que le dispositif de drainage font l'objet d'un examen visuel approfondi périodiquement et d'une maintenance appropriée.
+
+En cas de dispositif actif, celui-ci fait l'objet de tests de fonctionnement périodiques, à une fréquence au moins semestrielle. Les dates et résultats des tests réalisés sont consignés dans un registre éventuellement informatisé qui est tenu à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+7. L'exploitant intègre au plan de défense incendie et aux consignes de sécurité prévus respectivement aux points 4.3.6 et 4.6 de la présente annexe, les moyens à mettre en place et les manœuvres à effectuer pour canaliser et maîtriser les écoulements des eaux d'extinction d'incendie, notamment en ce qui concerne la mise en œuvre de dispositifs de drainage actifs, le cas échéant. Le délai d'exécution des consignes ne peut excéder le délai de remplissage de la rétention.
+
+8. Implantation des rétentions déportées
+
+Les rétentions déportées :
+
+-sont implantées à moins de 100 mètres d'au moins un appareil d'incendie (bouche ou poteau d'incendie) d'un diamètre nominal de 100 ou 150 millimètres ;
+
+-sont constituées de matériaux résistant aux effets thermiques générés par l'incendie du bâtiment, le cas échéant.
+
+Objet du contrôle :
+
+-présence d'un dispositif d'extinction en cas de rétention déportée (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-justificatif de vérification périodique, tests et maintenance des dispositifs actifs, le cas échéant (le non-respect de ce point relève d'une non-conformité majeure).
 
 3. Exploitation. - Entretien
 
 3.1. Surveillance de l'exploitation
 
 L'exploitation se fait sous la surveillance, directe ou indirecte, d'une personne compétente désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
+
+En dehors des heures d'exploitation de l'installation, une surveillance de toute installation contenant plus de 10 mètres cube de liquides inflammables en récipients mobiles, par gardiennage ou télésurveillance, est mise en place en permanence afin de permettre des mesures de levée de doute et de transmettre l'alerte en cas de sinistre.
 
 3.2. Contrôle de l'accès
 
@@ -332,13 +758,15 @@ Les fonds des cuvettes de rétention sont maintenus propres et désherbés.
 
 3.5. Etats des volumes stockés
 
-L'exploitant est en mesure de fournir à tout instant une estimation des volumes stockés à laquelle est annexé un plan général des stockages. Cette information est tenue à la disposition des services d'incendie et de secours et de l'inspection des installations classées et de l'organisme de contrôle périodique.
+L'exploitant tient à jour un état des matières stockées, auquel est annexé un plan général des stockages.
+
+Cet état, ainsi que les documents prévus au point 3.3 de la présente annexe sont tenus en permanence, de manière facilement accessible, à disposition des services d'incendie et de secours, de l'inspection des installations classées et de l'organisme de contrôle périodique.
 
 Objet du contrôle :
 
-- présence d'un plan général des stockages ;
+-présence d'un plan général des stockages ;
 
-- présentation de l'estimation des volumes de liquides inflammables stockés.
+-Présentation de l'état des matières stockées.
 
 3.6. Consignes d'exploitation
 
@@ -378,6 +806,8 @@ Objet du contrôle :
 
 4.3. Détection et protection contre l'incendie
 
+4.3.1. Dispositions générales
+
 L'installation est dotée de moyens de lutte contre l'incendie appropriés aux risques et conformes aux règles en vigueur, notamment :
 
 - d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux par exemple) d'un réseau public ou privé implantés de telle sorte que tout point de la limite du stockage se trouve à moins de 200 mètres d'un appareil ;
@@ -392,21 +822,123 @@ L'installation est dotée de moyens de lutte contre l'incendie appropriés aux r
 
 - d'au moins une couverture spéciale antifeu.
 
-Les stockages aériens de liquides inflammables sont également équipés d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux, par exemple) d'un réseau public ou privé implantés de telle sorte que, d'une part, tout point de la limite du stockage se trouve à moins de 100 mètres d'un appareil et que, d'autre part, tout point de la limite du stockage se trouve à moins de 200 mètres d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m3/h pendant une durée d'au moins deux heures et dont le dispositif de raccordement est conforme aux normes en vigueur pour permettre au service d'incendie et de secours de s'alimenter sur ces appareils. A défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du stockage ayant recueilli l'avis des services départementaux d'incendie et de secours.
+-d'une réserve d'émulseurs d'au moins 1 mètre cube compatible avec la nature des liquides inflammables stockés. Cette réserve est stockée dans un ou des endroits identifiés et accessibles, notamment par les services d'incendie et de secours. Cette obligation ne s'applique pas aux installations dont tous les stockages de liquides inflammables qui relèvent du présent arrêté sont protégés par un système d'extinction automatique adapté au risque à couvrir ou enterrés.
 
-L'exploitant est en mesure de justifier au préfet la disponibilité effective des débits d'eau ainsi que le dimensionnement de l'éventuelle réserve d'eau prévue à l'alinéa précédent.
+Si les appareils d'incendie sont alimentés par un réseau d'eau public, les charges afférentes à la protection contre l'incendie sont réparties conformément à l' article R. 2225-7 du code général des collectivités territoriales.
 
-Les stockages aériens de liquides inflammables de catégorie B sont également équipés :
+4.3.2. Dispositions applicables aux stockages aériens en réservoir
+
+A. - Les stockages aériens en réservoir de liquides inflammables sont également équipés d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux, par exemple) d'un réseau public ou privé implantés de telle sorte que, d'une part, tout point de la limite du stockage se trouve à moins de 100 mètres d'un appareil et que, d'autre part, tout point de la limite du stockage se trouve à moins de 200 mètres d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m3/h pendant une durée d'au moins deux heures et dont le dispositif de raccordement est conforme aux normes en vigueur pour permettre au service d'incendie et de secours de s'alimenter sur ces appareils. A défaut, une réserve d'eau destinée à l'extinction est accessible en toutes circonstances et à une distance du stockage ayant recueilli l'avis des services départementaux d'incendie et de secours.
+
+L'exploitant est en mesure de justifier au préfet la disponibilité effective des débits d'eau ainsi que le dimensionnement de l'éventuelle réserve d'eau prévue à l'alinéa précédent. Ce justificatif est tenu à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+B.- Les stockages aériens de liquides inflammables de mentions de danger H224, H225 sont également équipés :
 
 - d'un système de détection automatique d'incendie approprié au produit ;
 
 - d'un système d'extinction automatique d'incendie adapté au risque à couvrir.
 
-En cas d'installation de systèmes d'extinction automatique d'incendie, ceux-ci sont conçus, installés et entretenus régulièrement conformément aux référentiels reconnus.
+4.3.3. Dispositions applicables aux stockages en récipients mobiles en bâtiment abritant au moins un liquide inflammable
 
-Objet du contrôle :
+A.-Un système d'extinction automatique d'incendie adapté aux produits stockés est mis en place dans chaque cellule.
 
-- présence des moyens de secours et de défense contre l'incendie énumérés en 4.3 de la présente annexe (le non-respect de ce point relève d'une non-conformité majeure).
+B.-Un dispositif de détection automatique d'incendie avec transmission, en tout temps, de l'alarme à l'exploitant est mis en place dans les cellules stockant au moins un liquide inflammable, les locaux techniques et les bureaux à proximité des stockages de liquides inflammables. Ce dispositif actionne une alarme perceptible en tout point du bâtiment et le compartimentage de la ou des parties de bâtiment sinistrées dans le cas d'un système centralisé. En l'absence de système centralisé, le compartimentage est actionné par un système indépendant de type détecteur autonome déclencheur.
+
+C.-Les dispositions du point 4.3.3 ne s'appliquent pas aux cellules qui ne sont pas susceptibles de contenir une quantité supérieure ou égale à 2 mètres cube de liquides inflammables.
+
+Les dispositions du point 4.3.3 ne s'appliquent par ailleurs pas aux bâtiments contenant moins de 10 mètres cube de liquides inflammables, sous réserve que chacun de ces bâtiments soit distant d'un espace libre d'au moins 10 mètres des autres bâtiments ou des installations susceptibles d'abriter au moins un liquide inflammable.
+
+4.3.4. Dispositions applicables aux stockages extérieurs en récipient mobile contenant au moins un liquide inflammable
+
+A.-Détection
+
+Les stockages extérieurs en récipients mobiles contenant au moins un liquide inflammable sont équipés d'un système de détection incendie. Ce dispositif est conçu, dimensionné et installé de manière à détecter, à tout moment, tout départ de feu sur les zones de stockages concernées. Le dispositif est distinct d'autres dispositifs de surveillance (telles que les surveillances anti-intrusion) et transmet une alarme avec, le cas échéant report d'alarme auprès de personne visée au point 3.1 de la présente annexe ou tout moyen permettant d'alerter les secours ;
+
+Les dispositions du présent point ne s'appliquent pas aux stockages extérieurs contenant moins de 10 mètres cube de liquides inflammables et liquides ou solides liquéfiables combustibles sous réserve que l'une des deux conditions suivantes soit respectée :
+
+-chacun de ces stockages soit distant d'un espace libre d'au moins 10 mètres des autres stockages ou des installations susceptibles d'abriter au moins un liquide inflammable.
+
+-Ou un ou des murs coupe-feu REI 120 de dimensions suffisantes pour contenir les effets dominos (seuil des effets thermiques à 8kW/ m2) sépare ce stockage de tout autres stockage susceptible de contenir au moins un liquide inflammable.
+
+B.-Les stockages extérieurs en récipients mobiles de liquides inflammables sont également équipés d'un ou plusieurs appareils d'incendie (prises d'eau, poteaux, par exemple) d'un réseau public ou privé implantés de telle sorte que, d'une part, tout point de la limite du stockage se trouve à moins de 100 mètres d'un appareil et que, d'autre part, tout point de la limite du stockage se trouve à moins de 200 mètres d'un ou plusieurs appareils permettant de fournir un débit minimal de 60 m3/ h pendant une durée d'au moins deux heures et dont le dispositif de raccordement est conforme aux normes en vigueur pour permettre au service d'incendie et de secours de s'alimenter sur ces appareils.
+
+L'exploitant dispose des justificatifs attestant de la disponibilité effective des débits d'eau. Ces justificatifs sont tenus à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+4.3.5. Conception des systèmes automatiques d'extinction d'incendie
+
+En cas d'installation de systèmes d'extinction automatique d'incendie, notamment en application des points 4.3.2 ou 4.3.3, ceux-ci sont conçus, installés et entretenus régulièrement conformément aux référentiels reconnus.
+
+Ils sont adaptés aux risques à couvrir, notamment aux produits stockés (liquides inflammables, liquides et solides liquéfiables combustibles), aux conditions de stockages et à la caractéristique des contenants.
+
+Les systèmes d'extinction automatique d'incendie installés au sein d'un bâtiment répondent aux exigences fixées dans le chapitre 7 de la norme NF EN 13565-2 + AC (version d'avril 2019) ou présente une efficacité équivalente.
+
+Le choix du système d'extinction automatique d'incendie à implanter est explicité dans le plan de défense incendie. Le système répond aux exigences fixées par les normes en vigueur. Le plan de défense incendie précise le référentiel professionnel retenu pour le choix et le dimensionnement du système d'extinction mis en place.
+
+Avant la mise en service de l'installation, une attestation de conformité du système d'extinction automatique d'incendie mis en place aux exigences du référentiel professionnel retenu est établie. Cette attestation est accompagnée d'une description du système et des principaux éléments techniques concernant la surface de dimensionnement des zones de collecte, les réserves en eau, le cas échéant les réserves en émulseur, l'alimentation des pompes et l'estimation des débits d'alimentation en eau et, le cas échéant, en émulseur. Ce document est tenu à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+4.3.6. Plan de défense incendie
+
+A.-Un plan de défense incendie est établi par l'exploitant, en se basant sur les scénarios d'incendie les plus défavorables de ses installations (feu de réservoirs, feu de rétention, feu d'une cellule).
+
+Le plan de défense incendie contient :
+
+-les schémas d'alarme et d'alerte décrivant les actions à mener à compter de la détection d'un incendie (l'origine et la prise en compte de l'alerte, l'appel des secours extérieurs, la liste des interlocuteurs internes et externes) ;
+
+-l'organisation de la première intervention et de l'évacuation face à un incendie en périodes ouvrées ;
+
+-les modalités d'accueil des services d'incendie et de secours en périodes ouvrées et non ouvrées ;
+
+-la justification des compétences du personnel susceptible, en cas d'alerte, d'intervenir avec des extincteurs et des robinets d'incendie armés et d'interagir sur les moyens fixes de protection incendie, notamment en matière de formation, de qualification et d'entraînement ;
+
+-les plans d'implantation installations, stockages extérieurs, bâtiments. Les plans font figurer l'implantation des murs coupe-feu ;
+
+-les plans des réseaux d'eau prévus à l'article R. 512-47 du code de l'environnement ;
+
+-des consignes précises pour l'accès des secours avec des procédures pour accéder à tous les lieux ;
+
+-le document de recensement des parties de l'installation à risques prévu au point 4.1 de la présente annexe ;
+
+-le plan de situation décrivant schématiquement l'alimentation des différents points d'eau ainsi que l'emplacement des vannes de barrage sur les canalisations, et les modalités de mise en œuvre, en toutes circonstances, de la ressource en eau nécessaire à la maîtrise de l'incendie de chaque cellule ;
+
+-la description du fonctionnement opérationnel du système d'extinction automatique, s'il existe, et le cas échéant l'attestation de conformité accompagnée des éléments prévus au point 4.3.5 de la présente annexe ;
+
+-la localisation des commandes des équipements de désenfumage prévus au point 2.3.5 ;
+
+-la localisation des interrupteurs centraux prévus, lorsqu'ils existent ;
+
+En cas de détection de fuite ou d'incendie, le gardien ou la télésurveillance transmet l'alerte à une ou plusieurs personnes compétentes chargées d'effectuer les actions nécessaires pour mettre en sécurité les installations. Le plan de défense incendie désigne préalablement la ou les personne (s) compétente (s) et définit les modalités d'appel de ces personnes. Le plan de défense incendie précise également les conditions d'appel des secours extérieurs au regard des informations disponibles.
+
+Les documents précisant l'organisation de la première intervention et les modalités d'accueil des services d'incendie et de secours prévoient notamment comment la ou les personnes compétentes mettent en oeuvre des mesures rendues nécessaires par la situation constatée sur le site telles que :
+
+-l'appel des secours extérieurs s'il n'a pas déjà été réalisé ;
+
+-les opérations de refroidissement des installations voisines et de mise en œuvre des premiers moyens d'extinction ;
+
+-l'information des secours extérieurs sur les opérations de mise en sécurité réalisées, afin de permettre à ceux-ci de définir les modalités de leur engagement ;
+
+-l'accueil des secours extérieurs.
+
+Le délai d'arrivée sur site de la ou des personnes compétentes est de trente minutes maximum suivant la détection de fuite ou d'incendie.
+
+L'exploitant intègre au plan de défense incendie les éléments justifiant du respect du délai maximal d'arrivée sur site.
+
+Les dispositions du A du point 4.3.6 de la présente annexe ne sont pas applicables aux installations contenant uniquement des stockages en réservoirs enterrés ou moins de 10 m3 de stockages aériens de liquides inflammables.
+
+B.-Le plan de défense incendie ainsi que ses mises à jour sont tenus à disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+Le plan de défense incendie ainsi que ses mises à jour sont transmis aux services d'incendie et de secours.
+
+Objet du contrôle du point 4.3 :
+
+-présence des moyens de secours et de défense contre l'incendie énumérés en 4.3 de la présente annexe (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence des éléments justifiant la disponibilité effective des débits d'eau prévu aux points 4.3.2 et 4.3.4. B de la présente annexe ;
+
+-présence des éléments justifiant que les systèmes d'extinction automatique d'incendie respectent les normes en vigueur (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présence du dispositif de détection automatique d'incendie, le cas échéant, avec transmission (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-vérification de l'existence et de la complétude du plan de défense incendie (le non-respect de ce point relève d'une non-conformité majeure).
 
 4.4. Interdiction des feux
 
@@ -434,6 +966,8 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - les mesures à prendre en cas de fuite sur un récipient ou une tuyauterie contenant des substances dangereuses, notamment les conditions de rejet prévues par le présent arrêté ;
 
+- les moyens à mettre en place et les manœuvres à effectuer pour canaliser et maîtriser les écoulements des eaux d'extinction d'incendie ;
+
 - les précautions à prendre avec l'emploi et le stockage de produits incompatibles ;
 
 - les moyens d'extinction à utiliser en cas d'incendie ;
@@ -444,7 +978,9 @@ Sans préjudice des dispositions du code du travail, des consignes précisant le
 
 - les modalités d'information de l'inspection des installations classées en cas d'accident.
 
-Une formation du personnel permet à l'exploitant d'être sensibilisé aux risques inhérents à ce type d'installation, de vérifier régulièrement le bon fonctionnement des divers équipements pour la prévention des risques, de prendre les dispositions nécessaires sur le plan préventif et de mettre en œuvre, en cas de besoin, les actions les plus appropriées.
+Les différents opérateurs et intervenants dans l'établissement, y compris le personnel des entreprises extérieures, reçoivent une formation sur les risques des installations, la conduite à tenir en cas de sinistre et, s'ils y contribuent, sur la mise en œuvre des moyens d'intervention. Des personnes désignées par l'exploitant, chargées de la mise en œuvre des moyens de lutte contre l'incendie, sont aptes à manœuvrer ces équipements et à faire face aux éventuelles situations dégradées.
+
+Ces personnes sont entraînées à la manœuvre de ces moyens.
 
 Objet du contrôle :
 
@@ -502,17 +1038,11 @@ Objet du contrôle pour les réservoirs simple enveloppe :
 
 - absence de liquide aux points bas de la fosse (le non-respect de ce point relève d'une non conformité majeure).
 
-5.2. Stockages aériens
-
-Les liquides inflammables sont stockés dans des récipients fermés, incombustibles, étanches, et portent en caractères lisibles la dénomination du liquide contenu. Ces récipients sont construits selon les normes en vigueur à la date de leur fabrication et présentent une résistance suffisante aux chocs accidentels.
-
-Les liquides inflammables nécessitant un réchauffage sont exclusivement stockés dans des récipients métalliques.
+5.2. Stockages en réservoirs aériens
 
 L'utilisation, à titre permanent, de réservoirs mobiles à des fins de stockage fixe est interdite.
 
 Objet du contrôle :
-
-- récipients fermés, incombustibles, étanches et étiquetés en caractères lisibles ;
 
 - absence de réservoirs mobiles utilisés à titre permanent à des fins de stockage fixe.
 
@@ -609,6 +1139,120 @@ Objet du contrôle :
 - présence des certificats de contrôle décennal interne (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présence du registre de suivi du volume de produit dans chaque réservoir.
+
+5.3. Stockage en récipients mobiles
+
+Les dispositions de la présente section sont applicables aux stockages contenant au moins un liquide inflammable en récipients mobiles.
+
+5.3.1. Conception
+
+I.-Le stockage de liquides inflammables de catégorie 1 (mention de danger H224) est interdit en contenants fusibles de type récipients mobiles de volume unitaire supérieur à 30 L.
+
+Cette disposition est applicable à compter du 1er janvier 2024.
+
+II.-Le stockage de liquides inflammables non miscibles à l'eau de catégorie 2 (mention de danger H225) est interdit en contenants fusibles de type récipients mobiles de volume unitaire supérieur à 30L en bâtiment ainsi qu'en bâtiment ouvert mettant en œuvre les dispositions définies au point B de l'article I. 9 de la présente annexe.
+
+Le stockage de liquides inflammables miscibles à l'eau de catégorie 2 (mention de danger H225) est interdit en contenants fusibles de type récipients mobiles de volume unitaire supérieur à 230 L en bâtiment ainsi qu'en bâtiment ouvert mettant en œuvre les dispositions définies au point B. de l'article I. 9 de la présente annexe.
+
+Cette disposition est applicable à compter du 1er janvier 2027.
+
+Les dispositions des points I et II ne s'appliquent pas au stockage d'un récipient mobile ou d'un groupe de récipients mobiles d'un volume total ne dépassant pas 2 m3 dans une armoire de stockage dédiée, sous réserve que cette armoire soit REI 120, qu'elle soit pourvue d'une rétention dont le volume est au moins égal à la capacité totale des récipients, et qu'elle soit équipée d'une détection de fuite.
+
+Les dispositions des points I et II ne sont pas applicables si le stockage est muni de moyens de protection contre l'incendie adaptés et dont le dimensionnement satisfait à des tests de qualification selon un protocole reconnu par le ministère chargé des installations classées.
+
+III.-Les liquides inflammables sont stockés dans des récipients fermés, étanches, et portent en caractères lisibles la dénomination du liquide contenu. Ces récipients sont construits selon les normes en vigueur à la date de leur fabrication et présentent une résistance suffisante aux chocs accidentels.
+
+Les liquides inflammables nécessitant un réchauffage sont exclusivement stockés dans des récipients métalliques
+
+Objet du contrôle :
+
+-absence de stockage de liquides inflammables de catégorie 1 (mentions de danger H224) en contenants fusibles de type récipients mobiles de volume unitaire supérieur à 30L hors stockage d'un volume ne dépassant pas 2 mètres cubes dans une armoire de stockage respectant les conditions spécifiées (le non-respect de ce point relève d'une non conformité majeure) ;
+
+-absence de stockage de liquides inflammables non miscibles à l'eau de catégorie 2 (mention de danger H225) en contenants fusibles de type récipients mobiles de volume unitaire supérieur à 30L hors stockage d'un volume ne dépassant pas 2 mètres cubes dans une armoire de stockage respectant les conditions spécifiées (le non-respect de ce point relève d'une non conformité majeure) ;
+
+-absence de stockage de liquides inflammables miscibles à l'eau de catégorie 2 (mention de danger H225) en contenants fusibles de type récipients mobiles de volume unitaire supérieur à 230L hors stockage d'un volume ne dépassant pas 2 mètres cubes dans une armoire de stockage respectant les conditions spécifiées (le non-respect de ce point relève d'une non conformité majeure) ;
+
+-récipients fermés, étanches et étiquetés en caractères lisibles.
+
+5.3.2. Conditions de stockages de récipients mobiles en extérieur contenant au moins un liquide inflammable
+
+Les récipients mobiles stockés, y compris en palette, forment des îlots limités selon les dimensions suivantes :
+
+-la surface maximale susceptible d'être en feu est adaptée aux moyens d'intervention et d'extinction en cas d'incendie. Dans tous les cas, cette surface n'excède pas 1 000 m2 ;
+
+-la hauteur de stockage est au maximum égale à 5 mètres ;
+
+-la distance entre deux îlots, depuis le bord de chacune des rétentions ou, le cas échéant, de la zone de collecte, respecte les conditions suivantes :
+
+Surface maximale susceptible d'être en feu |
+
+Distance minimale entre le bord de la rétention, ou le cas échéant, de la zone de collecte, vis-à-vis de tout autre îlot, rétention extérieure associée à des réservoirs tout autre activité ou bâtiment, stockage contenant un liquide ou solide liquéfiable combustible ou tout autre stockage susceptible de favoriser la naissance d'un incendie |
+
+Jusqu'à 500 m2 |
+
+10 m |
+
+De 500 à 750 m2 |
+
+15 m |
+
+De 750 à 1 000 m2 |
+
+20 m |
+
+Ces distances peuvent être réduites si un mur coupe-REI 120 de dimensions suffisantes pour contenir les effets dominos est mis en place.
+
+Le cas échéant, les éléments attestant que le mur coupe-feu respecte les normes en vigueur, ainsi que les justifications quant à son dimensionnement, sont tenus à la disposition de l'inspection des installations classées et de l'organisme de contrôle périodique.
+
+Le préfet peut autoriser des distances réduites si les effets dominos (seuil des effets thermiques de 8 kW/ m2) ne sont pas atteints réciproquement, sans nécessité de dispositions actives.
+
+Ces dispositions ne sont pas applicables aux stockages extérieurs contenant 2 mètres cube ou moins de liquides inflammables et de liquides ou solides liquéfiables combustibles distants de plus de 10 mètres des autres stockages, ou en armoire de stockage.
+
+Objet du contrôle :
+
+-conformité des surfaces et hauteurs de stockage ;
+
+-conformité des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-présentation d'un justificatif démontrant que les caractéristiques du mur (matériaux et épaisseur) sont celles d'un mur coupe-feu, lorsque les distances d'éloignement sont réduites (le non-respect de ce point relève d'une non-conformité majeure).
+
+5.3.3. Conditions de stockage de récipients mobiles en bâtiment contenant au moins un liquide inflammable
+
+I.-Une distance minimale de 1 mètre est maintenue entre le sommet des stockages et la base de la toiture ou le plafond, ou de tout système de chauffage et d'éclairage. Cette distance est augmentée lorsque cela est nécessaire au bon fonctionnement du système d'extinction automatique d'incendie prévu au point 4.3.3 de la présente annexe.
+
+II.-La hauteur de stockage en rayonnage ou en palettier, pour les liquides inflammables en récipients mobiles est compatible avec le dimensionnement du système d'extinction automatique d'incendie prévu au point 4.3.3 de la présente annexe et :
+
+-limitée à 7,60 mètres pour les récipients mobiles de volume strictement supérieur à 30 L et inférieur à 230 L ;
+
+-limitée à 5 mètres par rapport au sol intérieur pour les récipients mobiles de volume strictement supérieur à 230 L.
+
+III.-La hauteur de stockage en rayonnage ou en palettier, pour les liquides non inflammables et autres produits, substances, ou mélanges, est compatible avec le dimensionnement du système d'extinction automatique d'incendie prévu au point 4.3.3 du présent arrêté.
+
+IV.-Les produits stockés en masse (notamment en sac, récipient ou palette) forment des îlots limités selon les dimensions suivantes :
+
+-la surface au sol des îlots est au maximum égale à 500 mètres carrés ;
+
+-la hauteur de stockage est au maximum égale à 5 mètres ;
+
+-la distance entre deux îlots est au minimum égale à 2 mètres.
+
+Ces îlots sont associés aux zones de collecte telles que définies au point 2.7 de la présente annexe.
+
+V.-Une distance minimale de 1 mètre est respectée par rapport aux parois de la cellule où est stocké au moins un liquide inflammable. Cette distance est portée à 0,3 mètre pour les stockages en palettiers
+
+VI.-La distance au sol entre les parois, façades ou élément de structure en l'absence de paroi d'une cellule abritant au moins un liquide inflammable et les stockages extérieurs abritant au moins un liquide ou solide liquéfiable combustible en récipient mobile n'est pas inférieure à 10 mètres.
+
+Cette distance n'est pas applicable si la paroi extérieure du bâtiment abritant au moins un liquide inflammable est REI 120 et dépasse d'au moins 1 mètre la couverture du bâtiment.
+
+Le préfet peut autoriser des distances réduites si les effets dominos (seuil des effets thermiques de 8 kW/ m2) ne sont pas atteints réciproquement, sans nécessité de dispositions actives.
+
+Objet du contrôle :
+
+-conformité de la hauteur de stockage des matières stockées et de la distance minimale par rapport aux parois, aux éléments de structure et à la base de la toiture ou du plafond ou de tout système de chauffage (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+-conformité des conditions de stockage (hauteur et surfaces de stockages, distances entre îlots et découpage des zones de collecte) pour les produits stockés en masse ;
+
+-conformité des distances d'éloignement (le non-respect de ce point relève d'une non-conformité majeure).
 
 6. Eau
 
@@ -787,3 +1431,7 @@ Outre les dispositions prévues au point 1.7 de la présente annexe et sans pré
 - tous les produits dangereux ainsi que tous les déchets sont valorisés ou évacués vers des installations dûment autorisées ;
 
 - les réservoirs et les tuyauteries de liquides inflammables ou de tout autre produit susceptible de polluer les eaux ont été vidés, nettoyés, dégazés et, le cas échéant, décontaminés, puis neutralisés par un solide physique inerte, sauf s'ils ont été retirés, découpés et ferraillés vers des installations dûment autorisées au titre de la législation des installations classées.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 22 septembre 2021 (NOR : TREP2128173A), ces dispositions entrent en vigueur le 1er janvier 2022.
