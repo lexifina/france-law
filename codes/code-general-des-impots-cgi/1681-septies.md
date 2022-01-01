@@ -14,4 +14,6 @@
 
 7. Par dérogation au 1 de l'article 1681 quinquies, les prélèvements prévus aux VIII, IX et X de l'article 1649 quater B quater sont acquittés par télérèglement.
 
+7 bis. Le paiement de la taxe sur la valeur vénale des immeubles possédés en France, mentionnée à l'article 990 D, est effectué par télérèglement.
+
 9. Un décret précise les autres impositions qui sont acquittées par télérèglement, sous peine de l'application de l'article 1738.

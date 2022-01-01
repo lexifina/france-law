@@ -12,9 +12,9 @@ II.-La restitution prévue au I des sommes retenues ou prélevées en applicatio
 
 L'imposition mentionnée au premier alinéa du présent II est établie, contrôlée et recouvrée comme l'impôt sur les sociétés et sous les mêmes garanties et sanctions.
 
-III.-La restitution et le report mentionnés au premier alinéa du II sont subordonnés au dépôt par le bénéficiaire des revenus et profits mentionnés au I d'une déclaration auprès du service des impôts des non-résidents dans les trois mois suivant la clôture de l'exercice au cours duquel est intervenu le fait générateur de la retenue ou du prélèvement dont la restitution est sollicitée. Cette déclaration fait apparaître l'identité et l'adresse du bénéficiaire ainsi que le montant de son déficit déterminé en application du 2° du I.
+III.-La restitution et le report mentionnés au premier alinéa du II sont subordonnés au dépôt par le bénéficiaire des revenus et profits mentionnés au I d'une déclaration auprès du service des impôts des non-résidents dans le délai prévu pour les réclamations relatives aux impôts autres que les impôts locaux et les taxes annexes à ces impôts. Cette déclaration fait apparaître l'identité et l'adresse du bénéficiaire ainsi que le montant de son déficit déterminé en application du 2° du I.
 
-IV.-L'imposition et le report mentionnés au premier alinéa du II prennent effet à la date de dépôt de la déclaration mentionnée au III. Le report est maintenu pour chacun des exercices suivant celui au titre duquel la déclaration mentionnée au III a été produite par le bénéficiaire, sous réserve que celui-ci dépose auprès du service des impôts des non-résidents, au titre de chacun de ces exercices, une déclaration faisant apparaître un résultat déficitaire déterminé en application du 2° du I dans les trois mois suivant la clôture de l'exercice.
+IV.-L'imposition et le report mentionnés au premier alinéa du II prennent effet à la date de dépôt de la déclaration mentionnée au III. Le report est maintenu pour chacun des exercices suivant celui au titre duquel la déclaration mentionnée au III a été produite par le bénéficiaire, sous réserve que celui-ci dépose auprès du service des impôts des non-résidents, au titre de chacun de ces exercices, une déclaration faisant apparaître un résultat déficitaire déterminé en application du 2° du I dans les six mois suivant la clôture de l'exercice.
 
 Un état de suivi des revenus et profits dont l'imposition est reportée en application du premier alinéa du II est joint en annexe des déclarations mentionnées au III et au premier alinéa du présent IV sur un formulaire conforme au modèle établi par l'administration.
 
@@ -36,6 +36,8 @@ Le montant des revenus et profits au titre desquels il est mis fin au report en 
 
 L'imposition mentionnée au II est due à compter de la fin du report, qui entraîne son exigibilité immédiate.
 
+Lorsque les impositions mises en report en application du même II portent sur des exercices distincts, la déchéance de ce report s'applique en priorité aux impositions les plus anciennes.
+
 NOTA :
 
-Conformément au II de l'article 42 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux exercices ouverts à compter du 1er janvier 2020.
+Conformément au III de l'article 24 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux retenues à la source dont le fait générateur intervient à compter du 1er janvier 2022.

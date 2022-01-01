@@ -54,7 +54,15 @@ B.-Les opérations suivantes :
 
 1° Les cessions de droits immobiliers démembrés de logements locatifs sociaux lorsque l'usufruitier bénéficie du prêt réglementé et a conclu la convention conditionnant l'application de l'aide personnalisée au logement ;
 
-2° Les livraisons de locaux dans le cadre de l'acquisition-amélioration financées par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;
+2° Les livraisons de locaux dans le cadre de l'acquisition-amélioration qui sont financées :
+
+a) Par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;
+
+b) Ou par un prêt locatif social, lorsque les travaux consistent en une transformation en logements locatifs sociaux de locaux à usage autre que d'habitation.
+
+Le présent 2° s'applique également, dans les mêmes conditions, aux livraisons de logements dans le cadre de l'article L. 262-1 du code de la construction et de l'habitation ;
+
+2° bis Les livraisons à soi-même de logements sociaux dans les cas où les travaux réalisés dans ce cadre ont rendu l'immeuble à l'état neuf au sens du 2° du 2 du I de l'article 257 du présent code ;
 
 C.-Les livraisons et livraisons à soi-même de logements à usage locatif autres que sociaux destinés à être occupés par des ménages dont le total des ressources n'excède pas celui prévu au 1° du I de l'article 279-0 bis A lorsque le destinataire est :
 
@@ -108,4 +116,4 @@ V.-Relèvent des taux réduits de la taxe sur la valeur ajoutée mentionnés à 
 
 NOTA :
 
-Conformément au III de l'article 50 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux livraisons de logements réalisées à compter du 1er janvier 2021 intervenant dans le cadre d'opérations de construction ou de transformation n'ayant pas fait l'objet d'un agrément conformément à l'article 279-0 bis A du code général des impôts, dans sa rédaction antérieure au 1er janvier 2021.
+Conformément au II de l'article 32 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux livraisons et aux travaux pour lesquels le fait générateur de la taxe sur la valeur ajoutée et la décision d'accorder un prêt locatif social sont intervenus à compter du 1er janvier 2022.

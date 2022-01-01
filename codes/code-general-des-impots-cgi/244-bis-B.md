@@ -6,7 +6,7 @@ Le prélèvement mentionné au premier alinéa est fixé au taux prévu à la pr
 
 Les deux premiers alinéas sont applicables aux distributions mentionnées aux f bis et f ter du I de l'article 164 B effectuées au profit des personnes et organismes mentionnés aux mêmes deux premiers alinéas. Le seuil de 25 % est apprécié en faisant la somme des droits détenus directement et indirectement par les personnes ou organismes mentionnés à la première phrase du présent alinéa, dans la société mentionnée au f du I de l'article 164 B. Les droits détenus indirectement sont déterminés en multipliant le pourcentage des droits de ces personnes et organismes dans les entités effectuant les distributions par le pourcentage des droits de ces dernières dans la société mentionnée au même f.
 
-L'impôt est acquitté dans les conditions fixées au IV de l'article 244 bis A.
+L'impôt est acquitté dans les conditions fixées aux IV et IV bis de l'article 244 bis A.
 
 Les organisations internationales, les Etats étrangers, les banques centrales et les institutions financières publiques de ces Etats sont exonérés lorsque les cessions se rapportent à des titres remplissant les conditions prévues à l'article 131 sexies.
 

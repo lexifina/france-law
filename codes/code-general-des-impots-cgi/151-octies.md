@@ -4,7 +4,7 @@ I. Les plus-values soumises au régime des articles 39 duodecies à 39 quindecie
 
 a. L'imposition des plus-values afférentes aux immobilisations non amortissables fait l'objet d'un report jusqu'à la date de la cession, du rachat ou de l'annulation des droits sociaux reçus en rémunération de l'apport de l'entreprise ou jusqu'à la cession de ces immobilisations par la société si elle est antérieure. Toutefois, en cas de transmission à titre gratuit à une personne physique des droits sociaux rémunérant l'apport ou de la nue-propriété de ces droits, le report d'imposition est maintenu si le bénéficiaire de la transmission prend l'engagement d'acquitter l'impôt sur la plus-value à la date où l'un des événements prévus à la phrase précédente se réalise ;
 
-Lorsque l'apport a été consenti à une société civile professionnelle, le report d'imposition prévu au premier alinéa du présent a est maintenu, en cas d'opérations soumises aux dispositions du I de l'article 151 octies A ou de transformation de la société civile professionnelle en société d'exercice libéral. Il est mis fin à ce report lorsqu'intervient l'un des événements mentionnés à ce même I ;
+Lorsque l'apport a été consenti à une société civile professionnelle ou à une société civile agricole, le report d'imposition prévu au premier alinéa du présent a est maintenu, en cas d'opérations soumises aux dispositions du I de l'article 151 octies A ou de transformation de la société civile professionnelle en société d'exercice libéral. Il est mis fin à ce report lorsqu'intervient l'un des événements mentionnés à ce même I ;
 
 Le report d'imposition prévu au premier alinéa est maintenu en cas d'échange des droits sociaux mentionnés au même alinéa résultant d'une fusion ou d'une scission jusqu'à la date de cession, de rachat ou d'annulation des droits reçus lors de l'échange ;
 
@@ -37,7 +37,3 @@ L'apporteur doit joindre à la déclaration prévue à l'article 170 au titre de
 III. Les dispositions du II de l'article 93 quater et de l'article 151 septies ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visées aux I et II du présent article.
 
 IV. (Abrogé à compter du 1er janvier 2000).
-
-NOTA :
-
-Loi n° 2005-1720 du 30 décembre 2005, art. 38 VIII : Ces dispositions sont applicables aux opérations d'apport, d'échange ou de transmission à titre gratuit réalisées à compter du 1er janvier 2006.

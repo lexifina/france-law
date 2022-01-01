@@ -1,6 +1,6 @@
 # Article 244 quater Q
 
-I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 septies, 44 octies, 44 terdecies , 44 quaterdecies , 44 quindecies, 44 sexdecies ou 44 septdecies, dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 terdecies , 44 quaterdecies , 44 quindecies, 44 sexdecies ou 44 septdecies, dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur, peuvent bénéficier d'un crédit d'impôt égal à 50 % des dépenses qui permettent de satisfaire aux normes d'aménagement et de fonctionnement prévues par le cahier des charges relatif au titre de maître-restaurateur.
 
 Lorsque le titulaire du titre de maître-restaurateur est dirigeant d'une entreprise disposant de plusieurs établissements, le crédit d'impôt est calculé au titre des dépenses exposées par les établissements contrôlés dans le cadre de la délivrance de ce titre.
 
@@ -73,3 +73,7 @@ V. – Les I à IV s'appliquent aux entreprises dont le dirigeant ou un salarié
 VI. – Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants ou aux salariés et le cahier des charges est établi sont définies par décret en Conseil d'Etat.
 
 Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises.
+
+NOTA :
+
+Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.

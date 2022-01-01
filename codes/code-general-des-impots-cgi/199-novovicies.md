@@ -14,7 +14,7 @@ B. – La réduction d'impôt s'applique également dans les mêmes conditions :
 
 4° Au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2013 et le 31 décembre 2024 et qui fait ou qui a fait l'objet de travaux de transformation en logement.
 
-5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux d'amélioration définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2022 et qui fait ou qui a fait l'objet de travaux de transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total de l'opération.
+5° Au logement que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2023 et qui fait ou qui a fait l'objet de travaux d'amélioration définis par décret, ainsi qu'au local affecté à un usage autre que l'habitation que le contribuable acquiert entre le 1er janvier 2019 et le 31 décembre 2023 et qui fait ou qui a fait l'objet de travaux de transformation en logement. Le montant des travaux, facturés par une entreprise, doit représenter au moins 25 % du coût total de l'opération.
 
 C. – L'achèvement du logement doit intervenir dans les trente mois qui suivent la date de la signature de l'acte authentique d'acquisition, dans le cas d'un logement acquis en l'état futur d'achèvement, ou la date de l'obtention du permis de construire, dans le cas d'un logement que le contribuable fait construire.
 

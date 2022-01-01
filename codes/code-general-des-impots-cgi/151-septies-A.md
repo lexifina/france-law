@@ -32,7 +32,7 @@ IV. – Par dérogation au 2° du I, la cession à titre onéreux d'une activit�
 
 1° L'activité est exercée depuis au moins cinq ans au moment de la mise en location ;
 
-2° La cession est réalisée au profit du locataire.
+2° La cession est réalisée au profit du locataire ou, dans le respect du contrat, de toute autre personne, sous réserve que cette cession porte sur l'intégralité des éléments concourant à l'exploitation de l'activité qui a fait l'objet du contrat de location-gérance ou d'un contrat comparable.
 
 IV bis. – En cas de cession à titre onéreux de parts ou d'actions de sociétés passibles de l'impôt sur les sociétés ou d'un impôt équivalent ou soumises sur option à cet impôt, rendant imposable une plus-value en report d'imposition sur le fondement du I ter de l'article 93 quater, du a du I de l'article 151 octies, des I et II de l'article 151 octies A, du I de l'article 151 octies B ou du III de l'article 151 nonies, cette plus-value en report est exonérée, lorsque les conditions suivantes sont réunies :
 
@@ -72,6 +72,4 @@ VI. – L'option pour le bénéfice du régime défini au présent article est e
 
 NOTA :
 
-Dans sa décision n° 2016-587 QPC du 14 octobre 2016 (NOR: CSCX1629594S), le Conseil constitutionnel a déclaré contraires à la Constitution les mots : " dans les mêmes locaux " figurant au c du 1 du paragraphe V de l'article 151 septies A du code général des impôts dans sa rédaction résultant de la loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011. La déclaration d'inconstitutionnalité prend effet à compter de la publication de ladite décision dans les conditions prévues à son paragraphe 9.
-
-Conformément aux dispositions des 1 et 2 du B du IX de l'article 31 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions de l'article 151 septies A résultant des dispositions du 6° du B du I du même article 31 s'appliquent au titre de l'impôt sur la fortune immobilière dû à compter du 1er janvier 2018. Les dispositions modifiées par ledit B de l'article 31 précité continuent de s'appliquer, dans leur rédaction en vigueur au 31 décembre 2017, à l'impôt de solidarité sur la fortune dû jusqu'au titre de l'année 2017 incluse.
+Se reporter aux conditions d’application prévues au III de l'article 19 de la loi n° 2021-1900 du 30 décembre 2021.

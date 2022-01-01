@@ -60,9 +60,21 @@ Toutefois, les personnes physiques, les associés personnes physiques de sociét
 
 2. [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-708 DC du 29 décembre 2014].
 
-IV. – L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant la cession, sous la responsabilité d'un représentant désigné comme en matière de taxes sur le chiffre d'affaires.
+IV. – L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant la cession, sous la responsabilité d'un représentant établi en France, accrédité par l'administration fiscale.
 
-Par dérogation aux dispositions du premier alinéa :
+Seule peut être accréditée la personne qui remplit les conditions suivantes :
+
+1° Ni elle, ni aucun de ses dirigeants, lorsqu'il s'agit d'une personne morale, n'a commis d'infractions graves ou répétées aux dispositions fiscales, n'a fait l'objet des sanctions prévues aux articles L. 651-2, L. 653-2 et L. 653-8 du code de commerce au cours des trois années qui précèdent, ni ne fait l'objet d'une mesure d'interdiction en cours d'exécution prévue au même article L. 653-8 ;
+
+2° Elle respecte les obligations fiscales déclaratives et de paiement qui lui incombent pour le compte des personnes qu'elle représente ou pour son propre compte ;
+
+3° Elle dispose de garanties permettant d'assurer le respect des obligations résultant de sa qualité de représentant.
+
+Le non-respect de l'une de ces conditions entraîne le retrait de l'accréditation.
+
+Un décret en Conseil d'Etat précise les conditions d'accréditation et fixe les modalités d'octroi et de retrait de celle-ci.
+
+IV bis.-Par dérogation au IV :
 
 1° L'impôt dû au titre des cessions que réalise un fonds de placement immobilier est acquitté pour le compte des porteurs au service des impôts des entreprises du lieu du siège social du dépositaire du fonds de placement immobilier et par celui-ci, dans un délai de dix jours à compter de la date de mise en paiement mentionnée à l'article L. 214-82 du code monétaire et financier des plus-values distribuées aux porteurs afférentes à ces cessions ;
 
@@ -76,4 +88,4 @@ Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû
 
 NOTA :
 
-Conformément au A du X de l'article 39 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux retenues et prélèvements à la source dont le fait générateur est intervenu entre le 6 mars 2019 et le 31 décembre 2021.
+Se reporter aux dispositions mentionnées au E du III de l'article 30 de la loi n° 2021-1900 du 30 décembre 2021.

@@ -1,6 +1,6 @@
 # Article 244 quater W
 
-I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées au I quater du même article 199 undecies B.
+I. – 1. Les entreprises imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A et 44 duodecies à 44 septdecies, exerçant une activité agricole ou une activité industrielle, commerciale ou artisanale relevant de l'article 34, peuvent bénéficier d'un crédit d'impôt à raison des investissements productifs neufs qu'elles réalisent dans un département d'outre-mer pour l'exercice d'une activité ne relevant pas de l'un des secteurs énumérés aux a à l du I de l'article 199 undecies B, à l'exception des activités mentionnées au I quater du même article 199 undecies B.
 
 Le crédit d'impôt prévu au premier alinéa s'applique également aux travaux de rénovation et de réhabilitation d'hôtel, de résidence de tourisme et de village de vacances classés lorsque ces travaux constituent des éléments de l'actif immobilisé.
 
@@ -8,7 +8,7 @@ Le crédit d'impôt prévu au premier alinéa s'applique également aux investis
 
 2. Le crédit d'impôt ne s'applique pas :
 
-a) A l'acquisition de véhicules définis au 5° de l'article 1007 qui ne sont pas strictement indispensables à l'activité ;
+a) A l'acquisition de véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services qui ne sont pas strictement indispensables à l'activité ;
 
 b) Aux investissements portant sur des installations de production d'électricité utilisant l'énergie radiative du soleil.
 
@@ -50,7 +50,7 @@ Pour les investissements mentionnés au I quater de l'article 199 undecies B, l'
 
 2. Lorsque l'investissement a pour objet de remplacer un investissement ayant bénéficié de l'un des dispositifs définis aux articles 199 undecies B et 217 undecies ou du crédit d'impôt défini au présent article, l'assiette du crédit d'impôt telle que définie au 1 est diminuée de la valeur réelle de l'investissement remplacé.
 
-3. Pour les travaux mentionnés au deuxième alinéa du 1 du I, le crédit d'impôt est assis sur le prix de revient de l'hôtel, de la résidence de tourisme ou du village de vacances classés après réalisation des travaux, diminué du prix de revient de ces mêmes biens avant réalisation des travaux.
+3. Pour les travaux mentionnés au deuxième alinéa du 1 du I, le crédit d'impôt est assis sur le prix de revient de l'hôtel, de la résidence de tourisme ou du village de vacances classés après réalisation des travaux, diminué du prix de revient de ces mêmes biens avant réalisation des travaux et de la fraction du prix de revient des travaux financée par une aide publique.
 
 4. Pour les logements mentionnés au 4 du I, le crédit d'impôt est assis sur le prix de revient des logements, minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable.
 
@@ -86,13 +86,13 @@ VII. – Lorsque le montant total par programme d'investissements est supérieur
 
 Pour l'application du premier alinéa du présent VII, les conditions relatives à l'intérêt économique, d'une part, et à l'intégration dans la politique d'aménagement du territoire, de l'environnement et de développement durable, d'autre part, prévues, respectivement, aux a et c du 1 du III de l'article 217 undecies, sont réputées satisfaites lorsque le programme d'investissements porte sur des investissements mentionnés au second alinéa du 1 du II du présent article au titre desquels un contrat d'achat d'électricité a été conclu avec un fournisseur d'électricité mentionné au I de l'article R. 121-28 du code de l'énergie, après évaluation par la Commission de régulation de l'énergie en application du II du même article R. 121-28.
 
-VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
+VIII. – 1. L'investissement ayant ouvert droit au crédit d'impôt doit être affecté, par l'entreprise qui en bénéficie, à sa propre exploitation pendant un délai de cinq ans, décompté à partir de la date de l'acquisition ou de la création du bien. Ce délai est réduit à la durée normale d'utilisation de l'investissement si cette durée est inférieure à cinq ans, et porté à sept ans lorsque sa durée normale d'utilisation est égale ou supérieure à sept ans et à quinze ans pour les investissements consistant en la construction, la rénovation ou la réhabilitation d'hôtels, de résidences de tourisme ou de villages de vacances. Ce délai est porté à dix ans pour les investissements portant sur les navires de croisière neufs d'une capacité maximum de 400 passagers.
 
 Si, dans le délai ainsi défini, l'investissement ayant ouvert droit au crédit d'impôt est cédé ou cesse d'être affecté à l'exploitation de l'entreprise utilisatrice ou si l'acquéreur cesse son activité, le crédit d'impôt fait l'objet d'une reprise au titre de l'exercice ou de l'année au cours duquel interviennent les événements précités.
 
 Toutefois, la reprise du crédit d'impôt n'est pas effectuée :
 
-a) Lorsque les biens ayant ouvert droit au crédit d'impôt sont transmis dans le cadre des opérations mentionnées aux articles 41,151 octies, 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à maintenir l'exploitation des biens dans un département d'outre-mer dans le cadre d'une activité éligible pendant la fraction du délai de conservation restant à courir. En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit, au titre de l'exercice au cours duquel cet événement est intervenu, ajouter à son résultat une somme égale au triple du montant du crédit d'impôt auquel les biens transmis ont ouvert droit.
+a) Lorsque les biens ayant ouvert droit au crédit d'impôt sont transmis dans le cadre des opérations mentionnées aux articles 41 et 151 octies, au deuxième alinéa du I de l'article 151 octies A et aux articles 210 A ou 210 B, si le bénéficiaire de la transmission s'engage à maintenir l'exploitation des biens dans un département d'outre-mer dans le cadre d'une activité éligible pendant la fraction du délai de conservation restant à courir. En cas de non-respect de cet engagement, le bénéficiaire de la transmission doit, au titre de l'exercice au cours duquel cet événement est intervenu, ajouter à son résultat une somme égale au triple du montant du crédit d'impôt auquel les biens transmis ont ouvert droit.
 
 L'engagement est pris dans l'acte constatant la transmission ou, à défaut, dans un acte sous seing privé ayant date certaine, établi à cette occasion ;
 
@@ -114,8 +114,8 @@ IX. – 1. Le présent article est applicable aux investissements mis en service
 
 2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux entreprises et organismes mentionnés au 4 du I.
 
-X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au sens du même règlement.
+X. – Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission, du 17 juin 2014, déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité et le crédit d'impôt ne s'applique pas aux investissements exploités par des entreprises en difficulté, au sens du même règlement.
 
 NOTA :
 
-Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
+Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.

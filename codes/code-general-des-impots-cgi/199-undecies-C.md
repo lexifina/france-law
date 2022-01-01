@@ -18,7 +18,7 @@ I. – Les contribuables domiciliés en France au sens de l'article 4 B peuvent 
 
 8° Un montant correspondant au moins à 70 % de la réduction acquise est rétrocédé par le contribuable sous la forme d'une diminution des loyers versés par l'organisme locataire mentionné au 1° et d'une diminution du prix de cession à l'organisme locataire ou, le cas échéant, aux personnes physiques mentionnées au 7° ;
 
-9° (abrogé).
+9° (abrogé)
 
 La condition mentionnée au 5° n'est pas applicable aux logements dont la convention mentionnée au 7° prévoit la cession à des personnes physiques à l'issue de la période de location.
 
@@ -58,9 +58,11 @@ V. – La réduction d'impôt fait l'objet d'une reprise au titre de l'année au
 
 VI. – La réduction d'impôt prévue au présent article est également ouverte au titre de l'acquisition de logements, qui satisfont aux conditions fixées au I, achevés depuis plus de vingt ans faisant l'objet de travaux de réhabilitation définis par décret permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique. Dans ce cas, la réduction d'impôt est assise sur le prix de revient des logements majoré du coût des travaux de réhabilitation et minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. La limite mentionnée au II est applicable. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux.
 
-VI bis.-La réduction d'impôt prévue au présent article est également ouverte au titre des travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au I, achevés depuis plus de vingt ans, détenus par les organismes mentionnés au 1° du même I et situés sur l'île de Tahiti, dans les communes de Nouméa, Dumbéa, Païta, Le Mont-Dore, Voh, Koné et Pouembout et à Saint-Martin, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique. La réduction d'impôt est assise sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 50 000 € par logement. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux.
+VI bis. – A.-La réduction d'impôt prévue au présent article est également ouverte au titre des travaux de rénovation ou de réhabilitation des logements satisfaisant aux conditions fixées au I, achevés depuis plus de vingt ans, détenus par les organismes mentionnés au 1° du même I et situés sur l'île de Tahiti, dans les communes de Nouméa, Dumbéa, Païta, Le Mont-Dore, Voh, Koné et Pouembout et à Saint-Martin, permettant aux logements d'acquérir des performances techniques voisines de celles des logements neufs ou permettant leur confortation contre le risque sismique ou cyclonique. La réduction d'impôt est assise sur le prix de revient des travaux de réhabilitation minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite d'un plafond de 50 000 € par logement. La réduction d'impôt est accordée au titre de l'année d'achèvement des travaux.
 
-VI ter.-La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle les conditions mentionnées aux VI ou VI bis ne sont pas respectées.
+B.-La réduction d'impôt prévue au présent article est également ouverte au titre des travaux de démolition préalables à la construction des logements mentionnés au I, lorsque l'achèvement des fondations de l'immeuble intervient dans un délai de deux ans à compter de la fin des travaux de démolition. La réduction d'impôt est assise sur le prix de revient des travaux de démolition minoré, d'une part, des taxes versées et, d'autre part, des subventions publiques reçues au titre de ces mêmes travaux. Ce montant est retenu dans la limite d'un plafond de 25 000 € par logement démoli. La réduction d'impôt est accordée, pour ces seuls travaux, au titre de l'année de leur achèvement.
+
+VI ter. – La réduction d'impôt fait l'objet d'une reprise au titre de l'année au cours de laquelle les conditions mentionnées aux VI ou VI bis ne sont pas respectées.
 
 VII. – Lorsque le montant par programme des investissements est supérieur à deux millions d'euros, le bénéfice de la réduction d'impôt prévue au présent article est conditionné à l'obtention d'un agrément préalable délivré par le ministre chargé du budget dans les conditions prévues au III de l'article 217 undecies. Lorsque le projet d'investissement est visé par un arrêté du représentant de l'Etat portant attribution d'une subvention au titre des contrats de développement, l'agrément porte exclusivement sur la détermination de la base fiscale éligible et des conditions permettant de garantir la protection des investisseurs et des tiers. Il est tacite à défaut d'une réponse de l'administration dans un délai de deux mois, ce délai n'étant renouvelable qu'une seule fois, dans les conditions prévues au dernier alinéa du 2 du III du même article 217 undecies. Cette procédure de régime simplifié ne s'applique qu'aux programmes de logement social inscrits aux contrats de développement en Nouvelle-Calédonie et au contrat de projets de la Polynésie française.
 
@@ -80,4 +82,4 @@ X. – Le bénéfice de la réduction d'impôt prévue au I est subordonné, pou
 
 NOTA :
 
-Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
+Se référer aux modalités d'application prévues au II de l'article 73 de la loi n° 2021-1900 du 30 décembre 2021.

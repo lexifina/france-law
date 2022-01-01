@@ -18,6 +18,8 @@ C.-Aux fins du présent régime, est considéré comme :
 
 2° Intermédiaire, une personne établie sur le territoire de l'Union européenne désignée par l'assujetti effectuant des ventes à distance de biens importés de territoires tiers ou de pays tiers comme étant le redevable de la taxe sur la valeur ajoutée et remplissant les obligations prévues par le présent régime particulier au nom et pour le compte de l'assujetti ;
 
+Cet intermédiaire est accrédité par l'administration dans les conditions mentionnées au IV de l'article 289 A lorsqu'il est désigné par un assujetti qui n'est pas établi dans l'Union européenne, sauf si cet assujetti est une personne remplissant les conditions mentionnées au 1° du I du même article 289 A ou si cet assujetti est une personne établie dans un Etat avec lequel l'Union européenne a conclu un accord en matière d'assistance mutuelle ayant une portée similaire à la directive 2010/24/ UE du Conseil du 16 mars 2010 précitée et au règlement (UE) n° 904/2010 du Conseil du 7 octobre 2010 précité ;
+
 3° Etat membre de consommation, l'Etat membre d'arrivée de l'expédition ou du transport des biens à destination de l'acquéreur.
 
 D.-Pour les ventes à distance de biens importés de territoire tiers ou de pays tiers pour lesquelles la taxe sur la valeur ajoutée est déclarée au titre du présent régime particulier, le fait générateur de la taxe intervient et la taxe devient exigible au moment de la livraison. Les biens sont considérés comme ayant été livrés au moment où le paiement a été accepté.
@@ -81,3 +83,7 @@ XI.-Aux fins du présent régime, la contre-valeur en monnaie nationale du monta
 NOTA :
 
 Conformément au A du IV de l’article 147 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions s'appliquent aux opérations pour lesquelles le fait générateur de la taxe sur la valeur ajoutée intervient à compter du 1er janvier 2021. Le III de l'article 51 de la loi n° 2020-1721 du 29 décembre 2020 à modifié cette date : 1er juillet 2021.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er janvier 2027.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des I à IX et du XI du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux articles L. 161-1, L. 171-1, et L. 216-30, au dernier alinéa de l'article L. 216-32 et au premier alinéa de l'article L. 216-49 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

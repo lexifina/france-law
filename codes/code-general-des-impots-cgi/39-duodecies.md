@@ -22,7 +22,7 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
-Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 134-4, de l'article L. 143-7, du VII de l'article L. 144-2, de l'article L. 381-2 ou de l'article L. 441-8 du code des assurances, constituent un portefeuille distinct.
+Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 134-4, de l'article L. 142-5, de l'article L. 143-7, du VII de l'article L. 144-2, de l'article L. 381-2 ou de l'article L. 441-8 du code des assurances, constituent un portefeuille distinct.
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de scission.
 
@@ -69,7 +69,3 @@ Lorsque la plus ou moins-value mentionnée au premier alinéa du présent 12 rel
 Lorsque la plus ou moins-value mentionnée au premier alinéa du présent 12 relève du régime des plus ou moins-values à court terme, mais que les titres de la société absorbée ou scindée, éligibles au régime des plus ou moins-values à long terme, ont été acquis depuis plus de deux ans à la date de la cession, la plus ou moins-value correspondant à la quote-part de valeur de ces titres ajoutée à celle des titres de la société bénéficiaire des apports réalisés lors de l'opération de fusion ou de scission est calculée distinctement. La plus ou moins-value ainsi calculée est considérée comme une plus ou moins-value à long terme.
 
 La plus ou moins-value correspondant à la quote-part de valeur des titres de la société absorbée ou scindée mentionnée aux deuxième et troisième alinéas du présent 12 est égale à la différence entre, d'une part, la fraction du prix de cession des titres mentionnés au premier alinéa du présent 12 obtenue après application du rapport entre la valeur vénale des titres de la société absorbée ou scindée et la somme de cette même valeur et de la valeur vénale des titres de la société absorbante ou bénéficiaire au jour de la fusion ou de la scission et, d'autre part, le prix de revient des titres de la société absorbée ou scindée.
-
-NOTA :
-
-Conformément au II de l'article 43 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter du 21 juillet 2019.

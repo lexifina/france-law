@@ -1,8 +1,6 @@
 # Article 244 quater O
 
-I. – Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A,
-
-44 septies, 44 octies, 44 octies A, 44 duodecies,
+I. – Les entreprises mentionnées au III et imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies,
 
 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt égal à 10 % de la somme :
 
@@ -22,7 +20,7 @@ b) Un ouvrage produit en un exemplaire ou en petite série ne figurant pas à l'
 
 6° Des dépenses liées à l'élaboration d'ouvrages mentionnés au 1° confiées par ces entreprises à des stylistes ou bureaux de style externes.
 
-I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies et 44 terdecies à 44 septdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au premier alinéa du I du présent article au titre :
+I bis. – Les entreprises mentionnées aux 1° et 3° du III du présent article et imposées d'après leur bénéfice réel ou exonérées en application des mêmes articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies et 44 terdecies à 44 septdecies et œuvrant dans le domaine de la restauration du patrimoine bénéficient du crédit d'impôt prévu au premier alinéa du I du présent article au titre :
 
 1° Des salaires et charges sociales afférents aux salariés directement affectés à l'activité de restauration du patrimoine ;
 
@@ -60,4 +58,8 @@ Pour l'application du premier alinéa, les sociétés de personnes et les groupe
 
 VII. – (Abrogé).
 
-VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2022.
+VIII. – Le présent article s'applique aux crédits d'impôt calculés au titre des dépenses exposées par les entreprises mentionnées au III jusqu'au 31 décembre 2023.
+
+NOTA :
+
+Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.

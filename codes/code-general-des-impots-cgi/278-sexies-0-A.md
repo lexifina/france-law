@@ -28,7 +28,7 @@ Autres logements locatifs sociaux |
 
 10 % |
 
-Locaux faisant l'objet d'une acquisition-amélioration lorsque l'acquisition est financée par un prêt locatif aidé d'intégration ou un prêt locatif à usage social |
+Locaux faisant l'objet d'une acquisition-amélioration, d'une opération assimilée sous certaines conditions de financement ou d'une opération assimilée au sens du 2° bis du B du II du présent article |
 
 2° du B du II |
 
@@ -64,4 +64,4 @@ Par dérogation aux trois premiers alinéas du présent article, le taux applica
 
 NOTA :
 
-Conformément au III de l'article 30 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux opérations intervenant à compter du 1er décembre 2019.
+Conformément au II de l'article 32 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux livraisons et aux travaux pour lesquels le fait générateur de la taxe sur la valeur ajoutée et la décision d'accorder un prêt locatif social sont intervenus à compter du 1er janvier 2022.

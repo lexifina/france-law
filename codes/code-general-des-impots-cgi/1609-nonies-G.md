@@ -4,8 +4,6 @@ I. – Il est institué une taxe sur les plus-values réalisées dans les condit
 
 La taxe ne s'applique pas aux plus-values réalisées lors de la cession de terrains à bâtir ou de droits s'y rapportant.
 
-Le produit de la taxe est affecté au fonds mentionné à l'article L. 811-1 du code de la construction et de l'habitation, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
-
 II. – La taxe est assise sur le montant imposable des plus-values déterminé dans les conditions prévues, selon le cas, aux articles 150 V à 150 VD ou au II de l'article 244 bis A.
 
 Elle est due par le cédant et exigible lors de la cession.
@@ -89,7 +87,3 @@ IV. – Une déclaration, conforme à un modèle établi par l'administration, r
 V. – La taxe est versée lors du dépôt de la déclaration prévue au IV. Les I à II bis de l'article 150 VF, le second alinéa du I et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables.
 
 VI. – La taxe est contrôlée sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
-
-NOTA :
-
-Loi n° 2012-1510 du 29 décembre 2012, art. 70-C : ces dispositions s'appliquent aux plus-values réalisées au titre des cessions intervenues à compter du 1er janvier 2013, à l'exception de celles pour lesquelles une promesse de vente a acquis date certaine avant le 7 décembre 2012.

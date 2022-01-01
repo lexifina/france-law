@@ -8,7 +8,11 @@ a) Les logements locatifs sociaux faisant l'objet d'une convention conditionnant
 
 b) Les locaux du secteur social et médico-social mentionnés au IV de l'article 278 sexies, lorsque ces travaux sont pris en compte par la convention prévue au dernier alinéa du même IV ;
 
-2° Les travaux dans le cadre de l'acquisition-amélioration financés par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;
+2° Les travaux dans le cadre de l'acquisition-amélioration qui sont financés :
+
+a) Par un prêt locatif aidé d'intégration ou un prêt locatif à usage social ;
+
+b) Ou par un prêt locatif social, lorsque ces travaux consistent en une transformation en logements locatifs sociaux de locaux à usage autre que d'habitation ;
 
 3° Les travaux d'amélioration, de transformation, d'aménagement ou d'entretien, autres que l'entretien des espaces verts, les travaux de nettoyage et les travaux mentionnés au 2° du présent I, portant sur :
 
@@ -38,7 +42,7 @@ du présent article |
 
 Taux |
 
-Travaux dans le cadre d'une opération d'acquisition-amélioration financés par un prêt locatif aidé d'intégration ou un prêt locatif à usage social |
+Travaux dans le cadre d'une opération d'acquisition-amélioration sous certaines conditions de financement |
 
 2° du I |
 
@@ -75,3 +79,7 @@ Travaux réalisés dans le cadre d'un bail réel solidaire |
 5,5 % |
 
 Pour les travaux mentionnés au 1° du I, le taux applicable est celui prévu pour la livraison du local sur lequel ils portent, conformément à l'article 278 sexies-0 A. A cette fin, un logement dont la construction n'a été financée ni par un prêt locatif aidé d'intégration, ni par un prêt locatif à usage social, ni par un prêt locatif social est assimilé à un logement dont la construction a été financée par un prêt locatif à usage social.
+
+NOTA :
+
+Conformément au II de l'article 32 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux livraisons et aux travaux pour lesquels le fait générateur de la taxe sur la valeur ajoutée et la décision d'accorder un prêt locatif social sont intervenus à compter du 1er janvier 2022.

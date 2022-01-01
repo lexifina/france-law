@@ -16,8 +16,8 @@ III.-Les contribuables mentionnés au I du présent article portent directement 
 
 IV.-Les contribuables mentionnés au I du présent article tiennent et, sur demande du service des impôts, présentent un document donnant le détail journalier de leurs recettes professionnelles ainsi que les factures et toute autre pièce justificative de ces recettes.
 
-V.-L'option prévue au a du II de l'article 69 est valable un an et reconduite tacitement chaque année pour un an. Les contribuables qui désirent renoncer à leur option pour un régime réel d'imposition notifient leur choix à l'administration avant le 1er février de l'année suivant la période pour laquelle l'option a été exercée ou reconduite tacitement.
+V.-L'option prévue au a du II de l'article 69 est valable un an et reconduite tacitement chaque année pour un an. Les contribuables peuvent renoncer à cette option dans les délais applicables au dépôt de la déclaration souscrite au titre des résultats de la période précédant celle au titre de laquelle la renonciation s'applique.
 
 NOTA :
 
-Conformément à l'article 55 II de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent à compter de l'imposition des revenus de l'année 2020.
+Conformément au II de l'article 7 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux options et aux renonciations exercées à compter du 1er janvier 2022.

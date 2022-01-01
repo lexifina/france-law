@@ -1,6 +1,6 @@
 # Article 199 terdecies-0 C
 
-1. a. Les contribuables domiciliés fiscalement en France, au sens de l'article 4 B, bénéficient d'une réduction d'impôt sur le revenu égale à 30 % des versements effectués jusqu'au 31 décembre 2021 au titre de souscriptions en numéraire réalisées au capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun éditant une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale, ou une ou plusieurs publications de presse ou services de presse en ligne consacrés pour une large part à l'information politique et générale.
+1. a. Les contribuables domiciliés fiscalement en France, au sens de l'article 4 B, bénéficient d'une réduction d'impôt sur le revenu égale à 30 % des versements effectués jusqu'au 31 décembre 2024 au titre de souscriptions en numéraire réalisées au capital de sociétés soumises à l'impôt sur les sociétés dans les conditions de droit commun éditant une ou plusieurs publications de presse ou services de presse en ligne d'information politique et générale, ou une ou plusieurs publications de presse ou services de presse en ligne consacrés pour une large part à l'information politique et générale.
 
 Le taux mentionné au premier alinéa du présent 1 est porté à 50 % lorsque la société bénéficiaire de la souscription a le statut d'entreprise solidaire de presse d'information, au sens de l'article 2-1 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse.
 

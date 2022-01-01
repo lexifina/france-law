@@ -2,7 +2,7 @@
 
 I. – Par dérogation aux dispositions de l'article 202, lorsqu'un contribuable imposable dans les conditions prévues au 1 de cet article devient, pour exercer sa profession, associé d'une société mentionnée aux articles 8 et 8 ter ou d'une société d'exercice libéral mentionnée à l'article 2 de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé, le bénéfice imposable peut être déterminé en faisant abstraction des créances acquises au sens des dispositions des 2 et 2 bis de l'article 38 et des dépenses engagées, au titre des trois mois qui précèdent la réalisation de l'événement qui entraîne l'application de l'article 202, et qui n'ont pas été encore recouvrées ou payées au cours de cette même période, à condition qu'elles soient inscrites au bilan de cette société.
 
-Ces dispositions sont également applicables, dans les mêmes conditions, en cas d'opérations visées au I de l'article 151 octies A.
+Ces dispositions sont également applicables, dans les mêmes conditions, en cas d'opérations visées au premier alinéa du I de l'article 151 octies A.
 
 Par dérogation au I de l'article 202 ter, ces mêmes dispositions s'appliquent lorsqu'une société mentionnée aux articles 8 et 8 ter, exerçant une activité libérale, cesse d'être soumise au régime prévu par ces articles du fait d'une option pour le régime applicable aux sociétés de capitaux, exercée dans les conditions prévues au 1 de l'article 239.
 

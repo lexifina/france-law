@@ -12,7 +12,7 @@ II. – La taxe est assise sur le montant non plafonné des rémunérations rete
 
 III. – Le taux de la taxe est fixé à 0,75 %.
 
-IV. – Pour les redevables qui acquittent la taxe sur la valeur ajoutée selon les modalités prévues au premier alinéa du 2 de l'article 287, la taxe est calculée sur les salaires tels qu'ils sont définis au II, versés au cours du dernier mois échu et acquittée sur l'annexe à chaque déclaration mensuelle de taxe sur la valeur ajoutée déposée au cours du mois suivant. Pour ceux des redevables mentionnés au troisième alinéa du 2 de l'article 287, la taxe est calculée sur les salaires versés au cours du dernier trimestre échu et acquittée sur l'annexe à la déclaration de taxe sur la valeur ajoutée déposée au cours du mois suivant la fin de chaque trimestre civil.
+IV. – Pour les redevables qui acquittent la taxe sur la valeur ajoutée selon les modalités prévues au premier alinéa du 2 de l'article 287 , la taxe est calculée sur les salaires tels qu'ils sont définis au II, versés au cours du dernier mois échu et acquittée sur l'annexe à chaque déclaration mensuelle de taxe sur la valeur ajoutée déposée au cours du mois suivant. Pour ceux des redevables mentionnés au dernier alinéa du 2 de l'article 287, la taxe est calculée sur les salaires versés au cours du dernier trimestre échu et acquittée sur l'annexe à la déclaration de taxe sur la valeur ajoutée déposée au cours du mois suivant la fin de chaque trimestre civil.
 
 Pour les redevables qui acquittent la taxe sur la valeur ajoutée selon les modalités prévues au 3 de l'article 287, le montant de la taxe due est porté sur la déclaration mentionnée au premier alinéa de ce 3. Le montant de la taxe est calculé sur les salaires, tels qu'ils sont définis au II, versés au titre de l'année civile précédant celle du dépôt de cette déclaration.
 
@@ -25,3 +25,7 @@ V. – L'Association nationale pour la formation automobile est placée sous le 
 Un commissaire du Gouvernement auprès de l'association est désigné par le ministre chargé de l'éducation nationale en accord avec le ministre chargé de la formation professionnelle.
 
 Les modalités d'exercice des attributions du membre du corps du contrôle général économique et financier et du commissaire du Gouvernement sont fixées par décret.
+
+NOTA :
+
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.

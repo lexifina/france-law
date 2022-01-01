@@ -2,6 +2,8 @@
 
 I. Les personnes physiques associées d'une société civile professionnelle peuvent bénéficier des dispositions prévues à l'article 151 octies pour les plus-values nettes d'apport, sur lesquelles elles sont personnellement imposables en application de l'article 8 ter, réalisées par cette société à l'occasion d'une fusion, d'un apport partiel d'actif portant sur une branche complète d'activité ou d'une scission, lorsque chacune des sociétés bénéficiaires de la scission reçoit une ou plusieurs branches complètes d'activité et que les titres rémunérant la scission sont répartis proportionnellement aux droits de chaque associé dans le capital de la société scindée.
 
+Le premier alinéa du présent I s'applique également aux personnes physiques associées d'une société civile agricole à raison d'une opération de fusion, d'apport partiel d'actif portant sur une branche complète d'activité ou de scission mentionnée au même premier alinéa au profit d'une société civile agricole. Pour l'application du présent alinéa, sont considérées comme des sociétés civiles agricoles les sociétés civiles dont les bénéfices relèvent exclusivement de la catégorie des bénéfices agricoles, y compris les produits des activités accessoires imposés dans cette catégorie en application de l'article 75.
+
 Il est mis fin au report d'imposition de la plus-value nette afférente aux immobilisations non amortissables :
 
 1° Pour sa totalité, en cas de perte totale de la propriété de ces immobilisations, des titres reçus en rémunération de la fusion, de la scission ou de l'apport partiel d'actif ou des titres de la société ayant réalisé un tel apport ;
@@ -10,7 +12,7 @@ Il est mis fin au report d'imposition de la plus-value nette afférente aux immo
 
 3° Dans la proportion des titres cédés, en cas de perte partielle de la propriété des titres reçus en rémunération de la fusion, de la scission ou de l'apport partiel d'actif ou des titres de la société ayant réalisé un tel apport ; dans ce cas, la fraction ainsi imposée est répartie sur chaque immobilisation non amortissable dans la proportion entre la valeur de cette immobilisation à la date de la fusion, de la scission ou de l'apport partiel d'actif et la valeur, déterminée à cette même date, de toutes les immobilisations non amortissables conservées.
 
-II. En cas d'option pour le dispositif prévu au I, l'imposition de la plus-value d'échange de titres constatée par l'associé de la société civile professionnelle absorbée ou scindée est reportée jusqu'à la perte de la propriété des titres reçus en rémunération de la fusion ou de la scission.
+II. En cas d'option pour le dispositif prévu au I, l'imposition de la plus-value d'échange de titres constatée par l'associé de la société civile absorbée ou scindée est reportée jusqu'à la perte de la propriété des titres reçus en rémunération de la fusion ou de la scission.
 
 En cas d'échange avec soulte, la plus-value réalisée est, à concurrence du montant de la soulte reçue, comprise dans le bénéfice de l'exercice au cours duquel intervient l'échange. Le montant imposable peut être soumis au régime des plus-values à long terme prévu à l'article 39 duodecies, dans la limite de la plus-value réalisée sur les titres détenus depuis deux ans au moins.
 
@@ -26,4 +28,4 @@ V.-L'article 151 septies ne s'applique pas en cas d'exercice de l'option prévue
 
 NOTA :
 
-Loi n° 2005-1720 du 30 décembre 2005, art. 38 VIII : Ces dispositions sont applicables aux opérations d'apport, d'échange ou de transmission à titre gratuit réalisées à compter du 1er janvier 2006.
+Se reporter aux conditions d'application prévues au II de l'article 10 de la loi n° 2021-1900 du 30 décembre 2021.

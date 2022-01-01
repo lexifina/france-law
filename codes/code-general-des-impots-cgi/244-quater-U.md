@@ -40,7 +40,7 @@ Les modalités de détermination des travaux mentionnés aux 1° à 3° sont fix
 
 4° Aux sociétés civiles non soumises à l'impôt sur les sociétés dont au moins un des associés est une personne physique, membres d'un syndicat de copropriétaires, à raison du prorata qui leur revient des travaux d'intérêt collectif réalisés sur les parties privatives prévus au f de l'article 25 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ainsi que des travaux réalisés sur les parties et équipements communs de l'immeuble dans lequel elles possèdent un logement qu'elles mettent gratuitement à la disposition de l'un de leurs associés personne physique, donnent en location ou s'engagent à donner en location.
 
-4. Le montant de l'avance remboursable ne peut excéder la somme de 30 000 € par logement.
+4. Le montant de l'avance remboursable ne peut excéder la somme de 30 000 € par logement. Par dérogation, ce montant est porté à 50 000 € lorsque l'avance finance les travaux mentionnés au 2° du 2. Un décret fixe le montant des plafonds d'avances remboursables pour les travaux mentionnés au même 2.
 
 5. L'emprunteur fournit à l'établissement de crédit ou la société de financement mentionné au 1, à l'appui de sa demande d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Par exception, lorsque la demande d'avance remboursable sans intérêt intervient concomitamment à une demande de prêt pour l'acquisition du logement faisant l'objet des travaux, le descriptif et le devis détaillés des travaux envisagés peuvent être fournis postérieurement, au plus tard à la date de versement du prêt. Il transmet tous les éléments justifiant que les travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2, dans un délai de trois ans à compter de la date d'octroi de l'avance par l'établissement de crédit ou la société de financement mentionné au 1, sauf en cas de décès de l'emprunteur, d'accident de santé de ce dernier entraînant une interruption temporaire de travail d'au moins trois mois, d'état de catastrophe naturelle ou technologique, de contestation contentieuse de l'opération ou de force majeure, dans des conditions fixées par décret.
 
@@ -50,11 +50,13 @@ Toutefois, lorsque l'avance est consentie pour financer des travaux mentionnés 
 
 6 bis. Par dérogation au 6, l'avance remboursable sans intérêt prévue au présent article peut être consentie dans les mêmes conditions à titre complémentaire aux personnes mentionnées au 3 pour financer d'autres travaux portant sur le même logement qui correspondent à au moins l'une des catégories mentionnées au 1° du 2. L'offre d'avance complémentaire est émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale. La somme des montants de l'avance initiale et de l'avance complémentaire ne peut excéder la somme de 30 000 € au titre d'un même logement.
 
+Par dérogation, lorsque l'avance initiale a financé des travaux mentionnés au 2° du 2 du présent I, la somme de l'avance initiale et de l'avance complémentaire ne peut excéder la somme de 50 000 € au titre d'un même logement.
+
 7. (Abrogé).
 
 8. (Abrogé).
 
-9. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent quatre-vingts mois.
+9. La durée de remboursement de l'avance remboursable sans intérêt ne peut excéder cent quatre-vingts mois. Par dérogation, cette durée est portée à deux cent quarante mois lorsque l'avance finance les travaux mentionnés au 2° du 2.
 
 II. – Le montant du crédit d'impôt est égal à l'écart entre la somme actualisée des mensualités dues au titre de l'avance remboursable sans intérêt et la somme actualisée des montants perçus au titre d'un prêt de mêmes montant et durée de remboursement, consenti à des conditions normales de taux à la date d'émission de l'offre de prêt ne portant pas intérêt.
 
@@ -76,22 +78,22 @@ Les travaux mentionnés au premier alinéa du présent VI bis sont constitués d
 
 Pour l'appréciation du délai mentionné au 5 du I du présent article lorsque l'avance est accordée en application du premier alinéa du présent VI bis, la date d'octroi de l'avance s'entend de la date de signature par l'emprunteur du contrat de prêt mentionné à l'article 26-5 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis.
 
-L'avance prévue au premier alinéa du présent VI bis peut être consentie au titre d'un logement ayant déjà fait l'objet d'une avance remboursable prévue au I du présent article, à la condition que l'offre relative à la seconde avance soit émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants des deux avances n'excède pas la somme de 30 000 € au titre d'un même logement.
+L'avance prévue au premier alinéa du présent VI bis peut être consentie au titre d'un logement ayant déjà fait l'objet d'une avance remboursable prévue au I du présent article, à la condition que l'offre relative à la seconde avance soit émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants des deux avances n'excède pas la somme de 30 000 € au titre d'un même logement. Par dérogation, lorsque l'une des deux avances a financé ou finance des travaux mentionnés au 2° du 2 du I, la somme des deux montants ne doit pas excéder 50 000 €.
 
 Il ne peut être accordé qu'une seule avance remboursable par syndicat de copropriétaires des logements sur lesquels portent les travaux.
 
-Le montant de l'avance remboursable mentionné au premier alinéa du présent VI bis ne peut excéder la somme de 30 000 € par logement affecté à l'usage d'habitation et utilisé ou destiné à être utilisé en tant que résidence principale et détenu par l'une des personnes mentionnées aux 3° et 4° du 3 du I.
+Le montant de l'avance remboursable mentionné au premier alinéa du présent VI bis ne peut excéder la somme de 30 000 € par logement affecté à l'usage d'habitation et utilisé ou destiné à être utilisé en tant que résidence principale et détenu par l'une des personnes mentionnées aux 3° et 4° du 3 du I. Par dérogation, ce montant est porté à 50 000 € lorsque l'avance finance des travaux mentionnés au 2° du 2 du même I.
 
-Par dérogation au cinquième alinéa du présent VI bis, l'avance prévue au premier alinéa peut être consentie aux syndicats de copropriétaires au titre de logements ayant déjà fait l'objet d'une avance remboursable accordée en application du même VI bis, pour financer d'autres travaux mentionnés au premier alinéa, à la condition que l'offre d'avance complémentaire soit émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants de l'avance initiale et de l'avance complémentaire n'excède pas la somme de 30 000 € au titre d'un même logement.
+Par dérogation au cinquième alinéa du présent VI bis, l'avance prévue au premier alinéa peut être consentie aux syndicats de copropriétaires au titre de logements ayant déjà fait l'objet d'une avance remboursable accordée en application du même VI bis, pour financer d'autres travaux mentionnés au premier alinéa, à la condition que l'offre d'avance complémentaire soit émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance initiale et que la somme des montants de l'avance initiale et de l'avance complémentaire n'excède pas la somme de 30 000 € au titre d'un même logement. Par dérogation, lorsque l'une des deux avances a financé ou finance des travaux mentionnés au 2° du 2 du I, la somme des deux montants ne doit pas excéder 50 000 €.
 
 VI ter. – L'avance remboursable sans intérêt prévue au I du présent article peut être consentie dans les mêmes conditions à titre complémentaire aux personnes mentionnées aux 3° et 4° du 3 du même I lorsqu'elles participent à une avance remboursable mentionnée au VI bis, pour financer d'autres travaux portant sur le même logement qui correspondent à au moins l'une des catégories mentionnées au 1° du 2 du I et sous réserve des adaptations prévues au présent VI ter.
 
 L'offre d'avance doit être émise dans un délai de cinq ans à compter de l'émission de l'offre d'avance prévue au VI bis.
 
-La somme des montants de l'avance émise au titre du présent VI ter et de l'avance émise au titre du VI bis ne peut excéder la somme de 30 000 € au titre d'un même logement
+La somme des montants de l'avance émise au titre du présent VI ter et de l'avance émise au titre du VI bis ne peut excéder la somme de 30 000 € au titre d'un même logement. Par dérogation, lorsque l'avance émise au titre du VI bis a financé des travaux mentionnés au 2° du 2 du I, cette somme est portée à 50 000 €.
 
 VII. – Un décret fixe les modalités d'application du présent article et notamment les modalités de calcul du crédit d'impôt et de détermination du taux mentionné au II, ainsi que les caractéristiques financières et les conditions d'attribution de l'avance remboursable sans intérêt.
 
 NOTA :
 
-Conformément au II de l'article 24 de la loi n° 2019-1479 du 28 décembre 2019, l'article 244 quater U, dans sa rédaction résultant du 1° du I, s'applique aux demandes de dérogation déposées à compter du 1er juillet 2019. Toutefois, l'article 244 quater U, dans sa rédaction résultant du 2° du I, s'applique aux avances émises à compter du 1er juillet 2015.
+Conformément au A du IV de l'article 86 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux offres d'avances émises à compter du 1er janvier 2022.

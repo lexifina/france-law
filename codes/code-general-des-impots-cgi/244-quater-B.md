@@ -1,8 +1,10 @@
 # Article 244 quater B
 
-I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer. Ce même taux est porté respectivement à 35 % pour les moyennes entreprises et à 40 % pour les petites entreprises pour les dépenses mentionnées audit k exposées dans des exploitations situées sur le territoire de la collectivité de Corse.
+I. – Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 octies A, 44 duodecies, 44 terdecies à 44 septdecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Le premier de ces deux taux est porté à 50 % pour les dépenses de recherche exposées dans des exploitations situées dans un département d'outre-mer. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %. Ce taux est porté à 40 % pour les dépenses mentionnées au même k exposées dans des exploitations situées dans un département d'outre-mer. Ce même taux est porté respectivement à 35 % pour les moyennes entreprises et à 40 % pour les petites entreprises pour les dépenses mentionnées audit k exposées dans des exploitations situées sur le territoire de la collectivité de Corse.
 
-Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
+Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B, 239 quater C et 239 quater D ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
+
+Le seuil de 100 millions d'euros mentionné au premier alinéa du présent I est apprécié en prenant en compte les dépenses mentionnées aux a à j du II du présent article et les dépenses mentionnées au 1 du A du II de l'article 244 quater B bis.
 
 II. – Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
@@ -22,37 +24,15 @@ Ce pourcentage est fixé à :
 
 3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat, au sens de l'article L. 612-7 du code de l'éducation, ou d'un diplôme équivalent pendant les vingt-quatre premiers mois suivant leur premier recrutement à la condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
-d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à :
+d) (abrogé)
 
-1° Des organismes de recherche publics ;
-
-2° Des établissements d'enseignement supérieur délivrant un diplôme conférant un grade de master ;
-
-3° Des fondations de coopération scientifique agréées conformément au d bis ;
-
-4° Des établissements publics de coopération scientifique ;
-
-5° Des fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au d bis ;
-
-6° Des associations régies par la loi du 1er juillet 1901 relative au contrat d'association ayant pour fondateur et membre l'un des organismes mentionnés aux 1° ou 2° ou des sociétés de capitaux dont le capital ou les droits de vote sont détenus pour plus de 50 % par l'un de ces mêmes organismes. Ces associations et sociétés doivent être agréées conformément au d bis et avoir conclu une convention en application de l'article L. 533-3 du code de la recherche ou de l'article L. 762-3 du code de l'éducation avec l'organisme précité. Les travaux de recherche doivent être réalisés au sein d'une ou plusieurs unités de recherche relevant de l'organisme mentionné aux 1° ou 2° ayant conclu la convention ;
-
-7° Des instituts techniques liés aux professions mentionnées à l'article L. 830-1 du code rural et de la pêche maritime, ainsi qu'à leurs structures nationales de coordination ;
-
-8° Des communautés d'universités et établissements ;
-
-9° Des stations ou fermes expérimentales dans le secteur de la recherche scientifique et technique agricole, ayant pour membre une chambre d'agriculture départementale ou régionale.
-
-Ces dépenses sont retenues pour le double de leur montant pour la seule part relative aux opérations réalisées par ces organismes, à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et l'entité mentionnée aux 1° à 9° ;
-
-d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche privés agréés par le ministre chargé de la recherche, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions. Pour les organismes de recherche établis dans un Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, l'agrément peut être délivré par le ministre français chargé de la recherche ou, lorsqu'il existe un dispositif similaire dans le pays d'implantation de l'organisme auquel sont confiées les opérations de recherche, par l'entité compétente pour délivrer l'agrément équivalent à celui du crédit d'impôt recherche français.
+d bis) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes agréés par le ministre chargé de la recherche selon des modalités définies par décret, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions. Pour les organismes établis dans un Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, l'agrément peut être délivré par le ministre français chargé de la recherche ou, lorsqu'il existe un dispositif similaire dans le pays d'implantation de l'organisme auquel sont confiées les opérations de recherche, par l'entité compétente pour délivrer l'agrément équivalent à celui du crédit d'impôt recherche français.
 
 Ces dépenses sont retenues dans la limite de trois fois le montant total des autres dépenses de recherche ouvrant droit au crédit d'impôt, avant application des limites prévues au d ter ;
 
-d ter) Les opérations mentionnées aux d et d bis sont réalisées directement par les organismes auxquels elles ont été confiées. Par dérogation, ces organismes peuvent recourir à des organismes mentionnés aux mêmes d et d bis pour la réalisation de certains travaux nécessaires à ces opérations.
+d ter) Les opérations mentionnées au d bis sont réalisées directement par les organismes auxquels elles ont été confiées. Par dérogation, ces organismes peuvent recourir à des organismes mentionnés au même d bis pour la réalisation de certains travaux nécessaires à ces opérations.
 
-Les dépenses mentionnées aux d et d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de 2 millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des opérations confiées aux organismes mentionnés aux d et d bis, à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes.
-
-Le plafond de 10 millions d'euros mentionné au deuxième alinéa est majoré de 2 millions d'euros à raison des dépenses correspondant aux opérations confiées aux organismes mentionnés au d ;
+Les dépenses mentionnées au d bis entrent dans la base de calcul du crédit d'impôt recherche dans la limite globale de 2 millions d'euros par an. Cette limite est portée à 10 millions d'euros pour les dépenses de recherche correspondant à des opérations confiées aux organismes mentionnés au d bis, à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 entre l'entreprise qui bénéficie du crédit d'impôt et ces organismes.
 
 e) Les frais de prise et de maintenance de brevets et de certificats d'obtention végétale ;
 
@@ -120,7 +100,7 @@ Pour l'application du premier alinéa du présent 1, les sociétés de personnes
 
 3. Le bénéfice des taux majorés mentionnés au I pour le crédit d'impôt qui résulte de la prise en compte des dépenses de recherche prévues aux a à k du II exposées dans des exploitations situées dans un département d'outre-mer est subordonné au respect de l'article 15 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité.
 
-III. – Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les entreprises, organismes ou experts mentionnés au d, au d bis ou au 6° du k du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
+III. – Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les entreprises, organismes ou experts mentionnés au d bis ou au 6° du k du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
 
 Pour le calcul du crédit d'impôt, le montant des dépenses exposées par les entreprises auprès de tiers au titre de prestations de conseil pour l'octroi du bénéfice du crédit d'impôt est déduit des bases de calcul de ce dernier à concurrence :
 
@@ -140,8 +120,6 @@ VI. – Un décret fixe les conditions d'application du présent article. Il en 
 
 NOTA :
 
-Conformément au IV de l'article 130 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 244 quater B résultant des dispositions du 1° du I dudit article, s'appliquent aux dépenses exposées à compter du 1er janvier 2020.
+Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.
 
-Conformément au II de l'article 132 de ladite loi, le II de l'article 244 quater B du code général des impôts, dans sa rédaction résultant du I du présent article, s'applique aux dépenses exposées à compter du 1er janvier 2020.
-
-Conformément au IV de l'article 35 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux dépenses de recherche exposées à compter du 1er janvier 2020.
+Conformément au III de l'article 69 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux dépenses facturées au titre des contrats de collaboration conclus à compter du 1er janvier 2022.

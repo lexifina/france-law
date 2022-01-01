@@ -30,7 +30,7 @@ I ter. – Le cas échéant, sur délibérations concordantes des communes membr
 
 I quater. – Par exception au I de l'article 1639 A bis, l'établissement public de coopération intercommunale soumis au présent article et issu d'une fusion ou ayant connu une modification de périmètre et ses communes membres ont jusqu'au 15 janvier pour prendre les délibérations prévues aux 3 et 4 du I bis et au I ter du présent article.
 
-II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les tauxde la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
+II. – Le conseil des établissements publics de coopération intercommunale mentionnés au I vote les taux de la taxe d'habitation sur les résidences secondaires et autres locaux meublés non affectés à l'habitation principale, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties.
 
 La première année d'application du présent article, ainsi que l'année qui suit celle au titre de laquelle l'établissement public de coopération intercommunale a voté un taux égal à zéro pour ces deux taxes, les rapports entre les taux des taxes foncières votés par le conseil de l'établissement public de coopération intercommunale sont égaux aux rapports constatés l'année précédente entre les taux moyens pondérés de chaque taxe dans l'ensemble des communes membres.
 
@@ -89,6 +89,10 @@ Les attributions de compensation fixées conformément aux 2°, 4°, 5° ou, le 
 Le conseil de l'établissement public de coopération intercommunale ne peut procéder à une réduction des attributions de compensation qu'après accord des conseils municipaux des communes intéressées.
 
 Toutefois, dans le cas où une diminution des bases imposables réduit le produit global disponible des impositions mentionnées au premier alinéa du 2°, l'organe délibérant de l'établissement public de coopération intercommunale peut décider de réduire les attributions de compensation ;
+
+Cette réduction des attributions de compensation ne peut pas être supérieure à la perte de produit global disponible mentionnée au cinquième alinéa du présent 1°. L'établissement public de coopération intercommunale peut décider de l'appliquer soit à l'ensemble des communes membres, soit à la seule commune membre sur le territoire de laquelle la perte de produit global disponible a été constatée. La réduction ne peut avoir pour effet de baisser l'attribution de compensation de la commune intéressée d'un montant supérieur au montant le plus élevé entre, d'une part, 5 % de ses recettes réelles de fonctionnement et, d'autre part, le montant qu'elle a perçu, le cas échéant, au titre du prélèvement sur recettes prévu au VIII du 2.1 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010.
+
+Sous réserve de l'avant-dernier alinéa du présent 1°, un établissement public de coopération intercommunale à fiscalité propre bénéficiant d'un des mécanismes de compensation prévus aux I, II et II bis du 3 de l'article 78 de la loi n° 2009-1673 du 30 décembre 2009 précitée ainsi qu'au III de l'article 79 de la loi n° 2018-1317 du 28 décembre 2018 de finances pour 2019 peut décider de procéder à cette réduction des attributions de compensation sur plusieurs années. Dans ce cas, cette diminution ne peut pas être supérieure, au titre d'une année, à la différence entre, d'une part, la réduction du produit global mentionnée au cinquième alinéa du présent 1° et, d'autre part, le montant de la compensation versée au titre de ces mécanismes de compensation ;
 
 1° bis Le montant de l'attribution de compensation et les conditions de sa révision peuvent être fixés librement par délibérations concordantes du conseil communautaire, statuant à la majorité des deux tiers, et des conseils municipaux des communes membres intéressées, en tenant compte du rapport de la commission locale d'évaluation des transferts de charges.
 
@@ -171,7 +175,3 @@ Pour les établissements publics de coopération intercommunale soumis pour la p
 Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen pondéré est déterminé par le rapport de la somme des compensations au titre de la réduction pour création d'établissement versées aux communes membres au titre de l'année précédant la première année d'application du présent article et de la somme des bases exonérées ou des abattements appliqués au titre de l'année précédant cette même première année d'application.
 
 IX. – Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609 quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application du présent article.
-
-NOTA :
-
-Aux termes du A du VII de l'article 16 de la loi n° 2019-1479 du 28 décembre 2019, les dispositions de l'article 1609 nonies C telles qu'elles résultent du 1° du A du III dudit article s'appliquent à compter des impositions établies au titre de 2020.
