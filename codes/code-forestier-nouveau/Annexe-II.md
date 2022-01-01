@@ -2,164 +2,82 @@
 
 TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE R. 321-5
 
-Répartition des représentants des centres régionaux de la propriété forestière
+Répartition des représentants des centres régionaux de la propriété forestière au conseil d'administration du Centre national de la propriété forestière
 
-au conseil d'administration du Centre national de la propriété forestière
+CRPF |
 
-CENTRES RÉGIONAUX
+Régions représentées |
 
-|
+Nombre de sièges au CA du CNPF |
 
-RÉGIONS REPRÉSENTÉES
+Nouvelle-Aquitaine |
 
-|
+Nouvelle-Aquitaine |
 
-NOMBRE DE SIÈGES
+5 |
 
-|
+Auvergne-Rhône-Alpes |
 
-Nouvelle-Aquitaine
+Auvergne-Rhône-Alpes |
 
-|
+3 |
 
-Nouvelle-Aquitaine
+Bourgogne-Franche-Comté |
 
-|
+Bourgogne-Franche-Comté |
 
-5
+3 |
 
-|
+Bretagne-Pays de la Loire |
 
-Auvergne-Rhône-Alpes
+Bretagne et Pays de la Loire |
 
-|
+2 |
 
-Auvergne-Rhône-Alpes
+Grand Est |
 
-|
+Grand Est |
 
-3
+2 |
 
-|
+Corse |
 
-Bourgogne-Franche-Comté
+Corse |
 
-|
+1 |
 
-Bourgogne-Franche-Comté
+Île-de-France-Centre-Val de Loire |
 
-|
+Île-de-France
 
-3
+et Centre-Val de Loire |
 
-|
+2 |
 
-Bretagne-Pays de la Loire
+Occitanie |
 
-|
+Occitanie |
 
-Bretagne et Pays de la Loire
+3 |
 
-|
+Hauts-de-France-Normandie |
 
-2
+Hauts-de-France et Normandie |
 
-|
+2 |
 
-Grand-Est
+Provence-Alpes-Côte d'Azur |
 
-|
+Provence-Alpes-Côte d'Azur |
 
-Grand-Est
+2 |
 
-|
-
-2
+Total |
 
 |
 
-Corse
-
-|
-
-Corse
-
-|
-
-1
-
-|
-
-Ile-de-France-Centre-Val de Loire
-
-|
-
-Ile-de-France
-
-et Centre-Val de Loire
-
-|
-
-2
-
-|
-
-Occitanie
-
-|
-
-Occitanie
-
-|
-
-3
-
-|
-
-Hauts-de-France
-
-|
-
-Hauts-de-France
-
-|
-
-1
-
-|
-
-Normandie
-
-|
-
-Normandie
-
-|
-
-1
-
-|
-
-Provence-Alpes-Côte d'Azur
-
-|
-
-Provence-Alpes-Côte d'Azur
-
-|
-
-2
-
-|
-
-Total
-
-|
-
-25
-
-|
+25 |
 
 NOTA :
 
-Conformément à l'article 1er de l'arrêté du 30 novembre 2016 ces dispositions entrent en vigueur à la date de la première réunion des conseillers régionaux élus en 2017 et au plus tard le 1er avril 2017.
+Conformément à l'article 2 de l'arrêté du 23 décembre 2021 (NOR : AGRT2132553A), ces dispositions entrent en vigueur à la date du 1er janvier 2022.
