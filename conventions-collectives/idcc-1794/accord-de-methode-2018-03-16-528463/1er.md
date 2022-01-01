@@ -1,6 +1,6 @@
 # Article 1er
 
-Sur les classifications :
+• Sur les classifications :
 
 – architecture du dispositif et champ d'application ;
 
@@ -12,9 +12,9 @@ Sur les classifications :
 
 – suivi de la mise en œuvre, moyens de recours ;
 
-– dispositifs d'évolution professionnelle y compris en lien avec la GEPP et les travaux de l'EDEC (répertoire et référentiel des métiers, aires de mobilité entre métiers, parcours professionnels, accès aux postes à responsabilités).
+– dispositifs d'évolution professionnelle y compris en lien avec la GPEC et les travaux de l'EDEC (répertoire et référentiel des métiers, aires de mobilité entre métiers, parcours professionnels, accès aux postes à responsabilités).
 
-Sur les rémunérations :
+• Sur les rémunérations :
 
 – définition des minima, structuration des rémunérations, principe d'évolution et garanties associées dont égalité salariale ;
 
@@ -22,4 +22,4 @@ Sur les rémunérations :
 
 – la part de l'évolution des rémunérations résultant de la politique salariale décidée dans l'entreprise dont la part variable et l'intéressement.
 
-Dispositifs d'information et de formation sur le résultat de la négociation.
+• Dispositifs d'information et de formation sur le résultat de la négociation.
