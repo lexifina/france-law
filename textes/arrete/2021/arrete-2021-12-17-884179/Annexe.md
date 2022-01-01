@@ -1,4 +1,4 @@
-# Article LEGIARTI000043727206
+# Article Annexe
 
 ANNEXE
 
@@ -49,46 +49,6 @@ Validité jusqu'au |
 16 |
 
 |
-
-AL-West Deventer |
-
-Dortmundstraat
-
-7418 BH Deventer (Pays Bas) |
-
-- |
-
-- |
-
-3b |
-
-4b |
-
-- |
-
-6b |
-
-- |
-
-8 |
-
-9b |
-
-10b |
-
-- |
-
-- |
-
-- |
-
-- |
-
-- |
-
-16b |
-
-31/12/2021 |
 
 ANECO France |
 
@@ -1132,17 +1092,13 @@ ZA des Beaux Soleils
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région Ile de France
 
 Unité d'Evry |
 
-Immeuble « La Vanoise »
-
-6-18, rue du Pelvoux Courcouronnes
-
-91 019 Evry |
+2 Rue Jean Mermoz - 91080 Evry Courcouronnes |
 
 1a |
 
@@ -1176,7 +1132,49 @@ Immeuble « La Vanoise »
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
+
+BUREAU VERITAS Exploitation Région Ile de France
+
+Unité de Romainville |
+
+17, rue Louise Dory
+
+93 231 Romainville |
+
+1a |
+
+2 |
+
+3a |
+
+4a |
+
+5a |
+
+6a |
+
+7 |
+
+- |
+
+9a |
+
+10a |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16a |
+
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région NORD-EST
 
@@ -1218,7 +1216,7 @@ Unité d'Ennery |
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région NORD-EST
 
@@ -1262,7 +1260,7 @@ BP 80479
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région NORD-EST
 
@@ -1270,7 +1268,7 @@ Unité de Reims - Bezannes |
 
 54, Rue René Cassin
 
-51 430 BEZANNES |
+51 430 Bezannes |
 
 1a |
 
@@ -1304,7 +1302,7 @@ Unité de Reims - Bezannes |
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région NORD-OUEST
 
@@ -1388,15 +1386,15 @@ Unité de Rouen - Bois-Guillaume |
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région NORD-OUEST
 
-Unité d'Orléans - La Chapelle Saint Mesmin |
+Unité d'Orléans - Boigny sur Bionne |
 
-1, rue Micy
+110, Boulevard de la Salle
 
-45 380 La Chapelle Saint Mesmin |
+45760 Boigny-sur-Bionne |
 
 1a |
 
@@ -1474,7 +1472,7 @@ B.P. 26
 
 16a |
 
-31/12/2022 |
+31/12/2024 |
 
 BUREAU VERITAS Exploitation Région SUD-EST
 
@@ -1864,7 +1862,7 @@ ZA des Platières
 
 16a |
 
-31/12/2021 |
+31/12/2023 |
 
 CME Environnement |
 
@@ -2366,6 +2364,180 @@ Neuländer Kamp 1
 
 31/12/2022 |
 
+GINGER LECES
+
+Agence de Saint Julien lès Metz |
+
+4, Rue de Bort les Orgues
+
+ZAC de Grimont
+
+57 070 Saint Julien lès Metz |
+
+1a 1b |
+
+2 |
+
+3a |
+
+4a |
+
+5a |
+
+6a |
+
+7 |
+
+- |
+
+9a |
+
+10a |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16a |
+
+30/06/2022 |
+
+GINGER LECES
+
+Agence de Douvrin |
+
+Hôtel d'entreprise EUROCAP
+
+194, rue de Cardiff
+
+62 138 Douvrin |
+
+1a |
+
+2 |
+
+3a |
+
+4a |
+
+5a |
+
+6a |
+
+7 |
+
+- |
+
+9a |
+
+10a |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16a |
+
+30/06/2022 |
+
+GINGER LECES
+
+Agence de Fos sur Mer |
+
+ZAC de Lavalduc
+
+380, Allée Marie Curie
+
+13 270 Fos sur mer |
+
+1a |
+
+2 |
+
+3a |
+
+4a |
+
+5a |
+
+6a |
+
+7 |
+
+- |
+
+9a |
+
+10a |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16a |
+
+30/06/2022 |
+
+GINGER LECES
+
+Agence Ile de France |
+
+21 Rue Albert Calmette
+
+78350 Jouy En Josas |
+
+1a |
+
+2 |
+
+3a |
+
+4a |
+
+5a |
+
+6a |
+
+7 |
+
+|
+
+9a |
+
+10a |
+
+11 |
+
+12 |
+
+13 |
+
+14 |
+
+15 |
+
+16a |
+
+31/12/2024 |
+
 IANESCO |
 
 6, rue Carol Heitz BP 90974
@@ -2448,7 +2620,7 @@ B.P. n° 2
 
 16a 16b |
 
-31/12/2022 |
+31/12/2024 |
 
 IRH Ingénieur Conseil (Agence de Ludres) |
 
@@ -2785,138 +2957,6 @@ Rue des Ecoles
 16a |
 
 30/06/2024 |
-
-LECES
-
-Agence de Saint Julien lès Metz |
-
-1, Rue de Bort les Orgues
-
-ZAC de Grimont
-
-57 070 Saint Julien lès Metz |
-
-1a 1b |
-
-2 |
-
-3a |
-
-4a |
-
-5a |
-
-6a |
-
-7 |
-
-- |
-
-9a |
-
-10a |
-
-11 |
-
-12 |
-
-13 |
-
-14 |
-
-15 |
-
-16a |
-
-30/06/2022 |
-
-LECES
-
-Agence de Douvrin |
-
-Hôtel d'entreprise EUROCAP
-
-194, rue de Cardiff
-
-62 138 Douvrin |
-
-1a |
-
-2 |
-
-3a |
-
-4a |
-
-5a |
-
-6a |
-
-7 |
-
-- |
-
-9a |
-
-10a |
-
-11 |
-
-12 |
-
-13 |
-
-14 |
-
-15 |
-
-16a |
-
-30/06/2022 |
-
-LECES
-
-Agence de Fos sur Mer |
-
-ZAC de Lavalduc
-
-380, Allée Marie Curie
-
-13 270 Fos sur mer |
-
-1a |
-
-2 |
-
-3a |
-
-4a |
-
-5a |
-
-6a |
-
-7 |
-
-- |
-
-9a |
-
-10a |
-
-11 |
-
-12 |
-
-13 |
-
-14 |
-
-15 |
-
-16a |
-
-30/06/2022 |
 
 MANUMESURE (Agence de Pont L'Evêque) |
 
@@ -3296,9 +3336,7 @@ Carl-Zeiss Strasse 25
 
 QUALICONSULT Exploitation |
 
-340, Rue des Ormelets
-
-60 126 Longueil Sainte Marie |
+5-7, avenue Général de Gaulle - 60300 Senlis |
 
 1a 1b |
 
@@ -3544,9 +3582,7 @@ SOCOR AIR - Agence Nord, antenne logistique d'Alfortville |
 
 SOCOTEC Environnement
 
-Pôle IDF
-
-Agence de Maisons-Alfort |
+Pôle Environnement & Sécurité Nord Est - Agence Mesures Ile de France |
 
 112, Avenue de la Liberté
 
@@ -3588,9 +3624,7 @@ Agence de Maisons-Alfort |
 
 SOCOTEC Environnement
 
-Pôle Ouest
-
-Agence d'Angers |
+Pôle Environnement & Sécurité Nord Ouest - Agence Mesures Loire Bretagne |
 
 Rue Bouché Thomas
 
@@ -3634,9 +3668,7 @@ CS 50206
 
 SOCOTEC Environnement
 
-Pôle Sud-Est
-
-Agence de Lyon |
+Pôle Environnement & Sécurité Sud - Agence Mesures Auvergne Rhône Alpes |
 
 11, rue Saint-Maximin
 
@@ -3678,9 +3710,7 @@ Agence de Lyon |
 
 SOCOTEC Environnement
 
-Pôle Ouest
-
-Agence de Mérignac |
+Pôle Environnement & Sécurité Sud - Agence Nouvelle Aquitaine |
 
 Domaine du Millénium
 
@@ -3724,9 +3754,7 @@ Domaine du Millénium
 
 SOCOTEC Environnement
 
-Pôle Nord-Est
-
-Agence de Lesquin |
+Pôle Environnement & Sécurité Nord Est - Agence Nord Normandie |
 
 11, rue Paul Dubrule
 
@@ -3770,9 +3798,7 @@ CS 50446
 
 SOCOTEC Environnement
 
-Pôle Sud-Est
-
-Agence d'Aix-en-Provence |
+Pôle Environnement & Sécurité Sud - Agence Paca Corse |
 
 Bâtiment "Le Rifkin"
 
@@ -3818,11 +3844,7 @@ Avenue Louis Philibert
 
 SOCOTEC Environnement
 
-Pôle Nord-Est
-
-Agence
-
-de Woippy |
+Pôle Environnement & Sécurité Nord Est - Agence Lorraine |
 
 Parc des Varimonts
 
@@ -3904,27 +3926,27 @@ Avenue Château-Laugier
 
 16b |
 
-31/12/2021 |
+31/12/2024 |
 
-(1) Agrément 1a et 1b : prélèvement (1a) et quantification (1b) des poussières dans une veine gazeuse.
+(1) Agrément 1 a et 1 b : prélèvement (1 a) et quantification (1 b) des poussières dans une veine gazeuse.
 
 Agrément 2 : prélèvement et analyse des composés organiques volatils totaux.
 
-Agréments 3a et 3b : prélèvement (3a) et analyse (3b) de mercure (Hg).
+Agréments 3 a et 3 b : prélèvement (3 a) et analyse (3 b) de mercure (Hg).
 
-Agréments 4a et 4b : prélèvement (4a) et analyse (4b) d'acide chlorhydrique (HCl).
+Agréments 4 a et 4 b : prélèvement (4 a) et analyse (4 b) d'acide chlorhydrique (HCl).
 
-Agréments 5a et 5b : prélèvement (5a) et analyse (5b) d'acide fluorhydrique (HF).
+Agréments 5 a et 5 b : prélèvement (5 a) et analyse (5 b) d'acide fluorhydrique (HF).
 
-Agréments 6a et 6b : prélèvement (6a) et analyse (6b) de métaux lourds autres que le mercure (arsenic, cadmium, chrome, cobalt, cuivre, manganèse, nickel, plomb, antimoine, thallium, vanadium).
+Agréments 6 a et 6 b : prélèvement (6 a) et analyse (6 b) de métaux lourds autres que le mercure (arsenic, cadmium, chrome, cobalt, cuivre, manganèse, nickel, plomb, antimoine, thallium, vanadium).
 
 Agrément 7 : prélèvement de dioxines et furannes dans une veine gazeuse (PCDD et PCDF).
 
 Agrément 8 : analyse de la concentration en dioxines et furannes (PCDD et PCDF).
 
-Agréments 9a et 9b : prélèvement (9a) et analyse (9b) d'hydrocarbures aromatiques polycycliques (HAP).
+Agréments 9 a et 9 b : prélèvement (9 a) et analyse (9 b) d'hydrocarbures aromatiques polycycliques (HAP).
 
-Agréments 10a et 10b : prélèvement (10a) et analyse (10b) du dioxyde de soufre (SO2).
+Agréments 10 a et 10 b : prélèvement (10 a) et analyse (10 b) du dioxyde de soufre (SO2).
 
 Agrément 11 : prélèvement et analyse des oxydes d'azote (NOx).
 
@@ -3936,6 +3958,6 @@ Agrément 14 : détermination de la vitesse et du débit-volume.
 
 Agrément 15 : prélèvement et détermination de la teneur en vapeur d'eau.
 
-Agrément 16a et 16b : prélèvement (a) et analyse (b) de l'ammoniac (NH3).
+Agrément 16 a et 16 b : prélèvement (a) et analyse (b) de l'ammoniac (NH3).
 
 (*) Prélèvement ou analyse avec application d'une méthode interne sous accréditation
