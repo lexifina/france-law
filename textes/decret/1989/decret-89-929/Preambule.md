@@ -2,7 +2,7 @@
 
 CONCERNANT LA COOPÉRATION EN MATIÈRE DE LUTTE CONTRE LA POLLUTION DE LA MER DU NORD PAR LES HYDROCARBURES ET AUTRES SUBSTANCES DANGEREUSES
 
-Les Gouvernements de la République fédérale d’Allemagne, du Royaume de Belgique, du Royaume de Danemark, de la République française, du Royaume de Norvège, du Royaume des Pays-Bas, du Royaume de Suède, du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et la Communauté économique européenne,
+Les Gouvernements de la République fédérale d’Allemagne, du Royaume de Belgique, du Royaume de Danemark, du Royaume d'Espagne, de la République française, du Royaume de Norvège, du Royaume des Pays-Bas, du Royaume de Suède, du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et la Communauté économique européenne,
 
 Reconnaissant que la pollution des eaux par les hydrocarbures et autres substances dangereuses dans la région de la mer du Nord peut présenter un danger pour le milieu marin et les intérêts des Etats côtiers,
 
@@ -15,3 +15,7 @@ Se félicitant des progrès déjà réalisés dans le cadre de l’Accord concer
 Souhaitant développer l’assistance mutuelle et la coopération en matière de lutte contre la pollution,
 
 sont convenus de ce qui suit :
+
+NOTA :
+
+Les présents amendements sont entrés en vigueur le 1er janvier 2022.

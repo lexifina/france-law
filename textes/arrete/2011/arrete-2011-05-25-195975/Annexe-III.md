@@ -4,8 +4,8 @@ FORMULAIRE TYPE ENTREPRISE AVANCE REMBOURSABLE SANS INTÉRÊT INDIVIDUEL OUTRE-M
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
 
-https://www.legifrance.gouv.fr/download/pdf?id=3EW2asQgntsWrcVjAJncszBOyKjiZxHz_xvvawx7_G8
+https://www.legifrance.gouv.fr/download/pdf?id=RYORXNZtqwy88JViE_2gVlZQxHw5YMz-RNeqeEq8Hqs=
 
 NOTA :
 
-Conformément au 2° de l'article 10 de l'arrêté du 30 décembre 2020, le formulaire de l'annexe I de l'arrêté du 30 décembre 2020 entre en application à compter du 1er avril 2021.
+Conformément à l'article 2 de l'arrêté du 3 février 2022 (LOGL2200240A), ces dispositions sont applicables aux offres de prêts émises à compter du 1er janvier 2022. Se reporter aux dispositions d'application prévues audit article 2.

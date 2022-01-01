@@ -12,6 +12,12 @@ SGAMI ZDS de Paris |
 
 13 |
 
+75 |
+
+DZCRS Paris/ Délégation CRS Agglomération Parisienne (Paris) |
+
+Adjoint au chef de délégation |
+
 77 |
 
 DZCRS Paris/ CRS Autoroutière Est Ile-de-France (Lagny-sur-Marne) |
@@ -35,12 +41,6 @@ Commandant de compagnie |
 DZCRS Paris/ CRS 61 Vélizy |
 
 Commandant de compagnie |
-
-78 |
-
-DZCRS Paris/ Délégation CRS Agglomération Parisienne (Vélizy) |
-
-Adjoint au chef de délégation |
 
 91 |
 
@@ -546,7 +546,7 @@ DZCRS Ouest/ CRS 32 Le Havre (Saint Adresse) |
 
 Commandant de compagnie |
 
-DCPAF : 40 postes
+DCPAF : 39 postes
 
 DEPT |
 
@@ -594,15 +594,17 @@ Directeur interdépartemental adjoint-Chef de Centre de Rétention Administrativ
 
 95 |
 
-DCPAF/ DPAF Aéroport Roissy CDG/ USPI |
+DCPAF/ DAP/ Aérodrome de Paris Charles de Gaulle et du Bourget en résidence à Roissy |
 
-Chef de l'Unité de Suivi des Procédures d'Immigration |
+Chef du GASAI et de la ZAPI |
 
 95 |
 
 DiDPAF Le Mesnil-Amelot rés. Cergy-Pontoise |
 
 Directeur interdépartemental adjoint-Chef SPAF du Val d'Oise |
+
+|
 
 SGAMI de Lille |
 
@@ -816,17 +818,7 @@ DZPAF Ouest/ DiDPAF Le Havre rés. Rouen |
 
 Chef de Centre de Rétention Administrative (Oissel) |
 
-SATPN de Polynésie |
-
-1 |
-
-987 |
-
-DPAF987 rés. Papeete |
-
-Directeur |
-
-DCPJ : 47 postes
+DCPJ : 44 postes
 
 DEPT |
 
@@ -856,25 +848,25 @@ SGAMI ZDS de Paris |
 
 77 |
 
-DIPJ Versailles/ DRPJ Versailles/ Antenne PJ Melun |
+DRPJ VERSAILLES/ SPJ MELUN |
 
-Chef d'antenne |
+CHEF SPJ |
 
 77 |
 
-GIR Melun-Moissy-Cramayel |
+DRPJ VERSAILLES/ GIR MELUN-MOISSY-CRAMAYEL |
 
 Chef GIR |
 
 91 |
 
-GIR Evry-Juvisy |
+DRPJ VERSAILLES/ GIR JUVISY SUR ORGE |
 
 Chef GIR |
 
 95 |
 
-GIR Cergy-Pontoise |
+DRPJ VERSAILLES/ GIR CERGY PONTOISE |
 
 Chef GIR |
 
@@ -884,43 +876,43 @@ SGAMI de Bordeaux |
 
 17 |
 
-DIPJ Orléans/ Antenne PJ Poitiers-La Rochelle |
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ LA ROCHELLE |
 
-Chef d'antenne |
+Chef SPJ |
 
 24 |
 
-DIPJ Bordeaux/ Antenne PJ Périgueux |
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ PERIGUEUX |
 
-Chef d'antenne |
+Chef SPJ |
 
 33 |
 
-DIPJ Bordeaux/ Antenne OFAST |
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ DIV. OP./ ANTENNE OFAST |
 
 Chef d'antenne OFAST |
 
 33 |
 
-DIPJ Bordeaux/ BRI |
+DZPJ SUD-OUEST/ BRI |
 
 Chef BRI |
 
 47 |
 
-DIPJ Bordeaux/ SRPJ Toulouse/ Antenne PJ Agen |
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ AGEN |
 
-Chef d'antenne |
-
-64 |
-
-DIPJ Bordeaux/ Antenne PJ Pau |
-
-Chef d'antenne |
+Chef SPJ |
 
 64 |
 
-DIPJ Bordeaux/ Antenne PJ Bayonne/ Détachement OFAST |
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ PAU |
+
+Chef SPJ |
+
+64 |
+
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ BAYONNE/ DET OFAST |
 
 Chef de détachement OFAST |
 
@@ -930,25 +922,25 @@ SGAMI de Lille |
 
 59 |
 
-DIPJ Lille/ Antenne OFAST rés. Lille |
+DZPJ NORD/ DIV. OP./ ANTENNE OFAST |
 
 Adjoint au chef d'antenne OFAST |
 
 59 |
 
-DIPJ Lille/ BRI |
+DZPJ NORD/ BRI |
 
 Chef BRI |
 
 62 |
 
-DIPJ Lille/ Antenne PJ Coquelles |
+DZPJ NORD/ DTPJ LILLE/ SPJ COQUELLES |
 
 Chef d'antenne |
 
 80 |
 
-DIPJ Lille/ Antenne PJ Amiens |
+DZPJ NORD/ DTPJ LILLE/ SPJ AMIENS |
 
 Chef d'antenne |
 
@@ -958,27 +950,27 @@ SGAMI de Lyon |
 
 26 |
 
-DIPJ Lyon/ Antenne PJ Valence |
+DZPJ SUD EST/ DTPJ LYON/ SPJ VALENCE |
 
-Chef d'antenne |
+Chef SPJ |
 
 38 |
 
-GIR Lyon-Antenne Grenoble |
+DZPJ SUD EST/ DTPJ LYON/ GIR LYON/ ANTENNE GRENOBLE |
 
 Chef d'antenne GIR |
 
 42 |
 
-DIPJ Lyon/ Antenne PJ Saint-Etienne |
+DZPJ SUD EST/ DTPJ LYON/ SPJ SAINT ETIENNE |
 
-Chef d'antenne |
+Chef SPJ |
 
 73 |
 
-DIPJ Lyon/ Antenne PJ Chambéry |
+DZPJ SUD EST/ DTPJ LYON/ SPJ CHAMBERY |
 
-Chef d'antenne |
+Chef SPJ |
 
 SGAMI de Marseille |
 
@@ -986,31 +978,31 @@ SGAMI de Marseille |
 
 6 |
 
-GIR Marseille/ Antenne Nice |
+DZPJ SUD/ DTPJ MARSEILLE/ GIR MARSEILLE/ ANTENNE NICE |
 
 Chef d'antenne GIR |
 
 13 |
 
-DIPJ Marseille/ Antenne OFAST rés. Marseille |
+DZPJ SUD/ DTPJ MARSEILLE/ ANTENNE OFAST |
 
 Adjoint au chef d'antenne OFAST |
 
 2A |
 
-GIR Ajaccio |
+DZPJ SUD/ GIR AJACCIO |
 
 Chef GIR |
 
 30 |
 
-DIPJ Marseille/ SRPJ Montpellier/ Antenne PJ Nîmes |
+DZPJ SUD/ DTPJ MONTPELLIER/ SPJ NIMES |
 
-Chef d'antenne |
+Chef SPJ |
 
 31 |
 
-DIPJ Bordeaux/ SRPJ Toulouse/ BRI |
+DZPJ SUD/ DTPJ TOULOUSE/ BRI |
 
 Chef BRI |
 
@@ -1034,7 +1026,7 @@ Chef GIR |
 
 DZPJ Est/ DTPJ Dijon/ SPJ Besançon |
 
-Chef du SPJ |
+Chef SPJ |
 
 57 |
 
@@ -1044,13 +1036,13 @@ Chef GIR |
 
 67 |
 
-DZPJ Est/ BRI Strabsourg |
+DZPJ Est/ BRI Strasbourg |
 
 Chef BRI |
 
 67 |
 
-DZPJ Est/ GIR Strabsourg |
+DZPJ Est/ GIR Strasbourg |
 
 Chef GIR |
 
@@ -1058,7 +1050,7 @@ Chef GIR |
 
 DZPJ Est/ DTP Dijon/ SPJ Auxerre |
 
-Chef du SPJ |
+Chef SPJ |
 
 SGAMI de Rennes |
 
@@ -1068,13 +1060,13 @@ SGAMI de Rennes |
 
 DZPJ Ouest/ DTPJ Orléans/ SPJ Dreux |
 
-Chef du SPJ |
+Chef SPJ |
 
 29 |
 
 DZPJ Ouest/ DTPJ Rennes/ SPJ Brest-Quimper |
 
-Chef du SPJ |
+Chef SPJ |
 
 35 |
 
@@ -1086,7 +1078,7 @@ Chef GIR |
 
 DZPJ Ouest/ DTPJ Orléans/ SPJ Tours |
 
-Chef du SPJ |
+Chef SPJ |
 
 44 |
 
@@ -1122,7 +1114,7 @@ Chef BRI |
 
 DZPJ Ouest/ DTPJ Rouen/ SPJ Le Havre |
 
-Chef du SPJ |
+Chef SPJ |
 
 76 |
 
@@ -1130,33 +1122,7 @@ DZPJ Ouest/ DTPJ Rouen/ GIR Rouen |
 
 Chef GIR |
 
-SGAP de Guadeloupe |
-
-2 |
-
-971 |
-
-GIR Guadeloupe |
-
-Chef GIR |
-
-971 |
-
-DIPJ Pointe-à-Pitre/ Antenne OFAST/ Détachement Pointe-à-Pitre |
-
-Chef de détachement OFAST |
-
-SGAP de Martinique |
-
-1 |
-
-972 |
-
-DIPJ Pointe-à-Pitre/ Antenne PJ Fort-de-France |
-
-Chef d'antenne |
-
-DCRFPN : 16 postes
+DCRFPN : 14 postes
 
 DEPT |
 
@@ -1206,7 +1172,7 @@ SGAMI de Bordeaux |
 
 DZRFPN Sud-ouest |
 
-Chef des services de la DZRFPN et chef du département des compétences |
+Chef des services de la direction zonale et chef du département des compétences |
 
 SGAMI de Lyon |
 
@@ -1216,7 +1182,7 @@ SGAMI de Lyon |
 
 DZRFPN Sud-est/ CFP Chassieu |
 
-Chef du centre de formation de la police |
+Chef de centre de formation |
 
 SGAMI de Marseille |
 
@@ -1248,13 +1214,13 @@ Chef de centre régional de formation |
 
 DZRFPN Est |
 
-Chef des services de la DZRFPN et chef du département des compétences |
+Chef des services de la direction zonale et chef du département des compétences |
 
 89 |
 
-DCRFPN/ DFTSI/ CNFM Sens (Motocycliste) |
+DCRFPN/ DFTSI/ CNFMPN Sens (Motocycliste) |
 
-Chef de centre national de formation |
+Chef de centre national de formation Motocycliste |
 
 SGAMI de Rennes |
 
@@ -1272,27 +1238,7 @@ DZRFPN Ouest/ CRF Tours |
 
 Chef de centre régional de formation |
 
-SATPN de Guadeloupe |
-
-1 |
-
-971 |
-
-DTRFPN Antilles-Guyane |
-
-Chef du CRF Guadeloupe |
-
-SATPN de La Réunion |
-
-1 |
-
-974 |
-
-CRF La Réunion |
-
-Chef de centre régional de formation |
-
-DCSP : 232 postes
+DCSP : 223 postes
 
 DEPT |
 
@@ -1302,7 +1248,7 @@ FONCTIONS |
 
 SGAMI ZDS de Paris |
 
-13 |
+11 |
 
 77 |
 
@@ -1321,12 +1267,6 @@ Chef SU |
 DDSP77/ CSP Meaux |
 
 Chef SU |
-
-77 |
-
-DDSP77/ CSP Nemours |
-
-Chef CSP |
 
 77 |
 
@@ -1370,12 +1310,6 @@ DDSP78/ CSP Sartrouville agglomération |
 
 Chef SU |
 
-91 |
-
-DDSP91/ CSP Athis-Mons |
-
-Chef CSP |
-
 95 |
 
 DDSP95/ CSP Ermont |
@@ -1384,7 +1318,7 @@ Chef SU |
 
 SGAMI de Bordeaux |
 
-21 |
+22 |
 
 16 |
 
@@ -1403,6 +1337,12 @@ Chef du SDRT |
 DDSP17/ Charente-Maritime-RT |
 
 Chef du SDRT |
+
+17 |
+
+DDSP17/ CSP Rochefort-Sur-Mer |
+
+Chef CSP |
 
 19 |
 
@@ -1454,7 +1394,9 @@ CTCC |
 
 33 |
 
-NON IMPLANTEE |
+DDSP33/ CSP Arcachon |
+
+Chef CSP |
 
 33 |
 
@@ -1554,7 +1496,7 @@ Chef SU |
 
 DDSP59/ CSP Dunkerque |
 
-Chef d''EM de circonscription |
+Chef EM de circonscription |
 
 59 |
 
@@ -1566,7 +1508,7 @@ Chef CSP |
 
 DDSP59/ CSP Lille Agglomération/ Division Lille |
 
-Chef d''EM de circonscription |
+Chef EM de circonscription |
 
 59 |
 
@@ -1588,7 +1530,7 @@ Chef SVP |
 
 59 |
 
-DDSP59/ CSP Lille agglomération/ Division Turcoing |
+DDSP59/ CSP Lille agglomération/ Division Tourcoing |
 
 Chef SVP |
 
@@ -1602,7 +1544,7 @@ Chef SU |
 
 DDSP59/ CSP Valenciennes agglomération |
 
-Chef d''EM de circonscription |
+Chef EM de circonscription |
 
 59 |
 
@@ -1778,10 +1720,6 @@ Chef du SDRT |
 
 63 |
 
-NON IMPLANTEE |
-
-63 |
-
 DDSP63/ CSP Riom |
 
 Chef CSP |
@@ -1836,21 +1774,27 @@ Chef du commissariat subdivisionnaire |
 
 73 |
 
+DDSP73/ CSP Aix-Les-Bains |
+
+Chef CSP |
+
+73 |
+
 DDSP73/ CSP Albertville |
 
 Chef CSP |
 
 73 |
 
-DDSP73/ CSP Chambéry |
-
-Chef SD |
-
-73 |
-
 DDSP73/ Savoie-RT |
 
 Chef du SDRT |
+
+73 |
+
+DDSP73/ CSP Chambéry-SD |
+
+Chef SD |
 
 74 |
 
@@ -1860,7 +1804,7 @@ Chef du SDRT |
 
 SGAMI de Marseille |
 
-47 |
+46 |
 
 4 |
 
@@ -1998,11 +1942,7 @@ Chef CSP |
 
 DDSP31/ Haute-Garonne |
 
-CCTCC |
-
-31 |
-
-NON IMPLANTEE |
+CTCC |
 
 31 |
 
@@ -2144,7 +2084,7 @@ Chef du SDRT |
 
 SGAMI de Metz |
 
-48 |
+47 |
 
 8 |
 
@@ -2175,12 +2115,6 @@ Chef du SDRT |
 DDSP21/ CSP Beaune |
 
 Chef CSP |
-
-25 |
-
-DDSP25/ CISP Montbéliard/ Secteur d'Héricourt |
-
-Chef du commissariat de secteur |
 
 25 |
 
@@ -2436,7 +2370,7 @@ Chef du SDRT |
 
 SGAMI de Rennes |
 
-39 |
+40 |
 
 14 |
 
@@ -2494,7 +2428,7 @@ Chef du SDRT |
 
 28 |
 
-DDSP28/ CSP Chartres |
+DDSP28/ CSP Chartres-SD |
 
 Chef SD |
 
@@ -2596,7 +2530,7 @@ Chef CSP |
 
 50 |
 
-DDSP50/ CSP Saint-Lô |
+DDSP50/ CSP Saint-Lô-SD |
 
 Chef SD |
 
@@ -2662,6 +2596,12 @@ Chef CSP |
 
 76 |
 
+DDSP76/ CSP Dieppe |
+
+Chef CSP |
+
+76 |
+
 DDSP76/ CSP Fécamp |
 
 Chef CSP |
@@ -2669,64 +2609,6 @@ Chef CSP |
 85 |
 
 DDSP85/ Vendée-RT |
-
-Chef du SDRT |
-
-SGAP de Guadeloupe |
-
-2 |
-
-971 |
-
-DDSP971/ Guadeloupe-RT |
-
-Chef du SDRT |
-
-971 |
-
-DDSP971/ CSP Basse-Terre |
-
-Chef CSP |
-
-SGAP de Martinique |
-
-1 |
-
-972 |
-
-DDSP972/ CSP Le Lamentin |
-
-Chef CSP |
-
-SGAP de La Réunion |
-
-2 |
-
-974 |
-
-DDSP974/ CSP Saint-André |
-
-Chef CSP |
-
-974 |
-
-DDSP974/ GIR Saint-Denis-de-la Réunion |
-
-Chef de GIR |
-
-SGAP de Polynésie |
-
-2 |
-
-987 |
-
-DSP987/ Polynésie |
-
-Directeur Départemental Adjoint |
-
-987 |
-
-DSP987/ Polynésie-RT |
 
 Chef du SDRT |
 
@@ -2744,11 +2626,11 @@ Services Centraux |
 
 75 |
 
-DIES/ Mission du Temps de Travail |
+DRCPN/ SDARH/ Mission du Temps de Travail |
 
 Chef de la mission |
 
-DTPN : 12 postes
+DTPN : 28 postes
 
 DEPT |
 
@@ -2756,39 +2638,123 @@ AFFECTATION |
 
 FONCTIONS |
 
+SATPN de Guadeloupe |
+
+6 |
+
+971 |
+
+DTPN/971/ STSP |
+
+Chef CPN Basse-Terre |
+
+971 |
+
+DTPN/971 DTPJ/ Pointe à Pitre/ OFAST |
+
+Chef du détachement de l'antenne OFAST Caraïbes de Pointe à Pitre |
+
+971 |
+
+DTPN/971/ STRF |
+
+Chef du STRF |
+
+971 |
+
+DTPN/971/ SRT |
+
+Chef SRT |
+
+971 |
+
+DTPN/971/ GIR Pointe à Pitre |
+
+Chef GIR |
+
+971 |
+
+DTPN/971/ ST RAID |
+
+Chef du service territorial du RAID |
+
+SATPN de Martinique |
+
+2 |
+
+972 |
+
+DTPN/972/ STPJ |
+
+Adjoint chef STPJ |
+
+972 |
+
+DTPN/972/ CPN Le Lamentin |
+
+Chef de circonscription de la police nationale (CPN) |
+
 SATPN de Guyane |
 
 5 |
 
 973 |
 
-DCSP/ DTPN973/ EM |
+DTPN/973/ EM |
 
 Chef d'état-major |
 
 973 |
 
-DCPJ/ STPJ973 |
+DTPN/973/ STPJ |
 
 Adjoint au chef STPJ |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN/973/ STSP/ CSP |
 
 Adjoint au chef STSP |
 
 973 |
 
-DCRFPN/ STRF973 |
+DTPN/973/ STRF |
 
-Chef STRF |
+Chef du STRF |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN/973/ STRT |
 
 Adjoint au chef STRT |
+
+SATPN de La Réunion |
+
+4 |
+
+974 |
+
+DTPN/974/ STSP Saint-André |
+
+Chef de circonscription de la police nationale (CPN) |
+
+974 |
+
+DTPN/974/ STRF |
+
+Chef du STRF |
+
+974 |
+
+DTPN/974/ GIR Réunion |
+
+Chef GIR |
+
+974 |
+
+DTPN/974/ ST RAID |
+
+Chef du service territorial du RAID |
 
 SATPN de Mayotte |
 
@@ -2796,49 +2762,77 @@ SATPN de Mayotte |
 
 976 |
 
-DCPAF/ STPAF976 |
+DTPN/976/ STPAF |
 
 Chef CRA |
 
 976 |
 
-DCSP/ STSP976/ CSP |
+DTPN/976/ STSP |
 
 Adjoint au chef STSP |
 
 976 |
 
-DCSP/ STSP976/ CSP |
+DTPN/976/ EM |
 
 Chef d'état-major |
 
 976 |
 
-DCSP/ STSP976/ CSP |
+DTPN/976/ STPJ |
 
 Chef STPJ |
 
 976 |
 
-DCSP/ STSP976/ RT |
+DTPN976/ STRT |
 
 Chef STRT |
 
+SATPN de Polynésie |
+
+3 |
+
+987 |
+
+DTPN/987 |
+
+DTPN adjoint |
+
+987 |
+
+DTPN/987/ SRT Résidence Papeete |
+
+Chef SRT |
+
+987 |
+
+DTPN/987/ STPAF Résidence Papeete |
+
+Chef STPAF |
+
 SATPN de Nouvelle-Calédonie |
 
-2 |
+3 |
 
 988 |
 
-DCPAF/ STPAF988 |
+DTPN/988/ STPAF |
 
 Chef STPAF |
 
 988 |
 
-DCPJ/ STPJ988 |
+DTPN/988/ STPJ |
 
 Adjoint au chef STPJ-Chef du service d'investigations |
+
+988 |
+
+DTPN/988/ STRAID |
+
+Chef du service territorial du RAID |
 
 PP : 111 postes
 
@@ -2860,9 +2854,9 @@ Chef du service du centre d'information et de commandement |
 
 75 |
 
-DOPC/ SDOPAP/ DII |
+DOPC/ EM/ SMS |
 
-Chef du service du groupement des compagnies d'intervention |
+Chef du service de la modernisation et de la stratégie |
 
 75 |
 
@@ -2956,13 +2950,13 @@ Adjoint au chef de service-Brigade de Répression de la Délinquance Économique
 
 DPJ/ SDBC/ BC |
 
-Chef de section-Brigade criminelle |
+Chef de section C2-Brigade criminelle |
 
 75 |
 
 DPJ/ SDBC/ BC |
 
-Chef de la section T3-Brigade criminelle |
+Chef de section T3-Brigade criminelle |
 
 75 |
 
@@ -2992,7 +2986,7 @@ Chef de section 2-Brigade de stupéfiants |
 
 DPJ/ SDBC/ BS |
 
-Chef de la section 3-Brigade de stupéfiants |
+Chef de section 3-Brigade de stupéfiants |
 
 75 |
 
@@ -3004,7 +2998,7 @@ Chef du service informatique |
 
 DPJ/ SDST/ 1er DPJ |
 
-Chef de section-Enquêtes criminelles générales-Effractions initiatives |
+Chef de section enquêtes criminelles et vols par effractions |
 
 75 |
 
@@ -3022,7 +3016,7 @@ Chef de section-Enquêtes et recherches |
 
 DPJ/ SDST/ 3è DPJ |
 
-Chef de section-Groupes enquête Répression du Banditisme et Vol avec Effraction |
+Chef de section groupes enquêtes répression du banditisme et vol avec effraction |
 
 92 |
 
@@ -3062,12 +3056,6 @@ Adjoint au chef de division |
 
 DR |
 
-Adjoint au chef du service territorial |
-
-75 |
-
-DR |
-
 Chef de département |
 
 75 |
@@ -3081,6 +3069,12 @@ Chef de section |
 DR |
 
 Chef d'Etat-Major de Sous-direction |
+
+93 |
+
+DR |
+
+Adjoint au chef du service territorial |
 
 Direction des Ressources Humaines |
 
@@ -3170,6 +3164,12 @@ Chef SSQ |
 
 75 |
 
+DSPAP/ DT75/ D2/ CP18 |
+
+Chef des unités judiciaires-Adjoint chef SAIP 18 |
+
+75 |
+
 DSPAP/ DT75/ D2/ CP19 |
 
 Chef SSQ |
@@ -3188,6 +3188,12 @@ Chef SSQ |
 
 75 |
 
+DSPAP/ DT75/ D3/ CP05/06 |
+
+Chef SAIP |
+
+75 |
+
 DSPAP/ DT75/ D3/ CP07 |
 
 Chef SAIP |
@@ -3197,12 +3203,6 @@ Chef SAIP |
 DSPAP/ DT75/ D3/ CP07 |
 
 Chef SSQ |
-
-75 |
-
-DSPAP/ DT75/ D3/ CP13 |
-
-Chef SAIP |
 
 75 |
 
@@ -3242,21 +3242,21 @@ Chef des unités judiciaires |
 
 75 |
 
-DSPAP/ DT75/ STPE |
-
-Chef du service de traitement des procédures d'enlèvement |
-
-75 |
-
 DSPAP/ EM |
 
 Chef de la division Etudes |
 
 75 |
 
-DSPAP/ SDLII/ DCRAP |
+DSPAP/ EM |
 
-Chef du département des centres de rétention administrative de Paris |
+Chef du pôle planification |
+
+75 |
+
+DSPAP/ SDLII/ DCRA |
+
+Chef service |
 
 75 |
 
@@ -3292,13 +3292,13 @@ Chef du service d'accompagnement et de soutien |
 
 DSPAP/ SDSO/ SDSE |
 
-Chef du service de déontologie et de soutien aux effectifs |
+Chef du service de déontologie, de synthèse et d'évaluation |
 
 75 |
 
-DSPAP/ SDSO/ STI |
+DSPAP/ SATN |
 
-Chef du service des technologies de l'information |
+Chef du service d'accompagnement de la transition numérique |
 
 75 |
 
@@ -3318,12 +3318,6 @@ DSPAP/ SDSS/ SCSI/ CSI75 |
 
 Chef des unités d'intervention et de soutien opérationnel de la CSI75 |
 
-75 |
-
-DSPAP/ SDSS/ STJA |
-
-Chef du service de traitement judiciaire des accidents |
-
 92 |
 
 DSPAP/ DT92/ Hauts-de-Seine/ UAO |
@@ -3341,6 +3335,12 @@ Chef SAIP |
 DSPAP/ DT92/ D1/ Villeneuve-la-Garenne |
 
 Chef CSP |
+
+92 |
+
+DSPAP/ DT92/ D1/ Gennevilliers |
+
+Chef SAIP |
 
 92 |
 
@@ -3411,12 +3411,6 @@ Chef SSQ |
 93 |
 
 DSPAP/ DT93/ D2/ Epinay-sur-Seine |
-
-Chef SAIP |
-
-93 |
-
-DSPAP/ DT93/ D2/ La Courneuve |
 
 Chef SAIP |
 
@@ -3534,7 +3528,7 @@ DSPAP/ SDSS/ SN94 |
 
 Chef de l'unité de coordination opérationnelle des services de nuit |
 
-RAID : 13 postes
+RAID : 10 postes
 
 DEPT |
 
@@ -3626,36 +3620,6 @@ RAID/ Antenne de Rennes |
 
 Chef d'antenne |
 
-SATPN de Guadeloupe |
-
-1 |
-
-971 |
-
-RAID/ Antenne de Guadeloupe |
-
-Chef d'antenne |
-
-SATPN de La Réunion |
-
-1 |
-
-974 |
-
-RAID/ Antenne de la Réunion |
-
-Chef d'antenne |
-
-SATPN de Nouvelle-Calédonie |
-
-1 |
-
-988 |
-
-RAID/ Antenne de Nouvelle Calédonie |
-
-Chef d'antenne |
-
 ST (SI) 2 : 1 poste
 
 DEPT |
@@ -3678,8 +3642,8 @@ DGSI : 60 postes
 
 La liste des postes de chef de service ou d'unité organique bénéficiant du plafond réglementaire de la part fonctionnelle de l'indemnité de responsabilité et de performance de la DGSI fait l'objet d'un arrêté distinct, non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
-TOTAL : 618 postes
+TOTAL : 616 postes
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 27 janvier 2022, ces dispositions entrent en vigueur le 1er septembre 2021.
+Conformément à l’article 2 de l’arrêté du 8 juillet 2022 (NOR : IOMC2212319A), ces dispositions entrent en vigueur le 1er janvier 2022.

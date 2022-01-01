@@ -12,7 +12,7 @@ FONCTIONS |
 
 Services Centraux |
 
-21 |
+22 |
 
 75 |
 
@@ -64,43 +64,37 @@ Adjoint au sous-directeur-Chef du bureau des analyses et du contrôle |
 
 75 |
 
-DCCRS/ SDO |
-
-Chef bureau Coordination Budgétaire |
-
-75 |
-
-DCCRS/ SDO |
+DCCRS/ SDM |
 
 Chef du bureau Emploi et Programmation |
 
 75 |
 
-DCCRS/ SDO |
+DCCRS/ SDM |
 
 Chef bureau Prospective et Réflexion Tactique |
 
 75 |
 
-DCCRS/ SDO |
+DCCRS/ SDM |
 
 Chef du bureau Sécurité Routière et Missions Spécialisées |
 
 75 |
 
-DCCRS/ SDO |
+DCCRS/ SDM |
 
 Adjoint Chef bureau Emploi et Programmation |
 
 75 |
 
-DCCRS/ SDO |
+DCCRS/ SDM |
 
 Adjoint au chef du bureau de la prospective et de la réflexion Tactique |
 
 75 |
 
-DCCRS/ SDO |
+DCCRS/ SDM |
 
 Adjoint au chef du bureau de la sécurité routière et des missions spécialisées |
 
@@ -140,9 +134,33 @@ DCCRS/ SDSO |
 
 Chef bureau méthodes et techniques d'appui opérationnel |
 
+75 |
+
+DCCRS/ SDSO |
+
+Adjoint chef bureau méthodes et techniques d'appui opérationnel |
+
+75 |
+
+DCCRS/ SDSO |
+
+Chef bureau Coordination Budgétaire |
+
 SGAMI ZDS de Paris |
 
-31 |
+35 |
+
+75 |
+
+DZCRS Paris/ Délégation des CRS de l'agglomération parisienne à Paris |
+
+Adjoint au chef de délégation |
+
+75 |
+
+DZCRS Paris/ Délégation des CRS de l'agglomération parisienne à Paris |
+
+Adjoint au chef de délégation |
 
 77 |
 
@@ -161,6 +179,12 @@ Chef de section |
 DZCRS Paris/ CRS 04 Lagny |
 
 Chef de section |
+
+77 |
+
+DZCRS Paris/ CRS autoroutière Est Ile de France à Lagny |
+
+Adjoint au Commandant de Compagnie |
 
 78 |
 
@@ -222,17 +246,11 @@ DZCRS Paris/ CRS 61 Velizy |
 
 Chef de section |
 
-78 |
+91 |
 
-DZCRS Paris/ Délégation des CRS de l'agglomération parisienne |
+DZCRS Paris/ CRS autoroutière Sud Ile de France à Massy |
 
-Adjoint au chef de délégation |
-
-78 |
-
-DZCRS Paris/ Délégation des CRS de l'agglomération parisienne |
-
-Adjoint au chef de délégation |
+Adjoint au Commandant de Compagnie |
 
 91 |
 
@@ -296,6 +314,12 @@ Chef de section |
 
 92 |
 
+DZCRS Paris/ CRS autoroutière Ouest Ile de France à Vaucresson |
+
+Adjoint au Commandant de Compagnie |
+
+92 |
+
 DZCRS Paris/ CRS 02 Vaucresson |
 
 Adjoint au Commandant de Compagnie |
@@ -311,6 +335,12 @@ Chef de section |
 DZCRS Paris/ CRS 02 Vaucresson |
 
 Chef de section |
+
+95 |
+
+DZCRS Paris/ CRS autoroutière Nord Ile de France à Deuil-La-Barre |
+
+Adjoint au Commandant de Compagnie |
 
 95 |
 
@@ -406,6 +436,12 @@ DZCRS Sud-ouest/ CRS 14 Bordeaux |
 
 Chef de section |
 
+33 |
+
+DZCRS Sud-ouest/ CRS autoroutière Aquitaine Cenon |
+
+Adjoint au Commandant de Compagnie |
+
 47 |
 
 DZCRS Sud-ouest/ CRS 24 Agen (Bon-Encontre) |
@@ -423,12 +459,6 @@ Chef de section |
 DZCRS Sud-ouest/ CRS 25 Pau |
 
 Adjoint au Commandant de Compagnie |
-
-64 |
-
-DZCRS Sud-ouest/ CRS 25 Pau |
-
-Chef de section |
 
 64 |
 
@@ -468,7 +498,7 @@ Chef de section |
 
 SGAMI de Lille |
 
-15 |
+16 |
 
 2 |
 
@@ -499,6 +529,12 @@ Chef du service des opérations |
 DZCRS Nord |
 
 Chef du service d'appui opérationnel |
+
+59 |
+
+DZCRS Paris/ CRS autoroutière Nord Pas de Calais Lille (Lambersat) |
+
+Adjoint au Commandant de Compagnie |
 
 59 |
 
@@ -674,9 +710,9 @@ Chef de section |
 
 69 |
 
-DZCRS Sud-est/ CRS 46 Lyon (Sainte Foy-Les-Lyon) |
+DZCRS Sud-est/ CRS autoroutière Rhône-Alpes Auvergne Lyon (Chassieu) |
 
-Chef de section |
+Adjoint au Commandant de Compagnie |
 
 74 |
 
@@ -686,7 +722,7 @@ Adjoint chef de centre |
 
 SGAMI de Marseille |
 
-36 |
+33 |
 
 6 |
 
@@ -705,12 +741,6 @@ Chef de section |
 DZCRS Sud/ CRS 57 Carcassonne |
 
 Adjoint au Commandant de Compagnie |
-
-11 |
-
-DZCRS Sud/ CRS 57 Carcassonne |
-
-Chef de section |
 
 11 |
 
@@ -738,6 +768,12 @@ Chef du service des opérations |
 
 13 |
 
+DZCRS Sud/ CRS autoroutière Provence à Marseille |
+
+Adjoint au Commandant de Compagnie |
+
+13 |
+
 DZCRS Sud/ CRS 53 Marseille |
 
 Adjoint au Commandant de Compagnie |
@@ -759,12 +795,6 @@ Chef de section |
 DZCRS Sud/ CRS 54 Marseille |
 
 Adjoint au Commandant de Compagnie |
-
-13 |
-
-DZCRS Sud/ CRS 54 Marseille |
-
-Chef de section |
 
 13 |
 
@@ -856,12 +886,6 @@ DZCRS Sud/ CRS 58 Perpignan |
 
 Chef de section |
 
-66 |
-
-DZCRS Sud/ CRS 58 Perpignan |
-
-Chef de section |
-
 82 |
 
 DZCRS Sud/ CRS 28 Montauban |
@@ -879,12 +903,6 @@ Chef de section |
 DZCRS Sud/ CRS 59 Ollioules (Toulon) |
 
 Adjoint au Commandant de Compagnie |
-
-83 |
-
-DZCRS Sud/ CRS 59 Ollioules (Toulon) |
-
-Chef de section |
 
 83 |
 
@@ -906,7 +924,7 @@ Chef de section |
 
 SGAMI de Metz |
 
-30 |
+28 |
 
 8 |
 
@@ -956,23 +974,11 @@ DZCRS Est/ CRS 33 Reims |
 
 Chef de section |
 
-51 |
-
-DZCRS Est/ CRS 33 Reims |
-
-Chef de section |
-
 54 |
 
 DZCRS Est/ CRS 39 Nancy (Jarville) |
 
 Adjoint au Commandant de Compagnie |
-
-54 |
-
-DZCRS Est/ CRS 39 Nancy (Jarville) |
-
-Chef de section |
 
 54 |
 
@@ -1034,6 +1040,12 @@ DZCRS Est/ CRS 36 Châtel-Saint-Germain |
 
 Chef de section |
 
+57 |
+
+DZCRS Est/ CRS autoroutière Lorraine-Alsace Châtel-Saint-Germain |
+
+Adjoint au Commandant de Compagnie |
+
 67 |
 
 DZCRS Est/ CRS 37 Strasbourg |
@@ -1075,12 +1087,6 @@ Chef de section |
 DZCRS Est/ CRS 44 Joigny |
 
 Adjoint au Commandant de Compagnie |
-
-89 |
-
-DZCRS Est/ CRS 44 Joigny |
-
-Chef de section |
 
 89 |
 
@@ -1090,7 +1096,25 @@ Chef de section |
 
 SGAMI de Rennes |
 
-24 |
+23 |
+
+18 |
+
+DZCRS Ouest/ CRS 52 Sancerre |
+
+Adjoint au Commandant de Compagnie |
+
+18 |
+
+DZCRS Ouest/ CRS 52 Sancerre |
+
+Chef de section |
+
+18 |
+
+DZCRS Ouest/ CRS 52 Sancerre |
+
+Chef de section |
 
 22 |
 
@@ -1152,12 +1176,6 @@ DZCRS Ouest/ CRS 41 Tours (Saint Cyr Sur Loire) |
 
 Chef de section |
 
-37 |
-
-DZCRS Ouest/ CRS 41 Tours (Saint Cyr Sur Loire) |
-
-Chef de section |
-
 44 |
 
 DZCRS Ouest/ CRS 42 Nantes (Saint-Herblain) |
@@ -1179,24 +1197,6 @@ Adjoint au Commandant de Compagnie |
 45 |
 
 DZCRS Ouest/ CRS 51 Orléans (Saran) |
-
-Chef de section |
-
-45 |
-
-DZCRS Ouest/ CRS 52 Sancerre |
-
-Adjoint au Commandant de Compagnie |
-
-45 |
-
-DZCRS Ouest/ CRS 52 Sancerre |
-
-Chef de section |
-
-45 |
-
-DZCRS Ouest/ CRS 52 Sancerre |
 
 Chef de section |
 
@@ -1236,7 +1236,7 @@ DZCRS Ouest/ CRS 32 Le Havre (Saint Adresse) |
 
 Chef de section |
 
-DCPAF : 30 postes
+DCPAF : 29 postes
 
 DEPT |
 
@@ -1248,27 +1248,27 @@ Services Centraux |
 
 4 |
 
-77 |
-
-DCPAF/ SDIE/ OCRIEST rés. Lognes |
-
-Chef de l'unité de soutien opérationnel (USO) |
-
-77 |
-
-DCPAF/ SDIE/ PCE/ UCI |
-
-Chef de l'unité centrale d'identification (UCI) |
-
 75 |
 
 DCPAF/ SNPF/ UAO |
 
 Chef de l'unité d'appui opérationnel (UAO) |
 
+77 |
+
+DCPAF/ SDIE/ OCRIEST rés. Lognes |
+
+Chef de l'unité de soutien opérationnel (USO) |
+
+94 |
+
+DCPAF/ SDIE/ PCE/ UCI à Rungis |
+
+Chef de l'unité centrale d'identification (UCI) |
+
 95 |
 
-DCPAF/ EM/ UNESI Roissy |
+DCPAF/ SDIE/ PCE/ EM/ UNESI Roissy |
 
 Adjoint au chef de l'unité nationale d'escorte, de soutien et d'intervention (UNESI) |
 
@@ -1280,55 +1280,55 @@ SGAMI ZDS de Paris |
 
 DiDPAF Mesnil-Amelot rés. Chessy |
 
-Chef des brigades mobiles de recherches territoriales (BMRT), coordinateur BMRT d'Île de France |
+Chef des brigades mobiles de recherches territoriales (BMRT), coordinateur BMR d'Île de France |
 
 77 |
 
-DiDPAF Mesnil-Amelot/ CRA Mesnil Amelot 2 |
+DiDPAF Mesnil-Amelot/ CRA Mesnil Amelot |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Le Mesnil Amelot n° 2 |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 77 |
 
-DiDPAF Mesnil-Amelot/ CRA Mesnil Amelot 3 |
+DiDPAF Mesnil-Amelot/ CRA Mesnil Amelot |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Le Mesnil Amelot n° 3 |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 95 |
 
-DCPAF/ DPAF Aéroports Roissy CDG |
+DCPAF/ DAP/ Aéroports Roissy CDG |
 
 Adjoint au chef des unités de suivi des procédures d'immigration |
 
 95 |
 
-DCPAF/ DPAF Aéroports Roissy CDG |
+DCPAF/ DAP/ Aéroports Roissy CDG |
 
-Adjoint au commandant des aérogares E et F du terminal 2 |
-
-93/95 |
-
-DCPAF/ DPAF aéroportuaire Roissy-CDG-Le Bourget |
-
-Chef du pôle sûreté |
+Adjoint au commandant des aérogares E F G |
 
 95 |
 
-DCPAF/ DPAF aéroportuaire Roissy-CDG-Le Bourget |
+DCPAF/ DAP/ Aéroports Roissy CDG |
+
+Chef des unités de sûreté |
+
+95 |
+
+DCPAF/ DAP/ Aéroports Roissy CDG |
 
 Chef des brigades mobiles spécialisées |
 
 95 |
 
-DCPAF/ DPAF aéroportuaire Roissy-CDG-Le Bourget |
+DCPAF/ DAP/ Aéroports Roissy CDG |
 
 Chef du service de la police aux frontières aériennes le Bourget (SPAFA) |
 
 95 |
 
-DCPAF/ DPAF aéroportuaire Roissy-CDG-Le Bourget |
+DCPAF/ DAP/ Aéroports Roissy CDG |
 
-Chef d'unité judiciaire |
+Adjoint au chef des unités d'investigation transfrontière |
 
 SGAMI de Bordeaux |
 
@@ -1348,7 +1348,7 @@ SGAMI de Lille |
 
 DZPAF Nord rés. Lille |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Lille |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 59 |
 
@@ -1360,7 +1360,7 @@ Chef de la brigade mobile de recherche zonale (BMRZ) |
 
 DZPAF Nord/ DiDPAF Calais rés. Calais |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Coquelles |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 62 |
 
@@ -1382,7 +1382,7 @@ SGAMI de Lyon |
 
 DZPAF Sud-Est rés. Lyon |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Lyon |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 69 |
 
@@ -1404,7 +1404,7 @@ Chef de la brigade mobile de recherche (BMR) |
 
 DZPAF Sud rés. Marseille |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Marseille |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 13 |
 
@@ -1422,7 +1422,7 @@ Adjoint au chef de centre de rétention administrative (CRA) |
 
 DZPAF Sud/ DIDPAF Toulouse rés. Toulouse |
 
-Adjoint au chef de centre de rétention administrative (CRA)-Toulouse |
+Adjoint au chef de centre de rétention administrative (CRA) |
 
 SGAMI de Metz |
 
@@ -1450,17 +1450,7 @@ DZPAF Ouest rés. Rennes |
 
 Chef de la brigade mobile de recherche zonale (BMRZ) |
 
-SATPN de Guadeloupe |
-
-1 |
-
-971 |
-
-DDPAF971 rés. Pointe-à-Pitre |
-
-Adjoint au directeur départemental |
-
-DCPJ : 80 postes
+DCPJ : 78 postes
 
 DEPT |
 
@@ -1470,7 +1460,7 @@ FONCTIONS |
 
 Services Centraux |
 
-29 |
+28 |
 
 92 |
 
@@ -1482,19 +1472,19 @@ Adjoint au chef de la DNRS |
 
 DCPJ/ SDAT/ DNRS |
 
-Chef de section 1-DNRS |
+Chef de section |
 
 92 |
 
 DCPJ/ SDAT/ DNRS |
 
-Chef de section 2-DNRS |
+Chef de section |
 
 92 |
 
 DCPJ/ SDAT/ DNRS |
 
-Chef de section 4-DNRS |
+Chef de section |
 
 92 |
 
@@ -1506,25 +1496,7 @@ Adjoint au chef de brigade |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Adjoint au chef de groupe au sein d'une brigade |
-
-92 |
-
-DCPJ/ SDAT/ DNRTIS |
-
-Adjoint au chef de groupe au sein d'une brigade |
-
-92 |
-
-DCPJ/ SDAT/ DNRTIS |
-
-Adjoint au chef de groupe au sein d'une brigade |
-
-92 |
-
-DCPJ/ SDAT/ DNRTIS |
-
-Adjoint au chef de groupe au sein d'une brigade |
+Adjoint au chef de groupe d'une brigade |
 
 92 |
 
@@ -1536,73 +1508,91 @@ Adjoint au chef de groupe d'une brigade |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Adjoint au chef de la brigade d'appui en téléphonie, cyberinvestigation et analyse criminelle |
+Adjoint au chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Adjoint au chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Adjoint au chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Adjoint au chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de la brigade d'appui en téléphonie, cyberinvestigation et analyse criminelle |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef de groupe au sein d'une brigade |
+Chef de groupe d'une brigade |
 
 92 |
 
 DCPJ/ SDAT/ DNRTIS |
 
-Chef du groupe ASSRI (Analyse Synthèses Stratégie et Relations Internationales) |
+Chef de groupe d'une brigade |
+
+92 |
+
+DCPJ/ SDAT/ DNRTIS |
+
+Chef de groupe d'une brigade |
+
+92 |
+
+DCPJ/ SDAT/ DNRTIS |
+
+Chef de groupe d'une brigade |
+
+92 |
+
+DCPJ/ SDAT/ DNRTIS |
+
+Chef de groupe d'une brigade |
 
 92 |
 
@@ -1620,29 +1610,25 @@ Adjoint au chef BRIN |
 
 DCPJ/ SDLCO/ OCLCO |
 
-Adjoint au chef de groupe BRIN 2 |
+Adjoint au chef de groupe BRIN |
 
 92 |
 
 DCPJ/ SDLCO/ OCLCO |
 
-Chef de groupe BRIN 1 |
-
-92 |
-
-NON IMPLANTEE |
+Chef de groupe BRIN |
 
 92 |
 
 DCPJ/ SDLCO/ OCLCO |
 
-Chef de groupe opérationnel 1-BRIN |
+Chef de groupe opérationnel BRIN |
 
 92 |
 
 DCPJ/ SDLCO/ OCLCO |
 
-Chef de groupe opérationnel 2-BRIN |
+Chef de groupe opérationnel BRIN |
 
 SGAMI ZDS de Paris |
 
@@ -1696,25 +1682,25 @@ SGAMI de Bordeaux |
 
 33 |
 
-DIPJ Bordeaux/ BRI Bordeaux |
+DZPJ Sud Ouest/ BRI/ groupe 10 à Bordeaux |
 
 Chef de groupe BRI |
 
 33 |
 
-DIPJ Bordeaux/ BRI Bordeaux |
+DZPJ Sud Ouest/ BRI/ groupe 20 à Bordeaux |
 
 Chef de groupe BRI |
 
 64 |
 
-DIPJ Bordeaux/ BRI Bordeaux/ détachement Bayonne |
+DZPJ Sud Ouest/ BRI/ détachement Bayonne groupe 30 |
 
 Chef de groupe BRI |
 
 64 |
 
-DIPJ Bordeaux/ BRI Bordeaux/ détachement Bayonne |
+DZPJ Sud Ouest/ BRI/ détachement Bayonne groupe 40 |
 
 Chef de groupe BRI |
 
@@ -1724,31 +1710,31 @@ SGAMI de Lille |
 
 59 |
 
-DIPJ Lille/ BRI |
+DZPJ Nord/ BRI/ groupe 10 à Lille |
 
 Chef de groupe BRI |
 
 59 |
 
-DIPJ Lille/ BRI |
+DZPJ Nord/ BRI/ groupe 20 à Lille |
 
 Chef de groupe BRI |
 
 59 |
 
-DIPJ Lille/ BRI |
+DZPJ Nord/ BRI à Lille |
 
 Adjoint au chef BRI |
 
 59 |
 
-DIPJ Lille/ BRI |
+DZPJ Nord/ BRI à Lille |
 
 Chef de groupe BRI |
 
 60 |
 
-DIPJ Lille/ Antenne PJ Creil/ BRI |
+DZPJ Nord/ S PJ Creil/ BRI détachement à Creil |
 
 Chef de groupe BRI |
 
@@ -1758,181 +1744,175 @@ SGAMI de Lyon |
 
 69 |
 
-DIPJ Lyon/ Division Criminelle-BCRB |
+DZPJ Sud Est/ DTPJ Lyon/ DLCO/ Brigade criminelle et de répression du banditisme/ groupe anti-terroriste |
 
-Chef de groupe Crim GAT |
+Chef de groupe anti-terroriste |
 
 69 |
 
-DIPJ Lyon/ BRI |
+DZPJ Sud Est/ BRI à Lyon |
 
 Adjoint au chef BRI |
 
 69 |
 
-DIPJ Lyon/ BRI |
+DZPJ Sud Est/ BRI/ Groupe 1 à Lyon |
 
 Chef de groupe BRI |
 
 69 |
 
-DIPJ Lyon/ BRI |
+DZPJ Sud Est/ BRI/ Groupe 2 à Lyon |
 
 Chef de groupe BRI |
 
 69 |
 
-DIPJ Lyon/ BRI |
+DZPJ Sud Est/ BRI/ Groupe 3 à Lyon |
 
 Chef de groupe BRI |
 
 SGAMI de Marseille |
 
-24 |
+23 |
 
 6 |
 
-DIPJ Marseille/ Antenne PJ Nice/ BRI |
+DZPJ Sud/ DTPJ Marseille/ SPJ Nice/ BRI à Nice |
 
 Adjoint au chef BRI |
 
 6 |
 
-DIPJ Marseille/ Antenne PJ Nice/ BRI |
+DZPJ Sud/ DTPJ Marseille/ SPJ Nice/ BRI Nice/ groupe1 |
 
 Chef de groupe BRI |
 
 6 |
 
-DIPJ Marseille/ Antenne PJ Nice/ BRI |
+DZPJ Sud/ DTPJ Marseille/ SPJ Nice/ BRI Nice/ groupe 2 |
 
 Chef de groupe BRI |
 
 6 |
 
-DIPJ Marseille/ Antenne PJ Nice/ BRI |
+DZPJ Sud/ DTPJ Marseille/ SPJ Nice/ BRI Nice/ groupe3 |
 
 Chef de groupe BRI |
 
 13 |
 
-DIPJ Marseille/ BRI |
+DZPJ Sud/ DTPJ Marseille/ BRI |
 
 Adjoint au chef BRI |
 
 13 |
 
-DIPJ Marseille/ BRI |
-
-Adjoint au chef de groupe BRI |
-
-13 |
-
-DIPJ Marseille/ BRI |
+DZPJ Sud/ DTPJ Marseille/ BRI/ groupe 1 |
 
 Chef de groupe BRI |
 
 13 |
 
-DIPJ Marseille/ BRI |
+DZPJ Sud/ DTPJ Marseille/ BRI/ groupe 2 |
 
 Chef de groupe BRI |
 
 13 |
 
-DIPJ Marseille/ BRI |
+DZPJ Sud/ DTPJ Marseille/ BRI/ groupe 3 |
 
 Chef de groupe BRI |
 
 13 |
 
-DIPJ Marseille/ BRI |
+DZPJ Sud/ DTPJ Marseille/ BRI/ groupe 4 |
 
 Chef de groupe BRI |
 
 31 |
 
-DIPJ Bordeaux/ SRPJ Toulouse/ BRI Toulouse |
+DZPJ Sud/ DTPJ Toulouse/ BRI |
 
 Adjoint au chef BRI-Chef de groupe BRI |
 
 31 |
 
-DIPJ Bordeaux/ SRPJ Toulouse/ BRI Toulouse |
+DZPJ Sud/ DTPJ Toulouse/ BRI/ groupe 1 |
 
 Chef de groupe BRI |
 
 31 |
 
-DIPJ Bordeaux/ SRPJ Toulouse/ BRI Toulouse |
+DZPJ Sud/ DTPJ Toulouse/ BRI/ groupe 3 |
 
 Chef de groupe BRI |
 
 34 |
 
-DIPJ Marseille/ SRPJ Montpellier/ BRI |
+DZPJ Sud/ DTPJ Montpellier/ BRI |
 
 Adjoint au chef BRI |
 
 34 |
 
-DIPJ Marseille/ SRPJ Montpellier/ BRI |
+DZPJ Sud/ DTPJ Montpellier/ BRI/ groupe 10 |
 
 Chef de groupe BRI |
 
 34 |
 
-DIPJ Marseille/ SRPJ Montpellier/ BRI |
+DZPJ Sud/ DTPJ Montpellier/ BRI/ groupe 20 |
 
 Chef de groupe BRI |
 
 34 |
 
-DIPJ Marseille/ SRPJ Montpellier/ BRI |
+DZPJ Sud/ DTPJ Montpellier/ BRI/ groupe 30 |
 
 Chef de groupe BRI |
 
 2A |
 
-DRPJ Ajaccio |
+DZPJ Sud/ DTPJ Ajaccio/ Division opérationnelle/ Division de lutte contre la criminalité organisée/ groupe de lutte contre la criminalité organisée et de lutte antiterroriste |
 
-Chef de groupe GLAT |
+Chef de groupe de lutte contre la criminalité organisée et de lutte antiterroriste |
 
 2A |
 
-DRPJ Ajaccio/ BRI |
+DZPJ Sud/ DTPJ Ajaccio/ BRI/ groupe 10 |
 
 Chef de groupe BRI |
 
 2A |
 
-DRPJ Ajaccio/ BRI |
+DZPJ Sud/ DTPJ Ajaccio/ BRI/ groupe 20 |
 
 Chef de groupe BRI |
 
 2B |
 
-DRPJ Ajaccio/ Antenne PJ Bastia |
+DZPJ Sud/ DTPJ Ajaccio/ BRI à Bastia |
 
 Adjoint au Chef BRI |
 
 2B |
 
-DRPJ Ajaccio/ Antenne PJ Bastia |
+DZPJ Sud/ DTPJ Ajaccio/ BRI/ groupe 30 à Bastia |
 
 Chef de groupe BRI |
 
 2B |
 
-DRPJ Ajaccio/ Antenne PJ Bastia |
+DZPJ Sud/ DTPJ Ajaccio/ BRI/ groupe 40 à Bastia |
 
 Chef de groupe BRI |
 
 2B |
 
-DRPJ Ajaccio/ Antenne PJ Bastia |
+DZPJ Sud/ DTPJ Ajaccio/ SPJ Bastia |
 
-Chef de groupe GLAT |
+Chef de groupe de lutte antiterroriste (GLAT) |
 
 SGAMI de Metz |
 
@@ -1978,7 +1958,7 @@ DZPJ Ouest/ DTPJ Rouen/ BRI |
 
 Adjoint au chef BRI et chef de groupe BRI |
 
-DCSP : 484 postes
+DCSP : 457 postes
 
 DEPT |
 
@@ -1988,7 +1968,7 @@ FONCTIONS |
 
 SGAMI ZDS de Paris |
 
-168 |
+166 |
 
 77 |
 
@@ -2436,10 +2416,6 @@ Chef d'EM de circonscription |
 
 78 |
 
-NON IMPLANTEE |
-
-78 |
-
 DDSP78/ CSP Elancourt |
 
 Chef UAO |
@@ -2467,12 +2443,6 @@ Chef UPS |
 DDSP78/ CSP Sartrouville |
 
 Chef d'EM de circonscription |
-
-78 |
-
-DDSP78/ CSP Sartrouville |
-
-Chef UAO |
 
 78 |
 
@@ -2506,31 +2476,37 @@ Chef du SRT |
 
 91 |
 
-DDSP91/ CSP Evry-Corbeil |
-
-Adjoint au chef SU |
-
-91 |
-
-DDSP91/ CSP Evry-Corbeil |
-
-Adjoint au chef SVP |
-
-91 |
-
-DDSP91/ CSP Evry-Corbeil |
-
-Chef UAO |
-
-91 |
-
-DDSP91/ CSP Evry-Corbeil |
+DDSP91/ SD |
 
 Chef UAP |
 
 91 |
 
-DDSP91/ CSP Evry-Corbeil |
+DDSP91/ CSP Evry |
+
+Adjoint au chef SU |
+
+91 |
+
+DDSP91/ CSP Evry |
+
+Adjoint au chef SVP |
+
+91 |
+
+DDSP91/ CSP Evryl |
+
+Chef UAO |
+
+91 |
+
+DDSP91/ CSP Evry |
+
+Chef UAP |
+
+91 |
+
+DDSP91/ CSP Evry |
 
 Chef USES |
 
@@ -2578,37 +2554,37 @@ Chef USES |
 
 91 |
 
-DDSP91/ CSP Massy-Palaiseau |
+DDSP91/ CSP Massy |
 
 Adjoint au chef SU |
 
 91 |
 
-DDSP91/ CSP Massy-Palaiseau |
+DDSP91/ CSP Massy |
 
 Adjoint au chef SVP |
 
 91 |
 
-DDSP91/ CSP Massy-Palaiseau |
+DDSP91/ CSP Massy |
 
 Chef GAJ |
 
 91 |
 
-DDSP91/ CSP Massy-Palaiseau |
+DDSP91/ CSP Massy |
 
 Chef UAO |
 
 91 |
 
-DDSP91/ CSP Massy-Palaiseau |
+DDSP91/ CSP Massy |
 
 Chef UAP |
 
 91 |
 
-DDSP91/ CSP Massy-Palaiseau |
+DDSP91/ CSP Massy |
 
 Chef USES |
 
@@ -2644,31 +2620,31 @@ Adjoint au chef SU |
 
 91 |
 
-DDSP91/ CSP Val d'Yerres-Val de Seine |
+DDSP91/ CSP Montgeron |
 
 Adjoint au chef SU |
 
 91 |
 
-DDSP91/ CSP Val d'Yerres-Val de Seine |
+DDSP91/ CSP Montgeron |
 
 Adjoint au chef SVP |
 
 91 |
 
-DDSP91/ CSP Val d'Yerres-Val de Seine |
+DDSP91/ CSP Montgeron |
 
 Chef BAC |
 
 91 |
 
-DDSP91/ CSP Val d'Yerres-Val de Seine |
+DDSP91/ CSP Montgeron |
 
 Chef UAP |
 
 91 |
 
-DDSP91/ CSP Val d'Yerres-Val de Seine |
+DDSP91/ CSP Montgeron |
 
 Chef USES |
 
@@ -2790,12 +2766,6 @@ Chef UAP |
 
 DDSP95/ CSP Enghien-les-Bains |
 
-Chef UAO |
-
-95 |
-
-DDSP95/ CSP Enghien-les-Bains |
-
 Chef UPS |
 
 95 |
@@ -2869,6 +2839,12 @@ Chef SU |
 DDSP95/ CSP Gonesse |
 
 Chef SVP |
+
+95 |
+
+DDSP95/ CSP Gonesse |
+
+Chef UAP |
 
 95 |
 
@@ -2990,19 +2966,15 @@ DDSP95/ Val-d'Oise-SND |
 
 Officier SND |
 
-95 |
-
-NON IMPLANTEE |
-
 SGAMI de Lille |
 
-59 |
+57 |
 
 2 |
 
 DDSP02/ CSP Saint-Quentin |
 
-Adjoint au chef Chef SVP |
+Adjoint au chef SVP |
 
 2 |
 
@@ -3045,10 +3017,6 @@ Chef SU |
 DDSP02/ CSP Soissons |
 
 Chef SVP |
-
-2 |
-
-NON IMPLANTEE |
 
 59 |
 
@@ -3156,7 +3124,7 @@ Adjoint au chef SND |
 
 DDSP59/ Nord-SOP |
 
-Adjoint au chef SOP |
+Adjoint au SOP |
 
 60 |
 
@@ -3217,12 +3185,6 @@ Adjoint au chef SND |
 DDSP60/ Oise-RT |
 
 Adjoint au chef SDRT |
-
-60 |
-
-DDSP60/ Oise-RT |
-
-Chef de la section " dérives urbaines, repli identitaire, lutte contre les phénomènes de radicalisation et prévention du terrorisme " |
 
 60 |
 
@@ -3422,12 +3384,6 @@ Chef SND |
 
 38 |
 
-DDSP38/ Isère |
-
-Chef du bureau " Partenariats " |
-
-38 |
-
 DDSP38/ Isère-RT |
 
 Adjoint au chef SDRT |
@@ -3440,9 +3396,15 @@ Adjoint au chef SD |
 
 38 |
 
-DDSP38/ CSP Grenoble |
+DDSP38/ CSP Grenoble-SD |
 
 Chef GAJ |
+
+38 |
+
+DDSP38/ CSP Grenoble-SD |
+
+Adjoint chef GAJ |
 
 38 |
 
@@ -3578,12 +3540,6 @@ Chef UIAAP |
 
 69 |
 
-DDSP69/ CSP Lyon/ Ciat subdivisionnaire de Vénissieux-Division Centre |
-
-Adjoint au chef de commissariat subdivisionnaire |
-
-69 |
-
 DDSP69/ CSP Lyon/ Ciat subdivisionnaire de Villeurbanne-Division Est |
 
 Adjoint au chef UIAAP |
@@ -3602,6 +3558,18 @@ Chef UIAAP |
 
 69 |
 
+DDSP/69/ Rhône/ EM |
+
+Adjoint à l'EM |
+
+69 |
+
+DDSP69/ SD/ Rhône |
+
+Chef USES |
+
+69 |
+
 DDSP69/ SD/ URJ Rhône |
 
 Chef d'unité SD-URJ |
@@ -3610,7 +3578,7 @@ Chef d'unité SD-URJ |
 
 DDSP69/ SDN Rhône |
 
-Adjoint au chef SDN |
+Adjoint au SDN |
 
 69 |
 
@@ -3630,15 +3598,9 @@ DDSP69/ SOP/ BAC Rhône |
 
 Chef BAC |
 
-69 |
-
-DDSP69/ SOP/ BAC Rhône |
-
-Officier BAC |
-
 SGAMI de Marseille |
 
-145 |
+141 |
 
 6 |
 
@@ -3662,7 +3624,7 @@ Chef SRT |
 
 DDSP06/ Alpes Maritimes-SND |
 
-Adjojnt au chef SND |
+Adjoint au chef SND |
 
 6 |
 
@@ -3812,12 +3774,6 @@ Chef UIAAP |
 
 DDSP13/ CSP Istres |
 
-Adjoint au chef BSU |
-
-13 |
-
-DDSP13/ CSP Istres |
-
 Adjoint au chef de circonscription |
 
 13 |
@@ -3843,12 +3799,6 @@ Chef UIAAP |
 DDSP13/ CSP Marseille-Division Centre |
 
 Adjoint au chef du commissariat central de Marseille |
-
-13 |
-
-DDSP13/ CSP Marseille-Division Centre |
-
-Adjoint au Chef GSP |
 
 13 |
 
@@ -3972,12 +3922,6 @@ Chef URJ-AB |
 
 13 |
 
-DDSP13/ CSP Marseille-Division Sud |
-
-Coordonateur Divisionnaire |
-
-13 |
-
 DDSP13/ CSP Marseille-Division Sud-08e arrondissement |
 
 Chef du Commissariat de secteur |
@@ -4058,7 +4002,7 @@ Chef URJ |
 
 DDSP13/ CSP Vitrolles |
 
-Coordonateur CSP |
+Coordonnateur CSP |
 
 13 |
 
@@ -4238,7 +4182,7 @@ Officier SND |
 
 DDSP31/ CSP Toulouse/ Division Toulouse Rive Droite |
 
-Adjoiint au chef SU |
+Adjoint au chef SU |
 
 31 |
 
@@ -4268,7 +4212,7 @@ Chef UPS |
 
 DDSP31/ CSP Toulouse/ Division Toulouse Rive Gauche |
 
-Adjoiint au chef SU |
+Adjoint au chef SU |
 
 31 |
 
@@ -4416,7 +4360,7 @@ Officier SND |
 
 66 |
 
-DDSP66/ CSP Perpignan |
+DDSP66/ CSP Perpignan-SD |
 
 Adjoint au chef SD |
 
@@ -4424,23 +4368,23 @@ Adjoint au chef SD |
 
 DDSP66/ CSP Perpignan |
 
-Adjoint au chef SIAAP |
+Adjoint au chef SVP |
 
 66 |
 
-DDSP66/ SCN Perpignan |
+DDSP66/ Pyrénées Orientales-SND |
 
-Chef SCN |
-
-66 |
-
-DDSP66/ SCN Perpignan |
-
-Chef SCN adjoint |
+Chef SND |
 
 66 |
 
-DDSP66/ SDRT Pyrénées Orientales rés. Perpignan |
+DDSP66/ Pyrénées Orientales-SND |
+
+Adjoint au chef SND |
+
+66 |
+
+DDSP66/ Pyrénées Orientales-RT |
 
 Adjoint au chef SDRT |
 
@@ -4467,12 +4411,6 @@ Chef UAO |
 DDSP84/ CISP Vaucluse-Gard |
 
 Chef UPS |
-
-84 |
-
-DDSP84/ CISP Vaucluse-Gard |
-
-Chef UAP |
 
 84 |
 
@@ -4612,7 +4550,7 @@ Officier SND |
 
 SGAMI de Rennes |
 
-31 |
+30 |
 
 27 |
 
@@ -4643,10 +4581,6 @@ Adjoint au chef SD |
 DDSP28/ CSP Chartres |
 
 Adjoint au chef SVP |
-
-28 |
-
-NON IMPLANTEE |
 
 28 |
 
@@ -4798,123 +4732,7 @@ DDSP76/ Seine-Maritime-RT |
 
 Chef du SRT |
 
-SGAP de Guadeloupe |
-
-8 |
-
-971 |
-
-DDSP971/ CSP Pointe-à-Pitre |
-
-Adjoint au chef SD |
-
-971 |
-
-DDSP971/ CSP Pointe-à-Pitre |
-
-Adjoint au chef SVP |
-
-971 |
-
-DDSP971/ CSP Pointe-à-Pitre |
-
-Chef UAB |
-
-971 |
-
-DDSP971/ CSP Pointe-à-Pitre |
-
-Chef UOP |
-
-971 |
-
-DDSP971/ CSP Pointe-à-Pitre |
-
-Coordonateur Territorial |
-
-971 |
-
-DDSP971/ Guadeloupe-RT |
-
-Adjoint au chef SDRT |
-
-971 |
-
-DDSP971/ Guadeloupe-SND |
-
-Adjoint au chef SND |
-
-971 |
-
-DDSP971/ Guadeloupe-SND |
-
-Chef SND |
-
-SGAP de Martinique |
-
-10 |
-
-972 |
-
-DDSP972/ CSP Fort-de-France |
-
-Adjoint au chef SD |
-
-972 |
-
-DDSP972/ CSP Fort-de-France |
-
-Adjoint au chef SVP |
-
-972 |
-
-DDSP972/ CSP Fort-de-France |
-
-Chef UAP |
-
-972 |
-
-DDSP972/ CSP Fort-de-France |
-
-Chef UOP |
-
-972 |
-
-DDSP972/ CSP Le Lamentin |
-
-Chef SU |
-
-972 |
-
-DDSP972/ CSP Le Lamentin |
-
-Chef SVP |
-
-972 |
-
-DDSP972/ Martinique-SND |
-
-Chef SND |
-
-972 |
-
-DDSP972/ Martinique-SND |
-
-Adjoint au chef SND |
-
-972 |
-
-DDSP972/ CSP Fort-de-France |
-
-Chef UAO |
-
-972 |
-
-DDSP972/ Martinique-RT |
-
-Adjoint au chef SDRT |
-
-DTPN : 14 postes
+DTPN : 32 postes
 
 DEPT |
 
@@ -4922,87 +4740,203 @@ AFFECTATION |
 
 FONCTIONS |
 
+SATPN de Guadeloupe |
+
+8 |
+
+971 |
+
+DTPN/971/ STPAF/ Pointe-à-Pitre |
+
+Adjoint du chef STPAF |
+
+971 |
+
+DTPN/971/ STPJ |
+
+Chef des divisions de l'appui judiciaire et de l'investigation de proximité |
+
+971 |
+
+DTPN/971/ STPJ |
+
+Chef de la division de l'investigation de proximité |
+
+971 |
+
+DTPN/971/ STSP |
+
+Chef SND |
+
+971 |
+
+DTPN/971/ STSP |
+
+Adjoint chef SND |
+
+971 |
+
+DTPN/971/ STSP |
+
+Adjoint chef STSP |
+
+971 |
+
+DTPN/971/ STSP |
+
+Chef UPS |
+
+971 |
+
+DTPN/971/ SRT |
+
+Adjoint chef SRT |
+
+SATPN de Martinique |
+
+10 |
+
+972 |
+
+DTPN/972/ STPJ |
+
+Chef division investigation de proximité (DIP) |
+
+972 |
+
+DTPN/972/ STSP |
+
+Adjoint chef STSP |
+
+972 |
+
+DTPN/972/ STSP |
+
+Chef UAO |
+
+972 |
+
+DTPN/972/ STSP |
+
+Chef UOP |
+
+972 |
+
+DTPN/972/ CSP Le Lamentin |
+
+Chef du SPJ |
+
+972 |
+
+DTPN/972/ CSP Le Lamentin |
+
+Chef SVP |
+
+972 |
+
+DTPN/972/ SNT |
+
+Chef SND |
+
+972 |
+
+DTPN/972/ SNT |
+
+Adjoint au chef SND |
+
+972 |
+
+DTPN/972/ Service Territorial de la Police Judiciaire |
+
+Chef division appui judiciaire (DAJ) |
+
+972 |
+
+DTPN/972/ SRT |
+
+Adjoint au chef SRT |
+
 SATPN de Guyane |
 
 13 |
 
 973 |
 
-DCSP/ DTPN973 |
+DTPN973/ EM |
 
 Adjoint au chef d'état-major |
 
 973 |
 
-DCPAF/ STPAF973 |
-
-Chef CRA-Matoury |
-
-973 |
-
-DCPAF/ STPAF973 |
-
-Chef SPAFT Saint-Georges de l'Oyapock |
-
-973 |
-
-DCPAF/ STPAF973 |
-
-Chef SPAFT Saint-Laurent du Maroni |
-
-973 |
-
-DCPJ/ STPJ973 |
-
-Chef de la BMRT |
-
-973 |
-
-DCPJ/ STPJ973 |
-
-Chef UTIP |
-
-973 |
-
-DCSP/ DTPN973 |
+DTPN973/ EM |
 
 Chef SCN |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN973/ EM |
 
 Adjoint au chef SCN |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN973/ STPAF |
+
+Chef CRA-Matoury |
+
+973 |
+
+DTPN973/ STPAF |
+
+Chef SPAFT Saint-Georges de l'Oyapock |
+
+973 |
+
+DTPN973/ STPAF |
+
+Chef SPAFT Saint-Laurent du Maroni |
+
+973 |
+
+DTPN973/ STPJ |
+
+Chef UTAJ |
+
+973 |
+
+DTPN973/ STPJ |
+
+Chef UTIP |
+
+973 |
+
+DTPN973/ STPJ |
 
 Adjoint au chef UTIP |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN973/ STPJ |
 
-Chef du Groupe Economique et Social |
-
-973 |
-
-DCSP/ STSP973/ CSP |
-
-Chef UOP |
+Adjoint au chef UTIS |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN973/ STRT |
+
+Chef de groupe economique et social au SRT |
+
+973 |
+
+DTPN973/ STSP/ CSP |
 
 Chef UPS |
 
 973 |
 
-DCSP/ STSP973/ CSP |
+DTPN973/ STSP/ CSP |
 
-Chef UTAJ |
+Chef UOP |
 
 SATPN de Mayotte |
 
@@ -5010,7 +4944,7 @@ SATPN de Mayotte |
 
 976 |
 
-DCPAF/ STPAF976 |
+DTPN976/ STPAF |
 
 Adjoint au chef CRA |
 
@@ -5024,7 +4958,7 @@ FONCTIONS |
 
 Cabinet |
 
-5 |
+3 |
 
 75 |
 
@@ -5044,15 +4978,19 @@ Cabinet/ Conseiller Police |
 
 Chef de la mission analyse, synthèse et prospective |
 
+Direction des Transports et de la Protection du Public |
+
+2 |
+
 75 |
 
-Cabinet/ Service Opérationnel de Prévention Situationnelle |
+DTPP/ Service Opérationnel de Prévention Situationnelle |
 
 Adjoint au chef SOPS |
 
 75 |
 
-Cabinet/ Service Opérationnel de Prévention Situationnelle |
+DTPP/ Service Opérationnel de Prévention Situationnelle |
 
 Chef de la division audits et soutien opérationnel |
 
@@ -5086,7 +5024,7 @@ Adjoint au chef du bureau de gestion des carrières des commissaires et officier
 
 DRH/ SDP |
 
-Chef du bureau de gestion des carrières du commissaires et des officiers de police |
+Chef du bureau de gestion des carrières des commissaires et des officiers de police |
 
 Direction de l'Ordre Public de la Circulation |
 
@@ -5112,73 +5050,73 @@ Officier de salle |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 11è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI1/ 11è Compagnie d'Intervention |
 
 Adjoint au chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 11è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI1/ 11è Compagnie d'Intervention |
 
 Chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 12è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI1/ 12è Compagnie d'Intervention |
 
 Adjoint au chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 12è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI1/ 12è Compagnie d'Intervention |
 
 Chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 21è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI2/ 21è Compagnie d'Intervention |
 
 Adjoint au chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 21è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI2/ 21è Compagnie d'Intervention |
 
 Chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 22è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI2/ 22è Compagnie d'Intervention |
 
 Adjoint au chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 22è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGC/ SOPCI2I/ 22è Compagnie d'Intervention |
 
 Chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 31è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI3/ 31è Compagnie d'Intervention |
 
 Adjoint au chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 31è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI3/ 31è Compagnie d'Intervention |
 
 Chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 32è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI3/ 32è Compagnie d'Intervention |
 
 Adjoint au chef de compagnie |
 
 75 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ 32è Compagnie d'Intervention |
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI3/ 32è Compagnie d'Intervention |
 
 Chef de compagnie |
 
@@ -5204,13 +5142,19 @@ Chef de compagnie |
 
 DOPC/ SDOPAP/ DUOS/ SSO |
 
-Chef du service du soutien opérationnel |
+Chef du service de soutien opérationnel |
 
 75 |
 
-DOPC/ SDPIGTAP/ DGE/ SGSTP/ Compagnie de garde de la zone d'attente |
+DOPC/ SDOPAP/ DUOS/ SSO |
 
-Adjoint au chef de compagnie |
+Adjoint au chef du service du soutien opérationnel |
+
+75 |
+
+DOPC/ SDPIGTAP/ DGE/ Service de Garde et de Sûreté du Tribunal de Paris |
+
+Adjoint au chef de service |
 
 75 |
 
@@ -5241,12 +5185,6 @@ Adjoint au chef de compagnie |
 DOPC/ SDPIGTAP/ DSPI/ SPS/ Unité générale de protection |
 
 Chef d'unité |
-
-75 |
-
-DOPC/ SDPIGTAP/ DSPI/ SPS/ Unité générale de protection |
-
-Officier de jour |
 
 75 |
 
@@ -5364,13 +5302,13 @@ Chef de la cellule lutte contre la fraude aux prestations sociales |
 
 DPJ/ SDAEF/ Brigade de Répression de la Délinquance contre la Personne |
 
-Chef de la section 1 |
+Chef de section 1 |
 
 75 |
 
 DPJ/ SDAEF/ Brigade de Répression de la Délinquance contre la Personne |
 
-Chef de la section 2 |
+Chef de section 2 |
 
 75 |
 
@@ -5418,13 +5356,13 @@ Chef de section T2 |
 
 DPJ/ SDBC/ Brigade de l'Exécution des Décisions de Justice |
 
-Coordonnateur de la section opérationnelle n° 2 |
+Chef de section opérationnelle n° 2 |
 
 75 |
 
 DPJ/ SDBC/ Brigade de l'Exécution des Décisions de Justice |
 
-Coordonnateur de la section opérationnelle n° 1 |
+Chef de section opérationnelle n° 1 |
 
 75 |
 
@@ -5436,7 +5374,7 @@ Adjoint au commissaire chef de section |
 
 DPJ/ SDBC/ Brigade de Protection des Mineurs |
 
-Chef de groupe internet |
+Chef groupes internet |
 
 75 |
 
@@ -5448,19 +5386,19 @@ Chef de groupe proxénétisme |
 
 DPJ/ SDBC/ Brigade de Recherche et d'Intervention |
 
-Adjoint au chef de section |
+Adjoint au chef de section recherche et intervention |
 
 75 |
 
 DPJ/ SDBC/ Brigade de Recherche et d'Intervention |
 
-Chef de la section planification, coordination, développement et formation |
+Chef de section appui et soutien opérationnelle |
 
 75 |
 
 DPJ/ SDBC/ Brigade de Recherche et d'Intervention |
 
-Chef d'état-major |
+Chef d'état major |
 
 75 |
 
@@ -5478,13 +5416,13 @@ Chef des groupes V. M. A. |
 
 DPJ/ SDBC/ Brigade de Répression du Proxénétisme |
 
-Chef de la section voie publique |
+Chef de section voie publique |
 
 75 |
 
 DPJ/ SDBC/ Brigade de Répression du Proxénétisme |
 
-Chef du groupe cabarets |
+Chef groupe cabarets |
 
 75 |
 
@@ -5508,25 +5446,25 @@ Chef de la division du soutien à l'investigation |
 
 DPJ/ SDSI/ Service Régional de Documentation Criminelle |
 
-Chef de l'unité des univers statistiques institutionnels |
+Chef U2SI (unité des univers statistiques institutionnels) |
 
 75 |
 
-DPJ/ SDSI/ Service Régional de l'Identité Judiciaire |
+DPJ/ SDSI/ Service Régional de Police Technique et Scientifique |
 
-Chef de l'antenne d'identité judiciaire (93) |
-
-75 |
-
-DPJ/ SDSI/ Service Régional de l'Identité Judiciaire |
-
-Chef de section chargé des SDIJ |
+Chef de l'antenne départementale de PTS du 93 |
 
 75 |
 
-DPJ/ SDSI/ Service Régional de l'Identité Judiciaire |
+DPJ/ SDSI/ Service Régional de Police Technique et Scientifique |
 
-Chef de section dactyloscopie et F. A. E. D. |
+Chef des antennes départementales de PTS |
+
+75 |
+
+DPJ/ SDSI/ Service Régional de Police Technique et Scientifique |
+
+Chef de section identification/ F. A. E. D. |
 
 75 |
 
@@ -5538,31 +5476,31 @@ Chef du pôle CITS-matériel |
 
 DPJ/ ST/ 1er District de Police Judiciaire |
 
-Adjoint au chef de section Enquêtes criminelles et vol par effractions |
+Adjoint au chef de section enquêtes criminelles et vol par effractions |
 
 75 |
 
 DPJ/ ST/ 2è District de Police Judiciaire |
 
-Adjoint au chef de groupe initiatives et stupéfiants N° 2 (Cités) |
+Adjoint au chef de groupe initiatives et stupéfiants (GIS) N° 2 (Cités) |
 
 75 |
 
 DPJ/ ST/ 2è District de Police Judiciaire |
 
-Adjoint chef de section enquêtes générales et financières |
+Adjoint chef de section enquêtes et recherches |
 
 75 |
 
 DPJ/ ST/ 2è District de Police Judiciaire |
 
-Chef de groupe initiatives stupéfiants N° 2 (Cités) |
+Chef de groupe initiatives stupéfiants (GIS) N° 2 (Cités)-Référent gestion des sources humaines |
 
 75 |
 
 DPJ/ ST/ 3è District de Police Judiciaire |
 
-Adjoint au chef de section groupes enquêtes GRB et VAE |
+Adjoint au chef de section groupes enquêtes GRB et vols avec effraction |
 
 75 |
 
@@ -5660,323 +5598,175 @@ DPJ/ ST/ Service Départemental de Police Judiciaire 94 |
 
 Chef de groupe enquêtes et recherches ouest |
 
-Direction du Renseignement |
-
-23 |
-
-75 |
-
-DR |
-
-Adjoint au chef de division |
-
-75 |
-
-DR |
-
-Adjoint au chef de section |
-
-75 |
-
-DR |
-
-Adjoint au chef de section |
-
-75 |
-
-DR |
-
-Adjoint au chef de section |
-
-75 |
-
-DR |
-
-Adjoint au chef de subdivision |
-
-75 |
-
-DR |
-
-Chef de groupe |
-
-75 |
-
-DR |
-
-Chef de groupe |
-
-75 |
-
-DR |
-
-Chef de groupe |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef de section |
-
-75 |
-
-DR |
-
-Chef du bureau d'ordre division |
-
-92 |
-
-DR |
-
-Chef de section |
-
-93 |
-
-DR |
-
-Chef de section |
-
-94 |
-
-DR |
-
-Adjoint au chef de section |
-
-94 |
-
-DR |
-
-Chef de section |
-
 Direction de la Sécurité de Proximité de l'Agglomération Parisienne |
 
 150 |
 
 75 |
 
-DSPAP/ DTSP75 |
+DSPAP/ DT75 |
 
 Chef de l'unité de coordination territoriale |
 
 75 |
 
-DSPAP/ DTSP75/ D1 |
+DSPAP/ DT75/ D1 |
 
 Chef UCD |
 
 75 |
 
-DSPAP/ DTSP75/ D1/ Comiisariat de Police Centre |
+DSPAP/ DT75/ D1/ Paris Centre |
 
 Adjoint au chef SAIP |
 
 75 |
 
-DSPAP/ DTSP75/ D2 |
+DSPAP/ DT75/ D2 |
 
 Adjoint au chef UCD |
 
 75 |
 
-DSPAP/ DTSP75/ D2 |
+DSPAP/ DT75/ D2 |
 
 Chef UCD |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 08e |
+DSPAP/ DT75/ D2/ Commissariat de Police 08e |
 
 Adjoint chef SAIP |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 16e |
+DSPAP/ DT75/ D2/ Commissariat de Police 16e |
 
 Chef UTTR |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 18e |
-
-Adjoint au chef SAIP |
-
-75 |
-
-DSPAP/ DTSP75/ D2/ Commissariat de Police 18e |
+DSPAP/ DT75/ D2/ Commissariat de Police 18e |
 
 Adjoint au chef SSQ |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 18e |
+DSPAP/ DT75/ D2/ Commissariat de Police 18e |
 
 Chef UIRE |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de police 18e |
+DSPAP/ DT75/ D2/ Commissariat de police 18e |
 
 Chef UTTR |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 18e |
+DSPAP/ DT75/ D2/ Commissariat de Police 18e |
 
-Officier SSQ-en charge des BPS |
+Officier SSQ-en charge des BPS Jour |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 18e |
+DSPAP/ DT75/ D2/ Commissariat de Police 18e |
 
 Officier SSQ-en charge des BTC/ BAC |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 18e |
+DSPAP/ DT75/ D2/ Commissariat de Police 18e |
 
 Officier SSQ-en charge des unités de nuit |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 19e |
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
 
 Adjoint au chef SAIP |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 19e |
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
 
 Adjoint au chef SSQ |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 19e |
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
 
 Adjoint au chef UTTR |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 19e |
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
 
 Chef UIRE |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 19e |
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
 
 Officier SSQ-en charge des BTC/ BAC |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 19e |
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
+
+Officier SSQ-en charge des BPJ de jour |
+
+75 |
+
+DSPAP/ DT75/ D2/ Commissariat de Police 19e |
 
 Officier SSQ-en charge des unités de nuit |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 20e |
+DSPAP/ DT75/ D2/ Commissariat de Police 20e |
 
 Adjoint au chef SAIP |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 20e |
+DSPAP/ DT75/ D2/ Commissariat de Police 20e |
 
 Adjoint au chef SSQ |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 20e |
+DSPAP/ DT75/ D2/ Commissariat de Police 20e |
 
 Chef UTTR |
 
 75 |
 
-DSPAP/ DTSP75/ D2/ Commissariat de Police 20e |
+DSPAP/ DT75/ D2/ Commissariat de Police 20e |
 
 Officier SSQ-en charge des BTC/ BAC |
 
 75 |
 
-DSPAP/ DTSP75/ D3 |
+DSPAP/ DT75/ D3 |
 
 Chef UCD |
 
 75 |
 
-DSPAP/ DTSP75/ ST75 |
-
-Adjoint au chef du pole délinquance acquisitive |
-
-75 |
-
-DSPAP/ DTSP75/ ST75 |
+DSPAP/ DT75/ ST75 |
 
 Chef du groupe Quartiers Sensibles |
 
 75 |
 
-DSPAP/ DTSP75/ ST75 |
+DSPAP/ DT75/ ST75 |
 
 Chef du pôle délinquance acquisitive |
 
 75 |
 
-DSPAP/ DTSP75/ ST75 |
+DSPAP/ DT75/ ST75 |
 
 Chef du pôle territoire |
 
@@ -5990,12 +5780,6 @@ Chef de la division partenariat et prévention |
 
 DSPAP/ EM |
 
-Chef du pôle planification |
-
-75 |
-
-DSPAP/ EM |
-
 Adjoint au chef de la division études |
 
 75 |
@@ -6003,6 +5787,12 @@ Adjoint au chef de la division études |
 DSPAP/ EM |
 
 Chef du pôle information et commandement |
+
+75 |
+
+DSPAP/ SDLII/ DCFM/ ULII75 |
+
+Chef de l'unité de lutte contre l'immigration irrégulière (75) |
 
 75 |
 
@@ -6030,13 +5820,19 @@ Coordonnateur opérationnel |
 
 75 |
 
-DSPAP/ SDLII/ DCRAP |
+DSPAP/ SDLII/ DCRA |
 
 Adjoint au chef de service |
 
 75 |
 
-DSPAP/ SDLII/ DCRAP |
+DSPAP/ SDLII/ DCRA |
+
+Officier de jour |
+
+75 |
+
+DSPAP/ SDLII/ DCRA |
 
 Officier de nuit |
 
@@ -6080,13 +5876,19 @@ Chef de l'unité de recherche et d'investigation |
 
 DSPAP/ SDRPT/ BRF/ SRT |
 
-Chef d'état-major |
+Chef d'état-major SRT |
 
 75 |
 
 DSPAP/ SDRPT/ EM |
 
-Chef d'état-major |
+Chef BCO-Adjoint chef EM |
+
+75 |
+
+DSPAP/ SDRPT/ EM |
+
+Chef de centre de coordination opérationnelle de sécurité |
 
 75 |
 
@@ -6102,109 +5904,103 @@ Chef UCO |
 
 92 |
 
-DSPAP/ DTSP92/ BJN |
+DSPAP/ DT92/ Hauts de Seine |
 
 Chef de brigade judiciaire |
 
 92 |
 
-DSPAP/ DTSP92/ BJN |
+DSPAP/ DT92/ Hauts de Seine |
 
 Chef de brigade judiciaire |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Asnières |
+DSPAP/ DT92/ D1/ Asnières |
 
 Adjoint au chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Asnières |
+DSPAP/ DT92/ D1/ Asnières |
 
 Chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Colombes |
+DSPAP/ DT92/ D1/ Colombes |
 
 Adjoint au chef de Circonscription |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Colombes |
+DSPAP/ DTP92/ D1/ Colombes |
 
 Adjoint auchef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Colombes |
+DSPAP/ DT92/ D1/ Colombes |
 
 Chef SAIP |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Colombes |
+DSPAP/ DT92/ D1/ Colombes |
 
 Chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Gennevilliers |
+DSPAP/ DT92/ D1/ Gennevilliers |
 
 Adjoint au chef de circonscription |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Gennevilliers |
+DSPAP/ DT92/ D1/ Gennevilliers |
 
 Adjoint au chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D1/ Gennevilliers |
-
-Chef SAIP |
-
-92 |
-
-DSPAP/ DTSP92/ D1/ Gennevilliers |
+DSPAP/ DT92/ D1/ Gennevilliers |
 
 Chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D2/ Nanterre |
+DSPAP/ DT92/ D2/ Nanterre |
 
 Adjoint au chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D2/ Puteaux-La Défense |
+DSPAP/ DT92/ D2/ Puteaux-La Défense |
 
 Chef SAIP |
 
 92 |
 
-DSPAP/ DTSP92/ D2/ Puteaux-La Défense |
+DSPAP/ DT92/ D2/ Puteaux-La Défense |
 
 Chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D4/ Bagneux |
+DSPAP/ DT92/ D4/ Bagneux |
 
 Chef SAIP |
 
 92 |
 
-DSPAP/ DTSP92/ D4/ Bagneux |
+DSPAP/ DT92/ D4/ Bagneux |
 
 Chef SSQ |
 
 92 |
 
-DSPAP/ DTSP92/ D4/ Clamart |
+DSPAP/ DT92/ D4/ Clamart |
 
 Adjoint au chef de circonscription |
 
@@ -6216,19 +6012,19 @@ Adjoint au chef de circonscription |
 
 92 |
 
-DSPAP/ DTSP92/ D4/ Montrouge |
+DSPAP/ DT92/ D4/ Montrouge |
 
 Chef SAIP |
 
 92 |
 
-DSPAP/ DTSP92/ EM |
+DSPAP/ DT92/ EM |
 
 Adjoint chef d'état-major |
 
 92 |
 
-DSPAP/ DTSP92/ EM |
+DSPAP/ DT92/ Hauts de Seine |
 
 Chef du Pôle Analyses et Méthodes |
 
@@ -6240,297 +6036,297 @@ Adjoint au chef CSI |
 
 93 |
 
-DSPAP/ DTSP93/ D1/ Bobigny |
+DSPAP/ DT93/ D1/ Bobigny |
 
-Adjoint chef SAIP |
-
-93 |
-
-DSPAP/ DTSP93/ D1/ Bondy |
-
-Chef SAIP |
+Chef UIRE-Adjoint chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D1/ Drancy |
+DSPAP/ DT93/ D1/ Bondy |
 
 Adjoint au chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ D1/ Drancy |
+DSPAP/ DT93/ D1/ Bondy |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D1/ Les Lilas |
+DSPAP/ DT93/ D1/ Drancy |
+
+Adjoint au chef de circonscription |
+
+93 |
+
+DSPAP/ DT93/ D1/ Drancy |
+
+Chef SAIP |
+
+93 |
+
+DSPAP/ DT93/ D1/ Les Lilas |
 
 Chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D1/ Pantin |
+DSPAP/ DT93/ D1/ Pantin |
 
 Adjoint au chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ D1/ Pantin |
+DSPAP/ DT93/ D1/ Pantin |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Aubervilliers |
+DSPAP/ DT93/ D2/ Aubervilliers |
 
 Adjoint chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Aubervilliers |
+DSPAP/ DT93/ D2/ Aubervilliers |
 
-Chef UIRE |
+Chef UIRE, adjoint chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Aubervilliers |
+DSPAP/ DT93/ D2/ Aubervilliers |
 
 Chef UTTR |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Bondy |
+DSPAP/ DT93/ D2/ Epinay-sur-Seine |
 
 Adjoint au chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Epinay-sur-Seine |
-
-Adjoint au chef de circonscription |
-
-93 |
-
-DSPAP/ DTSP93/ D2/ Epinay-sur-Seine |
+DSPAP/ DT93/ D2/ Epinay-sur-Seine |
 
 Chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ La Courneuve |
+DSPAP/ DT93/ D2/ La Courneuve |
 
 Adjoint au chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ La Courneuve |
+DSPAP/ DT93/ D2/ La Courneuve |
+
+Chef SAIP |
+
+93 |
+
+DSPAP/ DT93/ D2/ La Courneuve |
 
 Adjoint au chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ La Courneuve |
+DSPAP/ DT93/ D2/ La Courneuve |
 
 Chef BTJTR |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ La Courneuve |
+DSPAP/ DT93/ D2/ La Courneuve |
 
 Chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ La Courneuve |
+DSPAP/ DT93/ D2/ La Courneuve |
 
 Chef UIRE, adjoint au chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ La Courneuve |
+DSPAP/ DT93/ D2/ La Courneuve |
 
 Chef UTTR |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Denis |
+DSPAP/ DT93/ D2/ Saint-Denis |
 
 Adjoint au chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Denis |
+DSPAP/ DT93/ D2/ Saint-Denis |
 
 Adjoint au chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Denis |
+DSPAP/ DT93/ D2/ Saint-Denis |
 
 Chef UIRE |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Denis |
+DSPAP/ DT93/ D2/ Saint-Denis |
 
 Chef UTTR |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Ouen |
+DSPAP/ DT93/ D2/ Saint-Ouen |
 
 Adjoint au chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Ouen |
+DSPAP/ DT93/ D2/ Saint-Ouen |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Ouen |
+DSPAP/ DT93/ D2/ Saint-Ouen |
 
 Chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Saint-Ouen |
+DSPAP/ DT93/ D2/ Saint-Ouen |
 
 Chef UIRE, Adjoint au chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Stains |
+DSPAP/ DT93/ D2/ Stains |
 
 Adjoint chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Stains |
+DSPAP/ DT93/ D2/ Stains |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Stains |
+DSPAP/ DT93/ D2/ Stains |
 
 Chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D2/ Stains |
+DSPAP/ DT93/ D2/ Stains |
 
 Chef UIRE, Adjoint chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D3/ Aulnay-sous-Bois |
+DSPAP/ DTSP93/ D3/ Aulnay-sous-Bois (Sevran) |
 
 Adjoint au chef du commissariat subdivisionnaire de Sevran |
 
 93 |
 
-DSPAP/ DTSP93/ D3/ Aulnay-sous-Bois |
+DSPAP/ DT93/ D3/ Aulnay-sous-Bois |
 
 Adjoint au chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D3/ Le Blanc-Mesnil |
+DSPAP/ DT93/ D3/ Le Blanc-Mesnil |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D4/ Clichy-Montfermeil |
+DSPAP/ DT93/ D4/ Clichy-Montfermeil |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D4/ Montreuil-sous-Bois |
+DSPAP/ DT93/ D4/ Montreuil-sous-Bois |
 
 Chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D4/ Montreuil-sous-Bois |
+DSPAP/ DT93/ D4/ Montreuil-sous-Bois |
 
 Chef SSQ |
 
 93 |
 
-DSPAP/ DTSP93/ D4/ Montreuil-sous-Bois |
+DSPAP/ DT93/ D4/ Montreuil-sous-Bois |
 
 Chef UIRE, Adjoint au chef SAIP |
 
 93 |
 
-DSPAP/ DTSP93/ D4/ Noisy-le-Grand |
+DSPAP/ DT93/ D4/ Noisy-le-Grand |
 
 Adjoint au chef de circonscription |
 
 93 |
 
-DSPAP/ DTSP93/ EM |
+DSPAP/ DT93/ Seine-Saint-Denis |
 
 Adjoint au chef BJN |
 
 93 |
 
-DSPAP/ DTSP93/ EM |
+DSPAP/ DT93/ Seine-Saint-Denis |
 
 Chef BJN |
 
 93 |
 
-DSPAP/ DTSP93/ EM |
+DSPAP/ DT93/ EM |
 
 Chef SPO |
 
 93 |
 
-DSPAP/ DTSP93/ Sûreté territoriale |
+DSPAP/ DT93/ Seine-Saint-Denis-ST |
 
 Adjoint au chef BPF |
 
 93 |
 
-DSPAP/ DTSP93/ Sûreté territoriale |
+DSPAP/ DT93/ Seine-Saint-Denis-ST |
 
 Chef adjoint à la ST |
 
 93 |
 
-DSPAP/ DTSP93/ Sûreté territoriale |
+DSPAP/ DT93/ Seine-Saint-Denis-ST |
 
 Chef BPF |
 
 93 |
 
-DSPAP/ DTSP93/ Sûreté territoriale |
+DSPAP/ DT93/ Seine-Saint-Denis-ST |
 
 Chef de la brigade des stupéfiants |
 
 93 |
 
-DSPAP/ DTSP93/ Unité d'appui opérationnel |
+DSPAP/ DT93/ EM |
 
 Chef BAC |
 
 93 |
 
-DSPAP/ DTSP93/ Unité d'appui opérationnel |
+DSPAP/ DT93/ EM |
 
 Chef CGP |
-
-93 |
-
-DSPAP/ SDLII/ DCFM/ ULII93 |
-
-Adjoint au Chef ULII 93 |
 
 93 |
 
@@ -6540,145 +6336,151 @@ Adjoint au chef CSI |
 
 94 |
 
-DSPAP/ DTSP94/ Champigny-sur-Marne |
+DSPAP/ DT94/ Champigny-sur-Marne |
 
 Adjoint au chef de circonscription |
 
 94 |
 
-DSPAP/ DTSP94/ Champigny-sur-Marne |
+DSPAP/ DT94/ Champigny-sur-Marne |
 
 Chef SSQ |
 
 94 |
 
-DSPAP/ DTSP94/ D1/ Boissy-Saint-Léger |
+DSPAP/ DT94/ D1/ Boissy-Saint-Léger |
 
 Adjoint au chef de circonscription |
 
 94 |
 
-DSPAP/ DTSP94/ D1/ Créteil |
+DSPAP/ DT94/ D1/ Créteil |
 
 Chef SSQ |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Choisy-le-Roi |
+DSPAP/ DT94/ D2/ Choisy-le-Roi |
 
 Chef SAIP |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Choisy-le-Roi |
+DSPAP/ DT94/ D2/ Choisy-le-Roi |
 
 Chef SSQ |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Ivry-sur-Seine |
+DSPAP/ DT94/ D2/ Ivry-sur-Seine |
 
 Adjoint au chef de circonscription |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Ivry-sur-Seine |
+DSPAP/ DT94/ D2/ Ivry-sur-Seine |
 
 Chef SAIP |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Villeneuve-Saint-Georges |
+DSPAP/ DT94/ D2/ Villeneuve-Saint-Georges |
 
 Adjoint au chef de circonscription |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Villeneuve-Saint-Georges |
+DSPAP/ DT94/ D2/ Villeneuve-Saint-Georges |
 
 Chef SAIP |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Villeneuve-Saint-Georges |
+DSPAP/ DT94/ D2/ Villeneuve-Saint-Georges |
 
 Chef SSQ |
 
 94 |
 
-DSPAP/ DTSP94/ D2/ Vitry-sur-Seine |
+DSPAP/ DT94/ D2/ Vitry-sur-Seine |
 
 Chef SSQ |
 
 94 |
 
-DSPAP/ DTSP94/ D3/ Le Kremlin-Bicêtre |
+DSPAP/ DT94/ D3/ Le Kremlin-Bicêtre |
 
 Chef SSQ |
 
 94 |
 
-DSPAP/ DTSP94/ D3/ L'Haÿ-les-Roses |
+DSPAP/ DTP94/ D3/ L'Haÿ-les-Roses |
 
 Chef SAIP |
 
 94 |
 
-DSPAP/ DTSP94/ D4/ Chennevières-sur-Marne |
+DSPAP/ DT94/ D4/ Chennevières-sur-Marne |
 
 Adjoint au chef de circonscription |
 
 94 |
 
-DSPAP/ DTSP94/ D4/ Nogent-sur-Marne |
+DSPAP/ DT94/ D4/ Nogent-sur-Marne |
 
 Chef SAIP |
 
 94 |
 
-DSPAP/ DTSP94/ EM |
+DSPAP/ DT94/ EM |
 
-Chef du groupe 1 à la brigade judiciaire de nuit |
-
-94 |
-
-DSPAP/ DTSP94/ EM |
-
-Chef du groupe 2 à la brigade judiciaire de nuit |
+Chef de groupe 1 de la brigade judiciaire de nuit |
 
 94 |
 
-DSPAP/ DTSP94/ Sûreté territoriale |
+DSPAP/ DT94/ EM |
 
-Chef BTPF |
+Chef de groupe 2 de la brigade judiciaire de nuit |
 
 94 |
 
-DSPAP/ DTSP94/ Sûreté territoriale |
+DSPAP/ DT94/ Val de Marne-ST |
+
+Chef de la brigade territoriale de protection de la famille |
+
+94 |
+
+DSPAP/ DT94/ Val de Marne-ST |
 
 Chef de la 1ère BST |
 
 94 |
 
-DSPAP/ DTSP94/ Sûreté territoriale |
+DSPAP/ DT94/ Val de Marne-ST |
+
+Chef de la 2ème BST |
+
+94 |
+
+DSPAP/ DT94/ Val de Marne-ST |
 
 Chef de la 3ème BST |
 
 94 |
 
-DSPAP/ DTSP94/ Sûreté territoriale |
+DSPAP/ DTSP94/ Val de Marne-ST |
 
 Chef de la 4ème BST |
 
 94 |
 
-DSPAP/ DTSP94/ Sûreté territoriale |
+DSPAP/ DT94/ Val de Marne-ST |
 
 Chef de la brigade des stupéfiants |
 
 94 |
 
-DSPAP/ DTSP94/ Sûreté territoriale |
+DSPAP/ DT94/ Val de Marne-ST |
 
 Chef de la cellulle anti-cambriolage |
 
@@ -6700,18 +6502,14 @@ DSPAP/ SDSS/ SN94 |
 
 Chef BAC de nuit |
 
-94 |
-
-PP/ DSPAP/ SDLII/ DCRAP |
-
-Officier jour |
+PP/ Direction du Renseignement : 23 postes
 
 DGSI : 40 postes
 
 La liste des postes difficiles de la DGSI fait l'objet d'un arrêté distinct, non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
-Total : 1 122 postes.
+Total : 1 112 postes
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 27 janvier 2022, ces dispositions entrent en vigueur le 1er septembre 2021.
+Conformément à l'article 2 de l'arrêté du 8 juillet 20222 (NOR : IOMC2212315A), ces dispositions entrent en vigueur le 1er janvier 2022.
