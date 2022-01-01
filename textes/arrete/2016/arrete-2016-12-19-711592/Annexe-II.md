@@ -32,7 +32,7 @@ Communautés de brigades de Rethel et de Revin |
 
 09-Ariège |
 
-Brigade territoriale autonome de Saint-Girons |
+Communautés de brigades de Saint-Girons |
 
 10-Aube |
 
@@ -88,7 +88,7 @@ Communautés de brigades de Bernay et de Pont-Audemer
 
 Brigade territoriale autonome de Les Andelys |
 
-28-Eure et Loir |
+28-Eure-et-Loir |
 
 Communautés de brigades de Châteaudun, de Dreux et de Nogent-le-Rotrou |
 
@@ -138,7 +138,7 @@ Brigades territoriales autonomes de Pont-de-Chéruy et de Villefontaine |
 
 Communauté de brigades de Saint-Claude |
 
-41-Loir-et-cher |
+41-Loir-et-Cher |
 
 Brigade territoriale autonome de Romorantin-Lanthenay |
 
@@ -198,9 +198,9 @@ Brigades territoriales autonomes de Caudry, de Fourmies et de Thumeries |
 
 60-Oise |
 
-Communautés de brigades de Clermont, de Crépy-en-Valois, de Méru, de Noyon, et de Pont-Sainte-Maxence
+Communautés de brigades de Crépy-en-Valois, de Noyon et de Pont-Sainte-Maxence
 
-Brigades territoriales autonomes de Chambly et de Liancourt |
+Brigades territoriales autonomes de Chambly, de Clermont, de Liancourt et de Méru |
 
 61-Orne |
 
@@ -284,7 +284,7 @@ Brigade territoriale autonome de Brignoles |
 
 84-Vaucluse |
 
-Communauté de brigades de Pertuis
+Communauté de brigades du Perthuis
 
 Brigades territoriales autonomes de Bollène, d'Apt, du Pontet, de l'Isle-sur-la-Sorgue, de Sorgues, de Saint Saturnin-lès-Avignon et de Valréas |
 
@@ -296,13 +296,13 @@ Brigade territoriale autonome de Fontenay-le-Comte |
 
 Communautés de brigades d'Avallon et de Saint-Florentin |
 
-90-Territoire-de-Belfort |
+90-Territoire de Belfort |
 
 Communauté de brigades de Belfort |
 
 91-Essonne |
 
-Communautés de brigades de Bondoufle et de Saint-Pierre-du-Perray
+Communautés de brigades de Bondoufle et de Saint germain lès Corbeil
 
 Brigade territoriale autonome d'Egly |
 

@@ -24,7 +24,7 @@ Brigade territoriale autonome d'Hirson
 
 Brigade de recherches de Vervins
 
-Brigade de prévention de la délinquance juvénile de Laon |
+Maison de Protection des Familles de Laon |
 
 460 |
 
@@ -40,9 +40,9 @@ Communauté de brigades de Carros
 
 Brigades territoriales autonomes de Mouans-Sartoux Valbonne et de Levens
 
-Brigade de prévention de la délinquance juvénile de Cagnes-sur-Mer |
+Maison de Protection des Familles de Cagnes-sur-Mer |
 
-1450 |
+1 450 |
 
 07-Ardèche |
 
@@ -58,9 +58,9 @@ Communauté de brigades de Vrignes-aux-Bois
 
 Brigade territoriale autonome de Nouzonville
 
-Pelotons de surveillance et d'intervention de la gendarmerie de Vireux-Wallerand, de Rethel et de Sedan |
+Pelotons de surveillance et d'intervention de la gendarmerie de Vireux-Molhain, de Rethel et de Sedan |
 
-1210 |
+1 210 |
 
 10-Aube |
 
@@ -90,9 +90,9 @@ Pelotons de surveillance et d'intervention de la gendarmerie d'Aubagne, d'Aix-en
 
 Brigades de recherches d'Aubagne, d'Aix-en-Provence et d'Istres
 
-Brigade de prévention de la délinquance juvénile d'Aix-en-Provence |
+Maison de Protection des Familles d'Aix-en-Provence |
 
-1700 |
+1 700 |
 
 16-Charente |
 
@@ -134,7 +134,7 @@ Brigade de recherches de Montbéliard
 
 Peloton motorisé de Villars-sous-Ecot
 
-Brigade de prévention de la délinquance juvénile d'Etupes |
+Maison de Protection des Familles d'Estupes |
 
 520 |
 
@@ -164,9 +164,9 @@ Pelotons de surveillance et d'intervention de la gendarmerie d'Alès, de Vauvert
 
 Brigade de recherches de Nîmes
 
-Brigade de prévention de la délinquance juvénile de Caissargues |
+Maison de Protection des Familles de Caissargues |
 
-1200 |
+1 200 |
 
 31-Haute-Garonne |
 
@@ -174,15 +174,15 @@ Communauté de brigades de Saint-Jory, de L'Union, de Castanet-Tolosan, de Caste
 
 Brigade territoriale autonome de Léguevin
 
-Brigade de prévention de la délinquance juvénile de Cugnaux |
+Maison de Protection des Familles de Cugnaux |
 
-1150 |
+1 150 |
 
 34-Hérault |
 
 Peloton de surveillance et d'intervention de la gendarmerie de Lunel
 
-Brigade de prévention de la délinquance juvénile de Lunel |
+Maison de Protection des Familles de Lunel |
 
 170 |
 
@@ -190,7 +190,7 @@ Brigade de prévention de la délinquance juvénile de Lunel |
 
 Pelotons de surveillance et d'intervention de la gendarmerie de Vitré et de Rennes
 
-Brigade de prévention de la délinquance juvénile de Rennes |
+Maison de Protection des Familles de Rennes |
 
 390 |
 
@@ -200,7 +200,7 @@ Communauté de brigades de Saint-Clair-du-Rhône
 
 Brigades territoriales autonomes de La Verpillère, de Saint-Egrève, de Voreppe, de Vif, d'Eybens, de l'Isle-d'Abeau, du Pont-de-Claix, de Roussillon et de Chasse-sur-Rhône |
 
-2280 |
+2 280 |
 
 39-Jura |
 
@@ -212,13 +212,13 @@ Brigade de recherches de Saint-Claude |
 
 Brigades territoriales autonomes de Saint-Just-Saint-Rambert et d'Andrézieux-Bouthéon
 
-Brigade de prévention de la délinquance juvénile d'Andrézieux-Bouthéon |
+Maison de Protection des Familles d'Andrézieux-Bouthéon |
 
 290 |
 
 44-Loire-Atlantique |
 
-Brigade de prévention de la délinquance de Nantes |
+Maison de Protection des Familles de Nantes |
 
 100 |
 
@@ -228,7 +228,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Pithiviers
 
 Brigade de recherches de Pithiviers
 
-Brigade de prévention de la délinquance juvénile de Pithiviers |
+Maison de Protection des Familles de Pithiviers |
 
 270 |
 
@@ -240,7 +240,7 @@ Brigade de recherches de Vitry-le-François
 
 Brigade motorisée de Vitry-le-François
 
-Brigade de prévention de la délinquance juvénile de Reims |
+Maison de Protection des Familles de Reims |
 
 530 |
 
@@ -256,7 +256,7 @@ Brigade de recherches de Langres |
 
 54-Meurthe-et-Moselle |
 
-Brigade de prévention de la délinquance juvénile de Nancy |
+Maison de Protection des Familles de Nancy |
 
 100 |
 
@@ -268,7 +268,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Forbach
 
 Brigades de recherches de Forbach, de Metz et de Thionville |
 
-1020 |
+1 020 |
 
 58-Nièvre |
 
@@ -280,7 +280,7 @@ Brigade territoriale autonome de Marzy |
 
 Brigades territoriales autonomes de La Bassée, d'Orchies, du Quesnoy et d'Arleux |
 
-1510 |
+1 510 |
 
 60-Oise |
 
@@ -288,7 +288,7 @@ Pelotons de surveillance et d'intervention de la gendarmerie de Compiègne et de
 
 Brigades de recherches de Compiègne, de Saint-Crépin-Ibouvillers
 
-Brigade de prévention de la délinquance juvénile de Beauvais |
+Maison de Protection des Familles de Beauvais |
 
 730 |
 
@@ -322,13 +322,13 @@ Peloton de surveillance et d'intervention de la gendarmerie de Pollestres |
 
 67-Bas-Rhin |
 
-Brigades territoriales autonomes de Mundolsheim, de Wolfisheim, de La Wantzenau, de Geispolsheim, de Bischwiller, et d'Haguenau
+Brigades territoriales autonomes de Mundolsheim, de Wolfisheim, de La Wantzenau, de Geispolsheim, de Bischwiller et d'Haguenau
 
 Peloton de surveillance et d'intervention de la gendarmerie de Strasbourg
 
-Brigade de prévention de la délinquance juvénile de Strasbourg |
+Maison de Protection des Familles de Strasbourg |
 
-1510 |
+1 510 |
 
 68-Haut-Rhin |
 
@@ -340,9 +340,9 @@ Pelotons de surveillance et d'intervention de la gendarmerie de Cernay et de Mul
 
 Brigade de recherches de Mulhouse
 
-Brigade de prévention de la délinquance juvénile de Mulhouse |
+Maison de Protection des Familles de Mulhouse |
 
-1650 |
+1 650 |
 
 69-Rhône |
 
@@ -352,9 +352,9 @@ Pelotons de surveillance et d'intervention de la gendarmerie de Bron, de Dardill
 
 Brigades de recherches de Mions, de Givors, de L ‘ Arbresle et de Lyon
 
-Brigade de prévention de la délinquance juvénile de Lyon |
+Maison de Protection des Familles de Lyon |
 
-2200 |
+2 200 |
 
 70-Haute-Saône |
 
@@ -382,7 +382,7 @@ Brigade de recherches du Mans-Centre
 
 Brigade motorisée du Mans
 
-Brigade de prévention de la délinquance juvénile de Coulaines |
+Maison de Protection des Familles de Coulaines |
 
 990 |
 
@@ -414,7 +414,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Coulommiers
 
 Brigade de recherches de Coulommiers
 
-Brigade de prévention de la délinquance juvénile de Tournan-en-Brie |
+Maison de Protection des Familles de Tournan-en-Brie |
 
 550 |
 
@@ -430,9 +430,9 @@ Peloton motorisé de Mantes-la-jolie
 
 Brigade motorisée de Rambouillet
 
-Brigade de prévention de la délinquance juvénile de Bois D'Arcy |
+Maison de Protection des Familles de Bois D'Arcy |
 
-1380 |
+1 380 |
 
 81-Tarn |
 
@@ -444,7 +444,7 @@ Communauté de brigades de Labruguière |
 
 Pelotons de surveillance et d'intervention de la gendarmerie d'Hyères et de La-Valette-du-Var
 
-Brigade de prévention de la délinquance juvénile de Bandol |
+Maison de Protection des Familles de la Valette du Var |
 
 420 |
 
@@ -464,7 +464,7 @@ Brigades territoriales autonomes de Migennes et de Joigny
 
 Peloton de surveillance et d'intervention de la gendarmerie de Joigny |
 
-1060 |
+1 060 |
 
 95-Val-d'Oise |
 
@@ -476,9 +476,9 @@ Pelotons de surveillance et d'intervention de la gendarmerie de Domont
 
 Brigade de recherches de Pontoise
 
-Brigade de prévention de la délinquance juvénile de Pontoise |
+Maison de Protection des Familles de Pontoise |
 
-1030 |
+1 030 |
 
 971-Guadeloupe |
 
@@ -486,7 +486,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Saint-Martin
 
 Brigade motorisée de Saint-Martin
 
-Brigade de prévention de la délinquance juvénile de Baie-Mahault |
+Maison de Protection des Familles de Baie-Mahault |
 
 660 |
 
@@ -496,7 +496,7 @@ Brigade territoriale autonome de Saint-Joseph
 
 Peloton de surveillance et d'intervention de la gendarmerie de Fort-de-France
 
-Brigade de prévention de la délinquance juvénile de Fort-de-France |
+Maison de Protection des Familles de Fort-de-France |
 
 250 |
 
@@ -518,9 +518,9 @@ Brigades de recherches de Saint-Pierre, de Saint-Paul et de Saint-Benoît
 
 Section de recherches de Saint-Denis
 
-Brigade de prévention et de délinquance juvénile de Saint-Denis |
+Maison de Protection des Familles de Saint-Denis |
 
-1900 |
+1 900 |
 
 NOTA :
 
