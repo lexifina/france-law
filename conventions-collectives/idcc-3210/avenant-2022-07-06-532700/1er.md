@@ -1,0 +1,23 @@
+# Article 1er
+
+L'article 43 de la convention collective intitulé « Prime de diplôme » est remplacé par les dispositions suivantes :
+
+« Article 43
+
+Prime de diplôme
+
+Afin de prendre en compte les efforts de formation, tout salarié en activité, hors contrats d'apprentissage et de professionnalisation, reçoit en une seule fois, à l'obtention d'un diplôme par la voie de la formation professionnelle continue, une prime dont le montant est fixé comme suit :
+
+– 1 600 € – certificat IMB (intégration mobilité bancaire) en remplacement du BP banque et pour l'obtention de l'intégralité du parcours (4 blocs de compétence au jour de la signature du présent accord) ;
+
+– 1 600 euros – BTS Banque ;
+
+– 1 700 euros – licence professionnelle conseiller clientèle expert ;
+
+– 1 700 euros – licence professionnelle banque, cycle de professionnalisation certifié ” conseiller clientèle de professionnels ” ou cycle de développement professionnel certifié ” conseiller patrimonial agence ” ;
+
+– 1 700 euros – Bachelor conseiller bancaire clientèle de professionnels ;
+
+– 1 900 euros – MBA gestion de patrimoine ou master gestion de patrimoine ou CESB expert en gestion de patrimoine ;
+
+– 1 900 euros – ITB management bancaire. »
