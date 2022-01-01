@@ -1,0 +1,29 @@
+# Article 1er
+
+L'article 10.1.1 de l'accord du 10 novembre 2017 relatif à la sécurisation des parcours professionnels dans la branche des transports urbains de voyageurs est modifié comme suit :
+
+« Article 10.1.1
+
+Bénéficiaires
+
+Tout salarié totalisant un nombre minimal, tel que défini ci-après, d'années d'ancienneté continue dans l'entreprise, devant valider au plus 14 trimestres et un nombre minimal de trimestres tel que défini ci-après pour pouvoir bénéficier d'une retraite à taux plein à l'âge légal, peut demander à bénéficier du temps partiel “ fin de carrière ” dans le cadre de l'engagement et de la procédure ci-après définis.
+
+Le nombre minimal d'année d'ancienneté devant être validé s'établit à :
+
+– 22 ½ années si le salarié effectue sa demande en 2022 ;
+
+– 20 années si le salarié effectue sa demande en 2023 ;
+
+– 18 années si le salarié effectue sa demande à partir de 2024.
+
+Le nombre minimal de trimestres devant être validé s'établit à :
+
+– 6 trimestres si le salarié effectue sa demande en 2022 ;
+
+– 4 trimestres si le salarié effectue sa demande à partir de 2023.
+
+Pour le salarié dont la carrière ne s'est pas déroulée intégralement au régime de retraite général, la condition tenant à la validation d'au plus 14 trimestres et d'un nombre minimal de trimestres tel que défini ci-dessus pour bénéficier d'une retraite à taux plein à l'âge légal s'apprécie en prenant en compte les trimestres acquis au sein des différents régimes de retraite. Le salarié dans cette situation doit réunir une durée d'assurance et de périodes équivalentes au nombre de trimestres nécessaires, lors de ce départ et en fonction de l'âge, pour pouvoir bénéficier du départ à la retraite au régime général et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, dont, le cas échéant, les régimes spéciaux de retraite.
+
+Ces conditions d'éligibilité au dispositif s'apprécient à la date de la mise en œuvre effective du dispositif.
+
+Le bénéfice du temps partiel “ fin de carrière ” cesse de plein droit dès lors que le salarié remplit les conditions pour bénéficier d'une retraite à taux plein. Le taux plein de la retraite s'entend pour la retraite de base ainsi que pour la partie complémentaire de la retraite. »
