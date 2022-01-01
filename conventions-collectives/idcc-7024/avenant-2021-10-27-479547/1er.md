@@ -1,0 +1,49 @@
+# Article 1er
+
+Palier 1 |
+
+10.48 |
+
+Palier 2 |
+
+10.56 |
+
+Palier 3 |
+
+10.71 |
+
+Palier 4 |
+
+10.95 |
+
+Palier 5 |
+
+11.46 |
+
+Palier 6 |
+
+12.03 |
+
+Palier 7 |
+
+12.78 |
+
+Palier 8 |
+
+13.70 |
+
+Palier 9 |
+
+14.85 |
+
+Palier 10 |
+
+16.46 |
+
+Palier 11 |
+
+18.74 |
+
+Palier 12 |
+
+21.43 |
