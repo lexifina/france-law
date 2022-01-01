@@ -52,7 +52,7 @@ La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P ét
 
 Tous les frais seront à la charge de C.
 
-Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
+Les hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
 
 Toutefois, pour l'application du présent article, l'obligation de construire sera considérée comme remplie au jour du versement par le Crédit foncier de France de la première tranche du prêt consenti par cet établissement ou d'une avance sur prêt à titre de démarrage ou de préfinancement.
 
@@ -79,3 +79,7 @@ Les locaux devront exclusivement être utilisés à titre d'habitation principal
 Toute location en meublé ou sous-location en meublé est interdite. L'acte de location ou de sous-location serait nul en application de l'article L. 411-3 du code de l'expropriation pour cause d'utilité publique.
 
 Au cas où l'une de ces conditions cesserait d'être remplie, P pourra exiger que les locaux soient, après avoir été libérés, s'il y a lieu, loués nus à un habitant de la commune.
+
+NOTA :
+
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

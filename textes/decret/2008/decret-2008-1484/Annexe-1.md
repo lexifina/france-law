@@ -2,13 +2,9 @@
 
 LISTE DES ACTES REGARDÉS COMME ACTES D'ADMINISTRATION OU COMME ACTES DE DISPOSITION
 
-COLONNE 1 : ACTES D'ADMINISTRATION
+COLONNE 1 : ACTES D'ADMINISTRATION |
 
-|
-
-COLONNE 2 : ACTES DE DISPOSITION
-
-|
+COLONNE 2 : ACTES DE DISPOSITION |
 
 I. ― Actes portant sur les immeubles :
 
@@ -26,9 +22,7 @@ I. ― Actes portant sur les immeubles :
 
 ― déclaration d'insaisissabilité des immeubles non professionnels de l'entrepreneur individuel (art. 1526-1 du code de commerce) (1) ;
 
-― mainlevée d'une inscription d'hypothèque en contrepartie d'un paiement.
-
-|
+― mainlevée d'une inscription d'hypothèque en contrepartie d'un paiement. |
 
 I. ― Actes portant sur les immeubles :
 
@@ -52,11 +46,9 @@ I. ― Actes portant sur les immeubles :
 
 ― constitution de droits réels principaux (usufruit, usage, servitude...) et de droits réels accessoires (hypothèques...) et autres sûretés réelles ;
 
-― consentement à une hypothèque (art. 2413 du code civil) ;
+― consentement à une hypothèque (art. 2410 du code civil) ;
 
-― mainlevée d'une inscription d'hypothèque sans contrepartie d'un paiement.
-
-|
+― mainlevée d'une inscription d'hypothèque sans contrepartie d'un paiement. |
 
 II. ― Actes portant sur les meubles corporels et incorporels :
 
@@ -74,9 +66,7 @@ II. ― Actes portant sur les meubles corporels et incorporels :
 
 ― quittance d'un paiement ;
 
-― demande de délivrance d'une carte bancaire de retrait.
-
-|
+― demande de délivrance d'une carte bancaire de retrait. |
 
 II. ― Actes portant sur les meubles corporels et incorporels :
 
@@ -98,15 +88,11 @@ II. ― Actes portant sur les meubles corporels et incorporels :
 
 ― ouverture d'un compte de gestion de patrimoine ;
 
-― demande de délivrance d'une carte bancaire de crédit.
-
-|
+― demande de délivrance d'une carte bancaire de crédit. |
 
 2° Instruments financiers :
 
-― résiliation d'un contrat de gestion de valeurs mobilières et instruments financiers (art. 500, al. 3, du code civil).
-
-|
+― résiliation d'un contrat de gestion de valeurs mobilières et instruments financiers (art. 500, al. 3, du code civil). |
 
 2° Instruments financiers (au sens de l'article L. 211-1 du code monétaire et financier) :
 
@@ -114,9 +100,7 @@ II. ― Actes portant sur les meubles corporels et incorporels :
 
 ― vente ou apport en société d'instruments financiers non admis à la négociation sur un marché réglementé (art. 505, al. 3, du code civil) ;
 
-― vente d'instruments financiers (art. 505, al. 4, du code civil).
-
-|
+― vente d'instruments financiers (art. 505, al. 4, du code civil). |
 
 3° Autres meubles, corporels et incorporels :
 
@@ -124,9 +108,7 @@ II. ― Actes portant sur les meubles corporels et incorporels :
 
 ― perception des fruits ;
 
-― location d'un coffre-fort.
-
-|
+― location d'un coffre-fort. |
 
 3° Autres meubles, corporels et incorporels :
 
@@ -138,27 +120,19 @@ II. ― Actes portant sur les meubles corporels et incorporels :
 
 ― vente-échange-dation d'un fonds de commerce ;
 
-― conclusion d'un contrat de location gérance sur un fonds de commerce.
+― conclusion d'un contrat de location gérance sur un fonds de commerce. |
 
-|
-
-III. ― Actes relatifs aux groupements dotés de la personnalité morale :
-
-|
+III. ― Actes relatifs aux groupements dotés de la personnalité morale : |
 
 III. ― Actes relatifs aux groupements dotés de la personnalité morale :
 
 ― candidature aux fonctions de gérant et d'administrateur ;
 
-― copropriété des immeubles bâtis : actes visés aux art. 25 à 28-1,30,35 et 38 de la loi n° 65-557 du 10 juillet 1965.
-
-|
+― copropriété des immeubles bâtis : actes visés aux art. 25 à 28-1,30,35 et 38 de la loi n° 65-557 du 10 juillet 1965. |
 
 IV. ― Actes relatifs aux groupements dénués de personnalité morale :
 
-― en cas d'indivision légale : vente d'un bien indivis pour payer les dettes de l'indivision (art. 815-3 [3°] du code civil).
-
-|
+― en cas d'indivision légale : vente d'un bien indivis pour payer les dettes de l'indivision (art. 815-3 [3°] du code civil). |
 
 IV. ― Actes relatifs aux groupements dénués de personnalité morale :
 
@@ -166,9 +140,7 @@ IV. ― Actes relatifs aux groupements dénués de personnalité morale :
 
 ― indivision conventionnelle : actes que le gérant ou l'un des coindivisaires ne peut pas faire seul ;
 
-― en cas de démembrement du droit de propriété : vente-échange-dation du droit démembré, actes auxquels les titulaires des droits démembrés doivent consentir conjointement, grosses réparations non urgentes.
-
-|
+― en cas de démembrement du droit de propriété : vente-échange-dation du droit démembré, actes auxquels les titulaires des droits démembrés doivent consentir conjointement, grosses réparations non urgentes. |
 
 V. ― Actes à titre gratuit :
 
@@ -190,9 +162,7 @@ V. ― Actes à titre gratuit :
 
 ― déclaration de succession ;
 
-― attestation de propriété.
-
-|
+― attestation de propriété. |
 
 V.-Actes à titre gratuit :
 
@@ -222,17 +192,13 @@ V.-Actes à titre gratuit :
 
 ― révocation d'une donation entre époux (art. 953 du code civil) ;
 
-― consentement à exécution d'une donation entre époux.
-
-|
+― consentement à exécution d'une donation entre époux. |
 
 VI. ― Actions en justice :
 
 ― toute action en justice relative à un droit patrimonial de la personne sous tutelle (art. 504, al. 2, du code civil) ;
 
-― tout acte de procédure qui n'emporte pas perte du droit d'action.
-
-|
+― tout acte de procédure qui n'emporte pas perte du droit d'action. |
 
 VI. ― Actions en justice :
 
@@ -242,15 +208,11 @@ VI. ― Actions en justice :
 
 ― action par la personne chargée de la protection en nullité, rescision ou réduction, selon le cas, des actes accomplis par la personne protégée (art. 465, al. 6, du code civil) ;
 
-― tout acte de procédure qui emporte perte du droit d'action.
-
-|
+― tout acte de procédure qui emporte perte du droit d'action. |
 
 VII. ― Assurances :
 
-― conclusion ou renouvellement d'un contrat d'assurance de biens ou de responsabilité civile.
-
-|
+― conclusion ou renouvellement d'un contrat d'assurance de biens ou de responsabilité civile. |
 
 VII. ― Assurances :
 
@@ -264,23 +226,17 @@ VIII. ― Actes de poursuite et d'exécution :
 
 ― mesures conservatoires (art. 26, loi n° 91-650 du 9 juillet 1991) ;
 
-― procédures d'exécution mobilière (art. 26, loi n° 91-650 du 9 juillet 1991).
-
-|
+― procédures d'exécution mobilière (art. 26, loi n° 91-650 du 9 juillet 1991). |
 
 VIII. ― Actes de poursuite et d'exécution :
 
-― saisie immobilière (art. 2206, al. 1, du code civil et 13 du décret n° 2006-236 du 27 juillet 2006).
-
-|
+― saisie immobilière (art. 2206, al. 1, du code civil et 13 du décret n° 2006-236 du 27 juillet 2006). |
 
 IX. ― Actes divers :
 
 ― indivision légale : actes visés par l'article 815-3 (1° et 2°) du code civil (acte d'administration des biens indivis et mandat général d'administration) ;
 
-― tout acte relatif à l'animal domestique de la personne protégée.
-
-|
+― tout acte relatif à l'animal domestique de la personne protégée. |
 
 IX. ― Actes divers :
 
@@ -296,10 +252,8 @@ IX. ― Actes divers :
 
 ― confirmation d'un acte nul pour avoir été accompli par le tuteur ou le curateur seul (art. 465, al. 8, du code civil) ;
 
-― convention d'honoraires proportionnels en toute ou partie à un résultat, indéterminés ou aléatoires.
-
-|
+― convention d'honoraires proportionnels en toute ou partie à un résultat, indéterminés ou aléatoires. |
 
 NOTA :
 
-(1) Au lieu de "article 1526-1 du code de commerce", il convient de lire "article L. 526-1 du code de commerce".
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

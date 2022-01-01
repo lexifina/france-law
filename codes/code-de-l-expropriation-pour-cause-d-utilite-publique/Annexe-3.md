@@ -58,7 +58,7 @@ La plus-value sera fixée par voie d'expertise contradictoire, l'expert de P ét
 
 Tous les frais seront à la charge de C.
 
-Les privilèges et hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
+Les hypothèques ayant grevé l'immeuble du chef du cessionnaire défaillant seront reportés sur l'indemnité de résolution dans les conditions prévues à l'article L. 411-4 du code de l'expropriation pour cause d'utilité publique.
 
 Article E.-Vente, location, partage des terrains cédés.
 
@@ -96,4 +96,4 @@ Après achèvement des travaux, C sera tenu de ne pas modifier l'affectation du 
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

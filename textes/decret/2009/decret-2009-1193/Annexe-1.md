@@ -154,7 +154,7 @@ b) L'indivision forcée résultant d'un acte entre vifs ou à cause de mort ou d
 
 5° Les charges sur un droit :
 
-a) Les hypothèques et les privilèges, y compris la séparation de patrimoine :
+a) Les hypothèques, y compris la séparation de patrimoine :
 
 ― le type (conventionnelle, judiciaire...) ;
 
@@ -243,3 +243,7 @@ b) Les autres charges :
 ― les compléments d'information, notamment les références des décisions administratives à l'origine de l'inscription de la mention informative ;
 
 ― l'immeuble concerné.
+
+NOTA :
+
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

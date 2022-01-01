@@ -4210,9 +4210,7 @@ Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec
 
 42 |
 
-Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire sans demande d'obtention d'un titre exécutoire en application de l'article R. 531-1 du code des procédures civiles d'exécutionou en application de l'article 2412 du code civil
-
-|
+Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire ou légale sans demande d'obtention d'un titre exécutoire en application de l'article R. 531-1 du code des procédures civiles d'exécutionou en application de l'article 2401 du code civil |
 
 43 |
 
@@ -4246,4 +4244,4 @@ Actes et formalités de procédure réalisés en matière d'incidents (incidents
 
 NOTA :
 
-Conformément à l'article 48 du décret n° 2021-300 du 18 mars 2021, ces dispositions entrent en vigueur le 1er avril 2021.
+Conformément au premier alinéa du I de l'article 7 du décret n° 2021-1888 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
