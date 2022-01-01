@@ -1,6 +1,6 @@
 # Article 39 decies G
 
-I.-Les petites et moyennes entreprises de commerce de détail de gazole non routier qui, au 1er janvier 2020, ne disposent pas d'installations permettant de stocker et de distribuer du gazole qui n'est pas coloré et tracé, soumises à l'impôt sur les sociétés ou à l'impôt sur le revenu selon un régime réel, peuvent déduire de leur résultat imposable une somme égale à 40 % de la valeur d'origine, hors frais financiers, des installations de stockage et des matériels de manutention et de distribution du gazole identifié à l'indice 22 du tableau B du 1 de l'article 265 du code des douanes inscrits à l'actif immobilisé.
+I.-Les petites et moyennes entreprises de commerce de détail de gazole non routier qui, au 1er janvier 2020, ne disposent pas d'installations permettant de stocker et de distribuer du gazole qui n'est pas coloré et tracé, soumises à l'impôt sur les sociétés ou à l'impôt sur le revenu selon un régime réel, peuvent déduire de leur résultat imposable une somme égale à 40 % de la valeur d'origine, hors frais financiers, des installations de stockage et des matériels de manutention et de distribution de gazole qui n'est pas coloré et tracé inscrits à l'actif immobilisé.
 
 La déduction est applicable aux biens mentionnés au premier alinéa du présent I acquis à l'état neuf à compter du 1er janvier 2020 et jusqu'au 31 décembre 2022.
 
@@ -13,3 +13,7 @@ L'entreprise qui donne le bien en crédit-bail ou en location avec option d'acha
 IV.-Les dispositions du présent article s'appliquent aux petites et moyennes entreprises au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 Le bénéfice de la déduction est subordonné au respect de l'article 17 du même règlement.
+
+NOTA :
+
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

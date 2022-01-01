@@ -8,7 +8,7 @@ III. - Le bénéfice du régime prévu au I est réservé :
 
 a. Sur option, aux entreprises normalement placées sous le régime défini à l'article 50-0 ;
 
-b. Aux autres entreprises dont le chiffre d'affaires de l'année civile précédente n'excède pas les limites prévues au I de l'article 302 septies A ainsi qu'aux sociétés civiles de moyens définies à l'article 36 de la loi n° 66-879 du 29 novembre 1966.
+b. Aux autres entreprises dont le chiffre d'affaires de l'année civile précédente n'excède pas les seuils prévus aux 1° et 2° de l'article L. 162-4 du code des impositions sur les biens et services ainsi qu'aux sociétés civiles de moyens définies à l'article 36 de la loi n° 66-879 du 29 novembre 1966.
 
 Les entreprises conservent le bénéfice de ces dispositions pour la première année suivant celle au cours de laquelle le chiffre d'affaires limite fixé au premier alinéa est dépassé, sauf en cas de changement d'activité.
 
@@ -24,6 +24,4 @@ Ces entreprises sont dispensées de présenter leur bilan lors des vérification
 
 NOTA :
 
-Modifications effectuées en conséquence de l’article 20-XV B 1° et 2° de la loi n° 2013-1279 du 29 décembre 2013
-
-.
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

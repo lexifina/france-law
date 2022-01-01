@@ -1,3 +1,7 @@
 # Article 302 septies AA
 
-L'article 302 septies A n'est applicable ni aux personnes physiques ou morales, ni aux groupements de personnes de droit ou de fait à l'encontre desquels l'administration a dressé un procès-verbal de flagrance fiscale, dans les conditions prévues à l'article L. 16-0 BA du livre des procédures fiscales, au titre de l'année ou de l'exercice au cours duquel ce procès-verbal est établi.
+L'article L. 163-1 du code des impositions sur les biens et services est applicable aux taxes sur le chiffre d'affaires.
+
+NOTA :
+
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

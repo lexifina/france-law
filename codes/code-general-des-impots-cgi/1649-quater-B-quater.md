@@ -30,7 +30,7 @@ V.-L'état récapitulatif mentionné au III de l'article 289 B est souscrit par 
 
 VI.-Les déclarations de résultats des sociétés immobilières non soumises à l'impôt sur les sociétés ainsi que leurs annexes sont souscrites par voie électronique.
 
-VII.-Les déclarations ou relevés mentionnés aux 1 et 3 du III de l'article 302 D, au deuxième alinéa du I de l'article 302 H ter au deuxième alinéa de l'article 575 C et à l'article 568 ainsi que les déclarations relatives à l'impôt sur les maisons de jeux prévu à l'article 1559 sont souscrits par voie électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent ces déclarations ou relevés sur papier.
+VII.-Les déclarations mentionnées à l'article 568 ainsi que les déclarations relatives à l'impôt sur les maisons de jeux prévu à l'article 1559 sont souscrites par voie électronique. Les opérateurs qui ne disposent pas, en raison de l'absence de couverture du lieu où ils sont établis par un ou plusieurs réseaux offrant un accès aux communications électroniques, d'un système d'information permettant d'accéder à internet, établissent ces déclarations sur papier.
 
 VIII.-Les redevables mentionnés au II de l'article 117 quater et au I de l'article 125 A souscrivent leurs déclarations par voie électronique lorsqu'ils sont uniquement redevables des prélèvements mentionnés :
 
@@ -56,6 +56,4 @@ XVI.-Un décret précise les autres déclarations qui sont souscrites par voie �
 
 NOTA :
 
-Conformément à l'article 72 II de la loi n° 2015-1786 du 29 décembre 2015, le VII de l'article 1649 quater B quater du code général des impôts s'applique à compter d'une date fixée par décret, comprise entre le 1er janvier 2018 et le 31 décembre 2019.
-
-Conformément à l’article 199 V C de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 1649 quater B quater telles qu'elles résultent du 6° du I dudit article s’appliquent aux impositions dont le fait générateur intervient à compter du 1er janvier 2019.
+Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
