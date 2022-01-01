@@ -434,7 +434,7 @@ Bordeaux |
 
 |
 
-Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-André-de-Cubzac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon . |
+Cantons d'Auros, Bazas, Bègles, Blanquefort, Bordeaux 1er Canton, Bordeaux 2e Canton, Bordeaux 3e Canton, Bordeaux 4e Canton, Bordeaux 5e Canton, Bordeaux 6e Canton, Bordeaux 7e Canton, Bordeaux 8e Canton, Cadillac, Captieux, Carbon-Blanc, Castelnau-de-Médoc, Cenon, Créon, Floirac, Gradignan, Grignols, La Brède, La Réole, Langon, Le Bouscat, Lesparre-Médoc, Lormont, Mérignac 1er Canton, Mérignac 2e Canton, Monségur, Pauillac, Pellegrue, Pessac 1er Canton, Pessac 2e Canton, Podensac, Saint-Laurent-Médoc, Saint-Macaire, Saint-Médard-en-Jalles, Saint-Symphorien, Saint-Vivien-de-Médoc, Sauveterre-de-Guyenne, Talence, Targon, Villandraut et Villenave-d'Ornon. |
 
 |
 
@@ -444,9 +444,7 @@ Cantons d'Arcachon, Audenge, Belin-Béliet et La Teste-de-Buch. |
 
 Libourne |
 
-|
-
-Cantons de Blaye, Bourg, Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, Lussac, Pujols, Saint-Ciers-sur-Gironde, Saint-Savin et Sainte-Foy-la-Grande. |
+Cantons de Blaye, Bourg, Branne, Castillon-la-Bataille, Coutras, Fronsac, Guîtres, Libourne, Lussac, Pujols, Saint-André-de-Cubzac, Saint-Ciers-sur-Gironde, Saint-Savin et Sainte-Foy-la-Grande. |
 
 Cour d'appel de Bourges |
 
@@ -2124,14 +2122,4 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 2020-1563 du 10 décembre 2020, les présentes dispositions entrent en vigueur le 1er septembre 2021.
-
-A cette date, les procédures en cours devant le tribunal judiciaire d'Evreux et la chambre de proximité des Andelys sont transférées en l'état à la nouvelle chambre de proximité de Louviers, dans la mesure où elles relèvent désormais de sa compétence.
-
-Les convocations, citations et assignations données aux parties et aux témoins délivrées avant le 1er septembre 2021 pour une comparution postérieure à cette date le sont devant la chambre de proximité nouvellement compétente.
-
-Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus avant le 1er septembre 2021, à l'exception des convocations, citations et assignations données aux parties et aux témoins qui n'auraient pas été suivies d'une comparution devant le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys. Les citations et assignations produisent cependant leurs effets ordinaires interruptifs de prescription.
-
-Le tribunal judiciaire d'Evreux ou la chambre de proximité des Andelys informent les parties ayant comparu devant l'un ou l'autre, de ce qu'il leur appartient d'accomplir les actes de la procédure devant la chambre de proximité de Louviers à laquelle la procédure a été transférée.
-
-Les archives et les minutes du greffe du tribunal judiciaire d'Evreux antérieurement compétent et de la chambre de proximité des Andelys sont transférées au greffe de la chambre de proximité de Louviers nouvellement compétente. Les frais de transfert de ces archives et minutes sont imputés sur le crédit ouvert à cet effet au budget du ministère de la justice.
+Conformément à l’article 2 du décret n° 2021-1517 du 23 novembre 2021, ces dispositions sont applicables aux procédures introduites à compter du 1er janvier 2022.
