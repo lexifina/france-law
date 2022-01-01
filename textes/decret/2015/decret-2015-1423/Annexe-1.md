@@ -52,10 +52,6 @@ Déclaration d'un mandataire financier |
 
 Articles L. 52-4, L. 52-5 et L. 52-6 |
 
-Notification aux maires des assesseurs et délégués des candidats |
-
-Article R. 46 et R. 47 |
-
 Code de l'entrée et du séjour des étrangers et du droit d'asile
 
 Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna
@@ -849,3 +845,7 @@ Echange de permis de conduire étranger |
 Arrêté du 8 février 1999
 
 Arrêté du 12 janvier 2012 |
+
+NOTA :
+
+Conformément à l’article 27 du décret n° 2021-1740 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022 sur l'ensemble du territoire de la République.
