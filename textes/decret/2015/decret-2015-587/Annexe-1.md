@@ -252,4 +252,6 @@ Signature du bailleur [ou de son mandataire, le cas échéant] Signature du loca
 
 NOTA :
 
+Conformément au II de l’article 6 du décret n° 2020-1609 du 17 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2022.
+
 Au A du III il convient de lire "à son terme"
