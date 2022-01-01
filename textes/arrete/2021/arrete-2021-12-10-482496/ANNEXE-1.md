@@ -1,12 +1,10 @@
-# Article LEGIARTI000042845097
+# Article ANNEXE 1
 
-ANNEXES
+MONTANT DE L'AVANCE DE TRESORERIE ACTIVITE DES FORCES ET PLAFOND ANNUEL DES DEPENSES AUTORISEES POUR 2022
 
-ANNEXE 1
+TYPE D'AVANCE
 
-MONTANT DE L'AVANCE DE TRÉSORERIE ACTIVITÉ DES FORCES ET PLAFOND ANNUEL DES DÉPENSES AUTORISÉES POUR 2021
-
-TYPE D'AVANCE DE TRESORERIE |
+DE TRESORERIE |
 
 LIBELLE |
 
@@ -14,27 +12,23 @@ PROGRAMME |
 
 TITRE |
 
-Avance
+Avance de trésorerie
 
-de trésorerie
+du 1er janvier
 
-du 1er janvier au 31 décembre 2021
+au 31 décembre 2022
 
 (en €) |
 
 Plafond de dépenses
 
-autorisées
-
-en 2021
+autorisées en 2022
 
 (en €) |
 
 Activité des forces |
 
-Mission anciens combattants, mémoire
-
-et liens avec la nation |
+Mission anciens combattants, mémoire et liens avec la nation |
 
 |
 
@@ -50,9 +44,9 @@ Liens entre la nation et son armée |
 
 hors titre 2 |
 
-1 070 |
+1 720 |
 
-4 280 |
+6 881 |
 
 Mission défense |
 
@@ -70,9 +64,9 @@ Environnement et prospective de la politique de défense… |
 
 hors titre 2 |
 
-3 365 500 |
+3 538 923 |
 
-13 462 000 |
+14 155 691 |
 
 Équipement des forces |
 
@@ -80,9 +74,9 @@ hors titre 2 |
 
 hors titre 2 |
 
-3 900 |
+15 394 |
 
-15 600 |
+61 574 |
 
 Préparation et emploi des forces |
 
@@ -90,9 +84,9 @@ Préparation et emploi des forces |
 
 hors titre 2 |
 
-6 148 060 |
+6 134 901 |
 
-24 592 240 |
+24 539 605 |
 
 Soutien de la politique de défense |
 
@@ -100,9 +94,9 @@ Soutien de la politique de défense |
 
 hors titre 2 |
 
-39 700 |
+30 307 |
 
-158 800 |
+121 226 |
 
 Mission outre-mer |
 
@@ -120,16 +114,16 @@ Emploi outre-mer |
 
 hors titre 2 |
 
-100 770 |
+116 756 |
 
-403 080 |
+467 023 |
 
-Total ATAF du 1er janvier au 31 décembre 2021 |
-
-|
+Total ATAF du 1er janvier au 31 décembre 2022 |
 
 |
 
-9 659 000 |
+|
 
-38 636 000 |
+9 838 000 |
+
+39 352 000 |
