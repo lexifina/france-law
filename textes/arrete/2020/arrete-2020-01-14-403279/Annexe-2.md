@@ -102,11 +102,11 @@ X |
 
 Foyers fermés, inserts |
 
-2 000 € |
+2 500 € |
 
-1 200 € |
+1 500 € |
 
-600 € |
+800 € |
 
 X |
 
@@ -434,4 +434,4 @@ Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté précité |
 
 NOTA :
 
-Conformément à l'article 8 de l'arrêté du 8 juillet 2021 (NOR : LOGL2119191A), ces dispositions s'appliquent aux demandes de primes déposées à compter du 1er juillet 2021.
+Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.

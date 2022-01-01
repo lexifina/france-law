@@ -86,9 +86,17 @@ Certificat de qualification ou certification RGE |
 
 |
 
-Demande d'avance Demande de solde |
+Demande d'avance
 
-RIB au nom du demandeur ou de son mandataire (si mandat de perception des fonds) |
+Demande de solde
+
+|
+
+Pour la demande d'avance : RIB au nom du demandeur
+
+Pour la demande de solde : RIB au nom du demandeur ou de son mandataire
+
+|
 
 |
 
@@ -116,4 +124,4 @@ Pour les titulaires de droit réel immobilier, une copie de l'acte notarié (ou 
 
 NOTA :
 
-Conformément à l'article 8 de l'arrêté du 8 juillet 2021 (NOR : LOGL2119191A), ces dispositions s'appliquent aux demandes de primes déposées à compter du 1er juillet 2021.
+Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.

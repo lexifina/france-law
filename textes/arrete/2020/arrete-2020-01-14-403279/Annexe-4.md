@@ -60,6 +60,8 @@ non-professionnel |
 
 Personnes physiques-professionnelles
 
+-Je suis en profession libérale
+
 -Je suis un artisan
 
 -Je suis un auto-
@@ -68,7 +70,9 @@ entrepreneur
 
 -Je suis un agent
 
-commercial |
+commercial
+
+|
 
 i |
 
@@ -268,20 +272,6 @@ X |
 
 PJ |
 
-Inscription au registre spécial des agents commerciaux (Si agent commercial) |
-
-|
-
-|
-
-|
-
-|
-
-X |
-
-PJ |
-
 Inscription au RCS (si auto-entrepreneur) |
 
 |
@@ -366,4 +356,4 @@ X |
 
 NOTA :
 
-Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.
+Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.
