@@ -18,14 +18,10 @@ AUTRES EMPLOIS
 
 -directeur de la Haute Autorité de santé ;
 
--secrétaire général de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet ;
-
--directeur général du Conseil supérieur de l'audiovisuel ;
+-directeur général de l'Autorité de régulation de la communication audiovisuelle et numérique ;
 
 -directeur général de l'Autorité de sûreté nucléaire.
 
 NOTA :
 
-Conformément à l'article 37 du décret n° 2020-199 du 4 mars 2020, ces dispositions entrent en vigueur à la date de la première réunion du collège de l'Autorité nationale des jeux.
-
-La première réunion du collège de l'Autorité nationale des jeux a eu lieu le 23 juin 2020.
+Conformément au premier alinéa de l'article 6 du décret n° 2021-1853 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
