@@ -822,9 +822,11 @@ Arrêté du 23 novembre 1987 relatif à la sécurité des navires (paragraphes 1
 
 Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports |
 
-Article L. 5546-1-1 du code des transports |
+Article L. 5546-1-1 du code des transports
 
-Articles 5 à 11 et 17 |
+Article 2,5,6,8,9 et 17 du décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021 |
+
+|
 
 Code de la voirie routière
 
