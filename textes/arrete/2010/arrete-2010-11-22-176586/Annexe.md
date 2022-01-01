@@ -4,13 +4,13 @@ LISTE DES SUBSTANCES CONCERNÉES PAR LA REDEVANCE POUR POLLUTIONS DIFFUSES VISÉ
 
 1. Appartenant, en raison de leur cancérogénicité ou de leur mutagénicité sur les cellules germinales ou de leur toxicité pour la reproduction, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-Nom de la substance |
+Nom substance |
 
-numéro CAS |
+n° CAS |
 
-* |
+(*) |
 
-règlement |
+reglement |
 
 6-benzyladénine |
 
@@ -156,6 +156,14 @@ exclusion |
 
 540/2011 |
 
+Bromuconazole |
+
+116255-48-2 |
+
+|
+
+540/2011 |
+
 Bupirimate |
 
 41483-43-6 |
@@ -260,6 +268,14 @@ Dimoxystrobine |
 
 540/2011 |
 
+Dodemorphe |
+
+1593-77-7 |
+
+|
+
+540/2011 |
+
 Epoxiconazole |
 
 133855-98-8 |
@@ -340,17 +356,17 @@ Flutriafol |
 
 540/2011 |
 
-Fluxapyroxad |
+Folpel |
 
-907204-31-3 |
+133-07-3 |
 
 |
 
 540/2011 |
 
-Folpel |
+Foramsulfuron |
 
-133-07-3 |
+173159-57-4 |
 
 |
 
@@ -377,6 +393,14 @@ Halosulfuron-méthyle |
 100784-20-1 |
 
 exclusion |
+
+540/2011 |
+
+Hymexazol |
+
+10004-44-1 |
+
+|
 
 540/2011 |
 
@@ -440,7 +464,7 @@ Isopyrazam |
 
 881685-58-1 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -495,6 +519,14 @@ Manèbe |
 Mepanipyrim |
 
 110235-47-7 |
+
+|
+
+540/2011 |
+
+Mésotrione |
+
+104206-82-8 |
 
 |
 
@@ -604,6 +636,14 @@ Penconazole |
 
 540/2011 |
 
+Penflufen |
+
+494793-67-8 |
+
+|
+
+540/2011 |
+
 Phosmet |
 
 732-11-6 |
@@ -700,6 +740,14 @@ exclusion |
 
 540/2011 |
 
+Sedaxane |
+
+874967-67-6 |
+
+|
+
+540/2011 |
+
 Spinetoram |
 
 935545-74-7 |
@@ -764,14 +812,6 @@ exclusion |
 
 540/2011 |
 
-Thiencarbazone-méthyl |
-
-317815-83-1 |
-
-|
-
-540/2011 |
-
 Thiophanate-méthyl |
 
 23564-05-8 |
@@ -814,13 +854,13 @@ Valifénalate |
 
 2. Appartenant, en raison de leur toxicité aiguë de catégorie 1,2 ou 3 ou en raison de leur toxicité spécifique pour certains organes cibles, de catégorie 1, à la suite d'une exposition unique ou après une exposition répétée, soit en raison de leurs effets sur ou via l'allaitement, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-Nom de la substance |
+Nom substance |
 
-numéro CAS |
+n° CAS |
 
-* |
+(*) |
 
-règlement |
+classement |
 
 1,3-dichloropropène |
 
@@ -896,7 +936,7 @@ substitution |
 
 Cuivre de l'oxychlorure de cuivre |
 
-1332-40-7 |
+1332-65-6 |
 
 substitution |
 
@@ -904,7 +944,7 @@ substitution |
 
 Cuivre de l'oxychlorure de cuivre |
 
-1332-65-6 |
+1332-40-7 |
 
 substitution |
 
@@ -929,6 +969,14 @@ Deltaméthrine |
 Diquat |
 
 85-00-7 |
+
+|
+
+540/2011 |
+
+Disulfure de diméthyle (DMDS) |
+
+624-92-0 |
 
 |
 
@@ -1017,6 +1065,22 @@ Fluorure de sulfuryle |
 Fluquinconazole |
 
 136426-54-5 |
+
+|
+
+540/2011 |
+
+Fluxapyroxad |
+
+907204-31-3 |
+
+|
+
+540/2011 |
+
+Formétanate-chlorhydrate |
+
+23422-53-9 |
 
 |
 
@@ -1134,6 +1198,14 @@ Pyridabène |
 
 540/2011 |
 
+Pyrimiphos-méthyl |
+
+29232-93-7 |
+
+|
+
+540/2011 |
+
 Tébufenpyrad |
 
 119168-77-3 |
@@ -1176,13 +1248,13 @@ Zirame |
 
 3. Appartenant, en raison de leur toxicité aiguë pour le milieu aquatique de catégorie 1 ou de leur toxicité chronique pour le milieu aquatique de catégorie 1 ou 2, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-Nom de la substance |
+Nom substance |
 
-numéro CAS |
+n° CAS |
 
-* |
+(*) |
 
-règlement |
+reglement |
 
 (Z)-8-dodecenol |
 
@@ -1355,14 +1427,6 @@ Bixafen |
 Boscalid |
 
 188425-85-6 |
-
-|
-
-540/2011 |
-
-Bromuconazole |
-
-116255-48-2 |
 
 |
 
@@ -1588,7 +1652,7 @@ Diméthomorphe |
 
 110488-70-5 |
 
-|
+exclusion |
 
 540/2011 |
 
@@ -1636,7 +1700,7 @@ Etoxazole |
 
 153233-91-1 |
 
-|
+substitution |
 
 540/2011 |
 
@@ -1675,6 +1739,14 @@ Fenhexamid |
 Fenoxaprop-p-éthyl |
 
 71283-80-2 |
+
+|
+
+540/2011 |
+
+Fenpicoxamide |
+
+517875-34-2 |
 
 |
 
@@ -1732,7 +1804,7 @@ Flumétraline |
 
 62924-70-3 |
 
-|
+substitution |
 
 540/2011 |
 
@@ -1760,6 +1832,14 @@ Flupyrsulfuron-méthyl |
 
 540/2011 |
 
+Fluroxypyr-méptyl |
+
+81406-37-3 |
+
+|
+
+540/2011 |
+
 Flurtamone |
 
 96525-23-4 |
@@ -1771,14 +1851,6 @@ Flurtamone |
 Flutolanil |
 
 66332-96-5 |
-
-|
-
-540/2011 |
-
-Foramsulfuron |
-
-173159-57-4 |
 
 |
 
@@ -1928,6 +2000,14 @@ Mécoprop-p (MCPP-P) |
 
 540/2011 |
 
+Méfentrifluconazole |
+
+1417782-03-6 |
+
+|
+
+540/2011 |
+
 Meptyldinocap |
 
 131-72-6 |
@@ -1939,14 +2019,6 @@ Meptyldinocap |
 Mésosulfuron-méthyl |
 
 208465-21-8 |
-
-|
-
-540/2011 |
-
-Mésotrione |
-
-104206-82-8 |
 
 |
 
@@ -2056,6 +2128,14 @@ Oxasulfuron |
 
 540/2011 |
 
+Oxathiapiproline |
+
+1003318-67-9 |
+
+|
+
+540/2011 |
+
 Pencycuron |
 
 66063-05-6 |
@@ -2131,14 +2211,6 @@ Polysulfure de calcium |
 Prochloraze |
 
 67747-09-5 |
-
-|
-
-540/2011 |
-
-Prochloraze-manganèse |
-
-69192-23-0 |
 
 |
 
@@ -2232,14 +2304,6 @@ Pyriméthanil |
 
 540/2011 |
 
-Pyrimiphos-méthyl |
-
-29232-93-7 |
-
-|
-
-540/2011 |
-
 Pyriproxyfène |
 
 95737-68-1 |
@@ -2251,6 +2315,14 @@ Pyriproxyfène |
 Pyroxsulame |
 
 422556-08-9 |
+
+|
+
+540/2011 |
+
+Quinmérac |
+
+90717-03-6 |
 
 |
 
@@ -2275,14 +2347,6 @@ Quizalofop-P-éthyl |
 Rimsulfuron |
 
 122931-48-0 |
-
-|
-
-540/2011 |
-
-Sedaxane |
-
-874967-67-6 |
 
 |
 
@@ -2384,6 +2448,14 @@ Thiaméthoxam |
 
 540/2011 |
 
+Thiencarbazone-méthyl |
+
+317815-83-1 |
+
+|
+
+540/2011 |
+
 Thifensulfuron-méthyle |
 
 79277-27-3 |
@@ -2480,15 +2552,15 @@ Zoxamide |
 
 540/2011 |
 
-4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
+4. Appartenant, en raison de leur toxicité chronique pour le milieu aquatique de 4. catégorie 3 ou 4, à une classe de danger prévue par le règlement (CE) n° 1272/2008
 
-Nom de la substance |
+Nom substance |
 
-numéro CAS |
+n° CAS |
 
-* |
+(*) |
 
-règlement |
+reglement |
 
 2,4-d |
 
@@ -2546,14 +2618,6 @@ Dicamba |
 
 540/2011 |
 
-Dicamba dimethylammonium |
-
-2300-66-5 |
-
-|
-
-540/2011 |
-
 Diflufénicanil |
 
 83164-33-4 |
@@ -2573,14 +2637,6 @@ Diméthoate |
 Fluroxypyr |
 
 69377-81-7 |
-
-|
-
-540/2011 |
-
-Hymexazol |
-
-10004-44-1 |
 
 |
 
@@ -2618,14 +2674,6 @@ Prohexadione-calcium |
 
 540/2011 |
 
-Quinmérac |
-
-90717-03-6 |
-
-|
-
-540/2011 |
-
 Triclopyr |
 
 55335-06-3 |
@@ -2634,8 +2682,8 @@ Triclopyr |
 
 540/2011 |
 
-* Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention substitution et soumises aux taux additionnels prévus au III du même article.
+(*) Substances entrant dans l'assiette de la redevance pour pollutions diffuses au titre du 5° du II de l'article L. 213-10-8 du code de l'environnement pour la mention exclusion et au titre du 6° de l'article L. 213-10-8 du code de l'environnement pour la mention substitution et soumises aux taux additionnels prévus au III du même article.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 7 décembre 2020, ces dispositions sont applicables à compter du 1er janvier 2021.
+Conformément à l’article 2 de l’arrêté du 19 décembre 2021, ces dispositions sont applicables à compter du 1er janvier 2022.
