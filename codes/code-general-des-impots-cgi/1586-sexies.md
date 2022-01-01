@@ -124,7 +124,7 @@ V. – Pour les sociétés et groupements créés pour la réalisation d'une op�
 
 a) Qui sont détenus à 95 % au moins par un établissement de crédit ou une société de financement et qui réalisent l'opération pour le compte de l'établissement de crédit ou de la société de financement ou d'une société elle-même détenue à 95 % au moins par l'établissement de crédit ou la société de financement ;
 
-b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies ou 217 duodecies :
+b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies, 217 duodecies ou 244 quater Y :
 
 1. Le chiffre d'affaires comprend :
 
@@ -183,13 +183,3 @@ Ne sont toutefois pas déductibles de la valeur ajoutée :
 c) (Abrogé)
 
 VII. – Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
-
-NOTA :
-
-(1) Conformément à l'article 22 III de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent à compter de la cotisation sur la valeur ajoutée des entreprises due au titre de 2017.
-
-Conformément au A du VI de l’article 8 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 1° à 7° du I, à l'exception du b du 2°, s'appliquent à la cotisation sur la valeur ajoutée des entreprises :
-
-1° Due par les redevables au titre de 2021 et des années suivantes ;
-
-2° Versée par l'Etat aux communes, le cas échéant aux établissements publics de coopération intercommunale, ainsi qu'aux départements à compter de 2022.

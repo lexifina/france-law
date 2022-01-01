@@ -1,6 +1,6 @@
 # Article 242 septies
 
-L'activité professionnelle consistant à obtenir pour autrui les avantages fiscaux prévus aux articles 199 undecies A, 199 undecies B, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W ou 244 quater X ne peut être exercée que par les entreprises inscrites sur un registre public tenu par le représentant de l'Etat dans les départements et collectivités désignés par arrêté conjoint des ministres chargés du budget et de l'outre-mer.
+L'activité professionnelle consistant à obtenir pour autrui les avantages fiscaux prévus aux articles 199 undecies A, 199 undecies B, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W, 244 quater X ou 244 quater Y ne peut être exercée que par les entreprises inscrites sur un registre public tenu par le représentant de l'Etat dans les départements et collectivités désignés par arrêté conjoint des ministres chargés du budget et de l'outre-mer.
 
 Ne peuvent être inscrites sur ce registre que les entreprises qui satisfont aux conditions suivantes :
 
@@ -30,6 +30,6 @@ Le présent article n'est pas applicable aux investissements réalisés avant la
 
 NOTA :
 
-Conformément à l'article 131 III B 1 et 2 de la loi n° 2018-1317 du 28 décembre 2018, l'inscription sur le registre public mentionné à l'article 242 septies du code général des impôts, dans sa rédaction résultant du 4° du I du présent article, doit être sollicitée à compter du 1er janvier 2019 lorsque l'inscription initiale sur le registre tenu par le représentant de l'Etat dans le département ou la collectivité concerné date de trois ans révolus. L'inscription initiale reste acquise tant que l'autorité compétente ne s'est pas formellement prononcée sur la demande de renouvellement.
+Conformément au IV, A de l'article 108 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2022.
 
-L'article 242 septies, dans sa rédaction résultant du 4° du I, s'applique aux premières inscriptions et aux renouvellements d'inscription sur le registre public mentionné au même article 242 septies effectués à compter du 1er janvier 2019.
+Conformément au IV, B de l'article 108 de la loi n° 2020-1721 du 29 décembre 2020 : Pour les investissements réalisés à Saint-Martin, les I à III entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.

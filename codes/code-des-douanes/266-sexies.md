@@ -1,6 +1,6 @@
 # Article 266 sexies
 
-I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
@@ -10,7 +10,7 @@ b) Toute personne qui transfère ou fait transférer des déchets vers un autre 
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. (Abrogé)
+4. (Abrogé) ;
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton, ou y utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ;
 
@@ -18,15 +18,15 @@ b) Toute personne qui transfère ou fait transférer des déchets vers un autre 
 
 b) Toute personne qui, pour les besoins de son activité économique, utilise sur le territoire mentionné au a pour la première fois des matériaux mentionnés au même a ;
 
-7. Alinéa abrogé ;
+7. (Abrogé) ;
 
 8. (Abrogé) ;
 
-9. Alinéa abrogé ;
+9. (Abrogé) ;
 
 10. (Abrogé)
 
-II.-La taxe ne s'applique pas :
+II. - La taxe ne s'applique pas :
 
 1. (Abrogé) ;
 
@@ -80,14 +80,12 @@ b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'e
 
 7. (Abrogé).
 
-III.-(Abrogé).
+III. - (Abrogé).
 
-IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
+IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses limites de capacités, annuelles ou totales.
 
 Le même II s'applique également à l'exception du 1 quaterdecies, dans les mêmes conditions, aux transferts de déchets hors de France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation d'effet équivalent à cette autorisation.
 
 NOTA :
 
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266 sexies telles qu'elles résultent du b du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
-
-Conformément au XVI, A de l'article 64 de la loi n° 2020-1721 du 29 décembre 2020, ces dispositions s'appliquent aux opérations dont le fait générateur est intervenu à compter du 1er janvier 2020.
+Conformément aux dispositions du II de l'article 85 de l'ordonnance n° 2020-105 du 10 février 2020, les dispositions de l'article 266 sexies telles qu'elles résultent du I dudit article entrent en vigueur le 1er janvier 2022.
