@@ -2,228 +2,116 @@
 
 L'échelonnement indiciaire applicable aux cadres de santé paramédicaux civils du ministère de la défense régis par le décret n° 2015-303 du 17 mars 2015 portant statut particulier du corps des cadres de santé paramédicaux civils du ministère de la défense, est fixé ainsi qu'il suit :
 
-GRADES ET ÉCHELONS |
+GRADES ET ECHELONS |
 
-INDICES BRUTS
+INDICES BRUTS |
 
-à compter
+Cadre de santé paramédical hors classe |
 
-du 1er janvier 2016 |
+Spécial |
 
-INDICES BRUTS
+HEA |
 
-à compter
+5 |
 
-du 1er janvier 2017 |
+1 027 |
 
-INDICES BRUTS
+4 |
 
-à compter
+995 |
 
-du 1er janvier 2019 |
+3 |
 
-INDICES BRUTS
+946 |
 
-à compter
+2 |
 
-du 1er janvier 2020 |
+896 |
+
+1 |
+
+850 |
 
 Cadre supérieur de santé paramédical |
 
-|
+8 |
 
-|
+1 015 |
 
-|
+7 |
 
-|
+995 |
 
-7e échelon |
+6 |
 
-906 |
+946 |
 
-914 |
+5 |
 
-928 |
+896 |
 
-940 |
+4 |
 
-6e échelon |
+843 |
 
-859 |
-
-875 |
-
-879 |
-
-883 |
-
-5e échelon |
-
-812 |
-
-827 |
-
-831 |
-
-835 |
-
-4e échelon |
-
-770 |
-
-778 |
-
-781 |
+3 |
 
 791 |
 
-3e échelon |
+2 |
 
-728 |
+744 |
 
-736 |
+1 |
 
-740 |
-
-748 |
-
-2e échelon |
-
-694 |
-
-709 |
-
-713 |
-
-716 |
-
-1er échelon |
-
-664 |
-
-672 |
-
-676 |
-
-680 |
+699 |
 
 Cadre de santé paramédical |
 
-|
+11 |
 
-|
+940 |
 
-|
+10 |
 
-|
+906 |
 
-11e échelon |
+9 |
 
-807 |
+868 |
 
-815 |
+8 |
 
-822 |
+825 |
 
-830 |
+7 |
 
-10e échelon |
+781 |
 
-778 |
+6 |
 
-785 |
+739 |
 
-789 |
+5 |
 
-793 |
+695 |
 
-9e échelon |
+4 |
 
-747 |
+663 |
 
-760 |
-
-765 |
-
-778 |
-
-8e échelon |
-
-717 |
-
-725 |
-
-729 |
-
-741 |
-
-7e échelon |
-
-687 |
-
-702 |
-
-706 |
-
-710 |
-
-6e échelon |
-
-655 |
-
-661 |
-
-665 |
-
-674 |
-
-5e échelon |
-
-622 |
-
-630 |
-
-634 |
-
-645 |
-
-4e échelon |
-
-589 |
-
-597 |
-
-601 |
+3 |
 
 614 |
 
-3e échelon |
-
-563 |
-
-573 |
+2 |
 
 577 |
 
-585 |
-
-2e échelon |
-
-532 |
-
-543 |
-
-547 |
-
-554 |
-
-1er échelon |
-
-521 |
-
-531 |
-
-538 |
+1 |
 
 541 |
+
+NOTA :
+
+Conformément à l'article 8 du décret n° 2021-1874 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
