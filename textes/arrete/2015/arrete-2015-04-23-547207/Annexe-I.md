@@ -144,13 +144,13 @@ Service de santé des armées |
 
 Directeur de la médecine des forces
 
-Directeur des hôpitaux
+Directeur des hôpitaux des armées
 
 Directeur de la formation, de la recherche et de l'innovation
 
-Directeur des approvisionnements en produits de santé
+Directeur des approvisionnements en produits de santé des armées
 
-Directeur des systèmes d'information et du numérique
+Directeur des systèmes d'information et du numérique en santé
 
 |
 
@@ -203,3 +203,7 @@ Direction des patrimoines, de la mémoire et des archives
 Chef du service historique de la défense
 
 |
+
+NOTA :
+
+Conformément à l'article 17 de l'arrêté du 20 décembre 2021 (NOR : ARMD2138364A), ces dispositions entrent en vigueur le 1er janvier 2022.

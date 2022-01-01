@@ -14,9 +14,15 @@ Directions et services relevant du chef d'état-major des armées |
 
 Direction centrale du service de santé des armées |
 
-Directeur des approvisionnements en produits de santé |
+Directeur des approvisionnements en produits de santé des armées |
 
 Sans limitation |
+
+Direction centrale de la direction de la maintenance aéronautique |
+
+Chefs des structures spécialisées d'achat et de mandatement de la direction de la maintenance aéronautique |
+
+MAPA x 50 |
 
 Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense |
 
@@ -252,7 +258,7 @@ MAPA × 10 (10) |
 
 (2) Les chefs des groupements de soutien de base de défense, commandants de formation administrative, reçoivent délégation pour passer les marchés publics et accords-cadres nécessaires au soutien commun ou spécifique des formations de la base de défense, lorsque les besoins ne sont pas satisfaits par un marché public, un accord-cadre ou une convention passés par un autre pouvoir adjudicateur du ministère ou interministériel.
 
-(3) Délégation limitée aux marchés publics et accords-cadres de produits pétroliers à l'étranger, dans la zone de compétence des personnes habilitées.
+(3) Délégation limitée aux marchés publics et accords-cadres, de produits pétroliers, de matériels de transport, de stockage et de distribution d'énergie relevant des attributions du service de l'énergie opérationnelle, à l'étranger, dans la zone de compétence des personnes habilitées.
 
 (4) Délégation limitée aux marchés subséquents d'approvisionnement en produits pétroliers des bâtiments en escale à l'étranger.
 
@@ -267,3 +273,7 @@ MAPA × 10 (10) |
 (9) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.
 
 (10) Délégation limitée aux marchés de prestations intellectuelles et de fournitures courantes dans le domaine de l'insertion et de la formation professionnelle. |
+
+NOTA :
+
+Conformément à l’article 13 de l’arrêté du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
