@@ -2,68 +2,36 @@
 
 DIRECTIONS ZONALES DE LA POLICE AUX FRONTIÈRES
 
-ZONE
-
-|
+ZONE |
 
 SIÈGE DE LA DIRECTION ZONALE
 
-de la police aux frontières
+de la police aux frontières |
 
-|
+Nord |
 
-Nord
+Lille |
 
-|
+Sud |
 
-Lille
+Marseille |
 
-|
+Est |
 
-Sud
+Metz |
 
-|
+Ouest |
 
-Marseille
+Rennes |
 
-|
+Sud-Est |
 
-Est
+Lyon |
 
-|
+Sud-Ouest |
 
-Metz
+Bordeaux |
 
-|
+NOTA :
 
-Ouest
-
-|
-
-Rennes
-
-|
-
-Sud-Est
-
-|
-
-Lyon
-
-|
-
-Sud-Ouest
-
-|
-
-Bordeaux
-
-|
-
-Antilles
-
-|
-
-Fort-de-France
-
-|
+Conformément à l'article 9 du décret n° 2021-1876 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.

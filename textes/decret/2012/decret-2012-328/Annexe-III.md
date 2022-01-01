@@ -32,10 +32,6 @@ Direction zonale de la police aux frontières du Sud-Ouest |
 
 Bordeaux (33), Hendaye (64), Limoges (87) |
 
-Direction zonale de la police aux frontières des Antilles |
-
-Pointe-à-Pitre (971) Fort-de-France (972) |
-
 NOTA :
 
-Conformément à l'article 3 du décret n° 2020-1051 du 14 août 2020, ces dispositions entrent en vigueur le 1er septembre 2020.
+Conformément à l'article 9 du décret n° 2021-1876 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
