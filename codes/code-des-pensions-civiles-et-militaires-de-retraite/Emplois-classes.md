@@ -224,9 +224,7 @@ Infirmier civil de soins généraux de classe normale
 
 |
 
-Décret n° 2005-1597 du 19.12.2005 modifié par décret n° 2014-848 du 28.07.2014
-
-(J. O. du 30.07.2014)
+Décret n° 2005-1597 du 19 décembre 2005
 
 |
 
@@ -254,40 +252,6 @@ Infirmier civil de soins généraux de classe supérieure
 
 |
 
-9230
-
-|
-
-Infirmier de classe normale de l'INI
-
-|
-
-Décret n° 90-360 du 23.04.1990 modifié par décret n° 2014-847 du 28.07.2014
-
-(J. O. du 30.07.2014)
-
-|
-
-(*)
-
-|
-
-|
-
-(*) En application de la décision interministérielle du 20/11/2013, les infirmiers occupant un emploi, en contact direct et permanent avec les malades, du service de santé des armées et de l'Institution nationale des invalides bénéficient du classement en catégorie active et d'une limite d'âge à
-
-60 ans (62 ans).
-
-|
-
-9231
-
-|
-
-Infirmier de classe supérieure de l'INI
-
-|
-
 433
 
 |
@@ -296,7 +260,7 @@ Agent des services hospitaliers qualifiés civils
 
 |
 
-Décret n° 2009-1357 du 03.11.2009 modifié
+Décret n° 2021-1871 du 29 décembre 2021
 
 |
 
@@ -324,7 +288,7 @@ Aide-soignant civil de classe normale
 
 |
 
-Décret n° 2009-1357 du 03.11.2009 modifié
+Décret n° 2021-1869 du 29 décembre 2021
 
 |
 
@@ -1814,7 +1778,7 @@ et acheminement
 
 |
 
-- Recette distribution (4)
+-Recette distribution (4)
 
 |
 
@@ -1826,7 +1790,7 @@ Cat. B
 
 |
 
-- Acheminement
+-Acheminement
 
 |
 
@@ -1836,7 +1800,7 @@ Cat. B
 
 |
 
-- Entreposeur
+-Entreposeur
 
 |
 
@@ -1846,7 +1810,7 @@ Cat. B
 
 |
 
-- Distribution
+-Distribution
 
 |
 
@@ -1856,7 +1820,7 @@ Cat. B
 
 |
 
-- Courrier ambulant
+-Courrier ambulant
 
 |
 
@@ -1866,7 +1830,7 @@ Cat. B
 
 |
 
-- Courrier convoyeur
+-Courrier convoyeur
 
 |
 
@@ -3137,3 +3101,7 @@ Cat. B
 62 ans
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 2021-1872 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
