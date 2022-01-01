@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent accord s'applique aux entreprises entrant dans le champ d'application de la convention collective nationale des métiers du commerce de détail alimentaire spécialisé (IDCC 3237), tel que défini à l'article 1er de l'accord du 12 janvier 2021 relatif à sa création.
