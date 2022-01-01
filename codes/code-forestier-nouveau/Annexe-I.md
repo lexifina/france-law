@@ -4,822 +4,582 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 321-42
 
 Répartition des centres régionaux de la propriété forestière
 
-RÉGIONS DE COMPÉTENCE
+Régions de compétence |
 
-|
-
-RÉGION DU SIÈGE DU CRPF
-
-|
-
-DÉPARTEMENTS
-
-|
-
-Hauts-de-France
-
-|
-
-Hauts-de-France
-
-|
-
-Nord
-
-|
-
-|
-
-|
-
-Pas-de-Calais
-
-|
-
-|
-
-|
-
-Aisne
-
-|
-
-|
-
-|
-
-Oise
-
-|
-
-|
-
-|
-
-Somme
-
-|
-
-Normandie
-
-|
-
-Normandie
-
-|
-
-Eure
-
-|
-
-|
-
-|
-
-Seine-Maritime
-
-|
-
-|
-
-|
-
-Calvados
-
-|
-
-|
-
-|
-
-Manche
+Région du siège du CRPF |
 
-|
+Départements |
 
-|
+Hauts-de-France et Normandie |
 
-|
+Normandie |
 
-Orne
+Nord |
 
 |
 
-Grand Est
-
 |
 
-Grand Est
+Pas-de-Calais |
 
 |
-
-Ardennes
 
 |
 
-|
+Aisne |
 
 |
-
-Aube
 
 |
 
-|
+Oise |
 
 |
-
-Marne
 
 |
 
-|
+Somme |
 
 |
-
-Haute-Marne
 
 |
 
-|
+Eure |
 
 |
-
-Meurthe-et-Moselle
 
 |
 
-|
+Seine-Maritime |
 
 |
-
-Meuse
 
 |
 
-|
+Calvados |
 
 |
-
-Moselle
 
 |
 
-|
+Manche |
 
 |
 
-Vosges
-
 |
 
-|
+Orne |
 
-|
+Grand-Est |
 
-Bas-Rhin
+Grand-Est |
 
-|
+Ardennes |
 
 |
 
 |
 
-Haut-Rhin
+Aube |
 
 |
 
-Bretagne et Pays de la Loire
-
 |
 
-Pays de la Loire
+Marne |
 
 |
-
-Côtes-d'Armor
 
 |
 
-|
+Haute-Marne |
 
 |
-
-Finistère
 
 |
 
-|
+Meurthe-et Moselle |
 
 |
-
-Ille-et-Vilaine
 
 |
 
-|
+Meuse |
 
 |
-
-Morbihan
 
 |
 
-|
+Moselle |
 
 |
-
-Loire-Atlantique
 
 |
 
-|
+Vosges |
 
 |
 
-Maine-et-Loire
-
 |
 
-|
+Bas-Rhin |
 
 |
 
-Mayenne
-
 |
 
-|
+Haut-Rhin |
 
-|
+Bretagne et Pays-de-la-Loire |
 
-Sarthe
+Pays-de-la-Loire |
 
-|
+Côtes-d'Armor |
 
 |
 
 |
 
-Vendée
+Finistère |
 
 |
 
-Ile-de-France et Centre-Val de Loire
-
 |
 
-Centre-Val de Loire
+Ille-et-Vilaine |
 
 |
-
-Seine-et-Marne
 
 |
 
-|
+Morbihan |
 
 |
-
-Yvelines
 
 |
 
-|
+Loire-Atlantique |
 
 |
-
-Essonne
 
 |
 
-|
+Maine-et-Loire |
 
 |
-
-Hauts-de-Seine
 
 |
 
-|
+Mayenne |
 
 |
 
-Seine-Saint-Denis
-
 |
 
-|
+Sarthe |
 
 |
 
-Val-de-Marne
-
 |
 
-|
+Vendée |
 
-|
+Ile-de-France et Centre-Val-de-Loire |
 
-Val-d'Oise
+Centre-Val-de-Loire |
 
-|
+Seine-et-Marne |
 
 |
 
 |
 
-Cher
+Yvelines |
 
 |
 
 |
 
-|
-
-Eure-et-Loir
-
-|
+Essonne |
 
 |
 
 |
-
-Indre
 
-|
+Hauts-de-Seine |
 
 |
 
 |
-
-Indre-et-Loire
 
-|
+Seine-Saint-Denis |
 
 |
 
 |
 
-Loir-et-Cher
-
-|
+Val-de-Marne |
 
 |
 
 |
 
-Loiret
+Val-d'Oise |
 
 |
 
-Bourgogne-Franche-Comté
-
 |
 
-Bourgogne-Franche-Comté
+Cher |
 
 |
-
-Côte-d'Or
 
 |
 
-|
+Eure-et-Loir |
 
 |
-
-Nièvre
 
 |
 
-|
+Indre |
 
 |
-
-Saône-et-Loire
 
 |
 
-|
+Indre-et-Loire |
 
 |
-
-Yonne
 
 |
 
-|
+Loir-et-Cher |
 
 |
-
-Doubs
 
 |
 
-|
+Loiret |
 
-|
+Bourgogne-Franche-Comté |
 
-Jura
+Bourgogne-Franche-Comté |
 
-|
+Côte-d'Or |
 
 |
 
 |
 
-Haute-Saône
-
-|
+Nièvre |
 
 |
 
 |
 
-Territoire de Belfort
+Saône-et-Loire |
 
 |
 
-Nouvelle-Aquitaine
-
 |
 
-Nouvelle-Aquitaine
+Yonne |
 
 |
-
-Charente
 
 |
 
-|
+Doubs |
 
 |
-
-Charente-Maritime
 
 |
 
-|
+Jura |
 
 |
-
-Deux-Sèvres
 
 |
 
-|
+Haute-Saône |
 
 |
-
-Vienne
 
 |
 
-|
+Territoire-de-Belfort |
 
-|
+Nouvelle-Aquitaine |
 
-Corrèze
+Nouvelle-Aquitaine |
 
-|
+Charente |
 
 |
 
 |
-
-Creuse
 
-|
+Charente-Maritime |
 
 |
 
 |
 
-Haute-Vienne
-
-|
+Deux-Sèvres |
 
 |
 
 |
 
-Dordogne
+Vienne |
 
 |
 
 |
 
-|
-
-Gironde
-
-|
+Corrèze |
 
 |
 
 |
 
-Landes
+Creuse |
 
 |
 
 |
 
-|
-
-Lot-et-Garonne
-
-|
+Haute-Vienne |
 
 |
 
 |
 
-Pyrénées-Atlantiques
+Dordogne |
 
 |
 
-Auvergne-Rhône-Alpes
-
 |
 
-Auvergne-Rhône-Alpes
+Gironde |
 
 |
-
-Allier
 
 |
 
-|
+Landes |
 
 |
-
-Cantal
 
 |
 
-|
+Lot-et-Garonne |
 
 |
 
-Haute-Loire
-
 |
 
-|
+Pyrénées-Atlantiques |
 
-|
+Auvergne-Rhône-Alpes |
 
-Puy-de-Dôme
+Auvergne-Rhône-Alpes |
 
-|
+Allier |
 
 |
 
 |
 
-Ain
-
-|
+Cantal |
 
 |
 
 |
 
-Ardèche
+Haute-Loire |
 
 |
 
 |
 
-|
-
-Drôme
-
-|
+Puy-de-Dôme |
 
 |
 
 |
 
-Isère
+Ain |
 
 |
 
 |
 
-|
-
-Loire
-
-|
+Ardèche |
 
 |
 
 |
 
-Rhône
+Drôme |
 
 |
 
 |
 
-|
-
-Savoie
-
-|
+Isère |
 
 |
 
 |
 
-Haute-Savoie
+Loire |
 
 |
-
-Occitanie
 
 |
 
-Occitanie
+Rhône |
 
 |
 
-Ariège
-
 |
 
-|
+Savoie |
 
 |
 
-Aveyron
-
 |
 
-|
+Haute-Savoie |
 
-|
+Occitanie |
 
-Haute-Garonne
+Occitanie |
 
-|
+Ariège |
 
 |
 
 |
 
-Gers
+Aveyron |
 
 |
 
 |
 
-|
-
-Lot
-
-|
+Haute-Garonne |
 
 |
 
 |
 
-Hautes-Pyrénées
+Gers |
 
 |
 
 |
 
-|
-
-Tarn
-
-|
+Lot |
 
 |
 
 |
-
-Tarn-et-Garonne
 
-|
+Hautes-Pyrénées |
 
 |
 
 |
-
-Aude
 
-|
+Tarn |
 
 |
 
 |
-
-Gard
 
-|
+Tarn-et-Garonne |
 
 |
 
 |
-
-Hérault
 
-|
+Aude |
 
 |
 
 |
-
-Lozère
 
-|
+Gard |
 
 |
 
 |
 
-Pyrénées-Orientales
+Hérault |
 
 |
-
-Provence-Alpes-Côte d'Azur
 
 |
 
-Provence-Alpes-Côte d'Azur
+Lozère |
 
 |
 
-Alpes-de-Haute-Provence
-
 |
 
-|
+Pyrénées-Orientales |
 
-|
+Provence-Alpes-Côte-d'Azur |
 
-Hautes-Alpes
+Provence-Alpes-Côte-d'Azur |
 
-|
+Alpes-de-Haute-Provence |
 
 |
 
 |
-
-Alpes-Maritimes
 
-|
+Hautes-Alpes |
 
 |
 
 |
-
-Bouches-du-Rhône
 
-|
+Alpes-Maritimes |
 
 |
 
 |
-
-Var
 
-|
+Bouches-du-Rhône |
 
 |
 
 |
 
-Vaucluse
+Var |
 
 |
-
-Corse
 
 |
 
-Corse
+Vaucluse |
 
-|
+Corse |
 
-Haute-Corse
+Corse |
 
-|
+Haute-Corse |
 
 |
 
 |
 
-Corse-du-Sud
-
-|
+Corse-du-Sud |
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2016-1513 du 8 novembre 2016, ces dispositions entrent en vigueur à compter du prochain renouvellement des conseillers des centres régionaux de la propriété forestière et au plus tard le 1er avril 2017.
+Conformément à l'article 2 du décret n° 2021-1800 du 23 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
