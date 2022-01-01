@@ -896,11 +896,11 @@ Ministre chargé de la mer |
 
 35 |
 
-Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports. |
+Décisions relatives à l'inscription au registre prévu au II de l'article L. 5546-1-1 du code des transports des services privés de recrutement et de placement situés dans un département non littoral. |
 
-Décret n° 2017-1119 du 29 juin 2017
+Décret n° 2017-1119 modifié par le décret n° 2021-1477 du 10 novembre 2021
 
-Articles 5 à 11 et 17.
+Articles 2 (II), 5,6,8,9 et 17 ;
 
 |
 
@@ -1148,7 +1148,9 @@ Décision autorisant la dérogation à l'obligation générale d'emplacements de
 
 Code des transports
 
-R. 1272-10 |
+R. 1272-10
+
+|
 
 Ministre chargé des transports |
 
