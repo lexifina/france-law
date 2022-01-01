@@ -206,47 +206,47 @@ composant le ménage |
 
 Plafonds de revenus
 
-du ménage en Île-de-France (€) |
+du ménage en Ile-de-France (€) |
 
-Plafonds de revenus du ménage
+Plafonds de revenus
 
-pour les autres régions (€) |
+du ménage pour les autres régions (€) |
 
 1 |
 
-20 593 |
+21 123 |
 
-14 879 |
+15 262 |
 
 2 |
 
-30 225 |
+31 003 |
 
-21 760 |
+22 320 |
 
 3 |
 
-36 297 |
+37 232 |
 
-26 170 |
+26 844 |
 
 4 |
 
-42 381 |
+43 472 |
 
-30 572 |
+31 359 |
 
 5 |
 
-48 488 |
+49 736 |
 
-34 993 |
+35 894 |
 
 Par personne supplémentaire |
 
-6 096 |
+6 253 |
 
-4 412 |
+4 526 |
 
 Tableau B
 
@@ -256,47 +256,47 @@ composant le ménage |
 
 Plafonds de revenus
 
-du ménage en Île-de-France (€) |
+du ménage en Ile-de-France (€) |
 
-Plafonds de revenus du ménage
+Plafonds de revenus
 
-pour les autres régions (€) |
+du ménage pour les autres régions (€) |
 
 1 |
 
-25 068 |
+25 714 |
 
-19 074 |
+19 565 |
 
 2 |
 
-36 792 |
+37 739 |
 
-27 896 |
+28 614 |
 
 3 |
 
-44 188 |
+45 326 |
 
-33 547 |
+34 411 |
 
 4 |
 
-51 597 |
+52 925 |
 
-39 192 |
+40 201 |
 
 5 |
 
-59 026 |
+60 546 |
 
-44 860 |
+46 015 |
 
 Par personne supplémentaire |
 
-7 422 |
+7 613 |
 
-5 651 |
+5 797 |
 
 Fait à.
 
@@ -524,47 +524,47 @@ composant le ménage |
 
 Plafonds de revenus
 
-du ménage en Île-de-France (€) |
+du ménage en Ile-de-France (€) |
 
-Plafonds de revenus du ménage
+Plafonds de revenus
 
-pour les autres régions (€) |
+du ménage pour les autres régions (€) |
 
 1 |
 
-20 593 |
+21 123 |
 
-14 879 |
+15 262 |
 
 2 |
 
-30 225 |
+31 003 |
 
-21 760 |
+22 320 |
 
 3 |
 
-36 297 |
+37 232 |
 
-26 170 |
+26 844 |
 
 4 |
 
-42 381 |
+43 472 |
 
-30 572 |
+31 359 |
 
 5 |
 
-48 488 |
+49 736 |
 
-34 993 |
+35 894 |
 
 Par personne supplémentaire |
 
-6 096 |
+6 253 |
 
-4 412 |
+4 526 |
 
 Tableau B
 
@@ -574,47 +574,47 @@ composant le ménage |
 
 Plafonds de revenus
 
-du ménage en Île-de-France (€) |
+du ménage en Ile-de-France (€) |
 
-Plafonds de revenus du ménage
+Plafonds de revenus
 
-pour les autres régions (€) |
+du ménage pour les autres régions (€) |
 
 1 |
 
-25 068 |
+25 714 |
 
-19 074 |
+19 565 |
 
 2 |
 
-36 792 |
+37 739 |
 
-27 896 |
+28 614 |
 
 3 |
 
-44 188 |
+45 326 |
 
-33 547 |
+34 411 |
 
 4 |
 
-51 597 |
+52 925 |
 
-39 192 |
+40 201 |
 
 5 |
 
-59 026 |
+60 546 |
 
-44 860 |
+46 015 |
 
 Par personne supplémentaire |
 
-7 422 |
+7 613 |
 
-5 651 |
+5 797 |
 
 Liste des ménages bénéficiant de l'opération et dont les revenus sont inférieurs aux plafonds du tableau B ci-dessus (une ligne par ménage) :
 
@@ -710,4 +710,4 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'é
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux opérations d'économies d'énergie engagées à compter du 1er avril 2021.
+Conformément à l’article 3 de l’arrêté du 17 décembre 2021, les présentes dispositions sont applicables à compter du 1er janvier 2022. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er juillet 2022.
