@@ -14,8 +14,12 @@ M est le montant initial de la garantie financière de l'installation.
 
 Indexn est l'indice TP01 en vigueur à la date d'actualisation du montant de la garantie.
 
-Indexo est l'indice TP01 en vigueur au 1er janvier 2011, fixé à 102,1807 calculé sur la base 20.
+Indexo est l'indice TP01 en vigueur au 1er janvier 2011, fixé à 102,1807 converti avec la base 2010, en vigueur depuis octobre 2014.
 
 TVA est le taux de la taxe sur la valeur ajoutée applicable aux travaux de construction à la date d'actualisation de la garantie.
 
-TVAo est le taux de la taxe sur la valeur ajoutée au 1er janvier 2011, soit 19,60 %.
+TVAo est le taux de la taxe sur la valeur ajoutée au 1er janvier 2011, soit 19,60 % en France métropolitaine en 2021.
+
+NOTA :
+
+Conformément à l'article 22 de l'arrêté du 10 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
