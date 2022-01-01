@@ -1,6 +1,6 @@
 # Article 1er
 
-1.1. Le présent accord s'applique sous réserve des dispositions qui suivent à l'ensemble des salariés des entreprises entrant dans le champ d'application de la convention collective dès lors qu'ils justifient d'une ancienneté dans l'entreprise au moins égale à 3 mois.
+1.1. Le présent accord s'applique sous réserve des dispositions qui suivent à l'ensemble des salariés des entreprises entrant dans le champ d'application de la convention collective.
 
 Les VRP mono-employeur bénéficient du présent accord. Il en est de même des VRP dont tous les employeurs relèvent, à la date d'entrée en application du présent accord, du champ d'application de la convention collective. Dans le cas contraire, le VRP multi-employeurs peut décider par écrit de ne pas relever du présent accord, sous réserve tous les ans de renouveler son choix et de justifier qu'il bénéficie d'une couverture frais de santé. A défaut d'expression de ce choix, il relève du présent accord.
 
