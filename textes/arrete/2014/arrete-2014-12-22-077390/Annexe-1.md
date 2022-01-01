@@ -12,6 +12,8 @@ Secteur agriculture
 
 Conformément à l'article 2 de l'arrêté du 22 décembre 2017 (NOR : TRER1736405A), la fiche d'opération n° AGRI-TH-104 figurant en annexe 1 du présent arrêté remplace la fiche d'opération standardisée portant la même référence figurant à l'annexe 1 de l'arrêté du 22 décembre 2014 susvisé.
 
+Conformément à l'article 2 de l'arrêté du 24 juillet 2020 (NOR : TRER2020386A), les fiches d'opération n° AGRI-TH-104, AGRI-TH-108, AGRI-TH-110, figurant en annexe 1 du présent arrêté remplacent les fiches d'opérations standardisées portant les mêmes références figurant à l'annexe 1 de l'arrêté du 22 décembre 2014 susvisé.
+
 - Récupération de chaleur sur tank à lait / Fiche d'opération n° AGRI-TH-105
 
 - Pompe à chaleur de type air/eau ou eau/eau / Fiche d'opération n° AGRI-TH-108
@@ -66,7 +68,13 @@ Conformément à l'article 2 de l'arrêté du 2 juin 2016 (NOR : DEVR1611811A), 
 
 Conformément à l'article 4 de l'arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la fiche d’opération standardisée portant la référence AGRI-SE-101 figurant à l’annexe 1 de l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie est remplacée par la version figurant à l’annexe 4 du présent arrêté portant la même référence.
 
+Conformément à l'article 2 de l'arrêté du 17 décembre 2021 (NOR : TRER2137033A), la fiche d'opération n° AGRI-SE-101 remplace, à compter du 1er avril 2022, la fiche portant la même référence figurant en annexe 1 de l'arrêté du 22 décembre 2014 susvisé.
+
 Liens
+
+Vous pouvez consulter les fiches dans le fac-similé du JO nº 0301 du 28/12/2021, texte nº 7
+
+https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
 
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0175 du 30/07/2021, texte nº 2
 
@@ -119,7 +127,3 @@ https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ
 Vous pouvez consulter les fiches dans le fac-similé du JO nº 0294 du 24/12/2014, texte nº 18
 
 https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
-
-NOTA :
-
-Se reporter à l'article 7 de l'arrêté du 6 décembre 2018, à l'article 6 de l'arrêté du 24 juillet 2020 et à l'article 2 de l'arrêté du 19 juillet 2021 (NOR : TRER2121430A).
