@@ -42,7 +42,7 @@ II.-L'ensemble de ces documents est tenu à la disposition de l'inspection des i
 
 III.-Par dérogation au II :
 
--les rapports de suivi environnemental visé à au point 3.7 sont transmis à l'inspection des installations classées au plus tard 6 mois après la dernière campagne de prospection sur le terrain réalisée dans le cadre de ces suivis ;
+-les rapports de suivi environnemental visés au point 3.7 sont transmis à l'inspection des installations classées au plus tard 6 mois après la dernière campagne de prospection sur le terrain réalisée dans le cadre de ces suivis ;
 
 -les rapports acoustiques rédigés à la suite de la vérification de la conformité de l'installation prévue par le point 8.4 sont transmis à l'inspection des installations classées au plus tard 3 mois après l'achèvement de la campagne de mesures.
 
@@ -56,9 +56,7 @@ Un registre rassemblant l'ensemble des déclarations faites au titre du présent
 
 Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant en fait la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration mentionne, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration.
 
-1.7. Cessation d'activité
-
-Lorsqu'une installation classée est mise à l'arrêt définitif, l'exploitant notifie au préfet la date de cet arrêt au moins trois mois avant celui-ci. La notification de l'exploitant indique notamment les mesures de mise en sécurité du site et de remise en état prévues ou réalisées.
+1.7. [⁎]
 
 1.8. Définitions
 
@@ -68,27 +66,27 @@ Au sens du présent arrêté on entend par :
 
 Point de raccordement : point de connexion de l'installation au réseau électrique. Il peut s'agir entre autre d'un poste de livraison ou d'un poste de raccordement. Il constitue la limite entre le réseau électrique interne et externe.
 
-Mise en service industrielle : phase d'exploitation suivant la période d'essais.
+Mise en service industrielle : phase d'exploitation suivant la fin des essais du bon fonctionnement et de la sécurité de l'ensemble des turbines, à réception par l'exploitant du certificat de contrôle signé par le fabricant, suivant la validation des essais de la dernière turbine du parc.
 
 Survitesse : vitesse de rotation des parties tournantes (rotor constitué du moyeu et des pales ainsi que la ligne d'arbre jusqu'à la génératrice) supérieure à la valeur maximale indiquée par le constructeur.
 
-Aérogénérateur : dispositif mécanique destiné à convertir l'énergie du vent en électricité, composé des principaux éléments suivants : un mât, une nacelle, le rotor auquel sont fixées les pales, ainsi que, le cas échéant un transformateur.
+Aérogénérateur : dispositif mécanique destiné à convertir l'énergie du vent en électricité, composé des principaux éléments suivants : un mât, une nacelle, une génératrice, un rotor constitué d'un moyeu et de pales, ainsi que, le cas échéant un transformateur.
 
 1.8.2
 
-I.-L'exploitant est tenu de déclarer les données techniques relatives à l'installation, incluant l'ensemble des aérogénérateurs. Les modalités de transmission et la nature des données techniques à déclarer sont définies par avis au bulletin officiel du ministère de la transition écologique et solidaire.
+I.-L'exploitant est tenu de déclarer les données techniques relatives à l'installation, incluant l'ensemble des aérogénérateurs et du (des) poste (s) de livraison. Les modalités de transmission et la nature des données techniques à déclarer sont définies par avis au bulletin officiel du ministère de la transition écologique et solidaire.
 
 II.-A compter de la date de publication de l'avis visé au I du présent point, la déclaration doit être réalisée, et le cas échéant mise à jour, dans un délai maximal de quinze jours après chacune des étapes suivantes :
 
 -la déclaration de l'installation prévue par l'article R. 512-47 du code de l'environnement ;
 
--le dépôt d'une demande au préfet en application de l'article R. 512-52 du code de l'environnement ;
-
 -la déclaration d'ouverture du chantier de construction d'un ou plusieurs aérogénérateurs ;
 
--la mise en service industrielle des aérogénérateurs y compris, le cas échéant, après leur renouvellement ;
+-la mise en service industrielle des aérogénérateurs ;
 
--le démarrage du chantier de démantèlement d'un aérogénérateur.
+-le démarrage du chantier de démantèlement d'un aérogénérateur de l'installation ;
+
+-la scission d'un parc éolien en plusieurs parcs.
 
 Lorsque l'étape correspondante a déjà été réalisée à la date de publication de l'avis visé au point I du présent article, la déclaration est réalisée dans les six mois après cette publication.
 
@@ -124,7 +122,7 @@ Les distances d'éloignement sont mesurées à partir de la base du mât de chaq
 
 2.2. Radar
 
-I.-L'installation est implantée de façon à ne pas perturber de manière significative le fonctionnement des radars et des aides à la navigation utilisés dans le cadre des missions de sécurité de la navigation maritime et fluviale et de sécurité météorologique des personnes et des biens.
+L'installation est implantée de façon à ne pas perturber de manière significative le fonctionnement des radars et des aides à la navigation utilisés dans le cadre des missions de sécurité de la navigation maritime et fluviale et de sécurité météorologique des personnes et des biens.
 
 A cette fin, les aérogénérateurs sont implantés dans le respect des distances minimales d'éloignement indiquées ci-dessous sauf si l'exploitant dispose de l'accord écrit de l'établissement public chargé des missions de l'Etat en matière de sécurité météorologique des personnes et des biens ou de de l'établissement public chargé des missions de l'Etat en matière de sécurité de la navigation maritime et fluviale.
 
@@ -172,8 +170,6 @@ Les règles applicables aux avis conformes du ministre chargé de l'aviation civ
 
 Pour les missions de sécurité militaire, l'exploitant implante les aérogénérateurs selon une configuration qui fait l'objet d'un accord écrit des services de la zone aérienne de défense compétente sur le secteur d'implantation de l'installation.
 
-II.-Dans le cas d'un projet de renouvellement, autre qu'un renouvellement à l'identique, d'une installation qui ne respectent pas les distances minimales d'éloignement fixées dans le tableau du présent point, la modification des aérogénérateurs n'augmente pas les risques de perturbations des radars météorologiques et des radars portuaires et des centres régionaux de surveillance et de sauvetage. A cette fin, l'exploitant dispose de l'accord écrit de de l'établissement public chargé des missions de l'Etat en matière de sécurité de la navigation maritime et fluviale et matière de sécurité météorologique des personnes et des biens.
-
 2.3. Ondes électromagnétiques
 
 L'installation est implantée de telle sorte que les habitations ne sont pas exposées à un champ magnétique émanant des aérogénérateurs supérieur à 100 microteslas à 50-60 Hz.
@@ -188,29 +184,29 @@ Les abords de l'installation placés sous le contrôle de l'exploitant sont main
 
 2.5. Installations électriques
 
-L'installation est conçue pour prévenir les risques électriques.
+L'installation est conçue pour prévenir les risques d'incendie et d'explosion d'origine électrique.
 
 Pour satisfaire au 1er alinéa :
 
 -les installations électriques à l'intérieur de l'aérogénérateur respectent les dispositions de la directive du 17 mai 2006 susvisée qui leur sont applicables ;
 
--pour les installations électriques extérieures à l'aérogénérateur, le respect des normes NF C 15-100, NF C 13-100 et NF C 13-200, dans leur version en vigueur à la date de délivrance du récépissé de déclaration de l'installation, permet de répondre à cette exigence.
+-pour les installations électriques non visées par la directive du 17 mai 2006, notamment les installations extérieures à l'aérogénérateur, le respect des normes NF C 15-100, NF C 13-100 et NF C 13-200, dans leur version en vigueur à la date de délivrance du récépissé de déclaration de l'installation, permet de répondre à cette exigence.
 
-Un rapport de contrôle d'un organisme compétent atteste de la conformité de l'installation pour prévenir les risques électriques, avant sa mise en service industrielle.
+Un rapport de contrôle d'un organisme compétent atteste de la conformité de l'ensemble des installations électriques, avant la mise en service industrielle des aérogénérateurs.
 
 2.6. Foudre
 
-L'installation est mise à la terre pour prévenir les conséquences du risque foudre. Le respect de la norme IEC 61 400-24, dans sa version en vigueur à la date de délivrance du récépissé de déclaration de l'installation, permet de répondre à cette exigence.
+L'installation est mise à la terre pour prévenir les conséquences du risque foudre. Le respect de la norme NF EN IEC 61 400-24, dans sa version en vigueur à la date de délivrance du récépissé de déclaration de l'installation, permet de répondre à cette exigence.
 
-Un rapport de contrôle d'un organisme compétent atteste de la mise à la terre de l'installation avant sa mise en service industrielle.
+Un rapport de contrôle d'un organisme compétent au sens de l'article 17 de l'arrêté ministériel du 4 octobre 2010 relatif à la prévention des risques accidentels au sein des installations classées pour la protection de l'environnement soumises à autorisation atteste de la mise à la terre de l'installation avant sa mise en service industrielle. Des contrôles périodiques sont effectués pour vérifier la pérennité de la mise à la terre, selon les périodicités suivantes : une fois par an pour le contrôle visuel et une fois tous les deux ans pour le contrôle avec mesure de la continuité électrique.
 
 2.7. Conception des installations
 
-L'aérogénérateur est conçu pour garantir le maintien de son intégrité technique au cours de sa durée de vie. Le respect de la norme NF EN 61 400-1 ou IEC 61 400-1, dans leur version en vigueur à la date de délivrance du récépissé de déclaration de l'installation, ou toute norme équivalente en vigueur dans l'Union européenne à l'exception des dispositions contraires aux prescriptions du présent arrêté, permet de répondre à cette exigence.
+L'aérogénérateur est conçu pour garantir le maintien de son intégrité technique au cours de sa durée de vie. Le respect de la norme NF EN 61 400-1 ou IEC 61 400-1, dans leur version en vigueur à la date de délivrance du récépissé de déclaration de l'installation, ou le respect de toute norme équivalente en vigueur dans l'Union européenne à l'exception des dispositions contraires aux prescriptions du présent arrêté, permet de répondre à cette exigence.
 
-Un rapport de contrôle d'un organisme compétent atteste de la conformité de chaque aérogénérateur de l'installation avant leur mise en service industrielle. A défaut, l'aérogénérateur est conforme à un référentiel technique approuvé par décision du ministre chargé des installations classées.
+Un rapport de contrôle d'un organisme compétent atteste de la conformité de chaque aérogénérateur de l'installation avant la mise en service industrielle de l'installation. A défaut, l'aérogénérateur est conforme à un référentiel technique approuvé par décision du ministre chargé des installations classées.
 
-En outre l'exploitant dispose des justificatifs démontrant que chaque aérogénérateur de l'installation remplit les dispositions de l'article R. 111-38 du code de la construction et de l'habitation.
+En outre l'exploitant dispose des justificatifs démontrant que chaque aérogénérateur de l'installation a fait l'objet du contrôle prévu à l'article R. 125-17 du code de la construction et de l'habitation.
 
 2.8 Biodiversité
 
@@ -242,9 +238,11 @@ L'exploitant tient à jour, pour son installation, un registre dans lequel sont 
 
 Le manuel d'entretien et le registre de maintenance ou d'entretien sont dans leur version française.
 
+Par dérogation, le manuel d'entretien destiné à être utilisé par un personnel spécialisé qui dépend du fabricant ou de son mandataire peut être fourni dans une seule des langues communautaires comprises par ce personnel.
+
 3.5. Mise en service de l'aérogénérateur
 
-Avant la mise en service industrielle d'un aérogénérateur, l'exploitant réalise des essais permettant de s'assurer du bon fonctionnement de l'ensemble des équipements mobilisés pour mettre l'aérogénérateur en sécurité. Ces essais comprennent :
+Avant toute mise en service industrielle, l'exploitant réalise des essais sur chaque aérogénérateur permettant de s'assurer du bon fonctionnement de l'ensemble des équipements mobilisés pour mettre chaque aérogénérateur en sécurité.
 
 -un arrêt ;
 
@@ -279,8 +277,6 @@ Ce suivi est renouvelé dans les 12 mois si le précédent suivi a mis en évide
 Le suivi mis en place par l'exploitant est conforme au protocole de suivi environnemental reconnu par le ministre chargé des installations classées.
 
 Les données brutes collectées dans le cadre du suivi environnemental sont versées, par l'exploitant ou toute personne qu'il aura mandatée à cette fin, dans l'outil de télé-service de “ dépôt légal de données de biodiversité ” créé en application de l'arrêté du 17 mai 2018. Le versement de données est effectué concomitamment à la transmission de chaque rapport de suivi environnemental à l'inspection des installations classées imposée au III du point 1.4. Lorsque ces données sont antérieures à la date de mise en ligne de l'outil de télé-service, elles doivent être versées dans un délai de 6 mois à compter de la date de mise en ligne de cet outil.
-
-Dans le cas d'un projet de renouvellement d'une installation existante, autre qu'un renouvellement à l'identique ou une extension au sens de l'article R. 512-54 du code de l'environnement, l'exploitant met en place un suivi environnemental, permettant d'atteindre les objectifs visés au 1er alinéa du présent point, dans les 3 ans qui précèdent le dépôt d'une demande au préfet prévue par l'article R. 512-52 du code de l'environnement.
 
 3.8. Information des tiers
 
@@ -328,7 +324,7 @@ En cas de détection d'un fonctionnement anormal notamment en cas d'incendie ou 
 
 Chaque aérogénérateur est doté de moyens de lutte et de prévention contre les conséquences d'un incendie appropriés aux risques et conformes aux normes en vigueur, composé a minima de deux extincteurs placés à l'intérieur de l'aérogénérateur, au sommet et au pied de celui-ci. Ils sont positionnés de façon bien visible et facilement accessibles.
 
-Les agents d'extinction sont appropriés aux risques à combattre. Cette disposition ne s'applique pas aux aérogénérateurs ne disposant pas d'accès à l'intérieur du mât. Cette disposition ne s'applique pas aux aérogénérateurs ne disposant pas d'accès à l'intérieur du mât.
+Les agents d'extinction sont appropriés aux risques à combattre. Cette disposition ne s'applique pas aux aérogénérateurs ne disposant pas d'accès à l'intérieur du mât.
 
 4.4. Balisage
 
@@ -378,9 +374,9 @@ Au sens du présent arrêté, on appelle :
 
 -zones à émergence réglementée :
 
-o l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration pour les nouvelles installations ou à la date du permis de construire pour les installations existantes, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
+o l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration ou à la date du permis de construire pour les installations existantes historiques, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) ;
 
-o les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration pour les nouvelles installations ou à la date du permis de construire pour les installations existantes ;
+o les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration ou à la date du permis de construire pour les installations existantes historiques ;
 
 o l'intérieur des immeubles habités ou occupés par des tiers qui ont fait l'objet d'une demande de permis de construire dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse), à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles, lorsque la demande a été déposée avant la mise en service industrielle de l'installation.
 
@@ -388,7 +384,7 @@ o l'intérieur des immeubles habités ou occupés par des tiers qui ont fait l'o
 
 R = 1,2 x (hauteur de moyeu + longueur d'un demi-rotor)
 
-Pour les installations existantes, la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du 26 août 2011.
+Pour les installations existantes historiques, la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du 26 août 2011.
 
 L'installation est construite, équipée et exploitée de façon telle que son fonctionnement ne puisse être à l'origine de bruits transmis par voie aérienne ou solidienne susceptibles de compromettre la santé ou la sécurité du voisinage.
 
@@ -434,16 +430,6 @@ Sup à 35 dB (A)
 
 |
 
-Les valeurs d'émergence mentionnées ci-dessus peuvent être augmentées d'un terme correctif en dB (A), fonction de la durée cumulée d'apparition du bruit de l'installation égal à :
-
--Trois pour une durée supérieure à 20 minutes et inférieure ou égale à 2 heures ;
-
--Deux pour une durée supérieure à 2 heures et inférieure ou égale à 4 heures ;
-
--Un pour une durée supérieure à 4 heures et inférieure ou égale à 8 heures ;
-
--Zéro pour une durée supérieure à 8 heures.
-
 En outre, le niveau de bruit maximal est fixé à 70dB (A) pour la période jour et de 60 dB (A) pour la période nuit. Ce niveau de bruit est mesuré en n'importe quel point du périmètre de mesure du bruit défini au présent article. Lorsqu'une zone à émergence réglementée se situe à l'intérieur du périmètre de mesure du bruit, le niveau de bruit maximal est alors contrôlé pour chaque aérogénérateur de l'installation à la distance R définie ci-dessus. Cette disposition n'est pas applicable si le bruit résiduel pour la période considérée est supérieur à cette limite.
 
 Dans le cas où le bruit particulier de l'établissement est à tonalité marquée au sens du point 1.9 de l'annexe de l'arrêté du 23 janvier 1997 susvisé, de manière établie ou cyclique, sa durée d'apparition ne peut excéder 30 pour cent de la durée de fonctionnement de l'établissement dans chacune des périodes diurne ou nocturne définies dans le tableau ci-dessus.
@@ -460,7 +446,9 @@ L'usage de tous appareils de communication par voie acoustique (par exemple sir�
 
 8.4. Surveillance par l'exploitant des émissions sonores
 
-Lorsque des mesures sont effectuées pour vérifier le respect des présentes dispositions, elles sont effectuées selon les dispositions de la norme NF 31-114 dans sa version en vigueur six mois après la publication du présent arrêté ou à défaut selon les dispositions de la norme NFS 31-114 dans sa version de juillet 2011.
+I.-L'exploitant fait vérifier la conformité acoustique de l'installation aux dispositions du point 8.1 du présent arrêté. Sauf cas particulier justifié et faisant l'objet d'un accord du Préfet, cette vérification est faite dans les 12 mois qui suivent la mise en service industrielle. Dans le cas d'une dérogation accordée par le Préfet, la conformité acoustique de l'installation doit être vérifiée au plus tard dans les 18 mois qui suivent la mise en service industrielle de l'installation.
+
+II.-Les mesures effectuées pour vérifier le respect des dispositions du point 8.1, ainsi que leur traitement, sont conformes au protocole de mesure acoustique des parcs éoliens terrestres reconnu par le ministre chargé des installations classées.
 
 9. Remise en état en fin d'exploitation
 
@@ -468,19 +456,19 @@ Lorsque l'installation est mise à l'arrêt définitif, l'exploitant place le si
 
 Les opérations de démantèlement et de remise en état comprennent les opérations suivantes :
 
-1. Le démantèlement des installations de production d'électricité, des postes de livraison ainsi que les câbles dans un rayon de 10 mètres autour des aérogénérateurs et des postes de livraison ;
+1. Le démantèlement des installations de production d'électricité, des postes de livraison ainsi que les câbles dans un rayon de 10 mètres autour des aérogénérateurs et des postes de livraison ; Par exception, les postes de livraison ainsi que les câbles autour des aérogénérateurs qui ont vocation à être réutilisés pour de nouveaux aérogénérateurs dûment encadrés réglementairement ne sont pas démantelés.
 
-2. L'excavation de la totalité des fondations, jusqu'à la base de leur semelle, à l'exception des éventuels pieux. Par dérogation, la partie inférieure des fondations peut être maintenue dans le sol sur la base d'une étude adressée au préfet démontrant que le bilan environnemental du décaissement total est défavorable, sans que la profondeur excavée ne puisse être inférieure à 2 mètres dans les terrains à usage forestier au titre du document d'urbanisme opposable et 1 m dans les autres cas. Les fondations excavées sont remplacées par des terres de caractéristiques comparables aux terres en place à proximité de l'installation ;
+2. L'excavation de la totalité des fondations, jusqu'à la base de leur semelle, à l'exception des éventuels pieux. Par dérogation, la partie inférieure des fondations peut être maintenue dans le sol sur la base d'une étude adressée au préfet et ayant été acceptée par ce dernier démontrant que le bilan environnemental du décaissement total est défavorable, sans que la profondeur excavée ne puisse être inférieure à 2 mètres dans les terrains à usage forestier au titre du document d'urbanisme opposable et 1 m dans les autres cas. Les fondations excavées sont remplacées par des terres de caractéristiques comparables aux terres en place à proximité de l'installation ; Par exception, les fondations en place peuvent ne pas être excavées si elles sont réutilisées pour fixer de nouveaux aérogénérateurs dûment encadrés réglementairement.
 
 3. La remise en état qui consiste en le décaissement des aires de grutage et des chemins d'accès sur une profondeur de 40 centimètres et le remplacement par des terres de caractéristiques comparables aux terres à proximité de l'installation, sauf si le propriétaire du terrain sur lequel est sise l'installation souhaite leur maintien en l'état.
 
 Les déchets de démolition et de démantèlement sont réutilisés, recyclés, valorisés, ou à défaut éliminés dans les filières dûment autorisées à cet effet.
 
-Au 1er juillet 2022, au minimum 90 % de la masse totale des aérogénérateurs démantelés, fondations incluses, lorsque la totalité des fondations sont excavées, ou 85 % lorsque l'excavation des fondations fait l'objet d'une dérogation prévue par le I, doivent être réutilisés ou recyclés.
+Au 1er juillet 2022, au minimum 90 % de la masse totale des aérogénérateurs démantelés, fondations incluses, lorsque la totalité des fondations sont excavées, ou 85 % lorsque l'excavation des fondations fait l'objet d'une dérogation prévue par le point 9.2, doivent être réutilisés ou recyclés.
 
 Au 1er juillet 2022, au minimum 35 % de la masse des rotors doivent être réutilisés ou recyclées.
 
-Les aérogénérateurs dont le dossier d'autorisation complet est déposé après les dates suivantes ainsi que les aérogénérateurs mis en service après cette même date dans le cadre d'une modification notable d'une installation existante, doivent avoir au minimum :
+Les aérogénérateurs déclarés après les dates suivantes doivent avoir au minimum :
 
 -après le 1er janvier 2024,95 % de leur masse totale, tout ou partie des fondations incluses, réutilisable ou recyclable ;
 
@@ -490,4 +478,16 @@ Les aérogénérateurs dont le dossier d'autorisation complet est déposé aprè
 
 NOTA :
 
-Conformément au II de l'article 22 de l'arrêté du 22 juin 2020 ( NOR : TREP2003954A ), par dérogation au I, l'obligation prévue par l'article 1er dudit arrêté que les rapports et justificatifs soient dans leur version française est portée au 1er juillet 2022 pour les documents visés aux articles 5 à 7 de l'arrêté précité.
+Conformément à l’article 18 de l’arrêté du 10 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+
+Conformément au II de l'article 22 de l'arrêté du 22 juin 2020, par dérogation au I, l'obligation prévue par l'article 1er dudit arrêté que les rapports et justificatifs soient dans leur version française est portée au 1er juillet 2022 pour les documents visés aux articles 5 à 7 de l'arrêté précité.
+
+Par décision no 465036 du 8 mars 2024 du Conseil d’Etat statuant au contentieux, FR:CECHR:2024:465036.20240308, les dispositions suivantes sont annulées :
+
+- L’article 14 de l’arrêté " autorisation " du 10 décembre 2021, en tant qu’il insère un II à l’article 28 de l’arrêté " autorisation " du 26 août 2011 ;
+
+- L’article 15 de l’arrêté " déclaration " du 10 décembre 2021, en tant qu’il insère un II au point 8.4 de l’annexe I de l’arrêté " déclaration " du 26 août 2011 ;
+
+- L’arrêté " autorisation " du 10 décembre 2021 en tant qu’il applique les règles de distance fixées par son article 3 au renouvellement des installations existantes, dans les conditions prévues par sa nouvelle annexe III ;
+
+- Les décisions du 10 décembre 2021, du 31 mars 2022 et du 11 juillet 2023 relatives à l’approbation du protocole de mesure de l’impact acoustique d’un parc éolien terrestre, et les différentes versions du protocole ainsi approuvées.
