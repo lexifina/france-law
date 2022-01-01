@@ -8,9 +8,7 @@ Mesures permanentes
 
 PERSONNELS CONCERNES |
 
-Montants au
-
-16 décembre 2021
+Montants au 1er janvier 2022
 
 (en euros) |
 
@@ -22,89 +20,89 @@ A. Professeurs des universités-praticiens hospitaliers (montants bruts annuels)
 
 |
 
-Après 12 ans |
+5e échelon |
+
+58 000,00 € |
+
+4e échelon |
 
 56 155,65 € |
 
-Après 9 ans |
+3e échelon |
 
 49 484,37 € |
 
-Après 6 ans |
+2e échelon |
 
 41 701,40 € |
 
-Après 3 ans |
+1e échelon |
 
 38 365,78 € |
-
-Avant 3 ans |
-
-33 918,45 € |
 
 B. Maîtres de conférences des universités-praticiens hospitaliers (montants bruts annuels) |
 
 |
 
-Après 18 ans |
+7e échelon |
+
+48 025,00 € |
+
+6e échelon |
+
+46 525,00 € |
+
+5e échelon |
 
 45 025,80 € |
 
-Après 15 ans |
+4e échelon |
 
 42 107,38 € |
 
-Après 12 ans |
+3e échelon |
 
 39 078,64 € |
 
-Après 9 ans |
+2e échelon |
 
 36 050,03 € |
 
-Après 6 ans |
+1e échelon |
 
 33 021,31 € |
-
-Après 3 ans |
-
-29 984,11 € |
-
-Avant 3 ans |
-
-26 926,55 € |
 
 C-Maitres de conférences des universités-praticiens hospitaliers des disciplines odontologiques exerçant à temps partiel (montants bruts annuels) |
 
 |
 
-Après 18 ans |
+7e échelon |
 
-18 010,36 € |
+19 210,00 € |
 
-Après 15 ans |
+6e échelon |
 
-16 843,09 € |
+18 610,00 € |
 
-Après 12 ans |
+5e échelon |
 
-15 631,62 € |
+18 010,32 € |
 
-Après 9 ans |
+4e échelon |
 
-14 420,17 € |
+16 842,95 € |
 
-Après 6 ans |
+3e échelon |
 
-13 208,49 € |
+15 631,46 € |
 
-Après 3 ans |
+2e échelon |
 
-11 993,57 € |
+14 420,01 € |
 
-Avant 3 ans |
+1e échelon |
 
-10 770,85 € |
+13 208,52 € |
 
 D. Chefs de clinique des universités-assistants des hôpitaux et assistants hospitaliers universitaires (montants bruts annuels) |
 
@@ -132,7 +130,7 @@ E-Chefs de clinique des universités-assistants des hôpitaux des disciplines od
 
 II-Indemnité d'engagement de service public exclusif (montant brut mensuel) pour A, B et D |
 
-1010 € |
+1 010 € |
 
 III-Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant) |
 
@@ -152,8 +150,12 @@ de plus de 3 demi-journées à 4 demi-journées inclus |
 
 4 demi-journées sur au moins 2 sites différents du site principal d'exercice ou plus de 4 demi-journées |
 
-1000 € |
+1 000 € |
 
 IV-Indemnité d'activité sectorielle et de liaison pour A, B et D (montant brut mensuel) |
 
 420,86 € |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 23 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.
