@@ -1,0 +1,33 @@
+# Article 1er
+
+L'article 31 bis « Prime de fin d'année » est ainsi rédigé :
+
+« 1.   Les salariés ont droit, dans les conditions précisées ci-après, au versement à leur profit d'une prime intitulée « prime de fin d'année » d'un montant de 2 % de leur rémunération brute annuelle calculée sur la période du 1er décembre de l'année N – 1 au 30 novembre de l'année N.
+
+La rémunération brute annuelle comprend l'ensemble des sommes et avantages accordés par l'employeur revêtant le caractère de salaire et assujettis à cotisations de sécurité sociale : salaire de base, congés payés, avantages en nature, prime d'ancienneté, prime pour événements familiaux, salaire variable, complément de salaire et indemnités journalières complémentaires financées par l'employeur en cas d'arrêt de travail pour maladie professionnelle et non professionnelle ou accident ainsi que les majorations prévues par la loi ou les accords collectifs (majorations pour heures supplémentaires, travail de nuit...).
+
+La rémunération brute annuelle ne comprend donc pas :
+
+– les remboursements de frais professionnels et de frais de transport ;
+
+– les tickets restaurants ;
+
+– les indemnités présentant le caractère de dommages et intérêts (telle l'indemnité de licenciement ou l'indemnité de départ en retraite) ;
+
+– les sommes versées au titre de l'intéressement ou de la participation.
+
+2.   La prime est versée, sans condition d'ancienneté, à l'ensemble des salariés employés à temps complet ou à temps partiel, en CDI ou en CDD, y compris les apprentis et les travailleurs saisonniers.
+
+3.   La prime pourra être versée en deux fois :
+
+– 50 % au mois de juin de l'année N ;
+
+– le solde au mois de décembre de l'année N calculé comme indiqué à l'article 1.1.
+
+Le salarié quittant l'entreprise en cours de période, a droit à une prime calculée au prorata de son temps de présence lors de l'établissement de son solde de tout compte.
+
+4.   La prime de fin d'année ne s'ajoute pas aux primes versées dans certaines entreprises en une ou plusieurs fois dans l'année, quelle que soit l'appellation de ces primes (par exemple : prime de fin d'année, gratification, prime de bilan, prime de vacances, 13e mois (à l'exclusion de la prime d'ancienneté lorsqu'elle existe, des primes de rendement et des primes de productivité) dans la mesure où le total des primes versées est d'un montant au moins égal à celui fixé au point 1.
+
+(1) Compte tenu du nouvel ordonnancement des niveaux de négociation issu de l'ordonnance n° 2017-1385 du 22 septembre 2017, article étendu sous réserve de l'application des articles L. 2253-1 à L. 2253-3 du code du travail tels qu'interprétés par la décision du 13 décembre 2021 n° 433232 dont il ressort que « si la convention de branche peut retenir que les salaires minima hiérarchiques s'appliquent aux rémunérations effectives des salariés résultant de leurs salaires de base et de certains compléments de salaire, elle ne peut, lorsqu'elle prévoit l'existence de primes, ainsi que leur montant, indépendamment (…) de la définition des garanties applicables en matière de salaires minima hiérarchiques, faire obstacle à ce que les stipulations d'un accord d'entreprise en cette matière prévalent sur celles de la convention de branche, y compris si elles y sont moins favorables ».
+
+(Arrêté du 23 mai 2022 - art. 1)
