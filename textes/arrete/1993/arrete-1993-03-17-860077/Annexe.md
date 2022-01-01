@@ -2,72 +2,58 @@
 
 CENTRE NATIONAL ET CENTRES RÉGIONAUX DES OEUVRES UNIVERSITAIRES ET SCOLAIRES
 
-DÉSIGNATION DE LA FONCTION
-
-|
+DÉSIGNATION DE LA FONCTION |
 
 NIVEAU
 
-des responsabilités
+des responsabilités |
 
-|
-
-NOMBRE D'EMPLOIS
-
-|
+NOMBRE D'EMPLOIS |
 
 NOMBRE DE POINTS
 
-d'indice majoré par emploi à compter du 1er janvier 1998
+d'indice majoré par emploi à compter du 1er janvier 2022 |
 
-|
+Directeurs généraux de C. R. O. U. S. |
 
-Directeurs des cités et restaurants et responsables administratifs et financiers exerçant au C.N.O.U.S, dans les C.R.O.U.S. et dans les C.LO.U.S.
+A |
 
-|
+26 |
 
-B
+50 |
 
-|
+Agents comptables exerçant dans les C. R. O. U. S. |
 
-176
+A |
 
-|
+26 |
 
-10 à 20
+40 |
 
-|
+Directeurs des cités et restaurants et responsables administratifs et financiers exerçant au C. N. O. U. S., dans les C. R. O. U. S. et dans les
 
-d°
+C. LO. U. S. |
 
-|
+A |
 
-A
+426
 
-|
-
-426 dans la limite de 602 emplois
-
-|
+dans la limite de 602 emplois |
 
 15 à 40
 
-dans la limite de 12715 points
+dans la limite de 12 715 points |
 
-|
+Directeurs des cités et restaurants et responsables administratifs et financiers exerçant au C. N. O. U. S., dans les C. R. O. U. S. et dans les
 
-Agents comptables exerçant dans les C.R.O.U.S.
+C. LO. U. S. |
 
-|
+B |
 
-A
+176 |
 
-|
+10 à 20 |
 
-28
+NOTA :
 
-|
-
-40
-
-|
+Conformément à l’article 3 de l’arrêté du 21 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
