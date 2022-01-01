@@ -1,18 +1,22 @@
 # Article Annexe 1 au III art R353-159
 
+Annexe 1 au III art R353-159
+
+Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-2 du code de la construction et de l'habitation portant sur les logements-foyers accueillant des personnes âgées ou des personnes handicapées, mentionnés aux articles L. 353-1, L. 831-1 (5°) et R. 832-20 (1°) de ce code, et ouvrant droit à l'aide personnalisée au logement
+
 Entre les soussignés :
 
-Le ministre chargé du logement, agissant au nom de l'Etat, et représenté par le préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, par le président de l'établissement public de coopération intercommunale ou du conseil général ;
+Le ministre chargé du logement, agissant au nom de l'Etat et représenté par le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, par le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse ;
 
-XX [Organisme d'habitations à loyer modéré, société d'économie mixte ou collectivité territoriale ou autre personne morale propriétaire du logement-foyer] représenté (e) par M..........., dénommé (e) ci-après le propriétaire ;
+XX [Organisme d'habitations à loyer modéré, société d'économie mixte ou collectivité territoriale ou autre personne morale propriétaire du logement-foyer (1)] représenté (e) par M. …, dénommé (e) ci-après le propriétaire ;
 
-XX [Organisme agréé gestionnaire du logement-foyer, sauf dans le cas où le propriétaire est gestionnaire direct] représenté (e) par son président M..........., autorisé à cet effet par délibération de son conseil d'administration, en date du.........., dénommé ci-après le gestionnaire, et agissant à ce titre en application de la convention de location conclue avec le propriétaire ;
+YY [Organisme agréé gestionnaire du logement-foyer, sauf dans le cas où le propriétaire est gestionnaire direct] représenté (e) par son président M. …, autorisé à cet effet par délibération de son conseil d'administration, en date du …, dénommé ci-après le gestionnaire, et agissant à ce titre en application de la convention de location conclue avec le propriétaire ;
 
 Vu l'objet du logement-foyer tel que défini en annexe ;
 
-Vu l'autorisation délivrée au gestionnaire par le président du conseil général ou par l'autorité compétente de l'Etat, au titre de l'article L. 313-3 du code de l'action sociale et des familles, en date du... ;
+[Logements-foyers hors habitat inclusif] Vu l'autorisation délivrée au gestionnaire par le président du conseil départemental ou par l'autorité compétente de l'Etat, au titre de l'article L. 313-3 du code de l'action sociale et des familles, en date du … ;
 
-[Le cas échéant] Vu la convention de location, jointe à la présente convention, en date du.......... conclue entre le propriétaire et le gestionnaire ;
+[Le cas échéant] Vu la convention de location, jointe à la présente convention, en date du … conclue entre le propriétaire et le gestionnaire ;
 
 [Le cas échéant] Vu la description du programme et des travaux prévus annexée à la présente convention ;
 
@@ -26,37 +30,31 @@ Objet de la convention
 
 La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles R. 353-154 à R. 353-165 du code de la construction et de l'habitation, pour le logement-foyer de [nom et adresse de l'établissement] dont le programme est annexé à la présente convention.
 
-La signature de la présente convention conditionne pendant sa durée l'ouverture du droit à l'aide personnalisée au logement (APL) dans les conditions définies au livre VIII du code de la construction et de l'habitation et de ses textes d'application.
+La présente convention ouvre, pendant sa durée, le droit à l'aide personnalisée au logement (APL) dans les conditions définies par le livre VIII du code de la construction et de l'habitation et de ses textes d'application. Si la présente convention est signée par un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse, signataire d'une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse adresse au préfet une copie de la convention ouvrant droit à l'APL.
 
-Si la présente convention est signée par un établissement public de coopération intercommunale ou un département signataire d'une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, le président de l'établissement public de coopération intercommunale ou le président du conseil général adresse au préfet une copie de la convention ouvrant droit à l'APL.
-
-Les personnes accueillies dans le logement-foyer sont dénommées résidents et entrent dans le champ d'application des articles L. 633-1 à L. 633-3 du code de la construction et de l'habitation.
+Les personnes accueillies dans le logement-foyer sont dénommées résidents et relèvent des articles L. 633-1, L. 633-2 et L. 633-3 du code de la construction et de l'habitation ou des articles L. 633-1, L. 633-2, L. 633-4 et L. 633-4-1 du même code pour l'habitat inclusif défini à l'article L. 281-1 du code de l'action sociale et des familles.
 
 Article 2
 
 Durée de la convention
 
-La présente convention prend effet à compter de sa signature.
+La présente convention prend effet à compter de sa date de signature.
 
-Elle est conclue pour une durée de...... ans dans les limites fixées aux articles R. 353-159 et R. 353-160 du code de la construction et de l'habitation.
+Elle expire le 31 décembre …
 
-Elle expire le 31 décembre....
+À défaut de dénonciation expresse notifiée au moins six mois avant cette date, la convention est renouvelée par tacite reconduction par périodes triennales prenant effet à compter de sa date d'expiration.
 
-A défaut de dénonciation expresse notifiée au moins six mois avant cette date, la convention est renouvelée par tacite reconduction par périodes triennales prenant effet à compter de sa date d'expiration.
-
-Aucune dénonciation décidée par le propriétaire et, s'il y a lieu et d'un commun accord, par le propriétaire et le gestionnaire ne peut prendre effet avant la date d'expiration de la convention. La résiliation doit être notifiée au moins six mois avant cette date par acte notarié ou par acte d'huissier de justice et notifiée au préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2, au président de l'établissement public de coopération intercommunale ou du conseil général.
+Aucune dénonciation décidée par le propriétaire ou, s'il y a lieu et d'un commun accord, par le propriétaire et le gestionnaire ne peut prendre effet avant la date d'expiration de la convention. La résiliation doit être notifiée, au moins six mois avant cette date, par acte notarié ou par acte d'huissier de justice, au préfet ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, au président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse.
 
 Le remboursement, anticipé ou non, d'un des prêts utilisés pour financer l'opération, d'une subvention ou le reversement du complément d'impôt en application de l'article 284 du code général des impôts sont sans effet sur la durée de la convention.
 
-Pendant la durée prévue de la convention, le préfet est tenu informé des modifications apportées à la convention de location conclue entre le propriétaire et le gestionnaire du logement-foyer.
+Pendant la durée de la convention, le préfet est tenu informé des modifications apportées à la convention de location conclue entre le propriétaire et le gestionnaire du logement-foyer.
 
 Ces modifications ne peuvent conduire à remettre en cause les engagements pris dans la présente convention.
 
 Article 3
 
-Obligations respectives du propriétaire et du bailleur
-
-relatives à la maintenance et à l'entretien des locaux loués
+Obligations respectives du propriétaire et du bailleur relatives à la maintenance et à l'entretien des locaux loués
 
 Les locaux doivent être maintenus en bon état de fonctionnement au moyen d'une politique de provision pour le financement de travaux d'entretien et de grosses réparations.
 
@@ -68,9 +66,7 @@ Pour permettre le contrôle de l'exécution des obligations définies ci-dessus,
 
 Article 4
 
-Conditions d'attribution
-
-et d'occupation permanente du logement-foyer
+Conditions d'attribution et d'occupation permanente du logement-foyer
 
 Le gestionnaire s'engage à réserver le logement-foyer :
 
@@ -78,35 +74,35 @@ Le gestionnaire s'engage à réserver le logement-foyer :
 
 [cocher la case prévue selon le type d'établissement retenu] :
 
-Etablissement hébergeant des personnes âgées autonomes (EHPA).
+□ Résidence autonomie.
 
-Etablissement hébergeant des personnes âgées dépendantes (EHPAD).
+□ Etablissement hébergeant des personnes âgées dépendantes (EHPAD).
 
-Unité pour personnes désorientées (unités Alzheimer,...)
+□ Unité pour personnes désorientées (unités Alzheimer, …).
 
-Petite unité de vie (établissement de moins de 25 places autorisées).
+□ Petite unité de vie (établissement de moins de 25 places autorisées).
 
-Autres [préciser] ;
+□ Autres [préciser] ;
 
 -soit aux personnes handicapées seules ou en ménage dans l'établissement suivant :
 
-[Cocher le type d'établissement retenu] :
+[cocher la case prévue selon le type d'établissement retenu] :
 
-Foyer.
+□ Foyer.
 
-Foyer de vie ou occupationnel.
+□ Foyer de vie ou occupationnel.
 
-Foyer d'accueil médicalisé.
+□ Foyer d'accueil médicalisé.
 
-Autres [préciser].
+□ Autres [préciser] ;
 
-La part des logements à usage privatif réservés par le préfet est fixée à.... p. 100 du total des locaux à usage privatif du logement-foyer. Ce pourcentage doit tenir compte des besoins recensés par le plan départemental d'action pour le logement des personnes défavorisées (PDALPD). Dans ce cadre, le préfet propose au gestionnaire des candidats pour ces logements qui correspondent au public de l'établissement retenu.
+-soit aux personnes en situation de perte d'autonomie liée à l'âge ou au handicap seules ou en ménage :
 
-Pour répondre à ces obligations, le gestionnaire s'engage à signaler les logements devenus vacants aux services préfectoraux et, le cas échéant, aux délégataires des droits à réservation du préfet en application de l'article L. 441-1 du code de la construction et de l'habitation [rayer la mention inutile] :
+□ Habitat inclusif.
 
--soit dans les conditions du I de l'article D. 331-1 du code de la construction et de l'habitation ;
+La part des locaux à usage privatif réservés par le préfet est fixée à … % du total des locaux à usage privatif du logement-foyer. Ce pourcentage doit tenir compte des besoins recensés par le plan départemental d'action pour le logement et l'hébergement des personnes défavorisées (PDALHPD). Dans ce cadre, le préfet propose au gestionnaire des candidats pour ces logements qui correspondent au public de l'établissement retenu.
 
--soit dans les conditions de l'article D. 331-17 du code de la construction et de l'habitation.
+Pour répondre à ces obligations, le gestionnaire s'engage à signaler les logements devenus vacants aux services préfectoraux et, le cas échéant, aux délégataires des droits à réservation du préfet en application de l'article L. 441-1 du code de la construction et de l'habitation.
 
 Par ailleurs :
 
@@ -114,23 +110,19 @@ Par ailleurs :
 
 -les modalités de choix des personnes accueillies sont les suivantes :
 
-Le gestionnaire s'engage à ce qu'au moins 90 % des ménages entrant dans les lieux disposent de ressources annuelles n'excédant pas les plafonds applicables pour l'attribution des logements financés dans les conditions susmentionnées.
-
 Article 5
 
-Contrat d'occupation entre le résident
+Contrat d'occupation entre le résident et le gestionnaire
 
-et le gestionnaire
+Le gestionnaire s'engage à proposer aux résidents dans les lieux à la date d'entrée en vigueur de la convention, ainsi qu'à tout nouvel entrant dans l'établissement, un contrat d'occupation cosigné avec le résident, établi par écrit en application de l'article L. 633-2 du code de la construction et de l'habitation et conforme aux stipulations de la convention ouvrant droit à l'aide personnalisée au logement. Un règlement intérieur, paraphé par ces mêmes personnes, lui est annexé.
 
-Le gestionnaire s'engage à proposer aux résidents dans les lieux à la date d'entrée en vigueur de la convention, ainsi qu'à tout nouvel entrant dans l'établissement, un contrat d'occupation cosigné avec le résident, établi par écrit en application de l'article L. 633-2 du code de la construction et de l'habitation et conformément aux stipulations de la convention ouvrant droit à l'aide personnalisée au logement. Un règlement intérieur, paraphé par ces mêmes personnes, lui est annexé.
-
-Ce contrat et le contrat de séjour passé en application des articles L. 342-1, L. 342-2 et L. 343-3 du code de l'action sociale et des familles peuvent faire l'objet d'un contrat unique. Les dispositions du contrat de séjour établi en application des articles L. 342-1, L. 342-2 et L. 343-3 du code de l'action sociale et des familles s'appliquent sans préjudice des rticles L. 633-1 et suivants du code de la construction et de l'habitation.
+Ce contrat et le contrat de séjour passé en application des articles L. 342-1, L. 342-2 et L. 343-3 du code de l'action sociale et des familles dans les logements-foyers hors habitat inclusif peuvent faire l'objet d'un contrat unique.
 
 Ce contrat ne peut être accessoire à un contrat de travail.
 
 En cas de changement de gestionnaire, de résiliation ou de dénonciation de ladite convention, le contrat est opposable de plein droit à tout nouveau gestionnaire.
 
-Ce contrat est conclu pour une durée d'un mois renouvelable par tacite reconduction à la seule volonté du résident ou, à défaut de son représentant légal, pour des périodes de même durée.
+Ce contrat est conclu pour une durée d'un mois renouvelable par tacite reconduction à la seule volonté du résident ou, à défaut, de son représentant légal, pour des périodes de même durée.
 
 Il précise notamment, en application de l'article L. 633-2 du code de la construction et de l'habitation :
 
@@ -158,15 +150,13 @@ Au cours de chaque période mensuelle, le résident ou son représentant légal 
 
 Article 6
 
-Résiliation du contrat entre le résident
-
-et le gestionnaire
+Résiliation du contrat entre le résident et le gestionnaire
 
 La résiliation du contrat par le gestionnaire ou le propriétaire ne peut intervenir que dans les cas suivants :
 
 -inexécution par le résident de l'une des obligations lui incombant au regard du contrat d'occupation ou manquement grave ou répété au règlement intérieur. La résiliation du contrat ne prend effet qu'un mois après la date de notification par lettre recommandée avec avis de réception.
 
-Lorsque la résiliation est motivée par un impayé de redevance, le délai de préavis ne débute que lorsque trois termes mensuels consécutifs, tel que prévu à l'article R. 633-3 du code de la construction et de l'habitation, du montant total à acquitter sont totalement impayés ou bien lorsqu'une somme au moins égale à deux fois le montant mensuel du montant à acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1342-4 alinéa 1er et 1343-5 du code civil s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge judiciaire ;
+Lorsque la résiliation est motivée par un impayé de redevance, le délai de préavis ne débute que lorsque trois termes mensuels consécutifs, tel que prévu à l'article R. 633-3 du code de la construction et de l'habitation, du montant total à acquitter sont totalement impayés ou bien lorsqu'une somme au moins égale à deux fois le montant mensuel du montant à acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1342-4, alinéa 1er, et 1343-5 du code civil s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge judiciaire ;
 
 -le résident cesse de remplir les conditions d'admission mentionnées à l'article 4. Le gestionnaire doit alors informer individuellement le résident concerné par lettre recommandée avec accusé de réception en respectant un préavis de trois mois francs ; à l'issue de ce délai, le contrat est résilié de plein droit lorsqu'une proposition de relogement correspondant aux besoins et aux possibilités du résident lui a été faite ; cette résiliation ne prend effet qu'un mois après la date de notification de la proposition de relogement par lettre recommandée avec avis de réception ;
 
@@ -176,19 +166,17 @@ En cas d'inoccupation temporaire de son logement du fait de son état de santé 
 
 Article 7
 
-Dispositions spécifiques en cas d'impayés
+Dispositions spécifiques en cas d'impayés pour un bénéficiaire de l'aide personnalisée au logement (APL)
 
-pour un bénéficiaire de l'aide personnalisée au logement (APL)
+Conformément aux articles L. 824-1 et R. 824-4 du code de la construction et de l'habitation, si le bénéficiaire de l'aide personnalisée au logement ne règle pas la part de la dépense de logement restant à sa charge, le gestionnaire signale l'impayé à l'organisme payeur (caisse d'allocations familiales ou mutualité sociale agricole) dans un délai de deux mois après la constitution de l'impayé, en indiquant les démarches entreprises auprès du résident défaillant. L'aide personnalisée au logement peut être maintenue ou non selon les cas soumis à l'organisme payeur.
 
-En application de l'article R. 824-31 du code de la construction et de l'habitation, lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et, le cas échéant, à la commission spécialisée de coordination des actions de prévention des expulsions locatives par le gestionnaire percevant l'APL pour son compte.
-
-Le gestionnaire s'engage à poursuivre par tous les moyens le recouvrement de sa créance, dès lors qu'un impayé est constitué au sens de l'article R. 824-31 cité ci-dessus, en lui notifiant, par lettre recommandée avec accusé de réception, le montant de cette créance ainsi que les conditions de résiliation du contrat d'occupation et le risque de suspension du versement de l'APL ; cette suspension ne peut intervenir que sur décision de l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et après avis de la commission spécialisée de coordination précitée.
+Le gestionnaire doit justifier qu'il poursuit par tous les moyens possibles le recouvrement de la créance en notifiant au bénéficiaire de l'aide, par lettre recommandée avec accusé de réception, le montant de cette créance ainsi que les conditions de résiliation du contrat d'occupation et le risque de suspension du versement de l'APL. Cette suspension ne peut intervenir que sur décision de l'organisme payeur après consultation de la commission de coordination des actions de prévention des expulsions (CCAPEX) le cas échéant, selon les modalités prévues à l'article R. 824-7 du même code.
 
 Article 8
 
 Dépôt de garantie
 
-Le gestionnaire peut demander au résident un dépôt de garantie qui ne peut être supérieur à un mois de la redevance. Au départ du résident, il est restitué dans un délai maximum de quinze jours à compter de la remise des clefs, déduction faite, le cas échéant, des sommes dues au gestionnaire sous réserve qu'elles soient dûment justifiées. Le montant du dépôt de garantie ne porte pas intérêt au bénéfice du résident. Il ne doit faire l'objet d'aucune révision. A défaut de restitution dans le délai prévu, le solde du dépôt de garantie restant dû au résident, après arrêté des comptes, produit intérêt au taux légal au profit du résident.
+Le gestionnaire peut demander au résident un dépôt de garantie qui ne peut être supérieur à un mois de la redevance. Au départ du résident, il est restitué dans un délai maximum de quinze jours à compter de la remise des clefs, déduction faite, le cas échéant, des sommes dues au gestionnaire sous réserve qu'elles soient dûment justifiées. Le montant du dépôt de garantie ne porte pas intérêt au bénéfice du résident. Il ne doit faire l'objet d'aucune révision. À défaut de restitution dans le délai prévu, le solde du dépôt de garantie restant dû au résident, après arrêté des comptes, produit intérêt au taux légal au profit du résident.
 
 En aucun cas il ne peut être demandé une avance sur le paiement des redevances ou des prestations.
 
@@ -208,17 +196,17 @@ Maxima applicables à la part de la redevance assimilable au loyer et aux charge
 
 La part de la redevance mensuelle prise en compte pour le calcul de l'aide personnalisée au logement, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident, hors dépenses liées aux prestations définies à l'article 12, ne doit pas excéder un maximum qui est fixé en euros par type de logement et dont le montant est inscrit dans le tableau du III de l'annexe à la présente convention.
 
-Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé, en application de l'article L. 353-9-2 du code de la construction et de l'habitation, au 1er janvier de chaque année en fonction de l'indice de référence des loyers (IRL) prévu au I de l'article 17-1 de la loi n° 89-462 du 6 juillet 1989 modifiée. La date de l'IRL prise en compte pour cette révision est celle du deuxième trimestre de l'année précédente.
+Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables est révisé au 1er janvier de chaque année, dans les conditions prévues à l'article L. 353-9-2 du code de la construction et de l'habitation.
 
-La redevance pratiquée peut, dans la limite de la redevance maximum et de l'IRL, être réactualisée au 1er janvier de chaque année, dans les conditions prévues à l'article L. 353-9-3 du code de la construction et de l'habitation.
+La redevance pratiquée, fixée dans la limite de ce maximum, est révisée au 1er janvier de chaque année, dans les conditions prévues au premier alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
 
-Le gestionnaire peut, en outre, être autorisé à augmenter cette redevance au-delà de l'IRL, dans la limite de la redevance maximale et dans les conditions prévues au deuxième alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
+Le gestionnaire peut, en outre, être autorisé à augmenter cette redevance au-delà de l'indice de référence des loyers, dans la limite de la redevance maximale et dans les conditions prévues au deuxième alinéa de l'article L. 353-9-3 du code de la construction et de l'habitation.
 
 Article 11
 
 Composition de la part de redevance assimilable au loyer et aux charges locatives et seule prise en compte pour le calcul de l'aide personnalisée au logement
 
-La part de redevance assimilable au loyer et aux charges locatives et seule prise en compte pour le calcul de l'aide personnalisée au logement est calculée sur la base de deux éléments, dont l'un est équivalant au loyer et l'autre équivalent aux charges locatives récupérables.
+La part de redevance assimilable au loyer et aux charges locatives et seule prise en compte pour le calcul de l'aide personnalisée au logement est calculée sur la base de deux éléments, dont l'un est équivalent au loyer et l'autre équivalent aux charges locatives récupérables.
 
 I.-En ce qui concerne l'équivalence du loyer, la participation du résident aux charges financières annuelles afférentes à l'immeuble recouvre :
 
@@ -246,7 +234,7 @@ b) Les frais de fonctionnement relatifs au foyer, à savoir :
 
 II.-L'élément équivalent aux charges locatives récupérables, sommes accessoires au loyer principal, et pris en compte forfaitairement est exigible en contrepartie des charges dont la liste est énumérée par le décret n° 87-713 du 26 août 1987 modifié pris en application de l'article 18 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière et fixant la liste des charges récupérables.
 
-Lorsque les logements sont équipés de compteur individuel eau chaude et eau froide, dont les consommations sont relevables de l'extérieur, les consommations d'eau peuvent n'être prises en charge forfaitairement au titre de l'élément équivalent aux charges locatives récupérables qu'à hauteur de 165 litres par jour et par personne. Au-delà de ce maximum les consommations réelles supplémentaires sont facturées au résident, au titre des prestations par facturation séparée, au prix pratiqué par le fournisseur.
+Lorsque les logements sont équipés de compteurs individuels d'eau chaude et d'eau froide, dont les consommations sont relevables de l'extérieur, les consommations d'eau peuvent n'être prises en charge forfaitairement au titre de l'élément équivalent aux charges locatives récupérables qu'à hauteur de 165 litres par jour et par personne. Au-delà de ce maximum, les consommations réelles supplémentaires sont facturées au résident, au titre des prestations par facturation séparée, au prix pratiqué par le fournisseur.
 
 Ces modalités de facturation d'eau, pour être applicables, font l'objet d'une inscription au règlement intérieur de l'établissement et dans le contrat d'occupation.
 
@@ -254,11 +242,9 @@ Article 12
 
 Prestations
 
-Dans les établissements conventionnés au titre de l'aide personnalisée au logement et non habilités à recevoir des bénéficiaires de l'aide sociale visés au 3° de l'article L. 342-1 du code de l'action sociale et des familles, les prestations, hors redevance telle que définie à l'article 11, font l'objet d'un contrat conforme aux articles L. 342-2 et suivant du même code.
+Dans les logements-foyers, hors habitat inclusif, conventionnés à l'aide personnalisée au logement et non habilités à recevoir des bénéficiaires de l'aide sociale visés au 3° de l'article L. 342-1 du code de l'action sociale et des familles, les prestations, hors redevance telle que définie à l'article 11, font l'objet d'un contrat conforme aux articles L. 342-2 et suivant du même code. L'augmentation annuelle du prix de ces prestations est encadrée par un arrêté des ministres chargés des personnes âgées et de l'économie en application de l'article L. 342-3 du même code.
 
-L'augmentation annuelle du prix de ces prestations est encadrée par un arrêté du ministre de l'économie et des finances en application de l'article L. 342-3 du même code.
-
-En application de l'article L. 112-1 du code de la consommation, les prix des différentes prestations offertes aux résidents doivent être affichés dans l'établissement.
+Dans les logements-foyers, y compris ceux destinés à l'habitat inclusif, les prix des différentes prestations offertes aux résidents doivent être affichés dans l'établissement en application de l'article L. 112-1 du code de la consommation.
 
 Les prestations obligatoirement intégrées dans la redevance et non prises en compte pour le calcul de l'APL, et de ce fait non prises en compte au titre des charges récupérables, sont les suivantes :
 
@@ -278,105 +264,121 @@ Les prestations facultatives à la demande du résident facturées séparément 
 
 Article 13
 
-Modalités de paiement de la redevance
-
-et des prestations
+Modalités de paiement de la redevance et des prestations
 
 La redevance est payée mensuellement à terme échu. Le gestionnaire remet au résident un avis d'échéance faisant clairement apparaître le montant de la redevance, le montant de l'équivalence de loyer et de charges locatives récupérables pris en compte pour le calcul de l'APL, ainsi que le montant de cette aide.
 
 Article 14
 
-Conditions d'exécution
+Conditions d'exécution des travaux et relogement
 
-des travaux et relogement
+En cas de réhabilitation ou d'amélioration, les travaux concernant le logement-foyer sont inscrits au programme annexé à la présente convention. Ils font l'objet d'un programme de réalisation dont l'échéancier est joint à la présente convention.
 
-En cas de réhabilitation ou d'amélioration, les travaux concernant le logement-foyer sont inscrits au programme annexé à la présente convention. Ils font l'objet d'un programme de réalisation qui se poursuit par......... tranche (s) annuelle (s) pendant........ mois ou années (s) dont l'échéancier est joint à la présente convention.
-
-Ces travaux doivent conduire à mettre le logement-foyer en conformité totale avec les normes minimales d'habitabilité et les caractéristiques techniques définies par l'arrêté interministériel du 10 juin 1996, sous réserve des impératifs techniques tenant à la structure de l'immeuble, et respecter les dispositions des articles R. 111-18-8, R. 111-18-9 et R. 111-19-8 du code de la construction et de l'habitation.
+Ces travaux doivent conduire à mettre le logement-foyer en conformité totale avec les normes minimales d'habitabilité et les caractéristiques techniques définies par l'arrêté du 17 octobre 2011 abrogeant et remplaçant l'arrêté du 10 juin 1996 relatif à la majoration de l'assiette de la subvention et aux caractéristiques techniques des opérations de construction, d'amélioration ou d'acquisition-amélioration d'immeubles en vue d'y aménager avec l'aide de l'Etat des logements ou des logements-foyers à usage locatif, sous réserve des impératifs techniques tenant à la structure de l'immeuble, et respecter les dispositions des articles R. 163-1, R. 163-2 et R. 164-2 du code de la construction et de l'habitation.
 
 Le gestionnaire doit informer chaque occupant concerné par tout moyen d'information approprié, un mois au moins avant le début des travaux, de la nature du projet, de la nécessité éventuelle de relogements provisoires ou définitifs et des augmentations prévisionnelles de redevance et, le cas échéant, du montant des prestations.
 
-Lorsque ces travaux nécessitent l'évacuation temporaire ou définitive des résidents, le gestionnaire doit trouver des solutions de relogement. Les modalités de ces relogements seront déterminées en accord avec le préfet ou son représentant. Elles devront, en tout état de cause, être équivalentes à leurs conditions de logement avant travaux. A l'achèvement des travaux, le résident peut demander à réintégrer préférentiellement l'établissement amélioré.
+Lorsque ces travaux nécessitent l'évacuation temporaire ou définitive des résidents, le gestionnaire doit trouver des solutions de relogement. Les modalités de ces relogements seront déterminées en accord avec le préfet ou son représentant. Elles devront, en tout état de cause, être équivalentes à leurs conditions de logement avant travaux. À l'achèvement des travaux, le résident peut demander à réintégrer préférentiellement l'établissement amélioré.
 
 Un mois avant la date d'achèvement des travaux, le gestionnaire notifie, par lettre recommandée avec accusé de réception, aux résidents dans les lieux ou ayant fait l'objet d'un relogement le montant de la nouvelle redevance applicable de plein droit dès l'achèvement des travaux.
 
-Tout programme de travaux de réhabilitation, d'aménagement ou de démolition doit être présenté, pour avis, au conseil de vie sociale tel que prévu à l'article L. 311-6 du code de l'action sociale et des familles.
+Dans les logements-foyers hors habitat inclusif, tout programme de travaux de réhabilitation, d'aménagement ou de démolition doit être présenté, pour avis, au conseil de la vie sociale prévu à l'article L. 311-6 du code de l'action sociale et des familles. Dans les logements-foyers destinés à l'habitat inclusif, les membres du conseil de concertation prévu à l'article L. 633-4 du code de la construction et de l'habitation sont consultés préalablement à la réalisation de travaux.
 
 Article 15
 
 Suivi de l'exécution de la convention
 
-Chaque année, au 15 novembre, le gestionnaire adresse au préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé la convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, au président de l'établissement public de coopération intercommunale ou du conseil général les ressources des entrants de l'année précédente, le tableau des redevances pratiquées mentionné à l'article 11 ainsi que la liste et le prix des prestations prévues à l'article 12 de la présente convention, la comptabilité relative au logement-foyer pour l'année précédente, un budget prévisionnel de fonctionnement pour l'année en cours et les éventuels avenants à la convention de location signée entre le propriétaire et le gestionnaire. Le gestionnaire doit être en mesure de justifier au préfet le montant de la redevance et des prestations au vu de ces documents. Il en adresse copie au propriétaire.
+Chaque année, au 15 novembre, le gestionnaire adresse au préfet ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, au président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse, les ressources des entrants de l'année précédente, le tableau des redevances pratiquées mentionnées à l'article 11 ainsi que la liste et le prix des prestations prévues à l'article 12 de la présente convention, la comptabilité relative au logement-foyer pour l'année précédente, un budget prévisionnel de fonctionnement pour l'année en cours et les éventuels avenants à la convention de location signée entre le propriétaire et le gestionnaire. Le gestionnaire doit être en mesure de justifier au préfet le montant de la redevance et des prestations au vu de ces documents. Il en adresse copie au propriétaire.
 
 Au vu de ces pièces et au regard des engagements pris dans la présente convention, le préfet peut faire des observations à l'adresse du gestionnaire avec copie au propriétaire.
 
-En cas de non-respect de ces engagements, les sanctions prévues à l'article 18 sont mises en œuvre.
-
 Article 16
 
-Obligations à l'égard des organismes
+Obligations à l'égard des organismes chargés de la liquidation et du paiement de l'APL
 
-de la liquidation et du paiement de l'APL
+• Communication de la présente convention
 
-Dès l'entrée en vigueur de la présente convention ou, au plus tard, à l'appui des premières demandes d'APL, le gestionnaire s'engage à adresser aux organismes payeurs de l'APL une photocopie de la convention, des documents qui y sont visés et de ses annexes, ainsi qu'un tableau faisant apparaître la description des parties privatives par typologie des logements. Toutes les modifications ultérieures apportées ou à apporter à ces documents devront également être transmises à l'organisme payeur.
+Dès l'entrée en vigueur de la présente convention ou, au plus tard, à l'appui des premières demandes d'APL, le gestionnaire s'engage à adresser aux organismes payeurs de l'APL une copie de la convention, des documents qui y sont visés et de ses annexes, ainsi qu'un tableau faisant apparaître la description des parties privatives par typologie des logements. Toutes les modifications ultérieures apportées ou à apporter à ces documents devront également être transmises à l'organisme payeur.
 
-Avant le 15 novembre de chaque année, le gestionnaire s'engage à adresser aux organismes liquidateurs de l'APL un tableau mentionnant, pour l'année en cours, les redevances pratiquées au 1er juillet, les redevances prévisionnelles totales, le montant de l'équivalence de loyer et de charges par logement correspondant à la liste des locaux d'habitation établie à l'annexe I. Ce tableau est valable pour l'année civile suivante.
+• Communication des informations nécessaires à l'étude d'un droit à une aide au logement
 
-Il s'engage à prendre toutes les dispositions nécessaires pour assurer la liaison avec les organismes payeurs afin de faciliter l'établissement et le dépôt des dossiers de demande d'APL. Il s'engage à signaler immédiatement tout départ du résident bénéficiant de l'APL à l'organisme payeur concerné.
+Le gestionnaire s'engage à utiliser les services dématérialisés mis à sa disposition par l'organisme payeur pour l'envoi des informations nécessaires à l'étude d'un droit à une aide au logement pour chaque locataire demandeur de l'APL. À défaut, il renseigne dès l'entrée en vigueur de la convention pour chaque locataire demandeur de l'APL, la partie de l'imprimé de demande d'APL qui le concerne.
 
-Le gestionnaire s'engage à fournir à l'organisme payeur concerné toutes justifications concernant le paiement de la redevance. En cas d'impayé constitué au sens de l'article 7, il en avise immédiatement l'organisme payeur, l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et, le cas échéant, la commission spécialisée de coordination des actions de prévention des expulsions locatives en indiquant les démarches entreprises auprès du résident défaillant.
+Il s'engage à prendre toutes les dispositions nécessaires pour assurer la liaison avec les organismes payeurs afin de faciliter l'établissement et le dépôt des dossiers de demande d'APL.
 
-Avant le 15 novembre de chaque année, le gestionnaire s'engage à fournir aux organismes liquidateurs la liste des bénéficiaires non à jour de leurs obligations, en indiquant la date à laquelle l'organisme mentionné à l'article L. 824-2 du code de la construction et de l'habitation et la commission spécialisée de coordination des actions de prévention des expulsions locatives ont été saisis et en certifiant que la liste fournie est exhaustive ou que, le cas échéant, tous les bénéficiaires sont à jour.
+• Communication annuelle des redevances et de la situation locative
+
+Avant le 15 novembre de chaque année, le gestionnaire s'engage à adresser aux organismes payeurs de l'APL un tableau mentionnant, pour l'année en cours, les redevances pratiquées au 1er juillet, les redevances prévisionnelles totales, le montant de l'équivalence de loyer et de charges par logement correspondant à la liste des locaux d'habitation établie au III de l'annexe à la présente convention. Ce tableau est valable pour l'année civile suivante. Les gestionnaires s'engagent à réaliser cette démarche prioritairement par voie dématérialisée au moyen des outils mis à disposition par les organismes payeurs.
+
+Avant le 15 novembre de chaque année, le gestionnaire s'engage à fournir aux organismes payeurs la liste des bénéficiaires non à jour de leurs obligations, en indiquant la date à laquelle l'organisme mentionné à l'article L. 824-1 du code de la construction et de l'habitation a été saisi et en certifiant que la liste fournie est exhaustive ou que, le cas échéant, tous les bénéficiaires sont à jour.
+
+• Communication des changements de situation de l'allocataire
+
+Le gestionnaire fait part dans un délai maximum d'un mois aux organismes payeurs de l'APL des modifications affectant la situation locative du bénéficiaire (notamment résiliation de bail, décès) en application de l'article D. 823-15 du même code. Ce délai peut être prolongé d'un mois supplémentaire si le gestionnaire apporte la preuve qu'il n'était manifestement pas en mesure de signaler ce déménagement ou cette résiliation dans le premier délai d'un mois. Les gestionnaires s'engagent à réaliser cette démarche prioritairement par voie dématérialisée au moyen des outils mis à disposition par les organismes payeurs. Le gestionnaire s'engage à fournir à l'organisme payeur concerné toutes justifications concernant le paiement de la redevance.
+
+• Sanction en cas de manquement à ces obligations
+
+En application de l'article L. 852-1 du même code, en cas de non signalement de l'impayé ou du manquement aux obligations déclaratives par le gestionnaire à l'organisme payeur, une sanction administrative peut être prononcée.
 
 Article 17
 
-Résiliation de la convention
+Résiliation de la convention aux torts du bailleur
 
-En cas d'inexécution par le gestionnaire de ses engagements contractuels, l'administration, après mise en demeure par lettre recommandée avec avis de réception demeurée sans effet après un délai de deux mois, peut procéder unilatéralement à la résiliation de la présente convention.
+En cas d'inexécution par le gestionnaire de ses engagements prévus par la présente convention, le préfet peut procéder à la résiliation de la convention aux torts du bailleur, au sens du I de l'article R. 353-159 du code de la construction et de l'habitation. Le préfet doit préalablement mettre en demeure le gestionnaire par lettre recommandée avec demande d'avis de réception. Celui-ci doit, dans un délai de deux mois, soit satisfaire à ses obligations, soit formuler ses observations. Lorsque le préfet écarte ces observations, sa décision doit être motivée.
 
-Il sera fait application des dispositions prévues à l'article D. 353-174 du code de la construction et de l'habitation. Pour les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée par la convention, diminuée de l'APL, prise en charge désormais par le gestionnaire.
+Dans ce cas, il est fait application des dispositions prévues à l'article L. 353-6 du code de la construction et de l'habitation.
 
-La résiliation par l'Etat, dans les conditions prévues à l'article L. 353-6, de la convention ouvrant le droit à l'aide personnalisée au logement est, sous réserve du respect par l'occupant des obligations prévues par le contrat de location, sans incidence sur les stipulations de ce contrat. Toutefois, à compter de la date à laquelle la résiliation est devenue définitive, l'aide personnalisée au logement n'est plus versée et la redevance exigible déterminée dans les conditions fixées par la convention est diminuée du montant de l'aide qui aurait été due au contrat des logements, prise en charge par le bailleur.
+La résiliation de la convention dans les conditions prévues à l'article L. 353-6 précité est, sous réserve du respect par l'occupant des obligations prévues par le contrat d'occupation, sans incidence sur les stipulations de ce contrat. Toutefois, à compter de la date à laquelle la résiliation est devenue définitive, l'aide personnalisée au logement n'est plus versée et la redevance exigible déterminée dans les conditions fixées par la convention est diminuée du montant de l'aide qui aurait été due au titre des logements, prise en charge par le gestionnaire.
 
-Cette disposition ne fait pas obstacle à la signature d'une nouvelle convention ouvrant droit à l'aide personnalisée au logement.
+Le préfet informe les organismes payeurs de la résiliation de la convention.
 
 Article 18
 
 Sanctions
 
-Des sanctions administratives peuvent être mises en œuvre en application de l'article L. 353-2 du code de la construction et de l'habitation.
+En application de l'article L. 353-2 du code de la construction et de l'habitation, des sanctions administratives peuvent être mises en œuvre.
 
-En cas de non-respect par le gestionnaire des engagements prévus au titre de la présente convention et après que l'intéressé aura été mis en demeure par lettre recommandée avec avis de réception de présenter dans un délai de deux mois ses observations sur les griefs retenus à son encontre, l'autorité administrative prononce une pénalité pour chaque logement pour lequel ces engagements contractuels n'ont pas été respectés.
+En application de l'article L. 353-11 du code de la construction et de l'habitation, le contrôle de l'application de la présente convention est assuré par l'Agence nationale de contrôle du logement social, que le préfet est tenu de saisir en cas de manquement constaté.
 
-Le montant de cette pénalité est égal au maximum à neuf mois de redevance maximum prévue par la convention pour le logement considéré lorsque le gestionnaire ne respecte pas l'une de ses obligations contractuelles. Cette somme peut être doublée dans le cas où plusieurs obligations contractuelles n'ont pas été respectées pour un même logement.
+Lorsqu'un gestionnaire ne respecte pas, pour un ou plusieurs logements, les engagements prévus par la convention, et après qu'il a été mis en mesure de présenter ses observations conformément aux dispositions de l'article L. 342-12 du code de la construction et de l'habitation ou, en cas de mise en demeure, à l'issue du délai mentionné à ce même article, l'Agence nationale de contrôle du logement social peut proposer au ministre chargé du logement de prononcer une sanction en application de l'article L. 342-14 du même code.
 
 Article 19
 
 Contrôle
 
-Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le gestionnaire et le propriétaire fournissent à la demande du représentant de l'Etat dans le département toutes les informations et tous les documents nécessaires au plein exercice de ce contrôle.
+Afin de permettre le contrôle de l'application de la présente convention, le gestionnaire et le propriétaire fournissent à tout moment à la demande du préfet ou de l'Agence nationale de contrôle du logement social toutes les informations et tous les documents nécessaires au plein exercice de ce contrôle.
 
 Article 20
 
 Publication
 
-La publication de la convention, de sa résiliation et de ses éventuels avenants au fichier immobilier ou de leur inscription au livre foncier incombe au préfet ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, au président de l'établissement public de coopération intercommunale ou du conseil général. Les frais de publication sont à la charge de l'organisme.
+La publication de la convention, de sa résiliation et de ses éventuels avenants au fichier immobilier ou leur inscription au livre foncier incombe au préfet ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, au président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse. Les frais de publication sont à la charge du propriétaire.
 
-Le préfet, ou, lorsqu'un établissement public de coopération intercommunale ou un département a signé une convention mentionnée aux articles L. 301-5-1 et L. 301-5-2 du code de la construction et de l'habitation, le président de l'établissement public de coopération intercommunale ou du conseil général, transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une photocopie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
+Le préfet, ou, lorsqu'un établissement public de coopération intercommunale, un département, la métropole de Lyon, la métropole du Grand Paris, la métropole d'Aix-Marseille-Provence, une métropole ou la collectivité de Corse a signé une convention mentionnée au II de l'article L. 301-5-1 ou à l'article L. 301-5-2 du code de la construction et de l'habitation, ou à l'article L. 3641-5, au VI de l'article L. 5219-1, au II de l'article L. 5218-2 ou au II de l'article L. 5217-2 du code général des collectivités territoriales, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse, transmet aux organismes chargés de la liquidation et du paiement de l'aide personnalisée au logement une copie de la présente convention, de ses avenants éventuels ainsi que l'état prouvant qu'elle (ou ils) a (ont) bien fait l'objet d'une publication au fichier immobilier (ou d'une inscription au livre foncier).
 
-Fait à, le.
+Fait à …, le …
 
-Annexe à la convention n° 1 annexée au III de l'article R. 353-159 du code de la construction et de l'habitation ouvrant droit à l'aide personnalisée au logement
+Le propriétaire,
 
-Descriptif du programme
+Le gestionnaire,
+
+Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse,
+
+(1) Nom de la personne morale identifiée conformément aux dispositions de l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière.
+
+Annexe
+
+DESCRIPTIF DU PROGRAMME
 
 I.-Nom et adresse du logement-foyer :
 
-II.-Nature du programme conventionné :
+I bis.-Désignation du ou des immeubles [Etablie conformément à l'article 7 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière] :
+
+II.-Nature du programme conventionné
 
 [Rayer la mention inutile]
 
-Variante 1 : programme existant dont la construction a été financé, dans les conditions du 1° de l'article R. 832-21 du code de la construction et de l'habitation.
+Variante 1 : programme existant dont la construction a été financée dans les conditions du 1° de l'article R. 832-21 du code de la construction et de l'habitation.
 
 Variante 2 : programme existant dont l'amélioration ou l'acquisition suivie d'une amélioration est financée dans les conditions prévues au 2° de l'article R. 832-21 du code de la construction et de l'habitation.
 
@@ -384,17 +386,13 @@ Description du programme des travaux :
 
 Variante 3 : programme neuf dont la construction est financée dans les conditions visées au 3° de l'article R. 832-21 du code de la construction et de l'habitation.
 
-III.-Composition du programme :
+III.-Composition du programme
 
-Surface habitable totale :
+A.-Locaux auxquels s'applique la présente convention :
 
-Locaux auxquels s'applique la présente convention :
+Surface habitable totale : … mètres carrés, dont :
 
-Surface habitable totale : mètres carrés, dont :
-
-Surface habitable totale des parties privatives :
-
-mètres carrés ;
+* Surface habitable totale des parties privatives : … mètres carrés ;
 
 Se décomposant comme suit :
 
@@ -402,29 +400,19 @@ Nombre total de logements :
 
 TYPES DE LOGEMENT (*)
 
-(une ligne par logement)
-
-|
+(une ligne par logement) |
 
 SURFACE HABITABLE
 
-par local
-
-|
+par local |
 
 NUMÉRO
 
-du logement
-
-|
+du logement |
 
 REDEVANCE MAXIMALE
 
-par logement prise en compte
-
-pour le calcul de l'APL
-
-|
+par logement prise en compte pour le calcul de l'APL |
 
 Logement T 1' |
 
@@ -482,9 +470,9 @@ Logement T 7 |
 
 |
 
-(*) Normes des typologies définies par l'arrêté du 10 juin 1996. |
+(*) Normes des typologies définies par l'arrêté du 17 octobre 2011. |
 
-Surface totale des locaux à usage collectif :........ mètres carrés de surface habitable :
+* Surface totale des locaux à usage collectif : … mètres carrés de surface habitable :
 
 TYPE DE LOCAL |
 
@@ -498,13 +486,11 @@ NOMBRE |
 
 |
 
-|
-
 Dépendances (nombre et surface) :
 
 Garages et/ ou parking (nombre) :
 
-Locaux auxquels ne s'applique pas la convention [Exemple : logement de fonction, logement d'accueil temporaire et espaces hors hébergement dédiés aux soins, à de la balnéothérapie...]
+B.-Locaux auxquels ne s'applique pas la convention [Exemple : logement de fonction, logement d'accueil temporaire et espaces hors hébergement dédiés aux soins, à de la balnéothérapie …] :
 
 -
 
@@ -512,9 +498,9 @@ Locaux auxquels ne s'applique pas la convention [Exemple : logement de fonction,
 
 -
 
-IV.-Renseignements administratifs :
+IV.-Renseignements administratifs
 
-A.-Origine de propriété [Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité] :
+A.-Origine de propriété [Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié portant réforme de la publicité foncière] :
 
 B.-Permis de construire ou déclaration préalable de construction [selon la nature des travaux] :
 
@@ -522,11 +508,13 @@ C.-Modalités de financement de l'opération [Renseignements à compléter dès 
 
 Financement principal :
 
-Date d'octroi du prêt :
+-date d'octroi du prêt :
 
-Numéro du prêt :
+-numéro du prêt :
 
-Durée :
+-durée :
+
+-montant :
 
 Financement complémentaire :
 
@@ -534,4 +522,30 @@ Date d'achèvement de la construction ou certificat de conformité :
 
 D.-Historique des financements publics dont le programme a bénéficié depuis sa construction :
 
-Fait à, le
+Habitat inclusif (2)
+
+Préciser, parmi les personnes handicapées et les personnes âgées, les personnes ou familles qui seront accueillies dans l'habitat inclusif objet de la présente convention, ainsi que les situations particulières auxquelles l'habitat inclusif a vocation à répondre :
+
+Conditions spécifiques d'accueil :
+
+Conditions d'admission dans l'habitat inclusif :
+
+Modalités d'attribution :
+
+Partenariats concourant à la mise en œuvre du projet de vie sociale et partagée mis en place :
+
+Activités proposées à l'ensemble des résidents dans le cadre du projet de vie sociale et partagée :
+
+Fait à …, le …
+
+Le propriétaire,
+
+Le gestionnaire,
+
+Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de Lyon, de la métropole du Grand Paris, de la métropole d'Aix-Marseille-Provence, de la métropole ou du conseil exécutif de Corse,
+
+(2) A renseigner le cas échéant
+
+NOTA :
+
+Conformément à l'article 8 du décret n° 2021-1862 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
