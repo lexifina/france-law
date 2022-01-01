@@ -4,7 +4,11 @@ Les étudiants ayant acquis 60 crédits ECTS dans le cadre d'une licence à la r
 
 Les assistants d'éducation recrutés dans le cadre de ces contrats ont le projet de s'inscrire dans une formation dispensée par un établissement d'enseignement supérieur délivrant un diplôme national de master préparant au concours d'accès aux corps des personnels enseignants ou d'éducation.
 
-A l'issue d'une procédure de sélection organisée sous l'autorité du recteur, en collaboration avec les établissements d'enseignement supérieur concernés, le contrat est conclu pour une durée de trois ans. Le renouvellement du contrat tient compte de l'assiduité et de la progression au sein du cursus universitaire de l'assistant d'éducation.
+A l'issue d'une procédure de sélection organisée sous l'autorité du recteur, en collaboration avec les établissements d'enseignement supérieur concernés, le contrat est conclu pour une durée de trois ans. A l'issue de ce contrat, les assistants d'éducation, justifiant d'une inscription en seconde année de master dans une formation dispensée par un établissement d'enseignement supérieur préparant au concours d'accès aux corps des personnels enseignants ou d'éducation, peuvent bénéficier d'un contrat d'une année supplémentaire maximum dont le terme ne peut se poursuivre au-delà du 31 août.
+
+Les contrats prévus à l'alinéa précédent peuvent être prolongés d'un an maximum pour les assistants d'éducation qui n'auraient pas obtenu au terme d'une année donnée le nombre de crédits ECTS requis.
+
+La durée totale des contrats conclus au titre du présent article ne peut être supérieure à cinq ans.
 
 L'assistant d'éducation recruté dans le cadre d'un contrat de préprofessionnalisation exerce progressivement et prioritairement des fonctions à caractère pédagogique. Outre les missions énumérées aux 2° à 6° de l'article 1er, l'assistant d'éducation inscrit dans une formation dispensée par un établissement d'enseignement délivrant un diplôme national de master supérieur préparant au concours d'accès aux corps des personnels enseignants ou d'éducation exerce également des fonctions d'enseignement et d'éducation.
 
@@ -18,11 +22,15 @@ Par dérogation à l'article 5, le crédit d'heures octroyé aux assistants d'é
 
 -827 heures pour les étudiants justifiant d'une inscription dans une formation dispensée par un établissement d'enseignement supérieur délivrant un diplôme préparant au concours d'accès aux corps des personnels enseignants ou d'éducation.
 
+Les périodes d'expérience professionnelle réalisées lors d'un contrat de préprofessionnalisation sont prises en compte au titre des stages et de la période d'alternance accomplis dans le cadre des formations dispensées par les établissements d'enseignement supérieur délivrant un diplôme national de master préparant au concours d'accès aux corps des personnels enseignants ou d'éducation.
+
 Les assistants d'éducation ayant conclu un contrat de préprofessionnalisation disposent d'un accompagnement continu au sein de l'établissement scolaire d'affectation et de l'établissement d'enseignement supérieur dans lequel ils sont inscrits.
 
 Les assistants d'éducation ayant conclu un contrat de préprofessionnalisation sont tenus de respecter une obligation d'assiduité aux enseignements dispensés dans le cadre de leurs études universitaires. Ils informent le chef d'établissement des crédits ECTS obtenus chaque année.
 
 Tout manquement au respect des obligations mentionnées à l'alinéa précédent constitue un motif de rupture du contrat. Le contrat peut également être rompu si l'assistant d'éducation ne justifie pas de l'obtention de 120 crédits ECTS à l'issue des deux premières années de contrat.
+
+A titre exceptionnel, pour répondre à des situations dûment justifiées par les assistants d'éducation en contrat de préprofessionnalisation et sous réserve de l'accord des services académiques après avis de l'école ou de l'établissement d'accueil, lors de l'inscription dans une formation dispensée par un établissement d'enseignement supérieur préparant aux concours d'accès aux corps des personnels enseignants ou d'éducation, le contrat de préprofessionnalisation peut être interrompu afin de permettre à l'assistant d'éducation de changer d'académie, d'établissement ou de degré d'enseignement. Lorsqu'un nouveau contrat est conclu en application de cette disposition, l'intéressé ne peut bénéficier d'une durée totale de contrats supérieure à celle prévue au cinquième alinéa du présent article.
 
 NOTA :
 
