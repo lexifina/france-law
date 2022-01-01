@@ -2,64 +2,56 @@
 
 ANNEXE
 
-Force armée ou formation rattachée |
+Force armée ou formation
+
+rattachée |
 
 Type d'engagement |
 
-Nombre
+Nombre maximum de primes |
 
-maximum
+Montant minimum de la prime (€) |
 
-de primes |
+Montant maximum de la prime (€) |
 
-Montant
+Montant maximum des primes attribuées en 2022 |
 
-minimum
+Montant maximum des primes attribuées et versées en 2022 |
 
-de la prime (€) |
-
-Montant
-
-maximum
-
-de la prime (€) |
-
-Montant des primes attribuées en 2021 |
-
-Montant des primes attribuées
-
-et versées en 2021 |
-
-Familles professionnelles/filières
+Familles professionnelles/ filières
 
 professionnelles |
 
-Armée de Terre / Brigade des sapeurs-pompiers de Paris |
+Armée de Terre/ Brigade de sapeurs-pompiers de Paris |
 
 Engagement à servir général (ESG) |
 
-241 |
+383 |
 
-5.000 |
+4 000 |
 
-5.000 |
+4 000 |
 
-1.205.000 € |
+1 532 000 € |
 
-1.205.000 € |
+1 532 000 € |
 
 Toutes. |
 
 Engagement à servir spécifique (ESS) |
 
-280 |
+160 |
 
-5.000 |
+4 000 |
 
-10.000 |
+10 000 |
 
-2.332.000 € |
+968 000 € |
 
-2.332.000 € |
+968 000 € |
 
-Sécurité secours incendie ; Opérations en milieu terrestre ; Santé ; Logistic supply chain ; Maintenance des matériels terrestres ; Finances, Achats ; Systèmes d'information et de communication ; Aide à la décision ; Infrastructures et politiques immobilières ; Entraînement militaire physique et sportif ; Communication ; Gestion des ressources humaines ; Musique ; Restauration hôtellerie et loisirs. |
+Achats ; Communication ; Entraînement militaire physique et sportif ; Finances ; Infrastructure et politique immobilière ; Logistique supply chain ; Maintenance des matériels terrestres ; Musique ; Opérations en milieu terrestre ; Gestion des ressources humaines ; Restauration hôtellerie et loisirs ; Santé ; Sécurité secours incendie ; Systèmes d'information et de communication. |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 24 décembre 2021 (NOR : ARMH2136967A), ces dispositions entrent en vigueur le 1er janvier 2022.
