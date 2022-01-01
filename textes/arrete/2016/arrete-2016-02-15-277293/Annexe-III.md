@@ -10,7 +10,7 @@ a) Informations à fournir :
 
 - source et origine du déchet ;
 
-- attestation produite par le producteur justifiant pour les déchets non dangereux résiduels d'une opération préalable de collecte sélective ou de tri en vue d'une valorisation matière ou d'une valorisation énergétique ;
+- les documents prévus à l'article R. 541-48-4 du code de l'environnement permettant de justifier du respect des obligations de tri du producteur des déchets, pour les déchets concernés par les dispositions de l'article R. 541-48-4 ; ;
 
 - informations concernant le processus de production du déchet (description et caractéristiques des matières premières et des produits) ;
 
@@ -24,7 +24,11 @@ a) Informations à fournir :
 
 b) Essais à réaliser :
 
-Le contenu de la caractérisation, l'ampleur des essais requis en laboratoire et les relations entre la caractérisation de base et la vérification de la conformité dépendent du type de déchets. Il convient cependant de réaliser le test de potentiel polluant basé sur la réalisation d'un essai de lixiviation via un test de lixiviation à réaliser selon les normes en vigueur. L'analyse des concentrations contenues dans le lixiviat porte sur les métaux (As, Ba, Cd, Cr total, Cu, Hg, Mo, Ni, Pb, Sb, Se et Zn), les fluorures, l'indice phénols, le carbone organique total sur éluat ainsi que sur tout autre paramètre reflétant les caractéristiques des déchets en matière de lixiviation. La siccité du déchet brut et sa fraction soluble sont également évaluées.
+Le contenu de la caractérisation, l'ampleur des essais requis en laboratoire et les relations entre la caractérisation de base et la vérification de la conformité dépendent du type de déchets. Il convient cependant de réaliser :
+
+- une caractérisation permettant de justifier que le déchet n'est pas interdit d'acceptation en installation de stockage de déchets conformément à l'article R. 541-48-3 du code de l'environnement. Cette caractérisation n'est pas exigée pour les déchets listés aux 1° à 8° du II de l'article R. 541-48-3 ;
+
+- le test de potentiel polluant basé sur la réalisation d'un essai de lixiviation via un test de lixiviation à réaliser selon les normes en vigueur. L'analyse des concentrations contenues dans le lixiviat porte sur les métaux (As, Ba, Cd, Cr total, Cu, Hg, Mo, Ni, Pb, Sb, Se et Zn), les fluorures, l'indice phénols, le carbone organique total sur éluat ainsi que sur tout autre paramètre reflétant les caractéristiques des déchets en matière de lixiviation. La siccité du déchet brut et sa fraction soluble sont également évaluées.
 
 Les essais réalisés lors de la caractérisation de base doivent toujours inclure les essais prévus à la vérification de la conformité.
 
@@ -43,6 +47,8 @@ Dans le cas de déchets régulièrement produits dans un même processus industr
 Si des déchets issus d'un même processus sont produits dans des installations différentes, une seule caractérisation de base peut être réalisée si elle est accompagnée d'une étude de variabilité entre les différents sites sur les paramètres de la caractérisation de base montrant leur homogénéité.
 
 Ces dispositions relatives aux déchets régulièrement produits dans le cadre d'un même procédé industriel ne s'appliquent pas aux déchets issus d'installations de regroupement ou de mélange de déchets.
+
+Dans le cas des ordures ménagères résiduelles, le résultat de la caractérisation permettant de justifier que le déchet n'est pas interdit d'acceptation en installation de stockage de déchets conformément à l'article R. 541-48-3 du code de l'environnement est considéré comme valable pour une durée de cinq ans.
 
 d) Caractérisation de base et vérification de la conformité :
 
@@ -68,6 +74,10 @@ Les déchets exemptés des obligations d'essai pour la caractérisation de base 
 
 Les résultats des essais sont conservés par l'exploitant de l'installation de stockage et tenus à la disposition de l'inspection des installations classées pendant une durée de trois ans après leur réalisation.
 
-3. Attestation du producteur
+3. Justification du respect des obligations de tri du producteur
 
-L'attestation produite par le producteur justifiant pour les déchets non dangereux résiduels d'une opération préalable de collecte sélective ou de tri en vue d'une valorisation matière ou d'une valorisation énergétique sera renouvelée annuellement.
+Pour les déchets concernés par les dispositions de l'article R. 541-48-4 du code de l'environnement, les documents prévus à cet article permettant de justifier du respect des obligations de tri du producteur sont transmis annuellement à l'exploitant.
+
+NOTA :
+
+Conformément à l’article 5 de l’arrêté du 16 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2021.
