@@ -238,11 +238,11 @@ Président du conseil d'administration
 
 |
 
-Ecole nationale d'administration
+Institut national du service public
 
 |
 
-Directeur
+Président du conseil d'administration, Directeur
 
 |
 
@@ -582,4 +582,4 @@ Président du conseil d'administration
 
 NOTA :
 
-Conformément à l'article 2 du décret n° 2021-617 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.
+conformément à l'article 2 du décret n° 2021-1557 du 1er décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
