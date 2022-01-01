@@ -1,6 +1,6 @@
-# Article Annexe I
+# Article Annexe II
 
-Annexe I
+Annexe II
 
 COEFFICIENTS α i, m ET β m POUR LE REVÊTEMENT ROUTIER
 
@@ -22,13 +22,13 @@ Catégorie de véhicule |
 
 α m (500 Hz) |
 
-α m (1 Hz) |
+α m (1 kHz) |
 
-α m (2 Hz) |
+α m (2 kHz) |
 
-α m (4 Hz) |
+α m (4 kHz) |
 
-α m (8 Hz) |
+α m (8 kHz) |
 
 β m |
 
