@@ -156,6 +156,52 @@ Montargis |
 
 Ressorts des tribunaux judiciaires du département du Loiret |
 
+Cour d'appel de Pau |
+
+Département des Landes |
+
+Mont de Marsan |
+
+-Des actions relatives aux droits d'enregistrement et assimilés ;
+
+-Des actions en responsabilité médicale ;
+
+-Des demandes en réparation des dommages causés par un véhicule aérien, maritime ou fluvial. |
+
+-Des délits prévus et réprimés par les articles 1741 et 1743 du code général des impôts. |
+
+Ressorts des tribunaux judiciaires du département des Landes |
+
+Dax |
+
+-Des actions relatives à la cession ou au nantissement de créance professionnelle fondées sur les articles L. 313-23 à L. 313-29-2 du code monétaire et financier ;
+
+-Des actions relatives aux baux commerciaux fondées sur les articles L. 145-1 à L. 145-60 du code de commerce ;
+
+-Des actions relatives au billet à ordre fondées sur les articles L. 512-1 à L. 512-8 du code de commerce ;
+
+-Des litiges relevant de l'exécution d'un contrat de transport de marchandises ;
+
+-Sauf stipulation contraire des parties et sous réserve de la compétence du tribunal judiciaire de Paris ou de son président en matière d'arbitrage international ainsi que de la compétence de la cour d'appel ou de son premier président en matière de voies de recours, des demandes fondées sur le Livre IV du code de procédure civile ;
+
+-Les actions en contestation des décisions des assemblées générales et celles relatives aux copropriétés en difficulté relevant de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis. |
+
+-Des délits et contraventions prévus et réprimés par le code du travail ;
+
+-Des délits et contraventions prévus et réprimés par le code de la sécurité sociale ;
+
+-Des délits et contraventions prévus et réprimés par le code de la consommation ;
+
+-Des délits et contraventions prévus et réprimés par le code de l'action sociale et des familles ;
+
+-Des délits et contraventions prévus et réprimés par le code de l'urbanisme ;
+
+-Des délits et contraventions prévus et réprimés par le code de la propriété intellectuelle ;
+
+-Des délits prévus par les articles L. 183-15, L. 184-4 à L. 184-6, L. 511-22 et L. 521-4 du code de la construction et de l'habitation. |
+
+Ressorts des tribunaux judiciaires du département des Landes |
+
 NOTA :
 
-Conformément à l'article 3 du décret n° 2021-1103 du 20 août 2021, ces dispositions entrent en vigueur le 1er septembre 2021. Se reporter aux dispositions d'application.
+Conformément à l'article 2 du décret n° 2021-1822 du 27 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se référer à cedit article 2 concernant les modalités d'application.
