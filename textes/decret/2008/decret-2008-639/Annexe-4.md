@@ -116,6 +116,52 @@ EMPLOIS À PÉNIBILITÉ AVÉRÉE
 
 002 - CHEF DE BORD MONITEUR (H/F).
 
+007-AGENT D'ESCALE ET DE SERVICE EN GARE (H/F).
+
+010-AGENT DU SERVICE COMMERCIAL TRANSILIEN (H/F).
+
+110-OPERATEUR(TRICE) MAINTENANCE ENGINS OUTILLAGE MECA.
+
+111-AGENT D'ENTRETIEN LEVAGE-PESAGE (H/F).
+
+121-OPERATEUR(TRICE) DE PROD. DES LIGNES DE TELECOMS.
+
+124-OPERATEUR / OPERATRICE DE PRODUCTION EALE.
+
+127-OPERATEUR/OPERATRICE ULTRASONS VOIE.
+
+142-TECHNICIEN(NE) DE PRODUCTION LIGNES DE TELECOMS.
+
+147-TECHNICIEN/TECHNICIENNE ULTRASONS EQUIPEMENT.
+
+150-TECHNICIEN(NE) MAINT. ENGIN ET OUTIL. MECA. EQUIP.
+
+217-CHEF D'ESCALE (H/F).
+
+448-TECHNICIEN/TECHNICIENNE DE PRODUCTION EALE.
+
+451-TECHNICIEN/TECHNICIENNE EQUIPES MECANISEES.
+
+452-TECHNICIEN/TECHNICIENNE EQUIPE BOURRAGE.
+
+453-TECHNICIEN/TECHNICIENNE EQUIPE DESHERBAGE.
+
+639-COORDINATEUR(TRICE) REGULARITE.
+
+690-OPERATEUR DE MAINTENANCE ELECTROTECHNIQUE (H/F).
+
+692-OPERATEUR DE MAINTENANCE SYSTEME (H/F).
+
+694-OPERATEUR DE MAINTENANCE DEPANNAGE (H/F).
+
+696-OPERATEUR DE MAINTENANCE CLIMATISATION (H/F).
+
+699-OPERATEUR USINAGE (H/F).
+
+742-AGENT DE FLUX LOGISTIQUE INDUSTRIELLE (H/F).
+
+426-CONDUCTEUR(TRICE) ENGINS DE MAINTENANCE EQUIPEMENT.
+
 277 - AGENT ESCALE PRODUIT TRAIN (MANŒUVRE-DEPART) (H/F).
 
-Nota. - Au-delà des 58 emplois à pénibilité avérée, un emploi ne relevant pas de cette liste peut cependant permettre à un agent de bénéficier des mesures liées à la pénibilité si ce métier est par exemple exercé de nuit (plus de 65 nuits par an) ou en 3 x 8. Pour être validées dans le cadre du bénéfice des mesures liées à la pénibilité, ces conditions d'exercice doivent être observées pendant une année de façon continue.
+Nota. - Au-delà des 81 emplois à pénibilité avérée, un emploi ne relevant pas de cette liste peut cependant permettre à un agent de bénéficier des mesures liées à la pénibilité si ce métier est par exemple exercé de nuit (plus de 65 nuits par an) ou en 3 x 8. Pour être validées dans le cadre du bénéfice des mesures liées à la pénibilité, ces conditions d'exercice doivent être observées pendant une année de façon continue.

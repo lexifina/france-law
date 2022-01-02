@@ -14,13 +14,15 @@ Ont droit et ouvrent droit, sous réserve de l'application des règles de mainti
 
 I.-Aux prestations de prévoyance prévues au 2° du III de l'article 1er du décret n° 2007-730 du 7 mai 2007 relatif à la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français :
 
-1. Les personnes mentionnées à l'article 2 du décret du 7 mai 2007 dès le jour de leur affiliation, y compris les anciens agents de l'ancien réseau Alsace-Lorraine titulaires d'une pension ou d'une rente d'invalidité.
+1. Les personnes mentionnées à l'article 2 du décret du 7 mai 2007, à l'exception de celles mentionnées au e, dès le jour de leur affiliation, y compris les anciens agents de l'ancien réseau Alsace-Lorraine titulaires d'une pension ou d'une rente d'invalidité.
 
 2. Les orphelins titulaires d'une pension attribuée à la suite du décès d'un agent ou d'un ancien agent au titre de l'article 18 du décret n° 2008-639 du 30 juin 2008 relatif au régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports et non couverts à titre d'ayant droit par un régime de sécurité sociale.
 
 3. Les assurés mentionnés aux a, a bis, b, d et d bis de l'article 2 du décret du 7 mai 2007 susvisé pendant les périodes durant lesquelles ils perçoivent l'indemnité mentionnée au II de l'article L. 5122-1 du code du travail.
 
-II.-Aux prestations en nature des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut mentionné à l' article L. 2101-2 du code des transports, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports.
+4. Les agents bénéficiant d'une cessation anticipée d'activité visé au IV bis de l'article 7 du décret du 30 juin 2008 susvisé, pendant les périodes durant lesquelles ils perçoivent une allocation.
+
+II.-Aux prestations en nature des assurances maladie et maternité les agents en congé de disponibilité dont la liste figure à l'article 12 du chapitre 10 du statut mentionné à l' article L. 2101-2 du code des transports, sans versement des cotisations ouvrières et patronales. Leur droit à l'allocation de fin de carrière et aux allocations décès n'est maintenu que moyennant le versement des cotisations ouvrières et patronales, selon les modalités prévues à l'article 7 du décret n° 2007-1056 du 28 juin 2007 relatif aux ressources de la caisse de prévoyance et de retraite du personnel de la société nationale des chemins de fer français.
 
 III.-Aux seules prestations en nature des assurances maladie et maternité dans les conditions applicables aux retraités les anciens agents ayant cessé leurs fonctions à la société nationale SNCF ou ses filiales relevant du I de l'article L. 2101-2 du code des transports par départ volontaire qui reçoivent des indemnités de chômage versées par la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports sans interruption jusqu'à la date d'entrée en jouissance de leur pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports.
 
@@ -70,13 +72,13 @@ Les personnes de nationalité étrangère ne peuvent être admises en qualité d
 
 Chapitre 2
 
-Dispositions générales relatives aux prestations et aux soins pris en charge par la caisse de prévoyance et de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports
+Dispositions générales relatives aux prestations et aux soins pris en charge par la caisse de prévoyance et de retraite du personnel de la société nationale des chemins de fer français
 
 Article 2
 
 Dispositions applicables du code de la sécurité sociale
 
-Conformément aux dispositions de l'article R. 711-17 du code de la sécurité sociale, la caisse de prévoyance et de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports assure aux personnes mentionnées aux articles 1.1 et 1.2 de la présente annexe des prestations équivalentes à celles du régime général de sécurité sociale.
+Conformément aux dispositions de l'article R. 711-17 du code de la sécurité sociale, la caisse de prévoyance et de retraite du personnel de la société nationale des chemins de fer français assure aux personnes mentionnées aux articles 1.1 et 1.2 de la présente annexe des prestations équivalentes à celles du régime général de sécurité sociale.
 
 Pour le service de ces prestations, les dispositions contenues dans les livres, titres ou articles suivants du code de la sécurité sociale sont applicables :
 
@@ -168,7 +170,7 @@ Par exception, sont remboursés au taux de 100 % :
 
 - les soins dispensés aux titulaires de l'allocation supplémentaire du fonds de solidarité vieillesse, de l'allocation supplémentaire du fonds spécial d'invalidité, de l'allocation de solidarité aux personnes âgées prévue à l'article L. 815-2 du code de la sécurité sociale et de l'allocation supplémentaire d'invalidité prévue à l'article L. 815-24 du même code ainsi qu'aux bénéficiaires des dispositions de l'article 23 du décret du 30 juin 2008 ;
 
-- les soins dispensés aux anciens agents retraités qui, atteints d'une invalidité au moins égale au 2/3 non imputable à un accident du travail ou à une maladie professionnelle, ont quitté la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports avec le bénéfice d'une pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports et auxquels se trouve garantie une pension d'invalidité déterminée selon les dispositions du titre IV du livre III du code de la sécurité sociale.
+- les soins dispensés aux anciens agents retraités qui, atteints d'une invalidité au moins égale au 2/3 non imputable à un accident du travail ou à une maladie professionnelle, ont quitté la société nationale SNCF ou ses filiales relevant du I de l'article L. 2101-2 du code des transports avec le bénéfice d'une pension du régime spécial de retraite du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports et auxquels se trouve garantie une pension d'invalidité déterminée selon les dispositions du titre IV du livre III du code de la sécurité sociale.
 
 Article 3-2
 
@@ -280,7 +282,7 @@ Décès du conjoint ou du partenaire auquel l'agent ou l'ancien
 
 agent retraité était lié par un pacte civil de solidarité
 
-Les personnes mentionnées à l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1er-1 de la présente annexe, reçoivent, en cas de décès de leur conjoint non séparé de corps ou du partenaire auquel elles étaient liées par un pacte civil de solidarité et relevant du régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports :
+Les personnes mentionnées à l'article 2 du décret du 7 mai 2007, à l'exception de celles mentionnées au e, et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1er-1 de la présente annexe, reçoivent, en cas de décès de leur conjoint non séparé de corps ou du partenaire auquel elles étaient liées par un pacte civil de solidarité et relevant du régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports :
 
 - en ce qui concerne les agents en activité, y compris lorsqu'ils sont en position de disponibilité avec versements des cotisations de prévoyance à la caisse ou en situation d'activité partielle au sens de l'article L. 5122-1 du code du travail, une allocation égale à 25 % de la rémunération totale annuelle brute définie au I de l'article précédent, sans jamais être inférieure à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe ni supérieure à un montant forfaitaire maximum défini au même article ;
 
@@ -292,7 +294,7 @@ Article 4-4
 
 Décès d'un enfant
 
-Les personnes mentionnées à l'article 2 du décret du 7 mai 2007 et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1.1 de la présente annexe, reçoivent une allocation égale à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe, en cas de décès :
+Les personnes mentionnées à l'article 2 du décret du 7 mai 2007, à l'exception de celles mentionnées au e, et ouvrant droit aux prestations de prévoyance dans les conditions prévues à l'article 1.1 de la présente annexe, reçoivent une allocation égale à un montant forfaitaire minimum défini à l'article 4-6 de la présente annexe, en cas de décès :
 
 - d'un des enfants mentionnés au I de l'article 1er-2 de la présente annexe ;
 
@@ -338,9 +340,9 @@ Décès des pensionnés ou de leurs ayant droits
 
 relevant d'un autre régime de sécurité sociale
 
-I.-a) Les anciens agents titulaires d'une pension définie aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie, bénéficient de l'allocation au décès prévue aux articles 4-3 et 4-4 de la présente annexe sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève le conjoint, la personne ayant conclu un pacte civil de solidarité avec l'affilié ou l'enfant ;
+I.-a) Les anciens agents titulaires d'une pension définie aux articles 1er, 2, 2 bis, 3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie, bénéficient de l'allocation au décès prévue aux articles 4-3 et 4-4 de la présente annexe sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève le conjoint, la personne ayant conclu un pacte civil de solidarité avec l'affilié ou l'enfant ;
 
-b) Les conjoints titulaires de la réversion d'une des pensions définie aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008 et n'ouvrant pas droit au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports, bénéficient de l'allocation au décès prévue à l'article 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève l'enfant.
+b) Les conjoints titulaires de la réversion d'une des pensions définie aux articles 1er, 2, 2 bis, 3 (II), 4 et 5 du décret du 30 juin 2008 et n'ouvrant pas droit au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports, bénéficient de l'allocation au décès prévue à l'article 4-4 de la présente annexe, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont relève l'enfant.
 
 II.-a) Au décès des personnes mentionnées au I a du présent article, leurs ayant droits mentionnés à l'article 4-2 de la présente annexe bénéficient de l'allocation au décès prévue au même article, sous réserve qu'un droit à ce titre ne soit pas servi par le régime dont elles relèvent.
 
@@ -360,17 +362,19 @@ Lorsqu'un agent en activité, un ancien agent retraité, ou un de leurs ayant dr
 
 En cas d'admission d'un ancien agent retraité ou d'un ayant droit bénéficiaire de l'allocation personnalisée d'autonomie en maison de retraite, en établissement d'hébergement pour personnes âgées dépendantes ou en unité de soins de longue durée, les frais d'hébergement sont pris en charge dans la limite prévue à l'alinéa qui précède.
 
-Cette prestation, non renouvelable, prend effet, en cas d'accord de la caisse, à compter de la date de réception de l'ensemble des éléments nécessaires à l'examen de la demande, qui ne peut être postérieure au décès du bénéficiaire.
+En cas d'accord de la caisse et à réception de l'ensemble des éléments nécessaires à son examen, cette prestation, non renouvelable, prend effet à compter de la date de réception de la demande, qui ne peut être postérieure au décès du bénéficiaire.
 
 II.-Bénéficiaires relevant d'un autre régime de sécurité sociale :
 
 Sous réserve que les intéressés satisfassent aux conditions du I du présent article, cette prestation est également attribuée :
 
-- aux anciens agents titulaires d'une pension définie aux articles 1er, 2,3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie et aux membres de leur famille mentionnés à l'article 1er-2 de la présente annexe ;
+- aux anciens agents titulaires d'une pension définie aux articles 1er, 2, 2 bis, 3 (II), 4 et 5 du décret du 30 juin 2008 qui seraient ouvrant droits au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports s'ils ne relevaient pas en priorité d'un autre régime de sécurité sociale du fait de l'exercice d'une activité professionnelle ou par application des règles de coordination en matière d'assurance maladie et aux membres de leur famille mentionnés à l'article 1er-2 de la présente annexe ;
 
 - aux veufs ou veuves de l'agent ou de l'ancien agent retraité, non affiliés au régime spécial de prévoyance du personnel de la société nationale SNCF et ses filiales relevant du I de l'article L. 2101-2 du code des transports, titulaires de la réversion d'une des pensions précitées.
 
 Elle est également attribuée à l'agent ou à l'ancien agent retraité mentionné à l'article 1er-1 de la présente annexe pour les membres de sa famille mentionnés à l'article 1er-2 de la présente annexe relevant d'un autre régime de sécurité sociale.
+
+Ces dispositions ne sont pas applicables aux personnes mentionnées au e de l'article 2 du décret du 7 mai 2007 susvisé.
 
 Article 5-2
 
@@ -401,6 +405,8 @@ II.-Les éléments constitutifs de la rémunération et les prestations familial
 Un complément d'allocation, égal à 1/12 de la différence entre le total des primes de traction perçues par les intéressés au cours des 12 derniers mois et le montant des primes de travail, est versé aux agents de conduite placés sur les qualifications TA et TB définies à l'annexe 3 du décret du 30 juin 2008.
 
 III. - Pour les agents placés en situation d'activité partielle, les éléments constitutifs de la rémunération et les prestations familiales à prendre en compte pour le calcul de l'allocation définie au I sont ceux listés au II du présent article et reconstitués à la date de cessation des fonctions de l'agent.
+
+IV.- Les I à III ne sont pas applicables aux personnes mentionnées au e de l'article 2 du décret du 7 mai 2007 susvisé.
 
 Chapitre 6
 

@@ -21,3 +21,5 @@ Sont concernés les agents placés sur les qualifications TA et TB et occupant l
 - conducteur de ligne (CRL) ;
 
 - conducteur de ligne principal (CRLP).
+
+Est réputé occuper un emploi d'agent de conduite tout salarié mentionné à l'article L. 2102-22 du code des transports exerçant un emploi équivalent à ceux énumérés dans la présente annexe.
