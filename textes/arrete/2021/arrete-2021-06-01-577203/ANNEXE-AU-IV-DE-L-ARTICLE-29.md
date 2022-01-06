@@ -1,8 +1,10 @@
 # Article ANNEXE AU IV DE L'ARTICLE 29
 
-Tableau 1. - Montant de l'indemnité de dispensation versée aux pharmaciens et tarif unitaire d'un autotest remboursé à l'assurance maladie
+TABLEAU 1.-MONTANT DE L'INDEMNITÉ DE DISPENSATION VERSÉE AUX PHARMACIENS ET TARIF UNITAIRE D'UN AUTOTEST REMBOURSÉ À L'ASSURANCE MALADIE
 
-Bénéficiaires des autotests gratuits |
+Bénéficiaires
+
+des autotests gratuits |
 
 Justificatif à présenter
 
@@ -10,13 +12,17 @@ pour la délivrance |
 
 Indemnité de dispensation
 
-pour le pharmacien en € |
+pour le pharmacien
 
-Tarif d'un autotest facturé
+en € |
 
-à l'assurance maladie en € HT |
+Tarif d'un autotest
 
-- Salariés de services à domicile intervenant auprès de personnes âgées ou en situation de handicap (SAAD, SPASAD, SSIAD, SAVS, SAMSAH, SESSAD) ;
+facturé à l'assurance maladie
+
+en € HT |
+
+-Salariés de services à domicile intervenant auprès de personnes âgées ou en situation de handicap (SAAD, SPASAD, SSIAD, SAVS, SAMSAH, SESSAD) ;
 
 -Salariés de particuliers employeurs intervenant auprès de personnes âgées ou en situation de handicap pour des actes essentiels de la vie ;
 
@@ -28,11 +34,27 @@ Une pièce d'identité, et l'un des justificatifs suivants :
 
 -Un bulletin de salaire (pour les salariés de services à domicile), un bulletin de salaire CESU (pour les salariés de particuliers employeurs) ou un exemplaire du relevé mensuel des contreparties financières (pour les accueillants familiaux) de moins de 3 mois. |
 
-1€ HT pour la dispensation à l'assuré de 10 autotests pour un mois.
+2 € HT pour la dispensation à l'assuré de 10 autotests pour un mois.
 
 Indemnité majorée le cas échéant d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
-4,2€ l'autotest
+3,50 € l'autotest
+
+tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
+
+-Personne-contact ayant un schéma vaccinal complet ou âgée de moins de 12 ans. |
+
+Attestation sur l'honneur de cas contact à défaut de notification par l'assurance maladie |
+
+2 € HT pour la dispensation à l'assuré des autotests quel qu'en soit le nombre.
+
+Indemnité majorée le cas échéant d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
+
+3,50 € l'autotest
+
+tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2
+
+3,80 € l'autotest spécifique destiné aux enfants de moins de 12 ans
 
 tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
