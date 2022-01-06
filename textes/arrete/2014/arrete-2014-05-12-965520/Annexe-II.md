@@ -1,526 +1,150 @@
 # Article Annexe II
 
-PARTIE PÉDAGOGIQUE DU LIVRET D'APPRENTISSAGE
+PÉDAGOGIQUE DU LIVRET D'APPRENTISSAGE DES CATÉGORIES A1-A2-A
 
-DES CATÉGORIES A1-A2-A
+1. MAÎTRISER LE MANIEMENT DE LA MOTO À VITESSE REDUITE
 
-1. MAITRISER LE MANIEMENT DE LA MOTO A VITESSE REDUITE ET A VITESSE PLUS ELEVEE, HORS CIRCULATION
+ET À VITESSE PLUS ÉLEVÉE,
 
-|
-
-|
-
-POURQUOI : RAISONS
-
-|
-
-COMMENT : PROCEDURES
-
-|
-
-RISQUES
-
-|
-
-INFLUENCES DE SON ENTOURAGE ET DE SON MODE DE VIE
-
-|
-
-PRESSIONS EXERCEES PAR LA SOCIETE : PUBLICITE, TRAVAIL....
-
-|
-
-AUTO-EVALUATION
-
-|
-
-Connaître et adopter les comportements sécuritaires en matière d'équipement du motard.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Connaître la conception de la moto, ses principaux organes, les principales commandes et le tableau de bord.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Maîtriser et déplacer la machine (sans l'aide du moteur).
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Adopter une position de conduite sécuritaire sur la machine - Descendre de la machine en sécurité.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Démarrer et s'arrêter en toutes circonstances.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Monter et rétrograder les rapports de vitesse.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Maîtriser la réalisation d'un freinage.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Connaître les incidences du regard sur la trajectoire et la stabilité.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Tenir l'équilibre, maintenir la stabilité et guider la moto (sans et avec passager).
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Maîtriser l'utilisation de l'embrayage (sauf transmission automatique).
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Maitriser les techniques d'inclinaison.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Réaliser un freinage d'urgence.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-.
-
-2. APPREHENDER LA ROUTE ET CIRCULER DANS DES CONDITIONS NORMALES.
-
-|
-
-|
-
-POURQUOI : RAISONS
-
-|
-
-COMMENT : PROCEDURES
-
-|
-
-RISQUES
-
-|
-
-INFLUENCES DE SON ENTOURAGE ET DE SON MODE DE VIE
-
-|
-
-PRESSIONS EXERCEES PAR LA SOCIETE : PUBLICITE, TRAVAIL....
-
-|
-
-AUTO-EVALUATION
-
-|
-
-Connaître et respecter les règles de circulation.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Rechercher la signalisation, les indices utiles et en tenir compte (notamment ceux spécifiques à la conduite des deux-roues).
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Positionner le véhicule sur la chaussée et choisir la voie de circulation.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Adapter l'allure aux situations.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Etre en mesure de s'arrêter ou stationner et de repartir en sécurité.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Tourner à droite et à gauche.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Détecter, identifier et franchir les intersections suivant le régime de priorité.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Franchir les ronds-points et les carrefours à sens giratoire.
-
-|
-
-☐
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-.
-
-3. CIRCULER
-
-dans des conditions difficiles et partager la route avec les autres usagers
-
-|
+HORS CIRCULATION |
 
 |
 
 POURQUOI :
 
-raisons
+raisons |
 
-|
+COMMENT : procédures |
 
-COMMENT :
-
-procédures
-
-|
-
-RISQUES
-
-|
+RISQUES |
 
 INFLUENCES
 
-de son entourage et de son mode de vie
-
-|
+de son entourage et de son mode de vie |
 
 PRESSIONS
 
-exercées par la société : publicité, travail …
-
-|
+exercées par la société : publicité, travail… |
 
 AUTO-
 
-évaluation
+évaluation |
 
+Connaître et adopter les comportements sécuritaires en matière d'équipement du motard. |
+
+☐ |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Connaître la conception de la moto, ses principaux organes, les principales commandes et le tableau de bord. |
+
+☐ |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Maîtriser et déplacer la machine (sans l'aide du moteur). |
+
+☐ |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Adopter une position de conduite sécuritaire sur la machine - Descendre de la machine en sécurité. |
+
+☐ |
+
+|
+
+|
+
+|
+
+|
+
+|
+
 |
 
-Evaluer et maintenir les distances de sécurité.
+Démarrer et s'arrêter en toutes circonstances. |
 
+☐ |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Monter et rétrograder les rapports de vitesse. |
+
+☐ |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Maîtriser la réalisation d'un freinage. |
+
+☐ |
+
+|
+
 |
 
-□
+|
 
 |
 
 |
 
 |
+
+Connaître les incidences du regard sur la trajectoire et la stabilité. |
+
+☐ |
 
 |
 
@@ -530,11 +154,15 @@ Evaluer et maintenir les distances de sécurité.
 
 |
 
-Croiser, dépasser, être dépassé.
+|
 
 |
+
+Tenir l'équilibre, maintenir la stabilité et guider la moto (sans et avec passager). |
+
+☐ |
 
-□
+|
 
 |
 
@@ -545,18 +173,26 @@ Croiser, dépasser, être dépassé.
 |
 
 |
+
+Maîtriser l'utilisation de l'embrayage (sauf transmission automatique). |
 
+☐ |
+
 |
 
 |
 
-Négocier les virages de la façon la plus sécurisante.
+|
 
 |
 
-□
+|
 
 |
+
+Maitriser les techniques d'inclinaison. |
+
+☐ |
 
 |
 
@@ -570,11 +206,13 @@ Négocier les virages de la façon la plus sécurisante.
 
 |
 
-Communiquer avec les autres usagers.
+Réaliser un freinage d'urgence. |
 
+☐ |
+
 |
 
-□
+|
 
 |
 
@@ -584,20 +222,48 @@ Communiquer avec les autres usagers.
 
 |
 
+2. APPRÉHENDER LA ROUTE ET CIRCULER DANS DES CONDITIONS NORMALES |
+
 |
+
+POURQUOI : raisons |
+
+COMMENT : procédures |
+
+RISQUES |
+
+INFLUENCES
+
+de son entourage et de son mode de vie |
+
+PRESSIONS
+
+exercées par la société : publicité, travail… |
+
+AUTO-
 
+évaluation |
+
+Connaître et respecter les règles de circulation. |
+
+☐ |
+
 |
 
 |
 
-Connaître les caractéristiques des autres usagers et savoir se comporter à leur égard avec respect et courtoisie.
+|
 
 |
 
-□
+|
 
 |
+
+Rechercher la signalisation, les indices utiles et en tenir compte (notamment ceux spécifiques à la conduite des deux-roues). |
 
+☐ |
+
 |
 
 |
@@ -609,18 +275,26 @@ Connaître les caractéristiques des autres usagers et savoir se comporter à le
 |
 
 |
+
+Positionner le véhicule sur la chaussée et choisir la voie de circulation. |
+
+☐ |
 
-Connaître les particularités des véhicules lourds et savoir se rendre visible.
+|
 
 |
 
-□
+|
 
 |
 
 |
 
 |
+
+Adapter l'allure aux situations. |
+
+☐ |
 
 |
 
@@ -630,11 +304,15 @@ Connaître les particularités des véhicules lourds et savoir se rendre visible
 
 |
 
-S'insérer, circuler et sortir d'une voie rapide
+|
 
 |
+
+Etre en mesure de s'arrêter ou stationner et de repartir en sécurité. |
+
+☐ |
 
-□
+|
 
 |
 
@@ -645,18 +323,26 @@ S'insérer, circuler et sortir d'une voie rapide
 |
 
 |
+
+Tourner à droite et à gauche. |
 
+☐ |
+
 |
 
 |
 
-Conduire dans une file de véhicules et dans une circulation dense.
+|
 
 |
 
-□
+|
 
 |
+
+Détecter, identifier et franchir les intersections suivant le régime de priorité. |
+
+☐ |
 
 |
 
@@ -670,20 +356,52 @@ Conduire dans une file de véhicules et dans une circulation dense.
 
 |
 
-Connaître les règles relatives à la circulation inter-files.
+Franchir les ronds-points et les carrefours à sens giratoire. |
 
-Savoir la pratiquer dans les départements autorisés et si les conditions de sécurité et la situation d'apprentissage le permettent.
+☐ |
+
+|
+
+|
 
 |
 
-□
+|
 
 |
 
 |
+
+3. CIRCULER DANS DES
+
+CONDITIONS DIFFICILES ET
 
+PARTAGER LA ROUTE AVEC LES AUTRES USAGERS |
+
 |
+
+POURQUOI : raisons |
+
+COMMENT : procédures |
+
+RISQUES |
+
+INFLUENCES
+
+de son entourage et de son mode de vie |
+
+PRESSIONS
+
+exercées par la société : publicité, travail… |
+
+AUTO-
+
+évaluation |
+
+Evaluer et maintenir les distances de sécurité. |
 
+□ |
+
 |
 
 |
@@ -692,11 +410,13 @@ Savoir la pratiquer dans les départements autorisés et si les conditions de s�
 
 |
 
-Conduire quand l'adhérence et la visibilité sont réduites.
+|
 
 |
+
+Croiser, dépasser, être dépassé. |
 
-□
+□ |
 
 |
 
@@ -707,19 +427,29 @@ Conduire quand l'adhérence et la visibilité sont réduites.
 |
 
 |
+
+|
+
+Négocier les virages de la façon la plus sécurisante. |
+
+□ |
 
 |
 
 |
 
-Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts …
+|
 
 |
 
-□
+|
 
 |
+
+Communiquer avec les autres usagers. |
 
+□ |
+
 |
 
 |
@@ -732,46 +462,58 @@ Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunne
 
 |
 
-.
+Connaître les caractéristiques des autres usagers et savoir se comporter à leur égard avec respect et courtoisie. |
 
-4. PRATIQUER UNE CONDUITE AUTONOME, SÛRE ET ECONOMIQUE
+□ |
 
 |
 
 |
 
-POURQUOI : RAISONS
+|
 
 |
 
-COMMENT : PROCEDURES
+|
 
 |
+
+Connaître les particularités des véhicules lourds et savoir se rendre visible. |
 
-RISQUES
+□ |
 
 |
 
-INFLUENCES DE SON ENTOURAGE ET DE SON MODE DE VIE
+|
+
+|
 
 |
 
-PRESSIONS EXERCEES PAR LA SOCIETE : PUBLICITE, TRAVAIL
+|
 
 |
+
+S'insérer, circuler et sortir d'une voie rapide |
+
+□ |
 
-AUTO-EVALUATION
+|
 
 |
 
-Suivre un itinéraire de manière autonome.
+|
 
 |
 
-☐
+|
 
 |
 
+Conduire dans une file de véhicules et dans une circulation dense. |
+
+□ |
+
 |
 
 |
@@ -783,12 +525,18 @@ Suivre un itinéraire de manière autonome.
 |
 
 |
+
+Connaître la signalisation spécifique et les règles relatives à la circulation inter-files : types de routes et voies de circulations autorisées, types de véhicules, vitesses autorisées, comportements à adopter, cas d'interdiction.
+
+Savoir la pratiquer dans les départements expérimentaux et si les conditions de sécurité et la situation d'apprentissage le permettent. Dans ce cas, l'apprentissage insiste sur : la recherche d'indices et la perception des risques, la communication avec les autres usagers, le respect des distances de sécurité, l'adaptation de l'allure, notamment en fonction de la vitesse des véhicules dépassés. |
 
-Préparer et effectuer un trajet longue distance en autonomie.
+□ |
 
 |
 
-☐
+|
+
+|
 
 |
 
@@ -796,6 +544,10 @@ Préparer et effectuer un trajet longue distance en autonomie.
 
 |
 
+Conduire quand l'adhérence et la visibilité sont réduites. |
+
+□ |
+
 |
 
 |
@@ -804,11 +556,13 @@ Préparer et effectuer un trajet longue distance en autonomie.
 
 |
 
-Connaître les principaux facteurs de risque, ceux plus spécifiques à la conduite des motocyclettes et les recommandations à appliquer.
+|
 
 |
+
+Conduire à l'abord et dans la traversée d'ouvrages routiers tels que les tunnels, les ponts… |
 
-☐
+□ |
 
 |
 
@@ -822,19 +576,49 @@ Connaître les principaux facteurs de risque, ceux plus spécifiques à la condu
 
 |
 
+4. PRATIQUER UNE CONDUITE AUTONOME, SÛRE
+
+ET ÉCONOMIQUE |
+
 |
+
+POURQUOI : raisons |
+
+COMMENT : procédures |
+
+RISQUES |
+
+INFLUENCES
+
+de son entourage et de son mode de vie |
 
-Connaître les comportements à adopter en cas d'accident : Protéger, Alerter, Secourir.
+PRESSIONS
 
+exercées par la société : publicité, travail… |
+
+AUTO-
+
+évaluation |
+
+Suivre un itinéraire de manière autonome. |
+
+☐ |
+
+|
+
 |
 
-☐
+|
 
 |
 
 |
 
 |
+
+Préparer et effectuer un trajet longue distance en autonomie. |
+
+☐ |
 
 |
 
@@ -844,11 +628,15 @@ Connaître les comportements à adopter en cas d'accident : Protéger, Alerter, 
 
 |
 
-Connaître les dispositifs d'aide à la conduite du véhicule (ABS, aides à la navigation, régulateur, limiteur de vitesse).
+|
 
 |
+
+Connaître les principaux facteurs de risque, ceux plus spécifiques à la conduite des motocyclettes et les recommandations à appliquer. |
 
-☐
+☐ |
+
+|
 
 |
 
@@ -860,18 +648,26 @@ Connaître les dispositifs d'aide à la conduite du véhicule (ABS, aides à la 
 
 |
 
+Connaître les comportements à adopter en cas d'accident : Protéger, Alerter, Secourir. |
+
+☐ |
+
 |
 
 |
 
-Avoir des notions sur l'entretien et le dépannage de la motocyclette.
+|
 
 |
 
-☐
+|
 
 |
+
+Connaître les dispositifs d'aide à la conduite du véhicule (ABS, aides à la navigation, régulateur, limiteur de vitesse). |
 
+☐ |
+
 |
 
 |
@@ -883,12 +679,16 @@ Avoir des notions sur l'entretien et le dépannage de la motocyclette.
 |
 
 |
+
+Avoir des notions sur l'entretien et le dépannage de la motocyclette. |
 
-Pratiquer l'éco-conduite.
+☐ |
 
 |
 
-☐
+|
+
+|
 
 |
 
@@ -896,6 +696,10 @@ Pratiquer l'éco-conduite.
 
 |
 
+Pratiquer l'éco-conduite. |
+
+☐ |
+
 |
 
 |
@@ -904,6 +708,6 @@ Pratiquer l'éco-conduite.
 
 |
 
-.
+|
 
-.
+|
