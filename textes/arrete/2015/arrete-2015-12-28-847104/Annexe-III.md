@@ -4,9 +4,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--Chargé de mission au cabinet du directeur général de la gendarmerie nationale (6 emplois)
+-Chargé de mission au cabinet du directeur général de la gendarmerie nationale (5 emplois)
 
--Chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (6 emplois)
+-Chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (5 emplois)
 
 -Coordonnateur des programmes judiciaires à la direction des opérations et de l'emploi (1 emploi)
 
@@ -18,7 +18,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Directeur de projet à la mission LOG-MI du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
 
--Chargé de fonction adjoint à la direction des opérations et de l'emploi
+-Chargé de la fonction ressources humaines, cabinet du directeur général de la gendarmerie nationale (1 emploi)
+
+-Adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi)
+
+-Chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi)
+
+-Chef de la mission logistique de la direction des soutiens et des finances
 
 -Chef du service central des réseaux et technologies avancées
 
@@ -29,6 +35,12 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -Sous-chef veille du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
 -Sous-chef planification du centre national des opérations au sein de la direction générale de la gendarmerie nationale
+
+-Porte-parole du directeur général de la gendarmerie nationale
+
+-Chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (1 emploi)
+
+-Chef d'une division du commandement de la gendarmerie dans le cyberespace (4 emplois)
 
 -Au sein de la direction générale de la gendarmerie nationale, chef du bureau :
 
@@ -48,13 +60,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des outils de soutien et des statistiques
 
--du personnel officier
-
 -de la préparation et du pilotage du fonctionnement et de l'investissement
 
 -de la sécurité et de l'ordre publics
 
 -de la synthèse budgétaire
+
+-du personnel sous-officier de gendarmerie et volontaire
+
+-du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
 
 -Chef du bureau de l'habillement du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
 
@@ -64,21 +78,23 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chargé de fonction à l'inspection générale de la gendarmerie nationale (1 emploi)
 
--Chef du bureau :
+-Chef du conseil permanent de la sécurité aérienne de la gendarmerie nationale
 
--des enquêtes administratives
-
--des enquêtes judiciaires
+-Chargé de mission à la mission sûreté de la gendarmerie (1 emploi)
 
 3° Gendarmerie départementale :
 
--Chef d'état-major de la région de gendarmerie d'Ile-de-France
+-Officier adjoint commandement d'une région de gendarmerie à l'exception de la région de gendarmerie de :
 
--Officier adjoint commandement d'une région de gendarmerie
+-Bretagne
+
+-Nord pas de Calais
 
 -Officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
 
--Officier adjoint territorial à la région de gendarmerie de Pays de la Loire, de Centre-Val de Loire, de Midi-Pyrénées, de Normandie et au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
+-Officier adjoint territorial au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
+
+-Chef de la division de l'emploi de la région de gendarmerie d'Occitanie
 
 -Commandant du groupement de gendarmerie départementale :
 
@@ -110,7 +126,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Tarn-et-Garonne
 
--du Territoire de Belfort
+-du Territoire-de-Belfort
 
 -Commandant en second du groupement de gendarmerie départementale :
 
@@ -132,23 +148,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Rhône
 
--Chef de la division des opérations de la région de gendarmerie :
-
--de Normandie
-
--de Midi-Pyrénées
-
--des Pays de la Loire
-
 -Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
 -du Bas-Rhin
 
 -de l'Hérault
 
--Chef de la division de l'appui opérationnel d'une région de gendarmerie (zonale et non zonale) ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
+-Chef de la division de l'appui opérationnel d'une région de gendarmerie non zonale ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
 
-4° Gendarmerie mobile-Garde républicaine :
+4° Gendarmerie mobile Garde républicaine :
 
 -Chef d'état-major de la garde républicaine
 
@@ -184,6 +192,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef d'état-major du commandement de la gendarmerie d'outre-mer
 
+-Commandant en second de la gendarmerie pour les missions extérieures
+
 -Commandant de la gendarmerie pour Saint-Pierre-et-Miquelon
 
 -Commandant en second de la gendarmerie :
@@ -193,6 +203,8 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -de Guyane française
 
 -de Martinique
+
+-de Mayotte
 
 -pour la Nouvelle-Calédonie
 
@@ -232,7 +244,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chargé de mission à l'inspection générale de l'administration
 
--Chargé de mission à la cour des comptes
+-Officier rapporteur à la cour des comptes (1 emploi)
 
 -Chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur
 
@@ -244,12 +256,18 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur
 
+-Officier de liaison au cabinet du chef d'état-major de l'armée de Terre (1 emploi)
+
+-Directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur
+
+-Conseiller sécurité intérieure à la direction de la coopération de sécurité et de défense (1 emploi)
+
 8° Ecoles :
 
 -Officier adjoint commandement du commandement des écoles de la gendarmerie nationale
 
 -Directeur des enseignements de l'école des officiers de la gendarmerie nationale
 
-NOTA :
+-Commandant du groupement de soutien opérationnel des écoles
 
-Conformément à l'article 2 de l'arrêté du 16 juillet 2021, ces dispositions entrent en vigueur le 1er août 2021.
+-Commandant en second de l'école de gendarmerie de Dijon

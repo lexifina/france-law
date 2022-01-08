@@ -14,9 +14,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chargé de mission auprès du directeur des personnels militaires de la gendarmerie nationale (4 emplois)
 
--Chargé de mission auprès du directeur des opérations et de l'emploi (5 emplois)
+-Chargé de mission auprès du directeur des opérations et de l'emploi (6 emplois)
 
--Chargé de mission auprès du directeur des soutiens et des finances (4 emplois)
+-Chargé de mission auprès du directeur des soutiens et des finances (3 emplois)
 
 -Chargé de mission auprès du chef du service de la transformation (1 emploi)
 
@@ -28,37 +28,45 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef d'état-major du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Commandant adjoint du service d'information et de relations publiques des armées gendarmerie
-
 -Sous-directeur adjoint au sein du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
 
 -Adjoint à un sous-directeur au sein du service des technologies et des systèmes d'information de la sécurité intérieure
 
--Commandant en second des réserves de la gendarmerie
-
 -Adjoint au chef de la mission des hauts potentiels
 
--Chef de la mission du système d'information Agorha
+-Adjoint au chef de la mission du système d'information Agorha
 
--Chef du pôle national de lutte contre les cybermenaces
+-Adjoint au chef du bureau du personnel officier
+
+-Chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (1 emploi)
+
+-Chargé de la fonction soutien finances, cabinet du directeur général de la gendarmerie nationale (1 emploi)
 
 2° Inspection générale de la gendarmerie nationale :
 
--Inspecteur chargé d'études et de mission, conseiller technique/ particulier à l'inspection générale de la gendarmerie nationale (7 emplois)
+-Inspecteur chargé d'études et de mission, conseiller technique/ particulier à l'inspection générale de la gendarmerie nationale (4 emplois)
 
 -Coordonnateur national de la protection au sein de la mission sûreté de la gendarmerie
 
+-Adjoint au chef de la fonction retour d'expérience auprès de l'inspection générale de la gendarmerie nationale (1 emploi)
+
+-Chef du bureau :
+
+-des enquêtes administratives
+
+-des enquêtes judiciaires
+
 3° Gendarmerie départementale :
 
--Commandant en second de la région de gendarmerie (non zonale) de :
+-Officier adjoint commandement de la région zonale de gendarmerie de :
 
--Bourgogne-Franche-Comté
+-Bretagne
 
--Corse
+-Nord pas de Calais
 
--Normandie
+-Chef d'une division zonale opérations emploi (7 emplois)
 
--Occitanie
+-Chef de la division de l'appui opérationnel d'une région de gendarmerie zonale (7 emplois)
 
 -Commandant en second d'un groupement de gendarmerie départementale ayant le statut de formation administrative
 
@@ -80,7 +88,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'Aube
 
--de l'Aude
+-de l'Aud
 
 -de l'Aveyron
 
@@ -116,7 +124,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Haute-Corse
 
--de la Haute-Saône
+-de la Haute Saône
 
 -d'Ille-et-Vilaine
 
@@ -202,19 +210,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Versailles
 
-4° Gendarmerie mobile-Garde républicaine :
-
--Commandant en second de la garde républicaine
-
--Commandant du groupement blindé de gendarmerie mobile
-
--Commandant du groupement de gendarmerie mobile de Maisons-Alfort
-
-5° Gendarmeries spécialisées :
-
--Commandant de la gendarmerie de l'armement
-
--Commandant de la gendarmerie de la sécurité des armements nucléaires
+4° Gendarmeries spécialisées :
 
 -Commandant en second de la gendarmerie de l'air
 
@@ -222,19 +218,15 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant en second de la gendarmerie des transports aériens
 
-6° Outre-mer :
+5° Outre-mer :
 
 -Commandant de la gendarmerie de Mayotte
 
-7° Autres emplois :
+6° Autres emplois :
 
 -Chef de l'unité de coordination des forces d'intervention
 
 -Chef de l'unité de coordination pour la lutte contre l'insécurité routière
-
--Commandant d'un office central (4 emplois)
-
--Commandant de l'office central de lutte contre le trafic de biens culturels
 
 -Commandant en second des forces aériennes de la gendarmerie nationale
 
@@ -245,8 +237,6 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 -Directeur de l'institut de recherches criminelles de la gendarmerie nationale
 
 -Commandant de la gendarmerie prévôtale
-
--Commandant du commandement de la gendarmerie pour les missions extérieures
 
 -Commandant en second du groupe d'intervention de la gendarmerie nationale
 
@@ -262,15 +252,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Adjoint au chef de la mission de gouvernance ministérielle des ressources humaines du ministère de l'intérieur (1 emploi)
 
--Adjoint au chef de la fonction retour d'expérience auprès du commandant des écoles de la gendarmerie nationale (1 emploi)
-
 -Représentant gendarmerie auprès de l'unité de coordination des forces mobiles (1 emploi)
 
 -Secrétaire général adjoint du conseil supérieur de la garde nationale
 
 -Adjoint gendarmerie au chef du service central du renseignement territorial
 
--Adjoint au délégué ministériel aux coopérations de sécurité
+-Adjoint au délégué ministériel aux partenariats, aux stratégies et aux innovations de sécurité
 
 -Officier de liaison auprès du haut fonctionnaire de défense du ministère de la transition écologique et solidaire (1 emploi)
 
@@ -278,16 +266,16 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Officier de liaison auprès du préfet chargé de la lutte contre la cyber-criminalité (1 emploi)
 
--Conseiller " affaires intérieures " auprès du secrétaire général de la défense et de la sécurité nationale
+-Conseiller affaires intérieures auprès du secrétaire général de la Défense et de la Sécurité nationale
 
 -Officier de liaison à la sous-direction de l'architecture et des infrastructures techniques au sein de la direction du numérique (1 emploi)
 
 -Haut fonctionnaire de défense et de sécurité adjoint au secrétariat général du ministère de la justice (1 emploi)
 
--Officier de liaison au sein du pôle " prospective et stratégie militaire " au cabinet du major général des armées (1 emploi)
+-Officier de liaison au sein du pôle prospective et stratégie militaire au cabinet du major général des armées (1 emploi)
 
 -Commandant militaire de la Présidence de la République
 
-8° Ecoles :
+7° Ecoles :
 
 -Commandant en second de l'école des officiers de la gendarmerie nationale

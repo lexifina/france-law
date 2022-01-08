@@ -340,7 +340,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Commandant d'un peloton spécial de sécurité
 
-4° Gendarmerie mobile-Garde républicaine :
+4° Gendarmerie mobile Garde républicaine :
 
 -Commandant en second d'un groupement de gendarmerie mobile
 
@@ -364,13 +364,13 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -4/2 du deuxième régiment d'infanterie
 
+-5/2 du deuxième régiment d'infanterie
+
 -Commandant de la compagnie de sécurité :
 
 -de la présidence de la République
 
 -de l'hôtel Matignon
-
--des palais nationaux
 
 -Commandant de l'escadron motocycliste de la garde républicaine
 
@@ -388,21 +388,21 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 5° Outre mer :
 
--Commandant de la section de recherches :
+Commandant de la section de recherches :
+
+-de Mamoudzou
 
 -de Nouméa
 
--de Pamandzi
-
 -de Papeete
 
--Commandant en second de la compagnie de gendarmerie départementale :
+Commandant en second de la compagnie de gendarmerie départementale :
 
 -de Saint-Paul
 
 -de Saint-Pierre
 
--Chef d'état-major du commandement de la gendarmerie pour Saint-Pierre-et-Miquelon
+-Chef d'état-major du commandement de la gendarmerie pour Saint Pierre et Miquelon
 
 6° Gendarmeries spécialisées :
 
@@ -416,14 +416,10 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Chef du centre de soutien automobile de la gendarmerie de Satory
 
--Chef du service de gestion des ressources humaines et personnels isolés au sein du commandement du soutien opérationnel de la gendarmerie nationale
+-Chef du service des ressources humaines au sein du commandement du soutien opérationnel de la gendarmerie nationale
 
 -Commandant d'une antenne du groupe d'intervention de la gendarmerie nationale
 
 -Commandant de la gendarmerie des voies navigables
 
 -Commandant du centre de conduite des opérations du commandement de la gendarmerie de la Guyane française
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 16 juillet 2021, ces dispositions entrent en vigueur le 1er août 2021.
