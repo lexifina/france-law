@@ -1,6 +1,6 @@
-# Article ANNEXE AU IV DE L'ARTICLE 25
+# Article ANNEXE AU IV ET V DE L'ARTICLE 25
 
-Liste des diplômes mentionnés au IV de l'article 25 :
+Liste des diplômes mentionnés au IV et V de l'article 25 :
 
 Brevet de technicien supérieur :
 
@@ -42,4 +42,8 @@ Masters :
 
 - de biologie et santé ;
 
-- en biologie de l'environnement.
+- en biologie de l'environnement ;
+
+- en biologie moléculaire et cellulaire ;
+
+- en biochimie, biologie moléculaire.
