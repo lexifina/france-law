@@ -22,7 +22,7 @@ La séance est suivie d'un entretien d'une durée de 30 minutes maximum permetta
 
 Epreuve certificative de l'UC 4A option "méthode traditionnelle", UC 4B option progression accompagnée en chute" ou UC 4C option "saut en tandem" :
 
-L'épreuve consiste en une mise en situation professionnelle d'encadrement en sécurité de l'option concernée "méthode traditionnelle", "progression accompagnée en chute" ou "saut en tandem" : le candidat encadre des pratiquants en sécurité, en démontrant qu'il maitrise les règlements de l'option, les fait appliquer et garantit les conditions de pratique en sécurité du saut en tandem.
+L'épreuve consiste en une mise en situation professionnelle d'encadrement en sécurité de l'option concernée "méthode traditionnelle", "progression accompagnée en chute" ou "saut en tandem" : le candidat encadre des pratiquants en sécurité, en démontrant qu'il maitrise les règlements de l'option, les fait appliquer et garantit les conditions de pratique en sécurité de l'option choisie.
 
 Cette séquence d'encadrement est suivie d'un entretien d'une durée de 30 minutes maximum permettant au candidat de justifier ses choix techniques, pédagogiques et de sécurité dans l'option concernée.
 
