@@ -1,0 +1,52 @@
+# Diverses dispositions d'adaptation au droit de l'Union européenne en matière de prévention de la diffusion de contenus à caractère terroriste en ligne
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 15
+- Identifiant : DLR5L15N44665
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/15/dossiers/dispositions_ue_terrorisme_en_ligne
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl21-514.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-01-11 : 1er dépôt d'une initiative. (PIONANR5L15B4883)
+  - 2022-01-24 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-01-11 : Renvoi en commission au fond
+      - 2022-01-26 : Nomination de rapporteur
+      - 2022-01-26 : Réunion de commission
+      - 2022-02-09 : Réunion de commission
+      - 2022-02-16 : Réunion de commission
+      - 2022-02-09 : Dépôt de rapport (RAPPANR5L15B5024, PIONANR5L15BTC5024)
+  - Discussion en séance publique
+    - 2022-02-16 : Discussion en séance publique
+    - 2022-02-16 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-02-16 : Dépôt d'une initiative en navette (PIONSNR5S379B0514)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-02-16 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-07-06 : Dépôt de rapport (RAPPSNR5S379B0752, PIONSNR5S379BTC0753)
+  - Discussion en séance publique
+    - 2022-07-12 : Décision
+- Commission Mixte Paritaire
+  - 2022-07-13 : Dépôt d'un projet de loi (PIONANR5L16B0142)
+  - 2022-07-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-07-19 : Nomination de rapporteur
+    - 2022-07-19 : Dépôt du rapport d'une CMP (RAPPANR5L16B0149, PIONANR5L16BTC0149)
+    - 2022-07-19 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0796, PIONSNR5S379BTC0797)
+  - Discussion en séance publique
+    - 2022-07-26 : Discussion en séance publique
+    - 2022-07-26 : Décision
+  - Discussion en séance publique
+    - 2022-07-27 : Discussion en séance publique
+    - 2022-07-27 : Décision
+  - 2022-07-19 : Décision de la CMP
+- Conseil constitutionnel
+  - 2022-07-29 : Saisine du conseil constitutionnel
+  - 2022-08-13 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-08-16 : Promulgation d'une loi
