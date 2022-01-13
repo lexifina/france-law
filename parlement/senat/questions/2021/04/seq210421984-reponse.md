@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210421984
+
+- Question : [SEQ210421984](seq210421984.md) — Mutualisation des antennes-relais par les opérateurs
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-01-13, page 221*
+
+La couverture mobile constitue une priorité du Gouvernement, lequel a instauré le programme France mobile en vue de garantir le déploiement des infrastructures de téléphonie mobile dans les zones non ou mal couvertes que sont notamment les territoires ruraux. Dans le cadre de l'accord « New deal mobile », les opérateurs de téléphonie mobile se sont engagés à assurer une couverture mobile de qualité dans ces zones notamment au titre du dispositif dit de couverture ciblée. Ils sont notamment tenus de fournir des services de radiotéléphonie mobile et d'accès mobile à très haut débit dans les conditions prévues par les autorisations d'utilisation de fréquences délivrées aux opérateurs mobiles par l'Autorité de régulation des communications électroniques et des postes (ARCEP). Par ailleurs, le cadre juridique en vigueur impose le partage des équipements passifs de radiotéléphonie mobile dans le cadre du déploiement de la 5G et de tout autre réseau existant. Plus précisément, les dispositions du II de l'article D. 98-6-1 du code des postes et des communications électroniques prévoient que la mutualisation des équipements passifs de radiotéléphonie mobile constitue une obligation incombant aux opérateurs exploitant des réseaux de radiocommunications mobiles terrestres ouverts au public. Ainsi, lorsque ceux-ci envisagent d'établir un pylône, ils doivent privilégier toute solution de partage avec un pylône existant, veiller à ce que l'accueil ultérieur d'opérateurs soit rendu possible ou encore répondre aux demandes raisonnables de partage de ces pylônes émanant d'autres opérateurs, sous réserve de la faisabilité technique de cette mutualisation.
