@@ -10778,7 +10778,7 @@ Manufacture Française des Pneumatiques Michelin
 
 |
 
-SITE DE BOURGES
+Michelin Site de Bourges
 
 |
 
@@ -10826,7 +10826,7 @@ CRISTAL UNION
 
 |
 
-Sucrerie de Toury et Usines annexes
+Cristal Union Sucrerie de Toury
 
 |
 
@@ -14550,10 +14550,100 @@ KNAUF INSULATION
 
 |
 
-FR000000000001164
-
-|
+FR000000000001164 |
 
 SOBEGI
 
 |
+
+Centrale utilités SOBEGI |
+
+232 577 |
+
+208 140 |
+
+184 358 |
+
+161 302 |
+
+17 612 |
+
+0 |
+
+0 |
+
+4 834 |
+
+808 823 |
+
+FR000000000211959 |
+
+KNAUF INSULATION LANNEMEZAN |
+
+KNAUF INSULATION LANNEMEZAN-Illange |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+39 824 |
+
+39 824 |
+
+FR000000000213120 |
+
+ENES Creutwald |
+
+Chaufferie urbaine et Centrale d'autoproduction d'électricité et de cogénération |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+0 |
+
+1 162 |
+
+1 162 |
+
+FR000000000214000 |
+
+ELM Opérations ELM opérations-Chaufferie Surville Lyon |
+
+ELM opérations-Chaufferie Surville Lyon |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+1 052 |
+
+4 317 |
+
+5 369 |

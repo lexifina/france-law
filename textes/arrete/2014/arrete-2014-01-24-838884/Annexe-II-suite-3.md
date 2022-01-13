@@ -52,6 +52,30 @@ sur la période
 
 |
 
+FR-new-03201219 |
+
+ENERGIE VERTE DE VALENCE |
+
+ENERGIE VERTE DE VALENCE-Chaufferie La Forêt |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+/ |
+
+1 404 |
+
+1 404 |
+
 FR-new-03300377 |
 
 MACON ENERGIES SERVICES
@@ -476,7 +500,7 @@ SCICA ROYE DESHYDRATATION
 
 |
 
-SCICA ROYE DESHYDRADATION
+SCICA ROYE DESHYDRATATION
 
 |
 
@@ -508,11 +532,11 @@ SCICA ROYE DESHYDRADATION
 
 |
 
-17 169
+-
 
 |
 
-147 306
+130 137
 
 |
 
@@ -1230,39 +1254,39 @@ SOBEGI
 
 |
 
-12 979
+9 503
 
 |
 
-12 754
+9 338
 
 |
 
-12 526
+9 171
 
 |
 
-12 295
+9 002
 
 |
 
-12 062
+8 832
 
 |
 
-11 827
+8 660
 
 |
 
-11 589
+8 485
 
 |
 
-11 350
+8 310
 
 |
 
-97 382
+71 301
 
 |
 
@@ -1802,7 +1826,7 @@ EUROVIA GRANDS TRAVAUX
 
 |
 
-EUROVIA GRANDS TRAVAUX-TSM 25 SENIOR
+EUROVIA GRANDS TRAVAUX - TSM 25 SENIOR
 
 |
 
@@ -1830,15 +1854,11 @@ EUROVIA GRANDS TRAVAUX-TSM 25 SENIOR
 
 |
 
-413
+- |
 
-|
+- |
 
-327
-
-|
-
-3 594
+2 854
 
 |
 
@@ -11530,7 +11550,7 @@ NOV GRANT PRIDECO
 
 |
 
-Usine d'Aulnoye-Aymeries
+NOV GRANT PRIDECO Usine d'Aulnoye-Aymeries
 
 |
 

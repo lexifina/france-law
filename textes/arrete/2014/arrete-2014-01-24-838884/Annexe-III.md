@@ -1521,3 +1521,75 @@ KNAUF INSULATION LANNEMEZAN |
 7 205 |
 
 13 305 |
+
+FR-new-06105225 |
+
+ADISSEO France SAS |
+
+ADISSEO (Amont méthionine) |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+2 939 |
+
+11 435 |
+
+14 374 |
+
+FR000000000000502 |
+
+OI France SAS |
+
+O-I France Gironcourt |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+6 114 |
+
+6 114 |
+
+FR000000000000935 |
+
+INGREDIA |
+
+INGREDIA |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+8 620 |
+
+16 688 |
+
+16 371 |
+
+16 053 |
+
+57 732 |
