@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522906
+
+- Question : [SEQ210522906](seq210522906.md) — Réponse à la question n° 11873
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-01-13, page 220*
+
+Dans le cadre de l'accord relatif au New Deal Mobile, tout opérateur souhaitant déployer un nouveau pylône dans une zone de déploiement prioritaire est soumis à une « obligation de consultation préalable » auprès des autres opérateurs, afin de déterminer s'ils sont intéressés par une mutualisation du site. En dehors de ce dispositif, l'autorité de régulation des communications électroniques, des postes et de la distribution de la presse (ARCEP) exerce un rôle de déploiement coordonné de ces installations. Ainsi, dans une décision n° 2015-1265-RDPI du 3 novembre 2015, elle a précisé les modalités selon lesquelles les pylônes doivent être partagés entre plusieurs opérateurs de réseaux mobiles. Le cadre réglementaire, notamment le II de l'article D. 98-6-1 du code des postes et des communications électroniques, prévoit en effet que les opérateurs mobiles doivent privilégier le partage de sites passifs entre eux, afin de rechercher un investissement efficace et concourir à la préservation de l'environnement, au travers de la protection des paysages par le déploiement d'un nombre réduit d'antennes. À cet effet, les opérateurs doivent répondre aux demandes raisonnables d'accès à leurs sites émanant d'autres opérateurs. Si le déploiement national de l'implantation des pylônes relève d'une autorité administrative de régulation indépendante, la couverture mobile de l'ensemble du territoire n'en demeure pas moins une priorité du Gouvernement, qui a instauré le programme France mobile en vue de garantir le déploiement des infrastructures de téléphonie mobile dans les zones non ou mal couvertes.
