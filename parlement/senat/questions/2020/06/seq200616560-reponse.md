@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200616560
+
+- Question : [SEQ200616560](seq200616560.md) — Travaux de rénovation de la ligne Paris-Orléans-Limoges-Toulouse
+
+## Réponse
+
+*Transports, JO du 2022-01-13, page 262*
+
+L'amélioration des lignes existantes fait partie des priorités fixées par la loi d'orientation des mobilités du 24 décembre 2019. Afin de répondre à cette priorité, l'axe Paris – Orléans – Limoges – Toulouse (POLT) va bénéficier d'investissements significatifs dans les prochaines années. Le ministre délégué, chargé des transports, lors de son déplacement à Limoges le 18 décembre 2020 a d'ailleurs rappelé l'attachement du Gouvernement à ces opérations. L'axe Paris-Orléans-Limoges-Toulouse (POLT) bénéficiera du renouvellement complet de son matériel roulant entre fin 2023 et début 2026, par des rames nouvelles automotrices, aptes à 200 km/h et offrant un haut niveau de confort. La signature du contrat avec le constructeur CAF s'est faite fin 2019. Dans l'attente de la livraison des nouvelles rames, le wifi a été installé sur l'ensemble des rames Corail de la ligne en juillet 2019 pour un coût total de cinq millions d'euros, assumé par l'État. Sur les infrastructures, au-delà des 140 millions d'euros d'investissements inscrits dans les contrats de plan 2015-2020 conclus entre l'État et les régions traversées par l'axe, plus de deux milliards d'euros seront investis à l'horizon 2025, pour régénérer, moderniser et améliorer la performance de la ligne. Ils permettront d'améliorer la fiabilité et la régularité des temps de parcours, et de sécuriser la ligne. Ils comprennent une remise à niveau de l'infrastructure, par le biais de 1,6 milliards d'euros de régénération, y compris en Île-de-France, financés intégralement par SNCF Réseau et déjà engagé à 25 %. L'État a veillé à ce que ce chantier conserve un caractère hautement prioritaire malgré la crise. À ce jour, aucun retard n'est à signaler, le calendrier est parfaitement respecté.
