@@ -1,20 +1,18 @@
 # Article Annexe III
 
-ANNEXE III
-
 CONDITIONS D'OBTENTION DES MODULES CONDUISANT À LA DÉLIVRANCE DU DIPLÔME DE CHEF MÉCANICIEN
 
 Les modules nécessaires à l'acquisition du diplôme de chef mécanicien sont au nombre de cinq :
 
--module M1-6 (Mécanique navale au niveau de direction) ;
+-Module M1-6 (Mécanique navale au niveau de direction) ;
 
--module M2-6 (Electrotechnique, électronique et systèmes de commande au niveau de direction) ;
+-Module M2-6 (Électrotechnique, électronique et systèmes de commande au niveau de direction) ;
 
--module M3-6 (Contrôle de l'exploitation du navire et assistance aux personnes à bord au niveau de direction) ;
+-Module M3-6 (Contrôle de l'exploitation du navire et assistance aux personnes à bord au niveau de direction) ;
 
--module M4-6 (Entretien et réparation au niveau de direction) ;
+-Module M4-6 (Entretien et réparation au niveau de direction) ;
 
--module NM-6 (Module National Machine au niveau de direction).
+-Module NM-6 (Module National Machine au niveau de direction).
 
 L'évaluation des modules conduisant à la délivrance de chef mécanicien est constituée de plusieurs épreuves conformément au tableau ci-dessous :
 
@@ -104,14 +102,6 @@ Une épreuve écrite en cours de formation |
 
 - |
 
-Formation pédagogique |
-
-1 |
-
-Une épreuve écrite en cours de formation |
-
-- |
-
 Anglais commercial & technique |
 
 1 |
@@ -121,14 +111,6 @@ Une épreuve orale en cours de formation |
 - |
 
 Module M4-6 (Entretien et réparation au niveau de direction) |
-
-Dépannage et maintenance programmée |
-
-1 |
-
-Une épreuve écrite en cours de formation |
-
-- |
 
 Gestion de projet, l'arrêt technique |
 
@@ -168,7 +150,7 @@ Mémoire professionnel 2 |
 
 1,5 |
 
-Une épreuve écrite en cours de formation |
+Une épreuve orale en cours de formation |
 
 - |
 
@@ -196,9 +178,9 @@ La note obtenue au module est constituée par la moyenne arithmétique des notes
 
 Sont éliminatoires :
 
--une note inférieure à 3 à l'une des épreuves ;
+- une note inférieure à 3 à l'une des épreuves ;
 
--une note inférieure à 10.
+- une note inférieure à 10.
 
 NOTA :
 
