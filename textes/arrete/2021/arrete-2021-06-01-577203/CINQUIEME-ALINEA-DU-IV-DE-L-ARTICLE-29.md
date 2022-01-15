@@ -1,6 +1,6 @@
 # Article CINQUIÈME ALINÉA DU IV DE L'ARTICLE 29
 
-MODALITÉS TECHNIQUES DE DÉLIVRANCE DE DEUX AUTOTESTS AUX PERSONNES CONTACT MENTIONNÉES AU CINQUIÈME ALINÉA DU IV DE L'ARTICLE 29
+MODALITÉS TECHNIQUES DE DÉLIVRANCE DES AUTOTESTS AUX PERSONNES CONTACT MENTIONNÉES AU CINQUIÈME ALINÉA DU IV DE L'ARTICLE 29
 
 Le déconditionnement est réservé aux seuls autotests incluant des tubes individuels pré-remplis de tampon d'extraction et ne concerne pas les autotests incluant, pour une seule boîte, un flacon de tampon d'extraction utilisable pour la réalisation de plusieurs tests.
 

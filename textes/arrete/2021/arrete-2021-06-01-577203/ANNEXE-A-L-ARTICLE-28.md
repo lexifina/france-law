@@ -12,7 +12,9 @@ Les obligations relatives à la réalisation des tests par les professionnels so
 
 2. Locaux et matériel :
 
-- locaux adaptés pour assurer la réalisation du test doivent comprendre notamment un espace de confidentialité pour mener l'entretien préalable ;
+- locaux adaptés pour assurer la réalisation du test (espace de confidentialité pour mener l'entretien préalable, aération régulière possible, disposition permettant aux patients de ne pas se croiser avec une circulation selon la marche avant) ;
+
+- minuteurs en quantité adaptée au nombre de patients et préalablement vérifiés ;
 
 - équipements adaptés permettant d'asseoir la personne pour la réalisation du test ;
 
@@ -25,6 +27,12 @@ Les obligations relatives à la réalisation des tests par les professionnels so
 - matériel et consommables permettant la désinfection des surfaces en respectant la norme de virucide 14476 ;
 
 - circuit d'élimination des déchets d'activité de soins à risque infectieux produits dans ce cadre, conformément aux dispositions des articles R. 1335-1 et suivants du code de la santé publique.
+
+2 bis. Réalisation de l'acte :
+
+- le professionnel de santé assure un encadrement effectif lorsque des professionnels mentionnés aux 2° et 3° du V de l'article 25 et à l'article 26 participent à la réalisation des tests sous sa responsabilité ;
+
+- le test antigénique doit être réalisé conformément aux prescriptions de la notice du fabricant dans le respect de conditions de réalisation notamment de température, en particulier pour le déroulement de la phase analytique.
 
 3. Procédure d'assurance qualité :
 
