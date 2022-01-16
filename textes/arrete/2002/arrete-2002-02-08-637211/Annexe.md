@@ -188,23 +188,15 @@ Superviseurs du recensement rénové de la population
 
 |
 
-Personnels chargés de fonctions d'enseignement ou de recherche ou exerçant des fonctions de conception
-
-|
+Personnels chargés de fonctions d'enseignement ou de recherche ou exerçant des fonctions de conception |
 
 DGCCRF
 
 |
 
-Responsables de services déconcentrés (direction nationale, régionale, départementale ou laboratoire) et leurs adjoints
+Responsable d'un service à compétence nationale et adjoint |
 
-|
-
-|
-
-Responsable d'un service à compétence nationale et leurs adjoints
-
-|
+Enquêteurs du service national des enquêtes |
 
 DREE (directions régionales)
 
