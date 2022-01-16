@@ -72,27 +72,29 @@ DR Amiens |
 
 Aisne, Oise, Somme |
 
-DI Auvergne-Rhône-Alpes
+DI Auvergne-Rhône-Alpes (siège Lyon) |
 
-(Siège : Lyon) |
+DR Clermont-Ferrand
 
-DR Clermont-Ferrand |
+|
 
 Auvergne-Rhône-Alpes |
 
-Allier, Cantal, Haute-Loire, Puy-de-Dôme |
+Allier, Cantal, Haute-Loire, Loire, Puy-de-Dôme |
 
 DR Chambéry |
 
 Savoie, Isère (arrondissement de Grenoble), Haute-Savoie (arrondissement de Bonneville) |
 
-DR Annecy |
+DR Annecy
+
+|
 
 Ain, Haute-Savoie (arrondissements de Saint-Julien-en-Genevois, de Thonon-les-Bains et d'Annecy) |
 
 DR Lyon |
 
-Ardèche, Drôme, Loire, Isère (arrondissements de Vienne et de La Tour-du-Pin), Rhône |
+Ardèche, Drôme, Isère (arrondissements de Vienne et de la Tour-du-Pin), Rhône |
 
 DI Provence-Alpes-Côte d'Azur, Corse
 
