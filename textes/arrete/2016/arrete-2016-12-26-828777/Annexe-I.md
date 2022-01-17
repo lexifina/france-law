@@ -4,6 +4,14 @@ Les organismes de contrôle de la circulation aérienne des groupes A à D peuve
 
 Un cadre national d'expérimentation est mis en place afin d'évaluer de nouvelles règles d'organisation et d'en analyser l'impact, en particulier sur les aspects sécurité, performance, fatigue et qualité de vie au travail. Ce cadre comporte différentes options.
 
+Au sens de la présente annexe 1 :
+
+-le nombre de cycles à 7/12 par équipe réalisés désigne le nombre de périodes de 12 jours sur lesquels 7 vacations sont planifiées dans le tour de service pour toute l'équipe. Quand une partie de l'équipe seulement est planifiée sur lesdites périodes, le calcul se fait au prorata (par exemple si 6 périodes de 12 jours sur lesquels 7 vacations sont planifiées pour 1/3 des contrôleurs de l'équipe, ce nombre est égal à 2) ;
+
+-une période sur laquelle des cycles à 7/12 sont mis en place désigne une suite continue de cycles de 12 jours durant lesquels le nombre de contrôleurs planifiés sur 7 vacations est non nul et constant sur la période ;
+
+-un recyclage est une vacation de contrôle permettant à un contrôleur exerçant d'autres fonctions que celles du service de contrôle de maintenir sa mention d'unité en état de validité. Un recyclage est dit dirigé lorsqu'il est programmé sur une vacation donnée à la demande du service.
+
 Pour les organismes du groupe A et B, les critères de conformité aux options 1 et 2 sont définis par le tableau ci-après. Pour qu'une option soit satisfaite, l'ensemble des critères doivent être respectés :
 
 |
@@ -272,7 +280,179 @@ Les congés déposés après J-D1seront validés par le service sous réserve qu
 
 * UCESO : Unité de contrôle d'espace simultanément ouvrable. |
 
-.
+Pour les organismes du groupe A et B, les critères de conformité à l'option 1 bis sont définis par le tableau ci-après. Pour que cette option soit satisfaite, l'ensemble des critères doivent être respectés. L'option 1 bis ne peut être mise en œuvre au-delà du 31 décembre 2023.
+
+|
+
+Option 1 bis |
+
+|
+
+Minimum |
+
+Maximum |
+
+Planification du cycle de travail |
+
+|
+
+|
+
+Nombre de cycles à 7/12 par équipe réalisés sur la période d'expérimentation (au prorata si partie d'équipe (quart d'équipe minimum)) par année civile. Ces cycles seront mis en place en période chargée, sur au plus 4 périodes discontinues, chaque période comprenant un ou plusieurs cycles complets. |
+
+Pas de minimum au cours de l'année civile de lancement de l'expérimentation
+
+4 au cours des années civiles suivantes |
+
+12 |
+
+Temps de travail hebdomadaire moyenné sur le cycle, dont 1h15 de temps de briefing, de relève et de prise de consigne |
+
+|
+
+36h |
+
+Temps de travail hebdomadaire à 7/12 (sur 7 jours glissants) |
+
+|
+
+42h |
+
+Durée des vacations dans les cycles à 7/12 (hors vacations nuits et hors temps de briefing, de relève et de prise de consigne) |
+
+|
+
+8h30 |
+
+Temps de pause pour les vacations de 8h30 heures ou moins
+
+(*) avec des pauses de 30 min minimum (pause déjeuner (60 min minimum) obligatoire pour plus de 5 heures de tenue de poste) et 20 % en moyenne minimum au global |
+
+20 %
+
+ou
+
+Au plus près des 20 % (*) |
+
+Au plus près de 20 % |
+
+Durée d'une pause |
+
+0h30 |
+
+|
+
+Durée consécutive sur position de contrôle (dans les organismes où cela s'applique) |
+
+|
+
+2h30 |
+
+Planification de l'équipe sur le cycle : (1) |
+
+|
+
+|
+
+Décalage dans le début (entre l'heure de la première montée et l'heure de la dernière montée au sein de la vacation) ou la fin (entre l'heure de première descente et l'heure de dernière descente au sein de la vacation) de la vacation (hors vacation de nuit) |
+
+|
+
+3h |
+
+Amplitude maximale de la vacation pour la totalité de l'équipe (entre l'heure de la 1ère montée et l'heure de la dernière descente) (hors vacation de nuit) |
+
+|
+
+12h |
+
+Nombre de vacations dans le cycle avec un décalage entre les montées ou les descentes de 1 heure au moins. |
+
+3 |
+
+|
+
+Nombre de vacations dans le cycle avec un décalage entre les montées ou les descentes de 2 heures au moins |
+
+1 |
+
+|
+
+Gestion des vacations en congés par les chefs d'équipe (2) |
+
+|
+
+|
+
+Nombre de jours d'anticipation sur le dépôt des congés (dit D1) ; les demandes faites ensuite par le service se font 5 jours plus tard (anticipation dite D2, soit 30 jours si D1 est 35 jours) |
+
+25 |
+
+|
+
+Nombre d'aménagements volontaires réalisés (vacations en plus ou en moins proposées par le service à l'équipe après J-D2 : remplacements, renforts, équilibrages, etc) ramenés par agent et par an |
+
+Décompter les propositions du service et les aménagements réalisés |
+
+|
+
+Gestion des pauses par le chef de salle ou le chef de tour |
+
+|
+
+|
+
+Nombre de vacations qui présentent des décalages de 30 minutes au moins sur les pauses |
+
+2 |
+
+|
+
+Recyclage des détachés |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nombre de recyclages dirigés (proposés à J-D2 à l'ensemble des détachés 12/36, expert opérationnel et assistants de subdivision par le service ; le recyclage est validé par le service qui vérifie la cohérence avec les contraintes liées aux activités hors salle) par poste de détaché 12/36, expert opérationnel et assistant de subdivision et par année civile. |
+
+Pas de minimum au cours de l'année civile de lancement de l'expérimentation
+
+4 au cours des années civiles suivantes |
+
+12 |
+
+Performance |
+
+|
+
+|
+
+Ecart moyen, sur la période où il y a un besoin, entre :
+
+-UCESO* ou positions offertes avec l'expérimentation
+
+-UCESO ou positions offertes sans expérimentation |
+
+2 |
+
+|
+
+* UCESO : Unité de contrôle d'espace simultanément ouvrable |
+
+(1) Le cycle de travail est défini par des vacations. Chaque jour, une équipe est donc programmée sur une vacation, et la même équipe est programmée sur la même vacation un cycle plus tard. Cette vacation comprend plusieurs horaires de montées ou de descentes, qui respectent les critères définis dans le tableau. A J-D2, le service fournit au chef d'équipe le nombre d'agents à programmer sur chaque horaire de la vacation sur laquelle est prévue l'équipe le jour J. |
+
+(2) La gestion, d'une part, des congés au sein de l'équipe et, d'autre part, des aménagements demandés par le service, est réalisée par les chefs d'équipe.
+
+Les congés déposés avant J-D1 seront automatiquement acceptés dans le respect du nombre de congé par équipe.
+
+Les congés déposés après J-D1seront validés par le service sous réserve que des solutions soient trouvées pour que l'offre de capacité réponde au besoin. |
 
 Pour chacun des organismes des groupes C et D listés ci-dessous, les critères de conformité à l'option 3 sont définis ci-après. Pour que l'option 3 soit satisfaite, l'ensemble des critères doivent être respectés.
 
@@ -552,8 +732,4 @@ Ecart moyen sur la semaine, en période où il y a un besoin, entre :
 
 5 créneaux |
 
-2 créneaux
-
-|
-
-.
+2 créneaux |
