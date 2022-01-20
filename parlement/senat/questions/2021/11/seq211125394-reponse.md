@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211125394
+
+- Question : [SEQ211125394](seq211125394.md) — Hausse des coûts pour les minéraliers
+
+## Réponse
+
+*Industrie, JO du 2022-01-20, page 357*
+
+La « filière plasturgie », prise au sens large en incluant les fournisseurs de matières et d'équipements de transformation ainsi que les recycleurs, représentait 65 Mds€ de chiffre d'affaires (CA) et emploie 230 000 salariés dans 5 000 entreprises en 2019. Le secteur de la plasturgie à proprement parler, qui est donc celui de la transformation des matières plastiques, est composé d'environ 3 200 entreprises comprenant très majoritairement (98 %) des très petites entreprises (TPE) et des petites et moyennes entreprises (PME). Ce secteur compte 126 000 salariés pour un CA total de 33,3 Mds€ de CA. En 2019, la production de plastique en France s'élève à 5,5 millions de tonnes pour une consommation nationale annuelle de 4,8 millions de tonnes soit 870 kt de solde commercial positif. Au regard de l'importance industrielle que représente ce secteur, des plans d'actions nationaux, qui répondent très largement aux préoccupations identifiées et notamment sur les tensions en approvisionnements et le développement d'une filière de recyclage pour le PET (plastique transparent) ont ainsi été adoptés. Ainsi, le Gouvernement a souhaité au travers de la mesure « économie circulaire et circuits courts » de France Relance apporter des aides substantielles au secteur, qui doit se mobiliser très fortement pour répondre au défi de la transition écologique. C'est près de 220 M€ qui sont mobilisés. La vigilance de l'État sur la nécessité d'un soutien financier spécifique à ce secteur se matérialise également par la publication en août dernier d'un appel à projets doté de 60 M€ financés par le PIA4 et par des mesures complémentaires à hauteur de 500 M€ dont les modalités pratiques restent à préciser dans le plan France 2030 annoncé par le Président de la République le 12 octobre 2021.
