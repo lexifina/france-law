@@ -12,52 +12,62 @@ Enseignements suivis :
 
 - une autre discipline de sciences sociales en français.
 
-Enseignements de spécialité |
+Enseignements de spécialité (1) du système éducatif français,
 
-Discipline avec haut niveau d'exigence
+pour le baccalauréat |
 
-du système éducatif allemand |
+Disciplines avec haut niveau d'exigence (2) du système éducatif allemand, pour l'Allgemeine Hochschulreife |
 
 Arts |
 
-une discipline artistique avec haut niveau d'exigence |
+Une discipline artistique |
 
-Biologie-écologie |
+Education physique, pratiques et culture sportives |
 
-une discipline scientifique (biologie) avec haut niveau d'exigence |
+Une discipline sportive |
 
 Histoire-géographie, géopolitique et sciences politiques |
 
-histoire ou géographie ou sciences politiques et économiques avec haut niveau d'exigence |
+Histoire ou géographie ou sciences politiques et économiques |
 
 Humanités, littérature et philosophie |
 
-philosophie avec haut niveau d'exigence |
+Philosophie ou littérature française |
 
-Langues, littératures et cultures étrangères et régionales |
+Langues, littératures et cultures étrangères et régionales (LLCER), dans la langue suivie dans le système scolaire allemand |
 
-une autre langue étrangère avec haut niveau d'exigence |
+Langue et littérature allemandes ou anglaises ou espagnoles ou italiennes ou portugaises |
 
 Littérature et LCA |
 
-littératures et langues allemandes avec haut niveau d'exigence |
+Latin ou grec |
 
 Mathématiques |
 
-mathématiques avec haut niveau d'exigence |
+Mathématiques |
 
 Numérique et sciences informatiques |
 
-informatique avec haut niveau d'exigence |
+Informatique |
 
 Physique-chimie |
 
-une discipline scientifique (chimie, physique) avec haut niveau d'exigence |
+Chimie ou physique |
 
 Sciences de la vie et de la Terre |
 
-biologie avec haut niveau d'exigence |
+Biologie |
 
 Sciences économiques et sociales |
 
-une discipline de sciences économiques ou sociales avec haut niveau d'exigence |
+Une discipline de sciences économiques ou sociales |
+
+(1) Enseignement de spécialité présenté par l'élève à l'examen du baccalauréat avec 4 heures d'enseignement par semaine en classe de première, et 6 heures d'enseignement par semaine en classe de terminale.
+
+(2) Discipline présentée par l'élève à l'examen de la " Allgemeine Hochschulreife " avec un minimum de 3 heures d'enseignement par semaine pendant le cycle terminal.
+
+Une même discipline avec haut niveau d'exigence du système éducatif allemand ne peut donner lieu à une équivalence que pour un seul enseignement de spécialité du système éducatif français.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 29 décembre 2021 (NOR : MENE2130330A), ces dispositions sont applicables à compter de la session 2022 du baccalauréat.
