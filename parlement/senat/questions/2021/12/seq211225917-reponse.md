@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211225917
+
+- Question : [SEQ211225917](seq211225917.md) — Vente à distance de vin au sein de l'Union européenne
+
+## Réponse
+
+*Comptes publics, JO du 2022-01-20, page 351*
+
+Les modalités de circulation des produits soumis à accise sont prévues par la directive 2008/118/CE du 16 décembre 2008 relative au régime général d'accise. L'article 36 de cette directive fixe les prescriptions auxquelles doivent se conformer les viticulteurs français qui envoient des vins à destination d'un particulier établi dans un autre État membre dans le cadre d'une vente à distance. Ce même article prévoit que l'accise est due dans l'État membre de destination, via un représentant fiscal si l'État membre de destination l'impose. À compter du 13 février 2023, la directive 2008/118 sera remplacée par la directive (UE) 2020/262 du Conseil du 19 décembre 2019 établissant le régime général d'accise. Les dispositions de son article 44 reprennent les dispositions actuelles de l'article 36 pour la vente à distance. La personne redevable des droits restera ainsi l'expéditeur, mais les États membres ne pourront plus lui imposer d'avoir recours à un représentant fiscal dans l'État membre de destination. L'expéditeur aura donc le choix entre faire appel à un représentant fiscal ou accomplir lui-même les formalités fiscales dans l'État membre de destination. Il s'agit déjà d'une simplification importante. Afin de simplifier les démarches incombant aux viticulteurs dans ce domaine, la Commission européenne a initié une étude en 2020 qui devait alimenter les réflexions visant à l'intégration des produits soumis à accise au guichet unique de TVA, dans le contexte de l'entrée en vigueur du paquet TVA/e-commerce. Compte tenu de la demande existant dans ce domaine, la France poursuivra ses efforts auprès de la Commission en vue de faire évoluer la réglementation communautaire vers davantage de simplicifté pour les opérateurs.
