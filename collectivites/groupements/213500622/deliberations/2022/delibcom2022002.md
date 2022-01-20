@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM2022002 — CONVENTION SERVITUDE MEGALIS POUR IMPLANTATION POTEAU DOMAINE PUBLIC COMMUNAL
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2022-01-20
+- Matière : 8.3 Domaines de competences par themes/Voirie
+- Objet : CONVENTION SERVITUDE MEGALIS POUR IMPLANTATION POTEAU DOMAINE PUBLIC COMMUNAL
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2022/158304/febcd5fdd26157f3d6fefea332b94cd5540b241b169b70e85707c1c245720e95.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
