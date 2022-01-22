@@ -40,15 +40,13 @@ Signature
 
 Documents à joindre à la déclaration et renseignements à fournir lors de la première prestation ou en cas de changement matériel relatif à la situation établie par les pièces produites lors de cette première prestation
 
-1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ;
+1. Copie d'une pièce d'identité ;
 
-2. Copie d'une pièce d'identité ;
+2. Copie de l'attestation de compétences ou du titre de formation ;
 
-3. Copie de l'attestation de compétences ou du titre de formation ;
+3. Copie des documents attestant que le déclarant est légalement établi dans l'Etat membre d'établissement et qu'il n'encourt aucune interdiction même temporaire d'exercer, traduits en français par un traducteur ou un organisme assermentés ;
 
-4. Copie des documents attestant que le déclarant est légalement établi dans l'Etat membre d'établissement et qu'il n'encourt aucune interdiction même temporaire d'exercer, traduits en français par un traducteur ou un organisme assermentés ;
-
-5. Dans le cas où ni l'activité ni la formation conduisant à cette activité ne sont réglementées dans l'Etat membre d'établissement, copie de toutes pièces justifiant que le déclarant a exercé cette activité dans cet Etat pendant au moins une année à temps plein ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes, traduites en français par un traducteur ou un organisme assermenté.
+4. Dans le cas où ni l'activité ni la formation conduisant à cette activité ne sont réglementées dans l'Etat membre d'établissement, copie de toutes pièces justifiant que le déclarant a exercé cette activité dans cet Etat pendant au moins une année à temps plein ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes, traduites en français par un traducteur ou un organisme assermenté.
 
 NOTA :
 

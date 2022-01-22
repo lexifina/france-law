@@ -32,19 +32,17 @@ Signature
 
 Documents à joindre à la déclaration
 
-1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ;
+1. Copie d'une pièce d'identité ;
 
-2. Copie d'une pièce d'identité ;
+2. Certificat médical de non contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant de moins d'un an traduit le cas échéant en français, par un traducteur ou un organisme assermenté ;
 
-3. Certificat médical de non contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant de moins d'un an traduit le cas échéant en français, par un traducteur ou un organisme assermenté ;
+3. Copie de l'attestation de compétences ou du titre de formation accompagnée de documents décrivant le cursus de formation (programme, volume horaire, nature et durée des stages effectués), le tout traduit en français par un traducteur ou un organisme assermenté ;
 
-4. Copie de l'attestation de compétences ou du titre de formation accompagnée de documents décrivant le cursus de formation (programme, volume horaire, nature et durée des stages effectués), le tout traduit en français par un traducteur ou un organisme assermenté ;
+4. Le cas échéant (4), copie de toutes pièces justifiant de l'expérience professionnelle traduites en français par un traducteur ou un organisme assermenté ;
 
-5. Le cas échéant (4), copie de toutes pièces justifiant de l'expérience professionnelle traduites en français par un traducteur ou un organisme assermenté ;
+5. Dans le cas où le titre de formation a été acquis dans un Etat tiers, copies des pièces attestant que ce titre a été admis en équivalence dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen qui réglemente l'activité ;
 
-6. Dans le cas où le titre de formation a été acquis dans un Etat tiers, copies des pièces attestant que ce titre a été admis en équivalence dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen qui réglemente l'activité ;
-
-7. Les documents attestant que le déclarant n'a pas fait l'objet, dans l'Etat membre d'origine, d'une des condamnations ou mesures mentionnées aux articles L. 212-9 et L. 212-13 traduits en français par un traducteur ou un organisme assermenté.
+6. Les documents attestant que le déclarant n'a pas fait l'objet, dans l'Etat membre d'origine, d'une des condamnations ou mesures mentionnées aux articles L. 212-9 et L. 212-13 traduits en français par un traducteur ou un organisme assermenté.
 
 NOTA :
 

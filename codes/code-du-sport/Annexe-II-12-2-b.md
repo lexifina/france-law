@@ -30,9 +30,7 @@ Fait à le
 
 Documents à joindre à la déclaration
 
-1. Photographie d'identité conforme aux spécifications de la norme ISO/ IEC 19794-5 : 2005 ;
-
-2. Certificat médical de non contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant de moins d'un an.
+Certificat médical de non contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant de moins d'un an.
 
 NOTA :
 
