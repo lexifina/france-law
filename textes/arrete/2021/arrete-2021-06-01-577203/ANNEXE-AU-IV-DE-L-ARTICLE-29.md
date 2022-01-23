@@ -1,6 +1,6 @@
 # Article ANNEXE AU IV DE L'ARTICLE 29
 
-TABLEAU 1.-MONTANT DE L'INDEMNITÉ DE DISPENSATION VERSÉE AUX PHARMACIENS ET TARIF UNITAIRE D'UN AUTOTEST REMBOURSÉ À L'ASSURANCE MALADIE
+Tableau 1. - Conditions de dispensation gratuite d'autotests en officine de pharmacie
 
 Bénéficiaires
 
@@ -42,9 +42,11 @@ Indemnité majorée le cas échéant d'un coefficient pour les départements et 
 
 tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
--Personne-contact ayant un schéma vaccinal complet ou âgée de moins de 12 ans. |
+- Personne-contact ayant un schéma vaccinal complet ou âgée de moins de 12 ans ou élève déclaré personne contact à l'école, au collège ou au lycée. |
 
-Attestation sur l'honneur de cas contact à défaut de notification par l'assurance maladie |
+Notification adressée par l'assurance maladie
+
+A défaut, attestation sur l'honneur de la personne contact ou, pour les mineurs, du représentant légal ou, pour les élèves, attestation remise par l'Education nationale |
 
 2 € HT pour la dispensation à l'assuré des autotests quel qu'en soit le nombre.
 
@@ -55,6 +57,16 @@ Indemnité majorée le cas échéant d'un coefficient pour les départements et 
 tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2
 
 3,80 € l'autotest spécifique destiné aux enfants de moins de 12 ans
+
+tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
+
+- Personnels exerçant leurs fonctions dans les établissements d'enseignement relevant du livre IV de la deuxième partie du code de l'éducation ainsi que dans les services d'hébergement, d'accueil et d'activités périscolaires qui y sont associés |
+
+Une pièce d'identité et une attestation nominative de délivrance remise par l'employeur. |
+
+2 € HT pour la dispensation à l'assuré de 10 autotests pour un mois. |
+
+3,51 € l'autotest
 
 tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
