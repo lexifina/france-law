@@ -1,0 +1,10 @@
+# proposition de loi sur la proposition de loi de MM. Louis-Jean de Nicolaÿ, Rémy Pointereau, Hervé Maurey, Mme Catherine Troendlé, MM. Franck Menonville, Michel Vaspart, Joël Guerriau, Didier Mandelli, Gérard Longuet, Édouard Courtial, Mme Brigitte Micouleau, MM. Pierre Cuypers, Antoine Lefèvre, René-Paul Savary, Mmes Marie-Christine Chauvin, Sylviane Noël, Sylviane Noël, Sylvie Goy-Chavent, MM. Jérôme Bascher, Stéphane Piednoir, Jean-Marc Boyer, Jackie Pierre, Alain Marc, Mmes Florence Lassarade, Sylvie Vermeillet, Frédérique Puissat, Nicole Duranton, MM. Christian Cambon, Dany Wattebled, Bruno Gilles, Mmes Catherine Deroche, Dominique Estrosi Sassone, Marie-Pierre Richer, MM. Gilbert Bouchet, Jean-Claude Luche, René Danesi, Emmanuel Capus, Ronan Le Gleut, Mme Jacky Deromedi, M. Daniel Chasseing, Mme Pascale Gruny, MM. Jean Pierre Vogel, Jean-Pierre Decool, Bernard Fournier, Claude Kern, Guy-Dominique Kennel, Mmes Agnès Canayer, Isabelle Raimond-Pavero, M. Alain Houpert, Mmes Nadia Sollogoub, Françoise Gatel, Claudine Kauffmann, Esther Sittler, Esther Sittler, Brigitte Lherbier, Jocelyne Guidez, MM. Claude Malhuret, Philippe Mouiller, Jean-François Rapin, Cédric Perrin, Michel Raison, Alain Cazabonne, Jean-Jacques Panunzi, Jean-François Longeot, Vincent Segouin, Mmes Évelyne Renaud-Garabedian et Corinne Imbert tendant à expérimenter un chèque emploi petites communes pour l'emploi d'agents contractuels et vacataires (568).
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : tendant à expérimenter un chèque emploi petites communes pour l'emploi d'agents contractuels et vacataires
+- Déposé le : 2022-01-26
+- Dossier : DLR5L15N39988
+- Auteurs : Mme Christine Bonfanti-Dossat (rapporteur), Commission des affaires sociales
+- Identifiant : PIONSNR5S379BTC0390
