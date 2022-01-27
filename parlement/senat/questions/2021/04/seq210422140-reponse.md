@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422140
+
+- Question : [SEQ210422140](seq210422140.md) — Défense de la viennoiserie artisanale
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-01-27, page 469*
+
+L'avenir de la profession de boulanger-pâtissier est un sujet d'attention constant pour le Gouvernement dans un contexte où l'équilibre entre acteurs économiques doit être préservée, les savoir-faire artisanaux valorisés et la bonne information du consommateur garantie. Si l'appellation « boulangerie » est aujourd'hui réglementée (article L. 121-80 du code de la consommation), l'appellation de « pâtisserie » ne l'est pas, sauf par le biais de la réglementation générale qui interdit toute présentation de nature à induire en erreur, voire trompeuse. A ce jour, l'exploitant d'une pâtisserie n'a pas d'obligation de fabriquer sur place les produits qu'il propose à la vente. Toutefois, lorsqu'ils mettent en vente des pâtisseries surgelées, les professionnels doivent porter à la connaissance du consommateur le traitement de congélation-décongélation par le biais d'un étiquetage informatif, conformément aux dispositions régissant l'information du consommateur. La Confédération nationale de la boulangerie et boulangerie-pâtisserie française a finalisé une charte de qualité et vient de lancer en janvier 2020 le label « Boulanger de France », à destination de ses adhérents. Ce label, dont l'obtention est subordonnée à un contrôle par un organisme certificateur, prévoit notamment que les artisans fabriquent sur place non seulement le pain, mais aussi les viennoiseries et les croissants. C'est un élémént de différenciation important auprès du consommateur. L'objectif de ces démarches volontaires, à l'initiative des professionnels, est d'engager le plus grand nombre d'artisans boulangers à devenir « Boulanger de France » et d'aider les consommateurs à faire la différence entre les produits de la boulangerie industrielle et ceux de la boulangerie artisanale.
