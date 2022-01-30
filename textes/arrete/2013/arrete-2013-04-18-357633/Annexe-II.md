@@ -2270,9 +2270,7 @@ Montpellier |
 
 Aude, Aveyron, Hérault, Pyrénées-Orientales |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Hérault |
 
 Nancy |
 
@@ -2286,9 +2284,7 @@ Nîmes |
 
 Ardèche, Gard, Lozère, Vaucluse |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Hérault |
 
 Orléans |
 
