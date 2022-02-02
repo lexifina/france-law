@@ -1,0 +1,361 @@
+# Article Annexe II
+
+PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA SECONDE FRACTION DE L'AIDE PUBLIQUE POUR 2022
+
+PARTIS ET GROUPEMENTS POLITIQUES
+
+représentés au Parlement |
+
+NOMBRE DE PARLEMENTAIRES
+
+ouvrant droit au versement
+
+de l'aide publique |
+
+MONTANT
+
+de la seconde fraction
+
+de l'aide publique
+
+attribuée pour 2022 |
+
+Nombre
+
+de députés |
+
+Nombre
+
+de sénateurs |
+
+Total |
+
+LA REPUBLIQUE EN MARCHE |
+
+272 |
+
+19 |
+
+291 |
+
+10 884 077,10 € |
+
+LES RÉPUBLICAINS |
+
+103 |
+
+141 |
+
+244 |
+
+9 126 167,74 € |
+
+PARTI SOCIALISTE |
+
+26 |
+
+63 |
+
+89 |
+
+3 328 807,08 € |
+
+MOUVEMENT DÉMOCRATE |
+
+68 |
+
+18 |
+
+86 |
+
+3 216 600,10 € |
+
+UNION DES DÉMOCRATES, RADICAUX ET LIBÉRAUX |
+
+22 |
+
+56 |
+
+78 |
+
+2 917 381,49 € |
+
+PARTI COMMUNISTE FRANCAIS |
+
+14 |
+
+16 |
+
+30 |
+
+1 122 069,80 € |
+
+EUROPE ÉCOLOGIE LES VERTS |
+
+12 |
+
+12 |
+
+24 |
+
+897 655,84 € |
+
+LA FRANCE INSOUMISE |
+
+17 |
+
+0 |
+
+17 |
+
+635 839,56 € |
+
+PARTI RADICAL DE GAUCHE |
+
+3 |
+
+7 |
+
+10 |
+
+374 023,27 € |
+
+RÉGIONS ET PEUPLES SOLIDAIRES |
+
+13 |
+
+1 |
+
+14 |
+
+523 632,58 € |
+
+RASSEMBLEMENT NATIONAL |
+
+7 |
+
+1 |
+
+8 |
+
+299 218,61 € |
+
+PARTI PROGRESSISTE MARTINIQUAIS (PPM) |
+
+2 |
+
+4 |
+
+6 |
+
+224 413,96 € |
+
+DEBOUT LA FRANCE |
+
+3 |
+
+0 |
+
+3 |
+
+112 206,98 € |
+
+TAPURA HUIRAATIRA |
+
+1 |
+
+2 |
+
+3 |
+
+112 206,98 € |
+
+CALEDONIE ENSEMBLE |
+
+2 |
+
+1 |
+
+3 |
+
+112 206,98 € |
+
+LE RASSEMBLEMENT LES REPUBLICAINS |
+
+0 |
+
+2 |
+
+2 |
+
+74 804,65 € |
+
+ARCHIPEL DEMAIN |
+
+0 |
+
+1 |
+
+1 |
+
+37 402,33 € |
+
+CAP SUR L'AVENIR |
+
+1 |
+
+0 |
+
+1 |
+
+37 402,33 € |
+
+TAVINI HUIRAATIRA NO TE AO MAOHI - FRONT DE LIBÉRATION DE POLYNÉSIE |
+
+1 |
+
+0 |
+
+1 |
+
+37 402,33 € |
+
+ALLIANCE ÉCOLOGISTE INDÉPENDANTE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LA FRANCE QUI OSE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LES RÉPUBLICAINS ENSEMBLE DANS LA FRANCE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+LUTTE OUVRIERE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+MOUVEMENT INDEPENDANTISTE MARTINIQUAIS (DISSOUS en 2021) |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+GROUPEMENT FRANCE REUNION |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI ANIMALISTE |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+PARTI COMMUNISTE REUNIONNAIS |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+MOUVEMENT POPULAIRE CALÉDONIEN |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+TAHOERAA HUIRAATIRA |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+RÉZISTANS ÉGALITÉ 974 |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+VIVRE LA REUNION |
+
+0 |
+
+0 |
+
+0 |
+
+- € |
+
+TOTAL DES PARLEMENTAIRES RATTACHES |
+
+567 |
+
+344 |
+
+911 |
+
+34 073 519,71 € |
+
+PARLEMENTAIRES NON RATTACHÉS/NON DÉCLARÉS |
+
+3 |
+
+4 |
+
+7 |
+
+261 816,29 € |
