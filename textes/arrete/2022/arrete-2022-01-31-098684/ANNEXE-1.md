@@ -1,8 +1,4 @@
-# Article LEGIARTI000043103345
-
-ANNEXES
-
-ANNEXE 1
+# Article ANNEXE 1
 
 CONDITIONS DE MISE SUR LE MARCHÉ ET D'UTILISATION DES SEMENCES DE BETTERAVES SUCRIÈRES TRAITÉES AVEC DES PRODUITS PHYTOPHARMACEUTIQUES CONTENANT LES SUBSTANCES ACTIVES IMIDACLOPRIDE OU THIAMETHOXAM
 
@@ -34,13 +30,7 @@ H302 - Toxicité aiguë (par voie orale), catégorie 4 |
 
 Dose maximale |
 
-0,112 L/U
-
-1 U = 100 000 graines
-
-Soit 67,5 g de s.a./U
-
-Densité maximale de semis : 1,3 U/ha |
+0,112 L/U 1 U = 100 000 graines Soit 67,5 g de s.a./U Densité maximale de semis : 1,3 U/ha |
 
 Cible |
 
@@ -76,13 +66,7 @@ H302 - Toxicité aiguë (par voie orale), catégorie 4 |
 
 Dose maximale |
 
-0,075 L/U
-
-1 U = 100 000 graines
-
-Soit 45 g de s.a. /U
-
-Densité de semis maximale : 1,3 U/ha |
+0,075 L/U 1 U = 100 000 graines Soit 45 g de s.a. /U Densité de semis maximale : 1,3 U/ha |
 
 Cible |
 
@@ -124,7 +108,7 @@ Protection de l'eau et de l'environnement |
 
 Equipements de protection individuelle de l'opérateur lors de la phase de semis |
 
-- Lors du chargement et du nettoyage du semoir :
+Lors du chargement et du nettoyage du semoir :
 
 - Gants en nitrile certifiés NF EN ISO 374-1/A1 et NF EN 16523-1+A1 (type A) ;
 
@@ -136,13 +120,13 @@ Equipements de protection individuelle de l'opérateur lors de la phase de semis
 
 - Lunettes de protection ou écran facial certifié EN 166 (CE, sigle 3).
 
-- Lors du semis :
+Lors du semis :
 
 - Gants en nitrile certifiés NF EN ISO 374-1/A1 et NF EN ISO 374-2 (types A, B ou C) à usage unique, en cas d'intervention sur le semoir ;
 
-- EPI vestimentaire conforme à la norme NF EN ISO 27065/A1 (combinaison ou ensemble veste + pantalon)
+- EPI vestimentaire conforme à la norme NF EN ISO 27065/A1 (combinaison ou ensemble veste + pantalon).
 
-- Lors de toute manipulation des semences traitées :
+Lors de toute manipulation des semences traitées :
 
 - Gants en nitrile certifiés NF EN ISO 374-1/A1 et NF EN 16523-1+A1 (type A) ;
 
