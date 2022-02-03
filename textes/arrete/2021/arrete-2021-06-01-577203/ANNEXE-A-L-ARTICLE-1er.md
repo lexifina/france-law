@@ -1,20 +1,12 @@
 # Article ANNEXE À L'ARTICLE 1er
 
-ANNEXES
+Tableau 1.-Montant des rémunérations versées aux pharmaciens pour la délivrance des masques chirurgicaux hors stock national achetés auprès de fournisseurs et justificatifs à présenter pour cette délivrance :
 
-ANNEXE À L'ARTICLE 1er
+Bénéficiaires des masques chirurgicaux |
 
-Tableau 1. - Montant des rémunérations versées aux pharmaciens pour la délivrance des masques de protection hors stock national achetés auprès de fournisseurs et justificatifs à présenter pour cette délivrance
+Justificatif à présenter pour la délivrance |
 
-Bénéficiaires des masques
-
-de protection |
-
-Justificatif à présenter
-
-pour la délivrance |
-
-Indemnité délivrance |
+Indemnité de délivrance |
 
 Tarif unitaire
 
@@ -28,7 +20,7 @@ Ou : sms de l'Assurance Maladie, ce sms valant prescription
 
 Ou : présentation du résultat positif du test |
 
-2 € HT pour une délivrance de 30 masques |
+1 € HT pour une délivrance de 30 masques |
 
 0,10 € HT le masque |
 
@@ -36,19 +28,19 @@ Personnes considérées comme vulnérables et présentant un risque de développ
 
 Prescription médicale |
 
-2 € HT pour une délivrance de 50 masques pour cinq semaines |
+1 € HT pour une délivrance de 50 masques pour cinq semaines |
 
 Personnes identifiées comme cas contact dans la base de la Caisse nationale de l'assurance maladie |
 
 Identification comme un cas contact dans le traitement de la Caisse nationale de l'assurance maladie dénommé Contact covid, cette identification valant prescription médicale |
 
-2 € HT pour une délivrance de 30 masques |
+1 € HT pour une délivrance de 30 masques |
 
 Accueillants familiaux et salariés de l'aide à domicile employés directement par des particuliers pour des actes essentiels de la vie |
 
 Attestation transmise par l'URSSAF |
 
-2 € HT pour une délivrance de 50 masques pour cinq semaines |
+1 € HT pour une délivrance de 50 masques pour cinq semaines |
 
 0,10 € HT le masque |
 
