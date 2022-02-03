@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321750
+
+- Question : [SEQ210321750](seq210321750.md) — Soutien aux collectivités du bloc communal à La Réunion
+
+## Réponse
+
+*Comptes publics, JO du 2022-02-03, page 603*
+
+L'article 21 de la loi n° 2020-935 du 30 juillet 2020 de finances rectificative pour 2020 institue une dotation à destination des communes et des établissements publics de coopération intercommunale à fiscalité propre confrontés en 2020 à des pertes de recettes fiscales et de produits d'utilisation du domaine. Ce dispositif prévoyait le versement, en fin d'année 2020, d'un acompte correspondant aux pertes prévisionnelles de recettes, sur la base d'un calcul devant déterminer le niveau des recettes des communes en 2020 qui, par définition, n'était pas encore connu à cette date. La demande adressée par la Direction générale des Finances publiques aux communes de La Réunion s'inscrit strictement dans le dispositif prévu par la loi de finances et ne vise pas à obtenir le remboursement de l'acompte versé en fin d'année 2020 au titre du dispositif de compensation susvisé, mais à clôturer les comptes de 2020 de ces communes dans les délais impartis. En effet, le calcul de la dotation définitive de compensation revenant aux communes ne peut intervenir, que lorsque le compte de gestion 2020 est clos. Conformément à l'arrêté du 11 juin 2021 pris en application de l'article 21 de la loi n° 2020-935 du 30 juillet 2020 de finances rectificative pour 2020, portant attribution définitive de la dotation mentionnée au I de l'article 21 précité, le montant total revenant aux communes de la Réunion s'élève à 698 360€. Ce mécanisme, qui a été étendu à l'année 2021, a déjà permis le versement d'un acompte aux communes réunionnaises pour un montant de 209 508€. Cet acompte fera l'objet d'un ajustement en 2022 lorsque les comptes définitifs de 2021 nécessaires au calcul seront connus.
