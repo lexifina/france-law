@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211125273
+
+- Question : [SEQ211125273](seq211125273.md) — Coût de l'entretien des cimetières pour les communes
+
+## Réponse
+
+*Ruralité, JO du 2022-02-03, page 617*
+
+Les subventions accordées aux collectivités territoriales au titre de la dotation d'équipement des territoires ruraux (DETR) sont régies par les articles L. 2334-32 et suivants du code général des collectivités territoriales qui prévoient notamment que la gestion de cette dotation est déconcentrée. Ainsi, il appartient chaque année au représentant de l'État dans le département d'établir, suivant les catégories et dans les limites fixées par une commission d'élus instituée dans chaque département, la liste des opérations à subventionner ainsi que les taux de subvention applicables à chacune d'elles. La possibilité de financer au titre de la DETR des projets relatifs aux cimetières existe. La position de ne pas financer ce type d'opérations résulte de choix locaux faits par les commissions d'élus. Aussi, la liste des projets soutenus en 2020 au titre de la DETR, publiée sur le site des collectivités locales (https://www.collectivites-locales.gouv.fr/finances-locales/dotations) permet de constater que 557 projets liés à l'aménagement, à la réfection ou à l'accessibilité des cimetières ont été subventionnés à hauteur de 11,8 M€. Par ailleurs, la dotation de soutien à l'investissement locale (DSIL) peut également être un levier de financement efficace des travaux d'aménagement des cimetières. Ainsi, en 2020, 343 000 € ont également été alloués au titre de la DSIL, pour le financement de 13 projets liés aux cimetières. Par conséquent, les communes peuvent présenter, au titre de la DETR, un dossier pour financer les investissements relatifs aux cimetières dès lors que ceux-ci s'inscrivent dans le cadre fixé localement par la commission d'élus. Ces projets peuvent également être subventionnés au titre de la DSIL.
