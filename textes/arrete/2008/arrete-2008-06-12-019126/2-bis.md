@@ -1,6 +1,6 @@
 # Article 2 bis
 
-L'étude de dangers comprend un diagnostic exhaustif tel que prévu par le II de l'article R. 214-116 du code de l'environnement réalisé moins de vingt-quatre mois avant :
+L'étude de dangers comprend un diagnostic exhaustif tel que prévu par le II de l'article R. 214-116 du code de l'environnement réalisé moins de trente-six mois avant :
 
 1° La date du dépôt des dossiers mentionnés aux a et b de l'article 2 ;
 
@@ -8,6 +8,6 @@ L'étude de dangers comprend un diagnostic exhaustif tel que prévu par le II de
 
 Le préfet peut toutefois reconnaître, pour tout ou partie des éléments de ce diagnostic, une durée de validité plus longue lorsque les deux conditions suivantes sont remplies :
 
-a) Il est matériellement impossible dans les conditions usuelles de fonctionnement du barrage de procéder à l'intégralité des vérifications et investigations nécessaires dans un délai inférieur à vingt-quatre mois ;
+a) Il est matériellement impossible dans les conditions usuelles de fonctionnement du barrage de procéder à l'intégralité des vérifications et investigations nécessaires dans un délai inférieur à trente-six mois ;
 
-b) Et, l'ancienneté supérieure à vingt-quatre mois des vérifications ou des investigations concernées ne remet pas en cause leur validité dans le cadre de l'étude de dangers.
+b) Et, l'ancienneté supérieure à trente-six mois des vérifications ou des investigations concernées ne remet pas en cause leur validité dans le cadre de l'étude de dangers.
