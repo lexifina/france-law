@@ -542,9 +542,9 @@ ARTS MARTIAUX MIXTES y compris toutes les qualifications mentionnées sous l'int
 
 CC " encadrer les arts martiaux mixtes " (MMA) " associé :
 
--au BP JEPS, spécialité " éducDES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et disciplines associées " délivré jusqu'au 1er janvier 2024. ateur sportif ", mentions " activités de la savate ", " boxe ", " judo-jujitsu ", " karaté, wushu et disciplines associées ", " lutte et disciplines associées ", " sports de contact et disciplines associées "
+-au BP JEPS, spécialité " éducateur sportif ", mentions " activités de la savate ", " boxe ", " judo-jujitsu ", " karaté, wushu et disciplines associées ", " lutte et disciplines associées ", " sports de contact et disciplines associées "
 
--au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS spécialité "performance sportive ", mentions " boxe ", " boxe thaï-muay thaï ", " full contact ", " full contact-boxe américaine ", " judo-jujitsu ", " karaté et disciplines associées ", " kick-boxing ", " muay-thaï ", " lutte et disciplines associées "
+-au DE JEPS, spécialité " perfectionnement sportif " et au DES JEPS spécialité " performance sportive ", mentions " boxe ", " boxe thaï-muay thaï ", " full contact ", " full contact-boxe américaine ", " judo-jujitsu ", " karaté et disciplines associées ", " kick-boxing ", " muay-thaï ", " lutte et disciplines associées ", " sports de contact "
 
 -au DES JEPS, spécialité " performance sportive ", mention " savate boxe française ".
 
@@ -554,7 +554,7 @@ CC " encadrer les arts martiaux mixtes " (MMA) " associé :
 
 Encadrement et conduite de cycles d'initiation et d'apprentissage en arts martiaux mixtes. |
 
-Pour les titulaires du DE JEPS spécialité " perfectionnement sportif ", mention " judo-jujitsu ", sous réserve d'être titulaire du 2ème dan |
+|
 
 ATHLÉTISME
 
@@ -649,6 +649,26 @@ Encadrement de séances d'activités de découverte et d'initiation de l'athlét
 Pour des publics de moins de seize ans.
 
 Dans la limite de vingt pratiquants.
+
+|
+
+CQP " technicien sportif d'athlétisme " option
+
+" stade " délivré jusqu'au 15 septembre 2024. |
+
+4 |
+
+Encadrement et conduite de séances d'entraînement d'activités d'athlétisme visées par l'option |
+
+|
+
+CQP " technicien sportif d'athlétisme " option
+
+" demi-fond/ marche/ running/ trail " délivré jusqu'au 15 septembre 2024. |
+
+4 |
+
+Encadrement et conduite de séances d'entraînement d'activités d'athlétisme visées par l'option |
 
 |
 
@@ -811,16 +831,6 @@ DES JEPS, spécialité " performance sportive ", mention " badminton ", délivr�
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
-
-|
-
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " animateur de badminton ", délivré jusqu'au 4 octobre 2021. |
-
-|
-
-Encadrement de séances collectives en badminton. |
 
 |
 
@@ -1824,7 +1834,7 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " football ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " football ", délivré jusqu'au 1er octobre 2026. |
 
 6 |
 
@@ -1834,9 +1844,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Titres à finalité professionnelle délivrés par la fédération française de football |
 
-Moniteur de football, délivré jusqu'au 19 mai 2023.
-
-|
+Moniteur de football, délivré jusqu'au 19 mai 2023. |
 
 4 |
 
@@ -1846,33 +1854,23 @@ Conduite de cycles d'apprentissage et entraînement de la pratique du football. 
 
 Entraîneur de football, délivré jusqu'au 19 mai 2023. |
 
-5
-
-|
+5 |
 
 Entraînement en football. |
 
 |
 
-Entraîneur formateur de football, délivré jusqu'au 19 mai 2023.
-
-|
+Entraîneur formateur de football, délivré jusqu'au 19 mai 2023. |
 
 6 |
 
-Encadrement et entraînement en football dans une structure de préformation ou de formation.
+Encadrement et entraînement en football dans une structure de préformation ou de formation. |
 
 |
 
-|
+Entraîneur professionnel de football, délivré jusqu'au 19 mai 2023. |
 
-Entraîneur professionnel de football, délivré jusqu'au 19 mai 2023.
-
-|
-
-6
-
-|
+6 |
 
 Encadrement et entraînement en football, dans un club professionnel. |
 
@@ -2136,52 +2134,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " animateur des activités gymniques ", mention " activités gymniques acrobatiques ", délivré jusqu'au 4 octobre 2021. |
-
-|
-
-Encadrement, par la découverte et l'initiation, des activités gymniques acrobatiques :
-
--activités gymniques au sol, aux agrès ou sur supports élastiques (piste gonflable, fast track, mini-trampoline, trampoline) ;
-
--activités gymniques acrobatiques de groupe.
-
-|
-
-|
-
-CQP " animateur des activités gymniques ", mention " activités d'éveil gymnique pour la petite enfance ", délivré jusqu'au 4 octobre 2021. |
-
-|
-
-Encadrement, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance :
-
--activités gymniques sous forme de parcours de motricité ;
-
--activités gymniques d'expression avec ou sans engins ;
-
--activités gymniques d'expression avec ou sans support musical.
-
-|
-
-|
-
-CQP " animateur des activités gymniques ", mention " activités gymniques d'expression ", délivré jusqu'au 4 octobre 2021. |
-
-|
-
-Encadrement, par la découverte et l'initiation des activités gymniques d'expression :
-
--activités gymniques dansées de groupe avec ou sans engins en gymnastique rythmique ;
-
--activités gymniques cardio-vasculaires en gymnastique aérobic.
-
-|
-
-|
-
 HALTEROPHILIE MUSCULATION FORCE ATHLETIQUE CULTURISME
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -2408,11 +2360,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " hockey sur
-
-glace ", délivré jusqu'au 1er janvier 2024.
-
-|
+DES JEPS, spécialité " performance sportive " mention " hockey sur glace ", délivré jusqu'au 1er octobre 2026. |
 
 6 |
 
@@ -3230,7 +3178,11 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 A l'exclusion de la surveillance des lieux de pratique. |
 
-DEJEPS, spécialité " perfectionnement sportif " mention " natation course ", " natation synchronisée ", " plongeon " ou " water-polo " assorti du CS " sauvetage et sécurité en milieu aquatique ". |
+DEJEPS, spécialité " perfectionnement sportif " mention " natation course ", " natation synchronisée ",
+
+" plongeon ", " water-polo " ou " triathlon " assorti du CS
+
+" sauvetage et sécurité en milieu aquatique ". |
 
 |
 
@@ -3268,29 +3220,29 @@ PARACHUTISME-ENVIRONNEMENT SPÉCIFIQUE |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " parachutisme ", option " méthode traditionnelle ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " parachutisme ", option " méthode traditionnelle ", délivré jusqu'au 1er octobre 2026. |
 
 4 |
 
 Encadrement de la méthode traditionnelle. |
 
-|
+Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau. |
 
-BP JEPS, spécialité " éducateur sportif ", mention " parachutisme ", option " progression accompagnée en chute ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " parachutisme ", option " progression accompagnée en chute ", délivré jusqu'au 1er octobre 2026. |
 
 4 |
 
 Encadrement de la progression accompagnée en chute. |
 
-|
+Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau. |
 
-BP JEPS, spécialité " éducateur sportif ", mention " parachutisme ", option " saut en tandem ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " parachutisme ", option " saut en tandem ", délivré jusqu'au 1er octobre 2026. |
 
 4 |
 
 Encadrement du saut en tandem. |
 
-|
+Autorisation d'exercer pour une durée d'un an renouvelée à l'issue d'une formation de mise à niveau. |
 
 DE JEPS, " spécialité perfectionnement sportif " mention " activités du parachutisme ", délivré jusqu'au 1er janvier 2024. |
 
@@ -3728,7 +3680,7 @@ Conduite de cycles d'apprentissage en rugby à XIII. |
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XIII ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XIII ", délivré jusqu'au 1er octobre 2026. |
 
 5 |
 
@@ -3780,11 +3732,11 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " rugby à XV " délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " rugby à XV " délivré jusqu'au 31 décembre 2022. |
 
 4 |
 
-Encadrement, enseignement et animation d’activités de découverte, de loisir et d’initiation. Conduite de cycles d’apprentissage en rugby à XV. |
+Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite d'une séance d'entraînement en rugby à XV. |
 
 |
 
@@ -3822,9 +3774,9 @@ CQP " technicien sportif de rugby à XV ", délivré jusqu'au 21 juillet 2023. |
 
 |
 
-Encadrement de séances d'entraînement en rugby à XV. |
+Encadrement de séances d'entraînement en rugby à XV |
 
-Pour des publics de moins de 15 ans. |
+Pour des publics de plus de 15 ans. |
 
 SAVATE, BOXE FRANCAISE
 
@@ -3980,14 +3932,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
 
-CQP " accompagnateur en téléski nautique ", délivré jusqu'au 4 octobre 2021. |
-
-|
-
-Encadrement des activités de téléski nautique sur support de glisse. |
-
-|
-
 CQP " animateur ski nautique, wakeboard et engins tractés ", délivré jusqu'au 29 juin 2023. |
 
 3 |
@@ -4030,15 +3974,15 @@ BP JEPS, spécialité " sport automobile " mention " circuit ", délivré jusqu'
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en circuit. |
 
-|
+A l'exclusion de la conduite sur glace |
 
-BP JEPS, spécialité sport automobile , mention karting , délivré jusqu'au 31 décembre 2022. |
+BP JEPS, spécialité " sport automobile " mention " karting " délivré jusqu'au 31 décembre 2022. |
 
 4 |
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en karting. |
 
-|
+A l'exclusion de la conduite sur glace pour des karts autres que les catégories B1 et B2 |
 
 BP JEPS, spécialité " sport automobile " mention " perfectionnement du pilotage ", délivré jusqu'au 31 décembre 2022. |
 
@@ -4046,7 +3990,7 @@ BP JEPS, spécialité " sport automobile " mention " perfectionnement du pilotag
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en perfectionnement du pilotage. |
 
-|
+A l'exclusion de la conduite sur glace |
 
 BP JEPS, spécialité " sport automobile " mention " rallye ", délivré jusqu'au 31 décembre 2022. |
 
@@ -4062,7 +4006,31 @@ BP JEPS, spécialité " sport automobile " mention " tout terrain ", délivré j
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à la compétition en tout-terrain. |
 
-|
+A l'exclusion de la préparation à la conduite sur circuit revêtue |
+
+BP JEPS, spécialité " éducateur sportif " mention " sport automobile " option " perfectionnement du pilotage ", délivré jusqu'au 1er octobre 2026. |
+
+4 |
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte et de perfectionnement au pilotage. |
+
+A l'exclusion de l'encadrement à la conduite sur glace |
+
+BP JEPS, spécialité " éducateur sportif " mention " sport automobile " option " karting ", délivré jusqu'au 1er octobre 2026. |
+
+4 |
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte de la pratique karting, sur toute adhérence. |
+
+A l'exclusion de la conduite sur glace pour des karts autres que les catégories B1 et B2 |
+
+BP JEPS, spécialité " éducateur sportif " mention " sport automobile " option " tout terrain ", délivré jusqu'au 1er octobre 2026. |
+
+4 |
+
+Encadrement et animation d'activités de loisir, d'initiation, de découverte de l'activité tout terrain et de préparation à la compétition. |
+
+A l'exclusion de l'entrainement à la compétition de haut niveau |
 
 UCC " conduite sur glace " associée au BP JEPS spécialité sport automobile . |
 
@@ -4146,7 +4114,7 @@ Encadrement, initiation et conduite de cycles d'apprentissage en sports de conta
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " boxe thaï-muay thaï ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2023. |
 
 5 |
 
@@ -4154,7 +4122,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " full contact-boxe américaine ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " full contact-boxe américaine ", délivré jusqu'au 31 décembre 2021. |
 
 5 |
 
@@ -4162,15 +4130,17 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " kick boxing ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " kick boxing ", délivré jusqu'au 31 décembre 2023. |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " boxe thaï-muay thaï ", délivré jusqu'au 1er janvier 2024. |
+|
+
+DES JEPS, spécialité " performance sportive ", mention " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2022. |
 
 6 |
 
@@ -4178,11 +4148,43 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " kick boxing ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " kick boxing ", délivré jusqu'au 31 décembre 2022. |
 
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " sports de contact ", option " kick-boxing ", délivré jusqu'au 31 décembre 2026. |
+
+5 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée. |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif " mention " sports de contact ", option " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2026. |
+
+5 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par l'option considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive ", mention " sports de contact ", option " kick-boxing ", délivré jusqu'au 31 décembre 2026. |
+
+6 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par l'option considérée. |
+
+|
+
+DES JEPS, spécialité " performance sportive ", mention " sports de contact ", option " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2026. |
+
+6 |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par l'option considérée. |
 
 |
 
@@ -4670,7 +4672,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " taekwondo et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " taekwondo et disciplines associées ", délivré jusqu'au 1er octobre 2026. |
 
 5 |
 
@@ -4678,7 +4680,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " taekwondo et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " taekwondo et disciplines associées ", délivré jusqu'au 1er octobre 2026. |
 
 6 |
 
