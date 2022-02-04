@@ -926,6 +926,38 @@ Encadrement en autonomie, par la découverte et l'initiation, des activités gym
 
 Activité exercée à titre secondaire. |
 
+CQP " animateur des activités gymniques ", mention " activités gymniques acrobatiques ", délivré jusqu'au 4 octobre 2021. |
+
+Encadrement, par la découverte et l'initiation, des activités gymniques acrobatiques :
+
+-activités gymniques au sol, aux agrès ou sur supports élastiques (piste gonflable, fast track, mini-trampoline, trampoline) ;
+
+-activités gymniques acrobatiques de groupe. |
+
+|
+
+CQP " animateur des activités gymniques ", mention " activités d'éveil gymnique pour la petite enfance ", délivré jusqu'au 4 octobre 2021. |
+
+Encadrement, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance :
+
+-activités gymniques sous forme de parcours de motricité ;
+
+-activités gymniques d'expression avec ou sans engins ;
+
+-activités gymniques d'expression avec ou sans support musical. |
+
+|
+
+CQP " animateur des activités gymniques ", mention " activités gymniques d'expression ", délivré jusqu'au 4 octobre 2021. |
+
+Encadrement, par la découverte et l'initiation des activités gymniques d'expression :
+
+-activités gymniques dansées de groupe avec ou sans engins en gymnastique rythmique ;
+
+-activités gymniques cardio-vasculaires en gymnastique aérobic. |
+
+|
+
 CQP " assistant moniteur de tennis ", délivré jusqu'au 28 avril 2018. |
 
 Initiation au tennis, en cours collectif, des jeunes âgés de 18 ans au maximum.
@@ -1265,5 +1297,17 @@ Encadrement des activités en sport adapté aux personnes en situation de handic
 CQP “moniteur de rugby à XV", délivré jusqu'au 7 juin 2021 |
 
 Animation des activités de rugby à XV à des fins de découverte et d'initiation. Encadrement des activités de rugby à XV dans les catégories d'âge des écoles de rugby (7 à 15 ans). |
+
+|
+
+CQP " animateur de badminton ", délivré jusqu'au 4 octobre 2021. |
+
+Encadrement de séances collectives en badminton. |
+
+|
+
+CQP " accompagnateur en téléski nautique ", délivré jusqu'au 4 octobre 2021. |
+
+Encadrement des activités de téléski nautique sur support de glisse |
 
 |
