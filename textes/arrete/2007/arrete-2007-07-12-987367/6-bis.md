@@ -1,3 +1,7 @@
 # Article 6 bis
 
-Les modalités de la situation d'évaluation certificative des UC1 et UC2 figurent à l'article A. 212-57 du code du sport. Les modalités de la situation d'évaluation certificative des UC3 et UC4 mentionnée à l'article A. 212-57 bis du code du sport figurent en annexe au présent arrêté.
+Le tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité “performance sportive” mention “sport adapté” figure en annexe III au présent arrêté.
+
+NOTA :
+
+Conformément au II de l'article 10 de l'arrêté du 11 janvier 2022 (NOR : SPOV2201096), les présentes dispositions s'appliquent à toute nouvelle demande d'habilitation déposée à compter de la date de publication du présent arrêté.
