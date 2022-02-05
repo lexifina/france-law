@@ -6,7 +6,13 @@ LISTE DES DÉPARTEMENTS
 
 Aisne.
 
+Hautes-Alpes.
+
+Alpes-de-Haute-Provence.
+
 Ariège.
+
+Aube.
 
 Bouches-du-Rhône.
 
@@ -30,11 +36,9 @@ Finistère.
 
 Gard.
 
+Haute-Garonne.
+
 Gironde.
-
-Hautes-Alpes.
-
-Haute-Saône.
 
 Hérault.
 
@@ -64,6 +68,8 @@ Manche.
 
 Marne.
 
+Haute-Marne.
+
 Mayenne.
 
 Meurthe-et-Moselle.
@@ -84,6 +90,10 @@ Hautes-Pyrénées.
 
 Bas-Rhin.
 
+Haut-Rhin.
+
+Haute-Saône.
+
 Sarthe.
 
 Seine-Maritime.
@@ -101,3 +111,9 @@ Var.
 Vendée.
 
 Yonne.
+
+Territoire de Belfort
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 janvier 2022 (NOR : AGRT2201977A), ces dispositions s'appliquent pour la campagne 2022.

@@ -8,9 +8,15 @@ Ain.
 
 Allier.
 
+Alpes-Maritimes.
+
 Ardèche.
 
 Aveyron.
+
+Calvados.
+
+Cantal.
 
 Corrèze.
 
@@ -28,15 +34,13 @@ Isère.
 
 Haute-Loire.
 
-Haute-Marne.
+Lozère.
 
 Nièvre.
 
 Orne.
 
 Pyrénées-Orientales.
-
-Haut-Rhin.
 
 Rhône.
 
@@ -46,20 +50,14 @@ Haute-Savoie.
 
 Haute-Vienne.
 
-Vosges.
+Vaucluse.
 
-Territoire de Belfort.
+Vosges.
 
 Seine-Saint-Denis.
 
 Val-de-Marne.
 
-Alpes-Maritimes.
+NOTA :
 
-Calvados.
-
-Cantal.
-
-Lozère.
-
-Vaucluse.
+Conformément à l'article 2 de l'arrêté du 26 janvier 2022 (NOR : AGRT2201977A), ces dispositions s'appliquent pour la campagne 2022.
