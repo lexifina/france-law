@@ -13,3 +13,7 @@ II. - Vaccins à vecteur viral :
 - le vaccin Covid vaccine AstraZeneca ;
 
 - le vaccin COVID-19 Vaccine Janssen.
+
+III. - Vaccins sous-unitaires à protéine recombinante :
+
+- le vaccin Nuvaxovid, dispersion injectable de la société Novavax.
