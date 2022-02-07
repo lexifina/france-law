@@ -1,85 +1,285 @@
 # Article 46 quater
 
-1. Objectif
+A.   Le contrat de professionnalisation
 
-Le droit individuel à la formation (DIF) a pour objet de permettre à tout salarié de bénéficier d'un volume d'heures de formation qu'il pourra utiliser à son initiative en accord avec son employeur.
+Le contrat de professionnalisation permet d'acquérir une qualification reconnue (qualification enregistrée dans le répertoire national des certifications professionnelles, ou reconnue dans les classifications d'une convention collective de branche, ou ouvrant droit à un certificat de qualification professionnelle de branche ou interbranche). Il associe une expérience professionnelle au sein d'une ou plusieurs entreprises et des enseignements généraux, professionnels et technologiques dispensés par des organismes publics ou privés de formation ou par l'entreprise si elle dispose de son propre service de formation.
 
-2. Actions de formation exercées au titre du DIF
+Les parties signataires soulignent que la mise en place du contrat de professionnalisation dans les entreprises de la branche est l'occasion de traduire une attention particulière en faveur des jeunes et des demandeurs d'emploi dépourvus de qualification ou éprouvant des difficultés d'insertion professionnelle.
 
-Au titre du DIF, sont considérées comme prioritaires les actions de formation ayant vocation à concourir à l'obtention de prérequis pour certaines formations, de diplômes, de titres ou de qualifications, ou de permettre la mise en oeuvre d'un bilan de compétences ou d'une action de validation des acquis de l'expérience (VAE).
+1.   Les bénéficiaires
 
-Les autres actions de formation exercées au titre du DIF sont les suivantes :
+Le contrat de professionnalisation est ouvert :
 
-- les actions de promotion, qui ont pour objet de permettre aux salariés d'acquérir une qualification plus élevée ;
+– à tous les jeunes de 16 à 25 ans révolus qui veulent compléter leur formation initiale par l'acquisition d'un diplôme, d'un titre, d'un certificat de qualification professionnelle ou par le suivi d'une formation professionnelle d'adaptation à un emploi dans la branche ;
 
-- les actions d'acquisition, d'entretien ou de perfectionnement des connaissances, qui ont pour objet d'offrir aux salariés les moyens d'accéder à la culture, de maintenir ou de parfaire leur qualification et leur niveau culturel ainsi que d'assumer des responsabilités accrues dans la vie associative ;
+– à tous les jeunes de 16 à 25 ans révolus sans qualification professionnelle reconnue, qui n'ont pas validé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel ;
 
-- les actions de qualification, qui ont pour objet de permettre aux salariés d'acquérir une qualification correspondant aux besoins de l'économie prévisibles à court ou moyen terme.
+– aux demandeurs d'emploi âgés de 26 ans et plus ;
 
-L'exercice du DIF peut s'articuler avec d'autres dispositifs de départ en formation (plan de formation, période de professionnalisation).
+– aux bénéficiaires d'un minimal social (RSA, allocation de solidarité spécifique, allocation aux adultes handicapés), et aux personnes ayant été employées en contrat unique d'insertion (CUI).
 
-3. Bénéficiaires
+Le titulaire du contrat est salarié de l'entreprise et bénéficie de l'ensemble des dispositions applicables aux autres salariés dans la mesure où elles ne sont pas incompatibles avec l'objet du contrat. Le temps consacré à la formation alternée est compris dans l'horaire de travail en vigueur dans l'entreprise.
 
-Tout salarié titulaire d'un contrat à durée indéterminée (CDI), à temps complet ou à temps partiel et justifiant de 1 an d'ancienneté dans l'entreprise bénéficie du DIF. La période d'absence du salarié pour un congé de maternité, d'adoption, de présence parentale ou pour un congé parental d'éducation est intégralement prise en compte.
+2.   Le tutorat
 
-Les salariés en contrat à durée déterminée (CDD) bénéficient du DIF après 4 mois de présence consécutifs ou non dans l'entreprise, au cours des 12 derniers mois.
+Un tuteur est désigné par l'employeur. La personne choisie pour être tuteur est un salarié de l'entreprise. Ce dernier doit être volontaire et justifier d'une expérience professionnelle d'au moins deux ans dans une qualification en rapport avec l'objectif de professionnalisation visé.
 
-Les salariés titulaires d'un " contrat nouvelles embauches " peuvent, lorsque leur contrat de travail est rompu au cours de la première année suivant sa conclusion, bénéficier du DIF dans les conditions fixées à l'alinéa précédent.
+L'employeur peut aussi assurer lui-même le tutorat, notamment en l'absence d'un salarié qualifié, s'il remplit les conditions de qualifications et d'expérience.
 
-Les dispositions du présent article ne s'appliquent pas aux salariés sous contrat d'apprentissage ou sous contrat de professionnalisation.
+Le tuteur a pour mission d'accueillir, d'aider, d'informer et d'accompagner le titulaire du contrat en situation de travail vers un niveau de compétences supérieur en lui apportant son savoir-faire et son expérience. Il doit veiller au respect de l'emploi du temps du bénéficiaire. Il veille notamment à l'adéquation des activités confiées au sein de l'entreprise avec la formation poursuivie. Il assure la liaison avec l'organisme ou le service de formation chargé de mettre en œuvre les actions de professionnalisation et participe à l'évaluation du suivi de la formation. L'employeur, en concertation avec le tuteur, s'assure que ce dernier dispose du temps nécessaire pour exercer ses fonctions et se former. Ainsi, le temps passé à l'exercice de l'activité de tuteur est apprécié et pris en compte dans la détermination de sa charge de travail.
 
-Le salarié d'une entreprise relevant de la convention collective des sociétés financières, qui fait l'objet d'une mesure de licenciement économique en raison d'une opération de restructuration concernant cette entreprise, conserve, au sein des autres entreprises relevant de la même convention, pendant une période de 12 mois suivant ce licenciement, ses droits acquis et non utilisés au titre du DIF.
+L'expérience du salarié acquise dans le cadre de ses fonctions de tuteur est prise en compte lors de l'entretien professionnel.
 
-Les salariés âgés de 45 ans et plus, et ceux ayant au moins 20 ans d'ancienneté ont la possibilité d'anticiper l'exercice de leurs droits à la formation au titre du DIF dans la limite de 40 heures par période de 6 ans.
+Lorsqu'il est salarié, le tuteur ne peut exercer simultanément ses fonctions à l'égard de plus de trois salariés titulaires de contrats de professionnalisation. L'employeur ne peut assurer simultanément le tutorat à l'égard de plus de deux salariés titulaires desdits contrats.
 
-4. Acquisition du crédit d'heures individuel de formation
+En cas de mobilité interne ou externe du tuteur, l'employeur procédera à son remplacement sans délai et selon les mêmes conditions.
 
-4.1. Deux cas doivent être envisagés :
+La CNPE de la branche détermine chaque année les critères de prise en charge de l'aide à la fonction tutorale, versée par l'OPCO aux entreprises de la branche qui en font la demande. Cette aide est exclusivement dédiée à la formation du tuteur et/ ou à l'allocation d'une prime à celui-ci.
 
-4.1.1. Cas du salarié ayant atteint au moins 1 an d'ancienneté au 7 mai 2005 : tout salarié titulaire d'un CDI à temps complet ayant atteint au moins 1 an d'ancienneté dans l'établissement au 7 mai 2005 bénéficie, à cette date, d'un DIF d'une durée de 20 heures. Cette durée sera augmentée de 18 heures au 1er janvier 2006, déduction faite, le cas échéant, des heures déjà utilisées entre le 7 mai 2005 et le 31 décembre 2005. La durée du DIF sera augmentée de 20 heures à chaque 1er janvier des années suivantes.
+À cet égard, les partenaires sociaux incitent les salariés concernés à recourir à la certification relative aux compétences de maître d'apprentissage/ tuteur du ministère du travail (1).
 
-4.1.2. Cas du salarié atteignant 1 an d'ancienneté postérieurement au 7 mai 2005 : tout salarié titulaire d'un CDI à temps complet atteignant 1 an d'ancienneté dans l'établissement postérieurement au 7 mai 2005 bénéficiera d'un DIF d'une durée de 20 heures à la première date anniversaire de son entrée dans l'établissement. Au titre de la période allant de cette date à la fin de l'année civile en cours, la durée du DIF sera acquise pro rata temporis. La durée du DIF sera augmentée de 20 heures à chaque 1er janvier des années suivant cette année civile.
+3.   Les modalités et la durée du contrat
 
-4.2. En tout état de cause, chacun des salariés visés au paragraphe 4.1 ci-dessus acquiert un DIF d'une durée de 20 heures par année d'ancienneté dans l'entreprise. Il peut faire valoir ses droits acquis dès la date anniversaire de son embauche dans l'établissement.
+Le contrat de professionnalisation est établi par écrit et déposé auprès de la DREETS (direction régionale de l'économie, de l'emploi, du travail et des solidarités). Il peut prendre la forme :
 
-4.3. Le cumul, en tout ou partie, des heures acquises au titre du DIF est possible sur 6 ans au maximum, dans la limite d'un plafond de 120 heures.
+– soit d'un contrat à durée déterminée (CDD) pour une durée comprise entre 6 et 12 mois ;
 
-4.4. Cas des salariés à temps partiel : pour les salariés à temps partiel, la durée du DIF est calculée pro rata temporis de la durée du temps de travail prévue à leur contrat. Le cumul de ces heures est plafonné à 120 heures mais s'effectuera sur plus de 6 années. Toutefois, lorsque la durée du temps de travail est égale ou supérieure à 80 % de celle d'un salarié à temps complet, le droit du salarié à temps partiel est identique à celui du salarié à temps complet.
+– soit d'un contrat à durée indéterminée (CDI) dont l'action de professionnalisation se situe au début du contrat pour une durée comprise entre 6 et 12 mois.
 
-4.5. Cas de salariés titulaires d'un CDD : les salariés en CDD remplissant les conditions d'ancienneté prévues à l'article 3 paragraphe 2 ci-dessus bénéficient d'un DIF dont la durée est proratisée en fonction de la durée du CDD.
+Lors de l'embauche d'un titulaire en contrat de professionnalisation, le contrat précise notamment :
 
-5. Modalités de mise en oeuvre
+– sa nature (à durée déterminée ou indéterminée) ;
 
-La mise en oeuvre du DIF relève de l'initiative du salarié en accord avec son employeur. Le choix de l'action de formation envisagée est arrêté par accord écrit du salarié et de l'employeur.
+– sa durée lorsque celle-ci est déterminée ;
 
-Au plus tard 2 mois avant la date de la formation envisagée, le salarié doit présenter par écrit sa demande qui précisera la formation envisagée, son coût et ses dates.
+– la durée de la période d'essai, conformément aux dispositions de la convention collective ;
 
-L'employeur a un délai de 1 mois pour notifier par écrit sa réponse. L'absence de réponse au terme du délai de 1 mois vaut acceptation du choix de l'action de formation. A la demande du salarié, la réponse négative devra être motivée.
+– la durée et les dates de l'action de professionnalisation lorsqu'il est conclu à durée indéterminée ;
 
-En cas de désaccord sur le choix de l'action de formation au titre du DIF sur 2 années consécutives, le salarié peut adresser sa demande auprès de l'organisme paritaire agréé au titre du congé individuel de formation (CIF) dont relève l'établissement et bénéficier, sous réserve des critères définis de façon indépendante par cet organisme, d'une priorité d'instruction de sa demande en CIF. L'établissement ne peut s'opposer à l'action de formation acceptée par ledit organisme.
+– le niveau de formation et le coefficient du titulaire à la signature du contrat ;
 
-L'employeur informe chaque année le comité d'entreprise ou, à défaut, les délégués du personnel, du nombre de salariés ayant utilisé en tout ou partie leur DIF, du nombre d'heures ayant fait l'objet de l'exercice du DIF, de leur répartition pendant ou hors du temps de travail, par sexe et selon le statut hiérarchique (cadres ou non-cadres), et du nombre de non-accords.
+– le diplôme, le titre, le certificat de qualification professionnelle ou la qualification visé par l'action de professionnalisation ;
 
-L'ASF collectera chaque année les informations relatives au nombre de demandes d'actions de formation au titre du DIF faites par les salariés, le nombre de non-accords, le nombre d'acceptations et le nombre de reports de ces demandes. Ces informations seront publiées dans le document " Données sociales ".
+– la durée des actions de formation théorique et pratique et leur répartition en fonction du diplôme, du titre, du certificat de qualification professionnelle ou de la qualification recherchés ;
 
-Les entreprises devront mettre à la disposition de leurs salariés un catalogue indicatif d'actions de formation au titre du DIF. Le catalogue indicatif élaboré par la commission nationale paritaire servira de référence.
+– la rémunération prévue pendant la durée du contrat à durée déterminée, ou la rémunération prévue pendant l'action de professionnalisation si le contrat est à durée indéterminée (cf. tableau en point 5) ;
 
-6. Exercice du droit individuel à la formation
+– le nom et l'emploi occupé par le tuteur.
 
-Par accord d'entreprise ou par accord écrit entre l'employeur et le salarié, le DIF peut s'exercer, en tout ou partie, pendant le temps de travail.
+La durée du contrat de professionnalisation à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée est fonction du niveau de formation des salariés et des exigences inhérentes à la qualification visée. Cette durée est de 6 mois minimum et est normalement limitée à 12 mois.
 
-Le salarié bénéficie du maintien de sa rémunération pour la partie effectuée pendant le temps de travail et du versement d'une allocation dite de formation correspondant à 50 % de la rémunération nette de référence pour la partie effectuée en dehors du temps de travail.
+Toutefois, la durée peut être étendue au-delà de 12 mois :
 
-7. Le DIF en cas de rupture du contrat de travail
+– dans la limite de 24 mois :
 
-En cas de licenciement (sauf faute grave ou lourde), le salarié peut demander, avant la fin de la période de préavis, à utiliser ses droits au DIF pour suivre une action de formation, de bilan de compétences ou de validation des acquis. Dans ce cas, le montant de l'allocation de formation correspondant aux heures acquises au titre du DIF et n'ayant pas été utilisées est calculé sur la base du salaire net perçu par le salarié avant son départ de l'entreprise. Les sommes correspondant à ce montant doivent permettre de financer tout ou partie de l'action retenue. Elles sont versées par l'employeur à l'organisme de formation concerné.
+–– pour les jeunes de 16 à 25 ans révolus et demandeurs d'emploi âgés de 26 ans et plus sortis du système éducatif sans qualification professionnelle reconnue ;
 
-En cas de démission, le salarié peut demander, avant la fin de la période de préavis, à utiliser ses droits au DIF pour suivre une action de formation, de bilan de compétences ou de validation des acquis. L'exercice de cette action, qui nécessite l'accord de l'employeur, doit débuter pendant la période de préavis. Les délais prévus aux alinéas 2 et 3 du paragraphe 5 ci-dessus sont réduits respectivement à 8 jours et à 15 jours.
+–– lorsque la nature des qualifications visées l'exige (qualification professionnelle sanctionnée par un diplôme, titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles...),
 
-En cas de départ ou mise à la retraite, le salarié perd ses droits au DIF.
+– dans la limite de 36 mois :
 
-8. Information du salarié
+–– pour les jeunes âgés de 16 à 25 ans révolus qui n'ont pas validé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel ;
 
-Chaque année, le salarié en CDI est informé par écrit du total de ses droits acquis au titre du DIF.
+–– pour les jeunes âgés de 16 à 25 ans révolus et les demandeurs d'emploi âgés de 26 ans et plus inscrits depuis plus d'un an sur la liste des demandeurs d'emploi ;
 
-La même information doit être fournie aux salariés en CDD.
+–– pour les bénéficiaires d'un minima social (RSA, allocation de solidarité spécifique, allocation aux adultes handicapés), et pour les personnes ayant été employées en contrat unique d'insertion (CUI).
+
+Le contrat de professionnalisation à durée déterminée peut être renouvelé une fois :
+
+– en cas de préparation d'une qualification supérieure ou complémentaire après avoir obtenu la qualification préparée ;
+
+– si le bénéficiaire n'a pas pu obtenir la qualification envisagée pour cause d'échec aux épreuves d'évaluation de la formation suivie, de maternité, de maladie, d'accident du travail ou de trajet ou de défaillance de l'organisme de formation.
+
+Le recours aux contrats de professionnalisation et leur suivi sont assurés par le comité social et économique dans le cadre des dispositions légales.
+
+4.   La durée des actions de formation
+
+La durée des actions théoriques (actions d'évaluation, de personnalisation du parcours de formation, d'accompagnement, enseignements généraux, professionnels ou technologiques) est fonction de la durée totale du contrat de professionnalisation à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée. Cette durée est comprise entre 15 % sans être inférieure à 150 heures, et 25 % de la durée totale du contrat à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée.
+
+Toutefois, selon le diplôme, le titre, le certificat de qualification professionnelle ou la qualification préparés, et selon le niveau initial des publics visés par l'accord, cette durée peut être supérieure à 25 %.
+
+5.   La rémunération
+
+Les modalités de rémunération sont les suivantes :
+
+– les personnes âgées de 16 à 25 ans révolus perçoivent au minimum une rémunération fixée en pourcentage de la rémunération minimale garantie (RMG) prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail, en fonction de leur âge et de leur niveau de formation :
+
+|
+
+Qualification inférieure au bac professionnel ou titre ou diplôme professionnel de même niveau |
+
+Qualification égale ou supérieure au bac professionnel ou titre ou diplôme professionnel de même niveau |
+
+16 à 20 ans révolus |
+
+55 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail. |
+
+65 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail. |
+
+21 à 25 ans révolus |
+
+70 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail. |
+
+80 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail. |
+
+– les demandeurs d'emplois âgés de 26 ans et plus perçoivent une rémunération qui ne peut être inférieure à la rémunération minimale garantie (RMG) prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+
+6.   L'information du salarié
+
+Avant la signature du contrat, le salarié est obligatoirement informé par écrit, par son entreprise et l'organisme de formation, du programme de la formation et des conditions d'évaluation de ses acquis.
+
+7.   Le financement
+
+La prise en charge des formations des contrats de professionnalisation est fixée par la commission nationale paritaire de l'emploi (CNPE) qui est ensuite transmise à l'opérateur de compétences (OPCO). Pour l'établir, la CNPE prend en compte les études réalisées par l'OPCO et ses recommandations éventuelles.
+
+Dans la perspective du financement des contrats de professionnalisation, l'employeur transmet le contrat à l'OPCO dans les 5 jours suivant le début du contrat via le portail de l'alternance.
+
+Dans le délai de vingt jours à compter de la réception du contrat, l'OPCO se prononce sur la prise en charge des dépenses de formation, notifie sa décision à l'employeur et dépose le contrat auprès de la DREETS (direction régionale de l'économie, de l'emploi, du travail et des solidarités). À défaut de notification de la décision dans ce délai, la prise en charge est réputée acceptée et le contrat déposé.
+
+B.   Le contrat d'apprentissage
+
+L'apprentissage a pour objet de donner à des travailleurs ayant satisfait à l'obligation scolaire une formation générale, théorique et pratique, en vue de l'obtention d'une qualification professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles.
+
+1.   Les bénéficiaires
+
+Le contrat d'apprentissage est ouvert :
+
+– aux personnes âgées de 16 ans à 29 ans révolus.
+
+L'âge peut être abaissé à 15 ans si le jeune a atteint cet âge entre la rentrée scolaire et le 31 décembre de l'année civile, et qu'il a terminé son année de 3e.
+
+L'âge maximum peut être porté à 34 ans révolus dans les cas suivants :
+
+–– l'apprenti veut signer un nouveau contrat pour accéder à un niveau de diplôme supérieur à celui déjà obtenu ;
+
+–– le précédent contrat de l'apprenti a été rompu pour des raisons indépendantes de sa volonté (cessation d'activité de l'employeur, faute de l'employeur ou les manquements répétés à ses obligations, mise en œuvre de la procédure de suspension de l'exécution du contrat d'apprentissage prévue aux articles L. 6225-4 et suivants du code du travail) ;
+
+–– le précédent contrat de l'apprenti a été rompu pour inaptitude physique et temporaire.
+
+Dans ces cas, il ne doit pas s'écouler plus d'un an entre les deux contrats :
+
+– sans limite d'âge dans les cas suivants :
+
+–– l'apprenti est reconnu travailleur handicapé par la commission des droits et de l'autonomie des personnes handicapées ;
+
+–– l'apprenti envisage de créer ou reprendre une entreprise supposant l'obtention d'un diplôme (exemple : dispositif d'aide individualisée Acre, Nacre ou Cape) ;
+
+–– l'apprenti est une personne inscrite en tant que sportif de haut niveau ;
+
+–– l'apprenti n'obtient pas le diplôme ou le titre professionnel visé. Dans ce cas, l'apprentissage peut être prolongé pour 1 an maximum avec un nouveau contrat chez un autre employeur.
+
+– aux salariés titulaires d'un contrat de travail à durée indéterminée (CDI) âgés entre 16 ans et moins de 30 ans ou sans limite d'âge en fonction des cas cités plus haut. Le CDI initial est alors suspendu, par accord entre le salarié et l'employeur, pendant la durée du contrat d'apprentissage conclu avec le même employeur.
+
+La durée de la suspension du contrat de travail est égale à la durée de la formation nécessaire à l'obtention de la qualification professionnelle recherchée.
+
+2.   Le maître d'apprentissage
+
+Le maître d'apprentissage (l'employeur, son conjoint collaborateur, ou un ou plusieurs salariés volontaires) directement responsable de la formation de l'apprenti assume la fonction de tuteur.
+
+Le maître d'apprentissage a pour mission de contribuer à l'acquisition par l'apprenti dans l'entreprise des compétences correspondant à la qualification recherchée et au titre ou diplôme préparés, en liaison avec le centre de formation d'apprentis.
+
+La fonction de maître d'apprentissage peut être partagée entre plusieurs salariés constituant une équipe tutorale, composée de profils et d'expertises différents permettant un accompagnement sur l'ensemble des missions attendues. Dans ce cas est désigné un maître d'apprentissage référent qui assurera la coordination de l'équipe et la liaison avec le centre de formation d'apprentis (CFA).
+
+Le maître d'apprentissage doit être majeur, offrir toutes garanties de moralité et présenter des compétences pédagogiques et professionnelles de nature à permettre une formation satisfaisante de l'apprenti.
+
+Les conditions de compétence professionnelle exigées d'un maître d'apprentissage sont les suivantes :
+
+– être titulaire d'un diplôme ou d'un titre relevant du domaine professionnel correspondant à la finalité du diplôme ou du titre préparé par l'apprenti et d'un niveau au moins équivalent, et justifier d'une année d'exercice d'une activité professionnelle en rapport avec la qualification préparée par l'apprenti ;
+
+– ou justifier de 2 années d'exercice d'une activité professionnelle en rapport avec la qualification préparée par l'apprenti.
+
+L'employeur, en concertation avec le maître d'apprentissage, s'assure que ce dernier dispose du temps nécessaire pour l'accompagnement de l'apprenti et pour les relations avec le CFA.
+
+L'employeur veille à ce que le maître d'apprentissage bénéficie de formations lui permettant d'exercer correctement sa mission et de suivre l'évolution du contenu des formations dispensées à l'apprenti et des diplômes qui les valident.
+
+L'expérience du salarié acquise dans le cadre de ses fonctions de maître d'apprentissage est prise en compte lors de l'entretien professionnel.
+
+La CNPE de la branche détermine chaque année les critères de prise en charge de l'aide à la fonction de maître d'apprentissage versée par l'OPCO aux entreprises de la branche qui en font la demande. Cette aide est exclusivement dédiée à la formation du maître d'apprentissage et/ ou à l'allocation d'une prime à celui-ci.
+
+À cet égard, les partenaires sociaux incitent les salariés concernés à recourir à la certification relative aux compétences de maître d'apprentissage/ tuteur du ministère du travail (1).
+
+Le nombre maximal d'apprentis pouvant être accueillis simultanément dans une entreprise ou un établissement est fixé à deux par maître d'apprentissage. Ce dernier peut accueillir un troisième apprenti dont la formation est prolongée en cas d'échec.
+
+La commission départementale de l'emploi et de l'insertion peut délivrer des dérogations individuelles lorsque la qualité de la formation dispensée dans l'entreprise et les possibilités d'insertion professionnelle dans la branche considérée le justifient. Ces dérogations sont valables pour 5 ans au plus, renouvelables.
+
+Afin de procéder à une première évaluation du déroulement de la formation et, le cas échéant, d'adapter cette dernière, l'apprenti est convié, par le CFA, à un entretien d'évaluation dans les 2 mois suivant la conclusion du contrat d'apprentissage. L'employeur, le maître d'apprentissage, un formateur du CFA participent à cet entretien.
+
+3.   Les modalités et la durée du contrat
+
+Le contrat d'apprentissage peut être conclu pour une durée limitée ou pour une durée indéterminée.
+
+La durée du contrat d'apprentissage, lorsqu'il est conclu pour une durée limitée, ou la durée de la période d'apprentissage, lorsque le contrat d'apprentissage est conclu pour une durée indéterminée, est égale à celle du cycle de formation préparant à la qualification qui fait l'objet du contrat. La durée peut varier entre 6 mois et 3 ans, sous réserve des cas de prolongation suivants :
+
+– en cas d'échec à l'obtention du diplôme ou du titre professionnel visé, la durée peut être prolongée pour une durée d'un an au plus soit par prorogation du contrat initial ou de la période d'apprentissage, soit par conclusion d'un nouveau contrat avec un autre employeur ;
+
+– lorsque l'apprenti est reconnu travailleur handicapé, la durée peut être augmentée et portée à 4 ans ;
+
+– lorsque les activités sportives de l'apprenti l'exigent, l'enseignement dispensé dans l'établissement de formation en vue de conduire au diplôme ou au titre à finalité professionnelle prévu au contrat est réparti sur une période de temps égale à la durée normale d'apprentissage pour la formation considérée, augmentée d'un an au plus.
+
+Cette prolongation ne fait pas obstacle à la conclusion, s'il y a lieu, d'un nouveau contrat avec un autre employeur.
+
+La durée du contrat d'apprentissage est fixée en fonction du type de profession et du niveau de qualification préparés.
+
+La formation de l'apprenti en centre de formation des apprentis (CFA) doit avoir une durée minimale correspondant à 25 % de la durée totale du contrat. La formation peut être effectuée en tout ou partie à distance avec un suivi par le CFA.
+
+Le temps passé au CFA et en entreprise varie selon la formation choisie. Par exemple, 2 jours au CFA et 3 en entreprise, ou 1 mois au CFA et 1 mois en entreprise.
+
+Le contrat est signé par l'employeur et l'apprenti (et par son représentant légal, si l'apprenti est mineur). Un exemplaire est remis à l'apprenti, l'autre est conservé par l'employeur.
+
+Lorsqu'il est conclu pour une durée indéterminée, le contrat débute par la période d'apprentissage. À l'issue de cette période, la relation contractuelle est régie par les règles de droit commun du contrat de travail, à l'exception qu'aucune période d'essai ne peut être imposée au salarié.
+
+Une convention entre le CFA, l'employeur et l'apprenti ou son représentant légal, fixant la durée du contrat est annexée à celui-ci.
+
+Dans les 5 jours ouvrables qui suivent le début de l'exécution du contrat d'apprentissage, l'employeur transmet le contrat à l'OPCO. Cette transmission peut se faire par voie dématérialisée. L'OPCO a 20 jours pour statuer sur la prise en charge du contrat. Sans réponse de ce dernier dans ce délai, la demande est refusée.
+
+4.   La rémunération
+
+Les modalités de rémunération sont les suivantes :
+
+– les apprentis âgés de 16 à 25 ans révolus perçoivent une rémunération fixée en pourcentage de la rémunération minimale garantie (RMG) prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail, en fonction de leur âge et de leur année de formation.
+
+|
+
+1re année |
+
+2e année |
+
+3e année |
+
+Avant 18 ans |
+
+27 % de la RMG |
+
+39 % de la RMG |
+
+55 % de la RMG |
+
+Entre 18 ans et 20 ans |
+
+43 % de la RMG |
+
+51 % de la RMG |
+
+67 % de la RMG |
+
+De 21 ans à 25 ans |
+
+53 % de la RMG |
+
+61 % de la RMG |
+
+78 % de la RMG |
+
+– les apprentis âgés de 26 ans et plus perçoivent une rémunération qui ne peut être inférieure à la rémunération minimale garantie (RMG) prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+
+L'apprenti a droit à la prise en charge de ses frais de transport pour se rendre de son domicile à son travail.
+
+Les conditions de rémunération des heures supplémentaires sont celles qui sont applicables au personnel de l'entreprise concernée.
+
+5.   Le financement
+
+Dans le cadre de la procédure mise en place par France compétences, la CNPE des sociétés financières détermine les niveaux de prise en charge relatifs aux diplômes et aux titres à finalité professionnelle.
+
+Les niveaux de prise en charge sont validés par France compétences et publiés et appliqués par l'OPCO. Ils sont disponibles sur le site internet de l'OPCO.
+
+(1) Arrêté du 17 décembre 2018, instruction n° DGEFP/ MPCP/2019/115 du 13 mai 2019 relative au déploiement national de la certification relative aux compétences de maître d'apprentissage/ tuteur dans le Bulletin officiel n° 2019/08-30 août 2019, inscription au répertoire spécifique établi par France compétences sous le numéro 4433.

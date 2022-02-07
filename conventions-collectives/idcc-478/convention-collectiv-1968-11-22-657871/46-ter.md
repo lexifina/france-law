@@ -1,99 +1,153 @@
 # Article 46 ter
 
-1. Le contrat de professionnalisation est ouvert :
+A.   Définition de l'action de formation
 
-- à tous les jeunes de 16 à 25 ans révolus sans qualification professionnelle reconnue ou qui veulent compléter leur formation initiale par l'acquisition d'un diplôme, d'un titre, d'un certificat de qualification professionnelle ou par le suivi d'une formation professionnelle d'adaptation à un emploi dans la branche ;
+L' action de formation se définit comme un parcours pédagogique permettant d'atteindre un objectif professionnel.
 
-- aux demandeurs d'emploi âgés de 26 ans et plus inscrits à l'ANPE. Le titulaire du contrat est salarié de l'entreprise et bénéficie de l'ensemble des dispositions applicables aux autres salariés dans la mesure où elles ne sont pas incompatibles avec l'objet du contrat. Le temps consacré à la formation alternée est compris dans l'horaire de travail en vigueur dans l'entreprise.
+L' action de formation a pour objet notamment de :
 
-2. Un tuteur est désigné par l'employeur. La personne choisie par celui-ci pour être tuteur est un salarié de l'entreprise. Ce dernier doit être volontaire et justifier d'une expérience professionnelle d'au moins 5 ans dans une qualification en rapport avec l'objectif de professionnalisation visé. L'employeur peut aussi assurer lui-même le tutorat s'il remplit les conditions de qualifications et d'expérience.
+– favoriser l'adaptation des salariés à leur poste de travail et à l'évolution des emplois, ainsi que leur maintien dans l'emploi ;
 
-Le tuteur a pour mission d'accueillir, d'aider, d'informer et de guider le titulaire du contrat et de veiller au respect de son emploi du temps. Il veille notamment à l'adéquation des activités confiées au sein de l'entreprise avec la formation poursuivie. Il assure la liaison avec l'organisme ou le service de formation chargé de mettre en oeuvre les actions de professionnalisation et participe à l'évaluation du suivi de la formation. L'employeur lui permet de disposer du temps nécessaire pour exercer ses fonctions et se former.
+– participer au développement des compétences des salariés en lien ou non avec leur poste de travail. Elles peuvent permettre d'acquérir une qualification plus élevée ;
 
-Lorsqu'il est salarié, le tuteur ne peut exercer simultanément ses fonctions à l'égard de plus de trois salariés titulaires de contrats de professionnalisation. L'employeur ne peut assurer simultanément le tutorat à l'égard de plus de deux salariés titulaires desdits contrats.
+– réduire pour les salariés dont l'emploi est menacé les risques résultant d'une qualification inadaptée à l'évolution des techniques et des structures des entreprises, en les préparant à une mutation d'activité soit dans le cadre soit en dehors de leur entreprise ;
 
-En cas de mobilité interne ou externe du tuteur, l'employeur procédera à son remplacement sans délai et selon les mêmes conditions.
+– favoriser la mobilité professionnelle ;
 
-3. Le contrat de professionnalisation est établi par écrit et déposé auprès de la direction départementale du travail, de l'emploi et de la formation professionnelle. Il peut prendre la forme :
+– favoriser l'intégration des salariés dans l'entreprise et dans les fonctions qui leur sont confiées ;
 
-- soit d'un contrat à durée déterminée (CDD) conclu en application de l'article L. 122-2 du code du travail, pour la durée de l'action de professionnalisation objet du contrat ;
+– contribuer à la sécurisation des parcours professionnels et à l'évolution de carrière des salariés.
 
-- soit d'un contrat à durée indéterminée (CDI) dont l'action de professionnalisation se situe au début du contrat.
+Les actions de formation professionnelle concourant au développement des compétences qui entrent dans le champ d'application des dispositions relatives à la formation professionnelle sont les actions de formation, les bilans de compétences, les actions permettant de faire valider les acquis de l'expérience (VAE), les actions de formation par l'apprentissage.
 
-Lors de l'embauche d'un titulaire en contrat de professionnalisation, le contrat précise notamment :
+En complément des modalités pédagogiques traditionnelles, l'action de formation peut être réalisée :
 
-- sa nature (à durée déterminée ou indéterminée) ;
+– en tout ou partie à distance et comprend :
 
-- sa durée lorsque celle-ci est déterminée ;
+–– une assistance technique et pédagogique approprié pour accompagner le bénéficiaire dans le déroulement de son parcours ;
 
-- la durée de la période d'essai, conformément aux dispositions de la convention collective ;
+–– une information sur les activités pédagogiques à effectuer à distance et leur durée moyenne ;
 
-- la durée et les dates de l'action de professionnalisation lorsqu'il est conclu à durée indéterminée ;
+–– des évaluations pendant et à la fin de la formation.
 
-- le niveau de formation et le coefficient du titulaire à la signature du contrat ;
+– en situation de travail et comprend :
 
-- le diplôme, le titre, le certificat de qualification professionnelle ou la qualification visés par l'action de professionnalisation ;
+–– l'analyse de l'activité de travail pour l'adapter à des fins pédagogiques ;
 
-- la durée des actions de formation théorique et pratique et leur répartition en fonction du diplôme, du titre, du certificat de qualification professionnelle ou de la qualification recherchés.
+–– la désignation d'un formateur-tuteur ;
 
-- la rémunération prévue pendant la durée du contrat à durée déterminée, ou la rémunération prévue pendant l'action de professionnalisation si le contrat est à durée indéterminée (cf. tableau en point 5) ;
+–– l'évaluation des acquis de la formation pendant et à la fin de l'action.
 
-- le nom et l'emploi occupé par le tuteur.
+D'une manière générale, les employeurs veillent à communiquer aux salariés les informations relatives aux différents dispositifs de formation existants.
 
-La durée du contrat de professionnalisation à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée est fonction du niveau de formation des salariés et des exigences inhérentes à la qualification visée. Cette durée est de 6 mois minimum et est normalement limitée à 12 mois.
+B.   Modalités de réalisation des actions de formation
 
-Toutefois, la durée peut être étendue au-delà de 12 mois, dans la limite de 24 mois :
+L'accès des salariés à des actions de formation professionnelle peut être assure :
 
-- pour les jeunes et demandeurs d'emploi sortis du système éducatif sans qualification professionnelle reconnue au sens de l'article L. 935-1 du code du travail ;
+– à l'initiative de l'employeur, le cas échéant, dans le cadre du plan de développement des compétences ;
 
-- lorsque la nature des qualifications visées l'exige (qualification professionnelle sanctionnée par un diplôme, titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles...).
+– à l'initiative du salarié, notamment par la mobilisation du compte personnel de formation.
 
-Le contrat de professionnalisation à durée déterminée ou l'action de professionnalisation du contrat à durée indéterminée peut être renouvelé(e) une fois si le bénéficiaire n'a pas pu obtenir la qualification envisagée pour cause d'échec aux épreuves d'évaluation de la formation suivie, de maternité, de maladie, d'accident du travail ou de trajet ou de défaillance de l'organisme de formation.
+1.   Réalisation des actions de formation dans le cadre du plan de développement des compétences
 
-Le recours aux contrats de professionnalisation et leur suivi sont assurés par le comité d'entreprise ou la délégation unique du personnel dans le cadre des dispositions légales.
+L'élaboration du plan de développement des compétences peut concerner toutes les entreprises quelle que soit leur taille. La mise en œuvre ou non du plan de développement des compétences relève de la décision pleine et entière de l'employeur, après consultation des représentants du personnel.
 
-4. La durée des actions théoriques (actions d'évaluation, de personnalisation du parcours de formation, d'accompagnement, enseignements généraux, professionnels ou technologiques) est fonction de la durée totale du contrat de professionnalisation à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée.
+Le plan de développement des compétences élaboré par l'employeur permet à l'entreprise d'appliquer son programme de formation s'il existe et de satisfaire à ses obligations en matière de formation. Il peut constituer un outil de gestion économique et des ressources humaines et de gestion prévisionnelle des emplois et des compétences. Il permet aussi de répondre aux orientations stratégiques de l'entreprise.
 
-Cette durée est au minimum de 15 % de la durée totale du contrat à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée ; elle ne peut être inférieure à 150 heures.
+L'employeur peut inscrire dans le plan de développement des compétences :
 
-Toutefois, selon le diplôme, le titre, le certificat de qualification professionnelle ou la qualification préparés, et selon le niveau initial du jeune ou du demandeur d'emploi, cette durée peut être supérieure à 25 %.
+– les actions de formation ;
 
-5. Les modalités de rémunération sont les suivantes :
+– les bilans de compétences ;
 
-- les personnes âgées de 16 à 25 ans révolus perçoivent au minimum une rémunération fixée en pourcentage de la rémunération minimale garantie (RMG) prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail, en fonction de leur âge et de leur niveau de formation :
+– les actions de validation des acquis de l'expérience ;
 
-1er CAS
+– les actions au développement des compétences, y compris numériques ;
 
-16 à 20 ans révolus
+– les actions visant à améliorer les pratiques du dialogue sociale dans les entreprises.
 
-QUALIFICATION INFÉRIEURE AU BAC PROFESSIONNEL ou titre ou diplôme professionnel de même niveau :
+L'employeur a deux obligations en matière de formation professionnelle :
 
-55 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+– assurer l'adaptation des salariés à leur poste de travail ;
 
-21 à 25 ans révolus
+– veiller au maintien dans l'emploi des salariés au regard notamment de l'évolution des emplois, des technologies et des organisations.
 
-QUALIFICATION INFÉRIEURE AU BAC PROFESSIONNEL ou titre ou diplôme professionnel de même niveau :
+Il peut également proposer des actions de formations qui participent au développement des compétences notamment numériques. Il favorise l'accès aux formations qualifiantes et diplômantes pour les femmes comme pour les hommes.
 
-70 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+Les actions de formation mises en œuvre à ces fins sont prévues, le cas échéant, par le plan de développement des compétences. Elles peuvent permettre d'obtenir une partie identifiée de certification professionnelle, classée au sein du RNCP et le cas échéant au sein du répertoire spécifique et visant à l'acquisition d'un bloc de compétences.
 
--
+Les managers exercent un rôle essentiel dans le rapprochement entre les besoins de l'entreprise et ceux des salariés en matière de formation.
 
-2e CAS
+Formations réalisées sur le temps de travail
 
-16 à 20 ans
+Les formations dites obligatoires au sens de l'article L. 6321-2 du code du travail, à savoir les actions de formation conditionnant l'exercice d'une activité ou d'une fonction en application d'une convention internationale ou de dispositions légales et réglementaires, sont réalisées sur le temps de travail et constituent donc du temps de travail effectif et donnent lieu pendant leur réalisation au maintien de la rémunération par l'employeur. La liste des formations obligatoires est déterminée au sein de chaque entreprise et doit être portée à la connaissance des salariés par tout moyen approprié.
 
-QUALIFICATION ÉGALE OU SUPÉRIEURE au bac professionnel ou titre ou diplôme professionnel de même niveau :
+En principe, les actions de formations autres que les actions de formation dites obligatoires, réalisées sur le temps de travail, constituent également du temps de travail effectif et donnent lieu pendant leur déroulement au maintien de la rémunération par l'employeur.
 
-65 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+Formations réalisées en tout ou partie hors du temps de travail à l'initiative de l'employeur
 
-21 à 25 ans révolus
+À défaut d'accord collectif d'entreprise, des actions de formation non obligatoires à l'initiative de l'employeur peuvent se dérouler en tout ou partie hors du temps de travail dans la limite de 23 heures par an et par salarié ou de 1,5 % du forfait pour celui soumis à un forfait en jours ou en heures sur l'année.
 
-QUALIFICATION ÉGALE OU SUPÉRIEURE au bac professionnel ou titre ou diplôme professionnel de même niveau :
+L'accord du salarié doit être formalisé par écrit et peut être dénoncé dans les 8 jours.
 
-80 % de la RMG prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+Le refus du salarié de participer à des actions de formation en dehors du temps de travail ou la dénonciation de son accord dans les 8 jours ne constitue ni une faute ni un motif de licenciement.
 
-Les demandeurs d'emploi âgés de 26 ans et plus perçoivent une rémunération qui ne peut être inférieure à la rémunération minimale garantie (RMG) prévue par la convention collective pour le coefficient hiérarchique mentionné au contrat de travail.
+Le salarié perçoit sa rémunération habituelle correspondant à son temps de travail, sans paiement d'heures supplémentaires.
 
-6. Avant la signature du contrat, le salarié est obligatoirement informé par écrit, par son entreprise ou l'organisme de formation, du programme de la formation et des conditions d'évaluation de ses acquis.
+2. Réalisation des actions de formation dans le cadre du compte personnel de formation (CPF)
 
-7. S'agissant du financement des contrats de professionnalisation, et en l'absence d'OPCA de branche, les entreprises concernées appliqueront les règles fixées par l'OPCA dont elles dépendent.
+a) Définition du CPF
+
+Le compte personnel de formation permet à chaque salarié de suivre à son initiative des formations visant à l'acquisition d'un premier niveau de qualification ou au développement de ses compétences et de ses qualifications.
+
+Le CPF est crédité en euros à la fin de chaque année et suit le salarié titulaire du compte tout au long de sa carrière professionnelle. La gestion du compte est assurée par la Caisse des dépôts et consignations et non par l'employeur.
+
+b) Alimentation du CPF
+
+Le CPF est alimenté à hauteur de 500 euros par an dans la limite de 5 000 euros pour un salarié ayant effectué une durée de travail supérieure ou égale à la moitié de la durée légale ou conventionnelle du travail sur l'ensemble de l'année. Les droits du salarié n'ayant pas effectué cette durée de référence dans l'année sont calculés à due proportion du temps de travail effectué.
+
+Le CPF est alimenté à hauteur de 800 euros par an dans la limite de 8 000 euros pour :
+
+– les bénéficiaires de l'obligation d'emploi (victimes d'accidents du travail ou de maladies professionnelles avec une incapacité permanente au moins égale à 10 % et titulaire d'une rente d'un régime de protection sociale obligatoire, les titulaires de l'allocation aux adultes handicapés même si leur allocation est suspendue en raison du montant de leurs ressources, les titulaires de la carte mobilité inclusion portant la mention invalidité …) ;
+
+– les salariés peu qualifiés à savoir les salariés qui n'ont pas atteint un niveau de formation sanctionné par un diplôme ou un titre professionnel enregistré et classé au niveau 3 du RNCP (niveau CAP/ BEP) ou une certification reconnue par la convention collective de la branche.
+
+c) Formations éligibles
+
+Les formations éligibles sont les formations certifiantes sanctionnées par :
+
+– une certification professionnelle enregistrée au répertoire national des certifications professionnelles (RNCP) ;
+
+– une certification ou une habilitation enregistrée au répertoire spécifique ;
+
+– une attestation de validation de blocs de compétences faisant partie d'une certification professionnelle enregistrée au RNCP.
+
+Sont également éligibles :
+
+– les actions permettant de faire valider les acquis de l'expérience (VAE) ;
+
+– les bilans de compétences ;
+
+– les actions de formation d'accompagnement et de conseil dispensées aux créateurs ou repreneurs d'entreprises ayant pour objet de réaliser leur projet de création ou de reprise d'entreprise et de pérenniser l'activité de celle-ci ;
+
+– la préparation de l'épreuve théorique du code de la route et de l'épreuve pratique du permis de conduire des véhicules du groupe léger (permis B) et du groupe lourd.
+
+Le compte peut être mobilisé par son titulaire pour la prise en charge d'une formation à l'étranger.
+
+d) Départ en formation
+
+S'agissant des formations suivies en dehors du temps de travail : le salarié n'a pas à demander l'accord de l'employeur et ne peut donc prétendre à aucune rémunération pour le temps de la formation.
+
+S'agissant des formations suivies en tout ou partie pendant le temps de travail : le salarié doit demander une autorisation d'absence au minimum de 60 jours calendaires avant le début d'une formation d'une durée inférieure à 6 mois et au minimum 120 jours avant pour une formation d'une durée de 6 mois et plus.
+
+À compter de la réception de la demande, l'employeur dispose de 30 jours calendaires pour notifier sa réponse au salarié. L'absence de réponse de l'employeur dans ce délai vaut acception de la demande. Les heures de formation ainsi effectuées sont considérées comme du temps de travail effectif et donnent lieu au maintien de la rémunération par l'employeur.
+
+e) Financement des formations éligibles au CPF
+
+Les frais pédagogiques et les frais liés à la validation des compétences et des connaissances afférents à la formation du CPF sont pris en charge par la Caisse des dépôts et consignations, en fonction des droits acquis et des abondements éventuels portés sur le CPF du salarié.
+
+f) Co-construction d'une formation avec l'employeur
+
+L'employeur et le salarié, ayant identifié un besoin de formation en lien avec les fonctions exercées par le salarié au sein de l'entreprise, peuvent définir ensemble les conditions d'une co-construction de l'action de formation, hors formations obligatoires.
+
+Dans ce cas, le salarié peut mobiliser les droits dont il dispose sur son compte personnel de formation, et bénéficie d'un abondement de l'employeur dans la limite du même montant et du coût de l'action de formation. Dans l'hypothèse où les moyens visés ci-dessus seraient insuffisants pour couvrir l'intégralité des frais de formation, y compris l'hébergement, les transports et les repas, l'employeur pourra prendre en charge tout ou partie de ces frais dans le cadre du plan de développement des compétences.
