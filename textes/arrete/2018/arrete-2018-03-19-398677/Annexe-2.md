@@ -52,7 +52,7 @@ Règles d'emploi
 
 (Supprimer le paragraphe inutile en fonction de la nature de l'établissement d'accueil)
 
-Le praticien est soumis aux dispositions prévues aux articles R. 6152-401 à R. 6152-427 du code de la santé publique sous réserve des dispositions du III au V de l'article R. 4111-35 du même code. (lorsque l'établissement d'accueil est un établissement de santé public)
+Le praticien est soumis aux dispositions prévues aux articles R. 6152-334 à R. 6152-394 à l'exception de l'article R. 6152-347 du code de la santé publique sous réserve des dispositions du III au V de l'article R. 4111-35 du même code. (lorsque l'établissement d'accueil est un établissement de santé public)
 
 Le praticien est embauché après signature d'un contrat de travail à durée déterminée, conformément aux dispositions du titre IV du livre II de la première partie du code du travail. (lorsque l'établissement d'accueil est un établissement de santé privé à but non lucratif)
 
