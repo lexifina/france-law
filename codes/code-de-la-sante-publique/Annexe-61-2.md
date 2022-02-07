@@ -78,7 +78,7 @@ Le présent contrat est conclu pour une durée de cinq années et prend effet à
 
 Il peut faire l'objet d'avenants dans les conditions et selon les procédures requises pour son établissement.
 
-Le contrat prend fin de plein droit si M....... cesse ses fonctions hospitalières à temps plein dans l'établissement, s'il renonce à l'exercice d'une activité libérale ou si l'autorisation d'exercer une telle activité lui est retirée.
+Le contrat prend fin de plein droit si la quotité de temps de travail de M … devient inférieure à huit demi-journées par semaine, s'il renonce à l'exercice d'une activité libérale ou si l'autorisation d'exercer une telle activité lui est retirée.
 
 Article 10
 
