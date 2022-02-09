@@ -64,19 +64,11 @@ De 8 h 30 à 12 heures et de 13 h 30 à 17 h 30 |
 
 Quai des Pêcheurs à la Criée |
 
-LEUCATE |
-
-11370 |
-
-Tous les jours de 9h30 à 12h et de 15 heures à 17 heures |
-
-|
-
 GRUISSAN |
 
 11430 |
 
-Tous les jours de 9h30 à 12h et de 15 heures à 17 heures |
+Tous les jours de 8h30 à 12h et de 15 heures à 19 heures |
 
 |
 
@@ -84,11 +76,9 @@ AGDE |
 
 34300 |
 
-De 8 heures à 10 heures et de 14h à 21 heures |
+De 8 heures à 10 heures et de 14 h à 21 heures |
 
-Quai Baulant
-
-Quai Soixante-Dix-Sept |
+Linéaire du quai de l'enceinte de la Halle à marée du grau d'Agde |
 
 SETE |
 
@@ -96,7 +86,7 @@ SETE |
 
 De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures |
 
-Quai de la Halle à Marée
+Quai de la consigne et quai Liciardi jusqu'au pont de la civette
 
 Quai d'Alger
 
@@ -106,9 +96,13 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
+Tous les jours de 9h00 à 11h00 et de
 
-Quai des Pompes |
+16h00 à 20h00
+
+|
+
+Quai du poste d'avitaillement du port de plaisance |
 
 FRONTIGNAN PLAGE |
 
@@ -116,17 +110,19 @@ FRONTIGNAN PLAGE |
 
 Tous les jours de 8 heures à 11 heures et de 17 heures à 21 heures |
 
-Quai des pêcheurs |
+Quai du port de pêche qui jouxte la D50 |
 
 GRAU-DU-ROI |
 
 30240 |
 
-De 8 h 30 à 12 h 30 et de 14 heures à 19 heures |
+De 8 h 30 à 12h30 et de 14h à 19 heures |
 
-Quai du Général de Gaulle (rive droite)
+Quai du Général-de-Gaulle (rive droite)
 
-Quai du 19 Mars 1962 |
+Quai du 19 Mars 1962
+
+Quai Colbert jusqu'au pont Tournant |
 
 LES SAINTES-MARIES-DE-LA-MER |
 
@@ -276,7 +272,7 @@ SARI-SOLENZARA |
 
 20145 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au samedi de 8 heures à 18 heures |
 
 Port communal de plaisance et de pêche |
 
@@ -284,7 +280,7 @@ BONIFACIO |
 
 20169 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au samedi de 8 heures à 18 heures |
 
 |
 
@@ -308,7 +304,7 @@ SAINT-FLORENT |
 
 20217 |
 
-Lundi au vendredi de 8 heures à 18 heures |
+Lundi au samedi de 8 heures à 18 heures |
 
 |
 
@@ -383,3 +379,19 @@ CARNON |
 De 7h à 9H et de 13H à 17H |
 
 Quai Auguste Meunier |
+
+SAGONE |
+
+20118 |
+
+Lundi au samedi-08h00 à 18H00 |
+
+Le grand quai |
+
+PROPRIANO |
+
+20110 |
+
+Lundi au samedi-08h00 à 18H00 |
+
+Quai des pêcheurs |

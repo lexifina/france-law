@@ -28,9 +28,9 @@ DUNKERQUE |
 
 59240 |
 
-|
+Tous les jours de 06H00 à 22H00 |
 
-|
+2 heures |
 
 |
 

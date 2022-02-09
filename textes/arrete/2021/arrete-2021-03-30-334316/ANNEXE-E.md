@@ -42,11 +42,11 @@ BOULOGNE SUR MER |
 
 62200 |
 
-Du lundi au vendredi |
+Du lundi au vendredi (hors jours fériés) de 9 heures à 17 heures |
 
 |
 
-|
+6 heures pour les navires non titulaires d'une AEP thon rouge |
 
 |
 
@@ -72,7 +72,19 @@ Quai de débarque du centre de marée
 
 Quai Lawton Collins |
 
-6 heures |
+6 heures pour les navires non titulaires d'une AEP thon rouge |
+
+|
+
+SAINT MALO |
+
+35400 |
+
+Du lundi au vendredi (hors jours fériés)-de 09h à 17h |
+
+Quai du Val (quai de la criée) |
+
+|
 
 |
 
@@ -206,9 +218,7 @@ LES SABLES-D'OLONNE |
 
 85180 |
 
-Du lundi au vendredi - de 04h à 18h et le dimanche de 4H00 heures à 15 heures
-
-Le dimanche de 9 heures à 15 heures |
+Du lundi au vendredi de 9h à 18h et le dimanche de 9H à 15H |
 
 Quais du port des Sables-d'Olonne |
 
@@ -282,7 +292,7 @@ SAINT-JEAN-DE-LUZ |
 
 64500 |
 
-Pour les navires non titulaires d'AEP ou titulaires d'AEP réalisant des captures en dehors des périodes de pêche autorisées, du dimanche au vendredi, de 10 heures à 17 heures
+Pour les navires non titulaires d'AEP du dimanche au vendredi, de 10 heures à 17 heures
 
 Pour les navires titulaires d'une AEP thon rouge, tous les jours de 04 heures à 00 heures |
 
@@ -356,19 +366,7 @@ GRUISSAN |
 
 11430 |
 
-Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
-
-|
-
-|
-
-|
-
-LEUCATE |
-
-11370 |
-
-Tous les jours de 9h30 à 12 heures et de 15 heures à 17 heures |
+Tous les jours de 8h30 à 12 heures et de 15 heures à 19 heures |
 
 |
 
@@ -382,9 +380,7 @@ AGDE |
 
 De 8 heures à 10 heures et de 14 h à 21 heures |
 
-Quai Baulant
-
-Quai Soixante-Dix-Sept |
+Linéaire du quai de l'enceinte de la Halle à marée du grau d'Agde |
 
 |
 
@@ -396,7 +392,7 @@ SETE |
 
 De 8 h 30 à 10 h 30 et de 16 h 30 à 21 heures |
 
-Quai de la Halle à Marée
+Quai de la consigne et quai Liciardi jusqu'au pont de la civette
 
 Quai d'Alger
 
@@ -410,9 +406,9 @@ PALAVAS-LES-FLOTS |
 
 34250 |
 
-Tous les jours de 9 heures à 11 heures et de 16 heures à 20 heures |
+Tous les jours de 9h00 à 11h00 et de 16 h00 à 20h00 |
 
-Quai des Pompes |
+Quai du poste d'avitaillement du port de plaisance |
 
 |
 
@@ -424,7 +420,7 @@ FRONTIGNAN PLAGE |
 
 Tous les jours de 8 heures à 11 heures et de 17 heures à 21 heures |
 
-Quai des pêcheurs |
+Quai du port de pêche qui jouxte la D50 |
 
 |
 
@@ -446,11 +442,13 @@ GRAU-DU-ROI |
 
 30240 |
 
-De 8 h 30 à 12h30 et de 14h à 19 heures |
+De 8 h 30 à 12h30 et de 14h à 19 heure |
 
 Quai du Général-de-Gaulle (rive droite)
 
-Quai du 19 Mars 1962 |
+Quai du 19 Mars 1962
+
+Quai Colbert jusqu'au pont Tournant |
 
 |
 
@@ -672,6 +670,18 @@ Port de la Figueirette |
 
 |
 
+CANNES |
+
+06400 |
+
+Tous les jours de 7H à minuit |
+
+|
+
+|
+
+|
+
 VALLAURIS GOLFE- JUAN |
 
 06220 |
@@ -700,7 +710,7 @@ SARI-SOLENZARA |
 
 20145 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au samedi de 8 heures à 18 heures |
 
 Port communal de plaisance et de pêche |
 
@@ -712,7 +722,7 @@ BONIFACIO |
 
 20169 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au samedi de 8 heures à 18 heures |
 
 |
 
@@ -736,7 +746,7 @@ SAINT-FLORENT |
 
 20217 |
 
-Lundi au vendredi-de 8 heures à 18 heures |
+Lundi au samedi de 8 heures à 18 heures |
 
 |
 
@@ -816,13 +826,25 @@ Tous les jours de 8h à 18h |
 
 |
 
-CANNES |
+SAGONE |
 
-06400 |
+20118 |
 
-Tous les jours de 7H à minuit |
+Lundi au samedi-08h00 à 18H00 |
+
+Le grand quai |
 
 |
+
+|
+
+PROPRIANO |
+
+20110 |
+
+Lundi au samedi-08h00 à 18H00 |
+
+Quai des pêcheurs |
 
 |
 

@@ -46,6 +46,6 @@ Demande d'autorisation de débarquement établie par : |
 
 IMPORTANT : Le débarquement doit obligatoirement avoir lieu dans un port désigné, aux jours, heures et lieux autorisés. |
 
-L'autorisation de débarquement doit être envoyée par le capitaine du navire de pêche français à l'autorité compétente de l'Etat du port, au moins quatre heures avant l'arrivée prévue, par tout moyen écrit de transmission : télécopie, SMS, courrier électronique, sauf délai supérieur prévu par le préfet territorialement compétent. Si la zone de pêche est située à moins de 4 heures du port, la quantité estimée de thon rouge peut être modifiée à tout moment avant l'arrivée à quai. |
+La demande d'autorisation de débarquement doit être envoyée par le capitaine du navire de pêche français à l'autorité compétente de l'Etat du port, au moins quatre heures avant l'arrivée prévue, par tout moyen écrit de transmission : télécopie, SMS, courrier électronique, sauf délai supérieur prévu par le préfet territorialement compétent. Si la zone de pêche est située à moins de 4 heures du port, la quantité estimée de thon rouge peut être modifiée jusqu'à une heure avant l'arrivée à quai. |
 
-Pour les débarquements effectués dans un port désigné français, l'autorité compétente pour la réception des demandes d'autorisation est le CNSP : SMS (00-33 (0)7-60-22-36-78), courrier électronique (cnsp-france@developpement-durable.gouv.fr) ou télécopie (33 (0) 2-97-55-23-75). |
+Pour les débarquements effectués dans un port désigné français, l'autorité compétente pour la réception des demandes d'autorisation est le CNSP : SMS (00-33 (0) 7-60-22-56-78), courrier électronique (cnsp-france@developpement-durable.gouv.fr) ou télécopie (33 (0) 2-97-55-23-75). |

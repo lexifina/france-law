@@ -22,7 +22,157 @@ Restrictions
 
 supplémentaires au
 
-débarquement (*) |
+débarquement |
+
+DUNKERQUE |
+
+59240 |
+
+Tous les jours de 06h00 à 22h00 |
+
+2 heures |
+
+|
+
+BOULOGNE |
+
+62200 |
+
+|
+
+2 heures |
+
+|
+
+DIEPPE |
+
+76200 |
+
+08h00 à 20h00 |
+
+|
+
+|
+
+FECAMP |
+
+76400 |
+
+08h00 à 20h00 |
+
+|
+
+|
+
+HONFLEUR |
+
+14600 |
+
+|
+
+|
+
+|
+
+TROUVILLE-SUR-MER |
+
+14360 |
+
+|
+
+|
+
+|
+
+DEAUVILLE |
+
+14800 |
+
+|
+
+|
+
+|
+
+DIVES-SUR-MER |
+
+14160 |
+
+|
+
+|
+
+|
+
+OUISTREHAM |
+
+14150 |
+
+|
+
+|
+
+|
+
+COURSEULLES |
+
+14470 |
+
+|
+
+|
+
+|
+
+PORT-EN-BESSIN |
+
+14520 |
+
+|
+
+|
+
+|
+
+GRANDCAMP-MAISY |
+
+14450 |
+
+|
+
+|
+
+|
+
+CHERBOURG |
+
+50100 |
+
+|
+
+|
+
+|
+
+BARNEVILLE-CARTERET |
+
+50270 |
+
+|
+
+|
+
+|
+
+GRANVILLE |
+
+50400 |
+
+|
+
+|
+
+|
 
 SAINT MALO |
 
@@ -413,5 +563,3 @@ HENDAYE |
 2 heures |
 
 |
-
-(*) La pesée de ces débarquements est effectuée obligatoirement en halle à marée. |

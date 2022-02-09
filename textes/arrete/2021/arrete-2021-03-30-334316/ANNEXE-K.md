@@ -28,4 +28,4 @@ Demande d'autorisation de transbordement à transmettre 8 heures avant le transb
 
 Rappel : le transbordement est interdit en mer
 
-Demande à transmettre au CNSP par SMS (00-33 (0)7-60-22-36-78), courrier électronique (cnsp-france@developpement-durable.gouv.fr) ou télécopie (33 (0) 2-97-55-23-75) 8 heures avant l'heure de transbordement souhaité.
+Demande à transmettre au CNSP par SMS (00-33 (0) 7-60-22-56-78), courrier électronique (cnsp-france@developpement-durable.gouv.fr) ou télécopie (33 (0) 2-97-55-23-75) 8 heures avant l'heure de transbordement souhaité.
