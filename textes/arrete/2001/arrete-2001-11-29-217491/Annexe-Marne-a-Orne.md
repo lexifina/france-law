@@ -224,19 +224,11 @@ NOMBRE
 
 d'emplois |
 
-NOMBRE DE POINTS
+NOMBRE DE POINTS (IM)
 
-(IM) par emploi |
+par emploi |
 
-Chef du service habitat et constructions durables |
-
-A |
-
-1 |
-
-30 points |
-
-Adjoint au chef du service habitat et constructions durables |
+Chef du service Habitat et Cohésion Territoriale |
 
 A |
 
@@ -244,7 +236,15 @@ A |
 
 30 points |
 
-Adjoint au chef de l'unité parc logement social public |
+Adjoint au chef du service Habitat et Cohésion Territoriale |
+
+A |
+
+1 |
+
+30 points |
+
+Adjoint au chef de l'unité Rénovation Urbaine Logement Social |
 
 B |
 
@@ -252,7 +252,7 @@ B |
 
 30 points |
 
-Chargé de projet au sein de l'unité programme de rénovation urbaine |
+Chargé de projet à l'unité Rénovation Urbaine et Logement Social |
 
 B |
 
@@ -1019,3 +1019,5 @@ Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1725827A), le
 Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1722358A), les dispositions dudit arrêté entrent en vigueur le 1er janvier 2016 pour ce qui concerne la direction régionale et départementale de la jeunesse, des sports et de la cohésion sociale de la Nouvelle-Aquitaine.
 
 Conformément à l'article 1er de l'arrêté du 7 mai 2019, les dispositions dudit arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Oise entrent en vigueur le 1er janvier 2018.
+
+Conformément à l'article 1er de l'arrêté du 2 février 2022 (NOR : TERK2203563A), la présente annexe est remplacée, à effet du 1er janvier 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle.
