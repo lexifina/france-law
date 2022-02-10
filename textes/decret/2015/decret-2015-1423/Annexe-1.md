@@ -270,10 +270,6 @@ Accord préalable à l'acquisition d'une arme des catégories A1, B, C ou D dans
 
 Articles R. 316-5 ET R. 316-6 |
 
-Demande de carte européenne d'armes à feu : première demande, renouvellement ou modification |
-
-Article R. 316-7 |
-
 Renouvellement d'autorisation de jeux et de transfert |
 
 Article R. 321-3 |
