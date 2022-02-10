@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Attribution de la concession de délégation de service public pour la restauration collective scolaire et accueils de loisirs
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-02-10
+- Matière : EDUCATION
+- Objet : Attribution de la concession de délégation de service public pour la restauration collective scolaire et accueils de loisirs
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2ODAsInB1ciI6ImJsb2JfaWQifX0=--d994a054b336fff0cbe4b6555fc2f3189021349f/100222_16.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
