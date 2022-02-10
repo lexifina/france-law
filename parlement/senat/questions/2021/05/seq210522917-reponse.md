@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210522917
+
+- Question : [SEQ210522917](seq210522917.md) — Opportunité d'ouvrir une maison de la justice et du droit dans le 13ème arrondissement de Paris
+
+## Réponse
+
+*Justice, JO du 2022-02-10, page 777*
+
+Si le territoire parisien dispose d'ores et déjà d'une offre importante en matière d'accès au droit et à la justice (MJD), le 13ème arrondissement est effectivement plus éloigné du tribunal judiciaire de Paris et des structures d'accès au droit et gagnerait à être mieux couvert. C'est notamment le cas de la partie la plus méridionale de cet arrondissement, qui borde le périphérique, où se situent cinq quartiers prioritaires (QP) et trois quartiers de veille active (QVA). Dans cette aire, 20 % des foyers sont dits « à bas revenus » (contre 12 % dans l'arrondissement parisien), et on compte une proportion élevée de foyers monoparentaux fragiles (24 % contre 12 % à Paris). L'isolement de ces quartiers en matière d'accès au droit a été accru par le déménagement contraint de la maison de justice et du droit (MJD) du 14ème arrondissement vers des locaux situés dans le 15ème arrondissement. La proximité jouant un rôle essentiel dans le réseau de l'accès au droit, le projet de création d'une MJD dans le 13ème arrondissement de Paris, présenté par les chefs de la cour d'appel de Paris, a été accueilli favorablement. Sous l'impulsion des chefs de juridiction et des élus locaux, la création d'une quatrième MJD devrait être effective dans le courant de l'année 2022. L'objectif est d'assurer un plus large accès au droit dans le cadre de permanences gratuites et confidentielles, de favoriser les actions de prévention de la délinquance, de mettre en œuvre une réponse adaptée à la petite délinquance par le recours à des mesures alternatives aux poursuites, mais également de proposer la mise en place de modes alternatifs de règlement des différends pour les litiges du quotidien.
