@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation du taux d’imposition des contributions directes locales pour l’année 2022
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-02-10
+- Matière : FINANCES
+- Objet : Fixation du taux d’imposition des contributions directes locales pour l’année 2022
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2NzgsInB1ciI6ImJsb2JfaWQifX0=--0177701dcc5548d2df5cdb63231d9bd42d59f159/100222_03.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
