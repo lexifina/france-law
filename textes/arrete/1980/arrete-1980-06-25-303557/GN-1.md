@@ -8,7 +8,7 @@ a) Etablissements installés dans un bâtiment :
 
 J Structures d'accueil pour personnes âgées et personnes handicapées ;
 
-L Salles d'auditions, de conférences, de réunions, de spectacles ou à usage multiple ;
+L Salles d'auditions, de conférences, de réunions, de spectacles ou polyvalentes ;
 
 M Magasins de vente, centres commerciaux ;
 

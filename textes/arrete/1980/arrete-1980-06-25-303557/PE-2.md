@@ -36,9 +36,9 @@ Toutefois, dans ce cas, lorsque les conditions suivantes sont simultanément res
 
 |
 
-|
-
 SEUILS DU 1er GROUPE |
+
+|
 
 |
 
@@ -48,13 +48,11 @@ Sous-sol |
 
 Etages |
 
-Ensemble
-
-des niveaux |
+Ensemble des niveaux |
 
 J |
 
-I. - Structures d'accueil pour personnes âgées : |
+I.-Structures d'accueil pour personnes âgées : |
 
 |
 
@@ -64,7 +62,7 @@ I. - Structures d'accueil pour personnes âgées : |
 
 |
 
-- effectif des résidents |
+-effectif des résidents |
 
 - |
 
@@ -74,7 +72,7 @@ I. - Structures d'accueil pour personnes âgées : |
 
 |
 
-- effectif total |
+-effectif total |
 
 - |
 
@@ -84,7 +82,7 @@ I. - Structures d'accueil pour personnes âgées : |
 
 |
 
-II. - Structures d'accueil pour personnes handicapées : |
+II.-Structures d'accueil pour personnes handicapées : |
 
 |
 
@@ -94,7 +92,7 @@ II. - Structures d'accueil pour personnes handicapées : |
 
 |
 
-- effectif des résidents |
+-effectif des résidents |
 
 - |
 
@@ -104,7 +102,7 @@ II. - Structures d'accueil pour personnes handicapées : |
 
 |
 
-- effectif total |
+-effectif total |
 
 - |
 
@@ -114,7 +112,7 @@ II. - Structures d'accueil pour personnes handicapées : |
 
 L |
 
-Salle d'auditions, de conférences, de réunions multimédia |
+Salle d'auditions, de conférences, de réunions, de pari, salle réservée aux associations, salle de quartier (ou assimilée), salle multimédia, salle polyvalente à dominante sportive, dont la superficie unitaire est supérieure ou égale à 1 200 m2, ou dont la hauteur sous plafond est inférieure à 6,50 m, autre salle polyvalente non visée aux chapitre XII (type X, article X 1) |
 
 100 |
 
@@ -124,7 +122,7 @@ Salle d'auditions, de conférences, de réunions multimédia |
 
 |
 
-Salle de spectacles, de projections ou à usage multiple |
+Salle de spectacles, de projections (y compris les cirques non forains), cabarets |
 
 20 |
 
@@ -224,9 +222,7 @@ Salles d'expositions |
 
 U |
 
-Etablissements de soins :
-
-- sans hébergement |
+Etablissements de soins :-sans hébergement |
 
 - |
 
@@ -236,7 +232,7 @@ Etablissements de soins :
 
 |
 
-- avec hébergement |
+-avec hébergement |
 
 - |
 
@@ -318,9 +314,7 @@ Plein air (établissements de) |
 
 (**) Si l'établissement ne comporte qu'un seul niveau situé en étage : 20.
 
-(***) Les gares souterraines et mixtes sont classées dans le 1er groupe quel que soit l'effectif.
-
-|
+(***) Les gares souterraines et mixtes sont classées dans le 1er groupe quel que soit l'effectif. |
 
 NOTA :
 
