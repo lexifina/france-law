@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Lancement d’un appel d’offres pour la fourniture d’équipements électroménagers professionnels et courants
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-02-10
+- Matière : MOYENS GENERAUX
+- Objet : Lancement d’un appel d’offres pour la fourniture d’équipements électroménagers professionnels et courants
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5ODksInB1ciI6ImJsb2JfaWQifX0=--f4f29a11785d8f517336debb65a47f8991c3de3d/100222_19.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
