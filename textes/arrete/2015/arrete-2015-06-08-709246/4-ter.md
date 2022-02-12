@@ -8,4 +8,4 @@ Conformément aux dispositions figurant à l'article 4 et afin de limiter la con
 
 -son article 14.1. h, par des navires utilisant des filets maillants (codes d'engins : GNS, GND, GNC, GTR, GTN) dans les sous-zones CIEM VIII et IX et dans les zones Copace 34.1.1,34.1.2 et 34.2.0 ;
 
-les rejets de maquereau réalisés dans le cadre des exemptions de minimis susvisées sont limités à 100 kg par marée par navire jusqu'au 31 décembre 2022.
+les rejets de maquereau réalisés dans le cadre des exemptions de minimis susvisées sont limités à 100 kg par marée par navire jusqu'au 31 décembre 2021.
