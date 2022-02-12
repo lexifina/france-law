@@ -6,7 +6,7 @@ PIÈCES NÉCESSAIRES À L'INSTRUCTION D'UN DOSSIER D'AGRÉMENT D'UN ÉTABLISSEME
 
 1.1. Organisation générale.
 
-1.2. Un extrait K bis du registre du commerce et des sociétés, original et datant de moins de trois mois.
+1.2. (Supprimé)
 
 1.3. Les informations relatives à la propriété ou à la location des locaux et outils de production ainsi que leurs actes d'acquisition.
 
