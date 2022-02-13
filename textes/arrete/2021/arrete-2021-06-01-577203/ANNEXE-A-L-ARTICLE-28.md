@@ -4,6 +4,8 @@ Les obligations relatives à la réalisation des tests par les professionnels so
 
 1. Accueil des personnes soumis aux tests antigéniques :
 
+- affichage de la profession et de l'identité (nom, prénom, n° RPPS) du professionnel de santé responsable du lieu de dépistage, ainsi que, le cas échéant, de l'identité (nom, prénom) et la qualité (devant relever de l'une des catégories mentionnées aux articles 25 et 26) des personnes intervenant sous sa responsabilité ;
+
 - vérifier avant la réalisation du test, que la personne répond aux critères d'éligibilité et qu'elle est informée des avantages et des limites du test ;
 
 - recueillir son consentement libre et éclairé.
@@ -30,7 +32,7 @@ Les obligations relatives à la réalisation des tests par les professionnels so
 
 2 bis. Réalisation de l'acte :
 
-- le professionnel de santé assure un encadrement effectif lorsque des professionnels mentionnés aux 2° et 3° du V de l'article 25 et à l'article 26 participent à la réalisation des tests sous sa responsabilité ;
+- le professionnel de santé est présent sur le lieu de dépistage aux horaires d'ouverture et assure un encadrement effectif lorsque des professionnels mentionnés aux 2° et 3° du V de l'article 25 et à l'article 26 participent à la réalisation des tests sous sa responsabilité ;
 
 - le test antigénique doit être réalisé conformément aux prescriptions de la notice du fabricant dans le respect de conditions de réalisation notamment de température, en particulier pour le déroulement de la phase analytique.
 

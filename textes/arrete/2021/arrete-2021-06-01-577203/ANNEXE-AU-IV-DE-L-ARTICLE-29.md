@@ -38,7 +38,7 @@ Une pièce d'identité, et l'un des justificatifs suivants :
 
 Indemnité majorée le cas échéant d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
-3,50 € l'autotest
+3,50 € l'autotest et, à compter du 15 février 2022, 3,35 €.
 
 tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
@@ -52,13 +52,15 @@ A défaut, attestation sur l'honneur de la personne contact ou, pour les mineurs
 
 Indemnité majorée le cas échéant d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
-3,50 € l'autotest
+3,50 € l'autotest et, à compter du15 février 2022, 3,35 €.
 
 tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2
 
-3,80 € l'autotest spécifique destiné aux enfants de moins de 12 ans
+3,80 € l'autotest plus particulièrement destiné et conçu pour les enfants et, à compter du 15 février 2022, 4,10 €.
 
-tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
+tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2
+
+|
 
 - Personnels exerçant leurs fonctions dans les établissements d'enseignement relevant du livre IV de la deuxième partie du code de l'éducation ainsi que dans les services d'hébergement, d'accueil et d'activités périscolaires qui y sont associés |
 
@@ -66,9 +68,11 @@ Une pièce d'identité et une attestation nominative de délivrance remise par l
 
 2 € HT pour la dispensation à l'assuré de 10 autotests pour un mois. |
 
-3,51 € l'autotest
+3,51 € l'autotest et, à compter du 15 février 2022, 3,36 €.
 
-tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
+tarif majoré d'un coefficient pour les départements et régions mentionnées dans le tableau 2
+
+|
 
 Tableau 2. - Majoration applicables à l'indemnité de dispensation de l'autotest et au tarif unitaire de l'autotest remboursé à l'assurance maladie
 
