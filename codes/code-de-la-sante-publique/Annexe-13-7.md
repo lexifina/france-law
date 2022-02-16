@@ -242,6 +242,6 @@ Source radioactive scellée : source radioactive dont les substances radioactive
 
 Source scellée de haute activité : source radioactive scellée contenant un radionucléide dont l'activité est égale ou supérieure au niveau d'activité défini pour ce radionucléide dans la cinquième colonne du tableau 2 de l'annexe 13-8 de la première partie du présent code. Sauf disposition contraire, le classement d'une source radioactive en source scellée de haute activité est établi en tenant compte de la décroissance radioactive.
 
-Substance radioactive d'origine naturelle : toute substance qui contient un ou plusieurs radionucléides naturels dont la ou des concentrations d'activité massique sont supérieures à une ou plusieurs valeurs limites d'exemption définies dans le tableau 1 de l'annexe 13-8 de la première partie du présent code.
+Substance radioactive d'origine naturelle : toute substance qui contient un ou plusieurs radionucléides naturels non utilisés pour leurs propriétés radioactives, fissiles ou fertiles dont la ou des concentrations d'activité massique sont supérieures à une ou plusieurs valeurs limites d'exemption définies dans le tableau 1 de l'annexe 13-8 de la première partie du présent code.
 
 Utilisation : tout traitement, manipulation, emploi d'une source de rayonnements ionisants ou, plus généralement, toute opération réalisée sur ou à l'aide d'une source de rayonnements ionisants, à l'exception de sa fabrication et du transport de substances radioactives.
