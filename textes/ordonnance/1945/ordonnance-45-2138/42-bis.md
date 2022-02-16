@@ -1,6 +1,6 @@
 # Article 42 bis
 
-Il est institué auprès du Conseil supérieur de l'ordre des experts-comptables une commission nationale chargée de statuer sur l'inscription des associations de gestion et de comptabilité au tableau et de tenir la liste de ces associations.
+Il est institué auprès du Conseil national de l'ordre des experts-comptables une commission nationale chargée de statuer sur l'inscription des associations de gestion et de comptabilité au tableau et de tenir la liste de ces associations.
 
 La commission statue dans les conditions de délai et d'appel prévues à l'article 42.
 
