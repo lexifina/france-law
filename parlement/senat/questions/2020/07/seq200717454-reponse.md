@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717454
+
+- Question : [SEQ200717454](seq200717454.md) — Fiscalité applicable aux biocarburants avancés à base de graisses de flottation
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-02-17, page 905*
+
+Le carburant B30 contient entre 24 % et 30 % de biocarburant, et ne bénéficie pas d'un taux réduit d'accise sur l'énergie (ex-TICPE, notamment), contrairement au carburant B100. Cette situation est cohérente au regard des qualités environnementales respectives de ces carburants, le B100 étant intégralement produit à partir d'huiles végétales. En outre, le droit européen encadre l'application d'un tel tarif réduit aux consommations de biocarburants, en prévoyant notamment que cet avantage ne conduise pas à surcompenser les surcoûts de production, et en indexant son montant sur l'évolution du cours des matières premières. L'application du tarif réduit d'accise sur l'énergie au carburant B30 ne pourrait respecter ces critères et serait donc contraire au droit européen. Par ailleurs, une part importante des recettes de l'accise sur les essences et les gazoles est affectée au financement des régions et des départements : la fixation d'un tarif avantageux en faveur du B30 conduirait ainsi à une diminution des recettes de ces collectivités territoriales. Par ailleurs, le gazole B50 n'est pas reconnu comme carburant autorisé au titre de l'article 265 ter du code des douanes et ne peut donc pas bénéficier d'une fiscalité privilégiée. Pour soutenir les biocarburants produits à partir de graisses de flottation, le Gouvernement privilégie la taxe incitative relative à l'utilisation d'énergies renouvelables dans les transports (TIRUERT). En effet, dans le calcul des objectifs d'incorporation de ce dispositif, ces derniers bénéficient d'un régime avantageux puisqu'ils peuvent être comptabilisés pour le double de leur contenu énergétique réel.
