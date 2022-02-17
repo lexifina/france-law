@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210421919
+
+- Question : [SEQ210421919](seq210421919.md) — Consolidation de la place de la médiation en France
+
+## Réponse
+
+*Justice, JO du 2022-02-17, page 909*
+
+Le Gouvernement est particulièrement attentif au souhait des professionnels du secteur qui réclament depuis plusieurs années un encadrement de la médiation et la création d'une instance nationale dédiée. Le collectif Médiation 21, que vous citez, a remis à la garde des sceaux en novembre 2019 le Livre Blanc de la médiation et a proposé la création d'un organisme pluripartite composé d'une majorité de médiateurs confirmés représentant les différentes organisations de la médiation qui aurait en charge la définition d'un référentiel de formation et le contrôle du statut de médiateur dont la création est en outre sollicitée. A l'heure actuelle, il n'existe en France aucun organisme ayant compétence pour certifier, agréer des médiateurs ou pour labelliser les formations à la médiation, à l'exception de la commission d'évaluation et de contrôle de la médiation de la consommation, instituée en 2016, qui établit une liste de médiateurs de la consommation. Il n'existe pas davantage d'instance ou de règlementation nationale fixant des règles de déontologie pour les médiateurs. La médiation n'est pas une activité qui se prête à une rigidification trop stricte de son cadre. C'est pourquoi le Gouvernement s'est montré favorable à la création d'un Conseil national de la médiation comme une instance de proposition, de réflexion et de consultation où seraient entendus tous les acteurs de la médiation. Ce dernier a donc été créé par la loi n° 2021-1729 du 22 décembre 2021 pour la confiance dans l'institution judiciaire (article 45). Le Gouvernement travaille actuellement à la rédaction d'un décret qui en fixera l'organisation, les moyens et les modalités de fonctionnement.
