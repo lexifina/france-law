@@ -20,7 +20,7 @@ MESURES
 
 techniques |
 
-Recommandation 19-02 de la CICTA visant à remplacer la recommandation 16-01 de la CICTA sur un programme pluriannuel de conservation et de gestion pour les thonidés tropicaux |
+Recommandation 21-01 de la CICTA remplaçant la recommandation 19-02 visant à remplacer la recommandation 16-01 sur un programme pluriannuel de conservation et de gestion pour les thonidés tropicaux ; x |
 
 La capture de thonidés tropicaux dans la zone de la Convention par des navires de longueur hors tout égale ou supérieure à 20 mètres est soumise à la détention d'une autorisation de pêche ORGP thon tropicaux en zone ICCAT. Les navires de longueur hors tout égale ou supérieure à 20 mètres non titulaires d'une autorisation de pêche ORGP thons tropicaux en zone ICCAT ne sont pas autorisés à capturer, à retenir à bord, à transborder, à transférer, à traiter des thonidés tropicaux provenant de la zone de la Convention. |
 
@@ -38,7 +38,7 @@ Au 31 mai inclus de l'année de gestion en cours. |
 
 2. Tout déploiement, toute récupération de dispositifs de concentration de poissons (DCP) dans le cadre de la capture de thonidés tropicaux doivent être consignés dans un carnet de pêche mentionnant la position, la date, le DCP utilisé et les résultats de l'opération.
 
-3. Les captures de thonidés tropicaux sont interdites sur DCP du 1er janvier au 31 mars 2021 pour l'ensemble de la zone couverte par la convention CICTA. Le déploiement des DCP est interdit 15 jours avant la période de fermeture de la pêche, soit le 16/12/2020 à 00h00 GMT. A tout moment, le nombre de DCP opérationnel est limité à 300 par navire.
+3. Les captures de thonidés tropicaux sont interdites sur DCP du 1er janvier au 13 mars 2022 pour l'ensemble de la zone couverte par la convention CICTA. Le déploiement des DCP est interdit 15 jours avant la période de fermeture de la pêche, soit le 16/12/2020 à 00h00 GMT. A tout moment, le nombre de DCP opérationnel est limité à 300 par navire.
 
 4. Pour les navires titulaires de l'autorisation de pêche du thon germon (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5° N, les prises accessoires de thon obèse (Thunnus obesus) peuvent être autorisées dans la limite de trois tonnes par navire et par marée.
 
