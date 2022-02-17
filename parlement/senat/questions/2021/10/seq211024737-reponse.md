@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211024737
+
+- Question : [SEQ211024737](seq211024737.md) — Autorisations nécessaires à la production d'électricité par une commune
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-02-17, page 900*
+
+Les installations hydroélectriques mises en place dans les marées, les lacs et les cours d'eau sont soumises aux dispositions du code de l'énergie, qui instaure un régime de concession au-delà d'une puissance de 4 500 kilowatts et d'autorisation en deçà, en application de l'article L. 511-5 de ce code, sans préjudice des exceptions posées à l'article L. 511-4 du même code. Les installations placées sous le régime de l'autorisation le sont selon les modalités définies à l'article L. 531-1 du code de l'énergie. L'octroi de l'autorisation d'exploiter par l'autorité administrative est comprise dans l'autorisation environnementale délivrée selon la nomenclature loi sur l'eau dès lors qu'elle entre dans le champ des dispositions des articles L. 214-1 et suivants du code de l'environnement. Lorsque l'installation envisagée n'est pas soumise aux articles précités du code de l'environnement, son autorisation se fait au titre de l'article L. 311-5 du code de l'énergie. Elle est notamment compatible avec la programmation pluriannuelle de l'énergie. Malgré le débit assez important du cours d'eau, l'ouvrage prévu par la commune est sans doute en deçà d'une puissance de 4 500 kilowatts qui ferait basculer l'installation sous le régime de la concession octroyée par le préfet, voire, pour les plus grosses installations de 100 mégawatts, par le ministre chargé de l'énergie. Les installations concédées comprennent par exemple des barrages de retenue. Elles relèvent de l'État, qui en délègue la construction et l'exploitation à un concessionnaire dans les formes prévues par le code de la commande publique.
