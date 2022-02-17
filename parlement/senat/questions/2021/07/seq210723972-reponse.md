@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723972
+
+- Question : [SEQ210723972](seq210723972.md) — Fraudes au « pass sanitaire »
+
+## Réponse
+
+*Solidarités et santé, JO du 2022-02-17, page 931*
+
+Il est nécessaire de distinguer une « fausse attestation », qui est une imitation, d'une attestation qui a été produite avec Vaccin Covid mais qui s'avère frauduleuse dans la mesure où un professionnel de santé a renseigné le système de suivi de la campagne « comme si » la personne avait été vaccinée alors qu'elle n'a reçu aucune injection. Ces fraudes sont d'une ampleur très limitée notamment du fait du fonctionnement collectif des centres de vaccination, qui comprend différentes équipes pour la préparation des doses d'une part et pour l'injection et l'édition du certificat de vaccination d'autre part. De plus, les professionnels de santé qui les pratiquent s'exposent à des sanctions lourdes, ordinales et pénales, et les mesures nécessaires ont été prévues pour éviter l'émission et l'utilisation de pass sanitaires frauduleux. Les agences régionales de santé (ARS) contrôlent en continu le nombre de rendez-vous ouverts dans les centres de vaccination, le volume de doses de vaccins qui leur sont attribués et le nombre de vaccination effectivement réalisés (certificats édités), afin de vérifier leur cohérence. En application de l'article 40 du code de procédure pénale, toute infraction constatée relativement à l'émission ou à l'utilisation d'un faux pass sanitaire est signalée par l'ARS au Procureur de la République. Dans le cadre d'une réquisition judiciaire, l'assurance maladie est en capacité de transmettre à un Officier de Police Judiciaire (OPJ) les informations permettant d'identifier le personnel soignant ou le centre de vaccination, la date et l'heure précise à laquelle l'attestation a été générée. Par ailleurs, une liste noire a été mise en place sur l'application TousAntiCovid Vérif et permet de bloquer l'utilisation des pass frauduleux identifiés.
