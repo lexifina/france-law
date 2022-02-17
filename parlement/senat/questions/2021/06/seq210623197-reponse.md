@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210623197
+
+- Question : [SEQ210623197](seq210623197.md) — Moyens d'action des maires face aux infractions en matière d'urbanisme
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-02-17, page 896*
+
+Le juge des référés du tribunal administratif de Strasbourg a été saisi en référé-suspension sur le fondement de l'article L. 521-1 du code de justice administrative (CJA). En l'espèce, par ordonnance n° 2006666 du 4 février 2021, le juge des référés a prononcé la suspension de l'arrêté de mise en demeure du maire au motif qu'il y avait un doute sérieux quant à la légalité de cet arrêté. Il convient toutefois d'attendre la décision du juge du fond pour connaître son analyse sur la légalité de l'arrêté imposant la replantation des arbres remarquables. Sans présager de la décision du juge administratif au fond, il convient de rappeler que le législateur a souhaité renforcer les pouvoirs du maire pour lutter efficacement contre les infractions au code de l'urbanisme par la loi n° 2019-1461 dite Engagement et Proximité du 27 décembre 2019. Cette loi a inscrit des prérogatives nouvelles du maire aux articles L. 481-1 et suivants du code de l'urbanisme. Elles peuvent se traduire notamment par la mise en demeure de la personne responsable de régulariser sa situation, soit par l'obligation de procéder aux opérations nécessaires à la mise en conformité des travaux aux dispositions dont la méconnaissance a été constatée, soit par l'obligation de déposer, selon le cas, une demande d'autorisation ou une déclaration préalable visant à leur régularisation. Cette mise en demeure peut être assortie d'une astreinte. Ces mesures administratives peuvent être prononcées si des travaux ont été entrepris ou exécutés en méconnaissance des obligations imposées par le code de l'urbanisme, par les plans locaux d'urbanisme ou par les autorisations d'urbanisme.
