@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210824149
+
+- Question : [SEQ210824149](seq210824149.md) — Compensation par l'État des dépenses engagées par les collectivités dans le cadre de la mise en place des centres de vaccination
+
+## Réponse
+
+*Solidarités et santé, JO du 2022-02-17, page 935*
+
+Les structures organisant le bon fonctionnement des centres de vaccination, dont les collectivités territoriales, peuvent faire appel au Fonds d'Intervention Régional (FIR) des agences régionales de santé (ARS). Les conventions de subvention signées entre les ARS et les structures portant les centres de vaccination visent à financer les surcoûts auxquelles celles-ci sont exposées, notamment au regard des fonctions d'accueil, d'organisation, de coordination et de logistique, sans que cette liste soit exhaustive. Afin d'adapter le FIR aux situations locales spécifiques à la gestion de la crise sanitaire, son cadre a été actualisé par le message MINSANTE n° 2021-50 relatif aux rémunérations et au financement de la vaccination. Au titre des surcoûts pris en charge par le FIR sont également comptabilisés les frais de gestion du centre, les investissements (informatiques, matériel médical) et le transport de patients âgés ou vivant dans des zones rurales. Les dépenses liées aux ressources humaines concernant l'embauche de vacataires ou les heures supplémentaires des agents travaillant dans le centre de vaccination sont également compensées par le FIR. Des conventions de financement prévoyant un montant forfaitaire de 50 000 euros au titre de l'amorçage du fonctionnement de chaque centre de vaccination porté par la collectivité sont passées avec les ARS pour une durée de 6 mois renouvelable. Ce montant, qui n'est pas un plafond global et définitif, est ainsi ajustable ex post en fonction des dépenses éligibles effectivement constatées.
