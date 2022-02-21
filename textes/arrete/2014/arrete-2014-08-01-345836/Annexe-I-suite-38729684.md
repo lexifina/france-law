@@ -154,18 +154,6 @@ Haute-Savoie
 
 |
 
-Alex (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Allèves
 
 |
@@ -178,31 +166,7 @@ Haute-Savoie
 
 |
 
-Arâches-la-Frasse (&)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Aviernoz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Ballaison (1)
 
 |
 
@@ -322,18 +286,6 @@ Haute-Savoie
 
 |
 
-Chamonix-Mont-Blanc (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Champanges
 
 |
@@ -394,18 +346,6 @@ Haute-Savoie
 
 |
 
-Chens-sur-Léman (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Chevenoz
 
 |
@@ -442,30 +382,6 @@ Haute-Savoie
 
 |
 
-La Clusaz (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Combloux (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Contamine-Sarzin
 
 |
@@ -478,67 +394,7 @@ Haute-Savoie
 
 |
 
-Cordon (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Cusy
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Demi-Quartier (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Dingy-Saint-Clair (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Domancy (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Doussard (1)
 
 |
 
@@ -622,18 +478,6 @@ Haute-Savoie
 
 |
 
-Excenevex (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Fessy
 
 |
@@ -659,30 +503,6 @@ Haute-Savoie
 |
 
 La Forclaz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Les Gets (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Le Grand-Bornand (1)
 
 |
 
@@ -754,30 +574,6 @@ Haute-Savoie
 
 |
 
-Les Houches (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Larringes (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Lathuile
 
 |
@@ -791,18 +587,6 @@ Haute-Savoie
 |
 
 Leschaux
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Loisin (1)
 
 |
 
@@ -886,31 +670,7 @@ Haute-Savoie
 
 |
 
-Massongy (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Maxilly-sur-Léman
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Megève (1)
 
 |
 
@@ -946,18 +706,6 @@ Haute-Savoie
 
 |
 
-Menthon-Saint-Bernard (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Menthonnex-sous-Clermont
 
 |
@@ -982,18 +730,6 @@ Haute-Savoie
 
 |
 
-Messery (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Minzier
 
 |
@@ -1006,31 +742,7 @@ Haute-Savoie
 
 |
 
-Montmin (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Mont-Saxonnex
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Morzine (1)
 
 |
 
@@ -1078,18 +790,6 @@ Haute-Savoie
 
 |
 
-Nernier (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Nonglard
 
 |
@@ -1126,18 +826,6 @@ Haute-Savoie
 
 |
 
-Passy
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Peillonnex
 
 |
@@ -1151,18 +839,6 @@ Haute-Savoie
 |
 
 Perrignier
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Praz-sur-Arly (1)
 
 |
 
@@ -1246,18 +922,6 @@ Haute-Savoie
 
 |
 
-Saint-Gervais-les-Bains (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Saint-Gingolph
 
 |
@@ -1270,31 +934,7 @@ Haute-Savoie
 
 |
 
-Saint-Jean-de-Sixt (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Saint-Jean-de-Tholome
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Saint-Jorioz (1)
 
 |
 
@@ -1366,43 +1006,7 @@ Haute-Savoie
 
 |
 
-Sciez (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Servoz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Sévrier (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Talloires (1)
 
 |
 
@@ -1510,18 +1114,6 @@ Haute-Savoie
 
 |
 
-Veyrier-du-Lac (1)
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
 Villard
 
 |
@@ -1535,18 +1127,6 @@ Haute-Savoie
 |
 
 Les Villards-sur-Thônes
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Villaz (1)
 
 |
 
@@ -1595,18 +1175,6 @@ Haute-Savoie
 |
 
 Viuz-en-Sallaz
-
-|
-
-74
-
-|
-
-Haute-Savoie
-
-|
-
-Yvoire (1)
 
 |
 
@@ -1703,18 +1271,6 @@ Seine-Maritime
 |
 
 Eu
-
-|
-
-76
-
-|
-
-Seine-Maritime
-
-|
-
-Fécamp
 
 |
 
@@ -7873,7 +7429,3 @@ Somme
 Caours
 
 |
-
-NOTA :
-
-(1) Supprimé par l'arrêté du 16 février 2022 ( LOGL2203825A ) à compter du 21 février 2022.

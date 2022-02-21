@@ -1450,18 +1450,6 @@ Pas-de-Calais
 
 |
 
-Arras
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Athies
 
 |
@@ -1583,18 +1571,6 @@ Pas-de-Calais
 |
 
 Bénifontaine
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
-Berck
 
 |
 
@@ -2002,18 +1978,6 @@ Pas-de-Calais
 
 |
 
-Cucq
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Cuinchy
 
 |
@@ -2219,18 +2183,6 @@ Pas-de-Calais
 |
 
 Estrée-Cauchy
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
-Etaples
 
 |
 
@@ -2938,18 +2890,6 @@ Pas-de-Calais
 
 |
 
-Merlimont
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Meurchin
 
 |
@@ -3011,18 +2951,6 @@ Pas-de-Calais
 |
 
 Nesles
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
-Neufchâtel-Hardelot
 
 |
 
@@ -3358,18 +3286,6 @@ Pas-de-Calais
 
 |
 
-Saint-Martin-Boulogne
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
 Saint-Nicolas
 
 |
@@ -3503,18 +3419,6 @@ Pas-de-Calais
 |
 
 Tilques
-
-|
-
-62
-
-|
-
-Pas-de-Calais
-
-|
-
-Le Touquet-Paris-Plage (1)
 
 |
 
@@ -3790,31 +3694,7 @@ Puy-de-Dôme
 
 |
 
-Aubière
-
-|
-
-63
-
-|
-
-Puy-de-Dôme
-
-|
-
 Aulnat
-
-|
-
-63
-
-|
-
-Puy-de-Dôme
-
-|
-
-Beaumont
 
 |
 
@@ -3887,18 +3767,6 @@ Puy-de-Dôme
 |
 
 Châtel-Guyon
-
-|
-
-63
-
-|
-
-Puy-de-Dôme
-
-|
-
-Cournon-d’Auvergne
 
 |
 
@@ -5074,18 +4942,6 @@ Pyrénées-Orientales
 
 |
 
-Céret
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
 Claira
 
 |
@@ -5243,18 +5099,6 @@ Pyrénées-Orientales
 |
 
 Saint-André
-
-|
-
-66
-
-|
-
-Pyrénées-Orientales
-
-|
-
-Saint-Estève
 
 |
 
@@ -5507,18 +5351,6 @@ Bas-Rhin
 |
 
 Bischoffsheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Bischwiller
 
 |
 
@@ -5795,18 +5627,6 @@ Bas-Rhin
 |
 
 Griesheim-près-Molsheim
-
-|
-
-67
-
-|
-
-Bas-Rhin
-
-|
-
-Haguenau
 
 |
 
@@ -6478,30 +6298,6 @@ Haut-Rhin
 
 |
 
-Cernay
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Colmar
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Dannemarie
 
 |
@@ -6670,18 +6466,6 @@ Haut-Rhin
 
 |
 
-Illzach
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Ingersheim
 
 |
@@ -6731,18 +6515,6 @@ Haut-Rhin
 |
 
 Kembs
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
-Kingersheim
 
 |
 
@@ -7258,18 +7030,6 @@ Haut-Rhin
 
 |
 
-Wittenheim
-
-|
-
-68
-
-|
-
-Haut-Rhin
-
-|
-
 Zellenberg
 
 |
@@ -7715,18 +7475,6 @@ Sarthe
 |
 
 Laigné-en-Belin
-
-|
-
-72
-
-|
-
-Sarthe
-
-|
-
-Le Mans
 
 |
 

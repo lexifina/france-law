@@ -694,18 +694,6 @@ Var
 
 |
 
-La Garde-Freinet (1)
-
-|
-
-83
-
-|
-
-Var
-
-|
-
 Garéoult
 
 |
@@ -754,18 +742,6 @@ Var
 
 |
 
-La Môle (1)
-
-|
-
-83
-
-|
-
-Var
-
-|
-
 Mons
 
 |
@@ -803,18 +779,6 @@ Var
 |
 
 Plan-d’Aups-Sainte-Baume
-
-|
-
-83
-
-|
-
-Var
-
-|
-
-Le Plan-de-la-Tour (1)
 
 |
 
@@ -3658,18 +3622,6 @@ Corse-du-Sud
 
 |
 
-Albitreccia (1)
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Altagène
 
 |
@@ -4174,18 +4126,6 @@ Corse-du-Sud
 
 |
 
-Grosseto-Prugna (1)
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
 Guagno
 
 |
@@ -4211,18 +4151,6 @@ Corse-du-Sud
 |
 
 Guitera-les-Bains
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Lecci (1)
 
 |
 
@@ -4487,18 +4415,6 @@ Corse-du-Sud
 |
 
 Pianottoli-Caldarello
-
-|
-
-2A
-
-|
-
-Corse-du-Sud
-
-|
-
-Pietrosella (1)
 
 |
 

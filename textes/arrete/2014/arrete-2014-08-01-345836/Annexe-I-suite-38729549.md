@@ -10,18 +10,6 @@ Ain
 
 |
 
-Ambérieu-en-Bugey
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
 Ars-sur-Formans
 
 |
@@ -71,18 +59,6 @@ Ain
 |
 
 Bellegarde-sur-Valserine
-
-|
-
-01
-
-|
-
-Ain
-
-|
-
-Bourg-en-Bresse
 
 |
 
@@ -599,18 +575,6 @@ Aisne
 |
 
 Chambry
-
-|
-
-02
-
-|
-
-Aisne
-
-|
-
-Château-Thierry
 
 |
 
@@ -1718,30 +1682,6 @@ Volx
 
 |
 
-05
-
-|
-
-Hautes-Alpes
-
-|
-
-Briançon
-
-|
-
-05
-
-|
-
-Hautes-Alpes
-
-|
-
-Gap
-
-|
-
 06
 
 |
@@ -2122,18 +2062,6 @@ Ardèche
 
 |
 
-Guilherand-Granges
-
-|
-
-07
-
-|
-
-Ardèche
-
-|
-
 Mauves
 
 |
@@ -2494,30 +2422,6 @@ Aube
 
 |
 
-Sainte-Savine
-
-|
-
-10
-
-|
-
-Aube
-
-|
-
-Troyes
-
-|
-
-10
-
-|
-
-Aube
-
-|
-
 Verrières
 
 |
@@ -2626,43 +2530,7 @@ Aude
 
 |
 
-Gruissan
-
-|
-
-11
-
-|
-
-Aude
-
-|
-
-Leucate
-
-|
-
-11
-
-|
-
-Aude
-
-|
-
 Narbonne
-
-|
-
-11
-
-|
-
-Aude
-
-|
-
-Port-la-Nouvelle
 
 |
 
@@ -2878,18 +2746,6 @@ Bouches-du-Rhône
 
 |
 
-Châteaurenard
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Eygalières
 
 |
@@ -2987,18 +2843,6 @@ Bouches-du-Rhône
 |
 
 Mallemort
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Maussane-les-Alpilles (1)
 
 |
 
@@ -3142,18 +2986,6 @@ Bouches-du-Rhône
 
 |
 
-Saintes-Maries-de-la-Mer (1)
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
 Saint-Paul-lès-Durance
 
 |
@@ -3167,18 +2999,6 @@ Bouches-du-Rhône
 |
 
 Sénas
-
-|
-
-13
-
-|
-
-Bouches-du-Rhône
-
-|
-
-Tarascon
 
 |
 
@@ -3382,18 +3202,6 @@ Calvados
 
 |
 
-Cabourg
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Cagny
 
 |
@@ -3431,18 +3239,6 @@ Calvados
 |
 
 Colleville-Montgomery
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Courseulles-sur-Mer
 
 |
 
@@ -3587,18 +3383,6 @@ Calvados
 |
 
 Hermanville-sur-Mer
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Houlgate
 
 |
 
@@ -3862,31 +3646,7 @@ Calvados
 
 |
 
-Trouville-sur-Mer (1)
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
 Varaville
-
-|
-
-14
-
-|
-
-Calvados
-
-|
-
-Villers-sur-Mer
 
 |
 
@@ -4414,18 +4174,6 @@ Charente-Maritime
 
 |
 
-Les Mathes
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
 Médis
 
 |
@@ -4474,30 +4222,6 @@ Charente-Maritime
 
 |
 
-Rochefort
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-Royan
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
 Saint-Augustin
 
 |
@@ -4522,55 +4246,7 @@ Charente-Maritime
 
 |
 
-Saint-Georges-de-Didonne
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-Saint-Georges-d’Oléron
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
 Saint-Laurent-de-la-Prée
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-Saint-Palais-sur-Mer
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-Saint-Pierre-d’Oléron
 
 |
 
@@ -4715,30 +4391,6 @@ Charente-Maritime
 |
 
 Tonnay-Charente
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-La Tremblade
-
-|
-
-17
-
-|
-
-Charente-Maritime
-
-|
-
-Vaux-sur-Mer
 
 |
 
@@ -5146,18 +4798,6 @@ Côtes-d’Armor
 
 |
 
-Dinan
-
-|
-
-22
-
-|
-
-Côtes-d’Armor
-
-|
-
 Hillion
 
 |
@@ -5266,31 +4906,7 @@ Côtes-d’Armor
 
 |
 
-Perros-Guirec
-
-|
-
-22
-
-|
-
-Côtes-d’Armor
-
-|
-
 Plédran
-
-|
-
-22
-
-|
-
-Côtes-d’Armor
-
-|
-
-Plérin
 
 |
 
@@ -6130,18 +5746,6 @@ Doubs
 
 |
 
-Besançon
-
-|
-
-25
-
-|
-
-Doubs
-
-|
-
 Bethoncourt
 
 |
@@ -6838,18 +6442,6 @@ Doubs
 
 |
 
-Pontarlier
-
-|
-
-25
-
-|
-
-Doubs
-
-|
-
 Pouilley-les-Vignes
 
 |
@@ -7186,18 +6778,6 @@ Drôme
 
 |
 
-Bourg-lès-Valence
-
-|
-
-26
-
-|
-
-Drôme
-
-|
-
 Chabeuil
 
 |
@@ -7379,18 +6959,6 @@ Drôme
 |
 
 Tain-l’Hermitage
-
-|
-
-26
-
-|
-
-Drôme
-
-|
-
-Valence
 
 |
 
@@ -7873,7 +7441,3 @@ Eure
 Croth
 
 |
-
-NOTA :
-
-(1) Supprimé par l'arrêté du 16 février 2022 ( LOGL2203825A ) à compter du 21 février 2022.

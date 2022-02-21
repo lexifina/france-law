@@ -790,12 +790,6 @@ Nernier |
 
 Haute-Savoie |
 
-Saint-Jorioz |
-
-74 |
-
-Haute-Savoie |
-
 Sciez |
 
 74 |

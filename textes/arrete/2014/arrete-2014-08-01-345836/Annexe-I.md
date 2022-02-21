@@ -1610,7 +1610,19 @@ Bossey |
 
 Haute-Savoie |
 
+Chamonix-Mont-Blanc |
+
+74 |
+
+Haute-Savoie |
+
 Chevrier |
+
+74 |
+
+Haute-Savoie |
+
+La Clusaz |
 
 74 |
 
@@ -1670,6 +1682,12 @@ Gaillard |
 
 Haute-Savoie |
 
+Les Gets |
+
+74 |
+
+Haute-Savoie |
+
 Juvigny |
 
 74 |
@@ -1694,7 +1712,19 @@ Marcellaz |
 
 Haute-Savoie |
 
+Megève |
+
+74 |
+
+Haute-Savoie |
+
 Monnetier-Mornex |
+
+74 |
+
+Haute-Savoie |
+
+Morzine |
 
 74 |
 
@@ -4600,6 +4630,12 @@ Mas-Blanc-des-Alpilles |
 
 Bouches-du-Rhône |
 
+Maussane-les-Alpilles |
+
+13 |
+
+Bouches-du-Rhône |
+
 Meyrargues |
 
 13 |
@@ -4649,6 +4685,12 @@ Saint-Estève-Janson |
 Bouches-du-Rhône |
 
 Saint-Etienne-du-Grès |
+
+13 |
+
+Bouches-du-Rhône |
+
+Saintes-Maries-de-la-Mer |
 
 13 |
 
@@ -4769,6 +4811,12 @@ Ouistreham |
 Calvados |
 
 Saint-Germain-la-Blanche-Herbe |
+
+14 |
+
+Calvados |
+
+Trouville-sur-Mer |
 
 14 |
 
@@ -8580,6 +8628,12 @@ Pas-de-Calais |
 
 Lens |
 
+62 |
+
+Pas-de-Calais |
+
+Le Touquet-Paris-Plage |
+
 63 |
 
 Puy-de-Dôme |
@@ -9784,6 +9838,12 @@ Le Bourget-du-Lac |
 
 Savoie |
 
+Brides-les-Bains |
+
+73 |
+
+Savoie |
+
 Brison-Saint-Innocent |
 
 73 |
@@ -9815,6 +9875,18 @@ Chignin |
 Savoie |
 
 Cognin |
+
+73 |
+
+Savoie |
+
+Cohennoz |
+
+73 |
+
+Savoie |
+
+Crest-Voland |
 
 73 |
 
@@ -9880,6 +9952,12 @@ Mouxy |
 
 Savoie |
 
+Notre-Dame-de-Bellecombe |
+
+73 |
+
+Savoie |
+
 Pallud |
 
 73 |
@@ -9910,6 +9988,12 @@ Saint-Baldoph |
 
 Savoie |
 
+Courchevel |
+
+73 |
+
+Savoie |
+
 Saint-Cassin |
 
 73 |
@@ -9934,6 +10018,12 @@ Sonnaz |
 
 Savoie |
 
+Tignes |
+
+73 |
+
+Savoie |
+
 Tours-en-Savoie |
 
 73 |
@@ -9941,6 +10031,12 @@ Tours-en-Savoie |
 Savoie |
 
 Tresserve |
+
+73 |
+
+Savoie |
+
+Val-d'Isère |
 
 73 |
 
@@ -9982,6 +10078,12 @@ Alby-sur-Chéran |
 
 Haute-Savoie |
 
+Alex |
+
+74 |
+
+Haute-Savoie |
+
 Allinges |
 
 74 |
@@ -10018,6 +10120,12 @@ Anthy-sur-Léman |
 
 Haute-Savoie |
 
+Arâches-la-Frasse |
+
+74 |
+
+Haute-Savoie |
+
 Arbusigny |
 
 74 |
@@ -10043,6 +10151,12 @@ Armoy |
 Haute-Savoie |
 
 Ayse |
+
+74 |
+
+Haute-Savoie |
+
+Ballaison |
 
 74 |
 
@@ -10078,6 +10192,12 @@ Cernex |
 
 Haute-Savoie |
 
+La Chapelle-d'Abondance |
+
+74 |
+
+Haute-Savoie |
+
 La Chapelle-Rambaud |
 
 74 |
@@ -10085,6 +10205,12 @@ La Chapelle-Rambaud |
 Haute-Savoie |
 
 Charvonnex |
+
+74 |
+
+Haute-Savoie |
+
+Châtel |
 
 74 |
 
@@ -10108,6 +10234,12 @@ Chênex |
 
 Haute-Savoie |
 
+Chens-sur-Léman |
+
+74 |
+
+Haute-Savoie |
+
 Choisy |
 
 74 |
@@ -10120,7 +10252,19 @@ Cluses |
 
 Haute-Savoie |
 
+Combloux |
+
+74 |
+
+Haute-Savoie |
+
 Copponex |
+
+74 |
+
+Haute-Savoie |
+
+Cordon |
 
 74 |
 
@@ -10144,7 +10288,31 @@ Cuvat |
 
 Haute-Savoie |
 
+Demi-Quartier |
+
+74 |
+
+Haute-Savoie |
+
 Dingy-en-Vuache |
+
+74 |
+
+Haute-Savoie |
+
+Dingy-Saint-Clair |
+
+74 |
+
+Haute-Savoie |
+
+Domancy |
+
+74 |
+
+Haute-Savoie |
+
+Doussard |
 
 74 |
 
@@ -10174,7 +10342,25 @@ Evian-les-Bains |
 
 Haute-Savoie |
 
+Excenevex |
+
+74 |
+
+Haute-Savoie |
+
+Le Grand-Bornand |
+
+74 |
+
+Haute-Savoie |
+
 Groisy |
+
+74 |
+
+Haute-Savoie |
+
+Les Houches |
 
 74 |
 
@@ -10186,7 +10372,25 @@ Jonzier-Epagny |
 
 Haute-Savoie |
 
+Larringes |
+
+74 |
+
+Haute-Savoie |
+
+Loisin |
+
+74 |
+
+Haute-Savoie |
+
 Lovagny |
+
+74 |
+
+Haute-Savoie |
+
+Manigod |
 
 74 |
 
@@ -10216,7 +10420,25 @@ Marnaz |
 
 Haute-Savoie |
 
+Massongy |
+
+74 |
+
+Haute-Savoie |
+
+Menthon-Saint-Bernard |
+
+74 |
+
+Haute-Savoie |
+
 Menthonnex-en-Bornes |
+
+74 |
+
+Haute-Savoie |
+
+Messery |
 
 74 |
 
@@ -10246,6 +10468,12 @@ La Muraz |
 
 Haute-Savoie |
 
+Nernier |
+
+74 |
+
+Haute-Savoie |
+
 Neuvecelle |
 
 74 |
@@ -10253,6 +10481,12 @@ Neuvecelle |
 Haute-Savoie |
 
 Poisy |
+
+74 |
+
+Haute-Savoie |
+
+Praz-sur-Arly |
 
 74 |
 
@@ -10295,6 +10529,24 @@ Saint-Blaise |
 Haute-Savoie |
 
 Saint-Félix |
+
+74 |
+
+Haute-Savoie |
+
+Saint-Gervais-les-Bains |
+
+74 |
+
+Haute-Savoie |
+
+Saint-Jean-de-Sixt |
+
+74 |
+
+Haute-Savoie |
+
+Saint-Jorioz |
 
 74 |
 
@@ -10348,7 +10600,19 @@ Scientrier |
 
 Haute-Savoie |
 
+Sciez |
+
+74 |
+
+Haute-Savoie |
+
 Scionzier |
+
+74 |
+
+Haute-Savoie |
+
+Sevrier |
 
 74 |
 
@@ -10361,6 +10625,18 @@ Seynod |
 Haute-Savoie |
 
 Sillingy |
+
+74 |
+
+Haute-Savoie |
+
+Sixt-Fer-à-Cheval |
+
+74 |
+
+Haute-Savoie |
+
+Talloires-Montmin |
 
 74 |
 
@@ -10384,7 +10660,25 @@ Thonon-les-Bains |
 
 Haute-Savoie |
 
+Vallorcine |
+
+74 |
+
+Haute-Savoie |
+
 Vers |
+
+74 |
+
+Haute-Savoie |
+
+Veyrier-du-Lac |
+
+74 |
+
+Haute-Savoie |
+
+Villaz |
 
 74 |
 
@@ -10409,6 +10703,12 @@ Vougy |
 Haute-Savoie |
 
 Vovray-en-Bornes |
+
+74 |
+
+Haute-Savoie |
+
+Yvoire |
 
 76 |
 
@@ -11626,6 +11926,12 @@ Flayosc |
 
 Var |
 
+La Garde-Freinet |
+
+83 |
+
+Var |
+
 Lorgues |
 
 83 |
@@ -11633,6 +11939,12 @@ Lorgues |
 Var |
 
 Le Luc |
+
+83 |
+
+Var |
+
+La Môle |
 
 83 |
 
@@ -11663,6 +11975,12 @@ Nans-les-Pins |
 Var |
 
 Pierrefeu-du-Var |
+
+83 |
+
+Var |
+
+Le Plan-de-la-Tour |
 
 83 |
 
@@ -13426,6 +13744,12 @@ Alata |
 
 Corse-du-Sud |
 
+Albitreccia |
+
+2A |
+
+Corse-du-Sud |
+
 Appietto |
 
 2A |
@@ -13450,7 +13774,25 @@ Giuncheto |
 
 Corse-du-Sud |
 
+Grosseto-Prugna |
+
+2A |
+
+Corse-du-Sud |
+
+Lecci |
+
+2A |
+
+Corse-du-Sud |
+
 Peri |
+
+2A |
+
+Corse-du-Sud |
+
+Pietrosella |
 
 2A |
 
