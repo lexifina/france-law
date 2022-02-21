@@ -28,7 +28,7 @@ L'établissement de santé s'engage à répondre à toute demande d'information 
 
 Art. 2 - En cas de doute sur la datation de la grossesse, sur l'existence d'une grossesse extra-utérine ou, lors de la visite de contrôle, sur la vacuité utérine, le médecin ou la sage-femme adresse la patiente à l'établissement qui prend toutes les mesures adaptées à l'état de cette dernière.
 
-Art. 3 - Après l'administration des médicaments nécessaires à la réalisation de l'interruption volontaire de grossesse, le médecin ou la sage-femme transmet à l'établissement une copie de la fiche de liaison contenant les éléments utiles du dossier médicale de la patiente.
+Art. 3 - Après la délivrance ou la prescription des médicaments nécessaires à la réalisation de l'interruption volontaire de grossesse, le médecin ou la sage-femme transmet à l'établissement une copie de la fiche de liaison contenant les éléments utiles du dossier médicale de la patiente.
 
 Art. 4 - L'établissement de santé s'engage à accueillir la femme à tout moment et à assurer la prise en charge liée aux complications et échecs éventuels. Il s'assure, en tant que de besoin, de la continuité des soins qui lui sont délivrés.
 
