@@ -8,7 +8,7 @@ I. – Les contribuables domiciliés en France au sens de l'article 4 B peuvent 
 
 3° (abrogé) ; (1)
 
-4° Un établissement délivrant des soins de longue durée, mentionné au dixième alinéa du 3° de l'article L. 6143-5 du code de la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une surveillance médicale constante et des traitements d'entretien.
+4° Un établissement délivrant des soins de longue durée, mentionné à l'avant-dernier alinéa de l'article L. 6143-5 du code de la santé publique, et comportant un hébergement, à des personnes n'ayant pas leur autonomie de vie dont l'état nécessite une surveillance médicale constante et des traitements d'entretien.
 
 II. – La réduction d'impôt est calculée sur le prix de revient des logements retenu pour sa fraction inférieure à 300 000 €. Lorsqu'elle est acquise au titre d'un logement achevé depuis au moins quinze ans et qui fait l'objet de travaux de réhabilitation, elle est calculée sur le prix d'acquisition majoré du montant de ces travaux.
 
