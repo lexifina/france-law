@@ -1,0 +1,3 @@
+# Article 16 bis
+
+Les étudiants ou élèves soumis à isolement car étant cas contacts ou contaminés par la covid-19, qui ne peuvent participer à une ou plusieurs épreuves d'évaluations et de validation d'unités d'enseignement ou de modules, peuvent bénéficier, dans les deux mois qui suivent leur absence dûment justifiée et avant la présentation devant les jurys d'attribution des diplômes ou des titres mentionnés à l'article 1er, d'une session de substitution organisée selon les mêmes modalités que l'épreuve à laquelle ils n'ont pu participer. L'établissement de formation informe l'étudiant au minimum quinze jours avant l'organisation de cette session.
