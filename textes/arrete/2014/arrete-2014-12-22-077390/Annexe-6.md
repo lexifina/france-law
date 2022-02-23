@@ -86,6 +86,8 @@ Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2
 
 Conformément à l’article 2 de l’arrêté 17 décembre 2021 (NOR : TRER2137033A), la présente fiche d'opération standardisée est remplacée par la fiche portant la même référence figurant à l'annexe D dudit arrêté, à compter du 1er avril 2022.
 
+- Remotorisation en propulsion électrique ou hybride d’un bateau naviguant en eaux intérieures / Fiche d’opération n° TRA-EQ-126
+
 - Formation d’un chauffeur de transport à la conduite économe / Fiche d’opération n° TRA-SE-101
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
@@ -137,6 +139,10 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 44 du 22/02/2022, texte nº 6, accessible à l’adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=xTFpZINhOc-g2Eq_jCfW3x9K_gvnOMgthOva_2h02AY=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 301 du 28/12/2021, texte nº 7, accessible à l’adresse suivante :
 
