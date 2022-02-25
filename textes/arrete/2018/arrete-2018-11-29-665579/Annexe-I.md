@@ -10,9 +10,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité (EFR) |
+Nombre d'emplois
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+à forte responsabilité
+
+(EFR) |
+
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -356,6 +366,8 @@ Chef de cabinet |
 
 1 |
 
+|
+
 Chef de mission des affaires budgétaires et des emplois de la fonction RH ministérielle |
 
 0 |
@@ -404,7 +416,9 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 - |
 
-1 |
+1
+
+|
 
 Direction générale de la police nationale |
 
@@ -439,6 +453,8 @@ Chef du département des réserves opérationnelles de la police nationale au se
 - |
 
 1 |
+
+|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -488,7 +504,7 @@ Chef de la division de l'organisation des concours et des dispositifs promotionn
 
 1 |
 
-Chef du bureau du pilotage des structures de soutien. |
+Chef du bureau de l'analyse, de la synthèse et de l'animation de la performance |
 
 30 |
 
@@ -618,6 +634,14 @@ Chef du département de l'accès à la procédure d'asile au sein de la directio
 
 60 |
 
+1 |
+
+- |
+
+Chef du département de la performance et de la coordination |
+
+0 |
+
 - |
 
 1 |
@@ -630,7 +654,7 @@ Chef du bureau de la gestion mutualisée des fonds européens au sein du service
 
 1 |
 
-Chef du bureau des décrets de naturalisation au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+Chef du bureau des décrets de naturalisation au sein de la direction de l'intégration et de la nationalité. |
 
 30 |
 
@@ -638,7 +662,7 @@ Chef du bureau des décrets de naturalisation au sein de la direction de l'accue
 
 1 |
 
-Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'intégration et de l'accès à la nationalité |
 
 - |
 
@@ -646,7 +670,7 @@ Adjoint au sous-directeur de l'accès à la nationalité française au sein de l
 
 1 |
 
-Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+Adjoint au sous-directeur de l'intégration des étrangers au sein de la direction de l'intégration et de l'accès à la nationalité |
 
 - |
 
@@ -654,7 +678,7 @@ Adjoint au sous-directeur de l'accueil et de l'accompagnement des étrangers au 
 
 1 |
 
-Chef du bureau de l'appui au pilotage au sein de la direction de l'accueil, de l'accompagnement des étrangers et de la nationalité. |
+Chef du bureau de l'appui au pilotage au sein de la direction l'intégration et de l'accès à la nationalité |
 
 - |
 
@@ -754,6 +778,8 @@ Chef du bureau de l'administration à la sous-direction administrative et financ
 
 1 |
 
+|
+
 Chargé de mission auprès du directeur soutien finances |
 
 0 |
@@ -816,11 +842,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -992,11 +1026,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1096,13 +1138,29 @@ Chef du département juridique et budgétaire |
 
 50 |
 
-- |
-
 1 |
+
+- |
 
 Secrétaire général |
 
 50 |
+
+1 |
+
+- |
+
+Chef du département de l'exploitation |
+
+0 |
+
+- |
+
+1 |
+
+Chef du bureau de la programmation et de l'exécution |
+
+0 |
 
 - |
 
@@ -1152,11 +1210,19 @@ Chef du 9e bureau au sein de la sous-direction du séjour et de l'accès à la n
 
 Chef du 10e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité |
 
-60 |
+0 |
 
 |
 
 1 |
+
+Chef du département des ressources, de la modernisation et du soutien juridique, au sein du service de l'administration des étrangers |
+
+60 |
+
+1 |
+
+- |
 
 Chef du 12e bureau au sein du département zonal de l'asile et de l'éloignement. |
 
@@ -1165,26 +1231,6 @@ Chef du 12e bureau au sein du département zonal de l'asile et de l'éloignement
 - |
 
 1 |
-
-|
-
-|
-
-|
-
-- |
-
-|
-
-|
-
-|
-
-|
-
-- |
-
-|
 
 Direction des transports et de la protection du public |
 
@@ -1300,11 +1346,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1550,11 +1604,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1632,11 +1694,19 @@ Points
 
 de NBI |
 
-Nombre d'emplois à forte responsabilité
+Nombre d'emplois
+
+à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
 
 et de l'outre-mer
 
@@ -1722,7 +1792,7 @@ Greffier en chef |
 
 1 |
 
-CAA de Nancy. |
+CAA de Toulouse. |
 
 Greffier en chef |
 
@@ -1732,7 +1802,7 @@ Greffier en chef |
 
 1 |
 
-CAA de Nantes. |
+CAA de Nancy. |
 
 Greffier en chef |
 
@@ -1824,13 +1894,13 @@ Greffier en chef |
 
 7° Périmètre préfectures
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
 Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
+
+|
 
 Total du nombre d'EFR |
 
@@ -1852,7 +1922,9 @@ Total du nombre d'emplois de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -2592,11 +2664,11 @@ Sans point de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
-- |
+1 |
 
 31 Haute-Garonne |
 
@@ -2706,13 +2778,13 @@ Sans point de NBI |
 
 - |
 
-7 |
+6 |
 
 - |
 
 - |
 
-7 |
+6 |
 
 - |
 
@@ -3752,19 +3824,13 @@ Sans point de NBI |
 
 79 Deux-Sèvres |
 
-- |
+-1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-2 |
-
-- |
+1- |
 
 - |
 
@@ -3773,6 +3839,12 @@ Sans point de NBI |
 - |
 
 - |
+
+1 |
+
+- |
+
+1 |
 
 80 Somme |
 
@@ -3906,7 +3978,7 @@ Sans point de NBI |
 
 - |
 
-4 |
+3 |
 
 - |
 
@@ -3916,7 +3988,7 @@ Sans point de NBI |
 
 1 |
 
-2 |
+1 |
 
 86 Vienne |
 
@@ -4376,9 +4448,7 @@ Sans point de NBI |
 
 8° Périmètre secrétariat général commun départemental
 
-Localisation
-
-des emplois |
+Localisation des emplois |
 
 Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
@@ -4404,7 +4474,9 @@ Total du nombre d'emplois de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -4888,11 +4960,11 @@ Sans point de NBI |
 
 30 Gard |
 
-- |
+1 |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -4977,6 +5049,30 @@ Sans point de NBI |
 2 |
 
 - |
+
+- |
+
+- |
+
+35 Ille-et-Vilaine |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+- |
+
+- |
+
+1 |
 
 - |
 
@@ -5810,7 +5906,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 - |
 
@@ -5820,7 +5916,7 @@ Sans point de NBI |
 
 - |
 
-- |
+1 |
 
 86 Vienne |
 
