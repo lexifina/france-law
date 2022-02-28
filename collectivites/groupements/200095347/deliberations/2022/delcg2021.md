@@ -1,0 +1,8 @@
+# SYNDICAT MIXTE DES EAUX DU PAYS DE BAIN : délibération DELCG2021 — Compte de gestion 2021
+
+- Collectivité : SYNDICAT MIXTE DES EAUX DU PAYS DE BAIN
+- SIRET : 20009534700015
+- Date : 2022-02-28
+- Matière : 7.1 Finances locales/Divers
+- Objet : Compte de gestion 2021
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
