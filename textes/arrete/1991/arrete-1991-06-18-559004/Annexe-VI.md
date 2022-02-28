@@ -54,7 +54,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.4.7. Transmission des données relatives aux contrôles techniques effectués.
 
-2.4.8. Exploitation des indicateurs fournis par l'organisme technique central
+2.4.8. Exploitation des indicateurs et des compteurs d'exception fournis par l'organisme technique central
 
 2.4.9. Audit des installations de contrôle et des contrôleurs.
 

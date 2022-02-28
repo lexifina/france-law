@@ -12,9 +12,11 @@ A. 2.1. Qualification préalable
 
 Le candidat justifie d'une des qualifications visées ci-dessous :
 
-- un diplôme de niveau IV du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules option voitures particulières ou baccalauréat professionnel maintenance des véhicules option véhicules industriels ou véhicules de transport routier) ou un diplôme équivalent au regard du Répertoire National des Certifications Professionnelles (RNCP) ;
+- un diplôme de niveau 4 du ministère de l’éducation nationale (baccalauréat professionnel maintenance des véhicules option voitures particulières ou baccalauréat professionnel maintenance des véhicules option véhicules industriels ou véhicules de transport routier) ou un diplôme équivalent au regard de FRANCE Compétences ;
 
--un diplôme de niveau III du ministère de l'éducation nationale (diplôme d'expert en automobile ou brevet de technicien supérieur après-vente automobile option véhicules particuliers ou brevet de technicien supérieur après-vente automobile option véhicules industriels ) ou un diplôme équivalent vis-à-vis du Répertoire National des Certifications Professionnelles (RNCP).
+-un diplôme de niveau 5 du ministère de l'éducation nationale (diplôme d'expert en automobile ou brevet de technicien supérieur après-vente automobile option véhicules particuliers ou brevet de technicien supérieur après-vente automobile option véhicules industriels ) ou un diplôme équivalent vis-à-vis de FRANCE Compétences.
+
+-un agrément valide de contrôleur de véhicules lourds au sens de l'arrêté du 27 juillet 2004 modifié relatif au contrôle technique des véhicules lourds.
 
 A. 2.2. Formation relative au contrôle technique
 
@@ -70,6 +72,8 @@ B. 2.2. En cas de non-respect d'au moins une des dispositions prévues aux point
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 26-3 du présent arrêté.
 
+En cas de non-respect de la disposition prévue au point B. 1.2 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
+
 C. Remise à niveau
 
 C. 1. En l’absence de la formation prévue au 1er alinéa du B.1.1, le réseau ou la personne physique assurant l’exploitation du centre de contrôle non rattaché s’assure de la remise à niveau, d’une durée minimale de 35 heures, avant le 31 mars de l’année en cours et avant toute reprise d’activité au-delà de cette échéance.
@@ -86,11 +90,11 @@ C.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur sont
 
 D. Qualification des exploitants
 
-D. 1. A défaut de la présentation d’une des qualifications prévues au point A.1 de la présente annexe, la personne physique assurant l’exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l’agrément du centre, justifie d’une formation d’une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
+D. 1. A défaut de la présentation d'un agrément de contrôleur de véhicules légers en cours de validité, la personne physique assurant l’exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l’agrément du centre, justifie d’une formation d’une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
 
 L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans, qu'il soit contrôleur ou non.
 
-Une première formation de maintien de qualification est à réaliser avant le 1er janvier 2022, sauf pour les personnes ayant réalisé une formation d'exploitant d'une durée minimale de 35 heures entre le 20 mai 2018 et le 31 décembre 2021.
+Pour les personnes désignées avant le 1er janvier 2022, une première formation de maintien de qualification est à réaliser avant le 1er janvier 2022, sauf pour les personnes ayant réalisé une formation d'exploitant d'une durée minimale de 35 heures entre le 20 mai 2018 et le 31 décembre 2021.
 
 Les exigences de connaissances et de compétences d’un exploitant de centre de contrôle technique des véhicules légers ainsi que les modalités d’évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l’OTC.
 
