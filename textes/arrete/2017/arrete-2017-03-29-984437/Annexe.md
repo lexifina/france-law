@@ -226,7 +226,7 @@ Sous-directeur de l'immigration et de l'éloignement.
 
 Directeur zonal de la police aux frontières Sud à Marseille.
 
-Directeur de la police aux frontières de Roissy-Charles-de-Gaulle-Le Bourget.
+Directeur de la police aux frontières des aérodromes parisiens et directeur de l'aéroport de Roissy-Charles-de-Gaulle-Le Bourget.
 
 Chef d'état-major.
 
@@ -308,4 +308,4 @@ Secrétaire général adjoint pour l'administration du ministère de l'intérieu
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 4 juin 2021 (NOR : INTC2114826A), ces dispositions entrent en vigueur à compter du 1er juillet 2021.
+Conformément à l'article 2 de l'arrêté du 16 février 2022, ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française.
