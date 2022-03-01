@@ -2,7 +2,7 @@
 
 I-Des suppléants, en nombre égal à celui des titulaires mentionnés aux II à V de l'article 371 ter I, sont désignés dans les mêmes conditions pour remplacer les membres de la commission en cas d'absence ou d'empêchement.
 
-II.-Chaque représentant des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre peut être accompagné aux séances de la commission soit de son suppléant, soit d'un fonctionnaire relevant de l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+II.-Chaque représentant des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre peut être accompagné aux séances de la commission soit de son suppléant, soit d'un fonctionnaire relevant de l'article L. 4 du code général de la fonction publique.
 
 Chaque représentant des contribuables peut être accompagné aux séances de la commission soit de son suppléant, soit, après autorisation du président de la commission, d'une personne choisie, selon le cas, parmi :
 
@@ -23,6 +23,8 @@ III.-Une personne désignée à plusieurs titres comme membre titulaire ou suppl
 Une personne désignée en application des II à IV de l'article 371 ter I comme membre titulaire ou suppléant de la commission départementale des valeurs locatives des locaux professionnels alors qu'elle est membre titulaire ou suppléant de la commission départementale des impôts directs locaux choisit, dans un délai d'une semaine, la commission au sein de laquelle elle siège.
 
 NOTA :
+
+Conformément à l'article 11 de l'ordonnance n° 2021-1574 du 24 novembre 2021, ces dispositions entrent en vigueur le 1er mars 2022.
 
 Le second alinéa du III devient sans objet.
 

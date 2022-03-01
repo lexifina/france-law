@@ -1,3 +1,0 @@
-# Article 6 ter
-
-Lorsque l'Etat ou un établissement public à caractère administratif propose un nouveau contrat sur le fondement des articles 4 ou 6 à un agent contractuel lié par un contrat à durée indéterminée à l'une des personnes morales mentionnées à l'article 2 de la présente loi, à l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale ou à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière pour exercer des fonctions relevant de la même catégorie hiérarchique, le contrat peut être conclu pour une durée indéterminée.
