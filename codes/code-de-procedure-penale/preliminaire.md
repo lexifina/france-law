@@ -26,6 +26,8 @@ En matière criminelle et correctionnelle, aucune condamnation ne peut être pro
 
 En matière de crime ou de délit, le droit de se taire sur les faits qui lui sont reprochés est notifié à toute personne suspectée ou poursuivie avant tout recueil de ses observations et avant tout interrogatoire, y compris pour obtenir des renseignements sur sa personnalité ou pour prononcer une mesure de sûreté, lors de sa première présentation devant un service d'enquête, un magistrat, une juridiction ou toute personne ou tout service mandaté par l'autorité judiciaire. Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations faites sans que ledit droit ait été notifié.
 
+Le respect du secret professionnel de la défense et du conseil, prévu à l'article 66-5 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, est garanti au cours de la procédure pénale dans les conditions prévues par le présent code.
+
 NOTA :
 
-Conformément au IX de l'article 59 de la loi n° 2021-1729 du 22 décembre 2021, ces dispositions entrent en vigueur le 31 décembre 2021.
+Conformément au II de l'article 59 de la loi n° 2021-1729 du 22 décembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication de ladite loi.
