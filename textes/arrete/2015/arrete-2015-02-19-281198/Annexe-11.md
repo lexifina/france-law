@@ -2,9 +2,7 @@
 
 LISTES DES ACTES DONNANT LIEU À RÉMUNÉRATION DES FORFAITS SE
 
-Liste 1
-
-LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE1
+LISTE 1 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE1
 
 CODE |
 
@@ -162,9 +160,7 @@ JEHE002 |
 
 Biopsie de l'urètre à la pince, par endoscopie |
 
-Liste 2
-
-LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE2
+LISTE 2 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE2
 
 CODE |
 
@@ -412,9 +408,7 @@ QZGA006 |
 
 Ablation de plusieurs corps étrangers profonds de la peau et des tissus mous, en dehors du visage et des mains |
 
-Liste 3
-
-LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE3
+LISTE 3 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE3
 
 CODE |
 
@@ -524,9 +518,7 @@ JQEP001 |
 
 Version du fœtus par manœuvres obstétricales externes au cours de la grossesse, avec contrôle échographique et surveillance du rythme cardiaque du fœtus |
 
-Liste 4
-
-LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE4
+LISTE 4 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE4
 
 CODE |
 
@@ -540,9 +532,7 @@ FEJF003 |
 
 Saignée thérapeutique |
 
-Liste 5
-
-LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE5
+LISTE 5 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE5
 
 CODE |
 
@@ -556,9 +546,7 @@ BALB001 |
 
 Séance d'injection unilatérale ou bilatérale de toxine botulique au niveau des paupières |
 
-Liste 6
-
-LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE6
+LISTE 6 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE6
 
 CODE |
 
@@ -577,3 +565,23 @@ PCLB003 |
 |
 
 Séance d'injection de toxine botulique dans les muscles striés par voie transcutanée, avec examen électromyographique de détection |
+
+LISTE 7 : LISTE DES ACTES DONNANT LIEU À RÉMUNÉRATION SUR LA BASE D'UN SE7
+
+CODE |
+
+EXT. PMSI |
+
+LIBELLÉ DE L'ACTE CCAM |
+
+DEQA001/1
+
+DEQA001/2 |
+
+|
+
+Électrocardiographie avec implantation sous cutanée d'un dispositif d'enregistrement continu |
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.

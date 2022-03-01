@@ -1,18 +1,218 @@
 # Article Annexe 8
 
-Liste 1
-
-Diagnostics et actes associés autorisant la facturation d'un supplément de surveillance continue
+LISTE 1 : DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
 
 CODES CIM-10 |
 
 LIBELLÉS CIM-10 |
 
-CODES ACTES CCAM |
+CODES ACTES
+
+CCAM |
 
 EXT. PMSI |
 
 LIBELLÉS CCAM |
+
+A021 |
+
+Sepsis à Salmonella |
+
+|
+
+|
+
+|
+
+A227 |
+
+Sepsis charbonneux |
+
+|
+
+|
+
+|
+
+A267 |
+
+Sepsis à Erysipelothrix |
+
+|
+
+|
+
+|
+
+A327 |
+
+Sepsis à Listeria |
+
+|
+
+|
+
+|
+
+A400 |
+
+Sepsis à streptocoques, groupe A |
+
+|
+
+|
+
+|
+
+A401 |
+
+Sepsis à streptocoques, groupe B |
+
+|
+
+|
+
+|
+
+A402 |
+
+Sepsis à streptocoques, groupe D et entérocoques |
+
+|
+
+|
+
+|
+
+A403 |
+
+Sepsis à Streptococcus pneumoniae |
+
+|
+
+|
+
+|
+
+A408 |
+
+Autres sepsis à streptocoques |
+
+|
+
+|
+
+|
+
+A409 |
+
+Sepsis à streptocoques, sans précision |
+
+|
+
+|
+
+|
+
+A410 |
+
+Sepsis à staphylocoques dorés |
+
+|
+
+|
+
+|
+
+A411 |
+
+Sepsis à d'autres staphylocoques précisés |
+
+|
+
+|
+
+|
+
+A412 |
+
+Sepsis à staphylocoques non précisés |
+
+|
+
+|
+
+|
+
+A413 |
+
+Sepsis à Haemophilus influenzae |
+
+|
+
+|
+
+|
+
+A414 |
+
+Sepsis à microorganismes anaérobies |
+
+|
+
+|
+
+|
+
+A415 |
+
+Sepsis à d'autres microorganismes Gram négatif |
+
+|
+
+|
+
+|
+
+A418 |
+
+Autres sepsis précisés |
+
+|
+
+|
+
+|
+
+A419 |
+
+Sepsis, sans précision |
+
+|
+
+|
+
+|
+
+A427 |
+
+Sepsis actinomycosique |
+
+|
+
+|
+
+|
+
+B377 |
+
+Sepsis à Candida |
+
+|
+
+|
+
+|
 
 D61.0 |
 
@@ -2204,6 +2404,16 @@ FELF011 |
 
 Transfusion de concentré de globules rouges d'un volume inférieur à une demimasse sanguine |
 
+O85 |
+
+Sepsis puerpéral |
+
+|
+
+|
+
+|
+
 R40.20 |
 
 État végétatif chronique |
@@ -2283,16 +2493,6 @@ EQLF001 |
 |
 
 Injection intraveineuse continue de dobutamine ou de dopamine à débit inférieur à 8 microgrammes par kilogramme par minute [µg/kg/min], ou de dopexamine en dehors de la période néonatale, par 24 heures |
-
-R65.1 |
-
-Syndrome de réponse inflammatoire systémique d'origine infectieuse avec défaillance d'organe |
-
-|
-
-|
-
-|
 
 R65.3 |
 
@@ -2893,3 +3093,7 @@ Choc anaphylactique dû à des effets indésirables d'une substance médicamente
 |
 
 |
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.

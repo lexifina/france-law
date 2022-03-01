@@ -1,8 +1,6 @@
 # Article Annexe 8 (suite)
 
-Liste 2
-
-ACTES AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
+LISTE 2 : ACTES AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE
 
 CODES ACTES CCAM |
 
@@ -2073,3 +2071,7 @@ DGFA016 |
 |
 
 Résection-anastomose de l'isthme de l'aorte, par thoracotomie sans dérivation vasculaire ni CEC, après l'âge de 3 ans |
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.

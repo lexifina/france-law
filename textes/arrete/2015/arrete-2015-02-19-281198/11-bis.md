@@ -1,6 +1,6 @@
 # Article 11 bis
 
-Par dérogation aux dispositions de l'article 11, lorsque le patient est pris en charge moins d'une journée, à l'exception des cas où il est pris en charge dans un service d'urgence, l'un des GHS figurant sur la liste 1 de l'annexe 9 peut être facturé dans les cas où les conditions cumulatives suivantes sont réalisées :
+Par dérogation aux dispositions de l'article 11, lorsque le patient est pris en charge moins d'une journée, à l'exception des cas où il est pris en charge dans une structure des urgences, l'un des GHS figurant sur la liste 1 de l'annexe 9 peut être facturé dans les cas où les conditions cumulatives suivantes sont réalisées :
 
 1° La prise en charge donne lieu à plusieurs activités parmi celles figurant sur la liste 2 de l'annexe 9 ou à au moins une de ces activités et à un acte ;
 
@@ -13,3 +13,7 @@ Par dérogation aux dispositions de l'article 11, lorsque le patient est pris en
 – un environnement respectant les conditions de fonctionnement relatives à la prise en charge par une équipe pluridisciplinaire dont la coordination est assurée par un médecin.
 
 Lorsque l'une de ces conditions n'est pas remplie, la prise en charge du patient donne lieu à facturation des consultations ou actes mentionnés aux articles L. 162-26 et L. 162-26-1 du code de la sécurité sociale ou réalisés en médecine de ville associés, le cas échéant, à un ou plusieurs des forfaits mentionnés aux articles 15 à 18.
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.

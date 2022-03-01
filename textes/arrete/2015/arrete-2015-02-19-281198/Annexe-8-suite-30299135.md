@@ -156,6 +156,18 @@ GHJA002 |
 
 Évacuation de collection du médiastin, par thoracotomie |
 
+HAFA001 |
+
+|
+
+Glossectomie partielle de base, par cervicotomie |
+
+HAFA002 |
+
+|
+
+Pelvi-glosso-mandibulectomie non interruptrice, par abord intrabuccal |
+
 HAFA003 |
 
 |
@@ -191,6 +203,18 @@ HAFA017 |
 |
 
 Pelvi-glosso-mandibulectomie interruptrice, par abord cervicofacial |
+
+HAFA024 |
+
+|
+
+Pelvimandibulectomie non interruptrice, par abord cervicofacial |
+
+HAFA026 |
+
+|
+
+Pelvi-glosso-mandibulectomie non interruptrice, par abord cervicofacial |
 
 HAFA027 |
 
@@ -2706,6 +2730,24 @@ QCJA005 |
 
 Pansement chirurgical initial de brûlure sur les 2 mains |
 
+QEMA621 |
+
+|
+
+Reconstruction du sein par lambeau musculocutané libre de gracilis à palette cutanée transversale [lambeau TMG [Tranverse Musculocutaneous Gracilis]], avec anastomoses vasculaires |
+
+QEMA682 |
+
+|
+
+Reconstruction du sein par lambeau cutanéograisseux libre abdominal perforant du pédicule épigastrique inférieur superficiel [lambeau SIEA [Superficial Inferior Epigastric Artery]] avec anastomoses vasculaires |
+
+QEMA788 |
+
+|
+
+Reconstruction du sein par lambeau cutanéograisseux libre perforant du pédicule fémoral profond [lambeau PAP [Profunda Artery Perforator]], avec anastomoses vasculaires |
+
 QZFA012 |
 
 |
@@ -2766,9 +2808,7 @@ ZZLF004 |
 
 Administration locorégionale d'agent pharmacologique anticancéreux par voie artérielle, avec CEC, avec hyperthermie |
 
-Liste 3
-
-DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE POUR LES ENFANTS DE MOINS DE 18 ANS
+LISTE 3 : DIAGNOSTICS ET ACTES ASSOCIÉS AUTORISANT LA FACTURATION D'UN SUPPLÉMENT DE SURVEILLANCE CONTINUE POUR LES ENFANTS DE MOINS DE 18 ANS
 
 CODES CIM-10 |
 
@@ -3800,6 +3840,86 @@ Dysplasie broncho-pulmonaire survenant pendant la période périnatale |
 
 |
 
+P36.00 |
+
+Sepsis du nouveau-né à streptocoques, groupe B |
+
+|
+
+|
+
+|
+
+P36.10 |
+
+Sepsis du nouveau-né à streptocoques, autres et sans précision |
+
+|
+
+|
+
+|
+
+P36.20 |
+
+Sepsis du nouveau-né à staphylocoques dorés |
+
+|
+
+|
+
+|
+
+P36.30 |
+
+Sepsis du nouveau-né à staphylocoques, autres et sans précision |
+
+|
+
+|
+
+|
+
+P36.40 |
+
+Sepsis du nouveau-né à Escherichia coli |
+
+|
+
+|
+
+|
+
+P36.50 |
+
+Sepsis du nouveau-né à anaérobies |
+
+|
+
+|
+
+|
+
+P36.80 |
+
+Sepsis du nouveau-né à autres bactéries |
+
+|
+
+|
+
+|
+
+P36.90 |
+
+Sepsis du nouveau-né, bactérie non précisée |
+
+|
+
+|
+
+|
+
 Q32.0 |
 
 Trachéomalacie congénitale |
@@ -4614,8 +4734,6 @@ Z99.2+8 |
 
 Dépendance envers une dialyse rénale, autre |
 
-|
+NOTA :
 
-|
-
-|
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.

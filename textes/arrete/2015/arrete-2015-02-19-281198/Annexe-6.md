@@ -1,67 +1,25 @@
 # Article Annexe 6
 
-Liste. Actes de mastectomie permettant la facturation du GHS 3362, 3363, 3364 ou 3365
+LISTE : ACTES DE POSE DE REPÈRE DANS LE SEIN PERMETTANT LA FACTURATION DE GHS MAJORÉS
 
-CODE
+CODE |
 
-|
+EXT. PMSI |
 
-LIBELLÉ DE L'ACTE
+LIBELLÉ DE L'ACTE |
 
-|
-
-QEFA003-00
+QELJ001 |
 
 |
 
-Mastectomie totale avec curages lymphonodaux axillaire et parasternal [mammaire interne]
+Pose de repère dans le sein, par voie transcutanée avec guidage échographique |
+
+QELH001 |
 
 |
 
-QEFA005-00
+Pose de repère dans le sein, par voie transcutanée avec guidage mammographique |
 
-|
+NOTA :
 
-Mastectomie totale avec exérèse des pectoraux et curage lymphonodal axillaire
-
-|
-
-QEFA010-00
-
-|
-
-Mastectomie totale avec curages lymphonodaux axillaire et supraclaviculaire
-
-|
-
-QEFA013-00
-
-|
-
-Mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire
-
-|
-
-QEFA015-00
-
-|
-
-Mastectomie totale élargie en surface, avec lambeau libre musculocutané
-
-|
-
-QEFA019-00
-
-|
-
-Mastectomie totale
-
-|
-
-QEFA020-00
-
-|
-
-Mastectomie totale avec conservation des pectoraux et curage lymphonodal axillaire
-
-|
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.

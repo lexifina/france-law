@@ -2237,3 +2237,7 @@ GFFC003 |
 |
 
 Exérèse de séquestration extralobaire, par thoracoscopie |
+
+NOTA :
+
+Conformément à l’article 14 de l’arrêté du 1er mars 2022 (SSAH2207477A), ces dispositions entrent en vigueur au 1er mars 2022.
