@@ -1,0 +1,199 @@
+# Article 1er
+
+L'annexe 1 de la convention collective est modifiée ainsi qu'il suit :
+
+(En euros.)
+
+Coefficients |
+
+Salaires horaires |
+
+Salaires mensuels (base 151,67 heures mensuelles) |
+
+Emplois techniques |
+
+Emplois exécutants |
+
+1 |
+
+10,57 |
+
+1 603,12 |
+
+|
+
+2 |
+
+10,85 |
+
+1 645,58 |
+
+Emplois spécialisés |
+
+1 |
+
+11,02 |
+
+1 671,37 |
+
+|
+
+2 |
+
+11,13 |
+
+1 688,05 |
+
+Emplois qualifiés |
+
+1 |
+
+11,39 |
+
+1 727,48 |
+
+|
+
+2 |
+
+11,65 |
+
+1 766,92 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+12,06 |
+
+1 829,10 |
+
+|
+
+2 |
+
+12,58 |
+
+1 907,97 |
+
+Technicien agent de maîtrise – 1 |
+
+1 |
+
+13,25 |
+
+2 009,58 |
+
+|
+
+2 |
+
+13,97 |
+
+2 118,78 |
+
+Technicien agent de maîtrise – 2 |
+
+1 |
+
+14,62 |
+
+2 217,37 |
+
+|
+
+2 |
+
+15,32 |
+
+2 323,53 |
+
+Cadres 1 |
+
+17,10 |
+
+2 593,50 |
+
+Cadres 2 |
+
+20,27 |
+
+3 074,28 |
+
+Emplois administratifs |
+
+Emplois administratifs exécutants |
+
+1 |
+
+10,57 |
+
+1 603,12 |
+
+|
+
+2 |
+
+10,86 |
+
+1 647,10 |
+
+Emplois qualifiés |
+
+1 |
+
+11,22 |
+
+1 701,70 |
+
+|
+
+2 |
+
+11,48 |
+
+1 741,13 |
+
+Emplois hautement qualifiés |
+
+1 |
+
+11,92 |
+
+1 807,87 |
+
+|
+
+2 |
+
+12,41 |
+
+1 882,18 |
+
+Technicien administratif et comptable |
+
+1 |
+
+13,09 |
+
+1 985,32 |
+
+|
+
+2 |
+
+13,83 |
+
+2 097,55 |
+
+Cadres 1 |
+
+17,10 |
+
+2 593,50 |
+
+Cadres 2 |
+
+20,27 |
+
+3 074,28 |
