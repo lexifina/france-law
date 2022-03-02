@@ -1154,7 +1154,7 @@ Lorsqu'une ou plusieurs infractions ont été constatées en matière de transpo
 
 - nombre et type des sanctions infligées,
 
-sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et de la mer.
+sont transmises par les autorités locales chargées du constat des infractions et de leur sanction au ministère chargé des transports, direction générale des infrastructures, des transports et des mobilités.
 
 Pour chaque année calendaire et au plus tard douze mois après l'écoulement de celle-ci, un rapport conformément au modèle figurant en appendice IV. 3 du présent arrêté est transmis à la Commission européenne.
 
