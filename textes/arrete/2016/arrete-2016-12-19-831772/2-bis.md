@@ -1,0 +1,3 @@
+# Article 2 bis
+
+Pour l'application des dispositions relatives au rappel des véhicules des articles 9,12,14,41,43 et 47 du règlement (UE) n° 167/2013 susvisé et des articles R. 321-14-1 et R. 321-25 du code de la route, la notification aux autorités compétentes en matière de réception et de surveillance du marché est effectuée selon les modalités définies par l'arrêté du 7 février 2022 fixant les modalités d'information des autorités compétentes concernant les véhicules, les systèmes, les composants, les entités techniques distinctes, les pièces ou équipements destinés à ces véhicules ainsi que les moteurs à combustion interne destinés aux engins mobiles non routiers, présentant une non-conformité ou un risque.
