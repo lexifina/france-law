@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211225922
+
+- Question : [SEQ211225922](seq211225922.md) — Commissions et frais excessifs des plans épargne-retraite et assurances-vie
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-03-03, page 1118*
+
+Afin de développer l'épargne retraite en France, la loi PACTE a créé de nouveaux produits d'épargne retraite (PER) plus attractifs pour les épargnants et mieux adaptés aux besoins de financement des entreprises. Le ministre de l'économie, des finances et de la relance a confié à la présidente du comité consultatif du secteur financier (CCSF) une mission d'analyse des frais facturés par les gestionnaires de ces nouveaux produits, dans le cadre du suivi de la réforme. Les conclusions de ce rapport ont alimenté des travaux avec les professionnels aboutissant à la signature d'un accord de place le 2 février 2022 sur les frais du plan d'épargne retraite et des contrats d'assurance-vie visant à améliorer la transparence des frais de ces produits d'épargne. D'une part, dès le 1er juin 2022, l'information sur les frais devra être affichée sur internet avant la souscription afin de permettre une meilleure comparabilité des offres. Cette information prendra la forme de tableaux standardisés et faciles d'accès, stimulant la concurrence entre les acteurs. D'autre part, l'information précontractuelle et annuelle de l'épargnant sera enrichie à travers l'affichage des frais totaux pour chaque unité de compte. Cette évolution interviendra par voie réglementaire pour une entrée en vigueur prévue dès le 1er juillet 2022 pour l'information précontractuelle et s'appliquera à la campagne d'information annuelle 2022. Les travaux menés par l'autorité de contrôle prudentielle et de résolution (ACPR) que vous mentionnez devraient aboutir au plus tard à la fin de l'année 2022.
