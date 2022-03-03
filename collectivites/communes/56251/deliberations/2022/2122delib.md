@@ -1,0 +1,10 @@
+# COMMUNE DE THEIX-NOYALO : délibération 2122DELIB — ERREUR MATERIELLE - DELIB UNIQUE - LISTE DEPENSES ARTICLE 6232 FETES CEREMONIES
+
+- Collectivité : COMMUNE DE THEIX-NOYALO
+- SIRET : 20005595200010
+- Code INSEE : 56251
+- Date : 2022-03-03
+- Matière : 7.10 Finances locales/Divers
+- Objet : ERREUR MATERIELLE - DELIB UNIQUE - LISTE DEPENSES ARTICLE 6232 FETES CEREMONIES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200055952/Deliberation/2022/174105/ee808a5577bb8d37374bade11fdf69bc25290b7c8093e3432010dc44c76119a6.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
