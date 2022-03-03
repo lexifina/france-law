@@ -1,0 +1,383 @@
+# Article ANNEXE 1
+
+LISTE DES DIPLÔMES, TITRES ET CERTIFICATS PERMETTANT DE SATISFAIRE À LA CONDITION DE DIPLÔME DE LA CAPACITÉ PROFESSIONNELLE AGRICOLE PRÉVUE AU DEUXIÈME ALINÉA DU 4O DE L'ARTICLE D. 343-4 DU CODE RURAL ET DE LA PÊCHE MARITIME ET CONFÉRANT LA CAPACITÉ PROFESSIONNELLE PRÉVUE AU 1O DE L'ARTICLE R. 331-2 DU MÊME CODE
+
+1. Diplômes, titres et certificats de niveau 4
+
+1.1. Diplômes
+
+Baccalauréat professionnel spécialité conduite et gestion de l'exploitation agricole,
+
+Baccalauréat professionnel spécialité conduite et gestion de l'entreprise agricole,
+
+Baccalauréat professionnel spécialité conduite et gestion de l'entreprise hippique,
+
+Baccalauréat professionnel spécialité gestion et conduite d'un élevage canin et félin,
+
+Baccalauréat professionnel spécialité conduite et gestion d'une entreprise du secteur canin et félin,
+
+Baccalauréat professionnel spécialité travaux paysagers,
+
+Baccalauréat professionnel spécialité aménagements paysagers,
+
+Baccalauréat professionnel spécialité gestion et conduite des chantiers forestiers,
+
+Baccalauréat professionnel spécialité forêt,
+
+Baccalauréat professionnel spécialité productions aquacoles,
+
+Baccalauréat professionnel spécialité productions horticoles,
+
+Baccalauréat professionnel spécialité conduite de productions horticoles,
+
+Baccalauréat professionnel spécialité agroéquipement,
+
+Baccalauréat professionnel spécialité conduite et gestion de l'entreprise vitivinicole,
+
+Baccalauréat série D'sciences et techniques agronomiques,
+
+Baccalauréat technologique série sciences et technologies de l'agronomie et de l'environnement,
+
+Baccalauréat technologique série sciences et technologies de l'agronomie et du vivant,
+
+Brevet de technicien agricole,
+
+Brevet professionnel option responsable d'exploitation agricole,
+
+Brevet professionnel option responsable d'entreprise agricole,
+
+Brevet professionnel option responsable d'entreprise hippique,
+
+Brevet professionnel option productions horticoles,
+
+Brevet professionnel option responsable de productions légumières, fruitières, florales et de pépinière,
+
+Brevet professionnel option responsable d'atelier de productions horticoles,
+
+Brevet professionnel option aménagements paysagers,
+
+Brevet professionnel option travaux paysagers,
+
+Brevet professionnel option travaux forestiers,
+
+Brevet professionnel option responsable de chantiers forestiers,
+
+Brevet professionnel option agroéquipements,
+
+Brevet professionnel option agroéquipement, conduite et maintenance des matériels,
+
+Brevet professionnel option responsable d'exploitation aquacole maritime-continentale.
+
+1.2. Titres et certificats
+
+Ancienne dénomination |
+
+Nouvelle dénomination |
+
+Autorité responsable
+
+de la certification |
+
+Certificat de capacité technique agricole et rurale (CCTAR) |
+
+Technicien agricole |
+
+Union nationale des maisons familiales rurales d'éducation et d'orientation (UNMFREO) |
+
+Technicien productions agricoles et services associés (CCTAR) |
+
+Technicien forestier (CCTAR) |
+
+|
+
+Union nationale des maisons familiales rurales d'éducation et d'orientation (UNMFREO) |
+
+Technicien des espaces forestiers et naturels |
+
+Maîtrise en élevage |
+
+Eleveur |
+
+Union nationale rurale d'éducation et de promotion (UNREP) |
+
+2. Diplômes, titre et certificats de niveau 5
+
+2.1. Diplômes
+
+Brevet de technicien supérieur agricole " agronomie productions végétales ",
+
+Brevet de technicien supérieur agricole " aménagements paysagers ",
+
+Brevet de technicien supérieur agricole " analyse, conduite et stratégie de l'entreprise agricole ",
+
+Brevet de technicien supérieur agricole " aquaculture ",
+
+Brevet de technicien supérieur agricole " développement de l'agriculture des régions chaudes ",
+
+Brevet de technicien supérieur agricole " développement, animation des territoires ruraux ",
+
+Brevet de technicien supérieur agricole " génie des équipements agricoles ",
+
+Brevet de technicien supérieur agricole " gestion forestière ",
+
+Brevet de technicien supérieur agricole " productions animales ",
+
+Brevet de technicien supérieur agricole " production horticole ",
+
+Brevet de technicien supérieur agricole " technico-commercial ",
+
+Brevet de technicien supérieur agricole " viticulture-œnologie ",
+
+Brevet de technicien supérieur " agroéquipement " délivré par le ministère chargé de l'éducation nationale,
+
+Brevet de technicien supérieur " techniques et services en matériel agricole " délivré par le ministère chargé de l'enseignement supérieur,
+
+Diplôme universitaire de technologie génie biologique, option agronomie,
+
+Diplôme universitaire de technologie de biologie appliquée, option agronomie.
+
+2.2. Titres et certificats
+
+Ancienne dénomination |
+
+Nouvelle dénomination |
+
+Autorité responsable
+
+de la certification |
+
+Certificat de conduite de cultures sous serre |
+
+Responsable de conduite de cultures protégées |
+
+Centre national de formation THEZA |
+
+Centre méditerranéen de formation aux métiers du maraîchage (CMFMM) |
+
+Certificat de conduite sous serre |
+
+Chef de cultures sous serre |
+
+Saint-Ilan/ Florilan |
+
+|
+
+Technicien supérieur en aquaponie |
+
+Echologia aventures/ Aquaponia |
+
+|
+
+Conseiller d'élevages avicoles |
+
+AVIPOLE FORMATION |
+
+3. Diplômes, titres et certificats de niveau 6
+
+3.1. Diplômes
+
+Bachelor universitaire de technologie génie biologique, option agronomie.
+
+Licences professionnelles portant les mentions suivantes, telles que prévues par l'arrêté du 27 mai 2014 fixant la nomenclature des mentions du diplôme national de licence professionnelle :
+
+-agriculture biologique : conseil et développement ;
+
+-agronomie ;
+
+-gestion des organisations agricoles et agroalimentaires ;
+
+-productions animales ;
+
+-productions végétales.
+
+Diplôme d'établissement ayant obtenu un grade licence, tel que prévu par l'arrêté du 27 janvier 2020 relatif au cahier des charges des grades universitaires de licence et de master :
+
+-Institut polytechnique UniLaSalle-bachelor en sciences et ingénierie-agro-agribusiness durable ;
+
+-Institut polytechnique UniLaSalle-bachelor en sciences et ingénierie-agriculture, numérique et technologies embarquées ;
+
+-Ecole d'ingénieur Purpan-bachelor en science et ingénierie-filières agricoles et agroalimentaires durables ;
+
+-Ecole supérieur d'agricultures d'Angers-bachelor science et ingénierie-agroécologie et systèmes alimentaires ;
+
+-Institut supérieur d'agriculture de Lille (Junia Isa)-bachelor en sciences et ingénierie, spécialité transition numérique, énergétique et environnementale.
+
+4. Diplômes, titres et certificats de niveau 7
+
+4.1. Diplômes
+
+Diplôme de docteur vétérinaire,
+
+Diplôme d'Etat de paysagiste,
+
+Diplôme de paysagiste diplômé par le gouvernement (DPLG),
+
+Diplôme national d'œnologue,
+
+Diplôme national de master des mentions suivantes, telles que prévues par l'arrêté du 4 février 2014 fixant la nomenclature des mentions du diplôme national de master :
+
+-agrosciences, environnement, territoires, paysage, forêt ;
+
+-biologie, agrosciences ;
+
+-sciences et technologie de l'agriculture, de l'alimentation et de l'environnement ;
+
+-vigne et vin.
+
+Diplômes d'ingénieurs délivrés par des écoles sous leur ancienne ou nouvelle dénomination |
+
+Ancienne dénomination |
+
+Nouvelle dénomination |
+
+Titre d'ingénieur |
+
+L'Ecole nationale supérieure agronomique de Rennes |
+
+Ecole nationale supérieure des sciences agronomiques, agroalimentaires, horticoles et du paysage (Institut Agro Rennes-Angers) de l'institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (Institut Agro) |
+
+Ingénieur diplômé de l'Institut Agro Rennes-Angers de l'institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (Institut Agro) |
+
+L'Institut national supérieur de formation agroalimentaire de Rennes |
+
+L'Ecole nationale supérieure d'horticulture et d'aménagement du paysage de l'Institut national d'horticulture et de paysage d'Angers |
+
+L'Ecole nationale d'ingénieurs des travaux de l'horticulture et du paysage d'Angers |
+
+Institut national d'enseignement supérieur et de recherche agronomique et
+
+agroalimentaire de Rennes |
+
+Institut national supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (AGROCAMPUS OUEST) |
+
+L'Institut national agronomique de Paris-Grignon |
+
+L'Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech) |
+
+Ingénieur diplômé de l'Institut national des sciences et industries du vivant et de l'environnement (AgroParisTech) (Université Paris-Saclay) |
+
+L'Ecole nationale du génie rural, des eaux et des forêts |
+
+Ecole nationale d'ingénieurs des travaux agricoles de Quetigny |
+
+L'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Institut Agro Dijon) de l'institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (Institut Agro) |
+
+Ingénieur diplômé de l'Institut national Agro Dijon de l'institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (Institut Agro) |
+
+L'Etablissement national d'enseignement supérieur agronomique de Dijon |
+
+L'Ecole nationale d'ingénieurs des travaux agricoles de Dijon |
+
+L'Institut national de promotion supérieure agricole de Dijon |
+
+L'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Agro Sup Dijon) |
+
+|
+
+|
+
+Ecole Nationale d'Ingénieurs des Travaux Agricole de Bordeaux |
+
+Ecole nationale supérieure des sciences agronomiques de Bordeaux-Aquitaine (Bordeaux Sciences Agro) |
+
+Ingénieur diplômé de-l'Ecole nationale supérieure des sciences agronomiques de Bordeaux-Aquitaine (Bordeaux Sciences Agro) |
+
+L'Ecole nationale supérieure agronomique de Montpellier
+
+Centre international d'études supérieures en sciences agronomiques |
+
+Ecole nationale d'études supérieures agronomiques de Montpellier (Institut Agro Montpellier) de l'institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (Institut Agro) |
+
+Ingénieur diplômé de l'école Montpellier Sup Agro de l'institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement (Institut Agro) |
+
+Institut national d'études supérieures agronomiques de Montpellier |
+
+|
+
+|
+
+Ecole nationale d'études supérieures agronomiques de Montpellier (Montpellier Sup Agro) |
+
+|
+
+|
+
+Ecole Nationale d'Ingénieurs des Travaux Agricole de Clermont-Ferrand |
+
+Institut national d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement (VetAgroSup) |
+
+Ingénieur diplômé de l'Institut national d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement |
+
+L'Ecole supérieure d'agriculture de Purpan |
+
+L'Ecole d'ingénieurs de Purpan |
+
+Ingénieur diplômé de l'Ecole d'ingénieurs de Purpan |
+
+Ecole supérieure d'agriculture d'Angers |
+
+Ecole supérieure d'agricultures d'Angers ESA d'Angers |
+
+Ingénieur diplômé de l'Ecole supérieure d'agricultures d'Angers |
+
+Institut Supérieur d'Agriculture de Lille
+
+Institut supérieur d'agriculture Yncréa Hauts-de-France |
+
+Junia Isa |
+
+Ingénieur diplômé de l'Institut supérieur d'agriculture Junia Isa |
+
+|
+
+Institut supérieur d'agriculture Rhône-Alpes (ISARA) |
+
+Ingénieur diplômé de l'Institut supérieur d'agriculture Rhône-Alpes |
+
+L'Institut supérieur agricole de Beauvais |
+
+Institut polytechnique UniLaSalle (UniLaSalle) |
+
+Ingénieur diplômé de l'Institut polytechnique UniLaSalle |
+
+Ecole supérieure d'ingénieurs et de techniciens pour l'agriculture (ESITPA) de Rouen |
+
+Institut polytechnique LaSalle-Beauvais |
+
+Institut polytechnique LaSalle-Beauvais-Esitpa |
+
+|
+
+École nationale supérieure d'agronomie et des industries alimentaires (ENSAIA) |
+
+Ingénieur diplômé de l'École nationale supérieure d'agronomie et des industries alimentaires de l'université de Lorraine |
+
+|
+
+Institut national polytechnique (INP) de Toulouse-École nationale supérieure agronomique de Toulouse (ENSAT) |
+
+Ingénieur diplômé de l'École nationale supérieure agronomique de Toulouse de l'Institut national polytechnique de Toulouse |
+
+Institut supérieur technique d'outre-mer (ISTOM) |
+
+ISTOM-École supérieure d'agro-développement international |
+
+Ingénieur en agro-développement international (ISTOM) |
+
+4.2. Titres et certificats
+
+Ancienne dénomination |
+
+Nouvelle dénomination |
+
+Autorité responsable
+
+de la certification |
+
+Certificat d'études supérieures gestionnaire de domaines agricoles, spécialisation " domaines viticoles " |
+
+Manager de domaines viticoles (MS) |
+
+Ecole nationale supérieure des sciences agronomiques de Bordeaux Aquitaine (Bordeaux sciences agro) |
+
+Gestionnaire de domaines agricoles, spécialisation " domaines viticoles " (CES) |
