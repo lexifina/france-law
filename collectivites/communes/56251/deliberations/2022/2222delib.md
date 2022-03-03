@@ -1,0 +1,10 @@
+# COMMUNE DE THEIX-NOYALO : délibération 2222DELIB — ERREUR MATERIELLE - DELIB UNIQUE - MODIFICATIVE TARIFS PRESTATIONS CIMETIERE
+
+- Collectivité : COMMUNE DE THEIX-NOYALO
+- SIRET : 20005595200010
+- Code INSEE : 56251
+- Date : 2022-03-03
+- Matière : 7.10 Finances locales/Divers
+- Objet : ERREUR MATERIELLE - DELIB UNIQUE - MODIFICATIVE TARIFS PRESTATIONS CIMETIERE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200055952/Deliberation/2022/174106/653f9bafb7d9811eb62f74ff7ee819d7013606e3513e28a7662e6494f49899d4.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
