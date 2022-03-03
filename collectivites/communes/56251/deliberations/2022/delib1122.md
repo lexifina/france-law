@@ -1,0 +1,10 @@
+# COMMUNE DE THEIX-NOYALO : délibération DELIB1122 — ERREUR MATERIELLE - DELIB UNIQUE - ADOPTION COMPTE GESTION 2021 BUDGET ANNEXE GREE DU LOC
+
+- Collectivité : COMMUNE DE THEIX-NOYALO
+- SIRET : 20005595200010
+- Code INSEE : 56251
+- Date : 2022-03-03
+- Matière : 7.1 Finances locales/Divers
+- Objet : ERREUR MATERIELLE - DELIB UNIQUE - ADOPTION COMPTE GESTION 2021 BUDGET ANNEXE GREE DU LOC
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200055952/Deliberation/2022/174009/a4deffa11e5145f10e80a076a0c4a17097bfa4e4b5415847cd864ff4a644de38.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
