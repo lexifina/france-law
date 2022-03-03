@@ -1,0 +1,10 @@
+# COMMUNE DE THEIX-NOYALO : délibération 2822DELIB — ERREUR MATERIELLE - DELIB UNIQUE - RENOVATION RESEAU ECLAIRAGE - ME - DEPLACEMENT POINT 363 RUE AUGUSTE BRIZEUX
+
+- Collectivité : COMMUNE DE THEIX-NOYALO
+- SIRET : 20005595200010
+- Code INSEE : 56251
+- Date : 2022-03-03
+- Matière : 8.4 Domaines de competences par themes/Amenagement du territoire
+- Objet : ERREUR MATERIELLE - DELIB UNIQUE - RENOVATION RESEAU ECLAIRAGE - ME - DEPLACEMENT POINT 363 RUE AUGUSTE BRIZEUX
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/200055952/Deliberation/2022/174113/819318c98a9625cd37a3ef36402f91111087a679d9b581a84c062cf3d39a2983.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
