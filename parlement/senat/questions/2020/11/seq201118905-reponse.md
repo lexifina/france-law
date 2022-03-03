@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201118905
+
+- Question : [SEQ201118905](seq201118905.md) — Difficultés des casinos en période de crise sanitaire
+
+## Réponse
+
+*Intérieur, JO du 2022-03-03, page 1164*
+
+En vertu de l'article L. 322-4 du code de la sécurité intérieure (CSI), les lotos traditionnels sont des jeux d'argent et de hasard autorisés également appelés "poules au gibier", "rifles"ou"quines", organisés par des personnes non opérateurs de jeux dans un cercle restreint et uniquement dans un but social, culturel, scientifique, éducatif, sportif ou d'animation sociale. Ils se caractérisent par des mises de faible valeur, inférieures à 20 euros. L'article D. 322-3-1 du même code, créé par le décret n° 2020-1773 du 21 décembre 2020 modifiant le code de la sécurité intérieure et portant diverses dispositions relatives aux jeux d'argent et de hasard, limitait à 150 euros la valeur des lots pouvant être proposés au public à l'occasion des lotos traditionnels alors que ce plafond avait été implicitement supprimé en 2004 avec les modifications successives de la loi du 21 mai 1836 modifiée portant prohibition des loteries, aujourd'hui abrogée. Compte tenu de la limitation législative de la valeur des mises à 20 euros, du fait que les lotos traditionnels ne sont autorisés que dans un cadre restreint et des besoins pour les associations de diversifier leurs modes de financement dans un contexte économique fragilisé par la crise sanitaire, ce plafond n'a plus été jugé pertinent. Le Gouvernement a donc abrogé l'article D. 322 3-1 du code de la sécurité intérieure qui le prescrivait, par le décret n° 2021 1434 du 4 novembre 2021 modifiant le code de la sécurité intérieure et relatif aux lotos traditionnels. Par suite, le montant des lots pouvant être proposé dans le cadre de ces lotos n'est désormais plus limité.
