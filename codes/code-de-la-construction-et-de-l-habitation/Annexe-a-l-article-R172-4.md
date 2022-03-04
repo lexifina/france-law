@@ -820,11 +820,11 @@ Logements collectifs - autres cas
 
 |
 
-Pour les maisons individuelles ou accolées, la valeur de Icénergie_maxmoyen est fixée à 280 kgCO2/m2, lorsque, simultanément :
+Pour les maisons individuelles ou accolées, la valeur de Icénergie_maxmoyen est fixée à 280 kgCO2/m2, lorsque la demande de permis de construire de la maison est déposée avant le 31 décembre 2023 et l'une des deux conditions suivantes est respectée
 
-- la parcelle est concernée par un permis d'aménager octroyé avant le 01/01/2022, prévoyant un raccordement au réseau de gaz ;
+- la parcelle est concernée par un permis d'aménager délivré avant le 1er janvier 2022, prévoyant un raccordement au réseau de gaz ;
 
-- et la demande de permis de construire de la maison est déposée avant le 31/12/2023.
+- la parcelle est comprise dans le périmètre d'une zone d'aménagement concerté dont le dossier de réalisation, prévoyant un raccordement au réseau de gaz du périmètre, a été approuvé avant le 1er janvier 2022.
 
 1. Valeurs des coefficients de modulation des exigences Cep, nr_max, Cep_max et de Icénergie_max pour les maisons individuelles ou accolées
 
@@ -1602,7 +1602,7 @@ Iclot2 - 40 |
 
 Où Iclot2
 
-représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé &laquo fondations et infrastructure &raquo; se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
 
 Le coefficient Mivrd de modulation du Icconstruction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -1626,7 +1626,7 @@ Iclot1 - 20 |
 
 Où Iclot1
 
-représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé &laquo; VRD - Voiries et réseaux divers &raquo; se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD - Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
 
 Le coefficient Mided de modulation de Icconstruction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes selon l'année à laquelle la demande de permis de construire ou la déclaration préalable est déposée :
 
@@ -1830,7 +1830,7 @@ Iclot2 - 40 |
 
 Où Iclot2
 
-représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé &laquo; fondations et infrastructure &raquo; se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
+représente l'impact sur le changement climatique du lot 2 du bâtiment ou de la partie de bâtiment. Le lot 2 intitulé fondations et infrastructure se compose des fondations, des murs et structures enterrées et des parcs de stationnement en superstructure à l'exception des garages des maisons individuelles ou accolées.
 
 Le coefficient Mivrd de modulation du Icconstruction_max selon l'impact de la voirie et des réseaux divers du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -1854,7 +1854,7 @@ Iclot1 - 10 |
 
 Où Iclot1
 
-représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé &laquo; VRD - Voiries et réseaux divers &raquo; se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
+représente l'impact sur le changement climatique du lot 1 du bâtiment ou de la partie de bâtiment. Le lot 1 intitulé VRD - Voiries et réseaux divers se composent des réseaux extérieurs jusqu'au domaine public (gaz, électricité, eau, télécommunication…), du stockage (système d'assainissement autonome, éléments pour le pompage d'eau) et des aires de stationnement extérieures.
 
 Le coefficient Mided de modulation de Icconstruction_max selon l'impact des données environnementales par défaut et valeurs forfaitaires (Icded) dans l'évaluation du bâtiment ou de la partie de bâtiment prend les valeurs suivantes :
 
@@ -2800,9 +2800,9 @@ La détermination des classes d'exposition au bruit (BR1, BR2, BR3) s'effectue e
 
 La détermination des classes d'exposition au bruit s'effectue baie par baie selon les modalités et conventions suivantes définies au 3 ci-après. La détermination de la classe d'exposition au bruit d'une partie de bâtiment est réalisée, à partir des classes d'exposition au bruit de ses baies, selon les modalités définies au 4 ci-après.
 
-1. Définition d'un obstacle &laquo; très protecteur &raquo; et &laquo; peu protecteur &raquo; à l'exposition au bruit
+1. Définition d'un obstacle très protecteur et peu protecteur à l'exposition au bruit
 
-Un obstacle à l'exposition est un masque à la propagation du bruit (bâtiment, écran acoustique, butte de terre…). Un obstacle est &laquo; très protecteur &raquo; s'il est situé à une altitude supérieure ou égale à celle de l'étage exposé considéré. Un obstacle est &laquo; peu protecteur &raquo; s'il est situé à une altitude inférieure à celle de l'étage considéré tout en constituant un masque visuel de l'infrastructure.
+Un obstacle à l'exposition est un masque à la propagation du bruit (bâtiment, écran acoustique, butte de terre…). Un obstacle est très protecteur s'il est situé à une altitude supérieure ou égale à celle de l'étage exposé considéré. Un obstacle est peu protecteur s'il est situé à une altitude inférieure à celle de l'étage considéré tout en constituant un masque visuel de l'infrastructure.
 
 Lorsque l'obstacle est à plus de 250 mètres de la baie considérée et pour tenir compte de l'effet de courbure de la propagation du bruit (inversion thermique nocturne), on ajoute 10 mètres à l'altitude minimale nécessaire à la prise en compte de l'obstacle pour les locaux à usage d'habitation.
 
@@ -2814,7 +2814,7 @@ La vue de l'infrastructure depuis une baie est définie comme suit :
 
 - une vue partielle s'entend pour une vue horizontale de l'infrastructure inférieure à 90 degrés, après déduction des obstacles très protecteurs à l'exposition ;
 
-- il y a une vue masquée de l'infrastructure lorsque l'infrastructure ne peut pas être vue, en tenant compte des obstacles à l'exposition, depuis la baie. Ces obstacles peuvent être &laquo; très protecteurs &raquo; ou &laquo; peu protecteurs &raquo; au sens de la définition donnée d'un obstacle &laquo; très protecteur &raquo; et &laquo; peu protecteur &raquo; à l'exposition ;
+- il y a une vue masquée de l'infrastructure lorsque l'infrastructure ne peut pas être vue, en tenant compte des obstacles à l'exposition, depuis la baie. Ces obstacles peuvent être très protecteurs ou peu protecteurs au sens de la définition donnée d'un obstacle très protecteur et peu protecteur à l'exposition ;
 
 - une vue arrière s'entend pour la façade arrière du bâtiment par rapport à l'infrastructure.
 
@@ -3291,7 +3291,3 @@ Un local est de catégorie 1 dans les autres cas.
 Chapitre VI : Définition des composants
 
 Pour l'application du 4° de l'article R. 172-4, le mot : “ composants ” regroupe les “ produits de construction ”, “ produits de décoration ” et “ équipements électriques, électroniques et de génie climatique ”, au sens de l'article R. 171-15.
-
-NOTA :
-
-Conformément au premier alinéa de l’article 2 du décret n° 2021-1004 du 29 juillet 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
