@@ -1,0 +1,12 @@
+# Département : délibération 2 — Développement des énergies renouvelables - Maîtrise de la demande énergétique - Création d'une SEM EnR
+
+- Collectivité : Département
+- SIREN : 227300019
+- Date : 2022-03-04
+- Séance : Conseil Départemental
+- Matière : 7.4 Interventions economiques
+- Objet : Développement des énergies renouvelables - Maîtrise de la demande énergétique - Création d'une SEM EnR
+- Transmis à la préfecture : 2022-03-07
+- Pour : 36
+- Contre : 0
+- Jeu de données : https://www.data.gouv.fr/datasets/620a35443404cf038bbab378
