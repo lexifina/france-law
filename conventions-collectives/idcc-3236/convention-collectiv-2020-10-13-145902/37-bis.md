@@ -1,16 +1,12 @@
 # Article 37 bis
 
-La formule du forfait en heures sur l'année peut être convenue avec les catégories suivantes de salariés
+Conformément aux critères posés par le code du travail, une convention individuelle de forfait en heures peut être conclue :
 
-(1) :
+– avec les cadres dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés ;
 
-– les salariés cadres, au sens de la classification des emplois de la présente convention, affectés à des fonctions dont la nature ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés
+– avec les salariés qui disposent d'une réelle autonomie dans l'organisation de leur emploi du temps.
 
-(1) ;
-
-– les salariés qui disposent d'une réelle autonomie dans l'organisation de leur emploi du temps.
-
-(1)
+Dans le respect de ces critères, peuvent conclure une convention individuelle de forfait en jour les salariés relevant à minima du niveau IV, premier échelon, de la grille de classification de l'avenant n° 42 du 29 juin 2011 relatif à la classification des emplois annexé à la présente convention collective.
 
 L'horaire hebdomadaire de travail du salarié peut varier, d'une semaine sur l'autre, pour s'adapter à la charge de travail, sous réserve que soit respecté, dans le cadre de l'année, l'horaire annuel sur la base duquel le forfait a été convenu. L'horaire hebdomadaire de travail du salarié peut être réparti sur certains ou tous les jours ouvrables de la semaine en fonction de la charge de travail.
 
@@ -30,7 +26,7 @@ Les heures de travail accomplies, à la demande de l'employeur et compte tenu de
 
 En cas d'absence individuelle, les heures qui auraient dû être effectuées par le salarié ce jour-là seront comptabilisées pour l'appréciation du volume horaire total à effectuer sur la période de décompte, de façon à ce que l'absence du salarié ne le conduise pas à récupérer les heures perdues du fait de cette absence, à l'exception des cas où la législation autorise cette récupération. Les heures non effectuées seront déduites, au moment de l'absence, de la rémunération mensuelle lissée. En cas d'indemnisation, celle-ci sera calculée sur la base de la rémunération lissée.
 
-(2)
+(1)
 
 La mise en œuvre du forfait en heures doit faire l'objet d'une convention individuelle écrite avec le salarié. Cette convention précisera, notamment :
 
@@ -44,10 +40,6 @@ La mise en œuvre du forfait en heures doit faire l'objet d'une convention indiv
 
 – la nécessité d'assurer un suivi du nombre d'heures travaillées.
 
-(1) Les trois premiers alinéas de l'article 37 bis sont étendus sous réserve que soit précisées, par accord d'entreprise, les catégories éligibles au forfait en heures, conformément à l'article L. 3121-64 du code du travail. A ce titre, l'accord pourrait par exemple prévoir un renvoi à un niveau de classification ou une grille salariale.
-
-(Arrêté du 10 novembre 2021 - art. 1)
-
-(2) Le 12e alinéa de l'article 37 bis est étendu sous réserve qu'un accord d'entreprise précise l'impact, sur la rémunération des salariés, des arrivées et départs en cours de période de référence, conformément au 4° du I du l'article L. 3121-64 du code du travail.
+(1) Le 12e alinéa de l'article 37 bis est étendu sous réserve qu'un accord d'entreprise précise l'impact, sur la rémunération des salariés, des arrivées et départs en cours de période de référence, conformément au 4° du I du l'article L. 3121-64 du code du travail.
 
 (Arrêté du 10 novembre 2021 - art. 1)
