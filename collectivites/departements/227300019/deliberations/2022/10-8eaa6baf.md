@@ -1,0 +1,12 @@
+# Département : délibération 10 — Dispositif Itinéraires historiques – Crédits 2022 première répartition
+
+- Collectivité : Département
+- SIREN : 227300019
+- Date : 2022-03-04
+- Séance : Commission Permanente
+- Matière : 8.9 Culture
+- Objet : Dispositif Itinéraires historiques – Crédits 2022 première répartition
+- Transmis à la préfecture : 2022-03-07
+- Pour : 35
+- Contre : 0
+- Jeu de données : https://www.data.gouv.fr/datasets/620a35443404cf038bbab378
