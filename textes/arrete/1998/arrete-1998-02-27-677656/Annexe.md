@@ -62,7 +62,7 @@ L'aide au logement.
 
 L'aide à l'hébergement et à la réadaptation sociale.
 
-Le revenu minimum d'insertion.
+Le revenu de solidarité active.
 
 Les autres dispositifs d'aide contre l'exclusion.
 
