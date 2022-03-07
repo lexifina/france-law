@@ -64,7 +64,7 @@ Certificat de formation professionnelle des adultes, mention secrétaire sténod
 
 Certificat de capacité en droit (1er examen) ;
 
-Attestation délivrée après la première année d'études par l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris ;
+Attestation délivrée après la première année d'études par l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité ;
 
 Attestation délivrée par le centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille ;
 

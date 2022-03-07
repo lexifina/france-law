@@ -42,7 +42,7 @@ LISTE DES CORPS DE FONCTIONNAIRES ASSIMILÉS AUX PROFESSEURS DES UNIVERSITÉS ET
 
 -les maîtres-assistants nommés en application des décrets n° 60-1027 du 26 septembre 1960, n° 62-114 du 27 janvier 1962 et n° 69-526 du 2 juin 1969 ;
 
--les chefs de travaux des disciplines scientifiques et pharmaceutiques relevant du décret n° 50-1347 du 27 octobre 1950 relatif au statut des chefs de travaux des facultés de l'université de Paris, de l'Ecole normale supérieure et des facultés des universités des départements ;
+-les chefs de travaux des disciplines scientifiques et pharmaceutiques relevant du décret n° 50-1347 du 27 octobre 1950 relatif au statut des chefs de travaux des facultés de l'université Paris Cité, de l'Ecole normale supérieure et des facultés des universités des départements ;
 
 -les chefs de travaux du Conservatoire national des arts et métiers ;
 

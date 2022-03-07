@@ -46,7 +46,7 @@ Brevet d'enseignement industriel ;
 
 Diplôme d'élève breveté des écoles nationales professionnelles ;
 
-Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris (E. N. A. M.) ;
+Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité (E. N. A. M.) ;
 
 Certificat d'études administratives départementales et communales délivré par le centre de formation et de perfectionnement administratifs de l'université de Lille ;
 

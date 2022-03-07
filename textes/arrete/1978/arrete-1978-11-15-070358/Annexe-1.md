@@ -18,7 +18,7 @@ Les candidats au concours externe de rédacteur communal doivent être titulaire
 
 -certificat de capacité en droit ;
 
--diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris ;
+-diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité ;
 
 -certificat d'études administratives départementales et communales délivré par le centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille ;
 

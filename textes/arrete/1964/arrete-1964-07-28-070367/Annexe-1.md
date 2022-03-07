@@ -18,7 +18,7 @@ Un certificat de licence en droit ;
 
 Certificat de capacité en droit ;
 
-Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris ;
+Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité ;
 
 Certificat d'études administratives départementales et communales délivré par le centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille ;
 

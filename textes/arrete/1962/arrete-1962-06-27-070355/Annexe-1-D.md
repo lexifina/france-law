@@ -24,7 +24,7 @@ Un certificat de licence en droit ;
 
 Certificat de capacité en droit ;
 
-Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris ;
+Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité ;
 
 Certificat d'études administratives départementales et communales délivré par le centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille ;
 
@@ -298,7 +298,7 @@ Les candidats doivent être titulaires de l'un des diplômes ou titres suivants 
 
 Diplôme de l'école nationale d'administration municipale,
 
-près l'institut d'urbanisme de l'université de Paris.
+près l'institut d'urbanisme de l'université Paris Cité.
 
 Certificat d'études administratives départementales et communales délivré par le centre universitaire de formation et de perfectionnement administratifs près la faculté de Lille.
 
@@ -326,7 +326,7 @@ Agent principal d'une commune de moins de 10.000 habitants ayant au moins dix an
 
 Agent principal ou commis des services communaux ayant au moins dix ans de services effectifs depuis sa nomination dans le grade de commis et titulaire en outre de l'un des diplômes suivants (1) :
 
-Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris.
+Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité.
 
 Certificat d'études administratives départementales et communales du centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille.
 

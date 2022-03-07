@@ -20,9 +20,9 @@
 
 10. Diplôme de psychologie pathologique de l'université de Nancy, puis de l'université Nancy-II.
 
-11. Diplôme de psychologie pathologique de l'institut de psychologie de l'université de Paris.
+11. Diplôme de psychologie pathologique de l'institut de psychologie de l'université Paris Cité.
 
-12. Diplôme de psychopédagogie spéciale de l'institut de psychologie de l'université de Paris.
+12. Diplôme de psychopédagogie spéciale de l'institut de psychologie de l'université Paris Cité.
 
 13. Diplôme de psychologie de l'université Paris-V.
 

@@ -16,11 +16,11 @@ Diplôme d'études économiques générales ;
 
 Diplôme d'administration publique délivré par un institut régional d'administration ;
 
-Diplôme de l'institut d'urbanisme de l'université de Paris assorti de l'un des diplômes ci-après :
+Diplôme de l'institut d'urbanisme de l'université Paris Cité assorti de l'un des diplômes ci-après :
 
 Certificat d'études administratives et financières délivré par une faculté de droit ;
 
-Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris ;
+Diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université Paris Cité ;
 
 Certificat d'études administratives départementales et communales du centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille ;
 
