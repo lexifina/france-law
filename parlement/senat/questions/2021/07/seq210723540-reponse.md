@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210723540
+
+- Question : [SEQ210723540](seq210723540.md) — Désorganisation des épreuves certifiantes de fin d'année
+
+## Réponse
+
+*Éducation nationale, jeunesse et sports, JO du 2022-03-10, page 1345*
+
+Il est à souligner que cette première session du baccalauréat général et technologique réformé s'est déroulée dans un contexte fortement perturbé par la crise sanitaire que nous traversons depuis mars 2020. Ainsi, aux transformations structurelles, réglementaires, organisationnelles et techniques se sont ajoutées des bouleversements conjoncturels dus aux nécessaires adaptations et aménagements. Si dans la plupart des territoires et pour une grande majorité de candidats, les différentes opérations se sont bien déroulées, certaines convocations ont, en effet accusé du retard. Ce retard a cependant été compensé par une information généralisée aux élèves, candidats et parents par les chefs d'établissement d'accueil qui accompagnent leurs élèves en période d'examen, période par ailleurs bornée par des dates connues. Dans le contexte évoqué, les phases habituelles de tests des outils ont parfois été insuffisantes et le temps des vérifications et des ajustements contraint. Ainsi, quelques erreurs n'ont été que tardivement corrigées avec toujours le souci de ne léser aucun candidat. Sur la question de la convocation erronée pour les professeurs, il convient de se référer à la définition même de l'épreuve qui stipule : « Le jury est composé de deux professeurs de disciplines différentes, dont l'un représente l'un des deux enseignements de spécialité du candidat et l'autre représente l'un des enseignements communs ou l'autre enseignement de spécialité, ou est professeur documentaliste », autorisant ainsi la convocation de tout professeur quelle que soit sa discipline.
