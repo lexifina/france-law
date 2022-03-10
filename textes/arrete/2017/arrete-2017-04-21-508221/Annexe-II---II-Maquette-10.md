@@ -28,7 +28,7 @@ Dans le cadre de son projet professionnel, et au regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique
 
--soins palliatifs
+-médecine palliative
 
 -thérapie cellulaire/ transfusion
 
@@ -383,3 +383,7 @@ Certification européenne : Consensus européen (Référence : European Hematolo
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
 
 Commission locale sur rapport du coordonnateur local avec audition du candidat en cas de difficulté
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

@@ -216,9 +216,11 @@ Au moins l'un de ces quatre stages est accompli dans un lieu sans encadrement un
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--l'encadrement médical comprenant au moins deux praticiens seniors dont un ancien CCA/ AHU titulaire du DES d'Endocrinologie-Diabétologie-Nutrition, du DES d'Endocrinologie, Diabète, Maladies Métaboliques ou du DESC de Nutrition ;
+-un encadrement médical comprenant au moins deux praticiens seniors dont un ancien CCA/ AHU titulaire du DES d'Endocrinologie-Diabétologie-Nutrition, du DES d'Endocrinologie, Diabète, Maladies Métaboliques ou du DESC de Nutrition ;
 
--le recrutement de patients couvrant un éventail suffisant des pathologies prises en charge par la spécialité.
+-un recrutement de patients couvrant un éventail suffisant des pathologies prises en charge dans un des pans dédiés de la discipline (endocrinologie, diabétologie, obésité, dénutrition) (minimum par an 3 000 consultations-1 000 pour la dénutrition et/ ou 500 hospitalisations/ hôpital de jour) ;
+
+-l'organisation d'au moins deux visites hebdomadaires avec un médecin qualifié dans la spécialité, une supervision directe des prescriptions.
 
 3.5. Evaluation :
 
@@ -290,11 +292,13 @@ Autres : dépister les pathologies les plus communes et fréquentes de la spéci
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+1 stage d'un an, ou deux stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie :
 
--dans un lieu hospitalier avec encadrement universitaire agréé à titre principal en endocrinologie-diabétologie-nutrition de préférence d'une durée de six mois dans un CHU-sous la forme d'un stage couplé dans des lieux agréés à titre principal ou complémentaire en endocrinologie-diabétologie-nutrition ;
+-au moins un des 2 stages doit être orienté principalement vers l'activité ambulatoire supervisée (consultations, hôpital de jour etc.) ;
 
--ou sous la forme d'un stage mixte dans un lieu hospitalier et auprès d'un praticien-maître de stage des universités agréés à titre principal en endocrinologie-diabétologie-nutrition.
+-au moins un des 2 stages est accompli dans un lieu hospitalier avec encadrement universitaire ;
+
+-en fonction du projet professionnel de l'étudiant sera offerte la possibilité d'effectuer un stage mixte d'un semestre hospitalier et auprès d'un praticien-maître de stage des universités agréé à titre principal en endocrinologie-diabétologie-nutrition exerçant en libéral.
 
 4.5. Evaluation :
 
@@ -324,4 +328,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

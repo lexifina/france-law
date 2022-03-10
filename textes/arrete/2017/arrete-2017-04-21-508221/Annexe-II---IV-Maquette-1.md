@@ -84,7 +84,7 @@ Le dispositif spécialisé en addictologie et les partenaires.
 
 2.2. Stages :
 
-Stages à réaliser
+Stages à réaliser : 2 semestres dans un lieu bénéficiant d'un agrément fonctionnel pour la FST d'Addictologie. Ces stages peuvent être accomplis sous la forme d'un stage mixte ou d'un stage couplé.
 
 2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST d'Addictologie.
 
@@ -209,3 +209,7 @@ Conformément au VIII de l‘article 59 de l'arrêté du 12 avril 2017 portant o
 - la validation du portfolio ;
 
 - la validation des stages exigés pour la FST.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

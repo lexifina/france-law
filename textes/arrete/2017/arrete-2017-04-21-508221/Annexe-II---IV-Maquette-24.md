@@ -1,34 +1,96 @@
 # Article Annexe II - IV. Maquette 24
 
-FORMATION SPÉCIALISÉE TRANSVERSALE D'URGENCES PÉDIATRIQUES
+FORMATION SPÉCIALISÉE TRANSVERSALE SOMMEIL
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Etre capable de prendre en charge et d'orienter les pathologies aiguës urgentes et non urgentes médicales et chirurgicales de l'enfant, de sa sortie de maternité à la fin de l'adolescence.
+Compléter les connaissances et compétences acquises dans le cadre du DES d'origine, sur les pathologies du sommeil.
 
-Former à la maîtrise de la prise en charge des urgences vitales de l'enfant.
+Former des surspécialistes en médecine du sommeil.
 
-Former aux spécificités de l'enfant, nouveau-né inclus, dans la pathologie médicale, chirurgicale et traumatique d'urgence.
+1.2. Collèges d'Enseignants impliqués dans cette FST :
 
-Former à la réalisation des gestes techniques aux urgences pédiatriques.
+Collège des enseignants de Pneumologie, Neurologie, Psychiatrie, Oto-rhino-laryngologie, Cardiologie, Médecine et Santé au travail, Pédiatrie, Chirurgie Maxillo-Faciale et Chirurgie orale.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST
-
-Collège National des Pédiatres Universitaires (CNPU), Collège des Enseignants de Médecine d'Urgence
-
-1.3. Durée de la FST
-
-2 semestres.
+1.3. Durée de la FST : 2 semestres.
 
 1.4. Sélection des candidats à la FST
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-2. Caractéristiques
+2. Niveau 1
 
-2.1. Enseignements hors stages
+2.1. Durée : Six mois.
+
+2.2. Enseignements hors stages
+
+Volume horaire :
+
+2 demi-journées par semaine : une demi-journée en supervision en une demi-journée en autonomie.
+
+Nature des enseignements :
+
+En application de l'article 5 du présent arrêté : en 3 unités de validation (UV), dont l'une propre à la spécialité d'origine, enseignement en autonomie sous forme d'e-learning.
+
+Connaissances à maîtriser au terme de la formation.
+
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+
+- bases physiologiques du sommeil et des pathologies du sommeil.
+
+- de manière globale, évaluation des troubles du sommeil et procédures diagnostiques à mettre en œuvre.
+
+2.3. Stages
+
+Stages à réaliser
+
+1 stage d'un semestre centré sur les pathologies du sommeil de l'organe, généralement intégré dans un stage de plateau technique propre à chaque spécialité, dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Sommeil. Ce stage peut être accompli sous la forme d'un stage mixte ou d'un stage couplé.
+
+Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément.
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte les compétences du lieu de stage dans le diagnostic et la prise en charge des troubles du sommeil propres à chacune des spécialités, utilisant de manière habituelle les outils d'évaluation du sommeil, possédant un encadrement par un spécialiste temps plein, ayant une activité reconnue en médecine du sommeil dans le cadre de sa spécialité.
+
+Ce stage peut être accompli dans un service de physiologie ou d'explorations fonctionnelles multidisciplinaires.
+
+2.4. Compétences à maîtriser au terme de la formation
+
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+
+Apprendre à utiliser et à interpréter les outils d'évaluation (questionnaires, enregistrements nocturnes), ainsi que les techniques de prise en charge spécifiques à chacune des spécialités, concernant :
+
+- les troubles du sommeil et des rythmes circadiens rencontrés en psychiatrie ;
+
+- les troubles du sommeil neurologiques ;
+
+- les troubles respiratoires au cours du sommeil rencontrés en Pneumologie, Cardiologie, Oto-rhino-laryngologie Chirurgie Maxillo-Faciale et Chirurgie Orale ;
+
+- les troubles du sommeil fréquemment rencontrés en pédiatrie ;
+
+- les troubles du sommeil et les rythmes circadiens rencontrés en médecine du travail.
+
+2.5. Evaluation
+
+Modalités de l'évaluation des connaissances donnant accès au niveau 2 :
+
+Validation en ligne des trois UV de la phase d'apprentissage, avec une note ≥ 12/20 aux tests informatiques.
+
+Modalités de l'évaluation des compétences donnant accès au niveau 2 :
+
+Validation des acquis pratiques, à partir d'un portfolio électronique :
+
+- évaluation formative de l'utilisation, et des techniques thérapeutiques spécifiques ;
+
+- évaluation sommative : en fin de stage, par discussion de dossiers cliniques sous la responsabilité du responsable médical du lieu de stage.
+
+Avis favorable aux évaluations de fin de stage par le maître de stage.
+
+3. Niveau 2
+
+3.1. Durée : 6 mois.
+
+3.2. Enseignements hors stages
 
 Volume horaire :
 
@@ -36,96 +98,68 @@ Volume horaire :
 
 Nature des enseignements :
 
-En application de l'article 5 du présent arrêté :
+En application de l'article 5 du présent arrêté : enseignement en autonomie sous la forme d'e-learning.
 
-- enseignement en autonomie notamment par e-learning ;
+Connaissances et compétences à maîtriser au terme de la formation.
 
-- exercices supervisés de mise en situation, de simulation, apprentissage par résolution de problèmes ;
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- séminaires présentiels nationaux, interrégionaux ou régionaux.
+- reconnaître et explorer les plaintes de type somnolence diurne excessive, difficultés d'endormissement ou de maintien du sommeil, réveil précoce, endormissement précoce, agitation pendant le sommeil ;
 
-Connaissances à maîtriser au terme de la formation.
+- diagnostiquer et traiter toutes les pathologies du sommeil ;
 
-Les connaissances théoriques et pratiques générales sont détaillées dans la plateforme numérique de la FST, en particulier :
+- maîtriser toutes les techniques d'exploration du sommeil, du comportement pendant le sommeil, de la veille/vigilance et du rythme circadien veille-sommeil ;
 
-- l'organisation des urgences et de l'hospitalisation d'urgence ;
+- acquérir les connaissances liées aux aspects sociétaux, économiques, organisationnels et de recherche ;
 
-- les motifs de recours les plus fréquents, le niveau de soins requis et son degré d'urgence ;
+- réaliser et interpréter soi-même les examens suivants :
 
-- les signes de gravité potentiels ou avérés, et la prise en charge des détresses vitales immédiates ;
+- actimétrie ;
 
-- la démarche diagnostique, étiologique et pronostique en urgence ;
+- polygraphie cardiorespiratoire ;
 
-- les gestes techniques aux urgences pédiatriques ;
+- tous types de polysomnographies ;
 
-- les principes du triage et de l'orientation des enfants ;
+- tests itératifs de latence d'endormissement ;
 
-- l'urgence et les maladies chroniques de l'enfant ;
+- tests itératifs de maintien d'éveil.
 
-- les aspects relationnels avec les enfants et les parents et la gestion d'équipe hospitalière ;
+3.3. Stages
 
-- les particularités de la recherche clinique aux urgences pédiatriques.
+Nombre et durée des stages :
 
-2.2. Stages
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Sommeil. Ce stage peut être accompli sous la forme d'un stage mixte ou d'un stage couplé.
 
-Stages à réaliser :
+Critères d'agrément des stages :
 
-- 1 stage d'un semestre en urgences pédiatriques dans un lieu de stage bénéficiant d'un agrément fonctionnel pour la FST d'Urgences pédiatriques ;
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la présence dans le lieu de stage d'au moins un médecin qualifié en pneumologie ou en ORL et/ou d'au moins un médecin qualifié en neurologie ou en psychiatrie.
 
-- 1 stage d'un semestre en réanimation pédiatrique ou en service mobile d'urgence et de réanimation pédiatrique dans un lieu de stage bénéficiant d'un agrément fonctionnel pour la FST d'Urgences pédiatriques ;
+3.4. Evaluation
 
-- critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément.
-
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
-
-1) L'activité (≥ 15 000 passages pédiatriques annuels, présence d'une salle d'accueil des urgences vitales (SAUV) et d'une unité d'hospitalisation de courte durée (UHCD), avec plus de 5 % de taux d'hospitalisation pour un service d'urgences pédiatriques) ;
-
-2) L'encadrement académique, universitaire ou non-universitaire ;
-
-3) L'organisation de réunions interdisciplinaires ;
-
-4) L'implication pédagogique de la structure d'urgences ;
-
-5) La présence d'au moins 2 ETP pédiatre.
-
-2.3. Compétences à maîtriser au terme de la formation
-
-Ces compétences sont d'ordre clinique, technique, et comportemental et concernent notamment l'organisation de la médecine d'urgence de l'enfant, le triage, et les gestes en médecine d'urgence pédiatrique. Elles sont détaillées sur la plateforme numérique la FST.
-
-2.4. Evaluation
-
-Modalités de l'évaluation des connaissances.
+Modalités de l'évaluation des connaissances de la FST :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Evaluation, par le maître de stage, au terme de chacun des stages, par un formulaire standardisé et à partir des données du portfolio numérique de l'étudiant.
+Epreuve écrite théorique sur plateforme numérique, dossiers progressifs et tests de concordance de script.
 
-Evaluation à la fin de la FST, portant sur les domaines suivants :
+Modalités de l'évaluation des compétences de la FST :
 
-- connaissances théoriques : autoévaluation, certifiée par le pilote de la FST ou le tuteur, à l'aide des questions qui suivent les cours mis en ligne sur la plateforme numérique (e-enseignement et e-évaluation) ; examen final par QCM, dossiers de cas cliniques ;
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- connaissances pratiques en stage à l'aide du portfolio numérique, saisi par l'étudiant et certifié par le tuteur.
+Epreuve orale pratique comportant un entretien, une épreuve de codage de divers types de tracés polysomnographiques et l'analyse de deux cas cliniques.
 
-Modalités de l'évaluation des compétences.
-
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
-
-- évaluation, par le maître de stage, au terme de chacun des stages, par un formulaire standardisé et à partir des données du portfolio numérique de l'étudiant ;
-
-- présentation de cas cliniques lors de séminaires régionaux ou interrégionaux ;
-
-- évaluation lors de séances de simulation organisées localement.
-
-2.5. Modalités de validation de la FST
+3.5. Modalités de validation de la FST :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- validation des connaissances théoriques (portfolio numérique et examen des connaissances) ;
+Validation de l'épreuve écrite.
 
-- validation des compétences ;
+Validation de l'épreuve pratique.
 
-- mémoire pouvant prendre la forme de projets de recherche/résultats d'une recherche/EPP ;
+Validation des deux stages.
 
-- participation comme auditeur et/ou présentateur à une rencontre scientifique d'urgences pédiatriques ;
+Validation de l'ensemble des items du portfolio électronique.
 
-- avoir montré, sur la période de formation, un investissement dans la recherche clinique aux urgences pédiatriques.
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

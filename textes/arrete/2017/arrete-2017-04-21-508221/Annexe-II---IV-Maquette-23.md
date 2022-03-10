@@ -1,28 +1,118 @@
 # Article Annexe II - IV. Maquette 23
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE THÉRAPIE CELLULAIRE - TRANSFUSION
+FORMATION SPÉCIALISÉE TRANSVERSALE DE PHARMACOLOGIE MÉDICALE/THÉRAPEUTIQUE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Donner à des médecins et à des pharmaciens biologistes des compétences pluridisciplinaires renforcées dans les domaines des thérapies cellulaires et géniques (TCG), de la transfusion, et de l'ingénierie cellulaire et tissulaire.
+Créer des liens entre la pharmacologie médicale, la thérapeutique et les différentes autres spécialités afin d'augmenter la capacité à mener des grands essais thérapeutiques, d'optimiser le bon usage du médicament à l'échelon individuel et collectif, d'améliorer le système de prise en charge du risque médicamenteux, de mieux participer aux expertises collectives.
 
-1.2 Collèges d'enseignants impliqués dans cette FST
+1.2. Collèges d'enseignants impliqués dans cette FST
 
-Collège des Enseignants d'Hématologie, Collège des enseignants d'Immunologie, Collège National des Enseignants de Médecine Interne.
+Collège National de Pharmacologie Médicale et Collège National des Enseignants de Thérapeutique.
 
 1.3. Durée de la FST
 
 2 semestres.
 
-1.4. Sélection des candidats à la FST
+1.4. Sélection des candidats à la FST :
 
 Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-2. Caractéristiques
+2. Niveau 1
 
-2.1. Enseignements hors stages
+2.1. Durée :
+
+1 semestre.
+
+2.2. Enseignements hors stages
+
+Volume horaire : 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+
+Nature des enseignements :
+
+En application de l'article 5 du présent arrêté :
+
+- enseignement en autonomie sous la forme d'e-learning ;
+
+- séminaires présentiels.
+
+Connaissances à maîtriser à l'issue de la formation
+
+Elles sont détaillées sur la plateforme numérique de la FST.
+
+Outre le tronc commun de formation générale, elles portent en particulier sur :
+
+- pharmacologie générale et des grandes classes médicamenteuses avec une orientation particulière vers l'évaluation, le suivi et la pharmaco-surveillance (intégrant la pharmaco-épidémiologie et les méta-analyses) ;
+
+- développement des médicaments et des dispositifs médicaux (DM) (du préclinique à l'AMM), avec une attention particulière pour les principes méthodologiques, notamment aux phases cliniques d'évaluation ;
+
+- principes statistiques et méthodologiques, revues systématiques, méta-analyses ;
+
+- environnement médico-réglementaire des médicaments et des DM au niveau national et européen dans une perspective de Santé publique et sociale.
+
+2.3. Stages
+
+Stages à réaliser
+
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Pharmacologie médicale/thérapeutique.
+
+Critères d'agrément des stages dans la FST
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage :
+
+- services de pharmacologie médicale ;
+
+- laboratoires de pharmacologie - toxicologie ;
+
+- structures de type Centres Régionaux de Pharmacovigilance (CRPV), Centres d'Investigations Cliniques (CIC), Centre d'Evaluation et d'Information sur les Pharmacodépendances (CEIP) - addicto-vigilance centre anti-poisons ;
+
+- services cliniques de thérapeutiques ;
+
+- services médicaux, de santé publique ou de biologie ayant des activités en lien avec des structures de pharmacologie et/ou de thérapeutique ;
+
+- structures de recherche clinique.
+
+2.4. Compétences à maîtriser au terme de la formation
+
+Elles sont détaillées sur la plateforme de la FST, en particulier :
+
+- maîtrise des principes fondamentaux des mécanismes d'action des médicaments utilisés dans la spécialité d'origine de l'étudiant ;
+
+- maîtrise des bases de la prescription personnalisée et du suivi thérapeutique des patients ;
+
+- maîtrise des principes de la méthodologie des essais cliniques et de leur interprétation ;
+
+- maîtrise des principes de la méthodologie des études mises en place pour la surveillance des médicaments et des dispositifs médicaux après leur commercialisation (pharmacovigilance, pharmaco-épidémiologie) ;
+
+- maîtrise des modalités de la prescription et de délivrance des médicaments en vue d'optimiser leur bon usage.
+
+2.5. Evaluation
+
+Modalités de l'évaluation des connaissances, donnant accès au niveau 2 de la FST :
+
+Validation en ligne de l'acquisition des connaissances théoriques du tronc commun.
+
+Modalités de l'évaluation des compétences, donnant accès au niveau 2 de la FST :
+
+Evaluation du stage par le maître de stage.
+
+Validation régionale par un examen pratique constitué d'une épreuve parmi les trois suivantes :
+
+- proposition d'un dessin d'essai clinique ;
+
+- analyse d'un cas de pharmacovigilance ;
+
+- interprétation d'un cas de suivi thérapeutique pharmacologique.
+
+3. Niveau 2
+
+3.1. Durée :
+
+1 semestre.
+
+3.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel (gestion de cabinet…)
 
 Volume horaire :
 
@@ -32,140 +122,98 @@ Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
-- enseignements présentiels : cognitifs, études de cas.
+- enseignement en autonomie notamment par e-learning ;
 
-- e-learning, avec QCM, QROC et cas cliniques progressifs.
+- séminaire en pédagogie inversée ;
 
-Connaissances à maîtriser au terme de la formation.
+- production de contenu pédagogique.
 
-Elles sont détaillées dans la plateforme numérique de la FST, en particulier :
+Connaissances et compétences à maîtriser au terme de la formation
 
-Transfusion
+Connaissances
 
-- chaine transfusionnelle et sécurité transfusionnelle.
+Les connaissances sont détaillées sur la plateforme numérique de la FST.
 
-- immuno-hématologie cellulaire.
+Choix de deux modules de formation théorique parmi les cinq proposés.
 
-- Bonnes Pratiques Transfusionnelles.
+Module pharmacologie et toxicologie biologique : connaître les sources de variabilité de l'effet des différentes classes médicamenteuses pour les intégrer au suivi pharmacologique thérapeutique, dont il faudra connaître la méthodologie et l'interprétation.
 
-Greffe de cellules souches hématopoïétiques
+Module Pharmaco surveillance : connaître les différentes situations de risque médicamenteux, leur mécanisme et les méthodes de détection pour assurer une pharmaco surveillance intégrant la notification spontanée, la pharmaco épidémiologie, l'analyse des bases de données pour contribuer à l'expertise de ce risque.
 
-- notion de cellules souches, origine et prélèvement des cellules souches hématopoïétiques (CSH).
+Module Evaluation des médicaments : connaître les méthodes d'évaluation du médicament chez le volontaire sain ou les patients et savoir les mettre en œuvre pour évaluer les différents types d'approche pharmacologique.
 
-- manipulation et contrôle des greffons de cellules hématopoïétiques.
+Module évaluation des thérapeutiques non médicamenteuses (incluant les dispositifs médicaux) : connaître les méthodes d'évaluation des approches thérapeutiques non médicamenteuses chez le volontaire sain ou les patients et savoir les mettre en œuvre.
 
-- greffe autologue/allogénique, histocompatibilité, réaction du greffon contre l'hôte (GVH)/réaction du greffon contre la leucémie (GVL), conditionnements à la greffe.
+Module bon usage des traitements à l'échelon individuel et collectif : connaître les modalités d'évaluation des stratégies thérapeutiques et les intégrer à une perspective d'efficience médicale et économique de santé publique.
 
-- maladies transmissibles par la greffe, chimérisme.
-
-Thérapie génique, immunothérapie cellulaire
-
-- notion de vectorisation, transduction cellulaire, indications cliniques.
-
-- spécificités techniques et réglementaires.
-
-- immunologie ciblée : les chimeric antigen receptor T-cells (CAR T cells) et les autres cellules immunocompétentes utilisées.
-
-Ingénierie cellulaire et tissulaire - médecine régénérative
-
-- les différentes sources de cellules à activité régénérative (cellules souches embryonnaires, Induced pluripotent stem cells (iPSCs), cellules souches adultes).
-
-- prélèvements de thérapie cellulaire - aphérèses.
-
-- prélèvements, Immunologie et compatibilité en greffe de tissus.
-
-- supports & matrices extra-cellulaires.
-
-- la chaine de préparation :
-
-Réception, procédés d'ingénierie cellulaire, contrôle qualité, libération, distribution/dispensation
-
-- les locaux et les équipements impliqués ;
-
-- les principaux actes techniques, leurs paramètres critiques ;
-
-- les innovations technologiques : feuillets cellulaires, impression 3D, stéréolithographie.
-
-- thérapie tissulaire et transplantation d'organes.
-
-- les indications thérapeutiques de thérapie cellulaire et tissulaire en dehors des greffes de CSH.
-
-Les contextes réglementaires et la mise en œuvre des activités de thérapie cellulaire, génique, et tissulaire
-
-- phase de développement préclinique et clinique.
-
-- les Bonnes Pratiques Tissus Cellules et les Bonnes Pratiques de Fabrication des médicaments.
-
-- les agences nationales et européennes impliquées.
-
-- maîtrise de l'environnement des productions.
-
-- hygiène et sécurité.
-
-- produit de Thérapie Cellulaire (PTC) et Médicaments de Thérapie Innovante (MTI), exemption hospitalière.
-
-- transfert de technologies, contrôle qualité, production et libération des PTC et des MTI.
-
-- système de management de la qualité, paramètres critiques en culture cellulaire in vitro, notion de plan de validation d'expériences, analyse de risques, de media process test, de critères libératoires.
-
-- brevets et licences : propriété intellectuelle.
-
-- éthique en transfusion et thérapie cellulaire, communication sur les résultats de recherche, marketing et commercialisation des produits de thérapie cellulaire et génétique, tourisme médical.
-
-2.2. Stages
-
-Stages à réaliser
-
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Thérapie cellulaire - transfusion.
-
-Critères d'agrément des stages dans la FST.
-
-Conformément à l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage : unités de thérapie cellulaire et génique des CHU, de l'Etablissement Français du Sang (EFS), des Centres de lutte contre le cancer (CLCC), services d'aphérèse thérapeutiques, banques des tissus des CHU, pharmacie à usage intérieur (PUI) ayant des activités dans le domaine des médicaments de thérapie innovante, industriels de la pharmacie fabriquant des médicaments de thérapie innovante, agences réglementaires (Agence Nationale de Sécurité du Médicament et des Produits de Santé (ANSM), Agence de Biomédecine (ABM) notamment), unités de recherche spécialisées dans les domaines concernés (Inserm, CNRS, CEA, ), notamment.
-
-2.3. Compétences à maîtriser au terme de la formation
+Compétences
 
 Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-- prendre en charge un dossier de préparation des greffons pour greffes de CSH : contrôles à réception, production du greffon, contrôle de qualité du greffon, principes de sécurité des greffes, libération, assurance qualité associée ;
+Pour la pharmacologie médicale
 
-- appliquer les principes de la sécurité des transfusions et des greffes, assurer le suivi des patients après administration du greffon ;
+- expertise en matière de suivi pharmacologique et thérapeutique pour contribuer au bon usage du médicament et de la personnalisation des prescriptions ;
 
-- appliquer les principes relatifs aux techniques mises en œuvre dans les thérapies cellulaires et géniques ;
+- expertise en matière de pharmaco surveillance pour analyser un problème de risque médicamenteux en y intégrant l'ensemble des données pharmacologiques, pharmaceutiques et médicales ;
 
-- assurer une médecine transfusionnelle de qualité, et les thérapies cellulaires et géniques dans le cadre de leurs indications thérapeutiques ;
+- expertise en pharmacologie clinique pour la réalisation et l'interprétation, éventuellement comparative, des essais cliniques, évaluant les différentes approches pharmacologiques ;
 
-- participer activement à la mise en œuvre d'un essai clinique de thérapie cellulaire et génique ;
+- expertise dans l'analyse du rapport bénéfice/risque des médicaments dans une perspective réglementaire et de Santé publique (élaboration de recommandations).
 
-- développer et argumenter un projet de recherche simple de thérapies cellulaire et génique, identifier les freins et les opportunités pour sa mise en œuvre, décrire un plan d'expérience.
+Pour la thérapeutique
 
-2.4. Evaluation
+- expertise dans l'évaluation et l'interprétation des essais cliniques des approches thérapeutiques médicamenteuses et non médicamenteuses ;
+
+- expertise dans l'analyse du rapport bénéfice/risque des stratégies thérapeutiques dans une perspective réglementaire et de Santé publique (élaboration de recommandations).
+
+3.3. Stages
+
+Nombre et durée des stages :
+
+1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Pharmacologie médicale/thérapeutique.
+
+Critères d'agrément des stages de niveau II :
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la nature du lieu de stage :
+
+- services de pharmacologie médicale ;
+
+- laboratoires de pharmacologie - toxicologie ;
+
+- structures de type CRPV, CIC, CEIP- addicto-vigilance, centre anti-poisons ;
+
+- services cliniques de thérapeutique ;
+
+- services médicaux, de santé publique ou de biologie ayant des activités en lien avec des structures de pharmacologie et/ou de thérapeutique ;
+
+- structures de recherche clinique ;
+
+- agences de régulation ;
+
+- industrie pharmaceutique.
+
+3.4. Evaluation
 
 Modalités de l'évaluation des connaissances :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- contrôle des connaissances organisé à la fin des modules théoriques (QCM) ;
+Examen oral de contrôle des connaissances.
 
-- examen oral de contrôle des connaissances ;
+Modalités de l'évaluation des compétences :
 
-- modalités de l'évaluation des compétences :
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine ;
+Mémoire rédigé sous la forme d'un article scientifique, dont le sujet est en lien avec la FST.
 
-- validation des stages ;
-
-- compétences acquises listées dans le portfolio ;
-
-- mémoire court en lien avec un des stages (mémoire " d'activité et compréhension ", revue de la littérature : le thème sera défini entre le candidat, le responsable de stage et le pilote).
-
-2.5. Modalités de validation
+3.5. Modalités de validation de la FST
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- examen oral de contrôle des connaissances ;
+mémoire rédigé sous la forme d'un article scientifique, dont le sujet est en lien avec la FST ;
 
-- fiches d'évaluation de stages ;
+soutenance orale suivie de questions spécifiques ou générales.
 
-- vérification des compétences acquises listées dans le portfolio ;
+NOTA :
 
-- présentation d'un mémoire court en lien avec un des stages (mémoire " d'activité et compréhension ", revue de la littérature : le thème sera défini entre le candidat, le responsable de stage et le pilote).
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

@@ -64,7 +64,7 @@ Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
 Stages à réaliser :
 
-2 semestres dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Fœtopathologie.
+2 semestres dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Fœtopathologie. Ces stages peuvent être accomplis sous la forme d'un stage mixte ou d'un stage couplé.
 
 Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément.
 
@@ -135,3 +135,7 @@ Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant org
 - validation de l'épreuve théorique écrite ;
 
 - réalisation et interprétation d'au moins 50 autopsies cosignées avec un médecin sénior en fœtopathologie.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

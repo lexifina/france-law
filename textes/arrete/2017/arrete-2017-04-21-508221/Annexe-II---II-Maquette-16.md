@@ -32,7 +32,9 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique
 
--soins palliatifs
+-médecine palliative ;
+
+-médecine en situation de guerre ou en situations sanitaires exceptionnelles (SSE)
 
 2. Phase socle
 
@@ -468,7 +470,7 @@ l'étudiant acquiert les compétences spécifiques lui permettant de se prépare
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an ou 2 stages de un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+1 stage d'un an ou 2 stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
 
 -dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation
 
@@ -611,3 +613,7 @@ Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant org
 Entretien avec la commission locale de coordination de médecine intensive-réanimation en présence d'un pédiatre hospitalo-universitaire exerçant en réanimation pédiatrique
 
 Possibilité de présenter l'examen du diplôme européen de soins intensifs pédiatriques (Paediatric European Diploma in Intensive Care, PEDIC).
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

@@ -26,7 +26,7 @@ Dans le cadre de son projet professionnel, et au regard des besoins de santé et
 
 -nutrition appliquée ;
 
--soins palliatifs.
+-médecine palliative.
 
 2. Phase socle
 
@@ -252,9 +252,9 @@ Stages de niveau II à réaliser : 6 semestres.
 
 -ou 4 stages dans un lieu hospitalier agréé à titre principal en hépato-gastroentérologie et garantissant l'accès à un plateau technique pendant 6 mois cumulés ;
 
--1 stage accompli hors de la spécialité, dans un lieu de stage agréé à titre complémentaire en hépato-gastro-entérologie et à titre principal dans une autre spécialité notamment en médecine interne ou maladies infectieuses et tropicales, médecine intensive-réanimation, en anatomie cytologie-pathologique, en radiologie et imagerie médicale ou en oncologie ;
+-1 stage accompli hors de la spécialité, dans un lieu de stage agréé à titre complémentaire en hépato-gastro-entérologie et à titre principal dans une autre spécialité notamment en médecine interne ou maladies infectieuses et tropicales, médecine intensive-réanimation, en anatomie cytologie-pathologique, en radiologie et imagerie médicale ou en oncologie, en nutrition, en addictologie ou en médecine palliative ;
 
--1 stage en hépato-gastro-entérologie, de préférence en ambulatoire auprès d'un praticien agréé maîtres de stage des universités ou sous la forme d'un stage mixte.
+-1 stage libre adapté au parcours professionnel après accord du coordonnateur local
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -516,4 +516,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

@@ -20,13 +20,15 @@ audiophonologie (audiologie et phoniatrie).
 
 Dans le cadre de son projet professionnel, et au regard des besoins de santé et de l'offre de formation, l'étudiant peut candidater à une FST, notamment :
 
--cancérologie ;
+- cancérologie ;
 
--chirurgie orbito-palpébro-lacrymale ;
+- chirurgie orbito-palpébro-lacrymale ;
 
--maladies allergiques ;
+- chirurgie en situation de guerre ou de catastrophe ;
 
--sommeil.
+- maladies allergiques ;
+
+- sommeil.
 
 2. Phase socle
 
@@ -108,7 +110,7 @@ Stages à réaliser :
 
 -1 stage dans un lieu hospitalier agréé à titre principal en ORL et chirurgie cervico-faciale dans un secteur hors explorations fonctionnelles ;
 
--1 stage dans un lieu hospitalier agréé à titre principal dans une autre spécialité chirurgicale.
+-1 stage dans un lieu hospitalier agréé à titre principal dans une autre spécialité chirurgicale ou dans le secteur d'explorations fonctionnelles d'un lieu hospitalier agréé à titre principal en ORL et CCF.
 
 Critères d'agrément des stages de niveau I dans la spécialité :
 
@@ -128,19 +130,17 @@ En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant o
 
 Modalités de l'évaluation des connaissances :
 
-Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément a ̀ l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--connaissances théoriques : autoévaluation sur la plateforme numérique d'e-learning ou évaluation lors de session d'enseignement au CHU, certifiée par le coordonnateur local, à l'aide des questions qui suivent les cours mis en ligne sur la plateforme numérique. Examen régional ou interrégional par questions à choix multiples ;
-
--connaissances pratiques :
-
-En stage : portefeuille numérique, saisi par l'étudiant et certifié par le maître de stage, contenant les actes pratiques auquel l'étudiant a participé ou qu'il a réalisés.
-
-Hors stage : bilan, certifié par le coordonnateur local, de l'activité réalisée en centres de simulation.
+Autoévaluation sur la plateforme numérique d'e-learning ou évaluation lors de session d'enseignement au CHU, certifiée par le coordonnateur local, a ̀ l'aide des questions qui suivent les cours mis en ligne sur la plateforme numérique. Examen régional ou interrégional par questions a ̀ choix multiples.
 
 Modalités de l'évaluation des compétences :
 
-Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément a ̀ l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+-analyse du portefeuille numérique, saisi par l'étudiant et certifié par le maître de stage, contenant les actes pratiques auxquels l'étudiant a participé ́ ou qu'il a réalisés ;
+
+-analyse par le coordonnateur de l'activité réalisée en centre de simulation ;
 
 -évaluation, par le maître de stage, au terme de chacun des stages, par un formulaire standardisé couvrant 5 domaines (professionnalisme, autonomie et responsabilité, agilité et adaptation psychomotrice, connaissances cliniques et leurs mises en œuvre, implication dans les activités académiques) et une conclusion permettant d'orienter le contrat de formation ;
 
@@ -196,7 +196,7 @@ Les connaissances théoriques et pratiques spécifiques sont détaillées dans l
 
 -la pathologie rhino-sinusienne ;
 
--la pathologie du larynx et des voies aéro-digestives supérieures ;
+-la pathologie du larynx et des voies aéro-digestives supérieures cavités nasales et buccales, pharynx et larynx et trachée ;
 
 -la pathologie du sommeil ;
 
@@ -240,13 +240,13 @@ D.-En lien avec l'autoformation et l'autocritique : faire l'analyse critique d'u
 
 Stages de niveau II à réaliser dans la spécialité :
 
--4 stages dans un lieu hospitalier agréé à titre principal en ORL et CCF dont au moins un dans le secteur d'explorations fonctionnelles ;
+- 4 stages dans un lieu hospitalier agréé à titre principal en ORL et CCF dont au moins un dans le secteur d'explorations fonctionnelles s'il n'a pas déjà été effectué au cours de la phase socle ;
 
-Il est recommandé que l'un de ces stages soit accompli en dehors de la subdivision de rattachement.
+Il est recommandé que l'un de ces stages soit accompli en dehors de la subdivision de rattachement :
 
--1 stage dans un lieu hospitalier agréé à titre principal en neurochirurgie, en chirurgie maxillo-faciale, en chirurgie thoracique et cardiovasculaire, en chirurgie vasculaire, en chirurgie plastique, reconstructrice et réparatrice et à titre complémentaire en ORL et CCF ;
+- 1 stage dans un lieu hospitalier agréé à titre principal en neurochirurgie, en chirurgie maxillo-faciale, en chirurgie thoracique et cardiovasculaire, en chirurgie vasculaire, en chirurgie plastique, reconstructrice et réparatrice et à titre complémentaire en ORL et CCF. Ce stage peut être remplacé par 1 stage libre à titre exceptionnel pour répondre au projet professionnel de l'étudiant ;
 
--1 stage libre.
+- 1 stage libre.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -264,23 +264,23 @@ Modalités de l'évaluation des connaissances :
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--contrôle continu ;
+- contrôle continu ;
 
--auto-évaluation sur la plateforme numérique d'e-learning ;
-
--activité en centre de simulation.
+- auto-évaluation sur la plateforme numérique d'e-learning ;
 
 Modalités de l'évaluation des compétences :
 
-Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément a ̀ l'article 59 de l'arrêté ́ du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--évaluation, par le maître de stage, au terme de chacun des stages, par formulaire standardisé ;
+- évaluation, par le maître de stage, au terme de chacun des stages, par formulaire standardisé ́ ;
 
--évaluation, par le responsable du centre de simulation de l'apprentissage technique individuel et de l'apprentissage du travail en équipe ;
+- évaluation par le coordonnateur de l'activité en centre de simulation ;
 
--portefeuille numérique des actes réalisés, activité en centre de simulation, présentation de cas cliniques ;
+- évaluation par le coordonnateur de l'apprentissage technique individuel et de l'apprentissage du travail en équipe réalisé en centre de simulation ;
 
--entretien annuel entre l'étudiant et le coordonnateur local.
+- portefeuille numérique des actes réalisés, présentation de cas cliniques ;
+
+- entretien annuel entre l'étudiant et le coordonnateur local.
 
 3.6. Modalités de validation de la phase :
 
@@ -360,21 +360,21 @@ Modalités de l'évaluation des connaissances :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--validation de l'enseignement théorique (e-learning, e-évaluation) ;
-
--validation des exercices de simulation.
+- validation de l'enseignement théorique (e-learning, e-évaluation).
 
 Modalités de l'évaluation des compétences :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--évaluation, par le maître de stage, au terme de chacun des stages, par formulaire standardisé ;
+- évaluation, par le maître de stage, au terme de chacun des stages, par formulaire standardisé ;
 
--évaluation, par le responsable du centre de simulation de l'apprentissage technique individuel et de l'apprentissage du travail en équipe ;
+- évaluation, par le coordonnateur, de l'activité ́ en centre de simulation ;
 
--portefeuille numérique des interventions réalisées ;
+- évaluation, par le coordonnateur, de l'apprentissage technique individuel et de l'apprentissage du travail en équipe en centre de simulation ;
 
--entretien annuel avec le coordonnateur local.
+- portefeuille numérique des interventions réalisées ;
+
+- entretien annuel avec le coordonnateur local.
 
 Certification européenne :
 
@@ -384,11 +384,15 @@ La certification par l'examen de l'European Board Examination ORL-HNS est encour
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--validation des objectifs pédagogiques de connaissances et de compétences (e-learning, nombre des interventions et actes médico-techniques que l'étudiant doit avoir réalisées, exercices de simulation, formulaires d'évaluation) ;
+- validation des objectifs pédagogiques de connaissances et de compétences (e-learning, e-évaluation, nombre des interventions et actes médico-techniques que l'étudiant doit avoir réalisés, formulaires d'évaluation) ;
 
--entretien avec la commission locale de coordination de la spécialité ;
+- validation des exercices de simulation ;
 
--soumission d'au moins un article dans une revue à comité de lecture et présentation orale d'un travail de recherche sont encouragées.
+- soutenance d'un mémoire de DES ;
+
+- entretien avec la commission locale de coordination de la spécialité ;
+
+- soumission d'au moins un article de recherche clinique dans une revue à comité de lecture ou présentation d'un travail de recherche sous la forme d'un mémoire.
 
 5. Option audiophonologie (audiologie et phoniatrie)
 
@@ -506,4 +510,4 @@ Réalisation d'un mémoire de recherche clinique sur les troubles labyrinthiques
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

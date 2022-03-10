@@ -1,20 +1,16 @@
 # Article Annexe II - IV. Maquette 21
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE SOINS PALLIATIFS
+FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE DU SPORT
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-La FST est destinée à permettre l'acquisition de compétences clinique, relationnelle, éthique, ainsi qu'en coopération, management, pédagogie et recherche afin de permettre à un médecin de travailler dans une structure dédiée aux soins palliatifs (unités de soins palliatifs, équipes mobiles de soins palliatifs, réseau de soins palliatifs) ou au sein d'une spécialité confrontée à de nombreuses situations palliatives.
+L'objectif de la FST est d'apporter une formation transversale dédiée à la prise en charge (à visée d'absence de contre-indication et/ou d'adaptation de la pratique, de prévention des troubles et pathologies liés à la pratique du sport ainsi que leur prise en charge thérapeutique, explorations notamment fonctionnelles au service des éléments précédents) des sportifs et des patients dans le cadre des activités physiques et sportives pour la santé.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST
+1.2. Collèges d'Enseignants impliqués dans cette FST : Collège Français des Enseignants en Médecine et Traumatologie de l'Exercice et du Sport (CFEMTES) en lien avec les collèges des DES dans lesquels les étudiants suivant la FST sont inscrits.
 
-Collège national des enseignants pour la formation universitaire en soins palliatifs (CNEFUSP) en partenariat avec tous les collèges des DES dans lesquels les étudiants suivant la FST sont inscrits.
-
-1.3. Durée de la FST
-
-2 semestres.
+1.3. Durée de la FST : 2 semestres.
 
 1.4. Sélection des candidats à la FST
 
@@ -24,9 +20,7 @@ Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation
 
 2.1. Enseignements hors stages
 
-Volume horaire :
-
-2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+Volume horaire : 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
 Nature des enseignements :
 
@@ -34,172 +28,102 @@ En application de l'article 5 du présent arrêté :
 
 - enseignement en autonomie notamment par e-learning ;
 
-- séminaires présentiels.
+- enseignement en présentiel, éventuellement sous forme de séminaires (cours théoriques, pratiques, simulation) ;
+
+- présence au Congrès commun de la Société Française de Médecine de l'Exercice et du Sport et de la Société Française de Traumatologie du Sport (ateliers pratiques, conférences) ;
+
+- suivi médical tutoré de manifestations sportives.
 
 Connaissances à maîtriser au terme de la formation.
 
-Elles sont détaillées sur la plateforme numérique de la FST.
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-Connaissances générales
+- éléments de base des mécanismes d'adaptation à l'exercice (nutrition incluse) et à l'entrainement, en fonction de l'âge, du genre ou du handicap ;
 
-- définition des Soins palliatifs et des concepts rattachés.
+- théorie et pratique des tests d'aptitude de laboratoire et de terrain ;
 
-Connaissances cliniques
+- physiopathologie des principales affections en lien avec l'exercice, en fonction de l'âge, du genre ou du handicap
 
-- démarche clinique et thérapeutique lors des situations palliatives fréquemment rencontrées ;
+- éléments diagnostiques (évaluations clinique et fonctionnelle, imagerie) et thérapeutiques (y compris les éléments de base de la rééducation) des pathologies et traumatismes de l'appareil locomoteur en lien avec l'exercice physique, en fonction de l'âge, du genre ou du handicap ;
 
-- démarche clinique et thérapeutique lors de situations palliatives spécifiques ;
+- législation de la lutte anti-dopage et les grands principes de l'éthique dans le sport ;
 
-- relation et intersubjectivité, interactions patient-soignants-proches.
+- organisation du sport en France et les bases de la législation concernant sa réglementation ;
 
-Connaissances législatives et éthiques
+- grands principes des actions de prévention en médecine de l'exercice et du sport ;
 
-- cadre légal ;
+- bases de la psychopathologie du sport ;
 
-- directives anticipées, personne de confiance, sédation ;
-
-- délibération sur la proportionnalité des traitements ;
-
-- souhaits de mort ;
-
-- réflexion éthique : médecine, loi, demande sociale.
-
-Connaissances spécifiques
-
-- spécificité du travail selon le lieu de soin (équipe mobile de soins palliatifs (EMSP), unité de soins palliatifs (USP), établissements d'hébergement pour personnes âgées dépendantes (EHPAD), domicile) ;
-
-- démarche palliative et management d'équipe ;
-
-- repères pédagogiques ;
-
-- sensibilisation aux méthodes de recherche et aux études cliniques.
+- grands principes de la recherche en médecine du sport.
 
 2.2. Stages
 
-Stages à réaliser.
+Stages à réaliser :
 
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Soins palliatifs.
+2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Médecine du sport. Ces stages peuvent être accomplis sous la forme de stages couplés.
 
-L'étudiant effectue 12 mois dans des structures de médecine palliative exclusivement dédiées à cette activité : USP, EMSP intra ou extra-hospitalières, réseaux de soins palliatifs. Sur l'ensemble de son parcours de formation (DES + FST), l'étudiant aura obligatoirement fait 6 mois dans une USP et 6 mois dans une EMSP.
-
-Critères d'agrément des stages dans la FST.
+Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-La nature du lieu : EMSP, USP, réseaux de soins palliatifs ou autre structure de soins palliatifs intervenant au domicile :
+1. L'encadrement par un médecin titulaire du DESC ou de la capacité ou responsable d'enseignement universitaire.
 
-- des équipes expérimentées et reconnues au niveau régional ou interrégional ;
+2. Le degré de responsabilité des étudiants de troisième cycle.
 
-- une activité clinique suffisante pour garantir des apprentissages dans des situations variées ;
+3. La nature et l'importance des activités. Dans ce cadre, les activités de soins impliquent que la structure ait une activité suffisante en médecine et traumatologie de l'exercice et du sport du sport : au moins 30 % des patients ont une prise en charge spécifique, isolément ou en association avec une autre prise en charge (orthopédie, cardiologie, rééducation…), que la structure dispose d'une équipe soignante dédiée à leur prise en charge, que la structure propose des consultations avec un médecin qualifié en médecine du sport. 4. Le projet pédagogique de la structure : participation de l'étudiant de troisième cycle au programme thérapeutique et/ou à des consultations, organisation d'un staff hebdomadaire discutant des sportifs/patients suivis avec présentation de l'étudiant de troisième cycle à ce staff, organisation d'une réunion de bibliographie ou séance formalisée d'enseignement aux étudiants de troisième cycle au moins mensuelle.
 
-- un encadrement médical suffisant pour assurer une responsabilité pédagogique ;
-
-- l'implication des médecins référents dans des actions de formation, d'enseignement ou de recherche.
+Le service médical assurant le soutien du centre national des sports de la défense peut également être agréé.
 
 2.3. Compétences à maîtriser au terme de la formation
 
-Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
 
-Elles sont détaillées sur la plateforme numérique de la FST.
+- réaliser et interpréter un test d'aptitude et un test cardio-respiratoire d'effort ;
 
-La formation en médecine palliative repose sur l'apprentissage de compétences cliniques, relationnelle, éthique, coopération, management, pédagogie et recherche.
+- exercer ses activités de médecine du sport auprès des pratiquants dans une logique de prévention ;
 
-Au terme de la FST, le clinicien doit avoir acquis une compétence de type " praticien réflexif " avec une capacité à penser et à rendre compte de sa pratique en tenant compte de sa propre subjectivité, des éléments contextuels, des connaissances issues du domaine biomédical et des sciences humaines et sociales.
+- diagnostiquer et traiter les pathologies aigues ou chroniques liées à la pratique sportive, qu'elles soient non locomotrices ou de l'appareil locomoteur (incluant la pratique de gestes spécifiques, tels infiltrations, contentions…) en fonction de l'âge et en tenant compte de possibles effets dopants ou délétères pour la performance ;
 
-1. Compétences soignantes
+- prendre en charge les troubles physiologiques, psychologiques et musculo-squelettiques liés à une pratique sportive intensive et savoir dépister et prendre en charge le surentrainement ;
 
-- une compétence clinique en lien avec les situations rencontrées en médecine palliative.
+- mettre en œuvre les gestes d'urgence sur un terrain de sport ;
 
-- acquérir une compétence clinique, pharmacologique et thérapeutique pour faire face aux situations fréquemment rencontrées en situations palliatives (syndromes fréquents, urgence, sédation, agonie).
+- prescrire une activité physique chez un patient atteint d'Affection de Longue Durée et de toute pathologie chronique, mais aussi chez un patient sédentaire (quel que soit son âge), dans le cadre de la prévention primaire ;
 
-- acquérir une compétence clinique, pharmacologique, thérapeutique lors des situations particulières (chimiothérapies et traitements spécifiques en oncologie et hématologie, insuffisance d'organes ou de fonctions vitales, pédiatrie et néonatologie, AVC, maladie neuro-dégénérative, SLA, handicap, réanimation, maladies héréditaires).
+- prescrire une activité physique chez un sujet âgé fragile, en prévention de la perte d'autonomie ;
 
-- savoir mettre en œuvre une démarche scientifique et biomédicale au sein d'une approche globale du patient et en promouvant une qualité de relation.
+- élaborer et mettre en place la conduite d'un programme de recherche clinique et/ou de terrain dans le champ de la médecine du sport ;
 
-Une compétence relationnelle :
-
-- savoir transmettre une information biomédicale en tenant compte du vécu du ou des interlocuteurs (annonce de " mauvaises nouvelles " ; contexte de fragilité psychique ou psychiatrique, enfants, interlocuteurs avec troubles cognitifs…).
-
-- savoir informer et accompagner un patient de manière adaptée dans la rédaction des directives anticipées en associant la personne de confiance.
-
-- savoir accompagner un patient en refus de traitement.
-
-- savoir accompagner un patient exprimant un souhait de sédation ou de mourir.
-
-- savoir accompagner un patient et son entourage dans les situations psychiques ou familiales complexes.
-
-- savoir faciliter le dialogue entre professionnels de santé dans les situations complexes.
-
-- acquérir une compétence en médiation ainsi qu'en gestion de crises ou de conflits.
-
-Une " compétence " à la réflexion éthique :
-
-- savoir construire un processus délibératif, individuel et collectif, relatif à la proportionnalité des traitements dans les situations palliatives fréquemment rencontrées (hydratation, nutrition, transfusion, passage en réanimation, anticoagulant…).
-
-- savoir construire un processus délibératif, individuel et collectif, relatif à la proportionnalité des traitements dans les situations palliatives particulières (traitements spécifiques en oncologie et hématologie, réanimation, hémodialyse, traitements de suppléances vitales pour les personnes atteintes de maladies évolutives ou d'handicaps…).
-
-- être en capacité de développer sa propre réflexivité en tenant compte de sa propre subjectivité, de la singularité de la situation, des cadres collectifs (recommandations, lois, déontologie…), du contexte institutionnel et sociétal.
-
-- savoir exposer et argumenter une réflexion éthique en s'appuyant sur la littérature biomédicale et issue des sciences humaines et sociales.
-
-Une capacité de coopération :
-
-- savoir construire une continuité de parcours de soins en associant les divers professionnels de santé ou médico-sociaux et en anticipant les complications.
-
-- savoir développer une expertise en transversalité sans se substituer à la responsabilité des acteurs de première ligne.
-
-- savoir développer une démarche palliative en tenant compte de sa fonction professionnelle et des spécificités des lieux de vie ou de soins (EMSP, USP, LISP, domicile, EHPAD, établissements médico-sociaux).
-
-2. Compétences particulières pour un rôle d'encadrement ou responsabilité
-
-- savoir animer une équipe dans une optique d'interdisciplinarité.
-
-- savoir évaluer régulièrement les activités et les pratiques professionnelles.
-
-- savoir s'articuler dans le respect de sa fonction professionnelle avec les autres acteurs des champs sanitaires, médico-sociaux et administratifs.
-
-- savoir participer au développement de la démarche palliative dans un service de soins ou en institution.
-
-3. Compétences en formation et en pédagogie
-
-- savoir contribuer à la formation des professionnels de santé en situation clinique.
-
-- savoir s'associer de manière adaptée à des activités de sensibilisation ou de formation initiale et continue en soins palliatifs en tenant compte des acteurs et de leurs lieux de soins.
-
-4. Compétences en recherche
-
-- comprendre les enjeux de la recherche dans le champ de la maladie grave, de la fin de vie et de la médecine palliative.
-
-- savoir s'associer dans une fonction de clinicien à un projet de recherche.
+- coordonner une équipe pluridisciplinaire et des soins pluridisciplinaires en médecine du sport.
 
 2.4. Evaluation
 
-Modalités de l'évaluation des connaissances.
+Modalités de l'évaluation des connaissances :
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- participation à l'ensemble des séminaires.
+Examen écrit et oral.
 
-- présentation d'un mémoire dans le champ de la médecine palliative pouvant utiliser des méthodes quantitatives, qualitatives ou réflexives.
+Modalités de l'évaluation des compétences :
 
-- modalités de l'évaluation des compétences.
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
-
-- évaluation des compétences acquises lors de chaque stage par le référent de stage en s'appuyant sur une grille nationale.
-
-- Evaluation des apprentissages par le portfolio.
-
-- accompagnement et évaluation du parcours de l'étudiant avec le pilote de la FST ou son représentant lors d'au moins 3 entretiens (à l'inscription, à mi-parcours, avant la soutenance du mémoire).
+Examen oral et pratique avec cas clinique et mise en situation (utilisation de la simulation).
 
 2.5. Modalités de validation de la FST
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+Conformément au VIII de l'article 59 VIII de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- validation de tous les stages exigés pour la FST.
+- entretien trimestriel avec le pilote de la FST pour faire le point sur la complétion de sa formation théorique et le déroulement de sa formation pratique.
 
-- suivi des séminaires.
+- l'obtention de la FST repose sur :
 
-- validation du port folio.
+- appréciation du coordonnateur régional du DES d'origine ;
 
-- soutenance du mémoire dans le champ de la médecine palliative.
+- validation de tous les stages de la FST ;
+
+- présentation d'un mémoire rédigé sous la forme d'un article.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

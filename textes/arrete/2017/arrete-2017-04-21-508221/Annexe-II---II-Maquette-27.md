@@ -2,41 +2,51 @@
 
 DIPLÔME D'ÉTUDES SPÉCIALISÉES EN PSYCHIATRIE
 
-1. Organisation générale
+1. Formation
 
 1.1. Objectifs généraux de la formation :
 
-Le DES de psychiatrie propose une formation à l'exercice de la psychiatrie générale.
+Former des médecins spécialistes en psychiatrie de l'adulte et en psychiatrie de l'enfant et de l'adolescent.
 
 1.2. Durée totale du DES :
 
-8 semestres dont :
+10 semestres dont :
 
--au moins 3 dans un lieu avec encadrement universitaire tel que défini à l'article 1er du présent arrêté ;
+-au moins 2 dans un lieu agréé en psychiatrie de l'adulte et au moins 2 dans un lieu agréé en psychiatrie de l'enfant et de l'adolescent ;
 
--au moins 2 dans un lieu sans encadrement universitaire.
+-au moins 4 dans un lieu avec encadrement universitaire dont au moins 2 dans l'option précoce choisie tel que défini à l'article 1 du présent arrêté ;
 
-1.3. Intitulé des options proposées au sein du DES :
+-au moins 3 dans un lieu sans encadrement universitaire dont au moins 1 dans l'option précoce choisie.
 
--psychiatrie de l'enfant et de l'adolescent ;
+1.3. Intitulé des options précoces proposées au sein du DES :
 
--psychiatrie de la personne âgée.
+-psychiatrie de l'adulte (PA) ;
 
-1.4. Intitulé des formations spécialisées transversales (FST) indicatives :
+-psychiatrie de l'enfant et de l'adolescent (PEA).
 
-Dans le cadre de son projet professionnel, et en regard des besoins de santé et de l'offre de formation, l'étudiant peut être conduit à candidater à une FST, notamment :
+Organisation pédagogique : co-coordination durant la phase socle par les responsables des deux options précoces et au niveau régional parmi les responsables des deux options précoces des subdivisions (si plusieurs subdivisions par région). Pour les phases suivantes, la coordination est assurée par le responsable de l'option précoce choisie, dans chaque subdivision et au niveau régional parmi les responsables de l'option précoce choisie des subdivisions (si plusieurs subdivisions par région).
+
+1.4. Intitulé des options proposées au sein du DES :
+
+-psychiatrie de la personne âgée, accessible aux étudiants de PA ;
+
+-psychiatrie légale, accessible aux étudiants de PA et PEA ;
+
+-psychiatrie périnatale, accessible aux étudiants de PA et PEA.
+
+1.5. Intitulé des formations spécialisées transversales (FST) indicatives :
+
+Dans le cadre de son projet professionnel, et en regard des besoins de santé et de l'offre de formation, l'étudiant peut être conduit à candidater à une formation spécialisée transversale (FST), notamment :
 
 -addictologie ;
 
 -douleur ;
 
--expertise médicale-préjudice corporel ;
-
 -nutrition appliquée ;
 
 -pharmacologie médicale/ thérapeutique ;
 
--soins palliatifs ;
+-médecine palliative ;
 
 -sommeil.
 
@@ -44,7 +54,15 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 2.1. Durée :
 
-2 semestres.
+4 semestres dont :
+
+-au moins 1 dans un lieu agréé en psychiatrie de l'adulte avec encadrement universitaire ;
+
+-au moins 1 dans un lieu agréé en psychiatrie de l'enfant et de l'adolescent avec encadrement universitaire ;
+
+-au moins 1 dans un lieu sans encadrement universitaire dans la spécialité.
+
+2 des 4 stages semestriels, l'un dans un lieu agréé en psychiatrie de l'adulte, l'autre dans un lieu agréé en psychiatrie de l'enfant et de l'adolescent, doivent être réalisés avec un encadrement universitaire en phase socle, dans la mesure du possible. L'un des deux stages susvisés devra obligatoirement être réalisé en phase socle. Si dans la subdivision dans laquelle l'étudiant réalise son stage, il n'a été possible d'en faire qu'un en phase socle, il sera obligatoire d'en réaliser 3 dans les autres phases du diplôme d'études spécialisées.
 
 2.2. Enseignements hors stages :
 
@@ -54,31 +72,47 @@ Volume horaire :
 
 Nature des enseignements :
 
-En application de l'article 5 du présent arrêté :
+en application de l'article 5 du présent arrêté :
+
+-e-learning et télé-enseignement (local, régional et national) ;
 
 -séminaires ;
 
--travaux dirigés ;
-
 -simulation ;
 
--e-learning et enseignement à distance (local et régional).
+-travaux dirigés.
 
 Connaissances de base dans la spécialité à acquérir :
 
 -sémiologie, clinique et épidémiologie psychiatrique ;
 
--conduite d'entretiens individuels et familiaux et introduction aux psychothérapies et aux théories correspondantes ;
+-psychopathologie et physiopathologie des troubles psychiatriques, expression des symptômes et leurs représentations en fonction des cultures, de l'âge et du sexe ;
 
--développement et fonctionnement psychique du nourrisson à la personne âgée et sensibilisation aux outils de prévention ;
+-principes d'anatomie et de physiologie cérébrale ;
 
--spécificités de la psychopathologie aux différents âges de la vie et en fonction des cultures ; addictologie, physiopathologie ;
+-trajectoires développementales normales et pathologiques ;
 
--psychopharmacologie ;
+-stratégies d'évaluation diagnostique, étiologique, fonctionnelle et de la qualité de vie ;
 
--principaux instruments standardisés d'évaluation clinique et cognitive ; prescription et surveillance des contentions et isolements ;
+-addictologie ;
 
--modalités de demande de mise sous mesure juridique de protection des majeurs.
+-somnologie ;
+
+-sensibilisation aux stratégies de prévention et à la santé mentale ;
+
+-repérage de l'exposition à un traumatisme, dont abus et négligences, et principes de l'évaluation ;
+
+-psychopharmacologie et principes d'utilisation des psychotropes ; principes généraux de neurostimulation ;
+
+-introduction aux pratiques psychothérapiques et aux thérapies psychosociales ;
+
+-encadrement réglementaire des contentions et isolements et des soins sans consentement ;
+
+-organisation générale de l'offre de soins psychiatriques en France ;
+
+-connaître les principes de protection de l'enfance ;
+
+-principes éthiques en psychiatrie, secret professionnel, droit des usagers, consentement.
 
 Connaissances transversales à acquérir :
 
@@ -88,13 +122,17 @@ Outre les connaissances définies à l'article 2 du présent arrêté :
 
 -prescription adaptée des examens complémentaires ;
 
--repères pratiques et thérapeutiques en addictologie, identification et orientation des troubles envahissant du développement, douleur et soins palliatifs ;
+-repères pratiques et thérapeutiques en addictologie ;
+
+-identification et orientation des troubles du neurodéveloppement ;
+
+-repérage de la douleur et principes de prise en charge ;
 
 -lutte contre la stigmatisation ;
 
--recherche d'informations scientifiques nécessaires (utilisation des bases de données bibliographiques, lecture critique d'articles scientifiques …) ;
+-recherche d'informations scientifiques nécessaires (utilisation des bases de données bibliographiques, lecture critique d'articles scientifiques, etc.) ;
 
--démarche qualité.
+-promotion d'une psychiatrie basée sur les preuves, démarches d'évaluation des symptômes et des traitements, participation à la recherche clinique et organisationnelle, démarche qualité.
 
 2.3. Compétences à acquérir :
 
@@ -104,49 +142,41 @@ Elles sont listées dans l'article 2 du présent arrêté.
 
 Compétences spécifiques à la spécialité à acquérir :
 
--conduire un entretien psychiatrique initial ;
+-conduire un entretien psychiatrique initial, y compris dans le cadre de l'urgence et savoir-faire un examen clinique adapté pour aboutir à la rédaction d'une observation ;
 
--établir un diagnostic clinique adapté à l'âge et à la culture d'origine du patient ;
+-établir un diagnostic clinique adapté à l'âge et à la culture d'origine du patient, en tenant compte des aspects médicaux généraux associés ;
 
 -évaluer le degré d'urgence ; évaluer un risque suicidaire ;
 
--manier les traitements psychotropes en fonction de l'âge et des comorbidités du patient ;
+-repérage, documentation et suivi de l'exposition à un traumatisme, dont abus et négligences ;
 
--évaluer le rapport bénéfice/ risque avant la prescription ;
+-élaborer un projet de soins en s'appuyant sur un bilan complémentaire ;
 
--surveiller l'observance, l'efficacité et les effets indésirables ;
+-prescrire des psychotropes en fonction de l'âge, du sexe et des comorbidités du patient ;
 
--délivrer une information au patient et à la famille ;
+-délivrer une information au patient et à la famille et recueillir un consentement ;
 
--demander et recevoir le consentement du patient ;
+-prescription et surveillance des contentions et isolements ;
 
--demander des bilans complémentaires aux professionnels concernés (psychologues cliniciens, neuropsychologues, orthophonistes, psychomotriciens …) ;
+-rédiger les certificats de soins sans consentement et connaître leurs conditions de mise en œuvre ; (l'étudiant doit être initié à la rédaction de ces différents types de certificats mais n'est en aucun cas habilité à le faire seul) ;
 
--rédiger une observation ;
-
--rédiger les certificats de soins sous contrainte et connaître leurs conditions de mise en œuvre ;
-
--demander une ordonnance de placement provisoire (enfant, adolescent) ;
-
--transmettre une information préoccupante à l'institution adéquate dans le cadre légal du secret médical.
-
-L'étudiant est initié à la rédaction de ces différents types de certificats mais n'est pas habilité à le faire seul.
+-rédiger une information préoccupante, un signalement à l'institution adéquate dans le cadre légal du secret médical sous la responsabilité d'un médecin sénior.
 
 2.4. Stages :
 
 Stages à réaliser :
 
--1 stage dans un lieu hospitalier agréé à titre principal en psychiatrie et ayant une activité générale de psychiatrie de l'adulte ou de psychiatrie de l'enfant et de l'adolescent ;
+2 stages dans un lieu hospitalier agréé à titre principal en psychiatrie de l'adulte ;
 
--1 stage libre.
+2 stages dans un lieu hospitalier agréé à titre principal en psychiatrie de l'enfant et de l'adolescent ;
+
+1 stage hors spécialité est possible ; le stage de phase socle non réalisé est accompli au cours de la phase d'approfondissement en remplacement d'un stage libre visé au 3.4 de la présente maquette.
 
 Critères d'agrément des stages de niveau I dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le projet pédagogique validé par la commission locale de coordination du DES ;
-
--l'activité de soins encadrée au quotidien et évaluée, sous la responsabilité d'un psychiatre référent ;
+-l'activité de soins encadrée et évaluée au quotidien, sous la responsabilité d'un psychiatre référent ;
 
 -l'organisation de supervisions cliniques individuelles au moins hebdomadaires avec mises en situation assurées par des psychiatres exerçant, ne pouvant être confondues avec les réunions de synthèse ou l'activité clinique quotidienne ;
 
@@ -158,7 +188,9 @@ En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant o
 
 -la possibilité de participer à des activités de recherche et de formation ;
 
--les moyens d'accès à l'information psychiatrique (bibliothèque, internet) dans le lieu de stage.
+-les moyens d'accès à l'information psychiatrique (bibliothèque, internet) dans le lieu de stage ;
+
+-le temps séniorisé d'encadrement pédagogique d'activité de garde.
 
 2.5. Evaluation :
 
@@ -174,7 +206,7 @@ Modalités de l'évaluation des compétences :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
--entretiens entre l'étudiant et le psychiatre senior référent de son stage à un rythme mensuel ;
+-rencontres mensuelles entre l'étudiant et le psychiatre senior référent lors d'entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences ;
 
 -acquisitions tracées sur le portfolio numérique.
 
@@ -182,7 +214,7 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-Entretien individuel de l'étudiant avec la commission locale de spécialité en fin de phase socle.
+Entretien individuel de l'étudiant avec les coordonnateurs de la spécialité en fin de phase socle.
 
 3. Phase d'approfondissement
 
@@ -200,9 +232,7 @@ Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
--e-learning ;
-
--enseignement à distance (local et régional) ;
+-e-learning et télé-enseignement (local, régional et national) ;
 
 -séminaires ;
 
@@ -210,31 +240,75 @@ En application de l'article 5 du présent arrêté :
 
 -travaux dirigés.
 
-Connaissances à acquérir :
+3.2.1. Connaissances à acquérir par les étudiants inscrits dans l'option de psychiatrie de l'adulte :
 
 Les connaissances transversales sont listées dans l'article 3 du présent arrêté.
 
 Les connaissances spécifiques portent sur :
 
--l'organisation du projet de soins : règles d'utilisation des différentes thérapeutiques, en fonction de l'âge et des comorbidités du patient, recommandations actuelles de bonnes pratiques et cadre législatif des soins psychiatriques et du handicap ;
+1. L'histoire de la psychiatrie, ses différents courants de pensées et pratiques associées, ses principaux modèles ;
 
--l'organisation de l'offre de soins psychiatriques en France : organisation des structures sanitaires, sociales et médico-sociales, place des associations d'usagers, dimension médico-économique des soins en psychiatrie, acteurs, structures et modalités de fonctionnement nécessaires pour le suivi du patient, connaissance des secteurs éducatifs et professionnels adaptés à l'âge et à la psychopathologie du patient (Education nationale, Maisons départementales des personnes handicapées (MDPH), Commissions des droits et de l'autonomie des personnes handicapées (CDAPH), etc.) ;
+2. La conduite de l'examen en psychiatrie sur le plan clinique, psychométrique, neuro-cognitif, et des demandes d'examens complémentaires ; principes de la téléconsultation en psychiatrie ;
 
--les principes et techniques des principales approches psychothérapeutiques ;
+3. L'épidémiologie, la clinique, la physiopathologie, les modalités d'exploration et les principes de prise en charge des personnalités normales et pathologiques, des grands syndromes et troubles psychiatriques, d'un trouble de l'usage de substance, d'une addiction comportementale, d'une plainte concernant le sommeil, d'une plainte concernant la sexualité associés à un trouble psychiatrique, d'une situation de crise, notamment de crise suicidaire, des maladies rares et du neurodéveloppement à expression psychiatrique, des comorbidités non psychiatriques ;
 
--les bases réglementaires, fiscales et d'exercice des différentes pratiques de la psychiatrie.
+4. Les principes de détection et d'intervention précoce ; savoir faciliter la transition depuis les services de psychiatrie de l'enfant et de l'adolescent ;
+
+5. Les modalités thérapeutiques : introduction à au moins 3 modalités psychothérapiques principales (au cours du DES l'étudiant doit avoir bénéficié d'un enseignement d'au moins 80 heures dédiées aux pratiques psychothérapiques) ; psychopharmacologie des troubles psychiatriques, stratégies en cas de résistance, favoriser l'observance ; approche orientée vers le rétablissement, réhabilitation psychosociale et remédiation cognitive, principes d'éducation thérapeutique ; soins médicaux généraux, y compris mesures d'activités physiques ; traitements par neurostimulation ; actions de prévention primaire, secondaire et tertiaire en psychiatrie, y compris du risque suicidaire ;
+
+6. Les pratiques spécifiques : notion de périnatalité, et des troubles et des soins psychiatriques qui y sont associés ; principes de psychiatrie de liaison et du travail collaboratif avec les autres partenaires du soin ; introduction à la psychiatrie légale : notions d'agressologie et de victimologie et principes de prise en charge, les différents types d'expertises et leurs principes, l'évaluation de l'Incapacité Temporaire de Travail en psychiatrie, les soins en milieu pénitentiaire, les modalités de demande de mise sous mesure juridique de protection des majeurs ; notion de précarité et de ses liens avec la psychiatrie ; identité de genre et santé mentale ;
+
+7. L'organisation des soins : bases réglementaires, fiscales, juridiques de l'exercice professionnel, droits des patients ; principes de financement des activités en psychiatrie ; place des usagers ;
+
+8. La recherche en psychiatrie : les grands modèles et principales méthodes.
+
+3.2.2. Connaissances à acquérir par les étudiants inscrits dans l'option de psychiatrie de l'enfant et de l'adolescent :
+
+Les connaissances transversales sont listées dans l'article 3 du présent arrêté.
+
+Les connaissances spécifiques portent sur :
+
+En plus de la base commune au DES, l'enseignement théorique validant l'option PEA est organisé selon 7 thématiques :
+
+1. Histoire de la PEA et présentation des différents courants de pensée et des pratiques.
+
+2. Approche globale et intégrée du développement : connaissance du développement psychologique et neuro-développemental, connaissance de la perspective bio-psycho-sociale du développement, notion de trans-générationalité, spécificités transculturelles, handicap, bases juridiques/ droits des enfants, connaissance des facteurs de risque et de protection des pathologies psychiatriques. Identité de genre et santé mentale. Maladies rares et du neurodéveloppement à expression psychiatrique.
+
+3. Spécificités et évolution des pathologies psychiatriques de l'enfant et de l'adolescent : connaissance des caractéristiques des troubles selon les différentes périodes de la vie (périnatalité-petite enfance, âge scolaire, adolescence), présentation générale, épidémiologie, aspects cliniques et diagnostiques, principes thérapeutiques, prise en compte de la perspective développementale et connaissance des trajectoires des troubles au cours du temps, détection précoce, connaissance des facteurs de risque et prodromes des pathologies de l'âge adulte. Les différentes pathologies et situations d'urgence à connaître sont détaillées dans le référentiel métier de la PEA.
+
+4. Interfaces avec les pathologies non-psychiatriques, les troubles chroniques et le handicap : connaissance des facteurs de risque et comorbidités associées aux troubles psychiatriques et neuro-développementaux ainsi que de l'orientation médicale appropriée pour la prévention et/ ou la prise en charge de ces facteurs. Approche interdisciplinaire pour le diagnostic et la prise en charge de ces troubles. Connaissances des données d'épidémiologie. Connaître et savoir recommander les mesures de compensation du handicap de l'enfant et de l'adolescent.
+
+5. Modalités spécifiques de prise en charge adaptées à l'âge et au contexte : connaissance des principes nécessaires à la réalisation d'une évaluation diagnostique et fonctionnelle complète et appropriée d'un enfant (techniques d'entretien libres, standardisées et semi-standardisées et méthodes d'auto et hétéro-évaluations des symptômes et du fonctionnement). Savoir planifier, prescrire, coordonner et interpréter des évaluations pluridisciplinaires (orthophonie, psychologie et neuropsychologie, psychomotricité, ergothérapie, kinésithérapie, travail social et éducatif, etc.). Savoir créer et maintenir une relation thérapeutique efficace et savoir définir un plan thérapeutique adapté et conforme aux données probantes en collaboration avec l'enfant et sa famille : psychoéducation individuelle et familiale, éducation thérapeutique et bases des programmes de développement des habiletés parentales, approches psychothérapiques individuelles, groupales et familiales, bases des approches rééducatives, approches institutionnelles, traitements médicamenteux (psychoéducation, indications, surveillance clinique et biologique), innovations et perspectives. Faciliter la transition des adolescents vers les services de psychiatrie de l'adulte.
+
+6. L'organisation de l'offre de soins en psychiatrie de l'enfant et de l'adolescent en France et le travail en réseau.
+
+7. Les principes et techniques des principales approches psychothérapeutiques.
 
 3.3. Compétences :
 
-Compétences à acquérir :
+3.3.1. Compétences à acquérir pour les étudiants inscrits dans l'option de psychiatrie de l'adulte :
 
 Les compétences génériques sont listées dans l'article 3 du présent arrêté.
 
 Les compétences spécifiques sont les suivantes :
 
--réaliser des entretiens effectués dans le cadre d'un suivi thérapeutique ;
+-conduire un entretien individuel, familial et de groupe ;
 
--se coordonner avec d'autres professionnels impliqués dans la prise en charge du patient dont les compétences sont nécessaires au diagnostic ou à l'organisation de la prise en charge et susceptibles de fournir des informations utiles pour assurer la continuité des soins (médecin traitant, autres professionnels de santé ou des secteurs social, médico-social ou associatif) ;
+-réaliser des examens psychiatriques effectués dans le cadre d'un suivi thérapeutique, en prenant en compte le contexte culturel et social, y compris la précarité ;
+
+-se coordonner avec d'autres professionnels impliqués dans la prise en charge du patient dont les compétences sont nécessaires au diagnostic ou à l'organisation de la prise en charge et à la continuité des soins (médecin traitant, infirmiers de pratique avancée, psychologues, autres professionnels de santé ou des secteurs social, médico-social ou associatif) ;
+
+-établir une stratégie de prise en charge, et faire des choix thérapeutiques en fonction de la pathologie du patient, de son âge, de son sexe, et du contexte ; mettre en œuvre un projet de réhabilitation psychosociale, un suivi médical général ou spécifique en cas de maladie associée ;
+
+-mettre en place un contrat de soins avec le patient et son entourage ;
+
+-repérer une situation de maltraitance et connaître les modalités d'intervention et de signalement ;
+
+-s'initier à la rédaction des différents types de certificats (rapport d'expertise, mise sous mesure de protection juridique, certificat médical psychiatrique dans le cadre d'une réquisition ; certificat médical psychiatrique dans le cadre d'une procédure civile). L'étudiant doit savoir rédiger ces différents types de certificats, mais n'est en aucun cas habilité à le faire seul.
+
+3.3.2. Compétences à acquérir pour les étudiants inscrits dans l'option de psychiatrie de l'enfant et de l'adolescent :
+
+-réaliser des entretiens et établir une communication adaptée avec un enfant, un adolescent et des parents effectués dans le cadre d'un suivi thérapeutique ;
 
 -conduire un entretien familial et des entretiens de groupe ;
 
@@ -244,41 +318,77 @@ Les compétences spécifiques sont les suivantes :
 
 -proposer le suivi psychothérapeutique le plus approprié ;
 
--repérer une situation de maltraitance et connaître les modalités d'intervention et de signalement ;
+-repérer une situation de maltraitance et connaître les modalités d'intervention et de signalement
 
--s'initier à la rédaction des différents types de certificats (rapport d'expertise, mise sous mesure de protection juridique, certificat médical psychiatrique dans le cadre d'une réquisition (enfant et adulte) ; certificat médical psychiatrique dans le cadre d'une procédure civile). L'étudiant doit être initié à la rédaction de ces différents types de certificats mais n'est en aucun cas habilité à le faire seul.
+-avoir acquis un socle de connaissances théoriques, spécialisées, actualisées, issues de la littérature scientifique et des recommandations internationales, et couvrant l'ensemble des dimensions de la PEA ;
+
+-savoir utiliser et connaître les méthodes d'évaluation des éléments du développement normal et pathologique de l'enfant et de l'adolescent au plan cognitif, affectif, psychologique, psychomoteur et du langage.
+
+-avoir acquis une expertise clinique lors des stages effectués dans des services agréés et être ainsi apte à exercer le métier de psychiatre en PEA ;
+
+-avoir acquis une expérience du travail en partenariat (parents, professionnels de l'enfance, autres dispositifs sanitaires ou médico-sociaux) et être capable de s'adapter à différents lieux et modes d'exercice de la spécialité ;
+
+-être capable de transmettre son savoir et son savoir-faire et être acteur de l'organisation de réponses pertinentes aux besoins en santé mentale de l'enfant et de l'adolescent sur le territoire.
+
+-avoir été formé aux principes des psychothérapies pour les individus, les groupes ou les familles selon des méthodes comportementales/ cognitives, psychanalytiques/ dynamiques, systémiques/ narratives ou d'autres thérapies psychologiques appropriées fondées sur des preuves à un niveau de base, en assurant la liaison avec les professionnels.
+
+-acquérir les principes d'éthique et de respect des personnes dans son travail quotidien.
 
 3.4. Stages :
 
--1 stage dans un lieu hospitalier agréé à titre principal en psychiatrie et ayant une activité générale de psychiatrie de l'adulte ;
+A réaliser pour les étudiants inscrits dans l'option de psychiatrie de l'adulte :
 
--1 stage dans un lieu hospitalier agréé à titre principal en psychiatrie. Ce stage est accompli dans un lieu ayant une activité générale de psychiatrie de l'adulte si un tel stage n'a pas été accompli en phase socle ou dans un lieu ayant une activité générale de psychiatrie de l'enfant et de l'adolescent si un tel stage n'a pas été accompli en phase socle ;
+-2 stages dans un lieu hospitalier agréé à titre principal en psychiatrie de l'adulte ;
 
--1 stage dans un lieu hospitalier agréé à titre principal en psychiatrie et ayant une activité en psychiatrie soit de la périnatalité soit de l'adolescent soit de la personne âgée soit en addictologie ;
+-2 stages libres.
 
--1 stage libre.
+A réaliser pour les étudiants inscrits dans l'option de psychiatrie de l'enfant et de l'adolescent :
+
+-2 stages dans un lieu hospitalier agréé à titre principal en psychiatrie de l'enfant et de l'adolescent ;
+
+-2 stages libres.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le projet pédagogique validé par la commission locale de coordination de la spécialité ;
+-le projet pédagogique validé par la commission locale de coordination de l'option précoce de la spécialité ;
 
 -l'organisation des activités diagnostiques, thérapeutiques et préventives sous la responsabilité d'un psychiatre senior ;
 
--l'organisation de supervisions cliniques individuelles hebdomadaires par un psychiatre, ne pouvant être confondues avec les réunions de synthèse, l'activité clinique quotidienne, et portant sur le projet de soins et de suivi des patients.
+-l'organisation de supervisions cliniques individuelles hebdomadaires par un psychiatre, ne pouvant être confondues avec les réunions de synthèse, l'activité clinique quotidienne, et portant sur le projet de soins et de suivi des patients ;
+
+-l'activité de soins encadrée et évaluée de façon hebdomadaire, sous la responsabilité d'un psychiatre sénior référent ;
+
+-l'organisation d'entretien psychiatrique conjoint avec un psychiatre senior au moins une fois par hospitalisation pour chaque patient ;
+
+-la participation aux activités institutionnelles ;
+
+-la participation à des séances de présentations cliniques et de bibliographie organisées régulièrement dans le lieu de stage ;
+
+-la possibilité de participer à des activités de recherche et de formation ;
+
+-les moyens d'accès à l'information psychiatrique (bibliothèque, internet) dans le lieu de stage ;
+
+-le temps séniorisé d'encadrement pédagogique d'activité de garde ;
+
+-un stage est possible en cabinet de psychiatrie libérale ayant des critères d'encadrement définis dans le projet pédagogique élaboré avec la commission pédagogique locale de la spécialité de PA indiquant les activités et les moyens mis à disposition.
 
 3.5. Evaluation :
 
 Modalités de l'évaluation des connaissances :
 
-Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+-validation des séminaires suivis.
 
 Modalités de l'évaluation des compétences :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-Entretiens mensuels entre l'étudiant et le psychiatre référent lors des entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences.
+-rencontres mensuelles entre l'étudiant et le psychiatre référent lors des entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences ;
+
+-acquisitions tracées sur le portfolio numérique.
 
 3.6. Modalités de validation de la phase :
 
@@ -290,7 +400,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 2 semestres.
 
-4.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel (gestion de cabinet …) :
+4.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel (gestion de cabinet, etc.) :
 
 Volume horaire :
 
@@ -300,7 +410,7 @@ Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
--e-learning et télé-enseignement (local et régional) ;
+-e-learning et télé-enseignement (local, régional et national) ;
 
 -séminaires ;
 
@@ -312,33 +422,55 @@ En application de l'article 5 du présent arrêté :
 
 A l'issue de la phase, les connaissances et compétences génériques décrites aux articles 2 à 4 du présent arrêté sont acquises.
 
-Les compétences spécifiques sont les suivantes :
+Les connaissances et compétences spécifiques sont les suivantes :
 
--mettre en œuvre des soins partagés ;
+4.3.1. Pour les étudiants inscrits dans l'option de psychiatrie de l'adulte :
 
--indiquer utilement des associations de soutien (associations d'usagers, de familles d'usagers), des livres et autres publications au contenu adapté, des sites internet d'information fiables.
+-structurer un parcours de soins, se coordonner avec les partenaires du soin, et être en mesure de prendre en compte les différentes perspectives (bio-psycho-sociales et culturelles autour d'une situation clinique) ;
 
-L'étudiant rédige les différents types de certificats mais n'est en aucun cas habilité à le faire seul et à les signer.
+-disposer d'une connaissance sociétale et politique de la psychiatrie de l'adulte ;
+
+-connaître et indiquer utilement les associations de soutien (associations d'usagers, de familles d'usagers), des livres et autres publications au contenu adapté, des sites internet d'information fiables ;
+
+-l'étudiant rédige les différents types de certificats, mais il n'est aucunement habilité à les établir seul et à les signer.
+
+4.3.2. Pour les étudiants inscrits dans l'option de psychiatrie de l'enfant et de l'adolescent :
+
+-mettre en œuvre des soins partagés et être en mesure de coordonner les soins autour d'un enfant et d'un adolescent avec tous les professionnels impliqués. Etre en mesure d'aborder les différentes perspectives (bio-psycho-sociale-culturelle) autour d'une situation clinique ;
+
+-disposer d'une connaissance sociétale et politique de la PEA ;
+
+-connaître et indiquer utilement des associations de soutien (associations d'usagers, de familles d'usagers), des livres et autres publications au contenu adapté, des sites internet d'information fiables. Travailler avec les personnes concernées dans le respect de la personne ;
+
+-l'étudiant rédige les différents types de certificats mais n'est en aucun cas habilité à le faire seul et à les signer.
 
 4.4. Stages :
 
-2 stages accomplis :
+4.4.1. A réaliser pour les étudiants inscrits dans l'option de psychiatrie de l'adulte :
 
--soit dans un lieu hospitalier ou auprès d'un praticien-maître de stage des universités agréé à titre principal en psychiatrie ;
+2 stages accomplis soit :
 
--soit sous la forme d'un stage mixte dans des lieux hospitaliers et/ ou auprès d'un praticien-maître de stage des universités agréés à titre principal en psychiatrie.
+-dans un lieu hospitalier ou auprès d'un praticien-maître de stage des universités agréé à titre principal en psychiatrie de l'adulte ;
 
-Les deux stages sont accomplis dans un lieu de stage ou auprès d'un praticien ayant une activité en psychiatrie.
+-sous la forme d'un stage mixte dans des lieux et/ ou auprès d'un praticien-maître de stage des universités agréés à titre principal en psychiatrie de l'adulte.
+
+4.4.2. A réaliser pour les étudiants inscrits dans l'option de psychiatrie de l'enfant et de l'adolescent :
+
+2 stages accomplis soit :
+
+-dans un lieu hospitalier ou auprès d'un praticien-maître de stage des universités agréé à titre principal en psychiatrie de l'enfant et de l'adolescent et ayant une activité dans l'option précoce choisie ;
+
+-sous la forme d'un stage mixte dans des lieux et/ ou auprès d'un praticien-maître de stage des universités agréés à titre principal en psychiatrie de l'enfant et de l'adolescent.
 
 Critères d'agrément des stages de niveau III :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--service hospitalo-universitaire ou service hospitalier ayant un seuil d'encadrement adapté et s'inscrivant dans un projet pédagogique élaboré avec la commission pédagogique locale de la spécialité indiquant les activités et les moyens mis à disposition ;
+-service hospitalo-universitaire ou service hospitalier ayant un seuil d'encadrement adapté et s'inscrivant dans un projet pédagogique élaboré avec la commission pédagogique locale de l'option précoce de la spécialité indiquant les activités et les moyens mis à disposition ;
 
--stage possible en cabinet de psychiatrie libérale ayant des critères d'encadrement définis dans le projet pédagogique élaboré avec la commission pédagogique locale de la spécialité indiquant les activités et les moyens mis à disposition ;
+-stage en cabinet de psychiatrie libérale ayant des critères d'encadrement définis dans le projet pédagogique élaboré avec la commission pédagogique locale de l'option précoce de la spécialité indiquant les activités et les moyens mis à disposition ;
 
--stage possible dans une structure médico-sociale ou mixte (Maison des adolescents (MDA), Centre Ressources Autisme (CRA), Centres d'Action Médico-Sociale Précoce (CAMPS), Institut thérapeutique éducatif et pédagogique (ITEP) …) avec encadrement par un psychiatre senior dans le cadre d'un projet pédagogique élaboré avec et agréé par la commission pédagogique locale de la spécialité indiquant les activités et les moyens mis à disposition.
+-stage possible dans une structure médico-sociale ou mixte avec encadrement par un psychiatre senior employé dans la structure, dans le cadre d'un projet pédagogique élaboré avec et agréé par la commission pédagogique locale de l'option précoce de la spécialité indiquant les activités et les moyens mis à disposition.
 
 4.5. Evaluation :
 
@@ -354,164 +486,298 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 Evaluation réalisée par le senior qui a encadré l'étudiant, portant sur l'autonomie professionnelle de l'étudiant, sa capacité à mener et organiser un projet thérapeutique et à coordonner l'activité d'une équipe.
 
-Obtention d'une certification européenne : l'option psychiatrie de l'enfant et de l'adolescent (PEA) permet de réaliser 6 semestres en PEA, ce qui permet d'obtenir la certification européenne.
-
 4.6. Modalités de validation de la phase :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
 Soutenance et validation du mémoire.
 
-5. Option psychiatrie de l'enfant et de l'adolescent (PEA)
+5. Option psychiatrie périnatale (PPN)
 
-Durée : 2 semestres.
+5.1. Prérequis :
 
-La validation du DES de psychiatrie avec option Psychiatrie de l'enfant et de l'adolescent requiert 10 semestres de formation, dont un minimum de 4 en psychiatrie de l'enfant et de l'adolescent, ainsi que la validation des critères d'organisation générale du DES de psychiatrie détaillés en 1.2.
+L'option de PPN est accessible aux étudiants du DES de psychiatrie, qu'ils soient engagés dans l'option précoce de psychiatrie de l'adulte ou de psychiatrie de l'enfant et de l'adolescent.
 
-Objectif de la formation :
+5.2. Durée :
 
-En plus des connaissances et compétences inclues dans les sections 2,3 et 4 et des 2 stages accomplis dans un lieu agréé à titre principal en psychiatrie et ayant une activité en lien avec l'option, la formation théorique et pratique, permet aux étudiants d'acquérir les savoirs (théoriques), de maîtriser les aptitudes pratiques (savoir-faire), ainsi que les attitudes professionnelles (compétences relationnelles ou savoir être) leur conférant l'ensemble des compétences nécessaires et exigibles pour exercer la PEA.
+2 semestres sur un terrain de stage ayant obtenu un agrément en PPN.
 
-Compétences :
+5.3. Connaissances :
 
--avoir acquis un socle de connaissances théoriques, spécialisées, actualisées, issues de la littérature scientifique et des recommandations internationales, et couvrant l'ensemble des dimensions de la PEA ;
+Les connaissances attendues sont :
 
--avoir acquis une expertise clinique lors des stages effectués dans des services agréés et être ainsi apte à exercer le métier de psychiatre en PEA ;
+-l'histoire de la psychiatrie périnatale et présentation des différents courants de pensée et de pratiques ;
 
---avoir acquis une expérience du travail en partenariat (parents, professionnels de l'enfance, autres dispositifs sanitaires ou médico-sociaux) et être capable de s'adapter à différents lieux et modes d'exercice de la spécialité ;
+-le développement normal et pathologique du bébé, et les grandes pathologies du développement dans la première année de vie ;
 
--être capable de transmettre son savoir et son savoir-faire et être acteur de l'organisation de réponse spertinentes aux besoins en santé mentale de l'enfant et de l'adolescent sur le territoire.
+-l'approche globale et intégrée du développement, depuis la grossesse jusqu'à l'entrée en maternelle ;
 
-Connaissances :
+-les spécificités et évolution des pathologies psychiatriques lors de la grossesse et du post-partum ;
 
-En plus de la base commune au DES, l'enseignement théorique validant l'option PEA est organisé selon 6 thématiques :
+-les spécificités des différents types de traitement de la période périnatale, en particulier les risques tératogènes et compatibilité avec l'allaitement ;
 
-1. Histoire de la PEA et présentation des différents courants de pensée et des pratiques.
+-les spécificités du deuil maternel ;
 
-2. Approche globale et intégrée du développement : connaissance du développement psychologique et neuro-développemental, connaissance de la perspective bio-psycho-sociale du développement, notion de trans-générationalité, spécificités transculturelles, handicap, bases juridiques/ droits des enfants, connaissance des facteurs de risque des pathologies psychiatriques.
+-les différents types de procréations médicalement assistées ; les modalités d'adoption ; les aspects réglementaires de la filiation ; les aspects réglementaires et psychologiques des interruptions médicales de grossesse ; les modalités de l'accouchement sous X.
 
-3. Spécificités et évolution des pathologies psychiatriques de l'enfant et de l'adolescent : connaissance des caractéristiques des troubles selon les différentes périodes de la vie (périnatalité-petite enfance, âge scolaire, adolescence), présentation générale, épidémiologie, aspects cliniques et diagnostiques, principes thérapeutiques, prise en compte de la perspective développementale et connaissance des trajectoires des troubles au cours du temps, connaissance des facteurs de risque et prodromes des pathologies de l'âge adulte. Les différentes pathologies à connaître sont détaillées dans le référentiel métier de la PEA.
+5.4. Compétences :
 
-4. Interfaces avec les pathologies somatiques et chroniques et le handicap : connaissance des facteurs de risque médicaux associées aux pathologies psychiatriques et neuro-développementales ainsi que de l'orientation médicale appropriée pour la prévention et/ ou la prise en charge de ces facteurs. Approche interdisciplinaire pour le diagnostic et la prise en charge de ces troubles.
+Les compétences attendues sont :
 
-5. Modalités spécifiques de prise en charge adapte ́ es à l'âge et au contexte : connaissance des principes nécessaires à la réalisation d'une évaluation diagnostique et fonctionnelle complète et appropriée d'un enfant (techniques d'entretien libres, standardisées et semi-standardisées et méthodes d'auto et hétéro-évaluations des symptômes et du fonctionnement). Savoir planifier, prescrire, coordonner et interpréter des évaluations pluridisciplinaires (orthophonie, psychologie et neuropsychologie, psychomotricité, ergothérapie, kinésithérapie, travail social et éducatif …). Savoir créer et maintenir une relation thérapeutique efficace et savoir définir un plan de prise en charge adapté en collaboration avec l'enfant et sa famille : psychoéducation individuelle et familiale, éducation thérapeutique, approches psychothérapiques individuelles, groupales et familiales, bases des approches rééducatives, approches institutionnelles, traitements médicamenteux (psychoéducation, indications, surveillance clinique et biologique), innovations et perspectives.
+-repérer et prendre en compte les spécificités cliniques de la période périnatale, pour la mère, pour le père, sur le plan physiologique, psychologique, social, et les spécificités des pathologies psychiatriques ;
 
-6. Organisation de l'offre de soins, territorialité et liens avec les structures non sanitaires (structures scolaires, médico-sociales, judiciaires, intégration soins/ éducatif), connaissance des différents modes d'intervention en PEA. Aspects médico-légaux de la pratique pédopsychiatrique (signalements, placements, expertises). Etre capable de repérer des situations à risque et connaître les démarches médicales et médico-légales à mettre en œuvre.
+-évaluer et accompagner le lien mère-bébé ;
 
-L'enseignement théorique peut prendre la forme de cours magistraux, de se ́ minaires, d'ateliers pratiques et de participation à des colloques, journées d'étude ou congrès.
+-orienter et accompagner un projet de grossesse des patientes souffrant d'un trouble psychiatrique ;
 
-Conditions d'agrément spécifiques des stages de PEA :
+-collaborer régulièrement et efficacement avec les autres professionnels et institutions impliqués, en connaissant leurs modalités d'organisation et de fonctionnement, et leurs propres champs de compétences ;
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte notamment la localisation, le type de patients, le niveau d'encadrement et la qualification en PEA des médecins référents de stage.
+-repérer les situations de négligence et de maltraitance ;
 
-Le niveau d'encadrement de l'étudiant suit l'évolution des 3 phases du DES.
+-prendre en considération l'entourage du patient, les soutiens familiaux possibles, les ressources amicales et sociales ;
 
-Prérequis de parcours pour s'inscrire à l'option PEA :
+-mettre en œuvre et ajuster les traitements spécifiques de la période périnatale ;
 
--réalisation d'au moins un semestre de stage en PEA au cours de la phase socle ou de la phase d'approfondissement ;
+-participer à une démarche de prévention, en connaissant les interlocuteurs susceptibles, sur un territoire donné, de diffuser des messages d'information ou d'organiser des campagnes de sensibilisation.
 
--2 stages accomplis dans un lieu agréé à titre principal en psychiatrie et ayant une activité en lien avec l'option.
+5.5. Stages.
 
-Modalités de l'évaluation des connaissances de l'option PEA :
+2 stages d'une durée d'un semestre dans un lieu agréé à titre principal ou complémentaire en psychiatrie et ayant un agrément spécifique en PPN.
 
--examen écrit et/ ou oral ;
+Au moins un de ces stages doit être accompli dans un service hospitalier agréé à titre principal en psychiatrie parmi les suivants :
 
--soutenance et validation du mémoire de DES portant obligatoirement sur une thématique de PEA.
+-service de psychiatrie de l'enfant et de l'adolescent avec une activité de périnatalité ;
 
-Modalités de l'évaluation des compétences de l'option PEA :
+-service de psychiatrie d'adultes ayant une population spécifique de femmes enceintes et de jeunes parents.
 
--entretiens mensuels de supervision entre l'étudiant et le psychiatre référent, incluant l'évaluation de ses compétences ;
+Les 2 stages doivent différer quant à la nature des activités cliniques qui y sont réalisées.
+
+5.6. Conditions d'agrément spécifiques des stages de PPN :
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément des stages prend en compte :
+
+-structure hospitalière ou médico-sociale accueillant des enfants de moins d'un an et leurs parents ;
+
+-service de psychiatrie de l'enfant et de l'adolescent avec une activité de périnatalité ;
+
+-service de psychiatrie d'adultes ayant une population spécifique de femmes enceintes et de jeunes parents ;
+
+-service ayant une activité significative de liaison psychiatrique en maternité.
+
+5.7. Modalités de l'évaluation :
+
+Evaluation des connaissances :
+
+-soutenance et validation du mémoire de DES sur une thématique de PPN ;
+
+-validation de la formation nationale en PPN.
+
+Evaluation des compétences :
+
+-rencontres mensuelles entre l'étudiant et le psychiatre référent lors des entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences ;
 
 -acquisitions tracées sur le portfolio numérique.
 
-L'option de PEA est validée par :
+6. Option de psychiatrie légale (PL)
 
--l'accomplissement des différents stages requis et définis dans la maquette générale de l'option ;
+6.1. Prérequis :
 
--la soutenance d'un mémoire, qui peut prendre la forme d'un article de recherche ou d'un projet clinique, avant la fin de la cinquième année d'internat ;
+L'option de PL est accessible aux étudiants du DES de psychiatrie, qu'ils soient engagés dans l'option précoce de psychiatrie de l'adulte ou de psychiatrie de l'enfant et de l'adolescent.
 
--la réalisation de 6 semestres en PEA permet l'obtention de la certification européenne de Psychiatrie de l'enfant et de l'adolescent.
+6.2. Durée :
 
-6. Option Psychiatrie de la personne âgée (PPA)
+2 semestres sur un terrain de stage ayant obtenu un agrément en PL (populations enfants, adolescents ou adultes).
 
-Durée : 2 semestres.
+6.3. Connaissances :
 
-Objectif de formation :
+En plus de la base commune au DES, l'enseignement théorique validant l'option de PL est organisé selon plusieurs thématiques qui se déclinent systématiquement pour les personnes majeures et mineures :
 
-Pour le DES de psychiatrie avec option en Psychiatrie de la personne âgée, 10 semestres validés dont au moins 3 dans un lieu de stage avec encadrement universitaire (psychiatrie d'adulte et/ ou psychiatrie de l'enfant et de l'adolescent et/ ou psychiatrie de la personne âgée) et au moins 2 dans un lieu de stage sans encadrement universitaire, et composés comme suit : 4 en psychiatrie d'adulte, 1 en psychiatrie de l'enfant et de l'adolescent, 1 en psychiatrie de la périnatalité ou de l'adolescent ou de la personne âgée ou en addictologie, 2 en psychiatrie de la personne âgée, 1 stage hors spécialité en service de médecine d'orientation gériatrique, (ou 1 stage ayant un agrément à titre principal ou complémentaire au titre de la psychiatrie de la personne âgée et un agrément à titre principal ou complémentaire au titre d'une spécialité de médecine somatique d'orientation gériatrique), 1 stage libre (de préférence accompli dans un lieu ayant une activité en en addictologie, en explorations fonctionnelles et imagerie, en génétique clinique, en gériatrie, en médecine interne, en médecine légale, en neurologie, en pédiatrie, en pharmacologie clinique, en psychiatrie d'adulte, en psychiatrie de l'enfant et de l'adolescent, en psychiatrie de la personne âgée ou en santé publique).
+-organisation de la justice en France ;
 
-Compétences :
+-bases juridiques, éthiques et déontologiques de l'exercice médical ;
 
--établir avec le sujet âgé une bonne relation médecin-patient, basée sur une communication de qualité tenant compte des particularités liées à l'âge du patient ;
+-histoire des concepts en psychiatrie médico-légale ;
 
--repérer et prendre en compte les spécificités cliniques, les comorbidités somatiques, les altérations sensorielles, les dimensions cognitives et le contexte de vie du patient ;
+-spécificités cliniques en psychiatrie médico-légale ;
 
--connaître et savoir recourir aux explorations complémentaires spécifiques à la PPA (bilan neuropsychologique, imagerie …) et aux stratégies thérapeutiques spécifiques ;
+-pratiques expertales (civiles et pénales) ;
 
--collaborer régulièrement et efficacement avec les autres professionnels impliqués, en connaissant leurs modalités d'organisation et de fonctionnement, et leurs propres champs de compétences ;
+-mesures de protection des majeurs vulnérables ;
 
--évaluer le niveau de compréhension du patient et sa capacité décisionnelle, afin d'être en mesure de l'informer sur ses soins de manière adéquate, en respectant son libre arbitre, et de prendre des décisions dans le respect des règles déontologiques ;
+-prise en charge des personnes placées sous main de justice ;
 
--rechercher et tenir compte des croyances (religieuses, culturelles …) du patient, de ses attentes et de son vécu face à la maladie et au vieillissement ;
+-victimologie, réparation et préjudice psychologique ;
 
--repérer les situations de négligence et de maltraitance et participer au respect de l'intimité, de la dignité et de la bientraitance du patient ;
+-soins aux auteurs d'infraction à caractère sexuel ;
 
--prendre en considération l'entourage du patient, les aidants, afin de recueillir un complément d'informations sur le patient et ses troubles, mais également pour repérer les situations d'épuisement de l'entourage et proposer le soutien spécialisé éventuellement nécessaire ;
+-soins pénalement ordonnés : injonction de soins, injonction thérapeutique, l'obligation de soins ;
 
--favoriser, notamment par les actions précédemment listées, l'acceptation par le patient et son entourage des soins proposés et leur observance ;
+-dangerosité et défense sociale ;
 
--interagir et connaître le fonctionnement et l'organisation des différentes structures susceptibles de faire appel au psychiatre expert en PPA, qu'elles soient sanitaires (services MCO, USLD, visites à domicile par exemple après signalement ou en articulation avec un service de Psychiatrie de secteur …) ou qu'il s'agisse d'établissements médicosociaux (EHPAD …) ou encore de structures associatives et/ ou municipales (Centres Locaux d'Information et de Coordination pour personnes âgées [CLIC], Maisons pour l'autonomie et l'intégration des malades Alzheimer [MAIA] …) ;
+-violences : clinique de l'acte, clinique et prise en charge des auteurs, examen d'une victime ;
 
--participer, au sein d'un établissement, à l'évaluation des démarches qualité et à l'amélioration des mesures de soins et de sécurité lorsqu'elles concernent les sujets âgés ;
+-addictions ;
 
--participer à une démarche de prévention, en connaissant les interlocuteurs susceptibles, sur un territoire donné, de diffuser des messages d'information ou d'organiser des campagnes de sensibilisation destinés aux populations cibles composées de sujets âgés potentiellement à risque de présenter des troubles psychologiques ou psychiatriques.
+-maltraitance et enfants en danger.
 
-Connaissances :
+6.4. Compétences :
 
--histoire de la PPA et présentation des différents courants de pensée et de pratiques ;
+En plus de la base commune au DES, les compétences attendues sont :
 
--approche globale et intégrée du vieillissement : comorbidités somatiques, contexte social et enjeux sociétaux, événements de vie (changement de lieu de vie, entrée en institution, deuils …), déterminants psychologiques, enjeux relationnels (famille, entourage, aidants), questions liées à la fin de vie, protections juridiques … ;
+-connaître les articulations entre parcours de soins et parcours judiciaires (auteurs ou victimes) ;
 
--spécificités et évolution des pathologies psychiatriques lors du vieillissement ;
+-formation à la pratique de l'expertise : mener une évaluation expertale et en connaître les bonnes pratiques, rédiger un rapport d'expertise en respectant les procédures dédiées, déposer aux assises ou devant la chambre d'instruction ;
+
+-communiquer avec les institutions pénitentiaires et judiciaires dans les règles de déontologie ;
+
+-orienter une personne souffrant de trouble psychiatrique à toutes les étapes du parcours pénal ;
+
+-rédiger une réquisition pour examen psychiatrique/ un rapport annuel de médecin coordonnateur d'une injonction de soin ;
+
+-rédiger une information préoccupante et un signalement au Parquet ;
+
+-mettre en place et suivre une mesure de protection pour une personne majeure ;
+
+-maîtriser les concepts et les outils de l'évaluation de la dangerosité, et du risque de récidive ;
+
+-prendre en charge les personnes présentant des troubles psychiatriques ayant commis des actes médico-légaux ;
+
+-évaluation des individus radicalisés et/ ou fiche S.
+
+6.5. Stages
+
+1 stage d'une durée d'un semestre dans un lieu agréé à titre principal en psychiatrie ou en médecine légale, et bénéficiant d'un agrément spécifique pour l'option de PL ;
+
+1 stage d'une durée d'un semestre dans un lieu agréé à titre principal ou complémentaire en psychiatrie, et bénéficiant d'un agrément spécifique pour l'option de PL.
+
+Les 2 stages doivent différer quant à la nature des activités cliniques qui y sont réalisées.
+
+6.6. Conditions d'agrément spécifiques des stages de PL :
+
+Outre les dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+
+Seulement les services dans lesquels au moins un praticien participe activement à l'enseignement et/ ou à la recherche en psychiatrie légale au sein d'une formation universitaire.
+
+Si au sein du service dans lequel est affecté l'étudiant aucun praticien n'exerce d'activité régulière d'expertise pénale et/ ou civile, l'étudiant devra réaliser 12 demi-journées auprès d'un maître de stage agréé exerçant ce type d'activité au cours de son stage.
+
+Ces services peuvent être notamment :
+
+-une structure sanitaire dédiée à la prise en charge des personnes majeures et/ ou mineures placées sous main de justice ;
+
+-une structure sanitaire pleinement impliquée dans les soins pénalement ordonnés ;
+
+-une unité pour malades difficiles ;
+
+-une unité médico-judiciaire (adulte et pédiatrique), un service de médecine légale ;
+
+-l'infirmerie psychiatrique de la préfecture de police ;
+
+-une structure dédiée à l'accueil des personnes victimes, dans laquelle exerce au moins un praticien ayant une activité régulière psychiatrique d'expertise pénale et/ ou civile ;
+
+-un service d'urgence psychiatrique en charge de l'organisation des examens psychiatriques de garde à vue sur réquisition, dans laquelle exerce au moins un praticien ayant une activité régulière d'expertise psychiatrique pénale et/ ou civile ;
+
+-certaines unités accueillant des patients en soins intensifs psychiatriques, dans lesquelles exerce au moins un praticien ayant une activité régulière d'expertise psychiatrique pénale et/ ou civile.
+
+6.7. Modalités de l'évaluation :
+
+Evaluation des connaissances :
+
+-soutenance et validation du mémoire de DES sur une thématique de PL ;
+
+-validation de la formation nationale de PL.
+
+Evaluation des compétences :
+
+-rencontres mensuelles entre l'étudiant et le psychiatre référent lors des entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences ;
+
+-acquisitions des compétences tracées sur le Portfolio numérique ;
+
+-rédaction d'une expertise et/ ou simulation d'une déposition aux assises (méthodes de simulation en santé).
+
+7. Option de psychiatrie de la personne âgée (PPA)
+
+7.1. Prérequis :
+
+L'option PPA n'est accessible qu'aux étudiants engagés dans l'option précoce de psychiatrie de l'adulte.
+
+7.2. Durée :
+
+2 semestres sur un terrain de stage ayant obtenu un agrément en PPA.
+
+7.3. Connaissances :
+
+-histoire de la PPA ; les différents courants de pensée et de pratiques ;
+
+-approche globale et intégrée du vieillissement ;
+
+-spécificités des pathologies psychiatriques lors du vieillissement ;
 
 -spécificités des pathologies psychiatriques de survenue tardive ;
 
--maladies neurodégénératives et cérébrovasculaires :
+-maladies neurodégénératives et cérébrovasculaires : aspects généraux, spécificités psychiatriques ;
 
--1. Présentation générale : épidémiologie, aspects cliniques et diagnostiques, principes thérapeutiques ;
+-modalités spécifiques des prises en charge adaptées au sujet âgé ;
 
-2. Symptômes psychologiques et comportementaux associés dont le psychiatre en PPA doit acquérir et maîtriser toutes les spécificités qu'elles soient diagnostiques ou thérapeutiques ;
-
--modalités spécifiques des prises en charge adaptées au sujet âgé (traitements médicamenteux, biologiques autres, psychothérapies, innovations et perspectives [télémédecine …]) ;
+-spécificités de l'acte violent chez la personne âgée (auteur, victime) ;
 
 -organisation de l'offre de soins, territorialité et liens avec les structures non sanitaires.
 
-Conditions d'agrément spécifiques des stages de PPA :
+7.4. Compétences :
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+-établir avec le sujet âgé une relation médecin-patient prenant en compte les particularités liées à l'âge ;
 
--structure hospitalière ou médico-sociale accueillant des patients âgés de 65 ans et plus ;
+-repérer et prendre en compte les spécificités cliniques, les comorbidités non-psychiatriques, les altérations sensorielles, cognitives et le contexte de vie ;
 
--le fait que l'activité de l'étudiant doit être consacrée au moins à 75 % à la prise en charge de patients de plus de 65 ans présentant des troubles psychiatriques vieillissant ou d'apparition tardive et/ ou des patients présentant des symptômes psycho-comportementaux des démences.
+-recourir aux explorations complémentaires et aux stratégies thérapeutiques spécifiques à la PPA ;
 
-Prérequis de parcours pour s'inscrire à l'option PPA :
+-collaborer avec les autres professionnels impliqués, en connaissant leurs modalités d'organisation et de fonctionnement, et leurs champs de compétences ;
 
--réalisation d'au moins un semestre de stage en PPA au cours de la phase socle ou de la phase d'approfondissement ;
+-évaluer le niveau de compréhension du patient et sa capacité décisionnelle, informer sur les soins, en respectant le libre arbitre, et prendre des décisions dans le respect des règles déontologiques ;
 
--2 stages accomplis dans un lieu agréé à titre principal en psychiatrie et ayant une activité en lien avec l'option.
+-rechercher et tenir compte des croyances du patient, de ses attentes et de son vécu face à la maladie et au vieillissement ;
 
-Modalités de l'évaluation des connaissances de l'option PPA :
+-repérer les situations de négligence et de maltraitance et participer au respect de l'intimité, de la dignité et de la bientraitance du patient ;
 
--examen écrit et/ ou oral ;
+-prendre en considération l'entourage du patient, les aidants (y compris les situations d'épuisement) ;
 
--soutenance et validation du mémoire de DES sur une thématique de PPA obligatoirement.
+-favoriser l'acceptation par le patient et son entourage des soins proposés et leur observance ;
 
-Modalités de l'évaluation des compétences de l'option PPA :
+-connaître le fonctionnement et l'organisation des structures susceptibles de faire appel au psychiatre spécialisé en PPA, et interagir avec elles ;
 
--entretiens mensuels entre l'étudiant et le psychiatre référent lors des entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences ;
+-participer à l'évaluation des démarches qualité et à l'amélioration des mesures de soins et de sécurité lorsqu'elles concernent les sujets âgés ;
 
--acquisitions tracées sur le portfolio numérique.
+-participer à une démarche de prévention, en connaissant les interlocuteurs impliqués sur le territoire.
+
+7.5. Stages :
+
+1 stage d'une durée d'un semestre dans un service agréé à titre principal en psychiatrie et bénéficiant d'un agrément spécifique en PPA ;
+
+1 stage dans un service agréé à titre principal ou complémentaire en psychiatrie et ayant reçu un agrément spécifique en PPA.
+
+Un stage hors spécialité est recommandé en service de médecine d'orientation gériatrique ou neurologique Si ce stage hors spécialité est réalisé en phase socle, l'étudiant inscrit en option de PPA peut être dispensé de l'obligation de réaliser le second stage de PEA non réalisé.
+
+7.6. Conditions d'agrément spécifiques des stages :
+
+Outre les dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+
+-les structures hospitalières ou médico-sociales accueillant des patients âgés de 65 ans et plus ;
+
+-l'activité de l'étudiant doit être consacrée au moins à 75 % à la prise en charge de patients de 65 ans et plus présentant des troubles psychiatriques vieillissants ou d'apparition tardive et/ ou des patients présentant des symptômes psycho-comportementaux des démences.
+
+7.7. Modalités de l'évaluation :
+
+Evaluation des connaissances :
+
+-soutenance et validation du mémoire de DES sur une thématique de PPA ;
+
+-validation de la formation nationale de PPA.
+
+Evaluation des compétences :
+
+-rencontres mensuelles entre l'étudiant et le psychiatre référent lors des entretiens de supervision spécifiquement dédiés à l'évaluation de ses compétences ;
+
+-acquisitions tracées sur le portfolio numérique
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément au II de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à l'ensemble des étudiants débutant la première année de la phase socle de ce diplôme d'études spécialisées à compter de la rentrée universitaire 2022.

@@ -8,9 +8,15 @@ DIPLÔME D'ÉTUDES SPÉCIALISÉES MÉDECINE PHYSIQUE ET DE RÉADAPTATION
 
 Former des médecins spécialistes en médecine physique et réadaptation
 
-1.2 Durée totale du DES :
+1.2 Durée totale du DES
 
-8 semestres dont au moins 3 dans un lieu avec encadrement universitaire tel que défini à l'article 1er du présent arrêté et au moins 2 dans un lieu sans encadrement universitaire
+8 semestres dont :
+
+-au moins 3 dans un lieu avec encadrement universitaire tel que défini à l'article 1er du présent arrêté ;
+
+-au moins 2 dans un lieu avec encadrement universitaire tel que défini à l'article 1er du présent arrêté et agréé à titre principal en médecine physique et de réadaptation ;
+
+-et au moins 2 dans un lieu sans encadrement universitaire
 
 1.3 Intitulé des options proposées au sein du DES :
 
@@ -220,7 +226,9 @@ Elles sont détaillées dans la plateforme numérique du collège de la spécial
 
 -2 stages dans un lieu agréé à titre principal en médecine physique et de réadaptation.
 
--2 stages dans des lieux agréés à titre principal en neurologie ou pédiatrie ou rhumatologie ou gériatrie et à titre complémentaire en médecine physique et de réadaptation
+-1 stage dans un lieu agréé à titre principal en neurologie ou pédiatrie ou rhumatologie ou gériatrie et à titre complémentaire en médecine physique et de réadaptation ;
+
+-1 stage libre
 
 Critères d'agrément des stages dans la spécialité :
 
@@ -347,3 +355,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -validation des compétences acquises dans l'année sur le portfolio
 
 -revue des réalisations pédagogiques et de recherche
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

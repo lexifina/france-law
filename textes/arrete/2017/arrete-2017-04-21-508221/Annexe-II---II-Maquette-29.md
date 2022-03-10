@@ -26,7 +26,7 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -médecine du sport
 
--soins palliatifs
+-médecine palliative
 
 -pharmacologie médicale/ thérapeutique
 
@@ -140,7 +140,7 @@ Pathologies rhumatologiques fréquentes : prise en charge initiale
 
 -développer ses compétences dans les communications interprofessionnelles.
 
--Compétences en recherche clinique et notamment faire une bibliographie
+-développer ses compétences en recherche clinique et notamment faire une bibliographie
 
 -informer un patient sur un protocole de recherche et recueillir son consentement
 
@@ -262,7 +262,7 @@ Ces compétences incluent également l'acquisition de la pratique ou au minimum 
 
 -1 stage dans un lieu ou auprès d'un praticien maître de stage des universités agréé à titre principal en rhumatologie. Ce stage peut également être accompli sous la forme d'un stage mixte.
 
--2 stages dans un lieu agréé à titre complémentaire en rhumatologie et à titre principal en dermatologie et vénéréologie, en gériatrie, en maladies infectieuses et tropicales, en médecine interne et immunologie clinique, en médecine physique et de réadaptation, en neurologie, en oncologie en médecine de santé au travail ou en radiologie et imagerie médicale.
+-2 stages dans un lieu agréé à titre complémentaire en rhumatologie et à titre principal en dermatologie et vénéréologie, en gériatrie, en hématologie, en hépato-gastroentérologie, en maladies infectieuses et tropicales, en médecine interne et immunologie clinique, en médecine physique et de réadaptation, en médecine de la douleur, en médecine du sport, en neurologie, en oncologie, en médecine de santé au travail, en radiologie et imagerie médicale.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
@@ -401,3 +401,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -validation du contrôle continu des connaissances et des compétences
 
 -validation du parcours de l'étudiant.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

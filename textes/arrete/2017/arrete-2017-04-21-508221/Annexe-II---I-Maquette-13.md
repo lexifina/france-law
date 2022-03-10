@@ -22,6 +22,8 @@ Dans le cadre de son projet professionnel, et au regard des besoins de santé et
 
 - médecine et biologie de la reproduction - andrologie
 
+-chirurgie en situation de guerre ou de catastrophe.
+
 2. Phase socle
 
 2.1. Durée : 2 semestres
@@ -34,41 +36,47 @@ Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
-- e-learning
+- exercices de simulations techniques et comportementales (enseignement en autonomie et supervisé) ;
 
-- exercices de simulations techniques et comportementales (enseignement en autonomie et supervisé)
-
-- séminaires régionaux ou nationaux (enseignements transversaux et mise en application des connaissances)
+- séminaires régionaux ou nationaux (enseignements transversaux et mise en application des connaissances).
 
 Connaissances de base dans la spécialité à acquérir :
 
 Les connaissances spécifiques sont détaillées sur la plateforme numérique du collège de la spécialité et concernent en particulier :
 
-- l'anatomie radiologique et chirurgicale
+- l'anatomie radiologique et chirurgicale ;
 
-- la prise en charge des principales urgences
+- la gestion d'un patient en consultation et hospitalisé ;
 
-- la gestion des principales complications postopératoires
+- la prise en charge des principales urgences chirurgicales ;
+
+- la gestion des principales complications postopératoires et le suivi des patients ;
+
+- les traitements médicaux de la spécialité et la gestion de leurs effets indésirables.
 
 Connaissances transversales à acquérir :
 
 Elles sont listées dans l'article 2 du présent arrêté et portent en particulier sur :
 
-- la réglementation concernant les actes invasifs
+- la règlementation concernant les actes invasifs ;
 
-- l'information au patient
+- l'information au patient ;
 
-- la notion de bénéfice risque, la pertinence des prescriptions
+- la notion de bénéfice risque, la pertinence des prescriptions ;
 
-- les règles et l'évaluation d'un essai clinique
+- les règles et l'évaluation d'un essai clinique ;
 
-- la prévention et le traitement des complications postopératoires d'un opéré
+- la prévention et le traitement des complications postopératoires d'un opéré ;
 
-- la réhabilitation et les soins palliatifs
+- la réhabilitation et les soins palliatifs ;
 
-- la gestuelle de base au bloc opératoire et les dispositifs médicaux en chirurgie
+- les notions élémentaires en chirurgie ;
 
-- la représentation et la réalité du métier de chirurgien, la gestion du stress
+- la gestuelle de base au bloc opératoire et les dispositifs médicaux en chirurgie ;
+
+- la représentation et la réalité du métier de chirurgien, la gestion du stress ;
+
+- les principes en oncologie, en pelvi-périnéologie, en andrologie, en lithiase, en infectiologie, en transplantation d'organe, en pathologie fonctionnelle, en uro-radiologie.
 
 2.3. Compétences à acquérir :
 
@@ -76,71 +84,73 @@ Compétences génériques et transversales à acquérir :
 
 Outre les compétences à approfondir issues du deuxième cycle et celles listées à l'article 2 du présent arrêté, elles sont principalement :
 
-A. - Techniques et notamment : prendre en charge les principales urgences des autres spécialités chirurgicales :
+A.-Techniques et notamment : prendre en charge les principales urgences des autres spécialités chirurgicales :
 
-- plastique : parer et suturer une plaie de la face, réaliser une greffe de peau mince, traiter les dermo-hypodermites non nécrosantes (cellulite et abcès) et nécrosantes (fasciites et gangrène gazeuse), prendre en charge une morsure animale
+-plastique : parer et suturer une plaie de la face, connaître les principes de greffe de peau mince, traiter les dermo-hypodermites non nécrosantes (cellulite et abcès) et nécrosantes (fasciites et gangrène gazeuse), prendre en charge une morsure animale ;
 
-- vasculaire : prendre en charge une plaie vasculaire des membres, une ischémie des membres, une ischémie mésentérique
+-vasculaire : prendre en charge une plaie vasculaire des membres, une ischémie des membres, une ischémie mésentérique ;
 
-- gynéco-obstétrique : prendre en charge les urgences gynécologiques y compris la chirurgie d'hémostase
+-gynéco-obstétrique : prendre en charge les urgences gynécologiques y compris la chirurgie d'hémostase ;
 
-- urologie : mettre en place un cathéter suspubien et prendre en charge dans les 12 premières heures les infections urinaires associées aux soins, une crise de colique néphrétique, une rétention aigue d'urine, une anurie obstructive, une plaie ou traumatisme de la vessie, du rein, de l'uretère, de l'urètre, des organes génitaux externes
+-urologie : savoir poser une indication de drainage vésical, mettre en place un cathéter suspubien, prendre en charge dans les 12 premières heures les infections urinaires associées aux soins, une crise de colique néphrétique, une rétention aigue d'urine, une anurie obstructive, un caillotage vésical, une plaie ou traumatisme de la vessie, du rein, de l'uretère, de l'urètre, des organes génitaux externes, les urgences urologiques vitales et fonctionnelles ;
 
-- viscérale et digestive : mettre en place une sonde gastrique, évacuer un fécalome, réaliser une colostomie
+-viscérale et digestive : diagnostic et prise en charge d'une occlusion, d'une éviscération, d'une éventration, mettre en place une sonde gastrique, évacuer un fécalome, réaliser une colostomie.
 
-B. - Comportementales et notamment :
+B.-Comportementales et notamment :
 
-- communiquer avec des patients difficiles
+-communiquer avec des patients difficiles ;
 
-- mener à leur terme et rendre compte des tâches qui lui ont été demandées
+-mener à leur terme et rendre compte des tâches qui lui ont été demandées ;
 
-- informer un patient et transmettre des connaissances à son entourage (personnel non médical…)
+-informer un patient et transmettre des connaissances à son entourage (personnel non médical) ;
 
-- reconnaître et analyser les problèmes éthiques
+-reconnaitre et analyser les problèmes éthiques ;
 
-- connaître les limites de sa compétence
+-connaitre les limites de sa compétence ;
 
-- utiliser les ressources humaines, organisationnelles et pédagogiques permettant d'améliorer la prise en charge des patients
+-utiliser les ressources humaines, organisationnelles et pédagogiques permettant d'améliorer la prise en charge des patients ;
 
-- comprendre comment les erreurs ou les événements indésirables surviennent
+-comprendre comment les erreurs ou les évènements indésirables surviennent ;
 
-- présenter ou participer à l'élaboration d'une réunion de morbidité mortalité
+-présenter ou participer à l'élaboration d'une réunion de morbidité mortalité.
 
 Compétences spécifiques à la spécialité à acquérir :
 
 Les compétences spécifiques sont détaillées dans la plateforme numérique du collège de la spécialité et sont :
 
-A. - Cliniques et notamment :
+A.-Cliniques et notamment :
 
-- faire une présentation concise et précise de l'état clinique global d'un patient en situation de crise
+-faire une présentation concise et précise de l'état clinique global d'un patient en situation de crise ;
 
-- organiser la prise en charge des urgences chirurgicales
+-organiser la prise en charge des urgences chirurgicales ;
 
-- prendre en charge les urgences habituelles de la spécialité (rétention urinaire, crise de colique néphrétique fébrile, priapisme, fracture des corps caverneux…)
+-prendre en charge les urgences habituelles de la spécialité (rétention urinaire, crise de colique néphrétique fébrile, priapisme, fracture des corps caverneux, etc.) ;
 
-- prendre en charge les complications simples d'un patient opéré
+-prendre en charge les complications simples d'un patient opéré ;
 
-B. - Techniques et notamment :
+-connaitre la prescription des traitements médicaux et la gestion de leur toxicité éventuelle dans tous les domaines de compétences de la spécialité.
 
-- maîtriser les gestes chirurgicaux de base (parage, suture, anesthésie locale, sondage urinaire, drainage thoracique, pose de garrot…)
+B.-Techniques et notamment :
 
-- comprendre le fonctionnement des dispositifs médicaux utilisés en chirurgie
+-maîtriser les gestes chirurgicaux de base (parage, suture, anesthésie locale, sondage urinaire, drainage thoracique, pose de garrot, etc.) ;
 
-- ouvrir et fermer une paroi abdominale
+-comprendre le fonctionnement des dispositifs médicaux utilisés en chirurgie ;
 
-- effectuer un temps au mois d'interventions qui doivent être maîtrisées au cours de la phase d'approfondissement
+-ouvrir et fermer une paroi abdominale ;
 
-C. - Comportementales et notamment :
+-effectuer un temps au moins d'interventions qui doivent être maitrisées au cours de la phase d'approfondissement.
 
-- identifier les responsabilités individuelles
+C.-Comportementales et notamment :
 
-- gérer son temps et hiérarchiser les urgences
+-identifier les responsabilités individuelles ;
 
-- savoir s'adapter à une situation concrète
+-gérer son temps et hiérarchiser les urgences ;
 
-- savoir identifier un conflit
+-savoir s'adapter à une situation concrète ;
 
-- avoir des notions sur le métier de chirurgien et ses conséquences (risque, responsabilité, fatigue, stress…)
+-savoir identifier un conflit ;
+
+-avoir des notions sur le métier de chirurgien et ses conséquences (risque, responsabilité, fatigue, stress, etc.)
 
 2.4. Stages :
 
@@ -164,7 +174,7 @@ Modalités de l'évaluation des connaissances :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
 
-- connaissances théoriques : autoévaluation à l'aide des questions qui suivent les cours mis en ligne
+- connaissances théoriques : autoévaluation à l'aide des questions qui suivent les cours mis en ligne et validation des enseignements de la phase socle sur la plateforme numérique de la spécialité
 
 - connaissances pratiques :
 
@@ -200,33 +210,39 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 Volume horaire :
 
-2 demi-journées par semaine : une demi-journée en autonomie et une demi-journée en supervision (article R. 6153-2 du code de la santé publique)
+2 demi-journées par semaine : une demi-journée en autonomie et une demi-journée en supervision (article R. 6153-2 du code de la santé publique).
 
 Nature des enseignements :
 
 En application de l'article 5 du présent arrêté :
 
-- e-learning
+-e-learning ;
 
-- exercices en centres de simulation
+-exercices en centres de simulation ;
 
-- séminaires nationaux ou régionaux
+-séminaires nationaux ou régionaux ;
 
-- participation à au moins un congrès annuel de la spécialité
+-participation à au moins un congrès annuel de la spécialité ;
+
+-participation régulière à des RCP : oncologie urologique, pelvi-périnéologie, transplantation rénale, lithiase urinaire, infectiologie urinaire, imagerie urologique, urologie fonctionnelle, uro-radiologie.
 
 Connaissances à acquérir :
 
 Les connaissances transversales sont listées dans l'article 3 du présent arrêté.
 
-Les connaissances théoriques et pratiques spécifiques sont détaillées dans la plateforme numérique du collège de la spécialité. Elles sont décomposées en plusieurs modules (généralités et anesthésie réanimation, urgences et traumatologie, paroi, cancérologie, transplantation et prélèvement multi organes, Urologie fonctionnelle, Médecine sexuelle et de la reproduction, Pathologie du haut appareil) et en particulier axées sur :
+Les connaissances médico-chirurgicales théoriques et pratiques spécifiques sont détaillées dans la plateforme numérique du collège de la spécialité. Elles sont décomposées en plusieurs modules (oncologie urologique, urologie fonctionnelle et pelvi-périnéologie, transplantation rénale, lithiase urinaire, infectiologie urinaire, andrologie et médecine sexuelle) et en particulier axées sur :
 
-- la prise en charge des urgences ainsi que des pathologies électives bénignes et cancéreuses courantes de la spécialité
+-la prise en charge des urgences ainsi que des pathologies électives bénignes et cancéreuses courantes de la spécialité ;
 
-- le dialogue anesthésiste-chirurgien ; la coopération chirurgien-anatomopathologiste, chirurgien-radiologues
+-le dialogue anesthésiste-chirurgien ; la coopération chirurgien-anatomopathologiste, chirurgien-radiologues ;
 
-- le fonctionnement des institutions et les parcours des patients
+-le fonctionnement des institutions et les parcours des patients ;
 
-- l'utilisation des dispositifs médicaux (y compris les générateurs et l'optimisation des doses de rayon X, les endoscopes et les sources de lumière froide, les appareils d'échographie peropératoire, les bistouris électriques ainsi que les appareils de thermofusion ou à énergies avancées…)
+-l'utilisation des dispositifs médicaux (y compris les générateurs et l'optimisation des doses de rayon X, les endoscopes et les sources de lumière froide, les appareils d'échographie peropératoire, les bistouris électriques ainsi que les appareils de thermofusion ou à énergies avancées, etc.) ;
+
+-les traitements médicaux de la spécialité ;
+
+-les collaborations multidisciplinaires
 
 3.3. Compétences :
 
@@ -240,11 +256,11 @@ A - Cliniques : identifier les patients à risque ; évaluer les bénéfices et 
 
 B - Techniques :
 
-- utiliser les dispositifs médicaux de la spécialité
+-utiliser les dispositifs médicaux de la spécialité ;
 
-- identifier et traiter une complication peropératoire
+-identifier et traiter une complication peropératoire ;
 
-- effectuer dans leur totalité les interventions de la spécialité les plus courantes (résection endo urétrale de la prostate, cystoscopie, néphrostomie, urétéroscopie diagnostique ou pour lithiase, lithotritie rénale percutanée, pose de bandelette sous urétrale, injection de toxine botulique intra détrusorienne, pose de sonde urétérale, cure d'hydrocèle, orchidectomie, vasectomie, résection endo urétrale de la vessie, néphrectomie totale, occlusion sur bride, colostomie, résections segmentaire du grêle ou du colon…) et une partie des interventions qui doivent être maîtrisées au cours de la phase de consolidation
+-effectuer dans leur totalité les interventions de la spécialité les plus courantes (résection endo urétrale de prostate, biopsie prostatique, montée de sonde urétérale, cystoscopie, résection de tumeur de vessie, néphrostomie, urétéroscopie diagnostique ou pour lithiase, lithotritie rénale percutanée, pose de bandelette sous urétrale, injection de toxine botulique intra détrusorienne, pose de sonde urétérale, cure d'hydrocèle, orchidectomie, vasectomie, résection endo urétrale de la vessie, néphrectomie totale, pose de bandelette sous urétrale par voie rétropubienne (TVT) ou trans-obturatrice (TOT), intervention de Burch, promontofixation, cure de prolapsus voie basse, dérivations urinaires continentes ou non, neuromodulation sacrée, injections de toxine botulique, pose de sphincter urinaire artificiel et de ballonets ajustables périurétraux, injection d'agents comblants, cystographie, urétrographie, pyélographie, occlusion sur bride, colostomie, résections segmentaires du grêle ou du colon, etc.) et une partie des interventions qui doivent être maitrisées au cours de la phase de consolidation.
 
 C - Comportementales :
 
@@ -268,13 +284,13 @@ C - Comportementales :
 
 - 2 stages dans un lieu hospitalier agréé à titre principal en chirurgie viscérale et digestive et à titre complémentaire en urologie
 
-- 2 stages libres
+- 2 stages libres, éventuellement mixtes ou couplés
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission prend en compte :
 
-- un nombre d'actes traceurs supérieur à 50 par an pour les domaines d'urologie fonctionnelle, de traitement des pathologies du haut appareil ou de cancérologie
+- un nombre d'actes traceurs supérieur à 50 par an pour les domaines d'urologie fonctionnelle et en pelvi-périnéologie, de traitement des pathologies du haut appareil ou de cancérologie
 
 - le niveau d'encadrement
 
@@ -283,6 +299,8 @@ En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant o
 Modalités de l'évaluation des connaissances :
 
 Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+- suivi et validation de l'e-learning phase d'approfondissement sur la plateforme numérique du Collège des enseignants de la spécialité
 
 - contrôle continu
 
@@ -336,13 +354,13 @@ En application de l'article 5 du présent arrêté :
 
 Connaissances et compétences à acquérir :
 
-Les connaissances transversales sont listées dans l'article 4 du présent arrêté.
+Les connaissances médico-chirurgicales transversales sont listées dans l'article 4 du présent arrêté.
 
-Les connaissances spécifiques sont détaillées dans la plateforme numérique du collège de la spécialité.
+Les connaissances médico-chirurgicales spécifiques sont détaillées dans la plateforme numérique du collège de la spécialité.
 
 4.3. Compétences à acquérir :
 
-Les compétences génériques sont listées dans l'article 4 du présent arrêté.
+Les compétences médico-chirurgicales génériques sont listées dans l'article 4 du présent arrêté.
 
 Elles permettent à l'étudiant d'acquérir une autonomie dans toutes les composantes du métier (prise en charge médicale des patients, maîtrise des actes techniques, travail en équipe uni et pluridisciplinaire, réalisation des tâches administratives, auto-évaluation) et de contribuer à l'amélioration de la prise en charge territoriale des pathologies couvertes par la spécialité (notions de seuils d'activité, activité de recours).
 
@@ -358,13 +376,15 @@ C - Comportementales et notamment : proposer une médecine personnalisée ; prop
 
 Nombre et durée des stages de niveau III :
 
-2 stages de un an, accomplis dans un lieu agréé à titre principal en urologie.
+2 stages d'un an, accomplis dans un lieu agréé à titre principal en urologie, éventuellement sous forme de stages mixtes ou couplés.
 
-L'un de ces deux stages peut être remplacé par un stage libre d'une durée de un an, à titre exceptionnel, pour répondre au projet professionnel de l'étudiant et après accord du coordonnateur local.
+L'un de ces deux stages peut être remplacé par un stage libre d'une durée d'un an, à titre exceptionnel, pour répondre au projet professionnel de l'étudiant et après accord du coordonnateur local.
 
 Critères d'agrément des stages de niveau III :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission prend en compte le niveau d'encadrement qui doit permettre d'atteindre les objectifs pédagogiques de cette phase.
+
+Dans le cadre d'un projet professionnel, les stages peuvent être réalisés dans des services ayant une activité spécifique dédiée reconnue dans une des thématiques urologiques (oncologie urologique, pelvi-périnéologie, andrologie, lithiase urinaire, infectiologie urinaire, transplantation rénale, urologie fonctionnelle) en fonction de la qualification des encadrants, d'existence de RCP, de l'activité clinique, d'enseignement, de recherche et de publication, et de la multidisciplinarité du stage.
 
 4.5. Evaluation :
 

@@ -38,7 +38,7 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique
 
--soins palliatifs
+-médecine palliative
 
 2. Phase socle
 
@@ -122,11 +122,13 @@ Critères d'agrément des stages de niveau I dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--l'encadrement sur place par deux médecins spécialistes (au moins un ayant un DES d'oncologie)
+-l'encadrement sur place par deux médecins spécialistes seniors dont au moins un est titulaire du DES d'oncologie ;
 
--l'exercice de la cancérologie générale : tumeurs fréquentes
+-l'exercice majoritaire de la cancérologie générale : tumeurs fréquentes ;
 
--l'organisation de réunions de concertation pluridisciplinaires sur place
+-l'organisation du service permettant aux étudiants en phase socle de participer aux activités de prises en charge oncologiques ambulatoires (séances de traitement en hospitalisation de jour ou plateau technique de radiothérapie et consultations) ;
+
+-l'organisation de réunions de concertation pluridisciplinaires sur place ;
 
 -la présence d'un centre en réseau avec les référents régionaux
 
@@ -202,31 +204,37 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 Pour les étudiants suivant l'option précoce oncologie radiothérapie :
 
--2 stages dans un lieu agréé à titre principal en oncologie bénéficiant d'un agrément fonctionnel pour l'option d'oncologie radiothérapie
+-2 stages dans un lieu agréé à titre principal en oncologie bénéficiant d'un agrément fonctionnel pour l'option d'oncologie radiothérapie ;
 
--1 stage dans un lieu agréé à titre principal en oncologie bénéficiant d'un agrément fonctionnel pour l'option d'oncologie médicale
+-1 stage dans un lieu agréé à titre principal en oncologie bénéficiant d'un agrément fonctionnel pour l'option d'oncologie médicale ;
 
--1 stage libre
+-1 stage libre ;
 
--2 stages dans un lieu agréé à titre complémentaire en oncologie et à titre principal en anatomie et cytologie pathologiques, biologie médicale, gériatrie, hématologie, médecine interne et immunologie clinique, radiologie et imagerie médicale, médecine nucléaire, médecine intensive-réanimation, ou par un stage libre après accord du coordonnateur local d'oncologie. L'un de ces stages est remplacé par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie radiothérapie ou par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie médicale si l'un ou l'autre de ces stages n'a pas été accompli au cours de la phase socle. Ce stage est alors accompli lors de l'un des deux premiers semestres de la phase d'approfondissement.
+-1 stage dans un lieu agréé à titre complémentaire en oncologie et à titre principal en radiologie et imagerie médicale ;
+
+-1 stage dans un lieu agréé à titre complémentaire en oncologie et à titre principal en anatomie et cytologie pathologiques, hématologie, médecine nucléaire, médecine interne et immunologie clinique, médecine intensive et réanimation, ou un stage libre après accord du coordonnateur local d'oncologie.
+
+L'un de ces deux derniers stages est remplacé par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie radiothérapie ou par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie médicale si l'un ou l'autre de ces stages n'a pas été accompli au cours de la phase socle. Ce stage est alors accompli lors de l'un des deux premiers semestres de la phase d'approfondissement.
 
 Pour les étudiants suivant l'option précoce oncologie médicale :
 
--2 stages dans un lieu agréé à titre principal en oncologie ayant une activité d'oncologie médicale
+-2 stages dans un lieu agréé à titre principal en oncologie bénéficiant d'un agrément fonctionnel pour l'option oncologie médicale ;
 
--1 stage dans un lieu agréé à titre principal en hématologie et à titre complémentaire en oncologie
+-1 stage dans un lieu agréé à titre principal en hématologie et à titre complémentaire en oncologie ;
 
--1 stage libre
+-1 stage libre ;
 
--2 stages dans un lieu agréé à titre complémentaire en oncologie et à titre principal en anatomie et cytologie pathologiques, biologie médicale, gériatrie, hématologie, médecine interne et immunologie clinique, radiologie et imagerie médicale, médecine nucléaire, médecine intensive-réanimation, ou par un stage libre après accord du coordonnateur local d'oncologie. L'un de ces stages est remplacé par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie radiothérapie ou par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie médicale si l'un ou l'autre de ces stages n'a pas été accompli au cours de la phase socle. Ce stage est alors accompli lors de l'un des deux premiers semestres de la phase d'approfondissement.
+-2 stages agréés à titre complémentaire en oncologie dont au moins un dans un lieu avec agrément principal de radiologie et imagerie médicale ou anatomie et cytologie pathologiques ou au sein d'une unité ou équipe mobile de médecine palliative et un autre dans un lieu avec agrément principal en médecine nucléaire, médecine interne et immunologie clinique, médecine intensive et réanimation, gériatrie ou un stage libre après accord du coordonnateur local d'oncologie.
+
+L'un de ces deux derniers stages est remplacé par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie radiothérapie ou par un stage dans un lieu hospitalier agréé à titre principal en oncologie et ayant une activité en oncologie médicale si l'un ou l'autre de ces stages n'a pas été accompli au cours de la phase socle. Ce stage est alors accompli lors de l'un des deux premiers semestres de la phase d'approfondissement.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--l'encadrement sur place par deux médecins spécialistes (au moins un ayant un DES d'oncologie)
+-l'encadrement sur place par deux médecins spécialistes dont au moins un est titulaire du DES d'oncologie ;
 
--l'exercice de la cancérologie générale ou de spécialité exclusive traitant des cas complexes
+-l'exercice de la cancérologie générale ou de spécialité traitant des cas complexes ;
 
 -l'organisation de réunions de concertation pluridisciplinaires sur place
 
@@ -302,15 +310,17 @@ Pour les étudiants suivant l'option précoce oncologie médicale :
 
 1 stage de un an accompli dans un lieu agréé à titre principal en oncologie bénéficiant d'un agrément fonctionnel pour l'option d'oncologie médicale
 
-Critères d'agrément des stages de niveau III :
+Critères d'agrément des stages de niveau III dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--l'encadrement sur place par deux médecins spécialistes (au moins un ayant un DES d'oncologie)
+-l'encadrement sur place par deux médecins spécialistes seniors dont au moins un est titulaire du DES d'oncologie ;
 
--l'exercice de la cancérologie générale ou de spécialité exclusive traitant des cas complexes
+-l'exercice de la cancérologie générale ou de spécialité exclusive traitant des cas complexes ;
 
--l'organisation de réunions de concertation pluridisciplinaires (RCP) sur place-une participation à la recherche clinique
+-l'organisation de réunions de concertation pluridisciplinaires (RCP) sur place ;
+
+-une participation active à la recherche clinique
 
 4.5. Evaluation
 
@@ -336,4 +346,10 @@ elle est recommandée.
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
 
-Examen oral de mise en situation devant la commission locale ou régionale
+Une synthèse des activités durant la phase de consolidation en particulier les activités de recherche avec la mention d'au moins une publication réalisée durant ce troisième cycle de formation médicale
+
+Examen oral de mise en situation devant la commission régionale
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

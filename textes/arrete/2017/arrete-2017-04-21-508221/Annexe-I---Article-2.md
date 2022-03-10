@@ -24,7 +24,7 @@ DES oto-rhino-laryngologie - chirurgie cervico-faciale :
 
 II. - Options des diplômes d'études spécialisées de la discipline médicale :
 
-Co-DES anesthésie-réanimation/médecine intensive-réanimation :
+Co-DES anesthésie-réanimation/ médecine intensive-réanimation :
 
 - réanimation pédiatrique du DES AR ;
 
@@ -38,7 +38,11 @@ DES médecine cardio-vasculaire :
 
 - imagerie cardiovasculaire d'expertise.
 
-DES d'oncologie (options précoces au sens de l'article 6 de l'arrêté portant organisation du troisième cycle des études de médecine) :
+DES neurologie :
+
+- traitement interventionnel de l'ischémie cérébrale aigüe.
+
+DES d'oncologie (options précoces au sens de l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine) :
 
 - oncologie médicale ;
 
@@ -56,9 +60,19 @@ DES pédiatrie :
 
 DES psychiatrie :
 
-- psychiatrie de l'enfant et de l'adolescent ;
+1. Options précoces au sens de l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- psychiatrie de la personne âgée.
+- psychiatrie de l'adulte ;
+
+- psychiatrie de l'enfant et de l'adolescent.
+
+2. Autres options :
+
+- psychiatrie de la personne âgée, accessible aux étudiants de psychiatrie de l'adulte ;
+
+- psychiatrie légale, accessible aux étudiants de psychiatrie de l'adulte et psychiatrie de l'enfant et de l'adolescent ;
+
+- psychiatrie périnatale, accessible aux étudiants de psychiatrie de l'adulte et psychiatrie de l'enfant et de l'adolescent.
 
 DES radiologie et imagerie médicale :
 
@@ -84,4 +98,4 @@ DES de biologie médicale (options précoces au sens de l'article 6 de l'arrêt�
 
 NOTA :
 
-Conformément à l'article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément à l'article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

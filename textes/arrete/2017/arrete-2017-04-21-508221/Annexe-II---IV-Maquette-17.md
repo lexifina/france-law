@@ -1,26 +1,30 @@
 # Article Annexe II - IV. Maquette 17
 
-FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE ET BIOLOGIE DE LA REPRODUCTION - ANDROLOGIE
+FORMATION SPÉCIALISÉE TRANSVERSALE DE MÉDECINE PALLIATIVE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Former à la prise en charge des troubles de la fécondité et/ou de la sexualité d'une personne ou d'un couple.
+La FST est destinée à permettre l'acquisition de compétences clinique, relationnelle, éthique, ainsi qu'en coopération, management, pédagogie et recherche afin de permettre à un médecin de travailler dans une structure dédiée aux soins palliatifs (unités de soins palliatifs, équipes mobiles de soins palliatifs, réseau de soins palliatifs) ou au sein d'une spécialité confrontée à de nombreuses situations palliatives.
 
-1.2. Collèges d'Enseignants impliqués dans cette FST : Gynécologie-Obstétrique, Gynécologie Médicale, Endocrinologie-Diabétologie-Nutrition, Biologie Médicale, Urologie.
+1.2. Collèges d'Enseignants impliqués dans cette FST
 
-1.3. Durée de la FST : 2 semestres.
+Collège national des enseignants pour la formation universitaire en soins palliatifs (CNEFUSP) en partenariat avec tous les collèges des DES dans lesquels les étudiants suivant la FST sont inscrits.
 
-1.4. Sélection des candidats à la FST :
+1.3. Durée de la FST
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours suivi par l'étudiant et à son projet professionnel.
+2 semestres.
+
+1.4. Sélection des candidats à la FST
+
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
 2. Caractéristiques
 
 2.1. Enseignements hors stages
 
-Volume horaire.
+Volume horaire :
 
 2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
 
@@ -30,100 +34,176 @@ En application de l'article 5 du présent arrêté :
 
 - enseignement en autonomie notamment par e-learning ;
 
-- visioconférence ;
-
-- séminaires présentiels nationaux, régionaux et/ou interrégionaux.
+- séminaires présentiels.
 
 Connaissances à maîtriser au terme de la formation.
 
-Les connaissances spécifiques à acquérir dépendent du projet professionnel de l'étudiant et en particulier de son orientation médicale, biologique ou chirurgicale. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Elles sont détaillées sur la plateforme numérique de la FST.
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+Connaissances générales
 
-1) Physiologie de la reproduction masculine et féminine, infécondité du couple : épidémiologie, étiologies, physiopathologie, stratégies diagnostiques et thérapeutiques, sexualité féminine et masculine : physiologie.
+- définition des Soins palliatifs et des concepts rattachés.
 
-2) Médecine de la reproduction :
+Connaissances cliniques
 
-- aspects physiopathologiques et diagnostiques d'une infécondité du couple ;
+- démarche clinique et thérapeutique lors des situations palliatives fréquemment rencontrées ;
 
-- prise en charge d'une infécondité du couple (en partie commun avec l'andrologie en ce qui concerne les infécondités masculines).
+- démarche clinique et thérapeutique lors de situations palliatives spécifiques ;
 
-3) Biologie de la Reproduction : prises en charge spécifiques :
+- relation et intersubjectivité, interactions patient-soignants-proches.
 
-- assistance médicale à la procréation (AMP) en contexte " risque viral " ; AMP avec tiers donneur, préservation de la fertilité ;
+Connaissances législatives et éthiques
 
-- génétique de l'infertilité, des gamètes et de l'embryon; diagnostic pré-implantatoire (DPI) ; Nouvelles approches d'évaluation des gamètes et des embryons.
+- cadre légal ;
 
-4) Andrologie :
+- directives anticipées, personne de confiance, sédation ;
 
-- fertilité : infertilité du couple, aspects masculins, prise en charge non chirurgicale et chirurgicale d'une infécondité masculine (en partie commun avec le 2ème module de Médecine de la Reproduction) ;
+- délibération sur la proportionnalité des traitements ;
 
-- sexualité/Médecine sexuelle : physiopathologie des dysfonctions sexuelles, stratégies diagnostiques et thérapeutiques.
+- souhaits de mort ;
+
+- réflexion éthique : médecine, loi, demande sociale.
+
+Connaissances spécifiques
+
+- spécificité du travail selon le lieu de soin (équipe mobile de soins palliatifs (EMSP), unité de soins palliatifs (USP), établissements d'hébergement pour personnes âgées dépendantes (EHPAD), domicile) ;
+
+- démarche palliative et management d'équipe ;
+
+- repères pédagogiques ;
+
+- sensibilisation aux méthodes de recherche et aux études cliniques.
 
 2.2. Stages
 
-Stages à réaliser :
+Stages à réaliser.
 
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Médecine et biologie de la reproduction - andrologie.
+2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Soins palliatifs.
 
-Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
+L'étudiant effectue 12 mois dans des structures de médecine palliative exclusivement dédiées à cette activité : USP, EMSP intra ou extra-hospitalières, réseaux de soins palliatifs. Sur l'ensemble de son parcours de formation (DES + FST), l'étudiant aura obligatoirement fait 6 mois dans une USP et 6 mois dans une EMSP.
 
-Conformément à l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+Critères d'agrément des stages dans la FST.
 
-- l'activité du lieu ;
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-- la présence d'enseignants en nombre suffisant pour encadrer les étudiants de troisième cycle ;
+La nature du lieu : EMSP, USP, réseaux de soins palliatifs ou autre structure de soins palliatifs intervenant au domicile :
 
-- l'organisation de réunions médicales de service (discussion de dossiers, exposés, etc.) ;
+- des équipes expérimentées et reconnues au niveau régional ou interrégional ;
 
-- l'existence d'un processus d'évaluation concernant la formation.
+- une activité clinique suffisante pour garantir des apprentissages dans des situations variées ;
+
+- un encadrement médical suffisant pour assurer une responsabilité pédagogique ;
+
+- l'implication des médecins référents dans des actions de formation, d'enseignement ou de recherche.
 
 2.3. Compétences à maîtriser au terme de la formation
 
-Compétences génériques et transversales à acquérir :
-
-Information sur les différents types d'exercice : cabinet isolé, structure pluridisciplinaire (clinique, biologique, médical et chirurgical…), accréditation et organisation des soins, initiation à la gestion de ces structures (aspects réglementaires, financiers, ressources humaines…).
-
-Compétences spécifiques à la spécialité à acquérir :
-
 Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+Elles sont détaillées sur la plateforme numérique de la FST.
 
-- médecine de la Reproduction : Bilan de débrouillage d'un couple infertile. Prescription et interprétation d'un bilan hormonal, en particulier évaluation de la réserve ovarienne. Prescription et interprétation d'examens spermiologiques. Prescription et interprétation d'examens d'imagerie de la femme et d'imagerie de l'appareil génital masculin. Diagnostic d'une pathologie malformative, infectieuse des voies génitales féminines et masculines, hormonale (troubles de l'ovulation chez la femme, hypogonadisme chez l'homme), d'une maladie génétique, ou tumorale. Recherche et bilan d'une endométriose. Les grands principes et la pratique des traitements médicaux et chirurgicaux. Indications et modalités de prise en charge pour AMP. Aspects éthiques, psychologiques et législatifs de l'AMP. Préservation de la fertilité. Suivi obstétrical après AMP, en particulier chez les femmes à risque. Prescrire et surveiller un traitement inducteur de l'ovulation, monitorage échographique, ponctions, insémination intra utérine (IIU), transferts.
+La formation en médecine palliative repose sur l'apprentissage de compétences cliniques, relationnelle, éthique, coopération, management, pédagogie et recherche.
 
-- biologie de la Reproduction : Mettre en œuvre la prise en charge de couples en AMP en contexte viral, de couples en AMP avec tiers donneur, des candidats au don de gamètes ou d'embryons, des hommes ou des femmes (enfants, adolescents et adultes) en vue d'une préservation de leur fertilité. Appréhender la prise en charge des couples en DPI. Interpréter les résultats des explorations génétiques de l'infertilité féminine ou masculine. Connaître les principes, indications et utilisations des nouvelles approches d'évaluation des gamètes et des embryons et appréhender leur interprétation. Acquérir la maîtrise de la gestion des gamètes, des embryons et des tissus germinaux congelés à usage autologue. Acquérir la maîtrise de la gestion des gamètes et des embryons dans le cadre du don. Approfondir la maîtrise technique d'injection de spermatozoïde dans le cytoplasme (ICSI). Acquérir la maîtrise technique de l'extraction de spermatozoïdes chirurgicaux et de la congélation des tissus germinaux.
+Au terme de la FST, le clinicien doit avoir acquis une compétence de type " praticien réflexif " avec une capacité à penser et à rendre compte de sa pratique en tenant compte de sa propre subjectivité, des éléments contextuels, des connaissances issues du domaine biomédical et des sciences humaines et sociales.
 
-- Andrologie : Connaître les spécificités andrologiques des pathologies masculines dans le domaine de la fertilité :
+1. Compétences soignantes
 
-- Sexualité/Médecine sexuelle : Mettre en œuvre la prise en charge d'une dysfonction sexuelle dans un couple ou chez un individu. Mettre en œuvre les mesures de prévention et de prise en charge des co-morbidités identifiées. connaître les différentes approches thérapeutiques pharmacologiques, psycho-sexologiques et chirurgicales. Savoir mettre en place un réseau pluridisciplinaire pour la prise en charges des dysfonctions sexuelles.
+- une compétence clinique en lien avec les situations rencontrées en médecine palliative.
+
+- acquérir une compétence clinique, pharmacologique et thérapeutique pour faire face aux situations fréquemment rencontrées en situations palliatives (syndromes fréquents, urgence, sédation, agonie).
+
+- acquérir une compétence clinique, pharmacologique, thérapeutique lors des situations particulières (chimiothérapies et traitements spécifiques en oncologie et hématologie, insuffisance d'organes ou de fonctions vitales, pédiatrie et néonatologie, AVC, maladie neuro-dégénérative, SLA, handicap, réanimation, maladies héréditaires).
+
+- savoir mettre en œuvre une démarche scientifique et biomédicale au sein d'une approche globale du patient et en promouvant une qualité de relation.
+
+Une compétence relationnelle :
+
+- savoir transmettre une information biomédicale en tenant compte du vécu du ou des interlocuteurs (annonce de " mauvaises nouvelles " ; contexte de fragilité psychique ou psychiatrique, enfants, interlocuteurs avec troubles cognitifs…).
+
+- savoir informer et accompagner un patient de manière adaptée dans la rédaction des directives anticipées en associant la personne de confiance.
+
+- savoir accompagner un patient en refus de traitement.
+
+- savoir accompagner un patient exprimant un souhait de sédation ou de mourir.
+
+- savoir accompagner un patient et son entourage dans les situations psychiques ou familiales complexes.
+
+- savoir faciliter le dialogue entre professionnels de santé dans les situations complexes.
+
+- acquérir une compétence en médiation ainsi qu'en gestion de crises ou de conflits.
+
+Une " compétence " à la réflexion éthique :
+
+- savoir construire un processus délibératif, individuel et collectif, relatif à la proportionnalité des traitements dans les situations palliatives fréquemment rencontrées (hydratation, nutrition, transfusion, passage en réanimation, anticoagulant…).
+
+- savoir construire un processus délibératif, individuel et collectif, relatif à la proportionnalité des traitements dans les situations palliatives particulières (traitements spécifiques en oncologie et hématologie, réanimation, hémodialyse, traitements de suppléances vitales pour les personnes atteintes de maladies évolutives ou d'handicaps…).
+
+- être en capacité de développer sa propre réflexivité en tenant compte de sa propre subjectivité, de la singularité de la situation, des cadres collectifs (recommandations, lois, déontologie…), du contexte institutionnel et sociétal.
+
+- savoir exposer et argumenter une réflexion éthique en s'appuyant sur la littérature biomédicale et issue des sciences humaines et sociales.
+
+Une capacité de coopération :
+
+- savoir construire une continuité de parcours de soins en associant les divers professionnels de santé ou médico-sociaux et en anticipant les complications.
+
+- savoir développer une expertise en transversalité sans se substituer à la responsabilité des acteurs de première ligne.
+
+- savoir développer une démarche palliative en tenant compte de sa fonction professionnelle et des spécificités des lieux de vie ou de soins (EMSP, USP, LISP, domicile, EHPAD, établissements médico-sociaux).
+
+2. Compétences particulières pour un rôle d'encadrement ou responsabilité
+
+- savoir animer une équipe dans une optique d'interdisciplinarité.
+
+- savoir évaluer régulièrement les activités et les pratiques professionnelles.
+
+- savoir s'articuler dans le respect de sa fonction professionnelle avec les autres acteurs des champs sanitaires, médico-sociaux et administratifs.
+
+- savoir participer au développement de la démarche palliative dans un service de soins ou en institution.
+
+3. Compétences en formation et en pédagogie
+
+- savoir contribuer à la formation des professionnels de santé en situation clinique.
+
+- savoir s'associer de manière adaptée à des activités de sensibilisation ou de formation initiale et continue en soins palliatifs en tenant compte des acteurs et de leurs lieux de soins.
+
+4. Compétences en recherche
+
+- comprendre les enjeux de la recherche dans le champ de la maladie grave, de la fin de vie et de la médecine palliative.
+
+- savoir s'associer dans une fonction de clinicien à un projet de recherche.
 
 2.4. Evaluation
 
-Modalités de l'évaluation des connaissances :
-
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
-
-Examen du carnet de suivi de la formation de l'étudiant (portfolio): connaissances acquises durant le stage, travaux présentés par l'étudiant au cours des réunions locales et interrégionales (bibliographie, cas cliniques).
-
-- relevé des présences aux séances d'enseignement présentiel.
-
-- modalités de l'évaluation des compétences :
-
-- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
-
-- analyse de dossiers complexes au cours des réunions mensuelles (bibliographie, cas cliniques, réunion de concertation pluridisciplinaires) avec le coordonnateur local, et des réunions semestrielles régionales.
-
-- prise en compte d'éventuelles activités de recherche, congrès et publications.
-
-2.5. Modalités de validation de la FST :
+Modalités de l'évaluation des connaissances.
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-- validation des stages ;
+- participation à l'ensemble des séminaires.
 
-- résultats à l'épreuve d'examen des connaissances ;
+- présentation d'un mémoire dans le champ de la médecine palliative pouvant utiliser des méthodes quantitatives, qualitatives ou réflexives.
 
-- présentation d'un cas clinique avec analyse critique et étude de la littérature, devant aborder non seulement les aspects purement biomédicaux mais aussi les aspects psychologiques, éthiques, juridiques et scientifiques.
+- modalités de l'évaluation des compétences.
 
-L'étudiant sera évalué sur l'ensemble de ces items.
+- conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+
+- évaluation des compétences acquises lors de chaque stage par le référent de stage en s'appuyant sur une grille nationale.
+
+- Evaluation des apprentissages par le portfolio.
+
+- accompagnement et évaluation du parcours de l'étudiant avec le pilote de la FST ou son représentant lors d'au moins 3 entretiens (à l'inscription, à mi-parcours, avant la soutenance du mémoire).
+
+2.5. Modalités de validation de la FST
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+- validation de tous les stages exigés pour la FST.
+
+- suivi des séminaires.
+
+- validation du port folio.
+
+- soutenance du mémoire dans le champ de la médecine palliative.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

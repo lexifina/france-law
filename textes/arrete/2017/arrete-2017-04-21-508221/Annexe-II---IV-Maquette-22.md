@@ -1,96 +1,28 @@
 # Article Annexe II - IV. Maquette 22
 
-FORMATION SPÉCIALISÉE TRANSVERSALE SOMMEIL
+FORMATION SPÉCIALISÉE TRANSVERSALE DE NUTRITION APPLIQUÉE
 
 1. Organisation générale
 
 1.1. Objectifs généraux de la formation
 
-Compléter les connaissances et compétences acquises dans le cadre du DES d'origine, sur les pathologies du sommeil.
+Donner une compétence avancée pour la prise en charge des pathologies nutritionnelles complexes rencontrées dans la spécialité d'origine de l'étudiant inscrit dans la FST.
 
-Former des surspécialistes en médecine du sommeil.
+1.2. Collèges d'Enseignants impliqués dans cette FST
 
-1.2. Collèges d'Enseignants impliqués dans cette FST :
+Nutrition, Anesthésie-Réanimation, Biologie, Chirurgie viscérale et digestive, Hépatologie-Gastroentérologie, Gériatrie, Médecine intensive-Réanimation, Maladies infectieuses et tropicales, Médecine interne et Immunologie Clinique, Médecine vasculaire, Pédiatrie, Psychiatrie.
 
-Collège des enseignants de Pneumologie, Neurologie, Psychiatrie, Oto-rhino-laryngologie, Cardiologie, Médecine et Santé au travail, Pédiatrie, Chirurgie Maxillo-Faciale et Chirurgie orale.
+1.3. Durée de la FST
 
-1.3. Durée de la FST : 2 semestres.
+2 semestres.
 
 1.4. Sélection des candidats à la FST
 
-Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine. Une attention particulière sera portée au parcours suivi par l'étudiant et à son projet professionnel.
 
-2. Niveau 1
+2. Caractéristiques
 
-2.1. Durée : Six mois.
-
-2.2. Enseignements hors stages
-
-Volume horaire :
-
-2 demi-journées par semaine : une demi-journée en supervision en une demi-journée en autonomie.
-
-Nature des enseignements :
-
-En application de l'article 5 du présent arrêté : en 3 unités de validation (UV), dont l'une propre à la spécialité d'origine, enseignement en autonomie sous forme d'e-learning.
-
-Connaissances à maîtriser au terme de la formation.
-
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
-
-- bases physiologiques du sommeil et des pathologies du sommeil.
-
-- de manière globale, évaluation des troubles du sommeil et procédures diagnostiques à mettre en œuvre.
-
-2.3. Stages
-
-Stages à réaliser
-
-1 stage d'un semestre centré sur les pathologies du sommeil de l'organe, généralement intégré dans un stage de plateau technique propre à chaque spécialité, dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Sommeil.
-
-Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément.
-
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte les compétences du lieu de stage dans le diagnostic et la prise en charge des troubles du sommeil propres à chacune des spécialités, utilisant de manière habituelle les outils d'évaluation du sommeil, possédant un encadrement par un spécialiste temps plein, ayant une activité reconnue en médecine du sommeil dans le cadre de sa spécialité.
-
-Ce stage peut être accompli dans un service de physiologie ou d'explorations fonctionnelles multidisciplinaires.
-
-2.4. Compétences à maîtriser au terme de la formation
-
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
-
-Apprendre à utiliser et à interpréter les outils d'évaluation (questionnaires, enregistrements nocturnes), ainsi que les techniques de prise en charge spécifiques à chacune des spécialités, concernant :
-
-- les troubles du sommeil et des rythmes circadiens rencontrés en psychiatrie ;
-
-- les troubles du sommeil neurologiques ;
-
-- les troubles respiratoires au cours du sommeil rencontrés en Pneumologie, Cardiologie, Oto-rhino-laryngologie Chirurgie Maxillo-Faciale et Chirurgie Orale ;
-
-- les troubles du sommeil fréquemment rencontrés en pédiatrie ;
-
-- les troubles du sommeil et les rythmes circadiens rencontrés en médecine du travail.
-
-2.5. Evaluation
-
-Modalités de l'évaluation des connaissances donnant accès au niveau 2 :
-
-Validation en ligne des trois UV de la phase d'apprentissage, avec une note ≥ 12/20 aux tests informatiques.
-
-Modalités de l'évaluation des compétences donnant accès au niveau 2 :
-
-Validation des acquis pratiques, à partir d'un portfolio électronique :
-
-- évaluation formative de l'utilisation, et des techniques thérapeutiques spécifiques ;
-
-- évaluation sommative : en fin de stage, par discussion de dossiers cliniques sous la responsabilité du responsable médical du lieu de stage.
-
-Avis favorable aux évaluations de fin de stage par le maître de stage.
-
-3. Niveau 2
-
-3.1. Durée : 6 mois.
-
-3.2. Enseignements hors stages
+2.1. Enseignements hors stages
 
 Volume horaire :
 
@@ -98,64 +30,140 @@ Volume horaire :
 
 Nature des enseignements :
 
-En application de l'article 5 du présent arrêté : enseignement en autonomie sous la forme d'e-learning.
+En application de l'article 5 du présent arrêté :
 
-Connaissances et compétences à maîtriser au terme de la formation.
+- enseignement en autonomie notamment par e-learning ;
 
-Elles sont détaillées sur la plateforme numérique de la FST, en particulier :
+- séminaires présentiels nationaux, interrégionaux, régionaux et locaux.
 
-- reconnaître et explorer les plaintes de type somnolence diurne excessive, difficultés d'endormissement ou de maintien du sommeil, réveil précoce, endormissement précoce, agitation pendant le sommeil ;
+Connaissances à maîtriser au terme de la formation.
 
-- diagnostiquer et traiter toutes les pathologies du sommeil ;
+Elles sont détaillées sur la plateforme numérique de la FST et comprennent quatre domaines :
 
-- maîtriser toutes les techniques d'exploration du sommeil, du comportement pendant le sommeil, de la veille/vigilance et du rythme circadien veille-sommeil ;
+- les dénutritions ;
 
-- acquérir les connaissances liées aux aspects sociétaux, économiques, organisationnels et de recherche ;
+- les obésités ;
 
-- réaliser et interpréter soi-même les examens suivants :
+- les troubles du comportement alimentaire ;
 
-- actimétrie ;
+- l'alimentation (santé publique et réactions indésirables aux aliments).
 
-- polygraphie cardiorespiratoire ;
+L'étudiant devra connaître les bases théoriques de la Nutrition : dépense énergétique, composition corporelle, besoin nutritionnels, composition des aliments.
 
-- tous types de polysomnographies ;
+2.2. Stages
 
-- tests itératifs de latence d'endormissement ;
+Stages à réaliser.
 
-- tests itératifs de maintien d'éveil.
+- 1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST de Nutrition appliquée et prenant en charge la dénutrition ;
 
-3.3. Stages
+- 1 stage d'un semestre dans un lieu de stage bénéficiant d'un agrément fonctionnel pour la de FST Nutrition appliquée et prenant en charge l'obésité.
 
-Nombre et durée des stages :
+Si l'un des stages prend en charge à la fois l'obésité et la dénutrition, l'autre stage peut être fait indifféremment dans le même type de stage (obésité plus dénutrition), dans un stage prenant en charge l'obésité seule ou dans un stage prenant en charge la dénutrition seule.
 
-1 stage d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Sommeil.
+Critères d'agrément des stages dans la FST, en lien avec le DES d'origine, éventuellement services avec double agrément :
 
-Critères d'agrément des stages :
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
-En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte la présence dans le lieu de stage d'au moins un médecin qualifié en pneumologie ou en ORL et/ou d'au moins un médecin qualifié en neurologie ou en psychiatrie.
+- un encadrement médical adapté ;
 
-3.4. Evaluation
+- une activité concernant majoritairement les pathologies de la spécialité (obésité, dénutrition de tout type, troubles du comportement alimentaire, prescription et/ou adaptation de la nutrition artificielle), au minimum 500 consultations et/ou 250 hospitalisations minimum par an de patients ayant une pathologie nutritionnelle ;
 
-Modalités de l'évaluation des connaissances de la FST :
+- une supervision directe ou différée des prescriptions ;
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+- la possibilité pour l'étudiant de troisième cycle de mettre en application l'apprentissage théorique et pratique qu'il aura acquis au cours de sa formation hors stage, dont au moins une réunion d'examen des dossiers par semaine ;
 
-Epreuve écrite théorique sur plateforme numérique, dossiers progressifs et tests de concordance de script.
+- l'organisation de réunions bibliographiques.
 
-Modalités de l'évaluation des compétences de la FST :
+2.3. Compétences à maîtriser au terme de la formation
 
-Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
+Les compétences spécifiques à acquérir dépendent du DES dans lequel l'étudiant est inscrit et de son projet professionnel. Elles figurent au contrat de formation mentionné à l'article 13 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
-Epreuve orale pratique comportant un entretien, une épreuve de codage de divers types de tracés polysomnographiques et l'analyse de deux cas cliniques.
+Elles sont détaillées sur la plateforme numérique de la FST et comprennent en particulier :
 
-3.5. Modalités de validation de la FST :
+- dépister, explorer, classer et prendre en charge la dénutrition en ville, à l'hôpital et en établissements d'hébergement pour personnes âgées dépendantes (EHPAD) ;
+
+- savoir identifier la fragilité, la sarcopénie, l'obésité sarcopénique, la cachexie, connaître les axes de prise en charge ;
+
+- savoir évaluer les besoins nutritionnels selon l'âge et la situation dans différentes situations pathologies chroniques ;
+
+- dépister les troubles de l'état nutritionnel liés à des pathologies psychiatriques chroniques ;
+
+- prescrire et interpréter l'exploration biologique d'une dénutrition (dénutrition avec et sans inflammation, sarcopénie, fragilité) au diagnostic et lors de son traitement ;
+
+- dépister une carence d'apports après chirurgie digestive ;
+
+- dépister et organiser la prise en charge d'une insuffisance intestinale aiguë et chronique après chirurgie ;
+
+- dépister, explorer, classer et connaître les principes de la prise en charge de la dénutrition liée aux pathologies vasculaires et en particulier aux plaies (ulcères de jambe, escarres) ;
+
+- évaluer les besoins nutritionnels chez le patient de réanimation selon différentes pathologies chroniques sous-jacentes ;
+
+- évaluer les besoins nutritionnels du patient obèse et savoir identifier une obésité sarcopénique ;
+
+- prescrire et surveiller la nutrition artificielle : voie d'administration, substrats, délai d'administration, adaptation selon le terrain, complications ;
+
+- évaluer et prendre en charge la dénutrition péri-opératoire et connaître l'utilité de la nutrition péri-opératoire ;
+
+- prescrire et surveiller la nutrition des patients obèses en péri-opératoire et en réanimation ;
+
+- savoir prescrire une immunonutrition ;
+
+- savoir surveiller des patients de réanimation en nutrition artificielle ;
+
+- prescrire et interpréter la surveillance biologique de la nutrition artificielle ;
+
+- savoir prévenir, reconnaître et prendre en charge un syndrome de renutrition ;
+
+- savoir prendre en charge une obésité et ses complications ;
+
+- prescrire et interpréter l'exploration biologique d'une obésité lors du diagnostic et lors de son traitement ;
+
+- prévenir et traiter le surpoids et l'obésité iatrogènes, en particulier secondaires à une corticothérapie ;
+
+- dépister les comorbidités de l'obésité ;
+
+- dépister et prendre en charge les dyslipidémies ;
+
+- savoir explorer une stéatopathie métabolique (stéatose hépatique non alcoolique (NALFD) & stéato-hépatite non alcoolique (NASH)) et instaurer son traitement spécifique. Evaluer les indications de la chirurgie bariatrique en fonction des conditions physiologiques et pathologiques en coopération avec les autres professionnels concernés ;
+
+- suivre la perte de poids après chirurgie bariatrique, dépister une dénutrition ;
+
+- savoir coopérer avec les médecins nutritionnistes.
+
+2.4. Evaluation
+
+Modalités de l'évaluation des connaissances :
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
+
+Evaluation, par le maître de stage portant sur les domaines suivants :
+
+- connaissances théoriques : autoévaluation en ligne sur la plateforme numérique de la FST (e-enseignement et e-évaluation) ;
+
+- contenu du portfolio numérique.
+
+Modalités de l'évaluation des compétences :
 
 Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
 
-Validation de l'épreuve écrite.
+- évaluation, par le maître de stage, des compétences et savoir-faire ;
 
-Validation de l'épreuve pratique.
+- analyse du portfolio : activités réalisées en lien avec la FST ;
 
-Validation des deux stages.
+- utilisation des connaissances : présentation de cas cliniques lors de séminaires régionaux ou interrégionaux.
 
-Validation de l'ensemble des items du portfolio électronique.
+2.5. Modalités de validation de la FST
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+- validation du contrôle des connaissances et des compétences ;
+
+- la validation du parcours de l'étudiant (portfolio de l'étudiant) ;
+
+- examen écrit ou oral ;
+
+- mémoire rédigé sous la forme d'un article scientifique (original ou revue de la littérature) sur un sujet en lien avec la FST.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

@@ -6,11 +6,11 @@ DIPLÔME D'ÉTUDES SPÉCIALISÉES DE MÉDECINE D'URGENCE
 
 1.1. Objectifs généraux de la formation :
 
-Former les spécialistes de médecine d'urgence exerçant dans les structures de médecine d'urgence (SMU) préhospitalières (SAMU-CRRA15 et SMUR) et hospitalières (structure des urgences avec leur salle d'accueil des urgences vitales (SAUV) et leur unité d'hospitalisation de courte durée (UHCD) afin d'évaluer, de prendre en charge et d'orienter les patients présentant des pathologies urgentes médicales et chirurgicales, chez l'adulte et chez l'enfant.
+Former les spécialistes de médecine d'urgence exerçant principalement dans les structures de médecine d'urgence (SMU), préhospitalières (SAMU-CRRA15 et SMUR) et hospitalières (structure des urgences avec leur salle d'accueil des urgences vitales [SAUV] et leur unité d'hospitalisation de courte durée [UHCD]) afin d'évaluer, de prendre en charge et d'orienter les pathologies urgentes médicales et chirurgicales, chez l'adulte et chez l'enfant. Former les spécialistes de médecine d'urgence pour exercer la médecine d'urgence en dehors des structures de médecine d'urgence, notamment en situations sanitaires exceptionnelles, évacuations sanitaires de toutes natures avec nécessité de médicalisation, rassemblement de foule, manifestations de grande ampleur et sportives, etc.
 
-1.2. Durée totale du DES :
+1.2. Durée totale du DES
 
-8 semestres dont au moins 3 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté et au moins 2 dans un lieu de stage sans encadrement universitaire
+8 semestres dont au moins 2 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté et au moins 2 dans un lieu de stage sans encadrement universitaire
 
 1.3. Intitulé des options proposées au sein du DES :
 
@@ -23,6 +23,10 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 -pharmacologie médicale/ thérapeutique
 
 -urgences pédiatriques
+
+-médecine du sport ;
+
+-médecine en situation de guerre ou en situations sanitaires exceptionnelles (SSE)
 
 2. Phase socle
 
@@ -302,9 +306,9 @@ Ces compétences sont de différentes natures : décisionnelles en SAMU-CRRA15 (
 
 Nombre et durée des stages de niveau III :
 
--1 stage d'un semestre dans un lieu agréé à titre principal en médecine d'urgence ayant la qualification de SAMU-CRRA15/ SMUR)
+Un stage d'un an sous la forme d'un stage couplé dans des lieux hospitaliers (structure des urgences), agréé à titre principal en médecine d'urgence et dans des lieux hospitaliers ayant la qualification de SAMU-CRRA15/ SMUR.
 
--1 stage d'un semestre dans un lieu hospitalier, structure des urgences, agréé à titre principal ou complémentaire en médecine d'urgence
+Le temps passé dans chaque structure (Structure des urgences-SAMU-CRRA15/ SMUR) devra être équivalent à un semestre réparti sur l'année.
 
 Critères d'agrément des stages de niveau III :
 
@@ -340,8 +344,10 @@ Evaluation, par le maître de stage, au terme de chacun des stages, par formulai
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine
 
--mémoire
-
 -validation du contrôle continu des connaissances et des compétences
 
 -validation du parcours de l'étudiant
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

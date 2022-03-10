@@ -32,7 +32,13 @@ La liste des formations spécialisées transversales qui peuvent être suivies d
 
 - maladies allergiques ;
 
+- médecine hospitalière polyvalente ;
+
+- médecine palliative ;
+
 - médecine scolaire ;
+
+- médecine en situation de guerre ou en situations sanitaires exceptionnelles (SSE) ;
 
 - médecine et biologie de la reproduction-andrologie ;
 
@@ -40,12 +46,14 @@ La liste des formations spécialisées transversales qui peuvent être suivies d
 
 - nutrition appliquée ;
 
-- pharmacologie médicale/thérapeutique ;
-
-- soins palliatifs ;
+- pharmacologie médicale/ thérapeutique ;
 
 - sommeil ;
 
-- thérapie cellulaire/transfusion ;
+- thérapie cellulaire/ transfusion ;
 
 - urgences pédiatriques.
+
+NOTA :
+
+Conformément à l'article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

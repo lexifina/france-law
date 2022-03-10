@@ -186,9 +186,9 @@ C. - Comportementales : transmettre et recevoir des informations dans le cadre d
 
 3.4. Stages :
 
-- 5 stages dans un lieu hospitalier agréé à titre principal en chirurgie vasculaire. Ces stages ne sont pas tous accomplis dans le même lieu hospitalier.
+- 4 stages dans un lieu hospitalier agréé à titre principal en chirurgie vasculaire. L'un de ces stages peut être effectué dans un lieu de stage sans encadrement universitaire. Ces stages ne sont pas tous accomplis dans le même lieu.
 
-L'un de ces stages peut être remplacé par un stage accompli dans un lieu hospitalier agréé à titre principal en chirurgie thoracique et cardiovasculaire et agréé à titre complémentaire en chirurgie vasculaire :
+- 1 stage dans une spécialité proche de la chirurgie vasculaire (chirurgie thoracique et cardiovasculaire, médecine vasculaire, radiologie, médecine cardio-vasculaire) dans un lieu de stage agréé à titre principal dans l'une de ces spécialités et à titre complémentaire en chirurgie vasculaire.
 
 - 1 stage libre.
 
@@ -321,3 +321,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 - entretien avec la commission locale de la spécialité ;
 
 - soumission d'au moins un article dans une revue à comité de lecture et présentation orale d'un travail de recherche fondamental ou clinique dans un congrès national ou international de la spécialité.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

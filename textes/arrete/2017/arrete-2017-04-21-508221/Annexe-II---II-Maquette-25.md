@@ -52,7 +52,7 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique ;
 
--soins palliatifs ;
+-médecine palliative ;
 
 -sommeil ;
 
@@ -340,7 +340,7 @@ Les compétences spécifiques sont détaillées dans la plateforme numérique du
 
 Lorsqu'un ou plusieurs des stages mentionnés aux trois précédents alinéas sont accomplis au cours de la phase socle, ils sont remplacés par des stages dans un lieu agréé à titre principal en pédiatrie.
 
--1 stage dans un lieu agréé à titre principal en pédiatrie et ayant une activité de prise en charge des troubles du développement et de la croissance (neurologie, endocrinologie, gastro-entérologie, troubles des apprentissages, médecine de l'adolescent) ;
+-1 stage dans un lieu agréé à titre principal en pédiatrie et ayant une activité de prise en charge des troubles du développement et de la croissance ;
 
 -2 stages libres dont un accompli de préférence auprès d'un praticien-maître de stage des universités agréé à titre principal en pédiatrie.
 
@@ -946,4 +946,4 @@ Possibilité de présenter l'examen du diplôme européen de soins intensifs pé
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2017-2018.
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

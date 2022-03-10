@@ -28,7 +28,7 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique ;
 
--soins palliatifs ;
+-médecine palliative ;
 
 -sommeil.
 
@@ -462,4 +462,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2019-2020,
+Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2019-2020.

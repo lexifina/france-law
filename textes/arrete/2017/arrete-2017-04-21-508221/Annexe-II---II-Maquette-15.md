@@ -40,7 +40,7 @@ Dans le cadre de son projet professionnel, et en regard des besoins de santé et
 
 -médecine scolaire
 
--soins palliatifs
+-médecine palliative
 
 2. Phase socle
 
@@ -245,3 +245,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 -validation des enseignements, des stages et du portfolio, recueil organisé des traces écrites d'apprentissage de l'étudiant
 
 -validation du mémoire, qui est la version finale du portfolio
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

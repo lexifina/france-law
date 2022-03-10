@@ -258,7 +258,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 -validation des objectifs pédagogiques de connaissances et de compétences (e-learning, nombre des interventions que l'étudiant doit avoir réalisées, exercices de simulation, formulaires d'évaluation) ;
 
--participation à au moins trois sessions des Journées Nationales Enseignement sanctionnées par une évaluation (en présentiel ou en e-learning), au moins deux cours de la société française de neurochirurgie (en présentiel ou en e-learning) et au moins deux congrès de la SFNC ;
+-participation à au moins trois sessions des Journées Nationales Enseignement sanctionnées par une évaluation (en présentiel ou en e-learning), au moins deux cours de la société française de neurochirurgie (en présentiel ou en e-learning) et/ ou Ateliers pratiques du Collège de Neurochirurgie et au moins deux congrès de la SFNC ;
 
 -la participation à au moins trois ateliers de la société française de neurochirurgie, et/ ou cours européens, ou workshop dont l'intérêt pédagogique aura été validé par le coordonnateur régional ;
 
@@ -350,7 +350,7 @@ Conformément à l'article 59 de l'arrêté du 12 avril 2017 portant organisatio
 
 Certification européenne :
 
-La certification européenne est encouragée.
+La certification européenne est encouragée (training course de l'EANS).
 
 4.6. Modalités de validation de la phase de consolidation :
 
@@ -366,4 +366,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 19 mars 2019 (NOR : ESRS1901610A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle de médecine à partir de la rentrée universitaire 2017-2018.
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

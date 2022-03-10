@@ -58,7 +58,7 @@ Elles sont détaillées sur la plateforme numérique de la FST.
 
 Stages à réaliser :
 
-2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Chirurgie orbito-palpébro-lacrymale.
+2 stages d'un semestre dans un lieu bénéficiant d'un agrément fonctionnel pour la FST Chirurgie orbito-palpébro-lacrymale. Ces stages peuvent être accomplis sous la forme d'un stage mixte ou d'un stage couplé.
 
 Critères d'agrément des stages dans la FST.
 
@@ -104,4 +104,8 @@ Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant org
 
 - évaluations des connaissances ;
 
-- évaluation des compétences : formulaires de validation de stage et portfolio de l'étudiant.
+- évaluation des connaissances et des compétences en associant au moins deux évaluations différentes telles que QRMs, QROCs, question rédactionnelle, mémoire, analyse et discussion autour du Portfolio, analyse et discussion autour de cas cliniques pratiques.
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

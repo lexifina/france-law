@@ -32,7 +32,9 @@ Dans le cadre de son projet professionnel, et au regard des besoins de santé et
 
 -pharmacologie médicale/ thérapeutique
 
--soins palliatifs
+-médecine palliative ;
+
+-médecine en situation de guerre ou en situations sanitaires exceptionnelles (SSE)
 
 2. Phase socle
 
@@ -123,6 +125,8 @@ En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant o
 -le fait que l'agrément pour le stage de réanimation s'entend hors secteur hyperspécialisé (réanimation cardio chirurgicale, neurochirurgicale, hématologique, etc.).
 
 -l'existence d'une garde formatrice d'interne
+
+Les réanimations polyvalentes sans encadrement universitaire peuvent être agréées à titre principal ou à titre complémentaire pour la spécialité d'anesthésie-réanimation ;
 
 2.5. Evaluation :
 
@@ -292,37 +296,47 @@ f. Echographie et anesthésie locorégionale : connaître la sono anatomie des t
 
 L'étudiant accomplit au choix :
 
-soit :
+3.4.1. Soit :
 
--3 stages d'anesthésie dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation
+-3 stages d'anesthésie dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation ;
 
--2 stages de réanimation dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation
+-2 stages de réanimation dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation ;
 
--1 stage de réanimation dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en anesthésie-réanimation
+-1 stage de réanimation dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en anesthésie-réanimation.
 
-soit :
+3.4.2. Soit :
 
--3 stages d'anesthésie dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation
+-3 stages d'anesthésie dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation ;
 
--1 stage de réanimation dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation
+-1 stage de réanimation dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation ;
 
--1 stage de réanimation dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en anesthésie-réanimation
+-1 stage de réanimation dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en anesthésie-réanimation ;
 
--1 stage libre
+-1 stage libre.
 
-L'un des stages de réanimation dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation et mentionné ci-dessus est replacé par un stage de réanimation accompli dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation si un tel stage n'a pas été accompli en phase socle.
+3.4.3. Soit :
+
+-2 stages d'anesthésie dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation ;
+
+-1 stage de réanimation dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation ;
+
+-1 stage de réanimation dans un lieu hospitalier agréé à titre principal en médecine intensive-réanimation et à titre complémentaire en anesthésie-réanimation ;
+
+-2 stages libres.
 
 Critères d'agrément des stages de niveau II dans la spécialité :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le niveau d'encadrement médical
+-le niveau d'encadrement médical ;
 
 -pour l'anesthésie : le nombre d'actes réalisés, de la diversité des techniques ;
 
--pour la réanimation : un nombre de lits supérieur à 8, un pourcentage de patients ventilés supérieur à 20 %, un taux d'occupation supérieur à 70 %, un encadrement permanent par des médecins qualifiés en anesthésie-réanimation ou en réanimation.
+-pour la réanimation : un nombre de lits supérieur à 8, un pourcentage de patients ventilés supérieur à 20 %, un taux d'occupation supérieur à 70 %, un encadrement permanent par des médecins qualifiés en anesthésie-réanimation ou en réanimation ;
 
--en stage d'anesthésie ou en stage de réanimation, la participation à la permanence des soins de la spécialité
+-en stage d'anesthésie ou en stage de réanimation, la participation à la permanence des soins de la spécialité.
+
+Les réanimations polyvalentes sans encadrement universitaire peuvent être agréées à titre principal ou à titre complémentaire pour la spécialité d'anesthésie-réanimation.
 
 3.5. Evaluation :
 
@@ -396,19 +410,23 @@ L'étudiant acquiert les compétences spécifiques lui permettant de se prépare
 
 Nombre et durée des stages de niveau III :
 
-1 stage d'un an ou 2 stages de un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
+1 stage d'un an ou 2 stages d'un semestre lorsque l'acquisition par l'étudiant des compétences de la spécialité le justifie, accompli soit :
 
--dans un lieu hospitalier agréé à titre principal en anesthésie-réanimation
+-dans un lieu hospitalier agréé à titre principal ou à titre complémentaire en anesthésie-réanimation ;
 
--sous la forme d'un stage couplé dans des lieux hospitaliers agréés à titre principal en anesthésie-réanimation
+-sous la forme d'un stage couplé dans des lieux hospitaliers agréés à titre principal ou à titre complémentaire en anesthésie-réanimation.
+
+Au cours de la phase de consolidation, l'étudiant réalisera par défaut un semestre en anesthésie et un semestre en réanimation.
 
 Critères d'agrément des stages de niveau III :
 
 En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
 
--le niveau d'encadrement
+-le niveau d'encadrement ;
 
--la participation au service de garde de la spécialité dans laquelle l'étudiant accomplit son stage : en anesthésie la présence d'une seconde liste de garde sur le site assurant la présence d'un médecin senior ; en réanimation d'une astreinte de senior
+-la participation au service de garde de la spécialité dans laquelle l'étudiant accomplit son stage : en anesthésie la présence d'une seconde liste de garde sur le site assurant la présence d'un médecin senior ; en réanimation d'une astreinte de senior.
+
+Les réanimations polyvalentes sans encadrement universitaire peuvent être agréées à titre principal ou à titre complémentaire pour la spécialité d'anesthésie-réanimation.
 
 4.5. Evaluation :
 
@@ -426,7 +444,7 @@ Evaluation de la capacité d'autonomie
 
 Certification européenne :
 
-Possible sur une démarche individuelle (COBATRICE, diplôme européen d'anesthésie-réanimation)
+Possible sur une démarche individuelle (diplôme européen de soins intensifs : European Diploma in Intensive Care Medicine [EDIC] sur base de Competency based Training in Intensive Care Medicine [CoBaTriCE], diplôme européen d'anesthésie-réanimation : European Diploma in Anaesthesiology and Intensive Care [EDAIC] sur base de The Basic and Clinical Sciences Anaesthetic Course [BCSAC])
 
 4.6. Modalités de validation de la phase :
 
@@ -438,7 +456,7 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 -contenu du portfolio
 
--validation du mémoire
+-présentation du document de synthèse reprenant le parcours de l'étudiant, son portfolio, ses travaux universitaires, notamment sa thèse d'exercice et ses présentations en congrès et son projet professionnel
 
 5. Option réanimation pédiatrique du DES AR
 
@@ -543,3 +561,7 @@ Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant org
 Entretien avec la commission locale de coordination du DES d'anesthésie-réanimation en présence d'un pédiatre hospitalo-universitaire exerçant en réanimation pédiatrique.
 
 Possibilité de présenter l'examen du diplôme européen de soins intensifs pédiatriques (Paediatric European Diploma in Intensive Care, PEDIC).
+
+NOTA :
+
+Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
