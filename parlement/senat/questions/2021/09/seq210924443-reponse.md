@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924443
+
+- Question : [SEQ210924443](seq210924443.md) — Définition du redevable de la redevance de contrôle de fonctionnement des installations d'assainissement non collectif
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-03-10, page 1298*
+
+L'article R. 2224-19-5 du code général des collectivités territoriales (CGCT) dispose que la redevance pour l'assainissement non collectif comprend une part destinée à couvrir les charges de contrôle de la conception, de l'implantation, de la bonne exécution, du bon fonctionnement des installations et, le cas échéant, une part destinée à couvrir les charges d'entretien de celles-ci. La part représentative des opérations de contrôle est calculée en fonction de critères définis par le conseil municipal ou l'organe délibérant de l'établissement public compétent en tenant compte notamment de la situation, de la nature et de l'importance des installations. Ces opérations donnent lieu à une tarification qui peut, soit être forfaitaire, soit prendre en compte des critères liés à la réalité du contrôle. La redevance pour le diagnostic de bon fonctionnement et d'entretien est facturée au titulaire de l'abonnement d'eau (art. R. 2224-19-5, 8 et 9 du CGCT). Elle peut toutefois être demandée au propriétaire avec possibilité pour celui-ci de répercuter cette redevance sur les charges locatives. Il est recommandé aux SPANC d'identifier le propriétaire comme redevable. En effet, les dispositions législatives relatives aux obligations du propriétaire (articles L. 1331-1-1 du code de la santé publique et L.2224-8 du CGCT) priment sur les dispositions réglementaires en vertu de la hiérarchie des normes. Avec comme seul interlocuteur le propriétaire, le service évite ainsi l'actualisation des dossiers à chaque changement d'occupant, dont il n'a pas forcément la connaissance sauf s'il est aussi gestionnaire de l'eau potable.
