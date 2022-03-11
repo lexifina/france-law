@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale en date du 9 juillet 2020 sur le site http://www.education.gouv.fr
+Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale sur le site http://www.education.gouv.fr.
 
 Arrêté du 1er juin 2021 (NOR : MENE2116917A)
 
@@ -131,3 +131,169 @@ Réceptionner, stocker, contrôler les matières premières, leurs conditions de
 Contrôler la mise en place et le rangement des postes de travail, du matériel et des locaux (non évaluable pour CSR) |
 
 Détecter les anomalies, réagir aux aléas et mener des actions correctives |
+
+Conformément à l'article 1 de l'arrêté du 21 février 2022 (NOR : MENE2206310A), l'annexe 1 du présent arrêté est modifiée comme suit :
+
+Dans la partie relative aux enseignements en classe de première professionnelle, entre le tableau " enseignements pluridisciplinaires " et le tableau " enseignements généraux ", est inséré le tableau figurant en annexe 1 de l'arrêté du 21 février 2022.
+
+CLASSE DE PREMIÈRE PROFESSIONNELLE-ANNÉE SCOLAIRE 20-20
+
+|
+
+Evaluation chiffrée |
+
+Appréciation générale sur le niveau d'implication et les progrès de l'élève |
+
+Nom et signature
+
+du ou des professeurs |
+
+Elève |
+
+Groupe |
+
+ENSEIGNEMENTS PLURIDISCIPLINAIRES |
+
+SECTION
+
+EUROPÉENNE
+
+LANGUE
+
+DNL
+
+|
+
+Note annuelle |
+
+Effectif du groupe : |
+
+|
+
+|
+
+|
+
+|
+
+Répartition des notes annuelles individuelles (%) |
+
+|
+
+|
+
+< 8
+
+|
+
+≥ 8 et < 12 |
+
+≥ 12 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+LANGUE
+
+DNL
+
+|
+
+|
+
+|
+
+Conformément à l'article 2 de l'arrêté du 21 février 2022 (NOR : MENE2206310A), l'annexe 1 du présent arrêté est modifiée comme suit :
+
+Dans la partie relative aux enseignements en classe de terminale professionnelle, entre le tableau : " Enseignements pluridisciplinaires " et le tableau : " Enseignements généraux ", est inséré le tableau figurant en annexe 2 du présent arrêté.
+
+CLASSE DE TERMINALE PROFESSIONNELLE-ANNÉE SCOLAIRE 20-20
+
+|
+
+Evaluation chiffrée |
+
+Appréciation générale sur le niveau d'implication et les progrès de l'élève |
+
+Nom et signature
+
+du ou des professeurs |
+
+Elève |
+
+Groupe |
+
+ENSEIGNEMENTS PLURIDISCIPLINAIRES |
+
+SECTION
+
+EUROPÉENNE
+
+LANGUE
+
+DNL
+
+Evaluation chiffrée unique en fin d'année scolaire qui contribue à hauteur de 20 % à l'évaluation spécifique pour l'attribution de l'indication section européenne sur le diplôme du baccalauréat professionnel. Cette note est conjointement attribuée par le professeur de langue vivante et le professeur de la discipline non linguistique.
+
+|
+
+Note annuelle |
+
+Effectif du groupe : |
+
+|
+
+|
+
+|
+
+|
+
+Répartition des notes annuelles individuelles (%) |
+
+|
+
+< 8
+
+|
+
+≥ 8 et < 12 |
+
+≥ 12 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+LANGUE
+
+DNL
+
+|
+
+|
+
+|
+
+|

@@ -2,7 +2,7 @@
 
 Le présent arrêté et ses annexes seront consultables au Bulletin officiel de l'éducation nationale en date du 9 juillet 2020 sur le site http://www.education.gouv.fr
 
-Les compétences à évaluer figurant en annexe 2 de l'arrêté du 1er juin 2021 (NOR : MENE2116917A), pour chacun des baccalauréats suivants, sont ajoutées pour chacun de ces diplômes, à l'annexe 2 de l'arrêté du 17 juin susvisé. :
+Conformément à l'arrêté du 1er juin 2021 (NOR : MENE2116917A), les compétences à évaluer figurant en annexe 2 dudit arrêté, pour chacun des baccalauréats suivants, sont ajoutées, pour chacun de ces diplômes, à l'annexe 2 du présente arrêté :
 
 - ANIMATION - ENFANCE ET PERSONNES ÂGÉES ;
 
@@ -13,8 +13,6 @@ Les compétences à évaluer figurant en annexe 2 de l'arrêté du 1er juin 2021
 - ORGANISATION DE TRANSPORT DES MARCHANDISES ;
 
 - TECHNICIEN EN PROTHÈSE DENTAIRE,
-
-ANNEXE 2
 
 COMPÉTENCES PROFESSIONNELLES - NOUVEAUX BACCALAURÉATS PROFESSIONNELS - SEPTEMBRE 2021
 
@@ -313,3 +311,395 @@ Actualiser les tableaux de bord liés à l'activité de transport |
 11 |
 
 Contribuer à l'amélioration de la performance de l'entreprise |
+
+Conformément à l'arrêté du 21 février 2022 (NOR : MENE2206310A), les compétences à évaluer figurant en annexe 3 dudit arrêté, pour chacun des baccalauréats suivants, sont ajoutées à l'annexe 2 du présent arrêté :
+
+- INSTALLATEUR EN CHAUFFAGE, CLIMATISATION ET ENERGIES RENOUVELABLES ;
+
+- METIERS DU FROID ET DES ENERGIES RENOUVELABLES ;
+
+- MAINTENANCE ET EFFICACITE ENERGETIQUE ;
+
+- TECHNICIEN EN REALISATION DE PRODUITS MECANIQUES OPTIONS REALISATION ET SUIVI DE PRODUCTIONS - REALISATION ET MAINTENANCE DES OUTILLAGES ;
+
+- METIERS DE L'ENTRETIEN DES TEXTILES OPTIONS A BLANCHISSERIE - B PRESSING ;
+
+- MAINTENANCE DES SYSTEMES DE PRODUCTION CONNECTES.
+
+Définition par baccalauréat professionnel des compétences évaluées en enseignement de spécialité |
+
+Titre du bac professionnel |
+
+ordre |
+
+LIBELLE (150 caractères maximum) pour LSL |
+
+INSTALLATEUR
+
+EN CHAUFFAGE,
+
+CLIMATISATION
+
+ET ENERGIES
+
+RENOUVELABLES |
+
+1 |
+
+S'informer sur la nature et sur les contraintes de l'intervention |
+
+2 |
+
+Analyser et exploiter les données techniques de l'intervention |
+
+3 |
+
+Choisir les matériels, les matériaux, les équipements et l'outillage |
+
+4 |
+
+Organiser et sécuriser son intervention |
+
+5 |
+
+Réceptionner les approvisonnements |
+
+6 |
+
+Réaliser une installation en adoptant une attitude écoresponsable |
+
+7 |
+
+Mettre en service une installation |
+
+8 |
+
+Contrôler et régler les paramètres |
+
+9 |
+
+Réaliser des opérations d'amélioration de l'efficacité énergétique |
+
+10 |
+
+Réaliser des travaux de dépannage |
+
+11 |
+
+Consigner et transmettre les informations |
+
+12 |
+
+Communiquer, rendre compte de son intervention à l'écrit et/ ou à l'oral |
+
+13 |
+
+Conseiller le client et/ ou l'exploitant du système |
+
+MAINTENANCE
+
+DES SYSTEMES
+
+DE PRODUCTION
+
+CONNECTES |
+
+1 |
+
+Analyser l'organisation fonctionnelle, structurelle et temporelle d'un système |
+
+2 |
+
+Identifier et caractériser la chaîne d'énergie et la chaîne d'information |
+
+3 |
+
+Préparer son intervention de maintenance |
+
+4 |
+
+Participer à l'arrêt, à la remise en service d'un système dans le respect des procédures |
+
+5 |
+
+Respecter les règles environnementales |
+
+6 |
+
+Identifier et maîtriser les risques pour les biens et les personnes |
+
+7 |
+
+Exécuter des opérations de surveillance et d'inspection |
+
+8 |
+
+Réaliser des opérations de maintenance préventive systématique et conditionnelle |
+
+9 |
+
+Diagnostiquer les pannes |
+
+10 |
+
+Dépanner, réparer un composant |
+
+11 |
+
+Communiquer, rendre compte de son intervention à l'écrit et/ ou à l'oral |
+
+12 |
+
+Conseiller l'exploitant du système |
+
+13 |
+
+Participer à des travaux de maintenance améliorative sur un système et son environnement |
+
+14 |
+
+Participer à des modifications sur un système et son environnement |
+
+15 |
+
+Participer à des travaux de modernisation sur un système et son environnement |
+
+MAINTENANCE ET
+
+EFFICACITE ENERGETIQUE |
+
+1 |
+
+Déterminer les conditions de l'opération dans son contexte |
+
+2 |
+
+Analyser les données techniques de l'installation |
+
+3 |
+
+Choisir les matériels, les équipements et les outillages |
+
+4 |
+
+Organiser son intervention en toute sécurité |
+
+5 |
+
+Gérer les approvisionnements |
+
+6 |
+
+Réaliser une modification de manière éco-responsable |
+
+7 |
+
+Réaliser les opérations de mise en service et d'arrêt de l'installation |
+
+8 |
+
+Contrôler les grandeurs caractéristiques de l'installation |
+
+9 |
+
+Effectuer les réglages adaptés |
+
+10 |
+
+Réaliser des opérations de maintenance préventive |
+
+11 |
+
+Réaliser des opérations de maintenance corrective |
+
+12 |
+
+Informer de son intervention à l'écrit et/ ou à l'oral |
+
+13 |
+
+Formuler les informations nécessaires pour le client et/ ou l'exploitant du système |
+
+METIERS DE L'ENTRETIEN DES TEXTILES OPTIONS
+
+A BLANCHISSERIE-
+
+B PRESSING |
+
+1 |
+
+Communiquer en interne, avec les clients et les prestataires |
+
+2 |
+
+Exploiter les informations et documents nécessaires à la réalisation de l'activité |
+
+3 |
+
+Assurer la traçabilité des articles |
+
+4 |
+
+Identifier les procédures adaptées |
+
+5 |
+
+Préparer le processus de production |
+
+6 |
+
+Mettre en œuvre les procédés d'entretien des articles |
+
+7 |
+
+Mettre en œuvre les opérations de finition des articles |
+
+8 |
+
+Préparer les articles en vue de la livraison |
+
+9 |
+
+Maintenir les équipements et les systèmes en état de fonctionnement |
+
+10 |
+
+Assurer la mise en œuvre des règles d'hygiène, de santé, de sécurité et de protection de l'environnement |
+
+11 |
+
+Organiser la production |
+
+12 |
+
+Manager une équipe |
+
+13 |
+
+Mettre en œuvre la démarche qualité |
+
+METIERS DU FROID
+
+ET DES ENERGIES
+
+RENOUVELABLES |
+
+1 |
+
+Analyser les conditions de l'opération et son contexte |
+
+2 |
+
+Analyser et exploiter les données techniques de l'intervention |
+
+3 |
+
+Choisir les matériels, équipements et outillage |
+
+4 |
+
+Organiser et sécuriser son intervention |
+
+5 |
+
+Réceptionner les approvisonnements |
+
+6 |
+
+Réaliser une installation en adoptant une attitude écoresponsable |
+
+7 |
+
+Mettre en service une installation |
+
+8 |
+
+Contrôler, régler et paramétrer l'installation |
+
+9 |
+
+Réaliser des opérations de maintenance préventive |
+
+10 |
+
+Réaliser des opérations de maintenance corrective |
+
+11 |
+
+Consigner et transmettre les informations |
+
+12 |
+
+Communiquer, rendre compte de son intervention à l'écrit et/ ou à l'oral |
+
+13 |
+
+Conseiller le client et/ ou l'exploitant du système |
+
+TECHNICIEN
+
+EN REALISATION
+
+DE PRODUITS
+
+MECANIQUES
+
+OPTIONS REALISATION
+
+ET SUIVI
+
+DE PRODUCTIONS
+
+-REALISATION
+
+ET MAINTENANCE
+
+DES OUTILLAGES |
+
+1 |
+
+Rechercher une information dans une documentation technique, en local ou à distance |
+
+2 |
+
+Formuler et transmettre des informations, communiquer sous forme écrite et orale |
+
+3 |
+
+S'impliquer dans un environnement professionnel |
+
+4 |
+
+Interpréter et vérifier les données de définition de tout ou partie d'un ensemble ou d'un produit mécanique ou d'un outillage |
+
+5 |
+
+Préparer la réalisation de tout ou partie d'un ensemble ou d'un produit mécanique ou d'un outillage |
+
+6 |
+
+Configurer et régler les postes de travail |
+
+7 |
+
+Mettre en œuvre un moyen de réalisation |
+
+8 |
+
+Exploiter un planning de réalisation ou de maintenance |
+
+9 |
+
+Assembler les éléments de tout ou partie d'un ensemble mécanique |
+
+10 |
+
+Contrôler et suivre une production ou un outillage |
+
+11 |
+
+Effectuer la maintenance des moyens de production ou de l'outillage |
+
+12 |
+
+Appliquer les procédures relatives à la qualité, à la sécurité et au respect de l'environnement |
