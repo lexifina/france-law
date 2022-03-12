@@ -6,13 +6,11 @@ Formulaire de demande d'aide complété et signé comprenant le formulaire de l'
 
 Le cas échéant, copie de l'autorisation nationale de pêche pour le stock de sole commune dans le Golfe de Gascogne.
 
-Copie de la licence de pêche européenne précisant l'engin utilisé principalement par le navire
+Copie de la licence de pêche européenne précisant l'engin utilisé principalement par le navire.
 
-Le cas échéant, attestation d'éligibilité au critère de dépendance à la sole défini au point 3° de l'article 5 du présent arrêté, délivrée par l'organisation de producteurs auquel adhère le demandeur ou, à défaut, par le comité régional des pêches maritimes et des élevages marins (CRPMEM) en qualité de tiers de confiance.
+Le cas échéant, attestation d'éligibilité au critère de dépendance à la sole défini au point 3° de l'article 5 du présent arrêté, délivrée par l'organisation de producteurs auquel adhère le demandeur ou, à défaut, par le comité régional des pêches maritimes et des élevages marins (CRPMEM) en qualité de tiers de confiance. L'année de référence de dépendance à la sole est identique à celle du chiffre d'affaires attesté.
 
 Carte d'identité ou passeport en cours de validité pour les personnes physiques.
-
-Extrait K-bis de moins de trois mois, ou extrait K pour les entreprises individuelles.
 
 Preuve de la représentation légale ou du pouvoir donné pour un demandeur agissant en qualité de représentant légal ou en vertu d'un pouvoir qu'il lui est donné : convention de mandat ou pouvoir ou procuration ou délégation de pouvoir et signature et pièce d'identité du mandant et du mandataire.
 
