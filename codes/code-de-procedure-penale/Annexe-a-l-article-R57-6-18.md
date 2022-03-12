@@ -658,9 +658,11 @@ Article 42
 
 L'organisation des mouvements
 
-La personne détenue est enfermée dans sa cellule durant la nuit. Elle ne peut librement sortir de sa cellule durant la journée. Les déplacements hors de celle-ci doivent être justifiés par l'accès à la promenade, par un rendez-vous qui lui est fixé, par une convocation qui lui est adressée ou par une inscription à une activité.
+I. - La personne détenue est enfermée dans sa cellule durant la nuit. Elle ne peut librement sortir de sa cellule durant la journée. Les déplacements hors de celle-ci doivent être justifiés par l'accès à la promenade, par un rendez-vous qui lui est fixé, par une convocation qui lui est adressée ou par une inscription à une activité.
 
-Lors de chaque mouvement, la personne détenue doit pouvoir justifier de son identité et de l'objet de son déplacement, faute de quoi elle sera reconduite en cellule.
+II. ‒ En fonction de son parcours de détention, de sa dangerosité et de sa personnalité, la personne détenue peut bénéficier, si le règlement intérieur de l'établissement en prévoit les conditions, de dérogations aux règles de circulation en journée mentionnées au I afin de développer son autonomie et sa participation aux activités en détention.
+
+III. - Lors de chaque mouvement, la personne détenue doit pouvoir justifier de son identité et de l'objet de son déplacement, faute de quoi elle sera reconduite en cellule.
 
 Article 43
 
@@ -690,7 +692,7 @@ La personne prévenue peut, sur autorisation du magistrat saisi du dossier de la
 
 Chapitre II
 
-Dispositions spécifiques aux établissements pour peines
+Dispositions spécifiques aux établissements et quartiers affectés à l'exécution des peines
 
 Article 46
 
@@ -746,15 +748,17 @@ Lors de chaque mouvement, la personne détenue doit pouvoir justifier de son ide
 
 Article 49
 
-Les centres pour peines aménagées
+Les structures d'accompagnement vers la sortie.
 
-Dans les centres pour peines aménagées et les quartiers pour peines aménagées qui reçoivent les condamnés dont le reliquat de peine est inférieur à deux ans et les personnes condamnées qui font l'objet d'une mesure de semi-liberté ou de placement extérieur, les horaires sont aménagés pour prendre en compte la diversité des situations pénales des personnes détenues hébergées.
+I.-Les structures d'accompagnement vers la sortie reçoivent les personnes condamnées dont le reliquat de peine est inférieur à deux ans et les personnes condamnées qui font l'objet d'une mesure de semi-liberté ou de placement extérieur. Ces structures favorisent la préparation à la sortie de la personne détenue par la mise en œuvre de programmes de prise en charge permettant un accompagnement global, renforcé et individualisé.
 
-La personne détenue détient un exemplaire de la clé ou de la carte d'accès à sa cellule.
+II. ‒ La personne détenue circule de façon autonome au sein de la structure pendant les horaires d'ouverture des portes de cellule.
 
-La personne détenue circule librement au sein de l'établissement.
+Elle prend ses repas soit en cellule, soit en commun.
 
-Les repas sont pris soit en cellule, soit en commun.
+Les horaires d'accès à la structure sont aménagés pour prendre en compte la diversité des situations pénales des personnes qui y sont détenues.
+
+III.-Les règles relatives à l'organisation de la détention et au régime de détention sont adaptées en fonction de la personnalité, de l'état de santé et de l'adhésion de la personne détenue au programme de prise en charge prévu au présent article.
 
 Chapitre III
 
@@ -837,3 +841,7 @@ Cette mesure ne suspend pas l'exercice de ses droits.
 La mise sous protection individuelle est d'une durée maximale de six jours, renouvelable une fois. La durée de cette mesure ne peut excéder douze jours par période de détention de quatre mois. Le chef d'établissement peut y mettre fin à tout moment après avoir entendu l'intéressé et recueilli l'avis de l'équipe pluridisciplinaire. Il est tenu d'y mettre fin si l'intéressé le demande.
 
 La décision de mise sous protection individuelle et sa levée sont portées à la connaissance des titulaires de l'autorité parentale ou des représentants légaux de la personne détenue mineure et du magistrat saisi du dossier de l'information ou en charge de l'application des peines.
+
+NOTA :
+
+En ce qui concerne les centres pénitentiaire comportant un quartier pour peines aménagées, se reporter aux modalités d’application prévues à l’article 5 du décret n° 2022-338 du 10 mars 2022.
