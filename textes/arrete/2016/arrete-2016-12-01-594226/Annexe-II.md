@@ -1,39 +1,15 @@
 # Article Annexe II
 
-RÉFÉRENTIEL DE CERTIFICATION
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES “ UC 1 ” ET “ UC 2 ” DU CERTIFICAT COMPLÉMENTAIRE “ PLONGÉE PROFONDE ET TUTORAT ”
 
-UC1 : Intervenir en sécurité dans la zone des 40 à 60 mètres de profondeur
+Epreuve certificative de l'UC1 : mise en situation professionnelle d'encadrement dans la zone des 50 mètres de profondeur suivie d'un entretien.
 
-OI 1-1 - identifier et prendre en compte les risques spécifiques des interventions dans la zone des 40 à 60 mètres de profondeur ;
+Le stagiaire organise et conduit une palanquée composée notamment des évaluateurs dans la zone des 50 mètres de profondeur. Le contexte de l'évolution à 50 mètres est fixé par le jury. En fin d'intervention, le plongeur démontre sa capacité à intervenir sur un plongeur en difficulté. Cette plongée est suivie d'un entretien avec les évaluateurs susmentionnés, d'une durée de 30 minutes maximum portant principalement sur les choix effectués, l'organisation et la sécurité de la séance et la spécificité de l'enseignement dans la zone de 40 à 60 mètres.
 
-OI 1-2 - maîtriser individuellement les techniques et les connaissances spécifiques à la plongée dans la zone des 40 à 60 mètres de profondeur ;
+Epreuve certificative de l'UC2 : épreuve sur dossier suivie d'un entretien.
 
-OI 1-3 - adapter ses compétences de direction de la plongée aux spécificités de la zone des 40 à 60 mètres de profondeur ;
+Elle est réalisée au moyen de la production d'un document écrit personnel suivie d'un entretien.
 
-OI 1-4 - adapter ses compétences de conduite de palanquée aux spécificités de la zone des 40 à 60 mètres de profondeur ;
+Dans les conditions fixées par le recteur de région académique, le candidat transmet à l'organisme de formation un document écrit personnel relatif à l'analyse d'une problématique liée au tutorat des stagiaires en plongée subaquatique.
 
-OI 1-5 - adapter ses compétences de formation de plongeurs aux spécificités de la zone des 40 à 60 mètres de profondeur ;
-
-OI 1-6 - réaliser des choix d’utilisation d’un navire support de plongée adaptés aux spécificités de la zone des 40 à 60 mètres de profondeur ;
-
-OI 1-7 - réaliser des choix d’utilisation des matériels de plongée adaptés aux spécificités de la zone des 40 à 60 mètres de profondeur.
-
-UC2 : Prendre en charge des stagiaires et assurer les fonctions de tuteur
-
-OI 2-1 - accueillir des stagiaires et planifier leurs interventions ;
-
-OI 2-2 - prendre en compte les objectifs, enjeux et spécificités de la formation des stagiaires en lien avec l’organisme qui assure la formation en centre ;
-
-OI 2-3 - accompagner les stagiaires dans la découverte des spécificités de la structure et de la zone de plongée ;
-
-OI 2-4 - accompagner les stagiaires dans leurs interventions dans les divers champs hors pédagogie (accueil, pilotage du navire, utilisation des matériels…) ;
-
-OI 2-5 - organiser les interventions pédagogiques des stagiaires en relation avec la clientèle ;
-
-OI 2-6 - assurer le suivi et la régulation des interventions pédagogiques des stagiaires ;
-
-OI 2-7 - procéder à l’évaluation de la progression des stagiaires et à l’évaluation des compétences acquises au cours de leur stage ;
-
-OI 2-8 - assurer le suivi administratif du stage en entreprise (convention, état de présence, livret pédagogique…) ;
-
-OI 2-9 - assurer la mission de "maître d’apprentissage" .
+Ce document fait l'objet d'une soutenance orale par le candidat pendant une durée de 20 minutes au maximum suivie d'un échange d'une durée de 20 minutes au maximum portant sur l'analyse de la problématique choisie et sur les enjeux et spécificité des actions de tutorat. Le candidat peut, lors de la soutenance, utiliser un support vidéo.
