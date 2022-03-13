@@ -14,6 +14,8 @@ Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2
 
 Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
 
+Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
+
 - Isolation d’un plancher / Fiche d’opération standardisée n° BAR-EN-103
 
 Conformément à l’article 1er de l’arrêté du 10 janvier 2019 (NOR : TRER1834746A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er avril 2019.
@@ -75,6 +77,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 - Chaudière biomasse individuelle / Fiche d’opération standardisée n°BAR-TH-113
 
 Conformément à l’article 1er de l’arrêté du 18 décembre 2020 (NOR : TRER2035968A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er avril 2021.
+
+Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er mai 2022.
 
 - Isolation d’un réseau hydraulique de chauffage / Fiche d’opération standardisée n°BAR-TH-115 (Abrogée à compter du 1er avril 2018)
 
@@ -168,6 +172,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 - Pompe à chaleur hybride individuelle / Fiche d’opération standardisée n°BAR-TH-159
 
+Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er mai 2022.
+
 - Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160
 
 Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
@@ -227,6 +233,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 - Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 12/03/2022, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=XYSapO88DEipMnFq20QwVfCwQ8RhV7Mt8a-smbCOZxc=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 28/12/2021, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
 
