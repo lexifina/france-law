@@ -4,104 +4,84 @@ DISPOSITIONS RELATIVES AUX MÉDICAMENTS DONT L'UTILISATION CHEZ UN CANDIDAT AU D
 
 Médicament
 
-Dénomination commune internationale
+Dénomination commune internationale |
 
-|
+Durée d'ajournement
 
-Durée d'ajournement après la dernière prise |
+après la dernière prise |
 
-Acitrétine
+Acétazolamide |
 
-|
+1 semaine |
+
+Acitrétine |
 
 3 ans |
 
-Alitrétinoïne
-
-|
+Alitrétinoïne |
 
 1 mois |
 
-Carbamazépine
-
-|
+Baclofène |
 
 1 semaine |
 
-Carbimazole
-
-|
+Carbamazépine |
 
 1 semaine |
 
-Danazol
-
-|
+Carbimazole |
 
 1 semaine |
 
-Dutastéride
-
-|
-
-6 mois |
-
-Finastéride
-
-|
+Danazol |
 
 1 semaine |
 
-Isotrétinoïne
-
-|
+Isotrétinoïne |
 
 1 mois |
 
-Lithium (sels de)
-
-|
+Lithium (sels de) |
 
 1 semaine |
 
-Méthimazole (Thiamazol)
-
-|
+Méthimazole (Thiamazol) |
 
 1 semaine |
 
-Méthotrexate
-
-|
+Méthotrexate |
 
 1 semaine |
 
-Raloxifène
-
-|
+Modafinil |
 
 1 semaine |
 
-Testostérone
+Mycophénolate mofetil (acide mycophénolique) |
 
-|
+6 semaines |
+
+Raloxifène |
+
+1 semaine |
+
+Testostérone |
 
 6 mois |
 
-Thalidomide
-
-|
+Thalidomide |
 
 1 semaine |
 
-Topiramate
-
-|
+Topiramate |
 
 1 semaine |
 
-Valpromide/ divalproate de sodium/ valproate/ acide valproïque |
+Valpromide/ divalproate de sodium/ valproate de sodium/ acide valproïque |
 
-1 semaine
+1 semaine |
 
-|
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 11 janvier 2022, ces dispositions entrent en vigueur le 16 mars 2022.

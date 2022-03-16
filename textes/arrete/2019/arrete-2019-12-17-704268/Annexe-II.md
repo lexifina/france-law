@@ -118,15 +118,19 @@ CI permanente sauf antécédents de convulsions infantiles
 
 Pour épilepsie traitée : CI de trois ans après l'arrêt du traitement en l'absence de crise. |
 
-B. - RISQUES POUR LE RECEVEUR
+B.-RISQUES POUR LE RECEVEUR
 
 RISQUE CIBLÉ |
 
-SITUATIONS À RISQUE |
+SITUATIONS A RISQUE |
 
-CONDUITE À TENIR (CAT) ET CONTRE INDICATIONS (CI)
+CONDUITE À TENIR (CAT)
 
-EN FONCTION DES RÉPONSES ET DE LA SITUATION À RISQUE |
+ET CONTRE INDICATIONS (CI)
+
+EN FONCTION DES REPONSES
+
+ET DE LA SITUATION A RISQUE |
 
 Transmission de tératogènes au receveur |
 
@@ -140,9 +144,9 @@ Prise de médicaments inhibiteurs des fonctions plaquettaires |
 
 CI à la préparation d'un concentré plaquettaire (CPA ou MCP) :
 
-- Anti-inflammatoires non stéroïdiens : CI d'un jour après arrêt du traitement
+-Anti-inflammatoires non stéroïdiens : CI d'un jour après arrêt du traitement
 
-- Acide acétyl salicylique : CI de cinq jours après arrêt du traitement |
+-Acide acétyl salicylique : CI de cinq jours après arrêt du traitement |
 
 Transmission d'un agent pathogène |
 
@@ -166,13 +170,13 @@ Contact avec un sujet infectieux |
 
 La personne habilitée à procéder à l'entretien pré-don apprécie la possibilité d'un don en fonction :
 
-- de la transmissibilité de l'agent pathogène par voie sanguine
+-de la transmissibilité de l'agent pathogène par voie sanguine
 
-- de la durée d'incubation de l'infection
+-de la durée d'incubation de l'infection
 
-- du délai passé depuis l'exposition |
+-du délai passé depuis l'exposition |
 
-Infection et/ou fièvre > 38°C |
+Infection et/ ou fièvre > 38° C |
 
 CI de deux semaines après la disparition des symptômes |
 
@@ -180,9 +184,9 @@ Intervention chirurgicale |
 
 La personne habilitée à procéder à l'entretien pré-don apprécie le caractère majeur ou mineur de l'intervention chirurgicale :
 
-- CI d'une semaine au minimum en cas d'intervention chirurgicale mineure
+-CI d'une semaine au minimum en cas d'intervention chirurgicale mineure
 
-- CI de 4 mois en cas d'intervention chirurgicale majeure |
+-CI de 4 mois en cas d'intervention chirurgicale majeure |
 
 Corticothérapie par voie générale |
 
@@ -191,6 +195,10 @@ CI de deux semaines après arrêt du traitement |
 Infection biologiquement avérée par le VIH, VHC, HTLV |
 
 CI permanente |
+
+Prophylaxie pré-exposition (PrEP) et prophylaxie post-exposition (PEP) au VIH |
+
+CI de 4 mois après la dernière prise du traitement |
 
 Infection par le VHB (*) |
 
@@ -218,7 +226,7 @@ Traitement antibiotique (hors acné simple) |
 
 CI d'une semaine après arrêt du traitement et de deux semaines après la fin des symptômes |
 
-Infection avérée à Yersinia - enterocolitica |
+Infection avérée à Yersinia-enterocolitica |
 
 CI de six mois après guérison |
 
@@ -228,11 +236,11 @@ Soins simples (soins de caries, détartrage, etc.) : CI d'1 jour
 
 Autres soins (traitement de racines, extraction dentaire) : CI d'une semaine et jusqu'à cicatrisation |
 
-Lésions cutanées (eczéma…) au point de ponction |
+Lésions cutanées (eczéma …) au point de ponction |
 
 CI jusqu'à guérison des lésions |
 
-Plaie cutanée (ulcère variqueux, plaies infectées…) |
+Plaie cutanée (ulcère variqueux, plaies infectées …) |
 
 CI jusqu'à cicatrisation |
 
@@ -246,21 +254,13 @@ Candidat au don |
 
 Risque d'exposition du candidat au don à un agent infectieux transmissible par voie sexuelle |
 
-Pour les femmes, rapport(s) sexuel(s) avec plus d'un partenaire dans les quatre derniers mois
-
-Pour les hommes, rapport(s) sexuel(s) avec plus d'une partenaire dans les quatre derniers mois |
+Rapport (s) sexuel (s) avec plus d'un partenaire dans les quatre derniers mois |
 
 CI de quatre mois après la fin de la situation considérée |
 
-Rapport(s) sexuel(s) en échange d'argent ou de drogue |
+Rapport (s) sexuels (s) en échange d'argent ou de drogue |
 
 CI de douze mois après la fin de la situation considérée |
-
-Pour les hommes, rapport(s) sexuel(s) avec un autre homme |
-
-Dans le cas d'un don de sang total et d'aphérèse : CI de quatre mois après le dernier rapport sexuel considéré
-
-Dans le cas d'un don de plasma par aphérèse pour préparer du plasma sécurisé par quarantaine ou du plasma pour fractionnement : CI de 4 mois pour les hommes ayant eu plus d'un partenaire sexuel dans les quatre derniers mois après la fin de cette situation. |
 
 Transmission d'un agent
 
@@ -282,21 +282,17 @@ Partenaire ayant eu un rapport sexuel en échange d'argent ou de drogue |
 
 CI de douze mois après le dernier rapport sexuel considéré avec ce partenaire |
 
-Pour les femmes dont le partenaire masculin a eu lui-même un rapport sexuel avec un homme dans les quatre derniers mois |
-
-CI de quatre mois après le dernier rapport sexuel considéré avec ce partenaire |
-
 Partenaire ayant une sérologie positive pour :
 
 VIH, HTLV, VHC, VHB
 
-(AgHBs+) |
+(AgHBs +) |
 
 CI de douze mois après le dernier rapport sexuel considéré avec ce partenaire.
 
-Pas de CI lorsque chez le partenaire VHC+, la recherche ARN est négative depuis plus d'un an.
+Pas de CI lorsque chez le partenaire VHC +, la recherche ARN est négative depuis plus d'un an.
 
-Pas de CI en cas de partenaire VHB (AgHBs+) si le donneur est vacciné et que son immunité est démontrée (Ac anti-HBs positifs) à un titre protecteur |
+Pas de CI en cas de partenaire VHB (AgHBs +) si le donneur est vacciné et que son immunité est démontrée (Ac anti-HBs positifs) à un titre protecteur |
 
 Partenaire ayant eu une IST récente ou en traitement |
 
@@ -414,7 +410,7 @@ Traitement par glucocérébrosidase placentaire de la maladie de Gaucher |
 
 CI permanente |
 
-Voyage et/ou séjours au Royaume-Uni>1an cumulé dans la période du 1er janvier 1980 au 31 décembre 1996 |
+Voyage et/ ou séjours au Royaume-Uni > 1an cumulé dans la période du 1er janvier 1980 au 31 décembre 1996 |
 
 CI permanente |
 
@@ -433,3 +429,7 @@ Antécédent de transfusion sanguine
 Antécédent d'allogreffe ou de xénogreffe |
 
 CI permanente |
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 11 janvier 2022, ces dispositions entrent en vigueur le 16 mars 2022.
