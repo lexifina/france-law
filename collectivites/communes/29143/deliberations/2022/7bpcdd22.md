@@ -1,0 +1,10 @@
+# COMMUNE DE MAHALON : délibération 7BPCDD22 — BP CDD 2022
+
+- Collectivité : COMMUNE DE MAHALON
+- SIRET : 21290143300012
+- Code INSEE : 29143
+- Date : 2022-03-17
+- Matière : 7.1 Finances locales/Divers
+- Objet : BP CDD 2022
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901433/Deliberation/2022/176413/984d957d18d67b0d85e50509fa266295ed9acade57274323e171271b3effb6b9.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
