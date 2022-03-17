@@ -34,6 +34,60 @@ Branchement, surveillance et débranchement d'une dialyse rénale, péritonéale
 
 Utilisation de techniques de médiation à visée thérapeutique.
 
+Réalisation d'une échographie de vessie.
+
+Echoguidage des voies veineuses périphériques difficiles.
+
+Pose de cathéter veineux court.
+
+Pose de sonde gastrique.
+
+Pose de sonde vésicale à demeure y compris le premier sondage chez l'homme.
+
+Toucher rectal.
+
+Spirométrie et mesure du monoxyde de carbone expiré.
+
+Méchage pour épistaxis (hors ballonnet).
+
+Anesthésie locale et topique.
+
+Gypsothérapie.
+
+Immobilisations au moyen d'attelles, orthèses et autres dispositifs.
+
+Réalisation de sutures (sauf visage et mains) comprenant les arcades sourcilières, le crâne et la pose/ ablation de crins ;
+
+Incision et drainage d'abcès, méchage.
+
+Tests rapides d'orientation diagnostiques inscrits au tableau 3 de l'arrêté du 1er août 2016 ainsi que ceux recommandés en cas d'épidémie ou de pandémie.
+
+Dosage de l'hémoglobine par “ HemoCue ”.
+
+Pose d'une oxygénothérapie (< 15l/ min).
+
+Défibrillation manuelle.
+
+Uniquement dans le cadre du parcours médico-paramédical du domaine d'intervention Urgences :
+
+Test à la trinitrine.
+
+Recueil du signal et des images en échographie à l'aide de la technique FAST .
+
+Pose de cathéter intra osseux, veineux profond (type “ Désilet ”), de pression artérielle sanglante.
+
+Pose d'une oxygénothérapie haut débit, d'une ventilation non-invasive.
+
+Pose d'une canule oropharyngée, d'un masque oropharyngé, mise en place d'un dispositif de ventilation sans laryngoscopie.
+
+Ponction d'ascite.
+
+Décompression d'un pneumothorax suffocant.
+
+Pose d'attelle de traction.
+
+Aide à la réduction de fractures.
+
 NOTA :
 
-Au deuxième alinéa les mots " prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux" doivent être lus comme débutant à la ligne
+Au deuxième alinéa les mots "prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux" doivent être lus comme débutant à la ligne

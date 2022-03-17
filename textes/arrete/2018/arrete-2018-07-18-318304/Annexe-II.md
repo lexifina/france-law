@@ -23,3 +23,5 @@ Examens d'imagerie nécessaires au suivi du patient.
 Doppler du greffon.
 
 Débit de fistule artério-veineuse.
+
+Vaccinations selon calendrier vaccinal, vaccinations ciblées (grippe saisonnière, anti-tétanique, Gammaglobuline antitétanique), vaccins maladies tropicales et vectorielles.

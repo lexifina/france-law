@@ -6,25 +6,59 @@ I.-Examens sanguins
 
 HEMATOLOGIE :
 
-- Hémogramme (numération des hématies, des leucocytes et des plaquettes, dosage de l'hémoglobine, hématocrite, volume globulaire moyen, paramètres érythrocytaires, formule leucocytaire).
+- Hémogramme (numération des hématies, des leucocytes et des plaquettes, dosage de l'hémoglobine, hématocrite, volume globulaire moyen, paramètres érythrocytaires, formule leucocytaire) ;
+
+- Réticulocytes ;
+
+- Schizocytes.
 
 IMMUNOLOGIE :
 
 - Phénotype HLA classe I (dans le cadre du domaine d'intervention en néphrologie) ;
 
-- Phénotype HLA classe II (dans le cadre du domaine d'intervention en néphrologie).
+- Phénotype HLA classe II (dans le cadre du domaine d'intervention en néphrologie) ;
+
+- Groupage sanguin ;
+
+- RAI ;
+
+- Anticorps anti-tréponème ;
+
+- Anticorps anti-tétaniques ;
+
+- Phadiatop.
+
+VIROLOGIE :
+
+- Sérologie et charge virale (VIH, VHC, VHB) ;
+
+- Sérologie HTLV1 et HTLV2 ;
+
+- Sérologie syphilis ;
+
+- Sérologie SARS CoV2.
 
 HEMOSTASE ET COAGULATION :
 
 - Temps de Quick en cas de traitement anti-vitamine K (INR) ;
 
-- Mesure de l'activité anti-facteur X activé (anti-Xa) de l'héparine ou d'un dérivé héparinique.
+- Mesure de l'activité anti-facteur X activé (anti-Xa) de l'héparine ou d'un dérivé héparinique ;
+
+- Temps de quick ;
+
+- Taux de prothrombine ;
+
+- Bilan (TP, TCA, fibrinogène, bilan CIVD, ATII, facteurs de coagulation) ;
+
+- Dosage concentration plasmatique AOD, ARU, PRU.
 
 MICROBIOLOGIE :
 
 - Examen cytobactériologique des urines (ECBU) ;
 
-- Prélèvement cutané ou muqueux.
+- Prélèvement cutané ou muqueux ;
+
+- Hémocultures veineuses périphériques qui font partie du bilan infectieux.
 
 HORMONOLOGIE :
 
@@ -64,7 +98,29 @@ PROTEINES MARQUEURS TUMORAUX VITAMINES :
 
 - Marqueurs tumoraux (suivi d'un cancer selon les recommandations en vigueur) ;
 
-- Dosage de la 25-(OH)-vitamine D (D2 + D3) (dans le cadre du domaine d'intervention en néphrologie).
+- Dosage de la 25-(OH)-vitamine D (D2 + D3) (dans le cadre du domaine d'intervention en néphrologie) ;
+
+- D-dimères ;
+
+- Troponine ;
+
+- Pro calcitonine ;
+
+- Quantiféron ;
+
+- Dosage de la 25 (OH)-vitamine D (D2 et D3) ;
+
+- Haptoglobine ;
+
+- Dosage vitamine B6 et B12 ;
+
+- Pré albumine ;
+
+- Electrophorèse des protéines sériques ;
+
+- Amylasémie ;
+
+- Cétonémie.
 
 BIOCHIMIE :
 
@@ -92,7 +148,13 @@ BIOCHIMIE :
 
 - Saturation en oxygène (SaO2) ;
 
-- Gaz du sang.
+- Gaz du sang ;
+
+- Ionogramme complet : VS, bilan martial, transferrine, coefficient de saturation de la transferrine ;
+
+- Fer sérique ;
+
+- Decarboxytransferrine (CDT).
 
 DOSAGES MEDICAMENTEUX :
 
@@ -104,9 +166,15 @@ DOSAGES MEDICAMENTEUX :
 
 - Clozapine ;
 
+- Pic plasmatique et taux résiduel médicamenteux.
+
 TOXICOLOGIE :
 
 - Recherche de toxiques ;
+
+PARASITOLOGIE :
+
+- Recherche dans le sang et les selles.
 
 II.-Examens urinaires
 
@@ -130,6 +198,14 @@ II.-Examens urinaires
 
 - Recherche de sang (hématies et/ou hémoglobine) ;
 
-- Glycosurie.
+- Glycosurie ;
+
+- Antigènes solubles urinaires légionnelle ;
+
+- Electrophorèse et immunoélectrophorèse des protéines urinaires ;
+
+- Urée ;
+
+- Créatinine et calcul de la clairance de la créatine.
 
 Recherche de produits toxiques
