@@ -120,12 +120,12 @@ Sous-direction des ressources humaines et des relations sociales |
 
 Chef du bureau des carrières et du développement professionnel |
 
-Chef du bureau de la gestion prévisionnelle des emplois, des compétences et des crédits de personnels |
+Chef du bureau de la gestion prévisionnelle des emplois, des compétences et des crédits de personnels
 
-Chef du bureau de la politique et de la gestion des emplois fonctionnels |
+|
 
-Service déconcentré |
+Chef du bureau de la politique et de la gestion des emplois fonctionnels
 
-Direction interrégionale de la protection judiciaire de la jeunesse Ile-de-France outre-mer |
+|
 
-Directeur des ressources humaines |
+Chef du bureau du recrutement et de la formation |

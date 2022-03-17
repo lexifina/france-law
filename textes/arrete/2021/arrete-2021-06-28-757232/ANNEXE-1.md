@@ -214,10 +214,6 @@ Chef du bureau de l'immobilier |
 
 Chef du bureau de la performance et du pilotage |
 
-Sous-direction des ressources humaines et des relations sociales |
-
-Chef du bureau du recrutement et de la formation |
-
 Service déconcentré |
 
 Direction interrégionale de la protection judiciaire de la jeunesse Centre-Est |
@@ -242,7 +238,7 @@ Directeur de l'évaluation, de la programmation et des affaires financières |
 
 Directeur des ressources humaines |
 
-Direction interrégionale de la protection jeunesse Grand-Nord |
+Direction interrégionale de la protection judiciaire de la jeunesse Grand-Nord |
 
 Directeur de l'évaluation, de la programmation et des affaires financières |
 
@@ -263,6 +259,8 @@ Directeur des ressources humaines |
 Direction interrégionale de la protection judiciaire de la jeunesse Sud-Ouest |
 
 Directeur de l'évaluation, de la programmation et des affaires financières |
+
+Directeur des ressources humaines |
 
 Ecole nationale de la protection judiciaire de la jeunesse |
 
