@@ -72,6 +72,8 @@ Contrôle de redondance cyclique (CRC) : Algorithme mathématique appliqué à l
 
 Déclinaison de station : Ecart entre la direction de la radiale zéro degré d'une station VOR et la direction du nord vrai, déterminé au moment de l'étalonnage de la station.
 
+Départ à vue : départ exécuté par un aéronef évoluant conformément aux règles de vol aux instruments qui ne suit pas tout ou partie d'une procédure de départ aux instruments (par exemple un départ normalisé aux instruments) mais qui exécute le départ par référence visuelle au sol.
+
 DETRESFA : Expression conventionnelle désignant une phase de détresse.
 
 Exploitant : Personne, organisme ou entreprise qui se livre ou propose de se livrer à l'exploitation d'un ou de plusieurs aéronefs.
@@ -111,6 +113,8 @@ Organisme accepteur : Le prochain organisme du contrôle de la circulation aéri
 Organisme AFIS : Organisme rendant le service d'information de vol et le service d'alerte au bénéfice des aéronefs évoluant dans la circulation d'aérodrome de certains aérodromes non contrôlés.
 
 Organisme transféreur : Organisme du contrôle de la circulation aérienne en train de transférer à l'organisme suivant, le long de la route, la responsabilité d'assurer à un aéronef le service du contrôle de la circulation aérienne.
+
+Pente ATS : pente de montée associée à un itinéraire normalisé de départ aux instruments publiée en vue d'établir une séparation stratégique vis-à-vis d'une autre trajectoire publiée ou d'une portion d'espace aérien.
 
 Performances de communication requises (RCP) : Enoncé des performances auxquelles doivent satisfaire les communications opérationnelles effectuées pour exécuter des fonctions ATM déterminées.
 
@@ -154,6 +158,8 @@ Note. - En France, ces renseignements sont communiqués sous la forme de cartes 
 
 Route à navigation de surface : Route ATS établie à l'usage des aéronefs qui peuvent utiliser la navigation de surface.
 
+Séparation stratégique : séparation existant entre deux trajectoires différentes publiées ou une trajectoire publiée et une portion d'espace aérien, déclarées séparées par l'autorité compétente des services de la circulation aérienne, compte tenu de la précision de navigation requise sur chaque trajectoire.
+
 Service de gestion d'aire de trafic : Service fourni pour assurer la régulation des activités et des mouvements des aéronefs et des autres véhicules sur une aire de trafic.
 
 Service de radionavigation : Service fournissant des informations de guidage ou des données de position au moyen d'une ou de plusieurs aides radio à la navigation pour assurer l'efficacité et la sécurité de l'exploitation des aéronefs.
@@ -187,7 +193,3 @@ Zone réservée temporairement (TRA) : Volume d'espace aérien réservé tempora
 Zone de ségrégation temporaire (TSA) : Volume d'espace aérien réservé temporairement à des usagers déterminés, pour leur usage exclusif.
 
 Zone de ségrégation temporaire transfrontalière (CBA) : Volume d'espace aérien établi au-dessus de frontières internationales et réservé temporairement à des usagers déterminés, pour un usage spécifique. Une telle zone peut prendre la forme d'une TSA ou d'une TRA.
-
-NOTA :
-
-Conformément à l'article 6 de l'arrêté du 20 juillet 2021, ces dispositions entrent en vigueur le 12 août 2021.

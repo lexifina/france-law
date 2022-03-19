@@ -18,9 +18,9 @@ Note. - Des renseignements sur les RCP et les procédures correspondantes, ainsi
 
 1.2. Service d'information de vol
 
-1.2.1. Les installations de télécommunication air-sol permettent l'établissement de communications bilatérales entre un organisme assurant le service d'information de vol et les aéronefs en vol dotés de l'équipement approprié, en n'importe quel point de la région d'information de vol.
+1.2.1. (Réservé)
 
-1.2.2. (Réservé)..
+1.2.2. (Réservé)
 
 1.3. Contrôle régional
 
