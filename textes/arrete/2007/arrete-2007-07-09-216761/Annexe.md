@@ -16,6 +16,8 @@ France métropolitaine-Albanie ;
 
 France métropolitaine-Monténégro.
 
+France métropolitaine-Royaume-Uni.
+
 2. Liaisons internationales extracommunautaires :
 
 Jusqu'au 30 avril 2022
