@@ -34,7 +34,7 @@ Il comporte notamment, pour le territoire de compétence concerné :
 
 2° Les modalités financières d'intervention en ce qui concerne les aides de l'agence. A ce titre, il tient compte de la complémentarité des aides de l'agence avec les autres aides à l'habitat privé ;
 
-3° Le dispositif relatif aux loyers applicables aux conventions avec travaux signées en application des articles L. 321-4 et L. 321-8 : constat des loyers de marché, définition d'un zonage local, détermination des loyers plafonds, notamment par catégorie ou taille de logement, dans le respect des loyers plafonds fixés au niveau national en fonction du zonage géographique applicable au conventionnement avec l'ANAH, des délibérations du conseil d'administration concernant les loyers conventionnés et, le cas échéant, des dispositions incluses dans les conventions de délégation de compétence mentionnées aux articles L. 301-5-1 à L. 301-5-2 et leurs avenants.
+3° Le dispositif relatif aux loyers applicables aux conventions signées en application des articles L. 321-4 et L. 321-8 du CCH, dans le respect des plafonds de loyers fixés par voie réglementaire et des délibérations du conseil d'administration concernant les loyers conventionnés.
 
 Pour le conventionnement sans travaux, le programme d'actions mentionne les dispositions qui ont été adoptées, dans les conditions fixées par le conseil d'administration de l'agence, sur son territoire de compétence ;
 
@@ -328,9 +328,9 @@ Article 15-A
 
 Propriétaires, titulaires de droit réel immobilier conférant l'usage de locaux loués nus ou meublés (R. 321-12 [I, 1°])
 
-Les logements pour lesquels la subvention est accordée doivent être loués pendant une période d'au moins neuf ans à compter de la date de déclaration d'achèvement des travaux et, conformément à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs, répondre aux caractéristiques de décence.
+Les logements pour lesquels la subvention est accordée doivent être loués pendant une période d'au moins six ans à compter de la date de déclaration d'achèvement des travaux et, conformément à l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs, répondre aux caractéristiques de décence.
 
-Lorsque les travaux réalisés avec l'aide de l'agence relèvent de l'accessibilité ou de l'adaptation de l'immeuble ou du logement aux personnes en situation de handicap et ont eu pour objet de répondre aux besoins spécifiques de la personne logée, la durée de mise en location peut être ramenée à six ans. En cas de départ du fait du locataire, cette durée d'engagement peut ne plus être exigée, sur décision du délégué de l'agence dans le département ou du délégataire, en fonction notamment des caractéristiques du logement et de la possibilité de remise en location, en particulier au profit d'une personne en situation de handicap pour laquelle la configuration du logement serait adaptée.
+Lorsque les travaux réalisés avec l'aide de l'agence relèvent de l'accessibilité ou de l'adaptation de l'immeuble ou du logement aux personnes en situation de handicap et ont eu pour objet de répondre aux besoins spécifiques de la personne logée, la durée de mise en location est de six ans. En cas de départ du fait du locataire, cette durée d'engagement peut ne plus être exigée, sur décision du délégué de l'agence dans le département ou du délégataire, en fonction notamment des caractéristiques du logement et de la possibilité de remise en location, en particulier au profit d'une personne en situation de handicap pour laquelle la configuration du logement serait adaptée.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas lorsque le bailleur, bénéficiaire de la subvention, a signé, avec l'ANAH, une convention prévue à l'article L. 321-4 ou L. 321-8 du CCH.
 
@@ -390,7 +390,7 @@ Propriétaires ou titulaires d'un droit réel d'un logement qu'ils s'engagent à
 
 Les logements doivent être occupés dans le délai maximum d'un an qui suit la date de déclaration d'achèvement des travaux.
 
-Les logements pour lesquels la subvention est accordée doivent être occupés pendant une durée de six ans.
+Les logements pour lesquels la subvention est accordée doivent être occupés pendant une durée de trois ans.
 
 Le délégué de l'agence dans le département ou le délégataire peut autoriser, avec maintien de la subvention, que le logement ne soit pas occupé lorsque les bénéficiaires de la subvention invoquent des motifs d'ordre médical, familial ou professionnel. L'autorisation peut être conditionnée à l'obligation de louer le logement à titre de résidence principale avec, le cas échéant, des engagements de location spécifique.
 
