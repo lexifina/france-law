@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210824196
+
+- Question : [SEQ210824196](seq210824196.md) — Renforcement des garanties foncières
+
+## Réponse
+
+*Logement, JO du 2022-03-24, page 1642*
+
+En l'état actuel de la législation, le bornage de terrain, qui consiste à fixer contradictoirement la limite de deux parcelles contiguës et à matérialiser cette limite par des repères, n'est pas obligatoire, sauf dans quelques cas : - lorsqu'il est demandé par un voisin (art 646 du code civil) ; - lorsque le terrain est destiné à la construction d'un immeuble à usage d'habitation ou à usage mixte (habitation et professionnel) constituant un lot dans un lotissement soumis à déclaration préalable ou permis d'aménager, ou un terrain issu d'une division dans une zone d'aménagement concertée (article L. 115 -4 du code de l'urbanisme). Le dispositif de bornage est édicté par le seul article 646 du code civil. « Tout propriétaire peut obliger son voisin au bornage de leurs propriétés contiguës. Le bornage se fait à frais communs » Cette disposition donne déjà une grande marge de manœuvre à chaque propriétaire qui ignore la limite exacte de sa propriété, les actes notariés et administratifs ne précisant que très rarement les limites des biens vendus. Par ailleurs, le cadastre n'a pas vocation à fixer les limites de propriété. Quant à l'article L. 115-4 du code de l'urbanisme, il prescrit l'opération de bornage dans le cas de projets inclus en ZAC (zone d'aménagement concerté), lotissements ou issus de remembrement ayant nécessité une division de terrains. L'ensemble de ces éléments offre suffisamment de garanties pour permettre un bornage à tout moment, lorsqu'un propriétaire le souhaite, sans qu'il soit nécessaire de l'imposer systématiquement dans toutes les transactions de vente. En conséquence, le Gouvernement n'envisage pas d'étendre les obligations de bornage à d'autres cas que ceux limitativement énoncés.
