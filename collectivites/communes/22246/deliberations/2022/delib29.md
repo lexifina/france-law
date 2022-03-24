@@ -1,0 +1,10 @@
+# COMMUNE DE POMMERET : délibération DELIB29 — APPROBATION DU COMPTE ADMINISTRATIF 2021 DU LOTISSEMENT LE COURTIL SAINT-PERE
+
+- Collectivité : COMMUNE DE POMMERET
+- SIRET : 21220246900012
+- Code INSEE : 22246
+- Date : 2022-03-24
+- Matière : 7.1 Finances locales/Divers
+- Objet : APPROBATION DU COMPTE ADMINISTRATIF 2021 DU LOTISSEMENT LE COURTIL SAINT-PERE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212202469/Deliberation/2022/177974/c5a613f2ba94e36c012d84f4584d2c7b5639e329820a1b6a6eb8124471500620.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
