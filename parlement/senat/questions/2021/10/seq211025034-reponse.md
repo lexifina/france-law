@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211025034
+
+- Question : [SEQ211025034](seq211025034.md) — Situation des retraités
+
+## Réponse
+
+*Solidarités et santé, JO du 2022-03-24, page 1652*
+
+Dans un arrêt du 2 avril 2021, le conseil d'Etat a annulé les dispositions transitoires prévues par l'instruction n° DSS/DACI/2019/173 du 1er juillet 2019 permettant un aménagement de cette mesure pour les personnes ayant cotisé entre 5 et 10 ans à un régime français au motif qu'elles constituaient une règle nouvelle non prévue par l'article L. 160-3 du code de la sécurité sociale. Cette décision du Conseil d'Etat a eu pour effet d'entrainer la clôture des droits des pensionnés résidents à l'étranger et n'ayant pas cumulé 15 années de cotisations en France. Le juge a par ailleurs considéré qu'en subordonnant la prise en charge des soins de santé reçus, à l'occasion de leurs séjours temporaires en France, par des pensionnés n'étant pas établis en France de façon stable et régulière, à la condition que cette pension résulte d'une durée minimale de cotisation à un régime français, le législateur a entendu concilier l'exigence constitutionnelle de bon emploi des deniers publics et le droit à la protection de santé. Dans son ensemble, cette disposition permet aujourd'hui ainsi d'assurer la prise en charge des soins de plus de 780 000 pensionnés d'un régime français résidant à l'étranger lors de leurs séjours temporaires en France. Afin d'assurer la continuité des droits pour les personnes ayant eu des droits ouverts avant la modification de l'article L. 160-3 du code de la sécurité sociale et ayant cotisé un nombre d'années à l'assurance maladie suffisant au regard de l'exigence de contributivité inhérente au système de sécurité sociale français, une mesure en loi de financement de la sécurité sociale pour 2022 a été prise pour maintenir l'ouverture des droits des pensionnés ayant cotisé 10 ans au 1er juillet 2019.
