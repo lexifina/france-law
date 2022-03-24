@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220599
+
+- Question : [SEQ210220599](seq210220599.md) — Avenir du dispositif de prêt garanti par l'État et encadrement du taux de l'indemnité de remboursement anticipé
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-03-24, page 1549*
+
+Le PGE a rencontré un grand succès en permettant de déployer depuis mars 2020 plus de 135 milliards d'euros de liquidités au bénéfice de plus de 650 000 entreprises, en très grande partie des TPE et des PME, partout sur le territoire. Afin de répondre à la situation des entreprises dont l'activité n'aurait pas encore repris de façon suffisamment robuste au bout d'un an, les banques se sont engagées à accorder un différé supplémentaire de remboursement d'un an pour toutes les entreprises qui le demanderait, portant ainsi le différé total maximal à deux ans. Par ailleurs, il a été confirmé que le PGE permettait d'ores et déjà de refinancer des dettes d'exploitation existantes à mesure que celles-ci arrivent à échéance et peuvent par-là participer en pratique à la consolidation des autres dettes d'exploitation existantes. S'agissant de l'allongement sur une durée plus longue, le cadre communautaire en matière d'aides d'Etat applicable au PGE n'autorise pas de prolongement de la durée de remboursement au-delà de 6 ans dans les conditions identiquement favorables à celles du PGE en termes de taux pour l'entreprise et de quotité garantie pour la banque. S'agissant des « indemnités de remboursement anticipé », celles-ci ne font pas l'objet d'un encadrement particulier propre au PGE. Cela dit, les entreprises qui sont encore dans l'incertitude pourraient avoir intérêt à opter pour la durée d'amortissement la plus longue, la question de ces indemnités étant secondaire dans la mesure où cette dette restera parmi les moins chères à leur disposition, et leur apportera de la sécurité économique pour un coût modique.
