@@ -6,6 +6,8 @@ Pour le seuil de l'autorisation :
 
 2345
 
+2510-4
+
 2540
 
 2670
@@ -30,13 +32,11 @@ Pour le seuil de l'autorisation :
 
 3240
 
-3250-a
-
-3250-b
+3250
 
 3260
 
-3310-a
+3310-1
 
 3330 Lorsque l'installation consomme du fioul domestique et des fiouls lourds. A l'exclusion des installations qui consomment exclusivement des combustibles gazeux (gaz naturel, gaz de biomasse) et de l'électricité.
 
@@ -99,6 +99,8 @@ Pour le seuil de l'autorisation :
 3670 A l'exclusion des installations d'offset et à l'exclusion des installations qui sont également classées 2940-2 et 2940-3.
 
 3680
+
+3700
 
 1716
 

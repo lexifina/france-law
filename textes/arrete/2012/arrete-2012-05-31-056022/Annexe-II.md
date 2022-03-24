@@ -10,8 +10,6 @@ Pour le seuil de l'autorisation :
 
 2350
 
-2415
-
 2440
 
 2450 A l'exclusion des installations de l'offset.
