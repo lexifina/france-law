@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210421882
+
+- Question : [SEQ210421882](seq210421882.md) — Vaccination des enseignants
+
+## Réponse
+
+*Éducation nationale, jeunesse et sports, JO du 2022-03-24, page 1599*
+
+La vaccination est un axe essentiel de la lutte contre l'épidémie de Covid-19. Gratuite et non obligatoire, elle a commencé en France par les personnes les plus fragiles conformément à la stratégie recommandée par la Haute autorité de santé (HAS) et s'est progressivement élargie par abaissement graduel de l'âge de la vaccination. Elle a également été ouverte successivement à l'ensemble des professionnels de santé et du secteur médico-social, aux aides à domicile intervenant auprès de personnes vulnérables et aux pompiers. Puis, après que le Président de la République a demandé d'aménager la stratégie vaccinale pour accélérer la vaccination des personnels enseignants, et plus généralement celle des personnels de l'éducation nationale et des collectivités locales en contact avec les élèves, ces personnels ont pu bénéficier d'un accès prioritaire à la vaccination à partir de la mi-avril 2021 : - à partir du 17 avril, les personnels de 55 ans et plus exerçant au contact des élèves en école, collège et lycée (enseignants, AESH, ATSEM) ont pu bénéficier de créneaux dédiés de vaccination dans certains centres de vaccination ; - à partir du 6 mai, ces facilités ont été élargies aux personnels de 50 ans et plus en contact avec les élèves ; - le 24 mai, la vaccination a été ouverte à tous les personnels des écoles, collèges et lycées sans condition d'âge avec une semaine d'avance sur la population générale. Le ministère a accompagné chacune de ces étapes en communiquant auprès de ses personnels via ses différents canaux de communication interne ainsi que via la mutuelle générale de l'éducation nationale (MGEN).
