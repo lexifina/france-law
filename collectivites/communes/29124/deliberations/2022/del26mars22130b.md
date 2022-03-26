@@ -1,0 +1,9 @@
+# COMMUNE DE LESNEVEN : délibération DEL26MARS22130B — PARTICIPATION FINANCIERE AVEC BMH TRAVAUX VRD A POULBRIANT
+
+- Collectivité : COMMUNE DE LESNEVEN
+- SIRET : 21290124300015
+- Code INSEE : 29124
+- Date : 2022-03-26
+- Matière : 7.1 Finances locales/Divers
+- Objet : PARTICIPATION FINANCIERE AVEC BMH TRAVAUX VRD A POULBRIANT
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
