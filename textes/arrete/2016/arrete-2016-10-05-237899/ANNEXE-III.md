@@ -1,8 +1,8 @@
 # Article ANNEXE III
 
-INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2021
+INSTALLATIONS ET ÉQUIPEMENTS DE PRÉVENTION ET DE SURVEILLANCE DES RISQUES MINIERS, RELEVANT DES ARTICLES L. 174-1 ET L. 174-2 DU CODE MINIER GÉRÉS PAR LE DPSM (BRGM) AU 1ER JANVIER 2022
 
-Bassin minier Centre Ouest |
+Bassin minier Centre-Ouest |
 
 Concession |
 
@@ -13,6 +13,16 @@ Site |
 Nature de l'installation |
 
 Nom de l'installation |
+
+Ancienne Mine du Champ des Poix |
+
+Pont-du-Château (63) |
+
+3 chemin du champ des Poix |
+
+Cavités |
+
+Forage Champ des Poix |
 
 Barbery |
 
@@ -224,7 +234,7 @@ Cavités |
 
 Forage Mazuraie 2 |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -234,7 +244,7 @@ Cavités |
 
 S 152 |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -244,17 +254,7 @@ Cavités |
 
 S 173 |
 
-AHUN |
-
-Lavaveix Les Mines |
-
-(vide) |
-
-Cavités |
-
-32b |
-
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -264,7 +264,7 @@ Cavités |
 
 175b |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -274,7 +274,7 @@ Cavités |
 
 2020-01 |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -284,7 +284,7 @@ Cavités |
 
 2020-01a |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -294,7 +294,7 @@ Cavités |
 
 2020-03 |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -304,7 +304,7 @@ Cavités |
 
 2020-06 |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
@@ -314,15 +314,35 @@ Cavités |
 
 2020-07a |
 
-AHUN |
+Ahun |
 
 Lavaveix Les Mines |
 
-(vide) |
+Quartier du Centre |
 
 Cavités |
 
-2020-08 |
+2020-01b |
+
+Ahun |
+
+Lavaveix Les Mines |
+
+Quartier du Centre |
+
+Fissuromètre |
+
+Bâtiment 241 |
+
+Ahun |
+
+Lavaveix Les Mines |
+
+Quartier du Centre |
+
+Fissuromètre |
+
+Bâtiment 252 |
 
 Barbecot |
 
@@ -344,125 +364,15 @@ Piézomètres |
 
 BBT2 |
 
-Gargenville |
+Ahun |
 
-Gargenville |
+Lavaveix Les Mines |
 
-Dépôt TOTAL |
+Quartier du Centre |
 
-Piézomètres |
+Réseaux de nivellement |
 
-VPD |
-
-Gargenville |
-
-Gargenville |
-
-Dépôt TOTAL |
-
-Piézomètres |
-
-FE4 |
-
-Gargenville |
-
-Gargenville |
-
-SUEZ Eau France |
-
-Piézomètres |
-
-A5 |
-
-Gargenville |
-
-Gargenville |
-
-SUEZ Eau France |
-
-Piézomètres |
-
-A8 |
-
-Gargenville |
-
-Issou |
-
-Dépôt TOTAL |
-
-Piézomètres |
-
-G3 |
-
-Gargenville |
-
-Issou |
-
-Dépôt TOTAL |
-
-Piézomètres |
-
-VPA |
-
-Gargenville |
-
-Issou |
-
-Dépôt TOTAL |
-
-Piézomètres |
-
-VPK |
-
-Gargenville |
-
-Issou |
-
-Dépôt TOTAL |
-
-Piézomètres |
-
-GI1 |
-
-Gargenville |
-
-Issou |
-
-Dépôt TOTAL |
-
-Piézomètres |
-
-CD6 |
-
-Gargenville |
-
-Mézières-sur-Seine |
-
-SUEZ Eau France |
-
-Piézomètres |
-
-A9 |
-
-Gargenville |
-
-Mézières-sur-Seine |
-
-SUEZ Eau France |
-
-Piézomètres |
-
-A10 |
-
-Gargenville |
-
-Porcheville |
-
-Domaine Public |
-
-Piézomètres |
-
-VPL |
+Bâtiment 241 |
 
 Barbery |
 
@@ -632,7 +542,7 @@ Barbecot |
 
 Dépôt de minerai ou de résidus |
 
-Mur de Barbecot |
+mur de Barbecot |
 
 Le Périmètre de l'Aumance |
 
@@ -1694,7 +1604,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS GARGAN 1-2 |
+PCS Gargan 1-2 |
 
 De Wendel H |
 
@@ -1704,7 +1614,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS SAINT CHARLES 1 |
+PCS Saint Charles 1 |
 
 De Wendel H |
 
@@ -1714,7 +1624,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS SAINT CHARLES 3 |
+PCS Saint Charles 3 |
 
 De Wendel H |
 
@@ -1724,7 +1634,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS VUILLEMIN 1-2 |
+PCS Vuillemin 1-2 |
 
 De Wendel H |
 
@@ -1734,7 +1644,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS WENDEL 1-2 |
+PCS Wendel 1-2 |
 
 De Wendel H |
 
@@ -1744,7 +1654,7 @@ Petite Rosselle |
 
 Exutoires de gaz de mine |
 
-PCS WENDEL 3 |
+PCS Wendel 3 |
 
 De Wendel H |
 
@@ -1864,7 +1774,7 @@ Schoeneck |
 
 Exutoires de gaz de mine |
 
-PCS SIMON 4 |
+PCS Simon 4 |
 
 De Wendel H |
 
@@ -1934,7 +1844,7 @@ Carling |
 
 Exutoires de gaz de mine |
 
-PCS PUITS MAX |
+PCS Puits Max |
 
 Sarre et Moselle |
 
@@ -1954,7 +1864,7 @@ Freyming Merlebach |
 
 Exutoires de gaz de mine |
 
-PCS REUMAUX |
+PCS Reumaux |
 
 Sarre et Moselle |
 
@@ -1964,7 +1874,7 @@ Freyming Merlebach |
 
 Exutoires de gaz de mine |
 
-PCS VOUTERS 2 |
+PCS Vouters 2 |
 
 Sarre et Moselle |
 
@@ -1994,7 +1904,7 @@ L'hopital |
 
 Exutoires de gaz de mine |
 
-PCS L'HOPITAL 1-2 |
+PCS L'Hopital 1-2 |
 
 Sarre et Moselle |
 
@@ -2004,7 +1914,7 @@ L'hopital |
 
 Exutoires de gaz de mine |
 
-Puits L'HOPITAL 1 et 2 |
+Puits L'Hopital 1 et 2 |
 
 Sarre et Moselle |
 
@@ -2014,7 +1924,7 @@ Saint Avold |
 
 Exutoires de gaz de mine |
 
-PCS SAINT AVOLD |
+PCS Saint Avold |
 
 Sarre et Moselle |
 
@@ -2024,7 +1934,7 @@ Saint Avold |
 
 Exutoires de gaz de mine |
 
-PCS SAINTE FONTAINE |
+PCS Sainte Fontaine |
 
 Sarre et Moselle |
 
@@ -2085,6 +1995,16 @@ Lochwiller |
 Réseaux de nivellement |
 
 Lochwiller |
+
+(vide) |
+
+Lochwiller |
+
+(vide) |
+
+Réseaux de nivellement |
+
+Nivellement Lochwiller |
 
 Amermont Dommary |
 
@@ -9250,6 +9170,16 @@ Nature de l'installation |
 
 Nom de l'installation |
 
+La cote Thiollière |
+
+St Etienne (42) |
+
+Rue Charras |
+
+réseau de nivellement |
+
+Puits Robert |
+
 Mondalazac et Solsac |
 
 Muret-Le-Château |
@@ -9264,7 +9194,7 @@ Mondalazac et Solsac |
 
 Muret-Le-Château |
 
-(vide) |
+Quartier des Espeyroux |
 
 Cavités |
 
@@ -9570,7 +9500,7 @@ Exutoires de gaz de mine |
 
 Puits Béthune |
 
-C4 |
+C3 |
 
 Gréasque |
 
@@ -9610,7 +9540,7 @@ Exutoires de gaz de mine |
 
 Forage Champisse |
 
-C9 |
+C8 |
 
 Peypin |
 
@@ -9806,7 +9736,7 @@ Le Thoronet |
 
 Le Thoronet |
 
-Réseaux de nivellement |
+réseau de nivellement |
 
 Nivellement Peygros-Blanquette |
 
@@ -9816,7 +9746,7 @@ Aix en Provence-Allauch-Belcodène-Bouc Bel Air-Cadolive-Fuveau-Gardanne-Gréasq
 
 (vide) |
 
-Réseaux de nivellement |
+réseau de nivellement |
 
 Provence |
 

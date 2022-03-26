@@ -1,8 +1,8 @@
 # Article ANNEXE II
 
-INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2021
+INSTALLATIONS HYDRAULIQUES DE SÉCURITÉ RELEVANT DE L'ARTICLE L. 163-11 DU CODE MINIER GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2022
 
-Bassin minier Centre Ouest |
+Bassin minier Centre-Ouest |
 
 Concession |
 
@@ -22,7 +22,7 @@ Bromont Lamothe |
 
 Canalisations |
 
-puits Ste Barbe |
+Puits Ste Barbe |
 
 La Vernade |
 
@@ -164,6 +164,16 @@ Stations de traitement des eaux |
 
 Les Mouillères |
 
+Bodennec |
+
+Botsrohel |
+
+Yeun Dong |
+
+Stations de traitement des eaux |
+
+IHS de Bodennec |
+
 La Vernade |
 
 Saint Eloy les Mines |
@@ -284,7 +294,27 @@ Creutzwald |
 
 Stations de relevage des eaux |
 
+CREU _ Puits _ 3BFontaine |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Stations de relevage des eaux |
+
 CREU _ PUITS _ R _ Gare |
+
+Sarre et Moselle |
+
+Rosbruck |
+
+(vide) |
+
+Stations de relevage des eaux |
+
+ROS _ Puits _ 30Paix |
 
 Sarre et Moselle |
 
@@ -298,13 +328,23 @@ CREU _ PUITS _ R _ Eglise |
 
 Sarre et Moselle |
 
+Lochwiller |
+
+(vide) |
+
+Forages de rabattement |
+
+FRAB-1 |
+
+Sarre et Moselle |
+
 Varsberg |
 
 (vide) |
 
 Forages de rabattement |
 
-Varsberg |
+Forage Varsberg |
 
 De Wendel H |
 
@@ -794,16 +834,6 @@ Creutzwald |
 
 Piézomètres |
 
-CREU-All 3 |
-
-Sarre et Moselle |
-
-Creutzwald |
-
-(vide) |
-
-Piézomètres |
-
 CREU-GTi 3 |
 
 Sarre et Moselle |
@@ -1028,6 +1058,26 @@ PZ SDEC O5 |
 
 Sarre et Moselle |
 
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ ALL3BIS |
+
+Sarre et Moselle |
+
+Creutzwald |
+
+(vide) |
+
+Piézomètres |
+
+CREU _ GTi12 |
+
+Sarre et Moselle |
+
 Freyming Merlebach |
 
 (vide) |
@@ -1158,6 +1208,36 @@ Puits 2 |
 
 Sarre et Moselle |
 
+Lochwiller |
+
+(vide) |
+
+Piézomètres |
+
+PKA |
+
+Sarre et Moselle |
+
+Lochwiller |
+
+(vide) |
+
+Piézomètres |
+
+PMS |
+
+Sarre et Moselle |
+
+Lochwiller |
+
+(vide) |
+
+Piézomètres |
+
+PL |
+
+Sarre et Moselle |
+
 Saint Avold |
 
 (vide) |
@@ -1184,7 +1264,7 @@ Varsberg |
 
 Piézomètres |
 
-PZ Varsberg |
+VARS _ GTi1 |
 
 Sarre et Moselle |
 
@@ -1194,7 +1274,77 @@ Varsberg |
 
 Piézomètres |
 
-Varsberg Puits |
+HAM _ All2 |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ All _ 1 |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ All _ 2 |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 2 |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 3 _ INF |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 3 _ SUP |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 4 |
+
+Sarre et Moselle |
+
+Varsberg |
+
+(vide) |
+
+Piézomètres |
+
+VARS _ GTi _ 5 |
 
 De Wendel H |
 
@@ -2042,7 +2192,7 @@ TB Frangouille |
 
 Cessous Trebiau |
 
-La Vernarède |
+Le Chambon |
 
 (vide) |
 
@@ -2979,13 +3129,3 @@ San Culgat |
 Buse de pied de verse |
 
 BUSE PIED |
-
-Escaro |
-
-Souanyas |
-
-San Culgat |
-
-Dispositif avancée pied de verse |
-
-AVANCEE PIED |

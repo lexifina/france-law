@@ -1,8 +1,8 @@
 # Article ANNEXE I
 
-INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1er JANVIER 2021
+INSTALLATIONS RELEVANT DU CODE DE L'ENVIRONNEMENT GÉRÉES PAR LE DPSM (BRGM) AU 1ER JANVIER 2022
 
-Bassin minier Centre Ouest |
+Bassin minier Centre-Ouest |
 
 Concession |
 
@@ -794,7 +794,7 @@ Triangle de Marienau |
 
 Piézomètres |
 
-T GTI 1 |
+MAR _ GTi3 |
 
 Amodiation du Warndt-Allemagne |
 
@@ -804,7 +804,7 @@ Triangle de Marienau |
 
 Piézomètres |
 
-T GTI 2 |
+MAR _ GTi4 |
 
 Amodiation du Warndt-Allemagne |
 
@@ -844,7 +844,7 @@ Triangle de Marienau |
 
 Piézomètres |
 
-T GTI 3 |
+MAR _ GTi5 |
 
 De Wendel H |
 
@@ -1065,6 +1065,46 @@ Carrière de Merlebach |
 Prélèvements d'eaux de surface |
 
 Bassin de décantation |
+
+Sarre et Moselle |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Amont Dachsgraben |
+
+Sarre et Moselle |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Aval Dachsgraben |
+
+Sarre et Moselle |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Amont Mossel |
+
+Sarre et Moselle |
+
+Lochwiller |
+
+Lochwiller |
+
+Prélèvements d'eaux de surface |
+
+Aval Mossel |
 
 Sarre et Moselle |
 
@@ -2608,7 +2648,7 @@ Piézomètres |
 
 Hors concession |
 
-Roggrnhouse |
+Roggenhouse |
 
 Saumoduc |
 
@@ -2618,7 +2658,7 @@ Piézomètres |
 
 Hors concession |
 
-Rumersheim-le-Haut |
+Rumersheim-Le-Haut |
 
 Saumoduc |
 
@@ -2628,7 +2668,7 @@ Piézomètres |
 
 Hors concession |
 
-Rumersheim-le-Haut |
+Rumersheim-Le-Haut |
 
 Saumoduc |
 
@@ -2638,7 +2678,7 @@ Piézomètres |
 
 Hors concession |
 
-Rumersheim-le-Haut |
+Rumersheim-Le-Haut |
 
 Saumoduc |
 
@@ -3848,6 +3888,76 @@ Piézomètres |
 
 PZC6 |
 
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+PZC1 |
+
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+PZC2 |
+
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+PZC3 |
+
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+PZC4 |
+
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+PZC7 |
+
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+PZC8 |
+
+Aniche |
+
+Waziers |
+
+Cokerie de Waziers |
+
+Piézomètres |
+
+Forage Air Liquide |
+
 Anzin |
 
 Escaudain |
@@ -4346,16 +4456,6 @@ Terril 205 Cokerie de Drocourt |
 
 Piézomètres |
 
-PZC2 bis |
-
-Drocourt |
-
-Hénin Beaumont |
-
-Terril 205 Cokerie de Drocourt |
-
-Piézomètres |
-
 PZC3 |
 
 Drocourt |
@@ -4387,6 +4487,16 @@ Terril 205 Cokerie de Drocourt |
 Piézomètres |
 
 PZCVI |
+
+Drocourt |
+
+Hénin Beaumont |
+
+Terril 205 Cokerie de Drocourt |
+
+Piézomètres |
+
+PZC2 ter |
 
 Drocourt |
 
@@ -4537,16 +4647,6 @@ Cokerie de Mazingarbe |
 Piézomètres |
 
 PZC293 |
-
-Hors concession |
-
-Chocques |
-
-Cokerie de Chocques |
-
-Piézomètres |
-
-Forage Air Liquide |
 
 Hors concession |
 
@@ -5176,7 +5276,7 @@ Terril 113 |
 
 Prélèvements d'eaux de surface |
 
-Fossé Ouest |
+Fossé ouest |
 
 Dourges |
 
@@ -5256,7 +5356,7 @@ Cokerie de Chocques |
 
 Prélèvements d'eaux de surface |
 
-Calonette amont |
+Calonnette amont |
 
 L'Escarpelle |
 
@@ -5277,16 +5377,6 @@ Cokerie d'Auby |
 Prélèvements d'eaux de surface |
 
 Vieille rivière amont |
-
-Douchy |
-
-Lourches |
-
-Cokerie de Lourches |
-
-Confinement |
-
-Confinement Lourches zone 1 |
 
 Douchy |
 
@@ -5472,7 +5562,7 @@ Cellule de pression SC 03 |
 
 Hors concession |
 
-Lastours |
+Lastour |
 
 Montredon |
 
@@ -6268,7 +6358,7 @@ Site des anciennes centrales thermiques |
 
 Zones au sol pollué |
 
-Pz Amont |
+Pz amont |
 
 Marais de la Mure |
 
@@ -6278,7 +6368,7 @@ Site des anciennes centrales thermiques |
 
 Zones au sol pollué |
 
-Pz Aval Etang |
+Pz aval Etang |
 
 Marais de la Mure |
 
