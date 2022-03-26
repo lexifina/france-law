@@ -218,7 +218,7 @@ LES SABLES-D'OLONNE |
 
 85180 |
 
-Du lundi au vendredi de 9h à 18h et le dimanche de 9H à 15H |
+Du lundi au vendredi de 4 heures à 18 heures et le dimanche de 9 heures à 15 heures |
 
 Quais du port des Sables-d'Olonne |
 
