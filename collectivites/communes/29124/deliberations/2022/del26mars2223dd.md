@@ -1,0 +1,10 @@
+# COMMUNE DE LESNEVEN : délibération DEL26MARS2223DD — AVENANT N° 1 - CONVENTION OPERATIONNELLE AVEC ETABLISSEMENT FONCIER DE BRETAGNE - ACQUISITION GALERIE DUCHESSE ANNE
+
+- Collectivité : COMMUNE DE LESNEVEN
+- SIRET : 21290124300015
+- Code INSEE : 29124
+- Date : 2022-03-26
+- Matière : 9.1 Autres domaines de competences/Autres domaines de competences des communes
+- Objet : AVENANT N° 1 - CONVENTION OPERATIONNELLE AVEC ETABLISSEMENT FONCIER DE BRETAGNE - ACQUISITION GALERIE DUCHESSE ANNE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901243/Deliberation/2022/181392/37252ec81252e1cac853381c081e194ea6c549bfd3259f30f4ed0c84a4d5072f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
