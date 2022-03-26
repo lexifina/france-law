@@ -28,6 +28,12 @@ La présentation des attestations citées aux 1 et 2 du 3° de l'article 4 de l'
 
 |
 
+3. Brevet d'aptitude à la conduite des petits navires délivré conformément au présent arrêté
+
+|
+
+Satisfaire aux conditions fixées au 1°, 2°, 4° et 5° de l'article 8. |
+
 Tableau 2 - Diplômes, attestations ou titres reconnus pour la délivrance du brevet d'aptitude à la conduite de petits navires et les conditions à satisfaire à cet effet.
 
 DIPLÔMES, ATTESTATIONS OU TITRES RECONNUS POUR LA DÉLIVRANCE DU BREVET D'APTITUDE À LA CONDUITE DE PETITS NAVIRES
