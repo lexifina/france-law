@@ -1,0 +1,21 @@
+# Article Annexe 2
+
+RÉPARTITION DES SOUS-QUOTAS POUR LA CAMPAGNE DE PÊCHE DE LOISIR DU THON ROUGE EN 2022
+
+Le quota français de thon rouge alloué à la pêche de loisir pour l'année 2022 s'élève à 60 tonnes.
+
+Il est réparti comme suit :
+
+- Collectif des opérateurs et marins professionnels azuréens (COMPA) : 3,429 tonnes ;
+
+- Fédération nationale de la plaisance et des pêches en mer (FNPP) : 29,345 tonnes ;
+
+- Fédération française des pêcheurs en mer (FFPM) : 19,076 tonnes ;
+
+- Fédération française des pêches sportives (FFPS) : 4,599 tonnes ;
+
+- Fédération française d'études et de sports sous-marins (FFESSM) : 1,470 tonnes ;
+
+- Fédération nautique de pêche sportive en apnée (FNPSA) : 0,367 tonnes ;
+
+- Hors fédérations : 1,714 tonnes.
