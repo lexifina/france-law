@@ -1,957 +1,691 @@
 # Article Annexe
 
-FORMAT CSV
+FORMAT DES DÉCLARATIONS
 
-Généralités
+Pour faciliter la lecture de la présente annexe, il est précisé que le terme " influenceur " utilisé dans celle-ci renvoie aux bénéficiaires suivant mentionnés au I de l'article L. 1453-1 du code de la santé publique : " 7° bis Les personnes qui, dans les médias ou sur les réseaux sociaux, présentent un ou plusieurs produits de santé, de manière à influencer le public ; ".
 
-RÈGLES DE GESTION LIÉES AU FICHIER CSV |
+1. Généralités
 
-Format : UTF-8 |
+REGLES LIEES A CHAQUE DECLARATION |
 
-Séparateur : Pipe (c'est-à-dire |) |
+Toute déclaration est enregistrée au moyen d'un couple unique composé de :
 
-En-tête de colonne sur la première ligne : oui (obligatoire) |
+-l'identifiant interne à la base identifiant l'entreprise,
 
-Nom du fichier : identifiant # AAAAMMJJ # HHmmss # declaration. csv |
+-et de l'identifiant unique attribué par l'entreprise à chaque ligne déclarée. |
 
-Avec identifiant = = identifiant de connexion du compte déclarant obtenu lors de l'inscription au site unique |
+L'identifiant interne de l'entreprise :
 
-Exemple : 12345678 # 20130905 # 205612 # declaration. csv |
+-est automatiquement enregistré par le système lorsque l'utilisateur se rend sur l'écran Déclarer correspondant à l'entreprise pour saisir en ligne dans le tableau ;
 
-RÈGLES DE GESTION LIÉES AU FORMAT |
+-doit être renseigné par l'utilisateur entreprise lorsque la déclaration s'effectue par envoi automatique par l'intermédiaire du webservice. |
 
-Un champ obligatoire non rempli génère une erreur (donc la ligne de déclaration n'est pas importée) |
+REGLES LIEES AUX FORMAT |
 
-Un champ de type LISTE dont la valeur n'appartient pas à la liste des valeurs possibles génère une erreur |
+Un champ obligatoire non rempli génère une erreur (donc la ligne n'est pas transmise et enregistrée en base) |
 
-Un champ dont la valeur ne correspond à à son format génère une erreur |
+Un champ de type Liste dont la valeur n'appartient pas à la liste des valeurs possibles génère une erreur |
 
-AUTRES RÈGLES DE GESTION |
+Un champ dont la valeur ne correspond pas à son format génère une erreur |
 
-Une valeur non renseignée correspond à aucun caractère (et non un caractère espace par exemple) |
+Une valeur non-renseignée correspond à aucun caractère (et non pas à un caractère espace par exemple) |
 
-Exemple en 3e position : [A] | 21/09/2013 | | Manifestation |
+2. Déclaration
 
-Aucune valeur ne peut contenir le caractère pipe (|) |
+Par saisie en ligne ou envoi par webservice :
 
-Déclaration
+NOM
 
-NOM DU CHAMP |
+DU CHAMP |
 
-OBLIGATOIRE |
+OBLIGATOIRE/
 
-UNICITÉ |
+FACULTATIF |
 
-DESCRIPTIF
-
-du champ |
+DESCRIPTION |
 
 FORMAT |
 
-LISTE DE VALEURS/
+LISTE DE VALEURS
 
-commentaire |
+Codes à utiliser pour le Webservice
 
-ENTREPRISE _ IDENTIFIANT |
+=
 
-Oui |
+Libellés à utiliser pour la saisie en ligne |
 
-Le couple
+Action |
 
-(ENTREPRISE _ IDENTIFIANT,
+Obligatoire |
 
-LIGNE _ IDENTIFIANT) est unique |
+. Action de déclaration à indiquer.
 
-Identifiant unique de l'entreprise ayant signé cette convention ou versé cet avantage |
+. Une seule valeur attendue. |
 
-IDENTIFIANT |
+Liste |
 
-Cette valeur permet d'attacher cette ligne de déclaration à l'entreprise (mandant) concernée si une entreprise (mandataire) transmet cette ligne de déclaration. Cette colonne permet de gérer le cas d'une entreprise qui déclare pour d'autres entreprises lui ayant donné mandat. Sinon l'entreprise déclarante indique son propre identifiant récupéré lors de son inscription sur le site unique. |
+-C = Création
 
-LIGNE _ IDENTIFIANT |
+-M = Modification
 
-Oui |
+-S = Suppression |
 
-Identifiant unique de la ligne de déclaration (convention ou avantage) dans le système de l'entreprise déclarante |
+Déclaration |
 
-IDENTIFIANT |
+Obligatoire |
 
-Cette valeur joue le rôle de clé pour identifier de manière unique cette ligne de déclaration (avantage, rémunération ou convention). Elle est fournie en entrée par l'entreprise pour pouvoir par exemple procéder à une correction ultérieure. |
+. Type de déclaration à indiquer.
 
-LIGNE _ ACTION |
+. Une seule valeur attendue. |
 
-Oui |
+Liste |
 
-Non |
+-convention = Convention
 
-Code action |
+-remuneration = Rémunération
 
-LISTE |
+-avantage = Avantage |
 
--[C] pour Création
+Identifiant unique |
 
--[M] pour Modification
+Obligatoire |
 
--[S] pour Suppression
+. Identifiant unique de déclaration dans le système de l'entreprise déclarante à indiquer.
 
--[V] pour Validation (cas d'un retour suite à alerte) Important : lorsque le champ LIGNE _ ACTION est égal à [V], aucun contrôle de type ALERTE n'est réalisé puisque l'entreprise valide les données de cette ligne de déclaration. Par contre les contrôle de type ERREUR sont toujours exécutés. |
+. Cette valeur joue le rôle de clé pour identifier de manière unique la déclaration. Elle est fournie en entrée par l'entreprise pour pouvoir par exemple procéder à une correction ultérieure.
 
-LIGNE _ DEMANDE _ RECTIFICATION |
+. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum. |
 
-Oui |
-
-Non |
-
-Ligne corrige une demande de rectification d'un bénéficiaire. |
-
-LISTE |
-
--[O] Oui
-
--[N] Non
-
-Si [O], suppression du marqueur de demande de rectification du bénéficiaire sur le site grand public |
-
-BENEF _ CATEGORIE |
-
-Oui |
-
-Non |
-
-Catégorie
-
-du bénéficiaire |
-
-LISTE |
-
--[PRS] Les professionnels de santé relevant de la quatrième partie du présent code
-
--[APS] Les associations de professionnels de santé
-
--[ETU] Les étudiants se destinant aux professions relevant de la quatrième partie du présent code ainsi que les associations et groupements les représentant
-
--[AUS] Les associations d'usagers du système de santé
-
--[ETA] Les établissements de santé relevant de la sixième partie du présent code
-
--[FON] Les académies, fondations, les sociétés savantes et les sociétés ou organismes de conseil intervenant dans le secteur des produits ou prestations mentionnés au premier alinéa
-
--[PRE] Les entreprises éditrices de presse, les éditeurs de services de radio ou de télévision et les éditeurs de services de communication au public en ligne
-
--[LOG] Les éditeurs de logiciels d'aide à la prescription et à la délivrance
-
--[PMO] Les personnes morales assurant la formation initiale ou continue des professionnels de santé mentionnés au 1° ou participant à cette formation
-
--[ADU] Les associations d
-
-'étudiants
-
--[VET] Les vétérinaires
-
--[SAN] Les groupements de défense sanitaire
-
--[AGR] Les groupements reconnus de producteurs, les groupements professionnels agricoles |
-
-BENEF _ NOM |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [ETU] ou [VET]
-
--Non sinon |
-
-Non |
-
-Nom du bénéficiaire |
-
-TEXTE |
+Texte |
 
 |
 
-BENEF _ PRENOM |
+Identifiant de la convention liée |
 
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [ETU] ou [VET]
+Obligatoire pour une rémunération |
 
--Non sinon |
+. Identifiant unique de la convention à laquelle est liée obligatoirement une rémunération.
 
-Non |
+. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum. |
 
-Prénom
-
-du bénéficiaire |
-
-TEXTE |
+Texte |
 
 |
 
-BENEF _ QUALITE |
+Facultatif pour un avantage |
 
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS]
+. Identifiant unique de la convention à laquelle peut être lié un avantage.
 
--Non sinon |
-
-Non |
-
-Qualité/ profession
-
-du bénéficiaire |
-
-LISTE |
-
--[10] Médecin
-
--[40] Chirurgien-dentiste
-
--[50] Sage-femme
-
--[21] Pharmacien
-
--[01] Préparateur en pharmacie et préparateur en pharmacie hospitalière
-
--[60] Infirmier
-
--[70] Masseur-kinésithérapeute
-
--[80] Pédicure-podologue
-
--[94] Ergothérapeute
-
--[96] Psychomotricien
-
--[91] Orthophoniste
-
--[92] Orthoptiste
-
--[98] Manipulateur d'électroradiologie médicale
-
--[86] Technicien de laboratoire médical
-
--[05] Audioprothésiste
-
--[28] Opticien-lunetier
-
--[82] Prothésiste et orthésiste pour l'appareillage des personnes handicapées
-
--[95] Diététicien
-
--[02] Aide soignant
-
--[03] Auxiliaire de puériculture
-
--[04] Ambulancier
-
--[ADE] Assistant dentaire |
-
-BENEF _ ADRESSE1 |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN] ou [VET]
-
--Non sinon |
-
-Non |
-
-Adresse
-
-du bénéficiaire |
-
-TEXTE |
-
--Adresse professionnelle si la valeur du champ BENEF _ CATEGORIE est égale à [PRS] ou [VET]
-
--Adresse siège social ou équivalent si la valeur du champ BENEF _ CATEGORIE est égale à
-
-[APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] |
-
-BENEF _ ADRESSE2 |
-
-Non |
-
-Non |
-
-Complément 1
-
-de l'adresse
-
-du bénéficiaire |
-
-TEXTE |
-
-BENEF _ ADRESSE3 |
-
-Non |
-
-Non |
-
-Complément 2
-
-de l'adresse
-
-du bénéficiaire |
-
-TEXTE |
-
-BENEF _ ADRESSE4 |
-
-Non |
-
-Non |
-
-Complément 3
-
-de l'adresse
-
-du bénéficiaire |
-
-TEXTE |
-
-BENEF _ CODEPOSTAL |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN] ou [VET]
-
--Non sinon |
-
-Non |
-
-Code postal
-
-du bénéficiaire |
-
-CODEPOSTAL |
-
-BENEF _ VILLE |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [AGR] ou [SAN] ou [VET]
-
--Non sinon |
-
-Non |
-
-Ville du bénéficiaire |
-
-TEXTE |
-
-BENEF _ PAYS |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [PRS] ou [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN] ou [VET]
-
--Non sinon |
-
-Non |
-
-Pays du bénéficiaire |
-
-LISTE |
-
--Norme ISO 3166-1 alpha-2 (entre crochet) Exemple : [FR] pour France |
-
-BENEF _ TITRE |
-
-Non |
-
-Non |
-
-Titre du bénéficiaire |
-
-LISTE |
-
--[PR] Professeur
-
--[MG] Médecin Général
-
--[PG] Pharmacien Général
-
--[PC] Pharmacien Chef
-
--[MC] Médecin chef
-
--[DR] Docteur
-
--[AUTRE] Autre |
-
-BENEF _ SPECIALITE |
-
-Non |
-
-Non |
-
-Spécialité (ou discipline) du bénéficiaire |
-
-LISTE |
-
--[SCD01] Orthopédie dento-faciale
-
--[SCD02] Chirurgie Orale
-
--[SCD03] Médecine Bucco-Dentaire
-
--[SM01] Anatomie et cytologie pathologiques
-
--[SM02] Anesthesie-réanimation
-
--[SM03] Biologie médicale
-
--[SM04] Cardiologie et maladies vasculaires
-
--[SM05] Chirurgie générale
-
--[SM06] Chirurgie maxillo-faciale
-
--[SM07] Chirurgie maxillo-faciale et stomatologie
-
--[SM08] Chirurgie orthopédique et traumatologie
-
--[SM09] Chirurgie infantile
-
--[SM10] Chirurgie plastique reconstructrice et esthétique
-
--[SM11] Chirurgie thoracique et cardio-vasculaire
-
--[SM12] Chirurgie urologique
-
--[SM13] Chirurgie vasculaire
-
--[SM14] Chirurgie viscérale et digestive
-
--[SM15] Dermatologie et vénéréologie
-
--[SM16] Endocrinologie et métabolisme
-
--[SM17] Génétique médicale
-
--[SM18] Gériatrie
-
--[SM19] Gynécologie médicale
-
--[SM20] Gynécologie-obstétrique
-
--[SM21] Hématologie
-
--[SM22] Hématologie (option Maladie du sang)
-
--[SM23] Hématologie (option Onco-hématologie)
-
--[SM24] Gastro-entérologie et hépatologie
-
--[SM25] Médecine du travail
-
--[SM26] Qualifié en Médecine Générale
-
--[SM27] Médecine interne
-
--[SM28] Médecine nucléaire
-
--[SM29] Médecine physique et réadaptation
-
--[SM30] Néphrologie
-
--[SM31] Neuro-chirurgie
-
--[SM32] Neurologie
-
--[SM33] Neuro-psychiatrie
-
--[SM34] ORL et chirurgie cervico faciale
-
--[SM35] Oncologie (option onco-hématologie)
-
--[SM36] Oncologie option médicale
-
--[SM37] Oncologie option radiothérapie
-
--[SM38] Ophtalmologie
-
--[SM39] Oto-rhino-laryngologie
-
--[SM40] Pédiatrie
-
--[SM41] Pneumologie-
-
-[SM42] Psychiatrie
-
--[SM43] Psychiatrie option enfant & adolescent-[SM44] Radio-diagnostic
-
--[SM45] Radio-thérapie
-
--[SM46] Réanimation médicale
-
--[SM47] Recherche médicale
-
--[SM48] Rhumatologie
-
--[SM49] Santé publique et médecine sociale
-
--[SM50] Stomatologie
-
--[SM51] Gynéco-obstétrique et gynécologie médicale option 1
-
--[SM52] Gynéco-obstétrique et gynécologie médicale option 2
-
--[SM53] Spécialiste en Médecine Générale
-
--[SM54] Médecine Générale
-
--[SM55] Radio-diagnostic et Radio-Thérapie
-
--[SM99] ORL et ophtalmologie
-
--[SP01] Radio-pharmacie
-
--[SP02] Hygiène
-
--[SP03] Pharmacovigilance
-
--[SP04] Hémovigilance
-
--[AUTRE] Autre |
-
-BENEF _ IDENTIFIANT _ TYPE |
-
-Oui |
-
-Non |
-
-Type d'identifiant utilisé pour identifier le bénéficiaire |
-
-LISTE |
-
--Si le champ BENEF _ CATEGORIE est égale à [PRS], les valeurs autorisées sont :'[RPPS] pour l'identifiant personnel du bénéficiaire dans le Répertoire Partagé des Professionnel de Santé, [ORDRE] pour le numéro d'inscription à l'ordre, [AUTRE] pour les autres cas
-
--Si le champ BENEF _ CATEGORIE est égale à [VET], les valeurs autorisées sont :'[ORDRE] pour le numéro d'inscription à l'ordre
-
--Si le champ BENEF _ CATEGORIE est égale à [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [SAN] ou [AGR], les valeurs autorisées sont :'[SIREN] pour le numéro SIREN, [FINESS] pour le numéro FINESS, [AUTRE] pour les autres cas
-
--Si le champ BENEF _ CATEGORIE est égale à [ETU], les valeurs autorisées sont : [RPPS], [AUTRE] |
-
-BENEF _ IDENTIFIANT _ VALEUR |
-
--Oui si BENEF _ IDENTIFIANT _ TYPE différent de [AUTRE]
-
--Non sinon |
-
-Non |
-
-Valeur
-
-de l'identifiant
-
-du bénéficiaire |
-
-TEXTE |
-
--Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [RPPS], identifiant personnel du bénéficiaire dans le Répertoire Partagé des Professionnel de Santé
-
--Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [ORDRE], numéro d'inscription à l'ordre
-
--Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [SIREN], le numéro siren
-
--Si le champ BENEF _ IDENTIFIANT _ TYPE égal à [FINESS], le numéro finess.
-
--Valeur libre si le champ BENEF _ IDENTIFIANT _ TYPE égal à [AUTRE] et la valeur est renseignée. Ne rien mettre si inconnu. |
-
-BENEF _ ETABLISSEMENT |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [ETU]
-
--Non sinon |
-
-Non |
-
-Nom
-
-de l'établissement d'enseignement |
-
-TEXTE |
+. Format : [0-9] [A-Z], caractères " tiret " et " underscore " autorisés, 128 caractères maximum. |
 
 |
 
-BENEF _ ETABLISSEMENT _ CODEPOSTAL |
+Objet convention/ nature avantage |
 
--Oui si le champ BENEF _ CATEGORIE a la valeur [ETU]
+Obligatoire pour les conventions et les avantages |
 
--Non sinon |
+. Objet de la convention/ nature de l'avantage
 
-Non |
+. Une seule valeur attendue. |
 
-Code postal
+Liste |
 
-de l'établissement
+Typologie pour les objets de convention :
 
-d'enseignement |
+-ADS = Achat de documentation scientifique
 
-CODEPOSTAL |
+-AUTRE = Autre
+
+-AECES = Contrat d'achat ou de location d'espaces dans le cadre de manifestations scientifiques
+
+-AEP = Contrat d'achat ou de location d'espaces publicitaires
+
+-CEAS = Contrat de conseil/ d'expertise autre que scientifique
+
+-CES = Contrat d'expert scientifique
+
+-EEE = Enquête, étude, étude de marché (hors recherche)
+
+-CDLE = Cession de droits/ licence d'exploitation
+
+-CEVS = Contrat d'évaluation scientifique
+
+-CI = Contrat d'interview
+
+-IC = Contrat de participation à une manifestation
+
+-CIM = Contrat d'intervenant à une manifestation
+
+-RB = Contrat de remise d'une bourse de recherche
+
+-RP = Contrat de remise de prix
+
+-RS = Contrat de recherche scientifique
+
+-DON = Mécénat
+
+-ED = Edition
+
+-EPC = Evaluation produit cosmétique
+
+-FOR = Formation
+
+-PARR = Parrainage
+
+-PART = Partenariat
+
+-VPC = Vigilance produit cosmétique
+
+Typologie pour les natures d'avantage :
+
+-AUTRE = Autre
+
+-BR = Bourse de recherche
+
+-BF = Bourse de formation
+
+-DEF = Défraiement
+
+-DF = Don ou prêt pour la formation
+
+-DM = Don de matériel
+
+-DE = Don d'échantillons
+
+-DO = Don d'ouvrages
+
+-DP = Don ou prêt pour la recherche
+
+-DFT = Don de fonctionnement
+
+-FI = Frais d'inscription à une manifestation
+
+-FRO = Frais de réunion/ d'organisation
+
+-FT = Frais de transport
+
+-HC = Hospitalité-collation
+
+-HH = Hospitalité-hébergement
+
+-HR = Hospitalité-restauration
+
+-IND = Indemnisation
+
+-PM = Prêt de matériel
+
+-PR = Prix de recherche |
+
+Autre |
+
+Obligatoire si la valeur " Autre " a été saisie dans le champ " Objet convention/ nature avantage " |
+
+. Si la valeur " Autre " a été saisie dans le champ " Objet convention/ nature avantage ", indiquer dans ce champ les compléments nécessaires pour préciser l'objet de la convention ou la nature de l'avantage.
+
+. Format : 255 caractères maximum. |
+
+Texte |
 
 |
 
-BENEF _ ETABLISSEMENT _ VILLE |
+Montant |
 
--Oui si le champ BENEF _ CATEGORIE a la valeur [ETU]
+Obligatoire pour les rémunérations et les avantages.
 
--Non sinon |
+Facultatif pour les conventions |
 
-Non |
+. Montant des conventions, des rémunérations et des avantages.
 
-Ville
+. Nombre entier.
 
-de l'établissement
+. Montant en euros.
 
-d'enseignement |
+. Montant supérieur ou égal à 10 € pour les rémunérations et les avantages. |
 
-TEXTE |
-
-|
-
-BENEF _ DENOMINATIONSOCIALE |
-
--Oui si le champ BENEF _ CATEGORIE a la valeur [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN]
-
--Non sinon |
-
-Non |
-
-Dénomination
-
-sociale
-
-du bénéficiaire |
-
-TEXTE |
+Montant |
 
 |
 
-BENEF _ OBJETSOCIAL |
+Date de signature/ versement |
 
--Oui si le champ BENEF _ CATEGORIE a la valeur [APS] ou [AUS] ou [ETA] ou [FON] ou [PRE] ou [LOG] ou [PMO] ou [ADU] ou [AGR] ou [SAN]
+Obligatoire |
 
--Non sinon |
+. Date de signature des conventions.
 
-Non |
+. Date de versement des rémunérations et des avantages.
 
-Objet social
+. Format : jj/ mm/ aaaa. |
 
-du bénéficiaire |
-
-TEXTE |
+Date |
 
 |
 
-LIGNE _ TYPE |
+Date de début |
 
-Oui |
+Obligatoire pour les conventions |
 
-Non |
+. Date de début de la convention.
 
-Avantage ou convention ou rémunération |
+. Format : jj/ mm/ aaaa. |
 
-LISTE |
-
--[A] pour Avantage
-
--[C] pour Convention
-
--[R] pour Rémunération |
-
-CONV _ DATE _ SIGNATURE |
-
--Oui si le champ LIGNE _ TYPE est égal à [C]
-
--Non sinon (dans ce cas les lignes sont ignorées) |
-
-Non |
-
-Date de signature de la convention |
-
-DATE |
-
-Format JJ/ MM/ AAAA |
-
-CONV _ OBJET |
+Date |
 
 |
 
-Non |
+Date de fin |
 
-Objet
+Facultative pour les conventions |
 
-de la convention |
+. Date de fin de la convention.
 
-LISTE |
+. Format : jj/ mm/ aaaa.
 
--[A] Autre (PRECISER DANS LA COLONNE CONV _ OBJET _ AUTRE)
+. La date de fin doit être supérieure ou égale à la date début. |
 
--[ADS] Achat de documentation scientifique
-
--[AECES] Achat/ location d'espaces dans le cadre d'événements scientifiques
-
--[AEP] Achat/ location d'espace publicitaire
-
--[APS] Autres prestations de services
-
--[CDLE] Cession de droits/ licence d'exploitation
-
--[CEAS] Contrat/ expertise autre que scientifique
-
--[CES] Contrat d'expert scientifique, contrat dans le cadre d'une recherche, contrat de consultant
-
--[CI] Contrat d'interview
-
--[CIM] Contrat d'intervenant à une manifestation/ orateur
-
--[DON] Don/ Mécénat
-
--[ED] Edition
-
--[EEE] Enquête/ Etude/ Etude de marché (hors recherche)
-
--[EPC] Evaluation produit cosmétique
-
--[FOR] Formation
-
--[HOS] Hospitalité
-
--[IC] Inscription congrès
-
--[PARR] Parrainage
-
--[PART] Partenariat
-
--[PM] Prêt de matériel
-
--[RB] Remise d'une bourse
-
--[RP] Remise de prix
-
--[RS] Recherche scientifique
-
--[VPC] Vigilance produit cosmétique |
-
-CONV _ OBJET _ AUTRE |
+Date |
 
 |
 
-Non |
+Informations convention |
 
-Précision de l'objet de la convention |
+Obligatoire |
 
-TEXTE |
+. Lorsque la convention a pour objet une manifestation, indiquer l'organisateur, le nom, la date et le lieu de la manifestation.
 
-|
+. Format : 255 caractères maximum. |
 
-CONV _ DATE _ DEBUT |
-
-|
-
-Non |
-
-Date de début
-
-de couverture
-
-de la convention |
-
-DATE |
-
-Format JJ/ MM/ AAAA |
-
-CONV _ DATE _ FIN |
-
-Non |
-
-Non |
-
-Date de fin
-
-de couverture
-
-de la convention |
-
-DATE |
-
-Format JJ/ MM/ AAAA |
-
-CONV _ MONTANT |
-
-Non |
-
-Non |
-
-Somme versée
-
-au titre
-
-de la convention (Montant) |
-
-MONTANT |
+Texte |
 
 |
 
-CONV _ EVENEMENT _ DATE |
+Facultatif |
 
-Non |
+. Indiquer des précisions sur la convention.
 
-Non |
+. Format : 255 caractères maximum. |
 
-Date
+Catégorie de bénéficiaire |
 
-de l'événement
+Obligatoire |
 
-lié à la convention |
+. Catégorie du bénéficiaire.
 
-DATE |
+. Une seule valeur possible. |
 
-Format JJ/ MM/ AAAA A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
+Liste |
 
-CONV _ EVENEMENT _ NOM |
+Personnes physiques :
 
-Non |
+-ETU = Etudiant
 
-Non |
+-INF = Influenceur
 
-Nom
+-PRS = Professionnel de santé
 
-de l'événement
+-VET = Vétérinaire
 
-lié à la convention |
+Personnes morales :
 
-TEXTE |
+-FON = Académie, fondation, société savante et organisme de conseils
 
-A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
+-APS = Association de professionnels de santé
 
-CONV _ EVENEMENT _ LIEU |
+-ADU = Association d'étudiants
 
-Non |
+-AUS = Association d'usagers du système de santé
 
-Non |
+-LOG = Editeur de logiciel
 
-Lieu
+-ETA = Etablissement de santé
 
-de l'événement
+-AGR = Groupement professionnel agricole
 
-lié à la convention |
+-SAN = Groupement sanitaire
 
-TEXTE |
+-PMO = Personne morale assurant la formation initiale ou continue des professionnels de santé
 
-A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
+-PRE = Presse et média
 
-CONV _ EVENEMENT _ ORGANISATEUR |
+-VPM = Vétérinaire personne morale |
 
-Non |
+Type d'identifiant professionnel |
 
-Non |
+Obligatoire |
 
-Organisateur
+. Type d'identifiant utilisé pour identifier le bénéficiaire.
 
-de l'événement
+. Une seule valeur possible. |
 
-lié à la convention |
+Liste |
 
-TEXTE |
+Les valeurs sont les mêmes pour la saisie en ligne et le web service.
 
-A compléter si la convention concerne une manifestation (remplace le dépôt du programme sous forme de PDF) |
+Pour les professionnels de santé :
 
-AVANT _ DATE |
+-RPPS/ ADELI
 
--Oui si le champ LIGNE _ TYPE est égal à [A]
+-ORDRE
 
--Non sinon (dans ce cas les lignes sont ignorées) |
+-AUTRE
 
-Non |
+Pour les étudiants :
 
-Date
+-RPPS/ ADELI
 
-où l'avantage
+-AUTRE
 
-a été accordé |
+Pour les vétérinaires :
 
-DATE |
+-ORDRE
 
-Format JJ/ MM/ AAAA |
+-AUTRE
 
-AVANT _ MONTANT |
+Pour les influenceurs :
 
-Non |
+-AUTRE
 
-Montant arrondi
+Pour les personnes morales :
 
-à l'euro
+-SIREN
 
-le plus proche |
+-FINESS
 
-MONTANT |
+-AUTRE |
 
-|
+Numéro d'identifiant professionnel |
 
-AVANT _ NATURE |
+Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
-Non |
+. Valeur de l'identifiant du bénéficiaire correspondant au Type d'identifiant professionnel choisi :
 
-Nature
+-Si le Type d'identifiant professionnel est RPPS/ ADELI : identifiant personnel du bénéficiaire dans le Répertoire Partagé des Professionnel de Santé ;
 
-de l'avantage
+-Si le Type d'identifiant professionnel est ORDRE : numéro d'inscription à l'ordre ;
 
-accordé |
+-Si le Type d'identifiant professionnel est SIREN : le numéro siren ;
 
-TEXTE |
+-Si le Type d'identifiant professionnel est FINESS : le numéro finess ;
 
-|
+-Si le Type d'identifiant professionnel est AUTRE : valeur à renseigner. Ne rien mettre si inconnu.
 
-AVANT _ CONVENTION _ LIE |
+. Format : 255 caractères maximum. |
 
-Non |
-
-Non |
-
-Identifiant
-
-de la convention
-
-éventuellement liée à cet avantage |
-
-TEXTE |
+Texte |
 
 |
 
-REMU _ DATE |
+Profession |
 
--Oui si le champ LIGNE _ TYPE est égal à [R]
+Obligatoire pour la catégorie de bénéficiaire " Professionnel de santé " |
 
--Non sinon (dans ce cas les lignes sont ignorées) |
+. Qualité/ profession du bénéficiaire.
 
-Non |
+. Une seule valeur possible. |
 
-Date
+Liste |
 
-où la rémunération
+-01 = Préparateur en pharmacie et préparateur en pharmacie hospitalière
 
-a été versée |
+-02 = Aide-soignant
 
-DATE |
+-03 = Auxiliaire de puériculture
 
-Format JJ/ MM/ AAAA |
+-04 = Ambulancier
 
-REMU _ MONTANT |
+-10 = Médecin
 
-Non |
+-21 = Pharmacien
 
-Montant
+-26 = Audioprothésiste
 
-arrondi
+-28 = Opticien-lunetier
 
-à l'euro
+-40 = Chirurgien-dentiste
 
-le plus proche |
+-50 = Sage-femme
 
-MONTANT |
+-60 = Infirmier
+
+-70 = Masseur-kinésithérapeute
+
+-80 = Pédicure-podologue
+
+-82 = Prothésiste et orthésistes pour l'appareillage de personnes handicapées
+
+-86 = Technicien de laboratoire médical
+
+-91 = Orthophoniste
+
+-92 = Orthoptiste
+
+-94 = Ergothérapeute
+
+-95 = Diététicien
+
+-96 = Psychomotricien
+
+-98 = Manipulateur d'électroradiologie médicale
+
+-99 = Physicien médical
+
+-ADE = Assistant dentaire |
+
+Facultatif pour la catégorie de bénéficiaire " Etudiant " |
+
+. Qualité/ profession du bénéficiaire.
+
+. Une seule valeur possible. |
+
+Liste |
+
+-01 = Préparateur en pharmacie et préparateur en pharmacie hospitalière
+
+-02 = Aide-soignant
+
+-03 = Auxiliaire de puériculture
+
+-04 = Ambulancier
+
+-10 = Médecin
+
+-21 = Pharmacien
+
+-26 = Audioprothésiste
+
+-28 = Opticien-lunetier
+
+-40 = Chirurgien-dentiste
+
+-50 = Sage-femme
+
+-60 = Infirmier
+
+-70 = Masseur-kinésithérapeute
+
+-80 = Pédicure-podologue
+
+-82 = Prothésiste et orthésistes pour l'appareillage de personnes handicapées
+
+-86 = Technicien de laboratoire médical
+
+-91 = Orthophoniste
+
+-92 = Orthoptiste
+
+-94 = Ergothérapeute
+
+-95 = Diététicien
+
+-96 = Psychomotricien
+
+-98 = Manipulateur d'électroradiologie médicale
+
+-99 = Physicien médical
+
+-ADE = Assistant dentaire
+
+-VET = Vétérinaire |
+
+Identité/ Nom |
+
+Obligatoire |
+
+. Pour les personnes physiques :
+
+-Nom d'un professionnel de santé, d'un vétérinaire ou d'un étudiant ;
+
+-Dénomination d'un influenceur.
+
+. Pour les personnes morales :
+
+-Nom de l'établissement ou de l'association ;
+
+-Dénomination sociale d'une entreprise.
+
+. Format : 255 caractères. |
+
+Texte |
 
 |
 
-REMU _ CONVENTION _ LIEE |
+Prénom |
 
-Non |
+Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
 
-Identifiant
+. Prénom d'une personne physique hors catégorie professionnelle " Influenceur " : professionnel de santé, vétérinaire ou étudiant.
 
-de la convention
+. Format : 255 caractères. |
 
-active liée
+Texte |
 
-à cette rémunération |
+|
 
-TEXTE |
+Structure d'exercice/ de rattachement |
+
+Obligatoire pour la catégorie de bénéficiaire " Etudiant " |
+
+. Nom de l'établissement d'enseignement ou de l'organisme de rattachement.
+
+. Format : 255 caractères maximum. |
+
+Texte |
+
+|
+
+Facultatif pour les catégories de bénéficiaire " Professionnel de santé " et " Vétérinaire " |
+
+. Indiquer des précisions sur la structure d'exercice.
+
+. Format : 255 caractères maximum. |
+
+Texte |
+
+|
+
+Pays |
+
+Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
+
+. Pays du bénéficiaire.
+
+. Une seule valeur possible. |
+
+Liste |
+
+Norme ISO 3166-1 alpha-2 |
+
+Code postal |
+
+Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
+
+. Pour les personnes physiques :
+
+-Si la catégorie de bénéficiaire est " Professionnel de santé " ou " Vétérinaire " : le code postal de l'adresse professionnelle ;
+
+-Si la catégorie de bénéficiaire est " Etudiant " : le code postal de l'adresse de son établissement de rattachement.
+
+. Pour les personnes morales :
+
+-Le code postal de l'adresse de l'établissement ;
+
+-Le code postal d'adresse du siège social de l'entreprise ou de l'association.
+
+. Format : 255 caractères maximum. |
+
+Code postal |
+
+|
+
+Ville |
+
+Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
+
+. Pour les personnes physiques :
+
+-Si la catégorie de bénéficiaire est " Professionnel de santé " ou " Vétérinaire " : la ville de l'adresse professionnelle ;
+
+-Si la catégorie de bénéficiaire est " Etudiant " : la ville de l'adresse de son établissement de rattachement.
+
+. Pour les personnes morales ;
+
+-La ville de l'adresse de l'établissement ;
+
+-La ville de l'adresse du siège social de l'entreprise ou de l'association.
+
+. Format : 255 caractères maximum. |
+
+Texte |
+
+|
+
+Adresse |
+
+Obligatoire sauf pour la catégorie de bénéficiaire " Influenceur " |
+
+. Pour les personnes physiques :
+
+-Si la catégorie est " Professionnel de santé " ou " Vétérinaire " : l'adresse professionnelle ;
+
+-Si la catégorie de bénéficiaire est " Etudiant " : l'adresse de son établissement de rattachement.
+
+. Pour les personnes morales :
+
+-L'adresse de l'établissement ;
+
+-L'adresse du siège social de l'entreprise ou de l'association.
+
+. Format : 255 caractères maximum. |
+
+Texte |
+
+|
+
+Champ supplémentaire pour l'envoi par webservice :
+
+NOM
+
+DU CHAMP |
+
+OBLIGATOIRE/
+
+FACULTATIF |
+
+DESCRIPTION |
+
+FORMAT |
+
+LISTE DE VALEUR |
+
+Demande de rectification |
+
+Obligatoire |
+
+. Pour indiquer si la déclaration est faite en réponse à une demande de rectification d'un bénéficiaire.
+
+. Si l'Action sur une déclaration est " Modification " ou " Suppression ", indiquer une seule valeur possible.
+
+. Si la valeur " Oui " est indiquée : l'action une fois enregistrée éteint la demande de rectification sur la déclaration et le marqueur disparaît sur le site grand public. |
+
+Liste |
+
+-OUI-NON |
