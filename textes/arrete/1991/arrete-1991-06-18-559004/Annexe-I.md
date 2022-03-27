@@ -6080,7 +6080,7 @@ En complément de l'alinéa précédent, lorsque le résultat d'un contrôle tec
 
 -au titre de la défaillance 0.5.1. k. 2., la contre-visite porte sur la fonction 5. Essieux, roues, pneus, suspension , les ensembles de points de contrôle 1.1. Etat mécanique et fonctionnement , 2.1. Etat mécanique et 6.1. Châssis et accessoire , ainsi que les points de contrôle 6.2.2. Fixation de la cabine et de la carrosserie et 6.2.4. Plancher ;
 
--au titre de la défaillance 0.5.1. l. 2., la contre-visite porte sur les ensembles de points de contrôle 2.1. Etat mécanique , 2.3. Jeu dans la direction , 2.6. Direction assistée électronique , 5.1. Essieux et 5.2. Roues et pneus ;
+-au titre de la défaillance 0.5.1. l. 2., la contre-visite porte sur la fonction 5. Essieux, roues, pneus, suspension et sur les ensembles de points de contrôle 2.1. Etat mécanique et 2.3. Jeu dans la direction ;
 
 -au titre d'au moins un point de contrôle d'une des fonctions 1. Equipements de freinage ou 2. Direction , la contre-visite porte sur la fonction correspondante dans son intégralité ;
 
@@ -6233,3 +6233,7 @@ L'opacité des fumées en accélération libre, mesurée par leur coefficient d'
 -0,7 m-1 pour les véhicules réceptionnés selon la norme européenne d'émission Euro 6 .
 
 Dans tous les autres cas, lorsque le résultat d'un contrôle technique est défavorable au titre d'un point de contrôle, la contre-visite porte sur l'ensemble de points correspondant.
+
+NOTA :
+
+Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté.

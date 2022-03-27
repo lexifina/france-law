@@ -44,6 +44,8 @@ Les installations de contrôle comprennent également :
 
 - un dispositif de contrôle de serrage des roues ;
 
+- un prolongateur d'échappement destiné à être utilisé avec le dispositif de mesure de l'opacité des fumées ;
+
 - des rouleaux fous.
 
 En complément des équipements précités, le centre peut également être équipé d'un cric mobile, de plaques à jeux et d'un appareil de mesure de la transparence des vitres.
@@ -148,6 +150,8 @@ Le bâtiment de contrôle dispose a minima d'un ensemble de postes de contrôle 
 
 Des postes de contrôle complémentaires permettant le contrôle de véhicules aux dimensions inférieures peuvent également être installés. Les caractéristiques maximales des véhicules contrôlables sur ces postes sont affichées en amont de chaque poste concerné.
 
+Lorsque la configuration d'un centre agréé avant le 20 mai 2018 ne permet pas de contrôler tous les véhicules d'une longueur de 7 mètres, d'une hauteur de 3 mètres et d'une largeur de 2,50 mètres, une procédure doit définir clairement les caractéristiques maximales des véhicules contrôlables sur chaque poste et un affichage des limitations des véhicules admissibles en longueur, largeur, et hauteur, doit être apposé dans la zone d'accueil du public du centre.
+
 Le bâtiment de contrôle :
 
 - dispose d'un éclairage fixe et/ ou mobile adapté au niveau des postes de contrôle, notamment, visuels (identification, pont/ fosse, compartiment moteur,...) ;
@@ -173,3 +177,7 @@ Dans le cas où les essais de freinage sont réalisés avec un décéléromètre
 - une zone de freinage d'au moins 50 mètres droite, horizontale et à la surface dure et présentant un bon coefficient d'adhérence (béton de ciment ou enrobé bitumineux par exemple).
 
 En dehors des zones privées appartenant à l'installation, l'autorisation des autorités compétentes ou du propriétaire est disponible. Dans tous les cas, les essais sont réalisés en toute sécurité.
+
+NOTA :
+
+Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté.
