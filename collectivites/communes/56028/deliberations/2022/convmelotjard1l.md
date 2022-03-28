@@ -1,0 +1,9 @@
+# COMMUNE DE CADEN : délibération CONVMELOTJARD1L — CONVENTIONS MORBIHAN ENERGIES LOTISSEMENT JARDIN DES LORIOTS
+
+- Collectivité : COMMUNE DE CADEN
+- SIRET : 21560028900015
+- Code INSEE : 56028
+- Date : 2022-03-28
+- Matière : 1.4 Commande Publique/Autres types de contrats
+- Objet : CONVENTIONS MORBIHAN ENERGIES LOTISSEMENT JARDIN DES LORIOTS
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
