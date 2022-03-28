@@ -6,9 +6,9 @@ Garantie Approuvée
 
 Garantie Autonome à Première Demande.
 
-Nous soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner ce jour à la Caisse des dépôts et consignations (CDC), intervenant en tant que mandataire d'Electricité de France (EDF), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingts quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'acheteur et EDF (accord-cadre) au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Confirmations de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la Garantie).
+Nous soussignés [nom], une société dûment constituée selon les lois de [pays], ayant son siège social [adresse], représentée par [nom], dûment autorisé, (le " Garant " ou " Nous "), acceptons par le présent document de donner ce jour à la Caisse des dépôts et consignations (CDC), intervenant en tant que mandataire d'Electricité de France (" EDF "), société anonyme au capital de 1 006 625 695,50 euros (un milliard six millions six cent quatre-vingts quinze euros et cinquante centimes), dont le siège social est établi au 22-30, avenue de Wagram, 75008 Paris, RCS Paris n° 552 081 317, une garantie autonome à première demande des obligations de [nom de l'Acheteur] au titre de l'accord-cadre signé entre l'acheteur et EDF (" accord-cadre ") au titre de l'accès régulé à l'électricité nucléaire historique (ARENH) et de toutes les Confirmations de Cession annuelle d'énergie, dans les conditions énoncées ci-dessous (la " Garantie ").
 
-PRÉAMBULE
+Préambule
 
 a) Aux termes de l'accord-cadre, des cessions d'énergie sont organisées entre EDF et l'Acheteur ;
 
@@ -32,11 +32,11 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le, date au-delà de laquel
 
 6. Par la présente, le Garant déclare et garantit :
 
-(i) qu'il est une [forme sociétaire] dûment constituée selon les lois de [pays], jouissant de la personnalité morale et possédant la pleine capacité juridique et le pouvoir d'exercer ses activités dans lesquelles il est actuellement engagé, de fournir la Garantie et de remplir toutes ses obligations au titre de la Garantie ;
+(i) Qu'il est une [forme sociétaire] dûment constituée selon les lois de [pays], jouissant de la personnalité morale et possédant la pleine capacité juridique et le pouvoir d'exercer ses activités dans lesquelles il est actuellement engagé, de fournir la Garantie et de remplir toutes ses obligations au titre de la Garantie ;
 
-(ii) que [M.] [⁎] est dûment habilité à signer la Garantie ;
+(ii) Que [M.] [⁎] est dûment habilité à signer la Garantie ;
 
-(iii) qu'il respecte les critères minimum correspondant à la Notation de crédit agréée.
+(iii) Qu'il respecte les critères minimum correspondant à la Notation de crédit agréée.
 
 7. Le Garant s'engage à communiquer à la CDC, toute modification de sa notation financière dans les 24 heures suivant la date officielle de cette modification lorsque l'une quelconque des notations financières ci-dessous ne respecte plus le critère minimum correspondant :
 
@@ -48,11 +48,11 @@ Si nouvelle Garantie : [4. La Garantie prendra effet le, date au-delà de laquel
 
 9. Tous les paiements devant être effectués par le Garant au titre de la Garantie seront :
 
-(i) effectués dans les délais et lieux indiqués dans la Demande que la CDC pourrait être amené à délivrer conformément au paragraphe 2 ci-dessus, et dans tous les cas, au plus tard deux (2) jours ouvrés suivant la réception de la Demande par le Garant ;
+(i) Effectués dans les délais et lieux indiqués dans la Demande que la CDC pourrait être amené à délivrer conformément au paragraphe 2 ci-dessus, et dans tous les cas, au plus tard deux (2) jours ouvrés suivant la réception de la Demande par le Garant ;
 
-(ii) exempts de tous droits, taxes ou dépenses de toute sorte (présents ou à venir) qui seraient autrement déduits, prélevés ou retenus ; et
+(ii) Exempts de tous droits, taxes ou dépenses de toute sorte (présents ou à venir) qui seraient autrement déduits, prélevés ou retenus ; et
 
-(iii) exempts de toute compensation ou demande reconventionnelle relative à toute somme qui pourrait être due par EDF au Garant au titre de tout autre contrat ou de toute autre relation juridique.
+(iii) Exempts de toute compensation ou demande reconventionnelle relative à toute somme qui pourrait être due par EDF au Garant au titre de tout autre contrat ou de toute autre relation juridique.
 
 10. La Somme Maximum est de [montant en chiffres et en lettres] euros.
 
@@ -70,7 +70,9 @@ Les intérêts de retard échus et non payés seront capitalisés avec le montan
 
 [nom du Garant]
 
-[adresse] A l'attention de : [⁎]
+[adresse]
+
+A l'attention de : [⁎]
 
 Numéro de téléphone : [⁎]
 
@@ -78,7 +80,9 @@ Numéro de télécopie : [⁎]
 
 (ii) Concernant la CDC :
 
-[adresse] A l'attention de : [⁎]
+[adresse]
+
+A l'attention de : [⁎]
 
 Numéro de téléphone : [⁎]
 
@@ -104,7 +108,9 @@ Nom et qualité
 
 Signé et conclu le :
 
-Annexe Modèle de demande
+Annexe
+
+Modèle de demande
 
 A [Garant] [date]
 
