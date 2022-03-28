@@ -1,0 +1,10 @@
+# COMMUNE DE FOUGERES : délibération D36DVASC_MAR22 — Conseil municipal du 17 mars 2022 : Subventions de fonctionnement – Associations sportives scolaires – Année 2022.
+
+- Collectivité : COMMUNE DE FOUGERES
+- SIRET : 21350115800017
+- Code INSEE : 35115
+- Date : 2022-03-28
+- Matière : 7.5 Finances locales/Subventions
+- Objet : Conseil municipal du 17 mars 2022 : Subventions de fonctionnement – Associations sportives scolaires – Année 2022.
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501158/Deliberation/2022/179931/17a94313f2bd2b3db0bd27b79171801832f3133aa1a1a0bca0bf8e0d98684a8e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
