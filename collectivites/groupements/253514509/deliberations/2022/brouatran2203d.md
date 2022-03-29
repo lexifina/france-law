@@ -1,0 +1,8 @@
+# SYND INTERCOM REGROUPEMENT SCOL BROUALAN : délibération BROUATRAN2203D — AFFECTATION DU RESULTAT 2021
+
+- Collectivité : SYND INTERCOM REGROUPEMENT SCOL BROUALAN
+- SIRET : 25351450900012
+- Date : 2022-03-29
+- Matière : 7.1 Finances locales/Divers
+- Objet : AFFECTATION DU RESULTAT 2021
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
