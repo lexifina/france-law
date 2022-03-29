@@ -1,0 +1,8 @@
+# SYND INTERCOM REGROUPEMENT SCOL BROUALAN : délibération BROUATRAN2202D — COMPTE DE GESTION 2021 RPI
+
+- Collectivité : SYND INTERCOM REGROUPEMENT SCOL BROUALAN
+- SIRET : 25351450900012
+- Date : 2022-03-29
+- Matière : 7.1 Finances locales/Divers
+- Objet : COMPTE DE GESTION 2021 RPI
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
