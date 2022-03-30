@@ -1,0 +1,10 @@
+# COMMUNE DE SAINT BROLADRE : délibération DELIB132022COM — D- PANNEAU D'INFORMATIONS LUMINIEUX - DEMANDE DE SUBVENTION AU TITRE DE LA DETR
+
+- Collectivité : COMMUNE DE SAINT BROLADRE
+- SIRET : 21350259400012
+- Code INSEE : 35259
+- Date : 2022-03-30
+- Matière : 7.1 Finances locales/Divers
+- Objet : D- PANNEAU D'INFORMATIONS LUMINIEUX - DEMANDE DE SUBVENTION AU TITRE DE LA DETR
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213502594/Deliberation/2022/190011/b43e187ef906ae2a7a0085c9bf73a337d06516ea9a1877f15a528bb9b0e19000.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
