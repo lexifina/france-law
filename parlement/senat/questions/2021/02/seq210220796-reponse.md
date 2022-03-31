@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210220796
+
+- Question : [SEQ210220796](seq210220796.md) — Reprise du calcul de la retraite en cas d'erreur
+
+## Réponse
+
+*Retraites et santé au travail, JO du 2022-03-31, page 1769*
+
+Le calcul de la pension de retraite, une fois les droits liquidés, est définitif. Toutefois, il est possible de contester la décision d'une caisse de retraite en saisissant la commission de recours amiable (CRA), qui statue sur les contestations formulées par les assurés. Le délai de saisine de la CRA est de 2 mois à compter de la notification de la décision que l'assuré souhaite contester. En cas de rejet par la CRA ou si l'assuré n'est toujours pas satisfait de la réponse apportée, ce dernier peut saisir le Tribunal des affaires de sécurité sociale (Tass) et le médiateur du régime de retraite concerné. La saisine du médiateur n'interrompt pas les délais de recours légaux devant les tribunaux. Dans le cas d'une contestation relative à la retraite complémentaire Agirc-Arrco, tout assuré peut demander la révision de sa retraite complémentaire lorsqu'il dispose de justificatifs ou de nouveaux éléments susceptibles de permettre l'attribution des points pour une période donnée. Si la période considérée a été indiquée sur son dossier de retraite, les nouveaux droits sont rétroactivement pris en compte à la date d'effet de la retraite complémentaire. Si ce n'est pas le cas, les nouveaux droits sont pris en compte à la date de la demande de révision. Les fonctionnaires peuvent enfin demander la révision de leur retraite dans un délai d'1 an s'il s'agit d'une erreur de droit, ou à tout moment s'il s'agit d'une erreur matérielle. Toute décision du régime de retraite (SRE, CNRACL, FSPOEIE ou RAFP) peut faire l'objet d'un recours gracieux devant ce régime ou d'un recours contentieux devant la justice administrative.
