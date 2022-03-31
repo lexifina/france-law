@@ -142,6 +142,10 @@ Bahreïn :
 
 Paris-Bahreïn ;
 
+Bélize :
+
+Paris-Belize City
+
 Bénin :
 
 Paris-Cotonou ;
@@ -155,6 +159,8 @@ Biélorussie :
 Paris-Minsk ;
 
 Birmanie :
+
+Paris-Mandalay
 
 Paris-Rangoun ;
 
@@ -335,6 +341,8 @@ Haïti :
 Paris-Port-au-Prince ;
 
 Honduras :
+
+Paris-Comayagua ;
 
 Paris-San Pedro Sula ;
 
@@ -691,6 +699,16 @@ Paris-Krabi ;
 Paris-Phuket ;
 
 Paris-Trat ;
+
+Paris-Hat Yai ;
+
+Paris-Khon Kaen ;
+
+Paris-Lampang ;
+
+Paris-Mae Sot ;
+
+Paris-Sukhotai
 
 Togo :
 
