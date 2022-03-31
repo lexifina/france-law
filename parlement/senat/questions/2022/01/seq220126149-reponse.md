@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220126149
+
+- Question : [SEQ220126149](seq220126149.md) — Origine géographique de fabrication du lait
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2022-03-31, page 1730*
+
+Le Gouvernement a pris acte de la décision du Conseil d'État du 10 mars 2021 qui annule les dispositions relatives au lait et aux produits laitiers du décret n° 2016-1137 du 19 août 2016 instaurant une expérimentation sur l'obligation de l'indication d'origine du lait, du lait dans les produits laitiers et des viandes utilisées comme ingrédients dans les produits transformés, à la suite de l'arrêt de la Cour de justice de l'Union européenne du 1er octobre 2020 concernant l'interprétation de la législation européenne au sujet de l'étiquetage de l'origine. Cette expérimentation mise en place par la France le 1er janvier 2017 visait à répondre à une attente forte exprimée par les consommateurs sur la connaissance de l'origine des produits entrant dans leur alimentation. Cette attente ne s'est jamais démentie et s'est même renforcée depuis 2017. Néanmoins, les opérateurs concernés ont la possibilité de maintenir de manière volontaire les dispositions mises en œuvre depuis 2017 afin de répondre au besoin d'information exprimé par le consommateur. La France a d'ores et déjà exprimé à de nombreuses reprises au niveau européen sa demande d'une obligation harmonisée de l'étiquetage de l'origine du lait et du lait dans les produits laitiers, ainsi que d'autres produits. À ce titre, le Gouvernement se félicite que la Commission européenne prépare actuellement une révision du règlement (UE) n° 1169/2011 relatif à l'information des consommateurs sur les denrées alimentaires, dans l'objectif annoncé d'étendre la liste des produits pouvant bénéficier d'une indication obligatoire de l'origine ou de la provenance. Une consultation publique sur ce sujet a d'ailleurs été ouverte jusqu'au 7 mars sur le site de la Commission européenne.
