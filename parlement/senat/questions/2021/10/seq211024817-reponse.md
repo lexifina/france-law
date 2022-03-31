@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211024817
+
+- Question : [SEQ211024817](seq211024817.md) — Aides ovines et contrôles de la politique agricole commune
+
+## Réponse
+
+*Agriculture et alimentation, JO du 2022-03-31, page 1730*
+
+La conditionnalité des aides est un ensemble de règles à respecter pour tout agriculteur qui bénéficie d'une ou plusieurs des aides liées à la surface ou à la tête : paiements découplés (paiement de base, paiement redistributif, paiement au titre du verdissement, paiement en faveur des jeunes agriculteurs), aides couplées pour des animaux ou des végétaux, indemnités compensatoires de handicaps (ICHN), mesures agroenvironnementales et climatiques (MAEC), agroforesterie. Ce principe a été introduit par la réforme de la politique agricole commune (PAC) de 2003. Dans le cadre de la PAC mise en œuvre dès 2015, les règles de la conditionnalité ont été toilettées et simplifiées, mais pas profondément modifiées. La conditionnalité comporte des exigences relatives au respect de dispositions réglementaires (ERMG) dans le secteur de l'environnement, du sanitaire et du bien-être animal, et à de bonnes conditions agricoles et environnementales (BCAE), que l'agriculteur doit respecter sur les surfaces, animaux et éléments sur lesquels il a le contrôle. La conditionnalité vise ainsi à garantir une agriculture durable et favorise ainsi une meilleure acceptation de la PAC par l'ensemble des citoyens. Ainsi, un éleveur détenant des ovins peut, même s'il ne peut pas bénéficier des aides ovines mais bénéficie d'autres aides, être contrôlé au titre de la conditionnalité pour le domaine bien-être animal ou pour le sous-domaine santé animale dès lors qu'il bénéficie d'une autre des aides précitées. Il s'agit d'une obligation réglementaire à laquelle il n'est pas possible de déroger.
