@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIBCCAS042022 — D- RESIDENCE AUTONOMIE LES HERMELLES / AFFECTATION DES RESULTATS 2021
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-04-01
+- Matière : 7.1 Finances locales/Divers
+- Objet : D- RESIDENCE AUTONOMIE LES HERMELLES / AFFECTATION DES RESULTATS 2021
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/183638/e946a1cb1e1052d1b875a372a1ff31cb74c538cf709367e72d8b1955e6f3d35b.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
