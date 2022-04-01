@@ -1,6 +1,6 @@
 # Article 4 bis
 
-Par dérogation au quatrième alinéa de l'article L. 5125-17 du code de la santé publique, les pharmacies ayant déclaré l'activité de vaccination conformément à l'article R. 5125-33-8 du même code, peuvent, jusqu'au 31 mars 2022, ouvrir le dimanche pour les seules activités suivantes :
+Par dérogation au quatrième alinéa de l'article L. 5125-17 du code de la santé publique, les pharmacies ayant déclaré l'activité de vaccination conformément à l'article R. 5125-33-8 du même code, peuvent, jusqu'au 30 juin 2022, ouvrir le dimanche pour les seules activités suivantes :
 
 1° Prélèvement d'un échantillon biologique pour l'examen de biologie médicale de détection du SARS-CoV-2 ;
 

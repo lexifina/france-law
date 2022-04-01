@@ -34,7 +34,7 @@ Une pièce d'identité, et l'un des justificatifs suivants :
 
 -Un bulletin de salaire (pour les salariés de services à domicile), un bulletin de salaire CESU (pour les salariés de particuliers employeurs) ou un exemplaire du relevé mensuel des contreparties financières (pour les accueillants familiaux) de moins de 3 mois. |
 
-2 € HT pour la dispensation à l'assuré de 10 autotests pour un mois.
+1 € HT pour la dispensation à l'assuré de 10 autotests pour un mois.
 
 Indemnité majorée le cas échéant d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
@@ -48,7 +48,7 @@ Notification adressée par l'assurance maladie
 
 A défaut, attestation sur l'honneur de la personne contact ou, pour les mineurs, du représentant légal ou, pour les élèves, attestation remise par l'Education nationale |
 
-2 € HT pour la dispensation à l'assuré des autotests quel qu'en soit le nombre.
+1 € HT pour la dispensation à l'assuré des autotests quel qu'en soit le nombre.
 
 Indemnité majorée le cas échéant d'un coefficient pour les départements et régions mentionnées dans le tableau 2 |
 
@@ -66,7 +66,7 @@ tarif majoré d'un coefficient pour les départements et régions mentionnées d
 
 Une pièce d'identité et une attestation nominative de délivrance remise par l'employeur. |
 
-2 € HT pour la dispensation à l'assuré de 10 autotests pour un mois. |
+1 € HT pour la dispensation à l'assuré de 10 autotests pour un mois. |
 
 3,51 € l'autotest et, à compter du 15 février 2022, 3,36 €.
 
