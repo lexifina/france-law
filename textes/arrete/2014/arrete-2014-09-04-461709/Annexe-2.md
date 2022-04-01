@@ -16,7 +16,7 @@ Si le siège social du demandeur est situé hors de France, la demande comporte 
 
 1.3. Mandat
 
-Si une tierce personne dépose un dossier au nom d'un demandeur, la demande comporte un exemplaire du mandat conclu entre les parties précisant :
+Si une tierce personne constitue en tout ou partie un dossier au nom d'un demandeur, la demande comporte un exemplaire du mandat conclu entre les parties précisant :
 
 - pour le mandant : nom, adresse du siège social, numéro SIREN, nom et qualité de la personne qui donne le mandat ;
 
@@ -96,4 +96,4 @@ La demande comporte en complément des pièces prévues aux points 3, 4 et 5 de 
 
 NOTA :
 
-Conformément à l'article 35 de l'arrêté du 28 octobre 2021, ces dispositions entrent en vigueur le 1er novembre 2021.
+Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux dossiers de demande de certificats d'économies d'énergie déposés à compter du 1er novembre 2021.
