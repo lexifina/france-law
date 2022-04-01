@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIBCCAS052022 — D- RESIDENCE AUTONOMIE LES HERMELLES DECISION MODIFICATIVE N°1
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-04-01
+- Matière : 7.1 Finances locales/Divers
+- Objet : D- RESIDENCE AUTONOMIE LES HERMELLES DECISION MODIFICATIVE N°1
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/183633/49133f9fce569e3217a826384098a28556a7c12b144bbe115da91a5db43b4254.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
