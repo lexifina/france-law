@@ -20,7 +20,7 @@ Ce rapport formule, le cas échéant, des recommandations destinées à répondr
 
 Missions d'interprétation
 
-Les divergences qui pourraient se manifester dans une entreprise sur l'interprétation d'une clause de la présente convention ou d'un accord subséquent peuvent être portées devant la CPPNI qui se réunira sur convocation de son président, à la demande d'une des organisations représentatives, dans un délai maximal de 1 mois après la réception de cette demande par le secrétariat à l'adresse électronique suivante : secretariatcppni @ CCN-BETIC. fr. Le secrétariat informe de cette saisine les membres de la CPPNI dans les 8 jours.
+Les divergences qui pourraient se manifester dans une entreprise sur l'interprétation d'une clause de la présente convention ou d'un accord subséquent peuvent être portées devant la CPPNI qui se réunira sur convocation de son président, à la demande d'une des organisations représentatives, dans un délai maximal de 1 mois après la réception de cette demande par le secrétariat à l'adresse électronique suivante : secretariatcppni@CCN-BETIC.fr. Le secrétariat informe de cette saisine les membres de la CPPNI dans les 8 jours.
 
 La commission peut également rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 2232-9 du code du travail.
 
@@ -43,6 +43,20 @@ La commission est présidée par un représentant du collège patronal.
 Les membres de la commission sont mandatés par chacune des organisations représentatives pour siéger et prendre position.
 
 Lorsque les salariés sont appelés à participer aux réunions de la CPPNI décidées entre les organisations professionnelles d'employeurs et les organisations syndicales de salariés représentatives au niveau de la branche, des autorisations d'absence sont accordées, les heures correspondantes sont rémunérées et considérées comme du temps de travail effectif, conformément à l'article 3 de la convention collective nationale.
+
+Chaque organisation syndicale de salariés représentative au niveau de la branche dispose de la faculté d'inviter une personne supplémentaire au sein de sa délégation.
+
+Le collège patronal a la possibilité d'inviter autant de personnes supplémentaires que d'organisation syndicale représentative. Les organisations professionnelles d'employeurs composant le collège employeurs s'accordent sur la répartition du nombre de personnes supplémentaires pouvant être invitées au sein de chaque délégation employeurs.
+
+Les organisations représentées au sein de la CPPNI indiquent au secrétariat de cette instance le nom de la personne ou des personnes invitées au sein de leur délégation. Le secrétariat informe ensuite l'ensemble des organisations représentées au sein de la CPPNI de la présence de ces invités aux réunions de la CPPNI.
+
+Les personnes invitées à participer aux réunions de la CPPNI ne sont pas habilitées à prendre position politiquement durant les réunions de la CPPNI, mais elles peuvent prendre la parole sur demande des représentants mandatés de leur délégation :
+
+– pour informer les membres de la CPPNI sur les travaux techniques des groupes de travail instaurés par la CPPNI ou par d'autres instances de branche ;
+
+– afin d'apporter un éclairage technique aux discussions.
+
+Lorsqu'elles sont salariées, les personnes invitées bénéficient, pour participer aux réunions de la CPPNI, d'autorisations d'absence dans les mêmes conditions que les autres membres de la CPPNI ayant la qualité de salarié.
 
 3. Fonctionnement du secrétariat de la CPPNI
 
