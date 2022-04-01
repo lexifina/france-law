@@ -19,3 +19,9 @@ Indemnités de sujétions spécifiques pour l'exercice de fonctions sur un site 
 Indemnité de difficulté d'accès aux installations du ministère de la défense implantées sur l'île Longue (décret n° 2000-1108 du 14 novembre 2000 relatif à l'attribution d'une indemnité de difficulté d'accès aux fonctionnaires et aux agents non titulaires de l'Etat exerçant leurs fonctions dans les installations du ministère de la défense implantées sur l'île Longue Finistère).
 
 Indemnité spéciale pour travaux de recherches scientifiques (décret n° 2002-741 du 2 mai 2002 portant attribution d'une indemnité spéciale pour travaux de recherches scientifiques à certains personnels civils et militaires du ministère de la défense).
+
+Indemnité de mise en œuvre et de maintenance des aéronefs.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 28 avril 2023 (NOR : ARMH2309625A), les dispositions suivantes entrent en vigueur le 1er avril 2022.
