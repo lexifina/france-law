@@ -12,13 +12,17 @@ Certificat d'officier de police judiciaire
 
 Brevet de chef de quart (1)
 
+Brevet supérieur de mécanicien naval (1)
+
 Certificat de qualification militaire par la recherche |
 
-Branches de la subdivision d'arme de la gendarmerie mobile |
+Branches de la subdivision d'arme de la gendarmerie mobile
+
+|
 
 Diplôme d'arme de la gendarmerie nationale
 
-Diplôme technique "musique"
+Diplôme technique musique
 
 Certificat de qualification militaire par la recherche |
 
