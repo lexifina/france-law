@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIBCCAS022022 — D-RESIDENCE AUTONOMIE LES HERMELLES COMPTE DE GESTION DU COMPTABLE PUBLIC
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-04-01
+- Matière : 7.1 Finances locales/Divers
+- Objet : D-RESIDENCE AUTONOMIE LES HERMELLES COMPTE DE GESTION DU COMPTABLE PUBLIC
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/183622/4fddc5fcf890795cfbf2b911c93865c7f06a560ef9261f7862053c3cef8c12dc.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
