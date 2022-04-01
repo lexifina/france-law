@@ -74,7 +74,7 @@ En tant que bénéficiaire de l'opération d'économies d'énergie, j'atteste su
 
 -que je ne signerai pas, pour cette opération, d'attestation sur l'honneur semblable avec une autre personne morale ;
 
--l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques de mon bien (type de bâtiment, surfaces, énergie de chauffage, etc.) et que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci ;
+-l'exactitude des informations que j'ai communiquées ci-dessus sur les caractéristiques de mon bien (type de bâtiment, surfaces, énergie de chauffage, etc.) et que la ou les opérations d'économies d'énergie décrites ci-dessus ont été intégralement réalisées. Je suis informé que je suis susceptible d'être contacté par les services du ministère chargé de l'énergie (ou tout organisme désigné par le ministère chargé de l'énergie) ou par [raison sociale du demandeur] ou son partenaire (ou tout organisme désigné par ceux-ci), dans le cadre d'un contrôle concernant la nature de l'opération et la réalisation effective de celle-ci. La réalisation effective d'un contrôle à la demande du demandeur ou de son partenaire (ou tout organisme désigné par ceux-ci) peut être une des conditions imposées par ces derniers pour le versement de leur contribution au financement de l'opération. Je m'engage à répondre aux demandes qui me seront faites dans le cadre des contrôles et, le cas échéant, à permettre l'accès au lieu de l'opération pour la réalisation de ces contrôles ;
 
 -que les économies d'énergie réalisées par cette opération ne viennent pas réduire les émissions de gaz à effet de serre d'une installation classée visée à l'article L. 229-5 du code de l'environnement dont je suis l'exploitant ;
 
@@ -710,4 +710,4 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'é
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 17 décembre 2021, les présentes dispositions sont applicables à compter du 1er janvier 2022. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er juillet 2022.
+Conformément à l’article 3 de l’arrêté du 24 mars 2022 (NOR : TRER2208352A), les présentes dispositions sont applicables aux opérations engagées à compter du 1er avril 2022. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er juillet 2022.
