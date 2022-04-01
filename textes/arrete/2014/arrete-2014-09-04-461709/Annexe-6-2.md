@@ -1,8 +1,6 @@
 # Article Annexe 6-2
 
-MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
-
-D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES MORALES
+MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES MORALES
 
 RAISON
 
@@ -28,9 +26,7 @@ de l'opération |
 
 NOM
 
-du site bénéficiaire
-
-de l'opération |
+du site bénéficiaire de l'opération |
 
 ADRESSE
 
@@ -38,9 +34,7 @@ de l'opération |
 
 CODE
 
-postal
-
-sans Cedex |
+postal sans Cedex |
 
 VILLE |
 
@@ -74,9 +68,7 @@ ADRESSE du siège social du bénéficiaire de l'opération |
 
 CODE
 
-postal
-
-sans Cedex |
+postal sans Cedex |
 
 VILLE |
 
@@ -128,15 +120,11 @@ de l'opération |
 
 NATURE
 
-de la
-
-bonification |
+de la bonification |
 
 SIREN
 
-du
-
-professionnel |
+du professionnel |
 
 RAISON sociale
 
@@ -146,9 +134,7 @@ SIREN
 
 du sous-traitant |
 
-RAISON sociale
-
-du sous-traitant |
+RAISON sociale du sous-traitant |
 
 |
 
@@ -166,25 +152,19 @@ du sous-traitant |
 
 |
 
-Suite et fin du tableau
+Suite du tableau
 
-NATURE
+NATURE du rôle actif
 
-du rôle actif et incitatif |
+et incitatif |
 
 SIREN de l'organisme de contrôle |
 
-RAISON sociale
+RAISON sociale de l'organisme de contrôle |
 
-de l'organisme de contrôle |
+SIRET de l'entreprise ayant réalisé l'opération |
 
-SIRET de l'entreprise ayant réalisé
-
-l'opération |
-
-Numéro
-
-de téléphone
+Numéro de téléphone
 
 du bénéficiaire |
 
@@ -202,6 +182,16 @@ Adresse de courriel du bénéficiaire |
 
 |
 
+Suite et fin du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
+
+|
+
+|
+
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux demandes de certificats d'économies d'énergie déposées à compter du 1er janvier 2021.
+Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er avril 2022.

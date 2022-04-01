@@ -4,6 +4,8 @@ MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES
 
 D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
 
+MODÈLE DE TABLEAU RÉCAPITULATIF DES OPÉRATIONS D'ÉCONOMIES D'ÉNERGIE LORSQUE LES BÉNÉFICIAIRES SONT DES PERSONNES PHYSIQUES
+
 RAISON
 
 sociale du demandeur |
@@ -34,9 +36,7 @@ PRÉNOM
 
 du bénéficiaire de l'opération |
 
-ADRESSE
-
-de l'opération |
+ADRESSE de l'opération |
 
 CODE
 
@@ -96,9 +96,7 @@ de la facture |
 
 NATURE
 
-de la
-
-bonification |
+de la bonification |
 
 |
 
@@ -116,9 +114,9 @@ Suite du tableau
 
 SIREN du professionnel |
 
-RAISON
+RAISON sociale
 
-sociale du professionnel |
+du professionnel |
 
 SIREN
 
@@ -142,31 +140,43 @@ du rôle actif et incitatif |
 
 |
 
-Suite et fin du tableau
+Suite du tableau
 
-SIREN
+SIREN de l'organisme
 
-de l'organisme de contrôle |
+de contrôle |
 
 RAISON sociale
 
 de l'organisme de contrôle |
 
-SIRET de l'entreprise ayant réalisé l'opération |
+SIRET de l'entreprise
 
-Numéro
+ayant réalisé l'opération |
 
-de téléphone
+Numéro de téléphone
 
 du bénéficiaire |
 
-Adresse de courriel du bénéficiaire |
+Adresse de courriel
+
+du bénéficiaire |
 
 |
 
 |
 
 |
+
+|
+
+|
+
+Suite et fin du tableau
+
+Montant du rôle actif et incitatif (€) |
+
+Commentaires |
 
 |
 
@@ -174,4 +184,4 @@ Adresse de courriel du bénéficiaire |
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 14 décembre 2020 (NOR : TRER2034679A), les présentes dispositions sont applicables aux demandes de certificats d'économies d'énergie déposées à compter du 1er janvier 2021.
+Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er avril 2022.

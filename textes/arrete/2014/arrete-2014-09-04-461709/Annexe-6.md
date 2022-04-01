@@ -86,7 +86,11 @@ Lorsque plusieurs sigles concernent une même opération, ils sont concaténés 
 
 - pour le numéro de téléphone du bénéficiaire : pour les opérations engagées jusqu'au 31 mars 2021 inclus, il est indiqué, lorsque les informations sont disponibles, le numéro de téléphone fixe ou le numéro de mobile du bénéficiaire figurant dans l'attestation sur l'honneur et mentionnés en partie B de l'annexe 7-1 ; pour les opérations engagées à compter du 1er avril 2021, il est indiqué le numéro de téléphone figurant dans l'attestation sur l'honneur et mentionné en partie B de l'annexe 7-1 ;
 
-- pour l'adresse de courriel du bénéficiaire : pour les opérations engagées jusqu'au 31 mars 2021 inclus, il est indiqué, lorsque les informations sont disponibles, l'adresse du courriel figurant dans l'attestation sur l'honneur et mentionnée en partie B de l'annexe 7-1 ; pour les opérations engagées à compter du 1er avril 2021, il est indiqué l'adresse du courriel figurant dans l'attestation sur l'honneur et mentionnée en partie B de l'annexe 7-1.
+- pour l'adresse de courriel du bénéficiaire : pour les opérations engagées jusqu'au 31 mars 2021 inclus, il est indiqué, lorsque les informations sont disponibles, l'adresse du courriel figurant dans l'attestation sur l'honneur et mentionnée en partie B de l'annexe 7-1 ; pour les opérations engagées à compter du 1er avril 2021, il est indiqué l'adresse du courriel figurant dans l'attestation sur l'honneur et mentionnée en partie B de l'annexe 7-1 ;
+
+- pour le montant du rôle actif et incitatif : le montant, exprimé en euros, selon les cas, de la contribution financière, du bon d'achat, de la bonification du prêt, de l'audit, du conseil personnalisé ou du produit ou service offert, s'agissant des opérations engagées à compter du 1er avril 2022 ; il n'est rien indiqué si l'opération est réalisée sur patrimoine propre ;
+
+- pour les commentaires : toute information nécessaire à la compréhension du dossier de demande par le Pôle national des certificats d'économies d'énergie (PNCEE), notamment concernant le respect des dispositions du troisième alinéa de l'article R. 221-15 du code de l'énergie.
 
 Pour le cas d'un regroupement :
 
@@ -96,4 +100,4 @@ Pour le cas d'un regroupement :
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux dossiers de demande de certificats d'économies d'énergie déposés à compter du 1er novembre 2021.
+Conformément à l'article 4 de l'arrêté du 28 septembre 2021, ces dispositions s'appliquent aux opérations engagées à compter du 1er avril 2022.
