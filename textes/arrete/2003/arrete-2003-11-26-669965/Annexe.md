@@ -16,9 +16,9 @@ Pôle de la communication |
 
 Astreinte de direction. |
 
-1 astreinte de semaine
+1 astreinte de semaine |
 
-1 astreinte de fin semaine
+1 astreinte de fin semaine |
 
 1 astreinte de jour férié isolé |
 
@@ -26,9 +26,9 @@ Cabinet |
 
 Astreinte (chauffeur). |
 
-1 astreinte de semaine
+1 astreinte de semaine |
 
-1 astreinte de fin semaine
+1 astreinte de fin semaine |
 
 1 astreinte de jour férié isolé |
 
@@ -38,7 +38,7 @@ Secrétariat général |
 
 |
 
-Bureau de la logistique |
+Secrétariat interrégional Grand Paris-Subdivision Paris 15 (Farman) de la division logistique |
 
 Astreinte technique. |
 
@@ -70,7 +70,7 @@ Astreinte de maintenance. |
 
 Astreinte de suivi de travaux. |
 
-5 astreintes de semaine.
+5 astreintes de semaine. |
 
 3 astreintes de fin de semaine et de jour férié. |
 
@@ -78,9 +78,9 @@ Astreinte d'exploitation viabilité hivernale. |
 
 2 astreintes de semaine (entre le 15/11 et le 31/03). |
 
-École Nationale
+Ecole nationale de l'aviation civile |
 
-de l'Aviation Civile |
+|
 
 |
 
@@ -94,25 +94,31 @@ Astreinte opérationnelle et technique. |
 
 1 astreinte de fin de semaine et jours fériés. |
 
+|
+
 Centre de Melun |
 
 Astreinte opérationnelle et technique. |
 
 2 astreintes de semaine. |
 
-Bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile |
+Bureau d'enquêtes et d'analyses pour la sécurité
+
+de l'aviation civile |
 
 Astreinte enquêtes-accidents (niveau central). |
 
 1 astreinte de semaine et 2 astreintes de fin de semaine |
 
-Direction des opérations de la direction des services de la navigation aérienne |
+Direction des opérations de la direction des services
+
+de la navigation aérienne |
 
 |
 
 |
 
-Échelon central |
+Echelon central |
 
 Astreinte opérationnelle. |
 
@@ -262,6 +268,18 @@ Astreinte technique. |
 
 1 astreinte de fin de semaine |
 
+Siège |
+
+Astreinte technique de centrale énergie. |
+
+1 astreinte de fin de semaine entre le 1er mai et le 31 octobre. |
+
+Aérodrome de Beauvais |
+
+Astreinte technique. |
+
+1 astreinte de fin de semaine entre le 1er mai et le 31 octobre. |
+
 SNA Nord-Est |
 
 |
@@ -402,7 +420,7 @@ Aérodrome de Pointe-à-Pitre-Le Raizet |
 
 Astreinte opérationnelle. |
 
-1 astreinte de semaine. |
+1 astreinte de semaine . |
 
 Aérodrome de Cayenne-Félix Eboué |
 
@@ -502,19 +520,19 @@ Astreinte de direction |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Bordeaux) |
+Région Nouvelle-Aquitaine (Bordeaux) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Pau) |
+Région Nouvelle-Aquitaine (Pau) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Nouvelle Aquitaine (Poitiers) |
+Région Nouvelle-Aquitaine (Poitiers) |
 
 Astreinte enquêtes-accidents. |
 
@@ -586,13 +604,13 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Centre-Val-de-Loire (Tours) |
+Région Centre-Val de Loire (Tours) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Normandie (Deauville, le Havre et Rouen) |
+Région Normandie (Deauville, Le Havre et Rouen) |
 
 Astreinte enquêtes-accidents. |
 
@@ -622,13 +640,13 @@ Astreinte enquêtes-accidents (Bourgogne-Franche-Comté) |
 
 1 astreinte de semaine. |
 
-Région Grand-Est (Strasbourg) |
+Région Grand Est (Strasbourg) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Grand-Est (Metz-Nancy-Lorraine) |
+Région Grand Est (Metz-Nancy-Lorraine) |
 
 Astreinte enquêtes-accidents. |
 
@@ -658,13 +676,13 @@ Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Auvergne-Rhône-Alpes
-
-(Clermont-Ferrand) |
+Région Auvergne-Rhône-Alpes (Clermont-Ferrand) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
+
+|
 
 DSAC Sud-Est |
 
@@ -684,21 +702,21 @@ Astreinte de direction. |
 
 1 astreinte de semaine. |
 
-Région Provence-Alpes-Côte d'Azur
-
-(Marseille-Provence) |
+Région Provence-Alpes-Côte d'Azur (Marseille-Provence) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
 
-Région Provence-Alpes-Côte d'Azur
+|
 
-(Nice-Côte d'Azur) |
+Région Provence-Alpes-Côte d'Azur (Nice-Côte d'Azur) |
 
 Astreinte enquêtes-accidents. |
 
 1 astreinte de semaine. |
+
+|
 
 Collectivité territoriale Corse (Corse) |
 
@@ -814,9 +832,7 @@ Astreinte opérationnelle. |
 
 1 astreinte de semaine. |
 
-Service mixte " Direction de l'aviation civile en Nouvelle-Calédonie "
-
-|
+Service mixte " Direction de l'aviation civile en Nouvelle-Calédonie " |
 
 |
 
@@ -858,7 +874,7 @@ Astreinte technique de maintenance. |
 
 1 astreinte de semaine. |
 
-SEAC des îles Wallis-et-Futuna |
+SEAC des îles Wallis et Futuna |
 
 |
 
