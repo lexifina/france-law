@@ -1,0 +1,289 @@
+# Article 1er
+
+« 73.1.
+
+Définition de la période de travail de nuit
+
+Conformément à l'article L. 3122-2 du code du travail, la période de travail de nuit commence à 21 heures et s'achève à 6 heures.
+
+Il est possible de substituer à cette période, une autre période de neuf heures consécutives, comprise entre 21 heures et 7 heures, mais comprenant l'intervalle compris entre minuit et 5 heures. La période substituée doit être définie par un accord collectif d'entreprise ou d'établissement.
+
+À défaut d'accord collectif et lorsque les caractéristiques particulières de l'activité de l'entreprise le justifient, cette substitution peut être autorisée par l'inspecteur du travail, après consultation des délégués syndicaux et avis du CSE s'ils existent.
+
+73.1.1.   Justifications du recours au travail de nuit
+
+Le recours au travail de nuit est exceptionnel. Il est gouverné par les principes suivants :
+
+– le recours au travail de nuit doit être limité aux cas où ce mode de travail est nécessaire pour assurer la continuité de l'activité économique ou la sécurité des personnes et des biens ;
+
+– les contraintes inhérentes à ce mode d'organisation du travail notamment, en matière de protection de la sécurité et de la santé des salariés, de formation ainsi qu'au regard de l'articulation d'une activité nocturne avec l'exercice de responsabilités familiales et sociales doivent être prises en considération par les entreprises.
+
+La poursuite, la mise en place du travail de nuit au sens des dispositions du présent accord ou son extension à de nouvelles catégories de salariés dans les entreprises de la Branche est justifiée par :
+
+– la nécessité d'assurer la sécurité des personnes et des biens ;
+
+– la nécessité pour les entreprises de s'adapter aux variations de la charge de travail résultant en particulier du caractère saisonnier de certaines activités ou des exigences de la clientèle ;
+
+– les opérations de manutention, ou de préparation qui concourent à l'exécution d'une prestation de transport ;
+
+– l'exécution de prestations de transport dans le respect de la législation du transport et celui des délais de livraison imposés par notamment les distances à parcourir et la clientèle ;
+
+– les activités de maintenance et/ ou d'entretien et/ ou de nettoyage.
+
+Au regard des motifs qui précèdent, toutes les catégories professionnelles de salariés peuvent être amenées à accomplir un travail de nuit au sens des dispositions à suivre.
+
+Il est rappelé que le travail de nuit des jeunes travailleurs est régi spécifiquement par les dispositions légales.
+
+73.1.2.   Conditions particulières applicables au travail de nuit
+
+Tout salarié effectuant un horaire d'au moins 4 h entre 21 h et 6 h bénéficie :
+
+– d'une indemnité de panier repas fixée à 1,5 fois le minimum garanti ;
+
+– les heures de travail effectuées dans le cadre de l'horaire 21 h à 6 h sont majorées de 30 % sur la base du taux horaire (hors primes).
+
+73.2.
+
+Le travailleur de nuit
+
+Aura le statut de travailleur de nuit, le salarié qui répond à la définition du travailleur de nuit (art. 73.2.1). S'il répond à cette définition, il bénéficie alors de différents droits et garanties spécifiques précisées à l'article 73.2.2.
+
+73.2.1.   Définition du travailleur de nuit
+
+Conformément à l'article L. 3122-5 du code du travail, le salarié est considéré comme travailleur de nuit dès lors que :
+
+1° Soit il accomplit, au moins deux fois par semaine, selon son horaire de travail habituel, au moins trois heures de travail de nuit quotidiennes entre 21 h et 6 h du matin
+
+(*)
+
+(1)
+
+;
+
+2° Soit il accomplit, au cours de l'année civile
+
+(*) (1)
+
+, au moins 270 heures de travail de nuit entre 21 h et 6 h du matin.
+
+73.2.2.   Conditions particulières applicables aux travailleurs de nuit
+
+La qualification de travailleur de nuit permet donc au salarié de bénéficier d'un certain nombre de garanties ou de contreparties.
+
+Ces garanties sont définies ci-dessous :
+
+73.2.2.1.   Durée quotidienne et hebdomadaire de travail
+
+73.2.2.1.1.   Durée quotidienne de travail
+
+La durée quotidienne de travail accomplie par un travailleur de nuit ne peut excéder 8 heures de travail effectif (art. L. 3122-6 du code du travail).
+
+En cas de surcroît d'activité dans les activités énumérées à suivre, la durée quotidienne de travail peut être augmentée, sans toutefois pouvoir excéder dix heures de travail effectif.
+
+Sont concernées :
+
+– les activités caractérisées par l'éloignement entre le domicile et le lieu de travail du salarié ou par l'éloignement entre différents lieux de travail du salarié ;
+
+– les activités de garde, de surveillance et de permanence caractérisées par la nécessité d'assurer la protection des biens et des personnes ;
+
+– les activités de manutention ou d'exploitation qui concourent à l'exécution des prestations de transport ;
+
+– les activités caractérisées par la nécessité d'assurer la continuité du service ou de la production.
+
+En outre, en cas de circonstances exceptionnelles, l'inspecteur du travail peut autoriser le dépassement de la durée quotidienne de travail mentionnée au premier alinéa du présent article après consultation des délégués syndicaux et après avis du comité social et économique.
+
+73.2.2.1.2.   Durée hebdomadaire de travail
+
+La durée hebdomadaire de travail effectif des travailleurs de nuit, calculée sur une période quelconque de 12 semaines consécutives ne peut dépasser la durée légale, soit actuellement 40 heures.
+
+Lorsque l'organisation du travail imposée par les contraintes d'utilisation des équipements ou les caractéristiques propres d'un secteur ou d'un service le justifie, la durée hebdomadaire de travail calculée comme exposée ci-dessus peut être portée à 42 heures de travail effectif en moyenne sur une période quelconque de 12 semaines consécutives, sous réserve de ne pas dépasser une durée maximale de 44 heures de travail effectif au sein d'une même semaine.
+
+73.2.2.1.3.   Attribution d'un repos équivalent en cas de dérogation à la durée quotidienne et hebdomadaire
+
+Le travailleur de nuit pour lequel il est fait application des dérogations prévues aux paragraphes 73.2.2.1.1 et 73.2.2.1.2 du présent article, devra bénéficier d'un temps de repos équivalent au temps de dépassement.
+
+Lorsque l'octroi de ce repos n'est pas possible, une contrepartie équivalente permettant d'assurer une protection appropriée du salarié concerné, est déterminée en accord avec chaque salarié concerné.
+
+73.2.2.2.   Pause
+
+Aucun temps de travail ne peut atteindre six heures sans que le salarié ne bénéficie d'un temps de pause d'une durée au moins égale à vingt minutes consécutives.
+
+Tout travailleur de nuit au sens du paragraphe 73.2.1 ci-dessus dont la durée quotidienne de travail dérogera à la durée maximale de travail de huit heures, en application des dispositions du paragraphe 73.2.2.1 ci-dessus, bénéficiera d'une pause supplémentaire de dix minutes.
+
+Par exception, le temps de pause quotidien et le cas échéant le temps de pause supplémentaire des travailleurs de nuit sont considérés comme du temps de travail effectif et rémunérés comme tel.
+
+73.2.2.3.   Contreparties accordées au travailleur de nuit
+
+73.2.2.3.1.   Repos de compensation
+
+Durée du repos de compensation
+
+La durée du repos de compensation du travailleur de nuit tel que défini à l'article 73.2.1 est égale à 2 % des heures de nuit accomplies entre 21 h et 6 h, la durée dudit repos calculée est prise par application du tableau suivant :
+
+Nombre d'heures de travail de nuit accomplies
+
+(2)
+
+|
+
+Nombre de jours de repos de compensation |
+
+De 160 à 269 |
+
+0,5 |
+
+De 270 à 349 |
+
+1 |
+
+De 350 à 524 |
+
+1,5 |
+
+De 525 à 674 |
+
+2 |
+
+De 675 à 870 |
+
+2,5 |
+
+De 871 à 1 050 |
+
+3 |
+
+De 1 051 à 1 220 |
+
+3,5 |
+
+De 1 221 à 1 400 |
+
+4 |
+
+À partir de 1 401 |
+
+4,5 |
+
+Le repos de compensation prévu ci-dessus ne se cumule pas avec toute contrepartie ayant le même objet existant d'ores et déjà au niveau de l'entreprise ou de l'établissement.
+
+Prise du repos de compensation
+
+Les repos acquis en compensation de l'accomplissement d'un travail de nuit devront être pris par demi-journée minimum, dans un délai maximum de six mois à compter de l'acquisition du nombre d'heures permettant la prise d'une demi-journée de repos.
+
+(2)
+
+Les demandes de prise de ces jours doivent être déposées au moins un mois à l'avance. La direction fera connaître dans les quinze jours du dépôt de la demande soit son accord soit, si les nécessités de service ne permettent pas d'accorder le repos le jour sollicité, la proposition d'une autre date.
+
+L'employeur doit informer le salarié sur les prises de repos et lui fournir un état du nombre de jours de repos de compensation à prendre.
+
+Indemnisation d'une fraction du repos de compensation acquis
+
+1.   À la cessation du contrat de travail ou arrêt du travail de nuit pour un travailleur de nuit
+
+En cas de cessation du contrat de travail pour quelque cause que ce soit, le repos non pris à l'expiration du contrat de travail sera indemnisé au moyen du versement d'une indemnité compensatrice de repos de compensation.
+
+2.   En cours du contrat de travail
+
+Le travailleur de nuit peut renoncer à son initiative, par écrit, à la prise d'une fraction du repos de compensation acquis.
+
+Afin de garantir à chaque intéressé la prise d'un repos minimal au titre de chaque année civile, l'exercice du droit de renonciation précité est limité à la fraction du repos de compensation acquis sur ladite période excédant un jour de repos.
+
+La renonciation peut porter sur tout ou partie de la fraction du repos de compensation acquis sur ladite période excédant le repos de compensation minimum défini ci-dessus. La renonciation écrite du salarié précise la fraction de repos de compensation à laquelle il renonce. Cette renonciation est définitive.
+
+En contrepartie de cette renonciation, le salarié perçoit une indemnité compensatrice de repos de compensation dont le montant est calculé sur la base du taux horaire brut de l'intéressé, au prorata du repos auquel il renonce.
+
+73.2.2.3.2.   Améliorations des conditions de travail
+
+Pour l'organisation des horaires du personnel de nuit, les entreprises devront veiller dans toute la mesure du possible, à ce que le passage d'une équipe de nuit à une équipe du matin, s'effectue après un repos hebdomadaire de deux jours consécutifs.
+
+Le nombre hebdomadaire de postes de nuit consécutifs est limité à cinq.
+
+Chaque entreprise doit comporter un espace de repos installé à proximité des services ou ateliers, au sein desquels travaillent des travailleurs de nuit. Cet espace doit comporter l'aménagement nécessaire pour permettre aux travailleurs de nuit de prendre un repas chaud pendant leur temps de pause.
+
+L'espace repos doit également permettre aux travailleurs de nuit de consulter les informations concernant l'entreprise et de déposer dans une boite aux lettres, ou par tout moyen équivalent, toute demande à la direction.
+
+Pour faciliter la communication du personnel de nuit avec les institutions représentatives du personnel, celles-ci ont la faculté d'installer dans cet espace repos des boites aux lettres ou tout autre moyen de communication équivalent.
+
+Les salariés travailleurs de nuit ont la faculté, à leur demande, d'être reçus au moins une fois par an par un responsable de leur service.
+
+Dans le cadre du rapport annuel tel que défini par l'article L. 2312-27 du code du travail, et soumis au CSE, la question du travail de nuit est traitée spécifiquement.
+
+73.2.2.3.3.   Retour sur un poste de jour
+
+Priorité de retour sur un poste de jour : les travailleurs de nuit qui souhaitent occuper ou reprendre un poste de jour dans le même établissement ou à défaut, dans la même entreprise, ont priorité pour l'attribution d'un emploi ressortissant à leur catégorie professionnelle ou d'un emploi équivalent. L'employeur doit porter à la connaissance des salariés la liste des emplois disponibles correspondants.
+
+Lorsque le retour sur un poste de jour sera demandé par l'employeur, les modalités de ce retour devront être discutées en amont, dans un délai raisonnable permettant à l'employeur et au salarié de s'organiser. Le travailleur de nuit bénéficiera alors durant les 3 premiers mois suivants son retour à un poste de jour, du maintien de sa rémunération mensuelle brute (indemnité repas et majorations relatives au travail de nuit prévues à l'article 73.1.2 incluses) calculée sur la moyenne de sa rémunération mensuelle brute (indemnité repas et majorations relatives au travail de nuit incluses) des 12 derniers mois d'activité.
+
+Possibilité de transfert à un poste de jour pour raisons familiales impérieuses : lorsque le travail de nuit est incompatible avec des obligations familiales impérieuses, telles que la garde d'un enfant ou la prise en charge par le salarié d'une personne dépendante, le salarié peut demander son affectation sur un poste de jour.
+
+Transfert à un poste de jour pour raisons médicales : lorsque son état de santé, constaté par le médecin du travail l'exige, le travailleur de nuit doit être transféré à titre définitif ou temporaire sur un poste de jour correspondant à sa qualification et aussi comparable que possible à l'emploi précédemment occupé.
+
+L'employeur ne peut prononcer la rupture de contrat du travailleur de nuit du fait de son inaptitude médicale au travail de nuit, à moins qu'il ne justifie par écrit soit de l'impossibilité dans laquelle il se trouve de proposer un autre poste, soit du refus du salarié d'accepter le poste proposé.
+
+73.2.2.3.4.   Protection des femmes enceintes
+
+Conformément à l'article L. 1225-9 du code du travail, un régime de protection des femmes enceintes ou ayant accouché travaillant de nuit est mis en place.
+
+Cette protection se traduit, pour les intéressées, par un droit au transfert sur un poste de jour et, en l'absence d'une telle possibilité de reclassement, par la suspension de leur contrat de travail assortie d'une garantie de rémunération dans les conditions de l'article L. 1225-14 du code du travail.
+
+Le changement d'affectation ne doit entraîner aucune diminution de la rémunération.
+
+73.2.2.3.5.   Surveillance médicale des travailleurs de nuit
+
+Les travailleurs de nuit bénéficient d'un suivi régulier renforcé de leur état de santé. À cet égard, les travailleurs de nuit bénéficient d'une visite d'information et de prévention réalisée par un professionnel de santé du service de santé au travail mentionné au premier alinéa de l'article L. 4624-1 du code du travail, préalablement à leur affectation à leur poste de travail.
+
+À l'issue de cette visite, les travailleurs de nuit bénéficient de modalités de suivi adaptées déterminées dans le cadre du protocole élaboré par le médecin du travail, selon une périodicité qui n'excède pas une durée de 3 ans.
+
+Le médecin du travail doit prodiguer à l'entreprise tous conseils sur la façon de réduire ou d'éviter les problèmes de santé associés au travail de nuit.
+
+Compte tenu des répercussions du travail de nuit sur la santé des travailleurs qui y sont soumis, le médecin du travail doit être consulté avant toute décision importante relative à la mise en place ou à la modification de l'organisation du travail de nuit.
+
+Le médecin du travail informe les salariés soumis au travail de nuit, plus particulièrement les femmes enceintes et les travailleurs vieillissants, des incidences potentielles du travail de nuit sur la santé. Cette information tient compte de la spécificité des horaires, fixes ou alternés. Il les conseille sur les précautions éventuelles à prendre.
+
+Par ailleurs, conformément à l'article R. 3122-12 du code du travail, le médecin du travail est informé par l'employeur de toute absence, pour cause de maladie, des travailleurs de nuit.
+
+73.3.
+
+Dispositions communes applicables au travail de nuit et aux travailleurs de nuit
+
+73.3.2.   Accord du salarié pour le passage à un horaire de nuit
+
+Le passage d'un horaire de jour à un horaire de nuit, même temporaire, est soumis à l'accord exprès de l'intéressé.
+
+73.3.3.   Sécurité
+
+Les entreprises devront être particulièrement attentives à la protection des travailleurs de nuit notamment en évitant l'isolement des travailleurs ou lorsque cela n'est pas possible en prévoyant des dispositifs de communication ou d'alarme appropriés.
+
+73.3.4.   Développement de l'utilisation des transports collectifs
+
+Dans le but de favoriser l'utilisation des transports collectifs, les entreprises sont invitées à étudier, en liaison avec le CSE, s'il existe, à défaut avec les intéressés, les adaptations d'horaires susceptibles de rendre ceux-ci davantage compatibles avec les horaires des moyens de transport collectifs desservant, le cas échéant, l'entreprise.
+
+73.3.5.   Égalité professionnelle entre les hommes et les femmes
+
+Les parties signataires rappellent leur volonté de favoriser l'égalité professionnelle entre les hommes et les femmes et engagent les entreprises à être vigilantes sur l'application de ce principe en matière d'embauche, de rémunération, de formation professionnelle et d'évolution de carrière pour les salariés occupant un poste de travail comportant du travail de nuit.
+
+Les parties précisent que leurs engagements en matière de d'égalité professionnelle entre les hommes et les femmes résultent des dispositions de l'accord de branche signé le 11 octobre 2012 en la matière ainsi que son avenant n° 1 signé le 2 juillet 2021.
+
+73.3.6.   Formation professionnelle
+
+La formation professionnelle doit être privilégiée et développée pour tous les salariés.
+
+Les entreprises devront porter une attention particulière aux travailleurs de nuit et aux salariés occupant un poste de travail comportant du travail de nuit afin que ces derniers bénéficient des actions comprises dans le plan de développement des compétences de l'entreprise, au titre du Projet de transition professionnelle et de la validation des acquis de l'expérience (VAE).
+
+Les conditions d'accès à la formation du personnel de nuit seront examinées lors de la consultation du CSE sur le plan de formation professionnelle.
+
+Les parties précisent que leurs engagements en matière de formation professionnelle résultent des dispositions des accords interbranches intervenus en la matière.
+
+73.3.7.   Représentation du personnel
+
+Le travail de nuit ne doit pas constituer un obstacle à l'exercice du droit syndical et à l'exercice des mandats des institutions représentatives du personnel. A cet effet, les entreprises seront attentives à faciliter la conciliation de ces responsabilités avec l'activité professionnelles des salariés concernés. »
+
+(*) Sauf accord d'établissement ou d'entreprise prévoyant une période différente (article 73.1).
+
+(1) A l'article 73-2-1, les termes « (*) sauf accord d'établissement ou d'entreprise prévoyant une période différente (article 73.1) » sont exclus de l'extension en tant qu'ils contreviennent aux dispositions de de l'article L. 3122-16 du code du travail.
+
+(Arrêté du 14 décembre 2022 - art. 1)
+
+(2) A l'article 73.2.2.3.1, le terme « accomplies » figurant dans le titre de la première colonne du tableau ainsi que les termes « à compter de l'acquisition du nombre d'heures permettant la prise d'une demi-journée de repos » figurant au 5e alinéa sont étendus sous réserve du respect des dispositions de l'article L. 3122-5 du code du travail telles qu'interprétées par la Cour de cassation.
+
+(Arrêté du 14 décembre 2022 - art. 1)
