@@ -154,6 +154,12 @@ Modéré
 
 Nota. - Probabilité et gravité sont évaluées conformément à l'arrêté ministériel du 29 septembre 2005 relatif à l'évaluation et à la prise en compte de la probabilité d'occurrence, de la cinétique, de l'intensité des effets et de la gravité des conséquences des accidents potentiels dans les études de dangers des installations classées soumises à autorisation.
 
+6. Mesures de maîtrise des risques.
+
+Document récapitulatif des mesures de maîtrise des risques figurant dans l'étude de dangers.
+
+Ce document indique a minima l'identification de la mesure en référence à l'étude de dangers, son objectif, son niveau de confiance, son efficacité, son action et les scénarios sur lesquels elle intervient, la cinétique de mise en œuvre de la réponse attendue, les critères de pérennité et, le cas échéant, les critères d'indépendance vis-à-vis des autres mesures de maîtrise des risques participant à la maîtrise du même phénomène dangereux.
+
 II. - Informations complémentaires
 
 pour les seuls établissements seuil haut
