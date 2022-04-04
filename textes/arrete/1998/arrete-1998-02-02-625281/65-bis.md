@@ -1,0 +1,37 @@
+# Article 65 bis
+
+Surveillance des eaux souterraines en contexte de pollution.
+
+Les installations présentant une pollution des eaux souterraines du fait de leur activité respectent, sans préjudice des obligations encadrant les ouvrages de surveillance au titre de la loi sur l'eau (en particulier les articles L. 241-1 à L. 214-6 du code de l'environnement) et sans préjudice des obligations de gestion de cette pollution, les dispositions suivantes :
+
+1° La mise en place de la surveillance des eaux souterraines s'appuyant sur une étude hydrogéologique préalable, ou sur la mise à jour d'une étude antérieure, considérant le contexte propre au site (état naturel et les éventuels aménagements du site ayant une incidence sur le contexte hydrogéologique), les substances pertinentes à surveiller (substances fabriquées, utilisées, stockées, etc.) compte tenu de l'activité actuelle et passée de l'installation ainsi que les enjeux et les usages associés aux eaux souterraines sur le site de l'installation et aux alentours de ce dernier.
+
+2° L'étude hydrogéologique préalable définit les nappes d'eau souterraine à surveiller en fonction de leur vulnérabilité et en tenant compte des activités et pratiques réalisées au droit de l'installation. Chaque nappe souterraine à surveiller est dotée d'un plan de surveillance basé sur l'étude hydrogéologique préalable. Ce plan précise en particulier :
+
+-le nombre, le lieu et les caractéristiques des ouvrages : trois ouvrages au moins sont implantés dont un en amont hydraulique, les deux autres en aval hydraulique de l'installation soumise à surveillance, de sorte que les trois ouvrages ne soient pas alignés ;
+
+-les protocoles d'échantillonnage (prélèvements et mesures) et d'analyses, les paramètres pertinents à mesurer ainsi que les critères retenus pour l'identification d'un impact, ces critères pouvant s'appuyer sur les résultats d'un ouvrage implanté en amont hydraulique ou hors zone d'influence de l'installation ;
+
+-la fréquence de surveillance : au moins deux fois par an, si possible dans des configurations hydrogéologiques contrastées.
+
+3° Les ouvrages sont mis en place de manière à éviter les zones sources pour ne pas risquer la dispersion de la pollution et limiter le risque de pollutions croisées. Dans le cas d'un aquifère multicouches, les ouvrages ne mettent pas en communication deux aquifères/ nappes séparés par un niveau imperméable et continu. Les ouvrages sont convenablement repérés et entretenus. L'étude hydrogéologique préalable vise à apporter tous les éléments de démonstration des mises en communication naturelle, ou de leur absence, entre aquifères.
+
+Les positions et longueurs de crépines sont justifiées au regard des aquifères surveillés, des amplitudes du niveau d'eau, du type de polluant recherché et de l'éloignement à la source de pollution.
+
+Tous les ouvrages sont nivelés par un géomètre et raccordés au système de nivellement général français (NGF). Le repère du nivellement est clairement identifié de manière pérenne sur la tête de l'ouvrage et est mentionné sur tous les documents lors des mesures ou échantillonnages. Les coupes techniques et géologiques associées à chaque nouvel ouvrage sont conservées.
+
+L'exploitant fait inscrire les ouvrages de surveillance à la Banque du Sous-Sol du BRGM.
+
+4° Les prélèvements (incluant, le cas échéant, une purge préalable des ouvrages), le conditionnement et l'analyse des échantillons d'eau sont effectués conformément aux méthodes normalisées en vigueur pour la gestion des sites et sols pollués, en particulier pour le prélèvement et l'analyse des échantillons d'eau
+
+La mesure de l'altitude du niveau piézométrique (ou niveau de la nappe) est réalisée à chaque campagne afin d'identifier l'amont et l'aval hydraulique.
+
+Les eaux générées par la surveillance (purge, prélèvement, lavage, rinçage du matériel, etc.) sont, selon les contextes et possibilités techniques liés au site : rejetées au réseau d'assainissement (eaux usées ou eaux pluviales avec une convention de rejet établie avec l'exploitant du réseau), rejetées dans une station de traitement présente sur site, éliminées en centres agréés, ou rejetées dans le milieu naturel (avec, si nécessaire, une autorisation au titre de la loi sur l'eau).
+
+5° Lorsqu'une surveillance des eaux souterraines en contexte de pollution est en place, un bilan quadriennal est réalisé conformément aux méthodes normalisées en vigueur. Ce bilan récapitule l'ensemble des résultats collectés depuis la mise en place de la surveillance et en analyse la dynamique.
+
+L'étude hydrogéologique est alors réexaminée et, si nécessaire, révisée en vue de vérifier les éventuelles évolutions du contexte et des enjeux. Les résultats collectés et la révision de l'étude hydrogéologique peuvent conduire à modifier le plan de surveillance, en l'allégeant, voire en l'arrêtant, ou en le renforçant suivant la nature des évolutions constatées. Tout arrêt ou modification est conditionnée à un avis de l'inspection des installations classées.
+
+Si un ouvrage n'est plus jugé pertinent dans le cadre de la surveillance de l'installation, il est comblé il est comblé par des techniques appropriées, conformément aux méthodes normalisées en vigueur, permettant de garantir l'absence de circulation d'eau entre les différentes nappes d'eau souterraine contenues dans les formations géologiques aquifères traversées et l'absence de transfert de pollution. Le rapport de travaux de comblement est communiqué au préfet.
+
+L'exploitant assure la traçabilité et la pérennité de la conservation des données dans le cadre de la surveillance des eaux souterraines.
