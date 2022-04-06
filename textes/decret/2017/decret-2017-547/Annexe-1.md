@@ -60,7 +60,7 @@ Ministère de l'économie et des finances
 
 Ministère de l'environnement
 
-- directeur général des infrastructures, des transports et de la mer ;
+- directeur général des infrastructures, des transports et des mobilités ;
 
 - directeur général de l'énergie et du climat ;
 
