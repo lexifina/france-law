@@ -4,9 +4,9 @@ Lorsque le domicile réel ou le siège social du bénéficiaire des revenus est 
 
 Toutefois, ce prélèvement n'est pas applicable :
 
-1° Aux lots et primes de remboursement visés au 3° de l'article 157 du code précité ;
+1° (Abrogé) ;
 
-1° bis Aux primes de remboursement visées au 3° bis de l'article 157 du même code.
+1° bis (Abrogé) ;
 
 2° Aux intérêts des dépôts en devises effectués auprès des établissements de crédit installés en France ;
 
