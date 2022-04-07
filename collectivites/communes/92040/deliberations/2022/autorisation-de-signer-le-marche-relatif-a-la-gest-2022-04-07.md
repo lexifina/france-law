@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer le marché relatif à la gestion de la population animale et des nuisibles – lot n°5 du marché MA2001
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-04-07
+- Matière : HYGIENE ET SECURITE
+- Objet : Autorisation de signer le marché relatif à la gestion de la population animale et des nuisibles – lot n°5 du marché MA2001
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUwOTYsInB1ciI6ImJsb2JfaWQifX0=--eff822643c7bddf63eda6ce1db3fd28eb5729cec/070422_24.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
