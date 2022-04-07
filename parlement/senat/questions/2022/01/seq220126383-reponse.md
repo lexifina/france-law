@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220126383
+
+- Question : [SEQ220126383](seq220126383.md) — Passe vaccinal pour les Français établis hors de France
+
+## Réponse
+
+*Tourisme, Français de l'étranger, francophonie, petites et moyennes entreprises, JO du 2022-04-07, page 1888*
+
+Les vaccins non reconnus ni par l'Organisation Mondiale de la Santé (OMS) ni par l'Agence européenne du médicament (AEM) ne donnent pas accès au passe vaccinal. Aussi, les personnes ayant un schéma vaccinal considéré comme complet dans les pays utilisant ces vaccins, sont considérées comme non vaccinées pour la France, et doivent amorcer un nouveau parcours vaccinal. Toutefois, afin de ne pas pénaliser nos compatriotes se trouvant dans cette situation, la France a fait le choix de vacciner ses communautés à l'étranger, dans tous les pays où les vaccins reconnus par l'AEM ne sont pas disponibles dans des délais raisonnables et par lesquels une autorisation des autorités locales a été obtenue. Depuis le 2 mai 2021, et grâce au concours du ministère des Solidarités et de la Santé ainsi que de la task force vaccins, les premières doses ont été envoyées à Madagascar, puis en Inde et dans près de 70 pays. Lorsque le schéma vaccinal réalisé implique au moins une injection faite en dehors du territoire français, il sera nécessaire de convertir les preuves de vaccination en utilisant la plateforme https://www.demarches-simplifiees.fr/commencer/passe-sanitaire-francais-de-l-etranger. Ils pourront alors bénéficier d'un passe vaccinal au format DCC UE valable sur le territoire français. Depuis le 14 mars 2022, le passe vaccinal est suspendu en France. Cependant, il reste obligatoire dans les établissements de santé et médico-sociaux et demeure requis lors de certains voyages, permettant notamment d'être dispensé de test en provenance de pays classés verts ou oranges.
