@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220226573
+
+- Question : [SEQ220226573](seq220226573.md) — Sépulture des soldats « morts pour la France »
+
+## Réponse
+
+*Mémoire et anciens combattants, JO du 2022-04-07, page 1877*
+
+En application de l'article L.522-1 du code des pensions militaires d'invalidité et des victimes de guerre (CPMIVG), les tombes des militaires titulaires de la mention « Mort pour la France » sont entretenues à titre perpétuel aux frais de l'Etat. Les familles qui demandent la restitution du corps de leur proche tué au combat en vue de l'inhumer dans une concession familiale doivent en assumer l'entretien conformément au code général des collectivités territoriales (CGCT). En cas d'abandon de l'entretien de ces tombes par les familles, il revient aux communes d'en assurer l'entretien ou d'en disposer en transférant les restes mortels dans l'ossuaire communal sous peine, le cas échéant, d'engager leur responsabilité (articles L.2213-8 et L.2213-9 du CGCT). Il est rappelé que le CGCT ne prévoit aucune distinction entre civils et militaires dès lors que les tombes relèvent du droit commun. Certaines communes veillent le plus souvent à préserver la mémoire de ces militaires en apposant sur l'ossuaire une plaque avec le nom du défunt et faisant état de sa qualité de « Mort pour la France ». Les communes qui rencontrent des difficultés pour préserver les tombes des « Morts pour la France » ont la possibilité de se rapprocher d'associations comme celle du Souvenir Français qui s'est notamment fixé comme mission principale de sauvegarder ces tombes en contribuant à leur entretien sans considération de leur statut juridique. Ces dispositions permettent ainsi d'offrir une protection à l'ensemble des sépultures abritant les corps des militaires « Morts pour la France » dans le respect de l'option choisie par les familles quant au lieu d'inhumation.
