@@ -1,0 +1,8 @@
+# CENTRE COMMUNAL D'ACTION SOCIALE : délibération CPTEADMI2021 — COMPTE ADMINISTRATIF 2021 DU 07042022
+
+- Collectivité : CENTRE COMMUNAL D'ACTION SOCIALE
+- SIRET : 26290350300015
+- Date : 2022-04-07
+- Matière : 7.1 Finances locales/Divers
+- Objet : COMPTE ADMINISTRATIF 2021 DU 07042022
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
