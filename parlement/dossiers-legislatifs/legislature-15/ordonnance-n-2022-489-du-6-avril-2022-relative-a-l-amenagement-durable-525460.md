@@ -1,0 +1,32 @@
+# Ordonnance n° 2022-489 du 6 avril 2022 relative à l'aménagement durable des territoires littoraux exposés au recul du trait de côte
+
+- Type : ordonnance publiee
+- Législature : XVème législature
+- Ouvert le : 2022-04-07
+- Mis à jour le : 2022-05-04
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000045525460
+
+## Ordonnance n° 2022-489 du 6 avril 2022 relative à l'aménagement durable des territoires littoraux exposés au recul du trait de côte
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045522631
+
+## Rapport au Président de la République relatif à l'ordonnance n° 2022-489 du 6 avril 2022 relative à l'aménagement durable des territoires littoraux exposés au recul du trait de côte
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045522627
+
+## Ordonnance ratifiée par l’article 56 de la loi n° 2024-322 du 9 avril 2024 visant à l'accélération et à la simplification de la rénovation de l'habitat dégradé et des grandes opérations d'aménagement
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049392425
+
+## Documents
+
+- [Communiqué de presse du Conseil des ministres du 6 avril 2022](https://www.gouvernement.fr/conseil-des-ministres/2022-04-06#amenagement-durable-des-territoires-littoraux-exposes-au-rec) La ministre de la Transition écologique et la ministre déléguée auprès de la ministre de la Transition écologique, chargée du Logement, ont présenté une ordonnance relative à l’aménagement durable des territoires littoraux exposés au recul du trait de côte. L’adaptation des territoires littoraux au recul du trait de côte constitue un objectif majeur du Gouvernement. 1/5ème du littoral français est soumis à l’érosion. Cette érosion est un phénomène naturel, amplifié aujourd’hui par le changement climatique, avec la hausse du niveau des mers et l’augmentation de l’intensité des phénomènes climatiques extrêmes comme les tempêtes. Elle se traduit par un risque de submersion progressive du littoral menaçant les espaces naturels mais aussi les zones urbanisées. D’ici 2100, au moins 50 000 logements seront concernés. Ce changement est certain et les outils de protection, comme les digues, longtemps utilisés n’ont qu’une efficacité au mieux limitée face à ce phénomène. Le recul du trait de côte rend donc nécessaire la recomposition des territoires littoraux concernés en anticipant la relocalisation progressive de l’habitat et des activités affectés par l’érosion. A cet effet, la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets prévoit plusieurs dispositions visant notamment à mieux appréhender le phénomène de recul, mais aussi à renforcer l’information des acquéreurs et des locataires. La loi prévoit en outre de compléter ce dispositif par une habilitation à légiférer par ordonnance. Le projet d’ordonnance présenté crée un nouveau type de bail réel. Le bail réel d’adaptation à l’érosion côtière pourra être conclu entre un bailleur public et un preneur sur des ouvrages et bâtiments, situés dans les zones exposées au recul du trait de côte, pour une durée comprise entre 12 et 99 ans, permettant la poursuite de certaines activités, liées au tourisme ou à l’économie du littoral par exemple. Cet outil comprend un mécanisme de résiliation anticipée, en fonction de l’évolution de l’érosion, si la sécurité des personnes et des biens ne peut plus être assurée. Afin de prendre en compte les conditions d’acquisition du bien et de pouvoir financer les opérations de renaturation à terme, le preneur s’acquitte d’un prix à la signature du bail et d’une redevance pendant sa durée. Le prix de cession du bail est par ailleurs encadré pour prévenir des situations où les droits réels seraient cédés à une valeur disproportionnée au regard de la durée de vie résiduelle du bien. En outre, pour sécuriser et encadrer les conditions dans lesquelles la puissance publique pourra acquérir les biens exposés au recul du trait de côte, l’ordonnance définit une méthode d’évaluation de la valeur de ces biens à privilégier, à horizon de 30 ans. La valeur d’un bien immobilier est en priorité déterminée par comparaison, au regard des références locales de biens de même qualification et situés dans la même zone d’exposition à l’érosion. En l’absence de telles références, une décote proportionnelle à la durée de vie résiduelle prévisible peut être appliquée à la valeur d’un bien similaire, estimée hors zone d’exposition au recul du trait de côte. Enfin, l’ordonnance ouvre la possibilité de déroger à certaines dispositions de la loi littoral, notamment l’obligation de construire en continuité de l’urbanisation existante, lorsque ces dispositions empêchent la mise en oeuvre d’une opération de relocalisation de biens ou d’activités menacés dans des espaces moins soumis au recul du trait de côte. Ces dérogations, qui ont vocation à accompagner les territoires dans la gestion de leur politique d’aménagement face au défi du climat sont encadrées. Elles ne peuvent intervenir que dans le cadre d’un contrat de projet partenarial d’aménagement (PPA) ayant pour objet la recomposition spatiale du territoire d’une commune exposée au recul du trait de côte. Elles sont uniquement mobilisables lorsque les constructions, ouvrages ou installations menacés par l’évolution du trait de côte ne peuvent pas être relocalisés au sein ou en continuité de l’urbanisation existante, après accord du représentant de l’Etat dans le département ou du ministre chargé de l’urbanisme, et après avis de la commission départementale de la nature, des paysages et des sites. Ces dérogations ne peuvent pas être accordées en cas d’atteinte excessive à l’environnement ou aux paysages. Ces contrats de PPA sont d’ores et déjà expérimentés sur trois territoires pilotes (Lacanau, Gouville-sur-mer, et Saint-Jean-de-Luz), qui bénéficient d’un financement de 10 millions d’euros de France relance.
+- Dossiers législatifs
+  - [Dossier législatif du projet de loi de ratification](https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000045612886/)
+  - Assemblée nationale
+  - Sénat
+- Documents préparatoires
+  - [Fiche d'impact](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/fiches-d-impact-des-ordonnances-decrets-et-arretes/fiches-d-impact-ordonnances/2022/fi_trel2206322r_14042022.pdf)
+- Débats parlementaires
+  - Assemblée nationale
+  - Sénat
