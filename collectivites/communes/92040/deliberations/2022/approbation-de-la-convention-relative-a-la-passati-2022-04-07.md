@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la convention relative à la passation par la Société Publique Locale Seine Ouest Aménagement d’une concession de services pour la réalisation du projet « AAP H2 » (appel à projet hydrogène)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-04-07
+- Matière : URBANISME
+- Objet : Approbation de la convention relative à la passation par la Société Publique Locale Seine Ouest Aménagement d’une concession de services pour la réalisation du projet « AAP H2 » (appel à projet hydrogène)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzOTMsInB1ciI6ImJsb2JfaWQifX0=--5f8a04496cf52d56ad4f5abc9a6b34c96dc1ee3e/070422_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
