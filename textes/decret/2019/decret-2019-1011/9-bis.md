@@ -2,7 +2,7 @@
 
 Dispositions temporaires exceptionnelles.
 
-I.-Par dérogation aux troisième à septième alinéas de l'article 3, pour les contrats à durée déterminée à temps plein dont la date de début d'exécution se situe entre le 1er juillet 2021 et le 31 décembre 2021, le montant de l'aide est égal à :
+I.-Par dérogation aux troisième à septième alinéas de l'article 3, pour les contrats à durée déterminée à temps plein dont la date de début d'exécution se situe entre le 1er juillet 2021 et le 31 juillet 2022, le montant de l'aide est égal à :
 
 -466 euros par mois pour un contrat dont la durée est supérieure ou égale à un mois et inférieure à quatre mois ;
 
@@ -10,13 +10,13 @@ I.-Par dérogation aux troisième à septième alinéas de l'article 3, pour les
 
 -666 euros par mois pour un contrat dont la durée est supérieure ou égale à huit mois.
 
-II.-Par dérogation aux troisième à septième alinéas de l'article 3, une aide peut également être versée lorsque plusieurs contrats à durée déterminée sont exécutés sur des périodes discontinues avec le même employeur sur une période de 12 mois consécutifs à compter de la date de début d'exécution du premier contrat, dès lors que cette date intervient entre le 1er juillet 2021 et le 31 décembre 2021.
+II.-Par dérogation aux troisième à septième alinéas de l'article 3, une aide peut également être versée lorsque plusieurs contrats à durée déterminée sont exécutés sur des périodes discontinues avec le même employeur sur une période de 12 mois consécutifs à compter de la date de début d'exécution du premier contrat, dès lors que cette date intervient entre le 1er juillet 2021 et le 31 juillet 2022.
 
 L'octroi de cette aide est subordonné à la condition que l'employeur se soit engagé, par un contrat cadre, à la conclusion de l'ensemble de ces contrats à durée déterminée ou par une promesse d'embauche antérieure à l'exécution du premier contrat.
 
 Le montant mensuel de l'aide est calculé sur la base de la somme des durées des différents contrats à durée déterminée exécutés. La somme des durées des contrats exécutés ne peut être inférieure à un mois et est prise en compte pour le calcul défini au I.
 
-III.-Par dérogation aux troisième à septième alinéas de l'article 3, une aide peut également être versée pour l'embauche d'un salarié rémunéré au cachet entre le 1er juillet 2021 et le 31 décembre 2021 et lorsque la date d'exécution du premier cachet intervient entre le 1er juillet 2021 et le 31 décembre 2021. L'aide est versée dans les conditions suivantes :
+III.-Par dérogation aux troisième à septième alinéas de l'article 3, une aide peut également être versée pour l'embauche d'un salarié rémunéré au cachet entre le 1er juillet 2021 et le 31 juillet 2022 et lorsque la date d'exécution du premier cachet intervient entre le 1er juillet 2021 et le 31 juillet 2022. L'aide est versée dans les conditions suivantes :
 
 -lorsque le contrat prévoit un nombre de cachets supérieur ou égal à vingt-deux et inférieur à quarante-quatre sur une période inférieure à quatre mois, le montant de l'aide est égal à 21,18 € par cachet ;
 

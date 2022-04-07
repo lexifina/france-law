@@ -2,7 +2,7 @@
 
 Dispositions temporaires exceptionnelles.
 
-I.-Pour les représentations effectuées entre le 1er juillet 2021 et le 31 décembre 2021 :
+I.-Pour les représentations effectuées entre le 1er juillet 2021 et le 31 juillet 2022 :
 
 1° Par dérogation au premier alinéa de l'article 1er, la limite d'un million d'euros de chiffre d'affaires ou de bilan annuel est portée à cinq millions d'euros ;
 
@@ -18,7 +18,7 @@ I.-Pour les représentations effectuées entre le 1er juillet 2021 et le 31 déc
 
 Le bénéficiaire de l'aide tient à la disposition de l'Agence de services et paiement tout document permettant d'effectuer le contrôle de l'exactitude des déclarations figurant dans sa demande.
 
-II.-Par dérogation à l'article 3, pour chaque représentation ou répétition effectuée entre le 1er juillet 2021 et le 31 décembre 2021, le montant de l'aide versée est le produit du nombre d'artistes du spectacle, dans la limite de six, par le montant forfaitaire suivant :
+II.-Par dérogation à l'article 3, pour chaque représentation ou répétition effectuée entre le 1er juillet 2021 et le 31 juillet 2022, le montant de l'aide versée est le produit du nombre d'artistes du spectacle, dans la limite de six, par le montant forfaitaire suivant :
 
 1° Pour l'emploi d'un artiste du spectacle, 40 euros ;
 
@@ -34,7 +34,7 @@ II.-Par dérogation à l'article 3, pour chaque représentation ou répétition 
 
 Lorsqu'au moins un technicien est attaché à la production de la représentation, le nombre d'emplois pris en compte pour le calcul de l'aide est majoré d'une unité.
 
-III.-Par dérogation à l'article 2, peuvent faire l'objet de l'aide prévue à l'article 1er les représentations de spectacle vivant effectuées entre le 1er juillet 2021 au 31 décembre 2021 dont le nombre maximal de billets mis en vente par représentation, apprécié selon les modalités prévues par 2° du I du présent article, est supérieur à 300 et inférieur ou égal à 600.
+III.-Par dérogation à l'article 2, peuvent faire l'objet de l'aide prévue à l'article 1er les représentations de spectacle vivant effectuées entre le 1er juillet 2021 au 31 juillet 2022 dont le nombre maximal de billets mis en vente par représentation, apprécié selon les modalités prévues par 2° du I du présent article, est supérieur à 300 et inférieur ou égal à 600.
 
 Par dérogation à l'article 3, le montant de l'aide apportée aux représentations et aux répétitions de spectacles dont la jauge est supérieure à 300 et inférieure ou égale à 600 est calculé d'après les montants forfaitaires suivant :
 
