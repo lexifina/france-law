@@ -10,13 +10,13 @@ a) La copie de l'autorisation préalable ou définitive lorsque celle-ci a été
 
 b) Le contrat de distribution lorsque la demande est présentée par un distributeur ;
 
-c) L'acceptation, dûment renseignée et certifiée, de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public, avec mention du titre et de la durée de l'œuvre ;
+c) L'acceptation, dûment renseignée et certifiée, de l'œuvre par le ou les éditeurs de services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public ou le contrat de préachat, avec mention du titre et de la durée de l'œuvre ;
 
 d) Le cas échéant, le contrat de vente, pour des dépenses de doublage, de sous-titrage, de voix off et de reformatage ;
 
-e) Le cas échéant, l'offre d'achat ferme prévue à l'article 722-13 ;
+e) Pour le bénéfice de la dérogation prévue à l'article 722-13, l'offre ferme d'acquisition de droits d'exploitation de l'œuvre et, le cas échéant, les justificatifs attestant du montant des recettes d'exploitation ;
 
-f) Le contrat de vente pour le bénéfice de la dérogation prévue à l'article 722-6.
+f) Le contrat d'acquisition de droits d'exploitation de l'œuvre à l'étranger pour le bénéfice de la dérogation prévue au 1° de l'article 722-6 ;
 
 g) Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ;
 

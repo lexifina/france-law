@@ -1,21 +1,29 @@
 # Article Annexe 6-7-2
 
-Majoration pour les œuvres d'animation (article 621-26-1)
+ANNEXE 6-7-2
+
+AIDES SÉLECTIVES À LA PRODUCTION D'ŒUVRES CINÉMATOGRAPHIQUES OU AUDIOVISUELLES AYANT RECOURS À DES TECHNIQUES D'ANIMATION (ARTICLE 622-10)
 
 Liste des documents justificatifs :
 
-1° Une note d'intention détaillant la stratégie de diffusion de l'œuvre en France et à l'étranger, permettant d'en apprécier l'ambition et la pertinence au regard de la démarche artistique de création. Elle présente notamment le public cible de l'œuvre, les moyens mis en œuvre pour l'atteindre et justifie les choix artistiques et techniques effectués au regard de cette cible ;
+1° Une note d'intention artistique ;
 
-2° Tout élément visuel permettant de constater l'avancée du projet ;
+2° Le scénario précédé d'un synopsis court, et d'un synopsis long pour les formats longs ;
 
-3° En cas de modification depuis le dépôt du dossier de demande d'aide sélective :
+3° Une présentation de l'univers visuel ;
 
-Le devis complet de l'œuvre mis à jour.
+4° Le curriculum vitae des auteurs et artistes techniciens ;
 
-Le devis des prestataires spécialisés mis à jour.
+5° Une note sur le projet technique ;
 
-Le plan de financement prévisionnel complet mis à jour.
+6° Le devis des travaux de techniques d'animation ;
 
-La liste de l'équipe technique mise à jour.
+7° Une présentation des sociétés prestataires pour la réalisation des techniques d'animation ;
 
-Le scénario mis à jour.
+8° Une note sur la diffusion de l'œuvre, notamment sur le marché international ;
+
+9° Le devis détaillé de l'œuvre ;
+
+10° Le plan de financement prévisionnel de l'œuvre, accompagné le cas échéant de la décision d'attribution d'une première aide du Centre national du cinéma et de l'image animée ou d'une collectivité ;
+
+11° Une présentation des sociétés de production, de distribution ou ventes internationales.

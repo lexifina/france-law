@@ -1,35 +1,33 @@
 # Article Annexe 6-7-1
 
-Aides à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son (Article 621-24)
+ANNEXE 6-7-1
+
+AIDES SÉLECTIVES À LA PRODUCTION D'ŒUVRES CINÉMATOGRAPHIQUES OU AUDIOVISUELLES AYANT RECOURS À DES EFFETS VISUELS NUMÉRIQUES (ARTICLE 621-22)
 
 Liste des documents justificatifs :
 
-1° Une note d'intention artistique ;
+1° Une note expliquant l'apport des effets visuels numériques à la démarche artistique ;
 
-2° Une note d'intention technique et/ ou, pour les œuvres ayant recours aux techniques stéréoscopiques, une note d'intention du stéréographe ;
+2° Le scénario précédé d'un synopsis court, et d'un synopsis long pour les formats longs ;
 
-3° Une bible graphique ou références visuelles, storyboard et/ ou animatique ;
+3° Une présentation de l'univers visuel ;
 
-4° Eventuellement, une vidéo d'intention artistique et technique ;
+4° Le curriculum vitae des auteurs et artistes techniciens ;
 
-5° Eventuellement, DVD ou lien sur la ou les œuvres précédentes du réalisateur ;
+5° Une note sur le projet technique ;
 
-6° Le devis complet de l'œuvre, et dans le cas d'un pilote, un devis prévisionnel de l'œuvre définitive ;
+6° Le devis des travaux des effets visuels numériques ;
 
-7° Le devis des prestataires spécialisés ;
+7° Une présentation des sociétés prestataires réalisant les effets visuels numériques ;
 
-8° Un plan de financement prévisionnel complet, et dans le cas d'un pilote, un plan de financement prévisionnel de l'œuvre définitive ;
+8° Une note sur la diffusion de l'œuvre, notamment sur le marché international ;
 
-9° Le curriculum vitae du réalisateur et, le cas échéant, du stéréographe ;
+9° Le devis détaillé de l'œuvre ;
 
-10° La liste de l'équipe technique (chefs de postes) ;
+10° Le plan de financement prévisionnel de l'œuvre, accompagné le cas échéant de la décision d'attribution d'une première aide du Centre national du cinéma et de l'image animée ou d'une collectivité ;
 
-11° Le curriculum vitae de l'entreprise de production et, éventuellement, des sociétés prestataires ;
+11° Une présentation des sociétés de production, de distribution ou ventes internationales.
 
-12° Le scénario précédé du synopsis ;
+NOTA :
 
-13° Dans le cas d'un pilote, tous les éléments connus de l'œuvre définitive : continuité dialoguée, synopsis détaillé, version en cours du scénario, etc. ;
-
-14° Le cas échéant, la lettre d'attribution ou les justificatifs de demande d'une première aide du CNC ;
-
-15° Un extrait K bis (pour la première demande seulement sauf en cas de modifications).
+Conformément à l'article 41 de la délibération n° 2022/CA/02 du 31 mars 2022, ces dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de la présente délibération.
