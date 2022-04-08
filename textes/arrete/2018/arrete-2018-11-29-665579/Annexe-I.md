@@ -10,21 +10,23 @@ Points
 
 de NBI |
 
-Nombre d'emplois
+Nombre
 
-à forte responsabilité
+d'emplois
+
+à forte
+
+responsabilité
 
 (EFR) |
 
-Nombre d'emplois
+Nombre d'emplois de
 
-de conseiller
+conseiller d'administration
 
-d'administration
+de l'intérieur et
 
-de l'intérieur
-
-et de l'outre-mer
+de l'outre-mer
 
 (CAIOM) |
 
@@ -568,7 +570,7 @@ Chef du bureau de la modernisation et de valorisation des ressources humaines à
 
 1 |
 
-Adjoint au chef de projet pilotage des emplois de la police nationale |
+Adjoint au chef de projet " pilotage des emplois de la police nationale " |
 
 0 |
 
@@ -754,7 +756,7 @@ Chef du bureau de la réglementation et de la fonction militaire au sein de la s
 
 - |
 
-Adjoint au chef du bureau de l'analyse et de l'anticipation au sein de la sous-direction de la politique des ressources humaines. |
+Adjoint au chef du bureau de la rémunération et des pensions militaires au sein de la sous-direction de la politique des ressources humaines |
 
 20 |
 
@@ -838,25 +840,13 @@ Directions et services |
 
 Fonctions |
 
-Points
+Points de NBI |
 
-de NBI |
-
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1022,25 +1012,13 @@ Directions et services |
 
 Fonctions |
 
-Points
+Points de NBI |
 
-de NBI |
-
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1342,25 +1320,13 @@ Directions et services |
 
 Fonctions |
 
-Points
+Points de NBI |
 
-de NBI |
-
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1600,25 +1566,13 @@ Directions et services |
 
 Fonctions |
 
-Points
+Points de NBI |
 
-de NBI |
-
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1684,31 +1638,17 @@ Chef du service des ressources humaines |
 
 6° Périmètre juridictions administratives
 
-Juridiction
-
-administrative |
+Juridiction administrative |
 
 Fonctions |
 
-Points
+Points de NBI |
 
-de NBI |
-
-Nombre d'emplois
-
-à forte responsabilité
+Nombre d'emplois à forte responsabilité
 
 (EFR) |
 
-Nombre d'emplois
-
-de conseiller
-
-d'administration
-
-de l'intérieur
-
-et de l'outre-mer
+Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
 
 (CAIOM) |
 
@@ -1912,7 +1852,11 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre d'emplois de CAIOM |
+Total du nombre
+
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -1922,9 +1866,7 @@ Total du nombre d'emplois de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -2264,7 +2206,7 @@ de NBI |
 
 15 Cantal |
 
-- |
+1 |
 
 - |
 
@@ -2272,7 +2214,7 @@ de NBI |
 
 - |
 
-- |
+1 |
 
 3 |
 
@@ -2282,9 +2224,9 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
-- |
+1 |
 
 16 Charente |
 
@@ -2528,19 +2470,13 @@ de NBI |
 
 25 Doubs |
 
-- |
+1 |
 
 - |
 
 - |
 
-- |
-
-- |
-
-4 |
-
-- |
+1 |
 
 - |
 
@@ -2549,6 +2485,12 @@ de NBI |
 - |
 
 - |
+
+3 |
+
+- |
+
+1 |
 
 26 Drôme |
 
@@ -2744,27 +2686,27 @@ de NBI |
 
 34 Hérault |
 
-- |
+1 |
 
 - |
-
-- |
-
-- |
-
-- |
-
-6 |
 
 - |
 
 1 |
 
+- |
+
 5 |
 
 - |
 
+1 |
+
+3 |
+
 - |
+
+1 |
 
 35 Ille-et-Vilaine |
 
@@ -2922,7 +2864,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -2930,7 +2872,7 @@ de NBI |
 
 - |
 
-3 |
+2 |
 
 - |
 
@@ -3824,13 +3766,13 @@ de NBI |
 
 79 Deux-Sèvres |
 
--1 |
+1 |
 
 - |
 
 - |
 
-1- |
+1 |
 
 - |
 
@@ -4290,13 +4232,13 @@ de NBI |
 
 - |
 
-5 |
+4 |
 
 - |
 
 - |
 
-5 |
+4 |
 
 - |
 
@@ -4464,7 +4406,13 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre d'emplois de CAIOM |
+Total du
+
+nombre
+
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -4474,9 +4422,7 @@ Total du nombre d'emplois de CAIOM |
 
 20 points |
 
-Sans point
-
-de NBI |
+Sans point de NBI |
 
 01 Ain |
 
@@ -4984,15 +4930,15 @@ de NBI |
 
 31 Haute Garonne |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
 1 |
 
@@ -5054,17 +5000,41 @@ de NBI |
 
 - |
 
+34 Hérault |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
 35 Ille-et-Vilaine |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
 1 |
 
@@ -5149,6 +5119,30 @@ de NBI |
 1 |
 
 - |
+
+41 Loir-et-Cher |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1 |
+
+|
+
+1 |
+
+|
+
+|
+
+|
 
 42 Loire |
 
@@ -5800,7 +5794,7 @@ de NBI |
 
 79 Deux-Sèvres |
 
-|
+- |
 
 - |
 
@@ -6096,7 +6090,31 @@ de NBI |
 
 1 |
 
-|
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+972 Martinique |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
 
 1 |
 
@@ -6104,11 +6122,11 @@ de NBI |
 
 - |
 
-- |
-
-- |
-
 1 |
+
+- |
+
+- |
 
 974 La Réunion |
 
