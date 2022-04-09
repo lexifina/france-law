@@ -30,7 +30,7 @@ Décompte portant récapitulation des sommes déjà versées.
 
 2. Le cas échéant, justifications particulières exigées par la décision ;
 
-3. Le cas échéant, convention entre le bénéficiaire et la collectivité ou l'établissement (3).
+3. Le cas échéant, convention entre le bénéficiaire et la collectivité ou l'établissement (3)
 
 7212. Autres paiements
 
@@ -38,9 +38,9 @@ Décompte portant récapitulation des sommes déjà versées.
 
 2. Décompte portant récapitulation des sommes déjà versées.
 
-(2) Pour les collectivités territoriales, la décision prend la forme d'une délibération. Elle peut intervenir à l'occasion du vote du budget dans les conditions définies au deuxième alinéa de l'article L. 2311-7 du CGCT avec références sur le mandat au budget arrêtant le bénéficiaire et le montant. Elle peut aussi prendre la forme d'une délibération individualisée dans les conditions prévues au 1. Pour les subventions supérieures à 23 000 euros, la collectivité fournit soit une délibération individualisée comportant les informations prévues au 1, soit une délibération prise à l'occasion du vote du budget accompagnée de la ou des conventions conclue (s) entre le (s) bénéficiaire (s) et la collectivité ou l'établissement.
+(2) Pour les collectivités territoriales, la décision prend la forme d'une délibération. Elle peut intervenir à l'occasion du vote du budget dans les conditions définies au deuxième alinéa de l'article L. 2311-7 du CGCT avec références sur le mandat au budget arrêtant le bénéficiaire et le montant. Elle peut aussi prendre la forme d'une délibération individualisée dans les conditions prévues au 1. Pour les subventions supérieures à 23 000 euros (cf. article 10 de la loi n° 2000-321 du 12 avril 2000, art. 1er du décret n° 2001-495 du 6 juin 2001), la collectivité fournit soit une délibération individualisée comportant les informations prévues au 1, soit une délibération prise à l'occasion du vote du budget accompagnée de la ou des conventions conclue(s) entre le(s) bénéficiaire(s) et la collectivité ou l'établissement.
 
-S'agissant de la Corse, la décision est un arrêté du président du conseil exécutif ;
+S'agissant de la Corse, la décision est un arrêté du président du conseil exécutif.
 
 Pour les établissements publics de santé, la décision d'octroi relève du directeur.
 
@@ -84,9 +84,9 @@ Décision d'octroi d'une dotation supplémentaire.
 
 732. Avance en garantie
 
-1. Décision de l'assemblée délibérante précisant les caractéristiques de la garantie, et autorisant, par ailleurs, le cas échéant, l'exécutif à signer la convention et/ ou l'acte formalisant l'engagement.
+1. Décision de l'assemblée délibérante précisant les caractéristiques de la garantie, et autorisant, par ailleurs, le cas échéant, l'exécutif à signer la convention et/ou l'acte formalisant l'engagement.
 
-2. Le cas échéant, convention d'octroi (6) de la garantie et/ ou convention définissant notamment les modalités de concours entre les diverses collectivités ayant accordé leur garantie.
+2. Le cas échéant, convention d'octroi (6) de la garantie et/ou convention définissant notamment les modalités de concours entre les diverses collectivités ayant accordé leur garantie.
 
 3. Demande du prêteur fixant le montant de l'échéance non honorée par l'emprunteur à laquelle est joint le tableau d'amortissement du prêt.
 
@@ -118,7 +118,7 @@ Décision d'octroi d'une dotation supplémentaire.
 
 3. Titre de perception ou état visé pour valoir titre de perception émis par la collectivité gérant le fonds de concours.
 
-(8) Voir notamment les articles L. 5214-16, L. 5215-26, L. 5216-5 du code général des collectivités territoriales
+(8) Voir notamment les articles L. 5214-16, L. 5215-26, L. 5216-5 du code général des collectivités territoriales.
 
 77. Opérations pour le compte d'organismes rattachés à la collectivité
 
@@ -126,7 +126,7 @@ Décision d'octroi d'une dotation supplémentaire.
 
 Etat liquidatif fixant les bases de la liquidation et le montant des prestations ou charges dont le remboursement est demandé.
 
-(9) Il s'agit d'opérations de dépenses réciproques entre la collectivité et l'organisme rattaché à la collectivité
+(9) Il s'agit d'opérations de dépenses réciproques entre la collectivité et l'organisme rattaché à la collectivité.
 
 772. Opérations pour le compte de tiers
 
@@ -144,17 +144,17 @@ Etat liquidatif fixant les bases de la liquidation et le montant des prestations
 
 2. Le cas échéant (11), convention entre les collectivités intéressées fixant le montant de la participation,
 
-Ou
+ou
 
--délibérations concordantes des collectivités concernées,
+- délibérations concordantes des collectivités concernées ;
 
-Ou
+ou
 
--décision du (des) préfet (s) fixant le montant des contributions,
+- décision du (des) préfet(s) fixant le montant des contributions ;
 
-Ou
+ou
 
--décision de répartition des contributions entre les collectivités concernées prises par le département.
+- décision de répartition des contributions entre les collectivités concernées prises par le département.
 
 3. Titre de perception émis par la collectivité bénéficiaire de la contribution.
 
@@ -164,4 +164,4 @@ Titre de perception émis par la collectivité bénéficiaire de la contribution
 
 (10) Il s'agit notamment des participations versées entre collectivités pour certaines dépenses des EPLE.
 
-(11) Dans le cadre d'une participation légale obligatoire (cf. par exemple l'obligation résultant de l'article L. 212-2 du code de l'éducation ou les contingents incendie versés au SDIS), le comptable peut effectuer le règlement sur la base de la seule production du titre de perception émis par la collectivité bénéficiaire.
+(11) Dans le cadre d'une participation légale obligatoire (cf. par exemple l'obligation résultant de l'article L. 212-2 du code de l'Education ou les contingents " incendie " versés au SDIS), le comptable peut effectuer le règlement sur la base de la seule production du titre de perception émis par la collectivité bénéficiaire.

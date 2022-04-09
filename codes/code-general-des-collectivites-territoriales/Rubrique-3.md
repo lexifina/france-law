@@ -8,31 +8,25 @@ Rubrique 3-Dépenses liées à l'exercice de fonctions électives ou de représe
 
 3111. Premier paiement
 
-1. Délibération fixant les conditions d'octroi de l'indemnité et son montant.
+1. Délibération fixant les conditions d'octroi de l'indemnité et son montant (1).
 
 2. Le cas échéant, arrêté de délégation de fonction.
 
-3. Le cas échéant (1), déclaration de l'élu désignant la collectivité ou l'établissement chargé d'opérer la retenue.
+3. Pièces prévues pour les paiements ultérieurs.
 
-4. Les cas échéant, délibération désignant l'élu bénéficiaire de la part écrêtée.
-
-5. Pièces prévues pour les paiements ultérieurs.
+(1) Cette pièce n'est pas exigée pour les indemnités des maires automatiquement fixées au taux plafond.
 
 3112. Paiements ultérieurs
 
-1. Etat liquidatif précisant le montant brut de l'indemnité, le montant des précomptes, le montant net versé.
+Etat liquidatif précisant :
 
-2. Mention de la base imposable et de l'impôt dû dans l'état liquidatif de la retenue à la source, accompagné, le cas échéant (1), des informations relatives aux indemnités versées par les collectivités non-retenues pour effectuer la retenue à la source
+- le montant brut de l'indemnité ;
 
-Ou
+- le montant des indemnités soumis aux précomptes, les taux et les montants de ces précomptes ;
 
-Déclaration d'option pour l'imposition des indemnités à l'impôt sur le revenu
+- l'assiette, le taux et le montant de la retenue à la source prévue au 1° du 2 de l'article 204 A du code général des impôts ;
 
-Ou
-
-en cas de cumul de mandats, déclaration du choix de la collectivité chargée d'effectuer la liquidation de la retenue.
-
-(1) Lorsque qu'en cas de cumul de mandats, le comptable qui verse l'indemnité est celui de la collectivité ou de l'établissement désigné pour opérer la retenue à la source.
+- le montant net versé.
 
 312. Indemnité d'un membre du conseil économique et social régional
 
@@ -50,61 +44,45 @@ en cas de cumul de mandats, déclaration du choix de la collectivité chargée d
 
 2. Pièce(s) particulière(s) exigée(s) par la délibération.
 
-313. Indemnités forfaitaires des administrateurs des Offices Publics de l'Habitat
-
-3131. Premier paiement
-
-1. Décision du conseil d'administration fixant le montant de l'indemnité forfaitaire.
-
-2. Pièces prévues pour les paiements ultérieurs.
-
-3132. Paiements ultérieurs
-
-Convocation
-
-Et
-
-Attestation de l'employeur précisant le nombre d'heures perdues par l'intéressé.
-
-314. Indemnités du président, du vice-président ou des membres du syndicat d'une association syndicale de propriétaires
+313. Indemnités du président, du vice-président ou des membres du syndicat d'une association syndicale de propriétaires
 
 1. Délibération de l'assemblée des propriétaires en fixant le principe et le montant.
 
-2. État liquidatif.
+2. Etat liquidatif.
 
-315. Frais de représentation (2)
+314. Frais de représentation (2)
 
 1. Délibération précisant le montant plafond et la nature des frais pris en charge ou le montant forfaitaire alloué à l'élu.
 
 2. Lorsque l'indemnité n'est pas versée sous une forme forfaitaire :
 
-– factures ;
+- factures ;
 
-– état de consommation des crédits.
+- état de consommation des crédits.
 
 (2) L'organe délibérant peut :
 
-– soit instaurer le versement d'une somme forfaitaire non subordonnée à la production de justificatifs des frais exposés ;
+- soit instaurer le versement d'une somme forfaitaire non subordonnée à la production de justificatifs des frais exposés ;
 
-– soit instituer une dotation permettant la prise en charge directe des frais par la collectivité elle-même ou le remboursement, le cas échéant sous forme forfaitaire, des dépenses de représentation exposées et dûment justifiées. Dans ces hypothèses, un état de consommation de crédit permet de suivre l'emploi de la dotation votée par l'organe délibérant.
+- soit instituer une dotation permettant la prise en charge directe des frais par la collectivité elle-même ou le remboursement, le cas échéant sous forme forfaitaire, des dépenses de représentation exposées et dûment justifiées. Dans ces hypothèses, un état de consommation de crédit permet de suivre l'emploi de la dotation votée par l'organe délibérant.
 
-316. Charges sociales
+315. Charges sociales
 
-Décompte indiquant notamment l'assiette, le taux et le montant des charges à payer
+Décompte indiquant notamment l'assiette, le taux et le montant des charges à payer,
 
-Ou
+ou
 
-Etat de redressement suite à un contrôle
+Etat de redressement suite à un contrôle,
 
-Ou
+ou
 
 Pour le remboursement à un élu d'un trop prélevé :
 
-– décision précisant l'objet du remboursement ;
+- décision précisant l'objet du remboursement ;
 
-– décompte.
+- décompte.
 
-32.Remboursements de frais (3)
+32. Remboursements de frais (3)
 
 (3) Les dépenses réglées directement par la collectivité à des prestataires relèvent de la rubrique 4.
 
@@ -116,13 +94,17 @@ Délibération accordant un mandat spécial.
 
 3212. Pièces particulières
 
-1. Frais de déplacement et de mission : voir rubrique 312.
+1. Frais de déplacement et de mission :
+
+- le cas échéant, délibération ;
+
+- état de frais.
 
 2. Frais d'aide à la personne et autres frais.
 
-– Le cas échéant (4), délibération.
+- le cas échéant (4), délibération ;
 
-– Etat de frais.
+- état de frais.
 
 (4) Si la décision donnant mandat spécial n'a pas décidé de la prise en charge de ces frais.
 
@@ -130,7 +112,7 @@ Délibération accordant un mandat spécial.
 
 Etat de frais (voir annexe A de la présente liste).
 
-323. Indemnités de déplacement et frais de transport des administrateurs des OPH ou des représentants des associations syndicale de propriétaires
+323. Indemnités de déplacement et frais de transport des représentants des associations syndicales de propriétaires
 
 1. Décision du conseil d'administration fixant les conditions de versement des indemnités et frais.
 
@@ -140,11 +122,11 @@ Etat de frais (voir annexe A de la présente liste).
 
 (5) Lorsque les indemnités kilométriques compensatrices des frais de transport ne sont pas celles fixées pour les fonctionnaires.
 
-324. Frais de déplacement et de mission des administrateurs des EPS ET EPSMS
+324. Frais de déplacement et de mission des administrateurs des EPS et EPSMS
 
-Pièces prévues pour le cas (g) de la rubrique 2251.
+Pièces prévues pour le cas g) de la rubrique 22512.
 
-325.Dépenses exceptionnelles d'aide et de secours
+325. Dépenses exceptionnelles d'aide et de secours
 
 1. Délibération décidant du remboursement des frais d'assistance ou de secours engagés par l'élu.
 
@@ -154,7 +136,7 @@ Pièces prévues pour le cas (g) de la rubrique 2251.
 
 1. Délibération fixant les conditions du droit à remboursement.
 
-2. Etat de frais.
+2. Selon les cas, état de frais ou état liquidatif.
 
 327. Frais spécifiques des élus en situation de handicap
 
@@ -172,7 +154,7 @@ Etat de frais précisant les frais engagés mensuellement.
 
 Etat liquidatif précisant, le motif de la perte de revenu, le nombre d'heures compensées et le nombre total d'heures compensées soit au titre de l'année civile soit au titre de la durée du mandat (6).
 
-(6) Au titre de la durée du mandat pour les congés de formation.
+(6) Au titre de la durée du mandat pour les congés de formation
 
 332. Accidents survenus dans l'exercice des fonctions
 
@@ -180,11 +162,11 @@ Etat liquidatif précisant, le motif de la perte de revenu, le nombre d'heures c
 
 2. Etat de frais, factures.
 
-333. Prise en charge des frais de formation engagés par les élus ou les administrateurs des OPH (7)
+333. Prise en charge des frais de formation engagés par les élus (7).
 
 3331. Indemnisation
 
-1. Délibération autorisant la prise en charge de frais de formation engagés par l'élu ou l'administrateur de l'OPH.
+1. Délibération autorisant la prise en charge de frais de formation engagés par l'élu.
 
 2. Décompte.
 

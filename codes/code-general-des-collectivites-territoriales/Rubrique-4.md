@@ -1,828 +1,132 @@
 # Article Rubrique 4
 
-Rubrique 4-Commande publique (1) (2) (3) (4) (5) (5 bis)
+Rubrique 4-Commande publique (1) (2) (3) (4) (5) (6)
 
-(1) Si les prestations concernent un immeuble, sa localisation géographique est mentionnée sur une des pièces justificatives jointes au mandat
+(1) Si les prestations concernent un immeuble, sa localisation géographique est mentionnée sur une des pièces justificatives jointes au mandat.
 
-(2) La dépense est présentée sous la seule responsabilité de l'ordonnateur, selon l'une des sous-rubriques décrites dans la présente rubrique n° 4.
+(2) La dépense est présentée sous la seule responsabilité de l'ordonnateur, selon l'une des sous-rubriques décrites dans la présente rubrique 4.
 
-(3) Toute pièce référencée dans un document produit au comptable (facture, contrat, CCAG, CCAP...), nécessaire à ses contrôles, doit lui être produite.
+(3) Pour le paiement des marchés conclus avec un titulaire étranger ayant un représentant fiscal ou un mandataire en France, cf. pièces exigées à la rubrique " 05 - Paiement des sommes dues à des créanciers étrangers ".
 
-Si le CCAG a fait l'objet d'une approbation par arrêté, il n'est pas fourni mais seulement référencé. Lorsqu'un contrat doit être produit à l'appui du mandat, il ne l'est qu'à l'appui du premier paiement.
+(4) Les contrats de la présente rubrique signés électroniquement transmis en pièces justificatives sont accompagnés du résultat du processus de validation conforme à l'arrêté visé à l'article R. 2182-3 du code de la commande publique, ou à défaut d'un certificat administratif, attestant la présence des signatures et leur lien avec le contrat. Le résultat du processus de validation ou le certificat administratif ne seront plus à produire lorsque l'outil mutualisé de contrôle des signatures sera opérationnel.
 
-(4) Les mentions devant figurer sur les factures et mémoires sont décrites en annexe C de la présente liste.
+(5) Lorsqu'elles ne sont pas produites sous forme dématérialisée, les pièces constitutives du marché sont adressées au comptable en double exemplaire. Un des exemplaires de l'ensemble des pièces contractuelles du marché est conservé par le comptable pendant toute la durée du marché pour être joint à l'appui du mandat du paiement du solde.
 
-(5) Pour le paiement des marchés conclus avec un titulaire étranger ayant un représentant fiscal ou un mandataire en France, cf. pièces exigées à la rubrique " 05– Paiement des sommes dues à des créanciers étrangers. "
+(6) La décision de rejeter une facture d'un fournisseur ne respectant pas les obligations de dématérialisation des factures appartient à l'ordonnateur. Le comptable n'en reste pas moins responsable du contrôle de la production des factures sur un support, papier ou dématérialisé, lui permettant d'exercer ses contrôles sur la validité de la dette.
 
-(5 bis) Un bail emphytéotique administratif peut donner lieu à la conclusion d'un contrat de la commande publique ou d'une convention d'occupation du domaine. Dans ce cas, le bail emphytéotique administratif sera fourni au titre des pièces justificatives.
+40. Dédommagement pour retard de paiement : paiement des intérêts moratoires, de l'indemnité forfaitaire et de l'indemnisation complémentaire
 
-40. Dédommagement pour retard de paiement
+1. Contrat, le cas échéant.
 
-401. Paiement des intérêts moratoires et de l'indemnité forfaitaire
+2. Etat liquidatif.
 
-Etat liquidatif.
+41. Les marchés publics (7)
 
-402. Paiement de l'indemnisation complémentaire
+(7) Le représentant du pouvoir adjudicateur est seul responsable de la computation des seuils prévus par le code de la commande publique notamment au regard du caractère de similitude et d'homogénéité des prestations ou, s'agissant des travaux, de l'ensemble des dépenses concourant à une même opération. En effet, ainsi que le rappelle la jurisprudence le comptable n'est pas responsable de la computation des seuils (C. comptes, 8 mars 2018, n° 2018-0513).
 
-1. Lorsque le retard incombe en totalité à la collectivité ou à l'établissement public :
+411. Les marchés publics inférieurs au montant fixé par voie réglementaire en deçà duquel ils n'ont pas l'obligation d'être écrits
 
-Décision de l'autorité compétente.
-
-2. Lorsque le retard incombe en totalité ou en partie au comptable public :
-
-a) Décision de l'autorité compétente.
-
-b) Avis conforme de la DDFIP ou de la DRFIP.
-
-41. Marchés publics soumis au code des marchés publics
-
-411. Travaux, fournitures et services répertoriés par l'article 3 du code des marchés publics
-
-Contrat et, le cas échéant, pièces justificatives qu'il définit.
-
-412. Marchés publics passés selon une procédure adaptée prévue par les articles 28 ou 30 du code des marchés publics (6)
-
-(6) Les caractéristiques formelles d'un marché public passé selon une procédure adaptée prévue par les articles 28 ou 30 du code des marchés publics, faisant l'objet d'un écrit figurent au " A " de l'annexe G de la présente liste.
-
-4121. Prestations de maîtrise d'œuvre (7)
-
-1. Contrat et, le cas échéant, avenant.
-
-2. Mémoire ou facture.
-
-(7) Toute prestation de maîtrise d'œuvre donne lieu à un contrat écrit, qui fait apparaître les différents éléments de mission et les pourcentages correspondants (article 9 de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'œuvre privée).
-
-4122. Prestations dont le paiement donne lieu à avance, acompte, retenue de garantie, variation de prix ou pénalités (8)
-
-1. Document écrit encadrant l'avance, l'acompte, la retenue de garantie, la variation de prix ou les pénalités de retard.
-
-2. Mémoire ou facture.
-
-(8) Tout versement d'une avance ou d'un acompte, ainsi que tout prélèvement d'une retenue de garantie ou l'application d'une variation de prix ou de pénalités de retard doit faire l'objet d'un écrit qui n'est pas forcément un contrat.
-
-4123. Dépense justifiée par un marché public à procédure adaptée faisant l'objet d'un écrit (9) (10)
-
-(9) Tout contrat mentionné dans une pièce justificative (facture,...) doit être produit à l'appui du mandat. Lorsqu'un contrat doit être produit, il ne l'est qu'à l'appui du premier paiement. Les caractéristiques formelles d'un marché public faisant l'objet d'un écrit et entrant dans le champ d'application des articles 28 ou 30 du code des marchés publics, figurent au paragraphe A de l'annexe G de la présente liste.
-
-Au sens du présent texte, la notion de contrat peut s'entendre comme convention signée des parties, devis précisant les conditions financières ou tout autre document écrit constitutif d'un accord de volonté des parties.
-
-(10) En l'absence de production d'un marché écrit, certificat de l'ordonnateur prenant la responsabilité de l'absence de marché écrit.
-
-1. Contrat et, le cas échéant, avenant.
-
-2. Mémoire ou facture.
-
-4124. Dépense justifiée par un marché public à procédure adaptée ne faisant pas l'objet d'un écrit (11)
+4111. Les marchés publics non écrits (8) (9)
 
 Mémoire ou facture.
 
-(11) Le représentant du pouvoir adjudicateur est seul responsable de la computation des seuils prévus par le code des marchés publics, notamment au regard du caractère de similitude et d'homogénéité des prestations ou, s'agissant des travaux, de l'ensemble des dépenses concourant à une même opération.
+(8) Tout versement d'une avance, ou d'un acompte, ainsi que tout prélèvement d'une retenue de garantie ou l'application d'une variation de prix ou d'une pénalité de retard doit faire l'objet d'un écrit.
 
-4125. Achats pouvant faire l'objet d'un marché à procédure adaptée (articles 28 ou 30 du code des marchés publics) mais passés expressément selon une procédure formalisée (article 26 du même code).
+(9) Quel que soit leur montant, les marchés de maîtrise d'œuvre doivent être écrits (cf. article L.2432-1 du code de la commande publique).
 
-Pièces correspondantes énumérées à la rubrique 413.
+4112. Les marchés publics non soumis à l'obligation d'écrit mais faisant volontairement l'objet d'un écrit (10)
 
-413. Marchés publics passés selon une procédure formalisée prévue par l'article 26 du code des marchés publics (12) (13)
+(10) Les mentions obligatoires de ces marchés publics passés conformément aux articles L. 2112-1 et R. 2112-1 du code de la commande publique, sont décrites à l'annexe G de la présente liste.
 
-(12) Les pièces constitutives d'un marché sont définies par les articles 11,12 et 13 du code des marchés publics. Les mentions devant figurer sur les factures et mémoires sont décrites en annexe C de la présente liste.
+1. Un écrit.
 
-(13) Les caractéristiques formelles d'un marché public passé selon une procédure formalisée prévue par l'article 26 du code des marchés publics sont décrites au B de l'annexe G.
+2. Le cas échéant, document matérialisant les modifications apportées à l'écrit.
 
-4131. Pièces générales
+3. Mémoire ou facture et toute pièce mentionnée par l'écrit et ayant des incidences financières.
 
-41311. Pièces à fournir lors du premier paiement
+412. Les marchés publics égaux ou supérieurs au montant fixé par voie réglementaire au-delà duquel ils doivent être écrits (11) (12) (13) (14)
 
-1. Pièces constitutives initiales du marché, à l'exclusion du cahier des clauses techniques générales, du cahier des clauses techniques particulières et du cahier des clauses administratives générales lorsque le marché se réfère à l'un des cahiers des clauses administratives ayant fait l'objet d'une approbation par arrêté (14).
+(11) Le contenu du marché public soumis à l'obligation d'écrit ainsi que les mentions devant obligatoirement y figurer sont définis par les articles L. 2112-1 à L. 2112-6 du code de la commande publique. Les mentions devant figurer sur les factures et mémoires sont décrites à l'annexe C de la présente liste.
+
+(12) Les mentions obligatoires de ces marchés publics passés conformément aux articles L. 2112-1 et R. 2112-1 du code de la commande publique, sont décrites à l'annexe G de la présente liste.
+
+(13) Les marchés de maîtrise d'œuvre sont des marchés de service et toute prestation de maîtrise d'œuvre dès le premier euro donne lieu à un contrat écrit, qui fait apparaître une rémunération forfaitaire du maître d'œuvre décomposée par éléments de mission (article L. 2432-1 et R. 2432-6 du code de la commande publique).
+
+(14) En l'absence de marché écrit pour les marchés publics égaux ou supérieurs au montant fixé par voie réglementaire au-delà duquel ils doivent être écrits, l'ordonnateur devra présenter à l'appui de la dépense un certificat administratif attestant qu'il prend la responsabilité de l'absence de marché écrit (CE, Sect. 8 février 2012, CCAS de Polaincourt, req N°340698).
+
+4121. Les marchés publics écrits ne faisant pas référence à un cahier des clauses administratives générales (CCAG) approuvé par arrêté (15).
+
+(15) Le recours aux CCAG est facultatif conformément aux articles R. 2112-2 et R. 2112-3 du code de la commande publique. Les CCAG qui n'ont pas fait l'objet d'une approbation par arrêté sont produits à l'appui du premier mandatement du marché qui s'y réfère.
+
+41211. Pièces générales
+
+Toutes pièces du marché rendues nécessaires pour l'exécution financière du contrat.
+
+41212. Remboursement de la retenue de garantie
+
+1. Décision de l'ordonnateur de libérer la retenue de garantie ou le cas échéant, réception d'une garantie de substitution.
+
+2. Dans le cas où elles n'ont pas été produites préalablement au comptable, pièces justificatives prévues pour le paiement du solde.
+
+3. Le cas échéant, décision de levée de réserves.
+
+4122. Les marchés publics écrits faisant référence à un CCAG approuvé par arrêté
+
+41221. Pièces générales
+
+412211. Pièces à fournir lors du premier paiement
+
+1. Pièces contractuelles initiales du marché listées au cahier des clauses administratives particulières ou au CCAG, à l'exclusion du cahier des clauses techniques générales, du cahier des clauses techniques particulières et du cahier des clauses administratives générales lorsque le marché se réfère à l'un des cahiers des clauses administratives ayant fait l'objet d'une approbation par arrêté.
 
 2. Le cas échéant, liste des prix ou des tarifs ou des barèmes applicables.
 
-3. S'il y a lieu, copie de l'engagement de la ou des garantie (s) à première demande ou des caution (s) personnelle (s) ou solidaire (s) (15).
+3. S'il y a lieu, la ou les garantie(s) à première demande ou la ou les caution(s) personnelle(s) ou solidaire(s) (16).
 
-(14) Lorsqu'elles ne sont pas produites sous forme dématérialisée, les pièces constitutives initiales du marché sont adressées au comptable en double exemplaire.
+(16) La garantie portant sur l'ensemble du marché ne doit pas être exigée au stade du versement d'une avance.
 
-Les cahiers des clauses administratives générales qui n'ont pas fait l'objet d'une approbation par arrêté sont produits à l'appui du premier mandatement du marché qui s'y réfère. Un des exemplaires de l'ensemble des pièces constitutives initiales du marché est conservé par le comptable pendant toute la durée du marché pour être joint à l'appui du mandat du paiement du solde.
+412212. Autres pièces générales, le cas échéant
 
-(15) La copie de la garantie portant sur l'ensemble du marché ne doit pas être exigée au stade du versement d'une avance.
-
-41312. Autres pièces générales, le cas échéant
-
-1. Avenant, acte spécial, ordre de service, ayant des incidences financières.
+1. Document matérialisant les modifications apportées au marché, ordre de service, ayant des incidences financières.
 
 2. Pour les marchés de fournitures et de services :
 
-En cas de dépassement du montant contractuel prévu au marché, avenant ou, si le marché en prévoit la possibilité, décision de poursuivre.
+2-a. Lorsque le marché ne prévoit pas la possibilité de modifier son montant : document matérialisant les modifications apportées au marché.
+
+2-b. Lorsque le marché prévoit la possibilité de modifier son montant : document matérialisant les conséquences de la clause de réexamen prévue au marché.
 
 3. Pour les marchés de travaux :
 
 3-a. Lorsque le marché n'admet pas une augmentation de son montant contractuel :
 
-En cas de dépassement du montant contractuel prévu au marché, avenant ou, si le marché en prévoit la possibilité, décision de poursuivre.
+En cas de dépassement du montant contractuel prévu au marché, document matérialisant les modifications apportées au marché.
 
-3-b Lorsque le marché admet une augmentation de son montant contractuel :
+3-b. Lorsque le marché admet une augmentation de son montant contractuel :
 
 3-b-1. En cas de dépassement du montant contractuel dans la limite prévue au marché :
 
-– attestation ou certificat administratif de l'ordonnateur (ou de son délégué) ou mention dans un document du titulaire avisant, au moins un mois à l'avance, le maître d'oeuvre de l'atteinte prochaine du montant contractuel
+- certificat administratif de l'ordonnateur ou mention dans un document du titulaire avisant, au moins un mois à l'avance, le maître d'œuvre de l'atteinte prochaine du montant contractuel
 
-Ou
+ou
 
-– attestation de l'ordonnateur (ou de son délégué) certifiant que le titulaire a bien respecté ses obligations d'information du maître d'œuvre selon la procédure décrite ci-contre.
+- certificat de l'ordonnateur attestant que le titulaire a bien respecté ses obligations d'information du maître d'œuvre selon la procédure décrite ci-contre.
 
-3-b-2. En cas de dépassement du montant contractuel au delà de la limite prévue au marché :
+3-b-2. En cas de dépassement du montant contractuel au-delà de la limite prévue au marché :
 
-Avenant ou, si le marché en prévoit la possibilité, décision de poursuivre.
+Document matérialisant les modifications apportées au marché.
 
-4. En cas de dépassement de la part du titulaire compensée par la diminution de la part du ou des sous-traitants : avenant ou acte spécial modificatif diminuant la part du ou des sous-traitant (s) à due concurrence du montant de l'augmentation de celle du titulaire.
+3-c. Lorsque le prix du marché est diminué et que cette diminution n'était pas prévue au marché initialement : document matérialisant les modifications apportées au contrat.
 
-5. En cas de marchés à bons de commande :
+4. En cas de dépassement de la part du titulaire compensée par la diminution de la part du ou des sous-traitants : document matérialisant les modifications apportées au marché ou acte spécial modificatif diminuant la part du ou des sous-traitant(s) à due concurrence du montant de l'augmentation de celle du titulaire.
 
-– le cas échéant, le bon de commande complétant les dispositions financières du marché relatives aux délais d'exécution ;
+41222. Pièces particulières
 
-– le cas échéant le bon de commande complétant les dispositions financières du marché relatives aux primes, aux pénalités, uniquement dans le cas où des primes ou des pénalités sont décomptées ;
-
-– lorsque la date d'exécution des prestations est postérieure à la date de fin du marché, le (s) bon (s) de commande correspondant (s).
-
-4132. Pièces particulières
-
-41321. En cas de reconduction expresse
+412221. En cas de reconduction expresse
 
 Décision de reconduction.
 
-41322. Paiement des primes et des indemnités
+412222. Paiement des primes et des indemnités
 
-413221. Primes dans le cadre d'un concours
-
-1. Le règlement du concours prévoyant les modalités d'allocation de primes.
-
-2. Avis du jury indiquant la répartition des primes à verser aux bénéficiaires.
-
-3. Etat liquidatif par bénéficiaire.
-
-413222. Indemnités à verser aux membres du jury
-
-Délibération ou décision du directeur pour les EPS.
-
-413223. Primes dans le cadre d'une procédure de dialogue compétitif
-
-1. Le règlement de la consultation ou l'avis d'appel public à la concurrence prévoyant les modalités d'allocation de primes.
-
-2. Etat liquidatif par bénéficiaire.
-
-41323. Avances
-
-413231. Avance dont le montant est inférieur ou égal à 30 % du marché
-
-1. Etat liquidatif.
-
-2. Le cas échéant, certificat de l'ordonnateur (ou de son délégué) attestant que les conditions posées par le marché pour l'obtention de l'avance sont remplies.
-
-3. Le cas échéant, copie de la garantie à première demande ou caution personnelle et solidaire pour le remboursement de l'avance.
-
-413232. Avance dont le montant est supérieur à 30 % du marché
-
-1. Le cas échéant, certificat de l'ordonnateur (ou de son délégué) attestant que les conditions posées par le marché pour l'obtention de l'avance sont remplies.
-
-2. Etat liquidatif.
-
-3. Copie de la garantie à première demande s'engageant à rembourser, s'il y a lieu, le montant de l'avance consentie.
-
-41324. Acomptes
-
-1. Procès-verbal ou certificat administratif de l'ordonnateur (ou de son délégué) attestant l'exécution des prestations concernées et indiquant le montant des sommes dues au titre de l'acompte, établi conformément à l'annexe D.
-
-2. Le cas échéant, état liquidatif des actualisations et/ ou révisions des prix, établi conformément à l'annexe E.
-
-3. Etat liquidatif de l'acompte par catégories de prestations à l'intérieur d'un même lot.
-
-4. Le cas échéant, certificat administratif de l'ordonnateur (ou de son délégué) ou mention indiquant qu'il s'agit du paiement du dernier acompte si le montant initial du marché est atteint.
-
-41325. Paiement partiel définitif, paiement unique et intégral, paiement du solde
-
-413251. Marchés de fournitures et de services
-
-1. Facture et mémoire portant les énonciations énoncées à l'annexe C.
-
-2. Le cas échéant, décision d'admission avec réfaction.
-
-3. Dans le seul cas où des pénalités de retard sont appliquées par l'ordonnateur sur les paiements, état liquidatif ;
-
-En cas d'exonération ou de réduction de ces retenues : délibération de l'autorité compétente prononçant l'exonération ou la réduction ou pour les établissements publics de santé et les établissements sociaux et médico-sociaux, décision du directeur.
-
-4. Le cas échéant, état liquidatif des actualisations et/ ou révisions de prix, établi conformément à l'annexe E.
-
-5. En cas de résiliation du marché, décision de résiliation et décompte de liquidation.
-
-413252. Marchés de travaux
-
-1. Décision de réception prise par l'autorité compétente ou à défaut proposition du maître d'œuvre ou décision de justice portant date d'effet de la réception,
-
-Ou
-
-En cas de résiliation :
-
-– décision de résiliation ;
-
-– procès verbal portant réception des ouvrages et parties d'ouvrages exécutés.
-
-2. Décompte général et définitif (16)
-
-Ou
-
-Le cas échéant, décompte de résiliation.
-
-3. Constat, situation, relevé, mémoire ou facture justifiant le décompte ;
-
-En cas de désaccord : décompte général admis par l'ordonnateur et complément éventuel sur solde mandaté sur pièce justifiant l'accord entre les parties ou décision de justice.
-
-4. Dans le seul cas où des pénalités de retard sont appliquées par l'ordonnateur sur les paiements, état liquidatif.
-
-En cas d'exonération ou de réduction de ces retenues : délibération de l'autorité compétente prononçant l'exonération ou la réduction ou pour les EPS et les ESMS, décision du directeur.
-
-5. Le cas échéant, état liquidatif des actualisations et/ ou révisions de prix, établi conformément à l'annexe E.
-
-(16) En cas d'établissement d'un décompte général et définitif tacite et afin de déterminer le point de départ du délai de paiement du solde, production d'une attestation, d'un certificat administratif ou d'une mention apposée sur le DGD par le représentant du pouvoir adjudicateur indiquant la date d'expiration du délai de 10 jours prévu à l'article 13.4.4 du CCAG-travaux.
-
-41326. Remboursement de la retenue de garantie
-
-1. Décision de la personne publique de libérer la retenue de garantie ou le cas échéant, réception d'une garantie de substitution.
-
-2. Le cas échéant, pièces justificatives prévues pour le paiement du solde.
-
-3. Le cas échéant, décision de levée de réserves.
-
-414. Marchés passés sur le fondement d'un accord-cadre (17)
-
-1. Accord-cadre visé par l'article 76 du code des marchés publics.
-
-2. Marché passé sur le fondement de l'accord-cadre : Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-(17) Pour les caractéristiques formelles d'un accord-cadre, voir le C de l'annexe G. Pour les spécificités des marchés passés sur le fondement d'un tel accord, voir le D de la même annexe.
-
-415. Sous-traitance et paiement direct
-
-4151. Paiement direct
-
-41511. Pièces générales (à fournir lors du premier paiement)
-
-1. Marché, avenant, acte spécial ou tout document écrit signé (18) par l'autorité compétente pour passer le marché et par le titulaire de celui-ci précisant la nature des prestations sous-traitées, le nom, la raison ou la dénomination sociale et l'adresse du sous-traitant, le montant des prestations sous-traitées et les conditions de paiement prévues pour chaque contrat de sous-traitance.
-
-2. Pièce justificative produite par le titulaire du marché établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle au paiement direct du sous-traitant,
-
-Ou
-
-Certificat attestant que cette créance n'a pas été cédée, ni nantie ;
-
-3. En cas d'augmentation des prestations sous-traitées :
-
-a) Avenant, acte spécial modificatif ou tout document écrit justifiant l'augmentation de la part du sous-traitant ;
-
-b) Avenant ou décision de poursuivre augmentant le montant global du marché ;
-
-Et/ou
-
-Avenant, acte spécial modificatif ou tout document écrit justifiant la diminution de la part du ou des autres sous-traitant (s) à due concurrence du montant de l'augmentation visée au a.
-
-(18) Aucun versement ne peut être effectué au profit d'un sous-traitant au titre du paiement direct en l'absence d'un document écrit, marché, avenant ou acte spécial de sous-traitance établissant les droits du sous-traitant. L'acceptation du sous-traitant et l'agrément de ses conditions de paiement peuvent résulter d'un accord tacite du pouvoir adjudicateur (cf. article 114-4° du code des marchés publics). Cet accord tacite peut se matérialiser par un certificat administratif appuyé de la déclaration de sous-traitance établie par le titulaire. Cette déclaration énonce la nature des prestations sous-traitées, le nom, la raison ou la dénomination sociale et l'adresse du sous-traitant, le montant des prestations sous-traitées ainsi que les conditions de paiement. Le certificat administratif doit indiquer la date à laquelle l'accord tacite est intervenu (expiration du délai de vingt et un jours prévu à l'article 114-4° du code des marchés publics).
-
-41512. Pièces particulières
-
-415121. Avances
-
-1. Ensemble des pièces produites par le titulaire du marché pour le paiement à son profit d'une dépense de même nature.
-
-2. Le cas échéant, pièce justificative produite par le titulaire du marché établissant le remboursement de l'avance qui lui aurait été versée au titre des prestations sous-traitées.
-
-3. Etat liquidatif du montant de l'avance.
-
-4. Le cas échéant, copie de la garantie à première demande ou de la caution personnelle et solidaire pour le remboursement de l'avance.
-
-415122. Acompte et règlement unique et intégral et paiement du solde
-
-1. Ensemble des pièces produites par le titulaire du marché pour le paiement à son profit d'une dépense de même nature.
-
-2. Attestation du titulaire comportant l'indication de la somme à régler directement au sous-traitant,
-
-Ou
-
-En cas de redressement, liquidation judiciaire ou d'empêchement du titulaire et en l'absence d'attestation de la part du titulaire ou de son représentant, attestation du maître d'ouvrage comportant l'indication de la somme à régler directement au sous-traitant,
-
-Ou
-
-Accord amiable ou décision de justice.
-
-4152. Sous-traitance et action directe
-
-41521. Paiement au sous-traitant
-
-1. Mise en demeure adressée par le sous-traitant au titulaire du marché d'avoir à lui payer une somme due pour un montant déterminé en vertu d'un contrat de sous-traitance et pour l'exécution du marché.
-
-2. Demande de paiement accompagnée d'un procès-verbal relatant la constatation matérielle des prestations effectuées et l'acceptation du titulaire,
-
-Ou
-
-Décision de justice définitive,
-
-Ou
-
-Accord entre les parties.
-
-41522. Paiement au titulaire du marché
-
-Reçu du sous-traitant attestant le règlement par le titulaire ou décision de justice définitive ou accord des intéressés.
-
-416. Coordination, groupement de commandes et centrale d'achats
-
-4161. Coordination des commandes au sein d'un même organisme public
-
-1. Convention, le cas échéant.
-
-2. Pièces énumérées aux sous-rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-4162. Groupement de commandes de plusieurs organismes
-
-41621. Pièces à fournir dans tous les cas
-
-Convention constitutive du groupement.
-
-41622. Pièces à fournir selon les cas
-
-416221. Cas où chaque membre du groupement exécute sa propre partie
-
-Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-416222. Cas où le coordonnateur exécute le marché au nom de l'ensemble des membres du groupement
-
-4162221. En cas de participation aux débours du coordonnateur
-
-1. Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-2. Demande du coordonnateur lorsque la convention constitutive ne prévoit pas le montant et les modalités du versement de la participation.
-
-4162222. En cas de remboursement
-
-1. Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-2. Etat liquidatif ou décompte établi par le coordonnateur.
-
-4163. Paiements à une centrale d'achat disposant de la qualité de pouvoir adjudicateur
-
-41631. Paiement d'une prestation d'achat de fourniture ou de service
-
-1. Le cas échéant, convention entre la collectivité et la centrale d'achat ou acte d'adhésion à la centrale d'achat.
-
-2. Facture ou mémoire.
-
-41632. Paiement d'une prestation d'intermédiation contractuelle
-
-1. Convention de mandat entre la collectivité et la centrale d'achat portant sur la dépense concernée.
-
-2. Facture ou mémoire de la centrale d'achat ou, le cas échéant, du fournisseur.
-
-41633. Paiement à l'Union des Groupement d'Achat Public (UGAP)
-
-1. Le cas échéant, convention.
-
-2. Facture ou mémoire.
-
-417. Paiements à des tiers substitués au créancier initial
-
-4171. Paiement des créances afférentes à une cession ou à un nantissement de créances
-
-41711. Pièces communes
-
-Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-41712. Pièces particulières
-
-417121. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement
-
-1. Dans le cadre d'un marché public faisant l'objet d'un contrat écrit, exemplaire unique du marché, de l'avenant, de l'acte spécial ou de tout document écrit visé à la rubrique 4511, revêtu d'une mention signée par l'autorité compétente pour passer le marché indiquant que cette pièce est délivrée en unique exemplaire en vue de la cession (ou du nantissement) des créances résultant du marché,
-
-Ou
-
-Certificat de cessibilité.
-
-2. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (19).
-
-3. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec avis de réception, ou tout autre moyen permettant de donner date certaine.
-
-4. Le cas échéant, attestation de l'établissement de crédit établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
-
-5. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, copie de l'acte d'acceptation de la cession signée du représentant du pouvoir adjudicateur (20).
-
-(19) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
-
-417122. Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit commun
-
-1. Dans le cadre d'un marché public faisant l'objet d'un contrat écrit, exemplaire unique du marché, de l'avenant, de l'acte spécial ou de tout document écrit visé à la rubrique 4511, revêtu d'une mention signée par l'autorité compétente pour passer le marché indiquant que cette pièce est délivrée en unique exemplaire en vue de la cession (ou du nantissement) des créances résultant du marché,
-
-Ou
-
-Certificat de cessibilité.
-
-2. Exemplaire original de la signification de la cession (ou du nantissement) énonçant la qualité du comptable assignataire, du cédant (du titulaire du marché ou du sous-traitant à l'initiative du nantissement), du cessionnaire (ou du bénéficiaire du nantissement) et désignant la créance cédée (ou nantie).
-
-3. Le cas échéant, attestation du cessionnaire (ou du bénéficiaire du nantissement) établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
-
-4. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, copie de l'acte d'acceptation de la cession signée du représentant du pouvoir adjudicateur (20).
-
-(20) L'acceptation de la cession de créance oblige la personne publique à payer intégralement le cessionnaire sans lui opposer aucune exception tirée de ses rapports avec l'entreprise cédée et notamment de la manière dont elle a exécuté le marché.
-
-41713. Paiement au cédant (ou au titulaire du marché ou au sous-traitant à l'initiative du nantissement)
-
-Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
-
-Ou
-
-Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine.
-
-4172. Paiement dans le cadre d'une délégation de créances afférente à un marché public
-
-41721. Paiement à un délégataire du titulaire du marché ou du sous-traitant ayant droit au paiement direct
-
-417211. Pièces communes
-
-Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-417212. Pièces particulières
-
-Convention de délégation signée par la personne publique, du titulaire du marché ou du sous-traitant ayant droit au paiement direct et du délégataire ;
-
-Pièce justificative produite par le délégant établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle à la réalisation de la délégation ou que son montant a été réduit afin que la délégation soit possible ;
-
-Ou
-
-Certificat attestant que cette créance n'a été ni cédée, ni nantie.
-
-41722. Paiement à un délégataire sous-traitant de second rang
-
-417221. Pièces communes
-
-Pièces énumérées aux rubriques 412 et 413 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-417222. Pièces particulières
-
-1. Pièces justificatives relatives à la demande du sous-traitant de 1er rang définies à la rubrique 415.
-
-2. Convention de délégation.
-
-3. Document établi par le sous-traitant de 1er rang indiquant la somme à verser au sous-traitant de 2e rang, cette somme ne pouvant pas dépasser la limite du montant reconnu comme étant dû au sous-traitant de 1er rang.
-
-4. Pièce justificative produite par le délégant établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle à la réalisation de la délégation ou que son montant a été réduit afin que la délégation soit possible,
-
-Ou
-
-Certificat attestant que cette créance n'a été ni cédée, ni nantie.
-
-4173. Paiement à un factor
-
-41731. Dans le cadre d'une cession (paragraphe B de l'annexe F de la présente liste)
-
-Pièces justificatives prévues aux rubriques 41711 et 417121, pièces 1 et 4.
-
-41732. Dans le cadre d'une subrogation (paragraphe A de l'annexe F de la présente liste)
-
-1. Pièces justificatives du paiement des marchés selon les modalités de présentation de la dépense par l'ordonnateur.
-
-2. Mention subrogative réglementaire portée sur la demande de paiement (mémoire, facture, situation de travaux...) dans les conditions fixées au paragraphe A de l'annexe F du présent décret.
-
-3. En cas de pluralité d'oppositions, quittance subrogative datée.
-
-418. Paiements en situations exceptionnelles
-
-4181. Paiements en situation d'urgence
-
-41811. Réquisition d'une entreprise
-
-1. Arrêté de réquisition de l'entreprise.
-
-2. Pièces justificatives prévues par l'arrêté, le cas échéant.
-
-3. Facture ou mémoire.
-
-41812. Marchés exécutés en situation d'urgence impérieuse
-
-1. Marché ou copie de l'échange des courriers entre la personne publique et l'entreprise.
-
-2. Le cas échéant, pièces prévues dans le marché ou dans l'échange de courrier.
-
-3. Facture ou mémoire.
-
-4182. Paiement dans le cadre d'une transaction
-
-1. Délibération autorisant la transaction, sauf pour les EPS.
-
-2. Transaction.
-
-3. Si la transaction met fin au marché, pièces justificatives prévues à la sous-rubrique 41325 (21).
-
-(21) Lorsque la transaction intègre les opérations de solde du marché, il n'est pas exigé d'autres pièces pour procéder à son paiement.
-
-4183. Paiements en cas de mise en régie des prestations d'un marché public (22)
-
-1. Décision de mise en régie.
-
-2. Constat des travaux exécutés avant la mise en régie.
-
-3. Décompte (s) afférent (s) aux travaux exécutés après la mise en régie.
-
-(22) La mise en régie se définit comme le moyen offert à l'acheteur public pour dessaisir son cocontractant de ses prérogatives et poursuivre l'exécution des prestations aux risques et périls du cocontractant défaillant en utilisant ses propres moyens humains et matériels.
-
-419. Autres marchés publics spécifiques (23)
-
-(23) Selon les cas l'annexe G/ A ou G/ B s'applique à ces marchés.
-
-4191. Transports scolaires
-
-41911. Reversement à l'organisateur de " second rang " en l'absence de convention
-
-Justificatif joint au titre de recette indiquant le montant reçu par le bénéficiaire du transfert de compétence.
-
-41912. Participation aux charges du service géré par un tiers
-
-Délibération autorisant l'autorité compétente à passer la convention.
-
-41913. Versement à l'organisateur de " second rang " ou à l'autorité compétente en cas de modification du périmètre urbain
-
-419131. Premier paiement
-
-1. Convention fixant les conditions de financement des services de transport dont la responsabilité est transférée.
-
-2. Etat liquidatif.
-
-419132. Autres paiements
-
-Etat liquidatif.
-
-41914. Versement à l'entreprise privée
-
-419141. Premier paiement
-
-1. Convention comportant les stipulations réglementaires.
-
-2. Etat liquidatif.
-
-419142. Autres paiements
-
-Etat liquidatif.
-
-4192. Marché public de crédit-bail
-
-41921. Crédit-bail immobilier
-
-419211. Exécution du marché
-
-4192111. Premier paiement
-
-1. Marché, le cas échéant revêtu de la mention d'inscription au fichier immobilier et mentionnant, en particulier, les droits acquis par le bailleur de l'immeuble (14).
-
-2. Etat-réponse attestant l'absence d'inscription hypothécaire (24).
-
-3. Décompte.
-
-4192112. Autres paiements
-
-Décompte.
-
-419212. Reprise (25) d'un marché de crédit-bail
-
-1. Contrat de cession et copie du marché de crédit-bail.
-
-2. Etat-réponse attestant l'absence d'inscription hypothécaire (24).
-
-3. Décompte.
-
-(24) Etat-réponse délivré dans les conditions énoncées à la rubrique acquisitions immobilières.
-
-(25) La collectivité se substitue par cession au premier preneur.
-
-419213. Indemnité versée par le preneur en cas de résiliation de marché
-
-1. Copie de l'acte portant résiliation du marché.
-
-2. Décompte appliquant la clause contractuelle portant pénalités,
-
-Ou
-
-Indemnité fixée par le juge.
-
-419214. Prolongation du marché de crédit-bail
-
-Avenant, le cas échéant revêtu de la mention de publication au fichier immobilier et référence à la délibération autorisant la passation de l'avenant (14).
-
-419215. Réalisation de la promesse de vente
-
-1. Décision de l'assemblée délibérante autorisant la levée de l'option.
-
-2. Décompte portant mention des paiements effectués et de la valeur résiduelle fixée par référence au marché.
-
-3. Etat-réponse attestant l'absence d'inscription hypothécaire.
-
-41922. Crédit bail mobilier
-
-419221. Exécution du marché
-
-4192211. Premier paiement
-
-1. Marché (14)
-
-2. Décompte.
-
-4192212. Autres paiements
-
-Décompte.
-
-419222. Reprise d'un marché de crédit-bail
-
-4192221. Premier paiement
-
-1. Contrat de cession et copie du marché de crédit-bail.
-
-2. Décompte.
-
-4192222. Autres paiements
-
-Décompte.
-
-419223. Indemnité versée par le preneur en cas de résiliation de marché
-
-1. Délibération autorisant la résiliation.
-
-2. Décompte appliquant la clause contractuelle portant pénalités,
-
-Ou
-
-Indemnité fixée par le juge.
-
-419224. Prolongation du marché de crédit-bail
-
-Avenant (14).
-
-419225. Réalisation de la promesse de vente
-
-1. Décision de l'assemblée délibérante autorisant la levée de l'option.
-
-2. Décompte portant mention des paiements effectués et de la valeur résiduelle fixée par référence au marché.
-
-4193. Marchés publics d'assurances
-
-41931. Première prime
-
-1. Copie du marché d'assurances.
-
-2. Avis de paiement de l'assureur.
-
-41932. Autres primes
-
-Avis de paiement de l'assureur.
-
-41933. Modification des clauses du marché
-
-1. Si la modification résulte de dispositions légales, décompte de révision.
-
-2. Si la modification résulte de la volonté des contractants, copie du marché d'assurances modifié ou avenant et avis de paiement.
-
-4194. Paiement d'opérations réalisées sous mandat
-
-41941. Paiement de la rémunération du mandataire
-
-1. Convention de mandat.
-
-2. Décompte.
-
-41942. Financement des opérations effectuées par le mandataire
-
-419421. Lorsque le mandataire est un organisme non doté d'un comptable public
-
-4194211. Avances
-
-a) Premier paiement
-
-Convention de mandat et, le cas échéant, avenant.
-
-b) Autres paiements
-
-Décompte des opérations et de leur montant justifiant l'utilisation de l'avant-dernière avance, accompagné des copies de pièces justificatives prévues aux rubriques concernées de la présente liste selon la nature des dépenses afférentes à ces opérations.
-
-4194212. Remboursement des débours
-
-a) Premier paiement
-
-1. Convention de mandat et, le cas échéant, avenant.
-
-2. Décompte des opérations effectuées accompagné des copies de pièces justificatives prévues aux rubriques concernées de la présente liste selon la nature des dépenses afférentes à ces opérations.
-
-b) Autres paiements
-
-Décompte des opérations effectuées accompagné des copies des pièces justificatives prévues aux rubriques concernées de la présente liste selon la nature des dépenses afférentes à ces opérations.
-
-419422. Lorsque le mandataire est un organisme doté d'un comptable public
-
-4194221. Avances
-
-a) Premier paiement
-
-1. Convention de mandat et, le cas échéant, avenant.
-
-2. Le cas échéant, délibération fixant le montant de l'avance et ses bases de calcul.
-
-b) Autres paiements
-
-Décompte des opérations et de leur montant justifiant l'utilisation de l'avant dernière avance, accompagné d'une attestation du comptable certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente liste et qu'il est en possession de toutes les pièces afférentes à ces opérations.
-
-4194222. Remboursement des débours
-
-a) Premier paiement
-
-1. Convention de mandat et, le cas échéant, avenant.
-
-2. Décompte des opérations effectuées.
-
-b) Autres paiements
-
-Décompte des opérations effectuées.
-
-42. Marchés publics soumis à l'ordonnance n° 2005-649 du 5 juin 2005 (26)
-
-(26) Lorsque le contrat se réfère à un CCAG fixé par arrêté, se reporter à la rubrique correspondante dans le cadre de la partie consacrée aux marchés du code des marchés publics.
-
-421. Prestations exclues du champ d'application de l'ordonnance et qui ne relèvent pas d'un autre contrat de la commande publique
-
-1. Document portant référence à la délibération ou à la décision de la personne compétente autorisant le recours à la prestation.
-
-2. Le cas échéant, contrat et les pièces justificatives qu'il définit.
-
-422. Marchés publics passés selon une procédure adaptée prévue par les articles 9 ou 10 du décret n° 2005-1742 (27)
-
-(27) Les caractéristiques formelles d'un marché public passé selon une procédure adaptée prévue par les articles 10 du décret n° 2005-1742, faisant l'objet d'un écrit figurent au " A " de l'annexe G de la présente liste.
-
-4221. Pièces générales
-
-Mémoire ou facture.
-
-4222. Prestations de maîtrise d'œuvre (28)
-
-1. Contrat et, le cas échéant, avenant.
-
-2. Mémoire ou facture.
-
-(28) Toute prestation de maîtrise d'œuvre donne lieu à un contrat écrit, qui fait apparaître les différents éléments de mission et les pourcentages correspondants.
-
-4223. Prestations dont le paiement donne lieu à avance, acompte, retenue de garantie, variation de prix, ou pénalités (29)
-
-1. Document encadrant l'avance, l'acompte, la retenue de garantie l'application de la pénalité de retard ou la variation de prix.
-
-2. Mémoire ou facture.
-
-(29) Tout versement d'une avance ou d'un acompte, ainsi que tout prélèvement d'une retenue de garantie ou l'application d'une variation de prix ou d'une pénalité de retard doit faire l'objet d'un écrit qui n'est pas forcément un contrat.
-
-4224. Achats pouvant faire l'objet d'un marché à procédure adaptée mais passés expressément selon une procédure formalisée
-
-Pièces correspondantes énumérées à la rubrique 423.
-
-423. Marchés passés selon une procédure formalisée (30)
-
-(30) Les caractéristiques formelles d'un marché public passé selon une procédure formalisée sont décrites au B de l'annexe G.
-
-4231. Pièces générales
-
-42311. Pièces à fournir lors du premier paiement
-
-1. Pièces constitutives initiales du marché, à l'exclusion du cahier des clauses techniques générales, du cahier des clauses techniques particulières et du cahier des clauses administratives générales lorsque le marché se réfère à l'un des cahiers des clauses administratives ayant fait l'objet d'une approbation par arrêté (31).
-
-2. Le cas échéant, liste des prix ou des tarifs ou des barèmes applicables.
-
-3. S'il y a lieu, caution personnelle et solidaire émanant d'un établissement financier figurant sur une liste fixée par décret.
-
-4. Document portant référence de la délibération autorisant la signature du contrat (32).
-
-(31) Les cahiers des clauses administratives générales qui n'ont pas fait l'objet d'une approbation par arrêté du Ministre en charge de l'Economie et des Finances sont produits à l'appui du premier mandatement du marché qui s'y réfère. Un des exemplaires de l'ensemble des pièces constitutives initiales du marché est conservé par le comptable pendant toute la durée du marché pour être joint à l'appui du mandat du paiement du solde.
-
-(32) ce document peut être un de ceux visés au 1.
-
-42312. Autres pièces générales, le cas échéant
-
-1. Lorsqu'ils ont des incidences financières, avenants et ordres de service, ainsi que tout document permettant d'accepter un sous-traitant et d'agréer ses conditions de paiement.
-
-2. En cas de dépassement du montant contractuel prévu au marché, avenant signé des parties.
-
-3. En cas de marchés à bons de commande :
-
-– le cas échéant, le bon de commande complétant les dispositions financières du marché relatives aux délais d'exécution ;
-
-– le cas échéant le bon de commande complétant les dispositions financières du marché relatives aux primes, aux pénalités, uniquement dans le cas où des primes ou des pénalités sont décomptées ;
-
-– lorsque la date d'exécution des prestations est postérieure à la date de fin du marché, le (s) bon (s) de commande correspondant (s).
-
-4232. Pièces particulières
-
-42321. Reconduction
-
-Décision de reconduction.
-
-42322. Paiement des primes et des indemnités
-
-423221. Primes dans le cadre d'un concours
+4122221. Primes dans le cadre d'un concours
 
 1. Règlement du concours prévoyant les modalités d'allocation de primes.
 
@@ -830,115 +134,151 @@ Décision de reconduction.
 
 3. Etat liquidatif par bénéficiaire.
 
-423222. Indemnités à verser aux membres du jury
+4122222. Indemnités à verser aux membres du jury
 
-Document portant la référence à la délibération ou à la décision autorisant le versement.
+Délibération ou décision du directeur pour les établissements publics de santé.
 
-423223. Primes dans le cadre d'une procédure de dialogue compétitif
+4122223. Primes dans le cadre d'une procédure de dialogue compétitif
 
 1. Le règlement de la consultation ou l'avis d'appel public à la concurrence prévoyant les modalités d'allocation de primes.
 
 2. Etat liquidatif par bénéficiaire.
 
-42323. Avances
+412223. Avances
 
 1. Etat liquidatif.
 
-2. Le cas échéant, certificat de l'ordonnateur (ou de son délégué) attestant que les conditions posées par le marché pour l'obtention de l'avance sont remplies.
+2. Le cas échéant, garantie à première demande ou caution personnelle et solidaire pour le remboursement de l'avance.
 
-3. Le cas échéant, copie de la garantie à première demande.
+412224. Acomptes
 
-42324. Acomptes
+1. Etat liquidatif de l'ordonnateur indiquant le montant des sommes dues au titre de l'acompte, établi conformément à l'annexe D.
 
-1. Procès-verbal ou certificat administratif de l'ordonnateur (ou de son délégué), attestant l'exécution des prestations concernées et indiquant le montant des sommes dues au titre de l'acompte, établi conformément à l'annexe D.
+2. Le cas échéant, état récapitulatif des actualisations et/ou révisions des prix, établi conformément à l'annexe E.
 
-2. Le cas échéant, état liquidatif des variations de prix, établi conformément à l'annexe E.
+3. Etat récapitulatif de l'acompte par catégories de prestations ou facture, ou situation ou mémoire établi conformément à l'annexe C.
 
-3. Etat liquidatif de l'acompte par catégories de prestations à l'intérieur d'un même lot.
+4. Le cas échéant, certificat administratif de l'ordonnateur ou mention indiquant qu'il s'agit du paiement du dernier acompte si le montant initial du marché est atteint.
 
-4. Le cas échéant, certificat administratif de l'ordonnateur (ou de son délégué) ou mention indiquant qu'il s'agit du paiement du dernier acompte si le montant initial du marché est atteint.
+412225. Paiement partiel définitif, paiement unique et intégral, paiement du solde
 
-42325. Paiement unique et intégral, paiement du solde
+4122251. Marchés de fournitures et de services
 
-423251. Marchés de fournitures et de service
+1. Facture ou mémoire portant les énonciations énoncées à l'annexe C.
 
-1. Facture et mémoire portant les énonciations énoncées à l'annexe C.
+2. Le cas échéant, décision d'admission avec réfaction.
 
-2. Dans le seul cas où des pénalités de retard sont appliquées par l'ordonnateur sur les paiements, état liquidatif.
+3. - Dans le seul cas où des pénalités sont appliquées par l'ordonnateur sur les paiements, état liquidatif ;
 
-3. En cas d'exonération ou de réduction de ces retenues : décision de l'autorité compétente prononçant l'exonération ou la réduction.
+- En cas d'exonération ou de réduction de ces pénalités : délibération ou décision de l'autorité compétente prononçant l'exonération ou la réduction.
 
-4. Le cas échéant, état liquidatif des variations de prix, établi conformément à l'annexe E.
+4. Le cas échéant, état liquidatif des actualisations et/ou révisions de prix, établi conformément à l'annexe E.
 
 5. En cas de résiliation du marché, décision de résiliation et décompte de liquidation.
 
-423252. Marchés de travaux
+4122252. Marchés de travaux
 
-1. Décision de réception ou acte en tenant lieu, pris par l'autorité compétente ou à défaut proposition du maître d'œuvre ou décision de justice portant date d'effet de la réception ;
+1. Décision de réception prise par l'autorité compétente ou à défaut proposition du maître d'œuvre ou décision de justice portant date d'effet de la réception,
 
-Ou
+ou
 
 En cas de résiliation :
 
-– décision de résiliation ;
+- décision de résiliation ;
 
-– procès verbal portant réception des ouvrages et parties d'ouvrages exécutés.
+- procès-verbal portant réception des ouvrages et parties d'ouvrages exécutés.
 
-2. Décompte général et définitif, ou document en tenant lieu, le cas échéant,
+2. Décompte général et définitif (17),
 
-Ou, en cas de résiliation, décompte de résiliation.
+ou
 
-3. Constat, situation, relevé, mémoire ou facture justifiant le décompte.
+Le cas échéant, décompte de résiliation.
 
-4. Dans le seul cas où des pénalités de retard sont appliquées par l'ordonnateur sur les paiements, état liquidatif.
+3. Constat, situation, relevé, mémoire ou facture justifiant le décompte ;
 
-5. En cas d'exonération ou de réduction de ces retenues : délibération ou décision de l'autorité compétente prononçant l'exonération ou la réduction.
+En cas de désaccord : décompte général admis par l'ordonnateur et complément éventuel sur solde mandaté sur pièce justifiant l'accord entre les parties ou décision de justice.
 
-6. Le cas échéant, état liquidatif des variations de prix, établi conformément à l'annexe E.
+4. - Dans le seul cas où des pénalités sont appliquées par l'ordonnateur sur les paiements : état liquidatif.
 
-42326. Remboursement de la retenue de garantie
+- En cas d'exonération ou de réduction de ces pénalités : délibération ou décision de l'autorité compétente prononçant l'exonération ou la réduction.
 
-1. Décision de l'ordonnateur de libérer la retenue de garantie et, le cas échéant, réception d'une garantie de substitution.
+5. Le cas échéant, état liquidatif des actualisations et/ou révisions de prix, établi conformément à l'annexe E.
 
-2. Le cas échéant, pièces justificatives prévues pour le paiement du solde.
+(17) En cas d'établissement d'un décompte général et définitif accepté tacitement et afin de déterminer le point de départ du délai de paiement du solde, production d'une attestation, d'un certificat administratif ou d'une mention apposée sur le décompte général définitif (DGD) par le représentant du pouvoir adjudicateur indiquant la date d'expiration du délai de 10 jours prévu à l'article 13.4.4 du CCAG-travaux.
+
+412226. Remboursement de la retenue de garantie
+
+1. Décision de l'ordonnateur de libérer la retenue de garantie ou le cas échéant, réception d'une garantie de substitution.
+
+2. Dans le cas où elles n'ont pas été produites préalablement au comptable, pièces justificatives prévues pour le paiement du solde.
 
 3. Le cas échéant, décision de levée de réserves.
 
-424. Marchés passés sur le fondement d'un accord-cadre (33)
+413. Les accords-cadres (18)
 
-1. Accord-cadre prévu à l'article 42 du décret 2005-1742.
+(18) Les accords-cadres, quel que soit leur montant, sont susceptibles de se référer à un CCAG approuvé par arrêté (rubrique 4122), ou de ne pas se référer à un CCAG approuvé par arrêté (rubrique 4121).
 
-2. Marché passé sur le fondement de l'accord-cadre.
+4131. Pièces générales
 
-3. Pièces énumérées aux rubriques 422 et 423 selon les modalités de présentation de la dépense par l'ordonnateur.
+41311. Accord-cadre exécuté par bon de commande
 
-(33) Pour les caractéristiques formelles d'un accord-cadre, voir le C de l'annexe G. Pour les spécificités des marchés passés sur le fondement d'un tel accord, voir le D de la même annexe.
+1. Accord-cadre : pièces énumérées à la rubrique 412 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-425. Sous-traitance et paiement direct
+2. Uniquement dans le cas où des primes ou des pénalités sont décomptées, le bon de commande mettant en œuvre les dispositions financières du marché relatives aux délais d'exécution, aux primes, ou aux pénalités.
 
-4251. Paiement direct au sous traitant
+3. Lorsque la date d'exécution des prestations est postérieure à la date de fin du marché : le(s) bon(s) de commande correspondant(s).
 
-42511. Pièces générales (à fournir lors du premier paiement)
+4. En cas de versement d'une avance : le bon de commande correspondant.
 
-1. Marché, avenant ou tout document écrit signé (34) par l'autorité compétente pour passer le marché et par le titulaire de celui-ci précisant la nature des prestations sous-traitées, le nom, la raison ou la dénomination sociale et l'adresse du sous-traitant, le montant des prestations sous-traitées et les conditions de paiement prévues pour chaque contrat de sous-traitance.
+41312. Accord-cadre exécuté par marché subséquent
 
-2. Pièce justificative produite par le titulaire du marché établissant que la cession ou le nantissement dont sa créance a fait l'objet ne fait pas obstacle au paiement direct du sous-traitant, le cas échéant ou certificat attestant que cette créance n'a pas été cédée, ni nantie.
+1. Accord-cadre.
 
-3. En cas d'augmentation des prestations sous-traitées :
+2. Marché subséquent, passé sur le fondement de l'accord-cadre : pièces énumérées à la rubrique 412 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-a) Avenant, acte modificatif ou tout document écrit justifiant l'augmentation de la part du sous-traitant.
+3. Uniquement dans le cas où des primes ou des pénalités sont décomptées, le bon de commande mettant en œuvre les dispositions financières du marché relatives aux délais d'exécution, aux primes, ou aux pénalités.
 
-b) Avenant augmentant le montant global du marché, le cas échéant,
+4. Lorsque la date d'exécution des prestations est postérieure à la date de fin du marché : le(s) bon(s) de commande correspondant(s).
+
+5. En cas de versement d'une avance : le bon de commande correspondant.
+
+4132. Remboursement de la retenue de garantie
+
+1. Décision de l'ordonnateur de libérer la retenue de garantie ou le cas échéant, réception d'une garantie de substitution.
+
+2. Dans le cas où elles n'ont pas été produites préalablement au comptable, pièces justificatives prévues pour le paiement du solde.
+
+3. Le cas échéant, décision de levée de réserves.
+
+414. Sous-traitance et paiement direct
+
+4141. Paiement direct
+
+41411. Pièces générales (à fournir lors du premier paiement)
+
+1. Marché, document matérialisant les modifications apportées au marché, acte spécial ou tout document établi par l'ordonnateur et par le titulaire du marché précisant la nature des prestations sous-traitées, le nom, la raison sociale, l'adresse du sous-traitant et son numéro de SIRET, le montant des prestations sous-traitées et les conditions de paiement prévues pour chaque contrat de sous-traitance (19).
+
+2. Pièce justificative produite par le titulaire du marché établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle au paiement direct du sous-traitant,
+
+ou
+
+Certificat attestant que cette créance n'a ni été cédée, ni nantie.
+
+3. En cas de modification des prestations sous-traitées :
+
+a) Acte spécial modificatif ou tout document écrit justifiant la modification de la part du sous-traitant ;
+
+b) Le cas échéant, document matérialisant l'augmentation du montant global du marché ;
 
 Et/ou
 
-Avenant, acte spécial modificatif ou tout document écrit justifiant la diminution de la part du ou des autres sous-traitant (s) et du titulaire à due concurrence du montant de la modification l'augmentation visée au a.
+Document matérialisant les modifications apportées au marché, acte spécial modificatif ou tout document écrit justifiant la diminution de la part du ou des autres sous-traitant(s) à due concurrence du montant de la modification visée au a).
 
-(34) Aucun versement ne peut être effectué au profit d'un sous-traitant au titre du paiement direct en l'absence d'un document écrit, marché, avenant ou acte de sous-traitance établissant les droits du sous-traitant.
+(19) Aucun versement ne peut être effectué au profit d'un sous-traitant au titre du paiement direct en l'absence de document écrit, marché, document matérialisant les modifications apportées au marché, ou acte spécial de sous-traitance établissant les droits du sous-traitant. L'acceptation du sous-traitant et l'agrément de ses conditions de paiement peuvent résulter d'un accord tacite du pouvoir adjudicateur (cf. articles L. 2193-13, R. 2193-12, R. 2193-13 du code de la commande publique). Cet accord tacite peut se matérialiser par un certificat administratif appuyé de la déclaration de sous-traitance établie par le titulaire. Cette déclaration énonce la nature des prestations sous-traitées, le nom, la raison sociale, l'adresse du sous-traitant et son numéro de SIRET, le montant des prestations sous-traitées ainsi que les conditions de paiement. Le certificat administratif doit indiquer la date à laquelle l'accord tacite est intervenu (expiration du délai de vingt et un jours prévu aux articles L. 2193-13, R. 2193-12 et R. 2193-13 du code de la commande publique).
 
-42512. Pièces particulières
+41412. Pièces particulières
 
-425121. Avances
+414121. Avances
 
 1. Ensemble des pièces produites par le titulaire du marché pour le paiement à son profit d'une dépense de même nature.
 
@@ -946,283 +286,565 @@ Avenant, acte spécial modificatif ou tout document écrit justifiant la diminut
 
 3. Etat liquidatif du montant de l'avance.
 
-4. Le cas échéant, copie de la garantie à première demande pour le remboursement de l'avance.
+4. Le cas échéant, garantie à première demande ou caution personnelle et solidaire pour le remboursement de l'avance.
 
-425122. Acompte et règlement unique et intégral et paiement du solde
+414122. Acompte, paiement unique et intégral, paiement du solde
 
 1. Ensemble des pièces produites par le titulaire du marché pour le paiement à son profit d'une dépense de même nature.
 
-2. Attestation du titulaire comportant l'indication de la somme à régler directement au sous-traitant,
+2. Attestation du titulaire, ou facture, ou bordereau de suivi issu de la solution mutualisée (20), comportant l'indication de la somme à régler directement au sous-traitant,
 
-Ou
+ou
 
-En cas de redressement ou de liquidation judiciaires, ou en cas d'empêchement du titulaire et en l'absence d'attestation de la part du titulaire ou de son représentant, attestation du maître d'ouvrage comportant l'indication de la somme à régler directement au sous-traitant,
+En cas de redressement, liquidation judiciaire ou d'empêchement du titulaire et en l'absence d'attestation de la part du titulaire ou de son représentant, attestation du maître d'ouvrage comportant l'indication de la somme à régler directement au sous-traitant,
 
-Ou
+ou
 
 Accord amiable ou décision de justice.
 
-4252. Action directe du sous-traitant
+3. Le cas échéant, lorsque le titulaire n'a pas donné son accord ou notifié son refus à l'expiration qui délai qui lui est imparti, la facture du sous-traitant.
 
-42521. Paiement au sous-traitant
+(20) Dans le cadre de la facturation électronique, il est tenu compte de la solution mutualisée, (Chorus Pro), décrite à l'article L. 2192-5 du code de la commande publique.
 
-1. Mise en demeure adressée par le sous-traitant au titulaire du marché en vue du paiement d'une somme due pour un montant déterminé en vertu d'un contrat de sous-traitance et pour l'exécution du marché.
+4142. Sous-traitance et action directe
 
-2. Caution du délégataire ou, le cas échéant, convention de délégation du maître de l'ouvrage.
+41421. Paiement au sous-traitant
 
-3. Demande de paiement accompagnée d'un procès-verbal relatant la constatation matérielle des prestations effectuées et l'acceptation du titulaire,
+1. Mise en demeure adressée par le sous-traitant au titulaire du marché d'avoir à lui payer une somme due pour un montant déterminé en vertu d'un contrat de sous-traitance et pour l'exécution du marché.
 
-Ou
+2. Demande de paiement accompagnée d'un procès-verbal relatant la constatation matérielle des prestations effectuées et l'acceptation du titulaire,
+
+ou
 
 Décision de justice définitive,
 
-Ou
+ou
 
 Accord entre les parties.
 
-4. Etat liquidatif des sommes restant dues au titulaire du marché au jour de la réception de la mise en demeure.
+41422. Paiement au titulaire du marché
 
-42522. Paiement au titulaire du marché
+Reçu du sous-traitant attestant le règlement par le titulaire et signé par le titulaire et le sous-traitant ou décision de justice définitive ou accord des intéressés.
 
-Reçu du sous-traitant attestant le règlement par le titulaire,
+415. Les centrales d'achat, les groupements de commande
 
-Ou
+4151. Les groupements de commande (21)
 
-décision de justice définitive,
+(21) Articles L. 2113-6 à L. 2113-8 du code de la commande publique.
 
-Ou
-
-accord des intéressés.
-
-426. Coordination, groupement de commandes
-
-4261. Coordination des commandes au sein d'un même organisme public
-
-1. Convention, le cas échéant.
-
-2. Pièces énumérées aux sous-rubriques 422 ou 423 selon les modalités de présentation de la dépense par l'ordonnateur.
-
-4262. Groupement de commandes de plusieurs organismes
-
-42621. Pièces à fournir dans tous les cas
+41511. Pièces à fournir dans tous les cas
 
 Convention constitutive du groupement.
 
-42622. Pièces à fournir selon les cas
+41512. Pièces à fournir selon les cas
 
-426221. Cas où chaque membre du groupement exécute sa propre partie
+415121. Cas où chaque membre du groupement exécute sa propre partie
 
-Pièces énumérées aux rubriques 422 et 423 selon les modalités de présentation de la dépense par l'ordonnateur.
+Pièces énumérées aux rubriques 411 et 412 selon les modalités de présentation de la dépense à l'ordonnateur.
 
-426222. Cas où le coordonnateur exécute le marché au nom de l'ensemble des membres du groupement
+415122. Cas où le coordonnateur exécute le marché au nom de l'ensemble des membres du groupement
 
-4262221. En cas de participation aux débours du coordonnateur
+4151221. En cas de participation aux débours du coordonnateur
 
-1. Pièces énumérées aux rubriques 422 et 423 selon les modalités de présentation de la dépense par l'ordonnateur.
+1. Pièces énumérées aux rubriques 411 et 412 selon les modalités de présentation de la dépense à l'ordonnateur.
 
 2. Demande du coordonnateur lorsque la convention constitutive ne prévoit pas le montant et les modalités du versement de la participation.
 
-4262222. En cas de remboursement
+4151222. En cas de remboursement
 
-1. Pièces énumérées aux rubriques 422 et 423 selon les modalités de présentation de la dépense par l'ordonnateur.
+1. Pièces énumérées aux rubriques 411 et 412 selon les modalités de présentation de la dépense à l'ordonnateur.
 
 2. Etat liquidatif ou décompte établi par le coordonnateur.
 
-4263. Paiements à une centrale d'achat disposant de la qualité de pouvoir adjudicateur
+4152. Paiement à une centrale d'achat (22)
 
-42631. Paiements d'une prestation d'achat de fourniture ou de service
+(22) Une centrale d'achat est nécessairement un acheteur soumis au code de la commande publique, c'est-à-dire un pouvoir adjudicateur ou une entité adjudicatrice, tels qu'ils sont définis aux articles L. 1211-1 et L. 1212-1 du code de la commande publique.
 
-1. Le cas échéant, convention entre la collectivité et la centrale d'achat ou acte d'adhésion à la centrale d'achat.
+41521. Paiement d'une prestation d'achat de fournitures ou de services (23)
 
-2. Facture ou mémoire.
+1. Le cas échéant, convention entre la personne publique et la centrale d'achat, ou acte d'adhésion.
 
-42632. Paiement d'une prestation d'intermédiation contractuelle
+2. Facture ou mémoire émis par la centrale d'achat.
 
-1. Convention de mandat entre la collectivité et la centrale d'achat portant sur la dépense concernée.
+(23) 1° de l'article L. 2113-2 du code de la commande publique.
 
-2. Facture ou mémoire émis par la centrale d'achat ou, le cas échéant, par le fournisseur.
+41522. Paiement d'une prestation d'intermédiation contractuelle pour l'achat de fournitures, services ou travaux (24)
 
-42633. Paiement à l'UGAP
+(24) 2° de l'article L. 2113-2 du code de la commande publique.
+
+1. Convention de mandat entre la personne publique et la centrale d'achat portant sur la prestation concernée.
+
+2. Facture ou mémoire émis par la centrale d'achat, ou le cas échéant, du fournisseur.
+
+41523. Avance à l'Union des Groupements d'Achat Public (UGAP)
 
 1. Le cas échéant, convention.
 
-2. Facture ou mémoire.
+2. Mémoire.
 
-427. Paiements à des tiers substitués au créancier initial
+416. Paiements à des tiers substitués au créancier initial
 
-4271. Paiement des créances afférentes à une cession ou à un nantissement de créances
+4161. Paiements en cas de cession de créances ou de nantissement
 
-42711. Pièces communes
+41611. Pièces communes
 
-Pièces énumérées aux rubriques 422 et 423 selon les modalités de présentation de la dépense par l'ordonnateur.
+Pièces énumérées aux rubriques 411 et 412 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-42712. Pièces particulières
+41612. Pièces particulières
 
-427121. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre des dispositions prévues par les articles L. 313-23 et suivants du code monétaire et financier
+416121. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement
 
-1. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (35).
+1. Dans le cadre d'un marché public faisant l'objet d'un contrat écrit, exemplaire unique du marché, du document matérialisant les modifications apportées au marché, de l'acte spécial ou de tout document écrit visé à la rubrique 41411, comportant une mention de l'ordonnateur indiquant que cette pièce est délivrée en unique exemplaire en vue de la cession (ou du nantissement) des créances résultant du marché,
 
-2. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec avis de réception, ou tout autre moyen permettant de donner date certaine.
+ou
 
-3. Le cas échéant, attestation de l'établissement de crédit établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
+Certificat de cessibilité.
 
-4. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, copie de l'acte d'acceptation de la cession signée du représentant du pouvoir adjudicateur (36).
+2. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (25).
 
-(35) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
+3. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec avis de réception, ou tout autre moyen permettant de donner date certaine.
 
-(36) L'acceptation de la cession de créance oblige la personne publique à payer intégralement le cessionnaire sans lui opposer aucune exception tirée de ses rapports avec l'entreprise cédée et notamment de la manière dont elle a exécuté le contrat.
+4. Le cas échéant, attestation de l'établissement de crédit établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit(e) de manière à réaliser cette condition.
 
-427122. Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit commun
+5. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, acte d'acceptation de la cession signé par l'ordonnateur (26).
 
-1. Exemplaire original de la signification de la cession (ou du nantissement) énonçant la qualité du comptable assignataire, du cédant (du titulaire du marché ou du sous-traitant à l'initiative du nantissement), du cessionnaire (ou du bénéficiaire du nantissement) et désignant la créance cédée (ou nantie).
+(25) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
 
-2. Le cas échéant, attestation du cessionnaire (ou du bénéficiaire du nantissement) établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
+(26) L'acceptation de la cession de créance oblige la personne publique à payer intégralement le cessionnaire sans lui opposer aucune exception tirée de ses rapports avec l'entreprise cédée et notamment de la manière dont elle a exécuté le marché.
 
-3. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, copie de l'acte d'acceptation de la cession signée du représentant du pouvoir adjudicateur (36).
+416122. Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit commun
 
-42713. Paiement au cédant (ou au titulaire du marché ou au sous-traitant à l'initiative du nantissement)
+1. Dans le cadre d'un marché public faisant l'objet d'un contrat écrit, exemplaire unique du marché, du document matérialisant les modifications apportées au marché, de l'acte spécial ou de tout document écrit visé à la rubrique 41411, comportant une mention de l'ordonnateur indiquant que cette pièce est délivrée en unique exemplaire en vue de la cession (ou du nantissement) des créances résultant du marché,
+
+ou
+
+Certificat de cessibilité.
+
+2. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (27).
+
+3. Le cas échéant, attestation du cessionnaire (ou du bénéficiaire du nantissement) établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit(e) de manière à réaliser cette condition.
+
+4. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, acte d'acceptation de la cession signé par l'ordonnateur (28).
+
+(27) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
+
+(28) L'acceptation de la cession de créance oblige la personne publique à payer intégralement le cessionnaire sans lui opposer aucune exception tirée de ses rapports avec l'entreprise cédée et notamment de la manière dont elle a exécuté le marché.
+
+41613. Paiement au cédant (ou au titulaire du marché ou au sous- traitant à l'initiative du nantissement)
 
 Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
 
-Ou
+ou
 
 Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine.
 
-4272. Paiement dans le cadre d'une délégation de créances afférente à un marché public
+4162. Paiement dans le cadre d'une délégation de créances afférente à un marché public
 
-42721. Paiement à un délégataire du titulaire du marché ou du sous-traitant ayant droit au paiement direct
+41621. Paiement à un délégataire du titulaire du marché ou du sous-traitant ayant droit au paiement direct
 
-427211. Pièces communes
+416211. Pièces communes
 
-Pièces énumérées aux rubriques 421 ou 422 selon les modalités de présentation de la dépense par l'ordonnateur.
+Pièces énumérées aux rubriques 411 et 412 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-427212. Pièces particulières
+416212. Pièces particulières
 
-1. Convention de délégation signée par la personne publique, le titulaire du marché ou le sous-traitant ayant droit au paiement direct et du délégataire.
+- convention de délégation entre la personne publique, le titulaire du marché ou le sous-traitant ayant droit au paiement direct et le délégataire ;
 
-2. Pièce justificative produite par le délégant établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle à la réalisation de la délégation ou que son montant a été réduit afin que la délégation soit possible,
+- pièce justificative produite par le délégant établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle à la réalisation de la délégation ou que son montant a été réduit afin que la délégation soit possible ;
 
-Ou
+ou
 
-Certificat attestant que cette créance n'a été ni cédée, ni nantie.
+- certificat attestant que cette créance n'a été ni cédée, ni nantie.
 
-42722. Paiement à un délégataire sous-traitant de second rang
+41622. Paiement à un délégataire sous-traitant de second rang
 
-427221. Pièces communes
+416221. Pièces communes
 
-Pièces énumérées aux rubriques 422 ou 423 selon les modalités de présentation de la dépense par l'ordonnateur.
+Pièces énumérées aux rubriques 411 et 412 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-427222. Pièces particulières
+416222. Pièces particulières
 
-1. Pièces justificatives relatives à la demande du sous-traitant de 1er rang définies à la rubrique 425.
+1. Pièces justificatives relatives à la demande du sous-traitant de 1er rang définies à la rubrique 414.
 
 2. Convention de délégation.
 
-3. Document établi par le sous-traitant de 1er rang indiquant la somme à verser au sous-traitant de 2e rang, cette somme ne pouvant pas dépasser la limite du montant reconnu comme étant dû au sous-traitant de 1er rang.
+3. Document établi par le sous-traitant de 1er rang indiquant la somme à verser au sous-traitant de 2ᵉ rang, cette somme ne pouvant pas dépasser la limite du montant reconnu comme étant dû au sous-traitant de 1er rang.
 
 4. Pièce justificative produite par le délégant établissant que la cession (ou le nantissement) dont sa créance a fait l'objet ne fait pas obstacle à la réalisation de la délégation ou que son montant a été réduit afin que la délégation soit possible,
 
-Ou
+ou
 
 Certificat attestant que cette créance n'a été ni cédée, ni nantie.
 
-4273. Paiement à un factor
+4163. Paiement à un factor
 
-42731. Dans le cadre d'une cession (paragraphe B de l'annexe F de la présente liste)
+41631. Dans le cadre d'une cession ou d'un nantissement (paragraphe B de l'annexe F de la présente liste)
 
-Pièces justificatives prévues aux rubriques 42711 et 427121, pièces 1 et 4.
+Pièces justificatives prévues aux rubriques 41611 et 416121, pièces 1 à 4.
 
-42732. Dans le cadre d'une subrogation (paragraphe A de l'annexe F de la présente liste)
+41632. Dans le cadre subrogation (paragraphe A de l'annexe F de la présente liste)
 
 1. Pièces justificatives du paiement des marchés selon les modalités de présentation de la dépense par l'ordonnateur.
 
-2. Mention subrogative réglementaire portée sur la demande de paiement (mémoire, facture, situation de travaux...) dans les conditions fixées au paragraphe A de l'annexe F du présent décret.
+2. Mention subrogative réglementaire portée sur la demande de paiement (mémoire, facture, situation de travaux…) dans les conditions fixées au paragraphe A de l'annexe F du présent décret.
 
 3. En cas de pluralité d'oppositions, quittance subrogative datée.
 
-428. Paiements en situation exceptionnelle
+417. Paiement en situation exceptionnelle
 
-4281. Paiements en situation d'urgence
+4171. Paiement en situation d'urgence
 
-42811. Réquisition d'une entreprise
+41711. Réquisition d'une entreprise
 
 1. Arrêté de réquisition de l'entreprise.
 
-2. Pièces justificatives prévues par l'arrêté, le cas échéant.
+2. Le cas échéant, pièces justificatives prévues par l'arrêté.
 
 3. Facture ou mémoire.
 
-42812. Marchés exécutés en situation d'urgence impérieuse
+41712. Marchés exécutés en situation d'urgence impérieuse
 
-1. Marché ou copie de l'échange des courriers entre la personne publique et l'entreprise.
+1. Marché ou échange des courriers entre la personne publique et l'entreprise.
 
-2. Le cas échéant, pièces prévues dans le marché ou dans l'échange de courrier.
+2. Le cas échéant, pièces prévues dans le marché ou dans l'échange de courriers.
 
 3. Facture ou mémoire.
 
-4282. Paiement dans le cadre d'une transaction
+4172. Paiement dans le cadre d'une transaction
 
-1. Décision de l'autorité compétente autorisant le recours à la transaction.
+1. Délibération autorisant la transaction, sauf pour les établissements publics de santé (EPS).
 
 2. Transaction.
 
-3. Si la transaction met fin au marché, pièces justificatives prévues à la rubrique 42325 (21).
+3. Si la transaction met fin au marché, pièces justificatives prévue à la rubrique 412225 (29).
 
-4283. Paiements en cas de mise en régie des prestations d'un marché public (37)
+(29) Lorsque la transaction intègre les opérations de solde du marché, il n'est pas exigé d'autres pièces pour procéder à son paiement.
 
-1. Décision de mise en régie.
+4173. Paiement en cas d'exécution aux frais et risques du titulaire (mise en régie des prestations d'un marché public) (30)
+
+1. Décision de mise en régie aux frais et risques du titulaire.
 
 2. Constat des travaux exécutés avant la mise en régie.
 
-3. Décompte (s) afférent (s) aux travaux exécutés après la mise en régie.
+3. Décompte(s) afférent(s) aux travaux exécutés après la mise en régie.
 
-(37) La mise en régie se définit comme le moyen offert à l'acheteur public pour dessaisir son cocontractant de ses prérogatives et poursuivre l'exécution des prestations aux risques et périls du cocontractant défaillant en utilisant ses propres moyens humains et matériels.
+(30) L'exécution aux frais et risques du titulaire (mise en régie) se définit comme le moyen offert à l'acheteur public pour dessaisir son cocontractant de ses prérogatives et poursuivre l'exécution des prestations aux risques et périls du cocontractant défaillant en utilisant ses propres moyens humains et matériels.
 
-429. Autres marchés publics spécifiques (38)
+418. Autres marchés publics spécifiques
 
-(38) Selon les cas, le paragraphe A ou le paragraphe B de l'annexe G s'applique à ces marchés.
+4181. Transports scolaires
 
-4291. Marché public de credit-bail
+41811. Versement à l'autorité organisatrice de " second rang " ou à l'autorité compétente en cas de modification du périmètre urbain
 
-Cf. rubrique 4192.
+418111. Premier paiement
 
-4292. Marchés publics d'assurances
+1. Convention fixant les conditions de financement des services de transport dont la responsabilité est transférée.
 
-Cf. rubrique 4193.
+2. Délibération autorisant l'ordonnateur à passer la convention.
 
-4293. Paiement d'opérations réalisées sous mandat
+3. Délibérations des assemblées délibérantes de l'autorité organisatrice délégante et de l'autorité organisatrice de second rang délégataire approuvant la convention
 
-Cf. rubrique 4194.
+4. Etat liquidatif.
 
-43. Délégations de service public (39)
+418112. Autres paiements
 
-(39) Si les prestations concernent un immeuble, sa localisation géographique est mentionnée sur une des pièces justificatives jointes au mandat.
+Etat liquidatif.
 
-431. Pièces générales
+41812. Versement au titulaire du marché public passé par l'autorité organisatrice de second rang
 
-1. Document portant la référence à la délibération ou à la décision d'attribution de la délégation de service public.
+Pièces énumérées à la rubrique 412.
 
-2. Contrat, s'il y a lieu, et, le cas échéant, cahier des charges.
+4182. Marché public de crédit-bail
 
-3. Le cas échéant, pièces justificatives prévues dans le contrat.
+41821. Crédit-bail immobilier
 
-4. Le cas échéant, pour les contrats en cours, avis du DRFIP ou du DDFiP, ainsi que la délibération, portant sur la durée de la convention.
+418211. Exécution du marché
 
-5. Facture ou mémoire.
+4182111. Premier paiement
 
-432. Paiement à un tiers opposant
+1. Marché, avec le cas échéant mention d'inscription au fichier immobilier et mentionnant, en particulier, les droits acquis par le bailleur de l'immeuble.
 
-4321. Pièces communes
+2. Etat-réponse attestant l'absence d'inscription hypothécaire (31).
 
-Pièces énumérées aux rubriques 431 et 432 selon le titulaire de la créance.
+3. Décompte ou facture.
 
-4322. Paiement des créances afférentes à une cession ou à un nantissement de créances de droit commun
+(31) Etat-réponse délivré dans les conditions énoncées à la rubrique acquisitions immobilières.
 
-1. Signification de la cession (ou du nantissement) énonçant la qualité du comptable assignataire, du cédant (du titulaire de la convention de délégation de service public à l'initiative du nantissement), du cessionnaire (ou du bénéficiaire du nantissement) et désignant la créance cédée (ou nantie).
+4182112. Autres paiements
 
-2. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, copie de l'acte d'acceptation de la cession signée du représentant du pouvoir adjudicateur.
+Décompte.
 
-4323. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre d'une cession de créance prévue aux articles L. 313-23 et suivants du code monétaire et financier
+418212. Reprise d'un marché de crédit-bail (32)
+
+1. Contrat de cession et du marché de crédit-bail.
+
+2. Etat-réponse attestant l'absence d'inscription hypothécaire (33).
+
+3. Décompte.
+
+(32) La collectivité se substitue par cession au premier preneur.
+
+(33) Etat-réponse délivré dans les conditions énoncées à la rubrique acquisitions immobilières.
+
+418213. Indemnité versée par le preneur en cas de résiliation de marché
+
+1. Acte portant résiliation du marché.
+
+2. Décompte appliquant la clause contractuelle portant pénalités,
+
+ou
+
+Indemnité fixée par le juge.
+
+418214. Prolongation du marché de crédit-bail
+
+Document matérialisant les modifications apportées au marché avec, le cas échéant, la mention de publication au fichier immobilier.
+
+418215. Réalisation de la promesse de vente
+
+1. Décision de l'assemblée délibérante autorisant la levée de l'option.
+
+2. Décompte portant mention des paiements effectués et de la valeur résiduelle fixée par référence au marché.
+
+3. Etat-réponse attestant l'absence d'inscription hypothécaire.
+
+41822. Crédit bail mobilier
+
+418221. Exécution du marché
+
+4182211. Premier paiement
+
+1. Marché.
+
+2. Décompte.
+
+4182212. Autres paiements
+
+Décompte.
+
+418222. Reprise d'un marché de crédit-bail
+
+4182221. Premier paiement
+
+1. Contrat de cession et marché de crédit-bail.
+
+2. Décompte.
+
+4182222. Autres paiements
+
+Décompte.
+
+418223. Indemnité versée par le preneur en cas de résiliation de marché
+
+1. Délibération autorisant la résiliation.
+
+2. Décompte appliquant la clause contractuelle portant pénalités,
+
+Ou indemnité fixée par le juge.
+
+418224. Prolongation du marché de crédit-bail
+
+Document matérialisant les modifications apportées au marché.
+
+418225. Réalisation de la promesse de vente
+
+1. Décision de l'assemblée délibérante autorisant la levée de l'option.
+
+2. Décompte portant mention des paiements effectués et de la valeur résiduelle fixée par référence au marché.
+
+4183. Marché public d'assurance
+
+41831. Première prime
+
+1. Marché d'assurance.
+
+2. Avis de paiement de l'assureur.
+
+41832. Autres primes
+
+Avis de paiement de l'assureur.
+
+41833. Modification des clauses du marché
+
+1. Si la modification résulte de dispositions légales, décompte de révision.
+
+2. Si la modification résulte de la volonté des contractants, marché d'assurance modifié ou document matérialisant les modifications apportées au marché et avis de paiement.
+
+4184. Paiement d'opérations réalisées sous mandat
+
+41841. Paiement de la rémunération du mandataire
+
+1. Convention de mandat.
+
+2. Décompte.
+
+41842. Financement des opérations effectuées par le mandataire
+
+418421. Lorsque le mandataire est un organisme non doté d'un comptable public
+
+4184211. Avances
+
+a) Premier paiement
+
+Convention de mandat et, le cas échéant, document matérialisant les modifications apportées à la convention.
+
+b) Autres paiements
+
+Décompte des opérations et de leur montant justifiant l'utilisation de la dernière avance versée, accompagné des pièces justificatives prévues aux rubriques concernées de la présente liste selon la nature des dépenses afférentes à ces opérations
+
+4184212. Remboursement des débours
+
+a) Premier paiement
+
+1. Convention de mandat et, le cas échéant, document matérialisant les modifications apportées à la convention.
+
+2. Décompte des opérations effectuées accompagné des pièces justificatives prévues aux rubriques concernées de la présente liste selon la nature des dépenses afférentes à ces opérations.
+
+b) Autres paiements
+
+Décompte des opérations effectuées accompagné des pièces justificatives prévues aux rubriques concernées de la présente liste selon la nature des dépenses afférentes à ces opérations.
+
+418422. Lorsque le mandataire est un organisme doté d'un comptable public
+
+4184221. Avances
+
+a) Premier paiement
+
+1. Convention de mandat et, le cas échéant, document matérialisant les modifications apportées à la convention.
+
+2. Le cas échéant, délibération fixant le montant de l'avance et ses bases de calcul.
+
+b) Autres paiements
+
+Décompte des opérations et de leur montant justifiant l'utilisation de l'avant-dernière avance, accompagné d'une attestation du comptable certifiant que les paiements effectués par lui sont appuyés des pièces justificatives correspondantes prévues par la présente liste et qu'il est en possession de toutes les pièces afférentes à ces opérations.
+
+4184222. Remboursement des débours
+
+a) Premier paiement
+
+1. Convention de mandat et, le cas échéant, document matérialisant les modifications apportées à la convention.
+
+2. Décompte des opérations effectuées.
+
+b) Autres paiements
+
+Décompte des opérations effectuées.
+
+4185. Marché d'émission de cartes d'achat
+
+41851. Premier paiement du marché d'émission de cartes d'achat
+
+1. Marché d'émission de cartes d'achat.
+
+2. Le cas échéant, marché exécuté par cartes d'achat.
+
+3. Le cas échéant, annexes du contrat ayant des incidences financières.
+
+4. Relevé d'opérations relatif à la créance à payer à l'émetteur.
+
+5. Le cas échéant, toutes pièces justificatives définies dans les documents contractuels.
+
+6. Le cas échéant, facture de la prestation d'émission de cartes d'achat.
+
+41852. Paiements suivants du marché d'émission de cartes d'achat
+
+1. Relevés d'opérations relatifs à la créance à payer à l'émetteur.
+
+2. Le cas échéant, facture de la prestation d'émission de cartes d'achat.
+
+419. Les marchés de partenariat (34)
+
+(34) Les mentions obligatoires devant figurer dans les marchés de partenariat sont décrites à l'annexe H de la présente liste.
+
+4191. Pièces générales
+
+1. Marché de partenariat comportant les mentions obligatoires décrites à l'annexe H y compris un échéancier des paiements.
+
+2. Certificat attestant que les conditions du versement de la rémunération sont remplies.
+
+3. Mémoire ou facture.
+
+4192. Pièces particulières
+
+1. Le cas échéant, pièces justificatives définies dans le marché de partenariat, lorsqu'elles emportent des conséquences financières.
+
+2. Le cas échéant, acte constatant la prise de possession de l'ouvrage.
+
+3. En cas de versement d'avance prévu dans le marché, marché de partenariat.
+
+4. En cas de versement d'acompte, état liquidatif.
+
+5. En cas de sous-traitance, caution personnelle et solidaire d'un organisme financier (ou délégation du maître de l'ouvrage au sous-traitant à concurrence du montant des prestations exécutées par le sous-traitant).
+
+6. En cas de marché de partenariat conclu par un groupement de commande, convention constitutive du groupement.
+
+7. En cas de subvention du marché de partenariat, échéancier de versement et écrit fixant les modalités de versement.
+
+8. En cas de versement de primes aux candidats, règlement de la consultation ou avis d'appel public à la concurrence prévoyant les modalités d'allocation de primes et état liquidatif par bénéficiaire.
+
+9. En cas de défaillance du titulaire du marché, document constatant le transfert des contrats passés par le partenaire privé vers la personne publique.
+
+4193. Paiement en cas de cession de créance ou de nantissement
+
+41931. Paiement à un établissement de crédit ou paiement à un organisme de financement dans le cadre d'une cession prévue aux articles L. 214-169 et suivants du code monétaire et financier.
+
+1. Pièces énumérées aux rubriques 4191 et 4192.
+
+2. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (35).
+
+3. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec avis de réception, ou tout autre moyen permettant de donner date certaine.
+
+4. En cas de cession en application de l'article L. 313-29-1 du code monétaire et financier, attestation de la personne publique constatant la réalisation des investissements.
+
+(35) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
+
+41932. Paiement au cédant (ou au titulaire du contrat)
+
+Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit ou l'organisme de financement par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
+
+ou
+
+Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine.
+
+42. Les contrats de concession (36) (37)
+
+(36) Le régime juridique des contrats de concession est fixé par le code de la commande publique et par les articles L. 1411-1 et suivants du code général des collectivités territoriales.
+
+(37) Les mentions obligatoires devant figurer dans les contrats de concession sont décrites à l'annexe J de la présente liste.
+
+421. Pièces générales des contrats de concession
+
+1. Contrat de concession, et le cas échéant, cahier des charges.
+
+2. Le cas échéant, document matérialisant les modifications apportées au contrat, ordre de service, ayant des incidences financières.
+
+3. Le cas échéant, pièces justificatives prévues dans le contrat, lorsqu'elles emportent des conséquences financières.
+
+4. Facture ou mémoire du concessionnaire.
+
+422. Pièces des contrats de concession déléguant un service public dans le domaine de l'eau potable, de l'assainissement et du traitement des ordures ménagères et autres déchets
+
+1. Pièces énumérées à la rubrique 421.
+
+2. L'avis du DDFiP ou du DRFiP sur la durée du contrat, si elle dépasse 20 ans (38).
+
+(38) Les contrats de la présente rubrique ne peuvent avoir une durée supérieure à 20 ans sauf examen préalable du DDFiP/DRFiP (articles L. 3114-8 et D. 3114-3 du code de la commande publique).
+
+423. Paiement à des tiers substitués au créancier initial
+
+4231. Pièces communes
+
+Pièces énumérées aux rubriques 421 et 422 selon l'objet du contrat.
+
+4232. Paiement des créances afférentes à une cession ou à un nantissement de créances de droit commun
+
+1. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (39).
+
+2. Lorsque le paiement est dû en raison de la seule acceptation de la cession de créance, acte d'acceptation de la cession par l'ordonnateur.
+
+(39) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
+
+4233. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre d'une cession de créance prévue aux articles L. 313-23 et suivants du code monétaire et financier
 
 1. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (40).
 
@@ -1230,98 +852,50 @@ Pièces énumérées aux rubriques 431 et 432 selon le titulaire de la créance.
 
 (40) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
 
-4324. Paiement au cédant (ou au titulaire de la délégation de service public)
+4234. Paiement au cédant (ou au titulaire de la concession)
 
 Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
 
-Ou
+ou
 
-Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine.
+Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine.
 
-4325. Paiement dans le cadre d'une délégation de créance afférente à une DSP
+4235. Paiement dans le cadre d'une délégation de créance afférente à un contrat de concession
 
-1. Pièces énumérées aux rubriques 431 et 432 selon le titulaire de la créance.
+1. Pièces énumérées aux rubriques 421 et 422 selon l'objet du contrat à l'origine de la créance.
 
 2. Convention de délégation de créance.
 
-44. Les contrats de partenariat (41)
+424. Les groupements d'autorités cédantes (41)
 
-(41) Si les prestations concernent un immeuble, sa localisation géographique est mentionnée sur une des pièces justificatives jointes au mandat.
+(41) Articles L. 3112-1 à L. 3112-4 du code de la commande publique
 
-441. Pièces générales
+4241. Pièces à fournir dans tous les cas
 
-1. Document portant référence à la délibération ou à la décision autorisant la signature du contrat de partenariat.
+Convention constitutive du groupement.
 
-2. Contrat comportant les mentions obligatoires décrites à l'annexe H, y compris un échéancier des paiements.
+4242. Pièces à fournir selon les cas
 
-3. Le cas échéant, pièces justificatives définies dans les documents contractuels.
+42421. Cas où chaque membre du groupement exécute sa propre partie
 
-4. Le cas échéant, acte constatant la prise de possession de l'ouvrage.
+Pièces énumérées aux rubriques 421 et 422 selon les modalités de présentation de la dépense à l'ordonnateur.
 
-5. Le cas échéant, en cas de sous-traitance, caution personnelle et solidaire d'un établissement qualifié ou délégation du maître de l'ouvrage au sous-traitant à concurrence du montant des prestations exécutées par le sous-traitant.
+42422. Cas où le coordonnateur exécute le contrat au nom de l'ensemble des membres du groupement
 
-6. Mémoire ou facture.
+424221. En cas de participation aux débours du coordonnateur
 
-442. Paiement en cas de cession de créance ou de nantissement
+1. Pièces énumérées aux rubriques 421 et 422 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-4421. Pièces communes
+2. Demande du coordonnateur lorsque la convention constitutive ne prévoit pas le montant et les modalités du versement de la participation.
 
-Pièces énumérées à rubrique 441.
+424222. En cas de remboursement
 
-4422. Pièces particulières
+1. Pièces énumérées aux rubriques 421 et 422 selon les modalités de présentation de la dépense par l'ordonnateur.
 
-44221. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement
+2. Etat liquidatif ou décompte établi par le coordonnateur.
 
-1. Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine (42).
+425. Paiement dans le cadre d'une transaction
 
-2. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec avis de réception, ou tout autre moyen permettant de donner date certaine.
+1. Délibération, ou décision du directeur de l'établissement public de santé, autorisant la transaction.
 
-3. En cas de cession en application de l'article L. 313-29-1 du Code monétaire et financier, attestation de la personne publique constatant la réalisation des investissements.
-
-(42) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
-
-44222. Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit commun
-
-Signification de la cession permettant de donner date certaine énonçant la qualité du comptable assignataire, du cédant (du titulaire du contrat à l'initiative du nantissement), du cessionnaire (ou du bénéficiaire du nantissement) et désignant la créance cédée (ou nantie).
-
-44223. Paiement à un fonds commun de titrisation dans le cadre d'une cession prévue aux articles L. 214-169 et suivants du code monétaire et financier
-
-Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine énonçant la qualité du comptable assignataire, du cédant (du titulaire du contrat à l'initiative du nantissement), du cessionnaire (ou du bénéficiaire du nantissement) et désignant la créance cédée (ou nantie).
-
-4423. Paiement au cédant (ou au titulaire du contrat)
-
-Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
-
-Ou
-
-Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine.
-
-443. Pièces particulières
-
-1. En cas de versement de primes aux candidats, règlement de la consultation ou avis d'appel public à la concurrence prévoyant les modalités d'allocation de primes et un état liquidatif par bénéficiaire.
-
-2. En cas de défaillance du titulaire du contrat, avenant de transfert constatant le transfert des contrats passés par le partenaire privé vers la personne publique.
-
-45. Les concessions de travaux (43)
-
-(43) Si les prestations concernent un immeuble, sa localisation géographique est mentionnée sur une des pièces justificatives jointes au mandat.
-
-1. Document portant la référence à la délibération autorisant la signature de la concession
-
-2. Convention.
-
-3. Le cas échéant, pièces justificatives définies par le contrat.
-
-4. Facture ou mémoire.
-
-46. Les concessions d'aménagement (44)
-
-(44) Si les prestations concernent un immeuble, sa localisation géographique est mentionnée sur une des pièces justificatives jointes au mandat.
-
-1. Document portant la référence à la délibération autorisant la signature du contrat.
-
-2. Convention et, le cas échéant, cahier des charges.
-
-3. Le cas échéant, pièces justificatives définies dans les documents contractuels.
-
-4. Facture ou mémoire du concessionnaire.
+2. Transaction.

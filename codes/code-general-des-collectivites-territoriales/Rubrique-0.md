@@ -2,33 +2,63 @@
 
 Rubrique 0-Pièces communes
 
-01. Qualité de l'ordonnateur
+01. Qualité de l'ordonnateur (1) (2)
 
-1. Le cas échéant, selon le cas, décision désignant l'ordonnateur ou décision de délégation.
+(1) Au titre du contrôle de la qualité de l'ordonnateur que les comptables sont tenus d'exercer s'agissant des ordres de payer, il leur incombe de s'assurer que le signataire de cet ordre a la qualité d'ordonnateur de la personne morale concernée ou a reçu de ce dernier une délégation lui donnant qualité pour agir en son nom.
 
-2. Le cas échéant, mention sur le bordereau de mandats de l'empêchement de l'ordonnateur (1).
+(2) Les comptables publics étant tenus d'exercer le contrôle de la qualité de l'ordonnateur s'agissant uniquement des ordres de payer, ils n'ont pas à vérifier la compétence du signataire de l'acte qui constitue le fondement juridique de la dépense.
 
-(1) Cette disposition est exclue dans l'hypothèse de la signature par délégation.
+011. Qualité de l'ordonnateur (3)
+
+1. Formulaire mentionnant :
+
+1° Un spécimen de la signature manuscrite de l'ordonnateur ;
+
+2° L'indication, le cas échéant, du procédé de signature électronique utilisé par l'ordonnateur conformément à l'article 4 de l'arrêté du 27 juin 2007 portant application de l'article D. 1617-23 du code général des collectivités territoriales relatif à la dématérialisation des opérations en comptabilité publique ;
+
+3° La date de prise d'effet de la qualité d'ordonnateur ;
+
+4° L'adresse postale professionnelle et, le cas échéant, l'adresse de messagerie électronique de l'ordonnateur.
+
+2. Délibération constatant son élection selon les modalités prévues par le code général des collectivités territoriales et autres réglementations en vigueur ou décision de nomination selon les modalités prévues par le code général des collectivités territoriales, le code de l'action sociale et des familles, le code de la construction et de l'habitation, le code de l'éducation, le code de la santé publique et autres réglementations en vigueur.
+
+(3) Article 7 de l'arrêté du 25 juillet 2013 fixant les modalités d'accréditation des ordonnateurs auprès des comptables publics assignataires en application de l'article 10 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique (NOR : BUDE1320177A).
+
+012. Qualité d'un suppléant ou d'un délégataire de l'ordonnateur (4)
+
+1. Formulaire d'accréditation signé par l'ordonnateur accrédité auprès du comptable et par son délégataire et mentionnant :
+
+1° Un spécimen de la signature manuscrite de l'ordonnateur ;
+
+2° L'indication, le cas échéant, du procédé de signature électronique utilisé par l'ordonnateur conformément à l'article 4 de l'arrêté du 27 juin 2007 portant application de l'article D. 1617-23 du code général des collectivités territoriales relatif à la dématérialisation des opérations en comptabilité publique ;
+
+3° La date de prise d'effet de la qualité d'ordonnateur ;
+
+4° L'adresse postale professionnelle et, le cas échéant, l'adresse de messagerie électronique de l'ordonnateur.
+
+2. Décision de l'ordonnateur portant délégation qui précise la liste exhaustive des compétences de l'ordonnateur, énumérées par le décret du 7 novembre 2012 susvisé, que le délégataire est autorisé à exercer.
+
+(4) Article 8 de l'arrêté du 25 juillet 2013 fixant les modalités d'accréditation des ordonnateurs auprès des comptables publics assignataires en application de l'article 10 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique (NOR : BUDE1320177A).
 
 02. Acquit libératoire du créancier
 
-021. Pièces communes (2)
-
-(2) Ces pièces sont à fournir par le bénéficiaire du paiement et non par l'ordonnateur. Elles ne concernent que les règlements de mémoire en numéraire.
+021. Pièces communes (5)
 
 0211. Justification de l'identité
 
-Présentation d'une pièce d'identité ou d'une photocopie lisible (3) ;
+Présentation d'une pièce d'identité ou d'une photocopie lisible (6) ;
 
-A défaut, constat de la réalité du paiement dans les conditions du droit commun : preuve testimoniale ou quittance notariée (4).
+A défaut, constat de la réalité du paiement dans les conditions du droit commun : preuve testimoniale ou quittance notariée (7)
 
-(3) Par exemple, carte nationale d'identité, passeport, carte d'ancien combattant, carte d'invalide de guerre, carte d'invalide civil. La production de l'original peut être demandée conformément aux dispositions du chapitre III du titre III du livre Ier du code des relations entre le public et l'administration.
+(5) Ces pièces sont à fournir par le bénéficiaire du paiement et non par l'ordonnateur. Elles ne concernent que les règlements de mémoire en numéraire.
 
-(4) La preuve testimoniale est admise pour les paiements ne dépassant pas 800 €. Au-delà, une quittance notariée est nécessaire.
+(6) Par exemple, carte nationale d'identité, passeport, carte d'ancien combattant, carte d'invalide de guerre, carte d'invalide civil. La production de l'original peut être demandée conformément aux dispositions de l'article R.113-6 du code des relations entre le public et l'administration.
+
+(7) La preuve testimoniale est admise pour les paiements ne dépassant pas 1 500 €. Au-delà, une quittance notariée est nécessaire.
 
 0212. Justification de l'état civil
 
-Présentation du livret de famille ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal judiciaire (PACS) ou certificat sur l'honneur de l'intéressé justifiant la non-séparation de corps.
+Présentation du livret de famille ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal d'instance (PACS) ou certificat sur l'honneur de l'intéressé justifiant la non-séparation de corps.
 
 0213. Justification du domicile et de résidence
 
@@ -36,11 +66,11 @@ Justification par tous moyens y compris une déclaration sur l'honneur.
 
 022. Paiement à des créanciers ne sachant ou ne pouvant pas signer
 
-1. Lorsque la somme est inférieure à un montant fixé par décret (5), déclaration établie par le comptable, sur le titre de paiement, indiquant que le créancier ne sait ou ne peut pas signer. Cette déclaration désigne deux témoins. Elle est signée par ces derniers et le comptable.
+1. Lorsque la somme est inférieure à un montant fixé par décret (8), déclaration établie par le comptable, sur le titre de paiement, indiquant que le créancier ne sait ou ne peut pas signer. Cette déclaration désigne deux témoins. Elle est signée par ces derniers et le comptable.
 
 2. Le cas échéant, quittance ou procuration notariée.
 
-(5) La preuve testimoniale est admise dans certains cas, quel que soit le montant de la dépense et notamment pour le paiement de secours, des indemnités de dépossession de terrain pour cause d'utilité publique.
+(8) La preuve testimoniale est admise dans certains cas, quel que soit le montant de la dépense et notamment pour le paiement de secours, des indemnités de dépossession de terrain pour cause d'utilité publique.
 
 023. Paiement à des mandataires
 
@@ -50,31 +80,29 @@ Mandat sous seing privé ou acte passé devant notaire.
 
 0232. Avocat
 
-Mandat sous seing privé ou authentique justifiant des pouvoirs de l'avocat (6),
+Mandat sous seing privé ou authentique justifiant des pouvoirs de l'avocat (9),
 
-Ou
+ou
 
-Jugement attestant de la qualité de représentant (7),
+Jugement attestant de la qualité de représentant (10).
 
-et relevé d'identité bancaire du compte ouvert au nom de la CARPA créée par le barreau auquel cet avocat est inscrit.
+(9) Au-delà du délai d'un an après que le jugement soit passé en force de chose jugée.
 
-(6) Au-delà du délai d'un an après que le jugement soit passé en force de chose jugée.
-
-(7) Cf. article 420 du code de procédure civile.
+(10) Cf. article 420 du code de procédure civile et Relevé d'identité bancaire du compte ouvert au nom de la C.A.R.P.A créée par le barreau auquel cet avocat est inscrit.
 
 0233. Notaire
 
-Attestation du notaire (8).
+Attestation du notaire (11).
 
-(8) Cette attestation précise quel est le notaire chargé de la succession ou quel est le notaire de la personne qui doit recevoir les fonds.
+(11) Cette attestation précise quel est le notaire chargé de la succession ou quel est le notaire de la personne qui doit recevoir les fonds.
 
-024. Paiement aux ayants droit des créanciers décédés (9)
+024. Paiement aux ayants droit des créanciers décédés (12)
 
-(9) Le paiement des prorata de traitement et d'arrérages de pensions dus au décès peut, à moins d'opposition de la part des héritiers légataires ou créanciers, être effectué entre les mains du conjoint survivant sur présentation ou copie du livret de famille, et d'une déclaration sur l'honneur attestant qu'aucun jugement de séparation de corps n'est intervenu.
+(12) Le paiement des prorata de traitement et d'arrérages de pensions dus au décès peut, à moins d'opposition de la part des héritiers légataires ou créanciers, être effectué entre les mains du conjoint survivant sur présentation ou copie du livret de famille, et d'une déclaration sur l'honneur attestant qu'aucun jugement de séparation de corps n'est intervenu.
 
 0241. Pièce commune
 
-Acte de décès ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal judiciaire ou certificat sur l'honneur de l'intéressé.
+Acte de décès ou copie du livret de famille ou production d'un extrait de l'acte d'enregistrement de la convention effectué auprès du greffe du tribunal d'instance ou certificat sur l'honneur de l'intéressé.
 
 0242. Pièces particulières
 
@@ -82,21 +110,21 @@ Acte de décès ou copie du livret de famille ou production d'un extrait de l'ac
 
 Certificat d'hérédité délivré par le maire de la commune de résidence du défunt,
 
-Ou
+ou
 
 Certificat de propriété,
 
-Ou
+ou
 
 Acte de notoriété,
 
-Ou
+ou
 
 Intitulé d'inventaire ou jugement d'envoi en possession,
 
-Ou
+ou
 
-Une attestation sur l'honneur de la qualité de l'héritier accompagnée d'une pièce justifiant du lien de parenté lorsque le montant de la dépense est inférieur ou égal à 1 000 euros.
+Une attestation sur l'honneur de la qualité de l'héritier accompagnée d'une pièce justifiant du lien de parenté lorsque le montant de la dépense est inférieur ou égal à 1000 euros.
 
 02422. Légataires universels
 
@@ -104,17 +132,17 @@ Une attestation sur l'honneur de la qualité de l'héritier accompagnée d'une p
 
 1. Expédition du testament.
 
-2. En cas d'héritiers réservataires : preuve par tous les moyens de la délivrance du legs (10),
+2. - En cas d'héritiers réservataires : preuve par tous les moyens de la délivrance du legs (13),
 
-En l'absence d'héritiers réservataires : un acte de notoriété établissant l'absence d'héritiers réservataires,
+- En l'absence d'héritiers réservataires : un acte de notoriété établissant l'absence d'héritiers réservataires,
 
-Ou
+ou
 
-Une copie conforme de l'ordonnance d'envoi en possession délivrée par le greffe du tribunal (11).
+Une copie conforme de l'ordonnance d'envoi en possession délivrée par le greffe du tribunal (14).
 
-(10) En cas de concours avec des héritiers réservataires, le légataire universel doit satisfaire à la formalité de la demande en délivrance.
+(13) En cas de concours avec des héritiers réservataires, le légataire universel doit satisfaire à la formalité de la demande en délivrance.
 
-(11) En l'absence d'héritiers réservataires, si le testament est olographe ou mystique, le légataire universel sera tenu de se faire envoyer en possession.
+(14) En l'absence d'héritiers réservataires, si le testament est olographe ou mystique, le légataire universel sera tenu de se faire envoyer en possession.
 
 024222. Légataire à titre universel ou à titre particulier
 
@@ -136,21 +164,21 @@ Copie délivrée par le notaire du contrat de donation (avec mention expresse de
 
 02425. Paiement à un porte-fort
 
-1. Attestation de porte-fort (12).
+1. Attestation de porte-fort (15).
 
 2. Le porte-fort doit prouver sa qualité héréditaire et celle de ses co-héritiers dans les conditions de droit commun.
 
-(12) Le ministre des finances fixe les conditions et limites dans lesquelles un notaire ou un héritier se portant fort pour ses cohéritiers peut être habilité à recevoir les sommes dues aux héritiers d'un créancier.
+(15) Le ministre des finances fixe les conditions et limites dans lesquelles un notaire ou un héritier se portant fort pour ses cohéritiers peut être habilité à recevoir les sommes dues aux héritiers d'un créancier.
 
 025. Paiement des sommes dépendant de successions non réclamées, vacantes ou en déshérence
 
 0251. Successions non réclamées
 
-Copie de l'ordonnance du président du tribunal judiciaire du lieu d'ouverture de la succession désignant un administrateur provisoire.
+Copie de l'ordonnance du président du tribunal de grande instance du lieu d'ouverture de la succession désignant un administrateur provisoire.
 
 0252. Successions vacantes
 
-Copie du jugement du tribunal judiciaire du lieu d'ouverture de la succession déclarant la vacance et désignant un curateur (le service des domaines).
+Copie du jugement du tribunal de grande instance du lieu d'ouverture de la succession déclarant la vacance et désignant un curateur (le service des domaines).
 
 0253. Successions en déshérence
 
@@ -160,7 +188,7 @@ Copie de l'ordonnance d'envoi en possession définitive délivrée par le greffe
 
 Jugement de présomption d'absence,
 
-Ou
+ou
 
 Jugement déclaratif d'absence.
 
@@ -198,7 +226,7 @@ Jugement déclaratif d'absence.
 
 5. Le cas échéant, autorisation du conseil de famille.
 
-6. Et/ ou autorisation du juge des tutelles.
+6. Et/ou autorisation du juge des tutelles.
 
 7. En cas de paiement direct entre les mains du mineur : autorisation expresse du représentant légal (ou tuteur), ou clause du contrat signé par le représentant, stipulant le paiement direct entre les mains du mineur.
 
@@ -206,7 +234,7 @@ Jugement déclaratif d'absence.
 
 Copie du livret de famille ou extrait de l'acte de mariage, ou copie de l'acte de mariage ou certificat sur l'honneur de l'intéressé, ou expédition du jugement qui a prononcé l'émancipation,
 
-Ou
+ou
 
 Déclaration des parents ou du conseil de famille reçue par le juge des tutelles.
 
@@ -232,23 +260,23 @@ Déclaration établie et signée par deux témoins que le mineur est sans repré
 
 3. Le cas échéant, délibération du conseil de famille qui a désigné le tuteur.
 
-4. Le cas échéant, autorisation du conseil de famille et/ ou autorisation du juge des tutelles.
+4. Le cas échéant, autorisation du conseil de famille et/ou autorisation du juge des tutelles.
 
-028. Paiement des sommes dues à des personnes morales (13) (14)
+028. Paiement des sommes dues à des personnes morales (16) (17)
 
-(13) A défaut des mentions du registre du commerce et des sociétés sur la facture ou le mémoire.
+(16) A défaut des mentions du registre du commerce et des sociétés sur la facture ou le mémoire
 
-(14) Le paiement par virement à un compte ouvert au nom de la personne morale dispense celle-ci de produire les pièces justificatives. Le paiement à des groupements de fait, (associations ou sociétés), se traduit soit par un paiement à un mandataire, soit nécessite l'acquit de tous les associés.
+(17) Le paiement par virement à un compte ouvert au nom de la personne morale dispense celle-ci de produire les pièces justificatives. Le paiement à des groupements de fait, (associations ou sociétés), se traduit soit par un paiement à un mandataire, soit nécessite l'acquit de tous les associés.
 
 0281. Sociétés commerciales
 
 Extrait des statuts délivrés par le greffe du tribunal de commerce,
 
-Ou
+ou
 
 Extrait de l'acte de société délivré par un notaire,
 
-Ou
+ou
 
 Extrait du journal d'annonces légales qui a publié les statuts de la société.
 
@@ -256,7 +284,7 @@ Extrait du journal d'annonces légales qui a publié les statuts de la société
 
 Copie des statuts, à défaut numéro SIRET,
 
-Ou
+ou
 
 Référence de la publication au Journal officiel.
 
@@ -268,11 +296,11 @@ Référence de la publication au Journal officiel.
 
 Copie du jugement d'ouverture désignant, le cas échéant, l'administrateur et définissant sa mission,
 
-Ou
+ou
 
 Extrait du registre du commerce et des sociétés portant inscription du jugement,
 
-Ou
+ou
 
 Exemplaire du journal d'annonces légales (ex : BODDAC) portant avis de l'ouverture d'une procédure de redressement.
 
@@ -280,7 +308,7 @@ Exemplaire du journal d'annonces légales (ex : BODDAC) portant avis de l'ouvert
 
 Copie du jugement indiquant l'adoption du plan de redressement ou exemplaire du journal d'annonces légales portant publication de ce jugement,
 
-Ou
+ou
 
 Exemplaire du registre du commerce et des sociétés portant inscription du jugement.
 
@@ -288,7 +316,7 @@ Exemplaire du registre du commerce et des sociétés portant inscription du juge
 
 Copie du jugement indiquant l'adoption du plan de cession et la désignation du commissaire à l'exécution du plan et, le cas échéant, de l'administrateur judiciaire ou exemplaire du journal d'annonces légales portant publication du jugement,
 
-Ou
+ou
 
 Exemplaire du registre du commerce et des sociétés portant inscription du jugement.
 
@@ -300,13 +328,13 @@ Exemplaire du journal d'annonces légales ayant publié les statuts de la socié
 
 02922. Liquidation amiable
 
-l. Extrait des statuts délivrés par le greffe du tribunal de commerce,
+1. Extrait des statuts délivrés par le greffe du tribunal de commerce,
 
-Ou
+ou
 
 Extrait de l'acte de société délivré par un notaire,
 
-Ou
+ou
 
 Exemplaire du journal d'annonces légales ayant publié la décision prononçant la liquidation amiable de ladite société et la nomination du liquidateur.
 
@@ -332,9 +360,9 @@ Copie du jugement du tribunal ordonnant la liquidation de la société et nomman
 
 1. Notification de la cession (ou du nantissement) par lettre recommandée avec demande d'avis de réception ou tout autre moyen permettant de donner date certaine.
 
-2. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec demande d'avis de réception ou tout autre moyen permettant de donner date certaine (15).
+2. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec demande d'avis de réception ou tout autre moyen permettant de donner date certaine (18).
 
-(15) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
+(18) Le bordereau de cession ou de nantissement n'a pas à être produit au comptable assignataire.
 
 03122. Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit de commun
 
@@ -346,11 +374,11 @@ Copie du jugement du tribunal ordonnant la liquidation de la société et nomman
 
 Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant de donner date certaine,
 
-Ou
+ou
 
 Pour une cession (ou un nantissement) de droit commun, attestation de désistement définitif délivrée par le cessionnaire (ou le bénéficiaire du nantissement) de droit commun par lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant de donner date certaine.
 
-0313. Avis ou opposition à tiers détenteur
+0313. Saisie à tiers détenteur (SATD)
 
 Avis reçu, le cas échéant, par lettre recommandée, avec demande d'avis de réception.
 
@@ -372,7 +400,7 @@ Notification de l'acte de saisie établi par le secrétariat-greffe du tribunal 
 
 2. Domiciliation bancaire.
 
-0323. Avis ou opposition à tiers détenteur
+0323. Saisie à tiers détenteur (SATD)
 
 Avis reçu, le cas échéant, par lettre recommandée avec demande d'avis de réception.
 
@@ -380,11 +408,9 @@ Avis reçu, le cas échéant, par lettre recommandée avec demande d'avis de ré
 
 041. Paiement par virement
 
-Le cas échéant (16), RIB.
+Le cas échéant (19), RIB.
 
-(16) Le RIB doit être produit en l'absence de la mention des coordonnées bancaires sur la pièce justificative de la dépense qui fait foi.
-
-Cette pièce ne peut qu'émaner du créancier, qu'elle soit délivrée ou signée par celui-ci.
+(19) Le RIB doit être produit en l'absence de la mention des coordonnées bancaires sur la pièce justificative de la dépense qui fait foi. Cette pièce ne peut qu'émaner du créancier, qu'elle soit délivrée ou signée par celui-ci.
 
 042. Paiement consécutif à une autorisation de prélèvement
 
@@ -398,24 +424,6 @@ Cette pièce ne peut qu'émaner du créancier, qu'elle soit délivrée ou signé
 
 Facture ou relevé de consommation.
 
-043. Paiement par carte d'achat
-
-0431. Premier paiement
-
-1. Marché d'émission de la carte d'achat.
-
-2. Le cas échéant, copie du marché exécuté par carte achat.
-
-3. Le cas échéant, annexes du contrat ayant des incidences financières.
-
-4. Relevé d'opérations relatif à la créance à payer à l'émetteur.
-
-5. Le cas échéant, toutes pièces justificatives définies dans les documents contractuels.
-
-0432. Autres paiements par carte d'achat
-
-Relevés d'opérations relatifs à la créance à payer à l'émetteur.
-
 05. Paiement des sommes dues à des créanciers étrangers
 
 1. Version française des pièces ou, le cas échéant, traduction des pièces rédigées en langue étrangère.
@@ -426,7 +434,7 @@ Relevés d'opérations relatifs à la créance à payer à l'émetteur.
 
 Décision de l'assemblée délibérante, ou, pour les établissements publics de santé, décision du directeur, de ne pas opposer la prescription,
 
-Ou
+ou
 
 Copie de l'acte interruptif de prescription.
 
@@ -435,7 +443,3 @@ Copie de l'acte interruptif de prescription.
 1. Lettre de voiture ou tout élément susceptible de constater l'existence d'un contrat de transport.
 
 2. Mise en demeure de la collectivité ou de l'établissement public local par le transporteur ou le voiturier.
-
-NOTA :
-
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.

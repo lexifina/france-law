@@ -1,10 +1,10 @@
 # Article Annexe E
 
-Enonciations devant figurer sur l'état liquidatif des révisions et/ou actualisations de prix
+Enonciation des mentions devant figurer sur l'état liquidatif des révisions et/ou actualisations de prix
 
 Ce document doit mentionner les éléments suivants :
 
-- la référence du marché, le cas échéant, des avenants et décisions de poursuivre ;
+- la référence du marché, le cas échéant, des documents modifiant le marché ;
 
 - le mois d'exécution de la prestation faisant l'objet de la révision et/ou de l'actualisation du prix (1) ;
 

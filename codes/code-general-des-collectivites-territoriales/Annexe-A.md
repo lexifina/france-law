@@ -26,7 +26,7 @@ Indiquer :
 
 - le motif du déplacement.
 
-2.1. Les frais de transport de personnes
+2.1 Les frais de transport de personnes
 
 Pour les déplacements dont le remboursement des frais est demandé, préciser :
 
@@ -34,17 +34,19 @@ Pour les déplacements dont le remboursement des frais est demandé, préciser :
 
 - le mode de transport utilisé ou la nature du véhicule utilisé.
 
-2.1.1. Utilisation de transports publics
+2.1.1 Utilisation de transports publics
 
-a) Cas général : Indiquer le prix du titre de transport acquitté.
+a) Cas général : indiquer le prix du titre de transport acquitté.
 
-b) Pour l'agent qui se déplace fréquemment à l'intérieur du territoire de la commune de résidence administrative, de la commune où s'effectue le déplacement temporaire ou de la commune de résidence familiale : Indiquer le prix de l'abonnement acquitté.
+b) Pour l'agent qui se déplace fréquemment à l'intérieur du territoire de la commune de résidence administrative, de la commune où s'effectue le déplacement temporaire ou de la commune de résidence familiale : indiquer le prix de l'abonnement acquitté.
 
-2.1.2. Utilisation d'un véhicule personnel
+2.1.2 Utilisation d'un véhicule personnel
 
-a) Utilisation d'un véhicule terrestre à moteur personnel
+a) Utilisation d'un véhicule terrestre à moteur personnel.
 
-Indemnisation réalisée sur la base du tarif de transport public de voyageurs le moins onéreux : Indiquer le prix du mode transport public retenu.
+Indemnisation réalisée sur la base du tarif de transport public de voyageurs le moins onéreux :
+
+Indiquer le prix du mode transport public retenu.
 
 Indemnisation sous forme d'indemnités kilométriques :
 
@@ -72,13 +74,13 @@ En cas d'utilisation d'une motocyclette, d'un vélomoteur ou un autre véhicule 
 
 Indemnisation d'un agent en poste à l'étranger, indiquer :
 
-- le prix moyen hors taxe en euros d'un véhicule de 5 CV à 7 CV de trois ans retenue par l'autorité territoriale ;
+- le prix moyen hors taxe en euros d'un véhicule de 5CV à 7CV de trois ans retenue par l'autorité territoriale ;
 
 - le nombre de kilomètres réalisés au titre du déplacement dont l'indemnisation est demandée ;
 
 - le prix du carburant dans le pays concerné.
 
-b) Utilisation d'un taxi, d'un véhicule de location ou d'un véhicule personnel autre qu'un véhicule terrestre à moteur
+b) Utilisation d'un taxi, d'un véhicule de location ou d'un véhicule personnel autre qu'un véhicule terrestre à moteur.
 
 Indiquer le montant de l'indemnisation.
 
@@ -86,9 +88,9 @@ c) Remboursement des frais de parc de stationnement et de péage d'autoroute
 
 Indiquer montant acquitté.
 
-2.2. Frais de missions
+2.2 Frais de missions
 
-2.2.1. Missions et intérims en métropole
+2.2.1 Missions et intérims en métropole
 
 Indiquer :
 
@@ -96,7 +98,7 @@ Indiquer :
 
 - le nombre de nuitées effectuées au cours de la mission ou de l'intérim.
 
-2.2.2. Missions outre-mer ou à l'étranger
+2.2.2 Missions outre-mer ou à l'étranger
 
 Indiquer :
 
@@ -106,7 +108,7 @@ Indiquer :
 
 - nature et montant des frais divers exposés.
 
-2.2.3. Tournée outre-mer ou à l'étranger
+2.2.3 Tournée outre-mer ou à l'étranger
 
 Indiquer :
 
@@ -116,7 +118,7 @@ Indiquer :
 
 - nature et montant des frais divers exposés.
 
-2.3. Indemnités de stages dans le cadre d'actions de formation initiale (2) (3)
+2.3 Indemnités de stages dans le cadre d'actions de formation initiale (2) (3)
 
 (2) Les stages réalisés dans le cadre d'actions de formation continue sont indemnisés sous forme d'indemnités de missions.
 

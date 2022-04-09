@@ -1,85 +1,57 @@
 # Article Annexe G
 
-Caractéristiques formelles des marchés publics et des accords-cadres
+Enonciation des mentions obligatoires dans les pièces justificatives des marchés publics
 
-A.-Mentions nécessaires à un marché public, passé selon une procédure adaptée prévue par les articles 28 ou 30 du code des marchés publics ou de l'article 10 du décret n° 2005-1742 (1), faisant l'objet d'un écrit (2)
+I. - S'agissant des marchés publics inférieurs au montant à compter duquel les marchés sont conclus par écrit (1)
 
-1. Identification des parties contractantes.
+A. - Lorsque le marché public n'est pas écrit, mentions devant figurer dans n'importe quelle pièce justificative de la dépense (ex : une facture)
 
-2. Référence à la délibération (3) ou à la décision autorisant la personne publique à passer le marché.
+1. Objet du marché public.
 
-3. Définition de l'objet du marché.
+2. Identification des parties au contrat.
 
-4. Prix ou modalités de sa détermination.
+3. Prix ou modalités de fixation.
 
-5. Conditions de règlement.
+4. Durée du marché public, uniquement si des pénalités de retard sont prévues.
 
-(1) Décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés passés par les pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des marchés publics.
+5. Coordonnées bancaires du créancier (IBAN et BIC).
 
-(2) Les mentions listées au " A " s'appliquent également au cas spécifique des marchés passés sur échange de lettres en situation d'urgence impérieuse quel que soit leur montant.
+B. - Lorsque le marché est écrit
 
-(3) Cette référence ne concerne pas les établissements publics de santé et les établissements sociaux et médico-sociaux. Pour les collectivités locales et les autres établissements publics locaux, il s'agit soit de la délibération avant engagement de la procédure avec définition de l'étendue des besoins et montant prévisionnel, soit, le cas échéant, de la délibération prise une fois connus l'identité du titulaire et le montant du marché.
+a. Mentions devant figurer dans le marché public :
 
-B.-Caractéristiques formelles d'un marché public passé selon une procédure formalisée prévue par l'article 26 du code des marchés publics ou 7 et 8 du décret n° 2005-1742 (1)
+1. Objet du marché public.
 
-Les pièces constitutives d'un tel marché comportent obligatoirement :
+2. Identification des parties au contrat.
 
-1. L'identification des parties contractantes ;
+b. Mentions devant figurer dans le marché public ou dans n'importe quelle autre pièce justificative :
 
-2. La référence à la délibération (3) ou à la décision autorisant la personne publique à passer le marché ;
+1. Prix ou modalités de fixation.
 
-3. La définition de l'objet du marché ;
+2. Durée du marché public, uniquement si des pénalités de retard sont prévues.
 
-4. La référence à (aux) article (s) du code des marchés publics ou de l'ordonnance de 2005 ou de son décret d'application en application duquel (desquels) le marché est passé ;
+3. Coordonnées bancaires du créancier (IBAN et BIC).
 
-5. L'énumération des pièces du marché (4) ;
+4. Date de notification du marché public.
 
-6. Le prix ou les modalités de sa détermination ;
+II. - S'agissant des marchés publics égaux ou supérieurs au montant à compter duquel les marchés sont conclus par écrit et s'agissant des accords-cadres (1)
 
-7. La durée d'exécution du marché ou les dates prévisionnelles de début d'exécution et d'achèvement ;
+A. - Mentions devant figurer dans le marché public ou dans l'accord-cadre :
 
-8. Les conditions de réception, de livraison ou d'admission des prestations ;
+1. Objet du marché public ou de l'accord-cadre.
 
-9. Les conditions de règlement ;
+2. Identification des parties au contrat.
 
-10. Les conditions de résiliation ;
+3. Prix ou modalités de fixation, ou pour les accords-cadres soit un minimum et un maximum en valeur ou en quantité, soit seulement un minimum ou un maximum, soit ni minimum ni maximum (2).
 
-11. La date de notification du marché ;
+4. Durée du marché public ou de l'accord-cadre.
 
-12. Le comptable assignataire.
+B. - Mentions devant figurer dans le marché public ou l'accord-cadre, ou dans n'importe quelle autre pièce justificative :
 
-(4) Cette énumération, telle qu'elle est présentée, définit un ordre de priorité. Celui-ci prévaut en cas de contradiction dans le contenu des pièces.
+1. Coordonnées bancaires du créancier (IBAN et BIC).
 
-C.-Caractéristiques formelles des accords-cadres passés selon une procédure prévue par l'article 76 du code des marchés publics ou 42 du décret n° 2005-1742 (1)
+2. Date de notification du marché public ou de l'accord-cadre.
 
-Les pièces constitutives d'un accord-cadre comportent obligatoirement :
+(1) Le seuil à compter duquel les marchés sont conclus par écrit est fixé à 25 000 euros hors taxes (article R. 2112-1 du code de la commande publique).
 
-1. L'identification des parties contractantes ;
-
-2. La référence à la délibération ou à la décision (3) autorisant la personne publique à passer l'accord-cadre ;
-
-3. La définition de l'objet de l'accord-cadre ;
-
-4. La référence à (aux) article (s) du code des marchés publics ou de l'ordonnance n° 2005-649 ou de son décret d'application en application duquel (desquels) l'accord cadre est passé ;
-
-5. L'énumération des pièces de l'accord-cadre (4) ;
-
-6. Le prix ou les modalités de sa détermination ;
-
-7. La durée d'exécution de l'accord-cadre ou les dates prévisionnelles de début d'exécution et d'achèvement ;
-
-8. Les conditions de résiliation ;
-
-9. La date de notification de l'accord-cadre.
-
-D.-Spécificités des marchés publics passés sur le fondement d'un accord-cadre conformément à l'article 76 du code des marchés publics ou à l'article 42 du décret n° 2005-1742 (1)
-
-Les mentions suivantes figurent dans le marché si elles n'ont pas déjà été indiquées dans l'accord-cadre :
-
-1. Le prix ou les modalités de sa détermination ;
-
-2. Les conditions de réception, de livraison ou d'admission des prestations ;
-
-3. Les conditions de règlement ;
-
-4. Le comptable assignataire.
+(2) Conformément à l'article R.2162-4 du code de la commande publique.

@@ -34,33 +34,29 @@ Rubrique 5-Opérations portant sur les immeubles et les fonds de commerce
 
 Etat-réponse attestant l'absence d'inscription (2) délivré, daté, signé et certifié (3) par le responsable du service de la publicité foncière dont l'échéance de la période de certification s'étend jusqu'à la plus lointaine des échéances suivantes :
 
-– la publication de l'acte de vente,
+- la publication de l'acte de vente ;
 
-Ou
+ou
 
-– deux mois à compter de la date de l'acte d'acquisition de l'immeuble par le vendeur.
+- deux mois à compter de la date de l'acte d'acquisition de l'immeuble par le vendeur.
 
 (2) Absence d'inscription d'hypothèques, de privilèges ou de nantissements.
 
-(3) La signature et la mention de certification n'est pas requise lorsque l'état-réponse est issu de Télé @ ctes.
+(3) La signature et la mention de certification n'est pas requise lorsque l'état-réponse est issu de Télé@ctes.
 
 5112122. Cas de l'immeuble qui est grevé de charges
 
 Etat-réponse présentant des inscriptions encore valides délivré, daté, signé et certifié (3) par le responsable du service de la publicité foncière dont l'échéance de la période de certification s'étend jusqu'à la plus lointaine des échéances suivantes :
 
-– la publication de l'acte translatif de propriété,
+- la publication de l'acte translatif de propriété ;
 
-Ou
+ou
 
-– deux mois à compter de la date de l'acte d'acquisition de l'immeuble par le vendeur.
+- deux mois à compter de la date de l'acte d'acquisition de l'immeuble par le vendeur.
 
 a) Paiement du prix de vente
 
 Certificat de radiation délivré par le responsable du service de la publicité foncière, quittance authentique, autre acte notarié ou décision de justice portant mainlevée (4) (5).
-
-(4) Toutes les justifications visées ci-contre sont produites en original. Toutefois, lorsque ces pièces ont été déposées au rang des minutes d'un notaire, il peut être suppléé aux originaux par production d'une expédition de l'acte de dépôt et des copies délivrées in extenso par l'officier ministériel.
-
-(5) Les documents ne sont produits par l'ordonnateur que s'il lui ont été fournis par le vendeur ; lorsque ces documents ne sont pas produits, la situation hypothécaire est réputée établie au regard du vendeur par les énonciations de l'état délivré par le responsable du service de la publicité foncière.
 
 b) Consignation du prix de vente
 
@@ -68,9 +64,7 @@ Décision prescrivant la consignation.
 
 c) Dispense d'accomplissement des formalités de purge
 
-Décision (6) renonçant à la purge des droits réels immobiliers lorsqu'ils n'excèdent pas 7 700 euros.
-
-(6) Cette décision relève du directeur pour les établissements publics de santé et de l'organe délibérant dans les autres cas.
+Décision (6) renonçant à la purge des droits réels immobiliers lorsqu'ils n'excèdent pas 7700 euros, conformément à l'article R. 3213-8 du code général des collectivités territoriales.
 
 d) Acompte sur le prix
 
@@ -78,19 +72,25 @@ d) Acompte sur le prix
 
 2. Décision prescrivant la consignation du reliquat du prix.
 
+(4) Toutes les justifications visées ci-contre sont produites en original. Toutefois, lorsque ces pièces ont été déposées au rang des minutes d'un notaire, il peut être suppléé aux originaux par production d'une expédition de l'acte de dépôt et des copies délivrées in extenso par l'officier ministériel.
+
+(5) Les documents ne sont produits par l'ordonnateur que s'ils lui ont été fournis par le vendeur ; lorsque ces documents ne sont pas produits, la situation hypothécaire est réputée établie au regard du vendeur par les énonciations de l'état délivré par le responsable du service de la publicité foncière.
+
+(6) Cette décision relève du directeur pour les établissements publics de santé et de l'organe délibérant dans les autres cas.
+
 51122. L'acte est en instance de publication au fichier immobilier
 
-1. Pièces prévues aux 1,3 et 4 de la rubrique 511211.
+1. Pièces prévues aux 1, 3 et 4 de la rubrique 511211.
 
 2. Expédition du titre de propriété précisant les modalités de règlement et spécifiant la destination du paiement.
 
 3. Etat-réponse attestant l'absence d'inscription (2) délivré, daté, signé et certifié (3) par le responsable du service de la publicité foncière dont le certificat de dépôt porte mention de l'acte de mutation concerné et dont l'échéance de la période de certification est postérieure à la plus lointaine des échéances suivantes :
 
--au délai d'un mois de la date du dépôt de l'acte (7),
+- au délai d'un mois de la date du dépôt de l'acte (7) ;
 
-Ou
+ou
 
-– au délai de deux mois de la date de l'acte d'acquisition de l'immeuble par le vendeur.
+- au délai de deux mois de la date de l'acte d'acquisition de l'immeuble par le vendeur.
 
 (7) La couverture de ce dernier délai par l'état réponse n'est pas exigée lorsque l'ordonnateur atteste que l'acte n'a pas fait l'objet d'une notification d'une cause de rejet par le responsable du service de la publicité foncière dans le délai d'un mois suivant le dépôt de l'acte.
 
@@ -148,7 +148,7 @@ Selon le cas, pièces prévues à la rubrique 511.
 
 Décompte.
 
-514. Acquisition par voie d'échange-soulte
+514. Acquisition par voie d'échange - soulte
 
 Selon le cas, pièces prévues à la rubrique 511.
 
@@ -188,7 +188,7 @@ Pièces justificatives des opérations prévues à la présente liste portant r�
 
 3. Justification de l'accomplissement des formalités de publicité.
 
-4. État-réponse délivré, daté, signé et certifié (3) par le responsable du service de la publicité foncière dont l'échéance de la période de certification est postérieure d'au moins deux mois à l'acte d'acquisition par le testateur ou le donataire de l'immeuble.
+4. Etat-réponse délivré, daté, signé et certifié (3) par le responsable du service de la publicité foncière dont l'échéance de la période de certification est postérieure d'au moins deux mois à l'acte d'acquisition par le testateur ou le donataire de l'immeuble.
 
 5. Le cas échéant, décision renonçant à la purge des droits réels immobiliers.
 
@@ -246,7 +246,7 @@ Pièces justificatives des opérations prévues à la présente liste portant r�
 
 5311. Mandatement de l'indemnité allouée au propriétaire de l'immeuble ou au titulaire d'un droit réel exproprié à titre principal (14)
 
-(14) Les plans, procès verbaux, certificats, significations, contrats et autres actes, faits en vertu du titre Ier et du chapitre Ier du titre II du code de l'expropriation pour cause d'utilité publique, sont dispensés de la formalité de l'enregistrement, à l'exception des décisions judiciaires, des contrats de vente, des actes fixant l'indemnité et des quittances qui, lorsqu'il y a lieu, sont soumis gratuitement à l'enregistrement ou à la formalité fusionnée visée à l'article 647 du code général des impôts (article 1045 I du CGI).
+(14) Les plans, procès-verbaux, certificats, significations, contrats et autres actes, faits en vertu du titre Ier et du chapitre Ier du titre II du code de l'expropriation pour cause d'utilité publique, sont dispensés de la formalité de l'enregistrement, à l'exception des décisions judiciaires, des contrats de vente, des actes fixant l'indemnité et des quittances qui, lorsqu'il y a lieu, sont soumis gratuitement à l'enregistrement ou à la formalité fusionnée visée à l'article 647 du code général des impôts (article 1045 I du CGI).
 
 Les copies des actes soumis à l'enregistrement et à la publicité foncière doivent relater textuellement la publication et la mention de l'enregistrement. Lorsque l'expropriation vise des biens appartenant à des personnes différentes, les documents communs ne sont produits qu'une fois. Ils sont produits en double exemplaire lorsque les mandatements n'interviennent pas simultanément.
 
@@ -262,13 +262,13 @@ Lorsque la consignation de l'indemnité est motivée par différents obstacles a
 
 Si l'acte déclaratif d'utilité publique ne mentionne pas la liste des biens à exproprier ou des droits réels à exproprier à titre principal, copie de l'arrêté de cessibilité (15) portant :
 
-– identification du bien à exproprier ou du droit réel à exproprier à titre principal ;
+- identification du bien à exproprier ou du droit réel à exproprier à titre principal ;
 
-– identification du titulaire du droit ou mention que cette identification n'a pas été possible,
+- identification du titulaire du droit ou mention que cette identification n'a pas été possible ;
 
-Ou
+ou
 
-Certificat attestant que l'exproprié a consenti à la cession amiable de son bien avant l'intervention de l'arrêté de cessibilité.
+- certificat attestant que l'exproprié a consenti à la cession amiable de son bien avant l'intervention de l'arrêté de cessibilité.
 
 (15) Cette copie peut être remplacée par le visa de l'arrêté de cessibilité dans l'acte portant transfert de propriété (acte de cession amiable ou ordonnance d'expropriation).
 
@@ -284,21 +284,19 @@ a) Transfert par voie de vente amiable consentie avant l'intervention de la déc
 
 3. Copie de l'acte d'acquiescement à l'ordonnance rendue.
 
-(16) Les effets de l'expropriation sont également attachés à la cession amiable consentie antérieurement à la déclaration d'utilité publique à la double condition que la déclaration d'utilité publique soit intervenue et que, par voie d'ordonnance, le juge de l'expropriation ait donné acte de cette cession amiable. Lorsque la vente amiable n'a pas donné lieu ces formalités le paiement du prix de vente est effectué dans les conditions prévues par la rubrique 501 de la présente liste.
-
 b) Transfert par voie de convention amiable après l'intervention de l'acte déclaratif d'utilité publique
 
 1. Copie de la convention amiable, cet acte étant enregistré et publié au fichier immobilier (17).
 
 2. Selon le cas :
 
-– état hypothécaire requis du chef de l'exproprié lorsque cet état ne révèle, depuis la transcription ou la publication du titre établissant le droit de l'exproprié, aucun acte translatif ou extinctif portant sur ce droit ;
+- état hypothécaire requis du chef de l'exproprié lorsque cet état ne révèle, depuis la transcription ou la publication du titre établissant le droit de l'exproprié, aucun acte translatif ou extinctif portant sur ce droit ;
 
-– extrait des documents cadastraux mentionnant l'inscription de l'exproprié sur les documents cadastraux au titre du bien exproprié ;
+- extrait des documents cadastraux mentionnant l'inscription de l'exproprié sur les documents cadastraux au titre du bien exproprié ;
 
-– extrait des documents cadastraux et mention, soit dans la convention amiable, soit dans un acte portant origine de propriété, des conditions dans lesquelles le bien exproprié est passé du propriétaire désigné dans les documents cadastraux à celui qui consent la vente ;
+- extrait des documents cadastraux et mention, soit dans la convention amiable, soit dans un acte portant origine de propriété, des conditions dans lesquelles le bien exproprié est passé du propriétaire désigné dans les documents cadastraux à celui qui consent la vente ;
 
-– acte portant origine de propriété, à moins que celle-ci ne soit mentionnée dans la convention amiable.
+- acte portant origine de propriété, à moins que celle-ci ne soit mentionnée dans la convention amiable.
 
 c) Transfert par voie d'ordonnance d'expropriation
 
@@ -306,9 +304,13 @@ c) Transfert par voie d'ordonnance d'expropriation
 
 2. Selon le cas :
 
-– si l'exproprié est identifié dans l'ordonnance d'expropriation, justification de son droit dans les conditions prévues à la rubrique 531131-b, pièce 2 ;
+- si l'exproprié est identifié dans l'ordonnance d'expropriation, justification de son droit dans les conditions prévues à la rubrique 531131-b, pièce 2 ;
 
-– si l'exproprié n'est pas identifié dans l'ordonnance d'expropriation, mais s'il a justifié de son droit de propriété selon les règles du droit commun : acte portant origine de propriété, à défaut, décision de consignation fondée sur l'absence de justification du droit de propriété.
+- si l'exproprié n'est pas identifié dans l'ordonnance d'expropriation, mais s'il a justifié de son droit de propriété selon les règles du droit commun : acte portant origine de propriété, à défaut, décision de consignation fondée sur l'absence de justification du droit de propriété.
+
+(16) Les effets de l'expropriation sont également attachés à la cession amiable consentie antérieurement à la déclaration d'utilité publique à la double condition que la déclaration d'utilité publique soit intervenue et que, par voie d'ordonnance, le juge de l'expropriation ait donné acte de cette cession amiable. Lorsque la vente amiable n'a pas donné lieu ces formalités le paiement du prix de vente est effectué dans les conditions prévues par la rubrique 511 de la présente liste.
+
+(17) La mention d'inscription au fichier immobilier et la mention d'enregistrement n'ont pas à être exigées lorsque les fonds sont remis au notaire et que celui-ci produit un certificat par lequel il s'engage à prendre à sa charge les sommes qui, après paiement au vendeur du prix de l'acquisition, s'avéreraient être dues, à la suite de l'inscription au fichier immobilier, à des créanciers inscrits ou à un autre propriétaire.
 
 531132. Droit réel exproprié à titre principal
 
@@ -330,15 +332,13 @@ c) Extinction par voie d'ordonnance d'expropriation
 
 2. Certificat administratif indiquant l'origine de la servitude, le fonds dominant et le fonds servant.
 
-(17) La mention d'inscription au fichier immobilier et la mention d'enregistrement n'ont pas à être exigées lorsque les fonds sont remis au notaire et que celui-ci produit un certificat par lequel il s'engage à prendre à sa charge les sommes qui, après paiement au vendeur du prix de l'acquisition, s'avéreraient être dues, à la suite de l'inscription au fichier immobilier, à des créanciers inscrits ou à un autre propriétaire.
-
 53114. Justification du montant de l'indemnité lorsque celui-ci n'a pas été fixé dans l'acte de cession amiable
 
 531141. Lorsque l'indemnité a été fixée à l'amiable
 
 1. Copie de la convention amiable dite " traité d'adhésion à expropriation " cet acte étant, le cas échéant, enregistré.
 
-2. Si l'accord amiable intervient pendant le cours de la fixation judiciaire des indemnités, copie du procès-verbal de donné acte dressé par le juge de l'expropriation.
+2. Si l'accord amiable intervient pendant le cours de la fixation judiciaire des indemnités, copie du procès-verbal dressé par le juge de l'expropriation.
 
 531142. Lorsque l'indemnité a été fixée par décision de justice
 
@@ -354,9 +354,9 @@ b) Hypothèse où l'indemnité fixée par jugement n'a pas un caractère défini
 
 2. Selon le cas :
 
-– attestation de l'ordonnateur que la collectivité souhaite entrer en possession ;
+- attestation de l'ordonnateur que la collectivité souhaite entrer en possession,
 
-– si la collectivité conteste le montant fixé par le juge, décision de consignation à concurrence du montant autorisé par le juge de l'expropriation.
+- si la collectivité conteste le montant fixé par le juge, décision de consignation à concurrence du montant autorisé par le juge de l'expropriation.
 
 3. Copie de l'acte par lequel la chambre de l'expropriation de la Cour d'Appel a été saisie.
 
@@ -364,11 +364,11 @@ c) Hypothèse où l'indemnité fixée en appel à un caractère définitif
 
 1. Copie ou expédition du jugement motivé fixant l'indemnité et mentionnant le montant des propositions formulées par la collectivité.
 
-2. Selon le cas : attestation de l'ordonnateur que la collectivité ne conteste pas l'indemnité fixée par jugement
+2. Selon le cas : attestation de l'ordonnateur que la collectivité ne conteste pas l'indemnité fixée par jugement,
 
-Ou,
+ou
 
-si la collectivité conteste ce montant, décision de consignation à concurrence de la différence entre les propositions formulées par la collectivité et le montant de l'indemnité fixé par le juge de l'expropriation.
+Si la collectivité conteste ce montant, décision de consignation à concurrence de la différence entre les propositions formulées par la collectivité et le montant de l'indemnité fixé par le juge de l'expropriation.
 
 3. Copie de l'acte par lequel la chambre de l'expropriation de la Cour d'Appel a été saisie.
 
@@ -384,7 +384,7 @@ e) Hypothèse où le jugement fixant l'indemnité provisionnelle a un caractère
 
 2. Selon le cas : certificat de non-pourvoi en cassation contre le jugement fixant l'indemnité provisionnelle, délivré par le greffe de la chambre à l'expiration du délai de 2 mois à dater de la signification de l'arrêt ou copie de l'acte d'acquiescement à l'arrêt rendu.
 
-f) Hypothèse où le jugement fixant l'indemnité provisionnelle n'a pas un caractère définitif (18).
+f) Hypothèse où le jugement fixant l'indemnité provisionnelle n'a pas un caractère définitif (18)
 
 1. Copie ou expédition du jugement fixant l'indemnité et statuant sur les dépens.
 
@@ -400,31 +400,31 @@ f) Hypothèse où le jugement fixant l'indemnité provisionnelle n'a pas un cara
 
 1. Etat-réponse délivré, daté, signé et certifié (3) par le responsable du service de la publicité foncière dont l'échéance de la période de certification s'étend jusqu'à la plus lointaine des échéances suivantes :
 
-– la publication de l'acte translatif de propriété (ordonnance d'expropriation, acte vente ou convention amiable),
+- la publication de l'acte translatif de propriété (ordonnance d'expropriation, acte vente ou convention amiable) ;
 
-Ou
+ou
 
-– deux mois à compter de la date de l'acte d'acquisition par le vendeur de l'immeuble objet de la procédure d'expropriation.
+- deux mois à compter de la date de l'acte d'acquisition par le vendeur de l'immeuble objet de la procédure d'expropriation.
 
 2. S'il existe des inscriptions devenues sans objet, certificat de radiation délivré par le conservateur des hypothèques, quittance authentique, autre acte notarié ou décision de justice portant mainlevée (4) (20).
 
-(20) Les documents ne sont produits par l'ordonnateur que s'il lui ont été fournis par l'exproprié ; lorsque ces documents ne sont pas produits, la situation hypothécaire est réputée établie au regard de l'exproprié par les énonciations de l'état délivré par le responsable du service de la publicité foncière.
+(20) Les documents ne sont produits par l'ordonnateur que s'ils lui ont été fournis par l'exproprié ; lorsque ces documents ne sont pas produits, la situation hypothécaire est réputée établie au regard de l'exproprié par les énonciations de l'état délivré par le responsable du service de la publicité foncière.
 
 531152. Cas particulier où l'indemnité a été fixée à l'amiable (21)
 
 Certificat administratif mentionnant la date de la notification aux créanciers inscrits de l'accord amiable intervenu et précisant que ceux-ci n'ont pas exigé que l'indemnité soit fixée par le jugement.
 
-(21) Lorsque l'indemnité est inférieure ou n'est pas supérieure d'au moins 10 % au montant de la ou des créances et accessoires garantis par les inscriptions
+(21) Lorsque l'indemnité est inférieure ou n'est pas supérieure d'au moins 10 % au montant de la ou des créances et accessoires garantis par les inscriptions.
 
 53116. Justification de la liquidation du mandatement
 
 531161. Cas général (22)
 
-1. Décompte du mandatement, en principal, et, le cas échéant, en intérêts, si l'exproprié en a demandé le versement, et référence, s'il y a lieu, aux mandatement antérieurs. Le décompte porte, éventuellement, déduction des dépens mis à la charge de l'exproprié.
+1. Décompte du mandatement, en principal, et, le cas échéant, en intérêts, si l'exproprié en a demandé le versement, et référence, s'il y a lieu, aux mandatements antérieurs. Le décompte porte, éventuellement, déduction des dépens mis à la charge de l'exproprié.
 
 2. Si des intérêts sont versés, demande de l'exproprié avec mention de la date de réception du pli recommandé.
 
-(22) La situation hypothécaire telle qu'elle résulte des pièces visées à la rubrique 521151 atteste l'absence d'inscription d'hypothèque, de privilège ou de nantissement.
+(22) La situation hypothécaire telle qu'elle résulte des pièces visées à la rubrique 5112121 atteste l'absence d'inscription d'hypothèque, de privilège ou de nantissement.
 
 531162. Cas particulier d'une indemnité alternative (22)
 
@@ -444,15 +444,15 @@ Certificat administratif mentionnant la date de la notification aux créanciers 
 
 4. Le cas échéant, attestation des créanciers inscrits quant au montant des sommes restant dues sur le montant des créances garanties par les inscriptions et, le cas échéant, sur les intérêts non payés.
 
+(23) La situation hypothécaire telle qu'elle résulte des pièces visées à la rubrique 5112121 révèle au moins une inscription d'hypothèque, de privilège ou de nantissement encore valide.
+
 531164. Paiement de l'indemnité en présence d'inscriptions de privilèges, d'hypothèques ou de nantissement (23) (24)
 
-1. Décision (6) renonçant à la purge des droits réels immobiliers lorsqu'ils n'excèdent pas 7 600 euros.
+1. Décision (6) renonçant à la purge des droits réels immobiliers lorsqu'ils n'excèdent pas 7 700 euros, conformément à l'article R. 3213-8 du code général des collectivités territoriales.
 
 2. Pièces n° 1 de la rubrique 531161.
 
-(23) La situation hypothécaire telle qu'elle résulte des pièces visées à la rubrique 521151 révèle au moins une inscription d'hypothèque, de privilège ou de nantissement encore valide.
-
-(24) Cette rubrique correspond à la mise en œuvre du 3e alinéa de l'article R. 13-69 du Code de l'expropriation pour cause d'utilité publique.
+(24) Cette rubrique correspond à la mise en œuvre du 3e alinéa de l'article R 13-69 du code de l'expropriation pour cause d'utilité publique.
 
 531165. Cas particulier de l'acompte sur indemnités versé au profit des propriétaires occupant de locaux d'habitation ou à usage professionnel (22) (25)
 
@@ -464,7 +464,7 @@ Certificat administratif mentionnant la date de la notification aux créanciers 
 
 4. Justification du droit de l'exproprié par l'expropriant, précisant notamment que le juge de l'expropriation a été saisi pour fixation de l'indemnité, que le relogement de l'exproprié ne sera pas assuré par l'expropriant et indiquant, en outre, le montant des propositions chiffrées de l'expropriant ainsi que celles du service des domaines.
 
-(25) Voir article L. 13-28 du Code de l'expropriation pour cause d'utilité publique.
+(25) Voir article L. 13-28 du code de l'expropriation pour cause d'utilité publique.
 
 5312. Mandatement d'indemnités mobilières
 
@@ -486,7 +486,9 @@ Certificat administratif mentionnant la date de la notification aux créanciers 
 
 53122. Indemnités allouées à des fermiers, locataires ou autres intéressés
 
-1. Référence au mandatement de l'indemnité allouée au propriétaire de l'immeuble exproprié ou engagement de l'administration expropriante de différer la possession jusqu'au mandatement de l'indemnité d'expropriation ou copie de la convention par laquelle le propriétaire accepte la prise de possession avant mandatement de l'indemnité d'expropriation ainsi que la pièce justifiant du transfert de propriété.
+1. Référence au mandatement de l'indemnité allouée au propriétaire de l'immeuble exproprié ou engagement de l'administration expropriante de différer la possession jusqu'au mandatement de l'indemnité d'expropriation ou,
+
+Copie de la convention par laquelle le propriétaire accepte la prise de possession avant mandatement de l'indemnité d'expropriation ainsi que la pièce justifiant du transfert de propriété.
 
 2. Justification des droits des indemnitaires, de la qualité de la partie prenante ou décision de consignation.
 
@@ -562,23 +564,23 @@ Appel de fonds signé du rédacteur de l'acte visant l'opération en cause.
 
 5321221. Pièce générale
 
-a) Le jugement est définitif
+a) Le jugement est définitif.
 
 1. Copie ou expédition du jugement fixant le prix et mentionnant la date de signification à la partie intéressée, à moins que celle-ci n'ait acquiescé à l'arrêt avant sa signification.
 
 2. Selon le cas : certificat de non-appel contre le jugement fixant le prix, délivré par le greffe à l'expiration du délai d'un mois à dater de la signification du jugement ou copie de l'acte d'acquiescement à l'arrêt rendu.
 
-b) L'arrêt d'appel est intervenu
+b) L'arrêt d'appel est intervenu.
 
 Copie ou expédition de l'arrêt fixant le prix.
 
 5321222. Pièces particulières
 
-a) Le transfert de propriété a été réitéré par acte authentique
+a) Le transfert de propriété a été réitéré par acte authentique.
 
 Pièces visées à la rubrique 532111.
 
-b) Le transfert de propriété n'a pas été réitéré par acte authentique sans que les parties aient renoncé à la mutation (35)
+b) Le transfert de propriété n'a pas été réitéré par acte authentique sans que les parties aient renoncé à la mutation (35).
 
 1. Pièces 1 et 2 prévues à la rubrique 532111.
 
@@ -634,13 +636,13 @@ Titre d'adjudication (36) publié.
 
 541111. Premier paiement
 
-a) En cas de bail écrit
+a) En cas de bail écrit.
 
 1. Le cas échéant, décision approuvant la conclusion du bail.
 
 2. Bail.
 
-b) En cas de bail verbal
+b) En cas de bail verbal.
 
 Décision récognitive de location, précisant l'identité du bailleur et les conditions de la location.
 
@@ -688,23 +690,23 @@ Décompte des charges établi par le bailleur.
 
 2. Délibération autorisant la signature de la convention de résiliation.
 
-3. Etat des inscriptions prises (38) négatif ou ne comporte pas de créanciers inscrits.
+3. Etat des inscriptions prises (39) négatif ou ne comporte pas de créanciers inscrits.
 
-(38) Cet état est délivré par le greffier du tribunal de commerce et sa période de certification doit porter effet jusqu'à la date de la convention de résiliation.
+(39) Cet état est délivré par le greffier du tribunal de commerce et sa période de certification doit porter effet jusqu'à la date de la convention de résiliation.
 
-5412222. Paiement (39) au preneur évincé en présence de créanciers inscrits
+5412222. Paiement (40) au preneur évincé en présence de créanciers inscrits
 
 1. Attestation de l'exécutif précisant la date de chaque notification faite aux créanciers inscrits.
 
 2. Etat des inscriptions prises (39) ne comporte pas de créanciers inscrits disposant d'un droit de préférence.
 
-(39) Le paiement ne peut être réalisé qu'un mois après dernière notification faite aux créanciers inscrits.
+(40) Le paiement ne peut être réalisé qu'un mois après dernière notification faite aux créanciers inscrits.
 
 5412223. Consignation de l'indemnité d'éviction.
 
 1. Décision de consignation.
 
-2. Etat des inscriptions prises (38) fait mention de créanciers inscrits disposant d'un droit de préférence.
+2. Etat des inscriptions prises (39) fait mention de créanciers inscrits disposant d'un droit de préférence.
 
 542. Occupation du domaine public
 
@@ -718,7 +720,7 @@ Décision ou contrat fixant le régime de l'occupation et le montant de la redev
 
 1. Décision portant exercice du droit de préemption.
 
-2. Pièces prévues à la sous-rubrique 511.-" Acquisitions amiables d'immeubles à titre onéreux-Sous forme de vente simple " sauf pièce n° 1 de la sous-rubrique 511211.
+2. Pièces prévues à la sous-rubrique 511. - " Acquisitions amiables d'immeubles à titre onéreux - Sous forme de vente simple " sauf pièce n° 1 de la sous-rubrique 511211.
 
 552. Acquisition d'un fonds de commerce à l'amiable ou par voie de préemption
 
@@ -734,13 +736,13 @@ Décision ou contrat fixant le régime de l'occupation et le montant de la redev
 
 5. Copie de la déclaration de la cession totale ou partielle de l'entreprise, prévue à l'article 201 du code général des impôts.
 
-6. Etat négatif des inscriptions prises sur le fonds de commerce dont la période de certification porte effet au moins 15 jours (40) après la précédente vente (41).
+6. Etat négatif des inscriptions prises sur le fonds de commerce dont la période de certification porte effet au moins 15 jours (41) après la précédente vente (42).
 
 7. Le cas échéant, mainlevées.
 
-(40) Ce délai de 15 jours correspond au délai de quinzaine d'inscription du privilège du vendeur par le précédent propriétaire.
+(41) Ce délai de 15 jours correspond au délai de quinzaine d'inscription du privilège du vendeur par le précédent propriétaire.
 
-(41) Un état où figurent des inscriptions doit être regardé comme négatif dès lors qu'a été obtenue la radiation des inscriptions prises.
+(42) Un état où figurent des inscriptions doit être regardé comme négatif dès lors qu'a été obtenue la radiation des inscriptions prises.
 
 5522. Paiement du prix au cédant avec l'intervention d'un intermédiaire
 
@@ -768,7 +770,7 @@ Décision ou contrat fixant le régime de l'occupation et le montant de la redev
 
 562. Paiements ultérieurs
 
-1. Procès verbal de l'assemblée générale des copropriétaires fixant le montant des charges à répartir.
+1. Procès-verbal de l'assemblée générale des copropriétaires fixant le montant des charges à répartir.
 
 2. Appel de fonds du syndic.
 
