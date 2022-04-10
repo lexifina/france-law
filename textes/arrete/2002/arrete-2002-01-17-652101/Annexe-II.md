@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Emplois de catégorie B et C
+EMPLOIS DE CATÉGORIE B ET C
 
 DÉSIGNATION DE L'EMPLOI |
 
@@ -24,7 +24,9 @@ Emploi comportant des responsabilités particulières en matière de recrutement
 
 10 |
 
--chef de bureau de gestion opérationnelle en DDSP |
+-chef de bureau de gestion opérationnelle
+
+en DDSP |
 
 B |
 
@@ -208,11 +210,11 @@ B |
 
 |
 
-Emploi dans un service particulier comportant des tâches de coordination et d'accueil et secrétariat des commissariats situés en zone sensible : |
+Emploi dans un service particulier comportant des tâches de coordination et d'accueil et secrétariat des commissariats : |
 
 |
 
-318 |
+522 |
 
 10 |
 
