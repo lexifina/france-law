@@ -706,12 +706,6 @@ Eure-et-Loir |
 
 |
 
-Dzaoudzi-Pamandzi |
-
-Mayotte |
-
-|
-
 Egletons |
 
 Corrèze |
@@ -1157,6 +1151,12 @@ Nord |
 Mauléon |
 
 Deux-Sèvres |
+
+|
+
+Mayotte - Marcel Henry |
+
+Mayotte |
 
 |
 
