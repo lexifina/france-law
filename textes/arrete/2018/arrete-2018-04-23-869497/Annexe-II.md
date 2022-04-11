@@ -70,7 +70,7 @@ Toutes les éoliennes sont dotées d'un balisage lumineux d'obstacle, sauf dispo
 
 L'intensité, la couleur et la répartition lumineuse des feux mentionnés dans la présente annexe sont conformes aux spécifications techniques établies au paragraphe 4.1 de l'annexe 1 pour les types de feux considérés.
 
-L'alimentation électrique desservant le balisage lumineux est secourue par l'intermédiaire d'un dispositif automatique qui commute dans un temps n'excédant pas 15 secondes. La source d'énergie assurant l'alimentation de secours des installations de balisage lumineux possède une autonomie au moins égale à 12 heures sauf si des procédures d'exploitation spécifiques permettent de réduire cette autonomie minimale. Pour les éoliennes implantées en mer, cette autonomie est de 96 heures.
+L'alimentation électrique desservant le balisage lumineux est secourue par l'intermédiaire d'un dispositif automatique qui commute dans un temps n'excédant pas 15 secondes. La source d'énergie assurant l'alimentation de secours des installations de balisage lumineux possède une autonomie au moins égale à 12 heures sauf si des procédures d'exploitation spécifiques permettent de réduire cette autonomie minimale. Pour les éoliennes implantées en mer, cette autonomie est de 96 heures pour les feux nocturnes et de 24 heures pour les feux diurnes.
 
 3.2. Fréquence et synchronisation des feux à éclats
 
@@ -93,6 +93,52 @@ Chaque éolienne est dotée d'un balisage lumineux diurne assuré par des feux d
 3.5. Balisage lumineux de nuit
 
 Chaque éolienne est dotée d'un balisage lumineux nocturne assuré par des feux d'obstacle de moyenne intensité de type B (feux à éclats rouges de 2 000 cd). Ces feux d'obstacle sont installés sur le sommet de la nacelle et sont visibles dans tous les azimuts (360°).
+
+Des feux de moyenne intensité, dits “ à faisceaux modifiés ”, peuvent être utilisés en lieu et place des feux de moyenne intensité de type B. Ces feux MI à faisceaux modifiés sont des feux rouges à éclats utilisables pour le balisage de nuit, dont l'intensité effective à 4° de site au-dessus du plan horizontal est de 2 000 cd et qui respectent la répartition lumineuse décrite dans le tableau ci-après :
+
+|
+
+Angle de site par rapport à l'horizontale |
+
+|
+
++ 4° |
+
+Entre + 1° et + 3° inclus |
+
+0° |
+
+-1° |
+
+Intensité de référence (cd) |
+
+Intensité moyenne
+
+minimale (cd) |
+
+Intensité minimale (cd) |
+
+Intensité minimale (cd) |
+
+Intensité
+
+minimale (cd) |
+
+Intensité
+
+minimale (cd) |
+
+2 000 |
+
+2 000 |
+
+1 500 |
+
+750 |
+
+200 |
+
+32 |
 
 3.6. Passage du balisage lumineux de jour au balisage de nuit
 
@@ -216,11 +262,7 @@ Les éoliennes qui ne sont pas des éoliennes principales en application des cri
 
 Le balisage nocturne des éoliennes principales est conforme à celui prescrit pour les éoliennes isolées.
 
-Le balisage nocturne des éoliennes secondaires est constitué :
-
-- soit de feux de moyenne intensité de type C (rouges, fixes, 2 000 cd) ;
-
-- soit de feux spécifiques dits "feux sommitaux pour éoliennes secondaires" (feux à éclats rouges de 200 cd).
+Le balisage nocturne des éoliennes secondaires est constitué de feux spécifiques dits “ feux sommitaux pour éoliennes secondaires ” (feux à éclats rouges de 200 cd).
 
 Au sein d'un champ éolien, le balisage de toutes les éoliennes secondaires est effectué à l'aide du même type de feu. Ces feux sont installés sur le sommet de la nacelle et sont visibles dans tous les azimuts (360°).
 
@@ -322,6 +364,8 @@ Le balisage nocturne des éoliennes secondaires est constitué :
 
 - soit de feux spécifiques dits "feux sommitaux pour éoliennes secondaires" (feux à éclats rouges de 200 cd).
 
+Le balisage nocturne des éoliennes côtières secondaires est constitué de feux sommitaux pour éoliennes secondaires.
+
 Au sein d'un champ éolien, le balisage de toutes les éoliennes secondaires est effectué à l'aide du même type de feu. Ces feux sont installés sur le sommet de la nacelle et sont visibles dans tous les azimuts (360°).
 
 Les caractéristiques des feux sommitaux pour éoliennes secondaires sont conformes aux spécifications du tableau ci-après :
@@ -396,7 +440,7 @@ Lors de la période de travaux en vue de la mise en place d'une éolienne isolé
 
 Le formulaire en appendice II peut être utilisé pour effectuer cette notification.
 
-Un balisage temporaire constitué de feux d'obstacles basse intensité de type E (rouges, à éclats, 32 cd) est mis en œuvre dès que la nacelle de l'éolienne est érigée. Ces feux d'obstacle sont opérationnels de jour comme de nuit. Ils sont installés sur le sommet de la nacelle et sont visibles dans tous les azimuts (360°). Le balisage définitif prescrit par la présente annexe est effectif dès que l'éolienne est mise sous tension. Le balisage définitif prescrit par la présente annexe peut être utilisé en lieu et place du balisage temporaire décrit ci-dessus.
+Un balisage temporaire constitué de feux d'obstacle basse intensité de type E (rouges, à éclats, 32 cd) ou de feux sommitaux pour éoliennes secondaires (rouges, à éclats, 200 cd) est mis en œuvre dès que la nacelle de l'éolienne est érigée.
 
 Chapitre 6 : PRÉCISIONS SUR LA CERTIFICATION DE CONFORMITÉ DE TYPE
 
