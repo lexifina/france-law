@@ -1,69 +1,67 @@
 # Article Annexe II
 
-CONDITIONS À RESPECTER PAR LES ORGANISMES AGRÉÉS
+CONDITIONS TECHNIQUES DE RÉALISATION DES PRÉLÈVEMENTS
 
-I. - Conditions techniques de réalisation
+Cette annexe est applicable à compter du 1er octobre 2022.
 
-des prélèvements et analyses
+Les dispositions de la norme NF X 43-551, dont la version est référencée par un avis publié au Journal officiel, sont réputées satisfaire aux exigences d'assurance qualité des prélèvements requises par la présente annexe.
 
-Lorsque plusieurs des composés visés par les agréments 1, 3, 4, 5, 6, 7, 9, 10 et 16 sont prélevés simultanément avec le même dispositif de prélèvement, et pour définir le ou les points de prélèvements quel que soit le composé visé, les exigences du guide d'application (1), fixé dans un arrêté du ministre chargé des installations classées relatif aux normes de référence pour l'analyse de l'air et des eaux dans les installations classées pour la protection de l'environnement, sont respectées.
+Plusieurs des composés visés par les agréments 1,3,4,5,6,7,9,10 et 16 peuvent être prélevés simultanément avec le même dispositif de prélèvement, sous réserve de la compatibilité des analyses de la fraction particulaire, et de modalités de réalisation du blanc de site, de rinçage de la sonde en amont du filtre et de température de filtration permettant de garantir la validité des mesurages.
 
-a) Pour les installations fonctionnant de façon continue et sans changement d'allure ou de régime de fonctionnement :
+a) Durée des mesurages :
 
-Sauf en ce qui concerne l'agrément n° 7 visé à l'annexe I du présent arrêté, la durée de chaque prélèvement des émissions de polluants est :
+Pour les installations fonctionnant de façon continue et sans changement d'allure ou de régime de fonctionnement, sauf en ce qui concerne l'agrément n° 7 visé à l'annexe I du présent arrêté, la durée de chaque prélèvement des émissions de polluants est :
 
-- pour les polluants dont on détermine la concentration particulaire : au moins une demi-heure avec deux lignes de prélèvements mises en œuvre simultanément sur les différents axes explorés (soit deux diamètres pour un conduit circulaire) ou une heure avec une seule ligne de prélèvement, conformément aux exigences de la méthode de référence européenne sur la mesure des poussières à basse concentration ;
+-pour les polluants dont on détermine la concentration particulaire : au moins d'une heure ;
 
-- pour les polluants dont on détermine la concentration gazeuse : durée minimale de prélèvement d'une demi-heure ;
+-pour les polluants dont on détermine la concentration gazeuse : au moins d'une demi-heure ;
 
-- pour tous les cas (concentration particulaire et gazeuse) :
+-pour tous les cas (concentration particulaire et/ ou gazeuse) s'il est appliqué une méthode de mesurage comprenant une phase de prélèvement sur site et d'analyse des supports de prélèvement en laboratoire :
 
-- adaptée de façon à respecter le rapport minimal entre mesure (prélèvement et analyse) et blanc de prélèvement ou entre blanc de prélèvement et valeur limite de référence, si un de ces rapports est défini dans la norme correspondante ;
+-adaptée de façon à ce que le blanc de site soit inférieur à 20 % de la valeur limite d'émission ;
 
-- de façon à ce que la réalisation des prélèvements et analyses permette d'atteindre une limite de quantification inférieure à 10 % de la valeur limite d'émission ;
+-et adaptée, de façon à ce que la réalisation des prélèvements et analyses permette d'atteindre une limite de quantification de mesure inférieure à 20 % de la valeur limite d'émission ;
 
-- déterminée de façon à être représentative dans le temps du rejet global de l'installation.
+-déterminée de façon à être représentative dans le temps du rejet global de l'installation.
 
-On entend par blanc de prélèvement la valeur déterminée par un mode opératoire spécifique utilisée pour garantir qu'aucune contamination significative ne s'est produite pendant l'ensemble des étapes de mesurage et pour vérifier que l'opérateur peut atteindre un niveau de quantification adapté au mesurage.
+Dans le cas d'une méthode manuelle pour laquelle la concentration résulte d'une somme de concentrations issues :
 
-Lorsque la réalisation d'un test de surveillance annuel (AST) est prise en compte comme contrôle annuel réglementaire, on se réfère au guide d'application (2) fixé dans l'arrêté cité au premier alinéa de la présente annexe pour le nombre des essais en fonction de la configuration rencontrée sur site.
+-de différentes phases : par exemple une phase particulaire et une phase gazeuse ;
 
-En dehors de la réalisation d'un test de surveillance annuel (AST), pour tout contrôle réglementaire, chaque mesure est répétée au moins trois fois (3), sauf dans le cas des dioxines ou dans le cas où les concentrations attendues de polluants, pour lesquels la mesure consiste en un prélèvement sur support et une analyse en différé (méthodes manuelles), sont inférieures ou égales à 20 % de la valeur limite réglementaire (le laboratoire en produit la preuve à travers le rapport de l'organisme agréé ayant procédé à la caractérisation de ladite installation lors du contrôle réglementaire précédant son intervention). Dans ces deux cas, on peut procéder à une seule détermination, en allongeant le temps de prélèvement de façon notamment à atteindre une limite de quantification inférieure à 10 % de la valeur limite d'émission et de façon à respecter le rapport entre mesure et blanc de prélèvement ou le rapport entre blanc de prélèvement et valeur limite de référence si un de ces rapports est défini. Toutefois, dans le cas d'une caractérisation initiale de l'installation et lors d'un changement sensible des valeurs limites opposables à l'installation, la règle des trois mesures s'impose.
+-de plusieurs compartiments ou supports de piégeage : par exemple avec une filtration hors conduit, particules piégées sur le filtre et dans la solution de rinçage de la sonde ;
 
-b) Pour les installations fonctionnant à différents régimes ou allures de fonctionnement ou dont les variations d'allures font partie du processus de fonctionnement sous forme de cycle :
+-et/ ou de différents congénères ou composés : par exemple dans le cas des dioxines-furanes, la somme des limites de quantification de mesure exprimées en concentration, dans les mêmes unités que la valeur limite d'émission, et calculées pour chaque phase/ support et/ ou composé, doit être inférieure à 20 % de la valeur limite d'émission.
 
-Pour chacune des phases à caractériser, il est impératif de choisir une durée :
+Dans le cas exceptionnel d'installations pour lesquelles les teneurs en vapeur d'eau ou en particules sont telles qu'elles conduisent à une impossibilité de réaliser un prélèvement sur une durée minimale satisfaisant les exigences définies ci-dessus (condensation, colmatage rapide), la réduction du temps de prélèvement est explicitement décrite dans le rapport d'essais.
 
-- conforme aux exigences de la méthode de référence européenne sur la mesure des poussières à basse concentration, soit au moins d'une demi-heure avec deux lignes de prélèvements mises en œuvre simultanément sur les différents axes explorés (deux diamètres pour un conduit circulaire) ou d'une heure avec une seule ligne de prélèvement ;
+La valeur limite d'émission de référence pour définir la durée des mesurages et le nombre de mesurage (b), est la valeur limite d'émission journalière ou la valeur limite d'émission sur la période d'échantillonnage définie dans la réglementation nationale, ou dans l'arrêté préfectoral d'autorisation d'exploiter.
 
-- de façon à ce que la réalisation des prélèvements et analyses permette d'atteindre une limite de quantification inférieure à 10 % de la valeur limite d'émission ;
+b) Nombre de mesurages :
 
-- adaptée de façon à respecter le rapport minimal entre mesure (prélèvement et analyse) et blanc de prélèvement ou entre blanc de prélèvement et valeur limite de référence, si un de ces rapports est défini dans la norme correspondante.
+En dehors de la réalisation d'un contrôle QAL2 ou d'un test de surveillance annuel (AST), pour tout contrôle réglementaire des émissions à l'atmosphère des installations classées pour la protection de l'environnement, chaque mesurage est répété au moins trois fois, sauf :
 
-Le nombre de phases, d'allures ou de cycles à caractériser, le nombre et la durée des prélèvements sont définis par l'exploitant de l'installation en accord avec l'inspection des installations classées. L'exploitant fournit au laboratoire ou organisme préleveur les justificatifs.
+-dans le cas des dioxines-furanes ;
 
-Dans le cas exceptionnel d'installations pour lesquelles les teneurs en vapeur d'eau ou en particules sont telles qu'elles conduisent à une impossibilité de réaliser un prélèvement d'une demi-heure simultanément sur deux axes ou d'une heure avec une seule ligne de prélèvement (condensation, colmatage rapide), la réduction du temps de prélèvement est explicitement décrite dans le rapport d'essais.
+-dans le cas des polluants pour lesquels la méthode de mesurage comprend une phase de prélèvement sur site et d'analyse des supports de prélèvement en laboratoire, et pour lesquels des concentrations inférieures ou égales à 20 % de la valeur limite d'émission réglementaire sont attendues, sur la base des résultats fournis dans le rapport relatif au contrôle réglementaire précédent. Le laboratoire en produit la preuve à travers le rapport de caractérisation de l'installation lors du contrôle réglementaire précédent.
 
-II. - Présentation et contenu du rapport d'essais
+Dans les cas mentionnés ci-dessus, il est possible de procéder à une seule détermination. Toutefois dans le cas d'une caractérisation initiale de l'installation et lors d'un changement sensible des valeurs limites d'émission fixées pour l'installation, la règle des trois mesurages s'impose sauf dans le cas des dioxines.
 
-a) Référence à l'agrément
+Dans le cas d'un contrôle QAL2 ou d'un test de surveillance annuel (AST), on se réfère, pour le nombre d'essais, au référentiel relatif à l'assurance qualité des systèmes de mesure automatique fixé par avis publié au Journal officiel, en fonction de la configuration rencontrée sur site. Les mesurages réalisés dans le cadre de ces essais, peuvent être pris en compte pour le contrôle réglementaire de respect des valeurs limites d'émission.
 
-Dans le rapport d'essais, les laboratoires ou organismes utilisent obligatoirement le libellé suivant : laboratoire (ou organisme) agréé par le ministre chargé des installations classées par arrêté du JO du ../../.. avec la mention du (ou des) type(s) d'analyse(s) et/ou prélèvement(s) pour lesquels l'agrément a été délivré.
+c) Adaptations pour les installations avec un fonctionnement présentant des variations d'allures sous forme de cycles et pour les installations fonctionnant à différents régimes ou allures de fonctionnement :
 
-b) Référence à l'accréditation
+Pour les installations avec un fonctionnement présentant des variations d'allures sous forme de cycles, la durée du mesurage doit être représentative de la phase ou du cycle à caractériser, et donc doit être au moins égale à la durée de la phase à caractériser ou à un cycle de fonctionnement complet. Afin de respecter les exigences de durées minimales définies ci-dessus, les mesurages couvrent plusieurs phases ou cycles si nécessaire. Dans le cas où une exigence ne peut pas être respectée, la raison doit en être justifiée dans le rapport d'essais.
 
-Les essais sont réalisés et les résultats rendus sous couvert de l'accréditation. Les résultats figurent dans un rapport portant le logotype du Comité français d'accréditation (COFRAC) ou le logotype d'un organisme d'accréditation signataire de l'accord multilatéral pris dans le cadre de la Coordination européenne des organismes d'accréditation (European Cooperation for Accreditation ou EA).
+Pour les installations fonctionnant à différents régimes ou allures de fonctionnement, le nombre d'allures à caractériser est défini par l'exploitant de l'installation conformément aux prescriptions de l'arrêté préfectoral de l'installation. L'exploitant doit fournir au laboratoire les justificatifs.
 
-c) Contenu du rapport
+d) Adaptation de la stratégie de mesurage liée à l'abaissement des valeur limites d'émission dans le cas d'une méthode de mesurage comprenant une phase de prélèvement sur site et d'analyse des supports de prélèvement en laboratoire :
 
-Le rapport fait apparaître les trois résultats de mesure avec la moyenne et une estimation de l'incertitude de la mesure.
+Si le mesurage d'un composé doit être répété trois fois, et que la durée de prélèvement nécessaire pour respecter le critère limite de quantification de mesure inférieure à 20 % de la valeur limite d'émission est supérieure à 2 heures, il est possible de limiter la durée de chaque prélèvement sous réserve de respecter les deux critères suivants :
 
-Il est rédigé avec la structure du guide d'application (4), fixé dans un arrêté du ministre chargé des installations classées relatif aux normes de référence pour l'analyse de l'air et des eaux dans les installations classées pour la protection de l'environnement, et fait apparaître tous les éléments listés dans celui-ci. Il est rédigé en langue française. Il comporte un tableau récapitulatif des résultats, présenté au début du rapport, selon le modèle prévu en annexe IV du présent arrêté. Le tableau récapitulatif indique clairement les polluants mesurés dans le cadre d'un contrôle réglementaire.
+-la durée de chaque prélèvement doit être au moins de 2 heures ; et
 
-Les dérogations à la réalisation des trois mesures et aux temps de prélèvement, prévues au paragraphe I de l'annexe II Conditions techniques de réalisation des prélèvements et analyses , sont clairement explicitées et justifiées dans le rapport d'essais.
-
-(3) Emissions de sources fixes - Harmonisation des procédures normalisées en vue de leur mise en œuvre simultanée. (4) Assurance qualité des systèmes de mesure automatique. (5) Les méthodes de référence sont, par convention, supposées donner un résultat de mesure correspondant à la valeur vraie. Cependant, ces méthodes sont caractérisées par une répétabilité et une reproductibilité pouvant être élevées. En procédant à plusieurs déterminations, l'opérateur sera à même de donner une valeur moyenne qui sera plus proche de la valeur vraie que s'il avait procédé à une seule détermination. L'intervalle de confiance associé à la valeur moyenne a pour expression : Ic = t × s/n, où s est l'écart-type de la population des n déterminations (s intègre l'éventuelle variabilité de l'installation à caractériser) et t le coefficient de Student pour n-1 degrés de liberté et un niveau de confiance de 95 %. (6) Emission de sources fixes. - Elaboration des rapports d'essais pour les mesures à l'émission.
+-la limite de quantification de mesure obtenue ne doit pas être supérieure à 30 % de la valeur limite d'émission.
 
 NOTA :
 
-(1) Emissions de sources fixes - Harmonisation des procédures normalisées en vue de leur mise en œuvre simultanée. (2) Assurance qualité des systèmes de mesure automatique. (3) Les méthodes de référence sont, par convention, supposées donner un résultat de mesure correspondant à la valeur vraie. Cependant, ces méthodes sont caractérisées par une répétabilité et une reproductibilité pouvant être élevées. En procédant à plusieurs déterminations, l'opérateur sera à même de donner une valeur moyenne qui sera plus proche de la valeur vraie que s'il avait procédé à une seule détermination. L'intervalle de confiance associé à la valeur moyenne a pour expression : Ic = t × s/n, où s est l'écart-type de la population des n déterminations (s intègre l'éventuelle variabilité de l'installation à caractériser) et t le coefficient de Student pour n-1 degrés de liberté et un niveau de confiance de 95 %. (4) Emission de sources fixes. - Elaboration des rapports d'essais pour les mesures à l'émission.
+Conformément à l’article 13 de l’arrêté du 11 mars 2010, ces dispositions sont applicables à compter du 1er octobre 2022. Avant cette date, la présente annexe dans la version initiale de l'arrêté du 11 mars 2010 reste applicable.
