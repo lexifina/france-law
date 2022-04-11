@@ -776,6 +776,8 @@ Les titulaires du certificat d'enseignement médical de niveau II (EM II) ne peu
 
 (c) En l'absence de CGO en cours de validité, le brevet peut être revalidé sous réserve que le demandeur soit titulaire d'un CRO en cours de validité et qu'il satisfasse aux autres conditions de revalidation applicables. Dans ce cas, la restriction suivante est apposée sur le brevet : " limité à la zone océanique A1 ".
 
+En l'absence de certificat restreint d'opérateur (CRO) en cours de validité, et pour l'exercice de fonctions à bord de navires à la pêche ou aux cultures marines armés en 5e catégorie, le brevet peut être revalidé sous réserve qu'une restriction y soit apposée avec la mention suivante : “ Limité aux navires de pêche ou de cultures marines armés en 5e catégorie dispensés de l'emport de matériel de radiocommunications ”.
+
 (d) En l'absence de l'attestation de formation à l'ECDIS requise, la restriction suivante est apposée sur le brevet : " Non valide pour le service à bord des navires équipés d'ECDIS ".
 
 (e) Sauf si le marin revalide son brevet sur la base de service en mer (12 mois dans les 5 dernières années ou 3 mois dans les 6 derniers mois)-application du § 1 de l'article 9 de l'arrêté du 24 avril 2014 relatif à la formation en matière de direction, de travail en équipe et de gestion des ressources pour exercer des fonctions opérationnelles et de direction à bord des navires de commerce ou de plaisance armés avec un rôle d'équipage.
