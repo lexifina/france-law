@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211225605
+
+- Question : [SEQ211225605](seq211225605.md) — Suppressions d'emplois dans l'enseignement privé
+
+## Réponse
+
+*Éducation nationale, jeunesse et sports, JO du 2022-04-14, page 2006*
+
+S'agissant de l'enseignement scolaire, le projet de loi de finances pour 2022 prévoit une stabilité des emplois dans l'enseignement privé sous contrat (programme 139 « enseignement privé du 1er et du 2nd degrés »), en conséquence notamment de la baisse démographique dans le premier degré, compensée par une hausse dans le second degré. Aucune suppression d'emploi n'est donc à prévoir dans l'enseignement privé sous contrat à la rentrée 2022 et, au contraire, la réforme de la formation initiale des enseignants permettra d'accroitre les moyens devant élèves. Par ailleurs, les décharges des directeurs d'école de l'enseignement privé sous contrat seront augmentées pour améliorer leurs conditions d'exercice, en application du principe de parité avec l'enseignement public. Quant à lui, l'enseignement agricole technique a connu, au plan national, une baisse du nombre d'élèves ces dernières années. Cette évolution a conduit à une réduction des moyens en emplois depuis 2019. Pour 2022, le projet de loi de finances réduit à - 16 ETP la cible qui était initialement prévue à - 110 ETP. C'est un effort notable en faveur de l'enseignement agricole. Il est d'autant plus opportun que les actions conduites pour renforcer l'attractivité et la reconnaissance de l'enseignement agricole semblent porter leurs fruits : les données définitives au 1er octobre 2021 attestent d'une augmentation des effectifs de + 0,8 %, alors que les évolutions constatées, à la même époque, les années précédentes, étaient de - 2,6 % à la rentrée 2018, nulle à la rentrée 2019 et - 2,2 % à la rentrée 2020.
