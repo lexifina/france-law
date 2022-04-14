@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220327432
+
+- Question : [SEQ220327432](seq220327432.md) — Évolution des règles d'épandage des boues de stations d'épurations
+
+## Réponse
+
+*Transition écologique, JO du 2022-04-14, page 2044*
+
+Les nouvelles réglementations relatives aux conditions de retour au sol des boues d'épuration urbaines en application des dernières lois environnementales votées par le Parlement sont en cours d'élaboration au sein du ministère chargé de l'agriculture. Ces dispositions trouvent leur fondement dans l'article 86 de la loi relative à la lutte contre le gaspillage et l'économie circulaire, qui est, de fait, assez exigeante sur le niveau d'innocuité à atteindre pour permettre le retour au sol des boues et dans l'article L. 255-9-1 du code rural et de la pêche maritime (CRPM) issu de l'article 14 de l'ordonnance n° 2020-920 du 29 juillet 2020 relative à la prévention et la gestion des déchets. L'objectif est d'assurer un niveau de protection homogène des sols agricoles vis-à-vis des contaminations, quelle que soit la voie d'autorisation du fertilisant (autorisation de mise sur le marché, conformité à une norme française, conformité à un cahier des charges, plan d'épandage, etc.). Le projet de décret préparé par le ministère chargé de l'agriculture s'inspire en particulier des travaux rendus par Monsieur Alain MAROIS chargé, dans le cadre de l'élaboration d'un "pacte de confiance" avec le monde agricole, de trouver des débouchés à certaines matières organiques qu'il y a tout avantage à valoriser au lieu de les éliminer par incinération ou en décharge, et proposer des actions tendant à harmoniser les pratiques de contrôle d'épandage. À la suite de la remise, par l'ANSES, d'un avis sur les dispositions initialement envisagées, le ministère chargé de l'agriculture devrait soumettre bientôt une nouvelle version de son texte, afin de relancer une consultation avec l'ensemble des parties prenantes.
