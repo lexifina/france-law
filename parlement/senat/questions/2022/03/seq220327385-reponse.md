@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220327385
+
+- Question : [SEQ220327385](seq220327385.md) — Arrêté de péril et obligation de relogement
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-04-14, page 1996*
+
+Le régime applicable aux arrêtés de péril notifiés avant le 1er janvier 2021 et relatifs aux obligations de relogement est fixé par l'article L. 521-3-2 du code de la construction et de l'habitation (CCH) dans sa version antérieure au 1er janvier 2021 qui dispose que « (…) Lorsqu'un arrêté de péril pris en application de l'article L. 511-1 (…) [est] accompagné d'une interdiction temporaire ou définitive d'habiter et que le propriétaire (…) n'a pas assuré l'hébergement ou le relogement des occupants, le maire (…) prend les dispositions nécessaires pour les héberger ou les reloger. (…) ». Ainsi, dans le cadre d'un arrêté de péril pris à l'encontre d'un propriétaire occupant et comportant une interdiction définitive d'habiter, les dispositions susmentionnées relatives au relogement d'office par le maire ne trouvent donc pas à s'appliquer. En effet, le dispositif issu de l'article L. 521-3-2 du CCH ne s'entend que dans l'hypothèse selon laquelle le propriétaire est distinct de l'occupant du logement, faute de quoi le premier ne peut avoir une obligation à l'égard du second. Ces dispositions n'ont pas été remises en cause par l'ordonnance n° 2020-1144 du 16 septembre 2020 relative à l'harmonisation et à la simplification des polices des immeubles, locaux et installations applicable à l'ensemble des arrêtés notifiés à compter du 1er janvier 2021. Une commune n'est donc pas dans l'obligation de prendre en charge les frais liés au relogement d'un propriétaire occupant dont le logement a été frappé par un arrêté de police prescrivant une interdiction définitive d'habiter.
