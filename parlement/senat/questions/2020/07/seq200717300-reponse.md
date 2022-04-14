@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717300
+
+- Question : [SEQ200717300](seq200717300.md) — Location d'un logement par une commune et cautionnement
+
+## Réponse
+
+*Logement, JO du 2022-04-14, page 2024*
+
+Le cautionnement, apporté par un tiers en application des articles 2288 et suivants du code civil, constitue l'une des garanties qu'un locataire peut fournir au bailleur en cas de défaillance, notamment dans le paiement de son loyer. En matière de bail d'habitation, l'article 22-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 précise les conditions dans lesquelles un bailleur peut solliciter le cautionnement de son locataire et définit certaines protections complémentaires par rapport au droit commun du cautionnement afin de mieux protéger le garant qui est, souvent en ce domaine, un particulier. Dans ce cadre, le deuxième alinéa de l'article 22-1 précise que : « Si le bailleur est une personne morale autre qu'une société civile constituée exclusivement entre parents et alliés jusqu'au quatrième degré inclus, le cautionnement ne peut être demandé que : - s'il est apporté par un des organismes dont la liste est fixée par décret en Conseil d'État ; - ou si le logement est loué à un étudiant ne bénéficiant pas d'une bourse de l'enseignement supérieur. » Il résulte de ces dispositions qu'une commune, lorsqu'elle agit en tant que bailleur, ne peut solliciter le cautionnement à l'appui d'un bail d'habitation relevant du titre premier de la loi précitée du 6 juillet 1989 que dans les deux hypothèses énoncées. Ainsi, hors le cas des étudiants ne bénéficiant pas d'une bourse de l'enseignement supérieur, seuls les organismes listés par le décret n° 2009-1659 du 28 décembre 2009 pris pour l'application de l'article 22-1 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs sont susceptibles d'être caution d'un locataire.
