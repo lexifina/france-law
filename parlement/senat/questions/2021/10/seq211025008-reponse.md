@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211025008
+
+- Question : [SEQ211025008](seq211025008.md) — Schéma vaccinal pour les Français établis au Cambodge
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-04-14, page 2015*
+
+Les vaccinations réalisées à l'étranger dans les mêmes conditions qu'en France donnent accès au passe sanitaire valable sur le territoire français. Les vaccins non reconnus par l'Agence européenne des médicaments nécessitent de ce fait un parcours vaccinal complémentaire. Ainsi, pour les vaccins Sinopharm et Sinovac, disponibles au Cambodge, une injection complémentaire, avec un vaccin à ARN messager reconnu par l'Agence européenne des médicaments, est nécessaire pour valider de manière temporaire son passe sanitaire et une injection de rappel doit être réalisée pour obtenir une vaccination complète. La France est l'un des seuls pays au monde à mettre en œuvre la vaccination de ses ressortissants en dehors de ses frontières, lorsqu'aucun vaccin reconnu par l'Agence européenne des médicaments ou l'Organisation mondiale de la santé (OMS) n'est disponible localement. Ainsi, depuis le mois de mai 2021, plus de 75 000 doses ont été réalisées dans 69 pays. L'ambassade de France au Cambodge a maintenu des échanges avec les autorités locales sur l'accès à la dose de rappel, la livraison de vaccins par la France restant subsidiaire et soumise à l'accord de ces autorités. En février 2022, notre ambassade a été informée de la possibilité de vacciner les ressortissants français dans le cadre de la campagne nationale. Ils ont pu avoir accès à la dose de rappel en permettant d'obtenir un schéma vaccinal valable à la fois au Cambodge et en France. Depuis le 14 mars 2022, le passe vaccinal est suspendu en France, mais le passe sanitaire, qui reste en vigueur dans les établissements de santé et médico-sociaux, peut être demandé lors de certains voyages, permettant notamment d'être dispensé de test Covid.
