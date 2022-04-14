@@ -1,6 +1,6 @@
 # Article 1er
 
-À compter de son extension, la présente convention collective régit en France métropolitaine, dans les départements et régions d'outre-mer (Martinique, Guadeloupe, Guyane, La Réunion et Mayotte) et dans les collectivités territoriales de Saint-Pierre et Miquelon, Saint-Barthélemy et Saint-Martin, Wallis et Futuna, les terres australes et antarctiques françaises, les relations entre :
+À compter de son extension, la présente convention collective régit en France métropolitaine, dans les départements et régions d'Outre-Mer (Martinique, Guadeloupe, Guyane, La Réunion et Mayotte) et dans les collectivités territoriales de Saint-Pierre et Miquelon et Saint-Barthélemy et Saint-Martin, les relations entre :
 
 – d'une part, les entreprises qui exercent l'activité d'édition de services de télévision en France : sont ainsi visés tous services de communication au public par voie hertzienne terrestre, analogique ou numérique, quels que soient leur statut ou leur catégorie, ainsi que les services distribués par les réseaux n'utilisant pas les fréquences assignées par le conseil supérieur de l'audiovisuel (CSA) et par tous les autres moyens de communication électronique existants ou à venir relevant des dispositions légales et réglementaires en vigueur ainsi que de leurs éventuelles évolutions.
 
@@ -65,7 +65,3 @@ Toutefois, il est d'ores et déjà entendu que des annexes spécifiques à la pr
 – de la responsabilité sociale et environnementale ;
 
 – de la définition d'un accord type en matière de participation et d'intéressement.
-
-(1) L'article 1 est étendu sous réserve du respect des dispositions de l'article L. 2222-1 du code du travail.
-
-(Arrêté du 4 février 2022 - art. 1)
