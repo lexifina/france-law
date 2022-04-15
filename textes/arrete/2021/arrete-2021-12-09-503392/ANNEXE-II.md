@@ -134,7 +134,7 @@ Valeur de la surface de référence (Sref) en m2 :
 
 2. Récapitulatif standardisé d'étude énergétique et environnementale
 
-Fourniture du récapitulatif standardisé d'étude énergétique et environnementale sous format informatique au stade "achèvement des travaux"
+Fourniture du récapitulatif standardisé d'étude énergétique et environnementale sous format informatique au stade achèvement des travaux
 
 (indiquer OUI ou NON) |
 
@@ -150,7 +150,7 @@ Le bâtiment a-t-il été livré sans équipement de génie climatique ?
 
 4. Maison individuelle construite sur une parcelle concernée par un permis d'aménager
 
-La maison est-elle construite sur une parcelle concernée par un permis d'aménager octroyé avant le 01/01/2022, prévoyant un raccordement au réseau de gaz ?
+La maison est-elle construite sur une parcelle concernée par un permis d'aménager octroyé avant le 01/01/2022, prévoyant un raccordement au réseau de gaz ? Ou la maison est-elle construite sur une parcelle comprise dans le périmètre d'une zone d'aménagement concerté dont le dossier de réalisation, prévoyant un raccordement au réseau de gaz du périmètre, a été approuvé avant le 01/01/2022 ?
 
 (indiquer OUI ou NON) |
 
@@ -346,12 +346,6 @@ Stockage de carbone biogénique StockC :
 
 |
 
-Impact sur le changement climatique associé à des données environnementales par défaut et à des valeurs forfaitaires dans le calcul de l'indicateur Icconstruction, Icded :
-
-(indiquer la valeur en kg eq CO2/m2) |
-
-|
-
 Chapitre 3 : Exigences par éléments
 
 1. Isolation des parois opaques du bâtiment entre locaux à occupation continue et discontinue
@@ -396,7 +390,7 @@ Cohérence entre le récapitulatif standardisé d'étude énergétique et enviro
 
 (1) Arrêté du 4 août 2021 relatif aux exigences de performance énergétique et environnementale des constructions de bâtiments en France métropolitaine et portant approbation de la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation
 
-3. Perméabilité à l'air de l'enveloppe (bâtiment à usage d'habitation)
+3. Perméabilité à l'air de l'enveloppe
 
 Document de justification transmis par le maître d'ouvrage
 
@@ -471,6 +465,8 @@ Un opérateur reconnu compétent par le ministre chargé de la construction a v�
 Conformité du système de ventilation attestée par le rapport de vérifications et de mesure fourni par le maître d'ouvrage
 
 (indiquer OUI ou NON) |
+
+|
 
 Chapitre 4 : Agrément Titre V
 

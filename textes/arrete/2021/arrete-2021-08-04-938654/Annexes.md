@@ -1,3 +1,9 @@
 # Article ANNEXES
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 15 août 2021 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=LBxKOX3Duk3h0j_ck_WBwvf9HBYDu3aSYhPKEIm97w4=.
+Annexes non reproduites.
+
+NOTA :
+
+Vous pouvez consulter l'intégralité du texte initial avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0189 du 15 août 2021 accessible à l'adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=LBxKOX3Duk3h0j_ck_WBwvf9HBYDu3aSYhPKEIm97w4=.
+
+Conformément aux articles 2 à 7 de l'arrêté du 6 avril 2022 (NOR : LOGL2123207A), les annexes I, II, III, IV, VIII et XI sont modifiées. Les annexes à l'arrêté précité sont consultables au Bulletin officiel : https://www.bulletin-officiel.developpement-durable.gouv.fr/notice?id=Bulletinofficiel-0032427&reqId=f6329b8e-8e9f-4817-816d-e79df4a99624&pos=1.

@@ -16,9 +16,7 @@ Si la construction du bâtiment a donné lieu à la signature d'un contrat de lo
 
 Si la construction de la maison individuelle ou accolée a donné lieu à la signature d'un contrat de construction de maison individuelle avant le 1er octobre 2021, date de signature dudit contrat :
 
-(indiquer la date)
-
-|
+(indiquer la date) |
 
 |
 
@@ -28,6 +26,4 @@ n° 246 du 22/10/2011 texte numéro 9 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20111022&numTexte=9&pageDebut=17924&pageFin=17934
 
-NOTA :
-
-Conformément à l'article 11 de l'arrêté du 9 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 9 de l'arrêté du 6 avril 2022 (NOR : LOGL2123207A), le chapitre 5 de l'annexe III et la partie 5.4 de l'annexe IV sont modifiées.
