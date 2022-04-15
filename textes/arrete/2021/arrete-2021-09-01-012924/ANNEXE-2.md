@@ -40,7 +40,7 @@ Attestation sur l'honneur ou diplôme |
 
 Attestation datant de moins de 3 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
-Senior (+50 ans) |
+Senior (+ 50 ans) |
 
 Copie pièce d'identité (carte d'identité, passeport, permis de conduire) |
 
@@ -82,11 +82,13 @@ Certificat de domiciliation A défaut : déclaration sur l'honneur d'un travaill
 
 Justificatif datant de moins de 3 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
-Réfugiés statutaires, protégés subsidiaires ou demandeurs d'asile |
+Réfugiés statutaires, bénéficiaires d'une protection temporaire, protégés subsidiaires ou demandeurs d'asile |
 
 Titre de séjour valide ou demande de renouvellement du titre de séjour
 
-Pour les demandeurs d'asile : autorisation temporaire de travail |
+Pour les demandeurs d'asile : autorisation temporaire de travail
+
+Pour les bénéficiaires d'une protection temporaire : autorisation provisoire de séjour |
 
 Titre valide au moment de la délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
@@ -116,7 +118,7 @@ Maitrise de la langue française |
 
 Evaluation FLE inférieure au niveau A1 |
 
-Justificatif datant de moins 6 mois avant la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
+Justificatif datant de moins 6 mois avant ou après la date de délivrance par la plateforme de l'inclusion du récépissé d'enregistrement |
 
 Mobilité |
 
