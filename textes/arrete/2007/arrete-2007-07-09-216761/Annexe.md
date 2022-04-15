@@ -20,14 +20,6 @@ France métropolitaine-Royaume-Uni.
 
 2. Liaisons internationales extracommunautaires :
 
-Jusqu'au 30 avril 2022
-
-Paris-Tunis (Tunisie) ;
-
-Paris-Djerba (Tunisie) ;
-
-Paris-Monastir (Tunisie).
-
 Jusqu'au 31 mars 2023
 
 Lyon-Djerba (Tunisie) ;
@@ -165,3 +157,11 @@ Lyon-Sfax (Tunisie).
 Jusqu'au 31 mars 2027
 
 Nantes-Dakar (Sénégal).
+
+Jusqu'au 30 avril 2027 :
+
+Paris-Tunis (Tunisie) ;
+
+Paris-Djerba (Tunisie) ;
+
+Paris-Monastir (Tunisie).
