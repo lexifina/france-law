@@ -42,11 +42,11 @@ X |
 
 Chaudières à alimentation automatique fonctionnant au bois ou autres biomasse, mentionnées au a du 2 de l'annexe 1 |
 
-10 000 € |
+11 000 € |
 
-8 000 € |
+9 000 € |
 
-4 000 € |
+5 000 € |
 
 X |
 
@@ -54,11 +54,11 @@ X |
 
 Chaudières à alimentation manuelle fonctionnant au bois ou autres biomasse, mentionnées au b du 2 de l'annexe 1 |
 
-8 000 € |
+9 000 € |
 
-6 500 € |
+7 500 € |
 
-3 000 € |
+4 000 € |
 
 X |
 
@@ -114,11 +114,11 @@ X |
 
 Equipements de production de chauffage fonctionnant à l'énergie solaire thermique, mentionnés au a du 3 de l'annexe 1 |
 
-10 000 € |
+11 000 € |
 
-8 000 € |
+9 000 € |
 
-4 000 € |
+5 000 € |
 
 X |
 
@@ -164,11 +164,11 @@ X |
 
 Pompes à chaleur géothermiques ou solarothermiques, mentionnées au a du 4 de l'annexe 1 |
 
-10 000 € |
+11 000 € |
 
-8 000 € |
+9 000 € |
 
-4 000 € |
+5 000 € |
 
 X |
 
@@ -176,11 +176,11 @@ X |
 
 Pompe à chaleur air/ eau, mentionnée au b du 4 de l'annexe 1 |
 
+5 000 € |
+
 4 000 € |
 
 3 000 € |
-
-2 000 € |
 
 X |
 
@@ -434,4 +434,6 @@ Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté précité |
 
 NOTA :
 
-Conformément à l'article 7 de l'arrêté du 30 décembre 2021 (NOR : LOGL2135153A), ces dispositions s'appliquent aux demandes déposées à compter du 1er janvier 2022.
+Se reporter aux modalités d'application prévues au I de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), dans leur rédaction issue de l'arrêté du 29 décembre 2022 (NOR : TREL2234391A).
+
+.
