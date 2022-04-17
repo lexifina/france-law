@@ -32,6 +32,8 @@ Opérateur de salle opérationnelle
 
 |
 
+Chef d'équipe expert |
+
 Chef opérateur de salle opérationnelle
 
 |
@@ -41,6 +43,8 @@ Caporal-chef |
 Chef d'équipe
 
 |
+
+Chef d'équipe expert |
 
 Chef opérateur de salle opérationnelle
 
@@ -52,6 +56,8 @@ Chef d'agrès une équipe
 
 |
 
+Sous-officier expert |
+
 Adjoint au chef de salle opérationnelle
 
 |
@@ -61,6 +67,8 @@ Adjudant |
 Chef d'agrès tout engin
 
 |
+
+Sous-officier expert |
 
 Adjoint au chef de salle opérationnelle
 
@@ -114,11 +122,11 @@ Chef de salle opérationnelle
 
 |
 
+Officier d'encadrement en centre d'incendie et de secours |
+
+Adjoint au chef de centre d'incendie et de secours |
+
 Officier expert
-
-|
-
-Adjoint au chef de centre d'incendie et de secours
 
 |
 
@@ -130,11 +138,9 @@ Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers profession
 
 |
 
+Chef de service (effectif d'agents inférieur ou égal à 5) |
+
 Adjoint au chef de groupement
-
-|
-
-Chef de service (effectif d'agents inférieur ou égal à 5)
 
 |
 
@@ -156,15 +162,15 @@ Chef de salle opérationnelle
 
 |
 
+Officier d'encadrement en centre d'incendie et de secours |
+
+Adjoint au chef de centre d'incendie et de secours |
+
 Officier expert
 
 |
 
 Adjoint au chef de service
-
-|
-
-Adjoint au chef de centre d'incendie et de secours
 
 |
 
@@ -172,27 +178,25 @@ Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers profession
 
 |
 
+Chef de service (effectif d'agents supérieur à 5) |
+
 Adjoint au chef de groupement
-
-|
-
-Chef de service (effectif d'agents supérieur à 5)
 
 |
 
 Capitaine |
 
-Officier de garde
-
-|
+Chef de colonne |
 
 Chef de bureau en centre d'incendie et de secours
 
 |
 
-Chef de colonne
+Officier d'encadrement en centre d'incendie et de secours
 
 |
+
+Adjoint au chef de centre d'incendie et de secours |
 
 Officier expert
 
@@ -202,23 +206,15 @@ Adjoint au chef de service
 
 |
 
-Adjoint au chef de centre d'incendie et de secours
+Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 30) |
 
-|
-
-Chef de centre d'incendie et de secours (effectif de SPP supérieur à 30)
-
-|
+Chef de service (effectif d'agents supérieur à 15) |
 
 Adjoint au chef de groupement
 
 |
 
-Chef de service (effectif d'agents supérieur à 15)
-
-|
-
-Chef de groupement (départements de catégorie C dont l'effectif de référence, tel que défini par l'article R. 1424-23-1 du code général des collectivités territoriales, est inférieur à 400 SP)
+Chef de groupement (départements de catégorie C dont l'effectif de référence est inférieur à 400 sapeurs-pompiers)
 
 |
 
@@ -228,11 +224,7 @@ Chef de colonne
 
 |
 
-|
-
 Chef de site
-
-|
 
 |
 
@@ -240,11 +232,7 @@ Adjoint au chef de centre d'incendie et de secours
 
 |
 
-|
-
 Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 50)
-
-|
 
 |
 
@@ -252,17 +240,11 @@ Adjoint au chef de groupement
 
 |
 
-|
-
 Chef de groupement
 
 |
 
-|
-
 Adjoint au chef de service
-
-|
 
 |
 
@@ -276,19 +258,13 @@ Chef de site
 
 |
 
-|
-
-Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 100)
-
-Chef de groupement
-
-|
-
-|
+Chef de centre d'incendie et de secours (effectif de sapeurs-pompiers professionnels supérieur à 100) |
 
 Chef de service (effectif d'agents supérieur à 50)
 
 |
+
+Chef de groupement |
 
 Colonel, colonel hors classe, contrôleur général |
 
@@ -296,11 +272,7 @@ Chef de site
 
 |
 
-|
-
 Chef de groupement
-
-|
 
 |
 
@@ -308,11 +280,37 @@ Directeur départemental adjoint
 
 |
 
-|
-
 Directeur départemental
 
 |
+
+Infirmier, infirmier hors classe, cadre de santé et cadre supérieur de santé |
+
+Infirmier |
+
+Infirmier de groupement |
+
+Infirmier de chefferie |
+
+Infirmier-chef |
+
+Pharmacien de classe normale, hors classe et de classe exceptionnelle |
+
+Pharmacien |
+
+Pharmacien gérant de PUI |
+
+Pharmacien-chef |
+
+Médecin de classe normale, hors classe et de classe exceptionnelle |
+
+Médecin |
+
+Médecin de groupement |
+
+Médecin-chef adjoint |
+
+Médecin-chef |
 
 Tableau I. - Indemnité de responsabilité prévue à l'article 6-4
 
@@ -350,15 +348,11 @@ Equipier
 
 6 |
 
-|
-
 Opérateur de salle opérationnelle
 
 |
 
 7.5 |
-
-|
 
 Chef d'équipe
 
@@ -366,7 +360,9 @@ Chef d'équipe
 
 8.5 |
 
-|
+Chef d'équipe expert |
+
+10 |
 
 Chef opérateur de salle opérationnelle
 
@@ -376,11 +372,17 @@ Chef opérateur de salle opérationnelle
 
 Caporal-chef |
 
+- |
+
+6 |
+
 Chef d'équipe |
 
 8,5 |
 
-|
+Chef d'équipe expert |
+
+10 |
 
 Chef opérateur de salle opérationnelle |
 
@@ -388,23 +390,21 @@ Chef opérateur de salle opérationnelle |
 
 Sergent |
 
-Chef d'équipe |
+- |
 
 8,5 |
-
-|
 
 Chef opérateur de salle opérationnelle |
 
 10 |
 
-|
-
 Chef d'agrès une équipe |
 
 13 |
 
-|
+Sous-officier expert |
+
+14,5 |
 
 Adjoint au chef de salle opérationnelle |
 
@@ -412,23 +412,21 @@ Adjoint au chef de salle opérationnelle |
 
 Adjudant |
 
-Chef d'agrès une équipe |
+- |
 
 12 |
-
-|
 
 Chef d'agrès tout engin |
 
 13 |
 
-|
+Sous-officier expert |
+
+14,5 |
 
 Adjoint au chef de salle opérationnelle |
 
 14,5 |
-
-|
 
 Sous-officier de garde |
 
@@ -482,63 +480,47 @@ Lieutenant de 1re classe |
 
 13 |
 
-|
-
 Officier de garde |
 
 16 |
-
-|
 
 Chef de bureau en centre d'incendie et de secours |
 
 16 |
 
-|
-
 Chef de groupe |
 
 19 |
-
-|
 
 Chef de salle opérationnelle |
 
 19 |
 
-|
+Officier d'encadrement en centre d'incendie et de secours |
 
-Officier expert |
-
-20 |
-
-|
+19 |
 
 Adjoint au chef de centre d'incendie et de secours |
 
 20 |
 
-|
+Officier expert |
+
+20 |
 
 Adjoint au chef de service |
 
 20 |
 
-|
-
 Chef de centre d'incendie et de secours |
 
 22 |
 
-|
-
-Adjoint au chef de groupement |
+Chef de service |
 
 22 |
 
-|
-
-Chef de service |
+Adjoint au chef de groupement |
 
 22 |
 
@@ -548,63 +530,47 @@ Lieutenant hors classe |
 
 13 |
 
-|
-
 Officier de garde |
 
 16 |
-
-|
 
 Chef de bureau en centre d'incendie et de secours |
 
 16 |
 
-|
-
 Chef de groupe |
 
 19 |
-
-|
 
 Chef de salle opérationnelle |
 
 19 |
 
-|
+Officier d'encadrement en centre d'incendie et de secours |
 
-Officier expert |
-
-20 |
-
-|
-
-Adjoint au chef de service |
-
-20 |
-
-|
+19 |
 
 Adjoint au chef de centre d'incendie et de secours |
 
 20 |
 
-|
+Officier expert |
+
+20 |
+
+Adjoint au chef de service |
+
+20 |
 
 Chef de centre d'incendie et de secours |
 
 22 |
 
-|
-
-Adjoint au chef de groupement |
+Chef de service |
 
 22 |
 
-|
-
-Chef de service |
+Adjoint au chef de groupement |
 
 22 |
 
@@ -614,61 +580,41 @@ Capitaine |
 
 13 |
 
-|
-
 Chef de colonne |
 
 15 |
-
-|
 
 Chef de bureau en centre d'incendie et de secours |
 
 17 |
 
-|
-
-Officier de garde |
+Officier d'encadrement en centre d'incendie et de secours |
 
 20 |
-
-|
-
-Officier expert |
-
-21 |
-
-|
-
-Adjoint au chef de service |
-
-21 |
-
-|
 
 Adjoint au chef de centre d'incendie et de secours |
 
 21 |
 
-|
+Officier expert |
+
+21 |
+
+Adjoint au chef de service |
+
+21 |
 
 Chef de centre d'incendie et de secours |
 
 23 |
 
-|
-
-Adjoint au chef de groupement |
-
-23 |
-
-|
-
 Chef de service |
 
 23 |
 
-|
+Adjoint au chef de groupement |
+
+23 |
 
 Chef de groupement
 
@@ -678,95 +624,69 @@ Chef de groupement
 
 Commandant |
 
-Chef de colonne |
+- |
 
 15 |
-
-|
 
 Chef de site |
 
 15 |
-
-|
 
 Adjoint au chef de centre d'incendie et de secours |
 
 18 |
 
-|
+Adjoint au chef de service |
+
+22 |
 
 Chef de centre d'incendie et de secours |
 
 30 |
 
-|
+Chef de service |
+
+30 |
 
 Adjoint au chef de groupement |
 
 33 |
 
-|
-
 Chef de groupement |
 
 35 |
 
-|
-
-Adjoint au chef de service |
-
-22 |
-
-|
-
-Chef de service |
-
-30 |
-
 Lieutenant-colonel |
 
-Chef de site |
+- |
 
 15 |
-
-|
 
 Chef de centre d'incendie et de secours |
 
 30 |
 
-|
+Chef de service |
+
+30 |
 
 Chef de groupement |
 
 33 |
 
-|
-
-Chef de service |
-
-30 |
-
 Colonel, colonel hors classe, contrôleur général |
 
-Chef de site |
+- |
 
 15 |
-
-|
 
 Chef de groupement |
 
 32 |
 
-|
-
 Directeur départemental adjoint |
 
 33 |
-
-|
 
 Directeur départemental |
 
@@ -792,26 +712,6 @@ Chefferie |
 
 22 |
 
-Cadre supérieur de santé de sapeurs-pompiers professionnels |
-
-- |
-
-16
-
-|
-
-|
-
-Groupement |
-
-24 |
-
-|
-
-Chefferie |
-
-31 |
-
 Cadre de santé de sapeurs-pompiers professionnels
 
 |
@@ -824,9 +724,7 @@ Cadre de santé de sapeurs-pompiers professionnels
 
 |
 
-|
-
-Groupement
+Infirmier de groupement
 
 |
 
@@ -834,15 +732,31 @@ Groupement
 
 |
 
-|
+Infirmier de chefferie |
 
-Chefferie
+28 |
+
+Infirmier-chef
 
 |
 
 31
 
 |
+
+Cadre supérieur de santé de sapeurs-pompiers professionnels |
+
+- |
+
+16 |
+
+Infirmier de chefferie |
+
+28 |
+
+Infirmier-chef |
+
+31 |
 
 Médecin et pharmacien de classe normale
 
@@ -944,99 +858,39 @@ Tableau II
 
 Indemnité de spécialité prévue l'article 6-5
 
-CATEGORIE
+Catégorie |
 
-de la spécialité
+Spécialité effectivement exercée |
 
-|
+IB 100 (en %) |
 
-SPECIALITES EFFECTIVEMENT EXERCÉES
+Spécialités opérationnelles |
 
-|
+1er niveau opérationnel |
 
-IB 100
+4 |
 
-(en pourcentage)
+2e niveau opérationnel |
 
-|
+7 |
 
-Logistique.
+3e niveau opérationnel et plus |
 
-|
+10 |
 
-Conducteur d'engin-pompe, de moyens élévateurs aériens et d'engins spéciaux ; opérateurs CTA/CODIS ; personnel affecté au secteur logistique ou technique des moyens aériens.
+Spécialités professionnelles |
 
-|
+1er niveau |
 
-4
+4 |
 
-|
+2e niveau |
 
-Opérationnelle.
+7 |
 
-|
+3e niveau et plus |
 
-1er niveau
-
-|
-
-4
-
-|
-
-2e niveau
-
-|
-
-7
-
-|
-
-3e niveau et plus
-
-|
-
-10
-
-|
-
-Technique.
-
-Formation-prévention-prévision.
-
-Educateurs sportifs.
-
-|
-
-1er niveau
-
-|
-
-4
-
-|
-
-2e niveau
-
-|
-
-7
-
-|
-
-3e niveau et plus
-
-|
-
-10
-
-|
-
-CTA : centre de traitement de l'alerte
-
-CODIS : centre opérationnel départemental d'incendie et de secours
-
-|
+10 |
 
 NOTA :
 
