@@ -48,7 +48,9 @@ La néphrologie est une spécialité médicale qui nécessite une expertise dans
 
 -au moins 2 dans un lieu de stage sans encadrement universitaire.
 
-1.3. Intitulé des options proposées au sein du DES : aucune
+1.3. Intitulé des options proposées au sein du DES :
+
+-soins intensifs néphrologiques.
 
 1.4 Intitulé des formations spécialisées transversales (FST) indicatives
 
@@ -480,6 +482,142 @@ Certification européenne : Elle est recommandée.
 
 Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine.
 
+5. Option soins intensifs néphrologiques :
+
+5.1. Organisation générale :
+
+Option ayant pour but d'assurer l'approfondissement des connaissances et des compétences dans la prise en charge des patients nécessitant une surveillance et des soins urgents en unité de soins intensifs néphrologiques ne présentant pas de critères de réanimation (notamment de défaillance aiguë d'organe extra-rénal) et ayant une des pathologies suivantes : 1) Insuffisance rénale aiguë, 2) Troubles métaboliques sévères, 3) Prise en charge des suites post-opératoires de greffe rénale, 4) Pathologies aiguës nécessitant les soins intensifs néphrologiques survenant chez un patient transplanté de rein ou dialysé chronique ou insuffisant rénal, et 5) Des pathologies nécessitant l'épuration extra-rénale ou une aphérèse thérapeutique en urgence. Cette option a pour objectif de former les futurs responsables d'unité de soins intensifs de néphrologie.
+
+5.1.2. Durée de l'option : deux semestres.
+
+5.1.3. Prérequis pour l'inscription à l'option :
+
+Réalisation de 2 stages :
+
+-un stage dans un lieu agrée ́ a ̀ titre principal en néphrologie et ayant une activité de dialyse aiguë ;
+
+-un stage dans un service de réanimation agrée ́ a ̀ titre principal ou complémentaire en médecine intensive-réanimation.
+
+5.2. Enseignements hors stages :
+
+5.2.1. Volume horaire :
+
+2 demi-journées par semaine : une demi-journée en supervision et une demi-journée en autonomie.
+
+5.2.2. Nature des enseignements :
+
+-En application de l'article 5 du présent arrêté :
+
+-enseignement théorique spécifique en autonomie notamment par e-learning ou webinaires sur la plateforme numérique de la spécialité ;
+
+-enseignement en présentiel : présentations et discussions de cas cliniques à l'échelon régional, séminaires nationaux ;
+
+-enseignements pratiques avec recours aux ateliers de simulation pour la formation aux gestes techniques requis pour l'activité de soins intensifs de néphrologie.
+
+5.2.3. Connaissances a ̀ acquérir :
+
+Module 1 : identification des situations d'urgence nécessitant un transfert en réanimation (choc septique, dégradation de l'état ventilatoire ou hémodynamique, dégradation neurologique, etc.). Les différentes techniques de surveillance cardiaque, hémodynamique et respiratoire seront détaillées et devront être maîtrisées avec un objectif d'optimisation des séances d'épuration extra-rénale et de la perfusion rénale. Seront également incluses les compétences de prise en charge pré et post opératoire notamment pour les patients transplantés de rein ou bénéficiant d'une double transplantation incluant une transplantation rénale.
+
+La deuxième partie (modules 2 à 8) concerne l'acquisition des connaissances plus spécifiquement néphrologiques. Connaitre les diagnostics et les traitements des complications aiguës chez les patients dialysés chroniques et/ ou greffés d'organe solide justifiant les soins intensifs. Connaître les urgences métaboliques et rénales sévères. Connaître les techniques et indications de l'épuration extra-rénale en aigu ; les techniques et indications des aphérèses thérapeutiques dans le contexte aigu. Connaître les particularités de la prise en charge des complications rénales aiguës au cours de la grossesse et notamment chez la transplantée ou la patiente dialysée chronique.
+
+Modules de formation théorique :
+
+Module 1 : formation en soins intensifs néphrologiques
+
+-physiopathologie de l'insuffisance rénale aiguë ;
+
+-reconnaissance des principales défaillances d'organes extra-rénales justifiant le transfert en réanimation ;
+
+-prise en charge des insuffisances rénales associées à des situations pathologiques identifiées (insuffisance cardiaque, insuffisance hépato-cellulaire, microangiopathies thrombotiques, etc.).
+
+Module 2 : Le transplanté rénal en soins intensifs
+
+-période péri-opératoire en coordination avec les équipes d'anesthésie-réanimation ;
+
+-complications aiguës à distance (septiques, cardiovasculaires, respiratoires), rejet aigu sévère (nécessitant techniques de suppléance et/ ou d'aphérèse).
+
+Module 3 : Le dialysé chronique en soins intensifs (hémodialyse et dialyse péritonéale)
+
+-complications septiques ;
+
+-complications aiguës cardio-vasculaires, digestives et pulmonaires.
+
+Module 4 : Troubles métaboliques et surdosages médicamenteux chez l'insuffisant rénal
+
+-stratégies diagnostiques et prise en charge ;
+
+-indications de l'épuration extra-rénale aiguë.
+
+Module 5 : L'insuffisance rénale aiguë sévère (KDIGO 3)
+
+-prise en charge en urgence ;
+
+-remplissage vasculaire, nutrition ;
+
+-indications et réalisation de la biopsie rénale dans le contexte de l'IRA.
+
+Module 6 : épuration extrarénale au cours de l'insuffisance rénale aiguë chez le patient sans autre défaillance d'organe
+
+-techniques continues et techniques intermittentes ;
+
+-voies d'abord, anticoagulation générale et régionale, réglages machine, membranes ;
+
+-optimisation de la tolérance.
+
+Module 7 : Aphérèses thérapeutiques
+
+-techniques (filtration, double filtration cascade, centrifugation, immunoadsorption) ;
+
+-indications et résultats.
+
+Module 8 : Grossesse et post-partum
+
+-insuffisance rénale aiguë ;
+
+-complications de la grossesse chez la femme transplantée ou dialysée chronique.
+
+5.3. Compétences a ̀ acquérir :
+
+Savoir reconnaître un état de choc et les autres défaillances d'organes. Mettre en œuvre les premières mesures avant un transfert en réanimation ou au bloc opératoire ;
+
+-prendre en charge une anomalie électrolytique grave et conduire la correction du trouble selon les recommandations des sociétés savantes ;
+
+-prendre en charge les différents types d'insuffisances rénales aiguës compliqués de troubles hydro-électrolytiques, métaboliques ou hémodynamiques sévères ;
+
+-prendre en charge les complications aiguës post-opératoires de la transplantation rénale. Prendre en charge les complications aiguës graves d'origines infectieuses, cardio-vasculaires, ou digestives chez un patient transplanté rénal ou dialysé chronique sans critères de réanimation ;
+
+-maîtriser les indications et la prescription d'une séance d'épuration extrarénale en urgence (techniques continue ou discontinue selon le profil du patient), savoir prescrire la séance et décider des paramètres de la séance en fonction de la situation aiguë afin d'optimiser la tolérance ;
+
+-avoir mis en œuvre des séances d'aphérèses thérapeutiques en aigu.
+
+5.4. Stages :
+
+1 stage dans un lieu agréé à titre principal en néphrologie et disposant d'une unité de soins intensifs de néphrologie ;
+
+1 stage dans un lieu agréé à titre complémentaire en néphrologie et à titre principal ou complémentaire en médecine intensive et réanimation.
+
+Critères d'agrément des stages de l'option :
+
+En sus des dispositions de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine, la commission d'agrément prend en compte :
+
+La nature et le volume de l'activité clinique, et l'encadrement médical qui comprend des médecins qualifiés et dont l'activité en médecine intensive et réanimation, en anesthésie et réanimation et en soins intensifs néphrologiques est l'activité principale. Pour les U. S. I. néphrologiques, le secteur d'au moins 6 lits est sous la responsabilité d'un néphrologue compétent en soins intensifs néphrologiques.
+
+5.5. Evaluation :
+
+5.5.1. Modalités de l'évaluation des connaissances :
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine : Examen national annuel.
+
+-validation des connaissances par un examen théorique national ;
+
+-travail de mémoire à rendre à l'issue de l'option.
+
+5.5.2. Modalités de l'évaluation des compétences
+
+Conformément au VIII de l'article 59 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+Portfolio validé par le maître de stage.
+
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2017-2018.
+Conformément à l’article 5 de l’arrêté du 15 avril 2022 (NOR : SSAH2209486A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

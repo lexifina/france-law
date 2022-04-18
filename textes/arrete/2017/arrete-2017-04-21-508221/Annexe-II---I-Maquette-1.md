@@ -12,9 +12,9 @@ Former un spécialiste en chirurgie maxillo-faciale.
 
 12 semestres dont au moins 8 dans la spécialité (dont au moins 5 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté) et au moins 3 dans un lieu de stage sans encadrement universitaire.
 
-1.3. Intitulé des options proposées au sein du DES
+1.3. Intitulé des options proposées au sein du DES :
 
-Néant.
+-orthodontie des dysmorphies maxillo-faciales.
 
 1.4. Intitulé des formations spécialisées transversales (FST) indicatives
 
@@ -343,3 +343,143 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 - entretien avec la commission locale de coordination de la spécialité ;
 
 - soumission d'au moins un article dans une revue à comité de lecture et présentation orale d'un travail de recherche.
+
+5. Option Orthodontie des dysmorphies maxillo-faciales :
+
+5.1.1. Définition des objectifs généraux de la formation :
+
+L'orthodontie des dysmorphies maxillo-faciales participe à la prise en charge occlusale de nombreuses pathologies maxillo-faciales : malformations crâniofaciales congénitales, troubles respiratoires obstructifs du sommeil, pathologies génétiques, reconstruction maxillofaciale, etc.
+
+Cette option a pour objectif de permettre la prise en charge orthodontique exclusivement chez les patients dont la prise en charge nécessite une intervention chirurgicale en chirurgie maxillo-faciale.
+
+5.1.2. Durée de l'option : 1 an (2 semestres).
+
+5.1.3. Sélection des candidats à l'option :
+
+Conformément à l'article 6 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine : interne inscrit au DES de chirurgie maxillo-faciale, en cohérence avec le projet professionnel du candidat.
+
+5.2. Phase 1 :
+
+5.2.1. Durée : Six mois.
+
+5.2.2. Enseignements hors stages :
+
+Volume horaire : 140 heures d'enseignement hors stage.
+
+Nature des enseignements :
+
+Enseignement théorique (80 heures) en e-learning ;
+
+Enseignement dirigé et travaux pratiques (60 heures) en séminaire national en présentiel ;
+
+Connaissances à acquérir :
+
+-fonctions et dysfonctions oro-faciales ;
+
+-diagnostic et principes thérapeutiques des malocclusions et dysmorphies.
+
+5.2.3. Stages :
+
+Stages à réaliser :
+
+Un semestre centré sur l'orthodontie des dysmorphies maxillo-faciales dans la discipline d'origine (possibilité de stage mixte).
+
+Critères d'agrément des stages de niveau I :
+
+Outre les dispositions de l'article 24 de l'arrêté du 12 avril 2017, la commission d'agrément prend en compte :
+
+-la présence d'une activité d'orthodontie des dysmorphies maxillo-faciales reconnue ;
+
+-la pratique d'au moins 2 techniques différentes d'orthodontie des dysmorphies maxillo-faciales ;
+
+-l'encadrement par un médecin compétent en orthodontie des dysmorphies maxillo-faciales dans le cadre d'un stage mixte.
+
+5.2.4. Compétences à acquérir :
+
+-poser les indications, contre-indications et les limites du traitement orthodontique et orthopédique ;
+
+-simuler les objectifs thérapeutiques ;
+
+-planifier le traitement orthopédique ;
+
+-planifier le traitement orthodontique.
+
+5.2.5. Modalités de l'évaluation :
+
+Modalités de l'évaluation des connaissances :
+
+Conformément au VII de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine : auto-évaluation contrôlée en e-learning et/ ou examen de validation.
+
+Modalités de l'évaluation des compétences :
+
+Conformément au VII de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine : portfolio et avis des maîtres de stage.
+
+5.2.6. Modalités de validation de la phase et de mise en place du plan de formation :
+
+Conformément au VII de l'article 34 de l'arrêté du 12 avril 2017 portant organisation du troisième cycle des études de médecine :
+
+-évaluation des connaissances ;
+
+-rapports de stage et portfolio de l'étudiant.
+
+5.3. Phase 2 :
+
+5.3.1. Durée : 6 mois.
+
+5.3.2. Enseignements hors stages en lien avec la préparation à l'exercice professionnel (gestion de cabinet, etc.) :
+
+Volume horaire : 40 heures.
+
+Nature des enseignements :
+
+Enseignement théorique (40 heures) en e-learning.
+
+Connaissances à acquérir :
+
+-diagnostic des malformations congénitales à expression oro-faciale ;
+
+-utilisation des outils de planification 3D ;
+
+-complication des traitements.
+
+5.3.3. Stages :
+
+Stages à réaliser :
+
+Un semestre centré sur l'orthodontie des dysmorphies maxillo-faciales (stage mixte possible) ;
+
+Si le stage est hospitalier, l'interne devra passer une partie du stage en secteur ambulatoire ;
+
+En raison de la longueur des traitements d'orthodontie des dysmorphies maxillo-faciales, le stage de la phase II devra être effectué sur le même terrain que le stage précédent.
+
+Critères d'agrément des stages :
+
+Ils sont identiques aux critères d'agrément des stages de niveau I.
+
+5.3.4. Compétences à acquérir
+
+-choisir l'appareillage orthodontique et orthopédique ;
+
+-planifier un traitement pluridisciplinaire ;
+
+-savoir expliquer au patient et ses accompagnants un traitement orthopédique, orthodontique ou orthodontico-chirurgical ;
+
+-savoir mener de bout en bout un traitement orthopédique et/ ou orthodontique.
+
+5.3.5. Evaluation :
+
+Modalités de l'évaluation des connaissances :
+
+L'évaluation des connaissances comportera une épreuve écrite théorique portant sur l'ensemble des 180 heures d'enseignement.
+
+Modalités de l'évaluation des compétences :
+
+L'évaluation des compétences comportera une épreuve orale pratique comportant un entretien avec les évaluateurs et présentation de dossiers de cas cliniques traités par le candidat.
+
+5.3.6. Modalités de validation de l'option :
+
+L'option sera obtenue si l'étudiant a obtenu au moins la moyenne à chacune des épreuves, validé ses deux semestres de stage (niveau I et niveau II) et l'ensemble des items du portfolio.
+
+NOTA :
+
+Conformément à l’article à l’article 5 de l’arrêté du 15 avril 2022 (NOR : SSAH2209486A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

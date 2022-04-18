@@ -14,7 +14,7 @@ Former un spécialiste en pneumologie.
 
 1.3. Intitulé des options proposées au sein du DES :
 
-Néant.
+-soins intensifs respiratoires.
 
 1.4. Intitulé des formations spécialisées transversales (FST) indicatives :
 
@@ -460,6 +460,106 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 -soutenance d'un mémoire, ce dernier pouvant être remplacé par la publication d'un article original dans une revue avec comité de lecture.
 
+5. Option soins intensifs respiratoires :
+
+5.1. Organisation générale :
+
+5.1.1. Objectifs généraux de la formation :
+
+-approfondir les connaissances et acquérir les compétences théoriques et techniques en soins intensifs respiratoires ;
+
+-exercer en unité de soins intensifs respiratoires (USIR).
+
+5.1.2. Durée de l'option : deux semestres.
+
+5.1.3. Prérequis pour l'inscription à l'option :
+
+Réalisation de 2 semestres pendant les phases socle et/ ou approfondissement dont au moins un dans un lieu de stage à encadrement universitaire :
+
+-un stage dans un lieu agréé à titre principal en pneumologie et ayant une activité en soins intensifs respiratoires ;
+
+-un stage de réanimation dans un lieu agréé à titre principal ou complémentaire en médecine intensive réanimation (MIR).
+
+5.2. Enseignement hors stages :
+
+5.2.1. Volume horaire :
+
+Deux demi-journées par semaine pendant un an : une demi-journée en supervision et une demi-journée en autonomie.
+
+5.2.2. Nature des enseignements :
+
+-présentiels, régional ou national ;
+
+-E-learning ou webinars ;
+
+-séances de simulation.
+
+5.2.3. Connaissances à acquérir :
+
+Les connaissances à acquérir correspondent aux objectifs suivants :
+
+-Module 1 : compétences génériques : gestion des risques, éthique, communication, risques sanitaires exceptionnels ;
+
+-Module 2 : physiopathologie de l'insuffisance respiratoire aiguë et reconnaissances des principales défaillances d'organes ;
+
+-Module 3 : interactions cardio-pulmonaires : impact de la ventilation ;
+
+-Module 4 : exacerbations des affections respiratoires chroniques compliquées d'insuffisance respiratoire aiguë ;
+
+-Module 5 : manifestations respiratoires aiguës des maladies systémiques ;
+
+-Module 6 : insuffisance respiratoire aiguë hypoxémique de novo, infectiologie respiratoire, complications respiratoires des immunodépressions sans défaillance d'organe extra-respiratoire ;
+
+-Module 7 : sevrage ventilatoire, transition de la ventilation mécanique à la ventilation non invasive, adaptation de la ventilation par trachéotomie ou de la ventilation non invasive pour le domicile ;
+
+-Module 8 : maladies vasculaires pulmonaires, hypertension pulmonaire, insuffisance ventriculaire droite, embolie pulmonaire, hémoptysie massive ;
+
+-Module 9 : accompagnement des patients et des familles en soins intensifs respiratoires, éthique et limitation des thérapeutiques.
+
+5.3. Compétences à acquérir :
+
+Les compétences à acquérir sont d'ordre clinique, technique et comportemental. Ces compétences s'appliquent à l'adulte à risque de survenue d'une défaillance respiratoire ou nécessitant la mise en place d'une technique de suppléance respiratoire non invasive ;
+
+-savoir reconnaitre la survenue d'un état de choc ou d'autres défaillances d'organes extra-respiratoires imposant le recours à la réanimation ;
+
+-diagnostiquer et gérer la prise en charge des pathologies respiratoires et vasculaires pulmonaires chroniques décompensées ou aiguës ;
+
+-connaître le parcours de soins des patients pneumologiques nécessitant le recours aux soins intensifs respiratoires ;
+
+-maitriser les actes techniques en rapport avec la prise en charge de défaillance respiratoire et cardiaque droite en soins intensifs respiratoires.
+
+5.4. Stages :
+
+-un stage dans un lieu agréé à titre principal en pneumologie et ayant une activité en soins intensifs respiratoires ;
+
+-un stage de réanimation dans un lieu agréé à titre principal ou complémentaire en MIR.
+
+Critères d'agrément des stages de l'option :
+
+La commission d'agrément prend en compte la nature et le volume de l'activité clinique et l'encadrement médical qui comprend des médecins qualifiés et dont l'activité en médecine intensive-réanimation, et en soins intensifs respiratoires est l'activité principale. Pour les Unités de Soins Intensifs Respiratoires, le secteur d'au moins 6 lits est sous la responsabilité d'un pneumologue compétent en soins intensifs respiratoires.
+
+5.5. Evaluation :
+
+L'évaluation concerne en particulier la sécurité du patient, l'approche multidisciplinaire, les relations avec les autres spécialités dont MIR et Anesthésie Réanimation Médecine Péri-Opératoire (ARMPO), les capacités à travailler en équipe, le rôle de responsable d'équipe, les aptitudes à la communication avec les patients, leurs familles, l'ensemble des intervenants amenés à travailler en soins intensifs respiratoires et la gestion de la fin de vie.
+
+5.5.1. Modalités de l'évaluation des connaissances :
+
+Article sur une thématique de soins intensifs respiratoires, publié ou soumis à une revue scientifique.
+
+5.5.2. Modalités de l'évaluation des compétences :
+
+-validation des stages ;
+
+-prise en compte des spécificités des affections respiratoires chroniques et de la place des soins intensifs respiratoires dans le suivi au long cours des patients ;
+
+-évaluation du portfolio, incluant :
+
+(1) Les gestes requis pour la pratique des soins intensifs respiratoires ;
+
+(2) La mise en place et le suivi des modalités d'assistance respiratoire à domicile (oxygénothérapie, ventilation) et intégration du patient dans le parcours de soins dédiés ;
+
+(3) La participation à des décisions de limitations et d'arrêts des traitements.
+
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 13 février 2020 (NOR : ESRS2001981A), ces dispositions s'appliquent aux étudiants inscrits en troisième cycle des études de médecine à compter de la rentrée universitaire 2019-2020.
+Conformément à l’article 5 de l’arrêté du 15 avril 2022 (NOR : SSAH2209486A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.

@@ -10,7 +10,7 @@ Former les spécialistes de médecine d'urgence exerçant principalement dans le
 
 1.2. Durée totale du DES
 
-8 semestres dont au moins 2 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté et au moins 2 dans un lieu de stage sans encadrement universitaire
+8 semestres dont au moins 3 dans un lieu de stage avec encadrement universitaire tel que défini à l'article 1er du présent arrêté et au moins 2 dans un lieu de stage sans encadrement universitaire
 
 1.3. Intitulé des options proposées au sein du DES :
 
@@ -350,4 +350,4 @@ Conformément aux articles 13 et 59 de l'arrêté du 12 avril 2017 portant organ
 
 NOTA :
 
-Conformément au I de l’article 8 de l’arrêté du 3 mars 2022 (NOR : SSAH2200243A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
+Conformément à l’article à l’article 5 de l’arrêté du 15 avril 2022 (NOR : SSAH2209486A), ces dispositions sont applicables à compter de la rentrée universitaire 2022.
