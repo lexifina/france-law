@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924260
+
+- Question : [SEQ210924260](seq210924260.md) — Caméras de surveillance
+
+## Réponse
+
+*Intérieur, JO du 2022-04-21, page 2153*
+
+La mise en œuvre de caméras permettant de capter des flux d'images sur la voie publique aux fins de lutter contre des infractions relève d'une autorisation préalable du Préfet du département conformément aux dispositions des articles L 251-1 à L 255-1 du code de la sécurité intérieure. Cette autorisation peut être délivrée tant pour des dispositifs fixes que pour des dispositifs déplaçables dès lors que les espaces qui sont filmés ont bien été préalablement autorisés dans le respect de ces dispositions. L'option consistant à privilégier des caméras destinées à être déplacées à divers endroits en fonction des besoins, revient ainsi à n'équiper que partiellement les espaces qui ont été autorisés préalablement ce qui est parfaitement légitime dans la mesure où une autorisation administrative dans ce domaine permet d'installer les caméras sur l'ensemble des espaces identifiés mais n'oblige pas pour autant à installer ces caméras. Il convient cependant de veiller à ce que les matériels choisis respectent les dispositions de l'arrêté n° IOCD0762353A du 3 août 2007 qui prescrit les exigences techniques auxquelles les dispositifs doivent répondre. Il est notamment requis une fréquence minimale de 6 à 12 images par secondes ainsi qu'un réseau garantissant la confidentialité et l'intégrité des images. Or, les caméras auxquelles la question fait référence, peuvent présenter des caractéristiques incompatibles avec ces exigences. Ainsi, si la mise en œuvre de dispositifs de vidéoprotection nomades est parfaitement envisageable, il convient de veiller à ce que les dispositifs choisis répondent à l'ensemble des exigences règlementaires qui s'appliquent.
