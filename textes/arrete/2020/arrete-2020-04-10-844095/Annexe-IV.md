@@ -4,7 +4,9 @@ CADRE TYPE DU DOSSIER TECHNIQUE
 
 Préambule
 
-A priori, la modulation pour contraintes techniques, architecturales ou patrimoniales est spécifique à un bâtiment. Dans ce contexte, les bâtiments concernés par une déclaration de modulation des objectifs pour ce motif devraient faire l'objet d'un dossier spécifique, à l'exception de certains bâtiments dont les caractéristiques sont similaires.
+La modulation pour contraintes techniques, architecturales ou patrimoniales est spécifique à un bâtiment. Dans ce contexte, les bâtiments concernés par une déclaration de modulation des objectifs pour ce motif doivent faire l'objet d'un dossier spécifique, à l'exception de certains bâtiments dont les caractéristiques sont similaires.
+
+Le dossier technique est décliné à l'échelle d'une entité fonctionnelle dans le cas de la multi-occupation, et conformément aux dispositions du second alinéa de l'article 7, l'étude énergétique portant sur la performance énergétique doit être menée à l'échelle du bâtiment.
 
 Chapitre Ier : Données administratives sur l'assujetti
 

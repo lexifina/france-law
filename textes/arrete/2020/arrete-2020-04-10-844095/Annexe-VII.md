@@ -4,145 +4,7 @@ ATTESTATION NUMÉRIQUE ANNUELLE
 
 Modèle d'attestation numérique annuelle (Modèle VII-1)
 
-|
-
-Observatoire de la Performance Energétique, de la Rénovation et des Actions du Tertiaire
-
-Attestation numérique annuelle de suivi
-
-des consommations d'énergie
-
-2025 |
-
-OPERAT |
-
-Notation Eco Energie Tertiaire |
-
-Entité |
-
-Société Lambda |
-
-Catégorie Activité principale |
-
-Bureaux |
-
-Adresse |
-
-N°, Rue
-
-Code |
-
-Ville |
-
-Région climatique |
-
-H1a |
-
-Bâtiment (s) |
-
-☑ Bâtiment en entier |
-
-□ Partie de bâtiment |
-
-□ Ensemble de bâtiments |
-
-Consommation énergétique de référence |
-
-Consommation de référence Cref ajustée : |
-
-280 kWh/ m ²/ an |
-
-Année de référence : |
-
-2012 |
-
-OBJECTIFS |
-
-Objectifs en valeur relative |
-
-Crelat 2030 théorique : |
-
-168 kWh/ m ²/ an |
-
-Objectif modulé |
-
-kWh/ m ²/ an |
-
-|
-
-Crelat 2040 théorique : |
-
-140 kWh/ m ²/ an |
-
-Objectif modulé |
-
-kWh/ m ²/ an |
-
-|
-
-Crelat 2050 théorique : |
-
-112 kWh/ m ²/ an |
-
-Objectif modulé |
-
-kWh/ m ²/ an |
-
-|
-
-Objectif en valeur absolue |
-
-Cabs 2030 |
-
-107 kWh/ m ² |
-
-Objectif modulé |
-
-kWh/ m ²/ an |
-
-|
-
-SUIVI DES CONSOMMATIONS
-
-ajustées en fonction des variations climatiques |
-
-Années |
-
-Référence 2012 |
-
-2023 |
-
-2024 |
-
-2025 |
-
-Consommation EF |
-
-kWh/ m ²/ an |
-
-kWh/ m ²/ an |
-
-kWh/ m ²/ an |
-
-kWh/ m ²/ an |
-
-Evaluation Emission CO2 |
-
-kg CO2 |
-
-|
-
-|
-
-|
-
-Diagramme exploitation fichier Excel |
-
-Evaluation à l'échelle du Patrimoine Année 2025 |
-
-Identification du groupe |
-
-Notation Eco Energie Tertiaire |
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique à l'adresse suivant : https://www.legifrance.gouv.fr/download/pdf?id=tT8Pn_noNUJrtHX0hN35x0kDKsw--9F4cO5LbLBvIoE=
 
 Evaluation de l'émission de gaz à effet de serre (Tableau VII-2)
 
@@ -196,7 +58,49 @@ Autres combustibles fossiles |
 
 0,324 |
 
+Autre source énergétique non recensée
+
+|
+
+Demande d'intégration (article 3) |
+
 Pour les réseaux de chaleur ou de froid, pour lesquels la dispersion du contenu CO2 est importante, la valeur à retenir est précisée à l'annexe 7 de l'Arrêté du 15 septembre 2006 relatif au diagnostic de performance énergétique pour les bâtiments existants proposés à la vente en France métropolitaine.
+
+Pour l'application des dispositions prévues à l'article 16 du présent arrêté, relative au changement de source énergétique, les coefficients de conversion des consommations d'énergie finale déclarées sur la plateforme OPERAT en énergie primaire non renouvelable sont récapitulés dans le tableau suivant :
+
+Type d'énergie |
+
+Coefficient de conversion des consommations
+
+en Energie Finale (exprimées en kWh PCI)
+
+en Energie Primaire non renouvelable |
+
+Électricité (hors autoconsommation) tous usages confondus |
+
+2,3 |
+
+Gaz méthane (naturel) issu des réseaux |
+
+1 |
+
+Autres énergies fossiles (Gaz butane, Gaz propane, Fioul domestique, Charbon) |
+
+1 |
+
+Bois |
+
+0 |
+
+Réseau urbain de chaleur |
+
+1-Ratio d'énergie renouvelable ou de récupération du réseau (chaleur) |
+
+Réseau urbain de froid |
+
+1 |
+
+Le ratio d'énergie renouvelable ou de récupération des réseaux de chaleur urbains est défini conformément aux dispositions de l'arrêté du 4 août 2021 relatif aux exigences de performance énergétique et environnementale des constructions de bâtiments en France métropolitaine et portant approbation de la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation.
 
 Modalité relative à la notation "Eco Energie Tertiaire" (Annexe VII-3)
 

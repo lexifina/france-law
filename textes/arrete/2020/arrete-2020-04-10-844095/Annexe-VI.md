@@ -124,7 +124,7 @@ Adresse correspondant au Siret (format adresse : n°-Voie-Code postale-Ville)
 
 Table 1B-Données administratives de Groupe de Structures assujetties
 
-Le cas échéant-Atteinte de l'objectif à l'échelle de tout ou partie d'un patrimoine |
+Le cas échéant-Mutualisation des résultats à l'échelle de tout ou partie d'un patrimoine d'entités fonctionnelles |
 
 Dénomination officielle du groupe de structures |
 
@@ -272,11 +272,13 @@ Importation via API possible |
 
 Sélection par menu déroulant (choix)
 
--Cas 1-Bâtiment hébergeant exclusivement des activités tertiaires (avec ou sans activités tertiaires non accessoires)
+- Cas 1a-Bâtiment hébergeant exclusivement des activités tertiaires (avec ou sans activités non tertiaires accessoires) sur une seule entité fonctionnelle (propriétaire occupant unique ou mono locataire)
 
--Cas 2-Partie (s) de bâtiment hébergeant des activités tertiaires-Lot (s)
+- Cas 1b-Bâtiment hébergeant exclusivement des activités tertiaires (avec ou sans activités non tertiaires) en multi-occupation-Lot (s)
 
--Cas 3-Ensemble de bâtiments situés sur une même unité foncière ou sur un même site hébergeant des activités tertiaires-Site |
+- Cas 2-Partie (s) de bâtiment hébergeant des activités tertiaires-Lot (s)
+
+- Cas 3-Ensemble de bâtiments situés sur une même unité foncière ou sur un même site hébergeant des activités tertiaires-Site |
 
 Création d'un Identifiant unique bâtimentaire |
 
@@ -292,9 +294,11 @@ Importation via API possible |
 
 Préfixe-Section-N° Parcelle
 
-https :// www. geoportail. gouv. fr/ donnees/ parcelles-cadastrales
+https://www.geoportail.gouv.fr/donnees/parcelles-cadastrales
 
-https :// www. cadastre. gouv. fr/ scpc/ rechercherParReferenceCadastrale. do |
+https://www.cadastre.gouv.fr/scpc/rechercherParReferenceCadastrale.do
+
+|
 
 Identifiant bâtiment unique (Cas 1 et 2)
 
@@ -308,9 +312,11 @@ Identifiant des bâtiments hébergeant des activités tertiaires situés sur une
 
 -Dénomination bâtiment 4 à x : Identifiant alphanumérique |
 
-Identification de ou des parties de bâtiments (Cas 2)-Numéro de Lot
+Identification de ou des parties de bâtiments (Cas 1 à 3)-Numéro (s) de Lot (s)
 
-Importation via API possible |
+Importation via API possible
+
+|
 
 -Numéro (s) de (s) Lot (s) concerné (s) pour la structure assujettie |
 
@@ -324,17 +330,19 @@ Importation via API possible |
 
 Sélection par menu déroulant (choix) et renseignement des références
 
--Réseau électrique (Enedis, RTE, etc.) : Identifiant (s) de Point de livraison (PDL) ou Référence Acheminement Electricité à renseigner
+- Réseau électrique (Enedis, RTE, etc.) : Identifiant (s) de Point de livraison (PDL) ou Référence Acheminement Electricité à renseigner
 
--Réseau gaz (GRDF) Identifiant (s) de PDL à renseigner
+- Réseau gaz (GRDF) Identifiant (s) de PDL à renseigner
 
--Réseau de chaleur :
+- Réseau de chaleur :
 
 -Identifiant du Réseau de chaleur (liste)
 
 -Identifiant (s) de la sous-station
 
--Aucun point de livraison |
+- Point de livraison spécifique IRVE (Installation de recharge des véhicules électriques ou hybrides rechargeables)
+
+- Aucun point de livraison |
 
 Table 3.-Données sur la situation de référence
 
@@ -414,6 +422,10 @@ Sélection par menu déroulant (choix) des types d'énergies utilisées et rense
 
 -Réseau de froid (kWh électrique) : consommation année de référence |
 
+Consommation énergétique relative à la recharge des véhicules électriques ou hybrides rechargeables (IRVE)-Année de référence |
+
+-Recharge des véhicules électriques ou hybrides rechargeables (IRVE)-consommation année de référence |
+
 Catégories d'activités et sous-catégories d'activités
 
 Obligatoire permet de déterminer l'objectif exprimé en valeur absolue mais également l'objectif en valeur relative en prenant en considération la surface assujettie |
@@ -464,9 +476,11 @@ Proposition automatique de l'information issue de la Table 3, mais qui peut êtr
 
 Périmètre des consommations |
 
--Consommation privative
+-Consommations individuelles de l'entité fonctionnelle
 
--Consommation communes réparties |
+-Consommations réparties bénéficiant à l'entité fonctionnelle
+
+-Consommations des espaces communs affectées à l'entité fonctionnelle |
 
 Consommations énergétiques annuelles
 
@@ -502,15 +516,23 @@ Sélection par menu déroulant (choix) des types d'énergies utilisées et rense
 
 -Réseau de froid (kWh électrique) : consommation année n-1 |
 
+Consommation énergétique relative à la recharge des véhicules électriques ou hybrides rechargeables (IRVE)-Consommation annuelle |
+
+-Recharge des véhicules électriques ou hybrides rechargeables (IRVE)-consommation annuelle |
+
 Remontée de données de consommations par les gestionnaires de réseaux de distribution (GRD)
 
-Choix de l'option de collecte de données lorsqu'il existe une convention entre l'ADEME et les GRD |
+Choix de l'option de collecte de données lorsqu'il existe une convention entre l'ADEME et les GRD
 
--Electricité (Convention Enedis, RTE, etc)
+|
 
--Gaz (Convention GRDF)
+- Electricité (Convention Enedis, RTE, etc)
 
--Réseau de chaleur (liste de Réseau de chaleur urbain ayant passé une convention avec l'ADEME) |
+- Gaz (Convention GRDF)
+
+- Réseau de chaleur (liste de Réseau de chaleur urbain ayant passé une convention avec l'ADEME)
+
+- Réseau de froid (liste de Réseau de froid urbain ayant passé une convention avec l'ADEME) |
 
 Table 4 b-Evolution des indicateurs d'intensité d'usage |
 
@@ -548,25 +570,27 @@ Importation via API possible |
 
 Sélection par menu déroulant (choix) de l'époque de construction.
 
--Avant 1400-Moyen âge et antiquité
+- Avant 1400-Moyen âge et antiquité
 
--1400 à 1700-Renaissance
+- 1400 à 1700-Renaissance
 
--1700 à 1800-Baroque
+- 1700 à 1800-Baroque
 
--1800 à 1899-Néoclassique, Haussmannien
+- 1800 à 1899-Néoclassique, Haussmannien
 
--1900 à 1947-Moderne (Pré-rationalisme, Bauhaus, Style international)
+- 1900 à 1947-Moderne (Pré-rationalisme, Bauhaus, Style international)
 
--1948 à 1979-Post Moderne (Béton, charpentes métalliques, etc …)
+- 1948 à 1979-Post Moderne (Béton, charpentes métalliques, etc.)
 
--1980 à 2000-RT 1978 non contraignante
+- 1980 à 2000-RT 1978 non contraignante
 
--2001-2012-RT 2000 et 2005 ou référence équivalente (non assujetti)
+- 2001-2012-RT 2000 et 2005 ou référence équivalente (non assujetti RT)
 
--2013-2021-RT 2012 ou référence équivalente (non assujetti)
+- 2013-2021-RT 2012 ou référence équivalente (non assujetti RT)
 
--A partir de 2021-RE2020 ou référence équivalente (non assujetti) |
+- A partir de 2021-RE2020 ou référence équivalente (non assujetti RE)
+
+|
 
 Type de patrimoine
 
@@ -1011,3 +1035,17 @@ Sélection par menu déroulant (choix) de l'époque de construction.
 -Fonctionnement continu-Nombre : à renseigner
 
 -Asservi à la détection-Nombre : à renseigner |
+
+Système d'automatisation et de contrôle des systèmes techniques (BACS-Building Automation Control System)
+
+Classification selon la norme NF EN15232-1 |
+
+Sélection par menu déroulant (choix).
+
+- Niveau de régulation A (très évolué)
+
+- Niveau de régulation B (évolué)
+
+- Niveau de régulation C (standard)
+
+- Niveau de régulation D (absence de régulation) |
