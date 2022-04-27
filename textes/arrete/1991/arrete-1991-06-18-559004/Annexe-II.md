@@ -172,6 +172,10 @@ En cas d'absence de liaison du logiciel de contrôle avec le système d'immatric
 
 En cas de présence de la défaillance 7.11.1.a.1., "Le contrôle de cohérence du kilométrage est réalisé à partir des kilométrages relevés lors des contrôles réalisés depuis le 20 mai 2018".
 
+En présence d'un compteur kilométrique à 5 chiffres, “ Véhicule équipé d'un compteur kilométrique à 5 chiffres ”.
+
+En présence d'un compteur kilométrique en miles, “ Véhicule équipé d'un compteur en miles. La conversion en km n'est pas effectuée ”.
+
 14. Les mesures réalisées et les valeurs limites correspondantes :
 
 -ripage ;
@@ -402,4 +406,4 @@ Sa sécurité peut, en outre, être renforcée par la présence d'un pictogramme
 
 NOTA :
 
-Conformément à l'article 5 de l'arrêté du 27 janvier 2021, ces dispositions entrent en vigueur le 1er avril 2021.
+Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur deux mois après la publication de l'arrêté

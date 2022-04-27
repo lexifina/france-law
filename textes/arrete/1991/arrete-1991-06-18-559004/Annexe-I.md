@@ -6116,9 +6116,9 @@ G. 2. Efficacité du frein de service (point 1.2.2.)
 
 L'efficacité est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
 
--58 % pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 2012 ;
+-58 % pour les véhicules de catégories M1 et M1G mis pour la première fois en circulation à partir du 1er janvier 2012 ;
 
--50 % pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er octobre 1989 ;
+-50 % pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégories N1 et N1G mis pour la première fois en circulation à partir du 1er octobre 1989 ;
 
 -45 % pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er octobre 1989 ;
 
@@ -6128,9 +6128,9 @@ L'efficacité est considérée comme insuffisante lorsqu'elle est strictement in
 
 La décélération est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
 
--5,8 m/ s ² pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 2012 ;
+-5,8 m/ s ² pour les véhicules de catégories M1 et M1G mis pour la première fois en circulation à partir du 1er janvier 2012 ;
 
--5,0 m/ s ² pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er octobre 1989 ;
+-5,0 m/ s ² pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégories N1 et N1G mis pour la première fois en circulation à partir du 1er octobre 1989 ;
 
 -4,5 m/ s ² pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er octobre 1989 ;
 
@@ -6150,9 +6150,9 @@ G. 4. Efficacité du frein de secours (point 1.3.2.)
 
 Lorsque la conception du véhicule permet le contrôle de l'efficacité totale de son frein de secours, celle-ci est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
 
--29 % pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 2012 ;
+-29 % pour les véhicules de catégories M1 et M1G mis pour la première fois en circulation à partir du 1er janvier 2012 ;
 
--25 % pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er octobre 1989 ;
+-25 % pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégories N1 et N1G mis pour la première fois en circulation à partir du 1er octobre 1989 ;
 
 -23 % pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er octobre 1989 ;
 
@@ -6162,9 +6162,9 @@ Lorsque la conception du véhicule permet le contrôle de l'efficacité totale d
 
 La décélération est considérée comme insuffisante lorsqu'elle est strictement inférieure à :
 
--2,9 m/ s ² pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 2012 ;
+-2,9 m/ s ² pour les véhicules de catégories M1 et M1G mis pour la première fois en circulation à partir du 1er janvier 2012 ;
 
--2,5 m/ s ² pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er octobre 1989 ;
+-2,5 m/ s ² pour les véhicules de catégorie M1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er janvier 2012, et pour les véhicules de catégories N1 et N1G mis pour la première fois en circulation à partir du 1er octobre 1989 ;
 
 -2,3 m/ s ² pour les véhicules de catégorie N1 mis pour la première fois en circulation à partir du 1er janvier 1956 et avant le 1er octobre 1989 ;
 
@@ -6236,4 +6236,4 @@ Dans tous les autres cas, lorsque le résultat d'un contrôle technique est déf
 
 NOTA :
 
-Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur un mois après la publication dudit arrêté.
+Conformément à l’article 13 de l’arrêté du 8 février 2022 (NOR : TRER2204042A), ces dispositions entrent en vigueur deux mois après la publication dudit arrêté.
