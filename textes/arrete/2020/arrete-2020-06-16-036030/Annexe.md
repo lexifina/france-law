@@ -200,6 +200,30 @@ Et fiscalité européenne (FID 2)
 
 Du 1er juillet 2021 au 28 février 2023. |
 
+Opération :
+
+Transfert de la gestion de la paie des agents de Mayotte en paiement sans ordonnancement préalable par le centre de services des ressources humaines de la direction générale des douanes et droits indirects.
+
+Service concerné :
+
+Pôle gestion logistique de la direction régionale de Mayotte
+
+|
+
+Du 1er janvier 2022 au 31 août 2023 |
+
+Opération :
+
+Réorganisation de la direction régionale de Nice.
+
+Service concerné :
+
+Division de Nice
+
+|
+
+Du 1er janvier 2022 au 31 août 2023 |
+
 Réorganisation du bureau des douanes de Toulouse Portet suite au transfert de la mission de dédouanement vers un autre service.
 
 |
