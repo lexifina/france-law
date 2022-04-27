@@ -42,14 +42,8 @@ Dans ce cas, il en informe par écrit, avec un préavis d'au moins quarante-huit
 
 Le délai prévu au sixième alinéa du présent II ne s'applique pas lorsque la modification de la modalité ou des modalités d'utilisation de ce congé et des dates prévisionnelles de congé est due à la dégradation soudaine de l'état de santé de l'enfant ou à une situation de crise nécessitant une présence immédiate de l'agent.
 
-III. - L'autorité qui a accordé le congé de présence parentale fait procéder aux enquêtes nécessaires pour s'assurer que l'activité du bénéficiaire du congé est réellement consacrée à donner des soins à son enfant. Si le contrôle révèle que le congé n'est pas utilisé à cette fin, il peut y être mis fin après que l'intéressé a été invité à présenter ses observations.
+III.-L'autorité qui a accordé le congé de présence parentale fait procéder aux enquêtes nécessaires pour s'assurer que l'activité du bénéficiaire du congé est réellement consacrée à donner des soins à son enfant. Si le contrôle révèle que le congé n'est pas utilisé à cette fin, il peut y être mis fin après que l'intéressé a été invité à présenter ses observations.
 
-IV. - Si le titulaire du droit au congé de présence parentale renonce au bénéfice de la durée restant à courir de ce congé, il en informe l'autorité dont il relève avec un préavis de quinze jours. Le droit à congé de présence parentale cesse de plein droit en cas de décès de l'enfant.
+IV.-Si le titulaire du droit au congé de présence parentale renonce au bénéfice de la durée restant à courir de ce congé, il en informe l'autorité dont il relève avec un préavis de quinze jours. Le droit à congé de présence parentale cesse de plein droit en cas de décès de l'enfant.
 
-V. - L'agent non titulaire bénéficiaire du droit au congé de présence parentale conserve le bénéfice de son contrat ou de son engagement, dans les conditions de réemploi définies aux articles 32 et 33.
-
-NOTA :
-
-Conformément à l’article 13 du décret 2020-1492 du 30 novembre 2020, les dispositions du présent décret sont applicables aux demandes de congé de présence parentale ou de prolongation de congé de présence parentale présentées après son entrée en vigueur.
-
-Toutefois, les agents publics bénéficiant d'un tel congé à la date d'entrée en vigueur du présent décret peuvent opter pour l'application de ses dispositions.
+V.-L'agent contractuel bénéficiaire du droit au congé de présence parentale conserve le bénéfice de son contrat ou de son engagement, dans les conditions de réemploi définies aux articles 32 et 33.
