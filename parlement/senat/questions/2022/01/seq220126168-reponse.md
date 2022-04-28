@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220126168
+
+- Question : [SEQ220126168](seq220126168.md) — Fonds national pour la société numérique pour le financement du déploiement des réseaux à très haut débit
+
+## Réponse
+
+*Transition numérique et communications électroniques, JO du 2022-04-28, page 2430*
+
+Dans le contexte de crise sanitaire, le Gouvernement a annoncé sa volonté d'accélérer la généralisation la couverture numérique en fibre optique pour tous les territoires à horizon fin 2025. 570 M€ ont donc été mobilisés pour répondre à cet objectif : une enveloppe de 420 M€ a été allouée aux réseaux d'initiative publique qui ne disposaient pas encore d'un projet financé pour la généralisation de la fibre à horizon 2025. De plus, 150 M€ ont été provisionnés fin 2021 pour surmonter les difficultés de raccordement à la fibre optique et assurer à tous un accès effectif à la fibre optique. S'agissant du département de l'Indre, le porteur de projet que vous mentionnez, le syndicat mixte RIP 36, a bénéficié d'un premier soutien de l'Etat de 31 M€ pour un premier volet de déploiement en fibre optique jusqu'à l'abonné, représentant près de 54 % de la zone d'initiative publique à déployer. Au 25 février 2022, 27,16 M€ ont d'ores et déjà été versés au porteur de projet. Par ailleurs, en vue du financement de la généralisation de la fibre optique, un nouveau cahier des charges de l'appel à projets « Plan France Très Haut Débit – réseaux d'initiative publique » a été publié au journal officiel le 8 janvier 2021. Dans le cadre de cet appel à projets, douze candidats ont déposé un dossier de demande de subvention afin d'être instruits, parmi lesquels le syndicat mixte RIP 36. Le 3 mars 2022, le Premier ministre a donné un accord de financement pour onze projets, dont celui de l'Indre à hauteur de 20 M€. Un avenant à la convention de financement sera finalisé dans les prochaines semaines pour intégrer ce complément de financement à la convention actuelle.
