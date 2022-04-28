@@ -1,0 +1,9 @@
+# Réponse à la question SEQ191213387
+
+- Question : [SEQ191213387](seq191213387.md) — Dysfonctionnements liés à la réforme du complément du mode de garde
+
+## Réponse
+
+*Solidarités et santé, JO du 2022-04-28, page 2366*
+
+La réforme issue de l'article 42 de la loi de financement de la sécurité sociale pour 2017 a modifié le circuit de versement de la prestation du complément mode de garde (CMG) pour 850 000 familles qui est désormais effectué par le centre PAJEMPLOI. Lors de son déploiement en juin 2019, environ 30 000 familles, soit 3,5 % de la population concernée, ont connu des difficultés du fait d'anomalies dans le calcul de leurs droits à prestation et des désynchronisations entre les données des différents systèmes d'information. Bien qu'existant avant la réforme, ces anomalies n'ont pu être corrigées en raison du raccourcissement du délai de versement de la prestation. Par conséquent, les familles concernées ont été prélevées d'un montant de cotisations sociales qui auraient dû être totalement ou partiellement réduits du montant de la prestation. Dès les premiers signalements, les caisses d'allocations familiales et les mutualités sociales agricoles ont mis en place une procédure de versement d'acompte attribué, tandis que le Centre PAJEMPLOI a procédé au remboursement des cotisations sociales prélevées à tort, sur demande des familles. En complément de ces dispositifs, et pour la durée nécessaire à la résorption de l'ensemble des anomalies, une commission d'urgence sociale a été mise en place pour attribuer des aides financières personnalisées aux familles les plus en difficulté et un numéro non surtaxé a été mis à disposition pour faciliter les signalements. Par ailleurs un important programme de rénovation du dispositif sera mis en œuvre à l'horizon 2023 visant à mieux répondre aux besoins de l'ensemble des utilisateurs, témoignant de la prise en compte par le Gouvernement de la spécificité du secteur.
