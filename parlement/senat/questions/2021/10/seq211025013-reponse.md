@@ -1,0 +1,9 @@
+# Réponse à la question SEQ211025013
+
+- Question : [SEQ211025013](seq211025013.md) — Dialogue social au sein des chambres de commerces et d'industrie
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-04-28, page 2324*
+
+La situation décrite par M. le Sénateur TODESCHINI est liée à l'absence de signature de la convention collective qui devait, aux termes de l'article 40 de la loi relative à la croissance et la transformation des entreprises, dite loi PACTE, être conclue dans un délai de neuf mois après l'entrée en vigueur de celle-ci, soit le 23 février 2020. Cette situation a conduit le Gouvernement à proposer un cadre renouvelé pour la négociation collective. Les nouvelles dispositions figurent à l'article 12 du projet de loi en faveur de l'activité professionnelle indépendante, qui a été adopté par le Sénat le 26 octobre 2021. Préalablement à l'engagement de nouvelles discussions au sujet de la convention collective, il est prévu d'organiser de nouvelles élections des représentants des personnels des chambres de commerces et d'industrie (CCI), dans un délai de six mois après l'entrée en vigueur de la loi. Les négociations seront ainsi conduites par des représentants renouvelés, tant du côté des employeurs que des salariés. Si, au terme d'un an de discussions, celles-ci ne devaient pas aboutir, les salariés bénéficieront de la convention collective dont relève l'activité principale du réseau des chambres de commerces et d'industrie (CCI), à savoir le conseil et l'accompagnement des entreprises. Enfin, l'évolution de la situation des agents de droit public est garantie. Ceux-ci pourront en effet bénéficier des mêmes droits et avantages que les salariés de droit privé et pourront opter pour un contrat de droit privé quand ils le souhaiteront et non plus seulement dans un délai limité.
