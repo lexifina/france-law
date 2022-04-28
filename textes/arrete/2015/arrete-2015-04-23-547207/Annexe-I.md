@@ -196,7 +196,7 @@ Directeur du service des pensions et des risques professionnels
 
 |
 
-Direction des patrimoines, de la mémoire et des archives
+Direction de la mémoire, de la culture et des archives
 
 |
 

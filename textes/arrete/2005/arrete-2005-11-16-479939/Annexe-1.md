@@ -62,20 +62,14 @@ Pour les actes et dans les limites prévus par l'arrêté du 23 avril 2015 organ
 
 |
 
-Décisions attributives de subventions à des associations sur des crédits d'intervention du programme 169 de la mission Anciens combattants, mémoire et liens avec la nation (2).
+Décisions attributives de subventions à des associations sur des crédits d'intervention du programme 169 de la mission Anciens combattants, mémoire et liens avec la nation (2). |
 
-|
+Le secrétaire général pour l'administration, le directeur des ressources humaines du ministère de la défense et le directeur de la mémoire, de la culture et des archives. |
 
-Le secrétaire général pour l'administration, le directeur des ressources humaines du ministère de la défense et le directeur de la mémoire du patrimoine et des archives.
-
-|
-
-Dès le premier euro.
-
-|
+Dès le premier euro. |
 
 (1) Au-delà du seuil ainsi fixé, seul le ministre de la défense est compétent.
 
 |
 
-(2) Hors " réserve parlementaire ". Les décisions attributives de subventions sont prises par le secrétaire d'Etat chargé des anciens combattants et de la mémoire dans les conditions précisées par la décision n° 188 du 4 janvier 2016 relative aux subventions aux associations. Le secrétaire général pour l'administration, le directeur des ressources humaines du ministère de la défense et le directeur de la mémoire du patrimoine et des archives restent compétents en matière de programmation des crédits correspondants ainsi que d'exécution des recettes et des dépenses. |
+(2) Hors " réserve parlementaire ". Les décisions attributives de subventions sont prises par le secrétaire d'Etat chargé des anciens combattants et de la mémoire dans les conditions précisées par la décision n° 188 du 4 janvier 2016 relative aux subventions aux associations. Le secrétaire général pour l'administration, le directeur des ressources humaines du ministère de la défense et le directeur de la mémoire, de la culture et des archives restent compétents en matière de programmation des crédits correspondants ainsi que d'exécution des recettes et des dépenses. |
