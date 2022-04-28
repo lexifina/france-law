@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220226904
+
+- Question : [SEQ220226904](seq220226904.md) — Financement d'un château d'eau neuf
+
+## Réponse
+
+*Cohésion des territoires et relations avec les collectivités territoriales, JO du 2022-04-28, page 2289*
+
+Aux termes de l'article L. 2224-7 du code général des collectivités territoriales (CGCT), le stockage de l'eau potable relève pleinement de la compétence « eau ». L'article L. 2224-7-1 du CGCT précise que les ouvrages et équipements nécessaires au stockage de l'eau sont déterminés par la personne publique compétente en matière d'eau dans le cadre du schéma de distribution d'eau potable. Le syndicat des eaux titulaire de la compétence transférée par ses membres, qui en exerce par conséquent la responsabilité, détermine, par le biais de son comité syndical, les priorités d'investissement sur le réseau et les équipements le cas échéant à réaliser. S'agissant des modalités de financement de ce type d'édifice, le syndicat des eaux est assujetti, en tant que groupement de collectivités territoriales, aux dispositions du III de l'article L. 1111-10 du CGCT en application desquelles il lui revient d'assurer une participation minimale en qualité de maître d'ouvrage d'un projet d'investissement, à hauteur de 20 % du total des financements apportés par les personnes publiques au projet. Le département peut, à la demande de l'autorité compétente en matière d'eau, contribuer au financement du projet, en application de l'article L 1111-10 du CGCT, sans préjudice du financement par d'autres personnes publiques. Les agences de l'eau, par exemple, peuvent apporter leur soutien financier au maître d'ouvrage dans le cas où le projet répond à des enjeux de déficit quantitatif, selon des modalités définies dans leur programme d'intervention. A contrario, il est rappelé que le versement de fonds de concours entre le syndicat et ses membres est proscrit par la loi pour la réalisation d'un équipement dans le domaine de l'eau.
