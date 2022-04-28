@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210120281
+
+- Question : [SEQ210120281](seq210120281.md) — Critère des 50 salariés et attribution des aides
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-04-28, page 2302*
+
+Le Gouvernement est particulièrement attentif à la situation économique des entreprises. C'est pourquoi, dès le début de la crise sanitaire, l'État et les régions ont mis en place un fonds de solidarité pour aider les plus petites d'entre elles, particulièrement affectées en cette période. Ce dispositif est régulièrement adapté pour soutenir au mieux les très petites entreprises (TPE) /petites et moyennes entreprises (PME), indépendants, micro-entrepreneurs et professions libérales de notre pays. Ainsi, depuis le mois de décembre 2020, les entreprises fermées administrativement et celles relevant des secteurs des annexes 1 et 2 du décret 2020-371 modifié (dits « S1 » et « S1 bis » respectivement) peuvent bénéficier du fonds de solidarité sans critère d'effectif. Seules les entreprises qui ne relèvent pas de ces secteurs ou qui ne font pas l'objet d'une fermeture administrative demeurent soumises à la condition de 50 salariés pour bénéficier d'une aide pouvant atteindre 1 500 € au titre du fonds de solidarité. Les aides du fonds de solidarité complètent l'ensemble des mesures mises en place par le Gouvernement pour soutenir les entreprises en période de crise, notamment le dispositif d'activité partielle renforcé et simplifié, les prêts garantis par l'État (PGE) qui peuvent être contractés jusqu'à fin juin 2021, les dispositifs d'exonérations de cotisations pour les entreprises fermées administrativement et les entreprises des secteurs faisant l'objet du plan tourisme ou encore les prêts directs de l'État (prêts participatifs et avances remboursables) pour les entreprises n'ayant pas l'accès au PGE.
