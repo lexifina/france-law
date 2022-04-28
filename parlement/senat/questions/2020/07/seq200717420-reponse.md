@@ -1,0 +1,9 @@
+# Réponse à la question SEQ200717420
+
+- Question : [SEQ200717420](seq200717420.md) — Tique à pattes rayées
+
+## Réponse
+
+*Solidarités et santé, JO du 2022-04-28, page 2370*
+
+La tique à pattes rayées, Hyalomma marginatum, est endémique au Maghreb, dans la péninsule Ibérique, de l'Italie à la Turquie, dans le Caucase et dans le sud de la Russie. Elle est présente en Corse depuis plusieurs décennies alors qu'en France continentale son installation est plus récente : selon le centre de coopération internationale en recherche agronomique pour le développement (CIRAD) les premières observations convaincantes de sa présence pérenne datent de 2015. H marginatum a été retrouvée des Pyrénées-Orientales au Var et jusqu'en Ardèche, principalement dans des sites à la végétation et au climat méditerranéens. Ces tiques peuvent être porteuses de différents agents pathogènes responsables de maladies pour l'homme, notamment le virus de la fièvre hémorragique de Crimée Congo (FHCC), et de maladies animales. Le réseau européen de surveillance des maladies transmissibles identifie moins d'une dizaine de cas de FHCC chaque année. Pour la France la surveillance est sous la responsabilité de Santé publique France, en lien avec le centre national de référence des fièvres hémorragiques virales. Des études en cours pour déterminer les conditions climatiques limites de survie de l'espèce permettront de déterminer sa zone d'extension potentielle. Les citoyens peuvent participer à la surveillance des tiques en signalant les piqûres sur eux-mêmes ou leurs animaux et en expédiant les tiques capturées, voire des photographies, dans le cadre du programme Signalement-tique. L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES) met en place un groupe de travail sur l'analyse des risques pour la santé humaine et animale liés aux tiques du genre Hyalomma. Des mesures de contrôle pourront ensuite être étudiées.
