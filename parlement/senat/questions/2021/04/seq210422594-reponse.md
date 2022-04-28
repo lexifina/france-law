@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210422594
+
+- Question : [SEQ210422594](seq210422594.md) — Non-éligibilité des entreprises créées en 2020 aux aides financières de soutien face à la crise
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-04-28, page 2309*
+
+Le Gouvernement est particulièrement attentif à la situation économique des entreprises. C'est pourquoi, dès le début de la crise sanitaire, l'État a mis en place un fonds de solidarité pour aider les plus petites d'entre elles, particulièrement affectées en cette période. Ce dispositif est régulièrement adapté pour soutenir au mieux les très petites entreprises (TPE) /petites et moyennes entreprises (PME), indépendants, microentrepreneurs et professions libérales de notre pays. Ainsi, le Gouvernement a fait évoluer la condition d'éligibilité portant sur la date de création de l'entreprise. Ainsi, la date limite de création a d'abord été portée au 30 septembre 2020, puis au 31 octobre 2020, et ensuite au 31 décembre 2020. Depuis l'aide au titre du mois d'avril 2021, elle est portée au 31 janvier 2021. Pour soutenir les entreprises rachetées en 2020, une aide spécifique fut créée par le décret n° 2021-624 du 20 mai 2021. Sont éligibles à cette aide, les entreprises qui ont acquis, entre le 1er janvier 2020 et le 31 décembre 2020, au moins un fonds de commerce dont l'activité a été interdite d'accueil du public sans interruption entre novembre 2020 et mai 2021, et qui n'ont fait aucun chiffre d'affaires en 2020. Enfin, outre les aides au titre du fonds de solidarité, d'autres mesures ont été mises en place : dispositif d'activité partielle renforcé et simplifié, prêts garantis par l'État (PGE) qui peuvent être contractés jusqu'à la fin de l'année 2021, dispositifs d'exonérations de cotisations pour les entreprises fermées administrativement et les entreprises des secteurs faisant l'objet du plan tourisme, prêts directs de l'État (prêts participatifs et avances remboursables).
