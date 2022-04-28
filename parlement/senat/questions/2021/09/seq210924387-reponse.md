@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210924387
+
+- Question : [SEQ210924387](seq210924387.md) — Prises de participation étrangères dans le secteur de la santé
+
+## Réponse
+
+*Économie, finances et relance, JO du 2022-04-28, page 2319*
+
+Les entreprises du secteur de la santé font l'objet d'une vigilance particulière de l'État, notamment en cette période de crise sanitaire qui peut faire peser des risques accrus sur nos entreprises. Les investissements étrangers dans les entreprises françaises dont les activités sont essentielles à la garantie de la protection de la santé publique sont ainsi soumis au contrôle des investissements étrangers en France, et doivent être autorisés par le ministre de l'économie, des finances et de la relance, préalablement à leur réalisation. En outre, la crise sanitaire et les risques d'opérations étrangères prédatrices qu'elle emporte, notamment dans le secteur de la santé, ont poussé la France à prendre deux mesures renforçant davantage le dispositif de contrôle des investissements étrangers dès le mois d'avril 2020. Les biotechnologies font désormais partie des technologies critiques couvertes par le mécanisme de contrôle. De surcroît, le seuil déclenchant le contrôle des investissements étrangers dans les sociétés françaises cotées a été abaissé de 25 % à 10 % des droits de vote. Cette dernière mesure, qui ne s'applique qu'aux investisseurs étrangers non-européens, a été prorogée jusqu'au 31 décembre 2022. Le mécanisme de contrôle des investissements étrangers est pleinement effectif aujourd'hui, et 275 opérations ont été contrôlées en 2020. Sa robustesse et son adaptabilité rapide face aux nouveaux enjeux liés à la crise sanitaire ont fait leurs preuves pour protéger efficacement nos entreprises sensibles de prises de participations étrangères prédatrices.
