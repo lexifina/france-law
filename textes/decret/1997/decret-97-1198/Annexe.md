@@ -542,6 +542,16 @@ Article R. 216-14
 
 Ministre chargé de l'aviation civile |
 
+60 |
+
+Sanction infligée aux exploitants d'aéronefs n'ayant pas compensé leurs émissions de gaz à effet de serre pour les vols réalisés à l'intérieur du territoire national |
+
+Code de l'environnement
+
+Article L. 229-59 |
+
+Ministre chargé de l'aviation civile |
+
 |
 
 Examen au cas par cas des projets |
@@ -2797,7 +2807,3 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
-
-NOTA :
-
-Conformément à l'article 8 du décret n° 2021-603 du 14 mai 2021, ces dispositions entrent en vigueur à compter de la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer ces dispositions comme conformes au droit de l'Union européenne en matière d'aides d'Etat.
