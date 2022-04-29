@@ -9,3 +9,5 @@ NOTA :
 www.insee.fr
 
 .
+
+Se reporter aux dispositions prévues par les articles 1, 2 et 3 du décret n° 2022-711 du 27 avril 2022.
