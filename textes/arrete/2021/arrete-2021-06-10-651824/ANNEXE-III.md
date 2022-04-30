@@ -630,97 +630,103 @@ Module 4- Mise en œuvre des soins adaptés à l'enfant, évaluation et réajust
 
 Objectifs de formation
 
-- Mettre en œuvre des soins personnalisés à partir de l'évaluation de la situation
+-mettre en œuvre des soins personnalisés à partir de l'évaluation de la situation ;
 
-- Evaluer la qualité d'un soin et identifier les éléments à réajuster
+-évaluer la qualité d'un soin et identifier les éléments à réajuster.
 
 Eléments de contenu
 
-- FGSU niveau 2
+-FGSU niveau 2 ;
 
-- Notions de pharmacologie :
+-notions de pharmacologie :
 
-- Les principales classes médicamenteuses, concept d'iatrogénie, modes d'administration des médicaments et conséquences de la prise sur l'organisme.
+-les principales classes médicamenteuses, concept d'iatrogénie, modes d'administration des médicaments et conséquences de la prise sur l'organisme ;
 
-- Notion sur l'oxygénothérapie.
+-notion sur l'oxygénothérapie.
 
-- Le nouveau-né prématuré : immaturités des différents systèmes et pathologies associées, soins spécifiques, soins de soutien au développement (ou soins de développement).
+-Le nouveau-né prématuré : immaturités des différents systèmes et pathologies associées, soins spécifiques, soins de soutien au développement (ou soins de développement) ;
 
-- Les soins en situation aigüe (approche théorique et pratique) :
+-Les soins en situation aigüe (approche théorique et pratique) :
 
-- Cadre réglementaire permettant la réalisation de soins en situation aigüe
+-cadre réglementaire permettant la réalisation de soins en situation aigüe ;
 
-- Le rôle de l'AP dans les situations de soins aigües
+-le rôle de l'AP dans les situations de soins aigües ;
 
-- Définition, identification de modification de l'état de santé, évaluation de la situation clinique durant le soin
+-définition, identification de modification de l'état de santé, évaluation de la situation clinique durant le soin ;
 
-- Qualité et sécurité des soins réalisés en phase aigüe : règles d'hygiène, de sécurité et de confort dans les soins, prévention de la douleur
+-qualité et sécurité des soins réalisés en phase aigüe : règles d'hygiène, de sécurité et de confort dans les soins, prévention de la douleur.
 
-- Prise en compte des interactions avec les différents acteurs
+-prise en compte des interactions avec les différents acteurs ;
 
-- Recherche de la présence, de l'adhésion et de l'implication des parents lors des soins
+-recherche de la présence, de l'adhésion et de l'implication des parents lors des soins ;
 
-- La notion de parcours de soins
+-la notion de parcours de soins ;
 
-- Réalisation des soins :
+-réalisation des soins :
 
-- Adaptation des soins de la vie courante à l'état d'altération de la santé de l'enfant et installation de l'enfant dans une position confortable en lien avec sa pathologie
+-adaptation des soins de la vie courante à l'état d'altération de la santé de l'enfant et installation de l'enfant dans une position confortable en lien avec sa pathologie ;
 
-- Surveillance du nouveau-né : adaptation à la vie extra-utérine
+-surveillance du nouveau-né : adaptation à la vie extra-utérine ;
 
-- Surveillance de l'hypothermie et l'hyperthermie et mise en place d'actions adaptées
+-surveillance de l'hypothermie et l'hyperthermie et mise en place d'actions adaptées ;
 
-- Collaboration avec l'IDE, l'IPDE et la sage-femme dans la réalisation de soins stériles ou non stériles
+-collaboration avec l'IDE, l'IPDE et la sage-femme dans la réalisation de soins stériles ou non stériles ;
 
-- Adaptation de la communication à l'enfant durant le soin en fonction de son état de santé
+-adaptation de la communication à l'enfant durant le soin en fonction de son état de santé ;
 
-- Préparation de l'enfant en vue d'une intervention chirurgicale, d'un acte invasif ou d'un examen complémentaire
+-préparation de l'enfant en vue d'une intervention chirurgicale, d'un acte invasif ou d'un examen complémentaire ;
 
-- Préparation de l'environnement de l'enfant après une intervention, un acte invasif ou un examen complémentaire
+-préparation de l'environnement de l'enfant après une intervention, un acte invasif ou un examen complémentaire ;
 
-- Soins palliatifs et accompagnement en fin de vie
+-soins palliatifs et accompagnement en fin de vie ;
 
-- Réalisation des soins liés aux dispositifs médicaux ou d'appareillage :
+-réalisation des soins liés aux dispositifs médicaux ou d'appareillage :
 
-- Surveillance de l'enfant porteur de dispositifs médicaux ou d'appareillages : enfant sous monitoring ; enfant porteur d'attelles, de plâtres, de tractions ; enfant porteur de drains ; enfant sous perfusions ; enfant en milieu stérile ; enfant ayant une alimentation entérale ; enfant sous oxygénothérapie ; enfant sous photothérapie
+-surveillance de l'enfant porteur de dispositifs médicaux ou d'appareillages : enfant sous monitoring ; enfant porteur d'attelles, de plâtres, de tractions ; enfant porteur de drains ; enfant sous perfusions ; enfant en milieu stérile ; enfant ayant une alimentation entérale ; enfant sous oxygénothérapie ; enfant sous photothérapie ;
 
-- Surveillance des régimes alimentaires
+-surveillance des régimes alimentaires ;
 
-- Pose de bas de contention
+-pose de bas de contention ;
 
-- Changement de lunette à oxygène courbe avec tubulure sans intervention sur le débitmètre
+-pose et changement de masque pour l'aide à la respiration en situation stable chronique ;
 
-- Pose de suppositoire (d'aide à l'élimination)
+-changement de lunette à oxygène courbe avec tubulure sans intervention sur le débitmètre ;
 
-- Réalisation d'aspiration endo-trachéale sur orifice trachéal cicatrisé et non inflammatoire
+-pose de suppositoire (d'aide à l'élimination) ;
 
-- Lavage oculaire et instillation de collyre
+-réalisation d'aspiration endo-trachéale sur orifice trachéal cicatrisé et non inflammatoire ;
 
-- Aide aux soins réalisés par l'IDE et l'IPDE :
+-surveillance de l'enfant porteur d'une sonde vésicale et vidange du sac collecteur ;
 
-- Prise ou aide à la prise de médicaments sous forme non injectable
+-lecture instantanée des données biologiques urinaires ; recueil aseptique d'urines hors sonde urinaire ;
 
-- Surveillance, réalisation, renouvellement des pansements non médicamenteux ;
+-lavage oculaire et instillation de collyre ;
 
-- Soins à l'enfant porteur d'entérostomie cicatrisée
+-aide aux soins réalisés par l'IDE et l'IPDE :
 
-- Administration d'un aérosol non médicamenteux
+-prise ou aide à la prise de médicaments sous forme non injectable ; application de crème et pommade ;
 
-- Renouvellement de collecteur externe non stérile ;
+-surveillance, réalisation, renouvellement des pansements non médicamenteux ;
 
-- Détection et réalisation des soins pour les parasitoses externes
+-soins à l'enfant porteur d'entérostomie cicatrisée ;
 
-- Prévention et soins des escarres
+-administration d'un aérosol non médicamenteux ;
 
-- Réalisation des soins de bouche non médicamenteux
+-renouvellement de collecteur externe non stérile ;
 
-- Aide à la mobilisation
+-détection et réalisation des soins pour les parasitoses externes ;
 
-- Participation à l'animation d'un groupe à visée thérapeutique ou de parole sur les thématiques de prévention infantile, de promotion de la santé
+-prévention et soins des escarres ;
 
-- Soins post-mortem : toilette, habillage, identification.
+-réalisation des soins de bouche non médicamenteux ;
 
-- Evaluation de la qualité des soins et réajustement des soins
+-aide à la mobilisation ; collaboration pour le premier lever ;
+
+-participation à l'animation d'un groupe à visée thérapeutique ou de parole sur les thématiques de prévention infantile, de promotion de la santé ;
+
+-soins post-mortem : toilette, habillage, identification ;
+
+-évaluation de la qualité des soins et réajustement des soins.
 
 Recommandations pédagogiques
 
@@ -730,9 +736,11 @@ Le rôle et la responsabilité de l'auxiliaire de puériculture dans l'aide à l
 
 L'actualisation des recommandations en matière de règles d'hygiène, de sécurité et de confort est intégrée aux enseignements.
 
-Les différents lieux d'exercice seront abordés : établissements d'accueil du jeune enfant, établissement hospitalier, établissements médico-sociaux, …
+Les différents lieux d'exercice seront abordés : établissements d'accueil du jeune enfant, établissement hospitalier, établissements médico-sociaux …
 
-Différents outils numériques permettant un apprentissage (réalité virtuelle, MOOC, serious game, …) pourront être utilisés. |
+Différents outils numériques permettant un apprentissage (réalité virtuelle, MOOC, serious game …) pourront être utilisés.
+
+|
 
 5 - Accompagner la personne dans son installation et ses déplacements en mobilisant ses ressources et en utilisant les techniques préventives de mobilisation
 
@@ -1336,7 +1344,7 @@ Organisation des soins au sein d'une équipe pluri professionnelle ;
 
 Recommandations pédagogiques :
 
-La participation à des actions collectives contribuant à l'amélioration de la qualité des soins ("chambre des erreurs", …) est recherchée.
+La participation à des actions collectives contribuant à l'amélioration de la qualité des soins (" chambre des erreurs ", …) est recherchée.
 
 Des travaux de groupe avec des étudiants d'autres filières (par exemple, étude de cas en groupe) et la mutualisation des enseignements sont recherchés.
 
