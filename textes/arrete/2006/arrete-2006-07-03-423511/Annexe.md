@@ -274,7 +274,7 @@ EURO
 
 |
 
-143
+206
 
 |
 
@@ -564,7 +564,7 @@ EURO
 
 |
 
-CONGO
+CONGO BRAZZAVILLE
 
 |
 
@@ -572,7 +572,7 @@ FRANC CFA
 
 |
 
-69 880
+120 000
 
 |
 
@@ -1226,7 +1226,7 @@ EURO
 
 |
 
-290
+140
 
 |
 
@@ -1350,11 +1350,11 @@ LIBYE
 
 |
 
-DINAR LIBYEN
+EURO
 
 |
 
-280
+240
 
 |
 
@@ -1914,11 +1914,11 @@ RWANDA
 
 |
 
-DOLLAR US
+DOLLAR AMERICAIN
 
 |
 
-277
+170
 
 |
 
