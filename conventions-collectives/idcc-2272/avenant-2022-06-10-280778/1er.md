@@ -1,0 +1,5 @@
+# Article 1er
+
+Le présent avenant s'applique à l'ensemble des entreprises entrant dans le champ d'application de la convention collective de branche assainissement et maintenance industrielle, y compris les entreprises de moins de 50 salariés. Pour ces dernières entreprises, le présent avenant ne contient pas de dispositions spécifiques que les parties n'estiment pas nécessaires, la grille de classification étant commune à toutes les entreprises de la branche quel que soit leur effectif, et la suppression convenue n'entraînant pas de modalités de mise en œuvre propres aux entreprises de moins de 50 salariés.
+
+La suppression du coefficient 160 prévue dans le présent avenant, et les conséquences qu'elle implique, s'appliqueront à tous les salariés des entreprises entrant dans ce champ d'application concernés par cette suppression, indépendamment de tout motif de discrimination (sexe, origine, âge, handicap etc.) et dans le respect du principe d'égalité de traitement et notamment d'égalité entre les femmes et les hommes.
