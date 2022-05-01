@@ -4,884 +4,934 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Gendarmerie départementale :
 
-- Commandant en second de la section de recherches :
+-commandant en second de la section de recherches :
 
-- d'Angers
+-d'Angers
 
-- de Besançon
+-de Besançon
 
-- de Bourges
+-de Bourges
 
-- de Caen
+-de Caen
 
-- de Chambéry
+-de Chambéry
 
-- de Clermont-Ferrand
+-de Clermont-Ferrand
 
-- de Grenoble
+-de Grenoble
 
-- de Limoges
+-de Limoges
 
-- de Metz
+-de Metz
 
-- de Nancy
+-de Nancy
 
-- de Nantes
+-de Nantes
 
-- de Nîmes
+-de Nîmes
 
-- de Pau
+-de Pau
 
-- de Poitiers
+-de Poitiers
 
-- de Rennes
+-de Rennes
 
-- de Rouen
+-de Rouen
 
-- Commandant de l'escadron départemental de sécurité routière :
+-commandant de l'escadron départemental de sécurité routière :
 
-- des Alpes-de-Haute-Provence
+-des Alpes-de-Haute-Provence
 
-- de l'Ardèche
+-de l'Ardèche
 
-- des Ardennes
+-des Ardennes
 
-- de l'Ariège
+-de l'Ariège
 
-- de l'Aveyron
+-de l'Aveyron
 
-- du Cantal
+-du Cantal
 
-- de la Charente
+-de la Charente
 
-- de la Creuse
+-de la Creuse
 
-- des Deux-Sèvres
+-des Deux-Sèvres
 
-- de l'Essonne
+-de l'Essonne
 
-- du Gers
+-du Gers
 
-- de la Guadeloupe
+-de la Guadeloupe
 
-- de la Haute-Loire
+-de la Haute-Loire
 
-- de la Haute-Saône
+-de la Haute-Saône
 
-- des Hautes-Alpes
+-des Hautes-Alpes
 
-- des Hautes-Pyrénées
+-des Hautes-Pyrénées
 
-- de la Lozère
+-de la Lozère
 
-- de la Martinique
+-de la Martinique
 
-- de la Mayenne
+-de la Mayenne
 
-- de la Meuse
+-de la Meuse
 
-- de la Nièvre
+-de la Nièvre
 
-- du Sud-Océan-Indien
+-du Sud-Océan-Indien
 
-- de Tarn-et-Garonne
+-de Tarn-et-Garonne
 
-- du Val-d'Oise
+-du Val-d'Oise
 
-- des Vosges
+-des Vosges
 
-- Commandant en second de l'escadron départemental de sécurité routière :
+-commandant en second de l'escadron départemental de sécurité routière :
 
-- de l'Ain
+-de l'Ain
 
-- de l'Aisne
+-de l'Aisne
 
-- de l'Allier
+-de l'Allier
 
-- des Alpes-Maritimes
+-des Alpes-Maritimes
 
-- de l'Aube
+-de l'Aube
 
-- de l'Aude
+-de l'Aude
 
-- du Bas-Rhin
+-du Bas-Rhin
 
-- des Bouches-du-Rhône
+-des Bouches-du-Rhône
 
-- du Calvados
+-du Calvados
 
-- de la Charente-Maritime
+-de la Charente-Maritime
 
-- du Cher
+-du Cher
 
-- de la Corrèze
+-de la Corrèze
 
-- des Côtes d'Armor
+-des Côtes-d'Armor
 
-- de Côte-d'Or
+-de Côte-d'Or
 
-- de la Dordogne
+-de la Dordogne
 
-- du Doubs
+-du Doubs
 
-- de la Drôme
+-de la Drôme
 
-- de l'Eure
+-de l'Eure
 
-- de l'Eure-et-Loir
+-de l'Eure-et-Loir
 
-- du Finistère
+-du Finistère
 
-- du Gard
+-du Gard
 
-- de la Gironde
+-de la Gironde
 
-- de la Haute-Garonne
+-de la Haute-Garonne
 
-- de la Haute-Marne
+-de la Haute-Marne
 
-- de la Haute-Savoie
+-de la Haute-Savoie
 
-- de la Haute-Vienne
+-de la Haute-Vienne
 
-- du Haut-Rhin
+-du Haut-Rhin
 
-- de l'Hérault
+-de l'Hérault
 
-- de l'Ille-et-Vilaine
+-de l'Ille-et-Vilaine
 
-- de l'Indre
+-de l'Indre
 
-- d'Indre-et-Loire
+-d'Indre-et-Loire
 
-- de l'Isère
+-de l'Isère
 
-- du Jura
+-du Jura
 
-- des Landes
+-des Landes
 
-- de la Loire
+-de la Loire
 
-- de Loire-Atlantique
+-de Loire-Atlantique
 
-- du Loiret
+-du Loiret
 
-- du Loir-et-Cher
+-du Loir-et-Cher
 
-- du Lot
+-du Lot
 
-- du Lot-et-Garonne
+-du Lot-et-Garonne
 
-- de Maine-et-Loire
+-de Maine-et-Loire
 
-- de la Manche
+-de la Manche
 
-- de la Marne
+-de la Marne
 
-- de la Meurthe-et-Moselle
+-de la Meurthe-et-Moselle
 
-- du Morbihan
+-du Morbihan
 
-- de la Moselle
+-de la Moselle
 
-- du Nord
+-du Nord
 
-- de l'Oise
+-de l'Oise
 
-- de l'Orne
+-de l'Orne
 
-- du Pas-de-Calais
+-du Pas-de-Calais
 
-- du Puy-de-Dôme
+-du Puy-de-Dôme
 
-- des Pyrénées-Atlantiques
+-des Pyrénées-Atlantiques
 
-- des Pyrénées-Orientales
+-des Pyrénées-Orientales
 
-- du Rhône
+-du Rhône
 
-- de Saône-et-Loire
+-de Saône-et-Loire
 
-- de la Sarthe
+-de la Sarthe
 
-- de la Savoie
+-de la Savoie
 
-- de Seine-et-Marne
+-de Seine-et-Marne
 
-- de Seine-Maritime
+-de Seine-Maritime
 
-- de la Somme
+-de la Somme
 
-- du Var
+-du Var
 
-- de Vaucluse
+-de Vaucluse
 
-- de la Vendée
+-de la Vendée
 
-- de la Vienne
+-de la Vienne
 
-- de l'Yonne
+-de l'Yonne
 
-- des Yvelines
+-des Yvelines
 
-- Commandant en second de la compagnie de gendarmerie départementale :
+-commandant en second de la compagnie de gendarmerie départementale :
 
-- d'Abbeville
+-d'Abbeville
 
-- d'Agen
+-d'Agen
 
-- d'Ajaccio
+-d'Ajaccio
 
-- d'Albertville
+-d'Albertville
 
-- d'Albi
+-d'Albi
 
-- d'Alençon-Argentan
+-d'Alençon-Argentan
 
-- d'Altkirch
+-d'Altkirch
 
-- d'Ambert
+-d'Ambert
 
-- d'Amboise
+-d'Amboise
 
-- d'Amiens
+-d'Amiens
 
-- d'Ancenis
+-d'Ancenis
 
-- des Andelys
+-des Andelys
 
-- d'Angoulême
+-d'Angoulême
 
-- d'Arcachon
+-d'Arcachon
 
-- d'Argelès-Gazost
+-d'Argelès-Gazost
 
-- d'Aubusson
+-d'Aubusson
 
-- d'Auch
+-d'Auch
 
-- d'Aurillac
+-d'Aurillac
 
-- d'Autun
+-d'Autun
 
-- d'Avallon
+-d'Avallon
 
-- d'Avranches
+-d'Avranches
 
-- de Bagnères-de-Bigorre
+-de Bagnères-de-Bigorre
 
-- de Bagnols-sur-Cèze
+-de Bagnols-sur-Cèze
 
-- de Bar-sur-Aube
+-de Bar-sur-Aube
 
-- de Barcelonnette
+-de Barcelonnette
 
-- de Bastia
+-de Bastia
 
-- de Bayeux
+-de Bayeux
 
-- de Beaune
+-de Beaune
 
-- de Beauvais
+-de Beauvais
 
-- de Bellac
+-de Bellac
 
-- de Belley
+-de Belley
 
-- de Bergerac
+-de Bergerac
 
-- de Bernay
+-de Bernay
 
-- de Béthune
+-de Béthune
 
-- du Blanc
+-du Blanc
 
-- de Blaye
+-de Blaye
 
-- de Blois
+-de Blois
 
-- de Boulay-Moselle
+-de Boulay-Moselle
 
-- de Bourges
+-de Bourges
 
-- de Bressuire
+-de Bressuire
 
-- de Brest
+-de Brest
 
-- de Briançon
+-de Briançon
 
-- de Brioude
+-de Brioude
 
-- de Cahors
+-de Cahors
 
-- de Calvi
+-de Calvi
 
-- de Carpentras
+-de Carpentras
 
-- de Castellane
+-de Castellane
 
-- de Castelsarrasin
+-de Castelsarrasin
 
-- de Céret
+-de Céret
 
-- de Chalon-sur-Saône
+-de Chalon-sur-Saône
 
-- de Châlons-en-Champagne
+-de Châlons-en-Champagne
 
-- de Chamonix-Mont-Blanc
+-de Chamonix-Mont-Blanc
 
-- de Charolles
+-de Charolles
 
-- de Château-Chinon-Ville
+-de Château-Chinon-Ville
 
-- de Château-Thierry-Nogentel
+-de Château-Thierry-Nogentel
 
-- de Châteaubriant
+-de Châteaubriant
 
-- de Châteaudun
+-de Châteaudun
 
-- de Châteaulin
+-de Châteaulin
 
-- de Châtellerault
+-de Châtellerault
 
-- de la Châtre
+-de la Châtre
 
-- de Chaumont
+-de Chaumont
 
-- de Cherbourg-en-Cotentin
+-de Cherbourg-en-Cotentin
 
-- de Chinon
+-de Chinon
 
-- de Cholet
+-de Cholet
 
-- de Clermont
+-de Clermont
 
-- de Clermont-Ferrand
+-de Clermont-Ferrand
 
-- de Cognac
+-de Cognac
 
-- de Condom
+-de Condom
 
-- de Confolens
+-de Confolens
 
-- de Corte
+-de Corte
 
-- de Cosne-Cours-sur-Loire
+-de Cosne-Cours-sur-Loire
 
-- de Coutances
+-de Coutances
 
-- de Deauville
+-de Deauville
 
-- de Dieppe
+-de Dieppe
 
-- de Digne-les-Bains
+-de Digne-les-Bains
 
-- de Dijon de Dinan
+-de Dijon
 
-- de Dole
+-de Dinan
 
-- de Domfront-en-Poiraie
+-de Dole
 
-- de Dreux
+-de Domfront-en-Poiraie
 
-- de Dunkerque-Hoymille
+-de Dreux
 
-- d'Ecuires
+-de Dunkerque-Hoymille
 
-- d'Epernay
+-d'Ecuires
 
-- d'Evreux
+-d'Epernay
 
-- de Falaise
+-d'Evreux
 
-- de Fécamp
+-de Falaise
 
-- de Figeac
+-de Fécamp
 
-- de Florac-Trois-Rivières
+-de Figeac
 
-- de Foix
+-de Florac-Trois-Rivières
 
-- de Fontainebleau
+-de Foix
 
-- de Fontenay-le-Comte
+-de Fontainebleau
 
-- de Forbach
+-de Fontenay-le-Comte
 
-- de Forcalquier
+-de Forbach
 
-- de Gaillac
+-de Forcalquier
 
-- de Gap
+-de Gaillac
 
-- de Gassin-Saint-Tropez
+-de Gap
 
-- de Ghisonaccia
+-de Gassin-Saint-Tropez
 
-- de Gien
+-de Ghisonaccia
 
-- de Gourdon
+-de Gien
 
-- de Grasse
+-de Gourdon
 
-- de Guéret
+-de Grasse
 
-- de Guingamp
+-de Guéret
 
-- de Haguenau
+-de Guingamp
 
-- du Havre
+-de Haguenau
 
-- d'Hazebrouck
+-du Havre
 
-- d'Hyères
+-d'Hazebrouck
 
-- d'Is-sur-Tille
+-d'Hyères
 
-- d'Issoire
+-d'Is-sur-Tille
 
-- d'Issoudun
+-d'Issoire
 
-- d'Istres
+-d'Issoudun
 
-- de Jonzac
+-d'Istres
 
-- de Landerneau
+-de Jonzac
 
-- de Langres
+-de Landerneau
 
-- de Lannion
+-de Langres
 
-- de Laon
+-de Lannion
 
-- de Largentière
+-de Laon
 
-- de Lesparre-Médoc
+-de Largentière
 
-- de Limoges
+-de Lesparre-Médoc
 
-- de Limoux
+-de Limoges
 
-- de Lisieux
+-de Limoux
 
-- de Loches
+-de Lisieux
 
-- de Lodève
+-de Loches
 
-- de Lons-le-Saunier
+-de Lodève
 
-- de Louhans
+-de Lons-le-Saunier
 
-- de Louviers
+-de Louhans
 
-- de Lucé
+-de Louviers
 
-- de Lunéville
+-de Lucé
 
-- de Mâcon
+-de Lunéville
 
-- de Mamers
+-de Mâcon
 
-- de Mauriac
+-de Mamers
 
-- de Mayenne
+-de Mauriac
 
-- de Melun
+-de Mayenne
 
-- de Mende
+-de Melun
 
-- de Menton
+-de Mende
 
-- de Millau
+-de Menton
 
-- de Molsheim
+-de Millau
 
-- de Mont-de-Marsan
+-de Molsheim
 
-- de Montargis
+-de Mont-de-Marsan
 
-- de Montauban
+-de Montargis
 
-- de Montbard
+-de Montauban
 
-- de Montdidier
+-de Montbard
 
-- de Montfort-sur-Meu
+-de Montdidier
 
-- de Montluçon
+-de Montfort-sur-Meu
 
-- de Montmorillon
+-de Montluçon
 
-- de Mortagne-au-Perche
+-de Montmorillon
 
-- de Moulins
+-de Mortagne-au-Perche
 
-- de la Mure
+-de Moulins-de la Mure
 
-- de Neufchâteau
+-de Neufchâteau
 
-- de Neufchâtel-en-Bray
+-de Neufchâtel-en-Bray
 
-- de Nevers
+-de Nevers
 
-- de Nice
+-de Nice
 
-- de Nogent-le-Rotrou
+-de Nogent-le-Rotrou
 
-- de Nogent-sur-Seine
+-de Nogent-sur-Seine
 
-- de Nontron
+-de Nontron
 
-- de Nyons
+-de Nyons
 
-- d'Oloron-Sainte-Marie
+-d'Oloron-Sainte-Marie
 
-- d'Orange
+-d'Orange
 
-- d'Orthez
+-d'Orthez
 
-- de Pamiers
+-de Pamiers
 
-- de Parentis-en-Born
+-de Parentis-en-Born
 
-- de Parthenay
+-de Parthenay
 
-- de Pau
+-de Pau
 
-- de Périgueux
+-de Périgueux
 
-- de Péronne
+-de Péronne
 
-- de Pierrelatte
+-de Pierrelatte
 
-- de Pithiviers
+-de Pithiviers
 
-- de Ploërmel
+-de Ploërmel
 
-- de Plourin-lès-Morlaix
+-de Plourin-lès-Morlaix
 
-- de Poitiers
+-de Poitiers
 
-- de Pont-Audemer
+-de Pont-Audemer
 
-- de Pontarlier
+-de Pontarlier
 
-- de Pontivy
+-de Pontivy
 
-- de Pontoise
+-de Pontoise
 
-- de Pornic
+-de Pornic
 
-- de Porto-Vecchio
+-de Porto-Vecchio
 
-- de Prades
+-de Prades
 
-- de Provins
+-de Provins
 
-- de Puget-Théniers
+-de Puget-Théniers
 
-- du Puy-en-Velay
+-du Puy-en-Velay
 
-- de Quimper
+-de Quimper
 
-- de Quimperlé
+-de Quimperlé
 
-- de Redon
+-de Redon
 
-- de Reims
+-de Reims
 
-- de Rethel
+-de Rethel
 
-- de Revin
+-de Revin
 
-- de Riom
+-de Riom
 
-- de Rivesaltes
+-de Rivesaltes
 
-- de Roanne
+-de Roanne
 
-- de la Rochelle
+-de la Rochelle
 
-- de Romorantin-Lanthenay
+-de Romorantin-Lanthenay
 
-- de Rosières-près-Troyes
+-de Rosières-près-Troyes
 
-- de Rouen
+-de Rouen
 
-- de Saint-Amand-Montrond
+-de Saint-Amand-Montrond
 
-- de Saint-Claude (Jura)
+-de Saint-Claude (Jura)
 
-- de Saint-Dié-des-Vosges
+-de Saint-Dié-des-Vosges
 
-- de Saint-Dizier
+-de Saint-Dizier
 
-- de Saint-Etienne
+-de Saint-Etienne
 
-- de Saint-Flour
+-de Saint-Flour
 
-- de Saint-Gaudens
+-de Saint-Gaudens
 
-- de Saint-Girons
+-de Saint-Girons
 
-- de Saint-Jean-d'Angély
+-de Saint-Jean-d'Angély
 
-- de Saint-Jean-de-Maurienne
+-de Saint-Jean-de-Maurienne
 
-- de Saint-Julien-en-Genevois
+-de Saint-Julien-en-Genevois
 
-- de Saint-Junien
+-de Saint-Junien
 
-- de Saint-Lô
+-de Saint-Lô
 
-- de Saint-Malo
+-de Saint-Malo
 
-- de Saint-Marcellin
+-de Saint-Marcellin
 
-- de Saint-Omer
+-de Saint-Omer
 
-- de Saint-Pol-sur-Ternoise
+-de Saint-Pol-sur-Ternoise
 
-- de Saint-Quentin
+-de Saint-Quentin
 
-- de Saintes
+-de Saintes
 
-- de Sarlat-la-Canéda
+-de Sarlat-la-Canéda
 
-- de Sarrebourg
+-de Sarrebourg
 
-- de Sarreguemines
+-de Sarreguemines
 
-- de Sartène
+-de Sartène
 
-- de Saumur
+-de Saumur
 
-- de Saverne
+-de Saverne
 
-- de Sedan
+-de Sedan
 
-- de Segré-en-Anjou-Bleu
+-de Segré-en-Anjou-Bleu
 
-- de Sélestat
+-de Sélestat
 
-- de Soissons
+-de Soissons
 
-- de Tarbes
+-de Tarbes
 
-- du Teil
+-du Teil
 
-- de Thiers
+-de Thiers
 
-- de Thonon-les-Bains
+-de Thonon-les-Bains
 
-- de Toul
+-de Toul
 
-- de la Tour-du-Pin
+-de la Tour-du-Pin
 
-- de Tours
+-de Tours
 
-- d'Ussel
+-d'Ussel
 
-- de Val-de-Briey
+-de Val-de-Briey
 
-- de Valenciennes
+-de Valenciennes
 
-- de la Valette-du-Var
+-de la Valette du Var
 
-- de Vendôme
+-de Vendôme
 
-- de Verdun
+-de Verdun
 
-- de Vervins
+-de Vervins
 
-- de Vichy
+-de Vichy
 
-- de Vierzon
+-de Vierzon
 
-- de Vigan
+-de Vigan
 
-- de Villefranche-de-Rouergue
+-de Villefranche-de-Rouergue
 
-- de Villeneuve-sur-Lot
+-de Villeneuve-sur-Lot
 
-- de Vire-Normandie
+-de Vire-Normandie
 
-- de Vitry-le-François
+-de Vitry-le-François
 
-- de Vouziers
+-de Vouziers
 
-- de Wissembourg
+-de Wissembourg
 
-- d'Yssingeaux
+-d'Yssingeaux
 
-- d'Yvetot
+-d'Yvetot
 
-- Commandant d'une brigade départementale de renseignements et d'investigations judiciaires
+-commandant d'une brigade départementale de renseignements et d'investigations judiciaires
 
-- Chef d'un centre d'opérations et de renseignement de la gendarmerie
+-chef d'un centre d'opérations et de renseignement de la gendarmerie
 
-- Chef de centre d'opérations de la gendarmerie
+-chef de centre d'opérations de la gendarmerie
 
-- Chef de détachement territorial au sein d'une section de recherche
+-chef de détachement territorial au sein d'une section de recherche
 
-- Commandant d'un peloton de gendarmerie de montagne
+-commandant d'un peloton de gendarmerie de montagne
 
-- Commandant d'un détachement de peloton de gendarmerie de haute montagne
+-commandant d'un détachement de peloton de gendarmerie de haute montagne
 
-- Commandant d'une communauté de brigades territoriales
+-commandant d'une communauté de brigades territoriales
 
-- Commandant d'une brigade de recherches
+-commandant d'une brigade de recherches
 
-- Commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
+-commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
 
-- Commandant d'une brigade territoriale autonome
+-commandant d'une brigade territoriale autonome
 
-- Commandant d'un peloton d'autoroute
+-commandant d'un peloton d'autoroute
 
-- Commandant d'une brigade motorisée
+-commandant d'une brigade motorisée
 
-- Commandant d'un peloton motorisé
+-commandant d'un peloton motorisé
 
-- Commandant d'un peloton de surveillance et d'intervention gendarmerie
+-commandant d'un peloton de surveillance et d'intervention gendarmerie
 
-- Commandant de la brigade numérique de Rennes
+-commandant de la brigade numérique de Rennes
 
-2° Gendarmerie mobile Garde républicaine :
+2° Gendarmerie mobile-Garde républicaine :
 
-- Commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
+-commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
 
-- Commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
+-commandant d'un peloton d'intervention de la garde républicaine (7 emplois)
 
-- Commandant d'un peloton de véhicules blindés
+-commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
 
-- Commandant de la compagnie de soutien opérationnel de la garde républicaine
+-commandant d'un peloton de véhicules blindés
 
-- Commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
+-commandant de la compagnie de soutien opérationnel de la garde républicaine
 
-- Commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France
+-commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
+
+-commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France
 
 3° Gendarmeries spécialisées :
 
-- Commandant en second de la section de recherche de la gendarmerie de l'air
+-commandant en second de la section de recherche de la gendarmerie de l'air
 
-- Commandant en second de la section de recherche de la gendarmerie de l'armement
+-commandant en second de la section de recherche de la gendarmerie de l'armement
 
-- Commandant en second de la section de recherche de la gendarmerie maritime
+-commandant en second de la section de recherche de la gendarmerie maritime
 
-- Commandant en second de la section de recherches de la gendarmerie des transports aériens
+-commandant en second de la section de recherches de la gendarmerie des transports aériens
 
-- Commandant en second d'une compagnie de gendarmerie maritime
+-commandant en second d'une compagnie de gendarmerie maritime
 
-- Commandant en second d'une compagnie de la gendarmerie des transports aériens
+-commandant en second d'une compagnie de la gendarmerie des transports aériens
 
-- Commandant en second d'une compagnie de la gendarmerie de l'armement
+-commandant en second d'une compagnie de la gendarmerie de l'armement
 
-- Commandant de la brigade de gendarmerie des transports aériens de :
+-commandement des forces aériennes de la gendarmerie :
 
-- Bordeaux-Mérignac
+-commandant d'une section aérienne ou d'un détachement aérien de la gendarmerie (22 emplois)
 
-- Lyon-Saint-Exupéry
+-commandant de la brigade de gendarmerie des transports aériens de :
 
-- Marseille-Provence
+-Bordeaux-Mérignac
 
-- Nice-Côte-d'Azur
+-Lyon-Saint-Exupéry
 
-- Paris-Charles-De-Gaulle-Un
+-Marseille-Provence
 
-- Paris-Charles-De-Gaulle-Deux
+-Nice-Côte d'Azur
 
-- Paris-Charles-De-Gaulle-Fret
+-Paris-Charles-De-Gaulle un
 
-- Paris-Orly
+-Paris-Charles-De-Gaulle deux
 
-- Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+-Paris-Charles-De-Gaulle fret
 
-- Paris-Charles-De-Gaulle
+-Paris-Orly
 
-- Paris-Orly
+-commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+
+-Paris-Charles-De-Gaulle
+
+-Paris-Orly
 
 4° Ecoles :
 
-- Commandant d'une compagnie d'instruction au sein d'une école de gendarmerie
-
-- Commandant de peloton à l'école des officiers de la gendarmerie nationale
-
-- Chef de la classe préparatoire intégrée de la gendarmerie nationale
-
-Commandement des forces aériennes de la gendarmerie :
-
-- Commandant d'une section aérienne ou d'un détachement aérien de la gendarmerie (20 emplois)
+-chef d'une classe Prépa Talents de la gendarmerie nationale (4 emplois)
 
 5° Outre-mer :
 
-Commandant en second de la compagnie de gendarmerie départementale :
+-commandant en second de la compagnie de gendarmerie départementale :
 
-- d'Archipels-Papeete
+-d'Archipels-Papeete
 
-- de Fort-de-France
+-de Fort-de-France
 
-- des Iles-du-vent-Faaa
+-des Iles-du-vent-Faaa
 
-- de Koné
+-de Koné
 
-- de Koungou
+-de Koungou
 
-- de Kourou
+-de Kourou
 
-- de La-Foa
+-de La-Foa
 
-- du Marin
+-du Marin
 
-- de Matoury
+-de Matoury
 
-- du Moule
+-du Moule
 
-- de Nouméa
+-de Nouméa
 
-- de Pointe-à-Pitre
+-de Pointe-à-Pitre
 
-- de Saint-Benoît
+-de Saint-Benoît
 
-- de Saint-Claude (Guadeloupe)
+-de Saint-Claude (Guadeloupe)
 
-- de Saint-Laurent-du-Maroni
+-de Saint-Laurent-du-Maroni
 
-- de Saint-Martin-Saint-Barthélemy
+-de Saint-Martin-Saint-Barthélemy
 
-- de la Trinité
+-de la Trinité
 
-- Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
+-chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
 
-- Commandant en second de la section de recherches :
+-commandant en second de la section de recherches :
 
-- de Cayenne
+-de Cayenne
 
-- de Fort-de-France
+-de Fort-de-France
 
-- de Mamoudzou
+-de Mamoudzou-de Nouméa
 
-- de Nouméa
+-de Papeete
 
-- de Papeete
+-de Pointe-à-Pitre
 
-- de Pointe-à-Pitre
+-de Saint-Denis
 
-- de Saint-Denis
+-commandant d'une brigade de renseignements et d'investigations judiciaires
 
-- Commandant d'une brigade de renseignements et d'investigations judiciaires
+-chef du service départemental de renseignement territorial de Cayenne
 
 6° Autres emplois :
 
-- Commandant en second de la gendarmerie des voies navigables
+-commandant en second de la gendarmerie des voies navigables
 
-- Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
+-commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
 
-- Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
+-commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois
 
-- Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
+-commandant de la compagnie de sécurité et d'accueil du camp de Beynes
 
-- Commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
-- Commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
-- Chef d'un service expert ressources humaines
+-chef d'un service expert ressources humaines
+
+-chef de service de permanence au sein du cabinet du Premier ministre
+
+-aide de camp du secrétariat général de la défense et de la sécurité nationale (1 emploi)
+
+-officier de liaison au centre de préparation et de conduite des opérations de l'état-major des armées (1 emploi)
+
+-conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi)
+
+-chef de la mission protection du ministère de la transition écologique (1 emploi)
+
+-officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois)
+
+-conseiller technique à la division de la sûreté générale du ministère de l'Europe et des affaires étrangères (1 emploi)
+
+-conseiller PSDC et OPEX à la direction des affaires européennes et internationales du ministère de l'intérieur (1 emploi)
+
+-officier de liaison à la sous-direction défense technologie prolifération de la direction générale des relations internationales et de la stratégie (1 emploi)
+
+-chargé de mission sécurité au cabinet de la direction générale des outre-mer (1 emploi)
+
+-officier analyste au centre de veille du cabinet du ministère de l'intérieur (2 emplois)
+
+-officier de liaison au cabinet du ministère de l'éducation nationale (1 emploi)
+
+-officier de liaison auprès du haut fonctionnaire de défense et de sécurité du ministère de l'éducation nationale, de la jeunesse et des sports (1 emploi)
+
+-officier de liaison en charge de la prévention de la radicalisation du ministère des sports (1 emploi)
+
+-officier de liaison auprès d'une préfecture maritime (3 emplois)
+
+-chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale
+
+-commandant de la compagnie de sécurité et d'appui de l'école des officiers de la gendarmerie nationale
+
+-officier de liaison à la direction interministérielle de la transformation publique (1 emploi)
+
+-chef de section de l'école spéciale militaire de Saint-Cyr Coëtquidan (3 emplois)
+
+-commandant d'une compagnie de l'Ecole Polytechnique (2 emplois)
+
+-officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois)
+
+-officier rapporteur à la commission des recours des militaires (3 emplois)
+
+-officier de liaison affecté au comité interministériel de prévention de la délinquance et de la radicalisation (1 emploi)
+
+-officier de liaison, adjoint au chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
+
+-chef de l'antenne de l'inspection générale de la gendarmerie nationale de Montpellier
+
+-directeur d'un cercle mixte de gendarmerie (25 emplois)

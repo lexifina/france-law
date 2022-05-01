@@ -48,11 +48,21 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du suivi de la synthèse et de la veille opérationnelle
 
--chef du centre d'analyse et d'exploitation
-
 -chef J1 du centre national des opérations
 
+-chef J3 du centre national des opérations
+
+-chef J4 du centre national des opérations
+
+-chef J5 du centre national des opérations
+
 -chef J6 du centre national des opérations
+
+-chef J7 du centre national des opérations
+
+-chef J8 du centre national des opérations
+
+-chef J9 du centre national des opérations
 
 Au service de la transformation, le chef du département :
 
@@ -62,19 +72,31 @@ Au service de la transformation, le chef du département :
 
 -de l'évaluation et de la valorisation
 
--Chargé de mission auprès du directeur des soutiens et des finances (1 emploi)
+-chargé de mission auprès du directeur des soutiens et des finances (1 emploi)
 
--Chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
+-chef du bureau des affaires immobilières de la gendarmerie nationale à la direction de l'évaluation, de la performance, des affaires financières et immobilières
 
--Chef d'une division à la direction de la coopération internationale de sécurité
+-chef d'une division à la direction de la coopération internationale de sécurité
 
--Secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
+-secrétaire général adjoint du conseil de la fonction militaire de la gendarmerie
 
--Chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
+-chef du bureau de l'activité et des procédures au service des technologies et des systèmes d'information de la sécurité intérieure
 
--Chef du centre sécurité économique et protection des entreprises
+-chef du centre sécurité économique et protection des entreprises
 
--Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
+-chargé de projet auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (3 emplois)
+
+-chef de bureau à la direction du numérique (4 emplois)
+
+-chef du centre national d'expertise numérique auprès du commandement de la gendarmerie dans le cyberespace
+
+-chef du centre national d'assistance cyber auprès du commandement de la gendarmerie dans le cyberespace
+
+-chef de division au service central de renseignement criminel de la gendarmerie nationale (3 emplois)
+
+-chef de division à l'institut de recherches criminelles de la gendarmerie nationale (4 emplois)
+
+Au service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur, chef du bureau :
 
 -logistique des équipements
 
@@ -82,37 +104,37 @@ Au service de la transformation, le chef du département :
 
 2° Inspection générale de la gendarmerie nationale :
 
--Chef du bureau :
+-chef du bureau :
 
 -d'audit financier, administratif et technique
 
 -de l'audit, de la protection et la gouvernance des données
 
--Coordonnateur national de la prévention des risques professionnels
+-coordonnateur national de la prévention des risques professionnels
 
 3° Gendarmerie départementale :
 
--Chef d'un centre zonal des opérations (7 emplois)
+-chef d'un centre zonal des opérations (7 emplois)
 
--Chef opérations de la région de gendarmerie :
+-chef opérations de la région de gendarmerie :
 
 -des Pays de la Loire
 
 -d'Occitanie
 
--Chef de la division de l'emploi de la région de gendarmerie de :
+-chef de la division de l'emploi de la région de gendarmerie de :
 
 -Bourgogne
 
 -Corse
 
--Centre Val de Loire
+-Centre-Val de Loire
 
 -Normandie
 
 -Pays de la Loire
 
--Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+-chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
 -du Puy-de-Dôme
 
@@ -126,7 +148,11 @@ Au service de la transformation, le chef du département :
 
 -de la Vienne
 
--Commandant en second du groupement de gendarmerie départementale
+-officier adjoint soutien finances d'une région de gendarmerie zonale (7 emplois)
+
+-officier adjoint ressources humaines d'une région de gendarmerie zonale (7 emplois)
+
+-commandant en second du groupement de gendarmerie départementale :
 
 -de l'Ain
 
@@ -266,7 +292,7 @@ Au service de la transformation, le chef du département :
 
 -des Yvelines
 
--Commandant de la compagnie de gendarmerie départementale :
+-commandant de la compagnie de gendarmerie départementale :
 
 -d'Aix-en-Provence
 
@@ -478,7 +504,7 @@ Au service de la transformation, le chef du département :
 
 -de Vitré
 
--Commandant de la section de recherches :
+-commandant de la section de recherches :
 
 -d'Angers
 
@@ -512,7 +538,7 @@ Au service de la transformation, le chef du département :
 
 4° Outre-mer :
 
--Commandant de la section de recherche :
+-commandant de la section de recherche :
 
 -de Cayenne
 
@@ -522,7 +548,7 @@ Au service de la transformation, le chef du département :
 
 -de Saint-Denis
 
--Commandant de la compagnie de gendarmerie départementale de :
+-commandant de la compagnie de gendarmerie départementale de :
 
 -de Saint-Paul
 
@@ -530,76 +556,86 @@ Au service de la transformation, le chef du département :
 
 5° Gendarmeries spécialisées :
 
--Commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+-commandant en second du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
--Commandant en second d'un groupement de gendarmerie de l'air
+-commandant en second d'un groupement de gendarmerie de l'air
 
--Commandant en second d'un groupement de gendarmerie maritime
+-commandant en second d'un groupement de gendarmerie maritime
 
--Commandant en second d'un groupement de la gendarmerie des transports aériens
+-commandant en second d'un groupement de la gendarmerie des transports aériens
 
--Commandant de la section de recherches de la gendarmerie des transports aériens
+-commandant de la section de recherches de la gendarmerie des transports aériens
 
--Chef de la division des opérations de la gendarmerie de l'air
+-chef de la division des opérations de la gendarmerie de l'air
 
--Chef de la division des opérations de la gendarmerie maritime
+-chef de la division des opérations de la gendarmerie maritime
 
--Chef d'état-major de la gendarmerie de l'armement
+-chef d'état-major de la gendarmerie de l'armement
 
 6° Autres emplois :
 
--Chef du service de développement et de mise en œuvre des logiciels
+-chef du service de développement et de mise en œuvre des logiciels
 
--Directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
+-commandant en second de la gendarmerie prévôtale
 
--Commandant en second du service central de renseignement criminel de la gendarmerie nationale
+-commandant du groupe de sécurité de la présidence de la République
 
--Commandant en second de la gendarmerie prévôtale
+-chef adjoint de l'unité de coordination de lutte contre l'insécurité routière
 
--Commandant du groupe de sécurité de la présidence de la République
+-chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
 
--Chef adjoint de l'unité de coordination de lutte contre l'insécurité routière
+-chef du centre national d'administration de la solde gendarmerie
 
--Chef de la force d'intervention au groupe d'intervention de la gendarmerie nationale
+-chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
 
--Chef d'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
+-chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale
 
--Chef du centre national d'administration de la solde gendarmerie
+-chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
 
--Chef du centre administratif financier national du commandement du soutien opérationnel de la gendarmerie nationale
+-officier de liaison auprès de l'association des maires de France
 
--Chef du bureau des systèmes d'information opérationnels du commandement du soutien opérationnel de la gendarmerie nationale
+-officier de liaison référent intelligence économique à l'assemblée des départements de France
 
--Chef de la trésorerie militaire pour l'activité des forces de la gendarmerie
+-chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
 
--Officier de liaison auprès de l'association des maires de France
+-commandant en second de l'office central de lutte contre la délinquance itinérante
 
--Officier de liaison référent intelligence économique à l'assemblée des départements de France
+-commandant en second de l'office central de lutte contre le travail illégal
 
--Chargé de mission auprès du service du haut fonctionnaire de défense du ministère de l'intérieur (1 emploi)
+-commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
 
--Commandant en second de l'office central de lutte contre la délinquance itinérante
+-commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
 
--Commandant en second de l'office central de lutte contre le travail illégal
+-chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
 
--Commandant en second de l'office central de lutte contre les atteintes à l'environnement et à la santé publique
+-chef de la trésorerie militaire de la solde gendarmerie
 
--Commandant en second de l'office central de lutte contre les crimes contre l'humanité les génocides et les crimes de guerre
+-chef de division au service central du renseignement territorial (2 emplois)
 
--Chargé de mission au sein d'un secrétariat général pour l'administration du ministère de l'intérieur
+-chef de division à la direction de la coopération internationale de sécurité
 
--Chef de la trésorerie militaire de la solde gendarmerie
+-chef de département au commandement spécialisé pour la sécurité nucléaire
 
--Chef de division au service central du renseignement territorial (2 emplois)
+-officier de liaison, chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
 
--Chef de division à la direction de la coopération internationale de sécurité
+-adjoint au chef de la cellule expertise nucléaire au sein du cabinet du ministère des armées (1 emploi)
 
--Chef de département au commandement spécialisé pour la sécurité nucléaire
+-adjoint au chef de la cellule numérique au sein du cabinet du ministère des armées (1 emploi)
+
+-officier de liaison au bureau réservé au sein du cabinet du ministère des armées (1 emploi)
+
+-chef d'état-major auprès du commandement de la gendarmerie dans le cyberespace
 
 7° Ecoles :
 
--Commandant de groupement à l'école des officiers de la gendarmerie nationale
+-commandant de groupement à l'école des officiers de la gendarmerie nationale
 
--Commandant du groupement de l'école de guerre
+-commandant du groupement de l'école de guerre
 
--Commandant du centre de formation des dirigeants de l'école des officiers de la gendarmerie nationale
+-commandant de la division des compétences au commandement des écoles de la gendarmerie nationale
+
+-commandant de la division du recrutement, des concours et des examens au commandement des écoles de la gendarmerie nationale
+
+-commandant de la division des compétences et de l'ingénierie pédagogique à l'école des officiers de la gendarmerie nationale
+
+-commandant de la division de la formation initiale à l'école des officiers de la gendarmerie nationale

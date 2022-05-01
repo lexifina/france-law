@@ -4,45 +4,49 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Administration centrale :
 
--Chargé de mission au cabinet du directeur général de la gendarmerie nationale (5 emplois)
+-chargé de mission au cabinet du directeur général de la gendarmerie nationale (5 emplois)
 
--Chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (5 emplois)
+-chargé de mission à la direction des opérations et de l'emploi (2 emplois)
 
--Coordonnateur des programmes judiciaires à la direction des opérations et de l'emploi (1 emploi)
+-chargé de fonction auprès d'un directeur de la direction générale de la gendarmerie nationale (5 emplois)
 
--Chargé de fonction au service des technologies et des systèmes d'information de la sécurité intérieure
+-coordonnateur des programmes judiciaires à la direction des opérations et de l'emploi (1 emploi)
 
--Commandant militaire du site de la direction générale de la gendarmerie nationale
+-chargé de fonction au service des technologies et des systèmes d'information de la sécurité intérieure
 
--Chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
+-commandant militaire du site de la direction générale de la gendarmerie nationale
 
--Directeur de projet à la mission LOG-MI du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
+-chargé de fonction auprès du chef du service des technologies et des systèmes d'information de la sécurité intérieure (2 emplois)
 
--Chargé de la fonction ressources humaines, cabinet du directeur général de la gendarmerie nationale (1 emploi)
+-adjoint au directeur de projet à la mission LOG-MI du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur (1 emploi)
 
--Adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi)
+-chargé de la fonction ressources humaines, cabinet du directeur général de la gendarmerie nationale (1 emploi)
 
--Chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi)
+-adjoint au chef de la fonction opérations emploi, cabinet du directeur général de la gendarmerie nationale (1 emploi)
 
--Chef de la mission logistique de la direction des soutiens et des finances
+-chargé de mission responsable du pôle international auprès du directeur des opérations et de l'emploi (1 emploi)
 
--Chef du service central des réseaux et technologies avancées
+-chef de la mission logistique de la direction des soutiens et des finances
 
--Chef du centre opérationnel de soutien infrastructure et logement
+-chef du service central des réseaux et technologies avancées
 
--Sous-chef conduite du centre national des opérations au sein de la direction générale de la gendarmerie nationale
+-chef du centre opérationnel de soutien infrastructure et logement
 
--Sous-chef veille du centre national des opérations au sein de la direction générale de la gendarmerie nationale
+-sous-chef conduite du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Sous-chef planification du centre national des opérations au sein de la direction générale de la gendarmerie nationale
+-sous-chef veille du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Porte-parole du directeur général de la gendarmerie nationale
+-sous-chef planification du centre national des opérations au sein de la direction générale de la gendarmerie nationale
 
--Chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (1 emploi)
+-porte-parole du directeur général de la gendarmerie nationale
 
--Chef d'une division du commandement de la gendarmerie dans le cyberespace (4 emplois)
+-chargé de mission auprès du commandement de la gendarmerie dans le cyberespace (1 emploi)
 
--Au sein de la direction générale de la gendarmerie nationale, chef du bureau :
+-chef d'une division du commandement de la gendarmerie dans le cyberespace (4 emplois)
+
+-chef du centre d'analyse et d'exploitation de la direction des opérations et de l'emploi
+
+Au sein de la direction générale de la gendarmerie nationale, chef du bureau :
 
 -de l'analyse et de l'anticipation
 
@@ -70,33 +74,33 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du personnel sous-officier du corps de soutien technique et administratif de la gendarmerie nationale
 
--Chef du bureau de l'habillement du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
+-chef du bureau de l'habillement du service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur
 
 2° Inspection générale de la gendarmerie nationale :
 
--Inspecteur, chargé de mission à l'inspection générale de la gendarmerie nationale (6 emplois)
+-inspecteur, chargé de mission à l'inspection générale de la gendarmerie nationale (6 emplois)
 
--Chargé de fonction à l'inspection générale de la gendarmerie nationale (1 emploi)
+-chargé de fonction à l'inspection générale de la gendarmerie nationale (1 emploi)
 
--Chef du conseil permanent de la sécurité aérienne de la gendarmerie nationale
+-chef du conseil permanent de la sécurité aérienne de la gendarmerie nationale
 
--Chargé de mission à la mission sûreté de la gendarmerie (1 emploi)
+-chargé de mission à la mission sûreté de la gendarmerie (1 emploi)
 
 3° Gendarmerie départementale :
 
--Officier adjoint commandement d'une région de gendarmerie à l'exception de la région de gendarmerie de :
+-officier adjoint commandement d'une région de gendarmerie à l'exception de la région de gendarmerie de :
 
 -Bretagne
 
--Nord pas de Calais
+-Nord-Pas-de-Calais
 
--Officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
+-officier adjoint en charge de la police judiciaire au sein d'une région de gendarmerie
 
--Officier adjoint territorial au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
+-officier adjoint territorial au groupement de gendarmerie départementale ayant le statut de formation administrative de l'Hérault
 
--Chef de la division de l'emploi de la région de gendarmerie d'Occitanie
+-chef de la division de l'emploi de la région de gendarmerie d'Occitanie
 
--Commandant du groupement de gendarmerie départementale :
+-commandant du groupement de gendarmerie départementale :
 
 -de l'Ariège
 
@@ -128,7 +132,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Territoire-de-Belfort
 
--Commandant en second du groupement de gendarmerie départementale :
+-commandant en second du groupement de gendarmerie départementale :
 
 -des Bouches-du-Rhône
 
@@ -148,55 +152,55 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -du Rhône
 
--Chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
+-chef de la division des opérations du groupement de gendarmerie départementale ayant le statut de formation administrative :
 
 -du Bas-Rhin
 
 -de l'Hérault
 
--Chef de la division de l'appui opérationnel d'une région de gendarmerie non zonale ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
+-chef de la division de l'appui opérationnel d'une région de gendarmerie non zonale ou d'un groupement de gendarmerie départementale ayant le statut de formation administrative
 
-4° Gendarmerie mobile Garde républicaine :
+4° Gendarmerie mobile-Garde républicaine :
 
--Chef d'état-major de la garde républicaine
+-chef d'état-major de la garde républicaine
 
--Commandants de groupement de gendarmerie mobile à l'exception de celui de Maisons-Alfort
+-commandants de groupement de gendarmerie mobile à l'exception de celui de Maisons-Alfort
 
--Commandant du premier régiment d'infanterie de la garde républicaine
+-commandant du premier régiment d'infanterie de la garde républicaine
 
--Commandant du deuxième régiment d'infanterie de la garde républicaine
+-commandant du deuxième régiment d'infanterie de la garde républicaine
 
--Commandant du régiment de cavalerie de la garde républicaine
+-commandant du régiment de cavalerie de la garde républicaine
 
 5° Gendarmeries spécialisées :
 
--Commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
+-commandant du groupement de sûreté et de sécurité de Paris de la gendarmerie de l'air
 
--Commandant d'un groupement de gendarmerie de l'air
+-commandant d'un groupement de gendarmerie de l'air
 
--Commandant d'un groupement de gendarmerie maritime
+-commandant d'un groupement de gendarmerie maritime
 
--Commandant d'un groupement de gendarmerie des transports aériens
+-commandant d'un groupement de gendarmerie des transports aériens
 
--Commandant en second de la gendarmerie de l'armement
+-commandant en second de la gendarmerie de l'armement
 
--Chef de la division de l'appui opérationnel de la gendarmerie de l'air
+-chef de la division de l'appui opérationnel de la gendarmerie de l'air
 
--Chef de la division de l'appui opérationnel de la gendarmerie maritime
+-chef de la division de l'appui opérationnel de la gendarmerie maritime
 
--Chef d'état-major de la gendarmerie des transports aériens
+-chef d'état-major de la gendarmerie des transports aériens
 
--Chef d'état-major de la gendarmerie de la sécurité des armements nucléaires
+-chef d'état-major de la gendarmerie de la sécurité des armements nucléaires
 
 6° Outre-mer :
 
--Chef d'état-major du commandement de la gendarmerie d'outre-mer
+-chef d'état-major du commandement de la gendarmerie d'outre-mer
 
--Commandant en second de la gendarmerie pour les missions extérieures
+-commandant en second de la gendarmerie pour les missions extérieures
 
--Commandant de la gendarmerie pour Saint-Pierre-et-Miquelon
+-commandant de la gendarmerie pour Saint-Pierre-et-Miquelon
 
--Commandant en second de la gendarmerie :
+-commandant en second de la gendarmerie :
 
 -de Guadeloupe
 
@@ -214,60 +218,70 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 7° Autres emplois :
 
--Chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale
+-chef d'état-major du commandement du soutien opérationnel de la gendarmerie nationale
 
--Conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi)
+-conseiller sécurité intérieure auprès de la direction générale de la sécurité civile et de la gestion des crises (1 emploi)
 
--Officier de liaison auprès du secrétariat général de la mer (1 emploi)
+-officier de liaison auprès du secrétariat général de la mer (1 emploi)
 
--Officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi)
+-officier de liaison auprès du préfet de police des Bouches-du-Rhône (1 emploi)
 
--Officier de liaison auprès du préfet de police de Paris (1 emploi)
+-officier de liaison auprès du préfet de police de Paris (1 emploi)
 
--Chef de la mission de liaison de la gendarmerie
+-chef de la mission de liaison de la gendarmerie
 
--Chef de l'unité de coordination des groupes d'intervention régionaux
+-chef de l'unité de coordination des groupes d'intervention régionaux
 
--Adjoint au chef de l'unité de coordination de la lutte anti-terroriste
+-adjoint au chef de l'unité de coordination de la lutte anti-terroriste
 
--Chargé de mission gendarmerie auprès du secrétariat général pour la modernisation de l'action publique (service de coordination)
+-chargé de mission gendarmerie auprès du secrétariat général pour la modernisation de l'action publique (service de coordination)
 
--Chargé de mission auprès de l'inspecteur des armements nucléaires
+-chargé de mission auprès de l'inspecteur des armements nucléaires
 
--Chargé de mission auprès du directeur général de la sécurité intérieure (1 emploi)
+-chargé de mission auprès du directeur général de la sécurité intérieure (1 emploi)
 
--Chef de la mission gendarmerie au sein de la direction de programme procédure pénale numérique
+-chef de la mission gendarmerie au sein de la direction de programme procédure pénale numérique
 
--Chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi)
+-chargé de mission auprès du chef du service sécurité de la direction générale de la sécurité extérieure (1 emploi)
 
--Officier de liaison à la direction des affaires criminelles et des grâces (1 emploi)
+-officier de liaison à la direction des affaires criminelles et des grâces (1 emploi)
 
--Chargé de mission à l'inspection générale de l'administration
+-chargé de mission à l'inspection générale de l'administration
 
--Officier rapporteur à la cour des comptes (1 emploi)
+-officier rapporteur à la cour des comptes (1 emploi)
 
--Chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur
+-chargé de mission auprès du directeur des ressources humaines du ministère de l'intérieur
 
--Chargé de mission à la direction générale de l'administration et de la fonction publique
+-chargé de mission à la direction générale de l'administration et de la fonction publique
 
--Officier de liaison à la direction du budget
+-officier de liaison à la direction du budget
 
--Officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi)
+-officier de liaison chargé de mission à la direction des ressources humaines du ministère de la défense (1 emploi)
 
--Secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur
+-secrétaire général adjoint d'un secrétariat général pour l'administration du ministère de l'intérieur
 
--Officier de liaison au cabinet du chef d'état-major de l'armée de Terre (1 emploi)
+-officier de liaison au cabinet du chef d'état-major de l'armée de terre (1 emploi)
 
--Directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur
+-directeur de la stratégie des risques et des relations internationales de l'institut des hautes études du ministère de l'intérieur
 
--Conseiller sécurité intérieure à la direction de la coopération de sécurité et de défense (1 emploi)
+-conseiller sécurité intérieure à la direction de la coopération de sécurité et de défense (1 emploi)
+
+-chef d'état-major du pôle judiciaire de la gendarmerie nationale
+
+-chef de l'état-major opérationnel du groupe d'intervention de la gendarmerie nationale
+
+-directeur adjoint de l'institut de recherches criminelles de la gendarmerie nationale
+
+-commandant en second du service central de renseignement criminel de la gendarmerie nationale
 
 8° Ecoles :
 
--Officier adjoint commandement du commandement des écoles de la gendarmerie nationale
+-officier adjoint commandement du commandement des écoles de la gendarmerie nationale
 
--Directeur des enseignements de l'école des officiers de la gendarmerie nationale
+-directeur des enseignements de l'école des officiers de la gendarmerie nationale
 
--Commandant du groupement de soutien opérationnel des écoles
+-commandant du groupement de soutien opérationnel des écoles
 
--Commandant en second de l'école de gendarmerie de Dijon
+-commandant en second de l'école de gendarmerie de Dijon
+
+-commandant du centre de formation des dirigeants de l'école des officiers de la gendarmerie nationale
