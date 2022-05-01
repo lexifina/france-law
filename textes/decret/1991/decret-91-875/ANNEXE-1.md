@@ -154,13 +154,13 @@ Techniciens paramédicaux territoriaux. |
 
 Techniciens paramédicaux civils du ministère de la défense. |
 
-Masseur-kinésithérapeute, psychomotricien et orthophoniste. |
+Masseurs-kinésithérapeutes et orthophonistes. |
 
-Personnels civils de rééducation et médico-techniques du ministère de la défense.
+Personnels civils de rééducation et médico-techniques de ministère de la défense.
 
 |
 
-Pédicures-podologues, ergothérapeutes, orthoptistes et manipulateurs d'électroradiologie médicale. |
+Pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes, techniciens de laboratoire médical, manipulateurs d'électroradiologie médicale, préparateurs en pharmacie hospitalière et diététiciens territoriaux . |
 
 Personnels civils de rééducation et médico-techniques du ministère de la défense. |
 
@@ -252,4 +252,4 @@ Adjoints administratifs des administrations de l'Etat (services déconcentrés).
 
 NOTA :
 
-Conformément à l'article 32 du décret n° 2021-1881 du 29 décembre 2021 du 29 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l'article 21 du décret n° 2022-625 du 22 avril 2022, ces dispositions entrent en vigueur le premier jour du mois qui suit celui de sa publication.
