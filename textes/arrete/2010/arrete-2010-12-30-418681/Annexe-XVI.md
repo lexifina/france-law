@@ -12,7 +12,7 @@ Ces travaux d'amélioration s'entendent de tous travaux ayant pour objet la cré
 
 Je reconnais avoir été informé que si les travaux ne sont pas réalisés ou ne respectent pas la condition précitée dans un délai de trois ans à compter de l'émission de l'offre de prêt, l'établissement de crédit sera en droit de procéder à la remise en cause de la totalité du montant ou des conditions de mon prêt sur le fondement des articles L. 31-10-7 et D. 31-10-7 du code de la construction et de l'habitation.
 
-J'atteste sur l'honneur que la consommation conventionnelle en énergie primaire du logement avant travaux ou telle que projetée après travaux est inférieure à 331 kWh/ m2.
+J'atteste sur l'honneur que l'étiquette de performance énergétique du logement avant travaux ou telle que projetée après travaux est comprise entre A et E.
 
 RENSEIGNEMENTS CONCERNANT LE LOGEMENT OBJET DU PRÊT |
 
@@ -28,7 +28,9 @@ N°, Voie
 
 Code postal
 
-Ville |
+Ville
+
+|
 
 Montant de la vente de l'existant à l'acheteur |
 
@@ -42,17 +44,17 @@ Montant prévisionnel des travaux d'amélioration réalisés par l'acheteur |
 
 |
 
-Consommation conventionnelle annuelle en énergie primaire avant travaux
+Etiquette (lettre) de performance énergétique avant travaux
 
 |
 
-kWh/ m2 |
+|
 
-Consommation conventionnelle annuelle d'énergie primaire projetée après travaux
+Etiquette (lettre) de performance énergétique projetée après travaux
 
 |
 
-kWh/ m2 |
+|
 
 En application des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les informations recueillies dans ce document peuvent être transmises à l'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation. Le droit d'accès aux informations nominatives concernant le déclarant peut être exercé auprès de l'établissement de crédit et de l'organisme susmentionné.
 
@@ -61,7 +63,3 @@ Rappel-En cas de fausse déclaration, l'emprunteur s'expose, outre la restitutio
 Fait à
 
 Signature du bénéficiaire du prêt
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 6 janvier 2020 ( NOR : LOGL1935137A ), les dispositions qui résultent de cet arrêté s'appliquent aux offres de prêts émises à compter du 1er janvier 2020.
