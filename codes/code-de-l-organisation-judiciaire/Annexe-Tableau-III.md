@@ -122,7 +122,7 @@ Calvados |
 
 Caen |
 
-Hérouville-Saint-Clair. |
+Mondeville. |
 
 Manche |
 
@@ -531,3 +531,7 @@ Yvelines |
 Versailles |
 
 Les Mureaux, Trappes. |
+
+NOTA :
+
+Conformément à l'article 3 de l'arrêté du 20 avril 2022 (NOR : JUSB2211522A), ces dispositions entrent en vigueur le 1er mai 2022.
