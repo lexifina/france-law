@@ -1532,13 +1532,13 @@ Cantons de Chantonnay, La Roche-sur-Yon-Nord, La Roche-sur-Yon-Sud, Le Poiré-su
 
 Fontenay-le-Comte |
 
-Cantons de Chaillé-les-Marais, Fontenay-le-Comte, La Châtaigneraie, L'Hermenault, Luçon, Maillezais, Pouzauges, Sainte-Hermine et Saint-Hilaire-des-Loges. |
+Cantons de Chaillé-les-Marais, Fontenay-le-Comte, La Châtaigneraie, L'Hermenault, Luçon (à l'exception de la fraction de commune de L'Aiguillon-la-Presqu'île), Maillezais, Pouzauges, Sainte-Hermine et Saint-Hilaire-des-Loges. |
 
 Les Sables-d'Olonne |
 
 |
 
-Cantons de Beauvoir-sur-Mer, Challans, La Mothe-Achard, Les Sables-d'Olonne, L'Île-d'Yeu, Moutiers-les-Mauxfaits, Noirmoutier-en-l'Île, Palluau, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts et Talmont-Saint-Hilaire. |
+Cantons de Beauvoir-sur-Mer, Challans, La Mothe-Achard, Les Sables-d'Olonne, L'Île-d'Yeu, Moutiers-les-Mauxfaits, Noirmoutier-en-l'Île, Palluau, Saint-Gilles-Croix-de-Vie, Saint-Jean-de-Monts et Talmont-Saint-Hilaire et commune de l'Aiguillon-la-Presqu'île. |
 
 Vienne |
 
@@ -2122,4 +2122,4 @@ Collectivité territoriale de Saint-Pierre-et-Miquelon
 
 NOTA :
 
-Conformément à l’article 2 du décret n° 2021-1517 du 23 novembre 2021, ces dispositions sont applicables aux procédures introduites à compter du 1er janvier 2022.
+Conformément à l’article 2 du décret n° 2022-685 du 26 avril 2022, ces dispositions sont applicables aux procédures introduites à compter du 1er mai 2022.
