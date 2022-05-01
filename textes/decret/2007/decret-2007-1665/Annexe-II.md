@@ -159,3 +159,19 @@ France métropolitaine |
 -traitement des demandes de remboursement sur les carburants et le fioul domestique au titre des franchises diplomatiques.
 
 4. Traitement des déclarations annuelles de la taxe incitative relative à l'incorporation de carburants. |
+
+Service de l'Origine et du Made in France
+
+|
+
+DI Auvergne-Rhône-Alpes |
+
+France métropolitaine, Guadeloupe, Guyane, Martinique, La Réunion et Mayotte |
+
+Délivrance des renseignements contraignants en matière d'origine (RCO) en application des articles 33 et 34, paragraphes 4, 5, 8, 9 et 11, du code des douanes de l'Union.
+
+Information en matière d'origine non préférentielle en vue d'un marquage de type " fabriqué en France " ou " made in France ". |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2022-30 du 13 janvier 2022, ces dispositions entrent en vigueur le 1er mai 2022.
