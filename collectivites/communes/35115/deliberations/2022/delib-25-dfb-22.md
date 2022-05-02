@@ -1,0 +1,10 @@
+# COMMUNE DE FOUGERES : délibération DELIB_25_DFB_22 — MODALITES D’AMORTISSEMENT SUITE AU PASSAGE M57 - MISE A JOUR DE LA DUREE DES AMORTISSEMENTS
+
+- Collectivité : COMMUNE DE FOUGERES
+- SIRET : 21350115800017
+- Code INSEE : 35115
+- Date : 2022-05-02
+- Matière : 7.1 Finances locales/Divers
+- Objet : MODALITES D’AMORTISSEMENT SUITE AU PASSAGE M57 - MISE A JOUR DE LA DUREE DES AMORTISSEMENTS
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501158/Deliberation/2022/198513/f21b743d167a43a38439209f7a581108399a475dca3ed4e931922fe662e9f93b.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
