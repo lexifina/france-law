@@ -1,0 +1,10 @@
+# COMMUNE DE FOUGERES : délibération DELIB_27_ASI_22 — SERVICE ACTION SOCIALE INSERTION -  MISE EN PLACE D’ATELIERS INFORMATION « BUDGET » PAR LE PCB A LA MISSION LOCALE
+
+- Collectivité : COMMUNE DE FOUGERES
+- SIRET : 21350115800017
+- Code INSEE : 35115
+- Date : 2022-05-02
+- Matière : 8.2 Domaines de competences par themes/Aide sociale
+- Objet : SERVICE ACTION SOCIALE INSERTION -  MISE EN PLACE D’ATELIERS INFORMATION « BUDGET » PAR LE PCB A LA MISSION LOCALE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501158/Deliberation/2022/198510/59b517f59e5f3a533980416e7f755e912990b528dd909fa4b176dd373a220467.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
