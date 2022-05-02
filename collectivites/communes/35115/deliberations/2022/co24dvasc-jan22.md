@@ -1,0 +1,10 @@
+# COMMUNE DE FOUGERES : délibération CO24DVASC_JAN22 — Conseil municipal du 27 janvier 2022 : Associations sportives – subventions d’équipement – année 2021
+
+- Collectivité : COMMUNE DE FOUGERES
+- SIRET : 21350115800017
+- Code INSEE : 35115
+- Date : 2022-05-02
+- Matière : 7.5 Finances locales/Subventions
+- Objet : Conseil municipal du 27 janvier 2022 : Associations sportives – subventions d’équipement – année 2021
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501158/Deliberation/2022/162890/da997af268638c578f29885bcf9e86bbfa3ecdbbc67bc3709c37cc28f31f5ff6.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
