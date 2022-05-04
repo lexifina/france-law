@@ -98,87 +98,21 @@ Direction régionale et interdépartementale de l'hébergement
 
 et du logement en Ile-de-France (5)
 
-FONCTIONS EXERCÉES |
+Fonctions exercées |
 
-NIVEAU
-
-de qualification
+Niveau de qualification
 
 de l'emploi |
 
-NOMBRE
+Nombre d'emplois |
 
-d'emplois |
+Nombre de points
 
-NOMBRE
+par emploi |
 
-de points (IM) par emploi |
+Adjoint au chef du service logement
 
-Adjoint au chef du service habitat et rénovation urbaine-Unité départementale de Paris |
-
-A |
-
-1 |
-
-50 |
-
-Responsable de la mission droit au logement opposable-Unité départementale de Paris |
-
-A |
-
-1 |
-
-23 |
-
-Chef du bureau des relations avec les bailleurs sociaux-Unité départementale de Paris |
-
-A |
-
-1 |
-
-23 |
-
-Chef du bureau intervention dans le parc privé-Unité départementale des Hauts-de-Seine |
-
-A |
-
-1 |
-
-23 |
-
-Chef du bureau rénovation urbaine-Unité départementale des Hauts-de-Seine |
-
-A |
-
-1 |
-
-23 |
-
-Adjoint au chef du bureau rénovation urbaine-Unité départementale des Hauts-de-Seine |
-
-A |
-
-1 |
-
-23 |
-
-Chef du bureau Interventions dans l'habitat privé-Unité départementale de la Seine-Saint-Denis |
-
-A |
-
-1 |
-
-23 |
-
-Chef du bureau du logement social-Unité départementale de la Seine-Saint-Denis |
-
-A |
-
-1 |
-
-23 |
-
-Chef du bureau rénovation urbaine-Unité départementale de la Seine-Saint-Denis |
+-Unité départementale de Paris |
 
 A |
 
@@ -186,15 +120,9 @@ A |
 
 50 |
 
-Chargé de mission rénovation urbaine-Unité départementale de la Seine-Saint-Denis |
+Responsable de la mission droit au logement opposable
 
-A |
-
-3 |
-
-23 |
-
-Adjoint au chef du bureau Interventions dans l'habitat privé-Unité départementale de la Seine-Saint-Denis |
+-Unité départementale de Paris |
 
 A |
 
@@ -202,7 +130,9 @@ A |
 
 23 |
 
-Adjoint au chef du bureau du logement social-Unité départementale de la Seine-Saint-Denis |
+Chef du bureau des relations avec les bailleurs sociaux
+
+-Unité départementale de Paris |
 
 A |
 
@@ -210,7 +140,9 @@ A |
 
 23 |
 
-Chef du bureau du financement du parc social et de son renouvellement-Unité départementale du Val-de-Marne |
+Chef du bureau intervention dans le parc privé-
+
+Unité départementale des Hauts-de-Seine |
 
 A |
 
@@ -218,15 +150,129 @@ A |
 
 23 |
 
-Responsable de projet rénovation urbaine-Unité départementale du Val-de-Marne |
+Chef du bureau rénovation urbaine
+
+-Unité départementale des Hauts-de-Seine |
 
 A |
 
-3 |
+1 |
 
 23 |
 
-Chef du bureau lutte contre le saturnisme-Unité départementale de Paris |
+Adjoint au chef du bureau rénovation urbaine
+
+-Unité départementale des Hauts-de-Seine |
+
+A |
+
+1 |
+
+23 |
+
+Chef du bureau Interventions dans l'habitat privé
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+1 |
+
+23 |
+
+Chef du bureau du logement social
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+1 |
+
+23 |
+
+Adjoint au chef du bureau du logement social
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+1 |
+
+23 |
+
+Chef du bureau rénovation urbaine
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+1 |
+
+50 |
+
+Adjoint au chef du bureau rénovation urbaine
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+1 |
+
+23 |
+
+Chargé de mission rénovation urbaine
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+2 |
+
+23 |
+
+Adjoint au chef du bureau Interventions dans l'habitat privé
+
+-Unité départementale de la Seine-Saint-Denis |
+
+A |
+
+1 |
+
+23 |
+
+Chef du bureau du financement du parc social et de son renouvellement
+
+-Unité départementale du Val-de-Marne |
+
+A |
+
+1 |
+
+23 |
+
+Adjoint au chef du financement du parc social et de son renouvellement
+
+-Unité départemental du Val-de-Marne |
+
+A |
+
+1 |
+
+23 |
+
+Responsable de projet rénovation urbaine
+
+-Unité départementale du Val-de-Marne |
+
+A |
+
+2 |
+
+23 |
+
+Chef du bureau lutte contre le saturnisme
+
+-Unité départementale de Paris |
 
 B |
 
@@ -234,7 +280,9 @@ B |
 
 30 |
 
-Adjoint au chef du bureau lutte contre le saturnisme-Unité départementale de Paris |
+Adjoint au chef du bureau lutte contre le saturnisme
+
+-Unité départementale de Paris |
 
 B |
 
@@ -242,7 +290,9 @@ B |
 
 20 |
 
-Chargé de projet rénovation urbaine-Unité départementale de Paris |
+Chargé de projet rénovation urbaine
+
+-Unité départementale de Paris |
 
 B |
 
@@ -250,7 +300,9 @@ B |
 
 20 |
 
-Instructeur ANAH-Unité départementale de Paris |
+Instructeur ANAH
+
+-Unité départementale de Paris |
 
 B |
 
@@ -258,7 +310,9 @@ B |
 
 30 |
 
-Chargé d'opération habitat indigne-Unité départementale des Hauts-de-Seine |
+Chargé d'opération habitat indigne
+
+-Unité départementale des Hauts-de-Seine |
 
 B |
 
@@ -266,7 +320,9 @@ B |
 
 20 |
 
-Chargé de projet rénovation urbaine-Unité départementale des Hauts-de-Seine |
+Chargé de projet rénovation urbaine
+
+-Unité départementale des Hauts-de-Seine |
 
 B |
 
@@ -274,7 +330,9 @@ B |
 
 20 |
 
-Instructeur du financement du logement social-Unité départementale de la Seine-Saint-Denis |
+Instructeur du financement du logement social
+
+-Unité départementale de la Seine-Saint-Denis |
 
 B |
 
@@ -282,7 +340,9 @@ B |
 
 30 |
 
-Instructeur du financement rénovation urbaine-Unité départementale de la Seine-Saint-Denis |
+Instructeur du financement rénovation urbaine
+
+-Unité départementale de la Seine-Saint-Denis |
 
 B |
 
@@ -290,23 +350,19 @@ B |
 
 20 |
 
-Instructeur chargé d'opérations habitat indigne-Unité départementale de la Seine-Saint-Denis |
+Instructeur chargé d'opérations habitat indigne
+
+-Unité départementale de la Seine-Saint-Denis |
 
 B |
 
-3 |
+2 |
 
 20 |
 
-Adjoint au chef du bureau financement du parc social et de son renouvellement-Unité départementale du Val-de-Marne |
+Chargé d'opérations lutte contre l'habitat indigne
 
-B |
-
-1 |
-
-20 |
-
-Chargé d'opérations lutte contre l'habitat indigne-Unité départementale du Val-de-Marne |
+-Unité départementale du Val-de-Marne |
 
 B |
 
@@ -314,7 +370,19 @@ B |
 
 20 |
 
-Instructeur habitat indigne-Unité départementale de la Seine-Saint-Denis |
+Chargé des politiques sociales liées aux opérations de rénovation urbaine
+
+-Unité départementale du Val-de-Marne |
+
+B |
+
+1 |
+
+20 |
+
+Instructeur habitat indigne
+
+-Unité départementale de la Seine-Saint-Denis |
 
 C |
 
@@ -892,6 +960,6 @@ NOTA :
 
 (4) Arrêté du 10 avril 2017, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er septembre 2016 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'équipement et de l'aménagement d'Ile-de-France.
 
-(5) Arrêté du 10 avril 2017, art. 2 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2017 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement et du logement en Ile-de-France.
+(5) Arrêté du 27 avril 2022, art. 1 (NOR : TERK2213005A) : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2021 pour ce qui concerne la répartition de l'enveloppe de la direction régionale et interdépartementale de l'hébergement, et du logement.
 
 (6) Arrêté du 12 décembre 2019, art. 1 : les modifications insérées par le présent arrêté sont à effet du 1er janvier 2019 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Vaucluse.
