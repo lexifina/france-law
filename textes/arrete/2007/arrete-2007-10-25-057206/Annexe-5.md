@@ -16,7 +16,7 @@ Bassin d'Aquitaine :
 
 - la Garonne entre le pont de Malauze (PK 772,250) et le confluent avec le Lot à l'écluse de Nicole (PK 946,200) ;
 
-- le Lot, en amont du pont de Larnagol, département du Lot (PK 793,600) ; le Lot, entre le barrage de Luzech, département du Lot (PK 867,800), et 300 mètres en aval du barrage d'Albas (PK 120,800) ; le Lot, entre la limite départementale des départements du Lot et de Lot-et-Garonne, en aval de la chaussée d'Orgueil (PK 82,060), et le barrage de Fumel, département de Lot-et-Garonne (PK 78,400).
+- le Lot, en amont de la chaussée de Montbrun-La Barasquié (PK 226,000), département du Lot ; le Lot, en amont du point de Larnagol (PK 206,400) à l'amont du barrage de la centrale hydroélectrique de Carjac (PK 219,570), département du Lot ; le Lot, entre le barrage de Luzech, département du Lot (PK 132,100) et 300 mètres en aval du barrage d'Albas (PK 120,800) ; le Lot, entre la limite départementale des départements du Lot et du Lot-et-Garonne, en aval de la chaussée d'Orgueil (PK 82,060) et le barrage de Fumel, département du Lot-et-Garonne (PK 78,400).
 
 Lacs d'Aquitaine et des Landes :
 
@@ -62,6 +62,8 @@ Bassin de la Seine :
 
 Bassins de Lorraine et d'Alsace ;
 
-- l'Ile canalise entre la terrasse panoramique et le pont Saint-Guillaume ;
+- l'Ill canalisé entre la terrasse panoramique Vauban (PK 0,760) et l'intersection avec le canal de la Marne au Rhin ;
 
-- le Rhin.
+- le Rhin ;
+
+-la Moselle.
