@@ -1,6 +1,6 @@
 # Article Annexe V à l'article D813-47
 
-Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2021 conformément au tableau ci-dessous :
+Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2022 conformément au tableau ci-dessous :
 
 |
 
@@ -18,13 +18,13 @@ Cycle court
 
 1,5 |
 
-1,77 |
+1,85 |
 
 CAPA |
 
 1,95 |
 
-1,95 |
+1,98 |
 
 Cycle long
 
