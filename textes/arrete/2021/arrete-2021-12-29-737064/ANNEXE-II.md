@@ -22,7 +22,7 @@ Copie de la carte nationale d'identité ou du passeport en cours de validité.
 
 1.1.3.2. Personne résidant en France :
 
-Copie d'un des documents de séjour en cours de validité prévus à l'article L. 411-1 du code de l'entrée et du séjour des étrangers et du droit d'asile à l'exclusion des documents prévus aux 1°, 7° et 8° dudit code.
+Copie d'un des documents de séjour en cours de validité prévus à l'article L. 411-1 du code de l'entrée et du séjour des étrangers et du droit d'asile à l'exclusion des documents prévus aux 1°, 7° et 8° dudit code ou copie du document provisoire de séjour prévu à l'article L. 581-3 du code de l'entrée et du séjour des étrangers et du droit d'asile pour les bénéficiaires de la protection temporaire.
 
 1.2. Identification du conjoint qui a opté pour un statut en application de l'article L. 121-4.
 
