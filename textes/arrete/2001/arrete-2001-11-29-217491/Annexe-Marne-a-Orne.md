@@ -100,115 +100,67 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Haute-Marne
+DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-MARNE
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification
 
-NIVEAU
+de l'emploi |
 
-de qualification de l'emploi
+Nombre d'emplois |
 
-|
+Nombre de points (IM)
 
-NOMBRE
+par emploi |
 
-d'emplois
+Chef du bureau habitat, adjointe à la cheffe de service |
 
-|
+A |
 
-NOMBRE DE POINTS (IM)
+1 |
 
-par emploi
+10 |
 
-|
+Chargé de projet revitalisation du territoire |
 
-Chef du bureau politique de la ville
+A |
 
-|
+1 |
 
-A
+10 |
 
-|
+Chargé du logement social-ANRU |
 
-1
+B |
 
-|
+1 |
 
-10 points
+10 |
 
-|
+Adjoint au chef du bureau habitat et politique du logement des plus démunis |
 
-Adjoint au chef du bureau politique de la ville
+B |
 
-|
+1 |
 
-B
+10 |
 
-|
+Accueil des familles dans le cadre de la politique du logement des plus démunis |
 
-1
+C |
 
-|
+1 |
 
-10 points
+10 |
 
-|
+Accueil des familles dans le cadre de la politique du logement des plus démunis |
 
-Chef du bureau habitat et politique du logement
+C |
 
-des plus démunis
+1 |
 
-|
-
-A
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Adjoint au chef du bureau habitat et politique
-
-du logement des plus démunis
-
-|
-
-B
-
-|
-
-1
-
-|
-
-10 points
-
-|
-
-Accueil des familles dans le cadre de la politique
-
-du logement des plus démunis
-
-|
-
-C
-
-|
-
-2
-
-|
-
-10 points
-
-|
+10 |
 
 Direction départementale des territoires de Meurthe-et-Moselle
 
@@ -1021,3 +973,5 @@ Conformément à l'article 1er de l'arrêté du 29 août 2017 (TERK1722358A), le
 Conformément à l'article 1er de l'arrêté du 7 mai 2019, les dispositions dudit arrêté pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de l'Oise entrent en vigueur le 1er janvier 2018.
 
 Conformément à l'article 1er de l'arrêté du 2 février 2022 (NOR : TERK2203563A), la présente annexe est remplacée, à effet du 1er janvier 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de Meurthe-et-Moselle.
+
+Conformément à l'article 1 de l'arrêté du 27 avril 2022 (NOR : TERK2212913A), la présente annexe est remplacée, à effet du 1er janvier 2020, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Haute-Marne.
