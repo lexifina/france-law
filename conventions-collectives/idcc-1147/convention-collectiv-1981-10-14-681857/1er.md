@@ -1,9 +1,15 @@
 # Article 1er
 
-La présente convention collective règle les rapports entre les employeurs et salariés travaillant dans les cabinets médicaux à titre professionnel uniquement, à l'exclusion du personnel travaillant également au domicile du médecin.
+La présente convention collective règle les obligations réciproques et les rapports entre :
 
-La présente convention s'applique à tous les employeurs qui exercent la médecine libérale sous quelque forme que ce soit, et notamment dans le cadre des activités reprises sous le numéro 85.1 C de la nomenclature NAF.
+– les employeurs exerçant la médecine libérale, sous quelque forme que ce soit et quel que soit le lieu de leur exercice (cabinet de ville, clinique, hôpital, établissement de soins, etc.), et leurs salariés ;
 
-La présente convention s'applique sur l'ensemble du territoire national à l'exception des départements d'outre-mer.
+– les sociétés interprofessionnelles de soins ambulatoire et leurs salariés, et ;
 
-Tout médecin embauchant dans le cadre de son exercice libéral un ou plusieurs salariés est tenu par les dispositions de la présente convention, quel que soit le lieu de son exercice, cabinet de ville, clinique, hôpital, établissement de soins, etc.
+– les maisons de santé pluridisciplinaires au sein desquelles au moins un médecin exerce à titre libéral, et leurs salariés.
+
+La présente convention collective ne s'applique toutefois pas au personnel qui, embauché par un médecin dans le cadre de son exercice libéral, travaille également au domicile de ce médecin. (1) La présente convention s'applique sur l'ensemble du territoire national, à l'exception des départements d'outre-mer.
+
+(1) Phrase exclue de l'extension en ce qu'elle contrevient aux dispositions de l'article L. 2222-1 du code du travail, tel qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 18 juill. 2000, n° 98-42.949).
+
+(Arrêté du 1er juillet 2022 - art. 1)
