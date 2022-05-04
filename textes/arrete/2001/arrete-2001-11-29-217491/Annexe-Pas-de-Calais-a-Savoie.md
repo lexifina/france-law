@@ -2,17 +2,13 @@
 
 Direction départementale des territoires et de la mer du Pas-de-Calais
 
-FONCTIONS EXERCÉES |
+Fonctions exercées |
 
-NIVEAU DE QUALIFICATION
+Niveau de qualification de l'emploi |
 
-de l'emploi |
+Nombre d'emplois |
 
-NOMBRE D'EMPLOIS |
-
-NOMBRE DE POINTS (IM)
-
-par emploi |
+Nombre de points (IM) par emploi |
 
 Adjoint au chef de service habitat renouvellement urbain |
 
@@ -22,7 +18,7 @@ A |
 
 30 |
 
-Chargé de mission-référent "Engagement pour le renouveau du bassin minier" (ERBM UNESCO) |
+Responsable de l'unité Parc Public |
 
 A |
 
@@ -30,7 +26,7 @@ A |
 
 25 |
 
-Responsable de l'unité habitat renouvellement urbain (Boulogne-sur-Mer) |
+Responsable de l'unité habitat renouvellement urbain |
 
 A |
 
@@ -54,7 +50,7 @@ B |
 
 20 |
 
-Adjoint au responsable de l'unité rénovation qualité urbaine-chargé du suivi |
+Adjoint au responsable de l'unité rénovation qualité urbaine-chargé du suivi opérationnel |
 
 B |
 
@@ -62,7 +58,7 @@ B |
 
 20 |
 
-Chargé d'instruction financière-unité rénovation qualité urbaine |
+Chargé d'instruction et de suivi financier |
 
 B |
 
@@ -70,7 +66,7 @@ B |
 
 20 |
 
-Assistant d'études boulonnais référent " lutte contre l'habitat indigne" (LHI)-unité habitat renouvellement urbain |
+Assistant (e) d'études habitat/ RU (Boulonnais) |
 
 B |
 
@@ -600,4 +596,4 @@ B
 
 NOTA :
 
-Conformément aux dispositions de l'article 1er de l'arrêté du 15 mai 2019, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des terrotoires et de la mer du Pas-de-Calais, les dispositions de l'annexe sont remplacées à effet du 1er janvier 2019.
+Conformément à l'article 1er de l'arrêté du 27 avril 2022 (NOR : TERK2212902A), pour ce qui concerne la répartition de l'enveloppe de la direction départementale des terrotoires et de la mer du Pas-de-Calais, les dispositions de la présente annexe sont remplacées à effet du 1er juillet 2021.
