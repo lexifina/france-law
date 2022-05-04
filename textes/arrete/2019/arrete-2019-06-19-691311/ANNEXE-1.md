@@ -76,7 +76,7 @@ Une journée pratique de découverte de la localisation de l'amiante sur un navi
 
 1.4.3 Tutorat : contenu et durée
 
-L'organisme de formation organise le tutorat de l'opérateur de repérage par un opérateur de repérage expérimenté relevant d'un organisme d'inspection accrédité, a minima sur cinq missions réalisées sur des navires, bateaux, engins flottants ou constructions flottantes différents pendant une période ne pouvant excéder une année.
+L'organisme de formation organise le tutorat de l'opérateur de repérage par un opérateur de repérage expérimenté relevant d'un organisme d'inspection accrédité, a minima sur cinq missions réalisées sur des navires, bateaux, engions flottants ou constructions flottantes différents pendant une période ne pouvant excéder deux années.
 
 Ce tutorat porte notamment sur l'accompagnement physique pendant la mission de repérage de l'amiante, la rédaction des conclusions et du rapport.
 
