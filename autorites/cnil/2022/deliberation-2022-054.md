@@ -1,0 +1,64 @@
+# Délibération n° 2022-054 du 5 mai 2022 portant délégation de pouvoirs de la Commission nationale de l'informatique et des libertés à sa présidente et à sa vice-présidente déléguée
+
+- Nature : Deliberation
+- Type : Disposition interne CNIL
+- Numéro : 2022-054
+- Date : 2022-05-05
+- Publication : 2022-05-10
+- NOR : CNIL2213630X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000045771978
+
+La Commission nationale de l’informatique et des libertés,
+
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l’informatique, aux fichiers et aux libertés modifiées, notamment son article 13 ;
+
+Vu le décret n° 2019 536 du 29 mai 2019 modifié pris pour l’application de la loi n° 78 17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ;
+
+Vu le décret du 31 janvier 2019 portant nomination de la présidente de la Commission nationale de l'informatique et des libertés - Mme DENIS (Marie-Laure) ;
+
+Vu la délibération n° 2021-102 du 9 septembre 2021 portant élection du vice-président délégué de la Commission nationale de l’informatique et des libertés ;
+
+Après avoir entendu Mme Marie-Laure DENIS, présidente, en son rapport, et M. Benjamin TOUZANNE, commissaire du Gouvernement, en ses observations,
+
+Décide :
+
+Article 1er
+
+I. En application de l’article 13 de la loi du 6 janvier 1978 susvisée, il est donné délégation à la présidente de la Commission nationale de l’informatique et des libertés et à la vice-présidente déléguée à l’effet d’exercer les attributions mentionnées aux articles suivants de la même loi :
+
+aux f et g du I de l’article 8 ;
+
+au d du 2° de l’article 8 ;
+
+au d du 4° du I de l’article 8 ;
+
+aux articles 52, 108 et 118 ;
+
+à l’article 66.
+
+II. En application de l’article 13 de la loi du 6 janvier 1978 susvisée, il est également donné délégation à la présidente de la Commission nationale de l’informatique et des libertés et à la vice-présidente déléguée à l’effet d’exercer les attributions mentionnées aux dispositions suivantes du règlement (UE) 2016/679 du 27 avril 2016 susvisé :
+
+au 4 de l'article 34, pour les seules décisions donnant acte du respect des conditions mentionnées au 3 du même article 34 ;
+
+aux a et h du 3 de l'article 58.
+
+Article 2
+
+La Commission reste toutefois compétente pour adopter, à l’initiative de la présidente ou de la vice-présidente déléguée, ceux des référentiels, règlements types et méthodologies de référence mentionnés à l’article 66 de la loi du 6 janvier 1978 susvisée, ainsi que celles des autorisations mentionnées à l’article 66 de la même loi, qui présentent des difficultés ou une complexité particulières.
+
+Elle reste également compétente pour adopter, à l’initiative de la présidente ou de la vice-présidente déléguée, ceux des décisions, avis et autorisations mentionnés aux dispositions précitées du règlement (UE) 2016/679 du 27 avril 2016 susvisé qui présentent des difficultés ou une complexité particulières.
+
+Article 3
+
+La délibération n° 2019-021 du 28 février 2019 portant délégation de pouvoirs de la Commission nationale de l’informatique et des libertés à sa présidente et à sa vice-présidente déléguée est abrogée.
+
+Article 4
+
+La présidente de la Commission est chargée de l’exécution de la présente délibération, qui sera publiée au Journal officiel de la République française.
+
+La présidente
+
+Marie-Laure DENIS
