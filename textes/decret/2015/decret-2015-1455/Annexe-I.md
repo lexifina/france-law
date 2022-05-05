@@ -156,7 +156,7 @@ Articles R. 532-25-1 et R. 532-30 du CMF |
 
 1 mois pour la libre prestation de services |
 
-2° Conseil supérieur de l'audiovisuel
+2° Autorité de régulation de la communication audiovisuelle et numérique
 
 OBJET DE LA DEMANDE |
 
@@ -188,7 +188,7 @@ Article 55 |
 
 Autorisation d'occupation du domaine public hertzien |
 
-Articles 23,26,28-3,29,29-1,29-2,30-1 et 30-3 à 30-7 |
+Articles 23,26,28-3,29,29-1,29-2,30-1, 30-1-1 et 30-3 à 30-7 |
 
 |
 
