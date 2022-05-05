@@ -724,6 +724,20 @@ Aude |
 
 L'aérodrome ne peut être utilisé par un pilote que s'il a effectué une reconnaissance préalable du site avec un instructeur utilisateur du terrain. |
 
+Orange-Plan-de-Dieu |
+
+Vaucluse |
+
+Cet aérodrome est réservé :
+
+1° Aux aéronefs d'Etat français ;
+
+2° Aux aéronefs basés ou détachés ;
+
+3° Aux aéronefs légers et activités liés aux aéroclubs basés dans la limite des disponibilités, de leur capacité physique et des conditions fixées par la convention en vigueur ;
+
+4° Aux activités particulières autorisées par le directeur d'aérodrome, sous réserve de compatibilité entre les caractéristiques de l'aéronef considéré et les caractéristiques physiques de l'aérodrome, et conformément aux directives publiées par la voie de l'information aéronautique. |
+
 Peyresourde-Balestas |
 
 Hautes-Pyrénées |

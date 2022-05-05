@@ -152,12 +152,6 @@ Vaucluse |
 
 |
 
-Orange - Plan-de-Dieu |
-
-Vaucluse |
-
-|
-
 Orléans-Bricy |
 
 Loiret |
