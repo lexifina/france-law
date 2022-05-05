@@ -112,7 +112,7 @@ x |
 
 4 |
 
-L'extrait du K bis pour les établissements privés à but lucratif. |
+Le numéro unique d'identification pour les établissements privés à but lucratif. |
 
 |
 
