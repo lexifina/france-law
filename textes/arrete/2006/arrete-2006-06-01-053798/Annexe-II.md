@@ -6,9 +6,9 @@ I.-Renseignements relatifs à l'état civil
 
 1° Délivrance des copies ou extraits d'actes de l'état civil
 
-Les copies ou extraits d'actes de l'état civil s'obtiennent auprès de la mairie qui a établi l'acte. La demande de copies intégrales ou d'extraits d'actes peut être faite au guichet en mairie, par voie postale ou par télé-service mis en place par l'Etat ou les communes. Si cette demande peut être dématérialisée, en revanche, la délivrance des copies et extraits des actes de l'état civil ne peut se faire par voie électronique : ces actes authentiques sont uniquement délivrés sous format papier et remis au demandeur comparant ou adressés par voie postale directement à son domicile.
+Les copies ou extraits d'actes de l'état civil s'obtiennent auprès de la mairie qui a établi l'acte. La demande de copies intégrales ou d'extraits d'actes peut être faite au guichet en mairie, par voie postale ou par télé-service mis en place par l'Etat ou les communes. Si cette demande peut être dématérialisée, en revanche, la délivrance des copies et extraits des actes de l'état civil ne peut se faire par voie électronique : ces actes authentiques sont uniquement délivrés sous format papier et remis au demandeur comparant ou adressés par voie postale directement à son domicile. A titre dérogatoire et expérimental, la délivrance des actes dressés, établis, transcrits ou conservés par le Service central d'état civil peut s'effectuer par voie électronique.
 
-Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer), la demande doit être faite par internet grâce au télé-service du ministère des affaires étrangères (https://pastel.diplomatie.gouv.fr/dali/index2.html) ou adressée au service central d'état civil du ministère des affaires étrangères, 11, rue de la Maison Blanche, 44941 Nantes Cedex 09. Les personnes bénéficiaires du statut de réfugié, d'apatride ou de la protection subsidiaire peuvent obtenir des certificats tenant lieu d'actes de l'état civil en effectuant leur demande sur internet grâce au télé-service de l'Office français de protection des réfugiés et apatrides (OFPRA) (https://www.ofpra.gouv.fr/detail/acte/accueilFormulaire/index.html) ou en s'adressant à l'Office français de protection des réfugiés et apatrides, 201, rue Carnot, 94136 Fontenay-sous-Bois Cedex.
+Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer), la demande doit être faite par internet grâce au télé-service du ministère des affaires étrangères (https://www.service-public.fr/compte/se-connecter?targetUrl=/loginSuccessFromSp&typeCompte=particulier) ou adressée au service central d'état civil du ministère des affaires étrangères, 11, rue de la Maison Blanche, 44941 Nantes Cedex 09. Les personnes bénéficiaires du statut de réfugié, d'apatride ou de la protection subsidiaire peuvent obtenir des certificats tenant lieu d'actes de l'état civil en effectuant leur demande sur internet grâce au télé-service de l'Office français de protection des réfugiés et apatrides (OFPRA) (https://www.ofpra.gouv.fr/detail/acte/accueilFormulaire/index.html) ou en s'adressant à l'Office français de protection des réfugiés et apatrides, 201, rue Carnot, 94136 Fontenay-sous-Bois Cedex.
 
 La demande d'extrait sans indication de la filiation des actes de naissance ou de mariage indique les date et lieu de naissance ou de mariage ainsi que les noms et prénoms du ou des personnes auxquelles l'acte se rapporte.
 
@@ -46,9 +46,11 @@ Les autres personnes ne peuvent obtenir la copie intégrale d'un acte de naissan
 
 2° Mention d'un acte d'enfant sans vie
 
-L'indication d'enfant sans vie, avec énonciation des jours, heure et lieu de l'accouchement, peut, à la demande des parents, être apposée par l'officier de l'état civil qui a établi l'acte sur le livret de famille qu'ils détiennent.
+L'indication d'enfant sans vie, avec énonciation des jours, heure et lieu de l'accouchement et, le cas échéant, son ou ses prénoms et nom, peut, à la demande d'un ou des parents, être apposée par l'officier de l'état civil qui a établi l'acte sur le livret de famille qu'ils détiennent.
 
 Cette indication est possible même si l'acte d'enfant sans vie a été dressé antérieurement à la délivrance du livret de famille.
+
+L'indication d'un nom n'emporte aucun effet juridique et n'a donc aucune incidence en matière de dévolution du nom pour les enfants suivants.
 
 3° Mention de la nationalité française
 
@@ -64,7 +66,7 @@ La nationalité française est attribuée en raison de la filiation paternelle o
 
 La nationalité française est acquise à la majorité par tout enfant né en France de parents étrangers si, à cette date, il a en France sa résidence et s'il a eu sa résidence habituelle en France pendant une période continue ou discontinue d'au moins cinq ans depuis l'âge de onze ans.
 
-Dans un certain nombre d'hypothèses, la nationalité française peut être acquise par déclaration. C'est par exemple le cas du mineur adopté en la forme simple par un (e) Français (e), de la personne justifiant d'une possession d'état de Français depuis dix ans. La déclaration est souscrite en France, selon les cas, devant l'autorité administrative ou le directeur des services de greffe judiciaires du tribunal judiciaire ou de la chambre de proximité, et à l'étranger devant le consul.
+Dans un certain nombre d'hypothèses, la nationalité française peut être acquise par déclaration. C'est par exemple le cas du mineur adopté en la forme simple par un (e) Français (e), de la personne justifiant d'une possession d'état de Français depuis dix ans. La déclaration est souscrite en France, selon les cas, devant l'autorité administrative ou le directeur des services de greffe judiciaires du tribunal judiciaire ou du tribunal de proximité, et à l'étranger devant le consul.
 
 L'acquisition de la nationalité française par décision de l'autorité publique résulte d'une naturalisation accordée par décret à la demande d'une personne de nationalité étrangère. La naturalisation est soumise à la décision du ministre chargé des naturalisations qui peut la refuser, même si les conditions sont réunies.
 
@@ -72,13 +74,13 @@ Les enfants mineurs non mariés d'une personne qui acquiert la nationalité fran
 
 5° Preuve de la nationalité française
 
-En dehors, d'une part, des titres propres à la nationalité française, tels que le décret ou la déclaration acquisitive dûment enregistrée et, d'autre part, de la décision judiciaire définitive reconnaissant la qualité de Français, le seul mode légal de preuve de la nationalité française est le certificat de nationalité française, délivré par le directeur des services de greffe judiciaires du tribunal d'instance (du tribunal judiciaire ou de la chambre de proximité à compter du 1er janvier 2020).
+En dehors, d'une part, des titres propres à la nationalité française, tels que le décret ou la déclaration acquisitive dûment enregistrée et, d'autre part, de la décision judiciaire définitive reconnaissant la qualité de Français, le seul mode légal de preuve de la nationalité française est le certificat de nationalité française, délivré par le directeur des services de greffe judiciaires du tribunal judiciaire ou du tribunal de proximité.
 
 La publicité en est, par ailleurs, assurée par la mention systématique, en marge de l'acte de naissance, des actes administratifs, des déclarations ainsi que des décisions de justice ayant trait à la nationalité et, depuis le 1er septembre 1998, de toute première délivrance de certificat de nationalité française.
 
 6° Livret de famille et formalités administratives
 
-Dans les procédures administratives, les usagers sont dispensés de produire un extrait de l'acte de mariage des parents, de l'acte de naissance des parents ou des enfants ou la copie de l'acte de décès des parents ou des enfants morts avant leur majorité, dans tous les cas où, pour la justification de leur identité, de leur état civil, de leur situation familiale ou de leur nationalité française, ils présentent l'original ou produisent ou envoient une photocopie lisible du livret de famille régulièrement tenu à jour.
+Dans les procédures administratives, les usagers sont dispensés de produire un extrait de l'acte de mariage des parents, de l'acte de naissance des parents ou des enfants ou la copie de l'acte de décès des parents ou des enfants décédés, dans tous les cas où, pour la justification de leur identité, de leur état civil, de leur situation familiale ou de leur nationalité française, ils présentent l'original ou produisent ou envoient une photocopie lisible du livret de famille régulièrement tenu à jour.
 
 Pour pouvoir remplacer la production d'un certificat de nationalité française dans ces mêmes hypothèses, le livret de famille doit être régulièrement tenu à jour et revêtu de l'une des mentions, en marge de l'acte de naissance, des actes administratifs et des déclarations ayant pour effet l'acquisition, la répudiation, la renonciation à la faculté de répudier, la déclination, la perte de la nationalité française, la réintégration dans cette nationalité et de toute décision judiciaire ayant trait à cette nationalité, pour le ou les titulaires du livret et, le cas échéant, pour leurs enfants mineurs.
 
@@ -96,6 +98,10 @@ Le père non marié doit reconnaître l'enfant devant tout officier de l'état c
 
 -et de son domicile ou de sa résidence par la production d'une pièce justificative datée de moins de trois mois.
 
+Pour les couples de femmes qui recourent à une assistance médicale à la procréation nécessitant l'intervention d'un tiers donneur, la filiation est établie, à l'égard de la femme qui accouche, par sa seule désignation dans l'acte de naissance de l'enfant. A l'égard de l'autre femme, la filiation est établie par la reconnaissance conjointe anticipée faite devant le notaire concomitamment au consentement donné à l'assistance médicale à la procréation. La reconnaissance conjointe anticipée est remise par l'une des deux femmes ou, le cas échéant, par la personne chargée de déclarer la naissance à l'officier de l'état civil, qui l'indique dans l'acte de naissance.
+
+En cas d'absence de remise de la reconnaissance conjointe anticipée, celle-ci peut être communiquée à l'officier de l'état civil par le procureur de la République à la demande de l'enfant majeur, de son représentant légal s'il est mineur ou de toute personne ayant intérêt à agir en justice.
+
 Lorsque la reconnaissance n'est pas possible, notamment en cas de décès du père prétendu, la filiation peut être établie par la possession d'état constatée par un acte de notoriété. Cet acte doit être demandé à un notaire, dans les cinq ans suivant la cessation de cette possession ou le décès.
 
 Lorsque l'enfant n'a pas été reconnu, le tribunal peut déclarer la paternité. L'action doit être intentée par la mère dans la minorité de l'enfant. Ce dernier peut également exercer cette action dans les dix années qui suivent sa majorité. Le bénéfice de l'aide juridictionnelle peut être demandé en cas de ressources insuffisantes.
@@ -112,23 +118,37 @@ Le nom dévolu au premier enfant vaut pour les autres enfants communs.
 
 En cas de naissance à l'étranger d'un enfant dont au moins l'un des parents est français, la transcription de l'acte de naissance de l'enfant doit retenir le nom de l'enfant tel qu'il résulte de l'acte de naissance étranger. Toutefois, au moment de la demande de transcription, les parents peuvent opter pour l'application de la loi française pour la détermination du nom de leur enfant.
 
+En cas de recours à une assistance médicale à la procréation par un couple de femmes, lorsque la filiation est établie à l'égard des deux femmes par reconnaissance conjointe anticipée, les deux femmes peuvent choisir le nom de famille de l'enfant au plus tard le jour de la déclaration de naissance. Elles peuvent alors choisir, soit le nom de l'une d'elles, soit leurs deux noms accolés dans l'ordre choisi par elles dans la limite d'un nom de famille pour chacune d'elles. En l'absence de déclaration conjointe de choix du nom à l'officier de l'état civil, l'enfant prend leurs deux noms, dans la limite du premier nom de famille de chacune d'elles, accolés selon l'ordre alphabétique. Le nom dévolu au premier enfant vaut pour les autres enfants communs.
+
+Lorsque les parents ou l'un d'eux portent un double nom de famille, ils peuvent, par une déclaration écrite conjointe, ne transmettre qu'un seul nom à leurs enfants.
+
+En cas de naissance à l'étranger d'un enfant dont au moins l'un des parents est français, les parents qui n'ont pas usé de la faculté de choix du nom peuvent effectuer une telle déclaration lors de la demande de transcription de l'acte de naissance de l'enfant, au plus tard dans les trois ans suivant la naissance de l'enfant.
+
+Lorsque les parents en sont d'accord, l'enfant peut bénéficier de l'usage, du nom du parent qui ne lui a pas transmis le sien, en l'ajoutant ou en le substituant à son propre nom, dans l'ordre choisi par ses parents et dans la limite d'un nom de famille pour chacun d'eux.
+
+Le parent qui n'a pas transmis son nom à l'enfant peut l'adjoindre au nom de l'enfant à titre d'usage à condition d'en informer préalablement et en temps utile l'autre parent.
+
+Dans tous les cas, l'enfant de plus de treize ans doit consentir à son nom d'usage.
+
+Le juge aux affaires familiales peut être saisi en cas de désaccord.
+
 3° Adoption
 
-L'adoption peut être demandée par deux époux lorsque le mariage dure depuis plus de deux ans ou lorsque les deux époux ont plus de vingt-huit ans. Un époux peut également adopter l'enfant de son conjoint dans certaines conditions.
+L'adoption peut être demandée par deux époux, partenaires liés par un pacte civil de solidarité ou concubins lorsque la communauté de vie dure depuis plus d'un an ou lorsque les deux membres du couple ont plus de vingt-six ans. Une personne peut également adopter l'enfant de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin dans certaines conditions.
 
-Elle peut également être demandée par toute personne âgée de plus de vingt-huit ans. Si cette personne est mariée, le consentement de son conjoint est requis.
+L'adoption peut également être demandée par toute personne âgée de plus de vingt-six ans. Si cette personne est mariée ou liée par un pacte civil de solidarité, le consentement de son conjoint ou de son partenaire est requis.
 
-L'adoption est prononcée à la requête de l'adoptant par le tribunal judiciaire, qui vérifie si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant. Cette adoption peut être plénière, auquel cas le lien de filiation créé par l'adoption se substitue au lien de filiation d'origine, ou simple, les deux liens de filiation coexistant alors.
+L'adoption est prononcée à la requête de l'adoptant par le tribunal judiciaire qui vérifie si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant. Cette adoption peut être soit plénière, auquel cas le lien de filiation créé par l'adoption se substitue au lien de filiation d'origine, soit simple, les deux liens de filiation coexistant alors.
 
-L'enfant adopté plénièrement acquiert le nom de l'adoptant, qui se substitue à son nom d'origine. En cas d'adoption par deux époux ou d'adoption de l'enfant du conjoint, les adoptants ou l'adoptant et son conjoint peuvent dans certains cas choisir le nom de l'enfant adopté afin qu'il porte le nom de l'un d'eux ou leur deux noms accolés dans l'ordre choisi par eux, dans la limite d'un nom de famille pour chacun d'eux. Pour se faire, ils souscrivent une déclaration conjointe de choix de nom et la remettent au tribunal chargé de prononcer l'adoption. En l'absence de déclaration conjointe mentionnant le choix de nom de l'enfant, celui-ci prend le nom de l'adoptant et de son conjoint ou de chacun des deux adoptants, dans la limite du premier nom de famille pour chacun d'eux, accolés selon l'ordre alphabétique. Toutefois, le nom précédemment dévolu ou choisi pour l'aîné des enfants du couple s'impose dans certains cas dans à l'enfant adopté.
+L'enfant adopté plénièrement acquiert le nom de l'adoptant, qui se substitue à son nom d'origine. En cas d'adoption plénière par deux époux, partenaires liés par un pacte civil de solidarité ou concubins ou d'adoption de l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin, les adoptants ou l'adoptant et son conjoint, partenaire ou concubin peuvent dans certains cas choisir le nom de l'enfant adopté afin qu'il porte le nom de l'un d'eux ou leurs deux noms accolés dans l'ordre choisi par eux, dans la limite d'un nom de famille pour chacun d'eux. Pour ce faire, ils souscrivent une déclaration conjointe de choix de nom et la remettent au tribunal chargé de prononcer l'adoption. En l'absence de déclaration conjointe mentionnant le choix de nom de l'enfant, celui-ci prend le nom de l'adoptant et de son conjoint, partenaire ou concubin ou de chacun des deux adoptants, dans la limite du premier nom de famille pour chacun d'eux, accolés selon l'ordre alphabétique. Toutefois, le nom précédemment dévolu ou choisi pour l'aîné des enfants du couple s'impose dans certains cas à l'enfant adopté.
 
-En cas d'adoption simple, le nom de l'adoptant est ajouté au nom de l'adopté, avec son consentement si ce dernier est majeur. Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom, le nom conféré à l'adopté résulte de l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix ainsi que l'ordre des noms adjoints appartient à l'adoptant qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde position du premier nom de l'adoptant au premier nom de l'adopté. L'adoptant peut demander à ce que seul son nom soit porté par l'enfant. Dans ce cas, l'enfant âgé de plus de treize ans doit donner son consentement.
+En cas d'adoption simple, le nom de l'adoptant est ajouté au nom de l'adopté, avec son consentement si ce dernier a plus de treize ans. Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom, le nom conféré à l'adopté résulte de l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix ainsi que l'ordre des noms adjoints appartiennent à l'adoptant qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde position du premier nom de l'adoptant au premier nom de l'adopté. L'adoptant peut demander à ce que seul son nom soit porté par l'enfant. Dans ce cas, l'enfant âgé de plus de treize ans doit donner son consentement.
 
-En cas d'adoption simple par deux époux, le nom ajouté au nom de l'adopté est, à la demande des adoptants, soit celui du mari, soit celui de la femme, dans la limite d'un nom pour chacun d'eux et, à défaut d'accord entre eux, le premier nom du mari. Si l'adopté porte un double nom de famille, le choix du nom conservé appartient aux adoptants, qui doivent recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom des adoptants retenu est ajouté au premier nom de l'adopté.
+En cas d'adoption simple par deux époux, partenaires liés par un pacte civil de solidarité ou concubins, le nom ajouté au nom de l'adopté est, à la demande des adoptants, celui de l'un d'eux, dans la limite d'un nom. Si l'adopté porte un double nom de famille, le choix du nom conservé et l'ordre des noms adjoints appartient aux adoptants, qui doivent recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde position du premier nom des adoptants selon l'ordre alphabétique.
 
-Il peut également être demandé au tribunal de décider que l'adopté ne porte que le nom de l'adoptant ou, en cas d'adoption de l'enfant du conjoint, que l'adopté conserve son nom d'origine. En cas d'adoption par deux époux, le nom de famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui de l'un d'eux, soit leurs deux noms accolés dans l'ordre choisi par eux et dans la limite d'un seul nom pour chacun d'eux. Si l'adopté est âgé de plus de treize ans, son consentement personnel à cette substitution du nom de famille est nécessaire.
+Il peut également être demandé au tribunal de décider que l'adopté ne porte que le nom de l'adoptant ou, en cas d'adoption de l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin, que l'adopté conserve son nom d'origine. En cas d'adoption par deux époux, partenaires liés par un pacte civil de solidarité ou concubins, le nom de famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui de l'un d'eux, soit leurs deux noms accolés dans l'ordre choisi par eux et dans la limite d'un seul nom pour chacun d'eux. Si l'adopté est âgé de plus de treize ans, son consentement personnel à cette substitution du nom de famille est nécessaire.
 
-L'adoptant est seul investi de l'autorité parentale, que l'adoption soit simple ou plénière. Toutefois, en cas d'adoption simple de l'enfant du conjoint, ce dernier conserve l'autorité parentale qui est exercée en commun.
+L'adoptant est seul investi de l'autorité parentale, que l'adoption soit simple ou plénière. Toutefois, en cas d'adoption simple de l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin, ce dernier conserve l'autorité parentale qui est exercée en commun.
 
 4° Autorité parentale
 
@@ -138,7 +158,7 @@ Les parents associent l'enfant aux décisions qui le concernent, selon son âge 
 
 L'autorité parentale est exercée en commun par les parents. A l'égard des tiers, chacun d'eux peut accomplir seul les actes usuels qui concernent l'enfant.
 
-Toutefois, lorsque la filiation est établie à l'égard de l'un des parents plus d'un an après la naissance de l'enfant, l'autre parent exerce seul cette autorité. Le parent qui ne bénéficie pas de l'exercice de l'autorité parentale conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant et doit être informé des choix importants relatifs à la vie de l'enfant. Les parents peuvent, afin d'exercer en commun l'autorité parentale, faire une déclaration conjointe devant le directeur des services de greffe judiciaires du tribunal judiciaire du domicile de l'enfant.
+Toutefois, lorsque la filiation est établie à l'égard de l'un des parents plus d'un an après la naissance de l'enfant, l'autre parent exerce seul cette autorité. Il en est de même lorsque la filiation est judiciairement déclarée à l'égard du second parent de l'enfant ou, dans le cas d'un établissement de la filiation dans le cadre d'une assistance médicale à la procréation réalisée par un couple de femmes, lorsque la mention de la reconnaissance conjointe est apposée à la demande du procureur de la République. Le parent qui ne bénéficie pas de l'exercice de l'autorité parentale conserve le droit et le devoir de surveiller l'entretien et l'éducation de l'enfant et doit être informé des choix importants relatifs à la vie de l'enfant. Les parents peuvent, afin d'exercer en commun l'autorité parentale, faire une déclaration conjointe devant le directeur des services de greffe judiciaires du tribunal judiciaire du domicile de l'enfant.
 
 La séparation des parents est sans incidence sur les règles de dévolution de l'exercice de l'autorité parentale.
 
@@ -164,7 +184,7 @@ III.-Informations spécifiques aux époux
 
 1° Nom des époux
 
-Le mariage est sans effet sur le nom des époux, qui continuent chacun d'avoir pour seul nom officiel celui qui résulte de leur acte de naissance. Toutefois, chacun des époux bénéficie de l'usage, s'il le désire, du nom de son conjoint, en l'ajoutant ou en le substituant à son propre nom.
+Le mariage est sans effet sur le nom des époux, qui continuent chacun d'avoir pour seul nom officiel celui qui résulte de leur acte de naissance. Toutefois, chacun des époux bénéficie de l'usage, s'il le désire, du nom de son conjoint, en l'ajoutant ou en le substituant à son propre nom, dans l'ordre qu'il choisit et dans la limite d'un nom de famille pour chacun d'eux.
 
 2° Logement des époux
 
@@ -270,8 +290,8 @@ Les droits du conjoint survivant peuvent être aménagés par contrat de mariage
 
 8° Hypothèque légale des époux
 
-Si pendant le mariage il y a lieu de transférer d'un époux à l'autre l'administration de certains biens ou si l'un d'eux introduit une demande en justice pour faire constater une créance contre son conjoint ou les héritiers de celui-ci, une inscription d'hypothèque peut être prise au profit de l'époux qui a été dessaisi de ses pouvoirs ou qui a introduit la demande sur les immeubles de son conjoint. "
+Lorsque les époux ont adopté le régime de la participation aux acquêts, ils disposent chacun et sauf accord contraire, de la faculté d'inscrire une hypothèque pour garantir leur créance de participation.
 
 NOTA :
 
-Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l'article 3 de l'arrêté du 3 mai 2022 (NOR : JUSC2211771A), les officiers de l'état civil pourront continuer à délivrer, jusqu'à épuisement des stocks, les anciens modèles de livret de famille établis selon le modèle fixé par l'arrêté du 1er juin 2006 modifié par l'arrêté du 10 janvier 2020.
