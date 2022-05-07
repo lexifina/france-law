@@ -1,9 +1,31 @@
-# Article Annexe 1 à l'article 41-1
+# Article Annexe à l'article 41-1
 
-Spécialités pharmaceutiques mentionnées au I de l'article 41-1 :
+Coefficients de majoration applicables à la facturation de la dispensation mentionnée au II de l'article 41-1 :
 
--VEKLURY ® 100 mg poudre pour solution à diluer pour perfusion (remdesivir), code CIP 34009 550 742 6 7 ;
+|
 
--PAXLOVID ® 150 mg/100 mg (PF-07321332 + ritonavir), code CIP 34009 302 455 1 4 ;
+Guadeloupe
 
--EVUSHELD ® (tixagévimab 150mg/ cilgavimab 150 mg) solution injectable, code CIP 34009 589 035 5 7.
+Saint-Barthélémy
+
+Saint Martin |
+
+Martinique |
+
+Guyane |
+
+La Réunion |
+
+Mayotte |
+
+Coefficient de majoration |
+
+1.323 |
+
+1.323 |
+
+1.34 |
+
+1.264 |
+
+1.36 |
