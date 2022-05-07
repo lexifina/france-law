@@ -20,7 +20,7 @@ c) Le montant des loyers mentionnés au d du 1 du I ne peut excéder les plafond
 
 b) La surface à prendre en compte est déterminée conformément au III de l'article 46 AG terdecies ;
 
-c) Les travaux de réhabilitation mentionnés au 3 du I s'entendent de ceux qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
+c) Les travaux de réhabilitation mentionnés au 3 et au 4 du I s'entendent de ceux qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
 NOTA :
 

@@ -24,11 +24,11 @@ I. – 1. Pour l'application de l'article 242 sexies du code général des impô
 
 11° Le cas échéant, la quote-part de l'aide fiscale rétrocédée à l'exploitant ;
 
-12° Le cas échéant, le nombre d'emplois directs, en équivalent temps plein, devant être créés ou maintenus pendant les cinq ou sept premières années d'exploitation de l'investissement ;
+12° Le cas échéant, le nombre d'emplois directs, en équivalent temps plein, devant être créés ou maintenus pendant les cinq, sept, dix ou quinze premières années d'exploitation de l'investissement ;
 
 13° Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration.
 
-2. Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues aux articles 199 undecies A, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W ou 244 quater X du code général des impôts, la personne morale précise, en outre :
+2. Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues aux articles 199 undecies A, 199 undecies C, 217 undecies, 217 duodecies, 244 quater W, 244 quater X ou 244 quater Y du code général des impôts, la personne morale précise, en outre :
 
 1° Si l'investissement consiste en l'acquisition, la construction ou la réhabilitation de logements ;
 
@@ -36,17 +36,17 @@ I. – 1. Pour l'application de l'article 242 sexies du code général des impô
 
 3° Le nombre et le type de ces logements ;
 
-4° Si la location de ces logements relève du secteur libre, intermédiaire ou social, ou, le cas échéant, répond à la condition prévue au 5° du I de l'article 199 undecies C et au d du 1 du I de l'article 244 quater X du code général des impôts ;
+4° Si la location de ces logements relève du secteur libre, intermédiaire ou social, ou, le cas échéant, répond à la condition prévue au 5° du I de l'article 199 undecies C, au d du 1 du I de l'article 244 quater X et au d du 2° du D du I de l'article 244 quater Y du code général des impôts ;
 
 5° Le cas échéant, la nature des équipements de production d'énergie renouvelable, des appareils utilisant une source d'énergie renouvelable, ou des matériaux d'isolation ;
 
 6° Si les logements sont situés sur le territoire de quartiers prioritaires de la politique de la ville définis à l'article 5 de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine ;
 
-7° S'il y a lieu, l'identité de l'organisme d'habitations à loyer modéré mentionné à l'article L. 411-2 du code de la construction et de l'habitation qui prend en location le logement ;
+7° S'il y a lieu, l'identité de l'organisme d'habitations à loyer modéré mentionné à l'article L. 411-2 du code de la construction et de l'habitation ou de l'entreprise qui prend en location le logement ;
 
-8° S'il y a lieu, l'identité de la personne signataire du contrat de location-accession mentionnée au 1° du I bis de l'article 217 undecies et au a du 3° du 4 du I de l'article 244 quater W du code général des impôts ou de la convention prévue au 7° du I de l'article 199 undecies C du même code ;
+8° S'il y a lieu, l'identité de la personne signataire du contrat de location-accession mentionnée au 1° du I bis de l'article 217 undecies, au a du 3° du 4 du I de l'article 244 quater W et au 3° du D du I de l'article 244 quater Y du code général des impôts ou de la convention prévue au 7° du I de l'article 199 undecies C ou au g du 2° du D du I de l'article 244 quater Y du même code ;
 
-9° Le cas échéant, le montant, la date d'octroi et la référence du prêt mentionné au 2° du I bis de l'article 217 undecies et au b du 3° du 4 du I de l'article 244 quater W du code général des impôts ;
+9° Le cas échéant, le montant, la date d'octroi et la référence du prêt mentionné au 2° du I bis de l'article 217 undecies, au b du 3° du 4 du I de l'article 244 quater W et du prêt mentionné au I de l'article D. 331-76-5-1 du code de la construction et de l'habitation octroyé dans le cadre du contrat de location-accession mentionné au a du 3° du D du I de l'article 244 quater Y du code général des impôts ;
 
 10° Le cas échéant, la quote-part de l'aide fiscale rétrocédée à la personne physique signataire du contrat de location-accession ou à l'organisme d'habitations à loyer modéré locataire.
 
