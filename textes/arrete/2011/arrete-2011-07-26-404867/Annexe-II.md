@@ -528,7 +528,11 @@ Dispense s'étendant à tout type de passeport. |
 
 Vanuatu |
 
-Dispense s'étendant à tout type de passeport. |
+Dispense s'appliquant seulement :
+
+-aux titulaires d'un passeport officiel ou d'un passeport diplomatique ;
+
+-aux titulaires d'un passeport ordinaire délivré avant le 25 mai 2015. |
 
 Venezuela |
 
