@@ -4,15 +4,15 @@ Pour l'application du l du 1° du I de l'article 31 du code général des impôt
 
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus proche, de ceux mentionnés au :
 
--a de l'article 2 terdecies B, pour les baux conclus en 2021, s'agissant de logements autres que ceux visés au b de ce même article ;
+-a de l'article 2 terdecies B, pour les baux conclus en 2022, s'agissant de logements autres que ceux visés au b de ce même article ;
 
--b de l'article 2 terdecies B, pour les baux conclus en 2021, s'agissant de logements visés au b de ce même article.
+-b de l'article 2 terdecies B, pour les baux conclus en 2022, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2021, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,99 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 14,19 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2022, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 11,17 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 14,24 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2021, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2022, les plafonds annuels de ressources sont les suivants :
 
 Composition du foyer locataire |
 
@@ -36,125 +36,125 @@ Zone C
 
 Personne seule |
 
-48 587 |
+49 836 |
 
-36 092 |
+37 020 |
 
-33 084 |
+33 934 |
 
-32 859 |
+33 703 |
 
 Couple |
 
-72 615 |
+74 481 |
 
-53 000 |
+54 362 |
 
-48 583 |
+49 832 |
 
-44 165 |
+45 300 |
 
 Personne seule ou couple ayant une personne à charge |
 
-87 287 |
+89 530 |
 
-63 447 |
+65 078 |
 
-58 162 |
+59 657 |
 
-52 873 |
+54 232 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-104 555 |
+107 242 |
 
-76 785 |
+78 758 |
 
-70 389 |
+72 198 |
 
-63 989 |
+65 634 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-123 776 |
+126 957 |
 
-90 123 |
+92 439 |
 
-82 615 |
+84 738 |
 
-75 101 |
+77 031 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-139 279 |
+142 858 |
 
-101 660 |
+104 273 |
 
-93 189 |
+95 584 |
 
-84 716 |
+86 893 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 15 525 |
++ 15 924 |
 
-+ 11 547 |
++ 11 844 |
 
-+ 10 586 |
++ 10 858 |
 
-+ 9 623 |
++ 9 870 |
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
 
-Pour les baux conclus en 2021, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+Pour les baux conclus en 2022, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 Composition du foyer locataire |
 
 Départements d'outre-mer, Saint-Martin, Saint-Barthélemy (en €) |
 
-Polynésie française, Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wallis-et-Futuna (en €) |
+Polynésie française, Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wallis et Futuna (en €) |
 
 Personne seule |
 
-29 581 |
+30 070 |
 
-25 398 |
+25 480 |
 
 Couple |
 
-39 500 |
+40 153 |
 
-46 969 |
+47 120 |
 
 Personne seule ou couple ayant une personne à charge |
 
-47 502 |
+48 287 |
 
-49 683 |
+49 843 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-57 338 |
+58 266 |
 
-52 400 |
+52 568 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-67 457 |
+68 571 |
 
-56 030 |
+56 210 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-76 021 |
+77 278 |
 
-59 662 |
+59 854 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 8 485 |
++ 8 626 |
 
-+ 3 814 |
++ 3 827 |
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
@@ -164,4 +164,4 @@ Pour l'application du présent article, les zones A, A bis, B 1, B 2 et C sont d
 
 NOTA :
 
-Modifications effectuées en conséquence du décret n° 2006-1005 du 10 août 2006, art. 1er G.
+Modifications effectuées en conséquence de l'article 1er G du décret n° 2006-1005 du 10 août 2006.

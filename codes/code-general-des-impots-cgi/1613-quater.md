@@ -12,7 +12,7 @@ II.-Le montant de la contribution est fixé à :
 
 1° 0,54 € par hectolitre pour les eaux minérales naturelles ou artificielles, eaux de source et autres eaux potables, eaux de laboratoire filtrées, stérilisées ou pasteurisées, ainsi que pour les boissons autres que les sirops, les jus de fruits ou de légumes et les nectars de fruits, lorsque ces produits sont livrés en fûts, bouteilles ou boîtes ;
 
-2° 3,11 € par hectolitre pour les produits contenant des édulcorants de synthèse, relevant des codes 2009 et 2202 de la nomenclature combinée du tarif des douanes, sans être des denrées destinées à des fins médicales spéciales ou des aliments hyperprotéinés destinés aux personnes dénutries, lorsque ces produits sont conditionnés dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel, ou sont préalablement assemblés et présentés dans des récipients non destinés à la vente au détail afin d'être consommables en l'état. Ce montant est relevé au 1er janvier de chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est exprimé avec deux chiffres après la virgule, le second chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq ;
+2° 3,12 € par hectolitre pour les produits contenant des édulcorants de synthèse, relevant des codes 2009 et 2202 de la nomenclature combinée du tarif des douanes, sans être des denrées destinées à des fins médicales spéciales ou des aliments hyperprotéinés destinés aux personnes dénutries, lorsque ces produits sont conditionnés dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel, ou sont préalablement assemblés et présentés dans des récipients non destinés à la vente au détail afin d'être consommables en l'état. Ce montant est relevé au 1er janvier de chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est exprimé avec deux chiffres après la virgule, le second chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq ;
 
 Pour les produits relevant à la fois du 1° et du 2°, chacun des deux montants est dû.
 
@@ -44,10 +44,10 @@ Ces informations et les attestations mentionnées au 2 du même IV sont tenues �
 
 D.-Les A à C du présent V s'appliquent également à toute personne acquérant les produits en suspension de contribution en application du 2 du IV, pour les quantités concernées.
 
-E.-Lorsque le redevable, ou la personne mentionnée au D, n'est pas établi dans un Etat membre de l'Union européenne ou dans l'un des Etats mentionnés au 1° du I de l'article 289 A du code général des impôts, il fait accréditer auprès du service des impôts compétent, dans les conditions prévues au IV du même article, un représentant assujetti à la taxe sur la valeur ajoutée établi en France qui s'engage à remplir les formalités au nom et pour le compte du représenté et, le cas échéant, à acquitter la contribution à sa place.
+E.-Lorsque le redevable, ou la personne mentionnée au D, n'est pas établi dans un Etat membre de l'Union européenne ou dans l'un des Etats mentionnés au 1° du I de l'article 289 A, il fait accréditer auprès du service des impôts compétent, dans les conditions prévues au IV du même article, un représentant assujetti à la taxe sur la valeur ajoutée établi en France qui s'engage à remplir les formalités au nom et pour le compte du représenté et, le cas échéant, à acquitter la contribution à sa place.
 
 VI.-Le produit de la contribution mentionnée au I est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code rural et de la pêche maritime, à l'exception de la part affectée en application du 4° bis de l'article L. 731-3 du même code.
 
 NOTA :
 
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Modifications effectuées en conséquence de l’article 199-I-5° de la loi n° 2018-1317 du 28 décembre 2018.

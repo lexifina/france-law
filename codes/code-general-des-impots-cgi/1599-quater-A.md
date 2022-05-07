@@ -4,7 +4,7 @@ I. – L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'appl
 
 II. – L'imposition forfaitaire est due chaque année par l'entreprise de transport ferroviaire qui dispose, pour les besoins de son activité professionnelle au 1er janvier de l'année d'imposition, de matériel roulant ayant été utilisé l'année précédente sur le réseau ferré national pour des opérations de transport de voyageurs.
 
-III. – Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant :
+III. – Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant
 
 CATÉGORIE DE MATÉRIELS ROULANTS |
 
@@ -16,11 +16,11 @@ Engins à moteur thermique |
 
 Automoteur |
 
-33 021 |
+33 516 |
 
 Locomotive diesel |
 
-33 021 |
+33 516 |
 
 Engins à moteur électrique |
 
@@ -28,19 +28,19 @@ Engins à moteur électrique |
 
 Automotrice |
 
-25 316 |
+25 696 |
 
 Locomotive électrique |
 
-22 015 |
+22 345 |
 
 Motrice de matériel à grande vitesse |
 
-38 526 |
+39 104 |
 
 Automotrice tram-train |
 
-12 660 |
+12 850 |
 
 Engins remorqués |
 
@@ -48,15 +48,15 @@ Engins remorqués |
 
 Remorque pour le transport de passagers |
 
-5 284 |
+5 363 |
 
 Remorque pour le transport de passagers à grande vitesse |
 
-11 007 |
+11 172 |
 
 Remorque tram-train |
 
-2 641 |
+2 681 |
 
 Les catégories de matériels roulants sont précisées par arrêté conjoint des ministres chargés du transport et du budget en fonction de leur capacité de traction, de captation de l'électricité, d'accueil de voyageurs et de leur performance.
 

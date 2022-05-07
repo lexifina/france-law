@@ -2,7 +2,7 @@
 
 I. – L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique :
 
-a) Aux répartiteurs principaux de la boucle locale cuivre au sens du 3° ter de l'article L. 32 du code des postes et des communications électroniques ;
+a) Aux répartiteurs principaux de la boucle locale cuivre au sens du 4° ter de l'article L. 32 du code des postes et des communications électroniques ;
 
 b) Aux points de mutualisation des réseaux de communications électroniques en fibre optique jusqu'à l'utilisateur final au sens de l'article L. 34-8-3 du code des postes et des communications électroniques ;
 
@@ -12,7 +12,7 @@ II. – L'imposition forfaitaire est due chaque année par le propriétaire de l
 
 III.-Le montant de l'imposition est établi de la manière suivante :
 
-Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imposition est fonction du nombre de lignes de la partie terminale du réseau qu'il raccorde et qui sont en service au 1er janvier de l'année d'imposition. Le tarif de l'imposition est fixé à 14,83 € par ligne en service.
+Pour chacun des équipements mentionnés aux a, b et c du I, le montant de l'imposition est fonction du nombre de lignes de la partie terminale du réseau qu'il raccorde et qui sont en service au 1er janvier de l'année d'imposition. Le tarif de l'imposition est fixé à 16,32 € par ligne en service.
 
 III bis.-1. Une ligne raccordée par un équipement mentionné aux a, b ou c du I n'est pas prise en compte dans le calcul du montant de l'imposition de l'équipement pendant les cinq années suivant celle de la première installation jusqu'à l'utilisateur final.
 
@@ -30,4 +30,4 @@ Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privi
 
 NOTA :
 
-Modification effectuée en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010 et de l'article 49-I-2° et III de la loi n° 2017-1775 du 28 décembre 2017.
+Modification effectuée en conséquence de l'article 112-III de la loi n° 2010-1657 du 29 décembre 2010, de l'article 49-I-2° et III de la loi n° 2017-1775 du 28 décembre 2017 et des articles 1er-5° et 59 de l' ordonnance n° 2021-650 du 26 mai 2021.

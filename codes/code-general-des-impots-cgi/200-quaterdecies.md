@@ -4,7 +4,7 @@ I. – Les contribuables fiscalement domiciliés en France au sens de l'article 
 
 Le premier alinéa s'applique également aux contribuables qui font construire un logement destiné à être affecté, dès son achèvement, à leur habitation principale. Dans cette situation, les prêts mentionnés au premier alinéa s'entendent de ceux qui sont contractés en vue de financer l'acquisition du terrain et les dépenses de construction.
 
-Le logement doit, au jour de l'affectation à usage d'habitation principale du bénéficiaire du crédit d'impôt, satisfaire aux normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en l'état futur d'achèvement ou que le contribuable fait construire doit présenter des caractéristiques thermiques et une performance énergétique atteignent les résultats minimaux définis en application des articles L. 171-1 et L. 172-1 du code de la construction et de l'habitation. Le contribuable justifie du respect de cette dernière condition selon des modalités définies par décret.
+Le logement doit, au jour de l'affectation à usage d'habitation principale du bénéficiaire du crédit d'impôt, satisfaire aux normes minimales de surface et d'habitabilité mentionnées à l'article 244 quater J. En outre, le logement acquis neuf, en l'état futur d'achèvement ou que le contribuable fait construire doit présenter des caractéristiques thermiques et une performance énergétique atteignant les résultats minimaux définis en application des articles L. 171-1 et L. 172-1 du code de la construction et de l'habitation. Le contribuable justifie du respect de cette dernière condition selon des modalités définies par décret.
 
 II. – Le I ne s'applique pas aux intérêts des prêts affectés :
 
@@ -56,4 +56,4 @@ X. ― Le présent article s'applique aux opérations pour lesquelles chacun des
 
 NOTA :
 
-Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
+Modifications effectuées en conséquence des articles 4-IX-2° et 8 de l'ordonnance n° 2020-71 du 29 janvier 2020.

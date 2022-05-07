@@ -2,17 +2,17 @@
 
 I. – Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général des impôts sont fixés comme suit :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2021, fixés à 10,55 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 12,83 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2022, fixés à 10,74 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 12,87 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de l'article 2 terdecies D.
 
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG terdecies.
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2021, les suivants :
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2022, les suivants :
 
 Composition du foyer locataire |
 
-Lieu de situation du logement : |
+Lieu de situation du logement |
 
 Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon (en €) |
 
@@ -20,45 +20,45 @@ Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna (en €) |
 
 Personne seule |
 
-28 606 |
+29 079 |
 
-31 099 |
+31 199 |
 
 Couple |
 
-38 202 |
+38 834 |
 
-41 528 |
+41 662 |
 
 Personne seule ou couple ayant une personne à charge |
 
-45 941 |
+46 700 |
 
-49 941 |
+50 101 |
 
 Personne seule ou couple ayant deux personnes à charge |
 
-55 461 |
+56 377 |
 
-60 290 |
+60 484 |
 
 Personne seule ou couple ayant trois personnes à charge |
 
-65 241 |
+66 320 |
 
-70 923 |
+71 151 |
 
 Personne seule ou couple ayant quatre personnes à charge |
 
-73 527 |
+74 742 |
 
-79 928 |
+80 185 |
 
 Majoration par personne à charge supplémentaire à partir de la cinquième |
 
-+ 8 206 |
++ 8 342 |
 
-+ 8 920 |
++ 8 949 |
 
 Pour l'application du présent 2, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du même code.
 
@@ -72,4 +72,4 @@ III. – La réduction des plafonds de loyer définis au premier alinéa du 1 du
 
 NOTA :
 
-Modifications effectuées en conséquence du décret n° 2013-474 du 5 juin 2013, art. 1er-1°.
+Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2013-474 du 5 juin 2013.

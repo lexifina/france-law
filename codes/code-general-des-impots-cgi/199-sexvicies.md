@@ -39,3 +39,7 @@ En cas de non-respect de l'engagement de location ou de cession du logement, la 
 La réduction n'est pas applicable au titre des logements dont le droit de propriété est démembré. Toutefois, lorsque le transfert de la propriété du bien ou le démembrement de ce droit résulte du décès de l'un des époux soumis à imposition commune, le conjoint survivant attributaire du bien ou titulaire de son usufruit peut demander la reprise à son profit, dans les mêmes conditions et selon les mêmes modalités, du bénéfice de la réduction prévue au présent article pour la période restant à courir à la date du décès.
 
 IV. – Un contribuable ne peut, pour un même logement, bénéficier à la fois des réductions d'impôt mentionnées aux articles 199 undecies A et 199 undecies B et des dispositions du présent article.
+
+NOTA :
+
+Modifications effectuées en conséquence de l’article 30 de la loi 2021-502 du 26 avril 2021.

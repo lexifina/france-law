@@ -22,7 +22,7 @@ La location du logement consentie à un organisme public ou privé qui le donne 
 
 La réduction d'impôt n'est pas applicable aux logements dont le droit de propriété est démembré ou aux logements appartenant à une société non soumise à l'impôt sur les sociétés dont le droit de propriété des parts est démembré. Elle n'est pas non plus applicable aux immeubles classés ou inscrits au titre des monuments historiques ou ayant reçu le label délivré par la Fondation du patrimoine, mentionnés au premier alinéa du 3° du I de l'article 156, et aux logements financés au moyen d'un prêt mentionné à l'article D. 331-1 du code de la construction et de l'habitation ayant fait l'objet d'un dépôt de permis de construire à compter du 1er janvier 2010.
 
-II. – La réduction d'impôt n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance énergétique sont atteignent les résultats minimaux définis en application des articles L. 171-1 et L. 172-1 du code de la construction et de l'habitation. Le respect de cette condition est justifié par le contribuable selon des modalités définies par décret.
+II. – La réduction d'impôt n'est applicable qu'aux logements dont les caractéristiques thermiques et la performance énergétique atteignent les résultats minimaux définis en application des articles L. 171-1 et L. 172-1 du code de la construction et de l'habitation. Le respect de cette condition est justifié par le contribuable selon des modalités définies par décret.
 
 Le premier alinéa s'applique à compter du 1er janvier 2010.
 
@@ -126,6 +126,4 @@ Pour l'application du présent XI, le plafond de loyer mentionné au III ainsi q
 
 NOTA :
 
-Conformément à l'article 8 de l'ordonnance 2020-71 du 29 janvier 2020, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er juillet 2021.
-
-Modification effectuée en conséquence de l’article 5-II-3° du décret n° 2019-873 du 21 août 2019.
+Modifications effectuées en conséquence des articles 4-IX-2° et 8 de l'ordonnance n° 2020-71 du 29 janvier 2020.

@@ -42,7 +42,7 @@ c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du
 
 7. (Périmé)
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts.
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies A, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts .
 
 9. Un état faisant apparaître les charges financières nettes non admises en déduction du résultat d'ensemble de l'exercice en application des I, VI et VII de l'article 223 B bis du code général des impôts, ainsi que le suivi des charges financières nettes non admises en déduction au titre des exercices précédents et des capacités de déduction inemployées au titre des cinq exercices précédents, en application du VIII de l'article 223 B bis précité.
 
@@ -52,4 +52,4 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 NOTA :
 
-Modifications effectuées en conséquence de l'article 40-I C 1° et II de la loi n° 2015-1786 du 29 décembre 2015.
+En conséquence du décret n° 2022-782 du 4 mai 2022, art. 3, cet article devient sans objet.

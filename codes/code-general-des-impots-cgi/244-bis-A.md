@@ -54,7 +54,7 @@ III. – Lorsque le prélèvement mentionné au I est dû par une personne moral
 
 Par dérogation au III bis et au premier alinéa du présent III, le prélèvement dû par des personnes morales résidentes d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et n'étant pas non coopératif au sens de l'article 238-0 A est déterminé selon les règles d'assiette et de taux prévues en matière d'impôt sur les sociétés dans les mêmes conditions que celles applicables à la date de la cession aux personnes morales résidentes de France.
 
-III bis. – 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux prévu à la première phrase du deuxième alinéa du I de l'article 219.
+III bis. – 1. Les plus-values réalisées par les personnes et organismes mentionnés au 2 du I lors de la cession des biens ou droits mentionnés au 3 du même I sont soumises au prélèvement selon le taux prévu au deuxième alinéa du I de l'article 219.
 
 Toutefois, les personnes physiques, les associés personnes physiques de sociétés, groupements ou organismes dont les bénéfices sont imposés au nom des associés et les porteurs de parts, personnes physiques, de fonds de placement immobilier mentionnés à l'article 239 nonies sont soumis au prélèvement au taux de 19 %.
 
@@ -88,4 +88,4 @@ Il s'impute, le cas échéant, sur le montant de l'impôt sur les sociétés dû
 
 NOTA :
 
-Se reporter aux dispositions mentionnées au E du III de l'article 30 de la loi n° 2021-1900 du 30 décembre 2021.
+Modifications effectuées en conséquence de l’article 84-I F 2° et III D de la loi n° 2017-1837 du 30 décembre 2017.
