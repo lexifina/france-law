@@ -336,6 +336,10 @@ Paris-Bata ;
 
 Paris-Malabo ;
 
+Guyana :
+
+Paris-Georgetown ;
+
 Haïti :
 
 Paris-Port-au-Prince ;
