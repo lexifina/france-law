@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — santé, social et solidarités
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2022-05-11
+- Matière : 9.3.2 Santé, social et solidarités
+- Objet : santé, social et solidarités
+- Transmis à la préfecture : 2022-05-11
+- Votants : 28
+- Pour : 24
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-52151.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
