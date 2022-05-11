@@ -2,38 +2,38 @@
 
 QUOTA D'EFFORT DE PÊCHE ATTRIBUÉ AUX NAVIRES DE PÊCHE BATTANT PAVILLON FRANÇAIS POUR LA PÊCHE PROFESSIONNELLE À LA SENNE DE PLAGE EN MER MÉDITERRANÉE
 
-Quota : 1 386 jours.
+Quota : 638 jours.
 
 |
 
 NOMBRE DE JOURS DE PÊCHE PAR ANNÉE DE GESTION |
 
-Navires adhérents à l'organisation de producteurs Organisation de producteurs du Sud (OP DU SUD). |
+Navires adhérents à l'organisation de producteurs Organisation de Producteurs du Sud (OP DU SUD). |
 
-82 |
+38 |
 
-Navires adhérents à l'organisation de producteurs SA Coopérative maritime des pêcheurs de Sète-Mole (SATHOAN). |
+Navires adhérents à l'organisation de producteurs SA Coopérative Maritime des pêcheurs de Sète-Mole (SATHOAN). |
 
 0 |
 
-Navires adhérents à l'organisation de producteurs Organisation de producteurs du Levant (OP du Levant) |
+Navires adhérents à l'organisation de producteurs Organisation de Producteurs du Levant (OP du Levant) |
 
-162 |
+74 |
 
 Navires non adhérents à une organisation de producteurs dans le respect des limitations ci-dessous : |
 
-- pour les navires immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur ; |
+-pour les navires immatriculés dans le ressort de la région Provence-Alpes-Côte d'Azur ; |
 
-571 |
+263 |
 
-- pour les navires immatriculés dans le ressort de la région Occitanie ; |
+-pour les navires immatriculés dans le ressort de la région Occitanie ; |
 
-571 |
+263 |
 
-- pour les navires immatriculés dans le ressort de la collectivité territoriale de Corse. |
+-pour les navires immatriculés dans le ressort de la collectivité territoriale de Corse. |
 
 0 |
 
 Total |
 
-1 386 |
+638 |
