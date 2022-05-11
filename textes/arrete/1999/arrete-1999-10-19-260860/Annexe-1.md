@@ -44,57 +44,21 @@ Pour l'utilisation des terminaux de l'aéroport de Paris-Orly, le coordonnateur 
 
 Pour ce faire, le coordonnateur évalue l'impact de chaque attribution de créneau horaire sur les tranches de 20 minutes et 120 minutes concernées en regard des nombres maximaux, sur la base de l'appareil envisagé et d'un coefficient de remplissage moyen.
 
-Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement d'un ou des deux nombres maximaux, le coordonnateur, en liaison avec le Groupe ADP, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
+Dans les cas où l'attribution d'un créneau horaire conduirait au dépassement d'un ou des deux nombres maximaux, le coordonnateur, en liaison avec la société ADP, requiert la coopération du transporteur aérien concerné en vue de lui faire modifier, dans toute la mesure du possible, l'horaire sollicité.
 
-Pour la saison aéronautique d'été 2021 :
-
-Terminal |
-
-Nombre maximal de passagers
-
-par 20 min au départ |
-
-Nombre maximal de passagers
-
-par 120 min au départ |
-
-Orly 1 |
-
-1400 |
-
-8700 |
-
-Orly 2 |
-
-550 |
-
-Orly 3 |
-
-1500 |
-
-Orly 4 |
-
-1100 |
-
-3400 |
-
-Pour la saison aéronautique d'hiver 2021/2022 :
+Pour la saison aéronautique d'été 2022 :
 
 Terminal |
 
-Nombre maximal de passagers
+Nombre maximal de passagers par 20 min au départ |
 
-par 20 min au départ |
-
-Nombre maximal de passagers
-
-par 120 min au départ |
+Nombre maximal de passagers par 120 min au départ |
 
 Orly 1 |
 
-1400 |
+1 400 |
 
-8700 |
+8 100 |
 
 Orly 2 |
 
@@ -102,42 +66,40 @@ Orly 2 |
 
 Orly 3 |
 
-1500 |
+1 500 |
 
 Orly 4 |
 
-1100 |
+1 100 |
 
-3400 |
+3 400 |
 
-A compter de la saison aéronautique d'été 2022 :
+A compter de la saison aéronautique d'hiver 2022/2023 :
 
 Terminal |
 
-Nombre maximal de passagers
+Nombre maximal de passagers par 20 min au départ |
 
-par 20 min au départ |
-
-Nombre maximal de passagers
-
-par 120 min au départ |
+Nombre maximal de passagers par 120 min au départ |
 
 Orly 1 |
 
-1200 |
+1 500 |
 
-8100 |
+9 500 |
 
 Orly 2 |
 
-700 |
+750 |
 
 Orly 3 |
 
-1500 |
+1 600 |
 
 Orly 4 |
 
-1100 |
+1 100 |
 
-3400 |
+3 400
+
+|
