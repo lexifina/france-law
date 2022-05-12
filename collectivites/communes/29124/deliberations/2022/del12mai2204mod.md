@@ -1,0 +1,10 @@
+# COMMUNE DE LESNEVEN : délibération DEL12MAI2204MOD — MODIFICATION DES INDEMNITES DE FONCTION DES MEMBRES DU CONSEIL MUNICIPAL
+
+- Collectivité : COMMUNE DE LESNEVEN
+- SIRET : 21290124300015
+- Code INSEE : 29124
+- Date : 2022-05-12
+- Matière : 7.1 Finances locales/Divers
+- Objet : MODIFICATION DES INDEMNITES DE FONCTION DES MEMBRES DU CONSEIL MUNICIPAL
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212901243/Deliberation/2022/116775/46d436f35b2e5448d227dc8012b4e65ba7b599b759081f10e198da269d6d962f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
