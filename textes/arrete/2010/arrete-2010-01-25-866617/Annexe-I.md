@@ -2,1893 +2,55 @@
 
 PERTINENCE DES ÉLÉMENTS DE QUALITÉ DE L'ÉTAT ÉCOLOGIQUE DES EAUX DE SURFACE
 
-L'élément de qualité substances de l'état écologique est pertinent pour tous les types et catégories de masse d'eau de surface (cours d'eau, plans d'eau, eaux de transition et eaux côtières), que ces masses d'eau soient naturelles, artificielles, ou fortement modifiées.
+La pertinence des éléments de qualité de l'état écologique est définie par types de masse d'eau (cf. arrêté du 12 janvier 2010 modifié relatif aux méthodes et aux critères à mettre en œuvre pour délimiter et classer les masses d'eau et dresser l'état des lieux prévu à l'article R. 212-3 du code de l'environnement). Un élément de qualité est considéré pertinent pour un type de masse d'eau de surface naturelle lorsqu'il apporte des informations valables pour permettre à terme d'en évaluer l'état écologique. Cela implique notamment de pouvoir définir à terme pour cet élément de qualité des valeurs de référence pour le type de masse d'eau de surface naturelle considéré. En revanche, la pertinence d'un élément de qualité pour un type de masse d'eau de surface naturelle donné est indépendante de la disponibilité actuelle des valeurs caractéristiques de ce type de masse d'eau pour cet élément de qualité, et indépendante également de la disponibilité actuelle d'une méthode d'évaluation de l'état pour cet élément de qualité.
 
-Un élément de qualité (hors substances) est pertinent pour un type de masse d'eau de surface lorsqu'il apporte des informations valables pour en évaluer l'état écologique. Cela implique de pouvoir définir pour cet élément des valeurs de référence caractéristiques du type de masses d'eau de surface considéré, indépendamment de la disponibilité actuelle de ces valeurs.
+Les éléments de qualité applicables aux masses d'eau de surface artificielles ou fortement modifiées sont ceux qui sont applicables aux masses d'eau des catégories d'eau de surface naturelle (cours d'eau, plan d'eau, eaux de transition ou eaux côtières) qui ressemblent le plus à la masse d'eau de surface artificielle ou fortement modifiée concernée.
 
-La collecte des données est menée sur l'ensemble des types de masse d'eau de surface où l'élément de qualité est pertinent même si les modalités d'évaluation de l'état écologique pour cet élément de qualité ne sont pas arrêtées.
+Pour les masses d'eau cours d'eau et plan d'eau :
 
-Les éléments de qualité applicables aux masses d'eau de surface artificielles ou fortement modifiées sont ceux qui sont applicables aux masses d'eau des catégories d'eau de surface naturelle (cours d'eau ou plan d'eau) qui ressemblent le plus à la masse d'eau de surface artificielle ou fortement modifiée concernée.
+-la pertinence de chacun des éléments de qualité biologique est évaluée dans le 1 et le 2 de la présente annexe. A noter que tous les éléments de qualité biologique ne sont pas pertinents sur les canaux : le cas des canaux est précisé pour chaque élément de qualité dans le 1 de la présente annexe ;
 
-La pertinence des éléments de qualité physico-chimique (hors substances) et hydromorphologique des eaux douces de surface est précisée dans la colonne sites concernés des tableaux 44 et 45 de l'annexe VI.
+-les éléments de qualité physico-chimique sont pertinents pour toutes les masses d'eau cours d'eau et plans d'eau, à l'exception des paramètres à suivre dans la matrice sédiments. Les paramètres physico-chimiques à suivre dans la matrice sédiments ne sont pas pertinents à la Réunion pour les masses d'eau cours d'eau uniquement. En dehors de la Réunion, ils ne sont pertinents à suivre que lorsque le suivi sur sédiments est possible ;
 
-La pertinence des éléments de qualité de l'état écologique est définie par typologie de masse d'eau (cf. arrêté du 12 janvier 2010 relatif aux méthodes et aux critères à mettre en œuvre pour délimiter et classer les masses d'eau et dresser l'état des lieux prévu à l'article R. 212-3 du code de l'environnement) :
+-les éléments de qualité hydromorphologique sont pertinents à suivre pour toutes les masses d'eau cours d'eau et plans d'eau (à l'exception de l'élément de qualité régime hydrologique, qui n'est pas pertinent en canaux) ;
 
--pour les cours d'eau et plans d'eau, la pertinence de chacun des éléments de qualité biologique est évaluée dans les tableaux 1 à 12 ; la physico-chimie et l'hydromorphologie étant pertinentes pour toutes les typologies. A noter que tous les éléments de qualité biologiques ne sont pas pertinents sur les canaux : le cas des canaux est ainsi traité en bas de tableau de chaque élément ;
+-pour les masses d'eaux côtières et de transition : la pertinence de chacun des éléments de qualité biologique, physico-chimique et hydromorphologique est évaluée dans le 3. de la présente annexe, dans les tableaux 13 à 22.
 
--pour les masses d'eaux côtières et de transition, la pertinence de chacun des éléments de qualité biologique et physico-chimiques est évaluée dans les tableaux 13 à 22 ; l'hydromorphologie étant pertinente pour toutes les masses d'eau.
+1. Pertinence des éléments de qualité biologique en cours d'eau
 
-Tableau 1 : pertinence de l'élément de qualité invertébrés
+1.1. Invertébrés
 
-pour l'évaluation écologique des cours d'eau de métropole |
+En métropole, l'élément de qualité invertébrés est pertinent à surveiller pour tous les types de cours d'eau de la typologie nationale. En outre-mer, l'élément de qualité invertébrés est pertinent à surveiller pour tous les types de cours d'eau de la typologie nationale, sauf les cours d'eau de l'hydroécorégion Grande Terre et autres îles de Guadeloupe (excepté Basse Terre) du bassin de la Guadeloupe (type MP32).
 
-Case blanche avec code : type pertinent-case grise
+Cet élément de qualité est pertinent à surveiller en canaux, sous réserve que la méthode d'échantillonnage préconisée dans l'avis relatif aux méthodes d'échantillonnage, de traitement et d'analyse des échantillons à utiliser dans le domaine de la surveillance de l'état écologique et chimique des eaux de surface puisse être appliquée.
 
-avec code : type non pertinent |
+1.2. Phytobenthos (diatomées)
 
-Hydroécorégions de niveau 1 |
+En métropole, l'élément de qualité phytobenthos est pertinent à surveiller pour tous les types de cours d'eau de la typologie nationale. En outre-mer, l'élément de qualité phytobenthos est pertinent à surveiller pour tous les types de cours d'eau de la typologie nationale, sauf les cours d'eau de l'hydroécorégion Grande Terre et autres îles de Guadeloupe (excepté Basse Terre) du bassin de la Guadeloupe (type MP32).
 
-Classes de taille de cours d'eau
+Cet élément de qualité est pertinent à surveiller en canaux.
 
-Cas général, cours d'eau exogène de l'HER
+1.3. Phytoplancton
 
-de niveau 1 indiquée ou HER de niveau 2 |
+La pertinence de l'élément de qualité phytoplancton pour les cours d'eau de métropole est détaillée dans le tableau 1 ci-après. En outre-mer, l'élément de qualité phytoplancton est pertinent à surveiller uniquement pour les très grands cours d'eau de Guyane (types TG51 et TG52).
 
-Très Grands |
+Cet élément de qualité peut en outre être pertinent sur certains cours d'eau lents et profonds (à évaluer localement). Cet élément de qualité est pertinent pour les canaux.
 
-Grands |
+Tableau 1.-Pertinence de l'élément de qualité phytoplancton pour les cours d'eau de métropole
 
-Moyens |
-
-Petits |
-
-Très Petits |
-
-20 |
-
-DEPOTS ARGILO SABLEUX |
-
-Cas général |
-
-|
-
-GM20 |
-
-P20 |
-
-TP20 |
-
-Exogène de l'HER 9 (Tables Calcaires) |
-
-|
-
-GM20/9 |
-
-|
-
-|
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-|
-
-G21 |
-
-M21 |
-
-|
-
-|
-
-21 |
-
-MASSIF CENTRAL NORD |
-
-Cas général |
-
-|
-
-P21 |
-
-TP21 |
-
-3 |
-
-MASSIF CENTRAL SUD |
-
-Cas général |
-
-|
-
-G3 |
-
-M3 |
-
-P3 |
-
-TP3 |
-
-Exogène de l'HER 19 (Grands Causses) |
-
-|
-
-|
-
-M3/19 |
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-|
-
-|
-
-M3/8 |
-
-|
-
-|
-
-Exogène de l'HER 19 ou 8 |
-
-|
-
-G3/19-8 |
-
-|
-
-|
-
-|
-
-17 |
-
-DEPRESSIONS SEDIMENTAIRES |
-
-Cas général |
-
-|
-
-|
-
-M17 |
-
-P17 |
-
-TP17 |
-
-Exogène de l'HER 3 ou 21 (M. Cent. S ou N) |
-
-TG17/3-21 |
-
-G17/3-21 |
-
-M15-17/3-21 |
-
-P17/3-21 |
-
-TP17/3-21 |
-
-15 |
-
-PLAINE SAONE |
-
-Exogène de l'HER 3 ou 21 |
-
-|
-
-|
-
-|
-
-|
-
-Exogène de l'HER 5 (Jura) |
-
-|
-
-G15/5 |
-
-MP15/5 |
-
-Cas général |
-
-TG15 |
-
-|
-
-MP15 |
-
-TP15 |
-
-Exogène de l'HER 4 (Vosges) |
-
-TG10-15/4 |
-
-|
-
-|
-
-|
-
-|
-
-5 |
-
-JURA/ PRE-ALPES DU NORD |
-
-Cas général |
-
-|
-
-G5 |
-
-M5 |
-
-P5 |
-
-TP5 |
-
-Exogène de l'HER 2 (Alpes Internes) |
-
-TG5/2 |
-
-GM5/2 |
-
-|
-
-|
-
-TTGA |
-
-FLEUVES ALPINS |
-
-Cas général |
-
-TTGA |
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-ALPES INTERNES |
-
-Cas général |
-
-|
-
-G2 |
-
-MP2 |
-
-TP2 |
-
-7 |
-
-PRE-ALPES DU SUD |
-
-Cas général |
-
-|
-
-GMP7 |
-
-TP7 |
-
-Exogène de l'HER 2 (Alpes Internes) |
-
-TG6-7/2 |
-
-GM7/2 |
-
-|
-
-|
-
-6 |
-
-MEDITERRANEE |
-
-Exogène de l'HER 2 ou 7 |
-
-GM6/2-7 |
-
-|
-
-|
-
-|
-
-Exogène de l'HER 7 (Pré-Alpes du Sud) |
-
-|
-
-GM6/2-7 |
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-TG6/1-8 |
-
-GM6/8 |
-
-|
-
-|
-
-Exogène de l'HER 1 (Pyrénées) |
-
-GM6/1 |
-
-|
-
-|
-
-Cas général |
-
-|
-
-G6 |
-
-MP6 |
-
-TP6 |
-
-8 |
-
-CEVENNES |
-
-Cas général |
-
-|
-
-GM8 |
-
-PTP8 |
-
-A-HER niveau 2 n° 70 |
-
-|
-
-|
-
-M8-A |
-
-PTP8-A |
-
-16 |
-
-CORSE |
-
-A-HER niveau 2 n° 22 |
-
-|
-
-G16 |
-
-M16-A |
-
-PTP16-A |
-
-B-HER niveau 2 n° 88 |
-
-|
-
-M16-B |
-
-PTP16-B |
-
-19 |
-
-GRANDS CAUSSES |
-
-Cas général |
-
-|
-
-|
-
-|
-
-P19 |
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-|
-
-GM19/8 |
-
-|
-
-|
-
-11 |
-
-CAUSSES AQUITAINS |
-
-Cas général |
-
-|
-
-|
-
-|
-
-P11 |
-
-TP11 |
-
-Exogène de l'HER 3 (MCN) et/ ou 21 (MCS) |
-
-TG11/3-21 |
-
-G11/3-21 |
-
-M11/3-21 |
-
-P11/3-21 |
-
-|
-
-14 |
-
-COTEAUX AQUITAINS |
-
-Exogène des HER 3,8,11 ou 19 |
-
-TG14/3-11 |
-
-G14/3 |
-
-M14/3-11 |
-
-|
-
-|
-
-Exogène de l'HER 3 (MCN) ou 8 (Cév.) |
-
-|
-
-M14/3-8 |
-
-|
-
-|
-
-Cas général |
-
-|
-
-GM14 |
-
-P14 |
-
-TP14 |
-
-Exogène de l'HER 1 (Pyrénées) |
-
-TG14/1 |
-
-G14/1 |
-
-M14/1 |
-
-P14/1 |
-
-|
-
-13 |
-
-LANDES |
-
-Cas général |
-
-|
-
-|
-
-M13 |
-
-P13 |
-
-TP13 |
-
-1 |
-
-PYRENEES |
-
-Cas général |
-
-|
-
-G1 |
-
-M1 |
-
-P1 |
-
-TP1 |
-
-12 |
-
-ARMORICAIN |
-
-A-Centre-Sud (HER niveau 2 n° 58 et 117) |
-
-|
-
-G12 |
-
-M12-A |
-
-P12-A |
-
-TP12-A |
-
-B-Ouest-N E (HER niveau 2 n° 55,59 et 118) |
-
-|
-
-M12-B |
-
-P12-B |
-
-TP12-B |
-
-TTGL |
-
-LA LOIRE |
-
-Cas général |
-
-TTGL |
-
-|
-
-|
-
-|
-
-|
-
-9 |
-
-TABLES CALCAIRES |
-
-A-HER niveau 2 n° 57 |
-
-|
-
-|
-
-M9-A |
-
-P9-A |
-
-|
-
-Cas général |
-
-TG9 |
-
-G9 |
-
-M9 |
-
-P9 |
-
-TP9 |
-
-Exogène de l'HER 10 |
-
-|
-
-G9/10 |
-
-M9/10 |
-
-|
-
-|
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-TG9/21 |
-
-G9-10/21 |
-
-M9-10/21 |
-
-|
-
-|
-
-10 |
-
-COTES CALCAIRES EST |
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-|
-
-|
-
-|
-
-Cas général |
-
-TG10-15/4 |
-
-G10 |
-
-M10 |
-
-P10 |
-
-TP10 |
-
-Exogène de l'HER 4 (Vosges) |
-
-G10/4 |
-
-M10/4 |
-
-|
-
-|
-
-4 |
-
-VOSGES |
-
-Cas général |
-
-|
-
-M4 |
-
-P4 |
-
-TP4 |
-
-22 |
-
-ARDENNES |
-
-Exogène de l'HER 10 (Côtes Calcaires Est) |
-
-TG22/10 |
-
-|
-
-|
-
-|
-
-|
-
-Cas général |
-
-|
-
-GM22 |
-
-P22 |
-
-TP22 |
-
-18 |
-
-ALSACE |
-
-Cas général |
-
-|
-
-|
-
-MP18 |
-
-TP18 |
-
-Exogène de l'HER 4 (Vosges) |
-
-|
-
-G18/4 |
-
-M18/4 |
-
-P18/4 |
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire métropolitain.
-
-Cet élément de qualité est pertinent sur les canaux. |
-
-Tableau 2 : pertinence de l'élément de qualité invertébrés pour l'évaluation écologique des cours d'eau des DOM |
-
-Pertinence, par type
-
-Case blanche avec code : type pertinent-case grise avec code : type non pertinent |
-
-Bassin |
-
-Hydroécorégions |
-
-Très grands |
-
-Grands |
-
-Moyens |
-
-Petits |
-
-Très petits |
-
-Réunion |
-
-1 |
-
-Cirques au vent |
-
-|
-
-|
-
-M61 |
-
-P61 |
-
-|
-
-2 |
-
-Cirques sous le vent |
-
-|
-
-|
-
-M62 |
-
-P62 |
-
-|
-
-3 |
-
-Versants au vent |
-
-|
-
-|
-
-MP63 |
-
-|
-
-4 |
-
-Versants sous le vent |
-
-|
-
-|
-
-MP64 |
-
-|
-
-Guadeloupe |
-
-1 |
-
-Basse-Terre plaine nord-est |
-
-|
-
-|
-
-MP31 |
-
-|
-
-2 |
-
-Grande Terre Volcans |
-
-|
-
-|
-
-MP32 |
-
-|
-
-3 |
-
-Basse-Terre volcans |
-
-|
-
-|
-
-M33 |
-
-P33 |
-
-|
-
-Martinique |
-
-1 |
-
-Pitons du Nord |
-
-|
-
-|
-
-M41 |
-
-P41 |
-
-|
-
-2 |
-
-Mornes du Sud |
-
-|
-
-|
-
-MP42 |
-
-|
-
-Guyane |
-
-1 |
-
-Plaine littorale du Nord |
-
-TG51 |
-
-G51 |
-
-M51 |
-
-PTP51 |
-
-2 |
-
-Bouclier guyanais |
-
-TG52 |
-
-G52 |
-
-M52 |
-
-PTP52 |
-
-Mayotte (*) |
-
-1 |
-
-Versant nord-ouest au vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-Versant est sous le vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 |
-
-Versant sud |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire.
-
-(*) Il n'y a pas de typologie des cours d'eau de Mayotte. Cependant le SDAGE de Mayotte reconnait trois secteurs, correspondant à un découpage préliminaire en HER, réalisé dans le cadre de l'état des lieux du district hydrographique de Mayotte en 2007. Trois HER y sont reconnues : versant nord-ouest au vent, versant est sous le vent et versant sud, comprenant respectivement 16,7 et 3 masses d'eau. Ce découpage n'a pas été validé par l'Irstea. |
-
-Tableau 3 : pertinence de l'élément de qualité diatomées en cours d'eau de métropole |
-
-Pertinence, par type
-
-Case blanche avec code : type pertinent-case grise
-
-avec code : type non pertinent |
-
-Hydroécorégions de niveau 1 |
-
-Classes de taille de cours d'eau
-
-Cas général, cours d'eau exogène de l'HER
-
-de niveau 1 indiquée ou HER de niveau 2 |
-
-Très Grands |
-
-Grands |
-
-Moyens |
-
-Petits |
-
-Très Petits |
-
-20 |
-
-DEPOTS ARGILO SABLEUX |
-
-Cas général |
-
-|
-
-GM20 |
-
-P20 |
-
-TP20 |
-
-Exogène de l'HER 9 (Tables Calcaires) |
-
-|
-
-GM20/9 |
-
-|
-
-|
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-|
-
-G21 |
-
-M21 |
-
-|
-
-|
-
-21 |
-
-MASSIF CENTRAL NORD |
-
-Cas général |
-
-|
-
-P21 |
-
-TP21 |
-
-3 |
-
-MASSIF CENTRAL SUD |
-
-Cas général |
-
-|
-
-G3 |
-
-M3 |
-
-P3 |
-
-TP3 |
-
-Exogène de l'HER 19 (Grands Causses) |
-
-|
-
-|
-
-M3/19 |
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-|
-
-|
-
-M3/8 |
-
-|
-
-|
-
-Exogène de l'HER 19 ou 8 |
-
-|
-
-G3/19-8 |
-
-|
-
-|
-
-|
-
-17 |
-
-DEPRESSIONS SEDIMENTAIRES |
-
-Cas général |
-
-|
-
-|
-
-M17 |
-
-P17 |
-
-TP17 |
-
-Exogène de l'HER 3 ou 21 (M. Cent. S ou N) |
-
-TG17/3-21 |
-
-G17/3-21 |
-
-M15-17/3-21 |
-
-P17/3-21 |
-
-TP17/3-21 |
-
-15 |
-
-PLAINE SAONE |
-
-Exogène de l'HER 3 ou 21 |
-
-|
-
-|
-
-|
-
-|
-
-Exogène de l'HER 5 (Jura) |
-
-|
-
-G15/5 |
-
-MP15/5 |
-
-Cas général |
-
-TG15 |
-
-|
-
-MP15 |
-
-TP15 |
-
-Exogène de l'HER 4 (Vosges) |
-
-TG10-15/4 |
-
-|
-
-|
-
-|
-
-|
-
-5 |
-
-JURA/ PRE-ALPES DU NORD |
-
-Cas général |
-
-|
-
-G5 |
-
-M5 |
-
-P5 |
-
-TP5 |
-
-Exogène de l'HER 2 (Alpes Internes) |
-
-TG5/2 |
-
-GM5/2 |
-
-|
-
-|
-
-TTGA |
-
-FLEUVES ALPINS |
-
-Rhin, Rhône jusqu'à Lyon |
-
-TTGA |
-
-|
-
-|
-
-|
-
-|
-
-TTGA |
-
-FLEUVES ALPINS |
-
-Rhône de l'aval confluence Saône à Lyon jusqu'à l'exutoire |
-
-TTGA |
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-ALPES INTERNES |
-
-Cas général |
-
-|
-
-G2 |
-
-MP2 |
-
-TP2 |
-
-7 |
-
-PRE-ALPES DU SUD |
-
-Cas général |
-
-|
-
-GMP7 |
-
-TP7 |
-
-Exogène de l'HER 2 (Alpes Internes) |
-
-TG6-7/2 |
-
-GM7/2 |
-
-|
-
-|
-
-6 |
-
-MEDITERRANEE |
-
-Exogène de l'HER 2 ou 7 |
-
-GM6/2-7 |
-
-|
-
-|
-
-|
-
-Exogène de l'HER 7 (Pré-Alpes du Sud) |
-
-|
-
-GM6/2-7 |
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-TG6/1-8 |
-
-GM6/8 |
-
-|
-
 |
-
-Exogène de l'HER 1 (Pyrénées) |
-
-GM6/1 |
-
-|
-
-|
-
-Cas général |
-
-|
-
-G6 |
-
-MP6 |
-
-TP6 |
-
-8 |
-
-CEVENNES |
-
-Cas général |
-
-|
-
-GM8 |
-
-PTP8 |
-
-A-HER niveau 2 n° 70 |
-
-|
-
-|
-
-M8-A |
-
-PTP8-A |
-
-16 |
-
-CORSE |
-
-A-HER niveau 2 n° 22 |
-
-|
-
-G16 |
-
-M16-A |
-
-PTP16-A |
-
-B-HER niveau 2 n° 88 |
-
-|
-
-M16-B |
-
-PTP16-B |
-
-19 |
-
-GRANDS CAUSSES |
-
-Cas général |
-
-|
-
-|
-
-|
-
-P19 |
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-|
-
-GM19/8 |
-
-|
-
-|
-
-11 |
-
-CAUSSES AQUITAINS |
-
-Cas général |
-
-|
-
-|
-
-|
-
-P11 |
-
-TP11 |
-
-Exogène de l'HER 3 (MCN) et/ ou 21 (MCS) |
-
-TG11/3-21 |
-
-G11/3-21 |
-
-M11/3-21 |
-
-P11/3-21 |
-
-|
-
-14 |
-
-COTEAUX AQUITAINS |
-
-Exogène des HER 3,8,11 ou 19 |
-
-TG14/3-11 |
-
-G14/3 |
-
-M14/3-11 |
-
-|
-
-|
-
-Exogène de l'HER 3 (MCN) ou 8 (Cév.) |
-
-|
-
-M14/3-8 |
-
-|
-
-|
-
-Cas général |
-
-|
-
-GM14 |
-
-P14 |
-
-TP14 |
-
-Exogène de l'HER 1 (Pyrénées) |
-
-TG14/1 |
-
-G14/1 |
-
-M14/1 |
-
-P14/1 |
-
-|
-
-13 |
-
-LANDES |
-
-Cas général |
-
-|
-
-|
-
-M13 |
-
-P13 |
-
-TP13 |
-
-1 |
-
-PYRENEES |
-
-Cas général |
-
-|
-
-G1 |
-
-M1 |
-
-P1 |
-
-TP1 |
-
-12 |
-
-ARMORICAIN |
-
-A-Centre-Sud (HER niveau 2 n° 58 et 117) |
-
-|
-
-G12 |
-
-M12-A |
-
-P12-A |
-
-TP12-A |
-
-B-Ouest-N E (HER niveau 2 n° 55,59 et 118) |
-
-|
-
-M12-B |
-
-P12-B |
-
-TP12-B |
-
-TTGL |
-
-LA LOIRE |
-
-Cas général |
-
-TTGL |
-
-|
-
-|
-
-|
-
-|
-
-9 |
-
-TABLES CALCAIRES |
-
-A-HER niveau 2 n° 57 |
-
-|
-
-|
-
-M9-A |
-
-P9-A |
-
-|
-
-Cas général |
-
-TG9 |
-
-G9 |
-
-M9 |
-
-P9 |
-
-TP9 |
-
-Exogène de l'HER 10 |
-
-|
-
-G9/10 |
-
-M9/10 |
-
-|
-
-|
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-TG9/21 |
-
-G9-10/21 |
-
-M9-10/21 |
-
-|
-
-|
-
-10 |
-
-COTES CALCAIRES EST |
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-|
-
-|
-
-|
-
-Cas général |
-
-TG10-15/4 |
-
-G10 |
-
-M10 |
-
-P10 |
-
-TP10 |
-
-Exogène de l'HER 4 (Vosges) |
-
-G10/4 |
-
-M10/4 |
-
-|
-
-|
-
-4 |
-
-VOSGES |
-
-Cas général |
-
-|
-
-M4 |
-
-P4 |
-
-TP4 |
-
-22 |
-
-ARDENNES |
-
-Exogène de l'HER 10 (Côtes Calcaires Est) |
-
-TG22/10 |
-
-|
-
-|
-
-|
-
-|
-
-Cas général |
-
-|
-
-GM22 |
-
-P22 |
-
-TP22 |
-
-18 |
-
-ALSACE |
-
-Cas général |
-
-|
-
-|
-
-MP18 |
-
-TP18 |
-
-Exogène de l'HER 4 (Vosges) |
-
-|
-
-G18/4 |
-
-M18/4 |
-
-P18/4 |
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire métropolitain.
-
-Cet élément de qualité est pertinent pour les canaux. |
-
-Tableau 4 : pertinence de l'élément de qualité diatomées
-
-pour les cours d'eau des DOM |
 
 Pertinence par type
 
 Case blanche avec code : type pertinent-case grise avec code : type non pertinent |
 
-Bassin |
+Hydroécorégion de niveau 1
 
-Hydroécorégions |
+ou très très grand fleuve |
 
-Très grands |
+Cas général, cours d'eau exogène de l'HER de niveau 1
 
-Grands |
-
-Moyens |
-
-Petits |
-
-Très petits |
-
-Réunion |
-
-1 |
-
-Cirques au vent |
-
-|
-
-|
-
-M61 |
-
-P61 |
-
-|
-
-2 |
-
-Cirques sous le vent |
-
-|
-
-|
-
-M62 |
-
-P62 |
-
-|
-
-3 |
-
-Versants au vent |
-
-|
-
-|
-
-MP63 |
-
-|
-
-4 |
-
-Versants sous le vent |
-
-|
-
-|
-
-MP64 |
-
-|
-
-Guadeloupe |
-
-1 |
-
-Basse-Terre plaine nord-est |
-
-|
-
-|
-
-MP31 |
-
-|
-
-2 |
-
-Grande Terre Volcans |
-
-|
-
-|
-
-MP32 |
-
-|
-
-3 |
-
-Basse-Terre volcans |
-
-|
-
-|
-
-M33 |
-
-P33 |
-
-|
-
-Martinique |
-
-1 |
-
-Pitons du Nord |
-
-|
-
-|
-
-M41 |
-
-P41 |
-
-|
-
-2 |
-
-Mornes du Sud |
-
-|
-
-|
-
-MP42 |
-
-|
-
-Guyane |
-
-1 |
-
-Plaine littorale du Nord |
-
-TG51 |
-
-G51 |
-
-M51 |
-
-PTP51 |
-
-2 |
-
-Bouclier guyanais |
-
-TG52 |
-
-G52 |
-
-M52 |
-
-PTP52 |
-
-Mayotte (*) |
-
-1 |
-
-Versant nord-ouest au vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-Versant est sous le vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 |
-
-Versant sud |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire.
-
-(*) Il n'y a pas de typologie des cours d'eau de Mayotte. Cependant le SDAGE de Mayotte reconnait trois secteurs, correspondant à un découpage préliminaire en HER, réalisé dans le cadre de l'état des lieux du district hydrographique de Mayotte en 2007. Trois HER y sont reconnues : versant nord-ouest au vent, versant est sous le vent et versant sud, comprenant respectivement 16,7 et 3 masses d'eau. Ce découpage n'a pas été validé par l'Irstea. |
-
-Tableau 5 : pertinence de l'élément de qualité phytoplancton
-
-pour les cours d'eau de métropole |
-
-Pertinence par type
-
-Case blanche avec code : type pertinent-case grise avec code : type non pertinent |
-
-Hydroécorégions de niveau 1 |
-
-Classes de taille de cours d'eau
-
-Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
+indiquée, HER de niveau 2 ou portion du très très grand fleuve |
 
 Très Grands |
 
@@ -2104,9 +266,21 @@ TTGA |
 
 FLEUVES ALPINS |
 
-Cas général |
+Rhin, Rhône à l'amont de sa confluence avec la Saône |
 
-TTGA |
+TTGA1 |
+
+|
+
+|
+
+|
+
+|
+
+Rhône de l'aval de sa confluence avec la Saône jusqu'à l'exutoire |
+
+TTGA2 |
 
 |
 
@@ -2574,247 +748,21 @@ P18/4 |
 
 |
 
-Les cases sans code sont des typologies non présentes sur le territoire métropolitain.
+1.4. Macrophytes
 
-Cet élément de qualité est pertinent pour les canaux.
+La pertinence de l'élément de qualité macrophytes pour les cours d'eau de métropole est détaillée dans le tableau 2 ci-après. Cet élément de qualité n'est pas pertinent en outre-mer. Cet élément de qualité n'est pas pertinent en canaux.
 
-Cet élément de qualité peut être pertinent sur certains cours d'eau lents et profonds (à évaluer localement). |
-
-Tableau 6 : pertinence de l'élément de qualité phytoplancton
-
-pour les cours d'eau des DOM |
-
-Pertinence par type
-
-Case blanche avec code : type pertinent-case grise avec code : type non pertinent |
-
-Bassin |
-
-Hydroécorégions |
-
-Très grands |
-
-Grands |
-
-Moyens |
-
-Petits |
-
-Très petits |
-
-Réunion |
-
-1 |
-
-Cirques au vent |
+Tableau 2.-Pertinence de l'élément de qualité macrophytes pour les cours d'eau de métropole
 
 |
-
-|
-
-M61 |
-
-P61 |
-
-|
-
-2 |
-
-Cirques sous le vent |
-
-|
-
-|
-
-M62 |
-
-P62 |
-
-|
-
-3 |
-
-Versants au vent |
-
-|
-
-|
-
-MP63 |
-
-|
-
-4 |
-
-Versants sous le vent |
-
-|
-
-|
-
-MP64 |
-
-|
-
-Guadeloupe |
-
-1 |
-
-Basse-Terre plaine nord-est |
-
-|
-
-|
-
-MP31 |
-
-|
-
-2 |
-
-Grande Terre Volcans |
-
-|
-
-|
-
-MP32 |
-
-|
-
-3 |
-
-Basse-Terre volcans |
-
-|
-
-|
-
-M33 |
-
-P33 |
-
-|
-
-Martinique |
-
-1 |
-
-Pitons du Nord |
-
-|
-
-|
-
-M41 |
-
-P41 |
-
-|
-
-2 |
-
-Mornes du Sud |
-
-|
-
-|
-
-MP42 |
-
-|
-
-Guyane |
-
-1 |
-
-Plaine littorale du Nord |
-
-TG51 |
-
-G51 |
-
-M51 |
-
-PTP51 |
-
-2 |
-
-Bouclier guyanais |
-
-TG52 |
-
-G52 |
-
-M52 |
-
-PTP52 |
-
-Mayotte (*) |
-
-1 |
-
-Versant nord-ouest au vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-Versant est sous le vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 |
-
-Versant sud |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire.
-
-(*) Il n'y a pas de typologie des cours d'eau de Mayotte. Cependant le SDAGE de Mayotte reconnait trois secteurs, correspondant à un découpage préliminaire en HER, réalisé dans le cadre de l'état des lieux du district hydrographique de Mayotte en 2007. Trois HER y sont reconnues : versant nord-ouest au vent, versant est sous le vent et versant sud, comprenant respectivement 16,7 et 3 masses d'eau. Ce découpage n'a pas été validé par l'Irstea. |
-
-Tableau 7 : pertinence de l'élément de qualité macrophytes
-
-pour les cours d'eau de métropole |
 
 Pertinence, par type
 
-Case blanche avec code : type pertinent-case grise avec code : type non pertinent-case gris clair :
+Case blanche avec code : type pertinent-case grise foncé avec code : type non pertinent-case gris clair : pertinence à évaluer localement |
 
-pertinence à évaluer localement |
+Hydroécorégion de niveau 1 ou très très grand fleuve |
 
-Hydroécorégions de niveau 1 |
-
-Classes de taille de cours d'eau
-
-Cas général, cours d'eau exogène de l'HER
-
-de niveau 1 indiquée ou HER de niveau 2 |
+Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée, HER de niveau 2 ou portion du très très grand fleuve |
 
 Très Grands |
 
@@ -3028,9 +976,21 @@ TTGA |
 
 FLEUVES ALPINS |
 
-Cas général |
+Rhin, Rhône à l'amont de sa confluence avec la Saône |
 
-TTGA |
+TTGA1 |
+
+|
+
+|
+
+|
+
+|
+
+Rhône de l'aval de sa confluence avec la Saône jusqu'à l'exutoire |
+
+TTGA2 |
 
 |
 
@@ -3498,1203 +1458,591 @@ P18/4 |
 
 |
 
-Les cases sans code sont des typologies non présentes sur le territoire métropolitain.
+1.5. Poissons
 
-Cet élément n'est pas pertinent sur les canaux. |
+En métropole, l'élément de qualité poissons est potentiellement pertinent pour tous les types de cours d'eau en dehors des zones apiscicoles ou assimilables qui pourront être définies, en fonction des connaissances existantes, par expertise de l'OFB.
 
-Pertinence de l'élément de qualité macrophytes pour les cours d'eau des DOM
+En outre-mer, l'élément de qualité poissons est pertinent à surveiller pour tous les types de cours d'eau de la typologie nationale, sauf les cours d'eau de l'hydroécorégion Grande Terre et autres îles de Guadeloupe (excepté Basse Terre) du bassin de la Guadeloupe (type MP32). Cet élément de qualité n'est pas pertinent en canaux.
 
-Cet élément de qualité n'est pas pertinent pour les DOM.
+1.6. Macro-crustacés
 
-Tableau 8 : pertinence de l'élément de qualité poissons
+L'élément de qualité macro-crustacés n'est pertinent ni en métropole, ni en Guyane. Dans les outre-mer insulaires (Mayotte, Guadeloupe, Martinique, la Réunion), cet élément de qualité est pertinent à surveiller pour tous les types de cours d'eau de la typologie nationale, sauf les cours d'eau de l'hydroécorégion Grande Terre et autres îles de Guadeloupe (excepté Basse Terre) du bassin de la Guadeloupe (type MP32).
 
-pour les cours d'eau de métropole |
+2. Pertinence des éléments de qualité biologique en plans d'eau
 
-Pertinence par type
+Tableau 3.-Pertinence des éléments de qualité biologique pour les plans d'eau
 
-Case blanche avec code : type pertinent-case grise avec code :
-
-type non pertinent |
-
-Hydroécorégions de niveau 1 |
-
-Classes de taille de cours d'eau
-
-Cas général, cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 |
-
-Très Grands |
-
-Grands |
-
-Moyens |
-
-Petits |
-
-Très Petits |
-
-20 |
-
-DEPOTS ARGILO SABLEUX |
-
-Cas général |
-
-|
-
-GM20 |
-
-P20 |
-
-TP20 |
-
-Exogène de l'HER 9 (Tables Calcaires) |
-
-|
-
-GM20/9 |
-
-|
-
-|
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-|
-
-G21 |
-
-M21 |
-
-|
-
-|
-
-21 |
-
-MASSIF CENTRAL NORD |
-
-Cas général |
-
-|
-
-P21 |
-
-TP21 |
-
-3 |
-
-MASSIF CENTRAL SUD |
-
-Cas général |
-
-|
-
-G3 |
-
-M3 |
-
-P3 |
-
-TP3 |
-
-Exogène de l'HER 19 (Grands Causses) |
-
-|
-
-|
-
-M3/19 |
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-|
-
-|
-
-M3/8 |
-
-|
-
-|
-
-Exogène de l'HER 19 ou 8 |
-
-|
-
-G3/19-8 |
-
-|
-
-|
-
-|
-
-17 |
-
-DEPRESSIONS SEDIMENTAIRES |
-
-Cas général |
-
-|
-
-|
-
-M17 |
-
-P17 |
-
-TP17 |
-
-Exogène de l'HER 3 ou 21 (M. Cent. S ou N) |
-
-TG17/3-21 |
-
-G17/3-21 |
-
-M15-17/3-21 |
-
-P17/3-21 |
-
-TP17/3-21 |
-
-15 |
-
-PLAINE SAONE |
-
-Exogène de l'HER 3 ou 21 |
-
-|
-
-|
-
-|
-
-|
-
-Exogène de l'HER 5 (Jura) |
-
-|
-
-G15/5 |
-
-MP15/5 |
-
-Cas général |
-
-TG15 |
-
-|
-
-MP15 |
-
-TP15 |
-
-Exogène de l'HER 4 (Vosges) |
-
-TG10-15/4 |
-
-|
-
-|
-
-|
-
-|
-
-5 |
-
-JURA/ PRE-ALPES DU NORD |
-
-Cas général |
-
-|
-
-G5 |
-
-M5 |
-
-P5 |
-
-TP5 |
-
-Exogène de l'HER 2 (Alpes Internes) |
-
-TG5/2 |
-
-GM5/2 |
-
-|
-
-|
-
-TTGA |
-
-FLEUVES ALPINS |
-
-Cas général |
-
-TTGA |
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-ALPES INTERNES |
-
-Cas général |
-
-|
-
-G2 |
-
-MP2 |
-
-TP2 |
-
-7 |
-
-PRE-ALPES DU SUD |
-
-Cas général |
-
-|
-
-GMP7 |
-
-TP7 |
-
-Exogène de l'HER 2 (Alpes Internes) |
-
-TG6-7/2 |
-
-GM7/2 |
-
-|
-
-|
-
-6 |
-
-MEDITERRANEE |
-
-Exogène de l'HER 2 ou 7 |
-
-GM6/2-7 |
-
-|
-
-|
-
-|
-
-Exogène de l'HER 7 (Pré-Alpes du Sud) |
-
-|
-
-GM6/2-7 |
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-TG6/1-8 |
-
-GM6/8 |
-
-|
-
-|
-
-Exogène de l'HER 1 (Pyrénées) |
-
-GM6/1 |
-
-|
-
-|
-
-Cas général |
-
-|
-
-G6 |
-
-MP6 |
-
-TP6 |
-
-8 |
-
-CEVENNES |
-
-Cas général |
-
-|
-
-GM8 |
-
-PTP8 |
-
-A-HER niveau 2 n° 70 |
-
-|
-
-|
-
-M8-A |
-
-PTP8-A |
-
-16 |
-
-CORSE |
-
-A-HER niveau 2 n° 22 |
-
-|
-
-G16 |
-
-M16-A |
-
-PTP16-A |
-
-B-HER niveau 2 n° 88 |
-
-|
-
-M16-B |
-
-PTP16-B |
-
-19 |
-
-GRANDS CAUSSES |
-
-Cas général |
-
-|
-
-|
-
-|
-
-P19 |
-
-|
-
-Exogène de l'HER 8 (Cévennes) |
-
-|
-
-GM19/8 |
-
-|
-
-|
-
-11 |
-
-CAUSSES AQUITAINS |
-
-Cas général |
-
-|
-
-|
-
-|
-
-P11 |
-
-TP11 |
-
-Exogène de l'HER 3 (MCN) et/ ou 21 (MCS) |
-
-TG11/3-21 |
-
-G11/3-21 |
-
-M11/3-21 |
-
-P11/3-21 |
-
-|
-
-14 |
-
-COTEAUX AQUITAINS |
-
-Exogène des HER 3,8,11 ou 19 |
-
-TG14/3-11 |
-
-G14/3 |
-
-M14/3-11 |
-
-|
-
-|
-
-Exogène de l'HER 3 (MCN) ou 8 (Cév.) |
-
-|
-
-M14/3-8 |
-
-|
-
-|
-
-Cas général |
-
-|
-
-GM14 |
-
-P14 |
-
-TP14 |
-
-Exogène de l'HER 1 (Pyrénées) |
-
-TG14/1 |
-
-G14/1 |
-
-M14/1 |
-
-P14/1 |
-
-|
-
-13 |
-
-LANDES |
-
-Cas général |
-
-|
-
-|
-
-M13 |
-
-P13 |
-
-TP13 |
-
-1 |
-
-PYRENEES |
-
-Cas général |
-
-|
-
-G1 |
-
-M1 |
-
-P1 |
-
-TP1 |
-
-12 |
-
-ARMORICAIN |
-
-A-Centre-Sud (HER niveau 2 n° 58 et 117) |
-
-|
-
-G12 |
-
-M12-A |
-
-P12-A |
-
-TP12-A |
-
-B-Ouest-N E (HER niveau 2 n° 55,59 et 118) |
-
-|
-
-M12-B |
-
-P12-B |
-
-TP12-B |
-
-TTGL |
-
-LA LOIRE |
-
-Cas général |
-
-TTGL |
-
-|
-
-|
-
-|
-
-|
-
-9 |
-
-TABLES CALCAIRES |
-
-A-HER niveau 2 n° 57 |
-
-|
-
-|
-
-M9-A |
-
-P9-A |
-
-|
-
-Cas général |
-
-TG9 |
-
-G9 |
-
-M9 |
-
-P9 |
-
-TP9 |
-
-Exogène de l'HER 10) |
-
-|
-
-G9/10 |
-
-M9/10 |
-
-|
-
-|
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-TG9/21 |
-
-G9-10/21 |
-
-M9-10/21 |
-
-|
-
-|
-
-10 |
-
-COTES CALCAIRES EST |
-
-Exogène de l'HER 21 (Massif Central Nord) |
-
-|
-
-|
-
-|
-
-Cas général |
-
-TG10-15/4 |
-
-G10 |
-
-M10 |
-
-P10 |
-
-TP10 |
-
-Exogène de l'HER 4 (Vosges) |
-
-G10/4 |
-
-M10/4 |
-
-|
-
-|
-
-4 |
-
-VOSGES |
-
-Cas général |
-
-|
-
-M4 |
-
-P4 |
-
-TP4 |
-
-22 |
-
-ARDENNES |
-
-Exogène de l'HER 10 (Côtes Calcaires Est) |
-
-TG22/10 |
-
-|
-
-|
-
-|
-
-|
-
-Cas général |
-
-|
-
-GM22 |
-
-P22 |
-
-TP22 |
-
-18 |
-
-ALSACE |
-
-Cas général |
-
-|
-
-|
-
-MP18 |
-
-TP18 |
-
-Exogène de l'HER 4 (Vosges) |
-
-|
-
-G18/4 |
-
-M18/4 |
-
-P18/4 |
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire métropolitain. Les poissons sont potentiellement pertinents partout sauf dans les zones apiscicoles ou assimilables qui ne peuvent être décrites par les types DCE mais peuvent éventuellement être définis par expertise AFB si des connaissances existent. Cet élément de qualité n'est pas pertinent pour les canaux. |
-
-Tableau 9 : pertinence de l'élément de qualité poissons
-
-pour les cours d'eau des DOM |
-
-Pertinence par type
-
-Case blanche avec code : type pertinent-case grise avec code : type non pertinent |
-
-Bassin |
-
-Hydroécorégions |
-
-Très grands |
-
-Grands |
-
-Moyens |
-
-Petits |
-
-Très petits |
-
-Réunion |
-
-1 |
-
-Cirques au vent |
-
-|
-
-|
-
-M61 |
-
-P61 |
-
-|
-
-2 |
-
-Cirques sous le vent |
-
-|
-
-|
-
-M62 |
-
-P62 |
-
-|
-
-3 |
-
-Versants au vent |
-
-|
-
-|
-
-MP63 |
-
-|
-
-4 |
-
-Versants sous le vent |
-
-|
-
-|
-
-MP64 |
-
-|
-
-Guadeloupe |
-
-1 |
-
-Basse-Terre plaine nord-est |
-
-|
-
-|
-
-MP31 |
-
-|
-
-2 |
-
-Grande Terre Volcans |
-
-|
-
-|
-
-MP32 |
-
-|
-
-3 |
-
-Basse-Terre volcans |
-
-|
-
-|
-
-M33 |
-
-P33 |
-
-|
-
-Martinique |
-
-1 |
-
-Pitons du Nord |
-
-|
-
-|
-
-M41 |
-
-P41 |
-
-|
-
-2 |
-
-Mornes du Sud |
-
-|
-
-|
-
-MP42 |
-
-|
-
-Guyane |
-
-1 |
-
-Plaine littorale du Nord |
-
-TG51 |
-
-G51 |
-
-M51 |
-
-PTP51 |
-
-2 |
-
-Bouclier guyanais |
-
-TG52 |
-
-G52 |
-
-M52 |
-
-PTP52 |
-
-Mayotte (*) |
-
-1 |
-
-Versant nord-ouest au vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-Versant est sous le vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 |
-
-Versant sud |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Les cases sans code sont des typologies non présentes sur le territoire.
-
-(*) Il n'y a pas de typologie des cours d'eau de Mayotte. Cependant le SDAGE de Mayotte reconnait trois secteurs, correspondant à un découpage préliminaire en HER, réalisé dans le cadre de l'état des lieux du district hydrographique de Mayotte en 2007. Trois HER y sont reconnues : versant nord-ouest au vent, versant est sous le vent et versant sud, comprenant respectivement 16,7 et 3 masses d'eau. Ce découpage n'a pas été validé par l'Irstea. |
-
-Tableau 10 : pertinence de l'élément de qualité macro-crustacés pour les DOM insulaires uniquement |
-
-Pertinence par type
-
-Case blanche avec code : type pertinent-case grise avec code : type non pertinent |
-
-Bassin |
-
-Hydroécorégions |
-
-Très grands |
-
-Grands |
-
-Moyens |
-
-Petits |
-
-Très petits |
-
-Réunion |
-
-1 |
-
-Cirques au vent |
-
-|
-
-|
-
-M61 |
-
-P61 |
-
-|
-
-2 |
-
-Cirques sous le vent |
-
-|
-
-|
-
-M62 |
-
-P62 |
-
-|
-
-3 |
-
-Versants au vent |
-
-|
-
-|
-
-MP63 |
-
-|
-
-4 |
-
-Versants sous le vent |
-
-|
-
-|
-
-MP64 |
-
-|
-
-Guadeloupe |
-
-1 |
-
-Basse-Terre plaine nord-est |
-
-|
-
-|
-
-MP31 |
-
-|
-
-2 |
-
-Grande Terre Volcans |
-
-|
-
-|
-
-MP32 |
-
-|
-
-3 |
-
-Basse-Terre volcans |
-
-|
-
-|
-
-M33 |
-
-P33 |
-
-|
-
-Martinique |
-
-1 |
-
-Pitons du Nord |
-
-|
-
-|
-
-M41 |
-
-P41 |
-
-|
-
-2 |
-
-Mornes du Sud |
-
-|
-
-|
-
-MP42 |
-
-|
-
-Guyane |
-
-1 |
-
-Plaine littorale du Nord |
-
-TG51 |
-
-G51 |
-
-M51 |
-
-PTP51 |
-
-2 |
-
-Bouclier guyanais |
-
-TG52 |
-
-G52 |
-
-M52 |
-
-PTP52 |
-
-Mayotte (*) |
-
-1 |
-
-Versant nord-ouest au vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-2 |
-
-Versant est sous le vent |
-
-|
-
-|
-
-|
-
-|
-
-|
-
-3 |
-
-Versant sud |
-
-|
-
-|
-
-|
-
-|
-
 |
-
-Les cases sans code sont des typologies non présentes sur le territoire.
-
-(*) Il n'y a pas de typologie des cours d'eau de Mayotte. Cependant le SDAGE de Mayotte reconnait trois secteurs, correspondant à un découpage préliminaire en HER, réalisé dans le cadre de l'état des lieux du district hydrographique de Mayotte en 2007. Trois HER y sont reconnues : versant nord-ouest au vent, versant est sous le vent et versant sud, comprenant respectivement 16,7 et 3 masses d'eau. Ce découpage n'a pas été validé par l'Irstea. |
-
-Tableau 11 : pertinence des éléments de qualité biologique
-
-pour les plans d'eau de métropole |
 
 Pertinence des éléments biologiques
 
-Case blanche : type pertinent-case grise avec code : pertinent |
+Case blanche : type pertinent-Case grise : type non pertinent |
 
 Typologie |
 
 Invertébrés |
 
-Poissons |
+Poissons (2), (3) |
 
-Macrophytes (*) |
+Macrophytes (1), (2) |
 
-Diatomées (*) |
+Diatomées (1), (2) |
 
 Phytoplancton |
 
-Lac de haute montagne avec zone littorale |
+PLANS D'EAU NATURELS |
 
-N1 |
+Lac de montagne des Alpes/ Pyrénées, (très) petit, peu profond à profond |
 
+L1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne des Alpes/ Pyrénées, très petit, peu profond, siliceux |
+
+L2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne des Alpes/ Pyrénées, très petit, peu profond, alcalinité moyenne |
+
+L3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, petit, profond, alcalinité moyenne |
+
+L4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, petit, peu profond, calcaire |
+
+L5 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, petit, peu profond, alcalinité moyenne |
+
+L6 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, très petit, profond, alcalinité moyenne |
+
+L7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, très petit, peu profond, siliceux |
+
+L8 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, très petit, peu profond, alcalinité moyenne |
+
+L9 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, très petit, très peu profond, calcaire |
+
+L10 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de montagne en Central Baltique, très petit, très peu profond, alcalinité moyenne |
+
+L11 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de moyenne montagne, (très) grand, profond, calcaire |
+
+L12 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de moyenne montagne, petit, peu profond, calcaire |
+
+L13 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de moyenne montagne, surface moyenne, profond, calcaire |
+
+L14 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de moyenne montagne en Central Baltique, surface moyenne, profond, siliceux |
+
+L15 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de moyenne montagne en Central Baltique, très petit, profond, calcaire |
+
+L16 (*) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de moyenne montagne en Central Baltique, très petit, peu profond, calcaire |
+
+L17 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de plaine en Central Baltique, grand, peu profond, alcalinité moyenne |
+
+L18 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de plaine en Central Baltique, grand, très peu profond, calcaire |
+
+L19 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de plaine en Central Baltique, surface moyenne, très peu profond, alcalinité moyenne |
+
+L20 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de plaine en Central Baltique, petit, peu profond, calcaire |
+
+L21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de plaine en Central Baltique, très petit, très peu profond, calcaire |
+
+L22 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de plaine méditerranéen, petit, peu profond, calcaire |
+
+L23 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Lac de La Réunion |
+
+L24 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+PLANS D'EAU D'ORIGINE ANTHROPIQUE |
+
+Retenue de montagne des Alpes/ Pyrénées, surface moyenne, profond, calcaire |
+
+R1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne des Alpes/ Pyrénées, surface moyenne, profond, siliceuse |
+
+R2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne des Alpes/ Pyrénées, surface moyenne, peu profonde, siliceuse |
+
+R3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne des Alpes/ Pyrénées, petite, profonde, siliceuse |
+
+R4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne en Central Baltique, surface moyenne, profonde, siliceuse |
+
+R5 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne en Central Baltique, surface moyenne, peu profonde, siliceuse |
+
+R6 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne en Central Baltique, très petite, profonde, siliceuse |
+
+R7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne en Central Baltique, très petite, peu profonde, siliceuse |
+
+R8 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne en Central Baltique, très petite, très peu profonde, calcaire |
+
+R9 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de montagne de Méditerranée, très petite, peu profonde, siliceuse |
+
+R10 |
+
+|
+
+|
+
+|
+
 |
 
 |
 
+Retenue de moyenne montagne des Alpes/ Méditerranée, grande, profonde, calcaire |
+
+R11 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de moyenne montagne en Central Baltique, grande, profonde, calcaire |
+
+R12 |
+
+|
+
 |
 
 |
 
 |
+
+|
+
+Retenue de moyenne montagne en Central Baltique, grande, profonde, siliceuse |
+
+R13 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Retenue de moyenne montagne en Central Baltique, grande, peu profonde, calcaire |
+
+R14 |
 
-Lac de haute montagne à berges dénudées |
+|
 
-N2 |
+|
 
 |
 
 |
 
 |
+
+Retenue de moyenne montagne en Central Baltique, surface moyenne, profonde, calcaire |
+
+R15 |
 
 |
 
 |
 
-Lac de moyenne montagne calcaire peu profond |
+|
 
-N3 |
+|
 
 |
+
+Retenue de moyenne montagne en Central Baltique, surface moyenne, profonde, siliceuse |
+
+R16 |
 
 |
 
@@ -4704,11 +2052,11 @@ N3 |
 
 |
 
-Lac de moyenne montagne calcaire profond
+|
 
-à zone littorale |
+Retenue de moyenne montagne en Central Baltique, surface moyenne, peu profonde, calcaire |
 
-N4 |
+R17 (*) |
 
 |
 
@@ -4720,11 +2068,11 @@ N4 |
 
 |
 
-Lac de moyenne montagne non calcaire
+Retenue de moyenne montagne en Central Baltique, surface moyenne, peu profonde, siliceuse |
 
-peu profond |
+R18 (*) |
 
-N5 |
+|
 
 |
 
@@ -4733,17 +2081,25 @@ N5 |
 |
 
 |
+
+Retenue de moyenne montagne en Central Baltique, surface moyenne, très peu profonde, calcaire |
+
+R19 |
 
 |
 
-Lac de moyenne montagne non calcaire
+|
 
-profond à zone littorale |
+|
 
-N6 |
+|
 
 |
+
+Retenue de moyenne montagne en Central Baltique, surface moyenne, très peu profonde, siliceuse |
 
+R20 |
+
 |
 
 |
@@ -4752,11 +2108,11 @@ N6 |
 
 |
 
-Lac de moyenne montagne non calcaire
+|
 
-profond sans zone littorale importante |
+Retenue de moyenne montagne en Central Baltique, petite, profonde, siliceux |
 
-N7 |
+R21 |
 
 |
 
@@ -4768,9 +2124,9 @@ N7 |
 
 |
 
-Lac des coteaux aquitains |
+Retenue de moyenne montagne en Central Baltique, petite, peu profonde, calcaire |
 
-N8 |
+R22 |
 
 |
 
@@ -4782,9 +2138,9 @@ N8 |
 
 |
 
-Lac profond du bord de l'atlantique |
+Retenue de moyenne montagne en Central Baltique, petite, peu profonde, siliceuse |
 
-N9 |
+R23 (*) |
 
 |
 
@@ -4796,9 +2152,9 @@ N9 |
 
 |
 
-Lac peu profond du bord de l'atlantique |
+Retenue de moyenne montagne en Central Baltique, petite, très peu profonde, calcaire |
 
-N10 |
+R24 |
 
 |
 
@@ -4810,28 +2166,38 @@ N10 |
 
 |
 
-Lac de basse altitude en façade
+Retenue de moyenne montagne en Central Baltique, petite, très peu profonde, siliceux |
 
-méditerranéenne |
+R25 |
+
+|
 
-N11 |
+|
 
 |
 
 |
 
 |
+
+Retenue de moyenne montagne en Central Baltique, très petite, peu profonde, calcaire |
 
+R26 |
+
 |
 
 |
 
-Autres lacs de basse altitude |
+|
 
-N12 |
+|
 
 |
+
+Retenue de moyenne montagne en Central Baltique, très petite, peu profonde, siliceuse |
 
+R27 |
+
 |
 
 |
@@ -4840,25 +2206,27 @@ N12 |
 
 |
 
-Plans d'eau à marnage très important
+|
 
-voire fréquent |
+Retenue de moyenne montagne en Central Baltique, très petite, très peu profonde, siliceuse |
 
-A8 |
+R28 |
 
 |
 
 |
 
-** |
+|
 
 |
 
 |
+
+Retenue de moyenne montagne en Central Baltique, surface moyenne, profonde, calcaire |
 
-Retenue de haute montagne |
+R29 |
 
-A1 |
+|
 
 |
 
@@ -4867,17 +2235,25 @@ A1 |
 |
 
 |
+
+Retenue de moyenne montagne en Méditerranée, surface moyenne, profonde, siliceuse |
 
+R30 |
+
 |
 
-Retenue de moyenne montagne
+|
 
-calcaire peu profonde |
+|
 
-A2 |
+|
 
 |
 
+Retenue de plaine en Central Baltique, grande, peu profonde, calcaire |
+
+R31 |
+
 |
 
 |
@@ -4886,11 +2262,11 @@ A2 |
 
 |
 
-Retenue de moyenne montagne calcaire
+|
 
-profonde |
+Retenue de plaine en Central Baltique, surface moyenne, profonde, siliceuse |
 
-A3 |
+R32 |
 
 |
 
@@ -4902,11 +2278,11 @@ A3 |
 
 |
 
-Retenue de moyenne montagne non calcaire
+Retenue de plaine en Central Baltique, surface moyenne, peu profonde, calcaire |
 
-peu profonde |
+R33 |
 
-A4 |
+|
 
 |
 
@@ -4916,16 +2292,24 @@ A4 |
 
 |
 
+Retenue de plaine en Central Baltique, surface moyenne, peu profonde, siliceuse |
+
+R34 |
+
 |
 
-Retenue de moyenne montagne non calcaire
+|
 
-profonde |
+|
 
-A5 |
+|
 
 |
+
+Retenue de plaine en Central Baltique, surface moyenne, très peu profonde, calcaire |
 
+R35 |
+
 |
 
 |
@@ -4934,11 +2318,11 @@ A5 |
 
 |
 
-Retenue de moyenne montagne
+|
 
-méditerranéenne sur socle cristallin peu profonde |
+Retenue de plaine en Central Baltique, surface moyenne, très peu profonde, siliceuse |
 
-A9 |
+R36 |
 
 |
 
@@ -4950,11 +2334,11 @@ A9 |
 
 |
 
-Retenue de moyenne montagne
+Retenue de plaine en Central Baltique, petite, peu profonde, calcaire |
 
-méditerranéenne sur socle cristallin profonde |
+R37 |
 
-A10 |
+|
 
 |
 
@@ -4963,16 +2347,24 @@ A10 |
 |
 
 |
+
+Retenue de plaine en Central Baltique, petite, peu profonde, siliceuse |
 
+R38 |
+
 |
 
-Retenue de basse altitude peu profonde
+|
 
-non calcaire |
+|
 
-A6a |
+|
 
 |
+
+Retenue de plaine en Central Baltique, petite, très peu profonde, calcaire |
+
+R39 |
 
 |
 
@@ -4982,11 +2374,11 @@ A6a |
 
 |
 
-Retenue de basse altitude profonde
+|
 
-non calcaire |
+Retenue de plaine en Central Baltique, petite, très peu profonde, siliceux |
 
-A6b |
+R40 |
 
 |
 
@@ -4997,27 +2389,39 @@ A6b |
 |
 
 |
+
+Retenue de plaine en Central Baltique, très petite, peu profonde, calcaire |
 
-Retenue de basse altitude peu profonde calcaire |
+R41 |
+
+|
 
-A7a |
+|
 
 |
 
 |
 
 |
+
+Retenue de plaine en Central Baltique, très petite, peu profonde, siliceuse |
 
+R42 |
+
 |
 
 |
 
-Retenue de basse altitude profonde calcaire |
+|
 
-A7b |
+|
 
 |
+
+Retenue de plaine en Central Baltique, très petite, très peu profonde, calcaire |
 
+R43 |
+
 |
 
 |
@@ -5026,11 +2430,11 @@ A7b |
 
 |
 
-Retenue méditerranéenne de basse altitude
+|
 
-sur socle cristallin peu profonde |
+Retenue de plaine en Central Baltique, très petite, très peu profonde, siliceuse |
 
-A11 |
+R44 |
 
 |
 
@@ -5042,28 +2446,38 @@ A11 |
 
 |
 
-Retenue méditerranéenne de basse altitude
+Retenue de plaine en Méditerranée, surface moyenne, profonde, calcaire |
 
-sur socle cristallin profonde |
+R45 |
 
-A12 |
+|
+
+|
 
 |
 
 |
 
 |
+
+Retenue de plaine en Méditerranée, surface moyenne, peu profonde, calcaire |
 
+R46 |
+
 |
 
 |
 
-Plan d'eau vidangé à intervalles réguliers |
+|
 
-A13a |
+|
 
 |
+
+Retenue de plaine en Méditerranée-Corse, petite, peu profonde, siliceuse |
 
+R47 |
+
 |
 
 |
@@ -5072,11 +2486,11 @@ A13a |
 
 |
 
-Plan d'eau généralement non vidangé
+|
 
-mais à gestion hydraulique contrôlée |
+Retenue de plaine en Méditerranée, petite, très peu profonde, calcaire |
 
-A13b |
+R48 |
 
 |
 
@@ -5087,32 +2501,40 @@ A13b |
 |
 
 |
+
+Retenue de plaine en Méditerranée-Corse, très petite, profonde, calcaire |
+
+R49 |
 
-Plan d'eau créé par creusement, en roche dure,
+|
 
-cuvette non vidangeable |
+|
 
-A14 |
+|
 
 |
 
 |
+
+Retenue de plaine en Méditerranée, très petite, profonde, siliceuse |
 
+R50 |
+
 |
 
 |
 
 |
 
-Plan d'eau profond, obtenu par creusement,
+|
 
-en lit majeur d'un cours d'eau, en relation avec
+|
 
-la nappe, forme de type P, thermocline,
+Retenue en Guadeloupe |
 
-berges abruptes. |
+R51 |
 
-A15 |
+|
 
 |
 
@@ -5122,16 +2544,24 @@ A15 |
 
 |
 
+Retenue en Martinique |
+
+R52 |
+
 |
 
-Plan d'eau peu profond, obtenu par creusement,
+|
 
-en lit majeur d'un cours d'eau, en relation avec la nappe, forme de type L, sans thermocline. |
+|
 
-A16 |
+|
 
 |
+
+Retenue en Guyane |
 
+R53 |
+
 |
 
 |
@@ -5140,35 +2570,55 @@ A16 |
 
 |
 
-(*) Les macrophytes et diatomées (pour l'ensemble des types) ne sont pas pertinents pour les plans d'eau à fort marnage (supérieur à deux mètres).
+|
 
-(**) Pour les macrophytes, on entend par très important un marnage supérieur à 2 mètres. |
+(1) Pour l'ensemble des types, les macrophytes et diatomées ne sont pas pertinents si le plan d'eau est soumis à fort marnage (supérieur à deux mètres) ou pour les retenues de plaine, à gestion hydraulique contrôlée sans vidange (p. ex. plans d'eau issus de zones humides transformées et gérées pour l'exploitation de ressources aquatiques).
 
-Tableau 12 : pertinence des éléments de qualité biologique
+(2) Pour l'ensemble des types, les poissons, macrophytes et diatomées ne sont pas pertinents si le plan d'eau est vidangé à intervalles réguliers (p. ex. plans d'eau de pisciculture).
 
-pour les plans d'eau des DOM |
+(3) Pour l'ensemble des types, les poissons ne sont pas pertinents si le plan d'eau est à une altitude supérieure à 1200m.
 
-Pertinence des éléments de qualité biologique
+(*) Les types signalés par un astérisque comprennent des plans d'eau soumis à des exceptions relative à la pertinence des éléments de qualité biologique indiqué dans ce tableau : il est alors nécessaire de se référer au tableau 4 ci-dessous. |
 
-Case blanche : type pertinent-case grise foncée : non pertinent-case gris clair : pertinence à évaluer |
+Tableau 4.-Exceptions relatives à la pertinence des éléments de qualité biologique pour les plans d'eau (en complément des exceptions déjà mentionnées dans le tableau 3 de la présente annexe)
 
-Bassin |
+|
 
-Plans d'eau |
+Pertinence des éléments biologiques
 
-Phytoplancton |
+Case blanche : pertinent-Case grise : non pertinent |
 
-Macrophytes |
+Code masse d'eau |
 
-Diatomées |
+Type |
 
 Invertébrés |
 
 Poissons |
 
-Réunion |
+Macrophytes |
 
-Grand Etang |
+Diatomées |
+
+Phytoplancton |
+
+FRGL128 |
+
+L16 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+FRFL77 |
+
+R17 |
 
 |
 
@@ -5180,9 +2630,23 @@ Grand Etang |
 
 |
 
-Guadeloupe |
+FRB1L36 |
 
-Gachet (MEA) |
+R18 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+FRGL038 |
+
+R18 |
 
 |
 
@@ -5191,14 +2655,680 @@ Gachet (MEA) |
 |
 
 |
+
+|
+
+FRFL91 |
+
+R23 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+FRGL020 |
+
+R23 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3. Pertinence des éléments de qualité écologique pour les eaux littorales
+
+Tableau 5.-Pertinence des éléments de qualité de l'état écologique (hors polluants spécifiques de l'état écologique) pour les eaux de transition dans les bassins métropolitains
+
+Zones géographiques |
+
+Type |
+
+Eléments de qualité |
+
+Phytoplancton |
+
+Invertébrés benthiques |
+
+Macroalgues |
+
+Flore (1) |
+
+Poissons |
+
+Angiospermes |
+
+Paramètres physico-chimiques |
+
+Hydromorphologie |
+
+Paramètres DCE |
+
+Chl-a |
+
+IA |
+
+IC |
+
+Invertébrés benthiques Substrat meuble |
+
+Autres blooms |
+
+Substrat dur intertidal |
+
+Macrophyte |
+
+Poissons |
+
+Zostera marina et noltii |
+
+T° C |
+
+Salinité |
+
+Turbidité |
+
+O2 dissous |
+
+Nutriments azote |
+
+Nutriments autres (2) |
+
+Atlantique, Manche et mer du Nord |
+
+T1 |
+
+FRGT26
+
+FRGT25
+
+FRGT27 |
+
+FRGT26
+
+FRGT25
+
+FRGT27 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+(**) |
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T4 |
+
+FRFT32 |
+
+FRFT32 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T5 |
+
+FRHT03
+
+FRHT05 |
+
+FRHT03
+
+FRHT05 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T6 |
+
+FRFT33
+
+FRFT34
+
+FRFT35 |
+
+FRFT33
+
+FRFT34
+
+FRFT35 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T7 |
+
+FRGT28
+
+FRFT09 |
+
+FRGT28
+
+FRFT09 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T8 |
+
+FRGT04
+
+FRGT10
+
+FRGT12
+
+FRGT29
+
+FRGT30
+
+FRGT31 |
+
+FRGT04
+
+FRGT10
+
+FRGT12
+
+FRGT29
+
+FRGT30
+
+FRGT31 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+T9 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+Méditerranée |
+
+T10 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(***) |
+
+|
+
+(**) |
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+T11 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+T12 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Commentaires :
+
+-(1) Flore autre que le phytoplancton ;
+
+-Chl-a : chlorophylle A ;
+
+-IA : indice abondance ;
+
+-IC : indice composition ;
+
+-(2) Autres nutriments : phosphore et silice. La Méditerranée ne surveille pas la silice ;
+
+-Case blanche : élément pertinent, existence d'une grille ;
+
+-Case grise : paramètre non pertinent pour un type ou une masse d'eau de ce type ;
+
+-(**) : bien qu'il n'y ait pas d'indicateur développé, un suivi est mis en place car ces paramètres permettent d'apporter des explications sur l'état du milieu ;
+
+-(***) + case grise claire : Indicateur en cours de développement et pertinence à évaluer ;
+
+-Dans l'arrêté typologie , le type 12 est défini et est composé de deux masses d'eau (bras du Rhône). Mais celui-ci n'est ni surveillé ni évalué directement mais par extrapolation selon la masse d'eau cours d'eau amont. L'évaluation du bon état écologique pour ce type 12 est donc basée sur les EQ des cours d'eau. Les EQ pour les eaux de transition ne sont donc pas pertinents. |
+
+Tableau 6.-Pertinence des éléments de qualité de l'état écologique pour les eaux de transition dans les bassins ultra-marins
+
+Zones
+
+géographiques |
+
+Types |
+
+Eléments de qualité |
+
+Phytoplancton |
+
+Invertébrés
+
+benthiques |
+
+Flore (1) |
+
+Physico-chimiques |
+
+Poissons |
+
+Hydro-morphologie |
+
+Paramètres DCE |
+
+Chl-a |
+
+IA |
+
+IC |
+
+Substrat meuble |
+
+Substrat dur |
+
+Macroalgues |
+
+Angiospermes |
+
+Mangroves |
+
+T° C |
+
+Salinité |
+
+Turbidité |
+
+O2 dissous |
+
+Nutriments azote |
+
+Nutriments autres (2) |
+
+DBO5 |
+
+Carbone organique dissous |
+
+Carbone Total |
+
+pH |
+
+Poissons |
+
+La Réunion |
+
+Type 18 |
+
+(*) |
+
+(*) |
+
+(*) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) |
+
+(**) |
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) |
 
 |
 
 Martinique |
 
-Manzo (MEA) |
+Type 13 |
+
+(*) |
+
+(*) |
+
+(*) |
 
 |
+
+|
+
+|
+
+|
+
+(*) |
+
+(**) |
+
+(**) |
+
+(**) |
+
+|
+
+(*) |
+
+(*) |
+
+(*) |
+
+(*) |
 
 |
 
@@ -5210,7 +3340,1167 @@ Manzo (MEA) |
 
 Guyane |
 
-Petit Saut (MEFM) |
+Type 14 |
+
+|
+
+|
+
+FRKT011 FRKT080 FRKT081 FRKT090 |
+
+|
+
+|
+
+|
+
+|
+
+(*) |
+
+|
+
+(**) |
+
+(**)
+
+FRKT011 FRKT080 FRKT081 FRKT090 FRKT020
+
+FRKT021 FRKT040 FRKT052 FRKT050 FRKT060 FRKT061 FRKT070 |
+
+|
+
+(*) |
+
+(*) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Type 17 |
+
+|
+
+|
+
+FRKT020
+
+FRKT021 FRKT040 FRKT052 FRKT050 FRKT060 FRKT061 FRKT070 |
+
+|
+
+|
+
+|
+
+|
+
+(*) |
+
+|
+
+|
+
+(*) |
+
+(*) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Commentaires :
+
+-(1) Flore autre que le phytoplancton ;
+
+-Chl-a : chlorophylle A ;
+
+-IA : indice abondance ;
+
+-IC : indice composition ;
+
+-(2) Autres nutriments : phosphore et silice ;
+
+-Case blanche : élément pertinent, existence d'une grille ;
+
+-Case grise : paramètre non pertinent pour un type ou une masse d'eau de ce type ;
+
+-(*) : indicateur en développement ;
+
+-(**) : bien qu'il n'y ait pas d'indicateur développé, un suivi est mis en place car ces paramètres permettent d'apporter des explications sur l'état du milieu. |
+
+Tableau 7.-Pertinence des éléments de qualité de l'état écologique pour les eaux côtières dans les bassins métropolitains
+
+Zones géographiques |
+
+Type |
+
+Eléments de qualité |
+
+Phytoplancton |
+
+Invertébrés benthiques |
+
+Macroalgues |
+
+Angiospermes |
+
+Paramètres physico-chimiques |
+
+Hydromorphologie |
+
+Paramètres DCE |
+
+Chl-a |
+
+IA |
+
+IC |
+
+Substrat meuble |
+
+Blooms à ulves |
+
+Substrat dur intertidal |
+
+Substrat dur subtidal |
+
+Zostera marina et noltii |
+
+Posidonies |
+
+T° C |
+
+Salinité |
+
+Turbidité |
+
+O2 dissous |
+
+Nutriments azote |
+
+Nutriments autres (2) |
+
+Atlantique, Manche et mer du Nord |
+
+C1 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C2 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C3 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+FRGC48 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C4 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C5 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C6 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C7 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C8 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C9 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C10 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C11 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C12 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C13 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C14 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C15 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C16 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C17 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Méditerranée |
+
+C18 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+C19 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C20 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C21 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C22 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C23 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C24 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C25 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C26 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Commentaires :
+
+-Chl-a : chlorophylle A ;
+
+-IA : indice abondance ;
+
+-IC : indice composition ;
+
+-(2) Autres nutriments : phosphore et silice. La Méditerranée ne surveille pas la silice ;
+
+-Case blanche : élément pertinent, existence d'une grille ;
+
+-Case grise : paramètre non pertinent pour un type ou une masse d'eau de ce type ;
+
+-(**) : bien qu'il n'y ait pas d'indicateur développé, un suivi est mis en place car ces paramètres permettent d'apporter des explications sur l'état du milieu. |
+
+Tableau 8.-Pertinence des éléments de qualité de l'état écologique pour les eaux côtières dans les bassins ultra-marins
+
+Zones géographiques |
+
+Types |
+
+Eléments de qualité |
+
+Phytoplancton |
+
+Invertébrés benthiques |
+
+Flore (1) |
+
+Physico-chimiques |
+
+Hydro-
+
+morpho-
+
+logie |
+
+Paramètres DCE |
+
+Chl-a |
+
+IA |
+
+IC |
+
+Substrat meuble |
+
+Substrat dur |
+
+Macroalgues |
+
+Angiospermes |
+
+Mangroves |
+
+T° C |
+
+Salinité |
+
+Turbidité |
+
+O2 dissous |
+
+Nutriments azote |
+
+Nutriments autres (2) |
+
+La Réunion |
+
+C43 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+(*) |
+
+|
+
+|
+
+|
+
+(**) |
+
+|
+
+Oui sauf Type 5 et si fond > 30 m pour Type 1 à 4 |
+
+|
+
+|
+
+|
+
+C44 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C45 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C46 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C42 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -5224,6 +4514,40 @@ Petit Saut (MEFM) |
 
 Mayotte |
 
+C47 |
+
+|
+
+|
+
+(*) |
+
+(***) |
+
+(***) |
+
+|
+
+(***) |
+
+|
+
+|
+
+(**) |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C48 |
+
 |
 
 |
@@ -5236,1048 +4560,428 @@ Mayotte |
 
 |
 
-Tableau 13 : pertinence des éléments de qualité biologiques pour les eaux côtières de l'Atlantique, la Manche et la mer du Nord |
-
-Pertinence, par type |
-
-Élément de qualité |
-
-Paramètre DCE |
-
-Type |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-C01 à 17 |
-
-Oui |
-
-Abondance (blooms) |
-
-Oui |
-
-Composition taxonomique |
-
-En cours de développement |
-
-Invertébrés benthiques |
-
-Invertébrés benthiques de substrat meuble |
-
-C01 à 17 |
-
-Ouisauf pour la ME " Côte Landaise " (secteur ultra battu) |
-
-Macroalgues |
-
-Blooms à ulves |
-
-C01 à 17 |
-
-Oui |
-
-Blooms autres |
-
-C01 à 17 MEC abritées |
-
-Oui |
-
-Substrat dur intertidal |
-
-C01 à 17 |
-
-Oui sauf FRGC48 |
-
-Substrat dur subtidal |
-
-C01 à 17 (sauf C5, C6, C8, C16)
-
-13 types répartis en 3 super-types :
-
-A : côte rocheuse peu turbide (C1, C2, C14, C15) ;
-
-B : côte sablo-vaseuse peu turbide (C3, C4, C7, C9, C10, C11, C13, C17) ;
-
-C : côte rocheuse ou sablo-vaseuse turbide (C12) |
-
-Oui sauf ME Côte Landaise (absence de macroagues) |
-
-Angiospermes |
-
-Zostera marina et noltii |
-
-C01 à 17 |
-
-Oui |
-
-Physico-Chimie |
-
-Température |
-
-C01 à 17 |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Oui |
-
-Oxygène dissous |
-
-Oui, sauf si fond > 20m dans les zones brassées |
-
-Nutriments : azote (ammonium + nitrite
-
-+ nitrate) |
-
-Oui |
-
-Nutriments autres : PO4, Si |
-
-Pertinence à étudier |
-
-Hydromorphologie |
+|
 
 |
 
-C01 à C17 |
-
-Oui |
-
-Tableau 14 : pertinence des éléments de qualité biologiques pour les eaux côtières de Méditerranée |
-
-Pertinence, par type |
-
-Élément de qualité |
-
-Paramètre DCE |
-
-Type |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-C18 à 26 |
-
-Oui |
-
-Abondance (blooms) |
-
-Oui |
-
-Composition taxonomique |
-
-En cours de développement |
-
-Invertébrés benthiques |
-
-Invertébrés benthiques de substrat meuble |
-
-C18 à 26 (en infralittoral) |
-
-Oui |
-
-Macroalgues |
-
-Substrat dur infralittoral |
-
-C18 à 26 |
-
-Oui |
-
-Angiospermes |
-
-Posidonies |
-
-C18 à 26 |
-
-Oui (sauf en C19, herbier régressif) |
-
-Physico-Chimie |
-
-Température |
-
-C18 à 26 |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Oui |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments : azote (ammonium + nitrite + nitrate) |
-
-Oui |
-
-Nutriments autres : PO4, Si |
-
-Pertinence à étudier |
-
-Hydromorphologie |
+|
 
 |
 
-C18 à 26 |
-
-Oui |
-
-Tableau 15 : pertinence des éléments de qualité biologiques pour les eaux de transition de l'Atlantique, la Manche et la mer du Nord |
-
-Pertinence, par type |
-
-Élément de qualité |
-
-Paramètre DCE |
-
-Type |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-T01 à 09 |
-
-Oui, sauf MET turbides (FRHT03, FRHT05, FRGT04, FRGT10, FRGT12, FRGT25 à FRGT31, FRFT04, FRFT06, FRFT32 à FRFT35) |
-
-Abondance (blooms) |
-
-Oui, sauf MET turbides (FRHT03, FRHT05, FRGT04, FRGT10, FRGT12, FRGT25 à FRGT31, FRFT04, FRFT06, FRFT32 à FRFT35) |
-
-Composition taxonomique |
-
-En cours de développement |
-
-Invertébrés benthiques |
-
-Invertébrés benthiques
-
-de substrat meuble |
-
-T01 à T09
-
-par zone haline |
-
-En cours de développement |
-
-Macroalgues |
-
-Blooms autres |
-
-T01 à 09 |
-
-Oui |
-
-Substrat dur intertidal |
-
-Oui |
-
-Angiospermes |
-
-Zostera marina et noltii |
-
-Oui |
-
-Poissons |
-
-Poissons |
-
-T01 à 09 |
-
-Oui |
-
-Physico-Chimie |
-
-Température |
-
-T01 à 09 |
-
-Non |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Non, paramètre explicatif |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Oui |
-
-Nutriments autres : PO4, Si |
-
-Pertinence à étudier |
-
-Hydromorphologie |
+C49 |
 
 |
 
-Tous |
-
-Oui |
-
-Tableau 16 : pertinence des éléments de qualité biologiques pour les eaux de transition de Méditerranée |
-
-Pertinence, par type |
-
-Élément de qualité |
-
-Paramètre DCE |
-
-Type |
-
-Pertinence |
-
-Phytoplancton |
-
-chlorophylle a |
-
-T10 (lagunes) |
-
-Oui |
-
-T11 et T12 (Rhônes) |
-
-Oui sauf FRDT19 et FRDT20 |
-
-abondance (blooms) |
-
-T10 (lagunes) |
-
-oui |
-
-T11 et T12 (Rhônes) |
-
-Oui sauf FRDT19 et FRDT20 |
-
-composition taxonomique |
-
-T10 (lagunes) |
-
-Paramètre en cours de développement |
-
-T11 et T12 (Rhônes) |
-
-Paramètre en cours de développement |
-
-Invertébrés benthiques |
-
-invertébrés benthiques de substrat meuble |
-
-T10 (lagunes) |
-
-Oui sauf lagunes oligo et mésohalines |
-
-T11 et T12 (Rhônes) |
-
-Oui sauf FRDT19 et FRDT20 |
-
-Flore autre que phytoplancton |
-
-macrophytes |
-
-T10 (lagunes) |
-
-Oui |
-
-macrophytes |
-
-T12 (Rhônes) |
-
-Non |
-
-Poissons |
-
-poissons |
-
-T10-T12 |
-
-Paramètre en cours de développement |
-
-Physico-Chimie |
-
-Température |
-
-T10 (lagunes) |
-
-Non |
-
-T11 et T12 (Rhônes) |
-
-Non |
-
-Salinité |
-
-T10 (lagunes) |
-
-Non, paramètre explicatif |
-
-T11 et T12 (Rhônes) |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-T10 (lagunes) |
-
-Non, paramètre explicatif |
-
-T11 et T12 (Rhônes) |
-
-oui |
-
-Oxygène dissous |
-
-T10 (lagunes) |
-
-Non, paramètre explicatif |
-
-T11 et T12 (Rhônes) |
-
-Oui |
-
-Nutriments : azote (ammonium + nitrite + nitrate) |
-
-T10 (lagunes) |
-
-Oui |
-
-T11 et T12 (Rhônes) |
-
-Pertinence à étudier |
-
-Nutriments autres : PO4, Si |
-
-T10 (lagunes) |
-
-Oui |
-
-T11 et T12 (Rhônes) |
-
-Pertinence à étudier |
-
-Hydromorphologie |
+|
 
 |
 
-T10 (lagunes) |
-
-Oui |
-
-T11 et T12 (Rhône) |
-
-Oui |
-
-Tableau 17 : pertinence des éléments de qualité biologiques
-
-pour les eaux côtières de la Réunion |
-
-Pertinence, par type |
-
-Élément de qualité |
-
-Paramètre DCE |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-Oui sauf Type 5 |
-
-Abondance (blooms) |
-
-Oui sauf Type 5 |
-
-Composition taxonomique |
-
-Oui sauf Type 5 |
-
-Invertébrés benthiques |
-
-Substrats meubles |
-
-Oui sauf Type 5 |
-
-Substrats durs |
-
-Oui sauf Type 1 à 4 (*) |
-
-Flore autre que phytoplancton |
-
-Macro-algues |
-
-Non pertinence à étudier (*) |
-
-Angiospermes |
-
-Non |
-
-Mangrove |
-
-Non |
-
-Physico-Chimie |
-
-Température |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Oui |
-
-Oxygène dissous |
-
-Oui sauf Type 5
-
-et si fond > 30 m pour Type 1 à 4 |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Indicateur en développement |
-
-Nutriments autres : PO4, Si |
-
-Indicateur en développement |
-
-Hydromorphologie |
+|
 
 |
 
-Oui |
-
-(*) L'indicateur BSD pente externe est composé de plusieurs indices dont un indice Algues dressées .
-
-Définition des termes utilisés dans le tableau pour les éléments de qualité biologiques :
-
--Oui : grille existante
-
--Indicateur en développement : le paramètre est jugé pertinent mais l'indicateur n'est pas finalisé
-
--Pertinence à étudier : les travaux existants n'ont pas permis de juger de la pertinence ou non de l'indicateur
-
--Non pertinence à étudier : le paramètre est jugé non pertinent et en attente du rapport justifiant sa non pertinence
-
--Non : sans objet |
-
-Tableau 18 : pertinence des éléments de qualité biologiques
-
-pour les eaux côtières de Mayotte |
-
-Pertinence, par type |
-
-Élément de qualité |
-
-Paramètre DCE |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-Indicateur en développement |
-
-Abondance (blooms) |
-
-Indicateur en développement |
-
-Composition taxonomique |
-
-Pertinence à étudier |
-
-Invertébrés benthiques |
-
-Substrats meubles |
-
-Indicateur en développement mais pertinence à étudier pour certaines masses d'eau |
-
-Substrats durs |
-
-Indicateur en développement mais pertinence à étudier pour certaines masses d'eau |
-
-Flore autre que phytoplancton |
-
-Macro-algues |
-
-Non pertinence à étudier |
-
-Angiospermes |
-
-Indicateur en développement |
-
-Mangrove |
-
-Indicateur en développement |
-
-Physico-Chimie |
-
-Température |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Oui |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Indicateur en développement |
-
-Nutriments autres : PO4, Si |
-
-Indicateur en développement |
-
-Hydromorphologie |
+|
 
 |
 
-Oui |
-
-Définition des termes utilisés dans le tableau pour les éléments de qualité biologiques :
-
--Oui : grille existante
-
--Indicateur en développement : le paramètre est jugé pertinent mais l'indicateur n'est pas finalisé
-
--Pertinence à étudier : les travaux existants n'ont pas permis de juger de la pertinence ou non de l'indicateur
-
--Non pertinence à étudier : le paramètre est jugé non pertinent et en attente du rapport justifiant sa non pertinence
-
--Non : sans objet |
-
-Tableau 19 : pertinence des éléments de qualité biologiques
-
-pour les eaux côtières de Guadeloupe |
-
-Pertinence, par type |
-
-Elément de qualité |
-
-Paramètre DCE |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-Oui |
-
-Abondance (blooms) |
-
-Oui |
-
-Composition taxonomique |
-
-Indicateur en développement |
-
-Invertébrés benthiques |
-
-Substrats meubles |
-
-Pertinence à étudier |
-
-Substrats durs |
-
-Indicateur en développement |
-
-Flore autre que phytoplancton |
-
-Macro-algues |
-
-Pertinence à étudier |
-
-Angiospermes |
-
-Indicateur en développement |
-
-Mangrove |
-
-Indicateur en développement |
-
-Physico-Chimie |
-
-Température |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Oui |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Indicateur en développement |
-
-Nutriments autres : PO4, Si |
-
-Indicateur en développement |
-
-Hydromorphologie |
+|
 
 |
 
-Oui |
+|
 
-Définition des termes utilisés dans le tableau pour les éléments de qualité biologiques :
-
--Oui : grille existante
-
--Indicateur en développement : le paramètre est jugé pertinent mais l'indicateur n'est pas finalisé
-
--Pertinence à étudier : les travaux existants n'ont pas permis de juger de la pertinence ou non de l'indicateur
-
--Non pertinence à étudier : le paramètre est jugé non pertinent et en attente du rapport justifiant sa non pertinence
-
--Non : sans objet |
-
-Tableau 20 : pertinence des éléments de qualité biologiques
-
-pour les eaux côtières de Martinique |
-
-Pertinence, par type |
-
-Elément de qualité |
-
-Paramètre DCE |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-Oui |
-
-Abondance (blooms) |
-
-Oui |
-
-Composition taxonomique |
-
-Indicateur en développement |
-
-Invertébrés benthiques |
-
-Substrats meubles |
-
-Pertinence à étudier |
-
-Substrats durs |
-
-Indicateur en développement |
-
-Flore autre que phytoplancton |
-
-Macro-algues |
-
-Pertinence à étudier |
-
-Angiospermes |
-
-Indicateur en développement |
-
-Mangrove |
-
-Indicateur en développement |
-
-Physico-Chimie |
-
-Température |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Oui |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Indicateur en développement |
-
-Nutriments autres : PO4, Si |
-
-Indicateur en développement |
-
-Hydromorphologie |
+C50 |
 
 |
 
-Oui |
-
-Définition des termes utilisés dans le tableau pour les éléments de qualité biologiques :
-
--Oui : grille existante
-
--Indicateur en développement : le paramètre est jugé pertinent mais l'indicateur n'est pas finalisé
-
--Pertinence à étudier : les travaux existants n'ont pas permis de juger de la pertinence ou non de l'indicateur
-
--Non pertinence à étudier : le paramètre est jugé non pertinent et en attente du rapport justifiant sa non pertinence
-
--Non : sans objet |
-
-Tableau 21 : pertinence des éléments de qualité biologique
-
-pour les eaux côtières de Guyane |
-
-Pertinence, par type |
-
-Elément de qualité |
-
-Paramètre DCE |
-
-Pertinence |
-
-Phytoplancton |
-
-Chlorophylle a |
-
-Oui |
-
-Abondance (blooms) |
-
-Oui |
-
-Composition taxonomique |
-
-Oui |
-
-Invertébrés benthiques |
-
-Substrats meubles |
-
-Pertinence à étudier |
-
-Substrats durs |
-
-Non |
-
-Flore autre que phytoplancton |
-
-Macro-algues |
-
-Non |
-
-Angiospermes |
-
-Non |
-
-Mangrove |
-
-Non |
-
-Physico-Chimie |
-
-Température |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Non |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Indicateur en développement |
-
-Nutriments autres : PO4, Si |
-
-Indicateur en développement |
-
-Hydromorphologie |
+|
 
 |
 
-Oui |
-
-Définition des termes utilisés dans le tableau pour les éléments de qualité biologiques :
-
--Oui : grille existante
-
--Indicateur en développement : le paramètre est jugé pertinent mais l'indicateur n'est pas finalisé
-
--Pertinence à étudier : les travaux existants n'ont pas permis de juger de la pertinence ou non de l'indicateur
-
--Non pertinence à étudier : le paramètre est jugé non pertinent et en attente du rapport justifiant sa non pertinence
-
--Non : sans objet |
-
-Tableau 22 : pertinence des éléments de qualité biologique
-
-pour les eaux de transition de Guyane |
-
-Pertinence, par type |
-
-Elément de qualité |
-
-Paramètre DCE |
-
-Pertinence |
-
-Phytoplancton |
-
-chlorophylle a |
-
-Non |
-
-abondance (blooms) |
-
-Non |
-
-composition taxonomique |
-
-Non |
-
-Invertébrés benthiques |
-
-Substrats meubles |
-
-Pertinence à étudier |
-
-Substrats durs |
-
-Pertinence à étudier |
-
-Flore autre que phytoplancton |
-
-Mangrove |
-
-Indicateur en développement |
-
-Macro-algues |
-
-Non |
-
-Angiospermes |
-
-Non |
-
-Poissons |
-
-Poissons |
-
-Indicateur en développement |
-
-Physico-Chimie |
-
-Température |
-
-Oui |
-
-Salinité |
-
-Non, paramètre explicatif |
-
-Turbidité |
-
-Pertinence à confirmer selon la ME |
-
-Oxygène dissous |
-
-Oui |
-
-Nutriments :
-
-azote (ammonium + nitrite + nitrate) |
-
-Indicateur en développement |
-
-Nutriments autres : PO4, Si |
-
-Indicateur en développement |
-
-Hydromorphologie |
+|
 
 |
 
-Oui |
+|
 
-Définition des termes utilisés dans le tableau pour les éléments de qualité biologiques :
+|
 
--Oui : grille existante
+|
 
--Indicateur en développement : le paramètre est jugé pertinent mais l'indicateur n'est pas finalisé
+|
 
--Pertinence à étudier : les travaux existants n'ont pas permis de juger de la pertinence ou non de l'indicateur
+|
 
--Non pertinence à étudier : le paramètre est jugé non pertinent et en attente du rapport justifiant sa non pertinence
+C51 |
 
--Non : sans objet |
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C52 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C53 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C54 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Guadeloupe |
+
+C56 |
+
+|
+
+|
+
+(***) |
+
+(*) |
+
+|
+
+(*) |
+
+(***) |
+
+(***) |
+
+|
+
+(**) |
+
+|
+
+|
+
+(***) |
+
+(***) |
+
+|
+
+C57 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C58 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C59 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C60 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C61 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Martinique |
+
+C27 |
+
+|
+
+|
+
+(***) |
+
+(*) |
+
+|
+
+(*) |
+
+(***) |
+
+(***) |
+
+|
+
+(**) |
+
+|
+
+|
+
+(***) |
+
+(***) |
+
+|
+
+C33 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C29 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C30 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C31 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+C32 |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Guyane |
+
+C34 |
+
+|
+
+|
+
+|
+
+(*) |
+
+|
+
+|
+
+|
+
+|
+
+(***) |
+
+(**) |
+
+|
+
+|
+
+(***) |
+
+(***) |
+
+|
+
+Commentaires :
+
+-(1) Flore autre que le phytoplancton ;
+
+-Chl-a : chlorophylle A ;
+
+-IA : indice abondance ;
+
+-IC : indice composition ;
+
+-(2) Autres nutriments : phosphore et silice ;
+
+-Case blanche : élément pertinent, existence d'une grille ;
+
+-Case grise foncée : paramètre non pertinent pour un type ou une masse d'eau de ce type ;
+
+-(*) : Pertinence à étudier ;
+
+-(**) : bien qu'il n'y ait pas d'indicateur développé, un suivi est mis en place car ces paramètres permettent d'apporter des explications sur l'état du milieu ;
+
+-(***) : Indicateur en développement ;
+
+-(***) + case grise claire : Indicateur en cours de développement et pertinence à évaluer. |

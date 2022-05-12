@@ -1,8 +1,6 @@
 # Article Annexe XI
 
-MÉTHODOLOGIE DE SÉLECTION DES SITES DE CONTRÔLE POUR LE PROGRAMME
-
-DES CONTRÔLES OPÉRATIONNELS DES EAUX SOUTERRAINES
+MÉTHODOLOGIE DE SÉLECTION DES SITES DE CONTRÔLE POUR LE PROGRAMME DES CONTRÔLES OPÉRATIONNELS DES EAUX SOUTERRAINES
 
 Des contrôles opérationnels sont effectués pour toutes les masses d'eau ou tous les groupes de masses d'eau souterraine qui, sur la base de l'étude d'incidence effectuée en application du point I 2° de l'article R. 212-3 du code de l'environnement et d'un contrôle de surveillance, sont identifiés comme risquant de ne pas répondre aux objectifs environnementaux mentionnés au IV de l'article L. 212-1 du code de l'environnement. La sélection des sites de contrôle doit également refléter une évaluation de la représentativité des données de contrôle provenant de ce site quant à la qualité de la masse ou des masses d'eau souterraine en cause.
 

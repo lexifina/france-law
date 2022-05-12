@@ -1,8 +1,6 @@
 # Article Annexe IX
 
-MÉTHODOLOGIE D'IDENTIFICATION DES MASSES D'EAU À SUIVRE ET DE SÉLECTION DES SITES D'ÉVALUATION
-
-POUR LE PROGRAMME DE CONTRÔLES OPÉRATIONNELS DES EAUX DE SURFACE
+MÉTHODOLOGIE D'IDENTIFICATION DES MASSES D'EAU À SUIVRE ET DE SÉLECTION DES SITES D'EVALUATION POUR LE PROGRAMME DE CONTRÔLES OPÉRATIONNELS DES EAUX DE SURFACE
 
 Des contrôles opérationnels sont effectués pour toutes les masses d'eau qui sont identifiées comme risquant de ne pas répondre à leurs objectifs environnementaux mentionnés au IV de l'article L. 212-1 du code de l'environnement sur la base de l'étude d'incidence effectuée en application du point I (2°, d) de l'article R. 212-3 du code de l'environnement ou d'un contrôle de surveillance, et pour les masses d'eau dans lesquelles sont rejetées des substances de la liste de substances prioritaires.
 
@@ -22,13 +20,13 @@ Ainsi, les masses d'eau sont suivies :
 
 Le suivi indirect des masses d'eau par extrapolation spatiale. Cette deuxième possibilité peut être pertinente dans les cas suivants :
 
--Dans le cas de pressions d'origine diffuse ou hydromorphologique, si des données obtenues dans des contextes similaires (masses d'eau de même type et soumises à des pressions comparables) peuvent être extrapolées pour évaluer l'impact des pressions à l'échelle de la masse d'eau considérée. Cette extrapolation pourra s'effectuer par le biais d'outils de modélisation.
+Dans le cas de pressions d'origine diffuse ou hydromorphologique, si des données obtenues dans des contextes similaires (masses d'eau de même type et soumises à des pressions comparables) peuvent être extrapolées pour évaluer l'impact des pressions à l'échelle de la masse d'eau considérée. Cette extrapolation pourra s'effectuer par le biais d'outils de modélisation.
 
 Il est possible dans ce cas de procéder par échantillonnage de masses d'eau représentatives. Seule cette sélection de masses d'eau représentatives est suivie directement.
 
 Cette approche peut également être appliquée dans le cas de pressions ponctuelles pour les très petits cours d'eau uniquement.
 
--Dans le cas de pressions ponctuelles, si les informations sur les masses d'eau adjacentes permettent d'évaluer l'impact des pressions à l'échelle de la masse d'eau considérée.
+Dans le cas de pressions ponctuelles, si les informations sur les masses d'eau adjacentes permettent d'évaluer l'impact des pressions à l'échelle de la masse d'eau considérée.
 
 Le suivi indirect des masses d'eau devra pouvoir être justifié et documenté.
 

@@ -1,12 +1,12 @@
 # Article Annexe XV
 
-PARAMÈTRES ET FRÉQUENCES POUR LE SUIVI DU RÉSEAU DE RÉFÉRENCE PÉRENNE EN COURS D'EAU
+PARAMÈTRES ET FRÉQUENCES POUR LE SUIVI DU RESEAU DE RÉFÉRENCE PÉRENNE EN COURS D'EAU
 
 1. Paramètres et fréquences
 
-Tableau 66 : Paramètres et fréquences pour le suivi du réseau de référence pérenne en cours d'eau
+Tableau 49. - Paramètres et fréquences pour le suivi du réseau de référence pérenne en cours d'eau
 
-Eléments suivis |
+Éléments suivis |
 
 Nombre d'années de suivi
 
@@ -16,13 +16,13 @@ Fréquence des contrôles par année |
 
 Sites concernés |
 
-HYDROMORPOLOGIE3 |
+HYDROMORPOLOGIE (3) |
 
 Morphologie |
 
 1 |
 
-12 |
+1 (2) |
 
 Tous |
 
@@ -30,7 +30,7 @@ Continuité de la rivière |
 
 1 |
 
-12 |
+1 (2) |
 
 Tous |
 
@@ -50,7 +50,7 @@ Poissons |
 
 1 |
 
-Tous1 |
+Tous (1) |
 
 Invertébrés |
 
@@ -58,7 +58,7 @@ Invertébrés |
 
 1 |
 
-Tous1 |
+Tous (1) |
 
 Phytoplancton |
 
@@ -66,7 +66,7 @@ Phytoplancton |
 
 4 |
 
-Tous1 |
+Tous (1) |
 
 Diatomées |
 
@@ -74,7 +74,7 @@ Diatomées |
 
 1 |
 
-Tous1 |
+Tous (1) |
 
 Macrophytes |
 
@@ -82,11 +82,11 @@ Macrophytes |
 
 1 |
 
-Tous1 |
+Tous (1) |
 
-PHYSICO-CHIMIE3 |
+PHYSICO-CHIMIE (3) ET CHIMIE (4) |
 
-Paramètres physico-chimiques des groupes 14,2 et 2 bis |
+Paramètres physico-chimiques des groupes 1, 2 et 2bis |
 
 6 |
 
@@ -110,11 +110,19 @@ Paramètres physico-chimiques des groupes 4 et 5 |
 
 Tous |
 
-Thermie Pression |
+Paramètres du groupe 6 (substances pertinences à surveiller , substances de l'état chimique) |
+
+1 (5) |
+
+Fréquences intra-annuelles définies pour le contrôle de surveillance (cf. fréquences pour les matrices eau, biote et sédiment du tableau 29). |
+
+Tous |
+
+Thermie |
 
 6 |
 
-continu |
+Continu (6) |
 
 Tous |
 
@@ -128,27 +136,31 @@ Pression (fiche pressions) |
 
 Tous |
 
-1 Tous, sauf types où cet élément n'est pas pertinent (cf. annexe I).
+(1) Tous, sauf types où cet élément n'est pas pertinent (cf. annexe I) ;
 
-2 Prise en compte possible d'éventuelles modifications importantes entre deux investigations.
+(2) Prise en compte possible d'éventuelles modifications importantes entre deux investigations ;
 
-3 Les paramètres hydromorphologiques et physico-chimiques à suivre sont indiqués à l'annexe IV de l'arrêté surveillance.
+(3) Les paramètres hydromorphologiques et physico-chimiques à suivre sont indiqués à l'annexe IV du présent arrêté ;
 
-4 Il est recommandé d'assurer un suivi en continu du paramètre température. |
+(4) Les paramètres chimiques à suivre (substances pertinences à surveiller substances de l'état chimique) sont indiqués aux annexes II et III du présent arrêté ;
+
+(5) La fréquence pourra être augmentée à raison de deux campagnes par cycle en cas d'identification de dépassements des normes de qualité ou valeurs guides pour les substances prioritaires et les substances pertinentes à surveiller du groupe A ;
+
+(6) Il est recommandé d'assurer un suivi en continu du paramètre température. |
 
 2. Suivi de l'hydromorphologie
 
 Une campagne de terrain (protocole CARHYCE) tous les six ans est nécessaire pour renseigner les éléments descriptifs de l'hydromorphologie.
 
-L'utilisation des données hydrologiques disponibles et l'acquisition de données complémentaires le cas échéant sont réalisées selon les méthodes proposées au 1.3.1. de l'annexe IV (partie régime hydrologique des cours d'eau) du présent arrêté.
+L'utilisation des données hydrologiques disponibles et l'acquisition de données complémentaires le cas échéant sont réalisées selon les méthodes proposées au 1.3.1. de l'annexe IV (partie régime hydrologique des cours d'eau) au présent arrêté.
 
 3. Suivi physico-chimique
 
 Limites de quantification (LQ)
 
-Le suivi des paramètres physico-chimiques sera réalisé sous agrément. L'utilisation de limites de quantification inférieures à celles mentionnées dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques est laissée à l'appréciation des bassins en fonction de leurs connaissances de la physico-chimie de leurs sites de références. Ainsi, à titre d'information, les LQ du tableau 67 ci-dessous peuvent être visées en remplacement de celles figurant dans l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques au titre du code de l'environnement.
+Le suivi des paramètres physico-chimiques est réalisé sous agrément. L'utilisation de limites de quantification inférieures à celles mentionnées dans l'avis relatif aux limites de quantification des couples paramètre-matrice de l'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques est laissée à l'appréciation des bassins en fonction de leurs connaissances de la physico-chimie de leurs sites de références. Ainsi, à titre d'information, les LQ du tableau 67 ci-dessous peuvent être visées en remplacement de celles figurant dans l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques au titre du code de l'environnement.
 
-Tableau 67 : limites de quantification plus basses que celles figurant dans l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques et pouvant être utilisée pour les sites de référence
+Tableau 50. - Limites de quantification plus basses que celles figurant dans l'arrêté du 27 octobre 2011 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques et pouvant être utilisée pour les sites de référence
 
 Code Sandre |
 
@@ -162,7 +174,7 @@ Pour les eaux douces |
 
 Azote total Kjeldahl |
 
-0,05 mg/ l |
+0,05 mg/l |
 
 sur eau brute |
 
@@ -170,7 +182,7 @@ sur eau brute |
 
 Ammonium |
 
-0,005 mg/ l |
+0,005 mg/l |
 
 sur eau filtrée |
 
@@ -178,22 +190,12 @@ sur eau filtrée |
 
 Orthophosphates (PO4) |
 
-0,015 mg/ l |
+0,015 mg/l |
 
 sur eau filtrée |
 
-4. Suivis complémentaires des sites RRP
-
-Pressions anthropiques
+4. Suivis complémentaires des sites RRP - Pressions anthropiques
 
 Les facteurs de pression anthropique sont à réévaluer tous les six ans, de préférence au moment de l'état des lieux à trois échelles spatiales différentes.
 
-Pour les sites du RRP nouvellement proposés, la grille de pression sera renseignée lors du premier passage (détermination de la station, coordonnées géographiques XY) ou lors de la première campagne de terrain. Pour les stations reprises d'un réseau existant (RCS, IPR ou réseau de référence 2005-2007), les grilles seront actualisées durant les 3 premières années.
-
-Substances
-
-Des modalités de suivi adaptées aux objectifs du RRP seront établies pour le 3ème cycle DCE.
-
-Le suivi des substances sur le RRP sera effectué à raison d'une campagne par cycle, selon les fréquences intra-annuelles définies pour le contrôle de surveillance. Les substances prioritaires, les PSEE ainsi que les substances pertinentes à surveiller seront analysées a minima à raison d'une campagne par cycle selon les fréquences intra-annuelles définies pour le contrôle de surveillance (cf. fréquences pour les matrices eau, biote et sédiment du tableau 46).
-
-La fréquence pourra être augmentée à raison de deux campagnes par cycle en cas d'identification de dépassements des normes de qualité ou valeurs guides pour les substances prioritaires et les polluants spécifiques.
+Pour les sites du RRP nouvellement proposés, la grille de pression sera renseignée lors du premier passage (détermination de la station, coordonnées géographiques XY) ou lors de la première campagne de terrain. Pour les stations reprises d'un réseau existant, les grilles seront actualisées durant les 3 premières années du cycle de gestion.

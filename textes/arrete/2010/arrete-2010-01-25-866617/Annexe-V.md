@@ -1,8 +1,6 @@
 # Article Annexe V
 
-MÉTHODOLOGIE DE SÉLECTION DES SITES D'ÉVALUATION POUR LE PROGRAMME DE CONTRÔLE DE SURVEILLANCE
-
-DES EAUX SUPERFICIELLES CONTINENTALES
+MÉTHODOLOGIE DE SÉLECTION DES STATIONS D'EVALUATION POUR LE PROGRAMME DE CONTRÔLE DE SURVEILLANCE DES EAUX SUPERFICIELLES CONTINENTALES
 
 Pour assurer le contrôle de surveillance des eaux de surface continentales (cours d'eau, canaux et plans d'eau), un réseau de sites pérennes répartis sur l'ensemble du territoire (métropole et DOM) est mis en place de façon à disposer d'un suivi des milieux aquatiques dont l'objectif est de suivre l'état général des eaux.
 
@@ -10,29 +8,61 @@ La localisation des sites d'évaluation est adaptée à cette logique.
 
 Pour le contrôle de surveillance, le suivi de toutes les masses d'eau n'est pas requis.
 
-1. Choix des sites cours d'eau
+1. Répartition des stations cours d'eau du réseau de contrôle de surveillance
 
-Le tableau indicatif ci-dessous donne un ordre de grandeur de la répartition du nombre de sites par bassin métropolitain et par taille de cours d'eau
+Le tableau indicatif ci-dessous donne un ordre de grandeur de la répartition cible du nombre de sites par bassin métropolitain et par taille de cours d'eau.
 
-Tableau 33 : ordre de grandeur de la répartition du nombre de sites d'évaluation pour le programme de contrôle de surveillance des eaux superficielles continentales par bassin métropolitain et par taille de cours d'eau
+Tableau 14.-Ordre de grandeur de la répartition cible du nombre de sites d'évaluation pour le programme de contrôle de surveillance des eaux superficielles continentales par bassin métropolitain et par taille de cours d'eau
 
-Tailles
+Tailles des cours d'eau |
 
-des cours d'eau |
+% du nombre de stations du réseau de contrôle de surveillance par taille de cours d'eau |
 
-% du nombre
+Très Petits |
 
-de stations RCS
+30 % |
 
-par taille
+Petits |
 
-de cours d'eau |
+25 % |
 
-Rhône
+Moyens |
 
-Méditerranée
+25 % |
 
-et Corse |
+Grands |
+
+10 % |
+
+Très Grands |
+
+10 % |
+
+Total |
+
+100 % |
+
+Cette répartition indicative peut être ajustée pour chaque bassin en fonction des différentes classes de taille représentées dans le bassin, de leurs proportions respectives et des situations locales particulières. Notamment, elle ne prévoit pas les dispositions spécifiques relatives aux masses d'eau frontalières et les voies d'eau artificielles qui viennent s'ajouter.
+
+Pour obtenir une représentativité de l'état général des eaux dans chaque district, la répartition des stations tient compte :
+
+-de la logique de construction qui est celle d'un suivi de milieu, et non d'un suivi d'impact. A ce titre, il convient d'éviter les singularités (aval de rejets, aval immédiat de barrages, amont immédiat de confluence, etc.) ;
+
+-des différents types de masses d'eau définies dans l'arrêté du 12 janvier 2010 modifié relatif aux méthodes et critères à mettre en œuvre pour délimiter et classer les masses d'eau et dresser l'état des lieux prévu à l'article R. 212-3 du code de l'environnement ;
+
+-de la surface relative des hydroécorégions par bassin et de leur densité de drainage (tableau ci-dessous) ;
+
+-des forces motrices.
+
+Le tableau indicatif ci-dessous donne un ordre de grandeur de la répartition cible du pourcentage de sites, par bassin métropolitain et par hydroécorégion de rang 1 (HER 1), en proportion de surface par bassin et selon la densité de drainage.
+
+Tableau 15.-Ordre de grandeur de la répartition cible du pourcentage de sites, par bassin métropolitain et par hydroécorégion de rang 1 (HER 1), en proportion de surface par bassin et selon la densité de drainage
+
+Hydroécorégion de niveau 1 |
+
+Rhône,
+
+Méditerranée et Corse |
 
 Loire-
 
@@ -49,146 +79,6 @@ Normandie |
 Rhin-Meuse |
 
 Artois-Picardie |
-
-Très Petits |
-
-30 % |
-
-117 |
-
-125 |
-
-102 |
-
-64 |
-
-27 |
-
-13 |
-
-Petits |
-
-25 % |
-
-99 |
-
-104 |
-
-85 |
-
-54 |
-
-22 |
-
-12 |
-
-Moyens |
-
-25 % |
-
-99 |
-
-104 |
-
-85 |
-
-54 |
-
-22 |
-
-12 |
-
-Grands |
-
-10 % |
-
-40 |
-
-42 |
-
-34 |
-
-21 |
-
-9 |
-
-4 |
-
-Très Grands |
-
-10 % |
-
-40 |
-
-42 |
-
-34 |
-
-21 |
-
-9 |
-
-4 |
-
-Total |
-
-100 % |
-
-395 |
-
-417 |
-
-340 |
-
-214 |
-
-89 |
-
-45 |
-
-Cette répartition indicative peut être ajustée pour chaque bassin en fonction des différentes classes de taille représentées dans le bassin, de leurs proportions respectives et des situations locales particulières.
-
-Pour obtenir une représentativité de l'état général des eaux dans chaque district, le choix des sites tient compte :
-
--de la logique de construction qui est celle d'un suivi de milieu, et non d'un suivi d'impact. A ce titre, il convient d'éviter les singularités (aval de rejets, aval immédiat de barrages, amont immédiat de confluence, etc.) ;
-
--des différents types de masses d'eau définies dans l'arrêté du 12 janvier 2010 relatif aux méthodes et critères à mettre en œuvre pour délimiter et classer les masses d'eau et dresser l'état des lieux prévu à l'article R. 212-3 du code de l'environnement ;
-
--de la surface relative des hydroécorégions par bassin et de leur densité de drainage (tableau ci-dessous) ;
-
--des forces motrices.
-
-Le tableau indicatif ci-dessous donne un ordre de grandeur de la répartition du pourcentage de sites, par bassin métropolitain et par hydroécorégion de rang 1 (HER 1), en proportion de surface par bassin et selon la densité de drainage.
-
-Tableau 34 : ordre de grandeur de la répartition du pourcentage de sites, par bassin métropolitain et par hydroécorégion de rang 1 (HER 1), en proportion de surface par bassin et selon la densité de drainage
-
-Hydroécorégion
-
-de niveau 1 |
-
-Rhône,
-
-Méditerranée
-
-et Corse |
-
-Loire-
-
-Bretagne |
-
-Adour-
-
-Garonne |
-
-Seine-
-
-Normandie |
-
-Rhin-Meuse |
-
-Artois-
-
-Picardie |
 
 1 |
 
@@ -560,20 +450,20 @@ Ardennes |
 
 En outre, des stations destinées à évaluer les flux qui rejoignent les eaux littorales et de transition sont à positionner. Elles concernent les principaux fleuves et doivent être placées en dehors de l'influence des marées.
 
-2. Choix des stations plans d'eau
+2. Répartition des stations plans d'eau du réseau de contrôle de surveillance
 
 La règle générale retenue est le suivi de 50 % des plans d'eau dont la superficie est supérieure ou égale à 50 hectares. Cette règle peut être ajustée :
 
 -en sélectionnant tous les plans d'eau naturels de plus de 50 hectares ;
 
--en sélectionnant les plans d'eau d'origine anthropique selon le volume qu'ils représentent (par ordre décroissant) et en couvrant au mieux la diversité rencontrée des types anthropiques définis dans l'arrêté du 12 janvier 2010 relatif aux méthodes et critères à mettre en œuvre pour délimiter et classer les masses d'eau et dresser l'état des lieux prévu à l'article R. 212-3 du code de l'environnement ;
+-en sélectionnant les plans d'eau d'origine anthropique selon le volume qu'ils représentent (par ordre décroissant) et en couvrant au mieux la diversité environnementale rencontrée ;
 
 -en sélectionnant des plans d'eau inférieurs à 50 hectares, présentant une forte valeur patrimoniale ou de forts enjeux socio-économiques.
 
-3. Remplacement de sites du RCS posant des problèmes avérés
+3. Remplacement de sites du réseau de contrôle de surveillance posant des problèmes avérés
 
 Dans l'hypothèse où le remplacement d'un site du RCS est nécessaire, il conviendra de respecter la logique de construction initiale du réseau.
 
-En outre, les sites d'évaluation dont la localisation permet de retenir un point de prélèvement unique pour les différents éléments de qualité seront privilégiés.
+En outre, les stations seront choisies préférentiellement de façon à diminuer le plus possible la distance entre les différents sites de prélèvement qui la constituent.
 
-De surcroit, autant que possible, le site d'évaluation sera également représentatif de l'état de la masse d'eau.
+De surcroit, autant que possible, la station sera représentative de l'état de la masse d'eau.
