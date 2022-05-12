@@ -2,671 +2,945 @@
 
 TYPOLOGIE DES MASSES D'EAU PLANS D'EAU
 
-I. - Eléments de la classification des masses d'eau plans d'eau par types
+I. Eléments de la classification des masses d'eau plans d'eau par types
 
-La typologie nationale des masses d'eau plans d'eau est fondée sur l'origine, anthropique ou naturelle, des plans d'eau, sur la notion d'hydroécorégion et sur les critères physiques correspondants, sur la morphologie de leur cuvette et, pour certains types, sur le fonctionnement hydraulique de ces plans d'eau. La superficie n'a pas été retenue parmi les critères morphologiques. Cette typologie est applicable à l'ensemble des masses d'eau plans d'eau.
+La typologie nationale des masses d'eau plans d'eau est fondée sur l'origine, anthropique ou naturelle, des plans d'eau, et sur les cinq critères typologiques du système de classification A défini à l'annexe II de la Directive Cadre sur l'Eau du 23 octobre 2000 : l'écorégion, l'altitude, la profondeur moyenne, la dimension basée sur la surface et la géologie définie au travers de l'alcalinité. Des regroupements de certains types obtenus suite à l'application stricte du système A ont ensuite été effectués, afin de simplifier la classification et réduire le nombre de types de plans d'eau obtenus. Les regroupements sont basés sur la proximité aux limites des valeurs des critères de classification, et sur le dire d'expert et la connaissance du fonctionnement des différents écosystèmes lacustres. Cette typologie est applicable à l'ensemble des masses d'eau plans d'eau de métropole et d'outre-mer.
 
-I-1. Origine des plans d'eau
+I. 1. Origine des plans d'eau
 
-L'origine anthropique ou naturelle d'un plan d'eau est un élément important qui influe sur son fonctionnement écologique. La typologie distingue également les plans d'eau d'origine anthropique selon la nature de l'ouvrage ou de l'aménagement présidant à sa création. Cette notion d'origine des plans d'eau est indépendante de celle de masse d'eau artificielle ou fortement modifiée mentionnée à l'article R. 212-11 du code de l'environnement.
+L'origine anthropique ou naturelle d'un plan d'eau est un élément important qui influe sur son fonctionnement écologique. Cette notion d'origine des plans d'eau est indépendante de celle de masse d'eau artificielle ou fortement modifiée mentionnée à l'article R. 212-11 du code de l'environnement.
 
 Ainsi, pour les besoins de la présente typologie (cf. partie II de la présente annexe), on appelle :
 
 Plan d'eau d'origine naturelle : un plan d'eau non induit ou faiblement modifié par un ouvrage et non induit par la dynamique fluviale. Il s'agit d'une cuvette naturelle ou faiblement modifiée, d'origine glaciaire, volcanique, tectonique ou de glissement, avec retour possible à une situation naturelle.
 
-Plan d'eau d'origine anthropique généré ou fortement rehaussé par un ouvrage : une retenue dont la hauteur du barrage est importante par rapport à la largeur du cours d'eau et dont le temps de renouvellement de l'eau est important ou conduisant à une modification du régime hydrologique en aval.
+Plan d'eau d'origine anthropique : soit une retenue dont la hauteur du barrage est importante par rapport à la largeur du cours d'eau et dont le temps de renouvellement de l'eau est important ou qui conduit à une modification du régime hydrologique en aval, soit un plan d'eau obtenu par creusement ou aménagement d'une digue transversale ou d'un petit barrage sur thalweg ou sur cours d'eau de rang faible.
 
-Plan d'eau d'origine anthropique obtenu par creusement ou aménagement d'une digue : un plan d'eau obtenu par creusement ou aménagement d'une digue transversale ou d'un petit barrage sur thalweg ou sur cours d'eau de rang faible.
+I. 2. Ecorégions
 
-I-2. Hydroécorégions
+L'appartenance à une des écorégions définies sur la carte A de l'annexe XI de la Directive Cadre sur l'Eau du 23 octobre 2000 constitue la clé d'entrée dans la classification typologique des plans d'eau. Dans le cadre de l'élaboration de la présente typologie, et par souci de simplification, les écorégions 8 (hautes terres occidentales) et 13 (plaines occidentales) ont été regroupées en une seule écorégion appelée central-baltique . De la même façon, les écorégions 4 (Alpes) et 2 (Pyrénées) ont également été regroupées (cf. partie II de la présente annexe).
 
-L'appartenance à une hydroécorégion de niveau 1 est un critère primordial pour les plans d'eau d'origine naturelle et pour certains plans d'eau d'origine anthropique. Le caractère cristallin ou calcaire du substratum conditionne notamment les caractéristiques biologiques et physico-chimiques des eaux. Les hydroécorégions mentionnées pour les plans d'eau sont identiques à celles utilisées pour les cours d'eau (cf. annexe 1).
+I. 3. Altitude
 
-I-3. Forme de la cuvette, stratification thermique et zone littorale
+La typologie de l'altitude est séparée en trois classes :
 
-La forme de la cuvette est un critère important qui permet d'intégrer les notions de profondeur et de stratification thermique du plan d'eau. L'existence d'une zone littorale significative peut, en outre, influencer considérablement la colonisation des habitats par certains éléments de qualité biologiques, en particulier la végétation aquatique macrophytique et l'ichtyofaune.
+-montagne : > 800 m
 
-Vous pouvez consulter l'image dans le
+-moyenne montagne : de 200 à 800 m
 
-JOn° 27 du 02/02/2010 texte numéro 2
+-plaine : < 200 m
 
-Formes théoriques de cuvettes lacustres
+I. 4. Profondeur
 
-(La ligne pointillée indique la limite théorique de profondeur maximale de la thermocline en été)
+La typologie de la profondeur est basée sur la profondeur moyenne du plan d'eau, et est séparée en trois classes :
 
-Cuvette de type L : lac peu profond, zone littorale largement prépondérante, stratification thermique peu étendue et/ou instable (lacs polymictiques).
+-très peu profond : < 3 m
 
-Cuvette de type P : lac profond, stratification thermique stable (lacs monomictiques ou dimictiques), zone littorale réduite.
+-peu profond : 3 à 15 m
 
-Cuvette de type LP : lac ayant à la fois une zone profonde stratifiée stable (lacs monomictiques ou dimictiques) et une zone littorale étendue, la cuvette pouvant être symétrique ou asymétrique.
+-profond : > 15 m
 
-Un lac est qualifié de mono, di ou polymictique selon le nombre de brassages annuels des eaux. Les lacs monomictiques sont ceux qui ne basculent qu'une fois par an. Les lacs dimictiques basculent deux fois par an. On observe, pour ces lacs, une stratification thermique directe en saison chaude et une stratification inverse lorsque les lacs gèlent. Les lacs polymictiques connaissent une stratification thermique instable et facilement détruite par le vent.
+I. 5. Dimension
 
-I-4. Fonctionnement hydraulique
+La typologie de la dimension est basée sur la surface du plan d'eau, et est séparée en cinq classes :
 
-Le fonctionnement hydraulique est un critère utilisé uniquement pour certains types de plans d'eau d'origine anthropique. On se réfère ici aux possibilités de vidange de la cuvette, à la fréquence et à l'intensité des vidanges ainsi qu'aux relations éventuelles avec la nappe. Associé à l'origine des plans d'eau, la description du fonctionnement hydraulique permet de s'affranchir de la notion d'usage qui reste cependant sous-jacente.
+-très faible : < 0,5 km2
 
-II. - Types et caractéristiques des masses d'eau permettant le classement par types
+-faible : 0,5 à 1 km ²
+
+-moyenne ; 1 à 10 km ²
+
+-grande : 10 à 100 km ²
+
+-très grande : > 100 km ²
+
+I. 7. Géologie
+
+La typologie géologique est basée sur l'alcalinité du substrat, et est séparée en trois classes pour les plans d'eau d'origine naturelle :
+
+-siliceux : < 0,2 mEq/ L
+
+-alcalinité moyenne : 0,2 à 1 mEq/ L
+
+-calcaire : > 1 mEq/ L
+
+Dans le cas des plans d'eau d'origine anthropique, seules deux classes ont été utilisées :
+
+-siliceux : ≤ 1 mEq/ L
+
+-calcaire : > 1 mEq/ L
+
+II. Types et caractéristiques des masses d'eau permettant le classement par types
 
 Les types et les caractéristiques des masses d'eau associées à ces types sont indiqués dans les tableaux ci-après.
 
-II-1. Plans d'eau d'origine naturelle
+II. 1. Plans d'eau d'origine naturelle
 
-Type
+Type |
 
-|
+Libellé du type |
 
-Caractéristiques des masses d'eau associées au type
+Ecorégion |
 
-|
+Altitude |
 
-Code du type
+Surface |
 
-|
+Profondeur |
 
-Libellé du type
+Alcalinité |
 
-|
+L1 |
 
-Hydroécorégions (HER) concernées, altitude
+Lac de montagne des Alpes/ Pyrénées, (très) petit, peu profond à profond |
 
-|
+Alpes,
 
-Origine
+Pyrénées |
 
-|
+Montagne |
 
-Forme de la cuvette, stratification thermique et zone littorale
+Faible ou très faible |
 
-|
-
-N1
+Peu profond à profond |
 
 |
 
-Lac de haute montagne avec zone littorale
+L2 |
 
-|
+Lac de montagne des Alpes/ Pyrénées, très petit, peu profond, siliceux |
 
-Plan d'eau de haute montagne, situé dans une HER de haute montagne :
+Très faible |
 
-Alpes internes ou Pyrénées (HER 1 et 2) et altitude > 1200 mètres
+Peu profond |
 
-ou
+Siliceux |
 
-Corse (HER 16) et altitude > 1600 mètres
+L3 |
 
-|
+Lac de montagne des Alpes/ Pyrénées, très petit, peu profond, alcalinité moyenne |
 
-Lac très généralement d'origine glaciaire, en général lac de moraine
+Très faible |
 
-|
+Peu profond |
 
-Cuvette de type L ou LP.
+Alcalinité moyenne |
 
-Dimictique si profond, surface prise en glace chaque année.
+L4 |
 
-Zone littorale importante permettant le développement de macrophytes. Présence de sédiment fin.
+Lac de montagne en Central Baltique, petit, profond, alcalinité moyenne |
 
-|
+Central
 
-N2
+Baltique |
 
-|
+Faible |
 
-Lac de haute montagne A berges dénudées
+Profond |
 
-|
+Alcalinité moyenne |
 
-Lac très généralement d'origine glaciaire
+L5 |
 
-|
+Lac de montagne en Central Baltique, petit, peu profond, calcaire |
 
-Cuvette de type P.
+Faible |
 
-Dimictique si profond, surface prise en glace chaque année.
+Peu profond |
 
-Pas ou peu de zone littorale.
+Calcaire |
 
-|
+L6 |
 
-N3
+Lac de montagne en Central Baltique, petit, peu profond, alcalinité moyenne |
 
-|
+Faible |
 
-Lac de moyenne montagne, calcaire, peu profond
+Peu profond |
 
-|
+Alcalinité moyenne |
 
-Plan d'eau de moyenne montagne, situé dans une HER à dominante calcaire :
+L7 |
 
-Alpes et Pyrénées (HER 1 et 2) et altitude < 1200 mètres
+Lac de montagne en Central Baltique, très petit, profond, alcalinité moyenne |
 
-ou
+Très faible |
 
-Jura-Préalpes du nord, Préalpes du sud (HER 5 et 7)
+Profond |
 
-|
+Alcalinité moyenne |
 
-Lac glaciaire, de glissement, tectonique ou volcanique
+L8 |
 
-|
+Lac de montagne en Central Baltique, très petit, peu profond, siliceux |
 
-Cuvette de type L.
+Très faible |
 
-Généralement polymictique.
+Peu profond |
 
-|
+Siliceux |
 
-N4
+L9 |
 
-|
+Lac de montagne en Central Baltique, très petit, peu profond, alcalinité moyenne |
 
-Lac de moyenne montagne, calcaire, profond, à zone littorale
+Très faible |
 
-|
+Peu profond |
 
-Cuvette de type LP.
+Alcalinité moyenne |
 
-Monomictique ou dimictique.
+L10 |
 
-|
+Lac de montagne en Central Baltique, très petit, très peu profond, calcaire |
 
-N5
+Très faible |
 
-|
+Très peu profond |
 
-Lac de moyenne montagne, non calcaire, peu profond
+Calcaire |
 
-|
+L11 |
 
-Plan d'eau de moyenne montagne, situé dans une HER à dominante non calcaire :
+Lac de montagne en Central Baltique, très petit, très peu profond, alcalinité moyenne |
 
-Vosges, Massif Central nord et sud (HER 3, 4, 21)
+Très faible |
 
-|
+Très peu profond |
 
-Cuvette de type L.
+Alcalinité moyenne |
 
-Généralement polymictique.
+L12 |
 
-|
+Lac de de moyenne montagne, (très) grand, profond, calcaire |
 
-N6
+Alpes,
 
-|
+Pyrénées et Central
 
-Lac de moyenne montagne, non calcaire, profond, à zone littorale
+Baltique |
 
-|
+Moyenne montagne |
 
-Cuvette de type LP.
+Grande ou très grande |
 
-Généralement polymictique ou monomictique, parfois dimictique.
+Profond |
 
-|
+Calcaire |
 
-N7
+L13 |
 
-|
+Lac de de moyenne montagne, petit, peu profond, calcaire |
 
-Lac de moyenne montagne, non calcaire, profond et sans zone littorale importante
+Faible |
 
-|
+Peu profond |
 
-Lac d'origine volcanique (Massif Central) ou glaciaire (Vosges)
+Calcaire |
 
-|
+L14 |
 
-Cuvette de type P.
+Lac de de moyenne montagne, surface moyenne, profond, calcaire |
 
-Monomictique ou dimictique.
+Moyenne |
 
-|
+Profond |
 
-N8
+Calcaire |
 
-|
+L15 |
 
-Lac des coteaux aquitains
+Lac de de moyenne montagne en Central Baltique, surface moyenne, profond, siliceux |
 
-|
+Central
 
-Plan d'eau de basse altitude, situé dans une autre HER que celles des plans d'eau de haute et moyenne montagne (cf. les HER des types N1 à N7 ci-dessus) : Coteaux aquitains
+Baltique |
 
-|
+Moyenne |
 
-|
+Profond |
 
-|
+Siliceux |
 
-N9
+L16 |
 
-|
+Lac de de moyenne montagne en Central Baltique, très petit, profond, calcaire |
 
-Lac profond du bord de l'Atlantique
+Très faible |
 
-|
+Profond |
 
-Plan d'eau de basse altitude, situé dans une autre HER que celles des plans d'eau de haute et moyenne montagne (cf. les HER des types N1 à N7 ci-dessus) :
+Calcaire |
 
-Façade atlantique, situé dans les Landes (HER 13)
+L17 |
 
-|
+Lac de de moyenne montagne en Central Baltique, très petit, peu profond, calcaire |
 
-|
+Très faible |
 
-Cuvette de type LP, monomictique.
+Peu profond |
 
-|
+Calcaire |
 
-N10
+L18 |
 
-|
+Lac de de plaine en Central Baltique, grand, peu profond, alcalinité moyenne |
 
-Lac peu profond du bord de l'Atlantique
+Plaine |
 
-|
+Grande |
 
-|
+Peu profond |
 
-Cuvette de type L, polymictique.
+Alcalinité moyenne |
 
-|
+L19 |
 
-N11
+Lac de de plaine en Central Baltique, grand, très peu profond, calcaire |
 
-|
+Grande |
 
-Lac de basse altitude en façade méditerranéenne
+Très peu profond |
 
-|
+Calcaire |
 
-Plan d'eau de basse altitude, situé dans une autre HER que celles des plans d'eau de haute et moyenne montagne (cf. les HER des types N1 à N7 ci-dessus) :
+L20 |
 
-Façade méditerranéenne (HER 6)
+Lac de de plaine en Central Baltique, surface moyenne, très peu profond, alcalinité moyenne |
 
-|
+Moyenne |
 
-|
+Très peu profond |
 
-|
+Alcalinité moyenne |
 
-N12
+L21 |
 
-|
+Lac de de plaine en Central Baltique, petit, peu profond, calcaire |
 
-Autre lac de basse altitude
+Faible |
 
-|
+Peu profond |
 
-Plan d'eau de basse altitude, situé dans une autre HER que celles des plans d'eau de haute et moyenne montagne (cf. les HER des types N1 à N7 ci-dessus) :
+Calcaire |
 
-Autres zones de plaine (HER : 9, 12)
+L22 |
 
-|
+Lac de de plaine en Central Baltique, très petit, très peu profond, calcaire |
 
-|
+Très faible |
+
+Très peu profond |
+
+Calcaire |
+
+L23 |
+
+Lac de de plaine méditerranéen, petit, peu profond, calcaire |
+
+Mediterranéen |
+
+Faible |
+
+Peu profond |
+
+Calcaire |
+
+L24 |
+
+Lac de La Réunion |
+
+La Réunion |
 
 |
 
 Cases grisées : informations non nécessaires pour la détermination du type.
 
-II-2. Plans d'eau d'origine anthropique générés ou fortement rehaussés par un ouvrage
+II. 2. Plans d'eau d'origine anthropique
 
-Type
+Type |
 
-|
+Libellé du type |
 
-Caractéristiques des masses d'eau associées au type
+Ecorégion |
 
-|
+Altitude |
 
-Code du type
+Surface |
 
-|
+Profondeur |
 
-Libellé du type
+Alcalinité |
 
-|
+R1 |
 
-Hydroécorégions (HER) concernées, altitude
+Retenue de montagne des Alpes/ Pyrénées, surface moyenne, profond, calcaire |
 
-|
+Alpes et Pyrénées |
 
-Marnage et sédimentation
+Montagne |
 
-|
+Moyenne |
 
-Forme de la cuvette stratification thermique
+Profond |
 
-|
+Calcaire |
 
-Zone littorale et autres caractéristiques
+R2 |
 
-|
+Retenue de montagne des Alpes/ Pyrénées, surface moyenne, profond, siliceuse |
 
-A8
+Moyenne |
 
-|
+Profond |
 
-Plan d'eau à marnage très important
+Siliceux |
 
-|
+R3 |
 
-Plan d'eau de plaine ou de moyenne montagne : HER 5, 6, 16
+Retenue de montagne des Alpes/ Pyrénées, surface moyenne, peu profonde, siliceuse |
 
-|
+Moyenne |
 
-Marnage très important
+Peu profond |
 
-|
+Siliceux |
 
-|
+R4 |
 
-Plan d'eau généralement petit, alimenté par des sources, des cours d'eau temporaires ou de rangs 1 à 2, en thalweg (1)
+Retenue de montagne des Alpes/ Pyrénées, petite, profonde, siliceuse |
 
-|
+Faible |
 
-A1
+Profond |
 
-|
+Siliceux |
 
-Retenue de haute montagne
+R5 |
 
-|
+Retenue de montagne en Central Baltique, surface moyenne, profonde, siliceuse |
 
-HER de haute montagne : Alpes internes, Pyrénées : HER 1, 2, Altitude > 1200 mètres
+Central Baltique |
 
-|
+Moyenne |
 
-Marnage annuel
+Profond |
 
-|
+Siliceux |
 
-Cuvette de type P, généralement en V , profondeur importante.
+R6 |
 
-|
+Retenue de montagne en Central Baltique, surface moyenne, peu profonde, siliceuse |
 
-|
+Moyenne |
 
-A2
+Peu profond |
 
-|
+Siliceux |
 
-Retenue de moyenne montagne, calcaire, peu profonde
+R7 |
 
-|
+Retenue de montagne en Central Baltique, très petite, profonde, siliceuse |
 
-Retenue de moyenne montagne à géologie dominante calcaire :
+Très faible |
 
-Préalpes du nord et du sud (HER 5, 7)
+Profond |
 
-|
+Siliceux |
 
-Marnage important
+R8 |
 
-|
+Retenue de montagne en Central Baltique, très petite, peu profonde, siliceuse |
 
-Cuvette de type L, plan d'eau peu profond, pas de thermocline stable en été.
+Très faible |
 
-|
+Peu profond |
 
-Périmètre découpé mais peu de macrophytes du fait d'un marnage important.
+Siliceux |
 
-|
+R9 |
 
-A3
+Retenue de montagne en Central Baltique, très petite, très peu profonde, calcaire |
 
-|
+Très faible |
 
-Retenue de moyenne montagne, calcaire, profonde
+Très peu profond |
 
-|
+Calcaire |
 
-Cuvette de type P ou LP, plan d'eau profond avec thermocline.
+R10 |
 
-|
+Retenue de montagne de Méditerranée, très petite, peu profonde, siliceuse |
 
-A4
+Mediterranée |
 
-|
+Très faible |
 
-Retenue de moyenne montagne, non calcaire, peu profonde
+Peu profond |
 
-|
+Siliceux |
 
-Retenue de moyenne montagne à géologie dominante non calcaire : Massif Central et Vosges (HER 3, 4, 21)
+R11 |
 
-|
+Retenue de moyenne montagne des Alpes/ Méditerranée, grande, profonde, calcaire |
 
-Marnage important
+Alpes et Mediterranée |
 
-|
+Moyenne montagne |
 
-Cuvette de type L, plan d'eau peu profond, pas de thermocline stable en été.
+Grande |
 
-|
+Profond |
 
-A5
+Calcaire |
 
-|
+R12 |
 
-Retenue de moyenne montagne, non calcaire, profonde
+Retenue de moyenne montagne en Central Baltique, grande, profonde, calcaire |
 
-|
+Central Baltique |
 
-Cuvette de type P ou LP, plan d'eau profond, avec thermocline.
+Grande |
 
-|
+Profond |
 
-A9
+Calcaire |
 
-|
+R13 |
 
-Retenue de moyenne montagne méditerranéenne sur socle cristallin, peu profonde
+Retenue de moyenne montagne en Central Baltique, grande, profonde, siliceuse |
 
-|
+Grande |
 
-Retenue de région méditerranéenne de moyenne montagne, généralement sur socle cristallin : Corse , Cévennes (HER 8, 16)
+Profond |
 
-|
+Siliceux |
 
-Marnage important
+R14 |
 
-|
+Retenue de moyenne montagne en Central Baltique, grande, peu profonde, calcaire |
 
-Cuvette de type L, plan d'eau peu profond, pas de thermocline stable en été.
+Grande |
 
-|
+Peu profond |
 
-Périmètre découpé mais peu de macrophytes du fait d'un marnage important.
+Calcaire |
 
-|
+R15 |
 
-A10
+Retenue de moyenne montagne en Central Baltique, surface moyenne, profonde, calcaire |
 
-|
+Moyenne |
 
-Retenue de moyenne montagne méditerranéenne sur socle cristallin, profonde
+Profond |
 
-|
+Calcaire |
 
-Cuvette de type P ou LP, plan d'eau profond avec thermocline.
+R16 |
 
-|
+Retenue de moyenne montagne en Central Baltique, surface moyenne, profonde, siliceuse |
 
-A6a
+Moyenne |
 
-|
+Profond |
 
-Retenue de basse altitude, peu profonde, non calcaire
+Siliceux |
 
-|
+R17 |
 
-Retenue de basse altitude (plaine et colline) à géologie non calcaire :
+Retenue de moyenne montagne en Central Baltique, surface moyenne, peu profonde, calcaire |
 
-Région armoricaine et coteaux aquitains (HER 12 et 14)
+Moyenne |
 
-|
+Peu profond |
 
-Marnage modéré à fort
+Calcaire |
 
-|
+R18 |
 
-Cuvette évasée de type L, peu profonde.
+Retenue de moyenne montagne en Central Baltique, surface moyenne, peu profonde, siliceuse |
 
-|
+Moyenne |
 
-Présence souvent importante de macrophytes en zone littorale, phénomène de sédimentation important (sédiments fins).
+Peu profond |
 
-|
+Siliceux |
 
-A6b
+R19 |
 
-|
+Retenue de moyenne montagne en Central Baltique, surface moyenne, très peu profonde, calcaire |
 
-Retenue de basse altitude, profonde, non calcaire
+Moyenne |
 
-|
+Très peu profond |
 
-Cuvette évasée de type LP, profonde.
+Calcaire |
 
-|
+R20 |
 
-A7a
+Retenue de moyenne montagne en Central Baltique, surface moyenne, très peu profonde, siliceuse |
 
-|
+Moyenne |
 
-Retenue de basse altitude, peu profonde, calcaire
+Très peu profond |
 
-|
+Siliceux |
 
-Retenue de basse altitude (plaine et colline) à géologie à dominante calcaire, de plaine ou de plateau : HER 10
+R21 |
 
-|
+Retenue de moyenne montagne en Central Baltique, petite, profonde, siliceux |
 
-Cuvette évasée de type L, peu profonde.
+Faible |
 
-|
+Profond |
 
-A7b
+Siliceux |
 
-|
+R22 |
 
-Retenue de basse altitude, profonde, calcaire
+Retenue de moyenne montagne en Central Baltique, petite, peu profonde, calcaire |
 
-|
+Faible |
 
-Cuvette évasée de type LP, profonde.
+Peu Profond |
 
-|
+Calcaire |
 
-A11
+R23 |
 
-|
+Retenue de moyenne montagne en Central Baltique, petite, peu profonde, siliceuse |
 
-Retenue méditerranéenne de basse altitude sur socle cristallin, peu profonde
+Faible |
 
-|
+Peu Profond |
 
-Retenue de régions méditerranéennes de basse altitude (plaine et colline), généralement sur socle cristallin :
+Siliceux |
 
-Corse, Massif des Maures (HER 16, 6)
+R24 |
 
-|
+Retenue de moyenne montagne en Central Baltique, petite, très peu profonde, calcaire |
 
-Marnage important
+Faible |
 
-|
+Très peu profond |
 
-Cuvette de type L, peu profonde, pas de thermocline stable en été.
+Calcaire |
 
-|
+R25 |
 
-Périmètre découpé mais peu de macrophytes du fait d'un marnage important.
+Retenue de moyenne montagne en Central Baltique, petite, très peu profonde, siliceux |
 
-|
+Faible |
 
-A12
+Très peu profond |
 
-|
+Siliceux |
 
-Retenue méditerranéenne de basse altitude sur socle cristallin, profonde
+R26 |
 
-|
+Retenue de moyenne montagne en Central Baltique, très petite, peu profonde, calcaire |
 
-Cuvette de type P ou LP, profonde, avec thermocline.
+Très faible |
 
-|
+Peu profond |
 
-Cases grisées : informations non nécessaires pour la détermination du type.
+Calcaire |
 
-(1) Plans d'eau de retenues collinaires, par exemple.
+R27 |
 
-II-3. Plans d'eau d'origine anthropique obtenus par creusement ou aménagement d'une digue
+Retenue de moyenne montagne en Central Baltique, très petite, peu profonde, siliceuse |
 
-Hormis les types plan d'eau vidangé à intervalle régulier et plan d'eau généralement non vidangé mais à gestion hydraulique contrôlée , le libellé des types énumérés ci-dessous contient les caractéristiques des masses d'eau associées aux types et se suffit donc à lui-même pour classer les masses d'eau en fonction de ces types.
+Très faible |
 
-Type
+Peu profond |
 
-|
+Siliceux |
 
-Caractéristiques des masses d'eau associées au type
+R28 |
 
-|
+Retenue de moyenne montagne en Central Baltique, très petite, très peu profonde, siliceuse |
 
-Code du type
+Très faible |
 
-|
+Très Peu profond |
 
-Libellé du type
+Siliceux |
 
-|
+R29 |
 
-A13a
+Retenue de moyenne montagne en Central Baltique, surface moyenne, profonde, calcaire |
 
-|
+Moyenne |
 
-Plan d'eau vidangé à intervalle régulier
+Profonde |
 
-|
+Calcaire |
 
-Plan d'eau de plaine ou de moyenne montagne, à gestion hydraulique, sur substrat imperméable, alimenté par des sources, des cours d'eau temporaires ou de rangs 1 à 2.
+R30 |
 
-|
+Retenue de moyenne montagne en Méditerranée, surface moyenne, profonde, siliceuse |
 
-A13b
+Mediterranée (Corse) |
 
-|
+Moyenne |
 
-Plan d'eau généralement non vidangé mais à gestion hydraulique contrôlée
+Profond |
 
-|
+Siliceux |
+
+R31 |
+
+Retenue de plaine en Central Baltique, grande, peu profonde, calcaire |
+
+Central Baltique |
+
+Plaine |
+
+Grande |
+
+Peu profonde |
+
+Calcaire |
+
+R32 |
+
+Retenue de plaine en Central Baltique, surface moyenne, profonde, siliceuse |
+
+Moyenne |
+
+Profond |
+
+Siliceux |
+
+R33 |
+
+Retenue de plaine en Central Baltique, surface moyenne, peu profonde, calcaire |
+
+Moyenne |
+
+Peu profond |
+
+Calcaire |
+
+R34 |
+
+Retenue de plaine en Central Baltique, surface moyenne, peu profonde, siliceuse |
+
+Moyenne |
 
-A14
+Peu profond |
 
+Siliceux |
+
+R35 |
+
+Retenue de plaine en Central Baltique, surface moyenne, très peu profonde, calcaire |
+
+Moyenne |
+
+Très peu profond |
+
+Calcaire |
+
+R36 |
+
+Retenue de plaine en Central Baltique, surface moyenne, très peu profonde, siliceuse |
+
+Moyenne |
+
+Très peu profond |
+
+Siliceux |
+
+R37 |
+
+Retenue de plaine en Central Baltique, petite, peu profonde, calcaire |
+
+Faible |
+
+Peu profond |
+
+Calcaire |
+
+R38 |
+
+Retenue de plaine en Central Baltique, petite, peu profonde, siliceuse |
+
+Faible |
+
+Peu profond |
+
+Siliceux |
+
+R39 |
+
+Retenue de plaine en Central Baltique, petite, très peu profonde, calcaire |
+
+Faible |
+
+Très peu profond |
+
+Calcaire |
+
+R40 |
+
+Retenue de plaine en Central Baltique, petite, très peu profonde, siliceuse |
+
+Faible |
+
+Très peu profond |
+
+Siliceux |
+
+R41 |
+
+Retenue de plaine en Central Baltique, très petite, peu profonde, calcaire |
+
+Très faible |
+
+Peu profond |
+
+Calcaire |
+
+R42 |
+
+Retenue de plaine en Central Baltique, très petite, peu profonde, siliceuse |
+
+Très faible |
+
+Peu profond |
+
+Siliceux |
+
+R43 |
+
+Retenue de plaine en Central Baltique, très petite, très peu profonde, calcaire |
+
+Très faible |
+
+Très peu profond |
+
+Calcaire |
+
+R44 |
+
+Retenue de plaine en Central Baltique, très petite, très peu profonde, siliceuse |
+
+Très faible |
+
+Très peu profond |
+
+Siliceux |
+
+R45 |
+
+Retenue de plaine en Méditerranée, surface moyenne, profonde, calcaire |
+
+Mediterranée |
+
+Moyenne |
+
+Profond |
+
+Calcaire |
+
+R46 |
+
+Retenue de plaine en Méditerranée, surface moyenne, peu profonde, calcaire |
+
+Moyenne |
+
+Peu profond |
+
+Calcaire |
+
+R47 |
+
+Retenue de plaine en Méditerranée-Corse, petite, peu profonde, siliceuse |
+
+Mediterranée (Corse) |
+
+Faible |
+
+Peu profond |
+
+Siliceux |
+
+R48 |
+
+Retenue de plaine en Méditerranée, petite, très peu profonde, calcaire |
+
+Mediterranée |
+
+Faible |
+
+Très peu profond |
+
+Calcaire |
+
+R49 |
+
+Retenue de plaine en Méditerranée-Corse, très petite, profonde, calcaire |
+
+Mediterranée (Corse) |
+
+Très faible |
+
+Profond |
+
+Calcaire |
+
+R50 |
+
+Retenue de plaine en Méditerranée, très petite, profonde, siliceuse |
+
+Mediterranée |
+
+Très faible |
+
+Profond |
+
+Siliceux |
+
+R51 |
+
+Retenue en Guadeloupe |
+
+Guadeloupe |
+
 |
 
-Plan d'eau créé par creusement, en roche dure, cuvette non vidangeable
+|
 
 |
 
 |
+
+R52 |
+
+Retenue en Martinique |
+
+Martinique |
 
-A15
+|
 
 |
 
-Plan d'eau profond, obtenu par creusement, en lit majeur d'un cours d'eau, en relation avec la nappe, forme de type P, thermocline, berges abruptes
+|
 
 |
+
+R53 |
 
-A16
+Retenue en Guyane |
 
+Guyane |
+
+|
+
 |
 
-Plan d'eau peu profond, obtenu par creusement, en lit majeur d'un cours d'eau, en relation avec la nappe, forme de type L, sans thermocline
+|
 
 |
 

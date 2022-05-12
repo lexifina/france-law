@@ -2,1141 +2,781 @@
 
 TYPOLOGIE DES MASSES D'EAU COURS D'EAU
 
-I. ― Masses d'eau cours d'eau des bassins ou groupements de bassins métropolitains
+I. Masses d'eau cours d'eau des bassins ou groupements de bassins métropolitains
 
-I-1. Méthode de classement des masses d'eau cours d'eau par types
+I. 1. Méthode de classement des masses d'eau cours d'eau par types
 
 Les types de masses d'eau sont définis sur la base d'une classification par régions des écosystèmes aquatiques, croisée avec une classification par tailles des cours d'eau.
 
-I-1 a Classification par régions :
+I. 1. a Classification par régions
 
 Le fonctionnement écologique des cours d'eau est déterminé, à l'amont, par les caractéristiques du relief ainsi que par les caractéristiques géologiques et climatiques du bassin versant. Un découpage régional fondé sur l'homogénéité de ces caractéristiques permet de définir des ensembles de cours d'eau présentant des caractéristiques physiques et biologiques similaires, à gradient équivalent d'évolution longitudinale.
 
-Ce découpage, réalisé au niveau du territoire métropolitain, permet d'identifier 22 hydroécorégions (dites de niveau 1), dont les déterminants primaires présentent des différences importantes, qui peuvent être subdivisées en hydroécorégions élémentaires (dites de niveau 2). Ces hydroécorégions sont identifiées au I-3 de la présente annexe.
+Ce découpage, réalisé au niveau du territoire métropolitain, permet d'identifier 22 hydroécorégions (dites de niveau 1), dont les déterminants primaires présentent des différences importantes, qui peuvent être subdivisées en hydroécorégions élémentaires (dites de niveau 2). Ces hydroécorégions sont identifiées au I. 3 de la présente annexe.
 
-I-1 b Classes de tailles de cours d'eau :
+I. 1. b Classes de tailles de cours d'eau
 
-L'évolution longitudinale des cours d'eau est traduite par l'utilisation de l'ordination de Strahler, permettant de prendre en compte les différences significatives de dimension au niveau des confluences principales. Ainsi, les cours d'eau sont ordonnés en classes de taille, adaptées et parfois regroupées en fonction des caractéristiques locales de l'évolution longitudinale des écosystèmes.
+L'évolution longitudinale des cours d'eau est traduite par l'utilisation de l'ordination de Strahler. L'ordination de Strahler est le rang d'un cours d'eau déterminé d'après la méthode de Strahler, méthode communément retenue car simple à mettre en œuvre. Dans cette méthode, les cours d'eau issus d'une source sont notés de rang 1, puis chaque fois que deux tronçons de même ordre confluent, ils forment un tronçon d'ordre supérieur, tandis qu'un cours d'eau qui reçoit un affluent d'ordre inférieur conserve le même ordre. Cette ordination permet de prendre en compte les différences significatives de dimension au niveau des confluences principales. Ainsi, les cours d'eau sont ordonnés en classes de taille, adaptées et parfois regroupées en fonction des caractéristiques locales de l'évolution longitudinale des écosystèmes.
 
-I-1 c Application :
+En général, la correspondance entre classes de taille de cours d'eau et ordination de Strahler est la suivante :
 
-Dans chacune des 22 hydroécorégions de niveau 1, une classification longitudinale est appliquée, adaptée aux caractéristiques connues de fonctionnement des écosystèmes. Cette première étape aboutit à proposer des types de masses d'eau dits endogènes.
+Pour les bassins Loire-Bretagne et Adour-Garonne :
 
-Dans certains cas, pour des cours d'eau traversant les hydroécorégions ainsi définies, il est nécessaire de prendre en compte l'influence de l'hydroécorégion située à l'amont, qui s'exprime notamment par les caractéristiques géochimiques ou hydrologiques des cours d'eau. Par exemple, un cours d'eau traversant une hydroécorégion à dominante calcaire mais qui naît dans une hydroécorégion à dominante siliceuse ou cristalline (Pyrénées, Massif central...), et dont le débit se constitue essentiellement en zone siliceuse ou cristalline, présente une composition géochimique se rapprochant davantage de celle d'un cours d'eau situé dans ces secteurs siliceux ou cristallins.
+Les masses d'eau classées en très grands cours d'eau ont une ordination de Strahler égale à 7 ou 8.
+
+Les masses d'eau classées en grands cours d'eau ont une ordination de Strahler égale à 6.
+
+Les masses d'eau classées en cours d'eau moyens ont une ordination de Strahler égale à 5.
+
+Les masses d'eau classées en petits cours d'eau ont une ordination de Strahler égale à 4.
+
+Les masses d'eau classées en très petits cours d'eau ont une ordination de Strahler égale à 1,2 ou 3.
+
+Pour les autres bassins métropolitains :
+
+Les masses d'eau classées en très grands cours d'eau ont une ordination de Strahler égale à 6,7 ou 8.
+
+Les masses d'eau classées en grands cours d'eau ont une ordination de Strahler égale à 5.
+
+Les masses d'eau classées en cours d'eau moyens ont une ordination de Strahler égale à 4.
+
+Les masses d'eau classées en petits cours d'eau ont une ordination de Strahler égale à 3.
+
+Les masses d'eau classées en très petits cours d'eau ont une ordination de Strahler égale à 1 ou 2.
+
+Le principe général exposé ci-dessus basé sur l'ordination de Strahler peut toutefois être modulé en fonction d'autres éléments tels que la surface du bassin versant ou encore le dire d'experts.
+
+I. 1. c Application
+
+Dans chacune des 22 hydroécorégions de niveau 1, une classification longitudinale est appliquée, adaptée aux caractéristiques connues de fonctionnement des écosystèmes. Cette première étape aboutit à proposer des types de masses d'eau dits endogènes .
+
+Dans certains cas, pour des cours d'eau traversant les hydroécorégions ainsi définies, il est nécessaire de prendre en compte l'influence de l'hydroécorégion située à l'amont, qui s'exprime notamment par les caractéristiques géochimiques ou hydrologiques des cours d'eau. Par exemple, un cours d'eau traversant une hydroécorégion à dominante calcaire mais qui naît dans une hydroécorégion à dominante siliceuse ou cristalline (Pyrénées, Massif central, …), et dont le débit se constitue essentiellement en zone siliceuse ou cristalline, présente une composition géochimique se rapprochant davantage de celle d'un cours d'eau situé dans ces secteurs siliceux ou cristallins.
 
 Aussi, en fonction de la position et de la surface relative des bassins versants amont des cours d'eau concernés par l'influence d'une autre hydroécorégion, la typologie des masses d'eau est complétée par des types exogènes ou à singularités locales.
 
 A chaque code figurant dans les cases du tableau de synthèse ci-dessous correspond un type de masses d'eau présentant des caractéristiques similaires avec une classe de tailles, une unité géographique de situation et une particularité locale ou l'influence éventuelle d'une hydroécorégion amont.
 
-Les fleuves importants ci-après dénommés très très grands cours d'eau (Rhône, Rhin et Loire), du fait de leur taille et de leur fonctionnement particuliers, constituent des types spécifiques, non rattachables à une hydroécorégion.
+Les fleuves importants ci-après dénommés très très grands cours d'eau (Rhône, Rhin et Loire), du fait de leur taille et de leur fonctionnement particulier, constituent des types spécifiques, non rattachables à une hydroécorégion.
 
 Enfin, les masses d'eau artificielles appartenant à la catégorie masse d'eau cours d'eau sont classées dans le type canal .
 
-Tableau de détermination des types des masses d'eau cours d'eau de métropole (hors Canal)
+Tableau de détermination des types des masses d'eau cours d'eau de métropole (hors Canal )
 
 |
 
-Catégories de tailles de cours d'eau :
+Catégories de tailles de cours d'eau : |
 
-|
+Très Grand |
 
-Très Grand
+Grand |
 
-|
+Moyen |
 
-Grand
+Petit |
 
-|
-
-Moyen
-
-|
-
-Petit
-
-|
-
-Très Petit
-
-|
+Très Petit |
 
 Hydroécorégions de niveau 1
 
-ou très grand fleuve
+ou très très grand fleuve |
 
-|
-
-Cas général ou cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2
-
-|
+Cas général ou cours d'eau exogène de l'HER de niveau 1 indiquée ou HER de niveau 2 ou portion de très très grand fleuve |
 
 Codes mnémoniques des types de cours d'eau
 
-(pour le libellé de ces types, cf. tableau I.b ci-après)
+(pour le libellé de ces types,
 
-|
-
-20
-
-|
-
-DEPOTS ARGILO SABLEUX
-
-|
-
-Cas général
-
-|
-
-|
-
-GM/20
-
-|
-
-P20
-
-|
-
-TP20
-
-|
-
-Exogène de l'HER 9
-
-(Tables Calcaires)
-
-|
-
-|
-
-GM20/9
-
-|
-
-|
-
-Exogène de l'HER 21
-
-(Massif Central Nord)
-
-|
-
-|
-
-G21
-
-|
-
-M21
-
-|
-
-|
-
-21
-
-|
-
-MASSIF CENTRAL NORD
-
-|
-
-Cas général
-
-|
-
-|
-
-P21
-
-|
-
-TP21
-
-|
-
-3
-
-|
-
-MASSIF CENTRAL SUD
-
-|
-
-Cas général
-
-|
-
-|
-
-G3
-
-|
-
-M3
-
-|
-
-P3
-
-|
-
-TP3
-
-|
-
-Exogène de l'HER 19
-
-(Grands Causses)
-
-|
-
-|
-
-M3/19
-
-|
-
-|
-
-Exogène de l'HER 8 (Cévennes)
-
-|
-
-|
-
-M3/8
-
-|
-
-|
-
-Exogène de l'HER 19 ou 8
-
-|
-
-|
-
-G3/19-8
-
-|
-
-|
-
-17
-
-|
-
-DEPRESSIONS SEDIMENTAIRES
-
-|
-
-Cas général
-
-|
-
-|
-
-M17
-
-|
-
-P17
-
-|
-
-TP17
-
-|
-
-Exogène de l'HER 3 ou 21
-
-(M.Cent.S ou N)
-
-|
-
-TG17/3-21
-
-|
-
-G17/3-21
-
-|
-
-M15-17/3-21
-
-|
-
-P17/3-21
-
-|
-
-TP17/3-21
-
-|
-
-15
-
-|
-
-PLAINE SAONE
-
-|
-
-Exogène de l'HER 3 ou 21
-
-|
-
-|
-
-|
-
-Exogène de l'HER 5
-
-(Jura/Pré-Alpes du Nord)
-
-|
-
-|
-
-G15/5
-
-|
-
-MP15/5
-
-|
-
-|
+cf. tableau I. b ci-après) |
 
-Cas général
+20 |
 
-|
-
-TG15
-
-|
-
-|
-
-MP15
-
-|
-
-TP15
-
-|
-
-Exogène de l'HER 4 (Vosges)
+DEPOTS ARGILO SABLEUX |
 
-|
+Cas général |
 
-TG10-15/4
-
 |
 
-|
+GM20 |
 
-5
+P20 |
 
-|
+TP20 |
 
-JURA/PRE-ALPES DU NORD
+Exogène de l'HER 9 (Tables Calcaires) |
 
 |
 
-Cas général
+GM20/9 |
 
 |
 
 |
 
-G5
+Exogène de l'HER 21 (Massif Central Nord) |
 
 |
 
-M5
-
-|
+G21 |
 
-P5
+M21 |
 
 |
 
-TP5
-
 |
 
-Exogène de l'HER 2 (Alpes Internes)
+21 |
 
-|
+MASSIF CENTRAL NORD |
 
-TG5/2
+Cas général |
 
 |
-
-GM5/2
 
-|
+P21 |
 
-|
+TP21 |
 
-TTGA
+3 |
 
-|
+MASSIF CENTRAL SUD |
 
-FLEUVES ALPINS
+Cas général |
 
 |
 
-Cas général
-
-|
+G3 |
 
-TTGA
+M3 |
 
-|
+P3 |
 
-|
+TP3 |
 
-2
+Exogène de l'HER 19 (Grands Causses) |
 
 |
-
-ALPES INTERNES
 
 |
 
-Cas général
+M3/19 |
 
 |
-
-|
-
-G2
 
 |
 
-MP2
+Exogène de l'HER 8 (Cévennes) |
 
 |
 
-TP2
-
 |
 
-7
+M3/8 |
 
 |
 
-PRE-ALPES DU SUD
-
 |
-
-Cas général
 
-|
+Exogène de l'HER 19 ou 8 |
 
 |
 
-GMP7
+G3/19-8 |
 
 |
 
-TP7
-
 |
-
-Exogène de l'HER 2 (Alpes Internes)
 
 |
 
-TG6-7/2
+17 |
 
-|
+DEPRESSIONS SEDIMENTAIRES |
 
-GM7/2
-
-|
+Cas général |
 
 |
 
-6
-
 |
 
-MEDITERRANEE
+M17 |
 
-|
+P17 |
 
-Exogène de l'HER 2 ou 7
+TP17 |
 
-|
+Exogène de l'HER 3 ou 21 (M. Cent. S ou N) |
 
-|
+TG17/3-21 |
 
-|
+G17/3-21 |
 
-Exogène de l'HER 7
+M15-17/3-21 |
 
-(Pré-Alpes du Sud)
+P17/3-21 |
 
-|
+TP17/3-21 |
 
-|
+15 |
 
-GM6/2-7
+PLAINE SAONE |
 
-|
+Exogène de l'HER 3 ou 21 |
 
 |
 
 |
 
-Exogène de l'HER 8 (Cévennes)
-
 |
 
-TG6/1-8
-
 |
 
-GM6/8
+Exogène de l'HER 5 (Jura/ Pré-Alpes du Nord) |
 
 |
 
-|
+G15/5 |
 
-Exogène de l'HER 1 (Pyrénées)
+MP15/5 |
 
 |
 
-GM6/1
+Cas général |
 
-|
+TG15 |
 
 |
 
-Cas général
+MP15 |
 
-|
+TP15 |
 
-|
+Exogène de l'HER 4 (Vosges) |
 
-G6
+TG10-15/4 |
 
 |
 
-MP6
-
 |
 
-TP6
-
 |
-
-8
 
 |
 
-CÉVENNES
+5 |
 
-|
+JURA/ PRE-ALPES DU NORD |
 
-Cas général
+Cas général |
 
 |
 
-|
+G5 |
 
-GMB
+M5 |
 
-|
+P5 |
 
-PTP8
+TP5 |
 
-|
+Exogène de l'HER 2 (Alpes Internes) |
 
-A-her2 n°70
+TG5/2 |
 
-|
+GM5/2 |
 
 |
 
 |
-
-M8-A
 
-|
+TTGA |
 
-PTP8-A
+FLEUVES ALPINS |
 
-|
+Rhône en amont de sa confluence avec la Saône, et Rhin |
 
-16
+TTGA1 |
 
 |
-
-CORSE
 
 |
 
-A-her2 n°22
-
 |
 
 |
-
-G16
 
-|
+TTGA |
 
-M16-A
+FLEUVES ALPINS |
 
-|
+Rhône à l'aval de sa confluence avec la Saône |
 
-PTP16-A
+TTGA2 |
 
 |
-
-B-her2 n°88
 
 |
 
 |
 
-M16-B
-
 |
 
-PTP16-B
+2 |
 
-|
+ALPES INTERNES |
 
-19
+Cas général |
 
 |
 
-GRANDS CAUSSES
+G2 |
 
-|
+MP2 |
 
-Cas général
+TP2 |
 
-|
+7 |
 
-|
+PRE-ALPES DU SUD |
 
-P19
+Cas général |
 
 |
 
-|
+GMP7 |
 
-Exogène de l'HER 8 (Cévennes)
+TP7 |
 
-|
+Exogène de l'HER 2 (Alpes Internes) |
 
-|
+TG6-7/2 |
 
-GM19/8
+GM7/2 |
 
 |
 
 |
 
-11
+6 |
 
-|
+MEDITERRANEE |
 
-CAUSSES AQUITAINS
+Exogène de l'HER 2 ou 7 |
 
 |
 
-Cas général
-
 |
 
 |
 
-P11
-
 |
 
-TP11
+Exogène de l'HER 7 (Pré-Alpes du Sud) |
 
 |
-
-Exogène de l'HER 3 (MCN)
 
-et/ou 21 (MCS)
+GM6/2-7 |
 
 |
 
-TG11/3-21
-
 |
 
-G11/3-21
+Exogène de l'HER 8 (Cévennes) |
 
-|
+TG6/1-8 |
 
-M11/3-21
+GM6/8 |
 
 |
-
-P11/3-21
 
 |
 
-|
+Exogène de l'HER 1 (Pyrénées) |
 
-14
+GM6/1 |
 
 |
 
-COTEAUX AQUITAINS
-
 |
 
-Exogène des HER 3, 8, 11 ou 19
+Cas général |
 
 |
 
-TG14/3-11
+G6 |
 
-|
+MP6 |
 
-G14/3
+TP6 |
 
-|
+8 |
 
-M14/3-11
+CEVENNES |
 
-|
+Cas général |
 
 |
 
-Exogène de l'HER 3 (MCN)
+GM8 |
 
-ou 8 (Cév.)
+PTP8 |
 
-|
+A-her2 n° 70 |
 
 |
 
-M14/3-8
-
 |
 
-|
+M8-A |
 
-Cas général
+PTP8-A |
 
-|
+16 |
 
-|
+CORSE |
 
-GM/14
+A-her2 n° 22 |
 
 |
-
-P14
 
-|
+G16 |
 
-TP14
+M16-A |
 
-|
+PTP16-A |
 
-Exogène de l'HER 1 (Pyrénées)
+B-her2 n° 88 |
 
 |
 
-TG14/1
+M16-B |
 
-|
+PTP16-B |
 
-G14/1
+19 |
 
-|
+GRANDS CAUSSES |
 
-M14/1
+Cas général |
 
 |
 
-P14/1
-
 |
 
 |
 
-13
+P19 |
 
 |
 
-LANDES
+Exogène de l'HER 8 (Cévennes) |
 
 |
-
-Cas général
 
-|
+GM19/8 |
 
 |
 
-M13
-
 |
 
-P13
+11 |
 
-|
+CAUSSES AQUITAINS |
 
-TP13
+Cas général |
 
 |
 
-1
-
 |
 
-PYRENEES
-
 |
-
-Cas général
 
-|
+P11 |
 
-|
+TP11 |
 
-G1
+Exogène de l'HER 3 (MCN) et/ ou 21 (MCS) |
 
-|
+TG11/3-21 |
 
-M1
+G11/3-21 |
 
-|
+M11/3-21 |
 
-P1
+P11/3-21 |
 
 |
-
-TP1
 
-|
+14 |
 
-12
+COTEAUX AQUITAINS |
 
-|
+Exogène des HER 3,8,11 ou 19 |
 
-ARMORICAIN
+TG14/3-11 |
 
-|
+G14/3 |
 
-A-Centre-Sud (her2 n° 58 et 117)
+M14/3-11 |
 
 |
 
 |
 
-G12
+Exogène de l'HER 3 (MCN) ou 8 (Cév.) |
 
 |
 
-M12-A
+M14/3-8 |
 
 |
 
-P12-A
-
 |
 
-TP12-A
+Cas général |
 
 |
 
-B-Ouest-Nord Est
+GM14 |
 
-(her2 n° 55, 59 et 118)
-
-|
+P14 |
 
-|
+TP14 |
 
-M12-B
+Exogène de l'HER 1 (Pyrénées) |
 
-|
+TG14/1 |
 
-P12-B
+G14/1 |
 
-|
+M14/1 |
 
-TP12-B
+P14/1 |
 
 |
 
-TTGL
+13 |
 
-|
+LANDES |
 
-LA LOIRE
+Cas général |
 
 |
 
-Cas général
-
 |
 
-TTGL
+M13 |
 
-|
+P13 |
 
-|
+TP13 |
 
-9
+1 |
 
-|
+PYRENEES |
 
-TABLES CALCAIRES
+Cas général |
 
 |
 
-A-her2 n° 57
+G1 |
 
-|
+M1 |
 
-|
+P1 |
 
-M9-A
+TP1 |
 
-|
+12 |
 
-P9-A
+ARMORICAIN |
 
-|
+A-Centre-Sud (her2 n° 58 et 117) |
 
 |
 
-Cas général
+G12 |
 
-|
+M12-A |
 
-TG9
+P12-A |
 
-|
+TP12-A |
 
-G9
+B-Ouest-Nord Est (her2 n° 55,59 et 118) |
 
 |
-
-M9
 
-|
+M12-B |
 
-P9
+P12-B |
 
-|
+TP12-B |
 
-TP9
+TTGL |
 
-|
+LA LOIRE |
 
-Exogène de l'HER 10
+Cas général |
 
-|
+TTGL |
 
 |
-
-G9/10
 
 |
 
-M9/10
-
 |
 
 |
 
-Exogène de l'HER 21
+9 |
 
-(Massif central Nord)
-
-|
+TABLES CALCAIRES |
 
-TG9/21
+A-her2 n° 57 |
 
 |
 
-G9-10/21
-
 |
 
-M9-10/21
+M9-A |
 
-|
+P9-A |
 
 |
 
-10
+Cas général |
 
-|
+TG9 |
 
-COTES CALCAIRES EST
+G9 |
 
-|
+M9 |
 
-Exogène de l'HER 21
+P9 |
 
-(Massif central Nord)
+TP9 |
 
-|
+Exogène de l'HER 10 |
 
 |
 
-|
+G9/10 |
 
-Cas général
+M9/10 |
 
 |
 
-TG10-15/4
-
 |
 
-G10
-
-|
+Exogène de l'HER 21 (Massif central Nord) |
 
-M10
+TG9/21 |
 
-|
+G9-10/21 |
 
-P10
+M9-10/21 |
 
 |
 
-TP10
-
 |
 
-Exogène de l'HER 4 (Vosges)
+10 |
 
-|
+COTES CALCAIRES EST |
 
-G10/4
+Exogène de l'HER 21 (Massif central Nord) |
 
 |
 
-M10/4
-
 |
 
 |
 
-4
-
-|
+Cas général |
 
-VOSGES
+TG10-15/4 |
 
-|
+G10 |
 
-Cas général
+M10 |
 
-|
+P10 |
 
-|
+TP10 |
 
-M4
+Exogène de l'HER 4 (Vosges) |
 
-|
+G10/4 |
 
-P4
+M10/4 |
 
 |
-
-TP4
 
 |
 
-22
+4 |
 
-|
+VOSGES |
 
-ARDENNES
+Cas général |
 
 |
 
-Exogène de l'HER 10 (Côtes Calcaires Est)
+M4 |
 
-|
+P4 |
 
-TG22/10
+TP4 |
 
-|
+22 |
 
-|
+ARDENNES |
 
-Cas général
+Exogène de l'HER 10 (Côtes Calcaires Est) |
 
-|
+TG22/10 |
 
 |
-
-GM22
 
 |
 
-P22
-
 |
 
-TP22
-
 |
 
-18
+Cas général |
 
 |
 
-ALSACE
+GM22 |
 
-|
+P22 |
 
-Cas général
+TP22 |
 
-|
+18 |
 
-|
+ALSACE |
 
-MP18
+Cas général |
 
 |
-
-TP18
 
 |
 
-Exogène de l'HER 4 (Vosges)
+MP18 |
 
-|
-
-|
+TP18 |
 
-G18/4
+Exogène de l'HER 4 (Vosges) |
 
 |
 
-M18/4
+G18/4 |
 
-|
+M18/4 |
 
-P18/4
-
-|
+P18/4 |
 
 |
 
@@ -1144,15 +784,13 @@ Légende du tableau :
 
 En grisé : pas de type correspondant.
 
-Code utilisé :
-
-TG = très grand cours d'eau, G = grand, M = moyen, P = petit, TP = très petit.
+Code utilisé : TG = très grand cours d'eau, G = grand, M = moyen, P = petit, TP = très petit.
 
 Premier nombre : code de l'hydroécorégion de niveau 1 dans lequel se situe le cours d'eau ou tronçon de cours d'eau.
 
-Le tiret signifie : et/ou , ou ou et , selon les cas. Le libellé des types (cf. la partie I b ci-dessous) précise ce point.
+Le tiret signifie : et/ ou , ou ou et , selon les cas. Le libellé des types (cf. la partie I. b ci-dessous) précise ce point.
 
-Deuxième nombre séparé par un / du premier : code de l'hydroécorégion de niveau 1 influençant les caractéristiques du cours d'eau (géochimie...). Le type de cours d'eau est, dans ce cas, dit exogène de cette hydroécorégion (cf. le libellé des types de la partie I b ci-dessous).
+Deuxième nombre séparé par un / du premier : code de l'hydroécorégion de niveau 1 influençant les caractéristiques du cours d'eau (géochimie …). Le type de cours d'eau est, dans ce cas, dit exogène de cette hydroécorégion (cf. le libellé des types de la partie I. b ci-dessous).
 
 Lettre A ou B : hydroécorégion de niveau 2 (indiquée dans la troisième colonne du tableau ci-dessus).
 
@@ -1164,1037 +802,531 @@ P22 : petits cours d'eau de l'hydroécorégion de niveau 1 n° 22 (petits cours 
 
 GM22 : grands et moyens cours d'eau de l'hydroécorégion de niveau 1 n° 22 (Ardennes).
 
-M10/4 : moyens cours d'eau de l'hydroécorégion de niveau 1 n° 10 (côtes calcaires Est) influencés par l'hydroécorégion de niveau 1 n° 4 (Vosges) : bien que géographiquement situés dans les côtes calcaires Est, ces cours d'eau présentent des caractéristiques des cours d'eau des Vosges.
+M10/4 : moyens cours d'eau de l'hydroécorégion de niveau 1 n° 10 (Côtes calcaires Est) influencés par l'hydroécorégion de niveau 1 n° 4 (Vosges) : bien que géographiquement situés dans les Côtes calcaires Est, ces cours d'eau présentent des caractéristiques des cours d'eau des Vosges.
 
 PTP16-B : petits et très petits cours d'eau de l'hydroécorégion de niveau 2 n° 88 (plaine d'Aléria) incluse dans l'hydroécorégion de niveau 1 n° 16 (Corse).
 
 Les types qui résultent de l'application de cette méthode, ainsi que leur codification, sont déclinés dans le tableau de synthèse ci-après.
 
-I-2. Types des masses d'eau cours d'eau des bassins ou groupements de bassins métropolitains
+I. 2. Types des masses d'eau cours d'eau des bassins ou groupements de bassins métropolitains
 
-CODE MNÉMONIQUE
+Code mnémonique du type (cf. le tableau ci-dessus |
 
-du type
+Libellé du type |
 
-(cf. le tableau
+GM20 |
 
-ci-dessus)
+Grand ou Moyen cours d'eau des Dépôts argilo-sableux |
 
-|
+P20 |
 
-LIBELLÉ DU TYPE
+Petit cours d'eau des Dépôts argilo-sableux |
 
-|
+TP20 |
 
-GM20
+Très Petit cours d'eau des Dépôts argilo-sableux |
 
-|
+GM20/9 |
 
-Grand ou moyen cours d'eau des dépôts argilo-sableux
+Grand ou Moyen cours d'eau des Dépôts argilo-sableux et exogène des Tables calcaires |
 
-|
+G21 |
 
-P20
+Grand cours d'eau du Massif central Nord |
 
-|
+M21 |
 
-Petit cours d'eau des dépôts argilo-sableux
+Moyen cours d'eau du Massif central Nord |
 
-|
+P21 |
 
-TP20
+Petit cours d'eau du Massif central Nord |
 
-|
+TP21 |
 
-Très petit cours d'eau des dépôts argilo-sableux
+Très Petit cours d'eau du Massif central Nord |
 
-|
+G3 |
 
-GM20/9
+Grand cours d'eau du Massif central Sud |
 
-|
+M3 |
 
-Grand ou moyen cours d'eau des dépôts argilo-sableux et exogène des tables calcaires
+Moyen cours d'eau du Massif central Sud |
 
-|
+P3 |
 
-G21
+Petit cours d'eau du Massif central Sud |
 
-|
+TP3 |
 
-Grand cours d'eau du Massif central Nord
+Très Petit cours d'eau du Massif central Sud |
 
-|
+M3/19 |
 
-M21
+Moyen cours d'eau du Massif central Sud et exogène des Grands Causses |
 
-|
+M3/8 |
 
-Moyen cours d'eau du Massif central Nord
+Moyen cours d'eau du Massif central Sud et exogène des Cévennes |
 
-|
+G3/19-8 |
 
-P21
+Grand cours d'eau du Massif central Sud et exogène des Grands Causses et/ ou des Cévennes |
 
-|
+M17 |
 
-Petit cours d'eau du Massif central Nord
+Moyen cours d'eau des Dépressions sédimentaires |
 
-|
+P17 |
 
-TP21
+Petit cours d'eau des Dépressions sédimentaires |
 
-|
+TP17 |
 
-Très petit cours d'eau du Massif central Nord
+Très Petit cours d'eau des Dépressions sédimentaires |
 
-|
+TG17/3-21 |
 
-G3
+Très Grand cours d'eau des Dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+G17/3-21 |
 
-Grand cours d'eau du Massif central Sud
+Grand cours d'eau des Dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+M15-17/3-21 |
 
-M3
+Moyen cours d'eau de la Plaine de Saône ou des Dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+P17/3-21 |
 
-Moyen cours d'eau du Massif central Sud
+Petit cours d'eau des Dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+TP17/3-21 |
 
-P3
+Très Petit cours d'eau des Dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+TG15 |
 
-Petit cours d'eau du Massif central Sud
+Très Grand cours d'eau de Plaine de Saône |
 
-|
+MP15 |
 
-TP3
+Moyen ou Petit cours d'eau de Plaine de Saône |
 
-|
+TP15 |
 
-Très petit cours d'eau du Massif central Sud
+Très Petit cours d'eau de Plaine de Saône |
 
-|
+G15/5 |
 
-M3/19
+Grand cours d'eau de Plaine de Saône et exogène du Jura/ Pré-Alpes du Nord |
 
-|
+MP15/5 |
 
-Moyen cours d'eau du Massif central Sud et exogène des Grands Causses
+Moyen ou Petit cours d'eau de Plaine de Saône et exogène du Jura/ Pré-Alpes du Nord |
 
-|
+TG10-15/4 |
 
-M3/8
+Très Grand cours d'eau des Côtes calcaires Est ou de Plaine de Saône et exogène des Vosges |
 
-|
+G5 |
 
-Moyen cours d'eau du Massif central Sud et exogène des Cévennes
+Grand cours d'eau du Jura/ Pré-Alpes du Nord |
 
-|
+M5 |
 
-G3/19-8
+Moyen cours d'eau du Jura/ Pré-Alpes du Nord |
 
-|
+P5 |
 
-Grand cours d'eau du Massif central Sud et exogène des Grands Causses et/ou des Cévennes
+Petit cours d'eau du Jura/ Pré-Alpes du Nord |
 
-|
+TP5 |
 
-M17
+Très Petit cours d'eau du Jura/ Pré-Alpes du Nord |
 
-|
+TG5/2 |
 
-Moyen cours d'eau des dépressions sédimentaires
+Très Grand cours d'eau du Jura/ Pré-Alpes du Nord et exogène des Alpes internes |
 
-|
+GM5/2 |
 
-P17
+Grand ou Moyen cours d'eau du Jura/ Pré-Alpes du Nord et exogène des Alpes internes |
 
-|
+TTGA1 |
 
-Petit cours d'eau des dépressions sédimentaires
+Très Très Grand fleuve alpin-Le Rhône en amont de sa confluence avec la Saône, ou le Rhin |
 
-|
+TTGA2 |
 
-TP17
+Très Très Grand fleuve alpin-Le Rhône à l'aval de sa confluence avec la Saône |
 
-|
+G2 |
 
-Très petit cours d'eau des dépressions sédimentaires
+Grand cours d'eau des Alpes internes |
 
-|
+MP2 |
 
-TG17/3-21
+Moyen ou Petit cours d'eau des Alpes internes |
 
-|
+TP2 |
 
-Très grand cours d'eau des dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord
+Très petit cours d'eau des Alpes internes |
 
-|
+GMP7 |
 
-G17/3-21
+Grand ou Moyen ou Petit cours d'eau des Pré-Alpes du Sud |
 
-|
+TP7 |
 
-Grand cours d'eau des dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord
+Très Petit cours d'eau des Pré-Alpes du Sud |
 
-|
+GM7/2 |
 
-M15-17/3-21
+Grand ou Moyen cours d'eau des Pré-Alpes du Sud et exogène des Alpes internes |
 
-|
+TG6-7/2 |
 
-Moyen cours d'eau de la plaine de Saône ou des dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord
+Très Grand cours d'eau en Méditerranée ou des Pré-Alpes du Sud et exogène des Alpes internes |
 
-|
+G6 |
 
-P17/3-21
+Grand cours d'eau de Méditerranée |
 
-|
+MP6 |
 
-Petit cours d'eau des dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord
+Moyen ou Petit cours d'eau de Méditerranée |
 
-|
+TP6 |
 
-TP17/3-21
+Très Petit cours d'eau de Méditerranée |
 
-|
+GM6/2-7 |
 
-Très petit cours d'eau des dépressions sédimentaires et exogène du Massif central Sud ou du Massif central Nord
+Grand ou Moyen cours d'eau de Méditerranée et exogène des Pré-Alpes du Sud ou des Alpes internes |
 
-|
+TG6/1-8 |
 
-TG15
+Très Grand cours d'eau de Méditerranée et exogène des Pyrénées ou des Cévennes |
 
-|
+GM6/8 |
 
-Très grand cours d'eau de plaine de Saône
+Grand ou Moyen cours d'eau de Méditerranée et exogène des Cévennes |
 
-|
+GM6/1 |
 
-MP15
+Grand ou Moyen cours d'eau de Méditerranée et exogène des Pyrénées |
 
-|
+GM8 |
 
-Moyen ou petit cours d'eau de plaine de Saône
+Grand ou Moyen cours d'eau des Cévennes |
 
-|
+PTP8 |
 
-TP15
+Petit ou Très Petit cours d'eau des Cévennes |
 
-|
+M8-A |
 
-Très petit cours d'eau de plaine de Saône
+Moyen cours d'eau des Cévennes dans l'HER de niveau 2 n° 70 |
 
-|
+PTP8-A |
 
-G15/5
+Petit ou Très Petit cours d'eau des Cévennes dans l'HER de niveau 2 n° 70 |
 
-|
+G16 |
 
-Grand cours d'eau de plaine de Saône et exogène du Jura/préalpes du Nord
+Grand cours d'eau de Corse |
 
-|
+M16-A |
 
-MP15/5
+Moyen cours d'eau de Corse dans l'HER de niveau 2 n° 22 |
 
-|
+PTP16-A |
 
-Moyen ou petit cours d'eau de plaine de Saône et exogène du Jura/préalpes du Nord
+Petit ou Très Petit cours d'eau de Corse dans l'HER de niveau 2 n° 22 |
 
-|
+M16-B |
 
-TG10-15/4
+Moyen cours d'eau de Corse dans l'HER de niveau 2 n° 88 |
 
-|
+PTP16-B |
 
-Très grand cours d'eau des côtes calcaires Est ou de plaine de Saône et exogène des Vosges
+Petit ou Très Petit cours d'eau de Corse dans l'HER de niveau 2 n° 88 |
 
-|
+P19 |
 
-G5
+Petit cours d'eau des Grands Causses |
 
-|
+GM19/8 |
 
-Grand cours d'eau du Jura/préalpes du Nord
+Grand ou Moyen cours d'eau des Grands Causses et exogène des Cévennes |
 
-|
+P11 |
 
-M5
+Petit cours d'eau des Causses aquitains |
 
-|
+TP11 |
 
-Moyen cours d'eau du Jura/préalpes du Nord
+Très Petit cours d'eau des Causses aquitains |
 
-|
+TG11/3-21 |
 
-P5
+Très Grand cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+G11/3-21 |
 
-Petit cours d'eau du Jura/préalpes du Nord
+Grand cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+M11/3-21 |
 
-TP5
+Moyen cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+P11/3-21 |
 
-Très petit cours d'eau du Jura/préalpes du Nord
+Petit cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord |
 
-|
+GM14 |
 
-TG5/2
+Grand ou Moyen cours d'eau des Coteaux aquitains |
 
-|
+P14 |
 
-Très grand cours d'eau du Jura/préalpes du Nord et exogène des Alpes internes
+Petit cours d'eau des Coteaux aquitains |
 
-|
+TP14 |
 
-GM5/2
+Très Petit cours d'eau des Coteaux aquitains |
 
-|
+TG14/3-11 |
 
-Grand ou moyen cours d'eau du Jura/préalpes du Nord et exogène des Alpes internes
+Très Grand cours d'eau des Coteaux aquitains et exogène du Massif central Sud et/ ou des Causses aquitains |
 
-|
+G14/3 |
 
-TTGA
+Grand cours d'eau des Coteaux aquitains et exogène du Massif central Sud |
 
-|
+M14/3-11 |
 
-Très très grand fleuve alpin ― le Rhône ou le Rhin
+Moyen cours d'eau des Coteaux aquitains et exogène du Massif central Sud et/ ou des Causses aquitains |
 
-|
+M14/3-8 |
 
-G2
+Moyen cours d'eau des Coteaux aquitains et exogène du Massif central Sud et/ ou des Cévennes |
 
-|
+TG14/1 |
 
-Grand cours d'eau des Alpes internes
+Très Grand cours d'eau des Coteaux aquitains et exogène des Pyrénées |
 
-|
+G14/1 |
 
-MP2
+Grand cours d'eau des Coteaux aquitains et exogène des Pyrénées |
 
-|
+M14/1 |
 
-Moyen ou petit cours d'eau des Alpes internes
+Moyen cours d'eau des Coteaux aquitains et exogène des Pyrénées |
 
-|
+P14/1 |
 
-TP2
+Petit cours d'eau des Coteaux aquitains et exogène des Pyrénées |
 
-|
+M13 |
 
-Très petit cours d'eau des Alpes internes
+Moyen cours d'eau des Landes |
 
-|
+P13 |
 
-GMP7
+Petit cours d'eau des Landes |
 
-|
+TP13 |
 
-Grand ou moyen ou petit cours d'eau des préalpes du Sud
+Très Petit cours d'eau des Landes |
 
-|
+G1 |
 
-TP7
+Grand cours d'eau des Pyrénées |
 
-|
+M1 |
 
-Très petit cours d'eau des préalpes du Sud
+Moyen cours d'eau des Pyrénées |
 
-|
+P1 |
 
-GM7/2
+Petit cours d'eau des Pyrénées |
 
-|
+TP1 |
 
-Grand ou moyen cours d'eau des préalpes du Sud et exogène des Alpes internes
+Très Petit cours d'eau des Pyrénées |
 
-|
+G12 |
 
-TG6-7/2
+Grand cours d'eau Armoricain |
 
-|
+M12-A |
 
-Très grand cours d'eau en Méditerranée ou des préalpes du Sud et exogène des Alpes internes
+Moyen cours d'eau Armoricain dans les HER de niveau 2 n° 58 ou n° 117 |
 
-|
+P12-A |
 
-G6
+Petit cours d'eau Armoricain dans les HER de niveau 2 n° 58 ou n° 117 |
 
-|
+TP12-A |
 
-Grand cours d'eau de Méditerranée
+Très Petit cours d'eau Armoricain dans les HER de niveau 2 n° 58 ou n° 117 |
 
-|
+M12-B |
 
-MP6
+Moyen cours d'eau Armoricain dans les HER de niveau 2 n° 55, n° 59 ou n° 118 |
 
-|
+P12-B |
 
-Moyen ou petit cours d'eau de Méditerranée
+Petit cours d'eau Armoricain dans les HER de niveau 2 n° 55, n° 59 ou n° 118 |
 
-|
+TP12-B |
 
-TP6
+Très Petit cours d'eau Armoricain dans les HER de niveau 2 n° 55, n° 59 ou n° 118 |
 
-|
+TTGL |
 
-Très petit cours d'eau de Méditerranée
+Très Très Grand fleuve-La Loire |
 
-|
+TG9 |
 
-GM6/2-7
+Très Grand cours d'eau des Tables calcaires |
 
-|
+G9 |
 
-Grand ou moyen cours d'eau de Méditerranée et exogène des préalpes du Sud ou des Alpes internes
+Grand cours d'eau des Tables calcaires |
 
-|
+M9 |
 
-TG6/1-8
+Moyen cours d'eau des Tables calcaires |
 
-|
+P9 |
 
-Très grand cours d'eau de Méditerranée et exogène des Pyrénées ou des Cévennes
+Petit cours d'eau des Tables calcaires |
 
-|
+TP9 |
 
-GM6/8
+Très Petit cours d'eau des Tables calcaires |
 
-|
+M9-A |
 
-Grand ou moyen cours d'eau de Méditerranée et exogène des Cévennes
+Moyen cours d'eau des Tables calcaires dans l'HER de niveau 2 n° 57 |
 
-|
+P9-A |
 
-GM6/1
+Petit cours d'eau des Tables calcaires dans l'HER de niveau 2 n° 57 |
 
-|
+G9/10 |
 
-Grand ou moyen cours d'eau de Méditerranée et exogène des Pyrénées
+Grand cours d'eau des Tables calcaires et exogène des Côtes calcaires Est |
 
-|
+M9/10 |
 
-GM8
+Moyen cours d'eau des Tables calcaires et exogène des Côtes calcaires Est |
 
-|
+TG9/21 |
 
-Grand ou moyen cours d'eau des Cévennes
+Très Grand cours d'eau des Tables calcaires et exogène du Massif central Nord |
 
-|
+G9-10/21 |
 
-PTP8
+Grand cours d'eau des Tables calcaires ou des Côtes calcaires Est et exogène du Massif central Nord |
 
-|
+M9-10/21 |
 
-Petit ou très petit cours d'eau des Cévennes
+Moyen cours d'eau des Tables calcaires ou des Côtes calcaires Est et exogène du Massif central Nord |
 
-|
+G10 |
 
-M8-A
+Grand cours d'eau des Côtes calcaires Est |
 
-|
+M10 |
 
-Moyen cours d'eau des Cévennes dans l'HER de niveau 2 n° 70
+Moyen cours d'eau des Côtes calcaires Est |
 
-|
+P10 |
 
-PTP8-A
+Petit cours d'eau des Côtes calcaires Est |
 
-|
+TP10 |
 
-Petit ou très petit cours d'eau des Cévennes dans l'HER de niveau 2 n° 70
+Très Petit cours d'eau des Côtes calcaires Est |
 
-|
+M10/4 |
 
-G16
+Moyen cours d'eau des Côtes calcaires Est et exogène des Vosges |
 
-|
+G10/4 |
 
-Grand cours d'eau de Corse
+Grand cours d'eau des Côtes calcaires Est et exogène des Vosges |
 
-|
+M4 |
 
-M16-A
+Moyen cours d'eau des Vosges |
 
-|
+P4 |
 
-Moyen cours d'eau de Corse dans l'HER de niveau 2 n° 22
+Petit cours d'eau des Vosges |
 
-|
+TP4 |
 
-PTP16-A
+Très Petit cours d'eau des Vosges |
 
-|
+TG22/10 |
 
-Petit ou très petit cours d'eau de Corse dans l'HER de niveau 2 n° 22
+Très Grand cours d'eau des Ardennes et exogène des Côtes calcaires Est |
 
-|
+GM22 |
 
-M16-B
+Grand ou Moyen cours d'eau des Ardennes |
 
-|
+P22 |
 
-Moyen cours d'eau de Corse dans l'HER de niveau 2 n° 88
+Petit cours d'eau des Ardennes |
 
-|
+TP22 |
 
-PTP16-B
+Très Petit cours d'eau des Ardennes |
 
-|
+MP18 |
 
-Petit ou très petit cours d'eau de Corse dans l'HER de niveau 2 n° 88
+Moyen ou Petit cours d'eau d'Alsace |
 
-|
+TP18 |
 
-P19
+Très Petit cours d'eau d'Alsace |
 
-|
+G18/4 |
 
-Petit cours d'eau des Grands Causses
+Grand cours d'eau d'Alsace et exogène des Vosges |
 
-|
+M18/4 |
 
-GM19/8
+Moyen cours d'eau d'Alsace et exogène des Vosges |
 
-|
+P18/4 |
 
-Grand ou moyen cours d'eau des Grands Causses et exogène des Cévennes
+Petit cours d'eau d'Alsace et exogène des Vosges |
 
-|
+C |
 
-P11
-
-|
-
-Petit cours d'eau des Causses aquitains
-
-|
-
-TP11
-
-|
-
-Très petit cours d'eau des Causses aquitains
-
-|
-
-TG11/3-21
-
-|
-
-Très grand cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord
-
-|
-
-G11/3-21
-
-|
-
-Grand cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord
-
-|
-
-M11/3-21
-
-|
-
-Moyen cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord
-
-|
-
-P11/3-21
-
-|
-
-Petit cours d'eau des Causses aquitains et exogène du Massif central Sud ou du Massif central Nord
-
-|
-
-GM14
-
-|
-
-Grand ou moyen cours d'eau des Coteaux aquitains
-
-|
-
-P14
-
-|
-
-Petit cours d'eau des Coteaux aquitains
-
-|
-
-TP14
-
-|
-
-Très petit cours d'eau des coteaux aquitains
-
-|
-
-TG14/3-11
-
-|
-
-Très grand cours d'eau des coteaux aquitains et exogène du Massif central Sud et/ou des Causses aquitains
-
-|
-
-G14/3
-
-|
-
-Grand cours d'eau des coteaux aquitains et exogène du Massif central Sud
-
-|
-
-M14/3-11
-
-|
-
-Moyen cours d'eau des coteaux aquitains et exogène du Massif central Sud et/ou des Causses aquitains
-
-|
-
-M14/3-8
-
-|
-
-Moyen cours d'eau des coteaux aquitains et exogène du Massif central Sud et/ou des Cévennes
-
-|
-
-TG14/1
-
-|
-
-Très grand cours d'eau des coteaux aquitains et exogène des Pyrénées
-
-|
-
-G14/1
-
-|
-
-Grand cours d'eau des coteaux aquitains et exogène des Pyrénées
-
-|
-
-M14/1
-
-|
-
-Moyen cours d'eau des coteaux aquitains et exogène des Pyrénées
-
-|
-
-P14/1
-
-|
-
-Petit cours d'eau des coteaux aquitains et exogène des Pyrénées
-
-|
-
-M13
-
-|
-
-Moyen cours d'eau des Landes
-
-|
-
-P13
-
-|
-
-Petit cours d'eau des Landes
-
-|
-
-TP13
-
-|
-
-Très petit cours d'eau des Landes
-
-|
-
-G1
-
-|
-
-Grand cours d'eau des Pyrénées
-
-|
-
-M1
-
-|
-
-Moyen cours d'eau des Pyrénées
-
-|
-
-P1
-
-|
-
-Petit cours d'eau des Pyrénées
-
-|
-
-TP1
-
-|
-
-Très petit cours d'eau des Pyrénées
-
-|
-
-G12
-
-|
-
-Grand cours d'eau armoricain
-
-|
-
-M12-A
-
-|
-
-Moyen cours d'eau armoricain dans les HER de niveau 2 n° 58 ou n° 117
-
-|
-
-P12-A
-
-|
-
-Petit cours d'eau armoricain dans les HER de niveau 2 n° 58 ou n° 117
-
-|
-
-TP12-A
-
-|
-
-Très petit cours d'eau armoricain dans les HER de niveau 2 n° 58 ou n° 117
-
-|
-
-M12-B
-
-|
-
-Moyen cours d'eau armoricain dans les HER de niveau 2 n° 55, n° 59 ou n° 118
-
-|
-
-P12-B
-
-|
-
-Petit cours d'eau armoricain dans les HER de niveau 2 n° 55, n° 59 ou n° 118
-
-|
-
-TP12-B
-
-|
-
-Très petit cours d'eau armoricain dans les HER de niveau 2 n° 55, n° 59 ou n° 118
-
-|
-
-TTGL
-
-|
-
-Très très grand fleuve ― La Loire
-
-|
-
-TG9
-
-|
-
-Très grand cours d'eau des tables calcaires
-
-|
-
-G9
-
-|
-
-Grand cours d'eau des tables calcaires
-
-|
-
-M9
-
-|
-
-Moyen cours d'eau des tables calcaires
-
-|
-
-P9
-
-|
-
-Petit cours d'eau des tables calcaires
-
-|
-
-TP9
-
-|
-
-Très petit cours d'eau des tables calcaires
-
-|
-
-M9-A
-
-|
-
-Moyen cours d'eau des tables calcaires dans l'HER de niveau 2 n° 57
-
-|
-
-P9-A
-
-|
-
-Petit cours d'eau des tables calcaires dans l'HER de niveau 2 n° 57
-
-|
-
-G9/10
-
-|
-
-Grand cours d'eau des tables calcaires et exogène des côtes calcaires Est
-
-|
-
-M9/10
-
-|
-
-Moyen cours d'eau des tables calcaires et exogène des côtes calcaires Est
-
-|
-
-TG9/21
-
-|
-
-Très grand cours d'eau des tables calcaires et exogène du Massif central Nord
-
-|
-
-G9-10/21
-
-|
-
-Grand cours d'eau des tables calcaires ou des côtes calcaires Est et exogène du Massif central Nord
-
-|
-
-M9-10/21
-
-|
-
-Moyen cours d'eau des tables calcaires ou des côtes calcaires Est et exogène du Massif central Nord
-
-|
-
-G10
-
-|
-
-Grand cours d'eau des côtes calcaires Est
-
-|
-
-M10
-
-|
-
-Moyen cours d'eau des côtes calcaires Est
-
-|
-
-P10
-
-|
-
-Petit cours d'eau des côtes calcaires Est
-
-|
-
-TP10
-
-|
-
-Très petit cours d'eau des côtes calcaires Est
-
-|
-
-M10/4
-
-|
-
-Moyen cours d'eau des côtes calcaires Est et exogène des Vosges
-
-|
-
-G10/4
-
-|
-
-Grand cours d'eau des côtes calcaires Est et exogène des Vosges
-
-|
-
-M4
-
-|
-
-Moyen cours d'eau des Vosges
-
-|
-
-P4
-
-|
-
-Petit cours d'eau des Vosges
-
-|
-
-TP4
-
-|
-
-Très petit cours d'eau des Vosges
-
-|
-
-TG22/10
-
-|
-
-Très grand cours d'eau des Ardennes et exogène des côtes calcaires Est
-
-|
-
-GM22
-
-|
-
-Grand ou moyen cours d'eau des Ardennes
-
-|
-
-P22
-
-|
-
-Petit cours d'eau des Ardennes
-
-|
-
-TP22
-
-|
-
-Très petit cours d'eau des Ardennes
-
-|
-
-MP18
-
-|
-
-Moyen ou petit cours d'eau d'Alsace
-
-|
-
-TP18
-
-|
-
-Très petit cours d'eau d'Alsace
-
-|
-
-G18/4
-
-|
-
-Grand cours d'eau d'Alsace et exogène des Vosges
-
-|
-
-M18/4
-
-|
-
-Moyen cours d'eau d'Alsace et exogène des Vosges
-
-|
-
-P18/4
-
-|
-
-Petit cours d'eau d'Alsace et exogène des Vosges
-
-|
-
-C
-
-|
-
-Canal
-
-|
+Canal |
 
 L'ensemble des éléments scientifiques et techniques conduisant à cette typologie de la France métropolitaine figurent dans les rapports établis par le CEMAGREF :
 
-Chandesris A., Wasson J.-G., Pella H., Sauquet H. and Mengin N. (2006). Typologie des cours d'eau de France métropolitaine. Appui scientifique à la mise en œuvre de la directive-cadre européenne sur l'eau. Rapport, CEMAGREF, ministère de l'écologie et du développement durable, Lyon. 62 p.
+Chandesris, A., Wasson, J. G., Pella, H., Sauquet, H. and Mengin, N. (2006). Typologie des cours d'eau de France métropolitaine. Appui scientifique à la mise en œuvre de la Directive Cadre Européenne sur l'Eau. Rapport, Cemagref, Ministère de l'Ecologie et du Développement Durable, Lyon. 62 p.
 
-Wasson Jean-Gabriel, Chandesris André, Pella Hervé, Blanc Laurence (juin 2002). Définition des hydroécorégions françaises métropolitaines. CEMAGREF. 191 p.
+Wasson J-G., Chandesris A., Pella H., Blanc L. (2002). Définition des hydro-écorégions françaises métropolitaines. CEMAGREF 191 p.
 
-Ces rapports sont disponibles sur le site internet du ministère chargé de l'écologie.
+Ces rapports sont disponibles sur le site Internet du ministère chargé de l'écologie.
 
-I-3. Cartes et listes des hydroécorégions (HER) de la France métropolitaine
+I. 3. Cartes et listes des hydroécorégions (HER) de la France métropolitaine
 
-Vous pouvez consulter la carte dans le
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-JOn° 27 du 02/02/2010 texte numéro 2
-
-Hydroécorégions (HER) de niveau 1 pour la France métropolitaine
-
-et HER de niveau 2 regroupées utilisées dans la typologie
+Hydroécorégions (HER) de niveau 1 pour la France métropolitaine et HER de niveau 2 regroupées utilisées dans la typologie
 
 Légende :
 
@@ -2204,2121 +1336,1119 @@ Les lettres A ou B renvoient aux regroupements des hydroécorégions de niveau 2
 
 Liste des hydroécorégions de niveau 1 et correspondance avec les hydroécorégions de niveau 2 :
 
-CODE DE L'HYDROÉCORÉGION
+Code de l'hydroécorégion
 
-de niveau 1
+de niveau 1 |
 
-|
+Libellé de l'hydroécorégion de niveau 1 |
 
-LIBELLÉ DE L'HYDROÉCORÉGION
+Codes des hydroécorégions de niveau 2 composant l'hydroécorégion de niveau 1 |
 
-de niveau 1
+1 |
 
-|
+Pyrénées |
 
-CODES DES HYDROÉCORÉGIONS
+23,24,67,69,94,95,96 |
 
-de niveau 2 composant l'hydroécorégion de niveau 1
+2 |
 
-|
+Alpes internes |
 
-1
+8,9,10,12,101,107 |
 
-|
+3 |
 
-Pyrénées
+Massif central Sud |
 
-|
+43,44,47,49,50,72,86,90,91,93 |
 
-23, 24, 67, 69, 94, 95, 96
+4 |
 
-|
+Vosges |
 
-2
+63,74 |
 
-|
+5 |
 
-Alpes internes
+Jura-Préalpes Nord |
 
-|
+2,3,5,6,11,76,79,80,85,120 |
 
-8, 9, 10, 12, 101, 107
+6 |
 
-|
+Méditerranéen |
 
-3
+56,102,104,105,108,112,114,116 |
 
-|
+7 |
 
-Massif central Sud
+Préalpes du sud |
 
-|
+13,14,15,16,17,106 |
 
-43, 44, 47, 49, 50, 72, 86, 90, 91, 93
+8 |
 
-|
+Cévennes |
 
-4
+70,71,103 |
 
-|
+9 |
 
-Vosges
+Tables calcaires |
 
-|
+30,32,35,36,37,38,40,41,54,57,97 |
 
-63, 74
+10 |
 
-|
+Côtes calcaires Est |
 
-5
+1,25,26,27,51,53,75,82,83,98,99 |
 
-|
+11 |
 
-Jura ― Préalpes Nord
+Causses aquitains |
 
-|
+64,65 |
 
-2, 3, 5, 6, 11, 76, 79, 80, 85, 120
+12 |
 
-|
+Armoricain |
 
-6
+55,58,59,117,118 |
 
-|
+13 |
 
-Méditerranéen
+Landes |
 
-|
+18,19,20,21 |
 
-56, 102, 104, 105, 108, 112, 114, 116
+14 |
 
-|
+Coteaux aquitains |
 
-7
+66,68,77,78 |
 
-|
+15 |
 
-Préalpes du Sud
+Plaine Saône |
 
-|
+4,7,81,84 |
 
-13, 14, 15, 16, 17, 106
+16 |
 
-|
+Corse |
 
-8
+22,88 |
 
-|
+17 |
 
-Cévennes
+Dépressions sédimentaires |
 
-|
+45,46,52 |
 
-70, 71, 103
+18 |
 
-|
+Alsace |
 
-9
+61,62,73 |
 
-|
+19 |
 
-Tables calcaires
+Grands Causses |
 
-|
+113,115 |
 
-30, 32, 35, 36, 37, 38, 40, 41, 54, 57, 97
+20 |
 
-|
+Dépôts argilo-sableux |
 
-10
+28,31,33,39,42,119 |
 
-|
+21 |
 
-Côtes calcaires Est
+Massif central Nord |
 
-|
+48,87,89,92 |
 
-1, 25, 26, 27, 51, 53, 75, 82, 83, 98, 99
+22 |
 
-|
+Ardennes |
 
-11
+34 |
 
-|
-
-Causses aquitains
-
-|
-
-64, 65
-
-|
-
-12
-
-|
-
-Armoricain
-
-|
-
-55, 58, 59, 117, 118
-
-|
-
-13
-
-|
-
-Landes
-
-|
-
-18, 19, 20, 21
-
-|
-
-14
-
-|
-
-Coteaux aquitains
-
-|
-
-66, 68, 77, 78
-
-|
-
-15
-
-|
-
-Plaine Saône
-
-|
-
-4, 7, 81, 84
-
-|
-
-16
-
-|
-
-Corse
-
-|
-
-22, 88
-
-|
-
-17
-
-|
-
-Dépressions sédimentaires
-
-|
-
-45, 46, 52
-
-|
-
-18
-
-|
-
-Alsace
-
-|
-
-61, 62, 73
-
-|
-
-19
-
-|
-
-Grands Causses
-
-|
-
-113, 115
-
-|
-
-20
-
-|
-
-Dépôts argilo-sableux
-
-|
-
-28, 31, 33, 39, 42, 119
-
-|
-
-21
-
-|
-
-Massif central Nord
-
-|
-
-48, 87, 89, 92
-
-|
-
-22
-
-|
-
-Ardennes
-
-|
-
-34
-
-|
-
-Vous pouvez consulter la carte dans le
-
-JOn° 27 du 02/02/2010 texte numéro 2
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
 Hydroécorégions (HER) de niveau 2 pour la France métropolitaine
 
-Dénomination des HER de niveau 2 figurant dans le tableau de détermination des types des masses d'eau cours d'eau de métropole (cf. partie I-1 de la présente annexe) :
+Dénomination des HER de niveau 2 figurant dans le tableau de détermination des types des masses d'eau cours d'eau de métropole (cf. partie I. 1. de la présente annexe) :
 
-Pour l'HER 1 n° 9 (Tables calcaires) : HER de niveau 2 n° 57 (Haute-Normandie, Picardie) et n° 40 (Champagne humide) ;
-
-Pour l'HER 1 n° 16 (Corse) : HER de niveau 2 n° 22 (Corse) et n° 88 (plaine d'Aléria) ;
-
-Pour l'HER 1 n° 8 (Cévennes) : HER de niveau 2 n° 70 (Haute-Loire cévenole) ;
-
-Pour l'HER 1 n° 12 (Massif armoricain) : HER de niveau 2 n° 55 (Massif armoricain Nord-Est), n° 58 (Massif armoricain Sud intérieur), n° 59 (Massif armoricain Ouest), n° 117 (Massif armoricain Est intérieur) et n° 118 (Massif armoricain côtes du Nord).
+Pour l'HER 1 n° 9 (Tables calcaires) : HER de niveau 2 n° 57 (Haute-Normandie, Picardie) et n° 40 (Champagne humide) ; Pour l'HER 1 n° 16 (Corse) : HER de niveau 2 n° 22 (Corse) et n° 88 (plaine d'Aléria) ; Pour l'HER 1 n° 8 (Cévennes) : HER de niveau 2 n° 70 (Haute-Loire cévenole) ; Pour l'HER 1 n° 12 (Massif armoricain) : HER de niveau 2 n° 55 (Massif armoricain nord-est), n° 58 (Massif armoricain Sud intérieur), n° 59 (Massif armoricain Ouest), n° 117 (Massif armoricain est intérieur) et n° 118 (Massif armoricain Côtes du Nord).
 
 Liste des hydroécorégions de niveau 2 et correspondance avec les hydroécorégions de niveau 1
 
-CODE DE L'HYDROÉCORÉGION
+Code de l'hydroécorégion
 
-de niveau 2
+de niveau 2 |
 
-|
+Libellé de l'hydroécorégion de niveau 2 |
 
-LIBELLÉ DE L'HYDROÉCORÉGION
+Code de l'hydroécorégion de niveau 1 dont fait partie l'hydroécorégion de niveau 2 |
 
-de niveau 2
+1 |
 
-|
+Plateau calcaire haute Saône |
 
-CODE DE L'HYDROÉCORÉGION
+10 |
 
-de niveau 1 dont fait partie
+2 |
 
-l'hydroécorégion de niveau 2
+Jura premier plateau |
 
-|
+5 |
 
-1
+3 |
 
-|
+Jura nord |
 
-Plateau calcaire Haute Saône
+5 |
 
-|
+4 |
 
-10
+Forêt de Chaux |
 
-|
+15 |
 
-2
+5 |
 
-|
+Jura sud |
 
-Jura premier plateau
+5 |
 
-|
+6 |
 
-5
+Massif Chablais Giffre |
 
-|
+5 |
 
-3
+7 |
 
-|
+Dombes |
 
-Jura Nord
+15 |
 
-|
+8 |
 
-5
+Massif du Mont Blanc |
 
-|
+2 |
 
-4
+9 |
 
-|
+Massif Schisteux Maurienne Tarentaise |
 
-Forêt de Chaux
+2 |
 
-|
+10 |
 
-15
+Massif de la Vanoise |
 
-|
+2 |
 
-5
+11 |
 
-|
+Vercors nord |
 
-Jura Sud
+5 |
 
-|
+12 |
 
-5
+Massif de l'Oisans |
 
-|
+2 |
 
-6
+13 |
 
-|
+Dévoluy Vercors sud |
 
-Massif Chablais Giffre
+7 |
 
-|
+14 |
 
-5
+Préalpes drômoises Baronnies |
 
-|
+7 |
 
-7
+15 |
 
-|
+Gapençais Embrunais |
 
-Dombes
+7 |
 
-|
+16 |
 
-15
+Plateau calcaire de Provence-Ventoux |
 
-|
+7 |
 
-8
+17 |
 
-|
+Plateaux calcaires de Provence |
 
-Massif du Mont-Blanc
+7 |
 
-|
+18 |
 
-2
+Ile de Ré |
 
-|
+13 |
 
-9
+19 |
 
-|
+Ile d'Oléron |
 
-Massif schisteux maurienne tarentaise
+13 |
 
-|
+20 |
 
-2
+Dunes de Royan |
 
-|
+13 |
 
-10
+21 |
 
-|
+Landes |
 
-Massif de la Vanoise
+13 |
 
-|
+22 |
 
-2
+Corse |
 
-|
+16 |
 
-11
+23 |
 
-|
+Cf. 96 Pyrénées Etage montagnard |
 
-Vercors Nord
+1 |
 
-|
+24 |
 
-5
+Pyrénées orientales |
 
-|
+1 |
 
-12
+25 |
 
-|
+Plateau lorrain |
 
-Massif de l'Oisans
+10 |
 
-|
+26 |
 
-2
+Bassin de Forbach |
 
-|
+10 |
 
-13
+27 |
 
-|
+Plaine de Woëvre |
 
-Dévoluy Vercors Sud
+10 |
 
-|
+28 |
 
-7
+Sologne-Forêt d'Orléans |
 
-|
+20 |
 
-14
+30 |
 
-|
+Pays de Caen |
 
-Préalpes drômoises Baronnies
+9 |
 
-|
+31 |
 
-7
+Flandres intérieures |
 
-|
+20 |
 
-15
+32 |
 
-|
+Boulonnais |
 
-Gapençais Embrunais
+9 |
 
-|
+33 |
 
-7
+Douai-Condé |
 
-|
+20 |
 
-16
+34 |
 
-|
+Ardennes |
 
-Plateau calcaire de Provence ― Ventoux
+22 |
 
-|
+35 |
 
-7
+Pays de Bray |
 
-|
+9 |
 
-17
+36 |
 
-|
+Bassin parisien-Ile-de-France |
 
-Plateaux calcaires de Provence
+9 |
 
-|
+37 |
 
-7
+Cotentin est |
 
-|
+9 |
 
-18
+38 |
 
-|
+Tables calcaires-Auréole Crétacé |
 
-Ile de Ré
+9 |
 
-|
+39 |
 
-13
+Thiérache |
 
-|
+20 |
 
-19
+40 |
 
-|
+Champagne humide |
 
-Ile d'Oléron
+9 |
 
-|
+41 |
 
-13
+Tables calcaires Sud Loire |
 
-|
+9 |
 
-20
+42 |
 
-|
+Epandages éluviaux |
 
-Dunes de Royan
+20 |
 
-|
+43 |
 
-13
+Massif central-Dépressions internes |
 
-|
+3 |
 
-21
+44 |
 
-|
+Massif central-Terres granitiques orientales |
 
-Landes
+3 |
 
-|
+45 |
 
-13
+Plaine du Forez |
 
-|
+17 |
 
-22
+46 |
 
-|
+Limagne de l'Allier |
 
-Corse
+17 |
 
-|
+47 |
 
-16
+Massif central-Dépression du Puy |
 
-|
+3 |
 
-23
+48 |
 
-|
+Montagne bourbonnaise |
 
-Cf. 96 Pyrénées étage montagnard
+21 |
 
-|
+49 |
 
-1
+Hautes Terres volcaniques orientales |
 
-|
+3 |
 
-24
+50 |
 
-|
+Hautes Terres granitiques orientales |
 
-Pyrénées orientales
+3 |
 
-|
+51 |
 
-1
+Bazois Auxois |
 
-|
+10 |
 
-25
+52 |
 
-|
+Fosses tectoniques |
 
-Plateau lorrain
+17 |
 
-|
+53 |
 
-10
+Bassin parisien-Côtes calcaires |
 
-|
+10 |
 
-26
+54 |
 
-|
+Tables calcaires-Nord Loire-Perche |
 
-Bassin de Forbach
+9 |
 
-|
+55 |
 
-10
+Massif armoricain-nord est |
 
-|
+12 |
 
-27
+56 |
 
-|
+Collines de Basse Provence |
 
-Plaine de Woëvre
+6 |
 
-|
+57 |
 
-10
+Tables calcaires-Haute-Normandie Picardie |
 
-|
+9 |
 
-28
+58 |
 
-|
+Massif armoricain-sud intérieur |
 
-Sologne ― Forêt d'Orléans
+12 |
 
-|
+59 |
 
-20
+Massif armoricain-ouest |
 
-|
+12 |
 
-30
+61 |
 
-|
+Alsace-collines |
 
-Pays de Caen
+18 |
 
-|
+62 |
 
-9
+Alsace-plaine |
 
-|
+18 |
 
-31
+63 |
 
-|
+Vosges granitiques |
 
-Flandres intérieures
+4 |
 
-|
+64 |
 
-20
+Collines calcaires de Dordogne (Cahors) |
 
-|
+11 |
 
-32
+65 |
 
-|
+Causses du Quercy |
 
-Boulonnais
+11 |
 
-|
+66 |
 
-9
+Coteaux molassiques Nord Aquitaine |
 
-|
+14 |
 
-33
+67 |
 
-|
+Bordure pyrénéenne centrale |
 
-Douai-Condé
+1 |
 
-|
+68 |
 
-20
+Coteaux molassiques Est Aquitaine |
 
-|
+14 |
 
-34
+69 |
 
-|
+Bordure pyrénéenne atlantique |
 
-Ardennes
+1 |
 
-|
+70 |
 
-22
+Haute Loire cévenole |
 
-|
+8 |
 
-35
+71 |
 
-|
+Cévennes |
 
-Pays de Bray
+8 |
 
-|
+72 |
 
-9
+Montagne noire |
 
-|
+3 |
 
-36
+73 |
 
-|
+Collines du Sundgau |
 
-Bassin parisien ― Ile-de-France
+18 |
 
-|
+74 |
 
-9
+Vosges gréseuses |
 
-|
+4 |
 
-37
+75 |
 
-|
+Collines de Haute-Saône |
 
-Cotentin Est
+10 |
 
-|
+76 |
 
-9
+Piedmont Alpes Jura |
 
-|
+5 |
 
-38
+77 |
 
-|
+Coteaux molassiques bassin de l'Adour |
 
-Tables calcaires ― Auréole Crétacé
+14 |
 
-|
+78 |
 
-9
+Coteaux molassiques Centre Aquitaine |
 
-|
+14 |
 
-39
+79 |
 
-|
+Massifs calcaires Chartreuse Aravis |
 
-Thiérache
+5 |
 
-|
+80 |
 
-20
+Vallée du Drac |
 
-|
+5 |
 
-40
+81 |
 
-|
+Plaine de Bourgogne |
 
-Champagne humide
+15 |
 
-|
+82 |
 
-9
+Côtes de Mâcon |
 
-|
+10 |
 
-41
+83 |
 
-|
+Beaujolais calcaire |
 
-Tables calcaires Sud Loire
+10 |
 
-|
+84 |
 
-9
+Bresse |
 
-|
+15 |
 
-42
+85 |
 
-|
+Collines du Bas Dauphiné |
 
-Epandages éluviaux
+5 |
 
-|
+86 |
 
-20
+Mont du Lyonnais-Pilat |
 
-|
+3 |
 
-43
+87 |
 
-|
+Morvan-Charollais |
 
-Massif central ― Dépressions internes
+21 |
 
-|
+88 |
 
-3
+Corse plaine d'Aléria |
 
-|
+16 |
 
-44
+89 |
 
-|
+Hautes Terres limousines |
 
-Massif central ― Terres granitiques orientales
+21 |
 
-|
+90 |
 
-3
+Hautes Terres granitiques-Margeride |
 
-|
+3 |
 
-45
+91 |
 
-|
+Hautes Terres volcaniques humides |
 
-Plaine du Forez
+3 |
 
-|
+92 |
 
-17
+Massif central Plateau limousin |
 
-|
+21 |
 
-46
+93 |
 
-|
+Massif central versant occidental |
 
-Limagne de l'Allier
+3 |
 
-|
+94 |
 
-17
+Pyrénées Etage alpin et subalpin occidental |
 
-|
+1 |
 
-47
+95 |
 
-|
+Pyrénées Etage alpin et subalpin central |
 
-Massif central ― Dépression du Puy
+1 |
 
-|
+96 |
 
-3
+Pyrénées Etage montagnard |
 
-|
+1 |
 
-48
+97 |
 
-|
+Tables calcaires-Charentes Poitou |
 
-Montagne bourbonnaise
+9 |
 
-|
+98 |
 
-21
+Collines sous-vosgiennes |
 
-|
+10 |
 
-49
+99 |
 
-|
+Côtes de Bourgogne |
 
-Hautes terres volcaniques orientales
+10 |
 
-|
+101 |
 
-3
+Massif Beaufortain Belledonne |
 
-|
+2 |
 
-50
+102 |
 
-|
+Plaine littorale méditerranéenne |
 
-Hautes terres granitiques orientales
+6 |
 
-|
+103 |
 
-3
+Montagne Noire Climat cévenol |
 
-|
+8 |
 
-51
+104 |
 
-|
+Garrigues sub-cévenoles |
 
-Bazois Auxois
+6 |
 
-|
+105 |
 
-10
+Plaine méditerranéenne |
 
-|
+6 |
 
-52
+106 |
 
-|
+Préalpes Digne Haute vallée du Var |
 
-Fosses tectoniques
+7 |
 
-|
+107 |
 
-17
+Alpes Internes du Sud |
 
-|
+2 |
 
-53
+108 |
 
-|
+Maures Esterel |
 
-Bassin parisien ― Côtes calcaires
+6 |
 
-|
+112 |
 
-10
+Collines calcaires de basse Provence |
 
-|
+6 |
 
-54
+113 |
 
-|
+Grands Causses |
 
-Tables calcaires ― Nord Loire-Perche
+19 |
 
-|
+114 |
 
-9
+Corbières |
 
-|
+6 |
 
-55
+115 |
 
-|
+Causses cévenols |
 
-Massif armoricain ― Nord-Est
+19 |
 
-|
+116 |
 
-12
+Bordure Orientale des Pyrénées |
 
-|
+6 |
 
-56
+117 |
 
-|
+Massif armoricain-est intérieur |
 
-Collines de Basse Provence
+12 |
 
-|
+118 |
 
-6
+Massif armoricain-côtes du nord |
 
-|
+12 |
 
-57
+119 |
 
-|
+Moëres |
 
-Tables calcaires ― Haute-Normandie Picardie
+20 |
 
-|
+120 |
 
-9
+Bugey |
 
-|
+5 |
 
-58
+II. Cours d'eau des bassins ou groupements de bassins d'outre-mer
 
-|
-
-Massif armoricain ― Sud intérieur
-
-|
-
-12
-
-|
-
-59
-
-|
-
-Massif armoricain ― Ouest
-
-|
-
-12
-
-|
-
-61
-
-|
-
-Alsace-collines
-
-|
-
-18
-
-|
-
-62
-
-|
-
-Alsace-plaine
-
-|
-
-18
-
-|
-
-63
-
-|
-
-Vosges granitiques
-
-|
-
-4
-
-|
-
-64
-
-|
-
-Collines calcaires de Dordogne (Cahors)
-
-|
-
-11
-
-|
-
-65
-
-|
-
-Causses du Quercy
-
-|
-
-11
-
-|
-
-66
-
-|
-
-Coteaux molassiques Nord Aquitaine
-
-|
-
-14
-
-|
-
-67
-
-|
-
-Bordure pyrénéenne centrale
-
-|
-
-1
-
-|
-
-68
-
-|
-
-Coteaux molassiques Est Aquitaine
-
-|
-
-14
-
-|
-
-69
-
-|
-
-Bordure pyrénéenne atlantique
-
-|
-
-1
-
-|
-
-70
-
-|
-
-Haute Loire cévenole
-
-|
-
-8
-
-|
-
-71
-
-|
-
-Cévennes
-
-|
-
-8
-
-|
-
-72
-
-|
-
-Montagne Noire
-
-|
-
-3
-
-|
-
-73
-
-|
-
-Collines du Sundgau
-
-|
-
-18
-
-|
-
-74
-
-|
-
-Vosges gréseuses
-
-|
-
-4
-
-|
-
-75
-
-|
-
-Collines de Haute-Saône
-
-|
-
-10
-
-|
-
-7
-
-|
-
-Piedmont Alpes Jura
-
-|
-
-5
-
-|
-
-77
-
-|
-
-Coteaux molassiques bassin de l'Adour
-
-|
-
-14
-
-|
-
-78
-
-|
-
-Coteaux molassiques Centre Aquitaine
-
-|
-
-14
-
-|
-
-79
-
-|
-
-Massifs calcaires Chartreuse Aravis
-
-|
-
-5
-
-|
-
-80
-
-|
-
-Vallée du Drac
-
-|
-
-5
-
-|
-
-81
-
-|
-
-Plaine de Bourgogne
-
-|
-
-15
-
-|
-
-82
-
-|
-
-Côtes de Mâcon
-
-|
-
-10
-
-|
-
-83
-
-|
-
-Beaujolais calcaire
-
-|
-
-10
-
-|
-
-84
-
-|
-
-Bresse
-
-|
-
-15
-
-|
-
-85
-
-|
-
-Collines du Bas Dauphiné
-
-|
-
-5
-
-|
-
-86
-
-|
-
-Mont du Lyonnais ― Pilat
-
-|
-
-3
-
-|
-
-87
-
-|
-
-Morvan ― Charollais
-
-|
-
-21
-
-|
-
-88
-
-|
-
-Corse plaine d'Aléria
-
-|
-
-16
-
-|
-
-89
-
-|
-
-Hautes terres limousines
-
-|
-
-21
-
-|
-
-90
-
-|
-
-Hautes terres granitiques ― Margeride
-
-|
-
-3
-
-|
-
-91
-
-|
-
-Hautes terres volcaniques humides
-
-|
-
-3
-
-|
-
-92
-
-|
-
-Massif central plateau limousin
-
-|
-
-21
-
-|
-
-93
-
-|
-
-Massif central versant occidental
-
-|
-
-3
-
-|
-
-94
-
-|
-
-Pyrénées étage alpin et subalpin occidental
-
-|
-
-1
-
-|
-
-95
-
-|
-
-Pyrénées étage alpin et subalpin central
-
-|
-
-1
-
-|
-
-96
-
-|
-
-Pyrénées étage montagnard
-
-|
-
-1
-
-|
-
-97
-
-|
-
-Tables calcaires ― Charentes-Poitou
-
-|
-
-9
-
-|
-
-98
-
-|
-
-Collines sous-vosgiennes
-
-|
-
-10
-
-|
-
-99
-
-|
-
-Côtes de Bourgogne
-
-|
-
-10
-
-|
-
-101
-
-|
-
-Massif beaufortain Belledonne
-
-|
-
-2
-
-|
-
-102
-
-|
-
-Plaine littorale méditerranéenne
-
-|
-
-6
-
-|
-
-103
-
-|
-
-Montagne noire climat cévenol
-
-|
-
-8
-
-|
-
-104
-
-|
-
-Garrigues subcévenoles
-
-|
-
-6
-
-|
-
-105
-
-|
-
-Plaine méditerranéenne
-
-|
-
-6
-
-|
-
-106
-
-|
-
-Préalpes Digne haute vallée du Var
-
-|
-
-7
-
-|
-
-107
-
-|
-
-Alpes internes du Sud
-
-|
-
-2
-
-|
-
-108
-
-|
-
-Maures Esterel
-
-|
-
-6
-
-|
-
-112
-
-|
-
-Collines calcaires de Basse Provence
-
-|
-
-6
-
-|
-
-113
-
-|
-
-Grands Causses
-
-|
-
-19
-
-|
-
-114
-
-|
-
-Corbières
-
-|
-
-6
-
-|
-
-115
-
-|
-
-Causses cévenols
-
-|
-
-19
-
-|
-
-116
-
-|
-
-Bordure orientale des Pyrénées
-
-|
-
-6
-
-|
-
-117
-
-|
-
-Massif armoricain ― Est intérieur
-
-|
-
-12
-
-|
-
-118
-
-|
-
-Massif armoricain ― côtes du Nord
-
-|
-
-12
-
-|
-
-119
-
-|
-
-Moëres
-
-|
-
-20
-
-|
-
-120
-
-|
-
-Bugey
-
-|
-
-5
-
-|
-
-II. ― Cours d'eau des bassins ou groupements de bassins d'outre-mer
-
-II-1. Méthode de classement des masses d'eau cours d'eau par types
+II. 1. Méthode de classement des masses d'eau cours d'eau par types
 
 La méthodologie employée est, sur le principe, identique à celle utilisée pour le territoire métropolitain (cf. partie I ci-dessus) ; le cadre a été adapté aux conditions naturelles spécifiques de l'outre-mer.
 
-II-1 a Classification par régions :
+Cette méthodologie a pour l'instant été appliquée à chacun des bassins d'outre-mer, à l'exception de Mayotte. En effet, Mayotte est devenue département et région d'outre-mer plus tardivement que les autres bassins ultra-marins. Par conséquent, Mayotte ne dispose pas encore d'une typologie de cours d'eau.
+
+II. 1. a Classification par régions
 
 En ce qui concerne les îles , les caractéristiques dominantes et communes sont :
 
-― la petite dimension (par rapport au territoire métropolitain) ;
+-la petite dimension (par rapport au territoire métropolitain) ;
 
-― les caractéristiques de climat insulaire (régime de température tropical avec faible variation saisonnière, très forte hétérogénéité spatiale des précipitations avec des maxima bien supérieurs à la métropole et, dans certains cas, dissymétrie de la répartition des précipitations : au vent/sous le vent) ;
+-les caractéristiques de climat insulaire (régime de température tropical avec faible variation saisonnière, très forte hétérogénéité spatiale des précipitations avec des maxima bien supérieurs à la métropole et, dans certains cas, dissymétrie de la répartition des précipitations : au vent/ sous le vent) ;
 
-― un relief volcanique très accentué renforçant cette dissymétrie.
+-un relief volcanique très accentué renforçant cette dissymétrie.
 
 Il en résulte, pour chacune des îles, une régionalisation fondée sur :
 
-― le relief, distinguant les zones dont l'altitude est peu élevée (et les précipitations limitées) ;
+-le relief, distinguant les zones dont l'altitude est peu élevée (et les précipitations limitées) ;
 
-― l'orientation des versants dans les secteurs au relief accentué (La Réunion) ;
+-l'orientation des versants dans les secteurs au relief accentué (La Réunion) ;
 
-― la géomorphologie, quand celle-ci s'avère discriminante.
+-la géomorphologie, quand celle-ci s'avère discriminante.
 
 En ce qui concerne le bassin de la Guyane, deux régions principales sont distinguées :
 
-― le bouclier guyanais couvrant la grande majorité du territoire (roches imperméables très érodées, réseau hydrographique dense, pénéplaine aux reliefs peu accusés) ;
+-le bouclier guyanais couvrant la grande majorité du territoire (roches imperméables très érodées, réseau hydrographique dense, pénéplaine aux reliefs peu accusés) ;
 
-― la plaine littorale du Nord (sédiments récents, reliefs peu différenciés, zones humides et marécages).
+-la plaine littorale du Nord (sédiments récents, reliefs peu différenciés, zones humides et marécages).
 
-II-1 b Zonation longitudinale :
+II. 1. b Zonation longitudinale
 
-Elément déterminant dans la structuration des écosystèmes pour les masses d'eau continentales, la zonation longitudinale est limitée dans les îles. Une zonation amont/aval est proposée uniquement dans les hydroécorégions au relief marqué, où la différence d'altitude et de pente permet d'envisager une différence de structure et d'organisation des communautés biologiques.
+Elément déterminant dans la structuration des écosystèmes pour les masses d'eau continentales, la zonation longitudinale est limitée dans les îles. Une zonation amont/ aval est proposée uniquement dans les hydro-écorégions au relief marqué, où la différence d'altitude et de pente permet d'envisager une différence de structure et d'organisation des communautés biologiques.
 
-Sont donc retenus des types amont et des types aval pour les cours d'eau des hydroécorégions à relief accentué, la limite se situant dans la majeure partie des cas sur les ruptures de pente de profil en long, les confluences majeures (rang supérieur ou égal à 3), ou toute autre limite facilement identifiable localement permettant de différencier ces zones.
+Sont donc retenus des types amont et des types aval pour les cours d'eau des hydro-écorégions à relief accentué, la limite se situant dans la majeure partie des cas sur les ruptures de pente de profil en long, les confluences majeures (rang supérieur ou égal à 3), ou toute autre limite facilement identifiable localement permettant de différencier ces zones.
 
 La typologie proposée, construite sur des bases similaires entre les différentes îles, conserve néanmoins une distinction entre elles, en l'absence d'éléments suffisants sur la faune aquatique et le fonctionnement des écosystèmes.
 
-Pour le bassin de la Guyane, la zonation longitudinale repose sur une classification en quatre classes de dimension (très petit/petit, moyen, grand, très grand), en fonction des rangs de Strahler des cours d'eau et de la superficie de leur bassin versant.
+Pour le bassin de la Guyane, la zonation longitudinale repose sur une classification en quatre classes de dimension (très petit/ petit, moyen, grand, très grand), en fonction des rangs de Strahler des cours d'eau et de la superficie de leur bassin versant.
 
-La typologie qui en résulte, ainsi que sa codification, sont déclinées dans le tableau de synthèse ci-après (à l'exception du type Canal ). A chaque code figurant dans les cases de ce tableau correspond un type de masses d'eau présentant des caractéristiques similaires.
+La typologie qui en résulte, ainsi que sa codification, sont déclinées dans le tableau de synthèse, ci-après (à l'exception du type Canal ). A chaque code figurant dans les cases de ce tableau correspond un type de masses d'eau présentant des caractéristiques similaires.
 
-Enfin, les masses d'eau artificielles appartenant à la catégorie masse d'eau cours d'eau sont classées dans le type canal.
+Enfin, les masses d'eau artificielles appartenant à la catégorie masse d'eau cours d'eau sont classées dans le type canal .
 
-Bassin ou groupement de bassins
+Bassin
 
-|
+ou groupement
 
-Hydroécorégions
+de bassins |
 
-|
+Hydroécorégions |
 
-Catégories de tailles de cours d'eau
+Catégories de tailles de cours d'eau |
 
-|
+Très grand |
 
-Très
-
-grand
-
-|
-
-Grand
-
-|
+Grand |
 
 Moyen
 
-Aval (îles)
+Aval (îles) |
 
-|
+Très petit/ petit
 
-Très petit/petit
+Amont (îles) |
 
-Amont (îles)
-
-|
-
-Guadeloupe
-
-|
+Guadeloupe |
 
 Basse Terre Plaine
 
-Nord Est
+Nord Est |
 
 |
 
-|
+MP31 |
 
-MP31
+Grande Terre et autres îles de Guadeloupe (excepté Basse Terre) |
 
-|
+MP32 |
 
-Basse Terre Volcans
+Basse Terre Volcans |
 
-|
+M33 |
 
-M33
+P33 |
 
-|
+Martinique |
 
-P33
+Pitons du Nord |
 
-|
+M41 |
 
-Martinique
+P41 |
 
-|
+Mornes du Sud |
 
-Pitons du Nord
+MP42 |
 
-|
+Réunion |
 
-M41
+Cirque Est au vent |
 
-|
+M61 |
 
-P41
+P61 |
 
-|
+Cirques Ouest et Sud sous le vent |
 
-Mornes du Sud
+M62 |
 
-|
+P62 |
 
-MP42
+Versants Est au vent |
 
-|
+MP63 |
 
-Réunion
+Versants Ouest secs |
 
-|
+MP64 |
 
-Cirques au vent
-
-|
-
-M61
+Formations volcaniques récentes |
 
 |
 
-P61
+MP65 |
+
+Versants Nord intermédiaires |
 
 |
 
-Cirques sous le vent
+MP66 |
 
-|
+Guyane |
 
-M62
+Plaine littorale du Nord |
 
-|
+TG51 |
 
-P62
+G51 |
 
-|
+M51 |
 
-Versants au vent
+PTP51 |
 
-|
+Bouclier guyanais |
 
-MP63
+TG52 |
 
-|
+G52 |
 
-Versants sous le vent
+M52 |
 
-|
-
-MP64
-
-|
-
-Guyane
-
-|
-
-Plaine littorale du Nord
-
-|
-
-TG51
-
-|
-
-G51
-
-|
-
-M51
-
-|
-
-PTP51
-
-|
-
-Bouclier guyanais
-
-|
-
-TG52
-
-|
-
-G52
-
-|
-
-M52
-
-|
-
-PTP52
-
-|
+PTP52 |
 
 Légende du tableau :
 
 Cases grisées : pas de type correspondant.
 
-Code utilisé :
+Code utilisé : M : cours d'eau moyens (aval). P : petit cours d'eau (amont).
 
-M : cours d'eau moyens (aval).
-
-P : petit cours d'eau (amont).
-
-PTP : petit et très petit cours d'eau.
-
-MP : cours d'eau de taille indifférenciée.
+PTP : petit et très petit cours d'eau. MP : cours d'eau de taille indifférenciée.
 
 G : grands cours d'eau.
 
-TG : très grands cours d'eau.
+TG : très grands cours d'eau. Premier chiffre : 3 pour la Guadeloupe, 4 pour la Martinique, 5 pour la Guyane et 6 pour La Réunion. Deuxième chiffre : numéro de l'hydroécorégion pour chaque bassin (1 à 6, selon les cas). Exemples de lecture : M 41 : cours d'eau moyens des Pitons du Nord en Martinique. MP 64 : cours d'eau des Versants sous le vent à La Réunion.
 
-Premier chiffre : 3 pour la Guadeloupe, 4 pour la Martinique, 5 pour la Guyane et 6 pour La Réunion.
+II. 2. Types des masses d'eau cours d'eau des bassins ou groupements de bassins d'outre-mer
 
-Deuxième chiffre : numéro de l'hydroécorégion pour chaque bassin (1 à 4, selon les cas).
+Code mnémonique du type |
 
-Exemples de lecture :
+Libellé du type |
 
-M 41 : cours d'eau moyens des pitons du Nord, en Martinique.
+MP31 |
 
-MP 64 : cours d'eau des Versants sous le vent, à La Réunion.
+Cours d'eau de Basse Terre Plaine Nord Est en Guadeloupe |
 
-II-2. Types des masses d'eau cours d'eau des bassins ou groupements de bassins d'outre-mer
+MP32 |
 
-CODE MNÉMONIQUE
+Cours d'eau de Grande Terre et des autres îles en Guadeloupe (excepté Basse Terre) |
 
-du type
+M33 |
 
-|
+Cours d'eau moyens de Basse Terre Volcans en Guadeloupe |
 
-LIBELLÉ DU TYPE
+P33 |
 
-|
+Petits cours d'eau de Basse Terre Volcans en Guadeloupe |
 
-MP31
+M41 |
 
-|
+Cours d'eau moyens des Pitons du Nord en Martinique |
 
-Cours d'eau de Basse-Terre Plaine Nord-Est en Guadeloupe
+P41 |
 
-|
+Petits cours d'eau des Pitons du Nord en Martinique |
 
-M33
+MP42 |
 
-|
+Cours d'eau des Mornes du Sud en Martinique |
 
-Cours d'eau moyens de Basse-Terre volcans en Guadeloupe
+M61 |
 
-|
+Cours d'eau moyens du Cirque Est au vent à La Réunion |
 
-P33
+P61 |
 
-|
+Petits cours d'eau du Cirque Est au vent à La Réunion |
 
-Petits cours d'eau de Basse-Terre volcans en Guadeloupe
+M62 |
 
-|
+Cours d'eau moyens des Cirques Ouest et Sud sous le vent à La Réunion |
 
-M41
+P62 |
 
-|
+Petits cours d'eau des Cirques Ouest et Sud sous le vent à La Réunion |
 
-Cours d'eau moyens des pitons du Nord en Martinique
+MP63 |
 
-|
+Cours d'eau des Versants Est au vent à La Réunion |
 
-P41
+MP64 |
 
-|
+Cours d'eau des Versants Ouest secs à La Réunion |
 
-Petits cours d'eau des pitons du Nord en Martinique
+MP65 |
 
-|
+Cours d'eau des Formations volcaniques récentes à La Réunion |
 
-MP42
+MP66 |
 
-|
+Cours d'eau des Versants Nord intermédiaires à La Réunion |
 
-Cours d'eau des mornes du Sud en Martinique
+TG51 |
 
-|
+Très grands cours d'eau de la Plaine littorale du Nord en Guyane |
 
-M61
+G51 |
 
-|
+Grands cours d'eau de la Plaine littorale du Nord en Guyane |
 
-Cours d'eau moyens des cirques au vent à La Réunion
+M51 |
 
-|
+Cours d'eau moyens de la Plaine littorale du Nord en Guyane |
 
-P61
+PTP51 |
 
-|
+Petits et très petits cours d'eau de la Plaine littorale du Nord en Guyane |
 
-Petits cours d'eau des cirques au vent à La Réunion
+TG52 |
 
-|
+Très grand cours d'eau du bouclier guyanais |
 
-M62
+G52 |
 
-|
+Grands cours d'eau du bouclier guyanais |
 
-Cours d'eau moyens des cirques sous le vent à La Réunion
+M52 |
 
-|
+Cours d'eau moyens du bouclier guyanais |
 
-P62
+PTP52 |
 
-|
+Petits et très petits cours d'eau du bouclier guyanais |
 
-Petits cours d'eau des cirques sous le vent à La Réunion
+C |
 
-|
+Canal |
 
-MP63
-
-|
-
-Cours d'eau des versants au vent à La Réunion
-
-|
-
-MP64
-
-|
-
-Cours d'eau des versants sous le vent à La Réunion
-
-|
-
-TG51
-
-|
-
-Très grands cours d'eau de la plaine littorale du Nord en Guyane
-
-|
-
-G51
-
-|
-
-Grands cours d'eau de la plaine littorale du Nord en Guyane
-
-|
-
-M51
-
-|
-
-Cours d'eau moyens de la plaine littorale du Nord en Guyane
-
-|
-
-PTP51
-
-|
-
-Petits et très petits cours d'eau de la plaine littorale du Nord en Guyane
-
-|
-
-TG52
-
-|
-
-Très grand cours d'eau du bouclier guyanais
-
-|
-
-G52
-
-|
-
-Grands cours d'eau du bouclier guyanais
-
-|
-
-M52
-
-|
-
-Cours d'eau moyens du bouclier guyanais
-
-|
-
-PTP52
-
-|
-
-Petits et très petits cours d'eau du bouclier guyanais
-
-|
-
-C
-
-|
-
-Canal
-
-|
-
-Lecture des codes des types (à l'exception du type canal ) :
+Lecture des codes des types (à l'exception du type Canal ) :
 
 1. Lettres : taille du cours d'eau (P = petit ; PTP : petit et très petit ; M = moyen, G = grand, TG = très grand ; MP = cours d'eau de taille indifférenciée) ;
 
@@ -4326,18 +2456,22 @@ Lecture des codes des types (à l'exception du type canal ) :
 
 3. Deuxième chiffre : numéro de l'hydroécorégion dans laquelle se situe le cours d'eau ou tronçon de cours d'eau.
 
-II-3. Cartes des hydroécorégions des bassins d'outre-mer :
+II. c. Cartes des hydroécorégions des bassins d'outre-mer
 
-Vous pouvez consulter les cartes dans le
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-JOn° 27 du 02/02/2010 texte numéro 2
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-L'ensemble des éléments scientifiques et techniques conduisant à cette typologie figurent dans les rapports établis par le CEMAGREF cités ci-dessous. Ils sont disponibles sur le site internet du ministère chargé de l'écologie.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-Wasson J.-G., Chandesris A. and Pella H. (2004). Hydroécorégions de la Guadeloupe. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la directive-cadre européenne sur l'eau. Ministère de l'écologie et du développement durable, CEMAGREF BEA/LHQ, Lyon. 12 p. + annexes.
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
 
-Chandesris A., Wasson J.-G. and Pella H. (2005). Hydroécorégions de la Martinique. Propositions de régionalisation des écosytèmes aquatiques en vue de l'application de la directive-cadre européenne sur l'eau. Rapport final, DIREN Martinique, CEMAGREF BEA/LHQ, Lyon. 17 p.
+L'ensemble des éléments scientifiques et techniques conduisant à cette typologie figurent dans les rapports établis par le CEMAGREF cités ci-dessous. Ils sont disponibles sur le site Internet du ministère chargé de l'écologie.
 
-Wasson J.-G., Chandesris A. and Pella H. (2004). Hydroécorégions de l'île de La Réunion. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la directive-cadre européenne sur l'eau. Ministère de l'écologie et du développement durable, CEMAGREF BEA/LHQ, Lyon. 10 p. + annexes.
+Wasson, J. G., Chandesris, A. and Pella, H. (2004). Hydro-écorégions de la Guadeloupe. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la Directive Cadre Européenne sur l'Eau. Ministère de l'écologie et du développement durable, Cemagref BEA/ LHQ, Lyon. 12 p + annexes p.
 
-Chandesris A., Wasson J.-G. and Pella H. (2005). Hydroécorégions de la Guyane. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la directive-cadre. CEMAGREF BEA/LHQ, Lyon. 10 p. + annexes.
+Chandesris, A., Wasson, J. G. and Pella, H. (2005). Hydro-écorégions de la Martinique. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la Directive Cadre Européenne sur l'Eau. Rapport final, DIREN Martinique, Cemagref BEA/ LHQ, Lyon. 17 p.
+
+Wasson, J. G., Chandesris, A. and Pella, H. (2004). Hydro-écorégions de l'île de la Réunion. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la Directive Cadre Européenne sur l'Eau. Ministère de l'écologie et du développement durable, Cemagref BEA/ LHQ, Lyon. 10 p + annexes p.
+
+Chandesris, A., Wasson, J. G. and Pella, H. (2005). Hydro-écorégions de la Guyane. Propositions de régionalisation des écosystèmes aquatiques en vue de l'application de la Directive Cadre. Cemagref BEA/ LHQ, Lyon. 10p + annexes p.
