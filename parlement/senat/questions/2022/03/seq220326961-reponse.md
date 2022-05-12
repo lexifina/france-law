@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220326961
+
+- Question : [SEQ220326961](seq220326961.md) — Mandats particuliers exercés par certains conseillers à l'assemblée des Français de l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-05-12, page 2647*
+
+Les conseillers à l'Assemblée des Français de l'étranger (AFE) sont effectivement représentés dans ces instances nationales selon les dispositions législatives et règlementaires propres à chacune d'elles. Faisant suite au renouvellement de l'Assemblée en décembre 2021, les nouvelles désignations des conseillers dans l'ensemble de ces instances ont eu lieu lors de la 35e session de l'AFE du 14 au 17 décembre 2021, à l'exception du conseil d'administration de la caisse des Français de l'étranger faisant l'objet d'une élection, qui s'est déroulée le 17 mars 2022. Les élus de l'AFE titulaires de mandats particuliers exercent leurs prérogatives de manière autonome. Le rythme de réunion des différentes instances répond à une organisation et un rythme propres à chacune d'elles. Les activités pour lesquelles les élus titulaires de mandats particuliers sont en lien étroit avec le ministère de l'Europe et des affaires étrangères (MEAE) sont celles qui ont trait aux aides apportées à nos compatriotes de l'étranger : aide sociale et de soutien au tissu associatif (rythme annuel) et aide à la scolarité (rythme semestriel). Rouages essentiels de l'organisation de la solidarité nationale au bénéfice de nos compatriotes de l'étranger, ces instances publient des rapports publics disponibles en ligne. La mise en lumière des nombreux travaux que l'AFE réalise, ou auxquels elle contribue, constitue un axe d'effort pour la nouvelle mandature. Les conseillers à l'Assemblée qui se trouveraient confrontés à des difficultés dans l'exécution de leur mandat particulier sont invités à le signaler auprès du secrétariat général de l'AFE.
