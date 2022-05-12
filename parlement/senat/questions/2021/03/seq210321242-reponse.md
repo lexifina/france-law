@@ -1,0 +1,9 @@
+# Réponse à la question SEQ210321242
+
+- Question : [SEQ210321242](seq210321242.md) — Diffusion de données personnelles de santé sur internet
+
+## Réponse
+
+*Premier ministre, JO du 2022-05-12, page 2636*
+
+Un fichier comportant des données médicales sensibles a effectivement été dérobé à des laboratoires de biologie médicale puis mis en ligne sur internet en février 2021. Ce fichier comprenait des informations personnelles de près de 500 000 patients. A la suite de la révélation de cette fuite de données personnelles, la section cybercriminalité du parquet de Paris a ouvert une enquête, confiée à l'Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication (OCLCTIC), au chef « d'accès et maintien frauduleux dans un système de traitement automatisé de données » et « extraction, détention et transmission frauduleuse » de ces données. Cette procédure judiciaire étant en cours, les causes de cette fuite de données ne sont pas encore déterminées. La Commission nationale de l'informatique et des libertés (CNIL) s'est également saisie du sujet en appelant les responsables de traitement concernés à procéder à une notification auprès de ses services, jugeant que cette fuite de données était susceptible d'engendrer un risque élevé pour les droits et les libertés du fait de la nature des données compromises et de leur large publication. L'ANSSI continue d'appuyer le ministère des solidarités et de la santé dans la sécurisation des systèmes d'information, notamment de ceux en lien avec la gestion de la crise sanitaire. Elle diffuse régulièrement des alertes sur des vulnérabilités ou des incidents susceptibles d'affecter ses systèmes d'information afin que le ministère des solidarités et de la santé puisse les corriger et en informer ses prestataires.
