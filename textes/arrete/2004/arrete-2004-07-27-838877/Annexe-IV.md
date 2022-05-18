@@ -24,9 +24,11 @@ B. 1.2.1. Qualification préalable
 
 Le candidat justifie d'une des qualifications visées ci-dessous :
 
-- un diplôme de niveau IV du ministère de l'éducation nationale (baccalauréat professionnel maintenance des véhicules options voitures particulières ou véhicules industriels ) ou un diplôme équivalent au regard du Répertoire National des Certifications Professionnelles (RNCP) ;
+- un diplôme de niveau 4 du ministère de l'éducation nationale (baccalauréat professionnel maintenance des véhicules options voitures particulières ou véhicules de transport routier) ou un diplôme équivalent au regard de FRANCE Compétences ;
 
-- un diplôme de niveau III du ministère de l'éducation nationale (diplôme d'expert en automobile, brevet de technicien supérieur après-vente automobile options véhicules particuliers ou véhicules industriels ou brevet de technicien supérieur maintenance des véhicules options voitures particulières ou véhicules de transport routier ) ou un diplôme équivalent vis-à-vis du Répertoire National des Certifications Professionnelles (RNCP).
+- un diplôme de niveau 5 du ministère de l'éducation nationale (diplôme d'expert en automobile, brevet de technicien supérieur après-vente automobile options véhicules particuliers ou véhicules industriels ou brevet de technicien supérieur maintenance des véhicules options voitures particulières ou véhicules de transport routier ) ou un diplôme équivalent vis-à-vis au regard de FRANCE Compétences.
+
+- un agrément valide de contrôleur de véhicules légers au sens de l'arrêté du 18 juin 1991 modifié relatif à la mise en place et à l'organisation du contrôle technique des véhicules dont le poids n'excède pas 3,5 tonnes.
 
 B. 1.2.2. Formation relative au contrôle technique
 
@@ -86,7 +88,7 @@ C. 1.1.2. Le contrôleur justifie de la réalisation d'au moins 480 contrôles t
 
 Lorsque l'agrément est accordé en cours d'année, le nombre de contrôles techniques périodiques de véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses à réaliser correspondant à cette année est porté à 40 par mois à partir du mois qui suit l'agrément.
 
-C. 1.1.3. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique de véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses au plus tard dans les 12 mois qui suivent la date de son agrément initial puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Le contrôleur disposant de deux audits favorables réalisés au titre des points C. 2.1.4 et C. 3.1.4 de la présente annexe est dispensé de l'audit au titre du présent point.
+C. 1.1.3. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique de véhicules lourds, hors transports en commun de personnes et transports de marchandises dangereuses au plus tard dans les 12 mois qui suivent la date de son agrément initial puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, l'exploitant de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend. Le contrôleur disposant de deux audits favorables réalisés au titre des points C. 2.1.4 et C. 3.1.4 de la présente annexe est dispensé de l'audit au titre du présent point.
 
 C. 1.2. Non-respect des conditions relatives au maintien de qualification Q1
 
@@ -106,7 +108,7 @@ C. 2.1.3. Le contrôleur justifie de la réalisation d'au moins 50 contrôles te
 
 Lorsque la qualification est accordée en cours d'année, le nombre de contrôles techniques périodiques de véhicules de transports en commun de personnes à réaliser correspondant à cette année est porté à 5 par mois à partir du mois qui suit la qualification.
 
-C. 2.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports en commun de personnes au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports en commun de personnes, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
+C. 2.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports en commun de personnes au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports en commun de personnes, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, l'exploitant de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
 C. 2.2. Non-respect des conditions relatives au maintien de qualification Q2
 
@@ -126,7 +128,7 @@ C. 3.1.3. Le contrôleur justifie de la réalisation d'au moins 35 contrôles te
 
 Lorsque la qualification est accordée en cours d'année, le nombre de contrôles techniques périodiques de véhicules de transports de marchandises dangereuses à réaliser correspondant à cette année est porté à 3 par mois à partir du mois qui suit la qualification.
 
-C. 3.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports de marchandises dangereuses au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports de marchandises dangereuses, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, le responsable de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
+C. 3.1.4. Le contrôleur justifie d'un audit favorable portant sur la réalisation d'un contrôle technique périodique d'un véhicule de transports de marchandises dangereuses au plus tard dans les six mois qui suivent la date de son habilitation pour le contrôle technique des véhicules de transports de marchandises dangereuses, puis au moins une fois par année civile et au plus tard au cours du seizième mois suivant le précédent audit. En cas d'audit défavorable, un nouvel audit est réalisé sous 4 mois sans se substituer à l'audit réglementaire. Si deux audits défavorables se succèdent, l'exploitant de l'installation à laquelle est rattaché le contrôleur transmet les deux rapports d'audit sous 15 jours à la direction régionale agissant pour le compte du ministre chargé des transports dont il dépend.
 
 C. 3.2. Non-respect des conditions relatives au maintien de qualification Q3
 
@@ -154,6 +156,8 @@ D. 1.4. La délivrance de l'agrément ou la reprise d'activité du contrôleur s
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
+En cas de non-respect de la disposition prévue au point C. 1.1.2 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
+
 D. 2. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports en commun de personnes (Q2)
 
 D. 2.1. En l'absence de la formation prévue au C. 2.1.2, le réseau ou la personne physique assurant l'exploitation du centre de contrôle non rattaché s'assure de la remise à niveau, pour le contrôle technique des véhicules de transports en commun de personnes, d'une durée minimale de 10 heures, avant le 31 mars de l'année en cours et avant toute reprise d'activité au-delà de cette échéance.
@@ -171,6 +175,8 @@ D. 2.4. La reprise d'activité du contrôleur est assujettie :
 - à un examen pratique favorable, portant sur un contrôle technique d'un véhicule de transports en commun de personnes réalisé dans des conditions identiques à celles d'un contrôle technique réglementaire, sans toutefois que le procès verbal établi à l'issue de ce contrôle ne soit validé.
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
+
+En cas de non-respect de la disposition prévue au point C. 2.1.3 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
 
 D. 3. Remise à niveau pour la qualification relative au contrôle technique des véhicules de transports de marchandises dangereuses (Q3)
 
@@ -190,9 +196,11 @@ D. 3.4. La reprise d'activité du contrôleur est assujettie :
 
 L'évaluation des connaissances et l'examen pratique sont réalisés et justifiés par le réseau de rattachement ou un organisme d'audit agréé en application de l'article 35-1 du présent arrêté.
 
+En cas de non-respect de la disposition prévue au point C. 3.1.3 pour une année N, l'évaluation et l'examen pratique sus-mentionnés peuvent être réalisés au cours du mois de décembre de l'année N.
+
 E. - Qualification des exploitants
 
-E. 1. A défaut de la présentation d'une des qualifications prévues au point B. 1.1 de la présente annexe, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
+E. 1. A défaut de la présentation d'un agrément de contrôleur de véhicules lourds en cours de validité, la personne physique assurant l'exploitation du centre de contrôle (exploitant), désignée à cet effet par le titulaire de l'agrément du centre, justifie d'une formation d'une durée minimale de 35 heures dans un délai maximum de 6 mois à compter de sa désignation.
 
 L'exploitant justifie, par ailleurs, d'une formation de maintien de qualification d'une durée minimale de 14 heures tous les cinq ans.
 
@@ -200,7 +208,7 @@ Pour les exploitants désignés avant le 20 mai 2018, cette formation de maintie
 
 Les exigences de connaissances et de compétences d'un exploitant de centre de contrôle technique des véhicules lourds ainsi que les modalités d'évaluation théorique sont définies dans le référentiel de formation approuvé par le ministre en charge des transports et disponible sur le site internet de l'OTC.
 
-E. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe E. 1 dans un délai maximum de 6 mois à compter de sa désignation.
+E. 2. Dans le cas du changement de personne physique assurant l'exploitation du centre de contrôle, cette dernière se conforme aux dispositions du paragraphe E. 1 y compris pour la formation de maintien de qualification dans un délai maximum de 6 mois à compter de sa désignation.
 
 F. - Exigences relatives aux organismes de formation
 
@@ -211,6 +219,8 @@ A l'issue de la formation, l'organisme de formation délivre une attestation de 
 - les résultats satisfaisants ;
 
 - la référence de l'approbation du programme par le ministre chargé des transports, telle que prévue par le cahier des charges mentionné au paragraphe F. 2 de la présente annexe ;
+
+- dans le cas où le contrôleur a réalisé une partie de sa formation en téléformation : la durée de cette téléformation et la date d'achèvement de celle-ci.
 
 F. 2. Les formations visées aux points A à E sont approuvées (programme et contenu) par le ministre chargé des transports et ne peuvent être mises en œuvre que par l'organisme ayant sollicité leur approbation.
 

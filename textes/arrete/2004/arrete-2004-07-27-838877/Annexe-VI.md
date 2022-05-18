@@ -20,7 +20,7 @@ Dans le cas où la qualité des contrôles réalisés dans une de ses installati
 
 1.7. Le réseau participe, à la demande de l'OTC, aux groupes de travail techniques qu'il met en place pour l'élaboration des documents techniques relatifs aux méthodes et matériels de contrôle à mettre en œuvre.
 
-1.8. Le réseau établit pour chaque année civile un rapport d'activité qu'il transmet au ministre chargé des transports, au centre national de réception des véhicules et à l'organisme technique central dans le courant du premier trimestre de l'année suivante.
+1.8. Le réseau établit pour chaque année civile un rapport d'activité qu'il transmet au ministre chargé des transports, et à l'organisme technique central dans le courant du premier trimestre de l'année suivante.
 
 Ce rapport expose notamment :
 
@@ -62,7 +62,7 @@ Par ailleurs, le réseau transmet au ministre chargé des transports, tous les a
 
 2.2.7. Transmission des données relatives aux contrôles techniques effectués.
 
-2.2.8. Exploitation des indicateurs fournis par l'organisme technique central.
+2.2.8. Exploitation des indicateurs et des compteurs d'exception fournis par l'organisme technique central.
 
 2.2.9. Audit des installations de contrôle et des contrôleurs.
 
