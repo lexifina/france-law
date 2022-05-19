@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM22064 — DECLARATION D'INTENTION D'ALIENER SOUMIS AU DPU SECTION AC 134 6 RESIDENCE LES VALLEES
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2022-05-19
+- Matière : 2.3.3 Urbanisme/Droit de preemption urbain
+- Objet : DECLARATION D'INTENTION D'ALIENER SOUMIS AU DPU SECTION AC 134 6 RESIDENCE LES VALLEES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2022/112767/1ce05eeabdd586e0fb2765be2b59f62b012a0ba19e7541609974008f8a1fb74f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
