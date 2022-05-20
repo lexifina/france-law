@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ASSOCIATION UN TOIT - OPERATION FELIBRE GAUT - REHABILITATION D'UN LOGEMENT LOCATIF SOCIAL PLAI - EMPRUNT DE 31 593 EUROS SOUSCRIT AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 50%.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-05-20
+- Séance : Conseil Municipal 1CA
+- Objet : ASSOCIATION UN TOIT - OPERATION FELIBRE GAUT - REHABILITATION D'UN LOGEMENT LOCATIF SOCIAL PLAI - EMPRUNT DE 31 593 EUROS SOUSCRIT AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 50%.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13613-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
