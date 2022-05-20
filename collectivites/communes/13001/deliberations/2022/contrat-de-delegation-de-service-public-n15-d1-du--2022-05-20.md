@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — CONTRAT DE DÉLÉGATION DE SERVICE PUBLIC N°15 D1 du 29 Juin 2015 CONCERNANT L'EXPLOITATION DES STRUCTURES MULTI ACCUEILS - AVENANT N°5 PORTANT MODIFICATION DU MONTANT DE LA PARTICIPATION FINANCIÈRE 2022 VERSÉE PAR LA VILLE AU DÉLÉGATAIRE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-05-20
+- Séance : Conseil Municipal 1CA
+- Objet : CONTRAT DE DÉLÉGATION DE SERVICE PUBLIC N°15 D1 du 29 Juin 2015 CONCERNANT L'EXPLOITATION DES STRUCTURES MULTI ACCUEILS - AVENANT N°5 PORTANT MODIFICATION DU MONTANT DE LA PARTICIPATION FINANCIÈRE 2022 VERSÉE PAR LA VILLE AU DÉLÉGATAIRE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13668-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
