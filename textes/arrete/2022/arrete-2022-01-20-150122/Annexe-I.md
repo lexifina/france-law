@@ -1,7 +1,5 @@
 # Article Annexe I
 
-ANNEXE
-
 LISTE DES EMPLOIS DU MINISTÈRE DE L'INTÉRIEUR OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉ
 
 1. Secrétariat général pour l'administration du ministère de l'intérieur Sud
