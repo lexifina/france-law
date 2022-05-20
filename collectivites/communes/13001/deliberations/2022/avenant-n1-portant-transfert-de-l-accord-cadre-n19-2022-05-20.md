@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AVENANT N°1 PORTANT TRANSFERT DE L'ACCORD CADRE n°19-037 DE PRESTATIONS DE MAINTENANCE DES MOYENS DE TÉLÉCOMMUNICATIONS DE L'HÔTEL DE VILLE ET DE FOURNITURE DE MATÉRIELS DE RENOUVELLEMENT ET D'EXTENSION, A LA SOCIÉTÉ SPIE ICS
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-05-20
+- Séance : Conseil Municipal 1CA
+- Objet : AVENANT N°1 PORTANT TRANSFERT DE L'ACCORD CADRE n°19-037 DE PRESTATIONS DE MAINTENANCE DES MOYENS DE TÉLÉCOMMUNICATIONS DE L'HÔTEL DE VILLE ET DE FOURNITURE DE MATÉRIELS DE RENOUVELLEMENT ET D'EXTENSION, A LA SOCIÉTÉ SPIE ICS
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13617-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
