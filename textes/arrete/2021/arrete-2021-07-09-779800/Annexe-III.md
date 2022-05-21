@@ -10,23 +10,33 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
 1 |
 
 HOPITAUX DROME NORD (HDN) |
 
-260000120 |
+2600016910 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+HDN-02 |
 
 2 |
+
+CH VIENNE |
+
+380781435 |
+
+Anesthésie-réanimation (co-DES) |
+
+CH VIENNE-02 |
+
+3 |
 
 CH AURILLAC |
 
@@ -34,29 +44,29 @@ CH AURILLAC |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
-
-3 |
-
-CENTRE HOSPITALIER EMILE ROUX |
-
-430000117 |
-
-Anesthésie-réanimation (co-DES) |
-
-anesthésiste-réanimateur |
+CH AURILLAC-01 |
 
 4 |
 
-CH ARDECHE NORD |
+CENTRE HOSPITALIER EMILE ROUX |
 
-070000179 |
+430000018 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CHER-01 |
 
 5 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
+Anesthésie-réanimation (co-DES) |
+
+CH ARDECHE NORD-03 |
+
+6 |
 
 CH de Bourg en Bresse |
 
@@ -64,9 +74,9 @@ CH de Bourg en Bresse |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CH de Bourg en Bresse-01 |
 
-6 |
+7 |
 
 CH Privas Ardèche |
 
@@ -74,19 +84,19 @@ CH Privas Ardèche |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CH Privas Ardèche-01 |
 
-7 |
+8 |
 
 Centre Hospitalier du Forez |
 
-420000226 |
+420013831 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CH Forez-02 |
 
-8 |
+9 |
 
 CH DE ROANNE |
 
@@ -94,9 +104,9 @@ CH DE ROANNE |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CH DE ROANNE-02 |
 
-9 |
+10 |
 
 L'Hôpital du Gier |
 
@@ -104,9 +114,9 @@ L'Hôpital du Gier |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+L'Hôpital du Gier-01 |
 
-10 |
+11 |
 
 HOPITAL LE CORBUSIER |
 
@@ -114,9 +124,9 @@ HOPITAL LE CORBUSIER |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+HOPITAL LE CORBUSIER-01 |
 
-11 |
+12 |
 
 CH PIERRE OUDOT |
 
@@ -124,19 +134,19 @@ CH PIERRE OUDOT |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CH PIERRE OUDOT-02 |
 
-12 |
+13 |
 
 HOPITAUX DU LEMAN |
 
-740000328 |
+740790381 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+HOPITAUX DU LEMAN-01 |
 
-13 |
+14 |
 
 Centre hospitalier de Valence |
 
@@ -144,109 +154,67 @@ Centre hospitalier de Valence |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
-
-14 |
-
-CH VIENNE |
-
-380000174 |
-
-Anesthésie-réanimation (co-DES) |
-
-anesthésiste-réanimateur |
+Centre hospitalier de Valence-01 |
 
 15 |
 
 CL COTES DU RHONE |
 
-380020123 |
+380021139 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+CL COTES DU RHONE-03 |
 
 16 |
 
 HOPITAUX DU LEMAN |
 
-740000328 |
+740790381 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste-réanimateur |
+HOPITAUX DU LEMAN-02 |
 
 17 |
 
-Centre Hospitalier du Forez |
+HCL-HOPITAL LOUIS PRADEL |
 
-420000226 |
+690781810 |
 
-Biologie médicale |
-
-médecin biologiste |
+Anesthésie-réanimation (co-DES) |
 
 18 |
 
-CH VIENNE |
+Centre Hospitalier du Forez |
 
-380000174 |
+420013831 |
 
-Endocrinologie-diabétologie-nutrition |
+Biologie médicale |
 
-endocrinologue diabétologue |
+CH Forez-01 |
 
 19 |
 
-CH MOULINS-YZEURE |
+Centre Hospitalier Universitaire Grenoble Alpes |
 
-030780092 |
+380780080 |
 
-Gériatrie |
+Cardiologie |
 
-Gériatre |
+|
 
 20 |
 
-Centre Hospitalier Montluçon-Néris les Bains |
+CH VIENNE |
 
-030780100 |
+380781435 |
 
-Gériatrie |
+Endocrinologie-diabétologie-nutrition |
 
-Gériatre |
+CH VIENNE-01 |
 
 21 |
-
-CH ARDECHE NORD |
-
-070000179 |
-
-Gériatrie |
-
-Gériatre |
-
-22 |
-
-CH AURILLAC |
-
-150780096 |
-
-Gériatrie |
-
-Gériatre |
-
-23 |
-
-CH de Bourg en Bresse |
-
-010780054 |
-
-Gériatrie |
-
-Gériatre |
-
-24 |
 
 CH Pont-de-Vaux |
 
@@ -254,59 +222,19 @@ CH Pont-de-Vaux |
 
 Gériatrie |
 
-Gériatre |
+CH Pont-de-Vaux-01 |
 
-25 |
+22 |
 
-CHI Ain-Val de Saone-01290 en direction commune avec 2 EHPAD |
+Centre Hospitalier Montluçon-Néris les Bains |
 
-010000115 |
-
-Gériatrie |
-
-Gériatre |
-
-26 |
-
-Centre Hospitalier Public d'Hauteville |
-
-010007987 |
+030780100 |
 
 Gériatrie |
 
-Gériatre |
+Centre Hospitalier Montluçon-Néris les Bains-04 |
 
-27 |
-
-CH BRIOUDE |
-
-430000034 |
-
-Gériatrie |
-
-Gériatre |
-
-28 |
-
-CH BILLOM (USLD) |
-
-630788057 |
-
-Gériatrie |
-
-Gériatre |
-
-29 |
-
-EHPAD BILLOM |
-
-630788073 |
-
-Gériatrie |
-
-Gériatre |
-
-30 |
+23 |
 
 CENTRE HOSPITALIER DE SAINT MARCELLIN |
 
@@ -314,9 +242,99 @@ CENTRE HOSPITALIER DE SAINT MARCELLIN |
 
 Gériatrie |
 
-Gériatre |
+CH St Marcellin-01 |
+
+24 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Gériatrie |
+
+CH MOULINS-YZEURE-13 |
+
+25 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
+Gériatrie |
+
+CH ARDECHE NORD-06 |
+
+26 |
+
+CH AURILLAC |
+
+150780096 |
+
+Gériatrie |
+
+CH AURILLAC-06 |
+
+27 |
+
+CH de Bourg en Bresse |
+
+010780054 |
+
+Gériatrie |
+
+CH de Bourg en Bresse-05 |
+
+28 |
+
+CHI Ain-Val de Saone-01290 en direction commune avec 2 EHPAD |
+
+010009132 |
+
+Gériatrie |
+
+CHI Ain-Val de Saone-02 |
+
+29 |
+
+Centre Hospitalier Public d'Hauteville |
+
+010007987 |
+
+Gériatrie |
+
+Centre Hospitalier Public d'Hauteville-03 |
+
+30 |
+
+CH BRIOUDE |
+
+430000034 |
+
+Gériatrie |
+
+CH BRIOUDE-01 |
 
 31 |
+
+CH BILLOM (USLD) |
+
+630781367 |
+
+Gériatrie |
+
+CH BILLOM (USLD)-01 |
+
+32 |
+
+EHPAD BILLOM |
+
+630781367 |
+
+Gériatrie |
+
+EHPAD BILLOM-01 |
+
+33 |
 
 HOPITAL LE CORBUSIER |
 
@@ -324,9 +342,9 @@ HOPITAL LE CORBUSIER |
 
 Gériatrie |
 
-Gériatre |
+HOPITAL LE CORBUSIER-02 |
 
-32 |
+34 |
 
 Centre Hospitalier du Beaujolais Vert |
 
@@ -334,27 +352,7 @@ Centre Hospitalier du Beaujolais Vert |
 
 Gériatrie |
 
-Gériatre |
-
-33 |
-
-CH Fabrice Marchiol (La Mure) |
-
-380780031 |
-
-Gériatrie |
-
-Gériatre |
-
-34 |
-
-CHG du Mont d'Or |
-
-690782925 |
-
-Gériatrie |
-
-Gériatre |
+CH Beaujolais Vert-02 |
 
 35 |
 
@@ -364,19 +362,29 @@ CHG du Mont d'Or |
 
 Gériatrie |
 
-Gériatre |
+CHG du Mont d'Or-01 |
 
 36 |
 
-Centre Hospitalier Annecy Genevois |
+CHG du Mont d'Or |
 
-740000237 |
+690782925 |
 
 Gériatrie |
 
-Gériatre |
+CHG du Mont d'Or-02 |
 
 37 |
+
+Centre Hospitalier Annecy Genevois |
+
+740781133 |
+
+Gériatrie |
+
+CHANGE-05 |
+
+38 |
 
 CH Guy Thomas |
 
@@ -384,9 +392,59 @@ CH Guy Thomas |
 
 Gériatrie |
 
-Gériatre |
+CH Guy Thomas-02 |
 
-38 |
+39 |
+
+Centre Hospitalier de Voiron |
+
+380780080 |
+
+Gériatrie |
+
+|
+
+40 |
+
+Centre hospitalier G Claudinon |
+
+42 078 066 0 |
+
+Gériatrie |
+
+|
+
+41 |
+
+CENTRE HOSPITALIER DU PAYS DE GEX |
+
+010780112 |
+
+Gériatrie |
+
+|
+
+42 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Gynécologie obstétrique |
+
+|
+
+43 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Gynécologie-obstétrique |
+
+Centre Hospitalier Montluçon-Néris les Bains-01 |
+
+44 |
 
 CH MOULINS-YZEURE |
 
@@ -394,29 +452,19 @@ CH MOULINS-YZEURE |
 
 Gynécologie-obstétrique |
 
-gynécologue obstétricien |
+CH MOULINS-YZEURE-03 |
 
-39 |
-
-Centre Hospitalier Montluçon-Néris les Bains |
-
-030780100 |
-
-Gynécologie-obstétrique |
-
-gynécologue obstétricien |
-
-40 |
+45 |
 
 CENTRE HOSPITALIER EMILE ROUX |
 
-430000117 |
+430000018 |
 
 Gynécologie-obstétrique |
 
-gynécologue obstétricien |
+CHER-02 |
 
-41 |
+46 |
 
 CH Alpes Léman |
 
@@ -424,9 +472,9 @@ CH Alpes Léman |
 
 Gynécologie-obstétrique |
 
-gynécologue obstétricien |
+CH Alpes Léman-01 |
 
-42 |
+47 |
 
 CH de Bourg en Bresse |
 
@@ -434,9 +482,9 @@ CH de Bourg en Bresse |
 
 Gynécologie-obstétrique |
 
-gynécologue obstétricien |
+CH de Bourg en Bresse-02 |
 
-43 |
+48 |
 
 CHARME |
 
@@ -444,9 +492,9 @@ CHARME |
 
 Gynécologie-obstétrique |
 
-gynécologue obstétricien |
+CHARME-01 |
 
-44 |
+49 |
 
 L'Hôpital du Gier |
 
@@ -454,51 +502,9 @@ L'Hôpital du Gier |
 
 Gynécologie-obstétrique |
 
-gynécologue obstétricien |
+L'Hôpital du Gier-02 |
 
-45 |
-
-Centre Hospitalier Annecy Genevois |
-
-740000237 |
-
-Gynécologie-obstétrique
-
-|
-
-gynécologue obstétricien |
-
-46 |
-
-Centre Hospitalier Montluçon-Néris les Bains |
-
-030780100 |
-
-Hépato-gastro-entérologie |
-
-hépato-gastro-entérologie |
-
-47 |
-
-CH ARDECHE NORD |
-
-070000179 |
-
-hépato-gastro-entérologie |
-
-hépato-gastro-entérologie |
-
-48 |
-
-Groupement Hospitalier Portes de Provence |
-
-260000138 |
-
-Hépato-gastro-entérologie |
-
-hépato-gastro-entérologie |
-
-49 |
+50 |
 
 CH de Bourg en Bresse |
 
@@ -506,9 +512,39 @@ CH de Bourg en Bresse |
 
 Hépato-gastro-entérologie |
 
+CH de Bourg en Bresse-06 |
+
+51 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Hépato-gastro-entérologie |
+
+Centre Hospitalier Montluçon-Néris les Bains-09 |
+
+52 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
 hépato-gastro-entérologie |
 
-50 |
+CH ARDECHE NORD-01 |
+
+53 |
+
+Groupement Hospitalier Portes de Provence |
+
+260000047 |
+
+Hépato-gastro-entérologie |
+
+GHPP-02 |
+
+54 |
 
 Centre Hospitalier Saint Flour |
 
@@ -516,9 +552,9 @@ Centre Hospitalier Saint Flour |
 
 Hépato-gastro-entérologie |
 
-hépato-gastro-entérologie |
+Centre Hospitalier Saint Flour-02 |
 
-51 |
+55 |
 
 CH Privas Ardèche |
 
@@ -526,9 +562,9 @@ CH Privas Ardèche |
 
 Hépato-gastro-entérologie |
 
-hépato-gastro-entérologie |
+CH Privas Ardèche-03 |
 
-52 |
+56 |
 
 Hôpitaux du Pays du Mont-Blanc (Chamonix-Sallanches) |
 
@@ -536,19 +572,19 @@ Hôpitaux du Pays du Mont-Blanc (Chamonix-Sallanches) |
 
 Hépato-gastro-entérologie |
 
-hépato-gastro-entérologie |
+Hôpitaux du Pays du Mont-Blanc-03 |
 
-53 |
+57 |
 
 CL COTES DU RHONE |
 
-380020123 |
+380021139 |
 
 Hépato-gastro-entérologie |
 
-hépato-gastro-entérologie |
+CL COTES DU RHONE-02 |
 
-54 |
+58 |
 
 CH MOULINS-YZEURE |
 
@@ -556,9 +592,9 @@ CH MOULINS-YZEURE |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+CH MOULINS-YZEURE-14 |
 
-55 |
+59 |
 
 CH Alpes Léman |
 
@@ -566,9 +602,9 @@ CH Alpes Léman |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+CH Alpes Léman-03 |
 
-56 |
+60 |
 
 Centre hospitalier de Vichy |
 
@@ -576,9 +612,9 @@ Centre hospitalier de Vichy |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+Centre hospitalier de Vichy-04 |
 
-57 |
+61 |
 
 CH de Bourg en Bresse |
 
@@ -586,9 +622,9 @@ CH de Bourg en Bresse |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+CH de Bourg en Bresse-07 |
 
-58 |
+62 |
 
 CHARME |
 
@@ -596,19 +632,19 @@ CHARME |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+CHARME-05 |
 
-59 |
+63 |
 
 HOPITAUX DU LEMAN |
 
-740000328 |
+740790381 |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+HOPITAUX DU LEMAN-05 |
 
-60 |
+64 |
 
 Hôpitaux du Pays du Mont-Blanc (Chamonix-Sallanches) |
 
@@ -616,49 +652,75 @@ Hôpitaux du Pays du Mont-Blanc (Chamonix-Sallanches) |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+Hôpitaux du Pays du Mont-Blanc-01 |
 
-61 |
+65 |
 
-CH MOULINS-YZEURE |
+Centre Hospitalier de Privas Ardèche |
 
-030780092 |
+070002878 |
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-urgentiste |
+66 |
 
-62 |
+CENTRE HOSPITALIER EMILE ROUX |
 
-CH MOULINS-YZEURE |
+430000018 |
 
-030780092 |
+Médecine cardiovasculaire (co-DES) |
 
-Médecine d'urgence |
-
-urgentiste |
-
-63 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-64 |
+67 |
 
 HOPITAUX DROME NORD (HDN) |
 
-260000120 |
+2600016910 |
 
 Médecine d'urgence |
 
-urgentiste |
+HDN-03 |
 
-65 |
+68 |
+
+CH Privas Ardèche |
+
+070002878 |
+
+Médecine d'urgence |
+
+CH Privas Ardèche-02 |
+
+69 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Médecine d'urgence |
+
+CH MOULINS-YZEURE-04 |
+
+70 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Médecine d'urgence |
+
+CH MOULINS-YZEURE-05 |
+
+71 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Médecine d'urgence |
+
+CH MOULINS-YZEURE-06 |
+
+72 |
 
 CH AURILLAC |
 
@@ -666,29 +728,29 @@ CH AURILLAC |
 
 Médecine d'urgence |
 
-urgentiste |
+CH AURILLAC-02 |
 
-66 |
-
-CENTRE HOSPITALIER EMILE ROUX |
-
-430000117 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-67 |
+73 |
 
 CENTRE HOSPITALIER EMILE ROUX |
 
-430000117 |
+430000018 |
 
 Médecine d'urgence |
 
-urgentiste |
+CHER-03 |
 
-68 |
+74 |
+
+CENTRE HOSPITALIER EMILE ROUX |
+
+430000018 |
+
+Médecine d'urgence |
+
+CHER-04 |
+
+75 |
 
 CH Alpes Léman |
 
@@ -696,9 +758,9 @@ CH Alpes Léman |
 
 Médecine d'urgence |
 
-urgentiste |
+CH Alpes Léman-02 |
 
-69 |
+76 |
 
 Centre hospitalier de Vichy |
 
@@ -706,29 +768,29 @@ Centre hospitalier de Vichy |
 
 Médecine d'urgence |
 
-urgentiste |
+Centre hospitalier de Vichy-01 |
 
-70 |
-
-CHUGA VOIRON |
-
-380000406 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-71 |
+77 |
 
 CHUGA VOIRON |
 
-380000406 |
+380780080 |
 
 Médecine d'urgence |
 
-urgentiste |
+CHUGA VOIRON-01 |
 
-72 |
+78 |
+
+CHUGA VOIRON |
+
+380780080 |
+
+Médecine d'urgence |
+
+CHUGA VOIRON-02 |
+
+79 |
 
 CH de Bourg en Bresse |
 
@@ -736,19 +798,9 @@ CH de Bourg en Bresse |
 
 Médecine d'urgence |
 
-urgentiste |
+CH de Bourg en Bresse-03 |
 
-73 |
-
-CH Privas Ardèche |
-
-070002878 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-74 |
+80 |
 
 CHARME |
 
@@ -756,29 +808,29 @@ CHARME |
 
 Médecine d'urgence |
 
-urgentiste |
+CHARME-02 |
 
-75 |
-
-Centre Hospitalier du Forez |
-
-420000226 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-76 |
+81 |
 
 Centre Hospitalier du Forez |
 
-420000267 |
+420013831 |
 
 Médecine d'urgence |
 
-urgentiste |
+CH Forez-03 |
 
-77 |
+82 |
+
+Centre Hospitalier du Forez |
+
+420013831 |
+
+Médecine d'urgence |
+
+CH Forez-04 |
+
+83 |
 
 CH DE ROANNE |
 
@@ -786,9 +838,9 @@ CH DE ROANNE |
 
 Médecine d'urgence |
 
-urgentiste |
+CH DE ROANNE-03 |
 
-78 |
+84 |
 
 L'Hôpital du Gier |
 
@@ -796,9 +848,9 @@ L'Hôpital du Gier |
 
 Médecine d'urgence |
 
-urgentiste |
+L'Hôpital du Gier-03 |
 
-79 |
+85 |
 
 CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
 
@@ -806,129 +858,209 @@ CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
 
 Médecine d'urgence |
 
-urgentiste |
-
-80 |
-
-CH DE TARARE-GRANDRIS |
-
-690000625 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-81 |
-
-CH Fabrice Marchiol (La Mure) |
-
-380780031 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-82 |
-
-CH Fabrice Marchiol (La Mure) |
-
-380780031 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-83 |
-
-HOPITAUX DU LEMAN |
-
-740000328 |
-
-Médecine d'urgence |
-
-urgentiste |
-
-84 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Médecine générale |
-
-médecin généraliste |
-
-85 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Médecine générale |
-
-médecin généraliste |
+CH VALLEE DE LA MAURIENNE-02 |
 
 86 |
 
-CH ARDECHE NORD |
+CH DE TARARE-GRANDRIS |
 
-070000179 |
+690782271 |
 
-Médecine générale |
+Médecine d'urgence |
 
-médecin généraliste |
+CH DE TARARE-GRANDRIS-01 |
 
 87 |
 
-CH ARDECHE NORD |
+CH Fabrice Marchiol (La Mure) |
 
-070000179 |
+380780031 |
 
-Médecine générale |
+Médecine d'urgence |
 
-médecin généraliste |
+CH Fabrice Marchiol (La Mure)-01 |
 
 88 |
 
-CH AURILLAC |
+HOPITAUX DU LEMAN |
 
-150780096 |
+740790381 |
 
-Médecine générale |
+Médecine d'urgence |
 
-médecin généraliste |
+HOPITAUX DU LEMAN-03 |
 
 89 |
 
-CH AURILLAC |
+HCL-HOPITAL EDOUARD HERRIOT |
 
-150780096 |
+690781810 |
 
-Médecine générale |
+Médecine d'urgence |
 
-médecin généraliste |
+|
 
 90 |
 
+CHU de Clermont-Ferrand |
+
+630780989 |
+
+Médecine d'urgence |
+
+|
+
+91 |
+
+CHU de Clermont-Ferrand |
+
+630780989 |
+
+Médecine d'urgence |
+
+|
+
+92 |
+
+Centre Hospitalier de Thiers |
+
+630781029 |
+
+Médecine d'urgence |
+
+|
+
+93 |
+
+HOPITAUX DU LEMAN |
+
+740790381 |
+
+Médecine d'urgence |
+
+|
+
+94 |
+
+CENTRE HOSPITALIER D'ISSOIRE |
+
+630781003 |
+
+Médecine générale |
+
+CH ISSOIRE-01 |
+
+95 |
+
+HOPITAUX DROME NORD (HDN) |
+
+2600016910 |
+
+Médecine générale |
+
+HDN-04 |
+
+96 |
+
+CH Belleville |
+
+690782230 |
+
+Médecine générale |
+
+CH Belleville-01 |
+
+97 |
+
+CH DE TARARE-GRANDRIS |
+
+690782271 |
+
+Médecine générale |
+
+CH DE TARARE-GRANDRIS-02 |
+
+98 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Médecine générale |
+
+CH MOULINS-YZEURE-09 |
+
+99 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Médecine générale |
+
+CH MOULINS-YZEURE-10 |
+
+100 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
+Médecine générale |
+
+CH ARDECHE NORD-04 |
+
+101 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
+Médecine générale |
+
+CH ARDECHE NORD-05 |
+
+102 |
+
 CH AURILLAC |
 
 150780096 |
 
 Médecine générale |
 
-médecin généraliste |
+CH AURILLAC-03 |
 
-91 |
+103 |
 
-Groupement Hospitalier Portes de Provence |
+CH AURILLAC |
 
-260000138 |
+150780096 |
 
 Médecine générale |
 
-médecin généraliste |
+CH AURILLAC-04 |
 
-92 |
+104 |
+
+CH AURILLAC |
+
+150780096 |
+
+Médecine générale |
+
+CH AURILLAC-10 |
+
+105 |
+
+Groupement Hospitalier Portes de Provence |
+
+260000047 |
+
+Médecine générale |
+
+GHPP-01 |
+
+106 |
 
 Centre hospitalier de Vichy |
 
@@ -936,9 +1068,9 @@ Centre hospitalier de Vichy |
 
 Médecine générale |
 
-médecin généraliste |
+Centre hospitalier de Vichy-02 |
 
-93 |
+107 |
 
 Centre Hospitalier Bugey Sud |
 
@@ -946,9 +1078,9 @@ Centre Hospitalier Bugey Sud |
 
 Médecine générale |
 
-médecin généraliste |
+Centre Hospitalier Bugey Sud-01 |
 
-94 |
+108 |
 
 Centre Hospitalier Public d'Hauteville |
 
@@ -956,19 +1088,19 @@ Centre Hospitalier Public d'Hauteville |
 
 Médecine générale |
 
-médecin généraliste |
+Centre Hospitalier Public d'Hauteville-02 |
 
-95 |
+109 |
 
 CENTRE SSR ORCET-MANGINI |
 
-010780252 |
+010783009 |
 
 Médecine générale |
 
-médecin généraliste |
+CENTRE SSR ORCET-MANGINI-02 |
 
-96 |
+110 |
 
 Centre Hospitalier Saint Flour |
 
@@ -976,9 +1108,9 @@ Centre Hospitalier Saint Flour |
 
 Médecine générale |
 
-médecin généraliste |
+Centre Hospitalier Saint Flour-01 |
 
-97 |
+111 |
 
 CH BRIOUDE |
 
@@ -986,9 +1118,9 @@ CH BRIOUDE |
 
 Médecine générale |
 
-médecin généraliste |
+CH BRIOUDE-03 |
 
-98 |
+112 |
 
 CENTRE HOSPITALIER DE SAINT MARCELLIN |
 
@@ -996,19 +1128,9 @@ CENTRE HOSPITALIER DE SAINT MARCELLIN |
 
 Médecine générale |
 
-médecin généraliste |
+CH ST MARCELLIN-2 |
 
-99 |
-
-CHARME |
-
-070005566 |
-
-Médecine générale |
-
-médecin généraliste |
-
-100 |
+113 |
 
 CHARME |
 
@@ -1016,39 +1138,29 @@ CHARME |
 
 Médecine générale |
 
-médecin généraliste |
+CHARME-03 |
 
-101 |
+114 |
 
-CENTRE HOSPITALIER D'ISSOIRE |
+CHARME |
 
-630000420 |
+070005566 |
 
 Médecine générale |
 
-médecin généraliste |
+CHARME-04 |
 
-102 |
+115 |
 
 HOPITAUX DROME NORD (HDN) |
 
-260000120 |
+2600016910 |
 
 Médecine générale |
 
-médecin généraliste |
+HDN-06 |
 
-103 |
-
-HOPITAUX DROME NORD (HDN) |
-
-260000120 |
-
-Médecine générale |
-
-médecin généraliste |
-
-104 |
+116 |
 
 CH YVES TOURAINE |
 
@@ -1056,19 +1168,19 @@ CH YVES TOURAINE |
 
 Médecine générale |
 
-médecin généraliste |
+CH YVES TOURAINE-01 |
 
-105 |
+117 |
 
 Centre Hospitalier du Forez |
 
-420000267 |
+420013831 |
 
 Médecine générale |
 
-médecin généraliste |
+CH Forez-06 |
 
-106 |
+118 |
 
 L'Hôpital du Gier |
 
@@ -1076,9 +1188,9 @@ L'Hôpital du Gier |
 
 Médecine générale |
 
-médecin généraliste |
+L'Hôpital du Gier-05 |
 
-107 |
+119 |
 
 L'Hôpital du Gier |
 
@@ -1086,9 +1198,9 @@ L'Hôpital du Gier |
 
 Médecine générale |
 
-médecin généraliste |
+L'Hôpital du Gier-04 |
 
-108 |
+120 |
 
 CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
 
@@ -1096,9 +1208,9 @@ CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
 
 Médecine générale |
 
-médecin généraliste |
+CH VALLEE DE LA MAURIENNE-05 |
 
-109 |
+121 |
 
 HOPITAL ANDREVETAN |
 
@@ -1106,29 +1218,9 @@ HOPITAL ANDREVETAN |
 
 Médecine générale |
 
-médecin généraliste |
+HOPITAL ANDREVETAN-01 |
 
-110 |
-
-CH DE TARARE-GRANDRIS |
-
-690000625 |
-
-Médecine générale |
-
-médecin généraliste |
-
-111 |
-
-CH Belleville |
-
-690000583 |
-
-Médecine générale |
-
-médecin généraliste |
-
-112 |
+122 |
 
 Centre Hospitalier du Beaujolais Vert |
 
@@ -1136,447 +1228,347 @@ Centre Hospitalier du Beaujolais Vert |
 
 Médecine générale |
 
-médecin généraliste |
-
-113 |
-
-CL COTES DU RHONE |
-
-380020123 |
-
-Médecine générale |
-
-médecin généraliste |
-
-114 |
-
-CH PIERRE OUDOT |
-
-380780049 |
-
-Médecine générale |
-
-médecin généraliste |
-
-115 |
-
-CH PIERRE OUDOT |
-
-380780049 |
-
-Médecine générale |
-
-médecin généraliste |
-
-116 |
-
-MEDIPOLE DE SAVOIE |
-
-730004298 |
-
-Médecine générale |
-
-médecin généraliste |
-
-117 |
-
-HOPITAUX DU LEMAN |
-
-740000328 |
-
-Médecine générale |
-
-médecin généraliste |
-
-118 |
-
-HOPITAUX DU LEMAN |
-
-740000328 |
-
-Médecine générale |
-
-médecin généraliste |
-
-119 |
-
-CH de Bourg en Bresse |
-
-010780054 |
-
-Médecine intensive-réanimation (co-DES) |
-
-MIR |
-
-120 |
-
-CH PIERRE OUDOT |
-
-380780049 |
-
-Médecine intensive-réanimation (co-DES) |
-
-MIR |
-
-121 |
-
-CENTRE SSR ORCET-MANGINI |
-
-010780252 |
-
-Médecine physique et de réadaptation |
-
-MPR |
-
-122 |
-
-Centre Médical de l'Argentière |
-
-690000401 |
-
-Médecine physique et de réadaptation |
-
-MPR |
+CH Beaujolais Vert-01 |
 
 123 |
 
-Centre Médical de l'Argentière |
+CL COTES DU RHONE |
 
-690000401 |
+380021139 |
 
-Médecine physique et de réadaptation |
+Médecine générale |
 
-MPR |
+CL COTES DU RHONE-01 |
 
 124 |
 
-CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
+CH PIERRE OUDOT |
 
-730780103 |
+380780049 |
 
-Médecine physique et de réadaptation |
+Médecine générale |
 
-MPR |
+CH PIERRE OUDOT-03 |
 
 125 |
 
-SANCELLEMOZ |
+CH PIERRE OUDOT |
 
-740780135 |
+380780049 |
 
-Médecine physique et de réadaptation |
+Médecine générale |
 
-MPR |
+CH PIERRE OUDOT-04 |
 
 126 |
 
-Centre Médical de l'Argentière |
+MEDIPOLE DE SAVOIE |
 
-690000401 |
+730010048 |
 
-Médecine physique et de réadaptation |
+Médecine générale |
 
-MPR |
+MEDIPOLE DE SAVOIE-01 |
 
 127 |
 
-CH MOULINS-YZEURE |
+HOPITAUX DU LEMAN |
 
-030780092 |
+740790381 |
 
-Néphrologie |
+Médecine générale |
 
-Néphrologue |
+HOPITAUX DU LEMAN-04 |
 
 128 |
 
-CH ARDECHE NORD |
+HOPITAUX DU LEMAN |
 
-070000179 |
+740790381 |
 
-Néphrologie |
+Médecine générale |
 
-Néphrologue |
+HOPITAUX DU LEMAN-08 |
 
 129 |
 
-CH DE ROANNE |
+HCL-HOPITAL EDOUARD HERRIOT |
 
-420780033 |
+690781810 |
 
-Néphrologie |
+Médecine générale |
 
-Néphrologue |
+|
 
 130 |
-
-Centre Hospitalier Montluçon-Néris les Bains |
-
-030780100 |
-
-Neurologie |
-
-Neurologue |
-
-131 |
-
-CH VIENNE |
-
-380000174 |
-
-Neurologie |
-
-Neurologue |
-
-132 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Oncologie |
-
-Oncologie |
-
-133 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Pédiatrie |
-
-pédiatre |
-
-134 |
-
-Centre Hospitalier Montluçon-Néris les Bains |
-
-030780100 |
-
-Pédiatrie |
-
-pédiatre |
-
-135 |
-
-CH ARDECHE NORD |
-
-070000179 |
-
-Pédiatrie |
-
-pédiatre |
-
-136 |
-
-CH Alpes Léman |
-
-740790258 |
-
-Pédiatrie |
-
-pédiatre |
-
-137 |
-
-CH Privas Ardèche |
-
-070002878 |
-
-Pédiatrie |
-
-pédiatre |
-
-138 |
-
-Centre Hospitalier Bugey Sud |
-
-010780062 |
-
-Pédiatrie |
-
-pédiatre |
-
-139 |
-
-HOPITAL LE CORBUSIER |
-
-420780652 |
-
-Pédiatrie |
-
-pédiatre |
-
-140 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Pharmacie polyvalente et pharmacie hospitalière |
-
-Pharmacien polyvalent et PUI |
-
-141 |
-
-CH BRIOUDE |
-
-430000034 |
-
-pharmacie polyvalente et pharmacie hospitalière |
-
-Pharmacien polyvalent et PUI |
-
-142 |
-
-CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
-
-730780103 |
-
-pharmacie polyvalente et pharmacie hospitalière |
-
-Pharmacien polyvalent et PUI |
-
-143 |
-
-MEDIPOLE DE SAVOIE |
-
-730004298 |
-
-pharmacie polyvalente et pharmacie hospitalière |
-
-Pharmacien polyvalent et PUI |
-
-144 |
-
-CH MOULINS-YZEURE |
-
-030780092 |
-
-Pneumologie |
-
-pneumologue |
-
-145 |
-
-Centre Hospitalier Montluçon-Néris les Bains |
-
-030780100 |
-
-Pneumologie |
-
-pneumologue |
-
-146 |
-
-CH AURILLAC |
-
-150780096 |
-
-Pneumologie |
-
-pneumologue |
-
-147 |
-
-Centre hospitalier de Vichy |
-
-030 780 118 |
-
-Pneumologie |
-
-pneumologue |
-
-148 |
-
-CH Alpes Léman |
-
-740790258 |
-
-Pneumologie |
-
-pneumologue |
-
-149 |
 
 CH de Bourg en Bresse |
 
 010780054 |
 
-Pneumologie |
+Médecine générale |
 
-pneumologue |
+|
 
-150 |
+131 |
 
-CENTRE HENRI BAZIRE |
-
-380780379 |
-
-Pneumologie |
-
-pneumologue |
-
-151 |
-
-Atrir santé et médico social |
-
-260000195 |
-
-Pneumologie |
-
-pneumologue |
-
-152 |
-
-Atrir santé et médico social |
-
-260000195 |
-
-Pneumologie |
-
-pneumologue |
-
-153 |
-
-CHARME |
+Centre Hospitalier d'Ardèche méridionale |
 
 070005566 |
 
-Pneumologie |
+Médecine générale |
 
-pneumologue |
+|
 
-154 |
+132 |
 
-CH DE ROANNE |
+Centre Hospitalier de Privas Ardèche |
 
-420780033 |
+070002878 |
 
-Pneumologie |
+Médecine générale |
 
-pneumologue |
+|
 
-155 |
+133 |
 
-HOPITAUX DU LEMAN |
+GROUPEMENT HOSPITALIER PORTES DE PROVENCE |
 
-740000328 |
+26 000 0047 |
 
-Pneumologie |
+Médecine générale |
 
-pneumologue |
+|
 
-156 |
+134 |
+
+Hôpitaux Drôme Nord |
+
+2600016911 |
+
+Médecine générale |
+
+|
+
+135 |
+
+Centre Hospitalier de Voiron |
+
+380780080 |
+
+Médecine générale |
+
+|
+
+136 |
+
+Centre Hospitalier de Voiron |
+
+380780080 |
+
+Médecine générale |
+
+|
+
+137 |
+
+Centre Hospitalier de Voiron |
+
+380780080 |
+
+Médecine générale |
+
+|
+
+138 |
+
+Centre Hospitalier de Voiron |
+
+380780080 |
+
+médecine générale |
+
+|
+
+139 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Médecine générale |
+
+|
+
+140 |
+
+Centre hospitalier du Haut-Bugey |
+
+01 000 523 9 |
+
+Médecine générale |
+
+|
+
+141 |
+
+CH DE TARARE-GRANDRIS |
+
+690782271 |
+
+Médecine générale |
+
+|
+
+142 |
+
+CH de MURAT |
+
+150780500 |
+
+Médecine générale |
+
+|
+
+143 |
+
+CH de Bourg en Bresse |
+
+010780054 |
+
+Médecine intensive-réanimation (co-DES) |
+
+CH de Bourg en Bresse-04 |
+
+144 |
+
+CH PIERRE OUDOT |
+
+380780049 |
+
+Médecine intensive-réanimation (co-DES) |
+
+CH PIERRE OUDOT-05 |
+
+145 |
+
+CENTRE SSR ORCET-MANGINI |
+
+010783009 |
+
+Médecine physique et de réadaptation |
+
+CENTRE SSR ORCET-MANGINI-01 |
+
+146 |
+
+Centre Médical de l'Argentière |
+
+920028560 |
+
+Médecine physique et de réadaptation |
+
+Centre Médical de l'Argentière-01 |
+
+147 |
+
+Centre Médical de l'Argentière |
+
+920028560 |
+
+Médecine physique et de réadaptation |
+
+Centre Médical de l'Argentière-02 |
+
+148 |
+
+CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
+
+730780103 |
+
+Médecine physique et de réadaptation |
+
+CH VALLEE DE LA MAURIENNE-01 |
+
+149 |
+
+SANCELLEMOZ |
+
+920030939 |
+
+Médecine physique et de réadaptation |
+
+SANCELLEMOZ-01 |
+
+150 |
+
+Centre Médical de l'Argentière |
+
+920028560 |
+
+Médecine physique et de réadaptation |
+
+Centre Médical de l'Argentière-03 |
+
+151 |
 
 CH MOULINS-YZEURE |
 
 030780092 |
 
-Psychiatrie |
+Néphrologie |
 
-psychiatre |
+CH MOULINS-YZEURE-01 |
+
+152 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
+Néphrologie |
+
+CH ARDECHE NORD-02 |
+
+153 |
+
+CH DE ROANNE |
+
+420780033 |
+
+Néphrologie |
+
+CH DE ROANNE-01 |
+
+154 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Neurologie |
+
+Centre Hospitalier Montluçon-Néris les Bains-05 |
+
+155 |
+
+CH VIENNE |
+
+380781435 |
+
+Neurologie |
+
+CH VIENNE-03 |
+
+156 |
+
+CH de Bourg en Bresse |
+
+010780054 |
+
+Neurologie |
+
+|
 
 157 |
 
@@ -1584,31 +1576,361 @@ CH MOULINS-YZEURE |
 
 030780092 |
 
-Psychiatrie |
+Oncologie |
 
-psychiatre |
+CH MOULINS-YZEURE-02 |
 
 158 |
 
-Centre Hospitalier Montluçon-Néris les Bains |
+Centre hospitalier de Vichy |
 
-030780100 |
+030 780 118 |
 
-Psychiatrie |
+Oncologie |
 
-psychiatre |
+|
 
 159 |
 
+Centre hospitalier de Vichy |
+
+030780118 |
+
+Oncologie |
+
+|
+
+160 |
+
+CH Alpes Léman |
+
+740790258 |
+
+Oncologie |
+
+|
+
+161 |
+
+GROUPEMENT HOSPITALIER PORTES DE PROVENCE |
+
+26 000 0047 |
+
+Oncologie |
+
+|
+
+162 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Pédiatrie |
+
+Centre Hospitalier Montluçon-Néris les Bains-06 |
+
+163 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Pédiatrie |
+
+CH MOULINS-YZEURE-15 |
+
+164 |
+
+CH ARDECHE NORD |
+
+070780358 |
+
+Pédiatrie |
+
+CH ARDECHE NORD-07 |
+
+165 |
+
+CH Alpes Léman |
+
+740790258 |
+
+Pédiatrie |
+
+CH Alpes Léman-04 |
+
+166 |
+
+CH Privas Ardèche |
+
+070002878 |
+
+Pédiatrie |
+
+CH Privas Ardèche-04 |
+
+167 |
+
+Centre Hospitalier Bugey Sud |
+
+010780062 |
+
+Pédiatrie |
+
+Centre Hospitalier Bugey Sud-02 |
+
+168 |
+
+HOPITAL LE CORBUSIER |
+
+420780652 |
+
+Pédiatrie |
+
+HOPITAL LE CORBUSIER-03 |
+
+169 |
+
+HCL-HOPITAL MERE FEMME ENFANT |
+
+690781810 |
+
+Pédiatrie |
+
+|
+
+170 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Pédiatrie |
+
+|
+
+171 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Pédiatrie |
+
+|
+
+172 |
+
+Centre Hospitalier Universitaire Grenoble Alpes |
+
+380780080 |
+
+Pédiatrie |
+
+|
+
+173 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Pharmacie polyvalente |
+
+CH MOULINS-YZEURE-16 |
+
+174 |
+
+CH BRIOUDE |
+
+430000034 |
+
+Pharmacie polyvalente |
+
+CH BRIOUDE-02 |
+
+175 |
+
+CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
+
+730780103 |
+
+Pharmacie polyvalente |
+
+CH VALLEE DE LA MAURIENNE-03 |
+
+176 |
+
+MEDIPOLE DE SAVOIE |
+
+730010048 |
+
+Pharmacie polyvalente |
+
+MEDIPOLE DE SAVOIE-02 |
+
+177 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Pneumologie |
+
+Centre Hospitalier Montluçon-Néris les Bains-07 |
+
+178 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Pneumologie |
+
+CH MOULINS-YZEURE-17 |
+
+179 |
+
+CH AURILLAC |
+
+150780096 |
+
+Pneumologie |
+
+CH AURILLAC-07 |
+
+180 |
+
+Centre hospitalier de Vichy |
+
+030 780 118 |
+
+Pneumologie |
+
+Centre hospitalier de Vichy-05 |
+
+181 |
+
+CH Alpes Léman |
+
+740790258 |
+
+Pneumologie |
+
+CH Alpes Léman-05 |
+
+182 |
+
+CH de Bourg en Bresse |
+
+010780054 |
+
+Pneumologie |
+
+CH de Bourg en Bresse-08 |
+
+183 |
+
+CENTRE HENRI BAZIRE |
+
+380798249 |
+
+Pneumologie |
+
+CENTRE HENRI BAZIRE-01 |
+
+184 |
+
+Atrir santé et médico social |
+
+010783009 |
+
+Pneumologie |
+
+Atrir santé et médico social-01 |
+
+185 |
+
+Atrir santé et médico social |
+
+010783009 |
+
+Pneumologie |
+
+Atrir santé et médico social-02 |
+
+186 |
+
+CHARME |
+
+070005566 |
+
+Pneumologie |
+
+CHARME-06 |
+
+187 |
+
+CH DE ROANNE |
+
+420780033 |
+
+Pneumologie |
+
+CH DE ROANNE-06 |
+
+188 |
+
+HOPITAUX DU LEMAN |
+
+740790381 |
+
+Pneumologie |
+
+HOPITAUX DU LEMAN-06 |
+
+189 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Psychiatrie |
+
+CH MOULINS-YZEURE-11 |
+
+190 |
+
+CH MOULINS-YZEURE |
+
+030780092 |
+
+Psychiatrie |
+
+CH MOULINS-YZEURE-12 |
+
+191 |
+
 Centre Hospitalier Montluçon-Néris les Bains |
 
 030780100 |
 
 Psychiatrie |
 
-psychiatre |
+Centre Hospitalier Montluçon-Néris les Bains-02 |
 
-160 |
+192 |
+
+Centre Hospitalier Montluçon-Néris les Bains |
+
+030780100 |
+
+Psychiatrie |
+
+Centre Hospitalier Montluçon-Néris les Bains-03 |
+
+193 |
 
 CH AURILLAC |
 
@@ -1616,9 +1938,9 @@ CH AURILLAC |
 
 Psychiatrie |
 
-psychiatre |
+CH AURILLAC-05 |
 
-161 |
+194 |
 
 CH AURILLAC |
 
@@ -1626,9 +1948,9 @@ CH AURILLAC |
 
 Psychiatrie |
 
-psychiatre |
+CH AURILLAC-06 |
 
-162 |
+195 |
 
 Centre hospitalier de Vichy |
 
@@ -1636,39 +1958,39 @@ Centre hospitalier de Vichy |
 
 Psychiatrie |
 
-psychiatre |
+Centre hospitalier de Vichy-03 |
 
-163 |
-
-CENTRE PSYCHOTHERAPIQUE DE L'AIN |
-
-010000495 |
-
-Psychiatrie |
-
-psychiatre |
-
-164 |
+196 |
 
 CENTRE PSYCHOTHERAPIQUE DE L'AIN |
 
-010000495 |
+010783009 |
 
 Psychiatrie |
 
-psychiatre |
+CENTRE PSYCHOTHERAPIQUE DE L'AIN-01 |
 
-165 |
+197 |
+
+CENTRE PSYCHOTHERAPIQUE DE L'AIN |
+
+010783009 |
+
+Psychiatrie |
+
+CENTRE PSYCHOTHERAPIQUE DE L'AIN-02 |
+
+198 |
 
 Centre Hospitalier du Forez |
 
-420000226 |
+420013831 |
 
 Psychiatrie |
 
-psychiatre |
+CH Forez-06 |
 
-166 |
+199 |
 
 CH DE ROANNE |
 
@@ -1676,9 +1998,9 @@ CH DE ROANNE |
 
 Psychiatrie |
 
-psychiatre |
+CH DE ROANNE-04 |
 
-167 |
+200 |
 
 CH DE ROANNE |
 
@@ -1686,49 +2008,49 @@ CH DE ROANNE |
 
 Psychiatrie |
 
-psychiatre |
+CH DE ROANNE-05 |
 
-168 |
-
-CENTRE HOSPITALIER SAINTE MARIE |
-
-430000026 |
-
-Psychiatrie |
-
-psychiatre |
-
-169 |
+201 |
 
 CENTRE HOSPITALIER SAINTE MARIE |
 
-430000026 |
+630786754 |
 
 Psychiatrie |
 
-psychiatre |
+CENTRE HOSPITALIER SAINTE MARIE-01 |
 
-170 |
+202 |
 
 CENTRE HOSPITALIER SAINTE MARIE |
 
-430000026 |
+630786754 |
 
 Psychiatrie |
 
-psychiatre |
+CENTRE HOSPITALIER SAINTE MARIE-02 |
 
-171 |
+203 |
 
 CENTRE HOSPITALIER SAINTE MARIE |
 
-430000026 |
+630786754 |
 
 Psychiatrie |
 
-psychiatre |
+CENTRE HOSPITALIER SAINTE MARIE-03 |
 
-172 |
+204 |
+
+CENTRE HOSPITALIER SAINTE MARIE |
+
+630786754 |
+
+Psychiatrie |
+
+CENTRE HOSPITALIER SAINTE MARIE-04 |
+
+205 |
 
 CHS DE LA SAVOIE |
 
@@ -1736,9 +2058,9 @@ CHS DE LA SAVOIE |
 
 Psychiatrie |
 
-psychiatre |
+CHS DE LA SAVOIE-01 |
 
-173 |
+206 |
 
 CHS DE LA SAVOIE |
 
@@ -1746,19 +2068,9 @@ CHS DE LA SAVOIE |
 
 Psychiatrie |
 
-psychiatre |
+CHS DE LA SAVOIE-02 |
 
-174 |
-
-EPSM74 |
-
-740785035 |
-
-Psychiatrie |
-
-psychiatre |
-
-175 |
+207 |
 
 EPSM74 |
 
@@ -1766,19 +2078,9 @@ EPSM74 |
 
 Psychiatrie |
 
-psychiatre |
+EPSM74-01 |
 
-176 |
-
-EPSM74 |
-
-740785035 |
-
-Psychiatrie |
-
-psychiatre |
-
-177 |
+208 |
 
 EPSM74 |
 
@@ -1786,29 +2088,49 @@ EPSM74 |
 
 Psychiatrie |
 
-psychiatre |
+EPSM74-02 |
 
-178 |
+209 |
+
+EPSM74 |
+
+740785035 |
+
+Psychiatrie |
+
+EPSM74-03 |
+
+210 |
+
+EPSM74 |
+
+740785035 |
+
+Psychiatrie |
+
+EPSM74-04 |
+
+211 |
 
 ESMPI |
 
-380021386 |
+380794297 |
 
 Psychiatrie |
 
-psychiatre |
+ESMPI-01 |
 
-179 |
+212 |
 
 ESMPI |
 
-380012799 |
+380794297 |
 
 Psychiatrie |
 
-psychiatre |
+ESMPI-02 |
 
-180 |
+213 |
 
 CENTRE HOSPITALIER ALPES ISERE |
 
@@ -1816,39 +2138,99 @@ CENTRE HOSPITALIER ALPES ISERE |
 
 Psychiatrie |
 
-psychiatre |
+CHAI-01 |
 
-181 |
-
-Centre Hospitalier Annecy Genevois |
-
-740000237 |
-
-Psychiatrie |
-
-psychiatre |
-
-182 |
+214 |
 
 Centre Hospitalier Annecy Genevois |
 
-740000237 |
+740781133 |
 
 Psychiatrie |
 
-psychiatre |
+CHANGE-02 |
 
-183 |
+215 |
 
 Centre Hospitalier Annecy Genevois |
 
-740000237 |
+740781133 |
 
 Psychiatrie |
 
-psychiatre |
+CHANGE-03 |
 
-184 |
+216 |
+
+Centre Hospitalier Annecy Genevois |
+
+740781133 |
+
+Psychiatrie |
+
+CHANGE-04 |
+
+217 |
+
+HCL-HOPITAL MERE FEMME ENFANT |
+
+690781810 |
+
+Psychiatrie |
+
+|
+
+218 |
+
+Centre Hospitalier LE VINATIER |
+
+690780101 |
+
+Psychiatrie |
+
+|
+
+219 |
+
+Centre Hospitalier LE VINATIER |
+
+690780101 |
+
+Psychiatrie |
+
+|
+
+220 |
+
+CH ALPES ISERE |
+
+380780247 |
+
+Psychiatrie |
+
+|
+
+221 |
+
+CH ALPES ISERE |
+
+380780247 |
+
+Psychiatrie |
+
+|
+
+222 |
+
+CH ALPES ISERE |
+
+380780247 |
+
+Psychiatrie |
+
+|
+
+223 |
 
 Centre Hospitalier Montluçon-Néris les Bains |
 
@@ -1856,39 +2238,9 @@ Centre Hospitalier Montluçon-Néris les Bains |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+Centre Hospitalier Montluçon-Néris les Bains-08 |
 
-185 |
-
-HOPITAUX DROME NORD (HDN) |
-
-260000120 |
-
-Radiologie et imagerie médicale |
-
-radiologue |
-
-186 |
-
-CH AURILLAC |
-
-150780096 |
-
-Radiologie et imagerie médicale |
-
-radiologue |
-
-187 |
-
-Groupement Hospitalier Portes de Provence |
-
-260000138 |
-
-Radiologie et imagerie médicale |
-
-radiologue |
-
-188 |
+224 |
 
 CH Privas Ardèche |
 
@@ -1896,9 +2248,39 @@ CH Privas Ardèche |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+CH Privas Ardèche-05 |
 
-189 |
+225 |
+
+HOPITAUX DROME NORD (HDN) |
+
+2600016910 |
+
+Radiologie et imagerie médicale |
+
+HDN-05 |
+
+226 |
+
+CH AURILLAC |
+
+150780096 |
+
+Radiologie et imagerie médicale |
+
+CH AURILLAC-08 |
+
+227 |
+
+Groupement Hospitalier Portes de Provence |
+
+260000047 |
+
+Radiologie et imagerie médicale |
+
+GHPP-03 |
+
+228 |
 
 CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
 
@@ -1906,9 +2288,9 @@ CENTRE HOSPITALIER VALLEE DE LA MAURIENNE |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+CH VALLEE DE LA MAURIENNE-04 |
 
-190 |
+229 |
 
 Hôpitaux du Pays du Mont-Blanc (Chamonix-Sallanches) |
 
@@ -1916,17 +2298,67 @@ Hôpitaux du Pays du Mont-Blanc (Chamonix-Sallanches) |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+Hôpitaux du Pays du Mont-Blanc-02 |
 
-191 |
+230 |
 
 HOPITAUX DU LEMAN |
 
-740000328 |
+740790381 |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+HOPITAUX DU LEMAN-07 |
+
+231 |
+
+Centre hospitalier de Valence |
+
+260000021 |
+
+Radiologie et imagerie médicale |
+
+|
+
+232 |
+
+Hôpitaux Drôme Nord |
+
+2600016912 |
+
+Radiologie et imagerie médicale |
+
+|
+
+233 |
+
+GROUPEMENT HOSPITALIER PORTES DE PROVENCE |
+
+26 000 0047 |
+
+Radiologie et imagerie médicale |
+
+|
+
+234 |
+
+CENTRE HOSPITALIER DE BRIOUDE |
+
+4300034 |
+
+Radiologie et imagerie médicale |
+
+|
+
+235 |
+
+Centre Hospitalier d'Ardèche méridionale |
+
+070005566 |
+
+Rhumatologie |
+
+|
 
 Agence Régionale de Santé : |
 
@@ -1936,611 +2368,171 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
-
-192 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Anatomie et cytologie pathologiques |
-
-Anatomopathogiste |
-
-193 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésiste réanimateur |
-
-194 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésiste réanimateur |
-
-195 |
-
-CHI DE HAUTE COMTE |
-
-250000452 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-196 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-197 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-198 |
-
-GROUPE HOSPITALIER DE LA HAUTE-SAONE |
-
-700004591 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-199 |
-
-CENTRE HOSPITALIER DE SENS |
-
-890970569 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésiste |
-
-200 |
-
-CH AUXERRE |
-
-890975527 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin Anesthésiste-réanimateur bloc mat-gynéco-central |
-
-201 |
-
-CH AUXERRE |
-
-890975527 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin Anesthésiste-réanimateur bloc mat-gynéco-central |
-
-202 |
-
-HNFC |
-
-900003039 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-203 |
-
-HNFC |
-
-900003039 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-204 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésiste réanimateur |
-
-205 |
-
-CHI DE HAUTE COMTE |
-
-250000452 |
-
-Biologie médicale |
-
-médecin biologiste |
-
-206 |
-
-CH JURA SUD |
-
-390780146 |
-
-Chirurgie orthopédique et traumatologique |
-
-Chirurgie orthopédique et traumatologique |
-
-207 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Chirurgie orthopédique et traumatologique |
-
-Chirurgien orthopédiste |
-
-208 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Chirurgie thoracique et cardiovasculaire |
-
-Chirurgien CCVT |
-
-209 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Chirurgie viscérale et digestive |
-
-Chirurgien Viscérale |
-
-210 |
-
-CHI DE HAUTE COMTE |
-
-250000452 |
-
-Chirurgie viscérale et digestive |
-
-Médecin viscéral et digestif |
-
-211 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Chirurgie viscérale et digestive |
-
-Chirurgien Viscérale |
-
-212 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Dermatologie et vénéréologie |
-
-Dermatologue |
-
-213 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin Diabétologue-endocrinologue |
-
-214 |
-
-HNFC |
-
-900003039 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrinologue |
-
-215 |
-
-CLINIQUE MUTUALISTE BENIGNE JOLY |
-
-210780789 |
-
-Gériatrie |
-
-Médecin gériatre UMCG |
-
-216 |
-
-CH JURA SUD |
-
-390780146 |
-
-Gériatrie |
-
-Médecine polyvalente et gériatrie |
-
-217 |
-
-GROUPE HOSPITALIER DE LA HAUTE-SAONE |
-
-700004591 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-218 |
-
-GROUPE HOSPITALIER DE LA HAUTE-SAONE |
-
-700004591 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-219 |
-
-CH DU PAYS CHAROLAIS BRIONNAIS |
-
-710780644 |
-
-Gériatrie |
-
-médecin gériatre |
-
-220 |
-
-CENTRE HOSPITALIER DE SENS |
-
-890970569 |
-
-Gériatrie |
-
-Gériatre |
-
-221 |
-
-CH AUXERRE |
-
-890975527 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-222 |
-
-HNFC |
-
-900003039 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-223 |
-
-CHI DE HAUTE COMTE |
-
-250000452 |
-
-Gynécologie-obstétrique |
-
-Médecin gynécologue obstétricien |
-
-224 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Gynécologie-obstétrique |
-
-Médecine gynécologue-Obstétricien |
-
-225 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Gynécologie-obstétrique |
-
-Médecine gynécologue-Obstétricien |
-
-226 |
-
-CH WILLIAM MOREY-CHALON |
-
-710780958 |
-
-Gynécologie-obstétrique |
-
-Gynécologue-obstétricien |
-
-227 |
-
-CENTRE HOSPITALIER DE SENS |
-
-890970569 |
-
-Gynécologie-obstétrique |
-
-Gynécologue-obstétricien |
-
-228 |
-
-HNFC |
-
-900003039 |
-
-Hématologie |
-
-Médecin hématologue |
-
-229 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Hépato-gastro-entérologie |
-
-Médecin Gastroentérologue |
-
-230 |
-
-CH JURA SUD |
-
-390780146 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Cardiologie et maladies vasculaires |
-
-231 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin Cardiologue |
-
-232 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin Cardiologue |
-
-233 |
-
-CENTRE HOSPITALIER DE DECIZE |
-
-580780096 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-234 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-235 |
-
-GROUPE HOSPITALIER DE LA HAUTE-SAONE |
-
-700004591 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
+Libellé poste |
 
 236 |
 
-CENTRE HOSPITALIER DE SENS |
+CHU DIJON BOURGOGNE |
 
-890970569 |
+|
 
-Médecine d'urgence |
+Anatomie et cytologie pathologiques |
 
-Urgentiste |
+CHU DIJON n° 9 |
 
 237 |
 
-CH AUXERRE |
+CHU DIJON BOURGOGNE |
 
-890975527 |
+|
 
-Médecine d'urgence |
+Anesthésie-réanimation (co-DES) |
 
-Médecin urgentiste polyvalent |
+CHU DIJON n° 4 |
 
 238 |
 
-CH Haute Côte d'Or-CH HCO |
+CHU DIJON BOURGOGNE |
 
-210012142 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecine généraliste |
+CHU DIJON n° 5 |
 
 239 |
 
-CH Haute Côte d'Or-CH HCO |
+CHI DE HAUTE COMTE |
 
-210012142 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecine généraliste |
+ANESTREA |
 
 240 |
 
-CH Haute Côte d'Or-CH HCO |
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
 
-210012142 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecine généraliste |
+CHAN-19 |
 
 241 |
 
-CLINIQUE MUTUALISTE BENIGNE JOLY |
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
 
-210780789 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecin coordonnateur HAD |
+CHAN-20 |
 
 242 |
 
-CH SAINT-CLAUDE |
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
 
-390000065 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecine Polyvalente |
+GH70 14 Vesoul |
 
 243 |
 
-CH JURA SUD |
+CENTRE HOSPITALIER DE SENS |
 
-390780146 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecine polyvalente et gériatrie |
+CH SENS-1 |
 
 244 |
 
-CENTRE HOSPITALIER DE DECIZE |
+CH AUXERRE |
 
-580780096 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecin généraliste pour service de médecine à orientation gériatrique |
+CHA-AR-1 |
 
 245 |
 
-CENTRE HOSPITALIER DE DECIZE |
+CH AUXERRE |
 
-580780096 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecin généraliste pour service de médecine à orientation gastroentérologie |
+CHA-AR-2 |
 
 246 |
 
-CH Henri Dunant-La Charité-sur-Loire |
+HNFC |
 
-580972644 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecin généraliste-Service de médecine générale/ SSR |
+HNFC-03 |
 
 247 |
 
-CH DE COSNE-COURS/ LOIRE |
+HNFC |
 
-580972677 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecin généraliste-Service de médecine générale |
+HNFC-04 |
 
 248 |
 
-GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+CHU DIJON BOURGOGNE |
 
-700004591 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecine gériatre |
+CHU DIJON n° 6 |
 
 249 |
 
-GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+CHI DE HAUTE COMTE |
 
-700004591 |
+|
 
-Médecine générale |
+Biologie médicale |
 
-Médecin généraliste |
+BIOLOGIE |
 
 250 |
 
-CH DU PAYS CHAROLAIS BRIONNAIS |
+CH JURA SUD |
 
-710780644 |
+|
 
-Médecine générale |
+Chirurgie orthopédique et traumatologique |
 
-médecin généraliste |
+CHJS-06 |
 
 251 |
 
-CHS de l'Yonne |
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
 
-890000052 |
+|
 
-Médecine générale |
+Chirurgie orthopédique et traumatologique |
 
-Addictologie |
+CHAN-21 |
 
 252 |
 
@@ -2548,479 +2540,1169 @@ CENTRE HOSPITALIER DE SENS |
 
 890970569 |
 
-Médecine générale |
+Chirurgie orthopédique et traumatologique |
 
-Généraliste en médecine polyvalente |
+chirurgien orthopédiste |
 
 253 |
 
-HNFC |
+CHU DIJON BOURGOGNE |
 
-900003039 |
+|
 
-Médecine générale |
+Chirurgie thoracique et cardiovasculaire |
 
-Médecin généraliste |
+CHU DIJON n° 11 |
 
 254 |
 
-CH Haute Côte d'Or-CH HCO |
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
 
-210012142 |
+|
 
-Médecine générale |
+Chirurgie viscérale et digestive |
 
-Médecine généraliste |
+CHAN-09 |
 
 255 |
 
-CLINIQUE MUTUALISTE BENIGNE JOLY |
+CHI DE HAUTE COMTE |
 
-210780789 |
+|
 
-Médecine générale |
+Chirurgie viscérale et digestive |
 
-Médecin nutrition SSR |
+CHIRVISC |
 
 256 |
 
-HAD PONTARLIER |
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
 
-250012069 |
+|
 
-Médecine générale |
+Chirurgie viscérale et digestive |
 
-Médecin coordonnateur HAD |
+CHAN-10 |
 
 257 |
 
-HAD VESOUL |
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
 
-700000698 |
+|
 
-Médecine générale |
+Endocrinologie-diabétologie-nutrition |
 
-Médecin coordonnateur HAD |
+CHAN-02 |
 
 258 |
 
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+HNFC |
 
-580972693 |
+|
 
-Médecine intensive-réanimation (co-DES) |
+Endocrinologie-diabétologie-nutrition |
 
-Médecin réanimateur |
+HNFC-15 |
 
 259 |
 
-Centre Hospitalier de Sens |
+CENTRE HOSPITALIER D'AUXERRE |
 
-890970569 |
+890000037 |
 
-Médecine intensive-réanimation (co-DES) |
+Endocrinologie-diabétologie-nutrition |
 
-Réanimateur |
+médecin chargé de l'unité de diabétologie et de l'HDJ diabétologie |
 
 260 |
 
-CH JURA SUD |
+CLINIQUE MUTUALISTE BENIGNE JOLY |
 
-390780146 |
+|
 
-Neurologie |
+Gériatrie |
 
-Neurologie |
+CMBJ-1 |
 
 261 |
+
+CH JURA SUD |
+
+|
+
+Gériatrie |
+
+CHJS-03 |
+
+262 |
+
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+
+|
+
+Gériatrie |
+
+GH70 06 Vesoul |
+
+263 |
+
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+
+|
+
+Gériatrie |
+
+GH70 07 Lure |
+
+264 |
+
+CH DU PAYS CHAROLAIS BRIONNAIS |
+
+|
+
+Gériatrie |
+
+CHPCB-02 |
+
+265 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Gériatrie |
+
+CH SENS-2 |
+
+266 |
+
+CH AUXERRE |
+
+|
+
+Gériatrie |
+
+CHA-méd gériatrique aigue-1 |
+
+267 |
+
+HNFC |
+
+|
+
+Gériatrie |
+
+HNFC-11 |
+
+268 |
+
+CENTRE HOSPITALIER DU TONNERROIS |
+
+890000433 |
+
+Gériatrie |
+
+gériatre |
+
+269 |
+
+CHI DE HAUTE COMTE |
+
+250000452 |
+
+Gériatrie |
+
+|
+
+270 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+580780039 |
+
+Gériatrie |
+
+|
+
+271 |
+
+CHI DE HAUTE COMTE |
+
+|
+
+Gynécologie-obstétrique |
+
+MATERNITE |
+
+272 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Gynécologie-obstétrique |
+
+CHAN-27 |
+
+273 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Gynécologie-obstétrique |
+
+CHAN-28 |
+
+274 |
+
+CH WILLIAM MOREY-CHALON |
+
+|
+
+Gynécologie-obstétrique |
+
+CHWM-01 |
+
+275 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Gynécologie-obstétrique |
+
+CH SENS-3 |
+
+276 |
+
+CENTRE HOSPITALIER DES CHANAUX-MACON |
+
+710780263 |
+
+Gynécologie-obstétrique |
+
+|
+
+277 |
+
+CENTRE HOSPITALIER D'AUXERRE |
+
+890975527 |
+
+Gynécologie-obstétrique |
+
+|
+
+278 |
+
+HNFC |
+
+|
+
+Hématologie |
+
+HNFC-10 |
+
+279 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Hépato-gastro-entérologie |
+
+CHAN-07 |
+
+280 |
+
+CENTRE HOSPITALIER DES CHANAUX-MACON |
+
+710780263 |
+
+Maladies infectieuses, maladies tropicales |
+
+médecin en maladies infectieuses et tropicales |
+
+281 |
+
+CH JURA SUD |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+CHJS-01 |
+
+282 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+CHAN-13 |
+
+283 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+CHAN-14 |
+
+284 |
+
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+
+700004591 |
+
+Médecine cardiovasculaire (co-DES) |
+
+médecin cardiologue |
+
+285 |
+
+CENTRE HOSPITALIER DE JOIGNY |
+
+890000417 |
+
+Médecine cardiovasculaire (co-DES) |
+
+médecin cardiologue |
+
+286 |
+
+CENTRE HOSPITALIER DE DECIZE |
+
+|
+
+Médecine d'urgence |
+
+CHD-03 |
+
+287 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Médecine d'urgence |
+
+CHAN-32 |
+
+288 |
+
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+
+|
+
+Médecine d'urgence |
+
+GH 70 01 Vesoul |
+
+289 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Médecine d'urgence |
+
+CH SENS-4 |
+
+290 |
+
+CH AUXERRE |
+
+|
+
+Médecine d'urgence |
+
+CHA-SAU-SMUR-1 |
+
+291 |
+
+CENTRE HOSPITALIER DE JOIGNY |
+
+890000417 |
+
+Médecine d'urgence |
+
+médecin urgentiste |
+
+292 |
 
 CENTRE HOSPITALIER DE SENS |
 
 890970569 |
 
-Neurologie |
+Médecine d'urgence |
 
-Neurologue |
-
-262 |
-
-HNFC |
-
-900003039 |
-
-Neurologie |
-
-Médecin neurologue |
-
-263 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Ophtalmologie |
-
-Médecin Ophtalmologue |
-
-264 |
-
-CH JURA SUD |
-
-390780146 |
-
-Pédiatrie |
-
-Pédiatrie et néonatalogie |
-
-265 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-266 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-267 |
-
-CH DU PAYS CHAROLAIS BRIONNAIS |
-
-710780644 |
-
-Pédiatrie |
-
-pédiatre |
-
-268 |
-
-Centre Hospitalier de Sens |
-
-890970569 |
-
-Pédiatrie |
-
-Pédiatre |
-
-269 |
-
-CH AUXERRE |
-
-890975527 |
-
-Pédiatrie |
-
-Médecin pédiatre-pédiatrie/ néonat |
-
-270 |
-
-HNFC |
-
-900003039 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-271 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Pneumologie |
-
-Médecin Pneumologue |
-
-272 |
-
-HNFC |
-
-900003039 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-273 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Psychiatrie |
-
-Pédopsychiatre |
-
-274 |
-
-CHI DE HAUTE COMTE |
-
-250000452 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-275 |
-
-CHS Saint-Ylie JURA |
-
-390780476 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-276 |
-
-CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
-
-580780971 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-277 |
-
-CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
-
-580780971 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-278 |
-
-CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
-
-580780971 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-279 |
-
-CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
-
-580780971 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-280 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Psychiatrie |
-
-Médecin psychiatre pour service de Psychiatrie de l'enfant et de l'adolescent |
-
-281 |
-
-Association Hospitalière de Bourgogne-Franche-Comté |
-
-700004096 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-282 |
-
-Association Hospitalière de Bourgogne-Franche-Comté |
-
-700004096 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-283 |
-
-CHS de l'Yonne |
-
-890000052 |
-
-Psychiatrie |
-
-Pédopsychiatre Adolescents |
-
-284 |
-
-CHS de l'Yonne |
-
-890000052 |
-
-Psychiatrie |
-
-Pédopsychiatre Adolescents |
-
-285 |
-
-CHS de l'Yonne |
-
-890000052 |
-
-Psychiatrie |
-
-Pédopsychiatre Enfants |
-
-286 |
-
-CHS de l'Yonne |
-
-890000052 |
-
-Psychiatrie |
-
-Psychiatrie Adultes |
-
-287 |
-
-CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
-
-580780971 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-288 |
-
-CHU DIJON BOURGOGNE |
-
-210987558 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-289 |
-
-CHI DE HAUTE COMTE |
-
-250000452 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-290 |
-
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
-
-580972693 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-291 |
-
-CH AUXERRE |
-
-890975527 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue-radiologie conventionnelle-échographies-scanner-IRM |
-
-292 |
-
-HNFC |
-
-900003039 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
+médecin urgentiste |
 
 293 |
 
-CH JURA SUD |
+CH Haute Côte d'Or-CH HCO |
 
-390780146 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologie et imagerie médicale |
+Médecine Saulieu |
 
 294 |
 
-CRF PASORI |
+CH Haute Côte d'Or-CH HCO |
 
-580972008 |
+|
 
-Rhumatologie |
+Médecine générale |
 
-Médecin rhumatologue |
+SSR Montbard |
 
 295 |
 
-HNFC |
+CLINIQUE MUTUALISTE BENIGNE JOLY |
 
-900003039 |
+|
 
-Rhumatologie |
+Médecine générale |
 
-Médecin rhumatologue |
+CMBJ-2 |
 
 296 |
 
-CHI DE HAUTE COMTE |
+CH SAINT-CLAUDE |
 
-250000452 |
+|
 
-Urologie |
+Médecine générale |
 
-Médecin urologue |
+CHSC-01 |
 
 297 |
 
-CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+CH JURA SUD |
 
-580972693 |
+|
 
-Urologie |
+Médecine générale |
 
-Chirurgien Urologue |
+CHJS-04 |
 
 298 |
 
-HNFC |
+CENTRE HOSPITALIER DE DECIZE |
 
-900003039 |
+|
 
-Urologie |
+Médecine générale |
 
-Médecin urologue |
+CHD-02 |
 
 299 |
 
+CH DE COSNE-COURS/ LOIRE |
+
+|
+
+Médecine générale |
+
+CHC-01 |
+
+300 |
+
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+
+|
+
+Médecine générale |
+
+GH70 10 Luxeuil |
+
+301 |
+
+GROUPE HOSPITALIER DE LA HAUTE-SAONE |
+
+|
+
+Médecine générale |
+
+GH70 11 Lure |
+
+302 |
+
+CH DU PAYS CHAROLAIS BRIONNAIS |
+
+|
+
+Médecine générale |
+
+CHPCB-01 |
+
+303 |
+
+CHS de l'Yonne |
+
+|
+
+Médecine générale |
+
+CHSY-M. Thuillier |
+
+304 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Médecine générale |
+
+CH SENS-5 |
+
+305 |
+
+HNFC |
+
+|
+
+Médecine générale |
+
+HNFC-18 |
+
+306 |
+
+CH Haute Côte d'Or-CH HCO |
+
+|
+
+Médecine générale |
+
+Médecine Châtillon |
+
+307 |
+
+CLINIQUE MUTUALISTE BENIGNE JOLY |
+
+|
+
+Médecine générale |
+
+CMBJ-3 |
+
+308 |
+
+HAD PONTARLIER |
+
+|
+
+Médecine générale |
+
+HAD 25 |
+
+309 |
+
+HAD VESOUL |
+
+|
+
+Médecine générale |
+
+HAD 70 |
+
+310 |
+
+CENTRE HOSPITALIER JEAN BOUVERI |
+
+710976705 |
+
+Médecine générale |
+
+médecin généraliste |
+
+311 |
+
+CENTRE HOSPITALIER D'AUXERRE |
+
+890000037 |
+
+Médecine générale |
+
+médecin du service de médecine polyvalente |
+
+312 |
+
+CENTRE HOSPITALIER D'AUXERRE |
+
+890000037 |
+
+Médecine générale |
+
+médecin du service de médecine polyvalente |
+
+313 |
+
+CENTRE HOSPITALIER DE JOIGNY |
+
+890000417 |
+
+Médecine générale |
+
+médecin polyvalent |
+
+314 |
+
+CENTRE HOSPITALIER DE JOIGNY |
+
+890000417 |
+
+Médecine générale |
+
+médecin polyvalent |
+
+315 |
+
+CENTRE HOSPITALIER DU TONNERROIS |
+
+890000433 |
+
+Médecine générale |
+
+médecin généraliste |
+
+316 |
+
+CENTRE HOSPITALIER DE SENS |
+
+890970569 |
+
+Médecine générale |
+
+médecin polyvalent |
+
+317 |
+
+HNFC |
+
+900000365 |
+
+Médecine générale |
+
+médecin polyvalent |
+
+318 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+580780039 |
+
+Médecine générale |
+
+|
+
+319 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+580780039 |
+
+Médecine générale |
+
+|
+
+320 |
+
+CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
+
+580780971 |
+
+Médecine générale |
+
+|
+
+321 |
+
+CENTRE HOSPITALIER DES CHANAUX-MACON |
+
+710780263 |
+
+Médecine générale |
+
+|
+
+322 |
+
+CENTRE HOSPITALIER DE SENS |
+
+890970569 |
+
+Médecine générale |
+
+|
+
+323 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Médecine intensive-réanimation (co-DES) |
+
+CHAN-30 |
+
+324 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Médecine intensive-réanimation (co-DES) |
+
+CH SENS-6 |
+
+325 |
+
+HNFC |
+
+900000365 |
+
+Médecine intensive-réanimation (co-DES) |
+
+médecin réanimateur |
+
+326 |
+
+CH JURA SUD |
+
+|
+
+Neurologie |
+
+CHJS-02 |
+
+327 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Neurologie |
+
+CH SENS-7 |
+
+328 |
+
+HNFC |
+
+|
+
+Neurologie |
+
+HNFC-05 |
+
+329 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Ophtalmologie |
+
+CHAN-17 |
+
+330 |
+
+HNFC |
+
+900000365 |
+
+Ophtalmologie |
+
+médecin ophtalmologue |
+
+331 |
+
+CENTRE HOSPITALIER DES CHANAUX-MACON |
+
+710780263 |
+
+Oto rhino laryngologie |
+
+|
+
+332 |
+
+CH JURA SUD |
+
+|
+
+Pédiatrie |
+
+CHJS-05 |
+
+333 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Pédiatrie |
+
+CHAN-24 |
+
+334 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Pédiatrie |
+
+CHAN-25 |
+
+335 |
+
+CH DU PAYS CHAROLAIS BRIONNAIS |
+
+|
+
+Pédiatrie |
+
+CHPCB-04 |
+
+336 |
+
+CENTRE HOSPITALIER DE SENS |
+
+|
+
+Pédiatrie |
+
+CH SENS-8 |
+
+337 |
+
+CH AUXERRE |
+
+|
+
+Pédiatrie |
+
+CHA-pédia-néonat-1 |
+
+338 |
+
+HNFC |
+
+|
+
+Pédiatrie |
+
+HNFC-14 |
+
+339 |
+
+CENTRE HOSPITALIER D'AUXERRE |
+
+890000037 |
+
+Pédiatrie |
+
+médecin du service de pédiatrie-néonatalogie |
+
+340 |
+
 POLYCLINIQUE DU VAL DE LOIRE |
 
-580780138 |
+|
 
 Pharmacie polyvalente |
 
-Pharmacien |
+PVL-1 |
+
+341 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Pneumologie |
+
+CHAN-16 |
+
+342 |
+
+HNFC |
+
+|
+
+Pneumologie |
+
+HNFC-07 |
+
+343 |
+
+CHU DIJON BOURGOGNE |
+
+|
+
+Psychiatrie |
+
+CHU DIJON n° 7 |
+
+344 |
+
+CHI DE HAUTE COMTE |
+
+|
+
+Psychiatrie |
+
+PSYCHIATRIE |
+
+345 |
+
+CHS Saint-Ylie JURA |
+
+|
+
+Psychiatrie |
+
+CHS JURA-1 |
+
+346 |
+
+CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
+
+|
+
+Psychiatrie |
+
+CHSPL-1 |
+
+347 |
+
+CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
+
+|
+
+Psychiatrie |
+
+CHSPL-2 |
+
+348 |
+
+CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
+
+|
+
+Psychiatrie |
+
+CHSPL-3 |
+
+349 |
+
+CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
+
+|
+
+Psychiatrie |
+
+CHSPL-4 |
+
+350 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Psychiatrie |
+
+CHAN-36 |
+
+351 |
+
+Association Hospitalière de Bourgogne-Franche-Comté |
+
+|
+
+Psychiatrie |
+
+secteur 70G02 |
+
+352 |
+
+Association Hospitalière de Bourgogne-Franche-Comté |
+
+|
+
+Psychiatrie |
+
+secteur 25G07 |
+
+353 |
+
+CHS de l'Yonne |
+
+|
+
+Psychiatrie |
+
+CHSY-CASA Sens |
+
+354 |
+
+CHS de l'Yonne |
+
+|
+
+Psychiatrie |
+
+CHSY-HJ Vincenot |
+
+355 |
+
+CHS de l'Yonne |
+
+|
+
+Psychiatrie |
+
+CHSY-HJ Jules Renard |
+
+356 |
+
+CHS de l'Yonne |
+
+|
+
+Psychiatrie |
+
+CHSY-Secteur 1 |
+
+357 |
+
+CENTRE HOSPITALIER PIERRE LOO-LA CHARITE SUR LOIRE |
+
+|
+
+Psychiatrie |
+
+CHSPL-5 |
+
+358 |
+
+CHS DE SEVREY |
+
+710781329 |
+
+Psychiatrie |
+
+|
+
+359 |
+
+CHU DIJON BOURGOGNE |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHU DIJON n° 3 |
+
+360 |
+
+CHI DE HAUTE COMTE |
+
+|
+
+Radiologie et imagerie médicale |
+
+RADIOLOGIE |
+
+361 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHAN-35 |
+
+362 |
+
+CH AUXERRE |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHA-radio-1 |
+
+363 |
+
+HNFC |
+
+|
+
+Radiologie et imagerie médicale |
+
+HNFC-21 |
+
+364 |
+
+CH JURA SUD |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHJS-07 |
+
+365 |
+
+CRF PASORI |
+
+|
+
+Rhumatologie |
+
+CRF PASORI-2 |
+
+366 |
+
+HNFC |
+
+|
+
+Rhumatologie |
+
+HNFC-23 |
+
+367 |
+
+CENTRE HOSPITALIER DE L'AGGLOMERATION DE NEVERS |
+
+|
+
+Urologie |
+
+CHAN-11 |
+
+368 |
+
+HNFC |
+
+|
+
+Urologie |
+
+HNFC-22 |
 
 Agence Régionale de Santé : |
 
@@ -3030,13 +3712,23 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-300 |
+369 |
+
+CH Guingamp |
+
+220000079 |
+
+Anesthésie-réanimation (co-DES) |
+
+HG-04 |
+
+370 |
 
 CH Lannion |
 
@@ -3044,49 +3736,39 @@ CH Lannion |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste |
+CHLT-05 |
 
-301 |
+371 |
 
-CH Guingamp |
-
-220000343 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin Anesthésiste |
-
-302 |
-
-CH Saint Brieuc |
-
-220000012 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-303 |
-
-CHU Brest |
-
-290000017 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-304 |
-
-CH Morlaix |
+CH Pays de Morlaix |
 
 290021542 |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste |
+CHPM-01 |
 
-305 |
+372 |
+
+CH Saint Brieuc |
+
+220000020 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHStB-04 |
+
+373 |
+
+CHU Brest-site Cavale Blanche |
+
+290000017 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHRUB-02 |
+
+374 |
 
 CHU Rennes |
 
@@ -3094,9 +3776,19 @@ CHU Rennes |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste |
+CHUR-03 |
 
-306 |
+375 |
+
+CH Lannion |
+
+220000103 |
+
+Biologie médicale |
+
+CHL-09 |
+
+376 |
 
 CH Lannion |
 
@@ -3104,19 +3796,39 @@ CH Lannion |
 
 Chirurgie viscérale et digestive |
 
-Chirurgien digestif |
+CHL-03 |
 
-307 |
+377 |
 
-CHCB |
+CH Centre Bretagne |
 
 560014748 |
 
 Diabétologie-Endocrinologie |
 
-Médecin diabétologue-endocrinologue |
+CHCB-03 |
 
-308 |
+378 |
+
+CH Fougères |
+
+35000030 |
+
+Gériatrie |
+
+CHF-04 |
+
+379 |
+
+CH Guingamp |
+
+220000079 |
+
+Gériatrie |
+
+HG-06 |
+
+380 |
 
 CH Lannion |
 
@@ -3124,49 +3836,39 @@ CH Lannion |
 
 Gériatrie |
 
-Médecin gériatre |
+CHLT-06 |
 
-309 |
+381 |
 
-CH Morlaix |
+CH Paimpol |
+
+220000152 |
+
+Gériatrie |
+
+CHP-05 |
+
+382 |
+
+CH Pays de Morlaix |
 
 290021542 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHPM-07 |
 
-310 |
+383 |
 
-CH Fougères |
+CH Pays de Morlaix |
 
-350000154 |
-
-Gériatrie |
-
-Médecin gériatre (SSR) |
-
-311 |
-
-CH Paimpol |
-
-220000541 |
+290021542 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHPM-08 |
 
-312 |
-
-CH Guingamp |
-
-220000343 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-313 |
+384 |
 
 CH Penthièvre et Poudouvre |
 
@@ -3174,19 +3876,19 @@ CH Penthièvre et Poudouvre |
 
 Gériatrie |
 
-Médecin gériatre |
+CH2P-01 |
 
-314 |
+385 |
 
 CH Saint Brieuc |
 
-220000012 |
+220000020 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHStB-01 |
 
-315 |
+386 |
 
 CHU Brest-site Carhaix |
 
@@ -3194,89 +3896,129 @@ CHU Brest-site Carhaix |
 
 Gériatrie |
 
-Médecin gériatre |
+CHRUB-01 |
 
-316 |
+387 |
 
-CH Morlaix |
+CH Tréguier |
 
-290021542 |
+220005045 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHT-01 |
 
-317 |
+388 |
+
+CH Tréguier |
+
+220005045 |
+
+Gériatrie |
+
+CHT-02 |
+
+389 |
 
 CH Fougères |
 
-350000154 |
+350000030 |
 
 Gynécologie-obstétrique |
 
-Médecin gynécologue obstétricien |
+CHF-02 |
 
-318 |
+390 |
 
 CH Guingamp |
 
-220000343 |
+220000079 |
 
 Gynécologie-obstétrique |
 
-Médecin Gynécologue-Obstétricien |
+HG-05 |
 
-319 |
+391 |
+
+Centre hospitalier intercommunal de Cornouaille |
+
+290020700 |
+
+Gynécologie-obstétrique |
+
+CHIC-01 |
+
+392 |
 
 CH Saint Brieuc |
 
-220000012 |
+220000020 |
 
-Hématologie |
+Hématologie Oncologie |
 
-Médecin hemato-oncologue |
+CHStB-10 |
 
-320 |
+393 |
 
-CH Saint Brieuc |
-
-220000012 |
-
-Hépato-gastro-entérologie |
-
-Médecin hepato-gastro-entérologue |
-
-321 |
-
-CH Morlaix |
+CH Pays de Morlaix |
 
 290021542 |
 
 Hépato-gastro-entérologie |
 
-Médecin hepato-gastro-entérologue |
+CHPM-09 |
 
-322 |
+394 |
 
-CH Morlaix |
+CH Saint Brieuc |
 
-290021542 |
+220000020 |
+
+Hépato-gastro-entérologie |
+
+CHStB-09 |
+
+395 |
+
+CH Lannion |
+
+220000103 |
+
+Hépato-gastro-entérologie |
+
+CHL-10 |
+
+396 |
+
+CH Fougères |
+
+35000030 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+CHF-07 |
 
-323 |
+397 |
 
 CH Paimpol |
 
-220000541 |
+220000152 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+CHP-07 |
 
-324 |
+398 |
+
+CH Pays de Morlaix |
+
+290021542 |
+
+Médecine cardiovasculaire (co-DES) |
+
+CHPM-02 |
+
+399 |
 
 CH Vitré |
 
@@ -3284,29 +4026,29 @@ CH Vitré |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+CHSV M22 |
 
-325 |
-
-CH Fougères |
-
-350000154 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-326 |
+400 |
 
 CH Fougères |
 
-350000154 |
+35000030 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHF-01A |
 
-327 |
+401 |
+
+CH Guingamp |
+
+220000079 |
+
+Médecine d'urgence |
+
+HG-02 |
+
+402 |
 
 CH Lannion |
 
@@ -3314,9 +4056,29 @@ CH Lannion |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHLT-02 |
 
-328 |
+403 |
+
+CH Paimpol |
+
+220000152 |
+
+Médecine d'urgence |
+
+CHP-06 |
+
+404 |
+
+CH Saint Brieuc |
+
+220000020 |
+
+Médecine d'urgence |
+
+CHStB-11 |
+
+405 |
 
 CH Vitré |
 
@@ -3324,179 +4086,129 @@ CH Vitré |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHSV M11 |
 
-329 |
+406 |
 
-CH Paimpol |
+CH Centre Bretagne |
 
-220000541 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-330 |
-
-CH Saint Brieuc |
-
-220000012 |
+560014748 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+|
 
-331 |
+407 |
 
-CH Guingamp |
-
-220000343 |
-
-Médecine d'urgence |
-
-Médecin Urgentiste |
-
-332 |
-
-Fondation Bon Sauveur-Bégard |
-
-22000210 |
-
-Médecine générale |
-
-Médecin généraliste (psychogériatrie) |
-
-333 |
-
-CH Saint Brieuc |
-
-220000012 |
-
-Médecine générale |
-
-Médecin généraliste-Hemato-onco |
-
-334 |
-
-CH Guingamp |
-
-220000343 |
-
-Médecine générale |
-
-Médecin Généraliste |
-
-335 |
-
-CH Morlaix |
-
-290021542 |
-
-Médecine générale |
-
-Médecin généraliste psychiatrie |
-
-336 |
-
-CH Paimpol |
-
-220000541 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-337 |
-
-CH Saint Brieuc |
-
-220000012 |
-
-Médecine générale |
-
-Médecin généraliste-HGE |
-
-338 |
-
-CHCB |
+CH Centre Bretagne |
 
 560014748 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHCB-01 |
 
-339 |
-
-Fondation Bon Sauveur-Bégard |
-
-22000210 |
-
-Médecine générale |
-
-Médecin généraliste (soins sans consentement) |
-
-340 |
-
-CH Saint Brieuc |
-
-220000012 |
-
-Médecine générale |
-
-Médecin généraliste-pneumologie |
-
-341 |
-
-CH Paimpol |
-
-220000541 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-342 |
-
-CH Vitré |
-
-350000055 |
-
-Médecine générale |
-
-Médecin généraliste au pôle de gérontologie |
-
-343 |
+408 |
 
 CH Fougères |
 
-350000154 |
+35000030 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHF-03 |
 
-344 |
+409 |
 
-CH Vitré |
+CH Guingamp |
 
-350000055 |
+220000079 |
 
 Médecine générale |
 
-Médecin généraliste (médecine polyvalente et gériatrique) |
+HG-03 |
 
-345 |
+410 |
 
-CH Morlaix |
+CH Paimpol |
+
+220000152 |
+
+Médecine générale |
+
+CHP-04A |
+
+411 |
+
+CH Paimpol |
+
+220000152 |
+
+Médecine générale |
+
+CHP-04B |
+
+412 |
+
+CH Pays de Morlaix |
 
 290021542 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHPM-06 |
 
-346 |
+413 |
+
+CH Pays de Morlaix |
+
+290021542 |
+
+Médecine générale |
+
+CHPM-04 |
+
+414 |
+
+CH Saint Brieuc |
+
+220000020 |
+
+Médecine générale |
+
+CHStB-06 |
+
+415 |
+
+CH Saint Brieuc |
+
+220000020 |
+
+Médecine générale |
+
+CHStB-07 |
+
+416 |
+
+CH Vitré |
+
+350000055 |
+
+Médecine générale |
+
+CHSV G2 |
+
+417 |
+
+CH Vitré |
+
+350000055 |
+
+Médecine générale |
+
+CHSV M38 |
+
+418 |
 
 Fondation Bon Sauveur-Bégard |
 
@@ -3504,19 +4216,49 @@ Fondation Bon Sauveur-Bégard |
 
 Médecine générale |
 
-Médecin généraliste (addictologie) |
+FBSB-09 |
 
-347 |
+419 |
 
-CHU Rennes |
+Fondation Bon Sauveur-Bégard |
 
-350005179 |
+22000210 |
 
 Médecine générale |
 
-Médecin généraliste |
+FBSB-07 |
 
-348 |
+420 |
+
+Fondation Bon Sauveur-Bégard |
+
+22000210 |
+
+Médecine générale |
+
+FBSB-04 |
+
+421 |
+
+CH Lannion |
+
+220000103 |
+
+Médecine générale |
+
+CHL-08 |
+
+422 |
+
+CHU Rennes-site Pontchaillou |
+
+350005179 |
+
+Médecine d'urgence |
+
+CHUR-02 |
+
+423 |
 
 CH Lannion |
 
@@ -3524,39 +4266,29 @@ CH Lannion |
 
 Médecine intensive-réanimation (co-DES) |
 
-Médecin réanimateur (USC) |
+CHLT-03 |
 
-349 |
+424 |
 
 CH Saint Brieuc |
 
-220000012 |
+220000020 |
 
 Médecine interne et immunologie clinique (co-DES) |
 
-Médecin généraliste |
+CHStB-02 |
 
-350 |
+425 |
 
 CH Guingamp |
 
-220000343 |
+220000079 |
 
 Médecine physique et de réadaptation |
 
-Médecin MPR |
+HG-01 |
 
-351 |
-
-CHCB |
-
-560014748 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-352 |
+426 |
 
 AUB Santé-Lorient |
 
@@ -3564,69 +4296,89 @@ AUB Santé-Lorient |
 
 Néphrologie |
 
-Médecin néphrologue |
+AUBL-01 |
 
-353 |
+427 |
 
-AUB Santé-Rennes |
+AUB Santé-Pontivy |
 
 35003293 |
 
 Néphrologie |
 
-Médecin néphrologue |
+AUBR-01 |
 
-354 |
-
-AUB Santé-Saint Brieuc |
-
-? |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-355 |
+428 |
 
 AUB Santé-Quimper |
 
-290033224. |
+290033224 |
 
 Néphrologie |
 
-Médecin néphrologue |
+AUBQ-01 |
 
-356 |
+429 |
+
+AUB Santé-Saint Brieuc |
+
+35000626 |
+
+Néphrologie |
+
+AUBStB-01 |
+
+430 |
+
+CH Centre Bretagne |
+
+560014748 |
+
+Néphrologie |
+
+CHCB-02 |
+
+431 |
+
+ECHO DIALYSE |
+
+440002590 |
+
+Néphrologie |
+
+|
+
+432 |
 
 CH Saint Brieuc |
 
-220000012 |
+220000020 |
 
 Ophtalmologie |
 
-Médecin ophtalmologue |
+CHStB-12 |
 
-357 |
-
-CH Saint Brieuc |
-
-220000012 |
-
-ORL-chirurgie cervico-faciale |
-
-Médecin ORL |
-
-358 |
+433 |
 
 CH Saint Brieuc |
 
-220000012 |
+220000020 |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHStB-13 |
 
-359 |
+434 |
+
+CH Saint-Malo |
+
+350000022 |
+
+Pédiatrie |
+
+|
+
+435 |
 
 CH Fougères |
 
@@ -3634,19 +4386,9 @@ CH Fougères |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHF-06 |
 
-360 |
-
-CH Saint Brieuc |
-
-220000012 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-361 |
+436 |
 
 CH Lannion |
 
@@ -3654,79 +4396,29 @@ CH Lannion |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHLT-01 |
 
-362 |
+437 |
 
-Fondation St Jean de Dieu-St Brieuc |
+CH Saint Brieuc |
 
-220018402 |
+220000020 |
 
-Psychiatrie |
+Pneumologie |
 
-Médecin psychiatre (pédopsychiatrie) |
+CHStB-03 |
 
-363 |
+438 |
 
-CH Morlaix |
+CH Centre Bretagne |
 
-290021542 |
+560014748 |
 
-Psychiatrie |
+Pneumologie |
 
-Médecin psychiatre (pédopsychiatrie) |
+|
 
-364 |
-
-Fondation Bon Sauveur-Bégard |
-
-22000210 |
-
-Psychiatrie |
-
-Médecin psychiatre (psychogériatrie) |
-
-365 |
-
-Fondation St Jean de Dieu-Dinan |
-
-220000616 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-366 |
-
-Fondation St Jean de Dieu-Dinan |
-
-220018576 |
-
-Psychiatrie |
-
-Médecin psychiatre (pédopsychiatrie) |
-
-367 |
-
-Fondation St Jean de Dieu-St Brieuc |
-
-220018402 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-368 |
-
-Fondation Bon Sauveur-Bégard |
-
-22000210 |
-
-Psychiatrie |
-
-Médecin psychiatre (addictologie) |
-
-369 |
+439 |
 
 CH Guillaume Régnier |
 
@@ -3734,9 +4426,29 @@ CH Guillaume Régnier |
 
 Psychiatrie |
 
-Médecin psychiatre (pédopsychiatrie) |
+CHGR-01 |
 
-370 |
+440 |
+
+CH Pays de Morlaix |
+
+290021542 |
+
+Psychiatrie |
+
+CHPM-10 |
+
+441 |
+
+CH Pays de Morlaix |
+
+290021542 |
+
+Psychiatrie |
+
+CHPM-03 |
+
+442 |
 
 Fondation Bon Sauveur-Bégard |
 
@@ -3744,9 +4456,9 @@ Fondation Bon Sauveur-Bégard |
 
 Psychiatrie |
 
-Médecin psychiatre (Ker Avel) |
+FBSB-08 |
 
-371 |
+443 |
 
 Fondation Bon Sauveur-Bégard |
 
@@ -3754,9 +4466,49 @@ Fondation Bon Sauveur-Bégard |
 
 Psychiatrie |
 
-Médecin psychiatre (CMP Lannion) |
+FBSB-06 |
 
-372 |
+444 |
+
+Fondation Bon Sauveur-Bégard |
+
+22000210 |
+
+Psychiatrie |
+
+FBSB-01 |
+
+445 |
+
+Fondation Bon Sauveur-Bégard |
+
+22000210 |
+
+Psychiatrie |
+
+FBSB-03 |
+
+446 |
+
+Fondation St Jean de Dieu-Dinan |
+
+220000616 |
+
+Psychiatrie |
+
+SFDD-01 |
+
+447 |
+
+Fondation St Jean de Dieu-Dinan |
+
+220018576 |
+
+Psychiatrie |
+
+SFDD-02 |
+
+448 |
 
 Fondation St Jean de Dieu-St Brieuc |
 
@@ -3764,19 +4516,59 @@ Fondation St Jean de Dieu-St Brieuc |
 
 Psychiatrie |
 
-Médecin psychiatre |
+SJDStB-01 |
 
-373 |
+449 |
 
-CH Morlaix |
+Fondation St Jean de Dieu-St Brieuc |
 
-290021542 |
+220018402 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+SJDStB-03 |
 
-374 |
+450 |
+
+Fondation St Jean de Dieu-St Brieuc |
+
+220018402 |
+
+Psychiatrie |
+
+SJDStB-02 |
+
+451 |
+
+EPSM Sud Bretagne Charcot |
+
+560002677 |
+
+Psychiatrie |
+
+EPSMC-01 |
+
+452 |
+
+EPSM Morbihan |
+
+560002032 |
+
+Psychiatrie |
+
+|
+
+453 |
+
+Association Hospitalière de Bretagne |
+
+220017974 |
+
+Psychiatrie (pédopsychiatrie) |
+
+|
+
+454 |
 
 CH Lannion |
 
@@ -3784,9 +4576,19 @@ CH Lannion |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHLT-04 |
 
-375 |
+455 |
+
+CH Paimpol |
+
+220000152 |
+
+Radiologie et imagerie médicale |
+
+CHP-03 |
+
+456 |
 
 CH Saint Malo |
 
@@ -3794,153 +4596,199 @@ CH Saint Malo |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHStM-01 |
 
-376 |
+457 |
 
-CH Paimpol |
+CH Saint Brieuc Teritoire GHT d'Armor |
 
-220000541 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-377 |
-
-CH Lannion |
-
-220000103 |
+220000020 |
 
 Rhumatologie |
 
-Médecin rhumatologue |
+|
+
+458 |
+
+CHIRC |
+
+350000048 |
+
+Médecine d'urgence |
+
+|
 
 Agence Régionale de Santé : |
 
-Centre-Val-de-Loire |
+Centre-Val de Loire |
 
 Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-378 |
+459 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésie |
+
+460 |
+
+Centre hospitalier régional et universitaire de Tours |
+
+370000481 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésie |
+
+461 |
+
+Centre hospitalier régional et universitaire de Tours |
+
+380000481 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésie |
+
+462 |
+
+Centre hospitalier régional et universitaire de Tours |
+
+400000481 |
+
+Anesthésie-réanimation (co-DES) |
+
+Tps partagé tours loches |
+
+463 |
+
+Centre hospitalier régional et universitaire de Tours |
+
+400000481 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésie |
+
+464 |
 
 Centre hospitalier de Chartres |
 
-26280004800015 |
+280000134 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Service de REANIMATION-Dr P KALFON |
+Réanimation |
 
-379 |
+465 |
+
+Centre hospitalier de Chartres |
+
+280000134 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésie |
+
+466 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Anesthésie-réanimation (co-DES) |
+
+|
+
+467 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Anesthésie-réanimation (co-DES) |
+
+|
+
+468 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Anesthésie-réanimation (co-DES) |
+
+|
+
+469 |
 
 Centre Hospitalier de l'Agglomération Montargoise |
 
 450000104 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste réanimateur |
+|
 
-380 |
+470 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Anesthésie-réanimation (co-DES) |
+
+anesthésiologie-réanimation |
+
+471 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Anesthésie-réanimation (co-DES) |
+
+anesthésiologie-réanimation |
+
+472 |
 
 Centre hospitalier régional d'Orléans |
 
 450000088 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste réanimateur |
+|
 
-381 |
-
-Centre hospitalier Jacques Cœur de Bourges |
-
-180000028 |
-
-Anesthésie-réanimation |
-
-Anesthésiologie |
-
-382 |
-
-Centre Hospitalier de Châteauroux-Le Blanc |
-
-360000053 |
-
-Anesthésie-réanimation |
-
-Anesthésiste |
-
-383 |
-
-Centre Hospitalier de Châteauroux-Le Blanc |
-
-360000053 |
-
-Anesthésie-réanimation |
-
-Anesthésiste |
-
-384 |
-
-Centre hospitalier de Chartres |
-
-26280004800015 |
-
-Anesthésie-réanimation |
-
-Service d'ANESTHESIE-REANIMATION-Dr P SINDA |
-
-385 |
+473 |
 
 Centre hospitalier de Dreux |
 
-280000084 |
-
-Anesthésie-réanimation |
-
-médecin anesthésiste réanimateur |
-
-386 |
-
-Centre hospitalier Jacques Cœur de Bourges |
-
-180000028 |
-
-Anesthésie-réanimation |
-
-médecin anesthésiste réanimateur |
-
-387 |
-
-Centre hospitalier de Dreux |
-
-280000084 |
+280000183 |
 
 Chirurgie orthopédique et traumatologique |
 
-Orthopédiste |
-
-388 |
+474 |
 
 Clinique de Montargis |
 
-450012968 |
+450001474 |
 
 Chirurgie orthopédique et traumatologique |
 
-Orthopédiste |
-
-389 |
+475 |
 
 Clinique Saint-François |
 
@@ -3948,19 +4796,29 @@ Clinique Saint-François |
 
 Chirurgie viscérale et digestive |
 
-Chirurgien |
+|
 
-390 |
+476 |
 
-Centre hospitalier régional d'Orléans |
+Centre hospitalier Jacques Cœur de Bourges |
 
-450000088 |
+180000028 |
 
-Gériatrie |
+Endocrinologie-diabète-nutrition |
 
-Gériatre |
+Diabétologie-médecine interne |
 
-391 |
+477 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Endocrinologie-diabète-nutrition |
+
+Diabétologie-médecine interne |
+
+478 |
 
 Centre hospitalier Jacques Cœur de Bourges |
 
@@ -3968,29 +4826,9 @@ Centre hospitalier Jacques Cœur de Bourges |
 
 Gériatrie |
 
-Service de médecine polyvalente et gériatrie |
+pole de gériatrie inter-établissements |
 
-392 |
-
-Centre hospitalier régional d'Orléans |
-
-450000088 |
-
-Gériatrie |
-
-|
-
-393 |
-
-Centre hospitalier régional d'Orléans |
-
-450000088 |
-
-Gériatrie |
-
-|
-
-394 |
+479 |
 
 Centre hospitalier Jacques Cœur de Bourges |
 
@@ -3998,109 +4836,309 @@ Centre hospitalier Jacques Cœur de Bourges |
 
 Gériatrie |
 
-Service de médecine polyvalente et gériatrie |
+pole de gériatrie inter-établissements |
 
-395 |
+480 |
 
 Centre hospitalier régional d'Orléans |
 
 450000088 |
 
-Gynécologie-obstétrique |
+Gériatrie |
 
 |
 
-396 |
+481 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Gériatrie |
+
+|
+
+482 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Gériatrie |
+
+|
+
+483 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Gériatrie |
+
+Gériatrie |
+
+484 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Gériatrie |
+
+Gériatrie |
+
+485 |
 
 Centre hospitalier de Dreux |
 
-280000084 |
+280000183 |
 
-Gynécologie-obstétrique |
+Gériatrie |
+
+Gériatrie |
+
+486 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Gériatrie |
+
+Gériatrie |
+
+487 |
+
+Centre hospitalier de la Chatre |
+
+360000061 |
+
+Gériatrie |
+
+Gériatrie |
+
+488 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Gériatrie |
+
+Gériatrie |
+
+489 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Gériatrie |
+
+Gériatrie |
+
+490 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Gériatrie |
+
+Gériatrie |
+
+491 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Gériatrie |
+
+Gériatrie |
+
+492 |
+
+Centre hospitalier de Vierzon |
+
+180000051 |
 
 Gynécologie obstétrique |
 
-397 |
+gynécologie obstétrique |
 
-Centre hospitalier régional d'Orléans |
+493 |
 
-450000088 |
+Centre hospitalier de Vierzon |
 
-Hépato-gastro-entérologie |
+180000051 |
 
-Gastroentérologue |
+Gynécologie obstétrique |
 
-398 |
+gynécologie obstétrique |
 
-Centre hospitalier de Dreux |
-
-280000084 |
-
-Hépato-gastro-entérologie |
-
-Gastroentérologue |
-
-399 |
-
-Centre hospitalier régional d'Orléans |
-
-450000088 |
-
-Hépato-gastro-entérologie |
-
-Gastroentérologue |
-
-400 |
-
-Centre Hospitalier de l'Agglomération Montargoise |
-
-450000104 |
-
-Hépato-gastro-entérologie |
-
-médecin gastroentérologue |
-
-401 |
-
-Centre hospitalier Jacques Cœur de Bourges |
-
-180000028 |
-
-Hépato-gastro-entérologie |
-
-Pôle de Médecine B/ Gastro-entérologie |
-
-402 |
-
-Centre Hospitalier de Châteauroux-Le Blanc |
-
-360000053 |
-
-Médecine cardiovasculaire |
-
-médecin cardiologue |
-
-403 |
-
-Centre Hospitalier de l'Agglomération Montargoise |
-
-450000104 |
-
-Médecine cardiovasculaire |
-
-médecin cardiologue |
-
-404 |
+494 |
 
 Centre hospitalier de Chartres |
 
-26280004800015 |
+280000134 |
+
+Gynécologie obstétrique |
+
+gynécologie obstétrique |
+
+495 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Gynécologie-obstétrique |
+
+|
+
+496 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Gynécologie-obstétrique |
+
+|
+
+497 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Hématologie |
+
+Hématologie clinique-oncologie médicale |
+
+498 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Hématologie |
+
+Hématologie |
+
+499 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Hépato-gastro-entérologie |
+
+|
+
+500 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Hépato-gastro-entérologie |
+
+|
+
+501 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Hépato-gastro-entérologie |
+
+gastroentérologie |
+
+502 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Hépato-gastro-entérologie |
+
+|
+
+503 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Hépato-gastro-entérologie |
+
+|
+
+504 |
+
+Centre Hospitalier de Blois |
+
+410000087 |
 
 Médecine cardiovasculaire |
 
-Service de CARDIOLOGIE-Dr F ALBERT |
+Cardiologie |
 
-405 |
+505 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Médecine cardiovasculaire |
+
+médecine cardiovasculaire |
+
+506 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Médecine cardiovasculaire |
+
+médecine cardiovasculaire |
+
+507 |
+
+Centre hospitalier de Chartres |
+
+280000134 |
+
+Médecine cardiovasculaire |
+
+Cardiologie |
+
+508 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Médecine cardiovasculaire |
+
+|
+
+509 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Médecine cardiovasculaire |
+
+|
+
+510 |
 
 Centre hospitalier Jacques Cœur de Bourges |
 
@@ -4108,9 +5146,9 @@ Centre hospitalier Jacques Cœur de Bourges |
 
 Médecine cardiovasculaire |
 
-Pôle de Médecine A/ Cardiologie |
+cardiologie |
 
-406 |
+511 |
 
 Centre Hospitalier de Châteauroux-Le Blanc |
 
@@ -4118,9 +5156,9 @@ Centre Hospitalier de Châteauroux-Le Blanc |
 
 Médecine d'urgence |
 
-Urgentiste |
+urgences |
 
-407 |
+512 |
 
 Centre hospitalier Jacques Cœur de Bourges |
 
@@ -4128,29 +5166,109 @@ Centre hospitalier Jacques Cœur de Bourges |
 
 Médecine d'urgence |
 
-Pôle des urgences/ SAU-SAMU-SMUR-UHTCD |
+SAU-SAMU-SMUR |
 
-408 |
+513 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine d'urgence |
+
+Urgences |
+
+514 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine d'urgence |
+
+Urgences |
+
+515 |
 
 Centre Hospitalier de l'Agglomération Montargoise |
 
 450000104 |
 
-médecine générale |
+Médecine d'urgence |
 
-médecin généraliste au sein d'un service d'urgences |
+urgences |
 
-409 |
+516 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Médecine d'urgence |
+
+SAU-SAMU-SMUR |
+
+517 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Médecine d'urgence |
+
+SAU-SAMU-SMUR |
+
+518 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Médecine d'urgence |
+
+SAU-SAMU-SMUR |
+
+519 |
+
+Centre hospitalier de Chartres |
+
+280000134 |
+
+Médecine d'urgence |
+
+accueil des urgences/ SMUR |
+
+520 |
 
 ASSAD-HAD Indre et Loire |
 
-370103673 |
+370001638 |
 
 Médecine générale |
 
-Médecin coordonnateur HAD |
+|
 
-410 |
+521 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Médecine générale |
+
+|
+
+522 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Médecine générale |
+
+|
+
+523 |
 
 Centre hospitalier Jacques Cœur de Bourges |
 
@@ -4158,9 +5276,19 @@ Centre hospitalier Jacques Cœur de Bourges |
 
 Médecine générale |
 
-service d'accueil des urgence-HTCD |
+SAU-SAMU-SMUR |
 
-411 |
+524 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Médecine générale |
+
+Unité post-urgences |
+
+525 |
 
 Centre hospitalier régional d'Orléans |
 
@@ -4168,19 +5296,109 @@ Centre hospitalier régional d'Orléans |
 
 Médecine générale |
 
-Praticien partagé avec les établissements en direction commune, affécté au serv ice des maladies infectieuses |
+|
 
-412 |
+526 |
 
-Centre hospitalier Jacques Cœur de Bourges |
+Centre hospitalier de Dreux |
 
-180000028 |
+280000183 |
 
 Médecine générale |
 
-Médecine polyvalente et gériatrie |
+médecine polyvalente, interne et infectieuse |
 
-413 |
+527 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine générale |
+
+médecine polyvalente, interne et infectieuse |
+
+528 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine générale |
+
+médecine polyvalente, interne et infectieuse |
+
+529 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine générale |
+
+médecine polyvalente, interne et infectieuse |
+
+530 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Médecine générale |
+
+|
+
+531 |
+
+Centre hospitalier de Loches |
+
+370000614 |
+
+Médecine générale |
+
+|
+
+532 |
+
+Centre hospitalier de Vierzon |
+
+180000051 |
+
+Médecine générale |
+
+|
+
+533 |
+
+Centre hospitalier de Vierzon |
+
+180000051 |
+
+Médecine générale |
+
+|
+
+534 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Médecine générale |
+
+MPPU |
+
+535 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Médecine générale |
+
+Maladie infectieuses/ CHP |
+
+536 |
 
 Centre hospitalier de Châteauroux-Le Blanc |
 
@@ -4190,37 +5408,7 @@ Médecine générale |
 
 |
 
-414 |
-
-Centre Hospitalier de l'Agglomération Montargoise |
-
-450000104 |
-
-Médecine générale |
-
-Urgences pédiatriques |
-
-415 |
-
-Centre hospitalier de Dreux |
-
-280000084 |
-
-Médecine intensive-réanimation |
-
-réanimateur |
-
-416 |
-
-Centre Hospitalier de l'Agglomération Montargoise |
-
-450000104 |
-
-Médecine intensive-réanimation |
-
-réanimateur |
-
-417 |
+537 |
 
 Centre Hospitalier de Châteauroux-Le Blanc |
 
@@ -4228,59 +5416,99 @@ Centre Hospitalier de Châteauroux-Le Blanc |
 
 Médecine intensive-réanimation |
 
-réanimateur |
+|
 
-418 |
+538 |
 
 Centre hospitalier de Dreux |
 
-280000084 |
+280000183 |
+
+Médecine intensive-réanimation |
+
+|
+
+539 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Médecine intensive-réanimation |
+
+|
+
+540 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine interne et immunologie clinique |
+
+|
+
+541 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Médecine interne et immunologie clinique |
 
 Médecine interne |
 
-Médecin interniste |
-
-419 |
+542 |
 
 Centre Hospitalier de Châteauroux-Le Blanc |
 
 360000053 |
 
-Médecine interne et immunologie clinique (co-DES) |
+Médecine interne et immunologie clinique |
 
-Médecin interniste |
+|
 
-420 |
+543 |
 
 Centre hospitalier de Dreux |
 
-280000084 |
+280000183 |
 
 Médecine physique et de réadaptation |
 
-Médecin spécialiste en MPR |
+|
 
-421 |
+544 |
 
-AIR BP |
+Centre hospitalier de Chartres |
 
-280000852 |
+280000134 |
 
 Néphrologie |
 
-néphrologue |
+Néphrologie hémodialyse |
 
-422 |
+545 |
 
-Centre hospitalier de Dreux |
+Centre hospitalier Jacques Cœur de Bourges |
 
-280000084 |
+180000028 |
 
-Neurologie |
+Néphrologie |
 
-neurologue |
+Hémodialyse-néphrologie |
 
-423 |
+546 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Néphrologie |
+
+néphrologie |
+
+547 |
 
 Centre Hospitalier de Blois |
 
@@ -4288,19 +5516,29 @@ Centre Hospitalier de Blois |
 
 Neurologie |
 
-neurologue |
+|
 
-424 |
+548 |
 
-Centre hospitalier de Chartres |
+Centre hospitalier régional et universitaire de Tours |
 
-26280004800015 |
+390000481 |
 
 Neurologie |
 
-Service de NEUROLOGIE-Dr V BOHOTIN |
+neurologie |
 
-425 |
+549 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Neurologie |
+
+|
+
+550 |
 
 Centre hospitalier de Châteauroux-Le Blanc |
 
@@ -4308,49 +5546,39 @@ Centre hospitalier de Châteauroux-Le Blanc |
 
 Oncologie |
 
-oncologue |
+|
 
-426 |
+551 |
 
 Centre hospitalier Jacques Cœur de Bourges |
 
 180000028 |
 
-ORL-chirurgie cervico-faciale |
+Oto-rhino-laryngologie |
 
-Pôle de Chirurgie/ ORL |
+ORL |
 
-427 |
+552 |
+
+Centre Hospitalier de Blois |
+
+410000087 |
+
+Oto-rhino-laryngologie |
+
+ORL |
+
+553 |
 
 Centre hospitalier de Chartres |
 
-26280004800015 |
+280000134 |
 
 Pédiatrie |
 
-Service de PEDIATRIE-Dr R KOM |
-
-428 |
-
-Centre hospitalier Jacques Cœur de Bourges |
-
-180000028 |
-
 Pédiatrie |
 
-Pôle Femme-Enfant/ Pédiatrie |
-
-429 |
-
-Centre Hospitalier de l'Agglomération Montargoise |
-
-450000104 |
-
-pédiatrie |
-
-médecin pédiatre |
-
-430 |
+554 |
 
 Centre Hospitalier de Châteauroux-Le Blanc |
 
@@ -4358,59 +5586,69 @@ Centre Hospitalier de Châteauroux-Le Blanc |
 
 Pédiatrie |
 
-pédiatre |
+|
 
-431 |
+555 |
+
+Centre Hospitalier de l'Agglomération Montargoise |
+
+450000104 |
+
+Pédiatrie |
+
+|
+
+556 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Pédiatrie |
+
+pédiatrie-néonatalogie |
+
+557 |
+
+Centre Hospitalier de Blois |
+
+410000087 |
+
+Pédiatrie |
+
+Pédiatrie |
+
+558 |
 
 Centre hospitalier de Chartres |
 
-26280004800015 |
+280000134 |
 
 Pneumologie |
 
-Service de PNEUMOLOGIE-Dr H RABUT |
+Pneumologie |
 
-432 |
+559 |
 
-EPSM Georges Daumézon |
+Centre hospitalier de Dreux |
 
-45 000 093 0 |
+280000183 |
 
-Psychiatrie |
+Pneumologie |
 
-Médecin psychiatre en unité d'hospitalisation de crise |
+Pneumologie |
 
-433 |
-
-Centre hospitalier Henri Ey |
-
-262 800 014 000 25 |
-
-Psychiatrie |
-
-UTHR CPB |
-
-434 |
+560 |
 
 Centre hospitalier de Chartres |
 
-26280004800015 |
+280000134 |
 
 Psychiatrie |
 
-Pôle PSYCHIATRIE-HANDICAP-Dr A NASRY |
+Psychiatrie infantile |
 
-435 |
-
-Centre hospitalier George Sand de Bourges |
-
-1800001158 |
-
-Psychiatrie |
-
-Unité Balzac-Prise en charge des jeunes adultes |
-
-436 |
+561 |
 
 Centre Hospitalier de Châteauroux-Le Blanc |
 
@@ -4418,39 +5656,9 @@ Centre Hospitalier de Châteauroux-Le Blanc |
 
 Psychiatrie |
 
-Psychiatre |
+|
 
-437 |
-
-EPSM Georges Daumézon |
-
-45 000 093 0 |
-
-Psychiatrie |
-
-Médecin psychiatre ou pédopsychiatre en unité d'hospitalisation pour adolescent |
-
-438 |
-
-Centre hospitalier Henri Ey |
-
-262 800 014 000 25 |
-
-Psychiatrie |
-
-UHP CPC |
-
-439 |
-
-Centre hospitalier George Sand de Bourges |
-
-1800001158 |
-
-Psychiatrie |
-
-CMP Bourges |
-
-440 |
+562 |
 
 Centre Hospitalier de l'Agglomération Montargoise |
 
@@ -4458,59 +5666,99 @@ Centre Hospitalier de l'Agglomération Montargoise |
 
 Psychiatrie |
 
-Médecin psychiatre |
+|
 
-441 |
+563 |
 
-Centre hospitalier Henri Ey |
+Centre hospitalier George Sand de Bourges |
 
-262 800 014 000 25 |
+180001158 |
 
 Psychiatrie |
 
-UHP CPB |
+|
 
-442 |
+564 |
 
-Centre Hospitalier de Châteauroux-Le Blanc |
+Centre hospitalier George Sand de Bourges |
 
-360000053 |
+180001158 |
 
-Radiologie et imagerie médicale |
+Psychiatrie |
 
-Radiologue |
+|
 
-443 |
+565 |
 
-Centre hospitalier régional d'Orléans |
+Centre hospitalier Henri Ey |
 
-450000088 |
+280000142 |
 
-Radiologie et imagerie médicale |
+Psychiatrie |
 
-Radiologue |
+|
 
-444 |
+566 |
 
-Centre hospitalier régional d'Orléans |
+Centre hospitalier Henri Ey |
 
-450000088 |
+280000142 |
 
-Radiologie et imagerie médicale |
+Psychiatrie |
 
-Radiologue |
+|
 
-445 |
+567 |
 
-Centre hospitalier Jacques Cœur de Bourges |
+Centre hospitalier Henri Ey |
 
-180000028 |
+280000142 |
 
-Radiologie et imagerie médicale |
+Psychiatrie |
 
-Pôle Médico-technique/ Imagerie médicale |
+|
 
-446 |
+568 |
+
+EPSM Georges Daumézon |
+
+450002423 |
+
+Psychiatrie |
+
+|
+
+569 |
+
+EPSM Georges Daumézon |
+
+450002423 |
+
+Psychiatrie |
+
+|
+
+570 |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Psychiatrie |
+
+Psychiatrie |
+
+571 |
+
+EPSM Georges Daumézon |
+
+450002423 |
+
+Psychiatrie |
+
+psychiatrie |
+
+572 |
 
 Centre Hospitalier de Blois |
 
@@ -4518,17 +5766,141 @@ Centre Hospitalier de Blois |
 
 Radiologie et imagerie médicale |
 
-Radiologue |
+|
 
-447 |
+573 |
+
+Centre Hospitalier de Châteauroux-Le Blanc |
+
+360000053 |
+
+Radiologie et imagerie médicale |
+
+|
+
+574 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Radiologie et imagerie médicale |
+
+imagerie |
+
+575 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Radiologie et imagerie médicale |
+
+|
+
+576 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Radiologie et imagerie médicale |
+
+|
+
+577 |
+
+Centre hospitalier régional d'Orléans |
+
+450000088 |
+
+Radiologie et imagerie médicale |
+
+Radiologie et imagerie médicale |
+
+578 |
 
 Centre hospitalier de Chartres |
 
-26280004800015 |
+280000134 |
 
 Rhumatologie |
 
-Service de RHUMATOLOGIE-Dr V ROYANT |
+Rhumatologie |
+
+579 |
+
+Centre hospitalier Jacques Cœur de Bourges |
+
+180000028 |
+
+Rhumatologie |
+
+Rhumatologie |
+
+Agence Régionale de Santé : |
+
+Corse |
+
+Poste n° |
+
+Nom établissement |
+
+Code FINESS (EJ) |
+
+Spécialité |
+
+Libellé poste |
+
+580 |
+
+CH Ajaccio La Miséricorde |
+
+26200006000018 |
+
+Médecine d'urgence |
+
+service des urgences |
+
+581 |
+
+CH Ajaccio La Miséricorde |
+
+26200006000018 |
+
+Médecine d'urgence |
+
+service des urgences |
+
+582 |
+
+CH Ajaccio La Miséricorde |
+
+26200006000018 |
+
+Pneumologie |
+
+service de pneumologie |
+
+583 |
+
+CH Ajaccio La Miséricorde |
+
+26200006000018 |
+
+Pneumologie |
+
+service de pneumologie |
+
+584 |
+
+CH Ajaccio La Miséricorde |
+
+26200006000018 |
+
+Radiologie et imagerie médicale |
+
+service de radiologie |
 
 Agence Régionale de Santé : |
 
@@ -4538,1937 +5910,2775 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
-
-448 |
-
-HOPITAL ROBERT DEBRE CHU REIMS |
-
-510002447 |
-
-Anatomie et cytologie pathologique |
-
-|
-
-449 |
-
-CH INTERCOMMUNAL NORD ARDENNES |
-
-80001779 |
-
-Anesthésie-réanimation |
-
-Praticien en Service d'anesthésie |
-
-450 |
-
-CH INTERCOMMUNAL NORD ARDENNES |
-
-80001779 |
-
-Anesthésie-réanimation |
-
-|
-
-451 |
-
-CENTRE HOSPITALIER DE SEDAN |
-
-80000110 |
-
-Anesthésie-réanimation |
-
-|
-
-452 |
-
-CENTRE HOSPITALIER AUBAN-MOET D'EPERNAY |
-
-510000235 |
-
-Anesthésie-réanimation |
-
-|
-
-453 |
-
-HOPITAL ROBERT DEBRE CHU REIMS |
-
-510002447 |
-
-Anesthésie-réanimation |
-
-|
-
-454 |
-
-HOPITAL ROBERT DEBRE CHU REIMS |
-
-510002447 |
-
-Anesthésie-réanimation |
-
-|
-
-455 |
-
-CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
-
-520000068 |
-
-Anesthésie-réanimation |
-
-|
-
-456 |
-
-GCS POLE SANTE DU SUD HAUT-MARNAIS |
-
-520004706 |
-
-Anesthésie-réanimation |
-
-Praticien en Service d'Anesthésie/ USC |
-
-457 |
-
-CENTRE HOSPITALIER UNIVERSITAIRE NANCY |
-
-540001138 |
-
-Anesthésie-réanimation |
-
-|
-
-458 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Anesthésie-réanimation |
-
-Praticien en Service d'anesthésie |
-
-459 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Anesthésie-réanimation |
-
-Praticien en Service d'anesthésie |
-
-460 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Anesthésie-réanimation |
-
-Service d'Anesthésiologie et Réanimation Chirurgicale |
-
-461 |
-
-CENTRE HOSPITALIER UNIVERSITAIRE NANCY |
-
-540001138 |
-
-Anesthésie-réanimation |
-
-|
-
-462 |
-
-CENTRE HOSPITALIER UNIVERSITAIRE NANCY |
-
-540001138 |
-
-Anesthésie-réanimation |
-
-|
-
-463 |
-
-CH DE BRIEY-HOPITAL MAILLOT |
-
-540001070 |
-
-Anesthésie-réanimation |
-
-|
-
-464 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Anesthésie-réanimation |
-
-|
-
-465 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Anesthésie-réanimation |
-
-|
-
-466 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
-
-570000059 |
-
-Anesthésie-réanimation |
-
-|
-
-467 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Anesthésie-réanimation |
-
-|
-
-468 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Anesthésie-réanimation |
-
-|
-
-469 |
-
-CENTRE HOSPITALIER DE HAGUENAU |
-
-670000157 |
-
-Anesthésie-réanimation |
-
-|
-
-470 |
-
-LES HOPITAUX UNIVERSITAIRES DE STRASBOURG |
-
-670000025 |
-
-Anesthésie-réanimation |
-
-|
-
-471 |
-
-HOPITAUX CIVILS DE COLMAR |
-
-680000684 |
-
-Anesthésie-réanimation |
-
-|
-
-472 |
-
-HOPITAUX CIVILS DE COLMAR |
-
-680000684 |
-
-Anesthésie-réanimation |
-
-|
-
-473 |
-
-CENTRE HOSPITALIER DE SAINT-DIE |
-
-880000047 |
-
-Anesthésie-réanimation |
-
-|
-
-474 |
-
-CHI E. DURKHEIM EPINAL-GOLBEY |
-
-880000021 |
-
-Anesthésie-réanimation |
-
-|
-
-475 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Biologie médicale |
-
-|
-
-476 |
-
-CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
-
-520000068 |
-
-Biologie médicale |
-
-|
-
-477 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Biologie médicale |
-
-|
-
-478 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Chirurgie orthopédique et traumatologique |
-
-|
-
-479 |
-
-CENTRE HOSPITALIER STE CATHERINE SAVERNE |
-
-670000165 |
-
-Chirurgie orthopédique et traumatologique |
-
-|
-
-480 |
-
-CH SAINT-NICOLAS DE SARREBOURG |
-
-570000117 |
-
-Chirurgie orthopédique et traumatologique |
-
-|
-
-481 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Chirurgie orthopédique et traumatologique |
-
-|
-
-482 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Chirurgie thoracique et cardiovasculaire |
-
-Chirurgien en service de chirurgie cardiaque |
-
-483 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Chirurgie thoracique et cardiovasculaire |
-
-|
-
-484 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Chirurgie vasculaire |
-
-|
-
-485 |
-
-CHI E. DURKHEIM EPINAL-GOLBEY |
-
-880000021 |
-
-Chirurgie viscérale et digestive |
-
-|
-
-486 |
-
-CH SAINT-NICOLAS DE SARREBOURG |
-
-570000117 |
-
-Chirurgie viscérale et digestive |
-
-|
-
-487 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Chirurgie viscérale et digestive |
-
-|
-
-488 |
-
-GCS POLE SANTE DU SUD HAUT-MARNAIS |
-
-520004706 |
-
-Chirurgie viscérale et digestive |
-
-|
-
-489 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Chirurgie viscérale et digestive |
-
-|
-
-490 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Endocrinologie-diabétologie-nutrition |
-
-|
-
-491 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Endocrinologie-diabétologie-nutrition |
-
-|
-
-492 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Endocrinologie-diabétologie-nutrition |
-
-|
-
-493 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Endocrinologie-diabétologie-nutrition |
-
-|
-
-494 |
-
-CENTRE HOSPITALIER DE BAR-LE-DUC |
-
-550000434 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Praticien en service de diabétologie |
-
-495 |
-
-CENTRE HOSPITALIER DE SAINT-DIE |
-
-880000047 |
-
-Endocrinologie-diabétologie-nutrition |
-
-|
-
-496 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Gériatrie |
-
-Gériatre (EHPAD) |
-
-497 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Gériatrie |
-
-Gériatre (SSR) |
-
-498 |
-
-HOPITAL ROBERT DEBRE CHU REIMS |
-
-510002447 |
-
-Gériatrie |
-
-Gériatrie Aigue |
-
-499 |
-
-HOPITAL ROBERT DEBRE CHU REIMS |
-
-510002447 |
-
-Gériatrie |
-
-Gériatrie Aigue |
-
-500 |
-
-CENTRE HOSPITALIER AUBAN-MOET D'EPERNAY |
-
-510000235 |
-
-Gériatrie |
-
-médecin gériatre |
-
-501 |
-
-MAISON HOSPITALIERE DE BACCARAT |
-
-540000072 |
-
-Gériatrie |
-
-médecin gériatre |
-
-502 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Gériatrie |
-
-médecin gériatre |
-
-503 |
-
-CHI E. DURKHEIM EPINAL-GOLBEY |
-
-880000021 |
-
-Gériatrie |
-
-médecin gériatre |
-
-504 |
-
-LES MAISONS HOSPITALIERES SITE NANCY |
-
-540000395 |
-
-Gériatrie |
-
-médecin gériatre |
-
-505 |
-
-CH DE BRIEY-HOPITAL MAILLOT |
-
-540001070 |
-
-Gériatrie |
-
-Gériatre ou médecin généraliste |
-
-506 |
-
-CENTRE HOSPITALIER SAINT CHARLES TOUL |
-
-540000023 |
-
-Gériatrie |
-
-Praticien au sein du service de gériatrie |
-
-507 |
-
-CH INTERCOMMUNAL DE LA LAUTER WISSEMBOURG |
-
-670000272 |
-
-Gériatrie |
-
-Praticien Médecine/ Gériatrie |
-
-508 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Gériatrie |
-
-médecin gériatre |
-
-509 |
-
-CENTRE HOSPITALIER VITRY LE FRANCOIS |
-
-510000250 |
-
-Gériatrie |
-
-Médecin Gériatre |
-
-510 |
-
-CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
-
-520000068 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-511 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-512 |
-
-CENTRE HOSPITALIER DE BAR-LE-DUC |
-
-550000434 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-513 |
-
-CENTRE DEPARTEMENTAL DE REPOS ET DE SOINS COLMAR |
-
-680020427 |
-
-Gériatrie |
-
-GERIATRE en SERVICE SSR et USLD |
-
-514 |
-
-CENTRE HOSPITALIER DE ROUFFACH |
-
-680000874 |
-
-Gériatrie |
-
-Gériatre au pôle 2/3 |
-
-515 |
-
-HOPITAL LOCAL VAL DU MADON MIRECOURT |
-
-880000138 |
-
-Gériatrie |
-
-médecine générale |
-
-516 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL DE L'OUEST VOSGIEN |
-
-880000054 |
-
-Gériatrie |
-
-Praticien au service de Médecine B |
-
-517 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL DE L'OUEST VOSGIEN |
-
-880000054 |
-
-Gériatrie |
-
-Médecin gériatre au SSR Polyvalent |
-
-518 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Gériatrie |
-
-Gériatre en service de gériatrie |
-
-519 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Gériatrie |
-
-Gériatre en service de gériatrie |
-
-520 |
-
-GROUPEMENT HOSPITALIER AUBE MARNE |
-
-100000199 |
-
-Gériatrie |
-
-Médecin au sein du service de gériatrie |
-
-521 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Gynécologie Obstétrique |
-
-Gynécologue-Obstétricien en service maternité de niveau 3 |
-
-522 |
-
-CHI E. DURKHEIM EPINAL-GOLBEY |
-
-880000021 |
-
-Gynécologie Obstétrique |
-
-|
-
-523 |
-
-CENTRE HOSPITALIER DE SEDAN |
-
-80000110 |
-
-Gynécologie Obstétrique |
-
-|
-
-524 |
-
-CH DE BRIEY-HOPITAL MAILLOT |
-
-540001070 |
-
-Gynécologie Obstétrique |
-
-|
-
-525 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Gynécologie Obstétrique |
-
-|
-
-526 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
-
-570000059 |
-
-Gynécologie Obstétrique |
-
-Praticien au Service de Gynécologie-obstétrique |
-
-527 |
-
-CENTRE HOSPITALIER DE CHAUMONT |
-
-520000027 |
-
-Gynécologie Obstétrique |
-
-|
-
-528 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Gynécologie Obstétrique |
-
-|
-
-529 |
-
-CENTRE HOSPITALIER DE SAINT-DIE |
-
-880000047 |
-
-Gynécologie Obstétrique |
-
-|
-
-530 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Gynécologie Obstétrique |
-
-Chirurgie cancéro gynécologique |
-
-531 |
-
-HOPITAUX CIVILS DE COLMAR |
-
-680000684 |
-
-Hématologie |
-
-|
-
-532 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Hépato-gastro-entérologie |
-
-|
-
-533 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Hépato-gastro-entérologie |
-
-|
-
-534 |
-
-GCS POLE SANTE DU SUD HAUT-MARNAIS |
-
-520004706 |
-
-Hépato-gastro-entérologie |
-
-|
-
-535 |
-
-CENTRE HOSPITALIER AUBAN-MOET D'EPERNAY |
-
-510000235 |
-
-Hépato-gastro-entérologie |
-
-|
-
-536 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
-
-570000059 |
-
-Hépato-gastro-entérologie |
-
-|
-
-537 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Hépato-gastro-entérologie |
-
-|
-
-538 |
-
-CENTRE HOSPITALIER DE SAINT-DIE |
-
-880000047 |
-
-Hépato-gastro-entérologie |
-
-|
-
-539 |
-
-CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
-
-520000068 |
-
-Médecine cardiovasculaire |
-
-|
-
-540 |
-
-CTRE MEDICO CHIRURGICAL CHAUMONT-LE-BOIS |
-
-520000118 |
-
-Médecine cardiovasculaire |
-
-|
-
-541 |
-
-CENTRE HOSPITALIER DE BAR-LE-DUC |
-
-550000434 |
-
-Médecine cardiovasculaire |
-
-|
-
-542 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Médecine cardiovasculaire |
-
-|
-
-543 |
-
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
-
-550000012 |
-
-Médecine cardiovasculaire |
-
-|
-
-544 |
-
-CENTRE DE READAPTATION SPECIALISE ST LUC |
-
-570000380 |
-
-Médecine cardiovasculaire |
-
-Praticien au Service de SSR en cardiologie |
-
-545 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Médecine cardiovasculaire |
-
-|
-
-546 |
-
-CENTRE HOSPITALIER DE SAINT-DIE |
-
-880000047 |
-
-Médecine cardiovasculaire |
-
-|
-
-547 |
-
-CH INTERCOMMUNAL NORD ARDENNES |
-
-80001779 |
-
-Médecine cardiovasculaire |
-
-|
-
-548 |
-
-HOPITAUX CIVILS DE COLMAR |
-
-680000684 |
-
-Médecine cardiovasculaire |
-
-|
-
-549 |
-
-HOPITAUX CIVILS DE COLMAR |
-
-680000684 |
-
-Médecine cardiovasculaire |
-
-|
-
-550 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine cardiovasculaire |
-
-Praticien en service de cardiologie |
-
-551 |
-
-GROUPEMENT HOSPITALIER AUBE MARNE |
-
-100000199 |
-
-Médecine cardiovasculaire |
-
-Médecin au sein du service de cardiologie |
-
-552 |
-
-CENTRE HOSPITALIER DE SEDAN |
-
-80000110 |
-
-Médecine d'urgence |
-
-|
-
-553 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Médecine d'urgence |
-
-Praticien au Service d'accueil des Urgences |
-
-554 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Médecine d'urgence |
-
-Praticien au Service d'accueil des Urgences |
-
-555 |
-
-CENTRE HOSPITALIER DE CHAUMONT |
-
-520000027 |
-
-Médecine d'urgence |
-
-|
-
-556 |
-
-CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
-
-520000068 |
-
-Médecine d'urgence |
-
-|
-
-557 |
-
-CENTRE HOSPITALIER DE BAR-LE-DUC |
-
-550000434 |
-
-Médecine d'urgence |
-
-|
-
-558 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Médecine générale |
-
-Praticien en EHPAD, SSR, USLD |
-
-559 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Médecine générale |
-
-Praticien au Service d'Accueil des Urgences |
-
-560 |
-
-CENTRE HOSPITALIER DE TROYES |
-
-100000090 |
-
-Médecine générale |
-
-Praticien au Service d'Accueil des Urgences |
-
-561 |
-
-CENTRE HOSPITALIER DE CHALONS |
-
-510000169 |
-
-Médecine générale |
-
-PRATICIEN ASSOCIE |
-
-562 |
-
-CENTRE HOSPITALIER VITRY LE FRANCOIS |
-
-510000250 |
-
-Médecine générale |
-
-Médecine générale |
-
-563 |
-
-CENTRE HOSPITALIER DE FISMES |
-
-510024466 |
-
-Médecine générale |
-
-Médecin généraliste au sein de l'USLD-SSR |
-
-564 |
-
-CENTRE HOSPITALIER DE CHAUMONT |
-
-520000027 |
-
-Médecine générale |
-
-PRATICIEN EN SERVICE DE MEDECINE POLYVALENTE |
-
-565 |
-
-CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
-
-520000068 |
-
-Médecine générale |
-
-médecin anesthésiste |
-
-566 |
-
-HOPITAL ANDRE BRETON-CH HAUTE MARNE |
-
-520000076 |
-
-Médecine générale |
-
-Médecine généraliste en SSR |
-
-567 |
-
-CENTRE HOSPITALIER DE CHAUMONT |
-
-520000027 |
-
-Médecine générale |
-
-Généraliste |
-
-568 |
-
-CH DE MT ST MARTIN (GROUPE SOS SANTE) |
-
-540001096 |
-
-Médecine générale |
-
-|
-
-569 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine générale |
-
-Médecin généraliste en service de gériatrie |
-
-570 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine générale |
-
-Médecin généraliste au service des urgences |
-
-571 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine générale |
-
-Médecin généraliste en service de gériatrie |
-
-572 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine générale |
-
-Médecin généraliste en service de gériatrie |
-
-573 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine générale |
-
-Médecin généraliste au service des urgences |
-
-574 |
-
-CH SAINT-NICOLAS DE SARREBOURG |
-
-570000117 |
-
-Médecine générale |
-
-Praticien en médecine polyvalente ou générale |
-
-575 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Médecine générale |
-
-praticien au service de gastro-entérologie |
-
-576 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Médecine générale |
-
-praticien au service de médecine polyvalente |
-
-577 |
-
-HOPITAL ROBERT PAX DE SARREGUEMINES |
-
-570000901 |
-
-Médecine générale |
-
-praticien au service de pneumologie |
-
-578 |
-
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
-
-570000216 |
-
-Médecine générale |
-
-médecin |
-
-579 |
-
-CENTRE HOSPITAL REGION METZ THIONVILLE |
-
-570026682 |
-
-Médecine générale |
-
-Médecin généraliste au service des urgences |
-
-580 |
-
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Médecine générale |
-
-Médecin en soins palliatifs |
-
-581 |
-
-CH INTERCOMMUNAL DE LA LAUTER WISSEMBOURG |
-
-670000272 |
-
-Médecine générale |
-
-Praticien Médecine Générale/ Médecine Interne |
-
-582 |
-
-UGECAM ALSACE _ ILLKIRCH-GRAFENSTADEN |
-
-670013754 |
-
-Médecine générale |
-
-Médecin généraliste (ou gériatre) |
-
-583 |
-
-CENTRE HOSPITALIER DE ROUFFACH |
-
-680000874 |
-
-Médecine générale |
-
-Médecin pôle LTD |
-
-584 |
-
-CENTRE HOSPITALIER DE ROUFFACH |
-
-680000874 |
-
-Médecine générale |
-
-Médecin au pôle 8/9 |
+Libellé poste |
 
 585 |
 
-CENTRE HOSPITALIER DE PFASTATT |
+HOPITAL ROBERT DEBRE CHU REIMS |
 
-680000577 |
+|
 
-Médecine générale |
-
-Médecin en addictologie clinique |
+Anatomie et cytologie pathologique |
 
 586 |
 
-CENTRE HOSPITALIER DE PFASTATT |
+CH INTERCOMMUNAL NORD ARDENNES |
 
-680000577 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Praticien au pôle inter hospitalier d'addictologie clinique |
+Praticien en Service d'anesthésie |
 
 587 |
 
-CENTRE HOSPITALIER DE SAINT-DIE |
+CH INTERCOMMUNAL NORD ARDENNES |
 
-880000047 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 588 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE L'OUEST VOSGIEN |
+CENTRE HOSPITALIER DE SEDAN |
 
-880000054 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Praticien au service de Médecine A |
+|
 
 589 |
 
-GROUPEMENT HOSPITALIER AUBE MARNE |
+CENTRE HOSPITALIER AUBAN-MOET D'EPERNAY |
 
-100000199 |
+|
 
-Médecine générale |
+Anesthésie-réanimation (co-DES) |
 
-Médecin en médecine polyvalente/ gériatrie |
+|
 
 590 |
 
-HOPITAUX CIVILS DE COLMAR |
+HOPITAL ROBERT DEBRE CHU REIMS |
 
-680000684 |
+|
 
-Médecine intensive-réanimation |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 591 |
 
-HOPITAUX PRIVES DE METZ |
+HOPITAL ROBERT DEBRE CHU REIMS |
 
-570023630 |
+|
 
-Médecine intensive-réanimation |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 592 |
 
-CENTRE HOSPITALIER DE TROYES |
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
 
-100000090 |
+|
 
-Médecine interne et immunologie clinique |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 593 |
 
-HOPITAUX PRIVES DE METZ |
-
-570023630 |
-
-Médecine interne et immunologie clinique |
+GCS POLE SANTE DU SUD HAUT-MARNAIS |
 
 |
 
+Anesthésie-réanimation (co-DES) |
+
+Praticien en Service d'Anesthésie/ USC |
+
 594 |
 
-CENTRE HOSPITALIER DE HAGUENAU |
+CENTRE HOSPITALIER UNIVERSITAIRE NANCY |
 
-670000157 |
+|
 
-Médecine interne et immunologie clinique |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 595 |
 
-HOPITAL ROBERT DEBRE CHU REIMS |
-
-510002447 |
-
-Médecine interne et immunologie clinique |
+CENTRE HOSPITAL REGION METZ THIONVILLE |
 
 |
+
+Anesthésie-réanimation (co-DES) |
+
+Praticien en Service d'anesthésie |
 
 596 |
 
-CHI E. DURKHEIM EPINAL-GOLBEY |
-
-880000021 |
-
-Médecine physique et de réadaptation |
+CENTRE HOSPITAL REGION METZ THIONVILLE |
 
 |
+
+Anesthésie-réanimation (co-DES) |
+
+Praticien en Service d'anesthésie |
 
 597 |
 
-CENTRE HOSPITALIER DE CHAUMONT |
-
-520000027 |
-
-Médecine physique et de réadaptation |
+HOPITAUX PRIVES DE METZ |
 
 |
 
+Anesthésie-réanimation (co-DES) |
+
+Service d'Anesthésiologie et Réanimation Chirurgicale |
+
 598 |
 
-CENTRE HOSPITALIER DE BAR-LE-DUC |
+CENTRE HOSPITALIER UNIVERSITAIRE NANCY |
 
-550000434 |
+|
 
-Médecine physique et de réadaptation |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 599 |
 
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+CENTRE HOSPITALIER UNIVERSITAIRE NANCY |
 
-550000012 |
+|
 
-Néphrologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 600 |
 
-HOPITAUX CIVILS DE COLMAR |
+CH DE BRIEY-HOPITAL MAILLOT |
 
-680000684 |
+|
 
-Néphrologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 601 |
 
-HOPITAUX PRIVES DE METZ |
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
 
-570023630 |
+|
 
-Néphrologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 602 |
 
-CTRE MEDICO CHIRURGICAL CHAUMONT-LE-BOIS |
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
 
-520000118 |
+|
 
-Néphrologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 603 |
 
-HOPITAUX CIVILS DE COLMAR |
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
 
-680000684 |
+|
 
-Neurochirurgie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 604 |
 
-CENTRE HOSPITALIER DE TROYES |
+HOPITAL ROBERT PAX DE SARREGUEMINES |
 
-100000090 |
+|
 
-Neurologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 605 |
 
-LES HOPITAUX UNIVERSITAIRES DE STRASBOURG |
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
 
-670000025 |
+|
 
-Neurologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 606 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+CENTRE HOSPITALIER DE HAGUENAU |
 
-570000059 |
+|
 
-Neurologie |
+Anesthésie-réanimation (co-DES) |
 
-Praticien au Service de Neurologie/ unité neuro-vasculaire |
+|
 
 607 |
 
-CENTRE HOSPITAL REGION METZ THIONVILLE |
+LES HOPITAUX UNIVERSITAIRES DE STRASBOURG |
 
-570026682 |
+|
 
-Neurologie |
+Anesthésie-réanimation (co-DES) |
 
-Neurologue en service de neurologie |
+|
 
 608 |
 
-CENTRE HOSPITALIER DE TROYES |
+HOPITAUX CIVILS DE COLMAR |
 
-100000090 |
+|
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 609 |
 
-CH INTERCOMMUNAL NORD ARDENNES |
+HOPITAUX CIVILS DE COLMAR |
 
-80001779 |
+|
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 610 |
 
-HOPITAUX CIVILS DE COLMAR |
+CENTRE HOSPITALIER DE SAINT-DIE |
 
-680000684 |
+|
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 611 |
 
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+CHI E. DURKHEIM EPINAL-GOLBEY |
 
-550000012 |
+|
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
 |
 
 612 |
 
-HOPITAUX PRIVES DE METZ |
+GHRMSA Hôpital Emile Muller |
 
-570023630 |
+670781152 |
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
-|
+Anesthésie |
 
 613 |
 
-HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
+GHRMSA Hôpital Emile Muller |
 
-570000216 |
+880780093 |
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
-|
+Anesthésie |
 
 614 |
 
-CTRE MEDICO CHIRURGICAL CHAUMONT-LE-BOIS |
+GHRMSA Hôpital Emile Muller |
 
-520000118 |
+680020336 |
 
-Oncologie |
+Anesthésie-réanimation (co-DES) |
 
-|
+Anesthésie |
 
 615 |
 
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+HOPITAL ROBERT PAX DE SARREGUEMINES |
 
-550000012 |
+|
 
-Ophtalmologie |
+Biologie médicale |
 
 |
 
 616 |
 
-HOPITAUX CIVILS DE COLMAR |
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
 
-680000684 |
+|
 
-Ophtalmologie |
+Biologie médicale |
 
 |
 
 617 |
 
-GCS POLE SANTE DU SUD HAUT-MARNAIS |
+HOPITAUX PRIVES DE METZ |
 
-520004706 |
+|
 
-Ophtalmologie |
+Biologie médicale |
 
 |
 
 618 |
 
-HOPITAUX PRIVES DE METZ |
+Centre Hospitalier de Lunéville-GHEMM |
 
-570023630 |
+880780093 |
 
-Oto-rhino-laryngologie-chirurgie cervico-faciale |
+Médecine cardiovasculaire |
 
-|
+Cardiologie |
 
 619 |
 
-CENTRE HOSPITALIER DE TROYES |
+Centre Hospitalier de Saint-Dizier |
 
-100000090 |
+26570313200018 |
 
-Pédiatrie |
+Oto-rhino-laryngologie |
 
-|
+Chirurgie |
 
 620 |
 
-CENTRE HOSPITALIER DE CHAUMONT |
+Centre Hospitalier de Saint-Dizier |
 
-520000027 |
+570000380 |
 
-Pédiatrie |
+Chirurgie Orthopédique |
 
-|
+Chirurgie |
 
 621 |
 
-CENTRE HOSPITAL REGION METZ THIONVILLE |
+HOPITAUX PRIVES DE METZ |
 
-570026682 |
+|
 
-Pédiatrie |
+Chirurgie orthopédique et traumatologique |
 
-Pédiatre en service de néonatologie 2B |
+|
 
 622 |
 
-CENTRE HOSPITAL REGION METZ THIONVILLE |
+CENTRE HOSPITALIER STE CATHERINE SAVERNE |
 
-570026682 |
+|
 
-Pédiatrie |
+Chirurgie orthopédique et traumatologique |
 
-Pédiatre en service de néonatologie 2B |
+|
 
 623 |
 
-CENTRE HOSPITALIER DE SAINT-DIE |
+CH SAINT-NICOLAS DE SARREBOURG |
 
-880000047 |
+|
 
-Pédiatrie |
+Chirurgie orthopédique et traumatologique |
 
 |
 
 624 |
 
-CLINIQUE LOUIS PASTEUR |
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
 
-540000478 |
+|
 
-Pharmacie polyvalente |
+Chirurgie orthopédique et traumatologique |
 
 |
 
 625 |
 
-CENTRE HOSPITALIER DE SAINT-DIE |
+Hôpital de Saint-Avold, Groupe SOS Santé |
 
-880000047 |
+550006795 |
 
-Pneumologie |
+Chirurgie Orthopédique et traumatologique |
 
-|
+Chirurgie B |
 
 626 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+CENTRE HOSPITAL REGION METZ THIONVILLE |
 
-570000059 |
+|
 
-Pneumologie |
+Chirurgie thoracique et cardiovasculaire |
 
-Praticien au Service de Pneumologie |
+Chirurgien en service de chirurgie cardiaque |
 
 627 |
 
-CENTRE HOSPITAL REGION METZ THIONVILLE |
+HOPITAUX PRIVES DE METZ |
 
-570026682 |
+|
 
-Pneumologie |
+Chirurgie thoracique et cardiovasculaire |
 
-Pneumologue en service de pneumologie |
+|
 
 628 |
 
-CENTRE HOSPITALIER BELAIR |
+HOPITAUX PRIVES DE METZ |
 
-080000318 |
+|
 
-Psychiatrie |
+Chirurgie vasculaire |
 
-Médecin psychiatre |
+|
 
 629 |
 
-CENTRE HOSPITALIER BELAIR |
+CHI E. DURKHEIM EPINAL-GOLBEY |
 
-080000318 |
+|
 
-Psychiatrie |
+Chirurgie viscérale et digestive |
 
-Médecin psychiatre |
+|
 
 630 |
 
-CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+CH SAINT-NICOLAS DE SARREBOURG |
 
-550000012 |
+|
 
-Psychiatrie |
+Chirurgie viscérale et digestive |
 
-Psychiatre |
+|
 
 631 |
 
-CENTRE HOSPITALIER DE ROUFFACH |
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
 
-680000874 |
+|
 
-Psychiatrie |
+Chirurgie viscérale et digestive |
 
-Psychiatre au pôle 8/9 |
+|
 
 632 |
 
-CENTRE HOSPITALIER DE ROUFFACH |
+GCS POLE SANTE DU SUD HAUT-MARNAIS |
 
-680000874 |
+|
 
-Psychiatrie |
+Chirurgie viscérale et digestive |
 
-Psychiatre au pôle enfants et adolescents |
+|
 
 633 |
 
-CHS DE JURY |
+CENTRE HOSPITAL REGION METZ THIONVILLE |
 
-570001016 |
+|
 
-Psychiatrie |
+Chirurgie viscérale et digestive |
 
-Psychiatrie générale adulte (unités d'admission en soins libres et sans consentement) + Psychiatrie enfants et adolescents |
+|
 
 634 |
 
-CENTRE HOSPITALIER D'ERSTEIN |
+CENTRE HOSPITALIER DE TROYES |
 
-670000603 |
+|
 
-Psychiatrie |
+Endocrinologie-diabétologie-nutrition |
 
-Psychiatre en Psychiatrie adulte PPAC |
+|
 
 635 |
 
-ETS PUBLIC DE SANTE ALSACE-NORD |
+HOPITAUX PRIVES DE METZ |
 
-670000058 |
+|
 
-Psychiatrie |
+Endocrinologie-diabétologie-nutrition |
 
-Psychiatre en psychiatrie adulte |
+|
 
 636 |
 
-CENTRE HOSPITAL REGION METZ THIONVILLE |
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
 
-570026682 |
+|
 
-Psychiatrie |
+Endocrinologie-diabétologie-nutrition |
 
-Psychiatre en service de psychiatrie adulte intra et extra hospitalier |
+|
 
 637 |
 
-CENTRE HOSPITAL REGION METZ THIONVILLE |
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
 
-570026682 |
+|
 
-Psychiatrie |
+Endocrinologie-diabétologie-nutrition |
 
-Psychiatre en pédopsychiatrie |
+|
 
 638 |
 
-HOPITAL ANDRE BRETON-CH HAUTE MARNE |
+CENTRE HOSPITALIER DE BAR-LE-DUC |
 
-520000076 |
+|
 
-Psychiatrie |
+Endocrinologie-diabétologie-nutrition |
 
-Psychiatre en pédopsychiatrie |
+Praticien en service de diabétologie |
 
 639 |
 
-CH INTERCOMMUNAL NORD ARDENNES |
+CENTRE HOSPITALIER DE SAINT-DIE |
 
-80001779 |
+|
 
-Radiologie et imagerie médicale |
+Endocrinologie-diabétologie-nutrition |
 
 |
 
 640 |
 
+HOPITAL LA GRAFENBOURG |
+
+550006796 |
+
+Gériatrie |
+
+USLD |
+
+641 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Gériatrie |
+
+Gériatre (EHPAD) |
+
+642 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Gériatrie |
+
+Gériatre (SSR) |
+
+643 |
+
+HOPITAL ROBERT DEBRE CHU REIMS |
+
+|
+
+Gériatrie |
+
+Gériatrie Aigue |
+
+644 |
+
+HOPITAL ROBERT DEBRE CHU REIMS |
+
+|
+
+Gériatrie |
+
+Gériatrie Aigue |
+
+645 |
+
+CENTRE HOSPITALIER AUBAN-MOET D'EPERNAY |
+
+|
+
+Gériatrie |
+
+médecin gériatre |
+
+646 |
+
+MAISON HOSPITALIERE DE BACCARAT |
+
+|
+
+Gériatrie |
+
+médecin gériatre |
+
+647 |
+
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
+
+|
+
+Gériatrie |
+
+médecin gériatre |
+
+648 |
+
+CHI E. DURKHEIM EPINAL-GOLBEY |
+
+|
+
+Gériatrie |
+
+médecin gériatre |
+
+649 |
+
+LES MAISONS HOSPITALIERES SITE NANCY |
+
+|
+
+Gériatrie |
+
+médecin gériatre |
+
+650 |
+
+CH DE BRIEY-HOPITAL MAILLOT |
+
+|
+
+Gériatrie |
+
+Gériatre ou médecin généraliste |
+
+651 |
+
+CENTRE HOSPITALIER SAINT CHARLES TOUL |
+
+|
+
+Gériatrie |
+
+Praticien au sein du service de gériatrie |
+
+652 |
+
+CH INTERCOMMUNAL DE LA LAUTER WISSEMBOURG |
+
+|
+
+Gériatrie |
+
+Praticien Médecine/ Gériatrie |
+
+653 |
+
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
+
+|
+
+Gériatrie |
+
+médecin gériatre |
+
+654 |
+
+CENTRE HOSPITALIER VITRY LE FRANCOIS |
+
+|
+
+Gériatrie |
+
+Médecin Gériatre |
+
+655 |
+
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
+
+|
+
+Gériatrie |
+
+Médecin gériatre |
+
+656 |
+
 CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
 
-550000012 |
+|
+
+Gériatrie |
+
+Médecin gériatre |
+
+657 |
+
+CENTRE HOSPITALIER DE BAR-LE-DUC |
+
+|
+
+Gériatrie |
+
+Médecin gériatre |
+
+658 |
+
+CENTRE DEPARTEMENTAL DE REPOS ET DE SOINS COLMAR |
+
+|
+
+Gériatrie |
+
+GERIATRE en SERVICE SSR et USLD |
+
+659 |
+
+CENTRE HOSPITALIER DE ROUFFACH |
+
+|
+
+Gériatrie |
+
+Gériatre au pôle 2/3 |
+
+660 |
+
+HOPITAL LOCAL VAL DU MADON MIRECOURT |
+
+|
+
+Gériatrie |
+
+médecine générale |
+
+661 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE L'OUEST VOSGIEN |
+
+|
+
+Gériatrie |
+
+Praticien au service de Médecine B |
+
+662 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE L'OUEST VOSGIEN |
+
+|
+
+Gériatrie |
+
+Médecin gériatre au SSR Polyvalent |
+
+663 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Gériatrie |
+
+Gériatre en service de gériatrie |
+
+664 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Gériatrie |
+
+Gériatre en service de gériatrie |
+
+665 |
+
+GROUPEMENT HOSPITALIER AUBE MARNE |
+
+|
+
+Gériatrie |
+
+Médecin au sein du service de gériatrie |
+
+666 |
+
+Centre Hospitalier de Saint-Nicolas de Port |
+
+570025254 |
+
+Gériatrie |
+
+EHPAD/ USLD |
+
+667 |
+
+Centre hospitalier intercommunal des Hôpitaux du massif des Vosges |
+
+570025254 |
+
+Gériatrie |
+
+Gériatrie |
+
+668 |
+
+GHRMSA Hôpital Emile Muller |
+
+570025254 |
+
+Gériatrie |
+
+Gériatrie |
+
+669 |
+
+GHRMSA Hôpital Emile Muller |
+
+570025254 |
+
+Gériatrie |
+
+Gériatrie |
+
+670 |
+
+Hôpital de Saint-Avold, Groupe SOS Santé |
+
+570025254 |
+
+Gériatrie |
+
+Court séjour Gériatrique |
+
+671 |
+
+Hôpital de Saint-Avold, Groupe SOS Santé |
+
+570025254 |
+
+Gériatrie |
+
+Court séjour Gériatrique |
+
+672 |
+
+REMIREMONT |
+
+80001779 |
+
+Gynécologie Obstétrique |
+
+Gynécologie Obstétrique |
+
+673 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Gynécologie Obstétrique |
+
+Gynécologue-Obstétricien en service maternité de niveau 3 |
+
+674 |
+
+CHI E. DURKHEIM EPINAL-GOLBEY |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+675 |
+
+CENTRE HOSPITALIER DE SEDAN |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+676 |
+
+CH DE BRIEY-HOPITAL MAILLOT |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+677 |
+
+HOPITAL ROBERT PAX DE SARREGUEMINES |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+678 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+
+|
+
+Gynécologie Obstétrique |
+
+Praticien au Service de Gynécologie-obstétrique |
+
+679 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+680 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+681 |
+
+CENTRE HOSPITALIER DE SAINT-DIE |
+
+|
+
+Gynécologie Obstétrique |
+
+|
+
+682 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Gynécologie Obstétrique |
+
+Chirurgie cancéro gynécologique |
+
+683 |
+
+Centre Hospitalier de Saint-Dizier |
+
+57 000 516 5 |
+
+Gynécologie Obstétrique |
+
+Gynécologie Obstétrique |
+
+684 |
+
+Centre Hospitalier de Saint-Dizier |
+
+57 000 516 5 |
+
+Gynécologie Obstétrique |
+
+Gynécologie Obstétrique |
+
+685 |
+
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
+
+520780073 |
+
+Gynécologie Obstétrique |
+
+Gynécologie Obstétrique |
+
+686 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Hématologie |
+
+|
+
+687 |
+
+CH INTERCOMMUNAL NORD ARDENNES |
+
+57 000 516 5 |
+
+Hépato-gastroentérologie |
+
+Hépato gastro entérologie |
+
+688 |
+
+Groupe hospitalier Sélestat-Obernai |
+
+57 000 516 5 |
+
+Hépato-gastroentérologie |
+
+Médecine à orientation hépato-gastroentérologie |
+
+689 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+690 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+691 |
+
+GCS POLE SANTE DU SUD HAUT-MARNAIS |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+692 |
+
+CENTRE HOSPITALIER AUBAN-MOET D'EPERNAY |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+693 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+694 |
+
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+695 |
+
+CENTRE HOSPITALIER DE SAINT-DIE |
+
+|
+
+Hépato-gastroentérologie |
+
+|
+
+696 |
+
+REMIREMONT |
+
+540001138 |
+
+Médecine cardiovasculaire |
+
+MEDECINE ORIENTATION CARDIOLOGIQUE |
+
+697 |
+
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+698 |
+
+CTRE MEDICO CHIRURGICAL CHAUMONT-LE-BOIS |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+699 |
+
+CENTRE HOSPITALIER DE BAR-LE-DUC |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+700 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+701 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+702 |
+
+CENTRE DE READAPTATION SPECIALISE ST LUC |
+
+|
+
+Médecine cardiovasculaire |
+
+Praticien au Service de SSR en cardiologie |
+
+703 |
+
+HOPITAL ROBERT PAX DE SARREGUEMINES |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+704 |
+
+CENTRE HOSPITALIER DE SAINT-DIE |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+705 |
+
+CH INTERCOMMUNAL NORD ARDENNES |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+706 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+707 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Médecine cardiovasculaire |
+
+|
+
+708 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine cardiovasculaire |
+
+Praticien en service de cardiologie |
+
+709 |
+
+GROUPEMENT HOSPITALIER AUBE MARNE |
+
+|
+
+Médecine cardiovasculaire |
+
+Médecin au sein du service de cardiologie |
+
+710 |
+
+CH VERDUN SAINT MIHIEL |
+
+540001138 |
+
+médecine cardiovasculaire |
+
+Service de cardiologie |
+
+711 |
+
+CHIC UNISANTE + Höpitaux publics de Forbach et Saint Avold |
+
+540001138 |
+
+Médecine cardiovasculaire |
+
+Cardiologie/ USIC |
+
+712 |
+
+Centre Hospitalier Saint Nicolas |
+
+570001016 |
+
+Médecine cardiovasculaire |
+
+Cardiologie |
+
+713 |
+
+CENTRE HOSPITALIER DE SEDAN |
+
+|
+
+Médecine d'urgence |
+
+|
+
+714 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Médecine d'urgence |
+
+Praticien au Service d'accueil des Urgences |
+
+715 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Médecine d'urgence |
+
+Praticien au Service d'accueil des Urgences |
+
+716 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+Médecine d'urgence |
+
+|
+
+717 |
+
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
+
+|
+
+Médecine d'urgence |
+
+|
+
+718 |
+
+CENTRE HOSPITALIER DE BAR-LE-DUC |
+
+|
+
+Médecine d'urgence |
+
+|
+
+719 |
+
+CH VERDUN SAINT MIHIEL |
+
+510006984 |
+
+Médecine d'urgence |
+
+Service des urgences |
+
+720 |
+
+GHRMSA Hôpital Emile Muller |
+
+510006984 |
+
+Médecine d'urgence |
+
+Urgences SAMU |
+
+721 |
+
+GHRMSA Hôpital Emile Muller |
+
+510006984 |
+
+Médecine d'urgence |
+
+Urgences SAMU |
+
+722 |
+
+GROUPEMENT HOSPITALIER AUBE MARNE |
+
+510006984 |
+
+Médecine d'urgence |
+
+Service de médecine d'urgences |
+
+723 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+550006795 |
+
+Médecine d'urgence |
+
+Service des urgences |
+
+724 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+
+570025254 |
+
+Médecine d'urgence |
+
+Urgences/ SMUR |
+
+725 |
+
+GHRMSA Hôpital Emile Muller |
+
+680020336 |
+
+Médecine d'urgence |
+
+Urgences SAMU |
+
+726 |
+
+GHRMSA Hôpital Emile Muller |
+
+680020336 |
+
+Médecine d'urgence |
+
+Urgences SAMU |
+
+727 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL HOPITAUX DU MASSIF DES VOSGES |
+
+880009147 |
+
+Médecine d'urgence |
+
+Service des urgences |
+
+728 |
+
+Centre hospitalier intercommunal des Hôpitaux du massif des Vosges |
+
+510006984 |
+
+Médecine d'urgence |
+
+Service des urgences |
+
+729 |
+
+CHIC UNISANTE + Höpitaux publics de Forbach et Saint Avold |
+
+680020336 |
+
+Médecine d'urgence |
+
+Urgences/ SMUR |
+
+730 |
+
+CHIC UNISANTE + Höpitaux publics de Forbach et Saint Avold |
+
+680020336 |
+
+Médecine d'urgence |
+
+Urgences/ SMUR |
+
+731 |
+
+Groupement hospitalier Aube Marne |
+
+680020336 |
+
+Médecine d'urgence |
+
+Service de médecine d'urgences |
+
+732 |
+
+Centre Hospitalier d'Erstein |
+
+680020336 |
+
+Médecine générale |
+
+Pôle intersectoriel et Soins intégrés |
+
+733 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Médecine générale |
+
+Praticien en EHPAD, SSR, USLD |
+
+734 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Médecine générale |
+
+Praticien au Service d'Accueil des Urgences |
+
+735 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Médecine générale |
+
+Praticien au Service d'Accueil des Urgences |
+
+736 |
+
+CENTRE HOSPITALIER DE CHALONS |
+
+|
+
+Médecine générale |
+
+PRATICIEN ASSOCIE |
+
+737 |
+
+CENTRE HOSPITALIER VITRY LE FRANCOIS |
+
+|
+
+Médecine générale |
+
+Médecine générale |
+
+738 |
+
+CENTRE HOSPITALIER DE FISMES |
+
+|
+
+Médecine générale |
+
+Médecin généraliste au sein de l'USLD-SSR |
+
+739 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+Médecine générale |
+
+PRATICIEN EN SERVICE DE MEDECINE POLYVALENTE |
+
+740 |
+
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
+
+|
+
+Médecine générale |
+
+médecin anesthésiste |
+
+741 |
+
+HOPITAL ANDRE BRETON-CH HAUTE MARNE |
+
+|
+
+Médecine générale |
+
+Médecine généraliste en SSR |
+
+742 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+Médecine générale |
+
+Généraliste |
+
+743 |
+
+CH DE MT ST MARTIN (GROUPE SOS SANTE) |
+
+|
+
+Médecine générale |
+
+|
+
+744 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine générale |
+
+Médecin généraliste en service de gériatrie |
+
+745 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine générale |
+
+Médecin généraliste au service des urgences |
+
+746 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine générale |
+
+Médecin généraliste en service de gériatrie |
+
+747 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine générale |
+
+Médecin généraliste en service de gériatrie |
+
+748 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine générale |
+
+Médecin généraliste au service des urgences |
+
+749 |
+
+CH SAINT-NICOLAS DE SARREBOURG |
+
+|
+
+Médecine générale |
+
+Praticien en médecine polyvalente ou générale |
+
+750 |
+
+HOPITAL ROBERT PAX DE SARREGUEMINES |
+
+|
+
+Médecine générale |
+
+praticien au service de gastro-entérologie |
+
+751 |
+
+HOPITAL ROBERT PAX DE SARREGUEMINES |
+
+|
+
+Médecine générale |
+
+praticien au service de médecine polyvalente |
+
+752 |
+
+HOPITAL ROBERT PAX DE SARREGUEMINES |
+
+|
+
+Médecine générale |
+
+praticien au service de pneumologie |
+
+753 |
+
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
+
+|
+
+Médecine générale |
+
+médecin |
+
+754 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Médecine générale |
+
+Médecin généraliste au service des urgences |
+
+755 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Médecine générale |
+
+Médecin en soins palliatifs |
+
+756 |
+
+CH INTERCOMMUNAL DE LA LAUTER WISSEMBOURG |
+
+|
+
+Médecine générale |
+
+Praticien Médecine Générale/ Médecine Interne |
+
+757 |
+
+UGECAM ALSACE _ ILLKIRCH-GRAFENSTADEN |
+
+|
+
+Médecine générale |
+
+Médecin généraliste (ou gériatre) |
+
+758 |
+
+CENTRE HOSPITALIER DE ROUFFACH |
+
+|
+
+Médecine générale |
+
+Médecin pôle LTD |
+
+759 |
+
+CENTRE HOSPITALIER DE ROUFFACH |
+
+|
+
+Médecine générale |
+
+Médecin au pôle 8/9 |
+
+760 |
+
+CENTRE HOSPITALIER DE PFASTATT |
+
+|
+
+Médecine générale |
+
+Médecin en addictologie clinique |
+
+761 |
+
+CENTRE HOSPITALIER DE PFASTATT |
+
+|
+
+Médecine générale |
+
+Praticien au pôle inter hospitalier d'addictologie clinique |
+
+762 |
+
+CENTRE HOSPITALIER DE SAINT-DIE |
+
+|
+
+Médecine générale |
+
+|
+
+763 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE L'OUEST VOSGIEN |
+
+|
+
+Médecine générale |
+
+Praticien au service de Médecine A |
+
+764 |
+
+GROUPEMENT HOSPITALIER AUBE MARNE |
+
+|
+
+Médecine générale |
+
+Médecin en médecine polyvalente/ gériatrie |
+
+765 |
+
+Centre de Réadaptation Spécialisée d'Abreschviller-Niderviller |
+
+680020336 |
+
+Médecine générale |
+
+Soins I Claude Bernard |
+
+766 |
+
+Centre Hospitalier de Lunéville-GHEMM |
+
+680020336 |
+
+Médecine générale |
+
+Cardiologie |
+
+767 |
+
+Centre hospitalier intercommunal des Hôpitaux du massif des Vosges |
+
+680020336 |
+
+Médecine générale |
+
+Médecine Altkirch |
+
+768 |
+
+Centre hospitalier intercommunal des Hôpitaux du massif des Vosges |
+
+680020336 |
+
+Médecine générale |
+
+Médecine B |
+
+769 |
+
+CENTRE HOSPITALIER SAINT MORAND |
+
+670017755 |
+
+Médecine générale |
+
+Médecine Altkirch |
+
+770 |
+
+CH Auban-Moët |
+
+670017755 |
+
+Médecine générale |
+
+Médecine générale et interne |
+
+771 |
+
+CHIC UNISANTE + Höpitaux publics de Forbach et Saint Avold |
+
+670017755 |
+
+Médecine Générale |
+
+Urgences/ SMUR |
+
+772 |
+
+Groupe hospitalier Sélestat-Obernai |
+
+670017755 |
+
+Médecine générale |
+
+Service des urgences |
+
+773 |
+
+Groupe hospitalier Sélestat-Obernai |
+
+51 00000 60 |
+
+Médecine générale |
+
+Service des urgences |
+
+774 |
+
+Groupe hospitalier Sélestat-Obernai |
+
+510006984 |
+
+Médecine générale |
+
+Service des urgences |
+
+775 |
+
+Hôpital de Saint-Avold, Groupe SOS Santé |
+
+510006984 |
+
+Médecine Générale |
+
+Médecine Polyvalente |
+
+776 |
+
+Groupe hospitalier Sélestat-Obernai |
+
+670017755 |
+
+Médecine générale |
+
+Service des urgences |
+
+777 |
+
+CHRU de NANCY |
+
+510006984 |
+
+Médecine générale |
+
+Service de Gériatrie aigue Brabois |
+
+778 |
+
+Centre hospitalier de Troyes |
+
+520780073 |
+
+Médecine intensive et réanimation |
+
+Réanimationpolyvalnte |
+
+779 |
+
+GHRMSA Hôpital Emile Muller |
+
+520780073 |
+
+Médecine intensive-réanimation |
+
+Réanimation médicale |
+
+780 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Médecine intensive-réanimation |
+
+|
+
+781 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Médecine intensive-réanimation |
+
+|
+
+782 |
+
+GHRMSA Hôpital Emile Muller |
+
+680020336 |
+
+Médecine intensive-réanimation |
+
+Réanimation médicale |
+
+783 |
+
+HÔPITAUX CIVILS DE COLMAR |
+
+520780073 |
+
+MEDECINE INTERNE |
+
+MEDECINE INTERNE |
+
+784 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Médecine interne et immunologie clinique |
+
+|
+
+785 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Médecine interne et immunologie clinique |
+
+|
+
+786 |
+
+CENTRE HOSPITALIER DE HAGUENAU |
+
+|
+
+Médecine interne et immunologie clinique |
+
+|
+
+787 |
+
+HOPITAL ROBERT DEBRE CHU REIMS |
+
+|
+
+Médecine interne et immunologie clinique |
+
+|
+
+788 |
+
+CHI E. DURKHEIM EPINAL-GOLBEY |
+
+|
+
+Médecine physique et de réadaptation |
+
+|
+
+789 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+Médecine physique et de réadaptation |
+
+|
+
+790 |
+
+CENTRE HOSPITALIER DE BAR-LE-DUC |
+
+|
+
+Médecine physique et de réadaptation |
+
+|
+
+791 |
+
+GHRMSA Hôpital Emile Muller |
+
+520780073 |
+
+Médecine physique et de réadaptation |
+
+Rééducation fonctionnelle |
+
+792 |
+
+Centre hospitalier de la Haute-Marne |
+
+520780073 |
+
+Médecine physique et de réadaptation |
+
+SSR/ MPR |
+
+793 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Néphrologie |
+
+|
+
+794 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Néphrologie |
+
+|
+
+795 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Néphrologie |
+
+|
+
+796 |
+
+CTRE MEDICO CHIRURGICAL CHAUMONT-LE-BOIS |
+
+|
+
+Néphrologie |
+
+|
+
+797 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Neurochirurgie |
+
+|
+
+798 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Neurologie |
+
+|
+
+799 |
+
+LES HOPITAUX UNIVERSITAIRES DE STRASBOURG |
+
+|
+
+Neurologie |
+
+|
+
+800 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+
+|
+
+Neurologie |
+
+Praticien au Service de Neurologie/ unité neuro-vasculaire |
+
+801 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Neurologie |
+
+Neurologue en service de neurologie |
+
+802 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Oncologie |
+
+|
+
+803 |
+
+CH INTERCOMMUNAL NORD ARDENNES |
+
+|
+
+Oncologie |
+
+|
+
+804 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Oncologie |
+
+|
+
+805 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Oncologie |
+
+|
+
+806 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Oncologie |
+
+|
+
+807 |
+
+HOPITAL DE SAINT-AVOLD (Groupe SOS Santé) |
+
+|
+
+Oncologie |
+
+|
+
+808 |
+
+CTRE MEDICO CHIRURGICAL CHAUMONT-LE-BOIS |
+
+|
+
+Oncologie |
+
+|
+
+809 |
+
+Hôpital Mercy |
+
+550003354 |
+
+Oncologie |
+
+Radiothérapie |
+
+810 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Ophtalmologie |
+
+|
+
+811 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+|
+
+Ophtalmologie |
+
+|
+
+812 |
+
+GCS POLE SANTE DU SUD HAUT-MARNAIS |
+
+|
+
+Ophtalmologie |
+
+|
+
+813 |
+
+HOPITAUX PRIVES DE METZ |
+
+|
+
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
+
+|
+
+814 |
+
+CENTRE HOSPITALIER DE TROYES |
+
+|
+
+Pédiatrie |
+
+|
+
+815 |
+
+CENTRE HOSPITALIER DE CHAUMONT |
+
+|
+
+Pédiatrie |
+
+|
+
+816 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Pédiatrie |
+
+Pédiatre en service de néonatologie 2B |
+
+817 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Pédiatrie |
+
+Pédiatre en service de néonatologie 2B |
+
+818 |
+
+CENTRE HOSPITALIER DE SAINT-DIE |
+
+|
+
+Pédiatrie |
+
+|
+
+819 |
+
+Centre Hospitalier de Saint-Dizier |
+
+520780081 |
+
+Pédiatrie |
+
+Pédiatrie Néonatalogie |
+
+820 |
+
+CHIC UNISANTE + Höpitaux publics de Forbach et Saint Avold |
+
+680000684 |
+
+Pédiatrie |
+
+Pédiatrie-Néonatologie |
+
+821 |
+
+Hôpital Bel-Air |
+
+680000684 |
+
+Pédiatrie |
+
+Pédiatrie |
+
+822 |
+
+CH GENEVIEVE DE GAULLE ANTHONIOZ de SAINT-DIZIER |
+
+520780073 |
+
+Pédiatrie |
+
+Pédiatrie Néonatalogie |
+
+823 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+
+570025254 |
+
+Pédiatrie |
+
+Pédiatrie-Néonatologie |
+
+824 |
+
+CLINIQUE LOUIS PASTEUR |
+
+|
+
+Pharmacie polyvalente |
+
+|
+
+825 |
+
+CENTRE HOSPITALIER DE SAINT-DIE |
+
+|
+
+Pneumologie |
+
+|
+
+826 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL UNISANTE + |
+
+|
+
+Pneumologie |
+
+Praticien au Service de Pneumologie |
+
+827 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Pneumologie |
+
+Pneumologue en service de pneumologie |
+
+828 |
+
+Centre hospitalier de Bar le Duc Fains Veel |
+
+680000684 |
+
+Pneumologie |
+
+Pneumologie |
+
+829 |
+
+Centre hospitalier de Troyes |
+
+1 000 000 17 |
+
+Pneumologie |
+
+Service de pneumologie |
+
+830 |
+
+CHIC UNISANTE + Höpitaux publics de Forbach et Saint Avold |
+
+2 000 000 17 |
+
+Pneumologie |
+
+Pneumologie |
+
+831 |
+
+Hôpital Bel-Air |
+
+670780071 |
+
+Pneumologie |
+
+Pneumologie |
+
+832 |
+
+Hôpital Mercy |
+
+570010181 |
+
+Pneumologie |
+
+Pneumologie |
+
+833 |
+
+HÔPITAUX CIVILS DE COLMAR |
+
+570010181 |
+
+Pneumologie |
+
+Pneumologie |
+
+834 |
+
+HÔPITAUX CIVILS DE COLMAR |
+
+570010181 |
+
+Pneumologie |
+
+Pneumologie |
+
+835 |
+
+INST UNIV READAPT CLEMENCEAU ILLKIRCH |
+
+570010181 |
+
+Pneumologie |
+
+Soins de suite et de réadaptation spécialisés-Affections respiratoires |
+
+836 |
+
+HOPITAUX CIVILS DE COLMAR |
+
+680000684 |
+
+Pneumologie |
+
+Pneumologie |
+
+837 |
+
+CENTRE HOSPITALIER BELAIR |
+
+|
+
+Psychiatrie |
+
+Médecin psychiatre |
+
+838 |
+
+CENTRE HOSPITALIER BELAIR |
+
+|
+
+Psychiatrie |
+
+Médecin psychiatre |
+
+839 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
+
+Psychiatrie |
+
+Psychiatre |
+
+840 |
+
+CENTRE HOSPITALIER DE ROUFFACH |
+
+|
+
+Psychiatrie |
+
+Psychiatre au pôle 8/9 |
+
+841 |
+
+CENTRE HOSPITALIER DE ROUFFACH |
+
+|
+
+Psychiatrie |
+
+Psychiatre au pôle enfants et adolescents |
+
+842 |
+
+CHS DE JURY |
+
+|
+
+Psychiatrie |
+
+Psychiatrie générale adulte (unités d'admission en soins libres et sans consentement) + Psychiatrie enfants et adolescents |
+
+843 |
+
+CENTRE HOSPITALIER D'ERSTEIN |
+
+|
+
+Psychiatrie |
+
+Psychiatre en Psychiatrie adulte PPAC |
+
+844 |
+
+ETS PUBLIC DE SANTE ALSACE-NORD |
+
+|
+
+Psychiatrie |
+
+Psychiatre en psychiatrie adulte |
+
+845 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Psychiatrie |
+
+Psychiatre en service de psychiatrie adulte intra et extra hospitalier |
+
+846 |
+
+CENTRE HOSPITAL REGION METZ THIONVILLE |
+
+|
+
+Psychiatrie |
+
+Psychiatre en pédopsychiatrie |
+
+847 |
+
+HOPITAL ANDRE BRETON-CH HAUTE MARNE |
+
+|
+
+Psychiatrie |
+
+Psychiatre en pédopsychiatrie |
+
+848 |
+
+CENTRE HOSPITALIER LORQUIN |
+
+540000080 |
+
+Psychiatrie |
+
+CMA Admissions et réhabilitation |
+
+849 |
+
+CENTRE HOSPITALIER LORQUIN |
+
+540000080 |
+
+Psychiatrie |
+
+INFANTO-JUVENILE |
+
+850 |
+
+CHS de JURY |
+
+540000114 |
+
+Psychiatrie |
+
+Pôle 6-Addictologie |
+
+851 |
+
+Etablissement Public de Santé Mentale de la Marne |
+
+670013754 |
+
+Psychiatrie |
+
+POLE UNIQUE SUD MARNE |
+
+852 |
+
+Etablissement Public de Santé Mentale de la Marne |
+
+880009147 |
+
+Psychiatrie |
+
+Service ZR4-CMP CATTP ANTONIN ARTAUD |
+
+853 |
+
+Etablissement Public de Santé Mentale de la Marne |
+
+880009147 |
+
+Psychiatrie |
+
+Service ZR4-CMP CATTP ANTONIN ARTAUD |
+
+854 |
+
+Etablissement Public de Santé Mentale de la Marne |
+
+510006984 |
+
+Psychiatrie |
+
+Service ZR4-CMP CATTP ANTONIN ARTAUD |
+
+855 |
+
+Etablissement Public de Santé Mentale de la Marne |
+
+510006984 |
+
+Psychiatrie |
+
+POLE UNIQUE SUD MARNE |
+
+856 |
+
+CENTRE HOSPITALIER DE BAR-LE-DUC |
+
+550003354 |
+
+Psychiatrie |
+
+Psychiatrie adulte |
+
+857 |
+
+Centre Hospitalier spécialisé de Lorquin |
+
+510006984 |
+
+Psychiatrie |
+
+CMA Admissions et réhabilitation |
+
+858 |
+
+CHRU de NANCY |
+
+880009147 |
+
+Radiologie et imagerie médicale |
+
+Imagerie de la femme et de l'enfant et Neuroradiologie |
+
+859 |
+
+CHRU de NANCY |
+
+880009147 |
+
+Radiologie et imagerie médicale |
+
+Imagerie GUILLOZ (Hôpital Central) |
+
+860 |
+
+CH INTERCOMMUNAL NORD ARDENNES |
+
+|
+
+Radiologie et imagerie médicale |
+
+|
+
+861 |
+
+CENTRE HOSPITALIER VERDUN SAINT MIHIEL |
+
+|
 
 Radiologie et imagerie médicale |
 
@@ -6476,4711 +8686,2497 @@ Radiologie et imagerie médicale |
 
 Agence Régionale de Santé : |
 
-Hauts de France |
+Hauts-de-France |
 
 Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
-
-641 |
-
-CH Lens |
-
-620000257 |
-
-Anatomie et cytologie pathologiques |
-
-Médecin anapath |
-
-642 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste-réanimateur |
-
-643 |
-
-CHG Clermont de l'Oise |
-
-600100648 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-644 |
-
-CH Compiègne-Noyon |
-
-600100721 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-645 |
-
-CH Arras |
-
-620100057 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste-réanimateur |
-
-646 |
-
-CH de Boulogne/ Mer |
-
-620103440 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-647 |
-
-CHAM |
-
-620103432 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-648 |
-
-CH Béthune |
-
-620000224 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-649 |
-
-CH Abbeville |
-
-800000028 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste-réanimateur |
-
-650 |
-
-CH Dunkerque |
-
-590781415 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste-réanimateur |
-
-651 |
-
-CH Armentières |
-
-590000758 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-652 |
-
-CH Denain |
-
-590782165 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-653 |
-
-GH Seclin Carvin |
-
-590780227 |
-
-Anesthésie-réanimation (co-DES) |
-
-médecin anesthésiste-Réanimateur |
-
-654 |
-
-CH Valenciennes |
-
-590000618 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste-réanimateur |
-
-655 |
-
-GHPSO |
-
-600101984 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste |
-
-656 |
-
-CH Calais |
-
-620000323 |
-
-Anesthésie-réanimation (co-DES) |
-
-Médecin anesthésiste-réanimateur |
-
-657 |
-
-CH Calais |
-
-620000323 |
-
-Biologie médicale |
-
-Médecin biologiste |
-
-658 |
-
-CH Beauvais |
-
-600100713 |
-
-Chirurgie orthopédique et traumatologique |
-
-Chirurgien orthopédique et traumatologique |
-
-659 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrino-diabétologue |
-
-660 |
-
-CH Calais |
-
-620000323 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrino-diabétologue |
-
-661 |
-
-CHAM |
-
-620103432 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrino-diabétologue |
-
-662 |
-
-CH Béthune |
-
-620000224 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrino-diabétologue |
-
-663 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-664 |
-
-CH Chauny |
-
-020000287 |
-
-Gériatrie |
-
-Médecin gériatre (EHPAD/ USLD/ SSR) |
-
-665 |
-
-CH Laon |
-
-020000253 |
-
-Gériatrie |
-
-Médecin gériatre (court séjour gériatrique) |
-
-666 |
-
-CH Laon |
-
-020000253 |
-
-Gériatrie |
-
-Médecin gériatre (SSR) |
-
-667 |
-
-CH Beauvais |
-
-600100713 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-668 |
-
-CH Compiègne-Noyon |
-
-600100721 |
-
-Gériatrie |
-
-Médecin gériatre (EHPAD-USLD) |
-
-669 |
-
-CH Compiègne-Noyon |
-
-600100721 |
-
-Gériatrie |
-
-Médecin gériatre (SSR) |
-
-670 |
-
-GHPSO |
-
-600101984 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-671 |
-
-GHPSO |
-
-600101984 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-672 |
-
-CH Calais |
-
-620000323 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-673 |
-
-CHAM |
-
-620103432 |
-
-Gériatrie |
-
-Médecin gériatre (court séjour gériatrique) |
-
-674 |
-
-CH Lens |
-
-620000257 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-675 |
-
-CH Hénin-Beaumont |
-
-620000240 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-676 |
-
-CH Doullens |
-
-800000226 |
-
-Gériatrie |
-
-Médecin gériatre (SSR) |
-
-677 |
-
-CHI Baie de Somme |
-
-800000507 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-678 |
-
-CH Armentières |
-
-590000758 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-679 |
-
-CH Denain |
-
-590782165 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-680 |
-
-CH Fourmies |
-
-590781662 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-681 |
-
-GH Loos Haubourdin |
-
-590053120 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-682 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-683 |
-
-CH Chauny |
-
-020000287 |
-
-Gériatrie |
-
-Médecin gériatre (EHPAD/ USLD/ SSR) |
-
-684 |
-
-CH Saint Quentin |
-
-020000063 |
-
-gériatrie |
-
-Médecin gériatre |
-
-685 |
-
-CH Soissons |
-
-020000261 |
-
-Gériatrie |
-
-Médecin gériatre (SSR) |
-
-686 |
-
-CHG Clermont de l'Oise |
-
-600100648 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-687 |
-
-CH Arras |
-
-620100057 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-688 |
-
-CH Béthune |
-
-620000224 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-689 |
-
-CHRSO |
-
-620101360 |
-
-Gériatrie |
-
-Médecin gériatre (EHPAD/ USLD) |
-
-690 |
-
-CH Abbeville |
-
-800000028 |
-
-Gériatrie |
-
-Médecin gériatre (SSR) |
-
-691 |
-
-CH Le Quesnoy |
-
-590781670 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-692 |
-
-BTP RMS Le TILLET |
-
-600100275 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-693 |
-
-CH Chauny |
-
-020000287 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-694 |
-
-CH Laon |
-
-020000253 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-695 |
-
-CH Saint Quentin |
-
-020000063 |
-
-gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-696 |
-
-CH Beauvais |
-
-600100713 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-697 |
-
-CH Arras |
-
-620100057 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-698 |
-
-CH Arras |
-
-620100057 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-699 |
-
-CH Abbeville |
-
-800000028 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-700 |
-
-CH Armentières |
-
-590000758 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-701 |
-
-CH Denain |
-
-590782165 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-702 |
-
-CH Fourmies |
-
-590781662 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-703 |
-
-CH Hazebrouck |
-
-590000774 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-704 |
-
-CH Hazebrouck |
-
-590000774 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-705 |
-
-CH Saint Quentin |
-
-020000063 |
-
-hématologie |
-
-Médecin hématologue (service oncologie-hématologie) |
-
-706 |
-
-CH Beauvais |
-
-600100713 |
-
-Hématologie |
-
-Médecin hématologue |
-
-707 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastro-entérologue |
-
-708 |
-
-CH Chauny |
-
-020000287 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastroentérologue |
-
-709 |
-
-CH Laon |
-
-020000253 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastroentérologue |
-
-710 |
-
-CHAM |
-
-620103432 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastro-entérologue |
-
-711 |
-
-GH Seclin Carvin |
-
-590780227 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastro-entérologue |
-
-712 |
-
-CH Fourmies |
-
-590781662 |
-
-Maïeutique |
-
-Sage-femme |
-
-713 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Maïeutique |
-
-Sage-femme |
-
-714 |
-
-CH Denain |
-
-590782165 |
-
-Maladies infectieuses et tropicales (co-DES) |
-
-Médecin infectiologue |
-
-715 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-716 |
-
-CH Chauny |
-
-020000287 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-717 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-718 |
-
-CH Beauvais |
-
-600100713 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-719 |
-
-CH Arras |
-
-620100057 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-720 |
-
-CHAM |
-
-620103432 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-721 |
-
-CH Douai |
-
-590001004 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-722 |
-
-CH Armentières |
-
-590000758 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin cardiologue |
-
-723 |
-
-CH Beauvais |
-
-600100713 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-724 |
-
-CH de Boulogne/ Mer |
-
-620103440 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-725 |
-
-GHPSO |
-
-600101984 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-726 |
-
-CHRSO |
-
-620101360 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-727 |
-
-CH Fourmies |
-
-590781662 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-728 |
-
-CH Chauny |
-
-020000287 |
-
-Médecine générale |
-
-Médecin généraliste (service médecine Interne et diabétologie) |
-
-729 |
-
-CHG La Fère |
-
-020000048 |
-
-Médecine générale |
-
-Médecin généraliste (court séjour gériatrique) |
-
-730 |
-
-CH Laon |
-
-020000253 |
-
-Médecine générale |
-
-Médecin généraliste (pédiatrie) |
-
-731 |
-
-CH Beauvais |
-
-600100713 |
-
-Médecine générale |
-
-Médecin généraliste (service de médecine polyvalente) |
-
-732 |
-
-CH Beauvais |
-
-600100713 |
-
-Médecine générale |
-
-Médecin généraliste (service d'accueil des urgences) |
-
-733 |
-
-GHPSO |
-
-600101984 |
-
-Médecine générale |
-
-Médecin généraliste (service de médecine polyvalente) |
-
-734 |
-
-GHPSO |
-
-600101984 |
-
-Médecine générale |
-
-Médecin généraliste (service de médecine polyvalente) |
-
-735 |
-
-CHRSO |
-
-620101360 |
-
-Médecine générale |
-
-Médecin généraliste (addictologie) |
-
-736 |
-
-CH Abbeville |
-
-800000028 |
-
-Médecine générale |
-
-Médecin généraliste (service de médecine polyvalente) |
-
-737 |
-
-CH Doullens |
-
-800000226 |
-
-Médecine générale |
-
-Médecin généraliste (service de médecine polyvalente) |
-
-738 |
-
-CH Ham |
-
-800000077 |
-
-Médecine générale |
-
-Médecin généraliste (addictologie) |
-
-739 |
-
-CH Pays d'Avesnes |
-
-590781795 |
-
-Médecine générale |
-
-Médecin généraliste (addictologie) |
-
-740 |
-
-CH Denain |
-
-590782165 |
-
-Médecine générale |
-
-Médecin généraliste (service de gériatrie) |
-
-741 |
-
-HD Felleries-Liessies |
-
-590781811 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-742 |
-
-CH Fourmies |
-
-590781662 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-743 |
-
-CH Hazebrouck |
-
-590000774 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-744 |
-
-CH Le Cateau Cambrésis |
-
-590781621 |
-
-Médecine générale |
-
-Médecin généraliste (addictologie) |
-
-745 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-746 |
-
-CH Roubaix |
-
-590782421 |
-
-Médecine générale |
-
-Médecin généraliste (service de gériatrie) |
-
-747 |
-
-CH Wattreloos |
-
-590782439 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-748 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Médecine intensive-réanimation (co-DES) |
-
-Médecin réanimateur |
-
-749 |
-
-CH Béthune |
-
-620000224 |
-
-Médecine intensive-réanimation (co-DES) |
-
-Médecin Réanimateur/ anesthésiste Réanimateur |
-
-750 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Médecine interne et immunologie clinique (co-DES) |
-
-Médecin Interniste |
-
-751 |
-
-CH Armentières |
-
-590000758 |
-
-Médecine interne et immunologie clinique (co-DES) |
-
-Médecin interniste |
-
-752 |
-
-CHU Amiens Picardie |
-
-800006124 |
-
-Médecine nucléaire |
-
-Médecin nucléaire |
-
-753 |
-
-Hôpital Maritime de Zuydcoote |
-
-590784245 |
-
-Médecine physique et de réadaptation |
-
-Médecin MPR |
-
-754 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-755 |
-
-CH Soissons |
-
-020000261 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-756 |
-
-CH Beauvais |
-
-600100713 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-757 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-758 |
-
-CH Arras |
-
-620100057 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-759 |
-
-CH Béthune |
-
-620000224 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-760 |
-
-CH Dunkerque |
-
-590781415 |
-
-Néphrologie |
-
-Médecin néphrologue |
-
-761 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Neurologie |
-
-Médecin neurologue |
-
-762 |
-
-CH Soissons |
-
-020000261 |
-
-Neurologie |
-
-Médecin neurologue |
-
-763 |
-
-CH Beauvais |
-
-600100713 |
-
-Neurologie |
-
-Médecin neurologue |
-
-764 |
-
-GHPSO |
-
-600101984 |
-
-Neurologie |
-
-Médecin neurologue |
-
-765 |
-
-CH Dunkerque |
-
-590781415 |
-
-Neurologie |
-
-Médecin neurologue |
-
-766 |
-
-CH Soissons |
-
-020000261 |
-
-Oncologie |
-
-Médecin oncologue |
-
-767 |
-
-CHRSO |
-
-620101360 |
-
-Oncologie |
-
-Médecin oncologue |
-
-768 |
-
-CH Valenciennes |
-
-590000618 |
-
-Ophtalmologie |
-
-Chirurgien ophtalmologue |
-
-769 |
-
-CH Laon |
-
-020000253 |
-
-ORL-chirurgie cervico-faciale |
-
-Chirurgien ORL |
-
-770 |
-
-CH Beauvais |
-
-600100713 |
-
-ORL-chirurgie cervico-faciale |
-
-Chirurgien ORL |
-
-771 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-772 |
-
-CH Laon |
-
-020000253 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-773 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Pédiatrie |
-
-Médecin pédiatre (service de néonatalogie et réanimation néonatale) |
-
-774 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Pédiatrie |
-
-Médecin pédiatre (service de néonatalogie et réanimation néonatale) |
-
-775 |
-
-CH Beauvais |
-
-600100713 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-776 |
-
-GHPSO |
-
-600101984 |
-
-Pédiatrie |
-
-Médecin pédiatre (service de néonatalogie et réanimation néonatale) |
-
-777 |
-
-CH de Boulogne/ Mer |
-
-620103440 |
-
-Pédiatrie |
-
-Médecin Pédiatre |
-
-778 |
-
-CH Lens |
-
-620000257 |
-
-Pédiatrie |
-
-Médecin pédiatre (service de néonatalogie) |
-
-779 |
-
-CH Béthune |
-
-620000224 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-780 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-781 |
-
-CH Valenciennes |
-
-590000618 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-782 |
-
-CH Soissons |
-
-020000261 |
-
-Pédiatrie |
-
-Médecin pédiatre (service de néonatalogie) |
-
-783 |
-
-CH Douai |
-
-590001004 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-784 |
-
-CH Douai |
-
-590001004 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-785 |
-
-GH Seclin Carvin |
-
-590780227 |
-
-Pédiatrie |
-
-Médecin pédiatre |
-
-786 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-787 |
-
-CH Chauny |
-
-020000287 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-788 |
-
-CH Soissons |
-
-020000261 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-789 |
-
-CH Compiègne-Noyon |
-
-600100721 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-790 |
-
-GHPSO |
-
-600101984 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-791 |
-
-CH Dunkerque |
-
-590781415 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-792 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Pneumologie |
-
-Médecin Pneumologue |
-
-793 |
-
-CH de Boulogne/ Mer |
-
-620103440 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-794 |
-
-CH Béthune |
-
-620000224 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-795 |
-
-CHRSO |
-
-620101360 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-796 |
-
-CH Abbeville |
-
-800000028 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-797 |
-
-HOPITAL VILLIERS SAINT DENIS |
-
-020000303 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-798 |
-
-CHU Amiens Picardie |
-
-800006124 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-799 |
-
-CH Armentières |
-
-590000758 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-800 |
-
-CH Saint Quentin |
-
-020000063 |
-
-psychiatrie |
-
-Médecin psychiatre |
-
-801 |
-
-EPSMD Prémontré |
-
-020000295 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-802 |
-
-EPSMD Prémontré |
-
-020000295 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-803 |
-
-EPSMD Prémontré |
-
-020000295 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-804 |
-
-CHI EPSM de l'Oise |
-
-600100028 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-805 |
-
-CHI EPSM de l'Oise |
-
-600100028 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-806 |
-
-CHI EPSM de l'Oise |
-
-600100028 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-807 |
-
-CH Arras |
-
-620100057 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-808 |
-
-CH Calais |
-
-620000323 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-809 |
-
-CHAM |
-
-620103432 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-810 |
-
-CH Lens |
-
-620000257 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-811 |
-
-CH Hénin-Beaumont |
-
-620000240 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-812 |
-
-EPSM IDAC de Camiers |
-
-620112607 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-813 |
-
-CH Péronne |
-
-800000093 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-814 |
-
-EPSM Somme |
-
-80000119 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-815 |
-
-EPSM Somme |
-
-80000119 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-816 |
-
-CH Denain |
-
-590782165 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-817 |
-
-CH Fourmies |
-
-590781662 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-818 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-819 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-820 |
-
-EPSM Lille Métropole |
-
-590000782 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-821 |
-
-EPSM des Flandres |
-
-590000790 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-822 |
-
-CH Château-Thierry |
-
-020004404 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-823 |
-
-CH Laon |
-
-020000253 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-824 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-825 |
-
-CH Beauvais |
-
-600100713 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-826 |
-
-CH Compiègne-Noyon |
-
-600100721 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-827 |
-
-CHAM |
-
-620103432 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-828 |
-
-CH Armentières |
-
-590000758 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-829 |
-
-CH Sambre Avesnois |
-
-5907811803 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-830 |
-
-CHG Clermont de l'Oise |
-
-600100648 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-831 |
-
-CH Arras |
-
-620100057 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-832 |
-
-CH Calais |
-
-620000323 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-833 |
-
-CH Abbeville |
-
-800000028 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-834 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Urologie |
-
-Chirurgien urologue |
-
-835 |
-
-CH Compiègne-Noyon |
-
-600100721 |
-
-Urologie |
-
-Chirurgien urologue |
-
-836 |
-
-CH Saint Quentin |
-
-020000063 |
-
-Urologie |
-
-Chirurgien urologue |
-
-837 |
-
-CHAM |
-
-620103432 |
-
-Urologie |
-
-Chirurgien urologue |
-
-838 |
-
-CH Valenciennes |
-
-590000618 |
-
-Urologie |
-
-Chirurgien urologue |
-
-839 |
-
-CH Valenciennes |
-
-590000618 |
-
-Urologie |
-
-Chirurgien urologue |
-
-Agence Régionale de Santé : |
-
-Île de France |
-
-Poste n° |
-
-Nom établissement |
-
-Code FINESS |
-
-Spécialité |
-
-Intitulé poste |
-
-840 |
-
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
-
-770000156 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-841 |
-
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
-
-770000156 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-842 |
-
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
-
-770000156 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-843 |
-
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
-
-770000156 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-844 |
-
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE-SITE FONTAINEBLEAU |
-
-770000149 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-845 |
-
-GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
-
-770000446 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-846 |
-
-GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
-
-770000446 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-847 |
-
-GRAND HOPITAL DE L EST FRANCILIEN-SITE COULOMMIERS |
-
-770000131 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-848 |
-
-GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
-
-770019032 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-849 |
-
-GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
-
-770019032 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-850 |
-
-CENTRE HOSPITALIER LEON BINET PROVINS |
-
-770000172 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-851 |
-
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
-
-780110011 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-852 |
-
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
-
-780110011 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-853 |
-
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
-
-780110011 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-854 |
-
-CENTRE HOSPITALIER DE VERSAILLES |
-
-780800256 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-855 |
-
-CENTRE HOSPITALIER DE VERSAILLES |
-
-780800256 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-856 |
-
-CTRE HOSPITA INTERCOM MEULAN LES MUREAUX |
-
-780000295 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-857 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
-
-780001236 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-858 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
-
-780001236 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-859 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
-
-780001236 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-860 |
-
-CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
-
-780001236 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
-
-861 |
-
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
-
-910000272 |
-
-Anesthésie réanimation |
-
-médecin anesthésiste-réanimateur |
+Libellé poste |
 
 862 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CH Lens |
 
-910110055 |
+|
 
-Anesthésie réanimation |
+Anatomie et cytologie pathologiques |
 
-médecin anesthésiste-réanimateur |
+HDF62-25 |
 
 863 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+Centre Hospitalier de Lens |
 
-910001973 |
+620100685 |
 
-Anesthésie réanimation |
+Anatomie et cytologie pathologiques |
 
-médecin anesthésiste-réanimateur |
+Anatomie et cytologie pathologiques |
 
 864 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+CH Château-Thierry |
 
-910001973 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF02-9 |
 
 865 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+CHG Clermont de l'Oise |
 
-910001973 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF60-14 |
 
 866 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Compiègne-Noyon |
 
-910020254 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF60-18 |
 
 867 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Arras |
 
-910020254 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF62-01 |
 
 868 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH de Boulogne/ Mer |
 
-910020254 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF62-07 |
 
 869 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CHAM |
 
-910020254 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF62-17 |
 
 870 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SAINT CLOUD |
+CH Béthune |
 
-920000619 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF62-28 |
 
 871 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Abbeville |
 
-930110051 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF80-01 |
 
 872 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Dunkerque |
 
-930110051 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF59-03 |
 
 873 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Denain |
 
-930110051 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF59-13 |
 
 874 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+GH Seclin Carvin |
 
-930110051 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF59-44 |
 
 875 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Valenciennes |
 
-930000286 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF59-46 |
 
 876 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+GHPSO |
 
-930000286 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF60-34 |
 
 877 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Calais |
 
-930000286 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+HDF62-47 |
 
 878 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Laon |
 
-930000286 |
+|
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+Médecin Anesthésiste Réanimateur |
 
 879 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+Centre hospitalier de Soissons |
 
-930110069 |
+20000261 |
 
-Anesthésie réanimation |
+Anesthésie-réanimation (co-DES) |
 
-médecin anesthésiste-réanimateur |
+|
 
 880 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+CH Calais |
 
-930110069 |
+|
 
-Anesthésie réanimation |
+Biologie médicale |
 
-médecin anesthésiste-réanimateur |
+HDF62-10 |
 
 881 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH Beauvais |
 
-930110036 |
+|
 
-Anesthésie réanimation |
+Chirurgie orthopédique et traumatologique |
 
-médecin anesthésiste-réanimateur |
+HDF60-11 |
 
 882 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH Arras |
 
-930110036 |
+|
 
-Anesthésie réanimation |
+Chirurgie orthopédique et traumatologique |
 
-médecin anesthésiste-réanimateur |
+|
 
 883 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH Château-Thierry |
 
-930110036 |
+|
 
-Anesthésie réanimation |
+Endocrinologie-diabétologie-nutrition |
 
-médecin anesthésiste-réanimateur |
+HDF02-10 |
 
 884 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Calais |
 
-940110042 |
+|
 
-Anesthésie réanimation |
+Endocrinologie-diabétologie-nutrition |
 
-médecin anesthésiste-réanimateur |
+HDF62-11 |
 
 885 |
 
-HOPITAL SAINT CAMILLE |
+CHAM |
 
-940000649 |
+|
 
-Anesthésie réanimation |
+Endocrinologie-diabétologie-nutrition |
 
-médecin anesthésiste-réanimateur |
+HDF62-18 |
 
 886 |
 
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+CH Béthune |
 
-950000323 |
+|
 
-Anesthésie réanimation |
+Endocrinologie-diabétologie-nutrition |
 
-médecin anesthésiste-réanimateur |
+HDF62-29 |
 
 887 |
 
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+CH Château-Thierry |
 
-950000323 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF02-6 |
 
 888 |
 
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+CH Chauny |
 
-950000323 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF02-13 |
 
 889 |
 
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+CH Laon |
 
-950000323 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF02-20 |
 
 890 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Laon |
 
-950110049 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF02-21 |
 
 891 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Beauvais |
 
-950110049 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF60-02 |
 
 892 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Compiègne-Noyon |
 
-950110049 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF60-15 |
 
 893 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CH Compiègne-Noyon |
 
-950110015 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF60-16 |
 
 894 |
 
-CLINIQUE CONTI |
+GHPSO |
 
-950300202 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF60-27 |
 
 895 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+GHPSO |
 
-950110080 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF60-28 |
 
 896 |
 
-APHP-HOPITAL PITIE SALPETRIERE |
+CH Calais |
 
-750100125 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF62-12 |
 
 897 |
 
-APHP-HOPITAL PITIE SALPETRIERE |
+CHAM |
 
-750100125 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF62-15 |
 
 898 |
 
-APHP-HOPITAL ANTOINE BECLERE |
+CH Lens |
 
-920100021 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF62-26 |
 
 899 |
 
-APHP-HOPITAL AVICENNE |
+CH Hénin-Beaumont |
 
-930100037 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF62-33 |
 
 900 |
 
-APHP-HOPITAL SAINT ANTOINE |
+CH Doullens |
 
-750100091 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF80-05 |
 
 901 |
 
-APHP-HOPITAL SAINT ANTOINE |
+CHI Baie de Somme |
 
-750100091 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF80-09 |
 
 902 |
 
-APHP-HOPITAL HENRI MONDOR |
+CH Armentières |
 
-940100027 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF59-11 |
 
 903 |
 
-APHP-HOPITAL HENRI MONDOR |
+CH Denain |
 
-940100027 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF59-15 |
 
 904 |
 
-APHP-HOPITAL BICHAT |
+CH Fourmies |
 
-750100232 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF59-26 |
 
 905 |
 
-APHP-HOPITAL LOUIS MOURIER |
+GH Loos Haubourdin |
 
-920100047 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF59-31 |
 
 906 |
 
-APHP-HOPITAL SAINT LOUIS |
+CH Sambre Avesnois |
 
-750100075 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF59-32 |
 
 907 |
 
-APHP-HOPITAL COCHIN |
+CH Chauny |
 
-750100166 |
+|
 
-Anesthésie réanimation |
+Gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF02-50 |
 
 908 |
 
-APHP-HOPITAL COCHIN |
+CH Saint Quentin |
 
-750100166 |
+|
 
-Anesthésie réanimation |
+gériatrie |
 
-médecin anesthésiste-réanimateur |
+HDF02-56 |
 
 909 |
 
-GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+CH Soissons |
 
-770000131 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF02-60 |
 
 910 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CHG Clermont de l'Oise |
 
-770000156 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF60-32 |
 
 911 |
 
-CENTRE HOSPITALIER DE PLAISIR HOPITAL GENERAL PLAISIR |
+CH Arras |
 
-780000303 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF62-43 |
 
 912 |
 
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
+CH Béthune |
 
-780110011 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF62-53 |
 
 913 |
 
-CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+CHRSO |
 
-920000577 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF62-55 |
 
 914 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH Abbeville |
 
-930110036 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF80-14 |
 
 915 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+BTP RMS Le TILLET |
 
-930000286 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+HDF60-40 |
 
 916 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Roubaix |
 
-930110051 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
 917 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+CH DE LA REGION DE SAINT-OMER |
 
-940000573 |
+620101360 |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
 918 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+Centre Hospitalier Georges Decroze |
 
-940110042 |
+600100127 |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
 919 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Chauny |
 
-950110080 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF02-14 |
 
 920 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Laon |
 
-950110049 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF02-26 |
 
 921 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL JOFFRE DRAVEIL |
+CH Saint Quentin |
 
-910100023 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF02-30 |
 
 922 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL JOFFRE DRAVEIL |
+CH Beauvais |
 
-910100023 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF60-01 |
 
 923 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL EMILE ROUX |
+CH Arras |
 
-940802317 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF62-02 |
 
 924 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL BROCA |
+CH Arras |
 
-750801441 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF62-03 |
 
 925 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL BROCA |
+CH Abbeville |
 
-750801441 |
+|
 
-Gériatrie |
+Gynécologie-obstétrique |
 
-Médecin gériatre |
+HDF80-03 |
 
 926 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Armentières |
 
-770000156 |
+|
 
-Gynécologie médicale |
+Gynécologie-obstétrique |
 
-médecin gynécologue-médicale |
+HDF59-07 |
 
 927 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Denain |
 
-770000156 |
+|
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+HDF59-18 |
 
 928 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Fourmies |
 
-770000156 |
+|
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+HDF59-23 |
 
 929 |
 
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE/ SITE FONTAINEBLEAU |
+CH Hazebrouck |
 
-770000149 |
+|
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+HDF59-27 |
 
 930 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH Hazebrouck |
 
-910000272 |
+|
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+HDF59-28 |
 
 931 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+Centre Hospîtalier de Béthune-Beuvry |
 
-910110055 |
+620100651 |
+
+Gynécologie-obstétrique |
 
 Gynécologie obstétrique |
-
-médecin gynécologue-obstétricien |
 
 932 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CENTRE HOSPITALIER DE L'ARRONDISSEMENT DE MONTREUIL-SUR-MER |
 
-910020254 |
+620103432 |
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+|
 
 933 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Armentières |
 
-930110051 |
+590782637 |
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+|
 
 934 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Armentières |
 
-930110051 |
+590782637 |
 
-Gynécologie obstétrique |
+Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+|
 
 935 |
 
-CLINIQUE DE L ESTREE |
+CH DE LA REGION DE SAINT-OMER |
 
-930300553 |
+620101360 |
 
-Gynécologie obstétrique |
+gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+|
 
 936 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Saint Quentin |
 
-930000286 |
+|
 
-Gynécologie obstétrique |
+Hématologie |
 
-médecin gynécologue-obstétricien |
+HDF02-34 |
 
 937 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Beauvais |
 
-930000286 |
+|
 
-Gynécologie obstétrique |
+Hématologie |
 
-médecin gynécologue-obstétricien |
+HDF60-04 |
 
 938 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+Centre Hospitalier de Saint-Quentin |
 
-930110069 |
+|
 
-Gynécologie obstétrique |
+Hématologie |
 
-médecin gynécologue-obstétricien |
+|
 
 939 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+CH Château-Thierry |
 
-930110069 |
+|
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+HDF02-5 |
 
 940 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Chauny |
 
-940110042 |
+|
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+HDF02-15 |
 
 941 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Laon |
 
-940110042 |
+|
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+HDF02-23 |
 
 942 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CHAM |
 
-950110049 |
+|
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+HDF62-19 |
 
 943 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+GH Seclin Carvin |
 
-950110049 |
+|
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+HDF59-45 |
 
 944 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Laon |
 
-950110049 |
+|
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+Médecin gastroentérologue |
 
 945 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Compiègne-Noyon |
 
-950110080 |
+600100721 |
 
-Gynécologie obstétrique |
+Hépato-gastro-entérologie |
 
-médecin gynécologue-obstétricien |
+|
 
 946 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Abbeville |
 
-770000156 |
+|
 
-Maladies infectieuses et maladies tropicales |
+Hépato-gastro-entérologie |
 
-Médecin infectiologue |
+Gastro-Entérologue |
 
 947 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Fourmies |
 
-950110049 |
+|
 
-Maladies infectieuses et maladies tropicales |
+Maïeutique |
 
-Médecin infectiologue |
+HDF59-25 |
 
 948 |
 
-FONDATION HOPITAL SAINT JOSEPH |
+CH Sambre Avesnois |
 
-750000523 |
+|
 
-Médecine d'urgence |
+Maïeutique |
 
-médecin urgentiste |
+HDF59-41 |
 
 949 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Denain |
 
-770000156 |
+|
 
-Médecine d'urgence |
+Maladies infectieuses et tropicales (co-DES) |
 
-médecin urgentiste |
+HDF59-17 |
 
 950 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+Centre Hospitalier de Douai |
 
-770000156 |
+|
 
-Médecine d'urgence |
+Maladies infectieuses et tropicales (co-DES) |
 
-médecin urgentiste |
+Praticien en maladies infectieuses et tropicales |
 
 951 |
 
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE/ SITE FONTAINEBLEAU |
+CH Château-Thierry |
 
-770000149 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF02-8 |
 
 952 |
 
-GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
+CH Chauny |
 
-770000446 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF02-16 |
 
 953 |
 
-GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
+CH Saint Quentin |
 
-770000446 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF02-32 |
 
 954 |
 
-CENTRE HOSPITALIER GENERAL RAMBOUILLET |
+CH Beauvais |
 
-780000329 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF60-06 |
 
 955 |
 
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
+CH Arras |
 
-780110011 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF62-06 |
 
 956 |
 
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
+CHAM |
 
-780110011 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF62-14 |
 
 957 |
 
-CENTRE HOSPITALIER DE VERSAILLES |
+CH Douai |
 
-780800256 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF59-02 |
 
 958 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+CH Laon |
 
-780001236 |
+|
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+Médecin cardiologue |
 
 959 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+Centre Hospitalier de CORBIE |
 
-910000272 |
+800000051 |
 
-Médecine d'urgence |
+Médecine cardiovasculaire (co-DES) |
 
-médecin urgentiste |
+HDF80-09 |
 
 960 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH DUNKERQUE |
 
-910000272 |
+|
 
-Médecine d'urgence |
-
-médecin urgentiste |
+Médecine cardiovasculaire (co-DES) |
 
 961 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CH DUNKERQUE |
 
-910110055 |
+|
 
-Médecine d'urgence |
-
-médecin urgentiste |
+Médecine cardiovasculaire (co-DES) |
 
 962 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+CH Beauvais |
 
-910001973 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+HDF60-09 |
 
 963 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH de Boulogne/ Mer |
 
-910020254 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+HDF62-08 |
 
 964 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+GHPSO |
 
-910020254 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+HDF60-41 |
 
 965 |
 
-FONDATION COGNACQ JAY-INSTITUT FRANCO BRITANNIQUE KLEBER-LEVALLOIS |
+CHRSO |
 
-920000643 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+HDF62-36 |
 
 966 |
 
-CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+CH Fourmies |
 
-920000577 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+HDF59-21 |
 
 967 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Arras |
 
-930110051 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+|
 
 968 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+Centre Hospitalier de Lens |
 
-930110051 |
+620100685 |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+Médecine d'urgence |
 
 969 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Château-Thierry |
 
-930110051 |
+020001060 |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+|
 
 970 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Château-Thierry |
 
-930000286 |
+020001060 |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+|
 
 971 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+CH Beauvais |
 
-930110069 |
+600 100 713 |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+|
 
 972 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+CH Laon |
 
-930110069 |
+|
 
 Médecine d'urgence |
 
-médecin urgentiste |
+|
 
 973 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH DE LA REGION DE SAINT-OMER |
 
-930110036 |
+620101360 |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+|
 
 974 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Chauny |
 
-940110042 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF02-17 |
 
 975 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+CHG La Fère |
 
-940000573 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF02-19 |
 
 976 |
 
-HOPITAL SAINT CAMILLE |
+CH Laon |
 
-940000649 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF02-25 |
 
 977 |
 
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+CH Beauvais |
 
-950000323 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF60-05 |
 
 978 |
 
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+CH Beauvais |
 
-950000323 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF60-07 |
 
 979 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+GHPSO |
 
-950110049 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF60-29 |
 
 980 |
 
-GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+GHPSO |
 
-950001370 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF60-31 |
 
 981 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CHRSO |
 
-950110015 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF62-38 |
 
 982 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CH Abbeville |
 
-950110015 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF80-02 |
 
 983 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CH Doullens |
 
-950110015 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF80-06 |
 
 984 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Pays d'Avesnes |
 
-950110080 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF59-12 |
 
 985 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Denain |
 
-950110080 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF59-16 |
 
 986 |
 
-APHP-HOPITAL LE KREMLIN BICETRE |
+HD Felleries-Liessies |
 
-940100043 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF59-20 |
 
 987 |
 
-APHP-HOPITAL LE KREMLIN BICETRE |
+CH Fourmies |
 
-940100043 |
+|
 
-Médecine d'urgence |
+Médecine générale |
 
-médecin urgentiste |
+HDF59-22 |
 
 988 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Hazebrouck |
 
-770000156 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+HDF59-29 |
 
 989 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Le Cateau Cambrésis |
 
-770000156 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+HDF59-30 |
 
 990 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Sambre Avesnois |
 
-770000156 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+HDF59-33 |
 
 991 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Roubaix |
 
-770000156 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+HDF59-43 |
 
 992 |
 
-GROUPE HOSPITALIER DU SUD ILE DE France-site BRIE COMTE ROBERT |
+CH Wattreloos |
 
-770000180 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+HDF59-48 |
 
 993 |
 
-MGEN ACTION SANITAIRE ET SOCIALE/ INSTITUT MARCEL RIVIERE LA VERRIERE |
+CH de Boulogne/ Mer |
 
-780140018 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+|
 
 994 |
 
-CENTRE MEDICAL PORTE VERTE CMPV/ HOPITAL PORTE VERTE VERSAILLES |
+CH de Boulogne/ Mer |
 
-780150066 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+|
 
 995 |
 
-CENTRE MEDICAL PORTE VERTE CMPV/ HOPITAL PORTE VERTE VERSAILLES |
+CH Laon |
 
-780150066 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+Médecin généraliste SAU |
 
 996 |
 
-CENTRE HOSPITALIER DE PLAISIR/ HOPITAL GENERAL PLAISIR |
+CH Laon |
 
-780000303 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+Médecin généraliste médecine interne |
 
 997 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+Centre Hospitalier de Chauny |
 
-910140029 |
+|
 
 Médecine générale |
 
-médecin généraliste |
+|
 
 998 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CH Le Quesnoy |
 
-910140029 |
+|
 
-Médecine générale |
+Médecine Générale |
 
-médecin généraliste |
+Praticien dans le service de Médecine Polyvalente |
 
 999 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH Château-Thierry |
 
-910000272 |
+020001060 |
 
 Médecine générale |
 
-médecin généraliste |
+|
 
 1000 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH Château-Thierry |
 
-910000272 |
+020001060 |
 
 Médecine générale |
 
-médecin généraliste |
+|
 
 1001 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH Saint Quentin |
 
-910000272 |
+|
 
-Médecine générale |
+Médecine intensive-réanimation (co-DES) |
 
-médecin généraliste |
+HDF02-31 |
 
 1002 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH Béthune |
 
-910000272 |
+|
 
-Médecine générale |
+Médecine intensive-réanimation (co-DES) |
 
-médecin généraliste |
+HDF62-27 |
 
 1003 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+Centre hospitalier de Soissons |
 
-910110055 |
+20000261 |
 
-Médecine générale |
+Médecine intensive-réanimation (co-DES) |
 
-médecin généraliste |
+|
 
 1004 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CH DE LA REGION DE SAINT-OMER |
 
-910110055 |
+620101360 |
 
-Médecine générale |
+Médecine intensive-réanimation (co-DES) |
 
-médecin généraliste |
+|
 
 1005 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+CH Sambre Avesnois |
 
-910001973 |
+|
 
-Médecine générale |
+Médecine interne et immunologie clinique (co-DES) |
 
-médecin généraliste |
+HDF59-35 |
 
 1006 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+CHU Amiens Picardie |
 
-910001973 |
+|
 
-Médecine générale |
+Médecine nucléaire |
 
-médecin généraliste |
+HDF80-22 |
 
 1007 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+Hôpital Maritime de Zuydcoote |
 
-910001973 |
+|
 
-Médecine générale |
+Médecine physique et de réadaptation |
 
-médecin généraliste |
+HDF59-06 |
 
 1008 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Château-Thierry |
 
-910020254 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF02-12 |
 
 1009 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Soissons |
 
-910020254 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF02-38 |
 
 1010 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Beauvais |
 
-910020254 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF60-13 |
 
 1011 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Sambre Avesnois |
 
-910020254 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF59-42 |
 
 1012 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CH Arras |
 
-910020254 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF62-41 |
 
 1013 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE DOURDAN |
+CH Béthune |
 
-910000280 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF62-60 |
 
 1014 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE DOURDAN |
+CH Dunkerque |
 
-910000280 |
+|
 
-Médecine générale |
+Néphrologie |
 
-médecin généraliste |
+HDF59-71 |
 
 1015 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE DOURDAN |
+CH Château-Thierry |
 
-910000280 |
+|
 
-Médecine générale |
+Neurologie |
 
-médecin généraliste |
+HDF02-11 |
 
 1016 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+CH Soissons |
 
-920000627 |
+|
 
-Médecine générale |
+Neurologie |
 
-médecin généraliste |
+HDF02-39 |
 
 1017 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+CH Beauvais |
 
-920000627 |
+|
 
-Médecine générale |
+Neurologie |
 
-médecin généraliste |
+HDF60-12 |
 
 1018 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+GHPSO |
 
-920000627 |
+|
 
-Médecine générale |
+Neurologie |
 
-médecin généraliste |
+HDF60-25 |
 
 1019 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+CH Dunkerque |
 
-920000627 |
+|
 
-Médecine générale |
+Neurologie |
 
-médecin généraliste |
+HDF59-05 |
 
 1020 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+CH Soissons |
 
-920000627 |
+|
 
-Médecine générale |
+Oncologie |
 
-médecin généraliste |
+HDF02-40 |
 
 1021 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+CHRSO |
 
-920000627 |
+|
 
-Médecine générale |
+Oncologie |
 
-médecin généraliste |
+HDF62-39 |
 
 1022 |
 
-CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+Centre Hospitalier de Valenciennes |
 
-920000627 |
+|
 
-Médecine générale |
+Oncologie |
 
-médecin généraliste |
+|
 
 1023 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+Centre Hospitalier de Valenciennes |
 
-930000286 |
+|
 
-Médecine générale |
+Oncologie |
 
-médecin généraliste |
+|
 
 1024 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Valenciennes |
 
-930000286 |
+|
 
-Médecine générale |
+Ophtalmologie |
 
-médecin généraliste |
+HDF59-82 |
 
 1025 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Laon |
 
-930000286 |
+|
 
-Médecine générale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
-médecin généraliste |
+HDF02-22 |
 
 1026 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Beauvais |
 
-930000286 |
+|
 
-Médecine générale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
-médecin généraliste |
+HDF60-03 |
 
 1027 |
 
-ETS PUBLIC DE SANTE DE VILLE-EVRARD |
+Centre hospitalier de Soissons |
 
-930140025 |
+20000261 |
 
-Médecine générale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
-médecin généraliste |
+|
 
 1028 |
 
-ETS PUBLIC DE SANTE DE VILLE-EVRARD |
+CH Château-Thierry |
 
-930140025 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF02-1 |
 
 1029 |
 
-LES HOPITAUX DE SAINT MAURICE |
+CH Laon |
 
-940016819 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF02-24 |
 
 1030 |
 
-HOPITAL SAINT CAMILLE |
+CH Saint Quentin |
 
-940000649 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF02-28 |
 
 1031 |
 
-HOPITAL SAINT CAMILLE |
+CH Saint Quentin |
 
-940000649 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF02-29 |
 
 1032 |
 
-HOPITAL SAINT CAMILLE |
+CH Beauvais |
 
-940000649 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF60-08 |
 
 1033 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+GHPSO |
 
-950110049 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF60-26 |
 
 1034 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH de Boulogne/ Mer |
 
-950110049 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF62-09 |
 
 1035 |
 
-GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+CH Lens |
 
-950001370 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF62-23 |
 
 1036 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CH Béthune |
 
-950110015 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF62-30 |
 
 1037 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CH Sambre Avesnois |
 
-950110015 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF59-36 |
 
 1038 |
 
-CENTRE HOSPITALIER VICTOR DUPOUY |
+CH Valenciennes |
 
-950110015 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF59-47 |
 
 1039 |
 
-CLINIQUE CONTI |
+CH Soissons |
 
-950300202 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF02-59 |
 
 1040 |
 
-APHP-HOPITAL JEAN VERDIER |
+CH Douai |
 
-930100045 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF59-69 |
 
 1041 |
 
-APHP-HOPITAL LE KREMLIN BICETRE |
+CH Douai |
 
-940100043 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF59-70 |
 
 1042 |
 
-APHP-HOPITAL LE KREMLIN BICETRE |
+GH Seclin Carvin |
 
-940100043 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+HDF59-77 |
 
 1043 |
 
-APHP-LIANCOURT |
+CH Compiègne-Noyon |
 
-600100101 |
+600100721 |
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+|
 
 1044 |
 
-APHP-HOPITAL MURET SEVRAN |
+CH Compiègne-Noyon |
 
-930100011 |
+600100721 |
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+|
 
 1045 |
 
-APHP-HOPITAL CHENEVIER CRETEIL |
+GHPSO |
 
-940100019 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+Pédiatre |
 
 1046 |
 
-APHP-HOPITAL BICHAT |
+GHPSO |
 
-750100232 |
+|
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+Pédiatre |
 
 1047 |
 
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE/ SITE MONTEREAU |
+CHU Lille |
 
-770000164 |
+590780193 |
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+|
 
 1048 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CHU Lille |
 
-930110036 |
+590780194 |
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+|
 
 1049 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CHU Lille |
 
-930110036 |
+590780194 |
 
-Médecine générale |
+Pédiatrie |
 
-médecin généraliste |
+|
 
 1050 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH Château-Thierry |
 
-930110036 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF02-2 |
 
 1051 |
 
-CENTRE HOSPITALIER INTERCOM GREGOIRE |
+CH Chauny |
 
-930110036 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF02-18 |
 
 1052 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Soissons |
 
-940110042 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF02-37 |
 
 1053 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Compiègne-Noyon |
 
-940110042 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF60-20 |
 
 1054 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+GHPSO |
 
-950110080 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF60-30 |
 
 1055 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Dunkerque |
 
-950110080 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF59-04 |
 
 1056 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Sambre Avesnois |
 
-950110080 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF59-37 |
 
 1057 |
 
-APHP-HOPITAL ROTHSCHILD |
+CH Béthune |
 
-750100083 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF62-51 |
 
 1058 |
 
-APHP-HOPITAL CHARLES FOIX IVRY |
+CHRSO |
 
-940100035 |
+|
 
-Médecine générale |
+Pneumologie |
 
-médecin généraliste |
+HDF62-57 |
 
 1059 |
 
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE SITE NEMOURS |
+CH Abbeville |
 
-770000214 |
+|
 
-Médecine interne et immunologie clinique |
+Pneumologie |
 
-Médecin interniste |
+HDF80-15 |
 
 1060 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+HOPITAL VILLIERS SAINT DENIS |
 
-770000156 |
+|
 
-Médecine interne et immunologie clinique |
+Pneumologie |
 
-Médecin interniste |
+HDF02-67 |
 
 1061 |
 
-CENTRE HOSPITALIER FRANCOIS QUESNAY |
+CHU Amiens Picardie |
 
-780110011 |
+|
 
-Médecine interne et immunologie clinique |
+Pneumologie |
 
-Médecin interniste |
+HDF80-20 |
 
 1062 |
 
-CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+CH Armentières |
 
-920000577 |
+|
 
-Médecine interne et immunologie clinique |
+Pneumologie |
 
-Médecin interniste |
+HDF59-73 |
 
 1063 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Beauvais |
 
-930110051 |
+600 100 713 |
 
-Médecine interne et immunologie clinique |
+pneumologie |
 
-Médecin interniste |
+pneumologue |
 
 1064 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL LOUIS MOURIER |
+CH Beauvais |
 
-920100047 |
+600 100 713 |
 
-Médecine interne et immunologie clinique |
+pneumologie |
 
-Médecin interniste |
+pneumologue |
 
 1065 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS KREMLIN BICETRE |
+CH Saint Quentin |
 
-940100043 |
+|
 
-Médecine interne et immunologie clinique |
+psychiatrie |
 
-Médecin interniste |
+HDF02-36 |
 
 1066 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+EPSMD Prémontré |
 
-770000156 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF02-43 |
 
 1067 |
 
-FONDATION COGNACQ JAY/ HOPITAL FORCILLES |
+EPSMD Prémontré |
 
-770020477 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF02-44 |
 
 1068 |
 
-GRAND HOPITAL DE L EST FRANCILIEN/ SITE SAINT FARON/ MEAUX |
+EPSMD Prémontré |
 
-770000446 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF02-45 |
 
 1069 |
 
-CENTRE HOSPITALIER GENERAL RAMBOUILLET |
+CHI EPSM de l'Oise |
 
-780000329 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF60-21 |
 
 1070 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CHI EPSM de l'Oise |
 
-910000272 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF60-22 |
 
 1071 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CHI EPSM de l'Oise |
 
-930000286 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF60-23 |
 
 1072 |
 
-GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+CH Arras |
 
-930000286 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF62-04 |
 
 1073 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Calais |
 
-940110042 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF62-13 |
 
 1074 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CHAM |
 
-950110049 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF62-20 |
 
 1075 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Lens |
 
-950110049 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF62-24 |
 
 1076 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Hénin-Beaumont |
 
-950110049 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF62-31 |
 
 1077 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+EPSM IDAC de Camiers |
 
-950110080 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF62-34 |
 
 1078 |
 
-APHP-HOPITAL HENRI MONDOR |
+CH Péronne |
 
-940100027 |
+|
 
-Médecine intensive et réanimation |
+Psychiatrie |
 
-médecin médecine intensive et réanimateur |
+HDF80-08 |
 
 1079 |
 
-INSTITUT GUSTAVE ROUSSY |
+EPSM Somme |
 
-940000664 |
+|
 
-Oncologie |
+Psychiatrie |
 
-Médecin oncologue radiothérapie |
+HDF80-10 |
 
 1080 |
 
-INSTITUT GUSTAVE ROUSSY |
+EPSM Somme |
 
-940000664 |
+|
 
-Oncologie |
+Psychiatrie |
 
-Médecin oncologue |
+HDF80-11 |
 
 1081 |
 
-INSTITUT GUSTAVE ROUSSY |
+CH Denain |
 
-940000664 |
+|
 
-Oncologie |
+Psychiatrie |
 
-Médecin oncologue |
+HDF59-14 |
 
 1082 |
 
-GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+CH Fourmies |
 
-770000131 |
+|
 
-Pédiatrie |
+Psychiatrie |
 
-Médecin pédiatre |
+HDF59-24 |
 
 1083 |
 
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE SITE FONTAINEBLEAU |
+CH Sambre Avesnois |
 
-770000149 |
+|
 
-Pédiatrie |
+Psychiatrie |
 
-Médecin pédiatre |
+HDF59-38 |
 
 1084 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Sambre Avesnois |
 
-770000156 |
+|
 
-Pédiatrie |
+Psychiatrie |
 
-Médecin pédiatre |
+HDF59-39 |
 
 1085 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+EPSM Lille Métropole |
 
-910020254 |
+|
 
-Pédiatrie |
+Psychiatrie |
 
-Médecin pédiatre |
+HDF59-49 |
 
 1086 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+EPSM des Flandres |
 
-910020254 |
+|
 
-Pédiatrie |
+Psychiatrie |
 
-Médecin pédiatre |
+HDF59-50 |
 
 1087 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+EPSM de l'Agglomération Lilloise |
 
-910110055 |
+|
 
-Pédiatrie |
+Psychiatrie |
 
-Médecin pédiatre |
+|
 
 1088 |
 
-CENTRE HOSPITALIER GENERAL D'ARPAJON |
+CH Château-Thierry |
 
-910000272 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF02-7 |
 
 1089 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+CH Laon |
 
-930110051 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF02-27 |
 
 1090 |
 
-CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+CH Saint Quentin |
 
-940110042 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF02-35 |
 
 1091 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Beauvais |
 
-950110080 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF60-10 |
 
 1092 |
 
-CENTRE HOSPITALIER RENE DUBOS |
+CH Compiègne-Noyon |
 
-950110080 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF60-17 |
 
 1093 |
 
-GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+CHAM |
 
-950001370 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF62-16 |
 
 1094 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Armentières |
 
-950110049 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF59-10 |
 
 1095 |
 
-CENTRE HOSPITALIER GENERAL GONESSE |
+CH Sambre Avesnois |
 
-950110049 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF59-40 |
 
 1096 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL ROBERT DEBRE |
+CHG Clermont de l'Oise |
 
-750801797 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF60-33 |
 
 1097 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL LOUIS MOURIER |
+CH Arras |
 
-920100047 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF62-42 |
 
 1098 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL BICHAT |
+CH Calais |
 
-750100232 |
+|
 
-Pédiatrie |
+Radiologie et imagerie médicale |
 
-Médecin pédiatre |
+HDF62-58 |
 
 1099 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Abbeville |
 
-770000156 |
+|
 
-Psychiatrie |
+Radiologie et imagerie médicale |
 
-médecin psychiatre |
+HDF80-19 |
 
 1100 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH de Boulogne/ Mer |
 
-770000156 |
+|
 
-Psychiatrie |
+Radiologie et Imagerie Médicale |
 
-médecin psychiatre |
+|
 
 1101 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Compiègne-Noyon |
 
-770000156 |
+|
 
-Psychiatrie |
+Urologie |
 
-médecin psychiatre |
+HDF60-19 |
 
 1102 |
 
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+CH Saint Quentin |
 
-770000156 |
+|
 
-Psychiatrie |
+Urologie |
 
-médecin psychiatre |
+HDF02-63 |
 
 1103 |
 
-FONDATION SANTE DES ETUDIANTS DE France/ CMPA NEUFMOUTIERS |
+CHAM |
 
-770150027 |
+|
 
-Psychiatrie |
+Urologie |
 
-médecin psychiatre |
+HDF62-59 |
 
 1104 |
 
-GRAND HOPITAL DE L EST FRANCILIEN |
+CH Valenciennes |
 
-770000446 |
+|
 
-Psychiatrie |
+Urologie |
 
-médecin psychiatre |
+HDF59-83 |
 
 1105 |
 
-GRAND HOPITAL DE L EST FRANCILIEN |
+Centre Hospitalier de Lens |
 
-770000131 |
+620100685 |
 
-Psychiatrie |
+Urologie |
 
-médecin psychiatre |
+Urologie |
 
 1106 |
 
-GRAND HOPITAL DE L EST FRANCILIEN |
+CH Beauvais |
 
-770019032 |
+600 100 713 |
 
-Psychiatrie |
+Urologie |
 
-médecin psychiatre |
+urologie |
+
+Agence Régionale de Santé : |
+
+Ile-de-France |
+
+Poste n° |
+
+Nom établissement |
+
+Code FINESS (EJ) |
+
+Spécialité |
+
+Libellé poste |
 
 1107 |
 
-MGEN ACTION SANITAIRE ET SOCIALE/ INSTITUT MARCEL RIVIERE LA VERRIERE |
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SAINT CLOUD |
 
-780140018 |
+920009909 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CH4V ST CLOUD-AR-01 |
 
 1108 |
 
-MGEN ACTION SANITAIRE ET SOCIALE/ INSTITUT MARCEL RIVIERE LA VERRIERE |
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE-SITE FONTAINEBLEAU |
 
-780140018 |
+770021152 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHS77-Fontainebleau-AR-01 |
 
 1109 |
 
@@ -11188,291 +11184,4815 @@ CENTRE HOSPITALIER FRANCOIS QUESNAY |
 
 780110011 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHMANTES-AR-01 |
 
 1110 |
 
-CENTRE HOSPITALIER DE VERSAILLES |
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
 
-780800256 |
+780110011 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHMANTES-AR-02 |
 
 1111 |
 
-CLINIQUE D'YVELINE |
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
 
-780140042 |
+780110011 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHMANTES-AR-03 |
 
 1112 |
 
-CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
 
-780000402 |
+910110014 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHARPAJON-AR-01 |
 
 1113 |
 
-CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
-780000402 |
+930110051 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSDENIS-AR--01 |
 
 1114 |
 
-CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
-780000402 |
+930110051 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSDENIS-AR--02 |
 
 1115 |
 
-CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
-780000402 |
+930110051 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSDENIS-AR--03 |
 
 1116 |
 
-CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
-780000402 |
+930110051 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSDENIS-AR--04 |
 
 1117 |
 
-CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+CENTRE HOSPITALIER GENERAL GONESSE |
 
-780140059 |
+950110049 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHGONESSE-AR-01 |
 
 1118 |
 
-CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+CENTRE HOSPITALIER GENERAL GONESSE |
 
-780140059 |
+950110049 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHGONESSE-AR-02 |
 
 1119 |
 
-CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+CENTRE HOSPITALIER GENERAL GONESSE |
 
-780140059 |
+950110049 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHGONESSE-AR-03 |
 
 1120 |
 
-CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
 
-780140059 |
+930110036 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHMONTREUIL-AR-01 |
 
 1121 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
 
-910140029 |
+930110036 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHMONTREUIL-AR-02 |
 
 1122 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
 
-910140029 |
+930110036 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHMONTREUIL-AR-03 |
 
 1123 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
 
-910140029 |
+780001236 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHPSG-AR-01 |
 
 1124 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
 
-910140029 |
+780001236 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHPSG-AR-02 |
 
 1125 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
 
-910140029 |
+780001236 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHPSG-AR-03 |
 
 1126 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
 
-910140029 |
+780001236 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHPSG-AR-04 |
 
 1127 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
 
-910140029 |
+940110042 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHIVSG-AR-01 |
 
 1128 |
 
-ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+CENTRE HOSPITALIER LEON BINET PROVINS |
 
-910140029 |
+770110070 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+GHPROVINS-AR-01 |
 
 1129 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CENTRE HOSPITALIER RENE DUBOS |
 
-910110055 |
+950110080 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHPONTOISE-AR-01 |
 
 1130 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
 
-910110055 |
+910019447 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSE-ETAMPES-AR-01 |
 
 1131 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
 
-910110055 |
+910019447 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSE-ETAMPES-AR-02 |
 
 1132 |
 
-GROUPE HOSPITALIER NORD ESSONNE |
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
 
-910110055 |
+910019447 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSE-ETAMPES-AR-03 |
 
 1133 |
 
 CENTRE HOSPITALIER SUD FRANCILIEN |
 
-910020254 |
+910002773 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSF-AR-01 |
 
 1134 |
 
 CENTRE HOSPITALIER SUD FRANCILIEN |
 
-910020254 |
+910002773 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHSF-AR-02 |
 
 1135 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CENTRE HOSPITALIER VICTOR DUPOUY |
 
-910020254 |
+950110015 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHARG-AR-01 |
 
 1136 |
 
-CENTRE HOSPITALIER SUD FRANCILIEN |
+CTRE HOSPITA INTERCOM MEULAN LES MUREAUX |
 
-910020254 |
+780002697 |
 
-Psychiatrie |
+Anesthésie-réanimation (co-DES) |
 
-médecin psychiatre |
+CHIMM-AR-01 |
 
 1137 |
 
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHAULNAY-AR-01 |
+
+1138 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHAULNAY-AR-02 |
+
+1139 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE COULOMMIERS |
+
+770021145 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHEF-COULOMMIERS-AR-03 |
+
+1140 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
+
+770021145 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHEF-Jossigny-AR-04 |
+
+1141 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
+
+770021145 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHEF-Jossigny-AR-05 |
+
+1142 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
+
+770021145 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHEF-ST FARON-AR-01 |
+
+1143 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
+
+770021145 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHEF-ST FARON-AR-02 |
+
+1144 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHSIDF-AR-01 |
+
+1145 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHSIDF-AR-02 |
+
+1146 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHSIDF-AR-03 |
+
+1147 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHSIDF-AR-04 |
+
+1148 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHLRM-AR-01 |
+
+1149 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHLRM-AR-02 |
+
+1150 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Anesthésie-réanimation (co-DES) |
+
+GHNE-AR-01 |
+
+1151 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Anesthésie-réanimation (co-DES) |
+
+HSVEIL-AR-01 |
+
+1152 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Anesthésie-réanimation (co-DES) |
+
+HSVEIL-AR-02 |
+
+1153 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Anesthésie-réanimation (co-DES) |
+
+HSVEIL-AR-03 |
+
+1154 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Anesthésie-réanimation (co-DES) |
+
+HSVEIL-AR-04 |
+
+1155 |
+
+HOPITAL SAINT CAMILLE |
+
+940150014 |
+
+Anesthésie-réanimation (co-DES) |
+
+HSCAMILLE-AR-01 |
+
+1156 |
+
+CLINIQUE CONTI |
+
+950300202 |
+
+Anesthésie-réanimation (co-DES) |
+
+CONTI-AR-01 |
+
+1157 |
+
+APHP-HOPITAL PITIE SALPETRIERE |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-PS-AR-01 |
+
+1158 |
+
+APHP-HOPITAL PITIE SALPETRIERE |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-PS-AR-02 |
+
+1159 |
+
+APHP-HOPITAL SAINT ANTOINE |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-SA-AR-01 |
+
+1160 |
+
+APHP-HOPITAL SAINT ANTOINE |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-SA-AR-02 |
+
+1161 |
+
+APHP-HOPITAL ANTOINE BECLERE |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-AB-AR-01 |
+
+1162 |
+
+APHP-HOPITAL AVICENNE |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-AVICENNE-AR-01 |
+
+1163 |
+
+APHP-HOPITAL HENRI MONDOR |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-HM-AR-01 |
+
+1164 |
+
+APHP-HOPITAL HENRI MONDOR |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-HM-AR-02 |
+
+1165 |
+
+APHP-HOPITAL BICHAT |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-BICHAT-AR-01 |
+
+1166 |
+
+APHP-HOPITAL LOUIS MOURIER |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-LM-AR-01 |
+
+1167 |
+
+APHP-HOPITAL SAINT LOUIS |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-SL-AR-01 |
+
+1168 |
+
+APHP-HOPITAL COCHIN |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-CO-AR-01 |
+
+1169 |
+
+APHP-HOPITAL COCHIN |
+
+75 071 218 4 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-CO-AR-02 |
+
+1170 |
+
+FONDATION HOPITAL SAINT JOSEPH |
+
+750000523 |
+
+Anesthésie-réanimation (co-DES) |
+
+FSTJOSEPH-AR-01 |
+
+1171 |
+
+FONDATION HOPITAL SAINT JOSEPH |
+
+750000523 |
+
+Anesthésie-réanimation (co-DES) |
+
+FSTJOSEPH-AR-02 |
+
+1172 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHPONTOISE-AR-LC1 |
+
+1173 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHPONTOISE-AR-LC2 |
+
+1174 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHIPSG-AR-LC-1 |
+
+1175 |
+
+APHP Hôpital TROUSSEAU (GHU SORBONNE) |
+
+750712184 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-AT-AR-LC1 |
+
+1176 |
+
+APHP Hôpital TROUSSEAU (GHU SORBONNE) |
+
+750712184 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-AT-AR-LC2 |
+
+1177 |
+
+BICETRE (GHU PARIS SACLAY) |
+
+750712184 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-BICETRE-AR-LC1 |
+
+1178 |
+
+HOPITAL COCHIN (GHU PARIS CENTRE) |
+
+750712184 |
+
+Anesthésie-réanimation (co-DES) |
+
+APHP-COCHIN-AR-LC1 |
+
+1179 |
+
+CH DES QUATRE VILLES-SAINT CLOUD |
+
+920009909 |
+
+Anesthésie-réanimation (co-DES) |
+
+CH4V-AR-LC1 |
+
+1180 |
+
+FONDATION HOPITAL SAINT JOSEPH |
+
+750000523 |
+
+Anesthésie-réanimation (co-DES) |
+
+|
+
+1181 |
+
 CENTRE HOSPITALIER SUD FRANCILIEN |
 
-910020254 |
+910002773 |
+
+Biologie Médicale |
+
+CHSF-BIOM-01 |
+
+1182 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Biologie Médicale |
+
+CHIMONTREUIL-BIOMED-LC-1 |
+
+1183 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Biologie Médicale |
+
+CHIAULNAY-BIOMED-LC-14 |
+
+1184 |
+
+APHP Hôpital TROUSSEAU (GHU SORBONNE) |
+
+750712184 |
+
+Biologie Médicale |
+
+APHP-AT-BIO-LC3 |
+
+1185 |
+
+HEGP (GHU PARIS CENTRE) |
+
+750712184 |
+
+Biologie Médicale |
+
+APHP-HEGP-BIOMED-LC1 |
+
+1186 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Biologie Médicale |
+
+|
+
+1187 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Chirurgie orthopédique et traumatologie |
+
+CHSDENIS-CHIRORTHO-01 |
+
+1188 |
+
+Centre hospitalier intercommunal de Meulan-les-Mureaux |
+
+780023149 |
+
+Chirurgie orthopédique et traumatologie |
+
+|
+
+1189 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Chirurgie viscérale/ digestive |
+
+CHPONTOISE-CVD-LC5 |
+
+1190 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Chirurgie viscérale/ digestive |
+
+|
+
+1191 |
+
+AMBROISE PARE (GHU PARIS SACLAY) |
+
+750712184 |
+
+Dermatologie et vénéréologie |
+
+APHP-APARE-DERMATO-LC1 |
+
+1192 |
+
+APHP-HOPITAL SAINT-LOUIS (GHU PARIS NORD) |
+
+750712184 |
+
+Dermatologie et vénéréologie |
+
+|
+
+1193 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950000323 |
+
+Endocrinologie-diabétologie-nutrition |
+
+HSV-ENDOCRINO-LC-5 |
+
+1194 |
+
+CASH de Nanterre |
+
+920000577 |
+
+Endocrinologie-diabétologie-nutrition |
+
+CASH-ENDOCRI-LC1 |
+
+1195 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Endocrinologie-diabétologie-nutrition |
+
+CHIMONTREUIL-ENDOCRINO-LC-3 |
+
+1196 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Endocrinologie-diabétologie-nutrition |
+
+CHIVSG-ENDOCRI-LC8 |
+
+1197 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+1198 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+1199 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+1200 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+1201 |
+
+APHP-HOPITAL AVICENNE (GHU PARIS SEINE SAINT DENIS) |
+
+750712184 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+1202 |
+
+C. H. Sud Seine-et-Marne site Fontainebleau |
+
+770000149 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+1203 |
+
+CENTRE HOSPITALIER DE PLAISIR HOPITAL GENERAL PLAISIR |
+
+780024113 |
+
+Gériatrie |
+
+CHPLAISIR-HG-GERIATRIE-01 |
+
+1204 |
+
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
+
+780110011 |
+
+Gériatrie |
+
+CHMANTES-GERIATRIE-01 |
+
+1205 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Gériatrie |
+
+CHSDENIS-GERIATRIE-01 |
+
+1206 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Gériatrie |
+
+CHGONESSE-GERIATRIE-01 |
+
+1207 |
+
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
+
+930110036 |
+
+Gériatrie |
+
+CHMONTREUIL-GERIATRIE-01 |
+
+1208 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+
+940110018 |
+
+Gériatrie |
+
+CHIC-GERIATRIE-01 |
+
+1209 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Gériatrie |
+
+CHIVSG-GERIATRIE-01 |
+
+1210 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Gériatrie |
+
+CHPONTOISE-GERIATRIE-01 |
+
+1211 |
+
+CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+
+920110020 |
+
+Gériatrie |
+
+CASH-GERIATRIE-01 |
+
+1212 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+
+770021145 |
+
+Gériatrie |
+
+GHEF-COULOMMIERS-GERIATRIE-01 |
+
+1213 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Gériatrie |
+
+GHSIDF-GERIATRIE-01 |
+
+1214 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Gériatrie |
+
+CHLRM-GERIATRIE-01 |
+
+1215 |
+
+APHP-HOPITAL JOFFRE DRAVEIL |
+
+75 071 218 4 |
+
+Gériatrie |
+
+APHP-DRAVEIL-GERIATRIE-01 |
+
+1216 |
+
+APHP-HOPITAL JOFFRE DRAVEIL |
+
+75 071 218 4 |
+
+Gériatrie |
+
+APHP-DRAVEIL-GERIATRIE-02 |
+
+1217 |
+
+APHP-HOPITAL EMILE ROUX |
+
+75 071 218 4 |
+
+Gériatrie |
+
+APHP-EROUX-GERIATRIE-01 |
+
+1218 |
+
+APHP-HOPITAL BROCA |
+
+75 071 218 4 |
+
+Gériatrie |
+
+APHP-BROCA-GERIATRIE-01 |
+
+1219 |
+
+APHP-HOPITAL BROCA |
+
+75 071 218 4 |
+
+Gériatrie |
+
+APHP-BROCA-GERIATRIE-02 |
+
+1220 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Gériatrie |
+
+CHGONESSE-GERIATRIE-02 |
+
+1221 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Gériatrie |
+
+CHGONESSE-GERIATRIE-03 |
+
+1222 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Gériatrie |
+
+CHIMONTREUIL-GERIATRIE-LC-8 |
+
+1223 |
+
+Centre Hospitalier Sud Essonne Dourdan-Etampes |
+
+910019447 |
+
+Gériatrie |
+
+CHSE-GERIA-LC-1 |
+
+1224 |
+
+Centre Hospitalier Sud Essonne Dourdan-Etampes |
+
+910019447 |
+
+Gériatrie |
+
+CHSE-GERIA-LC-2 |
+
+1225 |
+
+CENTRE HOSPITALIE RIVES DE SEINE |
+
+920026374 |
+
+Gériatrie |
+
+CHRDS-GERIATRIE-01 |
+
+1226 |
+
+CENTRE HOSPITALIE RIVES DE SEINE |
+
+920026374 |
+
+Gériatrie |
+
+CHRDS-GERIATRIE-02 |
+
+1227 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Gériatrie |
+
+CHIPSG-GERIA-LC-13 |
+
+1228 |
+
+HENRI MONDOR (GHU MONDOR) |
+
+750712184 |
+
+Gériatrie |
+
+APHP-HM-GERIATRIE-LC3 |
+
+1229 |
+
+Centre hospitalier intercommunal de Meulan-les-Mureaux |
+
+780023149 |
+
+Gériatrie |
+
+CHIMM-GERIATRIE-LC1 |
+
+1230 |
+
+Centre hospitalier intercommunal de Meulan-les-Mureaux |
+
+780023149 |
+
+Gériatrie |
+
+CHIMM-GERIATRIE-LC2 |
+
+1231 |
+
+C. H. Sud Seine-et-Marne site Montereau |
+
+770000149 |
+
+Gériatrie |
+
+CHS77-M-GERIATRIE-LC5 |
+
+1232 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Gynécologie médicale |
+
+GHSIDF-GM-01 |
+
+1233 |
+
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE/ SITE FONTAINEBLEAU |
+
+770021152 |
+
+Gynécologie obstétrique |
+
+CHS77-Fontainebleau-GO-01 |
+
+1234 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Gynécologie obstétrique |
+
+CHARPAJON-GO-01 |
+
+1235 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Gynécologie obstétrique |
+
+CHSDENIS-GO-01 |
+
+1236 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Gynécologie obstétrique |
+
+CHSDENIS-GO-02 |
+
+1237 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Gynécologie obstétrique |
+
+CHGONESSE-GO-01 |
+
+1238 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Gynécologie obstétrique |
+
+CHGONESSE-GO-02 |
+
+1239 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Gynécologie obstétrique |
+
+CHGONESSE-GO-03 |
+
+1240 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Gynécologie obstétrique |
+
+CHIVSG-GO-01 |
+
+1241 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Gynécologie obstétrique |
+
+CHIVSG-GO-02 |
+
+1242 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Gynécologie obstétrique |
+
+CHPONTOISE-GO-01 |
+
+1243 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Gynécologie obstétrique |
+
+CHSF-GO-01 |
+
+1244 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Gynécologie obstétrique |
+
+CHAULNAY-GO-01 |
+
+1245 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Gynécologie obstétrique |
+
+CHAULNAY-GO-02 |
+
+1246 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Gynécologie obstétrique |
+
+GHSIDF-GO-01 |
+
+1247 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Gynécologie obstétrique |
+
+GHSIDF-GO-02 |
+
+1248 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Gynécologie obstétrique |
+
+GHNE-GO-01 |
+
+1249 |
+
+CLINIQUE DE L ESTREE |
+
+930300553 |
+
+Gynécologie obstétrique |
+
+ESTREE-GO-01 |
+
+1250 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Gynécologie obstétrique |
+
+CHSDENIS-GO-03 |
+
+1251 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Gynécologie obstétrique |
+
+CHSDENIS-GO-04 |
+
+1252 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Gynécologie obstétrique |
+
+CHIPSG-GO-LC-4 |
+
+1253 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Gynécologie obstétrique |
+
+CHMANTES-GO-LC-13 |
+
+1254 |
+
+C. H. Sud Seine-et-Marne site Fontainebleau |
+
+770000149 |
+
+Gynécologie obstétrique |
+
+CHS77-F-GO-LC3 |
+
+1255 |
+
+CH DES QUATRE VILLES-SAINT CLOUD |
+
+920009909 |
+
+Gynécologie obstétrique |
+
+CH4V-GO-LC1 |
+
+1256 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE MEAUX |
+
+770000446 |
+
+Gynécologie obstétrique |
+
+|
+
+1257 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Hépato-gastro-entérologie |
+
+GHSIF-HGE-LC-1 |
+
+1258 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Hépato-gastro-entérologie |
+
+CHSDENIS-HGE-01 |
+
+1259 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Hépato-gastro-entérologie |
+
+CHARGENTEUIL-HGE-LC-2 |
+
+1260 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+
+940000573 |
+
+Hépato-gastro-entérologie |
+
+CHIC-HGE-LC2 |
+
+1261 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Hépato-gastro-entérologie |
+
+CHIVSG-HGE-LC6 |
+
+1262 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Hépato-gastro-entérologie |
+
+CHPONTOISE-HGE-LC3 |
+
+1263 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Hépato-gastro-entérologie |
+
+CHIPSG-HGE-LC-2 |
+
+1264 |
+
+HOPITAL AVICENNE (GHU PARIS SEINE SAINT DENIS) |
+
+750712184 |
+
+Hépato-gastro-entérologie |
+
+APHP-AVIC-HGE-LC2 |
+
+1265 |
+
+HOPITAL AVICENNE (GHU PARIS SEINE SAINT DENIS) |
+
+750712184 |
+
+Hépato-gastro-entérologie |
+
+APHP-AVIC-HGE-LC3 |
+
+1266 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Radiologie et imagerie médicale |
+
+CHSF-RIM-01 |
+
+1267 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Maladies infectieuses et maladies tropicales |
+
+CHGONESSE-MIT-01 |
+
+1268 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Maladies infectieuses et maladies tropicales |
+
+GHSIDF-MIT-01 |
+
+1269 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Maladies infectieuses et tropicales |
+
+CHMANTES-MIT-LC-03 |
+
+1270 |
+
+CASH de Nanterre |
+
+920000577 |
+
+Maladies infectieuses et tropicales |
+
+1271 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Maladies infectieuses et tropicales |
+
+1272 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950000323 |
+
+Médecine cardiovasculaire |
+
+HSV-CARDIO-LC-4 |
+
+1273 |
+
+Insitut Mutualiste Montsouris |
+
+750150104 |
+
+Médecine cardiovasculaire |
+
+IMM-CARDIO-LC1 |
+
+1274 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine cardiovasculaire |
+
+CHARGENTEUIL-CARDIO-LC-1 |
+
+1275 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine cardiovasculaire |
+
+GHLRM-CARDIO-01 |
+
+1276 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine cardiovasculaire |
+
+CHIPSG-CARDIO-LC-18 |
+
+1277 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine cardiovasculaire |
+
+GHNE-CARDIO-01 |
+
+1278 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine cardiovasculaire |
+
+GHNE-CARDIO-02 |
+
+1279 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Médecine cardiovasculaire |
+
+CHMANTES-CARDIO-LC-09 |
+
+1280 |
+
+LOUIS MOURIER (GHU PARIS NORD) |
+
+750712184 |
+
+Médecine cardiovasculaire |
+
+APHP-LM-CARDIO-LC2 |
+
+1281 |
+
+HENRI MONDOR (GHU MONDOR) |
+
+750712184 |
+
+Médecine cardiovasculaire |
+
+APHP-HM-CARDIO-LC4 |
+
+1282 |
+
+HEGP (GHU PARIS CENTRE) |
+
+750712184 |
+
+Médecine cardiovasculaire |
+
+APHP-HEGP-CARDIO-LC1 |
+
+1283 |
+
+CENTRE HOSPITALIER DE VERSAILLES |
+
+780110078 |
+
+Médecine d'urgence |
+
+CHVERSAILLES-MU-01 |
+
+1284 |
+
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE/ SITE FONTAINEBLEAU |
+
+770021152 |
+
+Médecine d'urgence |
+
+CHS77-Fontainebleau-MU-01 |
+
+1285 |
+
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
+
+780110011 |
+
+Médecine d'urgence |
+
+CHMANTES-MU-01 |
+
+1286 |
+
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
+
+780110011 |
+
+Médecine d'urgence |
+
+CHMANTES-MU-02 |
+
+1287 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine d'urgence |
+
+CHARPAJON-MU-01 |
+
+1288 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine d'urgence |
+
+CHARPAJON-MU-02 |
+
+1289 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine d'urgence |
+
+CHSDENIS-MU-01 |
+
+1290 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine d'urgence |
+
+CHSDENIS-MU-02 |
+
+1291 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine d'urgence |
+
+CHSDENIS-MU-03 |
+
+1292 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Médecine d'urgence |
+
+CHGONESSE-MU-01 |
+
+1293 |
+
+CENTRE HOSPITALIER GENERAL RAMBOUILLET |
+
+780110052 |
+
+Médecine d'urgence |
+
+CHRAMBOUILLET-MU-02 |
+
+1294 |
+
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
+
+930110036 |
+
+Médecine d'urgence |
+
+CHMONTREUIL-MU-01 |
+
+1295 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+
+940110018 |
+
+Médecine d'urgence |
+
+CHIC-MU-01 |
+
+1296 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine d'urgence |
+
+CHPSG-MU-01 |
+
+1297 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine d'urgence |
+
+CHIVSG-MU-01 |
+
+1298 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Médecine d'urgence |
+
+CHPONTOISE-MU-01 |
+
+1299 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Médecine d'urgence |
+
+CHPONTOISE-MU-02 |
+
+1300 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+
+910019447 |
+
+Médecine d'urgence |
+
+CHSE-Etampes-MU-01 |
+
+1301 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine d'urgence |
+
+CHSF-MU-01 |
+
+1302 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine d'urgence |
+
+CHSF-MU-02 |
+
+1303 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine d'urgence |
+
+CHARGENTEUIL-MU-01 |
+
+1304 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine d'urgence |
+
+CHARGENTEUIL-MU-02 |
+
+1305 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine d'urgence |
+
+CHARGENTEUIL-MU-03 |
+
+1306 |
+
+CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+
+920110020 |
+
+Médecine d'urgence |
+
+CASH-MU-01 |
+
+1307 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine d'urgence |
+
+CHAULNAY-MU-01 |
+
+1308 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine d'urgence |
+
+CHAULNAY-MU-02 |
+
+1309 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
+
+770021145 |
+
+Médecine d'urgence |
+
+GHEF-St Faron-MU-01 |
+
+1310 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE SAINT FARON/ MEAUX |
+
+770021145 |
+
+Médecine d'urgence |
+
+GHEF-St Faron-MU-02 |
+
+1311 |
+
+GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+
+950001370 |
+
+Médecine d'urgence |
+
+GHCPORTESOISE-MU-01 |
+
+1312 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine d'urgence |
+
+GHSIDF-MU-01 |
+
+1313 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine d'urgence |
+
+GHSIDF-MU-02 |
+
+1314 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine d'urgence |
+
+CHLRM-MU-01 |
+
+1315 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine d'urgence |
+
+GHNE-MU-01 |
+
+1316 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Médecine d'urgence |
+
+HSVEIL-MU-01 |
+
+1317 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Médecine d'urgence |
+
+HSVEIL-MU-02 |
+
+1318 |
+
+HOPITAL SAINT CAMILLE |
+
+940150014 |
+
+Médecine d'urgence |
+
+HSCAMILLE-MU-01 |
+
+1319 |
+
+FONDATION HOPITAL SAINT JOSEPH |
+
+750000523 |
+
+Médecine d'urgence |
+
+FSTJOSEPH-MU-01 |
+
+1320 |
+
+FONDATION COGNACQ JAY-INSTITUT FRANCO BRITANNIQUE KLEBER-LEVALLOIS |
+
+920000643 |
+
+Médecine d'urgence |
+
+Cognacq Jay-IFB Kleber-MU-01 |
+
+1321 |
+
+APHP-HOPITAL LE KREMLIN BICETRE |
+
+75 071 218 4 |
+
+Médecine d'urgence |
+
+APHP-KB-MU-01 |
+
+1322 |
+
+APHP-HOPITAL LE KREMLIN BICETRE |
+
+75 071 218 4 |
+
+Médecine d'urgence |
+
+APHP-KB-MU-02 |
+
+1323 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Médecine d'Urgence |
+
+CHGONESSE-MU-02 |
+
+1324 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Médecine d'Urgence |
+
+CHIMONTREUIL-MU-LC-9 |
+
+1325 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Médecine d'Urgence |
+
+CHPONTOISE-MU-LC6 |
+
+1326 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine d'Urgence |
+
+CHIAULNAY-MU-LC-4 |
+
+1327 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine d'Urgence |
+
+CHIPSG-MU-LC-6 |
+
+1328 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine d'Urgence |
+
+CHIPSG-MU-LC-7 |
+
+1329 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine d'Urgence |
+
+CHIPSG-MU-LC-8 |
+
+1330 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine d'Urgence |
+
+CHIPSG-MU-LC-9 |
+
+1331 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine d'Urgence |
+
+GHNE-MU-02 |
+
+1332 |
+
+LARIBOISIERE (GHU PARIS NORD) |
+
+750712184 |
+
+Médecine d'Urgence |
+
+APHP-LARIB-MU-LC1 |
+
+1333 |
+
+C. H. Sud Seine-et-Marne site Montereau |
+
+770000149 |
+
+Médecine d'urgence |
+
+CHS77-M-MU-LC6 |
+
+1334 |
+
+CENTRE HOSPITALIER DE PLAISIR/ HOPITAL GENERAL PLAISIR |
+
+780024113 |
+
+Médecine générale |
+
+CHPLAISIR-HG-MG-01 |
+
+1335 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SAINT CLOUD |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-05 |
+
+1336 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SAINT CLOUD |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-06 |
+
+1337 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SAINT CLOUD |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-07 |
+
+1338 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-01 |
+
+1339 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-02 |
+
+1340 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-03 |
+
+1341 |
+
+CENTRE HOSPITALIER DES QUATRE VILLES/ SITE SEVRES |
+
+920009909 |
+
+Médecine générale |
+
+CH4VILLES-Sevres-MG-04 |
+
+1342 |
+
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE/ SITE MONTEREAU |
+
+770021152 |
+
+Médecine générale |
+
+CHS77-MG-01 |
+
+1343 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine générale |
+
+CHARPAJON-MG-01 |
+
+1344 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine générale |
+
+CHARPAJON-MG-02 |
+
+1345 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine générale |
+
+CHARPAJON-MG-03 |
+
+1346 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine générale |
+
+CHARPAJON-MG-04 |
+
+1347 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Médecine générale |
+
+CHGONESSE-MG-01 |
+
+1348 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Médecine générale |
+
+CHGONESSE-MG-02 |
+
+1349 |
+
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
+
+930110036 |
+
+Médecine générale |
+
+CHMONTREUIL-MG-01 |
+
+1350 |
+
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
+
+930110036 |
+
+Médecine générale |
+
+CHMONTREUIL-MG-02 |
+
+1351 |
+
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
+
+930110036 |
+
+Médecine générale |
+
+CHMONTREUIL-MG-03 |
+
+1352 |
+
+CENTRE HOSPITALIER INTERCOM GREGOIRE |
+
+930110036 |
+
+Médecine générale |
+
+CHMONTREUIL-MG-04 |
+
+1353 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine générale |
+
+CHIVSG-MG-01 |
+
+1354 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine générale |
+
+CHIVSG-MG-02 |
+
+1355 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Médecine générale |
+
+CHPONTOISE-MG-01 |
+
+1356 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Médecine générale |
+
+CHPONTOISE-MG-02 |
+
+1357 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Médecine générale |
+
+CHPONTOISE-MG-03 |
+
+1358 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE DOURDAN |
+
+910019447 |
+
+Médecine générale |
+
+CHSE-Dourdan-MG-01 |
+
+1359 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE DOURDAN |
+
+910019447 |
+
+Médecine générale |
+
+CHSE-Dourdan-MG-02 |
+
+1360 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE DOURDAN |
+
+910019447 |
+
+Médecine générale |
+
+CHSE-Dourdan-MG-03 |
+
+1361 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+
+910019447 |
+
+Médecine générale |
+
+CHSE-Etampes-MG-01 |
+
+1362 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+
+910019447 |
+
+Médecine générale |
+
+CHSE-Etampes-MG-02 |
+
+1363 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES/ SITE ETAMPES |
+
+910019447 |
+
+Médecine générale |
+
+CHSE-Etampes-MG-03 |
+
+1364 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine générale |
+
+CHSF-MG-01 |
+
+1365 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine générale |
+
+CHSF-MG-02 |
+
+1366 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine générale |
+
+CHSF-MG-03 |
+
+1367 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine générale |
+
+CHSF-MG-04 |
+
+1368 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Médecine générale |
+
+CHSF-MG-05 |
+
+1369 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine générale |
+
+CHARGENTEUIL-MG-01 |
+
+1370 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine générale |
+
+CHARGENTEUIL-MG-02 |
+
+1371 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Médecine générale |
+
+CHARGENTEUIL-MG-03 |
+
+1372 |
+
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+
+910140029 |
+
+Médecine générale |
+
+EPSBD Etampes-MG-01 |
+
+1373 |
+
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+
+910140029 |
+
+Médecine générale |
+
+EPSBD Etampes-MG-02 |
+
+1374 |
+
+ETS PUBLIC DE SANTE DE VILLE-EVRARD |
+
+930140025 |
+
+Médecine générale |
+
+EPSVILLE EVRARD-CRISTALES-MG-01 |
+
+1375 |
+
+ETS PUBLIC DE SANTE DE VILLE-EVRARD |
+
+930140025 |
+
+Médecine générale |
+
+EPSVILLE EVRARD-CRISTALES-MG-02 |
+
+1376 |
+
+GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+
+950001370 |
+
+Médecine générale |
+
+GHCARNELLE PORTES OISE-MG-01 |
+
+1377 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine générale |
+
+GHSIDF-MG-01 |
+
+1378 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine générale |
+
+GHSIDF-MG-02 |
+
+1379 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine générale |
+
+GHSIDF-MG-03 |
+
+1380 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine générale |
+
+GHSIDF-MG-04 |
+
+1381 |
+
+GROUPE HOSPITALIER DU SUD ILE DE France-site BRIE COMTE ROBERT |
+
+770110054 |
+
+Médecine générale |
+
+GHSIDF-BrieComteRobert-MG-05 |
+
+1382 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine générale |
+
+GHLRM-MG-01 |
+
+1383 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine générale |
+
+GHLRM-MG-02 |
+
+1384 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine générale |
+
+GHLRM-MG-03 |
+
+1385 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine générale |
+
+GHLRM-MG-04 |
+
+1386 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+GHNE-MG-01 |
+
+1387 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+GHNE-MG-02 |
+
+1388 |
+
+LES HOPITAUX DE SAINT MAURICE |
+
+940016819 |
+
+Médecine générale |
+
+HSMAURICE-MG-01 |
+
+1389 |
+
+CENTRE MEDICAL PORTE VERTE CMPV/ HOPITAL PORTE VERTE VERSAILLES |
+
+780150066 |
+
+Médecine générale |
+
+CMPORTE VERTE-HMPV-MG-01 |
+
+1390 |
+
+CENTRE MEDICAL PORTE VERTE CMPV/ HOPITAL PORTE VERTE VERSAILLES |
+
+780150066 |
+
+Médecine générale |
+
+CMPORTE VERTE-HMPV-MG-02 |
+
+1391 |
+
+HOPITAL SAINT CAMILLE |
+
+940150014 |
+
+Médecine générale |
+
+HSCAMILLE-MG-01 |
+
+1392 |
+
+HOPITAL SAINT CAMILLE |
+
+940150014 |
+
+Médecine générale |
+
+HSCAMILLE-MG-02 |
+
+1393 |
+
+HOPITAL SAINT CAMILLE |
+
+940150014 |
+
+Médecine générale |
+
+HSCAMILLE-MG-03 |
+
+1394 |
+
+MGEN ACTION SANITAIRE ET SOCIALE/ INSTITUT MARCEL RIVIERE LA VERRIERE |
+
+780140018 |
+
+Médecine générale |
+
+MGEN-Institut La Verrière-MG-01 |
+
+1395 |
+
+CLINIQUE CONTI |
+
+950300202 |
+
+Médecine générale |
+
+CONTI-MG-01 |
+
+1396 |
+
+APHP-LIANCOURT |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-LIANCOURT-MG-01 |
+
+1397 |
+
+APHP-HOPITAL ROTHSCHILD |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-ROTHSCHILD-MG-01 |
+
+1398 |
+
+APHP-HOPITAL CHARLES FOIX IVRY |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-CHARLES FOIX-MG-01 |
+
+1399 |
+
+APHP-HOPITAL LE KREMLIN BICETRE |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-KB-MG-01 |
+
+1400 |
+
+APHP-HOPITAL LE KREMLIN BICETRE |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-KB-MG-02 |
+
+1401 |
+
+APHP-HOPITAL JEAN VERDIER |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-JEAN VERDIER-MG-01 |
+
+1402 |
+
+APHP-HOPITAL MURET SEVRAN |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-MURET SEVRAN-MG-01 |
+
+1403 |
+
+APHP-HOPITAL CHENEVIER CRETEIL |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-CHENEVIER CRETEIL-MG-01 |
+
+1404 |
+
+APHP-HOPITAL BICHAT |
+
+75 071 218 4 |
+
+Médecine générale |
+
+APHP-BICHAT-MG-01 |
+
+1405 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950000323 |
+
+Médecine générale |
+
+HSV-MG-LC-2 |
+
+1406 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Médecine générale |
+
+CHGONESSE-MG-03 |
+
+1407 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Médecine générale |
+
+CHGONESSE-MG-04 |
+
+1408 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Médecine générale |
+
+CHGONESSE-MG-05 |
+
+1409 |
+
+CASH de Nanterre |
+
+920000577 |
+
+Médecine générale |
+
+CASH-MG-LC2 |
+
+1410 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine générale |
+
+CHSDENIS-MG-01 |
+
+1411 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine générale |
+
+CHSDENIS-MG-02 |
+
+1412 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine générale |
+
+CHSDENIS-MG-04 |
+
+1413 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+
+940000573 |
+
+Médecine générale |
+
+CHIC-MG-LC1 |
+
+1414 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine générale |
+
+CHIVSG-MG-LC4 |
+
+1415 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine générale |
+
+CHIVSG-MG-LC5 |
+
+1416 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910000272 |
+
+Médecine générale |
+
+CHARPAJON-MG-05 |
+
+1417 |
+
+GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+
+950001370 |
+
+Médecine générale |
+
+CHIPO-MG-LC-1 |
+
+1418 |
+
+CENTRE HOSPITALIER LEON BINET PROVINS |
+
+770000172 |
+
+Médecine générale |
+
+CHPROVINS-MG-LC-01 |
+
+1419 |
+
+CENTRE HOSPITALIER LEON BINET PROVINS |
+
+770000172 |
+
+Médecine générale |
+
+CHPROVINS-MG-LC-02 |
+
+1420 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+
+770000131 |
+
+Médecine générale |
+
+GHEF Coulommiers MG 01 |
+
+1421 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+
+770000131 |
+
+Médecine générale |
+
+GHEF Coulommiers MG 02 |
+
+1422 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE MEAUX |
+
+770000446 |
+
+Médecine générale |
+
+GHEF Meaux ST FARON MG 03 |
+
+1423 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+
+770000131 |
+
+Médecine générale |
+
+GHEF Coulommiers MG 04 |
+
+1424 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine générale |
+
+CHIAULNAY-MG-LC-1 |
+
+1425 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine générale |
+
+CHIAULNAY-MG-LC-2 |
+
+1426 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine générale |
+
+CHIAULNAY-MG-LC-3 |
+
+1427 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine générale |
+
+CHIAULNAY-MG-LC-6 |
+
+1428 |
+
+CENTRE HOSPITALIER DE VERSAILLES |
+
+780800256 |
+
+Médecine générale |
+
+CHVERS-MG-LC-2 |
+
+1429 |
+
+CENTRE HOSPITALIER GENERAL RAMBOUILLET |
+
+780000329 |
+
+Médecine générale |
+
+CHRAMB-MG-LC-2 |
+
+1430 |
+
+CENTRE HOSPITALIE RIVES DE SEINE |
+
+920026374 |
+
+Médecine générale |
+
+CHRDS-MG-01 |
+
+1431 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine générale |
+
+CHIPSG-MG-LC-5 |
+
+1432 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine générale |
+
+CHIPSG-MG-LC-16 |
+
+1433 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+GHNE-MG-03 |
+
+1434 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+GHNE-MG-04 |
+
+1435 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+GHNE-MG-05 |
+
+1436 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+GHNE-MG-06 |
+
+1437 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Médecine générale |
+
+CHMANTES-MG-LC-01 |
+
+1438 |
+
+ANTOIEN BECLERE (GHU PARIS SACLAY) |
+
+750712184 |
+
+Médecine générale |
+
+APHP-AB-MG-LC1 |
+
+1439 |
+
+HOPITAL PAUL DOUMER/ LIANCOUT |
+
+750712184 |
+
+Médecine générale |
+
+APHP-LIANCOURT-MG-LC1 |
+
+1440 |
+
+Centre hospitalier intercommunal de Meulan-les-Mureaux |
+
+780023149 |
+
+Médecine générale |
+
+CHIMM-MG-LC3 |
+
+1441 |
+
+C. H. Sud Seine-et-Marne site Montereau |
+
+770000149 |
+
+Médecine générale |
+
+CHS77-M-MG-LC7 |
+
+1442 |
+
+C. H. Sud Seine-et-Marne site Montereau |
+
+770000149 |
+
+Médecine générale |
+
+CHS77-M-MG-LC8 |
+
+1443 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine générale |
+
+|
+
+1444 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
+
+770019032 |
+
+Médecine générale |
+
+|
+
+1445 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Médecine générale |
+
+|
+
+1446 |
+
+APHP-PAUL BROUSSE (GHU PARIS SACLAY) |
+
+750712184 |
+
+Médecine générale |
+
+|
+
+1447 |
+
+C. H. Sud Seine-et-Marne site Montereau |
+
+770000149 |
+
+Médecine générale |
+
+|
+
+1448 |
+
+Association Hôpital Foch |
+
+920000650 |
+
+Médecine générale |
+
+|
+
+1449 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Médecine intensive et réanimation |
+
+CHARPAJON-MIR-01 |
+
+1450 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Médecine intensive et réanimation |
+
+CHGONESSE-MIR-01 |
+
+1451 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Médecine intensive et réanimation |
+
+CHGONESSE-MIR-02 |
+
+1452 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Médecine intensive et réanimation |
+
+CHGONESSE-MIR-03 |
+
+1453 |
+
+CENTRE HOSPITALIER GENERAL RAMBOUILLET |
+
+780110052 |
+
+Médecine intensive et réanimation |
+
+CHRAMBOUILLET-MIR-01 |
+
+1454 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Médecine intensive et réanimation |
+
+CHIVSG-MIR-01 |
+
+1455 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Médecine intensive et réanimation |
+
+CHPONTOISE-MIR-01 |
+
+1456 |
+
+GRAND HOPITAL DE L EST FRANCILIEN/ SITE SAINT FARON/ MEAUX |
+
+770021145 |
+
+Médecine intensive et réanimation |
+
+GHEF-St Faron-MIR-01 |
+
+1457 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine intensive et réanimation |
+
+GHSIDF-MIR-01 |
+
+1458 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine intensive et réanimation |
+
+GHLRM-MIR-01 |
+
+1459 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine intensive et réanimation |
+
+GHLRM-MIR-02 |
+
+1460 |
+
+FONDATION COGNACQ JAY/ HOPITAL FORCILLES |
+
+770020477 |
+
+Médecine intensive et réanimation |
+
+COGNACQ JAY-Forcilles-MIR-01 |
+
+1461 |
+
+APHP-HOPITAL HENRI MONDOR |
+
+75 071 218 4 |
+
+Médecine intensive et réanimation |
+
+APHP-HENRI MONDOR-MIR-01 |
+
+1462 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Médecine intensive et réanimation |
+
+GHLRM-MIR-03 |
+
+1463 |
+
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE SITE NEMOURS |
+
+770021152 |
+
+Médecine interne et immunologie clinique |
+
+CHSSM-NEMOURS-MII-01 |
+
+1464 |
+
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
+
+780110011 |
+
+Médecine interne et immunologie clinique |
+
+CHMANTES-MII-01 |
+
+1465 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Médecine interne et immunologie clinique |
+
+CHSDENIS-MII-01 |
+
+1466 |
+
+CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+
+920110020 |
+
+Médecine interne et immunologie clinique |
+
+CASH-MII-01 |
+
+1467 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Médecine interne et immunologie clinique |
+
+GHSIDF-MII-01 |
+
+1468 |
+
+APHP-HOPITAL KREMLIN BICETRE |
+
+75 071 218 4 |
+
+Médecine interne et immunologie clinique |
+
+APHP-KB-MII-01 |
+
+1469 |
+
+APHP-HOPITAL LOUIS MOURIER |
+
+75 071 218 4 |
+
+Médecine interne et immunologie clinique |
+
+APHP-LM-MII-01 |
+
+1470 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Médecine Interne et immunologie clinique |
+
+CHIAULNAY-MEDINTERNE-LC-16 |
+
+1471 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Médecine Interne et immunologie clinique |
+
+CHIPSG-MEDINTERNE-LC-19 |
+
+1472 |
+
+HENRI MONDOR (GHU MONDOR) |
+
+750712184 |
+
+Médecine Interne et immunologie clinique |
+
+APHP-HM-MEDINTER-LC2 |
+
+1473 |
+
+HOPITAUX DE SAINT-MAURICE |
+
+940016819 |
+
+Médecine physique et réadaptation |
+
+1474 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950000323 |
+
+Médecine Physique et Rééducation |
+
+HSV-MPR-LC-3 |
+
+1475 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Médecine Physique et Rééducation |
+
+CHGONESSE-MPR-01 |
+
+1476 |
+
+HENRI MONDOR (GHU MONDOR) |
+
+750712184 |
+
+Médecine Physique et Rééducation |
+
+APHP-HM-MPR-LC5 |
+
+1477 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Néphrologie |
+
+CHIPSG-NEPHRO-LC-11 |
+
+1478 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Neurologie |
+
+CHGONESSE-NEURO-01 |
+
+1479 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Neurologie |
+
+CHSF-NEUR-01 |
+
+1480 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Neurologie |
+
+CHIAULNAY-NEURO-LC-7 |
+
+1481 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Neurologie |
+
+CHIAULNAY-NEURO-LC-8 |
+
+1482 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Neurologie |
+
+GHSIDF-NEURO-LC-1 |
+
+1483 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Neurologie |
+
+CHIPSG-NEURO-LC-14 |
+
+1484 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Neurologie |
+
+CHIPSG-NEURO-LC-15 |
+
+1485 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Neurologie |
+
+GHNE-NEURO-01 |
+
+1486 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Neurologie |
+
+CHMANTES-NEURO-LC-04 |
+
+1487 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Neurologie |
+
+CHMANTES-NEURO-LC-05 |
+
+1488 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Neurologie |
+
+CHMANTES-NEURO-LC-06 |
+
+1489 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+odontologie |
+
+CHIMONTREUIL-ODONTO-LC-2 |
+
+1490 |
+
+APHP-HOPITAL HENRI MONDOR |
+
+75 071 218 4 |
+
+Odontologie polyvalente |
+
+APHP-HM-CD-01 |
+
+1491 |
+
+APHP-HOPITAL HENRI MONDOR |
+
+75 071 218 4 |
+
+Odontologie polyvalente |
+
+APHP-HM-CD-02 |
+
+1492 |
+
+INSTITUT GUSTAVE ROUSSY |
+
+940000664 |
+
+Oncologie |
+
+IGR-ONCO-01 |
+
+1493 |
+
+INSTITUT GUSTAVE ROUSSY |
+
+940000664 |
+
+Oncologie |
+
+IGR-ONCO-02 |
+
+1494 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Oncologie |
+
+GHSIF-ONCO-LC-3 |
+
+1495 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Oncologie |
+
+GHLRM-ONCO-01 |
+
+1496 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Oncologie |
+
+GHLRM-ONCO-02 |
+
+1497 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Oncologie |
+
+GHLRM-ONCORADIO-01 |
+
+1498 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Oncologie |
+
+GHNE-ONCO-01 |
+
+1499 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Oncologie |
+
+|
+
+1500 |
+
+GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
+
+770019032 |
+
+Oncologie |
+
+|
+
+1501 |
+
+Association Hôpital Foch |
+
+920000650 |
+
+Oncologie |
+
+|
+
+1502 |
+
+INSTITUT GUSTAVE ROUSSY |
+
+940000664 |
+
+Oncologie radiothérapique |
+
+IGR-ONCORADIO-01 |
+
+1503 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
+
+940000573 |
+
+Ophtalmologie |
+
+CHIC-OPH-LC3 |
+
+1504 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Ophtalmologie |
+
+CHIPSG-OPH-LC-3 |
+
+1505 |
+
+BICETRE (GHU PARIS SACLAY) |
+
+750712184 |
+
+Ophtalmologie |
+
+APHP-BICETRE-OPH-LC2 |
+
+1506 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
+
+GHNE-ORL-01 |
+
+1507 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
+
+GHNE-ORL-02 |
+
+1508 |
+
+Centre Hospitalier Sud Essonne Dourdan-Etampes |
+
+910019447 |
+
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
+
+|
+
+1509 |
+
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE SITE FONTAINEBLEAU |
+
+770021152 |
+
+Pédiatrie |
+
+CHSSM-FONTAINEBLEAU-PEDIATRIE-01 |
+
+1510 |
+
+CENTRE HOSPITALIER GENERAL D'ARPAJON |
+
+910110014 |
+
+Pédiatrie |
+
+CHARPAJON-PEDIATRIE-01 |
+
+1511 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Pédiatrie |
+
+CHSDENIS-PEDIATRIE-01 |
+
+1512 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Pédiatrie |
+
+CHGONESSE-PEDIATRIE-01 |
+
+1513 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Pédiatrie |
+
+CHGONESSE-PEDIATRIE-02 |
+
+1514 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
+
+940110042 |
+
+Pédiatrie |
+
+CHIVSG-PEDIATRIE-01 |
+
+1515 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Pédiatrie |
+
+CHPONTOISE-PEDIATRIE-01 |
+
+1516 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Pédiatrie |
+
+CHPONTOISE-PEDIATRIE-02 |
+
+1517 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Pédiatrie |
+
+CHSF-PEDIATRIE-01 |
+
+1518 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Pédiatrie |
+
+CHSF-PEDIATRIE-02 |
+
+1519 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+
+770021145 |
+
+Pédiatrie |
+
+GHEF-COULOMMIERS-PEDIATRIE-01 |
+
+1520 |
+
+GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+
+950001370 |
+
+Pédiatrie |
+
+GHCPORTESOISE-PEDIATRIE-01 |
+
+1521 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Pédiatrie |
+
+GHSIDF-PEDIATRIE-01 |
+
+1522 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Pédiatrie |
+
+GHNE-PEDIATRIE-01 |
+
+1523 |
+
+APHP-HOPITAL ROBERT DEBRE |
+
+75 071 218 4 |
+
+Pédiatrie |
+
+APHP-DEBRE-PEDIATRIE-01 |
+
+1524 |
+
+APHP-HOPITAL LOUIS MOURIER |
+
+75 071 218 4 |
+
+Pédiatrie |
+
+APHP-LM-PEDIATRIE-01 |
+
+1525 |
+
+APHP-HOPITAL BICHAT |
+
+75 071 218 4 |
+
+Pédiatrie |
+
+APHP-BICHAT-PEDIATRIE-01 |
+
+1526 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950000323 |
+
+Pédiatrie |
+
+HSV-PED-LC-1 |
+
+1527 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Pédiatrie |
+
+CHSF-PEDIATRIE-01 |
+
+1528 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Pédiatrie |
+
+CHSF-PEDIATRIE-03 |
+
+1529 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Pédiatrie |
+
+CHSDENIS-PEDIATRIE-02 |
+
+1530 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Pédiatrie |
+
+CHIMONTREUIL-PED-LC-5 |
+
+1531 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Pédiatrie |
+
+CHIMONTREUIL-PED-LC-6 |
+
+1532 |
+
+Centre Hospitalier Intercommunal André GREGOIRE |
+
+930110036 |
+
+Pédiatrie |
+
+CHIMONTREUIL-PED-LC-7 |
+
+1533 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Pédiatrie |
+
+CHARGENTEUIL-PED-LC-3 |
+
+1534 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Pédiatrie |
+
+CHPONTOISE-PED-LC7 |
+
+1535 |
+
+GROUPE HOSPITALIER INTERCOMMUNAL LE RAINCY MONTFERMEIL |
+
+930021480 |
+
+Pédiatrie |
+
+GHLRM-PEDIA-01 |
+
+1536 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Pédiatrie |
+
+CHIAULNAY-PED-LC-9 |
+
+1537 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Pédiatrie |
+
+CHIAULNAY-PED-LC-10 |
+
+1538 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Pédiatrie |
+
+CHIAULNAY-PED-LC-12 |
+
+1539 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Pédiatrie |
+
+CHIAULNAY-PED-LC-13 |
+
+1540 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Pédiatrie |
+
+CHMANTES-PED-LC-10 |
+
+1541 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Pédiatrie |
+
+CHMANTES-PED-LC-11 |
+
+1542 |
+
+C. H. Sud Seine-et-Marne site Fontainebleau |
+
+770000149 |
+
+Pédiatrie |
+
+CHS77-F-PED-LC2 |
+
+1543 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Pédiatrie |
+
+|
+
+1544 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Pédiatrie |
+
+|
+
+1545 |
+
+HENRI MONDOR (GHU MONDOR) |
+
+750712184 |
+
+Pharmacie |
+
+APHP-HM-PHAR-LC1 |
+
+1546 |
+
+APHP-HOPITAL NECKER |
+
+75 071 218 4 |
+
+Pharmacie polyvalente et pharmacie hospitalière |
+
+APHP-NECKER-PHARMA-01 |
+
+1547 |
+
+APHP-HOPITAL LOUIS MOURIER |
+
+75 071 218 4 |
+
+Pharmacie polyvalente et pharmacie hospitalière |
+
+APHP-LM-PHARMA-01 |
+
+1548 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950000323 |
+
+Pneumologie |
+
+HSV-PNEUMO-LC-6 |
+
+1549 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Pneumologie |
+
+CHGONESSE-PNEUMO-01 |
+
+1550 |
+
+FONDATION HOPITAL SAINT JOSEPH |
+
+920000684 |
+
+Pneumologie |
+
+FSTJOSEPH-P-02 |
+
+1551 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Pneumologie |
+
+GHSIF-PNEUMO-LC-2 |
+
+1552 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Pneumologie |
+
+CHMANTES-PNEUMO-LC-07 |
+
+1553 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Pneumologie |
+
+CHMANTES-PNEUMO-LC-08 |
+
+1554 |
+
+CASH de Nanterre |
+
+920000577 |
+
+Pneumologie |
+
+|
+
+1555 |
+
+FONDATION HOPITAL SAINT JOSEPH |
+
+750000523 |
+
+Pneumologie |
+
+|
+
+1556 |
+
+CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+
+780024113 |
 
 Psychiatrie |
 
-médecin psychiatre |
+CHARCOT PLAISIR-Pôle 78G11-PSY-01 |
 
-1138 |
+1557 |
+
+CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+
+780024113 |
+
+Psychiatrie |
+
+CHARCOT PLAISIR-Pôle 78G12PSY-02 |
+
+1558 |
+
+CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+
+780024113 |
+
+Psychiatrie |
+
+CHARCOT PLAISIR-Pôle 78G14-PSY-03 |
+
+1559 |
+
+CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+
+780024113 |
+
+Psychiatrie |
+
+CHARCOT PLAISIR-Pôle 78G14-PSY-04 |
+
+1560 |
+
+CENTRE HOSPITALIER DE PLAISIR/ SITE PSY CHARCOT PLAISIR |
+
+780024113 |
+
+Psychiatrie |
+
+CHARCOT PLAISIR pédopsychiatrie/ I04-PSY-05 |
+
+1561 |
+
+CENTRE HOSPITALIER DE VERSAILLES |
+
+780110078 |
+
+Psychiatrie |
+
+CHVERSAILLES-psychiatrie adultes-PSY-02 |
+
+1562 |
+
+CENTRE HOSPITALIER FRANCOIS QUESNAY |
+
+780110011 |
+
+Psychiatrie |
+
+CHMANTES-PSY-01 |
+
+1563 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Psychiatrie |
+
+CHSDENIS-PSY-01 |
+
+1564 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Psychiatrie |
+
+CHSDENIS-PSY-02 |
+
+1565 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Psychiatrie |
+
+CHSDENIS-PSY-03 |
+
+1566 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Psychiatrie |
+
+CHGONESSE-PSY-01 |
+
+1567 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Psychiatrie |
+
+CHGONESSE-PSY-02 |
+
+1568 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Psychiatrie |
+
+CHGONESSE-PSY-03 |
+
+1569 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Psychiatrie |
+
+CHGONESSE-PSY-04 |
+
+1570 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Psychiatrie |
+
+CHGONESSE-PSY-05 |
+
+1571 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Psychiatrie |
+
+CHPONTOISE-PSY-01 |
+
+1572 |
+
+CENTRE HOSPITALIER RENE DUBOS |
+
+950110080 |
+
+Psychiatrie |
+
+CHPONTOISE-PSY-02 |
+
+1573 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Psychiatrie |
+
+CHSF-PSY-01 |
+
+1574 |
+
+CENTRE HOSPITALIER SUD FRANCILIEN |
+
+910002773 |
+
+Psychiatrie |
+
+CHSF-PSY-02 |
+
+1575 |
+
+CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+
+780140059 |
+
+Psychiatrie |
+
+MONTESSON-PSY-01 |
+
+1576 |
+
+CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+
+780140059 |
+
+Psychiatrie |
+
+MONTESSON-PSY-02 |
+
+1577 |
+
+CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+
+780140059 |
+
+Psychiatrie |
+
+MONTESSON-PSY-03 |
+
+1578 |
+
+CENTRE HOSPITALIER THEOPHILE ROUSSEL |
+
+780140059 |
+
+Psychiatrie |
+
+MONTESSON-PSY-04 |
+
+1579 |
+
+CENTRE HOSPITALIER VICTOR DUPOUY |
+
+950110015 |
+
+Psychiatrie |
+
+CHARGENTEUIL-PSY-01 |
+
+1580 |
+
+CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+
+920110020 |
+
+Psychiatrie |
+
+CASH-PSY-01 |
+
+1581 |
+
+CTRE HOSP INTERDEP PSYCHIAT ENFANT ADOLE |
+
+940140015 |
+
+Psychiatrie |
+
+CH GENTILLY-PSY-01 |
+
+1582 |
+
+CTRE HOSP INTERDEP PSYCHIAT ENFANT ADOLE |
+
+940140015 |
+
+Psychiatrie |
+
+CH GENTILLY-PSY-02 |
+
+1583 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Psychiatrie |
+
+CHAULNAY-PSY-01 |
+
+1584 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Psychiatrie |
+
+CHAULNAY-PSY-02 |
+
+1585 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Psychiatrie |
+
+CHAULNAY-PSY-03 |
+
+1586 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Psychiatrie |
+
+CHAULNAY-PSY-04 |
+
+1587 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Psychiatrie |
+
+CHAULNAY-PSY-05 |
+
+1588 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Psychiatrie |
+
+CHAULNAY-PSY-06 |
+
+1589 |
+
+CTRE HOSPITALIER SPECIALISE ROGER PREVOT |
+
+950140012 |
+
+Psychiatrie |
+
+CHS MOISSELLES-PSY-01 |
+
+1590 |
+
+CTRE HOSPITALIER SPECIALISE ROGER PREVOT |
+
+950140012 |
+
+Psychiatrie |
+
+CHS MOISSELLES-PSY-02 |
+
+1591 |
 
 ETABLISSEMENT PUBLIC DE SANTE ERASME |
 
@@ -11480,109 +16000,89 @@ ETABLISSEMENT PUBLIC DE SANTE ERASME |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS ERASME psychiatrie adulte |
 
-1139 |
+1592 |
 
-CTRE D'ACCUEIL DE SOINS HOSP NANTERRE |
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
 
-920000577 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1140 |
-
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
-
-930110051 |
+910140029 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPSBD ETAMPES-PSY-01 |
 
-1141 |
+1593 |
 
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
 
-930110051 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1142 |
-
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
-
-930110051 |
+910140029 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPSBD ETAMPES-PSY-02 |
 
-1143 |
+1594 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
 
-930110069 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1144 |
-
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
-
-930110069 |
+910140029 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPSBD ETAMPES-PSY-03 |
 
-1145 |
+1595 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
 
-930110069 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1146 |
-
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
-
-930110069 |
+910140029 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPSBD ETAMPES-PSY-04 |
 
-1147 |
+1596 |
 
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
 
-930110069 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1148 |
-
-CTRE HOSPITALIER INTERCOMM R BALLANGER |
-
-930110069 |
+910140029 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPSBD ETAMPES-PSY-05 |
 
-1149 |
+1597 |
+
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+
+910140029 |
+
+Psychiatrie |
+
+EPSBD ETAMPES-PSY-06 |
+
+1598 |
+
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+
+910140029 |
+
+Psychiatrie |
+
+EPSBD ETAMPES-PSY-07 |
+
+1599 |
+
+ETS PUBLIC DE SANTE BARTHELEMY DURAND |
+
+910140029 |
+
+Psychiatrie |
+
+EPSBD ETAMPES-PSY-08 |
+
+1600 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G01 |
 
@@ -11590,19 +16090,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G01 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G01-PSY-01 |
 
-1150 |
-
-ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G03 |
-
-930140025 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1151 |
+1601 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G03 |
 
@@ -11610,9 +16100,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G03 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G03-PSY-02 |
 
-1152 |
+1602 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G03 |
 
@@ -11620,9 +16110,19 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G03 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G03-PSY-03 |
 
-1153 |
+1603 |
+
+ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G03 |
+
+930140025 |
+
+Psychiatrie |
+
+EPS Ville Evrard-pôle 93G03-PSY-04 |
+
+1604 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G04 |
 
@@ -11630,9 +16130,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G04 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G04-PSY-05 |
 
-1154 |
+1605 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G04 |
 
@@ -11640,9 +16140,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G04 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G04-PSY-06 |
 
-1155 |
+1606 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G05 |
 
@@ -11650,9 +16150,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G05 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G05-PSY-07 |
 
-1156 |
+1607 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G06 |
 
@@ -11660,9 +16160,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G06 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G06-PSY-08 |
 
-1157 |
+1608 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G09 |
 
@@ -11670,9 +16170,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G09 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G09-PSY-09 |
 
-1158 |
+1609 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G12 |
 
@@ -11680,9 +16180,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G12 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G12-PSY-10 |
 
-1159 |
+1610 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G13 |
 
@@ -11690,9 +16190,9 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G13 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G13-PSY-11 |
 
-1160 |
+1611 |
 
 ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G14 |
 
@@ -11700,29 +16200,289 @@ ETS PUBLIC DE SANTE DE VILLE-EVRARD/ pôle 93G14 |
 
 Psychiatrie |
 
-médecin psychiatre |
+EPS Ville Evrard-pôle 93G14-PSY-12 |
 
-1161 |
+1612 |
 
-CTRE HOSP INTERDEP PSYCHIAT ENFANT ADOLE |
+GRAND HOPITAL DE L EST FRANCILIEN |
 
-940140015 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1162 |
-
-CTRE HOSP INTERDEP PSYCHIAT ENFANT ADOLE |
-
-940140015 |
+770021145 |
 
 Psychiatrie |
 
-médecin psychiatre |
+GHEF-PSY-01 |
 
-1163 |
+1613 |
+
+GRAND HOPITAL DE L EST FRANCILIEN |
+
+770021145 |
+
+Psychiatrie |
+
+GHEF-PSY-02 |
+
+1614 |
+
+GRAND HOPITAL DE L EST FRANCILIEN |
+
+770021145 |
+
+Psychiatrie |
+
+GHEF-PSY-03 |
+
+1615 |
+
+GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
+
+950001370 |
+
+Psychiatrie |
+
+GHCARNELLE PORTES OISE-PSY-01 |
+
+1616 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Psychiatrie |
+
+GHSIDF-PSY-01 |
+
+1617 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Psychiatrie |
+
+GHSIDF-PSY-02 |
+
+1618 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Psychiatrie |
+
+GHSIDF-PSY-03 |
+
+1619 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Psychiatrie |
+
+GHSIDF-PSY-04 |
+
+1620 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Psychiatrie |
+
+GHNE-PSY-01 |
+
+1621 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Psychiatrie |
+
+GHNE-PSY-02 |
+
+1622 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Psychiatrie |
+
+GHNE-PSY-03 |
+
+1623 |
+
+GROUPE HOSPITALIER NORD ESSONNE |
+
+910110055 |
+
+Psychiatrie |
+
+GHNE-PSY-04 |
+
+1624 |
+
+GROUPE HOSPITALIER PAUL GUIRAUD |
+
+940140049 |
+
+Psychiatrie |
+
+EPS PG VILLEJUIF-PSY-01 |
+
+1625 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Psychiatrie |
+
+HSVEIL-PSY-01 |
+
+1626 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Psychiatrie |
+
+HSVEIL-PSY-02 |
+
+1627 |
+
+GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
+
+950013870 |
+
+Psychiatrie |
+
+HSVEIL-PSY-03 |
+
+1628 |
+
+FONDATION SANTE DES ETUDIANTS DE France/ CMPA NEUFMOUTIERS |
+
+770150027 |
+
+Psychiatrie |
+
+FondationSanté Etudiants France-NEUFMOUTIERS-PSY-01 |
+
+1629 |
+
+MGEN ACTION SANITAIRE ET SOCIALE/ INSTITUT MARCEL RIVIERE LA VERRIERE |
+
+780140018 |
+
+Psychiatrie |
+
+MGEN-InstitutLa Verriere-pole adulte-PSY-01 |
+
+1630 |
+
+MGEN ACTION SANITAIRE ET SOCIALE/ INSTITUT MARCEL RIVIERE LA VERRIERE |
+
+780140018 |
+
+Psychiatrie |
+
+MGEN-InstitutLa Verriere-pole adulte-PSY-02 |
+
+1631 |
+
+CLINIQUE D'YVELINE |
+
+780140042 |
+
+Psychiatrie |
+
+CLINIQUE YVELINE-PSY-01 |
+
+1632 |
+
+APHP-HOPITAL AVICENNE |
+
+75 071 218 4 |
+
+Psychiatrie |
+
+APHP-AVICENNE-PSY-01 |
+
+1633 |
+
+CENTRE HOSPITALIER LEON BINET PROVINS |
+
+770000172 |
+
+Psychiatrie |
+
+CHPROVINS-PSY-LC-03 |
+
+1634 |
+
+Hôpitaux de Saint-Maurice |
+
+940016819 |
+
+Psychiatrie |
+
+HSM-PSY-LC-1 |
+
+1635 |
+
+Etablissement publice de santé de Ville-Evrard |
+
+930140025 |
+
+Psychiatrie |
+
+EPS Ville Evrard-pôle 93G12-PSY-LC1 |
+
+1636 |
+
+Etablissement publice de santé de Ville-Evrard |
+
+930140025 |
+
+Psychiatrie |
+
+EPS Ville Evrard-pôle 93G14-PSY-LC2 |
+
+1637 |
+
+Etablissement publice de santé de Ville-Evrard |
+
+930140025 |
+
+Psychiatrie |
+
+EPS Ville Evrard-pôle 93G18-PSY-LC3 |
+
+1638 |
+
+Etablissement publice de santé de Ville-Evrard |
+
+930140025 |
+
+Psychiatrie |
+
+EPS Ville Evrard-pôle 93G18 PSY-LC4 |
+
+1639 |
+
+ROBERT DEBRE (GHU PARIS NORD) |
+
+750712184 |
+
+Psychiatrie |
+
+APHP-RD-PSY-LC1 |
+
+1640 |
 
 GROUPE HOSPITALIER PAUL GUIRAUD |
 
@@ -11730,189 +16490,29 @@ GROUPE HOSPITALIER PAUL GUIRAUD |
 
 Psychiatrie |
 
-médecin psychiatre |
+GHPG-PSY-LC1 |
 
-1164 |
-
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
-
-950000323 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1165 |
-
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
-
-950000323 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1166 |
-
-GROUPEMENT HOSPITALIER EAUBONNE MONTMORENCY SIMONE VEIL |
-
-950000323 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1167 |
-
-CENTRE HOSPITALIER GENERAL GONESSE |
-
-950110049 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1168 |
-
-CENTRE HOSPITALIER GENERAL GONESSE |
-
-950110049 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1169 |
-
-CENTRE HOSPITALIER GENERAL GONESSE |
-
-950110049 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1170 |
-
-CENTRE HOSPITALIER GENERAL GONESSE |
-
-950110049 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1171 |
-
-CENTRE HOSPITALIER GENERAL GONESSE |
-
-950110049 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1172 |
-
-GROUPE HOSPITALIER CARNELLE PORTES DE L'OISE |
-
-950110049 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1173 |
-
-CENTRE HOSPITALIER VICTOR DUPOUY |
-
-950110015 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1174 |
-
-CTRE HOSPITALIER SPECIALISE ROGER PREVOT |
-
-950000398 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1175 |
-
-CTRE HOSPITALIER SPECIALISE ROGER PREVOT |
-
-950000398 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1176 |
-
-CENTRE HOSPITALIER RENE DUBOS |
-
-950110080 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1177 |
-
-CENTRE HOSPITALIER RENE DUBOS |
-
-950110080 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1178 |
-
-APHP-HOPITAL AVICENNE |
-
-930100037 |
-
-Psychiatrie |
-
-médecin psychiatre |
-
-1179 |
-
-CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE SITE FONTAINEBLEAU |
-
-770000149 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1180 |
-
-GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
-
-770000156 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1181 |
+1641 |
 
 CENTRE HOSPITALIER DE VERSAILLES |
 
-780800256 |
+780110078 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHVERSAILLES-RADIO-01 |
 
-1182 |
+1642 |
+
+CENTRE HOSPITALIER DU SUD SEINE-ET-MARNE SITE FONTAINEBLEAU |
+
+770021152 |
+
+Radiologie et imagerie médicale |
+
+CHSSM-FONTAINEBLEAU-RADIO-01 |
+
+1643 |
 
 CENTRE HOSPITALIER FRANCOIS QUESNAY |
 
@@ -11920,19 +16520,39 @@ CENTRE HOSPITALIER FRANCOIS QUESNAY |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHMANTES-RADIO-01 |
 
-1183 |
+1644 |
 
-CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES SITE DOURDAN |
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
-910000280 |
+930110051 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHSDENIS-RADIO-01 |
 
-1184 |
+1645 |
+
+CENTRE HOSPITALIER GENERAL DE ST DENIS |
+
+930110051 |
+
+Radiologie et imagerie médicale |
+
+CHSDENIS-RADIO-02 |
+
+1646 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950110049 |
+
+Radiologie et imagerie médicale |
+
+CHGONESSE-RADIO-01 |
+
+1647 |
 
 CENTRE HOSPITALIER INTERCOM GREGOIRE |
 
@@ -11940,49 +16560,19 @@ CENTRE HOSPITALIER INTERCOM GREGOIRE |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHMONTREUIL-RADIO-01 |
 
-1185 |
-
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
-
-930110051 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1186 |
-
-CENTRE HOSPITALIER GENERAL DE ST DENIS |
-
-930110051 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1187 |
-
-HOPITAL SAINT CAMILLE |
-
-940000649 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1188 |
+1648 |
 
 CENTRE HOSPITALIER INTERCOMMUNAL CRETEIL |
 
-940000573 |
+940110018 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHIC-RADIO-01 |
 
-1189 |
+1649 |
 
 CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
 
@@ -11990,9 +16580,19 @@ CENTRE HOSPITALIER INTERCOMMUNAL DE VILLENEUVE-SAINT-GEORGES |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHIVSG-RADIO-01 |
 
-1190 |
+1650 |
+
+CENTRE HOSPITALIER SUD ESSONNE-DOURDAN-ETAMPES SITE DOURDAN |
+
+910019447 |
+
+Radiologie et imagerie médicale |
+
+CHSE-DOURDAN-RADIO-01 |
+
+1651 |
 
 CENTRE HOSPITALIER VICTOR DUPOUY |
 
@@ -12000,69 +16600,259 @@ CENTRE HOSPITALIER VICTOR DUPOUY |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHARGENTEUIL-RADIO-01 |
 
-1191 |
+1652 |
+
+GROUPE HOSPITALIER DU SUD ILE DE FRANCE |
+
+770110054 |
+
+Radiologie et imagerie médicale |
+
+GHSIDF-RADIO-01 |
+
+1653 |
+
+HOPITAL SAINT CAMILLE |
+
+940150014 |
+
+Radiologie et imagerie médicale |
+
+HSCAMILLE-RADIO-01 |
+
+1654 |
+
+APHP-HOPITAL ANTOINE BECLERE |
+
+75 071 218 4 |
+
+Radiologie et imagerie médicale |
+
+APHP-AB-RADIO-01 |
+
+1655 |
+
+APHP-HOPITAL BEAUJON |
+
+75 071 218 4 |
+
+Radiologie et imagerie médicale |
+
+APHP-BEAUJON-RADIO-01 |
+
+1656 |
+
+APHP-HOPITAL BICHAT |
+
+75 071 218 4 |
+
+Radiologie et imagerie médicale |
+
+APHP-BICHAT-RADIO-01 |
+
+1657 |
 
 CENTRE HOSPITALIER GENERAL GONESSE |
 
-950110049 |
+950000331 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHGONESSE-RADIO-02 |
 
-1192 |
+1658 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL BEAUJON |
+FONDATION HOPITAL SAINT JOSEPH |
 
-920024510 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1193 |
-
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL BICHAT |
-
-750100232 |
+920000684 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+FSTJOSEPH-RADIO-01 |
 
-1194 |
+1659 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL ANTOINE BECLERE |
+Centre Hospitalier Intercommunal André GREGOIRE |
 
-920100021 |
+930110036 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHIMONTREUIL-RADIO-LC-4 |
 
-1195 |
+1660 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL HENRI MONDOR |
+CENTRE HOSPITALIER LEON BINET PROVINS |
 
-940100027 |
+770000172 |
 
-Odontologie polyvalente |
+Radiologie et imagerie médicale |
 
-Chirurgien-dentiste |
+CHPROVINS-RADIO-LC-04 |
 
-1196 |
+1661 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL HENRI MONDOR |
+GRAND HOPITAL DE L EST FRANCILIEN-SITE JOSSIGNY |
 
-940100027 |
+770019032 |
 
-Odontologie polyvalente |
+Radiologie et imagerie médicale |
 
-Chirurgien-dentiste |
+GHEF Jossigny RADIO 01 |
 
-1197 |
+1662 |
+
+GRAND HOPITAL DE L EST FRANCILIEN SITE COULOMMIERS |
+
+770000131 |
+
+Radiologie et imagerie médicale |
+
+GHEF Coulommiers RADIO 02 |
+
+1663 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Radiologie et imagerie médicale |
+
+CHIAULNAY-RADIO-LC-17 |
+
+1664 |
+
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
+
+930000336 |
+
+Radiologie et imagerie médicale |
+
+CHIAULNAY-RADIO-LC-18 |
+
+1665 |
+
+CENTRE HOSPITALIER DE VERSAILLES |
+
+780800256 |
+
+Radiologie et imagerie médicale |
+
+CHVERS-RADIO-LC-1 |
+
+1666 |
+
+CENTRE HOSPITALIER GENERAL RAMBOUILLET |
+
+780000329 |
+
+Radiologie et imagerie médicale |
+
+CHRAMB-RADIO-LC-1 |
+
+1667 |
+
+Centre Hospitalier Sud Essonne Dourdan-Etampes |
+
+910019447 |
+
+Radiologie et imagerie médicale |
+
+CHSE-RADIO-LC-4 |
+
+1668 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Radiologie et imagerie médicale |
+
+CHIPSG-RADIO-LC-10 |
+
+1669 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Radiologie et imagerie médicale |
+
+CHMANTES-RADIO-LC-12 |
+
+1670 |
+
+LOUIS MOURIER (GHU PARIS NORD) |
+
+750712184 |
+
+Radiologie et imagerie médicale |
+
+APHP-LM-RADIO-LC1 |
+
+1671 |
+
+HOPITAL AVICENNE (GHU PARIS SEINE SAINT DENIS) |
+
+750712184 |
+
+Radiologie et imagerie médicale |
+
+APHP-AVIC-RADIO-LC1 |
+
+1672 |
+
+C. H. Sud Seine-et-Marne site Fontainebleau |
+
+770000149 |
+
+Radiologie et imagerie médicale |
+
+CHS77-F-RADIO-LC1 |
+
+1673 |
+
+CENTRE HOSPITALIER GENERAL GONESSE |
+
+950000331 |
+
+Rhumatologie |
+
+CHGONESSE-RHUMATO-01 |
+
+1674 |
+
+CENTRE HOSPITALIER RENE DUBOS-PONTOISE |
+
+950110080 |
+
+Rhumatologie |
+
+CHPONTOISE-RHUMATO-LC4 |
+
+1675 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL DE POISSY SAINT GERMAIN |
+
+780001236 |
+
+Rhumatologie |
+
+CHIPSG-RHUMATO-LC-17 |
+
+1676 |
+
+CH FRANCOIS QUESNAY |
+
+780 110 011 |
+
+Rhumatologie |
+
+CHMANTES-RHUMATO-LC-02 |
+
+1677 |
 
 CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
@@ -12070,9 +16860,9 @@ CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
 Sage-femme |
 
-Sage-femme |
+CHSDENIS-SF-01 |
 
-1198 |
+1678 |
 
 CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
@@ -12080,9 +16870,9 @@ CENTRE HOSPITALIER GENERAL DE ST DENIS |
 
 Sage-femme |
 
-Sage-femme |
+CHSDENIS-SF-02 |
 
-1199 |
+1679 |
 
 CENTRE HOSPITALIER GENERAL GONESSE |
 
@@ -12090,27 +16880,17 @@ CENTRE HOSPITALIER GENERAL GONESSE |
 
 Sage-femme |
 
-Sage-femme |
+CHGONESSE-SF-01 |
 
-1200 |
+1680 |
 
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL NECKER |
+CTRE HOSPITALIER INTERCOMM R BALLANGER |
 
-750100208 |
+930000336 |
 
-Pharmacie polyvalente et pharmacie hospitalière |
+Urologie |
 
-Pharmacien |
-
-1201 |
-
-ASSISTANCE PUBLIQUE HOPITAUX DE PARIS HOPITAL LOUIS MOURIER |
-
-920100047 |
-
-Pharmacie polyvalente et pharmacie hospitalière |
-
-Pharmacien |
+CHIAULNAY-URO-LC-5 |
 
 Agence Régionale de Santé : |
 
@@ -12120,13 +16900,23 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1202 |
+1681 |
+
+CENTRE HOSPITALIER INTERCOMMUNAL ALENCON-MAMERS |
+
+610780082 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHICAM-23 |
+
+1682 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12134,9 +16924,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Anesthésie-réanimation (co-DES) |
 
-Praticien associé en anesthésiologie-réanimation |
+CHEure-Seine-01 |
 
-1203 |
+1683 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12144,19 +16934,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Anesthésie-réanimation (co-DES) |
 
-Praticien associé en anesthésiologie-réanimation |
+CHEure-Seine-02 |
 
-1204 |
-
-CHI Elbeuf-Louviers/ Val de Reuil |
-
-76000463 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésie |
-
-1205 |
+1684 |
 
 CHI Elbeuf-Louviers/ Val de Reuil |
 
@@ -12164,9 +16944,9 @@ CHI Elbeuf-Louviers/ Val de Reuil |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésie |
+CHIEL-02 |
 
-1206 |
+1685 |
 
 CH Lisieux |
 
@@ -12174,19 +16954,19 @@ CH Lisieux |
 
 Anesthésie-réanimation (co-DES) |
 
-réanimateur ou possibilité de partage d'activité réanimation et bloc anesthésie |
+CHLisieux-05 |
 
-1207 |
+1686 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésiste |
+CHArgentan-04 |
 
-1208 |
+1687 |
 
 CHICAM |
 
@@ -12194,9 +16974,9 @@ CHICAM |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésie |
+CHICAM-01 |
 
-1209 |
+1688 |
 
 CHICAM |
 
@@ -12204,19 +16984,49 @@ CHICAM |
 
 Chirurgie maxillo-faciale |
 
-Chirurgie maxillo-faciale |
+CHICAM-04 |
 
-1210 |
+1689 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Chirurgie orthopédique et traumatologique |
 
-Orthopédiste |
+CHArgentan-07 |
 
-1211 |
+1690 |
+
+CH ARGENTAN |
+
+61 078 009 0 |
+
+Chirurgie orthopédique et traumatologique |
+
+CHArgentan-08 |
+
+1691 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Chirurgie viscérale et digestive |
+
+CHPC-07 |
+
+1692 |
+
+Centre Hospitalier Avranches-Granville |
+
+50000054 |
+
+Endocrinologie, diabétologie et nutrition |
+
+CHAG-03 |
+
+1693 |
 
 CH Verneuil sur Avre |
 
@@ -12224,9 +17034,9 @@ CH Verneuil sur Avre |
 
 Gériatrie |
 
-Médecin gériatre en EHPAD |
+CHVerneuil-sur-Avre-02 |
 
-1212 |
+1694 |
 
 CH Pont Audemer |
 
@@ -12234,9 +17044,9 @@ CH Pont Audemer |
 
 Gériatrie |
 
-gériatre |
+CHPont-Audemer-02 |
 
-1213 |
+1695 |
 
 POLE SANITAIRE DU VEXIN |
 
@@ -12244,19 +17054,9 @@ POLE SANITAIRE DU VEXIN |
 
 Gériatrie |
 
-gériatre |
+POLE-SANITAIRE-DU-VEXIN-02 |
 
-1214 |
-
-CH Eure-Seine Hôpitaux Evreux-Vernon |
-
-270023724 |
-
-Gériatrie |
-
-Praticien associé en gériatrie |
-
-1215 |
+1696 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12264,9 +17064,19 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Gériatrie |
 
-Praticien associé en gériatrie |
+CHEure-Seine-05 |
 
-1216 |
+1697 |
+
+CH Eure-Seine Hôpitaux Evreux-Vernon |
+
+270023724 |
+
+Gériatrie |
+
+CHEure-Seine-06 |
+
+1698 |
 
 CH DU PAYS DES HAUTES FALAISES FECAMP |
 
@@ -12274,9 +17084,9 @@ CH DU PAYS DES HAUTES FALAISES FECAMP |
 
 Gériatrie |
 
-Gériatre |
+CH-FECAMP-02 |
 
-1217 |
+1699 |
 
 Groupe Hospitalier du Havre |
 
@@ -12284,9 +17094,9 @@ Groupe Hospitalier du Havre |
 
 Gériatrie |
 
-Gériatre |
+GHH-06 |
 
-1218 |
+1700 |
 
 CHI Elbeuf-Louviers/ Val de Reuil |
 
@@ -12294,9 +17104,9 @@ CHI Elbeuf-Louviers/ Val de Reuil |
 
 Gériatrie |
 
-SSR Gériatrique Louviers |
+CHIEL-01 |
 
-1219 |
+1701 |
 
 Centre Hospitalier de Vire |
 
@@ -12304,9 +17114,9 @@ Centre Hospitalier de Vire |
 
 Gériatrie |
 
-Gériatrie |
+CH-Vire-01 |
 
-1220 |
+1702 |
 
 CH FALAISE |
 
@@ -12314,9 +17124,9 @@ CH FALAISE |
 
 Gériatrie |
 
-Gériatre |
+CHFalaise-01 |
 
-1221 |
+1703 |
 
 CH Lisieux |
 
@@ -12324,9 +17134,9 @@ CH Lisieux |
 
 Gériatrie |
 
-médecin gériatre |
+CHLisieux-06 |
 
-1222 |
+1704 |
 
 CHIC DES ANDAINES |
 
@@ -12334,9 +17144,9 @@ CHIC DES ANDAINES |
 
 Gériatrie |
 
-Gériatrie |
+CHIC-des-Andaines-02 |
 
-1223 |
+1705 |
 
 CHICAM |
 
@@ -12344,9 +17154,9 @@ CHICAM |
 
 Gériatrie |
 
-gériatre |
+CHICAM-07 |
 
-1224 |
+1706 |
 
 CH L'AIGLE |
 
@@ -12354,9 +17164,9 @@ CH L'AIGLE |
 
 Gériatrie |
 
-Médecine générale |
+CHL'Aigle-01 |
 
-1225 |
+1707 |
 
 CH ST LO |
 
@@ -12364,19 +17174,19 @@ CH ST LO |
 
 Gériatrie |
 
-Spécialiste en gériatrie |
+CHSt-Lô-01 |
 
-1226 |
+1708 |
 
 CH COUTANCES |
 
-500000591 |
+50 000 039 3 |
 
 Gériatrie |
 
-Spécialiste en gériatrie |
+CHCoutance-01 |
 
-1227 |
+1709 |
 
 CH ESTRAN |
 
@@ -12384,19 +17194,9 @@ CH ESTRAN |
 
 Gériatrie |
 
-praticien gériatre en EHPAD |
+CHEstran-01 |
 
-1228 |
-
-Centre Hospitalier Public du Cotentin |
-
-500000013 |
-
-Gériatrie |
-
-Praticien attaché associé |
-
-1229 |
+1710 |
 
 Centre Hospitalier Public du Cotentin |
 
@@ -12404,9 +17204,9 @@ Centre Hospitalier Public du Cotentin |
 
 Gériatrie |
 
-Praticien attaché associé |
+CHPC-02 |
 
-1230 |
+1711 |
 
 Centre Hospitalier Public du Cotentin |
 
@@ -12414,9 +17214,49 @@ Centre Hospitalier Public du Cotentin |
 
 Gériatrie |
 
-Praticien attaché associé |
+CHPC-03 |
 
-1231 |
+1712 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Gériatrie |
+
+CHPC-05 |
+
+1713 |
+
+POLE SANITAIRE DU VEXIN |
+
+270000086 |
+
+Gériatrie |
+
+POLE-SANITAIRE-DU-VEXIN-04 |
+
+1714 |
+
+POLE SANITAIRE DU VEXIN |
+
+270000086 |
+
+Gériatrie |
+
+POLE-SANITAIRE-DU-VEXIN-05 |
+
+1715 |
+
+Centre Hospitalier de Gournay-en-Bray |
+
+760780049 |
+
+Gériatrie |
+
+CH Gournay-01 |
+
+1716 |
 
 POLE SANITAIRE DU VEXIN |
 
@@ -12424,9 +17264,9 @@ POLE SANITAIRE DU VEXIN |
 
 Gynécologie-obstétrique |
 
-gynécologue |
+POLE-SANITAIRE-DU-VEXIN-03 |
 
-1232 |
+1717 |
 
 CENTRE HOSPITALIER AUNAY-BAYEUX |
 
@@ -12434,39 +17274,39 @@ CENTRE HOSPITALIER AUNAY-BAYEUX |
 
 Gynécologie-obstétrique |
 
-Praticien en gynécologie obstétrique |
+CHAB-01 |
 
-1233 |
+1718 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Gynécologie-obstétrique |
 
-Obstétricien |
+CHArgentan-06 |
 
-1234 |
+1719 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Gynécologie-obstétrique |
 
-Gynécologie/ obstétrique |
+CHMonod-Flers-07 |
 
-1235 |
+1720 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Gynécologie-obstétrique |
 
-Gynécologie/ obstétrique |
+CHMonod-Flers-08 |
 
-1236 |
+1721 |
 
 CHICAM |
 
@@ -12474,9 +17314,9 @@ CHICAM |
 
 Gynécologie-obstétrique |
 
-Gynécologie |
+CHICAM-08 |
 
-1237 |
+1722 |
 
 CH L'AIGLE |
 
@@ -12484,9 +17324,19 @@ CH L'AIGLE |
 
 Gynécologie-obstétrique |
 
-médecin gynécologue-obstétricien |
+CHL'Aigle-02 |
 
-1238 |
+1723 |
+
+Centre Hospitalier de Dieppe |
+
+760780023 |
+
+Gynécologie-Obstétrique |
+
+CH-Dieppe-04 |
+
+1724 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12494,9 +17344,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Hématologie |
 
-Praticien associé en hématologie |
+CHEure-Seine-07 |
 
-1239 |
+1725 |
 
 CHICAM |
 
@@ -12504,19 +17354,9 @@ CHICAM |
 
 Hématologie |
 
-Hématologie |
+CHICAM-09 |
 
-1240 |
-
-CH Eure-Seine Hôpitaux Evreux-Vernon |
-
-270023724 |
-
-Hépato-gastro-entérologie |
-
-Praticien associé en gastro-entérologie |
-
-1241 |
+1726 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12524,9 +17364,19 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Hépato-gastro-entérologie |
 
-Praticien associé en hépato-gastro-entérologie |
+CHEure-Seine-04 |
 
-1242 |
+1727 |
+
+CH Eure-Seine Hôpitaux Evreux-Vernon |
+
+270023724 |
+
+Hépato-gastro-entérologie |
+
+CHEure-Seine-08 |
+
+1728 |
 
 CH Lisieux |
 
@@ -12534,19 +17384,19 @@ CH Lisieux |
 
 Hépato-gastro-entérologie |
 
-gastro-entérologue |
+CHLisieux-03 |
 
-1243 |
+1729 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Hépato-gastro-entérologie |
 
-Gastroentérologie |
+CHMonod-Flers-03 |
 
-1244 |
+1730 |
 
 CHICAM |
 
@@ -12554,9 +17404,29 @@ CHICAM |
 
 Hépato-gastro-entérologie |
 
-Gastroentérologie |
+CHICAM-06 |
 
-1245 |
+1731 |
+
+Centre Hospitalier de Dieppe |
+
+760780023 |
+
+Hépato-Gastro-entérologie |
+
+CH-Dieppe-06 |
+
+1732 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Hépato-gastro-entérologie |
+
+CHPC-15 |
+
+1733 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12564,9 +17434,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Médecine cardiovasculaire (co-DES) |
 
-Praticien associé en cardiologie |
+CHEure-Seine-03 |
 
-1246 |
+1734 |
 
 CH DU PAYS DES HAUTES FALAISES FECAMP |
 
@@ -12574,9 +17444,9 @@ CH DU PAYS DES HAUTES FALAISES FECAMP |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CH-FECAMP-01 |
 
-1247 |
+1735 |
 
 centre hospitalier de la Côte Fleurie |
 
@@ -12584,29 +17454,29 @@ centre hospitalier de la Côte Fleurie |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHCôte-Fleurie-01 |
 
-1248 |
+1736 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHArgentan-01 |
 
-1249 |
+1737 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologie |
+CHMonod-Flers-06 |
 
-1250 |
+1738 |
 
 CHICAM |
 
@@ -12614,9 +17484,9 @@ CHICAM |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologie |
+CHICAM-02 |
 
-1251 |
+1739 |
 
 CHICAM |
 
@@ -12624,9 +17494,9 @@ CHICAM |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologie |
+CHICAM-03 |
 
-1252 |
+1740 |
 
 CH Avranches-Granville |
 
@@ -12634,9 +17504,29 @@ CH Avranches-Granville |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologie |
+CHAG-01 |
 
-1253 |
+1741 |
+
+Groupe Hospitalier du Havre |
+
+760805770 |
+
+Médecine cardiovasculaire (co-DES) |
+
+GHH-08 |
+
+1742 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine cardiovasculaire (co-DES) |
+
+CHPC-08 |
+
+1743 |
 
 CH Verneuil sur Avre |
 
@@ -12644,9 +17534,9 @@ CH Verneuil sur Avre |
 
 Médecine d'urgence |
 
-médecin urgences-SMUR-UHTCD |
+CHVerneuil-sur-Avre-01 |
 
-1254 |
+1744 |
 
 CH Bernay |
 
@@ -12654,9 +17544,9 @@ CH Bernay |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+CHBernay-01 |
 
-1255 |
+1745 |
 
 CH FALAISE |
 
@@ -12664,19 +17554,19 @@ CH FALAISE |
 
 Médecine d'urgence |
 
-Urgentiste |
+CHFalaise-02 |
 
-1256 |
+1746 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Médecine d'urgence |
 
-Urgences |
+CHMonod-Flers-04 |
 
-1257 |
+1747 |
 
 CHICAM |
 
@@ -12684,9 +17574,39 @@ CHICAM |
 
 Médecine d'urgence |
 
+CHICAM-11 |
+
+1748 |
+
+CH Eure-Seine Hôpitaux Evreux-Vernon |
+
+270023724 |
+
 Médecine d'urgence |
 
-1258 |
+CHEure-Seine-20 |
+
+1749 |
+
+CHICAM |
+
+610780082 |
+
+Médecine d'urgence |
+
+CHICAM-24 |
+
+1750 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine d'urgence |
+
+CHPC-13 |
+
+1751 |
 
 CHICAM |
 
@@ -12694,9 +17614,19 @@ CHICAM |
 
 Médecine et santé au travail |
 
-Médecine du travail |
+CHICAM-10 |
 
-1259 |
+1752 |
+
+CHU de Caen-Normandie |
+
+140000209 |
+
+Médecine et santé au travail |
+
+CHUCN-02 |
+
+1753 |
 
 CH Verneuil sur Avre |
 
@@ -12704,19 +17634,19 @@ CH Verneuil sur Avre |
 
 Médecine générale |
 
-médecin généraliste |
+CHVerneuil-sur-Avre-03 |
 
-1260 |
+1754 |
 
 CH Pont Audemer |
 
 270000102 |
 
-médecine générale |
+Médecine générale |
 
-médecine |
+CHPont-Audemer-01 |
 
-1261 |
+1755 |
 
 POLE SANITAIRE DU VEXIN |
 
@@ -12724,19 +17654,19 @@ POLE SANITAIRE DU VEXIN |
 
 Médecine générale |
 
-médecin généraliste |
+POLE-SANITAIRE-DU-VEXIN-01 |
 
-1262 |
+1756 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Médecine générale |
 
-Médecin généraliste |
+NOUVEL-HOPITAL-DE-NAVARRE-10 |
 
-1263 |
+1757 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12744,19 +17674,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Médecine générale |
 
-Praticien associé en médecine générale |
+CHEure-Seine-12 |
 
-1264 |
-
-CH Eure-Seine Hôpitaux Evreux-Vernon |
-
-270023724 |
-
-Médecine générale |
-
-Praticien associé en oncologie |
-
-1265 |
+1758 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12764,9 +17684,19 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Médecine générale |
 
-Praticien associé aux urgences |
+CHEure-Seine-14 |
 
-1266 |
+1759 |
+
+CH Eure-Seine Hôpitaux Evreux-Vernon |
+
+270023724 |
+
+Médecine générale |
+
+CHEure-Seine-19 |
+
+1760 |
 
 Centre Hospitalier de Dieppe |
 
@@ -12774,9 +17704,9 @@ Centre Hospitalier de Dieppe |
 
 Médecine générale |
 
-Médecin polyvalent |
+CH-Dieppe-03 |
 
-1267 |
+1761 |
 
 CHI Caux Vallée de Seine |
 
@@ -12784,9 +17714,9 @@ CHI Caux Vallée de Seine |
 
 Médecine Générale |
 
-Praticien Associé |
+CHI-Caux-Vallee-de-Seine-01 |
 
-1268 |
+1762 |
 
 Centre Hospitalier de Vire |
 
@@ -12794,19 +17724,19 @@ Centre Hospitalier de Vire |
 
 Médecine générale |
 
-Médecine générale |
+CH-Vire-02 |
 
-1269 |
+1763 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHArgentan-05 |
 
-1270 |
+1764 |
 
 CENTRE HOSPITALIER MARGUERITE DE LORRAINE |
 
@@ -12814,9 +17744,9 @@ CENTRE HOSPITALIER MARGUERITE DE LORRAINE |
 
 Médecine générale |
 
-Médecine générale |
+CHMArguerite-de-Lorraine-01 |
 
-1271 |
+1765 |
 
 CENTRE HOSPITALIER MARGUERITE DE LORRAINE |
 
@@ -12824,9 +17754,9 @@ CENTRE HOSPITALIER MARGUERITE DE LORRAINE |
 
 Médecine générale |
 
-Médecine générale |
+CHMArguerite-de-Lorraine-02 |
 
-1272 |
+1766 |
 
 CHIC DES ANDAINES |
 
@@ -12834,19 +17764,19 @@ CHIC DES ANDAINES |
 
 Médecine générale |
 
-Médecine générale |
+CHIC-des-Andaines-01 |
 
-1273 |
+1767 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Médecine générale |
 
-Médecine polyvalente |
+CHMonod-Flers-01 |
 
-1274 |
+1768 |
 
 CHICAM |
 
@@ -12854,19 +17784,9 @@ CHICAM |
 
 Médecine générale |
 
-Médecine générale |
+CHICAM-12 |
 
-1275 |
-
-CHICAM |
-
-610780082 |
-
-Médecine générale |
-
-Médecine générale |
-
-1276 |
+1769 |
 
 CHICAM |
 
@@ -12874,9 +17794,9 @@ CHICAM |
 
 Médecine générale |
 
-Médecine générale |
+CHICAM-13 |
 
-1277 |
+1770 |
 
 CHICAM |
 
@@ -12884,19 +17804,29 @@ CHICAM |
 
 Médecine générale |
 
+CHICAM-14 |
+
+1771 |
+
+CHICAM |
+
+610780082 |
+
 Médecine générale |
 
-1278 |
+CHICAM-15 |
+
+1772 |
 
 CH COUTANCES |
 
-500000591 |
+50 000 039 3 |
 
 Médecine générale |
 
-Spécialiste en médecine générale |
+CHCoutance-02 |
 
-1279 |
+1773 |
 
 Centre Hospitalier Public du Cotentin |
 
@@ -12904,19 +17834,99 @@ Centre Hospitalier Public du Cotentin |
 
 Médecine générale |
 
-Praticien attaché associé |
+CHPC-06 |
 
-1280 |
+1774 |
 
 FONDATION BON SAUVEUR DE LA MANCHE |
 
-500000252 |
+50 001 038 4 |
 
 Médecine générale |
 
-Médecin addictologue |
+Fondation-Bon-Sauveur-de-la-Manche-01 |
 
-1281 |
+1775 |
+
+Groupe Hospitalier du Havre |
+
+760805770 |
+
+Médecine générale |
+
+GHH-09 |
+
+1776 |
+
+CHU de Caen-Normandie |
+
+140000209 |
+
+Médecine générale |
+
+CHUCN-01 |
+
+1777 |
+
+Centre hospitalier universitaire |
+
+760000158 |
+
+Médecine générale |
+
+CHU Rouen-01 |
+
+1778 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine Générale |
+
+CHPC-09 |
+
+1779 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine Générale |
+
+CHPC-10 |
+
+1780 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine Générale |
+
+CHPC-11 |
+
+1781 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine Générale |
+
+CHPC-12 |
+
+1782 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Médecine Interne |
+
+CHPC-14 |
+
+1783 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12924,19 +17934,29 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Médecine interne et immunologie clinique (co-DES) |
 
-Praticien associé en infectiologie |
+CHEure-Seine-11 |
 
-1282 |
+1784 |
 
 CH COUTANCES |
 
-500000591 |
+50 000 039 3 |
 
 Médecine interne et immunologie clinique (co-DES) |
 
-Spécialiste en médecine interne |
+CHCoutance-03 |
 
-1283 |
+1785 |
+
+Groupe Hospitalier du Havre |
+
+760805770 |
+
+Médecine interne et immunologie clinique (co-DES) |
+
+GHH-10 |
+
+1786 |
 
 CHICAM |
 
@@ -12944,9 +17964,9 @@ CHICAM |
 
 Néphrologie |
 
-Néphrologie |
+CHICAM-17 |
 
-1284 |
+1787 |
 
 CH Lisieux |
 
@@ -12954,9 +17974,9 @@ CH Lisieux |
 
 Neurologie |
 
-neurologue |
+CHLisieux-04 |
 
-1285 |
+1788 |
 
 CHICAM |
 
@@ -12964,9 +17984,9 @@ CHICAM |
 
 Neurologie |
 
-Neurologie |
+CHICAM-18 |
 
-1286 |
+1789 |
 
 Centre Hospitalier Public du Cotentin |
 
@@ -12974,9 +17994,19 @@ Centre Hospitalier Public du Cotentin |
 
 Neurologie |
 
-Praticien attaché associé |
+CHPC-01 |
 
-1287 |
+1790 |
+
+Centre Hospitalier Public du Cotentin |
+
+500000013 |
+
+Neurologie |
+
+CHPC-16 |
+
+1791 |
 
 CHICAM |
 
@@ -12984,9 +18014,9 @@ CHICAM |
 
 Odontologie |
 
-Chirurgie orale |
+CHICAM-05 |
 
-1288 |
+1792 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -12994,9 +18024,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Oncologie |
 
-Praticien associé en oncologie |
+CHEure-Seine-13 |
 
-1289 |
+1793 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -13004,19 +18034,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Ophtalmologie |
 
-Praticien associé en ophtalmologie |
+CHEure-Seine-15 |
 
-1290 |
-
-CHICAM |
-
-610780082 |
-
-ORL-chirurgie maxillo-faciale |
-
-Oto-rhino-laryngologie |
-
-1291 |
+1794 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -13024,9 +18044,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Pédiatrie |
 
-Praticien associé en pédiatrie |
+CHEure-Seine-16 |
 
-1292 |
+1795 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -13034,9 +18054,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Pédiatrie |
 
-Praticien associé en pédiatrie |
+CHEure-Seine-17 |
 
-1293 |
+1796 |
 
 CH Lisieux |
 
@@ -13044,9 +18064,9 @@ CH Lisieux |
 
 Pédiatrie |
 
-pédiatre |
+CHLisieux-01 |
 
-1294 |
+1797 |
 
 CHICAM |
 
@@ -13054,9 +18074,19 @@ CHICAM |
 
 Pédiatrie |
 
+CHICAM-20 |
+
+1798 |
+
+Centre hospitalier Mémorial |
+
+500000112 |
+
 Pédiatrie |
 
-1295 |
+CHSt-Lô-02 |
+
+1799 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -13064,9 +18094,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Pneumologie |
 
-Praticien associé en pneumologie |
+CHEure-Seine-18 |
 
-1296 |
+1800 |
 
 CH Lisieux |
 
@@ -13074,29 +18104,29 @@ CH Lisieux |
 
 Pneumologie |
 
-pneumologue |
+CHLisieux-02 |
 
-1297 |
+1801 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Pneumologie |
 
-Pneumologue |
+CHArgentan-02 |
 
-1298 |
+1802 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Pneumologie |
 
-Pneumologie |
+CHMonod-Flers-02 |
 
-1299 |
+1803 |
 
 CHICAM |
 
@@ -13104,99 +18134,99 @@ CHICAM |
 
 Pneumologie |
 
-Pneumologie |
+CHICAM-21 |
 
-1300 |
-
-NOUVEL HOPITAL DE NAVARRE |
-
-270016058 |
-
-Psychiatrie |
-
-Médecin psychiatre Pôle Eure Ouest |
-
-1301 |
+1804 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre Pôle Eure Ouest |
+NOUVEL-HOPITAL-DE-NAVARRE-01 |
 
-1302 |
+1805 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre Pôle Eure Ouest |
+NOUVEL-HOPITAL-DE-NAVARRE-02 |
 
-1303 |
+1806 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre Pôle Eure Est |
+NOUVEL-HOPITAL-DE-NAVARRE-03 |
 
-1304 |
+1807 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre Pôle Eure Est |
+NOUVEL-HOPITAL-DE-NAVARRE-04 |
 
-1305 |
+1808 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre Pôle Eure Est |
+NOUVEL-HOPITAL-DE-NAVARRE-05 |
 
-1306 |
+1809 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre de l'Enfant et de l'Adolescent |
+NOUVEL-HOPITAL-DE-NAVARRE-06 |
 
-1307 |
+1810 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre de l'Enfant et de l'Adolescent |
+NOUVEL-HOPITAL-DE-NAVARRE-07 |
 
-1308 |
+1811 |
 
 NOUVEL HOPITAL DE NAVARRE |
 
-270016058 |
+27 000 021 9 |
 
 Psychiatrie |
 
-Médecin psychiatre de l'Enfant et de l'Adolescent |
+NOUVEL-HOPITAL-DE-NAVARRE-08 |
 
-1309 |
+1812 |
+
+NOUVEL HOPITAL DE NAVARRE |
+
+27 000 021 9 |
+
+Psychiatrie |
+
+NOUVEL-HOPITAL-DE-NAVARRE-09 |
+
+1813 |
 
 Centre Hospitalier de Dieppe |
 
@@ -13204,19 +18234,9 @@ Centre Hospitalier de Dieppe |
 
 Psychiatrie |
 
-Pédopsychiatre |
+CH-Dieppe-01 |
 
-1310 |
-
-Groupe Hospitalier du Havre |
-
-760805770 |
-
-Psychiatrie |
-
-Psychiatre |
-
-1311 |
+1814 |
 
 Groupe Hospitalier du Havre |
 
@@ -13224,19 +18244,9 @@ Groupe Hospitalier du Havre |
 
 Psychiatrie |
 
-Psychiatre |
+GHH-01 |
 
-1312 |
-
-Groupe Hospitalier du Havre |
-
-760805770 |
-
-Psychiatrie |
-
-Psychiatre |
-
-1313 |
+1815 |
 
 Groupe Hospitalier du Havre |
 
@@ -13244,9 +18254,29 @@ Groupe Hospitalier du Havre |
 
 Psychiatrie |
 
-Psychiatre |
+GHH-02 |
 
-1314 |
+1816 |
+
+Groupe Hospitalier du Havre |
+
+760805770 |
+
+Psychiatrie |
+
+GHH-03 |
+
+1817 |
+
+Groupe Hospitalier du Havre |
+
+760805770 |
+
+Psychiatrie |
+
+GHH-04 |
+
+1818 |
 
 Centre Hospitalier du Rouvray |
 
@@ -13254,9 +18284,9 @@ Centre Hospitalier du Rouvray |
 
 Psychiatrie |
 
-Psychiatre pôle Des Deux Rives |
+CHR-01 |
 
-1315 |
+1819 |
 
 Centre Hospitalier du Rouvray |
 
@@ -13264,9 +18294,9 @@ Centre Hospitalier du Rouvray |
 
 Psychiatrie |
 
-Psychiatre pôle Rouen Seine CauX Bray |
+CHR-02 |
 
-1316 |
+1820 |
 
 CPO ALENCON |
 
@@ -13274,19 +18304,19 @@ CPO ALENCON |
 
 PSYCHIATRIE |
 
-Praticien associé |
+CPO-Alençon-01 |
 
-1317 |
+1821 |
 
 CH J MONOD FLERS |
 
-610000119 |
+610780165 |
 
 Psychiatrie |
 
-Psychiatrie |
+CHMonod-Flers-05 |
 
-1318 |
+1822 |
 
 CH ESTRAN |
 
@@ -13294,9 +18324,29 @@ CH ESTRAN |
 
 Psychiatrie |
 
-Praticien psychiatre auprès du CMPEA/ HDJ |
+CHEstran-02 |
 
-1319 |
+1823 |
+
+Centre Hospitalier de Dieppe |
+
+760780023 |
+
+Psychiatrie |
+
+CH-Dieppe-05 |
+
+1824 |
+
+Groupe Hospitalier du Havre |
+
+760805770 |
+
+Psychiatrie |
+
+GHH-12 |
+
+1825 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -13304,9 +18354,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Radiologie et imagerie médicale |
 
-Praticien associé en imagerie médicale |
+CHEure-Seine-09 |
 
-1320 |
+1826 |
 
 CH Eure-Seine Hôpitaux Evreux-Vernon |
 
@@ -13314,9 +18364,9 @@ CH Eure-Seine Hôpitaux Evreux-Vernon |
 
 Radiologie et imagerie médicale |
 
-Praticien associé en imagerie médicale |
+CHEure-Seine-10 |
 
-1321 |
+1827 |
 
 Centre Hospitalier de Dieppe |
 
@@ -13324,9 +18374,9 @@ Centre Hospitalier de Dieppe |
 
 Radiologie et imagerie médicale |
 
-Radiologue |
+CH-Dieppe-02 |
 
-1322 |
+1828 |
 
 Groupe Hospitalier du Havre |
 
@@ -13334,9 +18384,9 @@ Groupe Hospitalier du Havre |
 
 Radiologie et imagerie médicale |
 
-Praticien Radiologue |
+GHH-05 |
 
-1323 |
+1829 |
 
 CHI Elbeuf-Louviers/ Val de Reuil |
 
@@ -13344,9 +18394,9 @@ CHI Elbeuf-Louviers/ Val de Reuil |
 
 Radiologie et imagerie médicale |
 
-Imagerie Médicale |
+CHIEL-04 |
 
-1324 |
+1830 |
 
 CH FALAISE |
 
@@ -13354,9 +18404,9 @@ CH FALAISE |
 
 Radiologie et imagerie médicale |
 
-Radiologue |
+CHFalaise-03 |
 
-1325 |
+1831 |
 
 CH Lisieux |
 
@@ -13364,19 +18414,19 @@ CH Lisieux |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+CHLisieux-07 |
 
-1326 |
+1832 |
 
 CH ARGENTAN |
 
-61 00000 69 |
+61 078 009 0 |
 
 Radiologie et imagerie médicale |
 
-Radiologue |
+CHArgentan-03 |
 
-1327 |
+1833 |
 
 CHICAM |
 
@@ -13384,9 +18434,9 @@ CHICAM |
 
 Radiologie et imagerie médicale |
 
-Radiologie |
+CHICAM-22 |
 
-1328 |
+1834 |
 
 CH Avranches-Granville |
 
@@ -13394,9 +18444,9 @@ CH Avranches-Granville |
 
 Radiologie et imagerie médicale |
 
-Imagerie et radio-diagnostic |
+CHAG-02 |
 
-1329 |
+1835 |
 
 Centre Hospitalier Public du Cotentin |
 
@@ -13404,73 +18454,23 @@ Centre Hospitalier Public du Cotentin |
 
 Radiologie et imagerie médicale |
 
-Praticien attaché associé |
+CHPC-04 |
 
 Agence Régionale de Santé : |
 
-Nouvelle Aquitaine |
+Nouvelle-Aquitaine |
 
 Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1330 |
-
-Centre Hospitalier Cœur de Corrèze-Tulle |
-
-190000059 |
-
-Biologie médicale |
-
-Pharmacien biologiste |
-
-1331 |
-
-Centre Hospitalier Samuel Pozzi Bergerac |
-
-240000059 |
-
-Biologie médicale |
-
-Pharmacien biologiste |
-
-1332 |
-
-Polyclinique Bordeaux Nord Aquitaine |
-
-330780479 |
-
-Pharmacie polyvalente |
-
-Pharmacien |
-
-1333 |
-
-Centre Hospitalier de Brive |
-
-190000042 |
-
-Odontologie |
-
-Chirurgien-dentiste/ Odontologie |
-
-1334 |
-
-Centre Hospitalier de Guéret |
-
-230780041 |
-
-Sage-femme |
-
-Sage-femme |
-
-1335 |
+1836 |
 
 Centre Hospitalier de Niort |
 
@@ -13478,9 +18478,9 @@ Centre Hospitalier de Niort |
 
 Anatomie et cytologie pathologique |
 
-Médecin anapath |
+CHNiort-12 |
 
-1336 |
+1837 |
 
 CHU Poitiers |
 
@@ -13488,199 +18488,169 @@ CHU Poitiers |
 
 Anatomie et cytologie pathologique |
 
-Médecin anapath |
+CHUPoitiers-05 |
 
-1337 |
+1838 |
+
+CHU Poitiers |
+
+860014208 |
+
+Anatomie et cytologie pathologique |
+
+CHUPoitiers-07 |
+
+1839 |
 
 Centre Hospitalier Jonzac |
 
 170780050 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHJonzac-06 |
 
-1338 |
+1840 |
 
 Centre Hospitalier Saintonge |
 
 170792220 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHSaintes-02 |
 
-1339 |
+1841 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
 190000059 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHTulle-16 |
 
-1340 |
-
-Centre Hospitalier Haute-Corrèze-Ussel |
-
-190000091 |
-
-Anesthésie-réanimation |
-
-Médecin anesthésiste-réanimateur |
-
-1341 |
-
-Centre Hospitalier Haute-Corrèze-Ussel |
-
-190000091 |
-
-Anesthésie-réanimation |
-
-Médecin anesthésiste-réanimateur |
-
-1342 |
+1842 |
 
 Centre Hospitalier de Guéret |
 
 230780041 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHGuéret-11 |
 
-1343 |
+1843 |
 
 Centre Hospitalier Samuel Pozzi Bergerac |
 
 240000059 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHBergerac-06 |
 
-1344 |
-
-CHI Mont de Marsan |
-
-400011177 |
-
-Anesthésie-réanimation |
-
-Médecin anesthésiste-réanimateur |
-
-1345 |
-
-CHI Mont de Marsan |
-
-400011177 |
-
-Anesthésie-réanimation |
-
-Médecin anesthésiste-réanimateur |
-
-1346 |
+1844 |
 
 Centre Hospitalier Agen-Nérac |
 
 470016171 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHAgen-01 |
 
-1347 |
+1845 |
 
 Centre Hospitalier Agen-Nérac |
 
 470016171 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHAgen-03 |
 
-1348 |
+1846 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHVilleneuve-09 |
 
-1349 |
+1847 |
 
 Centre Hospitalier de Pau |
 
 640781290 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHPau-01 |
 
-1350 |
+1848 |
 
 Centre Hospitalier de Niort |
 
 790000012 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHNiort-03 |
 
-1351 |
+1849 |
 
 CHU Poitiers |
 
 860014208 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHUPoitiers-01 |
 
-1352 |
-
-CHU Limoges |
-
-870000064 |
-
-Anesthésie-réanimation |
-
-Médecin anesthésiste-réanimateur |
-
-1353 |
+1850 |
 
 CHU Limoges |
 
-870000064 |
+87 000 001 5 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHULimoges-02 |
 
-1354 |
+1851 |
+
+CHU Limoges |
+
+87 000 001 5 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHULimoges-03 |
+
+1852 |
 
 Centre Hospitalier Agen-Nérac |
 
 470016171 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+CHAgen-08 |
 
-1355 |
+1853 |
 
-Polyclinique Bordeaux Nord Aquitaine |
+Centre Hospitalier Nord Deux-Sèvres |
 
-330780479 |
+790006654 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste-réanimateur |
+|
 
-1356 |
+1854 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -13688,9 +18658,39 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Biologie médicale |
 
-Médecin biologiste |
+CHTulle-02 |
 
-1357 |
+1855 |
+
+Centre Hospitalier Samuel Pozzi Bergerac |
+
+240000059 |
+
+Biologie médicale |
+
+CHBergerac-02 |
+
+1856 |
+
+Centre Hospitalier Cœur de Corrèze-Tulle |
+
+190000059 |
+
+Biologie médicale |
+
+CHTulle-01 |
+
+1857 |
+
+CHU Poitiers |
+
+860014208 |
+
+Médecine cardiovasculaire |
+
+|
+
+1858 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -13698,9 +18698,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Chirurgie orthopédique et traumatologique |
 
-Médecin chirurgien |
+CHTulle-03 |
 
-1358 |
+1859 |
 
 Centre Hospitalier de Guéret |
 
@@ -13708,49 +18708,39 @@ Centre Hospitalier de Guéret |
 
 Chirurgie orthopédique et traumatologique |
 
-Médecin chirurgien |
+CHGuéret-12 |
 
-1359 |
+1860 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
 Chirurgie orthopédique et traumatologique |
 
-Médecin chirurgien |
+CHVilleneuve-07 |
 
-1360 |
+1861 |
 
-Centre Hospitalier de Niort |
+CHU de Bordeaux |
 
-790000012 |
+330781196 |
 
-Chirurgie orthopédique et traumatologique |
+Chirurgie orthopédique et traumatologique Chirurgien infantile orthopédie pédiatrique |
 
-Médecin chirurgien |
+CHUBdx-02 |
 
-1361 |
+1862 |
 
-Centre clinical |
+Centre Hospitalier Angoulême |
 
-160013207 |
+16 000 045 1 |
 
-Chirurgie orthopédique et traumatologique |
+Chirurgie viscérale er digestive |
 
-Médecin chirurgien |
+CHAngoulême-04 |
 
-1362 |
-
-Centre Hospitalier de Niort |
-
-790000012 |
-
-Chirurgie orthopédique et traumatologique |
-
-Médecin chirurgien |
-
-1363 |
+1863 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -13758,9 +18748,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Chirurgie viscérale et digestive |
 
-Médecin chirurgien |
+CHTulle-17 |
 
-1364 |
+1864 |
 
 Centre Hospitalier de Guéret |
 
@@ -13768,29 +18758,19 @@ Centre Hospitalier de Guéret |
 
 Chirurgie viscérale et digestive |
 
-Médecin chirurgien |
+CHGuéret-13 |
 
-1365 |
-
-Centre Hospitalier Jean Leclair-Sarlat |
-
-240000687 |
-
-Chirurgie viscérale et digestive |
-
-Médecin chirurgien |
-
-1366 |
+1865 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
 Chirurgie viscérale et digestive |
 
-Médecin chirurgien |
+CHVilleneuve-08 |
 
-1367 |
+1866 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -13798,19 +18778,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Dermatologie et vénéréologie |
 
-Médecin dermatologue |
+CHTulle-04 |
 
-1368 |
-
-Centre Hospitalier de Brive |
-
-190000042 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrinologue |
-
-1369 |
+1867 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -13818,39 +18788,29 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Endocrinologie-diabétologie-nutrition |
 
-Médecin endocrinologue |
+CHTulle-05 |
 
-1370 |
-
-Centre Hospitalier de Guéret |
-
-230780041 |
-
-Endocrinologie-diabétologie-nutrition |
-
-Médecin endocrinologue |
-
-1371 |
+1868 |
 
 Centre Hospitalier de Périgueux |
 
-240000489 |
+24 000 011 7 |
 
 Endocrinologie-diabétologie-nutrition |
 
-Médecin endocrinologue |
+CH Périgueux-03 |
 
-1372 |
+1869 |
 
 Hôpital Suburbain du Bouscat |
 
-330000332 |
+33 078 054 5 |
 
 Endocrinologie-diabétologie-nutrition |
 
-Médecin endocrinologue |
+HôpitalBouscat-01 |
 
-1373 |
+1870 |
 
 Centre Hospitalier Confolens |
 
@@ -13858,29 +18818,29 @@ Centre Hospitalier Confolens |
 
 Gériatrie |
 
-Médecin gériatre |
+CHConfolens-02 |
 
-1374 |
+1871 |
 
 Centre Hospitalier La Rochefoucauld |
 
-160000188 |
+16 000 012 1 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHLARochefoucauld-02 |
 
-1375 |
+1872 |
 
 Centre Hospitalier Ruffec |
 
-160000337 |
+16 000 049 3 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHRuffec-03 |
 
-1376 |
+1873 |
 
 Centre Hospitalier Jonzac |
 
@@ -13888,29 +18848,29 @@ Centre Hospitalier Jonzac |
 
 Gériatrie |
 
-Médecin gériatre |
+CHJonzac-04 |
 
-1377 |
-
-Centre Hospitalier de Royan |
-
-170000129 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1378 |
+1874 |
 
 Centre Hospitalier de Royan |
 
-170000129 |
+17 078 019 1 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHRoyan-03 |
 
-1379 |
+1875 |
+
+Centre Hospitalier de Royan |
+
+17 078 019 1 |
+
+Gériatrie |
+
+CHRoyan-04 |
+
+1876 |
 
 Centre Hospitalier Saintonge |
 
@@ -13918,9 +18878,9 @@ Centre Hospitalier Saintonge |
 
 Gériatrie |
 
-Médecin gériatre |
+CHSaintes-04 |
 
-1380 |
+1877 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -13928,19 +18888,19 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Gériatrie |
 
-Médecin gériatre |
+CHTulle-07 |
 
-1381 |
+1878 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHUssel-13 |
 
-1382 |
+1879 |
 
 Centre Hospitalier de Guéret |
 
@@ -13948,9 +18908,9 @@ Centre Hospitalier de Guéret |
 
 Gériatrie |
 
-Médecin gériatre |
+CHGuéret-06 |
 
-1383 |
+1880 |
 
 Centre Hospitalier Samuel Pozzi Bergerac |
 
@@ -13958,29 +18918,19 @@ Centre Hospitalier Samuel Pozzi Bergerac |
 
 Gériatrie |
 
-Médecin gériatre |
+CHBergerac-01 |
 
-1384 |
+1881 |
 
 Centre Hospitalier Jean Leclair-Sarlat |
 
-240000687 |
+24 000 044 8 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHSarlat-02 |
 
-1385 |
-
-Centre Hospitalier Sainte Foy La Grande |
-
-330000613 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1386 |
+1882 |
 
 CHI Marmande-Tonneins |
 
@@ -13988,69 +18938,49 @@ CHI Marmande-Tonneins |
 
 Gériatrie |
 
-Médecin gériatre |
+CHIMarmande-01 |
 
-1387 |
-
-CHI Marmande-Tonneins |
-
-470001660 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1388 |
+1883 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHVilleneuve-05 |
 
-1389 |
+1884 |
 
 Centre Hospitalier d'Orthez |
 
-640000402 |
+64 078 081 3 |
 
 Gériatrie |
 
-Médecin généraliste |
+CHOrthez-02 |
 
-1390 |
-
-CHU Poitiers |
-
-860014208 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1391 |
+1885 |
 
 CHU Limoges |
 
-870000064 |
+87 000 001 5 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHULimoges-04 |
 
-1392 |
+1886 |
 
 Centre Hospitalier de Royan |
 
-170000129 |
+17 078 019 1 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHRoyan-05 |
 
-1393 |
+1887 |
 
 Centre Hospitalier de Brive |
 
@@ -14058,19 +18988,19 @@ Centre Hospitalier de Brive |
 
 Gériatrie |
 
-Médecin gériatre |
+CHBrive-07 |
 
-1394 |
+1888 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHUssel-14 |
 
-1395 |
+1889 |
 
 CHI Mont de Marsan |
 
@@ -14078,29 +19008,49 @@ CHI Mont de Marsan |
 
 Gériatrie |
 
-Médecin gériatre |
+CHIMdM-12 |
 
-1396 |
+1890 |
+
+CHI MONT DE MARSAN |
+
+400011177 |
+
+Gériatrie |
+
+|
+
+1891 |
+
+Hôpitaux de Grand Cognac |
+
+160014411 |
+
+Gériatrie |
+
+|
+
+1892 |
 
 Centre Hospitalier d'Angoulême |
 
-160000453 |
+16 000 045 1 |
 
 Gynécologie Obstétrique |
 
-Médecin GO |
+CHAngoulême-03 |
 
-1397 |
+1893 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Gynécologie Obstétrique |
 
-Médecin GO |
+CHUssel-05 |
 
-1398 |
+1894 |
 
 Centre Hospitalier de Guéret |
 
@@ -14108,9 +19058,9 @@ Centre Hospitalier de Guéret |
 
 Gynécologie Obstétrique |
 
-Médecin GO |
+CHGuéret-02 |
 
-1399 |
+1895 |
 
 Centre Hospitalier Samuel Pozzi Bergerac |
 
@@ -14118,9 +19068,9 @@ Centre Hospitalier Samuel Pozzi Bergerac |
 
 Gynécologie Obstétrique |
 
-Médecin GO |
+CHBergerac-04 |
 
-1400 |
+1896 |
 
 Centre Hospitalier de Périgueux |
 
@@ -14128,9 +19078,9 @@ Centre Hospitalier de Périgueux |
 
 Gynécologie Obstétrique |
 
-Médecin GO |
+CH Périgueux-12 |
 
-1401 |
+1897 |
 
 CHI Marmande-Tonneins |
 
@@ -14138,9 +19088,19 @@ CHI Marmande-Tonneins |
 
 Gynécologie Obstétrique |
 
-Médecin GO |
+CHIMarmande-06 |
 
-1402 |
+1898 |
+
+Centre Hospitalier Nord Deux-Sèvres |
+
+790006654 |
+
+Gynécologie-obstétrique |
+
+|
+
+1899 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -14148,19 +19108,19 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Hématologie |
 
-Médecin hématologue |
+CHTulle-12 |
 
-1403 |
+1900 |
 
 Centre Hospitalier Angoulême |
 
-160000453 |
+16 000 045 1 |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHAngoulême-03 |
 
-1404 |
+1901 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -14168,19 +19128,19 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHTulle-06 |
 
-1405 |
+1902 |
 
 Centre Hospitalier de Dax |
 
-400000105 |
+40 078 019 3 |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHDax-03 |
 
-1406 |
+1903 |
 
 CHI Mont de Marsan |
 
@@ -14188,9 +19148,9 @@ CHI Mont de Marsan |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHIMdM-02 |
 
-1407 |
+1904 |
 
 Centre Hospitalier Saintonge |
 
@@ -14198,9 +19158,9 @@ Centre Hospitalier Saintonge |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHSaintes-08 |
 
-1408 |
+1905 |
 
 Centre Hospitalier de Niort |
 
@@ -14208,9 +19168,9 @@ Centre Hospitalier de Niort |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHNiort-10 |
 
-1409 |
+1906 |
 
 CHI Mont de Marsan |
 
@@ -14218,9 +19178,19 @@ CHI Mont de Marsan |
 
 Hépato-gastro-entérologie |
 
-Médecin hépato-gastro-entérologie |
+CHIMdM-14 |
 
-1410 |
+1907 |
+
+Centre Hospitalier de Niort |
+
+790000012 |
+
+Hépato-gastro-entérologie |
+
+CHNiort-17 |
+
+1908 |
 
 Centre Hospitalier de Brive |
 
@@ -14228,9 +19198,9 @@ Centre Hospitalier de Brive |
 
 Maladies infectieuses et tropicales |
 
-Médecin infectiologue |
+CHBrive-13 |
 
-1411 |
+1909 |
 
 Centre Hospitalier de Périgueux |
 
@@ -14238,19 +19208,19 @@ Centre Hospitalier de Périgueux |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CH Périgueux-04 |
 
-1412 |
+1910 |
 
 Centre Hospitalier de Dax |
 
-400000105 |
+40 078 019 3 |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHDax-01 |
 
-1413 |
+1911 |
 
 CHI Mont de Marsan |
 
@@ -14258,9 +19228,9 @@ CHI Mont de Marsan |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHIMdM-09 |
 
-1414 |
+1912 |
 
 Centre Hospitalier Agen-Nérac |
 
@@ -14268,19 +19238,19 @@ Centre Hospitalier Agen-Nérac |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHAgen-04 |
 
-1415 |
+1913 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHVilleneuve-04 |
 
-1416 |
+1914 |
 
 Centre Hospitalier de Niort |
 
@@ -14288,9 +19258,9 @@ Centre Hospitalier de Niort |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHNiort-01 |
 
-1417 |
+1915 |
 
 Centre Hospitalier Saint-Junien |
 
@@ -14298,19 +19268,19 @@ Centre Hospitalier Saint-Junien |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHStJunien-02 |
 
-1418 |
+1916 |
 
 CHU Limoges |
 
-870000064 |
+87 000 001 5 |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHULimoges-01 |
 
-1419 |
+1917 |
 
 Centre Hospitalier Jonzac |
 
@@ -14318,29 +19288,29 @@ Centre Hospitalier Jonzac |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHJonzac-08 |
 
-1420 |
-
-Centre Hospitalier Haute-Corrèze-Ussel |
-
-190000091 |
-
-Médecine cardiovasculaire |
-
-Médecin cardiologue |
-
-1421 |
+1918 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHUssel-11 |
 
-1422 |
+1919 |
+
+Centre Hospitalier Haute-Corrèze-Ussel |
+
+19 000 007 5 |
+
+Médecine cardiovasculaire |
+
+CHUssel-12 |
+
+1920 |
 
 CHI Mont de Marsan |
 
@@ -14348,69 +19318,99 @@ CHI Mont de Marsan |
 
 Médecine cardiovasculaire |
 
-Médecin cardiologue |
+CHIMdM-15 |
 
-1423 |
+1921 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
-|
+Médecine cardiovasculaire |
 
-Médecin vasculaire |
+CHUssel-07 |
 
-1424 |
+1922 |
 
 Centre Hospitalier de Guéret |
 
 230780041 |
 
+Médecine cardiovasculaire |
+
+CHGuéret-10 |
+
+1923 |
+
+Centre Hospitalier de Périgueux |
+
+240000489 |
+
+Médecine cardiovasculaire |
+
+CH Périgueux-14 |
+
+1924 |
+
+Centre Hospitalier de Périgueux |
+
+240000489 |
+
+Médecine cardiovasculaire |
+
+CH Périgueux-16 |
+
+1925 |
+
+Centre Hospitalier de Niort |
+
+790000012 |
+
+Médecine cardiovasculaire |
+
 |
 
-Médecin vasculaire |
-
-1425 |
+1926 |
 
 Centre Hospitalier Ruffec |
 
-160000337 |
+16 000 049 3 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHRuffec-01 |
 
-1426 |
+1927 |
 
 Centre Hospitalier de Royan |
 
-170000129 |
+17 078 019 1 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHRoyan-01 |
 
-1427 |
+1928 |
 
 Centre Hospitalier Saint-Jean-d'Angély |
 
-170000095 |
+17 078 016 7 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHSt-Jeand'Angély-01 |
 
-1428 |
+1929 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHUssel-02 |
 
-1429 |
+1930 |
 
 Centre Hospitalier Saintonge |
 
@@ -14418,29 +19418,29 @@ Centre Hospitalier Saintonge |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHSaintes-01 |
 
-1430 |
+1931 |
 
 Centre Hospitalier Jean Leclair-Sarlat |
 
-240000687 |
+24 000 044 8 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHSarlat-03 |
 
-1431 |
+1932 |
 
 Centre Hospitalier Haute-Gironde (Blaye) |
 
-330000571 |
+33 078 122 0 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHHte-Gironde-01 |
 
-1432 |
+1933 |
 
 CHI Marmande-Tonneins |
 
@@ -14448,9 +19448,9 @@ CHI Marmande-Tonneins |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHIMarmande-02 |
 
-1433 |
+1934 |
 
 Centre Hospitalier Samuel Pozzi Bergerac |
 
@@ -14458,19 +19458,69 @@ Centre Hospitalier Samuel Pozzi Bergerac |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHBergerac-03 |
 
-1434 |
+1935 |
 
-CSSR Les Glamots |
+Centre Hospitalier Hôpitaux du Sud Charente |
 
-160009080 |
+160006037 |
+
+Médecine d'urgence |
+
+CHSudCharente-01 |
+
+1936 |
+
+Centre Hospitalier de Périgueux |
+
+240000489 |
+
+Médecine d'urgence |
+
+CH Périgueux-13 |
+
+1937 |
+
+CHU Poitiers |
+
+860014208 |
+
+Médecine d'urgence |
+
+CHUPoitiers-06 |
+
+1938 |
+
+Hôpitaux de Grand Cognac |
+
+160014411 |
+
+Médecine d'urgence |
+
+|
+
+1939 |
+
+Centre Hospitalier Nord Deux-Sèvres |
+
+790006654 |
+
+Médecine d'urgence |
+
+|
+
+1940 |
+
+Groupe Hospitalier de La Rochelle-Ré-Aunis |
+
+170024194 |
 
 Médecine et santé au travail |
 
-Médecin santé au travail |
+GHLRRA-01 |
 
-1435 |
+1941 |
 
 Centre hospitalier Confolens |
 
@@ -14478,29 +19528,29 @@ Centre hospitalier Confolens |
 
 Médecine générale |
 
-Médecin généraliste |
+CHConfolens-01 |
 
-1436 |
+1942 |
 
 Centre Hospitalier La Rochefoucauld |
 
-160000188 |
+16 000 012 1 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHLARochefoucauld-01 |
 
-1437 |
+1943 |
 
 Centre Hospitalier Ruffec |
 
-160000337 |
+16 000 049 3 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHRuffec-02 |
 
-1438 |
+1944 |
 
 Centre Hospitalier Jonzac |
 
@@ -14508,9 +19558,9 @@ Centre Hospitalier Jonzac |
 
 Médecine générale |
 
-Médecin généraliste |
+CHJonzac-03 |
 
-1439 |
+1945 |
 
 Centre Hospitalier de Boscamnant |
 
@@ -14518,9 +19568,9 @@ Centre Hospitalier de Boscamnant |
 
 Médecine générale |
 
-Médecin généraliste |
+CHBoscamnant-01 |
 
-1440 |
+1946 |
 
 Centre Hospitalier Saintonge |
 
@@ -14528,29 +19578,29 @@ Centre Hospitalier Saintonge |
 
 Médecine générale |
 
-Médecin généraliste |
+CHSaintes-09 |
 
-1441 |
-
-Centre Hospitalier Saint-Jean-d'Angély |
-
-170000095 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1442 |
+1947 |
 
 Centre Hospitalier Saint-Jean-d'Angély |
 
-170000095 |
+17 078 016 7 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHSt-Jeand'Angély-02 |
 
-1443 |
+1948 |
+
+Centre Hospitalier Saint-Jean-d'Angély |
+
+17 078 016 7 |
+
+Médecine générale |
+
+CHSt-Jeand'Angély-04 |
+
+1949 |
 
 Centre Hospitalier de Brive |
 
@@ -14558,19 +19608,9 @@ Centre Hospitalier de Brive |
 
 Médecine générale |
 
-Médecin généraliste |
+CHBrive-06 |
 
-1444 |
-
-Centre Hospitalier de Cornil |
-
-190002113 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1445 |
+1950 |
 
 Centre Hospitalier de Cornil |
 
@@ -14578,19 +19618,29 @@ Centre Hospitalier de Cornil |
 
 Médecine générale |
 
-Médecin généraliste |
+CHCornil-01 |
 
-1446 |
+1951 |
+
+Centre Hospitalier de Cornil |
+
+190002113 |
+
+Médecine générale |
+
+CHCornil-02 |
+
+1952 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Médecine générale |
 
-Médecin généraliste (médecine polyvalente) |
+CHUssel-01 |
 
-1447 |
+1953 |
 
 Centre Hospitalier de Guéret |
 
@@ -14598,9 +19648,9 @@ Centre Hospitalier de Guéret |
 
 Médecine générale |
 
-Médecin généraliste |
+CHGuéret-04 |
 
-1448 |
+1954 |
 
 Centre Hospitalier de Périgueux |
 
@@ -14608,29 +19658,29 @@ Centre Hospitalier de Périgueux |
 
 Médecine générale |
 
-Médecin généraliste |
+CH Périgueux-08 |
 
-1449 |
-
-Centre Hospitalier Jean Leclair-Sarlat |
-
-240000687 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1450 |
+1955 |
 
 Centre Hospitalier Jean Leclair-Sarlat |
 
-240000687 |
+24 000 044 8 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHSarlat-01 |
 
-1451 |
+1956 |
+
+Centre Hospitalier Jean Leclair-Sarlat |
+
+24 000 044 8 |
+
+Médecine générale |
+
+CHSarlat-04 |
+
+1957 |
 
 Centre Hospitalier Vauclaire-Montpon Ménestérol |
 
@@ -14638,29 +19688,29 @@ Centre Hospitalier Vauclaire-Montpon Ménestérol |
 
 Médecine générale |
 
-Médecin généraliste |
+CHVauclaire-02 |
 
-1452 |
+1958 |
 
 Clinique Pasteur-Bergerac |
 
-240000208 |
+24 000 061 2 |
 
 Médecine générale |
 
-Médecin généraliste |
+CliniquePasteur-01 |
 
-1453 |
+1959 |
 
 Centre Hospitalier Sainte Foy La Grande |
 
-330000613 |
+33 078 126 1 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHSteFoy-01 |
 
-1454 |
+1960 |
 
 CHI Mont de Marsan |
 
@@ -14668,9 +19718,9 @@ CHI Mont de Marsan |
 
 Médecine générale |
 
-Médecin généraliste |
+CHIMdM-05 |
 
-1455 |
+1961 |
 
 Centre Hospitalier La Candélie (Agen) |
 
@@ -14678,9 +19728,9 @@ Centre Hospitalier La Candélie (Agen) |
 
 Médecine générale |
 
-Médecin généraliste |
+CHCandélie-04 |
 
-1456 |
+1962 |
 
 CHI Marmande-Tonneins |
 
@@ -14688,29 +19738,29 @@ CHI Marmande-Tonneins |
 
 Médecine générale |
 
-Médecin généraliste |
+CHIMarmande-05 |
 
-1457 |
-
-Centre Hospitalier Villeneuve sur Lot |
-
-470000431 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1458 |
+1963 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHVilleneuve-01 |
 
-1459 |
+1964 |
+
+Centre Hospitalier Villeneuve sur Lot |
+
+47 000 032 4 |
+
+Médecine générale |
+
+CHVilleneuve-06 |
+
+1965 |
 
 Centre Hospitalier Oloron Ste Marie |
 
@@ -14718,39 +19768,19 @@ Centre Hospitalier Oloron Ste Marie |
 
 Médecine générale |
 
-Médecin généraliste |
+CHOloron-01 |
 
-1460 |
+1966 |
 
 Centre Hospitalier d'Orthez |
 
-640000402 |
+64 078 081 3 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHOrthez-01 |
 
-1461 |
-
-CSSRA La Gandillonnerie-Payroux |
-
-860793405 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1462 |
-
-Centre Hospitalier Saint-Junien |
-
-870000023 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1463 |
+1967 |
 
 Hôpital Intercommunal du Haut Limousin (Bellac) |
 
@@ -14758,19 +19788,9 @@ Hôpital Intercommunal du Haut Limousin (Bellac) |
 
 Médecine générale |
 
-Médecin généraliste |
+HIHL-01 |
 
-1464 |
-
-Centre Hospitalier Saint-Yreix La Perche |
-
-870000031 |
-
-Médecine générale |
-
-Médecine généraliste |
-
-1465 |
+1968 |
 
 Centre Hospitalier Saint-Yreix La Perche |
 
@@ -14778,29 +19798,39 @@ Centre Hospitalier Saint-Yreix La Perche |
 
 Médecine générale |
 
-Médecine généraliste |
+CHSTYreix-01 |
 
-1466 |
+1969 |
 
-Centre Hospitalier Haute-Corrèze-Ussel |
+Centre Hospitalier Saint-Yreix La Perche |
 
-190000091 |
-
-Médecine générale |
-
-Médecin généraliste-Pôle gériatrique |
-
-1467 |
-
-Centre Hospitalier Haute-Corrèze-Ussel |
-
-190000091 |
+870000031 |
 
 Médecine générale |
 
-Médecin généraliste (médecine polyvalente) |
+CHSTYreix-02 |
 
-1468 |
+1970 |
+
+Centre Hospitalier Haute-Corrèze-Ussel |
+
+19 000 007 5 |
+
+Médecine générale |
+
+CHUssel-06 |
+
+1971 |
+
+Centre Hospitalier Haute-Corrèze-Ussel |
+
+19 000 007 5 |
+
+Médecine générale |
+
+CHUssel-08 |
+
+1972 |
 
 Centre Hospitalier de Guéret |
 
@@ -14808,19 +19838,9 @@ Centre Hospitalier de Guéret |
 
 Médecine générale |
 
-Médecin généraliste |
+CHGuéret-09 |
 
-1469 |
-
-Centre Hospitalier Charles Perrens (Bordeaux) |
-
-330781287 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1470 |
+1973 |
 
 Centre Hospitalier Camille Claudel |
 
@@ -14828,9 +19848,9 @@ Centre Hospitalier Camille Claudel |
 
 Médecine générale |
 
-Médecin généraliste |
+CHClaudel-08 |
 
-1471 |
+1974 |
 
 Centre Hospitalier Jonzac |
 
@@ -14838,9 +19858,9 @@ Centre Hospitalier Jonzac |
 
 Médecine générale |
 
-Médecin généraliste |
+CHJonzac-09 |
 
-1472 |
+1975 |
 
 Centre Hospitalier de Périgueux |
 
@@ -14848,9 +19868,9 @@ Centre Hospitalier de Périgueux |
 
 Médecine générale |
 
-Médecin généraliste |
+CH Périgueux-11 |
 
-1473 |
+1976 |
 
 CHI Mont de Marsan |
 
@@ -14858,9 +19878,9 @@ CHI Mont de Marsan |
 
 Médecine générale |
 
-Médecin généraliste |
+CHIMdM-06 |
 
-1474 |
+1977 |
 
 Centre Hospitalier de Niort |
 
@@ -14868,9 +19888,9 @@ Centre Hospitalier de Niort |
 
 Médecine générale |
 
-Médecin généraliste |
+CHNiort-08 |
 
-1475 |
+1978 |
 
 CHU Poitiers |
 
@@ -14878,9 +19898,9 @@ CHU Poitiers |
 
 Médecine générale |
 
-Médecin généraliste |
+CHUPoitiers-03 |
 
-1476 |
+1979 |
 
 Centre Hospitalier Saintonge |
 
@@ -14888,19 +19908,9 @@ Centre Hospitalier Saintonge |
 
 Médecine générale |
 
-Médecin généraliste |
+CHSaintes-10 |
 
-1477 |
-
-Centre Hospitalier de Brive |
-
-190000042 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1478 |
+1980 |
 
 Centre Hospitalier de Brive |
 
@@ -14908,9 +19918,19 @@ Centre Hospitalier de Brive |
 
 Médecine générale |
 
-Médecin généraliste |
+CHBrive-11 |
 
-1479 |
+1981 |
+
+Centre Hospitalier de Brive |
+
+190000042 |
+
+Médecine générale |
+
+CHBrive-12 |
+
+1982 |
 
 CHI Mont de Marsan |
 
@@ -14918,9 +19938,9 @@ CHI Mont de Marsan |
 
 Médecine générale |
 
-Médecin généraliste |
+CHIMdM-07 |
 
-1480 |
+1983 |
 
 CHI Mont de Marsan |
 
@@ -14928,9 +19948,59 @@ CHI Mont de Marsan |
 
 Médecine générale |
 
-Médecin généraliste |
+CHIMdM-08 |
 
-1481 |
+1984 |
+
+Centre Hospitalier Agen-Nérac |
+
+470016171 |
+
+médecine générale |
+
+CHAgen-10 |
+
+1985 |
+
+Centre hospitalier Bernard Desplas |
+
+23 078 006 6 |
+
+Médecine Générale |
+
+|
+
+1986 |
+
+CH Dax-Côte d'Argent |
+
+40 078 019 3 |
+
+Médecine générale |
+
+|
+
+1987 |
+
+Centre Hospitalier de Niort |
+
+790000012 |
+
+Médecine générale |
+
+|
+
+1988 |
+
+CHU Limoges |
+
+87 000 001 5 |
+
+Médecine générale |
+
+CHULimoges-05 |
+
+1989 |
 
 Centre Hospitalier de Guéret |
 
@@ -14938,19 +20008,19 @@ Centre Hospitalier de Guéret |
 
 Médecine intensive-réanimation |
 
-Médecin réanimation |
+CHGuéret-08 |
 
-1482 |
+1990 |
 
 Centre Hospitalier Villeneuve sur Lot |
 
-470000431 |
+47 000 032 4 |
 
 Médecine interne et immunologie clinique |
 
-Médecin interne |
+CHVilleneuve-02 |
 
-1483 |
+1991 |
 
 Centre Hospitalier de Brive |
 
@@ -14958,9 +20028,19 @@ Centre Hospitalier de Brive |
 
 Médecine interne et immunologie clinique |
 
-Médecin interne |
+CHBrive-14 |
 
-1484 |
+1992 |
+
+Centre Hospitalier de Périgueux |
+
+240000489 |
+
+Médecine interne et immunologie clinique |
+
+CH Périgueux-17 |
+
+1993 |
 
 Centre Hospitalier Saintonge |
 
@@ -14968,9 +20048,9 @@ Centre Hospitalier Saintonge |
 
 Neurologie |
 
-Médecin neurologue |
+CHSaintes-06 |
 
-1485 |
+1994 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -14978,9 +20058,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Neurologie |
 
-Médecin neurologue |
+CHTulle-09 |
 
-1486 |
+1995 |
 
 Centre Hospitalier de Périgueux |
 
@@ -14988,19 +20068,19 @@ Centre Hospitalier de Périgueux |
 
 Neurologie |
 
-Médecin neurologue |
+CH Périgueux-06 |
 
-1487 |
+1996 |
 
 Centre Hospitalier de Dax |
 
-400000105 |
+40 078 019 3 |
 
 Neurologie |
 
-Médecin neurologue |
+CHDax-02 |
 
-1488 |
+1997 |
 
 Centre Hospitalier Agen-Nérac |
 
@@ -15008,19 +20088,19 @@ Centre Hospitalier Agen-Nérac |
 
 Neurologie |
 
-Médecin neurologue |
+CHAgen-02 |
 
-1489 |
+1998 |
 
 Centre hospitalier de Libourne |
 
-330000605 |
+33 078 125 3 |
 
 Neurologie |
 
-Médecin neurologue |
+CHLibourne-02 |
 
-1490 |
+1999 |
 
 Centre Hospitalier Agen-Nérac |
 
@@ -15028,19 +20108,49 @@ Centre Hospitalier Agen-Nérac |
 
 Neurologie |
 
-Médecin neurologue |
+CHAgen-09 |
 
-1491 |
+2000 |
+
+CHI MONT DE MARSAN |
+
+400011177 |
+
+Neurologie |
+
+|
+
+2001 |
+
+CHI MONT DE MARSAN |
+
+400011177 |
+
+Neurologie |
+
+|
+
+2002 |
+
+Centre Hospitalier de Niort |
+
+790000012 |
+
+Neurologie |
+
+|
+
+2003 |
 
 Centre Hospitalier Angoulême |
 
-160000453 |
+16 000 045 1 |
 
 Oncologie |
 
-Médecin oncologue |
+CHAngoulême-01 |
 
-1492 |
+2004 |
 
 Centre Hospitalier Saintonge |
 
@@ -15048,9 +20158,9 @@ Centre Hospitalier Saintonge |
 
 Oncologie |
 
-Médecin oncologue |
+CHSaintes-05 |
 
-1493 |
+2005 |
 
 CHI Mont de Marsan |
 
@@ -15058,9 +20168,9 @@ CHI Mont de Marsan |
 
 Oncologie |
 
-Médecin oncologue |
+CHIMdM-03 |
 
-1494 |
+2006 |
 
 Centre Hospitalier de Niort |
 
@@ -15068,9 +20178,9 @@ Centre Hospitalier de Niort |
 
 Oncologie |
 
-Médecin oncologue |
+CHNiort-06 |
 
-1495 |
+2007 |
 
 CHU de Bordeaux |
 
@@ -15078,19 +20188,19 @@ CHU de Bordeaux |
 
 Oncologie |
 
-Médecin oncologue |
+CHUBdx-01 |
 
-1496 |
+2008 |
 
-CHI Mont de Marsan |
+CH de Brives |
 
-400011177 |
+|
 
-Oncologie |
+Odontologie |
 
-Médecin oncologue |
+|
 
-1497 |
+2009 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -15098,19 +20208,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Ophtalmologie |
 
-Médecin ophtalmologiste |
+CHTulle-10 |
 
-1498 |
-
-Centre Hospitalier de Niort |
-
-790000012 |
-
-Ophtalmologie |
-
-Médecin ophtalmologiste |
-
-1499 |
+2010 |
 
 Centre Hospitalier Saintonge |
 
@@ -15118,9 +20218,9 @@ Centre Hospitalier Saintonge |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHSaintes-03 |
 
-1500 |
+2011 |
 
 Centre Hospitalier de Brive |
 
@@ -15128,9 +20228,9 @@ Centre Hospitalier de Brive |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHBrive-05 |
 
-1501 |
+2012 |
 
 Centre Hospitalier de Guéret |
 
@@ -15138,9 +20238,9 @@ Centre Hospitalier de Guéret |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHGuéret-03 |
 
-1502 |
+2013 |
 
 Centre Hospitalier Samuel Pozzi Bergerac |
 
@@ -15148,9 +20248,9 @@ Centre Hospitalier Samuel Pozzi Bergerac |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHBergerac-05 |
 
-1503 |
+2014 |
 
 Centre Hospitalier de Périgueux |
 
@@ -15158,9 +20258,9 @@ Centre Hospitalier de Périgueux |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CH Périgueux-05 |
 
-1504 |
+2015 |
 
 Centre Hospitalier Agen-Nérac |
 
@@ -15168,9 +20268,9 @@ Centre Hospitalier Agen-Nérac |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHAgen-06 |
 
-1505 |
+2016 |
 
 Centre Hospitalier de Niort |
 
@@ -15178,9 +20278,9 @@ Centre Hospitalier de Niort |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHNiort-04 |
 
-1506 |
+2017 |
 
 CHU Poitiers |
 
@@ -15188,9 +20288,9 @@ CHU Poitiers |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHUPoitiers-04 |
 
-1507 |
+2018 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -15198,19 +20298,29 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHTulle-11 |
 
-1508 |
+2019 |
+
+Polyclinique Bordeaux Nord Aquitaine |
+
+33 000 027 4 |
+
+Pharmacie polyvalente |
+
+PBNA-01 |
+
+2020 |
 
 Centre Hospitalier Angoulême |
 
-160000453 |
+16 000 045 1 |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHAngoulême-02 |
 
-1509 |
+2021 |
 
 Centre Hospitalier Jonzac |
 
@@ -15218,19 +20328,9 @@ Centre Hospitalier Jonzac |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHJonzac-07 |
 
-1510 |
-
-Centre Hospitalier Saintonge |
-
-170792220 |
-
-Pneumologie |
-
-Médecin pneumologue |
-
-1511 |
+2022 |
 
 Centre Hospitalier de Périgueux |
 
@@ -15238,9 +20338,9 @@ Centre Hospitalier de Périgueux |
 
 Pneumologie |
 
-Médecin pneumologue |
+CH Périgueux-07 |
 
-1512 |
+2023 |
 
 Centre Hospitalier de Niort |
 
@@ -15248,9 +20348,9 @@ Centre Hospitalier de Niort |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHNiort-02 |
 
-1513 |
+2024 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -15258,9 +20358,19 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHTulle-13 |
 
-1514 |
+2025 |
+
+Centre Hospitalier de Pau |
+
+640781290 |
+
+Pneumologie |
+
+|
+
+2026 |
 
 Centre Hospitalier Camille Claudel |
 
@@ -15268,9 +20378,9 @@ Centre Hospitalier Camille Claudel |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHClaudel-01 |
 
-1515 |
+2027 |
 
 Centre Hospitalier Camille Claudel |
 
@@ -15278,19 +20388,9 @@ Centre Hospitalier Camille Claudel |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHClaudel-02 |
 
-1516 |
-
-Centre Hospitalier Jonzac |
-
-170780050 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-1517 |
+2028 |
 
 Centre Hospitalier Jonzac |
 
@@ -15298,9 +20398,19 @@ Centre Hospitalier Jonzac |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHJonzac-01 |
 
-1518 |
+2029 |
+
+Centre Hospitalier Jonzac |
+
+170780050 |
+
+Psychiatrie |
+
+CHJonzac-02 |
+
+2030 |
 
 Centre Hospitalier de Brive |
 
@@ -15308,9 +20418,9 @@ Centre Hospitalier de Brive |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHBrive-08 |
 
-1519 |
+2031 |
 
 Centre Hospitalier de Brive |
 
@@ -15318,29 +20428,29 @@ Centre Hospitalier de Brive |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHBrive-09 |
 
-1520 |
-
-Centre Hospitalier Pays d'Eygurande |
-
-190000711 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-1521 |
+2032 |
 
 Centre Hospitalier Pays d'Eygurande |
 
-190000711 |
+190000117 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHEygurande-01 |
 
-1522 |
+2033 |
+
+Centre Hospitalier Pays d'Eygurande |
+
+190000117 |
+
+Psychiatrie |
+
+CHEygurande-02 |
+
+2034 |
 
 Centre Hospitalier de Périgueux |
 
@@ -15348,9 +20458,9 @@ Centre Hospitalier de Périgueux |
 
 Psychiatrie |
 
-Médecin psychiatre (adulte) |
+CH Périgueux-01 |
 
-1523 |
+2035 |
 
 Centre Hospitalier de Périgueux |
 
@@ -15358,19 +20468,19 @@ Centre Hospitalier de Périgueux |
 
 Psychiatrie |
 
-Médecin psychiatre (enfant) |
+CH Périgueux-02 |
 
-1524 |
+2036 |
 
 Centre Hospitalier Jean Leclair-Sarlat |
 
-240000687 |
+24 000 044 8 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHSarlat-05 |
 
-1525 |
+2037 |
 
 Centre Hospitalier Vauclaire-Montpon Ménestérol |
 
@@ -15378,9 +20488,9 @@ Centre Hospitalier Vauclaire-Montpon Ménestérol |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHVauclaire-01 |
 
-1526 |
+2038 |
 
 Centre Hospitalier Vauclaire-Montpon Ménestérol |
 
@@ -15388,9 +20498,9 @@ Centre Hospitalier Vauclaire-Montpon Ménestérol |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHVauclaire-03 |
 
-1527 |
+2039 |
 
 Centre Hospitalier Charles Perrens (Bordeaux) |
 
@@ -15398,19 +20508,19 @@ Centre Hospitalier Charles Perrens (Bordeaux) |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHPerrens-01 |
 
-1528 |
+2040 |
 
 Centre Hospitalier de Dax |
 
-400000105 |
+40 078 019 3 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHDax-04 |
 
-1529 |
+2041 |
 
 CHI Mont de Marsan |
 
@@ -15418,19 +20528,9 @@ CHI Mont de Marsan |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHIMdM-04 |
 
-1530 |
-
-Centre Hospitalier La Candélie (Agen) |
-
-470000381 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-1531 |
+2042 |
 
 Centre Hospitalier La Candélie (Agen) |
 
@@ -15438,29 +20538,39 @@ Centre Hospitalier La Candélie (Agen) |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHCandélie-01 |
 
-1532 |
+2043 |
 
-Centre Hospitalier des Pyrénées |
+Centre Hospitalier La Candélie (Agen) |
 
-640000436 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-1533 |
-
-Centre Hospitalier des Pyrénées |
-
-640000436 |
+470000381 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHCandélie-02 |
 
-1534 |
+2044 |
+
+Centre Hospitalier des Pyrénées |
+
+640780862 |
+
+Psychiatrie |
+
+CHPyrénées-01 |
+
+2045 |
+
+Centre Hospitalier des Pyrénées |
+
+640780862 |
+
+Psychiatrie |
+
+CHPyrénées-02 |
+
+2046 |
 
 Centre Hospitalier de Niort |
 
@@ -15468,59 +20578,99 @@ Centre Hospitalier de Niort |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHNiort-07 |
 
-1535 |
+2047 |
 
-CSSRA La Gandillonnerie-Payroux |
+Centre hospitalier de Libourne |
 
-860793405 |
-
-Psychiatrie |
-
-Médecin psychiatre |
-
-1536 |
-
-Centre de Libourne |
-
-330000605 |
+33 078 125 3 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHLibourne-03 |
 
-1537 |
+2048 |
 
-Centre de Libourne |
+Centre hospitalier de Libourne |
 
-330000605 |
+33 078 125 3 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHLibourne-04 |
 
-1538 |
+2049 |
+
+Centre Hospitalier Pays d'Eygurande |
+
+190000117 |
+
+Psychiatrie |
+
+CHEygurande-03 |
+
+2050 |
+
+Centre Hospitalier La Candélie (Agen) |
+
+470000381 |
+
+Psychiatrie |
+
+CHCandélie-06 |
+
+2051 |
+
+Centre Hospitalier La Candélie (Agen) |
+
+470000381 |
+
+Psychiatrie |
+
+CHCandélie-08 |
+
+2052 |
+
+CHI MONT DE MARSAN |
+
+400011177 |
+
+Psychiatrie |
+
+|
+
+2053 |
+
+Centre Hospitalier La Valette |
+
+230780074 |
+
+Psychiatrie |
+
+CHLaValette-01 |
+
+2054 |
 
 Centre Hospitalier Ruffec |
 
-160000337 |
+16 000 049 3 |
 
 Radiologie et imagerie médicale |
 
-Médecin Radiologue |
+CHRuffec-04 |
 
-1539 |
+2055 |
 
 Centre Hospitalier de Royan |
 
-170000129 |
+17 078 019 1 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHRoyan-06 |
 
-1540 |
+2056 |
 
 Centre Hospitalier de Brive |
 
@@ -15528,19 +20678,19 @@ Centre Hospitalier de Brive |
 
 Radiologie et imagerie médicale |
 
-Médecin Radiologue |
+CHBrive-04 |
 
-1541 |
+2057 |
 
 Centre Hospitalier Haute-Corrèze-Ussel |
 
-190000091 |
+19 000 007 5 |
 
 Radiologie et imagerie médicale |
 
-Médecin Radiologue |
+CHUssel-04 |
 
-1542 |
+2058 |
 
 Centre Hospitalier Samuel Pozzi Bergerac |
 
@@ -15548,9 +20698,9 @@ Centre Hospitalier Samuel Pozzi Bergerac |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHBergerac-07 |
 
-1543 |
+2059 |
 
 Centre Hospitalier de Périgueux |
 
@@ -15558,9 +20708,9 @@ Centre Hospitalier de Périgueux |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CH Périgueux-10 |
 
-1544 |
+2060 |
 
 CHI Mont de Marsan |
 
@@ -15568,9 +20718,9 @@ CHI Mont de Marsan |
 
 Radiologie et imagerie médicale |
 
-Médecin Radiologue |
+CHIMdM-11 |
 
-1545 |
+2061 |
 
 CHI Marmande-Tonneins |
 
@@ -15578,9 +20728,9 @@ CHI Marmande-Tonneins |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHIMarmande-07 |
 
-1546 |
+2062 |
 
 Centre Hospitalier de Pau |
 
@@ -15588,39 +20738,19 @@ Centre Hospitalier de Pau |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHPau-02 |
 
-1547 |
-
-Centre Hospitalier de Niort |
-
-790000012 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1548 |
-
-Centre Hospitalier de Libourne |
-
-330000605 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1549 |
+2063 |
 
 Centre Hospitalier de Dax |
 
-400000105 |
+40 078 019 3 |
 
 Radiologie et imagerie médicale |
 
-Médecin Radiologue |
+CHDax-06 |
 
-1550 |
+2064 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -15628,9 +20758,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Radiologie et imagerie médicale |
 
-Médecin Radiologue |
+CHTulle-20 |
 
-1551 |
+2065 |
 
 CHI Mont de Marsan |
 
@@ -15638,19 +20768,19 @@ CHI Mont de Marsan |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+CHIMdM-19 |
 
-1552 |
+2066 |
 
 CSSR Les Glamots |
 
-160009080 |
+16 000 157 4 |
 
 Rhumatologie |
 
-Médecin rhumatologue |
+CSSRLG-02 |
 
-1553 |
+2067 |
 
 Centre Hospitalier de Brive |
 
@@ -15658,9 +20788,9 @@ Centre Hospitalier de Brive |
 
 Rhumatologie |
 
-Médecin rhumatologue |
+CHBrive-02 |
 
-1554 |
+2068 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -15668,9 +20798,29 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Rhumatologie |
 
-Médecin rhumatologue |
+CHTulle-14 |
 
-1555 |
+2069 |
+
+Centre Hospitalier Agen-Nérac |
+
+470016171 |
+
+Rhumatologie |
+
+|
+
+2070 |
+
+Centre Hospitalier de Guéret |
+
+230780041 |
+
+Sage-Femme |
+
+CHGuéret-01 |
+
+2071 |
 
 Centre Hospitalier Cœur de Corrèze-Tulle |
 
@@ -15678,9 +20828,9 @@ Centre Hospitalier Cœur de Corrèze-Tulle |
 
 Urologie |
 
-Médecin urologue |
+CHTulle-15 |
 
-1556 |
+2072 |
 
 Centre Hospitalier de Guéret |
 
@@ -15688,7 +20838,7 @@ Centre Hospitalier de Guéret |
 
 Urologie |
 
-Médecin chirurgien |
+CHGuéret-14 |
 
 Agence Régionale de Santé : |
 
@@ -15698,13 +20848,13 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1557 |
+2073 |
 
 CH de Béziers |
 
@@ -15712,19 +20862,49 @@ CH de Béziers |
 
 Anatomie et cytologie pathologiques |
 
-Médecin spécialiste en Anatomopathologie |
+CHB-04 |
 
-1558 |
+2074 |
 
-CH d'Alès-Cévennes |
+Centre Hospitalier de Bigorre |
 
-300780046 |
+650783160 |
+
+Anatomie et cytologie pathologiques |
+
+praticien attaché associé |
+
+2075 |
+
+CHU Nîmes Carémau |
+
+300780038 |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin Anesthésiste |
+Anesthésie-réanimation |
 
-1559 |
+2076 |
+
+CHU Toulouse |
+
+310781406 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésie-réanimation |
+
+2077 |
+
+CH d'Alès-Cévennes |
+
+30 078 004 6 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHAC-01 |
+
+2078 |
 
 CH de Béziers |
 
@@ -15732,9 +20912,9 @@ CH de Béziers |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin spécialiste en Anesthésie-Réanimation |
+CHAC-01 |
 
-1560 |
+2079 |
 
 CH DE FIGEAC |
 
@@ -15742,29 +20922,37 @@ CH DE FIGEAC |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin Anesthésiste |
+CHB-03 |
 
-1561 |
-
-CH de Perpignan |
-
-660000084 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésiste réanimateur |
-
-1562 |
+2080 |
 
 CH de Perpignan |
 
-660000084 |
+660780180 |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésiste réanimateur |
+2081 |
 
-1563 |
+CH de Perpignan |
+
+660780180 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHP-05 |
+
+2082 |
+
+CH de St Gaudens |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHP-06 |
+
+2083 |
 
 CH de St Gaudens |
 
@@ -15772,19 +20960,9 @@ CH de St Gaudens |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésie-Réanimateur |
+CHCP01 (agrément interne) |
 
-1564 |
-
-CH de St Gaudens |
-
-310780671 |
-
-Anesthésie-réanimation (co-DES) |
-
-Anesthésie-Réanimateur |
-
-1565 |
+2084 |
 
 CH de Villefranche de Rouergue |
 
@@ -15792,9 +20970,9 @@ CH de Villefranche de Rouergue |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésiste Réanimateur |
+CHCP02 (agrément interne) |
 
-1566 |
+2085 |
 
 Clinique Médipôle Garonne |
 
@@ -15802,19 +20980,9 @@ Clinique Médipôle Garonne |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin Anesthésie |
+|
 
-1567 |
-
-CH de Montauban |
-
-820000016 |
-
-Chirurgie orthopédique et traumatologique |
-
-chirurgien orthopédique et traumatologie |
-
-1568 |
+2086 |
 
 Clinique Médipôle Garonne |
 
@@ -15822,19 +20990,49 @@ Clinique Médipôle Garonne |
 
 Chirurgie orthopédique et traumatologique |
 
-chirurgien orthopédique et traumatologie |
+|
 
-1569 |
+2087 |
+
+Centre Hospitalier de Perpignan |
+
+660780180 |
+
+Chirurgie Orthopédique et traumatologique |
+
+Chirurgien orthopédique |
+
+2088 |
+
+CH de Cahors |
+
+|
+
+Endocrinologie-Diabétologie-Nutrition |
+
+Médecin Endocrino-diabétologue |
+
+2089 |
+
+CHU Nîmes Carémau |
+
+300780038 |
+
+Endocrinologie-diabétologie-nutrition |
+
+MME |
+
+2090 |
 
 CH d'Alès-Cévennes |
 
-300780046 |
+30 078 004 6 |
 
 Gériatrie |
 
-Médecin Gériatre |
+CHAC-03 |
 
-1570 |
+2091 |
 
 CH de Bédarieux |
 
@@ -15842,9 +21040,9 @@ CH de Bédarieux |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
-1571 |
+2092 |
 
 CH DE BIGORRE |
 
@@ -15852,59 +21050,59 @@ CH DE BIGORRE |
 
 Gériatrie |
 
-médecin gériatre |
+|
 
-1572 |
+2093 |
 
 CH de Carcassonne |
 
-110000023 |
+110780061 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHC-03 |
 
-1573 |
+2094 |
 
 CH de Castelsarrasin-Moissac |
 
-820000883 |
+820004950 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHICM-02 |
 
-1574 |
+2095 |
 
 CH de Castelsarrasin-Moissac |
 
-820000883 |
+820004950 |
 
 Gériatrie |
 
-Médecin gériatre |
+CHICM-03 |
 
-1575 |
+2096 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
-1576 |
+2097 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
-1577 |
+2098 |
 
 CH de GOURDON |
 
@@ -15912,9 +21110,9 @@ CH de GOURDON |
 
 Gériatrie |
 
-Médecin Gériatre |
+|
 
-1578 |
+2099 |
 
 CH de Lourdes |
 
@@ -15922,19 +21120,9 @@ CH de Lourdes |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
-1579 |
-
-CH de Lozère |
-
-480780097 |
-
-Gériatrie |
-
-Gériatre médecine aigue |
-
-1580 |
+2100 |
 
 CH de Lozère |
 
@@ -15942,19 +21130,29 @@ CH de Lozère |
 
 Gériatrie |
 
-Gériatre EHPAD |
+HL48-01 |
 
-1581 |
+2101 |
+
+CH de Lozère |
+
+480780097 |
+
+Gériatrie |
+
+HL48-03 |
+
+2102 |
 
 CH de Pont Saint Esprit |
 
-300000056 |
+300780079 |
 
 Gériatrie |
 
-Gériatrie |
+30158 |
 
-1582 |
+2103 |
 
 CH de Rodez |
 
@@ -15962,19 +21160,19 @@ CH de Rodez |
 
 Gériatrie |
 
-Gériatre |
+CHR-07 |
 
-1583 |
+2104 |
 
 CH de St Gaudens |
 
-310780672 |
+310780671 |
 
 Gériatrie |
 
-Gériatre |
+CHCP05 (agrément interne) |
 
-1584 |
+2105 |
 
 CH de Villefranche de Rouergue |
 
@@ -15982,39 +21180,39 @@ CH de Villefranche de Rouergue |
 
 Gériatrie |
 
-Médecin Gériatre |
+|
 
-1585 |
+2106 |
 
 CH des Vallées de l'Ariège |
 
-090781774 |
+09 078 177 4 |
 
 Gériatrie |
 
-Médecin gériatre |
+09076/05 |
 
-1586 |
+2107 |
 
 CRF de Saint Blancard |
 
-320784333 |
+320000565 |
 
 Gériatrie |
 
-Médecin gériatre |
+|
 
-1587 |
+2108 |
 
 CRPA Valence d'Albigeois (SSR) |
 
-810003954 |
+810099903 |
 
 Gériatrie |
 
-Médecin spécialiste |
+|
 
-1588 |
+2109 |
 
 NOUVELLE CLINIQUE BONNEFON |
 
@@ -16022,19 +21220,69 @@ NOUVELLE CLINIQUE BONNEFON |
 
 Gériatrie |
 
-Médecin de Médecine Gériatrique |
+NCB-MED I-1 |
 
-1589 |
+2110 |
 
-CH d'ALBI |
+Centre Hospitalier Alès-Cévennes |
 
-810000331 |
+300780046 |
 
-Gynécologie-obstétrique |
+Gériatrie |
 
-Médecin gynécologue obstétricien |
+Médecin Gériatre |
 
-1590 |
+2111 |
+
+CHU Nîmes Carémau |
+
+300780038 |
+
+Gériatrie |
+
+Médecine gériatrique |
+
+2112 |
+
+CHU Nîmes Carémau |
+
+300780038 |
+
+Gériatrie |
+
+Gérontologie (Serre Cavalier) |
+
+2113 |
+
+Centre Hospitalier de Sète |
+
+340011295 |
+
+Gériatrie |
+
+HBT-08 |
+
+2114 |
+
+CH Bagnols sur Cèze |
+
+300780053 |
+
+Gériatrie |
+
+Poste dans le service de Court Séjour Gériatrique |
+
+2115 |
+
+Centre Hospitalier Emile Borel |
+
+120004619 |
+
+Gériatrie |
+
+MEDECINE GENERALE ET GERIATRE |
+
+2116 |
 
 CH de Rodez |
 
@@ -16042,9 +21290,9 @@ CH de Rodez |
 
 Gynécologie-obstétrique |
 
-Gynécologue obstétricien |
+CHR-10 |
 
-1591 |
+2117 |
 
 CH de Villefranche de Rouergue |
 
@@ -16052,29 +21300,49 @@ CH de Villefranche de Rouergue |
 
 Gynécologie-obstétrique |
 
-Médecin Gynécologue-obstétricien |
+|
 
-1592 |
+2118 |
 
 CH des Vallées de l'Ariège |
 
-090781774 |
+09 078 177 4 |
 
 Gynécologie-obstétrique |
 
-Médecin gynécologue-obstétricien |
+09077/09 |
 
-1593 |
+2119 |
+
+CH de Cahors |
+
+|
+
+Gynécologie-Obstétrique |
+
+Gynécologue-Obstétricien |
+
+2120 |
+
+Clinique Saint Louis |
+
+340023225 |
+
+Gynécologie-Obstétrique |
+
+Gynécologie-Obstétrique |
+
+2121 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Hématologie |
 
-Médecin hématologue |
+|
 
-1594 |
+2122 |
 
 CH de CAHORS |
 
@@ -16082,39 +21350,99 @@ CH de CAHORS |
 
 Hépato-gastro-entérologie |
 
-Médecin hépa-gastro-entérologue |
+|
 
-1595 |
+2123 |
 
 CH de Narbonne |
 
-110000056 |
+110780137 |
 
 Hépato-gastro-entérologie |
 
-médecin gastro-entérologue |
+CHN-03 |
 
-1596 |
+2124 |
 
 CH de Sète |
 
-340011295 |
+|
 
 Hépato-gastro-entérologie |
 
-Médecin gastro-entérologue |
+HBT-02 |
 
-1597 |
+2125 |
+
+Hôpital Joseph Ducuing |
+
+310788898 |
+
+Hépato-gastro-entérologie |
+
+HEPATO-GASTRO-ENTEROLOGUE ACTIVITES MEDICALES et ENDOSCOPIES CONVENTIONNELLES |
+
+2126 |
+
+CH de Béziers |
+
+340780055 |
+
+Hépato-gastro-entérologie |
+
+CHB-6 |
+
+2127 |
+
+CH de Castres-Mazamet |
+
+81 000 038 0 |
+
+Maladies infectieuses et tropicales (co-DES) |
+
+|
+
+2128 |
+
+Centre Hospitalier d'Auch en Gascogne |
+
+320780117 |
+
+Médecine Cardiovasculaire |
+
+Médecin Cardiologue |
+
+2129 |
+
+Centre Hospitalier d'Auch en Gascogne |
+
+320780117 |
+
+Médecine Cardiovasculaire |
+
+Médecin Cardiologue |
+
+2130 |
 
 CH de Castres-Mazamet |
 
 810000380 |
 
-Maladies infectieuses et tropicales (co-DES) |
+Médecine cardiovasculaire |
 
-Médecin infectiologue |
+Médecin cardiologue |
 
-1598 |
+2131 |
+
+CH Bagnols sur Cèze |
+
+300780053 |
+
+Médecine Cardiovasculaire |
+
+Poste dans le service de Cardiologie |
+
+2132 |
 
 CH d'ALBI |
 
@@ -16122,19 +21450,19 @@ CH d'ALBI |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+|
 
-1599 |
+2133 |
 
 CH d'Alès-Cévennes |
 
-300780046 |
+30 078 004 6 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin Cardiologue |
+CHAC-06 |
 
-1600 |
+2134 |
 
 CH de CAHORS |
 
@@ -16142,89 +21470,79 @@ CH de CAHORS |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+|
 
-1601 |
-
-CH de Castres-Mazamet |
-
-810000380 |
-
-Médecine cardiovasculaire (co-DES) |
-
-Médecin vasculaire |
-
-1602 |
+2135 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+|
 
-1603 |
+2136 |
 
-CH de Montauban |
+CH de Castres-Mazamet |
 
-820000016 |
+81 000 038 0 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+|
 
-1604 |
+2137 |
 
 CH de Narbonne |
 
-110000056 |
+110780137 |
 
 Médecine cardiovasculaire (co-DES) |
 
-médecin cardiologue |
+CHN-02 |
 
-1605 |
+2138 |
 
 CH de Sète |
 
-340011295 |
+|
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue (1) |
+HBT-04 |
 
-1606 |
+2139 |
 
 CH des Vallées de l'Ariège |
 
-090781774 |
+09 078 177 4 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+09060/18 |
 
-1607 |
+2140 |
 
 Clinique Midi-Gascogne |
 
-820002350 |
+820000578 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Médecin cardiologue |
+CMG-01 |
 
-1608 |
+2141 |
 
 CH de Castelsarrasin-Moissac |
 
-820000883 |
+820004950 |
 
 Médecine d'urgence |
 
-Médecin d'urgence |
+CHICM-04 |
 
-1609 |
+2142 |
 
 CH de DECAZEVILLE |
 
@@ -16234,27 +21552,27 @@ Médecine d'urgence |
 
 Médecin Urgentiste |
 
-1610 |
+2143 |
 
 CH de Perpignan |
 
-660000084 |
+660780180 |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHP-03 |
 
-1611 |
+2144 |
 
 CH de Sète |
 
-340011295 |
+|
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+HBT-01 |
 
-1612 |
+2145 |
 
 CH de Villefranche de Rouergue |
 
@@ -16262,69 +21580,109 @@ CH de Villefranche de Rouergue |
 
 Médecine d'urgence |
 
+|
+
+2146 |
+
+Centre hospitalier de Rodez |
+
+120780044 |
+
+Médecine d'Urgence |
+
 Urgentiste |
 
-1613 |
+2147 |
+
+Centre Hospitalier de Montauban |
+
+820000016 |
+
+Médecine d'Urgence |
+
+Médecin urgentiste |
+
+2148 |
+
+CH de Cahors |
+
+|
+
+Médecine d'Urgence |
+
+Médecin urgentiste |
+
+2149 |
+
+Centre Hospitalier de Perpignan |
+
+660780180 |
+
+Médecine d'Urgence |
+
+Médecin Urgentiste |
+
+2150 |
 
 CH de Sète |
 
-340011295 |
+|
 
 Médecine et santé au travail |
 
-Médecin du travail (2) |
+HBT-06 |
 
-1614 |
-
-CH de Castelsarrasin-Moissac |
-
-820000883 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1615 |
+2151 |
 
 BEZIERS HAD |
 
-340016476 |
+340016468 |
 
 Médecine générale |
 
-Médecin coordonnateur en HAD |
+BH-01 |
 
-1616 |
+2152 |
+
+CH de Castelsarrasin-Moissac |
+
+820004950 |
+
+Médecine générale |
+
+CHICM-01 |
+
+2153 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Médecine générale |
 
-Médecin généraliste pôle Gérontologie |
+|
 
-1617 |
+2154 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Médecine générale |
 
-Médecin généraliste pôle Médecines |
+|
 
-1618 |
+2155 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Médecine générale |
 
-Médecin généraliste-Service de soins palliatifs |
+|
 
-1619 |
+2156 |
 
 CH de DECAZEVILLE |
 
@@ -16334,7 +21692,7 @@ Médecine générale |
 
 Médecin Généraliste |
 
-1620 |
+2157 |
 
 CH de DECAZEVILLE |
 
@@ -16344,7 +21702,7 @@ Médecine générale |
 
 Médecin Généraliste |
 
-1621 |
+2158 |
 
 CH DE FIGEAC |
 
@@ -16352,9 +21710,9 @@ CH DE FIGEAC |
 
 Médecine Générale |
 
-Médecin Généraliste |
+|
 
-1622 |
+2159 |
 
 CH de LAMALOU-les-BAINS |
 
@@ -16362,9 +21720,9 @@ CH de LAMALOU-les-BAINS |
 
 Médecine générale |
 
-Médecin de Médecine Générale |
+34178-07 |
 
-1623 |
+2160 |
 
 CH DE LANNEMEZAN |
 
@@ -16372,29 +21730,19 @@ CH DE LANNEMEZAN |
 
 Médecine générale |
 
-médecin médecine générale |
+CHL 65 04 |
 
-1624 |
-
-CH de Lavaur |
-
-810000455 |
-
-Médecine générale |
-
-Médecine Générale en médecine interne |
-
-1625 |
+2161 |
 
 CH de Limoux Quillan |
 
 110780707 |
 
-Médecine Générale |
+Médecine générale |
 
-Médecin généraliste |
+CH LQ 01 |
 
-1626 |
+2162 |
 
 CH de Lourdes |
 
@@ -16402,9 +21750,9 @@ CH de Lourdes |
 
 Médecine générale |
 
-Médecin généraliste |
+|
 
-1627 |
+2163 |
 
 CH de Lozère |
 
@@ -16412,29 +21760,29 @@ CH de Lozère |
 
 Médecine générale |
 
-médecin généraliste |
+HL48-02 |
 
-1628 |
+2164 |
 
 CH de Marvejols |
 
-480780154 |
+480780097 |
 
 Médecine générale |
 
-médecin généraliste |
+CHM-01 |
 
-1629 |
+2165 |
 
 CH de Pont Saint Esprit |
 
-300000056 |
+300780079 |
 
 Médecine générale |
 
-Médecine Générale |
+30164 |
 
-1630 |
+2166 |
 
 CH de Rodez |
 
@@ -16442,9 +21790,9 @@ CH de Rodez |
 
 Médecine générale |
 
-Médecin urgentiste |
+CHR-06 |
 
-1631 |
+2167 |
 
 CH de Rodez |
 
@@ -16452,9 +21800,9 @@ CH de Rodez |
 
 Médecine générale |
 
-Gériatre |
+CHR-08 |
 
-1632 |
+2168 |
 
 CH de St Gaudens |
 
@@ -16462,29 +21810,9 @@ CH de St Gaudens |
 
 Médecine générale |
 
-Médecine Polyvalente |
+CHCP03 (agrément interne) |
 
-1633 |
-
-CH de Thuir |
-
-660780198 |
-
-Médecine générale |
-
-Médecin Généraliste |
-
-1634 |
-
-CH de Thuir |
-
-660780198 |
-
-Médecine générale |
-
-Médecin Généraliste |
-
-1635 |
+2169 |
 
 CH de Villefranche de Rouergue |
 
@@ -16492,29 +21820,29 @@ CH de Villefranche de Rouergue |
 
 Médecine générale |
 
-Médecin généraliste |
+|
 
-1636 |
-
-CH des Vallées de l'Ariège |
-
-090781774 |
-
-Médecine générale |
-
-médecin addictologue |
-
-1637 |
+2170 |
 
 CH des Vallées de l'Ariège |
 
-090781774 |
+09 078 177 4 |
 
 Médecine générale |
 
-Médecin Gén (SSR) |
+|
 
-1638 |
+2171 |
+
+CH des Vallées de l'Ariège |
+
+09 078 177 4 |
+
+Médecine générale |
+
+09076/10 |
+
+2172 |
 
 Clinique Du souffle La Vallonie |
 
@@ -16522,29 +21850,19 @@ Clinique Du souffle La Vallonie |
 
 Médecine générale |
 
-Médecin Général |
+|
 
-1639 |
+2173 |
 
 CRF de Saint Blancard |
 
-320784333 |
+320000565 |
 
 Médecine Générale |
 
-Médecin généraliste |
+|
 
-1640 |
-
-HAD SANTE RELAIS DOMICILE |
-
-310005459 |
-
-Médecine générale |
-
-Médecin coordonnateur HAD |
-
-1641 |
+2174 |
 
 NOUVELLE CLINIQUE BONNEFON |
 
@@ -16552,19 +21870,9 @@ NOUVELLE CLINIQUE BONNEFON |
 
 Médecine générale |
 
-Médecin de Médecine Polyvalente |
+NCB-MED I-2 |
 
-1642 |
-
-Polyclinique de l'Ormeau |
-
-650000243 |
-
-Médecine générale |
-
-Médecin |
-
-1643 |
+2175 |
 
 Polyclinique de l'Ormeau |
 
@@ -16572,19 +21880,109 @@ Polyclinique de l'Ormeau |
 
 Médecine générale |
 
-Médecin |
+Unité de Soins Palliatifs |
 
-1644 |
+2176 |
+
+Polyclinique de l'Ormeau |
+
+650000243 |
+
+Médecine générale |
+
+SSR Polyvalent |
+
+2177 |
+
+CH St Jacques Saint Céré |
+
+460780091 |
+
+Médecine générale |
+
+MEDECIN GENERALISTE |
+
+2178 |
+
+CHU Nîmes Carémau |
+
+300780038 |
+
+Médecine générale |
+
+Unité Médico Judiciaire |
+
+2179 |
+
+CHU Nîmes Carémau |
+
+300780038 |
+
+Médecine générale |
+
+Médecine Polyvalente |
+
+2180 |
+
+Centre hospitalier de Rodez |
+
+120780044 |
+
+Médecine générale |
+
+Médecin généraliste |
+
+2181 |
+
+Centre Hospitalier de Sète |
+
+340011295 |
+
+Médecine générale |
+
+HBT-07 |
+
+2182 |
+
+Centre Hospitalier de Perpignan |
+
+660780180 |
+
+Médecine générale |
+
+Médecin Généraliste en médecine d'urgence |
+
+2183 |
+
+Centre Hospitalier Emile Borel |
+
+120004619 |
+
+Médecine générale |
+
+MEDECINE GENERALE |
+
+2184 |
+
+Centre Hospitalier de Millau |
+
+120004528 |
+
+Médecine générale |
+
+MEDECINE GENERALE |
+
+2185 |
 
 CH d'Alès-Cévennes |
 
-300780046 |
+30 078 004 6 |
 
 Médecine intensive-réanimation (co-DES) |
 
-Médecin Réanimateur |
+CHAC-04 |
 
-1645 |
+2186 |
 
 CH de LAMALOU-les-BAINS |
 
@@ -16592,19 +21990,19 @@ CH de LAMALOU-les-BAINS |
 
 Médecine physique et de réadaptation |
 
-Médecin MPR |
+34177-05 MPR |
 
-1646 |
+2187 |
 
-CH DE BIGORRE |
+CHU Toulouse |
 
-650783160 |
+310781406 |
 
-Néphrologie |
+Médecine physique et de réadaptation |
 
-médecin néphrologue |
+Médecine Physique et de Réadaptation |
 
-1647 |
+2188 |
 
 CH de CAHORS |
 
@@ -16612,19 +22010,9 @@ CH de CAHORS |
 
 Néphrologie |
 
-Médecin néphrologue |
+|
 
-1648 |
-
-CH de Rodez |
-
-120780044 |
-
-Néphrologie |
-
-Néphrologue |
-
-1649 |
+2189 |
 
 CH de Rodez |
 
@@ -16632,29 +22020,49 @@ CH de Rodez |
 
 Néphrologie |
 
-Néphrologue |
+CHR-01 |
 
-1650 |
+2190 |
+
+CH de Rodez |
+
+120780044 |
+
+Néphrologie |
+
+CHR-02 |
+
+2191 |
 
 CH des Vallées de l'Ariège |
 
-090781774 |
+09 078 177 4 |
 
 Néphrologie |
 
-médecin néphrologue |
+09060/10 |
 
-1651 |
+2192 |
 
-CH de Perpignan |
+CH de Carcassonne |
 
-660000084 |
+110780061 |
+
+Néphrologie |
+
+Neurologue |
+
+2193 |
+
+CH Perpignan |
+
+|
 
 Neurochirurgie |
 
-Neurochirurgien |
+|
 
-1652 |
+2194 |
 
 CH DE BIGORRE |
 
@@ -16662,9 +22070,9 @@ CH DE BIGORRE |
 
 Neurologie |
 
-médecin neurologue |
+|
 
-1653 |
+2195 |
 
 CH de CAHORS |
 
@@ -16672,19 +22080,29 @@ CH de CAHORS |
 
 Neurologie |
 
-Médecin neurologue |
+|
 
-1654 |
+2196 |
 
 CRF de Saint Blancard |
 
-320784333 |
+320000565 |
 
 Neurologie |
 
-Médecin neurologue |
+|
 
-1655 |
+2197 |
+
+Centre Hospitalier d'Auch en Gascogne |
+
+320780117 |
+
+Neurologie |
+
+Médecin Neurologue |
+
+2198 |
 
 CH de CAHORS |
 
@@ -16692,49 +22110,59 @@ CH de CAHORS |
 
 Oncologie |
 
-Médecin oncologue |
+|
 
-1656 |
-
-CH de Castres-Mazamet |
-
-810000380 |
-
-Oncologie |
-
-Médecin oncologue |
-
-1657 |
-
-CH de Perpignan |
-
-660000084 |
-
-Oncologie |
-
-Oncologue |
-
-1658 |
-
-CH de Perpignan |
-
-660000084 |
-
-Oncologie |
-
-Oncologue |
-
-1659 |
+2199 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
-Ophtalmologie |
+Oncologie |
 
-Médecin ophtalmologue |
+|
 
-1660 |
+2200 |
+
+CH de Perpignan |
+
+660780180 |
+
+Oncologie |
+
+CHP-01 |
+
+2201 |
+
+CH de Perpignan |
+
+660780180 |
+
+Oncologie |
+
+CHP-02 |
+
+2202 |
+
+Centre Hospitalier d'Auch en Gascogne |
+
+320780117 |
+
+Oncologie |
+
+Médecin Oncologue |
+
+2203 |
+
+Institut Régional du Cancer de Montpellier (ICM) |
+
+3407800493 |
+
+Oncologie |
+
+Médecin oncologue : Prescription chimiothérapie en hôpital de semaine médecine B3 |
+
+2204 |
 
 CH d'ALBI |
 
@@ -16742,9 +22170,9 @@ CH d'ALBI |
 
 Pédiatrie |
 
-Médecin pédiatre |
+|
 
-1661 |
+2205 |
 
 CH de CAHORS |
 
@@ -16752,19 +22180,19 @@ CH de CAHORS |
 
 Pédiatrie |
 
-Médecin pédiatre |
+|
 
-1662 |
+2206 |
 
 CH de Carcassonne |
 
-110000023 |
+110780061 |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHC-01 |
 
-1663 |
+2207 |
 
 CH de Rodez |
 
@@ -16772,19 +22200,29 @@ CH de Rodez |
 
 Pédiatrie |
 
-Pédiatre |
+CHR-04 |
 
-1664 |
+2208 |
+
+CH Mende Hôpital Lozère |
+
+480780097 |
+
+Pédiatrie |
+
+HL48-04 |
+
+2209 |
 
 CH d'Alès-Cévennes |
 
-300780046 |
+30 078 004 6 |
 
 Pneumologie |
 
-Médecin Pneumologue |
+CHAC-09 |
 
-1665 |
+2210 |
 
 CH de CAHORS |
 
@@ -16792,29 +22230,29 @@ CH de CAHORS |
 
 Pneumologie |
 
-Médecin pneumologue |
+|
 
-1666 |
+2211 |
 
 CH de Carcassonne |
 
-110000023 |
+110780061 |
 
 Pneumologie |
 
-Médecin pneumologue |
+CHC-04 |
 
-1667 |
+2212 |
 
 CH de Castres-Mazamet |
 
-810000380 |
+81 000 038 0 |
 
 Pneumologie |
 
-Médecin pneumologue |
+|
 
-1668 |
+2213 |
 
 CH de Rodez |
 
@@ -16822,9 +22260,9 @@ CH de Rodez |
 
 Pneumologie |
 
-Pneumologue |
+CHR-09 |
 
-1669 |
+2214 |
 
 CH de St Gaudens |
 
@@ -16832,9 +22270,9 @@ CH de St Gaudens |
 
 Pneumologie |
 
-Pneumologue |
+CHCP04 |
 
-1670 |
+2215 |
 
 CH de Villefranche de Rouergue |
 
@@ -16842,39 +22280,39 @@ CH de Villefranche de Rouergue |
 
 Pneumologie |
 
-Médecin pneumologue |
+|
 
-1671 |
-
-CH d'Alès-Cévennes |
-
-300780046 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-1672 |
+2216 |
 
 CH d'Alès-Cévennes |
 
-300780046 |
+30 078 004 6 |
 
 Psychiatrie |
 
-Médecin Psychiatre |
+CHAC-07 |
 
-1673 |
+2217 |
 
 CH d'Alès-Cévennes |
 
-300780046 |
+30 078 004 6 |
 
 Psychiatrie |
 
-Médecin Pédopsychiatre |
+CHAC-08 |
 
-1674 |
+2218 |
+
+CH d'Alès-Cévennes |
+
+30 078 004 6 |
+
+Psychiatrie |
+
+CHAC-10 |
+
+2219 |
 
 CH de Béziers |
 
@@ -16882,9 +22320,9 @@ CH de Béziers |
 
 Psychiatrie |
 
-Médecin spécialiste en Psychiatrie (50 % Unité Sanitaire + 50 % Intra Psy Adulte) |
+CHB-01 |
 
-1675 |
+2220 |
 
 CH de Béziers |
 
@@ -16892,9 +22330,9 @@ CH de Béziers |
 
 Psychiatrie |
 
-Médecin spécialiste en Psychiatrie (100 % Psychiatrie Adulte Intra/ CMP) |
+CHB-02 |
 
-1676 |
+2221 |
 
 CH DE GERS |
 
@@ -16902,29 +22340,29 @@ CH DE GERS |
 
 Psychiatrie |
 
-Psychiatrie infanto-juvénile |
+Clinique ADOS + CMP |
 
-1677 |
-
-CH DE GERS |
-
-320780126 |
-
-Psychiatrie |
-
-Psychiatrie infanto-juvénile |
-
-1678 |
+2222 |
 
 CH DE GERS |
 
-320780126 |
+320780125 |
 
 Psychiatrie |
 
-Psychiatrie Adultes |
+Clinique ADOS + CMP |
 
-1679 |
+2223 |
+
+CH DE GERS |
+
+320780125 |
+
+Psychiatrie |
+
+Psychogériatrie + CMP |
+
+2224 |
 
 CH DE LANNEMEZAN |
 
@@ -16932,19 +22370,9 @@ CH DE LANNEMEZAN |
 
 Psychiatrie |
 
-médecin psychiatre Pôle A1 |
+CHL 65 01 |
 
-1680 |
-
-CH DE LANNEMEZAN |
-
-650780174 |
-
-Psychiatrie |
-
-médecin psychiatre Pôle A2 |
-
-1681 |
+2225 |
 
 CH DE LANNEMEZAN |
 
@@ -16952,19 +22380,19 @@ CH DE LANNEMEZAN |
 
 Psychiatrie |
 
-médecin psychiatre Pôle A3 |
+CHL 65 02 |
 
-1682 |
+2226 |
 
-CH de Narbonne |
+CH DE LANNEMEZAN |
 
-110000056 |
+650780174 |
 
 Psychiatrie |
 
-Médecin psychiatre |
+CHL 65 03 |
 
-1683 |
+2227 |
 
 CH de Thuir |
 
@@ -16972,19 +22400,9 @@ CH de Thuir |
 
 Psychiatrie |
 
-Médecin Psychiatre |
+CHT 01 Nord-Ouest |
 
-1684 |
-
-CH de Thuir |
-
-660780198 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-1685 |
+2228 |
 
 CH de Thuir |
 
@@ -16992,19 +22410,9 @@ CH de Thuir |
 
 Psychiatrie |
 
-Médecin Psychiatre |
+CHT 02 Nord-Ouest |
 
-1686 |
-
-CH de Thuir |
-
-660780198 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-1687 |
+2229 |
 
 CH de Thuir |
 
@@ -17012,19 +22420,9 @@ CH de Thuir |
 
 Psychiatrie |
 
-Médecin Psychiatre |
+CHT 03 Sud |
 
-1688 |
-
-CH de Thuir |
-
-660780198 |
-
-Psychiatrie |
-
-Médecin Pédo-psychiatre |
-
-1689 |
+2230 |
 
 CH de Thuir |
 
@@ -17032,19 +22430,9 @@ CH de Thuir |
 
 Psychiatrie |
 
-Médecin Pédo-psychiatre |
+CHT 04 CET |
 
-1690 |
-
-CH de Thuir |
-
-660780198 |
-
-Psychiatrie |
-
-Médecin Pédo-psychiatre |
-
-1691 |
+2231 |
 
 CH de Thuir |
 
@@ -17052,9 +22440,69 @@ CH de Thuir |
 
 Psychiatrie |
 
-Médecin Psychiatre |
+CHT 05 Perpignan |
 
-1692 |
+2232 |
+
+CH de Thuir |
+
+660780198 |
+
+Psychiatrie |
+
+CHTP 07 (SUP/ SMPA) |
+
+2233 |
+
+CH de Thuir |
+
+660780198 |
+
+Psychiatrie |
+
+CHT 08 PIJ |
+
+2234 |
+
+CH de Thuir |
+
+660780198 |
+
+Psychiatrie |
+
+CHT 09 PIJ |
+
+2235 |
+
+CH de Thuir |
+
+660780198 |
+
+Psychiatrie |
+
+CHT 10 SMPR/ Addictologie |
+
+2236 |
+
+CHS Pierre Jamet |
+
+810100008 |
+
+Psychiatrie |
+
+Médecin Pédo Psychiatre |
+
+2237 |
+
+CH Le Mas Careiron |
+
+300780103 |
+
+Psychiatrie |
+
+PEDOPSYCHIATRIE |
+
+2238 |
 
 CH de CAHORS |
 
@@ -17062,19 +22510,9 @@ CH de CAHORS |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+|
 
-1693 |
-
-CH de Castres-Mazamet |
-
-810000380 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-1694 |
+2239 |
 
 CH de Montauban |
 
@@ -17082,19 +22520,9 @@ CH de Montauban |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+|
 
-1695 |
-
-CH de Montauban |
-
-820000016 |
-
-Radiologie et imagerie médicale |
-
-Médecin radiologue |
-
-1696 |
+2240 |
 
 CH de Montauban |
 
@@ -17102,19 +22530,29 @@ CH de Montauban |
 
 Radiologie et imagerie médicale |
 
-1 poste supplémentaire en radiologie |
+|
 
-1697 |
+2241 |
+
+CH de Montauban |
+
+820000016 |
+
+Radiologie et imagerie médicale |
+
+|
+
+2242 |
 
 CH de Sète |
 
-340011295 |
+|
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+HBT-05 |
 
-1698 |
+2243 |
 
 CH de Villefranche de Rouergue |
 
@@ -17122,27 +22560,67 @@ CH de Villefranche de Rouergue |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+|
 
-1699 |
+2244 |
 
 CH des Vallées de l'Ariège |
 
-090781774 |
+09 078 177 4 |
 
 Radiologie et imagerie médicale |
 
-Médecin radiologue |
+09075/02 |
 
-1700 |
+2245 |
 
 CHU Nîmes Carémau |
 
-300782117 |
+300780038 |
 
 Radiologie et imagerie médicale |
 
-Radiologie et Imagerie médicale |
+|
+
+2246 |
+
+Centre Hospitalier Alès-Cévennes |
+
+300780046 |
+
+Radiologie et imagerie médicale |
+
+Médecin Radiologue |
+
+2247 |
+
+Centre Hospitalier de Millau |
+
+120004528 |
+
+Radiologie et imagerie médicale |
+
+RADIOLOGUE |
+
+2248 |
+
+CHU Nîmes Carémau |
+
+300780038 |
+
+radiologie et imagerie médicale |
+
+Imagerie |
+
+2249 |
+
+Centre hospitalier de Rodez |
+
+120780044 |
+
+Radiologie et imagerie médicale |
+
+Radiologue |
 
 Agence Régionale de Santé : |
 
@@ -17152,133 +22630,113 @@ Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1701 |
+2250 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésiste |
+CHL-14 |
 
-1702 |
+2251 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
 Anesthésie-réanimation (co-DES) |
 
-Anesthésiste |
+CHHA-09 |
 
-1703 |
+2252 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Anesthésie-réanimation (co-DES) |
 
-Praticien associé en Anesthésie |
+CHM-01 |
 
-1704 |
+2253 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Anesthésie-réanimation (co-DES) |
 
-Praticien associé en Anesthésie |
+CHM-02 |
 
-1705 |
+2254 |
 
 CH de SAUMUR |
 
-490001765 |
+490528452 |
 
 Anesthésie-réanimation (co-DES) |
 
-anesthésiste |
+CHS-1 |
 
-1706 |
+2255 |
 
 CHD VENDEE |
 
-850000142 |
+85000019 |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste |
+CHD-01 |
 
-1707 |
+2256 |
 
-CHU ANGERS |
-
-490000031 |
-
-Anesthésie-réanimation (co-DES) |
-
-anesthésiste |
-
-1708 |
-
-CHVLO |
+CH Loire Vendée Océan |
 
 850009010 |
 
 Anesthésie-réanimation (co-DES) |
 
-Médecin anesthésiste |
+CHVLO-03 |
 
-1709 |
-
-Centre Hospitalier du Mans |
-
-720000033 |
-
-Chirurgie orthopédique et traumatologique |
-
-Praticien associé en Orthopédie |
-
-1710 |
+2257 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
+
+Anesthésie-réanimation (co-DES) |
+
+Anesthésiste |
+
+2258 |
+
+Centre hospitalier du Haut Anjou |
+
+530000017 |
 
 Chirurgie viscérale et digestive |
 
-Chirurgien viscéral |
+CHHA-05 |
 
-1711 |
+2259 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Endocrinologie-diabétologie-nutrition |
 
-médecin endocrinologue |
+CHC-8 |
 
-1712 |
-
-Centre Hospitalier de Châteaubriant-Nozay-Pouance |
-
-440000313 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1713 |
+2260 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17286,79 +22744,89 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Gériatrie |
 
-Médecin gériatre |
+CHCNP-06 |
 
-1714 |
+2261 |
 
-Centre hospitalier de Laval |
+Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
-530000264 |
-
-Gériatrie |
-
-Gériatre en service de soins de suite |
-
-1715 |
-
-Centre hospitalier de Laval |
-
-530000264 |
+440000313 |
 
 Gériatrie |
 
-Gériatre en court séjour gériatrique |
+CHCNP-07 |
 
-1716 |
+2262 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+Gériatrie |
+
+CHL-02 |
+
+2263 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+Gériatrie |
+
+CHL-03 |
+
+2264 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
 Gériatrie |
 
-Gériatre en service de soins de suite |
+CHHA-02 |
 
-1717 |
+2265 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Gériatrie |
 
-Praticien associé en Gériatrie |
+CHM-12 |
 
-1718 |
+2266 |
 
 Centre Hospitalier du Nord Mayenne |
 
-530000173 |
+530000074 |
 
 Gériatrie |
 
-Médecine générale/ service de médecine Gériatrique |
+CHNM-PAA04 |
 
-1719 |
+2267 |
 
 Centre Hospitalier Erdre et Loire |
 
-2, 00073E + 13 |
+|
 
 Gériatrie |
 
-Médecin gériatre |
+CHEL-02 |
 
-1720 |
+2268 |
 
-CH 72400 LA FERTE-BERNARD |
+CH LA FERTE-BERNARD |
 
 720006022 |
 
 Gériatrie |
 
-Praticien SSR |
+CHFB-02 |
 
-1721 |
+2269 |
 
 CH LE LUDE |
 
@@ -17366,29 +22834,29 @@ CH LE LUDE |
 
 Gériatrie |
 
-Praticien associé en EHPAD |
+CHLU-01 |
 
-1722 |
+2270 |
 
-CHCL |
+CH Côte de Lumière |
 
 850000084 |
 
 Gériatrie |
 
-Gériatre |
+CHCL-03 |
 
-1723 |
+2271 |
 
 CHD VENDEE |
 
-850000142 |
+85000019 |
 
 Gériatrie |
 
-Gériatre |
+CHD-05 |
 
-1724 |
+2272 |
 
 CHI LYS HYROME |
 
@@ -17396,9 +22864,9 @@ CHI LYS HYROME |
 
 Gériatrie |
 
-Médecin gériatre |
+CHILY-2 |
 
-1725 |
+2273 |
 
 Etablissement de Santé Baugeois-Vallée |
 
@@ -17406,9 +22874,9 @@ Etablissement de Santé Baugeois-Vallée |
 
 Gériatrie |
 
-Médecin gériatre |
+ESBV-2 |
 
-1726 |
+2274 |
 
 Hôpital Intercommunal de la Presqu'ile-GUERANDE |
 
@@ -17416,9 +22884,9 @@ Hôpital Intercommunal de la Presqu'ile-GUERANDE |
 
 Gériatrie |
 
-Médecin pour SSR Polyvalent |
+HIPI-01 |
 
-1727 |
+2275 |
 
 POLE SANTE SARTHE ET LOIR |
 
@@ -17426,19 +22894,29 @@ POLE SANTE SARTHE ET LOIR |
 
 Gériatrie |
 
-|
+PSSL-01 |
 
-1728 |
+2276 |
 
-Centre Hospitalier de Châteaubriant-Nozay-Pouance |
+Centre hospitalier de Laval |
 
-440000313 |
+530000371 |
 
 Gynécologie médicale |
 
-Gynécologue |
+CHL-17 |
 
-1729 |
+2277 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+Gynécologie obstétrique |
+
+Gynécologue-obstétricien |
+
+2278 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17446,39 +22924,29 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Gynécologie-obstétrique |
 
-Gynécologue-obstétrique |
+CHCNP-10 |
 
-1730 |
+2279 |
 
 Centre Hospitalier du Nord Mayenne |
 
-530000173 |
+530000074 |
 
 Gynécologie-obstétrique |
 
-Gynécologue |
+CHNM-PAA03 |
 
-1731 |
+2280 |
 
 Centre Hospitalier Erdre et Loire |
 
-2, 00073E + 13 |
+|
 
 Gynécologie-obstétrique |
 
-Gynécologue-obstétrique |
+CHEL-01 |
 
-1732 |
-
-CHD VENDEE |
-
-850000142 |
-
-Gynécologie-obstétrique |
-
-Gynécologue obstétricien |
-
-1733 |
+2281 |
 
 POLE SANTE SARTHE ET LOIR |
 
@@ -17486,19 +22954,9 @@ POLE SANTE SARTHE ET LOIR |
 
 Gynécologie-obstétrique |
 
-|
+PSSL-04 |
 
-1734 |
-
-Centre Hospitalier de Châteaubriant-Nozay-Pouance |
-
-440000313 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastro-entérologue |
-
-1735 |
+2282 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17506,39 +22964,59 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Hépato-gastro-entérologie |
 
-Médecin gastro-entérologue |
+CHCNP-11 |
 
-1736 |
+2283 |
+
+Centre Hospitalier de Châteaubriant-Nozay-Pouance |
+
+440000313 |
+
+Hépato-gastro-entérologie |
+
+CHCNP-12 |
+
+2284 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Hépato-gastro-entérologie |
 
-Gastro-entérologue |
+CHL-05 |
 
-1737 |
+2285 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
 Hépato-gastro-entérologie |
 
-Gastro-entérologue |
+CHHA-04 |
 
-1738 |
+2286 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Hépato-gastro-entérologie |
 
-Praticien associé en Hépato-gastroentérologie |
+CHM-05 |
 
-1739 |
+2287 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+Médecine cardiovasculaire |
+
+Cardiologue |
+
+2288 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17546,9 +23024,9 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHCNP-04 |
 
-1740 |
+2289 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17556,119 +23034,159 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHCNP-05 |
 
-1741 |
+2290 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHHA-10 |
 
-1742 |
+2291 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+|
 
 Médecine cardiovasculaire (co-DES) |
 
-Praticien associé en cardiologie |
+CHM-10 |
 
-1743 |
+2292 |
 
 Centre Hospitalier du Mans |
 
-720000034 |
+72 000 002 5 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Praticien associé en cardiologie |
+CHM-16 |
 
-1744 |
+2293 |
 
 Centre Hospitalier du Nord Mayenne |
 
-530000173 |
+530000074 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHNM-PAA05 |
 
-1745 |
+2294 |
 
 CH de SAUMUR |
 
-490001765 |
+490528452 |
 
 Médecine cardiovasculaire (co-DES) |
 
-cardiologue |
+CHS-3 |
 
-1746 |
+2295 |
 
-FLC |
+CH Fontenay le Comte |
 
 850000035 |
 
 Médecine cardiovasculaire (co-DES) |
 
-Cardiologue |
+CHFLC-02 |
 
-1747 |
+2296 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+850000035 |
 
 Médecine d'urgence |
 
-Urgentiste |
+CHL-06 |
 
-1748 |
+2297 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Médecine d'urgence |
 
-Praticien associé aux Urgences |
+CHM-07 |
 
-1749 |
+2298 |
 
 Centre Hospitalier du Nord Mayenne |
 
-530000173 |
+530000074 |
 
 Médecine d'urgence |
 
-Urgentiste |
+CHNM-PAA02 |
 
-1750 |
+2299 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Médecine d'urgence |
 
-médecin urgentiste |
+CHC-3 |
 
-1751 |
+2300 |
 
-CHCL |
+CH Côte de Lumière |
 
 850000084 |
 
 Médecine d'urgence |
 
+CHCL-04 |
+
+2301 |
+
+Centre Hospitalier de Saint Nazaire |
+
+440000057 |
+
+Médecine d'urgence |
+
+CHSN-02 |
+
+2302 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+médecine d'urgence |
+
 Urgentiste |
 
-1752 |
+2303 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+médecine d'urgence |
+
+Urgentiste |
+
+2304 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+médecine d'urgence |
+
+Urgentiste |
+
+2305 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17676,19 +23194,9 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Médecine générale |
 
-Médecin en médecine polyvalente |
+CHCNP-01 |
 
-1753 |
-
-Centre Hospitalier de Châteaubriant-Nozay-Pouance |
-
-440000313 |
-
-Médecine générale |
-
-Médecin en médecine polyvalente |
-
-1754 |
+2306 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -17696,49 +23204,49 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Médecine générale |
 
-Médecin en médecine polyvalente |
+CHCNP-02 |
 
-1755 |
+2307 |
 
-Centre Hospitalier de Corcoué sur Logne |
+Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
-|
+440000313 |
 
 Médecine générale |
 
-|
+CHCNP-03 |
 
-1756 |
+2308 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Médecine générale |
 
-Médecin polyvalent en service de soins de suite |
+CHL-07 |
 
-1757 |
+2309 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Médecine générale |
 
-Médecin polyvalent en court séjour gériatrique |
+CHL-08 |
 
-1758 |
+2310 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Médecine générale |
 
-Médecin polyvalent en pneumologie |
+CHL-16 |
 
-1759 |
+2311 |
 
 Centre Hospitalier de Savenay |
 
@@ -17746,89 +23254,69 @@ Centre Hospitalier de Savenay |
 
 Médecine générale |
 
-Médecin pour SSR Polyvalent |
+CHSY-01 |
 
-1760 |
-
-Centre hospitalier du Haut Anjou |
-
-530000025 |
-
-Médecine générale |
-
-Médecin polyvalent en médecine polyvalente à Segré |
-
-1761 |
+2312 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
 Médecine générale |
 
-Médecin polyvalent en court séjour gériatrique |
+CHHA-06 |
 
-1762 |
+2313 |
+
+Centre hospitalier du Haut Anjou |
+
+530000017 |
+
+Médecine générale |
+
+CHHA-07 |
+
+2314 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Médecine générale |
 
-Praticien associé en Médecine Polyvalente |
+CHM-11 |
 
-1763 |
+2315 |
 
-CH 72400 LA FERTE-BERNARD |
+CH LA FERTE-BERNARD |
 
 720006022 |
 
 Médecine générale |
 
-Praticien médecine polyvalente |
+CHFB-01 |
 
-1764 |
-
-CH CHÂTEAU DU LOIR |
-
-720000066 |
-
-Médecine générale |
-
-Praticien associé en SSR |
-
-1765 |
+2316 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Médecine générale |
 
-médecin généraliste ou interniste |
+CHC-6 |
 
-1766 |
-
-CH de CHOLET |
-
-490000635 |
-
-Médecine générale |
-
-médecin SSR |
-
-1767 |
+2317 |
 
 CH DOUE EN ANJOU |
 
-490000403 |
+490000338 |
 
 Médecine générale |
 
-MEDECIN POLYVALENT |
+CHDEA-01 |
 
-1768 |
+2318 |
 
 CH SAINT CALAIS |
 
@@ -17836,29 +23324,29 @@ CH SAINT CALAIS |
 
 Médecine générale |
 
-Praticien associé en Médecine Polyvalente |
+CHSTC-01 |
 
-1769 |
+2319 |
 
-CHCL |
+CH Côte de Lumière |
 
 850000084 |
 
 Médecine générale |
 
-Médecin Généraliste |
+CHCL-02 |
 
-1770 |
+2320 |
 
 CHD VENDEE |
 
-850000209 |
+85000019 |
 
 Médecine générale |
 
-Médecin généraliste |
+CHD-07 |
 
-1771 |
+2321 |
 
 CHI LYS HYROME |
 
@@ -17866,39 +23354,39 @@ CHI LYS HYROME |
 
 Médecine générale |
 
-Médecin généraliste |
+CHILY-1 |
 
-1772 |
+2322 |
 
-CHVLO |
-
-850009010 |
-
-Médecine générale |
-
-Urgentiste |
-
-1773 |
-
-CHVLO |
+CH Loire Vendée Océan |
 
 850009010 |
 
 Médecine générale |
 
-Médecin Généraliste |
+CHVLO-01 |
 
-1774 |
+2323 |
+
+CH Loire Vendée Océan |
+
+850009010 |
+
+Médecine générale |
+
+CHVLO-02 |
+
+2324 |
 
 EPSM G Mazurelle |
 
-850000092 |
+|
 
 Médecine générale |
 
-Médecin généraliste |
+EPSMGM-01 |
 
-1775 |
+2325 |
 
 Etablissement de Santé Baugeois-Vallée |
 
@@ -17906,39 +23394,39 @@ Etablissement de Santé Baugeois-Vallée |
 
 Médecine générale |
 
-Médecin |
+ESBV-1 |
 
-1776 |
+2326 |
 
-FLC |
-
-850000035 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1777 |
-
-FLC |
+CH Fontenay le Comte |
 
 850000035 |
 
 Médecine générale |
 
-Médecin Généraliste |
+CHFLC-01 |
 
-1778 |
+2327 |
+
+CH Fontenay le Comte |
+
+850000035 |
+
+Médecine générale |
+
+CHFLC-03 |
+
+2328 |
 
 Groupe hospitalier des collines vendéennes |
 
-850025867 |
+850000035 |
 
 Médecine générale |
 
-Médecin généraliste |
+GHCV-01 |
 
-1779 |
+2329 |
 
 POLE HOSPITALIER ET GERONTOLOGIQUE NORD SARTHE |
 
@@ -17946,39 +23434,79 @@ POLE HOSPITALIER ET GERONTOLOGIQUE NORD SARTHE |
 
 Médecine générale |
 
-Praticien associé SSR |
+PHGNS-01 |
 
-1780 |
+2330 |
+
+CH Loire Vendée Océan |
+
+850009010 |
+
+Médecine générale |
+
+CHLVO-7 |
+
+2331 |
+
+Centre Hospitalier de Réadaptation de Maubreuil |
+
+440000065 |
+
+Médecine générale |
+
+MAUB-01 |
+
+2332 |
 
 Centre hospitalier de Laval |
 
-530000265 |
+530000371 |
+
+Médecine générale |
+
+Médecin généraliste en psychiatrie |
+
+2333 |
+
+CH CHÂTEAU DU LOIR |
+
+720000066 |
+
+Médecine générale |
+
+CHLOIR-01 |
+
+2334 |
+
+Centre hospitalier de Laval |
+
+530000371 |
 
 Médecine intensive-réanimation (co-DES) |
 
-réanimateur |
+CHL-15 |
 
-1781 |
+2335 |
 
-Centre hospitalier de Laval |
+CH DE CHOLET |
 
-530000264 |
+490000676 |
 
 Médecine physique et de réadaptation |
 
-Médecin rééducateur |
+CHC-5 |
 
-1782 |
+2336 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Neurologie |
 
-Neurologue |
+CHL-04 |
 
-1783 |
+2337 |
 
 Centre Hospitalier de Saint-Nazaire |
 
@@ -17986,79 +23514,69 @@ Centre Hospitalier de Saint-Nazaire |
 
 Neurologie |
 
-Neurologue |
+CHSN-02 |
 
-1784 |
-
-Centre Hospitalier du Mans |
-
-720000033 |
-
-Neurologie |
-
-Praticien associé en Neurologie |
-
-1785 |
+2338 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Neurologie |
 
-Praticien associé en Neurologie |
+CHM-04 |
 
-1786 |
+2339 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Neurologie |
 
-médecin neurologue |
+CHC-2 |
 
-1787 |
+2340 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Neurologie |
 
-médecin neurologue |
+CHC-9 |
 
-1788 |
+2341 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
-odontologie médecine bucco-dentaire |
+Odontologie |
 
-dentiste |
+CHHA-03 |
 
-1789 |
+2342 |
 
 CHD VENDEE |
 
-850000142 |
+85000019 |
 
 Oncologie |
 
-Oncologue |
+CHD-04 |
 
-1790 |
+2343 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Ophtalmologie |
 
-Praticien associé en Ophtalmologie |
+CHM-14 |
 
-1791 |
+2344 |
 
 Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
@@ -18066,39 +23584,39 @@ Centre Hospitalier de Châteaubriant-Nozay-Pouance |
 
 Pédiatrie |
 
-Médecin pédiatre |
+CHCNP-09 |
 
-1792 |
-
-Centre Hospitalier du Mans |
-
-720000033 |
-
-Pédiatrie |
-
-Praticien associé en Réanimation néo-natale |
-
-1793 |
+2345 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Pédiatrie |
 
-Praticien associé en Pédiatrie |
+CHM-06 |
 
-1794 |
+2346 |
+
+Centre Hospitalier du Mans |
+
+72 000 002 5 |
+
+Pédiatrie |
+
+CHM-15 |
+
+2347 |
 
 ELSAN-Clinique Bretéché |
 
-440000412 |
+|
 
 Pédiatrie |
 
-Pédiatre |
+ELSANCB-01 |
 
-1795 |
+2348 |
 
 POLE SANTE SARTHE ET LOIR |
 
@@ -18106,79 +23624,79 @@ POLE SANTE SARTHE ET LOIR |
 
 Pédiatrie |
 
-|
+PSSL-05 |
 
-1796 |
+2349 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Pneumologie |
 
-Pneumologue |
+CHL-01 |
 
-1797 |
+2350 |
 
-CHCL |
+CH Côte de Lumière |
 
 850000084 |
 
 Pneumologie |
 
-Pneumologue |
+CHCL-01 |
 
-1798 |
-
-Centre hospitalier de Laval |
-
-530000264 |
-
-Psychiatrie |
-
-Psychiatre secteurs adultes Ouest |
-
-1799 |
+2351 |
 
 Centre hospitalier de Laval |
 
-530000264 |
+530000371 |
 
 Psychiatrie |
 
-Pédopsychiatre |
+CHL-10 |
 
-1800 |
+2352 |
+
+Centre hospitalier de Laval |
+
+530000371 |
+
+Psychiatrie |
+
+CHL-12 |
+
+2353 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
 
 Psychiatrie |
 
-Psychiatre secteur adulte |
+CHHA-01 |
 
-1801 |
+2354 |
 
 Centre Hospitalier du Nord Mayenne |
 
-530000173 |
+530000074 |
 
 Psychiatrie |
 
-Psychiatre |
+CHNM-PAA01 |
 
-1802 |
+2355 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Psychiatrie |
 
-médecin psychiatre |
+CHC-7 |
 
-1803 |
+2356 |
 
 EPSM de la Sarthe |
 
@@ -18186,19 +23704,9 @@ EPSM de la Sarthe |
 
 Psychiatrie |
 
-hospitalisation complète pôle B secteur 5 |
+EPSM72-01 |
 
-1804 |
-
-EPSM de la Sarthe |
-
-720000058 |
-
-Psychiatrie |
-
-hospitalisation complète pôle A secteur 6 |
-
-1805 |
+2357 |
 
 EPSM de la Sarthe |
 
@@ -18206,119 +23714,149 @@ EPSM de la Sarthe |
 
 Psychiatrie |
 
-Pôle transversal (EPAUL-uao) |
+EPSM72-02 |
 
-1806 |
+2358 |
 
-EPSM G Mazurelle |
+EPSM de la Sarthe |
 
-850000092 |
-
-Psychiatrie |
-
-Psychiatre |
-
-1807 |
-
-EPSM G Mazurelle |
-
-850000092 |
+720000058 |
 
 Psychiatrie |
 
-Psychiatre |
+EPSM72-03 |
 
-1808 |
-
-EPSM G Mazurelle |
-
-850000092 |
-
-Psychiatrie |
-
-Psychiatre |
-
-1809 |
+2359 |
 
 EPSM G Mazurelle |
 
-850000092 |
+|
 
 Psychiatrie |
 
-Psychiatre |
+EPSMGM-03 |
 
-1810 |
+2360 |
+
+EPSM G Mazurelle |
+
+|
+
+Psychiatrie |
+
+EPSMGM-06 |
+
+2361 |
+
+EPSM G Mazurelle |
+
+|
+
+Psychiatrie |
+
+EPSMGM-07 |
+
+2362 |
+
+EPSM G Mazurelle |
+
+|
+
+Psychiatrie |
+
+EPSMGM-08 |
+
+2363 |
 
 EPSYLAN |
 
-440000263 |
+44000263 |
 
 Psychiatrie |
 
-Psychiatrie de secteur |
+Epsylan-01 |
 
-1811 |
-
-Centre hospitalier de Laval |
-
-530000264 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-1812 |
+2364 |
 
 Centre hospitalier du Haut Anjou |
 
-530000025 |
+530000017 |
+
+Psychiatrie |
+
+Psychiatre |
+
+2365 |
+
+EPSM G Mazurelle |
+
+850000092 |
+
+Psychiatrie |
+
+EPSMGM-10 |
+
+2366 |
+
+Centre hospitalier de Laval |
+
+530000371 |
 
 Radiologie et imagerie médicale |
 
-Radiologue |
+CHL-13 |
 
-1813 |
+2367 |
+
+Centre hospitalier du Haut Anjou |
+
+530000017 |
+
+Radiologie et imagerie médicale |
+
+CHHA-08 |
+
+2368 |
 
 Centre Hospitalier du Mans |
 
-720000033 |
+72 000 002 5 |
 
 Radiologie et imagerie médicale |
 
-Praticien associé en Radiologie |
+CHM-09 |
 
-1814 |
+2369 |
 
 CH de CHOLET |
 
-490000635 |
+490000676 |
 
 Radiologie et imagerie médicale |
 
-médecin radiologue |
+CHC-4 |
 
-1815 |
+2370 |
 
 CH de SAUMUR |
 
-490001765 |
+490528452 |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+CHS-2 |
 
-1816 |
+2371 |
 
 CHD VENDEE |
 
-850000142 |
+85000019 |
 
 Radiologie et imagerie médicale |
 
-Radiologue |
+CHD-02 |
 
-1817 |
+2372 |
 
 CHU ANGERS |
 
@@ -18326,9 +23864,9 @@ CHU ANGERS |
 
 Radiologie et imagerie médicale |
 
-radiologue |
+CHUA-2 |
 
-1818 |
+2373 |
 
 POLE SANTE SARTHE ET LOIR |
 
@@ -18336,1547 +23874,1887 @@ POLE SANTE SARTHE ET LOIR |
 
 Radiologie et imagerie médicale |
 
-|
+PSSL-02 |
 
 Agence Régionale de Santé : |
 
-Provence-Alpes-Côte-D'Azur |
+Provence-Alpes-Côte d'Azur |
 
 Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1819 |
-
-Centre Hospitalier de la Dracénie |
-
-830000287 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1820 |
-
-Centre Hospitalier de la Dracénie |
-
-830000287 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1821 |
-
-CHC-SV Centre Hospitalier de Cannes Simone Veil |
-
-060000544 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1822 |
-
-Centre Hospitalier Digne les Bains |
-
-040788879 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1823 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1824 |
-
-CENTRE HOSPITALIER ARLES |
-
-130789274 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1825 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1826 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1827 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1828 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1829 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-13 004 191 6 |
-
-Anesthésie-réanimation |
-
-Anesthésiste-réanimateur |
-
-1830 |
-
-CENTRE HOSPITALIER ARLES |
-
-130789274 |
-
-Chirurgie orthopédique et traumatologique |
-
-Médecin orthopédiste |
-
-1831 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Chirurgie orthopédique et traumatologique |
-
-Chirurgien Orthopédiste |
-
-1832 |
+2374 |
 
 Centre Hospitalier de Martigues |
 
 130789316 |
 
-Chirurgie orthopédique et traumatologique |
+Anesthésie-réanimation (co-DES) |
 
-chirurgien orthopédique |
+CH Martigues-Anesthésiste-01 |
 
-1833 |
+2375 |
 
-HPS-Hôpital du Pays Salonais |
+Centre Hospitalier de la Dracénie |
 
-130782634 |
+830100525 |
 
-Chirurgie viscérale et digestive |
+Anesthésie-réanimation (co-DES) |
 
-Chirurgien viscérale |
+|
 
-1834 |
+2376 |
+
+CENTRE HOSPITALIER DE GRASSE |
+
+060780897 |
+
+Anesthésie-réanimation (co-DES) |
+
+CHG-8 |
+
+2377 |
+
+CENTRE HOSPITALIER ARLES |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHA-02 |
+
+2378 |
+
+Centre Hospitalier de la Dracénie |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHD-05 |
+
+2379 |
+
+Centre Hospitalier de la Dracénie |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHD-06 |
+
+2380 |
+
+Centre Hospitalier Digne les Bains |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHDB-06 |
+
+2381 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHIAP-06 |
+
+2382 |
+
+CHC-SV Centre Hospitalier de Cannes Simone Veil |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHC-SV-04 |
+
+2383 |
 
 CHI FREJUS ST RAPHAEL |
 
-830100566 |
+|
 
-Chirurgie viscérale et digestive |
+Anesthésie-réanimation (co-DES) |
 
-Chirurgie viscérale |
+CHIFSR-01 |
 
-1835 |
+2384 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHIM-04 |
+
+2385 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHIM-05 |
+
+2386 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Anesthésie-réanimation (co-DES) |
+
+CHIM-06 |
+
+2387 |
 
 HPS-Hôpital du Pays Salonais |
 
-130782634 |
+|
+
+Anesthésie-réanimation (co-DES) |
+
+HPS-02 |
+
+2388 |
+
+Assistance Publique des Hôpitaux de Marseille (AP-HM) |
+
+130786049 |
+
+Chirurgie orthopédique et traumatologie |
+
+APHM-1 |
+
+2389 |
+
+CENTRE HOSPITALIER ARLES |
+
+|
+
+Chirurgie orthopédique et traumatologique |
+
+CHA-01 |
+
+2390 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Chirurgie orthopédique et traumatologique |
+
+CHMartigues-ortho-01 |
+
+2391 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Chirurgie orthopédique et traumatologique |
+
+HPS-03 |
+
+2392 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Chirurgie viscérale et digestive |
+
+CHIFSR-04 |
+
+2393 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Chirurgie viscérale et digestive |
+
+HPS-04 |
+
+2394 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
 
 Endocrinologie-diabétologie-nutrition |
 
-Médecin endocrino-diabétologue |
+HPS-05 |
 
-1836 |
+2395 |
 
 Centre Gérontologique Départemental |
 
-130809015 |
+|
 
 Gériatrie |
 
-Parcours médical gériatrique au sein des services d'hospitalisations spécialisés |
+CGD13-01 |
 
-1837 |
-
-Centre Hospitalier du Pays Apt |
-
-840000012 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1838 |
+2396 |
 
 Centre Hospitalier Digne les Bains |
-
-040788879 |
-
-Gériatrie |
-
-Gériatre |
-
-1839 |
-
-CH ORANGE |
-
-840000087 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1840 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Gériatrie |
-
-Gériatre en court séjour |
-
-1841 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-130041916 |
-
-Gériatrie |
-
-Médecine gériatrique |
-
-1842 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1843 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1844 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Gériatrie |
-
-Médecin gériatre |
-
-1845 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Gériatrie |
-
-Gériatre en centre gérontologique |
-
-1846 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-13 004 191 6 |
-
-Gériatrie |
-
-Médecine gériatrique |
-
-1847 |
-
-CHH-Centre hospitalier de Hyères |
-
-830100533 |
-
-Gynécologie Obstétrique |
-
-Gynécologue-obstéricien |
-
-1848 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Gynécologie Obstétrique |
-
-Gynécologue-obstéricien |
-
-1849 |
-
-CH Carpentras |
-
-840000046 |
-
-Gynécologie Obstétrique |
-
-Gynécologue-obstétricien |
-
-1850 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Gynécologie Obstétrique |
-
-Gynécologue-obstetricien |
-
-1851 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Gynécologie Obstétrique |
-
-Gynécologue obstétricien |
-
-1852 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Gynécologie Obstétrique |
-
-Chirurgien gynécologue obstétricien |
-
-1853 |
-
-Centre Hospitalier de la Dracénie |
-
-830000287 |
-
-Hématologie |
-
-Médecin hématologue |
-
-1854 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-13 004 191 6 |
-
-Hématologie |
-
-Hématologue |
-
-1855 |
-
-CHG-Centre Hospitalier de Grasse |
-
-060780897 |
-
-Hépato-gastro-entérologie |
-
-Gastro-entérologue |
-
-1856 |
-
-CHH-Centre hospitalier de Hyères |
-
-830100533 |
-
-Hépato-gastro-entérologie |
-
-Gastro-entérologue |
-
-1857 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Hépato-gastro-entérologie |
-
-Gastro-entérologue |
-
-1858 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Hépato-gastro-entérologie |
-
-Gastro-entérologue |
-
-1859 |
-
-CHH-Centre hospitalier de Hyères |
-
-830100533 |
-
-Hépato-gastro-entérologie |
-
-Médecin gastro-entérologue |
-
-1860 |
-
-Centre Hospitalier de Martigues |
-
-130789316 |
-
-Hépato-gastro-entérologie |
-
-Gastro-entérologue |
-
-1861 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-13 004 191 6 |
-
-Hépato-gastro-entérologie |
-
-Gastro-entérologue |
-
-1862 |
-
-CHG-Centre Hospitalier de Grasse |
-
-060780897 |
-
-Maladies infectieuses et tropicales |
-
-Infectiologue |
-
-1863 |
-
-CHG-Centre Hospitalier de Grasse |
-
-060780897 |
-
-Médecine cardiovasculaire |
-
-Cardiologue |
-
-1864 |
-
-Centre Hospitalier de Martigues |
-
-130789316 |
-
-Médecine cardiovasculaire |
-
-Cardiologue |
-
-1865 |
-
-Centre hospitalier de Menton La Palmosa |
-
-060791761 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1866 |
-
-Centre Hospitalier du Pays Apt |
-
-840000012 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1867 |
-
-CHG-Centre Hospitalier de Grasse |
-
-060780897 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1868 |
-
-CH ORANGE |
-
-840000087 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1869 |
-
-CHI DE CAVAILLON-LAURIS |
-
-840004659 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1870 |
-
-CH Carpentras |
-
-840000046 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1871 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1872 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Médecine d'urgence |
-
-Médecin urgentiste |
-
-1873 |
-
-Centre Hospitalier du Pays Apt |
-
-840000012 |
-
-Médecine générale |
-
-Médecin polyvalent |
-
-1874 |
-
-Centre Hospitalier Digne les Bains |
-
-040788879 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1875 |
-
-CHG-Centre Hospitalier de Grasse |
-
-060780897 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1876 |
-
-CHH-Centre hospitalier de Hyères |
-
-830100533 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1877 |
-
-CHH-Centre hospitalier de Hyères |
-
-830100533 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1878 |
-
-Centre Hospitalier Buech DURANCE |
-
-050007145 |
-
-Médecine générale |
-
-Service de psychiatrie |
-
-1879 |
-
-Centre Hospitalier Buech DURANCE |
-
-050007145 |
-
-Médecine générale |
-
-Service de psychiatrie |
-
-1880 |
-
-CH ORANGE |
-
-840000087 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1881 |
-
-CH ORANGE |
-
-840000087 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1882 |
-
-CHI DE CAVAILLON-LAURIS |
-
-840004659 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1883 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1884 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-130041916 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1885 |
-
-Clinique BOUCHARD |
-
-130783327 |
-
-Médecine générale |
-
-Médecin algologue |
-
-1886 |
-
-CHB-Centre Hospitalier de BRIGNOLES |
-
-830100517 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1887 |
-
-CHB-Centre Hospitalier de BRIGNOLES |
-
-830100517 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1888 |
-
-CH Carpentras |
-
-840000046 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1889 |
-
-CENTRE HOSPITALIER ARLES |
-
-130789274 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1890 |
-
-CENTRE HOSPITALIER DE SAINT-TROPEZ |
-
-830100590 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1891 |
-
-CHI VESUBIE (Alpes Maritimes) |
-
-060006889 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1892 |
-
-HLD-Hôpital Local Départemental du Luc-en-Provence |
-
-830206983 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1893 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1894 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1895 |
-
-CHIM-Centre Hospitalier intercommunal de Manosque |
-
-040780215 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1896 |
-
-Centre Hospitalier d'AVIGNON |
-
-840001861 |
-
-Médecine générale |
-
-Médecin généraliste (service de pneumologie) |
-
-1897 |
-
-Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
-
-830100616 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1898 |
-
-Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
-
-830100616 |
-
-Médecine générale |
-
-Médecins en soins palliatifs |
-
-1899 |
-
-Centre Hospitalier Buech DURANCE |
-
-050007145 |
-
-Médecine générale |
-
-Service de psychiatrie |
-
-1900 |
-
-CENTRE HOSPITALIER EDOUARD TOULOUSE |
-
-130780554 |
-
-Médecine générale |
-
-Pôle Réhabilitation : Chef de Service par intérim Dr SIRIGNANO Françoise |
-
-1901 |
-
-CENTRE HOSPITALIER MONTPERRIN |
-
-130000433 |
-
-Médecine générale |
-
-Unité de soins somatiques Pôle Transversal. Chef de service Dr Julien LUC |
-
-1902 |
-
-Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
-
-830100616 |
-
-Médecine générale |
-
-Médecin généraliste |
-
-1903 |
-
-Centre Hospitalier de la Dracénie |
-
-830000287 |
-
-Médecine générale |
-
-médecin généraliste |
-
-1904 |
-
-CHG-Centre Hospitalier de Grasse |
-
-060780897 |
-
-Médecine intensive-réanimation |
-
-Réanimateur |
-
-1905 |
-
-Centre Hospitalier du Pays Apt |
-
-840000012 |
-
-Médecine interne et immunologie clinique |
-
-Médecin interniste-oncologie |
-
-1906 |
-
-Centre Hospitalier de Martigues |
-
-130789316 |
-
-Médecine interne et immunologie clinique |
 
 |
 
-1907 |
+Gériatrie |
 
-CHC-SV Centre Hospitalier de Cannes Simone Veil |
+CHDB-04 |
 
-060000544 |
+2397 |
 
-Néphrologie |
+Centre Hospitalier du Pays Apt |
 
-Néphrologue |
+|
 
-1908 |
+Gériatrie |
 
-Centre Hospitalier de Martigues |
+CHPA-03 |
 
-130789316 |
+2398 |
 
-Néphrologie |
+CH ORANGE |
 
-Néphrologue |
+|
 
-1909 |
+Gériatrie |
+
+CHO-01 |
+
+2399 |
 
 CH Pays d'Aix-CHI Aix/ Pertuis |
 
-13 004 191 6 |
+|
 
-Neurologie |
+Gériatrie |
 
-Neurologue |
+CHIAP-01 |
 
-1910 |
+2400 |
 
-Centre Hospitalier de la Dracénie |
+CH Pays d'Aix-CHI Aix/ Pertuis |
 
-830000287 |
+|
 
-Oncologie |
+Gériatrie |
 
-Médecin oncologue |
+CHIAP-02 |
 
-1911 |
-
-CHAJLP-Centre Hospitalier d'Antibes Juan Les Pins |
-
-060000510 |
-
-Oncologie |
-
-Médecin oncologue |
-
-1912 |
+2401 |
 
 CHI FREJUS ST RAPHAEL |
 
-830100566 |
+|
 
-Oncologie |
+Gériatrie |
 
-Médecin oncologue |
+CHIFSR-08 |
 
-1913 |
+2402 |
 
-HPS-Hôpital du Pays Salonais |
+CHI FREJUS ST RAPHAEL |
 
-130782634 |
+|
 
-Oncologie |
+Gériatrie |
 
-Médecin oncologue |
+CHIFSR-10 |
 
-1914 |
-
-CAL-Centre Antoine Lacassagne |
-
-06 078 096 2 |
-
-Oncologie |
-
-Oncologue médical |
-
-1915 |
-
-CAL-Centre Antoine Lacassagne |
-
-06 078 096 2 |
-
-Oncologie |
-
-Oncologue médical |
-
-1916 |
-
-CAL-Centre Antoine Lacassagne |
-
-06 078 096 2 |
-
-Oncologie |
-
-Oncologue médical |
-
-1917 |
-
-CAL-Centre Antoine Lacassagne |
-
-06 078 096 2 |
-
-Oncologie |
-
-Oncologue médical |
-
-1918 |
-
-Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
-
-830100616 |
-
-Oncologie |
-
-Médecin oncologue |
-
-1919 |
-
-CAL-Centre Antoine Lacassagne |
-
-06 078 096 2 |
-
-Oncologie |
-
-Oncologue médical |
-
-1920 |
-
-CAL-Centre Antoine Lacassagne |
-
-06 078 096 2 |
-
-Oncologie |
-
-Oncologue médical |
-
-1921 |
-
-CH Pays d'Aix-CHI Aix/ Pertuis |
-
-13 004 191 6 |
-
-Oncologie |
-
-Médecin oncologue |
-
-1922 |
-
-Centre Hospitalier d'AVIGNON |
-
-840001861 |
-
-Ophtalmologie |
-
-Ophtalmologue |
-
-1923 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Oto-rhino-laryngologie-chirurgie cervico-faciale |
-
-Chirurgien ORL |
-
-1924 |
-
-Centre Hospitalier de la Dracénie |
-
-830000287 |
-
-Pédiatrie |
-
-Pédiatre |
-
-1925 |
-
-Centre Hospitalier de Martigues |
-
-130789316 |
-
-Pédiatrie |
-
-Pédiatre |
-
-1926 |
+2403 |
 
 CHIM-Centre Hospitalier intercommunal de Manosque |
 
-040780215 |
+|
 
-Pédiatrie |
+Gériatrie |
 
-Médecin pédiatre |
+CHIM-07 |
 
-1927 |
+2404 |
 
-Centre Hospitalier d'AVIGNON |
+CHIM-Centre Hospitalier intercommunal de Manosque |
 
-840001861 |
+|
 
-Pédiatrie |
+Gériatrie |
 
-Pédiatre |
+CHIM-08 |
 
-1928 |
-
-Centre Hospitalier d'AVIGNON |
-
-840001861 |
-
-Pédiatrie |
-
-Néonatologue |
-
-1929 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Pédiatrie |
-
-Pédiatre |
-
-1930 |
+2405 |
 
 HPS-Hôpital du Pays Salonais |
 
-130782634 |
+|
 
-Pédiatrie |
+Gériatrie |
 
-Pédiatre |
+HPS-06 |
 
-1931 |
+2406 |
 
-Centre Hospitalier Buech DURANCE |
+CH Carpentras |
 
-050007145 |
+|
 
-Pharmacie polyvalente |
+Gynécologie Obstétrique |
 
-Pharmacien dans un établissement psychiatrique |
+CHC-01 |
 
-1932 |
+2407 |
+
+CHH-Centre hospitalier de Hyères |
+
+|
+
+Gynécologie Obstétrique |
+
+CHH-04 |
+
+2408 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Gynécologie Obstétrique |
+
+CHIFSR-07 |
+
+2409 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Gynécologie Obstétrique |
+
+CHIM-02 |
+
+2410 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Gynécologie Obstétrique |
+
+CHIM-03 |
+
+2411 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Gynécologie Obstétrique |
+
+HPS-07 |
+
+2412 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+130000409 |
+
+Gynécologie Obstétrique |
+
+|
+
+2413 |
 
 Centre Hospitalier de la Dracénie |
 
-830000287 |
+|
 
-Pneumologie |
+Hématologie |
 
-Médecin pneumologue |
+CHD-02 |
 
-1933 |
+2414 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+|
+
+Hématologie |
+
+CHIAP-07 |
+
+2415 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Hépato-gastro-entérologie |
+
+CH Martigues-hépato-01 |
+
+2416 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+|
+
+Hépato-gastro-entérologie |
+
+CHIAP-10 |
+
+2417 |
+
+CHH-Centre hospitalier de Hyères |
+
+|
+
+Hépato-gastro-entérologie |
+
+CHH-01 |
+
+2418 |
+
+CHH-Centre hospitalier de Hyères |
+
+|
+
+Hépato-gastro-entérologie |
+
+CHH gastro 2 |
+
+2419 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Hépato-gastro-entérologie |
+
+CHIFSR-02 |
+
+2420 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Hépato-gastro-entérologie |
+
+HPS-09 |
+
+2421 |
+
+CENTRE HOSPITALIER ARLES JOSEPH IMBERT |
+
+130789274 |
+
+Hépato-gastro-entérologie |
+
+CHA-07 |
+
+2422 |
+
+ASSOCIATION HOPITAL SAINT JOSEPH |
+
+130 014 228 |
+
+Médecine générale |
+
+|
+
+2423 |
+
+Centre hospitalier intercommunal Toulon La Seyne |
+
+830100616 |
+
+Médecine générale |
+
+|
+
+2424 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+CH Martigues-cardio-01 |
+
+2425 |
+
+CHG-Centre Hospitalier de Grasse |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+CHG-02 |
+
+2426 |
+
+Centre Hospitalier d'AVIGNON |
+
+840006597 |
+
+Médecine cardiovasculaire (co-DES) |
+
+CHAV-5 |
+
+2427 |
+
+CENTRE HOSPITALIER ARLES JOSEPH IMBERT |
+
+130789274 |
+
+Médecine cardiovasculaire (co-DES) |
+
+CHA-06 |
+
+2428 |
+
+Centre hospitalier de Menton La Palmosa |
+
+|
+
+Médecine d'urgence |
+
+CHMLP-01 |
+
+2429 |
+
+Centre Hospitalier du Pays Apt |
+
+|
+
+Médecine d'urgence |
+
+CHPA-04 |
+
+2430 |
+
+CH Carpentras |
+
+|
+
+Médecine d'urgence |
+
+CHC-02 |
+
+2431 |
+
+CH ORANGE |
+
+|
+
+Médecine d'urgence |
+
+CHO-03 |
+
+2432 |
+
+CHG-Centre Hospitalier de Grasse |
+
+|
+
+Médecine d'urgence |
+
+CHG-03 |
+
+2433 |
 
 CHI DE CAVAILLON-LAURIS |
 
-840004659 |
+|
 
-Pneumologie |
+Médecine d'urgence |
 
-Pneumologue |
+CHICL-01 |
 
-1934 |
+2434 |
 
-Centre Hospitalier Digne les Bains |
+CHIM-Centre Hospitalier intercommunal de Manosque |
 
-040788879 |
+|
 
-Psychiatrie |
+Médecine d'urgence |
 
-Psychiatre |
+CHIM-12 |
 
-1935 |
+2435 |
 
-Centre Hospitalier Digne les Bains |
+HPS-Hôpital du Pays Salonais |
 
-040788879 |
+|
 
-Psychiatrie |
+Médecine d'urgence |
 
-Psychiatre |
+HPS-10 |
 
-1936 |
+2436 |
 
-Centre Hospitalier Digne les Bains |
+Assistance Publique des Hôpitaux de Marseille (AP-HM) |
 
-040788879 |
+13078649 |
 
-Psychiatrie |
+Médecine d'urgence |
 
-Pédopsychiatre |
+APHM-3 |
 
-1937 |
-
-Centre Hospitalier Buech DURANCE |
-
-050007145 |
-
-Psychiatrie |
-
-Psychiatre |
-
-1938 |
-
-Centre Hospitalier Buech DURANCE |
-
-050007145 |
-
-Psychiatrie |
-
-Pédopsychiatre |
-
-1939 |
+2437 |
 
 Centre Hospitalier de Martigues |
 
 130789316 |
 
-Psychiatrie |
+Médecine d'urgence |
 
-Pédopsychiatre |
+CH Martigues-urgentiste-01 |
 
-1940 |
+2438 |
 
-CH MONTFAVET |
+Centre Hospitalier de la Dracénie |
 
-84000137 |
+830100525 |
 
-Psychiatrie |
+Médecine d'urgences |
 
-Psychiatrie-pôle Grand Avignon Alpilles |
+|
 
-1941 |
+2439 |
 
-CH MONTFAVET |
+CENTRE HOSPITALIER DE MARTIGUES |
 
-84000137 |
+130789316 |
 
-Psychiatrie |
+Médecine d'urgence |
 
-Psychiatrie-pôle Grand Avignon Alpilles-site des urgences Avignon |
+|
 
-1942 |
+2440 |
 
-CH MONTFAVET |
+CHI DE MANOSQUE LOUIS RAFFALLI |
 
-84000137 |
+040780215 |
 
-Psychiatrie |
+Médecine d'urgence |
 
-Psychiatrie-pôle Luberon Val de Durance |
+|
 
-1943 |
-
-CH MONTFAVET |
-
-84000137 |
-
-Psychiatrie |
-
-Psychiatrie-pôle infanto-juvénile |
-
-1944 |
-
-CH MONTFAVET |
-
-84000137 |
-
-Psychiatrie |
-
-Psychiatrie-pôle des aigues du ventoux |
-
-1945 |
-
-CH MONTFAVET |
-
-84000137 |
-
-Psychiatrie |
-
-Psychiatrie-unités pénitentiaires |
-
-1946 |
-
-CENTRE HOSPITALIER MONTPERRIN |
-
-130000433 |
-
-Psychiatrie |
-
-Secteur 13G20 Pôle Ouest de Psychiatrie générale. Chef de service Dr Quentin GUERRA |
-
-1947 |
-
-CENTRE HOSPITALIER MONTPERRIN |
-
-130000433 |
-
-Psychiatrie |
-
-Service Intersectoriel de psychiatrie de l'adolescent Pôle de psychiatrie de l'enfant et de l'adolescent. Chef de service Dr Pascale LOUARN |
-
-1948 |
-
-CENTRE HOSPITALIER MONTPERRIN |
-
-130000433 |
-
-Psychiatrie |
-
-Service d'accueil d'urgence et de liaison Pôle Transversal. |
-
-1949 |
-
-CHI FREJUS ST RAPHAEL |
-
-830100566 |
-
-Psychiatrie |
-
-Pédopsychiatre |
-
-1950 |
-
-CENTRE HOSPITALIER EDOUARD TOULOUSE |
-
-130780554 |
-
-Psychiatrie |
-
-Psychiatre au Pole Littoral : Secteur 15 Chef de service : Dr KARA Khaled |
-
-1951 |
-
-CENTRE HOSPITALIER EDOUARD TOULOUSE |
-
-130780554 |
-
-Psychiatrie |
-
-Psychiatre auPôle Infanto Juvénile : chef de pôle Dr SIGRID MARTIN |
-
-1952 |
-
-CENTRE HOSPITALIER EDOUARD TOULOUSE |
-
-130780554 |
-
-Psychiatrie |
-
-Psychiatre auPôle Centre Ville Secteur 12 : chef de service Dr Legrand Benoit |
-
-1953 |
-
-Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
-
-830100616 |
-
-Psychiatrie |
-
-Psychiatre |
-
-1954 |
+2441 |
 
 CHC-SV Centre Hospitalier de Cannes Simone Veil |
 
-060000544 |
+060780988 |
 
-Psychiatrie |
+Médecine générale |
 
-Psychiatre |
+CHC-SV-08 |
 
-1955 |
+2442 |
 
-CH HENRI GUERIN PIERREFEU DU VAR |
+CHC-SV Centre Hospitalier de Cannes Simone Veil |
 
-830101200 |
+060780988 |
 
-Psychiatrie |
+Médecine générale |
 
-Psychiatre pôle de psychiatrie générale Centre |
+CHC-SV-09 |
 
-1956 |
+2443 |
 
-CH HENRI GUERIN PIERREFEU DU VAR |
+CENTRE HOSPITALIER ARLES |
 
-830101201 |
+|
 
-Psychiatrie |
+Médecine générale |
 
-Psychiatre pôle de pédopsychiatrie |
+CHA-04 |
 
-1957 |
+2444 |
 
-CH HENRI GUERIN PIERREFEU DU VAR |
+Centre Hospitalier Buech DURANCE |
 
-830101202 |
+|
 
-Psychiatrie |
+Médecine générale |
 
-médecin psychiatre pôle de gérontopsychiatrie |
+CHBD-PCC-MED1 |
 
-1958 |
+2445 |
 
-CH HENRI GUERIN PIERREFEU DU VAR |
+Centre Hospitalier Buech DURANCE |
 
-830101200 |
+|
 
-Psychiatrie |
+Médecine générale |
 
-médecin psychiatre pôle de psychiatrie générale Nord |
+CHBD-PCC-MED2 |
 
-1959 |
+2446 |
 
-Centre hospitalier de Menton La Palmosa |
+Centre Hospitalier Buech DURANCE |
 
-060791761 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologue |
+CHBD-PCC-MED3 |
 
-1960 |
+2447 |
 
-CHG-Centre Hospitalier de Grasse |
+Centre Hospitalier d'AVIGNON |
 
-060780897 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologue |
+CHAV-04 |
 
-1961 |
+2448 |
 
-CHH-Centre hospitalier de Hyères |
+Centre Hospitalier de la Dracénie |
 
-830100533 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologue |
+CHD-13 |
 
-1962 |
+2449 |
 
-CHI FREJUS ST RAPHAEL |
+CENTRE HOSPITALIER DE SAINT-TROPEZ |
 
-830100566 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologue |
+CHST-01 |
 
-1963 |
+2450 |
+
+Centre Hospitalier Digne les Bains |
+
+|
+
+Médecine générale |
+
+CHDB-05 |
+
+2451 |
+
+Centre Hospitalier du Pays Apt |
+
+|
+
+Médecine générale |
+
+CHPA-02 |
+
+2452 |
+
+CENTRE HOSPITALIER EDOUARD TOULOUSE |
+
+|
+
+Médecine générale |
+
+CHET-05 |
+
+2453 |
 
 Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
 
-830100616 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologue |
+CHITS-07 |
 
-1964 |
-
-HPS-Hôpital du Pays Salonais |
-
-130782634 |
-
-Radiologie et imagerie médicale |
-
-Radiologue |
-
-1965 |
+2454 |
 
 Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
 
-830100616 |
+|
 
-Radiologie et imagerie médicale |
+Médecine générale |
 
-Radiologue |
+CHITS-08 |
 
-1966 |
+2455 |
+
+Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
+
+|
+
+Médecine générale |
+
+CHITS-06 |
+
+2456 |
+
+CENTRE HOSPITALIER MONTPERRIN |
+
+|
+
+Médecine générale |
+
+CHM-06 |
+
+2457 |
 
 CH Carpentras |
 
-840000046 |
+|
+
+Médecine générale |
+
+CHC-03 |
+
+2458 |
+
+CH ORANGE |
+
+|
+
+Médecine générale |
+
+CHO-02 |
+
+2459 |
+
+CH ORANGE |
+
+|
+
+Médecine générale |
+
+CHO-06 |
+
+2460 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+|
+
+Médecine générale |
+
+CHIAP-05 |
+
+2461 |
+
+CHB-Centre Hospitalier de BRIGNOLES |
+
+|
+
+Médecine générale |
+
+CHB-01 |
+
+2462 |
+
+CHB-Centre Hospitalier de BRIGNOLES |
+
+|
+
+Médecine générale |
+
+CHB-02 |
+
+2463 |
+
+CHG-Centre Hospitalier de Grasse |
+
+|
+
+Médecine générale |
+
+CHG-04 |
+
+2464 |
+
+CHH-Centre hospitalier de Hyères |
+
+|
+
+Médecine générale |
+
+CHH-02 |
+
+2465 |
+
+CHH-Centre hospitalier de Hyères |
+
+|
+
+Médecine générale |
+
+CHH-03 |
+
+2466 |
+
+CHI DE CAVAILLON-LAURIS |
+
+|
+
+Médecine générale |
+
+CHICL-03 |
+
+2467 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Médecine générale |
+
+CHIFSR-06 |
+
+2468 |
+
+CHI VESUBIE (Alpes Maritimes) |
+
+|
+
+Médecine générale |
+
+CHIV-02 |
+
+2469 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Médecine générale |
+
+CHIM-09 |
+
+2470 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Médecine générale |
+
+CHIM-10 |
+
+2471 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Médecine générale |
+
+CHIM-11 |
+
+2472 |
+
+Clinique BOUCHARD |
+
+|
+
+Médecine générale |
+
+CB-01 |
+
+2473 |
+
+HLD-Hôpital Local Départemental du Luc-en-Provence |
+
+|
+
+Médecine générale |
+
+HLD-01 |
+
+2474 |
+
+Centre Hospitalier d'AVIGNON |
+
+840006597 |
+
+Médecine générale |
+
+CHAV-6 |
+
+2475 |
+
+Centre Hospitalier de Martigues |
+
+130789316 |
+
+Médecine générale |
+
+CH Martigues-médecin-01 |
+
+2476 |
+
+Centre Hospitalier de la Dracénie |
+
+830100525 |
+
+Médecine générale |
+
+|
+
+2477 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Médecine interne et immunologie clinique |
+
+CH Martigues-méd-01 |
+
+2478 |
+
+Centre Hospitalier du Pays Apt |
+
+|
+
+Médecine interne et immunologie clinique |
+
+CHPA-01 |
+
+2479 |
+
+Centre Hospitalier d'AVIGNON |
+
+840006597 |
+
+Médecine interne et immunologie clinique |
+
+CHAV-8 |
+
+2480 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Néphrologie |
+
+CH Martigues-nephro-01 |
+
+2481 |
+
+CHC-SV Centre Hospitalier de Cannes Simone Veil |
+
+|
+
+Néphrologie |
+
+CHC-SV-07 |
+
+2482 |
+
+CH LES ESCARTONS A BRIANCON |
+
+050000116 |
+
+Néphrologie |
+
+CHG de Briançon-néphrologie |
+
+2483 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+|
+
+Neurologie |
+
+CHIAP-09 |
+
+2484 |
+
+CAL-Centre Antoine Lacassagne |
+
+|
+
+Oncologie |
+
+CAL-01 |
+
+2485 |
+
+CAL-Centre Antoine Lacassagne |
+
+|
+
+Oncologie |
+
+CAL-02 |
+
+2486 |
+
+CAL-Centre Antoine Lacassagne |
+
+|
+
+Oncologie |
+
+CAL-03 |
+
+2487 |
+
+CAL-Centre Antoine Lacassagne |
+
+|
+
+Oncologie |
+
+CAL-04 |
+
+2488 |
+
+CAL-Centre Antoine Lacassagne |
+
+|
+
+Oncologie |
+
+CAL-05 |
+
+2489 |
+
+CAL-Centre Antoine Lacassagne |
+
+|
+
+Oncologie |
+
+CAL-06 |
+
+2490 |
+
+Centre Hospitalier de la Dracénie |
+
+|
+
+Oncologie |
+
+CHD-01 |
+
+2491 |
+
+Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
+
+|
+
+Oncologie |
+
+CHITS-01 |
+
+2492 |
+
+CH Pays d'Aix-CHI Aix/ Pertuis |
+
+|
+
+Oncologie |
+
+CHIAP-08 |
+
+2493 |
+
+CHAJLP-Centre Hospitalier d'Antibes Juan Les Pins |
+
+|
+
+Oncologie |
+
+CHALP-02 |
+
+2494 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Oncologie |
+
+CHIFSR-03 |
+
+2495 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Oncologie |
+
+HPS-14 |
+
+2496 |
+
+Centre Hospitalier d'AVIGNON |
+
+840006597 |
+
+Oncologie |
+
+CHAV-7 |
+
+2497 |
+
+Centre Hospitalier de la Dracénie |
+
+830100525 |
+
+Oncologie |
+
+|
+
+2498 |
+
+Centre Hospitalier d'AVIGNON |
+
+|
+
+Ophtalmologie |
+
+CHAV-01 |
+
+2499 |
+
+CENTRE HOSPITALIER ARLES JOSEPH IMBERT |
+
+130789274 |
+
+ORL-chirurgie cervico-faciale |
+
+CHA-05 |
+
+2500 |
+
+ESPIC HOPITAUX PEDIATRIQUES DE NICE CHU-LENVAL |
+
+060800174 |
+
+Pédiatrie |
+
+|
+
+2501 |
+
+Centre Hospitalier d'AVIGNON |
+
+|
+
+Pédiatrie |
+
+CHAV-02 |
+
+2502 |
+
+Centre Hospitalier d'AVIGNON |
+
+|
+
+Pédiatrie |
+
+CHAV-03 |
+
+2503 |
+
+Centre Hospitalier de la Dracénie |
+
+|
+
+Pédiatrie |
+
+CHD-07 |
+
+2504 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Pédiatrie |
+
+CH Martigues-péd-01 |
+
+2505 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Pédiatrie |
+
+CHIFSR-05 |
+
+2506 |
+
+CHIM-Centre Hospitalier intercommunal de Manosque |
+
+|
+
+Pédiatrie |
+
+CHIM-01 |
+
+2507 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Pédiatrie |
+
+HPS-15 |
+
+2508 |
+
+Assistance Publique des Hôpitaux de Marseille (AP-HM) |
+
+130786049 |
+
+Pédiatrie |
+
+APHM-2 |
+
+2509 |
+
+Centre Hospitalier de la Dracénie |
+
+830100525 |
+
+Pédiatrie |
+
+|
+
+2510 |
+
+Centre Hospitalier de la Dracénie |
+
+830100525 |
+
+Pédiatrie |
+
+|
+
+2511 |
+
+Centre Hospitalier Buech DURANCE |
+
+|
+
+Pharmacie polyvalente |
+
+CHBD-PCC-PHAR |
+
+2512 |
+
+Centre Hospitalier de la Dracénie |
+
+|
+
+Pneumologie |
+
+CHD-04 |
+
+2513 |
+
+CHI DE CAVAILLON-LAURIS |
+
+|
+
+Pneumologie |
+
+CHICL-04 |
+
+2514 |
+
+CENTRE HOSPITALIER ARLES JOSEPH IMBERT |
+
+130789274 |
+
+Pneumologie |
+
+CHA-08 |
+
+2515 |
+
+CHU de NICE (Hôpital PASTEUR) |
+
+60785011 |
+
+Pneumologie |
+
+CHUN-1 |
+
+2516 |
+
+Centre Hospitalier de Martigues |
+
+130789316 |
+
+Pneumologie |
+
+CH Martigues-pneumologue-01 |
+
+2517 |
+
+Centre Hospitalier de la Dracénie |
+
+830100525 |
+
+Pneumologie |
+
+|
+
+2518 |
+
+Centre Hospitalier de la Dracénie |
+
+830100525 |
+
+Pneumologie |
+
+|
+
+2519 |
+
+Centre hospitalier d'Antibes juan les pins |
+
+060780954 |
+
+Pneumologie |
+
+CHAJLP-01 |
+
+2520 |
+
+Centre Hospitalier Buech DURANCE |
+
+|
+
+Psychiatrie |
+
+CHBD-PCC-PSYA |
+
+2521 |
+
+Centre Hospitalier Buech DURANCE |
+
+|
+
+Psychiatrie |
+
+CHBD-PCC-PSYIJ |
+
+2522 |
+
+Centre Hospitalier de Martigues |
+
+|
+
+Psychiatrie |
+
+CH Martigues-pédopsy-01 |
+
+2523 |
+
+Centre Hospitalier Digne les Bains |
+
+|
+
+Psychiatrie |
+
+CHDB-01 |
+
+2524 |
+
+Centre Hospitalier Digne les Bains |
+
+|
+
+Psychiatrie |
+
+CHDB-02 |
+
+2525 |
+
+Centre Hospitalier Digne les Bains |
+
+|
+
+Psychiatrie |
+
+CHDB-03 |
+
+2526 |
+
+CENTRE HOSPITALIER EDOUARD TOULOUSE |
+
+|
+
+Psychiatrie |
+
+CHET-01 |
+
+2527 |
+
+CENTRE HOSPITALIER EDOUARD TOULOUSE |
+
+|
+
+Psychiatrie |
+
+CHET-04 |
+
+2528 |
+
+CENTRE HOSPITALIER EDOUARD TOULOUSE |
+
+|
+
+Psychiatrie |
+
+CHET-03 |
+
+2529 |
+
+Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
+
+|
+
+Psychiatrie |
+
+CHITS-04 |
+
+2530 |
+
+CENTRE HOSPITALIER MONTPERRIN |
+
+|
+
+Psychiatrie |
+
+CHM-01 |
+
+2531 |
+
+CENTRE HOSPITALIER MONTPERRIN |
+
+|
+
+Psychiatrie |
+
+CHM-04 |
+
+2532 |
+
+CENTRE HOSPITALIER MONTPERRIN |
+
+|
+
+Psychiatrie |
+
+CHM-05 |
+
+2533 |
+
+CH HENRI GUERIN PIERREFEU DU VAR |
+
+|
+
+Psychiatrie |
+
+CHGPV-3 |
+
+2534 |
+
+CH HENRI GUERIN PIERREFEU DU VAR |
+
+|
+
+Psychiatrie |
+
+CHGPV-4 |
+
+2535 |
+
+CH HENRI GUERIN PIERREFEU DU VAR |
+
+|
+
+Psychiatrie |
+
+CHGPV-5 |
+
+2536 |
+
+CH HENRI GUERIN PIERREFEU DU VAR |
+
+|
+
+Psychiatrie |
+
+CHGPV-1 |
+
+2537 |
+
+CH MONTFAVET |
+
+|
+
+Psychiatrie |
+
+CH Monfavet-02 |
+
+2538 |
+
+CH MONTFAVET |
+
+|
+
+Psychiatrie |
+
+CH Monfvavet-03 |
+
+2539 |
+
+CH MONTFAVET |
+
+|
+
+Psychiatrie |
+
+CH Monfavet-04 |
+
+2540 |
+
+CH MONTFAVET |
+
+|
+
+Psychiatrie |
+
+CH Monfvavet-05 |
+
+2541 |
+
+CH MONTFAVET |
+
+|
+
+Psychiatrie |
+
+CH Monfavet-06 |
+
+2542 |
+
+CH MONTFAVET |
+
+|
+
+Psychiatrie |
+
+CH Monfvavet-04 |
+
+2543 |
+
+CHC-SV Centre Hospitalier de Cannes Simone Veil |
+
+|
+
+Psychiatrie |
+
+CHC-SV-05 |
+
+2544 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Psychiatrie |
+
+CHIFSR-12 |
+
+2545 |
+
+CENTRE HOSPITALIER ARLES JOSEPH IMBERT |
+
+130789274 |
+
+Psychiatrie |
+
+CHA-09 |
+
+2546 |
+
+CHC-SV Centre Hospitalier de Cannes Simone Veil |
+
+060780988 |
+
+Psychiatrie |
+
+|
+
+2547 |
+
+HOPITAUX PEDIATRIQUES DE NICE CHU-LENVAL |
+
+060800174 |
+
+Psychiatrie |
+
+|
+
+2548 |
+
+Centre hospitalier de Menton La Palmosa |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHMLP-03 |
+
+2549 |
+
+Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHITS-02 |
+
+2550 |
+
+Centre Hospitalier Intercommunal de Toulon/ La-Seyne-sur-Mer |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHITS-03 |
+
+2551 |
+
+CHG-Centre Hospitalier de Grasse |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHG-01 |
+
+2552 |
+
+CHH-Centre hospitalier de Hyères |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHH-05 |
+
+2553 |
+
+CHI FREJUS ST RAPHAEL |
+
+|
+
+Radiologie et imagerie médicale |
+
+CHIFSR-09 |
+
+2554 |
+
+HPS-Hôpital du Pays Salonais |
+
+|
+
+Radiologie et imagerie médicale |
+
+HPS-16 |
+
+2555 |
+
+CH Carpentras |
+
+|
 
 Santé publique |
 
-Médecin DIM |
+CHC-04 |
 
 Agence Régionale de Santé : |
 
-Océan Indien-La Réunion |
+La Réunion |
 
 Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1967 |
-
-CHU La Réunion |
-
-970408589 |
-
-Anesthésie-réanimation |
-
-Médecin Anesthésiste Réanimateur |
-
-1968 |
+2556 |
 
 CHU La Réunion |
 
 970408589 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (CO-DES) |
 
-Médecin Anesthésiste Réanimateur |
+CHURUN-01 |
 
-1969 |
+2557 |
+
+CHU La Réunion |
+
+970408589 |
+
+Anesthésie-réanimation (CO-DES) |
+
+CHURUN-02 |
+
+2558 |
 
 GHER |
 
 970403606 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (CO-DES) |
 
-Médecin Anesthésiste-Réanimateur |
+GHER-03 |
 
-1970 |
+2559 |
 
 CHU La Réunion |
 
@@ -19884,9 +25762,9 @@ CHU La Réunion |
 
 Chirurgie vasculaire |
 
-Chirurgien |
+CHURUN-05 |
 
-1971 |
+2560 |
 
 CHU La Réunion |
 
@@ -19894,19 +25772,9 @@ CHU La Réunion |
 
 Chirurgie vasculaire |
 
-Chirurgien |
+CHURUN-04 |
 
-1972 |
-
-CHU La Réunion |
-
-970408589 |
-
-Gériatrie |
-
-Médecin Gériatre |
-
-1973 |
+2561 |
 
 GHER |
 
@@ -19914,9 +25782,19 @@ GHER |
 
 Gériatrie |
 
-Médecin Gériatre |
+GHER-07 |
 
-1974 |
+2562 |
+
+CHU La Réunion |
+
+970408589 |
+
+Gériatrie |
+
+CHURUN-06 |
+
+2563 |
 
 CHU La Réunion |
 
@@ -19924,19 +25802,9 @@ CHU La Réunion |
 
 Gynécologie Obstétrique |
 
-Médecin Gynécologue-obstétricien |
+CHURUN-08 |
 
-1975 |
-
-CHU La Réunion |
-
-970408589 |
-
-Médecine cardiovasculaire |
-
-Cardiologue |
-
-1976 |
+2564 |
 
 CHU La Réunion |
 
@@ -19944,9 +25812,19 @@ CHU La Réunion |
 
 Médecine cardiovasculaire |
 
-Cardiologue |
+CHURUN-19 |
 
-1977 |
+2565 |
+
+CHU La Réunion |
+
+970408589 |
+
+Médecine cardiovasculaire |
+
+CHURUN-20 |
+
+2566 |
 
 CHU La Réunion |
 
@@ -19954,19 +25832,9 @@ CHU La Réunion |
 
 Médecine d'urgence |
 
-Médecin urgentiste |
+CHURUN-09 |
 
-1978 |
-
-CHU La Réunion |
-
-970408589 |
-
-Médecine générale |
-
-Médecin Généraliste |
-
-1979 |
+2567 |
 
 CHU La Réunion |
 
@@ -19974,19 +25842,9 @@ CHU La Réunion |
 
 Médecine générale |
 
-Médecin Généraliste |
+CHURUN-11 |
 
-1980 |
-
-GHER |
-
-970403606 |
-
-Médecine générale |
-
-Médecin Généraliste |
-
-1981 |
+2568 |
 
 Clinique les Tamarins Ouest |
 
@@ -19994,9 +25852,9 @@ Clinique les Tamarins Ouest |
 
 Médecine générale |
 
-Médecin généraliste |
+TAMO-13 |
 
-1982 |
+2569 |
 
 Clinique les Tamarins Sud |
 
@@ -20004,9 +25862,37 @@ Clinique les Tamarins Sud |
 
 Médecine générale |
 
-Médecin généraliste |
+TAMS-14 |
 
-1983 |
+2570 |
+
+GHER |
+
+970403606 |
+
+Médecine générale |
+
+GHER-12 |
+
+2571 |
+
+CHU La Réunion |
+
+970408589 |
+
+Médecine générale |
+
+CHURUN-10 |
+
+2572 |
+
+GHER |
+
+970403606 |
+
+Médecine interne et immunologie clinique |
+
+2573 |
 
 Clinique les Tamarins Ouest |
 
@@ -20014,9 +25900,19 @@ Clinique les Tamarins Ouest |
 
 Médecine physique et de réadaptation |
 
-Médecin MPR |
+TAMO-15 |
 
-1984 |
+2574 |
+
+CRF YLANG YLANG |
+
+970403846 |
+
+Médecine physique et de réadaptation |
+
+|
+
+2575 |
 
 CHU La Réunion |
 
@@ -20024,19 +25920,9 @@ CHU La Réunion |
 
 Néphrologie |
 
-Néphrologue |
+CHURUN-16 |
 
-1985 |
-
-CHU La Réunion |
-
-970408589 |
-
-Psychiatrie |
-
-Médecin Psychiatre |
-
-1986 |
+2576 |
 
 CHU La Réunion |
 
@@ -20044,88 +25930,632 @@ CHU La Réunion |
 
 Oncologie |
 
-Oncologue |
+CHURUN-18 |
+
+2577 |
+
+CHU La Réunion |
+
+970408589 |
+
+Psychiatrie |
+
+CHURUN-17 |
 
 Agence Régionale de Santé : |
 
-Océan Indien-Mayotte |
+La Réunion |
 
 Poste n° |
 
 Nom établissement |
 
-Code FINESS |
+Code FINESS (EJ) |
 
 Spécialité |
 
-Intitulé poste |
+Libellé poste |
 
-1987 |
+2578 |
 
 CHM-Centre Hospitalier de Mayotte |
 
-980500011 |
+980500003 |
 
-Anesthésie-réanimation |
+Anesthésie-réanimation (CO-DES) |
 
 |
 
-1988 |
+2579 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Anesthésie-réanimation (CO-DES) |
+
+|
+
+2580 |
 
 CHM-Centre Hospitalier de Mayotte |
 
-980500011 |
+980500003 |
 
 Biologie médicale |
 
 |
 
-1989 |
+2581 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Chirurgie viscérale |
+
+|
+
+2582 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Endocrinologie |
+
+|
+
+2583 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Gynécologie obstétrique |
+
+|
+
+2584 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Gynécologie obstétrique |
+
+|
+
+2585 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Médecine d'urgence |
+
+|
+
+2586 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Médecine d'urgence |
+
+|
+
+2587 |
 
 CHM-Centre Hospitalier de Mayotte |
 
-980500011 |
+980500003 |
 
 Médecine générale |
 
 |
 
-1990 |
+2588 |
 
-CHM-Centre Hospitalier de Mayotte |
+Centre Hospitalier de Mayotte |
 
-980500011 |
+980500003 |
 
-Pédiatrie |
-
-|
-
-1991 |
-
-CHM-Centre Hospitalier de Mayotte |
-
-980500011 |
-
-Pharmacie polyvalente |
+Médecine générale |
 
 |
 
-1992 |
+2589 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Médecine interne |
+
+|
+
+2590 |
 
 CHM-Centre Hospitalier de Mayotte |
 
-980500011 |
+980500003 |
 
 Odontologie |
 
 |
 
-1993 |
+2591 |
 
 CHM-Centre Hospitalier de Mayotte |
 
-980500011 |
+980500003 |
+
+Pédiatrie |
+
+|
+
+2592 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Pédiatrie |
+
+|
+
+2593 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Pédiatrie |
+
+|
+
+2594 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Pédiatrie |
+
+|
+
+2595 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Pédiatrie |
+
+|
+
+2596 |
+
+CHM-Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Pharmacie polyvalente |
+
+|
+
+2597 |
+
+CHM-Centre Hospitalier de Mayotte |
+
+980500003 |
 
 Sage-femme |
+
+|
+
+2598 |
+
+Centre Hospitalier de Mayotte |
+
+980500003 |
+
+Sage-femme |
+
+|
+
+Agence Régionale de Santé : |
+
+Guyane |
+
+Poste n° |
+
+Nom établissement |
+
+Code FINESS (EJ) |
+
+Spécialité |
+
+Libellé poste |
+
+2599 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Anesthésie-réanimation (CO-DES) |
+
+Médecin anesthésiste |
+
+2600 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Anesthésie-réanimation (CO-DES) |
+
+Médecin anesthésiste |
+
+2601 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Anesthésie-réanimation (CO-DES) |
+
+Médecin anesthésiste |
+
+2602 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Anesthésie-réanimation (CO-DES) |
+
+Anesthésie et réanimation |
+
+2603 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Anesthésie-réanimation (CO-DES) |
+
+Anesthésie et réanimation |
+
+2604 |
+
+CENTRE HOSPITALIER DE KOUROU |
+
+97 030 562 9 |
+
+Anesthésie-réanimation (CO-DES) |
+
+|
+
+2605 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+97 030 202 2 |
+
+Endocrinologie-diabétologie-nutrition |
+
+|
+
+2606 |
+
+CENTRE HOSPITALIER DE KOUROU |
+
+970 305 629 |
+
+Gynécologie obstétrique |
+
+Praticien gynécologue obstétricien |
+
+2607 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Gynécologie obstétrique |
+
+Gynécologie obstétrique |
+
+2608 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Gynécologie obstétrique |
+
+Gynécologie obstétrique |
+
+2609 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Gynécologie obstétrique |
+
+Gynécologie obstétrique |
+
+2610 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Gynécologie-Obstétrique |
+
+Gynécologue-Obstétricien |
+
+2611 |
+
+CENTRE HOSPITALIER DE KOUROU |
+
+97 030 562 9 |
+
+Hépato-gastro-entérologie |
+
+|
+
+2612 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+97 030 202 2 |
+
+Médecine d'urgence |
+
+|
+
+2613 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+97 030 202 2 |
+
+Médecine d'urgence |
+
+|
+
+2614 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Médecine d'urgence |
+
+Médecin urgentiste |
+
+2615 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Médecine d'urgence |
+
+Médecin urgentiste |
+
+2616 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Médecine d'urgence |
+
+Médecin urgentiste |
+
+2617 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Médecine d'urgence |
+
+Urgences |
+
+2618 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Médecine d'urgence |
+
+Urgences |
+
+2619 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Médecine générale |
+
+Médecin urgentiste |
+
+2620 |
+
+CENTRE HOSPITALIER DE KOUROU |
+
+970 305 629 |
+
+Médecine générale |
+
+Praticien généraliste |
+
+2621 |
+
+CENTRE HOSPITALIER DE KOUROU |
+
+970 305 629 |
+
+Médecine générale |
+
+Praticien généraliste |
+
+2622 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Médecine générale |
+
+Médecine polyvalente |
+
+2623 |
+
+CENTRE HOSPITALIER DE KOUROU |
+
+970 305 629 |
+
+Médecine intensive-Réanimation |
+
+Praticien réanimateur |
+
+2624 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Médecine physique et de réadaptation |
+
+SSR/ EPHAD |
+
+2625 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Néphrologie |
+
+Néphrologie |
+
+2626 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Ophtalmologie |
+
+Ophtalmologie |
+
+2627 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Pédiatrie |
+
+Pédiatre |
+
+2628 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Pédiatrie |
+
+Pédiatre |
+
+2629 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+97 030 212 1 |
+
+Pédiatrie |
+
+|
+
+2630 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+97 030 212 1 |
+
+Pédiatrie |
+
+|
+
+2631 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+97 030 202 2 |
+
+Psychiatrie |
+
+|
+
+2632 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Psychiatrie |
+
+Psychiatre spécialisé en pédo psychiatrie |
+
+2633 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+970 302 121 |
+
+Psychiatrie |
+
+Psychiatrie |
+
+2634 |
+
+CENTRE HOSPITALIER DE CAYENNE |
+
+970 302 022 |
+
+Radiologie et imagerie médicale |
+
+Radiologue |
+
+2635 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+97 030 212 1 |
+
+Médecine d'urgence |
+
+|
+
+2636 |
+
+CENTRE HOSPITALIER " FRANCK-JOLY " |
+
+97 030 212 1 |
+
+Médecine d'urgence |
 
 |

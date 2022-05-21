@@ -22,7 +22,7 @@ Auvergne-Rhône-Alpes |
 
 Anesthésie-réanimation |
 
-16 |
+17 |
 
 Auvergne-Rhône-Alpes |
 
@@ -88,7 +88,7 @@ Auvergne-Rhône-Alpes |
 
 Gériatrie |
 
-19 |
+21 |
 
 Auvergne-Rhône-Alpes |
 
@@ -124,13 +124,13 @@ Auvergne-Rhône-Alpes |
 
 Médecine cardiovasculaire |
 
-7 |
+10 |
 
 Auvergne-Rhône-Alpes |
 
 Médecine d'urgence |
 
-23 |
+27 |
 
 Auvergne-Rhône-Alpes |
 
@@ -142,7 +142,7 @@ Auvergne-Rhône-Alpes |
 
 Médecine générale |
 
-35 |
+49 |
 
 Auvergne-Rhône-Alpes |
 
@@ -184,13 +184,13 @@ Auvergne-Rhône-Alpes |
 
 Neurologie |
 
-2 |
+3 |
 
 Auvergne-Rhône-Alpes |
 
 Oncologie |
 
-1 |
+5 |
 
 Auvergne-Rhône-Alpes |
 
@@ -208,7 +208,7 @@ Auvergne-Rhône-Alpes |
 
 Pédiatrie |
 
-7 |
+11 |
 
 Auvergne-Rhône-Alpes |
 
@@ -220,19 +220,19 @@ Auvergne-Rhône-Alpes |
 
 Psychiatrie |
 
-28 |
+34 |
 
 Auvergne-Rhône-Alpes |
 
 Radiologie et imagerie médicale |
 
-8 |
+12 |
 
 Auvergne-Rhône-Alpes |
 
 Rhumatologie |
 
-|
+1 |
 
 Auvergne-Rhône-Alpes |
 
@@ -254,7 +254,7 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-191 |
+235 |
 
 Bourgogne-Franche-Comté |
 
@@ -284,7 +284,7 @@ Bourgogne-Franche-Comté |
 
 Chirurgie orthopédique et traumatologique |
 
-2 |
+3 |
 
 Bourgogne-Franche-Comté |
 
@@ -314,13 +314,13 @@ Bourgogne-Franche-Comté |
 
 Dermatologie et vénéréologie |
 
-1 |
+|
 
 Bourgogne-Franche-Comté |
 
 Endocrinologie-diabétologie-nutrition |
 
-2 |
+3 |
 
 Bourgogne-Franche-Comté |
 
@@ -332,7 +332,7 @@ Bourgogne-Franche-Comté |
 
 Gériatrie |
 
-8 |
+11 |
 
 Bourgogne-Franche-Comté |
 
@@ -344,7 +344,7 @@ Bourgogne-Franche-Comté |
 
 Gynécologie Obstétrique |
 
-5 |
+7 |
 
 Bourgogne-Franche-Comté |
 
@@ -362,19 +362,19 @@ Bourgogne-Franche-Comté |
 
 Maladies infectieuses et tropicales |
 
-|
+1 |
 
 Bourgogne-Franche-Comté |
 
 Médecine cardiovasculaire |
 
-3 |
+5 |
 
 Bourgogne-Franche-Comté |
 
 Médecine d'urgence |
 
-5 |
+7 |
 
 Bourgogne-Franche-Comté |
 
@@ -386,13 +386,13 @@ Bourgogne-Franche-Comté |
 
 Médecine générale |
 
-20 |
+30 |
 
 Bourgogne-Franche-Comté |
 
 Médecine intensive-réanimation |
 
-2 |
+3 |
 
 Bourgogne-Franche-Comté |
 
@@ -440,19 +440,19 @@ Bourgogne-Franche-Comté |
 
 Ophtalmologie |
 
-1 |
+2 |
 
 Bourgogne-Franche-Comté |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-|
+1 |
 
 Bourgogne-Franche-Comté |
 
 Pédiatrie |
 
-7 |
+8 |
 
 Bourgogne-Franche-Comté |
 
@@ -461,504 +461,504 @@ Pneumologie |
 2 |
 
 Bourgogne-Franche-Comté |
+
+Psychiatrie |
+
+16 |
+
+Bourgogne-Franche-Comté |
+
+Radiologie et imagerie médicale |
+
+6 |
+
+Bourgogne-Franche-Comté |
+
+Rhumatologie |
+
+2 |
+
+Bourgogne-Franche-Comté |
+
+Santé publique |
+
+|
+
+Bourgogne-Franche-Comté |
+
+Urologie |
+
+2 |
+
+Bourgogne-Franche-Comté |
+
+Pharmacie polyvalente |
+
+1 |
+
+TOTAL |
+
+133 |
+
+Bretagne |
+
+Anatomie et cytologie pathologique |
+
+|
+
+Bretagne |
+
+Anesthésie-réanimation |
+
+6 |
+
+Bretagne |
+
+Biologie médicale |
+
+1 |
+
+Bretagne |
+
+Chirurgie maxillo-faciale |
+
+|
+
+Bretagne |
+
+Chirurgie orthopédique et traumatologique |
+
+|
+
+Bretagne |
+
+Chirurgie plastique, reconstructrice et esthétique |
+
+|
+
+Bretagne |
+
+Chirurgie thoracique et cardiovasculaire |
+
+|
+
+Bretagne |
+
+Chirurgie vasculaire |
+
+|
+
+Bretagne |
+
+Chirurgie viscérale et digestive |
+
+1 |
+
+Bretagne |
+
+Dermatologie et vénéréologie |
+
+|
+
+Bretagne |
+
+Endocrinologie-diabétologie-nutrition |
+
+1 |
+
+Bretagne |
+
+Génétique médicale |
+
+|
+
+Bretagne |
+
+Gériatrie |
+
+11 |
+
+Bretagne |
+
+Gynécologie médicale |
+
+|
+
+Bretagne |
+
+Gynécologie Obstétrique |
+
+3 |
+
+Bretagne |
+
+Hématologie |
+
+1 |
+
+Bretagne |
+
+Hépato-gastro-entérologie |
+
+3 |
+
+Bretagne |
+
+Maladies infectieuses et tropicales |
+
+|
+
+Bretagne |
+
+Médecine cardiovasculaire |
+
+4 |
+
+Bretagne |
+
+Médecine d'urgence |
+
+9 |
+
+Bretagne |
+
+Médecine et santé au travail |
+
+|
+
+Bretagne |
+
+Médecine générale |
+
+15 |
+
+Bretagne |
+
+Médecine intensive-réanimation |
+
+1 |
+
+Bretagne |
+
+Médecine interne et immunologie clinique |
+
+1 |
+
+Bretagne |
+
+Médecine nucléaire |
+
+|
+
+Bretagne |
+
+Médecine physique et de réadaptation |
+
+1 |
+
+Bretagne |
+
+Néphrologie |
+
+6 |
+
+Bretagne |
+
+Neurochirurgie |
+
+|
+
+Bretagne |
+
+Neurologie |
+
+|
+
+Bretagne |
+
+Oncologie |
+
+|
+
+Bretagne |
+
+Ophtalmologie |
+
+1 |
+
+Bretagne |
+
+Oto-rhino-laryngologie - chirurgie cervico-faciale |
+
+|
+
+Bretagne |
+
+Pédiatrie |
+
+2 |
+
+Bretagne |
+
+Pneumologie |
+
+4 |
+
+Bretagne |
 
 Psychiatrie |
 
 15 |
 
-Bourgogne-Franche-Comté |
+Bretagne |
 
 Radiologie et imagerie médicale |
 
-6 |
+3 |
 
-Bourgogne-Franche-Comté |
+Bretagne |
 
 Rhumatologie |
 
-2 |
+1 |
 
-Bourgogne-Franche-Comté |
+Bretagne |
 
 Santé publique |
 
 |
 
-Bourgogne-Franche-Comté |
+Bretagne |
 
 Urologie |
 
-3 |
-
-Bourgogne-Franche-Comté |
-
-Pharmacie polyvalente |
-
-1 |
+|
 
 TOTAL |
 
-108 |
+90 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Anatomie et cytologie pathologique |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Anesthésie-réanimation |
 
-6 |
+14 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Biologie médicale |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Chirurgie maxillo-faciale |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Chirurgie orthopédique et traumatologique |
 
-|
+2 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Chirurgie plastique, reconstructrice et esthétique |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Chirurgie thoracique et cardiovasculaire |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Chirurgie vasculaire |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Chirurgie viscérale et digestive |
 
 1 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Dermatologie et vénéréologie |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Endocrinologie-diabétologie-nutrition |
 
-1 |
+2 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Génétique médicale |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Gériatrie |
 
-9 |
+14 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Gynécologie médicale |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Gynécologie Obstétrique |
 
-2 |
+5 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Hématologie |
 
-1 |
+2 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Hépato-gastro-entérologie |
 
-2 |
+5 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Maladies infectieuses et tropicales |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine cardiovasculaire |
 
-4 |
+7 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine d'urgence |
 
-6 |
+9 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine et santé au travail |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine générale |
 
-16 |
+17 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine intensive-réanimation |
 
-1 |
+3 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine interne et immunologie clinique |
 
-1 |
+3 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine nucléaire |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Médecine physique et de réadaptation |
 
 1 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Néphrologie |
 
-5 |
+3 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Neurochirurgie |
 
 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Neurologie |
 
-|
+3 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Oncologie |
 
-|
+1 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Ophtalmologie |
 
-1 |
+|
 
-Bretagne |
+Centre-Val de Loire |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-1 |
+2 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Pédiatrie |
 
-1 |
+5 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Pneumologie |
 
-3 |
+2 |
 
-Bretagne |
+Centre-Val de Loire |
 
 Psychiatrie |
 
 12 |
 
-Bretagne |
-
-Radiologie et imagerie médicale |
-
-3 |
-
-Bretagne |
-
-Rhumatologie |
-
-1 |
-
-Bretagne |
-
-Santé publique |
-
-|
-
-Bretagne |
-
-Urologie |
-
-|
-
-TOTAL |
-
-78 |
-
-Centre-Val de Loire |
-
-Anatomie et cytologie pathologique |
-
-|
-
-Centre-Val de Loire |
-
-Anesthésie-réanimation |
-
-9 |
-
-Centre-Val de Loire |
-
-Biologie médicale |
-
-|
-
-Centre-Val de Loire |
-
-Chirurgie maxillo-faciale |
-
-|
-
-Centre-Val de Loire |
-
-Chirurgie orthopédique et traumatologique |
-
-2 |
-
-Centre-Val de Loire |
-
-Chirurgie plastique, reconstructrice et esthétique |
-
-|
-
-Centre-Val de Loire |
-
-Chirurgie thoracique et cardiovasculaire |
-
-|
-
-Centre-Val de Loire |
-
-Chirurgie vasculaire |
-
-|
-
-Centre-Val de Loire |
-
-Chirurgie viscérale et digestive |
-
-1 |
-
-Centre-Val de Loire |
-
-Dermatologie et vénéréologie |
-
-|
-
-Centre-Val de Loire |
-
-Endocrinologie-diabétologie-nutrition |
-
-|
-
-Centre-Val de Loire |
-
-Génétique médicale |
-
-|
-
-Centre-Val de Loire |
-
-Gériatrie |
-
-5 |
-
-Centre-Val de Loire |
-
-Gynécologie médicale |
-
-|
-
-Centre-Val de Loire |
-
-Gynécologie Obstétrique |
-
-2 |
-
-Centre-Val de Loire |
-
-Hématologie |
-
-|
-
-Centre-Val de Loire |
-
-Hépato-gastro-entérologie |
-
-5 |
-
-Centre-Val de Loire |
-
-Maladies infectieuses et tropicales |
-
-|
-
-Centre-Val de Loire |
-
-Médecine cardiovasculaire |
-
-4 |
-
-Centre-Val de Loire |
-
-Médecine d'urgence |
-
-2 |
-
-Centre-Val de Loire |
-
-Médecine et santé au travail |
-
-|
-
-Centre-Val de Loire |
-
-Médecine générale |
-
-7 |
-
-Centre-Val de Loire |
-
-Médecine intensive-réanimation |
-
-3 |
-
-Centre-Val de Loire |
-
-Médecine interne et immunologie clinique |
-
-2 |
-
-Centre-Val de Loire |
-
-Médecine nucléaire |
-
-|
-
-Centre-Val de Loire |
-
-Médecine physique et de réadaptation |
-
-1 |
-
-Centre-Val de Loire |
-
-Néphrologie |
-
-1 |
-
-Centre-Val de Loire |
-
-Neurochirurgie |
-
-|
-
-Centre-Val de Loire |
-
-Neurologie |
-
-3 |
-
-Centre-Val de Loire |
-
-Oncologie |
-
-1 |
-
-Centre-Val de Loire |
-
-Ophtalmologie |
-
-|
-
-Centre-Val de Loire |
-
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
-
-1 |
-
-Centre-Val de Loire |
-
-Pédiatrie |
-
-4 |
-
-Centre-Val de Loire |
-
-Pneumologie |
-
-1 |
-
-Centre-Val de Loire |
-
-Psychiatrie |
-
-10 |
-
 Centre-Val de Loire |
 
 Radiologie et imagerie médicale |
 
-5 |
+6 |
 
 Centre-Val de Loire |
 
 Rhumatologie |
 
-1 |
+2 |
 
 Centre-Val de Loire |
 
@@ -974,7 +974,7 @@ Urologie |
 
 TOTAL |
 
-70 |
+121 |
 
 Grand Est |
 
@@ -986,7 +986,7 @@ Grand Est |
 
 Anesthésie-réanimation |
 
-26 |
+29 |
 
 Grand Est |
 
@@ -1004,7 +1004,7 @@ Grand Est |
 
 Chirurgie orthopédique et traumatologique |
 
-4 |
+6 |
 
 Grand Est |
 
@@ -1051,74 +1051,74 @@ Génétique médicale |
 Grand Est |
 
 Gériatrie |
-
-25 |
-
-Grand Est |
-
-Gynécologie médicale |
-
-|
-
-Grand Est |
-
-Gynécologie Obstétrique |
-
-10 |
-
-Grand Est |
-
-Hématologie |
-
-1 |
-
-Grand Est |
-
-Hépato-gastro-entérologie |
-
-7 |
-
-Grand Est |
-
-Maladies infectieuses et tropicales |
-
-|
-
-Grand Est |
-
-Médecine cardiovasculaire |
-
-13 |
-
-Grand Est |
-
-Médecine d'urgence |
-
-6 |
-
-Grand Est |
-
-Médecine et santé au travail |
-
-|
-
-Grand Est |
-
-Médecine générale |
 
 32 |
 
 Grand Est |
 
+Gynécologie médicale |
+
+|
+
+Grand Est |
+
+Gynécologie Obstétrique |
+
+14 |
+
+Grand Est |
+
+Hématologie |
+
+1 |
+
+Grand Est |
+
+Hépato-gastro-entérologie |
+
+9 |
+
+Grand Est |
+
+Maladies infectieuses et tropicales |
+
+|
+
+Grand Est |
+
+Médecine cardiovasculaire |
+
+18 |
+
+Grand Est |
+
+Médecine d'urgence |
+
+19 |
+
+Grand Est |
+
+Médecine et santé au travail |
+
+|
+
+Grand Est |
+
+Médecine générale |
+
+46 |
+
+Grand Est |
+
 Médecine intensive-réanimation |
 
-2 |
+5 |
 
 Grand Est |
 
 Médecine interne et immunologie clinique |
 
-4 |
+5 |
 
 Grand Est |
 
@@ -1130,7 +1130,7 @@ Grand Est |
 
 Médecine physique et de réadaptation |
 
-3 |
+5 |
 
 Grand Est |
 
@@ -1154,7 +1154,7 @@ Grand Est |
 
 Oncologie |
 
-7 |
+8 |
 
 Grand Est |
 
@@ -1166,31 +1166,31 @@ Grand Est |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-1 |
+2 |
 
 Grand Est |
 
 Pédiatrie |
 
-5 |
+10 |
 
 Grand Est |
 
 Pneumologie |
 
-3 |
+12 |
 
 Grand Est |
 
 Psychiatrie |
 
-11 |
+21 |
 
 Grand Est |
 
 Radiologie et imagerie médicale |
 
-2 |
+4 |
 
 Grand Est |
 
@@ -1218,19 +1218,19 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-193 |
+277 |
 
 Hauts-de-France |
 
 Anatomie et cytologie pathologique |
 
-1 |
+2 |
 
 Hauts-de-France |
 
 Anesthésie-réanimation |
 
-15 |
+16 |
 
 Hauts-de-France |
 
@@ -1248,7 +1248,7 @@ Hauts-de-France |
 
 Chirurgie orthopédique et traumatologique |
 
-1 |
+2 |
 
 Hauts-de-France |
 
@@ -1296,7 +1296,7 @@ Hauts-de-France |
 
 Gériatrie |
 
-30 |
+32 |
 
 Hauts-de-France |
 
@@ -1308,37 +1308,37 @@ Hauts-de-France |
 
 Gynécologie Obstétrique |
 
-12 |
+17 |
 
 Hauts-de-France |
 
 Hématologie |
 
-2 |
+3 |
 
 Hauts-de-France |
 
 Hépato-gastro-entérologie |
 
-5 |
+8 |
 
 Hauts-de-France |
 
 Maladies infectieuses et tropicales |
 
-1 |
+2 |
 
 Hauts-de-France |
 
 Médecine cardiovasculaire |
 
-8 |
+11 |
 
 Hauts-de-France |
 
 Médecine d'urgence |
 
-5 |
+12 |
 
 Hauts-de-France |
 
@@ -1350,13 +1350,13 @@ Hauts-de-France |
 
 Médecine générale |
 
-20 |
+27 |
 
 Hauts-de-France |
 
 Médecine intensive-réanimation |
 
-2 |
+1 |
 
 Hauts-de-France |
 
@@ -1398,7 +1398,7 @@ Hauts-de-France |
 
 Oncologie |
 
-2 |
+4 |
 
 Hauts-de-France |
 
@@ -1410,31 +1410,31 @@ Hauts-de-France |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-2 |
+3 |
 
 Hauts-de-France |
 
 Pédiatrie |
 
-15 |
+22 |
 
 Hauts-de-France |
 
 Pneumologie |
 
-14 |
+15 |
 
 Hauts-de-France |
 
 Psychiatrie |
 
-22 |
+23 |
 
 Hauts-de-France |
 
 Radiologie et imagerie médicale |
 
-12 |
+13 |
 
 Hauts-de-France |
 
@@ -1462,7 +1462,7 @@ Sage-Femme |
 
 TOTAL |
 
-199 |
+245 |
 
 Ile-de-France |
 
@@ -1474,13 +1474,13 @@ Ile-de-France |
 
 Anesthésie-réanimation |
 
-69 |
+74 |
 
 Ile-de-France |
 
 Biologie médicale |
 
-|
+6 |
 
 Ile-de-France |
 
@@ -1492,7 +1492,7 @@ Ile-de-France |
 
 Chirurgie orthopédique et traumatologique |
 
-|
+2 |
 
 Ile-de-France |
 
@@ -1516,19 +1516,19 @@ Ile-de-France |
 
 Chirurgie viscérale et digestive |
 
-|
+2 |
 
 Ile-de-France |
 
 Dermatologie et vénéréologie |
 
-|
+2 |
 
 Ile-de-France |
 
 Endocrinologie-diabétologie-nutrition |
 
-|
+10 |
 
 Ile-de-France |
 
@@ -1540,7 +1540,7 @@ Ile-de-France |
 
 Gériatrie |
 
-17 |
+29 |
 
 Ile-de-France |
 
@@ -1552,7 +1552,7 @@ Ile-de-France |
 
 Gynécologie Obstétrique |
 
-19 |
+24 |
 
 Ile-de-France |
 
@@ -1564,7 +1564,7 @@ Ile-de-France |
 
 Hépato-gastro-entérologie |
 
-|
+9 |
 
 Ile-de-France |
 
@@ -1576,13 +1576,13 @@ Ile-de-France |
 
 Médecine cardiovasculaire |
 
-|
+11 |
 
 Ile-de-France |
 
 Médecine d'urgence |
 
-40 |
+51 |
 
 Ile-de-France |
 
@@ -1594,19 +1594,19 @@ Ile-de-France |
 
 Médecine générale |
 
-71 |
+115 |
 
 Ile-de-France |
 
 Médecine intensive-réanimation |
 
-13 |
+14 |
 
 Ile-de-France |
 
 Médecine interne et immunologie clinique |
 
-7 |
+10 |
 
 Ile-de-France |
 
@@ -1618,13 +1618,13 @@ Ile-de-France |
 
 Médecine physique et de réadaptation |
 
-|
+4 |
 
 Ile-de-France |
 
 Néphrologie |
 
-|
+1 |
 
 Ile-de-France |
 
@@ -1636,31 +1636,31 @@ Ile-de-France |
 
 Neurologie |
 
-|
+11 |
 
 Ile-de-France |
 
 Oncologie |
 
-3 |
+11 |
 
 Ile-de-France |
 
 Ophtalmologie |
 
-|
+3 |
 
 Ile-de-France |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-|
+3 |
 
 Ile-de-France |
 
 Pédiatrie |
 
-17 |
+36 |
 
 Ile-de-France |
 
@@ -1714,11 +1714,11 @@ Ile-de-France |
 
 Odontologie |
 
-2 |
+3 |
 
 TOTAL |
 
-362 |
+574 |
 
 Normandie |
 
@@ -1748,7 +1748,7 @@ Normandie |
 
 Chirurgie orthopédique et traumatologique |
 
-1 |
+2 |
 
 Normandie |
 
@@ -1772,7 +1772,7 @@ Normandie |
 
 Chirurgie viscérale et digestive |
 
-|
+1 |
 
 Normandie |
 
@@ -1784,7 +1784,7 @@ Normandie |
 
 Endocrinologie-diabétologie-nutrition |
 
-|
+1 |
 
 Normandie |
 
@@ -1796,7 +1796,7 @@ Normandie |
 
 Gériatrie |
 
-20 |
+23 |
 
 Normandie |
 
@@ -1808,7 +1808,7 @@ Normandie |
 
 Gynécologie Obstétrique |
 
-7 |
+8 |
 
 Normandie |
 
@@ -1820,7 +1820,7 @@ Normandie |
 
 Hépato-gastro-entérologie |
 
-5 |
+7 |
 
 Normandie |
 
@@ -1832,25 +1832,25 @@ Normandie |
 
 Médecine cardiovasculaire |
 
-8 |
+10 |
 
 Normandie |
 
 Médecine d'urgence |
 
-5 |
+8 |
 
 Normandie |
 
 Médecine et santé au travail |
 
-1 |
+2 |
 
 Normandie |
 
 Médecine générale |
 
-22 |
+29 |
 
 Normandie |
 
@@ -1862,7 +1862,7 @@ Normandie |
 
 Médecine interne et immunologie clinique |
 
-2 |
+4 |
 
 Normandie |
 
@@ -1892,7 +1892,7 @@ Normandie |
 
 Neurologie |
 
-3 |
+4 |
 
 Normandie |
 
@@ -1916,7 +1916,7 @@ Normandie |
 
 Pédiatrie |
 
-4 |
+5 |
 
 Normandie |
 
@@ -1928,7 +1928,7 @@ Normandie |
 
 Psychiatrie |
 
-19 |
+21 |
 
 Normandie |
 
@@ -1962,25 +1962,25 @@ Odontologie |
 
 TOTAL |
 
-128 |
+155 |
 
 Nouvelle-Aquitaine |
 
 Anatomie et cytologie pathologique |
 
-2 |
+3 |
 
 Nouvelle-Aquitaine |
 
 Anesthésie-réanimation |
 
-19 |
+15 |
 
 Nouvelle-Aquitaine |
 
 Biologie médicale |
 
-1 |
+3 |
 
 Nouvelle-Aquitaine |
 
@@ -1992,7 +1992,7 @@ Nouvelle-Aquitaine |
 
 Chirurgie orthopédique et traumatologique |
 
-6 |
+4 |
 
 Nouvelle-Aquitaine |
 
@@ -2028,7 +2028,7 @@ Nouvelle-Aquitaine |
 
 Endocrinologie-diabétologie-nutrition |
 
-5 |
+3 |
 
 Nouvelle-Aquitaine |
 
@@ -2040,7 +2040,7 @@ Nouvelle-Aquitaine |
 
 Gériatrie |
 
-23 |
+22 |
 
 Nouvelle-Aquitaine |
 
@@ -2052,7 +2052,7 @@ Nouvelle-Aquitaine |
 
 Gynécologie Obstétrique |
 
-6 |
+7 |
 
 Nouvelle-Aquitaine |
 
@@ -2064,7 +2064,7 @@ Nouvelle-Aquitaine |
 
 Hépato-gastro-entérologie |
 
-7 |
+8 |
 
 Nouvelle-Aquitaine |
 
@@ -2076,13 +2076,13 @@ Nouvelle-Aquitaine |
 
 Médecine cardiovasculaire |
 
-14 |
+18 |
 
 Nouvelle-Aquitaine |
 
 Médecine d'urgence |
 
-9 |
+14 |
 
 Nouvelle-Aquitaine |
 
@@ -2094,7 +2094,7 @@ Nouvelle-Aquitaine |
 
 Médecine générale |
 
-46 |
+48 |
 
 Nouvelle-Aquitaine |
 
@@ -2106,7 +2106,7 @@ Nouvelle-Aquitaine |
 
 Médecine interne et immunologie clinique |
 
-2 |
+3 |
 
 Nouvelle-Aquitaine |
 
@@ -2136,19 +2136,19 @@ Nouvelle-Aquitaine |
 
 Neurologie |
 
-7 |
+10 |
 
 Nouvelle-Aquitaine |
 
 Oncologie |
 
-6 |
+5 |
 
 Nouvelle-Aquitaine |
 
 Ophtalmologie |
 
-2 |
+1 |
 
 Nouvelle-Aquitaine |
 
@@ -2172,19 +2172,19 @@ Nouvelle-Aquitaine |
 
 Psychiatrie |
 
-24 |
+28 |
 
 Nouvelle-Aquitaine |
 
 Radiologie et imagerie médicale |
 
-14 |
+12 |
 
 Nouvelle-Aquitaine |
 
 Rhumatologie |
 
-3 |
+4 |
 
 Nouvelle-Aquitaine |
 
@@ -2202,7 +2202,7 @@ Nouvelle-Aquitaine |
 
 Pharmacie polyvalente |
 
-3 |
+1 |
 
 Nouvelle-Aquitaine |
 
@@ -2218,19 +2218,19 @@ Odontologie |
 
 TOTAL |
 
-227 |
+237 |
 
 Occitanie |
 
 Anatomie et cytologie pathologique |
 
-1 |
+2 |
 
 Occitanie |
 
 Anesthésie-réanimation |
 
-9 |
+11 |
 
 Occitanie |
 
@@ -2284,7 +2284,7 @@ Occitanie |
 
 Endocrinologie-diabétologie-nutrition |
 
-|
+2 |
 
 Occitanie |
 
@@ -2296,7 +2296,7 @@ Occitanie |
 
 Gériatrie |
 
-20 |
+26 |
 
 Occitanie |
 
@@ -2308,7 +2308,7 @@ Occitanie |
 
 Gynécologie Obstétrique |
 
-4 |
+5 |
 
 Occitanie |
 
@@ -2320,7 +2320,7 @@ Occitanie |
 
 Hépato-gastro-entérologie |
 
-3 |
+5 |
 
 Occitanie |
 
@@ -2332,13 +2332,13 @@ Occitanie |
 
 Médecine cardiovasculaire |
 
-10 |
+13 |
 
 Occitanie |
 
 Médecine d'urgence |
 
-5 |
+9 |
 
 Occitanie |
 
@@ -2350,7 +2350,7 @@ Occitanie |
 
 Médecine générale |
 
-30 |
+34 |
 
 Occitanie |
 
@@ -2374,7 +2374,7 @@ Occitanie |
 
 Médecine physique et de réadaptation |
 
-1 |
+2 |
 
 Occitanie |
 
@@ -2392,19 +2392,19 @@ Occitanie |
 
 Neurologie |
 
-3 |
+4 |
 
 Occitanie |
 
 Oncologie |
 
-4 |
+6 |
 
 Occitanie |
 
 Ophtalmologie |
 
-1 |
+|
 
 Occitanie |
 
@@ -2416,7 +2416,7 @@ Occitanie |
 
 Pédiatrie |
 
-4 |
+5 |
 
 Occitanie |
 
@@ -2428,13 +2428,13 @@ Occitanie |
 
 Psychiatrie |
 
-21 |
+22 |
 
 Occitanie |
 
 Radiologie et imagerie médicale |
 
-9 |
+12 |
 
 Occitanie |
 
@@ -2462,7 +2462,7 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-144 |
+177 |
 
 Pays de la Loire |
 
@@ -2492,7 +2492,7 @@ Pays de la Loire |
 
 Chirurgie orthopédique et traumatologique |
 
-1 |
+|
 
 Pays de la Loire |
 
@@ -2576,13 +2576,13 @@ Pays de la Loire |
 
 Médecine cardiovasculaire |
 
-8 |
+9 |
 
 Pays de la Loire |
 
 Médecine d'urgence |
 
-5 |
+9 |
 
 Pays de la Loire |
 
@@ -2594,7 +2594,7 @@ Pays de la Loire |
 
 Médecine générale |
 
-28 |
+29 |
 
 Pays de la Loire |
 
@@ -2636,7 +2636,7 @@ Pays de la Loire |
 
 Neurologie |
 
-6 |
+5 |
 
 Pays de la Loire |
 
@@ -2672,7 +2672,7 @@ Pays de la Loire |
 
 Psychiatrie |
 
-13 |
+15 |
 
 Pays de la Loire |
 
@@ -2706,7 +2706,7 @@ Odontologie |
 
 TOTAL |
 
-118 |
+124 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2718,7 +2718,7 @@ Provence-Alpes-Côte d'Azur |
 
 Anesthésie-réanimation |
 
-11 |
+14 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2796,7 +2796,7 @@ Provence-Alpes-Côte d'Azur |
 
 Gynécologie Obstétrique |
 
-6 |
+7 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2814,19 +2814,19 @@ Provence-Alpes-Côte d'Azur |
 
 Maladies infectieuses et tropicales |
 
-1 |
+|
 
 Provence-Alpes-Côte d'Azur |
 
 Médecine cardiovasculaire |
 
-2 |
+4 |
 
 Provence-Alpes-Côte d'Azur |
 
 Médecine d'urgence |
 
-8 |
+13 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2838,7 +2838,7 @@ Provence-Alpes-Côte d'Azur |
 
 Médecine générale |
 
-31 |
+38 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2850,7 +2850,7 @@ Provence-Alpes-Côte d'Azur |
 
 Médecine interne et immunologie clinique |
 
-2 |
+3 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2868,7 +2868,7 @@ Provence-Alpes-Côte d'Azur |
 
 Néphrologie |
 
-2 |
+3 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2886,7 +2886,7 @@ Provence-Alpes-Côte d'Azur |
 
 Oncologie |
 
-12 |
+14 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2904,19 +2904,19 @@ Provence-Alpes-Côte d'Azur |
 
 Pédiatrie |
 
-7 |
+10 |
 
 Provence-Alpes-Côte d'Azur |
 
 Pneumologie |
 
-2 |
+8 |
 
 Provence-Alpes-Côte d'Azur |
 
 Psychiatrie |
 
-25 |
+28 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2950,7 +2950,7 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-148 |
+182 |
 
 Mayotte |
 
@@ -2962,7 +2962,7 @@ Mayotte |
 
 Anesthésie-réanimation |
 
-1 |
+2 |
 
 Mayotte |
 
@@ -3004,7 +3004,7 @@ Mayotte |
 
 Chirurgie viscérale et digestive |
 
-|
+1 |
 
 Mayotte |
 
@@ -3016,7 +3016,7 @@ Mayotte |
 
 Endocrinologie-diabétologie-nutrition |
 
-|
+1 |
 
 Mayotte |
 
@@ -3040,7 +3040,7 @@ Mayotte |
 
 Gynécologie Obstétrique |
 
-|
+2 |
 
 Mayotte |
 
@@ -3070,7 +3070,7 @@ Mayotte |
 
 Médecine d'urgence |
 
-|
+2 |
 
 Mayotte |
 
@@ -3082,7 +3082,7 @@ Mayotte |
 
 Médecine générale |
 
-1 |
+3 |
 
 Mayotte |
 
@@ -3094,7 +3094,7 @@ Mayotte |
 
 Médecine interne et immunologie clinique |
 
-|
+1 |
 
 Mayotte |
 
@@ -3148,7 +3148,7 @@ Mayotte |
 
 Pédiatrie |
 
-1 |
+2 |
 
 Mayotte |
 
@@ -3196,7 +3196,7 @@ Mayotte |
 
 Sage-Femme |
 
-1 |
+2 |
 
 Mayotte |
 
@@ -3206,7 +3206,7 @@ Odontologie |
 
 TOTAL |
 
-7 |
+21 |
 
 La Réunion |
 
@@ -3320,7 +3320,7 @@ La Réunion |
 
 Médecine cardiovasculaire |
 
-|
+2 |
 
 La Réunion |
 
@@ -3350,7 +3350,7 @@ La Réunion |
 
 Médecine interne et immunologie clinique |
 
-|
+1 |
 
 La Réunion |
 
@@ -3362,7 +3362,7 @@ La Réunion |
 
 Médecine physique et de réadaptation |
 
-1 |
+2 |
 
 La Réunion |
 
@@ -3380,7 +3380,7 @@ La Réunion |
 
 Neurologie |
 
-2 |
+|
 
 La Réunion |
 
@@ -3444,8 +3444,112 @@ Urologie |
 
 TOTAL |
 
-20 |
+22 |
+
+Guyane |
+
+Anesthésie-réanimation |
+
+6 |
+
+Guyane |
+
+Endocrinologie-diabétologie-nutrition |
+
+1 |
+
+Guyane |
+
+Gynécologie-obstétrique |
+
+5 |
+
+Guyane |
+
+Hépato-gastro-entérologie |
+
+1 |
+
+Guyane |
+
+Médecine d'urgence |
+
+9 |
+
+Guyane |
+
+Médecine générale |
+
+4 |
+
+Guyane |
+
+Médecine intensive-réanimation |
+
+1 |
+
+Guyane |
+
+Médecine physique et de réadaptation |
+
+1 |
+
+Guyane |
+
+Néphrologie |
+
+1 |
+
+Guyane |
+
+Ophtalmologie |
+
+1 |
+
+Guyane |
+
+Pédiatrie |
+
+4 |
+
+Guyane |
+
+Psychiatrie |
+
+3 |
+
+Guyane |
+
+Radiologie et imagerie médicale |
+
+1 |
+
+Total |
+
+38 |
+
+Corse |
+
+Médecine d'urgence |
+
+2 |
+
+Corse |
+
+Pneumologie |
+
+2 |
+
+Corse |
+
+Radiologie et imagerie médicale |
+
+1 |
+
+Total |
+
+5 |
 
 TOTAL DES POSTES OUVERTS POUR LA SESSION 2021 |
 
-1993 |
+2636 |

@@ -14,23 +14,23 @@ Médecine |
 
 Anatomie et cytologie pathologique |
 
-6 |
+9 |
 
 Anesthésie-réanimation |
 
-211 |
+234 |
 
 Biologie médicale |
 
-8 |
+17 |
 
 Chirurgie maxillo-faciale |
 
-1 |
+2 |
 
 Chirurgie orthopédique et traumatologique |
 
-22 |
+26 |
 
 Chirurgie plastique, reconstructrice et esthétique |
 
@@ -46,15 +46,15 @@ Chirurgie vasculaire |
 
 Chirurgie viscérale et digestive |
 
-17 |
+21 |
 
 Dermatologie et vénéréologie |
 
-2 |
+3 |
 
 Endocrinologie-diabétologie-nutrition |
 
-21 |
+37 |
 
 Génétique médicale |
 
@@ -62,7 +62,7 @@ Génétique médicale |
 
 Gériatrie |
 
-205 |
+250 |
 
 Gynécologie médicale |
 
@@ -70,43 +70,43 @@ Gynécologie médicale |
 
 Gynécologie Obstétrique |
 
-87 |
+118 |
 
 Hématologie |
 
-11 |
+14 |
 
 Hépato-gastro-entérologie |
 
-55 |
+76 |
 
 Maladies infectieuses et tropicales |
 
-6 |
+10 |
 
 Médecine cardiovasculaire |
 
-83 |
+122 |
 
 Médecine d'urgence |
 
-120 |
+201 |
 
 Médecine et santé au travail |
 
-3 |
+4 |
 
 Médecine générale |
 
-364 |
+492 |
 
 Médecine intensive-réanimation |
 
-29 |
+36 |
 
 Médecine interne et immunologie clinique |
 
-22 |
+32 |
 
 Médecine nucléaire |
 
@@ -114,11 +114,11 @@ Médecine nucléaire |
 
 Médecine physique et de réadaptation |
 
-15 |
+24 |
 
 Néphrologie |
 
-29 |
+35 |
 
 Neurochirurgie |
 
@@ -126,39 +126,39 @@ Neurochirurgie |
 
 Neurologie |
 
-37 |
+53 |
 
 Oncologie |
 
-39 |
+57 |
 
 Ophtalmologie |
 
-12 |
+15 |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-7 |
+11 |
 
 Pédiatrie |
 
-86 |
+138 |
 
 Pneumologie |
 
-57 |
+85 |
 
 Psychiatrie |
 
-281 |
+323 |
 
 Radiologie et imagerie médicale |
 
-101 |
+129 |
 
 Rhumatologie |
 
-7 |
+14 |
 
 Santé publique |
 
@@ -166,20 +166,20 @@ Santé publique |
 
 Urologie |
 
-11 |
+12 |
 
 Odontologie |
 
-6 |
+7 |
 
 Pharmacie polyvalente |
 
-13 |
+11 |
 
 Sage-Femme |
 
-7 |
+8 |
 
 Total |
 
-1993 |
+2636 |
