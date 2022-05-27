@@ -516,7 +516,9 @@ CH de Bourg en Bresse-06 |
 
 51 |
 
-Centre Hospitalier Montluçon-Néris les Bains |
+Centre Hospitalier Montluçon-Néris les Bains
+
+|
 
 030780100 |
 
@@ -4620,7 +4622,7 @@ Médecine d'urgence |
 
 Agence Régionale de Santé : |
 
-Centre-Val de Loire |
+Centre Val de Loire |
 
 Poste n° |
 
@@ -5003,6 +5005,16 @@ Gynécologie-obstétrique |
 Centre hospitalier régional d'Orléans |
 
 450000088 |
+
+Gynécologie-obstétrique |
+
+|
+
+496 bis |
+
+Centre hospitalier de Gien |
+
+450000047 |
 
 Gynécologie-obstétrique |
 
@@ -5468,6 +5480,16 @@ Médecine interne et immunologie clinique |
 
 |
 
+542 bis |
+
+Centre hospitalier de Dreux |
+
+280000183 |
+
+Médecine polyvalente, interne et infectieuse |
+
+|
+
 543 |
 
 Centre hospitalier de Dreux |
@@ -5617,6 +5639,16 @@ Centre Hospitalier de Blois |
 Pédiatrie |
 
 Pédiatrie |
+
+557 bis |
+
+Centre hospitalier de Gien |
+
+450000047 |
+
+Pédiatrie |
+
+|
 
 558 |
 
@@ -5852,6 +5884,26 @@ Spécialité |
 
 Libellé poste |
 
+579 bis |
+
+CH de Bastia |
+
+2B0000029 |
+
+Médecine cardiovasculaire |
+
+|
+
+579 ter |
+
+CH de Bastia |
+
+2B0000029 |
+
+Médecine cardiovasculaire |
+
+|
+
 580 |
 
 CH Ajaccio La Miséricorde |
@@ -5871,6 +5923,56 @@ CH Ajaccio La Miséricorde |
 Médecine d'urgence |
 
 service des urgences |
+
+581 bis |
+
+CH de Bastia |
+
+2B0000025 |
+
+Médecine d'urgence |
+
+UHCD |
+
+581 ter |
+
+CH de Bastia |
+
+2B0000025 |
+
+Médecine d'urgence |
+
+UHCD |
+
+581 quater |
+
+CH de Bastia |
+
+2B0000025 |
+
+Médecine d'urgence |
+
+UHCD |
+
+581 quinquiès |
+
+CH de Corte |
+
+2B0000026 |
+
+Médecine d'urgence |
+
+AMNP |
+
+581 sexies |
+
+CH de Bastia |
+
+2B0000037 |
+
+Neurologie |
+
+Médecine et spécialités |
 
 582 |
 
@@ -5901,6 +6003,16 @@ CH Ajaccio La Miséricorde |
 Radiologie et imagerie médicale |
 
 service de radiologie |
+
+584 bis |
+
+CH Corte |
+
+2B0004246 |
+
+Pharmacie polyvalente et pharmacie hospitalière |
+
+|
 
 Agence Régionale de Santé : |
 
@@ -7032,7 +7144,7 @@ REMIREMONT |
 
 Médecine cardiovasculaire |
 
-MEDECINE ORIENTATION CARDIOLOGIQUE |
+Médecine orientation cardiologique |
 
 697 |
 
@@ -10154,6 +10266,16 @@ Médecine physique et de réadaptation |
 
 HDF59-06 |
 
+1007 bis |
+
+Hôpital Maritime de Berck |
+
+|
+
+Médecine physique et de réadaptation |
+
+|
+
 1008 |
 
 CH Château-Thierry |
@@ -10283,6 +10405,16 @@ CH Soissons |
 Oncologie |
 
 HDF02-40 |
+
+1020 bis |
+
+CH Soissons |
+
+|
+
+Odontologie |
+
+|
 
 1021 |
 
@@ -10710,7 +10842,7 @@ CH Beauvais |
 
 600 100 713 |
 
-pneumologie |
+Pneumologie |
 
 pneumologue |
 
@@ -10720,7 +10852,7 @@ CH Beauvais |
 
 600 100 713 |
 
-pneumologie |
+Pneumologie |
 
 pneumologue |
 
@@ -18458,7 +18590,7 @@ CHPC-04 |
 
 Agence Régionale de Santé : |
 
-Nouvelle-Aquitaine |
+Nouvelle Aquitaine |
 
 Poste n° |
 
@@ -20932,6 +21064,8 @@ CH de Perpignan |
 
 Anesthésie-réanimation (co-DES) |
 
+|
+
 2081 |
 
 CH de Perpignan |
@@ -21531,6 +21665,16 @@ Clinique Midi-Gascogne |
 Médecine cardiovasculaire (co-DES) |
 
 CMG-01 |
+
+2140 bis |
+
+Centre hospitalier de Rodez |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+|
 
 2141 |
 
@@ -23472,7 +23616,7 @@ CH CHÂTEAU DU LOIR |
 
 720000066 |
 
-Médecine générale |
+Gériatrie |
 
 CHLOIR-01 |
 
@@ -23878,7 +24022,7 @@ PSSL-02 |
 
 Agence Régionale de Santé : |
 
-Provence-Alpes-Côte d'Azur |
+Provence Alpes Côte d'Azur |
 
 Poste n° |
 
@@ -24390,6 +24534,16 @@ Médecine générale |
 
 |
 
+2423 bis |
+
+Centre gérontologique départemental (CGD 13) |
+
+|
+
+Médecine générale |
+
+|
+
 2424 |
 
 Centre Hospitalier de Martigues |
@@ -24429,6 +24583,16 @@ CENTRE HOSPITALIER ARLES JOSEPH IMBERT |
 Médecine cardiovasculaire (co-DES) |
 
 CHA-06 |
+
+2427 ter |
+
+Centre hospitalier intercommunal Fréjus Saint Raphaël |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+|
 
 2428 |
 
@@ -24949,6 +25113,16 @@ Centre Hospitalier d'AVIGNON |
 Médecine interne et immunologie clinique |
 
 CHAV-8 |
+
+2479 bis |
+
+Centre hospitalier intercommunal Fréjus Saint Raphaël |
+
+|
+
+Médecine intensive et réanimation |
+
+|
 
 2480 |
 
@@ -25892,6 +26066,8 @@ GHER |
 
 Médecine interne et immunologie clinique |
 
+|
+
 2573 |
 
 Clinique les Tamarins Ouest |
@@ -25944,7 +26120,51 @@ CHURUN-17 |
 
 Agence Régionale de Santé : |
 
-La Réunion |
+Martinique |
+
+Poste n° |
+
+Nom établissement |
+
+Code FINESS (EJ) |
+
+Spécialité |
+
+Libellé poste |
+
+2577 bis |
+
+CHU Fort-de-France |
+
+|
+
+Hépato-gastro-entérologie |
+
+|
+
+2577 ter |
+
+CHU Fort-de-France |
+
+|
+
+Médecine cardiovasculaire (co-DES) |
+
+|
+
+2577 quater |
+
+CHU Fort-de-France |
+
+|
+
+Néphrologie |
+
+|
+
+Agence Régionale de Santé : |
+
+Mayotte |
 
 Poste n° |
 

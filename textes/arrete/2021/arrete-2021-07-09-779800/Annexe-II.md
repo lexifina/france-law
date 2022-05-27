@@ -8,10 +8,6 @@ SPÉCIALITÉS |
 
 Nombre de postes ouverts |
 
-Médecine |
-
-|
-
 Anatomie et cytologie pathologique |
 
 9 |
@@ -26,11 +22,11 @@ Biologie médicale |
 
 Chirurgie maxillo-faciale |
 
-2 |
+1 |
 
 Chirurgie orthopédique et traumatologique |
 
-26 |
+27 |
 
 Chirurgie plastique, reconstructrice et esthétique |
 
@@ -70,7 +66,7 @@ Gynécologie médicale |
 
 Gynécologie Obstétrique |
 
-118 |
+119 |
 
 Hématologie |
 
@@ -78,7 +74,7 @@ Hématologie |
 
 Hépato-gastro-entérologie |
 
-76 |
+77 |
 
 Maladies infectieuses et tropicales |
 
@@ -86,11 +82,11 @@ Maladies infectieuses et tropicales |
 
 Médecine cardiovasculaire |
 
-122 |
+127 |
 
 Médecine d'urgence |
 
-201 |
+205 |
 
 Médecine et santé au travail |
 
@@ -98,15 +94,15 @@ Médecine et santé au travail |
 
 Médecine générale |
 
-492 |
+488 |
 
 Médecine intensive-réanimation |
 
-36 |
+37 |
 
 Médecine interne et immunologie clinique |
 
-32 |
+33 |
 
 Médecine nucléaire |
 
@@ -114,11 +110,11 @@ Médecine nucléaire |
 
 Médecine physique et de réadaptation |
 
-24 |
+25 |
 
 Néphrologie |
 
-35 |
+36 |
 
 Neurochirurgie |
 
@@ -126,7 +122,7 @@ Neurochirurgie |
 
 Neurologie |
 
-53 |
+55 |
 
 Oncologie |
 
@@ -138,11 +134,11 @@ Ophtalmologie |
 
 Oto-rhino-laryngologie - chirurgie cervico-faciale |
 
-11 |
+12 |
 
 Pédiatrie |
 
-138 |
+139 |
 
 Pneumologie |
 
@@ -150,7 +146,7 @@ Pneumologie |
 
 Psychiatrie |
 
-323 |
+324 |
 
 Radiologie et imagerie médicale |
 
@@ -166,15 +162,15 @@ Santé publique |
 
 Urologie |
 
-12 |
+11 |
 
 Odontologie |
 
-7 |
+8 |
 
 Pharmacie polyvalente |
 
-11 |
+13 |
 
 Sage-Femme |
 
@@ -182,4 +178,4 @@ Sage-Femme |
 
 Total |
 
-2636 |
+2656 |

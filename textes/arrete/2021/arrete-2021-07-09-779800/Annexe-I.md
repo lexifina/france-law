@@ -200,7 +200,7 @@ Ophtalmologie |
 
 Auvergne-Rhône-Alpes |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -253,6 +253,8 @@ Pharmacie polyvalente |
 4 |
 
 TOTAL |
+
+|
 
 235 |
 
@@ -444,7 +446,7 @@ Ophtalmologie |
 
 Bourgogne-Franche-Comté |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 1 |
 
@@ -498,6 +500,8 @@ Pharmacie polyvalente |
 
 TOTAL |
 
+|
+
 133 |
 
 Bretagne |
@@ -520,7 +524,9 @@ Biologie médicale |
 
 Bretagne |
 
-Chirurgie maxillo-faciale |
+Chirurgie maxillo-faciale
+
+|
 
 |
 
@@ -688,7 +694,7 @@ Ophtalmologie |
 
 Bretagne |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -735,6 +741,8 @@ Urologie |
 |
 
 TOTAL |
+
+|
 
 90 |
 
@@ -826,7 +834,7 @@ Centre-Val de Loire |
 
 Gynécologie Obstétrique |
 
-5 |
+6 |
 
 Centre-Val de Loire |
 
@@ -880,7 +888,7 @@ Centre-Val de Loire |
 
 Médecine interne et immunologie clinique |
 
-3 |
+4 |
 
 Centre-Val de Loire |
 
@@ -926,7 +934,7 @@ Ophtalmologie |
 
 Centre-Val de Loire |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 2 |
 
@@ -934,7 +942,7 @@ Centre-Val de Loire |
 
 Pédiatrie |
 
-5 |
+6 |
 
 Centre-Val de Loire |
 
@@ -974,7 +982,51 @@ Urologie |
 
 TOTAL |
 
-121 |
+|
+
+124 |
+
+Corse |
+
+Médecine cardiovasculaire |
+
+2 |
+
+Corse |
+
+Médecine d'urgence |
+
+6 |
+
+Corse |
+
+Neurologie |
+
+1 |
+
+Corse |
+
+Radiologie et imagerie médicale |
+
+1 |
+
+Corse |
+
+Pharmacie polyvalente et pharmacie hospitalière |
+
+1 |
+
+Corse |
+
+Pneumologie |
+
+2 |
+
+TOTAL |
+
+|
+
+13 |
 
 Grand Est |
 
@@ -1164,7 +1216,7 @@ Ophtalmologie |
 
 Grand Est |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 2 |
 
@@ -1218,7 +1270,93 @@ Pharmacie polyvalente |
 
 TOTAL |
 
+|
+
 277 |
+
+Guyane |
+
+Anesthésie-réanimation |
+
+6 |
+
+Guyane |
+
+Endocrinologie-diabétologie-nutrition |
+
+1 |
+
+Guyane |
+
+Gynécologie-obstétrique |
+
+5 |
+
+Guyane |
+
+Hépato-gastro-entérologie |
+
+1 |
+
+Guyane |
+
+Médecine d'urgence |
+
+9 |
+
+Guyane |
+
+Médecine générale |
+
+4 |
+
+Guyane |
+
+Médecine intensive-réanimation |
+
+1 |
+
+Guyane |
+
+Médecine physique et de réadaptation |
+
+1 |
+
+Guyane |
+
+Néphrologie |
+
+1 |
+
+Guyane |
+
+Ophtalmologie |
+
+1 |
+
+Guyane |
+
+Pédiatrie |
+
+4 |
+
+Guyane |
+
+Psychiatrie |
+
+3 |
+
+Guyane |
+
+Radiologie et imagerie médicale |
+
+1 |
+
+TOTAL |
+
+|
+
+38 |
 
 Hauts-de-France |
 
@@ -1356,13 +1494,13 @@ Hauts-de-France |
 
 Médecine intensive-réanimation |
 
-1 |
+4 |
 
 Hauts-de-France |
 
 Médecine interne et immunologie clinique |
 
-2 |
+1 |
 
 Hauts-de-France |
 
@@ -1374,7 +1512,7 @@ Hauts-de-France |
 
 Médecine physique et de réadaptation |
 
-1 |
+2 |
 
 Hauts-de-France |
 
@@ -1408,7 +1546,7 @@ Ophtalmologie |
 
 Hauts-de-France |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 3 |
 
@@ -1460,9 +1598,17 @@ Sage-Femme |
 
 2 |
 
+Hauts-de-France |
+
+Odontologie |
+
+1 |
+
 TOTAL |
 
-245 |
+|
+
+247 |
 
 Ile-de-France |
 
@@ -1570,7 +1716,7 @@ Ile-de-France |
 
 Maladies infectieuses et tropicales |
 
-2 |
+5 |
 
 Ile-de-France |
 
@@ -1652,7 +1798,7 @@ Ophtalmologie |
 
 Ile-de-France |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 3 |
 
@@ -1666,25 +1812,25 @@ Ile-de-France |
 
 Pneumologie |
 
-|
+8 |
 
 Ile-de-France |
 
 Psychiatrie |
 
-80 |
+85 |
 
 Ile-de-France |
 
 Radiologie et imagerie médicale |
 
-16 |
+33 |
 
 Ile-de-France |
 
 Rhumatologie |
 
-|
+4 |
 
 Ile-de-France |
 
@@ -1696,13 +1842,13 @@ Ile-de-France |
 
 Urologie |
 
-|
+1 |
 
 Ile-de-France |
 
 Pharmacie polyvalente |
 
-2 |
+3 |
 
 Ile-de-France |
 
@@ -1717,6 +1863,8 @@ Odontologie |
 3 |
 
 TOTAL |
+
+|
 
 574 |
 
@@ -1908,9 +2056,9 @@ Ophtalmologie |
 
 Normandie |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
-1 |
+|
 
 Normandie |
 
@@ -1961,6 +2109,8 @@ Odontologie |
 1 |
 
 TOTAL |
+
+|
 
 155 |
 
@@ -2152,7 +2302,7 @@ Ophtalmologie |
 
 Nouvelle-Aquitaine |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -2217,6 +2367,8 @@ Odontologie |
 1 |
 
 TOTAL |
+
+|
 
 237 |
 
@@ -2332,7 +2484,7 @@ Occitanie |
 
 Médecine cardiovasculaire |
 
-13 |
+14 |
 
 Occitanie |
 
@@ -2408,7 +2560,7 @@ Ophtalmologie |
 
 Occitanie |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -2462,7 +2614,9 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-177 |
+|
+
+178 |
 
 Pays de la Loire |
 
@@ -2540,7 +2694,7 @@ Pays de la Loire |
 
 Gériatrie |
 
-16 |
+17 |
 
 Pays de la Loire |
 
@@ -2594,7 +2748,7 @@ Pays de la Loire |
 
 Médecine générale |
 
-29 |
+28 |
 
 Pays de la Loire |
 
@@ -2652,7 +2806,7 @@ Ophtalmologie |
 
 Pays de la Loire |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -2706,6 +2860,8 @@ Odontologie |
 
 TOTAL |
 
+|
+
 124 |
 
 Provence-Alpes-Côte d'Azur |
@@ -2736,7 +2892,7 @@ Provence-Alpes-Côte d'Azur |
 
 Chirurgie orthopédique et traumatologique |
 
-3 |
+4 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2820,7 +2976,7 @@ Provence-Alpes-Côte d'Azur |
 
 Médecine cardiovasculaire |
 
-4 |
+5 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2838,7 +2994,7 @@ Provence-Alpes-Côte d'Azur |
 
 Médecine générale |
 
-38 |
+39 |
 
 Provence-Alpes-Côte d'Azur |
 
@@ -2896,7 +3052,7 @@ Ophtalmologie |
 
 Provence-Alpes-Côte d'Azur |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 1 |
 
@@ -2950,7 +3106,33 @@ Pharmacie polyvalente |
 
 TOTAL |
 
-182 |
+|
+
+184 |
+
+ARS Martinique |
+
+Hépato-gastro-entérologie |
+
+1 |
+
+ARS Martinique |
+
+Médecine cardiovasculaire (co-DES) |
+
+1 |
+
+ARS Martinique |
+
+Néphrologie |
+
+1 |
+
+TOTAL |
+
+|
+
+3 |
 
 Mayotte |
 
@@ -3082,7 +3264,7 @@ Mayotte |
 
 Médecine générale |
 
-3 |
+2 |
 
 Mayotte |
 
@@ -3140,7 +3322,7 @@ Ophtalmologie |
 
 Mayotte |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -3148,7 +3330,7 @@ Mayotte |
 
 Pédiatrie |
 
-2 |
+5 |
 
 Mayotte |
 
@@ -3205,6 +3387,8 @@ Odontologie |
 1 |
 
 TOTAL |
+
+|
 
 21 |
 
@@ -3396,7 +3580,7 @@ Ophtalmologie |
 
 La Réunion |
 
-Oto-rhino-laryngologie - chirurgie cervico-faciale |
+Oto-rhino-laryngologie-chirurgie cervico-faciale |
 
 |
 
@@ -3444,112 +3628,10 @@ Urologie |
 
 TOTAL |
 
+|
+
 22 |
-
-Guyane |
-
-Anesthésie-réanimation |
-
-6 |
-
-Guyane |
-
-Endocrinologie-diabétologie-nutrition |
-
-1 |
-
-Guyane |
-
-Gynécologie-obstétrique |
-
-5 |
-
-Guyane |
-
-Hépato-gastro-entérologie |
-
-1 |
-
-Guyane |
-
-Médecine d'urgence |
-
-9 |
-
-Guyane |
-
-Médecine générale |
-
-4 |
-
-Guyane |
-
-Médecine intensive-réanimation |
-
-1 |
-
-Guyane |
-
-Médecine physique et de réadaptation |
-
-1 |
-
-Guyane |
-
-Néphrologie |
-
-1 |
-
-Guyane |
-
-Ophtalmologie |
-
-1 |
-
-Guyane |
-
-Pédiatrie |
-
-4 |
-
-Guyane |
-
-Psychiatrie |
-
-3 |
-
-Guyane |
-
-Radiologie et imagerie médicale |
-
-1 |
-
-Total |
-
-38 |
-
-Corse |
-
-Médecine d'urgence |
-
-2 |
-
-Corse |
-
-Pneumologie |
-
-2 |
-
-Corse |
-
-Radiologie et imagerie médicale |
-
-1 |
-
-Total |
-
-5 |
 
 TOTAL DES POSTES OUVERTS POUR LA SESSION 2021 |
 
-2636 |
+2656 |
