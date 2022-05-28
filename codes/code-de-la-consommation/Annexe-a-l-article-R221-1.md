@@ -4,7 +4,7 @@ MODÈLE DE FORMULAIRE DE RÉTRACTATION
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)
 
-A l'attention de [le professionnel insère ici son nom, son adresse géographique et, lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique] :
+A l'attention de [le professionnel insère ici son nom, son adresse géographique et son adresse électronique] :
 
 Je/nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/pour la prestation de services (*) ci-dessous :
 
@@ -19,3 +19,7 @@ Signature du (des) consommateur(s) (uniquement en cas de notification du présen
 Date :
 
 (*) Rayez la mention inutile.
+
+NOTA :
+
+Conformément à l’article 2 du décret n° 2022-424 du 25 mars 2022, ces dispositions entrent en vigueur le 28 mai 2022.

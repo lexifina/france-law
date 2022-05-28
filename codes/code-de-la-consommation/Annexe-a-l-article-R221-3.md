@@ -8,7 +8,7 @@ Vous avez le droit de vous rétracter du présent contrat sans donner de motif d
 
 Le délai de rétractation expire quatorze jours après le jour (1).
 
-Pour exercer le droit de rétractation, vous devez nous notifier (2) votre décision de rétractation du présent contrat au moyen d'une déclaration dénuée d'ambiguïté (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique). Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n'est pas obligatoire (3).
+Pour exercer le droit de rétractation, vous devez nous notifier (2) votre décision de rétractation du présent contrat au moyen d'une déclaration dénuée d'ambiguïté (par exemple, lettre envoyée par la poste ou courrier électronique). Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n'est pas obligatoire (3).
 
 Pour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l'exercice du droit de rétractation avant l'expiration du délai de rétractation.
 
@@ -34,7 +34,7 @@ d) S'il s'agit d'un contrat portant sur la livraison d'un bien en plusieurs lots
 
 e) S'il s'agit d'un contrat portant sur la livraison régulière de biens pendant une période de temps déterminée : " où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du premier bien. " ;
 
-(2) Insérez votre nom, votre adresse géographique et, lorsqu'ils sont disponibles, votre numéro de téléphone, votre numéro de télécopieur et votre adresse électronique.
+(2) Insérez votre nom, votre adresse géographique, votre numéro de téléphone et votre adresse électronique.
 
 (3) Si vous donnez au consommateur la faculté de remplir et de transmettre électroniquement les informations sur sa rétractation du contrat sur votre site internet, insérez le texte suivant : " Vous pouvez également remplir et transmettre le modèle de formulaire de rétractation ou toute autre déclaration dénuée d'ambiguïté sur notre site internet [insérer l'adresse du site internet]. Si vous utilisez cette option, nous vous enverrons sans délai un accusé de réception de la rétractation sur un support durable (par exemple, par courriel). "
 
@@ -61,3 +61,7 @@ Si, dans le cas d'un contrat hors établissement, le bien, en raison de sa natur
 c) Insérez : " Votre responsabilité n'est engagée qu'à l'égard de la dépréciation du bien résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce bien. "
 
 (6) Dans le cas d'un contrat de prestation de services ou de fourniture d'eau, de gaz ou d'électricité lorsqu'ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, insérez le texte suivant : " Si vous avez demandé de commencer la prestation de services ou la fourniture d'eau/de gaz/d'électricité/de chauffage urbain [supprimer les mentions inutiles] pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat. "
+
+NOTA :
+
+Conformément à l’article 2 du décret n° 2022-424 du 25 mars 2022, ces dispositions entrent en vigueur le 28 mai 2022.
