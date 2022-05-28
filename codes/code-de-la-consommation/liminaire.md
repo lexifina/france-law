@@ -26,4 +26,10 @@ Pour l'application du présent code, on entend par :
 
 12° Durabilité : la capacité d'un bien à maintenir les fonctions et performances requises dans le cadre d'un usage normal ;
 
-13° Données à caractère personnel : les données à caractère personnel telles que définies à l'article 4, point 1, du règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+13° Données à caractère personnel : les données à caractère personnel telles que définies à l'article 4, point 1, du règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+14° Place de marché en ligne : un service utilisant un logiciel, y compris un site internet, une partie de site internet ou une application, exploité par un professionnel ou pour son compte, qui permet aux consommateurs de conclure des contrats à distance avec d'autres professionnels ou consommateurs ;
+
+15° Opérateur de place de marché en ligne : tout professionnel qui fournit une place de marché en ligne aux consommateurs, au sens du 2° du I de l'article L. 111-7 ;
+
+16° Pratique commerciale : toute action, omission, conduite, démarche ou communication commerciale, y compris la publicité et le marketing, de la part d'un professionnel, en relation directe avec la promotion, la vente ou la fourniture d'un bien, d'un service, ou portant sur des droits et obligations.
