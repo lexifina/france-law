@@ -4,7 +4,7 @@ Cahier des charges des laboratoires agréés pour effectuer le classement du CHA
 
 1-Objet
 
-Le Code IMDG prévoit que, pour le transport du CHARBON (ONU 1361) et du CHARBON, ACTIF (ONU 1362) par voie maritime, ses dispositions ne doivent pas s'appliquer à un envoi de charbon qui a subi avec succès l'essai d'échauffement spontané conformément aux Recommandations des Nations Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.3.1.3.3), et qui est accompagné du certificat correspondant délivré par un laboratoire reconnu par l'autorité compétente, attestant qu'un personnel formé du laboratoire en question a correctement prélevé l'échantillon sur l'envoi qui doit être chargé et que l'épreuve a été subie comme il convenait et avec succès.
+Le Code IMDG prévoit que, pour le transport du CHARBON (ONU 1361) et du CHARBON, ACTIF (ONU 1362) par voie maritime, ses dispositions ne doivent pas s'appliquer à un envoi de charbon qui a subi avec succès l'essai d'échauffement spontané conformément aux Recommandations des Nations Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.4.3.3), et qui est accompagné du certificat correspondant délivré par un laboratoire reconnu par l'autorité compétente, attestant qu'un personnel formé du laboratoire en question a correctement prélevé l'échantillon sur l'envoi qui doit être chargé et que l'épreuve a été subie comme il convenait et avec succès.
 
 La présente annexe, élaborée en tenant compte des dispositions pertinentes de la norme EN ISO/CEI 17025, spécifie les exigences à satisfaire par les laboratoires agréés en France, par le ministre chargé du transport maritime de matières dangereuses, pour effectuer ces opérations réglementaires. Il constitue le cahier des charges de ces laboratoires.
 
@@ -12,7 +12,7 @@ Tout laboratoire désirant être agréé (ou renouveler sa reconnaissance) devra
 
 La mission Transport de matières dangereuses se réserve le droit de procéder à des visites dans les locaux du laboratoire pour vérifier le bien fondé du contenu du dossier et le respect des exigences spécifiées par le présent document.
 
-Nota : Dans la suite du présent document, le terme " essai d'échauffement spontané " désigne l'essai d'échauffement spontané, tel que décrit dans les recommandations des Nations-Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.3.1.3.3).
+Nota : Dans la suite du présent document, le terme " essai d'échauffement spontané " désigne l'essai d'échauffement spontané, tel que décrit dans les recommandations des Nations-Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.4.3.3).
 
 2-Statut du laboratoire
 
@@ -138,7 +138,7 @@ f) référence réglementaire relative à la reconnaissance du laboratoire et à
 
 g) résultats de l'essai comprenant pour chaque échantillon identifié la température de l'échantillon, le côté du cube, la température maximale atteinte et le résultat ;
 
-h) attestation selon laquelle un échantillon de l'envoi, correctement prélevé par un personnel formé du laboratoire, a subi avec succès l'essai d'échauffement spontané, tel que décrit dans les recommandations des Nations-Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.3.1.3.3) ;
+h) attestation selon laquelle un échantillon de l'envoi, correctement prélevé par un personnel formé du laboratoire, a subi avec succès l'essai d'échauffement spontané, tel que décrit dans les recommandations des Nations-Unies relatives au transport des marchandises dangereuses, Manuel d'épreuves et de critères (voir 33.4.3.3) ;
 
 i) date d'émission du certificat ; signature et titre ou toute autre marque équivalente de la personne ayant la responsabilité de la validité du certificat ;
 
@@ -219,3 +219,7 @@ Eléments à fournir dans le dossier de demande d'agrément
 -Système d'identification des échantillons et envois retenu et règles adoptées pour leur protection (point 6.5) ;
 
 -Autres laboratoires d'essais à qui peuvent être confiés des examens ou épreuves à titre accidentel ou occasionnel (point 6.6)
+
+NOTA :
+
+Conformément à l'article 5 de l'arrêté du 28 avril 2022 (NOR : TREP2207079A) ces dispositions entrent en vigueur le 1er juin 2022.
