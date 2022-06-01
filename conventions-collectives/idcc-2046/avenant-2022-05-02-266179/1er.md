@@ -1,0 +1,79 @@
+# Article 1er
+
+Il est institué une commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) dans la branche des centres de lutte contre le cancer (CLCC).
+
+À cet effet, l'article 4.3.5 « Comité de la formation professionnelle » de la convention collective nationale des CLCC du 1er janvier 1999, renommé « 4.3.5. Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) » est désormais rédigé de la manière suivante :
+
+« 4.3.5.   Commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP)
+
+4.3.5.1. Missions de la CPNEFP
+
+La commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) exerce les missions suivantes :
+
+– définition des orientations prioritaires de la branche en matière d'emploi et de formation professionnelle, et, plus particulièrement, en matière d'observations prospectives des métiers et des qualifications, d'alternance, de formation et de certifications professionnelles de la branche, détermination des moyens nécessaires à leur mise en œuvre et approbation des éventuels travaux réalisés ;
+
+– fixation des coûts de prise en charge des contrats d'apprentissage, de professionnalisation et de la professionnalisation en alternance conformément aux dispositions conventionnelles et légales applicables ;
+
+– définition des actions de formation prioritaires qui pourront faire l'objet d'un financement au titre de l'abondement du CPF ;
+
+– recherche de partenariats pour favoriser le développement de la formation professionnelle ;
+
+– prendre des initiatives afin de pouvoir obtenir des pouvoirs publics les engagements nécessaires au développement de la formation professionnelle ;
+
+– suivre l'application des accords applicables à la branche en matière de formation professionnelle ;
+
+– éventuellement, déterminer et conduire la politique de certification des compétences de la branche (création et suivi des certifications professionnelles, inscription au RNCP ou au répertoire spécifique des habilitations et certifications …) ;
+
+– établir un bilan annuel des promotions réalisées dans le cadre des parcours professionnels mis en place par la branche ;
+
+– mettre en œuvre toute action de promotion et de développement de la formation professionnelle et de l'apprentissage nécessaire ;
+
+– avoir un rôle de veille et de propositions en matière d'innovations pédagogiques et technologiques ;
+
+– proposer les moyens de toute nature à mettre en œuvre dans les centres pour garantir l'adéquation des compétences des salariés à l'évolution des emplois et des métiers dans leur parcours professionnel, en lien avec les travaux des instances paritaires des CLCC et de l'observatoire de l'OPCO santé ;
+
+– analyser les politiques de GPEC mises en place dans les centres dans le cadre des accords en place en vue d'adapter les ressources disponibles aux besoins futurs ;
+
+– examiner périodiquement l'évolution quantitative et qualitative des emplois et des qualifications dans la branche.
+
+Par ailleurs, la CPNE-FP peut décider de la réalisation d'études et d'enquêtes dans le champ de l'emploi et de la formation.
+
+4.3.5.2.   Fonctionnement de la CPNEFP
+
+4.3.5.2.1.   Réunions
+
+La CPNEFP se réunit au moins 2 fois dans l'année.
+
+4.3.5.2.2.   Composition
+
+La CPNEFP comprend :
+
+– deux représentants désignés par chacune des organisations syndicales de salariés représentatives au niveau national dans la branche des centres de lutte contre le cancer. Deux suppléants peuvent être désignés par chacune des organisations syndicales de salariés représentatives au niveau national dans la branche des centres de lutte contre le cancer. Ces derniers ne peuvent siéger qu'en l'absence du ou des titulaires ;
+
+– un nombre de représentants désignés par la FNCLCC égal au nombre de représentants des organisations syndicales.
+
+La CPNEFP peut faire appel, si nécessaire, à des intervenants extérieurs.
+
+4.3.5.2.3.   Prise de décisions
+
+Lorsque la CPNEFP doit rendre un avis, cet avis est pris à la majorité des trois quarts des voix exprimées.
+
+Chaque organisation syndicale de salariés représentative au niveau national dans la branche dispose d'une voix.
+
+La FNCLCC dispose d'un nombre de voix égal au nombre de voix de l'ensemble des organisations syndicales de salariés représentatives au niveau national dans la branche.
+
+4.3.5.2.4.   Secrétariat
+
+Le secrétariat de la CPNEFP est assuré par la FNCLCC.
+
+À ce titre, elle est chargée, notamment, de la diffusion des convocations, des documents préparatoires à la réunion, de la réalisation du compte-rendu et de l'organisation matérielle de la réunion.
+
+4.3.5.2.5.   Groupes techniques paritaires emploi-formation
+
+La CPNEFP peut, en tant que de besoin, décider de créer un ou plusieurs groupes techniques paritaires restreints, à durée déterminée, traitant d'une thématique qu'elle définit dans le champ de l'emploi ou de la formation professionnelle.
+
+Ces groupes de travail paritaires restreints sont composés de deux représentants par organisation syndicale représentative au niveau de la branche et d'autant de représentants employeurs que de représentants pour l'ensemble des organisations syndicales représentatives.
+
+4.3.5.2.6.   Règlement intérieur
+
+La CPNEFP détermine son règlement intérieur, qui comporte notamment les modalités de fixation de l'ordre du jour, les délais et modalités de transmission des documents préparatoires et les modalités de validation des relevés de décisions de la CPNEFP et des éventuels groupes techniques paritaires. »
