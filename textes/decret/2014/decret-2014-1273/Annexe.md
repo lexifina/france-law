@@ -308,23 +308,29 @@ Article R. 512-37 |
 
 6 mois |
 
-Fixation des prescriptions de réhabilitation et des mesures de surveillance après la mise à l'arrêt définitif d'une ICPE soumise à autorisation (accord sur le mémoire proposé par l'exploitant) |
+Report de la réhabilitation après l'arrêt définitif d'une ICPE soumise à autorisation |
 
-II de l'article R. 512-39-3 |
+Article R. 512-39 |
 
-1 an |
+4 mois |
 
-Fixation des prescriptions de réhabilitation et des mesures de surveillance après la mise à l'arrêt définitif d'une ICPE soumise à enregistrement (accord sur le mémoire proposé par l'exploitant) |
+Report de la réhabilitation après l'arrêt définitif d''une ICPE soumise à enregistrement |
 
-II de l'article R. 512-46-28 |
+Article R. 512-46-24 bis |
 
-1 an |
+4 mois |
 
 Modification des prescriptions applicables à l'installation sur demande de l'exploitant d'une ICPE soumise à déclaration |
 
 Article R. 512-52 |
 
 3 mois |
+
+Substitution au tiers demandeur |
+
+Article L. 512-21, Article R. 512-76 |
+
+|
 
 Autorisation de changement d'exploitant pour les installations soumises à garanties financières par les 3° et 4° de l'article R. 516-1 |
 
@@ -1487,3 +1493,9 @@ Agrément des feux de balisage d'obstacles installés sur les éoliennes |
 Article 3.1 de l'annexe |
 
 |
+
+NOTA :
+
+Conformément à l'article 30 du décret n° 2021-1096 du 19 août 2021, ces dispositions entrent en vigueur le 1er juin 2022.
+
+Les cessations d'activité déclarées avant le 1er juin 2022 continuent d'être régies par les dispositions antérieures.
