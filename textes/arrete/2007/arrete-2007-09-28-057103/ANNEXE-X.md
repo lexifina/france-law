@@ -70,11 +70,7 @@ e) Une ou plusieurs pages concernant le déroulement de la formation. Le nombre 
 
 f) Le détail de la formation pratique : ces pages doivent reprendre in extenso l'annexe I de l'arrêté du 28 septembre 2007 à raison d'une page pour chacun des cinq thèmes ;
 
-g) Une page avec le titre Validation de l'examen théorique comportant les rubriques Validation de l'épreuve théorique de l'option côtière et Validation de l'épreuve théorique de l'option eaux intérieures , avec pour chacune les éléments suivants :
-
-- date et lieu de la session d'examen ;
-
-- nom de l'examinateur ou son cachet et visa ;
+g) (Supprimé) ;
 
 h) Une page détachable intitulée Attestation de réussite à la formation rédigée suivant ce modèle :
 
@@ -217,3 +213,7 @@ Signatures :
 Le formateur : Le candidat :
 
 Le chef d'établissement :
+
+NOTA :
+
+Conformément à l’article 8 de l’arrêté du 22 avril 2022 (NOR : MERM2211406A), ces dispositions entrent en vigueur le 1er juin 2022.
