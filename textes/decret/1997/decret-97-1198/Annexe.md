@@ -2600,13 +2600,11 @@ Ministre chargé du logement |
 
 19 |
 
-Décision d'attribution prise par le ministre chargé de l'urbanisme en vue de la cession au gré à gré des immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, par le fonds pour l'aménagement de l'Ile-de-France ou par le ministère chargé de l'urbanisme. |
+(Supprimée) |
 
-Code général de la propriété des personnes publiques
+(Supprimée) |
 
-Article R. 3211-28. |
-
-Ministre chargé de l'urbanisme |
+(Supprimée) |
 
 20 |
 
@@ -2807,3 +2805,7 @@ Décisions amiables d'indemnisation résultant de la mise en cause de la respons
 3 |
 
 Décisions relatives aux personnes morales placées sous la tutelle ou le contrôle de l'Etat autres que celles mentionnées au 3e de l'annexe au décret n° 97-1206 pris pour l'application à l'ensemble des ministères du premier alinéa de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles. |
+
+NOTA :
+
+Conformément à l’article 3 du décret n° 2022-797 du 11 mai 2022, ces dispositions entrent en vigueur le 1er juin 2022.
