@@ -1,0 +1,9 @@
+# Réponse à la question SEQ201018357
+
+- Question : [SEQ201018357](seq201018357.md) — Augmentation de la fiscalité sur l'essence
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-06-02, page 2811*
+
+Le projet de loi de finances pour 2021 proposait un alignement progressif sur deux années du tarif de taxe intérieure de consommation sur les produits énergétiques (TICPE) applicable à l'essence sans plomb SP 98/E5 et à l'essence SP 95/E10. Cette mesure ne constituait pas une hausse d'impôt, il s'agissait en réalité d'un alignement par le milieu des niveaux de taxation entre l'E5 et l'E10 commercialisés dans les mêmes quantités. En effet, dans la mesure où tous les véhicules sont compatibles avec l'essence E5, personne n'aurait été captif de la hausse de l'E10, qui se serait naturellement équilibrée avec la baisse de l'E5. Dès lors, cette mesure ne conduisait pas à une hausse de la fiscalité sur l'essence et ne générait aucune recette budgétaire. Cependant, sensible aux remarques faites, le Gouvernement a souhaité maintenir la différence de taxation entre l'E10 et l'E5. Plus globalement, il est rappelé que la préservation du pouvoir d'achat des ménages est une priorité pour le Gouvernement (le bouclier tarifaire mis en place, ainsi que le chèque énergie, remise de 15 ct - HT/l d'essence, pour faire fce à la hause du coût de l'énergie en est un exemple). Depuis la discussion du projet de loi de finances pour 2019, la fiscalité des carburants et notamment la composante carbone de la taxe intérieure sur la consommation de produits énergétiques, a ainsi été gelée. Contrairement aux cours du pétrole, les tarifs de la taxe intérieure de consommation sur les produits énergétiques (TICPE) et les taux de la taxe sur la valeur ajoutée (TVA) n'ont donc pas évolué. Pour cette raison, il a donné un avis favorable aux amendements allant en ce sens.
