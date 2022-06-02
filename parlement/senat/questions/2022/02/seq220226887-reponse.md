@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220226887
+
+- Question : [SEQ220226887](seq220226887.md) — Majorations fiscales en cas de retard dans la souscription d'une déclaration de succession
+
+## Réponse
+
+*Comptes publics, JO du 2022-06-02, page 2809*
+
+Conformément aux dispositions du 2 de l'article 1728 du CGI, la majoration de 10% prévue au 1 dudit article n'est applicable qu'à compter du 1er jour du 7ème mois suivant celui de l'expiration des délais de 6 et 24 mois prévus respectivement pour le dépôt des déclarations de succession lorsque celui dont on recueille la succession est décédé en France métropolitaine et pour les successions comportant des immeubles et droits immobiliers situés en Corse. Aucun autre cas d'assouplissement n'a été prévu par le législateur. En conséquence, en dehors des cas particuliers visés au 2 de l'article 1728 du CGI, la règle générale prévue au 1 du même article est applicable à toute déclaration "comportant l'indication d'éléments à retenir pour l'assiette" déposée hors délai. En l'absence de disposition prévoyant une exception, le principe prévu au 1 de l'article 1728 trouve donc à s'appliquer. Le dépôt tardif de la déclaration de succession d'une personne décédée à l'étranger, qui doit être enregistrée dans l'année suivant le décès en vertu de l'article 641 du CGI, est ainsi passible, outre l'intérêt de retard prévu à l'article 1727 du CGI, de la majoration visée à l'article 1728 dès le 1er jour du 13ème mois suivant celui du décès. Cette situation est conforme tant à la lettre qu'à l'esprit de cette disposition qui vise à tenir compte des difficultés que peuvent rencontrer, dans certains cas, les héritiers pour établir, dans le délai de six mois, la déclaration de succession. Or, les héritiers d'une personne décédée hors de France métropolitaine disposent d'un délai d'un an pour remplir leurs obligations.
