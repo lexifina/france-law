@@ -2,100 +2,62 @@
 
 CORPS DE CATÉGORIE A
 
-CAP n° 1 : personnels d'encadrement technique
+CAP n° 1 : Personnels d'encadrement technique de catégorie A
 
-Groupe unique
+Ingénieur général ; ingénieur en chef hors classe ; ingénieur hospitalier en chef de classe exceptionnelle ; ingénieur hospitalier en chef de classe normale ; ingénieur hospitalier.
 
-Sous-groupe unique : ingénieur général ; ingénieur en chef hors classe; ingénieur hospitalier en chef de classe exceptionnelle ; ingénieur hospitalier en chef de classe normale ; ingénieur hospitalier.
+CAP n° 2 : Personnels des corps de cadres de santé et de cadre socio-éducatif
 
-CAP n° 2 : personnels de catégorie A des services de soins,
+Infirmier de bloc opératoire cadre supérieur de santé (corps placé en voie d'extinction) ; infirmier anesthésiste cadre supérieur de santé (corps placé en voie d'extinction) ; puéricultrice cadre supérieur de santé (corps placé en voie d'extinction) ; infirmier cadre supérieur de santé (corps placé en voie d'extinction) ; technicien de laboratoire cadre supérieur de santé (corps placé en voie d'extinction) ; manipulateur d'électroradiologie médicale cadre supérieur de santé (corps placé en voie d'extinction) ; préparateur en pharmacie hospitalière cadre supérieur de santé (corps placé en voie d'extinction) ; masseur-kinésithérapeute cadre supérieur de santé (corps placé en voie d'extinction) ; ergothérapeute cadre supérieur de santé (corps placé en voie d'extinction) ; psychomotricien cadre supérieur de santé (corps placé en voie d'extinction) ; diététicien cadre supérieur de santé (corps placé en voie d'extinction) ; pédicure-podologue cadre supérieur de santé (corps placé en voie d'extinction) ; orthophoniste cadre supérieur de santé (corps placé en voie d'extinction) ; orthoptiste cadre supérieur de santé (corps placé en voie d'extinction) ; infirmier de bloc opératoire cadre de santé paramédical hors classe ; infirmier anesthésiste cadre de santé paramédical hors classe ; puéricultrice cadre de santé paramédical hors classe ; infirmier cadre de santé paramédical hors classe ; technicien de laboratoire cadre de santé paramédical hors classe ; manipulateur d'électroradiologie cadre de santé paramédical hors classe ; préparateur en pharmacie hospitalière cadre de santé paramédical hors classe ; masseur-kinésithérapeute cadre de santé paramédical hors classe ; ergothérapeute cadre de santé paramédical hors classe ; psychomotricien cadre de santé paramédical hors classe ; diététicien cadre de santé paramédical hors classe ; pédicure-podologue cadre de santé paramédical hors classe ; orthophoniste cadre de santé paramédical hors classe ; orthoptiste cadre de santé paramédical hors classe ; infirmier de bloc opératoire cadre supérieur de santé paramédical ; infirmier anesthésiste cadre supérieur de santé paramédical ; puéricultrice cadre supérieur de santé paramédical ; infirmier cadre supérieur de santé paramédical ; technicien de laboratoire cadre supérieur de santé paramédical ; manipulateur d'électroradiologie cadre supérieur de santé paramédical ; préparateur en pharmacie hospitalière cadre supérieur de santé paramédical ; masseur-kinésithérapeute cadre supérieur de santé paramédical ; ergothérapeute cadre supérieur de santé paramédical ; psychomotricien cadre supérieur de santé paramédical ; diététicien cadre supérieur de santé paramédical ; pédicure-podologue cadre supérieur de santé paramédical ; orthophoniste cadre supérieur de santé paramédical ; orthoptiste cadre supérieur de santé paramédical ; cadre socio-éducatif de classe exceptionnelle ; cadre supérieur socio-éducatif ; infirmier de bloc opératoire cadre de santé (corps placé en voie d'extinction) ; infirmier anesthésiste cadre de santé (corps placé en voie d'extinction) ; puéricultrice cadre de santé (corps placé en voie d'extinction) ; infirmier cadre de santé (corps placé en voie d'extinction) ; technicien de laboratoire cadre de santé (corps placé en voie d'extinction) ; manipulateur d'électroradiologie médicale cadre de santé (corps placé en voie d'extinction) ; préparateur en pharmacie hospitalière cadre de santé (corps placé en voie d'extinction) ; masseur-kinésithérapeute cadre de santé (corps placé en voie d'extinction) ; ergothérapeute cadre de santé (corps placé en voie d'extinction) ; psychomotricien cadre de santé (corps placé en voie d'extinction) ; diététicien cadre de santé (corps placé en voie d'extinction) ; pédicure-podologue cadre de santé (corps placé en voie d'extinction) ; orthophoniste cadre de santé (corps placé en voie d'extinction) ; orthoptiste cadre de santé (corps placé en voie d'extinction) ; infirmier de bloc opératoire cadre de santé paramédical ; infirmier anesthésiste cadre de santé paramédical ; puéricultrice cadre de santé paramédical ; infirmier cadre de santé paramédical ; technicien de laboratoire cadre de santé paramédical ; manipulateur d'électroradiologie cadre de santé paramédical ; préparateur en pharmacie hospitalière cadre de santé paramédical ; masseur-kinésithérapeute cadre de santé paramédical ; ergothérapeute cadre de santé paramédical ; psychomotricien cadre de santé paramédical ; diététicien cadre de santé paramédical ; pédicure-podologue cadre de santé paramédical ; orthophoniste cadre de santé paramédical ; orthoptiste cadre de santé paramédical ; cadre socio-éducatif.
 
-médico-techniques, de rééducation et des services sociaux
+CAP n° 3 : Personnels des corps infirmiers de catégorie A
 
-Groupe unique
+Auxiliaire médical exerçant en pratique avancée de classe supérieure ; auxiliaire médical exerçant en pratique avancée de classe normale ; infirmier anesthésiste de classe supérieure (corps placé en voie d'extinction) ; infirmier de bloc opératoire de classe supérieure (corps placé en voie d'extinction) ; puéricultrice de classe supérieure (corps placé en voie d'extinction) ; infirmier anesthésiste de classe normale (corps placé en voie d'extinction) ; infirmier de bloc opératoire de classe normale (corps placé en voie d'extinction) ; puéricultrice de classe normale (corps placé en voie d'extinction) ; infirmier en soins généraux et spécialisés de troisième grade ; infirmier en soins généraux et spécialisés de deuxième grade ; infirmier en soins généraux et spécialisés de premier grade ; infirmiers anesthésistes de deuxième grade ; infirmiers anesthésistes de premier grade.
 
-Sous-groupe 1 : infirmier de bloc opératoire cadre supérieur de santé ; infirmier anesthésiste cadre supérieur de santé ; puéricultrice cadre supérieur de santé ; infirmier cadre supérieur de santé ; technicien de laboratoire cadre supérieur de santé ; manipulateur d'électroradiologie médicale cadre supérieur de santé ; préparateur en pharmacie hospitalière cadre supérieur de santé ; masseur-kinésithérapeute cadre supérieur de santé ; ergothérapeute cadre supérieur de santé ; psychomotricien cadre supérieur de santé ; diététicien cadre supérieur de santé ; pédicure-podologue cadre supérieur de santé ; orthophoniste cadre supérieur de santé ; orthoptiste cadre supérieur de santé ; infirmier de bloc opératoire cadre supérieur de santé paramédical ; infirmier anesthésiste cadre supérieur de santé paramédical ; puéricultrice cadre supérieur de santé paramédical ; infirmier cadre supérieur de santé paramédical ; technicien de laboratoire cadre supérieur de santé paramédical ; manipulateur d'électroradiologie cadre supérieur de santé paramédical ; préparateur en pharmacie hospitalière cadre supérieur de santé paramédical ; masseur-kinésithérapeute cadre supérieur de santé paramédical ; ergothérapeute cadre supérieur de santé paramédical ; psychomotricien cadre supérieur de santé paramédical ; diététicien cadre supérieur de santé paramédical ; pédicure-podologue cadre supérieur de santé paramédical ; orthophoniste cadre supérieur de santé paramédical ; orthoptiste cadre supérieur de santé paramédical ; cadre socio-éducatif de classe exceptionnelle ; cadre supérieur socio-éducatif ; infirmier de bloc opératoire cadre de santé ; infirmier anesthésiste cadre de santé ; puéricultrice cadre de santé ; infirmier cadre de santé ; technicien de laboratoire cadre de santé ; manipulateur d'électroradiologie médicale cadre de santé ; préparateur en pharmacie hospitalière cadre de santé ; masseur-kinésithérapeute cadre de santé ; ergothérapeute cadre de santé ; psychomotricien cadre de santé ; diététicien cadre de santé ; pédicure-podologue cadre de santé ; orthophoniste cadre de santé ; orthoptiste cadre de santé ; infirmier de bloc opératoire cadre de santé paramédical ; infirmier anesthésiste cadre de santé paramédical ; puéricultrice cadre de santé paramédical ; infirmier cadre de santé paramédical ; technicien de laboratoire cadre de santé paramédical ; manipulateur d'électroradiologie cadre de santé paramédical ; préparateur en pharmacie hospitalière cadre de santé paramédical ; masseur-kinésithérapeute cadre de santé paramédical ; ergothérapeute cadre de santé paramédical ; psychomotricien cadre de santé paramédical ; diététicien cadre de santé paramédical ; pédicure-podologue cadre de santé paramédical ; orthophoniste cadre de santé paramédical ; orthoptiste cadre de santé paramédical ; cadre socio-éducatif ; auxiliaire médical exerçant en pratique avancée de classe supérieure, auxiliaire médical exerçant en pratique avancée de classe normale.
+CAP n° 4 : Personnels des corps de rééducation, médico-techniques et socio-éducatifs de catégorie A
 
-Sous-groupe 2 : psychologue hors classe ; psychologue de classe normale.
+Ergothérapeute de classe supérieure ; pédicure-podologue de classe supérieure ; masseur-kinésithérapeute de classe supérieure ; psychomotricien de classe supérieure ; orthophoniste de classe supérieure ; orthoptiste de classe supérieure ; diététicien de classe supérieure ; manipulateur d'électroradiologie médicale de classe supérieure ; technicien de laboratoire de classe supérieure ; préparateur en pharmacie hospitalière de classe supérieure ; ergothérapeute de classe normale ; pédicure podologue de classe normale ; masseur-kinésithérapeute de classe normale ; psychomotricien de classe normale ; orthophoniste de classe normale ; orthoptiste de classe normale ; diététicien de classe normale ; manipulateur d'électroradiologie médicale de classe normale ; technicien de laboratoire de classe normale ; préparateur en pharmacie hospitalière de classe normale ; assistant socio-éducatifs du premier grade ; conseiller en économie sociale et familiale du premier grade ; éducateurs techniques spécialisés du premier grade ; éducateurs de jeunes enfants du premier grade ; assistants socio-éducatifs du second grade ; conseillers en économie sociale et familiale du second grade ; éducateurs techniques spécialisés du second grade ; éducateurs de jeunes enfants du second grade.
 
-Sous-groupe 3 : infirmier anesthésiste de classe supérieure (cadre d'extinction) ; infirmier de bloc opératoire de classe supérieure (cadre d'extinction) ; puéricultrice de classe supérieure (cadre d'extinction) ; infirmier anesthésiste de classe normale (cadre d'extinction) ; infirmier de bloc opératoire de classe normale (cadre d'extinction), puéricultrice de classe normale (cadre d'extinction), infirmier en soins généraux et spécialisés de quatrième grade ; ergothérapeute de classe supérieure ; ergothérapeute de classe normale ; manipulateurs d'électroradiologie médicale de classe supérieure ; manipulateurs d'électroradiologie médicale de classe normale ; pédicures-podologues de classe supérieure ; pédicures podologues de classe normale ; masseurs-kinésithérapeutes de classe supérieure ; masseurs-kinésithérapeutes de classe normale ; psychomotricien de classe supérieure ; psychomotricien de classe normale ; orthophonistes de classe supérieure ; orthophonistes de classe normale ; orthoptistes de classe supérieure ; orthoptistes de classe normale, infirmier en soins généraux et spécialisés de troisième grade, infirmier en soins généraux et spécialisés de deuxième grade, infirmier en soins généraux et spécialisés de premier grade, conseillers en économie sociale et familiale du second grade, conseillers en économie sociale et familiale du premier grade ; éducateurs techniques spécialisés du second grade, éducateurs techniques spécialisés du premier grade ; éducateurs de jeunes enfants du second grade, éducateurs de jeunes enfants du premier grade ; assistants socio-éducatifs du second grade, assistants socio-éducatifs du premier grade.
+CAP n° 5 : Personnels sages-femmes
 
-CAP n° 3 : personnels d'encadrement administratif
+Sage-femme des hôpitaux du 1er grade ; sage-femme des hôpitaux du 2nd grade.
 
-Groupe unique
+CAP n° 6 : Personnels psychologues
 
-Sous-groupe unique : attaché d'administration hospitalière hors classe ; attaché principal d'administration hospitalière ; attaché d'administration hospitalière.
+Psychologue hors classe ; psychologue de classe normale.
+
+CAP n° 7 : Personnels d'encadrement administratif de catégorie A
+
+Attaché d'administration hospitalière hors classe ; attaché principal d'administration hospitalière ; attaché d'administration hospitalière.
 
 CORPS DE CATÉGORIE B
 
-CAP n° 4 : personnels d'encadrement technique
+CAP n° 8 : Personnels d'encadrement technique de catégorie B
 
-Groupe unique :
+Technicien supérieur hospitalier de 1re classe ; technicien supérieur hospitalier de 2e classe ; technicien hospitalier.
 
-Sous-groupe unique : techniciens hospitaliers, techniciens supérieurs hospitaliers de 2e classe, techniciens supérieurs hospitaliers de 1re classe.
+CAP n° 9 : Personnels infirmiers, de rééducation, médico-techniques et socio-éducatifs de catégorie B
 
-CAP n° 5 : personnels infirmiers
+Infirmier de classe supérieure (corps placé en voie d'extinction) ; infirmier de classe normale (corps placé en voie d'extinction) ; pédicure-podologue de classe supérieure (corps placé en voie d'extinction) ; masseur-kinésithérapeute de classe supérieure (corps placé en voie d'extinction) ; ergothérapeute de classe supérieure (corps placé en voie d'extinction) ; psychomotricien de classe supérieure (corps placé en voie d'extinction) ; orthophoniste de classe supérieure (corps placé en voie d'extinction) ; orthoptiste de classe supérieure (corps placé en voie d'extinction) ; pédicure-podologue de classe normale (corps placé en voie d'extinction) ; masseur-kinésithérapeute de classe normale (corps placé en voie d'extinction) ; ergothérapeute de classe normale (corps placé en voie d'extinction) ; psychomotricien de classe normale (corps placé en voie d'extinction) ; orthophoniste de classe normale (corps placé en voie d'extinction) ; orthoptiste de classe normale (corps placé en voie d'extinction) ; manipulateur d'électroradiologie médicale de classe supérieure (corps placé en voie d'extinction) ; manipulateur d'électroradiologie médicale de classe normale (corps placé en voie d'extinction) ; technicien en physiologie (corps placé en voie d'extinction) ; animateur ; moniteur-éducateur.
 
-Groupe unique
+CAP n° 10 : Personnels aides-soignants et auxiliaires de puériculture de catégorie B
 
-Sous-groupe unique : infirmier de classe supérieure (cadre d'extinction) ; infirmier de classe normale (cadre d'extinction).
+Aide-soignant de classe supérieure ; auxiliaire de puériculture de classe supérieure ; aide-soignant de classe normale ; auxiliaire de puériculture de classe normale.
 
-CAP n° 6 : personnels médico-techniques
+CAP n° 11 : Personnels d'encadrement administratif et des assistants médico-administratifs de catégorie B
 
-Groupe unique
-
-Sous-groupe unique : technicien de laboratoire médical de classe supérieure ; manipulateur d'électroradiologie médicale de classe supérieure ; préparateur en pharmacie hospitalière de classe supérieure ; technicien de laboratoire médical de classe normale ; manipulateur d'électroradiologie médicale de classe normale ; préparateur en pharmacie hospitalière de classe normale ; technicien en physiologie de classe normale (cadre d'extinction).
-
-CAP n° 7 : personnels de rééducation
-
-Groupe unique
-
-Sous-groupe unique : pédicure-podologue de classe supérieure ; masseur-kinésithérapeute de classe supérieure ; ergothérapeute de classe supérieure (cadre d'extinction) ; psychomotricien de classe supérieure ; orthophoniste de classe supérieure ; orthoptiste de classe supérieure ; diététicien de classe supérieure ; pédicure-podologue de classe normale ; masseur-kinésithérapeute de classe normale ; ergothérapeute de classe normale (cadre d'extinction) ; psychomotricien de classe normale ; orthophoniste de classe normale ; orthoptiste de classe normale ; diététicien de classe normale.
-
-CAP n° 8 : personnels socio-éducatifs
-
-Groupe unique
-
-Sous-groupe unique : assistant socio-éducatif ; conseiller en économie sociale et familiale ; éducateur de jeunes enfants de classe normale ; moniteur-éducateur principal ; animateur principal de 1re classe ; animateur principal de 2e classe ; assistant socio-éducatif ; conseiller en économie sociale et familiale ; éducateur de jeunes enfants de classe normale ; animateur ; moniteur-éducateur.
-
-CAP n° 9 : personnels d'encadrement administratif et des assistants médico-administratifs
-
-Groupe unique
-
-Sous-groupe unique : adjoint des cadres hospitaliers de classe exceptionnelle ; assistant médico-administratif de classe exceptionnelle ; adjoint des cadres hospitaliers de classe supérieure ; assistant médico-administratif de classe supérieure ; adjoint des cadres hospitaliers de classe normale ; assistant médico-administratif de classe normale.
+Adjoint des cadres hospitaliers de classe exceptionnelle ; assistant médico-administratif de classe exceptionnelle ; adjoint des cadres hospitaliers de classe supérieure ; assistant médico-administratif de classe supérieure ; adjoint des cadres hospitaliers de classe normale ; assistant médico-administratif de classe normale.
 
 CORPS DE CATÉGORIE C
 
-CAP n° 10 : personnels techniques et ouvriers
+CAP n° 12 : Personnels techniques et ouvriers de catégorie C
 
-Groupe unique
+Agent de maîtrise principal ; agent technique spécialisé principal ; ouvrier principal de 1re classe ; conducteur ambulancier principal ; blanchisseur principal de 1re classe ; agent de maîtrise ; ouvrier principal de 2e classe ; blanchisseur principal de 2e classe ; conducteur ambulancier ; agent technique spécialisé ; agent d'entretien qualifié ; blanchisseur ; prothésiste dentaire (corps placé en voie d'extinction) ; chauffeur installateur de collecte (corps placé en voie d'extinction).
 
-Sous-groupe unique : agent de maîtrise principal ; agent technique spécialisé principal ; ouvrier principal de 1re classe ; conducteur ambulancier principal ; blanchisseur principal de 1re classe ; agent de maîtrise ; ouvrier principal de 2e classe ; blanchisseur principal de 2e classe ; conducteur ambulancier ; agent technique spécialisé ; agent d'entretien qualifié ; blanchisseur ; prothésiste dentaire (cadre d'extinction) ; chauffeur installateur de collecte (cadre d'extinction).
+CAP n° 13 : personnels des services de soins, des services médico-techniques et des services sociaux de catégorie C
 
-CAP n° 11 : personnels des services de soins,
+Accompagnant éducatif et social principal ; accompagnant éducatif et social ; aide-préparateur (corps placé en voie d'extinction) ; aide technique d'électroradiologie (corps placé en voie d'extinction) ; moniteur d'atelier (corps placé en voie d'extinction) ; agent des services hospitaliers qualifié de classe supérieure ; agent des services hospitaliers qualifié de classe normale ; aide de pharmacie de classe supérieure (corps placé en voie d'extinction) ; aide de laboratoire de classe normale (corps placé en voie d'extinction) ; aide de laboratoire de classe supérieure (corps placé en voie d'extinction) ; préleveur (corps placé en voie d'extinction).
 
-des services médico-techniques et des services sociaux
+CAP n° 14 : Personnels administratifs de catégorie C
 
-Groupe unique
-
-Sous-groupe unique : aide-soignant principal ; auxiliaire de puériculture principal ; aide médico-psychologique principal ; aide-soignant ; auxiliaire de puériculture ; aide médico-psychologique ; aide-préparateur (cadre d'extinction) ; aide technique d'électroradiologie (cadre d'extinction) ; moniteur d'atelier (cadre d'extinction).
-
-CAP n° 12 : personnels des services de soins
-
-et des services médico-techniques autres que ceux composant la CAP n° 11
-
-Groupe unique
-
-Sous-groupe unique : agent des services hospitaliers qualifié de classe supérieure ; agent des services hospitaliers qualifié de classe normale ; aide de pharmacie de classe supérieure (cadre d'extinction) ; aide de laboratoire de classe normale (cadre d'extinction) ; aide de laboratoire de classe supérieure (cadre d'extinction) ; préleveur (cadre d'extinction).
-
-CAP n° 13 : personnels administratifs
-
-Groupe unique
-
-Sous-groupe unique : adjoint administratif principal de 1re classe ; permanencier auxiliaire de régulation médicale de 1re classe (cadre d'extinction) ; adjoint administratif principal de 2e classe ; permanencier auxiliaire de régulation médicale de 2e classe (cadre d'extinction) ; adjoint administratif ; inspecteur de service intérieur et du matériel de classe exceptionnelle de l'Assistance publique-hôpitaux de Paris (cadre d'extinction).
-
-CAP n° 14 : Personnels sages-femmes
-
-Groupe unique
-
-Sous-groupe unique : sage-femme des hôpitaux du 2e grade, sage-femme des hôpitaux du 1er grade.
+Adjoint administratif principal de 1re classe ; permanencier auxiliaire de régulation médicale de 1re classe (corps placé en voie d'extinction) ; adjoint administratif principal de 2e classe ; permanencier auxiliaire de régulation médicale de 2e classe (corps placé en voie d'extinction) ; adjoint administratif ; inspecteur de service intérieur et du matériel de classe exceptionnelle de l'Assistance publique-hôpitaux de Paris (corps placé en voie d'extinction).
