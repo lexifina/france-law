@@ -4,10 +4,6 @@ Lorsque plusieurs organisations syndicales affiliées à une même union de synd
 
 Si, après l'expiration de ce dernier délai, ces modifications ou retraits de liste ne sont pas intervenus, le directeur général du Centre national de gestion informe dans un délai de trois jours l'union des syndicats dont les listes se réclament. Celle-ci dispose alors d'un délai de cinq jours pour indiquer au centre national de gestion, par tout moyen conférant date certaine, la liste qui pourra se prévaloir de l'appartenance à l'union pour l'application du présent décret.
 
-En l'absence de cette indication, les organisations syndicales ayant déposé les listes en cause ne peuvent bénéficier des dispositions du 2° du I de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et ne peuvent se prévaloir de l'appartenance à une union pour l'application du troisième alinéa de l'article 14 du présent décret.
+En l'absence de cette indication, les organisations syndicales ayant déposé les listes en cause ne peuvent bénéficier des dispositions du 2° de l'article L. 211-1 du code général de la fonction publique et ne peuvent se prévaloir de l'appartenance à une union pour l'application du troisième alinéa de l'article 14 du présent décret.
 
-Lorsque la recevabilité d'une des listes n'est pas reconnue par le directeur général du Centre national de gestion, la procédure décrite ci-dessus est mise en œuvre dans un délai de trois jours à compter de la notification du jugement du tribunal administratif lorsque celui-ci est saisi d'une contestation de la décision du directeur général en application du I de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
-
-NOTA :
-
-Conformément à l'article 52 du décret n° 2017-1201 du 27 juillet 2017, ces dispositions sont applicables au prochain renouvellement général des instances de représentation du personnel de la fonction publique. Les élections se sont déroulées le 6 décembre 2018.
+Lorsque la recevabilité d'une des listes n'est pas reconnue par le directeur général du Centre national de gestion, la procédure décrite ci-dessus est mise en œuvre dans un délai de trois jours à compter de la notification du jugement du tribunal administratif lorsque celui-ci est saisi d'une contestation de la décision du directeur général en application de l'article L. 211-1 du même code.
