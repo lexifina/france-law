@@ -4,13 +4,11 @@ ANNEXE 6
 
 MONTANT ANNUEL DE L'INDEMNITÉ FORFAITAIRE DES MEMBRES NE SE CONSACRANT PAS À TEMPS PLEIN À LEUR MANDAT
 
-AAI/API |
+AAI/ API |
 
 Bénéficiaires |
 
-Montant de l'indemnité
-
-forfaitaire |
+Montant de l'indemnité forfaitaire |
 
 Agence française de lutte contre le dopage |
 
@@ -56,14 +54,6 @@ Président suppléant |
 
 5 400 € |
 
-AAI/API |
-
-Bénéficiaires |
-
-Montant de l'indemnité
-
-forfaitaire |
-
 Commission du secret de la défense nationale |
 
 Président de l'autorité |
@@ -99,6 +89,12 @@ Président de la formation restreinte, vice-président délégué et personnalit
 Vice-président |
 
 3 600 € |
+
+Haut conseil du commissariat aux comptes |
+
+Président de la formation restreinte |
+
+25 000 € |
 
 Médiateur national de l'énergie |
 
