@@ -1,5 +1,7 @@
 # Article Annexe I
 
+ANNEXE I
+
 LISTE DES EMPLOIS DU MINISTÈRE DE L'INTÉRIEUR OUVRANT DROIT AU BÉNÉFICE DE L'INDEMNITÉ TEMPORAIRE DE MOBILITÉ
 
 1. Secrétariat général pour l'administration du ministère de l'intérieur Sud
@@ -3119,7 +3121,3 @@ C |
 8 000 |
 
 1 |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 11 février 2022 (NOR : INTA2204912A), ces dispositions entrent en vigueur le 1er janvier 2022.
