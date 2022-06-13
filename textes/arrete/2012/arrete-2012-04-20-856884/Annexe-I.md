@@ -256,6 +256,8 @@ QUESTIONS ADMINISTRATIVES
 
 103. Limité aux véhicules effectuant des services réguliers nationaux de voyageurs dont le parcours de ligne ne dépasse pas 50 kilomètres pour les titulaires de la catégorie D qui n'ont pas atteint l'âge de 23 ans et dont la qualification initiale a été obtenue à l'issue d'une formation professionnelle accélérée (FIMO).
 
+104. Soumis aux limitations énumérées aux 2° et 3° de l'article R. 3314-4 du code des transports jusqu'à ce que le titulaire de la catégorie atteigne l'âge de 21 ans.
+
 105. Dispense du I de l'article R. 413-5, premier alinéa.
 
 106. Soumis à l'application du I de l'article R. 413-5 du.../.../... au.../.../...
