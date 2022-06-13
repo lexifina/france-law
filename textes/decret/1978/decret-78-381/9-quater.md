@@ -1,6 +1,6 @@
 # Article 9 quater
 
-Le présent décret est applicable dans les îles Wallis et Futuna dans sa rédaction issue du décret n° 2019-913 du 30 août 2019.
+Le présent décret est applicable dans les îles Wallis et Futuna dans sa rédaction issue du décret n° 2022-880 du 10 juin 2022.
 
 NOTA :
 
