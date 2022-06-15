@@ -19,3 +19,5 @@ Les délégués du personnel seront informés par écrit des prévisions de la d
 En conséquence, afin de favoriser la vie familiale des salariés, les 5 jours ouvrés restants (ou 6 jours ouvrables) ― soit la 5e semaine ― seront pris pendant la période du 1er novembre au 31 mai et pour les salariés qui en feront la demande pendant une période de congés scolaires (Noël, février, Pâques).
 
 Le personnel appelé pendant ses congés à rejoindre son lieu de travail le fera aux frais de son employeur. Le retour au lieu de congé se fera dans les mêmes conditions.
+
+Les employeurs déclarent à la caisse de congés payés le personnel artistique et technique qu'ils n'ont pas employé de façon continue pendant les douze mois précédant la demande de congé en application de l'article D. 7121-41. Ils s'acquittent de leurs obligations vis-à-vis de ces personnels en versant la cotisation prévue aux articles D. 7121-35 et D. 7121-44 du code du travail.
