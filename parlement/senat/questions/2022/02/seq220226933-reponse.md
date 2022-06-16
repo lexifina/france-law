@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220226933
+
+- Question : [SEQ220226933](seq220226933.md) — Frais d'expédition de livres à l'étranger
+
+## Réponse
+
+*Culture, JO du 2022-06-16, page 2951*
+
+L'envoi de livres au départ de la France métropolitaine, tant par les professionnels que par les particuliers, bénéficie d'un tarif « Livres et brochures » avantageux, afin de concourir au rayonnement de la culture française dans le monde. Il s'agit d'une offre libre proposée par le Groupe La Poste qui ne résulte d'aucune obligation juridique au titre du service universel postal. L'objectif du Groupe est de maintenir un service économique tout en continuant l'effort de réduction du déficit engendré par cette offre qu'il supporte intégralement. Il n'est pas envisagé d'instaurer un tarif postal préférentiel pour les envois de livres à l'étranger par les librairies spécialisées : le droit de la concurrence contraint dans une large mesure la possibilité pour La Poste de mettre en place des offres préférentielles ciblées à des coûts inférieurs aux coûts de marché, en dehors du cadre d'une mission de service public confiée par l'État. Or élargir ces missions est très difficilement envisageable au regard de la dégradation structurelle de l'équilibre financier du service public postal dans un contexte de numérisation accélérée des échanges. En outre, la compatibilité d'une mission de service public avec le droit de l'Union européenne supposerait le constat d'une carence sur le marché du colis vers l'international : étant donné que plusieurs entreprises, outre La Poste, proposent des services sur ce marché, cette condition ne serait pas remplie. Enfin, il doit être souligné que l'État soutient également le réseau des librairies francophones à l'étranger, via des aides du Centre national du livre et un soutien au transport d'ouvrages, ces établissements physiques concourant de manière cruciale à la présence du livre français hors des frontières françaises.
