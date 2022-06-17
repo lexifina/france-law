@@ -6,7 +6,7 @@ RÈGLEMENT GÉNÉRAL DES SESSIONS D'EXAMEN EN VUE DE L'OBTENTION D'UN OU PLUSIEU
 
 1. Programmation des sessions d'examen
 
-Le centre AFPA agréé transmet au représentant territorial compétent du ministère chargé de l'emploi, sous la forme requise par celle-ci, trois mois avant le déroulement de la session d'examen, les informations suivantes :
+Le centre AFPA agréé transmet au représentant territorial compétent du ministère chargé de l'emploi, sous la forme requise par celui-ci, trois mois avant le déroulement de la session d'examen, les informations suivantes :
 
 1° Les dates de début et de fin de la session d'examen ;
 
@@ -40,7 +40,7 @@ Le centre AFPA agréé convoque les membres du jury dûment habilités, conform�
 
 3. Déroulement des épreuves
 
-Avant le début de la session d'examen, le responsable de session s'assure qu'au moins deux membres du jury habilités, comprenant un professionnel et un membre issu d'une organisation syndicale représentative au niveau national, sont présents pour évaluer les candidats. Dans le cas contraire, la session d'examen est reportée. Le responsable de la session d'examen consigne cette information dans le procès-verbal général.
+Avant le début de la session d'examen, le responsable de session s'assure qu'au moins deux membres du jury habilités, comprenant un professionnel et un membre issu d'une organisation syndicale représentative au niveau national et interprofessionnel, sont présents pour évaluer les candidats. Dans le cas contraire, la session d'examen est reportée. Le responsable de la session d'examen consigne cette information dans le procès-verbal général.
 
 Avant chaque épreuve, le responsable de session vérifie l'identité de chacun des candidats, constate les absences éventuelles et en informe le jury. Ces absences sont consignées par le responsable de session dans le procès-verbal général et les procès-verbaux individuels de session d'examen.
 
