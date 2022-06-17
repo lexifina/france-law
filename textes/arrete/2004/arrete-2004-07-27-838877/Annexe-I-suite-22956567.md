@@ -1076,6 +1076,10 @@ Défaillance majeure si l'essieu n'est pas directeur
 
 |
 
+Dans le cas d'un véhicule réceptionné suivant la directive 2007/46/ CEE ou le règlement (UE) 2018/858 de base en catégorie N puis en multi-étapes en catégorie M1, de genre “ VASP ” et de carrosserie “ CARAVANE ”, “ AMBULANC ” ou “ FG FUNER ”, les seuils d'efficacité de freinage requis sont ceux applicables au véhicule de catégorie N ayant servi de base à la transformation.
+
+Dans ce cas, la personne présentant le véhicule au contrôle technique fournit un document attestant de la catégorie du véhicule ayant servi de base à la transformation. Une copie de ce document est archivée avec le duplicata du procès-verbal. Le contrôleur saisit le commentaire “ Véhicule M1/ VASP/ CARAVANE ou AMBULANC ou FG FUNER réceptionné en multi-étapes, seuils d'efficacité de freinage adaptés.
+
 F. 2. Prescriptions relatives aux véhicules électriques ou hybrides
 
 a) Continuité de masse pour les véhicules rechargeables
@@ -1122,4 +1126,4 @@ F. 4.13. Véhicules pour le transport de vitrages. "
 
 NOTA :
 
-Conformément à l’article 8 de l’arrêté du 19 juin 2020 (NOR : TRER2016056A), les présentes dispositions entrent en vigueur à compter du 27 août 2020.
+Conformément à l’article 13 de l’arrêté du 10 mai 2022 (TRER2213952A), les présentes dispositions entrent en vigueur un mois après la publication de l'arrêté.

@@ -32,6 +32,8 @@ Les installations de contrôle comprennent également :
 
 - un dispositif de contrôle de l'usure des pneumatiques ;
 
+- un équipement permettant l'introduction de la sonde du dispositif de mesure de l'opacité des fumées en présence d'un échappement vertical ;
+
 - des équipements permettant la communication par radio entre le contrôleur et le conducteur.
 
 En complément des équipements précités, le centre peut également être équipé d'un appareil de mesure de la transparence des vitres.
@@ -60,7 +62,7 @@ Les étalonnages prévus par les cahiers des charges relatifs aux matériels son
 
 - d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
 
-Le matériel visé au point 5 du point A de la présente annexe fait l'objet d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
+Les matériels visés aux points 3 et 5 du point A de la présente annexe fait l'objet d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
 
 Le matériel visé au point 6 du point A de la présente annexe fait l'objet d'un étalonnage par année civile (vérification et, si nécessaire, ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas quatorze mois.
 
@@ -68,7 +70,7 @@ Le matériel visé au point 7 du point A de la présente annexe fait l'objet d'u
 
 Les opérations d'étalonnage et de maintenance préventive font l'objet d'un contrat avec un organisme habilité ou agréé pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles. Le contrat comporte un engagement de respect des échéances réglementaires concernant les opérations concernées et un engagement à ne faire intervenir que des personnels qualifiés pour les matériels concernés.
 
-3. Les matériels prévus aux points 1, 2, 4, 5 et 6 font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné, dans le respect de l'approbation métrologique le cas échéant. Cette disposition est formalisée par un contrat de maintenance.
+3. Les matériels prévus aux points 1, 2, 4, 5 et 6 du point A de la présente annexe font l'objet, lors des opérations de maintenances préventives, des mises à niveau de la partie logiciel de l'appareil concerné, dans le respect de l'approbation métrologique le cas échéant. Cette disposition est formalisée par un contrat de maintenance.
 
 4. Des cahiers des charges établis par l'organisme technique central et approuvés par le ministre chargé des transports définissent les conditions d'habilitation des organismes et de qualification des intervenants.
 
@@ -241,3 +243,7 @@ Dans le cas où les essais de freinage sont réalisés avec un décéléromètre
 - une zone de freinage d'au moins 100 mètres droite, horizontale et à la surface dure et présentant un bon coefficient d'adhérence (béton de ciment ou enrobé bitumineux par exemple).
 
 En dehors des zones privées appartenant à l'installation, l'autorisation des autorités compétentes ou du propriétaire est disponible. Dans tous les cas, les essais sont réalisés en toute sécurité.
+
+NOTA :
+
+Conformément à l’article 13 de l’arrêté du 10 mai 2022 (TRER2213952A), les dispositions des articles 4, 6, 8 et 11, du 3° de l'article 5, du 5° de l'article 7 entrent en vigueur un mois après la publication de l'arrêté.
