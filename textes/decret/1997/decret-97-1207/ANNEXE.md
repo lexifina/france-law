@@ -382,11 +382,11 @@ Code des douanes de l'Union européenne et ses dispositions d'application : règ
 
 |
 
-Décisions en matière de renseignement tarifaire contraignant en matière d'origine.
+Supprimée
 
 |
 
-Articles 33 et 34, paragraphes 4, 5, 7, 8 et 11 du code des douanes de l'Union européenne et ses dispositions d'application.
+Supprimée
 
 |
 
@@ -394,11 +394,11 @@ Articles 33 et 34, paragraphes 4, 5, 7, 8 et 11 du code des douanes de l'Union e
 
 |
 
-Autorisation d'utilisation prolongée d'un renseignement contraignant en matière d'origine ayant cessé d'être valable ou révoqué.
+Supprimée
 
 |
 
-Paragraphe 9 de l'article 34 du code.
+Supprimée
 
 |
 

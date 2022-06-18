@@ -22,15 +22,15 @@ h) Accord, refus, modification, suspension, abrogation et retrait d'autorisation
 
 i) Accord, refus, modification, suspension, abrogation et retrait d'autorisation de transfert intracommunautaire d'explosifs civils à l'introduction, en application des articles L. 2352-1, R. 2352-26 et R. 2352-28 ;
 
-j) Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'introduction de produits explosifs civils non marqués CE, en application des articles L. 2352-1 et R. 2352-30 ;
+j) Accord, refus, modification, suspension, abrogation et retrait d'autorisation individuelle d'importation et d'autorisation globale d'importation de produits explosifs civils non marqués CE, en application des articles L. 2352-1, R. 2352-30 et R. 2352-31-1 ;
 
-k) Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'importation de produits explosifs civils et articles pyrotechniques, en application des articles L. 2352-1 et R. 2352-31 ;
+k) Accord, refus, modification, suspension, abrogation et retrait d'autorisation individuelle d'importation et d'autorisation globale d'importation de produits explosifs civils et articles pyrotechniques, en application des articles L. 2352-1, R. 2352-31 et R. 2352-31-1 ;
 
 l) Accord, refus, modification, suspension, abrogation et retrait d'autorisation de transfert intracommunautaire d'explosifs civils à l'expédition, en application des articles L. 2352-1, R. 2352-34 et R. 2352-35 ;
 
-m) Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'expédition de produits explosifs civils non marqués CE, en application des articles L. 2352-1 et R. 2352-36 ;
+m) Accord, refus, modification, suspension, abrogation et retrait d'autorisation individuelle d'exportation et d'autorisation globale d'exportation de produits explosifs civils non marqués CE, en application des articles L. 2352-1, R. 2352-36 et R. 2352-37-1 ;
 
-n) Accord, refus, modification, suspension, abrogation et retrait d'autorisation d'exportation de produits explosifs civils et articles pyrotechniques, en application des articles L. 2352-1 et R. 2352-37 ;
+n) Accord, refus, modification, suspension, abrogation et retrait d'autorisation individuelle d'exportation et d'autorisation globale d'exportation de produits explosifs civils et articles pyrotechniques, en application des articles L. 2352-1, R. 2352-37 et R. 2352-37-1 ;
 
 o) Accord et refus d'autorisation de transfert entre deux Etats membres de l'Union européenne avec emprunt du territoire national d'explosifs civils, en application des articles L. 2352-1 et R. 2352-39 ;
 
@@ -55,7 +55,3 @@ h) Suspension, modification, abrogation et retrait de la licence simple d'export
 i) Accord et refus d'autorisation de transit et d'autorisation globale de transit d'armes, munitions et leurs éléments des catégories A1, B, C et des a, b et c de la catégorie D, en application de l'article R. 316-53 ;
 
 j) Suspension, modification, abrogation et retrait de l'autorisation de transit et de l'autorisation globale de transit d'armes, munitions et leurs éléments des catégories A1, B, C et des a, b et c de la catégorie D, en application de l'article R. 316-55.
-
-NOTA :
-
-Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.
