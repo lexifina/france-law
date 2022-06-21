@@ -1,3 +1,3 @@
 # Article 1er
 
-La présente convention et ses annexes règlent les rapports entre les employeurs et les ouvriers, employés, agents de maîtrise et cadres des deux sexes de toutes catégories de magasins, ateliers et bureaux dépendant des entreprises spécialisées d'optique-lunetterie de détail (à titre indicatif et non exhaustif, sont comprises dans le champ d'application de la présente convention les entreprises relevant du code NAF (2008) 47.78A). Elle est applicable sur l'ensemble du territoire français y compris les DOM.
+La présente convention et ses annexes règlent le rapport entre employeurs et salariés des entreprises dont l'activité principale est le montage et la délivrance de produits, de services et/ou de prestations de santé d'optique médicale et d'optique lunetterie de détail régis notamment sous le code NAF 47.78A et/ou dont l'activité vise à proposer des produits et/ou prestations de santé liés notamment à un trouble sensoriel.
