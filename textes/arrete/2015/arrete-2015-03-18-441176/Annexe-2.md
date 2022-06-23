@@ -2,224 +2,122 @@
 
 INFORMATIONS À TRANSMETTRE PAR LE PRODUCTEUR AU RESPONSABLE DE LA PREMIÈRE MISE SUR LE MARCHÉ
 
-INFORMATION À TRANSMETTRE
+INFORMATION À TRANSMETTRE |
+
+COMMENTAIRE |
+
+TRANSMISSION PAR
+
+LE PRODUCTEUR |
+
+Identification du navire et du producteur |
+
+Numéro d'identification externe |
 
 |
 
-COMMENTAIRE
+Obligatoire |
+
+Nom du navire de pêche |
 
 |
 
-TRANSMISSION
+Obligatoire |
 
-par le producteur
-
-|
-
-Identification du navire et du producteur
+Nom du capitaine ou, si différent, du vendeur |
 
 |
 
-Numéro d'identification externe
+Obligatoire |
 
-|
+Activités de pêche |
 
-|
-
-Obligatoire
-
-|
-
-Nom du navire de pêche
-
-|
-
-|
-
-Obligatoire
-
-|
-
-Nom du capitaine ou, si différent, du vendeur
-
-|
-
-|
-
-Obligatoire
-
-|
-
-Activités de pêche
-
-|
-
-N° marée
-
-|
+N° marée |
 
 A fournir obligatoirement si navire sous pavillon français. Il correspond, soit :
 
-- au numéro de feuillet de la fiche de pêche ;
+-au numéro de feuillet de la fiche de pêche ;
 
-- au premier numéro de feuillet du journal de pêche papier ;
+-au premier numéro de feuillet du journal de pêche papier ;
 
-- au numéro de marée du journal de pêche électronique
+-au numéro de marée du journal de pêche électronique ou du dispositif de téléprocédures mis en place par FranceAgriMer. |
 
-|
+Conditionnelle |
 
-Conditionnelle
+Date de la première capture de la marée |
 
-|
+Pour la détermination de la période de capture |
 
-Date de la première capture de la marée
+Obligatoire |
 
-|
+Date de la dernière capture de la marée |
 
-Pour la détermination de la période de capture
+Pour la détermination de la période de capture |
 
-|
+Obligatoire |
 
-Obligatoire
+Engin de pêche |
 
-|
+A minima, la catégorie de l'engin de pêche utilisé ; cf. annexe III du règlement (UE) n° 1379/2013 (OCM) |
 
-Date de la dernière capture de la marée
+Obligatoire |
 
-|
+Zone géographique concernée |
 
-Pour la détermination de la période de capture
+Information sur le zonage FAO des captures, donnée au niveau des sous-zones ou divisions FAO, selon la règlementation en vigueur |
 
-|
+Obligatoire |
 
-Obligatoire
+Zone économique exclusive (ZEE) |
 
-|
+A fournir obligatoirement si les captures ont eu lieu hors des eaux de l'Union Européenne |
 
-Engin de pêche
+Conditionnelle |
 
-|
-
-A minima, la catégorie de l'engin de pêche utilisé ;
-
-cf. annexe III du règlement (UE) n° 1379/2013 (OCM)
-
-|
-
-Obligatoire
-
-|
-
-Zone géographique concernée
-
-|
-
-Information sur le zonage FAO des captures, donnée au niveau des sous-zones ou divisions FAO, selon la règlementation en vigueur
-
-|
-
-Obligatoire
-
-|
-
-Zone économique exclusive (ZEE)
-
-|
-
-A fournir obligatoirement si les captures ont eu lieu hors des eaux de l'Union Européenne
-
-|
-
-Conditionnelle
-
-|
-
-Zone spécifique
-
-|
+Zone spécifique |
 
 A fournir obligatoirement si la zone fait référence à :
 
-- une unité de gestion de l'anguille (UGA) ; ou
+-une unité de gestion de l'anguille (UGA) ; ou
 
-- une zone de pêche valorisée (ex : merlu commun pêché en Ouest Ecosse)
+-une zone de pêche valorisée (ex : merlu commun pêché en Ouest Ecosse). |
 
-|
+Conditionnelle |
 
-Conditionnelle
-
-|
-
-Date de débarquement
+Date de débarquement |
 
 |
 
-|
+Obligatoire |
 
-Obligatoire
-
-|
-
-Lieu de débarquement
+Lieu de débarquement |
 
 |
 
-|
+Obligatoire |
 
-Obligatoire
+Production |
 
-|
+Code alpha-3 FAO de chaque espèce |
 
-Production
+Code à trois lettres identifiant l'espèce Il doit permettre au premier acheteur de déduire la dénomination commerciale et le nom scientifique de l'espèce |
 
-|
+Obligatoire |
 
-Code alpha-3 FAO de chaque espèce
+Quantité |
 
-|
+Quantité de chaque espèce en poids net de produit exprimé en kg (pesée), ou, le cas échéant, le nombre d'individus |
 
-Code à trois lettres identifiant l'espèce
+Obligatoire |
 
-Il doit permettre au premier acheteur de déduire la dénomination commerciale et le nom scientifique de l'espèce
+Méthode de production |
 
-|
+Mention "Pêché" ou "Pêché en eau douce" ou "Elevé" |
 
-Obligatoire
+Obligatoire |
 
-|
+Produit décongelé |
 
-Quantité
+Mention obligatoire si le produit a été décongelé |
 
-|
-
-Quantité de chaque espèce en poids net de produit exprimé en kg (pesée), ou, le cas échéant, le nombre d'individus
-
-|
-
-Obligatoire
-
-|
-
-Méthode de production
-
-|
-
-Mention Pêché ou Pêché en eau douce ou Elevé
-
-|
-
-Obligatoire
-
-|
-
-Produit décongelé
-
-|
-
-Mention obligatoire si le produit a été décongelé
-
-|
-
-Conditionnelle
-
-|
+Conditionnelle |
