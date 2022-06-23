@@ -210,7 +210,7 @@ L. 421-6 |
 
 -l'avis rendu par la plateforme de main d'œuvre étrangère concernant la viabilité du projet d'activité
 
--justificatif d'immatriculation de l'entreprise (statuts, extrait K ou K bis) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;
+-justificatif d'immatriculation de l'entreprise (statuts, extrait K ou numéro SIREN) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;
 
 -s'il s'agit d'une activité réglementée : autorisation d'exercice.
 
@@ -222,7 +222,7 @@ L. 421-6 |
 
 -un bordereau de situation fiscale relatif au paiement de l'impôt sur le revenu en France ;
 
--justificatif d'immatriculation de l'entreprise (statuts, extrait K ou K bis) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;
+-justificatif d'immatriculation de l'entreprise (statuts, extrait K ou numéro SIREN) ou d'affiliation au régime social des indépendants (à produire lors de la fabrication de la carte de séjour) ;
 
 -s'il s'agit d'une activité réglementée : autorisation d'exercice.
 
@@ -230,7 +230,7 @@ L. 421-6 |
 
 -titre de séjour en cours de validité ;
 
--justificatif d'immatriculation de l'entreprise (statuts, extrait K ou K bis) ou d'affiliation au régime social des indépendants ;
+-justificatif d'immatriculation de l'entreprise (statuts, extrait K ou numéro SIREN) ou d'affiliation au régime social des indépendants ;
 
 -pour continuer l'activité créée : une copie du contrat de bail ou de domiciliation, un bordereau de situation fiscale de l'entreprise (P 237), une attestation d'assurance portant, selon la nature de l'activité, sur le local occupé, sur le véhicule ou sur tout autre bien nécessaire à l'activité, un avis d'imposition sur le revenu, si vous avez le statut de salarié, les fiches de salaire des trois derniers mois ou, en l'absence d'avis d'imposition, des douze derniers mois, ou, si vous n'avez pas le statut de salarié, un extrait du livre de compte établissant la rémunération versée au cours des trois derniers mois ou, en l'absence d'avis d'imposition, des douze derniers mois ;
 
@@ -560,7 +560,7 @@ L. 421-16 |
 
 -Diplôme au moins équivalent au grade de master, ou tout document justifiant d'une expérience professionnelle d'au moins 5 ans d'un niveau comparable ;
 
--Justificatif d'immatriculation de l'entreprise (extrait K ou K bis) ou justificatif de la démarche entreprise ;
+-Justificatif d'immatriculation de l'entreprise (extrait K ou numéro SIREN) ou justificatif de la démarche entreprise ;
 
 -Attestation du ministère chargé de l'économie sur le caractère réel et sérieux du projet de création d'entreprise ;
 
@@ -572,7 +572,7 @@ L. 421-16 |
 
 -Diplôme au moins équivalent au grade de master, ou tout document justifiant d'une expérience professionnelle d'au moins 5 ans d'un niveau comparable ;
 
--Justificatif d'immatriculation de l'entreprise (extrait K ou K bis) (à remettre au moment de la remise du titre) ;
+-Justificatif d'immatriculation de l'entreprise (extrait K ou numéro SIREN) (à remettre au moment de la remise du titre) ;
 
 -Attestation du ministère chargé de l'économie sur le caractère réel et sérieux du projet de création d'entreprise ;
 
