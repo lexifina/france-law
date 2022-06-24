@@ -10,7 +10,7 @@ DISPOSITIONS APPLICABLES AUX PIROGUES AUTRES QUE LES PIROGUES DE PLAISANCE
 
 "Largeur B" (exprimée en m) : largeur maximale de la coque, mesurée à l'extérieur du bordé, à l'exclusion des parties amovibles qui peuvent être détachées de façon non destructive sans affecter l'intégrité structurelle de la coque.
 
-"Pirogue" : bateau non ponté dont la largeur B est au plus égale à 2,40 mètres et dont le rapport L/B est supérieur à 5 ;
+“ Pirogue ” : bateau non ponté dont la largeur B est au plus égale à 2,50 mètres et dont le rapport L/B est supérieur à 5 ;
 
 "Pirogue traditionnelle" : pirogue dont le fond et les bouchains sont constitués d'un unique tronc d'arbre, creusé et travaillé au feu pour lui donner la forme voulue ; cette partie est dénommée dans la présente annexe "base de coque" ; les bordés peuvent être en planches rapportées.
 
@@ -68,69 +68,37 @@ LONGUEUR L
 
 |
 
-Jusqu'à 10
+Jusqu'à 10 |
 
-|
+4 |
 
-4
+10 à 11 |
 
-|
+4,3 |
 
-10 à 11
+11 à 13 |
 
-|
+4,5 |
 
-4,3
+13 à 14,5 |
 
-|
+5 |
 
-11 à 13
+14,5 à 16 |
 
-|
+5,5 |
 
-4,5
+16 à 17 |
 
-|
+6 |
 
-13 à 14,5
+17 à 18 |
 
-|
+6,5 |
 
-5
+Plus de 18 |
 
-|
-
-14,5 à 16
-
-|
-
-5,5
-
-|
-
-16 à 17
-
-|
-
-6
-
-|
-
-17 à 18
-
-|
-
-6,5
-
-|
-
-Plus de 18
-
-|
-
-7
-
-|
+7 |
 
 ― l'épaisseur des bordés rapportés sur la quille est au moins égale aux 2/3 de l'épaisseur de la base de coque ;
 
@@ -196,25 +164,27 @@ Les marques ou indications qui, à la suite d'une nouvelle visite, cessent d'êt
 
 5.2. La stabilité doit être suffisante pour que, le bateau étant armé, une personne seule à bord puisse marcher d'une extrémité à l'autre de la pirogue sans que la pirogue ne se renverse.
 
-5.3. Pour les pirogues à passagers, le rapport L/B ne doit pas dépasser les valeurs suivantes :
+5.3. Pour les pirogues à passagers, le rapport L/ B ne doit pas dépasser les valeurs suivantes :
 
-― pour L < 13,33 m : L/B ≤ 0,8 L + 2
+- pour L < 13,33 m : L/ B ≤ 0,8 L + 2
 
-― pour L ≥ 13,33 m : L/B ≤ 0,5 L + 6
+- pour L ≥ 13,33 m : L/ B ≤ 0,5 L + 6
 
-Si le rapport L/B est supérieur à la valeur maximale ci-dessus pertinente, compte tenu de sa longueur, la pirogue est considérée comme insuffisamment stable pour transporter des passagers, sauf si elle passe favorablement le test suivant :
+Si le rapport L/ B est supérieur à la valeur maximale ci-dessus pertinente, compte tenu de sa longueur, la pirogue est considérée comme insuffisamment stable pour transporter des passagers, sauf si elle passe favorablement le test suivant :
 
-FB1≥ 2/3 FB0
+FB1 ≥ 2/3 FB0
 
 où :
 
-FB0 est le franc-bord mesuré, le bateau étant armé, avec une seule personne de 75 kg à bord située dans l'axe et au milieu du bateau.
+FB0 est le franc-bord mesuré, le bateau étant armé, avec une seule personne de 75 kg à bord située dans l'axe et au milieu du bateau. Pour les pirogues destinées au transport de plus de 20 passagers, cette mesure est faite avec deux personnes.
 
-FB1 est le franc-bord mesuré, le bateau étant armé, avec la même personne qui, s'étant tenue initialement debout dans l'axe et au milieu du bateau, jambes écartées d'environ B/2, a porté progressivement tout son poids sur une jambe sans déplacer les pieds.
+FB1 est le franc-bord mesuré, le bateau étant armé, avec la même personne qui, s'étant tenue initialement debout dans l'axe et au milieu du bateau, jambes écartées d'environ B/2, a porté progressivement tout son poids sur une jambe sans déplacer les pieds. Pour les pirogues destinées au transport de plus de 20 passagers, cette mesure est faite avec deux personnes.
 
 6. Dispositions complémentaires pour les pirogues à passagers
 
-6.1. Flottabilité après avarie
+6.1. Matériels flottants
+
+Des matériels flottants conformes à l'appendice 1 de l'annexe 1 du présent arrêté doivent être embarqués à bord de la pirogue. La flottabilité globale obtenue doit être d'au moins 14,5 kg par personne transportée.
 
 6.1.1. Le bateau envahi par l'eau doit continuer à flotter, au besoin vidé de son chargement. De plus, les personnes à l'eau portant leur gilet de sauvetage doivent pouvoir s'y accrocher. A cet effet, une filière ou un dispositif pouvant être saisi facilement est fixé en haut des bordés.
 
@@ -296,7 +266,13 @@ Le nombre de personnes admissibles à bord peut être dépassé uniquement lorsq
 
 6.4. Gilets de sauvetage
 
-6.4.1. Un gilet de sauvetage avec un niveau de performance 100 ou 150, conformément à l'une des normes NF EN ISO 12402-3:2006 ou NF EN ISO 12402-4:2006 ou équivalent, doit être disponible pour chacun des passagers autorisés à bord.
+6.4.1. Un gilet de sauvetage doit être disponible pour chacun des passagers autorisés à bord. Le gilet de sauvetage doit avoir un niveau de performance conforme :
+
+- aux exigences essentielles de la partie 3.4.1 de l'annexe II du règlement (UE) 2016/425, telles que modifiées. La présomption de conformité à ces exigences est assurée par le respect de normes harmonisées reconnues par la Commission européenne ; ou
+
+- à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer (SOLAS 1974), chapitre III, règle 7.2, et au Recueil international des règles relatives aux engins de sauvetage (LSA), sous-section 2.2 ; ou
+
+- à des normes équivalentes.
 
 6.4.2. Ces gilets peuvent être à gonflage automatique ou semi-automatique, ou en matières solides. Pour les enfants, des gilets de taille adaptée doivent être prévus.
 
@@ -318,9 +294,9 @@ Le nombre de personnes admissibles à bord peut être dépassé uniquement lorsq
 
 7.2. Caractéristiques du moteur
 
-7.2.1. Le contrôle concernant les caractéristiques du moteur porte sur les émissions polluantes et sonores, qui doivent être conformes aux exigences du décret n° 96-611 du 4 juillet 1996 susvisé, ou à des normes équivalentes.
+7.2.1. Le contrôle concernant les caractéristiques du moteur porte sur les émissions polluantes et sonores, qui doivent être conformes aux exigences mentionnées à l'annexe 1 du livre 1er de la cinquième partie du code des transports, ou à des normes équivalentes.
 
-7.2.2. Le propriétaire ou le conducteur du bateau doit produire le manuel du propriétaire fourni par le constructeur et une déclaration écrite de conformité du constructeur ou de l'importateur, selon un modèle conforme à l'appendice 2 de l'annexe 1 du présent arrêté.
+7.2.2. Le propriétaire ou le conducteur du bateau doit produire la documentation technique fourni par le constructeur, conforme aux exigences de l'article R. 5113-29 du code des transports, et une déclaration écrite de conformité du constructeur ou de l'importateur, conforme aux exigences de l'article R. 5113-26 du code des transports.
 
 8. Visibilité et signalisation
 
@@ -358,7 +334,7 @@ Appendice 1
 
 Matériels flottants
 
-1. Pour l'application du point 6.1.3 de l'annexe 1 du présent arrêté, l'expression "matériel flottant désigne un matériel flottant autre que les radeaux pneumatiques, bouées et gilets de sauvetage, destiné à supporter un nombre maximum défini de personnes qui se trouvent dans l'eau.
+1. Pour l'application du point 6.1 de l'annexe 1 du présent arrêté, l'expression "matériel flottant désigne un matériel flottant autre que les radeaux pneumatiques, bouées et gilets de sauvetage, destiné à supporter un nombre maximum défini de personnes qui se trouvent dans l'eau.
 
 2. Un matériel flottant doit satisfaire les conditions suivantes :
 
@@ -390,25 +366,7 @@ Matériels flottants
 
 Appendice 2
 
-Déclaration de conformité du moteur
-
-1. La déclaration écrite de conformité aux dispositions du décret n° 96-611 du 4 juillet 1996 doit toujours accompagner les moteurs de propulsion, pour lesquels elle est jointe au manuel du propriétaire.
-
-2. La déclaration écrite de conformité doit être rédigée en français et doit comprendre les éléments suivants :
-
-a) Le nom, la dénomination sociale et l'adresse du fabricant et, s'il y a lieu, le nom, la dénomination sociale et l'adresse de son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen ;
-
-b) La description du produit : marque, type, numéro de série ;
-
-c) Les références aux normes harmonisées pertinentes utilisées ou les références aux spécifications par rapport auxquelles la conformité est déclarée ;
-
-d) Le cas échéant, les références aux autres directives communautaires d'application ;
-
-e) Le cas échéant, la référence de l'attestation "CE de type délivrée par un organisme notifié ;
-
-f) Le cas échéant, le nom et l'adresse de l'organisme notifié ;
-
-g) L'identification du signataire ayant reçu pouvoir pour engager le fabricant ou son mandataire établi sur le territoire de l'un des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord instituant l'Espace économique européen.
+(Abrogé)
 
 Appendice 3
 
