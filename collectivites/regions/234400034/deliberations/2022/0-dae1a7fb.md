@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — Environnement
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2022-06-28
+- Matière : 8.8 Environnement
+- Objet : Environnement
+- Transmis à la préfecture : 2022-06-28
+- Votants : 89
+- Pour : 84
+- Contre : 0
+- Abstentions : 5
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-53931.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
