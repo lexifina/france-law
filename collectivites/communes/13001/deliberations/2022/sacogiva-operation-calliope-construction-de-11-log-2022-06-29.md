@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SACOGIVA - OPERATION CALLIOPÉ - CONSTRUCTION DE 11 LOGEMENTS LOCATIFS SOCIAUX PLUS - EMPRUNT DE 1 095 133 EUROS SOUSCRIT AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100%
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-06-29
+- Séance : Conseil Municipal 1CA
+- Objet : SACOGIVA - OPERATION CALLIOPÉ - CONSTRUCTION DE 11 LOGEMENTS LOCATIFS SOCIAUX PLUS - EMPRUNT DE 1 095 133 EUROS SOUSCRIT AUPRES DE LA CAISSE DES DEPOTS ET CONSIGNATIONS - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100%
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13685-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
