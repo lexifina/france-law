@@ -14,9 +14,7 @@ CADRE GÉNÉRAL DE L'EXPLOITATION
 
 Article 1er
 
-Qualité d'exploitant et principes généraux relatifs
-
-à l'exploitation
+Qualité d'exploitant et principes généraux relatifs à l'exploitation
 
 La société Aéroports de Paris, ci-après dénommée ADP, assure, dans les conditions définies par le présent cahier des charges et conformément aux dispositions de droit commun relatives à tout exploitant d'aérodrome ainsi qu'aux dispositions particulières qui lui sont applicables, l'exploitation des aérodromes mentionnés au premier alinéa de l'article L. 251-2 du code de l'aviation civile. Elle respecte et fait respecter, en toutes circonstances, les obligations qui lui sont prescrites par le présent cahier des charges, quelles que soient les modalités d'exécution des missions en cause.
 
@@ -29,6 +27,10 @@ En tant qu'exploitant d'aérodrome, ADP est soumise aux obligations prévues par
 Sous réserve des dispositions de l'article 5 du présent cahier des charges, ADP ne peut déléguer sa qualité d'exploitant.
 
 Les décisions prises par ADP respectent les principes de transparence et d'égalité de traitement des usagers.
+
+Conformément à l'article 1er de la loi n° 2021-1104 du 24 août 2021 confortant le respect des principes de la République, ADP veille au respect des principes de laïcité et de neutralité du service public. Elle prend les mesures nécessaires au respect de ces principes et veille à ce que ses salariés ou les personnes sur lesquelles elle exerce une autorité hiérarchique ou un pouvoir de direction, lorsqu'ils participent à l'exécution du service public, s'abstiennent notamment de manifester leurs opinions politiques ou religieuses, traitent de façon égale toutes les personnes et respectent leur liberté de conscience et leur dignité.
+
+ADP veille à ce que toute personne à laquelle elle confie pour partie l'exécution du service public s'assure du respect des obligations mentionnées à l'alinéa précédent.
 
 Article 2
 

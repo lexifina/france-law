@@ -376,6 +376,14 @@ Si les usagers ne prennent pas les mesures nécessaires pour utiliser les instal
 
 3. Les services rendus par le concessionnaire aux aéronefs d'Etat qui utilisent des éléments de la concession sont rémunérés par le paiement des redevances prévues à l'article 32 du présent cahier des charges, sauf contrats particuliers conclus entre le concessionnaire et le département ministériel dont dépendent les aéronefs. Ces contrats sont communiqués à l'autorité concédante.
 
+Article 20-1
+
+Principes de laïcité et de neutralité du service public
+
+Conformément à l'article 1er de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République, le concessionnaire veille au respect des principes de laïcité et de neutralité du service public. Il prend les mesures nécessaires au respect de ces principes et veille à ce que ses salariés ou les personnes sur lesquelles il exerce une autorité hiérarchique ou un pouvoir de direction, lorsqu'ils participent à l'exécution du service public, s'abstiennent notamment de manifester leurs opinions politiques ou religieuses, traitent de façon égale toutes les personnes et respectent leur liberté de conscience et leur dignité.
+
+Le concessionnaire veille à ce que toute personne à laquelle il confie pour partie l'exécution du service public s'assure du respect des obligations mentionnées à l'alinéa précédent. Il est tenu de communiquer à l'autorité concédante chacun des contrats de sous-traitance ou de sous-concession ayant pour effet de faire participer le sous-traitant ou le sous-concessionnaire à l'exécution de la mission de service public.
+
 Article 21
 
 Obligation d'entretien et de continuité du service public

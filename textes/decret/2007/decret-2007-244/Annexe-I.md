@@ -128,6 +128,10 @@ Sous réserve des dispositions de l'article 10 du présent cahier des charges, l
 
 Les décisions prises par le concessionnaire respectent les principes de transparence et d'égalité de traitement des usagers.
 
+Conformément à l'article 1er de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République, le concessionnaire veille au respect des principes de laïcité et de neutralité du service public. Il prend les mesures nécessaires au respect de ces principes et veille à ce que ses salariés ou les personnes sur lesquelles il exerce une autorité hiérarchique ou un pouvoir de direction, lorsqu'ils participent à l'exécution du service public, s'abstiennent notamment de manifester leurs opinions politiques ou religieuses, traitent de façon égale toutes les personnes et respectent leur liberté de conscience et leur dignité.
+
+Le concessionnaire veille à ce que toute personne à laquelle il confie pour partie l'exécution du service public s'assure du respect des obligations mentionnées à l'alinéa précédent. Il est tenu de communiquer au ministre chargé de l'aviation civile chacun des contrats de sous-traitance ou de sous-concession ayant pour effet de faire participer le sous-traitant ou le sous-concessionnaire à l'exécution de la mission de service public.
+
 Article 6
 
 Coordination et partage d'informations
@@ -186,7 +190,7 @@ Ceux de ces contrats qui portent sur l'aménagement, l'exploitation ou le dével
 
 ne peuvent être conclus que si la convention de concession le prévoit.
 
-Les autres contrats sont librement passés par le concessionnaire dans le respect des dispositions de droit commun et de celles du présent cahier des charges. Ils sont communiqués par le concessionnaire au ministre chargé de l'aviation civile et au directeur de l'aviation civile, sur leur demande.
+Les autres contrats sont librement passés par le concessionnaire dans le respect des dispositions de droit commun et de celles du présent cahier des charges. Ils sont communiqués par le concessionnaire au directeur interrégional de la sécurité de l'aviation civile, sur sa demande.
 
 Article 11
 
@@ -1249,3 +1253,7 @@ Article 92
 Frais de publication, d'impression et d'enregistrement
 
 Les frais de publication, d'impression, de timbre, d'enregistrement des documents afférents à la concession sont à la charge du concessionnaire.
+
+NOTA :
+
+Conformément au II de l'article 3 du décret n° 2022-938 du 24 juin 2022, la modification prévue au I dudit article s'applique aux conventions de concession en cours d'exécution à la date d'entrée en vigueur du décret n° 2022-938 qui font application du cahier des charges type approuvé par le présent décret.
