@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Opération de réhabilitation de la résidence ILN Mairie située aux 49, 49 bis, 51, 51 bis rue du Général Leclerc / 2, 4, 6 rue Lamartine à Issy-les-Moulineaux. Dépôt d’un dossier au Fonds d’Investissement Métropolitain
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : URBANISME
+- Objet : Opération de réhabilitation de la résidence ILN Mairie située aux 49, 49 bis, 51, 51 bis rue du Général Leclerc / 2, 4, 6 rue Lamartine à Issy-les-Moulineaux. Dépôt d’un dossier au Fonds d’Investissement Métropolitain
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2ODcsInB1ciI6ImJsb2JfaWQifX0=--bf4d88aa9b15f98d1773c009aa3ec4f4bcc87482/300622_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
