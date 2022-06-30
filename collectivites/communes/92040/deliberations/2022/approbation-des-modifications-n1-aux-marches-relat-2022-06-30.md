@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation des modifications n°1 aux marchés relatifs aux travaux de construction d’une école modulaire et d’adaptation des bâtiments conservés du collège de la Paix située 66, avenue de la Paix à Issy-les-Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation des modifications n°1 aux marchés relatifs aux travaux de construction d’une école modulaire et d’adaptation des bâtiments conservés du collège de la Paix située 66, avenue de la Paix à Issy-les-Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NTcsInB1ciI6ImJsb2JfaWQifX0=--adb1b1b5b6f2dfa6bd3743ef1904fe3214e83961/300622_25.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
