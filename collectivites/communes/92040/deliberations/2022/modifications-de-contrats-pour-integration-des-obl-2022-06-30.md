@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Modifications de contrats pour intégration des obligations relatives à la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : COMMANDE PUBLIQUE
+- Objet : Modifications de contrats pour intégration des obligations relatives à la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU5OTksInB1ciI6ImJsb2JfaWQifX0=--ba57cf1176de225aec43b9fff8f554b0f9948625/300622_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
