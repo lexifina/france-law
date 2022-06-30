@@ -1,0 +1,71 @@
+# Règlement du budget et d'approbation des comptes de l'année 2021
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N45929
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/reglement_budget_2021
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-787.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-07-04 : 1er dépôt d'une initiative. (PRJLANR5L16B0010)
+  - 2022-07-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-04 : Renvoi en commission au fond
+      - 2022-06-30 : Nomination de rapporteur
+      - 2022-07-13 : Réunion de commission
+      - 2022-07-07 : Dépôt de rapport (RAPPANR5L16B0016)
+  - Discussion en séance publique
+    - 2022-07-13 : Discussion en séance publique
+    - 2022-07-13 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-07-15 : Dépôt d'une initiative en navette (PRJLSNR5S379B0787)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-15 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-07-19 : Dépôt de rapport (RAPPSNR5S379B0792)
+  - Discussion en séance publique
+    - 2022-07-19 : Discussion en séance publique
+    - 2022-07-19 : Décision
+- Commission Mixte Paritaire
+  - 2022-07-20 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-07-20 : Nomination de rapporteur
+    - 2022-07-20 : Dépôt du rapport d'une CMP (RAPPANR5L16B0155)
+    - 2022-07-20 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0809, PRJLSNR5S379BTC0810)
+  - 2022-07-21 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-07-20 : Dépôt d'une initiative en navette (PRJLANR5L16B0154)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-20 : Renvoi en commission au fond
+      - 2022-07-26 : Réunion de commission
+      - 2022-07-27 : Réunion de commission
+      - 2022-07-26 : Dépôt de rapport (RAPPANR5L16B0169)
+  - Discussion en séance publique
+    - 2022-07-27 : Discussion en séance publique
+    - 2022-07-27 : Décision
+- Nouvelle Lecture
+  - 2022-07-28 : Dépôt d'une initiative en navette (PRJLSNR5S379B0838)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-28 : Renvoi en commission au fond
+      - 2022-07-28 : Dépôt de rapport (RAPPSNR5S379B0844)
+  - Discussion en séance publique
+    - 2022-08-02 : Discussion en séance publique
+    - 2022-08-02 : Décision
+- Lecture définitive
+  - 2022-08-02 : Dépôt d'une initiative en navette (PRJLANR5L16BTA0006)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-08-02 : Renvoi en commission au fond
+      - 2022-07-07 : Réunion de commission
+      - 2022-07-07 : Réunion de commission
+      - 2022-08-03 : Réunion de commission
+      - 2022-08-03 : Dépôt de rapport (RAPPANR5L16B0182)
+  - Discussion en séance publique
+    - 2022-08-03 : Discussion en séance publique
+    - 2022-08-03 : Décision
