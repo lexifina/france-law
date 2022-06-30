@@ -1,0 +1,69 @@
+# Loi de finances rectificative pour 2022
+
+- Procédure : Projet de loi de finances rectificative
+- Législature : 16
+- Identifiant : DLR5L16N45943
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/loi_finances_rectificative_2022
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-830.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-07-07 : 1er dépôt d'une initiative. (PRJLANR5L16B0017)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-07 : Renvoi en commission au fond
+      - 2022-06-30 : Nomination de rapporteur
+      - 2022-07-07 : Réunion de commission
+      - 2022-07-12 : Réunion de commission
+      - 2022-07-12 : Réunion de commission
+      - 2022-07-13 : Réunion de commission
+      - 2022-07-13 : Réunion de commission
+      - 2022-07-20 : Réunion de commission
+      - 2022-07-13 : Dépôt de rapport (RAPPANR5L16B0147)
+    - Travaux d'une commission saisie pour avis
+      - 2022-07-07 : Saisine pour avis d'une commission
+      - 2022-07-12 : Nomination de rapporteur
+      - 2022-07-12 : Réunion de commission
+      - 2022-07-13 : Réunion de commission
+      - 2022-07-13 : Dépôt de rapport (AVISANR5L16B0146)
+  - Discussion en séance publique
+    - 2022-07-22 : Discussion en séance publique
+    - 2022-07-22 : Discussion en séance publique
+    - 2022-07-23 : Discussion en séance publique
+    - 2022-07-23 : Discussion en séance publique
+    - 2022-07-23 : Discussion en séance publique
+    - 2022-07-25 : Discussion en séance publique
+    - 2022-07-25 : Discussion en séance publique
+    - 2022-07-26 : Discussion en séance publique
+    - 2022-07-26 : Discussion en séance publique
+    - 2022-07-26 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-07-27 : Dépôt d'une initiative en navette (PRJLSNR5S379B0830)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-27 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-07-28 : Dépôt de rapport (RAPPSNR5S379B0846)
+  - Discussion en séance publique
+    - 2022-08-02 : Discussion en séance publique
+    - 2022-08-02 : Décision
+- Commission Mixte Paritaire
+  - 2022-08-03 : Dépôt d'un projet de loi (PRJLANR5L16B0180)
+  - 2022-08-03 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-08-03 : Nomination de rapporteur
+    - 2022-08-03 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0858, PRJLSNR5S379BTC0859)
+    - 2022-08-03 : Dépôt du rapport d'une CMP (RAPPANR5L16B0184, PRJLANR5L16BTC0184)
+  - Discussion en séance publique
+    - 2022-08-04 : Décision
+  - Discussion en séance publique
+    - 2022-08-04 : Discussion en séance publique
+    - 2022-08-04 : Décision
+  - 2022-08-03 : Décision de la CMP
+- Conseil constitutionnel
+  - 2022-08-05 : Saisine du conseil constitutionnel
+  - 2022-08-08 : Saisine du conseil constitutionnel
+  - 2022-08-12 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-08-16 : Promulgation d'une loi
