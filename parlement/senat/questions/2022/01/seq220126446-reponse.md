@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220126446
+
+- Question : [SEQ220126446](seq220126446.md) — Crise humanitaire en Zambie
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-06-30, page 3071*
+
+La Zambie est particulièrement vulnérable aux conséquences du changement climatique, comme l'a souligné le Groupe intergouvernemental d'experts sur l'évolution du climat (GIEC). En effet, si la température mondiale augmentait d'1,5°C, elle augmenterait de 4°C en Zambie, et en Afrique australe en général. En outre, les sécheresses à répétition et les invasions d'insectes ont eu des conséquences désastreuses pour les populations. L'Union européenne (UE) et les Nations unies sont mobilisées pour répondre à cette crise humanitaire. Le Programme alimentaire mondial (PAM) va mobiliser près de 3 millions de dollars sur six mois, de mars à août 2022. Il est, par exemple, venu en assistance à plus de 100 000 personnes sur le seul mois de février 2022. La France prend toute sa part dans l'effort de ces organisations. Par ailleurs, la santé et l'accès aux services publics de base restent un défi, en particulier dans les zones rurales. Seulement 64 % de la population du pays a accès aux services de base d'eau potable, tandis que seulement 33 % ont accès aux services d'assainissement de base, dont 25 % ont un lieu fixe pour se laver les mains. Seuls 34 % des ménages ont accès à l'électricité, dont 69 % en zone urbaine et 8% en zone rurale. C'est pourquoi, en complément des réponses d'urgence en soutien aux populations que la France et l'UE octroient à la Zambie, le renforcement de l'accès des populations aux services de base est une priorité. C'est le choix que nous avons fait pour orienter notre coopération au développement en Zambie. L'Agence française de développement (AFD) a mobilisé près de 180 millions d'euros, notamment dans des projets fondés sur l'accès à l'eau et sur les questions d'assainissement dans la province de la Copperbelt.
