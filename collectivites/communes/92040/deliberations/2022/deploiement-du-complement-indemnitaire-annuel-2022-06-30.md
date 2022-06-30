@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Déploiement du Complément Indemnitaire Annuel
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : RESSOURCES HUMAINES
+- Objet : Déploiement du Complément Indemnitaire Annuel
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MDAsInB1ciI6ImJsb2JfaWQifX0=--e51bf7dc5d2bd80602228684077b9e082be1afdd/300622_29.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
