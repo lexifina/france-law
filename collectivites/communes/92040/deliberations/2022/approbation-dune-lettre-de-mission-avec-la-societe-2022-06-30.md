@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une lettre de mission avec la Société Publique Locale Seine Ouest Aménagement (SPL SOA) pour des études de préfiguration relatives à la création d’un outil du développement local en vue d’assurer la transition écologique et énergétique
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : URBANISME
+- Objet : Approbation d’une lettre de mission avec la Société Publique Locale Seine Ouest Aménagement (SPL SOA) pour des études de préfiguration relatives à la création d’un outil du développement local en vue d’assurer la transition écologique et énergétique
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUzOTUsInB1ciI6ImJsb2JfaWQifX0=--73bad396e6a99a93f35744b4ee558b8f6b463fde/300622_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
