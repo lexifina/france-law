@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de la modification n°1 au marché relatif de travaux des aménagements intérieurs et extérieurs du restaurant club seniors Sainte-Lucie et de la crèche « L’île aux trésors » au 131, avenue de Verdun
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation de la modification n°1 au marché relatif de travaux des aménagements intérieurs et extérieurs du restaurant club seniors Sainte-Lucie et de la crèche « L’île aux trésors » au 131, avenue de Verdun
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMDAsInB1ciI6ImJsb2JfaWQifX0=--d300100c5a45512e323964623be5e74d109d6c7c/300622_24.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
