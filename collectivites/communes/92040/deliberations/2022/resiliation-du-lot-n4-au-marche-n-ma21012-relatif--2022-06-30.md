@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Résiliation du lot n°4 au marché n° MA21012, relatif à l’Entretien, dépannage, fourniture et travaux d’installation et d’extension des équipements de sécurité des bâtiments communaux : systèmes de sécurité incendie et équipements de désenfumage mécanique, attribué au groupement AXEES SARL / BEG ENERGIE
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Résiliation du lot n°4 au marché n° MA21012, relatif à l’Entretien, dépannage, fourniture et travaux d’installation et d’extension des équipements de sécurité des bâtiments communaux : systèmes de sécurité incendie et équipements de désenfumage mécanique, attribué au groupement AXEES SARL / BEG ENERGIE
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NTUsInB1ciI6ImJsb2JfaWQifX0=--72f7839fdfd94eb78d0a169349cac6db9fb77e6c/300622_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
