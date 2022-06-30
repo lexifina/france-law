@@ -1,0 +1,88 @@
+# Programmation des finances publiques pour les années 2023 à 2027
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46346
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/programmation_finances_publiques_2023_2027
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl22-071.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-09-26 : 1er dépôt d'une initiative. (PRJLANR5L16B0272)
+  - 2022-09-26 : Etude d'impact (ETDIANR5L16B0272)
+  - 2022-09-26 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-09-26 : Renvoi en commission au fond
+      - 2022-06-30 : Nomination de rapporteur
+      - 2022-09-26 : Réunion de commission
+      - 2022-09-28 : Réunion de commission
+      - 2022-10-04 : Réunion de commission
+      - 2022-10-04 : Réunion de commission
+      - 2022-10-04 : Dépôt de rapport (RAPPANR5L16B0282)
+  - Discussion en séance publique
+    - 2022-10-10 : Discussion en séance publique
+    - 2022-10-10 : Discussion en séance publique
+    - 2022-10-11 : Discussion en séance publique
+    - 2022-10-11 : Discussion en séance publique
+    - 2022-10-25 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-10-25 : Dépôt d'une initiative en navette (PRJLSNR5S399B0071)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-10-25 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-10-27 : Dépôt de rapport (RAPPSNR5S399B0086, PRJLSNR5S399BTC0087)
+  - Discussion en séance publique
+    - 2022-11-02 : Décision
+- Commission Mixte Paritaire
+  - 2022-11-28 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-12-15 : Nomination de rapporteur
+    - 2022-12-15 : Dépôt du rapport d'une CMP (RAPPANR5L16B0621)
+    - 2022-12-15 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0211, PRJLSNR5S399BTC0212)
+  - 2023-09-12 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-11-28 : Dépôt d'une initiative en navette (PRJLANR5L16B0530)
+  - 2023-09-27 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B1675-N0)
+    - 2023-09-28 : Motion de censure (MIONANR5L16B1675-N18)
+      - 2023-09-30 : Décision sur une motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-11-28 : Renvoi en commission au fond
+      - 2023-09-25 : Réunion de commission
+      - 2023-09-27 : Réunion de commission
+      - 2023-11-13 : Réunion de commission
+      - 2023-09-26 : Dépôt de rapport (RAPPANR5L16B1675, PRJLANR5L16BTC1675)
+  - Discussion en séance publique
+    - 2023-09-27 : Discussion en séance publique
+    - 2023-09-29 : Discussion en séance publique
+    - 2023-09-29 : Décision
+- Nouvelle Lecture
+  - 2023-10-02 : Dépôt d'une initiative en navette (PRJLSNR5S419B0002)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-10-02 : Renvoi en commission au fond
+      - 2023-10-11 : Dépôt de rapport (RAPPSNR5S419B0023, PRJLSNR5S419BTC0024)
+  - Discussion en séance publique
+    - 2023-10-16 : Décision
+- Lecture définitive
+  - 2023-10-17 : Dépôt d'une initiative en navette (PRJLSNR5S419BTA0006)
+  - 2023-11-13 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B1746-N0)
+    - 2023-11-13 : Motion de censure (MIONANR5L16B1746-N25)
+      - 2023-11-15 : Décision sur une motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-10-17 : Renvoi en commission au fond
+      - 2023-11-13 : Dépôt de rapport (RAPPANR5L16B1850)
+  - Discussion en séance publique
+    - 2023-11-13 : Discussion en séance publique
+    - 2023-11-13 : Discussion en séance publique
+    - 2023-11-15 : Discussion en séance publique
+    - 2023-11-15 : Décision
+- Conseil constitutionnel
+  - 2023-11-16 : Saisine du conseil constitutionnel
+  - 2023-12-14 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2023-12-18 : Promulgation d'une loi
