@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Election d’un conseiller territorial au sein de l’Établissement Public Territorial Grand Paris Seine Ouest (EPT GPSO)
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : ADMINISTRATION GENERALE
+- Objet : Election d’un conseiller territorial au sein de l’Établissement Public Territorial Grand Paris Seine Ouest (EPT GPSO)
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2ODMsInB1ciI6ImJsb2JfaWQifX0=--3afca34ee40cc04db8c5893018c2e749408c9020/300622_01.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
