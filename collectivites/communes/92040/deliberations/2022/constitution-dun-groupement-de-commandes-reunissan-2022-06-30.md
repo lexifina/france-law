@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Constitution d’un groupement de commandes réunissant la ville d’Issy-les-Moulineaux et l’établissement public territorial Grand Paris Seine Ouest (EPT GPSO) en vue de la passation d’un marché relatif à l’achat de fournitures de bureau
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : MOYENS GENERAUX
+- Objet : Constitution d’un groupement de commandes réunissant la ville d’Issy-les-Moulineaux et l’établissement public territorial Grand Paris Seine Ouest (EPT GPSO) en vue de la passation d’un marché relatif à l’achat de fournitures de bureau
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2OTUsInB1ciI6ImJsb2JfaWQifX0=--08bad796b7f7797f5d4a6a1f1f7a207daddc3ef4/300622_46.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
