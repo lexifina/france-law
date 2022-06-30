@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention fixant les modalités de la mission d’instruction des dossiers de demande de subventions pour le ravalement et la végétalisation des façades et des toitures d’immeubles privés, confiée à la Société Publique Locale « Seine Ouest Aménagement »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : URBANISME
+- Objet : Approbation d’une convention fixant les modalités de la mission d’instruction des dossiers de demande de subventions pour le ravalement et la végétalisation des façades et des toitures d’immeubles privés, confiée à la Société Publique Locale « Seine Ouest Aménagement »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU2ODYsInB1ciI6ImJsb2JfaWQifX0=--820c39c640d26e7ae9c9be4ce81fcd727b546314/300622_13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
