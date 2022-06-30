@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation d’une convention de partenariat entre la Ville, le CLAVIM et l’Institut du monde arabe
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-06-30
+- Matière : JEUNESSE ET FAMILLE
+- Objet : Approbation d’une convention de partenariat entre la Ville, le CLAVIM et l’Institut du monde arabe
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MDIsInB1ciI6ImJsb2JfaWQifX0=--4491db101668d4b9103646a1ba830116e0e8745a/300622_35.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
