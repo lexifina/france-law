@@ -6,14 +6,14 @@ I. - Vaccins à acide ribonucléique (ARN) messager :
 
 - le vaccin à ARNm COMIRNATY (BNT162b2) des laboratoires Pfizer/ BioNTech ;
 
-- le vaccin Moderna Covid-19 mRNA.
+- le vaccin à ARNm SPIKEVAX (mRNA-1273) du laboratoire Moderna.
 
 II. - Vaccins à vecteur viral :
 
-- le vaccin Covid vaccine AstraZeneca ;
+- le vaccin VAXZEVRIA du laboratoire AstraZeneca ;
 
-- le vaccin COVID-19 Vaccine Janssen.
+- le vaccin JCOVDEN du laboratoire Janssen.
 
 III. - Vaccins sous-unitaires à protéine recombinante :
 
-- le vaccin Nuvaxovid, dispersion injectable de la société Novavax.
+- le vaccin NUVAXOVID du laboratoire Novavax.
