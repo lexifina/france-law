@@ -1,7 +1,0 @@
-# Article unique
-
-La base de calcul de l'avantage pécuniaire de nuit visé à l'article 13 de l'annexe catégorielle « Ouvriers »,
-
-à l'article 11 de l'annexe catégorielle « Employés » et à l'article 16 de l'annexe catégorielle « Techniciens et agents de maîtrise » est fixée à 632 € à compter du 1er mars 2011.
-
-Le présent avenant obéit aux mêmes conditions de publicité et d'extension que la convention collective.

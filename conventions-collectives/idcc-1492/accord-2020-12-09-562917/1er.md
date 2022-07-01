@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord a pour objet de créer un fonds mutualisé visant à compléter le financement du dialogue social dans la négociation collective de branche et l'exercice du paritarisme dans la Production et la transformation des papiers cartons, en mode projet, les années où d'importantes négociations collectives sont programmées. Il a également pour objet de déterminer les règles d'utilisation et d'affectation de ces fonds.
