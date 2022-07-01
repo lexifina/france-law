@@ -632,15 +632,15 @@ Pourcentage d'hommes (%) |
 
 Centre national de la recherche scientifique |
 
-32 816 |
+32 794 |
 
-14 139 |
+14 136 |
 
-18 677 |
+18 658 |
 
-43,09 |
+43,11 |
 
-56,91 |
+56,89 |
 
 Institut national de recherche pour l'agriculture, l'alimentation et l'environnement |
 
