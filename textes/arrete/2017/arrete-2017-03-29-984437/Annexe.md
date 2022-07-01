@@ -8,8 +8,6 @@ Conseiller stratégie et prospective de la police nationale.
 
 Directeur de cabinet du directeur général de la police nationale.
 
-Conseiller stratégie et prospective de la police nationale.
-
 2. Direction des ressources et des compétences de la police nationale :
 
 Directeur adjoint des ressources et des compétences de la police nationale.
@@ -80,6 +78,8 @@ Directeur adjoint de la sécurité de proximité de l'agglomération parisienne.
 
 Directeur territorial de la sécurité de proximité de la Seine-Saint-Denis.
 
+Directeur territorial de la sécurité de proximité de Paris.
+
 Préfecture de police-Direction de la police judiciaire :
 
 Directeur adjoint de la police judiciaire chargé des brigades centrales.
@@ -121,6 +121,8 @@ Conseiller prospective et stratégie.
 Conseiller, chef du pôle judiciaire.
 
 Conseiller, chef du pôle des affaires internationales et européennes.
+
+Conseiller prospective et stratégie.
 
 2. Direction des ressources et des compétences de la police nationale :
 
@@ -275,8 +277,6 @@ Sous-directeur du soutien opérationnel.
 Sous-directeur des services spécialisés de l'agglomération.
 
 Sous-directeur régional de police des transports.
-
-Directeur territorial de la sécurité de proximité de Paris.
 
 Directeur territorial de la sécurité de proximité des Hauts-de-Seine.
 
