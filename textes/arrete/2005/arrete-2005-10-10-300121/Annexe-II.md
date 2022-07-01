@@ -1,6 +1,6 @@
 # Article Annexe II
 
-EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE, À COMPTER DU 1ER JUILLET 2021
+EMPLOIS BÉNÉFICIAIRES DE LA NOUVELLE BONIFICATION INDICIAIRE, À COMPTER DU 1ER JUILLET 2022
 
 PRÉFECTURE DE PARIS
 
@@ -106,7 +106,7 @@ A
 
 |
 
-Chef du bureau du contentieux
+Chef du bureau du contentieux et du conseil juridique
 
 |
 
@@ -114,7 +114,7 @@ A
 
 |
 
-Chef de bureau du contrôle de la légalité de la commande publique et de la domanialité publique
+Chef du pôle commande publique et domanialité publique
 
 |
 
@@ -170,7 +170,7 @@ B
 
 |
 
-Gestionnaire budgétaire des dépenses de fonctionnement du BOP 354 et de l'UO 75
+Gestionnaire budgétaire des dépenses de fonctionnement du BOP 354
 
 |
 
@@ -210,7 +210,7 @@ B
 
 |
 
-Chargé de l'organisation des élections et des affaires générales
+Chargé de section élections et affaires générales
 
 |
 
@@ -230,7 +230,7 @@ Régisseur principal
 
 |
 
-C
+B
 
 |
 
@@ -272,7 +272,7 @@ A
 
 |
 
-Chargé de la veille et analyse
+Chargé d'études politiques et comitologie
 
 |
 
@@ -288,7 +288,7 @@ B
 
 |
 
-Chef de la section entretien des bâtiments - technicien de maintien en conditions opérationnelles
+Chef de section maintenance et logistique
 
 |
 
@@ -318,7 +318,7 @@ FONCTION D'ACCUEIL EXTERNE OU INTERNE
 
 |
 
-Chef de la section accueil et sécurité
+Chef de section sécurité
 
 |
 
@@ -331,6 +331,8 @@ B
 |
 
 FONCTION D'ENCADREMENT, CONTRAINTES ET RESPONSABILITES PARTICULIERES
+
+|
 
 |
 
@@ -362,7 +364,7 @@ A
 
 |
 
-Adjoint au chef du bureau des affaires sociales
+Adjoint au chef du bureau des urgences sociales
 
 |
 
@@ -394,7 +396,7 @@ A
 
 |
 
-Adjoint au chef du service régional de communication interministérielle
+Chef du service régional de communication interministérielle
 
 |
 
@@ -402,7 +404,7 @@ A
 
 |
 
-Chef du bureau des affaires sociales
+Chef du bureau des urgences sociales
 
 |
 
@@ -426,7 +428,7 @@ B
 
 |
 
-Adjoint au chef du bureau du logement interministériel
+Adjoint au chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'Etat (BALAE)
 
 |
 
@@ -450,7 +452,7 @@ A
 
 |
 
-Chef du bureau du logement interministériel
+Chef du bureau d'accès aux logements sociaux interministériels réservés aux agents de l'Etat (BALAE)
 
 |
 
@@ -500,7 +502,7 @@ A
 
 |
 
-Chef du bureau de la programmation et de l'exécution (DIE)
+Adjoint au chef du département juridique et budgétaire (DIE)
 
 |
 
@@ -562,7 +564,7 @@ EMPLOIS D'ENCADREMENT A CONTRAINTES ET RESPONSABILITES PARTICULIERES DE LA PREFE
 
 |
 
-Chef du département des ressources, de la modernisation et du soutien juridique (DIM)
+Chef de cabinet du préfet délégué à l'immigration
 
 |
 
@@ -570,7 +572,7 @@ A
 
 |
 
-Chef du bureau des cartes grises (DTPP)
+Chef du bureau de l'immatriculation des véhicules (DTPP)
 
 |
 
@@ -594,7 +596,7 @@ A
 
 |
 
-Chef du bureau du recrutement (DRH)
+Chef du bureau des concours, des examens et des recrutements sans concours (DRH)
 
 |
 

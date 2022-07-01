@@ -22,13 +22,17 @@ g) Travaux d'isolation des planchers bas ;
 
 1° bis Soit de travaux permettant d'améliorer la performance énergétique du logement et ayant ouvert droit à une aide accordée par l'Agence nationale de l'habitat au titre de la lutte contre la précarité énergétique ;
 
+1° ter Soit de travaux d'amélioration de la performance énergétique du logement ayant ouvert droit à la prime de transition énergétique mentionnée au II de l'article 15 de la loi n° 2019-1479 du 28 décembre 2019 de finances pour 2020 ;
+
 2° Soit de travaux permettant d'atteindre une performance énergétique globale minimale du logement ;
 
 3° Soit de travaux de réhabilitation de systèmes d'assainissement non collectif par des dispositifs ne consommant pas d'énergie ;
 
 4° (Abrogé).
 
-Les modalités de détermination des travaux mentionnés aux 1° à 3° sont fixées par décret. Ce décret fixe également les critères de qualification de l'entreprise exigés pour les travaux mentionnés aux 1° et 2°. La condition d'ancienneté du logement mentionnée au 1 ne s'applique pas en cas de réalisation de travaux prévus au 1° bis du présent 2.
+Les modalités de détermination des travaux mentionnés aux 1° à 3° sont fixées par décret. Ce décret fixe également les critères de qualification de l'entreprise exigés pour les travaux mentionnés aux 1° et 2°. La condition d'ancienneté du logement mentionnée au 1 ne s'applique pas en cas de réalisation de travaux prévus aux 1° bis et 1° ter du présent 2.
+
+Les travaux mentionnés au 1° ter ne sont pas cumulables avec les autres travaux mentionnés au présent 2.
 
 3. L'avance remboursable sans intérêt peut être consentie aux personnes suivantes :
 
@@ -45,6 +49,8 @@ Les modalités de détermination des travaux mentionnés aux 1° à 3° sont fix
 5. L'emprunteur fournit à l'établissement de crédit ou la société de financement mentionné au 1, à l'appui de sa demande d'avance remboursable sans intérêt, un descriptif et un devis détaillés des travaux envisagés. Par exception, lorsque la demande d'avance remboursable sans intérêt intervient concomitamment à une demande de prêt pour l'acquisition du logement faisant l'objet des travaux, le descriptif et le devis détaillés des travaux envisagés peuvent être fournis postérieurement, au plus tard à la date de versement du prêt. Il transmet tous les éléments justifiant que les travaux ont été effectivement réalisés conformément au descriptif et au devis détaillés et satisfont aux conditions prévues aux 1 et 2, dans un délai de trois ans à compter de la date d'octroi de l'avance par l'établissement de crédit ou la société de financement mentionné au 1, sauf en cas de décès de l'emprunteur, d'accident de santé de ce dernier entraînant une interruption temporaire de travail d'au moins trois mois, d'état de catastrophe naturelle ou technologique, de contestation contentieuse de l'opération ou de force majeure, dans des conditions fixées par décret.
 
 Toutefois, lorsque l'avance est consentie pour financer des travaux mentionnés au 1° bis du 2, la demande d'avance s'appuie sur un descriptif des travaux envisagés et des éléments fournis à l'emprunteur par l'Agence nationale de l'habitat et la justification que les travaux ont été effectivement réalisés est assurée par le versement de l'aide mentionnée au même 1° bis.
+
+Lorsque l'avance est consentie pour financer des travaux mentionnés au 1° ter du 2 du présent I, la demande d'avance s'appuie sur la décision d'octroi de la prime adressée à l'emprunteur par l'Agence nationale de l'habitat. La justification que les travaux ont été effectivement réalisés est assurée par la notification du versement de la prime adressée à l'emprunteur par l'agence.
 
 6. Il ne peut être accordé qu'une seule avance remboursable par logement.
 
@@ -96,4 +102,4 @@ VII. – Un décret fixe les modalités d'application du présent article et not
 
 NOTA :
 
-Conformément au A du IV de l'article 86 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux offres d'avances émises à compter du 1er janvier 2022.
+Conformément au B du IV de l'article 86 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent aux offres d'avances émises à compter du 1er juillet 2022.
