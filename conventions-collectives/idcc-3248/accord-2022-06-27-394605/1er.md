@@ -1,0 +1,3 @@
+# Article 1er
+
+La valeur du point servant à déterminer les barèmes des rémunérations minimales hiérarchiques prévus à l'article 48 de la convention collective, et servant de base de calcul à la prime d'ancienneté, est fixée à 5,06 € base 151,67 heures à compter du 1er juillet 2022.
