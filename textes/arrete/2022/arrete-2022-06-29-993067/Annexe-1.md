@@ -1,12 +1,10 @@
-# Article LEGIARTI000043735974
+# Article Annexe 1
 
-ANNEXE
-
-TARIFS RÉGLEMENTÉS DE VENTE DE GAZ NATUREL DE VIALIS
+TARIFS RÉGLEMENTÉS DE VENTE DE GAZ NATUREL DE VIALIS QUI DEVRAIENT ÊTRE APPLIQUÉS EN NE TENANT COMPTE DE L'ACTUALISATION DES CONDITIONS D'APPROVISIONNEMENT ET DES COÛTS GÉNÉRAUX
 
 Tarifs hors taxes et hors contributions
 
-Tarifs en distribution publique au 1er juillet 2021
+Tarifs en distribution publique au 1er juillet 2022
 
 Tarifs |
 
@@ -18,15 +16,15 @@ Tarif Général |
 
 Abonnement en €/mois |
 
-3,89 |
+3,54 |
 
 Prix proportionnel de 1 à 140 kWh/mois en c€/kWh |
 
-7,110 |
+10,061 |
 
 Prix proportionnel au-delà de 140 kWh/mois en c€/kWh |
 
-6,456 |
+9,407 |
 
 Tarif Binôme |
 
@@ -34,11 +32,11 @@ Tarif Binôme |
 
 Abonnement en €/mois |
 
-15,94 |
+14,51 |
 
 Prix proportionnel en c€/kWh |
 
-3,682 |
+6,801 |
 
 Tarif B2I |
 
@@ -46,8 +44,8 @@ Tarif B2I |
 
 Abonnement en €/mois |
 
-21,65 |
+20,22 |
 
 Prix proportionnel en c€/kWh |
 
-3,529 |
+6,648 |
