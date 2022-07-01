@@ -1,6 +1,4 @@
-# Article LEGIARTI000049182350
-
-ANNEXE 6
+# Article Annexe 6
 
 LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 5E CATÉGORIE
 
@@ -22,7 +20,7 @@ Trésorerie spécialisée |
 
 BOURG-EN-BRESSE ETS HOSPITALIERS |
 
-01/01/2022 |
+01/07/2022 |
 
 Ain |
 
@@ -32,7 +30,7 @@ Trésorerie spécialisée |
 
 AIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Aisne |
 
@@ -42,7 +40,7 @@ SPF |
 
 LAON |
 
-01/01/2022 |
+01/07/2022 |
 
 Alpes-de-Haute-Provence |
 
@@ -52,7 +50,7 @@ SIE |
 
 MANOSQUE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hautes-Alpes |
 
@@ -62,7 +60,7 @@ SIE |
 
 GAP |
 
-01/01/2022 |
+01/07/2022 |
 
 Hautes-Alpes |
 
@@ -72,7 +70,7 @@ SPF |
 
 GAP |
 
-01/01/2022 |
+01/07/2022 |
 
 Ardèche |
 
@@ -82,7 +80,7 @@ SIE |
 
 PRIVAS |
 
-01/01/2022 |
+01/07/2022 |
 
 Ardèche |
 
@@ -92,7 +90,7 @@ SIP-SIE |
 
 TOURNON-SUR-RHONE |
 
-01/01/2022 |
+01/07/2022 |
 
 Ardennes |
 
@@ -102,7 +100,7 @@ SIE |
 
 DES ARDENNES |
 
-01/01/2022 |
+01/07/2022 |
 
 Aube |
 
@@ -112,7 +110,7 @@ SPF |
 
 TROYES 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Aveyron |
 
@@ -122,7 +120,7 @@ SGC |
 
 RODEZ |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -132,7 +130,7 @@ PRS |
 
 BOUCHES-DU-RHONE - MARSEILLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -142,7 +140,7 @@ SIE |
 
 TARASCON |
 
-01/01/2022 |
+01/07/2022 |
 
 Calvados |
 
@@ -152,7 +150,7 @@ SIE |
 
 CAEN OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Calvados |
 
@@ -162,7 +160,7 @@ SIP |
 
 CAEN NORD |
 
-01/01/2022 |
+01/07/2022 |
 
 Côte-d'Or |
 
@@ -172,7 +170,7 @@ SIE |
 
 BEAUNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Côtes-d'Armor |
 
@@ -182,7 +180,7 @@ SGC |
 
 LANNION |
 
-01/01/2022 |
+01/07/2022 |
 
 Doubs |
 
@@ -192,7 +190,7 @@ Trésorerie spécialisée |
 
 BESANCON CHRU - EH |
 
-01/01/2022 |
+01/07/2022 |
 
 Doubs |
 
@@ -202,7 +200,7 @@ SIE |
 
 MONTBELIARD |
 
-01/01/2022 |
+01/07/2022 |
 
 Eure |
 
@@ -212,7 +210,17 @@ SIE |
 
 LOUVIERS |
 
-01/01/2022 |
+01/07/2022 |
+
+Finistère |
+
+029046 |
+
+SIE |
+
+MORLAIX |
+
+01/09/2022 |
 
 Finistère |
 
@@ -222,7 +230,7 @@ SGC |
 
 QUIMPER |
 
-01/01/2022 |
+01/07/2022 |
 
 Corse-du-Sud |
 
@@ -232,7 +240,7 @@ SPF |
 
 AJACCIO |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -242,17 +250,7 @@ PRS |
 
 GARD |
 
-01/01/2022 |
-
-Gard |
-
-030019 |
-
-Trésorerie spécialisée |
-
-NIMES CHU |
-
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -262,7 +260,7 @@ SIE |
 
 ALES |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -272,7 +270,7 @@ SIE |
 
 BAGNOLS-SUR-CEZE |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -282,7 +280,7 @@ SIE |
 
 NIMES OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -292,7 +290,7 @@ SIE |
 
 NIMES EST |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -302,7 +300,7 @@ SIE |
 
 NIMES SUD |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -312,7 +310,7 @@ SIP |
 
 TOULOUSE CITE |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -322,7 +320,7 @@ SIP |
 
 TOULOUSE MIRAIL |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -332,7 +330,7 @@ SIE |
 
 MURET |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -342,7 +340,7 @@ SDE |
 
 TOULOUSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -352,7 +350,7 @@ SIP |
 
 CENON |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -362,7 +360,7 @@ SIP |
 
 PESSAC TALENCE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -372,7 +370,7 @@ SIE |
 
 COEUR D'HERAULT LITTORAL |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -382,17 +380,7 @@ SIE |
 
 EST HERAULT |
 
-01/01/2022 |
-
-Ille-et-Vilaine |
-
-035007 |
-
-Trésorerie spécialisée |
-
-CHARTRES-DE-BRETAGNE |
-
-01/01/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -402,7 +390,7 @@ SIE |
 
 RENNES 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Isère |
 
@@ -412,27 +400,7 @@ SIE |
 
 BOURGOIN-JALLIEU |
 
-01/01/2022 |
-
-Isère |
-
-038069 |
-
-SIE |
-
-VIENNE |
-
-01/01/2022 |
-
-Landes |
-
-040034 |
-
-SIE |
-
-DAX |
-
-01/01/2022 |
+01/07/2022 |
 
 Loire |
 
@@ -442,7 +410,7 @@ SIP |
 
 SAINT-ETIENNE NORD |
 
-01/01/2022 |
+01/07/2022 |
 
 Loire |
 
@@ -452,7 +420,7 @@ SIE |
 
 MONTBRISON |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Loire |
 
@@ -462,7 +430,7 @@ SPF |
 
 LE PUY-EN-VELAY |
 
-01/01/2022 |
+01/07/2022 |
 
 Loiret |
 
@@ -472,7 +440,7 @@ SIE |
 
 LOIRET EST |
 
-01/01/2022 |
+01/07/2022 |
 
 Lot-et-Garonne |
 
@@ -482,7 +450,7 @@ SIE |
 
 AGEN |
 
-01/01/2022 |
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -492,7 +460,7 @@ SIE |
 
 ANGERS EST |
 
-01/01/2022 |
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -502,7 +470,7 @@ SIE |
 
 ANGERS OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -512,7 +480,7 @@ SIP |
 
 CHOLET |
 
-01/01/2022 |
+01/07/2022 |
 
 Marne |
 
@@ -522,7 +490,7 @@ SIE |
 
 EPERNAY |
 
-01/01/2022 |
+01/07/2022 |
 
 Mayenne |
 
@@ -532,7 +500,7 @@ SPF |
 
 LAVAL 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Meurthe-et-Moselle |
 
@@ -542,7 +510,7 @@ SIP-SIE |
 
 BRIEY |
 
-01/01/2022 |
+01/07/2022 |
 
 Meurthe-et-Moselle |
 
@@ -552,7 +520,7 @@ SIE |
 
 VANDOEUVRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Morbihan |
 
@@ -562,7 +530,7 @@ SIP |
 
 LORIENT |
 
-01/01/2022 |
+01/07/2022 |
 
 Morbihan |
 
@@ -572,7 +540,7 @@ SIE |
 
 AURAY |
 
-01/01/2022 |
+01/07/2022 |
 
 Moselle |
 
@@ -582,7 +550,7 @@ SIP-SIE |
 
 FORBACH |
 
-01/01/2022 |
+01/07/2022 |
 
 Nièvre |
 
@@ -592,7 +560,7 @@ SIE |
 
 NIEVRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -602,7 +570,7 @@ SIE |
 
 LILLE NORD |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -612,7 +580,7 @@ SIE |
 
 DOUAI |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -622,7 +590,7 @@ SIE |
 
 VALENCIENNES |
 
-01/01/2022 |
+01/07/2022 |
 
 Oise |
 
@@ -632,7 +600,7 @@ SIE |
 
 COMPIEGNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Oise |
 
@@ -642,7 +610,7 @@ SIE |
 
 SENLIS |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -652,7 +620,7 @@ SIE |
 
 BOULOGNE-SUR-MER |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -662,7 +630,7 @@ SIE |
 
 LENS |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -672,7 +640,7 @@ SPF |
 
 BOULOGNE-SUR-MER 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -682,7 +650,7 @@ SIP |
 
 HENIN-BEAUMONT |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -692,7 +660,7 @@ SIP |
 
 LENS |
 
-01/01/2022 |
+01/07/2022 |
 
 Pyrénées-Atlantiques |
 
@@ -702,7 +670,7 @@ SIE |
 
 BIARRITZ |
 
-01/01/2022 |
+01/07/2022 |
 
 Pyrénées-Orientales |
 
@@ -712,7 +680,7 @@ SIE |
 
 PERPIGNAN REART |
 
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -722,7 +690,7 @@ SIE |
 
 MOLSHEIM |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -732,7 +700,7 @@ SIP |
 
 EST LYONNAIS |
 
-01/01/2022 |
+01/07/2022 |
 
 Saône-et-Loire |
 
@@ -742,17 +710,7 @@ SIE |
 
 MACON |
 
-01/01/2022 |
-
-Sarthe |
-
-072058 |
-
-SIE |
-
-LE MANS |
-
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -762,7 +720,7 @@ SIE |
 
 ANNEMASSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -772,7 +730,7 @@ SIP |
 
 THONON-LES-BAINS |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -782,7 +740,7 @@ SPF |
 
 BONNEVILLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -792,7 +750,7 @@ SIE |
 
 PARIS 11E LEDRU ROLLIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Maritime |
 
@@ -802,7 +760,7 @@ SIE |
 
 DIEPPE |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-et-Marne |
 
@@ -812,7 +770,7 @@ PRS |
 
 SEINE-ET-MARNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-et-Marne |
 
@@ -822,7 +780,7 @@ SIE |
 
 ROISSY-EN-BRIE |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-et-Marne |
 
@@ -832,7 +790,7 @@ SIE |
 
 NOISIEL |
 
-01/01/2022 |
+01/07/2022 |
 
 Tarn |
 
@@ -842,7 +800,7 @@ SIE |
 
 ALBI |
 
-01/01/2022 |
+01/07/2022 |
 
 Tarn |
 
@@ -852,27 +810,7 @@ SIP |
 
 CASTRES |
 
-01/01/2022 |
-
-Var |
-
-083031 |
-
-SIE |
-
-BRIGNOLES |
-
-01/01/2022 |
-
-Var |
-
-083034 |
-
-SIE |
-
-FREJUS |
-
-01/01/2022 |
+01/07/2022 |
 
 Vendée |
 
@@ -882,7 +820,7 @@ SIE |
 
 CHALLANS |
 
-01/01/2022 |
+01/07/2022 |
 
 Vendée |
 
@@ -892,7 +830,7 @@ SIE |
 
 SABLES D'OLONNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Vosges |
 
@@ -902,7 +840,7 @@ SIE |
 
 EPINAL |
 
-01/01/2022 |
+01/07/2022 |
 
 Yonne |
 
@@ -912,7 +850,7 @@ SIE |
 
 AUXERRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Yonne |
 
@@ -922,7 +860,7 @@ SIE |
 
 SENS |
 
-01/01/2022 |
+01/07/2022 |
 
 Essonne |
 
@@ -932,7 +870,7 @@ SIP |
 
 CORBEIL |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -942,17 +880,7 @@ SIP |
 
 COURBEVOIE |
 
-01/01/2022 |
-
-Hauts-de-Seine |
-
-092019 |
-
-Trésorerie spécialisée |
-
-MUNICIPALE D'ISSY-VANVES |
-
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -962,7 +890,7 @@ SIP |
 
 LEVALLOIS-PERRET |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -972,17 +900,7 @@ SIE |
 
 ASNIERES-SUR-SEINE |
 
-01/01/2022 |
-
-Hauts-de-Seine |
-
-092051 |
-
-SIE |
-
-CLICHY |
-
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -992,7 +910,7 @@ SIE |
 
 COLOMBES |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -1002,7 +920,7 @@ SIE |
 
 VANVES |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -1012,7 +930,7 @@ Trésorerie spécialisée |
 
 SEVRAN MUNICIPALE |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -1022,7 +940,7 @@ SIE |
 
 LIVRY-GARGAN |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -1032,7 +950,7 @@ SIE |
 
 NEUILLY-SUR-MARNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -1042,7 +960,7 @@ SIE |
 
 PANTIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-de-Marne |
 
@@ -1052,7 +970,7 @@ SIP |
 
 CHOISY-LE-ROI |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-de-Marne |
 
@@ -1062,7 +980,7 @@ SIE |
 
 CHAMPIGNY-SUR-MARNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Guadeloupe |
 
@@ -1072,7 +990,7 @@ PRS |
 
 GUADELOUPE |
 
-01/01/2022 |
+01/07/2022 |
 
 Guyane |
 
@@ -1082,7 +1000,7 @@ SIE |
 
 DE GUYANE |
 
-01/01/2022 |
+01/07/2022 |
 
 Martinique |
 
@@ -1092,7 +1010,7 @@ SIE |
 
 LAMENTIN |
 
-01/01/2022 |
+01/07/2022 |
 
 La Réunion |
 
@@ -1102,4 +1020,4 @@ SIE |
 
 ST-DENIS-DE-LA-REUNION EST |
 
-01/01/2022 |
+01/07/2022 |

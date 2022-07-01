@@ -1,8 +1,4 @@
-# Article LEGIARTI000049182340
-
-ANNEXES
-
-ANNEXE 1
+# Article Annexe 1
 
 NOMBRE DE POSTES COMPTABLES PROJETÉ DE LA DIRECTION GÉNÉRALE DES FINANCES PUBLIQUES AU 31 DÉCEMBRE 2022
 
@@ -12,20 +8,20 @@ Nombre de postes |
 
 Groupe 1 (C1) |
 
-746 |
+718 |
 
 Groupe 2 (C+) |
 
-33 |
+31 |
 
 Groupe 3 (C2) |
 
-1040 |
+993 |
 
 Groupe 4 (C3) |
 
-379 |
+344 |
 
 Groupe 5 (C4) |
 
-39 |
+33 |

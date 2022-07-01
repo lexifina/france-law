@@ -1,6 +1,4 @@
-# Article LEGIARTI000049182342
-
-ANNEXE 2
+# Article Annexe 2
 
 LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 1RE CATÉGORIE
 
@@ -22,7 +20,7 @@ Trésorerie spécialisée |
 
 MARSEILLE MUN. ET METROPOLE AMP |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -32,7 +30,7 @@ SIE |
 
 AIX-EN-PROVENCE |
 
-01/01/2022 |
+01/07/2022 |
 
 Côte-d'Or |
 
@@ -42,7 +40,7 @@ Trésorerie spécialisée |
 
 DES HOPITAUX DE COTE D'OR |
 
-01/01/2022 |
+01/07/2022 |
 
 Côte-d'Or |
 
@@ -52,7 +50,7 @@ SIE |
 
 DIJON |
 
-01/01/2022 |
+01/07/2022 |
 
 Drôme |
 
@@ -60,9 +58,9 @@ Drôme |
 
 SGC |
 
-NORD DROME |
+NORD DRÔME |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -72,7 +70,7 @@ SPF |
 
 NIMES 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -82,17 +80,17 @@ SPF |
 
 TOULOUSE 3 |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
 033017 |
 
-Trésorerie spécialisée |
+SGC |
 
 BORDEAUX MUNICIPALE ET METROPOLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -102,7 +100,7 @@ SIP |
 
 MILLENAIRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -112,7 +110,7 @@ SPF |
 
 MONTPELLIER 2 |
 
-01/01/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -122,7 +120,7 @@ Trésorerie spécialisée |
 
 CONTROLE AUTOMATISE |
 
-01/01/2022 |
+01/07/2022 |
 
 Morbihan |
 
@@ -132,7 +130,7 @@ Trésorerie spécialisée |
 
 VANNES MUNICIPALE |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -142,7 +140,7 @@ Trésorerie spécialisée |
 
 HOSPITALIERE LILLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Puy-de-Dôme |
 
@@ -152,7 +150,7 @@ SGC |
 
 CLERMONT METROPOLE ET AMENDES |
 
-01/01/2022 |
+01/07/2022 |
 
 Pyrénées-Orientales |
 
@@ -160,9 +158,9 @@ Pyrénées-Orientales |
 
 SPF |
 
-PERPIGNAN 1 |
+PERPIGNAN |
 
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -172,7 +170,7 @@ SIP |
 
 STRASBOURG |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -182,7 +180,7 @@ Trésorerie spécialisée |
 
 LYON MUNICIPALE-METROPOLE LYON |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -190,9 +188,9 @@ Rhône |
 
 Trésorerie spécialisée |
 
-LYON HOSPICES CIVILS |
+HOSPITALIERE METROPOLE DE LYON |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -202,7 +200,7 @@ SIE |
 
 LYON BERTHELOT |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -212,7 +210,7 @@ SIP-SIE |
 
 SEYNOD |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -222,7 +220,7 @@ SIP |
 
 PARIS 7E |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -232,7 +230,7 @@ PRS |
 
 PARISIEN 2 |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -242,7 +240,7 @@ SIE |
 
 PARIS 1E |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -252,7 +250,7 @@ SIE |
 
 PARIS 9E |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -262,7 +260,7 @@ Trésorerie spécialisée |
 
 CENTRE D'ACTION SOCIALE DE PARIS |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -272,7 +270,7 @@ SIE |
 
 PARIS 8E CHAMPS -ELYSEES |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -282,7 +280,7 @@ SIE |
 
 PARIS 8E ROME MADELEINE |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -292,7 +290,7 @@ SIE |
 
 PARIS 17E TERNES BATIGNOLLES |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Maritime |
 
@@ -300,9 +298,9 @@ Seine-Maritime |
 
 SIP |
 
-ROUEN EST VILLE |
+ROUEN EST-VILLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -312,27 +310,17 @@ SPF |
 
 TOULON 2 |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
-092047 |
-
-PRS |
-
-HAUTS-DE-SEINE |
-
-01/01/2022 |
-
-Hauts-de-Seine |
-
-092059 |
+092051 |
 
 SIE |
 
-NEUILLY |
+CLICHY |
 
-01/01/2022 |
+01/09/2022 |
 
 Hauts-de-Seine |
 
@@ -342,7 +330,7 @@ SPF |
 
 NANTERRE 3 |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-d'Oise |
 
@@ -352,7 +340,7 @@ SIE |
 
 VAL-D'OISE OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 La Réunion |
 
@@ -362,7 +350,7 @@ SGC |
 
 LE PORT |
 
-01/01/2022 |
+01/07/2022 |
 
 DGE |
 
@@ -372,4 +360,4 @@ SIE |
 
 POSTE COMPTABLE DE LA DGE |
 
-01/01/2022 |
+01/07/2022 |

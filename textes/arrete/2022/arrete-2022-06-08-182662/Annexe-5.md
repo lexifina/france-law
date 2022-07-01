@@ -1,6 +1,4 @@
-# Article LEGIARTI000049182348
-
-ANNEXE 5
+# Article Annexe 5
 
 LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 4E CATÉGORIE
 
@@ -22,7 +20,7 @@ SGC |
 
 BOURG-EN-BRESSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Ain |
 
@@ -32,7 +30,7 @@ SIE |
 
 AMBERIEU-EN-BUGEY |
 
-01/01/2022 |
+01/07/2022 |
 
 Ain |
 
@@ -40,9 +38,9 @@ Ain |
 
 SPF |
 
-BOURG-EN-BRESSE |
+AIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Aisne |
 
@@ -52,7 +50,7 @@ SGC |
 
 DE SAINT-QUENTIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Allier |
 
@@ -62,7 +60,7 @@ SGC |
 
 MONTLUCON |
 
-01/01/2022 |
+01/07/2022 |
 
 Allier |
 
@@ -72,7 +70,7 @@ SGC |
 
 VICHY |
 
-01/01/2022 |
+01/07/2022 |
 
 Allier |
 
@@ -82,7 +80,7 @@ SIE |
 
 ALLIER |
 
-01/01/2022 |
+01/07/2022 |
 
 Alpes-Maritimes |
 
@@ -92,7 +90,7 @@ SIP |
 
 NICE CENTRE-COLLINES |
 
-01/01/2022 |
+01/07/2022 |
 
 Alpes-Maritimes |
 
@@ -102,7 +100,7 @@ SIP |
 
 NICE EXTERIEUR PAILLON |
 
-01/01/2022 |
+01/07/2022 |
 
 Alpes-Maritimes |
 
@@ -112,7 +110,7 @@ SIE |
 
 GRASSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Alpes-Maritimes |
 
@@ -122,7 +120,7 @@ SDE |
 
 GRASSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Ardèche |
 
@@ -132,7 +130,7 @@ SIP |
 
 AUBENAS |
 
-01/01/2022 |
+01/07/2022 |
 
 Ardèche |
 
@@ -142,7 +140,7 @@ SGC |
 
 PRIVAS |
 
-Courant 2022 |
+01/09/2022 |
 
 Ardèche |
 
@@ -152,7 +150,7 @@ SGC |
 
 ANNONAY |
 
-01/01/2022 |
+01/07/2022 |
 
 Ardèche |
 
@@ -162,7 +160,7 @@ SGC |
 
 AUBENAS |
 
-01/01/2022 |
+01/07/2022 |
 
 Aube |
 
@@ -172,7 +170,7 @@ SIP |
 
 AUBE |
 
-01/01/2022 |
+01/07/2022 |
 
 Aube |
 
@@ -182,7 +180,7 @@ SGC |
 
 TROYES |
 
-01/01/2022 |
+01/07/2022 |
 
 Aude |
 
@@ -192,7 +190,7 @@ SIE |
 
 CARCASSONNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Aveyron |
 
@@ -202,7 +200,7 @@ SIE |
 
 RODEZ |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -212,7 +210,7 @@ SIP |
 
 MARSEILLE 4E/13E |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -222,7 +220,7 @@ SIP |
 
 MARSEILLE BORDE |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -232,7 +230,7 @@ SIE |
 
 MARSEILLE BORDE |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -242,7 +240,17 @@ SIP |
 
 SALON-DE-PROVENCE |
 
-01/01/2022 |
+01/07/2022 |
+
+Bouches-du-Rhône |
+
+013201 |
+
+SGC |
+
+ARLES |
+
+01/09/2022 |
 
 Bouches-du-Rhône |
 
@@ -252,7 +260,7 @@ SGC |
 
 CHATEAURENARD |
 
-01/01/2022 |
+01/07/2022 |
 
 Bouches-du-Rhône |
 
@@ -262,7 +270,7 @@ Trésorerie spécialisée |
 
 MARTIGUES |
 
-01/01/2022 |
+01/07/2022 |
 
 Charente |
 
@@ -272,7 +280,7 @@ SIE |
 
 ANGOULEME |
 
-01/01/2022 |
+01/07/2022 |
 
 Charente |
 
@@ -282,7 +290,7 @@ SPF |
 
 ANGOULEME 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Charente-Maritime |
 
@@ -292,7 +300,7 @@ SGC |
 
 SAINT-JEAN-D'ANGELY |
 
-01/01/2022 |
+01/07/2022 |
 
 Charente-Maritime |
 
@@ -302,7 +310,7 @@ SIE |
 
 LA ROCHELLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Charente-Maritime |
 
@@ -312,11 +320,11 @@ SIE |
 
 SAINTES |
 
-01/01/2022 |
+01/07/2022 |
 
 Côtes-d'Armor |
 
-022020 |
+022021 |
 
 SGC |
 
@@ -330,9 +338,9 @@ Dordogne |
 
 SIE |
 
-PERIGUEUX |
+PÉRIGUEUX |
 
-01/01/2022 |
+01/07/2022 |
 
 Eure |
 
@@ -342,7 +350,7 @@ SGC |
 
 LES ANDELYS |
 
-01/01/2022 |
+01/07/2022 |
 
 Eure |
 
@@ -352,7 +360,7 @@ SIE |
 
 EVREUX |
 
-01/01/2022 |
+01/07/2022 |
 
 Finistère |
 
@@ -362,17 +370,7 @@ SGC |
 
 BREST |
 
-01/01/2022 |
-
-Finistère |
-
-029050 |
-
-SPF |
-
-QUIMPER 1 |
-
-01/01/2022 |
+01/07/2022 |
 
 Corse-du-Sud |
 
@@ -382,7 +380,7 @@ Trésorerie spécialisée |
 
 CORSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -392,7 +390,7 @@ SGC |
 
 NIMES |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -402,7 +400,7 @@ SGC |
 
 ALES |
 
-01/01/2022 |
+01/07/2022 |
 
 Gard |
 
@@ -412,7 +410,7 @@ Trésorerie spécialisée |
 
 DU GARD |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -422,7 +420,7 @@ SIE |
 
 TOULOUSE CITE |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -432,7 +430,7 @@ SIE |
 
 BALMA |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Garonne |
 
@@ -442,7 +440,7 @@ SIP |
 
 BALMA |
 
-Courant 2022 |
+01/07/2022 |
 
 Gers |
 
@@ -452,7 +450,7 @@ SIE |
 
 DU GERS |
 
-01/01/2022 |
+01/07/2022 |
 
 Gers |
 
@@ -462,17 +460,7 @@ SIP |
 
 DU GERS |
 
-01/01/2022 |
-
-Gironde |
-
-033003 |
-
-Trésorerie spécialisée |
-
-AUDENGE |
-
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -482,7 +470,7 @@ SIE |
 
 ARCACHON |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -502,7 +490,7 @@ SIE |
 
 BORDEAUX |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -512,7 +500,7 @@ Trésorerie spécialisée |
 
 PESSAC |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -522,7 +510,7 @@ SIP |
 
 BLAYE |
 
-01/01/2022 |
+01/07/2022 |
 
 Gironde |
 
@@ -532,7 +520,7 @@ PRS |
 
 GIRONDE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -542,7 +530,7 @@ SGC |
 
 LITTORAL |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -552,7 +540,7 @@ SPF |
 
 BEZIERS 2 |
 
-01/01/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -562,7 +550,7 @@ SIE |
 
 MOSSON |
 
-01/04/2022 |
+01/07/2022 |
 
 Hérault |
 
@@ -572,7 +560,7 @@ Trésorerie spécialisée |
 
 HERAULT |
 
-08/05/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -582,7 +570,7 @@ SGC |
 
 FOUGERES |
 
-01/01/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -612,7 +600,7 @@ SGC |
 
 DOL-DE-BRETAGNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -622,7 +610,7 @@ SIP |
 
 RENNES 2 |
 
-01/01/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -632,7 +620,7 @@ SIE |
 
 SAINT-MALO |
 
-01/01/2022 |
+01/07/2022 |
 
 Ille-et-Vilaine |
 
@@ -642,7 +630,7 @@ SPF |
 
 RENNES 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Indre-et-Loire |
 
@@ -652,7 +640,7 @@ SIE |
 
 TOURS |
 
-01/01/2022 |
+01/07/2022 |
 
 Indre-et-Loire |
 
@@ -660,9 +648,9 @@ Indre-et-Loire |
 
 SGC |
 
-TOURS VILLE ET METROPOLE |
+TOURS |
 
-01/01/2022 |
+01/07/2022 |
 
 Isère |
 
@@ -672,7 +660,7 @@ SIE |
 
 GRENOBLE BELLEDONNE-VERCORS |
 
-01/01/2022 |
+01/07/2022 |
 
 Isère |
 
@@ -682,7 +670,7 @@ SGC |
 
 VIENNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Jura |
 
@@ -692,7 +680,7 @@ SGC |
 
 LONS-LE-SAUNIER |
 
-Courant 2022 |
+01/09/2022 |
 
 Jura |
 
@@ -702,7 +690,7 @@ SIE |
 
 DU JURA |
 
-01/01/2022 |
+01/07/2022 |
 
 Landes |
 
@@ -712,7 +700,7 @@ Trésorerie spécialisée |
 
 SAINT-VINCENT-DE-TYROSSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Landes |
 
@@ -722,7 +710,7 @@ SIE |
 
 MONT-DE-MARSAN |
 
-01/01/2022 |
+01/07/2022 |
 
 Loir-et-Cher |
 
@@ -732,7 +720,7 @@ SGC |
 
 VENDOME |
 
-01/01/2022 |
+01/07/2022 |
 
 Loir-et-Cher |
 
@@ -742,7 +730,7 @@ SIE |
 
 BLOIS |
 
-01/01/2022 |
+01/07/2022 |
 
 Loir-et-Cher |
 
@@ -752,7 +740,7 @@ SGC |
 
 ROMORANTIN-LANTHENAY |
 
-01/01/2022 |
+01/07/2022 |
 
 Loir-et-Cher |
 
@@ -762,7 +750,7 @@ SPF |
 
 BLOIS 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Loire |
 
@@ -772,7 +760,7 @@ SIP |
 
 SAINT-ETIENNE SUD |
 
-01/01/2022 |
+01/07/2022 |
 
 Loire |
 
@@ -782,7 +770,7 @@ SPF |
 
 SAINT-ETIENNE 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Loire |
 
@@ -792,7 +780,7 @@ SIP |
 
 ROANNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Loire-Atlantique |
 
@@ -802,17 +790,7 @@ SIP |
 
 NANTES NORD |
 
-Courant 2022 |
-
-Loire-Atlantique |
-
-044045 |
-
-SIE |
-
-NANTES CENTRE |
-
-01/01/2022 |
+01/10/2022 |
 
 Loire-Atlantique |
 
@@ -822,17 +800,7 @@ SIE |
 
 NANTES SUD |
 
-01/01/2022 |
-
-Loire-Atlantique |
-
-044050 |
-
-SIE |
-
-SAINT-NAZAIRE |
-
-01/01/2022 |
+01/07/2022 |
 
 Loire-Atlantique |
 
@@ -842,7 +810,7 @@ SIP |
 
 NANTES CENTRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Loire-Atlantique |
 
@@ -852,7 +820,7 @@ SIP |
 
 SAINT-NAZAIRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Loiret |
 
@@ -862,7 +830,17 @@ Trésorerie spécialisée |
 
 ORLEANS MUNICIPALE ET METROPOLE |
 
-01/03/2022 |
+01/07/2022 |
+
+Loiret |
+
+045020 |
+
+Trésorerie spécialisée |
+
+HOSPITALIERE DEPARTEMENTALE |
+
+01/07/2022 |
 
 Loiret |
 
@@ -872,7 +850,7 @@ SGC |
 
 MONTARGIS |
 
-01/01/2022 |
+01/07/2022 |
 
 Loiret |
 
@@ -882,7 +860,7 @@ SIE |
 
 LOIRET OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Loiret |
 
@@ -890,9 +868,19 @@ Loiret |
 
 SIP |
 
-ORLEANS-LA-SOURCE |
+ORLEANS SUD |
 
-01/01/2022 |
+01/07/2022 |
+
+Lot-et-Garonne |
+
+047014 |
+
+SGC |
+
+AGEN |
+
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -902,7 +890,7 @@ SIP |
 
 ANGERS OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -912,7 +900,7 @@ Trésorerie spécialisée |
 
 ANGERS MUNICIPALE |
 
-Courant 2022 |
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -922,7 +910,7 @@ Trésorerie spécialisée |
 
 ANGERS CHU |
 
-01/01/2022 |
+01/07/2022 |
 
 Maine-et-Loire |
 
@@ -932,7 +920,7 @@ SIE |
 
 CHOLET |
 
-01/01/2022 |
+01/07/2022 |
 
 Marne |
 
@@ -942,7 +930,7 @@ SIP |
 
 CHALONS-EN-CHAMPAGNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Meurthe-et-Moselle |
 
@@ -952,7 +940,7 @@ SIP |
 
 VANDOEUVRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Meuse |
 
@@ -962,7 +950,7 @@ SGC |
 
 VERDUN |
 
-01/01/2022 |
+01/07/2022 |
 
 Morbihan |
 
@@ -972,7 +960,17 @@ SIP |
 
 VANNES |
 
-01/01/2022 |
+01/07/2022 |
+
+Morbihan |
+
+056038 |
+
+SGC |
+
+PONTIVY |
+
+01/07/2022 |
 
 Morbihan |
 
@@ -982,7 +980,7 @@ SIE |
 
 LORIENT |
 
-01/01/2022 |
+01/07/2022 |
 
 Moselle |
 
@@ -992,7 +990,7 @@ SGC |
 
 D'HAYANGE |
 
-01/01/2022 |
+01/07/2022 |
 
 Moselle |
 
@@ -1002,7 +1000,17 @@ SIE |
 
 METZ |
 
-01/01/2022 |
+01/07/2022 |
+
+Moselle |
+
+057061 |
+
+Trésorerie spécialisée |
+
+METZ-THIONVILLE ETS. HOSP |
+
+01/07/2022 |
 
 Moselle |
 
@@ -1012,7 +1020,7 @@ SGC |
 
 SARREBOURG |
 
-01/01/2022 |
+01/07/2022 |
 
 Moselle |
 
@@ -1022,27 +1030,7 @@ SGC |
 
 SAINT-AVOLD |
 
-01/01/2022 |
-
-Moselle |
-
-057117 |
-
-SGC |
-
-SARREGUEMINES |
-
-01/01/2022 |
-
-Moselle |
-
-057121 |
-
-SIP-SIE |
-
-SAINT-AVOLD |
-
-01/01/2022 |
+01/07/2022 |
 
 Nièvre |
 
@@ -1052,7 +1040,7 @@ SIP |
 
 NEVERS |
 
-01/01/2022 |
+01/07/2022 |
 
 Nièvre |
 
@@ -1062,7 +1050,7 @@ SGC |
 
 NEVERS |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1072,7 +1060,7 @@ SIE |
 
 SERVICE NATIONAL DES QUITUS |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1082,7 +1070,7 @@ Trésorerie spécialisée |
 
 VILLENEUVE-D'ASCQ |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1102,7 +1090,7 @@ SIE |
 
 DUNKERQUE |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1112,7 +1100,7 @@ Trésorerie spécialisée |
 
 HOSPITALIERE DE ROUBAIX |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1122,7 +1110,7 @@ SIP |
 
 ROUBAIX |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1132,7 +1120,7 @@ SIE |
 
 LILLE-SECLIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1142,7 +1130,7 @@ SIE |
 
 LILLE OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1152,17 +1140,7 @@ SPF |
 
 LILLE 3 |
 
-01/01/2022 |
-
-Nord |
-
-059085 |
-
-SPF |
-
-VALENCIENNES |
-
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1172,7 +1150,7 @@ SDE |
 
 LILLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1182,7 +1160,7 @@ SIP |
 
 DOUAI |
 
-01/01/2022 |
+01/07/2022 |
 
 Nord |
 
@@ -1192,7 +1170,7 @@ SIP |
 
 VALENCIENNES |
 
-01/01/2022 |
+01/07/2022 |
 
 Oise |
 
@@ -1202,7 +1180,7 @@ SPF |
 
 BEAUVAIS |
 
-01/01/2022 |
+01/07/2022 |
 
 Oise |
 
@@ -1212,7 +1190,7 @@ SIE |
 
 PÔLE NATIONAL DE GESTION DE LA TVA DU COMMERCE EN LIGNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Oise |
 
@@ -1222,17 +1200,7 @@ SIE |
 
 BEAUVAIS |
 
-01/01/2022 |
-
-Orne |
-
-061019 |
-
-SGC |
-
-MORTAGNE-AU-PERCHE |
-
-01/01/2022 |
+01/07/2022 |
 
 Orne |
 
@@ -1242,7 +1210,7 @@ SGC |
 
 FLERS |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -1252,7 +1220,7 @@ SPF |
 
 ARRAS 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Pas-de-Calais |
 
@@ -1262,7 +1230,7 @@ SGC |
 
 SAINT-OMER |
 
-01/01/2022 |
+01/07/2022 |
 
 Puy-de-Dôme |
 
@@ -1272,7 +1240,7 @@ SGC |
 
 RIOM |
 
-01/01/2022 |
+01/07/2022 |
 
 Pyrénées-Atlantiques |
 
@@ -1282,17 +1250,7 @@ SIE |
 
 BAYONNE-ANGLET |
 
-01/01/2022 |
-
-Pyrénées-Atlantiques |
-
-064062 |
-
-SPF |
-
-PAU 1 |
-
-01/01/2022 |
+01/07/2022 |
 
 Hautes-Pyrénées |
 
@@ -1302,7 +1260,7 @@ SIP |
 
 HAUTES-PYRENEES |
 
-01/01/2022 |
+01/07/2022 |
 
 Hautes-Pyrénées |
 
@@ -1312,17 +1270,7 @@ SIE |
 
 DES HAUTES-PYRENEES |
 
-01/01/2022 |
-
-Bas-Rhin |
-
-067002 |
-
-PRS |
-
-BAS-RHIN |
-
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -1332,7 +1280,7 @@ SIP |
 
 EUROMETROPOLE |
 
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -1342,7 +1290,7 @@ Trésorerie spécialisée |
 
 STRASBOURG HOP. UNIVERSITAIRES |
 
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -1352,7 +1300,7 @@ SGC |
 
 SELESTAT |
 
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -1362,7 +1310,7 @@ Trésorerie spécialisée |
 
 GRAND EST |
 
-01/01/2022 |
+01/07/2022 |
 
 Bas-Rhin |
 
@@ -1372,7 +1320,7 @@ SGC |
 
 SAVERNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Haut-Rhin |
 
@@ -1382,7 +1330,7 @@ SIP |
 
 COLMAR |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -1392,7 +1340,7 @@ SIE |
 
 VILLEURBANNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -1402,7 +1350,7 @@ SIE |
 
 RHONE-OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Rhône |
 
@@ -1412,7 +1360,17 @@ SIE |
 
 VILLEFRANCHE-SUR-SAONE |
 
-01/01/2022 |
+01/07/2022 |
+
+Rhône |
+
+069078 |
+
+SPF |
+
+LYON 3 |
+
+01/07/2022 |
 
 Rhône |
 
@@ -1422,7 +1380,7 @@ SGC |
 
 VILLEFRANCHE |
 
-01/01/2022 |
+01/07/2022 |
 
 Saône-et-Loire |
 
@@ -1432,7 +1390,7 @@ SGC |
 
 MACON |
 
-01/01/2022 |
+01/07/2022 |
 
 Saône-et-Loire |
 
@@ -1442,7 +1400,7 @@ Trésorerie spécialisée |
 
 CHALON-SUR-SAONE MUNICIPALE |
 
-01/01/2022 |
+01/07/2022 |
 
 Sarthe |
 
@@ -1452,7 +1410,7 @@ SPF |
 
 LE MANS 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -1462,7 +1420,7 @@ Trésorerie spécialisée |
 
 CLUSES |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -1472,7 +1430,7 @@ SGC |
 
 THONON-LES-BAINS |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -1482,7 +1440,7 @@ SIE |
 
 THONON-LES-BAINS |
 
-01/01/2022 |
+01/07/2022 |
 
 Haute-Savoie |
 
@@ -1492,7 +1450,7 @@ SIP |
 
 ANNEMASSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -1502,7 +1460,17 @@ SIP |
 
 PARIS 12E |
 
-01/02/2022 |
+01/07/2022 |
+
+Paris |
+
+075026 |
+
+SIP |
+
+PARIS 14E |
+
+01/10/2022 |
 
 Paris |
 
@@ -1512,7 +1480,7 @@ SIP |
 
 PARIS 19E BUTTES CHAUMONT |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -1522,7 +1490,7 @@ SIP |
 
 PARIS 20E PERE LACHAISE |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -1532,7 +1500,7 @@ SIE |
 
 PARIS 4E |
 
-01/01/2022 |
+01/07/2022 |
 
 Paris |
 
@@ -1542,7 +1510,7 @@ SIE |
 
 PARIS 12E |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Maritime |
 
@@ -1552,17 +1520,7 @@ SGC |
 
 MAROMME-DEVILLE LES ROUEN |
 
-01/01/2022 |
-
-Seine-Maritime |
-
-076076 |
-
-Trésorerie spécialisée |
-
-ELBEUF |
-
-01/01/2022 |
+01/07/2022 |
 
 Seine-Maritime |
 
@@ -1572,7 +1530,7 @@ Trésorerie spécialisée |
 
 SEINE-MARITIME |
 
-Courant 2022 |
+01/09/2022 |
 
 Seine-Maritime |
 
@@ -1582,7 +1540,7 @@ SIP |
 
 ROUEN OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Maritime |
 
@@ -1592,7 +1550,7 @@ Trésorerie spécialisée |
 
 LE HAVRE CENTRE HOSPITALIER |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-et-Marne |
 
@@ -1602,7 +1560,7 @@ Trésorerie spécialisée |
 
 FONTAINEBLEAU-AVON |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-et-Marne |
 
@@ -1612,7 +1570,7 @@ SIP |
 
 LAGNY-SUR-MARNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Yvelines |
 
@@ -1622,7 +1580,7 @@ PRS |
 
 YVELINES |
 
-01/01/2022 |
+01/07/2022 |
 
 Yvelines |
 
@@ -1632,7 +1590,7 @@ SIE |
 
 SAINT-GERMAIN-EN-LAYE EXTERIEUR |
 
-01/01/2022 |
+01/07/2022 |
 
 Yvelines |
 
@@ -1642,7 +1600,7 @@ SIE |
 
 VERSAILLES |
 
-01/01/2022 |
+01/07/2022 |
 
 Yvelines |
 
@@ -1652,7 +1610,7 @@ SIP |
 
 SAINT-GERMAIN-EN-LAYE |
 
-01/01/2022 |
+01/07/2022 |
 
 Yvelines |
 
@@ -1662,7 +1620,7 @@ SPF |
 
 VERSAILLES 2 |
 
-01/01/2022 |
+01/07/2022 |
 
 Yvelines |
 
@@ -1672,7 +1630,7 @@ SDE |
 
 VERSAILLES |
 
-01/01/2022 |
+01/07/2022 |
 
 Deux-Sèvres |
 
@@ -1682,7 +1640,7 @@ Trésorerie spécialisée |
 
 HOSPITALIERE DES DEUX-SEVRES |
 
-01/01/2022 |
+01/07/2022 |
 
 Deux-Sèvres |
 
@@ -1692,17 +1650,7 @@ SIP |
 
 NIORT |
 
-01/01/2022 |
-
-Somme |
-
-080017 |
-
-SIE |
-
-DE LA SOMME |
-
-01/01/2022 |
+01/07/2022 |
 
 Somme |
 
@@ -1710,9 +1658,9 @@ Somme |
 
 SPF |
 
-AMIENS 1 |
+DE LA SOMME |
 
-01/01/2022 |
+01/07/2022 |
 
 Tarn |
 
@@ -1722,7 +1670,7 @@ SIE |
 
 CASTRES |
 
-01/01/2022 |
+01/07/2022 |
 
 Tarn-et-Garonne |
 
@@ -1732,7 +1680,7 @@ SIP |
 
 TARN-ET-GARONNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Tarn-et-Garonne |
 
@@ -1742,7 +1690,7 @@ SIE |
 
 DE TARN-ET-GARONNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1752,7 +1700,7 @@ SGC |
 
 BRIGNOLES |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1762,7 +1710,7 @@ SIP |
 
 HYERES |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1772,7 +1720,7 @@ PRS |
 
 VAR |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1782,7 +1730,7 @@ SIP |
 
 TOULON |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1792,7 +1740,7 @@ SPF |
 
 DRAGUIGNAN 2 |
 
-01/05/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1802,7 +1750,7 @@ SIE |
 
 TOULON |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1812,7 +1760,7 @@ SGC |
 
 DRAGUIGNAN |
 
-01/01/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1822,7 +1770,7 @@ SGC |
 
 ESTEREL |
 
-01/05/2022 |
+01/07/2022 |
 
 Var |
 
@@ -1832,7 +1780,7 @@ SIP |
 
 FREJUS |
 
-01/01/2022 |
+01/07/2022 |
 
 Vaucluse |
 
@@ -1840,9 +1788,9 @@ Vaucluse |
 
 SPF |
 
-VAUCLUSE |
+DE VAUCLUSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Vaucluse |
 
@@ -1852,7 +1800,7 @@ SIE |
 
 CARPENTRAS |
 
-01/01/2022 |
+01/07/2022 |
 
 Vaucluse |
 
@@ -1862,7 +1810,7 @@ SIE |
 
 SUD VAUCLUSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Vendée |
 
@@ -1872,17 +1820,7 @@ Trésorerie spécialisée |
 
 LA ROCHE-SUR-YON HOPITAUX |
 
-01/01/2022 |
-
-Vendée |
-
-085040 |
-
-SIP |
-
-CHALLANS |
-
-01/01/2022 |
+01/07/2022 |
 
 Vendée |
 
@@ -1892,7 +1830,7 @@ SIP-SIE |
 
 LES HERBIERS |
 
-01/01/2022 |
+01/07/2022 |
 
 Vienne |
 
@@ -1902,7 +1840,7 @@ SGC |
 
 NORD VIENNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Vienne |
 
@@ -1912,17 +1850,7 @@ SIE |
 
 POITIERS |
 
-01/01/2022 |
-
-Vienne |
-
-086050 |
-
-SPF |
-
-POITIERS 1 |
-
-01/01/2022 |
+01/07/2022 |
 
 Haute-Vienne |
 
@@ -1932,7 +1860,17 @@ SPF |
 
 LIMOGES 1 |
 
-01/01/2022 |
+01/07/2022 |
+
+Yonne |
+
+089052 |
+
+SGC |
+
+SENS |
+
+01/09/2022 |
 
 Yonne |
 
@@ -1942,7 +1880,7 @@ SPF |
 
 AUXERRE 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Territoire-de-Belfort |
 
@@ -1952,7 +1890,7 @@ SIP |
 
 BELFORT |
 
-01/01/2022 |
+01/07/2022 |
 
 Essonne |
 
@@ -1962,7 +1900,7 @@ Trésorerie spécialisée |
 
 ETAMPES COLLECTIVITES |
 
-01/01/2022 |
+01/07/2022 |
 
 Essonne |
 
@@ -1972,7 +1910,7 @@ SIE |
 
 ETAMPES |
 
-01/01/2022 |
+01/07/2022 |
 
 Essonne |
 
@@ -1982,7 +1920,7 @@ SIE |
 
 JUVISY |
 
-01/01/2022 |
+01/07/2022 |
 
 Essonne |
 
@@ -1992,7 +1930,7 @@ SPF |
 
 CORBEIL 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2002,7 +1940,7 @@ SIP |
 
 ASNIERES |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2022,7 +1960,7 @@ SIP |
 
 COLOMBES |
 
-Courant 2022 |
+29/08/2022 |
 
 Hauts-de-Seine |
 
@@ -2032,7 +1970,7 @@ SIP |
 
 NANTERRE-RUEIL |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2042,7 +1980,7 @@ SGC |
 
 NANTERRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2052,7 +1990,7 @@ Trésorerie spécialisée |
 
 HOSPITALIERE DES HAUTS-DE-SEINE |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2062,7 +2000,7 @@ SIP |
 
 SURESNES |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2072,7 +2010,7 @@ Trésorerie spécialisée |
 
 HAUTS-DE-SEINE AMENDES |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2082,7 +2020,7 @@ SIP |
 
 ISSY-LES-MOULINEAUX |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2092,7 +2030,7 @@ SIP |
 
 BOULOGNE-BILLANCOURT |
 
-01/02/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2102,7 +2040,17 @@ SIE |
 
 COURBEVOIE |
 
-01/01/2022 |
+01/07/2022 |
+
+Hauts-de-Seine |
+
+092057 |
+
+SIE |
+
+NANTERRE-RUEIL |
+
+01/11/2022 |
 
 Hauts-de-Seine |
 
@@ -2112,7 +2060,7 @@ SIE |
 
 SURESNES |
 
-01/01/2022 |
+01/07/2022 |
 
 Hauts-de-Seine |
 
@@ -2124,16 +2072,6 @@ HAUTS-DE-SEINE |
 
 Courant 2022 |
 
-Hauts-de-Seine |
-
-092108 |
-
-Trésorerie spécialisée |
-
-MEUDON |
-
-01/01/2022 |
-
 Seine-Saint-Denis |
 
 093003 |
@@ -2142,7 +2080,7 @@ SIP |
 
 VILLEPINTE |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -2152,7 +2090,7 @@ SIP |
 
 MONTREUIL |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -2162,17 +2100,7 @@ SIP |
 
 PANTIN |
 
-01/01/2022 |
-
-Seine-Saint-Denis |
-
-093044 |
-
-SIE |
-
-VILLEPINTE |
-
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -2182,7 +2110,7 @@ SIE |
 
 BOBIGNY |
 
-01/01/2022 |
+01/07/2022 |
 
 Seine-Saint-Denis |
 
@@ -2192,7 +2120,7 @@ SPF |
 
 BOBIGNY 1 |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-de-Marne |
 
@@ -2202,7 +2130,7 @@ PRS |
 
 VAL-DE-MARNE |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-de-Marne |
 
@@ -2212,7 +2140,7 @@ SIE |
 
 CHARENTON LE PONT |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-de-Marne |
 
@@ -2222,7 +2150,7 @@ SIE |
 
 L'HAY-LES-ROSES |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-de-Marne |
 
@@ -2232,7 +2160,7 @@ SIP |
 
 MAISONS-ALFORT/CHARENTON |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-d'Oise |
 
@@ -2242,7 +2170,7 @@ SIP |
 
 ARGENTEUIL |
 
-01/01/2022 |
+01/07/2022 |
 
 Val-d'Oise |
 
@@ -2252,7 +2180,17 @@ PRS |
 
 VAL-D'OISE |
 
-01/01/2022 |
+01/07/2022 |
+
+Val-d'Oise |
+
+095090 |
+
+Trésorerie spécialisée |
+
+VAL-D'OISE |
+
+01/12/2022 |
 
 Val-d'Oise |
 
@@ -2262,7 +2200,7 @@ SIP |
 
 GARGES-LES-GONESSE |
 
-01/01/2022 |
+01/07/2022 |
 
 Guadeloupe |
 
@@ -2272,7 +2210,7 @@ Trésorerie mixte |
 
 SAINT-MARTIN |
 
-01/01/2022 |
+01/07/2022 |
 
 Guadeloupe |
 
@@ -2282,7 +2220,7 @@ Trésorerie spécialisée |
 
 POINTE-A-PITRE HOSPITALIERE |
 
-01/01/2022 |
+01/07/2022 |
 
 Guadeloupe |
 
@@ -2292,7 +2230,7 @@ SIE |
 
 GRANDE TERRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Guadeloupe |
 
@@ -2302,7 +2240,7 @@ SIE |
 
 NORD BASSE-TERRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Guadeloupe |
 
@@ -2312,7 +2250,7 @@ SIP |
 
 NORD BASSE-TERRE |
 
-01/01/2022 |
+01/07/2022 |
 
 Martinique |
 
@@ -2322,7 +2260,7 @@ Trésorerie spécialisée |
 
 CACEM |
 
-01/01/2022 |
+01/07/2022 |
 
 Martinique |
 
@@ -2332,7 +2270,7 @@ SIP |
 
 FORT-DE-FRANCE SCHOELCHER |
 
-01/01/2022 |
+01/07/2022 |
 
 La Réunion |
 
@@ -2342,7 +2280,7 @@ SIE |
 
 ST-DENIS-DE-LA-REUNION OUEST |
 
-01/01/2022 |
+01/07/2022 |
 
 DINR |
 
@@ -2352,7 +2290,7 @@ SIE |
 
 ENTREPRISES ETRANGERES |
 
-01/01/2022 |
+01/07/2022 |
 
 DINR |
 
@@ -2362,4 +2300,4 @@ SIE |
 
 RECETTE DES NON RESIDENTS |
 
-01/01/2022 |
+01/07/2022 |
