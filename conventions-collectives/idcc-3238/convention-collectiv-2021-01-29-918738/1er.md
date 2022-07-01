@@ -1,0 +1,39 @@
+# Article 1er
+
+1.1. Considérations générales, structure générale de la grille de classification
+
+Communément, une classification désigne une démarche d'identification, de regroupement et de hiérarchisation des postes à l'aide de critères objectifs communs et équitables.
+
+Professionnellement, elle consiste en un ensemble de repères et de règles de procédure structurées logiquement qui permettent un classement ordonné de situations de travail en fonction de catégories professionnelles et/ou de niveaux hiérarchiques définis.
+
+Conventionnellement, la classification professionnelle s'organise au sein d'une grille de classification couvrant l'ensemble des catégories professionnelles OETAM.
+
+La grille de classification comprend une échelle hiérarchique ordonnée en 5 niveaux (niveaux I à V), intégrant pour chacun d'eux un ordonnancement de 3 échelons (échelons 1 à 3). Une présentation synthétique de la grille de classification par catégories professionnelles est reproduite en annexe I.
+
+L'ordonnancement de la grille en niveaux et échelons est fondé sur une approche dite par « critères classants » qui favorise la reconnaissance des compétences professionnelles au-delà du seul critère de la qualification des postes.
+
+1.2. Ordonnancement des niveaux
+
+L'ordonnancement des 5 niveaux (niveaux I à V) est fonction de 5 critères classants cumulatifs communs à l'ensemble des catégories professionnelles.
+
+Ces critères reposent sur :
+
+– le contenu d'activité : nature du travail et degré de difficulté des travaux à exécuter ;
+
+– la responsabilité : fait d'être garant de ses actes professionnels dans le cadre des instructions et directives qui sont données ;
+
+– les informations traitées/et la communication : ensemble des exigences pour la réception, la perception, le traitement et l'émission des informations ;
+
+– l'autonomie : degré de liberté ou d'initiative dont la personne dispose dans la réalisation de son travail, en tenant compte des consignes, instructions et directives reçues dans le cadre de l'organisation du travail ;
+
+– les connaissances requises : ensemble des savoirs nécessaires pour tenir un emploi. Ce critère vise aussi bien les connaissances acquises par voie scolaire, par la formation continue et/ou par l'expérience professionnelle.
+
+L'ordonnancement des niveaux par critères classants est reproduit en annexe II.
+
+1.3. Ordonnancement des échelons
+
+Les échelons (1 à 3) sont gradués au sein de chaque niveau par des définitions hiérarchisées pour chacune des catégories professionnelles.
+
+Ils permettent à l'entreprise d'apprécier et d'affiner le positionnement au regard de l'activité professionnelle.
+
+L'ordonnancement des échelons est reproduit par catégories professionnelles en annexe III.
