@@ -1,26 +1,16 @@
 # Article Annexe
 
-ANNEXES
-
 ANNEXE 1
 
 Etat-major, direction ou service employeur |
 
-Emplois
+Emplois de 1er niveau |
 
-de 1er niveau |
+Emplois de 2e niveau |
 
-Emplois
+Emplois de 3e niveau |
 
-de 2e niveau |
-
-Emplois
-
-de 3e niveau |
-
-Emplois
-
-de 4e niveau |
+Emplois de 4e niveau |
 
 Cabinet du ministre de la défense |
 
@@ -82,7 +72,9 @@ Cabinet militaire du Premier ministre |
 
 7 |
 
-Direction générale des relations internationales et de la stratégie |
+Direction générale des relations internationales
+
+et de la stratégie |
 
 11 |
 
@@ -152,7 +144,9 @@ Direction du renseignement et de la sécurité de la défense |
 
 74 |
 
-Délégation à l'information et à la communication de la défense |
+Délégation à l'information et à la communication
+
+de la défense |
 
 2 |
 
@@ -162,7 +156,9 @@ Délégation à l'information et à la communication de la défense |
 
 4 |
 
-Direction de la protection des installations, moyens et activités de la défense |
+Direction de la protection des installations, moyens
+
+et activités de la défense |
 
 1 |
 
@@ -172,7 +168,7 @@ Direction de la protection des installations, moyens et activités de la défens
 
 2 |
 
-TOTAL : |
+TOTAL |
 
 939 |
 
@@ -181,3 +177,31 @@ TOTAL : |
 5 307 |
 
 14 747 |
+
+Emplois relevant de l'
+
+article L. 2513-4
+
+du code général des collectivités territoriales |
+
+Emplois de 1er niveau |
+
+Emplois de 2e niveau |
+
+Emplois de 3e niveau |
+
+Emplois de 4e niveau |
+
+Bataillon des marins-pompiers de Marseille |
+
+2 |
+
+25 |
+
+40 |
+
+203 |
+
+TOTAL |
+
+270 |
