@@ -4,12 +4,8 @@ Le notaire peut également exercer sa profession dans le cadre d'une société p
 
 Les dispositions des troisième et quatrième alinéas de l'article 1er bis sont applicables à une telle société.
 
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat, notamment :
-
-1° Les conditions de la nomination de la société dans un ou plusieurs offices de notaire, de son interdiction temporaire et de sa destitution, ainsi que les règles applicables en cas d'empêchement, de retrait ou de décès d'un associé exerçant la profession ;
-
-2° Les modalités d'application des règles de discipline prévues par l' ordonnance n° 45-1418 du 28 juin 1945 relative à la discipline des notaires et de certains officiers ministériels.
+Un décret en Conseil d'Etat fixe notamment les conditions de la nomination de la société dans un ou plusieurs offices de notaire, de son interdiction temporaire et de sa destitution, ainsi que les règles applicables en cas d'empêchement, de retrait ou de décès d'un associé exerçant la profession.
 
 NOTA :
 
-Décret n° 2017-800 du 5 mai 2017, Art. 5 : Les chapitres V, VI et VII du titre II de l'ordonnance du 31 mars 2016 entrent en vigueur le lendemain du jour de la publication du présent décret au Journal officiel de la République française (8 mai 2017).
+Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Se reporter aux conditions d’application dudit article.
