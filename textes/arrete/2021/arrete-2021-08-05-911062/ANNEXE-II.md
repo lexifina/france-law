@@ -59,3 +59,19 @@ La liste des cycles de formation dénommés " Prépas Talents " mentionnés à l
 -Prépa Talents concours de catégorie A du ministère de l'économie, des finances et de la relance de l'Institut d'études politiques de Toulouse
 
 -Prépa Talents du service public de l'université polytechnique des Hauts-de-France (filière économie, finances et travail)
+
+-Prépa Talents gendarmerie de Clermont Ferrand ;
+
+-Prépa Talents de l'Institut de préparation à l'administration générale de Rennes ;
+
+-Prépa Talents “ culture juridique pour ingénieur ” de l'université d'Orléans (Bourges) ;
+
+-Prépa Talents “ collectivités territoriales ” de l'université d'Orléans (Châteauroux) ;
+
+-Prépa Talents gendarmerie d'Amiens ;
+
+-Prépa Talents inspecteur du travail de l'Institut de préparation à l'administration générale de Nanterre ;
+
+-Prépa Talents gendarmerie de Montpellier ;
+
+-Prépa Talents “ métiers de l'administration et de la justice ” de l'université d'Aix-Marseille.

@@ -14,9 +14,9 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 
 - Prépa Talents de l'Institut régional d'administration de Lyon
 
-- Prépa Talents de l'Institut régional d'administration de Metz (Lorraine)
+- Prépa Talents de l'Institut régional d'administration de Metz
 
-- Prépa Talents de l'Institut national du service public et grands concours de l'Institut d'études politiques d'Aix-en-Provence
+- Prépa Talents + intégrée dans la prép'INSP-grands concours de l'Institut d'études politiques d'Aix-en-Provence
 
 - Prépa Talents du service public de l'université d'Aix-Marseille
 
@@ -59,6 +59,22 @@ La liste des cycles de formation dénommés "Prépas Talents" mentionnés à l'a
 - Prépa Talents du service public de l'université polytechnique des Hauts-de-France (filière Sécurité-Justice)
 
 - Prépa Talents de l'ouest francilien de l'université de Versailles Saint-Quentin-en-Yvelines (filière Sécurité-Justice)
+
+- Prépa Talents de l'Institut d'études politiques de Grenoble ;
+
+- Prépa Talents Sciences Politiques de l'Institut d'études politiques de Rennes ;
+
+- Prépa Talents de l'université des Antilles ;
+
+- Prépa Talents concours de la haute fonction publique de l'université Paris 1-ENS ;
+
+- Prépa Talents de l'Ouest francilien de Sciences Po Saint Germain en Laye ;
+
+- Prépa Talents de l'université de Perpignan Via Domitia ;
+
+- Prépa Talents de l'université Toulouse 1 Capitole ;
+
+- Prépa Talents des services publics sociaux de l'université de Clermont-Auvergne.
 
 NOTA :
 
