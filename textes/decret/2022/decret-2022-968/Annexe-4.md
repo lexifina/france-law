@@ -1,6 +1,4 @@
-# Article LEGIARTI000045162947
-
-ANNEXE 3
+# Article Annexe 4
 
 TABLEAU DES SEUILS DE NOTIFICATION DES AIDES À FINALITÉ RÉGIONALE EN FONCTION DES INTENSITÉS D'AIDE DES ZONES
 
@@ -10,9 +8,15 @@ aux grandes entreprises selon les zones |
 
 SEUIL DE NOTIFICATION
 
-(montant à partir duquel l'aide est soumise
+(montant à partir duquel l'aide est soumise à une obligation de notification) |
 
-à une obligation de notification) |
+10% |
+
+7 500 000 EUR |
+
+15% |
+
+11 250 000 EUR |
 
 40 % |
 
