@@ -1,7 +1,5 @@
 # Article Annexe à l'article R122-2
 
-.
-
 CATÉGORIES
 
 de projets
@@ -418,11 +416,11 @@ Augmentation de puissance de plus de 20 % des installations existantes.
 
 |
 
-30. Ouvrages de production d'électricité à partir de l'énergie solaire. |
+30. Installations photovoltaïques de production d'électricité (hormis celles sur toitures, ainsi que celles sur ombrières situées sur des aires de stationnement) |
 
-Installations au sol d'une puissance égale ou supérieure à 250 kWc. |
+Installations d'une puissance égale ou supérieure à 1 MWc, à l'exception des installations sur ombrières |
 
-Installations sur serres et ombrières d'une puissance égale ou supérieure à 250 kWc. |
+Installations d'une puissance égale ou supérieure à 300 kWc |
 
 31. Installation en mer de production d'énergie. |
 
@@ -486,7 +484,9 @@ a) Travaux et constructions créant une emprise au sol au sens de l'article R. *
 
 -les secteurs où les constructions sont autorisées au sens de l'article L. 161-4 du même code, lorsqu'une carte communale est applicable ;
 
--les parties urbanisées de la commune au sens de l'article L. 111-3 du même code, en l'absence de plan local d'urbanisme et de carte communale applicable ; |
+-les parties urbanisées de la commune au sens de l'article L. 111-3 du même code, en l'absence de plan local d'urbanisme et de carte communale applicable ;
+
+|
 
 a) Travaux et constructions qui créent une surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou une emprise au sol au sens de l'article R. * 420-1 du même code supérieure ou égale à 10 000 m2 ; |
 
@@ -500,7 +500,9 @@ c) Opérations d'aménagement créant une emprise au sol au sens de l'article R.
 
 -les secteurs où les constructions sont autorisées au sens de l'article L. 161-4 du même code, lorsqu'une carte communale est applicable ;
 
--les parties urbanisées de la commune au sens de l'article L. 111-3 du même code, en l'absence de plan local d'urbanisme et de carte communale applicable. |
+-les parties urbanisées de la commune au sens de l'article L. 111-3 du même code, en l'absence de plan local d'urbanisme et de carte communale applicable.
+
+|
 
 b) Opérations d'aménagement dont le terrain d'assiette est compris entre 5 et 10 ha, ou dont la surface de plancher au sens de l'article R. 111-22 du code de l'urbanisme ou l'emprise au sol au sens de l'article R. * 420-1 du même code est supérieure ou égale à 10 000 m2. |
 
@@ -608,4 +610,4 @@ Toute création ou extension.
 
 NOTA :
 
-Conformément à l'article 30 du décret n° 2021-837 du 29 juin 2021, ces dispositions entrent en vigueur le 1er août 2021.
+Conformément au I de l'article 4 du décret n° 2022-970 du 1er juillet 2022, ces dispositions sont applicables aux projets pour lesquels la première autorité compétente pour autoriser le projet ou l'autorité chargée de l'examen au cas par cas sont saisies à compter de la publication dudit décret.
