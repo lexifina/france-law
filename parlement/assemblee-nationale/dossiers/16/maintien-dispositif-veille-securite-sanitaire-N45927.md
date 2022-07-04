@@ -1,0 +1,59 @@
+# Maintien provisoire d'un dispositif de veille et de sécurité sanitaire en matière de lutte contre la covid-19
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N45927
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/maintien_dispositif_veille_securite_sanitaire
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl21-779.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-07-04 : 1er dépôt d'une initiative. (PRJLANR5L16B0009)
+  - 2022-07-04 : Etude d'impact (ETDIANR5L16B0009)
+  - 2022-07-04 : Avis du Conseil d'Etat (AVCEANR5L16B0009)
+  - 2022-07-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-04 : Renvoi en commission au fond
+      - 2022-07-05 : Nomination de rapporteur
+      - 2022-07-05 : Réunion de commission
+      - 2022-07-05 : Réunion de commission
+      - 2022-07-06 : Réunion de commission
+      - 2022-07-06 : Réunion de commission
+      - 2022-07-11 : Réunion de commission
+      - 2022-07-06 : Dépôt de rapport (RAPPANR5L16B0014, PRJLANR5L16BTC0014)
+  - Discussion en séance publique
+    - 2022-07-11 : Discussion en séance publique
+    - 2022-07-12 : Discussion en séance publique
+    - 2022-07-12 : Discussion en séance publique
+    - 2022-07-12 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-07-13 : Dépôt d'une initiative en navette (PRJLSNR5S379B0779)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-13 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-07-19 : Dépôt de rapport (RAPPSNR5S379B0793, PRJLSNR5S379BTC0794)
+  - Discussion en séance publique
+    - 2022-07-20 : Discussion en séance publique
+    - 2022-07-20 : Décision
+- Commission Mixte Paritaire
+  - 2022-07-21 : Dépôt d'un projet de loi (PRJLANR5L16B0156)
+  - 2022-07-21 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-07-21 : Nomination de rapporteur
+    - 2022-07-21 : Dépôt du rapport d'une CMP (RAPPANR5L16B0158, PRJLANR5L16BTC0158)
+    - 2022-07-21 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0815, PRJLSNR5S379BTC0816)
+  - Discussion en séance publique
+    - 2022-07-25 : Discussion en séance publique
+    - 2022-07-25 : Décision
+  - Discussion en séance publique
+    - 2022-07-26 : Discussion en séance publique
+    - 2022-07-26 : Décision
+  - 2022-07-22 : Décision de la CMP
+- Conseil constitutionnel
+  - 2022-07-27 : Saisine du conseil constitutionnel
+  - 2022-07-30 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-07-30 : Promulgation d'une loi
