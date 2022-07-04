@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — SACOGIVA - OPERATION LUYNES ARIA (PRET LIBRE) - ACQUISITION EN VEFA DE 25 LOGEMENTS LOCATIFS SOCIAUX (8 PLAI - 12 PLUS - 5 PLS) - EMPRUNT DE 1 290 000 EUROS A SOUSCRIRE AUPRES DU CREDIT COOPERATIF - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-07-04
+- Séance : Conseil Municipal 1CA
+- Objet : SACOGIVA - OPERATION LUYNES ARIA (PRET LIBRE) - ACQUISITION EN VEFA DE 25 LOGEMENTS LOCATIFS SOCIAUX (8 PLAI - 12 PLUS - 5 PLS) - EMPRUNT DE 1 290 000 EUROS A SOUSCRIRE AUPRES DU CREDIT COOPERATIF - DEMANDE DE GARANTIE DE LA VILLE A HAUTEUR DE 100 %
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13485-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
