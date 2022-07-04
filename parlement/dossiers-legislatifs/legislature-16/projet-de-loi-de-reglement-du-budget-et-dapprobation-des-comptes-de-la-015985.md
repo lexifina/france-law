@@ -1,0 +1,92 @@
+# Projet de loi de règlement du budget et d’approbation des comptes de l’année 2021 (ECOX2214913L)
+
+- Type : projet loi
+- Législature : XVIème législature
+- Ouvert le : 2022-07-04
+- Mis à jour le : 2022-08-04
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000046015985
+
+## Documents
+
+- [Projet de loi et exposé des motifs](https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/legislatif-et-reglementaire/actualite-legislative/2022/pjl_ecox2214913l_cm_4.07.2022.pdf)
+- [Communiqué de presse du Conseil des ministres du 4 juillet 2022](https://www.gouvernement.fr/conseil-des-ministres/2022-07-04#reglement-du-budget-et-approbation-des-comptes-de-l-annee-20) Le ministre de l’Économie, des Finances et de la Souveraineté industrielle et numérique, et le ministre délégué auprès du ministre de l’Économie, des Finances et de la Souveraineté industrielle et numérique, chargé des comptes publics, ont présenté un projet de loi de règlement du budget et d'approbation des comptes de l'année 2021. Au total, le déficit public a été réduit à 6,4 % du produit intérieur brut (PIB), en nette amélioration par rapport aux 8,9 % constatés en 2020 et par rapport à la prévision de déficit du dernier budget rectificatif pour 2021, qui s’élevait à 8,2 %. Cette amélioration est liée à un rebond historique de l’activité en 2021, avec une croissance qui s’est élevée à + 6,8 %, soit la plus forte progression de l’activité observée depuis 1969. De même, le très fort dynamisme du marché du travail a permis la création de plus de 850 000 emplois, permettant de porter le nombre de créations d’emplois depuis 2017 à 1,2 million et de réduire le chômage à un taux de 7,4 % au quatrième trimestre 2021, soit son plus bas niveau depuis 2008. Cette amélioration de la situation économique, plus forte et plus rapide qu’escomptée, se traduit par des recettes supérieures de plus de 37 milliards d’euros par rapport aux prévisions de la loi de finances initiale pour 2021, qui ont en partie été consacrées à la réduction du solde budgétaire et de la dette. Au terme d’une seconde année encore fortement marquée par les impacts de la crise sanitaire, le solde budgétaire de l’exercice 2021 s’établit à - 170,7 milliards d’euros, soit une amélioration de 7,3 milliards d’euros par rapport à 2020. Compte tenu de la persistance de l’épidémie au premier semestre 2021, 34,4 milliards d’euros ont été mobilisés au titre de la seule mission « Plan d’urgence face à la crise sanitaire », qui porte en particulier les dépenses du fonds de solidarité (26,8 milliards d’euros), de l’activité partielle, et de la compensation des allégements de cotisations à la sécurité sociale, mesures qui ont permis de protéger efficacement les entreprises et les salariés contre les conséquences économiques de la crise sanitaire. Par ailleurs, un effort massif en faveur de l’investissement et de la relance a été mis en oeuvre en 2020 et 2021. Le déploiement rapide du plan France Relance avec plus de 72 milliards d’euros engagés à la fin de l’année 2021 – pour une cible prévue de 70 milliards d’euros – et plus de 42 milliards d’euros décaissés, permettant un lancement ambitieux de dispositifs déployés dans les territoires, stimulant l’activité et la croissance et contribuant à transformer notre économie afin de la rendre plus verte, plus compétitive et plus solidaire. Début 2022, la France a d’ores et déjà encaissé 12,5 milliards d’euros de contributions de l’Union européenne au titre de son plan de relance. Enfin, l’exécution du budget reflète aussi le choix du Gouvernement de mettre en oeuvre très rapidement, dès le mois d’octobre 2021, des mesures de soutien du pouvoir d’achat, en particulier le chèque énergie exceptionnel, l’indemnité inflation de 100 euros allouée à 38 millions de personnes et le bouclier sur les tarifs du gaz et de l’électricité, afin de protéger les Français contre la hausse des prix. La lutte contre l’inflation et la protection du pouvoir d’achat des Français demeureront des priorités en 2022.
+- [Texte adopté en 1ère lecture par l'Assemblée nationale le 13 juillet 2022](https://www.assemblee-nationale.fr/dyn/16/textes/l16t0002_texte-adopte-seance#)
+- [Texte rejeté en 1ère lecture par le Sénat le 19 juillet 2022](http://www.senat.fr/leg/tas21-135.html)
+- [Texte adopté en nouvelle lecture par l'Assemblée nationale le 27 juillet 2022](https://www.assemblee-nationale.fr/dyn/16/textes/l16t0006_texte-adopte-seance)
+- [Texte rejeté en nouvelle lecture par le Sénat le 2 août 2022](http://www.senat.fr/leg/tas21-144.html)
+- [Texte rejeté définitivement, dans les conditions prévues à l'article 45, al. 4, de la Constitution, par l'Assemblée nationale le 3 août 2022](https://www.assemblee-nationale.fr/dyn/16/textes/l16t0013_texte-adopte-seance#)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](https://www.assemblee-nationale.fr/dyn/16/dossiers/reglement_budget_2021)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/pjl21-787.html)
+- Documents préparatoires
+  - Avis du Haut Conseil des finances publiques
+    - [Avis du Haut Conseil des finances publiques n° HCFP-2022-1 relatif au solde structurel des administrations publiques présenté dans le projet de loi de règlement de 2021](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046014848?init=true&page=1&query=avis+solde+structurel&searchField=ALL&tab_selection=all)
+  - Assemblée nationale (1ère lecture)
+    - [Rapport n° 16 de M. Jean-René Cazeneuve](https://www.assemblee-nationale.fr/dyn/16/rapports/cion_fin/l16b0016_rapport-fond)
+    - [Exposé général et examen des articles (Tome I)](https://www.assemblee-nationale.fr/dyn/16/rapports/cion_fin/l16b0016-ti_rapport-fond)
+    - [Commentaire des rapports annuels de performances (Tome II)](https://www.assemblee-nationale.fr/dyn/16/rapports/cion_fin/l16b0016-tii_rapport-fond)
+  - Sénat (1ère lecture)
+    - [Rapport n° 792 (2021-2022) de M. Jean-François Husson (tome I : Exposé général et examen des articles)](http://www.senat.fr/rap/l21-792-1/l21-792-1.html)
+    - [Rapport n° 792 (2021-2022) de MM. Vincent Delahaye et Rémi Féraud (tome II, annexe 1 : Action extérieure de l'Etat)](http://www.senat.fr/rap/l21-792-21/l21-792-21.html)
+    - [Rapport n° 792 (2021-2022) de Mme Isabelle Briquet (tome II, annexe 2 : Administration générale et territoriale de l'Etat)](http://www.senat.fr/rap/l21-792-22/l21-792-22.html)
+    - [Rapport n° 792 (2021-2022) de MM. Vincent Segouin et Patrice Joly (tome II, annexe 3 : Agriculture, alimentation, forêt et affaires rurales)](http://www.senat.fr/rap/l21-792-23/l21-792-23.html)
+    - [Rapport n° 792 (2021-2022) de MM. Michel Canévet et Jean-Claude Requier (tome II, annexe 4 : Aide publique au développement)](http://www.senat.fr/rap/l21-792-24/l21-792-24.html)
+    - [Rapport n° 792 (2021-2022) de M. Marc Laménie (tome II, annexe 5 : Anciens combattants, mémoire et liens avec la Nation)](http://www.senat.fr/rap/l21-792-25/l21-792-25.html)
+    - [Rapport n° 792 (2021-2022) de M. Jean-Baptiste Blanc (tome II, annexe 6, volume 1 : Cohésion des territoires - Logement et ville)](http://www.senat.fr/rap/l21-792-26-1/l21-792-26-1.html)
+    - [Rapport n° 792 (2021-2022) de M. Bernard Delcros (tome II, annexe 6, volume 2 : Cohésion des territoires - Aménagement des territoire)]()
+    - [Rapport n° 792 (2021-2022) de M. Christian Bilhac (tome II, annexe 7 : Conseil et contrôle de l'État](http://www.senat.fr/rap/l21-792-27/l21-792-27.html)
+    - [Rapport n° 792 (2021-2022) de MM. Vincent Éblé et Didier Rambaud (tome II, annexe 8 : Culture)](http://www.senat.fr/rap/l21-792-28/l21-792-28.html)
+    - [Rapport n° 792 (2021-2022) de M. Dominique de Legge (tome II, annexe 9 : Défense)](http://www.senat.fr/rap/l21-792-29/l21-792-29.html)
+    - [Rapport n° 792 (2021-2022) de M. Paul Toussaint Parigi (tome II, annexe 10 : Direction de l'action du Gouvernement](http://www.senat.fr/rap/l21-792-210/l21-792-210.html)
+    - [Rapport n° 792 (2021-2022) de Mme Christine Lavarde (tome II, annexe 11, volume 1 : Écologie, développement et mobilité durables)](http://www.senat.fr/rap/l21-792-211-1/l21-792-211-1.html)
+    - [Rapport n° 792 (2021-2022) de MM. Hervé Maurey et Stéphane Sautarel (tome II, annexe 11, volume 2 : Écologie, développement et mobilité durables)](http://www.senat.fr/rap/l21-792-211-2/l21-792-211-2.html)
+    - [Rapport n° 792 (2021-2022) de M. Vincent Capo-Canellas (tome II, annexe 11, volume 3 : Écologie, développement et mobilité durables)](http://www.senat.fr/rap/l21-792-211-3/l21-792-211-3.html)
+    - [Rapport n° 792 (2021-2022) de M. Thierry Cozic et Mme Frédérique Espagnac (tome II, annexe 12 : Economie)](http://www.senat.fr/rap/l21-792-212/l21-792-212.html)
+    - [Rapport n° 792 (2021-2022) de M. Jérôme Bascher (tome II, annexe 13 : Engagements financiers de l'Etat)](http://www.senat.fr/rap/l21-792-213/l21-792-213.html)
+    - [Rapport n° 792 (2021-2022) de M. Gérard Longuet (tome II, annexe 14 : Enseignement scolaire)](http://www.senat.fr/rap/l21-792-214/l21-792-214.html)
+    - [Rapport n° 792 (2021-2022) de MM. Albéric de Montgolfier et Claude Nougein (tome II, annexe 15, volume 1 : Gestion des finances publiques - Crédits non répartis - Transformation et fonction publiques)](http://www.senat.fr/rap/l21-792-215-1/l21-792-215-1.html)
+    - [Rapport n° 792 (2021-2022) de M. Albéric de Montgolfier (tome II, annexe 15, volume 2 : Compte d'affectation spéciale : gestion du patrimoine immobilier de l'État)](http://www.senat.fr/rap/l21-792-215-2/l21-792-215-2.html)
+    - [Rapport n° 792 (2021-2022) de M. Sébastien Meurant (tome II, annexe 16 : Immigration, asile et intégration)](http://www.senat.fr/rap/l21-792-216/l21-792-216.html)
+    - [Rapport n° 792 (2021-2022) de M. Thierry Meignen (tome II, annexe 17 : Investissements d'avenir)](http://www.senat.fr/rap/l21-792-217/l21-792-217.html)
+    - [Rapport n° 792 (2021-2022) de M. Antoine Lefèvre (tome II, annexe 18 : Justice)](http://www.senat.fr/rap/l21-792-218/l21-792-218.html)
+    - [Rapport n° 792 (2021-2022) de M. Roger Karoutchi (tome II, annexe 19 : Médias, livre et industries culturelles)](http://www.senat.fr/rap/l21-792-219/l21-792-219.html)
+    - [Rapport n° 792 (2021-2022) de MM. Georges Patient et Teva Rohfritsch (tome II, annexe 20 : Outre-mer)](http://www.senat.fr/rap/l21-792-220/l21-792-220.html)
+    - [Rapport n° 792 (2021-2022) de M. Victorin Lurel (tome II, annexe 21 : Compte d'affectation spéciale : participations financières de l'État)](http://www.senat.fr/rap/l21-792-221/l21-792-221.html)
+    - [Rapport n° 792 (2021-2022) de M. Jean-François Husson (tome II, annexe 22, volume 1 : Plan de relance)](http://www.senat.fr/rap/l21-792-222-1/l21-792-222-1.html)
+    - [Rapport n° 792 (2021-2022) de M. Jean-François Husson (tome II, annexe 22, volume 2 : Plan d'urgence face à la crise sanitaire)](http://www.senat.fr/rap/l21-792-222-2/l21-792-222-2.html)
+    - [Rapport n° 792 (2021-2022) de M. Jean-Michel Arnaud (tome II, annexe 23 : Pouvoirs publics)](http://www.senat.fr/rap/l21-792-223/l21-792-223.html)
+    - [Rapport n° 792 (2021-2022) de Mme Vanina Paoli-Gagin et M. Jean-François Rapin (tome II, annexe 24 : Recherche et enseignement supérieur)](http://www.senat.fr/rap/l21-792-224/l21-792-224.html)
+    - [Rapport n° 792 (2021-2022) de Mme Sylvie Vermeillet (tome II, annexe 25 : Régimes sociaux et de retraite)](http://www.senat.fr/rap/l21-792-225/l21-792-225.html)
+    - [Rapport n° 792 (2021-2022) de MM. Charles Guené et Claude Raynal (tome II, annexe 26 : Relations avec les collectivités territoriales)](http://www.senat.fr/rap/l21-792-226/l21-792-226.html)
+    - [Rapport n° 792 (2021-2022) de M. Pascal Savoldelli (tome II, annexe 27 : Remboursements et dégrèvements)](http://www.senat.fr/rap/l21-792-227/l21-792-227.html)
+    - [Rapport n° 792 (2021-2022) de M. Christian Klinger (tome II, annexe 28 : Santé)](http://www.senat.fr/rap/l21-792-228/l21-792-228.html)
+    - [Rapport n° 792 (2021-2022) de M. Philippe Dominati (tome II, annexe 29, volume 1 : Sécurités (Gendarmerie nationale - Police nationale - Sécurité et éducation routières))](http://www.senat.fr/rap/l21-792-229-1/l21-792-229-1.html)
+    - [Rapport n° 792 (2021-2022) de M. Jean-Pierre Vogel (tome II, annexe 29, volume 2 : Sécurités (Sécurité civile))](http://www.senat.fr/rap/l21-792-229-2/l21-792-229-2.html)
+    - [Rapport n° 792 (2021-2022) de MM. Arnaud Bazin et Eric Bocquet (tome II, annexe 30 : Solidarité, insertion et égalité des chances)](http://www.senat.fr/rap/l21-792-230/l21-792-230.html)
+    - [Rapport n° 792 (2021-2022) de M. Eric Jeansannetas (tome II, annexe 31 : Sport, jeunesse et vie associative)](http://www.senat.fr/rap/l21-792-231/l21-792-231.html)
+    - [Rapport n° 792 (2021-2022) de MM. Daniel Breuiller et Emmanuel Capus (tome II, annexe 32 : Travail et emploi)](http://www.senat.fr/rap/l21-792-232/l21-792-232.html)
+    - [Rapport n° 792 (2021-2022) de M. Jean-Marie Mizzon (tome II, annexe 33 : Affaires européennes)](http://www.senat.fr/rap/l21-792-233/l21-792-233.html)
+  - Commission mixte paritaire (désaccord)
+    - [Rapport de M. Jean-René Cazeneuve (n° 155 à l'Assemblée nationale) et de M. Jean-François Husson (n° 809 (2021-2022) au Sénat)](http://www.senat.fr/rap/l21-809/l21-809.html) : réunie le mercredi 20 juillet 2022, la commission mixte paritaire a constaté ne pouvoir parvenir à élaborer un texte commun sur les dispositions restant en discussion du projet de loi de règlement et d’approbation des comptes de l’année 2021.
+  - Assemblée nationale (Nouvelle lecture)
+    - [Rapport n° 169 de M. Jean-René Cazeneuve](https://www.assemblee-nationale.fr/dyn/16/rapports/cion_fin/l16b0169_rapport-fond#)
+  - Sénat (Nouvelle lecture)
+    - [Rapport n° 844 (2021-2022) de M. Jean-François Husson](http://www.senat.fr/rap/l21-844/l21-844.html)
+  - Assemblée nationale (Lecture définitive)
+    - [Rapport n° 179 de M. Jean-René Cazeneuve](https://www.assemblee-nationale.fr/dyn/16/rapports/cion_fin/l16b0182_rapport-fond)
+- Débats parlementaires (Procédure accélérée)
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral de la séance unique du 13 juillet 2022
+      - [Séance unique du 13 juillet 2022](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-13-juillet-2022#2812927) : présentation, discussion générale, discussion des articles : art liminaire, art 1er à art 4, après l'art 4, art 5 à art 7, après l'art 7, explications de vote, vote sur l'ensemble.
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 19 juillet 2022](http://www.senat.fr/seances/s202207/s20220719/s20220719003.html#Niv1_SOM7) : discussion générale, discussion des articles : art liminaire, art 1er, art 2, art 3 à art 7, art 8 (nouveau).
+  - Assemblée nationale (Nouvelle lecture)
+    - Compte rendu intégral de la séance unique du 27 juillet 2022
+      - [Séance unique du 27 juillet 2022](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022#2839128) : présentation, discussion générale, discussion des articles : art liminaire, art 1er à art 8, vote sur l'ensemble.
+  - Sénat (Nouvelle lecture)
+    - [Compte rendu analytique de la séance du 2 août 2022](http://www.senat.fr/cra/s20220802/s20220802_2.html#par_223) : discussion générale, discussion des articles : art liminaire, art 1er, art 2, art 3, art 4, art 5, art 6, art 7, art 8.
+  - Assemblée nationale (Lecture définitive)
+    - Compte rendu intégral de la séance unique du 3 août 2022
+      - [Séance unique du 3 août 2022](https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-03-aout-2022#2844352) : présentation, discussion générale, vote sur l'ensemble.
