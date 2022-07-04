@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FIXATION DU NOMBRE DE REPRÉSENTANTS DU PERSONNEL AU COMITE SOCIAL TERRITORIAL ET A LA FORMATION SPÉCIALISÉE EN SANTÉ, SÉCURITÉ ET CONDITIONS DE TRAVAIL ET DÉCISION DU RECUEIL DE L'AVIS DES REPRÉSENTANTS DE LA VILLE D'AIX-EN-PROVENCE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-07-04
+- Séance : Conseil Municipal 1CA
+- Objet : FIXATION DU NOMBRE DE REPRÉSENTANTS DU PERSONNEL AU COMITE SOCIAL TERRITORIAL ET A LA FORMATION SPÉCIALISÉE EN SANTÉ, SÉCURITÉ ET CONDITIONS DE TRAVAIL ET DÉCISION DU RECUEIL DE L'AVIS DES REPRÉSENTANTS DE LA VILLE D'AIX-EN-PROVENCE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13496-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
