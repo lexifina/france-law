@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — FINANCEMENT ACTION PUBLIQUE - AIDE A LA PROVENCE VERTE 2022 - REQUALIFICATION DE LA PROMENADE DE LA TORSE INTEGREE DANS LE PARC NATUREL URBAIN - DEMANDE DE CO-FINANCEMENT AUPRÈS DU CONSEIL DÉPARTEMENTAL DES BOUCHES-DU-RHÔNE
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-07-04
+- Séance : Conseil Municipal 1CA
+- Objet : FINANCEMENT ACTION PUBLIQUE - AIDE A LA PROVENCE VERTE 2022 - REQUALIFICATION DE LA PROMENADE DE LA TORSE INTEGREE DANS LE PARC NATUREL URBAIN - DEMANDE DE CO-FINANCEMENT AUPRÈS DU CONSEIL DÉPARTEMENTAL DES BOUCHES-DU-RHÔNE
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-13489-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
