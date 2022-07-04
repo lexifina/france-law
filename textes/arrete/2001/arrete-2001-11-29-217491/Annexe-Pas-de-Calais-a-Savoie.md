@@ -348,7 +348,7 @@ B
 
 Direction départementale des territoires du Rhône
 
-(A compter du 1er février 2017)
+(A compter du 1er mai 2021)
 
 Fonctions exercées |
 
@@ -362,7 +362,7 @@ Nombre de points (IM)
 
 par emploi |
 
-Chef du service habitat et renouvellement urbain |
+Responsable de la mission politique de la ville-renouvellement urbain |
 
 A |
 
@@ -370,25 +370,33 @@ A |
 
 40 |
 
-Responsable de la mission politique de la ville-renouvellement urbain |
+Chargés de projet politique de la ville-renouvellement urbain |
 
 A |
+
+5 |
+
+30 |
+
+Chargés de projet politique de la ville-renouvellement urbain |
+
+B |
+
+2 |
+
+30 |
+
+Instructrice financière |
+
+C |
 
 1 |
 
 30 |
 
-Chargé de projet au sein de la mission politique de la ville-renouvellement urbain |
+Assistante du chef de service |
 
-A |
-
-1 |
-
-30 |
-
-Chargé de projet renouvellement urbain et missions transversales politique de la ville |
-
-A |
+C |
 
 1 |
 
@@ -596,4 +604,4 @@ B
 
 NOTA :
 
-Conformément à l'article 1er de l'arrêté du 27 avril 2022 (NOR : TERK2212902A), pour ce qui concerne la répartition de l'enveloppe de la direction départementale des terrotoires et de la mer du Pas-de-Calais, les dispositions de la présente annexe sont remplacées à effet du 1er juillet 2021.
+Conformément à l'article 1er de l'arrêté du 3 juillet 2022 (NOR : TREK2218415A), la présente annexe est modifiée, à effet du 1er mai 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Rhône.
