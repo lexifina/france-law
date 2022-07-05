@@ -556,6 +556,24 @@ Extraits de mousse d'arbre |
 
 90028-67-4 |
 
+(56) |
+
+Atranol (2,6-dihydroxy-4-méthyl-benzaldéhyde) |
+
+526-37-4 |
+
+(57) |
+
+Chloroatranol (3-chloro-2,6-dihydroxy-4-méthyl-benzaldéhyde) |
+
+57074-21-2 |
+
+(58) |
+
+Heptine crbonate de méthyle |
+
+111-12-6 |
+
 Toutefois, la présence de traces de ces substances parfumantes est tolérée à condition qu'elle soit techniquement inévitable dans les bonnes pratiques de fabrication et qu'elle ne dépasse pas 100 mg/kg.
 
 2. Les substances parfumantes allergisantes suivantes sont indiquées sur le jouet, sur une étiquette jointe, sur l'emballage ou sur un feuillet d'accompagnement si elles ont été ajoutées au jouet, telles quelles, à des concentrations dépassant 100 mg/kg du jouet ou des composantes de celui-ci.
@@ -596,7 +614,7 @@ Cinnamate de benzyle |
 
 Citronellol |
 
-106-22-9 |
+106-22-9 ; 1117-61-9 ; 7540-51-4 |
 
 (5) |
 
@@ -630,15 +648,383 @@ Linalol |
 
 (10) |
 
-Méthyl heptine carbonate |
+(Supprimée) |
 
-111-12-6 |
+|
 
 (11) |
 
 3-méthyl-4-(2, 6, 6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one |
 
 127-51-5 |
+
+(12) |
+
+Acétylcédrène |
+
+32388-55-9 |
+
+(13) |
+
+Salicylate d'amyle |
+
+2050-08-0 |
+
+(14) |
+
+trans-Anéthole |
+
+4180-23-8 |
+
+(15) |
+
+Benzaldéhyde |
+
+100-52-7 |
+
+(16) |
+
+Camphre |
+
+76-22-2 ; 464-49-3 |
+
+(17) |
+
+Carvone |
+
+99-49-0 ; 6485-40-1 ; 2244-16-8 |
+
+(18) |
+
+β-Caryophyllène (ox.) |
+
+87-44-5 |
+
+(19) |
+
+Cétone-4 de rose (Damascénone) |
+
+23696-85-7 |
+
+(20) |
+
+α-Damascone (TMCHB) |
+
+43052-87-5 ; 23726-94-5 |
+
+(21) |
+
+cis-β-Damascone |
+
+23726-92-3 |
+
+(22) |
+
+δ-Damascone |
+
+57378-68-4 |
+
+(23) |
+
+Acétate de diméthylbenzyle carbinyle (DMBCA) |
+
+151-05-3 |
+
+(24) |
+
+Hexadécanolactone |
+
+109-29-5 |
+
+(25) |
+
+Hexaméthylindanopyrane |
+
+1222-05-5 |
+
+(26) |
+
+(DL)-Limonène |
+
+138-86-3 |
+
+(27) |
+
+Acétate de linalyle |
+
+115-95-7 |
+
+(28) |
+
+Menthol |
+
+1490-04-6 ; 89-78-1 ; 2216-51-5 |
+
+(29) |
+
+Salicylate de méthyle |
+
+119-36-8 |
+
+(30) |
+
+3-méthyl-5-(2,2,3-triméthyl-3-cyclopentén-1-yl) pent-4-én-2-ol |
+
+67801-20-1 |
+
+(31) |
+
+α-Pinène
+
+|
+
+80-56-8 |
+
+(32) |
+
+β-Pinène |
+
+127-91-3 |
+
+(33) |
+
+Phtalure de propylidène |
+
+17369-59-4 |
+
+(34) |
+
+Salicylaldéhyde |
+
+90-02-8 |
+
+(35) |
+
+α-Santalol |
+
+115-71-9 |
+
+(36) |
+
+β-Santalol |
+
+77-42-9 |
+
+(37) |
+
+Sclaréol |
+
+515-03-7 |
+
+(38) |
+
+α-Terpinéol |
+
+10482-56-1 ; 98-55-5 |
+
+(39) |
+
+Terpinéol (mélange d'isomères) |
+
+8000-41-7 |
+
+(40) |
+
+Terpinolène |
+
+586-62-9 |
+
+(41) |
+
+Tétraméthylacétyloctahydronaphtalènes |
+
+54464-57-2 ; 54464-59-4 ; 68155-66-8 ; 68155-67-9 |
+
+(42) |
+
+Triméthylbenzènepropanol (Majantol) |
+
+103694-68-4 |
+
+(43) |
+
+Vanilline |
+
+121-33-5 |
+
+(44) |
+
+Cananga odorata et huile d'ylang-ylang |
+
+83863-30-3 ; 8006-81-3 |
+
+(45) |
+
+Huile d'écorce de Cedrus atlantica |
+
+92201-55-3 ; 8000-27-9 |
+
+(46) |
+
+Huile de feuille de Cinnamomum cassia |
+
+8007-80-5 |
+
+(47) |
+
+Huile d'écorce de Cinnamomum zeylanicum |
+
+84649-98-9 |
+
+(48) |
+
+Huile de fleur de Citrus aurantium amara |
+
+8016-38-4 |
+
+(49) |
+
+Huile de zeste de Citrus aurantium amara |
+
+72968-50-4 |
+
+(50) |
+
+Huile de zeste de Citrus bergamia exprimé |
+
+89957-91-5 |
+
+(51) |
+
+Huile de zeste de Citrus limonum exprimé |
+
+84929-31-7 |
+
+(52) |
+
+Huile de zeste de Citrus sinensis (syn. : Aurantium dulcis) exprimé |
+
+97766-30-8 ; 8028-48-6 |
+
+(53) |
+
+Huiles de Cymbopogon citratus/ schoenanthus |
+
+89998-14-1 ; 8007-02-01 ; 89998-16-3 |
+
+(54) |
+
+Huile de feuille d'Eucalyptus spp. |
+
+92502-70-0 ; 8000-48-4 |
+
+(55) |
+
+Huile de feuille/ fleur d'Eugenia caryophyllus |
+
+8000-34-8 |
+
+(56) |
+
+Jasminum grandiflorum/ officinale |
+
+84776-64-7 ; 90045-94-6 ; 8022-96-6 |
+
+(57) |
+
+Juniperus virginiana |
+
+8000-27-9 ; 85085-41-2 |
+
+(58) |
+
+Huile de fruit de Laurus nobilis |
+
+8007-48-5 |
+
+(59) |
+
+Huile de feuille de Laurus nobilis |
+
+8002-41-3 |
+
+(60) |
+
+Huile de graines de Laurus nobilis |
+
+84603-73-6 |
+
+(61) |
+
+Lavandula hybrida |
+
+91722-69-9 |
+
+(62) |
+
+Lavandula officinalis |
+
+84776-65-8 |
+
+(63) |
+
+Mentha piperita |
+
+8006-90-4 ; 84082-70-2 |
+
+(64) |
+
+Mentha spicata |
+
+84696-51-5 |
+
+(65) |
+
+Narcissus spp. |
+
+Divers, y compris 90064-25-8 |
+
+(66) |
+
+Pelargonium graveolens |
+
+90082-51-2 ; 8000-46-2 |
+
+(67) |
+
+Pinus mugo |
+
+90082-72-7 |
+
+(68) |
+
+Pinus pumila |
+
+97676-05-6 |
+
+(69) |
+
+Pogostemon cablin |
+
+8014-09-3 ; 84238-39-1 |
+
+(70) |
+
+Huile de fleur de rose (Rosa spp.) |
+
+Divers, y compris 8007-01-0,93334-48-6,84696-47-9,84604-12-6,90106-38-0,84604-13-7,92347-25-6 |
+
+(71) |
+
+Santalum album |
+
+84787-70-2 ; 8006-87-9 |
+
+(72) |
+
+Thérébentine (essence) |
+
+8006-64-2 ; 9005-90-7 ; 8052-14-0 |
 
 3. L'utilisation des substances parfumantes numérotées 41 à 55 de la liste figurant en 1 et celle des substances parfumantes numérotées 1 à 11 de la liste figurant en 2 sont autorisées dans les jeux de table olfactifs, les ensembles cosmétiques et les jeux gustatifs à condition :
 
@@ -848,4 +1234,4 @@ Ces valeurs limites ne s'appliquent pas aux jouets ou composants de jouets qui, 
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 3 septembre 2020, ces dispositions entrent en vigueur le 20 mai 2021 sauf le (a) du tableau du IV qui entrera en vigueur le 21 mai 2021.
+Conformément à l'article 2 de l'arrêté du 19 avril 2022 (NOR : ECOI2212119A), ces dispositions entrent en vigueur le 5 juillet 2022.
