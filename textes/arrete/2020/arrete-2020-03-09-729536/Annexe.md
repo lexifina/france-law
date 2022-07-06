@@ -598,6 +598,36 @@ Conduite de cycles d'initiation et d'apprentissage jusqu'au premier niveau de co
 
 |
 
+UCC " culturisme " associée au BPJEPS spécialité " activités gymniques, de la forme et de la force ", mention " haltères, musculation et forme sur plateau ". |
+
+Découverte, initiation, animation et perfectionnement en culturisme. |
+
+|
+
+UCC " rugby à XIII " associée au BP JEPS spécialité " activités physiques pour tous ". |
+
+Conduite de cycles d'apprentissage en rugby à XIII. |
+
+|
+
+UCC " cerf-volant " |
+
+Découverte, animation et initiation en cerf-volant. |
+
+|
+
+UCC " football américain " |
+
+Conduite de cycles d'initiation et d'apprentissage en football américain. |
+
+|
+
+CS " cerf-volant " |
+
+Découverte, animation et initiation en cerf-volant. |
+
+|
+
 CS " activités athlétiques ". |
 
 Découverte, animation et initiation jusqu'au premier niveau de compétition en activités athlétiques. |
@@ -758,6 +788,8 @@ DE JEPS, spécialité " perfectionnement sportif ", mention " ski nautique et di
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif, de l'activité visée par la mention considérée.
 
+Encadrement du longe-côte.
+
 |
 
 |
@@ -767,6 +799,18 @@ DES JEPS, spécialité " performance sportive ", mention " full contact-boxe am�
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive, de l'activité visée par la mention considérée.
 
 |
+
+|
+
+DE JEPS, spécialité " perfectionnement sportif ", mention " full-contact-boxe américaine ", délivré jusqu'au 31 décembre 2021. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif, de l'activité visée par la mention considérée. |
+
+|
+
+CS " cerf-volant " |
+
+Découverte, animation et initiation en cerf-volant. |
 
 |
 
@@ -1311,3 +1355,153 @@ CQP " accompagnateur en téléski nautique ", délivré jusqu'au 4 octobre 2021.
 Encadrement des activités de téléski nautique sur support de glisse |
 
 |
+
+CQP " animateur de loisirs sportifs ", option " jeux sportifs et jeux d'opposition ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
+
+-arts et éducation par les activités physiques d'opposition ;
+
+-jeux de raquettes ;
+
+-jeux de ballons, petits et grands terrains. |
+
+A l'exclusion :
+
+-des pratiques compétitives ;
+
+-de la délivrance de niveaux, de ceintures ou de grades ;
+
+-des cours individuels. |
+
+CQP " animateur de loisirs sportifs ", option " activités gymniques d'entretien et d'expression ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement par la découverte et l'animation des activités gymniques d'entretien et d'expression :
+
+-techniques cardio ;
+
+-renforcement musculaire ;
+
+-techniques douces ;
+
+-activités d'expression. |
+
+Sans recours à des appareils de musculation. A l'exclusion des cours individuels. |
+
+CQP " moniteur d'aviron ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement des activités de l'aviron, sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisance. |
+
+Dans la limite de vingt pratiquants.
+
+Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans le cas où la zone d'évolution est un périmètre calme, abrité et délimité. |
+
+CQP " guide de véhicules terrestres motorisés à guidon ", option " quad ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement de randonnées en quad pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article R. 221-1 du code de la route. |
+
+A l'exclusion de toute activité d'enseignement ou d'entraînement.
+
+Dans la limite de six véhicules accompagnés.
+
+Sur des parcours connus et reconnus. |
+
+CQP " guide de véhicules terrestres motorisés à guidon ", option " moto verte ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement de randonnées en moto verte pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat conformément à l'article R. 221-1 du code de la route.
+
+A l'exclusion de toute activité d'enseignement ou d'entraînement. |
+
+Dans la limite de six véhicules accompagnés.
+
+Sur des parcours connus et reconnus. |
+
+CQP " initiateur en motocyclisme ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad). |
+
+A l'exclusion des voies ouvertes à la circulation publique.
+
+A l'exclusion des pratiques compétitives. |
+
+CQP " moniteur de roller sports " option " patinage artistique et danse ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement du patinage artistique et de la danse. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports " option " course ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement de la course. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports ", option " rink-hockey ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement du rink-hockey. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports ", option " roller hockey ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement du roller hockey. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports ", option " roller freestyle ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement du roller acrobatique. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports ", option " roller randonnée ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, roller loisirs, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement du roller randonnée. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports ", option " roller derby ", délivré jusqu'au 3 mars 2022. |
+
+Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, roller loisirs, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
+
+Encadrement du roller derby. |
+
+Dans la limite de vingt pratiquants.
+
+Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur. |
+
+CQP " moniteur de roller sports ", option " skateboard ", délivré jusqu'au 3 mars 2022. |
+
+Encadrement du skateboard dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park. |
+
+Dans la limite de vingt pratiquants. |
+
+CQP " technicien sportif de tir à l'arc ", délivré jusqu'au 3 mars 2022 |
+
+Encadrement d'entraînement et de perfectionnement de tir à l'arc. |
+
+Dans la limite de 12 pratiquants. |
