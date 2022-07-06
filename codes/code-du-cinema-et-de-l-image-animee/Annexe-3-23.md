@@ -1,53 +1,33 @@
 # Article Annexe 3-23
 
-AIDES AU DÉVELOPPEMENT DE PROJETS D'ŒUVRES NOVATRICES ET EXPÉRIMENTALES
+AIDES AUX OPÉRATIONS À CARACTÈRE COLLECTIF PORTANT SUR DES ŒUVRES IMMERSIVES (ARTICLE 321-41)
 
-(Article 322-9)
+Liste des documents justificatifs :
 
-Liste des documents justificatifs, par demandeur :
+I.-Dossier administratif :
 
-I. - Personne morale :
+1° Un devis détaillé de l'opération ;
 
-A. - Dossier administratif :
+2° Le plan de financement, accompagné toute pièce justificative d'un financement public ou privé ;
 
-1° Un budget prévisionnel détaillé du développement du projet faisant apparaître les dépenses propres à chacun des postes concernés ;
+3° Une présentation de la personne morale sollicitant l'aide et une note stratégique sur le développement de ses activités, accompagnées des documents relatifs à son organisation, notamment :
 
-2° Un plan de financement détaillé et équilibré par rapport au budget prévisionnel mentionnant notamment, le cas échéant, les aides ou partenariats financiers acquis et ceux en cours d'obtention, les parts de financement en industrie, la part d'autofinancement en numéraire ou en industrie ;
+-lorsque la demande est présentée par une association, la copie des statuts paraphés et signés par le président, la copie du récépissé de dépôt de déclaration en préfecture, la copie de la publication au Journal officiel et, le cas échéant, la délégation de signature du président (pour la première demande seulement sauf en cas de modifications) ;
 
-3° Un calendrier prévisionnel de production de l'œuvre ;
+-lorsque la demande est présentée par une société, un exemplaire de l'extrait K bis datant de moins de trois mois, la copie des statuts paraphés et signés par le représentant légal et, le cas échéant, la délégation de signature du représentant légal (pour la première demande seulement sauf en cas de modifications) ;
 
-4° Un curriculum vitae du ou des artistes-auteurs ;
+-lorsque la demande est présentée par un établissement public, les dispositions statutaires régissant ses missions.
 
-5° Une note de présentation des objectifs artistiques ainsi que, le cas échéant, les références de la personne morale ;
+II.-Dossier de présentation de l'opération :
 
-6° La copie des justificatifs de tout financement acquis (contrat de production, notification de financement, convention, etc.) ;
+1° Une présentation détaillée de l'opération ;
 
-7° Pour tout apport du demandeur en industrie, les factures, datant au plus de cinq ans, justifiant l'acquisition du matériel ;
+2° Le programme détaillé ainsi que la liste des intervenants le cas échéant ;
 
-8° Les contrats conclus avec les artistes-auteurs ou, à défaut, les lettres d'engagement émanant de la personne morale ;
+3° Le positionnement par rapport aux opérations existantes ;
 
-9° Lorsque la demande est présentée par une association, la copie des statuts paraphés et signés par le président, la copie du récépissé de dépôt de déclaration en préfecture, la copie de la publication au Journal officiel et, le cas échéant, la délégation de signature du président (pour la première demande seulement sauf en cas de modifications) ;
+4° Le planning de l'opération et le plan de communication.
 
-10° Lorsque la demande est présentée par une société, un exemplaire de l'extrait K bis datant de moins de trois mois, la copie des statuts paraphés et signés par le représentant légal et, le cas échéant, la délégation de signature du représentant légal (pour la première demande seulement sauf en cas de modifications).
+NOTA :
 
-B. - Dossier artistique : une note de présentation du projet artistique et de l'écriture multimédia et numérique envisagés décrivant la nature du projet, la corrélation entre les intentions artistiques et les outils numériques envisagés et les objectifs du développement de l'œuvre.
-
-II. - Personne physique :
-
-A. - Dossier administratif :
-
-1° Un budget prévisionnel détaillé du développement du projet faisant apparaître les dépenses propres à chacun des postes concernés ;
-
-2° Un plan de financement détaillé et équilibré par rapport au budget prévisionnel mentionnant notamment, le cas échéant, les aides ou partenariats financiers acquis et ceux en cours d'obtention, les parts de financement en industrie, la part d'autofinancement en numéraire ou en industrie ;
-
-3° Un calendrier prévisionnel de production de l'œuvre ;
-
-4° Un curriculum vitae du ou des artistes-auteurs ;
-
-5° La copie des justificatifs de tout financement acquis (contrat de production, notification de financement, convention, etc.) ;
-
-6° Pour tout apport du demandeur en industrie, les factures, datant au plus de cinq ans, justifiant l'acquisition du matériel ;
-
-7° Une photocopie d'une pièce d'identité recto verso en cours de validité.
-
-B. - Dossier artistique : une note de présentation du projet artistique et de l'écriture multimédia et numérique envisagés décrivant la nature du projet, la corrélation entre les intentions artistiques et les outils numériques envisagés et les objectifs du développement du projet d'œuvre.
+Conformément à l’article 12 de la délibération n° 2022/CA/12 du 30 juin 2022 modifiant le règlement général des aides financières du Centre national du cinéma et de l'image animée, les présentes dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de ladite délibération.

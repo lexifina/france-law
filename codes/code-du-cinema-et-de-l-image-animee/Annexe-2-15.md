@@ -4,7 +4,7 @@ Aides à l'écriture (article 212-25)
 
 Liste des documents justificatifs :
 
-1° Un synopsis (développé ou traitement) ;
+1° Un synopsis, un synopsis développé ou traitement ;
 
 2° Un résumé (3 lignes maximum) ;
 
@@ -19,3 +19,7 @@ Liste des documents justificatifs :
 7° Eventuellement, lorsque le projet est adapté d'une œuvre préexistante, une copie du contrat de cession ou d'option portant sur les droits de propriété littéraire et artistique du ou des auteurs de l'œuvre originaire et/ ou de ses ou de leurs ayants-droit ;
 
 8° Eventuellement, dans le cas d'un projet d'œuvre d'animation, des éléments graphiques.
+
+NOTA :
+
+Conformément à l’article 11 de la délibération n° 2022/CA/12 du 30 juin 2022 modifiant le règlement général des aides financières du Centre national du cinéma et de l'image animée, les présentes dispositions s'appliquent aux demandes d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de ladite délibération.
