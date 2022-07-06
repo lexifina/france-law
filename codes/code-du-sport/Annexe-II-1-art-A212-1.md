@@ -164,32 +164,6 @@ Encadrement et coordination des activités physiques ou sportives. |
 
 A l'exclusion des groupes constitués de personnes ayant un handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " animateur de loisirs sportifs ", option " jeux sportifs et jeux d'opposition ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Encadrement par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
-
--arts et éducation par les activités physiques d'opposition ;
-
--jeux de raquettes ;
-
--jeux de ballons, petits et grands terrains.
-
-|
-
-A l'exclusion :
-
--des pratiques compétitives ;
-
--de la délivrance de niveaux, de ceintures ou de grades ;
-
--des cours individuels.
-
-|
-
 ACTIVITÉS DE FITNESS DANS L'EAU y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice et sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
 
 Diplômes et titres délivrés par le ministère chargé de l'enseignement supérieur |
@@ -240,15 +214,13 @@ Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exer
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2027. |
 
 4 |
 
 Encadrement de séances en aqua fitness.
 
-Surveillance et sauvetage en milieu aquatique.
-
-|
+Surveillance et sauvetage en milieu aquatique. |
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
@@ -335,26 +307,6 @@ Encadrement, initiation et conduite de cycles d'apprentissage des activités de 
 |
 
 |
-
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " animateur de loisirs sportifs ", option " activités gymniques d'entretien et d'expression ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Encadrement par la découverte et l'animation des activités gymniques d'entretien et d'expression :
-
--techniques cardio ;
-
--renforcement musculaire ;
-
--techniques douces ;
-
--activités d'expression.
-
-|
-
-Sans recours à des appareils de musculation. A l'exclusion des cours individuels. |
 
 ACTIVITÉS DE MONTAGNE |
 
@@ -504,7 +456,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " sport adapté ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " sport adapté ", délivré jusqu'au 28 février 2027 |
 
 6 |
 
@@ -533,6 +485,20 @@ DES JEPS, spécialité " performance sportive " mention " aïkido, aïkibudo et 
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport
+
+|
+
+CQP " moniteur d'arts martiaux " option " aïkido, aïkibudo et disciplines associées ", délivré du 25 février 2022 au 25 février 2024
+
+|
+
+3 |
+
+Encadrement de séances de découverte et d'animation des activités d'aïkido, aïkibudo et disciplines associées |
 
 |
 
@@ -778,20 +744,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur d'aviron ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Encadrement des activités de l'aviron, sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisance. |
-
-Dans la limite de vingt pratiquants.
-
-Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans le cas où la zone d'évolution est un périmètre calme, abrité et délimité.
-
-|
-
 BADMINTON
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -818,19 +770,33 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " badminton ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " badminton ", délivré jusqu'au 28 février 2027. |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée.
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " badminton ", délivré jusqu'au 1er janvier 2024. |
+|
+
+DES JEPS, spécialité " performance sportive ", mention " badminton ", délivré jusqu'au 28 février 2027. |
 
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport
+
+|
+
+CQP " animateur de badminton ", délivré du 25 avril 2022 jusqu'au 25 avril 2025. |
+
+4 |
+
+Encadrement de séances collectives en badminton. |
 
 |
 
@@ -954,15 +920,15 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " billard ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " billard ", délivré jusqu'au 1er juin 2022. |
 
 5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+E Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " billard ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " billard ", délivré jusqu'au 1er juin 2022. |
 
 6 |
 
@@ -1242,30 +1208,6 @@ Encadrement, animation et enseignement des activités de découverte et d'initia
 
 |
 
-UCC " cerf-volant " associée au BPJEPS spécialité " loisirs tous publics ". |
-
-|
-
-Découverte, animation et initiation en cerf-volant. |
-
-|
-
-CS " cerf-volant " associé au :
-
--BPJEPS spécialité " activités nautiques " ;
-
--DEJEPS spécialité " perfectionnement sportif " mention " voile ", " glisses aérotractées nautiques ", " deltaplane " ou " parapente " ;
-
--DESJEPS spécialité " performance sportive " mention " voile " ou " glisses aérotractées nautiques ".
-
-|
-
-|
-
-Découverte, animation et initiation en cerf-volant. |
-
-|
-
 CHAR A VOILE
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -1362,7 +1304,7 @@ A l'exclusion des pratiques compétitives. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " course d'orientation ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif " mention " course d'orientation ", délivré jusqu'au 1er juin 2022 |
 
 5 |
 
@@ -1370,7 +1312,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " course d'orientation ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " course d'orientation ", délivré jusqu'au 1er juin 2022. |
 
 6 |
 
@@ -1588,6 +1530,34 @@ Encadrement, découverte et initiation des activités équestres. |
 
 Sous l'autorité d'un titulaire d'une certification de niveau 4 ou supérieur dans le domaine des activités équestres. |
 
+Accompagnateur de tourisme équestre, délivré du 26/01/22 au 26/01/25. |
+
+4 |
+
+Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés. |
+
+|
+
+Moniteur d'équitation option attelage délivré jusqu'au 25 avril 2024.
+
+|
+
+4 |
+
+Animation et enseignement de l'attelage. |
+
+|
+
+Moniteur d'équitation option équitation western délivré jusqu'au 25 avril 2024.
+
+|
+
+4 |
+
+Animation et enseignement de l'équitation western. |
+
+|
+
 Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation des entreprises équestres |
 
 CQP " enseignant animateur d'équitation ", délivré jusqu'au 21 décembre 2022. |
@@ -1609,6 +1579,8 @@ Initiation aux techniques de la randonnée équestre et conduite de promenades e
 ESCALADE
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
+
+|
 
 |
 
@@ -1685,6 +1657,16 @@ A l'exclusion :
 -de la via ferrata ;
 
 -de l'escalade pratiquée sur les sites sportifs au-delà du premier relais et terrains d'aventure |
+
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
+
+CQP " animateur d'escalade sur structure artificielle ", délivré du 26/01/22 au 26/01/25. |
+
+4 |
+
+Encadrement des activités d'escalade sur structure artificielle d'escalade. |
+
+|
 
 ESCALADE-ENVIRONNEMENT SPECIFIQUE (pratiquée sur les sites sportifs au-delà du premier relais et " terrains d'aventure ", déterminés conformément aux normes de classement technique édictées par la fédération délégataire, ainsi que de l'escalade en " via ferrata ") |
 
@@ -1884,14 +1866,6 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-UCC " football américain " associée au BPJEPS spécialité " activités physiques pour tous " ou spécialité " loisirs tous publics ". |
-
-|
-
-Conduite de cycles d'initiation et d'apprentissage en football américain. |
-
-|
-
 DE JEPS, spécialité " performance sportive ", mention " football américain ", délivré jusqu'au 1er janvier 2024. |
 
 5 |
@@ -1938,9 +1912,7 @@ Encadrement, animation et enseignement :
 
 -des activités de glisses aérotractées nautiques et terrestres ; des activités de découverte et d'initiation du cerf-volant ;
 
-Encadrement et animation des activités de découverte des engins tractés.
-
-|
+Encadrement et animation des activités de découverte des engins tractés (bouées, ski-bus, fly fish). |
 
 |
 
@@ -1952,7 +1924,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " glisses aérotractées nautiques ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " glisses aérotractées nautiques ", délivré jusqu'au 1er juin 2022. |
 
 6 |
 
@@ -2172,14 +2144,6 @@ Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en
 
 |
 
-UCC " culturisme " associée au BPJEPS spécialité " activités gymniques, de la forme et de la force ", mention " haltères, musculation et forme sur plateau ". |
-
-|
-
-Découverte, initiation, animation et perfectionnement en culturisme. |
-
-|
-
 DE JEPS, spécialité " perfectionnement sportif " mention " haltérophilie, musculation et force athlétique ", délivré jusqu'au 1er janvier 2024. |
 
 5 |
@@ -2348,9 +2312,7 @@ y compris toutes les qualifications mentionnées sous l'intitulé " multi activi
 
 Diplômes délivrés par le ministère chargé des sports |
 
-DE JEPS, spécialité " perfectionnement sportif " mention " hockey sur
-
-glace ", délivré jusqu'au 1er janvier 2024.
+DE JEPS, spécialité " perfectionnement sportif " mention " hockey sur glace ", délivré jusqu'au 28 février 2027
 
 |
 
@@ -2433,6 +2395,18 @@ DES JEPS, spécialité " performance sportive " mention " judo jujitsu ", déliv
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport
+
+|
+
+CQP " moniteur d'arts martiaux " option " judo-jujitsu ", délivré du 25 février 2022 au 25 février 2024 |
+
+3 |
+
+Encadrement de séances de découverte et d'animation des activités du judo-jujitsu |
 
 |
 
@@ -2698,14 +2672,6 @@ Encadrement du longe-côte. |
 
 |
 
-DE JEPS spécialité " perfectionnement sportif " mention " ski nautique et disciplines associées " délivré jusqu'au 1er janvier 2024. |
-
-5 |
-
-Encadrement du longe-côte. |
-
-|
-
 DE JEPS spécialité " perfectionnement sportif " mention " surf " délivré jusqu'au 1er janvier 2024. |
 
 5 |
@@ -2802,11 +2768,11 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " sportif " mention " ski nautique et disciplines associées " délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " ski nautique et disciplines associées ", délivré jusqu'au 31 décembre 2022. |
 
 6 |
 
-Encadrement du longe-côte. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
 
 |
 
@@ -2858,11 +2824,11 @@ Encadrement du longe-côte. |
 
 |
 
-DES JEPS spécialité " performance sportive " mention " glisses aérotractées nautiques " délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " glisses aérotractées nautiques ", délivré jusqu'au 1er juin 2022. |
 
 6 |
 
-Encadrement du longe-côte. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
 
 |
 
@@ -2948,56 +2914,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " guide de véhicules terrestres motorisés à
-
-guidon ", option " quad ", délivré jusqu'au 3 mars 2022.
-
-|
-
-|
-
-Encadrement de randonnées en quad pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article R. 221-1 du code de la route. |
-
-A l'exclusion de toute activité d'enseignement ou d'entraînement.
-
-Dans la limite de six véhicules accompagnés.
-
-Sur des parcours connus et reconnus.
-
-|
-
-CQP " guide de véhicules terrestres motorisés à
-
-guidon ", option " moto verte ", délivré jusqu'au 3 mars 2022.
-
-|
-
-|
-
-Encadrement de randonnées en moto verte pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat conformément à l'article R. 221-1 du code de la route. |
-
-A l'exclusion de toute activité d'enseignement ou d'entraînement.
-
-Dans la limite de six véhicules accompagnés.
-
-Sur des parcours connus et reconnus.
-
-|
-
-CQP " initiateur en motocyclisme ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad). |
-
-A l'exclusion des voies ouvertes à la circulation publique.
-
-A l'exclusion des pratiques compétitives.
-
-|
-
 MOTONAUTISME
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -3020,7 +2936,7 @@ BP JEPS, spécialité " activités nautiques " mention plurivalente " engins tra
 
 Encadrement et animation d'activités de découverte et d'initiation, en engins tractés. |
 
-Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish …) pour tout public et sur tout lieu de pratique de l'activité. |
+Pratique d'engins flottants tractés sur l'eau (bouées, ski-bus, fly fish …) pour tout public et sur tout lieu de pratique de l'activité. |
 
 BP JEPS, spécialité " activités nautiques " mention plurivalente " jet " (véhicule nautique à moteur), délivré jusqu'au 31 décembre 2022. |
 
@@ -3060,7 +2976,7 @@ UCC " engins tractés " associée au BPJEPS spécialité " activités nautiques 
 
 Encadrement et animation d'activités de découverte et d'initiation, en engins tractés.
 
-Pratique d'engins flottants tractés sur l'eau (bouées, ski, bus, fly fish...).
+Pratique d'engins flottants tractés sur l'eau (bouées, ski-bus, fly fish...).
 
 |
 
@@ -3102,17 +3018,15 @@ A l'exclusion :
 
 Diplômes délivrés par le ministère chargé des sports |
 
-BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2024. |
+BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2027. |
 
 4 |
 
 Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
 
-Surveillance et sauvetage en milieu aquatique.
+Surveillance et sauvetage en milieu aquatique. |
 
-|
-
-Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
 DE JEPS, spécialité " perfectionnement sportif " mention " natation course ", délivré jusqu'au 1er janvier 2024. |
 
@@ -3434,7 +3348,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " pétanque ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " pétanque ", délivré jusqu'au 1er juin 2022. |
 
 6 |
 
@@ -3542,120 +3456,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur de roller sports " option " patinage artistique et danse ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement du patinage artistique et de la danse.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
-CQP " moniteur de roller sports " option " course ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement de la course.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
-CQP " moniteur de roller sports ", option " rink-hockey ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement du rink-hockey.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
-CQP " moniteur de roller sports ", option " roller hockey ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement du roller hockey.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
-CQP " moniteur de roller sports ", option " roller freestyle ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement du roller acrobatique.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
-CQP " moniteur de roller sports ", option " roller randonnée ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, roller loisirs, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement du roller randonnée.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
-CQP " moniteur de roller sports ", option " roller derby ", délivré jusqu'au 3 mars 2022. |
-
-|
-
-Initiation aux activités du roller sports dans l'ensemble des options : patinage artistique et danse, course, rink-hockey, roller hockey, roller freestyle, roller randonnée, roller derby, roller loisirs, dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park.
-
-Encadrement du roller derby.
-
-|
-
-Dans la limite de vingt pratiquants.
-
-Pour le roller randonnée sur voies ouvertes, sous l'autorité de deux titulaires du CQP dans le cas où le nombre de pratiquants est supérieur à 8 et comprend un public mineur.
-
-|
-
 RUGBY à XIII
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -3672,14 +3472,6 @@ Conduite de séances et de cycles d'initiation, de découverte et d'animation sp
 
 |
 
-UCC " rugby à XIII " associée au BP JEPS spécialité " activités physiques pour tous ". |
-
-|
-
-Conduite de cycles d'apprentissage en rugby à XIII. |
-
-|
-
 DE JEPS, spécialité " perfectionnement sportif " mention " rugby à XIII ", délivré jusqu'au 1er octobre 2026. |
 
 5 |
@@ -3688,7 +3480,7 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " rugby à XIII ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " rugby à XIII ", délivré jusqu'au 1er juin 2022 |
 
 6 |
 
@@ -3737,6 +3529,14 @@ BP JEPS, spécialité " rugby à XV " délivré jusqu'au 31 décembre 2022. |
 4 |
 
 Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. Conduite d'une séance d'entraînement en rugby à XV. |
+
+|
+
+BP JEPS spécialité " éducateur sportif " mention " rugby à XV " délivré jusqu'au 1er septembre 2026 |
+
+4 |
+
+Conduite de séances et de cycles d'animation, d'initiation et d'apprentissage en rugby à XV. |
 
 |
 
@@ -3860,20 +3660,6 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
-
-CQP " moniteur de roller sports ", option
-
-" skateboard ", délivré jusqu'au 3 mars 2022.
-
-|
-
-|
-
-Encadrement du skateboard dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skate-park. |
-
-Dans la limite de vingt pratiquants. |
-
 SKI NAUTIQUE
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -3922,7 +3708,7 @@ Encadrement, enseignement et animation du ski nautique-wakeboard, des discipline
 
 |
 
-DES JEPS, spécialité " performance sportive ", mention " ski nautique et disciplines associées ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " ski nautique et disciplines associées ", délivré jusqu'au 31 décembre 2022. |
 
 6 |
 
@@ -4115,14 +3901,6 @@ Encadrement, initiation et conduite de cycles d'apprentissage en sports de conta
 |
 
 DE JEPS, spécialité " perfectionnement sportif " mention " boxe thaï-muay thaï ", délivré jusqu'au 31 décembre 2023. |
-
-5 |
-
-Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
-
-|
-
-DE JEPS, spécialité " perfectionnement sportif " mention " full contact-boxe américaine ", délivré jusqu'au 31 décembre 2021. |
 
 5 |
 
@@ -4592,7 +4370,7 @@ Encadrement et animation du stand up paddle (SUP). |
 
 A l'exclusion des activités dérivées du surf de mer. |
 
-DES JEPS, spécialité " performance sportive " mention " glisses aéotractées nautiques ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive " mention " glisses aéotractées nautiques ", délivré jusqu'au 1er juin 2022. |
 
 6 |
 
@@ -4685,6 +4463,16 @@ DES JEPS, spécialité " performance sportive " mention " taekwondo et disciplin
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificat de qualification délivré par la Commission paritaire nationale emploi-formation du sport |
+
+CQP " moniteur d'arts martiaux " option " taekwondo et disciplines associées ", délivré du 25 février 2022 au 25 février 2024 |
+
+3 |
+
+Encadrement de séances de découverte et d'animation des activités du taekwondo et disciplines associées |
 
 |
 
@@ -4862,14 +4650,6 @@ Encadrement des activités d'animation de tir à l'arc. |
 
 Dans la limite de 12 pratiquants par groupe, pour le tir sur terrain plat. Dans la limite de 6 pratiquants par groupe pour le tir en parcours. |
 
-CQP " technicien sportif de tir à l'arc ", délivré jusqu'au 3 mars 2022 |
-
-|
-
-Encadrement d'entraînement et de perfectionnement de tir à l'arc. |
-
-Dans la limite de 12 pratiquants. |
-
 TIR SPORTIF
 
 y compris toutes les qualifications mentionnées sous l'intitulé " multi activités physiques ou sportives " (*) dans la limite de leurs conditions d'exercice.
@@ -4950,7 +4730,7 @@ Conduite de cycles d'apprentissage en triathlon. |
 
 |
 
-DE JEPS, spécialité " perfectionnement sportif ", mention " triathlon ", délivré jusqu'au 1er janvier 2024. |
+DE JEPS, spécialité " perfectionnement sportif ", mention " triathlon ", délivré jusqu'au 1er septembre 2023 |
 
 5 |
 
@@ -5162,11 +4942,11 @@ Enseignement, animation, encadrement ou entraînement dans une perspective de pe
 
 |
 
-DES JEPS, spécialité " performance sportive " mention " vol à voile ", délivré jusqu'au 1er janvier 2024. |
+DES JEPS, spécialité " performance sportive ", mention " vol à voile ", délivré jusqu'au 1er juin 2022 |
 
-6 |
+5 |
 
-Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
 
 |
 
@@ -5181,6 +4961,14 @@ CQP " moniteur de vol à plat en soufflerie " délivré du 16 décembre 2020 au 
 Encadrement des activités de vol à plat en soufflerie. |
 
 Dans la limite d'un pratiquant, dans le cas où les pratiquants ne sont pas autonomes. |
+
+CQP " technicien sportif de vol en souﬀlerie " délivré jusqu'au 25 mars 2025 |
+
+4 |
+
+Encadrement et conduite de séances d'entraînement d'activités de vol en soufflerie dans le domaine du vol 3D |
+
+|
 
 VOLLEY-BALL
 
@@ -5293,5 +5081,23 @@ DES JEPS, spécialité " performance sportive " mention " karaté et disciplines
 6 |
 
 Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport |
+
+CQP " moniteur d'arts martiaux " option " arts énérgétiques chinois ", délivré du 25 février 2022 au 25 février 2024 |
+
+3 |
+
+Encadrement de séances de découverte et d'animation des activités d'arts énergétiques chinois |
+
+|
+
+CQP " moniteur d'arts martiaux " option " arts martiaux chinois internes et externes ", délivré du 25 février 2022 au 25 février 2024 |
+
+3 |
+
+Encadrement de séances de découverte et d'animation des activités d'arts martiaux chinois internes et externes |
 
 |
