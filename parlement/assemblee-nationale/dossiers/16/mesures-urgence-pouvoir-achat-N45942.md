@@ -1,0 +1,78 @@
+# Mesures d’urgence pour la protection du pouvoir d’achat
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N45942
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_pouvoir_achat
+- Sénat : https://www.senat.fr/dossier-legislatif/pjl21-817.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-07-07 : 1er dépôt d'une initiative. (PRJLANR5L16B0019)
+  - 2022-07-07 : Etude d'impact (ETDIANR5L16B0019)
+  - 2022-07-07 : Avis du Conseil d'Etat (AVCEANR5L16B0019)
+  - 2022-07-07 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-07 : Renvoi en commission au fond
+      - 2022-07-06 : Nomination de rapporteur
+      - 2022-07-06 : Réunion de commission
+      - 2022-07-11 : Réunion de commission
+      - 2022-07-12 : Réunion de commission
+      - 2022-07-12 : Réunion de commission
+      - 2022-07-12 : Réunion de commission
+      - 2022-07-13 : Réunion de commission
+      - 2022-07-18 : Réunion de commission
+      - 2022-07-13 : Dépôt de rapport (RAPPANR5L16B0144, PRJLANR5L16BTC0144)
+    - Travaux d'une commission saisie pour avis
+      - 2022-07-07 : Saisine pour avis d'une commission
+      - 2022-07-07 : Réunion de commission
+      - 2022-07-11 : Réunion de commission
+      - 2022-07-11 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2022-07-08 : Saisine pour avis d'une commission
+      - 2022-07-07 : Nomination de rapporteur
+      - 2022-07-07 : Réunion de commission
+      - 2022-07-11 : Réunion de commission
+      - 2022-07-11 : Réunion de commission
+      - 2022-07-12 : Réunion de commission
+  - Discussion en séance publique
+    - 2022-07-18 : Discussion en séance publique
+    - 2022-07-19 : Discussion en séance publique
+    - 2022-07-20 : Discussion en séance publique
+    - 2022-07-20 : Discussion en séance publique
+    - 2022-07-21 : Discussion en séance publique
+    - 2022-07-21 : Discussion en séance publique
+    - 2022-07-21 : Discussion en séance publique
+    - 2022-07-21 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-07-22 : Dépôt d'une initiative en navette (PRJLSNR5S379B0817)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-07-22 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-07-25 : Dépôt de rapport (RAPPSNR5S379B0827, PRJLSNR5S379BTC0828)
+  - Discussion en séance publique
+    - 2022-07-29 : Discussion en séance publique
+    - 2022-07-29 : Décision
+- Commission Mixte Paritaire
+  - 2022-08-01 : Dépôt d'un projet de loi (PRJLANR5L16B0176)
+  - 2022-08-01 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-08-01 : Nomination de rapporteur
+    - 2022-08-01 : Dépôt du rapport d'une CMP (RAPPSNR5S379B0850, PRJLSNR5S379BTC0851)
+    - 2022-08-01 : Dépôt du rapport d'une CMP (RAPPANR5L16B0177, PRJLANR5L16BTC0177)
+  - Discussion en séance publique
+    - 2022-08-03 : Discussion en séance publique
+    - 2022-08-03 : Décision
+  - Discussion en séance publique
+    - 2022-08-03 : Discussion en séance publique
+    - 2022-08-03 : Décision
+  - 2022-08-02 : Décision de la CMP
+- Conseil constitutionnel
+  - 2022-08-05 : Saisine du conseil constitutionnel
+  - 2022-08-08 : Saisine du conseil constitutionnel
+  - 2022-08-12 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-08-16 : Promulgation d'une loi
