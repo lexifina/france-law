@@ -32,7 +32,7 @@ J. E. P. S. peut être délivrée au titre de :
 
 - Mentions plurivalentes comprenant deux supports de disciplines différentes. Exemple : mention " croisière côtière " et " char à voile d'initiation et de découverte ".
 
-Une unité capitalisable complémentaire peut être proposée aux candidats titulaires d'une des mentions monovalentes ou plurivalentes de la spécialité " activités nautiques " pour élargir leur portefeuille de compétences et répondre à des situations justifiant une adaptation à l'emploi. La liste des supports, constitutifs de l'unité capitalisable complémentaire, est précisée au point 2 de l'article 2 du présent arrêté.
+Une unité capitalisable complémentaire peut être proposée aux candidats titulaires d'une des mentions monovalentes ou plurivalentes de la spécialité " activités nautiques " ou de l'une des mentions de la spécialité “ éducateur sportif ” figurant à l'article 8 du présent arrêté pour élargir leur portefeuille de compétences et répondre à des situations justifiant une adaptation à l'emploi. La liste des supports, constitutifs de l'unité capitalisable complémentaire, est précisée au point 2 de l'article 2 du présent arrêté.
 
 Dans certaines conditions, des unités capitalisables complémentaires, regroupées en certificat de spécialisation, dont la liste est fixée à l'article 9 du présent arrêté, peuvent faire l'objet d'une certification complémentaire. Seuls les organismes de formations qui sont habilités pour un B. P. J. P. S. du support peuvent proposer une unité capitalisable complémentaire ou un certificat de spécialisation dans ce support. Ces qualifications complémentaires ouvrent droit aux prérogatives d'encadrement du support, une fois la totalité des unités capitalisables de la mention acquise.
 
