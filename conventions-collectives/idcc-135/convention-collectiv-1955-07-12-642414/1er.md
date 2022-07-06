@@ -4,104 +4,48 @@ La présente convention est conclue en application du chapitre IV bis du titre I
 
 Elle s'applique, ainsi que ses annexes, à l'ensemble du territoire métropolitain, y compris la Corse.
 
-Elle règle les conditions de travail des employés, techniciens et agents de maîtrise, désignés dans la présente convention sous le nom de " Collaborateurs ", occupés dans les entreprises appartenant aux industries ci-après énumérées, en application du décret n° 92-1129 du 2 octobre 1992, portant approbation de la nomenclature d'activité française (NAF) :
+Elle règle les conditions de travail des employés, techniciens et agents de maîtrise, désignés dans la présente convention sous le nom de " Collaborateurs ", occupés dans les entreprises appartenant aux industries ci-après énumérées, par référence à la nomenclature des activités collectives (décret du 9 avril 1959) :
 
-14-1 A - Extraction de pierres pour la construction.
+1° Toute la section 14 : Extraction de matériaux de construction et d'autres produits de carrière, à l'exception de :
 
-- Dans cette classe, toutes les activités sont visées.
+-141 : Ardoisière, carrière d'ardoises ; de schiste ardoisier ;
 
-- Précédent code APE : 1503.
+-146-0 : Carrière d'argile (indépendante d'un établissement de céramique) ;
 
-14-1 C - Extraction de calcaire industriel, de gypse et de craie.
+-146-1 : Extraction de terre à brique, de terre à poterie : glaise, glaisière ;
 
-- Dans cette classe, toutes les activités sont visées.
+-146-2 : Extraction d'argiles réfractaires, terres réfractaires ;
 
-- Toutefois, ne sont pas visées les entreprises appliquant la convention collective de l'industrie du ciment.
+-146-3 : Extraction de kaolin et d'argiles kaoliniques ;
 
-- Précédents codes APE : 1402, 1505.
+-146-4 : Extraction d'argiles décolorantes ;
 
-14-2 A - Production de sables et de granulats.
+2° Dans la section 15 : Extraction et préparation de minéraux divers, les rubriques et sous-rubriques :
 
-- Dans cette classe, toutes les activités sont visées.
+-157-3 : Extraction de silice fossile, de kieselguhr, de diatomites ;
 
-- Précédents codes APE : 1501, 1502.
+-157-31 : Extraction avec ou sans préparation de briques ;
 
-14-3 Z - Extraction de minéraux pour l'industrie chimique et d'engrais naturels.
+-157-32 : Préparation de briques ou enduits de silice fossile.
 
-- Dans cette classe n'est visée que l'extraction de terres colorantes (ocres, oxydes naturels, terres serpentines etc.).
+3° Toute la section 32 : Matériaux de construction, à l'exception de :
 
-- Précédent code APE : 1402.
+-dans la rubrique 321-3 : Taille d'ardoise ;
 
-14-5 Z - Activités extractives non classées ailleurs.
+-dans le groupe 324 : Fabrication de plâtre, les usines rattachées à des sociétés appliquant déjà la convention collective de l'industrie du ciment ;
 
-- Dans cette classe n'est visée que l'extraction de matières abrasives naturelles.
+-dans le groupe 325 : Fabrication de chaux et ciment.
 
-- Précédent code APE : 1402.
+La sous-rubrique 327-22 : Fabrication de matériaux d'étanchéité : feutres bitumés et goudronnés, bitume armé.
 
-26-5 E - Fabrication de plâtres.
+La convention s'applique également aux dépôts et agences des établissements soumis à la présente convention.
 
-- Dans cette classe, toutes les activités sont visées.
+Elle ne s'applique pas aux V. R. P. bénéficiaires du statut prévu par la loi du 18 juillet 1937.
 
-- Toutefois, ne sont pas visées les entreprises appliquant la convention collective de l'industrie du ciment.
+Des annexes à la présente convention, établies par branches professionnelles nationales ou régionales, détermineront les dispositions particulières qui leur sont applicables.
 
-- Précédent code APE : 1505.
+NOTA :
 
-26-6 A - Fabrication d'éléments en béton pour la construction.
+Par accord du 11 juillet 2019, conclu en application de l’article L. 2261-33 du code du travail relatif à la restructuration des branches professionnelles, le champ d’application de la convention collective nationale des employés, techniciens et agents de maîtrise des industries de carrières et de matériaux (IDCC 135) a fusionné avec celui de la convention collective nationale des cadres des industries de carrières et matériaux (IDCC 211), avec celui de la convention collective nationale des industries de la fabrication de la chaux (IDCC 3227) et avec celui de la convention collective nationale des ouvriers des industries de carrières et de matériaux (IDCC 87), désignée comme branche de rattachement.
 
-- Dans cette classe, toutes les activités sont visées.
-
-- Précédent code APE : 1508.
-
-26-6 C - Fabrication d'éléments en plâtre pour la construction.
-
-- Dans cette classe, toutes les activités sont visées.
-
-- Toutefois, ne sont pas visées les entreprises appliquant la convention collective de l'industrie du ciment.
-
-- Précédent code APE : 1505.
-
-26-6 E - Fabrication du béton prêt à l'emploi.
-
-- Dans cette classe, toutes les activités sont visées.
-
-- Précédent code APE : 1507.
-
-26-6 J - Fabrication d'ouvrages en fibre-ciment.
-
-- Dans cette classe est visée la fabrication de produits et d'ouvrages en amiante-ciment, en cellulose-ciment, ou similaires.
-
-- Précédent code APE : 1509.
-
-26-6 L - Fabrication d'autres ouvrages en béton ou en plâtre.
-
-- Dans cette classe, toutes les activités sont visées.
-
-- Précédents codes APE : 1505, 1508.
-
-26-7 Z - Travail de la pierre.
-
-- Dans cette classe, sont visées les entreprises de production de matériaux en pierre et autres matériaux naturels.
-
-- Précédents codes APE : 1503, 1502, 1509.
-
-26-8 A - Fabrication de produits abrasifs.
-
-- Dans cette classe n'est visée que la production de meules et de pierres à aiguiser en matières abrasives naturelles.
-
-- Précédent code APE : 1402.
-
-26-8 C - Fabrication de produits minéraux non métalliques non classés ailleurs.
-
-- Dans cette classe n'est visée que la fabrication de matières minérales isolantes (laines de roche et de laitier, vermiculite).
-
-- Précédent code APE : 1509.
-
-74-1 J - Administration d'entreprises.
-
-- Dans cette classe, ne sont visés que les sièges sociaux ou administratifs d'entreprises liées par le présent champ d'application.
-
-93-0 H - Pompes funèbres.
-
-- Dans cette classe est visée l'activité de fourniture, pose et gravure de dalles funéraires (marbrerie funéraire).
-
-- Précédent code APE : 8705.
+Dans un délai maximal de 5 ans à compter de l’entrée en vigueur de la fusion des champs, les stipulations des conventions collectives concernées peuvent être maintenues, dans l’attente de la conclusion d’un accord remplaçant par des stipulations communes les stipulations régissant des situations équivalentes dans chacune des conventions. A défaut d’accord au terme de ce délai, les stipulations de la convention rattachée cessent de s’appliquer, à l’exception de celles régissant des situations spécifiques (Conseil constitutionnel, décision n° 2019-816 QPC du 29-11-2019).
