@@ -81,3 +81,7 @@ https://www.legifrance.gouv.fr/download/pdf?id=kP0cscEfbBbghXVQrM4URcUmmnoqYTQB6
 Les modèles des signaux nouveaux mentionnés à l'article 4 de l'arrêté du 23 juin 2021 figurent à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/download/pdf?id=W0aXpjQ_WXbPi8jiCJ_yLL3NFIW3dzNvYtiXksp3e4k=
+
+Les modèles des signaux nouveaux mentionnés à l'article 7 de l'arrêté du 13 juin 2022 figurent à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=FBY7Nmi37pVDMqtPqk-BIIvKSk5AJ5_K4MfKeTuWgLs=
