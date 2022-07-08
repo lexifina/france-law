@@ -1,0 +1,11 @@
+# Les Lilas : arrêté d018-22-arrete-permanent-om-rue-des-bruyeres — d018-22-arrete-permanent-om-rue-des-bruyeres.pdf
+
+- Collectivité : Les Lilas
+- SIREN : 219300456
+- Code INSEE : 93045
+- Date : 2022-07-08 (date de mise en ligne sur data.gouv.fr ; la date de l'acte n'est pas lisible dans le fichier)
+- Objet : d018-22-arrete-permanent-om-rue-des-bruyeres.pdf
+- Pages : 1
+- Acte publié : https://static.data.gouv.fr/resources/arretes-de-voirie-2022/20220708-104632/d018-22-arrete-permanent-om-rue-des-bruyeres.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/62c57f9d544667de2dc6257a
+- Texte : document numérisé sans couche texte (non reproduit ; voir l'acte publié)
