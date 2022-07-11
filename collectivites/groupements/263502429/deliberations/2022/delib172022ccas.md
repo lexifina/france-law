@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB172022CCAS — D- REVISION DU LOYER DU LOGEMENT ANNEXE DE LA RESIDENCE AUTONOMIE LES HERMELLES
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-07-11
+- Matière : 3.3 Domaine et patrimoine/Locations
+- Objet : D- REVISION DU LOYER DU LOGEMENT ANNEXE DE LA RESIDENCE AUTONOMIE LES HERMELLES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/221519/609950952fed5b589a29b555052c39c800f30c4f7b1e7bdf6617b0a33300ab84.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
