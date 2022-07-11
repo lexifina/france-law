@@ -244,7 +244,7 @@ ATEMAX France |
 
 FR000000000000022 |
 
-SAICA PAPER France Site de Vénizel |
+SAICA PAPER France - Site de Vénizel |
 
 SAICA PAPER France |
 
@@ -734,17 +734,17 @@ EURENCO |
 
 EURENCO |
 
-6 638 |
+5507 |
 
-6 468 |
+5366 |
 
-6 297 |
+5224 |
 
-6 126 |
+5082 |
 
-5 956 |
+4941 |
 
-31 485 |
+26120 |
 
 FR000000000000068 |
 
@@ -766,7 +766,7 @@ AHLSTROM-MUNKSJO ROTTERSAC SAS |
 
 FR000000000000069 |
 
-FR 1152 |
+CONDAT (HOLDING) |
 
 CONDAT (HOLDING) |
 
@@ -2120,17 +2120,17 @@ ECO CHALEUR DE BREST - Chaufferie du spernot |
 
 ECO CHALEUR DE BREST |
 
-651 |
+766 |
 
-651 |
+766 |
 
-651 |
+766 |
 
-651 |
+766 |
 
-651 |
+766 |
 
-3 255 |
+3830 |
 
 FR000000000000193 |
 
@@ -2620,9 +2620,9 @@ MFPM Siège des Carmes |
 
 FR000000000000241 |
 
-ENGIE ES Chaufferie ZUP Chapelle St Luc |
+Chaufferie - Réseau TCM La Chapelle Saint-Luc/ Les Noës-Près-Troyes |
 
-SELYA |
+Troyes Champagne Métropole |
 
 1 173 |
 
@@ -2782,9 +2782,9 @@ SAICA PAPER EL |
 
 FR000000000000251 |
 
-ENGIE ES Sem Cogénération Les Noës près Troyes |
+Cogénération - Réseau TCM La Chapelle Saint-Luc/ Les Noës-Près-Troyes |
 
-SELYA |
+Troyes Champagne Métropole |
 
 732 |
 
@@ -3308,17 +3308,17 @@ Borealis Chimie Usine de Granq-Quevilly Unité d'ammoniac |
 
 Borealis Chimie Usine de Grand Quevilly |
 
-458 200 |
+460325 |
 
-458 200 |
+460325 |
 
-458 200 |
+460325 |
 
-458 200 |
+460325 |
 
-458 200 |
+460325 |
 
-2 291 000 |
+2301625 |
 
 FR000000000000295 |
 
@@ -3504,7 +3504,7 @@ FR000000000000310 |
 
 Société de Cogénération de Tavaux |
 
-SOLVAY Opérations France |
+SOLVAY France |
 
 / |
 
@@ -3738,7 +3738,7 @@ FR000000000000329 |
 
 SLV-Ta-EDS2 |
 
-Solvay Opérations France |
+SOLVAY France |
 
 / |
 
@@ -4150,9 +4150,9 @@ GRTgaz Territoire Rhône Méditerranée |
 
 FR000000000000364 |
 
-SAICA PAPER EL - Usine de Laveyron |
+SAICA PAPER FRANCE - Usine de Laveyron |
 
-SAICA PAPER EL |
+SAICA PAPER FRANCE |
 
 103 699 |
 
@@ -5054,17 +5054,17 @@ Brasserie Champigneulles SAS |
 
 Brasserie Champigneulles SAS |
 
-3 149 |
+1988 |
 
-3 149 |
+1988 |
 
-3 149 |
+1988 |
 
-3 149 |
+1988 |
 
-3 149 |
+1988 |
 
-15 745 |
+9940 |
 
 FR000000000000454 |
 
@@ -5324,17 +5324,17 @@ AHLSTROM MUNKSJÖ STENAY SAS |
 
 AHLSTROM MUNKSJÖ STENAY |
 
-33 626 |
+19565 |
 
-33 626 |
+19565 |
 
-33 626 |
+19565 |
 
-33 626 |
+19565 |
 
-33 626 |
+19565 |
 
-168 130 |
+97825 |
 
 FR000000000000476 |
 
@@ -5396,17 +5396,17 @@ ASCO INDUSTRIES Usine d'Hagondange |
 
 ASCOMETAL HAGONDANGE |
 
-47 158 |
+34756 |
 
-47 158 |
+34756 |
 
-47 158 |
+34756 |
 
-47 158 |
+34756 |
 
-47 158 |
+34756 |
 
-235 790 |
+173780 |
 
 FR000000000000483 |
 
@@ -5666,17 +5666,17 @@ EGGER PANNEAUX ET DECORS - Rambervillers |
 
 EGGER Panneaux et Décors |
 
-43 426 |
+34092 |
 
-42 311 |
+33216 |
 
-41 194 |
+32340 |
 
-40 079 |
+31464 |
 
-38 964 |
+30589 |
 
-205 974 |
+161701 |
 
 FR000000000000507 |
 
@@ -6890,17 +6890,17 @@ Unités de l'Usine Chimique de l'Aubette et les unités EBD et DIB situées à l
 
 BASELL POLYOLEFINES (BPO) |
 
-691 916 |
+690420 |
 
-691 916 |
+692391 |
 
-691 916 |
+692391 |
 
-691 916 |
+692391 |
 
-691 916 |
+692391 |
 
-3 459 580 |
+3459984 |
 
 FR000000000000623 |
 
@@ -6980,17 +6980,17 @@ ARCELORMITTAL MEDITERRANEE |
 
 ArcelorMittal méditérannée |
 
-6 522 097 |
+6365796 |
 
-6 522 097 |
+6365796 |
 
-6 522 097 |
+6365796 |
 
-6 522 097 |
+6365796 |
 
-6 522 097 |
+6365796 |
 
-32 610 485 |
+31828980 |
 
 FR000000000000629 |
 
@@ -9460,9 +9460,9 @@ Papeteries de Saint Girons |
 
 FR000000000000864 |
 
-VOA, Verrerie d'Albi |
+VERALLIA FRANCE - ALBI |
 
-VOA Verrerie d'Albi |
+VERALLIA FRANCE |
 
 55 007 |
 
@@ -9896,17 +9896,17 @@ CARTONNERIES DE GONDARDENNES WARDRECQUES SA |
 
 CARTONNERIES de GONDARDENNES WARDRECQUES sa |
 
-41 039 |
+39709 |
 
-41 039 |
+39709 |
 
-41 039 |
+39709 |
 
-41 039 |
+39709 |
 
-41 039 |
+39709 |
 
-205 195 |
+198545 |
 
 FR000000000000910 |
 
@@ -10364,17 +10364,17 @@ Arcelormittal France - Site de Dunkerque |
 
 Arcelormittal France |
 
-9 607 426 |
+9379705 |
 
-9 607 426 |
+9379705 |
 
-9 607 426 |
+9379705 |
 
-9 607 426 |
+9379705 |
 
-9 607 426 |
+9379705 |
 
-48 037 130 |
+46898525 |
 
 FR000000000000958 |
 
@@ -11894,17 +11894,17 @@ Energies Antilles |
 
 EDF SEI |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
-/ |
+- |
 
 FR000000000001114 |
 
@@ -12142,9 +12142,9 @@ GAZEL ENERGIE GENERATION |
 
 FR000000000001134 |
 
-EVERGREEN |
+LA BOISOURCE Site de Saillat-sur-Vienne |
 
-EVERGREEN |
+LA BOISOURCE |
 
 0 |
 
@@ -12650,17 +12650,17 @@ Centrale Utilités SOBEGI |
 
 SOBEGI |
 
-22 306 |
+13343 |
 
-21 733 |
+13000 |
 
-21 159 |
+12657 |
 
-20 586 |
+12314 |
 
-20 013 |
+11972 |
 
-105 797 |
+63286 |
 
 FR000000000001165 |
 
@@ -13514,17 +13514,17 @@ POLYTECHNYL Belle-Etoile Polyamides Intermediates |
 
 POLYTECHNYL |
 
-44 675 |
+36618 |
 
-44 675 |
+36618 |
 
-44 675 |
+36618 |
 
-44 675 |
+36618 |
 
-44 675 |
+36618 |
 
-223 375 |
+183090 |
 
 FR000000000204784 |
 
@@ -14306,17 +14306,17 @@ APERAM STAINLESS France |
 
 APERAM STAINLESS France |
 
-21 752 |
+19039 |
 
-21 752 |
+19039 |
 
-21 752 |
+19039 |
 
-21 752 |
+19039 |
 
-21 752 |
+19039 |
 
-108 760 |
+95195 |
 
 FR000000000205670 |
 
@@ -14592,7 +14592,7 @@ FR000000000205751 |
 
 SLV-Ta-Specialty Polymers2 |
 
-SOLVAY OPERATIONS France |
+SOLVAY France |
 
 33 786 |
 
@@ -14810,17 +14810,17 @@ SOBEGI |
 
 SOBEGI |
 
-5 650 |
+7951 |
 
-5 650 |
+7951 |
 
-5 650 |
+7951 |
 
-5 650 |
+7951 |
 
-5 650 |
+7951 |
 
-28 250 |
+39755 |
 
 FR000000000205870 |
 
@@ -15404,17 +15404,17 @@ INEOS Derivatives Lavéra SAS (IDL) |
 
 INEOS Derivatives Lavéra SAS (IDL) |
 
-86 249 |
+141322 |
 
-86 249 |
+141322 |
 
-86 249 |
+141322 |
 
-86 249 |
+141322 |
 
-86 249 |
+141322 |
 
-431 245 |
+706610 |
 
 FR000000000206065 |
 
@@ -15782,17 +15782,17 @@ Colas France - Centrale d'enrobage mobile - TSM25-3 |
 
 Colas France |
 
-838 |
+1386 |
 
-838 |
+1386 |
 
-838 |
+1386 |
 
-838 |
+1386 |
 
-838 |
+1386 |
 
-4 190 |
+6930 |
 
 FR000000000206292 |
 
@@ -16718,17 +16718,17 @@ TOMATES D'AQUITAINE |
 
 TOMATES D'AQUITAINE |
 
-513 |
+262 |
 
-513 |
+262 |
 
-513 |
+262 |
 
-513 |
+262 |
 
-513 |
+262 |
 
-2 565 |
+1310 |
 
 FR000000000206981 |
 
@@ -16750,9 +16750,9 @@ FORGITAL DEMBIRMONT |
 
 FR000000000207223 |
 
-SA DESVRES |
+DESVRES SURFACES - Maubeuge |
 
-SA DESVRES |
+DESVRES SURFACES |
 
 17 392 |
 
@@ -17852,17 +17852,17 @@ ESTIA - Chaufferie de la Haye |
 
 ESTIA réseaux de chaleur |
 
-0 |
+1464 |
 
-0 |
+1426 |
 
-0 |
+1389 |
 
-0 |
+1351 |
 
-0 |
+1314 |
 
-0 |
+6944 |
 
 FR000000000211358 |
 
@@ -17924,17 +17924,17 @@ Knauf insulation site de Illange |
 
 Knauf Insulation Lannemezan |
 
-0 |
+10148 |
 
-0 |
+10148 |
 
-0 |
+10148 |
 
-0 |
+10148 |
 
-0 |
+10148 |
 
-0 |
+50740 |
 
 FR000000000211960 |
 
@@ -18016,17 +18016,17 @@ FRESENIUS MEDICAL CARE |
 
 FRESENIUS MEDICAL CARE SMAD |
 
-0 |
+3704 |
 
-0 |
+3704 |
 
-0 |
+3704 |
 
-0 |
+3704 |
 
-0 |
+3704 |
 
-0 |
+18520 |
 
 FR000000000212960 |
 
@@ -18052,17 +18052,17 @@ Imerys PCC France - Site de Salin de Giraud |
 
 IMERYS SALIN |
 
-/ |
+30016 |
 
-/ |
+30016 |
 
-/ |
+30016 |
 
-/ |
+30016 |
 
-/ |
+30016 |
 
-/ |
+150080 |
 
 FR000000000213120 |
 
@@ -18196,17 +18196,17 @@ ELM Opérations - Chaufferie Surville Lyon |
 
 ELM Opérations |
 
-0 |
+3523 |
 
-0 |
+3523 |
 
-0 |
+3523 |
 
-0 |
+3523 |
 
-0 |
+3523 |
 
-0 |
+17615 |
 
 FR000000000214181 |
 
@@ -18784,7 +18784,7 @@ OVH Cloud ROUBAIX |
 
 / |
 
-FR-new-06200462 |
+FR-new-03012154 |
 
 CHR Nancy-BRABOIS |
 
@@ -18862,17 +18862,17 @@ DALKIA - SCUC Chaufferie MONDOR |
 
 SCUC (Société de Chauffage Urbain de Créteil) |
 
-654 |
+364 |
 
-654 |
+364 |
 
-654 |
+364 |
 
-654 |
+364 |
 
-654 |
+364 |
 
-3 270 |
+1820 |
 
 FR-new-03303179 |
 
@@ -18946,7 +18946,7 @@ DATA 4 SERVICES |
 
 / |
 
-FR-new-06506309 |
+FR000000000217081 |
 
 Chaufferie du CASH |
 
@@ -18982,7 +18982,7 @@ FREGATA HYGIENE |
 
 / |
 
-FR-new-03205118 |
+FR000000000216860 |
 
 Centrale d'enrobage TRABET |
 
@@ -19000,7 +19000,7 @@ TRABET Brumath |
 
 / |
 
-FR000000000216552 |
+FR000000000216562 |
 
 Chaufferie Biomax |
 
@@ -19072,7 +19072,7 @@ B + T ENERGIE France sas |
 
 / |
 
-FR-new-10013918 |
+FR000000000216920 |
 
 TOURS MÉTROPOLE ÉNERGIES DURABLES (TMED) |
 
@@ -19090,4 +19090,8 @@ TOURS MÉTROPOLE ÉNERGIES DURABLES (TMED) |
 
 / |
 
-/ : installations n'ayant pas fait de demande d'allocation de quotas d'émission à titre gratuit (incluant les installations ne pouvant bénéficier de quotas à titre gratuit) 0 : installations ayant fait une demande d'allocation de quotas d'émission à titre gratuit (allocations égales à zéro) - : installations sorties du SEQE |
+- : installations sorties du SEQE
+
+/ : installations n'ayant pas fait de demande d'allocation de quotas d'émission à titre gratuit (incluant les installations ne pouvant bénéficier de quotas à titre gratuit)
+
+|
