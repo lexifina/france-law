@@ -752,27 +752,21 @@ A
 
 Direction départementale des territoires du Doubs (8)
 
-FONCTIONS EXERCÉES
+Fonction exercée
 
 |
 
-NIVEAU
+Niveau de qualification de l'emploi |
 
-de qualification
-
-de l'emploi
-
-|
-
-NOMBRE
+Nombre
 
 d'emplois
 
 |
 
-NOMBRE de points (IM)
+Nombre de points
 
-par emploi
+(IM) par emploi
 
 |
 
@@ -854,7 +848,7 @@ B
 
 |
 
-Chargé de la commission de conciliation et des gens du voyage
+Adjoint au chef d'unité volet logement locatif social
 
 |
 
@@ -866,19 +860,31 @@ B
 
 |
 
-20
+30
 
 |
 
-Adjoint au responsable de l'unité lutte contre les exclusions et observation de l'habitat
+Direction départementale de l'emploi, du travail, des solidarités et de la protection des populations du Doubs
 
-|
+Fonction exercée |
+
+Niveau de qualification de l'emploi |
+
+Nombre
+
+d'emplois |
+
+Nombre de points
+
+(IM) par emploi |
+
+Chargé de la commission de conciliation et des gens du voyage |
 
 B |
 
 1 |
 
-30 |
+20 |
 
 Direction départementale de l'équipement de la Drôme
 
@@ -1226,6 +1232,6 @@ NOTA :
 
 (7) En application de l'article 1 de l'arrêté du 25 juillet 2016, entre en vigueur à compter du 1er janvier 2015, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires et de la mer du Calvados, et au 1er décembre 2015 pour ce qui concerne la répartition de l'enveloppe de la direction départementale de la cohésion sociale du Calvados.
 
-(8) En application de l'article 1 de l'arrêté du 7 mai 2019, entre en vigueur à compter du 1er mars 2019, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
+(8) En application de l'article 1 de l'arrêté du 7 juillet 2022, la présente annexe est remplacée à effet du 1er avril 2021 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
 
 (9) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Bouches-du-Rhône prennent effet au 1er janvier 2017.
