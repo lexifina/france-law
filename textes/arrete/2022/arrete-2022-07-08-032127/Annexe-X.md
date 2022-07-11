@@ -1,14 +1,14 @@
-# Article Annexe XVII
+# Article Annexe X
 
-REMUNERATION DES INTERNES ET DES RESIDENTS EN MEDECINE,
-
-DES INTERNES EN PHARMACIE ET DES INTERNES EN ODONTOLOGIE
+RÉMUNÉRATION DES INTERNES ET DES RÉSIDENTS EN MÉDECINE, DES INTERNES EN PHARMACIE ET DES INTERNES EN ODONTOLOGIE
 
 Articles R. 6153-1 à R. 6153-45 du code de la santé publique
 
 PERSONNELS CONCERNES |
 
-Montants au 1er novembre 2020 (en euros) |
+Montants au 1er juillet 2022
+
+(en euros) |
 
 I-Montants bruts annuels de la rémunération :
 
@@ -20,23 +20,23 @@ I-Montants bruts annuels de la rémunération :
 
 internes de 5e année |
 
-27 080 |
+28 027,80 |
 
 internes de 4e année |
 
-27 063 |
+28 010,20 |
 
 internes et résidents de 3e année |
 
-27 042 |
+27 988,47 |
 
 internes et résidents de 2e année |
 
-20 450 |
+21 165,75 |
 
 internes et résidents de 1re année |
 
-18 473 |
+19 119,55 |
 
 Montant brut mensuel de l'indemnité de sujétions particulières allouée : |
 
@@ -52,11 +52,11 @@ Montant brut mensuel de l'indemnité de sujétions particulières allouée : |
 
 II-Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (montant brut annuel) |
 
-16 892 |
+17 483,22 |
 
 III-Montant brut annuel de la rémunération des étudiants effectuant une année de recherche |
 
-24 684.71 |
+25 548,67 |
 
 IV-Montants bruts annuels des indemnités compensatrices d'avantages en nature pour les internes et les résidents en en médecine et les étudiants en médecine et pharmacie désignées pour occuper provisoirement un poste d'interne : |
 
@@ -80,16 +80,8 @@ V-Montant brut annuel de la prime de responsabilité |
 
 internes en médecine de 5e année |
 
-4 068,38 |
+4 210, 77 |
 
 internes en médecine et en pharmacie de 4e année |
 
-2 050,50
-
-|
-
-.
-
-NOTA :
-
-Conformément à l'article 6 de l'arrêté du 11 septembre 2020, ces dispositions sont applicables à compter du 1er novembre 2020.
+2 122,27 |

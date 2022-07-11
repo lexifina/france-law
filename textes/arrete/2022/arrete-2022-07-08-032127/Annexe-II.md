@@ -1,14 +1,12 @@
-# Article Annexe XII
+# Article Annexe II
 
-ÉMOLUMENTS DES PRATICIENS HOSPITALIERS
+EMOLUMENTS DES PRATICIENS HOSPITALIERS
 
 Articles R. 6152-1 à R. 6152-98 du code de la santé publique
 
 PERSONNELS CONCERNÉS |
 
-Montants
-
-au 1er janvier 2021
+Montants au 1er juillet 2022
 
 (en euros) |
 
@@ -18,55 +16,55 @@ I-Emoluments hospitaliers (montants bruts annuels) |
 
 13e échelon |
 
-107 009,89 |
+110 755,24 |
 
 12e échelon |
 
-100 009,89 |
+103 510,24 |
 
 11e échelon |
 
-95 009,89 |
+98 335,24 |
 
 10e échelon |
 
-90 009,89 |
+93 160,24 |
 
 9e échelon |
 
-86 194,18 |
+89 210,98 |
 
 8e échelon |
 
-75 816,89 |
+78 470,48 |
 
 7e échelon |
 
-72 788,12 |
+75 335,70 |
 
 6e échelon |
 
-67 740,25 |
+70 111,16 |
 
 5e échelon |
 
-65 384,65 |
+67 673,11 |
 
 4e échelon |
 
-63 365,55 |
+65 583,34 |
 
 3e échelon |
 
-59 159,06 |
+61 229,63 |
 
 2e échelon |
 
-55 288,94 |
+57 224,05 |
 
 1er échelon |
 
-52 933,33 |
+54 786,00 |
 
 II-Indemnité d'engagement de service public exclusif |
 
@@ -99,7 +97,3 @@ de plus de 3 demi-journées à 4 demi-journées inclus |
 IV-Indemnité d'activité sectorielle et de liaison (montant brut mensuel) |
 
 420,86 |
-
-NOTA :
-
-Conformément à l’article 6 de l'arrêté du 28 décembre 2020 (NOR : SSAH2032612A), ces dispositions entrent en vigueur le 1er janvier 2021.

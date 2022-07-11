@@ -1,6 +1,6 @@
-# Article Annexe X
+# Article Annexe I
 
-ÉMOLUMENTS HOSPITALIERS DES PERSONNELS ENSEIGNANTS ET HOSPITALIERS DES CENTRES HOSPITALIERS ET UNIVERSITAIRES
+EMOLUMENTS HOSPITALIERS DES PERSONNELS ENSEIGNANTS ET HOSPITALIERS DES CENTRES HOSPITALIERS ET UNIVERSITAIRES
 
 Décret n° 2021-1645 du 13 décembre 2021
 
@@ -8,7 +8,7 @@ Mesures permanentes
 
 PERSONNELS CONCERNES |
 
-Montants au 1er janvier 2022
+Montants au 1er juillet 2022
 
 (en euros) |
 
@@ -22,23 +22,23 @@ A. Professeurs des universités-praticiens hospitaliers (montants bruts annuels)
 
 5e échelon |
 
-58 000,00 € |
+60 030,00 € |
 
 4e échelon |
 
-56 155,65 € |
+58 121,10 € |
 
 3e échelon |
 
-49 484,37 € |
+51 216,32 € |
 
 2e échelon |
 
-41 701,40 € |
+43 160,95 € |
 
 1e échelon |
 
-38 365,78 € |
+39 708,58 € |
 
 B. Maîtres de conférences des universités-praticiens hospitaliers (montants bruts annuels) |
 
@@ -46,31 +46,31 @@ B. Maîtres de conférences des universités-praticiens hospitaliers (montants b
 
 7e échelon |
 
-48 025,00 € |
+49 705,88 € |
 
 6e échelon |
 
-46 525,00 € |
+48 153,38 € |
 
 5e échelon |
 
-45 025,80 € |
+46 601,70 € |
 
 4e échelon |
 
-42 107,38 € |
+43 581,14 € |
 
 3e échelon |
 
-39 078,64 € |
+40 446,39 € |
 
 2e échelon |
 
-36 050,03 € |
+37 311,78 € |
 
 1e échelon |
 
-33 021,31 € |
+34 177,06 € |
 
 C-Maitres de conférences des universités-praticiens hospitaliers des disciplines odontologiques exerçant à temps partiel (montants bruts annuels) |
 
@@ -78,31 +78,31 @@ C-Maitres de conférences des universités-praticiens hospitaliers des disciplin
 
 7e échelon |
 
-19 210,00 € |
+19 882,35 |
 
 6e échelon |
 
-18 610,00 € |
+19 261,35 |
 
 5e échelon |
 
-18 010,32 € |
+18 640,68 |
 
 4e échelon |
 
-16 842,95 € |
+17 432,45 |
 
 3e échelon |
 
-15 631,46 € |
+16 178,56 |
 
 2e échelon |
 
-14 420,01 € |
+14 924,71 |
 
 1e échelon |
 
-13 208,52 € |
+13 670,82 |
 
 D. Chefs de clinique des universités-assistants des hôpitaux et assistants hospitaliers universitaires (montants bruts annuels) |
 
@@ -110,11 +110,11 @@ D. Chefs de clinique des universités-assistants des hôpitaux et assistants hos
 
 2e échelon (après 2 ans de fonctions) |
 
-20 683,43 € |
+21 407,35 |
 
 1er échelon (avant 2 ans de fonctions) |
 
-17 761,40 € |
+18 383,05 |
 
 E-Chefs de clinique des universités-assistants des hôpitaux des disciplines odontologiques exerçant à temps partiel (montants bruts annuels) |
 
@@ -122,15 +122,15 @@ E-Chefs de clinique des universités-assistants des hôpitaux des disciplines od
 
 2e échelon (après 2 ans de fonctions) |
 
-8 355,37 € |
+8 647,81 |
 
 1er échelon (avant 2 ans de fonctions) |
 
-7 186,42 € |
+7 437,94 |
 
 II-Indemnité d'engagement de service public exclusif (montant brut mensuel) pour A, B et D |
 
-1 010 € |
+1 010 |
 
 III-Prime d'exercice territorial (montant brut mensuel, en fonction du nombre moyen hebdomadaire de demi-journées passées en dehors du site principal d'exercice du praticien ainsi que du nombre de sites d'exercice différents le cas échéant) |
 
@@ -138,24 +138,20 @@ III-Prime d'exercice territorial (montant brut mensuel, en fonction du nombre mo
 
 1 demi-journée |
 
-250 € |
+250 |
 
 de plus de 1 demi-journée à 3 demi-journées inclus |
 
-450 € |
+450 |
 
 de plus de 3 demi-journées à 4 demi-journées inclus |
 
-700 € |
+700 |
 
 4 demi-journées sur au moins 2 sites différents du site principal d'exercice ou plus de 4 demi-journées |
 
-1 000 € |
+1 000 |
 
 IV-Indemnité d'activité sectorielle et de liaison pour A, B et D (montant brut mensuel) |
 
-420,86 € |
-
-NOTA :
-
-Conformément à l'article 2 de l'arrêté du 23 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.
+420,86 |
