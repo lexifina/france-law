@@ -1,0 +1,5 @@
+# Article 1er
+
+Les partenaires sociaux conviennent que la convention collective territoriale de la métallurgie de la Charente (IDCC 1572), ses avenants et annexes, ainsi que l'ensemble des accords collectifs, leurs avenants et annexes, conclus dans le champ de cette convention collective territoriale, ou dans un champ plus restreint, sont abrogés et cessent de produire leurs effets à compter de l'entrée en vigueur de la convention collective nationale de la métallurgie.
+
+Ainsi les dispositions de la convention collective territoriale de la métallurgie de la Charente (IDCC 1572) restent applicables jusqu'à l'entrée en vigueur de la nouvelle convention collective de la métallurgie conclue le 7 février 2022.
