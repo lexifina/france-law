@@ -62,7 +62,7 @@ Directeur de l'agence du numérique de défense
 
 .
 
-167.-LIENS ENTRE LA NATION ET SON ARMÉE |
+169. - RECONNAISSANCE ET RÉPARATION EN FAVEUR DU MONDE COMBATTANT, MÉMOIRE ET LIENS AVEC LA NATION |
 
 Armées, direction ou service |
 
@@ -70,9 +70,9 @@ Autorités concernées |
 
 Direction du service national et de la jeunesse |
 
-Commandant du service militaire volontaire |
+Commandant du service militaire volontaire
 
-.
+|
 
 178.-PRÉPARATION ET EMPLOI DES FORCES |
 
@@ -190,19 +190,19 @@ Direction des ressources humaines du ministère de la défense
 
 |
 
-Directeur de Défense mobilité
-
 Directeur du service des pensions et des risques professionnels
 
 |
 
-Direction de la mémoire, de la culture et des archives
+902. - COMPTE DE COMMERCE "EXPLOITATION INDUSTRIELLE DES ATELIERS AÉRONAUTIQUES DE L'ÉTAT" |
 
-|
+Armées, direction ou service |
 
-Chef du service historique de la défense
+Autorités concernées |
 
-|
+Service industriel de l'aéronautique |
+
+Directeur du service industriel de l'aéronautique |
 
 NOTA :
 
