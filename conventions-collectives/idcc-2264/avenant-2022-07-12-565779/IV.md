@@ -1,0 +1,3 @@
+# Article IV
+
+Le présent avenant prendra effet le lendemain de sa signature. Il est conclu pour une durée déterminée venant à échéance lors de l'affectation des sommes aux organisations syndicales, telle que prévue à l'article II.
