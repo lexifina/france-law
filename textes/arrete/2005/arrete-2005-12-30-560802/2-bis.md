@@ -1,0 +1,5 @@
+# Article 2 bis
+
+Pour le corps d'encadrement et d'application, les préfets de zone de défense et de sécurité et, dans les départements d'outre-mer, les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police, ainsi que le représentant de l'Etat à Saint-Pierre-et-Miquelon et le haut-commissaire de la République en Nouvelle-Calédonie et en Polynésie française reçoivent délégation pour prendre les décisions concernant l'organisation des concours de recrutement, dans la limite des postes autorisés, ainsi que la nomination.
+
+Les lauréats des concours déconcentrés organisés par les secrétariats généraux pour l'administration du ministère de l'intérieur ou par les secrétariats généraux pour l'administration de la police qui se trouvent affectés dans le ressort territorial des secrétariats généraux pour l'administration du ministère de l'intérieur ou des secrétariats généraux pour l'administration de la police, à l'exception de ceux servant en administration centrale, sont nommés par les autorités mentionnées au premier alinéa du présent article.
