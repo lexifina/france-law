@@ -812,7 +812,7 @@ ESSAIS SUR BANC |
 
 ESSAIS SUR PISTE |
 
-Véhicules de catégorie M1 |
+Véhicules de catégorie M1 et M1G |
 
 Jusqu'au 31/12/11 |
 
@@ -826,7 +826,7 @@ A compter du 01/01/12 |
 
 5,8 m/s² |
 
-Véhicules de transport en commun de personnes (catégories M2 et M3, navettes urbaines et remorques O2 et O3 affectées au transport de personnes en milieu urbain) |
+Véhicules de transport en commun de personnes (catégories M2, M2G, M3 et M3 G, navettes urbaines et remorques O2 et O3 affectées au transport de personnes en milieu urbain) |
 
 Toutes dates |
 
@@ -838,7 +838,7 @@ Toutes dates |
 
 (4,8 m/s² pour les véhicules non munis d'ABR) |
 
-Véhicules à moteur de transport de marchandises (catégorie N1) |
+Véhicules à moteur de transport de marchandises (catégorie N1 et N1G) |
 
 Jusqu'au 30/09/89 |
 
@@ -852,7 +852,7 @@ A compter du 01/10/89 |
 
 5 m/s² |
 
-Véhicules à moteur de transport de marchandises (catégories N2 et N3) |
+Véhicules à moteur de transport de marchandises (catégories N2, N2G, N3 et N3 G) |
 
 Jusqu'au 30/09/89 |
 
@@ -930,7 +930,7 @@ ESSAIS SUR BANC |
 
 ESSAIS SUR PISTE |
 
-Véhicules de catégorie M1 |
+Véhicules de catégorie M1 et M1G |
 
 Jusqu'au 31/12/11 |
 
@@ -944,7 +944,7 @@ A compter du 01/01/12 |
 
 2,9 m/s² |
 
-Véhicules de transport en commun de personnes (catégories M2 et M3, navettes urbaines et remorques O2 et O3 affectées au transport de personnes en milieu urbain) |
+Véhicules de transport en commun de personnes (catégories M2, M2G, M3 et M3 G, navettes urbaines et remorques O2 et O3 affectées au transport de personnes en milieu urbain) |
 
 Toutes dates |
 
@@ -956,7 +956,7 @@ Toutes dates |
 
 (2,4 m/s² pour les véhicules non munis d'ABR) |
 
-Véhicules à moteur de transport de marchandises (catégorie N1) |
+Véhicules à moteur de transport de marchandises (catégorie N1 et N1G) |
 
 Jusqu'au 30/09/89 |
 
@@ -970,7 +970,7 @@ A compter du 01/10/89 |
 
 2,5 m/s² |
 
-Véhicules à moteur de transport de marchandises (catégories N2 et N3) |
+Véhicules à moteur de transport de marchandises (catégories N2, N2G, N3 et N3 G) |
 
 Jusqu'au 30/09/89 |
 
@@ -1126,4 +1126,4 @@ F. 4.13. Véhicules pour le transport de vitrages. "
 
 NOTA :
 
-Conformément à l’article 13 de l’arrêté du 10 mai 2022 (TRER2213952A), les présentes dispositions entrent en vigueur un mois après la publication de l'arrêté.
+Conformément à l’article 13 de l’arrêté du 10 mai 2022 (TRER2213952A), les présentes dispositions entrent en vigueur deux mois après la publication de l'arrêté.

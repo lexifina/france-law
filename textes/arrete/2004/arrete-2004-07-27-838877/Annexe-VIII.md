@@ -26,13 +26,13 @@ les semi-remorques spécialisées (SRSP),
 
 les remorques spécialisées (RESP), à l'exception des remorques ayant pour carrosserie REMURB,
 
-les véhicules de transport en commun de personnes (TCP, véhicules ayant pour carrosserie NAVURB et remorques ayant pour carrosserie REMURB),
+les véhicules de transport en commun de personnes (TCP, véhicules ayant pour carrosserie NAVURB ou NAVREMURB et remorques ayant pour carrosserie REMURB),
 
 les véhicules utilisés dans le transport de marchandises dangereuses et disposant d'un certificat d'agrément (tout genre et quel que soit le PTAC),
 
 les véhicules de catégorie N1 utilisés dans le transport en commun de personnes,
 
-les véhicules de catégorie M1 dont le PTAC est supérieur à 3,5 tonnes.
+les véhicules de catégorie M1 et M1G dont le PTAC est supérieur à 3,5 tonnes.
 
 B. catégories de véhicules soumis à réglementation spécifique
 
@@ -130,4 +130,4 @@ Date du contrôle technique périodique ou de la contre-visite |
 
 NOTA :
 
-Conformément à l’article 8 de l’arrêté du 19 juin 2020 (NOR : TRER2016056A), les présentes dispositions entrent en vigueur à compter du 27 août 2020.
+Conformément à l’article 13 de l’arrêté du 10 mai 2022 (TRER2213952A), les dispositions des articles 2, 3, 12, des 1° et 2° de l'article 5, des 1° à 4° de l'article 7 entrent en vigueur deux mois après la publication de l'arrêté.
