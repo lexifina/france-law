@@ -1,12 +1,10 @@
 # Article IV.6
 
-En préambule, il est rappelé que les salariés à temps partiel bénéficient d'une égalité de traitement dans les conditions prévues aux articles L. 3123-11 et suivants du code du travail.
+En préambule, il est rappelé que les salariés à temps partiel bénéficient d'une égalité de traitement dans les conditions prévues aux premier, quatrième et cinquième alinéas de l'article L. 3123-5 du code du travail.
 
 IV. 6.1. Définition et champ d'application
 
-Sont considérés comme travailleurs à temps partiel, les salariés dont la durée du travail hebdomadaire, mensuelle ou annuelle est inférieure à la durée légale prévue par le code du travail.
-
-Ne sont concernés par le présent article que les salariés dont le contrat de travail est, dès l'origine, conclu pour une durée supérieure à une semaine civile.
+Sont considérés comme travailleurs à temps partiel, les salariés dont la durée du travail hebdomadaire, mensuelle ou annuelle est inférieure à la durée légale du travail, conformément à l'article L. 3123-1 du code du travail.
 
 IV. 6.2. Mentions du contrat de travail à temps partiel
 
@@ -14,31 +12,31 @@ Le contrat de travail du salarié à temps partiel est un contrat écrit.
 
 Il mentionne :
 
-- la qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue et la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;
+– la qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue et la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;
 
-- les cas dans lesquels une modification éventuelle de cette répartition peut intervenir ainsi que la nature de cette modification ;
+– les cas dans lesquels une modification éventuelle de cette répartition peut intervenir ainsi que la nature de cette modification ;
 
-- les modalités selon lesquelles les horaires de travail pour chaque journée travaillée sont communiqués par écrit au salarié ;
+– les modalités selon lesquelles les horaires de travail pour chaque journée travaillée sont communiqués par écrit au salarié ;
 
-- les limites dans lesquelles peuvent être accomplies des heures complémentaires au-delà de la durée de travail fixée par le contrat.
+– les limites dans lesquelles peuvent être accomplies des heures complémentaires au-delà de la durée de travail fixée par le contrat.
 
 IV. 6.3. Durée de travail minimale
 
-(2)
+En application des articles L. 3123-7, L. 3123-19 et L. 3123-27 du code du travail, la durée du travail du salarié à temps partiel ne peut être inférieure à une durée minimale de 24 heures hebdomadaires. Toutefois cette durée peut être réduite dans trois hypothèses :
 
-En application de l'article L. 3123-14-1 du code du travail, la durée du travail du salarié à temps partiel ne peut être inférieure à une durée minimale de 24 heures hebdomadaires. Toutefois cette durée peut être réduite dans trois hypothèses :
+1° Conformément au sixième alinéa de l'article L. 3123-7 code du travail, une durée du travail inférieure peut être fixée à la demande du salarié soit pour lui permettre de faire face à des contraintes personnelles, soit pour lui permettre de cumuler plusieurs activités afin d'atteindre une durée globale d'activité correspondant à un temps plein ou au moins égale à la durée précitée. Cette demande est écrite et motivée.
 
-1° Conformément à l'article L. 3123-14-2 du code du travail, une durée du travail inférieure peut être fixée à la demande du salarié soit pour lui permettre de faire face à des contraintes personnelles, soit pour lui permettre de cumuler plusieurs activités afin d'atteindre une durée globale d'activité correspondant à un temps plein ou au moins égale à la durée précitée. Cette demande est écrite et motivée ;
-
-2° De même, conformément à l'article L. 3123-14-5 du même code, une durée de travail inférieure, compatible avec ses études, est fixée de droit au salarié âgé de moins de vingt-six ans poursuivant ses études.
+2° De même, conformément au septième alinéa de l'article L. 3123-7 du même code, une durée de travail inférieure, compatible avec ses études, est fixée de droit au salarié âgé de moins de vingt-six ans poursuivant ses études.
 
 Par ailleurs, à compter du 31 janvier 2015, sont également exclus de la durée minimale de 24 heures :
 
-- les contrats de travail d'une durée au plus égale à 7 jours (art. L 3123-14-1) ;
+– les contrats de travail d'une durée au plus égale à 7 jours (art. L. 3123-7, al. 3) ;
 
-- les CDD et les contrats de travail temporaire, lorsqu'ils sont conclus pour remplacement (art. L. 3123-14-6).
+– les CDD et les contrats de travail temporaire, lorsqu'ils sont conclus pour remplacement (art. L. 3123-7, al. 4 et 5)
 
-3° Enfin, conformément à l'article L. 3123-14-4 du même code, une durée de travail inférieure peut être fixée par l'employeur, compte tenu de ses besoins en personnel, sans qu'il soit possible d'aller en deçà de 8 heures par semaine. Les besoins peuvent être multiples : recrutement d'un poste supplémentaire en cas de surcroît temporaire d'activité ne nécessitant pas pour autant l'emploi d'un temps plein, accomplissement d'une tâche régulière mais de faible amplitude (ex : agent d'entretien), etc. Les parties reconnaissent la nécessité d'instaurer une durée de travail inférieure à 24 heures pour ces situations, afin de limiter le recours à la prestation de service ou à l'intérim. Cette durée de travail inférieure à 24 heures concerne notamment les agents d'entretien ou de gardiennage ou le personnel en charge de la paye/ comptabilité.
+(1).
+
+3° Enfin, conformément à l'article L. 3123-19 du même code, une durée de travail inférieure peut être fixée par l'employeur, compte tenu de ses besoins en personnel, sans qu'il soit possible d'aller en-deçà de 8 heures par semaine. Les besoins peuvent être multiples : recrutement d'un poste supplémentaire en cas de surcroît temporaire d'activité ne nécessitant pas pour autant l'emploi d'un temps plein, accomplissement d'une tâche régulière mais de faible amplitude (ex : agent d'entretien), etc. Les parties reconnaissent la nécessité d'instaurer une durée de travail inférieure à 24 heures pour ces situations, afin de limiter le recours à la prestation de service ou à l'intérim. Cette durée de travail inférieure à 24 heures concerne notamment les agents d'entretien ou de gardiennage ou le personnel en charge de la paye/ comptabilité.
 
 Dans ces situations, les horaires de travail doivent être réguliers ou être fixés de telle sorte qu'ils permettent au salarié de cumuler plusieurs activités afin d'atteindre une durée globale d'activité correspondant à un temps plein ou au moins égale à la durée précitée de 24 heures.
 
@@ -48,15 +46,13 @@ Par ailleurs, la durée du travail à temps partiel devra être répartie, sur d
 
 IV. 6.4. Régime des heures complémentaires
 
-(3)
-
 Des heures complémentaires peuvent être effectuées dans la limite d'un tiers de la durée hebdomadaire ou mensuelle de travail prévue au contrat, sans avoir pour effet de porter la durée hebdomadaire effective du travail au niveau de la durée légale ou conventionnelle du travail.
 
 Les heures complémentaires sont rémunérées au taux majoré de :
 
-- 10 % pour les heures accomplies jusqu'au 10e de la durée hebdomadaire ou mensuelle prévue au contrat ;
+-10 % pour les heures accomplies jusqu'au 10e de la durée hebdomadaire ou mensuelle prévue au contrat ;
 
-- 25 % pour les heures effectuées au-delà de cette durée.
+-25 % pour les heures effectuées au-delà de cette durée.
 
 L'accomplissement d'heures complémentaires est subordonné au respect d'un délai de prévenance de 3 jours calendaires. Lorsque ce délai n'est pas respecté, le refus du salarié d'accomplir des heures complémentaires ne constitue ni une faute ni un motif de licenciement.
 
@@ -66,9 +62,7 @@ Cette modification est constatée par un avenant au contrat de travail. Toutefoi
 
 IV. 6.5. Complément temporaire d'heures par avenant
 
-(4)
-
-Des avenants au contrat de travail peuvent être conclus, conformément à l'article L. 3123-25 du code du travail, aux fins d'effectuer des compléments d'heures, augmentant temporairement la durée du travail prévue au contrat.
+Des avenants au contrat de travail peuvent être conclus, conformément à l'article L. 3123-22 du code du travail, aux fins d'effectuer des compléments d'heures, augmentant temporairement la durée du travail prévue au contrat.
 
 Un nombre maximal de 8 avenants par an et par salarié peut être utilisé, en dehors des cas de remplacement d'un salarié absent nommément désigné. L'avenant précisera la durée pendant laquelle il s'applique et le nombre d'heures concernées ainsi que, le cas échéant, la nouvelle répartition des heures entre les jours de la semaine ou la nouvelle répartition des semaines dans le mois. Chaque avenant s'applique pour la durée qu'il prévoit et s'arrête automatiquement au terme prévu. La durée du travail initialement convenue redevient alors applicable.
 
@@ -88,20 +82,20 @@ Si la demande du salarié ne peut pas être satisfaite sur son poste ou un poste
 
 IV. 6.7. Information des instances représentatives du personnel
 
-L'employeur communique au moins une fois par an au comité d'entreprise ou, à défaut, aux délégués du personnel, ainsi qu'aux délégués syndicaux, un bilan du travail à temps partiel réalisé dans l'entreprise.
+L'employeur communique au moins une fois par an au comité social et économique, s'il existe, ainsi qu'aux délégués syndicaux, un bilan du travail à temps partiel réalisé dans l'entreprise.
 
-(1) L'article IV. 6 est étendu sous réserve que les articles L. 3123-11 et suivants auxquels il fait référence soient entendus comme étant les premier, quatrième et cinquième alinéas de l'article L. 3123-5 du code du travail.
+IV. 6.8. Égalité de traitement
 
-(Arrêté du 27 juillet 2018 - art. 1)
+Compte tenu de la durée de son travail et de son ancienneté dans l'entreprise, la rémunération du salarié à temps partiel est proportionnelle à celle du salarié à temps complet qui, à qualification égale, occupe un emploi équivalent dans l'entreprise.
 
-(2) L'article IV. 6.3 est étendu sous réserve que l'article L. 3123-14-1 auquel il fait référence soit entendu, pour sa première occurrence, comme une référence aux articles L. 3123-7, L. 3123-19 et L. 3123-27 du code du travail et, pour sa deuxième occurrence, comme une référence au troisième alinéa de l'article L. 3123-7 du même code ; et que les articles L. 3123-14-2, L. 3123-14-4, L. 3123-14-5 et L. 3123-14-6 auxquels il fait également référence soient entendus comme étant, respectivement, le sixième alinéa de l'article L. 3123-7, l'article L. 3123-19, le septième alinéa de l'article L. 3123-7 et les quatrième et cinquième alinéas de l'article L. 3123-7 du code du travail.
+Les salariés à temps partiel bénéficient des mêmes droits que ceux reconnus à temps complet, notamment en ce qui concerne l'accès aux possibilités de promotion, de carrière et de formation.
 
-(Arrêté du 27 juillet 2018 - art. 1)
+IV. 6.9. Répartition de la durée du travail au cours de la journée
 
-(3) L'article IV. 6.4 est étendu sous réserve qu'un accord, conclu au niveau de l'entreprise ou de l'établissement, définisse l'ensemble des garanties prévues à l'article L. 3123-25 du code du travail.
+La durée minimale de travail continue au cours de la journée est fixée à deux heures.
 
-(Arrêté du 27 juillet 2018 - art. 1)
+L'horaire de travail du salarié à temps partiel ne peut comporter, au cours d'une même journée, plus d'une interruption d'activité ou une interruption supérieure à deux heures
 
-(4) L'article IV.6.5 de l'article IV est étendu sous réserve que l'article L. 3123-25 auquel il fait référence soit entendu comme étant l'article L. 3123-22 du code du travail.
+(1) L'alinéa 6 de l'article IV. 6.3. est étendu sous réserve du respect des dispositions du 3° de l'article L. 3123-7 du code du travail relatif au remplacement d'un salarié absent.
 
-(Arrêté du 27 juillet 2018 - art. 1)
+(Arrêté du 16 juillet 2025 - art. 1)
