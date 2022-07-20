@@ -1,0 +1,3 @@
+# Article 1er
+
+L'alinéa 1er de l'article 3 « Date de début et durée d'application du dispositif d'activité partielle de longue durée » de l'accord de branche APLD du 10 février 2022 est abrogé et remplacé par l'alinéa 1er rédigé de la manière suivante : « Le dispositif d'activité partielle en cas de réduction d'activité durable prévu par le présent accord est mis en œuvre dans la branche à compter du premier jour suivant la date de publication de l'arrêté d'extension du présent accord au Journal officiel et s'applique aux documents unilatéraux élaborés par les entreprises de la branche pris en application du présent accord et transmis à l'autorité administrative, pour homologation au 31 décembre 2022 au plus tard. »
