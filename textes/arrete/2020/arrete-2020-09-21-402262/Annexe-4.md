@@ -140,7 +140,7 @@ BC 4 Participer à l'élaboration et à la mise en œuvre du projet personnalis�
 
 Étude de cas écrite en lien avec le terrain de stage
 
-Notée par le jury nommé par la DGCS
+Notée par la commission de jury de l'établissement de formation
 
 Soutenance
 
