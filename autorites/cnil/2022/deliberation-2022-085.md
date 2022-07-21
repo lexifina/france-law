@@ -1,0 +1,88 @@
+# Délibération n° 2022-085 du 21 juillet 2022 portant avis sur un projet d'arrêté autorisant la mise en œuvre d'un traitement automatisé de données à caractère personnel relatif à la gestion des enquêtes administratives de sécurité dénommé « SOPHIA »
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2022-085
+- Date : 2022-07-21
+- Publication : 2022-10-29
+- NOR : CNIX2229630X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000046501387
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie par le ministère des armées d'une demande d'avis concernant un projet d'arrêté autorisant la mise en œuvre d'un traitement automatisé de données à caractère personnel relatif à la gestion des enquêtes administratives de sécurité dénommé SOPHIA ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, notamment son article 31
+
+Après avoir entendu le rapport de Mme Isabelle LATOURNARIE-WILLEMS, commissaire, et les observations de M. Benjamin TOUZANNE, commissaire du Gouvernement,
+
+Emet l'avis suivant :
+
+La direction du renseignement et de la sécurité de la défense (DRSD) constitue le service de renseignement dont dispose le ministère de la défense pour assumer ses responsabilités en matière de sécurité du personnel, des informations, du matériel et des installations sensibles ; elle est notamment chargée de réaliser des enquêtes administratives (article D. 3126-5 du code de la défense).
+
+En tant que service enquêteur, la DRSD est ainsi chargée de réaliser un certain nombre d'enquêtes administratives encadrées par les codes de la sécurité intérieure et de la défense. Afin de faciliter leur réalisation, le fichier SOPHIA permet de transmettre et suivre les dossiers relatifs aux enquêtes dont la DRSD a la charge. Actuellement encadré par un arrêté du 30 avril 2014, ce traitement ne bénéficie pas des dérogations concernant les fichiers intéressant la sûreté de l'Etat et la défense : l'acte qui l'encadre est publié, l'ensemble des informations relatives à ses conditions de mise en œuvre ont été transmises à la Commission et il est soumis à son contrôle a posteriori.
+
+A sa création en 2014, le fichier SOPHIA poursuivait deux finalités. L'une visait la gestion des procédures d'habilitation et de contrôle élémentaire menées dans le cadre de la protection du secret de la défense nationale. L'autre concernait la gestion des demandes de permission des militaires à l'étranger dans le cadre de la protection du personnel de la défense.
+
+Le projet d'arrêté soumis à l'avis de la Commission vise notamment à étendre ce champ à la gestion des enquêtes administratives sur les personnes accédant à des traitements de données comportant la mention de la qualité de militaire. Cette modification tient compte des évolutions du code de la défense, qui prévoit la compétence de la DRSD pour réaliser une enquête concernant ces personnes.
+
+Le projet d'arrêté prévoit en outre que le traitement SOPHIA est mis en relation avec la Base interministérielle PPST . Ce dernier traitement a pour finalité de comparer des données et de vérifier si une personne demandant l'accès à une zone à régime restrictif a déjà présenté une ou plusieurs demandes auprès d'autres ministères, et de permettre aux services instructeurs de connaître les suites qui y ont été données. Dans son avis n° 2021-059 du 20 mai 2021 sur la création de la base interministérielle, la Commission a considéré que cette mise en relation était justifiée au regard des finalités poursuivies par ces traitements.
+
+De manière générale, la Commission relève que les évolutions projetées du traitement SOPHIA sont cohérentes avec celles des missions de la DRSD et ont principalement pour but de tenir compte des évolutions affectant l'encadrement des enquêtes administratives comme les missions de la DRSD depuis la création de SOPHIA. Dans leur ensemble, les conditions de mise en œuvre du fichier prévues par le projet d'arrêté sont satisfaisantes. Néanmoins, la Commission formule des observations sur les points suivants.
+
+Sur les finalités et le régime juridique applicable au traitement :
+
+Le fichier SOPHIA constitue un outil de dématérialisation de l'ensemble des procédures évoquées ci-dessus, qui permet de gérer les flux (dépôt des demandes, des avis et leur transmission), en vue de la réalisation d'enquêtes administratives. Ces enquêtes sont ensuite réalisées au moyen d'un autre traitement.
+
+Compte tenu des caractéristiques du traitement ainsi que des finalités qu'il poursuit, la Commission estime qu'il est mis en œuvre pour le compte de l'Etat et intéresse la sûreté de l'Etat et la défense.
+
+Sur les catégories de données traitées :
+
+A titre liminaire, la Commission relève que seront notamment collectées, soit des données relatives à l'identité du conjoint du candidat à une habilitation sur le fondement du 2 du B du 1 du I de l'annexe, soit, au titre des personnes vivant sous le même toit que le candidat (3 du B du 1 du I de l'annexe du projet), des données relatives à son concubin ou son partenaire de PACS. Dans ce cadre sera notamment enregistré le sexe de cette personne.
+
+Quoiqu'il soit possible d'en inférer une information concernant la vie sexuelle ou l'orientation sexuelle, la Commission rappelle que ces données ne constituent pas en elles-mêmes des données sensibles au sens de l'article 6 de la loi du 6 janvier 1978. Elle appelle cependant le ministère à s'interroger sur la nécessité de collecter cette donnée, en plus des autres éléments d'identification du conjoint dont il disposera déjà dans le fichier. Si son traitement s'avère indispensable, la Commission souligne que, l'arrêté n'autorisant pas le traitement de données sensibles, des opérations de traitement automatisé de ces données pour en déduire l'orientation sexuelle d'une personne et utiliser cette information seront prohibées.
+
+Cette observation générale formulée, la Commission énonce les remarques suivantes.
+
+Les données à caractère personnel et informations enregistrées dans le traitement SOPHIA figurent en annexe du projet d'arrêté. La Commission estime que la collecte de la plupart de ces données est nécessaire au regard des finalités du traitement et que les catégories visées correspondent aux informations sollicitées dans le cadre des demandes (formulaires d'habilitation, par exemple).
+
+La Commission souligne que l'avis de sécurité produit par la DRSD à l'issue de l'enquête ainsi que ses motifs ne figureront en aucun cas au sein du fichier SOPHIA. Le traitement ne comportera aucune donnée issue de la consultation d'autres fichiers. La Commission estime que cela constitue une garantie au regard des finalités du fichier, qui ont une dimension principalement administrative.
+
+Sur les données d'identification numériques :
+
+Le projet d'arrêté prévoit que pour certaines enquêtes administratives, des données d'identification numériques à l'exclusion du mot de passe peuvent être collectées. Le ministère a indiqué que cela recouvre l'ensemble des identifiants, adresses mail et noms utilisées sur les réseaux sociaux et forums par les personnes concernées .
+
+La Commission estime que la rédaction actuelle ne permet pas de comprendre précisément quel est le périmètre de ces réseaux et forums. Elle considère que l'imprécision de cette notion est susceptible de conduire à une collecte excessive de données à caractère personnel, dont certaines d'entre elles pourraient être des données sensibles au sens de la loi du 6 janvier 1978 susvisée. Elle demande que le texte mentionne expressément les réseaux sociaux sur lesquels ne pourront être collectées que les données nécessaires à la finalité du traitement.
+
+Sur la collecte de photographies :
+
+La photographie ne pourra faire l'objet d'un enregistrement au sein du fichier SOPHIA, au titre des données d'identification, que dans le cadre des enquêtes administratives relatives à l'habilitation. Le ministère a précisé que cette donnée est collectée en raison de la sensibilité de ce type d'enquête, afin de permettre de s'assurer de l'identité du demandeur.
+
+La Commission prend acte de ce qu'aucun dispositif de reconnaissance faciale ne sera mis en œuvre au sein du fichier SOPHIA.
+
+Sur la durée de conservation des données :
+
+L'article 3 du projet d'arrêté précise les durées de conservation des données au regard de la finalité pour laquelle elles sont traitées. Ces durées sont également adaptées en fonction de l'issue de l'enquête administrative et de la décision prise par le service demandeur de l'enquête administrative.
+
+La Commission relève que pour la majorité des procédures, les données sont supprimées à l'issue de celle-ci, à l'exception des données d'identification, de l'emploi occupé, du sens de l'avis de sécurité et du sens de la décision. S'agissant des procédures relatives aux permissions de militaires à l'étranger et aux personnes qui accèdent à des traitements comportant la mention de la qualité de militaire, les données sont conservées jusqu'au terme d'un délai d'un an après la date de fin du déplacement.
+
+Si la Commission considère que les durées de conservation fixées par le projet ne sont pas excessives, elle estime néanmoins que le texte pourrait être précisé en ce qui concerne l'hypothèse d'une décision de refus (d'habilitation, de recrutement, d'affectation sur certains emplois, d'accès à des lieux protégés).
+
+Le ministère a précisé que dans ce cas, l'enregistrement de la décision de refus provoque la suppression de toutes les données. Dans sa rédaction actuelle, le projet ne distingue cependant pas les durées de conservation en fonction du sens de la décision (au a du 1° de l'article 3). La Commission prend acte de l'engagement du ministère de clarifier le projet sur ce point.
+
+Enfin, le ministère s'est engagé à modifier le b du 1° de l'article 3 de l'arrêté relatif à la durée de conservation des données dans l'hypothèse d'une absence de notification de la décision à la DRSD, pour prévoir que les données seront conservées jusqu'à la fin de validité de l'avis de sécurité (et non au terme d'un délai d'un an suivant la fin de validité de cet avis). La Commission accueille favorablement cette évolution.
+
+Sur les droits des personnes concernées :
+
+L'article 9 du projet prévoit que les droits d'accès, de rectification et d'effacement prévus à l'article 119 de la loi du 6 janvier 1978 s'exercent directement auprès de la DRSD. La Commission relève que cela concerne aussi bien les personnes qui font l'objet de l'enquête administrative, que celles qui ne sont pas directement concernées par celle-ci (famille ou entourage de la personne) mais dont les données peuvent néanmoins être collectées.
+
+L'article 7 du projet précise que le droit d'information ne s'applique pas pour les personnes qui ne font pas directement l'objet des procédures. Le ministère considère que la personne concernée au sens de l'article 116 de la loi du 6 janvier 1978 est uniquement celle qui fait l'objet de l'enquête administrative ; l'entourage de cette personne est donc exclu de ce droit.
+
+Le III de l'article 116 de la loi précitée dispose que le droit d'information ne s'applique pas lorsque les données n'ont pas été recueillies auprès de la personne concernée et dans la mesure où une telle limitation est nécessaire au respect des fins poursuivies par le traitement. La Commission considère qu'en l'espèce, ces critères sont réunis.
+
+Au regard de ces éléments, la Commission considère que seules ces dispositions permettent d'exclure le droit à l'information de cette catégorie de personnes. Elle estime en effet que l'application de ce droit ne saurait être exclue au seul motif que les personnes de l'entourage du demandeur de l'habilitation ne sont pas considérées comme concernées au sens de la réglementation en matière de protection des données. La Commission rappelle que dès lors que des informations se rapportant à une personne physique identifiée ou identifiable sont traitées, celle-ci est considérée comme personne concernée. Le ministère s'est engagé à modifier l'article 7 de l'acte réglementaire pour préciser que ce droit ne s'applique pas, conformément au III de l'article 116 précité.
+
+La présidente,
+
+M.-L. Denis
