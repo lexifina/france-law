@@ -50,8 +50,6 @@ Poxviridae :
 
 - virus de la variole ;
 
-- virus de l'orthopoxvirose simienne.
-
 Coronaviridae :
 
 - coronavirus responsable du syndrome respiratoire aigu sévère (SARS-CoV) ;
