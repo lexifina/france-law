@@ -20,9 +20,11 @@ responsabilité
 
 (EFR) |
 
-Nombre d'emplois de
+Nombre d'emplois
 
-conseiller d'administration
+de conseiller
+
+d'administration
 
 de l'intérieur et
 
@@ -244,7 +246,7 @@ Chef du bureau des marchés SIC et conseil au sein de la sous-direction de l'ach
 
 1 |
 
-Chef du bureau logistique de la mobilité au sein de la sous-direction de la logistique et de l'approvisionnement du service de l'achat, de l'innovation et de la logistique |
+Chef du bureau de la synthèse budgétaire des opérateurs au sein de la sous-direction de la synthèse et du pilotage budgétaire |
 
 30 |
 
@@ -440,7 +442,7 @@ Chef du bureau des personnels administratifs, techniques et scientifiques au sei
 
 1 |
 
-Chef du bureau des adjoints de sécurité au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
+Adjoint au directeur de projet-travaux préparatoire à la création de la nouvelle direction des ressources humaines et du soutien de la police nationale |
 
 50 |
 
@@ -455,8 +457,6 @@ Chef du département des réserves opérationnelles de la police nationale au se
 - |
 
 1 |
-
-|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -506,7 +506,7 @@ Chef de la division de l'organisation des concours et des dispositifs promotionn
 
 1 |
 
-Chef du bureau de l'analyse, de la synthèse et de l'animation de la performance |
+Chef de bureau de l'analyse, de la synthèse et de l'animation de la performance au sein de la sous-direction des finances et du pilotage de la direction des ressources et des compétences de la police nationale |
 
 30 |
 
@@ -530,7 +530,7 @@ Chef de la division de la formation aux fonctions administratives, techniques et
 
 1 |
 
-Chef du bureau des politiques ministérielles de l'enfance et du logement à la sous-direction de l'action sociale et de l'accompagnement du personnel |
+Chef du bureau des politiques ministérielles de l'enfance et du logement au sein de la sous-direction de la prévention, de l'accompagnement et du soutien de la direction des ressources et des compétences de la police nationale |
 
 30 |
 
@@ -562,7 +562,7 @@ Chef de la division de la logistique au sein de la sous-direction de la lutte co
 
 1 |
 
-Chef du bureau de la modernisation et de valorisation des ressources humaines à la direction des ressources et des compétences de la police nationale. |
+Chef du bureau de la modernisation et de la valorisation des ressources humaines au sein de la sous-direction de l'administration des ressources humaines de la direction et des compétences de la police nationale |
 
 50 |
 
@@ -570,7 +570,7 @@ Chef du bureau de la modernisation et de valorisation des ressources humaines à
 
 1 |
 
-Adjoint au chef de projet " pilotage des emplois de la police nationale " |
+Adjoint au chef de projet pilotage des emplois de la police nationale |
 
 0 |
 
@@ -588,7 +588,7 @@ Un poste |
 
 1 |
 
-Un poste. |
+Un poste |
 
 50 |
 
@@ -816,7 +816,7 @@ Chef du bureau de la législation et de la réglementation à la sous-direction 
 
 1 |
 
-Adjoint au chef du département de contrôle automatisé. |
+Chef du bureau de l'exécution financière et de la commande publique |
 
 30 |
 
@@ -840,13 +840,29 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre
+
+d'emplois
+
+à forte
+
+responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1012,13 +1028,29 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre
+
+d'emplois
+
+à forte
+
+responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1102,6 +1134,22 @@ Chef du service du pilotage et de la prospective au sein de la sous-direction de
 
 1 |
 
+Chef du service de recrutement |
+
+50 |
+
+1 |
+
+- |
+
+Adjoint au chef du service de recrutement |
+
+|
+
+- |
+
+1 |
+
 Chef du bureau de la gestion des carrières des gradés, gardiens et adjoints de sécurité au sein de la sous-direction des personnels. |
 
 50 |
@@ -1146,7 +1194,7 @@ Chef du bureau de la programmation et de l'exécution |
 
 Délégation de l'immigration |
 
-Chef du 1er bureau au sein de la sous-direction du séjour et de l'accès à la nationalité. |
+Chef du pôle de l'accès à la nationalité |
 
 60 |
 
@@ -1154,7 +1202,7 @@ Chef du 1er bureau au sein de la sous-direction du séjour et de l'accès à la 
 
 1 |
 
-Chef du 7e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité. |
+Chef du pôle de la relation et du service à l'usager |
 
 50 |
 
@@ -1162,7 +1210,7 @@ Chef du 7e bureau au sein de la sous-direction du séjour et de l'accès à la n
 
 1 |
 
-Chef du 8e bureau au sein du département zonal de l'asile et de l'éloignement. |
+Chef du bureau de la lutte contre l'immigration irrégulière |
 
 60 |
 
@@ -1170,15 +1218,7 @@ Chef du 8e bureau au sein du département zonal de l'asile et de l'éloignement.
 
 1 |
 
-Chef du 6e bureau au sein de la sous-direction de du séjour et de l'accès à la nationalité |
-
-50 |
-
-|
-
-1 |
-
-Chef du 9e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité. |
+Chef du pôle de l'instruction des demandes de titres de séjour |
 
 50 |
 
@@ -1186,7 +1226,7 @@ Chef du 9e bureau au sein de la sous-direction du séjour et de l'accès à la n
 
 1 |
 
-Chef du 10e bureau au sein de la sous-direction du séjour et de l'accès à la nationalité |
+Chef de la cellule d'appui et de la coordination zonale |
 
 0 |
 
@@ -1202,7 +1242,7 @@ Chef du département des ressources, de la modernisation et du soutien juridique
 
 - |
 
-Chef du 12e bureau au sein du département zonal de l'asile et de l'éloignement. |
+Chef du bureau de l'accueil de la demande d'asile |
 
 60 |
 
@@ -1320,13 +1360,29 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre
+
+d'emplois
+
+à forte
+
+responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1566,13 +1622,29 @@ Directions et services |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre
+
+d'emplois
+
+à forte
+
+responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1642,13 +1714,29 @@ Juridiction administrative |
 
 Fonctions |
 
-Points de NBI |
+Points
 
-Nombre d'emplois à forte responsabilité
+de NBI |
+
+Nombre
+
+d'emplois
+
+à forte
+
+responsabilité
 
 (EFR) |
 
-Nombre d'emplois de conseiller d'administration de l'intérieur et de l'outre-mer
+Nombre d'emplois
+
+de conseiller
+
+d'administration
+
+de l'intérieur
+
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -1836,9 +1924,13 @@ Greffier en chef |
 
 Localisation des emplois |
 
-Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
+Nombre d'EFR ouvrant droit
 
-Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
+à la NBI par taux de NBI |
+
+Nombre de postes de CAIOM ouvrant droit
+
+à la NBI par taux de NBI |
 
 |
 
@@ -1852,11 +1944,11 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du nombre
+Total
 
-d'emplois
+du nombre
 
-de CAIOM |
+d'emplois de CAIOM |
 
 60 points |
 
@@ -2576,13 +2668,13 @@ Sans point de NBI |
 
 - |
 
-5 |
+4 |
 
 - |
 
 1 |
 
-4 |
+3 |
 
 - |
 
@@ -4392,9 +4484,13 @@ Sans point de NBI |
 
 Localisation des emplois |
 
-Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
+Nombre d'EFR ouvrant droit
 
-Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
+à la NBI par taux de NBI |
+
+Nombre de postes de CAIOM ouvrant droit
+
+à la NBI par taux de NBI |
 
 Total du nombre d'EFR |
 
@@ -4406,13 +4502,11 @@ Total du nombre d'EFR |
 
 20 points |
 
-Total du
+Total
 
-nombre
+du nombre
 
-d'emplois
-
-de CAIOM |
+d'emplois de CAIOM |
 
 60 points |
 
@@ -4904,6 +4998,30 @@ Sans point de NBI |
 
 - |
 
+29 Finistère |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
 30 Gard |
 
 1 |
@@ -5122,27 +5240,27 @@ Sans point de NBI |
 
 41 Loir-et-Cher |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
-
-1 |
-
-|
+- |
 
 1 |
 
-|
+- |
 
-|
+- |
 
-|
+- |
+
+1 |
+
+- |
 
 42 Loire |
 
