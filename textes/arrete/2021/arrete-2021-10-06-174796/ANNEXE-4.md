@@ -16,9 +16,11 @@ reçues durant
 
 le trimestre considéré |
 
-PUISSANCE CRÊTE
+PUISSANCE CRÊTE P + Q
 
-de l'installation (kWc) |
+à laquelle est soumise l'installation (kWc)
+
+|
 
 NOMBRE
 
@@ -143,3 +145,7 @@ Supérieure à 100 kWc et inférieure ou égale à 500 kWc |
 |
 
 |
+
+NOTA :
+
+Se reporter aux modalités d'application prévues par l'article 3 de l'arrêté du 28 juillet 2022 (NOR : ENER2221742A).

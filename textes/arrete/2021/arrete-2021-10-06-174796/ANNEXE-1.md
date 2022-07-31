@@ -44,6 +44,8 @@ Formule dans laquelle :
 
 PDCR est la puissance crête cumulée des installations souhaitant bénéficier du tarif Ta ou de la prime Pa pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre civil i.
 
+Par dérogation, les coefficients S1, S2, S3, S'1, S'2, S'3 et S'4 sont égaux à 0.
+
 3. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Vi et un coefficient V'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations de puissance strictement supérieure à 9 kWc et inférieure ou égale à 100 kWc effectuées sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
 
 Puissance crête cumulée des installations souhaitant bénéficier du tarif Tb ou de la prime Pb pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre civil i pour i supérieur ou égal à 1 |
@@ -83,6 +85,8 @@ Inférieure ou égale à 68 MWc |
 Formule dans laquelle :
 
 PDCR est la puissance crête cumulée des installations souhaitant bénéficier du tarif Tb ou de la prime Pb pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre civil i.
+
+Par dérogation, les coefficients V1, V2, V3, V'1, V'2, V'3 et V'4 sont égaux à 0.
 
 4. Pour chaque trimestre civil, représenté par l'indice i, il est défini un coefficient Wi et un coefficient W'i en fonction de la somme des puissances crête des demandes complètes de raccordement pour des installations de puissance strictement supérieure à 100 kWc et inférieure ou égale à 500 kWc effectuées sur l'ensemble du territoire métropolitain durant le trimestre civil, selon les dispositions suivantes :
 
@@ -126,141 +130,147 @@ Formule dans laquelle :
 
 PDCR est la puissance crête cumulée des installations souhaitant bénéficier du tarif Tc pour lesquelles une demande complète de raccordement a été effectuée durant le trimestre i.
 
+Par dérogation, les coefficients W2, W3 et W'3 et W'4 sont égaux à 0.
+
 5. Pour chaque installation, il est défini une puissance Q, exprimée en kWc et définie comme la puissance installée de l'ensemble des autres installations raccordées ou en projet sur le même site d'implantation que l'installation objet du contrat d'achat, et dont les demandes complètes de raccordement au réseau public de distribution ont été déposées dans les 18 mois avant ou après la date de demande complète de raccordement au réseau public de distribution de l'installation objet du contrat d'achat,
 
-La notion de même site est évaluée au regard des définitions de l'article 2 et des dispositions de l'annexe 3 du présent arrêté.
+La notion de " même site " est évaluée au regard des définitions de l'article 2 et des dispositions de l'annexe 3 du présent arrêté.
 
-6. Pour une installation de vente avec injection en totalité éligible au tarif Ta au sens de l'article 8 du présent arrêté, le tarif d'achat, exprimé en c€/kWh, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est défini par la formule suivante :
+6. Pour une installation de vente avec injection en totalité éligible au tarif Ta au sens de l'article 8 du présent arrêté, le tarif d'achat, exprimé en c €/ kWh, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est défini par la formule suivante :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-Pour une installation de vente avec injection du surplus éligible à la prime Pa au sens de l'article 8 du présent arrêté, la prime à l'investissement, exprimée en €/Wc, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est définie par la formule suivante :
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Pour une installation de vente avec injection du surplus éligible à la prime Pa au sens de l'article 8 du présent arrêté, la prime à l'investissement, exprimée en €/ Wc, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est définie par la formule suivante :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
+
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
 formules dans lesquelles :
 
-Les coefficients E et F sont définis en fonction de la puissance crête de l'installation, notée P et exprimée en kWc, et de la puissance Q définie au quatrième alinéa, de la façon suivante :
+Les coefficients E et F sont définis en fonction de la puissance crête de l'installation, notée P et exprimée en kWc, et de la puissance Q définie au 5 de la présente annexe, de la façon suivante :
 
-- si P + Q est supérieure à 9 kWc, alors E = 0 et F = 0 ;
+-si P + Q est supérieure à 9 kWc, alors E = 0 et F = 0 ;
 
-- si P + Q est supérieure à 3 kWc et inférieure ou égal à 9 kWc, alors E = 0,85 et F = 0,75 ;
+-si P + Q est supérieure à 3 kWc et inférieure ou égal à 9 kWc, alors E = 0,85 et F = 0,75 ;
 
-- si P + Q est inférieure ou égal à 3 kWc, alors E = 1 et F = 1.
+-si P + Q est inférieure ou égal à 3 kWc, alors E = 1 et F = 1.
 
-Le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice N = 0, le suivant correspond à l'indice N = 1 et ainsi de suite ;
-
-Le symbole
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
-
-est égal à 1 lorsque N vaut 0 ou 1 et est égal à 1 - S1 lorsque N est supérieur ou égal à 2 ;
+Le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice N = 0, le suivant correspond à l'indice N = 1 et ainsi de suite ; le trimestre précédent le trimestre N = 0 correspond à l'indice N =-1.
 
 Le symbole
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-est égal à 1 lorsque N vaut 0, 1 ou 2, et est égal au produit des coefficients (1 - Si) décrits au 2 de la présente annexe pour i variant de 1 à N - 2 lorsque N est supérieur ou égal à 3 ;
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
+
+est égal à 1 lorsque N est inférieur ou égal 5, et est égal au produit des coefficients (1-Si) décrits au 2 de la présente annexe pour i variant de 4 à N-2 lorsque N est supérieur ou égal à 6 ;
 
 Le symbole
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-est égal à 1 lorsque N vaut 0 ou 1, et est égal au produit des coefficients (1 - S'i) décrits au 2 de la présente annexe pour i variant de 1 à N - 1 lorsque N est supérieur ou égal à 2 ;
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
+
+est égal à 1 lorsque N est inférieur ou égal 5, et est égal au produit des coefficients (1-S'i) décrits au 2 de la présente annexe pour i variant de 5 à N-1 lorsque N est supérieur ou égal à 6 ;
 
 Le paramètre KN est un coefficient d'indexation établi comme suit lorsque la demande complète de raccordement est effectuée durant le trimestre tarifaire qui suit le trimestre civil d'indice N :
 
 KN = 0,5 × ICHTrev-TS/ ICHTrev-TSo + 0,5 × FM0ABE0000/ FM0ABE0000o
 
-formule dans laquelle :
+Formule dans laquelle :
 
 1° ICHTrev-TS est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice du coût horaire du travail révisé (tous salariés) dans les industries mécaniques et électriques ;
 
 2° FM0ABE0000 est la dernière valeur définitive connue au premier jour du trimestre civil d'indice N, de l'indice des prix à la production de l'industrie française pour le marché français, ensemble de l'industrie, A10 BE, prix départ usine ;
 
-3° ICHTrev-TSo et FM0ABE0000o sont les dernières valeurs définitives connues au premier jour du trimestre civil d'indice N = 1.
+3° ICHTrev-TSo et FM0ABE0000o sont les valeurs définitives correspondant au mois de septembre 2020.
 
-Par exception, pour N = 0, K0 est pris égal à 1.
+Par exception, pour N inférieur ou égal à 0, KN est pris égal à 1.
 
 Le cas échéant, les valeurs du tarif Ta et de la prime Pa, calculées sans arrondi intermédiaire, sont arrondies à la seconde décimale.
 
-7. Pour une installation de vente avec injection en totalité éligible au tarif Tb au sens de l'article 8 du présent arrêté, le tarif d'achat, exprimé en c€/kWh, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est défini par la formule suivante :
+7. Pour une installation de vente avec injection en totalité éligible au tarif Tb au sens de l'article 8 du présent arrêté, le tarif d'achat, exprimé en c €/ kWh, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est défini par la formule suivante :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-Pour une installation de vente avec injection du surplus éligible à la prime Pb au sens de l'article 8 du présent arrêté, la prime à l'investissement, exprimée en €/Wc, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est définie par la formule suivante :
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Pour une installation de vente avec injection du surplus éligible à la prime Pb au sens de l'article 8 du présent arrêté, la prime à l'investissement, exprimée en €/ Wc, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est définie par la formule suivante :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
+
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
 formules dans lesquelles :
 
-Le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice N = 0, le suivant correspond à l'indice N = 1 et ainsi de suite ;
+Le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice N = 0, le suivant correspond à l'indice N = 1 et ainsi de suite ; le trimestre précédent le trimestre N = 0 correspond à l'indice N =-1.
 
 Le symbole
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-est égal à 1 lorsque N vaut 0 ou 1 et est égal à 1 - V1 lorsque N est supérieur ou égal à 2 ;
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
-Le symbole
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
-
-est égal à 1 lorsque N vaut 0, 1 ou 2 et est égal au produit des coefficients (1 - Vi) décrits au 3 de la présente annexe pour i variant de 1 à N - 2 lorsque N est supérieur ou égal à 3 ;
+est égal à 1 lorsque N est inférieur ou égal 5 et est égal au produit des coefficients (1-Vi) décrits au 3 de la présente annexe pour i variant de 4 à N-2 lorsque N est supérieur ou égal à 6 ;
 
 Le symbole
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-est égal à 1 lorsque N vaut 0 ou 1, et est égal au produit des coefficients (1 - V'i) décrits au 3 de la présente annexe pour i variant de 1 à N - 1 lorsque N est supérieur ou égal à 2 ;
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
-Le paramètre KN correspond au coefficient d'indexation défini au 6 ;
+est égal à 1 lorsque N est inférieur ou égal 5 et est égal au produit des coefficients (1-V'i) décrits au 3 de la présente annexe pour i variant de 5 à N-1 lorsque N est supérieur ou égal à 6 ;
 
-Les coefficients E et F sont définis en fonction de la puissance crête de l'installation, notée P et exprimée en kWc, et de la puissance Q définie au quatrième alinéa, de la façon suivante :
+Le paramètre KN correspond au coefficient d'indexation défini au 6 de la présente annexe ;
 
-- si P + Q est supérieure à 100 kWc, alors E = 0 et F = 0 ;
+Les coefficients E et F sont définis en fonction de la puissance crête de l'installation, notée P et exprimée en kWc, et de la puissance Q définie au 5 de la présente annexe, de la façon suivante :
 
-- si P + Q est supérieure à 36 kWc et est inférieure ou égale à 100 kWc, alors E = 1 et F = 1 ;
+-si P + Q est supérieure à 100 kWc, alors E = 0 et F = 0 ;
 
-- si P + Q est inférieure ou égale à 36 kWc, alors E = 1,15 et F = 2.
+-si P + Q est supérieure à 36 kWc et est inférieure ou égale à 100 kWc, alors E = 1 et F = 1 ;
+
+-si P + Q est inférieure ou égale à 36 kWc, alors E = 1,15 et F = 2.
 
 Le cas échéant, les valeurs du tarif Tb et de la prime Pb, calculée sans arrondi intermédiaire, sont arrondies à la seconde décimale.
 
-8. Pour une installation éligible au tarif Tc au sens de l'article 8 du présent arrêté, le tarif d'achat, exprimé en c€/kWh, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est défini par la formule suivante :
+8. Pour une installation éligible au tarif Tc au sens de l'article 8 du présent arrêté, le tarif d'achat, exprimé en c €/ kWh, applicable lorsque le producteur a effectué la demande complète de raccordement durant le trimestre tarifaire qui suit le trimestre civil d'indice N, est défini par la formule suivante :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
+
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
 formule dans laquelle :
 
-Le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice N = 0, le suivant correspond à l'indice N = 1 et ainsi de suite ;
+Le trimestre civil durant lequel l'arrêté est entré en vigueur correspond à l'indice N = 0, le suivant correspond à l'indice N = 1 et ainsi de suite ; le trimestre précédent le trimestre N = 0 correspond à l'indice N =-1 ;
 
 Le symbole
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-vaut 1 lorsque N vaut 0 ou 1 et vaut 0,9875 lorsque N est supérieur ou égal à 2 ;
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
-Le symbole
-
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
-
-vaut 1 lorsque N vaut 0, 1 ou 2 et vaut 0,9875 lorsque N est supérieur ou égal à 3 ;
+est égal à 1 lorsque N est inférieur ou égal à 5 et est égal au produit des coefficients (1-Wi) décrits au 4 de la présente annexe pour i variant de 4 à N-2 lorsque N est supérieur ou égal à 6 ;
 
 Le symbole
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 175 du 30 juillet 2022 :
 
-est égal à 1 lorsque N vaut 0, 1, 2 ou 3 et est égal au produit des coefficients (1 - Wi) décrits au 4 de la présente annexe pour i variant de 2 à N - 2 lorsque N est supérieur ou égal à 4 ;
+https://www.legifrance.gouv.fr/download/pdf?id=oPOIInpk0Qlz7ZSxTlZ2VP8Vf14oJEpIw850AsE_LEo=
 
-Le symbole
+est égal à 1 lorsque N est inférieur ou égal à 5, et est égal au produit des coefficients (1-W'i) décrits au 4 de la présente annexe pour i variant de 5 à N-1 lorsque N est supérieur ou égal à 6 ;
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible en bas de page
+Le paramètre KN correspond au coefficient d'indexation défini au 6 de la présente annexe ;
 
-est égal à 1 lorsque N vaut 0, 1, 2 ou 3, et est égal au produit des coefficients (1 - W'i) décrits au 4 de la présente annexe pour i variant de 3 à N - 1 lorsque N est supérieur ou égal à 4 ;
+Le coefficient E est défini en fonction de la puissance crête de l'installation, notée P et exprimée en kWc, et de la puissance Q définie au 5 de la présente annexe, de la façon suivante :
 
-Le paramètre KN correspond au coefficient d'indexation défini au 6.
+-si P + Q est supérieure à 500 kWc, alors E = 0 ;
 
-Le cas échéant, la valeur du tarif Tc, calculée sans arrondi intermédiaire, est arrondie par défaut à la seconde décimale.
+-si P + Q est inférieure ou égal à 500 kWc, alors E = 1.
+
+Le cas échéant, la valeur du tarif Tc, calculée sans arrondi intermédiaire, est arrondie à la seconde décimale.
 
 9. Pour une installation éligible à la prime à l'intégration paysagère au sens de l'article 8 du présent arrêté, la prime à l'investissement (exprimée en €/Wc) est définie de la façon suivante :
 
@@ -289,3 +299,7 @@ Pour les installation dont la demande complète de raccordement a été déposé
 0,233 |
 
 0,125 |
+
+NOTA :
+
+Se reporter aux modalités d'application prévues par l'article 3 de l'arrêté du 28 juillet 2022 (NOR : ENER2221742A).
