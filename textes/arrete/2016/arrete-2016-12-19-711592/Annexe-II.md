@@ -88,7 +88,7 @@ Communautés de brigades de Bernay et de Pont-Audemer
 
 Brigade territoriale autonome de Les Andelys |
 
-28-Eure-et-Loir |
+28-Eure et Loir |
 
 Communautés de brigades de Châteaudun, de Dreux et de Nogent-le-Rotrou |
 
@@ -296,7 +296,7 @@ Brigade territoriale autonome de Fontenay-le-Comte |
 
 Communautés de brigades d'Avallon et de Saint-Florentin |
 
-90-Territoire de Belfort |
+90-Territoire-de-Belfort |
 
 Communauté de brigades de Belfort |
 
@@ -340,4 +340,4 @@ Brigades territoriales autonomes d'Arue, de Faaa, de Moorea, de Paea, de Papara 
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 21 septembre 2020 ( NOR : INTJ2013316A ), les présentes dispositions entrent en vigueur le premier jour du mois suivant sa parution.
+Conformément à l’article 3 de l’arrêté du 5 juillet 2022 (NOR : IOMJ2217811A), ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit arrêté.

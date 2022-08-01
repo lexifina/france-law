@@ -1,6 +1,6 @@
 # Article Annexe III
 
-UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI DÉCONCENTRÉE PRÉFET
+UNITÉS RELEVANT DE LA GENDARMERIE NATIONALE AU TITRE DE LA NBI " DÉCONCENTRÉE PRÉFET "
 
 Département ou collectivité |
 
@@ -42,7 +42,7 @@ Brigades territoriales autonomes de Mouans-Sartoux Valbonne et de Levens
 
 Maison de Protection des Familles de Cagnes-sur-Mer |
 
-1 450 |
+1450 |
 
 07-Ardèche |
 
@@ -60,7 +60,7 @@ Brigade territoriale autonome de Nouzonville
 
 Pelotons de surveillance et d'intervention de la gendarmerie de Vireux-Molhain, de Rethel et de Sedan |
 
-1 210 |
+1210 |
 
 10-Aube |
 
@@ -92,7 +92,7 @@ Brigades de recherches d'Aubagne, d'Aix-en-Provence et d'Istres
 
 Maison de Protection des Familles d'Aix-en-Provence |
 
-1 700 |
+1700 |
 
 16-Charente |
 
@@ -166,7 +166,7 @@ Brigade de recherches de Nîmes
 
 Maison de Protection des Familles de Caissargues |
 
-1 200 |
+1200 |
 
 31-Haute-Garonne |
 
@@ -176,7 +176,7 @@ Brigade territoriale autonome de Léguevin
 
 Maison de Protection des Familles de Cugnaux |
 
-1 150 |
+1150 |
 
 34-Hérault |
 
@@ -200,7 +200,7 @@ Communauté de brigades de Saint-Clair-du-Rhône
 
 Brigades territoriales autonomes de La Verpillère, de Saint-Egrève, de Voreppe, de Vif, d'Eybens, de l'Isle-d'Abeau, du Pont-de-Claix, de Roussillon et de Chasse-sur-Rhône |
 
-2 280 |
+2280 |
 
 39-Jura |
 
@@ -268,7 +268,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Forbach
 
 Brigades de recherches de Forbach, de Metz et de Thionville |
 
-1 020 |
+1020 |
 
 58-Nièvre |
 
@@ -280,7 +280,7 @@ Brigade territoriale autonome de Marzy |
 
 Brigades territoriales autonomes de La Bassée, d'Orchies, du Quesnoy et d'Arleux |
 
-1 510 |
+1510 |
 
 60-Oise |
 
@@ -328,7 +328,7 @@ Peloton de surveillance et d'intervention de la gendarmerie de Strasbourg
 
 Maison de Protection des Familles de Strasbourg |
 
-1 510 |
+1510 |
 
 68-Haut-Rhin |
 
@@ -342,7 +342,7 @@ Brigade de recherches de Mulhouse
 
 Maison de Protection des Familles de Mulhouse |
 
-1 650 |
+1650 |
 
 69-Rhône |
 
@@ -354,7 +354,7 @@ Brigades de recherches de Mions, de Givors, de L ‘ Arbresle et de Lyon
 
 Maison de Protection des Familles de Lyon |
 
-2 200 |
+2200 |
 
 70-Haute-Saône |
 
@@ -372,17 +372,15 @@ Brigade territoriale autonome de Mâcon |
 
 72-Sarthe |
 
-Communautés de brigades de Saint-Mars-la-Brière
+Brigade motorisée de Cerans-Foulletourte
 
-et de La-Chapelle-Saint-Aubin
+Brigade de recherches de La Flèche
 
-Peloton de surveillance et d'intervention de la gendarmerie du Mans
+Peloton de surveillance et d'intervention de la gendarmerie du Mans et de La Flèche
 
-Brigade de recherches du Mans-Centre
+Maison de Protection des Familles de Coulaines
 
-Brigade motorisée du Mans
-
-Maison de Protection des Familles de Coulaines |
+Peloton motorisé de Joué-en-Charnie |
 
 990 |
 
@@ -432,7 +430,7 @@ Brigade motorisée de Rambouillet
 
 Maison de Protection des Familles de Bois D'Arcy |
 
-1 380 |
+1380 |
 
 81-Tarn |
 
@@ -464,7 +462,7 @@ Brigades territoriales autonomes de Migennes et de Joigny
 
 Peloton de surveillance et d'intervention de la gendarmerie de Joigny |
 
-1 060 |
+1060 |
 
 95-Val-d'Oise |
 
@@ -478,7 +476,7 @@ Brigade de recherches de Pontoise
 
 Maison de Protection des Familles de Pontoise |
 
-1 030 |
+1030 |
 
 971-Guadeloupe |
 
@@ -520,8 +518,8 @@ Section de recherches de Saint-Denis
 
 Maison de Protection des Familles de Saint-Denis |
 
-1 900 |
+1900 |
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 21 septembre 2020 ( NOR : INTJ2013316A ), les présentes dispositions entrent en vigueur le premier jour du mois suivant sa parution.
+Conformément à l’article 3 de l’arrêté du 5 juillet 2022 (NOR : IOMJ2217811A), ces dispositions entrent en vigueur le premier jour du mois suivant la publication dudit arrêté.
