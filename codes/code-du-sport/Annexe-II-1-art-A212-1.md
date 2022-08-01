@@ -106,6 +106,16 @@ A l'exclusion :
 
 |
 
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse |
+
+Mention complémentaire "encadrement secteur sportif" option "activités physiques pour tous" délivrée jusqu'au 31 août 2027. |
+
+4 |
+
+Encadrement et animation des activités physiques ou sportives. |
+
+A l'exclusion des pratiques compétitives. |
+
 Diplôme délivré par le ministère chargé des sports |
 
 BP JEPS, spécialité " éducateur sportif ", mention " activités physiques pour tous ", délivré jusqu'au 1er janvier 2024. |
@@ -212,6 +222,18 @@ Surveillance et sauvetage en milieu aquatique.
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse |
+
+Mention complémentaire "encadrement secteur sportif" option "activités aquatiques et de la natation" délivrée jusqu'au 31 août 2027. |
+
+4 |
+
+Encadrement de séances en aqua fitness.
+
+Surveillance et sauvetage en milieu aquatique. |
+
+Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
+
 Diplômes délivrés par le ministère chargé des sports |
 
 BP JEPS, spécialité " éducateur sportif ", mention " activités aquatiques et de la natation ", délivré jusqu'au 1er janvier 2027. |
@@ -281,6 +303,32 @@ Licence professionnelle mention " animation, gestion et organisation des activit
 Enseignement du fitness. |
 
 A l'exclusion des pratiques compétitives. |
+
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse |
+
+Mention complémentaire "encadrement secteur sportif" option "activités de la forme-haltérophilie, musculation" délivrée jusqu'au 31 août 2027. |
+
+4 |
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie. |
+
+|
+
+Mention complémentaire
+
+"encadrement secteur sportif" option
+
+"activités de la forme-cours collectifs" délivrée jusqu'au 31 août 2027. |
+
+4 |
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage des activités de la forme en cours collectifs. |
+
+|
 
 Diplômes délivrés par le ministère chargé des sports |
 
@@ -2130,6 +2178,18 @@ Enseignement de l'haltérophilie, musculation et de la force athlétique. |
 
 A l'exclusion des pratiques compétitives. |
 
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse |
+
+Mention complémentaire "encadrement secteur sportif" option "activités de la forme-haltérophilie, musculation" délivrée jusqu'au 31 août 2027. |
+
+4 |
+
+Découverte d'activités de loisir et d'animation des activités de la forme.
+
+Encadrement, initiation et conduite de cycles d'apprentissage en musculation, en cardio-training et en haltérophilie. |
+
+|
+
 Diplômes délivrés par le ministère chargé des sports |
 
 BP JEPS, spécialité " éducateur sportif ", mention " activités de la forme " option " haltérophilie, musculation ", délivré jusqu'au 1er janvier 2024. |
@@ -3015,6 +3075,18 @@ A l'exclusion :
 -de la surveillance des lieux de pratique.
 
 |
+
+Diplôme délivré par le ministère de l'éducation nationale et de la jeunesse |
+
+Mention complémentaire "encadrement secteur sportif" option "activités aquatiques et de la natation" délivrée jusqu'au 31 août 2027. |
+
+4 |
+
+Enseignement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et enseignement des différentes nages.
+
+Surveillance et sauvetage en milieu aquatique. |
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la profession de maître-nageur sauveteur en cours de validité. |
 
 Diplômes délivrés par le ministère chargé des sports |
 
