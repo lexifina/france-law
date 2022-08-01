@@ -1,0 +1,2151 @@
+# Article Annexe V
+
+ARRONDISSEMENTS ÉLIGIBLES AU TITRE DE LA DENSITÉ POUR LES ESPÈCES BOVINE ET CAPRINE
+
+La liste des arrondissements éligibles au titre de la densité est la suivante :
+
+Espèce bovine :
+
+Numéro de département |
+
+Code arrondissement |
+
+Nom de l'arrondissement |
+
+01 |
+
+011 |
+
+BELLEY |
+
+01 |
+
+013 |
+
+GEX |
+
+01 |
+
+014 |
+
+NANTUA |
+
+02 |
+
+021 |
+
+CHATEAU THIERRY |
+
+02 |
+
+022 |
+
+LAON |
+
+02 |
+
+023 |
+
+SAINT QUENTIN |
+
+02 |
+
+024 |
+
+SOISSONS |
+
+03 |
+
+031 |
+
+MONTLUCON |
+
+03 |
+
+032 |
+
+MOULINS |
+
+03 |
+
+033 |
+
+VICHY |
+
+04 |
+
+041 |
+
+BARCELONNETTE |
+
+04 |
+
+042 |
+
+CASTELLANE |
+
+04 |
+
+043 |
+
+DIGNE LES BAINS |
+
+04 |
+
+044 |
+
+FORCALQUIER |
+
+05 |
+
+051 |
+
+BRIANCON |
+
+05 |
+
+052 |
+
+GAP |
+
+06 |
+
+061 |
+
+GRASSE |
+
+06 |
+
+062 |
+
+NICE |
+
+07 |
+
+071 |
+
+LARGENTIERE |
+
+07 |
+
+072 |
+
+PRIVAS |
+
+07 |
+
+073 |
+
+TOURNON SUR RHONE |
+
+08 |
+
+081 |
+
+CHARLEVILLE MEZIERES |
+
+08 |
+
+082 |
+
+RETHEL |
+
+08 |
+
+084 |
+
+VOUZIERS |
+
+09 |
+
+091 |
+
+FOIX |
+
+09 |
+
+092 |
+
+PAMIERS |
+
+09 |
+
+093 |
+
+SAINT GIRONS |
+
+10 |
+
+101 |
+
+BAR SUR AUBE |
+
+10 |
+
+102 |
+
+NOGENT SUR SEINE |
+
+10 |
+
+103 |
+
+TROYES |
+
+11 |
+
+111 |
+
+CARCASSONNE |
+
+11 |
+
+112 |
+
+LIMOUX |
+
+11 |
+
+113 |
+
+NARBONNE |
+
+12 |
+
+121 |
+
+MILLAU |
+
+12 |
+
+122 |
+
+RODEZ |
+
+13 |
+
+132 |
+
+ARLES |
+
+14 |
+
+142 |
+
+CAEN |
+
+14 |
+
+143 |
+
+LISIEUX |
+
+15 |
+
+151 |
+
+AURILLAC |
+
+15 |
+
+152 |
+
+MAURIAC |
+
+16 |
+
+161 |
+
+ANGOULEME |
+
+16 |
+
+162 |
+
+COGNAC |
+
+16 |
+
+163 |
+
+CONFOLENS |
+
+17 |
+
+171 |
+
+JONZAC |
+
+17 |
+
+172 |
+
+ROCHEFORT |
+
+17 |
+
+173 |
+
+ROCHELLE (LA) |
+
+17 |
+
+174 |
+
+SAINTES |
+
+17 |
+
+175 |
+
+SAINT JEAN D ANGELY |
+
+18 |
+
+181 |
+
+BOURGES |
+
+18 |
+
+182 |
+
+SAINT AMAND MONTROND |
+
+18 |
+
+183 |
+
+VIERZON |
+
+19 |
+
+191 |
+
+BRIVE LA GAILLARDE |
+
+19 |
+
+192 |
+
+TULLE |
+
+19 |
+
+193 |
+
+USSEL |
+
+21 |
+
+211 |
+
+BEAUNE |
+
+21 |
+
+212 |
+
+DIJON |
+
+21 |
+
+213 |
+
+MONTBARD |
+
+23 |
+
+231 |
+
+AUBUSSON |
+
+23 |
+
+232 |
+
+GUERET |
+
+24 |
+
+241 |
+
+BERGERAC |
+
+24 |
+
+242 |
+
+NONTRON |
+
+24 |
+
+243 |
+
+PERIGUEUX |
+
+24 |
+
+244 |
+
+SARLAT LA CANEDA |
+
+26 |
+
+261 |
+
+DIE |
+
+26 |
+
+262 |
+
+NYONS |
+
+26 |
+
+263 |
+
+VALENCE |
+
+27 |
+
+271 |
+
+ANDELYS (LES) |
+
+27 |
+
+272 |
+
+BERNAY |
+
+27 |
+
+273 |
+
+EVREUX |
+
+28 |
+
+281 |
+
+CHARTRES |
+
+28 |
+
+282 |
+
+CHATEAUDUN |
+
+28 |
+
+283 |
+
+DREUX |
+
+28 |
+
+284 |
+
+NOGENT LE ROTROU |
+
+30 |
+
+303 |
+
+VIGAN (LE) |
+
+31 |
+
+311 |
+
+MURET |
+
+31 |
+
+312 |
+
+SAINT GAUDENS |
+
+31 |
+
+313 |
+
+TOULOUSE |
+
+32 |
+
+321 |
+
+AUCH |
+
+32 |
+
+322 |
+
+CONDOM |
+
+32 |
+
+323 |
+
+MIRANDE |
+
+33 |
+
+331 |
+
+BLAYE |
+
+33 |
+
+332 |
+
+BORDEAUX |
+
+33 |
+
+333 |
+
+LANGON |
+
+33 |
+
+334 |
+
+LESPARRE MEDOC |
+
+33 |
+
+335 |
+
+LIBOURNE |
+
+33 |
+
+336 |
+
+ARCACHON |
+
+34 |
+
+341 |
+
+BEZIERS |
+
+34 |
+
+342 |
+
+LODEVE |
+
+34 |
+
+343 |
+
+MONTPELLIER |
+
+36 |
+
+361 |
+
+BLANC (LE) |
+
+36 |
+
+362 |
+
+CHATEAUROUX |
+
+36 |
+
+363 |
+
+CHATRE (LA) |
+
+36 |
+
+364 |
+
+ISSOUDUN |
+
+37 |
+
+371 |
+
+CHINON |
+
+37 |
+
+372 |
+
+TOURS |
+
+37 |
+
+373 |
+
+LOCHES |
+
+38 |
+
+381 |
+
+GRENOBLE |
+
+38 |
+
+382 |
+
+TOUR DU PIN (LA) |
+
+38 |
+
+383 |
+
+VIENNE |
+
+39 |
+
+391 |
+
+DOLE |
+
+39 |
+
+393 |
+
+SAINT CLAUDE |
+
+40 |
+
+401 |
+
+DAX |
+
+40 |
+
+402 |
+
+MONT DE MARSAN |
+
+41 |
+
+411 |
+
+BLOIS |
+
+41 |
+
+412 |
+
+VENDOME |
+
+41 |
+
+413 |
+
+ROMORANTIN LANTHENAY |
+
+42 |
+
+423 |
+
+SAINT ETIENNE |
+
+43 |
+
+431 |
+
+BRIOUDE |
+
+45 |
+
+451 |
+
+MONTARGIS |
+
+45 |
+
+452 |
+
+ORLEANS |
+
+45 |
+
+453 |
+
+PITHIVIERS |
+
+46 |
+
+461 |
+
+CAHORS |
+
+46 |
+
+462 |
+
+FIGEAC |
+
+46 |
+
+463 |
+
+GOURDON |
+
+47 |
+
+471 |
+
+AGEN |
+
+47 |
+
+472 |
+
+MARMANDE |
+
+47 |
+
+473 |
+
+VILLENEUVE SUR LOT |
+
+47 |
+
+474 |
+
+NERAC |
+
+48 |
+
+481 |
+
+FLORAC |
+
+48 |
+
+482 |
+
+MENDE |
+
+49 |
+
+491 |
+
+ANGERS |
+
+49 |
+
+493 |
+
+SAUMUR |
+
+51 |
+
+511 |
+
+CHALONS EN CHAMPAGNE |
+
+51 |
+
+512 |
+
+EPERNAY |
+
+51 |
+
+513 |
+
+REIMS |
+
+51 |
+
+514 |
+
+VITRY LE FRANCOIS |
+
+52 |
+
+521 |
+
+CHAUMONT |
+
+52 |
+
+522 |
+
+LANGRES |
+
+52 |
+
+523 |
+
+SAINT DIZIER |
+
+54 |
+
+541 |
+
+BRIEY |
+
+54 |
+
+543 |
+
+NANCY |
+
+54 |
+
+544 |
+
+TOUL |
+
+55 |
+
+551 |
+
+BAR LE DUC |
+
+55 |
+
+552 |
+
+COMMERCY |
+
+55 |
+
+553 |
+
+VERDUN |
+
+57 |
+
+573 |
+
+FORBACH BOULAY MOSELLE |
+
+57 |
+
+575 |
+
+SARREBOURG CHATEAU SALINS |
+
+57 |
+
+576 |
+
+SARREGUEMINES |
+
+57 |
+
+577 |
+
+THIONVILLE |
+
+57 |
+
+579 |
+
+METZ |
+
+58 |
+
+581 |
+
+CHATEAU CHINON (VILLE) |
+
+58 |
+
+582 |
+
+CLAMECY |
+
+58 |
+
+583 |
+
+NEVERS |
+
+58 |
+
+584 |
+
+COSNE COURS SUR LOIRE |
+
+59 |
+
+593 |
+
+DOUAI |
+
+60 |
+
+601 |
+
+BEAUVAIS |
+
+60 |
+
+602 |
+
+CLERMONT |
+
+60 |
+
+603 |
+
+COMPIEGNE |
+
+60 |
+
+604 |
+
+SENLIS |
+
+61 |
+
+613 |
+
+MORTAGNE AU PERCHE |
+
+62 |
+
+622 |
+
+BETHUNE |
+
+62 |
+
+626 |
+
+CALAIS |
+
+62 |
+
+627 |
+
+LENS |
+
+63 |
+
+631 |
+
+AMBERT |
+
+63 |
+
+632 |
+
+CLERMONT FERRAND |
+
+63 |
+
+633 |
+
+ISSOIRE |
+
+63 |
+
+634 |
+
+RIOM |
+
+63 |
+
+635 |
+
+THIERS |
+
+64 |
+
+641 |
+
+BAYONNE |
+
+64 |
+
+642 |
+
+OLORON SAINTE MARIE |
+
+64 |
+
+643 |
+
+PAU |
+
+65 |
+
+651 |
+
+ARGELES GAZOST |
+
+65 |
+
+652 |
+
+BAGNERES DE BIGORRE |
+
+65 |
+
+653 |
+
+TARBES |
+
+66 |
+
+663 |
+
+PRADES |
+
+67 |
+
+672 |
+
+HAGUENAU WISSEMBOURG |
+
+67 |
+
+673 |
+
+MOLSHEIM |
+
+67 |
+
+675 |
+
+SELESTAT ERSTEIN |
+
+67 |
+
+678 |
+
+STRASBOURG |
+
+68 |
+
+682 |
+
+COLMAR RIBEAUVILLE |
+
+68 |
+
+684 |
+
+MULHOUSE |
+
+68 |
+
+686 |
+
+THANN GUEBWILLER |
+
+69 |
+
+692 |
+
+VILLEFRANCHE SUR SAONE |
+
+70 |
+
+701 |
+
+LURE |
+
+71 |
+
+711 |
+
+AUTUN |
+
+71 |
+
+712 |
+
+CHALON SUR SAONE |
+
+71 |
+
+713 |
+
+CHAROLLES |
+
+71 |
+
+714 |
+
+LOUHANS |
+
+71 |
+
+715 |
+
+MACON |
+
+72 |
+
+721 |
+
+FLECHE (LA) |
+
+72 |
+
+723 |
+
+MANS (LE) |
+
+73 |
+
+731 |
+
+ALBERTVILLE |
+
+73 |
+
+732 |
+
+CHAMBERY |
+
+73 |
+
+733 |
+
+SAINT JEAN DE MAURIENNE |
+
+74 |
+
+742 |
+
+BONNEVILLE |
+
+74 |
+
+744 |
+
+THONON LES BAINS |
+
+76 |
+
+763 |
+
+ROUEN |
+
+77 |
+
+771 |
+
+MEAUX |
+
+77 |
+
+772 |
+
+MELUN |
+
+77 |
+
+773 |
+
+PROVINS |
+
+77 |
+
+774 |
+
+FONTAINEBLEAU |
+
+77 |
+
+775 |
+
+TORCY |
+
+78 |
+
+781 |
+
+MANTES LA JOLIE |
+
+78 |
+
+782 |
+
+RAMBOUILLET |
+
+78 |
+
+783 |
+
+SAINT GERMAIN EN LAYE |
+
+78 |
+
+784 |
+
+VERSAILLES |
+
+79 |
+
+791 |
+
+BRESSUIRE |
+
+79 |
+
+792 |
+
+NIORT |
+
+79 |
+
+793 |
+
+PARTHENAY |
+
+80 |
+
+802 |
+
+AMIENS |
+
+80 |
+
+803 |
+
+MONTDIDIER |
+
+80 |
+
+804 |
+
+PERONNE |
+
+81 |
+
+811 |
+
+ALBI |
+
+81 |
+
+812 |
+
+CASTRES |
+
+82 |
+
+821 |
+
+CASTELSARRASIN |
+
+82 |
+
+822 |
+
+MONTAUBAN |
+
+83 |
+
+833 |
+
+BRIGNOLES |
+
+85 |
+
+851 |
+
+FONTENAY LE COMTE |
+
+86 |
+
+861 |
+
+CHATELLERAULT |
+
+86 |
+
+862 |
+
+MONTMORILLON |
+
+86 |
+
+863 |
+
+POITIERS |
+
+87 |
+
+871 |
+
+BELLAC |
+
+87 |
+
+872 |
+
+LIMOGES |
+
+87 |
+
+873 |
+
+ROCHECHOUART |
+
+88 |
+
+883 |
+
+SAINT DIE DES VOSGES |
+
+89 |
+
+891 |
+
+AUXERRE |
+
+89 |
+
+892 |
+
+AVALLON |
+
+89 |
+
+893 |
+
+SENS |
+
+90 |
+
+901 |
+
+BELFORT |
+
+91 |
+
+912 |
+
+EVRY |
+
+95 |
+
+953 |
+
+PONTOISE |
+
+971 |
+
+9711 |
+
+BASSE TERRE |
+
+971 |
+
+9712 |
+
+POINTE A PITRE |
+
+974 |
+
+9741 |
+
+SAINT DENIS |
+
+974 |
+
+9742 |
+
+SAINT PIERRE |
+
+974 |
+
+9743 |
+
+SAINT BENOIT |
+
+974 |
+
+9744 |
+
+SAINT PAUL |
+
+Espèce caprine :
+
+Numéro de département |
+
+Code arrondissement |
+
+Nom de l'arrondissement |
+
+01 |
+
+011 |
+
+BELLEY |
+
+01 |
+
+012 |
+
+BOURG EN BRESSE |
+
+01 |
+
+014 |
+
+NANTUA |
+
+03 |
+
+032 |
+
+MOULINS |
+
+03 |
+
+033 |
+
+VICHY |
+
+04 |
+
+044 |
+
+FORCALQUIER |
+
+05 |
+
+051 |
+
+BRIANCON |
+
+05 |
+
+052 |
+
+GAP |
+
+07 |
+
+071 |
+
+LARGENTIERE |
+
+07 |
+
+072 |
+
+PRIVAS |
+
+07 |
+
+073 |
+
+TOURNON SUR RHONE |
+
+09 |
+
+091 |
+
+FOIX |
+
+09 |
+
+092 |
+
+PAMIERS |
+
+09 |
+
+093 |
+
+SAINT GIRONS |
+
+11 |
+
+111 |
+
+CARCASSONNE |
+
+12 |
+
+121 |
+
+MILLAU |
+
+12 |
+
+122 |
+
+RODEZ |
+
+12 |
+
+123 |
+
+VILLEFRANCHE DE ROUERGUE |
+
+13 |
+
+131 |
+
+AIX EN PROVENCE |
+
+13 |
+
+132 |
+
+ARLES |
+
+18 |
+
+181 |
+
+BOURGES |
+
+18 |
+
+182 |
+
+SAINT AMAND MONTROND |
+
+18 |
+
+183 |
+
+VIERZON |
+
+22 |
+
+222 |
+
+GUINGAMP |
+
+22 |
+
+224 |
+
+SAINT BRIEUC |
+
+23 |
+
+231 |
+
+AUBUSSON |
+
+23 |
+
+232 |
+
+GUERET |
+
+24 |
+
+241 |
+
+BERGERAC |
+
+24 |
+
+242 |
+
+NONTRON |
+
+24 |
+
+243 |
+
+PERIGUEUX |
+
+24 |
+
+244 |
+
+SARLAT LA CANEDA |
+
+26 |
+
+261 |
+
+DIE |
+
+26 |
+
+262 |
+
+NYONS |
+
+26 |
+
+263 |
+
+VALENCE |
+
+29 |
+
+293 |
+
+MORLAIX |
+
+30 |
+
+301 |
+
+ALES |
+
+30 |
+
+302 |
+
+NIMES |
+
+30 |
+
+303 |
+
+VIGAN (LE) |
+
+31 |
+
+311 |
+
+MURET |
+
+31 |
+
+312 |
+
+SAINT GAUDENS |
+
+31 |
+
+313 |
+
+TOULOUSE |
+
+31 |
+
+322 |
+
+CONDOM |
+
+32 |
+
+341 |
+
+BEZIERS |
+
+34 |
+
+342 |
+
+LODEVE |
+
+35 |
+
+351 |
+
+FOUGERES VITRE |
+
+35 |
+
+352 |
+
+REDON |
+
+35 |
+
+353 |
+
+RENNES |
+
+35 |
+
+354 |
+
+SAINT MALO |
+
+36 |
+
+361 |
+
+BLANC (LE) |
+
+36 |
+
+362 |
+
+CHATEAUROUX |
+
+36 |
+
+363 |
+
+CHATRE (LA) |
+
+36 |
+
+364 |
+
+ISSOUDUN |
+
+37 |
+
+371 |
+
+CHINON |
+
+37 |
+
+372 |
+
+TOURS |
+
+37 |
+
+373 |
+
+LOCHES |
+
+38 |
+
+381 |
+
+GRENOBLE |
+
+38 |
+
+382 |
+
+TOUR DU PIN (LA) |
+
+38 |
+
+383 |
+
+VIENNE |
+
+39 |
+
+392 |
+
+LONS LE SAUNIER |
+
+41 |
+
+411 |
+
+BLOIS |
+
+41 |
+
+412 |
+
+VENDOME |
+
+41 |
+
+413 |
+
+ROMORANTIN LANTHENAY |
+
+42 |
+
+421 |
+
+MONTBRISON |
+
+42 |
+
+422 |
+
+ROANNE |
+
+42 |
+
+423 |
+
+SAINT ETIENNE |
+
+43 |
+
+431 |
+
+BRIOUDE |
+
+43 |
+
+432 |
+
+PUY EN VELAY (LE) |
+
+43 |
+
+433 |
+
+YSSINGEAUX |
+
+44 |
+
+443 |
+
+SAINT NAZAIRE |
+
+44 |
+
+445 |
+
+CHATEAUBRIANT ANCENIS |
+
+46 |
+
+461 |
+
+CAHORS |
+
+46 |
+
+462 |
+
+FIGEAC |
+
+46 |
+
+463 |
+
+GOURDON |
+
+47 |
+
+473 |
+
+VILLENEUVE SUR LOT |
+
+48 |
+
+481 |
+
+FLORAC |
+
+48 |
+
+482 |
+
+MENDE |
+
+49 |
+
+491 |
+
+ANGERS |
+
+49 |
+
+492 |
+
+CHOLET |
+
+49 |
+
+493 |
+
+SAUMUR |
+
+49 |
+
+494 |
+
+SEGRE |
+
+50 |
+
+501 |
+
+AVRANCHES |
+
+53 |
+
+531 |
+
+CHATEAU GONTIER |
+
+53 |
+
+533 |
+
+MAYENNE |
+
+54 |
+
+542 |
+
+LUNEVILLE |
+
+56 |
+
+562 |
+
+PONTIVY |
+
+57 |
+
+575 |
+
+SARREBOURG CHATEAU SALINS |
+
+57 |
+
+576 |
+
+SARREGUEMINES |
+
+61 |
+
+611 |
+
+ALENCON |
+
+63 |
+
+633 |
+
+ISSOIRE |
+
+63 |
+
+634 |
+
+RIOM |
+
+63 |
+
+635 |
+
+THIERS |
+
+64 |
+
+641 |
+
+BAYONNE |
+
+64 |
+
+642 |
+
+OLORON SAINTE MARIE |
+
+64 |
+
+643 |
+
+PAU |
+
+65 |
+
+652 |
+
+BAGNERES DE BIGORRE |
+
+65 |
+
+653 |
+
+TARBES |
+
+66 |
+
+663 |
+
+PRADES |
+
+67 |
+
+673 |
+
+MOLSHEIM |
+
+69 |
+
+691 |
+
+LYON |
+
+69 |
+
+692 |
+
+VILLEFRANCHE SUR SAONE |
+
+71 |
+
+711 |
+
+AUTUN |
+
+71 |
+
+712 |
+
+CHALON SUR SAONE |
+
+71 |
+
+713 |
+
+CHAROLLES |
+
+71 |
+
+714 |
+
+LOUHANS |
+
+71 |
+
+715 |
+
+MACON |
+
+72 |
+
+721 |
+
+FLECHE (LA) |
+
+73 |
+
+731 |
+
+ALBERTVILLE |
+
+73 |
+
+732 |
+
+CHAMBERY |
+
+74 |
+
+741 |
+
+ANNECY |
+
+74 |
+
+742 |
+
+BONNEVILLE |
+
+74 |
+
+743 |
+
+SAINT JULIEN EN GENEVOIS |
+
+74 |
+
+744 |
+
+THONON LES BAINS |
+
+79 |
+
+791 |
+
+BRESSUIRE |
+
+79 |
+
+792 |
+
+NIORT |
+
+79 |
+
+793 |
+
+PARTHENAY |
+
+81 |
+
+811 |
+
+ALBI |
+
+81 |
+
+812 |
+
+CASTRES |
+
+82 |
+
+822 |
+
+MONTAUBAN |
+
+83 |
+
+833 |
+
+BRIGNOLES |
+
+84 |
+
+843 |
+
+CARPENTRAS |
+
+86 |
+
+861 |
+
+CHATELLERAULT |
+
+86 |
+
+862 |
+
+MONTMORILLON |
+
+86 |
+
+863 |
+
+POITIERS |
+
+87 |
+
+871 |
+
+BELLAC |
+
+88 |
+
+883 |
+
+SAINT DIE DES VOSGES |
+
+974 |
+
+9741 |
+
+SAINT DENIS |
+
+974 |
+
+9742 |
+
+SAINT PIERRE |
+
+974 |
+
+9744 |
+
+SAINT PAUL |
