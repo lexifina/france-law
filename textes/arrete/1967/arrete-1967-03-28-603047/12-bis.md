@@ -12,39 +12,25 @@ Les emplois et les fonctions ou les catégories statutaires éligibles à la pri
 
 - conseiller de coopération et d'action culturelle ;
 
-- chef de service commun de gestion ;
+- secrétaire général d'ambassade ;
 
 - responsable de centre régional d'assistance aux systèmes d'information et de communication.
 
 Les montants de référence de la prime de performance individuelle sont fixés comme suit :
 
-EMPLOI, FONCTION
+EMPLOI, FONCTION |
 
-|
-
-CORPS
-
-|
+CORPS OU GRADE |
 
 MONTANT DE RÉFÉRENCE
 
-(en euros)
+(en euros) |
+
+Chef de mission diplomatique |
 
 |
 
-Chef de mission diplomatique
-
-|
-
-Ministre plénipotentiaire
-
-Conseiller des affaires étrangères
-
-|
-
-2 000
-
-|
+2 000 |
 
 Consul général
 
@@ -54,68 +40,36 @@ Consul
 
 Conseiller de coopération et d'action culturelle
 
-Chef de service commun de gestion
+Secrétaire général d'ambassade |
 
-|
+Administrateur général de l'Etat
 
-Ministre plénipotentiaire
+Ministre plénipotentiaire |
 
-|
+2 000 |
 
-2 000
+Administrateur de l'Etat et administrateur de l'Etat hors classe
 
-|
+Conseiller des affaires étrangères et conseiller des affaires étrangères hors classe |
 
-|
+1 200 |
 
-Conseiller des affaires étrangères
+Secrétaire des affaires étrangères |
 
-|
+1 200 |
 
-1 200
+Secrétaire de chancellerie |
 
-|
+800 |
 
-|
+Responsable de centre régional d'assistance aux systèmes d'information et de communication |
 
-Secrétaire des affaires étrangères
+Attaché des systèmes d'information et de communication |
 
-|
+1 200 |
 
-1 200
-
-|
-
-|
-
-Secrétaire de chancellerie
-
-|
+Secrétaire des systèmes d'information et de communication |
 
 800
 
 |
-
-Responsable de centre régional d'assistance aux systèmes d'information et de communication
-
-|
-
-Attaché des systèmes d'information et de communication
-
-|
-
-1 200
-
-|
-
-|
-
-Secrétaire des systèmes d'information et de communication
-
-|
-
-800 |
-
-NOTA :
-
-Arrêté du 25 août 2011 art 5 : les dispositions de l'article 12 bis entrent en vigueur le 1er janvier 2012, sauf en ce qui concerne les chefs de mission diplomatique et les consuls généraux pour lesquels ces dispositions entrent en vigueur à compter de la publication des dispositions réglementaires applicables à leur évaluation.
