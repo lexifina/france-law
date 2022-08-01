@@ -58,11 +58,11 @@ Moyens supplémentaires (moyens humains et matériels) envisagés au regard des 
 
 II. – Suivi des formations réalisées
 
-Afin de mesurer l'efficacité et le bon déroulement des formations obligatoires de conducteurs routiers, les centres de formation agréés doivent fournir au préfet de région territorialement compétent les éléments suivants :
+Les centres de formation agréés doivent fournir au préfet de région territorialement compétent, afin qu'il puisse assurer un suivi régulier et contrôler le bon déroulement des formations obligatoires de conducteurs routiers, les éléments suivants :
 
-– tous les ans, un bilan pédagogique et financier des formations obligatoires réalisées l'année N ― 1, faisant apparaître notamment le nombre de sessions organisées et leur financement, le nombre de stagiaires, le nombre de reçus, les résultats obtenus en termes d'emploi à trois mois et à six mois et la répartition par type de contrat de travail conclu (contrat à durée indéterminée ou contrat à durée déterminée). Ce bilan est également à fournir pour chaque moniteur d'entreprise effectuant des stages de formation obligatoire sous la responsabilité du centre de formation concerné ;
+– tous les ans, un bilan pédagogique et financier des formations obligatoires réalisées l'année N - 1, faisant apparaître notamment le nombre, l'intitulé et le financement des formations ou séquences de formation organisées, le nombre de stagiaires et le nombre de reçus. Ce bilan est également à fournir pour chaque moniteur d'entreprise effectuant des formations ou des séquences de formation obligatoires sous la responsabilité du centre de formation concerné ;
 
-– tous les trois mois, une liste des stages réalisés durant le trimestre précédent ainsi que la liste des stages prévus dans le trimestre à venir avec la liste nominative des formateurs et des évaluateurs appelés à intervenir sur ces stages.
+– tous les trois mois, une liste des formations ou des séquences de formation réalisées durant le trimestre précédent et des formations ou des séquences de formation prévues dans le trimestre à venir. Cette liste mentionne leur date, leur intitulé, les lieux sur lesquelles elles ont été réalisées ou sont prévues, y compris lorsqu'elles sont dispensées par un moniteur d'entreprise ou en situation de travail, ainsi que la liste nominative des formateurs, des moniteurs d'entreprises ou des évaluateurs qui y sont intervenus et qui sont appelés à y intervenir.
 
 III. – Dépôt des demandes d'agrément
 
@@ -70,4 +70,4 @@ Les demandes d'agrément sont adressées au préfet de région, direction régio
 
 NOTA :
 
-Conformément à l'article 3 de l'arrêté du 24 janvier 2022, ces dispositions entrent en vigueur le 1er février 2022.
+Conformément à l'article 3 de l'arrêté du 24 janvier 2022, ces dispositions entrent en vigueur le 1er août 2022.
