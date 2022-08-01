@@ -12,7 +12,7 @@ Demande d'autorisation de produire et de vendre des produits explosifs :
 
 5. Nationalité de l'entreprise.
 
-6. Extrait K bis.
+6. Numéro unique d'identification de l'entreprise.
 
 7. Adresse des établissements dans lesquels seront effectuées la fabrication et la vente.
 
@@ -21,3 +21,7 @@ A, le
 Date, signature et cachet du pétitionnaire.
 
 (1) Rayer la mention inutile.
+
+NOTA :
+
+Conformément à l’article 16 de l’arrêté du 15 juillet 2022 (NOR : ECOD2211395A), ces dispositions entrent en vigueur le 1er août 2022.
