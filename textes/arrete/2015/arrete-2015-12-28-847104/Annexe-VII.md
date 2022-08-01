@@ -4,7 +4,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 1° Gendarmerie départementale :
 
--commandant en second de la section de recherches :
+-Commandant en second de la section de recherches :
 
 -d'Angers
 
@@ -38,7 +38,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Rouen
 
--commandant de l'escadron départemental de sécurité routière :
+-Commandant de l'escadron départemental de sécurité routière :
 
 -des Alpes-de-Haute-Provence
 
@@ -90,7 +90,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des Vosges
 
--commandant en second de l'escadron départemental de sécurité routière :
+-Commandant en second de l'escadron départemental de sécurité routière :
 
 -de l'Ain
 
@@ -116,7 +116,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la Corrèze
 
--des Côtes-d'Armor
+-des Côtes d'Armor
 
 -de Côte-d'Or
 
@@ -224,7 +224,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -des Yvelines
 
--commandant en second de la compagnie de gendarmerie départementale :
+-Commandant en second de la compagnie de gendarmerie départementale :
 
 -d'Abbeville
 
@@ -350,9 +350,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Cherbourg-en-Cotentin
 
--de Chinon
-
--de Cholet
+-de Chinon de Cholet
 
 -de Clermont
 
@@ -516,7 +514,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Mortagne-au-Perche
 
--de Moulins-de la Mure
+-de Moulins
+
+-de la Mure
 
 -de Neufchâteau
 
@@ -686,7 +686,9 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Valenciennes
 
--de la Valette du Var
+-de la Valette
+
+-du Var
 
 -de Vendôme
 
@@ -716,73 +718,123 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -d'Yvetot
 
--commandant d'une brigade départementale de renseignements et d'investigations judiciaires
+-Commandant d'une brigade départementale de renseignements et d'investigations judiciaires
 
--chef d'un centre d'opérations et de renseignement de la gendarmerie
+-Chef d'un centre d'opérations et de renseignement de la gendarmerie
 
--chef de centre d'opérations de la gendarmerie
+-Chef de centre d'opérations de la gendarmerie
 
--chef de détachement territorial au sein d'une section de recherche
+-Chef de détachement territorial au sein d'une section de recherche
 
--commandant d'un peloton de gendarmerie de montagne
+-Commandant d'un peloton de gendarmerie de montagne
 
--commandant d'un détachement de peloton de gendarmerie de haute montagne
+-Commandant d'un détachement de peloton de gendarmerie de haute montagne
 
--commandant d'une communauté de brigades territoriales
+-Commandant d'une communauté de brigades territoriales
 
--commandant d'une brigade de recherches
+-Commandant d'une brigade de recherches
 
--commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
+-Commandant en second de la compagnie fluviale de gendarmerie de Strasbourg
 
--commandant d'une brigade territoriale autonome
+-Commandant d'une brigade territoriale autonome
 
--commandant d'un peloton d'autoroute
+-Commandant d'un peloton d'autoroute
 
--commandant d'une brigade motorisée
+-Commandant d'une brigade motorisée
 
--commandant d'un peloton motorisé
+-Commandant d'un peloton motorisé
 
--commandant d'un peloton de surveillance et d'intervention gendarmerie
+-Commandant d'un peloton de surveillance et d'intervention gendarmerie
 
--commandant de la brigade numérique de Rennes
+-Commandant de la brigade numérique de Rennes
 
-2° Gendarmerie mobile-Garde républicaine :
+2° Gendarmerie mobile Garde républicaine :
 
--commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
+-Commandant d'un peloton d'intervention au sein d'un escadron de gendarmerie mobile
 
--commandant d'un peloton d'intervention de la garde républicaine (7 emplois)
+-Commandant d'un peloton d'intervention de la garde républicaine (7 emplois)
 
--commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
+-Commandant d'un peloton de marche au sein d'un escadron de gendarmerie mobile
 
--commandant d'un peloton de véhicules blindés
+-Commandant d'un peloton de véhicules blindés
 
--commandant de la compagnie de soutien opérationnel de la garde républicaine
+-Commandant de la compagnie de soutien opérationnel de la garde républicaine
 
--commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
+-Commandant de l'escadron de sécurité et d'appui du groupement blindé de gendarmerie mobile
 
--commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France
+-Commandant en second de la section d'appui judiciaire de la région de gendarmerie d'Ile-de-France
 
 3° Gendarmeries spécialisées :
 
--commandant en second de la section de recherche de la gendarmerie de l'air
+-Commandant de la section de recherches de la gendarmerie des voies navigables
 
--commandant en second de la section de recherche de la gendarmerie de l'armement
+-Commandant en second de la section de recherche de la gendarmerie de l'air
 
--commandant en second de la section de recherche de la gendarmerie maritime
+-Commandant en second de la section de recherche de la gendarmerie de l'armement
 
--commandant en second de la section de recherches de la gendarmerie des transports aériens
+-Commandant en second de la section de recherche de la gendarmerie maritime
 
--commandant en second d'une compagnie de gendarmerie maritime
+-Commandant en second de la section de recherches de la gendarmerie des transports aériens
 
--commandant en second d'une compagnie de la gendarmerie des transports aériens
+-Commandant en second d'une compagnie de gendarmerie maritime
 
--commandant en second d'une compagnie de la gendarmerie de l'armement
+-Commandant en second d'une compagnie de la gendarmerie des transports aériens
 
--commandement des forces aériennes de la gendarmerie :
+-Commandant en second d'une compagnie de la gendarmerie de l'armement
 
--commandant d'une section aérienne ou d'un détachement aérien de la gendarmerie (22 emplois)
+-Commandant en second d'une compagnie de la gendarmerie de l'air
 
--commandant de la brigade de gendarmerie des transports aériens de :
+-Commandement des forces aériennes de la gendarmerie :
+
+-Commandant de la section aérienne (13 emplois) :
+
+-d'Ajaccio
+
+-de Cayenne
+
+-de Chamonix-Mont-Blanc
+
+-de Digne-les-Bains
+
+-de Dijon-Longvic
+
+-Fort-de-France
+
+-Limoges
+
+-Mayotte
+
+-Nouméa
+
+-Pointe-à-Pitre
+
+-Saint-Denis
+
+-Toulouse
+
+-Tours
+
+-Commandant du détachement aérien de la gendarmerie (9 emplois) :
+
+-de Bayonne
+
+-de Briançon
+
+-de Colmar
+
+-d'Egletons
+
+-de Modane
+
+-de Montpellier
+
+-de Pamiers
+
+-de Saint-Nazaire
+
+-de Tarbes
+
+-Commandant de la brigade de gendarmerie des transports aériens de :
 
 -Bordeaux-Mérignac
 
@@ -790,17 +842,17 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -Marseille-Provence
 
--Nice-Côte d'Azur
+-Nice-Côte-d'Azur
 
--Paris-Charles-De-Gaulle un
+-Paris-Charles-De-Gaulle-Un
 
--Paris-Charles-De-Gaulle deux
+-Paris-Charles-De-Gaulle-Deux
 
--Paris-Charles-De-Gaulle fret
+-Paris-Charles-De-Gaulle-Fret
 
 -Paris-Orly
 
--commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
+-Commandant du peloton de surveillance et d'intervention gendarmerie des transports aériens de :
 
 -Paris-Charles-De-Gaulle
 
@@ -808,55 +860,33 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 4° Ecoles :
 
--chef d'une classe Prépa Talents de la gendarmerie nationale (4 emplois)
+-Chef d'une classe Prépa Talents de la gendarmerie nationale (4 emplois)
 
 5° Outre-mer :
 
--commandant en second de la compagnie de gendarmerie départementale :
+-Commandant en second de la compagnie de gendarmerie départementale :
 
--d'Archipels-Papeete
-
--de Fort-de-France
-
--des Iles-du-vent-Faaa
+-d'Archipels-Papeete de Fort-de-France des Iles-du-vent-Faaa
 
 -de Koné
 
--de Koungou
+-de Koungou de Kourou de La-Foa du Marin de Matoury du Moule de Nouméa de Pointe-à-Pitre
 
--de Kourou
+-de Saint-Benoît de Saint-Claude (Guadeloupe)
 
--de La-Foa
+-de Saint-Laurent-du-Maroni de Saint-Martin-Saint-Barthélemy de la Trinité
 
--du Marin
+-Chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
 
--de Matoury
-
--du Moule
-
--de Nouméa
-
--de Pointe-à-Pitre
-
--de Saint-Benoît
-
--de Saint-Claude (Guadeloupe)
-
--de Saint-Laurent-du-Maroni
-
--de Saint-Martin-Saint-Barthélemy
-
--de la Trinité
-
--chef d'état-major du commandement de la gendarmerie pour Wallis-et-Futuna
-
--commandant en second de la section de recherches :
+-Commandant en second de la section de recherches :
 
 -de Cayenne
 
 -de Fort-de-France
 
--de Mamoudzou-de Nouméa
+-de Mamoudzou
+
+-de Nouméa
 
 -de Papeete
 
@@ -864,74 +894,130 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de Saint-Denis
 
--commandant d'une brigade de renseignements et d'investigations judiciaires
+-Commandant d'une brigade de renseignements et d'investigations judiciaires
 
--chef du service départemental de renseignement territorial de Cayenne
+-Chef du service départemental de renseignement territorial de Cayenne
 
 6° Autres emplois :
 
--commandant en second de la gendarmerie des voies navigables
+-Commandant en second de la gendarmerie des voies navigables
 
--commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
+-Commandant de la compagnie de sécurité du commandement du soutien opérationnel de la gendarmerie nationale au Blanc
 
--commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-sous-Bois
+-Commandant de la compagnie de sécurité du groupement de sécurité et d'appui de Rosny-Sous-Bois
 
--commandant de la compagnie de sécurité et d'accueil du camp de Beynes
+-Commandant de la compagnie de sécurité et d'accueil du camp de Beynes
 
--commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-Commandant de la compagnie de soutien opérationnel du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
--commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
+-Commandant de compagnie de sûreté et de sécurité du groupement de sécurité et d'appui d'Issy-les-Moulineaux
 
--chef d'un service expert ressources humaines
+-Chef d'un service expert ressources humaines
 
--chef de service de permanence au sein du cabinet du Premier ministre
+-Chef de service de permanence au sein du cabinet du Premier ministre
 
--aide de camp du secrétariat général de la défense et de la sécurité nationale (1 emploi)
+-Aide de camp du secrétariat général de la défense et de la sécurité nationale (1 emploi)
 
--officier de liaison au centre de préparation et de conduite des opérations de l'état-major des armées (1 emploi)
+-Officier de liaison au centre de préparation et de conduite des opérations de l'état-major des armées (1 emploi)
 
--conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi)
+-Conseiller technique et chef de cabinet au secrétariat général du ministère de la transition écologique (1 emploi)
 
--chef de la mission protection du ministère de la transition écologique (1 emploi)
+-Chef de la mission protection du ministère de la transition écologique (1 emploi)
 
--officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois)
+-Officier de liaison au département de la sécurité nucléaire au ministère de la transition écologique (2 emplois)
 
--conseiller technique à la division de la sûreté générale du ministère de l'Europe et des affaires étrangères (1 emploi)
+-Conseiller technique à la division de la sûreté générale du ministère de l'Europe et des affaires étrangères (1 emploi)
 
--conseiller PSDC et OPEX à la direction des affaires européennes et internationales du ministère de l'intérieur (1 emploi)
+-Conseiller PSDC et OPEX à la direction des affaires européennes et internationales du ministère de l'intérieur (1 emploi)
 
--officier de liaison à la sous-direction défense technologie prolifération de la direction générale des relations internationales et de la stratégie (1 emploi)
+-Officier de liaison à la sous-direction défense technologie prolifération de la direction générale des relations internationales et de la stratégie (1 emploi)
 
--chargé de mission sécurité au cabinet de la direction générale des outre-mer (1 emploi)
+-Chargé de mission sécurité au cabinet de la direction générale des outre-mer (1 emploi)
 
--officier analyste au centre de veille du cabinet du ministère de l'intérieur (2 emplois)
+-Officier analyste au centre de veille du cabinet du ministère de l'intérieur (2 emplois)
 
--officier de liaison au cabinet du ministère de l'éducation nationale (1 emploi)
+-Officier de liaison au cabinet du ministère de l'éducation nationale (1 emploi)
 
--officier de liaison auprès du haut fonctionnaire de défense et de sécurité du ministère de l'éducation nationale, de la jeunesse et des sports (1 emploi)
+-Officier de liaison auprès du haut fonctionnaire de défense et de sécurité du ministère de l'éducation nationale, de la jeunesse et des sports (1 emploi)
 
--officier de liaison en charge de la prévention de la radicalisation du ministère des sports (1 emploi)
+-Officier de liaison en charge de la prévention de la radicalisation du ministère des sports (1 emploi)
 
--officier de liaison auprès d'une préfecture maritime (3 emplois)
+-Officier de liaison auprès d'une préfecture maritime (3 emplois)
 
--chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale
+-Chef de l'unité d'investigations et d'identification à l'institut de recherche criminelle de la gendarmerie nationale
 
--commandant de la compagnie de sécurité et d'appui de l'école des officiers de la gendarmerie nationale
+-Commandant de la compagnie de sécurité et d'appui de l'école des officiers de la gendarmerie nationale
 
--officier de liaison à la direction interministérielle de la transformation publique (1 emploi)
+-Officier de liaison à la direction interministérielle de la transformation publique (1 emploi)
 
--chef de section de l'école spéciale militaire de Saint-Cyr Coëtquidan (3 emplois)
+-Chef de section de l'école spéciale militaire de Saint-Cyr Coëtquidan (3 emplois)
 
--commandant d'une compagnie de l'Ecole Polytechnique (2 emplois)
+-Commandant d'une compagnie de l'Ecole Polytechnique (2 emplois)
 
--officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois)
+-Officier de liaison à la direction des libertés publiques et des affaires juridiques du ministère de l'intérieur (2 emplois)
 
--officier rapporteur à la commission des recours des militaires (3 emplois)
+-Officier rapporteur à la commission des recours des militaires (3 emplois)
 
--officier de liaison affecté au comité interministériel de prévention de la délinquance et de la radicalisation (1 emploi)
+-Officier de liaison affecté au comité interministériel de prévention de la délinquance et de la radicalisation (1 emploi)
 
--officier de liaison, adjoint au chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
+-Officier de liaison, adjoint au chef du secteur sécurité de l'espace européen du secrétariat général des affaires européennes (1 emploi)
 
--chef de l'antenne de l'inspection générale de la gendarmerie nationale de Montpellier
+-Chef de l'antenne de l'inspection générale de la gendarmerie nationale de Montpellier
 
--directeur d'un cercle mixte de gendarmerie (25 emplois)
+-Commandant de la section de recherches prévôtales
+
+-Directeur du cercle mixte de gendarmerie de (25 emplois) :
+
+-Beynes
+
+-Bordeaux
+
+-Châteaulin
+
+-Chaumont
+
+-Dijon
+
+-de l'école de gendarmerie de Dijon
+
+-Dugny
+
+-Fontainebleau
+
+-Issy-Les-Moulineaux
+
+-Le Blanc
+
+-Les Célestins
+
+-Lille
+
+-Maisons-Alfort
+
+-Melun
+
+-Metz
+
+-Montluçon
+
+-Nanterre
+
+-Rennes
+
+-Rochefort
+
+-Rosny-sous-Bois
+
+-Saint-Astier
+
+-Sathonay-Camp
+
+-Satory
+
+-Tournon
+
+-Tulle
+
+NOTA :
+
+Conformément à l’article 2 de l’arrêté du 27 juillet 2022 (NOR : IOMJ2222025A), ces dispositions entrent en vigueur le 1er août 2022.
