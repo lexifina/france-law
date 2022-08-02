@@ -1,0 +1,119 @@
+# Financement de la sécurité sociale pour 2023
+
+- Procédure : Projet de loi de financement de la sécurité sociale
+- Législature : 16
+- Identifiant : DLR5L16N46347
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/securite_sociale_2023
+- Sénat : http://www.senat.fr/dossier-legislatif/plfss2023.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-09-26 : 1er dépôt d'une initiative. (PRJLANR5L16B0274)
+  - 2022-09-26 : Etude d'impact (ETDIANR5L16B0274)
+  - 2022-10-20 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B0274-N0)
+  - 2022-10-26 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B0274-N1)
+  - 2022-10-20 : Motion de censure
+  - 2022-10-27 : Motion de censure
+  - 2022-10-27 : Motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-09-26 : Renvoi en commission au fond
+      - 2022-08-02 : Nomination de rapporteur
+      - 2022-08-02 : Réunion de commission
+      - 2022-08-02 : Réunion de commission
+      - 2022-10-10 : Réunion de commission
+      - 2022-10-10 : Réunion de commission
+      - 2022-10-11 : Réunion de commission
+      - 2022-10-11 : Réunion de commission
+      - 2022-10-12 : Réunion de commission
+      - 2022-10-12 : Réunion de commission
+      - 2022-10-12 : Réunion de commission
+      - 2022-10-20 : Réunion de commission
+      - 2022-10-13 : Dépôt de rapport (RAPPANR5L16B0339)
+    - Travaux d'une commission saisie pour avis
+      - 2022-09-26 : Saisine pour avis d'une commission
+      - 2022-08-03 : Nomination de rapporteur
+      - 2022-10-12 : Réunion de commission
+      - 2022-10-12 : Dépôt de rapport (AVISANR5L16B0336)
+  - Discussion en séance publique
+    - 2022-10-20 : Discussion en séance publique
+    - 2022-10-20 : Discussion en séance publique
+    - 2022-10-24 : Discussion en séance publique
+    - 2022-10-25 : Discussion en séance publique
+    - 2022-10-25 : Discussion en séance publique
+    - 2022-10-26 : Discussion en séance publique
+    - 2022-10-26 : Discussion en séance publique
+    - 2022-10-31 : Discussion en séance publique
+    - 2022-10-31 : Discussion en séance publique
+    - 2022-10-24 : Décision sur une motion de censure
+    - 2022-10-31 : Décision sur une motion de censure
+    - 2022-10-31 : Décision sur une motion de censure
+    - 2022-10-31 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-10-31 : Dépôt d'une initiative en navette (PRJLSNR5S399B0096)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-10-31 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-11-02 : Dépôt de rapport (RAPPSNR5S399B0099)
+  - Discussion en séance publique
+    - 2022-11-15 : Discussion en séance publique
+    - 2022-11-15 : Décision
+- Commission Mixte Paritaire
+  - 2022-11-15 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-11-15 : Nomination de rapporteur
+    - 2022-11-15 : Dépôt du rapport d'une CMP (RAPPANR5L16B0481)
+    - 2022-11-16 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0126, PRJLSNR5S399BTC0127)
+  - 2022-11-15 : Décision de la CMP
+- Nouvelle Lecture
+  - 2022-11-15 : Dépôt d'une initiative en navette (PRJLANR5L16B0480)
+  - 2022-11-21 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B0480-N0)
+  - 2022-11-25 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B0480-N1)
+  - 2022-11-22 : Motion de censure
+  - 2022-11-25 : Motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-11-15 : Renvoi en commission au fond
+      - 2022-11-17 : Réunion de commission
+      - 2022-11-17 : Réunion de commission
+      - 2022-11-21 : Réunion de commission
+      - 2022-11-17 : Dépôt de rapport (RAPPANR5L16B0500)
+  - Discussion en séance publique
+    - 2022-11-21 : Discussion en séance publique
+    - 2022-11-25 : Discussion en séance publique
+    - 2022-11-25 : Discussion en séance publique
+    - 2022-11-28 : Discussion en séance publique
+    - 2022-11-25 : Décision sur une motion de censure
+    - 2022-11-28 : Décision sur une motion de censure
+    - 2022-11-28 : Décision
+- Nouvelle Lecture
+  - 2022-11-28 : Dépôt d'une initiative en navette (PRJLSNR5S399B0145)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-11-28 : Renvoi en commission au fond
+      - 2022-11-29 : Dépôt de rapport (RAPPSNR5S399B0146)
+  - Discussion en séance publique
+    - 2022-11-29 : Discussion en séance publique
+    - 2022-11-29 : Décision
+- Lecture définitive
+  - 2022-11-29 : Dépôt d'une initiative en navette (PRJLANR5L16BTA0036)
+  - 2022-11-30 : Dépôt d'une déclaration du gouvernement (DECLANR5L16B0587-N0)
+  - 2022-11-30 : Motion de censure
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-11-29 : Renvoi en commission au fond
+  - Discussion en séance publique
+    - 2022-11-30 : Discussion en séance publique
+    - 2022-11-30 : Discussion en séance publique
+    - 2022-12-02 : Discussion en séance publique
+    - 2022-12-02 : Décision sur une motion de censure
+    - 2022-12-02 : Décision
+- Conseil constitutionnel
+  - 2022-12-05 : Saisine du conseil constitutionnel
+  - 2022-12-06 : Saisine du conseil constitutionnel
+  - 2022-12-06 : Saisine du conseil constitutionnel
+  - 2022-12-20 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-12-23 : Promulgation d'une loi
