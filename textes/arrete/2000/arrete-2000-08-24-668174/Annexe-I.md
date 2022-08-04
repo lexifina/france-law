@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Contenu du dossier de candidature à l'emploi d'adjoint de sécurité :
+Contenu du dossier de candidature à l'emploi de policier adjoint :
 
 - fiche de candidature à retirer auprès d'un commissariat situé dans le département du choix du candidat ;
 

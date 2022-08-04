@@ -1,243 +1,209 @@
 # Article Annexe III
 
-PROGRAMME DE LA SCOLARITÉ DES ADJOINTS DE SÉCURITÉ
+ANNEXE III
 
-I. ― Les fondamentaux
+PROGRAMME DE SCOLARITÉ DES POLICIERS ADJOINTS
 
-Fondamentaux 1 : relatifs à l'institution :
+I.-Les fondamentaux
 
-― les ateliers de l'incorporation ;
+Relatifs à l'Institution :
 
-― les ressources de l'école et ses normes de fonctionnement ;
+-les formalités d'incorporation ;
 
-― l'organisation et le découpage de la scolarité des ADS ;
+-les ressources de l'école et ses normes de fonctionnement ;
 
-― l'utilisation des notes de cours ;
+-l'organisation et le découpage de la scolarité des policiers adjoints ;
 
-― les corps, grades et marques de respect ;
+-les méthodologies de prise de notes et de révisions ;
 
-― les mouvements d'ordre serré ;
+-le formalisme du rapport administratif ;
 
-― les services chargés des missions de sécurité ;
+-les différents corps et grades de la Police nationale ;
 
-― l'organisation et les missions de la police nationale ;
+-les règles inhérentes aux marques extérieures de respect ;
 
-― l'organisation d'une circonscription de sécurité publique ;
+-les mouvements d'ordre serré propres à l'activité du policier adjoint ;
 
-― la rédaction d'un rapport administratif ;
+-l'organisation et les missions de la police nationale ;
 
-― les règles générales d'emploi des ADS ;
+-les règles générales d'emploi des policiers adjoints ;
 
-― les règles relatives à la déontologie policière ;
+-les principes fondamentaux des libertés publiques ;
 
-― les caractéristiques du facteur humain en intervention ;
+-les règles déontologiques inhérentes à la profession de policier ;
 
-― les causes, mécanismes et conséquences du stress ;
+-les règles d'utilisation des réseaux sociaux en respect des dispositions du code de la sécurité intérieure ;
 
-― les stratégies relationnelles adaptées ;
+-l'identité policière au travers des valeurs véhiculées par l'Histoire ;
 
-― les dynamiques de groupes dans le cadre des relations professionnelles et des relations avec la population ;
+-la mission de protection des locaux de police par l'identification des principales situations anormales ou dangereuses.
 
-― réagir face aux détresses ; .
+Relatifs aux bases juridiques :
 
-― les fondements démocratiques ;
+-la définition de l'infraction et de ses éléments constitutifs ;
 
-― les différents syndicats.
+-le principe de la classification tripartite des infractions et l'incidence des circonstances aggravantes ;
 
-Fondamentaux 2 : relatifs aux principes de droit pénal général :
+-l'organisation des juridictions pénales ;
 
-― les éléments constitutifs de l'infraction ;
+-la tentative et la complicité ;
 
-― la classification tripartite des infractions ;
+-la notion de flagrance et l'enquête de flagrant délit ;
 
-― la tentative punissable ;
+-les autres cadres juridiques ;
 
-― les règles d'utilisation du code pénal ;
+-les différentes qualifications judiciaires des policiers ;
 
-― les différentes qualifications judiciaires du policier ;
+-le cadre légal de l'usage des armes par les forces de l'ordre.
 
-― l'organisation judiciaire de la France ;
+Relatifs à la dimension humaine du policier :
 
-― la légitime défense.
+-le fonctionnement intellectuel et émotionnel en intervention ;
 
-Fondamentaux 3 : relatifs aux techniques d'intervention :
+-les causes, les mécanismes et les conséquences du stress sur l'individu et l'équipe ;
 
-― les éléments de prise de décision préalables à l'intervention ;
+-les principes de la communication en intégrant les mécanismes et phénomènes de groupe ;
 
-― le principe de protection, liaison, interpellation ;
+-la coordination au sein d'une équipe de police.
 
-― la palpation de sécurité ;
+II.-Les situations professionnelles
 
-― le menottage.
+Situation 1 : contribuer à la relation police-population :
 
-Fondamentaux 4 : relatifs au secourisme :
+-l'attente des usagers en matière de relation police/ population ;
 
-― les gestes techniques de protection ;
+-les modalités de prise en compte des différentes catégories d'usagers se présentant à l'accueil d'un service de police ;
 
-― la procédure d'alerte ;
+-les matériels individuels et collectifs utiles lors d'une patrouille ;
 
-― les techniques liées à une victime qui s'étouffe ;
+-les règles de prise en compte d'un véhicule de service ;
 
-― les techniques liées à une victime saignant abondamment ;
+-les moyens radioélectriques, présentation et fonctionnalités ;
 
-― les techniques liées à une victime inconsciente respirant ;
+-les règles d'emploi et les principes de la procédure des moyens radioélectriques ;
 
-― les techniques liées à une victime inconsciente ne respirant pas ;
+-les ressources disponibles sur le terminal NEO ;
 
-― le questionnement lié à une victime qui se plaint.
+-l'intérêt opérationnel et juridique du port de la caméra piéton ;
 
-II. ― Les situations professionnelles
+-les règles légales et modalités tactiques d'utilisation de la caméra piéton ;
 
-Situation 1 : accueillir le public :
+-le signalement descriptif ;
 
-― la situation d'accueil au commissariat ;
+-la patrouille pédestre et la patrouille portée ;
 
-― les différentes catégories de publics ;
+-les risques liés à la conduite des véhicules de service ;
 
-― les principes d'une communication interpersonnelle ;
+-le cadre légal du relevé/ contrôle/ vérification d'identité ;
 
-― les différents formulaires et registres ;
+-l'impact des attitudes discriminatoires, des points de vue déontologique, humain et réglementaire ;
 
-― les principes d'une communication téléphonique efficace ;
+-l'influence des pratiques religieuses sur l'activité policière et le caractère fondamental du principe de laïcité ;
 
-― les tests de discrimination à l'encontre d'une personne ;
+-le rôle du policier adjoint dans le déploiement de la sécurité du quotidien ;
 
-― les services partenaires et leurs compétences ;
+-le protocole d'intervention relatif à la découverte d'un objet suspect ;
 
-― la gestion des conflits et du stress.
+-l'action des différents partenaires intervenant sur un sinistre ;
 
-Situation 2 : effectuer une patrouille :
+-le policier adjoint, capteur de renseignement ;
 
-― les différents types de patrouille ;
+-les indicateurs de radicalisation d'un individu aux fins de transmission de l'information ;
 
-― les moyens radioélectriques ;
+-le rapport d'information.
 
-― les principaux fichiers ;
+Situation 2 : procéder à une interpellation :
 
-― les compétences des ADS en matière de circulation routière ;
+-les infractions de destruction, dégradation ou détérioration d'un bien ;
 
-― les infractions au stationnement ;
+-les cas de rétention dans les locaux de police et les mesures de sécurité et fouilles judiciaires associées ;
 
-― le signalement descriptif ;
+-le transport à bord d'un véhicule de police d'un ou plusieurs individus ;
 
-― l'activité partenariale ;
+-la préservation des traces et indices ;
 
-― la rédaction d'un rapport d'information ;
+-les éléments constitutifs de la violation de domicile au travers de l'étude des cas légaux d'introduction ;
 
-― les principales substances psychoactives et leurs effets ;
+-la conduite à tenir lors de la prise en charge d'un individu en état d'ivresse publique et manifeste (IPM) ;
 
-― la notion de discernement dans la conduite des véhicules ;
+-les éléments constitutifs de l'outrage et de la rébellion.
 
-― la prise en charge d'un individu en état d'ivresse ;
+Situation 3 : intervenir dans une situation de violences intra-familiales :
 
-― les gestes techniques adaptés à l'interpellation d'un piéton ;
+-l'approche relationnelle adaptée vis-à-vis des victimes et des auteurs de violences intrafamiliales ;
 
-― le transport d'un ou plusieurs individus à bord d'un véhicule de police ;
+-les éléments constitutifs des violences et des atteintes volontaires à la vie ;
 
-― le relevé, le contrôle et la vérification d'identité ;
+-les infractions à caractère sexuel et leurs éléments constitutifs ;
 
-― la découverte d'un objet suspect ;
+-les comportements professionnels adaptés à une situation de violence sexuelle ou sexiste ;
 
-― la rédaction d'une main courante ;
+-l'action des acteurs sociaux dans le dispositif de lutte contre les violences intrafamiliales.
 
-― l'impact des préjugés et des stéréotypes.
+Situation 4 : contribuer à la mission de sécurité routière :
 
-Situation 3 : participer aux missions de sécurité routière :
+-les gestes techniques d'interception d'un véhicule lors d'une patrouille pédestre ou d'un point fixe ;
 
-― la découverte de la situation professionnelle relative à la circulation routière ;
+-les outils permettant l'identification des infractions routières ;
 
-― le cadre légal du contrôle routier ;
+-le cadre légal et les formes procédurales liées aux constatations des infractions au code de la route ;
 
-― les conditions de mise en fourrière d'un véhicule ;
+-les gestes techniques d'interception d'un véhicule lors d'une patrouille portée ;
 
-― les gestes techniques d'interception d'un véhicule lors d'une patrouille pédestre ;
+-les pièces afférentes à la conduite et à la circulation des véhicules ;
 
-― les règles d'utilisation du code de la route ;
+-la fiche d'immobilisation et la procédure de mise en fourrière ;
 
-― les différentes pièces afférentes à la conduite et à la circulation des véhicules ;
+-la procédure de l'amende forfaitaire ;
 
-― les infractions liées à la conduite et aux équipements des véhicules ;
+-les infractions liées à la conduite d'un véhicule sous l'effet de l'alcool et/ ou des stupéfiants en mettant en œuvre les moyens de dépistages ;
 
-― la rédaction des procès-verbaux simplifiés de couleur rose ;
+-les principales substances vénéneuses et leurs effets ;
 
-― les modalités de mise en œuvre de l'amende forfaitaire ;
+-l'action du policier adjoint lors d'une intervention sur un accident de voie publique ;
 
-― les différents moyens lumineux et leurs règles d'utilisation ;
+-les modalités de sécurisation des lieux d'un accident de voie publique ;
 
-― les gestes techniques d'interception d'un véhicule lors d'une patrouille portée ;
+-les gestes techniques d'interception d'un véhicule ayant à son bord un ou plusieurs individus dangereux.
 
-― la rédaction du procès-verbal de couleur jaune en matière de vitesse ;
+Les apprentissages complémentaires :
 
-― le dépistage de l'imprégnation alcoolique ;
+-la conduite à tenir lors d'une intervention auprès d'une personne ne jouissant pas de toutes ses facultés mentales ;
 
-― les infractions liées à l'alcoolémie ;
+-le contact avec la mort en situation professionnelle ;
 
-― le formulaire d'immobilisation ;
+-la posture professionnelle adaptée à la prise en compte des victimes et des publics vulnérables ;
 
-― les conditions d'intervention sur un accident de la circulation ;
+-la maltraitance animale ;
 
-― le contact de la mort en situation professionnelle.
+-les mesures à observer par le policier adjoint en cas de tuerie de masse ;
 
-Situation 4 : interpeller un individu :
+-les techniques de sécurité en intervention en milieu confiné.
 
-― la découverte des protocoles d'action relatifs à l'interpellation d'un individu ;
+III.-Les autres disciplines-activités physiques et professionnelles
 
-― les principaux cadres d'enquête ;
+-les manipulations et le tir ;
 
-― la notion de flagrance ;
+-l'armement ;
 
-― les compétences judiciaires des OPJ et APJ ;
+-les techniques de défense en intervention ;
 
-― les cas de rétention à caractère judiciaire ;
+-la préparation physique du policier.
 
-― les éléments constitutifs des destructions, dégradations et détériorations ;
+IV.-La formation informatique
 
-― les éléments constitutifs de l'infraction de tag (graffiti) ;
+-les règles d'utilisation de l'informatique dans la police nationale ;
 
-― la mise en œuvre d'une progression ;
+-l'intranet du ministère de l'Intérieur et les ressources disponibles ;
 
-― la rédaction d'un rapport d'information suite à une interpellation ;
+-le e-campus de la police nationale, présentation, fonctionnalités et ressources disponibles ;
 
-― les éléments constitutifs du vol ;
+-la main courante ;
 
-― les conduites à tenir relatives à la préservation des traces et indices ;
+-le logiciel de rédaction procédurale ;
 
-― les règles d'utilisation du code de procédure pénale ;
+-le procès-verbal électronique ;
 
-― les éléments constitutifs des violences volontaires ;
+-les fichiers de police ;
 
-― la conduite à tenir vis-à-vis des malades mentaux ;
-
-― les éléments constitutifs de l'outrage et de la rébellion ;
-
-― la mise en œuvre des gestes techniques d'interception d'un véhicule ayant à son bord un ou plusieurs individus dangereux ;
-
-― les violences intrafamiliales ;
-
-― la mise en œuvre des gestes techniques liés à une intervention sur un différend dans un lieu privé.
-
-III. Les autres disciplines-activités physiques et professionnelles :
-
-― les manipulations et le tir ;
-
-― l'armement ;
-
-― les techniques de défense en intervention ;
-
-― la préparation physique du policier.
-
-IV. - La formation informatique :
-
-― les règles de l'utilisation de l'informatique dans la police nationale ;
-
-― l'intranet du ministère de l'intérieur ;
-
-― l'application LRPPN ;
-
-― la main courante informatisée ;
-
-― les fichiers de police informatisés ;
-
-― révisions ;
-
-― évaluation école (utilisation pratique des logiciels).
+-le premier niveau de sensibilisation à la lutte contre la cybercriminalité.
