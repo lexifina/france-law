@@ -120,6 +120,8 @@ Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRE
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 3 dudit arrêté.
 
+Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté.
+
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France métropolitaine) / Fiche d’opération standardisée n° BAT-TH-134
 
 -Système de régulation sur un groupe de production de froid permettant d’avoir une haute pression flottante (France d’outre-mer) / Fiche d’opération standardisée n° BAT-TH-135
@@ -162,7 +164,7 @@ Conformément à l’article 2 de de l’arrêté du 31 juillet 2019 (NOR : TRER
 
 -Pompe à chaleur réversible de type air/air / Fiche d’opération standardisée n° BAT-TH-158
 
-Conformément à l’article 1er de l’arrêté du 26 janvier 2022 (NOR : TRER2202916A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté.
+Conformément à l’article 1er de l’arrêté du 26 janvier 2022 (NOR : TRER2202916A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe dudit arrêté, à compter du 1er septembre 2022.
 
 -Raccordement d’un bâtiment tertiaire à un réseau de froid / Fiche d’opération standardisée n° BAT-TH-159
 
@@ -208,6 +210,8 @@ Conformément à l’article 7 de l’arrêté du 22 décembre 2015 (NOR : DEVR1
 
 Liens :
 
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0178 du 03/08/2022, texte n° 40, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=oQu3Y-LjnZuzins8OYKWD9e28XWm-Rn2rXJfi6SAZBY=
+
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0025 du 30/01/2022, texte n° 4, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=9om9gBs9-ut8a9bWqWwfqkmtqoLOiPab_gT-xvWbPuE=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0301 du 28/12/2021, texte n° 7, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=3h1kFMmEC5Sa8YLxD0_ESaLQUj7RVu-69Zl-EasUOEI=
@@ -249,3 +253,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), ces dispositions s'appliquent aux opérations engagées à compter du 1er septembre 2022.

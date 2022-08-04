@@ -138,6 +138,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER2020386A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 2 dudit arrêté.
 
+Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er septembre 2022.
+
 - Système de variation électronique de vitesse sur une pompe / Fiche d’opération standardisée n°BAR-TH-139
 
 Conformément à l’article 5 de du 20 octobre 2016 (NOR : DEVR1627593A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 4 dudit arrêté.
@@ -220,7 +222,7 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Dispositif d’affichage et d’interprétation des consommations pour un logement chauffé à l’électricité / Fiche d’opération standardisée n° BAR-EQ-113 (Abrogée à compter du 1er janvier 2019)
 
-- Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible / Fiche d’opération standardisée n° BAR-EQ-114 (Abrogée à compter du 1er janvier 2019)
+- Dispositif d’affichage et d’interprétation des consommations d’énergie pour un logement chauffé au combustible / Fiche d’opération standardisée n° AR-EQ-114 (Abrogée à compter du 1er janvier 2019)
 
 - Dispositif d’affichage et d’interprétation des consommations d’énergie / Fiche d’opération standardisée n° BAR-EQ-115
 
@@ -233,6 +235,8 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 - Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
 
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0178 du 03/08/2022, texte n° 40, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=oQu3Y-LjnZuzins8OYKWD9e28XWm-Rn2rXJfi6SAZBY=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0060 du 12/03/2022, texte n° 5, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=XYSapO88DEipMnFq20QwVfCwQ8RhV7Mt8a-smbCOZxc=
 
@@ -289,3 +293,9 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), la fiche d'opération standardisée d'économies d'énergie figurant à l'annexe A du présent arrêté remplace la fiche d'opération standardisée portant la même référence figurant à l'annexe 2 de l'arrêté du 22 décembre 2014 susvisé.
+
+Conformément à l’article 4 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), ces dispositions s'appliquent aux opérations engagées à compter du 1er septembre 2022.
