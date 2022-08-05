@@ -2,7 +2,7 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRE DES ARMÉES)
 
-A.-Centre ministériel de gestion d'Arcueil
+A-Centre ministériel de gestion d'Arcueil
 
 Catégorie de personnel |
 
@@ -16,11 +16,13 @@ Paris |
 
 Paris |
 
-Officiers généraux d'administration centrale |
+Officiers généraux de première section |
 
 Tous départements |
 
-Paris |
+Paris à compter
+
+du 1er septembre 2022 |
 
 Officiers généraux de 2e section effectuant des vacations |
 
@@ -106,7 +108,7 @@ Tous départements |
 
 Paris |
 
-B.-Centre ministériel de gestion de Bordeaux
+B-Centre ministériel de gestion de Bordeaux
 
 Catégorie de personnel |
 
@@ -142,11 +144,9 @@ Assistantes du service social et personnel civil affecté au service de l'action
 
 Tous départements |
 
-Gironde
+Gironde |
 
-à compter du 1er juin 2022 |
-
-C.-Centre ministériel de gestion de Metz
+C-Centre ministériel de gestion de Metz
 
 Catégorie de personnel |
 
@@ -166,7 +166,7 @@ Tous départements |
 
 Paris |
 
-D.-Centre ministériel de gestion de Rennes
+D-Centre ministériel de gestion de Rennes
 
 Catégorie de personnel |
 
@@ -192,7 +192,7 @@ Ain, Finistère, Morbihan |
 
 Gironde |
 
-E.-Centre ministériel de gestion de Saint-Germain-en-Laye
+E-Centre ministériel de gestion de Saint-Germain-en-Laye
 
 Catégorie de personnel |
 
@@ -248,7 +248,7 @@ Djibouti, Dakar |
 
 Gironde |
 
-F.-Centre ministériel de gestion de Toulon
+F-Centre ministériel de gestion de Toulon
 
 Catégorie de personnel |
 
@@ -274,7 +274,21 @@ Tous départements |
 
 Ille-et-Vilaine |
 
-G.-Directions des commissariats outre-mer
+G-Naval Group
+
+Catégorie de personnel |
+
+Service ou département d'affectation |
+
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+
+Personnel à statut ouvrier mis à disposition de l'entreprise Naval Group |
+
+Toutes affectations |
+
+Ille-et-Vilaine |
+
+H-Directions des commissariats outre-mer
 
 Catégorie de personnel |
 
@@ -294,7 +308,7 @@ La Réunion |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
+La Réunion |
 
 NOTA :
 

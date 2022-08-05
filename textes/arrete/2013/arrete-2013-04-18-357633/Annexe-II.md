@@ -2,7 +2,7 @@
 
 ASSIGNATIONS COMPTABLES PARTICULIÈRES DES DÉPENSES DE RÉMUNÉRATION DES PERSONNELS DE L'ÉTAT (MINISTÈRES CIVILS)
 
-A.-Ministère de l'Europe et des affaires étrangères
+A-Ministère de l'Europe et des affaires étrangères
 
 Catégorie de personnel |
 
@@ -12,7 +12,7 @@ Personnels en fonctions sur le territoire national |
 
 Étranger |
 
-B.-Ministère de la culture
+B-Ministère de la culture
 
 Catégorie de personnel |
 
@@ -30,7 +30,7 @@ Personnels des Écoles Normales Supérieures d'Architecture |
 
 Paris |
 
-C.-Ministère de l'agriculture et de l'alimentation
+C-Ministère de l'agriculture et de la souveraineté alimentaire
 
 Catégorie de personnels |
 
@@ -48,9 +48,9 @@ Ingénieurs des ponts, des eaux et des forêts relevant du centre interministér
 
 Hauts-de-Seine |
 
-D.-Ministère de l'éducation nationale, de la jeunesse et des sports et ministère de l'enseignement supérieur, de la recherche et de l'innovation
+D-Ministère de l'éducation nationale et de la jeunesse, ministère de l'enseignement supérieur et de la recherche, ministère des sports, des jeux Olympiques et Paralympiques
 
-1° Enseignement :
+1° Enseignement
 
 Population ou région académique (académie) |
 
@@ -176,7 +176,7 @@ Seine-Saint-Denis |
 
 Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne (personnels de l'enseignement supérieur rémunérés sur le budget général de l'État et gérés par le rectorat de l'académie de Créteil) |
 
-Val-de Marne à compter du 1er janvier 2022 |
+Val-de Marne |
 
 |
 
@@ -194,7 +194,9 @@ Yvelines |
 
 Service interacadémique des examens et concours d'Arcueil |
 
-Paris |
+Seine-Saint-Denis à compter
+
+du 1er octobre 2022 |
 
 La Réunion |
 
@@ -264,7 +266,7 @@ Alpes-Maritimes, Var |
 
 Alpes-Maritimes |
 
-2° Jeunesse, engagement et sports :
+2° Jeunesse et sports
 
 Population |
 
@@ -334,9 +336,9 @@ Autres affectations |
 
 Se reporter au tableau mentionné au 1° |
 
-E.-Ministère de l'économie, des finances et de la relance
+E-Ministère de l'économie, des finances et de la souveraineté industrielle et numérique
 
-1° Direction générale de la concurrence de la consommation et de la répression des fraudes :
+1° Direction générale de la concurrence de la consommation et de la répression des fraudes
 
 Service ou catégorie de personnel |
 
@@ -354,7 +356,7 @@ Personnels affectés au Service commun des laboratoires des ministères économi
 
 Hauts-de-Seine |
 
-2° Direction générale des douanes et droits indirects :
+2° Direction générale des douanes et droits indirects
 
 Service ou catégorie de personnel |
 
@@ -436,7 +438,7 @@ Personnels affectés au Service commun des laboratoires des ministères économi
 
 Hauts-de-Seine |
 
-3° Direction générale des finances publiques :
+3° Direction générale des finances publiques
 
 Service ou catégorie de personnel |
 
@@ -632,7 +634,9 @@ Eure |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Eure-et-Loir |
 
@@ -830,7 +834,9 @@ Oise |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Orne |
 
@@ -842,7 +848,9 @@ Pas-de-Calais |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Puy-de-Dôme |
 
@@ -926,7 +934,9 @@ Seine-Maritime |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Seine-et-Marne |
 
@@ -938,7 +948,9 @@ Yvelines |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Deux-Sèvres |
 
@@ -950,7 +962,9 @@ Somme |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Tarn |
 
@@ -1022,7 +1036,9 @@ Hauts-de-Seine |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Seine-Saint-Denis |
 
@@ -1040,7 +1056,9 @@ Val-d'Oise |
 
 Arras |
 
-Somme |
+Puy-de-Dôme à compter
+
+du 1er octobre 2022 |
 
 Guadeloupe |
 
@@ -1064,9 +1082,7 @@ Mayotte |
 
 Clermont-Ferrand |
 
-Puy-de-Dôme à compter du
-
-1er janvier 2022 |
+Puy-de-Dôme |
 
 La Réunion |
 
@@ -1118,17 +1134,17 @@ Noisy-le-Grand |
 
 Paris |
 
-Direction des vérifications nationales et internationales (Pantin) |
-
-Noisy-le-Grand |
-
-Paris |
-
 Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
 Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+
+Direction des vérifications nationales et internationales (Pantin) |
+
+Noisy-le-Grand |
+
+Paris |
 
 École nationale des finances publiques |
 
@@ -1224,17 +1240,17 @@ Saint-Brieuc |
 
 Ille-et-Vilaine |
 
-Services de contrôle budgétaire et comptable ministériels |
-
-Noisy-le-Grand |
-
-Paris |
-
 Service ou catégorie de personnel |
 
 Centre de services de ressources humaines |
 
 Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+
+Services de contrôle budgétaire et comptable ministériels |
+
+Noisy-le-Grand |
+
+Paris |
 
 Directions de contrôle fiscal |
 
@@ -1280,15 +1296,15 @@ Bordeaux |
 
 Gironde |
 
-Sud-Pyrénées |
+Sud-Pyrénées (Toulouse) |
 
-Toulouse |
+Montpellier |
 
 Hérault |
 
-F.-Ministère de l'intérieur
+F-Ministère de l'intérieur
 
-1° Administration territoriale de l'Etat :
+1° Administration territoriale de l'Etat
 
 Service ou catégorie de personnel |
 
@@ -1370,6 +1386,12 @@ Sud (Marseille) |
 
 Bouches-du-Rhône |
 
+Service ou catégorie de personnel |
+
+Secrétariat général pour l'administration |
+
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+
 Aveyron |
 
 Sud (Marseille) |
@@ -1381,12 +1403,6 @@ Bouches-du-Rhône |
 Sud (Marseille) |
 
 Bouches-du-Rhône |
-
-Service ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Calvados |
 
@@ -1562,6 +1578,12 @@ Ouest (Rennes) |
 
 Ille-et-Vilaine |
 
+Service ou catégorie de personnel |
+
+Secrétariat général pour l'administration |
+
+Direction des finances publiques chargée de la paye sans ordonnancement préalable |
+
 Loire |
 
 Sud-Est (Lyon) |
@@ -1579,12 +1601,6 @@ Loire-Atlantique |
 Ouest (Rennes) |
 
 Ille-et-Vilaine |
-
-Service ou catégorie de personnel |
-
-Secrétariat général pour l'administration |
-
-Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
 Loiret |
 
@@ -1914,15 +1930,15 @@ Mayotte |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
-
 La Réunion |
 
 La Réunion |
 
 La Réunion |
 
-2° Direction générale de la police nationale :
+La Réunion |
+
+2° Direction générale de la police nationale
 
 Zone de sécurité et de défense ou catégorie de personnel |
 
@@ -2012,15 +2028,15 @@ Mayotte |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
-
 La Réunion |
 
 La Réunion |
 
 La Réunion |
 
-3° Personnels civils de la direction générale de la gendarmerie nationale :
+La Réunion |
+
+3° Personnels civils de la direction générale de la gendarmerie nationale
 
 Zone de sécurité et de défense ou catégorie de personnel |
 
@@ -2092,15 +2108,15 @@ Mayotte |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
-
 La Réunion |
 
 La Réunion |
 
 La Réunion |
 
-4° Autres :
+La Réunion |
+
+4° Autres
 
 Service ou catégorie de personnel |
 
@@ -2122,9 +2138,9 @@ Personnels navigants contractuels relevant du groupement des moyens aériens du 
 
 Paris |
 
-G.-Ministère de la justice
+G-Ministère de la justice
 
-1° Services judiciaires :
+1° Services judiciaires
 
 Cour d'Appel |
 
@@ -2148,9 +2164,7 @@ Amiens |
 
 Aisne, Oise, Somme |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Doubs |
 
 Angers |
 
@@ -2192,9 +2206,7 @@ Caen |
 
 Calvados, Manche, Orne |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Doubs |
 
 Cayenne |
 
@@ -2248,17 +2260,13 @@ Lyon |
 
 Ain, Loire, Rhône |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Doubs |
 
 Metz |
 
 Moselle |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Doubs |
 
 Cour d'Appel |
 
@@ -2270,21 +2278,23 @@ Montpellier |
 
 Aude, Aveyron, Hérault, Pyrénées-Orientales |
 
-Hérault |
+Doubs à compter
+
+du 1er octobre 2022 |
 
 Nancy |
 
 Meurthe-et-Moselle, Meuse, Vosges |
 
-Doubs à compter
-
-du 1er janvier 2022 |
+Doubs |
 
 Nîmes |
 
 Ardèche, Gard, Lozère, Vaucluse |
 
-Hérault |
+Doubs à compter
+
+du 1er octobre 2022 |
 
 Orléans |
 
@@ -2342,13 +2352,15 @@ La Réunion |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
+La Réunion |
 
 Toulouse |
 
 Ariège, Haute-Garonne, Tarn, Tarn-et-Garonne |
 
-Haute-Garonne |
+Doubs à compter
+
+du 1er octobre 2022 |
 
 Versailles |
 
@@ -2356,7 +2368,7 @@ Eure-et-Loir, Yvelines, Hauts-de-Seine, Val d'Oise |
 
 Yvelines |
 
-2° Services pénitentiaires :
+2° Services pénitentiaires
 
 Direction interrégionale des services pénitentiaires |
 
@@ -2386,9 +2398,7 @@ Lyon |
 
 Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie |
 
-Haute-Vienne à compter
-
-du 1er janvier 2022 |
+Haute-Vienne |
 
 Marseille |
 
@@ -2424,7 +2434,9 @@ Toulouse |
 
 Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
 
-Haute-Garonne |
+Haute-Vienne à compter
+
+du 1er octobre 2022 |
 
 Mission outre-mer |
 
@@ -2438,9 +2450,9 @@ La Réunion |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
+La Réunion |
 
-3° Protection judiciaire de la jeunesse :
+3° Protection judiciaire de la jeunesse
 
 Direction interrégionale de la protection judiciaire de la jeunesse |
 
@@ -2452,9 +2464,7 @@ Centre-Est (Lyon) |
 
 Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie |
 
-Haute-Vienne à compter
-
-du 1er janvier 2022 |
+Haute-Vienne |
 
 Grand Centre (Dijon) |
 
@@ -2466,9 +2476,7 @@ Grand Est (Nancy) |
 
 Ardennes, Aube, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Bas-Rhin, Haut-Rhin, Vosges |
 
-Haute-Vienne à compter
-
-du 1er janvier 2022 |
+Haute-Vienne |
 
 Grand Nord (Lille) |
 
@@ -2504,13 +2512,15 @@ La Réunion |
 
 Mayotte |
 
-La Réunion à compter du 1er janvier 2022 |
+La Réunion |
 
 Sud (Toulouse) |
 
 Ariège, Aude, Aveyron, Gard, Haute-Garonne, Gers, Hérault, Lot, Lozère, Hautes-Pyrénées, Pyrénées-Orientales, Tarn, Tarn-et-Garonne |
 
-Haute-Garonne |
+Haute-Vienne à compter
+
+du 1er octobre 2022 |
 
 Sud-Est (Marseille) |
 
@@ -2524,7 +2534,7 @@ Charente, Charente-Maritime, Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et
 
 Haute-Vienne |
 
-4° Autres services :
+4° Autres services
 
 Services |
 
@@ -2562,7 +2572,7 @@ Direction des finances publiques chargée de la paye sans ordonnancement préala
 
 Nord |
 
-H.-Services du Premier ministre-Juridictions administratives et financières
+H-Services de la Première ministre-juridictions administratives et financières
 
 Service ou catégorie de personnel |
 
@@ -2584,7 +2594,7 @@ Personnels en poste à Mayotte |
 
 Paris à compter du 1er janvier 2022 |
 
-I.-Ministère de la transition écologique et ministère de la mer
+I-Ministère de la transition écologique et de la cohésion des territoires
 
 Service |
 
@@ -2692,35 +2702,27 @@ Isère |
 
 Val-de-Marne |
 
-J.-Ministère du travail, de l'emploi et de l'insertion et ministère des solidarités et de la santé
+J-Ministère de la santé et de la prévention, du travail, du plein emploi et de l'insertion et ministère des solidarités, de l'autonomie et des personnes handicapées
 
 Service |
 
 Direction des finances publiques chargée de la paye sans ordonnancement préalable |
 
-Directions régionales de l'économie, de l'emploi, du travail et des solidarités de métropole hors Île-de-France |
+Services centraux |
 
-Seine-Saint-Denis |
+Somme à compter du 1er octobre 2022 |
 
-Direction régionale de l'économie, de l'emploi, du travail et des solidarités d'Île-de-France |
+Directions régionales de l'économie, de l'emploi, du travail et des solidarités de métropole |
 
-Paris |
+Somme à compter du 1er octobre 2022 |
 
-Direction de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe |
+Directions de l'économie, de l'emploi, du travail et des solidarités de Guadeloupe, de Martinique et de La Réunion |
 
-Seine-Saint-Denis |
+Somme à compter du 1er octobre 2022 |
 
 Direction générale des populations de Guyane |
 
-Seine-Saint-Denis |
-
-Direction de l'économie, de l'emploi, du travail et des solidarités de Martinique |
-
-Seine-Saint-Denis |
-
-Direction de l'économie, de l'emploi, du travail et des solidarités de La Réunion |
-
-Seine-Saint-Denis |
+Somme à compter du 1er octobre 2022 |
 
 NOTA :
 
