@@ -152,67 +152,69 @@ B. 2. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-C. Fiche d'opération standardisée BAR-TH-104 Pompe à chaleur de type air/ eau ou eau/ eau :
+C.-Fiche d'opération standardisée BAR-TH-104 " Pompe à chaleur de type air/ eau ou eau/ eau " :
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
-C. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,4,10,12 à 18 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+C. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,4,10,12 à 18 ayant un avis " non accessible/ non vérifiable ", lesquels n'influent pas sur la conclusion du rapport) :
 
-C. I. A. Critères directement liés à la fiche d'opération standardisée :
+C. I. A.-Critères directement liés à la fiche d'opération standardisée :
 
-1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
 
-2) La PAC est associée, pour le chauffage des surfaces chauffées, à :
+2. La PAC est associée, pour le chauffage des surfaces chauffées, à :
 
-a. Une chaudière, dans le cadre du Coup de pouce Chauffage ;
+a) Une chaudière, dans le cadre du Coup de pouce " Chauffage " ;
 
-b. Une chaudière haute ou très haute performance énergétique, hors Coup de pouce Chauffage ;
+b) Une chaudière haute ou très haute performance énergétique, hors Coup de pouce " Chauffage " ;
 
-3) La PAC n'assure pas le chauffage des surfaces chauffées ;
+3. La PAC n'assure pas le chauffage des surfaces chauffées ;
 
-4) La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence, efficacité énergétique saisonnière). Le rapport est accompagné d'une photo de la plaque signalétique ;
+4. La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence, efficacité énergétique saisonnière). Le rapport est accompagné d'une photo de la plaque signalétique ;
 
-5) L'efficacité énergétique saisonnière (η s) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 est inférieure à l'efficacité énergétique saisonnière exigée par la fiche d'opération standardisée ;
+5. L'efficacité énergétique saisonnière (η s) de la PAC selon le règlement (UE) 813/2013 de la Commission du 2 août 2013 est inférieure à l'efficacité énergétique saisonnière exigée par la fiche d'opération standardisée ;
 
-6) L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce Chauffage , la surface chauffée ; un écart de surface chauffée conduit à un classement non satisfaisant si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100).
+6. L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce " Chauffage ", la surface chauffée ; un écart de surface chauffée conduit à un classement " non satisfaisant " si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100) ;
 
-NB : la surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée ;
+Nota.-La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée.
 
-C. I. B. Autres critères :
+C. I. B.-Autres critères :
 
 S'agissant d'aspects généraux :
 
-7) Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
+7. Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
 
-8) La PAC est manifestement sous-dimensionnée au vu du critère suivant : le générateur couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
+8. La PAC est manifestement sous-dimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
 
-9) La PAC est manifestement surdimensionnée au vu du critère suivant : le générateur couvre plus de 140 % des déperditions à T = Tbase (si T arrêt PAC < T base), ou T = T arrêt PAC ;
+9. La PAC air/ eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase (si T arrêt PAC < T base), ou T = T arrêt PAC, et au régime de température du réseau de distribution prévu ;
 
-10) Hors PAC eau/ eau, il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
+10. La PAC eau/ eau est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint couvre plus de 130 % des déperditions à T = Tbase ;
 
-11) Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+11. Hors PAC eau/ eau, il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
 
-12) L'unité extérieure, ou l'échangeur eau/ eau dans le cas d'une PAC eau/ eau, n'est manifestement pas convenablement installée (obstacles, échange non libre).
+12. Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+
+13. L'unité extérieure, ou l'échangeur eau/ eau dans le cas d'une PAC eau/ eau, n'est manifestement pas convenablement installée (obstacles, échange non libre) ;
 
 S'agissant du réseau hydraulique :
 
-13) Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
+14. Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
 
-14) Il est constaté l'absence d'un dispositif de réglage permettant l'équilibrage du réseau hydraulique ;
+15. Il est constaté l'absence d'un dispositif de réglage permettant l'équilibrage du réseau hydraulique ;
 
-15) Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé.
+16. Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé ;
 
 S'agissant du réseau frigorifique :
 
-16) Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé.
+17. Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé ;
 
 S'agissant des collecteurs (dans le cas d'une PAC eau/ eau) :
 
-17) Les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
+18. Les collecteurs ne sont pas équipés de robinets de réglage sur chaque boucle ;
 
-18) Les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
+19. Les collecteurs ne comportent pas autant de départs et de retours que le nombre de boucles composant le capteur.
 
-C. II. Doivent être vérifiés lors des contrôles par contact :
+C. II.-Doivent être vérifiés lors des contrôles par contact :
 
 -l'existence d'une PAC installée ;
 
@@ -382,71 +384,71 @@ E. III. Doivent être vérifiés lors des contrôles par contact :
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
-F. Fiche d'opération standardisée BAR-TH-159 Pompe à chaleur hybride individuelle :
+F.-Fiche d'opération standardisée BAR-TH-159 " Pompe à chaleur hybride individuelle " :
 
-Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
+Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
-F. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,6 et 16 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+F. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,6 et 16 ayant un avis " non accessible/ non vérifiable ", lesquels n'influent pas sur la conclusion du rapport) :
 
-F. I. A. Critères directement liés à la fiche d'opération standardisée :
+F. I. A.-Critères directement liés à la fiche d'opération standardisée :
 
-1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
 
-2) La PAC n'est pas une PAC de type air/ eau ou ne comporte pas un appoint utilisant un combustible liquide ou gazeux ;
+2. La PAC n'est pas une PAC de type air/ eau ou ne comporte pas un appoint utilisant un combustible liquide ou gazeux ;
 
-3) La PAC n'assure pas le chauffage des surfaces chauffées ;
+3. La PAC n'assure pas le chauffage des surfaces chauffées ;
 
-4) La PAC est de type basse température ;
+4. La PAC est de type basse température ;
 
-5) L'efficacité énergétique saisonnière (η s) de la PAC munie de son dispositif d'appoint (hors dispositif de régulation de la température) est inférieure à l'efficacité énergétique saisonnière exigée par la fiche d'opération standardisée ;
+5. L'efficacité énergétique saisonnière (η s) de la PAC munie de son dispositif d'appoint (hors dispositif de régulation de la température) est inférieure à l'efficacité énergétique saisonnière exigée par la fiche d'opération standardisée ;
 
-6) La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence, efficacité énergétique saisonnière et classe du régulateur). Le rapport est accompagné d'une photo de la plaque signalétique ;
+6. La PAC ne correspond pas aux mentions indiquées sur la preuve de la réalisation de l'opération (marque, référence, efficacité énergétique saisonnière et classe du régulateur). Le rapport est accompagné d'une photo de la plaque signalétique ;
 
-7) L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce Chauffage , la surface chauffée ; un écart de surface chauffée conduit à un classement non satisfaisant si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100).
+7. L'organisme d'inspection indique, dans son rapport, les paramètres nécessaires au calcul du montant de certificats d'économies d'énergie : efficacité énergétique saisonnière, zone climatique et, dans le cas où l'opération ne s'inscrit pas dans le cadre du Coup de pouce " Chauffage ", la surface chauffée ; un écart de surface chauffée conduit à un classement " non satisfaisant " si l'écart entre la surface déclarée et la surface mesurée est supérieur à 10 % (écart = (surface déclarée-surface mesurée)/ surface mesurée*100) ;
 
-NB : la surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée ;
+Nota.-La surface chauffée est la surface habitable, au sens de l'article R. 156-1 du code de la construction et de l'habitation, chauffée par la PAC installée.
 
-F. I. B Autres critères :
+F. I. B.-Autres critères :
 
 S'agissant d'aspects généraux :
 
-8) Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
+8. Il est constaté l'absence d'une note de dimensionnement du générateur par rapport aux déperditions calculées à T = Tbase remise au bénéficiaire, et le bénéficiaire atteste par écrit ne pas avoir reçu cette note ; les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents ;
 
-9) La PAC est manifestement sous-dimensionnée au vu du critère suivant : le générateur couvre moins de 60 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
+9. La PAC est manifestement sous-dimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint à 0° C extérieur et 50° C départ chauffage couvre moins de 40 % des déperditions à T = Tbase ;
 
-10) La PAC est manifestement surdimensionnée au vu du critère suivant : le générateur couvre plus de 140 % des déperditions à T = Tbase (si T arrêt PAC < Tbase), ou T = T arrêt PAC ;
+10. La PAC est manifestement surdimensionnée au vu du critère suivant : la puissance de la PAC sans l'appoint à 0° C extérieur et 50° C départ chauffage couvre plus de 80 % des déperditions à T = Tbase ;
 
-11) Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+11. Le taux de couverture, par la PAC hors dispositif d'appoint, des besoins de chaleur pour le chauffage du logement est inférieur à la valeur minimale définie dans la fiche d'opération standardisée BAR-TH-159 ;
 
-12) Il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
+12. Le mode de régulation de la PAC ne correspond pas à celui utilisé pour le calcul du taux de couverture ;
 
-13) L'unité extérieure n'est manifestement pas convenablement installée (obstacles, échange non libre).
+13. Les émetteurs ne sont manifestement pas compatibles avec la PAC installée ;
+
+14. Il est constaté un problème manifeste quant aux fixations et à l'accrochage de l'une des unités extérieure et intérieure composant la PAC ;
+
+15. L'unité extérieure n'est manifestement pas convenablement installée (obstacles, échange non libre) ;
 
 S'agissant du réseau hydraulique :
 
-14) Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
+16. Les réseaux de distribution ne sont pas calorifugés en volumes non chauffés ;
 
-15) Il est constaté l'absence d'un dispositif de réglage permettant de vérifier l'équilibrage du réseau hydraulique.
+17. Il est constaté l'absence d'un dispositif de réglage permettant de vérifier l'équilibrage du réseau hydraulique ;
 
 S'agissant du réseau frigorifique :
 
-16) Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé.
+18. Lorsque cela est nécessaire, le réseau frigorifique n'est pas entièrement calorifugé ;
 
 S'agissant des émetteurs :
 
-17) Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé.
+19. Dans le cas d'un ventilo-convecteur, si refroidissement, le raccordement de l'évacuation des condensats n'est pas réalisé.
 
-F. II. Doivent être vérifiés lors des contrôles par contact :
+F. II.-Doivent être vérifiés lors des contrôles par contact :
 
 -l'existence d'une PAC installée ;
 
 -l'absence de non-qualité manifeste détectée par le bénéficiaire sur les travaux effectués.
 
 Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
-
-G. Fiche d'opération standardisée BAR-EN-104 Fenêtre ou porte-fenêtre complète vitrage isolant :
-
-Doivent être vérifiés les éléments mentionnés au I de l'article 7.
 
 H. Fiche d'opération standardisée BAR-EN-105 Isolation des toitures terrasses :
 
@@ -892,4 +894,4 @@ Doivent être vérifiés les éléments mentionnés au I de l'article 7.
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 20 avril 2022 (NOR : TRER2209385A), ces dispositions sont applicables aux opérations engagées à compter du 1er juillet 2022. Toutefois, les parties C.II, D.II et F.II peuvent être appliquées aux contrôles réalisés à compter du lendemain de la publication dudit arrêté.
+Conformément à l’article 3 de l’arrêté du 20 juillet 2022 (NOR : ENER2218620A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2022.

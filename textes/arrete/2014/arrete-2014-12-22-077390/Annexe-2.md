@@ -176,6 +176,8 @@ Conformément à l’article 2 de l’arrêté du 24 juillet 2020 (NOR : TRER202
 
 Conformément à l’article 1 de l’arrêté du 18 février 2022 (NOR : TRER2205456A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er mai 2022.
 
+Conformément à l’article 2 de l’arrêté du 20 juillet 2022 (NOR : ENER2218620A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2022.
+
 - Isolation d’un réseau hydraulique de chauffage ou d’eau chaude sanitaire / Fiche d’opération standardisée n°BAR-TH-160
 
 Conformément à l’article 1 de l’arrêté du 10 décembre 2021 (NOR : TRER2137029A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe A dudit arrêté, à compter du 1er mai 2022.
