@@ -236,6 +236,46 @@ Formation chef de section sauvetage déblaiement (SDE3). |
 
 1 |
 
+Dessinateur opérationnel de niveau 2 (FDOPS DO2).
+
+|
+
+2 |
+
+1 |
+
+Télépilote de drone (catégorie M1 et M2).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 1 (SSIAP1).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 2 (SSIAP2).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 3 (SSIAP3).
+
+|
+
+3 |
+
+1 |
+
 2. Formations des sous-officiers :
 
 2.1. Règles générales :
@@ -316,15 +356,11 @@ Formation de spécialité de 1er niveau maintenance tourelle conduite tir toutes
 
 2 |
 
-Formation de spécialité de 1er niveau maintenance gestion des matériels et approvisionnement toutes options. |
+Formation de spécialité de 1er niveau maintenance gestion des matériels et approvisionnements logistique supply chain.
+
+|
 
 5 |
-
-2 |
-
-Formation de spécialité de 1er niveau gestion des approvisionnements. |
-
-4 |
 
 2 |
 
@@ -394,13 +430,9 @@ Formation de spécialité de 2e niveau maintenance tourelle conduite tir toutes 
 
 2 |
 
-Formation de spécialité de 2e niveau maintenance gestion matériel et approvisionnement toutes options. |
+Formation de spécialité de 2e niveau maintenance gestion matériel et approvisionnements logistique supply chain.
 
-5 |
-
-2 |
-
-Formation de spécialité de 2e niveau gestion des approvisionnements. |
+|
 
 5 |
 
@@ -418,7 +450,7 @@ Formation de spécialité de 2e niveau maintenance matériel para-largage toutes
 
 2 |
 
-Formation de spécialité de 2e niveau maintenance détection électromagnétique MULTICAPTEURS . |
+Formation de spécialité de 2e niveau maintenance détection électromagnétique " MULTICAPTEURS ". |
 
 5 |
 
@@ -444,25 +476,27 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Formation de spécialité du 2e niveau perfectionnement sous-officier géographe option topographie. |
+Formation de spécialité du 2e niveau perfectionnement sous-officier géographe option topographie.
 
-4 |
-
-2 |
-
-Formation de spécialité du 2e niveau perfectionnement sous-officier géographe option cartographie. |
-
-4 |
-
-2 |
-
-Formation de spécialiste du 1er degré système drone tactique. |
+|
 
 5 |
 
 2 |
 
-Formation de spécialiste du 2e degré système drone tactique. |
+Formation de spécialité du 2e niveau perfectionnement sous-officier géographe option cartographie. |
+
+5 |
+
+2 |
+
+Formation de spécialiste du 1er niveau système drone tactique. |
+
+5 |
+
+2 |
+
+Formation de spécialiste du 2e niveau système drone tactique. |
 
 5 |
 
@@ -474,7 +508,7 @@ Stage d'administrateur du système d'aide à l'interprétation multicapteurs. |
 
 1 |
 
-Formation de spécialiste du 2e degré système de mini drone SMDR. |
+Formation de spécialiste du 2e niveau système de mini drone SMDR. |
 
 4 |
 
@@ -560,13 +594,17 @@ Monitorat surface non libre (SNL3). |
 
 1 |
 
-Certificat de compétences de formateur aux premiers secours. |
+Formation de pédagogie appliquée à l'emploi de formateur de formateur en secourisme.
+
+|
 
 2 |
 
 1 |
 
-Certificat de compétences de conception et encadrement de formation. |
+Unité d'enseignement " Conception et encadrement d'une action de formation " (CEAF).
+
+|
 
 2 |
 
@@ -604,7 +642,39 @@ Formation Exploration Longue Durée (ELD). |
 
 Feux de forêt niveau 3. |
 
+3 |
+
+1 |
+
+Dessinateur opérationnel de niveau 2 (FDOPS DO2).
+
+|
+
 2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 1 (SSIAP1).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 2 (SSIAP2).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 3 (SSIAP3).
+
+|
+
+3 |
 
 1 |
 
@@ -622,17 +692,21 @@ Formation de spécialité de 1er niveau : Emploi des supports de télécommunica
 
 1 |
 
-Formation de spécialité de 1er niveau : Emploi des réseaux IP (EDR). |
+Formation de spécialité de 1er niveau : Emploi des réseaux IP (EDR).
+
+|
 
 4 |
 
-1 |
+2 |
 
-Formation de spécialité de 1er niveau : Emploi des systèmes d'information (ESI). |
+Formation de spécialité de 1er niveau : Emploi des systèmes d'information (ESI).
+
+|
 
 4 |
 
-1 |
+2 |
 
 Formation de spécialité de 1er niveau : Projet de développement informatique (PDI). |
 
@@ -656,7 +730,15 @@ Formation de spécialité de 1er niveau : cyber sécurité (SSI). |
 
 4 |
 
-1 |
+2 |
+
+Formation de spécialité de 1er niveau : réseaux et systèmes d'information (RSI).
+
+|
+
+4 |
+
+2 |
 
 e) Communication et culture :
 
@@ -716,7 +798,7 @@ Formation d'adaptation cynotechnique d'aide à la recherche de produits stupéfi
 
 1 |
 
-Formation d'adaptation cynotechnique moniteur d'aide à la recherche et à la détection d'explosifs et d'armement ARDE-ARMT initiale. |
+Formation d'adaptation cynotechnique moniteur d'aide à la recherche et à la détection d'explosifs et d'armement (ARDE-ARMT). |
 
 4 |
 
@@ -844,23 +926,41 @@ CTE SIS (spécialiste intervention subaquatique). |
 
 1 |
 
-Pédagogie appliquée à l'emploi de formateur de formateurs (PAE FF). |
+Unité d'enseignement " Pédagogie appliquée à l'emploi de formateur de formateurs " (PAE FDF).
 
-2 |
+|
 
-1 |
+2
 
-Pédagogie appliquée à l'emploi de formateur en prévention et secours civiques (PAE FPSC). |
+|
 
-2 |
+1
 
-1 |
+|
 
-Pédagogie appliquée à l'emploi de formateur aux premiers secours (PAE FPS). |
+Unité d'enseignement " Pédagogie appliquée à l'emploi de formateur en prévention et secours civiques " (PAE FPSC).
 
-2 |
+|
 
-1 |
+2
+
+|
+
+1
+
+|
+
+Formation de pédagogie appliquée à l'emploi de formateur de formateur en secourisme.
+
+|
+
+2
+
+|
+
+1
+
+|
 
 Monitorat aux techniques d'engagement. |
 
@@ -877,6 +977,46 @@ Instructorat incendie. |
 Formation Exploration Longue Durée (ELD). |
 
 2 |
+
+1 |
+
+Dessinateur opérationnel de niveau 2 (FDOPS DO2).
+
+|
+
+2 |
+
+1 |
+
+Télépilote de drone (catégorie M1 et M2).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 1 (SSIAP1).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 2 (SSIAP2).
+
+|
+
+2 |
+
+1 |
+
+Agent de service de sécurité incendie et d'assistance à personne niveau 3 (SSIAP3).
+
+|
+
+3 |
 
 1 |
 
@@ -900,11 +1040,17 @@ Formation d'adaptation cynotechnique moniteur d'aide à la recherche et à la d�
 
 1 |
 
-Formation d'adaptation cynotechnique pour la mise en œuvre d'un chien d'aide à la recherche et à la détection d'explosif et d'armement ARDE-ARMT. |
+Formation d'adaptation cynotechnique moniteur d'aide à la recherche et à la détection d'explosif et d'armement (ARDE-ARMT).
 
-4 |
+|
 
-1 |
+4
+
+|
+
+1
+
+|
 
 Formation au saut opérationnel à grande hauteur. |
 
@@ -924,21 +1070,27 @@ Plongeur de bord - Formation de base à la plongée à l'air. |
 
 1 |
 
-Formation de spécialiste techniques subaquatiques. |
+Formation de spécialiste techniques subaquatiques.
+
+|
+
+3 |
 
 2 |
 
-2 |
+Formation aux recycleurs à l'oxygène.
 
-Formation aux recycleurs à l'oxygène. |
+|
 
-2 |
-
-2 |
-
-Formation tactique complémentaire plongée à l'oxygène oxybase. |
+3 |
 
 2 |
+
+Formation tactique complémentaire plongée à l'oxygène oxybase.
+
+|
+
+3 |
 
 2 |
 

@@ -86,12 +86,6 @@ Formation de l'enseignement supérieur validée par un diplôme conférant le ti
 
 2 |
 
-Formation sanctionnée par le diplôme d'État d'infirmier de bloc opératoire relevant du statut des militaires infirmiers et techniciens des hôpitaux des armées. |
-
-Double de la période de formation |
-
-1 |
-
 Formation de l'enseignement supérieur validée par le diplôme inter-universitaire (DIU) de pratiques médicales en santé au travail pour la formation des collaborateurs médecins. |
 
 4 |
@@ -103,3 +97,11 @@ Formation des techniciens des matériels santé. |
 Triple de la période de formation |
 
 2 |
+
+Formation réalisée par un médecin en exercice et de l'enseignement supérieur validée par une formation spécialisée transversale ou une option
+
+|
+
+Double de la durée de la formation |
+
+1 |

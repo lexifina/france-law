@@ -10,7 +10,15 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Formation complémentaire au diplôme d'ingénieur d'une durée de quatre mois consécutifs minimum ou d'au moins six modules, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure. |
+Scolarité dans le cadre de l'enseignement militaire supérieur du deuxième degré autre que l'École de guerre, d'une durée supérieure à quatre mois.
+
+|
+
+4 |
+
+2 |
+
+Formation complémentaire au diplôme de niveau 7, d'une durée de quatre mois consécutifs minimum ou d'au moins six modules, dispensée à des officiers relevant de l'autorité du service d'infrastructure de la défense ou du domaine des techniques d'opérations d'infrastructure. |
 
 4 |
 

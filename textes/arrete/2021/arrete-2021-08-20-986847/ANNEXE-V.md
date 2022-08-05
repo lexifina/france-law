@@ -2,7 +2,7 @@
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPÉCIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À L'ARMÉE DE L'AIR ET DE L'ESPACE
 
-1. Management :
+1. Formations communes officiers :
 
 Intitulé de la formation |
 
@@ -10,7 +10,9 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Formation en langues rares (chinois, russe, arabe). |
+Formation en langues rares (chinois, russe, arabe, persan).
+
+|
 
 6 |
 
@@ -43,6 +45,8 @@ Formation maîtres instructeurs. |
 1 |
 
 (1) Pour toutes les spécialités ou formations autres que celles visées au présent arrêté. |
+
+Les dispositions des points 3 et suivants de l'annexe V, à l'exception du point 5.1, sont communes à tous les groupes de grades.
 
 3. Prévention et gestion des risques :
 
@@ -270,9 +274,19 @@ Formation pilote avion réorienté hélicoptère (REH). |
 
 2 |
 
-Stage de qualification machine pilote sur hélicoptère H 225 / H 225M. |
+Stage de qualification machine initiale pilote sur hélicoptère H 225/ H 225M.
+
+|
 
 5 |
+
+2 |
+
+Transformation machine pilote sur hélicoptère H 225/ H 225M.
+
+|
+
+2 |
 
 2 |
 
@@ -372,9 +386,17 @@ Formation mécanicien navigant ou membre d'équipage (toutes spécialités, sous
 
 1 |
 
-Stage de qualification machine mécanicien navigant EC 725 Caracal / EC 225. |
+Stage de qualification machine initiale mécanicien navigant sur hélicoptère H 225/ H 225M. |
 
 3 |
+
+2 |
+
+Transformation machine mécanicien navigant sur hélicoptère H 225/ H 225M.
+
+|
+
+2 |
 
 2 |
 
@@ -474,6 +496,14 @@ Formation Airbus dispatcher A400M comprenant le stage MPRS Mission Planning. |
 
 2 |
 
+Formation Horizons Academy Agent des opérations aériennes " Flight Dispatcher ".
+
+|
+
+2 |
+
+2 |
+
 Stage industriel qualification de type mécanicien vecteur EC 725 Caracal. |
 
 4 |
@@ -528,7 +558,7 @@ Stage industriel de qualification de type vecteur drone Reaper à l'étranger. |
 
 2 |
 
-Stage industriel dequalification de type avionique drone Reaper à l'étranger. |
+Stage industriel de qualification de type avionique drone Reaper à l'étranger. |
 
 4 |
 
@@ -617,6 +647,14 @@ Certificat technique d'opérations d'infrastructure. |
 2 |
 
 Formation en forage. |
+
+3 |
+
+1 |
+
+Formation grutier.
+
+|
 
 3 |
 

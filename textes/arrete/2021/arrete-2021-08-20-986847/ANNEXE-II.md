@@ -32,6 +32,22 @@ Formation d'ingénieur en génie atomique, option réacteur de propulsion navale
 
 1 |
 
+Cybersécurité-Formation Basilic (tous modules).
+
+|
+
+3 |
+
+5 |
+
+Cybersécurité-Formation Muscade (tous modules).
+
+|
+
+3 |
+
+5 |
+
 Stage d'entraînement à la gestion des entreprises. |
 
 4 |

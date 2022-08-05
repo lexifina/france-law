@@ -10,9 +10,9 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Scolarité dans le cadre de l'enseignement supérieur du deuxième degré autre que l'École de guerre. |
+Scolarité dans le cadre de l'enseignement supérieur du deuxième degré autre que l'Ecole de guerre. |
 
-2 |
+4 |
 
 2 |
 
@@ -47,12 +47,6 @@ Coefficient multiplicateur |
 Licence professionnelle N'TECH (nouvelles technologies). |
 
 5 |
-
-1 |
-
-Formation délinquance économique et financière niveau 3 (DEFI 3) (Centre national de formation de la police judiciaire - CNFPJ). |
-
-4 |
 
 1 |
 
@@ -200,13 +194,13 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Formation vol aux instruments RATING IFR (*). |
+(*).Formation vol aux instruments |
 
 5 |
 
 3 |
 
-Formation adaptateur T3 appareil à voilure tournante . |
+Formation " adaptateur T3 appareil à voilure tournante ". |
 
 5 |
 
@@ -236,13 +230,35 @@ Licence de pilote avion léger (LAPL). |
 
 2 |
 
-Formation initiale à la qualification de type pilote Visual Flight Rules EC (145 ou 135). |
+Formation à la qualification de type pilote Visual Flight Rules EC (145 ou 135). |
 
 3 |
 
 1 |
 
-(*) Évolution vers un emploi IFR. |
+Qualification de type (QT) H160
+
+|
+
+4 |
+
+4 |
+
+Formation d'examinateur en vol
+
+|
+
+5 |
+
+2 |
+
+Brevet de mécanicien volant d'appareil à voilure tournante
+
+|
+
+5 |
+
+2 |
 
 3. Soutien opérationnel :
 
@@ -259,6 +275,14 @@ Brevet élémentaire de spécialiste (BES) - Toutes spécialités. |
 2 |
 
 Brevet supérieur de spécialiste (BSS) - Toutes spécialités. |
+
+4 |
+
+2 |
+
+Brevet de chef de service (BCS)-Toutes spécialités.
+
+|
 
 4 |
 

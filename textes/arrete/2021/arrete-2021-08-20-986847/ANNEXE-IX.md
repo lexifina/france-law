@@ -19,3 +19,11 @@ Stage directeur d'établissement hôpital plus (EHESP). |
 4 |
 
 3 |
+
+Formation d'enquêteur de coûts (DGA).
+
+|
+
+4 |
+
+3 |

@@ -10,6 +10,22 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
+Formation de l'enseignement supérieur validée par le brevet de technicien supérieur (tous domaines) (*).
+
+|
+
+3 |
+
+1 |
+
+Formation de l'enseignement supérieur validée par le diplôme universitaire technique (tous domaines) (*).
+
+|
+
+3 |
+
+1 |
+
 Formation de l'enseignement supérieur validant quatre semestres de la licence ou équivalent (tous domaines) (*). |
 
 2 |
@@ -74,37 +90,37 @@ Formations de l'enseignement militaire supérieur du 2e degré (EMS2) d'une dur�
 
 2 |
 
-Enseignement militaire supérieur au-dessus de l'EMS2 du 1er groupe en France et à l'étranger : Centre des hautes études militaires (CHEM), Royal College and Defense Studies (RCDS, Londres) et National Defense University (NDU, Washington). |
+Formations de l'enseignement militaire supérieur au-dessus de l'EMS2 en France et à l'étranger : Centre des hautes études militaires (CHEM), Royal College and Defense Studies (RCDS, Londres), National Defense University (NDU, Washington), et National War College (NWC, Washington). |
 
 4 |
 
 2 |
 
-Enseignement militaire supérieur au-dessus de l'EMS2 du 2e groupe :
+Formations de l'enseignement militaire supérieur au-dessus de l'EMS2 en France :
 
-- en France, session nationale de l'Institut des hautes études de la défense nationale (IHEDN), majeures politique de défense , armement et économie de défense , enjeux et stratégies maritimes , souveraineté et cybersécurité et défense et sécurité économique ;
+session nationale de l'Institut des hautes études de la défense nationale (IHEDN), majeures " politique de défense ", " armement et économie de défense ", " enjeux et stratégies maritimes ", " souveraineté et cybersécurité " et " défense et sécurité économique ", Institut des hautes études du ministère de l'Intérieur (IHEMI) (session nationale sécurité et justice, session protection des entreprises et intelligence économique, session management stratégique de la crise) et Cycle supérieur de l'académie du renseignement (secrétariat général de la défense et de la sécurité nationale). |
 
-- à l'étranger, Senior Course du NATO Defense College (NDC) et Higher Command and Staff Course (HCSC, Schrivenham). |
+2 |
+
+1 |
+
+Autres formations de l'enseignement militaire supérieur au-dessus de l'EMS2 à l'étranger, dont le Senior Course du NATO Defense College (NDC), le Higher Command and Staff Course (HCSC, Schrivenham), l'Istituto Alti Studi per la Difesa (IASD, Rome) et la Bundesakademie für Sicherheitspolitik (BAKS, Berlin). |
 
 4 |
 
 1 |
 
-Autres formations de l'enseignement militaire supérieur au-dessus de l'EMS2 à l'étranger. |
+Session nationale " promotion annuelle de l'IHEMI " (Institut des hautes études du ministère de l'Intérieur). |
 
 4 |
 
 1 |
 
-Centre des hautes études du ministère de l'intérieur (CHEMI). |
+Cycle des hautes études européennes (CHEE) à l'Institut national du service public (INSP). |
 
-4 |
+2
 
-1 |
-
-Cycle des hautes études européennes (CHEE) à l'École nationale d'administration (ENA). |
-
-4 |
+|
 
 1 |
 
@@ -152,13 +168,13 @@ Diplôme d'État d'alpinisme accompagnateur en moyenne montagne (DEA-AMM). |
 
 2 |
 
-Diplôme d'État de la jeunesse, de l'éducation populaire et du sport mention escalade . |
+Diplôme d'État de la jeunesse, de l'éducation populaire et du sport mention " escalade ". |
 
 4 |
 
 3 |
 
-Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif mention escalade en milieux naturels . |
+Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement sportif " mention " escalade en milieux naturels ". |
 
 4 |
 
@@ -170,7 +186,7 @@ Brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spé
 
 3 |
 
-Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité perfectionnement sportif mention parapente . |
+Diplôme d'État de la jeunesse, de l'éducation populaire et du sport spécialité " perfectionnement sportif " mention " parapente ". |
 
 4 |
 
@@ -212,13 +228,13 @@ Certificat d'aide moniteur d'entraînement physique, militaire et sportif (EPMS)
 
 1 |
 
-Certificat de moniteur des techniques d'optimisation du potentiel (C MONITTOP). |
+Certificat de moniteur des techniques d'optimisation du potentiel (C MONITTOP) ou certificat de moniteur d'optimisation des ressources des forces armées (C MONORFA). |
 
 2 |
 
 1 |
 
-Certificat d'instructeur des techniques d'optimisation du potentiel (EPS) (C INSTRUCTOP). |
+Certificat d'instructeur des techniques d'optimisation du potentiel (EPS) (C INSTRUCTOP) ou certificat d'instructeur d'optimisation des ressources des forces armées (C INSTRUORFA). |
 
 3 |
 
@@ -236,7 +252,7 @@ Certificat d'instructeur sport de combat (C SPORCOMBA). |
 
 1 |
 
-Stage de spécialité initiale sports équestres. |
+Stage de spécialité initiale sports équestres option cavalier soigneur et aide maréchal ferrant. |
 
 2 |
 
@@ -248,7 +264,15 @@ Stage de spécialité élémentaire sports équestres, option maréchalerie et o
 
 1 |
 
-Stage d'expert en technique d'optimisation du potentiel (TOP). |
+Formation d'adaptation complémentaire qualifiante cavalier soigneur supérieur.
+
+|
+
+2 |
+
+1 |
+
+Stage d'expert en technique d'optimisation du potentiel (TOP) ou stage d'expert d'optimisation des ressources des forces armées. |
 
 4 |
 
@@ -796,6 +820,14 @@ Formation de pilote d'essais classe B à l'école du personnel navigant d'essai 
 
 7 |
 
+Complément de formation pour les titulaires du brevet de pilote d'essais classe B, obtenu à l'école du personnel navigant d'essai et de réception (EPNER), afin d'obtenir le brevet de pilote d'essais expérimental classe A (EPNER).
+
+|
+
+7 années, diminuées de la durée effectuée du lien au service attaché à la formation de pilote d'essais classe B à l'école du personnel navigant d'essai et de réception (EPNER). |
+
+8 |
+
 Mécanicien navigant d'essais à l'EPNER. |
 
 6 |
@@ -832,7 +864,7 @@ Formation d'adaptation pilote NH 90. |
 
 3 |
 
-Formation qualification de type pilote sur hélicoptère EC 725/225. |
+Formation " qualification de type " pilote sur hélicoptère EC 725/225. |
 
 5 |
 
@@ -944,7 +976,7 @@ Brevet de parachutiste navigant expérimentateur. |
 
 1 |
 
-13. Exécution financière :
+13. Expertise financière :
 
 Intitulé de la formation |
 

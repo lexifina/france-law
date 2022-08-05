@@ -2,7 +2,7 @@
 
 RELATIVE À LA FIXATION DES DURÉES DU LIEN AU SERVICE À LA SUITE D'UNE FORMATION SPECIALISÉE ET DU COEFFICIENT MULTIPLICATEUR AFFECTANT LE MONTANT DES REMBOURSEMENTS EXIGÉS EN CAS DE RUPTURE DU LIEN AU SERVICE POUR LES FORMATIONS SPÉCIFIQUES À LA MARINE NATIONALE
 
-1. Formation des officiers :
+1. Formations des officiers :
 
 a) Management :
 
@@ -88,6 +88,22 @@ Brevet atomicien (BATOM) au profit des futurs commandants et commandants en seco
 
 1 |
 
+Formation des élèves français à l'Ecole navale allemande (EFENA)-niveau bachelor
+
+|
+
+3 |
+
+1 |
+
+Formation des élèves français à l'Ecole navale allemande (EFENA)-niveau master
+
+|
+
+4 |
+
+2 |
+
 b) Opérations en milieu aéronautique :
 
 Intitulé de la formation |
@@ -96,7 +112,7 @@ Durée du lien au service (années) |
 
 Coefficient multiplicateur |
 
-Brevet de pilote militaire de 1er degré (avion ou hélicoptère) de l'aéronautique navale et formation Whiting Field (officiers en cursus Full US ). |
+Brevet de pilote militaire de 1er degré (avion ou hélicoptère) de l'aéronautique navale et formation " Whiting Field " (officiers en cursus " Full US "). |
 
 5 |
 
@@ -236,7 +252,7 @@ Certificat de chef de site feux de forêts (C FDF5). |
 
 1 |
 
-Certificat de conseiller technique d'intervention à bord des navires et des bateaux en eaux maritimes (C IBNB4). |
+Certificat de conseiller technique d'intervention à bord des navires et des bateaux " en eaux maritimes " (C IBNB4). |
 
 4 |
 
@@ -254,7 +270,7 @@ Certificat de commandement des systèmes d'information et de communication au se
 
 2 |
 
-2. Formation commune officiers - officiers mariniers :
+2. Formations communes officiers-officiers mariniers :
 
 Intitulé de la formation |
 
@@ -286,7 +302,9 @@ Certificat de pilote de port du 2e degré. |
 
 1 |
 
-Stage d'opérateur de conduite de drones |
+Stage d'opérateur de conduite de drones tactiques (C OPUAV).
+
+|
 
 4 |
 
@@ -347,6 +365,14 @@ Stage de parachutiste spécialisé de la marine (C PARASPE). |
 1 |
 
 Stage de chuteur opérationnel (C CHUTOPER). |
+
+3 |
+
+1 |
+
+Formation pour l'obtention de la mention de chef de manœuvre pompier d'aérodrome (M SSIS2).
+
+|
 
 3 |
 
@@ -510,15 +536,21 @@ Stage sauveteur plongeur hélicoptère spécialisé marine (C PLONGHELI). |
 
 1 |
 
-Stage dépanneur en ligne Rafale (C AVERAFALE / C ARMRAFALE / C PPRAFALE). |
+Stage dépanneur en ligne Rafale (C AVERAFALE/ C ARRAFALE/ C PPRAFALE).
+
+|
 
 2 |
 
 1 |
 
-Stage dépanneur en ligne NH90 (C PPNH90). |
+Stage dépanneur en ligne NH90 (C PPNH90/ C AVENH90).
 
-2 |
+|
+
+2
+
+|
 
 1 |
 
@@ -528,7 +560,7 @@ Stage dépanneur en ligne ATLANTIQUE 2 (C AVEATL2 / C ARMATL2 / C PPATL2). |
 
 1 |
 
-Stage dépanneur en ligne Hawkeye (C PPE2C). |
+Stage dépanneur en ligne Hawkeye (C PPE2C/ C AVEEC2). |
 
 2 |
 
@@ -564,7 +596,7 @@ Stage dépanneur en ligne DAUPHIN N3 (C AVEDPNN3 / C PPDPNN3). |
 
 1 |
 
-Stage dépanneur en ligne H160. |
+Stage dépanneur en ligne H160 (C PPH160/ C AVEH160). |
 
 2 |
 
@@ -576,7 +608,7 @@ Stage dépanneur en ligne EC 725 (C AVEEC725 / C PPEC725). |
 
 1 |
 
-Stage dépanneur en ligne F50 (C AVEFALCON50). |
+Stage dépanneur en ligne F50 (C AVEFALCON50/ C PPFALCON 50). |
 
 2 |
 
@@ -594,7 +626,7 @@ Stage de moniteur parachutiste (C MONITPARA). |
 
 1 |
 
-Stage d'administrateur du système local de préparation et de restitution de mission (SLPRM). |
+Stage d'administrateur du système local de préparation et de restitution de mission (ADSLPRM). |
 
 3 |
 
@@ -652,13 +684,25 @@ Certificat de chef d'agrès à une équipe de marins-pompiers de Marseille (C CA
 
 1 |
 
-Mention de chef d'agrès à une équipe de marins-pompiers de la flotte (M CAUEQ). |
+Formation pour l'obtention de la mention de chef d'agrès à une équipe de marins-pompiers de la flotte (M CAUEQ).
+
+|
 
 2 |
 
 1 |
 
-Mention d'équipier feux de forêt (M FDF1). |
+Formation pour l'obtention de la mention d'équipier feux de forêt (M FDF1).
+
+|
+
+2 |
+
+1 |
+
+Formation pour l'obtention de la mention de conduite et mise en œuvre des engins et véhicules tout terrain (M COD2).
+
+|
 
 2 |
 
@@ -670,13 +714,17 @@ Certificat formateur en conduite mention tout terrain (C F-CODTT). |
 
 1 |
 
-Mention d'équipier groupe de recherche et intervention en milieu périlleux (M IMP2). |
+Formation pour l'obtention de la mention d'équipier groupe de recherche et intervention en milieu périlleux (M IMP2).
+
+|
 
 2 |
 
 1 |
 
-Mention de nageur sauveteur côtier (M SAV2). |
+Formation pour l'obtention de la mention de nageur sauveteur côtier (M SAV2).
+
+|
 
 2 |
 
@@ -688,49 +736,61 @@ Certificat de chef de bord sauveteur côtier (C SAV3). |
 
 2 |
 
-Mention de chef d'équipe dépollution (M DEPOL2). |
+Formation pour l'obtention de la mention de chef d'équipe dépollution (M DEPOL2). |
 
 2 |
 
 1 |
 
-Mention de chef d'unité - sauveteur - déblayeur (M SDE2). |
+Formation pour l'obtention de la mention de chef d'unité-sauveteur-déblayeur (M SDE2).
+
+|
 
 2 |
 
 1 |
 
-Mention de pompier d'aérodrome (M SSIS1). |
+Formation pour l'obtention de la mention de pompier d'aérodrome (M SSIS1).
+
+|
 
 3 |
 
 2 |
 
-Service sécurité incendie et assistance à personne (SSIAP) de 1er niveau. |
+Formation pour l'obtention de la mention " Service sécurité incendie et assistance à personne (SSIAP) de 1er niveau. "
+
+|
 
 2 |
 
 1 |
 
-Service sécurité incendie et assistance à personne (SSIAP) de 2e niveau. |
+Formation pour l'obtention de la mention " Service sécurité incendie et assistance à personne (SSIAP) de 2e niveau. " |
 
 2 |
 
 1 |
 
-Service sécurité incendie et assistance à personne (SSIAP) de 3e niveau. |
+Formation pour l'obtention de la mention " Service sécurité incendie et assistance à personne (SSIAP) de 3e niveau. "
+
+|
 
 3 |
 
 1 |
 
-Mention à la pédagogie appliquée à l'emploi de formateur de formateurs (M PAE FF/CEAF). |
+Formation pour l'obtention de la mention à la pédagogie appliquée à l'emploi de formateur de formateurs (M PAE FF/ CEAF).
+
+|
 
 4 |
 
 1 |
 
-Mention de formateurs de prévention et secours civiques (M PICF/PAE FPSC). |
+Formation pour l'obtention de la mention de formateurs de prévention et secours civiques (M PICF/ PAE FPSC).
+
+|
 
 2 |
 
@@ -748,7 +808,9 @@ Certificat à la pédagogie appliquée à l'emploi de formateur aux premiers sec
 
 1 |
 
-Mention de formateurs aux premiers secours (M PICF/PAE FPS). |
+Formation pour l'obtention de la mention de formateurs aux premiers secours (M PICF/ PAE FPS).
+
+|
 
 2 |
 
@@ -760,13 +822,15 @@ Certificat à la pédagogie appliquée à l'emploi de formateur de formateurs et
 
 1 |
 
-Mention d'équipier reconnaissance risques radiologiques (M RAD 1). |
+Formation pour l'obtention de la mention d'équipier reconnaissance risques radiologiques (M RAD 1). |
 
 2 |
 
 1 |
 
-Mention d'équipier reconnaissances risques chimiques et biologiques (M RCH 1). |
+Formation pour l'obtention de la mention d'équipier reconnaissances risques chimiques et biologiques (M RCH 1).
+
+|
 
 2 |
 
@@ -1032,12 +1096,6 @@ Maintenance Training Course (Per Trainee). |
 
 1 |
 
-Stage planification et programme des opérations aériennes (C POPSAE). |
-
-4 |
-
-1 |
-
 Opérations en milieu aéromaritime :
 
 Intitulé de la formation |
@@ -1045,6 +1103,12 @@ Intitulé de la formation |
 Durée du lien au service (années) |
 
 Coefficient multiplicateur |
+
+Stage planification et programme des opérations aériennes (C POPSAE). |
+
+4 |
+
+1 |
 
 Certificat de prévisionniste météorologiste océanographe (METOC) senior (C PREVIS SENIOR). |
 
@@ -1210,7 +1274,7 @@ Stage de qualification de chimiste sur SNLE de type Le Triomphant (C CHIMI TRI).
 
 1 |
 
-Stage d'instrumentiste non atomicien avant sur SNA (C INSTRUSNA NON ATO AV). |
+Stage d'instrumentiste non atomicien " avant " sur SNA (C INSTRUSNA NON ATO AV). |
 
 3 |
 
@@ -1293,12 +1357,6 @@ Intitulé de la formation |
 Durée du lien au service (années) |
 
 Coefficient multiplicateur |
-
-Mention de chef de manœuvre pompier d'aérodrome (M SSIS2). |
-
-3 |
-
-1 |
 
 Certificat d'instructeur système feu (C ISF). |
 
