@@ -14,10 +14,10 @@ Responsable de la cellule "conventions" au sein du service financier.
 
 Agent chargé du secrétariat du directeur.
 
-Agent en charge du pôle social au sein du service des ressources humaines.
+Chef de la section gestion administrative et paye au sein du service des ressources humaines.
 
 Agent en charge de la gestion des procédures de marchés publics au sein du service financier.
 
 Agent en charge de l'encadrement des opérations de paye au sein du service des ressources humaines.
 
-Chauffeur principal du directeur.
+Technicien informatique.
