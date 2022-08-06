@@ -56,7 +56,7 @@ II-Emoluments forfaitaires alloués aux étudiants faisant fonction d'interne (m
 
 III-Montant brut annuel de la rémunération des étudiants effectuant une année de recherche |
 
-25 548,67 |
+27 188.19 |
 
 IV-Montants bruts annuels des indemnités compensatrices d'avantages en nature pour les internes et les résidents en en médecine et les étudiants en médecine et pharmacie désignées pour occuper provisoirement un poste d'interne : |
 
