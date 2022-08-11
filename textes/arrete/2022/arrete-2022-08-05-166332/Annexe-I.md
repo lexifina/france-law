@@ -1,26 +1,16 @@
-# Article LEGIARTI000044168432
+# Article Annexe I
 
-ANNEXES
-
-ANNEXE I
-
-Epreuves des concours prévus :
-
-- au 1° de l'article 5 du décret susvisé (ouvert aux candidats titulaires de l'un des diplômes exigés des candidats au concours externe de l'Ecole nationale d'administration) ;
-
-- au 2° de l'article 5 du décret susvisé (ouvert aux militaires non officiers et aux fonctionnaires de catégorie B) ;
-
-- au 4° de l'article 5 du décret susvisé (ouvert aux capitaines ou officiers de grade correspondant et aux fonctionnaires civils d'un corps de catégorie A ou assimilé).
+ÉPREUVES DES CONCOURS PRÉVUS AU 1° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX CANDIDATS TITULAIRES DE L'UN DES DIPLÔMES EXIGÉS DES CANDIDATS AU CONCOURS EXTERNE DE L'ÉCOLE NATIONALE D'ADMINISTRATION), AU 2° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX MILITAIRES NON OFFICIERS ET AUX FONCTIONNAIRES DE CATÉGORIE B) ET AU 4° DE L'ARTICLE 5 DU DÉCRET SUSVISÉ (OUVERT AUX CAPITAINES OU OFFICIERS DE GRADE CORRESPONDANT ET AUX FONCTIONNAIRES CIVILS D'UN CORPS DE CATÉGORIE A OU ASSIMILÉ)
 
 I. - Epreuves d'admissibilité
 
-1° Epreuve de culture générale (durée : quatre heures ; coefficient 5) :
+1° Epreuve de culture générale (durée : quatre heures ; coefficient 5)
 
 L'épreuve de culture générale consiste en une dissertation sur un sujet d'ordre général relatif à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du xxe siècle.
 
 Cette épreuve a pour but d'apprécier les connaissances générales, les idées personnelles et les qualités de style des candidats ainsi que leurs capacités d'analyse et de méthode.
 
-2° Epreuve de synthèse de dossier (coefficient 5) :
+2° Epreuve de synthèse de dossier (coefficient 5)
 
 Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier portant sur un sujet d'ordre général ou professionnel.
 
@@ -60,7 +50,7 @@ Moins 10 points |
 
 II. - Epreuves d'admission
 
-1° Epreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 6) :
+1° Epreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 6)
 
 Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier du corps technique et administratif de la gendarmerie nationale au regard de sa personnalité et de sa motivation ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit, son équilibre émotionnel.
 
@@ -70,7 +60,7 @@ a) Un entretien individuel réalisé par un psychologue, destiné à éclairer l
 
 b) Un entretien individuel du candidat avec le président du jury assisté d'un ou de plusieurs examinateurs. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté sur son temps de préparation de vingt minutes. L'entretien débute par un exposé de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde contemporain. Il se poursuit sous la forme d'un dialogue avec le jury.
 
-2° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 2) :
+2° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 2)
 
 Le candidat a le choix de la langue : anglaise, allemande, espagnole ou italienne.
 
@@ -78,7 +68,7 @@ L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au so
 
 Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse, portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec le ou les examinateurs. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
 
-3° Epreuves sportives (la moyenne des notes est affectée du coefficient 2) :
+3° Epreuves sportives (la moyenne des notes est affectée du coefficient 2)
 
 Ces épreuves sont définies :
 

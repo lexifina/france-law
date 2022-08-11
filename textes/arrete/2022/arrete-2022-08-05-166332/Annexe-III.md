@@ -1,12 +1,10 @@
-# Article LEGIARTI000044168436
-
-ANNEXE III
+# Article Annexe III
 
 ÉPREUVES DU CONCOURS PRÉVU AU 1° DE L'ARTICLE 7 DU DÉCRET SUSVISÉ (OUVERT AUX SOUS-OFFICIERS DU CORPS DE SOUTIEN TECHNIQUE ET ADMINISTRATIF DE LA GENDARMERIE NATIONALE DES GRADES DE MAJOR, D'ADJUDANT-CHEF ET D'ADJUDANT INSCRITS AU TABLEAU D'AVANCEMENT)
 
 I. - Epreuve d'admissibilité
 
-Epreuve de connaissances professionnelles (durée : trois heures ; coefficient 2) :
+Epreuve de connaissances professionnelles (durée : trois heures ; coefficient 2).
 
 Cette épreuve consiste à évaluer les connaissances du candidat sur le service, l'organisation et l'administration de la gendarmerie nationale et à déterminer son aptitude à formuler des réponses synthétiques, claires et objectives sur des questions professionnelles transverses nécessitant la connaissance d'un certain nombre de textes.
 
@@ -16,7 +14,7 @@ La liste précise des textes à connaître est diffusée annuellement.
 
 II. - Epreuves d'admission
 
-1° Epreuve de reconnaissance des acquis de l'expérience professionnelle (durée : trente minutes, sans préparation ; coefficient 5) :
+1° Epreuve de reconnaissance des acquis de l'expérience professionnelle (durée : trente minutes, sans préparation ; coefficient 5)
 
 Cette épreuve consiste en un entretien avec le jury s'appuyant sur le dossier du candidat déclaré admissible.
 
@@ -24,6 +22,6 @@ L'entretien vise à mettre en valeur l'aptitude du candidat à l'état d'officie
 
 Ce dossier comprend un rapport établi au titre d'une des spécialités librement choisie à l'inscription et prévue par l'arrêté du 4 août 2010 modifié pris pour l'application dans la gendarmerie nationale des articles 5 et 18 du décret 2008-953 du 12 septembre 2008 portant statut particulier des corps de sous-officiers et officiers marinier de carrière des armées et du soutien technique et administratif de la gendarmerie nationale.
 
-2° Epreuve sportive :
+2° Epreuve sportive
 
 L'épreuve est définie à l'annexe VI. La note de sport est affectée du coefficient 1.
