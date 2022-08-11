@@ -1,18 +1,16 @@
-# Article LEGIARTI000044168726
+# Article Annexe II
 
-ANNEXE II
-
-ÉPREUVES DU CONCOURS PRÉVU AU 3° DE L'ARTICLE 6 DU DÉCRET DU 12 SEPTEMBRE 2008 SUSVISÉ (OUVERT AUX SOUS-OFFICIERS DE CARRIÈRE DE GENDARMERIE TITULAIRES D'UNE LICENCE DE L'ENSEIGNEMENT SUPÉRIEUR, D'UN AUTRE TITRE OU DIPLÔME CLASSÉ AU MOINS AU NIVEAU II DE LA NOMENCLATURE FRANÇAISE OU AU MOINS DE NIVEAU 6 DE LA NOMENCLATURE EUROPÉENNE, D'UN TITRE OU DIPLÔME RECONNU COMME ÉQUIVALENT À CES DERNIERS OU D'UN TITRE PROFESSIONNEL DONT LA LISTE EST ÉTABLIE PAR ARRÊTÉ DU MINISTRE DE L'INTÉRIEUR)
+ÉPREUVES DU CONCOURS PRÉVU AU 3° DE L'ARTICLE 6 DU DÉCRET DU 12 SEPTEMBRE 2008 SUSVISÉ (OUVERT AUX SOUS-OFFICIERS DE CARRIÈRE DE GENDARMERIE TITULAIRES D'UNE LICENCE DE L'ENSEIGNEMENT SUPÉRIEUR, D'UN AUTRE TITRE OU DIPLÔME CLASSÉ AU MOINS AU 7 AU REGISTRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES, D'UN TITRE OU DIPLÔME RECONNU COMME ÉQUIVALENT À CES DERNIERS OU D'UN TITRE PROFESSIONNEL DONT LA LISTE EST ÉTABLIE PAR ARRÊTÉ DU MINISTRE DE L'INTÉRIEUR)
 
 I. - Epreuves d'admissibilité
 
-1° Epreuve de culture générale (durée : quatre heures ; coefficient 25) :
+1° Epreuve de culture générale (durée : quatre heures ; coefficient 25)
 
-L'épreuve de culture générale consiste en une dissertation sur un sujet d'ordre général relatif à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du xxe siècle.
+L'épreuve de culture générale consiste en une dissertation sur un sujet d'ordre général relatif à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du XXe siècle.
 
 Cette épreuve a pour but d'apprécier les connaissances générales, les idées personnelles et les qualités de style des candidats ainsi que leurs capacités d'analyse et de méthode.
 
-2° Epreuve à option (durée : trois heures ; coefficient 15) :
+2° Epreuve à option (durée : trois heures ; coefficient 15)
 
 Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
@@ -22,7 +20,7 @@ Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
 - cas concret professionnel.
 
-A. - SYNTHÈSE DE DOSSIER
+A. - Synthèse de dossier
 
 Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier comprenant entre vingt et trente pages et portant sur un sujet d'ordre général ou professionnel.
 
@@ -56,7 +54,7 @@ Rédaction de plus de 700 mots |
 
 moins 10 points |
 
-B. - MATHÉMATIQUES
+B. - Mathématiques
 
 Cette épreuve vise à déterminer l'aptitude du candidat à faire preuve de capacités d'argumentation, de rédaction d'une démonstration et de logique. Elle permet de démontrer que le candidat a la capacité de :
 
@@ -222,7 +220,7 @@ Les intervalles de confiance considérés ici sont centrés en la fréquence obs
 
 - niveau de confiance.
 
-C. - CAS CONCRET PROFESSIONNEL
+C. - Cas concret professionnel
 
 Cette épreuve vise à déterminer l'aptitude des candidats à faire face à une situation susceptible d'être rencontrée dans l'exercice de responsabilités au sein d'un dispositif ou d'une formation relevant d'une des deux subdivisions de l'arme, ainsi qu'à démontrer leur capacité à faire appel à des connaissances relatives à la tactique, à l'emploi des moyens de la gendarmerie nationale, à la réglementation, à la législation, à la gestion des ressources humaines et à la mise en œuvre des matériels en service.
 
@@ -230,7 +228,7 @@ Elle consiste à rédiger, avec ou sans l'aide d'une documentation, un devoir su
 
 II. - Epreuves d'admission
 
-1° Une épreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 20) :
+1° Une épreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 20)
 
 Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de sa personnalité et de sa motivation ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
 
@@ -240,7 +238,7 @@ a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer 
 
 b) Un entretien individuel du candidat avec le président du jury assisté d'un examinateur. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté sur son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
-2° Une épreuve de connaissances professionnelles (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 25) :
+2° Une épreuve de connaissances professionnelles (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 25)
 
 Cette épreuve a pour objet de vérifier que le candidat a acquis une connaissance suffisante des textes relatifs aux domaines professionnels majeurs.
 
@@ -312,7 +310,7 @@ c) Le droit pénal général :
 
 - l'extinction des condamnations et des peines.
 
-3° Une épreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 5) :
+3° Une épreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 5)
 
 Le candidat a le choix de la langue : anglaise, allemande, espagnole ou italienne.
 
@@ -320,6 +318,6 @@ L'usage du dictionnaire monolingue ou bilingue est interdit. Après tirage au so
 
 Cette épreuve débute par une version. Le candidat traduit tout ou partie d'un texte rédigé en langue étrangère dans la langue française puis commente ce texte issu de la presse portant sur un sujet d'actualité ou de société. L'épreuve se poursuit par un entretien d'ordre général avec l'examinateur. Le commentaire et l'entretien s'effectuent dans la langue étrangère choisie.
 
-4° Des épreuves sportives (la moyenne des notes est affectée du coefficient 10) :
+4° Des épreuves sportives (la moyenne des notes est affectée du coefficient 10)
 
 Les épreuves sportives sont définies à l'annexe VII du présent arrêté.

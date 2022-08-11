@@ -1,24 +1,16 @@
-# Article LEGIARTI000044168722
+# Article Annexe I
 
-ANNEXES
-
-ANNEXE I
-
-Epreuves des concours prévus :
-
-- au 1° de l'article 6 du décret du 12 septembre 2008 susvisé (ouvert aux candidats titulaires d'un diplôme ou titre conférant le grade de master ou d'un diplôme ou titre homologué ou enregistré au répertoire national des certifications professionnelles au niveau I de la nomenclature française ou au moins de niveau 7 de la nomenclature européenne)-concours officier de gendarmerie universitaire ;
-
-- au 2° de l'article 6 du même décret susvisé (ouvert aux fonctionnaires de catégorie A).
+ÉPREUVES DES CONCOURS PRÉVUS AU 1° DE L'ARTICLE 6 DU DÉCRET DU 12 SEPTEMBRE 2008 SUSVISÉ (OUVERT AUX CANDIDATS TITULAIRES D'UN DIPLÔME OU TITRE CONFÉRANT LE GRADE DE MASTER OU D'UN DIPLÔME OU TITRE HOMOLOGUÉ OU ENREGISTRÉ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES AU NIVEAU 7)-CONCOURS OFFICIER DE GENDARMERIE UNIVERSITAIRE ET AU 2° DE L'ARTICLE 6 DU MÊME DÉCRET SUSVISÉ (OUVERT AUX FONCTIONNAIRES DE CATÉGORIE A)
 
 I. - Epreuves d'admissibilité
 
-1° Epreuve de culture générale (durée : cinq heures ; coefficient 5) :
+1° Epreuve de culture générale (durée : cinq heures ; coefficient 5).
 
 Cette épreuve est destinée à mettre en relief, outre les connaissances et les idées personnelles des candidats, leurs qualités générales de style, de clarté d'esprit, de jugement et de méthode.
 
-Elle consiste à rédiger un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du xxe siècle.
+Elle consiste à rédiger un devoir sur un sujet d'ordre général se rapportant à l'évolution des idées et des faits politiques, économiques et sociaux en France et dans le monde depuis le début du XXe siècle.
 
-2° Epreuve de synthèse de dossier (durée : quatre heures ; coefficient 5) :
+2° Epreuve de synthèse de dossier (durée : quatre heures ; coefficient 5).
 
 Cette épreuve vise à déterminer l'aptitude des candidats à dégager les idées essentielles d'un dossier comprenant entre 30 et 40 pages et portant sur un sujet d'ordre général.
 
@@ -52,7 +44,7 @@ Rédaction de plus de 700 mots |
 
 moins 10 points |
 
-3° Epreuve à option (durée : quatre heures ; coefficient 5) :
+3° Epreuve à option (durée : quatre heures ; coefficient 5).
 
 Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
@@ -66,7 +58,7 @@ Cette épreuve porte, au choix du candidat, sur l'une des matières suivantes :
 
 - histoire-géographie.
 
-A. - OPTION DROIT PÉNAL
+A. - Option droit pénal
 
 Cette épreuve consiste à rédiger une composition portant sur l'un des thèmes de droit pénal général, de procédure pénale ou de droit pénal spécial figurant au programme défini ci-après.
 
@@ -228,7 +220,7 @@ d) Autres infractions :
 
 - infractions en matière de sociétés : abus de biens sociaux.
 
-B. - OPTION DROIT PUBLIC
+B. - Option droit public
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes de droit constitutionnel, de libertés publiques ou de droit administratif figurant au programme défini ci-après.
 
@@ -266,9 +258,9 @@ a) Les sources du droit constitutionnel :
 
 b) Les rapports du droit constitutionnel et du droit international.
 
-c) L'histoire constitutionnelle française depuis la iiie République.
+c) L'histoire constitutionnelle française depuis la IIIe République.
 
-3° La Constitution de la ve République :
+3° La Constitution de la Ve République :
 
 a) Ses principes fondamentaux : souveraineté nationale et séparation des pouvoirs.
 
@@ -362,9 +354,9 @@ a) L'administration d'Etat :
 
 - l'administration d'Etat déconcentrée (préfet, sous-préfet), les services extérieurs de l'Etat.
 
-b) Les collectivités territoriales : la région, le département, la commune, les groupements de collectivités territoriales, le statut de Paris-Lyon-Marseille, le contrôle administratif des collectivités territoriales ;
+b) Les collectivités territoriales : la région, le département, la commune, les groupements de collectivités territoriales, le statut de Paris-Lyon-Marseille, le contrôle administratif des collectivités territoriales.
 
-c) Les établissements publics ;
+c) Les établissements publics.
 
 d) Les rapports entre les personnes publiques : centralisation, décentralisation et déconcentration.
 
@@ -404,7 +396,7 @@ a) La théorie générale du droit de la fonction publique : les sources, la com
 
 b) Le régime juridique de la fonction publique : la carrière du fonctionnaire, les droits et obligations du fonctionnaire.
 
-C. - OPTION FINANCES PUBLIQUES
+C. - Option finances publiques
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes figurant au programme défini ci-après.
 
@@ -502,7 +494,7 @@ IX. - Les finances de l'Union européenne
 
 2° Ressources et dépenses du budget de l'Union européenne.
 
-D. - OPTION SCIENCES ÉCONOMIQUES ET DE GESTION
+D. - Option sciences économiques et de gestion
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une composition portant sur l'un des thèmes de sciences économiques ou de sciences de gestion figurant au programme défini ci-après.
 
@@ -640,7 +632,7 @@ d) La gestion de la flexibilité.
 
 e) La gestion de l'innovation et du changement.
 
-E. - OPTION HISTOIRE-GÉOGRAPHIE
+E. - Option histoire-géographie
 
 Cette épreuve consiste à rédiger, sans l'aide d'une documentation, une dissertation portant sur l'un des thèmes d'histoire ou de géographie figurant au programme défini ci-après.
 
@@ -680,17 +672,17 @@ f) L'élaboration d'un nouvel ordre mondial dominé par l'hyperpuissance améric
 
 a) La reconstruction politique et économique de la France après 1945.
 
-b) Les guerres coloniales et l'échec de la ive République.
+b) Les guerres coloniales et l'échec de la IVe République.
 
-c) Naissance et consolidation de la ve République (1958-1969).
+c) Naissance et consolidation de la Ve République (1958-1969).
 
-d) La ve République après 1969 : les expériences néo-gaullistes, libérales, socialistes.
+d) La Ve République après 1969 : les expériences néo-gaullistes, libérales, socialistes.
 
-e) L'évolution de la ve République : alternances, cohabitations, mutations (1986-2013).
+e) L'évolution de la Ve République : alternances, cohabitations, mutations (1986-2013).
 
 f) Les mutations sociales et culturelles depuis 1945.
 
-4° Le monde au début du xxie siècle :
+4° Le monde au début du XXIe siècle :
 
 a) L'hyperpuissance américaine.
 
@@ -768,7 +760,7 @@ c) Les politiques urbaines et l'urbanisme.
 
 II. - Epreuves d'admission
 
-1° Epreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 8) :
+1° Epreuve d'aptitude générale (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 8).
 
 Cette épreuve vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de sa personnalité et de sa motivation, ainsi que de sa culture générale, ses facultés d'expression et de raisonnement, sa vivacité d'esprit et son équilibre émotionnel.
 
@@ -778,7 +770,7 @@ a) Un entretien individuel, réalisé par un psychologue, destiné à éclairer 
 
 b) Un entretien individuel du candidat avec le président du jury assisté de deux examinateurs. Il débute par un exposé d'une durée de dix minutes sur un thème général se rapportant à des idées ou à des faits dont la connaissance est nécessaire à la compréhension du monde moderne. Il se poursuit sous la forme d'un dialogue avec le jury. Le candidat tire au sort un sujet. Il peut, s'il le souhaite, tirer un second sujet. Le temps pris pour définitivement exprimer son choix est décompté de son temps de préparation de vingt minutes. Pour cet entretien, le président du jury dispose, à titre indicatif, du dossier du candidat.
 
-2° Epreuve orale portant sur les questions de défense et de sécurité (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 4) :
+2° Epreuve orale portant sur les questions de défense et de sécurité (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 4).
 
 Cette épreuve est destinée à mettre en relief les connaissances des candidats sur les questions de défense et de sécurité.
 
@@ -820,7 +812,7 @@ b) Organisation et acteurs :
 
 - les acteurs étatiques, territoriaux et privés et leurs missions.
 
-3° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 3) :
+3° Epreuve de langue étrangère (durée : cinquante minutes, dont vingt minutes de préparation ; coefficient 3).
 
 Le candidat a le choix de la langue : anglaise, allemande, espagnole ou italienne.
 

@@ -1,12 +1,10 @@
-# Article LEGIARTI000044168730
-
-ANNEXE IV
+# Article Annexe IV
 
 ÉPREUVES DU CONCOURS PRÉVU AU 1° DE L'ARTICLE 8 DU DÉCRET DU 12 SEPTEMBRE 2008 SUSVISÉ (OUVERT AUX MAJORS, AUX ADJUDANTS-CHEFS ET AUX ADJUDANTS DE GENDARMERIE INSCRITS AU TABLEAU D'AVANCEMENT)
 
 I. - Epreuve d'admissibilité
 
-Epreuve de connaissances professionnelles (durée : trois heures ; coefficient 2) :
+Epreuve de connaissances professionnelles (durée : trois heures ; coefficient 2)
 
 Cette épreuve consiste à évaluer les connaissances du candidat sur le service, l'organisation et l'administration de la gendarmerie nationale et à déterminer son aptitude à formuler des réponses synthétiques, claires et objectives sur des questions professionnelles transverses nécessitant la connaissance d'un certain nombre de textes.
 
@@ -14,11 +12,11 @@ L'épreuve porte sur cinq questions qui appellent des réponses ne dépassant pa
 
 II. - Epreuves d'admission
 
-1° Epreuve de reconnaissance des acquis de l'expérience professionnelle (durée : trente minutes, sans préparation ; coefficient 4) :
+1° Epreuve de reconnaissance des acquis de l'expérience professionnelle (durée : trente minutes, sans préparation ; coefficient 4)
 
 Ce dossier comprend un rapport établi au titre d'une des subdivisions d'arme ou spécialités librement choisie à l'inscription et prévue par l'arrêté du 5 avril 2012 modifié relatif à la répartition des sous-officiers de gendarmerie par subdivision d'arme, par branche ou par spécialité et fixant les branches et spécialités au sein desquelles l'avancement intervient de façon distincte. Cette épreuve consiste en un entretien avec le jury s'appuyant sur le dossier du candidat déclaré admissible. L'entretien vise à mettre en valeur l'aptitude du candidat à l'état d'officier de gendarmerie au regard de ses acquis de l'expérience professionnelle durant son activité de sous-officier de gendarmerie. A partir du dossier du candidat, le jury a toute latitude pour élargir la discussion.
 
-2° Epreuve sportive : course de demi-fond (coefficient 1) :
+2° Epreuve sportive : course de demi-fond (coefficient 1)
 
 Il s'agit d'une course de 3 000 mètres, effectuée sur une piste, avec départ en ligne.
 
@@ -26,7 +24,7 @@ Les candidats sont en tenue de sport et les chaussures à pointes sont autorisé
 
 Les candidats effectuent cette épreuve par groupes d'importance numérique aussi semblables que possible et d'effectif inférieur ou égal à 25.
 
-Barème de l'épreuve sportive :
+Barème de l'épreuve sportive
 
 En cas de performance intermédiaire, la note à attribuer est celle qui correspond à la performance immédiatement inférieure.
 
@@ -46,283 +44,283 @@ FEMMES |
 
 20 |
 
-12ʹ30 |
+12'30 |
 
-15ʹ30 |
+15'30 |
 
 |
 
 10 |
 
-16ʹ50 |
+16'50 |
 
-19ʹ50 |
+19'50 |
 
 19,5 |
 
-12ʹ35 |
+12'35 |
 
-15ʹ35 |
+15'35 |
 
 |
 
 9,5 |
 
-17ʹ05 |
+17'05 |
 
-20ʹ05 |
+20'05 |
 
 19 |
 
-12ʹ43 |
+12'43 |
 
-15ʹ43 |
+15'43 |
 
 |
 
 9 |
 
-17ʹ20 |
+17'20 |
 
-20ʹ20 |
+20'20 |
 
 18,5 |
 
-12ʹ51 |
+12'51 |
 
-15ʹ51 |
+15'51 |
 
 |
 
 8,5 |
 
-17ʹ40 |
+17'40 |
 
-20ʹ40 |
+20'40 |
 
 18 |
 
-13ʹ00 |
+13'00 |
 
-16ʹ00 |
+16'00 |
 
 |
 
 8 |
 
-18ʹ00 |
+18'00 |
 
-21ʹ00 |
+21'00 |
 
 17,5 |
 
-13ʹ10 |
+13'10 |
 
-16ʹ10 |
+16'10 |
 
 |
 
 7,5 |
 
-18ʹ20 |
+18'20 |
 
-21ʹ20 |
+21'20 |
 
 17 |
 
-13ʹ20 |
+13'20 |
 
-16ʹ20 |
+16'20 |
 
 |
 
 7 |
 
-18ʹ40 |
+18'40 |
 
-21ʹ40 |
+21'40 |
 
 16,5 |
 
-13ʹ35 |
+13'35 |
 
-16ʹ35 |
+16'35 |
 
 |
 
 6,5 |
 
-19ʹ00 |
+19'00 |
 
-22ʹ00 |
+22'00 |
 
 16 |
 
-13ʹ50 |
+13'50 |
 
-16ʹ50 |
+16'50 |
 
 |
 
 6 |
 
-19ʹ20 |
+19'20 |
 
-22ʹ20 |
+22'20 |
 
 15,5 |
 
-14ʹ05 |
+14'05 |
 
-17ʹ05 |
+17'05 |
 
 |
 
 5,5 |
 
-19ʹ40 |
+19'40 |
 
-22ʹ40 |
+22'40 |
 
 15 |
 
-14ʹ20 |
+14'20 |
 
-17ʹ20 |
+17'20 |
 
 |
 
 5 |
 
-20ʹ00 |
+20'00 |
 
-23ʹ00 |
+23'00 |
 
 14,5 |
 
-14ʹ35 |
+14'35 |
 
-17ʹ35 |
+17'35 |
 
 |
 
 4,5 |
 
-20ʹ20 |
+20'20 |
 
-23ʹ20 |
+23'20 |
 
 14 |
 
-14ʹ50 |
+14'50 |
 
-17ʹ50 |
+17'50 |
 
 |
 
 4 |
 
-20ʹ40 |
+20'40 |
 
-23ʹ40 |
+23'40 |
 
 13,5 |
 
-15ʹ05 |
+15'05 |
 
-18ʹ05 |
+18'05 |
 
 |
 
 3,5 |
 
-21ʹ00 |
+21'00 |
 
-24ʹ00 |
+24'00 |
 
 13 |
 
-15ʹ20 |
+15'20 |
 
-18ʹ20 |
+18'20 |
 
 |
 
 3 |
 
-21ʹ20 |
+21'20 |
 
-24ʹ20 |
+24'20 |
 
 12,5 |
 
-15ʹ35 |
+15'35 |
 
-18ʹ35 |
+18'35 |
 
 |
 
 2,5 |
 
-21ʹ40 |
+21'40 |
 
-24ʹ40 |
+24'40 |
 
 12 |
 
-15ʹ50 |
+15'50 |
 
-18ʹ50 |
+18'50 |
 
 |
 
 2 |
 
-22ʹ00 |
+22'00 |
 
-25ʹ00 |
+25'00 |
 
 11,5 |
 
-16ʹ05 |
+16'05 |
 
-19ʹ05 |
+19'05 |
 
 |
 
 1,5 |
 
-22ʹ20 |
+22'20 |
 
-25ʹ20 |
+25'20 |
 
 11 |
 
-16ʹ20 |
+16'20 |
 
-19ʹ20 |
+19'20 |
 
 |
 
 1 |
 
-22ʹ40 |
+22'40 |
 
-25ʹ40 |
+25'40 |
 
 10,5 |
 
-16ʹ35 |
+16'35 |
 
-19ʹ35 |
+19'35 |
 
 |
 
 0,5 |
 
-23ʹ00 |
+23'00 |
 
-26ʹ00 |
+26'00 |
 
 |
 
@@ -334,6 +332,6 @@ FEMMES |
 
 0 |
 
-> 23ʹ00 |
+> 23'00 |
 
-> 26ʹ00 |
+> 26'00 |
