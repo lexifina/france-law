@@ -10,39 +10,39 @@ Favoriser le développement de la qualité de l'enseignement de la conduite et d
 
 En fin de formation, le stagiaire doit être capable de :
 
-- comprendre les évolutions récentes intervenues dans le secteur professionnel (aspects pédagogiques et psychopédagogiques, réglementaires, données socio-économiques) ;
+-comprendre les évolutions récentes intervenues dans le secteur professionnel (aspects pédagogiques et psychopédagogiques, réglementaires, données socio-économiques) ;
 
-- mettre en application ces évolutions dans ses activités professionnelles ;
+-mettre en application ces évolutions dans ses activités professionnelles ;
 
-- mesurer le rapport existant entre son activité propre et les résultats qui peuvent en découler tant au niveau de l'exercice de son métier qu'au regard des objectifs de sécurité routière ;
+-mesurer le rapport existant entre son activité propre et les résultats qui peuvent en découler tant au niveau de l'exercice de son métier qu'au regard des objectifs de sécurité routière ;
 
-- mesurer ses besoins en formations complémentaires.
+-mesurer ses besoins en formations complémentaires.
 
 Contenus :
 
-THÈMES À DÉVELOPPER
+Thèmes à développer
 
-QUALIFICATION des formateurs
+Qualification des formateurs
 
 1. Culture sécurité routière
 
-Brevet d'aptitude à la formation des moniteurs (BAFM).
+Titulaire du brevet d'aptitude à la formation des moniteurs (BAFM) ou du titre à finalité professionnelle de formateur aux métiers de l'éducation et de la sécurité routière (FMESR).
 
 2. Pédagogie et psychopédagogie
 
-BAFM.
+Titulaire du brevet d'aptitude à la formation des moniteurs (BAFM) ou du titre à finalité professionnelle de formateur aux métiers de l'éducation et de la sécurité routière (FMESR).
 
 3. Réglementation de l'enseignement de la conduite, réglementation du permis de conduire, réglementation du code de la route
 
-BAFM.
+Titulaire du brevet d'aptitude à la formation des moniteurs (BAFM) ou du titre à finalité professionnelle de formateur aux métiers de l'éducation et de la sécurité routière (FMESR).
 
 4. Environnement économique, social et fiscal de l'entreprise
 
-Diplôme de niveau II dans la discipline concernée.
+Titulaire d'un diplôme de niveau 6 dans la discipline concernée.
 
 5. Environnement commercial, concurrence et consommation
 
-Diplôme de niveau II dans la discipline concernée.
+Titulaire d'un diplôme de niveau 6 dans la discipline concernée.
 
 Durée :
 
