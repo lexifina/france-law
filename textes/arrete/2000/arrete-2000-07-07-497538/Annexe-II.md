@@ -278,7 +278,7 @@ rue Victor-Fenoux 29200 Brest puis ZI portuaire, 29200 Brest : de 1968 à 2012
 
 Puis
 
-DAMEN SHIPREPAIR BREST, rue Emile de Carcaradec, Port de commerce, 29200 Brest : de 2012 au 30 juin 2022.
+DAMEN SHIPREPAIR BREST, rue Emile de Carcaradec, Port de commerce, 29200 Brest : de 2012 au 30 septembre 2022.
 
 Ateliers mécaniques Bougar :
 
@@ -506,7 +506,7 @@ Etablissements Guerif et Moreau/Etablissements généraux de mécanique de l'Oue
 
 - 8, rue Henry-Estier, 56100 Lorient, puis 52, boulevard Isidore-Marfille, 29200 Brest : de 1945 à 2006 puis NAVTIS,12, rue Jean-Charles Chevillotte, 29200 BREST et 52 boulevard Isidore Marfille CS 12938
 
-29229 BREST CEDEX 2 : de 2006 au 30 juin 2022.
+29229 BREST CEDEX 2 : de 2006 au 30 septembre 2022.
 
 Etablissements Guillaume et Cie :
 
