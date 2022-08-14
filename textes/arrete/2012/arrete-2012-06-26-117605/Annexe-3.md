@@ -4,9 +4,7 @@ RÉPUBLIQUE FRANÇAISE
 
 PRÉFECTURE
 
-Photo
-
-d'identité
+Photo d'identité
 
 AUTORISATION D'ANIMER LES STAGES DE SENSIBILISATION À LA SÉCURITÉ ROUTIÈRE DESTINÉS AUX CONDUCTEURS INFRACTIONNISTES (ARTICLES L. 212-1, L. 223-6, R. 212-2-II ET R. 223-5 DU CODE DE LA ROUTE)
 
@@ -26,7 +24,7 @@ Pour l'animateur formateur en sécurité routière :
 
 Titres ou diplômes mentionnés à l'article R. 212-3 du code de la route
 
-Diplôme complémentaire mentionné à l'annexe 1 de l'arrêté du 26 juin 2012 (BAFM ou BAFCRI)
+Diplôme complémentaire mentionné à l'annexe 1 de l'arrêté du 26 juin 2012 (BAFM ou TPFMESR ou BAFCRI)
 
 Autorisation d'enseigner la conduite des véhicules à moteur et la sécurité routière
 
@@ -42,11 +40,11 @@ L'autorisation d'animer les stages de sensibilisation à la sécurité routière
 
 M.
 
-Nom d'usage (le cas échéant) .................... Prénom(s)
+Nom d'usage (le cas échéant) Prénom (s)
 
-Né(e) le .................... /.................... /.................... à .................... (département) (pays)
+Né (e) le// à (département) (pays)
 
-Domicilié(e)
+Domicilié (e)
 
 En qualité d'animateur :
 
@@ -56,10 +54,8 @@ Expert en sécurité routière
 
 Psychologue et expert en sécurité routière
 
-Délivrée à .................... , le .................... , pour une durée de cinq ans.
+Délivrée à, le, pour une durée de cinq ans.
 
 Signature du titulaire
 
-Cachet et signature
-
-de l'autorité administrative
+Cachet et signature de l'autorité administrative
