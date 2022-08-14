@@ -1,5 +1,9 @@
 # Article Annexe II (suite)
 
+Bretagne
+
+ATELIER MECANIQUE JL BIDOU Terre plein du port 29730 LE GUILVINEC de 1998 à 2016 puis MECA MARINE PROPULSION Terre plein du port 29730 LE GUILVINEC de 2016 à 2019 et MECA MARINE PROPULSION Zone de Poriguenor 29730 LE GUILVINEC de 2019 au 30 Septembre 2022.
+
 Pays de la Loire
 
 ACB/Alsthom Fluides et Mécaniques :
@@ -450,7 +454,7 @@ COMPAGNIE DE SIGNAUX ET D'ENTREPRISES ÉLECTRIQUES (CSEE), Résidence La Grande 
 
 CORSICA LINEA SAS (n° SIRET 81524385200101), 42, rue de Ruffi, Bât G, 13003 MARSEILLE
 
-Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 au 30 juin 2022.
+Et Ateliers, Voie Ferrée Paris-Marseille-Hangar 216-porte 4 GPMM-13003 MARSEILLE : de 2017 au 30 septembre 2022.
 
 Cotre :
 
@@ -692,7 +696,7 @@ Macor Marine/Macor Neptun :
 
 Maintenance et applications techniques, ZI Les Paluds, 13400 Aubagne : de 1980 à 1983.
 
-MAK MÉDITERRANÉE Villa d'Este 15, avenue Robert-Schumann 13002 MARSEILLE De 1978 à 1980 Puis quartier du Rigon Plan de campagne Les Pennes-Mirabeau 13170 LA CAVOTTE De 1980 à 1982 Puis 38, boulevard Gay-Lussac 13014 MARSEILLE De 1983 à 1995 Puis 770, avenue Guilibert-de-la-Lauzière 13290 LES MILLES De 1995 à 1999 Puis Moteurs-Marine-Méditerranée/MAK Méditerranée/MAK/MAK MED ZAC Saumaty Séon 25, avenue Gaston-CastelAngle chemin de Saint-Henri 13016 MARSEILLE De 1999 à 2012.
+MAK MEDITERRANÉE Villa d'Este 15, avenue Robert Schumann 13002 Marseille de 1978 à 1980 Puis quartier du Rigon Plan de campagne Les Pennes-Mirabeau 13170 LA CAVOTTE de 1980 à 1982 Puis 38 boulevard Gay-Lussac 13014 MARSEILLE de 1983 à 1995 Puis 770, avenue Guilibert-de-la-Lauzière 13290 LES MILLES de 1995 à 1999 Puis Moteurs-Marine-Méditerranée/MAK Méditerranée/MAK MED Zac Saumaty Séon 25, avenue Gaston-Castel Angle chemin de Saint-Henri 13016 MARSEILLE de 1999 au 30 septembre 2022
 
 MARCELIN AUGUSTE, 10, boulevard d'Athènes, 13001 Marseille. De 1942 à 1967. Mourepiane, port de Marseille, 13016 Marseille. De 1953 à 1967. puis ENTREPRISE AUGUSTE MARCELLIN OCEAN INDIEN. 10, boulevard d'Athènes, 13001 Marseille. Mourepiane, port de Marseille, 13016 Marseille. De 1966 à 1976.
 
@@ -830,7 +834,7 @@ SA Baumier frères, puis SA Baumier, avenue de Font-Pré prolongée, puis 1600, 
 
 SA Compagnie Marseille Réparation-CMR (SIRET : 442 531 281 00016), puis Union Naval Marseille SAS (UNM) (SIRET : 490 355 005 00029), Terrain de Mourepiane, Porte 4, 13016 MARSEILLE
 
-puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 au 30 juin 2022.
+puis CHANTIER NAVAL DE MARSEILLE (CNM) (SIRET : 521 974 493 00020), Terre plein de Mourepiane, Porte 4, 13044 MARSEILLE : de 1954 au 30 septembre 2022.
 
 SA des anciens établissements Groignard/Ateliers provençaux de réparation navale/Ateliers provençaux de réparation navale et industrielle/Ateliers provençaux :
 
@@ -942,7 +946,7 @@ SCM/Chaudronnerie méridionale :
 
 - 30, chemin du Littoral, 13002 Marseille : depuis 1995.
 
-SCOP des chantiers navals de Barriol, 51, route de Barriol, 13200 Arles : depuis 1981.
+SCOP des CHANTIERS NAVALS DE BARRIOL 51, route de Barriol, 13200 Arles de 1981 au 30 septembre 2022.
 
 SEIGE et SOBOS, puis : SEIGE et SOBOS Industrie, puis : COMECA Logistique Département SEIGE et SOBOS, puis : COSMETECH Département SEIGE et SOBOS : de 1960 à 1994, puis : Dewco Provence : de 1995 à 2002, puis : Dewco International : de 2002 à 2006, 54, boulevard du Capitaine-Gèze, 13014 Marseille.
 
@@ -1216,7 +1220,7 @@ TPIM - Tuyauterie provençale industrie marine, TPIM Jh DI-GIOIA, 69, rue Emile-
 
 Var Industrie Zone Industrielle Les Négadoux 83140 Six Fours Les Plages de 1979 à 2001.
 
-Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989.
+Var isolation 25 bis rue Jean-Louis-Mabily 83500 La Seyne-sur-Mer De 1974 à 1989
 
 Wartsila Diesel Normed/Wartsila Diesel France/SACM Diesel/Wartsila SACM Diesel/Wartsila France/Wartsila NSD France/Wartsila France SAS, lieudit Les Baux, RN 8, 13420 Gemenos, de 1985 à 2003, enceinte portuaire, porte 4, 13344 Marseille Cedex 15, depuis 2003
 
