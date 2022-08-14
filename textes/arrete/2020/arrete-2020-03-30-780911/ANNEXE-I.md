@@ -1,10 +1,8 @@
 # Article ANNEXE I
 
-ANNEXES
-
 ANNEXE I
 
-POSTES OUVRANT AU DÉTACHEMENT DANS L'EMPLOI D'INGÉNIEUR EN CHEF DU 1ER ET DU 2E GROUPE EN ADMINISTRATION CENTRALE ET DANS LES SERVICES TECHNIQUES CENTRAUX
+POSTES OUVRANT AU DÉTACHEMENT DANS L'EMPLOI D'INGÉNIEUR EN CHEF DU PREMIER ET DEUXIÈME GROUPE EN ADMINISTRATION CENTRALE ET DANS LES SERVICES TECHNIQUES CENTRAUX
 
 Direction générale |
 
@@ -72,7 +70,7 @@ Chef du bureau des aides personnelles au logement |
 
 ICTPE 2 |
 
-Chef du bureau des politiques sociales du logement |
+Référent ministériel " Coordination et suivi des programmes Action cœur de ville et Petites villes de demain " |
 
 ICTPE 2 |
 
@@ -81,6 +79,18 @@ Chef du bureau de la réhabilitation du parc, des évaluations économiques et d
 ICTPE 2 |
 
 Chef du bureau de la planification urbaine et rurale et du cadre de vie |
+
+ICTPE 2 |
+
+Chef du bureau des villes et territoires durables
+
+(à compter du 21 mars 2022) |
+
+ICTPE 2 |
+
+Mission de coordination interministérielle du plan de rénovation énergétique des bâtiments |
+
+Chef de projet " rénover le parc locatif privé et les copropriétés " |
 
 ICTPE 2 |
 
@@ -97,6 +107,10 @@ Directeur de projet AMO et expertises auprès du chef du département structures
 ICTPE 2 |
 
 Service national d'ingénierie aéroportuaire |
+
+Directeur adjoint, en charge de l'ingénierie opérationnelle et du patrimoine |
+
+ICTPE 1 |
 
 Chef du département ingénierie infrastructure |
 
@@ -150,6 +164,12 @@ Chef du pôle Système d'information |
 
 ICTPE 2 |
 
+Chef du pôle acquisition des données et hydrométrie
+
+(à compter du 25 avril 2022) |
+
+ICTPE 2 |
+
 Service des risques sanitaires liés à l'environnement, des déchets et des pollutions diffuses |
 
 Adjoint chef de la MBAP-chargé de mission pollution lumineuse et vibrations bâtiments |
@@ -168,7 +188,15 @@ Chef de la mission transport de matières dangereuses |
 
 ICTPE 1 |
 
-Direction générale des infrastructures, des transports et de la mer |
+Direction générale des affaires maritimes, de la pêche et de l'aquaculture |
+
+Service flottes et marins |
+
+Chef de bureau de la sécurité des navires et de l'innovation navale |
+
+ICTPE 2 |
+
+Direction générale des infrastructures, des transports et des mobilités |
 
 Centre d'études des tunnels |
 
@@ -192,45 +220,17 @@ Chef du pôle Géologie, Géotechnique et Dimensionnement |
 
 ICTPE 2 |
 
-Direction des affaires maritimes |
-
-Chef du bureau des aides à la navigation |
-
-ICTPE 2 |
-
-Chef du bureau de la règlementation et du contrôle de la sécurité des navires |
-
-ICTPE 2 |
-
-Direction des infrastructures de transport |
-
-Chargé de mission d'audit, adjoint au chef du pôle de Lyon |
-
-ICTPE 1 |
-
-Chef du bureau de la programmation et du financement |
-
-ICTPE 2 |
-
-Chef du bureau du réseau ferré national |
-
-ICTPE 2 |
+Direction des mobilités routières |
 
 Inspecteur général ouvrages d'art |
 
 ICTPE 1 |
 
-Direction des services de transport |
+Chargé de mission d'audit, adjoint au chef du pôle de Lyon |
 
-Chef du bureau des politiques de déplacement |
+ICTPE 1 |
 
-ICTPE 2 |
-
-Chef du bureau du droit social dans les transports routiers |
-
-ICTPE 2 |
-
-Chef du bureau de la sécurité des transports guidés |
+Chef du bureau programmation et modernisation du réseau routier national (à compter du 2 mars 2022) |
 
 ICTPE 2 |
 
@@ -238,9 +238,35 @@ Chef du bureau des transports publics particuliers de personnes |
 
 ICTPE 2 |
 
-Mission Innovation, numérique et territoire |
+Chef du bureau de l'exploitation routière, de la sécurité et de l'appui aux services (à compter du 2 mars 2022) |
 
-Chef de projet transversal Innovation et Territoire |
+ICTPE 2 |
+
+Direction des transports ferroviaires, fluviaux et des ports |
+
+Chef du bureau du réseau ferré national |
+
+ICTPE 2 |
+
+Chef de bureau de la sécurité des transports ferroviaires et guidés (à compter du 2 mars 2022) |
+
+ICTPE 2 |
+
+Chef du bureau des tunnels ferroviaires transfrontaliers
+
+(à compter du 2 mars 2022) |
+
+ICTPE 2 |
+
+Sous-direction de la multimodalité, de l'innovation, du numérique et des territoires |
+
+Chef du pôle territoires (à compter du 2 mars 2022) |
+
+ICTPE 2 |
+
+Conseiller scientifique auprès de l'organisatrice de l'Agence de l'Innovation pour les Transport (AIT)
+
+(à compter du 2 mars 2022) |
 
 ICTPE 2 |
 
@@ -248,11 +274,11 @@ Chargé de mission Transports de marchandises et logistique |
 
 ICTPE 2 |
 
-Service de l'administration générale et de la stratégie |
+Sous-direction du droit social des transports terrestres |
 
-Chef du département affaires générales |
+Chef du bureau du droit social dans les transports routiers |
 
-ICTPE 1 |
+ICTPE 2 |
 
 Service technique des remontées mécaniques et des transports guidés |
 
@@ -264,10 +290,6 @@ Chef du département des installations de transport par câbles |
 
 ICTPE 1 |
 
-Chef du groupe mécanique et directeur adjoint de l'ON |
-
-ICTPE 2 |
-
 Chef du département Transports Publics Automatisés |
 
 ICTPE 2 |
@@ -276,21 +298,25 @@ Chef du département Métros et Systèmes ferroviaires |
 
 ICTPE 2 |
 
+Chef du Bureau Sud-Est (à compter du 1er janvier 2022) |
+
+ICTPE 2 |
+
 Secrétariat général |
 
 Direction des affaires européennes et internationales |
 
-Chargé de mission one planet summit |
+Chargé de mission " one planet summit " |
 
 ICTPE 2 |
 
 Direction des affaires financières |
 
-Chef du bureau de la gestion technique du patrimoine immobilier |
+Chef du bureau de la programmation et du pilotage des moyens de fonctionnement |
 
 ICTPE 2 |
 
-Chef du bureau de la programmation et du pilotage des moyens de fonctionnement |
+Chef du bureau de la gestion technique du patrimoine immobilier |
 
 ICTPE 2 |
 
@@ -308,10 +334,6 @@ Chargé de mission de corps pour les cadres supérieurs techniques |
 
 ICTPE 1 |
 
-Chef du département des solutions numériques en ressources humaines |
-
-ICTPE 1 |
-
 Chef du département de la coordination des ressources humaines de l'administration centrale et de gestion de proximité du SG |
 
 ICTPE 1 |
@@ -321,6 +343,10 @@ Chef du bureau des systèmes d'appui au développement des ressources humaines |
 ICTPE 2 |
 
 Chef du bureau des personnels techniques de catégorie A et de recherche |
+
+ICTPE 2 |
+
+Adjoint au chef du département des solutions numériques en ressources humaines |
 
 ICTPE 2 |
 
@@ -344,7 +370,9 @@ Adjoint au directeur CVRH Arras et Responsable du DCFP |
 
 ICTPE 2 |
 
-Adjoint au directeur du CVRH d'Arras, Chargé du pilotage du conseil aux services et de l'innovation |
+Adjoint au directeur du CVRH d'Aix-en-Provence, Chargé du pilotage du conseil aux services et de l'innovation
+
+(à compter du 1er janvier 2022) |
 
 ICTPE 2 |
 
@@ -356,9 +384,15 @@ Adjoint au directeur du CVRH Tour |
 
 ICTPE 2 |
 
-Service du numérique |
+Direction du numérique |
 
-Chef du département architecture et méthodes |
+Directeur du programme " numérique et écologie "
+
+(à compter du 1er juillet 2022) |
+
+ICTPE 2 |
+
+Chargé de mission sécurité des systèmes d'informations |
 
 ICTPE 2 |
 
@@ -374,16 +408,14 @@ Chef du département infrastructures et services |
 
 ICTPE 2 |
 
-Chargé de mission transformation agile auprès du sous-directeur Produits numériques métiers |
+Chargé de mission transformation agile |
 
 ICTPE 2 |
 
 Service du pilotage de l'évolution des services |
 
-Chef du département maîtrise d'ouvrage |
+Chef de projets innovation pour les transitions
 
-ICTPE 1 |
-
-Chargé d'ingénierie de formation nature et biodiversité |
+(à compter du 1er janvier 2022) |
 
 ICTPE 2 |
