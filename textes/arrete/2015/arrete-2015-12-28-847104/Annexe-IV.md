@@ -14,7 +14,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de la lutte anti-terroriste
 
--du management de l'information
+-de la criminalité organisée et de la délinquance spécialisée
 
 -médias
 
@@ -26,7 +26,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'organisation
 
--de la police judiciaire
+-de la délinquance générale
 
 -de la préparation et du pilotage de la masse salariale
 

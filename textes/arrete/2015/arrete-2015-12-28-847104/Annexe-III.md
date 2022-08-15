@@ -48,7 +48,7 @@ LISTE DES EMPLOIS OUVRANT DROIT À L'ATTRIBUTION DE L'INDEMNITÉ DE FONCTION ET 
 
 -de l'analyse et de l'anticipation
 
--de l'animation et de la coordination judiciaire
+-de la stratégie et de l'innovation
 
 -du cabinet
 
