@@ -8,7 +8,7 @@ II.-Lorsqu'il est recouru au présent dispositif, les conditions suivantes sont 
 
 2° La personne qui présente les biens en douane prend les mesures appropriées pour percevoir la taxe sur la valeur ajoutée auprès du destinataire des biens préalablement à son acquittement auprès du service des douanes conformément aux dispositions du présent article ;
 
-3° Par dérogation aux articles 278-0 bis à 281 nonies, l'importation des biens est soumise au taux prévu à l'article 278.
+3° Par dérogation aux articles 278-0 bis à 281 octies, l'importation des biens est soumise au taux prévu à l'article 278.
 
 III.-Les personnes présentant les biens en douane déclarent, par voie électronique, dans une déclaration mensuelle, la taxe sur la valeur ajoutée perçue au titre du présent régime particulier. La déclaration indique le montant total de la taxe sur la valeur ajoutée perçue au cours du mois civil concerné.
 
@@ -26,4 +26,4 @@ VII.-Aux fins du présent régime, la contre-valeur en monnaie nationale du mont
 
 NOTA :
 
-Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette date.
+Conformément au A du VIII de l’article 6 de la loi n° 2022-1157 du 16 août 2022, ces dispositions s'appliquent à compter du 1er janvier 2022.

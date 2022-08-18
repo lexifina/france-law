@@ -4,9 +4,9 @@ I.-Les redevables de l'accise sur les énergies mentionnée à l'article L. 312-
 
 Pour l'application du présent article :
 
-1° Les essences s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que ceux mentionnés à l'article L. 312-53 du même code ;
+1° Les essences s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que l'essence d'aviation mentionnée à l'article L. 312-82 du même code ;
 
-2° Les gazoles s'entendent des produits de la catégorie fiscale des essences au sens de l'article L. 312-22 du code des impositions sur les biens et services autres que ceux mentionnés à l'article L. 312-53 du même code ;
+2° Les gazoles s'entendent des produits de la catégorie fiscale des gazoles au sens de l'article L. 312-22 du code des impositions sur les biens et services ;
 
 3° Les carburéacteurs s'entendent des produits de la catégorie fiscale des carburéacteurs au sens de l'article L. 312-22 du code des impositions sur les biens et services, y compris ceux mentionnés à l'article L. 312-58 du même code ;
 
@@ -18,7 +18,7 @@ Pour l'application du présent article :
 
 7° Les graisses et huiles usagées s'entendent des produits mentionnés à la partie B de l'annexe IX de la directive ENR. ;
 
-Par dérogation aux 1° et 2° du présent I, l'éthanol diesel identifié à l'indice 56 dudit tableau est pris en compte comme une essence.
+Par dérogation aux 1° et 2° du présent I, l'éthanol diesel mentionné à l'article L. 312-80 du code des impositions sur les biens et services est pris en compte comme une essence.
 
 II.-Le fait générateur intervient et la taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est exigible au moment où l'accise sur les énergies perçue sur les produits mentionnés au I devient exigible en application des dispositions mentionnées à l'article L. 312-88 du code des impositions sur les biens et services.
 
@@ -239,9 +239,3 @@ Toutefois, en cas de cessation définitive d'activité taxable, elle est déclar
 La taxe incitative relative à l'utilisation d'énergie renouvelable dans les transports est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que l'accise sur les énergies mentionnée à l'article L. 312-1 du code des impositions sur les biens et services et perçue sur les produits relevant des catégories fiscales des gazoles, des essences et des carburéacteurs. Les réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe.
 
 X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
-
-NOTA :
-
-Conformément aux dispositions prévues par l'article 58 II. - A. de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions de cet article, à l'exception des 5°, 7°, 9° et 10° du I, entrent en vigueur le 1er janvier 2022 et s'appliquent aux produits pour lesquels la taxe mentionnée à l'article 265 du code des douanes devient exigible à compter de cette même date.
-
-Conformément à l'article 40 de l'ordonnance n° 2021-1843 du 22 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
