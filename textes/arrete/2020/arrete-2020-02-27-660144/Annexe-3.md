@@ -10,12 +10,6 @@ Montant de l'indemnité
 
 de fonction |
 
-Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet |
-
-Hors Échelle E - Chevron II |
-
-85 267 € |
-
 Autorité de régulation des transports |
 
 Hors Échelle E - Chevron I |

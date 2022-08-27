@@ -92,7 +92,7 @@ Hors Échelle D - Chevron I |
 
 60 000 € |
 
-Conseil supérieur de l'audiovisuel |
+Autorité de régulation de la communication audiovisuelle et numérique |
 
 Hors Échelle D - Chevron I |
 
@@ -103,7 +103,3 @@ Hors Échelle D - Chevron I |
 Lorsque le mandat de président est exercé par intérim par l'un des membres de l'autorité administrative indépendante ou de l'autorité publique indépendante, celui-ci bénéficie pour l'exercice de ce mandat du versement de l'indemnité de fonction due au président conformément aux annexes 1 à 4.
 
 Le montant de cette indemnité est réduit, le cas échéant, à due concurrence du montant des autres indemnités forfaitaires, de fonction ou de vacation versées à l'intéressé au titre de ses fonctions de membre de cette autorité en application du présent arrêté.
-
-NOTA :
-
-Conformément à l’article 2 de l’arrêté du 21 octobre 2022 (NOR : PRMX2230274A), ces dispositions entrent en vigueur le 1er août 2022.
