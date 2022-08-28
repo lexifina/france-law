@@ -150,6 +150,12 @@ La composition et le mandat de ce comité sont présentés pour avis au comité 
 
 Lorsque plusieurs éco-organismes sont agréés sur la filière des huiles, ces éco-organismes peuvent mutualiser les travaux de ces comités.
 
+3.7 Gestion des déchets assurée ou organisée par les producteurs
+
+Les producteurs qui assurent eux-mêmes ou organisent pour leur compte des opérations de gestion d'huiles usagées participant à l'atteinte des objectifs fixés par le présent cahier des charges peuvent bénéficier, à leur demande, de la réfaction prévue à l'article R. 541-120. Le montant de cette réfaction est calculé par l'éco-organisme dans les conditions prévues au même article.
+
+Les opérations de gestion d'huiles usagées bénéficiant de la réfaction mentionnée au précédent alinéa ne peuvent pas bénéficier des soutiens financiers mentionnés aux articles R. 543-10 et R. 543-11.
+
 4. Modalités de prise en charge financière des huiles usagées polluées
 
 Pour l'application de l'article R. 543-12, l'éco-organisme établit les procédures permettant de constater toute pollution d'huiles usagées empêchant leur régénération ou recyclage ainsi que les procédures permettant d'identifier le ou les auteurs de cette pollution.
