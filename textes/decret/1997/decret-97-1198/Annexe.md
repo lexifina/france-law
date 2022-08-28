@@ -1682,6 +1682,14 @@ Code de l'environnement Article D. 594-7 (III). |
 
 Ministres chargés de l'énergie et de l'économie |
 
+19-4 |
+
+Liste des sites présentant un risque réduit et ouvrant droit pour leurs exploitants à un montant de responsabilité réduit. |
+
+Code de l'environnement Article R. 597-3. |
+
+Ministres chargés de l'énergie, de la sûreté nucléaire, du budget et de l'économie |
+
 20 |
 
 Mises en demeure d'acquérir des certificats d'économies d'énergie. |
