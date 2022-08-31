@@ -212,7 +212,7 @@ Sous-direction du pilotage et de l'optimisation des moyens |
 
 Chef du bureau de l'immobilier |
 
-Chef du bureau de la performance et du pilotage |
+Chef du bureau de l'appui au pilotage du secteur associatif habilité |
 
 Service déconcentré |
 

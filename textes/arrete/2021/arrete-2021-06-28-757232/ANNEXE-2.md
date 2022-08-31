@@ -124,7 +124,7 @@ Chef du bureau de la gestion prévisionnelle des emplois, des compétences et de
 
 |
 
-Chef du bureau de la politique et de la gestion des emplois fonctionnels
+Chef du bureau de l'encadrement
 
 |
 
