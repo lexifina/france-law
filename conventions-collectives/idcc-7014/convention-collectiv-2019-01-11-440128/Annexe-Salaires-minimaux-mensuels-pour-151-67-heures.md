@@ -1,21 +1,37 @@
 # Article Annexe « Salaires minimaux mensuels pour 151,67 heures »
 
-Annexe « Salaires minimaux mensuels pour 151,67 heures » (Applicables au 1er janvier 2022)
+Annexe « Salaires minimaux mensuels pour 151,67 heures » (Applicables au 1er septembre 2022)
 
 Cavaliers d'entraînement
 
-– coefficient 200 : 1 633,51 €/ mois ;
+coefficient 200 |
 
-– coefficient 220 : 1 659,15 € ;
+1 690,68 € / mois |
 
-– coefficient 230 : 1 662,49 € ;
+coefficient 220 |
 
-– coefficient 300 : 1 684,58 € ;
+1 717,22 € |
 
-– coefficient 350 : 1 700,06 € ;
+coefficient 230 |
 
-– coefficient 400 : 1 717,74 € ;
+1 720,67 € |
 
-– coefficient 450 : 1 732,11 € ;
+coefficient 300 |
 
-– coefficient 500 : 1 748,68 €.
+1 743,54 € |
+
+coefficient 350 |
+
+1 759,56 € |
+
+coefficient 400 |
+
+1 777,86 € |
+
+coefficient 450 |
+
+1 792,73 € |
+
+coefficient 500 |
+
+1 809,88 € |
