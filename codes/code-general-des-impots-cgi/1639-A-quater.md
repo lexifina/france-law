@@ -10,6 +10,12 @@ a) Pour leur durée et leur quotité lorsqu'elles sont prises en application des
 
 b) Pour la première année suivant celle de la fusion lorsqu'elles sont prises en application des articles 1382 B, 1382 C, 1382 E, 1382 G, 1382 H, 1382 İ, 1383 E bis, 1383 G, 1383 G bis et 1383 G ter, du quatrième alinéa de l'article 1384 B ainsi que des articles 1388 quinquies, 1388 quinquies B, 1388 quinquies C, 1394 C, 1395 A ter, 1396,1407,1407 bis, 1407 ter, 1411,1518 A, 1518 A ter et 1518 A quater.
 
+III.– 1. L'établissement public de coopération intercommunale issu de la fusion en application de l'article L. 5211-41-3 du code général des collectivités territoriales ou, lorsque le périmètre du nouvel établissement public de coopération intercommunale a été fixé par arrêté du représentant de l'Etat, les conseils municipaux des communes membres ou l'organe délibérant du ou des établissements publics de coopération intercommunale doivent prendre, avant le 1er juillet de l'année de la fusion, les délibérations applicables à compter de l'année suivante en matière de taxe d'aménagement.
+
+2. A défaut de délibérations dans les conditions prévues au 1, les délibérations adoptées antérieurement par chaque établissement public de coopération intercommunale préexistant sont maintenues pour la première année suivant celle de la fusion.
+
 NOTA :
 
-Modifications effectuées en conséquence de l'article 121-I-2° de la loi n° 2019-1479 du 28 décembre 2019.
+Conformément à l'article 16 de l'ordonnance n° 2022-883 du 14 juin 2022, ces dispositions s'appliquent à compter de la date résultant du B du VI de l'article 155 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021.
+
+Se reporter aux conditions d'application prévues à l’article 1er du décret n° 2022-1102 du 1er août 2022.
