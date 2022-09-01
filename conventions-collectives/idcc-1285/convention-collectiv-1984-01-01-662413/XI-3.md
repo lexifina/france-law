@@ -58,7 +58,7 @@ Groupe 4
 
 Cadre fonctionnel ou opérationnel.
 
-Responsable de secteur (s) : responsable de la préparation, de l'organisation et de la mise en oeuvre d'une activité particulière.
+Responsable de secteur(s) : responsable de la préparation, de l'organisation et de la mise en oeuvre d'une activité particulière.
 
 Niveau 3 de la nomenclature des niveaux de formation ou expérience équivalente.
 
@@ -194,13 +194,17 @@ Bibliothécaire musical : sous l'autorité de la direction il ou elle gère les 
 
 Préalablement à la première répétition :
 
-- il (elle) recopie les coups d'archet pour les pupitres de cordes ;
+― il (elle) recopie les coups d'archet pour les pupitres de cordes ;
 
-- il (elle) recopie les indications données par le chef d'orchestre ;
+― il (elle) recopie les indications données par le chef d'orchestre ;
 
-- il (elle) inscrit les coupures et/ ou ajouts sur la totalité des partitions.
+― il (elle) inscrit les coupures et/ ou ajouts sur la totalité des partitions.
 
 Copiste : à partir de la partition (score) il (elle) réalise (copie) et transpose dans la bonne tonalité les parties séparées de la partition.
+
+Chargé(e) de l'accueil des artistes :
+
+Il / elle coordonne, organise et accompagne l'accueil et le séjour des artistes. (Selon l'organisation interne, peut être assumé par le service technique).
 
 Groupe 6
 
@@ -240,10 +244,6 @@ Aide-comptable :
 
 Titulaire d'un diplôme de comptabilité ou possédant les connaissances équivalentes. Seconde le comptable pour la tenue des livres. Contrôle les factures et prépare les règlements. Classe les documents.
 
-Caissier :
-
-Délivre les billets et établit les bordereaux de recettes.A la responsabilité de sa caisse.
-
 Standardiste :
 
 Reçoit, demande, ventile et comptabilise les communications téléphoniques.
@@ -254,89 +254,161 @@ Exécution de tâches administratives courantes.
 
 Agent de catering : sert les repas et dresse les buffets pour les artistes et les équipes de production.
 
-XI. 3. 2. 2. Filière communication-relations publiques-action culturelle
+XI. 3. 2. 2. Filière Communication. Relations publiques. Action culturelle
 
 Groupe 3
 
-Directeur de la communication, des relations publiques et de l'action culturelle :
+Directeur-trice de la communication, des relations publiques, des actions d'éducation artistique et culturelle, et de l'action culturelle :
 
-Responsable de la conception, de la préparation et de la mise en oeuvre de la communication de l'entreprise. Dirige les actions des équipes de relations publiques, d'information et d'accueil.
+Responsable de la conception, de la préparation et de la mise en œuvre de la stratégie de communication de l'entreprise.
+
+Dirige les actions des équipes de relations publiques, de la communication, de l'information et de l'accueil.
+
+Conceptualise (dans le cadre du projet d'établissement, et en collaboration avec la direction, l'administration et l'ensemble des services de l'entreprise) les missions et les partenariats liés aux actions d'éducation artistique et culturelle, de formation et d'action culturelle.
+
+Le / la directeur-trice de la communication, des relations publiques et de l'action culturelle peut éventuellement être positionné-e en groupe 2 en fonction du niveau de responsabilité, de la taille de la structure, de son organigramme, des différents critères classants prévus à l'article XI 3 1 de la présente convention.
 
 Groupe 4
 
 Responsable des relations avec la presse :
 
-Chargé des relations avec les organismes de presse écrite et audiovisuelle.
+Responsable des relations avec les organismes de presse écrite, audiovisuelle et numérique.
 
-Responsable de formation :
+Responsable de la formation :
 
-Responsable d'actions de formation et de leur mise en oeuvre.
+Responsable d'actions de formation et de leur mise en œuvre pour les structures développant spécifiquement cette activité à destination des publics et  /   ou des professionnel-les.
 
-Responsable de l'action culturelle :
+Responsable des actions d'éducation artistique et culturelle et de l'action culturelle :
 
-Responsable des actions de relations publiques vers un secteur déterminé de la population.
+Responsable des actions de sensibilisation, de médiation, et des missions d'éducation artistique et culturelle, de rencontre vers un secteur déterminé de la population, en lien avec les intervenants, les partenaires publics ou privés, les publics et les différents services de la structure.
 
-Réalise et invente les activités d'environnement et d'animation liées à la programmation de la structure ; met en place et suit les actions et les programmes de sensibilisation des publics.
+Conçoit des activités d'accompagnement et d'intervention liées ou non à la programmation de la structure. Établit les bilans des actions y compris qualitatifs.
 
-Responsable du secteur de l'information :
+Responsable de l'information interne et / ou de la documentation :
 
-Responsable de la conception, de la réalisation et de la diffusion de l'information.
+Responsable de la conception, de la réalisation, de la diffusion de l'information interne et / ou de la documentation et en organise la conservation.
+
+Responsable de la communication :
+
+Responsable de la réalisation et de la diffusion des supports de communication imprimés, numériques et réseaux sociaux.
+
+Responsable des relations avec les publics :
+
+Responsable d'actions et de stratégies de relations avec les publics destinées à fidéliser et à élargir les publics. Établit les bilans y compris qualitatifs.
+
+Responsable de l'accueil, de la billetterie :
+
+Accueil : (Responsable de l'accueil). Organise, assure, optimise et coordonne les missions d'accueil du public.
+
+Billetterie : (Responsable de billetterie). Organise, optimise et coordonne l'organisation de la vente de billets, responsable du contrôle des caisses, et établit les bilans de fréquentation.
 
 Groupe 5
 
-Chargé du secteur des relations avec le public :
+Chargé(e) des relations avec les publics :
 
-Responsable des actions de relations publiques vers un secteur déterminé de la population.
+Il / elle coordonne, organise et accompagne les actions de relations avec les publics. Il / elle participe à l'établissement des bilans y compris qualitatifs. Ce poste peut être construit autour d'un axe, ou en direction d'un secteur déterminé de la population.
+
+Chargé(e) de l'accompagnement des actions d'éducation artistique et culturelle :
+
+Il / elle coordonne, organise et accompagne les actions d'éducation artistique en lien avec les partenaires publics ou privés, les publics et les différents services de la structure. Il / elle participe à l'établissement des bilans des actions, y compris qualitatifs. Ce poste peut être construit autour d'un axe ou en direction d'un secteur déterminé de la population.
+
+Chargé(e) de la médiation :
+
+Il / elle coordonne, organise et accompagne les actions de médiation, participe à la réalisation des outils pour favoriser l'accessibilité des œuvres culturelles et des lieux. Il / elle participe à l'établissement des bilans y compris qualitatifs. Ce poste peut être construit autour d'un axe, ou en direction d'un secteur déterminé de la population.
+
+Chargé(e) de l'accompagnement des actions culturelles :
+
+Il / elle coordonne, organise et accompagne les actions culturelles, participe aux actions de sensibilisation et de rencontres.
+
+Prépare et mène les activités d'accompagnement, d'animation et de sensibilisation liées ou non, à la programmation de la structure. Il / elle contribue à l'établissement des bilans des actions y compris qualitatifs. Ce poste peut être construit autour d'un axe, ou en direction d'un secteur déterminé de la population.
+
+Chargé(e) de la communication :
+
+Il / elle participe à la réalisation d'outils imprimés et numériques de communication de la structure et est en charge de leur diffusion et de leur mise en ligne. Il / elle contribue à l'animation des réseaux sociaux.
+
+Chargé(e) de l'information interne et / ou de la documentation :
+
+Il / elle participe à la diffusion de l'information interne et / ou de la documentation et de leur archivage.
+
+Chargé(e) de l'accueil et/ou de la billetterie :
+
+Accueil : Il / elle accueille et conseille le public. Veille à la bonne présentation et diffusion des informations destinées au public.
+
+Billetterie : Il / elle est chargé(e) principalement de la mise en vente de la billetterie via les différents réseaux de distribution, il / elle assure le suivi des réservations, abonnements, statistiques de fréquentation, ainsi que la vente et la remise des billets. Établit l'état de caisse et les bordereaux de recettes. Participe à l'établissement des bilans.
 
 Groupe 6
 
-Attaché à l'accueil :
+Attaché(e) à l'accueil, à la billetterie :
 
-Chargé de l'accueil du public, de la diffusion des informations au public et à l'intérieur de l'établissement. Organise l'accueil et le séjour des artistes et des visiteurs. Organise les réceptions. Organise les tâches du personnel d'accueil. Peut assurer la responsabilité d'un bar.
+Attaché(e) à l'accueil :
 
-Attaché à l'information :
+Accueille, conseille et oriente le public, organise l'affichage et actualise la documentation de l'espace d'accueil de la structure.
 
-Conçoit, réalise et diffuse l'ensemble de l'information.
+Attaché(e) à la billetterie :
 
-Attaché aux relations avec le public :
+Assure la vente et la remise des billets, participe à la gestion des réservations et des abonnements. Établit l'état de caisse et les bordereaux de recettes. Il / elle contribue à l'établissement des bilans et des statistiques de fréquentation.
 
-Chargé d'établir, d'entretenir et d'améliorer les rapports entre l'entreprise et les divers milieux de la population.
+Attaché(e) à l'information interne et / ou à la documentation :
 
-Attaché à l'accompagnement des pratiques artistiques et culturelles :
+Il / elle met en œuvre et diffuse l'ensemble de l'information interne et / ou de la documentation et de leur archivage.
 
-Coordonne et accompagne des projets à destination d'un public large, met en oeuvre des processus pédagogiques qui vont de la sensibilisation / information à la gestion de ressources documentaires. Peut être éventuellement chargé de la gestion du parc de matériel mis en oeuvre.
+Attaché(e) aux relations avec le public :
 
-Graphiste ou infographiste :
+Il / elle établit et entretient les relations entre la structure, les divers secteurs de la population, et les partenaires. Il / elle contribue à l'établissement des bilans y compris qualitatifs.
 
-Met en oeuvre les supports de communication (maquettes d'affiches, publications, sites internet...).
+Attaché(e) à l'accompagnement des actions artistiques et culturelles :
+
+Il / elle accompagne les projets à destination des publics, participe à la mise en œuvre des différentes actions qui vont de la sensibilisation/ information à la gestion de ressources documentaires. Il peut se voir confier la gestion d'outils de médiation. Il / elle contribue à l'établissement des bilans des actions y compris qualitatifs.
+
+Infographiste :
+
+Met en œuvre les supports de communication.
+
+Attaché(e) à la communication :
+
+Il / elle met en œuvre la fabrication, la diffusion ou la mise en ligne d'outils imprimés et numériques de communication de la structure, y compris pour les réseaux sociaux.
+
+Attaché(e) à la médiation :
+
+Il / elle met en œuvre les outils de médiation pour favoriser l'accessibilité des œuvres artistiques et culturelles proposées par l'entreprise à destination de la population.
+
+Attaché(e) au bar :
+
+Sous l'autorité de son responsable hiérarchique, il participe à l'organisation et à l'approvisionnement du bar. Il assure l'accueil et le service du public et rend son état de caisse.
 
 Groupe 7
 
-Documentaliste :
+Agent de billetterie :
 
-Recherche, inventorie et classe tous documents utiles aux activités de l'entreprise.
+Vend et délivre les billets et édite son état de caisse. Est garant de la bonne tenue de sa caisse.
 
-Maquettiste PAO :
+Serveur(euse) et barman :
 
-Réalise et contrôle les maquettes PAO.
+Accueille le public, assure le service et rend son état de caisse.
 
 Groupe 8
 
-Caissier-hôte d'accueil :
+Hôte(sse) d'accueil :
 
-Chargé d'accueillir, d'orienter, de conseiller et d'informer le public. Doit assurer les visites. Assure la vente des billets et des abonnements. Veille à la bonne présentation des informations destinées au public.
+Il / elle accueille, oriente, informe le public et peut accompagner les visites avec le service organisateur.
+
+Caissier(ère) :
+
+Vend et délivre les billets, établit son état de caisse. Est garant de la bonne tenue de sa caisse.
+
+Employé(e) de bar (sans qualification spécifique) :
+
+Accueille le public, assure le service et rend son état de caisse.
 
 Groupe 9
 
-Hôte (esse) d'accueil : chargé (e) d'accueillir, d'orienter, de conseiller et d'informer le public. Doit assurer les visites. Veille à la bonne présentation des informations destinées au public.
+Contrôleur(euse) :
 
-Contrôleur (euse) : contrôle l'entrée des salles de spectacles.
+Contrôle l'entrée des salles de spectacles.
 
-Hôte (esse) de salle : accueille et place le public dans les salles, assure la diffusion et la vente des programmes.
+Hôte(sse) de salle :
 
-Employé (e) de routage : accomplit les opérations de routage.
-
-Employé (e) de bar : sert les consommations et assure leur encaissement, assure l'approvisionnement en denrées, assure la plonge du bar.
+Accueille et place le public dans les salles. Assure la diffusion et la vente des programmes.
 
 XI. 3. 2. 3. Filière technique
 
