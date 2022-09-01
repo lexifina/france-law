@@ -10,31 +10,21 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+DE LA COMMISSION
+
+titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléante |
+DE LA COMMISSION
+
+suppléante |
 
 MEMBRES |
 
-Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative. |
+Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant de région de gendarmerie. |
 
-L'officier le plus ancien dans le grade le plus élevé parmi les membres présents. |
-
-/ |
-
-Le commandant en second du groupement de gendarmerie départementale ayant le statut de formation administrative.
-
-Les commandants des groupements de gendarmerie départementale placés sous l'autorité du commandant adjoint de région, commandant du groupement de gendarmerie départementale ayant le statut de formation administrative ou, à défaut, leurs suppléants.
-
-Les commandants des sections de recherches ou, à défaut, leurs suppléants.
-
-Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant. |
-
-Ensemble des formations de gendarmerie départementale placées sous l'autorité d'un commandant de région de gendarmerie (à l'exception de celles placées sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative). |
-
-Pour les régions de gendarmerie situées au siège d'une zone de défense et de sécurité : le commandant en second de la région de gendarmerie. |
+Le commandant en second de la région de gendarmerie. |
 
 L'officier le plus ancien dans le grade le plus élevé parmi les membres présents. |
 
@@ -42,27 +32,19 @@ Les commandants des groupements de gendarmerie départementale subordonnés ou, 
 
 Les commandants des sections de recherches ou, à défaut, leurs suppléants.
 
-Le commandant de la section d'appui judiciaire ou à défaut, son suppléant. |
+L'officier adjoint police judiciaire de la région ou à défaut, le commandant de la section d'appui judiciaire (1).
 
-Pour les autres régions de gendarmerie : l'officier le plus ancien dans le grade le plus élevé parmi les membres présents. |
+L'officier adjoint commandement de la région, ou à défaut, l'officier le plus ancien dans le grade le plus élevé d'une division de la région. |
 
-/ |
-
-Le commandant en second de la région de gendarmerie.
-
-Les commandants des groupements de gendarmerie départementale subordonnés (à l'exception du groupement chef-lieu d'implantation de la région de gendarmerie) ou, à défaut, leurs suppléants.
-
-Les commandants des sections de recherches ou, à défaut, leurs suppléants.
-
-Le commandant de la section d'appui judiciaire ou, à défaut, son suppléant. |
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire le commandant de la section d'appui judiciaire. |
 
 Gendarmerie de l'air. |
 
 Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major. |
+L'officier supérieur le plus ancien dans le grade le plus élevé d'une division. |
 
-Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+L'officier supérieur le plus ancien dans le grade le plus élevé d'une division.
 
 Les commandants de groupement ou les commandants de groupement par suppléance.
 
@@ -72,9 +54,9 @@ Gendarmerie maritime. |
 
 Un officier du grade de colonel de la branche considérée, à défaut, désigné par le directeur des personnels militaires de la gendarmerie nationale. |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major. |
+L'officier supérieur le plus ancien dans le grade le plus élevé d'une division. |
 
-Le chef d'état-major ou l'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major.
+L'officier supérieur le plus ancien dans le grade le plus élevé d'une division.
 
 Les commandants de groupement ou les commandants de groupement par suppléance.
 
@@ -106,11 +88,15 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+DE LA COMMISSION
+
+titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléante |
+DE LA COMMISSION
+
+suppléante |
 
 MEMBRES |
 
@@ -142,11 +128,15 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+DE LA COMMISSION
+
+titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléant |
+DE LA COMMISSION
+
+suppléant |
 
 MEMBRES |
 
@@ -188,7 +178,7 @@ Un officier du grade de colonel de la branche considérée, à défaut, désign�
 
 Cinq officiers supérieurs désignés par le commandant du soutien opérationnel de la gendarmerie nationale.
 
-Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement des réserves de la gendarmerie, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur).
+Un officier supérieur de chaque service comptant au moins un sous-officier de gendarmerie remplissant les conditions statutaires pour être promu au grade supérieur (direction de la coopération internationale de sécurité, commandement de la gendarmerie dans le cyberespace, commandement spécialisé pour la sécurité nucléaire, commandement de la gendarmerie pour les réserves et la jeunesse, service de l'achat, de l'innovation et de la logistique du ministère de l'intérieur).
 
 Ces membres sont désignés par le directeur des personnels militaires de la gendarmerie nationale. |
 
@@ -236,7 +226,7 @@ Le commandant du service central de renseignement criminel de la gendarmerie nat
 
 Un officier supérieur du pôle judiciaire désigné par le commandant du pôle judiciaire de la gendarmerie nationale. |
 
-(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale |
+(1) Sauf le commandant du pôle judiciaire de la gendarmerie nationale et le commandant en second du pôle judiciaire de la gendarmerie nationale. |
 
 4. Spécialités
 
@@ -244,11 +234,15 @@ BRANCHES |
 
 PRÉSIDENCE
 
-de la commission titulaire |
+DE LA COMMISSION
+
+titulaire |
 
 PRÉSIDENCE
 
-de la commission suppléante |
+DE LA COMMISSION
+
+suppléante |
 
 MEMBRES |
 
@@ -262,7 +256,7 @@ Aéronautique, opérateurs aérosurveillance et avitailleurs. |
 
 Le commandant des forces aériennes de la gendarmerie nationale. |
 
-L'officier supérieur le plus ancien dans le grade le plus élevé de l'état-major du commandement des forces aériennes de la gendarmerie nationale. |
+L'officier supérieur le plus ancien dans le grade le plus élevé d'une division du commandement des forces aériennes de la gendarmerie nationale. |
 
 Deux officiers supérieurs désignés par le commandant des forces aériennes de la gendarmerie nationale. |
 
@@ -277,3 +271,7 @@ Le sous-directeur de la gestion du personnel. |
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
 Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale. |
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 29 juillet 2022 (NOR : IOMJ2221883A), ces dispositions entrent en vigueur le 1er septembre 2022.

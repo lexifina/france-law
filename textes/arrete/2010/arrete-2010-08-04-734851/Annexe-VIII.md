@@ -6,11 +6,15 @@ La commission d'avancement mentionnée à l'article 9 se compose des membres dé
 
 BRANCHES |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+DE LA COMMISSION
 
 titulaire |
 
-PRÉSIDENCE DE LA COMMISSION
+PRÉSIDENCE
+
+DE LA COMMISSION
 
 suppléant |
 
@@ -28,16 +32,12 @@ Un officier de la division de l'appui opérationnel ou de l'état-major désign�
 
 Deux sous-officiers désignés par le commandant de la formation administrative. |
 
-Personnel placé sous l'autorité d'un commandant de région de gendarmerie, commandant la gendarmerie pour la zone de défense et de sécurité. |
-
-Le commandant en second de la région de gendarmerie, commandant en second de la gendarmerie pour la zone de défense et de sécurité. |
-
-Personnel placé sous l'autorité d'un commandant adjoint de région, commandant d'un groupement de gendarmerie départementale ayant le statut de formation administrative. |
-
-Le commandant en second du groupement de gendarmerie départementale ayant le statut de formation administrative. |
-
 Personnel placé sous l'autorité d'un commandant de formation administrative. (1) |
 
 Le commandant en second ou l'adjoint au commandant de la formation administrative. A défaut, le chef d'état-major de la formation administrative. |
 
-(1) Hors formations administratives listées supra. |
+(1) Hors régions de gendarmerie mentionnées supra. |
+
+NOTA :
+
+Conformément à l’article 4 de l’arrêté du 29 juillet 2022 (NOR : IOMJ2221883A), ces dispositions entrent en vigueur le 1er septembre 2022.
