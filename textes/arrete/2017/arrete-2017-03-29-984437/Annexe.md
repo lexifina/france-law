@@ -8,6 +8,8 @@ Conseiller stratégie et prospective de la police nationale.
 
 Directeur de cabinet du directeur général de la police nationale.
 
+Préfigurateur de la formation spécialisée du conseil supérieur de l'appui territorial et de l'évaluation compétente pour la police nationale.
+
 2. Direction des ressources et des compétences de la police nationale :
 
 Directeur adjoint des ressources et des compétences de la police nationale.
@@ -19,8 +21,6 @@ Directeur central adjoint du recrutement et de la formation de la police nationa
 4. Inspection générale de la police nationale :
 
 Directeur adjoint de l'inspection générale de la police nationale.
-
-Chef du cabinet des inspections, des études et des audits.
 
 5. Direction centrale de la police judiciaire :
 
@@ -308,4 +308,4 @@ Secrétaire général adjoint pour l'administration du ministère de l'intérieu
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 16 février 2022, ces dispositions entrent en vigueur à compter du premier jour du mois suivant sa publication au Journal officiel de la République française.
+Conformément à l’article 2 de l’arrêté du 29 juillet 2022 (NOR : IOMC2221438A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant la publication dudit arrêté au Journal officiel de la République française.
