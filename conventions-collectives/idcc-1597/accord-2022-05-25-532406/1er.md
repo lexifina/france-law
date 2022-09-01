@@ -1,0 +1,9 @@
+# Article 1er
+
+En application des articles XII-8 et XII-9 de la convention collective du bâtiment du 8 octobre 1990 concernant les ouvriers employés par les entreprises du bâtiment non visées par le décret du 1er mars 1962 (IDCC 1597) et celles visées par le décret du 1er mars 1962 (IDCC 1596), les organisations d'employeurs et de salariés adhérentes aux organisations représentatives au niveau national, se sont réunies et ont déterminé les indemnités de petits déplacements des ouvriers du bâtiment de l'unité territoriale de Corse.
+
+Afin de prendre en considération la situation existante des salariés travaillant au-delà des 5 zones définies à l'article 8.13 de la convention collective nationale des ouvriers employés par les entreprises du bâtiment visées par le décret du 1er mars 1962 (entreprises occupant jusqu'à 10 salariés) et l'article 8.13 de la convention collective nationale des ouvriers employés par les entreprises du bâtiment non visées par le décret du 1er mars 1962 (entreprises occupant plus de 10 salariés), les partenaires sociaux ont décidé d'instituer 2 zones concentriques, les zones 6 et 7, dont les limites sont distantes entre elles de 15 kilomètres mesurés conformément aux articles précités.
+
+Sans préjudice de l'application du régime des grands déplacements, lorsque l'ouvrier travaille dans une zone comprise entre 50 et 80 kilomètres et qu'en accord avec l'employeur il rentre chaque jour à son domicile, il bénéficie de l'indemnité forfaitaire de la zone 6 (50 à 65 kilomètres) ou de la zone 7 (au-delà de 65 kilomètres jusqu'à 80 kilomètres).
+
+Cependant, si l'ouvrier travaille dans une zone comprise entre 50 et 80 kilomètres et qu'il est amené à faire des heures supplémentaires en complément de la journée de travail habituelle, l'employeur privilégiera, dans la mesure du possible, le recours au dispositif des grands déplacements afin de préserver la santé de celui-ci.
