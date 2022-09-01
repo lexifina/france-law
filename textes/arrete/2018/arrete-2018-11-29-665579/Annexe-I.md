@@ -2,7 +2,9 @@
 
 1° Périmètre administration centrale, établissements publics et services à compétence nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -10,13 +12,9 @@ Points
 
 de NBI |
 
-Nombre
+Nombre d'emplois
 
-d'emplois
-
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
@@ -26,9 +24,9 @@ de conseiller
 
 d'administration
 
-de l'intérieur et
+de l'intérieur
 
-de l'outre-mer
+et de l'outre-mer
 
 (CAIOM) |
 
@@ -420,9 +418,7 @@ Chef du bureau de la relation avec les opérateurs et agences |
 
 - |
 
-1
-
-|
+1 |
 
 Direction générale de la police nationale |
 
@@ -457,6 +453,8 @@ Chef du département des réserves opérationnelles de la police nationale au se
 - |
 
 1 |
+
+|
 
 Adjoint au chef du bureau des gradés et gardiens de la paix au sein de la sous-direction de l'administration des ressources humaines de la direction des ressources et des compétences de la police nationale. |
 
@@ -506,7 +504,7 @@ Chef de la division de l'organisation des concours et des dispositifs promotionn
 
 1 |
 
-Chef de bureau de l'analyse, de la synthèse et de l'animation de la performance au sein de la sous-direction des finances et du pilotage de la direction des ressources et des compétences de la police nationale |
+Chef de bureau de l'analyse, de la synthèse et de l'animation de la performance au sein de la sous-direction des finances et du pilotage de la direction des ressources et des compétences de la police nationale. |
 
 30 |
 
@@ -530,7 +528,7 @@ Chef de la division de la formation aux fonctions administratives, techniques et
 
 1 |
 
-Chef du bureau des politiques ministérielles de l'enfance et du logement au sein de la sous-direction de la prévention, de l'accompagnement et du soutien de la direction des ressources et des compétences de la police nationale |
+Chef du bureau des politiques ministérielles de l'enfance et du logement au sein de la sous-direction de la prévention, de l'accompagnement et du soutien de la direction des ressources et des compétences de la police nationale. |
 
 30 |
 
@@ -562,7 +560,7 @@ Chef de la division de la logistique au sein de la sous-direction de la lutte co
 
 1 |
 
-Chef du bureau de la modernisation et de la valorisation des ressources humaines au sein de la sous-direction de l'administration des ressources humaines de la direction et des compétences de la police nationale |
+Chef du bureau de la modernisation et de la valorisation des ressources humaines au sein de la sous-direction de l'administration des ressources humaines de la direction et des compétences de la police nationale. |
 
 50 |
 
@@ -570,7 +568,7 @@ Chef du bureau de la modernisation et de la valorisation des ressources humaines
 
 1 |
 
-Adjoint au chef de projet pilotage des emplois de la police nationale |
+Adjoint au chef de projet pilotage des emplois de la police nationale . |
 
 0 |
 
@@ -580,7 +578,7 @@ Adjoint au chef de projet pilotage des emplois de la police nationale |
 
 Direction générale de la sécurité intérieure |
 
-Un poste |
+Un poste. |
 
 50 |
 
@@ -588,7 +586,7 @@ Un poste |
 
 1 |
 
-Un poste |
+Un poste. |
 
 50 |
 
@@ -640,7 +638,7 @@ Chef du département de l'accès à la procédure d'asile au sein de la directio
 
 - |
 
-Chef du département de la performance et de la coordination |
+Chef du département de la performance et de la coordination. |
 
 0 |
 
@@ -664,7 +662,7 @@ Chef du bureau des décrets de naturalisation au sein de la direction de l'inté
 
 1 |
 
-Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'intégration et de l'accès à la nationalité |
+Adjoint au sous-directeur de l'accès à la nationalité française au sein de la direction de l'intégration et de l'accès à la nationalité. |
 
 - |
 
@@ -672,7 +670,7 @@ Adjoint au sous-directeur de l'accès à la nationalité française au sein de l
 
 1 |
 
-Adjoint au sous-directeur de l'intégration des étrangers au sein de la direction de l'intégration et de l'accès à la nationalité |
+Adjoint au sous-directeur de l'intégration des étrangers au sein de la direction de l'intégration et de l'accès à la nationalité. |
 
 - |
 
@@ -680,7 +678,7 @@ Adjoint au sous-directeur de l'intégration des étrangers au sein de la directi
 
 1 |
 
-Chef du bureau de l'appui au pilotage au sein de la direction l'intégration et de l'accès à la nationalité |
+Chef du bureau de l'appui au pilotage au sein de la direction l'intégration et de l'accès à la nationalité. |
 
 - |
 
@@ -724,7 +722,7 @@ Chef du bureau du personnel civil à la sous-direction de la gestion du personne
 
 1 |
 
-Chargé de mission auprès du chef du service de la transformation |
+Chargé de mission auprès du chef du service de la transformation. |
 
 30 |
 
@@ -732,7 +730,7 @@ Chargé de mission auprès du chef du service de la transformation |
 
 - |
 
-Chef de bureau de la valorisation et de la transition professionnelle à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale |
+Chef de bureau de la valorisation et de la transition professionnelle à la sous-direction de l'accompagnement du personnel de la direction des personnels militaires de la gendarmerie nationale. |
 
 20 |
 
@@ -756,7 +754,7 @@ Chef du bureau de la réglementation et de la fonction militaire au sein de la s
 
 - |
 
-Adjoint au chef du bureau de la rémunération et des pensions militaires au sein de la sous-direction de la politique des ressources humaines |
+Adjoint au chef du bureau de la rémunération et des pensions militaires au sein de la sous-direction de la politique des ressources humaines. |
 
 20 |
 
@@ -764,7 +762,7 @@ Adjoint au chef du bureau de la rémunération et des pensions militaires au sei
 
 1 |
 
-Chef du bureau des ressources financières à la sous-direction des supports opérationnels du Service des technologies et des systèmes d'information de la sécurité intérieure |
+Chef du bureau des ressources financières à la sous-direction des supports opérationnels du Service des technologies et des systèmes d'information de la sécurité intérieure. |
 
 30 |
 
@@ -772,7 +770,7 @@ Chef du bureau des ressources financières à la sous-direction des supports op�
 
 1 |
 
-Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances |
+Chef du bureau de l'administration à la sous-direction administrative et financière de la direction des soutiens et des finances. |
 
 50 |
 
@@ -782,7 +780,7 @@ Chef du bureau de l'administration à la sous-direction administrative et financ
 
 |
 
-Chargé de mission auprès du directeur soutien finances |
+Chargé de mission auprès du directeur soutien finances. |
 
 0 |
 
@@ -816,7 +814,7 @@ Chef du bureau de la législation et de la réglementation à la sous-direction 
 
 1 |
 
-Chef du bureau de l'exécution financière et de la commande publique |
+Chef du bureau de l'exécution financière et de la commande publique. |
 
 30 |
 
@@ -836,7 +834,9 @@ Secrétaire général. |
 
 2° Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -844,13 +844,9 @@ Points
 
 de NBI |
 
-Nombre
+Nombre d'emplois
 
-d'emplois
-
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
@@ -1024,7 +1020,9 @@ Directeur des ressources humaines. |
 
 3° Périmètre préfecture de police de Paris et secrétariat général pour l'administration du ministère de l'intérieur de la zone de défense et de sécurité de Paris
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -1032,13 +1030,9 @@ Points
 
 de NBI |
 
-Nombre
+Nombre d'emplois
 
-d'emplois
-
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
@@ -1356,7 +1350,9 @@ Chef de la division des affaires générales |
 
 4° Périmètre services de police nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -1364,13 +1360,9 @@ Points
 
 de NBI |
 
-Nombre
+Nombre d'emplois
 
-d'emplois
-
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
@@ -1618,7 +1610,9 @@ Chef de la division de l'administration et des finances. |
 
 5° Périmètre services de gendarmerie nationale
 
-Directions et services |
+Directions
+
+et services |
 
 Fonctions |
 
@@ -1626,13 +1620,9 @@ Points
 
 de NBI |
 
-Nombre
+Nombre d'emplois
 
-d'emplois
-
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
@@ -1708,9 +1698,11 @@ Chef du service des ressources humaines |
 
 1 |
 
-6° Périmètre juridictions administratives
+6° Périmètre juridictions administrative
 
-Juridiction administrative |
+Juridiction
+
+administrative |
 
 Fonctions |
 
@@ -1718,13 +1710,9 @@ Points
 
 de NBI |
 
-Nombre
+Nombre d'emplois
 
-d'emplois
-
-à forte
-
-responsabilité
+à forte responsabilité
 
 (EFR) |
 
@@ -1922,19 +1910,17 @@ Greffier en chef |
 
 7° Périmètre préfectures
 
-Localisation des emplois |
+Localisation
 
-Nombre d'EFR ouvrant droit
+des emplois |
 
-à la NBI par taux de NBI |
+Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
-Nombre de postes de CAIOM ouvrant droit
+Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-à la NBI par taux de NBI |
+Total
 
-|
-
-Total du nombre d'EFR |
+du nombre d'EFR |
 
 60 points |
 
@@ -1948,7 +1934,9 @@ Total
 
 du nombre
 
-d'emplois de CAIOM |
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -1958,7 +1946,9 @@ d'emplois de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -2524,13 +2514,13 @@ Sans point de NBI |
 
 - |
 
-2 |
+3 |
 
 - |
 
 - |
 
-- |
+1 |
 
 2 |
 
@@ -3220,13 +3210,13 @@ Sans point de NBI |
 
 - |
 
-2 |
+3 |
 
 - |
 
 - |
 
-- |
+1 |
 
 2 |
 
@@ -4132,13 +4122,13 @@ Sans point de NBI |
 
 - |
 
+2 |
+
+- |
+
+- |
+
 1 |
-
-- |
-
-- |
-
-- |
 
 1 |
 
@@ -4482,17 +4472,19 @@ Sans point de NBI |
 
 8° Périmètre secrétariat général commun départemental
 
-Localisation des emplois |
+Localisation
 
-Nombre d'EFR ouvrant droit
+des emplois |
 
-à la NBI par taux de NBI |
+Nombre d'EFR ouvrant droit à la NBI par taux de NBI |
 
-Nombre de postes de CAIOM ouvrant droit
+Nombre de postes de CAIOM ouvrant droit à la NBI par taux de NBI |
 
-à la NBI par taux de NBI |
+Total
 
-Total du nombre d'EFR |
+du nombre
+
+d'EFR |
 
 60 points |
 
@@ -4506,7 +4498,9 @@ Total
 
 du nombre
 
-d'emplois de CAIOM |
+d'emplois
+
+de CAIOM |
 
 60 points |
 
@@ -4516,7 +4510,9 @@ d'emplois de CAIOM |
 
 20 points |
 
-Sans point de NBI |
+Sans point
+
+de NBI |
 
 01 Ain |
 
@@ -4567,6 +4563,54 @@ Sans point de NBI |
 - |
 
 03 Allier |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+04 Alpes-de-Haute-Provence |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+05 Hautes-Alpes |
 
 - |
 
@@ -4662,6 +4706,30 @@ Sans point de NBI |
 
 - |
 
+09 Ariège |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
 10 Aube |
 
 - |
@@ -4740,21 +4808,21 @@ Sans point de NBI |
 
 2 |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
 1 |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
-|
+- |
 
 1 |
 
@@ -4782,6 +4850,30 @@ Sans point de NBI |
 
 1 |
 
+15 Cantal |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
 16 Charente |
 
 - |
@@ -4807,6 +4899,54 @@ Sans point de NBI |
 - |
 
 17 Charente-Maritime |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+19 Corrèze |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
+2B Haute-Corse |
 
 - |
 
@@ -4974,6 +5114,30 @@ Sans point de NBI |
 
 - |
 
+27 Eure |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
 28 Eure-et-Loir |
 
 - |
@@ -5028,9 +5192,9 @@ Sans point de NBI |
 
 - |
 
-1 |
-
 - |
+
+1 |
 
 - |
 
@@ -5161,6 +5325,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+- |
+
+- |
+
+36 Indre |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
 
 - |
 
@@ -5358,6 +5546,30 @@ Sans point de NBI |
 
 - |
 
+46 Lot |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
 47 Lot-et-Garonne |
 
 - |
@@ -5379,6 +5591,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+- |
+
+48 Lozère |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+1 |
+
+- |
 
 - |
 
@@ -5478,6 +5714,30 @@ Sans point de NBI |
 
 - |
 
+53 Mayenne |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
+
+- |
+
+- |
+
 54 Meurthe-et-Moselle |
 
 - |
@@ -5545,6 +5805,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+- |
+
+- |
+
+58 Nièvre |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
 
 - |
 
@@ -5737,6 +6021,30 @@ Sans point de NBI |
 - |
 
 1 |
+
+- |
+
+- |
+
+70 Haute-Saône |
+
+- |
+
+- |
+
+- |
+
+- |
+
+- |
+
+1 |
+
+- |
+
+1 |
+
+- |
 
 - |
 
@@ -6269,3 +6577,7 @@ Sans point de NBI |
 - |
 
 - |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 9 août 2022 (IOMA2223874A), ces dispositions entrent en vigueur le premier jour du mois suivant celui de sa publication au Journal officiel de la République française.
