@@ -1,3 +1,9 @@
 # Article Annexe I
 
-L'annexe I peut être consultée au ministère de l'agriculture, de l'alimentation, de la pêche, de la ruralité et de l'aménagement du territoire (DGER), 1 ter, avenue de Lowendal, 75007 Paris, ou sur le site www.chlorofil.fr.
+L’annexe I est consultable sur le site :
+
+https://chlorofil.fr/diplomes/secondaire/bac-pro/2nde-pro.
+
+NOTA :
+
+Conformément à l'article 7 de l'arrêté du 23 mars 2022 (AGRE2209214A), ces dispositions entrent en vigueur à compter de la rentrée scolaire 2022.
