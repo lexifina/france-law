@@ -598,11 +598,11 @@ Localisation |
 
 Direction générale de l'enseignement et de la recherche |
 
-Chargé de mission auprès du sous-directeur EDC en charge de la formation des personnels de l'enseignement agricole |
+Chargé de mission auprès du sous-directeur EDC |
 
 Administration centrale |
 
-Chargé de mission auprès du sous-directeur POFE en charge du numérique éducatif |
+Chargé de mission auprès du sous-directeur POFE |
 
 Administration centrale |
 
@@ -708,6 +708,8 @@ EPLEFPA de l'Hérault
 
 EPLEFPA de Limoges et du Nord Haute Vienne
 
+EPLEFPA de Lons Le Saunier-Montmorot
+
 EPLEFPA de Metz Courcelles Chaussy
 
 EPLEFPA de Meurthe et Moselle
@@ -810,6 +812,8 @@ EPLEFPA de Beaune
 
 EPLEFPA de Belleville
 
+EPLEFPA de Bordeaux-Gironde
+
 EPLEFPA de Bressuire
 
 EPLEFPA de Brette les Pins
@@ -831,6 +835,8 @@ EPLEFPA de Châlons en Champagne
 EPLEFPA de Charleville Mézières
 
 EPLEFPA de Chartres
+
+EPLEFPA de Château-Gontier
 
 EPLEFPA de Château Salins
 
@@ -880,8 +886,6 @@ EPLEFPA de l'Oise
 
 EPLEFPA de Lons Le Saunier- Mancy
 
-EPLEFPA de Lons Le Saunier- Montmorot
-
 EPLEFPA de Luçon Pétré
 
 EPLEFPA de Lyon
@@ -898,6 +902,8 @@ EPLEFPA de Montreuil Bellay
 
 EPLEFPA de Nantes Terre Atlantique
 
+EPLEFPA d'Orange
+
 EPLEFPA de Pamiers
 
 EPLEFPA de Poitiers Venours
@@ -908,29 +914,41 @@ EPLEFPA de Pontivy
 
 EPLEFPA de Quimper Brehoulou
 
+EPLEFPA de Raismes
+
+EPLEFPA de Roanne-Chervé
+
 EPLEFPA de Romans
 
 EPLEFPA de Saint Affrique
 
+EPLEFPA de Saint-Aubin-du-Cormier
+
 EPLEFPA de Saint Flour
+
+EPLEFPA de Saint-Gaudens
 
 EPLEFPA de Saint Genis Laval
 
 EPLEFPA de Saint Hilaire du Harcouët
 
-EPLEFPA de Saint Jean Brévelay Hennebont
-
 EPLEFPA de Saint Joseph
 
 EPLEFPA de Saint Paul
 
+EPLEFPA de Saint-Yrieix-La-Perche
+
 EPLEFPA de Surgères
+
+EPLEFPA de Tarbes
 
 EPLEFPA de Thuré
 
 EPLEFPA de Valdoie
 
 EPLEFPA de Vic en Bigorre
+
+EPLEFPA de Vienne
 
 EPLEFPA de Villefranche de Rouergue
 
@@ -970,9 +988,9 @@ EPLEFPA de Bordeaux Gironde
 
 EPLEFPA de Carcassonne
 
-EPLEFPA de La Roche sur Foron
+EPLEFPA de Fontaines-Sud-Bourgogne
 
-EPLEFPA de Limoges et du Nord Haute Vienne
+EPLEFPA de La Roche sur Foron
 
 EPLEFPA de Lons Le Saunier- Mancy
 
@@ -1035,8 +1053,6 @@ EPLEFPA de l'Hérault
 EPLEFPA de Limoges et du Nord Haute Vienne
 
 EPLEFPA de l'Oise
-
-EPLEFPA de Lyon
 
 EPLEFPA de Metz Courcelles Chaussy
 
@@ -1244,8 +1260,6 @@ Exploitation agricole La Cazotte St Affrique
 
 Exploitation agricole Le Robillard
 
-Exploitation agricole 'Louis Giraud' Carpentras
-
 Exploitation horticole d'Angers
 
 Exploitation horticole de Lyon-Dardilly
@@ -1274,8 +1288,6 @@ Site de Chailly du CFA de Seine et Marne
 
 Site de Merdrignac CFA Merdrignac
 
-Site de Poligny du CFA Poligny
-
 Site de Saintes du CFA de la Charente Maritime
 
 Site d'Hasparren du CFA des Pyrénées Atlantiques |
@@ -1303,8 +1315,6 @@ CFPPA de Brie Comte Robert
 CFPPA de Castelnaudary
 
 CFPPA de Chartres
-
-CFPPA de Cibeins à Belley
 
 CFPPA de Dijon Quétigny
 
@@ -1335,10 +1345,6 @@ CFPPA du Nord
 CFPPA du Pas de Calais
 
 Site d'Ahun du CFPPA de la Creuse
-
-Site d'Albi du CFPPA du Tarn
-
-Site de Dax du CFPPA des Landes
 
 Site de Lannemezan du CFPPA Hautes Pyrénées
 
@@ -1386,4 +1392,4 @@ Site de Périgueux du CFPPA de la Dordogne |
 
 NOTA :
 
-Conformément au premier alinéa de l'article 2 de l'arrêté du 9 août 2022 (NOR : AGRS2206861A), ces dispositions s'appliquent à compter du 1er septembre 2021.
+Conformément au second alinéa de l'article 2 de l'arrêté du 9 août 2022 (NOR : AGRS2206861A), ces dispositions s'appliquent à compter du 1er septembre 2022.
