@@ -4,19 +4,23 @@ NATURE ET FORME DES ÉPREUVES ORALES ET SPORTIVES DE LA DEUXIÈME PHASE
 
 Spécialités |
 
-Administration et gestion du personnel |
+Administration et gestion
 
-Gestion logistique et financière |
+du personnel |
 
 Affaires immobilières |
 
-Armurerie et pyrotechnie |
+Armurerie
+
+et pyrotechnie |
 
 Restauration collective |
 
-Epreuve d'entretien avec un jury
+Épreuve d'entretien avec un jury
 
 (durée : 25 minutes ; coefficient 4) : |
+
+Entretien ayant pour objectif d'évaluer les aptitudes, les motivations et les facultés d'expression et de raisonnement du candidat. |
 
 Entretien ayant pour objectif d'évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la spécialité postulée.
 
@@ -30,15 +34,15 @@ Entretien visant à évaluer les capacités d'adaptation du candidat à l'emploi
 
 Afin de préparer cet entretien, le candidat est soumis à des tests psychométriques sous forme de questionnaires à choix multiples qui ne sont pas considérés comme des épreuves et pour lesquels aucune préparation n'est nécessaire. |
 
-Epreuves de sport définies en annexe III du présent arrêté
+Épreuves de sport définies en annexe III du présent arrêté
 
 (coefficient 1) : |
 
-- Une épreuve de course à pied de 3 000 mètres ;
+-Une épreuve de course à pied de 3 000 mètres ;
 
-- Une épreuve d'abdominaux ;
+-Une épreuve d'abdominaux ;
 
-- Une épreuve d'appuis faciaux. |
+-Une épreuve d'appuis faciaux. |
 
 Spécialité |
 
@@ -48,7 +52,9 @@ Epreuve d'entretien avec un jury
 
 (durée : 20 minutes ; coefficient 2) : |
 
-Entretien ayant pour objectif d'évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la spécialité auto-engins blindés Il vise également à évaluer les aptitudes, les motivations et les facultés d'expression et de raisonnement du candidat. |
+Entretien ayant pour objectif d'évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la spécialité auto-engins blindés
+
+Il vise également à évaluer les aptitudes, les motivations et les facultés d'expression et de raisonnement du candidat. |
 
 Epreuve pratique
 
@@ -72,8 +78,12 @@ Epreuves de sport définies en annexe III du présent arrêté
 
 (coefficient 1) : |
 
-- Une épreuve de course à pied de 3 000 mètres ;
+-Une épreuve de course à pied de 3 000 mètres ;
 
-- Une épreuve d'abdominaux ;
+-Une épreuve d'abdominaux ;
 
-- Une épreuve d'appuis faciaux. |
+-Une épreuve d'appuis faciaux. |
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 24 mars 2022 (NOR : INTJ2207720A), les dispositions du présent arrêté sont applicables à compter du recrutement organisé au titre de la session de septembre 2022.

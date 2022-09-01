@@ -8,10 +8,6 @@ Administration et gestion
 
 du personnel |
 
-Gestion logistique
-
-et financière |
-
 Auto-engins
 
 blindés |
@@ -30,13 +26,7 @@ Epreuve de mise en situation professionnelle
 
 Cette épreuve consiste pour le candidat à répondre à plusieurs questions ou commandes, avec ou sans documentation. Le candidat pourra être amené à produire des réponses ou des documents de différentes natures. |
 
-Epreuve visant à évaluer les connaissances du candidat dans le domaine de l'administration et la gestion du personnel, ses capacités d'analyse et de synthèse, ainsi que ses qualités rédactionnelles et son niveau d'orthographe.
-
-Pas de programme particulier. |
-
-Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine de la gestion logistique et financière.
-
-Cette épreuve porte sur le programme défini au I de la présente annexe. |
+Épreuve visant à évaluer les capacités d'analyse et de synthèse du candidat, ses qualités rédactionnelles et son niveau d'orthographe. Cette épreuve généraliste portant sur le domaine des ressources humaines, de la logistique et des finances ne requiert aucune connaissance préalable. Pas de programme particulier. |
 
 Epreuve visant à évaluer les connaissances techniques et professionnelles du candidat dans le domaine des auto-engins blindés.
 
@@ -54,55 +44,7 @@ Epreuve visant à évaluer les connaissances techniques et professionnelles du c
 
 Cette épreuve porte sur le programme défini au V de la présente annexe. |
 
-I. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité gestion logistique et financière
-
-1° Finances :
-
-- l'analyse des besoins ;
-
-- l'expression de besoins, la préparation, la gestion et le pilotage d'un budget de fonctionnement ;
-
-- la gestion des charges locatives ;
-
-- les principes fondamentaux de la loi organique relative aux lois de finances (LOLF) ;
-
-- les principes fondamentaux de la gestion budgétaire et comptable publique.
-
-2° Marchés publics :
-
-- le besoin à satisfaire et la procédure adaptée ;
-
-- les documents constitutifs et les pièces contractuelles ;
-
-- les opérations de passation et d'attribution du marché ;
-
-- la notification du marché ;
-
-- le suivi du respect des clauses ;
-
-- les principes généraux de la commande publique et les procédures de mise en œuvre des marchés publics.
-
-3° Matériels :
-
-- la coordination et l'analyse des commandes de matériels ;
-
-- la gestion du suivi des stocks.
-
-4° Comptabilité :
-
-- le contrôle interne et comptable au sein des sections contrôle comptable et budgétaire (SCCB) ;
-
-- le principe de sincérité budgétaire des comptes de l'Etat.
-
-5° Hygiène Sécurité Incendie Environnement (HSIE) :
-
-- les règles générales HSIE ;
-
-- les règles applicables en matière de santé et de sécurité ;
-
-- la gestion et le suivi des extincteurs.
-
-II. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité auto-engins blindés
+I. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité auto-engins blindés
 
 1° La technique automobile :
 
@@ -212,7 +154,7 @@ II. - Programme relatif à l'épreuve de mise en situation professionnelle de la
 
 - le stockage des produits dangereux.
 
-III. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité affaires immobilières :
+II. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité affaires immobilières :
 
 1° Mathématiques :
 
@@ -298,7 +240,7 @@ b) Le comportement des fluides :
 
 L'épreuve de mise en situation professionnelle peut interroger le candidat sur les domaines de la construction et de la gestion immobilière et locative (questions ou commandes, avec ou sans documentation). Il n'est pas prévu de programme de révision pour ce thème.
 
-IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité armurier pyrotechnicien
+III. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité armurier pyrotechnicien
 
 1° Mécanique générale :
 
@@ -348,7 +290,7 @@ IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la
 
 - l'identification d'une munition.
 
-V. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité restauration collective
+IV. - Programme relatif à l'épreuve de mise en situation professionnelle de la spécialité restauration collective
 
 1° Comptabilité et fiscalité :
 
@@ -445,3 +387,7 @@ V. - Programme relatif à l'épreuve de mise en situation professionnelle de la 
 - les règles d'hygiène, de sécurité et de prévention des accidents du travail ;
 
 - les grands principes du droit du travail.
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 24 mars 2022 (NOR : INTJ2207720A), les dispositions du présent arrêté sont applicables à compter du recrutement organisé au titre de la session de septembre 2022.
