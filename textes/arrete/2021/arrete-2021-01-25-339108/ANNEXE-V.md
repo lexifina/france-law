@@ -96,4 +96,8 @@ Indiquer les stages effectués dans le cadre d'un cursus d'études et/ou les for
 
 PRESENTATION DU DOCTORAT
 
-Indiquer l'intitulé de l'obtention de votre doctorat et présenter en 2 lignes maximum vos travaux de recherche.
+Le candidat titulaire de ce diplôme présente dans cette rubrique les travaux réalisés ou ceux auxquels il a pris part dans le cadre de sa formation à la recherche et par la recherche sanctionnée par la délivrance du doctorat (Arial 10, maximum 400 mots).
+
+NOTA :
+
+Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.

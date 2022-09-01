@@ -50,6 +50,8 @@ L'épreuve vise à vérifier :
 
 - d'autre part, que le candidat est en mesure, à partir d'une analyse de la motricité des élèves, de prendre des décisions pour proposer une démarche d'intervention dans différents contextes (niveaux de classe et d'acquisition).
 
+Afin de réaliser les trois prestations physiques, le candidat choisit au moment de son inscription parmi les activités physiques, sportives et artistiques (APSA) proposées au programme de l'épreuve, une APSA dans chacun des quatre premiers champs d'apprentissage (CA) de l'éducation physique et sportive identifiées dans les programmes disciplinaires (CA1 à CA4). Parmi ces quatre APSA, le candidat en retient une comme activité de spécialité ; les trois autres constituent le support d'un tirage au sort par le jury pour la réalisation des deux prestations de polyvalence. Les APSA tirées au sort sont notifiées au candidat dans sa feuille de route, la veille des prestations. Aucune APSA du champ d'apprentissage CA5 n'est proposée.
+
 Au cours des prestations physiques, le candidat présente une motricité polyvalente prenant appui sur ses capacités physiques, une préparation physique sérieuse adaptée à l'épreuve et la mobilisation en acte de compétences professionnelles attendues (par exemple : se préparer seul ou à plusieurs, collaborer, coacher, analyser, réguler, arbitrer…).
 
 Au cours de l'entretien, le candidat est interrogé sur son activité de spécialité. Il doit faire des choix ciblés à partir d'un diagnostic de la motricité des élèves observés au travers d'un support vidéo dans l'activité de spécialité et proposer une démarche d'intervention adaptée, source de transformation de l'activité de l'élève. Pour cela, il mobilise des connaissances scientifiques, technologiques, didactiques et sécuritaires au service d'une analyse de l'activité motrice des élèves préalable à toute intervention pédagogique destinée à la transformer durablement.
@@ -77,3 +79,7 @@ Durée de l'épreuve : trente-cinq minutes. Coefficient 3.
 L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
 Le candidat admissible transmet préalablement une fiche individuelle de renseignement établie sur le modèle figurant à l'annexe V du présent arrêté, selon les modalités définies dans l'arrêté d'ouverture.
+
+NOTA :
+
+Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.

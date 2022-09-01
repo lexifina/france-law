@@ -154,25 +154,17 @@ A - Epreuves d'admissibilité
 
 L'épreuve est constituée de plusieurs parties enchaînées, indépendantes et complémentaires, chacune permettant d'évaluer certaines des compétences techniques et pratiques des candidats.
 
-1) Première partie (5 points) :
-
 Le sujet présente une partition pour voix soliste accompagnée de sa grille harmonique destinée à être interprétée au collège ou au lycée à un niveau de formation par ailleurs indiqué. Sur un extrait de la partition délimité par le sujet, le candidat conçoit un arrangement polyphonique dont le sujet précise le nombre et la nature des parties vocales et éventuellement instrumentales pour lequel il doit être envisagé.
 
 Durée : deux heures.
-
-2) Deuxième partie (3 points) :
 
 Un ou deux extraits d'œuvres sont diffusés à plusieurs reprises selon un plan de diffusion précisé par le sujet. Le candidat en effectue le relevé musical aussi précis que possible sur partition.
 
 Durée : trente minutes.
 
-3) Troisième partie (5 points) :
-
 Un extrait d'œuvre d'une durée ne pouvant excéder quatre minutes est diffusé à plusieurs reprises selon un plan de diffusion précisé par le sujet. Le candidat en réalise une présentation analytique identifiant ses principales caractéristiques et le situe dans le champ esthétique en référence aux styles et genres qui jalonnent l'histoire de la musique et des arts jusqu'à aujourd'hui. Il veille à souligner les parentés de l'extrait diffusé avec d'autres œuvres musicales et artistiques.
 
 Durée : une heure.
-
-4) Quatrième partie (7 points) :
 
 Deux ou trois extraits d'œuvres sont diffusés successivement et à plusieurs reprises. L'une d'entre elles est identifiée. Le candidat élabore un commentaire comparé de ces différentes pièces et la façon dont elles peuvent nourrir une problématique qu'il est amené à préciser.
 
@@ -228,11 +220,11 @@ L'épreuve est organisée en quatre moments successifs :
 
 Durant la préparation comme durant l'épreuve, le candidat dispose d'un clavier. En outre, la salle d'épreuve est équipée d'un système de visualisation collective permettant au candidat, s'il le souhaite, de projeter sur écran les paroles du chœur retenu par le jury. Dans cette perspective, il apporte un support numérique portant, sur une seule page par pièce polyphonique et au format PDF, les paroles de la partition.
 
-Ces quatre moments sont suivis d'un entretien avec le jury portant sur les différentes parties de l'épreuve et notamment les stratégies que le candidat pourrait déployer pour évaluer les apprentissages vocaux des élèves (durée : le reste du temps imparti à l'épreuve).
+Ces quatre moments sont suivis d'un entretien avec le jury portant sur les différentes parties de l'épreuve et notamment les stratégies que le candidat pourrait déployer pour évaluer les apprentissages vocaux des élèves (Durée : dix minutes. Toutefois, lorsque le candidat n'utilise pas pleinement le temps à sa disposition pour les quatre moments de l'épreuve, la durée non utilisée est reportée sur celle consacrée à l'entretien dans la limite de cinq minutes maximum).
 
 L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
-Durée de préparation : une heure. Durée totale de l'épreuve : cinquante minutes.
+Durée de préparation : une heure quinze minutes dont quinze minutes permettant une mise en voix en fin de préparation. Durée totale de l'épreuve : cinquante minutes maximum.
 
 Coefficient 5.
 
@@ -1363,3 +1355,7 @@ Cette épreuve est présentée à l'article 8 du présent arrêté.
 L'épreuve est notée sur 20. La note 0 est éliminatoire.
 
 Durée : trente-cinq minutes ; coefficient 3.
+
+NOTA :
+
+Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.

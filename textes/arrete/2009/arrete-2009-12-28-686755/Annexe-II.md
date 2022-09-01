@@ -6,19 +6,21 @@ Section philosophie
 
 A. - Epreuves écrites d'admissibilité
 
-1° Composition de philosophie : explication de texte (durée : six heures trente minutes ; coefficient 3) :
+1° Composition de philosophie : explication de texte (durée : six heures trente minutes ; coefficient 3).
 
-Le candidat a le choix entre deux textes qui se rapportent à une même notion du programme de philosophie en vigueur dans les classes terminales. La notion qui constitue le programme de cette épreuve est fixée chaque année.
+Le candidat a le choix entre deux textes qui se rapportent à une même notion du programme de philosophie en vigueur dans les classes terminales ou à l'un des thèmes (dans sa dimension philosophique) du programme de spécialité “ humanités, littérature et philosophie ” du cycle terminal de la voie générale du lycée. La notion ou le thème qui constituent le programme de cette épreuve sont fixés chaque année.
 
 2° Composition de philosophie : dissertation (durée : sept heures ; coefficient 3).
 
-Le sujet de la dissertation se rapporte à l'une des notions du programme de philosophie en vigueur dans les classes terminales. La notion qui constitue le programme de cette épreuve est fixée chaque année, elle est obligatoirement différente de celle retenue pour le programme de la première composition de philosophie.
+Le sujet de la dissertation se rapporte à l'une des notions du programme de philosophie en vigueur dans les classes terminales ou à l'un des thèmes (dans sa dimension philosophique) du programme de spécialité “ humanités, littérature et philosophie ” du cycle terminal de la voie générale du lycée. La notion ou le thème qui constituent le programme de cette épreuve sont fixés chaque année.
+
+Le programme de cette épreuve est obligatoirement différent de celui de la première épreuve de philosophie.
 
 Le programme des épreuves écrites fait l'objet d'une publication sur le site internet du ministère chargé de l'éducation nationale.
 
 B. - Epreuves d'admission
 
-1° Leçon de philosophie sur un sujet relatif au programme de philosophie en vigueur dans les classes terminales (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 3) :
+1° Leçon de philosophie sur un sujet relatif au programme de philosophie en vigueur dans les classes terminales ou au programme (dans sa dimension philosophique) de l'enseignement de spécialité “ humanités, littérature et philosophie ” du cycle terminal de la voie générale (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 3) :
 
 Pour la préparation de la leçon, les ouvrages et documents demandés par les candidats seront, dans la mesure du possible, mis à leur disposition. Sont exclues de la consultation les encyclopédies et anthologies thématiques.
 
@@ -290,7 +292,7 @@ Le candidat présente et réalise des activités pratiques intégrées dans un c
 
 La présentation par le candidat est suivie d'un entretien.
 
-Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : soixante minutes ; entretien : vingt minutes) ; coefficient : 1,5.
+Durée de la préparation : trois heures. Durée de l'épreuve : une heure vingt minutes (présentation : cinquante minutes ; entretien : trente minutes) ; coefficient : 1,5.
 
 2° Exposé :
 
@@ -366,19 +368,35 @@ Durée de la préparation : six heures ; durée de l'épreuve : cinquante minute
 
 2° Direction de chœur.
 
-L'épreuve comporte l'apprentissage et l'interprétation par un chœur d'un texte polyphonique puis un entretien avec le jury.
+Le candidat remet au jury un ensemble de cinq pièces polyphoniques à trois voix mixtes (deux voix de femmes, une voix d'hommes) qu'il doit connaître et maîtriser en vue de mener l'apprentissage et l'interprétation de l'une d'entre elles, choisie par le jury, avec l'ensemble vocal mis à sa disposition durant l'épreuve. Ces cinq pièces polyphoniques peuvent être a cappella et/ ou avec accompagnement piano. Quatre de ces cinq pièces relèvent des périodes et/ ou répertoires différents suivants :
 
-Un texte polyphonique à deux ou trois voix est proposé au candidat. Après une préparation, le candidat dispose de vingt minutes pour le faire interpréter au chœur mis à sa disposition.
+1. Relevant d'une période antérieure au XVIIIe siècle ;
 
-Le chœur ne dispose pas de la partition.
+2. Relevant des XVIIIe ou XIXe siècles ;
 
-Aux moments qu'il juge opportun, le candidat veille à accompagner l'interprétation du chœur à l'aide du piano mis à sa disposition ou à l'aide de l'instrument polyphonique qu'il aura apporté.
+3. Relevant du répertoire savant des XXe et XXIe siècles ;
 
-L'entretien permet au jury d'interroger le candidat sur les aspects techniques, artistiques et pédagogiques du moment précédent.
+4. Relevant du répertoire des musiques populaires/ actuelles.
 
-Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve.
+La cinquième pièce est un texte original qui peut être l'arrangement d'une œuvre existante et identifiée par le candidat ou bien une composition.
 
-Durée de la préparation : une heure ; durée de l'épreuve : trente minutes (vingt minutes pour la première partie ; dix minutes pour l'entretien) ; coefficient 5.
+L'une de ces cinq pièces au moins est en langue étrangère. Quelle que soit la pièce choisie par le jury, le candidat peut s'il le souhaite en projeter les paroles sur un écran dans la salle d'épreuve facilitant la mémorisation du chœur. Dans cette perspective, il fournit au jury une clef USB réunissant cinq fichiers PDF portant chacun les paroles des pièces présentées au jury.
+
+Le candidat veille à choisir des pièces lui permettant de témoigner de ses qualités de chef de chœur. La durée de chaque pièce doit être de quelques minutes permettant au jury de préciser au candidat le passage particulier qui doit être, de façon privilégiée, appris par le chœur.
+
+Si la pièce choisie par le jury le permet, aux moments qu'il juge opportuns, le candidat peut accompagner l'apprentissage et l'interprétation du chœur à l'aide du piano mis à sa disposition ou d'un instrument polyphonique qu'il aura apporté.
+
+Lorsqu'il se présente au concours au jour et à l'heure de sa convocation, le candidat transmet au secrétariat du concours un dossier constitué d'une page de présentation listant les pièces proposées et de quatre exemplaires de chacune des partitions. Par ailleurs, il garde en sa possession un cinquième exemplaire de chaque partition sur lequel il pourra adosser son travail durant le temps de préparation puis avec le chœur durant l'épreuve.
+
+Après avoir pris connaissance du dossier présenté par le candidat, le jury lui annonce le titre de la partition retenue ainsi que le passage sélectionné qu'il aura à apprendre et à faire interpréter par le chœur durant l'épreuve. Il dispose alors de trente minutes de préparation.
+
+L'entretien permet au jury d'interroger le candidat sur les aspects techniques, artistiques et pédagogiques du moment précédent et également sur les critères ayant présidé aux choix des cinq partitions proposées au jury.
+
+Le candidat dispose d'un piano pendant la préparation et pendant la durée de l'épreuve. Il peut également tirer parti d'un instrument qu'il aura apporté.
+
+Durée de la préparation : trente minutes ; durée de l'épreuve : quarante minutes (vingt minutes pour la direction du chœur ; vingt minutes pour l'entretien).
+
+Coefficient 5.
 
 Section arts plastiques
 
@@ -867,3 +885,7 @@ Durée : six heures ; coefficient 1.
 Le programme des épreuves est publié sur le site internet du ministère chargé de l'éducation nationale.
 
 Pour les épreuves d'admissibilité et d'admission, certains documents fournis par le jury peuvent être rédigés en langue anglaise, compte tenu de leur nature scientifique.
+
+NOTA :
+
+Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.

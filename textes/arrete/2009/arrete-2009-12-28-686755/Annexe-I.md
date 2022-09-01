@@ -394,7 +394,7 @@ A. - Epreuves écrites d'admissibilité
 
 2° Commentaire en langue française d'un texte inscrit au programme (durée : six heures ; coefficient 2).
 
-3° Linguistique : commentaire dirigé en français d'un ou plusieurs textes en langue arabe, extraits ou non du programme, comportant des questions de linguistique du programme et des questions de grammaire hors programme. Ces questions sont posées en français (durée : six heures ; coefficient 2).
+3° Linguistique : commentaire dirigé en français d'un corpus textuel en langue arabe comportant des questions de grammaire hors programme, suivi de question (s) de linguistique du programme basées ou non sur ce corpus. Ces questions sont posées en français (durée : six heures ; coefficient 2).
 
 4° Epreuve de traduction :
 
@@ -1324,9 +1324,9 @@ B. - Epreuves pratiques et orales d'admission
 
 Durée de la préparation : quatre heures.
 
-Durée de la leçon : quarante-cinq minutes.
+Durée de la leçon : quarante minutes.
 
-Durée de l'entretien : quinze minutes.
+Durée de l'entretien : vingt minutes.
 
 Coefficient 3.
 
@@ -1574,4 +1574,4 @@ Les programmes des épreuves 2° et 3° d'admission sont ceux des épreuves 1° 
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 23 juillet 2021, ces dispositions prennent effet le 1er septembre 2021.
+Conformément à l’article 10 de l’arrêté du 10 août 2022 (MENH2217762A), ces dispositions prennent effet le 1er septembre 2022.
