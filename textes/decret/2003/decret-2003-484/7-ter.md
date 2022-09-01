@@ -28,10 +28,14 @@ Les assistants d'éducation ayant conclu un contrat de préprofessionnalisation 
 
 Les assistants d'éducation ayant conclu un contrat de préprofessionnalisation sont tenus de respecter une obligation d'assiduité aux enseignements dispensés dans le cadre de leurs études universitaires. Ils informent le chef d'établissement des crédits ECTS obtenus chaque année.
 
-Tout manquement au respect des obligations mentionnées à l'alinéa précédent constitue un motif de rupture du contrat. Le contrat peut également être rompu si l'assistant d'éducation ne justifie pas de l'obtention de 120 crédits ECTS à l'issue des deux premières années de contrat.
+Le contrat peut faire l'objet d'une rupture de plein droit si l'assistant d'éducation ne justifie pas de l'obtention de 120 crédits ECTS à l'issue des deux premières années de contrat ou d'une inscription dans une formation dispensée par un établissement d'enseignement supérieur préparant au concours d'accès aux corps des personnels enseignants.
+
+L'assistant d'éducation est informé de la mise en œuvre de cette rupture lors d'un entretien organisé à cet effet.
+
+La rupture de plein droit du contrat intervient sans préavis et ne donne lieu ni au versement de l'indemnité prévue au titre XII du décret du 17 janvier 1986 ni à la consultation de la commission consultative paritaire académique dont relève l'assistant d'éducation.
 
 A titre exceptionnel, pour répondre à des situations dûment justifiées par les assistants d'éducation en contrat de préprofessionnalisation et sous réserve de l'accord des services académiques après avis de l'école ou de l'établissement d'accueil, lors de l'inscription dans une formation dispensée par un établissement d'enseignement supérieur préparant aux concours d'accès aux corps des personnels enseignants ou d'éducation, le contrat de préprofessionnalisation peut être interrompu afin de permettre à l'assistant d'éducation de changer d'académie, d'établissement ou de degré d'enseignement. Lorsqu'un nouveau contrat est conclu en application de cette disposition, l'intéressé ne peut bénéficier d'une durée totale de contrats supérieure à celle prévue au cinquième alinéa du présent article.
 
 NOTA :
 
-Conformément à l'article 4 du décret n° 2019-981 du 24 septembre 2019, ces dispositions entrent en vigueur à compter de la rentrée scolaire 2019.
+Conformément au I de l'article 9 du décret n° 2022-1140 du 9 août 2022, ces dispositions entrent en vigueur le 1er septembre 2022.
