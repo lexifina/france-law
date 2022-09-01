@@ -186,7 +186,7 @@ MAIGRE |
 
 Argyrosomus regius |
 
-45 cm |
+50 cm |
 
 MAKAIRES BLANCS |
 
