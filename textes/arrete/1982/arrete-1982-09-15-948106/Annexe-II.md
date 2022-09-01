@@ -4,409 +4,91 @@ Conditions auxquelles doivent satisfaire les semences
 
 A. - Les semences doivent répondre aux normes et autres conditions suivantes, en ce qui concerne la pureté variétale, la faculté germinative, la pureté spécifique, la teneur en humidité et la teneur en semences d'autres espèces de plantes (voir tableau).
 
-ESPÈCES
+ESPÈCES |
 
-|
-
-CATÉGORIES
-
-|
+CATÉGORIES |
 
 PURETÉ
 
-minimale variétale
+minimale
 
-(% de graines)
+variétale
 
-|
+(% de graines) |
 
 FACULTÉ
 
 germinative minimale
 
-(% de graines)
-
-|
+(% de graines) |
 
 PURETÉ
 
 spécifique minimale
 
-(% du poids)
-
-|
+(% du poids) |
 
 HUMIDITÉ
 
 maximale
 
-(% en teneur d'eau)
+(% en teneur d'eau) |
 
-|
-
-TENEUR EN NOMBRE DE GRAINS D'AUTRES ESPÈCES DE PLANTES,
-
-y compris les grains rouges dans un échantillon du poids
-
-prévu à l'annexe IV
-
-|
-
-Total
-
-|
-
-Autres espèces
-
-de céréales
-
-|
-
-Autres espèces de plantes
-
-|
-
-Avoine, avoine maigre, blé dur, blé tendre, épeautre, orge
-
-|
-
-Semences de prébase et de base
-
-|
-
-99,9
-
-|
-
-85
-
-|
-
-99
-
-|
-
-16,5
-
-|
-
-4
-
-|
-
-1 (b)
-
-|
-
-Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
-
-Semences certifiées
-
-|
-
-1re génération
-
-99,7
-
-|
-
-85
-
-|
-
-98
-
-|
-
-16,5
-
-|
-
-10
-
-|
-
-7
-
-|
-
-Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
-
-|
-
-2e génération
-
-99,0
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Avoine nue
-
-|
-
-Semences de prébase et de base
-
-|
-
-99,9
-
-|
-
-75
-
-|
-
-99
-
-|
-
-16,5
-
-|
-
-4
-
-|
-
-1 (b)
-
-|
-
-Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
-
-Semences certifiées
-
-|
-
-1re génération
-
-99,7
-
-|
-
-75
-
-|
-
-98
-
-|
-
-16,5
-
-|
-
-10
-
-|
-
-7
-
-|
-
-Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
-
-|
-
-2e génération
-
-99,0
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Riz
-
-|
-
-Semences de prébase et de base
-
-|
-
-99,9
-
-|
-
-80
-
-|
-
-98
-
-|
-
-15,5
-
-|
-
-4
-
-|
-
-1 grain rouge
-
-|
-
-1 Panicum spp.
-
-|
-
-Semences certifiées
-
-|
-
-99,7
-
-|
-
-80
-
-|
-
-98
-
-|
-
-15,5
-
-|
-
-10
-
-|
-
-3 grains rouges
-
-|
-
-3 Panicum spp.
-
-|
-
-Sarrasin
-
-|
-
-Semences de prébase et de base
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Dont : 1 Fagopyrum tartaricum ou Rumex spp.
-
-|
-
-Variété diploïde
-
-|
+TENEUR EN NOMBRE DE GRAINS
 
-(d)
+D'AUTRES ESPÈCES DE PLANTES,
 
-|
-
-80
-
-|
-
-98
+y compris les grains rouges dans un échantillon du poids prévu à l'annexe IV |
 
-|
-
-15
-
-|
+Total |
 
-3
-
-|
+Autres espèces de céréales |
 
--
+Autres espèces de plantes |
 
-|
+Avoine, avoine maigre, blé dur, blé tendre, épeautre, orge |
 
-ou graine de renonculacée
+Semences de prébase et de base |
 
-|
+99,9 |
 
-Variété tétraploïde
+85 |
 
-|
+99 |
 
-(d)
+16,5 |
 
-|
+4 |
 
-80
+1 (b) |
 
-|
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
-98
+Semences certifiées |
 
-|
+1re
 
-15
+génération
 
-|
+99,7 (a) |
 
-1 (e)
+85 |
 
-|
+98 |
 
--
+16,5 |
 
-|
+10 |
 
-ou graine de caryophyllacée (f)
+7 |
 
-|
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
-Semences certifiées
+2e
 
-|
+génération
 
-|
+99,0 |
 
 |
 
@@ -417,410 +99,372 @@ Semences certifiées
 |
 
 |
-
-Dont : 3 Fagopyrum tartaricum ou Rumex spp.
 
 |
 
-Variété diploïde
+Avoine nue |
 
-|
+Semences de prébase et de base |
 
-(d)
+99,9 |
 
-|
+75 |
 
-80
+99 |
 
-|
+16,5 |
 
-97
+4 |
 
-|
+1 (b) |
 
-15
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
-|
+Semences certifiées |
 
-7
+1re
 
-|
+génération
 
--
+99,7 |
 
-|
+75 |
 
-ou graine de renonculacée
+98 |
 
-|
+16,5 |
 
-Variété tétraploïde
+10 |
 
-|
+7 |
 
-(d)
+Sept, dont : 3
 
-|
+Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
-80
+2e
 
-|
+génération
 
-97
+99,0 |
 
 |
 
-15
-
 |
 
-4
-
 |
-
--
 
 |
 
-ou graine de caryophyllacée
-
 |
 
-Seigle
-
 |
 
-Semences de prébase et de base
+Riz |
 
-|
+Semences de prébase et de base |
 
--
+99,9 |
 
-|
+80 |
 
-85
+98 |
 
-|
+15,5 |
 
-98
+4 |
 
-|
+1 grain rouge |
 
-15
+1 Panicum spp. |
 
-|
+Semences certifiées |
 
-4
+99,7 |
 
-|
+80 |
 
-1 (b)
+98 |
 
-|
+15,5 |
 
-Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+10 |
 
-|
+3 grains rouges |
 
-Semences certifiées
+3 Panicum spp. |
 
-|
+Sarrasin |
 
--
+Semences de prébase et de base |
 
 |
 
-85
-
 |
 
-98
-
 |
-
-15
 
 |
 
-10
-
 |
 
-7
-
 |
-
-Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
 
-|
+Dont : 1 Fagopyrum tartaricum ou Rumex spp. |
 
-Seigle des montagnes
+Variété diploïde |
 
-|
+(d) |
 
-Semences
+80 |
 
-|
+98 |
 
--
+15 |
 
-|
+3 |
 
-85
+- |
 
-|
+ou graine de renonculacée |
 
-98
+Variété tétraploïde |
 
-|
+(d) |
 
-15
+80 |
 
-|
+98 |
 
-10
+15 |
 
-|
+1 (e) |
 
-7
+- |
 
-|
+ou graine de caryophyllacée (f) |
 
-Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c)
+Semences certifiées |
 
 |
 
-Secale montanum Guss. x Secale cereale L.
-
 |
-
-Semences
 
 |
 
--
-
 |
-
-85
 
 |
 
-98
-
 |
 
-15
-
-|
+Dont : 3 Fagopyrum tartaricum ou Rumex spp. |
 
-10
+Variété diploïde |
 
-|
+(d) |
 
-7
+80 |
 
-|
+97 |
 
-Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c)
+15 |
 
-|
+7 |
 
-Maïs
+- |
 
-|
+ou graine de renonculacée |
 
-Semences de prébase et de base
+Variété tétraploïde |
 
-|
+(d) |
 
--
+80 |
 
-|
+97 |
 
-90
+15 |
 
-|
+4 |
 
-98
+- |
 
-|
+ou graine de caryophyllacée |
 
-14
+Seigle |
 
-|
+Semences de prébase et de base |
 
-0
+- |
 
-|
+85 |
 
--
+98 |
 
-|
+15 |
 
-|
+4 |
 
-Semences certifiées
+1 (b) |
 
-|
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
--
+Semences certifiées |
 
-|
+- |
 
-90
+85 |
 
-|
+98 |
 
-98
+15 |
 
-|
+10 |
 
-14
+7 |
 
-|
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
-0
+Seigle des montagnes |
 
-|
+Semences |
 
--
+- |
 
-|
+85 |
 
-|
+98 |
 
-Triticale
+15 |
 
-|
+10 |
 
-Semences de prébase et de base
+7 |
 
-|
+Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c) |
 
-99,7
+Secale montanum Guss. x Secale cereale L. |
 
-|
+Semences |
 
-80
+- |
 
-|
+85 |
 
-98
+98 |
 
-|
+15 |
 
-16,5
+10 |
 
-|
+7 |
 
-4
+Sept, dont : 3 Raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena sterilis, Avena ludoviciana ou Lolium temulentum (c) |
 
-|
+Maïs |
 
-1 (b)
+Semences de prébase et de base |
 
-|
+- |
 
-Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
+90 |
 
-|
+98 |
 
-Semences certifiées
+14 |
 
-|
+0 |
 
-99
+- |
 
 |
 
-80
+Semences certifiées |
 
-|
+- |
 
-98
+90 |
 
-|
+98 |
 
-16,5
+14 |
 
-|
+0 |
 
-10
+- |
 
 |
 
-7
+Triticale |
 
-|
+Semences de prébase et de base |
 
-Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c)
-
-|
+99,7 |
 
-Sorghum spp.
+80 |
 
-|
+98 |
 
-Semences de prébase et de base
+16,5 |
 
-|
+4 |
 
--
+1 (b) |
 
-|
+Trois, dont : 1 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
-80
+Semences certifiées |
 
-|
+99 |
 
-98
+80 |
 
-|
+98 |
 
-14
+16,5 |
 
-|
+10 |
 
-0
+7 |
 
-|
+Sept, dont : 3 Raphanus raphanistrum ou Agrostemma githago ; 0 Avena fatua, Avena ludoviciana, Avena sterilis, Lolium temulentum (c) |
 
--
+Sorghum spp. |
 
-|
+Semences de prébase et de base |
 
-|
+- |
 
-Semences certifiées
+80 |
 
-|
+98 |
 
--
+14 |
 
-|
+0 |
 
-80
+- |
 
 |
 
-98
+Semences certifiées |
 
-|
+- |
 
-14
+80 |
 
-|
+98 |
 
-0
+14 |
 
-|
+0 |
 
--
+- |
 
 |
 
-|
+(a) Pour les semences certifiées de 1re génération des variétés hybrides d'orge, de blé dur, de blé tendre et d'épeautre, produites au moyen de la technique de la stérilité mâle cytoplasmique (SMC), la pureté variétale minimale est de 85 %. Les impuretés autres que le restaurateur ne dépassent pas 2 %. Les dispositions du (a) sont applicables pour la période fixée par l'article 2 de la directive d'exécution (UE) 2021/1927 de la Commission du 5 novembre 2021 susvisée.
 
 (b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.
 
@@ -830,9 +474,7 @@ Semences certifiées
 
 (e) Une deuxième graine n'est pas considérée comme une impureté si un second échantillon du même poids est exempt de graines d'autres plantes.
 
-(f) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces.
-
-|
+(f) Une deuxième graine de l'une de ces espèces n'est pas considérée comme une impureté si un deuxième échantillon du même poids est exempt de graines de ces espèces. |
 
 B. - Les semences sont pratiquement exemptes d'organismes nuisibles réduisant leur valeur d'utilisation et leur qualité.
 
@@ -849,3 +491,7 @@ Le nombre maximal de sclérotes ou fragments de sclérotes, ou d'ergots, dans un
 -trois pour les semences sans aucun qualificatif ;
 
 -quatre pour les semences certifiées d'hybrides Secale cereale.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 9 juillet 2022 (NOR : AGRG2212202A), ces dispositions entrent en vigueur le 1er septembre 2022.
