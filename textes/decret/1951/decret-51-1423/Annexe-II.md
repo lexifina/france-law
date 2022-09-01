@@ -66,76 +66,48 @@ correspondant de la classe normale
 
 |
 
-b) Pour les professeurs certifiés, professeurs de lycée professionnel (2e grade),professeurs d'éducation physique et sportive, professeurs des écoles, conseillers principaux d'éducation, directeurs de centre d'information et d'orientation et conseillers d'orientation-psychologues, conseillers d'éducation populaire et de jeunesse, professeurs de sport, ledit échelon est fixé conformément au tableau de correspondance ci-après :
+b) Pour les professeurs certifiés, professeurs de lycée professionnel, professeurs d'éducation physique et sportive, professeurs des écoles, conseillers principaux d'éducation, psychologues de l'éducation nationale, conseillers d'éducation populaire et de jeunesse, professeurs de sport, cet échelon est fixé conformément au tableau de correspondance ci-après :
 
-ECHELON
+ÉCHELON
 
-dans la hors-classe ou dans le grade de directeur de centre d'information et d'orientation
+dans la hors-classe |
 
-|
+ÉCHELON
 
-ECHELON
+correspondant dans la classe normale |
 
-correspondant de la classe normale ou du grade de conseiller d'orientation-psychologue
+1er échelon |
 
-|
+8e échelon |
 
-1er échelon
+2e échelon |
 
-|
+9e échelon avec majoration de deux ans |
 
-7e échelon
+3e échelon |
 
-|
+10e échelon |
 
-2e échelon
+4e échelon |
 
-|
+11e échelon |
 
-8e échelon
+5e échelon |
 
-|
+11e échelon avec majoration de 2 ans et 6 mois (1) |
 
-3e échelon
+6e échelon |
 
-|
+11e échelon avec majoration de 5 ans et 6 mois (1) |
 
-9e échelon
+7e échelon |
 
-|
+11e échelon avec une majoration de 8 ans et 6 mois (2) |
 
-4e échelon
+(1) Le cas échéant, cette durée est augmentée de la durée des services au 11e échelon de la classe normale pour les professeurs qui, avant d'accéder à la hors-classe de leurs corps, étaient rangés dans le deuxième groupe mentionné à l'article 9 ci-dessus ou, pour les autres fonctionnaires, de la durée des services au 11e échelon de la classe normale au-delà de 2 ans et 6 mois.
 
-|
+(2) Le cas échéant, cette durée est augmentée de la durée des services au 11e échelon de la classe normale pour les professeurs qui, avant d'accéder à la hors-classe de leurs corps, étaient rangés dans le deuxième groupe mentionné à l'article 9 ci-dessus ou, pour les autres fonctionnaires, de la durée des services au 11e échelon de la classe normale au-delà de 2 ans et 6 mois ; cette durée est également augmentée de la durée des services au 6e échelon de la hors-classe au-delà de 3 ans |
 
-10e échelon
+NOTA :
 
-|
-
-5e échelon
-
-|
-
-11e échelon
-
-|
-
-6e échelon
-
-|
-
-11e échelon avec majoration de 3 ans (1)
-
-|
-
-7e échelon
-
-|
-
-11e échelon avec majoration de 6 ans (1)
-
-|
-
-(1) Le cas échéant, cette durée est augmentée de la durée des services au 11e échelon de la classe normale pour les professeurs qui, avant d'accéder à la hors-classe de leurs corps, étaient rangés dans le deuxième groupe mentionné à l'article 9 ci-dessus ou, pour les autres fonctionnaires, de la durée des services au-delà de 3 ans au 11e échelon de la classe normale ou du grade de conseiller d'orientation-psychologue.
-
-|
+Conformément à l’article 10 du décret n° 2022-708 du 26 avril 2022, ces dispositions sont applicables aux décisions individuelles de classement prenant effet à compter du 1er septembre 2022.
