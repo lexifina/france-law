@@ -70,8 +70,6 @@ Conformément à l’article 2 de l’arrêté du 17 décembre 2021 (NOR : TRER2
 
 - Sécheur d’air comprimé à adsorption utilisant un apport calorifique pour sa régénération / Fiche d’opération standardisée n° IND-UT-122
 
-- Moteur premium de classe IE3 / Fiche d’opération standardisée n° IND-UT-123
-
 - Séquenceur électronique pour le pilotage d’une centrale de production d’air comprimé / Fiche d’opération standardisée n° IND-UT-124
 
 - Traitement d’eau performant sur chaudière de production de vapeur / Fiche d’opération standardisée n° IND-UT-125
@@ -139,3 +137,7 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0075 du 29/03/2015, texte n° 6, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=xhmSfzOnsCkjNrGahHphZrmpoFhR61mGJ7APKjTA6As=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0297 du 24/12/2014, texte n° 18, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=FGBMw6bzzOGU6LHfYz6-OOYiF3mTkUVDd1KHOMS6u0s=
+
+NOTA :
+
+Conformément à l'article 4 de l'arrêté du 25 juillet 2022 (NOR : ENER2221632A), ces dispositions entrent en vigueur à compter du 1er septembre 2022.
