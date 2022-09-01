@@ -18,8 +18,6 @@ Sous réserve d'être prévue par le contrat de travail, la période d'essai peu
 
 La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.
 
-(1)
-
 Durant la période d'essai, l'entreprise veille à faciliter l'insertion professionnelle du salarié. Un point doit être fait avant la fin de la période entre le salarié et son supérieur hiérarchique.
 
 La période d'essai peut toujours être réduite en cours d'exécution si les parties en conviennent.
@@ -28,23 +26,21 @@ b) Cessation du contrat au cours de la période d'essai :
 
 Dans le cas où l'essai n'est pas considéré comme satisfaisant par le salarié ou l'employeur, celui des deux qui souhaite mettre fin au contrat de travail le fait connaître à l'autre par écrit avec avis de réception, ou lettre remise contre décharge, sans indemnité à verser à l'autre partie.
 
-(2)
-
-Dans le cas de rupture du contrat de travail par l'employeur, en cours ou au terme de la période d'essai, il devra être respecté, conformément à l'article L. 1221-25 du code du travail, une période de prévenance d'au moins :
+Dans le cas de rupture du contrat de travail par l'employeur, en cours ou au terme de la période d'essai, il devra être respecté, conformément à l'article L. 1221-25 du code du travail, un délai de prévenance d'au moins :
 
 – 24 heures en deçà de 8 jours de présence ;
 
 – 48 heures entre 8 jours et 1 mois de présence ;
 
-– 2 semaines après 1 mois de présence.
+– 2 semaines après 1 mois de présence ;
+
+– 1 mois après 3 mois de présence.
 
 Le salarié, pour sa part, doit respecter, en cas de rupture du contrat de travail à son initiative, en cours ou au terme de la période d'essai, un préavis de :
 
 – 24 heures en deçà de 8 jours de présence ;
 
-– 48 heures entre 8 jours et 1 mois de présence ;
-
-– 1 semaine après un mois de présence.
+– 48 heures à partir de 8 jours de présence.
 
 II. 4.2. Rupture du contrat à durée indéterminée
 
@@ -80,7 +76,7 @@ Le salarié mis à la retraite a droit à une indemnité égale au montant de l'
 
 e) Départ volontaire à la retraite :
 
-Tout salarié ayant atteint l'âge légal de départ à la retraite peut, sous réserve du respect des dispositions relatives au préavis, faire valoir son départ à la retraite. Dans ce cas, il est versé au salarié concerné une indemnité de départ en retraite calculée conformément aux dispositions des articles L. 1237-1 et suivants et D. 1237-1 du code du travail.
+Tout salarié ayant atteint l'âge légal de départ à la retraite peut, sous réserve du respect des dispositions relatives au préavis, faire valoir son départ en retraite. Dans ce cas, il est versé au salarié concerné une indemnité de départ en retraite calculée conformément aux dispositions des articles L. 1237-9 et D. 1237-1 et suivants du code du travail.
 
 II. 4.2.2. Préavis :
 
@@ -110,36 +106,22 @@ II. 4.2.3. Indemnité de licenciement :
 
 Compte tenu des dispositions ci-dessus relatives au délai-congé (ou préavis), et sous condition que l'intéressé ait au moins 6 mois de présence continue dans l'entreprise, tout salarié a droit à une indemnité dite « indemnité de licenciement », calculée comme suit :
 
-a) Cette indemnité justifiant résiliation immédiate du contrat de travail, est égale à
+a) Pour les salariés dont l'ancienneté est comprise entre 6 et 8 mois d'ancienneté, au pro rata temporis : un cinquième de rémunération mensuelle.
 
-(3) :
+Pour les salariés ayant au moins 8 mois d'ancienneté, au pro rata temporis :
 
-– 2/10 de rémunération mensuelle au prorata temporis entre 6 mois et 1 an de présence continue ;
+– un quart de mois de salaire par année d'ancienneté jusqu'à dix ans ;
 
-– 2/10 de rémunération mensuelle par année de présence continue au-delà d'1 an jusqu'à 5 ans de présence continue ;
+– un tiers de mois de salaire par année d'ancienneté à partir de dix ans.
 
-– 1/10 supplémentaire de rémunération mensuelle par année de présence continue au-delà de 5 ans de présence continue ;
+Conformément aux dispositions légales, le salaire à prendre en considération pour le calcul de l'indemnité de licenciement est, selon la formule la plus avantageuse pour le salarié :
 
-– 2/10 supplémentaire de rémunération mensuelle par année de présence continue au-delà de 10 ans de présence continue.
+– soit la moyenne mensuelle des douze derniers mois précédant le licenciement, ou lorsque l'ancienneté du salarié est inférieure à douze mois, la moyenne mensuelle de la rémunération de l'ensemble des mois précédant le licenciement ;
 
-Conformément aux dispositions légales, l'assiette de calcul de l'indemnité est la rémunération brute des douze derniers mois précédant l'envoi de la lettre de licenciement ou, selon la formule la plus avantageuse pour le salarié, à 1/3 des trois derniers mois. Dans ce dernier cas, les primes ou gratifications de caractère annuel ou exceptionnel, versées au salarié pendant cette période, ne sont prises en compte que dans la limite d'un montant calculé prorata temporis.
+– soit le tiers des trois derniers mois. Dans ce cas, toute prime ou gratification de caractère annuel ou exceptionnel, versée au salarié pendant cette période, n'est prise en compte que dans la limite d'un montant calculé à due proportion.
 
 b) Lorsque, en dehors du salaire de base, assorti, le cas échéant, d'une prime d'ancienneté, la rémunération de l'intéressé comporte un pourcentage sur chiffre ou des gratifications régulières, il en est tenu compte pour les calculs des indemnités de préavis et de licenciement. En ce qui concerne ce pourcentage, le montant mensuel à retenir pour son décompte est la moyenne du résultat dudit pourcentage pendant les 12 mois qui ont précédé l'envoi de la lettre comportant notification du licenciement.
 
-c) Tout salarié licencié à plus de 50 ans et ayant au moins 10 ans de présence continue dans l'entreprise à la date de son licenciement a droit à une majoration de 25 % du montant total de l'indemnité résultant des calculs prévus aux paragraphes a et b du présent article
-
-(3).
+c) Tout salarié licencié à plus de 50 ans et ayant au moins 10 ans de présence continue dans l'entreprise à la date de son licenciement a droit à une majoration de 25 % du montant total de l'indemnité résultant des calculs prévus aux paragraphes a et b du présent article.
 
 Les dispositions du présent article II. 4.2.3 ne s'appliquent pas en cas de faute grave ou lourde.
-
-(1) Le 5e alinéa de l'article II. 4.1 est étendu sous réserve du respect des dispositions de l'article L. 1221-25 du code du travail.
-
-(Arrêté du 27 juillet 2018 - art. 1 modifié par arrêté du 21 novembre 2018 - art. 1)
-
-(2) Le 9e alinéa de l'article II. 4.1 est exclu en tant qu'il contrevient aux dispositions de l'article L. 1221-26 du code du travail.
-
-(Arrêté du 27 juillet 2018 - art. 1 modifié par arrêté du 21 novembre 2018 - art. 1)
-
-(3) Les a et c de l'article II. 4.2.3 sont étendus sous réserve du respect des dispositions des articles L. 1234-9 et R. 1234-2 du code du travail dans leur rédaction issue de l'ordonnance n° 2017-1398 du 25 septembre 2017 relative à la prévisibilité et la sécurisation des relations de travail, publiée au Journal officiel et par le décret du 25 septembre 2017 portant revalorisation de l'indemnité légale de licenciement, publiée au Journal officiel du 26 septembre.
-
-(Arrêté du 27 juillet 2018 - art. 1)

@@ -6,11 +6,11 @@ La durée légale du travail est fixée à 35 heures hebdomadaires pour toutes l
 
 Les durées quotidiennes et hebdomadaires maximales sont fixées à :
 
-- 10 heures par jour, qui peuvent être portées à 12 heures en cas de surcroît temporaire d'activité ;
+– 10 heures par jour, qui peuvent être portées à 12 heures en cas de surcroît temporaire d'activité ;
 
-- 48 heures par semaine, sauf dérogation accordée par la DIRECCTE ;
+– 48 heures par semaine, sauf dérogation accordée par la DRIEETS ;
 
-- 44 heures par semaine en moyenne sur une période quelconque de 12 semaines consécutives, sauf dérogation accordée par la DIRECCTE.
+– 44 heures par semaine en moyenne sur une période quelconque de 12 semaines consécutives, sauf dérogation accordée par la DRIEETS.
 
 IV.1.2. Surcroît temporaire d'activité
 
@@ -20,9 +20,9 @@ Ces situations relèvent d'un surcroît temporaire d'activité pouvant interveni
 
 Outre les compensations prévues dans les articles qui suivent, les parties conviennent que ces situations particulières entraînant des périodes de surcroît temporaire d'activité, ne peuvent intervenir, au cours d'une même année civile et au titre d'un ou plusieurs contrats de travail relevant du présent titre IV, que dans les limites suivantes :
 
-- la durée de chaque période de surcroît d'activité est limitée à trois semaines consécutives maximum pour un même salarié ;
+– la durée de chaque période de surcroît d'activité est limitée à trois semaines consécutives maximum pour un même salarié ;
 
-- il ne peut y voir plus de 4 périodes de surcroît d'activité par an.
+– il ne peut y voir plus de 4 périodes de surcroît d'activité par an.
 
 IV.1.3. Repos quotidien et hebdomadaire
 

@@ -4,12 +4,8 @@ En référence à l'article L. 3111-2 du code du travail, les parties conviennen
 
 Les modalités d'exercice des responsabilités, qui impliquent une grande indépendance dans l'organisation de l'emploi du temps du salarié justifiant le forfait sans référence horaire, doivent être indiquées dans le contrat de travail ou un avenant à celui-ci.
 
-A l'exception des dispositions relatives aux congés payés prévues aux articles L. 3141-1 et suivants du code du travail et au compte épargne temps, aucune disposition légale, réglementaire ou conventionnelle relative à la durée du travail n'est applicable aux salariés dont le contrat de travail prévoit une rémunération selon un forfait sans référence horaire.
+À l'exception des dispositions relatives aux congés payés prévues aux articles L. 3141-1 et suivants du code du travail, au compte épargne temps, aux congés d'articulation entre la vie personnelle et familiale prévus aux articles L. 3142-1 à L. 3142-35 du code du travail, aux congés pour engagement associatif, politique ou militant prévus aux articles L. 3142-36 à L. 3142-104 du code du travail, au congé et à la période de travail à temps partiel pour la création ou la reprise d'entreprise prévus aux articles L. 3142-105 à L. 3142-124 du code du travail, aucune disposition légale, réglementaire ou conventionnelle relative à la durée du travail n'est applicable aux salariés dont le contrat de travail prévoit une rémunération selon un forfait sans référence horaire.
 
 La rémunération doit tenir compte des responsabilités confiées au salarié. Elle ne peut être inférieure au salaire minimum conventionnel correspondant au niveau I de qualification indiqué en annexe du présent titre.
 
 La rémunération forfaitaire mensuelle est indépendante du nombre d'heures de travail effectif accomplies durant la période de paie considérée.
-
-(1) L'article IV.5 est étendu sous réserve du respect des dispositions du 1er alinéa de l'article L. 3111-2, en application desquelles les salariés cadres dirigeants bénéficient également des dispositions relatives aux congés autres que les congés payés, prévues au chapitre 2 du titre IV du livre 1er de la troisième partie du code du travail.
-
-(Arrêté du 27 juillet 2018 - art. 1)
