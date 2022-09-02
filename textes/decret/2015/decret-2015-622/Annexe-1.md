@@ -1,18 +1,18 @@
 # Article Annexe 1
 
-NOM DE LA COMMISSION |
+NOM DE LA COMMISSIONTEXTE |
 
-TEXTE INSTITUTIF |
+INSTITUTIFConseil |
 
-Conseil supérieur de la navigation de plaisance et des sports nautiques. |
+supérieur de la navigation de plaisance et des sports nautiques. |
 
 Décret n° 67-315 du 31 mars 1967 portant création d'un Conseil supérieur de la navigation de plaisance et des sports nautiques. |
 
 Comité consultatif des réseaux d'observations météorologiques. |
 
-Arrêté du 10 février 2010 relatif au comité consultatif des réseaux d'observations météorologiques |
+Arrêté du 10 février 2010 relatif au comité consultatif des réseaux d'observations météorologiquesCommission |
 
-Commission nationale consultative pour la faune sauvage captive (deux formations). |
+nationale consultative pour la faune sauvage captive (deux formations). |
 
 Article R. 413-2 du code de l'environnement. |
 
@@ -64,9 +64,9 @@ Commission centrale des appareils à pression. |
 
 Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression (art. 26).
 
-Arrêté du 31 juillet 2009 relatif à la composition de la Commission centrale des appareils à pression |
+Arrêté du 31 juillet 2009 relatif à la composition de la Commission centrale des appareils à pressionComité |
 
-Comité de coordination des aéroports français. |
+de coordination des aéroports français. |
 
 Arrêté du 28 septembre 2004 créant le comité de coordination des aéroports français. |
 
@@ -138,9 +138,9 @@ Conseils scientifiques des réserves naturelles nationales. |
 
 Article R. 332-18 du code de l'environnement. |
 
-Conseil national de l'information géographique. |
+Conseil national de l'information géolocalisée. |
 
-Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géographique. |
+Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géolocalisée. |
 
 Commission mixte du statut de la RATP. |
 
@@ -173,7 +173,3 @@ Articles D. 1252-1 à D. 1252-7 du code des transports (décret n° 2014-530 du 
 Conseil national de la protection de la nature. |
 
 Articles R. 133-1 et suivants du code de l'environnement. |
-
-NOTA :
-
-Conformément aux dispositions du II de l'article 16 du décret n° 2019-640 du 25 juin 2019, ces dispositions entrent en vigueur au 1er septembre 2019.

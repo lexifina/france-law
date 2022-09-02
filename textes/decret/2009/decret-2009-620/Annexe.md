@@ -1,12 +1,12 @@
 # Article Annexe
 
-Nom de la commission |
+Nom de la commissionTexte |
 
 |
 
-Texte institutif |
+institutifAssemblée |
 
-Assemblée commerciale (pilotage dans les eaux maritimes). |
+commerciale (pilotage dans les eaux maritimes). |
 
 |
 
@@ -360,11 +360,11 @@ Conseil national de l'air. |
 
 Article D. 221-16 du code de l'environnement. |
 
-Conseil national de l'information géographique. |
+Conseil national de l'information géolocalisée. |
 
 |
 
-Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géographique. |
+Décret n° 85-790 du 26 juillet 1985 relatif au rôle et à la composition du Conseil national de l'information géolocalisée. |
 
 Conseil national des déchets. |
 
@@ -425,7 +425,3 @@ Grande commission nautique. |
 |
 
 Décret n° 86-606 du 14 mars 1986 relatif aux commissions nautiques. |
-
-NOTA :
-
-Aux termes de l'article 44 du décret n° 2015-723 du 24 juin 2015, la référence au décret n° 99-439 du 25 mai 1999 est remplacée par la référence au décret n° 2015-723 du 24 juin 2015.
