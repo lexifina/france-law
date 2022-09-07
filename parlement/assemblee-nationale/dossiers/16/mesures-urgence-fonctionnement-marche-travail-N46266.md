@@ -1,0 +1,61 @@
+# Mesures d’urgence relatives au fonctionnement du marché du travail en vue du plein emploi
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46266
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_fonctionnement_marche_travail
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl22-044.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-09-07 : 1er dépôt d'une initiative. (PRJLANR5L16B0219)
+  - 2022-09-07 : Etude d'impact (ETDIANR5L16B0219)
+  - 2022-09-07 : Avis du Conseil d'Etat (AVCEANR5L16B0219)
+  - 2022-09-07 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-09-07 : Renvoi en commission au fond
+      - 2022-09-13 : Nomination de rapporteur
+      - 2022-09-13 : Réunion de commission
+      - 2022-09-26 : Réunion de commission
+      - 2022-09-27 : Réunion de commission
+      - 2022-09-27 : Réunion de commission
+      - 2022-09-28 : Réunion de commission
+      - 2022-10-03 : Réunion de commission
+      - 2022-09-28 : Dépôt de rapport (RAPPANR5L16B0276, PRJLANR5L16BTC0276)
+  - Discussion en séance publique
+    - 2022-10-03 : Discussion en séance publique
+    - 2022-10-04 : Discussion en séance publique
+    - 2022-10-04 : Discussion en séance publique
+    - 2022-10-05 : Discussion en séance publique
+    - 2022-10-05 : Discussion en séance publique
+    - 2022-10-11 : Discussion en séance publique
+    - 2022-10-11 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-10-12 : Dépôt d'une initiative en navette (PRJLSNR5S399B0044)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-10-12 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2022-10-19 : Dépôt de rapport (RAPPSNR5S399B0061, PRJLSNR5S399BTC0062)
+  - Discussion en séance publique
+    - 2022-10-25 : Décision
+- Commission Mixte Paritaire
+  - 2022-10-26 : Dépôt d'un projet de loi (PRJLANR5L16B0382)
+  - 2022-10-26 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2022-11-09 : Nomination de rapporteur
+    - 2022-11-09 : Dépôt du rapport d'une CMP (RAPPANR5L16B0446, PRJLANR5L16BTC0446)
+    - 2022-11-09 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0111, PRJLSNR5S399BTC0112)
+  - Discussion en séance publique
+    - 2022-11-15 : Discussion en séance publique
+    - 2022-11-15 : Décision
+  - Discussion en séance publique
+    - 2022-11-17 : Décision
+  - 2022-11-09 : Décision de la CMP
+- Conseil constitutionnel
+  - 2022-12-18 : Saisine du conseil constitutionnel
+  - 2022-12-15 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2022-12-21 : Promulgation d'une loi
