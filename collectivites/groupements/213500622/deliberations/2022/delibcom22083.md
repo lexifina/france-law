@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM22083 — AVANCE DU BUDGET COMMUNAL AU BUDGET ANNEXE LOTISSEMENT LES COTEAUX III
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2022-09-08
+- Matière : 7.7 Finances locales/Avances
+- Objet : AVANCE DU BUDGET COMMUNAL AU BUDGET ANNEXE LOTISSEMENT LES COTEAUX III
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2022/237031/ec2738243d208908e2f135a628e01a49551a3ad607c236a65be182ea82190f4c.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
