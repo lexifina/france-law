@@ -1,0 +1,9 @@
+# Réponse à la question n° 538
+
+- Question : [538](538.md) — Question n° 538 — Réponses de l'administration aux questions des parlementaires
+
+## Réponse
+
+*JO du 2022-09-13, page 4040*
+
+M. le ministre délégué auprès de la Première ministre, chargé des relations avec le Parlement, partage la préoccupation de M. le député quant au traitement des sollicitations adressées par les parlementaires à l'administration. Les missions de contrôle de l'action du Gouvernement et d'évaluation des politiques publiques confiées au Parlement s'exercent à titre principal dans le cadre des travaux institutionnels des deux assemblées : d'une part, par les commissions, offices et délégations parlementaires, notamment via l'organisation d'auditions, l'envoi de questionnaires, et l'adoption de rapports d'information, et, d'autre part, en séance, en particulier lors des séances de questions et au cours des semaines de contrôle. Les députés et sénateurs peuvent également interroger le Gouvernement via les questions parlementaires, selon les différentes formes prévues par les règlements des assemblées sur le fondement de l'article 48 de la Constitution, en particulier celle des questions écrites. En ce début de XVIe législature, l'ensemble des ministères sont sensibilisés à l'importance d'apporter des réponses de fond et dans les meilleurs délais aux questions écrites des parlementaires. S'agissant des sollicitations adressées directement aux administrations par les députés et sénateurs sous d'autres formes, notamment par voie de courrier, l'ensemble des services de l'Etat doivent y prêter une attention particulière, dans le cadre du dialogue permanent et républicain entre les administrations publiques et les élus. En l'absence de réponse sur un sujet précis, les parlementaires peuvent utilement saisir le ministre dont dépend l'administration concernée, en vue de signaler la difficulté rencontrée.
