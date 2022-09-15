@@ -1,0 +1,10 @@
+# COMMUNE DE KERNILIS : délibération DELISEPT202201 — RENOVATION DE LA SALLE OMNISPORTS PROJET INSTALLATION CENTRALE PHOTOVOLTAIQUE
+
+- Collectivité : COMMUNE DE KERNILIS
+- SIRET : 21290093000018
+- Code INSEE : 29093
+- Date : 2022-09-15
+- Matière : 1.3 Commande Publique/Conventions de Mandat
+- Objet : RENOVATION DE LA SALLE OMNISPORTS PROJET INSTALLATION CENTRALE PHOTOVOLTAIQUE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212900930/Deliberation/2022/239507/fcb7e1489466f464fbdfb92cc1116397418c7797a68accff2f59543111a02d7f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
