@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802295
+
+- Question : [SEQ220802295](seq220802295.md) — Conflit au Yémen
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-09-15, page 4471*
+
+La France est profondément préoccupée par la dégradation de la situation au Yémen. La population yéménite paye un prix exorbitant dans cette guerre qui dure depuis plus de huit ans. La France est pleinement mobilisée en soutien à la population yéménite. Nous avons mobilisé cette année près de 14,5 millions d'euros d'aide humanitaire, ce qui représente une contribution en augmentation pour la troisième année consécutive. La France répond aux besoins exprimés dans le plan de réponse humanitaire des Nations unies, en soutenant notamment l'UNICEF, le Haut commissariat aux réfugiés (HCR), le Bureau conjoint de l'action humanitaire des Nations unies (BCAH) et le Programme alimentaire mondial (PAM). La France plaide, en outre, auprès de toutes les parties au conflit pour qu'elles respectent leurs obligations au titre du droit international humanitaire, en particulier pour qu'un espace humanitaire soit préservé et que la délivrance de l'aide humanitaire ne soit entravée sous aucun prétexte. Seule une solution politique, globale et inclusive permettra de mettre fin au conflit et aux souffrances du peuple yéménite. C'est pourquoi nous entretenons un dialogue constant avec l'ensemble des parties, ainsi qu'avec les États de la région, pour les appeler à s'engager sur la voie d'un règlement politique. C'est le sens des messages que porte la France au Conseil de sécurité des Nations unies. Nous soutenons pleinement l'action de l'Envoyé spécial du Secrétaire général des Nations unies pour le Yémen, M. Hans Grundberg, qui a été reçu au ministère de l'Europe et des affaires étrangères. La France a salué l'annonce d'une trêve de deux mois par ce dernier, le 1er avril 2022, ainsi que ses prolongations, les 2 juin et 2 août derniers.
