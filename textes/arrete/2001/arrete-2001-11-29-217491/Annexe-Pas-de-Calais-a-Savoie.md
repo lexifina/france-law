@@ -474,31 +474,29 @@ C
 
 |
 
-Direction départementale de l'équipement et de l'agriculture (2) de la Sarthe
+Direction départementale des territoires de la Sarthe
 
-FONCTIONS EXERCEES
-
-|
-
-NIVEAU
-
-de qualification de l'emploi
+Fonction exercée
 
 |
 
-NOMBRE
+Niveau de qualification de l'emploi
+
+|
+
+Nombre
 
 d'emplois
 
 |
 
-NOMBRE DE POINTS (IM)
+Nombre de points (IM)
 
 par emploi
 
 |
 
-Responsable de la politique de la ville
+Adjoint au chef du service habitat, ville, construction
 
 |
 
@@ -510,11 +508,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-Animateur de la politique de la ville
+Responsable unité Habitat et rénovations urbaines
 
 |
 
@@ -526,11 +524,11 @@ A
 
 |
 
-50 points
+50
 
 |
 
-Gestionnaire des dossiers ville
+Chargé de dossiers rénovations urbaines
 
 |
 
@@ -538,11 +536,9 @@ B
 
 |
 
-1
+1 |
 
-|
-
-30 points
+30
 
 |
 
@@ -604,4 +600,4 @@ B
 
 NOTA :
 
-Conformément à l'article 1er de l'arrêté du 3 juillet 2022 (NOR : TREK2218415A), la présente annexe est modifiée, à effet du 1er mai 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Rhône.
+Conformément à l'article 1er de l'arrêté du 7 septembre 2022 (NOR : TREK2225687A), la présente annexe est modifiée, à effet du 29 avril 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la Sarthe.
