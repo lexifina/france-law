@@ -1,0 +1,9 @@
+# Réponse à la question n° 219
+
+- Question : [219](219.md) — Question n° 219 — Aide salons et foires - liste établie - Artisanales de Chartres
+
+## Réponse
+
+*JO du 2022-09-20, page 4138*
+
+Par le décret n° 2022-370 du 15 mars 2022, modifié par le décret n° 2022-816 du 16 mai 2022, le Gouvernement a institué une aide visant à favoriser l'attractivité des principaux salons et foires français dans le contexte de la crise de la Covid-19 après près de deux années d'interruption. Ce dispositif vise à accompagner la reprise des principaux salons et foires par le biais d'un soutien aux petites et moyennes entreprises (PME) exposantes et à sensibiliser ces entreprises à l'intérêt des salons et foires pour développer leurs activités. Le décret susmentionné précise les critères d'éligibilité des exposants et des événements pouvant ouvrir le droit à l'aide. Le Gouvernement a choisi de focaliser la mesure sur les événements ayant compté plus de 500 exposants lors de leur dernière édition d'avant crise afin de maximiser l'impact de la mesure pour les bénéficiaires et de concentrer les efforts sur les événements exposés à une forte concurrence internationale et disposant d'un effet d'entraînement important sur l'ensemble de la chaîne de valeur du secteur événementiel. Les données prises en compte pour identifier les évènements pouvant ouvrir droit au versement de l'aide se fondent notamment sur les déclarations préalables des manifestations commerciales prescrites par les articles L. 762-1 et L. 762-2 du code de commerce. Or, le certificat de contrôle des données chiffrées des manifestations commerciales réalisé par la société EXPO'STAT, organisme de certification accrédité par le Comité français d'accréditation (COFRAC) certifie que l'évènement « les artisanales de Chartres » s'étant tenu du 11/10/2019 au 14/10/2019 à Chartres n'atteint pas le seuil requis des 500 exposants. Cet évènement n'était donc pas éligible à cette aide.
