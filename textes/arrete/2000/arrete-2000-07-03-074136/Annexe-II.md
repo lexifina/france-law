@@ -854,6 +854,8 @@ Fonderies et ateliers du Rhône, 45, rue de la Cité, 69425 Lyon : de 1940 à 19
 
 Fours et Brûleurs Rey, 18, rue du Vercors, 42100 Saint-Etienne : de 1943 à 1996 ;
 
+Fumisterie Industrielle DREVET Père et Fils, rue de la Vaure, 42290 Sorbiers : de 1976 à 1990 puis Compagnie Technique des Pétroles (CTP) ZI de la Vaure, rue Berthon 42290 Sorbiers : de 1990 à 1996 ;
+
 Genevet : rue Barthélémy-Thimonier, ZI de Bonrert, 42300 Mably, jusqu'en 1996 ;
 
 Jacquemard/ Luchaire/ Rhonatec/ Isofreins, 4, rue de Dunkerque, 42100 Saint-Etienne : de 1953 à 1992 ;
