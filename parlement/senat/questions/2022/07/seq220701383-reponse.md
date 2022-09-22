@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701383
+
+- Question : [SEQ220701383](seq220701383.md) — Exclusion du tennis sur terre battue du dispositif « 5000 terrains de sport » d'ici 2024
+
+## Réponse
+
+*Sports, jeux Olympiques et Paralympiques, JO du 2022-09-22, page 4589*
+
+Le Programme des Équipements sportifs de Proximité vise à accompagner le développement de 5 000 terrains de sport d'ici 2024. Une enveloppe de 200 M€ sur la période 2022-2024 a ainsi été mise en place pour ce programme, dont le déploiement a été confié à l'Agence nationale du Sport (ANS). À destination des collectivités et des associations à vocation sportive en territoires carencés, ce plan contribue à l'action de l'ANS en matière de correction des inégalités sociales et territoriales. Elle est destinée à financer la création d'équipements sportifs de proximité, la requalification de locaux ou d'équipements existants, l'acquisition d'équipements mobiles, la couverture et/ou l'éclairage d'équipements sportifs de proximité non couverts et/ou non éclairés. Les bénéficiaires des aides de ce plan sont les collectivités territoriales et les associations à vocation sportive. Parmi les équipements éligibles figurent les terrains de tennis mais leur rénovation ne peut faire l'objet d'un financement, l'objectif de ce plan étant d'augmenter le nombre d'équipements de proximité adaptés à l'évolution de la demande. À ce titre, la requalification de terrain de tennis en terrain de padel est un axe privilégié au regard de la forte demande sur cette activité et du besoin identifié par la Fédération française de tennis. En revanche, d'autres enveloppes de crédits de l'ANS, peuvent prendre en charge une partie des travaux de rénovation des équipements sportifs comme les terrains de tennis. Les appels à projets sont lancés chaque année par les directions régionales académiques à la jeunesse, à l'engagement au sport (DRAJES) qui procèdent à leur instruction en vue d'un financement par l'ANS.
