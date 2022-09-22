@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700351
+
+- Question : [SEQ220700351](seq220700351.md) — Garantie de l'État aux emprunts consentis aux établissements d'enseignement français à l'étranger
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-09-22, page 4568*
+
+La commission chargée d'émettre les avis sur l'octroi de la garantie de l'État aux établissements d'enseignement français à l'étranger (dite COGAREFE) s'est d'ores et déjà réunie à deux reprises en 2022, en avril et en juillet. Une autre réunion est prévue au quatrième trimestre 2022, ainsi qu'une nouvelle au premier trimestre 2023. La commission peut se réunir aussi souvent que nécessaire, en fonction du nombre de demandes reçues. À ce jour, la COGAREFE a reçu quatre demandes d'avis sur l'octroi de la garantie de l'État, de la part des lycées d'Arequipa, Erevan, Lima et Sao Paolo. Toutes ont été examinées et ont reçu un avis favorable de la commission. Les arrêtés d'octroi de garantie sont en cours de traitement. Le montant total des prêts ayant reçu un avis favorable de la COGAREFE s'élève à environ 44 millions d'euros (certains prêts sont en devises). La commission est présidée par une personnalité qualifiée désignée par le ministre chargé de l'économie et réunit également les membres suivants : un représentant du ministère chargé de l'économie ; un représentant du ministère chargé du budget, un représentant du ministère des affaires étrangères ; un représentant du ministère chargé de l'éducation. Tous les dossiers déposés font l'objet d'un traitement équitable, garanti par l'Agence pour l'enseignement français à l'étranger (AEFE) qui examine chaque dossier de demande et en fait une évaluation avant de la transmettre au secrétariat de la commission. L'arrêté du 2 avril 2021 prévoit les cas de renégociation d'un prêt faisant l'objet d'une garantie de l'État accordée au titre de l'ancien dispositif.
