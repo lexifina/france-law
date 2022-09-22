@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701815
+
+- Question : [SEQ220701815](seq220701815.md) — Vers une limitation de la concentration du prosulfocarbe dans l'air et un moratoire
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2022-09-22, page 4564*
+
+Le prosulfocarbe est une substance phytopharmaceutique à activité herbicide, approuvée par la Commission européenne depuis 2009. La demande de renouvellement de l'approbation est actuellement en cours d'examen et devrait aboutir à une décision d'ici 12 à 24 mois. À l'heure actuelle, cette substance ne possède pas de classement cancérogène, mutagène ou toxique pour la reproduction. Le prosulfocarbe ne fait pas partie des 32 substances prioritaires identifiées par l'agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (Anses) dans son rapport sur la campagne nationale exploratoire des pesticides dans l'air ambiant, publié en octobre 2020. Le rapport de surveillance 2021 de l'observatoire régional de l'air, Atmo Nouvelle Aquitaine, a été transmis à l'Anses au titre de la phytopharmacovigilance. Dans sa réponse transmise le 22 juillet 2022, l'Anses conclut que l'inhalation d'air ambiant contenant 274 ng/m3 de prosulfocarbe, qui correspond à la plus haute valeur mesurée sur le site de la Plaine d'Aunis en Charente-Maritime, conduit à une exposition correspondant à 1,05 % de la valeur toxicologique de référence du prosulfocarbe. Compte tenu de la faiblesse de ce ratio, l'Anses indique que le signalement ne constitue pas une alerte au titre de la phytopharmacovigilance. Dans la mesure où les sites de prélèvement se situent à une certaine distance des zones d'habitation, le ministère chargé de l'agriculture a demandé à l'Anses de vérifier, d'ici au 30 septembre 2022, que l'exposition des personnes habitant ou travaillant à proximité immédiate des zones traitées ne conduit pas à des risques pour leur santé.
