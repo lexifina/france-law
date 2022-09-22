@@ -76,7 +76,7 @@ C. - Emplois relevant du groupe 1 :
 
 D. - Emplois relevant du groupe 2 :
 
-1° Délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense ;
+1° Conseiller du Gouvernement pour la défense ;
 
 2° Directeur des opérations de la direction générale de la sécurité extérieure ;
 
