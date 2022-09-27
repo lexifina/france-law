@@ -1,0 +1,9 @@
+# Réponse à la question n° 163
+
+- Question : [163](163.md) — Question n° 163 — Différentiel de montant du RSA perçu en Martinique et en France Hexagonale
+
+## Réponse
+
+*JO du 2022-09-27, page 4262*
+
+Aucune différence de traitement n'est opérée entre les départements ultramarins (hors Mayotte) et la France métropolitaine quant au montant forfaitaire du revenu de solidarité active (RSA). A partir des allocations versées au titre des droits du mois d'avril 2022, le montant du RSA est de 575,52 euros dans les territoires ultramarins. Le décret n° 2022-699 du 26 avril 2022 portant revalorisation du montant forfaitaire du RSA spécifie en son article 2 le territoire sur lequel il n'est pas applicable, c'est-à-dire à Mayotte dont le montant du RSA est revalorisé par un décret spécifique. Le montant évoqué de 542,05 euros correspond au montant forfaitaire du revenu de solidarité (RSO), dispositif spécifique à l'Outre-Mer, ouvert sous conditions aux seuls bénéficiaires du RSA. Le RSO a été mis en place pour prendre en compte la situation de l'emploi dans les départements ultramarins et les différents freins spécifiques recensés dans l'accès à l'emploi. L'allocation est instituée par l'article 27 de la loi 2000-1207 du 13 décembre 2000 d'orientation pour l'Outre-mer (art. L. 522.14 du code de l'action sociale et des familles). Ses conditions d'attribution ont été précisées par le décret n° 2001-498 du 11 juin 2001. Les conditions d'accès au RSO sont plus restreintes que celles du RSA : percevoir le RSA depuis au moins deux ans sans avoir exercé d'activité professionnelle, être âgé d'au moins 55 ans, s'engager à quitter définitivement le marché du travail, disposer de ressources inférieures à un certain plafond. L'ouverture pour le bénéficiaire de droits au RSO met fin au droit au RSA, à son accompagnement et aux différents dispositifs afférents sur le volet professionnel et sur le volet social.
