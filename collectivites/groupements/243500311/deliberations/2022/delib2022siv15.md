@@ -1,0 +1,8 @@
+# SIVOM DE BILLE COMBOURTILLE PARCE : délibération DELIB2022SIV15 — DISPOSITIF DYNAMISATION DES CENTRES BOURGS
+
+- Collectivité : SIVOM DE BILLE COMBOURTILLE PARCE
+- SIRET : 24350031100010
+- Date : 2022-09-28
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DISPOSITIF DYNAMISATION DES CENTRES BOURGS
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
