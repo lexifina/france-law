@@ -48,9 +48,7 @@ Aucune |
 
 Audiovisuel / Vidéo |
 
-Définitions des services audiovisuels des articles 1 et 2 de la loi n° 86-1067 du 30 septembre 1986 Code du cinéma et de l'image animée
-
-|
+Définitions des services audiovisuels des articles 1 et 2 de la loi n° 86-1067 du 30 septembre 1986 Code du cinéma et de l'image animée |
 
 Achat d'œuvre ; carte d'abonnement ; carte de réduction et dispositif d'aide culturelle édités par les collectivités territoriales |
 
@@ -104,10 +102,20 @@ Biens matériels ou bons d'achat valables uniquement pour l'achat ou la location
 
 Retrait dans un point de vente |
 
-|
+Culture scientifique technique et industrielle |
 
-|
+Ensemble des activités de médiation et de programmation culturelle ou scientifique visant le partage et la compréhension de la science, de la recherche et de leurs enjeux sociétaux, reposant sur une démarche scientifique et relevant de la culture scientifique, technique et industrielle. Sont exclues les offres relevant du soutien scolaire ou donnant accès à une formation diplômante. |
 
-|
+Evénements :
 
-|
+-Manifestations culturelles (notamment expositions),
+
+-Visites
+
+-Ateliers, activités de pratique scientifique ou culturelle, rencontres et conférences
+
+Cartes d'abonnement
+
+Services numériques |
+
+Groupe |
