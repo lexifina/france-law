@@ -229,3 +229,243 @@ Réorganisation du bureau des douanes de Toulouse Portet suite au transfert de l
 |
 
 Du 1er juillet 2021 au 28 février 2023. |
+
+Opération :
+
+Transfert des missions fiscales vers la direction générale des finances publiques.
+
+Services concernés :
+
+- Direction interrégionale Antilles-Guyane
+
+Degrad d Cannes port bureau
+
+Fort de France port bureau
+
+Guadeloupe pôle comptable recette régionale
+
+Guyane recette régional
+
+La pointe-jarry port bureau
+
+Martinique pôle action économique
+
+Martinique recette régionale
+
+- Direction interrégionale Auvergne-Rhône-Alpes
+
+Grenoble bureau
+
+Lyon énergies inter
+
+Lyon pôle action économique
+
+Lyon recette interrégionale
+
+- Direction interrégionale Bourgogne-Franche-Comté-Centre-Val de Loire
+
+Dijon recette interrégionale
+
+Nevers bureau
+
+Tours bureau
+
+Vesoul bureau
+
+- Direction interrégionale Bretagne-Pays de la Loire
+
+Angers bureau
+
+Brest bureau
+
+Donges raffinerie
+
+La roche sur yon bureau
+
+Le mans bureau
+
+Lorient bureau
+
+Nantes recette interrégionale
+
+Rennes bureau
+
+- Direction Nationale du renseignement et des enquêtes douanières
+
+DNRED recette
+
+- Direction interrégionale du Grand Est
+
+Epinal bureau
+
+Metz recette interrégionale
+
+Mulhouse bureau
+
+Reims bureau
+
+SND2R
+
+Strasbourg énergies Grand Est
+
+Strasbourg pôle action économique
+
+Troyes bureau
+
+- Direction interrégionale des Hauts-de-France
+
+Dunkerque énergies bureau
+
+Dunkerque recette interrégionale
+
+Lesquin bureau
+
+Lille bureau
+
+Lille pôle action économique
+
+- Direction interrégionale d'Ile-de-France
+
+Gennevilliers bureau
+
+Grandpuits raffinerie
+
+Paris recette interrégionale
+
+Rungis bureau
+
+Service national des réglementations particulières
+
+Trappes bureau
+
+Trésorerie générale des douanes
+
+- Direction interrégionale de La Réunion
+
+Le port bureau
+
+Réunion recette régionale
+
+- Direction régionale de Mayotte
+
+Mayotte recette régionale
+
+- Direction interrégionale de Normandie
+
+Caen bureau
+
+Gonfreville raffinerie
+
+Le Havre antifer bureau
+
+Le Havre recette interrégionale
+
+Port Jérôme raffinerie
+
+Rouen Energies
+
+Rouen fiscalités bureau
+
+- Direction interrégionale de Nouvelle-Aquitaine
+
+Bayonne bureau
+
+Bordeaux Bassens port bureau
+
+Bordeaux recette interrégionale
+
+La Rochelle Pallice bureau
+
+Pau bureau
+
+- Direction interrégionale d'Occitanie
+
+Albi bureau
+
+Montauban bureau
+
+Montpellier bureau
+
+Montpellier recette interrégionale
+
+Port la nouvelle crd
+
+Sète bureau
+
+Toulouse portet bureau
+
+- Direction interrégionale de Paris aéroport
+
+Roissy recette interrégionale
+
+- Direction interrégionale Provence-Alpes-Côte d'Azur-Corse
+
+Avignon bureau
+
+Bastia port
+
+BSE port de Bouc
+
+Marseille port bureau
+
+Marseille recette interrégionale
+
+Nice port
+
+Port de Bouc énergies
+
+Toulon la Seyne bureau
+
+|
+
+Du 1er juillet 2022
+
+au 30 juin 2025. |
+
+Opération :
+
+Transfert à la direction des affaires maritimes (DAM) de la mission de francisation du bureau de Papeete-Port.
+
+Service concerné :
+
+Bureau de Papeete-Port. |
+
+Du 1er juillet 2022
+
+au 30 juin 2025. |
+
+Opération :
+
+Fermeture du service unité information passagers (UIP) dans le cadre de la création de l'agence nationale des données de voyages (ANDV).
+
+Service concerné :
+
+Unité information passagers (UIP). |
+
+Du 1er juillet 2022
+
+au 30 juin 2025. |
+
+Opération :
+
+Dé-métropolisation du service grands comptes (SGC) de Montreuil à Aix-en-Provence.
+
+Service concerné :
+
+Service grands comptes (SGC). |
+
+Du 1er juillet 2022
+
+au 29 février 2024. |
+
+Opération :
+
+Transfert de l'équipe maitre-chien (EMC) tabac de la BSI de Toulon à la BSI d'Aix-en-Provence.
+
+Agent concerné :
+
+L'EMC tabac de la BSI de Toulon. |
+
+Du 1er juillet 2022
+
+au 29 février 2024 |
