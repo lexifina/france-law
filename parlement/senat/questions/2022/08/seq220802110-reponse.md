@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802110
+
+- Question : [SEQ220802110](seq220802110.md) — Forfait de participation aux urgences du patient
+
+## Réponse
+
+*Santé et prévention, JO du 2022-09-29, page 4657*
+
+Depuis le 1er janvier 2022, le forfait patient urgences (FPU) s'applique pour les passages au sein des structures des urgences non suivis d'une hospitalisation. Il permet de rendre plus lisible le montant à régler par le patient. La mise en place du FPU n'augmente pas le reste à charge des patients, mais en simplifie les modalités de calcul en prévoyant une participation forfaitaire et non plus un ticket modérateur proportionnel à l'intensité de la prise en charge. En effet, les assurés acquittaient déjà précédemment une participation lors de leurs passages aux urgences. Cette forfaitisation permet notamment une meilleure protection des usagers nécessitant des soins complexes. Le FPU est pris en charge par les complémentaires santé, dont la complémentaire santé solidaire. La question des restes à charge est donc liée à l'accès à une couverture complémentaire, dont seuls 4 % des assurés ne disposent pas. Le Gouvernement est pleinement engagé pour faciliter le recours à des complémentaires santé, notamment la complémentaire santé solidaire destinée aux assurés les plus précaires comme en témoignent les mesures prises dans le cadre de la loi de financement de la sécurité sociale pour 2022. Par ailleurs, la qualité et la sécurité du parcours de soins des patients ne sont pas altérées par la mise en place de ce forfait. L'accès aux urgences est toujours possible pour les patients même s'ils n'ont pas leur carte vitale ou leur pièce d'identité. Le FPU n'est donc pas de nature à provoquer des reports voire des renoncements aux soins. Au contraire, il prémunit notamment les patients les plus modestes de restes à charges supérieurs à 19,61 euros et ce quels que soient les soins reçus.
