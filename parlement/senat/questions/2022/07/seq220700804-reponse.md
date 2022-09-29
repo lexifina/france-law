@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700804
+
+- Question : [SEQ220700804](seq220700804.md) — Impact de la hausse du gazole non routier sur les agriculteurs
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2022-09-29, page 4613*
+
+Le Gouvernement est parfaitement conscient de la charge supplémentaire que représentent pour les agriculteurs les externalités négatives liées notamment au conflit en Ukraine. L'augmentation substantielle des prix de l'énergie en constitue une part importante. C'est pourquoi le Premier ministre a annoncé, dès le 16 mars 2022, un plan de résilience économique et sociale, pour notamment protéger les entreprises. Dans cette optique, afin d'apporter un soutien ciblé à un secteur particulièrement exposé, le Gouvernement a décidé d'avancer la date d'ouverture de la campagne de remboursement partiel d'accises sur l'énergie, de l'année 2022 au titre de 2021, au 1er avril afin de générer pour les professionnels un gain rapide de trésorerie. En complément, le Gouvernement a adopté un décret permettant aux mêmes bénéficiaires de se voir attribuer un acompte exceptionnel à hauteur de 25 % du remboursement normalement octroyé en 2023, au titre des consommations réalisées l'année en cours. Naturellement, les entreprises agricoles bénéficient également de plein droit des mesures exceptionnelles de réduction d'accises sur l'énergie à la pompe, entrées en vigueur au 1er avril 2022 et prolongées jusqu'au 31 décembre 2022. À cet égard, le Gouvernement a par ailleurs décidé, d'élever le montant de cette réduction en la portant de 18 à 30 centimes d'euros par litre du 1er septembre au 31 octobre et de maintenir une aide de 10 centimes d'euros par litre du 1er novembre au 31 décembre. Le Gouvernement est pleinement mobilisé et suit l'évolution de la situation en vue d'adapter, si cela s'avérait nécessaire, les dispositifs d'ores et déjà mis en œuvre.
