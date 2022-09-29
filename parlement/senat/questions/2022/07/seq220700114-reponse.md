@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700114
+
+- Question : [SEQ220700114](seq220700114.md) — Négociations en vue de l'établissement d'une convention bilatérale entre la France et la Malaisie permettant l'échange des permis de conduire
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-09-29, page 4637*
+
+La Malaisie a été retirée, le 26 avril 2019, de la liste des États et autorités dont les permis de conduire nationaux sont susceptibles de faire l'objet d'un échange contre un permis de conduire français, pour défaut de réciprocité au détriment des permis français. La décision d'ouvrir des négociations en vue de la conclusion d'une convention bilatérale d'échange de permis de conduire est conditionnée au respect de critères objectifs de conformité aux standards européens et français, et relève de la compétence de la délégation à la sécurité routière (DSR) du ministère de l'intérieur, après avis du ministère de l'Europe et des affaires étrangères (MEAE). De telles négociations impliquent à la fois que le pays partenaire y trouve un intérêt, ce dont il est difficile de présumer à l'avance, et que l'état de la relation bilatérale le permette. Une fois les négociations entamées, de nombreux allers et retours du projet de texte entre les parties sont nécessaires afin d'aboutir à une rédaction satisfaisante pour tous. Il s'agit donc d'un processus long, dont les délais ne sont pas tous maîtrisés par la partie française, même si l'objectif est de tout mettre en œuvre pour arriver à un aboutissement rapide. Si le MEAE est bien conscient de tout l'intérêt que nos ressortissants portent à l'échange de permis de conduire, aucun contact n'a été initié avec les autorités malaisiennes sur ce sujet, en l'absence d'éléments nouveaux. En tout état de cause, la remise en place d'une pratique d'échange devrait se faire dans le respect des standards français et européens.
