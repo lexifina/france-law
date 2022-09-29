@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701935
+
+- Question : [SEQ220701935](seq220701935.md) — Conditions d'opposition à l'ouverture d'un espace numérique de santé pour les Français établis hors de France
+
+## Réponse
+
+*Santé et prévention, JO du 2022-09-29, page 4657*
+
+Mon espace santé a été conçu pour redonner la main aux citoyens sur leur santé. Chaque citoyen qui dispose d'un profil Mon espace santé peut donc choisir de le clôturer à tout moment. Pour cela il aura besoin d'un code provisoire (reçu par courrier ou email ou qu'il peut redemander proactivement) et de sa carte vitale. Si un Français n'est plus affilié à la sécurité sociale française, son profil Mon espace santé n'a pas été créé par le mécanisme d'opt-out (création automatique sauf opposition, prévue dans la loi la loi n° 2019-774 du 24 juillet 2019 relative à l'organisation et à la transformation du système de santé (OTSS) et la loi n° 2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique). La mise en œuvre de ce mécanisme d'opt-out impliquait une information préalable du citoyen, via une notification d'information transmise par email ou par courrier selon les coordonnées de contact détenues par l'Assurance maladie (sur le compte Ameli de l'usager). Ainsi une personne qui ne serait pas dûment affiliée à un régime d'assurance maladie obligatoire et qui n'aurait pas reçu ce courrier ne verra pas son profil Mon espace santé créé automatiquement. Toutefois, en cas de création erronée d'un profil Mon espace santé, qu'il ait ou non reçu une notification, l'usager doit se tourner vers le service 3422 (ligne dédiée opérée par l'Assurance maladie pour accompagner les usagers pour activer, s'opposer, fermer ou tout simplement comprendre Mon espace santé). Le service 3422 pourra l'accompagner pour exercer son droit d'opposition et/ou clôturer définitivement Mon espace santé.
