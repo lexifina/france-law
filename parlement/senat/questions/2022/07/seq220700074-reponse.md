@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700074
+
+- Question : [SEQ220700074](seq220700074.md) — Exonération du forfait patient urgences
+
+## Réponse
+
+*Santé et prévention, JO du 2022-09-29, page 4656*
+
+Tout d'abord, il paraît important de rappeler qu'il y a toujours eu un reste à charge aux urgences pour les passages non suivis d'hospitalisation, en général facturé après le passage. Depuis le 1er janvier 2022, le forfait patient urgences s'applique pour les passages au sein des structures des urgences non suivis d'une hospitalisation. Il permet de rendre plus lisible le montant à régler par le patient, dès sa sortie du service d'accueil des urgences. Ce montant est pris en charge intégralement par les complémentaires santé, incluant la complémentaire santé solidaire. Il prémunit également les patients les plus modestes de restes à charges supérieurs à 19,61 euros et ce quels que soient les soins reçus. De nombreux cas d'exonération totale ou partielle sont déjà prévus par le décret du 23 février 2022 relatif à la participation des assurés aux frais liés à la contraception et aux frais liés aux passages dans les structures des urgences des établissements de santé. C'est le cas, par exemple, des personnes couvertes par l'assurance maternité, ou encore des bénéficiaires du régime des accidents du travail et maladies professionnelles. Le recours aux urgences ne peut pas constituer une solution pérenne aux carences de l'offre de soins en zones sous-denses. C'est pourquoi le ministère de la santé et de la prévention conduit une action résolue pour améliorer l'accès aux soins partout sur le territoire. Cette action s'inscrit dans un cadre global d'amélioration de l'accès aux soins de proximité, dont le volet Santé du Conseil national de la refondation permettra d'écrire une nouvelle page, en y associant élus, professionnels de santé, usagers et administrations.
