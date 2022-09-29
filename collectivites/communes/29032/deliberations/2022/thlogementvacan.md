@@ -1,0 +1,10 @@
+# COMMUNE DE CLOHARS FOUESNANT : délibération THLOGEMENTVACAN — ASSUJETTISSEMENT DES LOGEMENTS VACANTS A LA TAXE D HABITATION
+
+- Collectivité : COMMUNE DE CLOHARS FOUESNANT
+- SIRET : 21290032800015
+- Code INSEE : 29032
+- Date : 2022-09-29
+- Matière : 7.10 Finances locales/Divers
+- Objet : ASSUJETTISSEMENT DES LOGEMENTS VACANTS A LA TAXE D HABITATION
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/212900328/Deliberation/2022/247490/deea6364a55b6a7bb09509ddd707a0a2564582b0611200e5cf9d3140e166267e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
