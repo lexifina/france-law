@@ -2,21 +2,31 @@
 
 Force armée
 
-ou formation
-
-rattachée |
+ou formation rattachée |
 
 Type d'engagement |
 
-Nombre maximum de primes |
+Nombre
 
-Montant minimum de la prime (€) |
+maximum
+
+de primes |
+
+Montant
+
+minimum
+
+de la prime
+
+(€) |
 
 Montant
 
 maximum
 
-de la prime (€) |
+de la prime
+
+(€) |
 
 Montant
 
@@ -24,7 +34,7 @@ des primes
 
 attribuées
 
-en 2022 (M €) |
+en 2022 |
 
 Montant
 
@@ -34,7 +44,9 @@ attribuées
 
 et versées
 
-en 2022 (M €) |
+en 2022
+
+(M €) |
 
 Familles professionnelles/ filières professionnelles concernées |
 
@@ -68,21 +80,19 @@ Engagement à servir spécifique (ESS) |
 
 Commandement et contrôle aérospatial ; Conduite des aéronefs ; Maintenance des matériels terrestres ; Maintien en condition opérationnelle aéronautique ; Renseignement ; Gestion des ressources humaines ; Systèmes d'information et de communication ; Logistique et chaîne logistique ; Aide à la décision ; Affaires juridiques ; Communication ; Soutien munitions et pyrotechnie ; Restauration Hôtellerie et Loisirs, Opérations en milieu terrestre ; Infrastructures et politiques immobilières, Sécurité secours incendie, Environnement social et sciences humaines, Systèmes de forces, systèmes d'armes et équipement ; Santé et sécurité au travail ; Entrainement physique et sportif ; Finances ; Achats ; Santé ; Administration management transverses ; Musique ; Soutien de l'homme. |
 
-Armée de l'air
-
-et de l'espace |
+Armée de l'air et de l'espace |
 
 ESS |
 
-4 770 |
+4 914 |
 
 600 |
 
 25 000 |
 
-13,74 |
+15,43 |
 
-5,98 |
+7,48 |
 
 Conduite des aéronefs ; Commandement et contrôle aérospatial ; Maintien en condition opérationnelle aéronautique ; Systèmes d'information et de communication ; Renseignement ; Munitions et pyrotechnie ; Opérations en milieu terrestre ; Infrastructures et politique immobilière. ; Sécurité secours incendie ; Gestion des ressources humaines. |
 
@@ -150,7 +160,7 @@ ESG (praticiens officiers) |
 
 Santé :
 
-Profession médicale :
+Profession médicale
 
 -Médecine des forces ;
 
@@ -234,8 +244,4 @@ ESS |
 
 Juridique |
 
-(1) Neurochirurgie, ORL, chirurgies maxillo-faciale et plastique |
-
-NOTA :
-
-Conformément à l’article 3 de l’arrêté du 25 novembre 2021 (NOR : ARMH2132361A), ces dispositions entrent en vigueur le 1er janvier 2022.
+(1) Neurochirurgie, ORL, chirurgies maxillo-faciale et plastique.
