@@ -1,6 +1,6 @@
 # Article Annexe III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ JUDO-JUJITSU ”
+Le tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ performance sportive ” mention “ judo-jujitsu ”
 
 |
 
@@ -34,7 +34,9 @@ Dispense uniquement de l'attestation d'activité d'enseignement |
 
 Titulaire du 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo-jujitsu, kendo et disciplines associées |
 
-X |
+X
+
+Dispense uniquement du test technique |
 
 |
 
@@ -88,13 +90,13 @@ X |
 
 X (1) |
 
-BEES 1 (*) degré option judo-jujitsu et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
+BEES (*) 1er degré option judo-jujitsu et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
 X |
 
 X |
 
-X (1) |
+|
 
 |
 
@@ -103,20 +105,6 @@ X (1) |
 X (1) |
 
 Brevet d'Etat de moniteur de judo, aïkido, karaté et méthodes de combat assimilées option principale judo et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
-
-Dispense uniquement du test pédagogique |
-
-X |
-
-X (1) |
-
-|
-
-|
-
-X (1) |
-
-Certificat fédéral pour l'enseignement bénévole de la Fédération française de judo, jujitsu, kendo et disciplines associées et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
 Dispense uniquement du test pédagogique |
 
@@ -150,13 +138,13 @@ Dispense uniquement du test pédagogique |
 
 X |
 
-X (1) |
-
 |
 
 |
 
-X (1) |
+|
+
+|
 
 Certificat de qualification professionnelle assistant professeur d'arts martiaux (CQP APAM) mention judo-jujitsu et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
@@ -170,9 +158,9 @@ X |
 
 |
 
-X (2) |
+|
 
-Certificat de qualification professionnelle moniteur arts martiaux (CQP MAM) et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
+Certificat de qualification professionnelle moniteur arts martiaux mention ou option judo-jujitsu (CQP MAM) et 2e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
 X |
 
@@ -196,4 +184,6 @@ X |
 
 (1) Et expérience pédagogique de trois cent cinquante heures d'enseignement du judo-jujitsu attestée par le directeur technique national du judo, jujitsu, kendo et disciplines associées.
 
-(2) Et une expérience d'encadrement technique en sécurité du judo-jujitsu d'une durée de trois cents heures au sein d'une association sportive agréée ou au sein d'un établissement d'activités physiques et sportives déclaré, attestée, sur présentation de pièces justificatives, par le directeur régional de la jeunesse, de sports et de la cohésion sociale.
+NOTA :
+
+Conformément à l’article 12 de l’arrêté du 27 juillet 2022 (NOR : SPOV2222340A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er octobre 2022.
