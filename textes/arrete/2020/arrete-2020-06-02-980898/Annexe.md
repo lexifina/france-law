@@ -2,7770 +2,4052 @@
 
 DCCRS : 85 postes
 
-DEPT
+DEPT |
 
-|
-
-AFFECTATIONS
-
-|
-
-FONCTIONS
-
-|
-
-SGAMI ZDS de Paris
-
-|
-
-13
-
-|
-
-75
-
-|
-
-DZCRS Paris/ Délégation CRS Agglomération Parisienne (Paris)
-
-|
-
-Adjoint au chef de délégation
-
-|
-
-77
-
-|
-
-DZCRS Paris/ CRS Autoroutière Est Ile-de-France (Lagny-sur-Marne)
-
-|
-
-Commandant de compagnie
-
-|
-
-77
-
-|
-
-DZCRS Paris/ CRS 04 Lagny
-
-|
-
-Commandant de compagnie
-
-|
-
-78
-
-|
-
-DZCRS Paris/ CRS 01 Vélizy
-
-|
-
-Commandant de compagnie
-
-|
-
-78
-
-|
-
-DZCRS Paris/ CRS 61 Vélizy
-
-|
-
-Commandant de compagnie
-
-|
-
-91
-
-|
-
-DZCRS Paris/ CRS Autoroutière Sud Ile-de-France (Massy)
-
-|
-
-Commandant de compagnie
-
-|
-
-91
-
-|
-
-DZCRS Paris/ CRS 03 Quincy-sous-Sénart
-
-|
-
-Commandant de compagnie
-
-|
-
-91
-
-|
-
-DZCRS Paris/ CRS 05 Massy
-
-|
-
-Commandant de compagnie
-
-|
-
-91
-
-|
-
-DZCRS Paris/ CRS 08 Bièvres
-
-|
-
-Commandant de compagnie
-
-|
-
-92
-
-|
-
-DZCRS Paris/ CRS Autoroutière Ouest Ile-de-France (Vaucresson)
-
-|
-
-Commandant de compagnie
-
-|
-
-92
-
-|
-
-DZCRS Paris/ CRS 02 Vaucresson
-
-|
-
-Commandant de compagnie
-
-|
-
-95
-
-|
-
-DZCRS Paris/ CRS Autoroutière Nord Ile-de-France (Deuil-la-Barre)
-
-|
-
-Commandant de compagnie
-
-|
-
-95
-
-|
-
-DZCRS Paris/ CRS 07 Deuil-La-Barre
-
-|
-
-Commandant de compagnie
-
-|
-
-SGAMI de Bordeaux
-
-|
-
-10
-
-|
-
-17
-
-|
-
-DZCRS Sud-ouest/ CRS 19 La Rochelle
-
-|
-
-Commandant de compagnie
-
-|
-
-24
-
-|
-
-DZCRS Sud-ouest/ CRS 17 Bergerac
-
-|
-
-Commandant de compagnie
-
-|
-
-24
-
-|
-
-DZCRS Sud-ouest/ CRS 22 Périgueux
-
-|
-
-Commandant de compagnie
-
-|
-
-33
-
-|
-
-DZCRS Sud-ouest/ CRS 14 Bordeaux
-
-|
-
-Commandant de compagnie
-
-|
-
-33
-
-|
-
-DZCRS Sud-ouest/ CRS Autoroutière Aquitaine Bordeaux (Cenon)
-
-|
-
-Commandant de compagnie
-
-|
-
-33
-
-|
-
-DZCRS Sud-Ouest/ UMZ CRS Sud-ouest Bordeaux (Cenon)
-
-|
-
-Commandant d'unité
-
-|
-
-47
-
-|
-
-DZCRS Sud-ouest/ CRS 24 Agen (Bon-Encontre)
-
-|
-
-Commandant de compagnie
-
-|
-
-64
-
-|
-
-DZCRS Sud-ouest/ CRS 25 Pau
-
-|
-
-Commandant de compagnie
-
-|
-
-86
-
-|
-
-DZCRS Sud-ouest/ CRS 18 Poitiers
-
-|
-
-Commandant de compagnie
-
-|
-
-87
-
-|
-
-DZCRS Sud-ouest/ CRS 20 Limoges
-
-|
-
-Commandant de compagnie
-
-|
-
-SGAMI de Lille
-
-|
-
-7
-
-|
-
-2
-
-|
-
-DZCRS Nord/ CRS 21 Saint-Quentin
-
-|
-
-Commandant de compagnie
-
-|
-
-59
-
-|
-
-DZCRS Nord/ CRS Autoroutière Nord-Pas-de-Calais Lille (Lambersart)
-
-|
-
-Commandant de compagnie
-
-|
-
-59
-
-|
-
-DZCRS Nord/ CRS 11 Lille (Lambersart)
-
-|
-
-Commandant de compagnie
-
-|
-
-59
-
-|
-
-DZCRS Nord/ CRS 12 Lille (Lambersart)
-
-|
-
-Commandant de compagnie
-
-|
-
-59
-
-|
-
-DZCRS Nord/ UMZ CRS Nord Lambersart
-
-|
-
-Commandant d'unité
-
-|
-
-62
-
-|
-
-DZCRS Nord/ CRS 15 Béthune
-
-|
-
-Commandant de compagnie
-
-|
-
-62
-
-|
-
-DZCRS Nord/ CRS 16 Saint-Omer
-
-|
-
-Commandant de compagnie
-
-|
-
-SGAMI de Lyon
-
-|
-
-12
-
-|
-
-26
-
-|
-
-DZCRS Sud-est/ CRS 49 Montélimar
-
-|
-
-Commandant de compagnie
-
-|
-
-38
-
-|
-
-DZCRS Sud-est/ CRS 47 Grenoble
-
-|
-
-Commandant de compagnie
-
-|
-
-38
-
-|
-
-DZCRS Sud-est/ CRS Montagnes Alpes (Grenoble)
-
-|
-
-Commandant de compagnie
-
-|
-
-42
-
-|
-
-DZCRS Sud-est/ CRS 34 Roanne
-
-|
-
-Commandant de compagnie
-
-|
-
-42
-
-|
-
-DZCRS Sud-est/ CRS 50 Saint-Etienne (La Talaudière)
-
-|
-
-Commandant de compagnie
-
-|
-
-63
-
-|
-
-DZCRS Sud-est/ CRS 48 Châtel-Guyon
-
-|
-
-Commandant de compagnie
-
-|
-
-69
-
-|
-
-DZCRS Sud-est/ Centre de formation Sainte-Foy-lès-Lyon
-
-|
-
-Chef de centre
-
-|
-
-69
-
-|
-
-DZCRS Sud-est/ CRS 45 Lyon (Chassieu)
-
-|
-
-Commandant de compagnie
-
-|
-
-69
-
-|
-
-DZCRS Sud-est/ CRS 46 Lyon (Sainte-Foy-lès-Lyon)
-
-|
-
-Commandant de compagnie
-
-|
-
-69
-
-|
-
-DZCRS Sud-est/ CRS autoroutière Rhône-Alpes-Auvergne (Lyon)
-
-|
-
-Commandant de compagnie
-
-|
-
-69
-
-|
-
-DZCRS Sud-est/ UMZ CRS Sud-est Sainte-Foy-lès-Lyon
-
-|
-
-Commandant d'unité
-
-|
-
-74
-
-|
-
-DZCRS Sud-est/ CNEAS Chamonix
-
-|
-
-Commandant de compagnie
-
-|
-
-SGAMI de Marseille
-
-|
-
-18
-
-|
-
-6
-
-|
-
-DZCRS Sud/ CRS 06 Nice (Saint-Laurent-du-Var)
-
-|
-
-Commandant de compagnie
-
-|
-
-11
-
-|
-
-DZCRS Sud/ CRS 57 Carcassonne
-
-|
-
-Commandant de compagnie
-
-|
-
-13
-
-|
-
-DZCRS Sud/ CRS Autoroutière Provence (Marseille)
-
-|
-
-Commandant de compagnie
-
-|
-
-13
-
-|
-
-DZCRS Sud/ UMZ CRS sud Marseille
-
-|
-
-Commandant d'unité
-
-|
-
-13
-
-|
-
-DZCRS Sud/ CRS 53 Marseille
-
-|
-
-Commandant de compagnie
-
-|
-
-13
-
-|
-
-DZCRS Sud/ CRS 54 Marseille
-
-|
-
-Commandant de compagnie
-
-|
-
-13
-
-|
-
-DZCRS Sud/ CRS 55 Marseille
-
-|
-
-Commandant de compagnie
-
-|
-
-2A
-
-|
-
-DZCRS Sud/ Délégation CRS Corse (Ajaccio)
-
-|
-
-Adjoint au chef de délégation
-
-|
-
-31
-
-|
-
-DZCRS Sud/ CRS 26 Toulouse
-
-|
-
-Commandant de compagnie
-
-|
-
-31
-
-|
-
-DZCRS Sud/ CRS 27 Toulouse
-
-|
-
-Commandant de compagnie
-
-|
-
-33
-
-|
-
-DZCRS Sud/ Centre de formation Toulouse
-
-|
-
-Chef de centre
-
-|
-
-34
-
-|
-
-DZCRS Sud/ CRS 56 Montpellier
-
-|
-
-Commandant de compagnie
-
-|
-
-65
-
-|
-
-DZCRS Sud/ CRS Montagnes Pyrénées (Lannemezan)
-
-|
-
-Commandant de compagnie
-
-|
-
-65
-
-|
-
-DZCRS Sud/ CRS 29 Lannemezan
-
-|
-
-Commandant de compagnie
-
-|
-
-66
-
-|
-
-DZCRS Sud/ CRS 58 Perpignan
-
-|
-
-Commandant de compagnie
-
-|
-
-82
-
-|
-
-DZCRS Sud/ CRS 28 Montauban
-
-|
-
-Commandant de compagnie
-
-|
-
-83
-
-|
-
-DZCRS Sud/ CRS 59 Ollioules (Toulon)
-
-|
-
-Commandant de compagnie
-
-|
-
-84
-
-|
-
-DZCRS Sud/ CRS 60 Avignon (Montfavet)
-
-|
-
-Commandant de compagnie
-
-|
-
-SGAMI de Metz
-
-|
-
-14
-
-|
-
-8
-
-|
-
-DZCRS Est/ CRS 23 Charleville-Mézières
-
-|
-
-Commandant de compagnie
-
-|
-
-10
-
-|
-
-DZCRS Est/ CRS 35 Troyes
-
-|
-
-Commandant de compagnie
-
-|
+AFFECTATIONS |
 
-21
+FONCTIONS |
 
-|
-
-DZCRS Est/ CRS 40 Dijon (Plombières-lès-Dijon)
-
-|
-
-Commandant de compagnie
-
-|
-
-21
-
-|
-
-DZCRS Est/ Centre de Formation (Dijon)
-
-|
-
-Chef de Centre
-
-|
-
-51
-
-|
-
-DZCRS Est/ CRS 33 Reims
-
-|
-
-Commandant de compagnie
-
-|
-
-54
-
-|
-
-DZCRS Est/ CRS 39 Nancy (Jarville)
-
-|
-
-Commandant de compagnie
+SGAMI ZDS de Paris |
 
-|
-
-57
-
-|
+13 |
 
-DZCRS Est/ CRS 30 Châtel-Saint-Germain
+75 |
 
-|
+DZCRS Paris/ Délégation CRS Agglomération Parisienne (Paris) |
 
-Commandant de compagnie
+Adjoint au chef de délégation |
 
-|
+77 |
 
-57
+DZCRS Paris/ CRS Autoroutière Est Ile-de-France (Lagny-sur-Marne) |
 
-|
+Commandant de compagnie |
 
-DZCRS Est/ CRS 36 Châtel-Saint-Germain
+77 |
 
-|
+DZCRS Paris/ CRS 04 Lagny |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+78 |
 
-57
+DZCRS Paris/ CRS 01 Vélizy |
 
-|
+Commandant de compagnie |
 
-DZCRS Est/ CRS Autoroutière Lorraine-Alsace (Châtel-Saint-Germain)
+78 |
 
-|
+DZCRS Paris/ CRS 61 Vélizy |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+91 |
 
-57
+DZCRS Paris/ CRS Autoroutière Sud Ile-de-France (Massy) |
 
-|
+Commandant de compagnie |
 
-DZCRS Est/ UMZ CRS Est Châtel-Saint-Germain
+91 |
 
-|
+DZCRS Paris/ CRS 03 Quincy-sous-Sénart |
 
-Commandant d'unité
+Commandant de compagnie |
 
-|
+91 |
 
-67
+DZCRS Paris/ CRS 05 Massy |
 
-|
+Commandant de compagnie |
 
-DZCRS Est/ CRS 37 Strasbourg
+91 |
 
-|
+DZCRS Paris/ CRS 08 Bièvres |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+92 |
 
-68
+DZCRS Paris/ CRS Autoroutière Ouest Ile-de-France (Vaucresson) |
 
-|
+Commandant de compagnie |
 
-DZCRS Est/ CRS 38 Mulhouse (Illzach-Modenheim)
+92 |
 
-|
+DZCRS Paris/ CRS 02 Vaucresson |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+95 |
 
-71
+DZCRS Paris/ CRS Autoroutière Nord Ile-de-France (Deuil-la-Barre) |
 
-|
+Commandant de compagnie |
 
-DZCRS Est/ CRS 43 Chalon-sur-Saône
+95 |
 
-|
+DZCRS Paris/ CRS 07 Deuil-La-Barre |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+SGAMI de Bordeaux |
 
-89
+10 |
 
-|
+17 |
 
-DZCRS Est/ CRS 44 Joigny
+DZCRS Sud-ouest/ CRS 19 La Rochelle |
 
-|
+Commandant de compagnie |
 
-Commandant de compagnie
+24 |
 
-|
+DZCRS Sud-ouest/ CRS 17 Bergerac |
 
-SGAMI de Rennes
+Commandant de compagnie |
 
-|
+24 |
 
-11
+DZCRS Sud-ouest/ CRS 22 Périgueux |
 
-|
+Commandant de compagnie |
 
-18
+33 |
 
-|
+DZCRS Sud-ouest/ CRS 14 Bordeaux |
 
-DZCRS Ouest/ CRS 52 Sancerre
+Commandant de compagnie |
 
-|
+33 |
 
-Commandant de compagnie
+DZCRS Sud-ouest/ CRS Autoroutière Aquitaine Bordeaux (Cenon) |
 
-|
+Commandant de compagnie |
 
-22
+33 |
 
-|
+DZCRS Sud-Ouest/ UMZ CRS Sud-ouest Bordeaux (Cenon) |
 
-DZCRS Ouest/ CRS 13 Saint-Brieuc
+Commandant d'unité |
 
-|
+47 |
 
-Commandant de compagnie
+DZCRS Sud-ouest/ CRS 24 Agen (Bon-Encontre) |
 
-|
+Commandant de compagnie |
 
-35
+64 |
 
-|
+DZCRS Sud-ouest/ CRS 25 Pau |
 
-DZCRS Ouest/ Centre de formation Rennes
+Commandant de compagnie |
 
-|
+86 |
 
-Chef de centre
+DZCRS Sud-ouest/ CRS 18 Poitiers |
 
-|
+Commandant de compagnie |
 
-35
+87 |
 
-|
+DZCRS Sud-ouest/ CRS 20 Limoges |
 
-DZCRS Ouest/ CRS 09 Rennes (St-Jacques-de-la-Lande)
+Commandant de compagnie |
 
-|
+SGAMI de Lille |
 
-Commandant de compagnie
+7 |
 
-|
+2 |
 
-35
+DZCRS Nord/ CRS 21 Saint-Quentin |
 
-|
+Commandant de compagnie |
 
-DZCRS Ouest/ UMZ CRS Ouest Rennes
+59 |
 
-|
+DZCRS Nord/ CRS Autoroutière Nord-Pas-de-Calais Lille (Lambersart) |
 
-Commandant d'unité
+Commandant de compagnie |
 
-|
+59 |
 
-37
+DZCRS Nord/ CRS 11 Lille (Lambersart) |
 
-|
+Commandant de compagnie |
 
-DZCRS Ouest/ CRS 41 Tours (Saint-Cyr-sur-Loire)
+59 |
 
-|
+DZCRS Nord/ CRS 12 Lille (Lambersart) |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+59 |
 
-44
+DZCRS Nord/ UMZ CRS Nord Lambersart |
 
-|
+Commandant d'unité |
 
-DZCRS Ouest/ CRS 42 Nantes (Saint-Herblain)
+62 |
 
-|
+DZCRS Nord/ CRS 15 Béthune |
 
-Commandant de compagnie
+Commandant de compagnie |
 
-|
+62 |
 
-45
+DZCRS Nord/ CRS 16 Saint-Omer |
 
-|
+Commandant de compagnie |
 
-DZCRS Ouest/ CRS 51 Orléans (Saran)
+SGAMI de Lyon |
 
-|
+12 |
 
-Commandant de compagnie
+26 |
 
-|
+DZCRS Sud-est/ CRS 49 Montélimar |
 
-72
+Commandant de compagnie |
 
-|
+38 |
 
-DZCRS Ouest/ CRS 10 Le Mans
+DZCRS Sud-est/ CRS 47 Grenoble |
 
-|
+Commandant de compagnie |
 
-Commandant de compagnie
+38 |
 
-|
+DZCRS Sud-est/ CRS Montagnes Alpes (Grenoble) |
 
-76
+Commandant de compagnie |
 
-|
+42 |
 
-DZCRS Ouest/ CRS 31 Rouen (Darnetal)
+DZCRS Sud-est/ CRS 34 Roanne |
 
-|
+Commandant de compagnie |
 
-Commandant de compagnie
+42 |
 
-|
+DZCRS Sud-est/ CRS 50 Saint-Etienne (La Talaudière) |
 
-76
+Commandant de compagnie |
 
-|
+63 |
 
-DZCRS Ouest/ CRS 32 Le Havre (Saint Adresse)
+DZCRS Sud-est/ CRS 48 Châtel-Guyon |
 
-|
+Commandant de compagnie |
 
-Commandant de compagnie
+69 |
 
-|
+DZCRS Sud-est/ Centre de formation Sainte-Foy-lès-Lyon |
 
-DCPAF : 48 postes
+Chef de centre |
 
-DEPT
+69 |
 
-|
+DZCRS Sud-est/ CRS 45 Lyon (Chassieu) |
 
-AFFECTATION
+Commandant de compagnie |
 
-|
+69 |
 
-FONCTIONS
+DZCRS Sud-est/ CRS 46 Lyon (Sainte-Foy-lès-Lyon) |
 
-|
+Commandant de compagnie |
 
-Services Centraux
+69 |
 
-|
+DZCRS Sud-est/ CRS autoroutière Rhône-Alpes-Auvergne (Lyon) |
 
-4
+Commandant de compagnie |
 
-|
+69 |
 
-75
+DZCRS Sud-est/ UMZ CRS Sud-est Sainte-Foy-lès-Lyon |
 
-|
+Commandant d'unité |
 
-DCPAF rés. Paris
+74 |
 
-|
+DZCRS Sud-est/ CNEAS Chamonix |
 
-Chef des unités opérationnelles de l'état-major, adjoint au chef d'état-major de la DCPAF
+Commandant de compagnie |
 
-|
+SGAMI de Marseille |
 
-75
+18 |
 
-|
+6 |
 
-DCPAF rés. Paris
+DZCRS Sud/ CRS 06 Nice (Saint-Laurent-du-Var) |
 
-|
+Commandant de compagnie |
 
-Responsable de la division du budget et des moyens opérationnels
+11 |
 
-|
+DZCRS Sud/ CRS 57 Carcassonne |
 
-75
+Commandant de compagnie |
 
-|
+13 |
 
-DCPAF rés. Lognes
+DZCRS Sud/ CRS Autoroutière Provence (Marseille) |
 
-|
+Commandant de compagnie |
 
-Responsable de la division formation
+13 |
 
-|
+DZCRS Sud/ UMZ CRS sud Marseille |
 
-75
+Commandant d'unité |
 
-|
+13 |
 
-DCPAF rés. Roissy
+DZCRS Sud/ CRS 53 Marseille |
 
-|
+Commandant de compagnie |
 
-Chef unité nationale escorte, de soutien & intervention (unesi)
+13 |
 
-|
+DZCRS Sud/ CRS 54 Marseille |
 
-SGAMI ZDS de Paris
+Commandant de compagnie |
 
-|
+13 |
 
-6
+DZCRS Sud/ CRS 55 Marseille |
 
-|
+Commandant de compagnie |
 
-77
+2A |
 
-|
+DZCRS Sud/ Délégation CRS Corse (Ajaccio) |
 
-DIDPAF Le Mesnil-Amelot rés. Le Mesnil-Amelot
+Adjoint au chef de délégation |
 
-|
+31 |
 
-Chef de Centre de Rétention Administrative (Le Mesnil-Amelot n° 3)
+DZCRS Sud/ CRS 26 Toulouse |
 
-|
+Commandant de compagnie |
 
-77
+31 |
 
-|
+DZCRS Sud/ CRS 27 Toulouse |
 
-DIDPAF Le Mesnil-Amelot rés. Le Mesnil-Amelot
+Commandant de compagnie |
 
-|
+31 |
 
-Chef de Centre de Rétention Administrative (Le Mesnil-Amelot n° 2)
+DZCRS Sud/ Centre de formation Toulouse |
 
-|
+Chef de centre |
 
-78
+34 |
 
-|
+DZCRS Sud/ CRS 56 Montpellier |
 
-DIDPAF Le Mesnil-Amelot rés. Saint-Cyr-l'Ecole
+Commandant de compagnie |
 
-|
+65 |
 
-Directeur interdépartemental adjoint-Chef SPAF des Yvelines et Chef de Centre de Rétention Administrative (Plaisir)
+DZCRS Sud/ CRS Montagnes Pyrénées (Lannemezan) |
 
-|
+Commandant de compagnie |
 
-91
+65 |
 
-|
+DZCRS Sud/ CRS 29 Lannemezan |
 
-DIDPAF Le Mesnil-Amelot rés. Evry
+Commandant de compagnie |
 
-|
+66 |
 
-Directeur interdépartemental adjoint-Chef de Centre de Rétention Administrative (Palaiseau)
+DZCRS Sud/ CRS 58 Perpignan |
 
-|
+Commandant de compagnie |
 
-95
+82 |
 
-|
+DZCRS Sud/ CRS 28 Montauban |
 
-DCPAF/ DAP/ Aérodrome de Paris Charles de Gaulle et du Bourget en résidence à Roissy
+Commandant de compagnie |
 
-|
+83 |
 
-Chef du GASAI et de la ZAPI
+DZCRS Sud/ CRS 59 Ollioules (Toulon) |
 
-|
+Commandant de compagnie |
 
-95
+84 |
 
-|
+DZCRS Sud/ CRS 60 Avignon (Montfavet) |
 
-DIDPAF Le Mesnil-Amelot rés. Cergy-Pontoise
+Commandant de compagnie |
 
-|
+SGAMI de Metz |
 
-Directeur interdépartemental adjoint-Chef SPAF du Val d'Oise
+14 |
 
-|
+8 |
 
-|
+DZCRS Est/ CRS 23 Charleville-Mézières |
 
-SGAMI de Lille
+Commandant de compagnie |
 
-|
+10 |
 
-5
+DZCRS Est/ CRS 35 Troyes |
 
-|
+Commandant de compagnie |
 
-59
+21 |
 
-|
+DZCRS Est/ CRS 40 Dijon (Plombières-lès-Dijon) |
 
-DZPAF Nord rés. Lille
+Commandant de compagnie |
 
-|
+21 |
 
-Chef de Centre de Rétention Administrative (Lille-Lesquin)
+DZCRS Est/ Centre de Formation (Dijon) |
 
-|
+Chef de Centre |
 
-60
+51 |
 
-|
+DZCRS Est/ CRS 33 Reims |
 
-DZPAF Nord/ DDPAF60 rés. Beauvais
+Commandant de compagnie |
 
-|
+54 |
 
-Directeur départemental
+DZCRS Est/ CRS 39 Nancy (Jarville) |
 
-|
+Commandant de compagnie |
 
-62
+57 |
 
-|
+DZCRS Est/ CRS 30 Châtel-Saint-Germain |
 
-DZPAF Nord/ DIDPAF Calais rés. Calais
+Commandant de compagnie |
 
-|
+57 |
 
-Chef des services chargés du contrôle de l'immigration irrégulière
+DZCRS Est/ CRS 36 Châtel-Saint-Germain |
 
-|
+Commandant de compagnie |
 
-62
+57 |
 
-|
+DZCRS Est/ CRS Autoroutière Lorraine-Alsace (Châtel-Saint-Germain) |
 
-DZPAF Nord/ DIDPAF Calais rés. Calais
+Commandant de compagnie |
 
-|
+57 |
 
-Chef de Centre de Rétention Administrative (Coquelles)
+DZCRS Est/ UMZ CRS Est Châtel-Saint-Germain |
 
-|
+Commandant d'unité |
 
-62
+67 |
 
-|
+DZCRS Est/ CRS 37 Strasbourg |
 
-DZPAF Nord/ DIDPAF Calais rés. Calais
+Commandant de compagnie |
 
-|
+68 |
 
-Chef du service chargé du contrôle transfrontière
+DZCRS Est/ CRS 38 Mulhouse (Illzach-Modenheim) |
 
-|
+Commandant de compagnie |
 
-SGAMI de Lyon
+71 |
 
-|
+DZCRS Est/ CRS 43 Chalon-sur-Saône |
 
-4
+Commandant de compagnie |
 
-|
+89 |
 
-1
+DZCRS Est/ CRS 44 Joigny |
 
-|
+Commandant de compagnie |
 
-DZPAF Sud-est/ DIDPAF Prévessin-Moëns rés. Prévessin-Moëns
+SGAMI de Rennes |
 
-|
+11 |
 
-Directeur interdépartemental
+18 |
 
-|
+DZCRS Ouest/ CRS 52 Sancerre |
 
-63
+Commandant de compagnie |
 
-|
+22 |
 
-DZPAF Sud-est/ DIDPAF Clermont-Ferrand rés. Clermont-Ferrand
+DZCRS Ouest/ CRS 13 Saint-Brieuc |
 
-|
+Commandant de compagnie |
 
-Directeur interdépartemental
+35 |
 
-|
+DZCRS Ouest/ Centre de formation Rennes |
 
-69
+Chef de centre |
 
-|
+35 |
 
-DZPAF Sud-est rés. Lyon
+DZCRS Ouest/ CRS 09 Rennes (St-Jacques-de-la-Lande) |
 
-|
+Commandant de compagnie |
 
-Chef de Centre de Rétention Administrative (Lyon-Saint-Exupéry)
+35 |
 
-|
+DZCRS Ouest/ UMZ CRS Ouest Rennes |
 
-74
+Commandant d'unité |
 
-|
+37 |
 
-DZPAF Sud-est/ DIDPAF Annemasse rés. Prévessin
+DZCRS Ouest/ CRS 41 Tours (Saint-Cyr-sur-Loire) |
 
-|
+Commandant de compagnie |
 
-Directeur interdépartemental adjoint-Chef SPAFT Prévessin
+44 |
 
-|
+DZCRS Ouest/ CRS 42 Nantes (Saint-Herblain) |
 
-SGAMI de Marseille
+Commandant de compagnie |
 
-|
+45 |
 
-14
+DZCRS Ouest/ CRS 51 Orléans (Saran) |
 
-|
+Commandant de compagnie |
 
-5
+72 |
 
-|
+DZCRS Ouest/ CRS 10 Le Mans |
 
-DZPAF Sud/ DIDPAF Montgenèvre résidence à Montgenèvre
+Commandant de compagnie |
 
-|
+76 |
 
-Directeur interdépartemental
+DZCRS Ouest/ CRS 31 Rouen (Darnetal) |
 
-|
+Commandant de compagnie |
 
-6
+76 |
 
-|
+DZCRS Ouest/ CRS 32 Le Havre (Saint Adresse) |
 
-DZPAF SUD/ DDPAF06 résidence à Nice
+Commandant de compagnie |
 
-|
+DCPAF : 52 postes
 
-Chef du Centre de Rétention Administrative (CRA)
+DEPT |
 
-|
+AFFECTATION |
 
-11
+FONCTIONS |
 
-|
+Services Centraux |
 
-DZPAF Sud/ DIDPAF Perpignan résidence à Port-la-Nouvelle
+4 |
 
-|
+75 |
 
-Directeur interdépartemental adjoint-Chef SPAFT Port-la-Nouvelle
+DCPAF rés. Paris |
 
-|
+Chef des unités opérationnelles de l'état-major, adjoint au chef d'état-major de la DCPAF |
 
-13
+75 |
 
-|
+DCPAF rés. Paris |
 
-DZPAF Sud rés. Marseille
+Responsable de la division du budget et des moyens opérationnels |
 
-|
+75 |
 
-Chef de Centre de Rétention Administrative Marseille (Le Canet)
+DCPAF rés. Lognes |
 
-|
+Responsable de la division formation |
 
-2B
+75 |
 
-|
+DCPAF rés. Roissy |
 
-DZPAF Sud/ DIDPAF Ajaccio rés. Bastia
+Chef unité nationale escorte, de soutien & intervention (unesi) |
 
-|
+SGAMI ZDS de Paris |
 
-Directeur interdépartemental adjoint-Chef SPAF de Haute-Corse
+6 |
 
-|
+77 |
 
-30
+DIDPAF Le Mesnil-Amelot rés. Le Mesnil-Amelot |
 
-|
+Chef de Centre de Rétention Administrative (Le Mesnil-Amelot n° 3) |
 
-DZPAF Sud/ DIDPAF Montpellier rés. Nîmes
+77 |
 
-|
+DIDPAF Le Mesnil-Amelot rés. Le Mesnil-Amelot |
 
-Directeur interdépartemental adjoint-Chef SPAF du Gard
+Chef de Centre de Rétention Administrative (Le Mesnil-Amelot n° 2) |
 
-|
+78 |
 
-30
+DIDPAF Le Mesnil-Amelot rés. Saint-Cyr-l'Ecole |
 
-|
+Directeur interdépartemental adjoint-Chef SPAF des Yvelines et Chef de Centre de Rétention Administrative (Plaisir) |
 
-DZPAF Sud/ DIDPAF Montpellier rés. Nîmes
+91 |
 
-|
+DIDPAF Le Mesnil-Amelot rés. Evry |
 
-Chef de Centre de Rétention Administrative (Nîmes)
+Directeur interdépartemental adjoint-Chef de Centre de Rétention Administrative (Palaiseau) |
 
-|
+95 |
 
-31
+DCPAF/ DAP/ Aérodrome de Paris Charles de Gaulle et du Bourget en résidence à Roissy |
 
-|
+Chef du GASAI et de la ZAPI |
 
-DZPAF Sud/ DIDPAF Toulouse rés. Toulouse
+95 |
 
-|
+DIDPAF Le Mesnil-Amelot rés. Cergy-Pontoise |
 
-Adjoint directeur interdépartemental
+Directeur interdépartemental adjoint-Chef SPAF du Val d'Oise |
 
 |
 
-31
+SGAMI de Lille |
 
-|
+6 |
 
-DZPAF Sud/ DIDPAF Toulouse rés. Toulouse
+59 |
 
-|
+DZPAF Nord rés. Lille |
 
-Chef SPAFA Toulouse
+Chef de Centre de Rétention Administrative (Lille-Lesquin) |
 
-|
+60 |
 
-31
+DZPAF Nord/ DDPAF60 rés. Beauvais |
 
-|
+Adjoint directeur départemental-Chef SPAFA Beauvais |
 
-DZPAF Sud/ DIDPAF Toulouse rés. Toulouse
+60 |
 
-|
+DZPAF Nord/ DDPAF60 rés. Beauvais |
 
-Chef de Centre de Rétention Administrative (Toulouse-Blagnac 2 Cornebarrieu)
+Directeur départemental |
 
-|
+62 |
 
-34
+DZPAF Nord/ DIDPAF Calais rés. Calais |
 
-|
+Chef des services chargés du contrôle de l'immigration irrégulière |
 
-DZPAF SUD/ DID Montpellier rés. Sète
+62 |
 
-|
+DZPAF Nord/ DIDPAF Calais rés. Calais |
 
-Chef du Centre de Rétention Administrative (CRA)
+Chef de Centre de Rétention Administrative (Coquelles) |
 
-|
+62 |
 
-83
+DZPAF Nord/ DIDPAF Calais rés. Calais |
 
-|
+Chef du service chargé du contrôle transfrontière |
 
-DZPAF Sud/ DIDPAF Marseille rés. Toulon
+SGAMI de Lyon |
 
-|
+4 |
 
-Directeur interdépartemental adjoint-Chef SPAFT Toulon
+63 |
 
-|
+DZPAF Sud-est/ DIDPAF Clermont-Ferrand rés. Clermont-Ferrand |
 
-66
+Directeur interdépartemental |
 
-|
+69 |
 
-DZPAF SUD/ DID Perpignan
+DZPAF Sud-est rés. Lyon |
 
-|
+Chef de Centre de Rétention Administrative (Lyon-Saint-Exupéry) |
 
-Adjoint directeur interdépartemental
+74 |
 
-|
+DZPAF Sud-est/ DIDPAF Annemasse rés. Annemasse |
 
-66
+Directeur interdépartemental |
 
-|
+74 |
 
-DZPAF SUD/ DID Perpignan
+DZPAF Sud-est/ DIDPAF Annemasse rés. Prévessin |
 
-|
+Directeur interdépartemental adjoint-Chef SPAFT Prévessin |
 
-Chef du Centre de Rétention Administrative (CRA)
+SGAMI de Marseille |
 
-|
+17 |
 
-SGAMI de Metz
+5 |
 
-|
+DZPAF Sud/ DIDPAF Montgenèvre résidence à Montgenèvre |
 
-7
+Adjoint directeur interdépartemental-Chef des unités opérationnelles |
 
-|
+5 |
 
-21
+DZPAF Sud/ DIDPAF Montgenèvre résidence à Montgenèvre |
 
-|
+Directeur interdépartemental |
 
-DZPAF Est/ DIDPAF Pontarlier rés. Dijon
+6 |
 
-|
+DZPAF SUD/ DDPAF06 résidence à Nice |
 
-Directeur interdépartemental adjoint-Chef SPAFT Dijon
+Chef du Centre de Rétention Administrative (CRA) |
 
-|
+11 |
 
-25
+DZPAF Sud/ DIDPAF Perpignan résidence à Port-la-Nouvelle |
 
-|
+Directeur interdépartemental adjoint-Chef SPAFT Port-la-Nouvelle |
 
-DZPAF Est/ DIDPAF Pontarlier rés. Pontarlier
+13 |
 
-|
+DZPAF Sud rés. Marseille |
 
-Directeur interdépartemental
+Chef de Centre de Rétention Administrative Marseille (Le Canet) |
 
-|
+2A |
 
-54
+DZPAF Sud/ DID Ajaccio rés. Ajaccio |
 
-|
+Adjoint directeur interdépartemental |
 
-DZPAF Est/ DIDPAF Metz rés. Mont-Saint-Martin
+2B |
 
-|
+DZPAF Sud/ DIDPAF Ajaccio rés. Bastia |
 
-Directeur interdépartemental adjoint-Chef SPAFT Mont-Saint-Martin
+Directeur interdépartemental adjoint-Chef SPAF de Haute-Corse |
 
-|
+30 |
 
-57
+DZPAF Sud/ DIDPAF Montpellier rés. Nîmes |
 
-|
+Directeur interdépartemental adjoint-Chef SPAF du Gard |
 
-DZPAF Est rés. Metz
+30 |
 
-|
+DZPAF Sud/ DIDPAF Montpellier rés. Nîmes |
 
-Chef de Centre de Rétention Administrative (Metz)
+Chef de Centre de Rétention Administrative (Nîmes) |
 
-|
+31 |
 
-67
+DZPAF Sud/ DIDPAF Toulouse rés. Toulouse |
 
-|
+Adjoint directeur interdépartemental |
 
-DZPAF EST/ DIDPAF Strasbourg rés. Strasbourg
+31 |
 
-|
+DZPAF Sud/ DIDPAF Toulouse rés. Toulouse |
 
-Adjoint directeur interdépartemental
+Chef SPAFA Toulouse |
 
-|
+31 |
 
-67
+DZPAF Sud/ DIDPAF Toulouse rés. Toulouse |
 
-|
+Chef de Centre de Rétention Administrative (Toulouse-Blagnac 2 Cornebarrieu) |
 
-DZPAF EST/ DIDPAF Strasbourg rés. Strasbourg
+34 |
 
-|
+DZPAF SUD/ DID Montpellier rés. Montpellier |
 
-Chef de centre de rétention administrative (Strasbourg)
+Adjoint directeur interdépartemental |
 
-|
+34 |
 
-68
+DZPAF SUD/ DID Montpellier rés. Sète |
 
-|
+Chef du Centre de Rétention Administrative (CRA) |
 
-DZPAF Est/ DIDPAF Strasbourg rés. Saint-Louis
+83 |
 
-|
+DZPAF Sud/ DIDPAF Marseille rés. Toulon |
 
-Directeur interdépartemental adjoint-Chef SPAF du Haut-Rhin et chef du SPAFA Bâle-Mulhouse
+Directeur interdépartemental adjoint-Chef SPAFT Toulon |
 
-|
+66 |
 
-SGAMI de Rennes
+DZPAF SUD/ DID Perpignan |
 
-|
+Adjoint directeur interdépartemental |
 
-6
+66 |
 
-|
+DZPAF SUD/ DID Perpignan |
 
-35
+Chef du Centre de Rétention Administrative (CRA) |
 
-|
+SGAMI de Metz |
 
-DZPAF Ouest rés. Rennes
+7 |
 
-|
+21 |
 
-Chef de Centre de Rétention Administrative (Rennes)
+DZPAF Est/ DIDPAF Pontarlier rés. Dijon |
 
-|
+Directeur interdépartemental adjoint-Chef SPAFT Dijon |
 
-44
+25 |
 
-|
+DZPAF Est/ DIDPAF Pontarlier rés. Pontarlier |
 
-DZPAF Ouest/ DIDPAF Nantes rés. Nantes
+Directeur interdépartemental |
 
-|
+54 |
 
-Directeur interdépartemental
+DZPAF Est/ DIDPAF Metz rés. Mont-Saint-Martin |
 
-|
+Directeur interdépartemental adjoint-Chef SPAFT Mont-Saint-Martin |
 
-45
+57 |
 
-|
+DZPAF Est rés. Metz |
 
-DZPAF Ouest/ DIDPAF Orléans rés. Orléans
+Chef de Centre de Rétention Administrative (Metz) |
 
-|
+67 |
 
-Directeur interdépartemental
+DZPAF EST/ DIDPAF Strasbourg rés. Strasbourg |
 
-|
+Adjoint directeur interdépartemental |
 
-50
+67 |
 
-|
+DZPAF EST/ DIDPAF Strasbourg rés. Strasbourg |
 
-DZPAF Ouest/ DIDPAF Cherbourg rés. Cherbourg
+Chef de centre de rétention administrative (Strasbourg) |
 
-|
+68 |
 
-Directeur interdépartemental
+DZPAF Est/ DIDPAF Strasbourg rés. Saint-Louis |
 
-|
+Directeur interdépartemental adjoint-Chef SPAF du Haut-Rhin et chef du SPAFA Bâle-Mulhouse |
 
-76
+SGAMI de Rennes |
 
-|
+6 |
 
-DZPAF Ouest/ DIDPAF Le Havre rés. Le Havre
+35 |
 
-|
+DZPAF Ouest rés. Rennes |
 
-Directeur interdépartemental
+Chef de Centre de Rétention Administrative (Rennes) |
 
-|
+44 |
 
-76
+DZPAF Ouest/ DIDPAF Nantes rés. Nantes |
 
-|
+Directeur interdépartemental |
 
-DZPAF Ouest/ DIDPAF Le Havre rés. Rouen
+45 |
 
-|
+DZPAF Ouest/ DIDPAF Orléans rés. Orléans |
 
-Chef de Centre de Rétention Administrative (Oissel)
+Directeur interdépartemental |
 
-|
+50 |
 
-SGAMI de Bordeaux
+DZPAF Ouest/ DIDPAF Cherbourg rés. Cherbourg |
 
-|
+Directeur interdépartemental |
 
-2
+76 |
 
-|
+DZPAF Ouest/ DIDPAF Le Havre rés. Le Havre |
 
-33
+Directeur interdépartemental |
 
-|
+76 |
 
-DZPAF Sud-Ouest rés. Bordeaux
+DZPAF Ouest/ DIDPAF Le Havre rés. Rouen |
 
-|
+Chef de Centre de Rétention Administrative (Oissel) |
 
-Chef de Centre de Rétention Administrative (Bordeaux)
+SGAMI de Bordeaux |
 
-|
+2 |
 
-64
+33 |
 
-|
+DZPAF Sud-Ouest rés. Bordeaux |
 
-DZPAF Sud-Ouest/ DIDPAF Hendaye
+Chef de Centre de Rétention Administrative (Bordeaux) |
 
-|
+64 |
 
-Chef de Centre de Rétention Administrative (Hendaye)
+DZPAF Sud-Ouest/ DIDPAF Hendaye |
 
-|
+Chef de Centre de Rétention Administrative (Hendaye) |
 
 DCPJ : 53 postes
 
-DEPT
+DEPT |
 
-|
+AFFECTATIONS |
 
-AFFECTATIONS
+FONCTIONS |
 
-|
+Services Centraux |
 
-FONCTIONS
+3 |
 
-|
+92 |
 
-Services Centraux
+DCPJ/ SDLCF/ OCRGDF |
 
-|
+Chef BRIFN |
 
-3
+92 |
 
-|
+DCPJ/ SDLCO/ OCLCO |
 
-92
+Chef de brigade nationale c/ criminalité organisée corse (BNLCOC) |
 
-|
+93 |
 
-DCPJ/ SDLCF/ OCRGDF
+DCPJ/ OFAST/ BPA |
 
-|
+Chef de la brigade plateforme aéroportuaire de Roissy et du détachement d'Orly |
 
-Chef BRIFN
+SGAMI ZDS de Paris |
 
-|
+5 |
 
-92
+77 |
 
-|
+DRPJ VERSAILLES/ SPJ MELUN |
 
-DCPJ/ SDLCO/ OCLCO
+CHEF SPJ |
 
-|
+77 |
 
-Chef de brigade nationale c/ criminalité organisée corse (BNLCOC)
+DRPJ VERSAILLES/ GIR MELUN-MOISSY-CRAMAYEL |
 
-|
+Chef GIR |
 
-93
+78 |
 
-|
+DRPJ VERSAILLES/ DIV AFF CRIM/ ANTENNE OFAST VERSAILLES |
 
-DCPJ/ OFAST/ BPA
+Chef d'antenne OFAST |
 
-|
+91 |
 
-Chef de la brigade plateforme aéroportuaire de Roissy et du détachement d'Orly
+DRPJ VERSAILLES/ GIR JUVISY SUR ORGE |
 
-|
+Chef GIR |
 
-SGAMI ZDS de Paris
+95 |
 
-|
+DRPJ VERSAILLES/ GIR CERGY PONTOISE |
 
-5
+Chef GIR |
 
-|
+SGAMI de Bordeaux |
 
-77
+8 |
 
-|
+17 |
 
-DRPJ VERSAILLES/ SPJ MELUN
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ LA ROCHELLE |
 
-|
+Chef SPJ |
 
-CHEF SPJ
+24 |
 
-|
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ PERIGUEUX |
 
-77
+Chef SPJ |
 
-|
+33 |
 
-DRPJ VERSAILLES/ GIR MELUN-MOISSY-CRAMAYEL
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ DIV. OP./ ANTENNE OFAST |
 
-|
+Chef d'antenne OFAST |
 
-Chef GIR
+33 |
 
-|
+DZPJ SUD-OUEST/ BRI |
 
-78
+Chef BRI |
 
-|
+47 |
 
-DRPJ VERSAILLES/ DIV AFF CRIM/ ANTENNE OFAST VERSAILLES
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ AGEN |
 
-|
+Chef SPJ |
 
-Chef d'antenne OFAST
+64 |
 
-|
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ PAU |
 
-91
+Chef SPJ |
 
-|
+64 |
 
-DRPJ VERSAILLES/ GIR JUVISY SUR ORGE
+DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ BAYONNE/ DET OFAST |
 
-|
+Chef de détachement OFAST |
 
-Chef GIR
+86 |
 
-|
+DZPJ SUD OUEST/ DTPJ LIMOGES/ SPJ POITIERS |
 
-95
+Chef SPJ |
 
-|
+SGAMI de Lille |
 
-DRPJ VERSAILLES/ GIR CERGY PONTOISE
+4 |
 
-|
+59 |
 
-Chef GIR
+DZPJ NORD/ DIV. OP./ ANTENNE OFAST |
 
-|
+Adjoint au chef d'antenne OFAST |
 
-SGAMI de Bordeaux
+59 |
 
-|
+DZPJ NORD/ BRI |
 
-8
+Chef BRI |
 
-|
+62 |
 
-17
+DZPJ NORD/ DTPJ LILLE/ SPJ COQUELLES |
 
-|
+Chef d'antenne |
 
-DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ LA ROCHELLE
+80 |
 
-|
+DZPJ NORD/ DTPJ LILLE/ SPJ AMIENS |
 
-Chef SPJ
+Chef d'antenne |
 
-|
+SGAMI de Lyon |
 
-24
+5 |
 
-|
+26 |
 
-DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ PERIGUEUX
+DZPJ SUD EST/ DTPJ LYON/ SPJ VALENCE |
 
-|
+Chef SPJ |
 
-Chef SPJ
+38 |
 
-|
+DZPJ SUD EST/ DTPJ LYON/ GIR LYON/ ANTENNE GRENOBLE |
 
-33
+Chef d'antenne GIR |
 
-|
+42 |
 
-DZPJ SUD-OUEST/ DTPJ BORDEAUX/ DIV. OP./ ANTENNE OFAST
+DZPJ SUD EST/ DTPJ LYON/ SPJ SAINT ETIENNE |
 
-|
+Chef SPJ |
 
-Chef d'antenne OFAST
+69 |
 
-|
+DZPJ SUD EST/ DTPJ LYON/ GIR LYON |
 
-33
+Chef GIR |
 
-|
+73 |
 
-DZPJ SUD-OUEST/ BRI
+DZPJ SUD EST/ DTPJ LYON/ SPJ CHAMBERY |
 
-|
+Chef SPJ |
 
-Chef BRI
+SGAMI de Marseille |
 
-|
+6 |
 
-47
+6 |
 
-|
+DZPJ SUD/ DTPJ MARSEILLE/ GIR MARSEILLE/ ANTENNE NICE |
 
-DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ AGEN
+Chef d'antenne GIR |
 
-|
+13 |
 
-Chef SPJ
+DZPJ SUD/ DTPJ MARSEILLE/ ANTENNE OFAST |
 
-|
+Adjoint au chef d'antenne OFAST |
 
-64
+2A |
 
-|
+DZPJ SUD/ GIR AJACCIO |
 
-DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ PAU
+Chef GIR |
 
-|
+2A |
 
-Chef SPJ
+DZPJ SUD/ DTPJ AJACCIO/ DIV. OP./ ANTENNE OFAST |
 
-|
+Chef d'antenne OFAST |
 
-64
+30 |
 
-|
+DZPJ SUD/ DTPJ MONTPELLIER/ SPJ NIMES |
 
-DZPJ SUD-OUEST/ DTPJ BORDEAUX/ SPJ BAYONNE/ DET OFAST
+Chef SPJ |
 
-|
+31 |
 
-Chef de détachement OFAST
+DZPJ SUD/ DTPJ TOULOUSE/ BRI |
 
-|
+Chef BRI |
 
-86
+SGAMI de Metz |
 
-|
+9 |
 
-DZPJ SUD OUEST/ DTPJ LIMOGES/ SPJ POITIERS
+21 |
 
-|
+DZPJ EST/ DTPJ DIJON/ BRI |
 
-Chef SPJ
+Chef BRI |
 
-|
+21 |
 
-SGAMI de Lille
+DZPJ EST/ DTPJ DIJON/ GIR DIJON |
 
-|
+Chef GIR |
 
-4
+21 |
 
-|
+DZPJ EST/ DTPJ DIJON/ DIV. OP./ DIVISION DE LA LUTTE CONTRE LA CRIMINALITE ORGANISEE/ ANTENNE OFAST |
 
-59
+Chef d'antenne OFAST |
 
-|
+25 |
 
-DZPJ NORD/ DIV. OP./ ANTENNE OFAST
+DZPJ EST/ DTPJ DIJON/ SPJ BESANÇON |
 
-|
+Chef SPJ |
 
-Adjoint au chef d'antenne OFAST
+57 |
 
-|
+DZPJ EST/ DTPJ METZ/ GIR METZ |
 
-59
+Chef GIR |
 
-|
+67 |
 
-DZPJ NORD/ BRI
+DZPJ EST/ BRI STRASBOURG |
 
-|
+Chef BRI |
 
-Chef BRI
+67 |
 
-|
+DZPJ EST/ GIR STRASBOURG |
 
-62
+Chef GIR |
 
-|
+67 |
 
-DZPJ NORD/ DTPJ LILLE/ SPJ COQUELLES
+DZPJ EST/ DTPJ STRASBOURG/ DIV. OP./ ANTENNE OFAST |
 
-|
+Chef d'antenne OFAST |
 
-Chef d'antenne
+89 |
 
-|
+DZPJ EST/ DTP DIJON/ SPJ AUXERRE |
 
-80
+Chef SPJ |
 
-|
+SGAMI de Rennes |
 
-DZPJ NORD/ DTPJ LILLE/ SPJ AMIENS
+13 |
 
-|
+28 |
 
-Chef d'antenne
+DZPJ OUEST/ DTPJ ORLEANS/ SPJ DREUX |
 
-|
+Chef SPJ |
 
-SGAMI de Lyon
+29 |
 
-|
+DZPJ OUEST/ DTPJ RENNES/ SPJ BREST-QUIMPER |
 
-5
+Chef SPJ |
 
-|
+35 |
 
-26
+DZPJ OUEST/ DTPJ RENNES/ GIR RENNES |
 
-|
+Chef GIR |
 
-DZPJ SUD EST/ DTPJ LYON/ SPJ VALENCE
+35 |
 
-|
+DZPJ OUEST/ DTPJ RENNES/ DIV. OP./ ANTENNE OFAST |
 
-Chef SPJ
+Chef d'antenne OFAST |
 
-|
+37 |
 
-38
+DZPJ OUEST/ DTPJ ORLEANS/ SPJ TOURS |
 
-|
+Chef SPJ |
 
-DZPJ SUD EST/ DTPJ LYON/ GIR LYON/ ANTENNE GRENOBLE
+44 |
 
-|
+DZPJ OUEST/ DTPJ NANTES/ BRI |
 
-Chef d'antenne GIR
+Chef BRI |
 
-|
+45 |
 
-42
+DZPJ OUEST/ DTPJ ORLEANS/ BRI |
 
-|
+Chef BRI |
 
-DZPJ SUD EST/ DTPJ LYON/ SPJ SAINT ETIENNE
+45 |
 
-|
+DZPJ OUEST/ DTPJ ORLEANS/ GIR ORLEANS |
 
-Chef SPJ
+Chef GIR |
 
-|
+45 |
 
-69
+DZPJ OUEST/ DTPJ ORLEANS/ GIR ORLEANS/ ANTENNE DREUX |
 
-|
+Chef d'antenne GIR |
 
-DZPJ SUD EST/ DTPJ LYON/ GIR LYON
+45 |
 
-|
+DZPJ OUEST/ DTPJ ORLEANS/ DIV. OP./ ANTENNE OFAST |
 
-Chef GIR
+Chef d'antenne OFAST |
 
-|
+76 |
 
-73
+DZPJ OUEST/ DTPJ ROUEN/ BRI |
 
-|
+Chef BRI |
 
-DZPJ SUD EST/ DTPJ LYON/ SPJ CHAMBERY
+76 |
 
-|
+DZPJ OUEST/ DTPJ ROUEN/ SPJ LE HAVRE |
 
-Chef SPJ
+Chef SPJ |
 
-|
+76 |
 
-SGAMI de Marseille
+DZPJ OUEST/ DTPJ ROUEN/ GIR ROUEN |
 
-|
-
-6
-
-|
-
-6
-
-|
-
-DZPJ SUD/ DTPJ MARSEILLE/ GIR MARSEILLE/ ANTENNE NICE
-
-|
-
-Chef d'antenne GIR
-
-|
-
-13
-
-|
-
-DZPJ SUD/ DTPJ MARSEILLE/ ANTENNE OFAST
-
-|
-
-Adjoint au chef d'antenne OFAST
-
-|
-
-2A
-
-|
-
-DZPJ SUD/ GIR AJACCIO
-
-|
-
-Chef GIR
-
-|
-
-2A
-
-|
-
-DZPJ SUD/ DTPJ AJACCIO/ DIV. OP./ ANTENNE OFAST
-
-|
-
-Chef d'antenne OFAST
-
-|
-
-30
-
-|
-
-DZPJ SUD/ DTPJ MONTPELLIER/ SPJ NIMES
-
-|
-
-Chef SPJ
-
-|
-
-31
-
-|
-
-DZPJ SUD/ DTPJ TOULOUSE/ BRI
-
-|
-
-Chef BRI
-
-|
-
-SGAMI de Metz
-
-|
-
-9
-
-|
-
-21
-
-|
-
-DZPJ EST/ DTPJ DIJON/ BRI
-
-|
-
-Chef BRI
-
-|
-
-21
-
-|
-
-DZPJ EST/ DTPJ DIJON/ GIR DIJON
-
-|
-
-Chef GIR
-
-|
-
-21
-
-|
-
-DZPJ EST/ DTPJ DIJON/ DIV. OP./ DIVISION DE LA LUTTE CONTRE LA CRIMINALITE ORGANISEE/ ANTENNE OFAST
-
-|
-
-Chef d'antenne OFAST
-
-|
-
-25
-
-|
-
-DZPJ EST/ DTPJ DIJON/ SPJ BESANÇON
-
-|
-
-Chef SPJ
-
-|
-
-57
-
-|
-
-DZPJ EST/ DTPJ METZ/ GIR METZ
-
-|
-
-Chef GIR
-
-|
-
-67
-
-|
-
-DZPJ EST/ BRI STRASBOURG
-
-|
-
-Chef BRI
-
-|
-
-67
-
-|
-
-DZPJ EST/ GIR STRASBOURG
-
-|
-
-Chef GIR
-
-|
-
-67
-
-|
-
-DZPJ EST/ DTPJ STRASBOURG/ DIV. OP./ ANTENNE OFAST
-
-|
-
-Chef d'antenne OFAST
-
-|
-
-89
-
-|
-
-DZPJ EST/ DTP DIJON/ SPJ AUXERRE
-
-|
-
-Chef SPJ
-
-|
-
-SGAMI de Rennes
-
-|
-
-13
-
-|
-
-28
-
-|
-
-DZPJ OUEST/ DTPJ ORLEANS/ SPJ DREUX
-
-|
-
-Chef SPJ
-
-|
-
-29
-
-|
-
-DZPJ OUEST/ DTPJ RENNES/ SPJ BREST-QUIMPER
-
-|
-
-Chef SPJ
-
-|
-
-35
-
-|
-
-DZPJ OUEST/ DTPJ RENNES/ GIR RENNES
-
-|
-
-Chef GIR
-
-|
-
-35
-
-|
-
-DZPJ OUEST/ DTPJ RENNES/ DIV. OP./ ANTENNE OFAST
-
-|
-
-Chef d'antenne OFAST
-
-|
-
-37
-
-|
-
-DZPJ OUEST/ DTPJ ORLEANS/ SPJ TOURS
-
-|
-
-Chef SPJ
-
-|
-
-44
-
-|
-
-DZPJ OUEST/ DTPJ NANTES/ BRI
-
-|
-
-Chef BRI
-
-|
-
-45
-
-|
-
-DZPJ OUEST/ DTPJ ORLEANS/ BRI
-
-|
-
-Chef BRI
-
-|
-
-45
-
-|
-
-DZPJ OUEST/ DTPJ ORLEANS/ GIR ORLEANS
-
-|
-
-Chef GIR
-
-|
-
-45
-
-|
-
-DZPJ OUEST/ DTPJ ORLEANS/ GIR ORLEANS/ ANTENNE DREUX
-
-|
-
-Chef d'antenne GIR
-
-|
-
-45
-
-|
-
-DZPJ OUEST/ DTPJ ORLEANS/ DIV. OP./ ANTENNE OFAST
-
-|
-
-Chef d'antenne OFAST
-
-|
-
-76
-
-|
-
-DZPJ OUEST/ DTPJ ROUEN/ BRI
-
-|
-
-Chef BRI
-
-|
-
-76
-
-|
-
-DZPJ OUEST/ DTPJ ROUEN/ SPJ LE HAVRE
-
-|
-
-Chef SPJ
-
-|
-
-76
-
-|
-
-DZPJ OUEST/ DTPJ ROUEN/ GIR ROUEN
-
-|
-
-Chef GIR
-
-|
+Chef GIR |
 
 DCRFPN : 14 postes
 
-DEPT
+DEPT |
 
-|
+AFFECTATIONS |
 
-AFFECTATIONS
+FONCTIONS |
 
-|
+SGAMI ZDS de Paris |
 
-FONCTIONS
+5 |
 
-|
+75 |
 
-SGAMI ZDS de Paris
+DCRFPN/ DFTSI/ CNFT Paris (Tir) |
 
-|
+Chef de centre national de formation |
 
-5
+75 |
 
-|
+DZRFPN Paris-Ile de France/ CRF Paris |
 
-75
+Chef de centre régional de formation |
 
-|
+77 |
 
-DCRFPN/ DFTSI/ CNFT Paris (Tir)
+DCRFPN/ DFTSI/ CNFUC Cannes-Ecluse (Unités Cynotechniques) |
 
-|
+Chef de centre national de formation |
 
-Chef de centre national de formation
+77 |
 
-|
+DZRFPN Paris IDF/ CRF Lognes |
 
-75
+Chef de centre régional de formation |
 
-|
+91 |
 
-DZRFPN Paris-Ile de France/ CRF Paris
+DZRFPN Paris-Ile de France/ CRF Draveil |
 
-|
+Chef de centre régional de formation |
 
-Chef de centre régional de formation
+SGAMI de Bordeaux |
 
-|
+1 |
 
-77
+33 |
 
-|
+DZRFPN Sud-ouest |
 
-DCRFPN/ DFTSI/ CNFUC Cannes-Ecluse (Unités Cynotechniques)
+Chef des services de la direction zonale et chef du département des compétences |
 
-|
+SGAMI de Lyon |
 
-Chef de centre national de formation
+1 |
 
-|
+69 |
 
-77
+DZRFPN Sud-est/ CFP Chassieu |
 
-|
+Chef de centre de formation |
 
-DZRFPN Paris IDF/ CRF Lognes
+SGAMI de Marseille |
 
-|
+2 |
 
-Chef de centre régional de formation
+6 |
 
-|
+DZRFPN Sud/ CRF Nice |
 
-91
+Chef de centre régional de formation |
 
-|
+13 |
 
-DZRFPN Paris-Ile de France/ CRF Draveil
+DZRFPN Sud/ CRF Marseille |
 
-|
+Chef de centre régional de formation |
 
-Chef de centre régional de formation
+SGAMI de Metz |
 
-|
+3 |
 
-SGAMI de Bordeaux
+21 |
 
-|
+DZRFPN Est/ CRF Dijon |
 
-1
+Chef de centre régional de formation |
 
-|
+57 |
 
-33
+DZRFPN Est |
 
-|
+Chef des services de la direction zonale et chef du département des compétences |
 
-DZRFPN Sud-ouest
+89 |
 
-|
+DCRFPN/ DFTSI/ CNFMPN Sens (Motocycliste) |
 
-Chef des services de la direction zonale et chef du département des compétences
+Chef de centre national de formation Motocycliste |
 
-|
+SGAMI de Rennes |
 
-SGAMI de Lyon
+2 |
 
-|
+35 |
 
-1
+DZRFPN Ouest |
 
-|
+Chef des services de la DZRFPN et chef du département des compétences |
 
-69
+37 |
 
-|
+DZRFPN Ouest/ CRF Tours |
 
-DZRFPN Sud-est/ CFP Chassieu
+Chef de centre régional de formation |
 
-|
+DCSP : 246 postes
 
-Chef de centre de formation
+DEPT |
 
-|
+AFFECTATIONS |
 
-SGAMI de Marseille
+FONCTIONS |
 
-|
+SGAMI ZDS de Paris |
 
-2
+25 |
 
-|
+77 |
 
-6
+DDSP77/ CSP Coulommiers |
 
-|
+Chef CSP |
 
-DZRFPN Sud/ CRF Nice
+77 |
 
-|
+DDSP77/ CSP Lagny-sur-Marne |
 
-Chef de centre régional de formation
+Chef SU |
 
-|
+77 |
 
-13
+DDSP77/ CSP Meaux |
 
-|
+Chef SU |
 
-DZRFPN Sud/ CRF Marseille
+77 |
 
-|
+DDSP77/ CSP Melun Val de Seine |
 
-Chef de centre régional de formation
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+77 |
 
-SGAMI de Metz
+DDSP77/ CSP Noisiel |
 
-|
+Adjoint chef SVP, chef des unités de voie publique |
 
-3
+77 |
 
-|
+DDSP77/ CSP Provins |
 
-21
+Chef CSP |
 
-|
+77 |
 
-DZRFPN Est/ CRF Dijon
+DDSP77/ CSP Villeparisis |
 
-|
+Chef SU |
 
-Chef de centre régional de formation
+78 |
 
-|
+DDSP78/ CSP Conflans Sainte Honorine |
 
-57
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+78 |
 
-DZRFPN Est
+DDSP78/ CSP Elancourt |
 
-|
+Adjoint chef SVP, chef des unités de voie publique |
 
-Chef des services de la direction zonale et chef du département des compétences
+78 |
 
-|
+DDSP78/ CSP Les Mureaux |
 
-89
+Chef SU |
 
-|
+78 |
 
-DCRFPN/ DFTSI/ CNFMPN Sens (Motocycliste)
+DDSP78/ CSP Mantes-la-Jolie |
 
-|
+Chef SU |
 
-Chef de centre national de formation Motocycliste
+78 |
 
-|
+DDSP78/ CSP Plaisir |
 
-SGAMI de Rennes
+Chef SU |
 
-|
+78 |
 
-2
+DDSP78/ CSP Rambouillet |
 
-|
+Chef CSP |
 
-35
+78 |
 
-|
+DDSP78/ CSP Saint-Germain-en-Laye |
 
-DZRFPN Ouest
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+78 |
 
-Chef des services de la DZRFPN et chef du département des compétences
+DDSP78/ CSP Sartrouville agglomération |
 
-|
+Chef SU |
 
-37
+78 |
 
-|
+DDSP78/ CSP Versailles |
 
-DZRFPN Ouest/ CRF Tours
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+91 |
 
-Chef de centre régional de formation
+DDSP91/ CSP Juvisy |
 
-|
+Adjoint chef SVP, chef des unités de voie publique |
 
-DCSP : 234 postes
+91 |
 
-DEPT
+DDSP91/ CSP Evry |
 
-|
+Adjoint chef SVP, chef des unités de voie publique |
 
-AFFECTATIONS
+91 |
 
-|
+DDSP91/ CSP Massy |
 
-FONCTIONS
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+95 |
 
-SGAMI ZDS de Paris
+DDSP95/ CSP Argenteuil |
 
-|
+Adjoint chef SVP, chef des unités de voie publique |
 
-12
+95 |
 
-|
+DDSP95/ CSP Cergy |
 
-77
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+95 |
 
-DDSP77/ CSP Coulommiers
+DDSP95/ CSP Ermont |
 
-|
+Adjoint chef SVP, chef des unités de voie publique |
 
-Chef CSP
+95 |
 
-|
+DDSP95/ CSP Ermont |
 
-77
+Chef SU |
 
-|
+95 |
 
-DDSP77/ CSP Lagny-sur-Marne
+DDSP95/ CSP Enghiens-les-Bains |
 
-|
+Chef SU |
 
-Chef SU
+95 |
 
-|
+DDSP95/ CSP Sarcelles |
 
-77
+Adjoint chef SVP, chef des unités de voie publique |
 
-|
+SGAMI de Bordeaux |
 
-DDSP77/ CSP Meaux
+22 |
 
-|
+16 |
 
-Chef SU
+DDSP16/ CSP Cognac |
 
-|
+Chef CSP |
 
-77
+16 |
 
-|
+DDSP16/ Charente-RT |
 
-DDSP77/ CSP Provins
+Chef du SDRT |
 
-|
+17 |
 
-Chef CSP
+DDSP17/ Charente-Maritime-RT |
 
-|
+Chef du SDRT |
 
-77
+17 |
 
-|
+DDSP17/ CSP Rochefort-Sur-Mer |
 
-DDSP77/ CSP Villeparisis
+Chef CSP |
 
-|
+19 |
 
-Chef SU
+DDSP19/ Corrèze-RT |
 
-|
+Chef du SDRT |
 
-78
+19 |
 
-|
+DDSP19/ CSP Ussel |
 
-DDSP78/ CSP Les Mureaux
+Chef CSP |
 
-|
+23 |
 
-Chef SU
+DDSP23/ Creuse |
 
-|
+Directeur Départemental Adjoint |
 
-78
+23 |
 
-|
+DDSP23/ Creuse-RT |
 
-DDSP78/ CSP Mantes-la-Jolie
+Chef du SDRT |
 
-|
+24 |
 
-Chef SU
+DDSP24/ CSP Bergerac |
 
-|
+Chef CSP |
 
-78
+24 |
 
-|
+DDSP24/ Dordogne |
 
-DDSP78/ CSP Plaisir
+Directeur Départemental Adjoint |
 
-|
+24 |
 
-Chef SU
+DDSP24/ Dordogne-RT |
 
-|
+Chef du SDRT |
 
-78
+33 |
 
-|
+DDSP33/ Gironde |
 
-DDSP78/ CSP Rambouillet
+CTCC |
 
-|
+33 |
 
-Chef CSP
+DDSP33/ CSP Arcachon |
 
-|
+Chef CSP |
 
-78
+33 |
 
-|
+DDSP33/ Gironde-SND |
 
-DDSP78/ CSP Sartrouville agglomération
+Chef SND |
 
-|
+40 |
 
-Chef SU
+DDSP40/ Landes-RT |
 
-|
+Chef du SDRT |
 
-95
+47 |
 
-|
+DDSP47/ CSP Villeneuve-sur-Lot |
 
-DDSP95/ CSP Ermont
+Chef CSP |
 
-|
+47 |
 
-Chef SU
+DDSP47/ Lot-et-Garonne |
 
-|
+Directeur Départemental Adjoint |
 
-95
+47 |
 
-|
+DDSP47/ Lot-et-Garonne-RT |
 
-DDSP95/ CSP Enghiens-les-Bains
+Chef du SDRT |
 
-|
+64 |
 
-Chef SU
+DDSP64/ Pyrénées-Atlantiques-RT |
 
-|
+Chef du SDRT |
 
-SGAMI de Bordeaux
+79 |
 
-|
+DDSP79/ CSP Thouars |
 
-22
+Chef CSP |
 
-|
+79 |
 
-16
+DDSP79/ Deux-Sèvres |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP16/ CSP Cognac
+86 |
 
-|
+DDSP86/ CSP Châtellerault |
 
-Chef CSP
+Chef CSP |
 
-|
+SGAMI de Lille |
 
-16
+24 |
 
-|
+2 |
 
-DDSP16/ Charente-RT
+DDSP02/ CSP Château-Thierry |
 
-|
+Chef CSP |
 
-Chef du SDRT
+2 |
 
-|
+DDSP02/ Aisne-RT |
 
-17
+Chef du SDRT |
 
-|
+2 |
 
-DDSP17/ Charente-Maritime-RT
+DDSP02/ CSP Saint-Quentin |
 
-|
+Chef SD |
 
-Chef du SDRT
+2 |
 
-|
+DDSP02/ CSP Tergnier-la-Fère |
 
-17
+Chef CSP |
 
-|
+59 |
 
-DDSP17/ CSP Rochefort-Sur-Mer
+DDSP59/ CSP Lille Agglomération/ Division Lille |
 
-|
+Chef des commissariats de secteur |
 
-Chef CSP
+59 |
 
-|
+DDSP59/ CSP Lille agglomération/ Division Tourcoing |
 
-19
+Chef SU |
 
-|
+59 |
 
-DDSP19/ Corrèze-RT
+DDSP59/ CSP Hazebrouck |
 
-|
+Chef CSP |
 
-Chef du SDRT
+59 |
 
-|
+DDSP59/ CSP Lille Agglomération/ Division Lille |
 
-19
+Chef EM de circonscription |
 
-|
+59 |
 
-DDSP19/ CSP Ussel
+DDSP59/ CSP Lille agglomération/ Division Armentières |
 
-|
+Chef de division |
 
-Chef CSP
+59 |
 
-|
+DDSP59/ CSP Lille agglomération/ Division Roubaix |
 
-23
+Chef SU |
 
-|
+59 |
 
-DDSP23/ Creuse
+DDSP59/ CSP Lille agglomération/ Division Roubaix |
 
-|
+Chef SVP |
 
-Directeur Départemental Adjoint
+59 |
 
-|
+DDSP59/ CSP Lille agglomération/ Division Tourcoing |
 
-23
+Chef SVP |
 
-|
+59 |
 
-DDSP23/ Creuse-RT
+DDSP59/ CSP Maubeuge agglomération |
 
-|
+Chef SU |
 
-Chef du SDRT
+59 |
 
-|
+DDSP59/ CSP Valenciennes agglomération |
 
-24
+Chef EM de circonscription |
 
-|
+59 |
 
-DDSP24/ CSP Bergerac
+DDSP59/ SISTC Nord |
 
-|
+Chef SISTC |
 
-Chef CSP
+60 |
 
-|
+DDSP60/ CSP Beauvais |
 
-24
+Chef SD |
 
-|
+60 |
 
-DDSP24/ Dordogne
+DDSP60/ Oise-RT |
 
-|
+Chef du SDRT |
 
-Directeur Départemental Adjoint
+62 |
 
-|
+DDSP62/ CSP Auchel |
 
-24
+Chef CSP |
 
-|
+62 |
 
-DDSP24/ Dordogne-RT
+DDSP62/ CSP Berck-sur-Mer |
 
-|
+Chef CSP |
 
-Chef du SDRT
+62 |
 
-|
+DDSP62/ CSP Bruay-la-Buissière |
 
-33
+Chef CSP |
 
-|
+62 |
 
-DDSP33/ Gironde
+DDSP62/ CSP Le Touquet-Paris-Plage |
 
-|
+Chef CSP |
 
-CTCC
+62 |
 
-|
+DDSP62/ CSP Marles-les-Mines |
 
-33
+Chef CSP |
 
-|
+62 |
 
-DDSP33/ CSP Arcachon
+DDSP62/ CSP Nœux-les-Mines |
 
-|
+Chef CSP |
 
-Chef CSP
+80 |
 
-|
+DDSP80/ CSP Abbeville |
 
-33
+Chef CSP |
 
-|
+SGAMI de Lyon |
 
-DDSP33/ Gironde-SND
+34 |
 
-|
+1 |
 
-Chef SND
+DDSP01/ Ain |
 
-|
+Directeur Départemental Adjoint |
 
-40
+1 |
 
-|
+DDSP01/ CSP Oyonnax |
 
-DDSP40/ Landes-RT
+Chef CSP |
 
-|
+1 |
 
-Chef du SDRT
+DDSP01/ SDRT Ain |
 
-|
+Chef du SDRT |
 
-47
+3 |
 
-|
+DDSP03/ SDRT Allier |
 
-DDSP47/ CSP Villeneuve-sur-Lot
+Chef du SDRT |
 
-|
+7 |
 
-Chef CSP
+DDSP07/ Ardèche |
 
-|
+Directeur Départemental Adjoint |
 
-47
+7 |
 
-|
+DDSP07/ Ardèche-RT |
 
-DDSP47/ Lot-et-Garonne
+Chef du SDRT |
 
-|
+7 |
 
-Directeur Départemental Adjoint
+DDSP07/ CSP Aubenas |
 
-|
+Chef CSP |
 
-47
+7 |
 
-|
+DDSP07/ CSP Guilherand-Granges |
 
-DDSP47/ Lot-et-Garonne-RT
+Chef CSP |
 
-|
+15 |
 
-Chef du SDRT
+DDSP15/ Cantal |
 
-|
+Directeur Départemental Adjoint |
 
-64
+15 |
 
-|
+DDSP15/ Cantal-RT |
 
-DDSP64/ Pyrénées-Atlantiques-RT
+Chef du SDRT |
 
-|
+26 |
 
-Chef du SDRT
+DDSP26/ CSP Montélimar |
 
-|
+Chef CSP |
 
-79
+26 |
 
-|
+DDSP26/ Drôme-RT |
 
-DDSP79/ CSP Thouars
+Chef du SDRT |
 
-|
+38 |
 
-Chef CSP
+DDSP38/ CSP Bourgoin-Jallieu |
 
-|
+Chef CSP |
 
-79
+38 |
 
-|
+DDSP38/ CSP Voiron |
 
-DDSP79/ Deux-Sèvres
+Chef CSP |
 
-|
+38 |
 
-Directeur Départemental Adjoint
+DDSP38/ Isère |
 
-|
+Chef EMD |
 
-86
+38 |
 
-|
+DDSP38/ Isère |
 
-DDSP86/ CSP Châtellerault
+Chef SND |
 
-|
+42 |
 
-Chef CSP
+DDSP42/ Loire |
 
-|
+Chef EMD |
 
-SGAMI de Lille
+42 |
 
-|
+DDSP42/ Loire |
 
-24
+Chef SND |
 
-|
+42 |
 
-2
+DDSP42/ Loire-RT |
 
-|
+Chef du SDRT |
 
-DDSP02/ CSP Château-Thierry
+43 |
 
-|
+DDSP43/ Haute-Loire |
 
-Chef CSP
+Directeur Départemental Adjoint |
 
-|
+43 |
 
-2
+DDSP43/ Haute-Loire-RT |
 
-|
+Chef du SDRT |
 
-DDSP02/ Aisne-RT
+63 |
 
-|
+DDSP63/ CSP Riom |
 
-Chef du SDRT
+Chef CSP |
 
-|
+69 |
 
-2
+DDSP69/ Rhône/ SOP |
 
-|
+Chef SISTC |
 
-DDSP02/ CSP Saint-Quentin
+69 |
 
-|
+DDSP69/ CSP Givors |
 
-Chef SD
+Chef CSP |
 
-|
+69 |
 
-2
+DDSP69/ CSP Lyon/ Division est à Villeurbanne |
 
-|
+Adjoint chef SVP |
 
-DDSP02/ CSP Tergnier-la-Fère
+69 |
 
-|
+DDSP69/ CSP Lyon/ Division ouest |
 
-Chef CSP
+Adjoint chef SVP |
 
-|
+69 |
 
-59
+DDSP69/ CSP Lyon/ Division centre |
 
-|
+Adjoint chef SVP |
 
-DDSP59/ CSP Lille Agglomération/ Division Lille
+69 |
 
-|
+DDSP69/ Rhône/ EM |
 
-Chef des commissariats de secteur
+Officier à l'EMD |
 
-|
+69 |
 
-59
+DDSP69/ CSP Lyon/ Division sud à Bron |
 
-|
+Chef SU |
 
-DDSP59/ CSP Lille agglomération/ Division Tourcoing
+73 |
 
-|
+DDSP73/ CSP Aix-Les-Bains |
 
-Chef SU
+Chef CSP |
 
-|
+73 |
 
-59
+DDSP73/ CSP Albertville |
 
-|
+Chef CSP |
 
-DDSP59/ CSP Hazebrouck
+73 |
 
-|
+DDSP73/ Savoie-RT |
 
-Chef CSP
+Chef du SDRT |
 
-|
+73 |
 
-59
+DDSP73/ CSP Chambéry-SD |
 
-|
+Chef SD |
 
-DDSP59/ CSP Lille Agglomération/ Division Lille
+74 |
 
-|
+DDSP74/ Haute-Savoie-RT |
 
-Chef EM de circonscription
+Chef du SDRT |
 
-|
+SGAMI de Marseille |
 
-59
+48 |
 
-|
+4 |
 
-DDSP59/ CSP Lille agglomération/ Division Armentières
+DDSP04/ Alpes-de-Haute-Provence |
 
-|
+Directeur Départemental Adjoint |
 
-Chef de division
+4 |
 
-|
+DDSP04/ Alpes-de-Haute-Provence-RT |
 
-59
+Chef du SDRT |
 
-|
+4 |
 
-DDSP59/ CSP Lille agglomération/ Division Roubaix
+DDSP04/ CSP Manosque |
 
-|
+Chef CSP |
 
-Chef SU
+5 |
 
-|
+DDSP05/ CSP Briançon |
 
-59
+Chef CSP |
 
-|
+5 |
 
-DDSP59/ CSP Lille agglomération/ Division Roubaix
+DDSP05/ Hautes-Alpes |
 
-|
+Directeur Départemental Adjoint |
 
-Chef SVP
+5 |
 
-|
+DDSP05/ Hautes-Alpes-RT |
 
-59
+Chef du SDRT |
 
-|
+6 |
 
-DDSP59/ CSP Lille agglomération/ Division Tourcoing
+DDSP06/ Alpes Maritimes |
 
-|
+Chef SND |
 
-Chef SVP
+9 |
 
-|
+DDSP09/ Ariège |
 
-59
+Directeur Départemental Adjoint |
 
-|
+9 |
 
-DDSP59/ CSP Maubeuge agglomération
+DDSP09/ Ariège-RT |
 
-|
+Chef du SDRT |
 
-Chef SU
+9 |
 
-|
+DDSP09/ CSP Pamiers |
 
-59
+Chef CSP |
 
-|
+11 |
 
-DDSP59/ CSP Valenciennes agglomération
+DDSP11/ Aude-RT |
 
-|
+Chef du SDRT |
 
-Chef EM de circonscription
+12 |
 
-|
+DDSP12/ Aveyron |
 
-59
+Directeur Départemental Adjoint |
 
-|
+12 |
 
-DDSP59/ SISTC Nord
+DDSP12/ CSP Decazeville |
 
-|
+Chef CSP |
 
-Chef SISTC
+12 |
 
-|
+DDSP12/ CSP Millau |
 
-60
+Chef CSP |
 
-|
+13 |
 
-DDSP60/ CSP Beauvais
+DDSP13/ SISTC Bouches-du-Rhône |
 
-|
+Chef SISTC |
 
-Chef SD
+2A |
 
-|
+DDSP2A/ CSP Ajaccio |
 
-60
+Chef SD |
 
-|
+2B |
 
-DDSP60/ Oise-RT
+DDSP2B/ CSP Bastia |
 
-|
+Chef SD |
 
-Chef du SDRT
+2B |
 
-|
+DDSP2B/ Haute-Corse-RT |
 
-62
+Chef du SDRT |
 
-|
+13 |
 
-DDSP62/ CSP Auchel
+DDSP30/ CISP Tarascon-Beaucaire |
 
-|
+Chef CSP |
 
-Chef CSP
+30 |
 
-|
+DDSP30/ CSP Bagnols-sur-Cèze |
 
-62
+Chef CSP |
 
-|
+30 |
 
-DDSP62/ CSP Berck-sur-Mer
+DDSP30/ Gard-RT |
 
-|
+Chef du SDRT |
 
-Chef CSP
+31 |
 
-|
+DDSP31/ CSP Saint-Gaudens |
 
-62
+Chef CSP |
 
-|
+31 |
 
-DDSP62/ CSP Bruay-la-Buissière
+DDSP31/ Haute-Garonne |
 
-|
+CTCC |
 
-Chef CSP
+31 |
 
-|
+DDSP31/ CSP Toulouse/ Division Toulouse Rive Gauche |
 
-62
+Chef SU |
 
-|
+31 |
 
-DDSP62/ CSP Le Touquet-Paris-Plage
+DDSP31/ Haute-Garonne-SND |
 
-|
+Chef SND |
 
-Chef CSP
+32 |
 
-|
+DDSP32/ Gers |
 
-62
+Directeur Départemental Adjoint |
 
-|
+32 |
 
-DDSP62/ CSP Marles-les-Mines
+DDSP32/ Gers-RT |
 
-|
+Chef du SDRT |
 
-Chef CSP
+34 |
 
-|
+DDSP34/ Hérault |
 
-62
+Chef EMD |
 
-|
+34 |
 
-DDSP62/ CSP Nœux-les-Mines
+DDSP34/ Hérault |
 
-|
+Chef SND |
 
-Chef CSP
+46 |
 
-|
+DDSP46/ Lot |
 
-80
+Directeur Départemental Adjoint |
 
-|
+46 |
 
-DDSP80/ CSP Abbeville
+DDSP46/ Lot-RT |
 
-|
+Chef du SDRT |
 
-Chef CSP
+48 |
 
-|
+DDSP48/ Lozère |
 
-SGAMI de Lyon
+Directeur Départemental Adjoint |
 
-|
+48 |
 
-34
+DDSP48/ Lozère-RT |
 
-|
+Chef du SDRT |
 
-1
+65 |
 
-|
+DDSP65/ CSP Lourdes |
 
-DDSP01/ Ain
+Chef CSP |
 
-|
+65 |
 
-Directeur Départemental Adjoint
+DDSP65/ Hautes-Pyrénées |
 
-|
+Directeur Départemental Adjoint |
 
-1
+65 |
 
-|
+DDSP65/ Hautes-Pyrénées-RT |
 
-DDSP01/ CSP Oyonnax
+Chef du SDRT |
 
-|
+66 |
 
-Chef CSP
+DDSP66/ Pyrénées-Orientales-RT |
 
-|
+Chef du SDRT |
 
-1
+81 |
 
-|
+DDSP81/ CSP Carmaux |
 
-DDSP01/ SDRT Ain
+Chef CSP |
 
-|
+81 |
 
-Chef du SDRT
+DDSP81/ CSP Mazamet |
 
-|
+Chef CSP |
 
-3
+81 |
 
-|
+DDSP81/ Tarn-RT |
 
-DDSP03/ SDRT Alliers
+Chef du SDRT |
 
-|
+82 |
 
-Chef du SDRT
+DDSP82/ CSP Castelsarrasin |
 
-|
+Chef CSP |
 
-7
+82 |
 
-|
+DDSP82/ Tarn-et-Garonne |
 
-DDSP07/ Ardèche
+Directeur Départemental Adjoint |
 
-|
+82 |
 
-Directeur Départemental Adjoint
+DDSP82/ Tarn-et-Garonne-RT |
 
-|
+Chef du SDRT |
 
-7
+83 |
 
-|
+DDSP83/ Var |
 
-DDSP07/ CSP Aubenas
+Chef EMD |
 
-|
+83 |
 
-Chef CSP
+DDSP83/ Var |
 
-|
+Chef SND |
 
-7
+84 |
 
-|
+DDSP84/ CSP Cavaillon |
 
-DDSP07/ CSP Guilherand-Granges
+Chef CSP |
 
-|
+84 |
 
-Chef CSP
+DDSP84/ CSP Orange |
 
-|
+Chef CSP |
 
-15
+84 |
 
-|
+DDSP84/ Vaucluse-RT |
 
-DDSP15/ Cantal
+Chef du SDRT |
 
-|
+SGAMI de Metz |
 
-Directeur Départemental Adjoint
+50 |
 
-|
+8 |
 
-15
+DDSP08/ Ardennes |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP15/ Cantal-RT
+8 |
 
-|
+DDSP08/ Ardennes-RT |
 
-Chef du SDRT
+Chef du SDRT |
 
-|
+8 |
 
-26
+DDSP08/ CSP Sedan |
 
-|
+Chef CSP |
 
-DDSP26/ CSP Montélimar
+10 |
 
-|
+DDSP10/ Aube-RT |
 
-Chef CSP
+Chef du SDRT |
 
-|
+21 |
 
-26
+DDSP21/ CSP Beaune |
 
-|
+Chef CSP |
 
-DDSP26/ Drôme-RT
+25 |
 
-|
+DDSP25/ CSP Pontarlier |
 
-Chef du SDRT
+Chef CSP |
 
-|
+39 |
 
-38
+DDSP39/ CSP Dôle |
 
-|
+Chef CSP |
 
-DDSP38/ CSP Bourgoin-Jallieu
+39 |
 
-|
+DDSP39/ Jura |
 
-Chef CSP
+Directeur Départemental Adjoint |
 
-|
+39 |
 
-38
+DDSP39/ Jura-RT |
 
-|
+Chef du SDRT |
 
-DDSP38/ CSP Voiron
+52 |
 
-|
+DDSP52/ CSP Saint-Dizier |
 
-Chef CSP
+Chef CSP |
 
-|
+52 |
 
-38
+DDSP52/ Haute-Marne |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP38/ Isère
+52 |
 
-|
+DDSP52/ Haute-Marne-RT |
 
-Chef EMD
+Chef du SDRT |
 
-|
+54 |
 
-38
+DDSP54/ CSP Briey |
 
-|
+Chef CSP |
 
-DDSP38/ Isère
+54 |
 
-|
+DDSP54/ CSP Conflans-en-Jarnisy |
 
-Chef SND
+Chef CSP |
 
-|
+54 |
 
-42
+DDSP54/ CSP Dombasle-sur-Meurthe |
 
-|
+Chef CSP |
 
-DDSP42/ Loire
+54 |
 
-|
+DDSP54/ CSP Lunéville |
 
-Chef EMD
+Chef CSP |
 
-|
+54 |
 
-42
+DDSP54/ CSP Pont-à-Mousson |
 
-|
+Chef CSP |
 
-DDSP42/ Loire
+54 |
 
-|
+DDSP54/ CSP Toul |
 
-Chef SND
+Chef CSP |
 
-|
+54 |
 
-42
+DDSP54/ Meurthe-et-Moselle |
 
-|
+Chef EMD |
 
-DDSP42/ Loire-RT
+54 |
 
-|
+DDSP54/ Meurthe-et-Moselle |
 
-Chef du SDRT
+Chef SND |
 
-|
+54 |
 
-43
+DDSP54/ Meurthe-et-Moselle-RT |
 
-|
+Chef du SDRT |
 
-DDSP43/ Haute-Loire
+55 |
 
-|
+DDSP55/ CSP Verdun |
 
-Directeur Départemental Adjoint
+Chef CSP |
 
-|
+55 |
 
-43
+DDSP55/ Meuse |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP43/ Haute-Loire-RT
+55 |
 
-|
+DDSP55/ Meuse-RT |
 
-Chef du SDRT
+Chef du SDRT |
 
-|
+57 |
 
-63
+DDSP57/ Moselle |
 
-|
+Chef EMD |
 
-DDSP63/ CSP Riom
+57 |
 
-|
+DDSP57/ Moselle |
 
-Chef CSP
+Chef SND |
 
-|
+57 |
 
-69
+DDSP57/ CSP Freyming-Merlebach |
 
-|
+Chef CSP |
 
-DDSP68/ SISTC Rhône
+57 |
 
-|
+DDSP57/ CSP Sarrebourg |
 
-Chef SISTC
+Chef CSP |
 
-|
+57 |
 
-69
+DDSP57/ CSP Sarreguemines |
 
-|
+Chef CSP |
 
-DDSP69/ CSP Givors
+58 |
 
-|
+DDSP58/ Nièvre |
 
-Chef CSP
+Directeur Départemental Adjoint |
 
-|
+58 |
 
-69
+DDSP58/ Nièvre-RT |
 
-|
+Chef du SDRT |
 
-DDSP69/ CSP Lyon/ Décines-Meyzieu-Division est
+67 |
 
-|
+DDSP67/ Bas-Rhin |
 
-Chef du commissariat subdivisionnaire
+Chef EMD |
 
-|
+67 |
 
-69
+DDSP67/ Bas-Rhin |
 
-|
+Chef SND |
 
-DDSP69/ CSP Lyon/ 5e arrondissement-Division ouest
+67 |
 
-|
+DDSP67/ CSP Haguenau |
 
-Chef du commissariat subdivisionnaire
+Chef CSP |
 
-|
+67 |
 
-69
+DDSP67/ CSP Sélestat |
 
-|
+Chef CSP |
 
-DDSP69/ CSP Lyon/ 8e arrondissement-Division centre
+68 |
 
-|
+DDSP68/ CSP Saint-Louis |
 
-Chef du commissariat subdivisionnaire
+Chef CSP |
 
-|
+68 |
 
-69
+DDSP68/ CSP Wittenheim-Kingersheim |
 
-|
+Chef CSP |
 
-DDSP69/ CSP Lyon/ Caluire-Division ouest
+68 |
 
-|
+DDSP68/ Haut-Rhin-RT |
 
-Chef du commissariat subdivisionnaire
+Chef du SDRT |
 
-|
+70 |
 
-69
+DDSP70/ Haute-Saône |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP69/ CSP Lyon/ Oullins Pierre-Bénite-Division ouest
+70 |
 
-|
+DDSP70/ Haute-Saône-RT |
 
-Chef du commissariat subdivisionnaire
+Chef du SDRT |
 
-|
+71 |
 
-69
+DDSP71/ CSP Le Creusot |
 
-|
+Chef CSP |
 
-DDSP69/ CSP Lyon/ Rilleux-La-Pape-Division ouest
+71 |
 
-|
+DDSP71/ Saône-et-Loire-RT |
 
-Chef du commissariat subdivisionnaire
+Chef du SDRT |
 
-|
+88 |
 
-73
+DDSP88/ CSP Remiremont |
 
-|
+Chef CSP |
 
-DDSP73/ CSP Aix-Les-Bains
+88 |
 
-|
+DDSP88/ CSP Saint-Dié-des-Vosges |
 
-Chef CSP
+Chef CSP |
 
-|
+88 |
 
-73
+DDSP88/ Vosges |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP73/ CSP Albertville
+88 |
 
-|
+DDSP88/ Vosges-RT |
 
-Chef CSP
+Chef du SDRT |
 
-|
+89 |
 
-73
+DDSP89/ CSP Sens |
 
-|
+Directeur Départemental Adjoint et Chef CSP |
 
-DDSP73/ Savoie-RT
+89 |
 
-|
+DDSP89/ Yonne-RT |
 
-Chef du SDRT
+Chef du SDRT |
 
-|
+90 |
 
-73
+DDSP90/ Territoire de Belfort |
 
-|
+Directeur Départemental Adjoint |
 
-DDSP73/ CSP Chambéry-SD
+90 |
 
-|
+DDSP90/ Territoire de Belfort-RT |
 
-Chef SD
+Chef du SDRT |
 
-|
+SGAMI de Rennes |
 
-74
+43 |
 
-|
+14 |
 
-DDSP74/ Haute-Savoie-RT
+DDSP14/ CSP Dives-sur-Mer |
 
-|
+Chef CSP |
 
-Chef du SDRT
+14 |
 
-|
+DDSP14/ CSP Honfleur |
 
-SGAMI de Marseille
+Chef CSP |
 
-|
+14 |
 
-49
+DDSP14/ CSP Lisieux |
 
-|
+Chef CSP |
 
-4
+18 |
 
-|
+DDSP18/ CSP Vierzon |
 
-DDSP04/ Alpes-de-Haute-Provence
+Chef CSP |
 
-|
+22 |
 
-Directeur Départemental Adjoint
+DDSP22/ Côtes-d'Armor-RT |
 
-|
+Chef du SDRT |
 
-4
+22 |
 
-|
+DDSP22/ CSP Lannion |
 
-DDSP04/ Alpes-de-Haute-Provence-RT
+Chef CSP |
 
-|
+27 |
 
-Chef du SDRT
+DDSP27/ CSP Evreux-SD |
 
-|
+Chef SD |
 
-4
+27 |
 
-|
+DDSP27/ CSP Vernon |
 
-DDSP04/ CSP Manosque
+Chef CSP |
 
-|
+27 |
 
-Chef CSP
+DDSP27/ Eure-RT |
 
-|
+Chef du SDRT |
 
-5
+28 |
 
-|
+DDSP28/ CSP Chartres-SD |
 
-DDSP05/ CSP Briançon
+Chef SD |
 
-|
+28 |
 
-Chef CSP
+DDSP28/ Eure-et-Loir-RT |
 
-|
+Chef du SDRT |
 
-5
+29 |
 
-|
+DDSP29/ CSP Concarneau |
 
-DDSP05/ Hautes-Alpes
+Chef CSP |
 
-|
+29 |
 
-Directeur Départemental Adjoint
+DDSP29/ CSP Morlaix |
 
-|
+Chef CSP |
 
-5
+35 |
 
-|
+DDSP35/ CSP Fougères |
 
-DDSP05/ Hautes-Alpes-RT
+Chef CSP |
 
-|
+35 |
 
-Chef du SDRT
+DDSP35/ Ille-et-Vilaine |
 
-|
+Chef EMD |
 
-6
+35 |
 
-|
+DDSP35/ Ille-et-Vilaine |
 
-DDSP06/ Alpes Maritimes
+Chef SND |
 
-|
+36 |
 
-Chef SND
+DDSP36/ Indre |
 
-|
+Directeur Départemental Adjoint |
 
-9
+36 |
 
-|
+DDSP36/ Indre-RT |
 
-DDSP09/ Ariège
+Chef du SDRT |
 
-|
+37 |
 
-Directeur Départemental Adjoint
+DDSP37/ Indre-et-Loire-RT |
 
-|
+Chef du SDRT |
 
-9
+41 |
 
-|
+DDSP41/ CSP Vendôme |
 
-DDSP09/ Ariège-RT
+Chef CSP |
 
-|
+41 |
 
-Chef du SDRT
+DDSP41/ Loir-et-Cher |
 
-|
+Directeur Départemental Adjoint |
 
-9
+41 |
 
-|
+DDSP41/ Loir-et-Cher-RT |
 
-DDSP09/ CSP Pamiers
+Chef du SDRT |
 
-|
+44 |
 
-Chef CSP
+DDSP44/ Loire-Atlantique |
 
-|
+Chef EMD |
 
-11
+44 |
 
-|
+DDSP44/ Loire-Atlantique |
 
-DDSP11/ Aude-RT
+Chef SND |
 
-|
+49 |
 
-Chef du SDRT
+DDSP49/ CSP Saumur |
 
-|
+Chef CSP |
 
-12
+49 |
 
-|
+DDSP49/ Maine-et-Loire-RT |
 
-DDSP12/ Aveyron
+Chef du SDRT |
 
-|
+50 |
 
-Directeur Départemental Adjoint
+DDSP50/ CSP Coutances |
 
-|
+Chef CSP |
 
-12
+50 |
 
-|
+DDSP50/ CSP Granville |
 
-DDSP12/ Aveyron-RT
+Chef CSP |
 
-|
+50 |
 
-Chef du SDRT
+DDSP50/ CSP Saint-Lô-SD |
 
-|
+Chef SD |
 
-12
+50 |
 
-|
+DDSP50/ Manche-RT |
 
-DDSP12/ CSP Decazeville
+Chef du SDRT |
 
-|
+53 |
 
-Chef CSP
+DDSP53/ Mayenne |
 
-|
+Directeur Départemental Adjoint |
 
-12
+53 |
 
-|
+DDSP53/ Mayenne-RT |
 
-DDSP12/ CSP Millau
+Chef du SDRT |
 
-|
+56 |
 
-Chef CSP
+DDSP56/ Morbihan-RT |
 
-|
+Chef du SDRT |
 
-13
+61 |
 
-|
+DDSP61/ CSP Argentan |
 
-DDSP13/ SISTC Bouches-du-Rhône
+Chef CSP |
 
-|
+61 |
 
-Chef SISTC
+DDSP61/ CSP Flers-de-l'Orne |
 
-|
+Chef CSP |
 
-2A
+61 |
 
-|
+DDSP61/ Orne |
 
-DDSP2A/ CSP Ajaccio
+Directeur Départemental Adjoint |
 
-|
+61 |
 
-Chef SD
+DDSP61/ Orne-RT |
 
-|
+Chef du SDRT |
 
-2B
+72 |
 
-|
+DDSP72/ Sarthe-RT |
 
-DDSP2B/ CSP Bastia
+Chef du SDRT |
 
-|
+76 |
 
-Chef SD
+DDSP76/ Seine Maritime |
 
-|
+Chef SND |
 
-2B
+76 |
 
-|
+DDSP76/ CSP Bolbec-Lillebonne |
 
-DDSP2B/ Haute-Corse-RT
+Chef CSP |
 
-|
+76 |
 
-Chef du SDRT
+DDSP76/ CSP Dieppe |
 
-|
+Chef CSP |
 
-13
+76 |
 
-|
+DDSP76/ CSP Fécamp |
 
-DDSP30/ CISP Tarascon-Beaucaire
+Chef CSP |
 
-|
+85 |
 
-Chef CSP
+DDSP85/ Vendée-RT |
 
-|
-
-30
-
-|
-
-DDSP30/ CSP Bagnols-sur-Cèze
-
-|
-
-Chef CSP
-
-|
-
-30
-
-|
-
-DDSP30/ Gard-RT
-
-|
-
-Chef du SDRT
-
-|
-
-31
-
-|
-
-DDSP31/ CSP Saint-Gaudens
-
-|
-
-Chef CSP
-
-|
-
-31
-
-|
-
-DDSP31/ Haute-Garonne
-
-|
-
-CTCC
-
-|
-
-31
-
-|
-
-DDSP31/ CSP Toulouse/ Division Toulouse Rive Gauche
-
-|
-
-Chef SU
-
-|
-
-31
-
-|
-
-DDSP31/ Haute-Garonne-SND
-
-|
-
-Chef SND
-
-|
-
-32
-
-|
-
-DDSP32/ Gers
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-32
-
-|
-
-DDSP32/ Gers-RT
-
-|
-
-Chef du SDRT
-
-|
-
-34
-
-|
-
-DDSP34/ Hérault
-
-|
-
-Chef EMD
-
-|
-
-34
-
-|
-
-DDSP34/ Hérault
-
-|
-
-Chef SND
-
-|
-
-46
-
-|
-
-DDSP46/ Lot
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-46
-
-|
-
-DDSP46/ Lot-RT
-
-|
-
-Chef du SDRT
-
-|
-
-48
-
-|
-
-DDSP48/ Lozère
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-48
-
-|
-
-DDSP48/ Lozère-RT
-
-|
-
-Chef du SDRT
-
-|
-
-65
-
-|
-
-DDSP65/ CSP Lourdes
-
-|
-
-Chef CSP
-
-|
-
-65
-
-|
-
-DDSP65/ Hautes-Pyrénées
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-65
-
-|
-
-DDSP65/ Hautes-Pyrénées-RT
-
-|
-
-Chef du SDRT
-
-|
-
-66
-
-|
-
-DDSP66/ Pyrénées-Orientales-RT
-
-|
-
-Chef du SDRT
-
-|
-
-81
-
-|
-
-DDSP81/ CSP Carmaux
-
-|
-
-Chef CSP
-
-|
-
-81
-
-|
-
-DDSP81/ CSP Mazamet
-
-|
-
-Chef CSP
-
-|
-
-81
-
-|
-
-DDSP81/ Tarn-RT
-
-|
-
-Chef du SDRT
-
-|
-
-82
-
-|
-
-DDSP82/ CSP Castelsarrasin
-
-|
-
-Chef CSP
-
-|
-
-82
-
-|
-
-DDSP82/ Tarn-et-Garonne
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-82
-
-|
-
-DDSP82/ Tarn-et-Garonne-RT
-
-|
-
-Chef du SDRT
-
-|
-
-83
-
-|
-
-DDSP83/ Var
-
-|
-
-Chef EMD
-
-|
-
-83
-
-|
-
-DDSP83/ Var
-
-|
-
-Chef SND
-
-|
-
-84
-
-|
-
-DDSP84/ CSP Cavaillon
-
-|
-
-Chef CSP
-
-|
-
-84
-
-|
-
-DDSP84/ CSP Orange
-
-|
-
-Chef CSP
-
-|
-
-84
-
-|
-
-DDSP84/ Vaucluse-RT
-
-|
-
-Chef du SDRT
-
-|
-
-SGAMI de Metz
-
-|
-
-50
-
-|
-
-8
-
-|
-
-DDSP08/ Ardennes
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-8
-
-|
-
-DDSP08/ Ardennes-RT
-
-|
-
-Chef du SDRT
-
-|
-
-8
-
-|
-
-DDSP08/ CSP Sedan
-
-|
-
-Chef CSP
-
-|
-
-10
-
-|
-
-DDSP10/ Aube-RT
-
-|
-
-Chef du SDRT
-
-|
-
-21
-
-|
-
-DDSP21/ CSP Beaune
-
-|
-
-Chef CSP
-
-|
-
-25
-
-|
-
-DDSP25/ CSP Pontarlier
-
-|
-
-Chef CSP
-
-|
-
-39
-
-|
-
-DDSP39/ CSP Dôle
-
-|
-
-Chef CSP
-
-|
-
-39
-
-|
-
-DDSP39/ Jura
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-39
-
-|
-
-DDSP39/ Jura-RT
-
-|
-
-Chef du SDRT
-
-|
-
-52
-
-|
-
-DDSP52/ CSP Saint-Dizier
-
-|
-
-Chef CSP
-
-|
-
-52
-
-|
-
-DDSP52/ Haute-Marne
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-52
-
-|
-
-DDSP52/ Haute-Marne-RT
-
-|
-
-Chef du SDRT
-
-|
-
-54
-
-|
-
-DDSP54/ CSP Briey
-
-|
-
-Chef CSP
-
-|
-
-54
-
-|
-
-DDSP54/ CSP Conflans-en-Jarnisy
-
-|
-
-Chef CSP
-
-|
-
-54
-
-|
-
-DDSP54/ CSP Dombasle-sur-Meurthe
-
-|
-
-Chef CSP
-
-|
-
-54
-
-|
-
-DDSP54/ CSP Lunéville
-
-|
-
-Chef CSP
-
-|
-
-54
-
-|
-
-DDSP54/ CSP Pont-à-Mousson
-
-|
-
-Chef CSP
-
-|
-
-54
-
-|
-
-DDSP54/ CSP Toul
-
-|
-
-Chef CSP
-
-|
-
-54
-
-|
-
-DDSP54/ Meurthe-et-Moselle
-
-|
-
-Chef EMD
-
-|
-
-54
-
-|
-
-DDSP54/ Meurthe-et-Moselle
-
-|
-
-Chef SND
-
-|
-
-54
-
-|
-
-DDSP54/ Meurthe-et-Moselle-RT
-
-|
-
-Chef du SDRT
-
-|
-
-55
-
-|
-
-DDSP55/ CSP Verdun
-
-|
-
-Chef CSP
-
-|
-
-55
-
-|
-
-DDSP55/ Meuse
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-55
-
-|
-
-DDSP55/ Meuse-RT
-
-|
-
-Chef du SDRT
-
-|
-
-57
-
-|
-
-DDSP57/ Moselle
-
-|
-
-Chef EMD
-
-|
-
-57
-
-|
-
-DDSP57/ Moselle
-
-|
-
-Chef SND
-
-|
-
-57
-
-|
-
-DDSP57/ CSP Freyming-Merlebach
-
-|
-
-Chef CSP
-
-|
-
-57
-
-|
-
-DDSP57/ CSP Sarrebourg
-
-|
-
-Chef CSP
-
-|
-
-57
-
-|
-
-DDSP57/ CSP Sarreguemines
-
-|
-
-Chef CSP
-
-|
-
-58
-
-|
-
-DDSP58/ Nièvre
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-58
-
-|
-
-DDSP58/ Nièvre-RT
-
-|
-
-Chef du SDRT
-
-|
-
-67
-
-|
-
-DDSP67/ Bas-Rhin
-
-|
-
-Chef EMD
-
-|
-
-67
-
-|
-
-DDSP67/ Bas-Rhin
-
-|
-
-Chef SND
-
-|
-
-67
-
-|
-
-DDSP67/ CSP Haguenau
-
-|
-
-Chef CSP
-
-|
-
-67
-
-|
-
-DDSP67/ CSP Sélestat
-
-|
-
-Chef CSP
-
-|
-
-68
-
-|
-
-DDSP68/ CSP Saint-Louis
-
-|
-
-Chef CSP
-
-|
-
-68
-
-|
-
-DDSP68/ CSP Wittenheim-Kingersheim
-
-|
-
-Chef CSP
-
-|
-
-68
-
-|
-
-DDSP68/ Haut-Rhin-RT
-
-|
-
-Chef du SDRT
-
-|
-
-70
-
-|
-
-DDSP70/ Haute-Saône
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-70
-
-|
-
-DDSP70/ Haute-Saône-RT
-
-|
-
-Chef du SDRT
-
-|
-
-71
-
-|
-
-DDSP71/ CSP Le Creusot
-
-|
-
-Chef CSP
-
-|
-
-71
-
-|
-
-DDSP71/ Saône-et-Loire-RT
-
-|
-
-Chef du SDRT
-
-|
-
-88
-
-|
-
-DDSP88/ CSP Remiremont
-
-|
-
-Chef CSP
-
-|
-
-88
-
-|
-
-DDSP88/ CSP Saint-Dié-des-Vosges
-
-|
-
-Chef CSP
-
-|
-
-88
-
-|
-
-DDSP88/ Vosges
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-88
-
-|
-
-DDSP88/ Vosges-RT
-
-|
-
-Chef du SDRT
-
-|
-
-89
-
-|
-
-DDSP89/ CSP Sens
-
-|
-
-Directeur Départemental Adjoint et Chef CSP
-
-|
-
-89
-
-|
-
-DDSP89/ Yonne-RT
-
-|
-
-Chef du SDRT
-
-|
-
-90
-
-|
-
-DDSP90/ Territoire de Belfort
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-90
-
-|
-
-DDSP90/ Territoire de Belfort-RT
-
-|
-
-Chef du SDRT
-
-|
-
-SGAMI de Rennes
-
-|
-
-43
-
-|
-
-14
-
-|
-
-DDSP14/ CSP Dives-sur-Mer
-
-|
-
-Chef CSP
-
-|
-
-14
-
-|
-
-DDSP14/ CSP Honfleur
-
-|
-
-Chef CSP
-
-|
-
-14
-
-|
-
-DDSP14/ CSP Lisieux
-
-|
-
-Chef CSP
-
-|
-
-18
-
-|
-
-DDSP18/ CSP Vierzon
-
-|
-
-Chef CSP
-
-|
-
-22
-
-|
-
-DDSP22/ Côtes-d'Armor-RT
-
-|
-
-Chef du SDRT
-
-|
-
-22
-
-|
-
-DDSP22/ CSP Lannion
-
-|
-
-Chef CSP
-
-|
-
-27
-
-|
-
-DDSP27/ CSP Evreux-SD
-
-|
-
-Chef SD
-
-|
-
-27
-
-|
-
-DDSP27/ CSP Vernon
-
-|
-
-Chef CSP
-
-|
-
-27
-
-|
-
-DDSP27/ Eure-RT
-
-|
-
-Chef du SDRT
-
-|
-
-28
-
-|
-
-DDSP28/ CSP Chartres-SD
-
-|
-
-Chef SD
-
-|
-
-28
-
-|
-
-DDSP28/ Eure-et-Loir-RT
-
-|
-
-Chef du SDRT
-
-|
-
-29
-
-|
-
-DDSP29/ CSP Concarneau
-
-|
-
-Chef CSP
-
-|
-
-29
-
-|
-
-DDSP29/ CSP Morlaix
-
-|
-
-Chef CSP
-
-|
-
-35
-
-|
-
-DDSP35/ CSP Fougères
-
-|
-
-Chef CSP
-
-|
-
-35
-
-|
-
-DDSP35/ Ille-et-Vilaine
-
-|
-
-Chef EMD
-
-|
-
-35
-
-|
-
-DDSP35/ Ille-et-Vilaine
-
-|
-
-Chef SND
-
-|
-
-36
-
-|
-
-DDSP36/ Indre
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-36
-
-|
-
-DDSP36/ Indre-RT
-
-|
-
-Chef du SDRT
-
-|
-
-37
-
-|
-
-DDSP37/ Indre-et-Loire-RT
-
-|
-
-Chef du SDRT
-
-|
-
-41
-
-|
-
-DDSP41/ CSP Vendôme
-
-|
-
-Chef CSP
-
-|
-
-41
-
-|
-
-DDSP41/ Loir-et-Cher
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-41
-
-|
-
-DDSP41/ Loir-et-Cher-RT
-
-|
-
-Chef du SDRT
-
-|
-
-44
-
-|
-
-DDSP44/ Loire-Atlantique
-
-|
-
-Chef EMD
-
-|
-
-44
-
-|
-
-DDSP44/ Loire-Atlantique
-
-|
-
-Chef SND
-
-|
-
-49
-
-|
-
-DDSP49/ CSP Saumur
-
-|
-
-Chef CSP
-
-|
-
-49
-
-|
-
-DDSP49/ Maine-et-Loire-RT
-
-|
-
-Chef du SDRT
-
-|
-
-50
-
-|
-
-DDSP50/ CSP Coutances
-
-|
-
-Chef CSP
-
-|
-
-50
-
-|
-
-DDSP50/ CSP Granville
-
-|
-
-Chef CSP
-
-|
-
-50
-
-|
-
-DDSP50/ CSP Saint-Lô-SD
-
-|
-
-Chef SD
-
-|
-
-50
-
-|
-
-DDSP50/ Manche-RT
-
-|
-
-Chef du SDRT
-
-|
-
-53
-
-|
-
-DDSP53/ Mayenne
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-53
-
-|
-
-DDSP53/ Mayenne-RT
-
-|
-
-Chef du SDRT
-
-|
-
-56
-
-|
-
-DDSP56/ Morbihan-RT
-
-|
-
-Chef du SDRT
-
-|
-
-61
-
-|
-
-DDSP61/ CSP Argentan
-
-|
-
-Chef CSP
-
-|
-
-61
-
-|
-
-DDSP61/ CSP Flers-de-l'Orne
-
-|
-
-Chef CSP
-
-|
-
-61
-
-|
-
-DDSP61/ Orne
-
-|
-
-Directeur Départemental Adjoint
-
-|
-
-61
-
-|
-
-DDSP61/ Orne-RT
-
-|
-
-Chef du SDRT
-
-|
-
-72
-
-|
-
-DDSP72/ Sarthe-RT
-
-|
-
-Chef du SDRT
-
-|
-
-76
-
-|
-
-DDSP76/ Seine Maritime
-
-|
-
-Chef SND
-
-|
-
-76
-
-|
-
-DDSP76/ CSP Bolbec-Lillebonne
-
-|
-
-Chef CSP
-
-|
-
-76
-
-|
-
-DDSP76/ CSP Dieppe
-
-|
-
-Chef CSP
-
-|
-
-76
-
-|
-
-DDSP76/ CSP Fécamp
-
-|
-
-Chef CSP
-
-|
-
-85
-
-|
-
-DDSP85/ Vendée-RT
-
-|
-
-Chef du SDRT
-
-|
+Chef du SDRT |
 
 DRCPN : 1 poste
 
-DEPT
+DEPT |
 
-|
+AFFECTATIONS |
 
-AFFECTATIONS
+FONCTIONS |
 
-|
+Services Centraux |
 
-FONCTIONS
+1 |
 
-|
+75 |
 
-Services Centraux
+DRCPN/ SDARH/ Mission du Temps de Travail |
 
-|
+Chef de la mission |
 
-1
+DTPN : 35 postes
 
-|
+DEPT |
 
-75
+AFFECTATION |
 
-|
+FONCTIONS |
 
-DRCPN/ SDARH/ Mission du Temps de Travail
+SATPN de Guadeloupe |
 
-|
+6 |
 
-Chef de la mission
+971 |
 
-|
+DTPN/971/ STSP |
 
-DTPN : 36 postes
+Chef CPN Basse-Terre |
 
-DEPT
+971 |
 
-|
+DTPN/971 DTPJ/ Pointe à Pitre/ OFAST |
 
-AFFECTATION
+Chef du détachement de l'antenne OFAST Caraïbes de Pointe à Pitre |
 
-|
+971 |
 
-FONCTIONS
+DTPN/971/ STRF |
 
-|
+Chef du STRF |
 
-SATPN de Guadeloupe
+971 |
 
-|
+DTPN/971/ SRT |
 
-7
+Chef SRT |
 
-|
+971 |
 
-971
+DTPN/971/ GIR Pointe à Pitre |
 
-|
+Chef GIR |
 
-DTPN/971/ STSP
+971 |
 
-|
+DTPN/971/ EM |
 
-Chef CPN Basse-Terre
+Chef SND |
 
-|
+SATPN de Martinique |
 
-971
+4 |
 
-|
+972 |
 
-DTPN/971 DTPJ/ Pointe à Pitre/ OFAST
+DTPN/972/ CPN Le Lamentin |
 
-|
+Chef de circonscription de la police nationale (CPN) |
 
-Chef du détachement de l'antenne OFAST Caraïbes de Pointe à Pitre
+972 |
 
-|
+DTPN/972/ EM |
 
-971
+Chef SND |
 
-|
+972 |
 
-DTPN/971/ STRF
+DTPN/972/ Fort de France/ EMT |
 
-|
+Chef EM territorial |
 
-Chef du STRF
+972 |
 
-|
+DTPN/972/ STPJ |
 
-971
+Adjoint chef STPJ |
 
-|
+SATPN de Guyane |
 
-DTPN/971/ SRT
+9 |
 
-|
+973 |
 
-Chef SRT
+DTPN/973/ EM |
 
-|
+Chef d'état-major |
 
-971
+973 |
 
-|
+DTPN/973/ EM |
 
-DTPN/971/ GIR Pointe à Pitre
+Chef SND |
 
-|
+973 |
 
-Chef GIR
+DTPN/973/ STPJ |
 
-|
+Adjoint au chef STPJ |
 
-971
+973 |
 
-|
+DTPN/973/ STSP/ CSP |
 
-DTPN/971/ EM
+Adjoint au chef STSP |
 
-|
+973 |
 
-Chef SND
+DTPN/973/ STPAF |
 
-|
+Adjoint au chef STPAF |
 
-971
+973 |
 
-|
+DTPN/973/ STPAF |
 
-DTPN/971/ ST RAID
+Chef SPAFT Saint Georges de l'Oyapock |
 
-|
+973 |
 
-Chef du service territorial du RAID
+DTPN/973/ STPAF |
 
-|
+Chef SPAFT Saint Laurent du Maroni |
 
-SATPN de Martinique
+973 |
 
-|
+DTPN/973/ STRF |
 
-3
+Chef du STRF |
 
-|
+973 |
 
-972
+DTPN/973/ STRT |
 
-|
+Adjoint au chef STRT |
 
-DTPN/972/ STPJ
+SATPN de La Réunion |
 
-|
+4 |
 
-Adjoint chef STPJ
+974 |
 
-|
+DTPN/974/ EM/ SND |
 
-972
+Chef SND |
 
-|
+974 |
 
-DTPN/972/ EM
+DTPN/974/ STSP Saint-André |
 
-|
+Chef de circonscription de la police nationale (CPN) |
 
-Chef SND
+974 |
 
-|
+DTPN/974/ STRF |
 
-972
+Chef du STRF |
 
-|
+SATPN de Mayotte |
 
-DTPN/972/ CPN Le Lamentin
+7 |
 
-|
+976 |
 
-Chef de circonscription de la police nationale (CPN)
+DTPN/976/ STPAF |
 
-|
+Adjoint chef STPAF |
 
-SATPN de Guyane
+976 |
 
-|
+DTPN/976/ STPAF |
 
-9
+Chef CRA |
 
-|
+976 |
 
-973
+DTPN/976/ STSP |
 
-|
+Adjoint au chef STSP |
 
-DTPN/973/ EM
+976 |
 
-|
+DTPN/976/ EM |
 
-Chef d'état-major
+Chef d'état-major |
 
-|
+976 |
 
-973
+DTPN/976/ EM |
 
-|
+Chef SND |
 
-DTPN/973/ EM
+976 |
 
-|
+DTPN/976/ STPJ |
 
-Chef SND
+Chef STPJ |
 
-|
+976 |
 
-973
+DTPN976/ STRT |
 
-|
+Chef STRT |
 
-DTPN/973/ STPJ
+SATPN de Polynésie |
 
-|
+3 |
 
-Adjoint au chef STPJ
+987 |
 
-|
+DTPN/987 |
 
-973
+DTPN adjoint |
 
-|
+987 |
 
-DTPN/973/ STSP/ CSP
+DTPN/987/ SRT Résidence Papeete |
 
-|
+Chef SRT |
 
-Adjoint au chef STSP
+987 |
 
-|
+DTPN/987/ STPAF Résidence Papeete |
 
-973
+Chef STPAF |
 
-|
+SATPN de Nouvelle-Calédonie |
 
-DTPN/973/ STPAF
+2 |
 
-|
+988 |
 
-Adjoint au chef STPAF
+DTPN/988/ STPAF |
 
-|
+Chef STPAF |
 
-973
+988 |
 
-|
+DTPN/988/ STPJ |
 
-DTPN/973/ STPAF
+Adjoint au chef STPJ-Chef du service d'investigations |
 
-|
+PP : 126 postes
 
-Chef SPAFT Saint Georges de l'Oyapock
+DEPT |
 
-|
+AFFECTATIONS |
 
-973
+FONCTIONS |
 
-|
+Direction de l'Ordre Public et de la Circulation |
 
-DTPN/973/ STPAF
+15 |
 
-|
+75 |
 
-Chef SPAFT Saint Laurent du Maroni
+DOPC/ EM |
 
-|
+Chef du service du centre d'information et de commandement |
 
-973
+75 |
 
-|
+DOPC/ EM/ SMS |
 
-DTPN/973/ STRF
+Chef du service de la modernisation et de la stratégie |
 
-|
+75 |
 
-Chef du STRF
+DOPC/ SDOPAP/ DII |
 
-|
+Chef du service du groupement d'information de voie publique |
 
-973
+75 |
 
-|
+DOPC/ SDOPAP/ DII/ SGCI/ SOPCI2/ BRIGADE DE REPRESSION DES ACTIONS VIOLENTES MOTOCYCLISTE |
 
-DTPN/973/ STRT
+Chef de la BRAV M |
 
-|
+75 |
 
-Adjoint au chef STRT
+DOPC/ SDOPAP/ DUOS/ PI |
 
-|
+Chef du service du groupe d'intervention et de protection |
 
-SATPN de La Réunion
+75 |
 
-|
+DOPC/ SDOPAP/ DUOS/ PI |
 
-4
+Chef du service de la brigade fluviale |
 
-|
+75 |
 
-974
+DOPC/ SDOPAP/ DUOS/ PAO/ SERVICE DU SOUTIEN OPERATIONNEL |
 
-|
+Chef de service |
 
-DTPN/974/ STSP Saint-André
+75 |
 
-|
+DOPC/ EM/ BEMO |
 
-Chef de circonscription de la police nationale (CPN)
+Chef du service du bureau de l'état-major opérationnel |
 
-|
+75 |
 
-974
+DOPC/ SDPIGTAP/ DGE |
 
-|
+Chef du service de garde et de sûreté du tribunal de Paris |
 
-DTPN/974/ STRF
+75 |
 
-|
+DOPC/ SDPIGTAP/ DSPI/ SPS |
 
-Chef du STRF
+Chef du service de protection et de sécurisation |
 
-|
+75 |
 
-974
+DOPC/ SDPIGTAP/ DSPI/ SGI/ CGE |
 
-|
+Chef du service de la compagnie de garde de l'Elysée |
 
-DTPN/974/ GIR Réunion
+75 |
 
-|
+DOPC/ SDPIGTAP/ DSPI/ SGI/ COMPAGNIE DE SECURISATION DE LA CITE |
 
-Chef GIR
+Chef de la compagnie de sécurisation de la Cité |
 
-|
+75 |
 
-974
+DOPC/ SDRCSR/ DRC/ SCCC |
 
-|
+Chef du service des compagnies centrales de circulation |
 
-DTPN/974/ ST RAID
+75 |
 
-|
+DOPC/ SDRCSR/ DRC/ SCCC |
 
-Chef du service territorial du RAID
+Chef du service de circulation du périphérique |
 
-|
+75 |
 
-SATPN de Mayotte
+DOPC/ SDRCSR/ DRM/ SCM |
 
-|
+Chef du service des compagnies motocyclistes |
 
-7
+Direction de la Police Judiciaire |
 
-|
+20 |
 
-976
+75 |
 
-|
+DPJ/ SDAEF/ BF |
 
-DTPN/976/ STPAF
+Chef de section-Brigade financière |
 
-|
+75 |
 
-Adjoint chef STPAF
+DPJ/ SDAEF/ BF |
 
-|
+Chef de section-Brigade financière |
 
-976
+75 |
 
-|
+DPJ/ SDAEF/ BFMP |
 
-DTPN/976/ STPAF
+Adjoint au chef de service-Brigade des Fraudes aux Moyens de Paiement |
 
-|
+75 |
 
-Chef CRA
+DPJ/ SDAEF/ BRDA |
 
-|
+Adjoint au chef de service-Brigade de Répression de la Délinquance Astucieuse |
 
-976
+75 |
 
-|
+DPJ/ SDAEF/ BRDE |
 
-DTPN/976/ STSP
+Adjoint au chef de service-Brigade de Répression de la Délinquance Économique |
 
-|
+75 |
 
-Adjoint au chef STSP
+DPJ/ SDBC/ BC |
 
-|
+Chef de section C2-Brigade criminelle |
 
-976
+75 |
 
-|
+DPJ/ SDBC/ BC |
 
-DTPN/976/ EM
+Chef de section T3-Brigade criminelle |
 
-|
+75 |
 
-Chef d'état-major
+DPJ/ SDBC/ BEDJ |
 
-|
+Adjoint au chef de service-Brigade d'Exécution des Décisions de Justice |
 
-976
+75 |
 
-|
+DPJ/ SDBC/ BPM |
 
-DTPN/976/ EM
+Chef de section-Enquêtes intrafamiliales (Brigade de Protection des Mineurs) |
 
-|
+75 |
 
-Chef SND
+DPJ/ SDBC/ BRB |
 
-|
+Chef de section-Brigade de répression du banditisme |
 
-976
+75 |
 
-|
+DPJ/ SDBC/ BS |
 
-DTPN/976/ STPJ
+Chef de section 2-Brigade de stupéfiants |
 
-|
+75 |
 
-Chef STPJ
+DPJ/ SDBC/ BS |
 
-|
+Chef de section 3-Brigade de stupéfiants |
 
-976
+75 |
 
-|
+DPJ/ SDSI/ SGO/ SIPJ |
 
-DTPN976/ STRT
+Chef du service informatique |
 
-|
+75 |
 
-Chef STRT
+DPJ/ SDST/ 1er DPJ |
 
-|
+Chef de section enquêtes criminelles et vols par effractions |
 
-SATPN de Polynésie
+75 |
 
-|
+DPJ/ SDST/ 2nd DPJ |
 
-3
+Chef de section-Affaires criminelles |
 
-|
+75 |
 
-987
+DPJ/ SDST/ 2nd DPJ |
 
-|
+Chef de section-Enquêtes et recherches |
 
-DTPN/987
+75 |
 
-|
+DPJ/ SDST/ 3è DPJ |
 
-DTPN adjoint
+Chef de section groupes enquêtes répression du banditisme et vol avec effraction |
 
-|
+92 |
 
-987
+DPJ/ SDST/ SDPJ92 |
 
-|
+Chef de section-Enquêtes générales, financières et anti-terroristes |
 
-DTPN/987/ SRT Résidence Papeete
+93 |
 
-|
+DPJ/ SDST/ SDPJ93 |
 
-Chef SRT
+Chef de section-Enquêtes et recherches |
 
-|
+94 |
 
-987
+DPJ/ SDST/ SDPJ94 |
 
-|
+Chef de section-Enquêtes et recherches |
 
-DTPN/987/ STPAF Résidence Papeete
+Direction des Ressources Humaines |
 
-|
+1 |
 
-Chef STPAF
+75 |
 
-|
+DRH/ SDF |
 
-SATPN de Nouvelle-Calédonie
+Chef du département des formations à la sous-direction de la formation |
 
-|
+Direction de la Sécurité de Proximité de l'Agglomération Parisienne |
 
-3
+83 |
 
-|
+75 |
 
-988
+DSPAP/ DT75/ D1/ PC |
 
-|
+Chef du service de traitement judiciaire de nuit |
 
-DTPN/988/ STPAF
+75 |
 
-|
+DSPAP/ DT75/ D1/ Centre |
 
-Chef STPAF
+Chef SSQ |
 
-|
+75 |
 
-988
+DSPAP/ DT75/ D1/ CP08 |
 
-|
+Chef SSQ |
 
-DTPN/988/ STPJ
+75 |
 
-|
+DSPAP/ DT75/ D1/ CP09 |
 
-Adjoint au chef STPJ-Chef du service d'investigations
+Chef SAIP |
 
-|
+75 |
 
-988
+DSPAP/ DT75/ D1/ CP09 |
 
-|
+Chef SSQ |
 
-DTPN/988/ STRAID
+75 |
 
-|
+DSPAP/ DT75/ D1/ CP16 |
 
-Chef du service territorial du RAID
+Chef SSQ |
 
-|
+75 |
 
-PP : 120 postes
+DSPAP/ DT75/ D1/ CP17 |
 
-DEPT
+Chef SAIP |
 
-|
+75 |
 
-AFFECTATIONS
+DSPAP/ DT75/ D1/ CP17 |
 
-|
+Chef SSQ |
 
-FONCTIONS
+75 |
 
-|
+DSPAP/ DT75/ D2/ CP10 |
 
-Direction de l'Ordre Public et de la Circulation
+Chef SSQ |
 
-|
+75 |
 
-15
+DSPAP/ DT75/ D2/ CP11 |
 
-|
+Chef SSQ |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D2/ CP12 |
 
-DOPC/ EM
+Chef SAIP |
 
-|
+75 |
 
-Chef du service du centre d'information et de commandement
+DSPAP/ DT75/ D2/ CP12 |
 
-|
+Chef SSQ |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D2/ CP18 |
 
-DOPC/ EM/ SMS
+Chef SSQ |
 
-|
+75 |
 
-Chef du service de la modernisation et de la stratégie
+DSPAP/ DT75/ D2/ CP18 |
 
-|
+Chef des unités judiciaires-Adjoint chef SAIP 18 |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D2/ CP19 |
 
-DOPC/ SDOPAP/ DII
+Chef SSQ |
 
-|
+75 |
 
-Chef du service du groupement d'information de voie publique
+DSPAP/ DT75/ D2/ CP20 |
 
-|
+Chef du service de traitement judiciaire de nuit |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D2/ CP20 |
 
-DOPC/ SDOPAP/ DII/ SGCI/ SOPCI2/ BRIGADE DE REPRESSION DES ACTIONS VIOLENTES MOTOCYCLISTE
+Chef SSQ |
 
-|
+75 |
 
-Chef de la BRAV M
+DSPAP/ DT75/ D3/ CP05/06 |
 
-|
+Chef du service de traitement judiciaire de nuit |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D3/ CP05/06 |
 
-DOPC/ SDOPAP/ DUOS/ PI
+Chef SSQ |
 
-|
+75 |
 
-Chef du service du groupe d'intervention et de protection
+DSPAP/ DT75/ D3/ CP05/06 |
 
-|
+Chef SAIP |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D3/ CP07 |
 
-DOPC/ SDOPAP/ DUOS/ PI
+Chef SAIP |
 
-|
+75 |
 
-Chef du service de la brigade fluviale
+DSPAP/ DT75/ D3/ CP07 |
 
-|
+Chef SSQ |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D3/ CP13 |
 
-DOPC/ SDOPAP/ DUOS/ PAO/ SERVICE DU SOUTIEN OPERATIONNEL
+Chef SSQ |
 
-|
+75 |
 
-Chef de service
+DSPAP/ DT75/ D3/ CP14 |
 
-|
+Chef SAIP |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ D3/ CP14 |
 
-DOPC/ EM/ BEMO
+Chef SSQ |
 
-|
+75 |
 
-Chef du service du bureau de l'état-major opérationnel
+DSPAP/ DT75/ D3/ CP15 |
 
-|
+Chef SSQ |
 
-75
+75 |
 
-|
+DSPAP/ DT75/ OMP |
 
-DOPC/ SDPIGTAP/ DGE
+Chef du service du contentieux au sein de l'officier du ministère public de Paris |
 
-|
+75 |
 
-Chef du service de garde et de sûreté du tribunal de Paris
+DSPAP/ DT75/ ST75 |
 
-|
+Chef des unités judiciaires |
 
-75
+75 |
 
-|
+DSPAP/ EM |
 
-DOPC/ SDPIGTAP/ DSPI/ SPS
+Chef de la division Etudes |
 
-|
+75 |
 
-Chef du service de protection et de sécurisation
+DSPAP/ EM |
 
-|
+Chef du pôle information et commandement |
 
-75
+75 |
 
-|
+DSPAP/ EM |
 
-DOPC/ SDPIGTAP/ DSPI/ SGI/ CGE
+Chef du pôle planification |
 
-|
+75 |
 
-Chef du service de la compagnie de garde de l'Elysée
+DSPAP/ SDLII/ DCRA |
 
-|
+Chef service |
 
-75
+75 |
 
-|
+DSPAP/ SDRPT/ BRF/ DPGP |
 
-DOPC/ SDPIGTAP/ DSPI/ SGI/ COMPAGNIE DE SECURISATION DE LA CITE
+Chef du département de protection des gares parisiennes |
 
-|
+75 |
 
-Chef de la compagnie de sécurisation de la Cité
+DSPAP/ SDRPT/ BRF/ DSG |
 
-|
+Chef du service de sécurisation nocturne des réseaux |
 
-75
+75 |
 
-|
+DSPAP/ SDRPT/ BRF/ DSG |
 
-DOPC/ SDRCSR/ DRC/ SCCC
+Chef du service de sécurisation générale des réseaux |
 
-|
+75 |
 
-Chef du service des compagnies centrales de circulation
+DSPAP/ SDRPT/ BRF/ SRT |
 
-|
+Chef des unités opérationnelles |
 
-75
+75 |
 
-|
+DSPAP/ SDSO/ SAS |
 
-DOPC/ SDRCSR/ DRC/ SCCC
+Chef du service d'accompagnement et de soutien |
 
-|
+75 |
 
-Chef du service de circulation du périphérique
+DSPAP/ SDSO/ SDSE |
 
-|
+Chef du service de déontologie, de synthèse et d'évaluation |
 
-75
+75 |
 
-|
+DSPAP/ SATN |
 
-DOPC/ SDRCSR/ DRM/ SCM
+Chef du service d'accompagnement de la transition numérique |
 
-|
+75 |
 
-Chef du service des compagnies motocyclistes
+DSPAP/ SDSS/ BAPSA |
 
-|
+Chef de la brigade d'assistance aux personnes sans abri |
 
-Direction de la Police Judiciaire
+75 |
 
-|
+DSPAP/ SDSS/ CCA |
 
-20
+Chef de l'unité cynophile |
 
-|
+75 |
 
-75
+DSPAP/ SDSS/ SCSI/ CSI75 |
 
-|
+Chef des unités d'intervention et de soutien opérationnel de la CSI75 |
 
-DPJ/ SDAEF/ BF
+92 |
 
-|
+DSPAP/ DT92/ Hauts-de-Seine/ UAO |
 
-Chef de section-Brigade financière
+Chef UAO |
 
-|
+92 |
 
-75
+DSPAP/ DT92/ D1/ Asnières-sur-Seine |
 
-|
+Chef SAIP |
 
-DPJ/ SDAEF/ BF
+92 |
 
-|
+DSPAP/ DT92/ D1/ Villeneuve-la-Garenne |
 
-Chef de section-Brigade financière
+Chef CSP |
 
-|
+92 |
 
-75
+DSPAP/ DT92/ D1/ Gennevilliers |
 
-|
+Chef SAIP |
 
-DPJ/ SDAEF/ BFMP
+92 |
 
-|
+DSPAP/ DT92/ D1/ Gennevilliers |
 
-Adjoint au chef de service-Brigade des Fraudes aux Moyens de Paiement
+Chef SSQ |
 
-|
+92 |
 
-75
+DSPAP/ DT92/ D2/ La Garenne-Colombes |
 
-|
+Chef CSP |
 
-DPJ/ SDAEF/ BRDA
+92 |
 
-|
+DSPAP/ DT92/ D2/ Nanterre |
 
-Adjoint au chef de service-Brigade de Répression de la Délinquance Astucieuse
+Chef SAIP |
 
-|
+92 |
 
-75
+DSPAP/ DT92/ D2/ Nanterre |
 
-|
+Chef SSQ |
 
-DPJ/ SDAEF/ BRDE
+92 |
 
-|
+DSPAP/ SDSS/ SCSI/ CSI92 |
 
-Adjoint au chef de service-Brigade de Répression de la Délinquance Économique
+Chef CSI92 |
 
-|
+92 |
 
-75
+DSPAP/ SDSS/ SN92 |
 
-|
+Chef de l'unité de coordination opérationnelle des services de nuit |
 
-DPJ/ SDBC/ BC
+93 |
 
-|
+DSPAP/ DT93/ Seine-Saint-Denis/ UAO |
 
-Chef de section C2-Brigade criminelle
+Chef UAO |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D1/ Bobigny |
 
-|
+Chef du commissariat subdivisionnaire de Noisy-le-Sec |
 
-DPJ/ SDBC/ BC
+93 |
 
-|
+DSPAP/ DT93/ D1/ Bobigny |
 
-Chef de section T3-Brigade criminelle
+Chef SAIP |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D1/ Bobigny |
 
-|
+Chef SSQ |
 
-DPJ/ SDBC/ BEDJ
+93 |
 
-|
+DSPAP/ DT93/ D1/ Les Lilas |
 
-Adjoint au chef de service-Brigade d'Exécution des Décisions de Justice
+Chef SAIP |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D1/ Les Lilas |
 
-|
+Chef SSQ |
 
-DPJ/ SDBC/ BPM
+93 |
 
-|
+DSPAP/ DT93/ D2/ Aubervilliers |
 
-Chef de section-Enquêtes intrafamiliales (Brigade de Protection des Mineurs)
+Chef SAIP |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D2/ Aubervilliers |
 
-|
+Chef SSQ |
 
-DPJ/ SDBC/ BRB
+93 |
 
-|
+DSPAP/ DT93/ D2/ Epinay-sur-Seine |
 
-Chef de section-Brigade de répression du banditisme
+Chef SAIP |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D2/ Saint-Denis |
 
-|
+Chef du commissariat subdivisionnaire de la Plaine-Saint-Denis |
 
-DPJ/ SDBC/ BS
+93 |
 
-|
+DSPAP/ DT93/ D2/ Saint-Denis |
 
-Chef de section 2-Brigade de stupéfiants
+Chef SSQ |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D2/ Stains |
 
-|
+Chef SAIP |
 
-DPJ/ SDBC/ BS
+93 |
 
-|
+DSPAP/ DT93/ D3/ Aulnay-sous-Bois |
 
-Chef de section 3-Brigade de stupéfiants
+Chef du commissariat subdivisionnaire de Sevran |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ D3/ Aulnay-sous-Bois |
 
-|
+Chef SSQ |
 
-DPJ/ SDSI/ SGO/ SIPJ
+93 |
 
-|
+DSPAP/ DT93/ Livry-Gargan |
 
-Chef du service informatique
+Chef CSP |
 
-|
+93 |
 
-75
+DSPAP/ DT93/ OMP |
 
-|
+Responsable des services de l'OMP |
 
-DPJ/ SDST/ 1er DPJ
+93 |
 
-|
+DSPAP/ SDLII/ DCFM/ ULII93 |
 
-Chef de section enquêtes criminelles et vols par effractions
+Chef ULII93 |
 
-|
+93 |
 
-75
+DSPAP/ SDSS/ SCSI/ CSI93 |
 
-|
+Chef CSI93 |
 
-DPJ/ SDST/ 2nd DPJ
+93 |
 
-|
+DSPAP/ SDSS/ SN93 |
 
-Chef de section-Affaires criminelles
+Chef de l'unité de coordination opérationnelle des services de nuit |
 
-|
+94 |
 
-75
+DSPAP/ DT94/ Val-de-Marne/ UAO |
 
-|
+Chef UAO |
 
-DPJ/ SDST/ 2nd DPJ
+94 |
 
-|
+DSPAP/ DT94/ D1/ Alfortville |
 
-Chef de section-Enquêtes et recherches
+Chef CSP |
 
-|
+94 |
 
-75
+DSPAP/ DT94/ D1/ Charenton-le-Pont |
 
-|
+Chef CSP |
 
-DPJ/ SDST/ 3è DPJ
+94 |
 
-|
+DSPAP/ DT94/ D1/ Créteil |
 
-Chef de section groupes enquêtes répression du banditisme et vol avec effraction
+Chef SAIP |
 
-|
+94 |
 
-92
+DSPAP/ DT94/ D2/ Villeneuve Saint Georges |
 
-|
+Chef SAIP |
 
-DPJ/ SDST/ SDPJ92
+94 |
 
-|
+DSPAP/ DT94/ D2/ Vitry-sur-Seine |
 
-Chef de section-Enquêtes générales, financières et anti-terroristes
+Chef SAIP |
 
-|
+94 |
 
-93
+DSPAP/ DT94/ D3/ Le Kremlin-Bicêtre |
 
-|
+Chef SAIP |
 
-DPJ/ SDST/ SDPJ93
+94 |
 
-|
+DSPAP/ DT94/ D3/ Le Kremlin-Bicêtre |
 
-Chef de section-Enquêtes et recherches
+Chef SSQ |
 
-|
+94 |
 
-94
+DSPAP/ DT94/ D3/ L'Haÿ-les-Roses |
 
-|
+Chef SSQ |
 
-DPJ/ SDST/ SDPJ94
+94 |
 
-|
+DSPAP/ DT94/ D4/ Champigny-sur-Marne |
 
-Chef de section-Enquêtes et recherches
+Chef SAIP |
 
-|
+94 |
 
-Direction des Ressources Humaines
+DSPAP/ SDSS/ SCSI/ CSI94 |
 
-|
+Chef CSI94 |
 
-1
+94 |
 
-|
+DSPAP/ SDSS/ SN94 |
 
-75
+Chef de l'unité de coordination opérationnelle des services de nuit |
 
-|
+PP/ Direction du Renseignement : 7 postes
 
-DRH/ SDF
+RAID : 13 postes
 
-|
+DEPT |
 
-Chef du département des formations à la sous-direction de la formation
+AFFECTATIONS |
 
-|
+FONCTIONS |
 
-Direction de la Sécurité de Proximité de l'Agglomération Parisienne
+SGAMI de Bordeaux |
 
-|
+1 |
 
-77
+33 |
 
-|
+RAID/ Antenne de Bordeaux |
 
-75
+Chef d'antenne |
 
-|
+SGAMI de Lille |
 
-DSPAP/ DT75/ D1/ PC
+1 |
 
-|
+59 |
 
-Chef du service de traitement judiciaire de nuit
+RAID/ Antenne de Lille |
 
-|
+Chef d'antenne |
 
-75
+SGAMI de Lyon |
 
-|
+1 |
 
-DSPAP/ DT75/ D1/ Centre
+69 |
 
-|
+RAID/ Antenne de Lyon |
 
-Chef SSQ
+Chef d'antenne |
 
-|
+SGAMI de Marseille |
 
-75
+4 |
 
-|
+6 |
 
-DSPAP/ DT75/ D1/ CP08
+RAID/ Antenne de Nice |
 
-|
+Chef d'antenne |
 
-Chef SSQ
+13 |
 
-|
+RAID/ Antenne de Marseille |
 
-75
+Chef d'antenne |
 
-|
+31 |
 
-DSPAP/ DT75/ D1/ CP09
+RAID/ Antenne de Toulouse |
 
-|
+Chef d'antenne |
 
-Chef SAIP
+34 |
 
-|
+RAID/ Antenne de Montpellier |
 
-75
+Chef d'antenne |
 
-|
+SGAMI de Metz |
 
-DSPAP/ DT75/ D1/ CP09
+2 |
 
-|
+54 |
 
-Chef SSQ
+RAID/ Antenne de Nancy |
 
-|
+Chef d'antenne |
 
-75
+67 |
 
-|
+RAID/ Antenne de Strasbourg |
 
-DSPAP/ DT75/ D1/ CP16
+Chef d'antenne |
 
-|
+SGAMI de Rennes |
 
-Chef SSQ
+1 |
 
-|
+35 |
 
-75
+RAID/ Antenne de Rennes |
 
-|
+Chef d'antenne |
 
-DSPAP/ DT75/ D1/ CP17
+SATPN de Guadeloupe |
 
-|
+1 |
 
-Chef SAIP
+971 |
 
-|
+RAID/ Antenne de Les Abymes |
 
-75
+Chef du service territorial du RAID |
 
-|
+SATPN de La Réunion |
 
-DSPAP/ DT75/ D1/ CP17
+1 |
 
-|
+974 |
 
-Chef SSQ
+RAID/ Antenne de Saint-Denis de la Réunion |
 
-|
+Chef du service territorial du RAID |
 
-75
+SATPN de Nouvelle-Calédonie |
 
-|
+1 |
 
-DSPAP/ DT75/ D2/ CP10
+988 |
 
-|
+RAID/ Antenne de Nouméa |
 
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP11
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP12
-
-|
-
-Chef SAIP
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP12
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP18
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP18
-
-|
-
-Chef des unités judiciaires-Adjoint chef SAIP 18
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP19
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP20
-
-|
-
-Chef du service de traitement judiciaire de nuit
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D2/ CP20
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP05/06
-
-|
-
-Chef du service de traitement judiciaire de nuit
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP05/06
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP05/06
-
-|
-
-Chef SAIP
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP07
-
-|
-
-Chef SAIP
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP07
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP13
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP14
-
-|
-
-Chef SAIP
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP14
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ D3/ CP15
-
-|
-
-Chef SSQ
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ OMP
-
-|
-
-Chef du service du contentieux au sein de l'officier du ministère public de Paris
-
-|
-
-75
-
-|
-
-DSPAP/ DT75/ ST75
-
-|
-
-Chef des unités judiciaires
-
-|
-
-75
-
-|
-
-DSPAP/ EM
-
-|
-
-Chef de la division Etudes
-
-|
-
-75
-
-|
-
-DSPAP/ EM
-
-|
-
-Chef du pôle information et commandement
-
-|
-
-75
-
-|
-
-DSPAP/ EM
-
-|
-
-Chef du pôle planification
-
-|
-
-75
-
-|
-
-DSPAP/ SDLII/ DCRA
-
-|
-
-Chef service
-
-|
-
-75
-
-|
-
-DSPAP/ SDRPT/ BRF/ DPGP
-
-|
-
-Chef du département de protection des gares parisiennes
-
-|
-
-75
-
-|
-
-DSPAP/ SDRPT/ BRF/ DSG
-
-|
-
-Chef du service de sécurisation nocturne des réseaux
-
-|
-
-75
-
-|
-
-DSPAP/ SDRPT/ BRF/ DSG
-
-|
-
-Chef du service de sécurisation générale des réseaux
-
-|
-
-75
-
-|
-
-DSPAP/ SDRPT/ BRF/ SRT
-
-|
-
-Chef des unités opérationnelles
-
-|
-
-75
-
-|
-
-DSPAP/ SDSO/ SAS
-
-|
-
-Chef du service d'accompagnement et de soutien
-
-|
-
-75
-
-|
-
-DSPAP/ SDSO/ SDSE
-
-|
-
-Chef du service de déontologie, de synthèse et d'évaluation
-
-|
-
-75
-
-|
-
-DSPAP/ SATN
-
-|
-
-Chef du service d'accompagnement de la transition numérique
-
-|
-
-75
-
-|
-
-DSPAP/ SDSS/ BAPSA
-
-|
-
-Chef de la brigade d'assistance aux personnes sans abri
-
-|
-
-75
-
-|
-
-DSPAP/ SDSS/ CCA
-
-|
-
-Chef de l'unité cynophile
-
-|
-
-75
-
-|
-
-DSPAP/ SDSS/ SCSI/ CSI75
-
-|
-
-Chef des unités d'intervention et de soutien opérationnel de la CSI75
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ Hauts-de-Seine/ UAO
-
-|
-
-Chef UAO
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ D1/ Asnières-sur-Seine
-
-|
-
-Chef SAIP
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ D1/ Villeneuve-la-Garenne
-
-|
-
-Chef CSP
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ D1/ Gennevilliers
-
-|
-
-Chef SAIP
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ D2/ La Garenne-Colombes
-
-|
-
-Chef CSP
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ D2/ Nanterre
-
-|
-
-Chef SAIP
-
-|
-
-92
-
-|
-
-DSPAP/ DT92/ D2/ Nanterre
-
-|
-
-Chef SSQ
-
-|
-
-92
-
-|
-
-DSPAP/ SDSS/ SCSI/ CSI92
-
-|
-
-Chef CSI92
-
-|
-
-92
-
-|
-
-DSPAP/ SDSS/ SN92
-
-|
-
-Chef de l'unité de coordination opérationnelle des services de nuit
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ Seine-Saint-Denis/ UAO
-
-|
-
-Chef UAO
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D1/ Bobigny
-
-|
-
-Chef du commissariat subdivisionnaire de Noisy-le-Sec
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D1/ Bobigny
-
-|
-
-Chef SSQ
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D1/ Bobigny
-
-|
-
-Chef SAIP
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D2/ Aubervilliers
-
-|
-
-Chef SAIP
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D2/ Aubervilliers
-
-|
-
-Chef SSQ
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D2/ Epinay-sur-Seine
-
-|
-
-Chef SAIP
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D2/ Saint-Denis
-
-|
-
-Chef du commissariat subdivisionnaire de la Plaine-Saint-Denis
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D2/ Saint-Denis
-
-|
-
-Chef SSQ
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D3/ Aulnay-sous-Bois
-
-|
-
-Chef du commissariat subdivisionnaire de Sevran
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ D3/ Aulnay-sous-Bois
-
-|
-
-Chef SSQ
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ Livry-Gargan
-
-|
-
-Chef CSP
-
-|
-
-93
-
-|
-
-DSPAP/ DT93/ OMP
-
-|
-
-Responsable des services de l'OMP
-
-|
-
-93
-
-|
-
-DSPAP/ SDLII/ DCFM/ ULII93
-
-|
-
-Chef ULII93
-
-|
-
-93
-
-|
-
-DSPAP/ SDSS/ SCSI/ CSI93
-
-|
-
-Chef CSI93
-
-|
-
-93
-
-|
-
-DSPAP/ SDSS/ SN93
-
-|
-
-Chef de l'unité de coordination opérationnelle des services de nuit
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ Val-de-Marne/ UAO
-
-|
-
-Chef UAO
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D1/ Alfortville
-
-|
-
-Chef CSP
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D1/ Charenton-le-Pont
-
-|
-
-Chef CSP
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D1/ Créteil
-
-|
-
-Chef SAIP
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D2/ Vitry-sur-Seine
-
-|
-
-Chef SAIP
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D3/ Le Kremlin-Bicêtre
-
-|
-
-Chef SAIP
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D3/ L'Haÿ-les-Roses
-
-|
-
-Chef SSQ
-
-|
-
-94
-
-|
-
-DSPAP/ DT94/ D4/ Champigny-sur-Marne
-
-|
-
-Chef SAIP
-
-|
-
-94
-
-|
-
-DSPAP/ SDSS/ SCSI/ CSI94
-
-|
-
-Chef CSI94
-
-|
-
-94
-
-|
-
-DSPAP/ SDSS/ SN94
-
-|
-
-Chef de l'unité de coordination opérationnelle des services de nuit
-
-|
-
-P PP/ Direction du Renseignement : 7 postes
-
-RAID : 10 postes
-
-DEPT
-
-|
-
-AFFECTATIONS
-
-|
-
-FONCTIONS
-
-|
-
-SGAMI de Bordeaux
-
-|
-
-1
-
-|
-
-33
-
-|
-
-RAID/ Antenne de Bordeaux
-
-|
-
-Chef d'antenne
-
-|
-
-SGAMI de Lille
-
-|
-
-1
-
-|
-
-59
-
-|
-
-RAID/ Antenne de Lille
-
-|
-
-Chef d'antenne
-
-|
-
-SGAMI de Lyon
-
-|
-
-1
-
-|
-
-69
-
-|
-
-RAID/ Antenne de Lyon
-
-|
-
-Chef d'antenne
-
-|
-
-SGAMI de Marseille
-
-|
-
-4
-
-|
-
-6
-
-|
-
-RAID/ Antenne de Nice
-
-|
-
-Chef d'antenne
-
-|
-
-13
-
-|
-
-RAID/ Antenne de Marseille
-
-|
-
-Chef d'antenne
-
-|
-
-31
-
-|
-
-RAID/ Antenne de Toulouse
-
-|
-
-Chef d'antenne
-
-|
-
-34
-
-|
-
-RAID/ Antenne de Montpellier
-
-|
-
-Chef d'antenne
-
-|
-
-SGAMI de Metz
-
-|
-
-2
-
-|
-
-54
-
-|
-
-RAID/ Antenne de Nancy
-
-|
-
-Chef d'antenne
-
-|
-
-67
-
-|
-
-RAID/ Antenne de Strasbourg
-
-|
-
-Chef d'antenne
-
-|
-
-SGAMI de Rennes
-
-|
-
-1
-
-|
-
-35
-
-|
-
-RAID/ Antenne de Rennes
-
-|
-
-Chef d'antenne
-
-|
+Chef du service territorial du RAID |
 
 ST (SI) 2 : 1 poste
 
-DEPT
+DEPT |
 
-|
+AFFECTATIONS |
 
-AFFECTATIONS
+FONCTIONS |
 
-|
+SGAMI de Bordeaux |
 
-FONCTIONS
+1 |
 
-|
+17 |
 
-SGAMI de Bordeaux
+ST (SI) 2/ SDSO/ CNAU |
 
-|
-
-1
-
-|
-
-17
-
-|
-
-ST (SI) 2/ SDSO/ CNAU
-
-|
-
-Chef du centre national d'aide aux utilisateurs
-
-|
+Chef du centre national d'aide aux utilisateurs |
 
 DCIS : 1 poste
 
-DCIS : 1 poste
+DEPT |
 
-DEPT
+AFFECTATIONS |
 
-|
+FONCTIONS |
 
-AFFECTATIONS
+SGAMI ZDS de Paris |
 
-|
+1 |
 
-FONCTIONS
+92 |
 
-|
+DCIS/ PN/ SOUS-DIRECTION DE L'ADMINISTRATION ET DU SOUTIEN/ DIVISION DU PERSONNEL |
 
-SGAMI ZDS de Paris
-
-|
-
-1
-
-|
-
-92
-
-|
-
-DCIS/ PN/ SOUS-DIRECTION DE L'ADMINISTRATION ET DU SOUTIEN/ DIVISION DU PERSONNEL
-
-|
-
-Chef de division
-
-|
+Chef de division |
 
 DGSI : 62 postes
 
 La liste des postes de chef de service ou d'unité organique bénéficiant du plafond réglementaire de la part fonctionnelle de l'indemnité de responsabilité et de performance de la DGSI fait l'objet d'un arrêté distinct, non publié, conformément aux dispositions de l'article L. 861-1 du code de la sécurité intérieure.
 
-TOTAL : 665 postes
+TOTAL : 689 postes
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 10 août 2022 (NOR : IOMC2222815A), ces dispositions entrent en vigueur le 1er juin 2022.
+Conformément à l'article 2 de l'arrêté du 18 novembre 2022 (NOR : IOMC2227367A), ces dispositions entrent en vigueur le 1er octobre 2022.
