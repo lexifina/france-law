@@ -2,17 +2,7 @@
 
 Corps et grade |
 
-Taux applicable
-
-en 2019 |
-
-Taux applicable
-
-en 2020 |
-
-Taux applicable
-
-en 2021 |
+Taux applicable en 2022 |
 
 Filière administrative |
 
@@ -22,25 +12,13 @@ Attaché principal |
 
 7 % |
 
-7 % |
-
-7 % |
-
 Corps des adjoints des cadres hospitaliers |
 
 Adjoint des cadres hospitaliers de classe supérieure |
 
-12 % |
-
-11 % |
-
 11 % |
 
 Adjoint des cadres hospitaliers de classe exceptionnelle |
-
-10 % |
-
-9 % |
 
 9 % |
 
@@ -50,25 +28,13 @@ Assistant médico-administratif de classe supérieure |
 
 8 % |
 
-8 % |
-
-8 % |
-
 Assistant médico-administratif de classe exceptionnelle |
 
-8 % |
-
 9 % |
 
-9 % |
-
-Corps des adjoints administratifs |
+Corps des adjoints administratifs hospitaliers |
 
 Adjoint administratif principal de 2e classe |
-
-6 % |
-
-6 % |
 
 6 % |
 
@@ -76,17 +42,9 @@ Adjoint administratif principal de 1re classe |
 
 6 % |
 
-6 % |
-
-6 % |
-
 Corps des permanenciers auxiliaires de régulation médicale |
 
 Permanencier auxiliaire de régulation médicale chef |
-
-12 % |
-
-12 % |
 
 12 % |
 
@@ -98,17 +56,9 @@ Dessinateur principal |
 
 10 % |
 
-10 % |
-
-10 % |
-
 Corps des conducteurs ambulanciers |
 
 Conducteur ambulancier principal |
-
-6 % |
-
-6 % |
 
 6 % |
 
@@ -118,15 +68,7 @@ Ouvrier principal de 2e classe |
 
 6 % |
 
-6 % |
-
-6 % |
-
 Ouvrier principal de 1re classe |
-
-7 % |
-
-7 % |
 
 7 % |
 
@@ -136,25 +78,13 @@ Agent de maîtrise principal |
 
 15 % |
 
-15 % |
-
-15 % |
-
 Corps des techniciens et techniciens supérieurs hospitaliers |
 
 Technicien supérieur hospitalier de 2e classe |
 
 10 % |
 
-10 % |
-
-10 % |
-
 Technicien supérieur hospitalier de 1re classe |
-
-12 % |
-
-11 % |
 
 10 % |
 
@@ -166,27 +96,25 @@ Psychologue hors classe |
 
 9 % |
 
-9 % |
-
-9 % |
-
 Filière soins |
 
-Corps des aides-soignants et des agents des services hospitaliers |
+Corps des agents des services hospitaliers qualifiés |
 
-Agent de services hospitaliers qualifié classe supérieure |
-
-10 % |
+Agent des services hospitaliers qualifié classe supérieure |
 
 20 % |
 
-20 % |
+Corps des accompagnants éducatifs et sociaux |
 
-Aide-soignant principal |
-
-8 % |
+Accompagnant éducatif et social principal |
 
 16 % |
+
+Corps des aides-soignants et des auxiliaires de puériculture |
+
+Aide-soignant de classe supérieure,
+
+Auxiliaire de puériculture de classe supérieure |
 
 16 % |
 
@@ -194,19 +122,11 @@ Corps des personnels infirmiers régis par le décret n° 88-1077 du 30 novembre
 
 Infirmier de classe supérieure |
 
-14 % |
-
-28 % |
-
 28 % |
 
 Corps des infirmiers en soins généraux et spécialisés |
 
 Infirmier en soins généraux deuxième grade |
-
-11 % |
-
-22 % |
 
 22 % |
 
@@ -214,11 +134,7 @@ Filière de rééducation |
 
 Corps des pédicures-podologues |
 
-Pédicure podologue de classe supérieure |
-
-11 % |
-
-22 % |
+Pédicure-podologue de classe supérieure |
 
 22 % |
 
@@ -226,19 +142,11 @@ Corps des masseurs-kinésithérapeutes |
 
 Masseur-kinésithérapeute de classe supérieure |
 
-11 % |
-
-22 % |
-
 22 % |
 
 Corps des ergothérapeutes |
 
-Ergothérapeutes de classe supérieure |
-
-11 % |
-
-22 % |
+Ergothérapeute de classe supérieure |
 
 22 % |
 
@@ -246,19 +154,11 @@ Corps des psychomotriciens |
 
 Psychomotricien de classe supérieure |
 
-11 % |
-
-22 % |
-
 22 % |
 
 Corps des orthophonistes |
 
 Orthophoniste de classe supérieure |
-
-11 % |
-
-22 % |
 
 22 % |
 
@@ -266,19 +166,11 @@ Corps des orthoptistes |
 
 Orthoptiste de classe supérieure |
 
-11 % |
-
-22 % |
-
 22 % |
 
 Corps des diététiciens |
 
 Diététicien de classe supérieure |
-
-13 % |
-
-26 % |
 
 26 % |
 
@@ -288,29 +180,17 @@ Corps des manipulateurs d'électroradiologie médicale |
 
 Manipulateur d'électroradiologie de classe supérieure |
 
-11 % |
-
-22 % |
-
 22 % |
 
 Corps des techniciens de laboratoire médical |
 
 Technicien de laboratoire médical de classe supérieure |
 
-14 % |
-
-28 % |
-
 28 % |
 
 Corps des préparateurs en pharmacie hospitalière |
 
 Préparateur en pharmacie hospitalière de classe supérieure |
-
-12 % |
-
-24 % |
 
 24 % |
 
@@ -322,33 +202,17 @@ Cadre supérieur socio-éducatif |
 
 10 % |
 
-10 % |
-
-10 % |
-
 Cadre socio-éducatif de classe exceptionnelle |
-
-10 % |
-
-10 % |
 
 9 % |
 
 Corps des animateurs |
 
-Animateur principal 2e classe |
+Animateur principal de 2e classe |
 
 12 % |
 
-12 % |
-
-12 % |
-
-Animateur principal 1re classe |
-
-8 % |
-
-8 % |
+Animateur principal de 1re classe |
 
 8 % |
 
@@ -358,19 +222,11 @@ Moniteur-éducateur principal |
 
 8 % |
 
-8 % |
-
-8 % |
-
-Sages-femmes des hôpitaux |
+Filière médicale |
 
 Corps des sages-femmes des hôpitaux |
 
-Sage-femme des hôpitaux du 2d grade |
-
-11 % |
-
-22 % |
+Sage-femme des hôpitaux du second grade |
 
 22 % |
 
@@ -380,29 +236,17 @@ Corps des pédicures-podologues régis par le décret n° 2011-746 du 27 juin 20
 
 Pédicure-podologue de classe supérieure |
 
-14 % |
-
-28 % |
-
 28 % |
 
 Corps des masseurs-kinésithérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Masseur-kinésithérapeute de classe supérieure |
 
-12,5 % |
-
-25 % |
-
 25 % |
 
 Corps des ergothérapeutes régis par le décret n° 2011-746 du 27 juin 2011 |
 
-Ergothérapeutes de classe supérieure |
-
-12 % |
-
-24 % |
+Ergothérapeute de classe supérieure |
 
 24 % |
 
@@ -410,21 +254,11 @@ Corps des psychomotriciens régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Psychomotricien de classe supérieure |
 
-12 % |
-
-24 % |
-
 24 % |
 
 Corps des orthophonistes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Orthophoniste de classe supérieure |
-
-14 %
-
-|
-
-28 % |
 
 28 % |
 
@@ -432,18 +266,10 @@ Corps des orthoptistes régis par le décret n° 2011-746 du 27 juin 2011 |
 
 Orthoptiste de classe supérieure |
 
-14 % |
-
-28 % |
-
 28 % |
 
 Corps des manipulateurs d'électroradiologie médicale régis par le décret n° 2011-748 du 27 juin 2011 |
 
 Manipulateur en électroradiologie de classe supérieure |
-
-12 % |
-
-24 % |
 
 24 % |
