@@ -1,6 +1,6 @@
 # Article Annexe III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ VOLLEY-BALL ”
+Tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “perfectionnement sportif” mention “volley-ball”
 
 |
 
@@ -202,9 +202,7 @@ X |
 
 |
 
-Diplôme d'entraîneur régional de volley ou de beach volley délivré par délivré par la FFVB* et unité d'enseignement prévention et secours civiques de niveau 1 ” (PSC 1) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport
-
-|
+Diplôme d'entraîneur régional de volley ou de beach volley délivré par délivré par la FFVB* et unité d'enseignement prévention et secours civiques de niveau 1 ” (PSC 1) ou l'une des attestations mentionnées à l'article A. 212-52-1 du code du sport |
 
 X |
 
@@ -241,3 +239,7 @@ BEES1 : brevet d'Etat d'éducateur sportif du premier degré.
 BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport.
 
 FFVB : Fédération française de volley-ball.
+
+NOTA :
+
+Conformément à l’article 12 de l’arrêté du 27 juillet 2022 (NOR : SPOV2222337A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er octobre 2022.

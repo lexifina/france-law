@@ -1,15 +1,43 @@
 # Article Annexe II
 
-LES QUALIFICATIONS DES PERSONNES EN CHARGE DE LA FORMATION ET LES QUALIFICATIONS DES TUTEURS DES PERSONNES EN FORMATION POUR L'OBTENTION DU DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ” MENTION “ VOLLEY-BALL ”
+SITUATION D'ÉVALUATION CERTIFICATIVE DES UNITÉS CAPITALISABLES UC 3 ET UC 4 DU DIPLÔME D'ÉTAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ " PERFECTIONNEMENT SPORTIF " MENTION " VOLLEY-BALL "
 
-Qualification des personnes en charge de la formation : la coordination pédagogique de la formation est assurée par un professionnel qualifié à minima de niveau II en volley-ball ou disciplines associées, justifiant d'au moins trois années d'expérience dans le champ de la formation professionnelle en volley-ball ou disciplines associées.
+Situation d'évaluation certificative des unités capitalisables 3 et 4 :
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+Epreuve certificative de l'unité capitalisable 3 :
 
-Qualification des formateurs permanents : qualification à minima de niveau III en volley-ball ou disciplines associées, justifiant d'au moins trois années d'expériences professionnelles dans le champ de la formation professionnelle en volley-ball ou disciplines associées.
+L'épreuve se déroule en organisme de formation ou en structure d'alternance pédagogique et se compose des deux modalités suivantes (1° et 2°) :
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+1° Production d'un document :
 
-Qualification des tuteurs : qualification à minima de niveau III, justifiant d'au moins deux années d'expérience professionnelle ou bénévole dans l'encadrement en volley-ball ou disciplines associées.
+Avant la date de l'épreuve, dans les conditions fixées par le recteur de région académique, le candidat transmet un dossier relatant son expérience en perfectionnement sportif en " six contre six " ou en " beach-volley " et de formation de cadres, réalisée dans une ou plusieurs structures d'alternance pédagogique ;
 
-Sont dispensés de ces exigences, les personnels techniques et pédagogiques relevant du ministère chargé des sports, les professeurs ou enseignants d'éducation physique et sportive du ministère de l'éducation nationale et les agents de catégorie A ou B de la filière sportive de la fonction publique territoriale.
+2° Mise en situation professionnelle :
+
+Lors de l'épreuve, le candidat prépare pendant trente minutes une séance de perfectionnement technique.
+
+Le candidat conduit la séance pendant une durée comprise entre trente minutes et quarante-cinq minutes au maximum pour un public confirmé d'au moins huit pratiquants.
+
+Cette conduite de séance est suivie d'un entretien d'une durée de quarante-cinq minutes au maximum comprenant :
+
+- quinze minutes au maximum au cours desquelles le candidat analyse et évalue sa séance en mobilisant les connaissances acquises et justifie les choix éducatifs et pédagogiques, ainsi que la pertinence de cette séance au sein d'un cycle de perfectionnement sportif ;
+
+- trente minutes au maximum à partir du dossier susmentionné.
+
+L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à adopter une démarche intégrative des différents publics dans les séances de perfectionnement technique en volley-ball.
+
+Epreuve certificative de l'unité capitalisable 4 :
+
+L'épreuve se déroule au sein de l'organisme de formation.
+
+Elle se compose d'une mise en place d'une séquence d'entraînement collective pendant une durée comprise entre vingt minutes et trente minutes au maximum comprenant des enchaînements de situations, pour un public confirmé d'au moins huit pratiquants.
+
+Le candidat tire au sort le thème de la séquence d'entraînement et prépare pendant trente minutes la séquence.
+
+La séquence est suivie d'un entretien de vingt minutes maximum au cours duquel le candidat analyse et évalue cette séquence en mobilisant les connaissances acquises et justifie les choix de sécurité.
+
+L'échange avec les évaluateurs permet également de vérifier la capacité du candidat à encadrer le volley-ball en sécurité en prenant en compte les caractéristiques singulières des différents publics.
+
+NOTA :
+
+Conformément à l’article 12 de l’arrêté du 27 juillet 2022 (NOR : SPOV2222337A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er octobre 2022.
