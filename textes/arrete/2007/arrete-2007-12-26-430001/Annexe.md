@@ -4,7 +4,7 @@ Branches d'activité des infirmiers, des personnels civils de rééducation et m
 
 NOMBRE DE POINTS |
 
-Masseurs-kinésithérapeutes, psychomotriciens, orthophonistes, orthoptistes, diététiciens, techniciens de laboratoire, manipulateurs d'électroradiologie médicale, préparateurs en pharmacie hospitalière, pédicures-podologues du corps des techniciens paramédicaux civils du ministère de la défense |
+Masseurs-kinésithérapeutes, psychomotriciens, orthophonistes, orthoptistes, manipulateurs d'électroradiologie médicale, pédicures-podologues du corps des techniciens paramédicaux civils du ministère de la défense |
 
 13 |
 
@@ -20,6 +20,6 @@ Masseurs-kinésithérapeutes et orthophonistes du corps des masseurs-kinésithé
 
 13 |
 
-Pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes et manipulateurs d'électroradiologie médicale du corps des pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes et manipulateurs d'électroradiologie médicale du ministère de la défense |
+Pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes, diététiciens, préparateurs en pharmacie hospitalière, techniciens de laboratoire médical et manipulateurs d'électroradiologie médicale du corps des pédicures-podologues, ergothérapeutes, psychomotriciens, orthoptistes, diététiciens, préparateurs en pharmacie hospitalière, techniciens de laboratoire médical et manipulateurs d'électroradiologie médicale du ministère de la défense |
 
 13 |
