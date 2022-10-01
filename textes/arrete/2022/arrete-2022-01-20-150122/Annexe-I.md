@@ -2478,17 +2478,21 @@ B |
 
 8. Direction générale de la gendarmerie nationale (DGGN)
 
-Etablissement, organisme ou service et localisation géographique |
+Établissement, organisme ou service
+
+et localisation géographique |
 
 Emplois |
 
 Catégorie
 
-statutaire d'emploi |
+statutaire
 
-Durée de
+d'emploi |
 
-la période
+Durée
+
+de la période
 
 de référence |
 
@@ -2514,7 +2518,9 @@ C |
 
 2 |
 
-Garde Républicaine CSO/ SSI/ G. Magasin-Vérines
+Garde Républicaine
+
+CSO/ SSI/ GM-Vérines
 
 Paris (75) |
 
@@ -2530,13 +2536,13 @@ B |
 
 Garde Républicaine
 
-CSO/ SSI/ GNanterre
+CSO/ SSI/ GN-Mansard
 
 Nanterre
 
 Hauts-de-Seine (92) |
 
-Chef de groupe Nanterre |
+Chef de groupe " Nanterre " |
 
 B |
 
@@ -2564,7 +2570,7 @@ B |
 
 Garde Républicaine
 
-CSO/ SSI/ GParis Sud-Kellermann
+CSO/ SSI/ GPS-Kellermann
 
 Paris (75) |
 
@@ -2580,7 +2586,7 @@ C |
 
 Garde Républicaine
 
-CSO/ SSI/ GParis Nord-Vérines
+CSO/ SSI/ GPN-Vérines
 
 Paris (75) |
 
@@ -2596,7 +2602,7 @@ C |
 
 Garde Républicaine
 
-CSO/ SSI/ GNanterre
+CSO/ SSI/ GN-Mansard
 
 Nanterre
 
@@ -2669,16 +2675,6 @@ Service des technologies et des systèmes d'information de la sécurité intéri
 Issy-les-Moulineaux
 
 Hauts-de-Seine (92) |
-
-Auditeur SSI (NEO) |
-
-A |
-
-3 ans |
-
-8 000 |
-
-1 |
 
 Administrateur de données de référence (Master data manager) |
 
@@ -2784,20 +2780,6 @@ A |
 
 1 |
 
-Service des technologies et des systèmes d'information de la sécurité intérieure-Sous-direction des systèmes d'information-Bureau des outils de soutien et des statistiques-Issy-les-Moulineaux
-
-Hauts-de-Seine (92) |
-
-Chef de Section de l'organisation et des ressources humaines |
-
-A |
-
-3 ans |
-
-8 000 |
-
-1 |
-
 Service des technologies et des systèmes d'information de la sécurité intérieure-Sous-direction des réseaux radio-Bureau de la prospective radio-Issy-les-Moulineaux
 
 Hauts-de-Seine (92) |
@@ -2838,20 +2820,6 @@ A |
 
 1 |
 
-Commandement de la gendarmerie dans le cyberespace/ Division stratégie, prospective et partenariat-département fusion et analyse de la menace cyber-Sèvres puis à compter de mars 2022 Puteaux (Campus Cyber à la défense)
-
-Hauts-de-Seine (92) |
-
-Spécialiste en analyse de la menace cyber |
-
-A |
-
-3 ans |
-
-8 000 |
-
-1 |
-
 Commandement de la gendarmerie dans le cyberespace-Division stratégie, prospective et partenariat-département fusion et analyse de la menace cyber-Sèvres puis à compter de mars 2022 Puteaux (Campus Cyber à la défense)
 
 Hauts-de-Seine (92) |
@@ -2866,9 +2834,9 @@ A |
 
 1 |
 
-Pole judiciaire de la gendarmerie nationale/ Commandement de la gendarmerie dans le cyberespace-Pontoise
+Commandement de la gendarmerie dans le cyberespace-Division stratégie, prospective et partenariat-département fusion et analyse de la menace cyber-Sèvres (Campus Cyber)
 
-Val d'Oise (95) |
+Hauts-de-Seine (92) |
 
 Coordinateur projet européen OVERCLOCK |
 
@@ -2880,9 +2848,9 @@ A |
 
 1 |
 
-Pole judiciaire de la gendarmerie nationale/ Commandement de la gendarmerie dans le cyberespace-Pontoise
+Commandement de la gendarmerie dans le cyberespace-Division stratégie, prospective et partenariat-département fusion et analyse de la menace cyber-Sèvres (Campus Cyber)
 
-Val d'Oise (95) |
+Hauts-de-Seine (92) |
 
 Expert en développement logiciel |
 
@@ -2907,20 +2875,6 @@ A |
 8 000 |
 
 2 |
-
-Service de traitement de l'information gendarmerie-Bureau de la coordination et de la qualité-Rosny-sous-Bois
-
-Seine-Saint-Denis (93) |
-
-Technicien réseau |
-
-B |
-
-3 ans |
-
-8 000 |
-
-1 |
 
 Service de traitement de l'information gendarmerie-Bureau de la coordination et de la qualité-Rosny-sous-Bois
 
@@ -3121,3 +3075,79 @@ C |
 8 000 |
 
 1 |
+
+Service des technologies et des systèmes d'information de la sécurité intérieure-Sous-direction des applications de commandement-Issy les Moulineaux-Hauts-de-Seine (92) |
+
+Ingénieur Services en ligne/ Plateforme de services grand public de la sécurité intérieure |
+
+A |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+Service des technologies et des systèmes d'information de la sécurité intérieure-Sous-direction des systèmes d'information-Issy les Moulineaux-Hauts-de-Seine (92) |
+
+Directeur de projet technique-plainte en ligne |
+
+A |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+Centre d'analyse et de regroupement des cybermenaces CERT GN-bureau d'analyse de la menace cyber et des fuites de données-Sèvres puis Puteaux (campus cyber à la défense)-Hauts-de-Seine (92) |
+
+Chef de bureau d'analyse de la menace cyber et des fuites de données |
+
+A |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+Centre opérationnel de soutien infrastructure et logement-Bureau marché budget charges/ section marchés budget-Maisons-Alfort-Val-de-Marne (94) |
+
+Chargé (e) de la commande publique |
+
+B |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+Commandement spécialisé pour la sécurité nucléaire-Département du soutien opérationnel-Bureau de la sécurité et de la protection du secret-Maisons-Alfort-Val de Marne (94) |
+
+Technicien d'exploitation |
+
+B |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+Région de gendarmerie Ile-de-France-Bureau budget et administration-Maisons-Alfort-Val de Marne (94) |
+
+Chef du bureau budget et administration |
+
+A |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 26 septembre 2022 (NOR : IOMA2227562A), ces dispositions entrent en vigueur le 1er octobre 2022.
