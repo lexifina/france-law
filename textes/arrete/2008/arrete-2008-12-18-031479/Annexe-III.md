@@ -1,6 +1,6 @@
 # Article Annexe III
 
-Tableau récapitulatif des dispenses et équivalences d'unité capitalisable (UC) avec le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité “performance sportive”, mention “judo-jujitsu”.
+Le tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité “performance sportive” mention “judo-jujitsu”
 
 |
 
@@ -86,11 +86,13 @@ X (1) |
 
 |
 
-BEES (*) 1er degré judo-jujitsu et 3e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo-jujitsu, kendo et disciplines associées |
+BEES (*) 1er degré option judo-jujitsu et 3e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
 X |
 
-X (1) |
+X |
+
+|
 
 |
 
@@ -98,19 +100,17 @@ X (1) |
 
 X (2) |
 
-X (2) |
-
-Brevet d'Etat de moniteur de judo, aïkido, karaté et méthodes de combats assimilées option principale judo et 3e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo-jujitsu, kendo et disciplines associées |
+Brevet d'Etat de moniteur de judo, aïkido, karaté et méthodes de combat assimilées option principale judo et 3e dan délivré par la commission spécialisée des dans et grades équivalents de la Fédération française de judo, jujitsu, kendo et disciplines associées |
 
 X |
 
-X (1) |
+X |
 
 |
 
 |
 
-X (2) |
+|
 
 X (2) |
 
@@ -152,4 +152,8 @@ X |
 
 (1) Et expérience d'encadrement de trois cent soixante heures au minimum pendant au moins trois saisons sportives dans les cinq dernières années dans la discipline judo-jujitsu, attestée par le directeur technique national du judo, jujitsu, kendo et disciplines associées.
 
-(2) Et justifiant avoir exercé dans une structure de la filière de haut niveau pendant quatre années, au moyen d'une attestation délivrée par le directeur technique national du judo, jujitsu, kendo et disciplines associées.
+(2) Et justifiant avoir exercé dans une structure de la filière de haut niveau pendant quatre années, au moyen d'une attestation délivrée par le DRAJES.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 27 juillet 2022 (NOR : SPOV2222341A), ces dispositions s'appliquent aux sessions de formation ouvertes à compter du 1er octobre 2022.
