@@ -1,0 +1,141 @@
+# Article 1er
+
+Le barème national des salaires minima professionnels garantis, figurant à l'article 58 de la convention collective nationale, est fixé comme suit :
+
+Barème des salaires minima horaires
+
+(En euros.)
+
+Coefficients |
+
+Salaires horaires
+
+applicables au 1er octobre 2022 |
+
+135 |
+
+11,11 |
+
+140 |
+
+11,14 |
+
+145 |
+
+11,16 |
+
+150 |
+
+11,19 |
+
+155 |
+
+11,22 |
+
+160 |
+
+11,26 |
+
+165 |
+
+11,31 |
+
+170 |
+
+11,35 |
+
+175 |
+
+11,40 |
+
+180 |
+
+11,45 |
+
+185 |
+
+11,49 |
+
+190 |
+
+11,54 |
+
+195 |
+
+11,67 |
+
+200 |
+
+11,86 |
+
+210 |
+
+12,30 |
+
+220 |
+
+12,72 |
+
+230 |
+
+13,16 |
+
+240 |
+
+13,58 |
+
+250 |
+
+14,01 |
+
+260 |
+
+14,39 |
+
+270 |
+
+14,81 |
+
+280 |
+
+15,21 |
+
+290 |
+
+15,63 |
+
+300 |
+
+16,04 |
+
+310 |
+
+16,47 |
+
+320 |
+
+16,87 |
+
+330 |
+
+17,29 |
+
+340 |
+
+17,72 |
+
+350 |
+
+18,14 |
+
+400 |
+
+20,24 |
+
+500 |
+
+24,47 |
+
+600 |
+
+28,69 |
