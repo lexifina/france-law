@@ -20,11 +20,11 @@ Les employeurs de salariés relevant du régime général de sécurité sociale 
 
 Ces entreprises sans établissement en France, devront, pour rejoindre le régime :
 
-– relever du champ d'application de la convention collective nationale et l'appliquer ;
+– relever du champ d'application de la convention collective nationale et l'appliquer   ;
 
-– être immatriculées auprès de l'INSEE et fournir un numéro d'identification national (numéro SIRET) ;
+– être immatriculées auprès de l'INSEE et fournir un numéro d'identification national (numéro SIRET)   ;
 
-– fournir les documents justifiant que les salariés concernés en question sont affiliés à l'URSSAF ;
+– fournir les documents justifiant que les salariés concernés en question sont affiliés à l'URSSAF   ;
 
 – fournir la convention de représentation en France de l'entreprise étrangère ou indiquer la personne morale responsable du payement des cotisations.
 
@@ -32,7 +32,7 @@ Par ailleurs les parties signataires soulignent que ce régime de prévoyance ob
 
 Les entreprises n'entrant pas dans le champ d'application de la convention collective nationale de la fabrication et du commerce de produits à usage pharmaceutique, parapharmaceutique et vétérinaire peuvent néanmoins faire bénéficier leurs salariés des régimes prévoyance et frais de santé à la double condition de justifier de liens réels avec la fabrication et le commerce de produits à usage pharmaceutique, parapharmaceutique et vétérinaire (appartenance à un groupe totalement ou partiellement pharmaceutique, activité majoritairement exercée pour la fabrication et le commerce de produits pharmaceutiques …) et d'adhérer au présent accord, conformément à l'article L. 2261-6 du code du travail.
 
-En cas de changement d'assureur(s) et conformément à l'article L. 912-3 du code de la sécurité sociale, il appartient à toute entreprise d'organiser la poursuite de la revalorisation future des prestations en espèces résultant du décès, de l'incapacité de travail temporaire ou permanente ainsi que le maintien des garanties conventionnelles décès prévues pour les bénéficiaires de prestations en espèces d'incapacité permanente ou temporaire et la portabilité des droits visés à l'article 8.1 pour tous les anciens salariés de l'entreprise qui bénéficient de la portabilité à la date d'effet de la résiliation.
+En cas de changement d'assureur (s) et conformément à l'article L. 912-3 du code de la sécurité sociale, il appartient à toute entreprise d'organiser la poursuite de la revalorisation future des prestations en espèces résultant du décès, de l'incapacité de travail temporaire ou permanente ainsi que le maintien des garanties conventionnelles décès prévues pour les bénéficiaires de prestations en espèces d'incapacité permanente ou temporaire et la portabilité des droits visés à l'article 8.1 pour tous les anciens salariés de l'entreprise qui bénéficient de la portabilité à la date d'effet de la résiliation.
 
 1.2. Bénéficiaires du régime de prévoyance
 
@@ -42,13 +42,17 @@ Est réputé cadre et assimilé cadre de la fabrication et du commerce des produ
 
 Est réputé non cadre et non assimilé cadre de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire, le salarié ne bénéficiant pas des articles 4,4 bis ou 36 de la convention collective nationale des cadres du 14 mars 1947 (ci-après « non cadres »).
 
-La notion de « salariés présents à l'effectif » comprend tous les salariés, au travail ou en arrêt dès lors qu'ils bénéficient soit :
+La notion de « salariés présents à l'effectif » comprend tous les salariés dont le contrat de travail est en cours ainsi que les salariés dont le contrat de travail est suspendu dès lors qu'ils bénéficient soit :
 
-– d'un maintien total ou partiel de salaire   ;
+– d'un maintien total ou partiel de salaire ;
 
-– d'indemnités journalières du régime obligatoire sécurité sociale   ;
+– d'un revenu de remplacement versé par l'employeur ; ce cas concerne notamment les salariés placés en activité partielle ou en activité partielle de longue durée, dont l'activité est totalement suspendue ou dont les horaires sont réduits, ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité …) ;
+
+– d'indemnités journalières du régime obligatoire sécurité sociale ;
 
 – d'indemnités journalières complémentaires financées au moins en partie par l'entreprise qu'elles soient versées directement par cette dernière ou pour son compte par l'intermédiaire d'un tiers.
+
+Les annexes I et II précisent l'assiette des garanties servant de base au calcul des prestations.
 
 L'annexe I précise en outre, au titre du régime maladie-chirurgie-maternité des salariés, les ayants droit affiliés à titre obligatoire et les conditions dans lesquelles, sous réserve de formaliser leur adhésion par écrit, certaines personnes peuvent également à titre facultatif, adhérer au régime maladie-chirurgie-maternité des salariés, en contrepartie d'une cotisation spécifique et sans participation financière de l'employeur.
 
