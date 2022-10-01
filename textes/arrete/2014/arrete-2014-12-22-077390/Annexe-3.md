@@ -94,7 +94,9 @@ Conformément au 1° de l’article 6 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 Conformément à l’article 3 de de l’arrêté du 6 décembre 2018 (NOR : TRER1834001A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe 5 dudit arrêté.
 
-Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe B dudit arrêté, à compter du 1er novembre 2021.
+Conformément à l’article 1er de l’arrêté du 19 juillet 2021 (NOR : ENER2221632A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe C dudit arrêté, à compter du 1er novembre 2021.
+
+Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : TRER2121430A), la fiche d’opération standardisée est remplacée par la version figurant à l’annexe C dudit arrêté, à compter du 1er octobre 2022.
 
 -Isolation d’un réseau hydraulique d’eau chaude sanitaire / Fiche d’opération standardisée n° BAT-TH-119 (Abrogée à compter du 1er avril 2018)
 
@@ -256,4 +258,4 @@ Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'ex
 
 NOTA :
 
-Conformément à l’article 4 de l’arrêté du 12 juillet 2022 (NOR : ENER2219562A), ces dispositions s'appliquent aux opérations engagées à compter du 1er septembre 2022.
+Conformément à l’article 2 de l’arrêté du 25 juillet 2022 (NOR : ENER2221632A), ces dispositions entrent en vigueur à compter du 1er octobre 2022.
