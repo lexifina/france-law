@@ -1,0 +1,29 @@
+# Article 1er
+
+L'article 3.2 « Suspension du contrat de travail » est supprimé et remplacé par les dispositions suivantes :
+
+« 3.2. Suspension du contrat de travail
+
+3.2.1.   Suspensions du contrat de travail
+
+L'adhésion des salariés est maintenue en cas de suspension de leur contrat de travail, quelle qu'en soit la cause, dès lors qu'ils bénéficient, pendant cette période soit :
+
+– d'un maintien de salaire, total ou partiel ;
+
+– d'indemnités journalières (ou rente d'invalidité ou d'incapacité) versées par le régime obligatoire d'assurance maladie ;
+
+– d'indemnités journalières complémentaires (ou rente d'invalidité ou d'incapacité) financées au moins en partie par l'employeur, qu'elles soient versées directement par ce dernier ou pour son compte par l'intermédiaire d'un tiers (notamment en cas de maladie ou d'accident, d'origine professionnelle ou non professionnelle) ;
+
+– d'un revenu de remplacement versé par l'employeur, au titre notamment d'une mise en activité partielle ou en activité partielle de longue durée ou encore en cas de congés rémunérés (par exemple : reclassement, mobilité …).
+
+L'employeur verse la même contribution que pour les salariés actifs pendant toute la période de suspension du contrat de travail. Parallèlement, le salarié doit obligatoirement continuer à acquitter sa propre part de cotisation.
+
+Le maintien des garanties est assuré exclusivement pour la durée de cette suspension du contrat de travail du salarié et s'effectue dans les mêmes conditions que celles appliquées aux salariés en activité effective.
+
+3.2.2.   Autres cas de suspension du contrat de travail
+
+Dans tous les autres cas de suspension de contrat de travail (par exemple, les salariés en congé sans solde, congé sabbatique, congé parental d'éducation, congé pour création d'entreprise …) les salariés ne bénéficient pas du maintien du régime de complémentaire santé.
+
+Ils pourront toutefois continuer, s'ils le souhaitent, à bénéficier du régime de complémentaire santé pendant la période de suspension de leur contrat de travail, dans les conditions fixées aux contrats de garanties collectives, sous réserve de s'acquitter de l'intégralité de la cotisation (part patronale et part salariale).
+
+La cotisation afférente est réglée directement par le salarié auprès de l'organisme assureur. »
