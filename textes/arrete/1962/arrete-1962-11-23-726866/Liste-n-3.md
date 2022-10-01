@@ -526,25 +526,25 @@ La Môle |
 
 Var |
 
-L'aérodrome de La Môle est réservé aux avions de Groupe 1 et 2 dont le commandant de bord satisfait aux critères suivants :
+Réservé aux aéronefs français ou étrangers et aux pilotes français ou étrangers satisfaisant aux conditions suivantes :
 
-1° S'agissant des avions de Groupe 1, le commandant de bord a suivi la formation décrite dans le dossier prévu à l'article 7 du présent arrêté et a effectué, dans les six mois précédant le premier vol à La Môle en tant que commandant de bord, un vol de reconnaissance de l'aérodrome de La Môle comme pilote aux commandes. Ce vol de reconnaissance, qui comporte au moins un décollage et un atterrissage sur cet aérodrome, est effectué sur le type ou classe d'avion concerné sous la supervision d'un instructeur dûment qualifié pour la desserte du terrain et satisfaisant, en tant que commandant de bord du vol de reconnaissance, aux exigences du présent article.
+A. Au titre des restrictions applicables aux aéronefs
 
-L'instructeur porte la mention de l'aptitude du pilote sur son carnet de vol ou fournit une attestation au pilote.
+Pour tous les vols réalisés par des avions de Groupe 1 [au sens de l’arrêté portant agrément de l’aérodrome de La Môle (Var)], l’exploitant dépose auprès de la direction de la sécurité de l'aviation civile Sud-Est (DSAC/SE), au moins un mois avant le début de l’exploitation, un dossier de démonstration de performances au décollage et à l'atterrissage et comportant le programme de formation et de maintien des compétences des équipages. L’utilisation de l’aérodrome est possible après l’obtention de l’accusé de réception de la DSAC/SE et le cas échéant, après la réalisation jugée satisfaisante, d’un vol sous supervision d’un pilote inspecteur désigné par le directeur de la DSAC/SE.
 
-Le directeur de la sécurité de l'aviation civile sud-est peut désigner un pilote inspecteur de la DGAC pour conduire une supervision du vol de reconnaissance.
+B. Au titre des restrictions applicables aux commandants de bord
 
-Cette aptitude est maintenue si, dans les douze derniers mois, le commandant de bord :
+1° S’agissant des avions de Groupe 1, avoir suivi la formation décrite dans le dossier déposé auprès de la DSAC/SE et avoir effectué dans les six mois précédant le premier vol à la Môle un vol de reconnaissance de l’aérodrome comme pilote aux commandes, sur le type ou classe d’avions concerné, avec instructeur.
 
-- a effectué un décollage et un atterrissage sur l'aérodrome en tant que commandant de bord ; ou
+2° S’agissant des avions de Groupe 2 [au sens de l’arrêté portant agrément de l’aérodrome de La Môle (Var)], avoir effectué, dans les six mois précédant le premier vol à La Môle une reconnaissance de l’aérodrome comme pilote aux commandes, sur le type ou classe d’avions concerné, avec un instructeur agréé par le directeur de la DSAC/SE.
 
-- a suivi le maintien des compétences prévu à l'article 7 du présent arrêté, sur un FSTD du type d'avion concerné ayant un visuel représentatif de l'aérodrome et de son environnement, dispensé par un instructeur qualifié sur le type ou classe d'avion et, dont l'exploitant peut attester qu'il est familier des caractéristiques et procédures d'utilisation de l'aérodrome.
+N'est utilisable que dans les conditions de vent fixées par le directeur de l'aviation civile Sud-Est.
 
-2° S'agissant des avions du Groupe 2, le commandant de bord a effectué, dans les six mois précédant le premier vol à La Môle en tant que commandant de bord, un vol de reconnaissance de l'aérodrome de La Môle comme pilote aux commandes. Ce vol de reconnaissance, qui comporte au moins un décollage et un atterrissage sur cet aérodrome, est effectué sur le type ou classe d'avion concerné sous la supervision d'un instructeur agréé par le directeur de la sécurité de l'aviation civile sud-est.
+Pour les avions du Groupe 1, les atterrissages s’effectuent uniquement face à l’ouest et les décollages exclusivement face à l’est.
 
-L'instructeur porte la mention de l'aptitude du pilote sur son carnet de vol ou fournit une attestation au pilote.
+Pour les avions du Groupe 2, le choix de la piste pour les décollages et atterrissages est fait en application des informations aéronautiques à disposition des équipages.
 
-Cette aptitude est maintenue si, dans les vingt-quatre derniers mois, le commandant de bord a effectué un décollage et un atterrissage sur l'aérodrome de La Môle comme commandant de bord d'un avion de même classe ou type.
+L’aérodrome n’est pas utilisable par les avions si la piste est contaminée.
 
 |
 
