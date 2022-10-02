@@ -8,7 +8,7 @@ En pratique, cette formule revient à effectuer la somme de l'ensemble des écri
 
 Indicateur = [compte 70 + compte 71 + compte 74 + compte 751] - [compte 60 + compte 61 + compte 62 + compte 63 + compte 64 + compte 651 + compte 691]
 
-Les subventions d'exploitation (compte 74) ne comprennent pas les aides demandées au titre du présent décret lors d'une précédente période éligible trimestrielle.
+Les subventions d'exploitation (compte 74) ne comprennent pas les aides demandées au titre du présent décret lors d'une précédente période éligible.
 
 Les numéros de compte indiqués correspondent aux classes du plan de comptes, tel qu'il est défini par le règlement n° 2014-03 du 5 juin 2014 relatif au plan comptable général.
 
@@ -22,4 +22,4 @@ EBE = [compte 70 + compte 73 + compte 74 + compte 751 + compte 754 + compte 755 
 
 Les numéros de compte indiqués ci-dessus correspondent aux classes du plan de comptes relatif aux comptes annuels des personnes morales de droit privé à but non lucratif, tel qu'il est défini par le règlement n° 2018-06 du 5 décembre 2018.
 
-Les subventions d'exploitation (compte 74) ne comprennent pas les aides demandées au titre du présent décret lors d'une précédente période éligible trimestrielle.
+Les subventions d'exploitation (compte 74) ne comprennent pas les aides demandées au titre du présent décret lors d'une précédente période éligible.
