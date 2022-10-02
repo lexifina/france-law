@@ -42,9 +42,13 @@ Officiers subalternes de gendarmerie autres que les élèves admis en formation 
 
 28,5 |
 
-Elèves admis en formation initiale ou complémentaire à l'Ecole des officiers de la gendarmerie nationale |
+Elèves admis en formation initiale à l'Ecole des officiers de la gendarmerie nationale |
 
-10 |
+13 |
+
+Elèves admis en formation complémentaire à l'Ecole des officiers de la gendarmerie nationale |
+
+22,5 |
 
 Militaires non officiers de gendarmerie autres que les élèves gendarmes |
 
