@@ -1,6 +1,6 @@
 # Article Annexe I
 
-Caractéristiques techniques
+CARACTÉRISTIQUES TECHNIQUES
 
 PROPRIÉTÉS |
 
@@ -27,14 +27,6 @@ Indice de cétane calculé |
 46,0 |
 
 - |
-
-Masse volumique (à 15° C) |
-
-kg/ m ³ |
-
-820,0 |
-
-845,0 |
 
 Hydrocarbures aromatiques polycycliques |
 
@@ -64,7 +56,7 @@ Point d'éclair |
 
 ° C |
 
-> 55,0 |
+supérieur à 55,0 |
 
 - |
 
@@ -82,15 +74,15 @@ Teneur en cendre |
 
 - |
 
-0,01 |
+0,010 |
 
 Teneur en eau |
 
-mg/ kg |
+% (m/ m) |
 
 - |
 
-200 |
+0,020 |
 
 Contamination totale |
 
@@ -116,13 +108,11 @@ g/ m ³ |
 
 h |
 
-20 (1) |
+20,0 |
 
 - |
 
-Pouvoir lubrifiant, diamètre de marque d'usure corrigée
-
-(wsd 1,4) à 60 C |
+Pouvoir lubrifiant, diamètre de marque d'usure corrigée (WSD) à 60° C |
 
 µm |
 
@@ -140,17 +130,17 @@ mm2/ s |
 
 Distillation :
 
--% (v/ v) récupéré à 250° C ; |
+-% (V/ V) récupéré à 250° C ; |
 
-% (v/ v) |
+% (V/ V) |
 
 - |
 
 < 65 |
 
--% (v/ v) récupéré à 350° C ; |
+-% (V/ V) récupéré à 350° C ; |
 
-% (v/ v) |
+% (V/ V) |
 
 85 |
 
@@ -162,18 +152,14 @@ Distillation :
 
 - |
 
-360 |
+360,0 |
 
 Teneur en esters méthyliques d'acides gras conformes à l'arrêté du 30 juin 2010 modifié relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) |
 
-% (v/ v) |
+% (V/ V) |
 
 - |
 
 7,0 |
 
-(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (v/ v). |
-
-NOTA :
-
-Conformément aux dispositions de l'article 9 de l'arrêté du 1er juin 2018 ces dispositions entrent en vigueur le 12 octobre 2018.
+(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V/ V). |

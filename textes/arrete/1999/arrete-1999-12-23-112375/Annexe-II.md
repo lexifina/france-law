@@ -1,63 +1,127 @@
 # Article Annexe II
 
-Caractéristiques de tenue au froid en France métropolitaine
+CARACTÉRISTIQUES DE TENUE AU FROID EN FRANCE MÉTROPOLITAINE
 
 Saison |
 
-Date |
-
-Classe |
-
-Température limite de filtrabilité (° C, max.) |
+Unité |
 
 Eté |
 
-1er avril-31 octobre |
-
-B |
-
-0° C |
-
 Hiver |
 
-1er novembre-31 mars |
+Grand froid |
+
+Date |
+
+|
+
+1er avril
+
+au 31 octobre |
+
+1er novembre au 31 mars |
+
+1er janvier
+
+au 31 décembre |
+
+Qualité |
+
+|
+
+B |
 
 E |
 
--15° C |
-
-Gazole grand froid |
-
-1er janvier-31 décembre |
-
 F |
 
--20° C |
+Température limite de filtrabilité |
 
-Caractéristiques de tenue au froid en Guadeloupe, Guyane et Martinique
+(° C) Max. |
+
+0 |
+
+-15 |
+
+-20 |
+
+Masse volumique à 15° C |
+
+(kg/ m3) Min. |
+
+820,0 |
+
+815,0 |
+
+815,0 |
+
+(kg/ m3) Max. |
+
+845,0 |
+
+845,0 |
+
+845,0 |
+
+CARACTÉRISTIQUES DE TENUE AU FROID EN GUADELOUPE, GUYANE ET MARTINIQUE
 
 Date |
 
-Classe |
+|
 
-Température limite de filtrabilité (° C, max) |
+1er janvier au 31 décembre |
 
-1er janvier-31 décembre |
+Qualité |
+
+|
 
 B |
 
-0° C |
+Température limite de filtrabilité |
 
-Caractéristiques de tenue au froid à Mayotte et à La Réunion
+(° C) Max. |
+
+0 |
+
+Masse volumique à 15° C |
+
+(kg/ m3) Min. |
+
+820,0 |
+
+(kg/ m3) Max. |
+
+845,0 |
+
+CARACTÉRISTIQUES DE TENUE AU FROID À MAYOTTE ET À LA RÉUNION
 
 Date |
 
-Classe |
+|
 
-Température limite de filtrabilité (° C, max) |
+1er janvier au 31 décembre |
 
-1er janvier-31 décembre |
+Qualité |
+
+|
 
 B |
 
-0° C |
+Température limite de filtrabilité |
+
+(° C) Max. |
+
+0 |
+
+Masse volumique à 15° C |
+
+(kg/ m3) Min. |
+
+820,0 |
+
+(kg/ m3) Max. |
+
+845,0
+
+|
