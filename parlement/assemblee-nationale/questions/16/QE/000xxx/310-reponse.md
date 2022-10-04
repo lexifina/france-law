@@ -1,0 +1,9 @@
+# Réponse à la question n° 310
+
+- Question : [310](310.md) — Question n° 310 — Extension du service « paiement de proximité »
+
+## Réponse
+
+*JO du 2022-10-04, page 4435*
+
+Le marché d'externalisation des encaissements en numéraire et en carte bancaire publié en 2018 par la direction générale des Finances publiques a été attribué, dans le cadre d'une procédure d'appel d'offres, au Groupement - constitué par la Confédération des buralistes et la Française des Jeux. Cette prestation de « paiement de proximité » a été généralisée en juillet 2020. À l'heure actuelle, ce sont plus de 13 500 buralistes implantés dans 6770 communes de métropole qui offrent le service de paiement de proximité (contre 4 757 en juillet 2020 lors de l'ouverture du service), dont 187 points de vente implantés dans 105 communes du département du Loiret. Le maillage proposé par le Groupement a été en forte augmentation tout au long de l'année 2022, garantissant ainsi une meilleure accessibilité du service auprès des usagers, largement traduite dans les différentes enquêtes de satisfaction conduites depuis la mise en place du dispositif. Dans ce contexte, il n'est pas envisagé d'étendre l'attribution de ce dispositif à d'autres réseaux. Cependant, afin de permettre de répondre à des besoins ponctuels et justifiés, tels qu'évoqués, le Groupement peut décider, à titre exceptionnel et dérogatoire et après instruction préalable, d'agréer au dispositif des commerçants FDJ non-buralistes dans des situations bien précises . Les demandes en ce sens doivent être déposées auprès de la direction générale des Finances publiques. Hypothèse où une commune disposait précédemment d'une trésorerie et qui n'a pas de buraliste implanté sur son territoire, ou hypothèse d'une commune disposant d'un buraliste sur son territoire qui ne souhaite pas proposer ce service.
