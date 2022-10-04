@@ -1,0 +1,9 @@
+# Réponse à la question n° 11
+
+- Question : [11](11.md) — Question n° 11 — Défaillances de l'UE en matière d'immigration illégale (Mellila)
+
+## Réponse
+
+*JO du 2022-10-04, page 4438*
+
+La France a publiquement exprimé sa très forte préoccupation vis-à-vis des événements dramatiques survenus le 25 juillet à Nador et Melilla, qui ont entraîné la mort d'au moins 23 personnes et plusieurs dizaines de blessés graves. Les autorités espagnoles et marocaines ont également fait état de blessés graves parmi leurs forces de sécurité, après avoir tenté d'endiguer un mouvement d'une grande violence de près de 2 000 personnes. Nous avons confiance dans la volonté des autorités espagnoles et marocaines de faire la lumière sur ces faits dramatiques et d'établir toutes les responsabilités. Cette tragédie confirme l'importance de renforcer notre coopération dans la lutte contre les réseaux de criminalité organisée impliqués dans le trafic de migrants et la traite des êtres humains. L'Union européenne (UE) est déterminée à poursuivre son partenariat avec l'Union africaine et ses États membres, pour apporter une réponse commune et globale aux problématiques engendrées par les migrations irrégulières et lutter contre leurs causes profondes. La coopération européenne avec les pays tiers s'est particulièrement renforcée en matière migratoire, au travers d'un dialogue régulier appuyé par un soutien financier important. Au moins 8 milliards d'euros y seront consacrés pour la période 2021-2027, dans le cadre de l'instrument de voisinage, de coopération au développement, et de coopération internationale (NDICI). L'Initiative conjointe UE-OIM (Organisme des Nations unies chargé des migrations) pour la protection et la réintégration des migrants en Afrique, financée par l'UE, a assisté plus de 75 000 personnes dans des opérations de sauvetage et œuvre en faveur de la réintégration durable des personnes réadmises dans leur pays d'origine.
