@@ -1,0 +1,9 @@
+# Réponse à la question n° 461
+
+- Question : [461](461.md) — Question n° 461 — Vente du gaz français à l'Allemagne
+
+## Réponse
+
+*JO du 2022-10-04, page 4439*
+
+Le marché européen de l'énergie se fonde sur plusieurs grands principes : ce marché est solidaire, transfrontalier et interconnecté. Cela signifie donc que tous les Etats membres peuvent bénéficier de livraisons d'énergie si nécessaire au nom de cette solidarité. Nos autorités se tiennent par conséquent prêtes à livrer si nécessaire du gaz à l'Allemagne qui pourrait, à l'instar de plusieurs de nos partenaires européens, manquer de gaz pendant l'hiver. Le scénario d'une nouvelle instrumentalisation de notre approvisionnement énergétique, sont des scénarios crédibles que nous devons anticiper au mieux à l'échelle européenne. Toute tentative de nous désunir ne ferait que renforcer la position de la Russie, qui tente de remettre en question la solidarité sur laquelle l'Union européenne s'est construite. Les discussions sont encore en cours concernant le volume des livraisons envisagées et les conditions dans lesquelles celles-ci sont réalisables. Livrer du gaz au bénéfice de l'Allemagne ne conduirait en aucun cas à réduire ou à menacer l'accès de nos concitoyens au gaz ou à l'électricité. Les autorités françaises sont pleinement mobilisées et vigilantes pour concilier l'impératif de solidarité européenne et la nécessité de protéger les consommateurs français. Par ailleurs, nous multiplions les initiatives à l'échelle européenne et française pour anticiper au mieux l'hiver à venir et protéger nos concitoyens : le remplissage des stocks de gaz en France et au sein de l'Union européenne se poursuit, et un plan de réduction de la demande d'énergie sera prochainement présenté par le Gouvernement. Nos efforts ont notamment permis d'aboutir à des accords rapides sur ces questions sensibles à l'échelle de l'Union.
