@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701832
+
+- Question : [SEQ220701832](seq220701832.md) — Emplacement réservé
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2022-10-06, page 4833*
+
+L'article L. 151-41 du code de l'urbanisme prévoit que le règlement d'un plan local d'urbanisme (PLU) puisse délimiter des terrains sur lesquels sont institués des servitudes d'emplacements réservés destinés notamment à la réalisation de voies et d'ouvrages publics, d'installations d'intérêt général ou d'espaces verts à créer ou à modifier, ou encore d'espaces nécessaires aux continuités écologiques. Les documents graphiques du règlement font apparaître, s'il y a lieu, ces emplacements réservés et pour ce qui concerne les équipements et installations d'intérêt général, précisent leur destination et les collectivités, services et organismes publics bénéficiaires (cf. 4° de l'article R. 151-34 du code de l'urbanisme). Les emplacements réservés apparaissent donc à la fois dans la partie écrite et dans la partie graphique du règlement du PLU, ce qui conditionne leur opposabilité (cf. CAA Nancy, 1re ch., 16 déc. 2021, n° 19NC01937). Si l'emprise d'un emplacement réservé est réduite après accord entre le propriétaire du terrain grevé par l'emplacement réservé et la collectivité bénéficiaire de celui-ci, le règlement du PLU qui l'a institué ainsi que le document graphique qui l'a délimité devront évoluer afin de rendre opposable la nouvelle délimitation de l'emplacement réservé, la simple mention du protocole d'accord entre les parties étant insuffisante pour créer des effets. Cette évolution pourra, en application des dispositions de l'article L. 153-36 du code de l'urbanisme et sous réserve des cas où une révision ou une modification de droit commun s'impose en vertu des articles L. 153-31 et L. 153-41 du code de l'urbanisme, prendre la forme d'une procédure de modification simplifiée.
