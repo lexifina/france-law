@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700536
+
+- Question : [SEQ220700536](seq220700536.md) — Défaut de gestion du réseau fluvial dans les Ardennes de la part de Voies navigables de France
+
+## Réponse
+
+*Transports, JO du 2022-10-06, page 4839*
+
+La région Grand-Est est, en nombre de kilomètres de réseau, la deuxième région fluviale de France mais ce réseau essentiellement à petit gabarit connaît de fortes baisses de trafic de fret ces dernières années. Dès lors, la revitalisation des voies d'eau des Ardennes est lancée par l'État et Voies navigables de France (VNF) à l'échelle des territoires pour assurer le développement de leur potentiel touristique. Le contrat d'objectifs et de performance signé entre l'État et VNF consacre des moyens inédits pour mener des actions de modernisation, de régénération et de développement du réseau après des décennies de sous-investissement. Il pose le principe d'une optimisation des ressources et des services offerts en fonction de l'utilisation actuelle et potentielle des voies d'eau dont VNF assure la gestion. Les collectivités territoriales, notamment la région Grand-Est et le département des Ardennes, se sont mobilisées pour construire une vision commune sur l'avenir du canal des Ardennes. Un contrat de canal a été signé le 20 juillet 2022 et constitue un engagement autour d'un projet de développement partagé. S'agissant de l'entretien du réseau et plus particulièrement des embâcles et des berges, VNF assure l'entretien des parties lui incombant directement. Les voies longeant le réseau fluvial sont de la responsabilité des différents gestionnaires des voies portées et les berges des différents propriétaires riverains. L'établissement est tenu de respecter ce partage des responsabilités prévu entre les différents acteurs, gestionnaires et propriétaires.
