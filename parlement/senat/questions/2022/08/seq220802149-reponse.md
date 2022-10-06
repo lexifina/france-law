@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802149
+
+- Question : [SEQ220802149](seq220802149.md) — Éligibilité du conseil stratégique à l'utilisation des produits phytosanitaires au compte professionnel de formation
+
+## Réponse
+
+*Agriculture et souveraineté alimentaire, JO du 2022-10-06, page 4771*
+
+Le compte personnel de formation (CPF) est géré par la caisse des dépôts et consignation et peut être mobilisé par tout citoyen pour financer des actions de formation professionnelle continue. Il s'agit de formations recensées sur la plateforme « moncompteformation.gouv.fr ». Poursuivant un objectif de sécurisation des parcours professionnels, le CPF n'est mobilisable que pour financer les actions de formation sanctionnées par les certifications professionnelles enregistrées au répertoire national des certifications professionnelles, celles sanctionnées par les attestations de validation de blocs de compétences et celles sanctionnées par les certifications et habilitations enregistrées dans le répertoire spécifique (RS). À titre d'exemple, le certificat individuel produits phytopharmaceutiques « décideur » entre dans cette dernière catégorie et fait l'objet de la fiche n° 5655 du RS. Cela signifie que le financement de la formation préparatoire à l'obtention du « Certiphyto décideur » (appellation commune) est éligible au CPF. Cette formation est également finançable par le fonds mutualisé d'assurance formation des actifs non-salariés agricoles VIVEA. En revanche, lorsqu'un agriculteur choisit d'obtenir son certificat directement par un test, le financement se fait sur fonds propres, puisqu'en l'absence de formation, les deux voies de financement préalablement citées ne peuvent être mobilisées. Enfin, la prestation de conseil stratégique n'étant pas une action de formation professionnelle continue inscrite au RS, elle n'est pas éligible au CPF.
