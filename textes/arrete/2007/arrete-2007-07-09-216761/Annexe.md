@@ -138,7 +138,7 @@ Paris-Hammamet (Tunisie).
 
 Jusqu'au 31 juillet 2026
 
-Paris-Le Caire (Egypte), dans la limite de quatre (4) fréquences hebdomadaires jusqu'au 29 octobre 2022, puis dans la limite de trois (3) fréquences hebdomadaires à compter du 30 octobre 2022 ;
+Paris-Le Caire (Egypte), dans la limite de quatre (4) fréquences hebdomadaires jusqu'au 25 mars 2023, puis dans la limite de trois (3) fréquences hebdomadaires à compter du 26 mars 2023 ;
 
 Paris-Louqsor (Egypte) ;
 
@@ -170,4 +170,18 @@ Jusqu'au 31 octobre 2027 :
 
 Paris-Ankara (Turquie) ;
 
-Paris-Bodrum (Turquie).
+Paris-Bodrum (Turquie) ;
+
+Lyon-Dakar (Sénégal) ;
+
+Lyon-Hurghada (Egypte) ;
+
+Lyon-Istanbul (Turquie) ;
+
+Paris-Batna (Algérie) ;
+
+Paris-Biskra (Algérie) ;
+
+Paris-El-Oued (Algérie) ;
+
+Paris-Charm El-Cheikh (Egypte).
