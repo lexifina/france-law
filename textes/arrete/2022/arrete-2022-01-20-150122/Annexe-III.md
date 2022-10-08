@@ -6,11 +6,7 @@ LISTE DES EMPLOIS DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE 
 
 1. Direction générale de la police nationale : 1 poste
 
-Etablissement,
-
-organisme ou service
-
-et localisation géographique |
+Établissement, organisme ou service et localisation géographique |
 
 Emploi |
 
@@ -46,13 +42,9 @@ A + |
 
 1 |
 
-2. Direction centrale de la sécurité publique : 7 postes
+2. Direction centrale de la sécurité publique : 9 postes
 
-Établissement,
-
-organisme ou service
-
-et localisation géographique |
+Établissement, organisme ou service et localisation géographique |
 
 Emplois |
 
@@ -80,7 +72,7 @@ DDSP de l'Aisne (02) |
 
 Directeur départemental adjoint et chef de circonscription à Saint Quentin |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -88,11 +80,23 @@ A+ |
 
 1 |
 
+DDSP des Alpes-Maritimes (06) |
+
+Chef du service d'intervention, d'aide et d'assistance de proximité à Cannes |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
 DDSP du Calvados (14) |
 
 Chef de la sûreté départementale à Caen |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -104,7 +108,7 @@ DDSP de la Meurthe-et-Moselle (54) |
 
 Chef de la sûreté départementale à Nancy |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -116,7 +120,7 @@ DDSP du Nord (59) |
 
 Commissaire central adjoint à Valenciennes |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -124,11 +128,23 @@ A+ |
 
 1 |
 
+DDSP des Pyrénées-Atlantiques (64) |
+
+Directeur départemental adjoint et commissaire central adjoint à Pau |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
 DDSP de la Somme (80) |
 
 Directeur départemental adjoint et commissaire central adjoint à Amiens |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -140,7 +156,7 @@ DDSP du Var (83) |
 
 Chef de circonscription à La Seyne sur Mer |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -152,7 +168,7 @@ DDSP de la Haute Vienne (87) |
 
 Directeur départemental adjoint, commissaire central adjoint et chef du service d'intervention, d'aide et d'assistance de proximité à Limoges |
 
-A+ |
+A + |
 
 3 ans |
 
@@ -162,11 +178,7 @@ A+ |
 
 3. Direction centrale de la police judiciaire : 1 poste
 
-Etablissement,
-
-organisme ou service
-
-et localisation géographique |
+Établissement, organisme ou service et localisation géographique |
 
 Emploi |
 
@@ -202,13 +214,47 @@ A + |
 
 1 |
 
-4. Préfecture de police de Paris : 2 postes
+4. Direction centrale de la police aux frontières : 1 poste
 
-Etablissement,
+Établissement, organisme ou service et localisation géographique |
 
-organisme ou service
+Emploi |
 
-et localisation géographique |
+Catégorie
+
+statutaire
+
+d'emploi |
+
+Durée
+
+de la période
+
+de référence |
+
+Montant ITM
+
+(en euros) |
+
+Nombre
+
+de postes |
+
+DCPAF/ Services centraux (75) |
+
+Chef du pôle central de l'éloignement |
+
+A + |
+
+3 ans |
+
+8 000 |
+
+1 |
+
+5. Préfecture de police de Paris : 5 postes
+
+Établissement, organisme ou service et localisation géographique |
 
 Emplois |
 
@@ -232,7 +278,41 @@ Nombre
 
 de postes |
 
+DSPAP/ Direction territoriale de la sécurité de proximité à Paris (75) |
+
+Chef du Service d'Accueil et d'Investigation de Proximité (SAIP) du 19ème arrondissement à Paris |
+
+A + |
+
+3 ans |
+
+10 000 |
+
+1 |
+
+DSPAP/ Direction territoriale de la sécurité de proximité des Hauts-de-Seine (92) |
+
+Chef de circonscription à Courbevoie |
+
+A + |
+
+3 ans |
+
+10 000 |
+
+1 |
+
 DSPAP/ Direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (93) |
+
+Commissaire central adjoint à Aulnay-sous-Bois |
+
+A + |
+
+3 ans |
+
+10 000 |
+
+1 |
 
 Commissaire central adjoint à Saint-Denis |
 
@@ -246,9 +326,7 @@ A + |
 
 DSPAP/ Direction territoriale de la sécurité de proximité du Val-de-Marne (94) |
 
-Chef de circonscription
-
-à Chennevières |
+Chef de circonscription à Chennevières |
 
 A + |
 
@@ -258,13 +336,9 @@ A + |
 
 1 |
 
-5. Service des technologies et des systèmes d'information de la sécurité intérieure : 1 poste
+6. Service des technologies et des systèmes d'information de la sécurité intérieure : 1 poste
 
-Etablissement,
-
-organisme ou service
-
-et localisation géographique |
+Établissement, organisme ou service et localisation géographique |
 
 Emploi |
 
@@ -300,4 +374,4 @@ A + |
 
 1 |
 
-6. Direction générale de la sécurité intérieure : 2 postes
+7. Direction générale de la sécurité intérieure : 2 postes
