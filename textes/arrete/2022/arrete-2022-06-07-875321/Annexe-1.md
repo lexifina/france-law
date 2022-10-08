@@ -144,25 +144,11 @@ Liste |
 
 49,1 % |
 
-CSA Mixte Mayotte |
-
-192 |
-
-Liste |
-
-5 |
-
-5 |
-
-44,3 % |
-
-55,7 % |
-
 Auvergne-Rhône-Alpes |
 
 CSA DRAAF |
 
-222 |
+254 |
 
 Liste |
 
@@ -170,9 +156,9 @@ Liste |
 
 7 |
 
-61,7 % |
+58,7 % |
 
-38,3 % |
+41,3 % |
 
 CSA U REA |
 
@@ -192,17 +178,17 @@ Bourgogne-Franche-Comté |
 
 CSA DRAAF |
 
-166 |
+203 |
 
 Liste |
 
-5 |
+7 |
 
-5 |
+7 |
 
-60,2 % |
+58,6 % |
 
-39,8 % |
+41,4 % |
 
 CSA U REA |
 
@@ -222,7 +208,7 @@ Bretagne |
 
 CSA DRAAF |
 
-151 |
+166 |
 
 Liste |
 
@@ -230,9 +216,9 @@ Liste |
 
 6 |
 
-62,9 % |
+59,6 % |
 
-37,1 % |
+40,4 % |
 
 CSA U REA |
 
@@ -252,7 +238,7 @@ Centre-Val de Loire |
 
 CSA DRAAF |
 
-102 |
+127 |
 
 Liste |
 
@@ -260,9 +246,9 @@ Liste |
 
 6 |
 
-66,7 % |
+66,9 % |
 
-33,3 % |
+33,1 % |
 
 CSA U REA |
 
@@ -282,7 +268,7 @@ Corse |
 
 CSA DRAAF |
 
-45 |
+51 |
 
 Sigle |
 
@@ -312,17 +298,17 @@ Grand Est |
 
 CSA DRAAF |
 
-182 |
+233 |
 
 Liste |
 
-5 |
+7 |
 
-5 |
+7 |
 
-59,3 % |
+57,1 % |
 
-40,7 % |
+42,9 % |
 
 CSA U REA |
 
@@ -358,7 +344,7 @@ Hauts de France |
 
 CSA DRAAF |
 
-383 |
+399 |
 
 Liste |
 
@@ -366,9 +352,9 @@ Liste |
 
 7 |
 
-53,3 % |
+52,6 % |
 
-46,7 % |
+47,4 % |
 
 CSA U REA |
 
@@ -388,7 +374,7 @@ Ile-de-France |
 
 CSA DRIAAF |
 
-117 |
+121 |
 
 Liste |
 
@@ -396,9 +382,9 @@ Liste |
 
 6 |
 
-56,4 % |
+55,4 % |
 
-43,6 % |
+44,6 % |
 
 CSA U REA |
 
@@ -430,21 +416,39 @@ Sigle |
 
 / |
 
+Mayotte
+
+|
+
+CSA DAAF |
+
+66 |
+
+Sigle |
+
+6 |
+
+6 |
+
+/ |
+
+/ |
+
 Normandie |
 
 CSA DRAAF |
 
-194 |
+221 |
 
 Liste |
 
-5 |
+7 |
 
-5 |
+7 |
 
-59,8 % |
+60,6 % |
 
-40,2 % |
+39,4 % |
 
 CSA U REA |
 
@@ -464,7 +468,7 @@ Nouvelle-Aquitaine |
 
 CSA DRAAF |
 
-218 |
+292 |
 
 Liste |
 
@@ -472,9 +476,9 @@ Liste |
 
 7 |
 
-62,8 % |
+61 % |
 
-37,2 % |
+39 % |
 
 CSA U REA |
 
@@ -494,7 +498,7 @@ Occitanie |
 
 CSA DRAAF |
 
-249 |
+334 |
 
 Liste |
 
@@ -502,9 +506,9 @@ Liste |
 
 7 |
 
-63,1 % |
+62,3 % |
 
-36,9 % |
+37,7 % |
 
 CSA U REA |
 
@@ -524,7 +528,7 @@ Provence-Alpes-Cote-d'Azur |
 
 CSA DRAAF |
 
-132 |
+167 |
 
 Liste |
 
@@ -532,9 +536,9 @@ Liste |
 
 5 |
 
-56,1 % |
+58,1 % |
 
-43,9 % |
+41,9 % |
 
 CSA U REA |
 
@@ -554,7 +558,7 @@ Pays de la Loire |
 
 CSA DRAAF |
 
-126 |
+163 |
 
 Liste |
 
@@ -562,9 +566,9 @@ Liste |
 
 5 |
 
-60,3 % |
+62 % |
 
-39,7 % |
+38 % |
 
 CSA U REA |
 
