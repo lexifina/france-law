@@ -2,7 +2,7 @@
 
 I. – Les mentions obligatoires qui doivent figurer sur les factures en application du II de l'article 289 du code général des impôts sont les suivantes :
 
-1° Le nom complet et l'adresse de l'assujetti et de son client ;
+1° Le nom complet, le numéro d'identification mentionné au premier alinéa de l'article R. 123-221 du code de commerce et l'adresse de l'assujetti et de son client ;
 
 2° Le numéro individuel d'identification attribué à l'assujetti en application de l'article 286 ter du code précité et sous lequel il a effectué la livraison de biens ou la prestation de services ;
 
@@ -16,13 +16,19 @@ I. – Les mentions obligatoires qui doivent figurer sur les factures en applica
 
 7° Un numéro unique basé sur une séquence chronologique et continue ; la numérotation peut être établie dans ces conditions par séries distinctes lorsque les conditions d'exercice de l'activité de l'assujetti le justifient ; l'assujetti doit faire des séries distinctes un usage conforme à leur justification initiale ;
 
+7° bis L'adresse de livraison des biens si elle est différente de l'adresse du client ;
+
 8° Pour chacun des biens livrés ou des services rendus, la quantité, la dénomination précise, le prix unitaire hors taxes et le taux de taxe sur la valeur ajoutée légalement applicable ou, le cas échéant, le bénéfice d'une exonération ;
+
+8° bis L'information selon laquelle les opérations donnant lieu à facture sont constituées exclusivement de livraisons de biens ou exclusivement de prestations de services ou sont constituées de ces deux catégories d'opérations ;
 
 9° Tous rabais, remises, ristournes ou escomptes acquis et chiffrables lors de l'opération et directement liés à cette opération ;
 
 10° La date à laquelle est effectuée, ou achevée, la livraison de biens ou la prestation de services ou la date à laquelle est versé l'acompte visé au c du 1 du I de l'article 289 du code précité, dans la mesure où une telle date est déterminée et qu'elle est différente de la date d'émission de la facture ;
 
 11° Le montant de la taxe à payer et, par taux d'imposition, le total hors taxe et la taxe correspondante mentionnés distinctement ;
+
+11° bis Lorsque le prestataire a opté pour le paiement de la taxe d'après les débits, la mention : “ Option pour le paiement de la taxe d'après les débits ” ;
 
 12° En cas d'exonération, la référence à la disposition pertinente du code général des impôts ou à la disposition correspondante de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération ;
 
@@ -47,3 +53,15 @@ a) Aux livraisons de biens visées aux articles 258 A et 258 B du code précité
 b) Aux livraisons de biens exonérées en application du I de l'article 262 ter et du II de l'article 298 sexies du même code ;
 
 c) Aux livraisons de biens et prestations de services visées au 1° du II de l'article 289-0 du code précité pour lesquelles, toutefois, la facture peut ne pas comporter les mentions visées au 9° du I du présent article, le prix unitaire hors taxe, le taux de la taxe applicable et son montant.
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 2022-1299 du 7 octobre 2022, dans sa rédaction issue de l'article 2 du décret n° 2024-266 du 25 mars 2024 :
+
+Pour les opérations mentionnées à l'article 289 bis du code général des impôts, les dispositions du présent article dans sa rédaction issue de l'article 1er du décret précité s'appliquent aux factures émises à compter du 1er septembre 2026.
+
+Toutefois, ces dispositions ne s'appliquent qu'à compter du 1er septembre 2027 pour les factures émises par les assujettis relevant des catégories des microentreprises et des petites et moyennes entreprises mentionnées aux deuxième et troisième alinéas du A du III de l'article 26 de la loi n° 2022-1157 du 16 août 2022 de finances rectificative pour 2022 qui ne sont pas membres d'un assujetti unique mentionné à l'article 256 C du code général des impôts.
+
+Pour les opérations mentionnées aux articles 290 et 290 A du code général des impôts, les dispositions du présent article dans sa rédaction issue de l'article 1er du décret précité s'appliquent aux factures émises ou, à défaut, aux opérations réalisées à compter du 1er septembre 2026.
+
+Toutefois, cette date est portée au 1er septembre 2027 pour les assujettis relevant des catégories d'entreprises mentionnées au second alinéa du I.
