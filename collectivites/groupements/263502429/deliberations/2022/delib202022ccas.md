@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB202022CCAS — D-RESIDENCE AUTONOMIE LES HERMELLES - PROPOSITIONS TARIFAIRES 2022
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-10-11
+- Matière : 7.1 Finances locales/Divers
+- Objet : D-RESIDENCE AUTONOMIE LES HERMELLES - PROPOSITIONS TARIFAIRES 2022
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/257639/93cc815c4802b98cb235dd271a45a1d09ab458c16144b795c7aab2b808096600.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
