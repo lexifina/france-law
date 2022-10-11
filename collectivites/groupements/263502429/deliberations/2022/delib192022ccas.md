@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB192022CCAS — D- PROPOSITIONS BUDGETAIRES DE LA RESIDENCE AUTONOMIE LES HERMELLES
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-10-11
+- Matière : 7.1 Finances locales/Divers
+- Objet : D- PROPOSITIONS BUDGETAIRES DE LA RESIDENCE AUTONOMIE LES HERMELLES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/257622/604fd97796e612a65a4bd0bb9301077d171dc6d05851e05b720587a4680fc5f1.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
