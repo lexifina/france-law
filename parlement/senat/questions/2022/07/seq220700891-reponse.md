@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700891
+
+- Question : [SEQ220700891](seq220700891.md) — Difficultés d'accès en master
+
+## Réponse
+
+*Enseignement supérieur et recherche, JO du 2022-10-13, page 4964*
+
+Le nombre de places en première année de master (M1) est globalement suffisant pour accueillir tous les étudiants qui le souhaitent. Au titre de l'année universitaire 2021-2022, les capacités d'accueil s'élevaient à un peu plus de 197 000 places pour environ 156 000 étudiants inscrits en M1. Le sujet n'est donc pas tant celui du nombre de places que l'adéquation entre les souhaits des étudiants, les offres des établissements et, in fine, les possibilités d'insertion professionnelle. Depuis le décret n° 2021-629 du 19 mai 2021, la réglementation sur le dispositif de saisine du recteur de région académique a effectivement évolué et a repris pour partie les recommandations du Haut conseil de l'évaluation de la recherche et de l'enseignement supérieur et de l'Assemblée nationale. La synchronisation des calendriers de recrutement en master, mise en œuvre par le ministère chargé de l'enseignement supérieur au titre de la rentrée 2022, constitue un progrès qui a permis une forte diminution du nombre total de saisines des recteurs de région académique pour l'entrée en première année de master, par rapport à la même période en 2021. Le portail d'information « Trouver Mon Master » permet déjà une visibilité nationale aux étudiants sur l'offre de formation en master, ce qui participe de leur accompagnement en matière d'orientation. La plateforme de candidature en première année de master qui verra le jour d'ici la rentrée prochaine renforcera encore le service rendu aux étudiants en leur permettant notamment de postuler à un grand nombre de masters dans le cadre d'un calendrier national harmonisé, au moyen d'un dossier de candidature unique et avec une allocation des places disponibles améliorée.
