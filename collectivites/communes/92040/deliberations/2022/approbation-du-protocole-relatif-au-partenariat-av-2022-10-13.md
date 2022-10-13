@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation du protocole relatif au partenariat avec le Parquet de Nanterre
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : PREVENTION ET SECURITE
+- Objet : Approbation du protocole relatif au partenariat avec le Parquet de Nanterre
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMDUsInB1ciI6ImJsb2JfaWQifX0=--1ddabed035c00b647de8d1942e586af029db9fae/131022_05.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
