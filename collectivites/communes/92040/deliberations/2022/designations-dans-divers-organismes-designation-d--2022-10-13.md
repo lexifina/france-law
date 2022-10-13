@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Désignations dans divers organismes. Désignation d'un délégué au sein du Conseil d'école de l'ensemble scolaire Françoise GIROUD.
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : ADMINISTRATION GENERALE
+- Objet : Désignations dans divers organismes. Désignation d'un délégué au sein du Conseil d'école de l'ensemble scolaire Françoise GIROUD.
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMDQsInB1ciI6ImJsb2JfaWQifX0=--ae509ba7cb9024fe881de5c81f18e16f777d2700/131022_01.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
