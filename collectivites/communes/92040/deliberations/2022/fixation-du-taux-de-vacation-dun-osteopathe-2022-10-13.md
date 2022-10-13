@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation du taux de vacation d’un ostéopathe
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : RESSOURCES HUMAINES
+- Objet : Fixation du taux de vacation d’un ostéopathe
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NjEsInB1ciI6ImJsb2JfaWQifX0=--e0024dacf79743a10628c4d878d510a59bba7cab/131022_13.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
