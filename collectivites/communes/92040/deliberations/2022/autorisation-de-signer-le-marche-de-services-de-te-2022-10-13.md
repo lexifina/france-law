@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer le marché de services de télécommunication - lot n°2
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : VILLE NUMERIQUE
+- Objet : Autorisation de signer le marché de services de télécommunication - lot n°2
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYwMDYsInB1ciI6ImJsb2JfaWQifX0=--79fce84b29adb910f7bc66d06f637a8a37d998a6/131022_04.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
