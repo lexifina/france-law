@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Fixation des modalités d’organisation du vote électronique pour les représentants du personnel au comité social territorial
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : RESSOURCES HUMAINES
+- Objet : Fixation des modalités d’organisation du vote électronique pour les représentants du personnel au comité social territorial
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMDksInB1ciI6ImJsb2JfaWQifX0=--778a758c5beaf102757fd407c48810424b879301/131022_12.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
