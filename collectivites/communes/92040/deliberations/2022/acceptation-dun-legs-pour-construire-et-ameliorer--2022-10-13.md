@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Acceptation d’un legs pour construire et améliorer les maisons de santé et pour personnes âgées
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : PATRIMOINE
+- Objet : Acceptation d’un legs pour construire et améliorer les maisons de santé et pour personnes âgées
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0MTEsInB1ciI6ImJsb2JfaWQifX0=--ded0dd31410b9a66a83ebd6334150015a0f933ef/131022_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
