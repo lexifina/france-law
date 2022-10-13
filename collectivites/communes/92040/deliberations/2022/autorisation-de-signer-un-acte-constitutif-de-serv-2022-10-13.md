@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer un acte constitutif de servitude de passage pour piétons dans le cadre de l’opération sise 61-63, avenue Victor Cresson
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : PATRIMOINE
+- Objet : Autorisation de signer un acte constitutif de servitude de passage pour piétons dans le cadre de l’opération sise 61-63, avenue Victor Cresson
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NjQsInB1ciI6ImJsb2JfaWQifX0=--42b80ad94ac14d4d1ef45865c9406002b65df0d9/131022_22.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
