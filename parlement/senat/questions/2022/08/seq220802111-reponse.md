@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802111
+
+- Question : [SEQ220802111](seq220802111.md) — Appareils d'aide à la navigation pour les poids lourds
+
+## Réponse
+
+*Transports, JO du 2022-10-13, page 5009*
+
+Il convient tout d'abord de souligner que l'accident survenu sur le pont de Touzac en début d'année 2022 résulte en premier lieu du non-respect, par le conducteur, des restrictions de circulation clairement signalées en amont de l'ouvrage. Le respect du code de la route doit primer, indépendamment de la mise en place de tout outil numérique. Pour autant, le Gouvernement estime également opportun que les calculateurs d'itinéraires destinés aux conducteurs de poids lourds prennent bien en compte les spécificités du guidage de ces véhicules et en particulier les restrictions de circulation qui les concernent. Les calculateurs d'itinéraires étant de fait indispensables à tout conducteur de poids lourds sur des routes qu'il ne connait pas, l'introduction d'une obligation de leur usage aurait en pratique peu d'effet. En revanche, le Gouvernement travaille sur l'organisation de la collecte de toutes les informations utiles, notamment en vue de s'assurer que les calculateurs d'itinéraires intègrent ces restrictions de circulation. Le décret n° 2022-1119 du 3 août 2022 relatif aux services numériques d'assistance aux déplacements, publié le 5 août 2022 en même temps que l'arrêté qui l'accompagne, pris en application de l'article 122 de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets, oblige ainsi ces services à prendre en compte les restrictions de circulation concernant les poids lourds, telles qu'elles figurent sur le point d'accès national, y compris dans le calcul des itinéraires, dans le cas des services numériques spécifiques aux véhicules lourds. Des travaux techniques se poursuivent afin d'améliorer la structure des données figurant sur le point d'accès national.
