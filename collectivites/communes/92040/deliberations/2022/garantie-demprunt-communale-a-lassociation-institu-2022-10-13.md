@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Garantie d’emprunt communale à l’association « Institut Catholique de Lille » pour le financement de l’acquisition d’un immeuble situé 2, allée des Moulineaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-10-13
+- Matière : FINANCES
+- Objet : Garantie d’emprunt communale à l’association « Institut Catholique de Lille » pour le financement de l’acquisition d’un immeuble situé 2, allée des Moulineaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMDcsInB1ciI6ImJsb2JfaWQifX0=--d515c68d97c785136c38d5a5b5be3de6be1979a9/131022_08.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
