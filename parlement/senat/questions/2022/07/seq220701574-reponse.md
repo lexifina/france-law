@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701574
+
+- Question : [SEQ220701574](seq220701574.md) — Pesticides en Nouvelle-Aquitaine
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2022-10-13, page 4994*
+
+La mise sur le marché et l'utilisation des pesticides, terme qui désigne communément les produits phytopharmaceutiques et les produits biocides, sont encadrées par des règlementations européennes qui définissent les exigences préalables d'évaluation et de gestion des risques. Ces règlementations se basent sur une procédure en deux étapes : d'abord une approbation des substances actives par la Commission européenne, après un vote des États-membres de l'Union, puis une autorisation des produits à l'échelle nationale avec éventuellement des procédures de reconnaissance des autorisations de mise sur le marché déjà délivrées par d'autres État membres. Ces règlementations incluent un principe d'exclusion des substances les plus préoccupantes pour la santé et l'environnement : il s'agit des substances cancérogènes, mutagènes et toxiques pour la reproduction avérés ou présumés, les substances persistantes, bioaccumulables et toxiques mais aussi des perturbateurs endocriniens. Ces substances ne peuvent plus être approuvées dès lors que de telles propriétés de dangers ont été démontrées, sauf exception notamment lorsqu'il existe un danger phytosanitaire grave qu'il n'est pas possible de maîtriser par d'autres moyens. Le Gouvernement français s'oppose systématiquement dans les enceintes européennes à l'approbation ou au renouvellement de telles substances, conformément à l'engagement inscrit dans le plan Ecophyto2+. Il se mobilise par ailleurs pour accélérer leur identification, en particulier pour les perturbateurs endocriniens, au travers des actions de la 2ème stratégie nationale sur les perturbateurs endocriniens et l'expertise de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
