@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM22099 — PARTICIPATION DE LA COMMUNE ET DE LA PELLERINE AUX FRAIS DE FONCTIONNEMENT DES ECOLES
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2022-10-13
+- Matière : 8.1 Domaines de competences par themes/Enseignement
+- Objet : PARTICIPATION DE LA COMMUNE ET DE LA PELLERINE AUX FRAIS DE FONCTIONNEMENT DES ECOLES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2022/261011/2d7fa36a02bce4f033bd585788e537d55612277e778918fdcd3094ec1f052776.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
