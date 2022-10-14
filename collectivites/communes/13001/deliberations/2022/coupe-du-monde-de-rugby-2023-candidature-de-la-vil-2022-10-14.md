@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — COUPE DU MONDE DE RUGBY 2023 - CANDIDATURE DE LA VILLE D'AIX-EN-PROVENCE "CAMP DE BASE PHASE FINALE" - APPROBATION DE LA CONVENTION "CAMP DE BASE PHASE FINALE ENTRE LA VILLE D'AIX-EN-PROVENCE ET LE GROUPEMENT D'INTERET PUBLIC FRANCE 2023.
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-10-14
+- Séance : Conseil Municipal 1CA
+- Objet : COUPE DU MONDE DE RUGBY 2023 - CANDIDATURE DE LA VILLE D'AIX-EN-PROVENCE "CAMP DE BASE PHASE FINALE" - APPROBATION DE LA CONVENTION "CAMP DE BASE PHASE FINALE ENTRE LA VILLE D'AIX-EN-PROVENCE ET LE GROUPEMENT D'INTERET PUBLIC FRANCE 2023.
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-14533-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
