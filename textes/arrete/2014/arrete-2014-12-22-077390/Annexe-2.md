@@ -236,7 +236,11 @@ Conformément au 1° de l’article 5 de l’arrêté du 20 mars 2015 (NOR : DEV
 
 - Abaissement de la température de retour vers un réseau de chaleur / Fiche d’opération standardisée n° BAR-SE-107
 
+- Désembouage d'un réseau hydraulique individuel de chauffage en France métropolitaine / Fiche d’opération standardisée n° BAR-SE-108
+
 Liens :
+
+Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0238 du 13/10/2022, texte n° 26, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=IfPCTOBZvUbd24vn3kDNUKFvGs9WK7QfWI-0Yygfd_k=
 
 Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié n° 0178 du 03/08/2022, texte n° 40, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=oQu3Y-LjnZuzins8OYKWD9e28XWm-Rn2rXJfi6SAZBY=
 
