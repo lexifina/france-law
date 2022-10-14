@@ -6,43 +6,47 @@ A. Fiches d'opérations standardisées BAR-EN-101 Isolation de combles ou de toi
 
 Le contrôle de ces opérations est réalisé après l'achèvement des travaux sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la résistance thermique, la pérennité ou la sécurité de l'isolation doit conduire à classer l'opération en non satisfaisant .
 
-A. 1. Les critères suivants, vérifiés sur le lieu de l'opération, doivent conduire à un classement non satisfaisant de l'opération :
+A. 1.-Les critères suivants, vérifiés sur le lieu de l'opération, doivent conduire à un classement "non satisfaisant" de l'opération :
 
-1. La non-réalisation des travaux dans les deux cas suivants :
+A. 1.1.-S'agissant de critères directement liés à la fiche d'opération standardisée :
+
+1. Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ou le cadre contribution défini à l'annexe 8 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur ;
+
+2. Le délai minimal de sept jours francs entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant) n'est pas respecté d'après le devis et la facture et/ ou d'après la déclaration écrite du bénéficiaire ;
+
+3. La résistance thermique de l'isolant posé est inférieure à la résistance minimale prévue par la fiche d'opération standardisée correspondante ;
+
+4. Le pare-vapeur est absent alors qu'il est nécessaire selon les règles de l'art, ou son positionnement est visiblement inadapté côté froid ;
+
+5. La surface de l'isolant posé, mesurée ou estimée, donnant lieu à CEE, présente un écart de plus de 10 % à la surface déclarée dans l'attestation sur l'honneur, sans raison manifeste justifiant l'écart.
+
+L'écart de surface est calculé de la manière suivante : Ecart = (Surface déclarée-Surface mesurée)/ Surface mesurée*100.
+
+Si l'écart de surface d'isolant est trop important (supérieur à 10 %), les causes de cet écart doivent être détaillées par le demandeur de certificats d'économies d'énergie en même temps que les justifications et éventuelles mesures correctives dans la synthèse des contrôles mentionnée au II de l'article 7, ainsi qu'en commentaires du tableau récapitulatif des opérations défini aux annexes 6-1 et 6-2 de l'arrêté du 4 septembre 2014 fixant la liste des éléments d'une demande de certificats d'économies d'énergie et les documents à archiver par le demandeur. Suite à ces justifications et/ ou mesures correctives, l'opération reste non satisfaisante mais peut être déposée.
+
+A. 1.1.2.-S'agissant d'autres critères :
+
+6. Les travaux n'ont pas été réalisés, dans les deux cas suivants :
 
 -la zone de travaux est accessible et les travaux n'ont manifestement pas été réalisés ;
 
--le bénéficiaire n'a pas connaissance de la réalisation de travaux et l'atteste par écrit ;
+-le bénéficiaire n'a pas connaissance de la réalisation de travaux et l'atteste par écrit.
 
-2. La résistance thermique de l'isolant posé est inférieure à la résistance minimale prévue par la fiche standardisée correspondante (ce point de contrôle n'étant pas applicable dans le cas où le contrôle concerne une opération relative aux fiches d'opérations standardisées BAR-TH-145 ou BAR-TH-164) ;
+7. La répartition de l'isolant est non homogène (sauf si la résistance thermique minimale est partout respectée) ;
 
-3. La répartition de l'isolant est non homogène (sauf si la résistance thermique minimale est partout respectée) ;
+8. Quelle que soit la nature de l'isolant (combustible ou non), la distance de sécurité minimale entre les conduits d'évacuation des produits de combustion et l'isolant, telle que prévue par le DTU 24.1, n'est pas respectée, y compris si la cheminée n'est pas utilisée. Pour rappel, la distance minimale à respecter est fonction du matériau constitutif du conduit, de sa classe de température et de sa résistance thermique et doit tenir compte des règles de l'art définies par le DTU 24.1. A défaut de pouvoir obtenir ces renseignements, la distance minimale entre la face externe du conduit et l'arrêtoir sera la distance maximale prévue par le DTU 24.1, i. e. 10 cm. De plus, à défaut de pouvoir mesurer effectivement la distance (éloignement trop important du conduit en l'absence de cheminement sécurisé permettant d'y accéder sans possibilité d'utiliser un mètre laser), la distance pourra être évaluée visuellement ;
 
-4. La surface mesurée présente un écart de plus de 10 % à la surface déclarée sur la facture, sans raison manifeste justifiant l'écart.
+9. Il y a absence de coffrage ou écran de protection ou arrêtoir autour des autres sources de chaleur, dont l'absence de protection autour des dispositifs d'éclairage ou boîtiers électriques. En revanche, pour les fiches d'opérations standardisées portant les références BAR-EN-103 et BAT-EN-103, si les réseaux électriques n'ont pas pu être déportés, un écart raisonnable (10 cm en général, 5 cm pour les points lumineux protégés : hublot, globe, coque) vis-à-vis des points lumineux présentant un risque d'échauffement ne conduit pas à un classement non satisfaisant ;
 
-Pour rappel : Ecart = (Surface déclarée-Surface mesurée)/ Surface mesurée*100.
+10. Il y a absence de rehausse rigide au-dessus de la trappe d'accès ou la trappe est bloquée du fait d'une mauvaise qualité de réalisation des travaux (bloquée par la rehausse ou par l'isolant posé) pour les travaux d'isolation de planchers des combles. Cette rehausse doit permettre de constituer un arrêtoir, quelle que soit la nature de l'isolant, et de supporter le moyen d'accès lorsque nécessaire ;
 
-Si l'écart de surface d'isolant est trop important (supérieur à 10 %), l'opération doit donner lieu à une recherche des causes de cet écart. Ces causes doivent être détaillées par le demandeur de certificats d'économies d'énergie en même temps que les justifications et éventuelles mesures correctives dans les colonnes concernées du tableau de synthèse mentionné au II de l'article 7. L'opération reste non satisfaisante mais peut être déposée.
+11. Il y a présence de traces d'humidité sur l'isolant ;
 
-5. Quelle que soit la nature de l'isolant (combustible ou non), la distance de sécurité minimale entre les conduits d'évacuation des produits de combustion et l'isolant, telle que prévue par le DTU 24.1, n'est pas respectée, y compris si la cheminée n'est pas utilisée. Pour rappel, la distance minimale à respecter est fonction du matériau constitutif du conduit, de sa classe de température et de sa résistance thermique et doit tenir compte des règles de l'art définies par le DTU 24.1. A défaut de pouvoir obtenir ces renseignements, la distance minimale entre la face externe du conduit et l'arrêtoir sera la distance maximale prévue par le DTU 24.1, i. e. 10 cm. De plus, à défaut de pouvoir mesurer effectivement la distance (éloignement trop important du conduit en l'absence de cheminement sécurisé permettant d'y accéder sans possibilité d'utiliser un mètre laser), la distance pourra être évaluée visuellement ;
+12. Pour les fiches d'opérations standardisées portant les références BAR-EN-103 et BAT-EN-103, le type et le nombre de points de fixation visibles ne répondent pas aux recommandations du fabricant de l'isolant ou ne permettent pas de s'assurer de la tenue dans le temps de l'isolant ;
 
-6. L'absence de coffrage ou écran de protection ou arrêtoir autour des autres sources de chaleur, dont l'absence de protection autour des dispositifs d'éclairage ou boîtiers électriques. En revanche, pour les fiches d'opérations standardisées portant les références BAR-EN-103 et BAT-EN-103, si les réseaux électriques n'ont pas pu être déportés, un écart raisonnable (10 cm en général, 5 cm pour les points lumineux protégés : hublot, globe, coque) vis-à-vis des points lumineux présentant un risque d'échauffement ne conduit pas à un classement non satisfaisant ;
+13. Pour les fiches d'opérations standardisées portant les références BAR-EN-103 et BAT-EN-103, il y a une absence d'isolant non explicable (morcellement) ou une absence de coffrage et d'isolant au niveau du passage de points particuliers (boîtiers électriques, gaines, tuyaux, poutre …) Au niveau des retombées de poutre, l'isolant n'a pas été placé sur les trois faces du coffrage, à l'exception des poutres en bordure de trémie en cas d'isolation par l'extérieur. Une zone qui ne serait pas isolée pour permettre manifestement le fonctionnement d'une porte de garage, par exemple, ne conduit pas à un classement non satisfaisant, et la surface correspondante ne doit pas être prise en compte dans la surface déclarée ;
 
-7. L'absence de rehausse rigide au-dessus de la trappe d'accès ou trappe bloquée par une mauvaise qualité de réalisation des travaux (bloquée par la rehausse ou par l'isolant posé) pour les travaux d'isolation de planchers des combles. Cette rehausse doit permettre de constituer un arrêtoir, quelle que soit la nature de l'isolant, et de supporter le moyen d'accès lorsque nécessaire ;
-
-8. L'absence visible de pare-vapeur lorsqu'il est nécessaire selon les règles de l'art, ou son positionnement visiblement inadapté côté froid ;
-
-9. La présence de traces d'humidité sur l'isolant ;
-
-10. Pour les fiches d'opérations standardisées portant les références BAR-EN-103 et BAT-EN-103, le type et le nombre de points de fixation visibles doivent répondre aux recommandations du fabricant de l'isolant et permettre de s'assurer de la tenue dans le temps de l'isolant ;
-
-11. Pour les fiches d'opérations standardisées portant les références BAR-EN-103 et BAT-EN-103, une absence d'isolant non explicable (morcellement) ou l'absence de coffrage et d'isolant au niveau du passage de points particuliers (boîtiers électriques, gaines, tuyaux, poutre …) doit conduire à un classement non satisfaisant. Au niveau des retombées de poutre, un isolant doit être placé sur les trois faces du coffrage, à l'exception des poutres en bordure de trémie en cas d'isolation par l'extérieur. Une zone qui ne serait pas isolée pour permettre manifestement le fonctionnement d'une porte de garage, par exemple, ne conduit pas à un classement non satisfaisant, et la surface correspondante ne doit pas être prise en compte dans la surface déclarée ;
-
-12. Le bénéficiaire n'a pas de devis, facture ou cadre contribution et déclare par écrit ne jamais en avoir eu à sa disposition pour les travaux en question. La déclaration de l'absence d'au moins l'un de ces documents conduit à classer l'opération en non satisfaisante ;
-
-13. Lorsque le délai minimal de sept jours francs entre la date d'acceptation du devis et la date de début des travaux (pose de l'isolant) n'est pas respecté d'après le devis et la facture et/ ou que le bénéficiaire le déclare par écrit ;
-
-14. L'usage de matériaux combustibles laissés apparents ne respectant pas les prescriptions d'usage vis-à-vis du risque incendie ou des prescriptions générales relatives aux normes harmonisées.
+14. Il est constaté l'usage de matériaux combustibles laissés apparents ne respectant pas les prescriptions d'usage vis-à-vis du risque incendie ou des prescriptions générales relatives aux normes harmonisées.
 
 Les matériaux à base de polystyrène utilisés pour l'isolation thermique en sous-face des planchers bas dans les caves et les garages des maisons d'habitation justifient :
 
@@ -50,27 +54,11 @@ Les matériaux à base de polystyrène utilisés pour l'isolation thermique en s
 
 -d'un classement au feu correspondant au moins à l'euroclasse E ;
 
--d'un essai démontrant que le produit testé en épaisseur 40 mm (matériau EPS) ou 60 mm (matériau XPS) conventionnelle est équivalent à l'euroclasse D ;
+-de la preuve du suivi d'ignifugation chez le producteur de la matière première avec un niveau de performance équivalent à l'euroclasse D pour l'épaisseur conventionnelle de 60 mm pour les polystyrènes expansés (EPS) ou 40 mm pour les polystyrènes extrudés (XPS) ;
 
 -d'un suivi de la production du fabricant de matière première sur le volet ignifugation.
 
 En l'absence de l'un des éléments ci-dessus, l'opération est classée non satisfaisante.
-
-Cas particulier des isolants en vrac :
-
-L'absence de piges ou autres repérages de hauteur dans le cas d'isolants en vrac sera mentionnée dans le rapport dans la partie relative à la qualité des travaux, sans engendrer à eux seuls un classement non satisfaisant. Enfin, pour le contrôle de la résistance thermique des isolants en vrac, l'épaisseur et le nombre de sacs seront utilisés (l'absence de données sur le nombre de sacs, bien que constituant un manquement manifeste aux règles de l'art, ne conduit pas nécessairement au classement non satisfaisant, si toutefois l'épaisseur est suffisante et que l'absence d'information sur le nombre de sacs est signalée dans le rapport).
-
-Cas des vérifications d'opérations inaccessibles ou non visibles :
-
-Lors des vérifications sur sites réalisées par les organismes d'inspection accrédités, il peut arriver que les opérations sélectionnées soient inaccessibles ou non visibles, les vérifications étant non destructives.
-
-Dans ces cas, l'organisme accrédité ne peut conclure sur le caractère satisfaisant ou non satisfaisant de l'opération. Il inscrit alors en conclusion de son rapport et dans la colonne conclusion de la synthèse de contrôle que l'opération est inaccessible/ non vérifiable , et décrit la situation de façon succincte en commentaire qui le conduit à ce type de conclusion (isolations faites par le toit sans accès par une trappe ou isolation de rampant recouvertes de placoplâtre pour les combles, par exemple). En revanche, si l'opération n'a pas pu être contrôlée du fait d'un manque de qualité des travaux (exemple : trappe bloquée par la rehausse, trappe bloquée par l'isolant posé), l'organisme d'inspection doit conclure au caractère non satisfaisant de l'opération en le mentionnant dans le commentaire.
-
-Ces mentions ( inaccessible/ non vérifiable et commentaires associés) sont inscrites sous réserve que le bénéficiaire confirme qu'il y a bien eu l'intervention d'un artisan pour la réalisation des opérations et seulement si la surface estimée respecte les dispositions du point 4 ci-dessus.
-
-Etant donné que, dans ce cas, la visite sur site ne peut permettre à l'organisme d'inspection de conclure quant au caractère satisfaisant ou non satisfaisant de l'opération, cette opération n'est pas comptabilisée dans le taux des opérations satisfaisantes du dossier lorsqu'il est établi.
-
-Si l'un au moins des points vérifiés lors du contrôle révèle un écart, le contrôle est jugé non satisfaisant.
 
 A. 2. Doivent être vérifiés lors des contrôles par contact :
 
@@ -84,7 +72,7 @@ B. Fiches d'opérations standardisées BAR-EN-102 Isolation des murs , BAR-EN-10
 
 Le contrôle de ces opérations est réalisé après l'achèvement des travaux sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la résistance thermique, la pérennité ou la sécurité de l'isolation doit conduire à classer l'opération en non satisfaisant .
 
-B. 1. Les critères suivants, vérifiés sur le lieu de l'opération, doivent conduire à un classement non satisfaisant de l'opération (à l'exception des points 1,2,3,4,5,7,8,11 à 17 et 19 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+B. 1. Les critères suivants, vérifiés sur le lieu de l'opération, doivent conduire à un classement non satisfaisant de l'opération :
 
 B. 1.1. Pour l'isolation thermique par l'intérieur et par l'extérieur :
 
@@ -156,7 +144,7 @@ C.-Fiche d'opération standardisée BAR-TH-104 " Pompe à chaleur de type air/ e
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
-C. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,4,10,12 à 18 ayant un avis " non accessible/ non vérifiable ", lesquels n'influent pas sur la conclusion du rapport) :
+C. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
 
 C. I. A.-Critères directement liés à la fiche d'opération standardisée :
 
@@ -226,7 +214,7 @@ D. Fiche d'opération standardisée BAR-TH-113 Chaudière biomasse individuelle 
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-D. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1 et 7 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+D. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 D. I. A. Critères directement liés à la fiche d'opération standardisée :
 
@@ -374,7 +362,7 @@ Les critères suivants doivent conduire à un classement non satisfaisant de l'o
 
 2) Un écart est relevé entre les équipements et matériaux mis en place et le scénario retenu de l'audit énergétique ou les factures des travaux en quantité et en qualité (performances thermiques et énergétiques) ;
 
-3) Des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause le volume de consommation conventionnelle annuelle d'énergie primaire ou d'énergie finale économisée du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1 (point 2), B. 1.1.1, C. I. A, D. I. A et F. I. A.
+3) Des non-qualités manifestes sont relevées, susceptibles, notamment, de remettre en cause le volume de consommation conventionnelle annuelle d'énergie primaire ou d'énergie finale économisée du bâtiment rénové, la pérennité des travaux ou les émissions annuelles de gaz à effet de serre après rénovation, ou susceptibles de remettre en cause la sécurité des installations ou l'usage normal des lieux ; à cette fin, l'organisme d'inspection se fonde, le cas échéant, sur les listes des éléments à contrôler de la présente annexe III correspondant aux travaux réalisés geste par geste, à l'exception des parties A. 1 (point 3), B. 1.1.1, C. I. A, D. I. A et F. I. A.
 
 E. III. Doivent être vérifiés lors des contrôles par contact :
 
@@ -388,7 +376,7 @@ F.-Fiche d'opération standardisée BAR-TH-159 " Pompe à chaleur hybride indivi
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en " non satisfaisant ".
 
-F. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,6 et 16 ayant un avis " non accessible/ non vérifiable ", lesquels n'influent pas sur la conclusion du rapport) :
+F. I.-Les critères suivants doivent conduire à un classement " non satisfaisant " de l'opération pour les contrôles sur le lieu des opérations :
 
 F. I. A.-Critères directement liés à la fiche d'opération standardisée :
 
@@ -454,7 +442,7 @@ H. Fiche d'opération standardisée BAR-EN-105 Isolation des toitures terrasses 
 
 Le contrôle de cette opération est réalisé après l'achèvement des travaux sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la résistance thermique, la pérennité ou la sécurité de l'isolation doit conduire à classer l'opération en non satisfaisant .
 
-H. 1. Les critères suivants, vérifiés sur le lieu de l'opération, doivent conduire à un classement non satisfaisant de l'opération (à l'exception des points 1,2,3,4,5,8 et 9 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+H. 1. Les critères suivants, vérifiés sur le lieu de l'opération, doivent conduire à un classement non satisfaisant de l'opération :
 
 H. 1.1. S'agissant de critères directement liés à la fiche d'opération standardisée :
 
@@ -508,7 +496,7 @@ J. Fiche d'opération standardisée BAT-TH-139 Système de récupération de cha
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé (ex. : récupérateur de chaleur non raccordé, présence de fuites au niveau des raccordements de l'échangeur, chaleur évacuée en extérieur, réseau de distribution de la chaleur récupérée et/ ou ballon de récupération de chaleur non calorifugés, chaleur utilisée sur un autre site ou un réseau de chaleur urbain hors site), la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-J. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,5 et 16 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+J. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, étude préalable de dimensionnement ;
 
@@ -556,7 +544,7 @@ K. Fiche d'opération standardisée IND-UT-116 Système de régulation sur un gr
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé (ex. : absence de sondes de mesure, absence de système de régulation ou système de régulation non raccordé, haute pression flottante non activée), la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-K. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception du point 1 ayant un avis non accessible/ non vérifiable , lequel n'influe pas sur la conclusion du rapport) :
+K. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -582,7 +570,7 @@ L. Fiche d'opération standardisée IND-UT-117 Système de récupération de cha
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé (ex. : récupérateur de chaleur non raccordé, présence de fuites au niveau des raccordements de l'échangeur, chaleur évacuée en extérieur, réseau de distribution de la chaleur récupérée et/ ou ballon de récupération de chaleur non calorifugés, chaleur utilisée sur un autre site ou un réseau de chaleur urbain hors site), la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-L. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,5 et 16 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+L. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, étude préalable de dimensionnement ;
 
@@ -630,7 +618,7 @@ M. Fiche d'opération standardisée IND-BA-112 Système de récupération de cha
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé (ex. : récupérateur de chaleur non raccordé, présence de fuites au niveau des raccordements à l'échangeur, réseau de distribution de la chaleur récupérée et/ ou ballon de récupération non calorifugés), la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-M. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception du point 1 ayant un avis non accessible/ non vérifiable , lequel n'influe pas sur la conclusion du rapport) :
+M. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -674,7 +662,7 @@ N. Fiche d'opération standardisée IND-UT-102 Système de variation électroniq
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé (ex. : absence de système de variation électronique de vitesse ou système non raccordé au moteur, équipement installé correspondant à un démarreur progressif et non à un système de variation électronique de vitesse), la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-N. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,6 et 7 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+N. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -714,7 +702,7 @@ O. Fiche d'opération standardisée IND-UT-129 Presse à injecter tout électriq
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-O. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1 et 4 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+O. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -742,7 +730,7 @@ P. Fiche d'opération standardisée AGRI-TH-104 Système de récupération de ch
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé (ex. : récupérateur de chaleur non raccordé, présence de fuites au niveau des raccordements de l'échangeur, chaleur évacuée en extérieur, réseau de distribution de la chaleur récupérée et/ ou ballon de récupération de chaleur non calorifugés, chaleur utilisée sur un autre site ou un réseau de chaleur urbain hors site), la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-P. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des points 1,6 et 17 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+P. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération, étude préalable de dimensionnement ;
 
@@ -792,7 +780,7 @@ Q. Fiche d'opération standardisée RES-CH-108 Récupération de chaleur fatale 
 
 Le contrôle est réalisé sur le lieu de l'opération, après l'achèvement des travaux, sur les parties visibles et accessibles, sans sondage ou prélèvements destructifs. De façon générale, tout constat de non-qualité manifeste de nature à remettre en cause la performance de l'équipement installé, la pérennité ou la sécurité de l'installation doit conduire à classer l'opération en non satisfaisant .
 
-Q. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations (à l'exception des point 1,5 et 12 ayant un avis non accessible/ non vérifiable , lesquels n'influent pas sur la conclusion du rapport) :
+Q. I. Les critères suivants doivent conduire à un classement non satisfaisant de l'opération pour les contrôles sur le lieu des opérations :
 
 1) Le bénéficiaire atteste, par écrit, ne pas avoir reçu l'un des documents suivants : le devis, la preuve de la réalisation de l'opération ;
 
@@ -894,4 +882,4 @@ Doivent être vérifiés les éléments mentionnés au I de l'article 7.
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 20 juillet 2022 (NOR : ENER2218620A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2022.
+Conformément à l'article 3 de l'arrêté du 7 octobre 2022 (NOR : ENER2228676A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2022.

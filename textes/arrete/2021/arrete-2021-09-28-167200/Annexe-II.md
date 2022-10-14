@@ -2,13 +2,9 @@
 
 TAUX MINIMAUX DE CONTRÔLES SATISFAISANTS APPLICABLES AUX OPÉRATIONS STANDARDISÉES D'ÉCONOMIES D'ÉNERGIE ENGAGÉES À COMPTER DU 1ER JANVIER 2022
 
-Référence de la fiche d'opération
+Référence de la fiche d'opération standardisée |
 
-standardisée |
-
-Taux minimal de contrôles appliqué
-
-aux opérations réalisées |
+Taux minimal de contrôles satisfaisants appliqué aux opérations réalisées |
 
 Type de contrôles |
 
@@ -538,4 +534,4 @@ Par contact |
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 20 avril 2022 (NOR : TRER2209385A), ces dispositions sont applicables aux opérations engagées à compter du 1er juillet 2022.
+Conformément à l'article 3 de l'arrêté du 7 octobre 2022 (NOR : ENER2228676A), ces dispositions s'appliquent aux opérations engagées à compter du 1er novembre 2022.
