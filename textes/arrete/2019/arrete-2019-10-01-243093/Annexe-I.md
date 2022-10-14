@@ -86,7 +86,7 @@ L'analyse des échantillons est réalisée par MOLP et/ou par META et/ou par tou
 
 La mise en œuvre des parties concernées de la méthode HSG 248 (2005) - appendice 2 ou de la norme NF ISO 22262-1 (2012) relative à l'échantillonnage et dosage qualitatif de l'amiante dans les matériaux solides d'origine commerciale est réputée répondre à l'exigence réglementaire d'analyse par MOLP.
 
-La mise en œuvre des parties concernées de la norme NF X 43-050 (1996) relative à la détermination de la concentration en fibres d'amiante par microscopie électronique à transmission est réputée satisfaire à l'exigence réglementaire d'analyse par META.
+La mise en œuvre des parties concernées de la norme NF X 43-050 : juillet 2021 relative à la “ Qualité de l'air-Détermination de la concentration en fibres d'amiante par microscopie électronique à transmission ” est réputée satisfaire à l'exigence réglementaire d'analyse par META.
 
 La préparation et l'analyse sont réalisées en fonction des résultats des vérifications préalables définis au paragraphe I.1 de la présente annexe et selon la méthodologie ci-dessous :
 
@@ -150,7 +150,7 @@ L'analyse des échantillons est réalisée par MOLP et/ou par META et/ou par tou
 
 La mise en œuvre des parties concernées de la méthode HSG 248 (2005) - appendice 2 ou de la norme NF ISO 22262-1 (2012) relative à l'échantillonnage et dosage qualitatif de l'amiante dans les matériaux solides d'origine commerciale est réputée répondre à l'exigence réglementaire d'analyse par MOLP.
 
-La mise en œuvre des parties concernées de la norme NF X 43-050 (1996) relative à la détermination de la concentration en fibres d'amiante par microscopie électronique à transmission et des principes pétrographiques et de classification minéralogique (parties concernant la nomenclature du super-groupe des amphiboles) établis par l'association internationale de minéralogie (IMA) est réputée satisfaire à l'exigence réglementaire d'analyse par META.
+La mise en œuvre des parties concernées de la norme NF X 43-050 : juillet 2021 relative à la “ Qualité de l'air-Détermination de la concentration en fibres d'amiante par microscopie électronique à transmission ” et des principes pétrographiques et de classification minéralogique (parties concernant la nomenclature du super-groupe des amphiboles) établis par l'association internationale de minéralogie (IMA) est réputée satisfaire à l'exigence réglementaire d'analyse par META.
 
 La préparation et l'analyse sont réalisées en fonction des résultats de l'examen préalable défini au paragraphe I.1 de la présente annexe et selon la méthodologie ci-dessous :
 
