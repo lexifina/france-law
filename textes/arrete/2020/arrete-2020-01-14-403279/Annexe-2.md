@@ -136,13 +136,13 @@ X |
 
 7 000 € |
 
-Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionné au 3-1 de l'annexe 1
+Equipements de fourniture d'eau chaude sanitaire fonctionnant à l'énergie solaire thermique pour les immeubles situés à La Réunion, en Guyane, en Martinique, en Guadeloupe ou à Mayotte, mentionnés au c du 3 de l'annexe 1
 
 |
 
-2 000 € |
+1 600 € |
 
-1 500 € |
+1 300 € |
 
 1 000 € |
 
@@ -434,6 +434,6 @@ Somme forfaitaire mentionnée à l'article 13-4 de l'arrêté précité |
 
 NOTA :
 
-Se reporter aux modalités d'application prévues au I de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), dans leur rédaction issue de l'arrêté du 29 décembre 2022 (NOR : TREL2234391A).
+Conformément à l'article 2 de l'arrêté du 13 octobre 2022 (NOR : TREL2219071A), ces dispositions s'appliquent aux demandes de prime déposées à compter du 15 octobre 2022.
 
-.
+Se reporter aux modalités d'application prévues au I de l'article 3 de l'arrêté du 7 avril 2022 (NOR : LOGL2210444A), dans leur rédaction issue de l'arrêté du 29 décembre 2022 (NOR : TREL2234391A).
