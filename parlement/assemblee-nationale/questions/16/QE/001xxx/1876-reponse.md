@@ -1,0 +1,9 @@
+# Réponse à la question n° 1876
+
+- Question : [1876](1876.md) — Question n° 1876 — Rapport sur les engagements relatifs aux échanges de renseignement fiscal
+
+## Réponse
+
+*JO du 2022-10-18, page 4731*
+
+L'article 172 de la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022 prévoit la remise au Parlement d'un rapport portant sur le bilan d'exécution de l'Etat quant à ses engagements internationaux relatifs aux échanges de renseignement en matière fiscale, notamment au regard du Règlement général sur la protection des données (RGPD). L'objectif poursuivi par cette demande de rapport était de donner suite à une recommandation du Comité européen de la protection des données (CEPD), exprimée dans une déclaration du 13 avril 2021, invitant les États membres à veiller à la conformité des accords internationaux avec la réglementation européenne en matière de données. Ce rapport n'a pas pu être remis à ce jour car les travaux sur l'articulation des accords internationaux avec la réglementation européenne se poursuivent au niveau européen et au niveau national. Le Gouvernement œuvre par ailleurs activement à la résolution des difficultés rencontrées par certains citoyens français ayant également la nationalité américaine, dans le cadre de la mise en œuvre de l'accord entre le gouvernement de la République française et le gouvernement des États-Unis en vue d'améliorer le respect des obligations fiscales à l'échelle internationale et de mettre en œuvre la loi relative au respect des obligations fiscales concernant les comptes étrangers. M. le ministre partage pleinement la préoccupation de M. le député de voir les rapports à l'attention du Parlement remis dans les délais prévus par les textes. Le respect de ce principe est régulièrement rappelé aux ministères dans le cadre du suivi de l'application des lois. Ce suivi permet de faire le point sur l'état d'avancement des projets de rapports et leur transmission au Parlement.
