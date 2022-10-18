@@ -1,0 +1,52 @@
+# Amélioration de l’accès aux soins par la confiance aux professionnels de santé
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46486
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/amelioration_confiance_professionnels
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-263.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-10-18 : 1er dépôt d'une initiative. (PIONANR5L16B0362)
+  - 2023-01-13 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-10-18 : Renvoi en commission au fond
+      - 2022-11-02 : Nomination de rapporteur
+      - 2022-11-02 : Réunion de commission
+      - 2023-01-10 : Réunion de commission
+      - 2023-01-10 : Réunion de commission
+      - 2023-01-16 : Réunion de commission
+      - 2023-01-11 : Dépôt de rapport (RAPPANR5L16B0680, PIONANR5L16BTC0680)
+  - Discussion en séance publique
+    - 2023-01-18 : Discussion en séance publique
+    - 2023-01-18 : Discussion en séance publique
+    - 2023-01-19 : Discussion en séance publique
+    - 2023-01-19 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-01-19 : Dépôt d'une initiative en navette (PIONSNR5S399B0263)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-01-19 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-02-08 : Dépôt de rapport (RAPPSNR5S399B0328, PIONSNR5S399BTC0329)
+  - Discussion en séance publique
+    - 2023-02-14 : Décision
+- Commission Mixte Paritaire
+  - 2023-02-15 : Dépôt d'un projet de loi (PIONANR5L16B0857)
+  - 2023-03-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-04-06 : Nomination de rapporteur
+    - 2023-04-06 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0509, PIONSNR5S399BTC0510)
+    - 2023-04-06 : Dépôt du rapport d'une CMP (RAPPANR5L16B1074, PIONANR5L16BTC1074)
+  - Discussion en séance publique
+    - 2023-05-09 : Discussion en séance publique
+    - 2023-05-09 : Décision
+  - Discussion en séance publique
+    - 2023-05-10 : Discussion en séance publique
+    - 2023-05-10 : Décision
+  - 2023-04-06 : Décision de la CMP
+- Promulgation de la loi
+  - 2023-05-19 : Promulgation d'une loi
