@@ -1,0 +1,9 @@
+# Réponse à la question n° 1131
+
+- Question : [1131](1131.md) — Question n° 1131 — Impact de la hausse du prix de l'électricité pour les arboriculteurs de la Loire
+
+## Réponse
+
+*JO du 2022-10-18, page 4710*
+
+La crise ukrainienne a fortement amplifié les tendances inflationnistes déjà observées depuis l'automne 2021, notamment en ce qui concerne les coûts de l'énergie. Le Gouvernement a été totalement mobilisé dès le début de la crise. Avec le plan de résilience économique et sociale annoncé le 16 mars 2022, il a mis en place une série de mesures destinées à limiter l'impact de l'inflation. Le plan de résilience inclut notamment un dispositif d'aide aux surcoûts de gaz et d'électricité, ouvert le 4 juillet 2022. Ce dispositif est ouvert aux exploitations agricoles, et consiste en une subvention prenant en charge une partie du surcoût de gaz et d'électricité, selon les règles établies par l'encadrement temporaire de crise adopté par la Commission européenne le 23 mars 2022. Le Gouvernement a d'ores et déjà annoncé la prolongation de ce dispositif jusqu'à la fin de l'année. Par ailleurs, le Gouvernement est actuellement en négociation avec la Commission européenne, dans le but de pouvoir prolonger l'encadrement temporaire, qui sera la base légale aux régimes d'aide que les États membres sont autorisés à déployer pour faire face aux conséquences économiques de la guerre en Ukraine. En parallèle, des réflexions ont lieu au niveau européen en vue d'établir des mesures pour limiter à moyen terme l'impact des pressions inflationnistes sur l'économie et les ménages. Le ministère de l'agriculture et de la souveraineté alimentaire travaille également à l'élaboration de mesures structurelles permettant de renforcer l'autonomie en énergie et en intrants, et de consolider la capacité de production sur plusieurs filières stratégiques dont celle des fruits et légumes.
