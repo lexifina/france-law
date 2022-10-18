@@ -1,0 +1,9 @@
+# Réponse à la question n° 299
+
+- Question : [299](299.md) — Question n° 299 — Avenir de la langue française au sein des institutions de l'Union européenne
+
+## Réponse
+
+*JO du 2022-10-18, page 4722*
+
+Le respect du multilinguisme au sein des institutions européennes représente un enjeu démocratique important et une condition de la légitimité de l'Union européenne (UE) auprès des citoyens, qui doivent pouvoir comprendre son action et sa parole. Les autorités françaises attachent une grande importance à l'utilisation de l'ensemble des langues officielles de l'UE dans les institutions, et en particulier du français, conformément au Traité sur l'Union européenne et au règlement 1/1958. Les autorités françaises alertent ainsi régulièrement les institutions européennes sur la nécessité d'accepter les documents rédigés dans toutes les langues officielles de l'UE. Le ministère de l'Europe et des affaires étrangères (MEAE) est également mobilisé pour documenter et favoriser la présence française dans les institutions européennes. En outre, à l'occasion de la Présidence française du Conseil de l'UE (PFUE), qui s'est déroulée de janvier à juin 2022, la France a fait de la diversité linguistique et de la langue française au sein de l'UE l'une de ses priorités, et a notamment organisé, le 15 mars dernier, une conférence ministérielle sur la diversité linguistique et la langue française au sein de l'UE. Par ailleurs, elle a conduit sa présidence intégralement en français, en s'efforçant de donner les moyens à tous les acteurs communautaires désireux de le faire d'apprendre le français. À cette fin, la France a consacré plus d'un demi-million d'euros supplémentaire pour renforcer la formation au français du personnel des institutions européennes et des agents en poste à Bruxelles. La France continuera à être particulièrement vigilante sur ces enjeux et à les porter au plus haut niveau.
