@@ -1,0 +1,54 @@
+# Encadrement des centres de santé
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46485
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/encadrement_centres_sante
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-162.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-10-18 : 1er dépôt d'une initiative. (PIONANR5L16B0361)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-10-18 : Renvoi en commission au fond
+      - 2022-11-02 : Nomination de rapporteur
+      - 2022-11-02 : Réunion de commission
+      - 2022-11-23 : Réunion de commission
+      - 2022-11-23 : Dépôt de rapport (RAPPANR5L16B0514, PIONANR5L16BTC0514)
+  - Discussion en séance publique
+    - 2022-11-30 : Discussion en séance publique
+    - 2022-11-30 : Discussion en séance publique
+    - 2022-11-30 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-11-30 : Dépôt d'une initiative en navette (PIONSNR5S399B0162)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-11-30 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-02-08 : Dépôt de rapport (RAPPSNR5S399B0323, PIONSNR5S399BTC0324)
+  - Discussion en séance publique
+    - 2023-02-14 : Décision
+- deuxième lecture
+  - 2023-02-14 : Dépôt d'une initiative en navette (PIONANR5L16B0856)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-02-14 : Renvoi en commission au fond
+      - 2023-03-22 : Réunion de commission
+      - 2023-03-22 : Réunion de commission
+      - 2023-03-22 : Dépôt de rapport (RAPPANR5L16B1009, PIONANR5L16BTC1009)
+  - Discussion en séance publique
+    - 2023-03-28 : Discussion en séance publique
+    - 2023-03-28 : Décision
+- deuxième lecture
+  - 2023-03-28 : Dépôt d'une initiative en navette (PIONSNR5S399B0460)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-03-28 : Renvoi en commission au fond
+      - 2023-05-03 : Dépôt de rapport (RAPPSNR5S399B0566, PIONSNR5S399BTC0567)
+  - Discussion en séance publique
+    - 2023-05-09 : Discussion en séance publique
+    - 2023-05-09 : Décision
+- Promulgation de la loi
+  - 2023-05-19 : Promulgation d'une loi
