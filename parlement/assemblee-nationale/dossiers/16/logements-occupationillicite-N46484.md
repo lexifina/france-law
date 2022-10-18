@@ -1,0 +1,62 @@
+# Protéger les logements contre l’occupation illicite
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46484
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/logements_occupationillicite
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-174.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-10-18 : 1er dépôt d'une initiative. (PIONANR5L16B0360)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-10-18 : Renvoi en commission au fond
+      - 2022-10-26 : Nomination de rapporteur
+      - 2022-10-26 : Réunion de commission
+      - 2022-11-16 : Réunion de commission
+      - 2022-11-28 : Réunion de commission
+      - 2022-11-16 : Dépôt de rapport (RAPPANR5L16B0491, PIONANR5L16BTC0491)
+  - Discussion en séance publique
+    - 2022-11-28 : Discussion en séance publique
+    - 2022-11-29 : Discussion en séance publique
+    - 2022-11-29 : Discussion en séance publique
+    - 2022-12-02 : Discussion en séance publique
+    - 2022-12-02 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2022-12-02 : Dépôt d'une initiative en navette (PIONSNR5S399B0174)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-12-02 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-01-25 : Dépôt de rapport (RAPPSNR5S399B0278, PIONSNR5S399BTC0279)
+  - Discussion en séance publique
+    - 2023-02-02 : Décision
+- deuxième lecture
+  - 2023-02-02 : Dépôt d'une initiative en navette (PIONANR5L16B0818)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-02-02 : Renvoi en commission au fond
+      - 2023-03-22 : Réunion de commission
+      - 2023-03-22 : Réunion de commission
+      - 2023-03-29 : Réunion de commission
+      - 2023-03-22 : Dépôt de rapport (RAPPANR5L16B1010, PIONANR5L16BTC1010)
+  - Discussion en séance publique
+    - 2023-03-29 : Discussion en séance publique
+    - 2023-03-29 : Discussion en séance publique
+    - 2023-04-04 : Discussion en séance publique
+    - 2023-04-04 : Décision
+- deuxième lecture
+  - 2023-04-04 : Dépôt d'une initiative en navette (PIONSNR5S399B0498)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-04-04 : Renvoi en commission au fond
+      - 2023-06-07 : Dépôt de rapport (RAPPSNR5S399B0691, PIONSNR5S399BTC0692)
+  - Discussion en séance publique
+    - 2023-06-14 : Décision
+- Conseil constitutionnel
+  - 2023-06-27 : Saisine du conseil constitutionnel
+  - 2023-07-26 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2023-07-27 : Promulgation d'une loi
