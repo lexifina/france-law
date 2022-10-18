@@ -1,0 +1,9 @@
+# Réponse à la question n° 1355
+
+- Question : [1355](1355.md) — Question n° 1355 — Préservation des haies plessées
+
+## Réponse
+
+*JO du 2022-10-18, page 4751*
+
+Les ministères chargés de l'agriculture et de la transition écologique et de la cohésion des territoires accordent une attention toute particulière à la préservation des haies et des bocages, qui présentent de multiples enjeux tels que la préservation de la biodiversité, la séquestration du carbone et l'adaptation au changement climatique mais aussi la limitation du ruissellement, la lutte contre l'érosion ou encore la préservation des paysages. Les haies plessées, éléments remarquables de notre patrimoine naturel, sont une des réponses à ces nombreux enjeux. Le plan France Relance publié le 3 septembre 2020 vient appuyer ce sujet, par la mise en œuvre du programme « Plantons des haies », doté de 50 millions d'euros, visant à la mise en place de 7 000 kilomètres de haies et d'alignements d'arbres intraparcellaires sur les surfaces agricoles du territoire français. Il arrive que des haies soient effectivement arrachées et remplacées par des engrillagements pour certaines pratiques de chasse. Ces grillages créent des ruptures de continuité écologique pour le déplacement de la faune sauvage et font peser des risques en matière sanitaire, les animaux contenus dans ces enclos étant parfois en surdensité, voire de gêne à l'intervention des services d'intervention en cas d'incendie. C'est pourquoi le Gouvernement soutient la proposition de loi n° 134 visant à limiter l'engrillagement des espaces naturels et protéger la propriété privée, adoptée en première lecture par le Sénat et l'Assemblée nationale. Cette proposition de loi vise notamment à permettre la libre circulation de la faune dans les espaces naturels et constitue un signal fort pour stopper l'engrillagement de nos territoires par des clôtures, qui pourraient être remplacées par des haies.
