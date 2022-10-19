@@ -1,6 +1,6 @@
 # Article Annexe Bouches-du-Rhône à Gard
 
-Direction départementale des territoires et de la mer des Bouches-du-Rhône (9)
+Direction départementale des territoires et de la mer des Bouches-du-Rhône (9) (10)
 
 Fonctions exercées |
 
@@ -28,7 +28,7 @@ A |
 
 30 |
 
-Chargé de mission " renouvellement urbain "-pôle renouvellement urbain |
+Chargé de mission renouvellement urbain -Pôle renouvellement urbain |
 
 A |
 
@@ -36,15 +36,15 @@ A |
 
 26 |
 
-Chef du service territorial Est |
+Chef de la délégation territoriale Aix Val de Durance |
 
 A |
 
 1 |
 
-25 |
+26 |
 
-Adjoint au chef de pôle renouvellement urbain, en charge de la politique de la ville et renouvellement urbain-service habitat |
+Chef d'unité instruction financière-politique de la ville |
 
 B |
 
@@ -52,7 +52,7 @@ B |
 
 30 |
 
-Chargé d'opérations " ANRU ", référent avenants et pilotage convention-service habitat-pôle renouvellement urbain |
+Chargé d'opération ANRU , référent avenants et pilotage convention-service habitat du pôle renouvellement urbain |
 
 B |
 
@@ -60,39 +60,23 @@ B |
 
 25 |
 
-Chargé d'opération financière " ANRU "-Instruction des dossiers à enjeux ; service habitat-pôle renouvellement urbain |
+Chargé d'opération financière ANRU -Instruction des dossiers à enjeux-service habitat du pôle renouvellement urbain |
 
 B |
 
-2 |
+4 |
 
-20 |
+21 |
 
-Responsable d'unité habitat ville-service territorial Est-pôle politique de l'aménagement et de l'habitat |
-
-B |
-
-1 |
-
-20 |
-
-Chargé d'opération " ANRU "-service habitat-pôle renouvellement urbain |
+Chargé d'opération ANRU -service habitat du pôle renouvellement urbain |
 
 B |
 
 1 |
 
-20 |
+21 |
 
-Charge d'étude planification aménagement, adjoint à la rénovation urbaine-service territorial Centre |
-
-B |
-
-1 |
-
-20 |
-
-Charge d'étude au sein du pôle politiques urbaines-service territorial d'Arles |
+Chargé de mission projets-délégation territoriale Salon Etang de Berre |
 
 B |
 
@@ -1235,3 +1219,5 @@ NOTA :
 (8) En application de l'article 1 de l'arrêté du 7 juillet 2022, la présente annexe est remplacée à effet du 1er avril 2021 pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires du Doubs.
 
 (9) Conformément à l'article 1er de l'arrêté du 22 février 2019, les dispositions de l'annexe dudit arrêté pour ce qui concerne la direction départementale des territoires et de la mer des Bouches-du-Rhône prennent effet au 1er janvier 2017.
+
+(10) En application de l'article 1 de l'arrêté du 10 octobre 2022, la présente annexe est remplacée à effet du 1er mars 2021, pour ce qui concerne la répartition de l'enveloppe de la direction départementale des territoires de la mer des Bouches-du-Rhône.
