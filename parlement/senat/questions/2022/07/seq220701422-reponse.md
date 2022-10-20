@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701422
+
+- Question : [SEQ220701422](seq220701422.md) — Prime « Ségur » pour les personnels administratifs et techniques
+
+## Réponse
+
+*Santé et prévention, JO du 2022-10-20, page 5172*
+
+Le Complément de traitement indiciaire (CTI) a été créé à la suite des accords du Ségur de la santé. Depuis le 1er septembre 2020, il est versé à l'ensemble des agents exerçant au sein des établissements de santé et des établissements d'hébergement pour personnes âgées dépendantes (EHPAD) publics. Il est également versé aux agents exerçant au sein des établissements de santé privés, après transposition par accords collectifs. L'extension du bénéfice du CTI a fait l'objet de nombreuses concertations, dans le cadre de la mission confiée à Michel Laforcade ou de la conférence des métiers de l'accompagnement social et médico-social. Ainsi, dans le cadre de la mission Laforcade, le CTI a été étendu à l'ensemble des personnels exerçant au sein de certains établissements et services sociaux et médico-sociaux publics, principalement les établissements et les services rattachés à un établissement public de santé ou à un EHPAD, à compter du 1er avril 2021. Il a également été étendu aux soignants et aides médico-psychologiques, auxiliaires de vie sociale et accompagnants éducatifs et sociaux exerçant dans des établissements médico-sociaux et dans certains établissements sociaux et médico-sociaux financés par les conseils départementaux, principalement au titre du handicap, à compter du 1er octobre 2021. Enfin, en application des conclusions de la conférence précitée, le CTI a été élargi aux professionnels en charge de l'accompagnement socioéducatif et aux soignants qui exercent dans les établissements sociaux et médico-sociaux qui n'étaient pas encore éligibles, dans des structures de l'habitat inclusif, du logement accompagné et de l'intermédiation locative à compter du 1er avril 2022.
