@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700851
+
+- Question : [SEQ220700851](seq220700851.md) — Demande de mutation des enseignants
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2022-10-20, page 5141*
+
+Le ministère de l'éducation nationale et de la jeunesse (MENJ) favorise la mobilité géographique et fonctionnelle de l'ensemble de ses personnels en leur offrant la possibilité de parcours diversifiés tout en veillant au respect des enjeux de continuité et de qualité du service public de l'enseignement. Cette politique de mobilité contribue notamment à mettre en œuvre le plan d'action ministériel relatif à l'égalité professionnelle entre les femmes et les hommes, la diversité et la lutte contre les discriminations. Les lignes directrices de gestion du MENJ définissent les procédures de gestion des demandes individuelles de mobilité. Les différents processus de mobilité s'articulent autour de principes communs : transparence des procédures, traitement équitable des candidatures, prise en compte des priorités légales de mutation, recherche de l'adéquation entre les exigences des postes et les profils et compétences des candidats. S'agisstant du premier degré, il est important de noter que le recrutement des professeurs des écoles est académique. Ce mode de recrutement leur permet d'être affectés, après admission au concours, dans un département de l'académie qu'ils ont choisie, et d'être généralement titularisés au sein de ce même département. Les opérations de mouvements des titulaires interviennent dans un second temps et visent à pourvoir aux besoins d'enseignement qui ne seraient pas couverts par le seul recrutement via le concours de professeurs des écoles. Il s'agit toutefois de respecter les équilibres sur l'ensemble du territoire, ce qui conduit des départements à ne pas donner temporairement leur accord à des demandes de mutation, pour garantir la continuité du service public de l'éducation.
