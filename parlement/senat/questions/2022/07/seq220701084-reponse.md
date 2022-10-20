@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701084
+
+- Question : [SEQ220701084](seq220701084.md) — Résultats des élèves en français
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2022-10-20, page 5143*
+
+Depuis 2017 et la réaffirmation de la priorité accordée au premier degré, plusieurs mesures pour améliorer la maîtrise des savoirs fondamentaux par tous les élèves, et en tout premier lieu de la langue française, ont été prises : - les classes de GS/ CP et CE1 ont été dédoublées en éducation prioritaire et ont été plafonnées à 24 élèves sur le reste du territoire pour créer des conditions d'enseignement favorables aux apprentissages fondamentaux ; - l'âge de l'instruction obligatoire a été abaissé à 3 ans avec la loi n° 2019-791 du 26 juillet 2019 pour une école de la confiance (article L. 131-1 du code de l'éducation) afin de garantir une égalité d'accès aux savoirs et d'augmenter la fréquentation précoce de ceux-ci par tous les élèves ; - un fort accent a par ailleurs été mis sur la formation continue des professeurs des écoles avec la mise en œuvre d'un plan "français"et d'un plan"mathématiques", denses et ambitieux. Pour soutenir et renforcer les compétences professionnelles dans l'enseignement du vocabulaire, de la lecture et de l'écriture, un ensemble d'outils pédagogiques est mis à la disposition des enseignants (terminologies grammaticales, guides pour enseigner la lecture et l'écriture, etc.). - des repères de progression pédagogique ont été mis à la disposition des professeurs afin de dispenser un enseignement explicite et structuré du français, que ce soit en grammaire, en vocabulaire ou sur l'exercice de la rédaction. Le ministre, conscient de cet enjeu, "creuse le sillon" de cette priorité par la mise en place d'un plan maternelle. Celui-ci viendra soutenir l'action des enseignants d'école maternelle, en proposant des formations adaptées et des ressources afin de favoriser l'entrée dans la lecture pour tous les élèves.
