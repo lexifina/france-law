@@ -4,7 +4,7 @@ CATÉGORIE DE PRODUITS
 
 |
 
-QUANTITÉ MAXIMALE POUVANT ÊTRE CÉDÉE
+QUANTITÉ MAXIMALE POUVANT ÊTRE FOURNIE
 
 à des établissements de restauration (*)
 
@@ -24,4 +24,4 @@ Repas ou préparations culinaires élaborées à l'avance constituant le plat pr
 
 400 par semaine |
 
-(*) Les quantités maximales ne s'appliquent pas en cas de livraison à des établissements caritatifs |
+(*) Les quantités maximales ne s'appliquent pas en cas de fourniture à des établissements caritatifs |

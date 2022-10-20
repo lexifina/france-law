@@ -4,7 +4,7 @@ CATÉGORIE DE PRODUITS
 
 |
 
-QUANTITÉ MAXIMALE POUVANT ÊTRE CÉDÉE (*)
+QUANTITÉ MAXIMALE POUVANT ÊTRE FOURNIE (*)
 
 |
 
@@ -40,7 +40,13 @@ Produits à base de viande, plats cuisinés, préparations de viandes, viandes f
 
 100 kilogrammes par semaine |
 
-Produits à base d'œuf coquille et/ ou de lait cru ayant subi un traitement assainissant autres que produits laitiers |
+Produits à base d'œuf coquille et/ ou de lait cru autres que produits laitiers ayant subi un traitement assainissant :
+
+- soit lors de la production (par exemple crêpes) ;
+
+- soit avant la consommation (par exemple, pâtes alimentaires)
+
+|
 
 250 kilogrammes par semaine |
 
@@ -70,4 +76,4 @@ Cuisses de grenouilles |
 
 30 kilogrammes par semaine |
 
-(*) Les quantités maximales sont cumulables pour chaque catégorie de produits. Elles ne s'appliquent pas en cas de livraison à des établissements caritatifs. |
+(*) Les quantités maximales sont cumulables pour chaque catégorie de produits. Elles ne s'appliquent pas en cas de fourniture à des établissements caritatifs. |

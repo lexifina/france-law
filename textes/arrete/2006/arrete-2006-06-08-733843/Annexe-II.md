@@ -84,17 +84,17 @@ Le plan de maîtrise sanitaire comprend :
 
 3.2.2. Les documents relatifs à l'analyse des dangers biologiques, chimiques et physiques et mesures de maîtrise associées (principe n° 1).
 
-3.2.3. Les documents relatifs aux points déterminants lorsqu'il en existe (points critiques pour la maîtrise pour les CCP, ou niveau du seuil de maîtrise pour les PRPo) :
+3.2.3. Les documents relatifs aux points déterminants lorsqu'il en existe :
 
-- la liste argumentée des points déterminants (dont CCP, PRPo) précisant le caractère essentiel de la ou des mesures de maîtrise associée (s) (principe n° 2) ;
+- la liste argumentée des points déterminants (CCP, PRPo) précisant le caractère essentiel de la ou des mesures de maîtrise associée (s) pour le contrôle des dangers significatifs identifiés (principe n° 2) ;
 
 - pour chaque point déterminant :
 
-- la validation des limites critiques pour les CCP et les objectifs/ niveaux de seuils pour les PRPo (principe n° 3) ;
+- la validation des limites critiques pour les CCP et des critères d'action pour les PRPo (principe n° 3) ;
 
 - les procédures de surveillance (principe n° 4) ;
 
-- la description de la ou des actions correctives (principe n° 5) ;
+- la description de la ou des mesures correctives (principe n° 5) ;
 
 - les enregistrements de la surveillance des points déterminants et des actions correctives (principe n° 7).
 
@@ -112,7 +112,7 @@ La liste des utilisateurs et le type de leur relation avec ces entités.
 
 5° Cas particulier des centres d'emballage d'œufs
 
-Conformément aux dispositions du règlement (CE) n° 589/2008 du 23 juin 2008 susvisé :
+Conformément aux dispositions du règlement (CE) n° 589/2008 du 23 juin 2008 de la Commission du 23 juin 2008 portant modalités d'application du règlement (CE) n° 1234/2007 du Conseil en ce qui concerne les normes de commercialisation applicables aux œufs :
 
 - la description détaillée de l'ensemble des locaux, de l'équipement technique approprié pour le mirage, le tri et le calibrage des œufs ;
 
@@ -140,7 +140,7 @@ Un règlement intérieur décrit les conditions d'organisation et de fonctionnem
 
 - un planning d'utilisation de l'atelier collectif, amené à évoluer si besoin.
 
-7° Cas particulier des abattoirs. - Exigences relatives à la protection des animaux
+7° Cas particulier des abattoirs - Exigences relatives à la protection des animaux
 
 Des modes opératoires normalisés sont définis pour :
 
@@ -166,4 +166,32 @@ Les MON décrivent, pour chaque étape, les quatre points suivants :
 
 - les actions correctives prévues pour y remédier.
 
-Les modalités du contrôle interne doivent être conformes aux prescriptions de l'article 16 du règlement 1099/2009.
+Les modalités du contrôle interne doivent être conformes aux dispositions de l'article 16 du règlement 1099/2009 du Conseil du 24 septembre 2009 sur la protection des animaux au moment de leur mise à mort et doivent comprendre pour toutes les étapes du déchargement des animaux jusqu'aux premières étapes d'habillage, incluant le contrôle de la réalité de la mort :
+
+- les indicateurs permettant de garantir en continu le respect de la protection d'animale ;
+
+- les critères servant à déterminer si les résultats des indicateurs sont satisfaisants ;
+
+- la fréquence de réalisation des contrôles par des opérateurs identifiés et formés en précisant les cas dans lesquels et/ ou le moment auquel le contrôle doit être effectué. La fréquence des contrôles déterminée tient compte des principaux facteurs de risque et permet de garantir des résultats présentant un niveau élevé de fiabilité ;
+
+- le nombre d'animaux contrôlés (méthodes d'échantillonnage) ;
+
+- les modalités d'enregistrement des contrôles ;
+
+- les modalités de vérification sous la responsabilité du responsable protection animale (RPA) de l'effectivité et de l'efficacité des contrôles réalisés par les opérateurs vis-à-vis des attendus réglementaires (fréquences, méthodes d'échantillonnages, critères, seuils de perte de maîtrise, documents d'enregistrement) ;
+
+- les procédures adaptées pour faire en sorte que, en cas de non-conformités aux exigences réglementaires, lors des contrôles réalisés par les opérateurs ou par le RPA les opérations soient revues afin de déterminer les causes d'éventuelles lacunes et les modifications requises à apporter à ces opérations.
+
+La procédure de contrôle interne doit prévoir des mesures de surveillance par les opérateurs, de vérification sous la responsabilité du RPA et l'exploitation des résultats de ces mesures dans le but de l'amélioration continue de la protection animale au sein de l'abattoir.
+
+Lorsque l'abattoir est équipé d'un dispositif de surveillance par vidéo, filmant les animaux vivants au cours d'une ou plusieurs étapes depuis l'introduction dans l'enceinte de l'abattoir et jusqu'à la première opération d'habillage, les images filmées sont intégrées dans le contrôle interne régulier effectué sous la responsabilité du RPA. L'intégration de ce dispositif dans le contrôle interne s'effectue au titre de la vérification, en vue de la détection d'éventuelles dérives et d'amélioration continue, et pas uniquement au titre de la gestion ponctuelle de non conformités.
+
+8° Cas particulier des abattoirs - Exigences relatives aux mesures de biosécurité
+
+Conformément aux dispositions du règlement (CE) n° 853/2004 du Parlement européen et du Conseil du 29 avril 2004 susvisé et du règlement (UE) n° 2016/429 du Parlement européen et du Conseil du 9 mars 2016 et en application de l'article L. 221-1-1 du code rural et de la pêche maritime, les mesures de biosécurité visant à prévenir et à réduire le risque de propagation des maladies par des véhicules, équipements et contenants (de transport d'animaux vivants, de sous-produits animaux, du personnel et intervenants, ou tout autre matériel identifié comme susceptible de propager les maladies animales) sont décrites au moyen de procédures comprenant notamment :
+
+- les modalités de circulation et de stationnement des véhicules, équipements et contenants dans l'enceinte de l'abattoir ;
+
+- les conditions d'installation, d'équipement et de fonctionnement de la station de lavage des véhicules et des équipements de transport d'animaux ;
+
+- les modalités de vérification de l'efficacité des procédures de nettoyage et de désinfection des véhicules et équipements de transports des animaux déchargés à l'abattoir.
