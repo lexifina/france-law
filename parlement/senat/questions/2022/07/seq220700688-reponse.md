@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700688
+
+- Question : [SEQ220700688](seq220700688.md) — Pour un meilleur encadrement du déploiement des antennes 4G et 5G dans nos communes
+
+## Réponse
+
+*Collectivités territoriales, JO du 2022-10-20, page 5124*
+
+La couverture mobile constitue une priorité du Gouvernement. France mobile vise ainsi à garantir le déploiement des infrastructures de téléphonie mobile dans les zones non ou mal couvertes. Dans le cadre du « New deal mobile », les opérateurs de téléphonie mobile se sont engagés à assurer une couverture mobile de qualité dans ces zones, notamment au titre du dispositif dit de couverture ciblée. Ils sont notamment tenus de fournir des services de radiotéléphonie mobile et d'accès mobile à très haut débit dans les conditions prévues par les autorisations d'utilisation de fréquences délivrées aux opérateurs mobiles par l'Autorité de régulation des communications électroniques et des postes (ARCEP). Ce déploiement passe par la mise en place d'équipements par les divers opérateurs. Dans ce cadre, la mutualisation des équipements réduit l'emprise foncière et la consommation et peut faciliter l'intégration paysagère. L'article D. 98-6-1 du code des postes et des communications électroniques prévoit que la recherche de mutualisation des équipements passifs de radiotéléphonie mobile constitue une obligation incombant aux opérateurs exploitant des réseaux de radiocommunications mobiles terrestres ouverts au public. Ainsi, lorsque ceux-ci envisagent d'établir un pylône, ils doivent privilégier toute solution de partage avec un pylône existant, veiller à ce que l'accueil ultérieur d'opérateurs soit rendu possible ou encore répondre aux demandes raisonnables de partage de ces pylônes émanant d'autres opérateurs, sous réserve de la faisabilité technique de cette mutualisation.
