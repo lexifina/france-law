@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700540
+
+- Question : [SEQ220700540](seq220700540.md) — Meilleure reconnaissance de la profession de psychologue et nécessité de sa revalorisation
+
+## Réponse
+
+*Santé et prévention, JO du 2022-10-20, page 5169*
+
+La situation des psychologues, comme celle de l'ensemble des agents des établissements de santé, a été examinée au cours du « Ségur de la santé ». Conformément à la mesure n° 1 de l'accord du Ségur de la santé relatif à la fonction publique hospitalière, les psychologues exerçant au sein des structures éligibles perçoivent depuis le mois de septembre 2020 une revalorisation à hauteur de 24 points d'indice majoré, qui a été portée à hauteur de 49 points d'indice majoré dès le mois de décembre 2020, ce qui représente une revalorisation de 183 € nets par mois. Les psychologues de la fonction publique hospitalière ont également bénéficié de la hausse de 3,5 % du point d'indice depuis le 1er juillet 2022. Lancé à la suite des Assises de la santé mentale et de la psychiatrie en septembre 2021 sous l'égide du Président de la République, le dispositif MonPsy consiste en la création d'une prestation d'accompagnement psychologique pour les troubles psychiques d'intensité légère à modérée permettant de fluidifier et simplifier le parcours des patients à partir de 3 ans. Les psychologues participant au dispositif sont volontaires et doivent avoir signé une convention avec la caisse nationale d'assurance maladie. L'assurance maladie prend en charge 60 % du coût des séances, jusqu'à 8 séances. Afin de continuer à travailler à une meilleure reconnaissance de la profession (attractivité, conditions d'exercice entre autres), les organisations syndicales ainsi que les associations professionnelles représentatives ont été reçues par le ministère de la santé et de la prévention à la fin du printemps 2022.
