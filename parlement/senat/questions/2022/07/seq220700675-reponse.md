@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700675
+
+- Question : [SEQ220700675](seq220700675.md) — Union européenne et financement d'organisations non gouvernementales liées à l'islam radical
+
+## Réponse
+
+*Europe, JO du 2022-10-20, page 5147*
+
+La loi du 24 août 2021 confortant les principes de la République prévoit l'obligation pour les associations sollicitant une subvention publique de s'engager au respect du caractère laïc et des principes de la République (« contrat d'engagement républicain »), le remboursement des subventions étant prévu en cas de violation de ces principes. A l'occasion de la présidence française du Conseil de l'Union européenne, il a été convenu d'une meilleure consultation mutuelle entre la Commission et les Etats membres quant aux financements sur fonds européens d'associations potentiellement problématiques. En 2021, les autorités françaises avaient en effet protesté auprès de la Commission européenne quant au financement du FEMYSO, qui promeut un agenda politique à rebours des objectifs d'intégration, d'émancipation citoyenne et d'égalité entre les femmes et les hommes. Au mois d'août 2022, un courrier cosigné par la ministre de l'Europe et des Affaires étrangères, le ministre de l'Intérieur et la secrétaire d'Etat chargée de l'Europe a été envoyé à la Commission afin de réitérer l'opposition de la France à ce que le FEMYSO soit associé à l'image de l'Union européenne ou considéré comme l'un de ses partenaires, et pour demander que des mesures soient prises afin de s'assurer que l'organisation ne reçoive aucun soutien des institutions européennes, y compris sur le plan financier. La France reste pleinement mobilisée dans la lutte contre les discours contraires aux principes et valeurs de l'Union européenne que portent certaines associations, en lien avec les autres Etats membres et les institutions européennes, et notre vigilance particulière quant à d'éventuels financements de ces organisations par des fonds publics.
