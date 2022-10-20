@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220802340
+
+- Question : [SEQ220802340](seq220802340.md) — Financement des travaux réalisés d'office suite à un arrêté de péril
+
+## Réponse
+
+*Ville et logement, JO du 2022-10-20, page 5200*
+
+La lutte contre l'habitat indigne constitue une priorité du Gouvernement qui est conscient des difficultés susceptibles d'être rencontrées par les maires dans l'exercice de la police administrative utilisée en matière de lutte contre l'habitat indigne. Sur le plan de la gouvernance locale, par circulaire co-signée le 8 février 2019 par les ministres en charge du logement et de la justice, il a été demandé aux préfets de mettre en place des plans départementaux de lutte contre l'habitat indigne pour la période 2019-2021 comportant des objectifs chiffrés. La quasi-totalité des départements a signé un tel document pour la période 2019-2021 et près de la moitié d'entre eux dispose d'un plan pour la période 2022-2024. Sur le plan juridique, une importante simplification a été opérée avec la mise en place depuis le 1er janvier 2021 de la police unique de la sécurité et de la salubrité des immeubles, locaux et installations. Celle-ci remplace plus d'une dizaine de procédures (dont la procédure de péril), harmonise le déroulement procédural quel que soit le fait générateur, et est plus rapide et plus efficace. Sur le plan financier, afin d'accompagner les petites communes et pallier les difficultés liées au recouvrement engagé auprès de propriétaires impécunieux, l'agence nationale de l'habitat (ANAH) finance 50 % du montant des travaux d'office réalisés suite à un arrêté de police utilisé en matière de lutte contre l'habitat indigne (arrêté de mise en sécurité principalement). La commune conserve l'aide quelle que soit l'issue du recouvrement. Par ailleurs, les propriétaires bailleurs et propriétaires occupants peuvent également prétendre sous conditions de ressources à des aides pour financer des travaux de sortie d'indignité.
