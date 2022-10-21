@@ -750,7 +750,9 @@ Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Pro
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
 
-Le Vulcain Zone industrielle de la Delorme 5, avenue de la Bauxite 13015 Marseille De 1981 à 1996
+Le Vulcain Zone industrielle de la Delorme 5, avenue de la Bauxite 13015 Marseille De 1981 à 1996 ;
+
+MARSEILLE VRAC, INTE Portuaire BP 22, Terre Plein de Mourepiane, 16016 MARSEILLE et Route du Port Pétrolier, 13117 LAVERA : de 1958 à 1992, puis LBC MARSEILLE et ALKION TERMINAL MARSEILLE, Route du Port Pétrolier, 13117 LAVERA : de 1992 à 2000 ;
 
 ORGANICO PECHINEY, puis AQUITAINE ORGANICO, puis AQUITAINE TOTAL ORGANICO, puis ATO CHIMIE, puis ATOCHEM, puis ELF ATOCHEM, Usine de Saint-Menet, 123, boulevard de la Millière, 13011 Marseille : de 1956 à 1996 ;
 
