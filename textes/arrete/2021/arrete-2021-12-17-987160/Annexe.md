@@ -20,7 +20,7 @@ de 4e niveau |
 
 Cabinet du ministre de la défense |
 
-8 |
+9 |
 
 8 |
 
@@ -30,7 +30,7 @@ Cabinet du ministre de la défense |
 
 Etat-major des armées |
 
-859 |
+858 |
 
 2 998 |
 
@@ -78,9 +78,7 @@ Cabinet militaire du Premier ministre |
 
 7 |
 
-Direction générale des relations internationales
-
-et de la stratégie |
+Direction générale des relations internationales et de la stratégie |
 
 11 |
 
@@ -130,9 +128,7 @@ Etat-major particulier du Président de la République |
 
 31 |
 
-Direction de la coopération de sécurité
-
-et de défense |
+Direction de la coopération de sécurité et de défense |
 
 1 |
 
@@ -142,9 +138,7 @@ et de défense |
 
 5 |
 
-Direction du renseignement et de la sécurité
-
-de la défense |
+Direction du renseignement et de la sécurité de la défense |
 
 21 |
 
