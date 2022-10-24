@@ -126,14 +126,6 @@ Techniciens de laboratoire du SCL
 
 Adjoints techniques de laboratoire du SCL
 
-Institut Mines-Télécom
+NOTA :
 
-CAP n° 7
-
-Maîtres-assistants de l'Institut Mines-Télécom et professeurs de l'Institut Mines-Télécom
-
-Etablissement "La Monnaie de Paris"
-
-CAP n° 18
-
-Fonctionnaires techniques de l'établissement public "La Monnaie de Paris"
+Conformément à l'article 9 de l'arrêté du 20 octobre 2022 (NOR : ECOP2230152A), ces dispositions sont applicables pour les élections professionnelles mentionnées à l'article 1er du présent arrêté et fixées du 1er décembre au 8 décembre 2022.
