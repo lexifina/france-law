@@ -1,0 +1,9 @@
+# Réponse à la question n° 2242
+
+- Question : [2242](2242.md) — Question n° 2242 — Réduire les inégalités femmes-hommes au sein des sapeurs-pompiers volontaires
+
+## Réponse
+
+*JO du 2022-10-25, page 4910*
+
+Facteur d'égalité professionnelle et d'émancipation, la mixité dans les filières de formation et dans l'emploi est une condition primordiale de la diversité et de l'émancipation individuelle. C'est la raison pour laquelle, la mixité et l'égalité professionnelle font partie des priorités de l'Etat. Le gouvernement agit pour lutter contre les stéréotypes dès l'école, l'éducation étant le premier pilier d'une politique ambitieuse permettant de diffuser la culture de l'égalité entre les femmes et les hommes. Concernant plus spécifiquement la question de la meilleure représentation des femmes parmi les sapeurs-pompiers professionnels, le Gouvernement a agi dans le cadre de la loi n° 2021-1520 promulguée le 25 novembre 2021 qui vise notamment à moderniser les services d'incendie et de secours (SIS). L'article 25 a pour objectif de tendre vers la parité au sein des conseils d'administration des SIS. Il complète les articles L. 1424-24-2 et L. 1424-24-3 du CGCT pour permettre la parité au sein des CASIS grâce à l'alternance de candidatures féminines et masculines tant pour les listes présentées au conseil départemental que pour les représentants des maires et présidents d'EPCI. L'extension aux membres du bureau est également prévue dans la loi. L'article 56 instaure un référent mixité et l'ajoute aux membres siégeant au CASDIS avec voix consultative. L'instauration d'un référent mixité a pour but d'assurer l'égalité, la lutte contre les discriminions de toute nature et de développer encore la diversité des profils au sein des forces de secours. Le gouvernement est disposé à poursuivre la réflexion, en lien avec les parlementaires, dans le cadre du comité interministériel à l'Egalité femmes-Hommes annoncé par la Première Ministre le 02 septembre.
