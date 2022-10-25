@@ -1,0 +1,9 @@
+# Réponse à la question n° 391
+
+- Question : [391](391.md) — Question n° 391 — CDD « multi-remplacements »
+
+## Réponse
+
+*JO du 2022-10-25, page 4939*
+
+L'article 53 de la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel a introduit, à titre expérimental entre le 1er janvier 2019 et le 31 décembre 2020, la possibilité pour les entreprises de conclure un seul contrat court (contrat à durée déterminée ou contrat de travail temporaire) pour remplacer plusieurs salariés absents soit simultanément soit successivement. L'expérimentation a concerné onze secteurs définis par le décret n° 2018-771 du 18 décembre 2019, parmi lesquels le secteur sanitaire, social et médico-social, les services à la personne ou encore les industries alimentaires. Ce dispositif autorisait les employeurs à déroger à la règle selon laquelle un contrat de travail temporaire ou contrat de travail à durée déterminée ne peut être conclu que pour le remplacement d'un seul salarié. L'objectif poursuivi consistait à permettre l'allongement de la durée des contrats pour les salariés, et à tempérer les effets du bonus-malus dans les secteurs à forte intensité de main d'œuvre pour les employeurs. Il ressort du bilan de cette expérimentation que les branches et entreprises éligibles au dispositif ne s'en sont pas pleinement saisies, ou très tardivement, notamment en raison du contexte de crise sanitaire. Les retours sont néanmoins positifs s'agissant du secteur sanitaire et médico-social, caractérisé par la nécessité d'assurer une continuité des soins. Au regard de ses effets prévisibles et constatés en matière de réduction de la précarité, le Gouvernement est favorable à la relance de cette expérimentation et a soutenu un amendement déposé dans ce sens lors de l'examen à l'assemblée nationale en première lecture du projet de loi portant mesures d'urgence relatives au fonctionnement du marché du travail en vue du plein emploi.
