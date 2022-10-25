@@ -1,0 +1,9 @@
+# Réponse à la question n° 29
+
+- Question : [29](29.md) — Question n° 29 — Différents délais de prescription en matière administrative
+
+## Réponse
+
+*JO du 2022-10-25, page 4892*
+
+En matière de créances non fiscales, le délai pendant lequel l'administration est en droit de constater sa créance sur le débiteur est la prescription quinquennale de droit commun prévu à l'article 2224 du Code civil. Celle-ci a vocation à s'appliquer sauf dispositions contraires. Ainsi, en matière d'indus, l'administration dispose d'un délai de 5 ans à compter du fait générateur pour réclamer à un particulier une somme versée à tort. Des exceptions ont toutefois été prévues par le législateur pour certains types d'indus. Par exemple en matière de rémunération, l'administration dispose d'un délai de deux ans pour réclamer une rémunération qu'elle a indûment versée à l'un de ses agents. L'article 37-1 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations prévoit, en effet, que « les créances résultant de paiements indus effectués par les personnes publiques en matière de rémunération de leurs agents peuvent être répétées dans un délai de deux années à compter du premier jour du mois suivant celui de la date de mise en paiement du versement erroné, y compris lorsque ces créances ont pour origine une décision créatrice de droits irrégulière devenue définitive. » S'agissant des créances locales, la prescription de l'action en répétition de l'indu s'inscrit également dans le délai quinquennal de droit commun codifié à l'article 2224 du Code civil, sous réserve des dispositions particulières telle, là encore, la prescription biennale applicable pour les indus de rémunération d'un agent public (cf. article 37-1 de la loi n° 2000-321 du 12 avril 2000 précédemment mentionnée).
