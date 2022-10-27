@@ -34,8 +34,6 @@ Pour les organisations syndicales d'employeurs, la part du solde de ce fonds ser
 
 Un bilan annuel des sommes affectées sera établi et porté à la connaissance de l'ensemble des organisations représentatives d'employeurs et de salariés dans le champ d'application de la présente convention. Pour ce bilan, chaque organisation bénéficiaire présentera au fonds commun d'aide au paritarisme un état sur l'utilisation des fonds qu'elle aura perçus.
 
-La collecte des fonds perçus ne peut se faire que par un organisme paritaire.
-
 II. 2.2. Statuts du fond commun d'aide au paritarisme
 
 Article 1er
@@ -86,7 +84,7 @@ Il est tenu un procès-verbal de toutes les séances du comité de gestion sur r
 
 Article 8
 
-La collecte des cotisations auprès des entreprises pourra être confiée par le comité de gestion à un organisme paritaire disposant d'un service spécialisé dans la collecte des cotisations sociales.
+Le conseil de gestion du FCAP est habilité à désigner le ou les organismes collecteurs des fonds par une décision majoritaire au sein de chaque collège de ses membres.
 
 Article 9
 
