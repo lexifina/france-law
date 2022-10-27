@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902985
+
+- Question : [SEQ220902985](seq220902985.md) — Bail emphytéotique
+
+## Réponse
+
+*Ville et logement, JO du 2022-10-27, page 5352*
+
+En vertu de l'article L. 1311-2 du code général des collectivités territoriales (CGCT), « un bien immobilier appartenant à une collectivité territoriale peut faire l'objet d'un bail emphytéotique prévu à l'article L. 451-1 du code rural et de la pêche maritime en vue de la réalisation d'une opération d'intérêt général relevant de sa compétence (…) ». La cession de ce bail emphytéotique administratif (BEA) est précisée au 1° de l'article L. 1311-3 du CGCT. Contrairement au principe de libre cessibilité du bail emphytéotique de droit privé, « les droits résultant du bail ne peuvent être cédés, avec l'agrément de la collectivité territoriale, qu'à une personne subrogée au preneur dans les droits et obligations découlant de ce bail et, le cas échéant, des conventions non détachables conclues pour l'exécution du service public ou la réalisation de l'opération d'intérêt général. Par dérogation à l'alinéa précédent, les droits résultant du bail ne peuvent faire l'objet d'une cession lorsque le respect des obligations de publicité et de sélection préalables à la délivrance d'un titre, prévues à l'article L. 2122-1-1 du code général de la propriété des personnes publiques, s'y oppose ». Il découle de cette disposition que la cession à titre onéreux est autorisée à la triple condition de l'accord de la commune qui vérifiera notamment l'aptitude du cessionnaire, de la reprise entière du contrat pour sa durée restante sans possibilités de modifier ses éléments essentiels et de l'absence d'obligations de transparence. Ces dernières issues de l'ordonnance n° 2017-652 du 19 avril 2017 relative à la propriété des personnes publique, sont applicables aux baux emphytéotiques administratifs conclus en vue d'une exploitation économique sur le domaine public à compter du 1er juillet 2017.
