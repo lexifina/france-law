@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701475
+
+- Question : [SEQ220701475](seq220701475.md) — Plantation de bambous en limite de parcelle
+
+## Réponse
+
+*Justice, JO du 2022-10-27, page 5331*
+
+En vertu de l'article 544 du code civil, le propriétaire jouit d'un droit absolu sur les choses qui lui appartiennent tant qu'il n'en fait pas un usage prohibé par la loi ou les règlements. L'exercice de ce droit se trouve néanmoins limité, notamment sur le fondement des troubles anormaux de voisinage, mais aussi par l'existence de servitudes. Tel est le cas s'agissant des distances qui s'imposent en matière de plantations par rapport aux limites de propriété. L'article 671 du code civil fixe ainsi une distance de deux mètres pour les plantations dont la hauteur dépasse deux mètres et une distance d'un demi mètre pour les autres. Ces dispositions ont un caractère supplétif et ne s'appliquent donc pas en présence de « règlements particuliers » ou d'« usages constants et reconnus » fixant d'autres distances. Par ailleurs, s'agissant de racines, ronces ou brindilles avançant sur les terrains voisins, l'article 673 du code civil confère à tout propriétaire d'un fonds envahi le droit imprescriptible de les couper lui-même à la limite de la ligne séparative des propriétés. Lorsque la prolifération des racines, telles que les rhizomes, devient telle qu'elle constitue un trouble anormal du voisinage pour le propriétaire du fonds voisin de la plantation, elle peut donner lieu à l'octroi de dommages et intérêts à la charge du propriétaire de l'arbre ou de la plantation. La condamnation peut couvrir, le cas échéant, le coût des travaux nécessaires au nettoyage de la zone envahie, à l'édification d'une barrière de protection et à la remise en état des éléments dégradés (Civ. 3ème, 10 octobre 2019, pourvoi n° 18-18.415).
