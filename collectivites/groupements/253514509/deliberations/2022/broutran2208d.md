@@ -1,0 +1,9 @@
+# SYND INTERCOM REGROUPEMENT SCOL BROUALAN : délibération BROUTRAN2208D — MODIFICATION DU TABLEAU DES EFFECTIFS CREATION D UN POSTE D ADJOINT TECHNIQUE PRINCIPAL
+
+- Collectivité : SYND INTERCOM REGROUPEMENT SCOL BROUALAN
+- SIRET : 25351450900012
+- Date : 2022-10-27
+- Matière : 4.1 Fonction publique/Personnel titulaires et stagiaires de la F.P.T.
+- Objet : MODIFICATION DU TABLEAU DES EFFECTIFS CREATION D UN POSTE D ADJOINT TECHNIQUE PRINCIPAL
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/253514509/Deliberation/2022/270409/f8a737f58fefac3568d0a174673769bc9f3abe2cdfa39161ee2533859549b086.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
