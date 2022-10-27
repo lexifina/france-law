@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701361
+
+- Question : [SEQ220701361](seq220701361.md) — Disparition des pharmacies des communes rurales
+
+## Réponse
+
+*Organisation territoriale et professions de santé, JO du 2022-10-27, page 5338*
+
+L'ordonnance du 3 janvier 2018 relative à l'adaptation des conditions de création, transfert, regroupement et cession des officines de pharmacie prévoit une disposition spécifique pour les territoires au sein desquels l'accès au médicament pour la population n'est pas assuré de manière satisfaisante. Au sein de ces territoires, le maillage des officines pourra être renforcé grâce à des aides financières en vue de favoriser le maintien ou l'installation d'une officine ou un assouplissement des règles encadrant les autorisations de transfert et de regroupement. Cet aménagement contribuera au renforcement du maillage des officines dans les communes de moins de 2500 habitants, car elles auront la possibilité d'être regroupées avec des communes contigües afin qu'une officine soit autorisée à y ouvrir. Ce regroupement de commune devra respecter les conditions suivantes : - les communes sont dépourvues d'officine ; - l'une des communes recense au moins 2000 habitants ; - le nombre total d'habitants des communes regroupées dépasse le seuil de 2500 habitants. Dans les territoires identifiés comme fragiles au regard de leur offre pharmaceutique, les critères permettant d'apprécier la réponse optimale aux besoins en médicaments (prévus par l'article L. 5125-3-2 du code de la santé publique) seront adaptés. En effet, la condition de l'approvisionnement de la population résidente sera supprimée, ce qui permettra d'autoriser une ouverture auprès d'une maison de santé ou d'un centre commercial sans population résidente à proximité. Un décret est en cours de rédaction afin de préciser les conditions d'application de cette mesure. Sa publication est prévue pour début 2023.
