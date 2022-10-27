@@ -8,7 +8,7 @@ Les entreprises sont tenues de contribuer au financement des institutions charg�
 
 La contribution de chaque entreprise est basée sur la totalité des salaires bruts avant abattement versés par l'entreprise à ses salariés (et ce quel que soit le type de contrat la liant à ces salariés).
 
-III. 3.1. a. Entreprises d'au moins 11 salariés et de moins de 50 salariés
+III. 3.1. a. Entreprises de la branche d'au moins 11 salariés et de moins de 50 salariés
 
 Dans les entreprises au sein desquelles a été créé un comité social et économique conventionnel (tel que défini à l'article III. 2.1), l'entreprise verse au moins les contributions suivantes :
 
@@ -24,7 +24,7 @@ L'ensemble de ces contributions constitue une garantie des salaires minima hiér
 
 (1)
 
-III. 3.1. b. Entreprises de moins de 11 salariés
+III. 3.1. b. Entreprises de la branche de moins de 11 salariés
 
 Dans les entreprises de moins de 11 salariés, l'entreprise verse au FNAS une contribution égale à 1,45 % de la totalité des salaires bruts.
 
@@ -36,13 +36,19 @@ Cette contribution constitue une garantie des salaires minima hiérarchiques en 
 
 (2)
 
-III. 3.1. c. Entreprises au sein desquelles n'existe pas de représentation du personnel
+III. 3.1. c. Entreprises de la branche au sein desquelles n'existe pas de représentation du personnel
 
 Les entreprises sont tenues de verser au FNAS une cotisation égale à 1,25 % de la totalité des salaires bruts.
 
 Les salariés de ces entreprises bénéficient des activités du FNAS, selon les modalités prévues dans les statuts du FNAS.
 
-III. 3.1. d. Indemnités de retard
+III. 3.1. d. Employeurs quel que soit le nombre de salariés et faisant une application de la présente convention collective en application de l'article L. 7121-7-1 du code du travail.
+
+Les employeurs sont tenus de verser au FNAS une cotisation égale à 1,45 % de la totalité des salaires bruts.
+
+Les salariés dont l'activité a généré ces cotisations bénéficient des activités du FNAS, selon les modalités prévues dans les statuts du FNAS.
+
+III. 3.1. e. Indemnités de retard
 
 En cas d'absence de règlement à l'échéance, les cotisations dues au FNAS sont majorées d'intérêts de retard. La majoration s'élève à 10 % du montant des cotisations qui n'ont pas été versées à la date d'échéance. Cette majoration est augmentée de 3 % du montant des cotisations dues, par trimestre ou fraction de trimestre écoulé après l'expiration d'un délai de 3 mois à compter de la date limite d'exigibilité des cotisations. Ces majorations s'appliquent également lorsque les bordereaux de renseignements que doit fournir l'entreprise ne parviennent pas au FNAS, ou lorsque les bordereaux parvenus au FNAS sont inexploitables (soit par défaut de renseignements, soit par inexactitude).
 
@@ -76,11 +82,9 @@ L'association s'interdit d'adopter des positions politiques ou confessionnelles 
 
 Article 5
 
-L'association est créée pour impulser, coordonner, fournir des activités sociales aux salariés des entreprises entrant dans le champ d'application de la convention collective nationale des entreprises artistiques et culturelles, quelle que soit la nature de leur contrat de travail et même lorsqu'ils ne sont plus sous contrat de travail, sous réserve qu'ils aient ouvert des droits tels que définis dans le règlement intérieur du FNAS.
+L'association est créée pour impulser, coordonner, fournir des activités sociales aux salariés des entreprises entrant dans le champ d'application de la convention collective nationale des entreprises artistiques et culturelles, ou dont les employeurs font une application de la présente convention collective en application de l'article L. 7121-7-1 du code du travail, quelle que soit la nature de leur contrat de travail et même lorsqu'ils ne sont plus sous contrat de travail, sous réserve qu'ils aient ouvert des droits tels que définis dans le règlement intérieur du FNAS.
 
-TITRE Ier
-
-COMPOSITION DE L'ASSOCIATION
+TITRE Ier COMPOSITION DE L'ASSOCIATION
 
 Article 6
 
@@ -92,15 +96,13 @@ De tous les syndicats professionnels de salariés représentatifs au niveau nati
 
 De la commission de suivi, composée de représentants des organisations d'employeurs signataires de la présente convention, telle que décrite à l'article 22 ci-dessous.
 
-TITRE II
-
-ADMINISTRATION DE L'ASSOCIATION
+TITRE II ADMINISTRATION DE L'ASSOCIATION
 
 Toutes les instances de gestion de l'association figurent dans le présent titre.
 
 Toute création d'instance décisionnaire nouvelle nécessite une modification des présents statuts.
 
-Assemblée générale
+ASSEMBLÉE GÉNÉRALE
 
 Article 7
 
@@ -298,9 +300,9 @@ Article 21
 
 Information
 
-Les supports d'information élaborés ou édités par le FNAS sont destinés à informer les salariés des entreprises appartenant au champ de la présente convention du contenu des activités sociales et de la vie de l'association.
+Les supports d'information élaborés ou édités par le FNAS sont destinés à informer les salariés visés à l'article 5 des présents statuts de la vie de l'association.
 
-L'association organisera également des journées d'études dans le but de compléter l'information de ses adhérents. Seront invités à ces réunions suivant les modalités définies dans le règlement intérieur du FNAS, les représentants des syndicats de salariés participants au conseil de gestion du FNAS.
+L'association organisera également des journées d'études dans le but de compléter l'information de ses adhérents. Seront invités à ces réunions suivant les modalités définies dans le règlement intérieur du FNAS, les représentants des syndicats de salariés participant au conseil de gestion du FNAS.
 
 Article 22
 
@@ -324,9 +326,7 @@ Pour établir son rapport pour l'assemblée générale annuelle, elle pourra dem
 
 Le président du conseil de gestion, le délégué général et le commissaire aux comptes de l'association seront invités à participer à la réunion de la commission de suivi précédant la tenue de l'assemblée générale annuelle de l'association, afin d'éclairer la commission sur la gestion de l'association et de répondre à ses éventuelles questions.
 
-TITRE III
-
-DISPOSITIONS FINANCIÈRES
+TITRE III DISPOSITIONS FINANCIÈRES
 
 Article 23
 
@@ -336,7 +336,11 @@ Article 24
 
 Les recettes de l'association se composent :
 
-– des cotisations versées à chaque trimestre échu, au plus tard 1 mois après l'échéance de celui-ci, par les entreprises visées par la convention collective citée à l'article 5 ci-dessus. Des ressources résultant de l'exercice de ses activités ;
+– des cotisations des entreprises dont l'activité principale relève de la branche des entreprises artistiques et culturelles versées à chaque trimestre échu, au plus tard 1 mois après l'échéance de celui-ci, par les entreprises visées par la convention collective citée à l'article 5 ci-dessus ;
+
+– des cotisations des employeurs qui optent pour l'application de la convention collective des entreprises artistiques et culturelles en application des dispositions de l'article L. 7121-7-1 du code du travail et versées à l'organisme collecteur désigné par le conseil de gestion du FNAS à l'issue de chaque contrat de travail ;
+
+– des ressources résultant de l'exercice de ses activités ;
 
 – des subventions diverses ou dons qu'elle serait amenée à percevoir.
 
@@ -354,9 +358,7 @@ Article 26
 
 Il est tenu à jour une comptabilité contrôlée par un commissaire aux comptes désigné pour 6 exercices par l'assemblée générale.
 
-TITRE IV
-
-MODIFICATION DES STATUTS ET DISSOLUTION
+TITRE IV MODIFICATION DES STATUTS ET DISSOLUTION
 
 Article 27
 
@@ -380,8 +382,8 @@ Le président est tenu de notifier, dans les 3 mois à la préfecture du siège 
 
 (1) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
 
-(Arrêté du 18 décembre 2020 - art. 1)
+(Arrêté du 18 décembre 2020-art. 1)
 
 (2) Phrase exclue de l'extension comme étant contraire aux dispositions de l'article L. 2253-1 du code du travail.
 
-(Arrêté du 18 décembre 2020 - art. 1)
+(Arrêté du 18 décembre 2020-art. 1)
