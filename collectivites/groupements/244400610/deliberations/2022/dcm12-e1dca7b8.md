@@ -1,0 +1,10 @@
+# LA BAULE : délibération DCM12 — Approbation d'une convention avec la ville de Knokke-Heist pour l'organisation d'un partenariat
+
+- Collectivité : LA BAULE
+- SIREN : 244400610
+- Date : 2022-10-28
+- Matière : 8.9 Domaines de compétences par thèmes,Culture
+- Objet : Approbation d'une convention avec la ville de Knokke-Heist pour l'organisation d'un partenariat
+- Transmis à la préfecture : 2022-10-28
+- Acte publié : https://opendata.cap-atlantique.fr:4333/diffusion\delib\44055/fichier/99_de-mlb_dcm12_del_conventenvuepartenariat_20221028.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5cb490839ce2e71686bc8899
