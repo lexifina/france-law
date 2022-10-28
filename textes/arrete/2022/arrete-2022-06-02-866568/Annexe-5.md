@@ -22,9 +22,9 @@ Suppléants |
 
 Ministériel |
 
-54,80 |
+54,67 |
 
-45,20 |
+45,33 |
 
 15 |
 
@@ -108,9 +108,9 @@ Musée national et domaine du château de Pau |
 
 / |
 
-4 |
+3 |
 
-4 |
+3 |
 
 Musée d'archéologie nationale et domaine de Saint-Germain-en-Laye |
 
@@ -118,9 +118,9 @@ Musée d'archéologie nationale et domaine de Saint-Germain-en-Laye |
 
 / |
 
-4 |
+3 |
 
-4 |
+3 |
 
 Réseau Archives |
 
@@ -150,9 +150,9 @@ Archives nationales du monde du travail/ Archives nationales d'outre-mer |
 
 / |
 
-4 |
+3 |
 
-4 |
+3 |
 
 Direction des affaires culturelles (DAC) Guadeloupe |
 
@@ -232,7 +232,7 @@ DRAC Bretagne |
 
 4 |
 
-DRAC Centre Val de Loire |
+DRAC Centre-Val de Loire |
 
 67,26 |
 
@@ -398,7 +398,7 @@ Bibliothèque nationale de France |
 
 56,26 |
 
-43 ,74 |
+43,74 |
 
 10 |
 
@@ -460,7 +460,7 @@ CMN Nord Ouest |
 
 7 |
 
-CMN Paris petite couronne |
+CMN Paris siège petite couronne |
 
 / |
 
@@ -480,15 +480,15 @@ CMN Grand Sud |
 
 7 |
 
-CMN Centre et Ouest |
+CMN Centre et Est |
 
 / |
 
 / |
 
-7 |
+5 |
 
-7 |
+5 |
 
 Centre national des arts plastiques |
 
@@ -556,7 +556,7 @@ Conservatoire national supérieur de musique et de danse de Lyon |
 
 Conservatoire national supérieur de musique et de danse de Paris |
 
-44 ,58 |
+44,58 |
 
 55,42 |
 
@@ -586,7 +586,7 @@ Ecole nationale supérieure des arts décoratifs. |
 
 45,64 |
 
-54 ,36 |
+54,36 |
 
 7 |
 
@@ -684,7 +684,7 @@ Sans objet |
 
 Ecole nationale supérieure d'architecture et de paysage de Bordeaux |
 
-39 ,59 |
+39,59 |
 
 60,41 |
 
@@ -866,17 +866,17 @@ Ecole nationale supérieure d'architecture de Paris-Est |
 
 Ecole nationale supérieure d'architecture de Paris-La Villette |
 
-33,59 |
+42,48 |
 
-66,41 |
+57,52 |
 
-4 |
+7 |
 
-4 |
+7 |
 
-4 |
+7 |
 
-4 |
+7 |
 
 Ecole nationale supérieure d'architecture de Paris-Malaquais |
 
@@ -952,13 +952,13 @@ Ecole nationale supérieure d'architecture de Versailles |
 
 54,37 |
 
-7 |
+5 |
 
-7 |
+5 |
 
-7 |
+5 |
 
-7 |
+5 |
 
 Commun ENSA |
 
@@ -1122,7 +1122,7 @@ Etablissement public du Palais de la Porte Dorée |
 
 4 |
 
-Etablissement public Mobilier national - Manufactures nationales des Gobelins, de Beauvais et de la Savonnerie - Ateliers-conservatoires d'Alençon et du Puy-en-Velay |
+Etablissement public Mobilier national-Manufactures nationales des Gobelins, de Beauvais et de la Savonnerie-Ateliers-conservatoires d'Alençon et du Puy-en-Velay |
 
 70,87 |
 
@@ -1136,7 +1136,7 @@ Etablissement public Mobilier national - Manufactures nationales des Gobelins, d
 
 7 |
 
-Etablissement public "Villa Arson" |
+Etablissement public " Villa Arson " |
 
 37,29 |
 
@@ -1152,17 +1152,15 @@ Etablissement public "Villa Arson" |
 
 Institut national du patrimoine |
 
-66,07 |
+Sans objet |
 
-33,93 |
+3 |
 
-4 |
+3 |
 
-4 |
+3 |
 
-4 |
-
-4 |
+3 |
 
 Opérateur du patrimoine et des projets immobiliers de la culture (OPPIC) |
 
