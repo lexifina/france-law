@@ -1,76 +1,82 @@
 # Article Annexe à l'article A223-10-2
 
+|
+
 SITUATION
 
 au 31 décembre N
 
-Montant global exprimé en millions d'euros (M €)
-
-|
+Montant global exprimé en millions d'euros (M €) |
 
 SITUATION
 
-au 31 décembre N exprimé en nombre de contrats concernés
+au 31 décembre N
 
-|
+exprimé en nombre
+
+de contrats concernés |
 
 MONTANT GLOBAL
 
-réglé aux bénéficiaires ou transférés à la CDC au 31 décembre N sur le stock identifié au 31 décembre N-1 en millions d'euros et en pourcentage
+réglé aux bénéficiaires
 
-|
+ou transférés à la CDC
+
+au 31 décembre N
+
+sur le stock identifié
+
+au 31 décembre N-1
+
+en millions d'euros
+
+et en pourcentage |
 
 NOMBRE TOTAL
 
-de contrats réglés aux bénéficiaires ou transférés à la CDC au 31 décembre N sur le stock de contrats identifié au 31 décembre N-1 en nombre de contrats et en pourcentage
+de contrats réglés aux bénéficiaires
+
+ou transférés à la CDC
+
+au 31 décembre N
+
+sur le stock de contrats identifié
+
+au 31 décembre N-1
+
+en nombre de contrats
+
+et en pourcentage |
+
+Capitaux décès non réglés des contrats d'assurance-vie
+
+Hors contrats collectifs à adhésion obligatoire souscrits dans le cadre de l'entreprise |
 
 |
 
-Capitaux décès non réglés des contrats d'assurance vie
-
-Hors contrats collectifs à adhésion obligatoire souscrits dans le cadre de l'entreprise
-
 |
 
 |
 
 |
 
-|
+Montant total des capitaux décès non réglés depuis plus d'un an à compter de la connaissance du décès |
 
-|
+M € |
 
-Montant total des capitaux décès non réglés depuis plus d'un an à compter de la connaissance du décès
+Contrats |
 
-|
+M € |
 
-M €
+% |
 
-|
+Contrats |
 
-Contrats
-
-|
-
-M €
-
-|
-
-%
-
-|
-
-Contrats
-
-|
-
-%
-
-|
+% |
 
 Capitaux termes des contrats d'assurance vie
 
-Hors contrats collectifs souscrits dans le cadre de l'entreprise
+Hors contrats collectifs à adhésion obligatoire souscrits par une entreprise |
 
 |
 
@@ -80,264 +86,172 @@ Hors contrats collectifs souscrits dans le cadre de l'entreprise
 
 |
 
-|
-
-Montant total des capitaux échus/ prestations non réglées depuis plus de 6 mois à compter de l'arrivée du terme (pour les contrats à terme fixe)
-
-|
-
-M €
-
-|
-
-Contrats
-
-|
-
-M €
-
-|
-
-%
-
-|
-
-Contrats
-
-|
-
-%
-
-|
-
-Bons et contrats de capitalisation
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Montant total des capitaux échus non réglés depuis plus de six mois à compter de l'arrivée du terme (nominatifs)
-
-|
-
-M €
-
-|
-
-Contrats
-
-|
-
-M €
-
-|
-
-%
-
-|
-
-Contrats
-
-|
-
-%
-
-|
-
-Montant total des capitaux échus non réglés depuis plus de six mois à compter de l'arrivée du terme (anonymes)
-
-|
+Montant total des capitaux échus/ prestations non réglées depuis plus de 6 mois à compter de l'arrivée du terme |
 
-M €
+M € |
 
-|
+Contrats |
 
-Contrats
+M € |
 
-|
+% |
 
-M €
+Contrats |
 
-|
+% |
 
-%
+Bons et contrats de capitalisation |
 
 |
 
-Contrats
-
 |
-
-%
 
 |
 
-Contrats collectifs dans le cadre de l'entreprise
-
 |
 
-|
+Montant total des capitaux échus non réglés depuis plus de six mois à compter de l'arrivée du terme (nominatifs) |
 
-|
+M € |
 
-|
+Contrats |
 
-|
+M € |
 
-Capitaux décès non réglés depuis plus d'un an à compter de la connaissance du décès
+% |
 
-|
+Contrats |
 
-M €
+% |
 
-|
+Montant total des capitaux échus non réglés depuis plus de six mois à compter de l'arrivée du terme (au porteur) |
 
-Contrats
+M € |
 
-|
+Contrats |
 
-M €
+M € |
 
-|
+% |
 
-%
+Contrats |
 
-|
+% |
 
-Contrats
+Contrats collectifs à adhésion obligatoire souscrits par une entreprise |
 
 |
 
-%
-
 |
 
-Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 62 ans
-
 |
-
-M €
 
 |
 
-Contrats
+Capitaux décès non réglés depuis plus d'un an à compter de la connaissance du décès |
 
-|
+M € |
 
-M €
+Contrats |
 
-|
+M € |
 
-%
+% |
 
-|
+Contrats |
 
-Contrats
+% |
 
-|
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 62 ans |
 
-%
+M € |
 
-|
+Contrats |
 
-Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 65 ans
+M € |
 
-|
+% |
 
-M €
+Contrats |
 
-|
+% |
 
-Contrats
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 65 ans |
 
-|
+M € |
 
-M €
+Contrats |
 
-|
+M € |
 
-%
+% |
 
-|
+Contrats |
 
-Contrats
+% |
 
-|
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 70 ans |
 
-%
+M € |
 
-|
+Contrats |
 
-Contrats collectifs à adhésion faculative
+M € |
 
-|
+% |
 
-|
+Contrats |
 
-|
+% |
 
-|
+Contrats collectifs à adhésion facultative |
 
 |
-
-Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 62 ans
 
 |
 
-M €
-
 |
 
-Contrats
-
 |
-
-M €
 
-|
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 62 ans |
 
-%
+M € |
 
-|
+Contrats |
 
-Contrats
+M € |
 
-|
+% |
 
-%
+Contrats |
 
-|
+% |
 
-Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 65 ans
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 65 ans |
 
-|
+M € |
 
-M €
+Contrats |
 
-|
+M € |
 
-Contrats
+% |
 
-|
+Contrats |
 
-M €
+% |
 
-|
+Contrats dont la rente ou le capital n'a pas été demandé à l'échéance lorsque l'assuré a atteint l'âge de 70 ans |
 
-%
+M € |
 
-|
+Contrats |
 
-Contrats
+M € |
 
-|
+% |
 
-%
+Contrats |
 
-|
+% |
