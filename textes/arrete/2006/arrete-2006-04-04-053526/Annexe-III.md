@@ -16,11 +16,13 @@ Freins semelles fonte |
 
 Freins semelles composites |
 
-Freins semelles composites + disque |
+Freins semelles composites
+
++ disque |
 
 Freins à disque |
 
-2 000 mm |
+2000 mm |
 
 1,7 |
 
@@ -30,7 +32,7 @@ Freins à disque |
 
 7,0 |
 
-1 600 mm |
+1600 mm |
 
 1,7 |
 
@@ -40,7 +42,7 @@ Freins à disque |
 
 7,0 |
 
-1 250 mm |
+1250 mm |
 
 1,8 |
 
@@ -50,7 +52,7 @@ Freins à disque |
 
 7,0 |
 
-1 000 mm |
+1000 mm |
 
 2,2 |
 
@@ -140,7 +142,7 @@ Freins à disque |
 
 -1,2 |
 
-120 mm |
+125 mm |
 
 5,3 |
 
@@ -216,7 +218,7 @@ Freins à disque |
 
 -8,1 |
 
--15 |
+-15,0 |
 
 -7,0 |
 
@@ -240,7 +242,7 @@ Freins à disque |
 
 -7,7 |
 
-12 mm |
+12,5 mm |
 
 -2,5 |
 
@@ -300,7 +302,7 @@ Freins à disque |
 
 -12,1 |
 
-3,2 mm |
+3,15 mm |
 
 -13,6 |
 
@@ -340,7 +342,7 @@ Freins à disque |
 
 -21,0 |
 
-1,2 mm |
+1,25 mm |
 
 -15,0 |
 
@@ -374,45 +376,33 @@ Longueur d'onde |
 
 Lr, TR, i |
 
-|
-
 Lignes Classiques |
 
 LGV |
 
-|
-
-2 000 mm |
+2000 mm |
 
 17,1 |
 
 11,3 |
 
-|
-
-1 600 mm |
+1600 mm |
 
 17,1 |
 
 10,2 |
 
-|
-
-1 250 mm |
+1250 mm |
 
 17,1 |
 
 9,1 |
 
-|
-
-1 000 mm |
+1000 mm |
 
 17,1 |
 
 7,9 |
-
-|
 
 800 mm |
 
@@ -420,15 +410,11 @@ LGV |
 
 6,6 |
 
-|
-
 630 mm |
 
 17,1 |
 
 5,3 |
-
-|
 
 500 mm |
 
@@ -436,15 +422,11 @@ LGV |
 
 4,0 |
 
-|
-
 400 mm |
 
 17,1 |
 
 2,8 |
-
-|
 
 315 mm |
 
@@ -452,15 +434,11 @@ LGV |
 
 1,5 |
 
-|
-
 250 mm |
 
 13,0 |
 
 0,2 |
-
-|
 
 200 mm |
 
@@ -468,23 +446,17 @@ LGV |
 
 -1,0 |
 
-|
-
 160 mm |
 
 9,0 |
 
 -2,3 |
 
-|
-
-120 mm |
+125 mm |
 
 5,9 |
 
 -3,9 |
-
-|
 
 100 mm |
 
@@ -492,15 +464,11 @@ LGV |
 
 -4,9 |
 
-|
-
 80 mm |
 
 2,0 |
 
 -6,1 |
-
-|
 
 63 mm |
 
@@ -508,15 +476,11 @@ LGV |
 
 -7,1 |
 
-|
-
 50 mm |
 
 -2,6 |
 
 -7,6 |
-
-|
 
 40 mm |
 
@@ -524,15 +488,11 @@ LGV |
 
 -8,1 |
 
-|
-
 31,5 mm |
 
 -7,1 |
 
 -8,6 |
-
-|
 
 25 mm |
 
@@ -540,15 +500,11 @@ LGV |
 
 -9,1 |
 
-|
-
 20 mm |
 
 -9,5 |
 
 -9,6 |
-
-|
 
 16 mm |
 
@@ -556,15 +512,11 @@ LGV |
 
 -10,0 |
 
-|
-
-12 mm |
+12,5 mm |
 
 -12,0 |
 
 -10,7 |
-
-|
 
 10 mm |
 
@@ -572,15 +524,11 @@ LGV |
 
 -11,1 |
 
-|
-
 8 mm |
 
 -14,0 |
 
 -11,6 |
-
-|
 
 6,3 mm |
 
@@ -588,15 +536,11 @@ LGV |
 
 -12,6 |
 
-|
-
 5 mm |
 
 -16,3 |
 
 -13,7 |
-
-|
 
 4 mm |
 
@@ -604,15 +548,11 @@ LGV |
 
 -15,4 |
 
-|
-
-3,2 mm |
+3,15 mm |
 
 -20,5 |
 
 -17,8 |
-
-|
 
 2,5 mm |
 
@@ -620,15 +560,11 @@ LGV |
 
 -20,0 |
 
-|
-
 2 mm |
 
 -24,5 |
 
 -22,1 |
-
-|
 
 1,6 mm |
 
@@ -636,15 +572,11 @@ LGV |
 
 -24,1 |
 
-|
-
-1,2 mm |
+1,25 mm |
 
 -27,2 |
 
 -26,4 |
-
-|
 
 1 mm |
 
@@ -652,15 +584,11 @@ LGV |
 
 -28,3 |
 
-|
-
 0,8 mm |
 
 -28,5 |
 
 -30,3 |
-
-|
 
 Tableau G-2
 
@@ -670,29 +598,17 @@ Longueur d'onde |
 
 A3, i |
 
-Charge à l'essieu 50 kN-Diamètre de roue 360 mm |
+Charge à l'essieu 50kN - Diamètre de roue 360mm |
 
-Charge à l'essieu 50 kN-Diamètre de roue 680 mm |
+Charge à l'essieu 50kN - Diamètre de roue 680mm |
 
-Charge à l'essieu 25 kN-Diamètre de roue 920 mm |
+Charge à l'essieu 25kN - Diamètre de roue 920mm |
 
-Charge à l'essieu 50 kN-Diamètre de roue 920 mm |
+Charge à l'essieu 50kN - Diamètre de roue 920mm |
 
-Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
+Charge à l'essieu 100kN - Diamètre de roue 920mm |
 
-2 000 mm |
-
-0,0 |
-
-0,0 |
-
-0,0 |
-
-0,0 |
-
-0,0 |
-
-1 600 mm |
+2000 mm |
 
 0,0 |
 
@@ -704,7 +620,7 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 0,0 |
 
-1 250 mm |
+1600 mm |
 
 0,0 |
 
@@ -716,7 +632,19 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 0,0 |
 
-1 000 mm |
+1250 mm |
+
+0,0 |
+
+0,0 |
+
+0,0 |
+
+0,0 |
+
+0,0 |
+
+1000 mm |
 
 0,0 |
 
@@ -824,7 +752,7 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 -0,1 |
 
-120 mm |
+125 mm |
 
 0,0 |
 
@@ -944,7 +872,7 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 -16,7 |
 
-12 mm |
+12,5 mm |
 
 -8,7 |
 
@@ -1016,7 +944,7 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 -24,0 |
 
-3,2 mm |
+3,15 mm |
 
 -22,1 |
 
@@ -1064,7 +992,7 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 -27,8 |
 
-1,2 mm |
+1,25 mm |
 
 -24,7 |
 
@@ -1102,9 +1030,7 @@ Charge à l'essieu 100 kN-Diamètre de roue 920 mm |
 
 Tableaux G-3
 
-Coefficients LH, TR, i, LH, VEH, i et LH, VEH, SUP, i pour les fonctions de transfert
-
-(les valeurs sont exprimées en niveau de puissance acoustique par essieu)
+Coefficients LH, TR, i, LH, VEH, i et LH, VEH, SUP, i pour les fonctions de transfert (les valeurs sont exprimées en niveau de puissance acoustique par essieu)
 
 Fréquence |
 
@@ -1112,29 +1038,67 @@ LH, TR, i |
 
 Traverse
 
-monobloc sur
+monobloc
 
-semelle souple |
+sur semelle
+
+souple |
 
 Traverse
 
 monobloc sur semelle
 
-de rigidité moyenne |
+de rigidité
+
+moyenne |
 
 Traverse
 
-monobloc sur semelle rigide |
+monobloc
 
-Traverse bibloc sur semelle
+sur semelle
+
+rigide |
+
+Traverse
+
+bibloc
+
+sur semelle
 
 souple |
 
-Traverse bibloc sur semelle de rigidité moyenne |
+Traverse
 
-Traverse bibloc sur semelle rigide |
+bibloc
 
-Traverse en bois |
+sur semelle
+
+de rigidité
+
+moyenne |
+
+Traverse
+
+bibloc
+
+sur semelle
+
+rigide |
+
+Traverse
+
+en bois |
+
+Fixation directe
+
+sur les ponts
+
+métalliques
+
+(pose
+
+sans ballast) |
 
 50 Hz |
 
@@ -1152,6 +1116,8 @@ Traverse en bois |
 
 44,0 |
 
+91,4 |
+
 63 Hz |
 
 45,3 |
@@ -1167,6 +1133,8 @@ Traverse en bois |
 26,3 |
 
 51,0 |
+
+92,7 |
 
 80 Hz |
 
@@ -1184,6 +1152,8 @@ Traverse en bois |
 
 59,9 |
 
+95,8 |
+
 100 Hz |
 
 53,9 |
@@ -1199,6 +1169,8 @@ Traverse en bois |
 49,1 |
 
 65,4 |
+
+101,2 |
 
 125 Hz |
 
@@ -1216,6 +1188,8 @@ Traverse en bois |
 
 70,6 |
 
+100,5 |
+
 160 Hz |
 
 66,1 |
@@ -1231,6 +1205,8 @@ Traverse en bois |
 64,7 |
 
 74,7 |
+
+101,2 |
 
 200 Hz |
 
@@ -1248,6 +1224,8 @@ Traverse en bois |
 
 79,3 |
 
+101,4 |
+
 250 Hz |
 
 80,6 |
@@ -1263,6 +1241,8 @@ Traverse en bois |
 73,9 |
 
 83,3 |
+
+102,5 |
 
 315 Hz |
 
@@ -1280,6 +1260,8 @@ Traverse en bois |
 
 86,7 |
 
+102,6 |
+
 400 Hz |
 
 79,6 |
@@ -1295,6 +1277,8 @@ Traverse en bois |
 87,0 |
 
 89,6 |
+
+103,4 |
 
 500 Hz |
 
@@ -1312,6 +1296,8 @@ Traverse en bois |
 
 92,4 |
 
+103,4 |
+
 630 Hz |
 
 90,3 |
@@ -1327,6 +1313,8 @@ Traverse en bois |
 85,2 |
 
 98,7 |
+
+107,3 |
 
 800 Hz |
 
@@ -1344,6 +1332,8 @@ Traverse en bois |
 
 106,1 |
 
+111,0 |
+
 1000 Hz |
 
 101,6 |
@@ -1359,6 +1349,8 @@ Traverse en bois |
 97,0 |
 
 109,5 |
+
+111,4 |
 
 1250 Hz |
 
@@ -1376,6 +1368,8 @@ Traverse en bois |
 
 111,9 |
 
+109,3 |
+
 1600 Hz |
 
 103,6 |
@@ -1391,6 +1385,8 @@ Traverse en bois |
 101,1 |
 
 113,2 |
+
+107,4 |
 
 2000 Hz |
 
@@ -1408,6 +1404,8 @@ Traverse en bois |
 
 113,0 |
 
+107,4 |
+
 2500 Hz |
 
 105,8 |
@@ -1423,6 +1421,8 @@ Traverse en bois |
 103,5 |
 
 112,9 |
+
+107,1 |
 
 3150 Hz |
 
@@ -1440,6 +1440,8 @@ Traverse en bois |
 
 112,8 |
 
+106,4 |
+
 4000 Hz |
 
 107,6 |
@@ -1455,6 +1457,8 @@ Traverse en bois |
 104,1 |
 
 112,7 |
+
+104,1 |
 
 5000 Hz |
 
@@ -1472,6 +1476,8 @@ Traverse en bois |
 
 112,6 |
 
+100,7 |
+
 6300 Hz |
 
 108,2 |
@@ -1487,6 +1493,8 @@ Traverse en bois |
 104,6 |
 
 112,6 |
+
+94,4 |
 
 8000 Hz |
 
@@ -1504,6 +1512,8 @@ Traverse en bois |
 
 112,6 |
 
+93,2 |
+
 10000 Hz |
 
 108,8 |
@@ -1520,13 +1530,13 @@ Traverse en bois |
 
 112,6 |
 
+91,7 |
+
 Fréquence |
 
 LH, VEH, i |
 
-|
-
-Roue de diamètre 1 200 mm |
+Roue de diamètre 1200 mm |
 
 Roue de diamètre 920 mm |
 
@@ -1534,259 +1544,215 @@ Roue de diamètre 840 mm |
 
 Roue de diamètre 680 mm |
 
-|
-
 50 Hz |
 
 66,2 |
 
-20,9 |
+66,2 |
 
-20,9 |
+65,9 |
 
-16,6 |
-
-|
+64,6 |
 
 63 Hz |
 
 70,2 |
 
-27,7 |
+68,2 |
 
-27,6 |
+67,6 |
 
-23,1 |
-
-|
+66,1 |
 
 80 Hz |
 
-74,2 |
+78,2 |
 
-34,7 |
+72,2 |
 
-34,5 |
+73,5 |
 
-29,9 |
-
-|
+72,9 |
 
 100 Hz |
 
-87,8 |
+90,9 |
 
-66,4 |
+79,0 |
 
-62,1 |
+73,3 |
 
-64,0 |
-
-|
+73,7 |
 
 125 Hz |
 
-86,2 |
+89,1 |
 
-70,1 |
+80,0 |
 
-69,5 |
+78,0 |
 
-70,3 |
-
-|
+77,2 |
 
 160 Hz |
 
-89,4 |
+91,8 |
 
-73,8 |
+82,3 |
 
-74,1 |
+81,8 |
 
-71,5 |
-
-|
+78,1 |
 
 200 Hz |
 
-92,2 |
+93,8 |
 
-77,7 |
+84,4 |
 
-78,9 |
+86,4 |
 
-78,8 |
-
-|
+85,4 |
 
 250 Hz |
 
-95,1 |
+96,9 |
 
-82,4 |
+87,4 |
 
-79,8 |
+86,1 |
 
-80,7 |
-
-|
+85,6 |
 
 315 Hz |
 
-96,1 |
+97,3 |
 
-84,9 |
+89,4 |
 
-82,2 |
+86,7 |
 
-83,1 |
-
-|
+86,1 |
 
 400 Hz |
 
-99,3 |
+100,8 |
 
-87,9 |
+92,3 |
 
-86,5 |
+90,8 |
 
-87,8 |
-
-|
+90,4 |
 
 500 Hz |
 
-103,3 |
+106,1 |
 
-89,8 |
+94,9 |
 
-91,7 |
+96,7 |
 
-94,0 |
-
-|
+96,7 |
 
 630 Hz |
 
-111,9 |
+112,8 |
 
-96,4 |
+101,8 |
 
-99,4 |
+103,1 |
 
-99,2 |
-
-|
+102,3 |
 
 800 Hz |
 
-119,0 |
+119,1 |
 
-104,4 |
+108,3 |
 
-104,8 |
+107,4 |
 
-102,5 |
-
-|
+105,5 |
 
 1000 Hz |
 
-120,3 |
+121,0 |
 
-108,7 |
+112,2 |
 
-109,2 |
+111,6 |
 
-105,9 |
-
-|
+108,9 |
 
 1250 Hz |
 
-121,2 |
+121,9 |
 
-110,8 |
+113,7 |
 
-112,8 |
+115,2 |
 
-110,2 |
-
-|
+113,1 |
 
 1600 Hz |
 
-124,1 |
+123,4 |
 
-113,0 |
+115,2 |
 
-109,3 |
+112,4 |
 
-105,6 |
-
-|
+107,0 |
 
 2000 Hz |
 
-125,8 |
+126,4 |
 
-117,1 |
+119,0 |
 
-114,3 |
+116,0 |
 
-106,6 |
-
-|
+107,4 |
 
 2500 Hz |
 
-126,7 |
+128,0 |
 
-120,7 |
+122,4 |
 
-116,8 |
+118,1 |
 
-103,3 |
-
-|
+104,6 |
 
 3150 Hz |
 
-127,7 |
+128,9 |
 
-123,2 |
+124,8 |
 
-118,4 |
+119,7 |
 
-104,8 |
-
-|
+106,5 |
 
 4000 Hz |
 
-129,1 |
+130,3 |
 
-123,6 |
+125,0 |
 
-118,8 |
+120,1 |
 
-104,9 |
-
-|
+106,8 |
 
 5000 Hz |
 
-129,5 |
+131,0 |
 
-123,0 |
+124,1 |
 
-118,0 |
+119,4 |
 
-102,8 |
-
-|
+104,9 |
 
 6300 Hz |
 
@@ -1798,8 +1764,6 @@ Roue de diamètre 680 mm |
 
 102,6 |
 
-|
-
 8000 Hz |
 
 124,7 |
@@ -1809,8 +1773,6 @@ Roue de diamètre 680 mm |
 116,8 |
 
 103,0 |
-
-|
 
 10000 Hz |
 
@@ -1822,13 +1784,11 @@ Roue de diamètre 680 mm |
 
 103,7 |
 
-|
-
 Fréquence |
 
 LH, VEH, SUP, i |
 
-Norme U. E. |
+Norme U.E. |
 
 50 Hz |
 
@@ -1934,189 +1894,215 @@ Longueur d'onde |
 
 LR, IMPACT, i |
 
-Aiguillage/ joint/ croisement/ 100m |
+Aiguillage/joint/croisement/100m |
 
-2 000 mm |
-
-22,4 |
-
-1 600 mm |
-
-22,4 |
-
-1 250 mm |
-
-22,4 |
-
-1 000 mm |
-
-22,4 |
-
-800 mm |
-
-22,4 |
-
-630 mm |
-
-22,4 |
-
-500 mm |
-
-23,8 |
-
-400 mm |
-
-24,7 |
-
-315 mm |
-
-24,7 |
-
-250 mm |
-
-23,4 |
-
-200 mm |
-
-21,7 |
-
-160 mm |
-
-20,2 |
-
-120 mm |
-
-20,4 |
-
-100 mm |
-
-20,8 |
-
-80 mm |
-
-20,9 |
-
-63 mm |
-
-19,8 |
-
-50 mm |
+2000 mm |
 
 18,0 |
 
-40 mm |
+1600 mm |
+
+18,0 |
+
+1250 mm |
+
+18,0 |
+
+1000 mm |
+
+18,0 |
+
+800 mm |
+
+18,0 |
+
+630 mm |
 
 16,0 |
 
-31,5 mm |
+500 mm |
 
-13,0 |
+12,0 |
 
-25 mm |
+400 mm |
+
+11,0 |
+
+315 mm |
 
 10,0 |
 
-20 mm |
+250 mm |
+
+11,0 |
+
+200 mm |
+
+10,0 |
+
+160 mm |
+
+8,0 |
+
+125 mm |
+
+7,0 |
+
+100 mm |
 
 6,0 |
 
+80 mm |
+
+5,0 |
+
+63 mm |
+
+4,0 |
+
+50 mm |
+
+2,0 |
+
+40 mm |
+
+-1,0 |
+
+31,5 mm |
+
+-2,0 |
+
+25 mm |
+
+-7,0 |
+
+20 mm |
+
+-12,0 |
+
 16 mm |
 
-1,0 |
+-17,0 |
 
-12 mm |
-
--4,0 |
-
-10 mm |
-
--11,0 |
-
-8 mm |
-
--16,5 |
-
-6,3 mm |
-
--18,5 |
-
-5 mm |
+12,5 mm |
 
 -21,0 |
 
+10 mm |
+
+-23,0 |
+
+8 mm |
+
+-26,0 |
+
+6,3 mm |
+
+-29,0 |
+
+5 mm |
+
+-30,0 |
+
 4 mm |
 
--22,5 |
+-36,0 |
 
-3,2 mm |
+3,15 mm |
 
--24,7 |
+-39,0 |
 
 2,5 mm |
 
--26,6 |
+-44,0 |
 
 2 mm |
 
--28,6 |
+-47,0 |
 
 1,6 mm |
 
--30,6 |
+-49,0 |
 
-1,2 mm |
+1,25 mm |
 
--32,6 |
+-51,0 |
 
 1 mm |
 
--34,0 |
+-53,0 |
 
 0,8 mm |
 
--34,0 |
+-54,0 |
 
 Tableaux G-5
 
-Coefficients LW, 0, idling pour le bruit de traction
+Coefficients LW, 0, idling pour le bruit de traction (les valeurs sont exprimées en niveau de puissance acoustique par véhicule)
 
-(les valeurs sont exprimées en niveau de puissance acoustique par véhicule)
-
-Le document Méthode et données d'émission sonore pour la réalisation des cartes de bruit stratégique conformément à la directive 2002/49/ CE du Parlement européen et du Conseil en application de la directive (UE) 2015/996 de la Commission du 19 mai 2015 , version 1 précise pour chaque train le type de train à prendre en compte.
-
-|
-
-Trains à grande vitesse |
-
-Automoteur type A |
-
-Automoteur type B |
-
-Automoteur type C |
-
-Automoteur type D |
+Le document Méthode et données d'émission sonore pour la réalisation des cartes de bruit stratégique conformément à la directive 2002/49/ CE du Parlement européen et du Conseil en application de la directive (UE) 2015/996 de la Commission du 19 mai 2015, version 3 précise pour chaque train le type de train à prendre en compte.
 
 Fréquence |
 
-Source A (0, 50m) |
+Trains à
 
-Source B (4, 00m) |
+grande vitesse |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type A |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type B |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type C |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type D |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
 
 50 Hz |
 
@@ -2646,33 +2632,55 @@ Source B (4, 00m) |
 
 55,1 |
 
-|
-
-Automoteur type E |
-
-Automoteur type F |
-
-Automoteur type G |
-
-Automoteur type H |
-
 Fréquence |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type E |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type F |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type G |
 
-Source A (0, 50m) |
+Automoteur
 
-Source B (4, 00m) |
+type H |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
 
 50 Hz |
 
@@ -3106,41 +3114,53 @@ Source B (4, 00m) |
 
 0 |
 
-|
+Fréquence |
 
-Rames remorquées |
+Rames
 
-Voitures
-
-remorquées
-
-type A |
+remorquées |
 
 Voitures
 
-remorquées
+remorquées type A |
 
-type B |
+Voitures
+
+remorquées type B |
 
 Tram-train |
 
-Fréquence |
+Source A
 
-Source A (0, 50m) |
+(0,50m) |
 
-Source B (4, 00m) |
+Source B
 
-Source A (0, 50m) |
+(4,00m) |
 
-Source B (4, 00m) |
+Source A
 
-Source A (0, 50m) |
+(0,50m) |
 
-Source B (4, 00m) |
+Source B
 
-Source A (0, 50m) |
+(4,00m) |
 
-Source B (4, 00m) |
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
 
 50 Hz |
 
@@ -3574,21 +3594,31 @@ Source B (4, 00m) |
 
 48,6 |
 
-|
-
-Locomotive type A |
-
-Locomotive type B |
-
 Fréquence |
 
-Source A (0, 50m) |
+Locomotive
 
-Source B (4, 00m) |
+type A |
 
-Source A (0, 50m) |
+Locomotive
 
-Source B (4, 00m) |
+type B |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
+
+Source A
+
+(0,50m) |
+
+Source B
+
+(4,00m) |
 
 50 Hz |
 
@@ -3832,15 +3862,11 @@ Source B (4, 00m) |
 
 Tableau G-6
 
-Coefficients LW, 0,1, LW, 0,2, a1, a2 pour le bruit aérodynamique
-
-(les valeurs sont exprimées en niveau de puissance acoustique par caisse, non par rame complète)
-
-|
-
-Bruit aérodynamique à 300 km/ h |
+Coefficients LW, 0,1, LW, 0,2, a1, a2 pour le bruit aérodynamique (les valeurs sont exprimées en niveau de puissance acoustique par caisse, non par rame complète)
 
 Fréquence |
+
+Bruit aérodynamique à 300 km/h |
 
 a1 |
 
@@ -3850,9 +3876,9 @@ a2 |
 
 50 |
 
-LW, 0,1 |
+LW,0,1 |
 
-LW, 0,2 |
+LW,0,2 |
 
 50 Hz |
 
@@ -4002,12 +4028,102 @@ Tableau G-7
 
 Coefficients Cbridge pour le rayonnement structurel
 
-Cbridge |
+Fréquence |
 
-Tout type de pont hors ponts métalliques avec voies non ballastées |
+LH, BRIDGE, i |
 
-Ponts métalliques avec voies non ballastées |
+50 Hz |
 
-0 |
+-99,9 |
 
-5,0 |
+63 Hz |
+
+-99,9 |
+
+80 Hz |
+
+-99,9 |
+
+100 Hz |
+
+-99,9 |
+
+125 Hz |
+
+-99,9 |
+
+160 Hz |
+
+-99,9 |
+
+200 Hz |
+
+-99,9 |
+
+250 Hz |
+
+-99,9 |
+
+315 Hz |
+
+-99,9 |
+
+400 Hz |
+
+-99,9 |
+
+500 Hz |
+
+-99,9 |
+
+630 Hz |
+
+-99,9 |
+
+800 Hz |
+
+-99,9 |
+
+1000 Hz |
+
+-99,9 |
+
+1250 Hz |
+
+-99,9 |
+
+1600 Hz |
+
+-99,9 |
+
+2000 Hz |
+
+-99,9 |
+
+2500 Hz |
+
+-99,9 |
+
+3150 Hz |
+
+-99,9 |
+
+4000 Hz |
+
+-99,9 |
+
+5000 Hz |
+
+-99,9 |
+
+6300 Hz |
+
+-99,9 |
+
+8000 Hz |
+
+-99,9 |
+
+10000 Hz |
+
+-99,9 |
