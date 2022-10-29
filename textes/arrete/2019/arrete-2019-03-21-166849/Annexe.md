@@ -774,32 +774,6 @@ BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
 
 6814670 |
 
-2019_01_29-1 |
-
-Bretagne |
-
-Finistère |
-
-GC_29_013 |
-
-|
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-|
-
-202179 |
-
-6865220 |
-
-2 |
-
-|
-
-199199 |
-
-6867442 |
-
 2019_01_18-1 |
 
 Centre-Val de Loire |

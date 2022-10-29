@@ -258,17 +258,15 @@ LOT2_2019_ZN_38_003_Point2 |
 
 6445566 |
 
-LOT2_2019_ZN_38_003_S1 |
+LOT2_2019_ZN_38_003_S2 |
 
-3 |
+2 |
 
 LOT2_2019_ZN_38_003_Point3 |
 
 896017 |
 
 6444844 |
-
-LOT2_2019_ZN_38_003_S2 |
 
 LOT2_2019_ZN_38_003_Point4 |
 
@@ -2434,12 +2432,6 @@ LOT2_2019_ZN_31_005_S1 |
 
 1 |
 
-Sarclat |
-
-537038 |
-
-6214899 |
-
 Pas du Loup |
 
 536707 |
@@ -3627,28 +3619,6 @@ Les Ribles |
 6412306 |
 
 LOT2_2019_ZN_05_012_S1 |
-
-1 |
-
-2019_03_84-1 |
-
-Provence Alpes Côte d'Azur |
-
-Vaucluse |
-
-ZN_84_002 |
-
-La Tour d'Aigues |
-
-BOUYGUES TELECOM/FREE MOBILE/ORANGE/SFR |
-
-Quartier nord |
-
-905151 |
-
-6296559 |
-
-A définir |
 
 1 |
 
