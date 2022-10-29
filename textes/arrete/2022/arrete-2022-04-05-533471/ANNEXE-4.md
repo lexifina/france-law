@@ -1,70 +1,56 @@
 # Article ANNEXE 4
 
-Répartition des flexibilités interzonales en tonnes
+RÉPARTITION DES FLEXIBILITÉS INTERZONALES EN TONNES
 
 Libellé de la flexibilité |
 
 Code UE |
 
-Navires non adhérant à une organisation
+Navires non adhérant à une organisation de producteurs |
 
-de producteurs |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation
+Les pêcheurs d'Aquitaine |
 
-de producteurs Les pêcheurs d'Aquitaine |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation
+Coopérative maritime étaploise Manche Mer du Nord (CMEMMN) |
 
-de producteurs Coopérative maritime étaploise
+Navires adhérant à l'organisation de producteurs
 
-Manche Mer du Nord (CMEMMN) |
+Coopérative Bretagne-Nord (COBRENORD) |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs Coopérative Bretagne-Nord (COBRENORD) |
+Fonds régional d'organisation du marché du poisson du Nord-Normandie (FROM Nord) |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs Fonds régional d'organisation
+Fonds régional d'organisation du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
 
-du marché du poisson du Nord-Normandie (FROM Nord) |
-
-Navires adhérant à l'organisation
-
-de producteurs Fonds régional d'organisation
-
-du marché du poisson du Sud-Ouest (FROM Sud-Ouest) |
-
-Navires adhérant à l'organisation
-
-de producteurs Organisation de producteurs
+Navires adhérant à l'organisation de producteurs
 
 de la Cotinière |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs Marins-Pêcheurs
+des Pêcheurs Normands (OPN) |
 
-Normands (OPN) |
-
-Navires adhérant à l'organisation
-
-de producteurs Organisation de producteurs
+Navires adhérant à l'organisation de producteurs
 
 des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs Les pêcheurs de Bretagne |
+Les pêcheurs de Bretagne |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs VENDEE |
+VENDEE |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs ORTHONGEL |
+Orthongel |
 
 Total |
 
@@ -72,7 +58,7 @@ Baudroie
 
 Lophiidae |
 
-ANF/*8ABDE |
+ANF/ *8ABDE |
 
 18 |
 
@@ -104,7 +90,7 @@ Cabillaud
 
 Gadus morhua |
 
-COD/*2A3X4 |
+COD/ *2A3X4 |
 
 0 |
 
@@ -134,7 +120,7 @@ COD/*2A3X4 |
 
 Cardine Lepidorhombus spp. |
 
-LEZ/*2AC4C |
+LEZ/ *2AC4C |
 
 37 |
 
@@ -164,7 +150,7 @@ LEZ/*2AC4C |
 
 Cardine Lepidorhombus spp. |
 
-LEZ/*8ABDE |
+LEZ/ *8ABDE |
 
 10 |
 
@@ -196,7 +182,7 @@ Chinchard
 
 Trachurus spp. |
 
-JAX/*2A4AC |
+JAX/ *2A4AC |
 
 0 |
 
@@ -228,7 +214,7 @@ Chinchard
 
 Trachurus spp. |
 
-JAX/*07D. |
+JAX/ *07D. |
 
 0 |
 
@@ -260,7 +246,7 @@ Chinchard
 
 Trachurus spp. |
 
-JAX/*7D-EU |
+JAX/ *7D-EU |
 
 0 |
 
@@ -292,7 +278,7 @@ Lieu jaune
 
 Pollachius pollachius |
 
-POL/*8ABDE |
+POL/ *8ABDE |
 
 4 |
 
@@ -324,7 +310,7 @@ Lieu noir
 
 Pollachius virens |
 
-POK/*2AC4C |
+POK/ *2AC4C |
 
 0 |
 
@@ -334,29 +320,29 @@ POK/*2AC4C |
 
 0 |
 
-1470 |
+461 |
 
 0 |
 
-5 |
-
-0 |
-
-0 |
-
-45 |
+2 |
 
 0 |
 
 0 |
 
-1520 |
+250 |
+
+0 |
+
+0 |
+
+713 |
 
 Lingue franche
 
 Molva molva |
 
-LIN/*04-C. |
+LIN/ *04-C. |
 
 0 |
 
@@ -366,7 +352,7 @@ LIN/*04-C. |
 
 0 |
 
-1386 |
+1086 |
 
 0 |
 
@@ -376,7 +362,7 @@ LIN/*04-C. |
 
 0 |
 
-228 |
+528 |
 
 0 |
 
@@ -388,23 +374,23 @@ Merlu
 
 Merluccius merluccius |
 
-HKE/*57-14 |
+HKE/ *57-14 |
 
 16 |
 
-270 |
+560 |
 
 2 |
 
-90 |
+0 |
 
 1151 |
 
-702 |
+502 |
 
-144 |
+172 |
 
-28 |
+0 |
 
 1 |
 
@@ -420,19 +406,19 @@ Merlu
 
 Merluccius merluccius |
 
-HKE/*8ABDE |
+HKE/ *8ABDE |
 
 42 |
 
-251 |
+51 |
 
 6 |
 
 35 |
 
-167 |
+197 |
 
-146 |
+346 |
 
 213 |
 
@@ -440,7 +426,7 @@ HKE/*8ABDE |
 
 33 |
 
-897 |
+867 |
 
 311 |
 
@@ -452,7 +438,7 @@ Raies
 
 Rajidae |
 
-SRX/*2AC4C |
+SRX/ *2AC4C |
 
 1 |
 
@@ -484,7 +470,7 @@ Raies
 
 Rajidae |
 
-SRX/*07D. |
+SRX/ *07D. |
 
 12 |
 
@@ -494,7 +480,7 @@ SRX/*07D. |
 
 5 |
 
-54 |
+63 |
 
 0 |
 
@@ -504,10 +490,10 @@ SRX/*07D. |
 
 0 |
 
-9 |
+50 |
 
 0 |
 
 0 |
 
-182 |
+232 |

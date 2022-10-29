@@ -4,105 +4,77 @@ Répartition des quotas
 
 Libellé du quota |
 
-Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
+Zone de
+
+référence
+
+du Conseil
+
+international
+
+pour
+
+l'exploration
+
+de la mer
+
+(CIEM) |
 
 Code stock |
 
 |
 
-Navires non adhérant
+Navires non adhérant à une organisation de producteurs |
 
-à une organisation de producteurs |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation
+Les pêcheurs d'Aquitaine |
 
-de producteurs Les pêcheurs d'Aquitaine |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation de producteurs Coopérative
+Coopérative maritime étaploise Manche Mer du Nord (CMEMMN) |
 
-maritime étaploise Manche Mer du Nord (CMEMMN) |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation
+Coopérative Bretagne-Nord (COBRENORD) |
 
-de producteurs Coopérative
+Navires adhérant à l'organisation de producteurs
 
-Bretagne-Nord (COBRENORD) |
+Fonds régional d'organisation du marché
 
-Navires adhérant à l'organisation
+du poisson du Nord-Normandie (FROM Nord) |
 
-de producteurs Fonds régional
+Navires adhérant à l'organisation de producteurs
 
-d'organisation du marché du poisson
+Fonds régional d'organisation du marché
 
-du Nord-Normandie (FROM Nord) |
+du poisson du Sud-Ouest (FROM Sud-Ouest) |
 
-Navires adhérant à l'organisation de producteurs Fonds régional
+Navires adhérant à l'organisation de producteurs
 
-d'organisation du marché du poisson
+de la Cotinière |
 
-du Sud-Ouest (FROM Sud-Ouest) |
+Navires adhérant à l'organisation de producteurs
 
-Navires adhérant à l'organisation de producteurs Organisation
+des Pêcheurs Normands (OPN) |
 
-de producteurs de la Cotinière |
-
-Navires adhérant à l'organisation
-
-de producteurs Marins-Pêcheurs Normands (OPN) |
-
-Navires adhérant à l'organisation de producteurs Organisation de producteurs
+Navires adhérant à l'organisation de producteurs
 
 des pêcheurs artisans de l'île de Noirmoutier (OPPAN) |
 
-Navires adhérant à l'organisation
-
-de producteurs
+Navires adhérant à l'organisation de producteurs
 
 Les pêcheurs de Bretagne |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs VENDEE |
+VENDEE |
 
-Navires adhérant à l'organisation
+Navires adhérant à l'organisation de producteurs
 
-de producteurs ORTHONGEL |
+Orthongel |
 
 Total |
-
-Albacore Thunnus albacares |
-
-Zone de compétence CTOI |
-
-YFT/IOTC |
-
-Sous-quota (tonnes) |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-13868 |
-
-13868 |
 
 Anchois Engraulis encrasicolus |
 
@@ -112,33 +84,35 @@ ANE/08. |
 
 Sous-quota (tonnes) |
 
-28 |
+31 |
 
-238 |
+253 |
 
-267 |
-
-2 |
-
-171 |
-
-135 |
-
-106 |
+293 |
 
 2 |
 
+187 |
+
+148 |
+
+116 |
+
 2 |
 
-3490 |
+2 |
 
-950 |
+3851 |
+
+1047 |
 
 0 |
 
-5391 |
+5932 |
 
-Baudroie Lophiidae |
+Baudroie
+
+Lophiidae |
 
 VII |
 
@@ -146,33 +120,35 @@ ANF/07. |
 
 Sous-quota (tonnes) |
 
-313 |
+373 |
 
-1208 |
+1574 |
 
-78 |
+93 |
 
-1036 |
+1245 |
 
-1512 |
+1975 |
 
-2269 |
+2971 |
 
-545 |
+546 |
 
-293 |
+392 |
 
-44 |
+48 |
 
-12648 |
+14558 |
 
-777 |
+903 |
 
 0 |
 
-20 723 |
+24678 |
 
-Baudroie Lophiidae |
+Baudroie
+
+Lophiidae |
 
 VI, eaux UE et eaux internationales de la zone V b, eaux internationales des zones XII et XIV |
 
@@ -180,6 +156,8 @@ ANF/56-14 |
 
 Sous-quota (tonnes) |
 
+29 |
+
 17 |
 
 0 |
@@ -188,59 +166,61 @@ Sous-quota (tonnes) |
 
 11 |
 
-20 |
-
-8 |
-
-40 |
+0 |
 
 0 |
 
-1816 |
+0 |
 
 0 |
 
-17 |
+1510 |
 
 0 |
 
-1 942 |
+0 |
 
-Baudroie Lophiidae |
+1567 |
+
+Baudroie
+
+Lophiidae |
 
 VIII a, b, d, e |
 
-ANF/8ABDE. |
+ANF/ 8ABDE. |
 
 Sous-quota (tonnes) |
 
+80 |
+
+726 |
+
+13 |
+
+166 |
+
+931 |
+
+443 |
+
+1209 |
+
 65 |
 
-581 |
+178 |
 
-11 |
+5730 |
 
-142 |
-
-808 |
-
-437 |
-
-930 |
-
-56 |
-
-157 |
-
-4715 |
-
-694 |
+834 |
 
 0 |
 
-8 596 |
+10375 |
 
-Brosme Brosme brosme |
+Brosme
+
+Brosme brosme |
 
 Eaux UE de la zone IV |
 
@@ -274,11 +254,13 @@ Sous-quota (tonnes) |
 
 42 |
 
-Brosme Brosme brosme |
+Brosme
+
+Brosme brosme |
 
 Eaux UE et eaux internationales des zones I, II et XIV |
 
-USK/1214EI |
+USK/ 1214EI |
 
 Sous-quota (tonnes) |
 
@@ -308,11 +290,13 @@ Sous-quota (tonnes) |
 
 6 |
 
-Brosme Brosme brosme |
+Brosme
+
+Brosme brosme |
 
 Eaux UE et eaux internationales des zones V, VI et VII |
 
-USK/567EI. |
+USK/ 567EI. |
 
 Sous-quota (tonnes) |
 
@@ -334,19 +318,21 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 972 |
+1972 |
 
 0 |
 
 0 |
 
-2 464 |
+2464 |
 
-Cabillaud Gadus morhua |
+Cabillaud
+
+Gadus morhua |
 
 VII a |
 
-COD/07A. |
+COD/ 07A. |
 
 Sous-quota (tonnes) |
 
@@ -376,29 +362,31 @@ Sous-quota (tonnes) |
 
 7 |
 
-Cabillaud Gadus morhua |
+Cabillaud
+
+Gadus morhua |
 
 VII d |
 
-COD/07D. |
+COD/ 07D. |
 
 Sous-quota (tonnes) |
 
-22 |
+23 |
 
 5 |
 
-124 |
+129 |
 
 6 |
 
-285 |
+293 |
 
 0 |
 
 0 |
 
-113 |
+116 |
 
 3 |
 
@@ -408,13 +396,15 @@ Sous-quota (tonnes) |
 
 0 |
 
-632 |
+649 |
 
-Cabillaud Gadus morhua |
+Cabillaud
+
+Gadus morhua |
 
 Eaux internationales des zones I et II b (1) |
 
-COD/1/2B. |
+COD/1/ 2B. |
 
 Sous-quota (tonnes) |
 
@@ -426,7 +416,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-487 |
+2 337 |
 
 0 |
 
@@ -442,13 +432,15 @@ Sous-quota (tonnes) |
 
 0 |
 
-487 |
+2337 |
 
-Cabillaud Gadus morhua |
+Cabillaud
+
+Gadus morhua |
 
 Eaux norvégiennes des zones I et II |
 
-COD/1N2AB. |
+COD/ 1N2AB. |
 
 Sous-quota (tonnes) |
 
@@ -460,7 +452,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-2362 |
+2 442 |
 
 0 |
 
@@ -476,13 +468,15 @@ Sous-quota (tonnes) |
 
 0 |
 
-2362 |
+2442 |
 
-Cabillaud Gadus morhua |
+Cabillaud
+
+Gadus morhua |
 
 IV, eaux UE des zones II a ; partie de la zone III a non comprise dans le Skagerrak ni dans le Kattegat |
 
-COD/2A3AX4 |
+COD/ 2A3AX4 |
 
 Sous-quota (tonnes) |
 
@@ -490,67 +484,71 @@ Sous-quota (tonnes) |
 
 0 |
 
-216 |
+53 |
 
 0 |
 
-159 |
+191 |
 
 0 |
 
 0 |
+
+0 |
+
+0 |
+
+64 |
+
+0 |
+
+0 |
+
+310 |
+
+Cabillaud
+
+Gadus morhua |
+
+Vb est, VIa |
+
+COD/ 5BE6A |
+
+Sous-quota (tonnes) |
 
 3 |
 
+1 |
+
 0 |
 
-20 |
+0 |
 
 9 |
 
 0 |
 
-409 |
-
-Cabillaud Gadus morhua |
-
-Vb est, VIa |
-
-COD/5BE6A |
-
-Sous-quota (tonnes) |
-
-3 |
-
-1 |
-
-0 |
-
-0 |
-
-4 |
-
-1 |
-
 7 |
 
 0 |
 
 0 |
 
-94 |
+120 |
 
 0 |
 
 0 |
 
-110 |
+140 |
 
-Cabillaud Gadus morhua |
+Cabillaud
+
+Gadus morhua |
 
 VI b ; eaux UE et eaux internationales de la zone V b à l'ouest de 12° 00 O et des zones XII et XIV |
 
-COD/5W6-14 |
+COD/ 5W6-14 |
 
 Sous-quota (tonnes) |
 
@@ -572,31 +570,33 @@ Sous-quota (tonnes) |
 
 0 |
 
-6 |
+2 |
 
 0 |
 
 0 |
 
-7 |
+3 |
 
-Cabillaud Gadus morhua |
+Cabillaud
 
-VII b, c,e-k, VIII, IX, X, eaux UE de la zone COPACE 34.1.1 |
+Gadus morhua |
 
-COD/7XAD34 |
+VII b, c, e-k, VIII, IX, X, eaux UE de la zone COPACE 34.1.1 |
+
+COD/ 7XAD34 |
 
 Sous-quota (tonnes) |
 
 3 |
 
-11 |
+8 |
 
 0 |
 
-18 |
+20 |
 
-12 |
+13 |
 
 5 |
 
@@ -606,23 +606,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-150 |
+157 |
 
-9 |
+4 |
 
 0 |
 
-215 |
+217 |
 
 Cardine Lepidorhombus spp. |
 
 IIa, IV |
 
-LEZ/2AC4-C |
+LEZ/ 2AC4-C |
 
 Sous-quota (tonnes) |
 
-3 |
+4 |
 
 0 |
 
@@ -630,7 +630,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-33 |
+38 |
 
 0 |
 
@@ -640,13 +640,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-8 |
+9 |
 
 0 |
 
 0 |
 
-44 |
+51 |
 
 Cardine Lepidorhombus spp. |
 
@@ -656,31 +656,31 @@ LEZ/07. |
 
 Sous-quota (tonnes) |
 
-18 |
+21 |
 
-574 |
+707 |
 
 3 |
 
-54 |
+91 |
 
-371 |
+646 |
 
-1 519 |
+1610 |
 
-142 |
+148 |
 
-14 |
-
-0 |
-
-2 702 |
-
-394 |
+11 |
 
 0 |
 
-5 791 |
+3213 |
+
+466 |
+
+0 |
+
+6 916 |
 
 Cardine Lepidorhombus spp. |
 
@@ -690,133 +690,137 @@ LEZ/56-14 |
 
 Sous-quota (tonnes) |
 
-73 |
+84 |
 
-68 |
-
-0 |
-
-0 |
-
-70 |
-
-172 |
+79 |
 
 0 |
 
 0 |
 
-0 |
+81 |
 
-1 628 |
-
-16 |
+199 |
 
 0 |
 
-2 027 |
+0 |
+
+0 |
+
+1891 |
+
+19 |
+
+0 |
+
+2353 |
 
 Cardine Lepidorhombus spp. |
 
-VIII a, b,d, e |
+VIII a, b, d, e |
 
-LEZ/8ABDE. |
+LEZ/ 8ABDE. |
 
 Sous-quota (tonnes) |
 
 4 |
 
-39 |
+41 |
 
 0 |
-
-9 |
-
-40 |
-
-64 |
-
-64 |
-
-14 |
 
 5 |
 
-525 |
+23 |
 
-50 |
+72 |
+
+78 |
+
+16 |
+
+11 |
+
+620 |
+
+56 |
 
 0 |
 
-814 |
+926 |
 
-Chinchard Trachurus spp. |
+Chinchard
+
+Trachurus spp. |
 
 Eaux de l'UE des zones II a, IV a ; VI, VII a-c, VII e-k, VIII a, VIII b, VIII d et VIII e ; eaux de l'UE et eaux internationales de la zone V b ; eaux internationales des zones XII et XIV |
 
-JAX/2A-14 |
+JAX/ 2A-14 |
 
 Sous-quota (tonnes) |
 
-4 |
+26 |
 
-65 |
+221 |
 
-58 |
+5 |
 
-11 |
+26 |
 
-1 718 |
+2186 |
 
-12 |
+70 |
 
-11 |
+31 |
 
-14 |
+124 |
+
+5 |
+
+1343 |
+
+295 |
 
 0 |
 
-373 |
+4 332 |
 
-202 |
+Chinchard
 
-0 |
-
-2468 |
-
-Chinchard Trachurus spp. |
+Trachurus spp. |
 
 Eaux UE des zones IV b, IV c et VII d |
 
-JAX/4BC7D |
+JAX/ 4BC7D |
 
 Sous-quota (tonnes) |
-
-1 |
-
-0 |
-
-49 |
-
-0 |
-
-198 |
-
-0 |
-
-0 |
-
-10 |
-
-0 |
 
 3 |
 
 4 |
 
+80 |
+
+2 |
+
+219 |
+
 0 |
 
-265 |
+2 |
+
+11 |
+
+0 |
+
+7 |
+
+5 |
+
+0 |
+
+333 |
 
 Dorade rose Pagellus bogaraveo |
 
@@ -844,19 +848,21 @@ Sous-quota (tonnes) |
 
 0,0 |
 
-2,9 |
+4,9 |
 
 0,4 |
 
-0,0 |
+0 |
 
-4 |
+6,0 |
 
-Eglefin Melanogrammus aeglefinus |
+Eglefin
+
+Melanogrammus aeglefinus |
 
 VII a |
 
-HAD/07A. |
+HAD/ 07A. |
 
 Sous-quota (tonnes) |
 
@@ -878,19 +884,21 @@ Sous-quota (tonnes) |
 
 0 |
 
-150 |
+200 |
 
 3 |
 
 0 |
 
-195 |
+245 |
 
-Eglefin Melanogrammus aeglefinus |
+Eglefin
+
+Melanogrammus aeglefinus |
 
 Eaux norvégiennes des zones I et II |
 
-HAD/1N2AB. |
+HAD/ 1N2AB. |
 
 Sous-quota (tonnes) |
 
@@ -902,7 +910,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-169 |
+166 |
 
 0 |
 
@@ -918,81 +926,87 @@ Sous-quota (tonnes) |
 
 0 |
 
-169 |
+166 |
 
-Eglefin Melanogrammus aeglefinus |
+Eglefin
+
+Melanogrammus aeglefinus |
 
 IV, eaux UE de la zone II |
 
-HAD/2AC4. |
+HAD/ 2AC4. |
 
 Sous-quota (tonnes) |
 
-25 |
+29 |
 
 0 |
 
-18 |
+21 |
 
 0 |
 
-2 002 |
-
-0 |
-
-0 |
+2330 |
 
 0 |
 
 0 |
 
-52 |
+0 |
+
+0 |
+
+61 |
 
 4 |
 
 0 |
 
-2 101 |
+2 445 |
 
-Eglefin Melanogrammus aeglefinus |
+Eglefin
+
+Melanogrammus aeglefinus |
 
 VII b-k, VIII, IX, X, eaux UE de la zone COPACE 34.1.1 |
 
-HAD/7X7A34 |
+HAD/ 7X7A34 |
 
 Sous-quota (tonnes) |
 
-87 |
+96 |
 
-228 |
+269 |
 
-40 |
+44 |
 
-696 |
+853 |
 
-616 |
+606 |
 
-413 |
+458 |
 
-63 |
+70 |
 
-223 |
-
-0 |
-
-6 149 |
-
-192 |
+161 |
 
 0 |
 
-8 707 |
+6828 |
 
-Flétan noir Reinhardtius hippoglossoides |
+212 |
+
+0 |
+
+9 597 |
+
+Flétan noir
+
+Reinhardtius hippoglossoides |
 
 Eaux UE des zones II a et IV, eaux UE et eaux internationales des zones Vb et VI |
 
-GHL/2A-C46 |
+GHL/ 2A-C46 |
 
 Sous-quota (tonnes) |
 
@@ -1004,7 +1018,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-402 |
+395 |
 
 0 |
 
@@ -1014,53 +1028,57 @@ Sous-quota (tonnes) |
 
 0 |
 
-72 |
+145 |
 
 0 |
 
 0 |
 
-477 |
+543 |
 
-Germon Thunnus alalunga |
+Germon
+
+Thunnus alalunga |
 
 Océan Atlantique au nord de 5° nord |
 
-ALB/AN05N |
+ALB/ AN05N |
 
 Sous-quota (tonnes) |
 
-49 |
+35 |
 
-796 |
+1129 |
 
-111 |
+12 |
 
-38 |
+1 |
 
-127 |
+4 |
 
-660 |
+739 |
 
-233 |
-
-0 |
-
-231 |
-
-2 004 |
-
-1 545 |
+211 |
 
 0 |
 
-5 794 |
+30 |
 
-Germon Thunnus alalunga |
+3530 |
+
+1131 |
+
+0 |
+
+6 822 |
+
+Germon
+
+Thunnus alalunga |
 
 Océan Atlantique au sud de 5° nord |
 
-ALB/AS05N |
+ALB/ AS05N |
 
 Sous-quota (tonnes) |
 
@@ -1086,9 +1104,9 @@ Sous-quota (tonnes) |
 
 0 |
 
-296 |
+297 |
 
-296 |
+297 |
 
 Grande argentine Argentina silus |
 
@@ -1128,7 +1146,7 @@ Grenadiers Macrourus spp. |
 
 Eaux UE et eaux internationales des zones Vb, VI et VII |
 
-RNG/5B67- |
+RNG/ 5B67- |
 
 Sous-quota (tonnes) |
 
@@ -1150,19 +1168,19 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 347 |
+1399 |
 
 0 |
 
 0 |
 
-1 908 |
+1960 |
 
 Grenadiers Macrourus spp. |
 
 Eaux UE et eaux internationales des zones VIII, IX, X, XII et XIV |
 
-RNG/8X14- |
+RNG/ 8X14- |
 
 Sous-quota (tonnes) |
 
@@ -1192,7 +1210,9 @@ Sous-quota (tonnes) |
 
 51 |
 
-Hareng Clupea harengus |
+Hareng
+
+Clupea harengus |
 
 Eaux UE, norvégiennes et internationales des zones I et II |
 
@@ -1208,8 +1228,6 @@ Sous-quota (tonnes) |
 
 0 |
 
-516 |
-
 0 |
 
 0 |
@@ -1224,13 +1242,17 @@ Sous-quota (tonnes) |
 
 0 |
 
-516 |
+0 |
 
-Hareng Clupea harengus |
+0 |
 
-Eaux UE et eaux norvégiennes de la zone IV au nord de 53° 30′ N |
+Hareng
 
-HER/4AB. |
+Clupea harengus |
+
+Eaux UE et eaux norvégiennes de la zone IV au nord de 53° 30 ′ N |
+
+HER/ 4AB. |
 
 Sous-quota (tonnes) |
 
@@ -1242,7 +1264,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-21750 |
+19 365 |
 
 0 |
 
@@ -1258,47 +1280,51 @@ Sous-quota (tonnes) |
 
 0 |
 
-21750 |
+19 365 |
 
-Hareng Clupea harengus |
+Hareng
+
+Clupea harengus |
 
 IV c, VII d |
 
-HER/4CXB7D |
+HER/ 4CXB7D |
 
 Sous-quota (tonnes) |
 
-138 |
+150 |
 
-2 |
+0 |
 
-292 |
+321 |
 
 3 |
 
-12052 |
+12291 |
 
 0 |
-
-0 |
-
-14 |
 
 0 |
 
 15 |
 
-4 |
+0 |
+
+16 |
+
+5 |
 
 0 |
 
-12520 |
+12 801 |
 
-Hareng Clupea harengus |
+Hareng
+
+Clupea harengus |
 
 Eaux UE et eaux internationales des zones V b, VI b et VI a N |
 
-HER/5B6ANB |
+HER/ 5B6ANB |
 
 Sous-quota (tonnes) |
 
@@ -1328,11 +1354,13 @@ Sous-quota (tonnes) |
 
 66 |
 
-Hareng Clupea harengus |
+Hareng
+
+Clupea harengus |
 
 VII g, h, j, k |
 
-HER/7G-K. |
+HER/ 7G-K. |
 
 Sous-quota (tonnes) |
 
@@ -1344,7 +1372,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-53 |
+54 |
 
 0 |
 
@@ -1360,13 +1388,15 @@ Sous-quota (tonnes) |
 
 0 |
 
-53 |
+54 |
 
-Hareng Clupea harengus |
+Hareng
+
+Clupea harengus |
 
 VII e, f |
 
-HER/7EF. |
+HER/ 7EF. |
 
 Sous-quota (tonnes) |
 
@@ -1404,37 +1434,37 @@ NEP/07. |
 
 Sous-quota (tonnes) |
 
-14 |
+18 |
 
-71 |
-
-5 |
+91 |
 
 7 |
 
-128 |
+9 |
+
+143 |
+
+86 |
 
 65 |
 
-51 |
-
 0 |
 
 0 |
 
-2 703 |
+3241 |
 
-183 |
+233 |
 
 0 |
 
-3 227 |
+3 893 |
 
 Langoustine Nephrops norvegicus |
 
 dont au maximum peuvent être pêchés dans le banc de Porcupine (unité 16) |
 
-NEP/*07U16 |
+NEP/ *07U16 |
 
 Sous-quota (tonnes) |
 
@@ -1446,7 +1476,7 @@ Sous-quota (tonnes) |
 
 1 |
 
-21 |
+0 |
 
 11 |
 
@@ -1456,49 +1486,51 @@ Sous-quota (tonnes) |
 
 0 |
 
-444 |
+164 |
 
 30 |
 
 0 |
 
-530 |
+229 |
 
 Langoustine Nephrops norvegicus |
 
 VIII a, b, d, e |
 
-NEP/8ABDE. |
+NEP/ 8ABDE. |
 
 Sous-quota (tonnes) |
 
-32 |
+36 |
 
-89 |
+100 |
 
 2 |
 
-52 |
+62 |
 
-5 |
+2 |
 
-28 |
+22 |
 
-292 |
+334 |
 
-87 |
-
-0 |
-
-2 744 |
-
-222 |
+97 |
 
 0 |
 
-3 553 |
+3216 |
 
-Lieu jaune Pollachius pollachius |
+249 |
+
+0 |
+
+4 120 |
+
+Lieu jaune
+
+Pollachius pollachius |
 
 VII |
 
@@ -1506,71 +1538,75 @@ POL/07. |
 
 Sous-quota (tonnes) |
 
-58 |
+67 |
 
-102 |
+111 |
 
-58 |
+99 |
 
-677 |
+696 |
 
-444 |
+474 |
 
-120 |
+123 |
 
-26 |
+33 |
 
-1 050 |
+1135 |
 
-21 |
+22 |
 
-2 303 |
+2353 |
 
-119 |
+258 |
 
 0 |
 
-4 978 |
+5 371 |
 
-Lieu jaune Pollachius pollachius |
+Lieu jaune
+
+Pollachius pollachius |
 
 VIII a, b, d, e |
 
-POL/8ABDE. |
+POL/ 8ABDE. |
 
 Sous-quota (tonnes) |
 
-41 |
+46 |
 
-27 |
-
-2 |
-
-5 |
-
-4 |
-
-49 |
-
-119 |
-
-8 |
-
-81 |
-
-684 |
-
-183 |
+30 |
 
 0 |
 
-1 203 |
+1 |
 
-Lieu noir Pollachius virens |
+11 |
+
+69 |
+
+123 |
+
+0 |
+
+94 |
+
+864 |
+
+189 |
+
+0 |
+
+1 427 |
+
+Lieu noir
+
+Pollachius virens |
 
 Eaux norvégiennes des zones I et II |
 
-POK/1N2AB. |
+POK/ 1N2AB. |
 
 Sous-quota (tonnes) |
 
@@ -1582,7 +1618,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-97 |
+78 |
 
 0 |
 
@@ -1598,13 +1634,15 @@ Sous-quota (tonnes) |
 
 0 |
 
-97 |
+78 |
 
-Lieu noir Pollachius virens |
+Lieu noir
+
+Pollachius virens |
 
 III a, IV, eaux UE des zones II a, III b, c et subdivisions 22-32 |
 
-POK/2A34. |
+POK/ 2A34. |
 
 Sous-quota (tonnes) |
 
@@ -1616,25 +1654,27 @@ Sous-quota (tonnes) |
 
 0 |
 
-9 801 |
+11 216 |
+
+0 |
+
+4 |
 
 0 |
 
 0 |
 
-31 |
-
-0 |
-
-303 |
+378 |
 
 0 |
 
 0 |
 
-10 135 |
+11 598 |
 
-Lieu noir Pollachius virens |
+Lieu noir
+
+Pollachius virens |
 
 VI, eaux UE et eaux internationales des zones V b, XII et XIV |
 
@@ -1642,37 +1682,37 @@ POK/56-14 |
 
 Sous-quota (tonnes) |
 
-25 |
+29 |
 
 2 |
 
 0 |
 
-0 |
+50 |
 
-434 |
+501 |
 
-9 |
+10 |
 
-201 |
-
-0 |
-
-0 |
-
-1 506 |
+37 |
 
 0 |
 
 0 |
 
-2 177 |
+1738 |
+
+0 |
+
+0 |
+
+2 367 |
 
 Limande sole et plie grise Microstomus kitt & Glytocephalus cynoglossus |
 
 Eaux UE des zones II a et IV |
 
-L/W/2AC4-C |
+L/ W/ 2AC4-C |
 
 Sous-quota (tonnes) |
 
@@ -1680,11 +1720,11 @@ Sous-quota (tonnes) |
 
 0 |
 
-109 |
+112 |
 
 0 |
 
-38 |
+39 |
 
 0 |
 
@@ -1700,7 +1740,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-155 |
+159 |
 
 Lingue bleue Molva dypterigia |
 
@@ -1718,7 +1758,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-5 |
+10 |
 
 0 |
 
@@ -1728,19 +1768,19 @@ Sous-quota (tonnes) |
 
 0 |
 
-6 |
+3 |
 
 0 |
 
 0 |
 
-11 |
+13 |
 
 Lingue bleue Molva dypterigia |
 
 Eaux UE et eaux internationales des zones Vb, VI et VII |
 
-BLI/5B67- |
+BLI/ 5B67- |
 
 Sous-quota (tonnes) |
 
@@ -1752,7 +1792,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 821 |
+1821 |
 
 20 |
 
@@ -1762,13 +1802,13 @@ Sous-quota (tonnes) |
 
 0 |
 
-5 837 |
+5768 |
 
 0 |
 
 0 |
 
-7 792 |
+7 723 |
 
 Lingue franche Molva molva |
 
@@ -1786,29 +1826,29 @@ Sous-quota (tonnes) |
 
 0 |
 
-126 |
+171 |
+
+0 |
+
+3 |
 
 0 |
 
 0 |
 
-7 |
-
-0 |
-
-21 |
+35 |
 
 0 |
 
 0 |
 
-154 |
+209 |
 
 Lingue franche Molva molva |
 
 Eaux UE et eaux internationales de la zone V |
 
-LIN/05EI. |
+LIN/ 05EI. |
 
 Sous-quota (tonnes) |
 
@@ -1854,7 +1894,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-8 |
+9 |
 
 0 |
 
@@ -1870,121 +1910,161 @@ Sous-quota (tonnes) |
 
 0 |
 
-8 |
+9 |
 
 Lingue franche Molva molva |
 
 Eaux UE et eaux internationales des zones VI, VII, VIII, IX, X, XII et XIV |
 
-LIN/6X14. |
+LIN/ 6X14. |
 
 Sous-quota (tonnes) |
 
-72 |
+78 |
 
-129 |
+145 |
 
 3 |
 
-223 |
+236 |
 
-336 |
+609 |
 
-148 |
+114 |
 
-117 |
-
-123 |
-
-16 |
-
-2661 |
-
-88 |
-
-0 |
-
-3 916 |
-
-Maquereau Scomber scombrus |
-
-III a, IV ; eaux UE des zones II a, III b, III c, III d |
-
-MAC/2A34. |
-
-Sous-quota (tonnes) |
-
-0 |
-
-0 |
-
-576 |
-
-0 |
-
-1 070 |
-
-0 |
-
-0 |
-
--30 |
-
-0 |
-
-0 |
-
-0 |
-
-0 |
-
-1 616 |
-
-Maquereau Scomber scombrus |
-
-VI, VII, VIII a, b, d, e ; eaux UE et eaux internationales de la zone V b ; eaux internationales des zones II a, XII et XIV. |
-
-MAC/2X14 |
-
-Sous-quota (tonnes) |
-
-83 |
-
-647 |
-
-803 |
+125 |
 
 133 |
 
-7 015 |
+17 |
 
-77 |
+2671 |
 
-66 |
-
-1 405 |
-
-2 |
-
-981 |
-
-353 |
+94 |
 
 0 |
 
-11564 |
+4 225 |
 
-Maquereau Scomber scombrus |
+Lingue franche Molva molva |
 
-VIII c, IX et X ; eaux UE de la zone COPACE 34.1.1 |
+Eaux norvégiennes de la zone 4 |
 
-MAC/8C3411 |
+LIN/04-N. |
+
+Sous-quota (tonnes) |
+
+2 |
+
+0 |
+
+0 |
+
+0 |
+
+6 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+8 |
+
+Maquereau
+
+Scomber scombrus |
+
+III a, IV ; eaux UE des zones II a, III b, III c, III d |
+
+MAC/ 2A34. |
 
 Sous-quota (tonnes) |
 
 0 |
 
-120 |
+0 |
+
+608 |
+
+0 |
+
+1 189 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+1 797 |
+
+Maquereau
+
+Scomber scombrus |
+
+VI, VII, VIII a, b, d, e ; eaux UE et eaux internationales de la zone V b ; eaux internationales des zones II a, XII et XIV. |
+
+MAC/ 2X14 |
+
+Sous-quota (tonnes) |
+
+159,0 |
+
+784,8 |
+
+1526,2 |
+
+169,6 |
+
+9957,2 |
+
+91,0 |
+
+37,5 |
+
+1782,8 |
+
+14,0 |
+
+1293,0 |
+
+463,6 |
+
+0,0 |
+
+16278,7 |
+
+Maquereau
+
+Scomber scombrus |
+
+VIII c, IX et X ; eaux UE de la zone COPACE 34.1.1 |
+
+MAC/ 8C3411 |
+
+Sous-quota (tonnes) |
+
+0 |
+
+136 |
 
 0 |
 
@@ -1992,7 +2072,7 @@ Sous-quota (tonnes) |
 
 2 |
 
-12 |
+13 |
 
 0 |
 
@@ -2000,19 +2080,19 @@ Sous-quota (tonnes) |
 
 0 |
 
-43 |
+49 |
 
-21 |
+24 |
 
 0 |
 
-198 |
+224 |
 
 Merlan Merlangius merlangus |
 
 VII a |
 
-WHG/07A. |
+WHG/ 07A. |
 
 Sous-quota (tonnes) |
 
@@ -2050,65 +2130,65 @@ WHG/08. |
 
 Sous-quota (tonnes) |
 
-46 |
+57 |
 
-39 |
+60 |
 
-1 |
+2 |
 
-19 |
+2 |
 
-7 |
+12 |
 
-104 |
+154 |
 
-135 |
-
-19 |
-
-88 |
-
-458 |
-
-357 |
+177 |
 
 0 |
 
-1 273 |
+97 |
+
+727 |
+
+506 |
+
+0 |
+
+1 794 |
 
 Merlan Merlangius merlangus |
 
 IV, eaux UE de la zone II a |
 
-WHG/2AC4. |
+WHG/ 2AC4. |
 
 Sous-quota (tonnes) |
 
-13 |
+14 |
 
 0 |
 
-1 729 |
+1921 |
 
-9 |
+10 |
 
-1 221 |
-
-0 |
+1320 |
 
 0 |
 
-22 |
+0 |
+
+24 |
 
 0 |
 
-108 |
+117 |
 
-62 |
+68 |
 
 0 |
 
-3 164 |
+3 474 |
 
 Merlan Merlangius merlangus |
 
@@ -2120,7 +2200,7 @@ Sous-quota (tonnes) |
 
 7 |
 
-23 |
+8 |
 
 0 |
 
@@ -2136,7 +2216,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-56 |
+71 |
 
 0 |
 
@@ -2148,53 +2228,53 @@ Merlan Merlangius merlangus |
 
 VII b à k |
 
-WHG/7X7A-C |
+WHG/ 7X7A-C |
 
 Sous-quota (tonnes) |
 
-60 |
+67 |
 
-89 |
+36 |
 
-754 |
+887 |
 
-733 |
+919 |
 
-992 |
+1205 |
 
-108 |
+47 |
 
-8 |
+9 |
 
-543 |
-
-0 |
-
-1507 |
-
-83 |
+1038 |
 
 0 |
 
-4 877 |
+1413 |
+
+93 |
+
+0 |
+
+5 714 |
 
 Merlan bleu Micromesistius poutassou |
 
 Eaux UE et eaux internationales des zones I, II, III, IV, V, VI, VII, VIII a, b, d, e, XII et XIV |
 
-WHB/1X14 |
+WHB/ 1X14 |
 
 Sous-quota (tonnes) |
 
 0 |
 
-1 |
+3 |
 
 0 |
 
 0 |
 
-25 554 |
+18 521 |
 
 0 |
 
@@ -2204,23 +2284,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 |
+11 |
 
 0 |
 
 0 |
 
-25 556 |
+18 535 |
 
 Merlu Merluccius merluccius |
 
 Eaux UE des zones IIa, IV |
 
-HKE/2AC4-C |
+HKE/ 2AC4-C |
 
 Sous-quota (tonnes) |
 
-16 |
+22 |
 
 0 |
 
@@ -2228,23 +2308,23 @@ Sous-quota (tonnes) |
 
 0 |
 
-178 |
+516 |
+
+0 |
+
+3 |
 
 0 |
 
 0 |
 
-8 |
-
-0 |
-
-41 |
+262 |
 
 0 |
 
 0 |
 
-243 |
+803 |
 
 Merlu Merluccius merluccius |
 
@@ -2254,173 +2334,207 @@ HKE/571214 |
 
 Sous-quota (tonnes) |
 
-62 |
+75 |
 
-1 060 |
+1287 |
 
-7 |
+9 |
 
-355 |
+350 |
 
-4 519 |
+4998 |
 
-2 757 |
+3390 |
 
-640 |
+773 |
 
-33 |
+39 |
 
-4 |
+5 |
 
-8 818 |
+9927 |
 
-341 |
+408 |
 
 0 |
 
-18 596 |
+21 261 |
 
 Merlu Merluccius merluccius |
 
 VIII a, b, d, e |
 
-HKE/8ABDE. |
+HKE/ 8ABDE. |
 
 Sous-quota (tonnes) |
 
-366 |
+465 |
 
-2 338 |
+3 148 |
 
-52 |
+64 |
 
-277 |
+349 |
 
-1 465 |
+1 854 |
 
-1 286 |
+1 770 |
 
-1 720 |
+2 063 |
 
-190 |
+288 |
 
-188 |
+199 |
 
-7 893 |
+9 859 |
 
-2 734 |
+3 223 |
 
 0 |
 
-18 509 |
+23 282 |
 
 Merlu Merluccius merluccius |
 
 VIII c, IX et X ; eaux UE de la zone COPACE 34.1.1 |
 
-HKE/8C3411 |
+HKE/ 8C3411 |
 
 Sous-quota (tonnes) |
 
-15 |
+9 |
 
-20 |
-
-0 |
-
-0 |
-
-6 |
-
-59 |
-
-6 |
+21 |
 
 0 |
 
 0 |
 
-63 |
+11 |
+
+39 |
+
+24 |
 
 0 |
 
 0 |
 
-169 |
+66 |
+
+0 |
+
+0 |
+
+170 |
+
+Merlu Merluccius merluccius |
+
+Eaux norvégiennes de la zone 4 |
+
+HKE/04-N. |
+
+Sous-quota (tonnes) |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+74 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+74 |
 
 Plie Pleuronectes platessa |
 
 IV, eaux UE de la zone II a, partie de la zone III a non comprise dans le Skagerrak ni dans le Kattegat |
 
-PLE/2A3AX4 |
+PLE/ 2A3AX4 |
 
 Sous-quota (tonnes) |
 
-13 |
+19 |
 
 0 |
 
-303 |
+470 |
 
 0 |
 
-186 |
+291 |
 
 0 |
 
 0 |
 
-4 |
+6 |
 
-5 |
+8 |
 
-66 |
+98 |
 
-11 |
+16 |
 
 0 |
 
-588 |
+908 |
 
 Plie Pleuronectes platessa |
 
 VII d, e |
 
-PLE/7DE. |
+PLE/ 7DE. |
 
 Sous-quota (tonnes) |
 
-362 |
+482 |
 
-26 |
+34 |
 
-840 |
+1123 |
 
-139 |
+186 |
 
-1 169 |
+1577 |
 
-9 |
+12 |
 
 3 |
 
-884 |
+1190 |
 
-14 |
+18 |
 
-325 |
+429 |
 
-40 |
+52 |
 
 0 |
 
-3 811 |
+5106 |
 
 Plie Pleuronectes platessa |
 
 VII f, g |
 
-PLE/7FG. |
+PLE/ 7FG. |
 
 Sous-quota (tonnes) |
 
@@ -2430,7 +2544,7 @@ Sous-quota (tonnes) |
 
 5 |
 
-51 |
+53 |
 
 30 |
 
@@ -2442,47 +2556,47 @@ Sous-quota (tonnes) |
 
 0 |
 
-393 |
+400 |
 
 58 |
 
 0 |
 
-590 |
+599 |
 
 Plie Pleuronectes platessa |
 
 VII h, j, k |
 
-PLE/7HJK. |
+PLE/ 7HJK. |
 
 Sous-quota (tonnes) |
 
 0,4 |
 
-1,0 |
+0,8 |
 
-0,1 |
+0,3 |
 
-0,2 |
+0,4 |
 
 0,1 |
 
 2,8 |
 
-0,2 |
+0,0 |
 
 0,4 |
 
 0,0 |
 
-6,4 |
+11,4 |
 
 0,4 |
 
-0,0 |
+0 |
 
-12,0 |
+17 |
 
 Plie Pleuronectes platessa |
 
@@ -2506,57 +2620,57 @@ Sous-quota (tonnes) |
 
 5 |
 
-5,0 |
+0 |
 
 10 |
 
-34 |
+40 |
 
-25 |
+26 |
 
 0 |
 
-101 |
+103 |
 
 Raies Rajidae |
 
 Eaux UE de la zone VII d |
 
-SRX/07D. |
+SRX/ 07D. |
 
 Sous-quota (tonnes) |
 
-73 |
+75 |
 
-4 |
+0 |
 
-104 |
+161 |
 
 30 |
 
-325 |
-
-1 |
+334 |
 
 0 |
 
-496 |
+0 |
+
+513 |
 
 0 |
 
-52 |
+2 |
 
 2 |
 
 0 |
 
-1 087 |
+1117 |
 
 Raies Rajidae |
 
 Eaux UE des zones II a et IV |
 
-SRX/2AC4-C |
+SRX/ 2AC4-C |
 
 Sous-quota (tonnes) |
 
@@ -2564,7 +2678,7 @@ Sous-quota (tonnes) |
 
 0 |
 
-19 |
+20 |
 
 0 |
 
@@ -2584,41 +2698,41 @@ Sous-quota (tonnes) |
 
 0 |
 
-41 |
+42 |
 
 Raies Rajidae |
 
 Eaux UE des zones VI a, VI b, VII a-c et VII e-k |
 
-SRX/67AKXD |
+SRX/ 67AKXD |
 
 Sous-quota (tonnes) |
 
-166 |
+165 |
 
-65 |
+100 |
 
-35 |
+37 |
 
-335 |
+358 |
 
-266 |
+298 |
 
-86 |
+168 |
 
-7 |
+22 |
 
-297 |
+340 |
 
 1 |
 
-2239 |
+2749 |
 
-126 |
+90 |
 
 0 |
 
-3 623 |
+4328 |
 
 Raies Rajidae |
 
@@ -2628,31 +2742,31 @@ SRX/89-C. |
 
 Sous-quota (tonnes) |
 
-59 |
+62 |
 
-37 |
-
-30 |
-
-6 |
-
-177 |
-
-73 |
-
-296 |
-
--12 |
-
-64 |
-
-1041 |
-
-118 |
+41 |
 
 0 |
 
-1 889 |
+8 |
+
+15 |
+
+103 |
+
+304 |
+
+1 |
+
+91 |
+
+1252 |
+
+121 |
+
+0 |
+
+1998 |
 
 dont Raie brunette Raja undulata |
 
@@ -2662,33 +2776,35 @@ RJU/8-C. |
 
 |
 
-0,5 |
+0,7 |
 
-0,4 |
+0,1 |
+
+0,0 |
 
 0,0 |
 
 0,0 |
 
-1,5 |
+6,6 |
+
+3,8 |
+
+0,0 |
 
 0,6 |
 
-2,4 |
+9,8 |
 
-0,2 |
+1,4 |
 
-0,4 |
+0 |
 
-8,6 |
+23,0 |
 
-0,9 |
+Sabre noir
 
-0,0 |
-
-15,5 |
-
-Sabre noir Aphanopus carbo |
+Aphanopus carbo |
 
 Eaux UE et eaux internationales des zones V, VI, VII et XII |
 
@@ -2714,19 +2830,19 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 203 |
+1234 |
+
+6 |
 
 0 |
 
-0 |
-
-1 540 |
+1 571 |
 
 Sébaste Sebastes spp. |
 
 Eaux norvégiennes des zones I et II |
 
-RED/1N2AB. |
+RED/ 1N2AB. |
 
 Sous-quota (tonnes) |
 
@@ -2760,25 +2876,25 @@ Sole Solea solea |
 
 VII d |
 
-SOL/07D. |
+SOL/ 07D. |
 
 Sous-quota (tonnes) |
 
-107 |
+111 |
 
 0 |
 
-160 |
+165 |
 
 12 |
 
-560 |
+552 |
 
 2 |
 
 0 |
 
-282 |
+395 |
 
 1 |
 
@@ -2788,41 +2904,41 @@ Sous-quota (tonnes) |
 
 0 |
 
-1 203 |
+1317 |
 
 Sole Solea solea |
 
 VII e |
 
-SOL/07E. |
+SOL/ 07E. |
 
 Sous-quota (tonnes) |
 
-52 |
+63 |
 
 0 |
 
 2 |
 
-83 |
+102 |
 
-13 |
+50 |
 
 3 |
 
 0 |
 
-235 |
+157 |
 
 2 |
 
-170 |
+213 |
 
-3 |
+4 |
 
 0 |
 
-563 |
+596 |
 
 Sole Solea solea |
 
@@ -2832,15 +2948,15 @@ SOL/24-C. |
 
 Sous-quota (tonnes) |
 
-12 |
+14 |
 
 3 |
 
-97 |
+119 |
 
 0 |
 
-88 |
+110 |
 
 0 |
 
@@ -2848,117 +2964,151 @@ Sous-quota (tonnes) |
 
 2 |
 
-0 |
-
-8 |
-
-0 |
-
-0 |
-
-210 |
-
-Sole Solea solea |
-
-VII f, g |
-
-SOL/7FG. |
-
-Sous-quota (tonnes) |
-
-2 |
-
-3 |
-
-0 |
-
-2 |
-
-3 |
-
-4 |
-
-0 |
-
-4 |
-
--1 |
-
-44 |
-
-6 |
-
-0 |
-
-67 |
-
-Sole Solea solea |
-
-VII h, j, k |
-
-SOL/7HJK. |
-
-Sous-quota (tonnes) |
-
-0 |
-
-5 |
-
-0 |
-
-0 |
-
 1 |
-
-3 |
-
-0 |
-
-1 |
-
-0 |
-
-24 |
-
-1 |
-
-0 |
-
-35 |
-
-Sole Solea solea |
-
-VIII a, b |
-
-SOL/8AB. |
-
-Sous-quota (tonnes) |
-
-32 |
-
-265 |
 
 9 |
 
 0 |
 
-20 |
+0 |
 
-284 |
+258 |
 
-199 |
+Sole Solea solea |
 
-6 |
+VII f, g |
 
-274 |
+SOL/ 7FG. |
 
-489 |
+Sous-quota (tonnes) |
 
-377 |
+2 |
+
+4 |
 
 0 |
 
-1955 |
+4 |
+
+1 |
+
+3 |
+
+0 |
+
+1,5 |
+
+0 |
+
+63,5 |
+
+8 |
+
+0 |
+
+87 |
+
+Sole Solea solea |
+
+VII h, j, k |
+
+SOL/ 7HJK. |
+
+Sous-quota (tonnes) |
+
+0 |
+
+4,5 |
+
+0 |
+
+0,5 |
+
+2 |
+
+3 |
+
+0 |
+
+0 |
+
+0 |
+
+35 |
+
+1 |
+
+0 |
+
+46 |
+
+Sole Solea solea |
+
+VIII a, b |
+
+SOL/ 8AB. |
+
+Sous-quota (tonnes) |
+
+39 |
+
+320 |
+
+11 |
+
+2 |
+
+3 |
+
+349 |
+
+257 |
+
+3 |
+
+328 |
+
+560 |
+
+478 |
+
+0 |
+
+2350 |
+
+Autres espèces |
+
+Eaux norvégiennes de la zone 4 |
+
+OTH/04-N. |
+
+Sous-quota (tonnes) |
+
+7 |
+
+0 |
+
+0 |
+
+0 |
+
+86 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+0 |
+
+93 |
 
 Libellé du quota |
 
@@ -2968,11 +3118,11 @@ Code stock |
 
 |
 
-Navires titulaires d'une AEP thon tropicaux en zone ICCAT et pratiquant le métier de la senne |
+Navires titulaires d'une AEP "thon tropicaux en zone ICCAT" et pratiquant le métier de la senne |
 
-Navires titulaires d'une AEP thon tropicaux en zone ICCAT et pratiquant le métier de la canne ou de la ligne |
+Navires titulaires d'une AEP "thon tropicaux en zone ICCAT" et pratiquant le métier de la canne ou de la ligne |
 
-Navires non titulaires d'une AEP thon tropicaux en zone ICCAT (1) |
+Navires non titulaires d'une AEP "thon tropicaux en zone ICCAT" (1) |
 
 Total |
 
@@ -2982,16 +3132,46 @@ Thunnus obesus |
 
 Océan Atlantique |
 
-BET/ATLANT |
+BET/ ATLANT |
 
 Sous-quota (tonnes) |
 
-3162 |
+3 271 |
 
-139 |
+144 |
 
-174 |
+180 |
 
-3475 |
+3 595 |
 
-(1) Pour les navires titulaires de l'AEP thon blanc (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5°N, les captures sont autorisées dans la limite de 3 tonnes par navire et par marée.
+(1) Pour les navires titulaires de l'AEP thon blanc (Thunnus alalunga) avec l'engin chalut pélagique dans l'océan Atlantique au nord de 5° N, les captures sont autorisées dans la limite de 3 tonnes par navire et par marée.
+
+Libellé du quota |
+
+Zone de référence du Conseil international pour l'exploration de la mer (CIEM) |
+
+Code stock |
+
+|
+
+Navires pratiquant le métier de la senne |
+
+Autres navires |
+
+Total |
+
+Albacore
+
+Thunnus albacares |
+
+Zone de compétence CTOI |
+
+YFT/ IOTC |
+
+Sous-quota (tonnes) |
+
+27000 |
+
+736 |
+
+27736 |
