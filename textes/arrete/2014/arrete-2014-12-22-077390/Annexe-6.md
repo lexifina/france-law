@@ -138,7 +138,11 @@ Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR160
 
 Conformément à l’article 5 de l’arrêté du 8 février 2016 (NOR : DEVR1603528A), l’annexe 2 de la présente fiche d'opération standardisée d'économies d'énergie est remplacée par la version figurant à l'annexe 4 dudit arrêté portant la même référence.
 
+- Fret ferroviaire / Fiche d'opération n° TRA-SE-116
+
 Liens :
+
+Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 251 du 28/10/2022, texte nº 43, accessible à l’adresse suivante : https://www.legifrance.gouv.fr/download/pdf?id=NULsg1-fB0anaNgJkb9lF9THx2jwEjlJhjdepQdGsns=
 
 Vous pouvez consulter l’intégralité du texte avec ses images à partir de l’extrait du Journal officiel électronique authentifié n° 44 du 22/02/2022, texte nº 6, accessible à l’adresse suivante :
 
