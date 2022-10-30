@@ -820,6 +820,160 @@ Enseignement, animation, encadrement du baby et du mini-volley. |
 
 |
 
+DES JEPS, spécialité "performance sportive" mention "aïkido, aïkibudo et disciplines associées", délivré jusqu'au 1er juillet 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "baseball, softball", délivré jusqu'au 1er juillet 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité "perfectionnement sportif" mention "billard", délivré jusqu'au 1er juin 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive", mention "billard", délivré jusqu'au 1er juin 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportiveé mention "canoë-kayak et disciplines associées en eau vive et en mer", délivré jusqu'au 1er juillet 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité "perfectionnement sportif" mention "course d'orientation", délivré jusqu'au 1er juin 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive", mention "course d'orientation", délivré jusqu'au 1er juin 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "glisses aérotractées nautiques", délivré jusqu'au 1er juin 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.
+
+Encadrement et animation du stand up paddle (SUP). |
+
+A l'exclusion des activités dérivées du surf de mer. |
+
+DES JEPS, spécialité "performance sportive" mention "haltérophilie, musculation et force athlétique", délivré jusqu'au 1er juillet 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "parachutisme", délivré jusqu'au 1er septembre 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "pétanque", délivré jusqu'au 1er juin 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "rugby à XIII", délivré jusqu'au 1er juin 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "curling" ou "disciplines d'adresse sur glace", délivré jusqu'au 1er septembre 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "descente sur glace" ou "disciplines de descente sur glace", délivré jusqu'au 1er septembre 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "patinage de vitesse" ou "disciplines de vitesse sur glace", délivré jusqu'au 1er septembre 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "surf", délivré jusqu'au 1er septembre 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée.
+
+Encadrement et animation du stand up paddle (SUP) |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "tir à l'arc", délivré jusqu'au 1er juillet 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de performance sportive de l'activité visée par la mention considérée. |
+
+|
+
+DES JEPS, spécialité "performance sportive" mention "vol à voile", délivré jusqu'au 1er juin 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité "perfectionnement sportif" mention "arts énergétiques chinois", délivré jusqu'au 1er juillet 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité "perfectionnement sportif" mention "arts martiaux chinois externes", délivré jusqu'au 1er juillet 2022.
+
+|
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
+DE JEPS, spécialité "perfectionnement sportif" mention "arts martiaux chinois internes", délivré jusqu'au 1er juillet 2022. |
+
+Enseignement, animation, encadrement ou entraînement dans une perspective de perfectionnement sportif de l'activité visée par la mention considérée. |
+
+|
+
 C-5.-Diplôme d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 INTITULÉ DU DIPLÔME |
@@ -895,6 +1049,22 @@ Accompagnateur de tourisme équestre, délivré jusqu'au 7 juin 2021 |
 Accompagnement et conduite de randonnées équestres, dans le cadre de parcours identifiés. |
 
 |
+
+D-3. Titre à finalité professionnelle délivré par la société Waterform :
+
+INTITULÉ
+
+DU DIPLÔME |
+
+CONDITIONS D'EXERCICE |
+
+LIMITES DES CONDITIONS D'EXERCICE |
+
+Coach fitness dans l'eau, délivré jusqu'au 5 juillet 2022. |
+
+Encadrement de séances collectives d'animation en aqua fitness dans un bassin d'une profondeur maximale de 1,30 m. |
+
+Sous la surveillance d'un personnel mentionné à l'article L. 322-7 du code du sport (MNS ou BNSSA). |
 
 E.-Certificats de qualification délivrés par les branches professionnelles
 
@@ -1505,3 +1675,31 @@ CQP " technicien sportif de tir à l'arc ", délivré jusqu'au 3 mars 2022 |
 Encadrement d'entraînement et de perfectionnement de tir à l'arc. |
 
 Dans la limite de 12 pratiquants. |
+
+CQP " moniteur de football américain et de flag ", délivré jusqu'au 5 août 2022. |
+
+Encadrement des activités de découverte et d'initiation de football américain et de flag. |
+
+|
+
+CQP " technicien sportif de rugby à XIII " délivré jusqu'au 5 août 2022. |
+
+Entrainement et encadrement du rugby à XIII. |
+
+|
+
+CQP " moniteur de tennis de table ", délivré jusqu'au 5 août 2022. |
+
+Encadrement et initiation de séances collectives de tennis de table. |
+
+|
+
+CQP " moniteur de tir sportif ", délivré jusqu'au 5 août 2022. |
+
+Encadrement du tir sportif à des fins de découverte et d'initiation. |
+
+Pour l'activité découverte : dans la limite de 6 pratiquants sur le même pas de tir.
+
+Pour l'activité d'initiation : dans la limite de 10 pratiquants sur le même pas de tir.
+
+Sous réserve de la présentation du carnet de tir en cours de validité. |
