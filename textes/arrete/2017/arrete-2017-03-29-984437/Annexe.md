@@ -34,7 +34,7 @@ Les postes de la direction générale de la sécurité intérieure font l'objet 
 
 7. Direction centrale de la sécurité publique :
 
-Directeur central adjoint de la sécurité publique, chef d'état-major.
+Directeur central adjoint de la sécurité publique.
 
 Directeur central adjoint chargé du renseignement et chef du service central du renseignement territorial à la direction centrale de la sécurité publique.
 
@@ -308,4 +308,4 @@ Secrétaire général adjoint pour l'administration du ministère de l'intérieu
 
 NOTA :
 
-Conformément à l’article 2 de l’arrêté du 29 juillet 2022 (NOR : IOMC2221438A), ces dispositions entrent en vigueur à compter du premier jour du mois suivant la publication dudit arrêté au Journal officiel de la République française.
+Conformément à l’article 2 de l’arrêté du 12 octobre 2022 (NOR : IOMC2225427A), ces dispositions entrent en vigueur le 31 octobre 2022.
