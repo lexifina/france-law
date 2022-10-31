@@ -38,4 +38,4 @@ Nota. - Les mentions des certificats délivrés sont sous-titrées en anglais.
 
 [⁎] Supprimer la mention de l'autorité non concernée.
 
-(1) Numéros de série (production, client), de présérie ou de prototype. (2) Nom et adresse du propriétaire ou de l'autorité d'emploi affectataire. (3) Nom et adresse de l'organisme chargé de la gestion du maintien de la navigabilité, s'il diffère de celui énoncé au (2). (4) Nom, fonction et signature du responsable délégué.
+(1) Numéros de série (production, client), de présérie ou de prototype. (2) Nom et adresse du propriétaire et de l'autorité d'emploi affectataire et, le cas échéant, du titulaire du marché pour les aéronefs militaires mentionnés au b du 2° de l'article 1er du décret n° 2013-367 du 29 avril 2013. (3) Nom et adresse de l'organisme chargé de la gestion du maintien de la navigabilité, s'il diffère de celui énoncé au (2). (4) Nom, fonction et signature du responsable délégué.

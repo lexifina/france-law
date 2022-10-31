@@ -32,7 +32,7 @@ F-XAAA à F-XZZZ.
 
 F-YAAA à F-YZZZ.
 
-Armée de l'air
+Armée de l'air et de l'espace
 
 F-RAAA à F-RZZZ.
 
@@ -48,11 +48,11 @@ F-MJAA à F-MJZZ.
 
 Direction générale des douanes et droits indirects
 
-F-ZBAA à F-ZBES, à l'exception des six indicatifs F-ZBAA, F-ZBAP, F-ZBAZ, F-ZBCZ, F-ZBEG et F-ZBEH attribués à la direction de la sécurité civile.
+F-ZBAA à F-ZBES, à l'exception des six indicatifs F-ZBAA, F-ZBAP, F-ZBAZ, F-ZBCZ, F-ZBEG et F-ZBEH attribués à la direction générale de la sécurité civile et de la gestion des crises.
 
 F-ZBGA à F-ZBLZ.
 
-Direction de la sécurité civile
+Direction générale de la sécurité civile et de la gestion des crises
 
 F-ZBAA, F-ZBAP, F-ZBAZ, F-ZBCZ, F-ZBEG, F-ZBEH.
 
