@@ -1,0 +1,9 @@
+# Réponse à la question n° 531
+
+- Question : [531](531.md) — Question n° 531 — Publication des décrets relatifs à la loi n° 2022-53 du 24 janvier 2022
+
+## Réponse
+
+*JO du 2022-11-01, page 5108*
+
+Le ministère de la santé et de la prévention travaille activement à l'accompagnement des personnes touchées par la forme longue du COVID : repérage, adressage, prise en charge adaptée en lien notamment avec l'Assurance maladie, les professionnels et les associations d'usagers. En témoigne l'outil d'aide à l'orientation des patients réalisé avec l'association Tous partenaires COVID. Afin de lutter contre l'errance médicale, l'Assurance maladie, en coopération avec TousPartenairesCovid, a mis en place un outil d'aide à l'orientation des patients. Cet outil a pour objectif de faciliter le travail du médecin traitant en recueillant les données médicales du patient ou de la patiente de manière structurée. Cette plateforme est focalisée sur l'orientation initiale qui est une étape fondamentale. La synthèse des réponses fournies à la fin du questionnaire est accompagnée des coordonnées des cellules de coordination post-covid du territoire auxquelles le médecin pourra faire appel si besoin. La version destinée aux patients adultes a été mise en ligne en mai 2022 et relayée sur le site de l'Assurance maladie et dans la newsletter adressée aux assurés. Au cours de l'été 2022, une version pédiatrique a été ajoutée. Entre le 24 mai et le 30 août 2022, l'outil a été utilisé par 46 577 personnes. Par ailleurs, la question d'une plateforme de référencement est en cours d'étude dans le cadre du décret d'application de l'article 1 de la Loi n° 2022-53 du 24 janvier 2022 visant à la création d'une plateforme de référencement et de prise en charge des malades. Dans cet objectif, les dimensions référencement et suivi sont en cours d'instruction au niveau régional avec les agences régionales de santé et le réseau de Santé publique France.
