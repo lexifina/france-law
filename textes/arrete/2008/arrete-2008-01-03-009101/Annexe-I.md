@@ -24,39 +24,31 @@ Thème 1
 
 |
 
-Perfectionnement à la conduite rationnelle axée sur les règles de sécurité :
+Perfectionnement à la conduite rationnelle axée sur les règles de sécurité et sur la réduction de l'incidence de la conduite sur l'environnement :
 
-- les caractéristiques techniques du véhicule et le fonctionnement des organes de sécurité
+-les caractéristiques techniques du véhicule et le fonctionnement des organes de sécurité
 
-- le perfectionnement à une conduite sure et économique en insistant sur les différentes possibilités offertes par l'informatique embarquée et sur l'optimisation de la consommation de carburant
+-le perfectionnement à une conduite sure et économique en insistant sur les différentes possibilités offertes par l'informatique embarquée
 
-- les principes d'utilisation d'une boite de vitesses automatisée ou automatique
+-les principes d'utilisation d'une boite de vitesses automatisée ou automatique
 
-- le chargement, l'arrimage, la manutention des marchandises dans le respect des consignes de sécurité et la bonne utilisation du véhicule
+-le chargement, l'arrimage, la manutention des marchandises dans le respect des consignes de sécurité et la bonne utilisation du véhicule
 
-- application pratique de la conduite en situation normale comme en situation difficile :
+-application pratique de la conduite en situation normale comme en situation difficile :
 
-10h de conduite individuelle comprenant 1 heure de manœuvres professionnelles (sur ces 10h 4 h au maximum peuvent être effectuées en recourant à un simulateur haut de gamme ou sur un terrain spécial) auxquelles s'ajoute 1h de commentaires pédagogiques
+8 heures 10 minutes de conduite individuelle comprenant 1 heure de manœuvres professionnelles (sur ces 8h10, 4h au maximum peuvent être effectuées en recourant à un simulateur haut de gamme ou sur un terrain spécial) auxquelles s'ajoutent 50 minutes de commentaires pédagogiques
+
+-éco-conduite : application pratique de la conduite axée sur la réduction de l'incidence de la conduite sur l'environnement, composée des trois temps successifs suivants :
+
+Temps n° 1 : 1 heure de conduite individuelle sur un parcours de référence, comprenant 5 minutes de commentaires pédagogiques (élaboration d'un diagnostic des techniques et du comportement en conduite, mesure de la consommation de carburant) ;
+
+Temps n° 2 : 3 heures de formation en salle portant sur les techniques mobilisables pour réduire l'incidence de la conduite sur l'environnement, en insistant sur l'optimisation de la consommation de carburant ;
+
+Temps n° 3 : 1 heure de conduite individuelle sur le même parcours de référence que celui utilisé pour le temps n° 1, permettant la mise en application des techniques enseignées durant le temps n° 2, comprenant 5 minutes de commentaires pédagogiques (nouvelle mesure de la consommation de carburant et comparaison à la mesure relevée durant le temps n° 1, élaboration d'un bilan des améliorations de conduite observées).
 
 |
 
-65 h
-
-dont 44 h
-
-pour la
-
-pratique de la
-
-conduite
-
-(40 h de
-
-conduite et
-
-4 h de
-
-commentaires pédagogiques)
+65h dont 44h pour la pratique de la conduite (40h de conduite et 4h de commentaires pédagogiques)
 
 |
 
@@ -149,3 +141,7 @@ Admission:
 - Pour la partie théorique : QCM de 60 questions, recevabilité à 36 bonnes réponses
 
 - Pour la partie pratique : contrôle continu
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 27 avril 2022 (NOR : TRAT2212682A), ces dispositions entreront en vigueur le premier jour du sixième mois après la publication du présent arrêté.

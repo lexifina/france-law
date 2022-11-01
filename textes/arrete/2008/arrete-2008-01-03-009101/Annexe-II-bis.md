@@ -22,15 +22,11 @@ Accueil et présentation de la formation
 
 |
 
-Bilan des connaissances relatives :
-
-- aux réglementations spécifiques aux transports et à la sécurité routière,
-
-- aux techniques et comportement en conduite : conduite libre accompagnée (évaluation individuelle et analyse) : 0 h 30*
+Bilan des connaissances relatives aux réglementations spécifiques aux transports et à la sécurité routière
 
 |
 
-3 h 30
+1 h 30
 
 |
 
@@ -38,33 +34,29 @@ Thème 1
 
 |
 
-Perfectionnement à la conduite rationnelle axée sur les règles de sécurité :
+Perfectionnement à la conduite rationnelle axée sur les règles de sécurité et la réduction de l'incidence de la conduite sur l'environnement :
 
 - prise en compte des caractéristiques du véhicule et fonctionnement des organes de sécurité
 
 - principes d'utilisation d'une boite de vitesses automatique
 
-- perfectionnement à une conduite sure et économique en insistant sur les différentes possibilités offertes par l'informatique embarquée et sur l'optimisation de la consommation de carburant
+- perfectionnement à une conduite sure et économique en insistant sur les différentes possibilités offertes par l'informatique embarquée
 
 - le chargement, le respect des consignes de sécurité et la bonne utilisation du véhicule pour assurer la sécurité et le confort des passagers
 
-- application pratique et analyse de la conduite en situation normale comme en situation difficile (1 h 30 de conduite individuelle* dont au maximum 0 h 30 peuvent être effectuées en recourant à un simulateur haut de gamme ou sur un terrain spécial)
+- évaluation de la conduite axée sur les règles de sécurité (bilan des techniques et du comportement en conduite), pouvant être effectuée en recourant à un simulateur haut de gamme ou sur un terrain spécial : 30 minutes de conduite individuelle comprenant 5 minutes de commentaires pédagogiques (*)
+
+- éco-conduite : application pratique de la conduite axée sur la réduction de l'incidence de la conduite sur l'environnement, composée des trois temps successifs suivants :
+
+Temps n° 1 (*) : 40 minutes de conduite individuelle sur un parcours de référence comprenant 5 minutes de commentaires pédagogiques (évaluation individuelle des techniques et du comportement de conduite, mesure de la consommation de carburant) ;
+
+Temps n° 2 : 1 heure 30 minutes de formation en salle portant sur les techniques mobilisables pour réduire l'incidence de la conduite sur l'environnement, en insistant sur l'optimisation de la consommation de carburant ;
+
+Temps n° 3 (*) : 40 minutes de conduite individuelle sur le même parcours de référence que celui utilisé pour le temps n° 1, permettant la mise en application des techniques enseignées durant le temps n° 2, comprenant 5 minutes de commentaires pédagogiques (nouvelle mesure de la consommation de carburant et comparaison à la mesure relevée durant le temps n° 1, élaboration d'un bilan des améliorations de conduite observées).
 
 |
 
-11 h
-
-dont 6 h
-
-pour la pratique
-
-de la conduite
-
-(5 h 20 de conduite
-
-et 0 h 40
-
-de commentaires pédagogiques
+13h dont 7h20 pour la pratique de la conduite (6h20 de conduite et 1h de commentaires pédagogiques)
 
 |
 
@@ -160,4 +152,14 @@ Durée totale du stage
 
 Evaluation des acquis : test final d'auto évaluation
 
-* ces temps de conduite individuelle peuvent, pour des raisons pédagogiques, être regroupés et effectués en deux fois une heure
+(*) Lorsque la formation continue réalisée en entreprise par un formateur d'entreprise comporte un jour consacré à la partie pratique, cet enseignement pratique peut faire l'objet des aménagements suivants :
+
+- les temps de conduite individuelle peuvent être regroupés et effectués en une fois, à condition que le temps n° 2 d'éco-conduite ait été effectué avant le jour consacré à la partie pratique ;
+
+- le temps n° 3 d'éco-conduite peut être effectué sur un parcours différent de celui du temps n° 1 ;
+
+- la consommation de carburant mesurée à l'issue des temps d'éco-conduite peut être comparée à la consommation moyenne annuelle de carburant du stagiaire relevée dans le cadre de son activité professionnelle habituelle ou, si l'ancienneté du stagiaire dans l'entreprise est inférieure à un an, à la consommation moyenne relevée depuis son entrée dans l'entreprise.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 27 avril 2022 (NOR : TRAT2212682A), ces dispositions entreront en vigueur le premier jour du sixième mois après la publication du présent arrêté.
