@@ -1,0 +1,9 @@
+# Réponse à la question n° 266
+
+- Question : [266](266.md) — Question n° 266 — Ouverture d'un établissement de traitement de l'obésité chez l'enfant (Var)
+
+## Réponse
+
+*JO du 2022-11-01, page 5104*
+
+L'obésité est un enjeu majeur de santé publique et le ministère de la santé et de la prévention est particulièrement attentif à ce qu'une réponse adaptée aux besoins de santé puisse être apportée sur les territoires comme au niveau national. S'agissant de l'AJO Les Oiseaux, le groupe LNA Santé a effectivement confirmé auprès de l'Agence régionale de santé (ARS) Provence-Alpes-Côte d'Azur (PACA), son projet de fermeture de cet établissement en juillet 2022. S'agissant de la continuité de la prise en charge des enfants et adolescents en situation d'obésité, l'ARS PACA a procédé au recensement des structures adaptées pour ces enfants. Plusieurs établissements de soins de suite et de réadaptation pédiatrique sont autorisés dans la mention soins digestifs, métaboliques et endocriniens, parmi lesquels les Cadrans Solaires, le Val Pré Vert et l'Unité Méditerranée de nutrition. Afin de compléter cette offre, l'autorisation d'activité de l'AJO les Oiseaux a été reprise par l'association des Salins de Brégille sur le site de l'Institut de rééducation de Pomponiana. Cette opération permet d'envisager la création de 10 lits et 20 places de SSR pédiatrique, dont une partie prendra en charge les enfants de moins de six ans. L'ARS entend ainsi promouvoir la modernisation de l'offre de santé en pédiatrie et a valorisé un projet qui prenne en compte l'évolution de la prise en charge recommandée par les sociétés savantes avec le développement de l'ambulatoire et le maintien des enfants au plus près de leur environnement de vie.La lutte contre l'obésité doit par ailleurs faire l'objet d'un travail approfondi dans le cadre des programmes de prévention.
