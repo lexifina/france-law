@@ -2,7 +2,7 @@
 
 ANNEXE III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC LE DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ BOXE ”
+Tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “ perfectionnement sportif ” mention “ boxe ”
 
 |
 
@@ -111,3 +111,7 @@ X |
 (*) BEES1 : brevet d'Etat d'éducateur sportif du premier degré
 
 (*) BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport
+
+NOTA :
+
+Se reporter aux modalités d'application prévues par l’article 12 de l’arrêté du 27 juillet 2022 (SPOV2222330A).
