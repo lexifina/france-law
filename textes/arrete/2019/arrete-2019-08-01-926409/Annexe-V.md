@@ -1,5 +1,7 @@
 # Article Annexe V
 
+A compter de la session 2024 du concours, les étudiants en deuxième année d'études supérieures après le baccalauréat s'inscrivant pour la première fois à la voie A TB du concours bénéficient de points supplémentaires fixés par arrêté ministériel.
+
 La voie A TB du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
 Epreuves écrites d'admissibilité
@@ -24,9 +26,9 @@ Epreuve écrite de biotechnologies |
 
 Méthodes de calcul et raisonnement |
 
-3 heures |
+2 heures |
 
-3 |
+2 |
 
 Algorithmique et informatique |
 
@@ -56,7 +58,7 @@ Anglais (*) |
 
 2 heures |
 
-+ 2 à l'admission |
++ 2 comptant à l'admission |
 
 (*) La note de l'épreuve intervient à l'admission.
 
@@ -88,7 +90,7 @@ Oral de Biotechnologies |
 
 3 |
 
-Epreuve pratique de Sciences de la Vie et de la Terre et Biotechnologies |
+Epreuve pratique de biologie et biotechnologies |
 
 - |
 
@@ -102,23 +104,15 @@ Oral de mathématiques |
 
 30 minutes |
 
-3 |
-
-Physique-Chimie, activité expérimentale |
-
-- |
-
-2 heures 30 |
-
-3 |
-
-Physique-Chimie, entretien |
-
-20 minutes |
-
-20 minutes |
-
 2 |
+
+Oral de physique-chimie |
+
+30 minutes |
+
+30 minutes |
+
+3 |
 
 Oral de Géographie |
 
@@ -128,7 +122,7 @@ Oral de Géographie |
 
 1 |
 
-TIPE |
+Entretien professionnel et scientifique s'appuyant sur les travaux d'initiative personnelle encadrés |
 
 |
 
@@ -136,16 +130,12 @@ TIPE |
 
 4 |
 
-Anglais |
-
-30 minutes |
-
-30 minutes |
-
-2 |
-
 Total |
 
 |
 
-25 + 2 de l'admissibilité |
+20 + 2 de l'admissibilité (anglais) |
+
+NOTA :
+
+Conformément à l’article 1er de l’arrêté du 10 décembre 2021, ces dispositions entrent en vigueur à compter de la session du concours 2023.

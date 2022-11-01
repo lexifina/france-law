@@ -1,5 +1,7 @@
 # Article Annexe IV
 
+A compter de la session 2024 du concours, les étudiants en deuxième année d'études supérieures après le baccalauréat s'inscrivant pour la première fois à la voie A du concours bénéficient de points supplémentaires fixés par arrêté ministériel.
+
 La voie A du concours comporte les épreuves ci-après, affectées des coefficients suivants :
 
 Epreuves écrites d'admissibilité
@@ -18,63 +20,53 @@ Biologie, épreuve de synthèse |
 
 Sciences de la vie et de la Terre, épreuve sur support de documents |
 
-4 heures
-
-(biologie 2h, géologie 2h) |
+3 heures 30 |
 
 5 |
 
 Méthodes de calcul et raisonnement |
 
-2 heures 30 |
+2 heures |
 
-3 |
+2 |
 
 Modélisation mathématique et informatique |
 
-3 heures 30 |
+3 heures |
 
-3 |
+2 |
 
-Physique-chimie, résolution de problème |
+Physique |
 
 3 heures |
 
 4 |
 
-Physique-chimie, analyse de documents scientifiques |
+Chimie |
 
 3 heures |
 
 4 |
 
-Composition de français |
+Humanités |
 
 3 heures |
 
-5 |
+4 |
 
 Total |
 
 |
 
-29 |
+26 |
 
 Anglais (*) |
 
 2 heures |
 
-+ 2 à l'admission |
-
-Langue vivante facultative (**) |
-
-2 heures |
-
-points au-dessus de la moyenne sur 20 à l'admission |
++ 2 comptant à l'admission |
 
 (*) La note de l'épreuve intervient à l'admission.
-
-(**) L'épreuve de langue vivante facultative est soit en allemand, soit en espagnol, soit en italien, soit en portugais, soit en arabe, soit en russe. Seuls les points au-dessus de la moyenne sont comptabilisés à l'admission.
 
 Epreuves orales d'admission
 
@@ -92,7 +84,7 @@ Epreuve pratique de biologie |
 
 |
 
-3 heures |
+1 heure 30 |
 
 4 |
 
@@ -106,27 +98,19 @@ Oral de biologie |
 
 Mathématiques pratiques et informatique |
 
-30 minutes |
+40 minutes |
 
 40 minutes |
 
 2 |
 
-Physique-chimie, activité expérimentale |
-
-|
-
-3 heures |
-
-3 |
-
-Physique-chimie, argumentation et échange |
-
-15 minutes |
+Physique-chimie |
 
 30 minutes |
 
-3 |
+30 minutes |
+
+4 |
 
 Oral de géographie |
 
@@ -136,7 +120,7 @@ Oral de géographie |
 
 2 |
 
-TIPE |
+Entretien professionnel et scientifique s'appuyant sur les travaux d'initiative personnelle encadrés |
 
 |
 
@@ -144,16 +128,12 @@ TIPE |
 
 4 |
 
-Anglais |
-
-30 minutes |
-
-30 minutes |
-
-3 |
-
 Total |
 
 |
 
-25 + 2 de l'admissibilité |
+20 + 2 de l'admissibilité (anglais) |
+
+NOTA :
+
+Conformément à l’article 1er de l’arrêté du 10 décembre 2021, ces dispositions entrent en vigueur à compter de la session du concours 2023.
