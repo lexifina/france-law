@@ -1,0 +1,9 @@
+# Réponse à la question n° 1421
+
+- Question : [1421](1421.md) — Question n° 1421 — Le financement des associations de dons d'organes
+
+## Réponse
+
+*JO du 2022-11-01, page 5113*
+
+Les associations présentes dans le champ du prélèvement et de la greffe d'organes et de tissus jouent un rôle indispensable dans la sensibilisation du grand public aux enjeux du don, ainsi que dans l'accompagnement des patients en attente de greffe et des patients transplantés. Ces structures disposent d'une réelle expertise ainsi que d'une expérience de terrain. Elles ont pour cette raison été associées à l'élaboration de l'édition 2022-2026 du plan ministériel pour le prélèvement et la greffe d'organes et de tissus. Les échanges entre ces associations, le ministère chargé de la santé et l'agence de la biomédecine (ABM – agence sanitaire compétente en matière de prélèvement et de greffe) sont fréquents et ont été renforcés à la faveur de la crise sanitaire. L'un des axes du plan susmentionné est l'approfondissement de la démocratie sanitaire, notamment dans sa dimension associative. Plusieurs associations participeront au comité national de suivi de la mise en œuvre dudit plan et à l'adoption, le cas échéant, d'actions complémentaires. Ces associations sont représentées au sein du conseil d'orientation de l'ABM et participent à ce titre à la production d'avis argumentés relatifs aux innovations, s'agissant notamment de la qualité de l'expertise médicale et scientifique de l'Agence, en prenant en considération les questions éthiques susceptibles d'être soulevées. S'agissant de leur financement, l'Etat apporte d'ores-et-déjà un soutien financier à plusieurs d'entre elles, parmi lesquelles France Cœur Poumon, France Rein, Renaloo et Transhépate. Ce soutien s'effectue principalement via le Fonds national pour la démocratie sanitaire, créé au sein de la caisse nationale d'assurance maladie par la loi du 23 décembre 2016 de financement de la sécurité sociale pour 2017.
