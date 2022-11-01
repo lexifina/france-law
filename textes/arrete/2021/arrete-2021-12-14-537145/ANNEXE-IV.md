@@ -34,11 +34,21 @@ Etape 1 : choix des indicateurs témoins
 
 Le choix des indicateurs témoins doit être raisonnable. Ils peuvent être choisis au cas par cas parmi ceux mentionnés à l'article 3 du présent arrêté. Leur choix doit être justifié. Au minimum, les indicateurs suivants doivent être étudiés :
 
-- réchauffement climatique ;
+-pour les déclarations environnementales bénéficiant d'une attestation de conformité avant le 1er novembre 2022 :
 
-- utilisation de l'énergie primaire non renouvelable, à l'exclusion des ressources d'énergie primaire non renouvelables utilisées comme matières premières ;
+-réchauffement climatique ;
 
-- déchets non dangereux éliminés.
+-utilisation de l'énergie primaire non renouvelable, à l'exclusion des ressources d'énergie primaire non renouvelables utilisées comme matières premières ;
+
+-déchets non dangereux éliminés ;
+
+-pour les déclarations environnementales bénéficiant d'une attestation de conformité après le 1er novembre 2022 :
+
+-changement climatique total ;
+
+-utilisation de l'énergie primaire non renouvelable totale ;
+
+-déchets non dangereux éliminés.
 
 Etape 2 : identification des paramètres sensibles
 
@@ -120,8 +130,12 @@ Le cadre de validité contient a minima :
 
 Pour qu'un déclarant puisse utiliser une déclaration environnementale collective pour son produit, il doit justifier :
 
-- que son produit est conforme au "produit type" couvert par la déclaration environnementale collective ;
+- que son produit est conforme au " produit type " couvert par la déclaration environnementale collective ;
 
 - qu'il est dans la liste des déclarants autorisés pour cette déclaration environnementale collective ;
 
 - qu'il respecte le domaine de validité de cette déclaration environnementale collective.
+
+NOTA :
+
+Conformément à l’article 3 de l’arrêté du 20 octobre 2022 (NOR : TREL2223870A), ces dispositions entrent en vigueur au 1er novembre 2022.
