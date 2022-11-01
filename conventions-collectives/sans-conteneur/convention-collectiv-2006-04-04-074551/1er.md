@@ -1,6 +1,6 @@
 # Article 1er
 
-La présente convention collective nationale règle les rapports entre, d'une part, la CNAMTS et les agences régionales de santé (ARS) et, d'autre part, les praticiens-conseils exerçant à la CNAMTS ou dans une ARS, en métropole ou dans les départements d'outre-mer, issus d'un corps national comprenant :
+La présente convention collective nationale règle les rapports entre, d'une part, la CNAM et les agences régionales de santé (ARS) et, d'autre part, les praticiens-conseils exerçant à la CNAM ou dans une ARS, en métropole ou dans les départements d'outre-mer, issus d'un corps national comprenant :
 
 – les médecins-conseils ;
 
@@ -8,4 +8,4 @@ La présente convention collective nationale règle les rapports entre, d'une pa
 
 – les pharmaciens-conseils.
 
-NOTE : Dans le reste du texte, la CNAMTS et les ARS sont désignées sous le terme «employeur».
+NOTE : Dans le reste du texte, la CNAM et les ARS sont désignées sous le terme « employeur ».
