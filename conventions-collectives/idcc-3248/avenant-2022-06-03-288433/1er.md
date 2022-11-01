@@ -1,5 +1,5 @@
 # Article 1er
 
-Dans le cadre de la négociation collective annuelle des salaires, les parties signataires ont convenu de faire application des dispositions de l'accord national du 17 janvier 1991 portant avenant à l'accord national du 13 juillet 1983, dans le champ territorial de la convention collective des industries de la métallurgie de Belfort-Montbéliard.
+Prenant en compte l'évolution du Smic au cours de l'année 2022, les parties signataires sont convenues d'apporter des modifications aux montants des rémunérations minimales annuelles effectives à compter de 2022.
 
-Le montant des rémunérations minimales annuelles effectives, applicable à compter de l'année 2022, fait l'objet du tableau 1 du présent accord.
+Ces modifications font l'objet du tableau 1 du présent avenant.
