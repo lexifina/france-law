@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701305
+
+- Question : [SEQ220701305](seq220701305.md) — Installation d'officines de pharmacie et seuil minimal de population dans les petites communes situées dans des bassins de vie denses
+
+## Réponse
+
+*Santé et prévention, JO du 2022-11-03, page 5474*
+
+Le code de la santé publique prévoit que le directeur général de l'agence régionale de santé (ARS) peut délivrer une autorisation d'ouverture si l'officine permet une desserte en médicaments optimale au regard des besoins de la population résidente et du lieu d'implantation choisi par le pharmacien demandeur. Ces conditions d'autorisation permettent de poursuivre de manière équilibrée deux objectifs importants : assurer un maillage pharmaceutique qui réponde positivement aux besoins de la population et créer les conditions satisfaisantes permettant à l'officine de se maintenir sur ce territoire. Afin de s'assurer qu'une pharmacie peut desservir la population des communes voisines, l'ARS évalue l'accès au local de l'officine. Il doit être facilité par des aménagements piétons, des stationnements ou, le cas échéant, des dessertes par les transports en commun. L'évolution démographique d'une commune est également prise en considération dans l'étude des demandes par l'ARS. En effet, le critère d'approvisionnement de la population résidente peut être apprécié au regard des permis de construire délivrés pour des logements individuels ou collectifs. Pour les communes de moins de 2 500 habitants, elles pourront bénéficier, sous certaines conditions, de l'ouverture d'une officine dans le cadre du dispositif prévu pour les territoires au sein desquels l'accès au médicament pour la population n'est pas assuré de manière satisfaisante (prévu par l'article L. 5125-6 du code de la santé publique). La parution du décret d'application de cette mesure est prévue pour début 2023.
