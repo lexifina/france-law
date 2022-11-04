@@ -6,14 +6,18 @@ Sapin pectiné, sapin de Vancouver, érable champêtre, érable plane, érable s
 
 NOTA :
 
-L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse : http://agriculture.gouv.fr/Fournisseurs-especes-et-provenances-forestieres Une copie des annexes peut également être demandée par courrier adressé au : Ministère de l'agriculture, de l'agroalimentaire et de la forêt, direction générale de la performance économique et environnementale des entreprises, sous-direction des filières forêt-bois, cheval et bioéconomie, bureau de la gestion durable de la forêt et du bois, 3, rue Barbet-de-Jouy, F-75349 Paris 07 SP ; ou à IRSTEA, unité de recherche " Ecosystèmes forestiers ", domaine des Barres, F-45290 Nogent-sur-Vernisson.
+L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture et de la souveraineté alimentaire, à l'adresse :
 
-Conformément à l'article 1er de l'arrêté du 4 décembre 2019 (NOR: AGRT1934392A), l'annexe 2 de l'arrêté du 24 octobre 2003 modifié, portant fixation des régions de provenance des essences forestières, est modifiée comme suit :
+https://agriculture.gouv.fr/fournisseurs-especes-reglementees-provenances-et-materiels-de-base-forestiers
 
-1) La carte des régions de provenance du pin de Monterey est remplacée par la carte figurant en annexe 1 de l'arrêté du 4 décembre 2019
+.
 
-2) La carte des régions de provenance du pin à encens est remplacée par la carte figurant en annexe 2 de l'arrêté du 4 décembre 2019
+Une copie de l'annexe peut également être demandée par courrier adressé au :
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante :
+- ministère de l'agriculture et de la souveraineté alimentaire, direction générale de la performance économique et environnementale des entreprises, sous-direction des filières forêt-bois, cheval et bioéconomie, bureau de la gestion durable de la forêt et du bois, 3, rue Barbet-de-Jouy, F, 75349 Paris 07 SP ; ou à
 
-https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039494621
+- INRAE, unité de recherche " Ecosystèmes forestiers ", GeeDAAF, Domaine des Barres, F, 45290 Nogent-sur-Vernisson.
+
+Conformément à l’article 1er de l’arrêté du 24 octobre 2022 (NOR :AGRT2229338A), l’annexe 2 de l'arrêté du 24 octobre 2003 modifié, portant fixation des régions de provenance des essences forestières, est modifiée comme suit :
+
+La région de provenance du tilleul à grandes feuilles " TPL901 Nord-Est et montagnes " est étendue et change de nom pour devenir " TPL901 France ". La nouvelle carte des régions de provenance du tilleul à grandes feuilles figure en annexe 1 du présent arrêté.

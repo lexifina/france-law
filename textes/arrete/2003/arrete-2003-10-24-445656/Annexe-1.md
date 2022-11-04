@@ -630,9 +630,7 @@ Eucalyptus globulus Labill
 
 EGL700 - région méditerranéenne |
 
-EGL700
-
-|
+EGL700 |
 
 |
 
@@ -650,9 +648,7 @@ Eucalyptus gunnii Hook.f
 
 EGU311 - Grand Ouest |
 
-EGU311
-
-|
+EGU311 |
 
 |
 
@@ -660,9 +656,7 @@ EGU311
 
 EGU700 - Région méditerranéenne |
 
-EGU700
-
-|
+EGU700 |
 
 Hétre.
 
@@ -2484,7 +2478,7 @@ Scop.
 
 |
 
-TPL901-Nord-Est et montagnes.
+TPL901 France.
 
 |
 
@@ -2496,6 +2490,14 @@ NOTA :
 
 A l'article 1er de l'arrêté du 16 novembre 2010 modifiant l'arrêté du 24 octobre 2003, au lieu de "Pinus nigra Arn. ssp nigricans Host" lire "Pinus nigra Arn. ssp clusiana Clem" : la région de provenance "PCL-901, région méditerranéenne" est supprimée".
 
-Arrêté du 14 novembre 2014 : L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse :
+Arrêté du 24 octobre 2022 : L'annexe du présent arrêté peut être consultée sur le site du ministère de l'agriculture, de l'agroalimentaire et de la forêt à l'adresse :
 
-http://www.agriculture.gouv.fr/Fournisseurs-especes-et-provenances-forestieres Une copie de l'annexe peut également être demandée par courrier adressé au ministère de l'agriculture, de l'agroalimentaire et de la forêt, direction générale des politiques agricole, agroalimentaire et des territoires, service de la forêt, de la ruralité et du cheval (sous-direction de la forêt et du bois), bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15
+https://agriculture.gouv.fr/fournisseurs-especes-reglementees-provenances-et-materiels-de-base-forestiers
+
+.
+
+Une copie de l'annexe peut également être demandée par courrier adressé au :
+
+- ministère de l'agriculture et de la souveraineté alimentaire, direction générale de la performance économique et environnementale des entreprises, sous-direction des filières forêt-bois, cheval et bioéconomie, bureau de la gestion durable de la forêt et du bois, 3, rue Barbet-de-Jouy, F, 75349 Paris 07 SP ; ou à
+
+- INRAE, unité de recherche "Ecosystèmes forestiers" , GeeDAAF, Domaine des Barres, F, 45290 Nogent-sur-Vernisson.
