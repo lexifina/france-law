@@ -1,8 +1,4 @@
-# Article LEGIARTI000038962297
-
-ANNEXES
-
-ANNEXE I
+# Article ANNEXE I
 
 PROGRAMME DU CONCOURS INTERNE DES INGÉNIEURS DU CONTRÔLE DE LA NAVIGATION AÉRIENNE
 
@@ -14,7 +10,7 @@ Programme en vigueur dans les classes préparatoires de physique, chimie, scienc
 
 1.2. Physique :
 
-Programme de 1re année en vigueur dans les classes préparatoires de mathématiques, physique et sciences de l'ingénieur (MPSI) et une partie du programme de 2de année selon le programme détaillé en annexe II.
+Le programme du concours est basé sur les programmes officiels des classes préparatoires de mathématiques, physique et sciences de l'ingénieur de première année (MPSI) et de seconde année (MP), à l'exclusion de la chimie et des compétences numériques. Les thèmes extraits retenus sont précisés en annexe II.
 
 1.3. Français :
 
@@ -32,7 +28,7 @@ Programme en vigueur dans les classes préparatoires de physique, chimie, scienc
 
 2.2. Physique :
 
-Programme de 1re année en vigueur dans les classes préparatoires de mathématiques, physique et sciences de l'ingénieur (MPSI) et une partie du programme de 2de année selon le programme détaillé en annexe II).
+Le programme du concours est basé sur les programmes officiels des classes préparatoires de mathématiques, physique et sciences de l'ingénieur de première année (MPSI) et de seconde année (MP), à l'exclusion de la chimie et des compétences numériques. Les thèmes extraits retenus sont précisés en annexe II.
 
 2.3. Anglais :
 
