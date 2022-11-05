@@ -36,7 +36,11 @@ L'officier adjoint police judiciaire de la région ou à défaut, le commandant 
 
 L'officier adjoint commandement de la région, ou à défaut, l'officier le plus ancien dans le grade le plus élevé d'une division de la région. |
 
-(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire le commandant de la section d'appui judiciaire. |
+(1) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Ile-de-France, lire le commandant de la section d'appui judiciaire.
+
+(2) Pour la région de gendarmerie implantée au siège de la zone de défense et de sécurité d'Île-de-France, lire le chef d'état-major.
+
+|
 
 Gendarmerie de l'air. |
 
@@ -271,7 +275,3 @@ Le sous-directeur de la gestion du personnel. |
 L'officier de gendarmerie adjoint au sous-directeur de la gestion du personnel. |
 
 Un officier supérieur de la direction générale de la gendarmerie nationale et un officier désigné comme conseiller pour la spécialité considérée désignés tous deux par le directeur des personnels militaires de la gendarmerie nationale. |
-
-NOTA :
-
-Conformément à l’article 4 de l’arrêté du 29 juillet 2022 (NOR : IOMJ2221883A), ces dispositions entrent en vigueur le 1er septembre 2022.
