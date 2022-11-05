@@ -96,7 +96,7 @@ Les généralités :
 
 - la coordination entre les services de la météorologie et les services de la circulation aérienne ;
 
-- la coordination entre les services d'information aéronautique et les des services de la circulation aérienne ;
+- la coordination entre les services d'information aéronautique et les services de la circulation aérienne ;
 
 - les altitudes minimales de vol ;
 
