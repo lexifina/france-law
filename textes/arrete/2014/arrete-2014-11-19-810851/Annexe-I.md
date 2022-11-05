@@ -10,17 +10,23 @@ Programme en vigueur dans les classes préparatoires de physique, chimie, scienc
 
 1.2. Physique : (durée : 3 heures, coefficient 3) :
 
-Programme de 1re année en vigueur dans les classes préparatoires de mathématiques, physique et sciences de l'ingénieur (MPSI) et programme de 2de année (cf. programme détaillée en annexe II).
+Le programme du concours est basé sur les programmes officiels des classes préparatoires de mathématiques, physique et sciences de l'ingénieur de première année (MPSI) et de seconde année (MP), à l'exclusion de la chimie et des compétences numériques. Les thèmes extraits retenus sont précisés en annexe II.
 
 1.3. Français : (durée : 3 heures, coefficient 3) :
 
 L'épreuve de français consiste soit en la rédaction d'une composition sur un sujet d'ordre général, soit en une rédaction d'une note à partir de documents fournis aux candidats.
 
+1.4 Anglais : (durée : 3 heures, coefficient 3) :
+
+L'épreuve écrite d'anglais consiste en une série de questions qui permettent de s'assurer que le candidat dispose des connaissances nécessaires dans les domaines du vocabulaire et des structures de la langue.
+
+Cette épreuve peut contenir un questionnaire à choix multiples (QCM).
+
 2. Epreuves orales obligatoires
 
-2.1. Entretien avec le jury : (durée : 30 minutes, préparation : 30 minutes, coefficient 2) :
+2.1. Entretien avec le jury : (durée : 30 minutes, préparation : 30 minutes, coefficient 3) :
 
-L'entretien avec le jury doit permettre d'apprécier d'une part les connaissances générales et la qualité de réflexion du candidat et d'autre part sa motivation pour le métier d'ingénieur des études et de l'exploitation de l'aviation civile.
+L'entretien avec le jury doit permettre d'apprécier la culture générale, la qualité de réflexion du candidat à partir de sujets d'actualité issus d'articles de presse, sa motivation pour le métier d'ingénieur des études et de l'exploitation de l'aviation civile.
 
 2.2. Mathématiques : (durée : 30 minutes, préparation : 30 minutes, coefficient 4) :
 
@@ -36,7 +42,7 @@ L'épreuve doit permettre de déterminer l'aptitude des candidats à s'exprimer 
 
 2.4. Physique : (durée : 30 minutes, préparation : 30 minutes, coefficient 3) :
 
-Programme de 1re année en vigueur dans les classes préparatoires de mathématiques, physique et sciences de l'ingénieur (MPSI) et programme de 2de année (cf. programme détaillée en annexe II).
+Le programme du concours est basé sur les programmes officiels des classes préparatoires de mathématiques, physique et sciences de l'ingénieur de première année (MPSI) et de seconde année (MP), à l'exclusion de la chimie et des compétences numériques. Les thèmes extraits retenus sont précisés en annexe II.
 
 3. Epreuve orale de langue vivante facultative
 

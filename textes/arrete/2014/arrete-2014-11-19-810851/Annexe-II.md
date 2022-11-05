@@ -1,291 +1,107 @@
 # Article Annexe II
 
-PROGRAMME DE PHYSIQUE (SECONDE ANNÉE)
+PROGRAMME DE PHYSIQUE
 
-NOTIONS ET CONTENUS
+Programme de MPSI :
 
-|
+Premier semestre
 
-CAPACITÉS EXIGIBLES
+Thème 1 : ondes et signaux (1)
 
-|
+1.1. Formation des images
 
-1. Transfert thermique par conduction
+1.2. Signaux électriques dans l'ARQS
 
-|
+1.3. Circuit linéaire du premier ordre
 
-Formulation infinitésimale des principes de la thermodynamique
+1.4. Oscillateurs libres et forcés
 
-pour une évolution monotherme.
+1.5. Filtrage linéaire
 
-|
+1.6. Propagation d'un signal
 
-Enoncer et exploiter les principes de la thermodynamique pour une transformation élémentaire.
+Thème 2 : mouvements et interactions (1)
 
-Utiliser avec rigueur les notations d et δ en leur attachant une signification.
+2.1. Description et paramétrage du mouvement d'un point
 
-|
+2.2. Lois de Newton
 
-Equation de la diffusion thermique.
+2.3. Approche énergétique du mouvement d'un point matériel
 
-|
+2.4. Mouvement de particules chargées dans des champs électrique et magnétostatique, uniformes et stationnaires
 
-Etablir l'équation de diffusion vérifiée par la température, avec ou sans terme source.
+Second semestre
 
-Analyser une équation de diffusion en ordre de grandeur pour relier des échelles caractéristiques spatiale et temporelle.
+Thème 1 : ondes et signaux (2)
 
-|
+1.7. Induction et forces de Laplace
 
-2. Champ électrique en régime stationnaire
+1.7.1. Champ magnétique
 
-|
+1.7.2. Actions d'un champ magnétique
 
-Potentiel scalaire électrique.
+1.7.3. Lois de l'induction
 
-|
+1.7.4. Circuit fixe dans un champ magnétique qui dépend du temps
 
-Relier l'existence du potentiel scalaire électrique au caractère irrotationnel de E. Exprimer une différence de potentiel comme une circulation du champ électrique.
+1.7.5. Circuit mobile dans un champ magnétique stationnaire
 
-|
+1.8. Introduction a ̀ la physique quantique (Hors programme)
 
-Propriétés topographiques.
+Thème 2 : mouvements et interactions (2)
 
-|
+2.5. Moment cinétique
 
-Associer l'évasement des tubes de champ à l'évolution de la norme de E en dehors des sources. Représenter les lignes de champ connaissant les surfaces équipotentielles et inversement. Évaluer le champ électrique à partir d'un réseau de surfaces équipotentielles.
+2.6. Mouvements dans un champ de force centrale conservatif
 
-|
+2.7. Mouvement d'un solide
 
-Energie potentielle électrique d'une charge ponctuelle dans un champ électrique extérieur.
+Thème 3 : l'énergie : conversions et transferts
 
-|
+(A l'exception des éléments de thermodynamique statistique)
 
-Etablir la relation Ep = qV. Appliquer la loi de l'énergie cinétique à une particule chargée dans un champ électrique.
+3.1. Descriptions microscopique et macroscopique d'un système a ̀ l'équilibre
 
-|
+3.2. Energie échangée par un système au cours d'une transformation
 
-Analogie entre champ électrique et champ gravitationnel.
+3.3. Premier principe. Bilans d'énergie
 
-|
+3.4. Deuxième principe. Bilans d'entropie
 
-Etablir un tableau d'analogies entre les champs électrique et gravitationnel.
+3.5. Machines thermiques
 
-|
+Programme de MP :
 
-Flux du champ électrostatique. Théorème de Gauss.
+1. Mécanique
 
-Cas de la sphère, du cylindre "infini" et du plan "infini"
+1.1. Référentiels non galiléens
 
-|
+1.2. Lois du frottement solide
 
-Etablir les expressions des champs électrostatiques créés en tout point de l'espace par une sphère uniformément chargée en volume, par un cylindre "infini" uniformément chargé en volume et par un plan "infini" uniformément chargé en surface.
+2. Eléments de traitement du signal
 
-Etablir et énoncer qu'à l'extérieur d'une distribution à symétrie sphérique, le champ électrostatique créé est le même que celui d'une charge ponctuelle concentrant la charge totale et placée au centre de la distribution.
+2.1. Signaux périodiques
 
-Utiliser le théorème de Gauss pour déterminer le champ électrostatique créé par une distribution présentant un haut degré de symétrie.
+2.2. Electronique numérique (Hors programme)
 
-|
+3. Optique (Hors programme)
 
-Etude du condensateur plan comme la superposition de deux distributions surfaciques, de charges opposées.
+4. Electromagnétisme
 
-|
+4.1. Electrostatique
 
-Etablir et citer l'expression de la capacité d'un condensateur plan dans le vide.
+4.2. Magné tostatique
 
-|
+4.3. Equations de Maxwell
 
-3. Magnétostatique
+4.4. Energie du champ électromagnétique
 
-|
+4.5. Propagation et rayonnement
 
-Courant électrique. Vecteur densité de courant volumique. Distributions de courant électrique filiformes.
+(A l'exception du dipôle rayonnant)
 
-|
+5. Thermodynamique
 
-Déterminer l'intensité du courant électrique traversant une surface orientée.
+5.1. Principes de la thermodynamique
 
-|
-
-Propriétés de flux et de circulation. Théorème d'Ampère.
-
-Applications au fil rectiligne "infini" de section non nulle et au solénoïde "infini".
-
-|
-
-Etablir les expressions de champs magnétostatiques créés en tout point de l'espace par un fil rectiligne "infini" de section non nulle, parcouru par des courants uniformément répartis en volume, par un solénoïde "infini" en admettant que le champ est nul à l'extérieur.
-
-|
-
-4. Equations de Maxwell
-
-|
-
-Principe de la conservation de la charge : formulation locale.
-
-|
-
-Etablir l'équation locale de la conservation de la charge en coordonnées cartésiennes dans le cas à une dimension.
-
-|
-
-Equations de Maxwell : formulations locale et intégrale.
-
-|
-
-Associer l'équation de Maxwell-Faraday à la loi de Faraday.
-
-Citer, utiliser et interpréter les équations de Maxwell sous forme intégrale.
-
-Associer le couplage spatio-temporel entre champ électrique et champ magnétique au phénomène de propagation.
-
-Vérifier la cohérence des équations de Maxwell avec l'équation locale de la conservation de la charge.
-
-|
-
-5. Energie du champ électromagnétique
-
-|
-
-Loi d'Ohm locale ; densité volumique de puissance Joule.
-
-|
-
-Analyser les aspects énergétiques dans le cas particulier d'un milieu ohmique.
-
-|
-
-Densité volumique d'énergie électromagnétique et vecteur de Poynting : bilan d'énergie.
-
-|
-
-Citer des ordres de grandeur de flux énergétiques moyens (flux solaire, laser,…).
-
-Utiliser le flux du vecteur de Poynting à travers une surface orientée pour évaluer la puissance rayonnée.
-
-Effectuer un bilan d'énergie sous forme locale et intégrale.
-
-Interpréter chaque terme de l'équation locale de Poynting, l'équation locale de Poynting étant fournie.
-
-|
-
-6. Propagation et rayonnement
-
-|
-
-Onde place dans l'espace vide de charge et de courant ; onde plane progressive et aspects énergétiques.
-
-|
-
-Citer les solutions de l'équation de d'Alembert à une dimension.
-
-Décrire la structure d'une onde plane et d'une onde plane progressive dans l'espace vide de charge et de courant.
-
-|
-
-Onde plane progressive monochromatique.
-
-Onde plane progressive monochromatique polarisée rectilignement.
-
-|
-
-Citer les domaines du spectre des ondes électromagnétiques et leur associer des applications.
-
-Reconnaître une onde polarisée rectilignement.
-
-|
-
-Propagation d'une onde plane transverse progressive monochromatique dans un plasma localement neutre et peu dense. Vitesse de phase, vitesse de groupe. Cas de l'ionosphère.
-
-|
-
-Utiliser la notation complexe et établir la relation de dispersion.
-
-Définir le phénomène de dispersion.
-
-Expliquer la notion de fréquence de coupure et citer son ordre de grandeur dans le cas de l'ionosphère.
-
-Décrire la propagation d'un paquet d'ondes dans un milieu linéaire dispersif par superposition d'ondes planes progressives monochromatiques.
-
-Calculer la vitesse de groupe à partir de la relation.
-
-de dispersion. Associer la vitesse de groupe à la propagation de l'enveloppe du paquet d'ondes.
-
-|
-
-Propagation d'une onde électromagnétique dans un milieu ohmique en régime lentement variable.
-
-Effet de peau.
-
-Réflexion sous incidence normale d'une onde plane, progressive et monochromatique polarisée rectilignement sur un pan conducteur parfait.
-
-Onde stationnaire.
-
-|
-
-Etablir et interpréter l'expression de la grandeur caractéristique d'atténuation de l'onde électromagnétique dans un milieu ohmique.
-
-Etablir l'expression de l'onde réfléchie en exploitant les relations de passage fournies.
-
-Interpréter qualitativement la présence de courants localisés en surface.
-
-|
-
-7. Dynamique du point matériel : référentiels non galiléens
-
-|
-
-Mouvement d'un référentiel par rapport à un autre dans les cas du mouvement de translation et du mouvement de rotation uniforme autour d'un axe fixe.
-
-Vecteur rotation d'un référentiel par rapport à un autre.
-
-Lois de composition des vitesses et des accélérations dans le cas d'une translation, et dans le cas d'une rotation uniforme autour d'un axe fixe : vitesse d'entraînement, accélérations d'entraînement et de coriolis.
-
-Lois de la dynamique du point en référentiel galiléen dans le cas où le référentiel entraîné est en translation ou en rotation uniforme autour d'un axe fixe par rapport à un référentiel galiléen.
-
-Forces d'inertie.
-
-Caractère galiléen approché de quelques référentiels : référentiel de Copernic, référentiel.
-
-Géocentrique, référentiel terrestre.
-
-|
-
-Reconnaître et caractériser un mouvement de translation et un mouvement de rotation uniforme autour d'un axe fixe d'un référentiel par rapport à un autre.
-
-Exprimer le vecteur rotation d'un référentiel par rapport à un autre.
-
-Relier les dérivées d'un vecteur dans des référentiels différents par la formule de la dérivation composée.
-
-Citer et utiliser les expressions de la vitesse d'entrainement et des accélérations d'entraînement et de Coriolis.
-
-Exprimer les forces d'inerties, dans les seuls cas où le référentiel entraîné est en translation ou en rotation uniforme autour d'un axe fixe par rapport à un référentiel galiléen.
-
-Décrire et interpréter les effets des forces d'inertie dans des cas concrets : sens de la force d'inertie d'entraînement dans un mouvement de translation ; caractère centrifuge de la force d'inertie d'entraînement dans le cas où le référentiel est en rotation uniforme autour d'un axe fixe par rapport à un référentiel galiléen.
-
-Utiliser les lois de la dynamique en référentiel non galiléen dans les seuls cas où le référentiel entraîné est en translation, ou en rotation uniforme autour d'un axe fixe par rapport à un référentiel galiléen.
-
-Citer quelques manifestations du caractère non galiléen du référentiel terrestre.
-
-Estimer, en ordre de grandeur, la contribution de la force d'inertie de Coriolis dans un problème de dynamique terrestre.
-
-|
-
-8. Complément de mécanique du solide : lois du frottement solide
-
-|
-
-Lois de Coulomb du frottement de glissement dans le seul cas d'un solide en translation.
-
-Aspect énergétique.
-
-|
-
-Utiliser les lois de Coulomb dans les trois situations : équilibre, mise en mouvement, freinage.
-
-Formuler une hypothèse (quant au glissement ou non) et la valider.
-
-Effectuer un bilan énergétique.
-
-Effectuer une mesure d'un coefficient de frottement.
-
-|
+5.2. Transferts thermiques.
