@@ -728,6 +728,8 @@ Chaud et Froid, Les Pennes, Mirabeau, 13170 La Gavotte : de 1970 à 1986 ;
 
 CMPEI, CMA, CMF, CMP, Constructions métalliques de Provence, Constructions métalliques d'Arles, Constructions métalliques de France, 1, rue Nicolas-Copernic, chemin des Moines, 13200 Arles, de 1952 à 1994 ;
 
+Compagnie Berroise de raffinerie, BP 42, 13131 BERRE L'ETANG CEDEX, 13130 BERRE L'ETANG, 13131 BERRE L'ETANG : de 1977 à 2015 ;
+
 Delta Thermique, Montée les Mauruches Supérieures, 06225 Vallauris, puis 1955, route de Saint-Bernard, parc d'activités de Sophia-Antipolis, 06225 Vallauris Cedex : de 1979 à 1990 ;
 
 L'Electro-réfractaire, puis Société européenne des produits réfractaires (SEPR), Route nationale 7,84130 Le Pontet : De 1965 à 1991 ;
@@ -811,6 +813,10 @@ SNIFI/ EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994 
 SNIFI/ EFI, BP 61,13110 Port-de-Bouc, de 1965 à 1990.
 
 SOREM ZI de Toulon Est, 83087 Toulon Cedex : de 1970 à 1983 ; puis SOCMEL 140, avenue Louis-Lagrange, ZI de Toulon Est, 83088 Toulon Cedex puis SOCMEL SA ZAC des Playes Est, 83500 La Seyne : de 1984 à 1997 ;
+
+Usine Chimique de l'Aubette, puis SHELL Chimie Méditerranée, Chemin départementale 21, 13130 BERRE L'ETANG : de 1977 à 2017 ;
+
+Usine Chimique de Berre, puis SHELL Chimie Méditerranée, Chemin départementale 54, 13130 BERRE L'ETANG : de 1977 à 2017 ;
 
 Rhône-Alpes
 
