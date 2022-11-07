@@ -190,7 +190,7 @@ X |
 
 |
 
-Brevet et licence de parachutiste professionnel assortis de la qualification "biplace", délivrés par la DGAC depuis plus d'un an et justifier de 100 sauts biplace au moyen de la production de la copie intégrale des pages écrites de la licence de parachutiste professionnel et de la copie de la page du carnet de saut arrêté sur l'honneur par le navigant. |
+Brevet et licence de parachutiste professionnel assortis de la qualification biplace , délivrés par la DGAC depuis plus d'un an et justifier de 100 sauts biplace au moyen de la production de la copie intégrale des pages écrites de la licence de parachutiste professionnel et de la copie de la page du carnet de saut arrêté sur l'honneur par le navigant. |
 
 X
 
@@ -199,16 +199,18 @@ option C |
 X
 
 option C |
-
-X |
-
-X |
 
 |
 
 |
 
-Brevet et licence de parachutiste professionnel assortis des qualifications "instructeur" et "biplace", délivrés par la DGAC depuis plus d'un an et justifier de 100 sauts biplace au moyen de la production de la copie intégrale des pages écrites de la licence de parachutiste professionnel et de la copie de la page du carnet de saut arrêté sur l'honneur par le navigant. |
+|
+
+X
+
+option C |
+
+Brevet et licence de parachutiste professionnel assortis des qualifications instructeur , délivrés par la DGAC depuis plus d'un an et justifier de 100 sauts biplace au moyen de la production de la copie intégrale des pages écrites de la licence de parachutiste professionnel et de la copie de la page du carnet de saut arrêté sur l'honneur par le navigant. |
 
 X
 
@@ -217,14 +219,16 @@ option C |
 X
 
 option C |
-
-X |
-
-X |
-
-X |
 
 |
+
+|
+
+|
+
+X
+
+option C |
 
 *EPMSP : exigences préalables à la mise en situation pédagogique.
 
@@ -233,7 +237,3 @@ X |
 * BPJEPS : brevet professionnel de la jeunesse, de l'éducation populaire et du sport
 
 * DGAC : direction générale de l'aviation civile.
-
-NOTA :
-
-Conformément aux I et II de l'article 11 de l'arrêté du 21 juillet 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Elles s'appliquent aux sessions de formation qui seront ouvertes à compter de la date d'entrée en vigueur fixée au I dudit arrêté.
