@@ -1,0 +1,9 @@
+# Réponse à la question n° 1997
+
+- Question : [1997](1997.md) — Question n° 1997 — Non-revalorisation des salaires en MSA
+
+## Réponse
+
+*JO du 2022-11-08, page 5227*
+
+Le Gouvernement est très attentif aux questions de rémunération des salariés de la mutualité sociale agricole (MSA). À cet égard, l'étude des paramètres d'évolution des rémunérations moyennes, étudiée par l'État au sein de la commission interministérielle d'audit salarial du secteur public (CIASSP), ne montre pas de traitement différencié de la MSA par rapport aux caisses du régime général. Il est vrai néanmoins que les rémunérations minimales de la MSA, en l'occurrence les deux premiers niveaux et le premier degré du troisième niveau de la classification des employés et cadres, sont pour partie inférieures au salaire minimum de croissance (SMIC), rendant nécessaire l'attribution d'un complément de rémunération pour atteindre le SMIC. Dans le contexte de revalorisation du point d'indice de la fonction publique de 3,5 % à compter du 1er juillet 2022, le Gouvernement a entendu transposer cette mesure aux organismes de sécurité sociale, comme cela a d'ailleurs été régulièrement le cas dans le passé. Aussi, dans le prolongement des orientations de l'État aux caisses nationales de sécurité sociale du régime général, les ministres chargés de l'agriculture, de la santé et des comptes publics ont donné leur accord le 28 septembre 2022 à la caisse centrale de la MSA pour que s'engagent des discussions avec les partenaires sociaux en vue d'une revalorisation des bas salaires, d'une augmentation de la valeur du point d'indice de 3,5 % et de l'attribution d'une prime de sur-intéressement pour l'ensemble des salariés. Ces négociations ont d'ores et déjà abouti par la signature, le 12 octobre 2022, d'un accord relatif à la revalorisation du point en MSA de 3,5 % à compter du 1er octobre 2022. Les négociations se poursuivent sur les autres sujets.
