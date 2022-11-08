@@ -1,0 +1,9 @@
+# Réponse à la question n° 765
+
+- Question : [765](765.md) — Question n° 765 — Mobilité des équipes en psychiatrie
+
+## Réponse
+
+*JO du 2022-11-08, page 5250*
+
+La démarche de l'aller-vers est au cœur de la feuille de route de la santé mentale et de la psychiatrie présentée le 28 juin 2018 et a été réaffirmée lors des Assisses de la Santé mentale et de la psychiatrie en septembre 2021 et dans la réforme des autorisations en cours. Elle est en effet essentielle pour améliorer l'accès aux soins et la prise en charge des patients souffrant de troubles psychiques, la mobilité des équipes facilitant l'évaluation des patients et leur orientation (article R.6123-185 du Code de la Santé publique). Le ministère de la santé et de la prévention soutient activement le déploiement des équipes mobiles en psychiatrie. Dans le cadre des Assises de la santé mentale et de la psychiatrie, des équipes mobiles de psychiatrie de la personne âgée ont été financées afin d'intervenir notamment dans les établissements d'hébergement pour personnes âgées dépendantes. Les établissements de santé autorisés en psychiatrie pouvant réaliser des prises en charge à domicile allant du maintien à domicile à l'hospitalisation à domicile ont également été invités à renforcer les équipes pour permettre le maintien à domicile dans le cadre de l'instruction N° DGOS/R4/2022/189 du 21 juillet 2022 relative aux modalités d'adaptation de l'offre de soins en psychiatrie pour mieux répondre aux besoins. Les équipes mobiles psychiatrie précarité ont par ailleurs bénéficié d'un renforcement de 10 millions d'euros dans le cadre du Ségur de la Santé (Mesure 27). Enfin, de nombreuses équipes mobiles de psychiatrie sont financées dans le cadre des deux appels à projets annuels : le fonds d'innovation organisationnelle en psychiatrie et l'appel à projets relatif au renforcement de l'offre en psychiatrie de l'enfant et de l'adolescent.
