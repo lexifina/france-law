@@ -1,0 +1,9 @@
+# Réponse à la question n° 2540
+
+- Question : [2540](2540.md) — Question n° 2540 — Bailleurs sociaux privés - aides à la rénovation énergétique
+
+## Réponse
+
+*JO du 2022-11-08, page 5259*
+
+Le Gouvernement est très attentif au développement d'une offre de logements abordables, en particulier dans les zones tendues, et promeut le dispositif « Loc'Avantages » auprès des propriétaires. Loc'Avantages est un dispositif qui permet, en proposant un logement à la location, de bénéficier d'une réduction d'impôt sous réserve de respecter certaines conditions comme fixer un loyer dont le montant est inférieur au prix du marché, au profit d'un locataire dont les ressources ne dépassent pas un plafond fixé par l'État, et ne pas louer un logement qui soit une passoire thermique. Les propriétaires qui entrent dans le dispositif peuvent en outre bénéficier d'aides financières pour réaliser des travaux de rénovation du logement avant la mise en location. Le patrimoine est préservé tout en allégeant la facture des travaux (jusqu'à 28 000 € d'aides pour une rénovation lourde ; jusqu'à 15 000 € d'aides pour une rénovation énergétique). Les propriétaires peuvent également bénéficier, sous certaines conditions, de l'accompagnement d'un spécialiste pour réaliser les travaux. Des primes supplémentaires sont également prévues pour les logements loués en intermédiation locative. Il est à noter que ce dispositif qui participe à la maîtrise du niveau des loyers dans les territoires est aussi un instrument efficace de lutte contre les logements vacants. Aussi, le Gouvernement encourage les bailleurs privés qui souhaiteraient proposer des loyers inférieurs aux prix de marché à s'inscrire dans ce dispositif simple et souple, financièrement équilibré, et qui permet d'accompagner le financement des travaux de rénovation énergétique.
