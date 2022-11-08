@@ -1,0 +1,9 @@
+# Réponse à la question n° 904
+
+- Question : [904](904.md) — Question n° 904 — Temps de présence en classe des Atsem
+
+## Réponse
+
+*JO du 2022-11-08, page 5233*
+
+Le métier et le cadre d'emplois d'agent territorial spécialisé des écoles maternelles (ATSEM) a connu des évolutions statutaires et fonctionnelles importantes depuis l'entrée en vigueur du décret n° 2018-152 du 1er mars 2018 portant diverses dispositions statutaires relatives aux ATSEM. Acteurs de la communauté éducative, ils sont concernés par une double mission d'animation et d'éducation comme le précise ce décret. En effet, d'une part les ATSEM peuvent être chargés de la surveillance des jeunes enfants dans les cantines scolaires et d'animation dans le cadre du temps périscolaire ou de loisirs et d'autre part, ils sont chargés d'assister le personnel enseignant pour l'accueil et l'hygiène des enfants, de préparer et de mettre en état de propreté les locaux et le matériel servant directement à ces enfants, de participer à la mise en œuvre des activités pédagogiques prévues par les enseignants. Les ATSEM sont statutairement des fonctionnaires des collectivités territoriales placés sous l'autorité hiérarchique du maire pour la gestion de leur emploi mais aussi placés sous l'autorité du directeur de l'école durant les heures scolaires. Pour autant, même si conformément aux dispositions de l'article R. 412-127 du code des communes « […] pendant son service dans les locaux scolaires, il est placé sous l'autorité du directeur ou de la directrice », il n'est pas prévu pour les ATSEM de temps de présence obligatoire auprès des enseignants des écoles maternelles. Dans les faits, en fonction des besoins et des spécificités organisationnelles de chaque école, la décision est laissée aux directions d'école, en concertation avec les ATSEM, les enseignants et les collectivités territoriales, de définir le temps de présence nécessaire des ATSEM au sein d'une classe d'école maternelle.
