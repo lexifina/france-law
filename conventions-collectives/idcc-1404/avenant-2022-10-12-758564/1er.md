@@ -1,0 +1,13 @@
+# Article 1er
+
+L'article 5 de l'accord du 2 juillet 2015 est rédigé comme suit :
+
+« Le financement du régime de base obligatoire défini par le présent accord est assuré par une cotisation moitié à la charge de l'employeur et moitié à la charge du salarié.
+
+Une annexe faisant partie du présent accord précise les cotisations applicables pour le bénéfice du régime obligatoire défini par le présent accord.
+
+Si l'employeur décide d'étendre aux ayants droit la couverture de base obligatoire ou de rendre obligatoires des garanties complémentaires, il participe au financement à concurrence minimum de 50 % de la cotisation supplémentaire.
+
+S'agissant des cotisations uniques famille, l'employeur participe à hauteur de 50 % à la cotisation tarif unique.
+
+La participation employeur sera automatiquement ajustée sans nécessité d'un avenant si une augmentation était rendue nécessaire par l'évolution de la législation. »
