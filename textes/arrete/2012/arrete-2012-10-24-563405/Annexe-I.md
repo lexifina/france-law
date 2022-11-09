@@ -2,15 +2,15 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-1. Liaisons entre la France métropolitaine et les régions ultrapériphériques (RUP), d'une part, et les pays et territoires d'outre-mer associés à l'Union européenne, d'autre part :
+1. Liaisons entre la France métropolitaine et les régions ultrapériphériques (RUP), d'une part, et les pays et territoires d'outre-mer associés à l'Union européenne, d'autre part
 
-France métropolitaine et RUP-Nouvelle-Calédonie, via Osaka, Séoul ou Tokyo ;
+France métropolitaine et RUP-Nouvelle-Calédonie, via Osaka, Séoul, Singapour ou Tokyo ;
 
 France métropolitaine et RUP-Polynésie française ;
 
 France métropolitaine et RUP-Saint-Barthélemy.
 
-2. Liaisons entre la France métropolitaine et des pays faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés :
+2. Liaisons entre la France métropolitaine et des pays faisant l'objet d'un accord aérien européen libéralisant les droits de 3e et 4e libertés
 
 France métropolitaine-Albanie ;
 
@@ -18,15 +18,21 @@ France métropolitaine-Bosnie-et-Herzégovine ;
 
 France métropolitaine-Canada ;
 
-France métropolitaine-régions terrestres (continent et îles) se trouvant sous la souveraineté des États-Unis ;
+France métropolitaine-Cambodge ;
+
+France métropolitaine-régions terrestres (continent et îles) se trouvant sous la souveraineté des Etats-Unis ;
 
 France métropolitaine-Géorgie ;
+
+France métropolitaine-Indonésie ;
 
 France métropolitaine-Israël ;
 
 France métropolitaine-Jordanie ;
 
 France métropolitaine-Kosovo ;
+
+France métropolitaine-Laos ;
 
 France métropolitaine-Macédoine ;
 
@@ -36,25 +42,35 @@ France métropolitaine-Moldavie ;
 
 France métropolitaine-Monténégro ;
 
+France métropolitaine-Myanmar ;
+
+France métropolitaine-Philippines ;
+
 France métropolitaine-Royaume-Uni ;
 
-France métropolitaine-Serbie.
+France métropolitaine-Serbie ;
 
-3. Liaisons internationales extracommunautaires :
+France métropolitaine-Singapour ;
+
+France métropolitaine-Thaïlande ;
+
+France métropolitaine-Vietnam.
+
+3. Liaisons internationales extracommunautaires
 
 3.1. De/ vers la France métropolitaine
 
 Afrique du Sud :
-
-Paris-Johannesbourg ;
-
-Paris-Le Cap ;
 
 Paris-Durban ;
 
 Paris-East London ;
 
 Paris-George ;
+
+Paris-Johannesbourg ;
+
+Paris-Le Cap ;
 
 Algérie :
 
@@ -63,6 +79,8 @@ Lyon-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionn�
 Montpellier-Alger ;
 
 Nantes-Alger (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
+
+Nantes-Oran (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
 
 Paris-Alger ;
 
@@ -106,9 +124,9 @@ Paris-Oranjestad ;
 
 Australie :
 
-Paris-Brisbane ;
-
 Paris-Adélaïde ;
+
+Paris-Brisbane ;
 
 Paris-Cairns ;
 
@@ -130,9 +148,13 @@ Paris-Bakou ;
 
 Bahamas :
 
+Paris-George Town ;
+
 Paris-Nassau ;
 
-Paris-George Town ;
+Bangladesh :
+
+Paris-Dhaka ;
 
 Barbade :
 
@@ -157,12 +179,6 @@ Paris-Hamilton ;
 Biélorussie :
 
 Paris-Minsk ;
-
-Birmanie :
-
-Paris-Mandalay
-
-Paris-Rangoun ;
 
 Bolivie :
 
@@ -192,12 +208,6 @@ Burundi :
 
 Paris-Bujumbura ;
 
-Cambodge :
-
-Paris-Phnom Penh ;
-
-Paris-Siem Reap ;
-
 Cameroun :
 
 Paris-Douala ;
@@ -224,7 +234,7 @@ Paris-Kunming ;
 
 Paris-Pékin ;
 
-Paris-Qingdao.
+Paris-Qingdao ;
 
 Paris-Shanghai ;
 
@@ -237,6 +247,8 @@ ainsi que toute liaison exploitée en partage de codes avec une compagnie chinoi
 Colombie :
 
 Paris-Bogota ;
+
+Paris-Carthagène ;
 
 Comores :
 
@@ -356,27 +368,33 @@ Hong Kong :
 
 Paris-Hong Kong ;
 
+Iles Féroé :
+
+Paris-Vagar ;
+
 Inde :
 
 Paris-Bangalore ;
 
 Paris-Bombay ;
 
+Paris-Chennai ;
+
 Paris-Delhi ;
 
 Paris-Hyderhabad ;
 
-Paris-Chennai ;
+ainsi que toute liaison exploitée via un des points du territoire indien mentionnés ci-dessus en partage de codes avec une compagnie indienne entre un point du territoire français et :
 
-ainsi que toute liaison exploitée en partage de codes avec une compagnie indienne entre un point du territoire français et un point du territoire d'Inde situé au-delà d'un des points du territoire indien mentionnés ci-dessus.
+-un autre point du territoire d'Inde ;
 
-Indonésie :
+-Bakra (Bangladesh) ;
 
-Paris-Denpasar ;
+-Malé (Maldives) ;
 
-Paris-Jakarta ;
+-Katmandou (Népal) ;
 
-Paris-Surabaya ;
+-Colombo (Sri Lanka).
 
 Iran :
 
@@ -386,21 +404,23 @@ Paris-Téhéran ;
 
 Jamaïque :
 
-Paris-Montego Bay ;
-
 Paris-Kingston ;
+
+Paris-Montego Bay ;
 
 Japon :
 
 Paris-Fukuoka ;
 
-Paris-Osaka ;
-
-Paris-Okayama ;
-
 Paris-Nagoya ;
 
 Paris-Niigata ;
+
+Paris-Okayama ;
+
+Paris-Okinawa ;
+
+Paris-Osaka ;
 
 Paris-Sapporo ;
 
@@ -416,9 +436,9 @@ ainsi que toute liaison exploitée en partage de codes :
 
 Kazakhstan :
 
-Paris-Almaty ;
+Paris-Aktaou
 
-Paris-Aktaou ;
+Paris-Almaty ;
 
 Paris-Astana ;
 
@@ -426,7 +446,7 @@ Paris-Chymkent ;
 
 Kenya :
 
-Paris-Nairobi,
+Paris-Nairobi ;
 
 ainsi que toute liaison exploitée en partage de codes avec une compagnie kenyane entre un point du territoire français et un point du territoire kenyan situé au-delà de Nairobi.
 
@@ -438,13 +458,9 @@ Koweït :
 
 Paris-Koweït ;
 
-Laos :
-
-Paris-Luang-Prabang ;
-
-Paris-Vientiane ;
-
 Liban :
+
+Lyon-Beyrouth (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l'article R. 330-9 du code de l'aviation civile) ;
 
 Marseille-Beyrouth ;
 
@@ -502,7 +518,7 @@ Paris-Guadalajara ;
 
 Paris-Mexico ;
 
-ainsi que toute liaison exploitée en partage de codes avec une compagnie mexicaine ou américaine entre un point du territoire français et un point du territoire du Mexique situé au-delà d'un des points du territoire mexicain mentionnés ci-dessus ou d'un point du territoire des États-Unis.
+ainsi que toute liaison exploitée en partage de codes avec une compagnie mexicaine ou américaine entre un point du territoire français et un point du territoire du Mexique situé au-delà d'un des points du territoire mexicain mentionnés ci-dessus ou d'un point du territoire des Etats-Unis.
 
 Mongolie :
 
@@ -576,10 +592,6 @@ Pérou :
 
 Paris-Lima ;
 
-Philippines :
-
-Paris-Manille ;
-
 Qatar :
 
 Paris-Doha ;
@@ -592,23 +604,23 @@ Paris-Lubumbashi ;
 
 République dominicaine :
 
-Paris-Saint-Domingue ;
-
 Paris-Punta Cana ;
+
+Paris-Saint-Domingue ;
 
 Royaume-Uni :
 
-Paris-Anguilla ;
-
-Paris-Tortola ;
-
 Nice-Jersey ;
+
+Paris-Anguilla ;
 
 Paris-Guernesey ;
 
-Paris-île de Man ;
+Paris-Ile de Man ;
 
 Paris-Jersey ;
+
+Paris-Tortola ;
 
 Russie :
 
@@ -624,9 +636,9 @@ Paris-Kigali ;
 
 Saint-Christophe-et-Niévès :
 
-Paris-Saint-Christophe ;
-
 Paris-Niévès ;
+
+Paris-Saint-Christophe ;
 
 Saint-Martin :
 
@@ -646,17 +658,13 @@ Paris-Dakar ;
 
 Seychelles :
 
-Paris-Victoria ;
-
 Paris-Praslin ;
+
+Paris-Victoria ;
 
 Sierra Leone :
 
 Paris-Freetown ;
-
-Singapour :
-
-Paris-Singapour ;
 
 Soudan :
 
@@ -690,30 +698,6 @@ Tchad :
 
 Paris-Ndjamena ;
 
-Thaïlande :
-
-Paris-Bangkok ;
-
-Paris-Chiang Mai ;
-
-Paris-Koh Samui ;
-
-Paris-Krabi ;
-
-Paris-Phuket ;
-
-Paris-Trat ;
-
-Paris-Hat Yai ;
-
-Paris-Khon Kaen ;
-
-Paris-Lampang ;
-
-Paris-Mae Sot ;
-
-Paris-Sukhotai
-
 Togo :
 
 Paris-Lomé ;
@@ -734,6 +718,8 @@ Nantes-Djerba ;
 
 Nantes-Monastir ;
 
+Nantes-Tunis ;
+
 Paris-Djerba ;
 
 Paris-Monastir ;
@@ -741,6 +727,8 @@ Paris-Monastir ;
 Paris-Tunis ;
 
 Turquie :
+
+Nantes-Istanbul ;
 
 Paris-Istanbul ;
 
@@ -762,14 +750,6 @@ Vénézuela :
 
 Paris-Caracas ;
 
-Vietnam :
-
-Paris-Hanoï ;
-
-Paris-Hô Chi Minh-Ville,
-
-ainsi que toute liaison exploitée en partage de codes avec une compagnie vietnamienne entre un point du territoire français et un point du territoire du Vietnam situé au-delà des points du territoire vietnamien mentionnés ci-dessus.
-
 Zambie :
 
 Paris-Lusaka ;
@@ -784,51 +764,23 @@ Paris-Hararé ;
 
 Paris-Victoria Falls ;
 
-Algérie :
-
-Nantes-Oran (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l' article R. 330-9 du code de l'aviation civile ) ;
-
-Liban :
-
-Lyon-Beyrouth (exclusivement dans le cadre d'accords commerciaux tels que mentionnés à l' article R. 330-9 du code de l'aviation civile ) ;
-
-Tunisie :
-
-Nantes-Tunis.
-
-Colombie :
-
-Paris-Carthagène ;
-
-Indonésie :
-
-Paris-Medan ;
-
-Iles Féroé :
-
-Paris-Vagar ;
-
-Japon :
-
-Paris-Okinawa ;
-
-Turquie :
-
-Nantes-Istanbul.
-
 3.2. De/ vers les Antilles et la Guyane
 
 Barbade :
 
 Fort-de-France-Bridgetown ;
 
+Canada :
+
+Pointe-à-Pitre-Montréal ;
+
 Dominique :
+
+Fort-de-France-Roseau ;
 
 Pointe-à-Pitre-Marigot ;
 
 Saint-Martin-Marigot ;
-
-Fort-de-France-Roseau ;
 
 Etats-Unis :
 
