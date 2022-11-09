@@ -47,3 +47,19 @@ Conformément à l'article L. 912-3 du code de la sécurité sociale, les rentes
 Les garanties décès seront également maintenues au profit des bénéficiaires de rentes d'incapacité de travail ou d'invalidité lors de la résiliation du contrat d'assurance, étant précisé que la revalorisation des bases de calcul des prestations décès devra être au moins égale à celle prévue par le contrat résilié.
 
 Lors du changement d'organisme assureur, il appartient à l'entreprise d'organiser la prise en charge des obligations ci-dessus définies, soit par l'organisme dont le contrat a été résilié, soit par le nouvel organisme assureur.
+
+3. Maintien des garanties en cas de suspension du contrat de travail
+
+Les garanties incapacité-invalidité prévue à l'article 25, décès-invalidité prévue à l'article 25 bis et rente éducation et rente temporaire de conjoint substitutive prévue à l'article 26 sont maintenues pendant toutes les périodes de suspension du contrat de travail, y compris non rémunérées, qui ne dépassent pas 15 jours consécutifs.
+
+Le bénéfice des garanties est par ailleurs maintenu au profit des salariés dont le contrat de travail est suspendu pour la période au titre de laquelle ils bénéficient :
+
+– d'un maintien, total ou partiel, de salaire ;
+
+– d'indemnités journalières (ou rente d'invalidité ou d'incapacité) versées par le régime obligatoire ;
+
+– d'indemnités journalières complémentaires (ou rente d'invalidité ou d'incapacité) financées au moins pour partie par l'employeur, qu'elles soient versées directement par l'employeur ou pour son compte par l'intermédiaire d'un tiers ;
+
+– d'un revenu de remplacement versé par l'employeur. Ce cas concerne notamment les salariés placés en activité partielle ou en activité partielle de longue durée, dont l'activité est totalement suspendue ou dont les horaires sont réduits, ainsi que toute période de congé rémunéré par l'employeur (reclassement, mobilité…).
+
+La contribution est alors payée dans les mêmes conditions et modalités de répartition par l'employeur et le salarié. L'assiette à retenir pour le calcul des cotisations et prestations est celle du montant de l'indemnisation versée dans le cadre de la suspension du contrat (indemnisation légale, le cas échéant complétée d'une indemnisation complémentaire versée par l'employeur, revenu de remplacement versé par l'employeur). Toutefois, en cas d'arrêt de travail pour maladie ou accident, le salarié est exonéré de cotisations (part patronale et part salariale) à compter de l'expiration de son droit au maintien de salaire par l'employeur.
