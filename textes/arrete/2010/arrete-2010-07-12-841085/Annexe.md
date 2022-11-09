@@ -2,33 +2,23 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 31 octobre 2021 :
-
-Saint-Denis de La Réunion-Guangzhou (Chine).
-
-Jusqu'au 31 octobre 2022 :
-
-Saint-Denis de La Réunion-Chennai (Inde), ainsi que les liaisons entre Saint-Denis de La Réunion et Dehli, Kochi et Bombay (Inde) via Chennai en partage de code avec une compagnie indienne.
+Jusqu'au 30 novembre 2022 :
 
 Saint-Denis de La Réunion-Bangkok (Thaïlande) ;
+
+Saint-Denis de La Réunion-Chennai (Inde), ainsi que les liaisons entre Saint-Denis de La Réunion et Delhi, Kochi et Bombay (Inde) via Chennai en partage de code avec une compagnie indienne ;
 
 Saint-Denis de La Réunion-Johannesburg (Afrique du Sud) ;
 
 Saint-Denis de La Réunion-Mahé (Seychelles) ;
 
-Saint-Denis de La Réunion-Moroni (Comores) ;
-
 Saint-Denis de La Réunion-Majunga (Madagascar) ;
+
+Saint-Denis de La Réunion-Moroni (Comores) ;
 
 Saint-Denis de La Réunion-Nosy Be (Madagascar) ;
 
 Saint-Denis de La Réunion-Port Louis (Maurice) ;
-
-Saint-Denis-de la Réunion-Doha (Qatar) ;
-
-Lyon-Doha (Qatar).
-
-Jusqu'au 30 novembre 2022 :
 
 Saint-Denis de La Réunion-Perth (Australie).
 
