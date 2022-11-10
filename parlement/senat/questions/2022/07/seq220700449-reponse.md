@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700449
+
+- Question : [SEQ220700449](seq220700449.md) — Tarif national des « carences ambulancières »
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2022-11-10, page 5605*
+
+Afin de pallier les coûts supportés par les services d'incendie et de secours (SIS) pour les interventions ayant trait aux carences ambulancières, un travail conjoint entre le ministère de l'Intérieur et des Outre-mer et le ministère de la Santé et de la Prévention a permis d'aboutir à des mesures financières compensatrices fondées sur un dispositif à deux niveaux. Ainsi, une revalorisation du montant du tarif national d'indemnisation des carences ambulancières à 200€ a été actée par l'arrêté du 22 avril 2022 modifiant l'arrêté du 30 novembre 2006 fixant les modalités d'établissement de la convention entre les services d'incendie et de secours et les établissements de santé sièges des SAMU, mentionnée à l'article L. 1424-42 du code général des collectivités territoriales (CGCT). De plus, une indemnité horaire de substitution a été créée dans le cadre de la réforme des transports sanitaires urgents. Cette indemnité de substitution (fixée à 12€ par heure) est versée systématiquement aux SIS pour chaque heure durant laquelle un secteur est non couvert ou partiellement couvert par une garde ambulancière. En effet, dans ce cas, le SIS peut adapter sa capacité de réponse tout en préservant une disponibilité opérationnelle pour ses missions relevant de l'article L. 1424-2 du CGCT. Cette indemnité est versée au SIS susceptible d'intervenir, indépendamment du nombre de carences effectivement réalisées. Elle est donc versée en plus du paiement des carences ambulancières effectivement réalisées par les SIS au tarif national de 200 €. Dès lors, l'ensemble de ces mesures est de nature à préserver tant les capacités opérationnelles des SIS que leurs ressources financières.
