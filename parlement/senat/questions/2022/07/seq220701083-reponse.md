@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701083
+
+- Question : [SEQ220701083](seq220701083.md) — Risque de fragilisation des copropriétés
+
+## Réponse
+
+*Ville et logement, JO du 2022-11-10, page 5639*
+
+Le Gouvernement est très attentif au sujet complexe des copropriétés, en particulier dans un contexte marqué par une crise énergétique sans précédent, une inflation en hausse et des enjeux majeurs en matière climatique. À cet effet, il agit afin d'apporter les réponses appropriées aux défis considérables auxquelles elles sont confrontées. Ainsi, pour tenir compte de la crise sanitaire et mesurer les impacts de la baisse de l'activité économique sur les ménages, le gouvernement a mis en place un observatoire national de suivi des impayés de charges dans les copropriétés suivies dans le cadre du plan Initiative Copropriétés (PIC). Ces données, articulées avec celles du registre national d'immatriculation des syndicats de copropriétaires, éclairent également sur les risques de dégradations des copropriétés et permettent ainsi aux pouvoirs publics d'apporter les réponses appropriées. Par ailleurs, l'extension en 2021 du dispositif MaPrimeRénov'à l'ensemble des copropriétés a contribué à l'accélération de la rénovation énergétique du parc de logements. A ce titre, le dispositif « MaPrimeRénov' » pour les copropriétés sera effectivement prolongé en 2023. Enfin, le Gouvernement a également mis en place un bouclier tarifaire pour les copropriétés disposant d'un mode de chauffage collectif au gaz dès le premier semestre 2022, dispositif dont ont pu bénéficier plus de 20 000 copropriétés (« bouclier gaz »). Le Gouvernement a également annoncé la mise en place d'un« bouclier tarifaire » relatif au prix de l'électricité en faveur de l'habitat collectif résidentiel. Le décret relatif à ce dispositif est en cours de préparation et sera publié prochainement.
