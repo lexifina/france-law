@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700033
+
+- Question : [SEQ220700033](seq220700033.md) — Réserve naturelle partielle de Dahliafleur en Côte d'Ivoire
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-11-10, page 5578*
+
+La France promeut la responsabilité sociale et environnementale des entreprises ayant leur siège sur son territoire à travers plusieurs outils législatifs et réglementaires. Les articles L. 225-102-1 et R. 225-104 à R. 225-105-2 du code de commerce prévoient la publication, par les entreprises qui dépassent certains seuils, d'une déclaration annuelle de performance extra-financière qui présente les conséquences sociales et environnementales de leur activité. La loi n° 2019-486 du 22 mai 2019 relative à la croissance et la transformation des entreprises (loi Pacte) a introduit la qualité de société à mission, qui permet à une entreprise d'affirmer publiquement sa raison d'être ainsi que les objectifs sociaux et environnementaux de ses activités en France et à l'international. L'atteinte par l'entreprise de ces objectifs, inscrits à ses statuts, est vérifiée par un organisme tiers indépendant. La France prend en compte l'exigence de responsabilité sociale et environnementale des acteurs publics et privés dans sa politique de développement à travers l'action des opérateurs de cette politique. La satisfaction de critères de responsabilité sociale et environnementale conditionne ainsi l'octroi aux entreprises privées d'aides publiques à l'export. Plus généralement, l'ensemble des projets financés par la France à travers les outils de l'Agence française de développement ou de la direction générale du Trésor (fonds d'études et d'aide au secteur privé, prêts du Trésor) doivent respecter de stricts critères sociaux et environnementaux. Nous assurerons que ces exigences soient respectées en sensibilisant l'entreprise à l'impact envirronnemental de ce sujet.
