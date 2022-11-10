@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902648
+
+- Question : [SEQ220902648](seq220902648.md) — Classement en réseau d'éducation prioritaire du collège Françoise Seligmann à Paris
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2022-11-10, page 5600*
+
+La carte actuelle des réseaux d'éducation prioritaire REP et REP+ est le fruit de la révision de 2014-2015 qui a permis une meilleure adaptation de la géographie prioritaire à l'évolution des difficultés socio-économiques des territoires. À cette occasion, la convergence entre la carte des quartiers prioritaires de la politique de la ville (QPV) et celle de l'éducation prioritaire a été accentuée. Ainsi, à la rentrée 2020, on dénombrait environ 212 000 collégiens résidant en QPV et scolarisés en éducation prioritaire pour environ 301 300 collégiens du secteur public résidant en QPV. Au total, 70 % des collégiens résidant en QPV sont donc scolarisés en éducation prioritaire parmi ceux qui sont scolarisés dans le public. Toutefois cette convergence ne peut être totale dans la mesure où il y a au total 1 514 QPV et 1 091 réseaux d'éducation prioritaire. Par ailleurs, la politique d'éducation prioritaire s'appuie sur des indicateurs scolaires, expliquant ainsi que des écoles et collèges situés en zone rurale et isolée peuvent aussi être labellisés en éducation prioritaire. Aussi, lors de la prochaine révision de la carte de l'éducation prioritaire, une discussion sera menée avec l'académie de Paris concernant le collège Françoise Seligmann et un travail approfondi sera en outre réalisé avec la direction de l'évaluation, de la prospective et de la performance (DEPP) car l'indice de position sociale (IPS) du collège Françoise Seligmann, à lui seul, ne justifie pas une entrée en éducation prioritaire. Pour rappel, l'IPS de l'établissement est de 93,6 à la rentrée 2021 pour un IPS moyen des établissements en éducation prioritaire de 79,8.
