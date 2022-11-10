@@ -1,0 +1,10 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202222D — RAPPORT ANNUEL D ACTIVITES DE LA COMMUNAUTE DE COMMUNES DU PAYS DE DOL ET DE LA BAIE DU MONT SAINT MICHEL 2021
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2022-11-10
+- Matière : 5.7 Institutions et vie politique/Intercommunalite
+- Objet : RAPPORT ANNUEL D ACTIVITES DE LA COMMUNAUTE DE COMMUNES DU PAYS DE DOL ET DE LA BAIE DU MONT SAINT MICHEL 2021
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2022/274606/5098bb5fda35427b90b69f5535631465b81ede2bf1323a4fe482826b913560bf.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
