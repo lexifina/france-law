@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701496
+
+- Question : [SEQ220701496](seq220701496.md) — Prise en charge des pauses méridiennes des élèves dans le cadre des partenariats entre les communes et les écoles privées
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2022-11-10, page 5593*
+
+L'article L. 533-1 du code de l'éducation prévoit que les collectivités territoriales peuvent faire bénéficier des mesures à caractère social tout enfant sans considération de l'établissement d'enseignement qu'il fréquente. Par application de ces dispositions, toute collectivité territoriale peut, dans le cadre d'une délibération de l'organe délibérant compétent et, éventuellement, de manière formalisée via une convention conclue entre la collectivité et l'école privée, décider d'ouvrir son service de restauration scolaire aux élèves d'une école privée. En effet, comme l'a rappelé le Conseil d'État, par sa décision du 5 juillet 1985 (CE Ass. 5 juillet 1985, Ville d'Albi,n° 44706), les collectivités territoriales ont la faculté, mais non l'obligation, d'accorder aux élèves scolarisés au sein d'une école privée les mêmes aides qu'aux élèves des écoles publiques. Il appartient donc à l'organe délibérant de la collectivité concernée d'apprécier, à l'occasion de chacune des mesures à caractère social qu'il institue en faveur des élèves scolarisés, s'il y a lieu d'en étendre le bénéfice aux élèves des écoles privées. Ce principe confère aux collectivités un large pouvoir d'appréciation ainsi qu'une grande latitude dans l'extension, ou non, d'une mesure à caractère social aux élèves scolarisés dans une école privée. Dans le cadre du contrôle de légalité, les services préfectoraux peuvent être appelés à vérifier que la prise en charge des frais de surveillance des élèves des écoles privées par les collectivités relève bien d'une mesure à caractère social destinée à apporter une aide aux élèves et aux familles.
