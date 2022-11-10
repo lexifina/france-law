@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700930
+
+- Question : [SEQ220700930](seq220700930.md) — Annulation de l'expérimentation relative à l'indication de l'origine du lait
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-11-10, page 5580*
+
+Le Conseil d'État, dans sa décision n° 404651 du 10 mars 2021, a annulé les dispositions du décret portant sur l'origine du lait au motif que la démonstration d'un lien avéré entre les propriétés du lait et leur origine nationale n'avait pu être apportée sur la base d'éléments objectifs. En effet, la démonstration d'un tel lien constitue l'une des conditions fixée par le règlement (UE) n° 1169/2011 pour l'établissement d'une mesure nationale concernant l'indication obligatoire de l'origine d'une denrée alimentaire, ce point ayant été confirmé par la Cour de justice de l'Union européenne dans son arrêt du 1er octobre 2020 (affaire C-485/18). À la suite de cette décision du Conseil d'État, l'indication de l'origine du lait sur l'étiquetage des laits de consommation et des autres produits laitiers n'est donc plus obligatoire mais il peut toujours se faire sur une base volontaire. Aussi, dans le cadre des contrôles réalisés par la DGCCRF en matière de « francisation » des denrées alimentaires, une vigilance particulière est portée sur la véracité des indications d'origine mentionnées sur les laits de consommation. Enfin, la question de l'indication obligatoire de l'origine du lait de consommation et du lait utilisé en tant qu'ingrédient dans les produits laitiers sera discutée dans le cadre de la révision prochaine du règlement (UE) n° 1169/2011. Le Gouvernement entend œuvrer en faveur d'un cadre juridique garant d'une transparence adéquate dans ce domaine, et ne manquera pas de sensibiliser l'ensemble de ses partenaires européens dans cette optique.
