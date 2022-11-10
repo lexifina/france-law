@@ -1,0 +1,10 @@
+# COMMUNE DE BROUALAN : délibération BROUALAN202229D — CREATION D UN RALENTISSEUR PLATEAU TRAPEZOIDAL RUE DE L ECOLE PLAN DE FINANCEMENT
+
+- Collectivité : COMMUNE DE BROUALAN
+- SIRET : 21350044000010
+- Code INSEE : 35044
+- Date : 2022-11-10
+- Matière : 7.1 Finances locales/Divers
+- Objet : CREATION D UN RALENTISSEUR PLATEAU TRAPEZOIDAL RUE DE L ECOLE PLAN DE FINANCEMENT
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500440/Deliberation/2022/275432/b80879ad013ac5826cb6421da35dd9068f33b372dc7cc247daf61aec7e35774f.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
