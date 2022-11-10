@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003119
+
+- Question : [SEQ221003119](seq221003119.md) — Conséquences de l'inflation sur le dispositif « cantine à 1€ »
+
+## Réponse
+
+*Solidarités, autonomie et personnes handicapées, JO du 2022-11-10, page 5624*
+
+Entrée en vigueur en 2019, cette mesure connaît depuis une année un développement certain et permet aujourd'hui à nombre d'enfants de bénéficier chaque jour d'école, d'un repas complet et équilibré qui aide à leur concentration sur les apprentissages. Si dans les petites communes, rares sont les enfants qui ne peuvent accéder à la cantine du fait des nombreux efforts des élus pour les accueillir, cette mesure a permis aux collectivités de compenser la mise en place d'une tarification sociale mais aussi de réduire ou neutraliser la part quasi structurelle d'impayés que leurs contribuables assumaient. Pour autant, cette mesure n'a pas vocation à équilibrer le budget global alloué aux cantines par les communes, mais à compenser la baisse des tarifs pratiqués.L'élargissement de la mesure par l'État, en avril 2021, aux communes éligibles à la dotation de solidarité rurale « péréquation » et non plus seulement « cible », à l'ensemble du premier degré et non plus seulement du primaire, couplé à l'augmentation de la subvention de l'État de 2€ à 3€ par repas, concerne aujourd'hui potentiellement plus de 12 000 communes en France. Ce dispositif représente un coût important pour l'État pour une compétence, facultative, des collectivités. Dans ces conditions, il n'est à ce stade pas envisagé de remettre en cause les montants de la participation de l'Etat à la mise en œuvre de ce dispositif. Le contexte actuel renforce en revanche son utilité pour aider à une alimentation suffisante et équilibrée des élèves et à leur concentration pour les apprentissages.
