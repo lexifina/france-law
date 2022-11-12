@@ -146,6 +146,8 @@ Gestion et comptabilité
 
 Anglais scientifique et technique (facultatif)
 
+Compétences socles au numérique en santé : Valider le module de compétences socles au numérique en santé avant la fin de la troisième année (obligatoire)
+
 PROGRAMME DES ENSEIGNEMENTS
 
 PREMIÈRE ANNEE
@@ -779,3 +781,7 @@ MÉMOIRE
 Le responsable du mémoire est obligatoirement le maître de stage agréé du stage de 3ème année.
 
 Le mémoire doit être présenté dans les mois qui suivent la réussite à l'examen de 3ème année ou, au plus tard, l'année universitaire suivante ; dans ce cas, il nécessitera une réinscription à la faculté.
+
+NOTA :
+
+Se reporter aux conditions d’application prévues à l’article 4 du décret n°2022-1419 du 10 novembre 2022.
