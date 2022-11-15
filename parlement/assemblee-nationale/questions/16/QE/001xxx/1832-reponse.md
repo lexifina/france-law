@@ -1,0 +1,9 @@
+# Réponse à la question n° 1832
+
+- Question : [1832](1832.md) — Question n° 1832 — Cotisation d'assurances complémentaires de santé
+
+## Réponse
+
+*JO du 2022-11-15, page 5383*
+
+La déduction du revenu imposable des cotisations de prévoyance complémentaire, y compris les versements éventuels de l'employeur et ceux du comité d'entreprise, n'est admise que sous certaines conditions et dans certaines limites. Ces cotisations doivent être versées dans le cadre de l'exercice d'une activité professionnelle et au titre d'un contrat d'assurance de groupe, s'il s'agit de travailleurs non-salariés, ou revêtir un caractère obligatoire en vertu d'un accord collectif ou d'une décision unilatérale de l'employeur, s'il s'agit des salariés. En outre, concernant l'abondement de l'employeur, sa déduction n'est possible que pour la part ne couvrant pas des garanties « frais de santé ». Il s'agit en pratique des cotisations versées au titre des garanties incapacité, invalidité, décès et dépendance. L'adhésion à un régime de prévoyance complémentaire a alors pour objet essentiel de garantir aux intéressés, en cas de maladie ou d'invalidité conduisant à l'interruption de l'activité professionnelle, le versement pendant la période correspondante d'un revenu de remplacement, en complément des prestations en espèces servies par les régimes de base de sécurité sociale. En contrepartie, ces prestations complémentaires sont soumises à l'impôt sur le revenu. En revanche, les cotisations versées auprès d'un organisme de prévoyance complémentaire, dans le cadre d'une adhésion individuelle et facultative, constituent un emploi du revenu d'ordre personnel. Il n'existe par conséquent pas de raison d'admettre leur déductibilité, étant précisé que l'absence d'avantage fiscal au titre des primes versées a pour corollaire l'exonération d'impôt sur le revenu des prestations servies par les organismes de prévoyance complémentaire.
