@@ -1,0 +1,9 @@
+# Réponse à la question n° 1524
+
+- Question : [1524](1524.md) — Question n° 1524 — Critères de sélection à l'entrée en master et conséquences pour les étudiants
+
+## Réponse
+
+*JO du 2022-11-15, page 5406*
+
+Le nombre de places en première année de master (M1) est globalement suffisant pour accueillir tous les étudiants qui le souhaitent. Au titre de l'année universitaire 2021-2022, les capacités d'accueil s'élevaient à un peu plus de 197 000 places pour environ 156 000 étudiants inscrits en M1. Le sujet n'est donc pas tant celui du nombre de places que l'adéquation entre les souhaits des étudiants, les offres des établissements et, in fine, les possibilités d'insertion professionnelle. Or il revient aux universités, dans le cadre de l'autonomie pédagogique, scientifique, administrative et financière qui leur est conférée par la loi, de répondre aux demandes d'inscription des étudiants en fonction de critères qui leur sont propres. Concernant la transparence de ces critères, le portail national d'information Trouver Mon Master fait, depuis cette année, obligation aux établissements de renseigner les attendus pédagogiques pour l'entrée dans chaque formation de master. Au titre de la rentrée 2023, avec la mise en place de la plateforme de candidature en première année de master, s'y ajouteront les critères généraux d'examen des candidatures par les établissements. De plus, un comité éthique et scientifique sera institué, qui veillera notamment au respect des principes juridiques et éthiques qui fondent les procédures mises en place par les établissements pour l'examen des candidatures. Ce comité formulera toute proposition de nature à améliorer la transparence de ces procédures et leur bonne compréhension par les candidats. De plus, un vaste chantier est en cours, portant sur une meilleure orientation dès le lycée, une plus grande professionnalisation du premier cycle ainsi qu'un droit à la reprise d'études tout au long de la vie.
