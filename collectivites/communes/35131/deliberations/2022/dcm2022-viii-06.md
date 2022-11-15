@@ -1,0 +1,10 @@
+# COMMUNE DE L HERMITAGE : délibération DCM2022_VIII_06 — DCM 2022-VIII-06 - BUDGET ANNEXE LA LOTODIERE - CLOTURE DU BUDGET - REPRISE DU RESULTAT AU BUDGET PRINCIPAL
+
+- Collectivité : COMMUNE DE L HERMITAGE
+- SIRET : 21350131500013
+- Code INSEE : 35131
+- Date : 2022-11-15
+- Matière : 7.10 Finances locales/Divers
+- Objet : DCM 2022-VIII-06 - BUDGET ANNEXE LA LOTODIERE - CLOTURE DU BUDGET - REPRISE DU RESULTAT AU BUDGET PRINCIPAL
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501315/Deliberation/2022/273330/4ba5d3cb86056b22f06d344e77b82dae77933b7c6c6ab413577c1313ff17cda7.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
