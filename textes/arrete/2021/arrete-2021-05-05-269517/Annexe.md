@@ -218,7 +218,7 @@ Le comptable est responsable du contrôle du caractère libératoire du paiement
 
 Les coordonnées bancaires peuvent être mentionnées sur les factures ou toutes autres pièces justificatives telles que, par exemple, les documents contractuels pour les marchés publics, la décision attributive pour les dépenses d'intervention, l'acte de vente ou le bail pour les opérations immobilières.
 
-Fiche 3 « Dépenses de l'Etat : Rôle des acteurs dans le contrôle des coordonnées bancaires » du kit « Vigilance dans la lutte contre l'escroquerie aux virements frauduleux ». |
+Fiche 3 " Dépenses de l'Etat : Rôle des acteurs dans le contrôle des coordonnées bancaires " du kit " Vigilance dans la lutte contre l'escroquerie aux virements frauduleux ". |
 
 1.2. PAIEMENT À DES REPRÉSENTANTS QUALIFIÉS |
 
@@ -516,7 +516,7 @@ et
 
 - Le porte-fort doit prouver sa qualité héréditaire et celle de ses cohéritiers dans les conditions de droit commun. |
 
-Arrêté du 24 décembre 2012 portant application des articles 25, 26, 32, 34, 35, 39 et 43 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et énumérant les moyens de règlement des dépenses publiques et les moyens d'encaissement des recettes publiques (article 8) : « Le notaire chargé du règlement d'une succession et se portant fort pour ses clients est habilité à recevoir toute somme due au titre de la succession. Un héritier ou indivisaire se portant fort pour la succession ou l'indivision est habilité, dans la limite de 2 500 euros, à recevoir toute somme due au titre de la succession ou de l'indivision ». |
+Arrêté du 24 décembre 2012 portant application des articles 25, 26, 32, 34, 35, 39 et 43 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et énumérant les moyens de règlement des dépenses publiques et les moyens d'encaissement des recettes publiques (article 8) : " Le notaire chargé du règlement d'une succession et se portant fort pour ses clients est habilité à recevoir toute somme due au titre de la succession. Un héritier ou indivisaire se portant fort pour la succession ou l'indivision est habilité, dans la limite de 2 500 euros, à recevoir toute somme due au titre de la succession ou de l'indivision ". |
 
 1.2.2.7. Successions non réclamées, en vacance ou en déshérence |
 
@@ -552,7 +552,7 @@ Lorsque personne ne se présente pour réclamer la succession et qu'il n'y a pas
 
 Pour les successions ouvertes avant le 1er janvier 2007 : anciens articles 768 et 770 du code civil.
 
-Pour les successions ouvertes à compter du 1er janvier 2007 : article 811 du code civil (« Lorsque l'Etat prétend à la succession d'une personne sans héritier ou à une succession abandonnée, il doit en demander l'envoi en possession au tribunal »). |
+Pour les successions ouvertes à compter du 1er janvier 2007 : article 811 du code civil (" Lorsque l'Etat prétend à la succession d'une personne sans héritier ou à une succession abandonnée, il doit en demander l'envoi en possession au tribunal "). |
 
 1.2.3. Autres cas |
 
@@ -864,7 +864,7 @@ ou
 
 1.3. PAIEMENT DES CRÉANCES FRAPPÉES D'OPPOSITION |
 
-Article 37 du décret n° 2012-1246 du 7 novembre 2012 (GBCP) : « Toutes oppositions ou autres significations ayant pour objet d'arrêter un paiement doivent être faites entre les mains du comptable public ».
+Article 37 du décret n° 2012-1246 du 7 novembre 2012 (GBCP) : " Toutes oppositions ou autres significations ayant pour objet d'arrêter un paiement doivent être faites entre les mains du comptable public ".
 
 Article 6 du décret n° 93-977 du 31 juillet 1993 relatif aux saisies et cessions notifiées aux comptables publics.
 
@@ -1246,7 +1246,7 @@ L'ordre de mission constitue la pièce justificative unique s'il présente les �
 
 - attestation des calculs de liquidation par l'ordonnateur ;
 
-- mention dans le titre de l'ordre de mission ou dans une zone de commentaires, qu'il s'agit d'un « document valant fiche d'allocation » de devises étrangères. |
+- mention dans le titre de l'ordre de mission ou dans une zone de commentaires, qu'il s'agit d'un " document valant fiche d'allocation " de devises étrangères. |
 
 2.1.4. Transport du corps d'un agent décédé lors d'un déplacement temporaire |
 
@@ -1262,7 +1262,7 @@ Constituent des frais annexes les frais de délivrance de passeports, de visas, 
 
 2.1.6. Carte affaires |
 
-- Contrat d'ouverture de compte (dit « contrat d'entreprise ») entre l'émetteur et l'entité publique lors du premier paiement ;
+- Contrat d'ouverture de compte (dit " contrat d'entreprise ") entre l'émetteur et l'entité publique lors du premier paiement ;
 
 et, selon le cas :
 
@@ -1520,9 +1520,9 @@ Les pièces justificatives non produites au comptable sont conservées par le se
 
 Pour les administrations autorisées par la DGFIP à mettre en œuvre un aménagement du listage des entrées mensuelles de la paye :
 
-- les mouvements générés automatiquement par l'outil informatique de l'ordonnateur et marqués « ** », ne sont pas appuyés de l'arrêté, de la décision au format papier : leur contenu est alors résumé sur le listage des entrées de paye ;
+- les mouvements générés automatiquement par l'outil informatique de l'ordonnateur et marqués " ** ", ne sont pas appuyés de l'arrêté, de la décision au format papier : leur contenu est alors résumé sur le listage des entrées de paye ;
 
-- les mouvements ayant fait l'objet d'une intervention manuelle du gestionnaire et marqués « -- » sont justifiés dans les conditions habituelles (pièce au format papier, le cas échéant), sauf libellé contraire ou mouvement autoporteur.
+- les mouvements ayant fait l'objet d'une intervention manuelle du gestionnaire et marqués " -- " sont justifiés dans les conditions habituelles (pièce au format papier, le cas échéant), sauf libellé contraire ou mouvement autoporteur.
 
 Les ordonnateurs transmettent aux comptables les certifications qu'ils délivrent et encourent une responsabilité dans les conditions fixées par la loi. Lorsque, à l'occasion de l'exercice de ses contrôles, le comptable public a constaté des irrégularités ou des inexactitudes dans les certifications de l'ordonnateur, il suspend le paiement et en informe l'ordonnateur.
 
@@ -2338,31 +2338,31 @@ Le gestionnaire conserve les feuilles d'heures supplémentaires ou les états is
 
 Décret n° 2010-1206 du 12 octobre 2010 relatif à la prime de fonctions et de résultats des membres de l'inspection générale des affaires sociales et des membres de l'inspection générale de l'administration. |
 
-3.3.2.3.1. Mise en place initiale de l'indemnité (parts « fonctions » et « résultats ») |
+3.3.2.3.1. Mise en place initiale de l'indemnité (parts " fonctions " et " résultats ") |
 
 - Liste des primes et indemnités par grade, cessant d'être servies aux agents bénéficiaires de la PFR ;
 
 et
 
-- Etat liquidatif de la part « fonctions » ;
+- Etat liquidatif de la part " fonctions " ;
 
-- Etat liquidatif de la part « résultats ». |
+- Etat liquidatif de la part " résultats ". |
 
 Des modèles d'états liquidatifs sont annexés à la circulaire n° B7/09/2184-2BPSS-09-3049 du 14 avril 2009. |
 
-3.3.2.3.2. Évolution des montants versés de la part « fonctions » |
+3.3.2.3.2. Évolution des montants versés de la part " fonctions " |
 
-- Etat liquidatif de la part « fonctions ». |
-
-|
-
-3.3.2.3.3. Évolution des montants de la part « résultats » |
-
-- Etat liquidatif de la part « résultats ». |
+- Etat liquidatif de la part " fonctions ". |
 
 |
 
-3.3.2.3.4. Versement exceptionnel lié à la part « résultats » |
+3.3.2.3.3. Évolution des montants de la part " résultats " |
+
+- Etat liquidatif de la part " résultats ". |
+
+|
+
+3.3.2.3.4. Versement exceptionnel lié à la part " résultats " |
 
 - Etat liquidatif spécifique au versement exceptionnel. |
 
@@ -2754,23 +2754,47 @@ Décret n° 2020-543 du 9 mai 2020. |
 
 3.4.2.1. Allocation d'aide au retour à l'emploi (ARE) |
 
-- Etat liquidatif ;
+|
+
+L'allocation d'aide au retour à l'emploi est prévue par les articles L. 5424-1 et L. 5424-2 du code du travail. |
+
+3.4.2.1.1. Lorsque le versement de l'allocation est effectué par l'État |
+
+-Etat liquidatif ;
 
 et
 
-- Attestation mensuelle d'actualisation transmise par Pôle Emploi, sauf, le cas échéant, dispense de recherche d'emploi ;
+-Attestation mensuelle d'actualisation transmise par Pôle Emploi, sauf, le cas échéant, dispense de recherche d'emploi ;
 
 le cas échéant,
 
-- Décision de versement de l'aide au retour à l'emploi formation (AREF) durant les périodes de formation. |
+-Décision de versement de l'aide au retour à l'emploi formation (AREF) durant les périodes de formation. |
 
 Cet état comprend :
 
-- la décision d'ouverture du droit et d'attribution des allocations ;
+-la décision d'ouverture du droit et d'attribution des allocations ;
 
-- la détermination du salaire journalier de référence et de la durée d'indemnisation.
+-la détermination du salaire journalier de référence et de la durée d'indemnisation.
 
 Ces éléments peuvent faire l'objet de deux documents distincts. |
+
+3.4.2.1.2. Lorsque le versement de l'allocation est effectué par le mandataire Pôle Emploi |
+
+-Etats liquidatifs. |
+
+Pour le remboursement des allocations et le paiement de frais de gestion, ces états liquidatifs sont les suivants :
+
+-récapitulatif mensuel des montants des allocations de chômage, des impayés, des indus récupérés et des cotisations afférentes ;
+
+-état mensuel nominatif des montants des allocations de chômage, des impayés, des indus récupérés et des cotisations afférentes ;
+
+-calcul et facturation des frais de gestion pour la période considérée.
+
+Ces états sont mis à la disposition des comptables via la plateforme de Pôle Emploi " Phébus ".
+
+Pour le versement de l'avance : le montant de l'avance est fixé par l'annexe conventionnelle opérationnelle et constitue la pièce justificative.
+
+Pour un abondement complémentaire de l'avance en cours d'année : une demande de paiement de l'avance complémentaire sur la base de l'état prévisionnel des dépenses est établie par ministère. |
 
 3.4.2.2. Aide à la reprise ou à la création d'entreprise (ARCE) |
 
@@ -3088,7 +3112,7 @@ Les contrats visés à la présente rubrique, passés sous forme dématérialis�
 
 Les comptables publics étant tenus d'exercer le contrôle de la qualité de l'ordonnateur s'agissant uniquement des ordres de payer, ils n'ont pas à contrôler la compétence du signataire du contrat.
 
-Le contrôle de la présence des signatures des cocontractants et de leur lien avec le contrat peut être satisfait par la production du rapport de vérification de signature issu de la plate-forme PLACE ou du portail Chorus Pro. À défaut, et en cas d'impossibilité de satisfaire ce contrôle, la pièce justificative « contrat » est accompagnée d'un certificat administratif de l'ordonnateur attestant la présence des signatures et leur lien avec le contrat.
+Le contrôle de la présence des signatures des cocontractants et de leur lien avec le contrat peut être satisfait par la production du rapport de vérification de signature issu de la plate-forme PLACE ou du portail Chorus Pro. À défaut, et en cas d'impossibilité de satisfaire ce contrôle, la pièce justificative " contrat " est accompagnée d'un certificat administratif de l'ordonnateur attestant la présence des signatures et leur lien avec le contrat.
 
 Toute pièce référencée dans un document produit au comptable (contrat, marché, CCAP, facture…) ayant des incidences financières, doit lui être transmise. |
 
@@ -3358,7 +3382,7 @@ Lorsque ces informations sont portées par l'outil (et donc intégrées dans Cho
 
 4.1.3.1.3.4. Paiement partiel définitif, paiement unique et intégral, paiement du solde |
 
-Le « paiement partiel définitif » ne s'applique pas aux marchés de travaux. En cas de marché à tranches et de marchés reconductibles, il n'y a qu'un seul décompte général et définitif (DGD), à la fin du marché. |
+Le " paiement partiel définitif " ne s'applique pas aux marchés de travaux. En cas de marché à tranches et de marchés reconductibles, il n'y a qu'un seul décompte général et définitif (DGD), à la fin du marché. |
 
 4.1.3.1.3.4.1. Marchés de fournitures et de services |
 
@@ -4156,9 +4180,7 @@ ou
 
 |
 
-4.2.2.2.3. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre d'une cession de créance prévue aux articles L. 313-23 et suivants du code monétaire et financier
-
-|
+4.2.2.2.3. Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement dans le cadre d'une cession de créance prévue aux articles L. 313-23 et suivants du code monétaire et financier |
 
 - Notification de la cession (ou du nantissement) par lettre recommandée avec avis de réception, ou par tout autre moyen permettant de donner date certaine ;
 
@@ -4682,7 +4704,7 @@ et
 
 - À défaut, décision de consignation fondée sur l'absence de justification de droit de propriété ;
 
-5. Convention amiable dite « traité d'adhésion à expropriation », cet acte étant, le cas échéant, enregistré ;
+5. Convention amiable dite " traité d'adhésion à expropriation ", cet acte étant, le cas échéant, enregistré ;
 
 et
 
@@ -4692,9 +4714,7 @@ ou
 
 - Acte de vente notarié avec le certificat du notaire par lequel il s'engage à prendre à sa charge les sommes qui après paiement au vendeur du prix de l'acquisition, s'avéreraient être dues, à la suite de l'inscription au fichier immobilier à des créanciers inscrits ou à un autre propriétaire et par lequel il atteste sous sa responsabilité qu'il n'existe pas, à sa connaissance, de vente ou promesse de vente antérieure. |
 
-Article R. 221-8 du code de l'expropriation pour cause d'utilité publique
-
-|
+Article R. 221-8 du code de l'expropriation pour cause d'utilité publique |
 
 6.1.2.3.2. Indemnité réglée par décision de justice |
 
@@ -4784,7 +4804,7 @@ L'état liquidatif n'est pas transmis si les éléments de liquidation figurent 
 
 7.1. ORDONNANCEMENT PRÉALABLE |
 
-- Décision de justice revêtue de la formule exécutoire (« grosse ») ou seconde copie exécutoire de la décision pour les juridictions judiciaires ;
+- Décision de justice revêtue de la formule exécutoire (" grosse ") ou seconde copie exécutoire de la décision pour les juridictions judiciaires ;
 
 ou
 
@@ -4826,7 +4846,7 @@ Instruction n° 09-008-B du 16 avril 2009 relative à l'exécution des condamnat
 
 |
 
-- Décision de justice revêtue de la formule exécutoire (« grosse ») ou seconde copie exécutoire de la décision pour les juridictions judiciaires ;
+- Décision de justice revêtue de la formule exécutoire (" grosse ") ou seconde copie exécutoire de la décision pour les juridictions judiciaires ;
 
 ou
 
@@ -4892,7 +4912,7 @@ et
 
 - Fiche de présentation du recours dûment remplie par la compagnie d'assurance. |
 
-La « convention de règlement des dommages matériels résultant de collisions entre des véhicules non assurés appartenant à l'Etat, des véhicules non assurés appartenant aux exploitants publics La Poste et France Télécom et des véhicules assurés » a été signée entre l'Etat et les compagnies d'assurances. Elle est approuvée par un arrêté du 2 février 1993. L'arrêté et la convention ont été publiés au J.O. du 5 mars 1993. |
+La " convention de règlement des dommages matériels résultant de collisions entre des véhicules non assurés appartenant à l'Etat, des véhicules non assurés appartenant aux exploitants publics La Poste et France Télécom et des véhicules assurés " a été signée entre l'Etat et les compagnies d'assurances. Elle est approuvée par un arrêté du 2 février 1993. L'arrêté et la convention ont été publiés au J.O. du 5 mars 1993. |
 
 7.4.2. Sinistre hors cadre de la convention du 2 février 1993 |
 
@@ -5068,7 +5088,7 @@ Articles R. 147 à R. 149 du CPP.
 
 Il peut s'agir des justificatifs de frais de fourrière ou de la facture du garage.
 
-La dématérialisation de la gestion des scellés est inscrite dans le plan de transformation numérique, avec le déploiement du module « scellés » dans Cassiopée et le développement d'un outil de gestion des scellés. |
+La dématérialisation de la gestion des scellés est inscrite dans le plan de transformation numérique, avec le déploiement du module " scellés " dans Cassiopée et le développement d'un outil de gestion des scellés. |
 
 8.1.7. Émoluments et indemnités alloués aux huissiers de justice |
 
@@ -6174,7 +6194,7 @@ Les règles de droit commun de dématérialisation relatives aux modalités de c
 
 Articles D. 36 et A. 122 du code du domaine de l'Etat.
 
-Décret n° 2011-1612 du 22 novembre 2011 relatif au code général des propriétés des personnes publiques et, plus particulièrement les articles R. 1221-1 et suivants du titre II « Biens situés à l'étranger » du livre II « Procédures d'acquisition ». |
+Décret n° 2011-1612 du 22 novembre 2011 relatif au code général des propriétés des personnes publiques et, plus particulièrement les articles R. 1221-1 et suivants du titre II " Biens situés à l'étranger " du livre II " Procédures d'acquisition ". |
 
 10.5.2. Pièces à produire par le poste |
 
@@ -6280,11 +6300,11 @@ Numéro prenant la forme suivante : FR (code pays) + 31 (clé informatique) + 12
 
 Mentions particulières :
 
-- en cas de franchise en base : « TVA non applicable, article 293 B du Code général des impôts » ;
+- en cas de franchise en base : " TVA non applicable, article 293 B du Code général des impôts " ;
 
-- en cas d'autoliquidation : « TVA due par le client » + référence à l'article 283 du CGI ou à l'article 21-Ia de la 6ᵉ directive TVA ;
+- en cas d'autoliquidation : " TVA due par le client " + référence à l'article 283 du CGI ou à l'article 21-Ia de la 6ᵉ directive TVA ;
 
-- en cas de régime de TVA sur marge : « TVA calculée sur la marge réalisée par l'entreprise selon l'article 266-1-e du CGI ». |
+- en cas de régime de TVA sur marge : " TVA calculée sur la marge réalisée par l'entreprise selon l'article 266-1-e du CGI ". |
 
 ANNEXE B
 
@@ -6366,19 +6386,19 @@ A. Mention concernant l'affacturage dans le cadre d'une subrogation
 
 Les comptables doivent régler entre les mains du factor les ordres de payer émis au nom du créancier, lorsque les mémoires, factures, situations de travaux et autres documents comportent les mentions suivantes :
 
-« Règlement à l'ordre de (indication de la société de factoring) à lui adresser directement (adresse, numéro de téléphone, numéro du compte courant bancaire ou postal).
+" Règlement à l'ordre de (indication de la société de factoring) à lui adresser directement (adresse, numéro de téléphone, numéro du compte courant bancaire ou postal).
 
 Elle le reçoit par subrogation dans le cadre du contrat de factoring.
 
-Elle devra être avisée de toute demande de renseignements ou réclamations ».
+Elle devra être avisée de toute demande de renseignements ou réclamations ".
 
 B. Mention concernant l'affacturage dans le cadre d'une cession ou d'un nantissement
 
 Les comptables doivent régler entre les mains du factor les ordres de payer émis au nom du créancier, lorsque les mémoires, factures, situations de travaux et autres documents comportent les mentions suivantes :
 
-« La créance relative à la présente facture a été cédée à (indication du cessionnaire) dans le cadre des articles L.313-23 à L.313-35 du code monétaire et financier.
+" La créance relative à la présente facture a été cédée à (indication du cessionnaire) dans le cadre des articles L.313-23 à L.313-35 du code monétaire et financier.
 
-Le paiement doit être effectué par chèque, traite, billets, etc, établi à l'ordre de (nom de la société d'affacturage ou de son mandataire) et adressé à… ou par virement au compte n°…chez… ».
+Le paiement doit être effectué par chèque, traite, billets, etc, établi à l'ordre de (nom de la société d'affacturage ou de son mandataire) et adressé à… ou par virement au compte n°…chez… ".
 
 Ces mentions doivent être présentes qu'il s'agisse d'un affacturage dit classique, dans lequel le créancier titulaire du marché prend l'initiative d'un affacturage, ou d'un affacturage dit inversé ou collaboratif, dans lequel l'initiative vient du pouvoir adjudicateur débiteur. |
 
