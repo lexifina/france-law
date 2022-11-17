@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701195
+
+- Question : [SEQ220701195](seq220701195.md) — Évaluation de la valeur locative des parcs photovoltaïques au sein des communes
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-11-17, page 5717*
+
+L'imposition à la taxe foncière sur les propriétés bâties des installations destinées à la production d'électricité d'origine photovoltaïque, et des terrains sur lesquels elles sont implantées, est une question de fait qui résulte, au regard des principes d'imposition, de l'appréciation de chaque situation par l'administration sous le contrôle du juge de l'impôt. Les panneaux photovoltaïques sont exonérés de taxe foncière sur les propriétés bâties conformément aux dispositions du 12° de l'article 1382 du code général des impôts (CGI). Néanmoins, les structures sur lesquelles les panneaux photovoltaïques sont fixés sont imposables à la taxe foncière sur les propriétés bâties, conformément aux dispositions combinées de l'article 1380 et du 1° de l'article 1381 du CGI, dès lors qu'elles sont fixées au sol à perpétuelle demeure et qu'elles présentent le caractère de véritables bâtiments ou d'ouvrages en maçonnerie, c'est-à-dire de véritables constructions. Concernant les terrains sur lesquels sont implantés les parcs photovoltaïques et installations annexes, ils sont soumis à la taxe foncière sur les propriétés bâties et sont alors exonérés de taxe foncière sur les propriétés non bâties en application du 7° de l'article 1384 du CGI, dès lors qu'ils revêtent les caractéristiques de terrains non cultivés employés à un usage commercial ou industriel au sens du 5° de l'article 1381 du CGI. Au cas particulier, la baisse de la base d'imposition constatée résulte de la correction d'une erreur d'évaluation du terrain prise en compte par le service local. Aucune compensation n'est prévue au profit des collectivités locales dans ce cas de figure.
