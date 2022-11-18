@@ -142,14 +142,6 @@ Vote à l'urne à titre exclusif |
 
 CCP |
 
-Université de Corse |
-
-CSA |
-
-Vote à l'urne et vote par correspondance |
-
-CCP |
-
 Université de la Nouvelle-Calédonie |
 
 CSA |
@@ -271,14 +263,6 @@ CSA |
 Vote à l'urne à titre complémentaire du vote électronique |
 
 CCP |
-
-Centre national des œuvres universitaires
-
-et scolaires (CNOUS) |
-
-CSA |
-
-Vote à l'urne à titre exclusif |
 
 Centre régional des œuvres universitaires
 
@@ -741,3 +725,13 @@ CSA
 |
 
 Vote à l'urne et vote par correspondance |
+
+Centre national des œuvres universitaires et scolaires (CNOUS)
+
+|
+
+CSA |
+
+Vote à l'urne et vote par correspondance |
+
+CCP |
