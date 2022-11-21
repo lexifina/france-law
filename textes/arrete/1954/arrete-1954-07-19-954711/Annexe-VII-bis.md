@@ -8,9 +8,7 @@ Carrossage d'un véhicule destiné à un usage spécial (VASP, RESP ou SRSP), us
 
 Le carrossier ou carrossier-constructeur soussigné :
 
-qualifié sous le numéro ..... dans le cadre de l'arrêté du 14 mai 2014 relatif au contrôle de conformité initial des véhicules de PTAC inférieur ou égal à 3,5 tonnes (1) ;
-
-qualifié sous le numéro ..... dans le cadre de l'arrêté du 18 novembre 2005 relatif au contrôle de conformité initial prévu à l'article R. 321-15 du code de la route (1) ;
+qualifié sous le numéro ..... dans le cadre de l'arrêté du 3 novembre 2022 relatif au contrôle de conformité initial prévu à l'article R. 321-15 du code de la route (1) ;
 
 demeurant à :
 
@@ -26,21 +24,19 @@ et certifie que le véhicule peut être immatriculé sans réception complément
 
 - le véhicule satisfait, dans les conditions prévues par les arrêtés d'application, aux dispositions des articles R. 311-1 à R. 318-8, R. 321-10 et R. 413-13 du code de la route, pour la catégorie du véhicule concerné ;
 
-- le porte-à-faux arrière du véhicule, non compris les ferrures et charnières (X = m), satisfait aux limites minimales (… m) et maximales (… m), fixées par le constructeur :
+- le porte-à-faux arrière du véhicule (X = m), satisfait aux limites minimales (… m) et maximales (… m), fixées par le constructeur (8) :
 
 - dans sa notice descriptive ou dans le certificat de conformité (1) ;
 
 - dans l'accord joint de son service technique (1) ;
 
-- et la longueur des ferrures est inférieure à 120 mm ;
-
-- les poids en charge sur les essieux sont égaux ou supérieurs aux charges au sol minimales et inférieurs ou égaux aux charges au sol maximales prévues par le constructeur ;
+-Un calcul de répartition de la charge a été réalisé conformément aux exigences de la réglementation en vigueur, applicable aux véhicules en ce qui concerne les masses et dimensions, dans le cadre de leur réception. Ce calcul conclut au respect des masses minimales et maximales, totale et sur chaque essieu, mentionnées dans le certificat de conformité délivré par le constructeur du véhicule, ou, pour le TVV concerné, dans l'annexe 17 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules ;
 
 - la largeur du véhicule (… m), n'excède pas celle fixée par le constructeur (… m) ;
 
 - le véhicule ne sera pas immatriculé dans le genre TCP ou n'est pas un véhicule destiné à un usage spécial autre que ceux mentionnés à l'annexe XII de l'arrêté du 19 juillet 1954 modifié ;
 
-- le véhicule ne sera pas immatriculé sous un double genre et (ou) une double carrosserie.
+- le véhicule ne sera pas immatriculé sous un double genre (J1).
 
 CARACTÉRISTIQUES DU VÉHICULE (2)
 
@@ -75,8 +71,6 @@ CARACTÉRISTIQUES DE LA CARROSSERIE
 Longueur utile du chargement : T = … m
 
 Porte-à-faux arrière du véhicule : X = … m
-
-Longueur des ferrures et charnières : c = … m
 
 Distance du centre de gravité du chargement à l'axe de la force (ou de la résultante des forces), appliquée(s) au sol par l'(ou les) essieu(x) arrière : Y = m
 
@@ -162,15 +156,7 @@ Le
 
 Signature et cachet :
 
-Nota. - Porte-à-faux utile = distance de l'extrémité arrière hors tout d'un véhicule non compris, s'il y a lieu, l'épaisseur du dispositif de fermeture (porte, hayon…) et la longueur des ferrures et charnières, à l'axe de la force (ou de la résultante des forces) appliquée(s) au sol par l'(ou les) essieu(x) arrière.
-
-Ferrures et charnières = dispositifs (ferrures et charnières de porte arrière, tampons, crochet d'attelage…) de poids négligeable et placés à l'arrière d'un véhicule.
-
-Le chargement est supposé concentré au point G (centre de gravité), milieu de la longueur utile de ce chargement.
-
-Dans les cas contraires, la position du centre de gravité doit être déterminée en premier lieu.
-
-Caisses mobiles multiples : G à indiquer sur le véhicule porteur en fonction du Ca, qui, dans le cas particulier, doit correspondre au poids de l'élément mobile vide et de ses équipements.
+Nota. - Porte-à-faux utile = distance de l'extrémité arrière de la zone de chargement, à l'axe de la force (ou de la résultante des forces) appliquée(s) au sol par l'(ou les) essieu(x) arrière.
 
 (1) Barrer la mention inutile.
 
@@ -185,3 +171,5 @@ Caisses mobiles multiples : G à indiquer sur le véhicule porteur en fonction d
 (6) Joindre les tickets de pesée correspondants.
 
 (7) Dans les cas de cabine “hors série” p AV et p AR seront calculés en fonction de la position du conducteur et de ses passagers par rapport à l'essieu considéré.
+
+(8) Règlement (UE) 2021/535-annexe 13-section F-tableau 1 et 2 listant dispositifs et équipements qui ne doivent pas être pris en compte pour la détermination des dimensions extérieures.

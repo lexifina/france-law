@@ -4,7 +4,7 @@ LISTE DES VÉHICULES DESTINÉS À UN USAGE SPÉCIAL ET DISPOSITIONS TECHNIQUES S
 
 Les véhicules destinés à un usage spécial sont classés dans les genres suivants : VASP - RESP ou SRSP et ne sont pas issus de la transformation d'un véhicule de transport en commun de personnes (catégories M2 et M3).
 
-I. - Les véhicules destinés à un usage spécial sont équipés ou aménagés pour répondre aux carrosseries suivantes au sens de l'annexe 5 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules :
+I. - Les véhicules destinés à un usage spécial équipés ou aménagés pour répondre aux carrosseries suivantes au sens de l'annexe 5 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules pouvant faire l'objet d'un contrôle de conformité initial selon les dispositions de l'arrêté du 3 novembre 2022 précité :
 
 1. ATELIER (1)
 
@@ -22,27 +22,7 @@ I. - Les véhicules destinés à un usage spécial sont équipés ou aménagés 
 
 8. SANITAIRE (5)
 
-Le carrossage de ces véhicules n'impacte que les domaines réglementés suivants :
-
-* réservoirs de carburants hors GPL et GNV (montage d'entités homologuées)
-
-* dispositif de protection arrière
-
-* emplacement de la plaque d'immatriculation arrière
-
-* emplacement de la plaque et inscription réglementaires
-
-* installation des dispositifs d'éclairage et de signalisation
-
-* dispositif de protection latérales
-
-* système antiprojections
-
-* vitrages (autres que ceux de la cabine)
-
-* compatibilité électromagnétique (montage d'entités homologuées)
-
-* masse (à vide) et dimensions.
+Les domaines réglementés pouvant être impactés par le carrossage sont mentionnés à l'annexe I de l'arrêté du 3 novembre 2022 précité.
 
 II. - Caractéristiques spécifiques de certains véhicules :
 

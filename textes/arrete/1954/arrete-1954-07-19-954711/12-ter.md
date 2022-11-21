@@ -8,7 +8,7 @@
 
 L'agrément de prototype est soumis aux mêmes dispositions techniques et administratives que celles applicables à la réception par type complémentaire ou multi-étape.
 
-4. L'agrément de prototype est accordé aux transformateurs respectant soit les règles d'évaluation initiale prévues dans le point 1 de l'annexe X de la directive 2007/46/ CE susvisée, soit celles prévues dans le cahier des charges techniques défini par l'arrêté du 18 novembre 2005 susvisé. Dans ce dernier cas, l'évaluation est prononcée par le laboratoire de l'Union technique de l'automobile, du motocycle et du cycle.
+4. L'agrément de prototype est accordé aux transformateurs respectant soit les règles d'évaluation initiale prévues dans le point 2 de l'annexe IV du règlement UE 2018/858 précité, soit celles prévues à l'annexe 3 de l'arrêté du 3 novembre 2022 précité. Dans ce dernier cas, l'évaluation est prononcée par le laboratoire de l'Union technique de l'automobile, du motocycle et du cycle (UTAC SAS).
 
 Lorsque le transformateur dispose de plusieurs centres de montage, chacun d'entre eux fait l'objet d'une évaluation initiale.
 

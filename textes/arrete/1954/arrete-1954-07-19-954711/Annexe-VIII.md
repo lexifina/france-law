@@ -54,8 +54,6 @@ Longueur utile du chargement : T = ......m
 
 Porte-à-faux arrière du véhicule : X = ......m
 
-Longueur des ferrures et charnières : c = .......m
-
 Distance du centre de gravité du chargement à l'axe de la force (ou de la résultante des forces), appliquée(s) au sol par l' (ou les) essieu(x) arrière :
 
 Y = ......m
@@ -158,15 +156,9 @@ Signature et cachet :
 
 Nota :
 
-Porte-à-faux utile = distance de l'extrémité arrière hors tout d'un véhicule non compris, s'il y a lieu, l'épaisseur du dispositif de fermeture (porte, hayon,...) et la longueur des ferrures et charnières, à l'axe de la force (ou de la résultante des forces) appliquée(s) au sol par l' (ou les) essieu(x) arrière.
+Porte-à-faux utile = distance de l'extrémité arrière sur la zone de chargement, à l'axe de la force (ou de la résultante des forces) appliquée(s) au sol par l' (ou les) essieu(x) arrière.
 
-Ferrures et charnières = dispositifs (ferrures et charnières de porte arrière, tampons, crochet d'attelage,...) de poids négligeable et placés à l'arrière d'un véhicule.
-
-Le chargement est supposé concentré au point G (centre de gravité), milieu de la longueur utile de ce chargement.
-
-Dans les cas contraires, la position du centre de gravité doit être déterminée en premier lieu.
-
-Caisses mobiles multiples : G à indiquer sur le véhicule porteur en fonction du Ca qui, dans le cas particulier, doit correspondre au poids de l'élément mobile vide et de ses équipements.
+Un calcul de répartition de la charge a été réalisé conformément aux exigences de la réglementation en vigueur, applicable aux véhicules en ce qui concerne les masses et dimensions, dans le cadre de leur réception. Ce calcul conclut au respect des masses minimales et maximales, totale et sur chaque essieu, mentionnées dans le certificat de conformité délivré par le constructeur du véhicule, ou, pour le TVV concerné, dans l'annexe 17 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules.
 
 (1) Barrer la mention inutile.
 
