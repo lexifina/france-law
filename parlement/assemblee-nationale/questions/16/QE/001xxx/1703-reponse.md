@@ -1,0 +1,9 @@
+# Réponse à la question n° 1703
+
+- Question : [1703](1703.md) — Question n° 1703 — Financement des chambres de commerce et d'industrie
+
+## Réponse
+
+*JO du 2022-11-22, page 5584*
+
+Depuis 2018, la baisse effective de la ressource fiscale affectée au réseau des chambres de commerce et d'industrie (CCI) a été limitée, par rapport aux objectifs initiaux, à 250 M€, notamment en raison de la crise sanitaire et le projet de loi de finances pour 2023 prévoit la stabilisation des plafonds de la taxe pour frais de chambres à hauteur de 525 M€, comme en 2022. La suppression de la cotisation sur la valeur ajoutée des entreprises (CVAE) conduira effectivement à la disparition de la taxe additionnelle de la cotisation sur la valeur ajoutée des entreprises (TACVAE) affectée aux CCI, mais seulement à compter de 2025. En effet, la CVAE sera supprimée en deux temps, ce qui permet de maintenir le rendement de la TACVAE constant au titre de 2023. En raison d'un décalage d'un an entre la collecte et le versement de la TACVAE au réseau, les CCI bénéficieront en 2023 et en 2024 du produit de la TACVAE. Par ailleurs, la trajectoire de convergence des taux régionaux de la TACFE a été suspendue pour une année, ce qui permet de dégager des financements supplémentaires en 2023. » Plus généralement, le Gouvernement s'est engagé à assurer au réseau des CCI un niveau de financement suffisant pour lui permettre de réaliser ses missions. La nature et l'ampleur des missions de service public du réseau, financées en tout ou partie par la ressource fiscale, seront précisées dans le nouveau contrat d'objectifs et de performance (COP) national, qui succédera à celui signé en 2019, et qui sera décliné en conventions d'objectifs et moyens (COM) régionales. Les évolutions des modalités et du niveau de financement alloué aux CCI pour les années 2024 et suivantes seront fixées en fonction de l'ampleur des missions confiées et de la qualité de leurs interventions.
