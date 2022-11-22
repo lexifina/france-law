@@ -1,0 +1,9 @@
+# Réponse à la question n° 1255
+
+- Question : [1255](1255.md) — Question n° 1255 — Retraite additionnelle de la fonction publique
+
+## Réponse
+
+*JO du 2022-11-22, page 5622*
+
+Le Régime additionnel de la fonction publique (RAFP) est un régime de retraite public et obligatoire, institué en 2005 au bénéfice des agents titulaires des trois fonctions publiques, des magistrats et des militaires. Ces 4,5 millions d'affiliés cotisent sur leurs primes et rémunérations accessoires, afin de compléter leur pension de retraite principale. Le RAFP est un régime en points : les cotisations acquittées chaque année par les agents et leurs employeurs sont converties en points. C'est le nombre total de points détenus lors du départ à la retraite qui détermine les modalités de paiement de la prestation de retraite additionnelle, soit en rente viagère, soit en capital. Ainsi, si le nombre de points acquis par le bénéficiaire est supérieur ou égal à 5 125 points, sa prestation lui est versée sous forme d'une rente mensuelle ; s'il est inférieur à ce seuil, sa prestation RAFP prend la forme d'un versement unique, en capital. L'article 76 de la loi n° 2003-775 du 21 août 2003 ayant créé le RAFP prévoit expressément que c'est le versement d'une rente qui est le principe. Le versement en capital n'a donc qu'un caractère dérogatoire et ne peut de ce fait être considéré comme une alternative à la rente viagère. Ce mode de versement de la prestation a été mis en place, à la création du RAFP, afin d'éviter des coûts de gestion trop élevés au regard des montants de rentes mensuelles qui auraient nécessairement été faibles pour les premiers bénéficiaires, du fait de la jeunesse du Régime. Avec sa montée en charge progressive, qui induit des périodes de cotisation plus longues, les prestations du régime vont progressivement être versées très majoritairement en rentes mensuelles.
