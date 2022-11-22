@@ -1,0 +1,9 @@
+# Réponse à la question n° 1552
+
+- Question : [1552](1552.md) — Question n° 1552 — Avenir des entreprises, formation, apprentissage, financement
+
+## Réponse
+
+*JO du 2022-11-22, page 5590*
+
+Afin d'assurer le développement de l'apprentissage et de soutenir sa montée en charge au profit des jeunes et des entreprises, la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel confie aux branches professionnelles la mission de déterminer les niveaux de prise en charge des contrats d'apprentissage en prenant en compte les recommandations de France compétences. Ces recommandations visent à assurer la convergence des niveaux de prise en charge pour une même certification ainsi qu'à garantir la meilleure adéquation possible entre les coûts de formation constatés dans les CFA et les montants qui leur sont attribués pour chaque contrat par les opérateurs de compétences. L'objectif de l'exercice de détermination des niveaux de prise en charge actuellement en cours ne constitue donc pas une mesure d'économie budgétaire mais permet de tendre vers le juste niveau de prise en charge. En ce sens, les travaux de France compétences sur la comptabilité analytique des CFA pour 2020 menés au deuxième semestre 2021 ont mis en lumière une surévaluation des niveaux de prise en charge par rapport aux coûts réels de formation. L'écart moyen constaté était ainsi de 18 %. C'est sur la base de ce constat que le conseil d'administration de france compétences, qui réunit autour de l'Etat les régions et les partenaires sociaux, a décidé d'opérer une baisse moyenne des niveaux de prise en charge de 10% en deux temps. Un premier mouvement a été opéré en septembre 2022. Concernant le second mouvement, prévu pour le printemps 2023, cette même délibération prévoit qu'il y sera procédé au regard des éléments de la comptabilité analytique des CFA pour 2021, actuellement en cours d'analyse par France compétences.
