@@ -1,0 +1,9 @@
+# Réponse à la question n° 1551
+
+- Question : [1551](1551.md) — Question n° 1551 — Versement de l'indemnité spécifique de service à la filière technique
+
+## Réponse
+
+*JO du 2022-11-22, page 5625*
+
+Le ministre de la transition écologique et de la cohésion des territoires (MTECT) rappelle l'attention portée aux agents de la filière technique au sein du ministère. Ces agents sont des acteurs opérationnels essentiels qui portent avec vigueur et compétence les politiques publiques en faveur de la transition énergétique. Depuis le 1er janvier 2021, le régime indemnitaire de l'ensemble des agents des corps techniques du pôle ministériel est désormais le régime tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel (RIFSEEP). Ce changement a mis fin à l'année de décalage du versement des droits relatifs à l'indemnité spécifique de service (ISS) pour les agents du MTECT et à l'indemnité spéciale (IS) pour les personnels fonctionnaires titulaires des corps de l'IGN. Conformément aux dispositions des décrets modifiés n° 2003-799 du 25 août 2003 et n° 2001-141 du 9 mai 2001, les droits ISS et IS acquis au titre de l'année 2020 devaient être versés en six annuités maximum à compter de 2022. Un premier versement est intervenu au cours de l'été 2022. Compte tenu de l'inflation actuellement constatée, le ministre a été alerté du fait que le versement étalé de ces droits entraîne une perte de pouvoir d'achat pour les agents concernés. Sensible à cette difficulté, il vous informe avoir sollicité et obtenu du ministre délégué des comptes publics, que les droits ISS et IS restant dus soient totalement soldés en 2022. Le ministre a demandé à la direction des ressources humaines du ministère de mettre en paie ce solde au plus vite pour les agents du pôle ministériel.
