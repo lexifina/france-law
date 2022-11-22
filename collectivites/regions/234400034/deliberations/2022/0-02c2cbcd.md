@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — 259 - Equipements et partenariats institutionnels sportifs
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2022-11-22
+- Matière : 9.3.3
+- Objet : 259 - Equipements et partenariats institutionnels sportifs
+- Transmis à la préfecture : 2022-11-22
+- Votants : 28
+- Pour : 24
+- Contre : 0
+- Abstentions : 4
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-59304.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
