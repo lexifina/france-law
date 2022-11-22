@@ -1,0 +1,9 @@
+# Réponse à la question n° 2339
+
+- Question : [2339](2339.md) — Question n° 2339 — Parution du décret d'application de la revalorisation de l'AL foyer
+
+## Réponse
+
+*JO du 2022-11-22, page 5660*
+
+Conformément à l'article 175 de la loi n° 2021-1900 du 30 décembre 2021 de finances pour 2022, qui prévoit pour les logements-foyers ultramarins un financement majoré à l'identique du barème de l'aide personnalisée au logement (APL) appliqué en métropole, un projet de décret instituant et définissant les modalités de mise en œuvre de l'ouverture au conventionnement à l'APL des logements-foyers existants et futurs (incluant les résidence sociales et les logements-foyers accueillant des personnes âgées ou des personnes handicapées) situés en Guadeloupe, Guyane, à la Martinique, La Réunion et à Mayotte, est en cours de finalisation. En outre, un projet d'arrêté unique relatif aux caractéristiques techniques des logements foyers, détaillant les caractéristiques techniques, ainsi que les plafonds de ressources et les plafonds de redevance des opérations de construction, sera publié en parallèle du décret. Dans l'objectif de s'assurer que les dispositions des projets de textes inscrivent les futurs logements-foyers dans un cadre proche des dispositions métropolitaines tout en étant adaptées aux financements du logement social en outre-mer, les travaux ont été régulièrement présentés aux territoires et départements d'outre-mer à travers les directions de l'environnement, de l'aménagement et du logement (DEAL) et les directions de l'économie de l'emploi et des solidarités (DEETS) afin de recueillir leur avis. Les autres acteurs concernés (tels que l'UNAFO, l'USH, la Fondation Abbé Pierre, l'ARMOS etc.) ont également été consultés. Ainsi le projet de décret, en cours de finalisation, fera prochainement l'objet de consultations officielles avant d'être soumis au Conseil d'État, afin d'aboutir à une publication au 1er trimestre 2023.
