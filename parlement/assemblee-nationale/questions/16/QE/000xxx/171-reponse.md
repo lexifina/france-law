@@ -1,0 +1,9 @@
+# Réponse à la question n° 171
+
+- Question : [171](171.md) — Question n° 171 — Situation du citoyen français Salah Hamouri
+
+## Réponse
+
+*JO du 2022-11-22, page 5591*
+
+La France entretient un dialogue très régulier avec les autorités israéliennes s'agissant de la situation de notre compatriote, M. Salah Hamouri. Sa situation fait l'objet d'un suivi extrêmement attentif par le Gouvernement français, de longue date et à tous les niveaux. Depuis sa dernière arrestation, les services du ministère de l'Europe et des affaires étrangères à Paris, les consulats généraux de France à Jérusalem et à Tel Aviv, ainsi que l'ambassade de France en Israël sont pleinement mobilisés pour lui apporter toute l'assistance possible. Le consulat général de France à Jérusalem lui a rendu visite les 21 mars, 19 mai et 15 juin dernier. Le consul général de France à Tel Aviv lui a également rendu visite le 8 septembre. L'ambassadeur de France en Israël lui a rendu visite le 3 octobre. Ils continueront de le faire, au titre de la protection consulaire prévue par la convention de Vienne du 24 avril 1963. En outre, le consulat général de France à Jérusalem est systématiquement présent au tribunal lors des audiences au cours desquelles M. Hamouri est amené à comparaître. Des démarches ont été engagées auprès des autorités israéliennes, notamment auprès du ministère israélien des affaires étrangères et de la présidence israélienne, pour demander que l'ensemble des droits de M. Hamouri soit respectés et à ce qu'il puisse bénéficier de toutes les voies de recours. Nous souhaitons qu'il soit libéré et réitérons également la demande qu'il puisse mener une vie normale à Jérusalem, où il est né, réside et souhaite vivre, et que son épouse et ses enfants obtiennent le droit de s'y rendre pour le retrouver.
