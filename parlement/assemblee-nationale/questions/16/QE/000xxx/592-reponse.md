@@ -1,0 +1,9 @@
+# Réponse à la question n° 592
+
+- Question : [592](592.md) — Question n° 592 — Développement des péniches à hydrogène vert
+
+## Réponse
+
+*JO du 2022-11-22, page 5643*
+
+Mode de transport déjà vertueux en soi du fait de la massification qu'il permet, le transport fluvial est engagé dans une transition écologique. Le secteur est en effet dans l'action et porte des projets structurants et parmi eux les Engagements pour la croissance verte (ECV) du secteur fluvial. Ces engagements sont une démarche fédératrice de l'ensemble des acteurs de la voie d'eau, signés à l'occasion de l'Assemblée générale d'entreprises fluviales de France (E2F) le 6 juillet 2021. Ils visent notamment à expérimenter les solutions alternatives de motorisation à faibles émissions et faciliter les expérimentations en matière de motorisation innovante avec le soutien du Plan d'aide à la modernisation et à l'innovation de la flotte (PAMI) mis en œuvre par Voies navigables de France (VNF) et dont le renouvellement est engagé. Dans ce contexte, le projet Hybarge est connu par les services du ministère de la transition écologique et de la cohésion des territoires. Il s'agit de l'un des projets pilotes en France pour la transition du transport fluvial vers les carburants alternatifs, avec un bateau propulsé par énergie électrique produite à partir d'une pile à combustible Hydrogène. Il fait à cet égard l'objet d'un accompagnement par un comité technique afin notamment de déterminer les meilleures conditions de sa réalisation et la réussite de ce projet innovant. Il bénéficie en outre d'un accompagnement financier de l'État à travers le PAMI. Ce projet adapté aux dimensions du canal de la Garonne pourrait en effet être utilisé pour le transport de gravats du métro de Toulouse, de denrées alimentaires mais plus largement il fait partie d'une dynamique de report modal vers le fleuve et la voie d'eau sur l'axe Aude-Garonne.
