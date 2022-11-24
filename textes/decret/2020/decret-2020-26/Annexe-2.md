@@ -22,7 +22,7 @@ L'ensemble des données collectées, excepté les données mentionnées au 1 bis
 
 -Direction Générale des Finances Publiques |
 
-Contrôle sur pièces ou sur site a posteriori visé au deuxième alinéa de l'article 12 |
+Contrôle sur pièces ou sur site visé au deuxième alinéa de l'article 12 |
 
 L'ensemble des données collectées, excepté les données mentionnées au 1 bis° de l'article 12-2 du présent décret |
 
@@ -34,7 +34,21 @@ L'ensemble des données collectées, excepté les données mentionnées au 1 bis
 
 -Agence nationale de l'habitat et ses prestataires
 
--Services des ministères chargés du logement, de l'énergie, de l'économie et du budget |
+-Services des ministères chargés du logement, de l'énergie, de l'économie et du budget
+
+- Agence créée par la loi n° 90-1130 du 19 décembre 1990
+
+|
+
+Suivi et évaluation des politiques publiques en matière de rénovation énergétique ainsi que des crédits budgétaires dédiés au plan de relance et enquêtes d'évaluation auprès des usagers visés au 1 bis du troisième alinéa de l'article 12 |
+
+L'ensemble des données collectées, excepté les données mentionnées au 1 bis, au 3 bis, et au 4° de l'article 12-2 du présent décret |
+
+-Agence nationale de l'habitat et ses prestataires
+
+-Services du Premier ministre
+
+-Services des institutions européennes |
 
 Suivi statistique de la rénovation énergétique visé au 2° du troisième alinéa de l'article 12 |
 
@@ -42,7 +56,7 @@ L'ensemble des données collectées, excepté les données mentionnées au 1 bis
 
 -Agence nationale de l'habitat et ses prestataires
 
--Service statistique des ministères chargés du logement et de l'énergie |
+-Service statistique des ministères chargés du logement, de l'énergie, de l'économie et du budget |
 
 Proposition aux bénéficiaires des dispositifs d'aides à la rénovation énergétique mis en place par les collectivités locales concernées visée au 3° du troisième alinéa de l'article 12 |
 
@@ -66,8 +80,14 @@ L'ensemble des données collectées, excepté les données mentionnées au 1 bis
 
 Contrôle de la qualité des travaux réalisés visé au 5° du troisième alinéa de l'article 12 |
 
-Données mentionnées au 6°, 7° et 8° de l'article 12-2 du présent décret. |
+Données mentionnées aux 1°, 2°, 6°, 7° et 8° de l'article 12-2 du présent décret. |
 
 -Agence créée par la loi n° 90-1130 du 19 décembre 1990
 
 -Organismes de qualification et de certification mentionnés au I de l'article 2 du décret du 16 juillet 2014 susvisé |
+
+Contrôle et suivi dans le cadre des prêts réglementés pour le financement de travaux d'amélioration de la performance énergétique ouvrant droit à la prime de transition énergétique |
+
+L'ensemble des données collectées, excepté les données mentionnées au 1 bis, 3 bis et au 4° de l'article 12-2 du présent décret |
+
+-A l'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation |
