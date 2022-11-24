@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902617
+
+- Question : [SEQ220902617](seq220902617.md) — Travaux sur la route nationale 10
+
+## Réponse
+
+*Transports, JO du 2022-11-24, page 5955*
+
+Le Gouvernement tient à rappeler son engagement pour l'aménagement de la RN 10 entre Poitiers et Bordeaux. Les financements mis en place dans le cadre du contrat de plan État-Région (CPER) actuel ont notamment permis l'achèvement de la mise à 2 x 2 voies de l'itinéraire, avec la mise en service de la section Reignac-Chevanceaux en 2020. L'État mène également plusieurs actions visant à sécuriser cet itinéraire, en particulier dans la Vienne où un projet consistant à supprimer les derniers carrefours plans a été engagé. L'opération a été déclarée d'utilité publique par arrêté préfectoral en date du 18 décembre 2020 à l'issue d'une enquête publique qui s'est déroulée du 17 août au 16 septembre sur l'ensemble des communes concernées par le projet, dont celle de Vivonne. Elle est inscrite au CPER actuel pour un montant de 38,5 M€, entièrement apportés par l'État. Le programme d'aménagement se décompose en trois secteurs principaux : Croutelle-Ligué, Ruffigny-Vivonne et Vivonne-Les Minières (du nord au sud). Les travaux sur le premier secteur ont débuté en octobre 2021 et seront achevés dans le courant de l'année 2023. Dans les deux autres secteurs, une enquête parcellaire s'est déroulée du 22 août au 9 septembre 2022 afin de déterminer les propriétaires des parcelles concernées par l'opération. Les études de projet sont en cours de finalisation, ce qui devrait permettre d'engager les travaux en 2023 pour une durée de deux ans. La poursuite des travaux d'aménagement de la RN 10 sera étudiée dans le cadre de la prochaine contractualisation qui sera négociée entre l'État et la région pour la période 2023-2027.
