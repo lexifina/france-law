@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003588
+
+- Question : [SEQ221003588](seq221003588.md) — Financements et travaux d'entretien et de réparation des sauts-de-mouton
+
+## Réponse
+
+*Transports, JO du 2022-11-24, page 5954*
+
+L'ouvrage visé par la question n'est pas situé sur la LGV Est mais sur la ligne classique n° 070 000 du réseau ferré national reliant Noisy-le-Sec à Strasbourg, mise en service entre 1849 et 1852. La construction, en 1928, du pont-route portant le chemin de la Forge lui est par conséquent postérieure. Ainsi, cet ouvrage est un ouvrage de franchissement et non de rétablissement, ce qui l'exclut des dispositions de la loi n° 2014-774 du 7 juillet 2014, dite « Loi Didier ». Il ne figure d'ailleurs pas dans le recensement effectué en application de cette loi en 2019. Conformément à la jurisprudence du Conseil d'État (CE, 14 décembre 1906, Préfet de l'Hérault, rec. p. 918), « les ponts sont au nombre des ouvrages constitutifs des voies publiques dont ils relient les parties séparées de façon à assurer la continuité du passage ». Cette jurisprudence est complétée par un arrêt du Conseil d'État du 26 septembre 2001 qui impose au propriétaire de la voie portée d'entretenir l'ouvrage, sauf convention contraire (CE, 26 septembre 2001, Département de la Somme, req. n° 219 338, LPA18 janvier 2002, n° 14, p. 14, concl. G. Bachelier). Il appartient donc à la commune d'Imling d'entretenir l'ouvrage d'art supportant le chemin de la Forge. La garantie de sécurité des ouvrages surplombant le réseau ferré national étant une condition sine qua non des circulations ferroviaires, SNCF Réseau est tenu de vérifier leur bon état. Ainsi depuis 1998, le gestionnaire d'infrastructure a régulièrement signalé à la commune d'Imling des désordres et des pathologies concernant le pont-route portant le « Chemin de la Forge » : armatures apparentes, éléments de béton instables, dégradation du béton, …
