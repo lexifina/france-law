@@ -1,0 +1,95 @@
+# Article Annexe 6
+
+ANNEXE 6
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 5E CATÉGORIE
+
+DIR |
+
+RÉFÉRENCE |
+
+FAMILLE |
+
+LIBELLÉ |
+
+DATE D'EFFET |
+
+Aveyron |
+
+012017 |
+
+SGC |
+
+RODEZ |
+
+01/01/2023 |
+
+Loire |
+
+042012 |
+
+SIP |
+
+SAINT-ETIENNE NORD |
+
+01/01/2023 |
+
+Nord |
+
+059051 |
+
+SIE |
+
+LILLE NORD |
+
+01/01/2023 |
+
+Nord |
+
+059066 |
+
+SIE |
+
+DOUAI |
+
+01/01/2023 |
+
+Hauts-de-Seine |
+
+092015 |
+
+SIP |
+
+COURBEVOIE |
+
+01/01/2023 |
+
+Hauts-de-Seine |
+
+092020 |
+
+SIP |
+
+LEVALLOIS-PERRET |
+
+01/01/2023 |
+
+Hauts-de-Seine |
+
+092068 |
+
+SIE |
+
+VANVES |
+
+01/01/2023 |
+
+Val-de-Marne |
+
+094052 |
+
+SIE |
+
+CHAMPIGNY-SUR-MARNE |
+
+01/01/2023 |

@@ -1,0 +1,395 @@
+# Article Annexe 2
+
+ANNEXE 2
+
+LISTE DES EMPLOIS DE CHEF DE SERVICE COMPTABLE DE 1RE CATÉGORIE
+
+DIR |
+
+RÉFÉRENCE |
+
+FAMILLE |
+
+LIBELLÉ |
+
+DATE D'EFFET |
+
+Bouches-du-Rhône |
+
+013018 |
+
+SGC |
+
+MARSEILLE METROPOLE AMP |
+
+01/01/2023 |
+
+Bouches-du-Rhône |
+
+013019 |
+
+TH |
+
+MARSEILLE ASSISTANCE PUBLIQUE |
+
+01/01/2023 |
+
+Calvados |
+
+014066 |
+
+SIP |
+
+CAEN |
+
+01/01/2023 |
+
+Charente-Maritime |
+
+017009 |
+
+SIP |
+
+LA ROCHELLE |
+
+Courant 2023 |
+
+Côte-d'Or |
+
+021012 |
+
+SIP |
+
+DIJON ET AMENDES |
+
+Courant 2023 |
+
+Côte-d'Or |
+
+021014 |
+
+TH |
+
+DES HOPITAUX DE COTE D'OR |
+
+01/01/2023 |
+
+Drôme |
+
+026027 |
+
+SGC |
+
+NORD DRÔME |
+
+01/01/2023 |
+
+Gard |
+
+030016 |
+
+SIP |
+
+NIMES |
+
+01/01/2023 |
+
+Haute-Garonne |
+
+031035 |
+
+SGC |
+
+TOULOUSE MUNICIPALE |
+
+01/01/2023 |
+
+Haute-Garonne |
+
+031090 |
+
+TS |
+
+HAUTE-GARONNE |
+
+01/01/2023 |
+
+Gironde |
+
+033017 |
+
+SGC |
+
+BORDEAUX METROPOLE |
+
+01/01/2023 |
+
+Ille-et-Vilaine |
+
+035050 |
+
+TA |
+
+CONTROLE AUTOMATISE |
+
+01/01/2023 |
+
+Moselle |
+
+057030 |
+
+TS |
+
+METZ MUNICIPALE |
+
+01/07/2023 |
+
+Nord |
+
+059025 |
+
+TH |
+
+HOSPITALIERE LILLE |
+
+01/01/2023 |
+
+Puy-de-Dôme |
+
+063011 |
+
+SGC |
+
+CLERMONT METROPOLE ET AMENDES |
+
+01/01/2023 |
+
+Bas-Rhin |
+
+067058 |
+
+SGC |
+
+STRASBOURG ET EUROMETROPOLE |
+
+01/01/2023 |
+
+Rhône |
+
+069019 |
+
+SGC |
+
+LYON VILLE ET METROPOLE |
+
+01/01/2023 |
+
+Rhône |
+
+069022 |
+
+TH |
+
+HOSPITALIERE METROPOLE DE LYON |
+
+01/01/2023 |
+
+Savoie |
+
+073010 |
+
+SGC |
+
+CHAMBERY |
+
+01/01/2023 |
+
+Haute-Savoie |
+
+074045 |
+
+SIP-SIE |
+
+SEYNOD |
+
+01/01/2023 |
+
+Paris |
+
+075010 |
+
+SIP |
+
+PARIS 7E |
+
+01/01/2023 |
+
+Paris |
+
+075037 |
+
+SIP |
+
+PARIS 17E |
+
+01/01/2023 |
+
+Paris |
+
+075050 |
+
+PRS |
+
+PARISIEN 2 |
+
+01/01/2023 |
+
+Paris |
+
+075051 |
+
+SIE |
+
+PARIS 1E-2E |
+
+01/01/2023 |
+
+Paris |
+
+075056 |
+
+SIE |
+
+PARIS 9E |
+
+01/01/2023 |
+
+Paris |
+
+075066 |
+
+TS |
+
+CENTRE D'ACTION SOCIALE DE PARIS |
+
+01/01/2023 |
+
+Paris |
+
+075077 |
+
+SIP |
+
+PARIS CENTRE |
+
+01/01/2023 |
+
+Paris |
+
+075088 |
+
+SIE |
+
+PARIS 8E ELYSEES |
+
+01/01/2023 |
+
+Paris |
+
+075091 |
+
+SIE |
+
+PARIS 8E MADELEINE |
+
+01/01/2023 |
+
+Paris |
+
+075703 |
+
+SIE |
+
+PARIS 17E |
+
+01/01/2023 |
+
+Seine-Maritime |
+
+076035 |
+
+SIP |
+
+ROUEN |
+
+01/01/2023 |
+
+Seine-et-Marne |
+
+077016 |
+
+SIP |
+
+MELUN |
+
+01/01/2023 |
+
+Hauts-de-Seine |
+
+092051 |
+
+SIE |
+
+CLICHY |
+
+01/01/2023 |
+
+Val-de-Marne |
+
+094036 |
+
+SGC |
+
+CRETEIL |
+
+01/09/2023 |
+
+Val-de-Marne |
+
+094047 |
+
+SIE |
+
+NOGENT-SUR-MARNE |
+
+01/01/2023 |
+
+Val-d'Oise |
+
+095044 |
+
+SIE |
+
+VAL-D'OISE OUEST |
+
+01/01/2023 |
+
+DGE |
+
+940001 |
+
+SIE |
+
+POSTE COMPTABLE DE LA DGE |
+
+01/01/2023 |
+
+DINR |
+
+903001 |
+
+SIP |
+
+NON RESIDENTS |
+
+01/01/2023 |
