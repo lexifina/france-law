@@ -14,9 +14,11 @@ La fourniture de conseils porte sur les éléments suivants :
 
 -la production d'eau chaude sanitaire, le cas échéant ;
 
--les systèmes de régulation et de contrôle de température ;
+-les systèmes de régulation et de contrôle de température et l'intérêt d'installer un système de régulation automatique de la température tel que mentionné au septième paragraphe de l'annexe 1 ;
 
--le réseau de distribution : l'intérêt de procéder à un désembouage ainsi qu'à un rééquilibrage du réseau ;
+-pour les bâtiments dans lesquels sont exercées des activités tertiaires marchandes ou non marchandes, y compris ceux appartenant à des personnes morales du secteur primaire ou secondaire, équipés d'une chaudière dont la puissance nominale utile est supérieure à 70 kW, le système d'automatisation et de contrôle des bâtiments, le cas échéant, et l'intérêt d'en installer un, en particulier pour les systèmes de plus de 290 kW, en cohérence avec l'article R. 175-2 du code de la construction et de l'habitation l'imposant à partir du 1er janvier 2025 ;
+
+-le réseau de distribution : l'intérêt de procéder à un désembouage ainsi qu'à un rééquilibrage du réseau et l'intérêt de réaliser une isolation supérieure ou égale à 4 selon la norme NF EN 12 828 + A1 : 2014 des réseaux de distribution de chaleur servant au chauffage ou à l'eau chaude sanitaire, y compris ceux raccordés à un réseau de chaleur, et situés hors du volume chauffé ;
 
 -les émetteurs de chaleur, notamment l'adéquation de leur température d'utilisation optimale avec le générateur ;
 
@@ -31,3 +33,5 @@ Les recommandations pour l'amélioration couvrent les champs suivants :
 -fonctionnement incorrect du système, des sous-systèmes ou des composants ;
 
 -remplacement du système, des sous-systèmes et des composants.
+
+Les conseils et recommandations mentionnés précédemment respectent et précisent, le cas échéant, les recommandations-types relatives à l'entretien des chaudières émanant du ministère en charge de l'énergie et du ministère en charge de la construction et publiées sur un site internet qu'ils définissent.

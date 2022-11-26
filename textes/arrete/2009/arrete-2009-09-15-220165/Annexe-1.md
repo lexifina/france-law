@@ -99,3 +99,27 @@ Le contrôle du circuit hydraulique doit être réalisé et comporte a minima le
 ― vérification du fonctionnement du circulateur ;
 
 ― contrôle de la pression de gonflage des vases d'expansion avec regonflage si nécessaire.
+
+-dans les parties accessibles d'un bâtiment ou d'une partie de bâtiment d'habitation collectif ou d'un bâtiment ou d'une partie de bâtiment dans lequel sont exercées des activités tertiaires marchandes ou non marchandes, y compris celui appartenant à une personne physique ou morale du secteur primaire ou secondaire, et si le contrôle n'a pas été indiqué dans un précédent rapport d'entretien de la chaudière, contrôle de la présence et de l'état d'isolation des réseaux de distribution de chaleur servant au chauffage ou à l'eau chaude sanitaire, y compris ceux raccordés à un réseau de chaleur, et situés hors du volume chauffé.
+
+7. Dans les parties accessibles du bâtiment, l'entretien doit comporter la vérification de la présence ou non d'un système de régulation automatique de la température de chauffage, c'est-à-dire l'équipement ou la combinaison des équipements agissant sur le système de chauffage et permettant :
+
+-la régulation automatique par pièce ou, si cela est justifié, par zone de chauffage de la température intérieure de consigne ;
+
+-la commande manuelle et la programmation de la température intérieure de consigne selon a minima les allures suivantes : confort, réduit, avec une commutation automatique entre ces deux allures et hors gel (pour les systèmes de chauffage uniquement) et arrêt, avec une commutation automatique ou manuelle entre l'ensemble des allures. La programmation se fait a minima à un pas de temps horaire ;
+
+-la régulation de la production de chaleur afin de répondre aux points précédents. Les systèmes de chauffage central à eau, sauf incompatibilité technique entre ce système de chauffage et le régulateur, sont équipés pour ce faire d'un régulateur relevant de l'une des classes IV, V, VI, VII ou VIII telles que définies au paragraphe 6.1 de la communication de la Commission 2014/ C 207/02 dans le cadre du règlement (UE) n° 813/2013.
+
+L'entretien doit comporter la vérification du bon fonctionnement du système de régulation :
+
+-vérification de la température de départ d'eau via un équipement d'affichage ou de mesure présent sur l'installation, le cas échéant ;
+
+-vérification du fonctionnement des sondes de température, le cas échéant ;
+
+-vérification du positionnement et du fonctionnement des robinets thermostatiques, le cas échéant ;
+
+-vérification de la mise en place d'une programmation horaire cohérente selon les modes disponibles et en adéquation avec les usages du bâtiment, le cas échéant ;
+
+-vérification de la cohérence de la température de départ d'eau selon les modes disponibles, le cas échéant.
+
+8. Pour les bâtiments dans lesquels sont exercées des activités tertiaires marchandes ou non marchandes, y compris ceux appartenant à des personnes morales du secteur primaire ou secondaire, équipés d'une chaudière dont la puissance nominale utile est supérieure à 70 kW, l'entretien doit comporter la vérification de la présence ou non d'un système d'automatisation et de contrôle des bâtiments vérifiant les caractéristiques indiquées à l'article R. 175-3 du code de la construction et de l'habitation. La présence d'un tel système est obligatoire à partir du 1er janvier 2025 pour les systèmes de plus de 290 kW, conformément à l'article R. 175-2 du code de la construction et de l'habitation.
