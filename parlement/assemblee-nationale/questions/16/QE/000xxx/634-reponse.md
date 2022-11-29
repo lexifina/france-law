@@ -1,0 +1,9 @@
+# Réponse à la question n° 634
+
+- Question : [634](634.md) — Question n° 634 — Revalorisation du traitement des salariés des CCI
+
+## Réponse
+
+*JO du 2022-11-29, page 5803*
+
+La valeur du point d'indice des agents publics des chambres de commerce et d'industrie (CCI), qui s'élève à 4,666 €, n'avait effectivement pas été réévaluée depuis le 1er juillet 2010. Pour autant, leur rémunération, comme celle des fonctionnaires, a globalement évolué notamment du fait des promotions et de mesures à caractère individuel. La réévaluation du point d'indice des agents publics des CCI ne peut pas être opérée selon les modalités prévues pour les fonctionnaires. Les agents publics des CCI sont en effet régis par un statut prévu par la loi n° 52-1311 du 10 décembre 1952. Ainsi, la valeur du point d'indice des agents publics des CCI a été déterminée par un accord sur la classification nationale des emplois, conclu en commission paritaire nationale des CCI, qui associe les représentants des CCI employeurs et les organisations syndicales les plus représentatives. Depuis l'entrée en vigueur de la loi « Plan d'action pour la croissance et la transformation des entreprises » (PACTE), en mai 2019, les principes de gestion des personnels du réseau ont été profondément modifiés. Les CCI recrutant, depuis cette date, uniquement des personnels de droit privé, les modalités de gestion et notamment les questions de rémunération, de tous les personnels des CCI, y compris les agents publics, relèvent désormais d'une approche globale, dans le cadre de la négociation collective prévue par le code du travail. La négociation collective avec les représentants du personnel, désignés par les organisations syndicales représentatives à la suite des élections qui se sont déroulées en juin 2022, a débuté en septembre 2022. Un premier accord a été trouvé, début octobre, pour augmenter de 3,5 % le point d'indice des agents sous statut des CCI, avec effet au 1er juillet 2022.
