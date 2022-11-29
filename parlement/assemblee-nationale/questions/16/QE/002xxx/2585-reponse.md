@@ -1,0 +1,9 @@
+# Réponse à la question n° 2585
+
+- Question : [2585](2585.md) — Question n° 2585 — Garde alternée et égalité de droits
+
+## Réponse
+
+*JO du 2022-11-29, page 5818*
+
+En application de l'article L. 521-2 du code de la sécurité sociale, en cas de résidence alternée de l'enfant mise en œuvre de manière effective, les parents peuvent bénéficier du partage des allocations familiales. Le partage du complément de libre choix du mode de garde (CMG) en cas d'emploi direct du salarié assurant la garde d'un enfant est prévu dans le cadre du projet de loi de financement de la sécurité sociale (PLFSS) pour 2023. Ainsi en cas de garde alternée de l'enfant, chacun des parents éligibles à la prestation pourra bénéficier du CMG au titre de cet enfant. Il est prévu que cette mesure entre en vigueur à l'horizon décembre 2025, pour tenir compte des développements informatiques nécessaires aux organismes assurant la gestion et le versement de cette prestation (caisses de la mutualité sociale agricole, caisses d'allocations familiales et service Pajemploi de l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales). Cette mesure interviendra une fois que la réforme du mode de calcul de la prestation (CMG horaire et linéaire), prévue dans le cadre de ce même PLFSS, aura été mise en oeuvre. Le nouveau mode de calcul rendant le montant du CMG directement proportionnel au nombre d'heures de garde, chaque parent pourra en effet bénéficier d'un montant de CMG strictement fonction de son recours. S'agissant des autres prestations familiales, les parents qui ont leur enfant en garde alternée ont la possibilité de demander une alternance de l'allocataire à l'issue d'une période minimale d'un an. C'est la compatibilité de cette alternance avec le principe de l'allocataire unique, prévu à l'article R. 513-1 du code de la sécurité sociale, qui a été confirmée par la première chambre civile de la Cour de cassation dans son avis du 26 juin 2006.
