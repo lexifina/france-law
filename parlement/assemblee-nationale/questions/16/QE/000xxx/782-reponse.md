@@ -1,0 +1,9 @@
+# Réponse à la question n° 782
+
+- Question : [782](782.md) — Question n° 782 — Passage à l'orange des feux tricolores
+
+## Réponse
+
+*JO du 2022-11-29, page 5839*
+
+Les signaux pouvant être implantés sur les voies ouvertes à la circulation publique sont définis par l'arrêté du 24 novembre 1967 modifié relatif à la signalisation des routes et autoroutes. Cet arrêté fixe les principes de fonctionnement des feux de circulation et précise que « les signaux du système tricolore se composent de trois feux, respectivement rouge, jaune et vert, non clignotants. Les couleurs se succèdent dans l'ordre vert, jaune, rouge, vert, etc. Exceptionnellement, le feu vert peut être remplacé par un feu jaune clignotant ». En cas de circulation alternée, le principe est le même. Les couleurs se succèdent de façon cyclique, sans chevauchement ni période d'extinction du signal, dans l'ordre suivant : vert (ou jaune clignotant) sur le feu inférieur, jaune fixe communément dénommé « feu orange » sur le feu médian et rouge sur le feu supérieur. Ces dispositions sont conformes à la convention de Vienne du 8 novembre 1968, qui ouvre également la possibilité de montrer le feu jaune en même temps que le feu rouge pour permettre aux conducteurs de se préparer à démarrer. Dans ce cas, le feu jaune signifie que le signal est sur le point de changer, mais il ne modifie pas l'interdiction de passer signifiée par le feu rouge. A l'heure actuelle, cette possibilité, tout comme celle des compteurs de durée de feu pour les automobilistes, n'a pas été retenue en France. La réglementation fait toutefois l'objet d'évolutions régulières. Si plusieurs collectivités locales sollicitaient l'expérimentation de cette nouvelle signalisation et que le bilan était positif, de nouvelles dispositions pourraient être intégrées dans l'arrêté du 24 novembre 1967 précité.
