@@ -1,0 +1,10 @@
+# proposition de loi sur la proposition de loi de Mmes Émilienne Poumirol, Monique Lubin, MM. Patrick Kanner, Maurice Antiste, Mme Viviane Artigalas, MM. David Assouline, Joël Bigot, Mmes Florence Blatrix Contat, Nicole Bonnefoy, MM. Denis Bouad, Hussein Bourgi, Mme Isabelle Briquet, M. Rémi Cardon, Mme Marie-Arlette Carlotti, M. Yan Chantrel, Mmes Catherine Conconne, Hélène Conway-Mouret, Hélène Conway-Mouret, MM. Thierry Cozic, Gilbert-Luc Devinaz, Gilbert-Luc Devinaz, Jérôme Durain, Vincent Éblé, Mme Frédérique Espagnac, M. Rémi Féraud, Mmes Corinne Féret, Martine Filleul, M. Hervé Gillé, Mme Laurence Harribey, MM. Jean-Michel Houllegatte, Olivier Jacquin, Mme Victoire Jasmin, M. Éric Jeansannetas, Mme Gisèle Jourda, M. Éric Kerrouche, Mme Marie-Pierre de la Gontrie, MM. Jean-Yves Leconte, Jean-Jacques Lozach, Victorin Lurel, Jacques-Bernard Magner, Didier Marie, Serge Merillou, Mme Michelle Meunier, M. Jean-Jacques Michau, Mme Marie-Pierre Monier, MM. Franck Montaugé, Sebastien Pla, Mme Angèle Préville, MM. Claude Raynal, Christian Redon-Sarrazy, Mme Sylvie Robert, M. Gilbert Roger, Mmes Laurence Rossignol, Laurence Rossignol, MM. Lucien Stanzione, Jean-Pierre Sueur, Rachid Temal, Jean-Claude Tissot, Jean-Marc Todeschini, Jean-Marc Todeschini, Mickaël Vallet, André Vallini, André Vallini, Mme Sabine Van Heghe, M. Yannick Vaugrenard et Mme Annie Le Houerou visant à rétablir l'équité territoriale face aux déserts médicaux et à garantir l'accès à la santé pour tous (68).
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : visant à rétablir l'équité territoriale face aux déserts médicaux et à garantir l'accès à la santé pour tous
+- Déposé le : 2022-11-30
+- Dossier : DLR5L16N46527
+- Auteurs : Mme Annie Le Houerou (rapporteur), Commission des affaires sociales
+- Identifiant : PIONSNR5S399BTC0158
