@@ -1,7 +1,0 @@
-# Article 6 [Thème n° 4 au choix]
-
-Choisir parmi : l'amélioration des conditions de travail, notamment sur le plan organisationnel ; le développement des compétences et des qualifications ; l'aménagement des fins de carrière ; le maintien en activité des salariés exposés aux facteurs de pénibilité.
-
-Définir un objectif de progression retenu, les actions et mesures de prévention pour l'atteindre, les indicateurs chiffrés, et éventuellement le coût.
-
-Préciser les mesures de nature à permettre aux titulaires d'un compte professionnel de prévention d'affecter les points qui y sont inscrits au financement d'une formation ou du passage à temps partiel.

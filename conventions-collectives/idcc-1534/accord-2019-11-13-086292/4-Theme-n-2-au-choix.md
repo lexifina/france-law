@@ -1,5 +1,0 @@
-# Article 4 [Thème n° 2 au choix]
-
-Choisir parmi : la réduction des poly-expositions aux facteurs de pénibilité ; l'adaptation et l'aménagement du poste de travail ; la réduction des expositions aux facteurs de pénibilité.
-
-Définir un objectif de progression retenu, les actions et mesures de prévention pour l'atteindre, les indicateurs chiffrés, et éventuellement le coût.
