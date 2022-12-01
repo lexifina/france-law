@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902757
+
+- Question : [SEQ220902757](seq220902757.md) — Délais pour les rendez-vous dans les consulats
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2022-12-01, page 6063*
+
+Comme en France métropolitaine, les services consulaires ont fait face à une très forte demande et à un allongement des délais de rendez-vous. Cette situation découle d'un effet « rattrapage », à la suite de la baisse de la demande durant la pandémie de Covid-19, ainsi qu'à un afflux de demandes à l'approche des congés estivaux. Plusieurs services consulaires ont enregistré une hausse de la demande de 25 à 35% supérieure aux chiffres constatés habituellement. Les mesures de modernisation développées par ce ministère ont déjà permis d'optimiser le temps de délivrance des titres, avec notamment la mise en place de l'envoi postal sécurisé des passeports à domicile dans 34 pays. Le Ministère de l'Europe et des Affaires étrangères (MEAE) travaille avec le ministère de l'Intérieur à une extension de ce dispositif aux cartes nationales d'identité. Une nouvelle application de rendez-vous a également été mise en place dans les services consulaires à l'étranger, pour faciliter la prise de rendez-vous pour les usagers. Depuis avril 2022, l'application RVConsulat est progressivement adoptée par les postes consulaires du réseau. Au total, 130 postes l'utilisent, pour un total de 90.000 rendez-vous réservés en juillet 2022. Dès le mois d'octobre 2022, une "liste d'attente" a été mise en place. Cette fonctionnalité permet désormais aux usagers ne trouvant pas de rendez-vous disponible sur le site de s'inscrire pour être informés par courriel de la mise en ligne de nouveaux créneaux de rendez-vous. Des tests effectués à la mi-novembre ont permis de vérifier que ces notifications automatiques fonctionnaient, notamment pour les consulats de Lisbonne, Madrid et Montréal.
