@@ -6,9 +6,7 @@ I. - Emplois hors établissement public relevant de la tutelle du ministre de la
 
 GROUPES D'EMPLOIS |
 
-AUTORITÉS |
-
-|
+AUTORITES |
 
 PART FONCTIONNELLE |
 
@@ -46,6 +44,10 @@ Le chef du cabinet militaire du ministre de la défense (1). |
 
 Le chef du cabinet militaire du ministre de la défense (1). |
 
+Le délégué général pour l'armement (2). |
+
+Le délégué général pour l'armement (2). |
+
 Le secrétaire général pour l'administration (2). |
 
 Le secrétaire général pour l'administration (2). |
@@ -64,7 +66,7 @@ Le directeur central adjoint du service de santé des armées (7). |
 
 Le directeur central adjoint du service du commissariat des armées (7). |
 
-(1) Pour les emplois ne relevant pas de l'autorité organique du chef d'état-major des armées ou du secrétaire général pour l'administration.
+(1) Pour les emplois ne relevant pas de l'autorité organique du chef d'état-major des armées, du délégué général pour l'armement ou du secrétaire général pour l'administration.
 
 (2) Pour les emplois relevant de son autorité organique.
 
