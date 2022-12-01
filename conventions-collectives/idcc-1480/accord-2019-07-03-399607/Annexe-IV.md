@@ -6,42 +6,40 @@ Salaires mensuels bruts minima garantis
 
 Salaires mensuels bruts minima garantis pour la durée légale de travail effectif des salariés à temps complet (35 heures par semaine) :
 
-Groupe
+Groupe de qualification |
 
-de qualification |
+Salaire mensuel brut
 
-Salaire mensuel
-
-brut minimum garanti |
+minima garanti |
 
 Groupe 1 |
 
-1 771 € |
+1 829 € |
 
 Groupe 2 |
 
-1 973 € |
+2 028 € |
 
 Groupe 3 |
 
-2 176 € |
+2 226 € |
 
 Groupe 4 |
 
-2 378 € |
+2 426 € |
 
 Groupe 5 |
 
-2 631 € |
+2 677 € |
 
 Groupe 6 |
 
-2 884 € |
+2 928 € |
 
 Groupe 7 |
 
-3 137 € |
+3 179 € |
 
 Groupe 8 |
 
-3 491 € |
+3 531 € |

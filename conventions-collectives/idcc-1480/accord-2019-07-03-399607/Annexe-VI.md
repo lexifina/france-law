@@ -2,7 +2,7 @@
 
 Annexe VI
 
-Salaires mensuels bruts minima garantis pour les agences de presse audiovisuelles. – Mesures transitoires à durée déterminée
+Salaires mensuels bruts minima garantis pour les agences de presse audiovisuelles.   Mesures transitoires à durée déterminée
 
 Groupe
 
@@ -48,6 +48,12 @@ Secrétaire de rédaction débutant |
 
 1 771 € |
 
+1 771 € |
+
+1 829 € |
+
+1 829 € |
+
 Groupe 2 |
 
 Rédacteur-reporter junior
@@ -70,9 +76,9 @@ Rédacteur maquettiste junior |
 
 2 082 € |
 
-2 038 € |
+2 093 € |
 
-1 994 € |
+2 028 € |
 
 Secrétaire de rédaction junior |
 
@@ -82,7 +88,7 @@ Secrétaire de rédaction junior |
 
 2 094 € |
 
-2 022 € |
+2 028 € |
 
 Groupe 3 |
 
@@ -106,9 +112,9 @@ Rédacteur maquettiste confirmé |
 
 2 246 € |
 
-2 214 € |
+2 264 € |
 
-2 182 € |
+2 226 € |
 
 Secrétaire de rédaction confirmé |
 
@@ -136,9 +142,9 @@ Rédacteur-reporter-présentateur expert |
 
 2 410 € |
 
-2 390 € |
+2 438 € |
 
-2 370 € |
+2 426 € |
 
 Grand reporter |
 
@@ -148,11 +154,11 @@ Grand reporter |
 
 2 474 € |
 
-2 412 € |
+2 426 € |
 
 Éditeur photo expert
 
-Editeur numérique expert
+Éditeur numérique expert
 
 Rédacteur maquettiste expert |
 
@@ -160,9 +166,9 @@ Rédacteur maquettiste expert |
 
 2 410 € |
 
-2 390 € |
+2 438 € |
 
-2 370 € |
+2 426 € |
 
 Secrétaire de rédaction expert |
 
@@ -186,7 +192,7 @@ Chef de projet éditorial |
 
 2 930 € |
 
-2 820 € |
+2 866 € |
 
 2 710 € |
 
@@ -206,9 +212,9 @@ Chef de service adjoint |
 
 2 636 € |
 
-2 624 € |
+2 866 € |
 
-2 612 € |
+2 677 € |
 
 Éditorialiste |
 
@@ -230,9 +236,9 @@ Chef de bureau |
 
 3 030 € |
 
-2 970 € |
+3 014 € |
 
-2 910 € |
+2 928 € |
 
 Groupe 7 |
 
@@ -242,7 +248,7 @@ Secrétaire général de la rédaction |
 
 3 509 € |
 
-3 372 € |
+3 414 € |
 
 3 236 € |
 
@@ -264,6 +270,6 @@ Rédacteur en chef |
 
 4 282 € |
 
-4 021 € |
+4 061 € |
 
 3 761 € |
