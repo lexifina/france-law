@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003324
+
+- Question : [SEQ221003324](seq221003324.md) — Baisse du financement des associations de consommateurs
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-12-01, page 6089*
+
+Jusqu'en 2018, les crédits d'intervention de la direction générale de la concurrence, de la consommation et de la répression des fraudes ont en effet diminué (-34 % entre 2017 et 2022), et cette baisse a été répercutée de manière homothétique entre les associations. Depuis 2018, une logique de différenciation a cependant été initiée, la politique de financement du mouvement consumériste ayant recentré progressivement les subventions sur les associations les plus actives, c'est à dire les structures exerçant une forte activité en matière de protection des consommateurs, dans plusieurs secteurs de la consommation, et disposant d'un important maillage territorial permettant de toucher, notamment, les publics les plus fragiles en milieu urbain, périurbain et rural. Cette approche a donc limité l'impact de la baisse de la dotation budgétaire pour les associations les mieux implantées sur le territoire ainsi que sur celles qui ont engagé des regroupements afin de les encourager à poursuivre leurs démarches en ce sens. Le Gouvernement est conscient de l'importance de l'effort d'adaptation qui a été accompli par les structures qui composent le mouvement consumériste et des conséquences engendrées sur leurs salariés et les actions menées. C'est pourquoi, en dépit du contexte de réduction de la dépense publique, le montant des crédits ouverts en loi de finances pour 2022 a été stabilisé afin de reconduire le niveau de subvention attribué en 2021 aux associations. Par ailleurs, le Gouvernement a décidé d'inscrire un montant identique au projet de loi de finances pour 2023.
