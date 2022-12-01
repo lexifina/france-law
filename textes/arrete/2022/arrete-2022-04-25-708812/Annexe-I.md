@@ -48,7 +48,7 @@ C. - Emplois relevant du groupe 1 :
 
 8° Chef du cabinet militaire du ministre de la défense ;
 
-9° Directeur du cabinet du directeur général de la sécurité extérieure ;
+9° Directeur général adjoint de la sécurité extérieure ;
 
 10° Inspecteur général du service de santé des armées ;
 
@@ -78,7 +78,7 @@ D. - Emplois relevant du groupe 2 :
 
 1° Conseiller du Gouvernement pour la défense ;
 
-2° Directeur des opérations de la direction générale de la sécurité extérieure ;
+2° Officier général en charge du contrôle et de l'emploi des moyens militaires du service action de la direction générale de la sécurité extérieure ;
 
 3° Officier général " commandant de la cyber défense " ;
 
@@ -130,7 +130,7 @@ E. - Emplois relevant du groupe 3 :
 
 2° Directeur de la sécurité aéronautique d'Etat ;
 
-3° Directeur technique adjoint en charge des opérations de la direction générale de la sécurité extérieure ;
+3° Adjoint au directeur technique et de l'innovation de la direction générale de la sécurité extérieure ;
 
 4° Sous-chef d'état-major " opérations aéroterrestres " de l'état-major de l'armée de terre ;
 
@@ -836,4 +836,4 @@ G. - Emplois relevant du groupe 5 :
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 29 août 2022 (NOR : ARMH2224894A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de septembre 2022.
+Conformément à l’article 2 de l’arrêté du 7 décembre 2022 (NOR : ARMH2235120A), ces dispositions s'appliquent aux rémunérations versées à compter du mois de décembre 2022.
