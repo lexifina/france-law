@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701651
+
+- Question : [SEQ220701651](seq220701651.md) — Absence des sportifs porteurs de trisomie aux jeux paralympiques de 2024
+
+## Réponse
+
+*Sports, jeux Olympiques et Paralympiques, JO du 2022-12-01, page 6172*
+
+Introduite aux Jeux Paralympiques de 1996, la participation des sportifs atteints de handicap mental avait été suspendue en 2001 en raison de problèmes de classification de handicap et de fausse déficience intellectuelle, suite à la tricherie d'une équipe de basket-ball aux Jeux Paralympiques de 2000. En novembre 2009, le Comité paralympique international a autorisé les sportifs touchés par une déficience intellectuelle à participer de nouveau aux Jeux Paralympiques, sous réserve d'avoir satisfait au processus d'éligibilité proposé par la Fédération internationale des sportifs handicapés mentaux. La réintégration définitive de ces sportifs aux Jeux Paralympiques date donc de ceux de Londres 2012. Les Jeux Paralympiques de Paris 2024 comporteront 18 épreuves ouvertes aux personnes ayant un handicap mental : 8 en natation, 8 en athlétisme et 2 en tennis de table. Lors des Global Games de 2019 à Brisbane, de nouvelles classifications ont été introduites pour des catégories encore non éligibles au programme paralympique. Elles seront reconduites lors de la prochaine édition de cette compétition, qui se tiendra à Vichy en 2023. Le Gouvernement soutient l'action de la Fédération française du sport adapté dans sa volonté de développer la pratique sportive pour tout type de handicap mental via des financements de l'Agence nationale du sport (ANS) et de la Délégation interministérielle aux grands événements sportifs (DIGES) pour l'organisation des Global Games à Vichy du 4 au 10 juin 2023. Ce soutien a vocation à conduire le Comité paralympique international à de nouvelles classifications pour le handicap mental lors des prochaines éditions des Jeux Paralympiques.
