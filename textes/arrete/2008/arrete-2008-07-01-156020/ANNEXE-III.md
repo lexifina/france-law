@@ -1,6 +1,6 @@
 # Article ANNEXE III
 
-TABLEAU RÉCAPITULATIF DES DISPENSES ET ÉQUIVALENCES D'UNITÉ CAPITALISABLE (UC) AVEC DIPLÔME D'ETAT DE LA JEUNESSE, DE L'ÉDUCATION POPULAIRE ET DU SPORT SPÉCIALITÉ “ PERFECTIONNEMENT SPORTIF ”, MENTION “ HALTÉROPHILIE-MUSCULATION ET FORCE ATHLÉTIQUE ”
+Tableau récapitulatif des dispenses des exigences préalables à l'entrée en formation (EPEF) et des exigences préalables à la mise en situation professionnelle (EPMSP) ainsi que des équivalences d'unités capitalisables (UC) avec le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité “perfectionnement sportif” mention “haltérophilie, musculation et force athlétique”
 
 |
 
@@ -141,3 +141,7 @@ FFHMFAC : Fédération française d'Haltérophilie, Musculation, Force Athlétiq
 FFHM : Fédération Française d'Haltérophilie-Musculation.
 
 FFForce : Fédération Française de Force.
+
+NOTA :
+
+Conformément à l'article 12 de l'arrêté du 27 juillet 2022 (NOR : SPOV2222327A), ces dispositions s'appliquent aux sessions de formations ouvertes à compter du 1er décembre 2022.
