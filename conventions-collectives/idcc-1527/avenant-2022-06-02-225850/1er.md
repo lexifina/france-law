@@ -1,0 +1,19 @@
+# Article 1er
+
+L'article 35 de la convention collective de l'immobilier (IDCC 1527) issu de l'avenant n° 83 du 2 décembre 2019 est modifié dans les termes suivants :
+
+« Article 35
+
+Classification des postes de travail et des qualifications professionnelles
+
+Une annexe à la présente convention fixe la nomenclature des emplois dans les professions visées à l'article 1er. Cette annexe I se décompose en deux parties :
+
+– une première partie relative à la grille de classification des postes de travail et des qualifications professionnelles hors résidences de tourisme ;
+
+– une seconde partie relative à la grille de classification des postes de travail et des qualifications professionnelles spécifique aux résidences de tourisme.
+
+Tous les salariés classés à l'un des 9 niveaux de la convention collective doivent recevoir la qualification de l'emploi occupé à titre principal et permanent. Il est entendu que l'exercice des fonctions définies dans la qualification contractuelle de chaque salarié implique, dans l'esprit d'équipe qui doit animer les collaborateurs de l'entreprise, la réalisation occasionnelle de tâches périphériques ou accessoires inhérente à l'activité de l'entreprise.
+
+Les négociateurs immobiliers ne sont pas classés à l'un des niveaux de la grille conventionnelle mais bénéficient du statut régi par l'annexe IV “ Statut du négociateur immobilier ”, exception faite des négociateurs exerçant des fonctions d'encadrement et bénéficiant à ce titre d'un statut cadre, qui seront classés dans la grille de l'annexe I de la convention collective nationale de l'immobilier, tout en bénéficiant du statut de l'annexe IV.
+
+À la demande d'au moins deux des organisations signataires, et au moins une fois tous les 5 ans, conformément à l'article L. 2241-1 du code du travail, les parties se réunissent pour examiner la nécessité de réviser ces classifications. Les négociations prennent en compte l'objectif d'égalité professionnelle entre les femmes et les hommes. »
