@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902651
+
+- Question : [SEQ220902651](seq220902651.md) — Prestations ouvertes aux déplacés ukrainiens
+
+## Réponse
+
+*Solidarités, autonomie et personnes handicapées, JO du 2022-12-01, page 6171*
+
+Dans le contexte de la guerre en Ukraine et pour tenir compte de la précarité des familles réfugiées en France, le Gouvernement a décidé d'ouvrir, à titre dérogatoire, le droit à certaines prestations sociales. S'agissant des prestations familiales, il a été décidé d'appliquer une dérogation à l'article D. 512-2 du code de la sécurité sociale pour ouvrir droit, pour les enfants réfugiés en France du fait de la guerre en Ukraine, aux prestations familiales d'entretien non affectées, que sont les allocations familiales, le complément familial, l'allocation d'éducation de l'enfant handicapé, l'allocation de soutien familial, l'allocation de base de la prestation d'accueil du jeune enfant et la prime à la naissance. Ces prestations ont en effet pour objectif de financer les dépenses occasionnées par la charge d'enfant, y compris les frais liés à la rentrée scolaire. S'agissant de la prime d'activité, aucun régime dérogatoire n'a en effet été prévu pour ouvrir celle-ci aux déplacés ukrainiens arrivés récemment en France. La prime d'activité n'est pas un minimum social mais participe de la protection sociale des travailleurs aux revenus modestes en les incitant à exercer ou reprendre une activité professionnelle et à soutenir leur pouvoir d'achat en complétant leurs revenus professionnels. Cette prestation est ainsi versée aux travailleurs de 18 ans et plus disposant de faibles ressources, sous réserve d'être français ou titulaire depuis au moins 5 ans d'un titre de séjour autorisant à travailler (sauf dans certains cas notamment pour les ressortissants de l'Union européenne).
