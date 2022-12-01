@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701109
+
+- Question : [SEQ220701109](seq220701109.md) — Avenir de la filière tri-compostage et des installations dédiées
+
+## Réponse
+
+*Écologie, JO du 2022-12-01, page 6075*
+
+La collecte et la valorisation des biodéchets, par compostage ou méthanisation, constitue une opportunité pour réduire la quantité de déchets mis en décharge et économiser notre consommation de ressources énergétiques. En effet, le compost produit par les biodéchets sert en agriculture en substitution d'engrais azotés fabriqués avec du gaz nature, et le biogaz produit en méthanisation permet de réduire notre consommation de gaz naturel importé. S'agissant plus particulièrement des installations de tri mécano-biologique, afin d'éviter que leur développement ne constitue un frein au déploiement du tri à la source des biodéchets, l'article 90 de la loi anti-gaspillage prévoit que l'autorisation de nouvelles installations soit conditionnée à la mise en place préalable du tri à la source des biodéchets. En outre, dans une volonté d'amélioration de la qualité des matières fertilisantes, la loi anti-gaspillage a également prévu une interdiction d'utilisation du compost issus de ces installations à compter du 1er janvier 2027. Ces installations pourront cependant continuer à orienter leur production vers la méthanisation des déchets fermentescibles. Enfin, à condition que la collecte séparée des déchets d'emballages et des biodéchets soit effective, les installations de tri mécano-biologique pourraient présenter un intérêt environnemental. Il pourrait s'agir notamment de stabiliser les ordures ménagères résiduelles avant leur mise en décharge, ou de produire des combustibles solides de récupération à partir des refus de tri. Dans ce cadre, une réflexion sur le devenir de ces installations pourrait être initié à l'initiative des organismes représentant les collectivités concernées.
