@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701189
+
+- Question : [SEQ220701189](seq220701189.md) — Envoi par courrier sécurisé des passeports
+
+## Réponse
+
+*Commerce extérieur, attractivité et Français de l'étranger, JO du 2022-12-01, page 6058*
+
+Les modalités d'envoi par courrier sécurisé des passeports sont encadrées par l'article 24 du décret n° 2016-1460 du 28 octobre 2016 autorisant la création d'un traitement de données à caractère personnel relatif aux passeports et aux cartes nationales d'identité modifiant l'article 10 du décret n° 2005-1726 du 30 décembre 2005 relatif aux passeports ainsi que par l'arrêté du 27 avril 2017 fixant les modalités de l'envoi par courrier sécurisé des passeports délivrés par certains postes diplomatiques et consulaires et autorisant la création d'un télé-service permettant à l'usager d'attester de la réception de son passeport. Le dispositif réglementaire prévoit que cette possibilité soit réservée aux usagers inscrits au Registre des Français établis hors de France et s'exerce « dans le cadre d'une même circonscription consulaire et d'un même pays ». La rédaction de l'article 10 du décret n° 2005-1726 exclut de facto les postes de présence diplomatique (PPD) et les postes consulaires d'influence (PCI) du dispositif. Néanmoins, le ministère de l'Europe et des Affaires étrangères examine de nouvelles mesures de modernisation et de facilitation, en lien avec le ministère de l'Intérieur, visant à permettre, lorsque les circonstances locales le justifient et sous réserve que la demande ait été déposée auprès de l'autorité de délivrance compétente pour leur circonscription consulaire, les quarante-cinq postes PPD et PCI à pouvoir effectuer la remise des titres. Le ministère examine également la possibilité d'étendre le dispositif d'envoi postal sécurisé aux nouvelles cartes nationales d'identité.
