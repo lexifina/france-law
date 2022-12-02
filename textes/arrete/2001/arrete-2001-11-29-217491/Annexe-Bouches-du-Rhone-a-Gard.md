@@ -268,79 +268,41 @@ B
 
 |
 
-Direction départementale de l'équipement de la Charente-Maritime
+Direction départementale des territoires et de la Charente-Maritime
 
-FONCTIONS EXERCEES
+Fonctions exercées |
 
-|
+Niveau de qualification de l'emploi |
 
-NIVEAU
+Nombre d'emplois |
 
-de qualification
+Nombre de points (IM)
 
-de l'emploi
+par emploi |
 
-|
+Responsable de l'unité-Politique de l'habitat |
 
-NOMBRE
+A |
 
-d'emplois
+1 |
 
-|
+50 |
 
-NOMBRE DE POINTS (IM)
+Chargé du suivi administratif et financier des programmes de rénovation urbaine et suivi des bailleurs |
 
-par emploi
+B |
 
-|
+1 |
 
-Responsable de la cellule ville habitat
+30 |
 
-|
+Secrétaire de la section des aides publiques au logement |
 
-A
+C |
 
-|
+1 |
 
-1
-
-|
-
-50 points
-
-|
-
-Adjoint au chef de la cellule ville habitat
-
-|
-
-B
-
-|
-
-1
-
-|
-
-30 points
-
-|
-
-Secrétaire de la section des aides publiques au logement
-
-|
-
-C
-
-|
-
-1
-
-|
-
-20 points
-
-|
+20 |
 
 Direction départementale de l'équipement et de l'agriculture (1) du Cher
 
