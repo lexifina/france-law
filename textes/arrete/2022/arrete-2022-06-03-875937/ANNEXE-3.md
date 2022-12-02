@@ -40,8 +40,6 @@ FS du comité social d'administration de la préfecture et du SGCD de la Creuse 
 
 FS du comité social d'administration de la préfecture et du SGCD de la Dordogne (24)
 
-FS du comité social d'administration de la préfecture et du SGCD de l'Eure (27)
-
 FS du comité social d'administration de la préfecture et du SGCD du Gers (32)
 
 FS du comité social d'administration de la préfecture et du SGCD d'Indre (36)
@@ -87,6 +85,8 @@ FS du comité social d'administration de la préfecture et du SGCD du Territoire
 FS du comité social d'administration des services administratifs et techniques de la police nationale (SATPN) de la Guyane (973)
 
 FS du comité social d'administration de la préfecture et de la police nationale de Saint-Pierre-et-Miquelon (975)
+
+FS du comité social d'administration unique de Wallis-et-Futuna (986)
 
 C. - DIRECTIONS DÉPARTEMENTALES INTERMINISTÉRIELLES
 
@@ -392,7 +392,7 @@ FS du comité social d'administration de la direction départementale des territ
 
 FS du comité social d'administration de la direction départementale des territoires (DDT) de l'Ariège (09)
 
-FS du comité social d'administration de la direction départementale des territoires (DDT) de l'Aude (10)
+FS du comité social d'administration de la direction départementale des territoires (DDT) de l'Aube (10)
 
 FS du comité social d'administration de la direction départementale des territoires (DDT) de l'Aveyron (12)
 

@@ -58,6 +58,8 @@ FS du comité social d'administration de la préfecture et du SGCD du Doubs (25)
 
 FS du comité social d'administration de la préfecture et du SGCD de la Drôme (26)
 
+FS du comité social d'administration de la préfecture et du SGCD de l'Eure (27)
+
 FS du comité social d'administration de la préfecture et du SGCD de l'Eure-et-Loir (28)
 
 FS du comité social d'administration de la préfecture et du SGCD du Finistère (29)
@@ -156,7 +158,7 @@ FS du comité social d'administration de la préfecture et des services administ
 
 FS du comité social d'administration de la préfecture et des services administratifs et techniques de la police nationale (SATPN) de la Martinique (972)
 
-FS du comité social d'administration de la préfecture de la Guyane (973)
+FS du comité social d'administration des services de l'Etat en Guyane relevant du ministère de l'intérieur (973)
 
 FS du comité social d'administration de la préfecture et des services administratifs et techniques de la police nationale (SATPN) de la Réunion (974)
 
