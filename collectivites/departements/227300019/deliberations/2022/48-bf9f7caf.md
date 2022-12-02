@@ -1,0 +1,12 @@
+# Département : délibération 48 — Charte de qualité pour les Maisons d'assistants maternels (MAM)
+
+- Collectivité : Département
+- SIREN : 227300019
+- Date : 2022-12-02
+- Séance : Commission Permanente
+- Matière : 8.2 Aide sociale
+- Objet : Charte de qualité pour les Maisons d'assistants maternels (MAM)
+- Transmis à la préfecture : 2022-12-05
+- Pour : 34
+- Contre : 0
+- Jeu de données : https://www.data.gouv.fr/datasets/620a35443404cf038bbab378
