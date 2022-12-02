@@ -24,7 +24,7 @@ Dans les services relevant du garde des sceaux, ministre de la justice :
 
 Dans les services relevant du ministre des armées :
 
--l'observatoire économique de la défense de la direction des affaires financières.
+-la sous-direction statistiques et études économiques de la direction des affaires financières.
 
 Dans les services relevant du ministre du travail, du plein emploi et de l'insertion :
 
@@ -48,7 +48,7 @@ Dans les services relevant du ministre de l'agriculture et de la souveraineté a
 
 Dans les services relevant du ministre de la transition écologique et de la cohésion des territoires et de la ministre de la transition énergétique :
 
--le service des données et études statistiques du commissariat général au développement durable.
+-le service des données et études statistiques du Commissariat général au développement durable.
 
 Dans les services relevant de la ministre de la culture :
 
