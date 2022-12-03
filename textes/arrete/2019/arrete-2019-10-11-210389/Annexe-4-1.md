@@ -8,7 +8,7 @@ FINALITES DU TRAITEMENT |
 
 Traitement automatisé relatif au système national de gestion des identifiants |
 
-Des traitements mis en place à partir du système national de gestion des identifiants permettent à la Caisse des dépôts et consignations d'identifier les bénéficiaires du compte de personnel de formation à partir de leur numéro NIR et d'inscrire leurs droits sur leur compte personnel de formation. |
+Des traitements mis en place à partir du système national de gestion des identifiants permettent à la Caisse des dépôts et consignations d'identifier les bénéficiaires du compte de personnel de formation et de droits individuels à la formation des élus locaux à partir de leur numéro NIR et d'inscrire leurs droits. |
 
 Traitement automatisé relatif aux données sociales collectées par le Centre national de transfert des données sociales
 
@@ -20,17 +20,13 @@ Traitement automatisé relatif aux données sociales collectées par la Mutualit
 
 |
 
-Des traitements mis en place à partir des données transmises par la MSA permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des personnels relevant du secteur agricole.
-
-|
+Des traitements mis en place à partir des données transmises par la MSA permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des personnels relevant du secteur agricole. |
 
 Traitement automatisé relatif aux données sociales collectées par l'Etablissement national des invalides de la marine (ENIM)
 
 |
 
-Des traitements mis en place à partir des données transmises par l'ENIM permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des personnes relevant du régime des marins.
-
-|
+Des traitements mis en place à partir des données transmises par l'ENIM permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des personnes relevant du régime des marins. |
 
 Traitement automatisé relatif aux données sociales détenues par l'agence centrale des organismes de sécurité sociale (ACOSS) et par les unions pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF)
 
@@ -42,17 +38,13 @@ Traitement automatisé relatif aux données collectées par l'Association pour l
 
 |
 
-Des traitements mis en place à partir des données transmises par l'Association pour la gestion de la sécurité sociale des auteurs et de la maison des artistes permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des artistes auteurs non-salariés.
-
-|
+Des traitements mis en place à partir des données transmises par l'Association pour la gestion de la sécurité sociale des auteurs et de la maison des artistes permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des artistes auteurs non-salariés. |
 
 Traitement automatisé relatif aux données sociales collectées au titre des activités mentionnées aux articles L. 6331-55 et L. 6331-65 du code du travail
 
 |
 
-Des traitements mis en place à partir des données transmises par l'opérateurs compétences des salariés artistes auteurs et des salariés intermittents du spectacle qui relèvent des secteurs d'activité du spectacle vivant et du secteur enregistré permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des personnels relevant du secteur d'activités du spectacle.
-
-|
+Des traitements mis en place à partir des données transmises par l'opérateurs compétences des salariés artistes auteurs et des salariés intermittents du spectacle qui relèvent des secteurs d'activité du spectacle vivant et du secteur enregistré permettent d'alimenter les comptes personnels de formation et les passeports d'orientation, de formation et de compétences des personnels relevant du secteur d'activités du spectacle. |
 
 Traitement automatisé relatif aux données collectées par les opérateurs de compétences pour alimenter le compte personnel de formation en droits complémentaires mentionnés aux articles L. 6323-4 , L. 6323-13 , L. 6323-14 et L. 2254-2 du code du travail |
 
@@ -76,61 +68,47 @@ Des traitements mis en place à partir des données transmises par le traitement
 
 Traitement automatisé des collectivités et organismes dont les personnels sont habilités à accéder au système d'information du compte personnel de formation en application des dispositions de l'article R. 6323-35 du code du travail |
 
-Des traitements mis en place à partir des traitements automatisés de ces collectivités et organismes, en tant que financeurs des dossiers de formation ou de conseillers en évolution professionnelle, permettent d'alimenter le compte personnel de formation, le passeport d'orientation, de formation et compétences et de mettre en œuvre le partage de données mentionné au deuxième alinéa de l'article L. 6353-10 du code du travail.
-
-|
+Des traitements mis en place à partir des traitements automatisés de ces collectivités et organismes, en tant que financeurs des dossiers de formation ou de conseillers en évolution professionnelle, permettent d'alimenter le compte personnel de formation, le passeport d'orientation, de formation et compétences et de mettre en œuvre le partage de données mentionné au deuxième alinéa de l'article L. 6353-10 du code du travail. |
 
 Traitement automatisé des organismes de formation |
 
-Des traitements mis en place à partir des données transmises par les organismes de formation permettent l'inscription des stagiaires en formation, le suivi de l'action de formation, l'ingénierie financière associée, le paiement des organismes de formation et l'évaluation de la formation conformément aux dispositions de l'article L. 6323-8 I du code du travail . |
+Des traitements mis en place à partir des données transmises par les organismes de formation permettent l'inscription des stagiaires en formation, le suivi de l'action de formation, l'ingénierie financière associée, le paiement des organismes de formation et l'évaluation de la formation conformément aux dispositions de l'article L. 6323-8 I du code du travail et de l'article L. 1621-5 du code général des collectivités territoriales. |
 
 Traitement automatisé relatif aux données collectées par les ministres chargés des affaires étrangères et de l'économie et des finances, l'Agence des services et de paiement, l'Agence du service civique, l'Agence exécutive Éducation, audiovisuel et culture (EACEA), CIGNA, la Caisse nationale d'assurance vieillesse, la Caisse des dépôts et consignations, le Fonds de coopération de la jeunesse et de l'éducation populaire, Business France et l'association France Volontaires dans le cadre du service civique
 
 |
 
-Des traitements mis en place à partir des données transmises par ces entités permettent le recensement des activités de service civique, pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences.
-
-|
+Des traitements mis en place à partir des données transmises par ces entités permettent le recensement des activités de service civique, pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences. |
 
 Traitement automatisé relatif aux données collectées par l'Agence nationale de santé publique (Santé publique France) dans le cadre de la réserve sanitaire
 
 |
 
-Des traitements mis en place à partir des données transmises par l'Agence nationale de Santé publique permettent le recensement des activités de réservistes sanitaires pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences.
-
-|
+Des traitements mis en place à partir des données transmises par l'Agence nationale de Santé publique permettent le recensement des activités de réservistes sanitaires pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences. |
 
 Traitement automatisé relatif aux données collectées par les ministres chargés de la défense et de l'intérieur dans le cadre de la réserve militaire opérationnelle, de la réserve citoyenne de défense et de sécurité, de la réserve citoyenne de la police nationale et de la réserve civile de la police nationale
 
 |
 
-Des traitements mis en place à partir des données transmises par les ministres chargés de la défense et de l'intérieur permettent le recensement des activités de réserviste militaire opérationnel, de réserviste citoyen de défense et de sécurité, de réserviste citoyen de la police nationale et de réserviste civil de la police nationale pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences.
-
-|
+Des traitements mis en place à partir des données transmises par les ministres chargés de la défense et de l'intérieur permettent le recensement des activités de réserviste militaire opérationnel, de réserviste citoyen de défense et de sécurité, de réserviste citoyen de la police nationale et de réserviste civil de la police nationale pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences. |
 
 Traitement automatisé relatif aux données collectées par le ministre chargé de l'intérieur, les communes, les établissements publics de coopération intercommunale, et les services départementaux d'incendie et de secours dans le cadre de la réserve communale de sécurité civile et du volontariat de sapeur-pompier
 
 |
 
-Des traitements mis en place à partir des données transmises par les communes et les services départementaux d'incendie et de secours permettent le recensement des activités de réservistes communaux et de sapeurs-pompiers volontaires pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences.
-
-|
+Des traitements mis en place à partir des données transmises par les communes et les services départementaux d'incendie et de secours permettent le recensement des activités de réservistes communaux et de sapeurs-pompiers volontaires pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences. |
 
 Traitement automatisé relatif aux données collectées par le ministre chargé du travail et de l'emploi et à l'activité de maître d'apprentissage, par l'intermédiaire du service dématérialisé mentionné à l'article 4 de la loi n° 2011-893 du 28 juillet 2011 pour le développement de l'alternance et la sécurisation des parcours professionnels dans le cadre de l'activité de maître d'apprentissage
 
 |
 
-Des traitements mis en place à partir des données transmises par l'intermédiaire du service dématérialisé mentionné à l'article 4 de la loi n° 2011-893 du 28 juillet 2011 pour le développement de l'alternance et la sécurisation des parcours professionnels permettent l'alimentation et le financement des comptes d'engagement citoyen au titre de l'activité de maître d'apprentissage ainsi qu'à partir des données transmises par le ministre chargé du travail et de l'emploi permettent le recensement des activités de maîtres d'apprentissage pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences.
-
-|
+Des traitements mis en place à partir des données transmises par l'intermédiaire du service dématérialisé mentionné à l'article 4 de la loi n° 2011-893 du 28 juillet 2011 pour le développement de l'alternance et la sécurisation des parcours professionnels permettent l'alimentation et le financement des comptes d'engagement citoyen au titre de l'activité de maître d'apprentissage ainsi qu'à partir des données transmises par le ministre chargé du travail et de l'emploi permettent le recensement des activités de maîtres d'apprentissage pour l'inscription, l'alimentation et le financement des droits acquis au titre des comptes d'engagement citoyen dans le compte personnel de formation ainsi que pour l'alimentation du passeport d'orientation, de formation et de compétences. |
 
 Traitement automatisé des employeurs
 
 |
 
-Des traitements mis en place à partir des données transmises par les employeurs permettent à la Caisse des dépôts et consignations d'alimenter les comptes de leurs salariés à partir des données de la déclaration sociale nominative et de procéder à des abondements conformément aux dispositions de l'article L. 6323-4, II, 2° du code du travail.
-
-|
+Des traitements mis en place à partir des données transmises par les employeurs permettent à la Caisse des dépôts et consignations d'alimenter les comptes de leurs salariés à partir des données de la déclaration sociale nominative et de procéder à des abondements conformément aux dispositions de l'article L. 6323-4, II, 2° du code du travail. |
 
 Traitement automatisé géré par la direction de la jeunesse, de l'éducation populaire et de la vie associative et la direction des systèmes d'information du secrétariat général des ministères chargés de la vie associative et des affaires sociales
 
@@ -188,15 +166,15 @@ Des traitements mis en place à partir des données collectées par les opérate
 
 |
 
-Traitement automatisé " data.gouv.fr " |
+Traitement automatisé " data. gouv. fr " |
 
-Des traitements mis en place à partir des données publiques disponibles sur la plateforme " data.gouv.fr " permettent de renseigner les données du passeport d'orientation, de formation et de compétences relatives à l'activité professionnelle d'élu.
+Des traitements mis en place à partir des données publiques disponibles sur la plateforme " data. gouv. fr " permettent d'identifier les titulaires éligibles aux droits individuels à la formation des élus locaux, de déterminer leurs montants de droits et de renseigner les données du passeport d'orientation, de formation et de compétences relatives au mandat d'élu.
 
 |
 
-Traitement automatisé des financeurs des abondements en droits au titre du compte personnel de formation |
+Traitement automatisé des financeurs des abondements en droits |
 
-Des traitements mis en place à partir des données transmises par les financeurs pouvant abonder en droits complémentaires les comptes personnels de formation permettent à la Caisse des dépôts et consignations d'alimenter les comptes des titulaires bénéficiaires de l'abondement.
+Des traitements mis en place à partir des données transmises par les financeurs pouvant attribuer des abondements en droits complémentaires au titre du compte personnel de formation ou du droit individuel à la formation des élus locaux permettent à la Caisse des dépôts et consignations d'inscrire les droits complémentaires.
 
 |
 
@@ -229,3 +207,15 @@ Traitement automatisé de l'Agence de l'outre-mer pour la mobilité (LADOM) |
 Des traitements mis en place à partir des données transmises par LADOM permettent la mise œuvre du partage de données mentionné à l'article L. 6353-10 du code du travail.
 
 |
+
+Traitement automatisé de données à caractère personnel du téléservice dénommé FranceConnect
+
+|
+
+Des traitements mis en place à partir du téléservice FranceConnect permettent à la Caisse des dépôts et consignations d'identifier les bénéficiaires du compte de personnel de formation et de droits individuels à la formation des élus locaux, de traiter leurs demandes d'inscription en formation, et de traiter toute information relative à une connexion sur leur compte via FranceConnect. |
+
+Traitement automatisé de données à caractère personnel AGECAP
+
+|
+
+Des traitements mis en place à partir des données de contrats d'apprentissage publics transmises par les employeurs publics permettent la mise œuvre du partage de données mentionné à l'article L. 6353-10 du code du travail. |

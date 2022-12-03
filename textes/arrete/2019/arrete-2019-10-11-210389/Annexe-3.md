@@ -34,9 +34,17 @@ Direction de l'animation de la recherche, des études et des statistiques du min
 
 Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de la DARES d'exploiter les données à des fins statistiques destinées à la recherche ou à l'évaluation du SI-CPF, de suivre l'évolution du compte personnel de formation conformément à ses missions, qui consistent notamment à réaliser des enquêtes et des études statistiques sur l'emploi, le travail et la formation professionnelle en France afin d'éclairer la conception et la mise en œuvre des politiques publiques dans ces domaines, notamment par le suivi et l'évaluation des résultats des politiques menées. |
 
+Direction générale des collectivités locales (DGCL) |
+
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de la DGCL de suivre la mise en œuvre et la gestion du droit individuel à la formation des élus locaux. |
+
+Direction générale des outre-mer (DGOM) |
+
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents habilités de la DGOM de suivre la mise en œuvre et la gestion du droit individuel à la formation des élus locaux. |
+
 Organismes de formation et leurs sous-traitants |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités des organismes de formation mentionnés à l'article L. 6351-1 du code du travail et de leurs sous-traitants de traiter les demandes d'inscription des titulaires de compte à des formations. |
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux personnels habilités des prestataires mentionnés à l'article L. 6351-1 du code du travail et de leurs sous-traitants, des organismes mentionnés à l'article L. 1221-3 du code général des collectivités territoriales de traiter les demandes d'inscription des titulaires à des formations. |
 
 France Compétences |
 
@@ -82,8 +90,8 @@ Administrations et organismes pouvant se voir communiquer des données stricteme
 
 Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des administrations et organismes pouvant se voir communiquer des données à caractère personnel strictement nécessaires à l'accomplissement de leurs missions de contrôle et de leurs pouvoirs d'enquête en application d'une disposition législative ou réglementaire. |
 
-Financeurs des abondements en droits du compte personnel de formation
+Financeurs des abondements en droits
 
 |
 
-Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des financeurs pouvant attribuer des abondements en droits au titre du compte personnel de formation d'être destinataires des données relatives à l'identification du titulaire de compte bénéficiaire de l'abondement en droits par le financeur ainsi que celles relatives aux dossiers de formation ayant fait l'objet d'un abondement en droits par le financeur. |
+Des traitements mis en place à partir du traitement automatisé SI-CPF permettent aux agents et personnels habilités des financeurs pouvant attribuer des abondements en droits au titre du compte personnel de formation ou au titre du droit individuel à la formation des élus locaux d'être destinataires des données relatives à l'identification du titulaire bénéficiaire de l'abondement en droits par le financeur ainsi que celles relatives aux dossiers de formation ayant fait l'objet d'un abondement en droits par le financeur. |

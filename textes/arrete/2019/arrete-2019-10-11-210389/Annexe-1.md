@@ -4,21 +4,23 @@ DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE ENREGISTRÉES DANS LE TRAITEMENT 
 
 1.1. Données à caractère personnel mentionnées au I de l'article R. 6323-34 du code du travail.
 
-1° Données relatives à l'identité et à l'activité professionnelle du titulaire du compte personnel de formation :
+1° Données relatives à l'identité et à l'activité professionnelle du titulaire :
 
 a) Numéro d'inscription au répertoire national d'identification des personnes physiques (NIR) ;
 
-b) Nom de naissance, nom d'usage, nom marital et prénoms, sexe, date et lieu de naissance, indication d'une situation de handicap ;
+b) Nom de naissance, nom d'usage, nom marital et prénoms, sexe, date et lieu de naissance, indication d'une situation de handicap, signature manuelle ou électronique ;
 
 c) Statut de bénéficiaire de l'obligation d'emploi ;
 
-d) Adresse en France et, le cas échéant, à l'étranger, numéro(s) de téléphone et adresse électronique ;
+d) Adresse en France et, le cas échéant, à l'étranger, numéro(s) de téléphone et adresse (s) électronique (s) (sur son espace personnel accessible par le service dématérialisé mentionné au I de l'article L. 6328-8 du code du travail ou dans le cadre de son inscription au téléservice “ FranceConnect ”) ;
 
 e) Date de liquidation des droits à la retraite selon les conditions prévues au dernier alinéa de l'article L. 5151-2 du code du travail ;
 
-f) Le cas échéant, date et caractère certifié ou présumé du décès ;
+f) Le cas échéant, les données d'identification présentes sur le document attestant de l'identité du titulaire de compte ;
 
-2° Données relatives au parcours professionnel du titulaire du compte personnel de formation :
+g) Le cas échéant, date et caractère certifié ou présumé du décès ;
+
+2° Données relatives au parcours professionnel du titulaire :
 
 a) Données relatives à l'employeur : SIRET de l'employeur, raison sociale de l'employeur, effectifs, adresse de l'employeur, URSSAF, code profession, activité principale de l'entreprise/nomenclature des activités françaises (APE/NAF), opérateurs de compétences de l'entreprise, identifiant convention collective / convention collective nationale (IDCC/CCN), imputation ;
 
@@ -30,7 +32,7 @@ d) Durée du temps de travail, taux de temps de travail ;
 
 e) Type de contrat de travail (contrat à durée indéterminée, contrat à durée déterminée…) ;
 
-f) Rémunération du titulaire du compte ;
+f) Rémunération du titulaire ;
 
 g) Périodes d'activité et d'inactivité (périodes concernées, motif, dates de prise en compte) ;
 
@@ -40,13 +42,13 @@ i) Le cas échéant, les numéros d'identifiant internes à Pôle emploi mention
 
 j) Profession et catégorie socioprofessionnelle du dernier emploi occupé pour les personnes à la recherche d'un emploi ;
 
-k) Etudes et formations suivies par le titulaire de compte dans le cadre de sa formation initiale et continue ;
+k) Etudes et formations suivies par le titulaire dans le cadre de sa formation initiale et continue ;
 
-l) Diplômes (y compris les diplômes étrangers), titres, reconnaissances et certifications obtenus et dates d'obtention par le titulaire de compte dans le cadre de sa formation initiale et continue ;
+l) Diplômes (y compris les diplômes étrangers), titres, reconnaissances et certifications obtenus et dates d'obtention par le titulaire dans le cadre de sa formation initiale et continue ;
 
 m) Qualifications détenues et exercées ;
 
-n) Expériences professionnelles actuelles et antérieures du titulaire de compte : type de contrat, période d'emploi (date de début et date de fin), nom de l'employeur, métier/ fonction, secteur d'activité, identifiant convention collective/ convention collective nationale (IDCC/ CCN), code postal du lieu de travail ;
+n) Expériences professionnelles actuelles et antérieures du titulaire : type de contrat, période d'emploi (date de début et date de fin), nom de l'employeur, métier/ fonction, secteur d'activité, identifiant convention collective/ convention collective nationale (IDCC/ CCN), code postal du lieu de travail ;
 
 o) Aptitudes et compétences ;
 
@@ -56,19 +58,19 @@ q) Langues étrangères ;
 
 r) Assermentations ;
 
-s) Activités de bénévole et de volontariat actuelles et antérieures du titulaire de compte : type d'activité, fonction occupée, période d'activité (date de début et de fin), nom de l'organisme de rattachement, code postal de l'organisme ;
+s) Activités de bénévole et de volontariat actuelles et antérieures du titulaire : type d'activité, fonction occupée, période d'activité (date de début et de fin), nom de l'organisme de rattachement, code postal de l'organisme ;
 
 t) Activités d'élu du titulaire de compte : type de mandat/ fonction, période de mandat (date de début et de fin), collectivité/ administration de rattachement ;
 
 u) Certifications professionnelles et certifications ou habilitations obtenues : date et initiative de l'inscription à la certification, modalités d'accès à la certification, date de l'examen, modalités d'obtention de la certification (admission ou score obtenu) et modalités de passage de l'examen (sur place, à distance ou mixte), code postal du centre d'examen principal, date de délivrance de la certification et, le cas échéant, date de fin de validité, ; Si obtention de la certification par score, niveau de langue européen et/ ou niveau numérique européen (le cas échéant, score ou base de notation), type de certification (certification professionnelle enregistrée dans le répertoire national des certifications professionnelles, certification ou habilitation enregistrée dans le répertoire spécifique), libellé de l'option/ mention et de la spécialité liée à la certification (le cas échéant, mention obtenue) ; Le cas échéant, lien vers la preuve numérique de l'obtention de la certification, numéro de la fiche du répertoire national des certifications professionnelles ou du répertoire spécifique ;
 
-3° Données d'ordre économique et financier relatives au titulaire du compte personnel de formation :
+3° Données d'ordre économique et financier relatives au titulaire :
 
-a) Données bancaires inscrites sur la carte bancaire du titulaire du compte (nom, numéro de carte bancaire, date d'expiration, cryptogramme visuel) ;
+a) Données bancaires inscrites sur la carte bancaire du titulaire (nom, numéro de carte bancaire, date d'expiration, cryptogramme visuel) ;
 
-b) Données bancaires présentes sur le relevé d'identité bancaire du titulaire du compte (nom et adresse du titulaire du compte bancaire, RIB, IBAN, adresse de domiciliation bancaire) ;
+b) Données bancaires présentes sur le relevé d'identité bancaire du titulaire (nom et adresse du titulaire du compte bancaire, RIB, IBAN, adresse de domiciliation bancaire) ;
 
-4° Données relatives aux droits et parcours de formation du titulaire du compte personnel de formation :
+4° Données relatives aux droits et parcours de formation du titulaire :
 
 a) Date de création dans le référentiel CPF ;
 
@@ -76,31 +78,31 @@ b) Montant des droits acquis au titre du droit individuel à la formation ;
 
 c) Montant des droits inscrits sur le compte personnel de formation ;
 
-d) Montant des droits inscrits sur le compte personnel de formation au titre des financements complémentaires (nom de l'organisme financeur, montant financé, type d'abondement) ;
+d) Montant des droits acquis au titre du droit individuel à la formation des élus locaux ;
 
-e) Montant des droits inscrits sur le compte personnel de formation au titre du compte d'engagement citoyen (type d'activité donnant des droits au compte d'engagement citoyen, année au titre de laquelle des droits ont été acquis, jour de congés accordés) ;
+e) Montant des droits inscrits au titre des financements complémentaires (nom de l'organisme financeur, montant financé, type d'abondement) ;
 
-f) Nombre de points présents sur le compte professionnel de prévention ;
+f) Montant des droits inscrits sur le compte personnel de formation au titre du compte d'engagement citoyen (type d'activité donnant des droits au compte d'engagement citoyen, année au titre de laquelle des droits ont été acquis, jour de congés accordés) ;
 
-g) Montant correspondant aux points acquis au titre du compte professionnel de prévention ;
+g) Nombre de points présents sur le compte professionnel de prévention ;
 
-h) Informations relatives à l'acquittement effectif de la contribution à la formation professionnelle et à la durée d'exercice de l'activité au cours de l'année pour les travailleurs indépendants, les membres des professions libérales et des professions non salariées, leurs conjoints collaborateurs et les artistes auteurs ;
+h) Montant correspondant aux points acquis au titre du compte professionnel de prévention ;
 
-i) Date d'accord du titulaire pour la mobilisation des droits inscrits au compte ;
+i) Informations relatives à l'acquittement effectif de la contribution à la formation professionnelle et à la durée d'exercice de l'activité au cours de l'année pour les travailleurs indépendants, les membres des professions libérales et des professions non salariées, leurs conjoints collaborateurs et les artistes auteurs ;
 
-j) Données relatives à la formation et à son financement : coût total (toutes taxes comprises et hors taxes) de la formation prévue et réalisée ; montant du reste à charge prévisionnel et effectif (toutes taxes comprises et hors taxes) mentionné au III de l'article R. 6333-3 du code du travail ; montant et type de frais annexes ; titre, intitulé complet, codes d'identification et objectif de la formation ; durée globale prévisionnelle et réalisée de la formation ; modalités de réalisation et organisation pédagogique de la formation ; conditions d'inscription requises (niveau d'entrée, code de ce niveau, conditions spécifiques) ; date et fin de la session de formation ; lieu principal de formation ;
+j) Date d'accord du titulaire pour la mobilisation des droits ;
 
-k) Données relatives à l'organisme de formation : coordonnées de l'organisme de formation contractant de la formation (adresse, numéro de téléphone, adresse électronique) ; coordonnées de l'organisme de formation responsable pédagogique de la formation (adresse, numéro de téléphone, adresse électronique) ; SIRET de l'organisme de formation contractant de la formation ; SIRET de l'organisme de formation responsable pédagogique de la formation ; raison sociale de l'organisme de formation contractant de la formation ; raison sociale de l'organisme de formation responsable pédagogique de la formation ; numéro de déclaration d'activité de l'organisme de formation contractant de la formation ; numéro de déclaration d'activité de l'organisme de formation responsable pédagogique de la formation ; données bancaires présentes sur le relevé d'identité bancaire de l'organisme de formation contractant ; nom(s), prénom(s) et fonction(s) des gestionnaires des organismes de formation contractants de la formation et responsables pédagogiques ; coordonnées de la personne à contacter par le stagiaire au sein de l'organisme de formation responsable pédagogique de la formation (adresse électronique et téléphone[s]) ; nom et prénom du représentant légal de l'organisme de formation contractant de la formation et de l'organisme de formation responsable pédagogique de la formation ; données relatives à la société d'affacturage déclarée par l'organisme de formation : raison sociale, SIRET de l'établissement, adresse de l'établissement, données bancaires présentes sur le relevé d'identité bancaire de la société ;
+k) Données relatives à la formation et à son financement : coût total (toutes taxes comprises et hors taxes) de la formation prévue et réalisée ; montant du reste à charge prévisionnel et effectif (toutes taxes comprises et hors taxes) mentionné au III de l'article R. 6333-3 du code du travail ; montant et type de frais annexes ; titre, intitulé complet, codes d'identification et objectif de la formation ; durée globale prévisionnelle et réalisée de la formation ; modalités de réalisation et organisation pédagogique de la formation ; conditions d'inscription requises (niveau d'entrée, code de ce niveau, conditions spécifiques) ; date et fin de la session de formation ; lieu principal de formation ; numéro de facture renseigné par l'organisme de formation ; date d'émission et transmission de la facture par l'organisme de formation ; montant à payer ; date de paiement à l'organisme de formation ; montant effectivement payé ;
 
 l) Données relatives aux gestionnaires des organismes : nom et prénom, fonction, organisme employeur, unité d'appartenance, numéro de téléphone et adresse électronique ;
 
-m) Formations éligibles au sens de l'article L. 6323-6 du code du travail ;
+m) Formations éligibles au sens de l'article L. 6323-6 du code du travail et formations mentionnées au 1° de l'article R. 1621-8 du code général des collectivités territoriales ;
 
 n) Historique des opérations effectuées sur le compte ;
 
 o) Champ de saisie de commentaires par le titulaire ;
 
-p) Dimension certifiante ou non de la formation éligible au compte personnel de formation ;
+p) Dimension certifiante ou non de la formation éligible ;
 
 q) Intitulé et niveau de la certification visée par la formation ;
 
@@ -108,15 +110,63 @@ r) Données relatives aux motifs d'annulation de l'inscription à une formation,
 
 s) Evaluations de la formation et commentaires des stagiaires ;
 
-t) Validation par le titulaire du compte du service fait ;
+t) Validation par le titulaire du service fait ;
 
-u) Données relatives aux échanges entre les titulaires de compte et les organismes de formation, de l'inscription à la clôture du dossier de formation ;
+u) Données relatives aux échanges entre les titulaires et les organismes de formation, de l'inscription à la clôture du dossier de formation ;
 
 v) Données relatives à l'entrée effective, aux interruptions et aux sorties de formation ;
 
 w) Données relatives aux engagements bénévoles et de volontariat (date et type des activités exercées).
 
-x) Données relatives aux personnes physiques se connectant, au nom et pour le compte d'un financeur d'un abondement en droits au titre du compte personnel de formation, au portail du SI-CPF permettant l'attribution de droits complémentaires aux titulaires de compte : nom, prénom, fonction, coordonnées (adresse électronique et adresse postale), identifiants de connexion ; nom du financeur de droits complémentaires, SIRET et adresse postale de l'établissement.
+x) Données relatives aux personnes physiques se connectant, au nom et pour le compte d'un financeur d'un abondement en droits, au portail du SI-CPF permettant l'attribution de droits complémentaires aux titulaires : nom, prénom, fonction, coordonnées (adresse électronique et adresse postale), identifiants de connexion ; nom du financeur de droits complémentaires, SIRET et adresse postale de l'établissement.
+
+5° Données relatives aux mandats électifs exercés par le titulaire de droits individuels à la formation des élus locaux :
+
+a) Type de mandat ;
+
+b) La date de début de mandat ;
+
+c) La date de fin de mandat ;
+
+6° Données relatives aux prestataires mentionnés à l'article L. 6351-1 du code du travail et aux organismes mentionnés à l'article L. 1221-3 du code général des collectivités territoriales :
+
+a) Coordonnées de l'organisme de formation contractant de la formation (adresse, numéro de téléphone, adresse électronique) ; coordonnées de l'organisme de formation responsable pédagogique de la formation (adresse, numéro de téléphone, adresse électronique) ; SIRET de l'organisme de formation contractant de la formation ; SIRET de l'organisme de formation responsable pédagogique de la formation ; raison sociale de l'organisme de formation contractant de la formation ; raison sociale de l'organisme de formation responsable pédagogique de la formation ; numéro de déclaration d'activité de l'organisme de formation contractant de la formation ; numéro de déclaration d'activité de l'organisme de formation responsable pédagogique de la formation ; nature juridique de l'organisme de formation ; département de rattachement ; date de début d'agrément ; date de suspension d'agrément ; date de fin d'agrément ; date de renouvellement d'agrément ; noms et prénoms des collaborateurs de l'organisme de formation contractant de la formation, de l'organisme de formation responsable pédagogique de la formation ou de tout prestataire en lien avec le stagiaire, de la vente de l'action de formation à l'inscription du stagiaire en formation ; noms, prénoms, coordonnées de la ou des personnes chargé (es) du suivi pédagogique du stagiaire à contacter par le stagiaire au sein de l'organisme de formation contractant de la formation ou responsable pédagogique de la formation (adresse électronique et téléphone [s]) ; nom et prénom du représentant légal de l'organisme de formation contractant de la formation et de l'organisme de formation responsable pédagogique de la formation ;
+
+b) Données bancaires présentes sur le relevé d'identité bancaire de l'organisme de formation contractant ;
+
+c) Données relatives à la société d'affacturage déclarée par l'organisme de formation : raison sociale, SIRET de l'établissement, adresse de l'établissement, données bancaires présentes sur le relevé d'identité bancaire de la société ;
+
+d) Données relatives aux formateurs : nom, prénom, coordonnées (adresse électronique et téléphone), lien contractuel avec l'organisme de formation, titre et qualité ; le cas échéant, les données présentes sur le curriculum vitae du formateur (dont les études et formations suivies dans le cadre de sa formation initiale et continue, ses diplômes, qualifications détenues et exercées, ses expériences professionnelles, ses aptitudes et compétences) ;
+
+7° Données de connexion relatives aux personnes concernées :
+
+a) Données de connexion :
+
+-identifiant interne du titulaire ;
+
+-identifiant de l'application sur le terminal mobile du titulaire ;
+
+-identification de la notification envoyée au titulaire ;
+
+-action du titulaire (validation des conditions générales d'utilisation, connexion, mise à jour de données …) ;
+
+-horodatage de l'action ;
+
+b) Données internet :
+
+-l'IP ;
+
+-terminal, type de terminal ;
+
+-système d'exploitation ;
+
+-navigateur ;
+
+-ville/ pays ;
+
+-ID techniques ;
+
+-consentement de l'utilisateur sur l'utilisation des cookies.
 
 1.2. Données à caractère personnel à caractère personnel mentionnées au II de l'article R. 6323-34 du code du travail :
 
@@ -126,9 +176,7 @@ NATURE D'INFORMATIONS |
 
 |
 
-1. Données relatives à l'identité et à l'activité professionnelle du titulaire du compte personnel
-
-de formation |
+1. Données relatives à l'identité et à l'activité professionnelle du titulaire |
 
 Caractérisation de la personne |
 
@@ -210,6 +258,12 @@ Adresse de messagerie électronique de la personne |
 
 |
 
+|
+
+Zone Urbaine |
+
+|
+
 2. Données relatives à l'action de formation |
 
 Identification de l'organisme déclarant dans le SI formation professionnelle |
@@ -262,7 +316,7 @@ Numéro de dossier AGORA |
 
 |
 
-Numéro de dossier interne au déclarant |
+Référence de dossier interne au déclarant ou prescripteur |
 
 |
 
@@ -331,6 +385,48 @@ Numéro de téléphone fixe de la personne pendant la formation |
 |
 
 Adresse de messagerie électronique de la personne pendant la formation |
+
+|
+
+|
+
+Caractéristiques de la personne au positionnement en formation |
+
+|
+
+|
+
+Libellé du diplôme préparé en formation initiale |
+
+|
+
+|
+
+Niveau maximum de classe visé par le candidat |
+
+|
+
+|
+
+Libellé du diplômé préparé-formation visée |
+
+|
+
+|
+
+Activité/ Statut du candidat/ stagiaire lors du positionnement |
+
+|
+
+|
+
+Date d'inscription à Pôle Emploi |
+
+|
+
+|
+
+Statut Demandeur d'Emploi du candidat |
 
 |
 
@@ -862,7 +958,37 @@ Reste à charge effectif (en HT et en TTC) |
 
 |
 
+|
+
 Données spécifiques aux actions financées dans le cadre du compte personnel de formation |
+
+|
+
+|
+
+Numéro de facture renseigné par l'OF |
+
+|
+
+|
+
+Date d'émission et transmission de la facture par l'OF |
+
+|
+
+|
+
+Montant à payer |
+
+|
+
+|
+
+Date de paiement à l'OF |
+
+|
+
+Montant effectivement payé |
 
 |
 
@@ -938,7 +1064,7 @@ Date de fin effective du contrat en alternance |
 
 |
 
-4. Données relatives au parcours professionnel de la personne |
+4. Données relatives au parcours professionnel du titulaire |
 
 Situation de la personne à l'entrée en formation ou en conseil en évolution professionnelle (CEP)
 
@@ -1292,6 +1418,24 @@ Bloc de compétences obtenues
 
 |
 
+|
+
+Bénéficiaire d'AAH (Allocation Adulte Handicapé) |
+
+|
+
+|
+
+Allocations/ Droits du candidat |
+
+|
+
+|
+
+Date prévisionnelle de fin d'indemnisation |
+
+|
+
 Caractéristiques de la Période CEP
 
 |
@@ -1512,7 +1656,7 @@ Objectif du bénéficiaire postCEP
 
 |
 
-5. Données relatives au parcours de formation du titulaire du compte. |
+5. Données relatives au parcours de formation du titulaire. |
 
 Précisions en cas de recours à une action de formation durant le CEP
 
@@ -1568,7 +1712,163 @@ Date effective de rendez-vous préalable à l'entrée en formation
 
 |
 
-Date effective d'inscription en formation
+Date effective d'inscription en formation |
+
+|
+
+|
+
+Argument (s) avancé (s) |
+
+|
+
+|
+
+Motivation du candidat |
+
+|
+
+|
+
+Argument du prescripteur |
+
+|
+
+|
+
+Date de début de période d'interruption de la formation |
+
+|
+
+|
+
+Date de fin de période d'interruption de la formation |
+
+|
+
+|
+
+Date de début de période d'interruption de la formation |
+
+|
+
+|
+
+Date de fin de période d'interruption de la formation |
+
+|
+
+|
+
+Durée hebdomadaire indiquée lors du positionnement |
+
+|
+
+|
+
+Durée en entreprise indiquée lors du positionnement |
+
+|
+
+|
+
+Nombre d'heures total de formation indiquée lors du positionnement |
+
+|
+
+|
+
+Données relatives au prescripteur du positionnement en formation |
+
+|
+
+|
+
+Origine du positionnement |
+
+|
+
+|
+
+Adresse email de contact du prescripteur |
+
+|
+
+|
+
+Nom de structure du prescripteur |
+
+|
+
+|
+
+Code Département du prescripteur |
+
+|
+
+|
+
+Données relatives à la décision prise du positionnement en formation |
+
+|
+
+|
+
+Date prévue du rendez-vous de positionnement |
+
+|
+
+|
+
+Date de décision |
+
+|
+
+|
+
+Date effective d'inscription en formation |
+
+|
+
+|
+
+Résultat du rendez-vous de positionnement |
+
+|
+
+|
+
+Date de Début du Plan de Formation |
+
+|
+
+|
+
+Date de Fin du Plan de Formation |
+
+|
+
+|
+
+Période d'interruption programmée durant la formation-Date de début |
+
+|
+
+|
+
+Période d'interruption programmée durant la formation-Date de fin |
+
+|
+
+|
+
+Motif de refus/ rejet de la demande |
+
+|
+
+|
+
+Argumentaire de refus
 
 |
 

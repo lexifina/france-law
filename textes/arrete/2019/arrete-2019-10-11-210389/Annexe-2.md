@@ -16,7 +16,7 @@ FINALITES DE L'ACCES AUX DONNEES |
 
 Caisse des dépôts et consignations assurant la gestion du traitement automatisé |
 
-Les personnels habilités de la Caisse des dépôts et consignations assurant la gestion du traitement accèdent, directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour la constitution et la mise à jour des données relatives au compte personnel de formation, la prise en charge des actions de formation de l'inscription du titulaire du compte aux formations jusqu'au paiement des organismes de formation. |
+Les personnels habilités de la Caisse des dépôts et consignations assurant la gestion du traitement accèdent, directement à tout ou partie des données à caractère personnel mentionnées à l'article R. 6323-34 du code du travail, dans les limites strictement nécessaires à l'exercice de leurs missions, pour la constitution et la mise à jour des données relatives au compte personnel de formation et aux droits individuels à la formation des élus locaux, la prise en charge des actions de formation de l'inscription du titulaire aux formations jusqu'au paiement des organismes de formation. |
 
 Opérateurs de compétences (OPCO) |
 
