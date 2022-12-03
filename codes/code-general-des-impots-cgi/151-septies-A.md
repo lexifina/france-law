@@ -62,9 +62,9 @@ V. – 1. L'indemnité compensatrice versée à un agent général d'assurances 
 
 a) Le contrat dont la cessation est indemnisée doit avoir été conclu depuis au moins cinq ans au moment de la cessation ;
 
-b) L'agent général d'assurances fait valoir ses droits à la retraite à la suite de la cessation du contrat ;
+b) L'agent général d'assurances fait valoir ses droits à la retraite dans les deux années suivant la cessation du contrat ;
 
-c) L'activité est intégralement poursuivie dans le délai d'un an.
+c) L'activité est intégralement poursuivie dans le délai de deux ans.
 
 2. Lorsque le régime de faveur prévu au 1 s'applique, l'agent général d'assurances qui cesse son activité est assujetti, sur le montant de l'indemnité compensatrice, à une taxe exceptionnelle établie selon le tarif prévu à l'article 719. Cette taxe est établie, contrôlée et recouvrée comme l'impôt sur le revenu et sous les mêmes garanties et sanctions. Un décret détermine les modalités d'application du présent 2 et les obligations déclaratives incombant aux redevables et aux compagnies d'assurances.
 
@@ -72,4 +72,6 @@ VI. – L'option pour le bénéfice du régime défini au présent article est e
 
 NOTA :
 
-Se reporter aux conditions d’application prévues au III de l'article 19 de la loi n° 2021-1900 du 30 décembre 2021.
+Par une décision n° 2024-1116 QPC du 10 janvier 2025, le Conseil constitutionnel a déclaré les mots " exerçant à titre individuel " figurant au premier alinéa du 1 du paragraphe V de l’article 151 septies A du code général des impôts, dans sa rédaction résultant de la loi n° 2022-1499 du 1er décembre 2022 de finances rectificatives pour 2022 contraires à la Constitution.
+
+Conformément au pararaphe 13 de la décision précitée, la déclaration d'inconstitutionnalité intervient à compter de la date de publication de ladite décision. Elle est applicable à toutes les affaires non jugées définitivement à cette date.

@@ -24,6 +24,8 @@ d. Des travaux de rénovation d'hôtel ;
 
 e. Des travaux de construction et de rénovation des établissements de santé privés réalisés pour l'exercice de l'activité mentionnée à l'article L. 6111-1 du code de la santé publique.
 
+Pour l'application du présent 3°, les investissements doivent être considérés comme des investissements initiaux au sens de l'article 2 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 précité. Lorsqu'un investissement de remplacement permet l'extension ou la diversification de la capacité de production de l'entreprise, la quote-part de cet investissement correspondant à l'extension ou à la diversification de la capacité de production est assimilable à un investissement initial au sens du même article 2.
+
 Pour le calcul du crédit d'impôt, le prix de revient des investissements est diminué du montant des subventions publiques attribuées en vue de financer ces investissements.
 
 3° bis Le taux mentionné au premier alinéa du 3° est porté à 30 % pour les entreprises qui ont employé moins de onze salariés et ont réalisé soit un chiffre d'affaires n'excédant pas 2 millions d'euros au cours de l'exercice ou de la période d'imposition, ramené le cas échéant à douze mois en cours lors de la réalisation des investissements éligibles, soit un total de bilan n'excédant pas 2 millions d'euros. L'effectif salarié est apprécié, au titre de chaque exercice, selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale. Le capital des sociétés bénéficiaires doit être entièrement libéré et être détenu de manière continue, pour 75 % au moins, par des personnes physiques ou par une société répondant aux mêmes conditions. Pour la détermination du pourcentage de 75 %, les participations des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds professionnels de capital investissement, des sociétés de libre partenariat, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39 du présent code entre la société en cause et ces dernières sociétés ou ces fonds.
@@ -47,7 +49,3 @@ Lorsque l'investissement est réalisé par une société soumise au régime d'im
 IV. – Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 
 V. – Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
-
-NOTA :
-
-Conformément au B du XXI de l'article 35 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions s'appliquent à compter du premier exercice suivant celui au cours duquel l'exonération prévue à l'article 44 septies du code général des impôts, dans sa rédaction antérieure à la présente loi, cesse de s'appliquer.
