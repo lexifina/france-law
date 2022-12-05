@@ -210,6 +210,20 @@ Formaldéhyde (a) |
 
 10 mg/ kg (teneur limite) dans les matériaux à base aqueuse des jouets |
 
+Aniline
+
+|
+
+62-53-3 |
+
+30 mg/ kg après coupure réductrice dans les matériaux textiles du jouet et les matériaux en cuir du jouet
+
+10 mg/ kg en tant qu'aniline libre dans les peintures au doigt
+
+30 mg/ kg après coupure réductrice dans les peintures au doigt
+
+|
+
 V. - Conditions d'emploi des substances parfumantes allergisantes dans les jouets en application du 9 de la partie "Propriétés chimiques" de l'annexe I du décret du 22 février 2010 susvisé
 
 1. Les jouets ne contiennent pas les substances parfumantes allergisantes suivantes :
@@ -1234,4 +1248,4 @@ Ces valeurs limites ne s'appliquent pas aux jouets ou composants de jouets qui, 
 
 NOTA :
 
-Conformément à l'article 2 de l'arrêté du 19 avril 2022 (NOR : ECOI2212119A), ces dispositions entrent en vigueur le 5 juillet 2022.
+Conformément à l'article 2 de l'arrêté du 19 avril 2022 (NOR : ECOI2212119A), ces dispositions entrent en vigueur le 5 décembre 2022.
