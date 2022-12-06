@@ -1,0 +1,9 @@
+# Réponse à la question n° 759
+
+- Question : [759](759.md) — Question n° 759 — Date de paiement des retraites de la CARSAT
+
+## Réponse
+
+*JO du 2022-12-06, page 6108*
+
+Le paiement des prestations vieillesse du régime général est effectué le 8 de chaque mois ou le premier jour ouvré suivant, si le huitième jour n'est pas ouvré, et les pensions sont versées le 9 du mois. Le positionnement actuel du versement au 9 du mois tient à la nécessaire synchronisation de son calendrier avec celui des autres flux financiers des régimes afin de lisser leurs besoins de financement de court terme et réduire le coût associé à la gestion de trésorerie. L'avancement de la date de paiement des pensions de retraite aurait pour conséquence d'augmenter le besoin de financement d'un montant variant en fonction de la date choisie. À titre indicatif, l'Union de recouvrement des cotisations de Sécurité sociale et d'allocations familiales - caisse nationale a établi qu'un avancement au 1er de chaque mois entraînerait un besoin de financement supplémentaire de 10 milliards d'euros sur les premiers jours du mois, et pèserait en conséquence sur les frais financiers de l'organisme. De plus, avancer le paiement des prestations n'est favorable à la trésorerie des assurés qu'une seule fois : une fois le premier virement avancé reçu, trente jours suivront toujours entre chaque échéance, avec les mêmes difficultés pour gérer cette somme dans l'attente du paiement suivant. Au vu du coût financier et organisationnel que représente sa mise en œuvre, il n'est actuellement pas envisagé de procéder à l'avancement de la date de paiement des pensions de retraite. Pour autant, les caisses déterminent les dates de versement en maximisant mois par mois l'anticipation de versement possible. Ainsi pour 2023, deux échéances de versement sont prévues au 8 du mois, une échéance au 7 du mois et une échéance au 6 du mois.
