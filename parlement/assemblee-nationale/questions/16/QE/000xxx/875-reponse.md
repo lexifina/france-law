@@ -1,0 +1,9 @@
+# Réponse à la question n° 875
+
+- Question : [875](875.md) — Question n° 875 — Extension et modalités de service de la retraite progressive
+
+## Réponse
+
+*JO du 2022-12-06, page 6109*
+
+La retraite progressive permet aux assurés de travailler à temps partiel et de bénéficier d'une partie de leur pension de retraite tout en continuant à cotiser pour leur retraite définitive. L'article 110 de la loi de financement de la sécurité sociale pour 2022 a étendu ce dispositif aux salariés dont la durée de travail n'est pas fixée en heures et qui ne sont donc pas à temps partiel ainsi qu'aux travailleurs assimilés aux travailleurs salariés. Le décret n° 2022-677 du 26 avril 2022 relatif à l'extension et aux modalités de service de la retraite progressive a fixé les modalités d'application de cette extension. Pour l'extension aux salariés au forfait en jours, ce décret a fixé la tranche de travail à temps réduit ouvrant droit à la retraite progressive de manière identique à celle applicable aux salariés à temps partiel, entre 40 % et 80 % de la durée de travail fixée annuellement en jours. L'article 110 de la loi de financement de la sécurité sociale pour 2022 ayant fixé l'entrée en vigueur de cette extension au 1er janvier 2022, les caisses d'assurance vieillesse ont dû surseoir à la prise de décision d'attribution d'une retraite progressive pour laquelle elles avaient été saisies jusqu'à la publication de ce décret, le droit étant dans ce cas attribué rétroactivement en fonction de la date d'effet demandée sur le formulaire de demande de retraite progressive. La Caisse nationale d'assurance vieillesse a transmis au réseau des caisses d'assurance retraite et de la santé au travail, depuis la publication de ce décret, une information relative à l'attribution de la retraite progressive aux salariés au forfait en jours afin que les dossiers qui étaient mis en attente puissent être traités.
