@@ -1,0 +1,9 @@
+# Réponse à la question n° 1283
+
+- Question : [1283](1283.md) — Question n° 1283 — Harmonisation à l'échelle européenne de la réglementation relative au miel
+
+## Réponse
+
+*JO du 2022-12-06, page 6039*
+
+Le renforcement de l'information des consommateurs sur l'origine des miels en mélanges est une priorité pour le Gouvernement, qui poursuit son action en faveur d'une révision de la directive sur le miel, afin que les exigences en matière de transparence sur l'origine des miels soient renforcées dans l'ensemble de l'Union européenne. Les travaux préparatoires à la révision de la directive sur le miel sont en cours. La Commission européenne a d'ores et déjà fait part aux États membres et aux professionnels de la filière de son intention d'adopter des dispositions renforçant l'indication de l'origine des miels en mélange. La publication du projet de directive est annoncée pour la fin du dernier trimestre 2022. S'agissant de l'application du logo nutritionnel européen au miel, ce dernier, en tant que produit non transformé, n'est pas soumis à la déclaration nutritionnelle obligatoire telle que prévue par le règlement relatif à l'information du consommateur sur les denrées alimentaires (INCO). De ce fait, il n'est pas concerné par une forme d'expression et de présentation complémentaires de cette déclaration, que constituerait en l'espèce un logo nutritionnel. À ce stade des réflexions menées par la Commission européenne, en vue de la présentation du nouveau règlement INCO prévue au second semestre 2023, il n'est pas envisagé de revenir sur ce point. Parallèlement, les services de la direction générale de la concurrence de la concurrence, de la consommation et de la répression des fraudes restent très vigilants quant aux éventuelles fraudes sur le marché du miel, notamment en lien avec l'origine géographique alléguée des produits.
