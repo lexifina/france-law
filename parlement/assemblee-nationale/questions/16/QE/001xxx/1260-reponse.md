@@ -1,0 +1,9 @@
+# Réponse à la question n° 1260
+
+- Question : [1260](1260.md) — Question n° 1260 — Qualité de l'air dans les établissements scolaires
+
+## Réponse
+
+*JO du 2022-12-06, page 6098*
+
+Depuis les années 2010, plusieurs actions ont été mises en place par le gouvernement afin d'améliorer la qualité de l'air intérieur. Parmi ces actions, la mise en place de la surveillance de la qualité de l'air intérieur dans les établissements recevant du public sensible comme les écoles et crèches. Une action du 4ème Plan national santé environnement vise à faire évoluer cette surveillance à compter du 1er janvier 2023 pour faciliter son appropriation par les acteurs concernés et permettre une amélioration continue de la qualité de l'air intérieur. L'éducation nationale recommande de son côté la mise en place de capteurs CO2 dans les établissements scolaires. Afin de favoriser le déploiement de ce dispositif, l'Etat, via un fonds dédié de 20 millions d'euros, apporte un soutien financier aux collectivités ayant fait le choix de se doter d'un capteur de CO2. Elles pourront être soutenues à raison de 8 € par élève scolarisé dans l'enseignement public. Cette aide a déjà permis de financer le déploiement de près de 120 000 capteurs dans les établissements scolaires pendant l'année 2021-2022 et ainsi d'équiper 50 % des écoles, 82 % de collègues et 100 % des lycées de capteurs CO2. Cette aide est prolongée jusque fin 2022. Enfin, concernant les purificateurs d'air, la question de leur efficacité et de leur innocuité est régulièrement posée. Les deux agences Anses et Ademe ont publié des expertises soulignant que les données disponibles ne permettent pas de démontrer l'efficacité et l'innocuité en conditions réelles d'utilisation des dispositifs. De manière générale pour réduire l'exposition aux polluants de l'air intérieur, il est nécessaire de limiter en priorité les émissions à la source, d'aérer et de ventiler.
