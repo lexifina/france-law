@@ -1,0 +1,9 @@
+# Réponse à la question n° 1700
+
+- Question : [1700](1700.md) — Question n° 1700 — Devenir des plans épargne logement (PEL) ouverts avant 2011
+
+## Réponse
+
+*JO du 2022-12-06, page 6041*
+
+Le plan d'épargne logement (PEL) est un produit d'épargne orienté vers un projet immobilier (achat d'un bien immobilier ou financement de travaux). Conformément aux dispositions des articles R. 315-24 et R. 315-25 du code de la construction et de l'habitation, le PEL est un contrat qui permet, au terme d'une phase d'épargne rémunérée à un taux garanti, d'obtenir, sous certaines conditions, un prêt d'épargne logement et une prime d'État (pour les PEL ouverts avant le 1er janvier 2018) dont le montant repose sur les intérêts obtenus durant la phase d'épargne du PEL. Suivant la date d'ouverture du plan, les caractéristiques du produit peuvent différer. Il en est ainsi notamment de sa durée ou de son taux de rémunération. Pour les générations de PEL souscrites avant le 1er mars 2011, la venue à terme d'un PEL n'oblige pas son titulaire à retirer les fonds qui y sont déposés, mais ne lui permet plus d'y effectuer de versements tandis que les droits à prêt sont maintenus sans limite de durée jusqu'au retrait des fonds. Par ailleurs, les sommes inscrites au compte du souscripteur d'un PEL portent intérêt au taux applicable à la génération considérée. Les caractéristiques favorables des plans d'épargne logement, d'autant plus sur les générations ouvertes avant 2011, ont progressivement conduit leurs titulaires à se détourner de l'objectif historique d'accession à la propriété immobilière pour les assimiler de plus en plus à un produit d'épargne de long terme. Ce constat a pu amener à des interrogations sur l'efficacité de l'allocation de cette épargne logement. Toutefois, dans le contexte actuel d'inflation et de nécessaire protection du pouvoir d'achat, le gouvernement ne prévoit pas de modification du taux de rémunération des PEL ouverts avant 2011.
