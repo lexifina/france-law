@@ -24,10 +24,6 @@ Admissibilité :
 
 Une sélection d'admissibilité est effectuée sur la base des dossiers des candidats selon les critères fixés par le jury et portés à la connaissance des candidats via la publication dans la plateforme de la procédure nationale de préinscription pour l'accès dans les formations initiales du premier cycle de l'enseignement supérieur.
 
-Un candidat ayant formulé un vœu dans la plateforme d'accès au premier cycle de l'enseignement supérieur et n'ayant pas été sélectionné à l'issue de cette phase n'est pas réputé avoir candidaté à la voie post-bac du concours.
-
-Les candidats sélectionnés sont convoqués à une série d'épreuves d'admission qui constituent la voie post-bac du concours.
-
 Epreuves d'admission :
 
 Les épreuves d'admission sont constituées d'une série de 3 à 10 courtes épreuves visant à évaluer les compétences intellectuelles et cognitives générales, les compétences liées au métier et les compétences et savoir-faire spécifiques, ainsi que les aptitudes personnelles. Ces épreuves d'une durée de 5 à 15 minutes peuvent être :
