@@ -8,9 +8,7 @@ Remarques :
 
 - s.o.: sans objet ; le régime concerné ne s'applique pas à l'espèce ou au groupe d'espèces désigné, lorsque les effectifs sont compris entre les seuils indiqués ;
 
-- l'introduction sur le territoire national, la détention, le transport, le colportage, l'utilisation, l'échange, la mise en vente, la vente ou l'achat de tout spécimen vivant des espèces dont le nom est suivi du symbole (*) dans la présente annexe sont interdits, en application du I de l'article L. 411-6 du code de l'environnement. L'introduction sur le territoire national, la détention, le transport, l'utilisation et l'échange de spécimens de ces espèces ne pourront être autorisés par l'autorité administrative que par exception, dans les conditions décrites au II de ce même article. Un régime particulier de détention est également prévu, au bénéfice de l'antériorité, lorsque les conditions fixées par le I de l'article R. 411-39 du code de l'environnement sont satisfaites ; la détention des spécimens concernés est alors dispensée de certificat de capacité et d'autorisation d'ouverture ;
-
-- pour l'application des seuils ci-dessous, il est tenu compte de tous les animaux détenus, quel que soit leur âge. Par exception, les animaux nés dans l'élevage ne sont pas pris en compte tant qu'ils sont au stade juvénile.
+- l'introduction sur le territoire national, la détention, le transport, le colportage, l'utilisation, l'échange, la mise en vente, la vente ou l'achat de tout spécimen vivant des espèces dont le nom est suivi du symbole (*) dans la présente annexe sont interdits, en application du I de l'article L. 411-6 du code de l'environnement. L'introduction sur le territoire national, la détention, le transport, l'utilisation et l'échange de spécimens de ces espèces ne pourront être autorisés par l'autorité administrative que par exception, dans les conditions décrites au II de ce même article. Un régime particulier de détention est également prévu, au bénéfice de l'antériorité, lorsque les conditions fixées par le I de l'article R. 411-39 du code de l'environnement sont satisfaites ; la détention des spécimens concernés est alors dispensée de certificat de capacité et d'autorisation d'ouverture.
 
 Noms scientifiques (Noms vernaculaires)
 
@@ -78,8 +76,6 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 
 - Arrêté du 20 décembre 2004 relatif aux animaux de la faune marine protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
-- Arrêté du 14 octobre 2005 relatif aux tortues marines protégées sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
-
 - Arrêté du 23 avril 2007 relatif aux insectes protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 23 avril 2007 relatif aux mammifères terrestres protégés sur l'ensemble du territoire. Le régime de détention indiqué ci-contre s'applique aux espèces concernées uniquement sur l'ensemble du territoire national.
@@ -117,6 +113,8 @@ Sauf mention contraire expresse dans la suite du présent tableau, espèces prot
 - Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans la collectivité d'outre-mer de Saint-Martin protégés sur l'ensemble du territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 - Arrêté du 24 janvier 2020 fixant la liste des insectes représentés dans le département de la Guadeloupe protégés sur l'ensemble du territoire national et les modalités de leur protection Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
+
+- Arrêté du 10 novembre 2022 fixant la liste des tortues marines protégées sur le territoire national et les modalités de leur protection. Le régime de détention indiqué ci-contre s'applique aux espèces concernées sur l'ensemble du territoire national.
 
 |
 
@@ -9345,9 +9343,3 @@ s.o.
 s.o.
 
 |
-
-NOTA :
-
-Par décision no 426241, 426253 du 14 octobre 2020 du Conseil d’Etat statuant au contentieux ECLI:FR:CECHR:2020:426241.20201014, l’annexe II de l’arrêté du 8 octobre 2018 du ministre de la transition écologique et solidaire et du ministre de l’agriculture et de l’alimentation fixant les règles générales de détention d’animaux d’espèces non domestiques (NOR : TREL1806374A) est annulée en tant qu’elle ne prévoit aucune formalité préalable pour la détention des animaux non domestiques n’ayant pas atteint l’âge adulte.
-
-Il est enjoint aux ministre de la transition écologique et de l’agriculture et de l’alimentation de modifier cette annexe II afin d’y prendre en compte les animaux n’ayant pas atteint l’âge adulte, dans un délai de trois mois à compter de la notification de la décision du Conseil d’Etat prononçant cette annulation.
