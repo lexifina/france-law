@@ -1,0 +1,9 @@
+# CENTRE COMMUNAL D ACTION SOCIALE : délibération DELIB232022CCAS — D-DECISION MODIFICATIVE 4 - BUDGET RESIDENCE AUTONOMIE LES HERMELLES
+
+- Collectivité : CENTRE COMMUNAL D ACTION SOCIALE
+- SIRET : 26350242900016
+- Date : 2022-12-07
+- Matière : 7.1 Finances locales/Divers
+- Objet : D-DECISION MODIFICATIVE 4 - BUDGET RESIDENCE AUTONOMIE LES HERMELLES
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/263502429/Deliberation/2022/301181/cc68385b783ce78ebc38b4bb349b27ab3d0b238bf99f1df41953622358c73e78.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
