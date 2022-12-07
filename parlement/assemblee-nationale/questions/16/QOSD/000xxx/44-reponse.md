@@ -1,0 +1,37 @@
+# Réponse à la question n° 44
+
+- Question : [44](44.md) — Question n° 44 — Etat des transports en commun franciliens
+
+## Réponse
+
+*JO du 2022-12-07, page 6539*
+
+TRANSPORTS EN COMMUN FRANCILIENS
+
+Mme la présidente. La parole est à M. Bastien Lachaud, pour exposer sa question, n° 44, relative aux transports en commun franciliens.
+
+M. Bastien Lachaud. Madame la secrétaire d'État chargée de l'écologie, jour après jour, des milliers de Franciliens vivent un véritable enfer dans les transports en commun. Bus et trains qui ne passent pas, temps d'attente interminables, rames bondées, difficultés à monter dans une rame, impossibilité complète de s'asseoir, sentiment d'étouffement… Les habitants et habitantes de ma circonscription, à Aubervilliers et Pantin, sont nombreux à vivre un calvaire tous les matins et tous les soirs, que ce soit dans les RER B et E, sur les lignes 5, 7 et 12 du métro ou dans les bus – les premiers concernés étant évidemment les travailleurs de première ligne, qui se voient imposer un quotidien épuisant.
+
+Et maintenant, la cerise sur le gâteau : on va demander aux usagers déjà au bord de la crise de nerfs de payer plus cher pour un service dégradé ! La présidente de la région ainsi que du syndicat des transports Île-de-France Mobilités, Valérie Pécresse, veut en effet porter le prix du ticket individuel à 2,30 euros et celui du passe Navigo à 90 euros, ce qui représente une hausse de 20 %. C'est un scandale social quand nos concitoyens subissent déjà de plein fouet la hausse de tous les prix et sont à quelques euros près chaque mois. C'est aussi une absurdité écologique au moment où il faudrait tendre vers la gratuité des transports en commun pour faciliter la bifurcation des modes de circulation.
+
+Les travailleurs des transports subissent eux aussi cette dégradation généralisée, avec des conditions de travail pénibles, des salaires trop bas, la précarité engendrée par l'ouverture à la concurrence et l'impossibilité de vivre dignement de son travail. Résultat : un problème d'attractivité. En d'autres termes, on n'arrive plus à recruter dans des métiers dégradés, ce qui fait qu'il manque des centaines de conducteurs pour les bus et les métros.
+
+Alors que le service se détériore de plus belle, comment la direction de la RATP répond-elle ? En offrant une prime à celles et ceux qui ne poseront aucune journée de grève, aucun congé maladie ou journée d'absence, même à la suite d'un accident du travail ou d'une agression, même pour s'occuper d'un enfant malade. Une véritable provocation à l'égard des salariés, tout simplement contraire au droit du travail – et quand les syndicats veulent interpeller leur direction au siège de la RATP, ils se font matraquer. Il est beau, le climat social serein vanté par Jean Castex, à qui vous avez offert un parachute doré à la RATP !
+
+Les transports publics d'Île-de-France sont en voie d'effondrement. L'absence de trains et de bus devient la norme. C'est un véritable chaos, dont votre gouvernement partage la responsabilité avec la région Île-de-France. Le Président de la République se vante sur YouTube de vouloir créer à l'avenir des RER dans dix métropoles : tant mieux, même si l'on attend encore de connaître le financement et le calendrier de ce projet, mais il faudrait déjà commencer par se soucier de ceux de l'Île-de-France, qui tombent en ruine.
+
+Or vous faites tout le contraire : vous encouragez la privatisation et l'ouverture à la concurrence des transports publics, et vous êtes aux abonnés absents quand il faudrait investir massivement pour l'avenir des transports. À grands coups de 49.3, vous avez supprimé les 3 milliards d'euros pour le ferroviaire votés par cette assemblée. Enfin, sans tenir compte de l'urgence, vous vous refusez à soutenir financièrement Île-de-France Mobilités, préférant jouer à vous renvoyer la balle avec Valérie Pécresse pendant que les usagers et les salariés font les frais de cette mauvaise pièce de théâtre. Clément Beaune a dit ce matin qu'il y aurait un soutien de l'État, mais c'est vague ! La hausse des tarifs, elle, sera votée demain.
+
+Où est votre soutien, madame la secrétaire d'État ? Quand allez-vous enfin prendre vos responsabilités, quand allez-vous agir pour en finir avec le désastre dans les transports franciliens, éviter la hausse des tarifs et rétablir un service public digne de ce nom ?
+
+Mme la présidente. La parole est à Mme la secrétaire d'État chargée de l’écologie.
+
+Mme Bérangère Couillard, secrétaire d'État chargée de l’écologie. Monsieur le député, l'État soutient la modernisation et le développement des réseaux de transport collectifs dans le cadre des contrats de plan État-région (CPER). C'est notamment le cas en Île-de-France pour les infrastructures du RER, avec plus de 935 millions d'euros investis sur le CPER en cours. Pour les lignes B et C, les investissements portent respectivement sur l'adaptation des infrastructures au nouveau matériel roulant et la modernisation du système de signalisation, ainsi que sur des travaux de modernisation des infrastructures. Nous tenons à vous assurer que l'État montre la plus grande vigilance quant au respect des coûts et des calendriers de réalisation des projets, de façon à pouvoir répondre aux attentes des voyageurs.
+
+Concernant la pénurie de machinistes-receveurs à laquelle fait face la RATP, l'opérateur a mis en œuvre un plan d'action qui vise à recruter plus de 1 500 conducteurs en 2022. Ainsi, la RATP a lancé une expérimentation pour pouvoir accéder au métier de conducteur de bus dès 18 ans, dans le cadre d'un apprentissage désormais permis par un assouplissement des textes réglementaires. La RATP a également développé des partenariats avec les agences de Pôle emploi locales et poursuivi la décentralisation du processus de recrutement au plus près des centres opérationnels. Ces actions portent leurs fruits, puisque plus de 1 000 postes étaient pourvus fin octobre contre 800 un mois plus tôt.
+
+Le ministre délégué chargé des transports tient par ailleurs à rappeler que l'organisation des transports publics de personnes en Île-de-France relève de la compétence de l'autorité organisatrice de la mobilité Île-de-France Mobilités et qu'à ce titre, c'est à IDFM qu'il appartient de fixer le niveau d'offre de transports et de juger des leviers, notamment tarifaires, à activer pour assurer l'équilibre financier du système de transports collectifs francilien. L'État a toujours soutenu IDFM dans des circonstances exceptionnelles : ce fut notamment le cas durant la crise sanitaire, avec un soutien financier de plus de 2 milliards d'euros. Chacun doit prendre ses responsabilités.
+
+Mme la présidente. La parole est à M. Bastien Lachaud.
+
+M. Bastien Lachaud. Je vous entends, madame la secrétaire d'État, mais M. Beaune disait ce matin que le Gouvernement allait aider Île-de-France Mobilités pour éviter une hausse qu'il jugeait lui-même impossible à supporter pour des Franciliens qui sont déjà à quelques euros près tous les mois à cause de l'inflation – mais aussi, je le précise, parce que vous refusez d'augmenter le Smic, ce qui a pour conséquence de freiner la progression de l'ensemble des salaires. Votre réponse consiste à dire que c'est à Île-de-France Mobilités de se débrouiller, donc que l'État ne va pas agir. Alors, quelle est la position du Gouvernement ? Deux ministres, deux positions différentes à quelques heures d'intervalle, c'est insupportable !
