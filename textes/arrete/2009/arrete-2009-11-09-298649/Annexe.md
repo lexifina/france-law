@@ -4,7 +4,7 @@ LISTE DES ANTENNES DE LA MISSION NATIONALE DE CONTRÔLE ET D'AUDIT DES ORGANISME
 
 Paris : régions Ile-de-France et Centre-Val de Loire.
 
-Lille : région Hauts-de-France.
+Lille : région Hauts-de-France et Saint-Pierre-et-Miquelon.
 
 Rennes : régions Bretagne, Normandie et Pays de la Loire.
 
