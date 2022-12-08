@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700653
+
+- Question : [SEQ220700653](seq220700653.md) — Mission interministérielle de vigilance et de lutte contre les dérives sectaires
+
+## Réponse
+
+*Intérieur et outre-mer, JO du 2022-12-08, page 6335*
+
+L'intégration de la Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES) au sein du SG-CIPDR et, plus globalement, du ministère de l'Intérieur et des Outre-mer, a permis un renouvellement de sa coopération avec les services de l'État impliqués, au premier plan, dans la lutte contre les dérives sectaires. La MIVILUDES ne disposant pas de pouvoirs d'enquête, il est essentiel qu'elle puisse enrichir son expertise, acquise au cours des vingt dernières années, grâce à des informations fiables des services de police : Service central du renseignement territorial (SCRT) et Cellule d'assistance et d'intervention en matière de dérives sectaires (CAIMADES) et de gendarmerie : Groupe national de vigilance et de lutte contre les dérives sectaires (GNVLDS), Sous-direction de l'anticipation opérationnelle (SDAO), Pôle judiciaire de la gendarmerie nationale (PJGN), Service central de renseignement criminel (SCRC). Cette intégration a, par ailleurs, permis une mutualisation du personnel entre les deux services. À ce titre, la MIVILUDES peut désormais s'appuyer sur un pôle d'appui territorial, un pôle administratif et financier, ainsi qu'un conseiller diplomatique, facilitant la coopération avec le Ministère de l'Europe et des Affaires Etrangères (et notamment avec les ambassades lorsque des ressortissants sont impliqués dans une potentielle dérive sectaire à l'étranger). Enfin, le renouvellement de l'appel à projets, doté d'une enveloppe d'un million d'euros, à destination des associations et des organismes de recherche, lancé le lundi 18 juillet 2022, démontre l'engagement de la Secrétaire d'État chargée de la Citoyenneté, Madame Sonia BACKÈS, dans la lutte contre les dérives sectaires.
