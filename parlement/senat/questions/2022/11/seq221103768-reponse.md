@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103768
+
+- Question : [SEQ221103768](seq221103768.md) — Taxe ou redevance d'enlèvement des ordures ménagères dans le cas d'une cabane de jardin
+
+## Réponse
+
+*Transition écologique et cohésion des territoires, JO du 2022-12-08, page 6372*
+
+Les communes, les établissements publics de coopération intercommunale (EPCI) et les syndicats mixtes ont la possibilité de financer la collecte et le traitement des déchets assimilés aux déchets ménagers par une taxe d'enlèvement des ordures ménagères (TEOM) ou par une redevance d'enlèvement des ordures ménagères (REOM). Dans la première hypothèse, et conformément aux dispositions de l'article 1521 du code général des impôts (CGI), la TEOM porte sur toutes les propriétés soumises à la taxe foncière sur les propriétés bâties (TFPB) ou qui en sont temporairement exonérées. Cette taxe revêt donc, non le caractère d'une redevance pour service rendu, mais celui d'une imposition à laquelle est normalement assujetti tout redevable de la TFPB à raison d'un bien situé dans une commune quand bien même le contribuable n'utiliserait pas effectivement le service. Sont imposables à la TFPB et à la TEOM les constructions fixées au sol à perpétuelle demeure qui présentent le caractère de véritables bâtiments. La jurisprudence du Conseil d'État considère comme étant fixées au sol à perpétuelle demeure les habitations légères de loisirs fixées ou simplement posées sur des socles en béton et qui n'ont pas vocation à être déplacées, c'est-à-dire qui comportent des aménagements ne permettant pas de les déplacer facilement et régulièrement. Dans la seconde hypothèse, la REOM est indifférente à l'existence d'un foncier bâti. Conformément à l'article L. 2333-76 du code général des collectivités territoriales (CGCT), la redevance est calculée en fonction du service rendu, et donc indépendamment de la surface ou des caractéristiques techniques de la cabane de jardin ou de pêche.
