@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902660
+
+- Question : [SEQ220902660](seq220902660.md) — Catégorie dite aidée de la caisse des Français de l'étranger
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-12-08, page 6330*
+
+Le financement de la catégorie aidée de la caisse des Français de l'étranger (CFE) a été marqué par plusieurs phases. Avant la loi de finances de 2011, le dispositif est passé d'un financement exclusif par la CFE (de 2002 à 2006, au travers d'un versement exceptionnel de 7,6 M€ prélevés sur les résultats cumulés de la caisse) à un financement exclusif par l'État. Le dispositif d'aide à l'accès à la CFE a fait l'objet de deux audits en 2010 (par la Cour des comptes et dans le cadre de la Revue générale des politiques publiques). Ces audits concluaient que la Caisse avait vocation à assurer une solidarité entre ses adhérents et que les excédents de la caisse permettaient d'envisager la suppression à terme du financement de l'État. La loi de finances de 2011 prévoyait que le dispositif serait désormais financé par la CFE et par l'État, sans pour autant définir de répartition. Les crédits votés pour financer la catégorie aidée sur le programme 151 s'élèvent à 0,5 M€ sur la période 2011-2015, puis à 0,38 M€ depuis 2016. La loi de décembre 2018 relative à la réforme de la Caisse a engendré une très forte hausse du coût de la catégorie aidée : la mise en œuvre de la cotisation forfaitaire de 201 € par trimestre, quels que soient l'âge et la composition du foyer, a significativement augmenté le coût au titre des allègements de cotisations. L'État a régulièrement fait un effort supplémentaire au profit de la Caisse (600 K€ en 2020, 135 K€ en 2021), dans un contexte budgétaire très contraint. Le montant des crédits sollicités en PLF 2023 sera maintenu à hauteur de 380 K€. Le dispositif de la catégorie aidée continuera de faire l'objet d'un dialogue étroit entre la Caisse et le MEAE.
