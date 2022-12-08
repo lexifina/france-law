@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003439
+
+- Question : [SEQ221003439](seq221003439.md) — Actes frauduleux sur les biens immobiliers des Français en Inde
+
+## Réponse
+
+*Europe et affaires étrangères, JO du 2022-12-08, page 6334*
+
+Le ministère de l'Europe et des affaires étrangères suit attentivement, via le consulat général de France à Pondichéry, le problème des spoliations immobilières qui affecte certains ressortissants français résidant à Pondichéry, ainsi que des ressortissants français d'origine pondichérienne résidant en France. Ces manœuvres frauduleuses, par le biais de la prescription acquisitive ou par le jeu de la falsification des titres de propriétés de biens vacants, peuvent aboutir à détourner des biens immobiliers de leur véritables propriétaires, au profit d'occupants illégaux. Les services du consulat général de France écoutent et reçoivent tous nos concitoyens qui les sollicitent à ce sujet et les invitent à porter plainte, localement ou en France, chaque fois que cela est possible. S'agissant de litiges d'ordre privé portant sur des biens immobiliers détenus par des particuliers, ces ressortissants français sont par ailleurs invités à désigner un avocat pour assurer leur défense. Dans le même temps, la consule générale de France, accompagnée de deux conseillers des Français de l'étranger, a relayé, au mois de septembre dernier, les inquiétudes légitimes de la communauté française auprès des autorités locales de Pondichéry, afin de les inviter à renforcer les mesures prises contre ce type de manœuvres frauduleuses. Enfin, un travail est mené avec un certain nombre d'associations locales, notamment l'Association pour la Protection des Propriétés et de l'Amitié des Français de Pondichéry (APPAFP), afin de favoriser des solutions de règlement pacifique des litiges immobiliers.
