@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération IV-EURO-1 — Programme de coopération transfrontalière ALCOTRA 2021-2027 : adoption d'un projet "Le numérique au service des musées"
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2022-12-09
+- Séance : AD
+- Matière : Projets européens
+- Objet : Programme de coopération transfrontalière ALCOTRA 2021-2027 : adoption d'un projet "Le numérique au service des musées"
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=09-12-2022&assembly=Assembl%C3%A9e%20d%C3%A9partementale&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
