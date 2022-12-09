@@ -256,6 +256,8 @@ Comité social d'administration du secrétariat général pour l'administration 
 
 Comité social d'administration interdépartemental des services de police de la préfecture de police
 
+Comité social d'administration spécial de la direction des aérodromes parisiens de la police aux frontières
+
 Comité social d'administration spécial des services déconcentrés de la police nationale du département de L'Ain (01)
 
 Comité social d'administration spécial des services déconcentrés de la police nationale du département de l'Aisne (02)
