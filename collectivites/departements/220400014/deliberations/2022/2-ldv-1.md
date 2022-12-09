@@ -1,0 +1,10 @@
+# DEPARTEMENT DES ALPES DE HAUTE PROVENCE : délibération 2-LDV-1 — Tarification 2023 de prestations du laboratoire vétérinaire départemental
+
+- Collectivité : DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+- SIREN : 220400014
+- Date : 2022-12-09
+- Séance : CP
+- Matière : Laboratoire Départemental vétérinaire
+- Objet : Tarification 2023 de prestations du laboratoire vétérinaire départemental
+- Acte publié : http://cga-prod-11.oxyd.net:8080/jsp/seance_agenda.jsp?date=09-12-2022&assembly=Commission%20permanente&type=apres&role=usager
+- Jeu de données : https://www.data.gouv.fr/datasets/66fa9a1833b5afe2d5679c9f
