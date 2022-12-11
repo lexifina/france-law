@@ -18,9 +18,7 @@ Si la construction du bâtiment a donné lieu à la signature d'un contrat de lo
 
 Si la construction de la maison individuelle ou accolée a donné lieu à la signature d'un contrat de construction de maison individuelle avant le 1er octobre 2021, date de signature dudit contrat :
 
-(indiquer la date)
-
-|
+(indiquer la date) |
 
 |
 
@@ -29,6 +27,20 @@ Vous pouvez consulter l'annexe IV dans le JO
 n° 246 du 22/10/2011 texte numéro 9 à l'adresse suivante
 
 http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20111022&numTexte=9&pageDebut=17924&pageFin=17934
+
+5.5. Bâtiments situés dans un périmètre de développement prioritaire d'un réseau de chaleur ou de froid classé
+
+Le bâtiment est-il situé dans un périmètre de développement prioritaire d'un réseau de chaleur ou de froid classé ?
+
+(Indiquer Oui ou Non) |
+
+|
+
+Une dérogation à l'obligation de raccordement a-t-elle été obtenue ?
+
+(Indiquer Oui ou Non) |
+
+|
 
 NOTA :
 

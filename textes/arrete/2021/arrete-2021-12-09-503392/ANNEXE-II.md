@@ -164,6 +164,20 @@ La demande de permis de construire de celle-ci a-t-elle été déposée avant le
 
 Si les deux conditions précédentes sont validées, la maison étant construite sur une parcelle concernée par un permis d'aménager octroyé avant le 01/01/2022, prévoyant un raccordement au réseau de gaz, et la demande de permis de construire de celle-ci ayant été déposée avant le 31/12/2023, la valeur de Icénergie_max a été calculée avec une valeur de Icénergie_maxmoyen fixée à 280 kgCO2/m2. |
 
+5. Bâtiments situés dans un périmètre de développement prioritaire d'un réseau de chaleur ou de froid classé
+
+Le bâtiment est-il situé dans un périmètre de développement prioritaire d'un réseau de chaleur ou de froid classé ?
+
+(Indiquer Oui ou Non) |
+
+|
+
+Une dérogation à l'obligation de raccordement a-t-elle été obtenue ?
+
+(Indiquer Oui ou Non) |
+
+|
+
 Chapitre 2 : Exigences globales
 
 1. Besoin bioclimatique conventionnel : coefficients Bbio et Bbiomax en nombre de points
