@@ -2,7 +2,7 @@
 
 Le pharmacien d'officine peut contrôler le certificat de vaccination d'un ressortissant d'un Etat tiers à l'Union européenne effectuée à l'étranger, par comparaison avec le catalogue des spécimens de certificats de vaccination étrangers établi par le ministère des affaires étrangères. Le pharmacien d'officine s'assure de l'authenticité et de la validité du certificat de vaccination.
 
-Lorsque le résultat du contrôle des pièces le permet, il établit, dans les conditions mentionnées au 3° du I de l'article 2-3 du décret n° 2021-699 du 1er juin 2021 prescrivant les mesures générales nécessaires à la gestion de la sortie de crise sanitaire, un justificatif de statut vaccinal à partir du justificatif de vaccination contre la covid-19 attestant d'un schéma complet de vaccination d'un des vaccins mentionnés au 2° de l'article 2-2 du même décret.
+Lorsque le résultat du contrôle des pièces le permet, il établit, dans les conditions mentionnées au 3° du I de l'article 2-3 du décret n° 2022-1097 du 30 juillet 2022 relatif aux mesures de veille et de sécurité sanitaire maintenues en matière de lutte contre la covid-19, un justificatif de statut vaccinal à partir du justificatif de vaccination contre la covid-19 attestant d'un schéma complet de vaccination d'un des vaccins mentionnés au 2° de l'article 2-2 du même décret.
 
 Le justificatif de certificat de vaccination n'est pas établi en cas de doute sur l'identité du demandeur, l'authenticité ou la validité du certificat de vaccination.
 
