@@ -1,6 +1,6 @@
 # Article 46 AG terdecies
 
-I. – La surface à prendre en compte pour l'application des dispositions du a du 2, du 5 de l'article 199 undecies A du code général des impôts et du 1 de l'article 46 AG duodecies est définie au III.
+I. – La surface à prendre en compte pour l'application des dispositions du a du 2, du 5 de l'article 199 undecies A et du sixième alinéa du I de l'article 217 undecies du code général des impôts et du 1 de l'article 46 AG duodecies est définie au III.
 
 II. – Pour l'application du a du 2 de l'article 199 undecies A du code général des impôts, les limites de surface habitable s'établissent, selon le nombre de personnes destinées à occuper à titre principal le logement, comme suit :
 
