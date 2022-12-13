@@ -1,0 +1,9 @@
+# Réponse à la question n° 2340
+
+- Question : [2340](2340.md) — Question n° 2340 — Révision du coefficient géographique
+
+## Réponse
+
+*JO du 2022-12-13, page 6277*
+
+Les coefficients géographiques majorants sont un dispositif qui s'applique aux tarifs nationaux et aux forfaits annuels dans certaines zones géographiques, pour tous les établissements de la zone (publics et privés). Les éventuels surcoûts structurels d'un établissement particulier au sein d'une zone géographique n'ont par conséquent pas vocation à être financés par la mise en œuvre d'un coefficient géographique qui est calculé au regard des surcoûts (immobiliers, salariaux ou fiscaux) subis par tous les établissements d'une zone géographique. Les régions éligibles au coefficient géographique présentent des surcoûts importants, et ce s'agissant de l'ensemble des facteurs de production (charges de personnel, médicaments et dispositifs médicaux, fiscalité, surcoûts immobiliers), dans des proportions spécifiques à chaque région. Il convient en premier lieu de rappeler que La Réunion bénéficie aujourd'hui, avec la Guyane, du niveau le plus élevé parmi les territoires concernés. Par ailleurs, il convient de rappeler que le coefficient géographique n'est pas l'unique correctif permettant de prendre en compte la spécificité des territoires d'outre-mer dans les modalités de financement des établissements de santé. Sur ce point, un rapport du Gouvernement a été remis aux parlementaires en 2021. Des travaux sont actuellement engagés par la direction générale de l'offre de soins, en lien avec la direction de la recherche, des études, de l'évaluation et des statistiques qui est chargée de proposer une méthodologie d'objectivation robuste et d'évaluer le niveau adéquat des coefficients géographiques pour une mise à jour le cas échéant en 2023.
