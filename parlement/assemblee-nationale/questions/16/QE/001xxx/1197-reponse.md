@@ -1,0 +1,9 @@
+# Réponse à la question n° 1197
+
+- Question : [1197](1197.md) — Question n° 1197 — L'accès à la santé sexuelle et reproductive pour les Françaises de l'étranger
+
+## Réponse
+
+*JO du 2022-12-13, page 6257*
+
+La France mène une diplomatie résolument féministe et continuera à défendre sans relâche le droit des femmes à disposer librement de leur corps. Avec le Forum Génération Egalité, co-organisé avec le Mexique sous l'égide d'ONU Femmes en 2021, la France a mobilisé la communauté internationale pour apporter un soutien concret à ce combat, en prenant la tête d'une coalition en faveur des droits et santé sexuels et reproductifs. Elle a pris à cette occasion l'engagement d'une contribution à hauteur de 400 millions d'euros sur 5 ans en faveur des droits et santé sexuels et reproductifs, et de la santé des femmes. Cependant, si la France promeut dans les instances internationales le droit des femmes à disposer librement de leur corps, elle ne peut intervenir directement auprès d'autorités étrangères pour exiger l'accès à l'IVG pour ses ressortissantes, chaque Etat étant souverain dans la définition des règles de droit qui s'appliquent sur son territoire. Concernant les Françaises résidant dans un pays étranger où l'interruption volontaire de grossesse est interdite, il n'existe pas de dispositif spécifique. Néanmoins, les personnes dans le besoin peuvent solliciter l'accès au dispositif des aides sociales directes classiques (aides à durée déterminée et secours occasionnel), dès lors qu'elles remplissent les critères d'éligibilité. Par ailleurs, les postes consulaires seront sollicités pour bien mettre à jour leurs connaissances sur la législation locale en matière d'IVG et identifier les associations locales susceptibles d'apporter des informations ou un accompagnement, afin de répondre aux demandes qui pourraient être formulées par des Françaises résidant à l'étranger.
