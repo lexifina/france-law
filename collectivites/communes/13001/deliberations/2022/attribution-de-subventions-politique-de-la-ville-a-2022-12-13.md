@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — ATTRIBUTION DE SUBVENTIONS POLITIQUE DE LA VILLE AU TITRE DE L'EXERCICE 2022- AVENANT A LA CONVENTION ANNUELLE AVEC LA MISSION LOCALE DU PAYS D'AIX- AUTORISER MADAME LE MAIRE OU SON REPRESENTANT A LE SIGNER
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-12-13
+- Séance : Conseil Municipal 1CA
+- Objet : ATTRIBUTION DE SUBVENTIONS POLITIQUE DE LA VILLE AU TITRE DE L'EXERCICE 2022- AVENANT A LA CONVENTION ANNUELLE AVEC LA MISSION LOCALE DU PAYS D'AIX- AUTORISER MADAME LE MAIRE OU SON REPRESENTANT A LE SIGNER
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-14827-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
