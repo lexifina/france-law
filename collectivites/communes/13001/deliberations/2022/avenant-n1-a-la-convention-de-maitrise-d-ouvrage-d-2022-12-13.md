@@ -1,0 +1,10 @@
+# Aix-en-Provence : délibération — AVENANT N°1 A LA CONVENTION DE MAITRISE D'OUVRAGE DÉLÉGUÉE ENTRE LA MÉTROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNE D'AIX-EN-PROVENCE RELATIVE A LA RÉALISATION DE TRAVAUX PLUVIAUX SUR LA COMMUNE D'AIX-EN-PROVENCE - PROGRAMME 2022
+
+- Collectivité : Aix-en-Provence
+- SIREN : 211300017
+- Code INSEE : 13001
+- Date : 2022-12-13
+- Séance : Conseil Municipal 1CA
+- Objet : AVENANT N°1 A LA CONVENTION DE MAITRISE D'OUVRAGE DÉLÉGUÉE ENTRE LA MÉTROPOLE AIX-MARSEILLE-PROVENCE ET LA COMMUNE D'AIX-EN-PROVENCE RELATIVE A LA RÉALISATION DE TRAVAUX PLUVIAUX SUR LA COMMUNE D'AIX-EN-PROVENCE - PROGRAMME 2022
+- Acte publié : http://eadm.mairie-aixenprovence.fr/delibinternet/delib-14629-.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/liste-des-deliberations-aix-en-provence@aix-en-provence
