@@ -1,0 +1,98 @@
+# Programmation militaire pour les années 2024 à 2030 et diverses dispositions intéressant la défense
+
+- Procédure : Projet de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N47509
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/programmation_militaire_2024_2030
+- Sénat : http://www.senat.fr/dossier-legislatif/pjl22-712.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2023-04-04 : 1er dépôt d'une initiative. (PRJLANR5L16B1033)
+  - 2023-04-04 : Etude d'impact (ETDIANR5L16B1033)
+  - 2023-04-04 : Avis du Conseil d'Etat (AVCEANR5L16B1033)
+  - 2023-04-04 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-04-04 : Renvoi en commission au fond
+      - 2023-04-04 : Nomination de rapporteur
+      - 2023-04-04 : Réunion de commission
+      - 2023-05-09 : Réunion de commission
+      - 2023-05-10 : Réunion de commission
+      - 2023-05-10 : Réunion de commission
+      - 2023-05-10 : Réunion de commission
+      - 2023-05-11 : Réunion de commission
+      - 2023-05-11 : Réunion de commission
+      - 2023-05-11 : Réunion de commission
+      - 2023-05-12 : Réunion de commission
+      - 2023-05-22 : Réunion de commission
+      - 2023-05-12 : Dépôt de rapport (RAPPANR5L16B1234, PRJLANR5L16BTC1234)
+    - Travaux d'une commission saisie pour avis
+      - 2023-04-11 : Saisine pour avis d'une commission
+      - 2022-12-14 : Nomination de rapporteur
+      - 2022-12-14 : Réunion de commission
+      - 2023-05-03 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2023-04-12 : Saisine pour avis d'une commission
+      - 2023-04-12 : Nomination de rapporteur
+      - 2023-04-12 : Réunion de commission
+      - 2023-04-26 : Réunion de commission
+      - 2023-05-03 : Réunion de commission
+    - Travaux d'une commission saisie pour avis
+      - 2023-04-12 : Saisine pour avis d'une commission
+      - 2023-04-12 : Nomination de rapporteur
+      - 2023-04-12 : Réunion de commission
+      - 2023-05-10 : Réunion de commission
+      - 2023-05-10 : Réunion de commission
+  - Discussion en séance publique
+    - 2023-05-22 : Discussion en séance publique
+    - 2023-05-22 : Discussion en séance publique
+    - 2023-05-23 : Discussion en séance publique
+    - 2023-05-23 : Discussion en séance publique
+    - 2023-05-24 : Discussion en séance publique
+    - 2023-05-24 : Discussion en séance publique
+    - 2023-05-25 : Discussion en séance publique
+    - 2023-05-25 : Discussion en séance publique
+    - 2023-05-25 : Discussion en séance publique
+    - 2023-05-26 : Discussion en séance publique
+    - 2023-05-26 : Discussion en séance publique
+    - 2023-05-26 : Discussion en séance publique
+    - 2023-05-30 : Discussion en séance publique
+    - 2023-05-30 : Discussion en séance publique
+    - 2023-05-31 : Discussion en séance publique
+    - 2023-06-01 : Discussion en séance publique
+    - 2023-06-01 : Discussion en séance publique
+    - 2023-06-07 : Discussion en séance publique
+    - 2023-06-07 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-06-07 : Dépôt d'une initiative en navette (PRJLSNR5S399B0712)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-06-07 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-06-14 : Dépôt de rapport (RAPPSNR5S399B0739, PRJLSNR5S399BTC0740)
+  - Discussion en séance publique
+    - 2023-06-29 : Décision
+- Commission Mixte Paritaire
+  - 2023-07-08 : Dépôt d'un projet de loi (PRJLANR5L16B1516)
+  - 2023-07-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2023-07-10 : Nomination de rapporteur
+    - 2023-07-10 : Dépôt du rapport d'une CMP (RAPPSNR5S399B0864, PRJLSNR5S399BTC0865)
+    - 2023-07-10 : Dépôt du rapport d'une CMP (RAPPANR5L16B1517, PRJLANR5L16BTC1517)
+  - Discussion en séance publique
+    - 2023-07-12 : Discussion en séance publique
+    - 2023-07-12 : Discussion en séance publique
+    - 2023-07-12 : Décision
+  - Discussion en séance publique
+    - 2023-07-13 : Discussion en séance publique
+    - 2023-07-13 : Décision
+  - 2023-07-11 : Décision de la CMP
+- Conseil constitutionnel
+  - 2023-07-13 : Saisine du conseil constitutionnel
+  - 2023-07-28 : Conclusion du conseil constitutionnel
+- Promulgation de la loi
+  - 2023-08-01 : Promulgation d'une loi
+- Mise en application de la loi
+  - 2025-09-30 : Rapport sur l'application des lois (RINFANR5L17B1890)
