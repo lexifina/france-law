@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003088
+
+- Question : [SEQ221003088](seq221003088.md) — Vente au déballage
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-12-15, page 6498*
+
+La Direction générale de la concurrence, de la consommation est de la répression des fraudes (DGCCRF) est mobilisée pour lutter, aux niveaux régional et national, contre les abus en matière de vente au déballage des fruits et légumes. Elle s'appuie à cet égard sur un réseau d'enquêteurs spécialisés dans les fruits et légumes comprenant près de 200 agents. Une enquête dédiée à cette problématique, initialement menée en Occitanie, a ainsi été élargie à l'ensemble du territoire métropolitain. En 2021, l'enquête incluant les contrôles relatifs à la vente au déballage, à laquelle 87 départements ont participé, a révélé que les régions du sud de la France (Nouvelle Aquitaine/Occitanie et PACA) sont les plus concernées par les abus. Elle a également permis d'identifier les sociétés qui en sont à l'origine, ainsi que leur organisation. Près de 40 établissements ont été contrôlés et 50 % d'entre eux ont fait l'objet de poursuites pénales. A cette action répressive s'ajoutent des actions de communication à destination des professionnels et des collectivités locales, notamment par l'envoi de dépliants pédagogiques rappelant l'ensemble des règles relatives à la vente au déballage, y compris l'obligation de fournir à la DD (ETS) PP locale compétente copie de la déclaration préalable adressée au maire de la commune dont dépend le lieu de vente. Des réunions d'information avec les mairies sont également, organisées par les agents de la DGCCRF. La DGCCRF reste fortement mobilisée, aux niveaux régional et national, pour lutter contre les abus commis dans le domaine de la vente au déballage des fruits et légumes.
