@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Autorisation de signer un acte contenant remise au profit de la Ville du volume 2 de la parcelle T n°241 sise 43 rue du Gouverneur Général Eboué
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-12-15
+- Matière : PATRIMOINE
+- Objet : Autorisation de signer un acte contenant remise au profit de la Ville du volume 2 de la parcelle T n°241 sise 43 rue du Gouverneur Général Eboué
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMTQsInB1ciI6ImJsb2JfaWQifX0=--e59be160fbb5735351a502319e14c03bad33b068/151222_14.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
