@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Approbation de l'acte modificatif n°3 au marché n°MA18015 relatif à l'exploitation, la maintenance et les travaux des équipements de génie climatique des bâtiments communaux
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-12-15
+- Matière : ARCHITECTURE ET BATIMENTS
+- Objet : Approbation de l'acte modificatif n°3 au marché n°MA18015 relatif à l'exploitation, la maintenance et les travaux des équipements de génie climatique des bâtiments communaux
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMTMsInB1ciI6ImJsb2JfaWQifX0=--e71aa0ead4436d0b550709ee7dc29c1bc694f48a/151222_11.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
