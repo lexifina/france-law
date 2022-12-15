@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Création d’emplois aidés dans le cadre du dispositif « parcours emplois-compétences »
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-12-15
+- Matière : RESSOURCES HUMAINES
+- Objet : Création d’emplois aidés dans le cadre du dispositif « parcours emplois-compétences »
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ3NjgsInB1ciI6ImJsb2JfaWQifX0=--518f129d1b60dd16e9ebc71945c32762d17f74fa/151222_23.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
