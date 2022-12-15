@@ -1,0 +1,64 @@
+# Mesures pour bâtir la société du bien vieillir en France
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46868
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_societe_bien_vieillir
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl23-147.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-12-15 : 1er dépôt d'une initiative. (PIONANR5L16B0643)
+  - 2023-04-11 : Le gouvernement déclare l'urgence / engage la procédure accélérée
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-12-15 : Renvoi en commission au fond
+      - 2023-01-10 : Nomination de rapporteur
+      - 2023-01-10 : Réunion de commission
+      - 2023-04-03 : Réunion de commission
+      - 2023-04-03 : Réunion de commission
+      - 2023-04-03 : Réunion de commission
+      - 2023-04-04 : Réunion de commission
+      - 2023-04-05 : Réunion de commission
+      - 2023-04-05 : Réunion de commission
+      - 2023-04-11 : Réunion de commission
+      - 2023-04-05 : Dépôt de rapport (RAPPANR5L16B1070, PIONANR5L16BTC1070)
+  - Discussion en séance publique
+    - 2023-04-11 : Discussion en séance publique
+    - 2023-04-12 : Discussion en séance publique
+    - 2023-04-12 : Discussion en séance publique
+    - 2023-04-13 : Discussion en séance publique
+    - 2023-04-13 : Discussion en séance publique
+    - 2023-04-13 : Discussion en séance publique
+    - 2023-11-20 : Discussion en séance publique
+    - 2023-11-20 : Discussion en séance publique
+    - 2023-11-21 : Discussion en séance publique
+    - 2023-11-23 : Discussion en séance publique
+    - 2023-11-23 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-11-23 : Dépôt d'une initiative en navette (PIONSNR5S419B0147)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-11-23 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-01-17 : Dépôt de rapport (RAPPSNR5S419B0252, PIONSNR5S419BTC0253)
+  - Discussion en séance publique
+    - 2024-02-06 : Discussion en séance publique
+    - 2024-02-06 : Décision
+- Commission Mixte Paritaire
+  - 2024-02-06 : Dépôt d'un projet de loi (PIONANR5L16B2152)
+  - 2024-02-07 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-03-12 : Nomination de rapporteur
+    - 2024-03-12 : Dépôt du rapport d'une CMP (RAPPANR5L16B2327, PIONANR5L16BTC2327)
+    - 2024-03-13 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0411, PIONSNR5S419BTC0412)
+  - Discussion en séance publique
+    - 2024-03-19 : Discussion en séance publique
+    - 2024-03-19 : Décision
+  - Discussion en séance publique
+    - 2024-03-27 : Discussion en séance publique
+    - 2024-03-27 : Décision
+  - 2024-03-13 : Décision de la CMP
+- Promulgation de la loi
+  - 2024-04-08 : Promulgation d'une loi
