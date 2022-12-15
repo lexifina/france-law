@@ -1,0 +1,9 @@
+# COMMUNE DE LA CHAPELLE JANSON : délibération DELIBCOM22109 — DECLARATION D'INTENTION D'ALIENER SOUMIS AU DPU SECTION AC245 2 RUE LOUISON BOBET
+
+- Collectivité : COMMUNE DE LA CHAPELLE JANSON
+- SIRET : 21350062200013
+- Date : 2022-12-15
+- Matière : 2.3.3 Urbanisme/Droit de preemption urbain
+- Objet : DECLARATION D'INTENTION D'ALIENER SOUMIS AU DPU SECTION AC245 2 RUE LOUISON BOBET
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213500622/Deliberation/2022/300375/9926ac3ac2e88993f9847be8de81ad61a8f256556d511539a8958c3f572c942e.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
