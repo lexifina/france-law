@@ -16,4 +16,4 @@ Lui sont annexées les copies :
 
 ― du dernier arrêté d'homologation ;
 
-― de l'arrêté d'ouverture au public visé à l'article R. 123-46 du code de la construction et de l'habitation.
+― de l'arrêté d'ouverture au public visé à l'article R. 143-39 du code de la construction et de l'habitation.
