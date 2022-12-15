@@ -1,0 +1,71 @@
+# Mieux protéger et accompagner les enfants victimes et co-victimes de violences intrafamiliales
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46864
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/mieux_proteger_accompagner_victimes_violences_intrafamiliales
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-344.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-12-15 : 1er dépôt d'une initiative. (PIONANR5L16B0658)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-12-15 : Renvoi en commission au fond
+      - 2023-01-18 : Nomination de rapporteur
+      - 2023-01-18 : Réunion de commission
+      - 2023-02-01 : Réunion de commission
+      - 2023-02-09 : Réunion de commission
+      - 2023-02-01 : Dépôt de rapport (RAPPANR5L16B0800, PIONANR5L16BTC0800)
+  - Discussion en séance publique
+    - 2023-02-09 : Discussion en séance publique
+    - 2023-02-09 : Discussion en séance publique
+    - 2023-02-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-02-10 : Dépôt d'une initiative en navette (PIONSNR5S399B0344)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-02-10 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-03-08 : Dépôt de rapport (RAPPSNR5S399B0400, PIONSNR5S399BTC0401)
+  - Discussion en séance publique
+    - 2023-03-21 : Décision
+- deuxième lecture
+  - 2023-03-22 : Dépôt d'une initiative en navette (PIONANR5L16B1001)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-03-22 : Renvoi en commission au fond
+      - 2023-10-04 : Réunion de commission
+      - 2023-11-13 : Réunion de commission
+      - 2023-10-04 : Dépôt de rapport (RAPPANR5L16B1697, PIONANR5L16BTC1697)
+  - Discussion en séance publique
+    - 2023-11-13 : Discussion en séance publique
+    - 2023-11-13 : Discussion en séance publique
+    - 2023-11-14 : Discussion en séance publique
+    - 2023-11-13 : Décision
+- deuxième lecture
+  - 2023-11-14 : Dépôt d'une initiative en navette (PIONSNR5S419B0098)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-11-14 : Renvoi en commission au fond
+      - 2024-01-31 : Dépôt de rapport (RAPPSNR5S419B0297, PIONSNR5S419BTC0298)
+  - Discussion en séance publique
+    - 2024-02-06 : Discussion en séance publique
+    - 2024-02-06 : Décision
+- Commission Mixte Paritaire
+  - 2024-02-06 : Dépôt d'un projet de loi (PIONANR5L16B2153)
+  - 2024-02-13 : Convocation d'une CMP
+  - Commission Mixte Paritaire
+    - 2024-02-15 : Nomination de rapporteur
+    - 2024-02-15 : Dépôt du rapport d'une CMP (RAPPANR5L16B2224, PIONANR5L16BTC2224)
+    - 2024-02-15 : Dépôt du rapport d'une CMP (RAPPSNR5S419B0349, PIONSNR5S419BTC0350)
+  - Discussion en séance publique
+    - 2024-03-11 : Discussion en séance publique
+    - 2024-03-11 : Décision
+  - Discussion en séance publique
+    - 2024-03-12 : Discussion en séance publique
+    - 2024-03-12 : Décision
+  - 2024-02-15 : Décision de la CMP
+- Promulgation de la loi
+  - 2024-03-18 : Promulgation d'une loi
