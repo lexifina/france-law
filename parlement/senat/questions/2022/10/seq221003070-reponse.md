@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003070
+
+- Question : [SEQ221003070](seq221003070.md) — Accès aux soins pour les Français du Vanuatu en Nouvelle-Calédonie
+
+## Réponse
+
+*Santé et prévention, JO du 2022-12-15, page 6510*
+
+Le Vanuatu n'étant pas couvert par les régimes français métropolitains de sécurité sociale et ne bénéficiant pas non plus d'un système propre de sécurité sociale qui serait coordonné avec les régimes français métropolitains de sécurité sociale, les personnes résidant au Vanuatu sont appelées à disposer à titre individuel d'un contrat d'assistance ou d'une assurance permettant de couvrir tous les frais médicaux (opération chirurgicale, hospitalisation ou rapatriement). De nombreuses personnes résidant au Vanuatu ont ainsi décidé d'adhérer aux assurances maladie-maternité de la caisse des Français de l'étranger (CFE). Cependant, il convient de souligner que les assurances maladie-maternité gérées par la CFE, qui permettent la prise en charge des frais d'hospitalisation de ses adhérents expatriés, ne sont pas coordonnées avec les régimes français métropolitains de sécurité sociale. Par conséquent, les adhérents à la CFE au titre des assurances maladie-maternité ne sauraient se prévaloir des dispositions de l'accord portant coordination des régimes métropolitains et calédoniens de sécurité sociale (décret n° 2002-1371 du 19 novembre 2002), ni des formulaires SE-988 y afférents, afin de bénéficier du tiers-payant au sein des hôpitaux de Nouvelle-Calédonie. Du fait de la spécificité du régime calédonien de sécurité sociale d'une part, qui est distinct du régime métropolitain, et de l'absence de régime propre de sécurité sociale du Vanuatu d'autre part, seul un accord établi entre la Nouvelle-Calédonie et le Vanuatu pourrait permettre un mécanisme défini de prise en charge automatique au titre des soins effectués en Nouvelle-Calédonie.
