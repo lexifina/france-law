@@ -1,0 +1,10 @@
+# Ville d'Issy-les-Moulineaux : délibération — Présentation du rapport sur la situation en matière d’égalité femmes-hommes à Issy-les-Moulineaux pour l’année 2022
+
+- Collectivité : Ville d'Issy-les-Moulineaux
+- SIREN : 219200409
+- Code INSEE : 92040
+- Date : 2022-12-15
+- Matière : VIE DES FEMMES
+- Objet : Présentation du rapport sur la situation en matière d’égalité femmes-hommes à Issy-les-Moulineaux pour l’année 2022
+- Acte publié : https://issy.contribuer.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU3MDUsInB1ciI6ImJsb2JfaWQifX0=--b719854aa29d74e72b18590ab104e0a268beb6a0/151222_15.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/67e22a5a2f3675bb5052ce39
