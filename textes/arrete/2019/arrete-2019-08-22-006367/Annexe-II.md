@@ -1,328 +1,400 @@
 # Article Annexe II
 
-RÉPARTITION DES FORMATIONS DE SPÉCIALITÉS EN FONCTION DE LA NATURE, DU NIVEAU DES FORMATIONS ET DES ORGANISMES DE FORMATION
+FORMATIONS AUX SPECIALITÉS OPÉRATIONNELLES ET PROFESSIONNELLES
 
-1. Formations de spécialité autorisées à titre permanent.
+1° Spécialités et référentiels associés aux formations
 
-Domaines de spécialité |
+Les formations aux spécialités ci-après sont dispensées selon les référentiels nationaux d'activités et de compétences ou les guides nationaux de référence suivants :
 
-Niveaux |
+Spécialités opérationnelles |
+
+Spécialités |
+
+Référentiels et GNR |
+
+Cynotechnie (CYN) |
+
+GNR cynotechnie |
+
+Feux de forêts et d'espaces naturels (FDFEN) |
+
+GNR feux de forêts |
+
+Interventions à bord des navires et des bateaux (IBNB) |
+
+Référentiels IBNB |
+
+Interventions en milieu aquatique hyperbare (SAL) |
+
+Arrêté (NOR IOME2210805A) et référentiel interventions en milieu aquatique et hyperbare |
+
+Interventions en milieu aquatique (SAV) |
+
+GNR secours aquatique |
+
+Interventions face aux risques chimiques et biologiques (RCH) |
+
+GNR risques chimiques et biologiques |
+
+Interventions face aux risques radiologiques (RAD) |
+
+GNR risques radiologiques |
+
+Sauvetage, appui et recherche (USAR) |
+
+GNR sauvetage déblaiement |
+
+Secours en milieu périlleux et montagne (SMPM) |
+
+GNR groupe de recherche et d'intervention en milieu périlleux |
+
+GNR secours en montagne |
+
+GNR canyon |
+
+GNR sur les interventions en site souterrain |
+
+Spécialités professionnelles |
+
+Spécialités |
+
+Référentiels et GNR |
+
+Conduite (COD) |
+
+Note d'information du 10 août 1999 |
+
+Encadrement des activités physiques (EAP) |
+
+Référentiels encadrement des activités physiques |
+
+Formation et développement des compétences (FDC) |
+
+Référentiels formation et développement des compétences |
+
+Prévention contre les risques d'incendie et de panique (PRV) |
+
+GNR prévention |
+
+Systèmes d'information et de communication (SIC) |
+
+Référentiels des systèmes d'information et de communication |
+
+2° Formation aux spécialités autorisées à titre permanent.
+
+Les organismes de formation mentionnés ci-après sont autorisés à dispenser à titre permanent les niveaux de formations aux spécialités et, le cas échéant, leurs préformations associées, suivants :
+
+Spécialités |
+
+Niveaux des formations |
 
 Organismes de formation |
 
-Conduite |
-
-COD1 |
-
-SIS
-
-ECASC
-
-Unités militaires investies à titre permanent de missions de sécurité civile |
-
-COD2 |
+Spécialités opérationnelles |
 
 Cynotechnie |
 
-préformation CYN |
-
 CYN1 |
 
-Encadrement des activités physiques |
+Etablissement public pour la protection de la forêt méditerranéenne
 
-Opérateurs des activités physiques |
+Services départementaux et territoriaux d'incendie et de secours
 
-SIS
+Brigade de sapeurs-pompiers de Paris
 
-ECASC
+Bataillon de marins-pompiers de Marseille
 
-CNFPT |
+Formations militaires de la sécurité civile |
 
-Feux de forêts |
+Feux de forêts et d'espaces naturels |
 
-FDF1 |
+Equipiers FDFEN |
 
-SIS
+Chef d'agrès FDFEN |
 
-ECASC
+Equipier DIH |
 
-Unités militaires investies à titre permanent de missions de sécurité civile |
+Chef d'équipe DIH |
 
-FDF2 |
-
-DIH1 |
-
-Chef de détachement DIH |
-
-Formation et développement des compétences |
-
-Accompagnateur de proximité |
-
-Tous les établissements et organismes mentionnés à l'article 13 |
-
-Intervention en milieux périlleux |
-
-IMP1 |
-
-SIS
-
-ECASC |
-
-Prévention |
-
-PRV1 |
-
-SIS
-
-ENSOSP
-
-CNFPT
-
-Unités militaires investies à titre permanent de missions de sécurité civile |
-
-Risques chimiques et biologiques |
-
-RCH1 |
-
-SIS
-
-ECASC
-
-Unités militaires investies à titre permanent de missions de sécurité civile |
-
-RCH2 |
-
-Risques radiologiques |
-
-RAD1 |
-
-RAD2 |
-
-Sauvetage aquatique |
+Interventions en milieu aquatique |
 
 SAV1 |
 
 SAV2 |
 
-Sauvetage déblaiement |
+Interventions face aux risques chimiques et biologiques |
 
-SDE1 |
+RCH1 |
 
-SDE2 |
+RCH2 |
 
-Secours en montagne |
+Interventions face aux risques radiologiques |
+
+RAD1 |
+
+RAD2 |
+
+Sauvetage, appui et recherche |
+
+Equipier USAR |
+
+Chef d'unité USAR |
+
+Secours en milieu périlleux et montagne |
+
+IMP1 |
+
+Etablissement public pour la protection de la forêt méditerranéenne
+
+Services départementaux et territoriaux d'incendie et de secours
+
+Brigade de sapeurs-pompiers de Paris
+
+Bataillon de marins-pompiers de Marseille |
 
 SMO1 |
 
-SIS
+Spécialités professionnelles |
 
-ECASC |
+Conduite |
+
+COD1 |
+
+Etablissement public pour la protection de la forêt méditerranéenne
+
+Services départementaux et territoriaux d'incendie et de secours
+
+Brigade de sapeurs-pompiers de Paris
+
+Bataillon de marins-pompiers de Marseille
+
+Formations militaires de la sécurité civile |
+
+COD2 |
+
+Encadrement des activités physiques |
+
+Opérateur des activités physiques |
+
+Etablissement public pour la protection de la forêt méditerranéenne
+
+Centre national de la fonction publique territoriale
+
+Services départementaux et territoriaux d'incendie et de secours |
+
+Formation et développement des compétences |
+
+Accompagnateur de proximité |
+
+Ensemble des organismes mentionnés à l'article 13 |
+
+Prévention contre les risques d'incendie et de panique |
+
+Agent de prévention |
+
+Ecole nationale supérieurs des officiers de sapeurs-pompiers
+
+Centre national de la fonction publique territoriale
+
+Services départementaux et territoriaux d'incendie et de secours
+
+Brigade de sapeurs-pompiers de Paris
+
+Bataillon de marins-pompiers de Marseille |
 
 Systèmes d'information et de communication |
 
+Opérateur de coordination opérationnelle en poste de commandement tactique |
+
+Etablissement public pour la protection de la forêt méditerranéenne
+
+Centre national de la fonction publique territoriale
+
+Services départementaux et territoriaux d'incendie et de secours
+
+Brigade de sapeurs-pompiers de Paris
+
+Bataillon de marins-pompiers de Marseille
+
+Formations militaires de la sécurité civile |
+
 Opérateur de salle opérationnelle |
-
-SIS
-
-CNFPT
-
-Unités militaires investies à titre permanent de missions de sécurité civile |
 
 Chef de salle opérationnelle |
 
-Opérateur de coordination opérationnelle
+3° Formations aux spécialités soumises à habilitation de l'organisme de formation.
 
-en poste de commandement |
+Les organismes de formation mentionnés ci-après, après obtention d'une habilitation, sont autorisés à dispenser les niveaux de formations aux spécialités et, le cas échéant leurs préformations associées, suivants :
 
-2. Formations de spécialité habilitées après validation des référentiels internes d'organisation de la formation et de l'évaluation par le ministre chargé de la sécurité civile.
+Spécialités |
 
-Domaines de spécialité |
-
-Niveaux |
+Niveaux des formations |
 
 Organismes de formation |
 
-Aéro |
-
-AER3 |
-
-ECASC |
-
-AER4 |
-
-Canyon |
-
-CAN2 |
-
-ECASC |
+Spécialités opérationnelles |
 
 Cynotechnie |
 
 CYN3 |
 
-ECASC |
+Etablissement public pour la protection de la forêt méditerranéenne |
+
+Feux de forêts et d'espaces naturels |
+
+Chef de groupe FDFEN |
+
+Chef de colonne FDFEN |
+
+Chef de site FDFEN |
+
+AER3 |
+
+AER4 |
+
+Interventions à bord des navires et des bateaux |
+
+IBNB3 |
+
+Etablissement public pour la protection de la forêt méditerranéenne, pour les eaux intérieures
+
+Bataillon de marins-pompiers de Marseille, pour les eaux maritimes |
+
+IBNB4 |
+
+Interventions face aux risques chimiques et biologiques |
+
+RCH4 |
+
+Ecole nationale supérieure des officiers de sapeurs-pompiers |
+
+Interventions face aux risques radiologiques |
+
+RAD4 |
+
+Secours en milieu périlleux et montagne |
+
+CAN2 |
+
+Etablissement public pour la protection de la forêt méditerranéenne |
+
+SMO2 |
+
+IMP3 |
+
+SMO3 |
+
+Neige 1 et 2 |
+
+Glace 1 et 2 |
+
+Spécialités professionnelles |
 
 Encadrement des activités physiques |
 
 Conseiller des activités physiques |
 
-CNFPT |
-
-Feux de forêts |
-
-FDF3 |
-
-ECASC |
-
-FDF4 |
-
-FDF5 |
+Centre national de la fonction publique territoriale |
 
 Formation et développement des compétences |
 
-Formateur accompagnateur |
-
-- CNFPT
-
-- ENSOSP, ECASC et FORMISC pour les besoins propres à leur organisme |
-
 Concepteur de formation |
 
-Intervention à bords des navires et des bateaux |
+Centre national de la fonction publique territoriale
 
-IBNB3 |
+Ecole nationale supérieurs des officiers de sapeurs-pompiers, Etablissement public pour la protection de la forêt méditerranéenne et Formations militaires de la sécurité civile, pour leurs besoins propres |
 
-- Bataillon des marins-pompiers de Marseille pour les eaux maritimes
-
-- ECASC pour les eaux intérieures |
-
-IBNB4 |
-
-Intervention en milieux périlleux |
-
-IMP3 |
-
-ECASC |
-
-Prévention |
+Prévention contre les risques d'incendie et de panique |
 
 PRV2 |
 
-ENSOSP |
+Ecole nationale supérieure des officiers de sapeurs-pompiers |
 
 PRV3 |
+
+RCCI |
 
 IGH |
 
 ICPE |
 
-RCCI |
-
-Risques chimiques et biologiques |
-
-RCH4 |
-
-ENSOSP |
-
-Risques radiologiques |
-
-RAD4 |
-
-ENSOSP |
-
-Secours en montagne |
-
-SMO2 |
-
-ECASC |
-
-SMO3 |
-
-Neige 1 & 2 |
-
-Glace 1 & 2 |
-
-Intervention en milieu aquatique hyperbare |
-
-SAL1 50m |
-
-ECASC |
-
-SAL2 |
-
-SAL3 |
-
-Mélange |
-
-SNL2 |
-
 Systèmes d'information et de communication |
 
 Commandant des systèmes d'information et de communication |
 
-ENSOSP |
+4° Formations aux spécialités soumises à agrément de l'organisme de formation
 
-3. Formations de spécialité après obtention d'un agrément délivré par le ministre chargé de la sécurité civile.
+Les organismes de formation mentionnés ci-après, après obtention d'un agrément, sont autorisés à dispenser les niveaux de formations aux spécialités et, le cas échéant leurs préformations associées, suivants :
 
-Domaines de spécialité |
+Spécialités |
 
-Niveaux |
+Niveaux des formations |
 
-Aéro et détachement d'intervention héliporté |
+Organismes de formation |
 
-AER1 |
-
-AER2 |
-
-Canyon |
-
-CAN1 |
+Spécialités opérationnelles |
 
 Cynotechnie |
 
 CYN2 |
 
-Encadrement des activités physiques |
+Etablissement public pour la protection de la forêt méditerranéenne
 
-Educateur des activités physiques |
+Services départementaux et territoriaux d'incendie et de secours
 
-Intervention à bords des navires et des bateaux |
+Brigade de sapeurs-pompiers de Paris
+
+Bataillon de marins-pompiers de Marseille
+
+Formations militaires de la sécurité civile |
+
+Feux de forêts et d'espaces naturels |
+
+AER1 |
+
+AER2 |
+
+Interventions à bord des navires et des bateaux |
 
 IBNB1 |
 
 IBNB2 |
 
-Intervention en milieux périlleux |
-
-IMP2 |
-
-|
-
-Intervention en site souterrain |
-
-ISS1 |
-
-Risques chimiques et biologiques |
-
-RCH3 |
-
-Risques radiologiques |
-
-RAD3 |
-
-Sauvetage déblaiement |
-
-SDE3 |
-
-Sauvetage aquatique |
+Interventions en milieu aquatique |
 
 SAV3 |
 
-Intervention en milieu aquatique hyperbare |
+Interventions face aux risques chimiques et biologiques |
 
-SAL1 30m |
+RCH3 |
 
-SNL1 |
+Interventions face aux risques radiologiques |
+
+RAD3 |
+
+Sauvetage, appui et recherche |
+
+Chef de section USAR |
+
+Secours en milieu périlleux et montagne |
+
+CAN1 |
+
+ISS1 |
+
+IMP2 |
+
+Spécialités professionnelles |
+
+Encadrement des activités physiques |
+
+Educateur des activités physiques |
+
+Ensemble des organismes mentionnés à l'article 13 |
+
+Formation et développement des compétences |
+
+Formateur accompagnateur |
 
 Systèmes d'information et de communication |
 

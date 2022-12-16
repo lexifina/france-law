@@ -1,37 +1,139 @@
 # Article Annexe I
 
-Conformément aux dispositions de l'article 6-5 du décret n° 90-850 du 25 septembre 1990 modifié portant dispositions communes à l'ensemble des sapeurs-pompiers professionnels et de l'article 14 de l'arrêté du 6 juin 2013 relatif aux activités pouvant être exercées par les sapeurs-pompiers volontaires, les diplômes et niveaux de formation de spécialités prévues à l'article 2 sont définis dans chaque référentiel national d'activités et de compétences ou guide national de référence des domaines de spécialités suivants :
+FORMATIONS AUX EMPLOIS ET ACTIVITÉS, OPÉRATIONNELS OU D'ENCADREMENT
 
-- conduite ;
+1° Formations aux emplois et activités, opérationnels ou d'encadrement, des sapeurs-pompiers professionnels
 
-- cynotechnie ;
+Les formations d'intégration et de professionnalisation ci-après sont dispensées aux sapeurs-pompiers professionnels selon les référentiels nationaux suivants :
 
-- encadrement des activités physiques ;
+Formations |
 
-- feux de forêts ;
+Référentiels |
 
-- formation et développement des compétences ;
+Recrutement ou nomination dans un nouveau cadre d'emplois |
 
-- interventions à bord des navires et des bateaux ;
+Formation d'intégration du sapeur |
 
-- interventions en milieu périlleux ;
+Equipier SPP |
 
-- canyon ;
+Formation d'intégration du sergent |
 
-- intervention en site souterrain ;
+Chef d'agrès 1 équipe SPP |
 
-- prévention ;
+Formation d'intégration du lieutenant de 2° classe |
 
-- risques chimiques et biologiques ;
+Officier de garde SPP |
 
-- risques radiologiques ;
+Formation d'intégration du lieutenant de 1° classe |
 
-- sauvetage aquatique ;
+-Officier de garde SPP-Officier d'encadrement SPP |
 
-- sauvetage déblaiement ;
+Formation d'intégration du capitaine |
 
-- secours en montagne ;
+-Officier de garde SPP-Officier d'encadrement SPP-Manageur des risques de sécurité civile SPP |
 
-- intervention en milieu aquatique hyperbare ;
+Formation d'intégration du colonel |
 
-- systèmes d'information et de communication.
+Arrêté du 4 janvier 2017 relatif à la formation des colonels de sapeurs-pompiers professionnels |
+
+Avancement de grade |
+
+Formation de professionnalisation du caporal |
+
+Chef d'équipe SPP |
+
+Formation de professionnalisation de l'adjudant |
+
+Chef d'agrès tout engin SPP |
+
+Formation de professionnalisation du lieutenant de 1° classe |
+
+Officier d'encadrement SPP |
+
+Affectation sur un poste à responsabilité |
+
+Formation de professionnalisation de sous-officier de garde |
+
+Sous-officier de garde |
+
+Formation de professionnalisation de chef de centre |
+
+Chef de centre |
+
+Formation de professionnalisation de chef de groupement |
+
+Chef de groupement |
+
+Formation de professionnalisation de chef de groupe |
+
+Chef de groupe |
+
+Formation de professionnalisation de chef de colonne |
+
+Chef de colonne |
+
+Formation de professionnalisation de chef de site |
+
+Chef de site |
+
+2° Formations aux emplois et activités, opérationnels ou d'encadrement, des sapeurs-pompiers volontaires
+
+Les formations initiales et de perfectionnement ci-après sont dispensées aux sapeurs-pompiers volontaires selon les référentiels nationaux suivants :
+
+Formations |
+
+Référentiels |
+
+Premier engagement |
+
+Formation initiale du sapeur |
+
+Equipier SPV |
+
+Formation initiale du lieutenant et formation initiale du capitaine |
+
+Officier d'encadrement SPV |
+
+Avancement de grade |
+
+Formation de perfectionnement du caporal |
+
+Chef d'équipe SPV |
+
+Formation de perfectionnement du sergent |
+
+Chef d'agrès 1 équipe SPV |
+
+Formation de perfectionnement de l'adjudant |
+
+Chef d'agrès tout engin SPV |
+
+Formation de perfectionnement du lieutenant et formation de perfectionnement du capitaine |
+
+Officier d'encadrement SPV |
+
+Formation de perfectionnement du commandant et formation de perfectionnement du lieutenant-colonel |
+
+Officier supérieur d'encadrement SPV |
+
+Affectation sur un poste à responsabilité |
+
+Formation de perfectionnement de sous-officier de garde |
+
+Sous-officier de garde |
+
+Formation de perfectionnement de chef de centre |
+
+Chef de centre |
+
+Formation de perfectionnement de chef de groupe |
+
+Chef de groupe |
+
+Formation de perfectionnement de chef de colonne |
+
+Chef de colonne |
+
+Formation de perfectionnement de chef de site |
+
+Chef de site |
