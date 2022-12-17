@@ -1,0 +1,122 @@
+# Commissions et organes de contrôle
+
+- Nature : Informations Parlementaires
+- Publication : 2022-12-17
+- JO n° : 0292
+- NOR : INPA2236473X
+- Origine : JORF n°0292 du 17 décembre 2022
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046751892
+
+## Article
+
+Assemblée nationale
+
+Session ordinaire de 2022-2023
+
+1. Réunions
+
+Mardi 10 janvier 2023
+
+Commission des affaires culturelles,
+
+A 18 heures (Salle 6242 - Palais Bourbon, 2ème sous-sol) :
+
+- présentation par M. Pierre Moscovici, Premier président de la Cour des comptes, du premier rapport de la Cour sur l'organisation des Jeux olympiques et paralympiques de 2024.
+
+Commission des finances,
+
+A 17 h 15 (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- audition, en application de l'article 13 de la Constitution, de M. Éric Lombard, dont la reconduction à la direction générale de la Caisse des dépôts et consignations est proposée par le Président de la République, puis vote sur cette proposition de nomination (Mme Marie-Christine DALLOZ, rapporteur)
+
+Commission d'enquête visant à établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France,
+
+A 18 heures (Salle 7040 - 103, rue de l'Université, 2ème sous-sol) :
+
+- audition, ouverte à la presse, de M. Pierre-Marie Abadie, Directeur Général, de l'Agence nationale pour la gestion des déchets radioactifs (ANDRA)
+
+Mercredi 11 janvier 2023
+
+Commission des affaires européennes,
+
+A 13 h 30 (Salle 4325 - Commission des affaires européennes, 33, rue Saint Dominique, 3ème étage) :
+
+- audition de Mme Laurence Boone, secrétaire d'État auprès de la ministre de l'Europe et des Affaires étrangères, chargée de l'Europe.
+
+Commission de la défense,
+
+A 9 heures (Salle 4123 - 33, rue Saint Dominique, 1er étage) :
+
+- audition, à huis clos, du général d'armée Thierry Burkhard, chef d'état-major des armées, sur la dissuasion nucléaire.
+
+A 11 heures (Salle 4123 - 33, rue Saint Dominique, 1er étage) :
+
+- audition, à huis clos, de l'amiral Pierre Vandier, chef d'état-major de la Marine, et du vice-amiral d'escadre Jacques Fayard, commandant les forces sous-marines et la force océanique stratégique (ALFOST), sur la dissuasion nucléaire.
+
+Commission du développement durable,
+
+A 9 h 30 (Salle 6237 - Palais Bourbon, 2ème sous-sol) :
+
+- nomination d'un rapporteur pour avis sur le projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (sous réserve de sa transmission) ;
+
+- présentation du rapport de la mission de contrôle de l'application de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (M. Sylvain Carrière et Mme Laurence Maillart-Méhaignerie, corapporteurs).
+
+A 11 h 30 (Salle 6237 - Palais Bourbon, 2ème sous-sol) :
+
+- en application de l'article 13 de la Constitution, audition de M. Patrice Vergriete, dont la nomination est proposée par le Président de la République aux fonctions de président du conseil d'administration de l'Agence de financement des infrastructures de transport de France (Afit France) et vote sur le projet de nomination (M. Loïc Prud'homme, rapporteur).
+
+Commission des finances,
+
+A 9 h 30 (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- audition de M. Sébastien LELOUP, directeur de l'ONIAM, de Mme Claire COMPAGNON, présidente du Conseil d'administration et du Conseil d'orientation valproate de l'ONIAM, et de M. Christophe LE GALLO, président du Collège d'experts valproate
+
+A 11 heures (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- audition de M. Nicolas DUFOURCQ, directeur général de BPI France sur le plan stratégique de BPI France à horizon 2023-2025
+
+Jeudi 12 janvier 2023
+
+Commission du développement durable,
+
+A 8 h 45 (Salle 6237 - Palais Bourbon, 2ème sous-sol) :
+
+- éventuellement, examen, en application de l'article 88 du Règlement, des amendements restant en discussion sur la proposition de loi visant à supprimer les zones à faibles émissions mobilité (n° 257) (M. Pierre Meurin, rapporteur).
+
+Commission des finances,
+
+A 14 h 45 (Salle 6350 - Palais Bourbon, 1er étage) :
+
+- examen, en application de l'article 88 du Règlement, des amendements à la proposition de loi modifiant le calcul de la taxe d'enlèvement des ordures ménagères et invitant le Gouvernement à une refonte de la fiscalité locale (n° 583) (M. Sébastien CHENU, rapporteur)
+
+Commission d'enquête visant à établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France,
+
+A 10 h 15 (Salle Lamartine - 101, rue de l'Université, 1er sous-sol) :
+
+- audition, ouverte à la presse, de M. Bruno Bensasson, Président directeur-général de EDF Renouvelables
+
+A 15 h 30 (Salle Lamartine - 101, rue de l'Université, 1er sous-sol) :
+
+À 15 heures 30
+
+- audition, ouverte à la presse, de M. Philippe Knoche, Directeur général d'ORANO
+
+À 17 heures
+
+- audition, ouverte à la presse, de Mme Catherine Cesarsky, Membre de l'Académie des Sciences, Haut Commissaire à l'énergie atomique (2009-2012)
+
+2. Membres présents ou excusés
+
+Commission d'enquête visant à établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France
+
+Réunion du jeudi 15 décembre 2022 à 15 h 05
+
+Présents. - M. Antoine Armand, Mme Maud Bregeon, M. Francis Dubois, Mme Julie Laernoes, M. Alexandre Loubet, M. Raphaël Schellenberger, M. Jean-Philippe Tanguy
+
+Excusé. - Mme Valérie Rabault
+
+Mission de suivi de l'évaluation de l'accès à l'enseignement supérieur
+
+Réunion du jeudi 15 décembre 2022 à 16 heures
+
+Présents. - M. Thomas Cazenave, M. Hendrik Davi
