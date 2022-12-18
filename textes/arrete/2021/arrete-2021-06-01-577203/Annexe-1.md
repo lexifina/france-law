@@ -4,9 +4,9 @@ Les vaccins mentionnés à l'article 5 sont les suivants :
 
 I. - Vaccins à acide ribonucléique (ARN) messager :
 
-- le vaccin à ARNm COMIRNATY (BNT162b2) des laboratoires Pfizer/ BioNTech ;
+- les vaccins à ARNm COMIRNATY des laboratoires Pfizer/ BioNTech ;
 
-- le vaccin à ARNm SPIKEVAX (mRNA-1273) du laboratoire Moderna.
+- les vaccins à ARNm SPIKEVAX du laboratoire Moderna.
 
 II. - Vaccins à vecteur viral :
 
@@ -16,4 +16,6 @@ II. - Vaccins à vecteur viral :
 
 III. - Vaccins sous-unitaires à protéine recombinante :
 
-- le vaccin NUVAXOVID du laboratoire Novavax.
+- le vaccin NUVAXOVID du laboratoire Novavax ;
+
+- le vaccin VIDPREVTYN BETA des laboratoires Sanofi Pasteur/ GSK.
