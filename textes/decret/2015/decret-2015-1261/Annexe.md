@@ -1,20 +1,16 @@
 # Article Annexe
 
-I. - Liste des vins rouges tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
+I.-Liste des vins rouges tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
-maximum de l'appellation pouvant être fixé
-
-pour une récolte donnée (HL/HA) |
+maximum de l'appellation pouvant être fixé pour une récolte donnée (HL/ HA) |
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
-total maximum de vins pouvant être stockés
-
-par un producteur donné (HL/HA) |
+total maximum de vins pouvant être stockés par un producteur donné (HL/ HA) |
 
 Savoie ou Vins de Savoie |
 
@@ -308,135 +304,145 @@ Saint-Pourçain |
 
 11 |
 
-27 ,5 |
+27,5 |
 
-Beaujolais
-
-|
+Beaujolais |
 
 12 |
 
 30 |
 
-Beaujolais supérieur
-
-|
+Beaujolais supérieur |
 
 11 |
 
 29 |
 
-Beaujolais Villages
-
-|
+Beaujolais Villages |
 
 11 |
 
 29 |
 
-Beaujolais + nom de commune
-
-|
+Beaujolais + nom de commune |
 
 11 |
 
 29 |
 
-Brouilly
-
-|
+Brouilly |
 
 11 |
 
 28 |
 
-Chénas
-
-|
+Chénas |
 
 11 |
 
 28 |
 
-Chiroubles
-
-|
+Chiroubles |
 
 11 |
 
 28 |
 
-Côte de Brouilly
-
-|
+Côte de Brouilly |
 
 11 |
 
 28 |
 
-Fleurie
-
-|
+Fleurie |
 
 11 |
 
 28 |
 
-Juliénas
-
-|
+Juliénas |
 
 11 |
 
 28 |
 
-Morgon
-
-|
+Morgon |
 
 11 |
 
 28 |
 
-Moulin-à-Vent
-
-|
+Moulin-à-Vent |
 
 11 |
 
 28 |
 
-Régnié
-
-|
+Régnié |
 
 11 |
 
 28 |
 
-Saint-Amour
-
-|
+Saint-Amour |
 
 11 |
 
 28 |
 
-II. - Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
+Anjou |
+
+5 |
+
+18 |
+
+Bourgogne |
+
+12 |
+
+29 |
+
+Bourgogne suivi d'une dénomination géographique complémentaire |
+
+11 |
+
+28 |
+
+Coteaux Bourguignons |
+
+13 |
+
+32 |
+
+Bourgogne-Passe-Tout-Grains |
+
+13 |
+
+32 |
+
+Bourgogne Hautes Côtes de Beaune |
+
+12 |
+
+29 |
+
+Bourgogne Hautes Côtes de Nuits |
+
+12 |
+
+29 |
+
+II.-Liste des vins blancs tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
 
 APPELLATION D'ORIGINE PROTÉGÉE |
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
-maximum de l'appellation pouvant être fixé
-
-pour une récolte donnée (HL/HA) |
+maximum de l'appellation pouvant être fixé pour une récolte donnée (HL/ HA) |
 
 VOLUME COMPLÉMENTAIRE INDIVIDUEL
 
-total maximum de vins pouvant être stockés
-
-par un producteur donné (HL/HA) |
+total maximum de vins pouvant être stockés par un producteur donné (HL/ HA) |
 
 Muscadet |
 
@@ -852,7 +858,7 @@ Entre-deux-mers |
 
 32 |
 
-Côtes de Bordeaux - Blaye |
+Côtes de Bordeaux-Blaye |
 
 12 |
 
@@ -872,15 +878,9 @@ Vacqueyras |
 
 Alsace |
 
-8 |
+10 |
 
-15 |
-
-Bourgogne Côte d'Or |
-
-7 |
-
-19 |
+30 |
 
 Graves de Vayre |
 
@@ -924,7 +924,7 @@ Givry |
 
 18 |
 
-Givry complété par la mention "premier cru" |
+Givry complété par la mention " premier cru " |
 
 4 |
 
@@ -936,7 +936,7 @@ Mercurey |
 
 17 |
 
-Mercurey complété par la mention "premier cru" |
+Mercurey complété par la mention " premier cru " |
 
 7 |
 
@@ -984,61 +984,83 @@ Bourgogne Hautes Côtes de Nuits (vignes hautes et larges) |
 
 30 |
 
-Beaujolais
-
-|
+Beaujolais |
 
 13 |
 
 35 |
 
-Beaujolais Villages
-
-|
+Beaujolais Villages |
 
 12 |
 
 34 |
 
-Beaujolais + nom de commune
-
-|
+Beaujolais + nom de commune |
 
 12 |
 
 34 |
 
-Monthélie
-
-|
+Monthélie |
 
 7 |
 
 17 |
 
-Monthélie 1er cru
-
-|
+Monthélie 1er cru |
 
 7 |
 
 16 |
 
-III. - Liste des vins rosés tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
+Puligny-Montrachet |
 
-Appellation d'origine protégé |
+7 |
 
-Volume complémentaire individuel
+28 |
 
-maximum de l'appellation pouvant être fixé
+Puligny-Montrachet premier cru |
 
-pour une récolte donnée (HL/HA) |
+7 |
 
-Volume complémentaire individuel
+27 |
 
-total maximum de vins pouvant être stockés
+Saint-Aubin |
 
-pour un producteur donné (HL/HA) |
+7 |
+
+28 |
+
+Saint-Aubin premier cru |
+
+7 |
+
+27 |
+
+Santenay |
+
+7 |
+
+28 |
+
+Santenay premier cru |
+
+7 |
+
+27 |
+
+III.-Liste des vins rosés tranquilles bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
+
+APPELLATION D'ORIGINE PROTÉGÉE |
+
+VOLUME COMPLÉMENTAIRE INDIVIDUEL
+
+maximum de l'appellation pouvant être fixé pour une récolte donnée (HL/ HA) |
+
+VOLUME COMPLÉMENTAIRE INDIVIDUEL
+
+total maximum de vins pouvant être stockés par un producteur donné (HL/ HA) |
 
 Rosé d'Anjou |
 
@@ -1063,3 +1085,45 @@ Côtes de Provence |
 8 |
 
 15 |
+
+Rosé de Loire |
+
+12 |
+
+12 |
+
+IV.-Liste des vins de base destinés à l'élaboration de vins mousseux ou pétillants bénéficiant d'une appellation d'origine protégée pour lesquels un volume complémentaire individuel peut être constitué :
+
+APPELLATION D'ORIGINE PROTÉGÉE |
+
+VOLUME COMPLÉMENTAIRE INDIVIDUEL
+
+maximum de l'appellation pouvant être fixé pour une récolte donnée (HL/ HA) |
+
+VOLUME COMPLÉMENTAIRE INDIVIDUEL
+
+total maximum de vins pouvant être stockés par un producteur donné (HL/ HA) |
+
+Crémant d'Alsace |
+
+10 |
+
+30 |
+
+Crémant de Loire |
+
+12 |
+
+20 |
+
+Vouvray |
+
+12 |
+
+30 |
+
+Saumur |
+
+12 |
+
+18 |
