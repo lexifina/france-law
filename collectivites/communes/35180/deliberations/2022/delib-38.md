@@ -1,0 +1,10 @@
+# COMMUNE DE MINIAC SOUS BECHEREL : délibération DELIB_38 — DEMANDE DE SUBVENTION AUPRES DU DEPARTEMENT VOLET 3 SENTIERS DE RANDONNEE
+
+- Collectivité : COMMUNE DE MINIAC SOUS BECHEREL
+- SIRET : 21350180200010
+- Code INSEE : 35180
+- Date : 2022-12-19
+- Matière : 7.5 Finances locales/Subventions
+- Objet : DEMANDE DE SUBVENTION AUPRES DU DEPARTEMENT VOLET 3 SENTIERS DE RANDONNEE
+- Acte publié : https://data.megalis.bretagne.bzh/OpenData/213501802/Deliberation/2022/307426/a5207aa736e0e4c509f24bef5e7d852dde83a2d4f4734a2477862a5e80fa4298.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/60645c94e2bfd21cdc16c0be
