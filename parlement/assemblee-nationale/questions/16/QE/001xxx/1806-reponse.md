@@ -1,0 +1,9 @@
+# Réponse à la question n° 1806
+
+- Question : [1806](1806.md) — Question n° 1806 — Fermeture de la maternité de Creil
+
+## Réponse
+
+*JO du 2022-12-20, page 6502*
+
+Le ministère de la santé et de la prévention est attentif à ce que les organisations mises en place puissent répondre aux besoins de santé du territoire dans des conditions optimales de qualité et de sécurité des soins, des parturientes et des nouveaux-nés au cas d'espèce. Une prise en charge sécurisée est aussi un gage de qualité de conditions de travail pour les professionnels. Depuis plusieurs années, les difficultés récurrentes rencontrées par la maternité de Creil en termes de ressources humaines ont conduit le Groupe hospitalier public du Sud de l'Oise à envisager un regroupement de l'ensemble de l'activité d'obstétrique sur le site de Senlis. Ce regroupement s'est appuyé sur un projet médical spécifique, validé par les instances médicales internes en 2018 en conservant le principe d'un suivi pré et post-natal sur chacun des deux sites, ainsi que l'élaboration et la mise en place de protocoles organisationnels précis afin de faire face aux situations de soins complexes sur le site de Senlis, avec l'appui permanent des équipes de Creil. La décision de justice a mis en exergue une problématique de formalisme qui a désormais été réglée. En effet, c'est l'absence de prise en compte de cette opération de recomposition hospitalière dans le schéma régional de santé qui a conduit le juge à annuler cette décision avec une prise d'effet au 6 janvier 2023. Depuis la décision du tribunal, une phase de concertation puis une phase de consultation ont été conduites conformément à la réglementation et le nouveau schéma régional de santé a été publié le 17 octobre 2022. Ces consultations, notamment celles de la Conférence régionale de santé et de l'autonomie, de la Commission spécialisée de l'organisation des soins et du Conseil de surveillance, ont toutes donné lieu à des avis favorables.
