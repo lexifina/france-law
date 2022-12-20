@@ -1,0 +1,9 @@
+# Réponse à la question n° 1668
+
+- Question : [1668](1668.md) — Question n° 1668 — Pénurie de chauffeurs de cars scolaires
+
+## Réponse
+
+*JO du 2022-12-20, page 6547*
+
+Le secteur des transports routiers est confronté depuis plusieurs années à une pénurie de personnels, et notamment de conducteurs. Ce phénomène s'observe à l'échelle tant nationale qu'européenne, en particulier dans le transport routier de voyageurs, et notamment dans les services de transport scolaire, qui peinent à recruter des jeunes conducteurs et à remplacer les départs en retraite. S'agissant du transport scolaire, un certain nombre de mesures d'urgence a permis de diminuer la pression pour la rentrée 2022 et de limiter au maximum le nombre de services non assurés. La mobilisation de l'ensemble des parties prenantes (départements ministériels concernés, autorités organisatrices, organisations professionnelles) sur le long terme est toutefois nécessaire pour garantir la pérennité des recrutements. C'est pourquoi un plan d'action comportant diverses mesures complémentaires a été engagé. Ce plan d'action vise notamment à réduire les délais de délivrance des documents nécessaires à la conduite, et en particulier du permis de conduire de catégorie D lorsqu'il est obtenu dans le cadre d'un titre professionnel de conducteur de transport en commun sur route. Dans cet objectif, le ministre de l'intérieur et des Outre-mer, le ministre du travail, du plein emploi et de l'insertion, ainsi que le ministre délégué chargé des transports, ont confié une mission à l'Inspection générale de l'administration et à l'Inspection générale des affaires sociales afin d'examiner l'ensemble du processus actuel de délivrance des titres professionnels et des permis de conduire du groupe lourd, et d'émettre des recommandations permettant d'optimiser ce processus et de réduire ainsi les délais d'accès à la profession.
