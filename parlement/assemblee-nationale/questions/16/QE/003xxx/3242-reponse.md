@@ -1,0 +1,9 @@
+# Réponse à la question n° 3242
+
+- Question : [3242](3242.md) — Question n° 3242 — Frelon asiatique
+
+## Réponse
+
+*JO du 2022-12-20, page 6437*
+
+Depuis la découverte du frelon asiatique en France en 2004, le ministère chargé de l'agriculture apporte un soutien régulier à la filière apicole visant à identifier des mesures de lutte permettant de limiter l'impact de ce prédateur sur les populations d'abeilles domestiques. Ainsi, plusieurs études et projets de recherche menés par l'institut technique et scientifique de l'abeille et de la pollinisation ont été financés sur fonds publics européens et/ou nationaux. La dernière étude toujours en cours, est menée en lien avec le muséum national d'histoire naturelle. Elle vise à valider différentes méthodes de lutte sur le plan de leur efficacité et de leur innocuité sur l'environnement. Cette dernière est subventionnée par le ministère chargé de l'agriculture dans le cadre du programme apicole européen 2020-2022 à hauteur de 125 000 euros par an. Ces travaux ont été financés dans le but de permettre à la filière de s'appuyer sur leurs résultats pour l'élaboration d'une stratégie nationale coordonnée, concertée et efficace contre ce prédateur. Aussi, dans le cadre du plan gouvernemental en faveur des insectes pollinisateurs et de la pollinisation 2021-2026, un travail entre les ministères chargés de l'agriculture et de la transition écologique est engagé pour accompagner la filière apicole dans ses démarches visant, dans le cadre du règlement relatif aux biocides, à l'approbation communautaire du dioxyde de souffre en tant qu'insecticide autorisé pour la destruction des nids de frelon asiatique. Enfin, il faut noter que le frelon asiatique ne relève plus depuis 2021 de la réglementation relative à la santé animale suivie par le ministère chargé de l'agriculture, mais uniquement de la réglementation relative aux espèces exotiques envahissantes suivie par le ministère chargé de la transition écologique.
