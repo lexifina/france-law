@@ -1,0 +1,9 @@
+# Réponse à la question n° 111
+
+- Question : [111](111.md) — Question n° 111 — Point sur l'utilisation de bancs chauffants sur les terrasses
+
+## Réponse
+
+*JO du 2022-12-20, page 6445*
+
+La Convention Citoyenne pour le Climat a proposé une action globale de réduction de la consommation d'énergie dans les espaces publics et bâtiments tertiaires concernant le chauffage, l'éclairage et la climatisation. A ce titre, elle a recommandé « l'interdiction de chauffer les espaces publics extérieurs », source de gaspillage d'énergie. Le législateur a repris cette proposition à l'article 181 de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets. En vertu du nouvel article L. 2122-1-1-A du code général de la propriété des personnes publiques (CG3P), « l'utilisation sur le domaine public de systèmes de chauffage ou de climatisation consommant de l'énergie et fonctionnant en extérieur est interdite ». Cette disposition a un champ large. Le législateur a posé une interdiction générale des espaces extérieurs chauffés ou climatisés couvrant tout le domaine public sans distinguer ni l'activité concernée, ni les procédés de chauffage ou de climatisation. Le décret n° 2022-452 du 30 mars 2022 pris pour l'application de cette disposition législative a uniquement exempté de l'interdiction les lieux couverts et fermés de manière étanche à l'air, (l'autorité compétente pouvant toutefois refuser cette exemption) et les installations mobiles couvertes et fermées nécessaires à l'animation de la vie locale, qu'il s'agisse des activités foraines ou circassiennes ou des manifestations culturelles, sportives, festives, cultuelles ou politiques. Par conséquent, l'utilisation de bancs chauffants sur le domaine public, notamment dans les terrasses de bar, qui n'entre pas dans les exemptions précitées, est interdite.
