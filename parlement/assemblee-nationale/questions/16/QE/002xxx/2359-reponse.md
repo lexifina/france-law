@@ -1,0 +1,9 @@
+# Réponse à la question n° 2359
+
+- Question : [2359](2359.md) — Question n° 2359 — Épargne salariale
+
+## Réponse
+
+*JO du 2022-12-20, page 6566*
+
+La loi n° 2022-1158 du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat a prévu une mesure de déblocage exceptionnel des sommes immobilisées pendant 5 ans sur un plan d'épargne d'entreprise (PEE) pour redonner aux salariés dont le pouvoir d'achat a été impacté par l'inflation une marge de manœuvre appréciable. En son article 5, la loi offre aux salariés ou autres bénéficiaires d'un dispositif d'intéressement et de participation, la possibilité de demander le déblocage, à titre exceptionnel jusqu'au 31 décembre 2022, des droits à participation et des sommes attribuées au titre de l'intéressement dès lors que ceux-ci ont été investis sur un plan d'épargne salariale (PEE, plan d'épargne interentreprises, plan d'épargne de groupe) et dans la limite de 10 000 euros par bénéficiaire. En revanche, les avoirs qui sont placés dans un plan d'épargne retraite collectif ou dans un plan d'épargne retraite (PER hors PER Individuel), ceux investis en compte courant bloqué (sauf ceux des sociétés coopératives de production et des régimes d'autorité) et dans les fonds solidaires sont exclus du déblocage. En outre, le déblocage de la participation et de l'intéressement investis en titres de l'entreprise dans le cadre d'un plan d'épargne salariale ou de la participation gérée en compte courant bloqué dans les sociétés coopératives de production est également permis mais il est subordonné à un accord d'entreprise ou à une décision unilatérale de l'employeur, selon les cas. Pour accompagner la mise en œuvre de cette mesure législative un "questions-réponses" a été diffusé sur le site du ministère de travail, du plein emploi et de l'insertion.
