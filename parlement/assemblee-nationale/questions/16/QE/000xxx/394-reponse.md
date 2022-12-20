@@ -1,0 +1,9 @@
+# Réponse à la question n° 394
+
+- Question : [394](394.md) — Question n° 394 — Praticabilité, accessibilité et revêtement des voies vertes
+
+## Réponse
+
+*JO du 2022-12-20, page 6540*
+
+Le décret n° 2022-635 du 22 avril 2022 modifiant certaines dispositions du code de la route relatives aux voies vertes, vise à faciliter leur déploiement par les collectivités locales. Il modifie la définition et la réglementation d'usages de la voie verte pour permettre à certains véhicules d'y circuler ou d'y stationner dans l'intérêt du gestionnaire de la voie, des autres utilisateurs lorsqu'il y a superposition d'affectation (cas des voies de halage par exemple), ou la desserte des propriétés riveraines. Concernant le choix d'aménagement de la voie, c'est au gestionnaire de la voie verte de le définir et donc de déterminer le revêtement le plus approprié à son usage. Les voies vertes sont pour la grande majorité des cas, communales, intercommunales ou départementales. Concernant plus spécifiquement le revêtement, l'enrobé et le béton favorisent effectivement l'usage par les cyclistes, comme l'usage des poussettes et des fauteuils roulants. Le revêtement stabilisé, s'il est plus adapté aux cavaliers, nécessite, quant à lui, des opérations plus fréquentes de maintenance pour que le chemin reste praticable. Bien que les deux types de revêtement ne soient pas identiquement imperméables, dans les deux cas, le sol est considéré comme artificialisé au sens du décret n° 2022-763 du 29 avril 2022 relatif à la nomenclature de l'artificialisation des sols pour la fixation et le suivi des objectifs dans les documents de planification et d'urbanisme. Plus généralement, l'impact environnemental de tout aménagement de voie est une préoccupation du Gouvernement, des travaux comparant l'impact des différents types de revêtements existent. Ils doivent être poursuivis pour mieux aider les maîtres d'ouvrage.
