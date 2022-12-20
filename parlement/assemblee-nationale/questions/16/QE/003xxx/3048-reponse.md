@@ -1,0 +1,9 @@
+# Réponse à la question n° 3048
+
+- Question : [3048](3048.md) — Question n° 3048 — Réouverture de la ligne Pertuis-Avignon pour les passagers
+
+## Réponse
+
+*JO du 2022-12-20, page 6557*
+
+La ligne entre Cavaillon et Pertuis est actuellement ouverte aux seules circulations fret à hauteur d'une à deux circulations hebdomadaires pour desservir l'usine de Saint-Auban. Sa réouverture au trafic voyageur nécessiterait d'adapter l'infrastructure existante aux spécifications techniques et aux risques sécuritaires propres aux circulations voyageurs. Par ailleurs, des zones de croisements pourraient s'avérer nécessaires afin de développer un niveau de service voyageurs suffisamment performant. Ainsi, avant qu'une décision ne soit prise sur l'éventualité d'une réouverture aux circulations voyageurs, et ce en concertation avec l'ensemble des parties prenantes au niveau local, il serait dans un premier temps nécessaire d'engager des études d'opportunité afin de déterminer le potentiel de trafic et la pertinence socio-économique d'une telle opération, ainsi que les aménagements d'infrastructures à réaliser et une première estimation du coût afférent. Ces études ne pourraient être engagées qu'à l'initiative des collectivités, au premier rang desquelles la Région Provence-Alpes-Côte d'Azur (PACA) en tant qu'autorité organisatrice des mobilités. À ce stade, la ligne Cavaillon-Pertuis ne figure ni dans le protocole d'accord État-Région PACA sur l'avenir des lignes ferroviaires de desserte fine du territoire signé le 22 février 2021, ni dans le volet mobilités 2015-2022 du Contrat de plan État-Région PACA. Le projet pourra être examiné, le cas échéant, dans le cadre de la préparation de la contractualisation 2023-2027, en fonction de la confirmation de l'intérêt des collectivités concernées.
