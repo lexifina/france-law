@@ -1,0 +1,14 @@
+# Conseil Régional des Pays de la Loire : délibération 0 — personnes handicapées
+
+- Collectivité : Conseil Régional des Pays de la Loire
+- SIREN : 234400034
+- Date : 2022-12-20
+- Matière : 8.2.3 Personnes handicapées
+- Objet : personnes handicapées
+- Transmis à la préfecture : 2022-12-20
+- Votants : 91
+- Pour : 91
+- Contre : 0
+- Abstentions : 0
+- Acte publié : https://donnees.paysdelaloire.fr/data/actes/acte-60756.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5e755c7a363539a69c28d859
