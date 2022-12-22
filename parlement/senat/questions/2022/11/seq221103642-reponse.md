@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221103642
+
+- Question : [SEQ221103642](seq221103642.md) — Situation critique du service d'hémato-immuno-oncologie pédiatrique du centre hospitalier universitaire de Toulouse
+
+## Réponse
+
+*Santé et prévention, JO du 2022-12-22, page 6702*
+
+Des actions sont d'ores et déjà mises en œuvre en lien avec l'agence régionale de santé (ARS) d'Occitanie, afin de résoudre les difficultés rencontrées par le service d'hémato-immuno-oncologie pédiatrique du centre hospitalier universitaire (CHU) de Toulouse, avec des recrutements de professionnels et un renforcement du nombre d'internes. L'ARS a réuni l'équipe du service et de la direction du CHU de Toulouse avec des oncopédiatres du CHU de Montpellier pour trouver des solutions à court et moyen termes. Concrètement, un chef de clinique a pu être recruté au mois de novembre et un nouveau praticien hospitalier oncologue pédiatrique est recruté pour une prise de fonction en janvier 2023. De plus, l'effectif des internes a été porté à 3 début novembre 2022 et une ancienne chef de clinique a pu également renforcer temporairement l'équipe médicale. L'équipe médicale du service sera ainsi constituée à terme à hauteur de 6 praticiens, avec des internes en pédiatrie actuellement en formation s'orientant vers la spécialité oncologique. L'ARS a demandé qu'un accompagnement du management du service et des effectifs soit réalisé afin de conforter l'organisation de celui-ci après plusieurs mouvements médicaux, pour repartir sur une base de fonctionnement plus sereine. Par ailleurs, la coopération entre les équipes des 2 CHU permet d'assurer dès que nécessaire un transfert de patients. En outre, le projet grand hôpital régional des enfants, soutenu par le Ségur de la santé, visant à augmenter les capacités d'hospitalisation ainsi qu'à améliorer les conditions hôtelières de l'hôpital des enfants, fait partie des priorités du CHU.
