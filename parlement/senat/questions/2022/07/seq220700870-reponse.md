@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700870
+
+- Question : [SEQ220700870](seq220700870.md) — Association des parlementaires à la mise en œuvre du fonds pour le développement de la vie associative
+
+## Réponse
+
+*Économie sociale et solidaire et vie associative, JO du 2022-12-22, page 6640*
+
+Le fond de développement de la vie associative (FDVA) est un dispositif financier de l'Etat, de soutien au développement de la vie associative avec des priorités de financement, déclinées territorialement. Lors de la discussion parlementaire de la proposition de loi relative à l'amélioration de la trésorerie des associations, l'Assemblée nationale a adopté un amendement visant à faire participer les parlementaires aux collèges départementaux du FDVA, dans les mêmes conditions que leur participation à la dotation des équipements des territoires ruraux (DETR). Cette disposition leur permet d'être ainsi partie prenante de l'évolution donnée aux crédits autrefois dévolus à la réserve parlementaire. Cette loi ayant été promulguée (loi n° 2021-875 du 1er juillet 2021), les parlementaires ont été désignés par leur président de chambre respective pour participer aux collèges départementaux du FDVA à compter du 1er janvier 2022, hors les départements représentés par moins de cinq parlementaires où tous les élus nationaux peuvent d'office participer au collège départemental de la circonscription (26 départements concernés). Tous les collèges départementaux du FDVA ont attendus ces désignations intervenues le 16 mars 2022 puis le 5 novembre 2022 suite aux dernières élections législatives. La généralisation de la participation des parlementaires est donc pleinement effective. Le Ministère veille à sa parfaite application, les parlementaires étant, par leur ancrage territorial et leur connaissance du tissu associatif, essentiels à la définition des orientations de soutien à la vie associative locale.
