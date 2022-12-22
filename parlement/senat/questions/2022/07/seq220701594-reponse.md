@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220701594
+
+- Question : [SEQ220701594](seq220701594.md) — Évolution du fonds pour le développement de la vie associative
+
+## Réponse
+
+*Économie sociale et solidaire et vie associative, JO du 2022-12-22, page 6642*
+
+Le décret n° 2018-460 du 8 juin 2018 relatif au fonds pour le développement de la vie associative prévoit que les collèges départementaux émettent un avis, d'une part, sur les priorités et, d'autre part, sur les propositions de financement des associations, qui relèvent de son ressort territorial. Les compétences des collèges ainsi prévues par les textes ne peuvent donc différer d'un département à un autre. Les demandes de subvention sont déposées exclusivement sur le Compte Association qui est relié aux systèmes d'information Osiris et Chorus pour l'instruction et l'engagement de la dépense. Ces systèmes permettent d'échanger directement entre l'instructeur et l'association demandeuse. Il n'est matériellement pas possible pour des raisons de sécurité informatique d'ouvrir ces systèmes d'information à des acteurs qui ne sont pas protégés par les systèmes informatiques de l'Etat. En revanche, il apparait opportun que l'ensemble des membres des collèges départementaux fassent la promotion des dispositifs de l'Etat facilitant la vie associative en orientant notamment les demandes de FDVA vers le Compte Association, qui deviendra à terme le guichet unique de la vie associative. Enfin, dans le but de simplifier la vie associative et réduire les délais d'instruction des dossiers de subventions, les services de l'Etat pourront partager entre eux les justificatifs transmis par les associations, en application du principe « Dîtes le nous une fois ». Le programme Data-subvention permettra à terme aux associations de produire automatiquement les justificatifs nécessaires à la saisie d'une demande de subvention via le Compte Association.
