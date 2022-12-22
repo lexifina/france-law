@@ -1,0 +1,9 @@
+# Réponse à la question SEQ221003463
+
+- Question : [SEQ221003463](seq221003463.md) — Interdiction d'embarquement et de débarquement de passagers par aéronefs motorisés à des fins de loisirs en zone de montagne
+
+## Réponse
+
+*Transports, JO du 2022-12-22, page 6730*
+
+Les dispositions du code de l'environnement relatives aux atterrissages à des fins de loisir en montagne issues de la codification de l'article 76 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne dite « loi montagne » ont été modifiées, notamment pour renforcer le dispositif de sanctions, par la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets. Par un amendement porté dans la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale, dite « loi 3DS », le législateur a souhaité modifier à nouveau ces dispositions pour instaurer un régime plus strict pour les plateformes hors aérodromes, et étendre les restrictions existantes de dépose de passagers à leur reprise. Ainsi, il apparait que le législateur a précisément souhaité que la dépose comme la reprise de passagers « à des fins de loisir », donc y compris les baptêmes de l'air, soient désormais réservées, en montagne, aux seuls aérodromes. En ce sens la loi dite 3DS a étendu à la reprise de passagers les interdictions qui étaient déjà prévues dans la loi Montagne de 1985. Les dispositions législatives ne prévoyant pas de possibilité de dérogation, un texte d'application ne saurait créer d'exceptions sur ces points. Les dispositions de l'article L. 363-1 et suivants ne prévoient pas non plus que le Gouvernement définisse par décret les périmètres des zones de montagne concernées autres que celles déjà définies par la « loi Montagne », ni de critère d'altitude supplémentaire.
