@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700002
+
+- Question : [SEQ220700002](seq220700002.md) — Baccalauréat professionnel
+
+## Réponse
+
+*Éducation nationale et jeunesse, JO du 2022-12-22, page 6666*
+
+La transformation de la voie professionnelle a permis d'introduire dès la rentrée 2019 plusieurs innovations pour consolider le parcours de formation des élèves de baccalauréat professionnel : tests de positionnement à l'entrée en formation, familles de métiers en seconde professionnelle, réalisation du chef d'œuvre, co-interventions entre les professeurs des enseignements généraux et les professeurs des enseignements professionnels, modules d'insertion professionnelle ou de poursuite d'études. Le phénomène de départ des élèves vers l'emploi avant la fin de l'année et l'examen a concerné, comme cela est souligné, les métiers en tension. Son ampleur réelle n'a pas été mesurée, mais le ministère de l'éducation nationale et de la jeunesse veille à favoriser la poursuite de la formation jusqu'au diplôme, la possession de celui-ci étant un facteur favorisant l'emploi durable. Les mesures envisagées par le Gouvernement, et en particulier la gratification des périodes de formation en milieu professionnel, peuvent permettre d'apporter une réponse à des jeunes qui interrompraient leur parcours de formation pour des raisons économiques. Le développement de l'apprentissage au sein des lycées professionnels est également de nature à favoriser des parcours de réussite. Le changement de statut d'élève à apprenti, y compris dans le même établissement, peut dans certains cas répondre au souhait des jeunes d'entrer plus rapidement dans la vie active. Si le jeune en lycée professionnel opte pour l'intégration dans un emploi sous contrat d'apprentissage ou de professionnalisation, il peut conserver son inscription à l'examen sous réserve de pouvoir justifier du temps de formation en milieu professionnel.
