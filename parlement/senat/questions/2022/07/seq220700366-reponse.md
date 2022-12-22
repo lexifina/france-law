@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220700366
+
+- Question : [SEQ220700366](seq220700366.md) — Versement des pensions aux retraités résidant en Russie
+
+## Réponse
+
+*Économie, finances, souveraineté industrielle et numérique, JO du 2022-12-22, page 6647*
+
+Les pensions de l'État dont les titulaires résident en Russie ne sont pas versées par virement international transitant par le SWIFT. Elles sont payées par virement bancaire, au choix de leur bénéficiaire : - soit en euros au format SEPA sur un compte tenu en France ; - soit en roubles au taux de chancellerie, établi par la DGTrésor, en vigueur le jour de l'émission du virement par la régie diplomatique de Moscou, sur un compte ouvert auprès d'un établissement russe. En décembre 2021, 34 pensionnés de l'État résidaient en Russie auxquels étaient payées 36 pensions (31 pensions civiles et militaires de retraites, 2 pensions militaires d'invalidité, une retraite du combattant, 1 médaille militaire et une légion d'honneur). Actuellement, 13 d'entre eux perçoivent leur (s) pension (s) sur un compte bancaire russe par l'intermédiaire de la régie diplomatique de Moscou. Les autres pensionnés sont payés en France. De ce fait, les versements opérés à destination des pensionnés de l'État situés sur le territoire russe n'ont pas été touchés par les mesures d'exclusion du réseau bancaire prises par les autorités européennes. À ce jour, les services de la direction spécialisée des finances publiques pour l'étranger, comptable assignataire de ces dépenses, et du ministère de l'Europe et des affaires étrangères ainsi que le Service des retraites de l'État n'ont reçu aucune réclamation des pensionnés résidant en Russie. Toutefois, le paiement des pensionnés résidant en Russie continue de faire l'objet d'une attention particulière de la part de ces services.
