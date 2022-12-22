@@ -1,0 +1,9 @@
+# Réponse à la question SEQ220902491
+
+- Question : [SEQ220902491](seq220902491.md) — Aides octroyées par l'agence nationale de l'habitat
+
+## Réponse
+
+*Ville et logement, JO du 2022-12-22, page 6736*
+
+Les aides de l'Agence nationale de l'habitat (Anah) sont distribuées sur l'ensemble du territoire métropolitain, sans aucune discrimination territoriale (des spécificités existent néanmoins en Outre-mer), et donc bien évidemment dans les territoires ruraux. MaPrimeRénov', la principale aide de l'État à la rénovation énergétique des logements, est ouverte à tous les propriétaires occupants et tous les propriétaires bailleurs, avec un barème ajusté aux ressources des ménages et sans prise en compte du territoire de résidence des demandeurs. D'autres aides, comme MaPrimeRénov'Sérénité et Habiter Facile sont attribuées en fonction de critères sociaux. Par ailleurs, le dispositif fiscal « Loc'Avantages », instauré par la loi de finances 2022, succède au dispositif « Louer abordable ». Il uniformise l'avantage fiscal sur tout le territoire, sans distinction entre les secteurs tendus et détendus. La prime d'intermédiation locative peut s'ajouter à l'avantage fiscal en cas de loyer social ou très social, et ce partout sur le territoire, contrairement à l'ancien dispositif qui visait uniquement les secteurs en tension. Les écarts territoriaux peuvent s'expliquer par les aides complémentaires octroyées par les collectivités territoriales. En effet, en sus de ses dispositifs de droit commun, l'Anah déploie des opérations programmées d'amélioration de l'habitat (OPAH), qui permettent aux collectivités de bonifier ses subventions. En zone rurale en 2021, 358 334 logements ont été subventionnés par l'Anah, soit une multiplication par plus de trois par rapport à 2020. Cette hausse nationale s'explique par la montée en puissance du dispositif MaPrimeRénov'.
