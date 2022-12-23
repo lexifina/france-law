@@ -198,7 +198,7 @@ offerts par France Télévisions
 
 France Télévisions est chargée de concevoir et de programmer des émissions de télévision à caractère national, régional et local ainsi que des émissions de radio ultra-marines. Elle conçoit également et met à disposition du public des services de médias audiovisuels à la demande.
 
-Elle est titulaire pour la diffusion de ses services de télévision, de radio et, le cas échéant, de ses services de médias audiovisuels à la demande par voie hertzienne terrestre de droits d'usage de la ressource radioélectrique en application de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication. Elle assure également la reprise intégrale et simultanée de ces services par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel dans les conditions prévues par la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+Elle est titulaire pour la diffusion de ses services de télévision, de radio et, le cas échéant, de ses services de médias audiovisuels à la demande par voie hertzienne terrestre de droits d'usage de la ressource radioélectrique en application de l'article 26 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication. Elle assure également la reprise intégrale et simultanée de ces services par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par l'Autorité de régulation de la communication audiovisuelle et numérique dans les conditions prévues par la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 Elle veille à exploiter les possibilités offertes par la technologie numérique, en matière de format, de qualité d'image et de son, et de distribution et développe une offre de services de communication au public en ligne.
 
@@ -250,7 +250,7 @@ Sa programmation répond au besoin de connaissance et de compréhension de l'act
 
 Elle veille à la qualité éditoriale et à la diversité du contenu de ses programmes ainsi que, conformément à l'article 2, à l'expression pluraliste des courants de pensée et d'opinion.
 
-4° ter Via Stella : chaîne régionale ayant pour vocation de diffuser, par voie hertzienne terrestre en Corse ainsi que par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par le Conseil supérieur de l'audiovisuel, des programmes, dont une proportion significative est diffusée en langue corse, consacrés à la Corse, son actualité, son patrimoine, sa culture et ses traditions, avec une ouverture sur d'autres régions, et notamment les régions voisines de la Méditerranée.
+4° ter Via Stella : chaîne régionale ayant pour vocation de diffuser, par voie hertzienne terrestre en Corse ainsi que par des réseaux de communications électroniques n'utilisant pas de fréquences assignées par l'Autorité de régulation de la communication audiovisuelle et numérique, des programmes, dont une proportion significative est diffusée en langue corse, consacrés à la Corse, son actualité, son patrimoine, sa culture et ses traditions, avec une ouverture sur d'autres régions, et notamment les régions voisines de la Méditerranée.
 
 Dans le respect de son indépendance éditoriale, ce service peut être financé par la collectivité territoriale de Corse, dans le cadre de conventions signées avec l'Etat.
 
@@ -408,7 +408,9 @@ La création audiovisuelle et cinématographique
 
 I. ― France Télévisions doit être l'un des premiers investisseurs dans la création audiovisuelle et cinématographique d'expression originale française. L'effort doit porter sur l'adaptation du patrimoine littéraire français, l'illustration de l'histoire nationale et européenne, l'exploration et le suivi des mouvements de la société contemporaine.
 
-La société contribue au renouvellement des genres et à la diversité des formats : promotion de nouvelles écritures et de nouveaux talents, thèmes adaptés en permanence pour être en phase avec l'évolution de la société.
+En matière cinématographique, cette ambition se traduit par une contribution étendue à l'ensemble des services de France Télévisions diffusant annuellement au moins une œuvre cinématographique de longue durée.
+
+La société contribue au renouvellement des genres et à la diversité des formats : promotion de nouvelles écritures et de nouveaux talents, thèmes adaptés en permanence pour être en phase avec l'évolution de la société. En matière cinématographique, la diversité est notamment assurée par une attention particulière aux premiers et seconds films et par la variété des niveaux de devis.
 
 Le contrat d'objectifs et de moyens conclu entre l'Etat et France Télévisions détermine notamment les montants minimaux d'investissements de la société dans la production d'œuvres audiovisuelle et cinématographique européennes et d'expression originale française, en pourcentage de ses recettes et en valeur absolue.
 
@@ -416,9 +418,19 @@ La société peut par ailleurs nouer des accords spécifiques avec les organisat
 
 I bis. ― Le service de télévision Franceinfo ne diffuse pas d'œuvres cinématographiques de longue durée et réserve annuellement moins de 20 % de son temps de diffusion à des œuvres audiovisuelles.
 
-II. ― Pour l'application des dispositions du chapitre Ier du titre Ier du décret n° 2010-747 du 2 juillet 2010, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de chacun de ses services de télévision répondant aux critères d'assujettissement prévus par ce décret à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 % et respecte les dispositions du II de l'article 10 du décret n° 90-66 du 17 janvier 1990 modifié. La détermination du chiffre d'affaires en cause est établie grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet au Conseil supérieur de l'audiovisuel la méthode suivie et les données correspondantes.
+II. ― Dans les conditions prévues par les articles 8 et 10 à 13 du décret n° 2021-1926 du 30 décembre 2021 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre, France Télévisions consacre une part du chiffre d'affaires annuel net de l'exercice précédent de ses services de télévision qui diffusent chaque année civile au moins une œuvre cinématographique de longue durée et de son service de télévision de rattrapage à des dépenses contribuant au développement de la production d'œuvres cinématographiques européennes au moins égale à 3,5 %. Le chiffre d'affaires établissant l'assiette de cette contribution est déterminé grâce à la mise en place d'une comptabilité analytique. France Télévisions transmet à l'Autorité de régulation de la communication audiovisuelle et numérique la méthode suivie et les données correspondantes.
 
-Les dépenses mentionnées au 4° de l'article 4 du décret n° 2010-747 du 2 juillet 2010 sont prises en compte pour le calcul de l'obligation résultant de l'article 3 du même décret jusqu'à 0,2 % du chiffre d'affaires annuel net de l'exercice précédent.
+Pour les services dont le chiffre d'affaires annuel net de l'exercice précédent est compris entre 75 et 150 millions d'euros, et en l'absence de globalisation permise par l'article 8 du décret n° 2021-1926 du 30 décembre 2021, la part de leur contribution consacrée aux dépenses mentionnées aux 1°, 2° et 4° du I de l'article 5 du même décret est fixée à 90 %.
+
+Les dépenses mentionnées au 3° de l'article 23 du décret n° 2021-1926 du 30 décembre 2021 sont prises en compte pour le calcul de l'obligation résultant de l'article 10 du même décret jusqu'à 0,2 % du chiffre d'affaires annuel net de l'exercice précédent.
+
+La contribution porte globalement sur le chiffre d'affaires réalisé par les services suivants :
+
+-services de télévision mentionnés au premier alinéa du présent II ;
+
+-service de télévision de rattrapage mentionné au 6° de l'article 3 du présent cahier des charges.
+
+Dans le cadre de cette globalisation, la société aura la possibilité de faire circuler les droits de diffusion des œuvres entre les services de télévision mentionnés au premier alinéa du présent II, dans les conditions contractuelles prévues au jour de l'engagement des dépenses. La part de la contribution consacrée aux dépenses mentionnées aux 1°, 2° et 4° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021 s'apprécie sur le chiffre d'affaires globalisé de l'ensemble des services concernés.
 
 III. ― Sur ses services nationaux, France Télévisions doit aller au-delà des obligations légales pour que 70 % des œuvres audiovisuelles qu'elle diffuse soient d'origine européenne dont 50 % d'œuvres audiovisuelles d'expression originale française. Cette obligation doit être respectée entre 18 heures et 23 heures, ainsi que le mercredi, le samedi et le dimanche entre 14 heures et 18 heures.
 
@@ -432,19 +444,31 @@ IV. ― France Télévisions consacre chaque année au moins 20 % de son chiffre
 
 Cette contribution est intégralement réalisée dans des œuvres patrimoniales énumérées à la première phrase du deuxième alinéa du 3° de l'article 27 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-Pour les exercices 2019 à 2022, elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère.
+Pour l'exercice 2022, elle ne peut être inférieure annuellement à 420 millions d'euros, ce montant incluant les dépenses dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère.
 
-Déduction faite de ces dépenses, la part minimale de cette contribution consacrée au développement de la production indépendante, au sens de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre, s'établit à 82,5 %. Cette part est intégralement réalisée avec des entreprises de production dont France Télévisions ne détient, directement ou indirectement, ni part du capital social, ni droit de vote.
+Au titre de la diversité des investissements par genre d'œuvres, France Télévisions s'engage à investir au moins les montants suivants :
 
-La part de cette contribution qui n'est pas consacrée au développement de la production indépendante au sens de l'article 15 du décret du 2 juillet 2010 susmentionné est réalisée avec les filiales mentionnées à l'article 44-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+-pour le documentaire de création, 101 millions d'euros dont 12,2 millions d'euros dans les œuvres documentaires ayant fait l'objet d'un contrat avec les antennes régionales de France 3, Via Stella ou les Outre-mer La 1ère ;
 
-Les dépenses prises en compte sont celles mentionnées à l'article 12 du décret du 2 juillet 2010 susmentionné. Toutefois, ne sont prises en compte au titre de celles mentionnées au 7° de cet article que :
+-pour le spectacle vivant, 15,75 millions d'euros dont 2 millions d'euros pour des œuvres exploitées exclusivement sur des services de médias audiovisuels à la demande ou des services de communication au public en ligne ;
+
+-pour l'animation, 27,2 millions d'euros.
+
+Au moins deux tiers de ces montants sont affectés à la production indépendante.
+
+Déduction faite des dépenses mentionnées au troisième alinéa du présent IV, la part minimale de cette contribution consacrée au développement de la production indépendante s'établit à 82,5 %.
+
+La part de cette contribution qui n'est pas consacrée au développement de la production indépendante est réalisée avec les filiales mentionnées à l'article 44-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+Les dépenses prises en compte sont celles mentionnées à l'article 5 du décret du 30 décembre 2021 précité. Toutefois, ne sont prises en compte au titre de celles mentionnées au 8° du I de cet article que :
 
 1° Les dépenses de financement de festivals dans la limite de 0,1 % du montant de la contribution ;
 
-2° Les dépenses externes d'achat d'espaces publicitaires et de campagnes d'affichage consacrées à des œuvres identifiées sur lesquelles porte la contribution, pour la part de ces dépenses supérieure à 500 000 euros.
+2° Les dépenses externes d'achat d'espaces publicitaires et de campagnes d'affichage consacrées à des œuvres identifiées sur lesquelles porte la contribution, pour la part de ces dépenses supérieures à 500 000 euros ;
 
-Conformément au 5° de l'article 14 du décret du 2 juillet 2010 susmentionné, la contribution de l'exercice en cours peut prendre en compte les dépenses engagées au titre de l'exercice précédent qui n'ont pas été prises en compte au titre de ce dernier, dans la limite de 2 % de la contribution de l'exercice en cours.
+3° Les dépenses de financement de la formation des auteurs dans la limite de 1 % du montant de la contribution.
+
+La contribution de l'exercice en cours peut prendre en compte les dépenses engagées au titre de l'exercice précédent qui n'ont pas été prises en compte au titre de ce dernier, dans la limite de 2 % de la contribution de l'exercice en cours.
 
 Elle porte globalement sur le chiffre d'affaires réalisé par les services suivants :
 
@@ -452,9 +476,9 @@ Elle porte globalement sur le chiffre d'affaires réalisé par les services suiv
 
 -services de médias audiovisuels à la demande édités par France Télévisions ou par l'une de ses filiales, au sens du 6° de l'article 3 du présent cahier des charges.
 
-A la condition que France Télévisions en informe le Conseil supérieur de l'audiovisuel avant le 1er juillet de chaque année, le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques, pourra également être pris en compte.
+A la condition que France Télévisions en informe l'Autorité de régulation de la communication audiovisuelle et numérique avant le 1er juillet de chaque année, le chiffre d'affaires des autres services de télévision édités par France Télévisions ou par l'une de ses filiales, sur tout réseau de communications électroniques, pourra également être pris en compte.
 
-Pour la part de la contribution consacrée au développement de la production indépendante au sens de l'article 15 du décret du 2 juillet 2010 susmentionné, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que, lorsqu'elle détient des parts de producteur d'une œuvre en vertu du deuxième alinéa du 1° de l'article 15 dudit décret du 2 juillet 2010, les conditions figurant en annexe, prenant en compte l'accord conclu le 24 mai 2016 avec les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles, relatives à :
+Pour la part de la contribution consacrée au développement de la production indépendante, la société respecte les dispositions figurant en annexe relatives à l'étendue des droits cédés pour les genres d'œuvres qui y sont mentionnés ainsi que, lorsqu'elle détient des parts de producteur d'une œuvre, les conditions figurant en annexe, prenant en compte l'accord conclu le 24 mai 2016 avec les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles, relatives à :
 
 -la négociation des mandats de commercialisation et des droits secondaires ;
 
@@ -462,9 +486,11 @@ Pour la part de la contribution consacrée au développement de la production in
 
 -l'exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
 
+En 2022 en outre, la société ne détient pas de mandats de commercialisation des œuvres pour lesquelles elle acquiert les droits mentionnés au 1° du I de l'article 5 du décret n° 2021-1926 du 30 décembre 2021.
+
 France Télévisions peut procéder à une multidiffusion supplémentaire sur ses services régionaux et locaux de télévision diffusés en outre-mer correspondant à un passage sur chacun de ces services.
 
-Par application du 9° de l'article 14 du décret du 2 juillet 2010 susmentionné, le pourcentage minimum de financement du devis de production d'une œuvre, quel qu'en soit le genre, est fixé à 60 %. Dans ce cas, le calcul du droit à recettes au profit de France Télévisions respecte les règles de l'accord sur la transparence des comptes et des remontées de recettes en matière de production audiovisuelle du 19 février 2016 ou de tout accord qui lui serait substitué.
+Pour l'application du 3° du II de l'article 21 du décret n° 2021-1926 du 30 décembre 2021 précité, le pourcentage minimum de financement du devis de production d'une œuvre, quel qu'en soit le genre, est fixé à 60 %. Dans ce cas, le calcul du droit à recettes au profit de France Télévisions respecte les règles de l'accord sur la transparence des comptes et des remontées de recettes en matière de production audiovisuelle du 19 février 2016 ou de tout accord qui lui serait substitué.
 
 Article 10
 
@@ -538,8 +564,6 @@ Dans le but de favoriser une meilleure compréhension du fonctionnement démocra
 
 A cet effet, elle veille à la sensibilisation de ses journalistes aux questions européennes, notamment par la formation.
 
-Elle collabore également avec la société Euronews.
-
 Article 17
 
 Les émissions religieuses
@@ -568,7 +592,7 @@ Article 19
 
 Les horaires de programmation
 
-La société met en œuvre les règles de respect des horaires et de la programmation définies en accord avec le Conseil supérieur de l'audiovisuel.
+La société met en œuvre les règles de respect des horaires et de la programmation définies en accord avecl'Autorité de régulation de la communication audiovisuelle et numérique.
 
 Elle fait connaître ses programmes deux semaines avant leur diffusion et ne peut les modifier, dans ce délai, sauf circonstances particulières le justifiant.
 
@@ -612,9 +636,13 @@ Article 22
 
 Les services de médias audiovisuels à la demande
 
-France Télévisions conçoit et met à disposition des services de médias audiovisuels à la demande notamment afin d'assurer l'exposition de contenus de complément ou des contenus spécifiques conformes aux missions de service public confiées à France Télévisions. Ces services s'efforcent de garantir une exposition et un accès à l'ensemble des genres de programmes : fiction, séries, cinéma, animation, documentaires, spectacle vivant, magazines, information, sport, programmes religieux, divertissement, programmes culturels, etc.
+I.- France Télévisions conçoit et met à disposition des services de médias audiovisuels à la demande notamment afin d'assurer l'exposition de contenus de complément ou des contenus spécifiques conformes aux missions de service public confiées à France Télévisions. Ces services s'efforcent de garantir une exposition et un accès à l'ensemble des genres de programmes : fiction, séries, cinéma, animation, documentaires, spectacle vivant, magazines, information, sport, programmes religieux, divertissement, programmes culturels, etc.
 
 France Télévisions propose en particulier une offre de télévision de rattrapage permettant une nouvelle mise à disposition auprès du public des programmes diffusés sur ses services de télévision. Ces programmes sont, sauf exception circonstanciée, disponibles gratuitement pendant une période minimale de sept jours à compter de leur première diffusion à l'antenne.
+
+II.- Pour l'application de l'article 28 du décret n° 2021-793 du 22 juin 2021 relatif aux services de médias audiovisuels à la demande, la période de référence prise en compte est l'année civile.
+
+Pour l'application de l'article 29 du même décret, France Télévisions réserve à tout moment une proportion substantielle des œuvres dont la mise en valeur est assurée autrement que par la mention du seul titre à des œuvres européennes ou d'expression originale française. En tenant compte des capacités de personnalisation par les utilisateurs, France Télévisions assure cette mise en valeur sur la page d'accueil des services, par l'exposition de visuels et de rubriques spécifiques, dans les recommandations de contenus individualisés ou non suggérés à ses utilisateurs, dans les recherches de programmes initiés par l'utilisateur ainsi qu'au sein des campagnes promotionnelles de ses services.
 
 Article 23
 
@@ -636,7 +664,7 @@ Article 25
 
 Les moyens de production
 
-Lorsque France Télévisions recourt à ses moyens propres de production, elle établit le coût complet de leur utilisation pour les œuvres audiovisuelles et le porte tous les ans à la connaissance du Conseil supérieur de l'audiovisuel. Elle rend compte régulièrement à son conseil d'administration de l'utilisation de ceux-ci.
+Lorsque France Télévisions recourt à ses moyens propres de production, elle établit le coût complet de leur utilisation pour les œuvres audiovisuelles et le porte tous les ans à la connaissance de l'Autorité de régulation de la communication audiovisuelle et numérique. Elle rend compte régulièrement à son conseil d'administration de l'utilisation de ceux-ci.
 
 Elle peut recourir à ses moyens propres de production pour la réalisation des émissions diffusées sur les services qu'elle édite. Toutefois, en matière de fiction, l'utilisation de ces moyens propres ne saurait excéder 40 % du volume annuel.
 
@@ -662,7 +690,7 @@ Les principes généraux.
 
 La programmation des messages publicitaires et du parrainage sur les services de télévision édités par France Télévisions est soumise au respect des dispositions du présent décret, sous réserve des dispositions de l'article 53 de la loi du 30 septembre 1986 susvisée et du décret n° 92-280 du 27 mars 1992 susvisé.
 
-La société respecte également les règles fixées par le Conseil supérieur de l'audiovisuel en matière de placement de produit.
+La société respecte également les règles fixées par l'Autorité de régulation de la communication audiovisuelle et numérique en matière de placement de produit.
 
 Article 27-1
 
@@ -692,7 +720,7 @@ Par dérogation à l'alinéa précédent :
 
 ― les émissions qui assurent la retransmission de compétitions sportives ne comportant pas d'intervalles peuvent être interrompues par des messages publicitaires. Une période d'au moins vingt minutes doit s'écouler entre deux interruptions successives de l'émission ;
 
-― les émissions autres que les œuvres audiovisuelles, au sens du décret n° 90-66 du 17 janvier 1990 modifié susvisé peuvent, après autorisation délivrée par le Conseil supérieur de l'audiovisuel et lorsqu'elles sont diffusées avant 20 heures, faire l'objet d'interruptions par des messages publicitaires si elles sont composées de parties autonomes identifiées et séparées par des éléments visuels et sonores.
+― les émissions autres que les œuvres audiovisuelles, au sens du décret n° 90-66 du 17 janvier 1990 modifié susvisé peuvent, après autorisation délivrée par l'Autorité de régulation de la communication audiovisuelle et numérique et lorsqu'elles sont diffusées avant 20 heures, faire l'objet d'interruptions par des messages publicitaires si elles sont composées de parties autonomes identifiées et séparées par des éléments visuels et sonores.
 
 Article 30
 
@@ -752,7 +780,7 @@ Article 35
 
 L'honnêteté et le pluralisme de l'information
 
-Dans le respect du principe d'égalité de traitement et des recommandations du Conseil supérieur de l'audiovisuel, France Télévisions assure l'honnêteté, la transparence, l'indépendance et le pluralisme de l'information ainsi que l'expression pluraliste des courants de pensée et d'opinion.
+Dans le respect du principe d'égalité de traitement et des recommandations de l'Autorité de régulation de la communication audiovisuelle et numérique, France Télévisions assure l'honnêteté, la transparence, l'indépendance et le pluralisme de l'information ainsi que l'expression pluraliste des courants de pensée et d'opinion.
 
 Elle ne recourt pas à des procédés susceptibles de nuire à la bonne compréhension du téléspectateur. Les questions prêtant à controverse doivent être présentées de façon honnête et l'expression des différents points de vue doit être assurée.
 
@@ -816,7 +844,7 @@ VI.-Le comité peut entendre toute personne dont l'audition lui paraît utile et
 
 Il garantit l'anonymat de toute personne qui le consulte si celle-ci le demande.
 
-Il rend public son bilan annuel au plus tard le 31 mars de l'année suivante. Ce bilan mentionne notamment le nombre de demandes traitées au cours de l'année et le nombre de dossiers transmis au Conseil supérieur de l'audiovisuel et au conseil d'administration de la société. Il rend compte des résultats des délibérations du comité. Il dresse un état des moyens mis à la disposition du comité et expose les difficultés de toute nature auxquelles ce dernier estime être confronté dans l'exercice de ses missions.
+Il rend public son bilan annuel au plus tard le 31 mars de l'année suivante. Ce bilan mentionne notamment le nombre de demandes traitées au cours de l'année et le nombre de dossiers transmis à l'Autorité de régulation de la communication audiovisuelle et numérique et au conseil d'administration de la société. Il rend compte des résultats des délibérations du comité. Il dresse un état des moyens mis à la disposition du comité et expose les difficultés de toute nature auxquelles ce dernier estime être confronté dans l'exercice de ses missions.
 
 Article 36
 
@@ -840,7 +868,7 @@ Elle contribue, à travers ses programmes et son traitement de l'information et 
 
 La société s'abstient de diffuser des programmes susceptibles de nuire à l'épanouissement physique, mental ou moral des mineurs. A ce titre, la société s'abstient de diffuser des programmes comprenant des scènes de pornographie et de montrer, notamment dans les journaux télévisés, de la complaisance pour la violence.
 
-Elle met en œuvre le dispositif relatif à la protection du jeune public, notamment, pour les programmes diffusés sur ses services de télévision, la recommandation du Conseil supérieur de l'audiovisuel du 7 juin 2005 concernant la signalétique jeunesse et la classification des programmes.
+Elle met en œuvre le dispositif relatif à la protection du jeune public, notamment, pour les programmes diffusés sur ses services de télévision, la recommandation de l'Autorité de régulation de la communication audiovisuelle et numérique du 7 juin 2005 concernant la signalétique jeunesse et la classification des programmes.
 
 En cas de recours à des émissions de reconstitution de faits vécus, la société veille à montrer avec retenue et sans dramatisation complaisante la souffrance, le désarroi ou l'exclusion, et à informer le public de toute reconstitution ou scénarisation de faits réels.
 
@@ -856,7 +884,7 @@ Elle veille à ce que ses programmes donnent une image la plus impartiale possib
 
 De façon générale, elle promeut les valeurs d'une culture et d'un civisme partagés.
 
-Dans le cadre des recommandations du Conseil supérieur de l'audiovisuel, la société met en œuvre les actions permettant d'améliorer la représentation de la diversité de la société française.
+Dans le cadre des recommandations de l'Autorité de régulation de la communication audiovisuelle et numérique, la société met en œuvre les actions permettant d'améliorer la représentation de la diversité de la société française.
 
 Article 38
 
@@ -876,7 +904,7 @@ Article 39
 
 La langue française
 
-Tendant à être une référence dans l'usage de la langue française, France Télévisions contribue à sa promotion et à son illustration dans le cadre des recommandations du Conseil supérieur de l'audiovisuel.
+Tendant à être une référence dans l'usage de la langue française, France Télévisions contribue à sa promotion et à son illustration dans le cadre des recommandations de l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 Elle veille à l'usage et au respect de la langue française par le personnel intervenant sur ses services conformément aux dispositions de la loi n° 94-665 du 4 août 1994 et, notamment, proscrit les termes étrangers lorsqu'ils possèdent un équivalent en français.
 
@@ -928,7 +956,7 @@ Article 46
 
 L'expression des formations politiques
 
-France Télévisions diffuse des émissions régulières consacrées à l'expression directe des formations politiques représentées par un groupe dans l'une ou l'autre des assemblées du Parlement, dans le respect des modalités définies par le Conseil supérieur de l'audiovisuel.
+France Télévisions diffuse des émissions régulières consacrées à l'expression directe des formations politiques représentées par un groupe dans l'une ou l'autre des assemblées du Parlement, dans le respect des modalités définies par l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 Le coût financier de ces émissions est à sa charge dans les limites d'un plafond fixé par son conseil d'administration.
 
@@ -936,9 +964,9 @@ Article 47
 
 Les consultations électorales
 
-France Télévisions diffuse sur ses services de télévision et de radio qui proposent des bulletins d'information générale les émissions relatives aux consultations électorales pour lesquelles une campagne officielle radiotélévisée est prévue par les textes législatifs et réglementaires en vigueur, en respectant les règles définies par le Conseil supérieur de l'audiovisuel.
+France Télévisions diffuse sur ses services de télévision et de radio qui proposent des bulletins d'information générale les émissions relatives aux consultations électorales pour lesquelles une campagne officielle radiotélévisée est prévue par les textes législatifs et réglementaires en vigueur, en respectant les règles définies par l'Autorité de régulation de la communication audiovisuelle et numérique.
 
-La société produit ces émissions selon des modalités arrêtées par le Conseil supérieur de l'audiovisuel.
+La société produit ces émissions selon des modalités arrêtées par l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 L'Etat rembourse à la société les frais de production et de diffusion occasionnés par ces émissions.
 
@@ -948,13 +976,13 @@ La communication du Gouvernement
 
 Conformément à l'article 54 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, France Télévisions assure à tout moment la réalisation et la programmation des déclarations et des communications du Gouvernement à sa demande, sans limitation de durée et à titre gratuit.
 
-Elle met en œuvre le droit de réplique dans le respect des modalités fixées par le Conseil supérieur de l'audiovisuel.
+Elle met en œuvre le droit de réplique dans le respect des modalités fixées par l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 Article 49
 
 L'expression des organisations syndicales et professionnelles
 
-France Télévisions diffuse des émissions régulières consacrées à l'expression directe des organisations syndicales et professionnelles représentatives à l'échelle nationale d'employeurs et de salariés, dans le respect des modalités définies par le Conseil supérieur de l'audiovisuel.
+France Télévisions diffuse des émissions régulières consacrées à l'expression directe des organisations syndicales et professionnelles représentatives à l'échelle nationale d'employeurs et de salariés, dans le respect des modalités définies par l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 Le coût financier de ces émissions est à sa charge dans les limites d'un plafond fixé par le conseil d'administration de la société.
 
@@ -1176,9 +1204,9 @@ Article 70
 
 Le contrôle du respect des dispositions du cahier des charges
 
-La société adresse chaque année, avant le 30 avril, au ministre chargé de la communication et au Conseil supérieur de l'audiovisuel un rapport sur l'exécution du présent cahier des charges par chacun de ses services.
+La société adresse chaque année, avant le 30 avril, au ministre chargé de la communication et à l'Autorité de régulation de la communication audiovisuelle et numérique un rapport sur l'exécution du présent cahier des charges par chacun de ses services.
 
-La société communique au Conseil supérieur de l'audiovisuel toutes les informations que ce dernier juge nécessaires pour s'assurer qu'elle respecte ses obligations légales et réglementaires ainsi que celles résultant du présent cahier des charges. A cette fin, la société conserve trois mois au moins un enregistrement des émissions qu'elle diffuse ainsi que les conducteurs de programmes correspondants.
+La société communique à l'Autorité de régulation de la communication audiovisuelle et numérique toutes les informations que cette dernière juge nécessaires pour s'assurer qu'elle respecte ses obligations légales et réglementaires ainsi que celles résultant du présent cahier des charges. A cette fin, la société conserve trois mois au moins un enregistrement des émissions qu'elle diffuse ainsi que les conducteurs de programmes correspondants.
 
 Annexe : Etendue des droits cédés par genre d'œuvre
 
@@ -1390,7 +1418,7 @@ Droit à recettes |
 
 (6) Alignement de la protection à l'égard d'une exploitation non-linéaire par abonnement sur celle à l'égard d'une exploitation en linéaire payante dans la limite de 24 mois. |
 
-Annexe : Conditions d'acquisition des mandats de commercialisation et des droits secondaires d'une œuvre pour laquelle France Télévisions détient des parts de producteur dans la partie indépendante de sa contribution à la production audiovisuelle et conditions d'exploitation des droits de diffusion de cette œuvre à l'issue de la période initiale des droits de diffusion. – Mise en œuvre des b, c et d du 1° de l'article 15 du décret n° 2010-747 du 2 juillet 2010 relatif à la contribution à la production d'œuvres cinématographiques et audiovisuelles des services de télévision diffusés par voie hertzienne terrestre
+Annexe : Conditions d'acquisition des mandats de commercialisation et des droits secondaires d'une œuvre pour laquelle France Télévisions détient des parts de producteur dans la partie indépendante de sa contribution à la production audiovisuelle et conditions d'exploitation des droits de diffusion de cette œuvre à l'issue de la période initiale des droits de diffusion
 
 Les conditions précisées ci-dessous prennent en compte les engagements réciproques souscrits par France Télévisions et les organisations représentant les producteurs et les distributeurs d'œuvres audiovisuelles dans le cadre d'un accord conclu le 24 mai 2016.
 
@@ -1426,7 +1454,7 @@ L'offre peut également comporter des éléments d'information sur la stratégie
 
 1.2.3. Le mécanisme tel que décrit ci-dessus s'applique pour la cession des différents droits secondaires de l'œuvre.
 
-1.2.4. Dans le cadre du mécanisme d'attribution des mandats de commercialisation, France Télévisions doit disposer, au moment du contrôle par le Conseil supérieur de l'audiovisuel (CSA) de la déclaration relative à ses dépenses au regard de son obligation de contribution au développement de la production audiovisuelle, des notifications démontrant que le producteur a sollicité au moins un distributeur tiers.
+1.2.4. Dans le cadre du mécanisme d'attribution des mandats de commercialisation, France Télévisions doit disposer, au moment du contrôle par l'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) de la déclaration relative à ses dépenses au regard de son obligation de contribution au développement de la production audiovisuelle, des notifications démontrant que le producteur a sollicité au moins un distributeur tiers.
 
 1.2.5. En cas de vente des droits de diffusion de l'œuvre à l'une des chaînes du groupe France Télévisions, la filiale de distribution de celui-ci s'engage à faire valider le prix et les conditions de cession (durée, exclusivité, nombre de multidiffusions, etc.) préalablement par le producteur délégué.
 
@@ -1462,12 +1490,8 @@ Ne constitue un accord-cadre, ni un accord ponctuel limité à un nombre prédé
 
 – pour les œuvres coproduites à compter du 24 mai 2016, la renonciation du producteur délégué ne peut intervenir qu'après réception de la confirmation écrite de l'engagement chiffré de France Télévisions.
 
-Dans l'hypothèse où le producteur délégué décide de confier des mandats de distribution à la filiale de France Télévisions, cette dernière doit produire auprès du CSA la renonciation écrite et justifiée du producteur délégué dans le cadre de ses obligations de déclaration annuelle auprès du Conseil, en vue de permettre que l'œuvre concernée puisse être considérée comme relevant de la production indépendante.
+Dans l'hypothèse où le producteur délégué décide de confier des mandats de distribution à la filiale de France Télévisions, cette dernière doit produire auprès de l'ARCOM la renonciation écrite et justifiée du producteur délégué dans le cadre de ses obligations de déclaration annuelle auprès de l'Autorité, en vue de permettre que l'œuvre concernée puisse être considérée comme relevant de la production indépendante.
 
 3. Exploitation des droits de diffusion de l'œuvre à l'issue de la période initiale des droits de diffusion qui lui ont été cédés
 
 A l'exception des séries ou collections dont France Télévisions a acquis les droits de diffusion de nouveaux épisodes au plus tard à l'issue de la période initiale des droits de diffusion qui lui ont été cédés, France Télévisions s'engage à exploiter, dans un délai de dix-huit mois à compter de leur acquisition, les droits de diffusion de l'œuvre en France sur un service de télévision qu'il édite, s'il acquiert ces droits à l'issue de la période initiale des droits de diffusion qui lui ont été cédés.
-
-NOTA :
-
-Conformément à l'article 3 du décret n° 2021-785 du 19 juin 2021, ces dispositions entrent en vigueur le 20 août 2021.
