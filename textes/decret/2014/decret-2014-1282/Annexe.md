@@ -558,16 +558,6 @@ Article 7 |
 
 6 mois |
 
-Décret n° 2011-708 du 21 juin 2011 modifiant le code de la consommation en ce qui concerne la mise sur le marché et l'utilisation des aliments pour animaux |
-
-Autorisation d'essais d'additifs non autorisés dans l'Union européenne pour l'alimentation animale à des fins de recherche |
-
-Article 2
-
-|
-
-8 mois |
-
 Arrêté du 12 août 1986 relatif au traitement par rayonnements ionisants des matériaux et objets mis ou destinés à être mis en contact des denrées, produits et boissons destinés à l'alimentation |
 
 Autorisation pour les entreprises fabriquant ou important des matériaux ionisés |
@@ -585,7 +575,3 @@ Articles 1er et 2
 |
 
 - |
-
-NOTA :
-
-Conformément à l'article 42 du décret n° 2020-68 du 30 janvier 2020, ces dispositions entrent en vigueur le 1er février 2020. Les demandes de décisions administratives individuelles présentées avant cette date demeurent soumises aux dispositions applicables à la date de leur présentation.
