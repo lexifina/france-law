@@ -1,4 +1,4 @@
-# Article 9.11
+# Article Annexe IV
 
 a)   En application des dispositions de l'article L. 6332-1-2 du code du travail, les entreprises de 11 salariés et plus de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance, et des autres enseignements, à l'exception des entreprises citées à l'alinéa suivant, versent une contribution supplémentaire conventionnelle de formation à l'opérateur de compétences des entreprises et des salariés des services à forte intensité de main-d'œuvre dit AKTO qui s'élève à 0,3 % de la masse salariale brute annuelle, y compris les entreprises dont le siège est implanté dans un DROM ou une COM appliquant la législation française en matière de participation à la formation professionnelle.
 
@@ -8,14 +8,12 @@ c)   En cas de pluriactivité susceptible de justifier l'application de l'un o
 
 d)   Les employeurs des entreprises de l'enseignement supérieur, de l'enseignement postsecondaire non supérieur, de l'enseignement culturel, de l'enseignement à distance et des autres enseignements, à l'exception des entreprises citées à l'alinéa b qui, en raison de l'accroissement de leur effectif, atteignent ou dépassent au titre d'une année, pour la première fois, l'effectif de 11 salariés, bénéficient d'une évolution spécifique du taux de leur contribution.
 
-Ils restent soumis pour l'année en cours et les deux suivantes au taux applicable aux employeurs occupant 10 salariés et moins, à savoir 0,1 %.
+Ils restent soumis pour l'année en cours et les 2 suivantes au taux applicable aux employeurs occupant 10 salariés et moins, à savoir 0,1 %.
 
-Ils sont ensuite assujettis à la contribution supplémentaire conventionnelle de 0,2 % de la masse salariale la quatrième année de l'accroissement de leur effectif pour atteindre, la cinquième année, la contribution supplémentaire conventionnelle des employeurs occupant 11 salariés et plus, à savoir : 0,3 % de la masse salariale.
+Ils sont ensuite assujettis à la contribution supplémentaire conventionnelle de 0,2 % de la masse salariale la 4e année de l'accroissement de leur effectif pour atteindre, la 5e année, la contribution supplémentaire conventionnelle des employeurs occupant 11 salariés et plus, à savoir : 0,3 % de la masse salariale.
 
 Cette évolution progressive n'est pas applicable lorsque :
 
 – l'accroissement d'effectif résulte de la reprise ou de l'absorption d'un établissement ayant employé 11 salariés ou plus au cours des 3 années précédentes ;
 
 – le seuil de 11 salariés est atteint ou dépassé dès la 1re année d'activité.
-
-Nota : L'article 2 de l'avenant n° 48 du 18 décembre 2019 est conclu pour une durée de 2 ans. Ses dispositions sont applicables à compter de la date d'exigibilité du prélèvement de la contribution supplémentaire conventionnelle en février 2020 sur la masse salariale brute 2019.
