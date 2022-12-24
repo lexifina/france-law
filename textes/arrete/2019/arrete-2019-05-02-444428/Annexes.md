@@ -10,6 +10,10 @@ Annexe modifiée conformément à l'article 8 de l'arrêté du 17 février 2021 
 
 https://www.legifrance.gouv.fr/download/pdf?id=xCzJgXXJ4VqGGtbupwnEwnQThGDlKNNq4H-vAba4fMw=
 
+Annexe modifiée conformément à l'article 1er de l'arrêté du 6 décembre 2022 (NOR : AGRE2234846A), accessible à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/download/pdf?id=KIg5AGW6FHTjeDQaXav9I_Zq5SIBwQLUJV1XmzUcHhc=
+
 NOTA :
 
 Conformément à l'article 8 de l'arrêté du 17 février 2021 (AGRE2104988A), ces dispositions entrent en vigueur à compter du 1er septembre 2022.
