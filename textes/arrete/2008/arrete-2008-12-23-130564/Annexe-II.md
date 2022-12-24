@@ -1180,11 +1180,11 @@ d'emplois
 
 |
 
-75 |
+31 |
 
-Garde républicaine/cercle mixte des Célestins |
+Région de gendarmerie Midi-Pyrénées-Toulouse |
 
-Chef de cuisine |
+Chef magasinier |
 
 1 |
 
@@ -1272,9 +1272,41 @@ Chef de cuisine |
 
 93 |
 
-RZG IdF/ COMSOP/ CM Rosny-sous-Bois |
+RZG IdF/ COMSOP/ CM Rosny-sous-Bois
+
+|
 
 Adjoint gérant restauration |
+
+1 |
+
+35 |
+
+Région de gendarmerie Bretagne-cercle mixte Rennes
+
+|
+
+Chef de cuisine |
+
+1 |
+
+46 |
+
+Centre national d'instruction cynophile de la gendarmerie nationale-Gramat
+
+|
+
+Chef de cuisine |
+
+1 |
+
+77 |
+
+Ecole de gendarmerie de Fontainebleau
+
+|
+
+Chef de la cellule des matériels |
 
 1 |
 

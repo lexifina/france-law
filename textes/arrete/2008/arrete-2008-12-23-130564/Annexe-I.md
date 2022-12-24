@@ -252,7 +252,7 @@ Adjoint au chef de l'atelier avancé |
 
 75 |
 
-Zone de défense et de sécurité IDF/ préfecture de police/ DOSTL |
+Zone de défense et de sécurité IDF/ préfecture de police/ DILT |
 
 Adjoint opérationnel au responsable du magasin |
 
@@ -260,7 +260,7 @@ Adjoint opérationnel au responsable du magasin |
 
 75 |
 
-Zone de défense et de sécurité IDF/ Préfecture de police/ DOSTL/ atelier nord |
+Zone de défense et de sécurité IDF/ Préfecture de police/ DILT/ atelier nord |
 
 Chef de la cellule accueil contentieux volant |
 
@@ -282,11 +282,27 @@ d'emplois
 
 |
 
+03 |
+
+Ecole de gendarmerie Montluçon-cercle mixte |
+
+Chef de cuisine |
+
+1 |
+
 29 |
 
 Ecole de gendarmerie de Châteaulin |
 
 Adjoint au chef de cuisine |
+
+1 |
+
+75 |
+
+Garde républicaine-cercle mixte Tournon |
+
+Chef de cuisine |
 
 1 |
 
@@ -308,9 +324,9 @@ d'emplois
 
 13 |
 
-Direction de la sécurité civile/ ESOL Sud |
+Direction générale de la sécurité civile et de la gestion des crises/ ESOL Sud |
 
-Adjoint au responsable du service approvisionnements |
+Adjoint au responsable du service approvisionnement |
 
 1 |
 
@@ -332,7 +348,7 @@ d'emplois
 
 75 |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
 
 Responsable de l'atelier reprographie |
 
@@ -340,15 +356,15 @@ Responsable de l'atelier reprographie |
 
 75 |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
 
-Responsable du pôle "manutention" |
+Responsable du pôle " manutention " |
 
 1 |
 
 75 |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
 
 Responsable de l'entretien et de la lingerie du site de Beauvau |
 
@@ -356,7 +372,7 @@ Responsable de l'entretien et de la lingerie du site de Beauvau |
 
 75 |
 
-Direction de la programmation, des affaires financières et de l'immobilier/ BGSAC/ Beauvau |
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier/ BGSAC/ Beauvau |
 
 Adjoint au chef des ateliers |
 
@@ -372,7 +388,7 @@ Responsable de la gestion des matériels |
 
 87 |
 
-Direction des systèmes d'information et decommunication/ SDES/ CNPT/ Limoges |
+Direction du numérique/ SDES/ CNPT/ Limoges |
 
 Adjoint au responsable de la cellule exploitation |
 
