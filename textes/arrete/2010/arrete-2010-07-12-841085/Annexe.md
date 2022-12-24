@@ -2,7 +2,7 @@
 
 LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
-Jusqu'au 30 novembre 2022 :
+Jusqu'au 15 janvier 2023 :
 
 Saint-Denis de La Réunion-Bangkok (Thaïlande) ;
 
