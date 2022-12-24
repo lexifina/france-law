@@ -116,9 +116,9 @@ Zinc et ses composés (en Zn) |
 
 Les substances dangereuses marquées d'une étoile (*) dans le tableau ci-dessus sont visées par des objectifs de suppression des émissions et doivent en conséquence satisfaire en plus aux dispositions de l'article 22-2-III de l'arrêté du 2 février 1998 modifié.
 
-Ces valeurs limites sont à respecter en moyenne quotidienne. Aucune valeur instantanée ne dépasse le double des valeurs limites de concentration.
+e) Ces valeurs limites sont à respecter sur l'échantillon représentatif défini au point 5.9 de la présente annexe.
 
-Lorsque l'exploitant a recours au traitement des effluents atmosphériques pour atteindre les valeurs limites fixées au paragraphe 6, le préfet peut fixer, par arrêté pris en application de l'article L. 512-12 du code de l'environnement, des valeurs limites différentes ou visant d'autres polluants.
+f) Lorsque l'exploitant a recours au traitement des effluents atmosphériques pour atteindre les valeurs limites fixées au paragraphe 6, le préfet peut fixer, par arrêté pris en application de l'article L. 512-12 du code de l'environnement, des valeurs limites différentes ou visant d'autres polluants.
 
 5.7. Interdiction des rejets en nappe
 
@@ -194,7 +194,7 @@ A. - Détermination des hauteurs de cheminées :
 
 Type de combustible |
 
-> 1 MW et < 4 MW |
+1 MW et < 4 MW |
 
 4 MW et < 6 MW |
 
@@ -232,7 +232,7 @@ Autres combustibles |
 
 Type de combustible |
 
-> 1 MW et < 4 MW |
+1 MW et < 4 MW |
 
 4 MW et < 6 MW |
 
@@ -390,17 +390,31 @@ GPL |
 
 (15 m) |
 
-B. - Prise en compte des obstacles :
+B.-Prise en compte des obstacles :
 
-S'il y a dans le voisinage des obstacles naturels ou artificiels de nature à perturber la dispersion des gaz de combustion (obstacles ayant une largeur supérieure à un angle solide de 15 degrés vus de la cheminée dans le plan horizontal passant par le débouché de la cheminée), la hauteur de la (ou des) cheminée(s) est déterminée de la manière suivante :
+S'il y a, dans le voisinage, des obstacles naturels ou artificiels de nature à perturber la dispersion des gaz, la hauteur de la cheminée est calculée comme suit :
+
+- on retient la valeur “ hp ” définie au A du présent point ;
+
+- on considère comme “ obstacles ”, les reliefs, les structures ou les immeubles, et notamment celui abritant l'installation étudiée, remplissant simultanément les conditions suivantes :
+
+- ils sont situés à une distance horizontale (exprimée en mètres) inférieure à 5D de l'axe de la cheminée considérée ;
+
+- ils ont une largeur supérieure à 2 mètres ;
+
+- ils ont une largeur supérieure à la largeur de leur intersection avec un cône d'axe horizontal et d'angle 15 degrés dont le sommet est le débouché de la cheminée ;
+
+- soit “ hi ” l'altitude (exprimée en mètres et prise par rapport au niveau moyen du sol à l'endroit de la cheminée considérée) d'un point d'un obstacle situé à une distance horizontale “ di ” (exprimée en mètres) de l'axe de la cheminée considérée, et soit “ Hi ” défini comme suit :
 
 - si l'obstacle considéré est situé à une distance inférieure à D de l'axe de la cheminée : Hi = hi + 5 ;
 
-- si l'obstacle considéré est situé à une distance comprise entre D et 5 D de l'axe de la cheminée : Hi = 5/4 (hi + 5) (1 - d/5 D).
-
-hi est l'altitude d'un point de l'obstacle situé à une distance d de l'axe de la cheminée. Soit Hp la plus grande des valeurs de Hi, la hauteur de la cheminée est supérieure ou égale à la plus grande des valeurs Hp et hp.
+- si l'obstacle considéré est situé à une distance comprise entre D et 5D de l'axe de la cheminée, Hi = 5/4 (hi + 5) (1-di/ (5D)).
 
 Pour les combustibles gazeux et le fioul domestique, D est pris égal à 25 mètres si la puissance thermique nominale totale est inférieure à 10 MW et à 40 mètres si la puissance thermique nominale totale est supérieure ou égale à 10 MW. Ces distances sont doublées dans le cas des autres combustibles.
+
+- soit Hp la plus grande des valeurs Hi calculées pour tous les points de tous les obstacles définis ci-dessus.
+
+La hauteur de la cheminée est supérieure ou égale à la plus grande des valeurs “ Hp ” déterminée au présent point et “ hp ” déterminée au point A.
 
 C. - Cas des appareils de combustion fonctionnant moins de 500 heures par an :
 
@@ -408,7 +422,7 @@ Dans le cas des appareils de combustion fonctionnant moins de 500 heures par an,
 
 6.2.3. Vitesse d'éjection des gaz
 
-A. - Pour les turbines et moteurs, la vitesse d'éjection des gaz de combustion en marche nominale est au moins égale à 25 m/s.
+A. - Pour les turbines et moteurs, la vitesse d'éjection des gaz de combustion en marche continue maximale est au moins égale à 25 m/s.
 
 Lorsque les émissions sont évacuées par une chaudière de récupération, les vitesses d'éjection applicables sont celles fixées au point B du présent point.
 
@@ -432,13 +446,13 @@ Objet du contrôle :
 
 Les valeurs limites d'émissions du présent point sont applicables aux installations de combustion autres que les turbines, moteurs et générateurs de chaleur directe, dont les chaudières.
 
-Le volume des effluents gazeux est exprimé en mètres cubes normaux (Nm3), rapportés à des conditions normalisées de température (273,15 K) et de pression (101,3 kPa) après déduction de la vapeur d'eau (gaz secs).
+Le volume des effluents gazeux est exprimé en mètres cubes normaux (Nm3), rapportés aux conditions normales de température (273,15 K) et de pression (101,3 kPa) après déduction de la vapeur d'eau (gaz secs).
 
 Les concentrations en polluants sont exprimées en milligrammes par mètre cube (mg/Nm3) sur gaz sec.
 
 Le débit des effluents gazeux ainsi que les concentrations en polluants sont rapportés à une teneur en oxygène dans les effluents en volume de 6 % dans le cas des combustibles solides, de 3 % dans le cas des combustibles liquides et gazeux.
 
-I. - Les valeurs limites d'émission suivantes s'appliquent sous réserve des renvois entre parenthèses :
+I. a) - Les valeurs limites d'émission suivantes s'appliquent sous réserve des renvois entre parenthèses :
 
 - aux installations de combustion existantes de puissance thermique nominale totale supérieure ou égale à 5 MW fonctionnant plus de 500 heures par an, à compter de l'entrée en vigueur du présent arrêté et jusqu'au 31 décembre 2024 ;
 
@@ -462,7 +476,7 @@ P < 10 MW |
 
 P ≥ 10 MW |
 
-Biomasse |
+Biomasse solide |
 
 225 |
 
@@ -495,6 +509,16 @@ Fioul Lourd |
 450 (1) (4) (9) |
 
 50 (11) |
+
+Autres combustibles liquides |
+
+850 |
+
+550 |
+
+450 |
+
+50 |
 
 Gaz naturel, Biométhane |
 
@@ -598,11 +622,13 @@ Installation déclarée entre le 1er janvier 1998 et le 1er janvier 2014. |
 
 NOx : 120 |
 
+I. b) Les installations de combustion nouvelles, de puissance thermique nominale totale supérieure ou égale à 1 MW et inférieure à 2 MW, fonctionnant moins de 500 heures par an, respectent une valeur limite d'émission de 100 mg/ Nm3 pour les poussières, si les installations utilisent des combustibles solides, à compter de l'entrée en vigueur du présent arrêté et jusqu'au 31 décembre 2029.
+
 II. - Les valeurs limites d'émission suivantes s'appliquent sous réserve des renvois entre parenthèses aux installations de combustion fonctionnant plus de 500 heures par an et :
 
-- existantes de puissance thermique nominale totale supérieure ou égale à 5 MW enregistrées après le 1er janvier 2014 et mises en service avant le 20 décembre 2018, à compter du 1er janvier 2025 ;
+- existantes de puissance thermique nominale totale supérieure ou égale à 5 MW déclarées après le 1er janvier 2014 et mises en service avant le 20 décembre 2018, à compter du 1er janvier 2025 ;
 
-- existantes de puissance thermique nominale totale supérieure à 2 MW et inférieure à 5 MW enregistrées après le 1er janvier 2014 et mises en service avant le 20 décembre 2018, à compter du 1er janvier 2030 ;
+- existantes de puissance thermique nominale totale supérieure à 2 MW et inférieure à 5 MW déclarées après le 1er janvier 2014 et mises en service avant le 20 décembre 2018, à compter du 1er janvier 2030 ;
 
 - nouvelles, à compter de l'entrée en vigueur du présent arrêté.
 
@@ -618,7 +644,7 @@ Poussières (mg/Nm3) |
 
 CO (mg/Nm3) |
 
-Biomasse |
+Biomasse solide |
 
 P < 5 |
 
@@ -674,7 +700,7 @@ P < 5 |
 
 10 ≤ P |
 
-Fioul Lourd |
+Autres combustibles liquides |
 
 P < 5 |
 
@@ -776,9 +802,9 @@ NOx : 500 |
 
 III. - Les valeurs limites d'émission suivantes s'appliquent sous réserve des renvois entre parenthèses aux installations de combustion existantes fonctionnant plus de 500 heures par an et :
 
-- de puissance thermique nominale totale supérieure ou égale à 5 MW enregistrées avant le 1er janvier 2014, à compter du 1er janvier 2025 ;
+- de puissance thermique nominale totale supérieure ou égale à 5 MW déclarées avant le 1er janvier 2014, à compter du 1er janvier 2025 ;
 
-- de puissance thermique nominale totale supérieure à 2 MW et inférieure à 5 MW enregistrées avant le 1er janvier 2014, à compter du 1er janvier 2030 ;
+- de puissance thermique nominale totale supérieure à 2 MW et inférieure à 5 MW déclarées avant le 1er janvier 2014, à compter du 1er janvier 2030 ;
 
 - de puissance thermique nominale totale supérieure ou égale à 1 MW et inférieure ou égale à 2 MW, à compter du 1er janvier 2030.
 
@@ -794,7 +820,7 @@ Poussières (mg/Nm3) |
 
 CO (mg/Nm3) |
 
-Biomasse |
+Biomasse solide |
 
 P < 5 |
 
@@ -842,7 +868,7 @@ P < 5 |
 
 10 ≤ P |
 
-Fioul Lourd |
+Autres combustibles liquides |
 
 P < 5 |
 
@@ -934,7 +960,7 @@ Objet du contrôle :
 
 6.2.5. Valeurs limites d'émissions (turbines et moteurs)
 
-Le volume des effluents gazeux est exprimé en mètres cubes normaux (Nm³), rapportés à des conditions normalisées de température (273,15 K) et de pression (101,325 kPa) après déduction de la vapeur d'eau (gaz secs).
+Le volume des effluents gazeux est exprimé en mètres cubes normaux (Nm³), rapportés aux conditions normales de température (273,15 K) et de pression (101,325 kPa) après déduction de la vapeur d'eau (gaz secs).
 
 Les concentrations en polluants sont exprimées en milligrammes par mètre cube (mg/Nm3) sur gaz sec.
 
@@ -964,11 +990,11 @@ Poussières (mg/Nm³) |
 
 Combustibles liquides |
 
-Fioul lourd : 550 |
+Autres combustibles liquides que le fioul domestique : 550 |
 
 120 (1) |
 
-Fioul lourd : 20 |
+Autres combustibles liquides que le fioul domestique : 20 |
 
 Combustibles gazeux |
 
@@ -1050,7 +1076,7 @@ P < 5 |
 
 10 ≤ P |
 
-Fioul Lourd |
+Autres combustibles liquides |
 
 P < 5 |
 
@@ -1156,11 +1182,11 @@ Poussières (mg/Nm³) |
 
 Combustibles liquides |
 
-Fioul lourd : 565 |
+Autres combustibles liquides que le fioul domestique : 565 |
 
 225 (1) (2) (3) (8) |
 
-Fioul lourd : 40 |
+Autres combustibles liquides que le fioul domestique : 40 |
 
 Combustibles gazeux |
 
@@ -1184,13 +1210,13 @@ NOx : 450 |
 
 (2) |
 
-Installation utilisant un système d'allumage par injection pilote (moteur dual fioul en mode liquide) |
+Installation utilisant un système d'allumage par injection pilote (moteur à double combustible en mode liquide) |
 
 NOx : 750 |
 
 (3) |
 
-Installation déclarée après le 1er janvier 2014 utilisant un système d'allumage par injection pilote (moteur dual fioul en mode liquide) |
+Installation déclarée après le 1er janvier 2014 utilisant un système d'allumage par injection pilote (moteur à double combustible en mode liquide) |
 
 NOx : 450 |
 
@@ -1202,7 +1228,7 @@ NOx : 130 |
 
 (5) |
 
-Installation déclarée avant le 1er janvier 2014 utilisant un système d'allumage par injection pilote (moteur dual fioul en mode gaz) |
+Installation déclarée avant le 1er janvier 2014 utilisant un système d'allumage par injection pilote (moteur à double combustible en mode gaz) |
 
 NOx : 190 |
 
@@ -1262,7 +1288,7 @@ P < 5 |
 
 10 ≤ P |
 
-Fioul Lourd |
+Autres combustibles liquides |
 
 P < 5 |
 
@@ -1322,13 +1348,13 @@ Valeur limite d'émission (mg/Nm3) |
 
 (1) |
 
-Installation de combustion utilisant un système d'allumage par injection pilote (moteur dual fioul en mode liquide) et mise en service à partir du 20 décembre 2018 |
+Installation de combustion utilisant un système d'allumage par injection pilote (moteur à double combustible en mode liquide) et mise en service à partir du 20 décembre 2018 |
 
 NOx : 225 |
 
 (2) |
 
-Installation de combustion déclarée avant le 1er janvier 2014 utilisant un système d'allumage par injection pilote (moteur dual fioul en mode liquide) |
+Installation de combustion déclarée avant le 1er janvier 2014 utilisant un système d'allumage par injection pilote (moteur à double combustible en mode liquide) |
 
 NOx : 750 |
 
@@ -1370,7 +1396,7 @@ Poussières : 20 |
 
 (9) |
 
-Installation de combustion utilisant un système d'allumage par injection pilote (moteur dual fioul en mode gaz) |
+Installation de combustion utilisant un système d'allumage par injection pilote (moteur à double combustible en mode gaz) |
 
 NOX : 190 |
 
@@ -1390,7 +1416,7 @@ Objet du contrôle :
 
 Les valeurs limites d'émissions du présent point sont applicables aux générateurs de chaleur directe.
 
-Les valeurs limites sont exprimées dans les mêmes conditions standards que celles définies au deuxième alinéa du point 6.2.4 de la présente annexe, à l'exception des installations de séchage, pour lesquelles la teneur en oxygène utilisée est la teneur réelle en oxygène des gaz de combustion non dilués par addition d'air non indispensable au procédé.
+Les valeurs limites sont exprimées dans les mêmes conditions standards que celles définies au deuxième alinéa du point 6.2.4 de la présente annexe, à l'exception des installations de séchage ou des fours classés sous la rubrique 2910, pour lesquelles la teneur en oxygène utilisée est la teneur réelle en oxygène des gaz de combustion non dilués par addition d'air non indispensable au procédé.
 
 I. - Les valeurs limites suivantes s'appliquent sous réserve des renvois entre parenthèses :
 
@@ -1464,7 +1490,7 @@ Installation de combustion mise en service avant le 20 décembre 2018 |
 
 NOx : 650 |
 
-II. - Les appareils de combustion respectent une valeur limite en composés organiques volatils (hors méthane) de 150 mg/Nm3 (exprimé en carbone total) si le flux massique horaire dépasse 2 kg/h. Cette valeur ne s'applique pas aux séchoirs de bois.
+II. - Les appareils de combustion respectent une valeur limite en composés organiques volatils (hors méthane) de 150 mg/Nm3 (exprimé en carbone total) si le flux massique horaire dépasse 2 kg/h.
 
 Objet du contrôle :
 
@@ -1550,11 +1576,13 @@ Lorsque les installations visées aux points 6.2.4, 6.2.5 et 6.2.6 de la présen
 
 - anticiper la date d'application de ces valeurs limites ; et/ou
 
-- prévoir une périodicité plus élevée des mesures des émissions atmosphériques prévues au point 6.3 de la présente annexe.
+- prévoir une fréquence plus élevée des mesures des émissions atmosphériques prévues au point 6.3 de la présente annexe.
 
 6.2.10. Conformité aux VLE
 
 En cas de non-respect des valeurs limites d'émission prévues au point 6.2 du présent arrêté, l'exploitant prend les mesures nécessaires pour assurer le rétablissement de la conformité dans les plus brefs délais. L'exploitant conserve un relevé des mesures prises pour rétablir la conformité.
+
+Lorsque l'exploitant n'a pas déféré à une mise en demeure prise en application de l'article L. 171-8 du code de l'environnement, pour non-respect des valeurs limites d'émissions citées aux points 6.2.4,6.2.5,6.2.6 et 6.2.7 de l'annexe I au présent arrêté, il suspend l'exploitation de l'appareil de combustion ne respectant pas les valeurs limites d'émission jusqu'à ce qu'il ait transmis à l'autorité compétente les éléments montrant que l'installation a été rendue conforme aux prescriptions du présent arrêté.
 
 6.3. Mesure périodique de la pollution rejetée
 
@@ -1628,7 +1656,7 @@ d) L'élimination.
 
 L'exploitant traite ou fait traiter les déchets produits dans des conditions propres à garantir les intérêts visés à l'article L. 511-1 du code de l'environnement. Il s'assure que les installations utilisées pour ce traitement sont régulièrement autorisées à cet effet.
 
-Les cendres issues de la combustion de biomasse par voie sèche ou humide sous l'équipement de combustion peuvent être mises sur le marché en application des dispositions des articles L. 255-1 à L. 255-11 du code rural applicables aux matières fertilisantes. Elles disposent alors d'une homologation, d'une autorisation provisoire de vente ou d'une autorisation de distribution pour expérimentation, ou sont conformes à une norme d'application obligatoire.
+Les cendres issues de la combustion de biomasse par voie sèche ou humide sous le foyer, sous le multicyclone ou issues de technologies de combustion par lit fluidisé ouspreader stoker, peuvent être mises sur le marché en application des dispositions des articles L. 255-1 à L. 255-11 du code rural applicables aux matières fertilisantes. Elles disposent alors d'une homologation, d'une autorisation provisoire de vente ou d'une autorisation de distribution pour expérimentation, ou sont conformes à une norme d'application obligatoire.
 
 7.2. Contrôles des circuits
 
@@ -1660,21 +1688,49 @@ Le brûlage des déchets liquides, solides et gazeux à l'air libre est interdit
 
 7.7 Epandage
 
-Les cendres issues de la combustion de biomasse par voie sèche ou humide sous l'équipement de combustion peuvent être épandues, dans la limite d'un volume annuel de 2 000 tonnes/an. L'épandage de tout autre déchet, des eaux résiduaires et des boues est interdit.
+I.- Seules certaines cendres issues de la combustion de biomasse peuvent être épandues :
 
-L'épandage des cendres respecte les dispositions de l'annexe III. Celles-ci peuvent être adaptées par arrêté préfectoral aux circonstances locales.
+- les cendres récupérées par voie sèche ou humide sous le foyer ;
+
+- les cendres récupérées par voie sèche ou humide sous le multicyclone ;
+
+- les cendres volantes issues de technologies de combustion par lit fluidisé ou spreader stoker, qui respectent les critères de retour au sol.
+
+L'épandage de tout autre déchet, des eaux résiduaires et des boues est interdit.
+
+II.- L'épandage des cendres respecte les dispositions de l'annexe III. Celles-ci peuvent être adaptées par arrêté préfectoral aux circonstances locales.
+
+III.- Les dispositions du présent point s'appliquent à compter du 1er septembre 2024.
+
+Pour les installations de combustion qui épandent des cendres sous-multicyclone seules ou en mélange avec des cendres sous-foyer, ou des cendres volantes issues de technologies de combustion par lit fluidisé ou spreader stoker, la fréquence d'analyse des cendres est effectuée par lot de 100 tonnes maximum de cendres sur matières sèches, ou annuellement pour les appareils de combustion dont les tonnages annuels sont inférieurs à 100 tonnes sur matières sèches.
+
+Lorsque la collecte des cendres sous foyer et des cendres sous multi-cyclone se fait séparément, les analyses se font séparément. Dès lors que les résultats d'analyse sont conformes, les cendres peuvent être épandues seules ou en mélange.
+
+Lorsque la collecte des cendres sous foyer et des cendres sous multi-cyclone se fait en mélange, les analyses se font sur le mélange. Dès lors que les résultats d'analyse sont conformes, les cendres peuvent être épandues en mélange.
+
+IV.- Les appareils de combustion de biomasse déclarés avant le 1er janvier 2024, d'une puissance thermique nominale supérieure ou égale à 10 MW, et dont les cendres sous-multicyclone sont épandues, sont dotés, au plus tard le 1er septembre 2024, d'un dispositif permettant de séparer les cendres sous foyer et sous multi-cyclone, sauf impossibilité technique justifiée par l'exploitant.
+
+Les appareils de combustion de biomasse déclarés avant le 1er janvier 2024, d'une puissance thermique nominale inférieure à 10 MW, et dont les cendres sous multicyclone sont épandues, n'ont pas d'obligation de séparer les flux de cendres sous foyer et sous multicyclone.
+
+V.- Les appareils de combustion de biomasse d'une puissance thermique nominale supérieure ou égale à 5 MW dont la déclaration ou la modification de la déclaration est déposée à compter du 1er janvier 2024, et pour lesquels les cendres sous multi-cyclone seront épandues, sont dotés d'un dispositif permettant de séparer les cendres sous foyer et sous-multicyclone.
+
+Les appareils de combustion de biomasse déclarés après le 1er janvier 2024, d'une puissance thermique nominale inférieure à 5 MW, et dont les cendres sous multicyclone sont épandues, n'ont pas d'obligation de séparer les flux de cendres sous foyer et sous multicyclone.
 
 Objet du contrôle :
 
-- présence de l'étude préalable d'épandage contenant l'ensemble des éléments décrits ci-dessus ;
+- présence de l'étude préalable d'épandage contenant l'ensemble des éléments décrits au point B de l'annexe III (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence d'un cahier d'épandage contenant l'ensemble des éléments décrits ci-dessus (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence d'un cahier d'épandage contenant l'ensemble des éléments mentionnés au point F de l'annexe III (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présence des résultats d'analyses de chaque chargement de cendres (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - présence d'échantillon témoin pour chaque chargement ;
 
-- conformité des résultats d'analyses des cendres épandues avec les contraintes fixées ci-dessus (le non-respect de ce point relève d'une non-conformité majeure).
+- conformité des résultats d'analyses des cendres épandues avec les contraintes fixées au point G2 de l'annexe III (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- séparation des cendres sous-foyer et sous multicyclone, selon les dispositions précisées au point 7.7 de l'annexe I au présent arrêté (le non-respect de ce point relève d'une non-conformité majeure) ;
+
+- vérification de la réalisation de mesures de dioxines/ furanes sur les cendres en cas de dépassement dans les fumées (le non-respect de ce point relève d'une non-conformité majeure).
 
 8. Bruit et vibrations
 

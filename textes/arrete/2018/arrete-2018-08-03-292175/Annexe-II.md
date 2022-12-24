@@ -8,7 +8,7 @@ I. - Les dispositions des points 1.1.1, 1.2, 1.3 à 1.4, 3.4, 3.7, 4.4, 5.7, 5.8
 
 II. - Les dispositions des points 3.1 à 3.3, 3.5, 3.8 (sauf pour les installations visées au VI de la présente annexe), 4.1, 4.2, 4.3 (sauf le deuxième alinéa) 4.5, 4.6 (sauf le dernier point) et 4.7 de l'annexe I du présent arrêté sont applicables aux installations existantes, à compter du 1er janvier 1999.
 
-III. - Les dispositions des points 2.7 à 2.9, 2.10 (sauf deuxième et troisième alinéa), 2.13 (sauf deuxième alinéa), 2.14, 2.16 (sauf pour les installations visées au VI de la présente annexe), 5.2,5.3 (si la puissance totale de l'installation est supérieure ou égale à 4 MW), 5.5 (si la puissance totale de l'installation est supérieure ou égale à 4 MW), 5.6, 5.10 premier alinéa (si la puissance totale de l'installation est supérieure ou égale à 4 MW), 6.1, 6.3 et 8.1 à 8.3 (si la puissance totale de l'installation est supérieure ou égale à 4 MW) de l'annexe I du présent arrêté sont applicables aux installations existantes à compter du 1er janvier 2001.
+III. - Les dispositions des points 2.7 à 2.9, 2.10 (sauf deuxième et troisième alinéa), 2.13 (sauf deuxième, troisième, quatrième et cinquième alinéas), 2.14, 2.16 (sauf pour les installations visées au VI de la présente annexe), 5.2,5.3 (si la puissance totale de l'installation est supérieure ou égale à 4 MW), 5.5 (si la puissance totale de l'installation est supérieure ou égale à 4 MW), 5.6, 5.10 premier alinéa (si la puissance totale de l'installation est supérieure ou égale à 4 MW), 6.1, 6.3 et 8.1 à 8.3 (si la puissance totale de l'installation est supérieure ou égale à 4 MW) de l'annexe I du présent arrêté sont applicables aux installations existantes à compter du 1er janvier 2001.
 
 IV. - Les dispositions des points 2.6 (sauf au troisième alinéa), 2.10 troisième alinéa, 8.1 à 8.2 (si la puissance totale de l'installation est inférieure à 4 MW) et 8.4 de l'annexe I du présent arrêté sont applicables aux installations existantes à compter du 1er janvier 2003.
 
@@ -66,7 +66,7 @@ I. - Sans préjudice des dispositions applicables au titre d'autres réglementat
 
 3.1 - 3.2 - 3.3 - 3.8 (sauf pour les installations visées au point C. II de la présente annexe) - 4.1 - 4.2 - 4.3 (sauf le 2e alinéa) - 4.5 - 4.6 - 4.7 - 6.3 - 6.4 |
 
-2.7 - 2.8 - 2.9 - 2.10 (sauf le 2e et le 3e alinéa) - 2.13 (sauf le 2e et le 3e alinéa) - 2.14 - 2.16 (sauf pour les installations visées au point C. II de la présente annexe) - 5.1 - 5.2 - 5.4 - 6.1 - 8.1 - 8.2 - 8.4 |
+2.7 - 2.8 - 2.9 - 2.10 (sauf le 2e et le 3e alinéa) - 2.13 (sauf les 2e, 3e, 4e et 5e alinéas) - 2.14 - 2.16 (sauf pour les installations visées au point C. II de la présente annexe) - 5.1 - 5.2 - 5.4 - 6.1 - 8.1 - 8.2 - 8.4 |
 
 2.6 (sauf le 3e alinéa) - 2.10 (3e alinéa) - 5.5 - 5.9 - 5.10 |
 

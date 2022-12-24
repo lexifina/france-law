@@ -46,9 +46,9 @@ En outre, lorsque les cendres sont épandues sur des pâturages, le flux maximum
 
 Les cendres ne sont pas épandues sur des sols dont le pH avant épandage est inférieur à 6, sauf lorsque les trois conditions suivantes sont simultanément remplies :
 
-- le pH du sol est supérieur à 5 ;
+- le pH du sol est supérieur à 5, ou supérieur ou égal à 4 dans le cas des sols forestiers ;
 
-- la nature des cendres peut contribuer à remonter le pH du sol à une valeur supérieure ou égale à 6 ;
+- la nature des cendres peut contribuer à remonter le pH du sol à une valeur supérieure ou égale à 6 ou supérieure ou égale à 4,5 dans le cas des sols forestiers ;
 
 - le flux cumulé maximum des éléments apportés aux sols est inférieur aux valeurs du tableau 3 ci-dessous.
 
@@ -425,6 +425,18 @@ Zinc |
 Chrome+cuivre+nickel+zinc |
 
 4 |
+
+Dioxines et furanes
+
+La teneur en dioxines/ furanes des cendres est caractérisée dans les cas suivants :
+
+- lors de l'étude préalable à de nouveaux dossiers d'épandage ;
+
+- lors de chaque contrôle réglementaire effectué sur les fumées, des cendres de combustion sont prélevées et conservées dans des conditions permettant de réaliser si besoin des analyses ultérieures.
+
+Si un dépassement du seuil en dioxines et/ ou furanes est observé dans les fumées, alors une analyse en dioxines et/ ou furanes est réalisée à partir du prélèvement des cendres de combustion réalisé lors du contrôle réglementaire effectué sur les fumées. L'épandage des cendres n'est plus autorisé jusqu'à réception des résultats d'analyse en dioxines et/ ou furanes conforme dans les cendres volantes.
+
+Les cendres ne peuvent pas être épandues si leur teneur en dioxines et furanes dépasse 20 ng I-TEQ/ kg de matière sèche.
 
 G.3. - Les méthodes d'échantillonnage et d'analyse sont définies de façon à garantir la représentativité des échantillons prélevés et à assurer la justesse et la traçabilité des résultats.
 

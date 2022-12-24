@@ -36,7 +36,9 @@ Les cendres ne peuvent être épandues :
 
 - dès lors que les teneurs en éléments-traces métalliques dans les sols dépassent l'une des valeurs limites figurant au tableau 2 du point G.2 de la présente annexe ; ou
 
-- dès lors que les teneurs en éléments-traces métalliques ou en composés organiques dans les cendres dépassent l'une des valeurs limites figurant aux tableaux 1 a et 1 b du point G.2 de la présente annexe ; ou
+- dès lors que les teneurs en éléments-traces métalliques ou en composés organiques dans les cendres dépassent l'une des valeurs limites figurant aux tableaux 1 a et 1 b du point G.2 de la présente annexe ;
+
+ou
 
 - dès lors que le flux, cumulé sur une durée de dix ans, apporté par les cendres sur l'un de ces éléments ou composés excède les valeurs limites figurant aux tableaux 1 a et 1 b du point G.2 de la présente annexe.
 
@@ -46,9 +48,9 @@ En outre, lorsque les cendres sont épandues sur des pâturages, le flux maximum
 
 Les cendres ne sont pas épandues sur des sols dont le pH avant épandage est inférieur à 6, sauf lorsque les trois conditions suivantes sont simultanément remplies :
 
-- le pH du sol est supérieur à 5 ;
+- le pH du sol est supérieur à 5, ou supérieur ou égal à 4 dans le cas des sols forestiers ;
 
-- la nature des cendres peut contribuer à remonter le pH du sol à une valeur supérieure ou égale à 6 ;
+- la nature des cendres peut contribuer à remonter le pH du sol à une valeur supérieure ou égale à 6 ou supérieure ou égale à 4,5 dans le cas des sols forestiers ;
 
 - le flux cumulé maximum des éléments apportés aux sols est inférieur aux valeurs du tableau 3 du point G.2 de la présente annexe.
 
@@ -430,6 +432,18 @@ Chrome + cuivre + nickel + zinc |
 
 (*) Pour les pâturages uniquement. |
 
+Dioxines et furanes
+
+La teneur en dioxines/ furanes des cendres est caractérisée dans les cas suivants :
+
+- lors de l'étude préalable à de nouveaux dossiers d'épandage ;
+
+- lors de chaque contrôle réglementaire effectué sur les fumées, des cendres de combustion sont prélevées et conservées dans des conditions permettant de réaliser si besoin des analyses ultérieures ;
+
+Si un dépassement du seuil en dioxines et/ ou furanes est observé dans les fumées, alors une analyse en dioxines/ furanes est réalisée, à partir du prélèvement des cendres de combustion réalisé lors du contrôle réglementaire effectué sur les fumées. L'épandage n'est plus autorisé jusqu'à réception des résultats d'analyse en dioxines et/ ou furanes conforme dans les cendres volantes.
+
+Les cendres ne peuvent pas être épandues si leur teneur en dioxines et furanes dépasse 20 ng I-TEQ/ kg de matière sèche.
+
 G.3. Les méthodes d'échantillonnage et d'analyse sont définies de façon à garantir la représentativité des échantillons prélevés et à assurer la justesse et la traçabilité des résultats.
 
 Les sols sont analysés sur chaque point de référence représentatif de chaque zone homogène :
@@ -449,15 +463,3 @@ Les analyses pour la caractérisation de la valeur agronomique des sols portent 
 - les mêmes paramètres que pour la caractérisation de la valeur agronomique des cendres en remplaçant les éléments concernés par P2O5 échangeable, K2O échangeable, MgO échangeable et CaO échangeable.
 
 Les résultats d'analyses ainsi que les valeurs limites figurant au tableau 2 du G.2 du présent point sont transmis au prêteur de terre dès que les résultats d'analyse sont connus.
-
-Objet du contrôle :
-
-- présence de l'étude préalable d'épandage contenant l'ensemble des éléments décrits ci-dessus ;
-
-- présence d'un cahier d'épandage contenant l'ensemble des éléments décrits ci-dessus (le non-respect de ce point relève d'une non-conformité majeure) ;
-
-- présence des résultats d'analyses de chaque chargement de cendres (le non-respect de ce point relève d'une non-conformité majeure) ;
-
-- présence d'échantillon témoin pour chaque chargement ;
-
-- conformité des résultats d'analyses des cendres épandues avec les contraintes fixées ci-dessus (le non-respect de ce point relève d'une non-conformité majeure).

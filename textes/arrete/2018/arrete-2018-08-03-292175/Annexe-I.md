@@ -1,6 +1,6 @@
 # Article Annexe I
 
-PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE NO 2910
+PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2910
 
 Définitions
 
@@ -30,11 +30,21 @@ b) Les déchets ci-après :
 
 " Cheminée " : une structure contenant une ou plusieurs conduites destinées à rejeter les gaz résiduaires dans l'atmosphère ;
 
+“ Dispositif antipollution secondaire ” ou “ dispositif secondaire de réduction des émissions ” : tout dispositif, ou ensemble de dispositifs, permettant de réduire la pollution en agissant sur les gaz résiduaires ;
+
 " Emission " : le rejet dans l'atmosphère ou dans l'eau de substances provenant d'une installation de combustion ;
 
-" Fioul domestique " : Combustible conforme aux dispositions de l'arrêté du 15 juillet 2010 modifié relatif aux caractéristiques du fioul domestique ;
+" Fioul domestique " :
 
-" Fioul lourd " : Combustible conforme aux dispositions de l'arrêté du 25 avril 2000 relatif aux caractéristiques des fiouls lourds ;
+a) Tout combustible liquide dérivé du pétrole, classé dans la nomenclature combinée NC relative au tarif douanier commun, sous les codes NC 2710 19 25,2710 19 29,2710 19 47,2710 19 48,2710 20 17 ou 2710 20 19 ; ou
+
+b) Tout combustible liquide dérivé du pétrole dont moins de 65 % en volume (pertes comprises) distillent à 250° C et dont au moins 85 % en volume (pertes comprises) distillent à 350° C selon la méthode ASTM D86 ;
+
+" Fioul lourd " :
+
+a) Tout combustible liquide dérivé du pétrole, classé dans la nomenclature combinée NC relative au tarif douanier commun, sous les codes NC 2710 19 51 à 2710 19 68,2710 20 31,2710 20 35 ou 2710 20 39 ; ou
+
+b) Tout combustible liquide dérivé du pétrole, autre que le fioul domestique défini au point ci-dessus, appartenant, du fait de ses limites de distillation, à la catégorie des fiouls lourds destinés à être utilisés comme combustibles et dont moins de 65 % en volume (pertes comprises) distillent à 250° C selon la méthode ASTM D86. Si la distillation ne peut pas être déterminée selon la méthode ASTM D86, le produit pétrolier est également classé dans la catégorie des fiouls lourds ;
 
 " Gaz naturel " : méthane de formation naturelle ayant une teneur maximale de 20 % (en volume) en inertes et autres éléments ;
 
@@ -43,6 +53,8 @@ b) Les déchets ci-après :
 " Heures d'exploitation " : période de temps, exprimée en heures, au cours de laquelle une installation de combustion est en exploitation et rejette des émissions dans l'air, à l'exception des phases de démarrage et d'arrêt ;
 
 " Installation de combustion " : tout groupe d'appareils de combustion exploités par un même exploitant et situés sur un même site (enceinte de l'établissement) sauf à ce que l'exploitant démontre que les appareils ne pourraient pas être techniquement et économiquement raccordés à une cheminée commune. Pour les installations dont la déclaration initiale a été accordée avant le 1er juillet 1987 et pour les installations de puissance inférieure à 2 MW qui ne relevaient pas de la réglementation ICPE avant le 20 décembre 2018, les appareils de combustion non raccordés à une cheminée commune peuvent être considérés de fait comme ne pouvant pas être techniquement et économiquement raccordés à une cheminée commune ;
+
+“ Multicyclone ” : Dispositif antipollution secondaire de réduction des émissions de poussières reposant sur la force centrifuge et permettant de séparer une partie des particules du gaz porteur ;
 
 " Moteur " : un moteur à gaz, un moteur diesel ou un moteur à double combustible ;
 
@@ -114,9 +126,9 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
 
-- les résultats des mesures sur les effluents gazeux et liquides et le bruit, les rapports des visites et un relevé de tout dysfonctionnement ou toute panne du dispositif antipollution secondaire, sur une période d'au moins six ans ;
+- les résultats des mesures sur les effluents gazeux et liquides et le bruit, les rapports des visites et un relevé de tout dysfonctionnement ou toute panne du dispositif antipollution secondaire, pendant une période d'au moins six ans ;
 
-- un relevé des mesures prises en cas de non-respect des valeurs limites d'émission des rejets atmosphériques ;
+- un relevé des mesures prises en cas de non-respect des valeurs limites d'émission des rejets atmosphériques pendant une période d'au moins six ans ;
 
 - les documents prévus aux points 1.1.2, 2.7, 2.16, 3.5, 3.6, 3.7, 3.8, 4.1, 4.2, 4.5, 4.6, 5.1.2, 5.9 et 7.5 ;
 
@@ -124,7 +136,25 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 - l'engagement de l'exploitant à faire fonctionner son ou ses appareils de combustion moins de 500 heures par an, si pertinent ;
 
-- le détail du calcul de la hauteur de cheminée.
+- le détail du calcul de la hauteur de cheminée ;
+
+- un relevé du type et des quantités de combustible utilisé dans l'installation, à conserver pendant une période d'au moins six ans.
+
+Les données transmises par l'exploitant, sur demande du préfet, en vue de l'application de l'article R. 515-116-1 du code de l'environnement, sont les suivantes :
+
+- la preuve du dépôt de la déclaration et les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a ;
+
+- les résultats de la surveillance des rejets atmosphériques de l'installation de combustion et le traitement de ces résultats de manière à permettre la vérification du respect de la valeur limite d'émission ;
+
+- le relevé du bon fonctionnement continu du dispositif antipollution secondaire permettant le respect des valeurs limites d'émission ;
+
+- le relevé du nombre d'heures d'exploitation ;
+
+- le relevé du type et des quantités de combustible utilisé dans l'installation ;
+
+- le relevé de tout dysfonctionnement ou toute panne du dispositif antipollution secondaire ;
+
+- le relevé des cas et des mesures prises en cas de non-respect des valeurs limites d'émission citées aux points 6.2.4,6.2.5 et 6.2.7 de l'annexe I au présent arrêté.
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
@@ -144,11 +174,17 @@ Objet du contrôle :
 
 - présence du nombre d'heures d'exploitation par an ;
 
-- vérification que le nombre d'heures d'exploitation par an est inférieur à 500 heures pour les appareils de combustion pour lesquels l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an (le non-respect de ce point relève d'une non-conformité majeure).
+- vérification que le nombre d'heures d'exploitation par an est inférieur à 500 heures pour les appareils de combustion pour lesquels l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-1.4. Appareils fonctionnant en secours de l'alimentation électrique principale
+- vérification de la présence du relevé du type et des quantités de combustible utilisé dans l'installation.
+
+1.4.1 Appareils fonctionnant en secours de l'alimentation électrique principale
 
 Les dispositions des points 2.3, 2.5, 3.9, 5.2 (deuxième alinéa), 5.9, 5.10 (deuxième alinéa), 6.2.2 A et B, 6.2.3, 6.2.4, 6.2.5, 6.2.6, 6.3, 6.4, 8.3 et 8.4 de la présente annexe ne s'appliquent pas aux appareils de combustion destinés uniquement à alimenter des systèmes de sécurité ou à prendre le relais de l'alimentation principale du site en cas de défaillance accidentelle de celle-ci, et pour lesquelles l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an.
+
+1.4.2. Appareils destinés exclusivement à venir en secours d'une installation de combustion autres que turbines, moteurs, générateurs de chaleur directe
+
+Les dispositions des points 6.2.4 et 6.4 de la présente annexe ne s'appliquent pas aux appareils de combustion destinés exclusivement à venir en secours, en cas de défaillance technique, d'un ou plusieurs appareils de combustion autres que turbines, moteurs, générateurs de chaleur directe et pour lesquels l'exploitant s'est engagé à les faire fonctionner moins de 500 heures par an.
 
 1.5. Installations exploitées dans les zones non-interconnectées
 
@@ -170,9 +206,9 @@ Les appareils de combustion sont implantés de manière à prévenir tout risque
 
 - 10 mètres des limites de propriété et des établissements recevant du public de 1re, 2e, 3e et 4e catégories, des immeubles de grande hauteur, des immeubles habités ou occupés par des tiers et des voies à grande circulation ;
 
-- 10 mètres des installations mettant en œuvre des matières combustibles ou inflammables, y compris les stockages aériens de combustibles liquides ou gazeux destinés à l'alimentation des appareils de combustion présents dans l'installation.
+- 10 mètres des installations mettant en œuvre des matières combustibles ou inflammables, y compris les stockages aériens de combustibles liquides ou gazeux destinés à l'alimentation des appareils de combustion présents dans l'installation. Cette disposition n'est pas applicable aux réservoirs internes équipant certains appareils et nécessaires à leur fonctionnement.
 
-A défaut de satisfaire à cette obligation d'éloignement lors de la mise en service des appareils de combustion, les locaux abritant l'installation respectent les dispositions du deuxième alinéa du point 2.4.2 de la présente annexe.
+Lors de la mise en service des appareils de combustion, si l'implantation des appareils ne respecte pas ces dispositions d'éloignement, les appareils sont abrités dans des locaux respectant les dispositions du deuxième alinéa du point 2.4.2 de la présente annexe.
 
 Les appareils de combustion destinés à la production d'énergie (tels que les chaudières, les turbines ou les moteurs, associés ou non à une postcombustion), sont implantés, sauf nécessité d'exploitation justifiée par l'exploitant, dans un local uniquement réservé à cet usage et répondant aux règles d'implantation ci-dessus.
 
@@ -262,7 +298,7 @@ Sans préjudice des dispositions du code du travail, les locaux sont convenablem
 
 La ventilation assure en permanence, y compris en cas d'arrêt de l'équipement, notamment en cas de mise en sécurité de l'installation, un balayage de l'atmosphère du local, compatible avec le bon fonctionnement des appareils de combustion, au moyen d'ouvertures en parties haute et basse permettant une circulation efficace de l'air ou par tout autre moyen équivalent.
 
-Le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur, et à une hauteur suffisante compte tenu de la hauteur des bâtiments environnants afin de favoriser la dispersion des gaz rejetés et au minimum à 1 mètre au-dessus du faîtage.
+En cas de ventilation mécanique, le débouché à l'atmosphère de la ventilation est placé aussi loin que possible des immeubles habités ou occupés par des tiers et des bouches d'aspiration d'air extérieur, et à une hauteur suffisante compte tenu de la hauteur des bâtiments environnants afin de favoriser la dispersion des gaz rejetés et au minimum à 1 mètre au-dessus du faîtage.
 
 Objet du contrôle :
 
@@ -354,7 +390,7 @@ Des dispositifs permettant l'obturation des réseaux d'évacuation des eaux de r
 
 Les réseaux d'alimentation en combustible sont conçus et réalisés de manière à réduire les risques en cas de fuite, notamment dans des espaces confinés. Les canalisations sont en tant que de besoin protégées contre les agressions extérieures (corrosion, choc, température excessive…) et repérées par les couleurs normalisées.
 
-Un dispositif de coupure, indépendant de tout équipement de régulation de débit, est placé à l'extérieur des bâtiments s'il y en a, pour permettre d'interrompre l'alimentation en combustible des appareils de combustion. Ce dispositif, clairement repéré et indiqué dans des consignes d'exploitation, est placé :
+Un dispositif de coupure, indépendant de tout équipement de régulation de débit, est placé à l'extérieur des bâtiments ou du local s'il y en a, pour permettre d'interrompre l'alimentation en combustible des appareils de combustion. Ce dispositif, clairement repéré et indiqué dans des consignes d'exploitation, est placé :
 
 - dans un endroit accessible rapidement et en toutes circonstances ;
 
@@ -362,7 +398,7 @@ Un dispositif de coupure, indépendant de tout équipement de régulation de dé
 
 Il est parfaitement signalé, maintenu en bon état de fonctionnement et comporte une indication du sens de la manœuvre ainsi que le repérage des positions ouverte et fermée.
 
-Dans les installations alimentées en combustibles gazeux, la coupure de l'alimentation de gaz est assurée par deux vannes automatiques (1) redondantes, placées en série sur la conduite d'alimentation en gaz. Ces vannes sont asservies chacune à des capteurs de détection de gaz (2) et un pressostat (3). Ces vannes assurent la fermeture de l'alimentation en combustible gazeux lorsqu'une fuite de gaz est détectée.
+Dans les installations alimentées en combustibles gazeux, la coupure de l'alimentation de gaz est assurée par deux vannes automatiques (1) redondantes, placées en série sur la conduite d'alimentation en gaz. Ces vannes sont asservies chacune à des capteurs de détection de gaz (2) et un pressostat (3). Ces vannes assurent la fermeture de l'alimentation en combustible gazeux lorsqu'une fuite de gaz est détectée. Ce dispositif vient s'ajouter au dispositif de coupure générale.
 
 Toute la chaîne de coupure automatique (détection, transmission du signal, fermeture de l'alimentation de gaz) est testée périodiquement. La position ouverte ou fermée de ces organes est clairement identifiable par le personnel d'exploitation.
 
@@ -380,7 +416,7 @@ Objet du contrôle :
 
 - présence d'un dispositif de coupure, indépendant de tout équipement de régulation de débit (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- positionnement du dispositif de coupure à l'extérieur des bâtiments et en aval du poste de livraison et/ou du stockage du combustible (le non-respect de ce point relève d'une non-conformité majeure) ;
+- positionnement du dispositif de coupure à l'extérieur des bâtiments ou du local abritant l'installation de combustion et en aval du poste de livraison et/ou du stockage du combustible (le non-respect de ce point relève d'une non-conformité majeure) ;
 
 - accessibilité du dispositif de coupure ;
 
@@ -424,21 +460,27 @@ Objet du contrôle :
 
 2.16. Détection de gaz. - Détection d'incendie
 
-Un dispositif de détection de gaz, déclenchant, selon une procédure préétablie, une alarme en cas de dépassement des seuils de danger, est mis en place dans les installations utilisant un combustible gazeux, exploitées sans surveillance permanente ou bien implantées en sous-sol. Ce dispositif coupe l'arrivée du combustible et interrompt l'alimentation électrique, à l'exception de l'alimentation des matériels et des équipements destinés à fonctionner en atmosphère explosive, de l'alimentation en très basse tension et de l'éclairage de secours, sans que cette manœuvre puisse provoquer d'arc ou d'étincelle pouvant déclencher une explosion. Un dispositif de détection d'incendie équipe les installations implantées en sous-sol.
+Un dispositif de détection de gaz, déclenchant, selon une procédure préétablie, une alarme en cas de dépassement des seuils de danger, est mis en place dans les installations utilisant un combustible gazeux, exploitées sans surveillance permanente ou bien implantées en sous-sol. Ce dispositif coupe l'arrivée du combustible et interrompt l'alimentation électrique, à l'exception de l'alimentation des matériels et des équipements destinés à fonctionner en atmosphère explosive, de l'alimentation en très basse tension et de l'éclairage de secours, sans que cette manœuvre puisse provoquer d'arc ou d'étincelle pouvant déclencher une explosion.
 
-L'emplacement des détecteurs est déterminé par l'exploitant en fonction des risques de fuite et d'incendie. Leur situation est repérée sur un plan. Ils sont contrôlés régulièrement et les résultats de ces contrôles sont consignés par écrit. La fiabilité des détecteurs est adaptée aux exigences du point 2.13 de la présente annexe. Des étalonnages sont régulièrement effectués.
-
-Toute détection de gaz, au-delà de 60 % de la LIE, conduit à la mise en sécurité de toute installation susceptible d'être en contact avec l'atmosphère explosive, sauf les matériels et équipements dont le fonctionnement pourrait être maintenu conformément aux dispositions prévues au point 2.7 de la présente annexe.
+Toute détection de gaz, au-delà de 30 % de la LIE, conduit à la mise en sécurité de toute installation susceptible d'être en contact avec l'atmosphère explosive, sauf les matériels et équipements dont le fonctionnement pourrait être maintenu conformément aux dispositions prévues au point 2.7 de la présente annexe.
 
 Cette mise en sécurité est prévue dans les consignes d'exploitation.
+
+Pour les installations dont le dossier de déclaration est antérieur au 1er mars 2023, la disposition concernant la LIE de 30 % s'applique à compter du 1er janvier 2024.
+
+Un dispositif de détection automatique d'incendie équipe les locaux abritant tout type d'installation de combustion ou directement l'appareil de combustion, comme mentionné au point 4.2 de la présente annexe.
+
+Pour les installations dont le dossier de déclaration est antérieur au 1er mars 2023, et qui ne sont pas situées en sous-sol, la détection automatique d'incendie s'applique à compter du 1er juillet 2024.
+
+L'emplacement des détecteurs est déterminé par l'exploitant en fonction des risques de fuite et d'incendie. Leur situation est repérée sur un plan. Ils sont contrôlés régulièrement et les résultats de ces contrôles sont consignés par écrit. La fiabilité des détecteurs est adaptée aux exigences du point 2.13 de la présente annexe. Des étalonnages sont régulièrement effectués.
 
 Objet du contrôle :
 
 - pour les installations utilisant un combustible gazeux, exploitées sans surveillance permanente ou implantées en sous-sol, présence d'un dispositif de détection de gaz possédant les critères décrits ci-dessus (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- pour les installations implantées en sous-sol, présence d'un dispositif de détection d'incendie (le non-respect de ce point relève d'une non-conformité majeure) ;
+- pour les locaux abritant une installation de combustion, présence d'un dispositif de détection d'incendie dans les locaux ou sur l'appareil de combustion (le non-respect de ce point relève d'une non-conformité majeure) ;
 
-- présence d'un plan repérant ce dispositif ;
+- présence d'un plan repérant ce ou ces dispositif (s) ;
 
 - présence des résultats de contrôles des dispositifs de détection d'incendie.
 
@@ -466,6 +508,8 @@ Objet du contrôle :
 
 - présence et lisibilité des noms des produits et symboles de danger sur les fûts, réservoirs et emballages.
 
+Les fûts, réservoirs et autres emballages portent en caractères très lisibles le nom des produits et, s'il y a lieu, les symboles de danger conformément à la réglementation relative à l'étiquetage des substances et mélanges chimiques dangereux.
+
 3.4. Propreté
 
 Les locaux sont maintenus propres et régulièrement nettoyés, notamment de manière à éviter les amas de matières dangereuses ou polluantes et de poussières. Le matériel de nettoyage est adapté aux risques présentés par les produits et poussières.
@@ -473,6 +517,8 @@ Les locaux sont maintenus propres et régulièrement nettoyés, notamment de man
 3.5. Etat des stocks des produits
 
 L'exploitant tient à jour un registre indiquant la nature et la quantité des produits dangereux détenus et de combustibles consommés, auquel est annexé un plan général des stockages. Ce registre est tenu à la disposition de l'inspection des installations classées et des services d'incendie et de secours.
+
+Les matières dangereuses non nécessaires à l'exploitation ne sont pas stockées dans les locaux abritant les appareils de combustion.
 
 Objet du contrôle :
 
@@ -484,7 +530,9 @@ Objet du contrôle :
 
 - adéquation entre la nature du combustible déclaré et le combustible utilisé le jour du contrôle ;
 
-- présence du plan général des stockages : absence de matières dangereuses non nécessaires à l'exploitation à l'intérieur des locaux abritant des appareils de combustion.
+- présence du plan général des stockages ;
+
+- absence de matières dangereuses non nécessaires à l'exploitation à l'intérieur des locaux abritant des appareils de combustion.
 
 3.6. Consignes d'exploitation
 
@@ -580,7 +628,7 @@ Les locaux visés au premier alinéa du point 2.4.2 sont équipés de moyens de 
 
 - de plans des locaux facilitant l'intervention des services d'incendie et de secours, avec une description des dangers pour chaque local ;
 
-- d'un système de détection automatique d'incendie.
+- d'un système de détection automatique d'incendie comme mentionné au point 2.16 de la présente annexe.
 
 Ces moyens peuvent être complétés en fonction des dangers présentés et de la ressource en eau disponible :
 
@@ -596,9 +644,7 @@ Objet du contrôle :
 
 - présence d'un moyen d'alerte des services d'incendie et de secours ;
 
-- présence d'un système de détection automatique d'incendie ;
-
-- présence et implantation des appareils d'incendie (bouches poteaux) (le non-respect de ce point relève d'une non-conformité majeure) ;
+- présence et implantation des appareils d'incendie (bouches poteaux) (le cas échéant) ;
 
 - présence et implantation d'un extincteur par appareil de combustion (avec un maximum exigible de deux extincteurs)
 
@@ -725,8 +771,6 @@ Les points de rejet des eaux résiduaires sont en nombre aussi réduit que possi
 Objet du contrôle :
 
 - vérification que le réseau de collecte est de type séparatif ;
-
-- vérification que les eaux pluviales collectées sont traitées par un dispositif adéquat avant rejet ;
 
 - présentation des fiches de suivi du nettoyage des équipements ;
 
