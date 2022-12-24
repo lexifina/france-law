@@ -16,253 +16,129 @@ d'emplois
 
 |
 
-13
+13 |
 
-|
+Préfecture des Bouches-du-Rhône |
 
-Préfecture des Bouches-du-Rhône
+Garage de la préfecture |
 
-|
+1 |
 
-Garage de la préfecture
+Résidence du préfet |
 
-|
+1 |
 
-1
+21 |
 
-|
+Préfecture de la Côte-d'Or |
 
-Résidence du préfet
+Résidence du préfet |
 
-|
+1 |
 
-1
+33 |
 
-|
+Préfecture de la Gironde |
 
-21
+Garage de la préfecture |
 
-|
+1 |
 
-Préfecture de la Côte-d'Or
+Service intérieur |
 
-|
+1 |
 
-Résidence du préfet
+37 |
 
-|
+Préfecture d'Indre-et-Loire |
 
-1
+Service intérieur |
 
-|
+1 |
 
-33
+41 |
 
-|
+Préfecture de Loir-et-Cher |
 
-Préfecture de la Gironde
+Service intérieur |
 
-|
+1 |
 
-Garage de la préfecture
+59 |
 
-|
+Préfecture du Nord |
 
-1
+Garage de la préfecture |
 
-|
+1 |
 
-Service intérieur
+Résidence du préfet |
 
-|
+1 |
 
-1
+66 |
 
-|
+Préfecture des Pyrénées-Orientales |
 
-37
+Garage de la préfecture |
 
-|
+1 |
 
-Préfecture d'Indre-et-Loire
+67 |
 
-|
+Préfecture du Bas-Rhin |
 
-Service intérieur
+Résidence du préfet |
 
-|
+1 |
 
-1
+69 |
 
-|
+Préfecture du Rhône |
 
-41
+Garage de la préfecture |
 
-|
+1 |
 
-Préfecture de Loir-et-Cher
+Résidence du préfet |
 
-|
+1 |
 
-Service intérieur
+81 |
 
-|
+Préfecture du Tarn |
 
-1
+Service intérieur |
 
-|
+1 |
 
-59
+87 |
 
-|
+Préfecture de la Haute-Vienne |
 
-Préfecture du Nord
+Service intérieur |
 
-|
+1 |
 
-Garage de la préfecture
+93 |
 
-|
+Préfecture de la Seine-Saint-Denis |
 
-1
+Service intérieur |
 
-|
+1 |
 
-Résidence du préfet
+Garage de la préfecture |
 
-|
+1 |
 
-1
+974 |
 
-|
+Préfecture de La Réunion |
 
-66
+Résidence du préfet |
 
-|
-
-Préfecture des Pyrénées-Orientales
-
-|
-
-Garage de la préfecture
-
-|
-
-1
-
-|
-
-67
-
-|
-
-Préfecture du Bas-Rhin
-
-|
-
-Résidence du préfet
-
-|
-
-1
-
-|
-
-69
-
-|
-
-Préfecture du Rhône
-
-|
-
-Garage de la préfecture
-
-|
-
-1
-
-|
-
-Résidence du préfet
-
-|
-
-1
-
-|
-
-81
-
-|
-
-Préfecture du Tarn
-
-|
-
-Service intérieur
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Préfecture de la Haute-Vienne
-
-|
-
-Service intérieur
-
-|
-
-1
-
-|
-
-93
-
-|
-
-Préfecture de la Seine-Saint-Denis
-
-|
-
-Service intérieur
-
-|
-
-1
-
-|
-
-Garage de la préfecture
-
-|
-
-1
-
-|
-
-974
-
-|
-
-Préfecture de La Réunion
-
-|
-
-Résidence du préfet
-
-|
-
-1
-
-|
+1 |
 
 Périmètre secrétariats généraux pour l'administration du ministère de l'intérieur (SGAMI)
 
@@ -280,181 +156,85 @@ d'emplois
 
 |
 
-06
+06 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud-Nice |
 
-SGAMI de la zone de défense et de sécurité Sud-Nice
+Atelier du BMM |
 
-|
+1 |
 
-Atelier du BMM
+13 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud-Marseille |
 
-1
+Atelier mécanique |
 
-|
+1 |
 
-13
+13 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud-Marseille-BMM |
 
-SGAMI de la zone de défense et de sécurité Sud-Marseille
+Atelier carrosserie-peinture |
 
-|
+1 |
 
-Atelier mécanique
+34 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud-Montpellier |
 
-1
+Atelier mécanique |
 
-|
+1 |
 
-13
+33 |
 
-|
+SGAMI de la zone de défense et de sécurité Sud-Ouest |
 
-SGAMI de la zone de défense et de sécurité Sud-Marseille-BMM
+Atelier carrosserie peinture |
 
-|
+1 |
 
-Atelier carrosserie-peinture
+77 |
 
-|
+Zone de défense et de sécurité IdF-Melun |
 
-1
+Atelier avancé |
 
-|
+1 |
 
-34
+78 |
 
-|
+Zone de défense et de sécurité IdF-atelier du Chesnay |
 
-SGAMI de la zone de défense et de sécurité Sud-Montpellier
+Centre de soutien automobile |
 
-|
+1 |
 
-Atelier mécanique
+78 |
 
-|
+Zone de défense et de sécurité IdF |
 
-1
+Atelier mécanique |
 
-|
+1 |
 
-33
+95 |
 
-|
+Zone de défense et de sécurité IdF-Taverny |
 
-SGAMI de la zone de défense et de sécurité Sud-Ouest
+Atelier avancé |
 
-|
+1 |
 
-Atelier carrosserie peinture
+75 |
 
-|
+Zone de défense et de sécurité IdF-préfecture de police |
 
-1
+Direction de l'innovation, de la logistique et des technologies |
 
-|
-
-77
-
-|
-
-Zone de défense et de sécurité IdF-Melun
-
-|
-
-Atelier avancé
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Zone de défense et de sécurité IdF-atelier du Chesnay
-
-|
-
-Centre de soutien automobile
-
-|
-
-1
-
-|
-
-78
-
-|
-
-Zone de défense et de sécurité IdF
-
-|
-
-Atelier mécanique
-
-|
-
-1
-
-|
-
-95
-
-|
-
-Zone de défense et de sécurité IdF-Taverny
-
-|
-
-Atelier avancé
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IdF-préfecture de police
-
-|
-
-Direction opérationnelle des services techniques et logistiques
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Zone de défense et de sécurité IdF-préfecture de police
-
-|
-
-Direction opérationnelle des services techniques et logistiques
-
-|
-
-1
-
-|
+2 |
 
 Périmètre gendarmerie nationale
 
@@ -472,21 +252,29 @@ d'emplois
 
 |
 
-29
+03 |
 
-|
+Ecole de gendarmerie Montluçon-cercle mixte |
 
-Ecole de gendarmerie de Châteaulin
+Service de restauration |
 
-|
+1 |
 
-Service de restauration
+29 |
 
-|
+Ecole de gendarmerie de Châteaulin-cercle mixte |
 
-1
+Service de restauration |
 
-|
+1 |
+
+75 |
+
+Garde républicaine-cercle mixte Tournon |
+
+Service de restauration |
+
+1 |
 
 Périmètre sécurité civile
 
@@ -504,21 +292,13 @@ d'emplois
 
 |
 
-57
+13 |
 
-|
+Direction générale de la sécurité civile et de la gestion des crises |
 
-Direction de la sécurité civile
+Etablissement de soutien opérationnel et logistique Sud |
 
-|
-
-Etablissement de soutien opérationnel et logistique Sud
-
-|
-
-1
-
-|
+1 |
 
 Périmètre de l'administration centrale
 
@@ -536,96 +316,26 @@ d'emplois
 
 |
 
-75
+75 |
 
-|
+Direction de l'évaluation de la performance, de l'achat, des finances et de l'immobilier |
 
-Direction de la programmation, des affaires financières et de l'immobilier Beauvau
+Bureau de la gestion des sites d'administration centrale |
 
-|
+4 |
 
-Bureau de la gestion des sites d'administration centrale
+87 |
 
-|
+Direction générale de la police nationale Limoges |
 
-1
+Etablissement central logistique de la police nationale |
 
-|
+1 |
 
-75
+87 |
 
-|
+Direction du numérique Limoges |
 
-Direction de la programmation, des affaires financières et de l'immobilier Beauvau
-
-|
-
-Bureau de la gestion des sites d'administration centrale
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Direction de la programmation, des affaires financières et de l'immobilier Beauvau
-
-|
-
-Bureau de la gestion des sites d'administration centrale
-
-|
-
-1
-
-|
-
-75
-
-|
-
-Direction de la programmation, des affaires financières et de l'immobilier Beauvau
-
-|
-
-Bureau de la gestion des sites d'administration centrale
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Direction générale de la police nationale Limoges
-
-|
-
-Etablissement central logistique de la police nationale
-
-|
-
-1
-
-|
-
-87
-
-|
-
-Direction des systèmes d'information et de communication Limoges
-
-|
-
-Centre national de production des titres
-
-|
+Centre national de production des titres |
 
 1 |
