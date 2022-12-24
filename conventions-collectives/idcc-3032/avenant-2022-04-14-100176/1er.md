@@ -1,0 +1,37 @@
+# Article 1er
+
+« Article 8
+
+Rupture du contrat de travail
+
+1.   Démission
+
+La rupture du contrat de travail à l'initiative du salarié fera l'objet d'une notification écrite par lettre recommandée avec avis de réception.
+
+La période de préavis est, sauf dispositions particulières, fixée comme suit :
+
+– pour le personnel ayant moins de 6 mois d'ancienneté dans l'entreprise, à 1 semaine ;
+
+– pour le personnel ayant au moins 6 mois d'ancienneté, à 1 mois.
+
+Dans le cas de l'inobservation du délai-congé par le salarié démissionnaire, celui-ci pourra être condamné par une décision de justice à une indemnité correspondant aux heures de travail qu'il aurait dû effectuer.
+
+2. Licenciement
+
+Avant de procéder à un licenciement individuel, l'employeur s'entourera des avis et informations susceptibles de le guider dans sa décision. Après la période d'essai il y aura lieu d'appliquer la procédure légale.
+
+La période de préavis est, sauf dispositions plus favorables, fixée comme suit :
+
+–   pour le personnel ayant moins de 6 mois d'ancienneté dans l'entreprise, à 1 semaine ;
+
+–   pour le personnel ayant de 6 mois à 2 ans d'ancienneté, à 1 mois ;
+
+–   pour le personnel ayant au moins 2 ans d'ancienneté dans l'entreprise, à 2 mois.
+
+Dans le cas où l'employeur décidera de ne pas faire effectuer tout ou partie du préavis par le salarié, celui-ci recevra une indemnité égale à la rémunération qu'il aurait perçue pendant la durée du préavis restant à courir s'il avait travaillé.
+
+Dans le cadre d'un licenciement, les salariés sont autorisés, pendant la période de préavis, à s'absenter pour rechercher un emploi pendant un nombre d'heures égal, par mois de préavis, à la durée hebdomadaire du travail du salarié dans l'établissement. En cas de période de préavis inférieure à un mois, l'autorisation d'absence est de deux heures par jour sans diminution de salaire.
+
+Les absences seront fixées un jour au gré du salarié, un jour au gré de l'employeur. Si les parties y consentent, ces heures d'absence pourront être groupées en partie ou en totalité.
+
+Les indemnités de licenciements seront conformes aux dispositions légales en vigueur. »
