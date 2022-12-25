@@ -2,6 +2,492 @@
 
 ZONES DE PÊCHE ÉTABLIE ET MODALITÉS D'EXPLOITATION
 
-Les zones de pêche établie sont délimitées par les points géographiques figurant dans la présente annexe, reliés par ordre alphabétique :
+Les zones de pêche établie sont délimitées par les points géographiques figurant dans la présente annexe, reliés par ordre alphabétique. Une zone tampon d'une largeur de 1 mille nautique, adjacente aux ZEE nationales, est créée en zone 1b et en zone 6. Toute action de pêche, de filage ou de virage dans ces zones tampons est interdite.
 
-Vous pouvez consulter l'intégralité du texte avec ses images à partir de l'extrait du Journal officiel électronique authentifié accessible à l'adresse suivante Légifrance - Publications officielles - Journal officiel - JORF n° 0271 du 21/11/2021 (legifrance.gouv.fr)
+Zone 1 |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+1. A |
+
+43° 42 ʹ 11S ʺ |
+
+41° 30 ʹ 47 ʺ E |
+
+1. B |
+
+43° 53 ʹ 06 ʺ S |
+
+41° 13 ʹ 49 ʺ E |
+
+1. C |
+
+43° 52 ʹ 54 ʺ S |
+
+40° 52 ʹ 08 ʺ E |
+
+1. D |
+
+43° 40 ʹ 42 ʺ S |
+
+40° 43 ʹ 08 ʺ E |
+
+1. E |
+
+43° 18 ʹ 54 ʺ S |
+
+40° 34 ʹ 14 ʺ E |
+
+1. F |
+
+41° 37 ʹ 18 ʺ S |
+
+41° 09 ʹ 49 ʺ E |
+
+1. G |
+
+39° 49 ʹ 47 ʺ S |
+
+42° 42 ʹ 33 ʺ E |
+
+1. H |
+
+39° 50 ʹ 48 ʺ S |
+
+42° 59 ʹ 06 ʺ E |
+
+1. I |
+
+39° 54 ʹ 45 ʺ S |
+
+43° 05 ʹ 05 ʺ E |
+
+1. J |
+
+41° 33 ʹ 07 ʺ S |
+
+43° 39 ʹ 27 ʺ E |
+
+1. K |
+
+42° 47 ʹ 40 ʺ S |
+
+42° 49 ʹ 58 ʺ E |
+
+1. L |
+
+43° 42 ʹ 11 ʺ S |
+
+41° 30 ʹ 47 ʺ E |
+
+Zone 1b |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+1b. A |
+
+45° 00 ʹ 00 ʺ S |
+
+42° 15 ʹ 19 ʺ E |
+
+1b. B |
+
+44° 53 ʹ 44 ʺ S |
+
+42° 14 ʹ 06 ʺ E |
+
+1b. C |
+
+44° 41 ʹ 57 ʺ S |
+
+42° 19 ʹ 40 ʺ E |
+
+1b. D |
+
+43° 54 ʹ 09 ʺ S |
+
+44° 37 ʹ 35 ʺ E |
+
+1b. E |
+
+44° 10 ʹ 03 ʺ S |
+
+46° 05 ʹ 50 ʺ E |
+
+1b. F |
+
+44° 19 ʹ 49 ʺ S |
+
+46° 07 ʹ 52 ʺ E |
+
+1b. G |
+
+44° 24 ʹ 37 ʺ S |
+
+46° 03 ʹ 39 ʺ E |
+
+1b. H |
+
+44° 30 ʹ 49 ʺ S |
+
+45° 58 ʹ 31 ʺ E |
+
+1b. I |
+
+44° 37 ʹ 51 ʺ S |
+
+45° 53 ʹ 11 ʺ E |
+
+1b. J |
+
+44° 45 ʹ 01 ʺ S |
+
+45° 48 ʹ 13 ʺ E |
+
+1b. K |
+
+44° 52 ʹ 19 ʺ S |
+
+45° 43 ʹ 38 ʺ E |
+
+1b. L |
+
+45° 00 ʹ 00 ʺ S |
+
+45° 39 ʹ 19 ʺ E |
+
+1b. M |
+
+45° 00 ʹ 00 ʺ S |
+
+42° 15 ʹ 19 ʺ E |
+
+Zone 2 |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+2. A |
+
+34° 41 ʹ 09 ʺ S |
+
+46° 21 ʹ 21 ʺ E |
+
+2. B |
+
+35° 15 ʹ 15 ʺ S |
+
+44° 11 ʹ 32 ʺ E |
+
+2. C |
+
+34° 40 ʹ 07 ʺ S |
+
+43° 07 ʹ 12 ʺ E |
+
+2. D |
+
+33° 46 ʹ 23 ʺ S |
+
+42° 58 ʹ 45 ʺ E |
+
+2. E |
+
+32° 58 ʹ 28 ʺ S |
+
+43° 43 ʹ 52 ʺ E |
+
+2. F |
+
+32° 48 ʹ 32 ʺ S |
+
+46° 08 ʹ 49 ʺ E |
+
+2. G |
+
+34° 41 ʹ 09 ʺ S |
+
+46° 21 ʹ 21 ʺ E |
+
+Zone 3 |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+3. A |
+
+38° 06 ʹ 40 ʺ S |
+
+52° 21 ʹ 51 ʺ E |
+
+3. B |
+
+38° 40 ʹ 57 ʺ S |
+
+46° 40 ʹ 12 ʺ E |
+
+3. C |
+
+38° 32 ʹ 37 ʺ S |
+
+46° 32 ʹ 24 ʺ E |
+
+3. D |
+
+38° 19 ʹ 39 ʺ S |
+
+46° 33 ʹ 44 ʺ E |
+
+3. E |
+
+36° 37 ʹ 46 ʺ S |
+
+51° 56 ʹ 53 ʺ E |
+
+3. F |
+
+34° 50 ʹ 60 ʺ S |
+
+52° 51 ʹ 24 ʺ E |
+
+3. G |
+
+32° 25 ʹ 54 ʺ S |
+
+57° 19 ʹ 33 ʺ E |
+
+3. H |
+
+32° 34 ʹ 19 ʺ S |
+
+57° 30 ʹ 60 ʺ E |
+
+3. I |
+
+32° 47 ʹ 27 ʺ S |
+
+57° 30 ʹ 31 ʺ E |
+
+3. J |
+
+38° 06 ʹ 40 ʺ S |
+
+52° 21 ʹ 51 ʺ E |
+
+Zone 4 |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+4. A |
+
+32° 10 ʹ 18 ʺ S |
+
+86° 10 ʹ 01 ʺ E |
+
+4. B |
+
+32° 40 ʹ 42 ʺ S |
+
+83° 48 ʹ 46 ʺ E |
+
+4. C |
+
+32° 27 ʹ 01 ʺ S |
+
+83° 37 ʹ 49 ʺ E |
+
+4. D |
+
+27° 07 ʹ 41 ʺ S |
+
+87° 12 ʹ 28 ʺ E |
+
+4. E |
+
+27° 05 ʹ 13 ʺ S |
+
+87° 22 ʹ 07 ʺ E |
+
+4. F |
+
+27° 11 ʹ 33 ʺ S |
+
+87° 33 ʹ 09 ʺ E |
+
+4. G |
+
+29° 50 ʹ 43 ʺ S |
+
+87° 32 ʹ 19 ʺ E |
+
+4. H |
+
+32° 10 ʹ 18 ʺ S |
+
+86° 10 ʹ 01 ʺ E |
+
+Zone 5 |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+5. A |
+
+31° 58 ʹ 06 ʺ S |
+
+97° 22 ʹ 23 ʺ E |
+
+5. B |
+
+32° 02 ʹ 20 ʺ S |
+
+97° 27 ʹ 20 ʺ E |
+
+5. C |
+
+32° 09 ʹ 34 ʺ S |
+
+97° 29 ʹ 01 ʺ E |
+
+5. D |
+
+32° 17 ʹ 10 ʺ S |
+
+97° 26 ʹ 31 ʺ E |
+
+5. E |
+
+32° 20 ʹ 57 ʺ S |
+
+97° 19 ʹ 23 ʺ E |
+
+5. F |
+
+32° 13 ʹ 55 ʺ S |
+
+96° 14 ʹ 13 ʺ E |
+
+5. G |
+
+31° 17 ʹ 34 ʺ S |
+
+93° 29 ʹ 21 ʺ E |
+
+5. H |
+
+31° 04 ʹ 52 ʺ S |
+
+93° 19 ʹ 17 ʺ E |
+
+5. I |
+
+30° 57 ʹ 19 ʺ S |
+
+93° 20 ʹ 04 ʺ E |
+
+5. J |
+
+30° 49 ʹ 45 ʺ S |
+
+93° 25 ʹ 59 ʺ E |
+
+5. K |
+
+30° 50 ʹ 40 ʺ S |
+
+93° 43 ʹ 31 ʺ E |
+
+5. L |
+
+31° 06 ʹ 02 ʺ S |
+
+94° 44 ʹ 46 ʺ E |
+
+5. M |
+
+31° 58 ʹ 06 ʺ S |
+
+97° 22 ʹ 23 ʺ E |
+
+Zone 6 |
+
+Point |
+
+Latitude |
+
+Longitude |
+
+6. A |
+
+11° 13 ʹ 53 ʺ S |
+
+62° 02 ʹ 56 ʺ E |
+
+6. B |
+
+13° 22 ʹ 23 ʺ S |
+
+61° 20 ʹ 04 ʺ E |
+
+6. C |
+
+13° 06 ʹ 56 ʺ S |
+
+60° 46 ʹ 24 ʺ E |
+
+6. D |
+
+12° 57 ʹ 36 ʺ S |
+
+60° 24 ʹ 41 ʺ E |
+
+6. E |
+
+8° 17 ʹ 56 ʺ S |
+
+59° 57 ʹ 48 ʺ E |
+
+6. F |
+
+8° 10 ʹ 01 ʺ S |
+
+60° 02 ʹ 02 ʺ E |
+
+6. G |
+
+8° 07 ʹ 34 ʺ S |
+
+60° 12 ʹ 48 ʺ E |
+
+6. H |
+
+8° 14 ʹ 03 ʺ S |
+
+60° 20 ʹ 25 ʺ E |
+
+6. I |
+
+11° 13 ʹ 53 ʺ S |
+
+62° 02 ʹ 56 ʺ E |

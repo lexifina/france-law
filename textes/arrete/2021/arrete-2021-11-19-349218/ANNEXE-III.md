@@ -20,7 +20,7 @@ c) A l'issue de chaque marée, un tableau récapitulatif précisant les quantit�
 
 a) Le carnet statistique de pêche, rempli quotidiennement sous la responsabilité du capitaine. Toute rature ou modification doit être paraphée par l'observateur de pêche, et
 
-b) Les informations prévues aux annexes A, B et C de la mesure 2021/02 de l'APSOI relative à la collecte, le rapportage, la vérification et l'échange de données.
+b) Les informations prévues aux annexes A, B et C de la mesure 2022/02 de l'APSOI relative à la collecte, le rapportage, la vérification et l'échange de données.
 
 Modèle de programme des marées de l'armement
 

@@ -2,7 +2,7 @@
 
 RAPPORT MENSUEL DES CAPTURES DE LÉGINE ET NOTIFICATION DE PERTE D'ENGINS
 
-Conformément à l'article 7 du présent arrêté, l'administration des TAAF transmet à la DPMA les volumes de capture de légine du mois précédent lorsque ceux-ci sont fiabilisés à la suite de la débarque, ainsi que les éventuelles notifications de perte d'engins. Elle utilise pour ce faire les modèles suivants. La DPMA transmet le rapport mensuel de capture ainsi que la notification de perte d'engins au secrétariat de l'APSOI ( mcs@siofa.org).
+Conformément à l'article 7 du présent arrêté, l'administration des TAAF transmet à la DG AMPA les volumes de capture de légine du mois précédent lorsque ceux-ci sont fiabilisés à la suite de la débarque, ainsi que les éventuelles notifications de perte d'engins. Elle utilise pour ce faire les modèles suivants. La DG AMPA transmet le rapport mensuel de capture ainsi que la notification de perte d'engins au secrétariat de l'APSOI ( mcs@siofa.org).
 
 Modèle de rapport mensuel de captures de légine
 

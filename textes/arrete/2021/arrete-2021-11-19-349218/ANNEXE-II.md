@@ -162,4 +162,4 @@ Signature et cachet du demandeur
 
 Les demandes d'autorisation de pêche sont transmises par lettre recommandée avec accusé de réception à l'adresse indiquée ci-dessous :
 
-Monsieur le directeur des pêches maritimes et de l'aquaculture, direction des pêches maritimes et de l'aquaculture, tour Séquoia, place Carpeaux, 92055 La Défense Cedex
+Monsieur le directeur général des affaires maritimes, de la pêche et de l'aquaculture, direction générale des affaires maritimes, de la pêche et de l'aquaculture, tour Séquoia, place Carpeaux, 92055 La Défense Cedex

@@ -30,7 +30,7 @@ Les frais de fonction et d'embarquement de l'observateur scientifique sont à la
 
 La fonction d'observateur scientifique est d'observer et de déclarer les activités de pêche dans la zone de haute mer concernée par l'Accord relatif aux pêches du sud de l'océan Indien, en tenant compte des objectifs de préservation de l'écosystème dans lequel se déroule la pêcherie.
 
-Pour remplir cette fonction, l'observateur à bord entreprend les tâches suivantes, en se servant des formulaires d'observation, qui respectent les exigences de déclaration décrites dans les annexes A et B de la CMM 2021/02 :
+Pour remplir cette fonction, l'observateur à bord entreprend les tâches suivantes, en se servant des formulaires d'observation, qui respectent les exigences de déclaration décrites dans les annexes A et B de la mesure 2022/02 :
 
 a) Reporter les informations détaillant les caractéristiques du navire et des engins de pêche embarqués ;
 
@@ -42,11 +42,11 @@ d) Reporter les captures de légines marquées (par ex. position, date et heure 
 
 e) Conserver la totalité des spécimens d'invertébrés marins benthiques capturés et les faire parvenir par colisage au MNHN (cette action de collecte exhaustive à des fins scientifiques ne se limite pas aux seuls organismes appartenant aux taxons indicateurs des Ecosystèmes Marins Vulnérables ni aux seules sections de ligne échantillonnées dans le cadre de l'application de la mesure de conservation décrite en Annexe VI) ;
 
-f) Concernant les captures de légines, marquer selon le protocole de marquage de la CCAMLR au minimum 5 poissons par tonne de légine brute capturée en respectant le ratio de cohérence statistique prévu par l'APSOI pour la taille des individus marqués ;
+f) Concernant les captures de légines, marquer selon le protocole de marquage de l'APSOI au minimum 5 poissons par tonne de légine brute capturée en respectant le ratio de cohérence statistique prévu par l'APSOI pour la taille des individus marqués ;
 
 g) Observer 25 % des hameçons remontés de chaque palangre (par ex. comptages espèces cibles et accessoires, report des prises accidentelles, …) ;
 
-h) Enregistrer les observations et interactions concernant les oiseaux, tortues marines et mammifères marins, notamment leur présence à proximité du navire de pêche, leur enchevêtrement dans des débris et leur mortalité accidentelle. Les interactions avec les mammifères marins sont documentées conformément au protocole présenté à l'annexe E de la CMM 2021/02 ;
+h) Enregistrer les observations et interactions concernant les oiseaux, tortues marines et mammifères marins, notamment leur présence à proximité du navire de pêche, leur enchevêtrement dans des débris et leur mortalité accidentelle. Les interactions avec les mammifères marins sont documentées conformément au protocole présenté à l'annexe E de la mesure 2022/02 ;
 
 i) Relever la procédure par laquelle le poids de la capture est mesuré et collecter les données liées au coefficient de transformation entre le poids vif et chaque produit final si l'enregistrement de la capture est effectué en poids du produit traité ;
 
@@ -64,7 +64,7 @@ Il est important de pouvoir faire la distinction entre les données collectées 
 
 4. Confidentialité
 
-L'observateur scientifique ne doit divulguer à quiconque, excepté au MNHN, à la DPMA ou à l'administration des TAAF, aucune preuve ou observation (verbale ou écrite) obtenue à bord d'un navire, ni aucune observation effectuée dans l'usine de traitement, notamment concernant des données ou des informations sensibles sur le plan commercial qui seraient spécifiques au navire, à la pêche, au traitement ou au marché.
+L'observateur scientifique ne doit divulguer à quiconque, excepté au MNHN, à la DG AMPA ou à l'administration des TAAF, aucune preuve ou observation (verbale ou écrite) obtenue à bord d'un navire, ni aucune observation effectuée dans l'usine de traitement, notamment concernant des données ou des informations sensibles sur le plan commercial qui seraient spécifiques au navire, à la pêche, au traitement ou au marché.
 
 5. Priorités de recherche identifiées dans le cadre de la pêcherie à la palangre de la légine australe (Dissostichus eleginoides) en zone APSOI
 

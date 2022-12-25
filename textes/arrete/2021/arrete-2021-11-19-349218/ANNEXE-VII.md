@@ -8,7 +8,7 @@ Les capitaines doivent respecter les règles suivantes :
 
 a) Dans la zone de pêche établie :
 
-- interdiction stricte de pêche à une profondeur comprise entre 0 et 500 m, sauf autorisation de la DPMA sur avis conforme du MNHN ;
+- interdiction stricte de pêche à une profondeur comprise entre 0 et 500 m, sauf autorisation de la DG AMPA sur avis conforme du MNHN ;
 
 - en cas de constatation de l'observateur scientifique à bord, lors de l'observation d'une ligne, que celle-ci présente un nombre de petites légines australes (poissons de taille inférieure à 60 cm) supérieur à 10 % du total des prises, obligation de s'éloigner à l'issue du virage de la ligne de plus de 2,5 milles nautiques de la zone de filage, ou sonder à plus de 100 mètres par rapport à la sonde maximale de filage initial ;
 
