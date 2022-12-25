@@ -80,7 +80,7 @@ L'habilitation porte sur les examens et contrôles périodiques des conteneurs.
 
 L'habilitation porte sur les examens et contrôles périodiques des conteneurs.
 
--L'Association des Contrôleurs Indépendants (A.C.I.) :
+-L'Agence de Contrôle Indépendante (A.C.I.) :
 
 L'habilitation porte sur :
 
