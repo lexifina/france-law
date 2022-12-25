@@ -200,103 +200,91 @@ Si mon ménage comporte plusieurs foyers fiscaux et que les pièces justificativ
 
 Tableau A
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
+Plafonds de revenus du ménage en Île-de-France (€) |
 
-Plafonds de revenus
-
-du ménage en Ile-de-France (€) |
-
-Plafonds de revenus
-
-du ménage pour les autres régions (€) |
+Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-21 123 |
+22 461 |
 
-15 262 |
+16 229 |
 
 2 |
 
-31 003 |
+32 967 |
 
-22 320 |
+23 734 |
 
 3 |
 
-37 232 |
+39 591 |
 
-26 844 |
+28 545 |
 
 4 |
 
-43 472 |
+46 226 |
 
-31 359 |
+33 346 |
 
 5 |
 
-49 736 |
+52 886 |
 
-35 894 |
+38 168 |
 
 Par personne supplémentaire |
 
-6 253 |
+6 650 |
 
-4 526 |
+4 813 |
 
 Tableau B
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
+Plafonds de revenus du ménage en Île-de-France (€) |
 
-Plafonds de revenus
-
-du ménage en Ile-de-France (€) |
-
-Plafonds de revenus
-
-du ménage pour les autres régions (€) |
+Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-25 714 |
+27 343 |
 
-19 565 |
+20 805 |
 
 2 |
 
-37 739 |
+40 130 |
 
-28 614 |
+30 427 |
 
 3 |
 
-45 326 |
+48 197 |
 
-34 411 |
+36 591 |
 
 4 |
 
-52 925 |
+56 277 |
 
-40 201 |
+42 748 |
 
 5 |
 
-60 546 |
+64 380 |
 
-46 015 |
+48 930 |
 
 Par personne supplémentaire |
 
-7 613 |
+8 097 |
 
-5 797 |
+6 165 |
 
 Fait à.
 
@@ -518,103 +506,91 @@ Nota.-Ne sont comptabilisés que les ménages pour lesquels au moins une pièce 
 
 Tableau A
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
+Plafonds de revenus du ménage en Île-de-France (€) |
 
-Plafonds de revenus
-
-du ménage en Ile-de-France (€) |
-
-Plafonds de revenus
-
-du ménage pour les autres régions (€) |
+Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-21 123 |
+22 461 |
 
-15 262 |
+16 229 |
 
 2 |
 
-31 003 |
+32 967 |
 
-22 320 |
+23 734 |
 
 3 |
 
-37 232 |
+39 591 |
 
-26 844 |
+28 545 |
 
 4 |
 
-43 472 |
+46 226 |
 
-31 359 |
+33 346 |
 
 5 |
 
-49 736 |
+52 886 |
 
-35 894 |
+38 168 |
 
 Par personne supplémentaire |
 
-6 253 |
+6 650 |
 
-4 526 |
+4 813 |
 
 Tableau B
 
-Nombre de personnes
+Nombre de personnes composant le ménage |
 
-composant le ménage |
+Plafonds de revenus du ménage en Île-de-France (€) |
 
-Plafonds de revenus
-
-du ménage en Ile-de-France (€) |
-
-Plafonds de revenus
-
-du ménage pour les autres régions (€) |
+Plafonds de revenus du ménage pour les autres régions (€) |
 
 1 |
 
-25 714 |
+27 343 |
 
-19 565 |
+20 805 |
 
 2 |
 
-37 739 |
+40 130 |
 
-28 614 |
+30 427 |
 
 3 |
 
-45 326 |
+48 197 |
 
-34 411 |
+36 591 |
 
 4 |
 
-52 925 |
+56 277 |
 
-40 201 |
+42 748 |
 
 5 |
 
-60 546 |
+64 380 |
 
-46 015 |
+48 930 |
 
 Par personne supplémentaire |
 
-7 613 |
+8 097 |
 
-5 797 |
+6 165 |
 
 Liste des ménages bénéficiant de l'opération et dont les revenus sont inférieurs aux plafonds du tableau B ci-dessus (une ligne par ménage) :
 
@@ -710,4 +686,4 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait : 1° D'é
 
 NOTA :
 
-Conformément à l’article 3 de l’arrêté du 24 mars 2022 (NOR : TRER2208352A), les présentes dispositions sont applicables aux opérations engagées à compter du 1er avril 2022. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant l'entrée en vigueur du présent arrêté peuvent être utilisées pour les opérations engagées avant le 1er juillet 2022.
+Conformément à l’article 3 de l’arrêté du 20 décembre 2022 (NOR : ENER2234956A), ces dispositions s'appliquent aux opérations engagées à compter du 1er janvier 2023. Toutefois, les attestations sur l'honneur conformes à la réglementation applicable avant le 1er janvier 2023 peuvent être utilisées pour les opérations engagées avant le 1er juillet 2023.
