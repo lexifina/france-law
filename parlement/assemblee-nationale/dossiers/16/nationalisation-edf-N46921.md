@@ -1,0 +1,78 @@
+# Proposition de loi visant à la nationalisation du groupe Électricité de France
+
+- Procédure : Proposition de loi ordinaire
+- Législature : 16
+- Identifiant : DLR5L16N46921
+- Assemblée nationale : https://www.assemblee-nationale.fr/dyn/16/dossiers/nationalisation_EDF
+- Sénat : http://www.senat.fr/dossier-legislatif/ppl22-341.html
+
+## Étapes
+
+- 1ère lecture (1ère assemblée saisie)
+  - 2022-12-27 : 1er dépôt d'une initiative. (PIONANR5L16B0671)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2022-12-27 : Renvoi en commission au fond
+      - 2023-01-18 : Nomination de rapporteur
+      - 2023-01-18 : Réunion de commission
+      - 2023-02-01 : Réunion de commission
+      - 2023-02-08 : Réunion de commission
+      - 2023-02-01 : Dépôt de rapport (RAPPANR5L16B0808, PIONANR5L16BTC0808)
+  - Discussion en séance publique
+    - 2023-02-09 : Discussion en séance publique
+    - 2023-02-09 : Décision
+- 1ère lecture (2ème assemblée saisie)
+  - 2023-02-09 : Dépôt d'une initiative en navette (PIONSNR5S399B0341)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-02-09 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2023-03-29 : Dépôt de rapport (RAPPSNR5S399B0464, PIONSNR5S399BTC0465)
+  - Discussion en séance publique
+    - 2023-04-06 : Discussion en séance publique
+    - 2023-04-06 : Décision
+- deuxième lecture
+  - 2023-04-06 : Dépôt d'une initiative en navette (PIONANR5L16B1076)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-04-06 : Renvoi en commission au fond
+      - 2023-04-05 : Nomination de rapporteur
+      - 2023-04-05 : Réunion de commission
+      - 2023-05-03 : Réunion de commission
+      - 2023-04-12 : Dépôt de rapport (RAPPANR5L16B1090, PIONANR5L16BTC1090)
+  - Discussion en séance publique
+    - 2023-05-04 : Discussion en séance publique
+    - 2023-05-04 : Discussion en séance publique
+    - 2023-05-04 : Décision
+- deuxième lecture
+  - 2023-05-04 : Dépôt d'une initiative en navette (PIONSNR5S399B0579)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2023-05-04 : Renvoi en commission au fond
+      - Nomination de rapporteur
+      - 2024-01-17 : Dépôt de rapport (RAPPSNR5S419B0247, PIONSNR5S419BTC0248)
+  - Discussion en séance publique
+    - 2024-01-24 : Discussion en séance publique
+    - 2024-01-24 : Décision
+- troisième lecture
+  - 2024-01-24 : Dépôt d'une initiative en navette (PIONANR5L16B2115)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-01-24 : Renvoi en commission au fond
+      - 2024-02-14 : Réunion de commission
+      - 2024-02-29 : Réunion de commission
+      - 2024-02-14 : Dépôt de rapport (RAPPANR5L16B2201, PIONANR5L16BTC2201)
+  - Discussion en séance publique
+    - 2024-02-29 : Discussion en séance publique
+    - 2024-02-29 : Décision
+- troisième lecture
+  - 2024-02-29 : Dépôt d'une initiative en navette (PIONSNR5S419B0370)
+  - Travaux des commissions
+    - Travaux de la commission saisie au fond
+      - 2024-02-29 : Renvoi en commission au fond
+      - 2024-03-27 : Dépôt de rapport (RAPPSNR5S419B0472, PIONSNR5S419BTC0473)
+  - Discussion en séance publique
+    - 2024-04-03 : Discussion en séance publique
+    - 2024-04-03 : Décision
+- Promulgation de la loi
+  - 2024-04-11 : Promulgation d'une loi
