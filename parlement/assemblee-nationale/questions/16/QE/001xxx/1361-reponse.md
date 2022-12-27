@@ -1,0 +1,9 @@
+# Réponse à la question n° 1361
+
+- Question : [1361](1361.md) — Question n° 1361 — Meilleure reconnaissance des assistants de régulation médicale
+
+## Réponse
+
+*JO du 2022-12-27, page 6703*
+
+Acteur essentiel de la chaîne des secours, les assistants de régulation médicale (ARM) sont les premières personnes qui répondent lorsqu'on compose le n° 15. L'ARM exerce dans les services d'aide médicale urgente (SAMU - centres-15) et les services d'accès aux soins (SAS) et est ainsi le premier interlocuteur de tout appelant en cas d'urgence médicale ou de besoin de soins non programmés. Pour renforcer la qualité de la régulation médicale au sein des centres régulant les appels d'urgence médicale (SAMU - centres 15), une formation diplômante est désormais obligatoire pour exercer la profession d'assistant de régulation médicale. Pour cela, le ministère a mis en place dès 2019 une offre de formation pour répondre aux besoins des professionnels à former et répartie de manière équilibrée sur l'ensemble du territoire. Cette nouvelle certification marque la volonté de sécuriser la régulation médicale avec des professionnels assistants disposant d'une formation identique et renforcée et de valoriser leurs compétences. Afin de reconnaître la montée en compétences des assistants de régulation médicale, à la suite de la création du diplôme, ces derniers bénéficient d'une prime d'assistance à la régulation médicale d'un montant de 118 € net mensuel depuis le mois de novembre 2019. La profession d'assistant de régulation médicale a fait l'objet d'une attention particulière dans le cadre des accords du Ségur de la santé signés en juillet 2020 et de leur mise en œuvre. Ainsi, les assistants de régulation médicale exerçant au sein des établissements éligibles (les établissements de santé par exemple) bénéficient d'une revalorisation socle de 183 € net mensuel depuis le 1er septembre 2020.
