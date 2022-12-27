@@ -1,0 +1,9 @@
+# Réponse à la question n° 1660
+
+- Question : [1660](1660.md) — Question n° 1660 — Inapplicabilité de l'article 145 de la loi « Climat et Résilience »
+
+## Réponse
+
+*JO du 2022-12-27, page 6732*
+
+L'article 145 de la loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets prévoit l'interdiction de « toutes les liaisons aériennes à l'intérieur du territoire français dont le trajet est également assuré sur le réseau ferré national sans correspondance et par plusieurs liaisons quotidiennes d'une durée inférieure à deux heures trente ». La France est le seul pays du monde ayant adopté une législation concernant la substitution modale air-fer. Pour que l'article 145 entre en vigueur, un décret doit notamment fixer les conditions dans lesquelles la durée de deux heures trente doit être appréciée, et dans lesquelles les services assurant majoritairement le transport de passagers en correspondance ainsi que les vols décarbonés peuvent déroger à l'interdiction. Conformément au droit européen, la France a soumis un projet de décret à la Commission européenne et aux États membres, le 17 novembre 2021. La Commission a décidé, le 15 décembre 2021, de suspendre son adoption et de consacrer un examen approfondi à ses implications au regard de la liberté de prestation de services qui régit le marché intérieur de l'aviation ainsi que du droit de la concurrence. À la suite de cet examen, un nouveau projet a été adressé par la France 21 juin 2022 à la Commission européenne. Le 28 octobre, les États membres ont émis un avis largement favorable à un projet de décision validant cette mesure. La décision positive rendue le 1er décembre dernier par la Commission ouvre la voie au lancement d'une consultation publique sur le projet de décret, conformément au code de l'environnement, avant son examen par le Conseil d'État puis son adoption.
