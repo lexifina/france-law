@@ -1,0 +1,9 @@
+# Réponse à la question n° 1375
+
+- Question : [1375](1375.md) — Question n° 1375 — Rapport relatif aux mutualisations de services
+
+## Réponse
+
+*JO du 2022-12-27, page 6671*
+
+La loi n° 2010-1563 du 16 décembre 2010 a créé l'article L. 5211-39-1 du CGCT, entré en vigueur au moment des élections municipales et communautaires suivantes en 2014. Aux termes de ce texte, le président d'un établissement public de coopération intercommunale (EPCI) à fiscalité propre devait établir, dans l'année qui suit le renouvellement de l'organe délibérant, un rapport relatif aux mutualisations de services entre les services de l'EPCI à fiscalité propre et ceux des communes membres, comportant un projet de schéma de mutualisation des services à mettre en oeuvre pendant la durée du mandat. La loi n° 2019-1461 du 27 décembre 2019 relative à l'engagement dans la vie locale et à la proximité de l'action publique a, toutefois, rendu l'élaboration de ce rapport facultative. De plus, le juge administratif a considéré que, dans la mesure où il se borne à définir des objectifs et des orientations à mettre en œuvre pendant la durée du mandat sans avoir d'effets juridiques, le projet de schéma de mutualisation ne peut faire l'objet d'un recours contentieux (TA Dijon, 18 déc. 2019, n° 1901046). Ainsi, étant donné que l'élaboration de ce schéma n'est pas obligatoire et qu'il ne peut pas faire l'objet d'un recours, son élaboration tardive n'emportera aucune conséquence juridique. Néanmoins, le schéma de mutualisation des services a vocation à être mis en oeuvre pendant la durée du mandat. L'article L.5211-39-1 précité précise d'ailleurs que l'avancement de sa réalisation doit faire l'objet d'une communication du président de l'EPCI à fiscalité propre à son organe délibérant chaque année. C'est pourquoi il semble plus pertinent de réaliser ce document en début de mandat.
