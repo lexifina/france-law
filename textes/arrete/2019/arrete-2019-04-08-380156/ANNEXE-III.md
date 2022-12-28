@@ -4,7 +4,7 @@
 
 Affectée d'un coefficient 1, la note de sport est calculée à partir des notes obtenues aux trois épreuves de sport définies ci-dessous en fonction des coefficients propres à chacune.
 
-Cette note est éliminatoire si elle est inférieure à 6 sur 20. Pour chaque épreuve de sport la note est éliminatoire si elle est inférieure à 6 sur 20.
+Cette note est éliminatoire si elle est inférieure à 6 sur 20.
 
 Les épreuves de sport sont effectuées dans l'ordre suivant :
 
@@ -342,4 +342,4 @@ Nota.-En cas de performance intermédiaire, la note à attribuer est celle qui c
 
 NOTA :
 
-Conformément à l'article 4 de l'arrêté du 25 mars 2021 modifiant l'arrêté du 8 avril 2019 relatif au recrutement des sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale, ces dispositions sont applicables à compter du recrutement organisé au titre de la session de septembre 2021.
+Conformément à l’article 2 de l’arrêté du 23 décembre 2022 (NOR : IOMJ2235884A), ces dispositions sont applicables à compter du recrutement organisé au titre de la session de février 2023.
